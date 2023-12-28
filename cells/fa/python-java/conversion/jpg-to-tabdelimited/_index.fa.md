@@ -1,7 +1,7 @@
 ---
-title: Python JPG به TABDELIMITED - تبدیل آنلاین JPG به TABDELIMITED
-description: Aspose اکسل. Python Aspose.Cells. Python Aspose Cells. رایگان آنلاین Python تبدیل JPG به TABDELIMITED ذخیره فرمت. Python فرمت JPG تا TABDELIMITED. JPG را در TABDELIMITED Python ذخیره کنید.
-keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python JPG to TABDELIMITED saveformat., Free Online JPG to TABDELIMITED Python., Python Convert JPG to TABDELIMITED]
+title: Python JPG به TABDELIMITED - تبدیل JPG به TABDELIMITED
+description: Aspose اکسل. Python Aspose.Cells. JPG به TABDELIMITED در Python. Python تبدیل JPG به TABDELIMITED ذخیره فرمت. Python فرمت JPG به TABDELIMITED. JPG را در TABDELIMITED Python ذخیره کنید.
+keywords: [Aspose Excel., Python Aspose.Cells., JPG to TABDELIMITED in Python., Python JPG to TABDELIMITED saveformat., JPG to TABDELIMITED Python., Python Convert JPG to TABDELIMITED]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="تبدیل JPG به TABDELIMITED در Python" h2="کتابخانه پرسرعت Python برای تبدیل JPG به TABDELIMITED. این یک راه حل نرم افزاری حرفه ای برای وارد کردن و صادرات JPG، TABDELIMITED و بسیاری از فرمت های دیگر با استفاده از Python است." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="TABDELIMITED" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,11 +12,11 @@ keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python JPG
 
 {{% blocks/products/pf/agp/content h2="با استفاده از Python JPG را به TABDELIMITED تبدیل کنید" %}}
 
- چگونه JPG را به TABDELIMITED تبدیل کنم؟ با کتابخانه Aspose.Cells for Python به راحتی می توانید JPG را به صورت برنامه نویسی و با چند خط کد به TABDELIMITED تبدیل کنید.[Aspose.Cells for Python](https://pypi.org/project/aspose-cells)قادر به ساخت برنامه های چند پلتفرمی با قابلیت تولید، تغییر، تبدیل، رندر و چاپ تمام فایل های اکسل است. Python اکسل API نه تنها بین فرمت های صفحه گسترده تبدیل می کند، بلکه می تواند فایل های اکسل را به صورت تصویر رندر کند. انتخاب عالی برای تبادل اسناد در استانداردهای صنعتی فرمت ها
+ چگونه JPG را به TABDELIMITED تبدیل کنم؟ با کتابخانه Aspose.Cells for Python به راحتی می توانید JPG را به صورت برنامه نویسی و با چند خط کد به TABDELIMITED تبدیل کنید.[Aspose.Cells for Python](https://pypi.org/project/aspose-cells)قادر به ساخت برنامه های چند پلتفرمی با قابلیت تولید، تغییر، تبدیل، رندر و چاپ تمام فایل های اکسل است. Python اکسل API نه تنها بین فرمت های صفحه گسترده تبدیل می شود، بلکه می تواند فایل های اکسل را به صورت تصویر، PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT و موارد دیگر ارائه دهد، بنابراین آن را به گزینه ای عالی برای تبادل اسناد در قالب های استاندارد صنعتی تبدیل می کند.
  
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="JPG را در TABDELIMITED در Python آنلاین به صورت رایگان ذخیره کنید" %}}
+{{% blocks/products/pf/agp/content h2="JPG را در TABDELIMITED در Python ذخیره کنید" %}}
 
 مثال زیر نحوه تبدیل JPG به TABDELIMITED را در Python نشان می دهد.
 {{% blocks/products/pf/agp/text %}}
@@ -27,7 +27,7 @@ keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python JPG
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="برنامه رایگان و کد نمونه برای تبدیل JPG به TABDELIMITED آنلاین" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="jpg" outformat="tsv" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="کد نمونه برای تبدیل JPG به TABDELIMITED" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="jpg" outformat="tsv" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="نحوه تبدیل JPG به TABDELIMITED از طریق Python" %}}
 
@@ -63,12 +63,12 @@ keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python JPG
 
 {{% blocks/products/pf/agp/text %}}
 
-Aspose.Cells for Python via Java مستقل از پلتفرم API است و می تواند در هر پلتفرمی (Windows، لینوکس و MacOS) استفاده شود، فقط مطمئن شوید که سیستم دارای Java 1.8 یا بالاتر است،[Python](https://www.python.org/downloads/) 3.5 یا بالاتر
+ Aspose.Cells for Python via Java مستقل از پلتفرم API است و می تواند در هر پلتفرمی (Windows، لینوکس و MacOS) استفاده شود، فقط مطمئن شوید که سیستم دارای Java 1.8 یا بالاتر است،[Python](https://www.python.org/downloads/) 3.5 یا بالاتر
  
 {{% /blocks/products/pf/agp/text %}}
 
 -  Java را نصب کنید و آن را به متغیر محیطی PATH اضافه کنید، به عنوان مثال:<code>PATH=C:\Program Files\Java\jdk1.8.0_131;</code>.
-- Aspose.Cells for Python را نصب کنید<a href="https://pypi.org/project/aspose-cells/">pypi</a> ، از دستور به صورت زیر استفاده کنید:<code>$ pip install aspose-cells</code>.
+-  Aspose.Cells for Python را نصب کنید<a href="https://pypi.org/project/aspose-cells/">pypi</a> ، از دستور به صورت زیر استفاده کنید:<code>$ pip install aspose-cells</code>.
 
 {{% /blocks/products/pf/agp/content %}}
 

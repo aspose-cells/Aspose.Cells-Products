@@ -1,8 +1,8 @@
 ---
 title: XLTX را با JSON ادغام کنید - XLTX را با JSON در Java ترکیب کنید
 url: /fa/java/merger/merge-xltx-to-json/ 
-description: Aspose اکسل. Java Aspose.Cells. ادغام آنلاین رایگان XLTX به JSON ذخیره فرمت. Java XLTX را با فرمت JSON ترکیب کنید. ادغام XLTX به JSON در Java. XLTX ادغام.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge XLTX to JSON in Java., Free Online Java Merge XLTX to json., Java Combine XLTX to JSON Online for Free., XLTX Merge]
+description: Aspose اکسل. Java Aspose.Cells. ادغام XLTX به JSON ذخیره فرمت. Java XLTX را با فرمت JSON ترکیب کنید. ادغام XLTX به JSON در Java. XLTX ادغام.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge XLTX to JSON in Java., Java Merge XLTX to json., Java Combine XLTX to JSON., XLTX Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="XLTX را با JSON via Java ادغام کنید" h2="کتابخانه پرسرعت Java برای ادغام XLTX به JSON. از تبدیل اکسل ما API برای توسعه نرم افزار سطح بالا و مستقل از پلتفرم در Java استفاده کنید. این یک راه حل حرفه ای نرم افزاری برای وارد کردن و صادرات بسیاری از فرمت های excel53481، و صادرات 07134343481 است." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="XLTX" additionalConversionTag="JSON" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Merge XLTX to JSON in Java., Free 
 
 {{% blocks/products/pf/agp/content h2="ادغام XLTX به JSON با استفاده از Java" %}}
 
- چگونه XLTX را با JSON ادغام کنم؟ با کتابخانه Aspose.Cells for Java می توانید به راحتی با چند خط کد XLTX را به JSON ادغام کنید.[Aspose.Cells for Java](https://products.aspose.com/cells/java) قادر به ساخت برنامه های چند پلتفرمی با قابلیت تولید، تغییر، تبدیل، رندر و چاپ تمام فایل های اکسل است. Java اکسل API نه تنها بین فرمت های صفحه گسترده تبدیل می کند، بلکه می تواند فایل های اکسل را به صورت تصویر رندر کند. انتخاب عالی برای تبادل اسناد در استانداردهای صنعتی فرمت ها آخرین نسخه آن را می توانید مستقیماً از اینجا دانلود کنید[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) و با افزودن تنظیمات زیر به pom.xml آن را در پروژه مبتنی بر Maven خود نصب کنید.
+ چگونه XLTX را با JSON ادغام کنم؟ با کتابخانه Aspose.Cells for Java می توانید به راحتی با چند خط کد XLTX را به JSON ادغام کنید.[Aspose.Cells for Java](https://products.aspose.com/cells/java)قادر به ساخت برنامه های چند پلتفرمی با قابلیت تولید، تغییر، تبدیل، رندر و چاپ تمام فایل های اکسل است. Java اکسل API نه تنها بین فرمت های صفحه گسترده تبدیل می شود، بلکه می تواند فایل های اکسل را به صورت تصویر، PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT و موارد دیگر ارائه دهد، بنابراین آن را به گزینه ای عالی برای تبادل اسناد در قالب های استاندارد صنعتی تبدیل می کند. آخرین نسخه آن را می توانید مستقیماً از اینجا دانلود کنید[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) و با افزودن تنظیمات زیر به pom.xml آن را در پروژه مبتنی بر Maven خود نصب کنید.
 
 {{% blocks/products/pf/agp/code-block title="مخزن" offSpacer="true" %}}
 
@@ -45,7 +45,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Merge XLTX to JSON in Java., Free 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="ادغام XLTX به JSON در Java آنلاین به صورت رایگان" %}}
+{{% blocks/products/pf/agp/content h2="XLTX را با JSON در Java ادغام کنید" %}}
 
 مثال زیر نحوه ادغام XLTX با JSON را در Aspose.Cells for Java نشان می دهد.
 {{% blocks/products/pf/agp/text %}}
@@ -56,7 +56,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Merge XLTX to JSON in Java., Free 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="آنلاین رایگان برای ادغام XLTX با JSON در Java" InputFormat="xltx" InputFormat2="json" outformat="json" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="java" %}}
+{{% cells-merger title="نمونه کد ادغام XLTX به JSON در Java" InputFormat="xltx" InputFormat2="json" outformat="json" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="نحوه ادغام XLTX به JSON via Java" %}}
 

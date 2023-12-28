@@ -1,8 +1,8 @@
 ---
 title: TXT را با XLAM ادغام کنید - TXT را با XLAM در Java ترکیب کنید
 url: /fa/java/merger/merge-txt-to-xlam/ 
-description: Aspose اکسل. Java Aspose.Cells. ادغام آنلاین رایگان TXT به XLAM ذخیره فرمت. Java TXT را با فرمت XLAM ترکیب کنید. ادغام TXT به XLAM در Java. TXT ادغام.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge TXT to XLAM in Java., Free Online Java Merge TXT to xlam., Java Combine TXT to XLAM Online for Free., TXT Merge]
+description: Aspose اکسل. Java Aspose.Cells. ادغام TXT به XLAM ذخیره فرمت. Java TXT را با فرمت XLAM ترکیب کنید. ادغام TXT به XLAM در Java. TXT ادغام.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge TXT to XLAM in Java., Java Merge TXT to xlam., Java Combine TXT to XLAM., TXT Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="TXT را با XLAM via Java ادغام کنید" h2="کتابخانه پرسرعت Java برای ادغام TXT به XLAM. از تبدیل اکسل ما API برای توسعه نرم افزار سطح بالا و مستقل از پلتفرم در Java استفاده کنید. این یک راه حل حرفه ای نرم افزاری برای وارد کردن و صادرات بسیاری از فرمت های excel53481، و صادرات 07134343481 است." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="TXT" additionalConversionTag="XLAM" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Merge TXT to XLAM in Java., Free O
 
 {{% blocks/products/pf/agp/content h2="ادغام TXT به XLAM با استفاده از Java" %}}
 
- چگونه TXT را با XLAM ادغام کنم؟ با کتابخانه Aspose.Cells for Java می توانید به راحتی با چند خط کد TXT را به XLAM ادغام کنید.[Aspose.Cells for Java](https://products.aspose.com/cells/java) قادر به ساخت برنامه های چند پلتفرمی با قابلیت تولید، تغییر، تبدیل، رندر و چاپ تمام فایل های اکسل است. Java اکسل API نه تنها بین فرمت های صفحه گسترده تبدیل می کند، بلکه می تواند فایل های اکسل را به صورت تصویر رندر کند. انتخاب عالی برای تبادل اسناد در استانداردهای صنعتی فرمت ها آخرین نسخه آن را می توانید مستقیماً از اینجا دانلود کنید[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) و با افزودن تنظیمات زیر به pom.xml آن را در پروژه مبتنی بر Maven خود نصب کنید.
+ چگونه TXT را با XLAM ادغام کنم؟ با کتابخانه Aspose.Cells for Java می توانید به راحتی با چند خط کد TXT را به XLAM ادغام کنید.[Aspose.Cells for Java](https://products.aspose.com/cells/java)قادر به ساخت برنامه های چند پلتفرمی با قابلیت تولید، تغییر، تبدیل، رندر و چاپ تمام فایل های اکسل است. Java اکسل API نه تنها بین فرمت های صفحه گسترده تبدیل می شود، بلکه می تواند فایل های اکسل را به صورت تصویر، PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT و موارد دیگر ارائه دهد، بنابراین آن را به گزینه ای عالی برای تبادل اسناد در قالب های استاندارد صنعتی تبدیل می کند. آخرین نسخه آن را می توانید مستقیماً از اینجا دانلود کنید[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) و با افزودن تنظیمات زیر به pom.xml آن را در پروژه مبتنی بر Maven خود نصب کنید.
 
 {{% blocks/products/pf/agp/code-block title="مخزن" offSpacer="true" %}}
 
@@ -45,7 +45,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Merge TXT to XLAM in Java., Free O
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="ادغام TXT به XLAM در Java آنلاین به صورت رایگان" %}}
+{{% blocks/products/pf/agp/content h2="TXT را با XLAM در Java ادغام کنید" %}}
 
 مثال زیر نحوه ادغام TXT با XLAM را در Aspose.Cells for Java نشان می دهد.
 {{% blocks/products/pf/agp/text %}}
@@ -56,7 +56,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Merge TXT to XLAM in Java., Free O
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="آنلاین رایگان برای ادغام TXT با XLAM در Java" InputFormat="txt" InputFormat2="xlam" outformat="xlam" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="java" %}}
+{{% cells-merger title="نمونه کد ادغام TXT به XLAM در Java" InputFormat="txt" InputFormat2="xlam" outformat="xlam" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="نحوه ادغام TXT به XLAM via Java" %}}
 

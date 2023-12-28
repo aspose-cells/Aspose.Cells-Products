@@ -1,8 +1,8 @@
 ---
 title: SXC را با IMAGE ادغام کنید - SXC را با IMAGE در Java ترکیب کنید
 url: /fa/java/merger/merge-sxc-to-image/ 
-description: Aspose اکسل. Java Aspose.Cells. ادغام آنلاین رایگان SXC به فرمت ذخیره تصویر. Java SXC را با فرمت IMAGE ترکیب کنید. ادغام SXC به IMAGE در Java. SXC ادغام.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge SXC to IMAGE in Java., Free Online Java Merge SXC to image., Java Combine SXC to IMAGE Online for Free., SXC Merge]
+description: Aspose اکسل. Java Aspose.Cells. ادغام SXC با فرمت ذخیره IMAGE. Java SXC را با فرمت IMAGE ترکیب کنید. ادغام SXC به IMAGE در Java. SXC ادغام.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge SXC to IMAGE in Java., Java Merge SXC to image., Java Combine SXC to IMAGE., SXC Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="SXC را با IMAGE via Java ادغام کنید" h2="کتابخانه پرسرعت Java برای ادغام SXC با IMAGE. از تبدیل اکسل ما API برای توسعه نرم افزار سطح بالا و مستقل از پلت فرم در Java استفاده کنید. این یک راه حل نرم افزاری حرفه ای برای وارد کردن و صادرات Excel, CSV, OpenOffice, PDF, HTML, image و بسیاری از فرمت های اکسل دیگر است." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="SXC" additionalConversionTag="IMAGE" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Merge SXC to IMAGE in Java., Free 
 
 {{% blocks/products/pf/agp/content h2="ادغام SXC به IMAGE با استفاده از Java" %}}
 
- چگونه SXC را با IMAGE ادغام کنم؟ با کتابخانه Aspose.Cells for Java، می توانید به راحتی با چند خط کد، SXC را با برنامه IMAGE ادغام کنید.[Aspose.Cells for Java](https://products.aspose.com/cells/java) قادر به ساخت برنامه های چند پلتفرمی با قابلیت تولید، تغییر، تبدیل، رندر و چاپ تمام فایل های اکسل است. Java اکسل API نه تنها بین فرمت های صفحه گسترده تبدیل می کند، بلکه می تواند فایل های اکسل را به صورت تصویر رندر کند. انتخاب عالی برای تبادل اسناد در استانداردهای صنعتی فرمت ها آخرین نسخه آن را می توانید مستقیماً از اینجا دانلود کنید[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) و با افزودن تنظیمات زیر به pom.xml آن را در پروژه مبتنی بر Maven خود نصب کنید.
+ چگونه SXC را با IMAGE ادغام کنم؟ با کتابخانه Aspose.Cells for Java، می توانید به راحتی با چند خط کد، SXC را با برنامه IMAGE ادغام کنید.[Aspose.Cells for Java](https://products.aspose.com/cells/java)قادر به ساخت برنامه های چند پلتفرمی با قابلیت تولید، تغییر، تبدیل، رندر و چاپ تمام فایل های اکسل است. Java اکسل API نه تنها بین فرمت های صفحه گسترده تبدیل می شود، بلکه می تواند فایل های اکسل را به صورت تصویر، PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT و موارد دیگر ارائه دهد، بنابراین آن را به گزینه ای عالی برای تبادل اسناد در قالب های استاندارد صنعتی تبدیل می کند. آخرین نسخه آن را می توانید مستقیماً از اینجا دانلود کنید[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) و با افزودن تنظیمات زیر به pom.xml آن را در پروژه مبتنی بر Maven خود نصب کنید.
 
 {{% blocks/products/pf/agp/code-block title="مخزن" offSpacer="true" %}}
 
@@ -45,7 +45,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Merge SXC to IMAGE in Java., Free 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="ادغام SXC به IMAGE در Java آنلاین به صورت رایگان" %}}
+{{% blocks/products/pf/agp/content h2="SXC را با IMAGE در Java ادغام کنید" %}}
 
 مثال زیر نحوه ادغام SXC را با IMAGE در Aspose.Cells for Java نشان می دهد.
 {{% blocks/products/pf/agp/text %}}
@@ -56,7 +56,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Merge SXC to IMAGE in Java., Free 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="آنلاین رایگان برای ادغام SXC با IMAGE در Java" InputFormat="sxc" InputFormat2="png" outformat="png" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="java" %}}
+{{% cells-merger title="نمونه کد برای ادغام SXC با IMAGE در Java" InputFormat="sxc" InputFormat2="png" outformat="png" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="نحوه ادغام SXC با IMAGE via Java" %}}
 
@@ -102,7 +102,7 @@ API های ما در تمام سیستم عامل ها و سیستم عامل ه
 
 <!-- aboutfile Starts -->
     {{< blocks/products/pf/agp/about-file-section >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="SXC" readMoreLink="https://docs.fileformat.com/spreadsheet/sxc/" >}}فرمت فایل SXC (Sun XML Calc) متعلق به یک مجموعه اداری به نام OpenOffice.org است. این قالب به طور کلی با نیازهای صفحه گسترده کاربران سروکار دارد زیرا یک فرمت فایل صفحه گسترده مبتنی بر XML است. فرمت SXC از فرمول‌ها، توابع، ماکروها و نمودارها همراه با DataPilot پشتیبانی می‌کند، که یک ویژگی باورنکردنی است زیرا به‌طور خودکار شخصی‌سازی می‌شود و خلاصه‌ای از داده‌های وارداتی خام را ارائه می‌دهد. فایل های ایجاد شده با این نرم افزار با پسوند .sxc ذخیره می شوند.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="SXC" readMoreLink="https://docs.fileformat.com/spreadsheet/sxc/" >}}فرمت فایل SXC (Sun XML Calc) متعلق به یک مجموعه اداری به نام OpenOffice.org است. این قالب به طور کلی با نیازهای صفحه گسترده کاربران سروکار دارد زیرا یک فرمت فایل صفحه گسترده مبتنی بر XML است. فرمت SXC از فرمول‌ها، توابع، ماکروها و نمودارها همراه با DataPilot پشتیبانی می‌کند، که یک ویژگی باورنکردنی است زیرا به طور خودکار شخصی‌سازی می‌شود و خلاصه‌ای از داده‌های وارداتی خام را ارائه می‌دهد. فایل های ایجاد شده با این نرم افزار با پسوند .sxc ذخیره می شوند.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="IMAGE" readMoreLink="https://docs.fileformat.com/image/png/" >}}فایل PNG (گرافیک شبکه قابل حمل) یک فرمت فایل تصویری شطرنجی است که از فشرده سازی بدون تلفات استفاده می کند. این فرمت فایل به عنوان جایگزین فرمت تبادل گرافیکی (GIF) ایجاد شده است و هیچ محدودیتی برای کپی رایت ندارد. با این حال، فرمت فایل PNG از انیمیشن ها پشتیبانی نمی کند. فرمت فایل PNG از فشرده سازی تصویر بدون اتلاف پشتیبانی می کند که باعث محبوبیت آن در بین کاربرانش می شود. با گذشت زمان، PNG به عنوان یکی از فرمت های فایل تصویری پرکاربرد تبدیل شده است.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
     {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->

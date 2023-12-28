@@ -1,7 +1,7 @@
 ---
 title: ایجاد NUMBERS - فایل NUMBERS را در Java ایجاد کنید
-description: Aspose اکسل. Java ایجاد فایل NUMBERS. ایجاد NUMBERS Java. Java NUMBERS Creater. NUMBERS را در Java ایجاد کنید. فایل NUMBERS را با استفاده از Java ایجاد کنید.
-keywords: [Aspose Excel., Java Aspose.Cells., Create NUMBERS Java., Java NUMBERS Creater., Create NUMBERS file in Java., Generate NUMBERS file in Java]
+description:  Aspose اکسل. Java با Aspose.Cells فایل NUMBERS را به سرعت و به راحتی ایجاد کنید. با استفاده از Java فایل NUMBERS را ایجاد کنید. NUMBERS را در Java ایجاد کنید. Java NUMBERS Creater.
+keywords: [Aspose Excel., Java Aspose.Cells., Java Create NUMBERS file., Generate NUMBERS file in Java., Create NUMBERS file using Java., Write data to NUMBERS file via Java., Create a NUMBERS file in Java., Java Generate a NUMBERS file., Java NUMBERS Creater]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="فایل NUMBERS را در Java ایجاد کنید" h2="کتابخانه پرسرعت Java برای ایجاد فایل NUMBERS. این یک راه حل نرم افزاری حرفه ای برای واردات و صادرات XLSX، PDF و بسیاری از فرمت های دیگر با استفاده از Java است." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="NUMBERS" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -11,7 +11,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Create NUMBERS Java., Java NUMBERS
 
 {{% blocks/products/pf/agp/content h2="با استفاده از Java فایل NUMBERS ایجاد کنید" %}}
 
- چگونه فایل NUMBERS ایجاد کنیم؟ با کتابخانه Aspose.Cells for Java می توانید به راحتی فایل NUMBERS را به صورت برنامه نویسی با چند خط کد ایجاد کنید.[Aspose.Cells for Java](https://products.aspose.com/cells/java) قادر به ساخت برنامه های چند پلتفرمی با قابلیت تولید، تغییر، تبدیل، رندر و چاپ تمام فایل های اکسل است. Java اکسل API نه تنها بین فرمت های صفحه گسترده تبدیل می کند، بلکه می تواند فایل های اکسل را به صورت تصویر رندر کند. انتخاب عالی برای تبادل اسناد در استانداردهای صنعتی فرمت ها آخرین نسخه آن را می توانید مستقیماً از اینجا دانلود کنید[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) و با افزودن تنظیمات زیر به pom.xml آن را در پروژه مبتنی بر Maven خود نصب کنید.
+ چگونه فایل NUMBERS ایجاد کنیم؟ با کتابخانه Aspose.Cells for Java می توانید به راحتی فایل NUMBERS را به صورت برنامه نویسی با چند خط کد ایجاد کنید.[Aspose.Cells for Java](https://products.aspose.com/cells/java)قادر به ساخت برنامه های چند پلتفرمی با قابلیت تولید، تغییر، تبدیل، رندر و چاپ تمام فایل های اکسل است. Java اکسل API نه تنها بین فرمت های صفحه گسترده تبدیل می شود، بلکه می تواند فایل های اکسل را به صورت تصویر، PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT و موارد دیگر ارائه دهد، بنابراین آن را به گزینه ای عالی برای تبادل اسناد در قالب های استاندارد صنعتی تبدیل می کند. آخرین نسخه آن را می توانید مستقیماً از اینجا دانلود کنید[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) و با افزودن تنظیمات زیر به pom.xml آن را در پروژه مبتنی بر Maven خود نصب کنید.
 
 {{% blocks/products/pf/agp/code-block title="مخزن" offSpacer="true" %}}
 
@@ -101,7 +101,7 @@ wkb.save("Excel.numbers");
 
 {{% blocks/products/pf/agp/text %}}
 
-قبل از اجرای کد منبع نمونه تبدیل Java، مطمئن شوید که پیش نیازهای زیر را دارید.
+ قبل از اجرای کد منبع نمونه تبدیل Java، مطمئن شوید که پیش نیازهای زیر را دارید.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -113,7 +113,7 @@ wkb.save("Excel.numbers");
 
 <!-- aboutfile Starts -->
     {{< blocks/products/pf/agp/about-file-section >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="NUMBERS" readMoreLink="https://docs.fileformat.com/spreadsheet/numbers/" >}}فایل های با پسوند .numbers به عنوان نوع فایل صفحه گسترده طبقه بندی می شوند، به همین دلیل شبیه فایل های xlsx هستند. اما فایل های Numbers با استفاده از نرم افزار صفحه گسترده Apple iWork Numbers ایجاد می شوند. Apple iWork Numbers یک نرم افزار واحد از مجموعه بهره وری iWork است. مجموعه بهره وری iWork معادل مجموعه آفیس Microsoft است که در رایانه های شخصی Windows استفاده می شود. از این رو، می توان گفت Numbers که برای MacOS در دسترس است، رقیب Microsoft Excel نیز می باشد. به همین ترتیب، Microsoft اکسل، فایل NUMBERS ممکن است شامل جداول، نمودارها و فرمول ها نیز باشد.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="NUMBERS" readMoreLink="https://docs.fileformat.com/spreadsheet/numbers/" >}} فایل های با پسوند .numbers به عنوان نوع فایل صفحه گسترده طبقه بندی می شوند، به همین دلیل شبیه فایل های xlsx هستند. اما فایل های Numbers با استفاده از نرم افزار صفحه گسترده Apple iWork Numbers ایجاد می شوند. Apple iWork Numbers یک نرم افزار واحد از مجموعه بهره وری iWork است. مجموعه بهره وری iWork معادل مجموعه آفیس Microsoft است که در رایانه های شخصی Windows استفاده می شود. از این رو، می توان گفت Numbers که برای MacOS در دسترس است، رقیب Microsoft Excel نیز می باشد. به همین ترتیب، Microsoft اکسل، فایل NUMBERS ممکن است شامل جداول، نمودارها و فرمول ها نیز باشد.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
     {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->
 

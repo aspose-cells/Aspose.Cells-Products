@@ -1,8 +1,8 @@
 ---
 title: JPG را به SXC ادغام کنید - JPG را با SXC در C# ترکیب کنید
 url: /fa/net/merger/merge-jpg-to-sxc/ 
-description: Aspose اکسل. C# Aspose.Cells. ادغام آنلاین رایگان JPG به SXC ذخیره فرمت. C# فرمت JPG را با فرمت SXC ترکیب کنید. JPG را به SXC در C# ادغام کنید. JPG Merge.
-keywords: [Aspose Excel., C# Aspose.Cells., Merge JPG to SXC in C#., Free Online C# Merge JPG to sxc., C# Combine JPG to SXC Online for Free., JPG Merge]
+description: Aspose اکسل. C# Aspose.Cells. JPG را با فرمت ذخیره SXC ادغام کنید. C# فرمت JPG را با فرمت SXC ترکیب کنید. JPG را به SXC در C# ادغام کنید. JPG Merge.
+keywords: [Aspose Excel., C# Aspose.Cells., Merge JPG to SXC in C#., C# Merge JPG to sxc., C# Combine JPG to SXC., JPG Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="JPG را از طریق C# به SXC ادغام کنید" h2="کتابخانه پرسرعت C# برای ادغام JPG به SXC. از تبدیل اکسل ما API برای توسعه نرم افزار سطح بالا و مستقل از پلتفرم در C# استفاده کنید. این یک راه حل نرم افزاری حرفه ای برای وارد کردن و صادرات فرمت های Excel, CSV, OpenOffice, PDF, HTML, image و بسیاری دیگر از فرمت های excel است." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="JPG" additionalConversionTag="SXC" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., C# Aspose.Cells., Merge JPG to SXC in C#., Free Online
 
 {{% blocks/products/pf/agp/content h2="با استفاده از C# JPG را به SXC ادغام کنید" %}}
 
- چگونه JPG را با SXC ادغام کنم؟ با کتابخانه Aspose.Cells for .NET می توانید به راحتی JPG را با چند خط کد به صورت برنامه نویسی با SXC ادغام کنید.[Aspose.Cells for .NET](https://products.aspose.com/cells/net)قادر به ساخت برنامه های چند پلتفرمی با قابلیت تولید، تغییر، تبدیل، رندر و چاپ تمام فایل های اکسل است. .NET اکسل API نه تنها بین فرمت های صفحه گسترده تبدیل می کند، بلکه می تواند فایل های اکسل را به صورت تصویر رندر کند. انتخاب عالی برای تبادل اسناد در استانداردهای صنعتی فرمت ها باز کن[NuGet](https://www.nuget.org/packages/aspose.cells) Package Manager Aspose.Cells را جستجو و نصب کنید. همچنین می توانید از دستور زیر در کنسول Package Manager استفاده کنید.
+ چگونه JPG را با SXC ادغام کنم؟ با کتابخانه Aspose.Cells for .NET می توانید به راحتی JPG را با چند خط کد به صورت برنامه نویسی با SXC ادغام کنید.[Aspose.Cells for .NET](https://products.aspose.com/cells/net)قادر به ساخت برنامه های چند پلتفرمی با قابلیت تولید، تغییر، تبدیل، رندر و چاپ تمام فایل های اکسل است. .NET اکسل API نه تنها بین فرمت های صفحه گسترده تبدیل می شود، بلکه می تواند فایل های اکسل را به صورت تصویر، PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT و موارد دیگر ارائه دهد، بنابراین آن را به گزینه ای عالی برای تبادل اسناد در قالب های استاندارد صنعتی تبدیل می کند. باز کن[NuGet](https://www.nuget.org/packages/aspose.cells) Package Manager Aspose.Cells را جستجو و نصب کنید. همچنین می توانید از دستور زیر در کنسول Package Manager استفاده کنید.
 
 {{% blocks/products/pf/agp/code-block title="فرمان کنسول Package Manager" offSpacer="true" %}}
 
@@ -26,7 +26,7 @@ PM> Install-Package Aspose.Cells
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="ادغام JPG به SXC در C# آنلاین به صورت رایگان" %}}
+{{% blocks/products/pf/agp/content h2="JPG را به SXC در C# ادغام کنید" %}}
 
 مثال زیر نحوه ادغام JPG را با SXC در Aspose.Cells for .NET نشان می دهد.
 {{% blocks/products/pf/agp/text %}}
@@ -37,7 +37,7 @@ PM> Install-Package Aspose.Cells
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="آنلاین رایگان برای ادغام JPG به SXC در C#" InputFormat="jpg" InputFormat2="sxc" outformat="sxc" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="net" %}}
+{{% cells-merger title="نمونه کد برای ادغام JPG به SXC در C#" InputFormat="jpg" InputFormat2="sxc" outformat="sxc" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="net" %}}
 
 {{% blocks/products/pf/agp/content h2="نحوه ادغام JPG به SXC از طریق C#" %}}
 
@@ -88,7 +88,7 @@ API های ما در تمام سیستم عامل ها و سیستم عامل ه
 <!-- aboutfile Starts -->
     {{< blocks/products/pf/agp/about-file-section >}}
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="JPG" readMoreLink="https://docs.fileformat.com/image/jpg/" >}}JPEG نوعی فرمت تصویری است که با استفاده از روش فشرده سازی با اتلاف ذخیره می شود. تصویر خروجی، در نتیجه فشرده سازی، تعادلی بین اندازه ذخیره سازی و کیفیت تصویر است. کاربران می توانند سطح فشرده سازی را برای رسیدن به سطح کیفی مورد نظر تنظیم کنند و در عین حال اندازه ذخیره سازی را کاهش دهند. اگر فشرده سازی 10:1 روی تصویر اعمال شود، کیفیت تصویر به میزان قابل توجهی تحت تأثیر قرار می گیرد. هرچه مقدار فشرده سازی بیشتر باشد، کیفیت تصویر کاهش می یابد.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="SXC" readMoreLink="https://docs.fileformat.com/spreadsheet/sxc/" >}}فرمت فایل SXC (Sun XML Calc) متعلق به یک مجموعه اداری به نام OpenOffice.org است. این قالب به طور کلی با نیازهای صفحه گسترده کاربران سروکار دارد زیرا یک فرمت فایل صفحه گسترده مبتنی بر XML است. فرمت SXC از فرمول‌ها، توابع، ماکروها و نمودارها همراه با DataPilot پشتیبانی می‌کند، که یک ویژگی باورنکردنی است زیرا به‌طور خودکار شخصی‌سازی می‌شود و خلاصه‌ای از داده‌های وارداتی خام را ارائه می‌دهد. فایل های ایجاد شده با این نرم افزار با پسوند .sxc ذخیره می شوند.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="SXC" readMoreLink="https://docs.fileformat.com/spreadsheet/sxc/" >}}فرمت فایل SXC (Sun XML Calc) متعلق به یک مجموعه اداری به نام OpenOffice.org است. این قالب به طور کلی با نیازهای صفحه گسترده کاربران سروکار دارد زیرا یک فرمت فایل صفحه گسترده مبتنی بر XML است. فرمت SXC از فرمول‌ها، توابع، ماکروها و نمودارها همراه با DataPilot پشتیبانی می‌کند، که یک ویژگی باورنکردنی است زیرا به طور خودکار شخصی‌سازی می‌شود و خلاصه‌ای از داده‌های وارداتی خام را ارائه می‌دهد. فایل های ایجاد شده با این نرم افزار با پسوند .sxc ذخیره می شوند.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
     {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->
 

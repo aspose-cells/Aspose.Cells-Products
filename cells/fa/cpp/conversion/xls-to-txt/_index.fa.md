@@ -1,7 +1,7 @@
 ---
-title: C++ XLS به TXT - تبدیل آنلاین XLS به TXT
-description: Aspose اکسل. C++ Aspose.Cells. C++ Aspose Cells. رایگان آنلاین C++ تبدیل XLS به TXT ذخیره فرمت. C++ XLS الی TXT فرمت. XLS را به شماره TXT C++ ذخیره کنید.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ XLS to TXT saveformat., Free Online XLS to TXT C++., C++ Convert XLS to TXT]
+title: C++ XLS به TXT - XLS به TXT تبدیل
+description: Aspose اکسل. XLS را سریع و آسان با Aspose.Cells به TXT تبدیل کنید. 113481 با استفاده از C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., Convert XLS to TXT in C++., Save XLS to TXT using C++., C++ XLS to TXT saveformat., XLS to TXT Converter., C++ Save XLS as TXT]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="تبدیل XLS به TXT در C++" h2="تبدیل XLS به TXT با کارایی بالا با استفاده از کتابخانه C++ بدون نیاز به نصب اکسل، OpenOffice یا Adobe Acrobat Microsoft." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" sourceAdditionalConversionTag="" additionalConversionTag="TXT" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ XLS to TXT s
 
 {{% blocks/products/pf/agp/content h2="تبدیل XLS به TXT با استفاده از C++" %}}
 
-چگونه XLS را به TXT تبدیل کنم؟ با کتابخانه Aspose.Cells for C++ می توانید به راحتی با چند خط کد XLS را به صورت برنامه ای به TXT تبدیل کنید.[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) قادر به ساخت برنامه های چند پلتفرمی با قابلیت تولید، تغییر، تبدیل، رندر و چاپ تمام فایل های اکسل است. C++ اکسل API نه تنها بین فرمت های صفحه گسترده تبدیل می کند، بلکه می تواند فایل های اکسل را به صورت تصویر رندر کند. انتخاب عالی برای تبادل اسناد در استانداردهای صنعتی فرمت ها شما می توانید آخرین نسخه آن را مستقیما دانلود کنید، فقط باز کنید[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) Package Manager Aspose.Cells.Cpp را جستجو کرده و نصب کنید. همچنین می توانید از دستور زیر در کنسول Package Manager استفاده کنید.
+چگونه XLS را به TXT تبدیل کنم؟ با کتابخانه Aspose.Cells for C++ می توانید به راحتی با چند خط کد XLS را به صورت برنامه ای به TXT تبدیل کنید.[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) قادر به ساخت برنامه های چند پلتفرمی با قابلیت تولید، تغییر، تبدیل، رندر و چاپ تمام فایل های اکسل است. C++ اکسل API نه تنها بین فرمت های صفحه گسترده تبدیل می شود، بلکه می تواند فایل های اکسل را به صورت تصویر، PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT و موارد دیگر ارائه دهد، بنابراین آن را به گزینه ای عالی برای تبادل اسناد در قالب های استاندارد صنعتی تبدیل می کند. شما می توانید آخرین نسخه آن را مستقیما دانلود کنید، فقط باز کنید[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) Package Manager Aspose.Cells.Cpp را جستجو کرده و نصب کنید. همچنین می توانید از دستور زیر در کنسول Package Manager استفاده کنید.
 
 {{% blocks/products/pf/agp/code-block title="فرمان" offSpacer="true" %}}
 
@@ -26,7 +26,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="XLS را به شماره TXT در C++ بصورت آنلاین و رایگان ذخیره کنید" %}}
+{{% blocks/products/pf/agp/content h2="XLS را به شماره TXT در C++ ذخیره کنید" %}}
 
 مثال زیر نحوه تبدیل XLS به TXT را در C++ نشان می دهد.
 {{% blocks/products/pf/agp/text %}}
@@ -37,7 +37,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="برنامه رایگان و کد نمونه برای تبدیل XLS به TXT آنلاین" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xls" outformat="txt" IsLandingPage="true" language="cpp" %}}
+{{% cells-convert title="نمونه کد برای تبدیل XLS به TXT" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xls" outformat="txt" IsLandingPage="true" language="cpp" %}}
 
 {{% blocks/products/pf/agp/content h2="نحوه تبدیل XLS به TXT از طریق C++" %}}
 
@@ -49,7 +49,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 1.  'Aspose.Cells for C++' را نصب کنید.
 1.  یک مرجع کتابخانه (وارد کردن کتابخانه) به پروژه C++ خود اضافه کنید.
-1.  فایل XLS را با استفاده از Factory::CreateIWorkbook بارگیری کنید.
+1.  فایل XLS را با استفاده از Workbook بارگیری کنید.
 1.  XLS را با فراخوانی متد Save() به TXT تبدیل کنید.
 1.  نتیجه تبدیل XLS به TXT را دریافت کنید.
 
@@ -101,7 +101,6 @@ PM> Install-Package Aspose.Cells.Cpp
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xls-to-pdf/" name="XLS الی PDF" description="فرمت سند قابل حمل" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xls-to-png/" name="XLS الی PNG" description="گرافیک شبکه قابل حمل" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xls-to-svg/" name="XLS الی SVG" description="گرافیک برداری مقیاس پذیر" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xls-to-tiff/" name="XLS الی TIFF" description="فرمت تصویر برچسب شده" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xls-to-tsv/" name="XLS الی TSV" description="مقادیر جدا شده از تب" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xls-to-txt/" name="XLS الی TXT" description="سند متنی" >}}
 

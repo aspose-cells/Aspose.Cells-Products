@@ -1,6 +1,7 @@
 ---
 title: فایل های اکسل را از طریق C# تولید کنید
 description: ایجاد صفحات گسترده اکسل Microsoft از یک برگه الگو با استفاده از کد C#
+keywords: [C# Aspose.Cells., c# Create Reports Based on Predesigned Excel Template., c# Generate Reports Based on Predesigned Excel Template., c# Create Reports Based on Excel Template., C# Generate Reports Based on Excel Template., c# Create Excel files Based on Excel Template., C# Generate Excel files Based on Excel Template]
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
 {{< blocks/products/pf/i18n/feature-page-header h1="Microsoft<sup>&reg;</sup> ایجاد فایل های مبتنی بر قالب اکسل via .NET" h2="ایجاد گزارش فایل اکسل بر اساس یک الگوی از پیش تعریف شده در برنامه های مبتنی بر .NET" >}}

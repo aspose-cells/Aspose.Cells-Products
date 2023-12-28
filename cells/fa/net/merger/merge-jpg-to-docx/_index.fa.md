@@ -1,8 +1,8 @@
 ---
 title: JPG را به DOCX ادغام کنید - JPG را با DOCX در C# ترکیب کنید
 url: /fa/net/merger/merge-jpg-to-docx/ 
-description: Aspose اکسل. C# Aspose.Cells. ادغام آنلاین رایگان JPG به DOCX ذخیره فرمت. C# فرمت JPG را با فرمت DOCX ترکیب کنید. JPG را به DOCX در C# ادغام کنید. JPG Merge.
-keywords: [Aspose Excel., C# Aspose.Cells., Merge JPG to DOCX in C#., Free Online C# Merge JPG to docx., C# Combine JPG to DOCX Online for Free., JPG Merge]
+description: Aspose اکسل. C# Aspose.Cells. JPG را با فرمت ذخیره DOCX ادغام کنید. C# فرمت JPG را با فرمت DOCX ترکیب کنید. JPG را به DOCX در C# ادغام کنید. JPG Merge.
+keywords: [Aspose Excel., C# Aspose.Cells., Merge JPG to DOCX in C#., C# Merge JPG to docx., C# Combine JPG to DOCX., JPG Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="JPG را از طریق C# به DOCX ادغام کنید" h2="کتابخانه پرسرعت C# برای ادغام JPG به DOCX. از تبدیل اکسل ما API برای توسعه نرم افزار سطح بالا و مستقل از پلتفرم در C# استفاده کنید. این یک راه حل نرم افزاری حرفه ای برای وارد کردن و صادرات فرمت های Excel, CSV, OpenOffice, PDF, HTML, image و بسیاری دیگر از فرمت های excel است." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="JPG" additionalConversionTag="DOCX" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., C# Aspose.Cells., Merge JPG to DOCX in C#., Free Onlin
 
 {{% blocks/products/pf/agp/content h2="با استفاده از C# JPG را به DOCX ادغام کنید" %}}
 
- چگونه JPG را با DOCX ادغام کنم؟ با کتابخانه Aspose.Cells for .NET می توانید به راحتی JPG را با چند خط کد به صورت برنامه نویسی با DOCX ادغام کنید.[Aspose.Cells for .NET](https://products.aspose.com/cells/net)قادر به ساخت برنامه های چند پلتفرمی با قابلیت تولید، تغییر، تبدیل، رندر و چاپ تمام فایل های اکسل است. .NET اکسل API نه تنها بین فرمت های صفحه گسترده تبدیل می کند، بلکه می تواند فایل های اکسل را به صورت تصویر رندر کند. انتخاب عالی برای تبادل اسناد در استانداردهای صنعتی فرمت ها باز کن[NuGet](https://www.nuget.org/packages/aspose.cells) Package Manager Aspose.Cells را جستجو و نصب کنید. همچنین می توانید از دستور زیر در کنسول Package Manager استفاده کنید.
+ چگونه JPG را با DOCX ادغام کنم؟ با کتابخانه Aspose.Cells for .NET می توانید به راحتی JPG را با چند خط کد به صورت برنامه نویسی با DOCX ادغام کنید.[Aspose.Cells for .NET](https://products.aspose.com/cells/net)قادر به ساخت برنامه های چند پلتفرمی با قابلیت تولید، تغییر، تبدیل، رندر و چاپ تمام فایل های اکسل است. .NET اکسل API نه تنها بین فرمت های صفحه گسترده تبدیل می شود، بلکه می تواند فایل های اکسل را به صورت تصویر، PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT و موارد دیگر ارائه دهد، بنابراین آن را به گزینه ای عالی برای تبادل اسناد در قالب های استاندارد صنعتی تبدیل می کند. باز کن[NuGet](https://www.nuget.org/packages/aspose.cells) Package Manager Aspose.Cells را جستجو و نصب کنید. همچنین می توانید از دستور زیر در کنسول Package Manager استفاده کنید.
 
 {{% blocks/products/pf/agp/code-block title="فرمان کنسول Package Manager" offSpacer="true" %}}
 
@@ -26,7 +26,7 @@ PM> Install-Package Aspose.Cells
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="ادغام JPG به DOCX در C# آنلاین به صورت رایگان" %}}
+{{% blocks/products/pf/agp/content h2="JPG را به DOCX در C# ادغام کنید" %}}
 
 مثال زیر نحوه ادغام JPG را با DOCX در Aspose.Cells for .NET نشان می دهد.
 {{% blocks/products/pf/agp/text %}}
@@ -37,7 +37,7 @@ PM> Install-Package Aspose.Cells
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="آنلاین رایگان برای ادغام JPG به DOCX در C#" InputFormat="jpg" InputFormat2="docx" outformat="docx" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="net" %}}
+{{% cells-merger title="نمونه کد برای ادغام JPG به DOCX در C#" InputFormat="jpg" InputFormat2="docx" outformat="docx" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="net" %}}
 
 {{% blocks/products/pf/agp/content h2="نحوه ادغام JPG به DOCX از طریق C#" %}}
 
@@ -88,7 +88,7 @@ API های ما در تمام سیستم عامل ها و سیستم عامل ه
 <!-- aboutfile Starts -->
     {{< blocks/products/pf/agp/about-file-section >}}
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="JPG" readMoreLink="https://docs.fileformat.com/image/jpg/" >}}JPEG نوعی فرمت تصویری است که با استفاده از روش فشرده سازی با اتلاف ذخیره می شود. تصویر خروجی، در نتیجه فشرده سازی، تعادلی بین اندازه ذخیره سازی و کیفیت تصویر است. کاربران می توانند سطح فشرده سازی را برای رسیدن به سطح کیفی مورد نظر تنظیم کنند و در عین حال اندازه ذخیره سازی را کاهش دهند. اگر فشرده سازی 10:1 روی تصویر اعمال شود، کیفیت تصویر به میزان قابل توجهی تحت تأثیر قرار می گیرد. هرچه مقدار فشرده سازی بیشتر باشد، کیفیت تصویر کاهش می یابد.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="DOCX" readMoreLink="https://docs.fileformat.com/word-processing/docx/" >}}DOCX یک فرمت شناخته شده برای اسناد ورد Microsoft است. از سال 2007 با انتشار Microsoft Office 2007 معرفی شد، ساختار این قالب سند جدید از باینری ساده به ترکیبی از فایل های XML و باینری تغییر یافت. فایل‌های Docx را می‌توان با Word 2007 و نسخه‌های جانبی باز کرد، اما با نسخه‌های قبلی MS Word که از پسوند فایل DOC پشتیبانی می‌کنند، نمی‌توان آن‌ها را باز کرد.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="DOCX" readMoreLink="https://docs.fileformat.com/word-processing/docx/" >}}DOCX یک فرمت شناخته شده برای اسناد ورد Microsoft است. از سال 2007 با انتشار Microsoft Office 2007، ساختار این قالب سند جدید از باینری ساده به ترکیبی از فایل های XML و باینری تغییر یافت. فایل‌های Docx را می‌توان با Word 2007 و نسخه‌های جانبی باز کرد، اما با نسخه‌های قبلی MS Word که از پسوند فایل DOC پشتیبانی می‌کنند، نمی‌توان آن‌ها را باز کرد.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
     {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->
 

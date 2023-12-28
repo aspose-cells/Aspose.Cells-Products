@@ -1,8 +1,8 @@
 ---
 title: MHT را به MD ادغام کنید - MHT را با MD در C++ ترکیب کنید
 url: /fa/cpp/merger/merge-mht-to-md/ 
-description: Aspose اکسل. C++ Aspose.Cells. ادغام آنلاین رایگان MHT به MD saveformat. C++ فرمت MHT را به MD ترکیب کنید. ادغام MHT به MD در C++. MHT Merge.
-keywords: [Aspose Excel., C++ Aspose.Cells., Merge MHT to MD in C++., Free Online C++ Merge MHT to md., C++ Combine MHT to MD Online for Free., MHT Merge]
+description: Aspose اکسل. C++ Aspose.Cells. فرمت ذخیره MHT را با MD ادغام کنید. C++ فرمت MHT را به MD ترکیب کنید. ادغام MHT به MD در C++. MHT Merge.
+keywords: [Aspose Excel., C++ Aspose.Cells., Merge MHT to MD in C++., C++ Merge MHT to md., C++ Combine MHT to MD., MHT Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="MHT را با MD از طریق C++ ادغام کنید" h2="کتابخانه پرسرعت C++ برای ادغام MHT به MD. از تبدیل اکسل ما API برای توسعه نرم افزار سطح بالا و مستقل از پلت فرم در C++ استفاده کنید. این یک راه حل نرم افزاری حرفه ای برای وارد کردن و صادرات Excel, CSV, OpenOffice, PDF, HTML, image و بسیاری از فرمت های اکسل دیگر است." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" sourceAdditionalConversionTag="MHT" additionalConversionTag="MD" pfName="Aspose.Cells" subTitlepfName="for C++" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., C++ Aspose.Cells., Merge MHT to MD in C++., Free Onlin
 
 {{% blocks/products/pf/agp/content h2="MHT را با MD با استفاده از C++ ادغام کنید" %}}
 
- چگونه MHT را با MD ادغام کنم؟ با کتابخانه Aspose.Cells for C++، می توانید به راحتی MHT را به MD به صورت برنامه نویسی با چند خط کد ادغام کنید.[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) قادر به ساخت برنامه های چند پلتفرمی با قابلیت تولید، تغییر، تبدیل، رندر و چاپ تمام فایل های اکسل است. C++ اکسل API نه تنها بین فرمت های صفحه گسترده تبدیل می کند، بلکه می تواند فایل های اکسل را به صورت تصویر رندر کند. انتخاب عالی برای تبادل اسناد در استانداردهای صنعتی فرمت ها شما می توانید آخرین نسخه آن را مستقیما دانلود کنید، فقط باز کنید[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) Package Manager Aspose.Cells.Cpp را جستجو کرده و نصب کنید. همچنین می توانید از دستور زیر در کنسول Package Manager استفاده کنید.
+ چگونه MHT را با MD ادغام کنم؟ با کتابخانه Aspose.Cells for C++، می توانید به راحتی MHT را به MD به صورت برنامه نویسی با چند خط کد ادغام کنید.[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) قادر به ساخت برنامه های چند پلتفرمی با قابلیت تولید، تغییر، تبدیل، رندر و چاپ تمام فایل های اکسل است. C++ اکسل API نه تنها بین فرمت های صفحه گسترده تبدیل می شود، بلکه می تواند فایل های اکسل را به صورت تصویر، PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT و موارد دیگر ارائه دهد، بنابراین آن را به گزینه ای عالی برای تبادل اسناد در قالب های استاندارد صنعتی تبدیل می کند. شما می توانید آخرین نسخه آن را مستقیما دانلود کنید، فقط باز کنید[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) Package Manager Aspose.Cells.Cpp را جستجو کرده و نصب کنید. همچنین می توانید از دستور زیر در کنسول Package Manager استفاده کنید.
 
 {{% blocks/products/pf/agp/code-block title="فرمان" offSpacer="true" %}}
 
@@ -26,7 +26,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="ادغام MHT به MD در C++ آنلاین به صورت رایگان" %}}
+{{% blocks/products/pf/agp/content h2="MHT را با MD در C++ ادغام کنید" %}}
 
 مثال زیر نحوه ادغام MHT به MD را در Aspose.Cells for C++ نشان می دهد.
 {{% blocks/products/pf/agp/text %}}
@@ -37,7 +37,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="آنلاین رایگان برای ادغام MHT به MD در C++" InputFormat="mht" InputFormat2="md" outformat="md" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="cpp" %}}
+{{% cells-merger title="نمونه کد برای ادغام MHT به MD در C++" InputFormat="mht" InputFormat2="md" outformat="md" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="cpp" %}}
 
 {{% blocks/products/pf/agp/content h2="نحوه ادغام MHT به MD از طریق C++" %}}
 
@@ -107,7 +107,6 @@ API های ما در تمام سیستم عامل ها و سیستم عامل ه
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-mht-to-pdf/" name="MHT را به PDF ادغام کنید" description="فرمت سند قابل حمل" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-mht-to-png/" name="MHT را به PNG ادغام کنید" description="گرافیک شبکه قابل حمل" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-mht-to-svg/" name="MHT را به SVG ادغام کنید" description="گرافیک برداری مقیاس پذیر" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-mht-to-tiff/" name="MHT را به TIFF ادغام کنید" description="فرمت تصویر برچسب شده" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-mht-to-tsv/" name="MHT را به TSV ادغام کنید" description="مقادیر جدا شده از تب" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-mht-to-txt/" name="MHT را به TXT ادغام کنید" description="سند متنی" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-mht-to-xls/" name="MHT را به XLS ادغام کنید" description="فرمت باینری اکسل" >}}

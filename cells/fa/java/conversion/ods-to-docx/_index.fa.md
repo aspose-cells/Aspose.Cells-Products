@@ -1,7 +1,7 @@
 ---
-title: Java ODS به DOCX - تبدیل آنلاین ODS به DOCX
-description: Aspose اکسل. Java Aspose.Cells. Java Aspose Cells. رایگان آنلاین Java تبدیل ODS به DOCX ذخیره فرمت. Java ODS الی DOCX فرمت. ODS را به شماره DOCX Java ذخیره کنید.
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java ODS to DOCX saveformat., Free Online ODS to DOCX Java., Java Convert ODS to DOCX]
+title: Java ODS به DOCX - ODS به DOCX تبدیل
+description: Aspose اکسل. ODS را سریع و آسان با Aspose.Cells به DOCX تبدیل کنید. 113481 با استفاده از Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Convert ODS to DOCX in Java., Save ODS to DOCX using Java., Java ODS to DOCX saveformat., ODS to DOCX Converter., Java Save ODS as DOCX]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="تبدیل ODS به DOCX در Java" h2="کتابخانه پرسرعت Java برای تبدیل ODS به DOCX. این یک راه حل نرم افزاری حرفه ای برای واردات و صادرات ODS، DOCX و بسیاری از فرمت های دیگر با استفاده از Java است." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="DOCX" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java ODS to DO
 
 {{% blocks/products/pf/agp/content h2="تبدیل ODS به DOCX با استفاده از Java" %}}
 
-چگونه ODS را به DOCX تبدیل کنم؟ با کتابخانه Aspose.Cells for Java می توانید به راحتی با چند خط کد ODS را به صورت برنامه ای به DOCX تبدیل کنید.[Aspose.Cells for Java](https://products.aspose.com/cells/java) قادر به ساخت برنامه های چند پلتفرمی با قابلیت تولید، تغییر، تبدیل، رندر و چاپ تمام فایل های اکسل است. Java اکسل API نه تنها بین فرمت های صفحه گسترده تبدیل می کند، بلکه می تواند فایل های اکسل را به صورت تصویر رندر کند. انتخاب عالی برای تبادل اسناد در استانداردهای صنعتی فرمت ها آخرین نسخه آن را می توانید مستقیماً از اینجا دانلود کنید[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) و با افزودن تنظیمات زیر به pom.xml آن را در پروژه مبتنی بر Maven خود نصب کنید.
+چگونه ODS را به DOCX تبدیل کنم؟ با کتابخانه Aspose.Cells for Java می توانید به راحتی با چند خط کد ODS را به صورت برنامه ای به DOCX تبدیل کنید.[Aspose.Cells for Java](https://products.aspose.com/cells/java)قادر به ساخت برنامه های چند پلتفرمی با قابلیت تولید، تغییر، تبدیل، رندر و چاپ تمام فایل های اکسل است. Java اکسل API نه تنها بین فرمت های صفحه گسترده تبدیل می شود، بلکه می تواند فایل های اکسل را به صورت تصویر، PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT و موارد دیگر ارائه دهد، بنابراین آن را به گزینه ای عالی برای تبادل اسناد در قالب های استاندارد صنعتی تبدیل می کند. آخرین نسخه آن را می توانید مستقیماً از اینجا دانلود کنید[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) و با افزودن تنظیمات زیر به pom.xml آن را در پروژه مبتنی بر Maven خود نصب کنید.
 
 {{% blocks/products/pf/agp/code-block title="مخزن" offSpacer="true" %}}
 
@@ -45,7 +45,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java ODS to DO
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="ODS را به شماره DOCX در Java بصورت آنلاین و رایگان ذخیره کنید" %}}
+{{% blocks/products/pf/agp/content h2="ODS را به شماره DOCX در Java ذخیره کنید" %}}
 
 مثال زیر نحوه تبدیل ODS به DOCX را در Java نشان می دهد.
 {{% blocks/products/pf/agp/text %}}
@@ -56,7 +56,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java ODS to DO
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="برنامه رایگان و کد نمونه برای تبدیل ODS به DOCX آنلاین" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="ods" outformat="docx" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="نمونه کد برای تبدیل ODS به DOCX" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="ods" outformat="docx" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="نحوه تبدیل ODS به DOCX via Java" %}}
 
@@ -68,7 +68,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java ODS to DO
 
 1.  'Aspose.Cells for Java' را نصب کنید.
 1.  یک مرجع کتابخانه (وارد کردن کتابخانه) به پروژه Java خود اضافه کنید.
-1.  فایل ODS را با نمونه ای از کلاس Workbook بارگیری کنید.
+1. فایل ODS را با نمونه ای از کلاس Workbook بارگیری کنید.
 1.  ODS را با فراخوانی روش Workbook.save به DOCX تبدیل کنید.
 1.  نتیجه تبدیل ODS به DOCX را دریافت کنید.
 
@@ -98,7 +98,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java ODS to DO
 <!-- aboutfile Starts -->
     {{< blocks/products/pf/agp/about-file-section >}}
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="ODS" readMoreLink="https://docs.fileformat.com/spreadsheet/ods/" >}}فایل‌های با پسوند ods مخفف فرمت OpenDocument Spreadsheet Document هستند که توسط کاربر قابل ویرایش هستند. داده ها در فایل ODF در ردیف ها و ستون ها ذخیره می شوند. این فرمت مبتنی بر XML است و یکی از چندین زیرگروه در خانواده فرمت‌های سند باز (ODF) است. این قالب به عنوان بخشی از مشخصات ODF 1.2 منتشر شده و نگهداری شده توسط OASIS مشخص شده است. تعدادی از برنامه های کاربردی در Windows و همچنین سایر سیستم عامل ها می توانند فایل های ODS را برای ویرایش و دستکاری باز کنند، از جمله Microsoft Excel، NeoOffice و LibreOffice. فایل‌های ODS همچنین می‌توانند توسط برنامه‌های مختلف به فرمت‌های صفحه‌گسترده دیگر و همچنین مانند XLS، XLSX و موارد دیگر تبدیل شوند.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="DOCX" readMoreLink="https://docs.fileformat.com/word-processing/docx/" >}}DOCX یک فرمت شناخته شده برای اسناد ورد Microsoft است. از سال 2007 با انتشار Microsoft Office 2007 معرفی شد، ساختار این قالب سند جدید از باینری ساده به ترکیبی از فایل های XML و باینری تغییر یافت. فایل‌های Docx را می‌توان با Word 2007 و نسخه‌های جانبی باز کرد، اما با نسخه‌های قبلی MS Word که از پسوند فایل DOC پشتیبانی می‌کنند، نمی‌توان آن‌ها را باز کرد.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="DOCX" readMoreLink="https://docs.fileformat.com/word-processing/docx/" >}}DOCX یک فرمت شناخته شده برای اسناد ورد Microsoft است. از سال 2007 با انتشار Microsoft Office 2007، ساختار این قالب سند جدید از باینری ساده به ترکیبی از فایل های XML و باینری تغییر یافت. فایل‌های Docx را می‌توان با Word 2007 و نسخه‌های جانبی باز کرد، اما با نسخه‌های قبلی MS Word که از پسوند فایل DOC پشتیبانی می‌کنند، نمی‌توان آن‌ها را باز کرد.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
     {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->
 

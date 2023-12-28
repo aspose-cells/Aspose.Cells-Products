@@ -1,8 +1,8 @@
 ---
 title: PRN را به XLT ادغام کنید - PRN را با XLT در C++ ترکیب کنید
 url: /fa/cpp/merger/merge-prn-to-xlt/ 
-description: Aspose اکسل. C++ Aspose.Cells. ادغام آنلاین رایگان PRN به XLT Saveformat. C++ PRN را با فرمت XLT ترکیب کنید. PRN را به XLT در C++ ادغام کنید. PRN Merge.
-keywords: [Aspose Excel., C++ Aspose.Cells., Merge PRN to XLT in C++., Free Online C++ Merge PRN to xlt., C++ Combine PRN to XLT Online for Free., PRN Merge]
+description: Aspose اکسل. C++ Aspose.Cells. PRN را با فرمت ذخیره XLT ادغام کنید. C++ PRN را با فرمت XLT ترکیب کنید. PRN را به XLT در C++ ادغام کنید. PRN Merge.
+keywords: [Aspose Excel., C++ Aspose.Cells., Merge PRN to XLT in C++., C++ Merge PRN to xlt., C++ Combine PRN to XLT., PRN Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="PRN را از طریق C++ به XLT ادغام کنید" h2="کتابخانه پرسرعت C++ برای ادغام PRN به XLT. از تبدیل اکسل ما API برای توسعه نرم افزار سطح بالا و مستقل از پلت فرم در C++ استفاده کنید. این یک راه حل نرم افزار حرفه ای برای وارد کردن و صادرات Excel, CSV, OpenOffice, PDF, HTML, image و بسیاری از فرمت های excel دیگر است." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" sourceAdditionalConversionTag="PRN" additionalConversionTag="XLT" pfName="Aspose.Cells" subTitlepfName="for C++" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., C++ Aspose.Cells., Merge PRN to XLT in C++., Free Onli
 
 {{% blocks/products/pf/agp/content h2="ادغام PRN به XLT با استفاده از C++" %}}
 
- چگونه PRN را با XLT ادغام کنم؟ با کتابخانه Aspose.Cells for C++، می توانید به راحتی با چند خط کد، PRN را به XLT ادغام کنید.[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) قادر به ساخت برنامه های چند پلتفرمی با قابلیت تولید، تغییر، تبدیل، رندر و چاپ تمام فایل های اکسل است. C++ اکسل API نه تنها بین فرمت های صفحه گسترده تبدیل می کند، بلکه می تواند فایل های اکسل را به صورت تصویر رندر کند. انتخاب عالی برای تبادل اسناد در استانداردهای صنعتی فرمت ها شما می توانید آخرین نسخه آن را مستقیما دانلود کنید، فقط باز کنید[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) Package Manager Aspose.Cells.Cpp را جستجو کرده و نصب کنید. همچنین می توانید از دستور زیر در کنسول Package Manager استفاده کنید.
+ چگونه PRN را با XLT ادغام کنم؟ با کتابخانه Aspose.Cells for C++، می توانید به راحتی با چند خط کد، PRN را به XLT ادغام کنید.[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) قادر به ساخت برنامه های چند پلتفرمی با قابلیت تولید، تغییر، تبدیل، رندر و چاپ تمام فایل های اکسل است. C++ اکسل API نه تنها بین فرمت های صفحه گسترده تبدیل می شود، بلکه می تواند فایل های اکسل را به صورت تصویر، PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT و موارد دیگر ارائه دهد، بنابراین آن را به گزینه ای عالی برای تبادل اسناد در قالب های استاندارد صنعتی تبدیل می کند. شما می توانید آخرین نسخه آن را مستقیما دانلود کنید، فقط باز کنید[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) Package Manager Aspose.Cells.Cpp را جستجو کرده و نصب کنید. همچنین می توانید از دستور زیر در کنسول Package Manager استفاده کنید.
 
 {{% blocks/products/pf/agp/code-block title="فرمان" offSpacer="true" %}}
 
@@ -26,18 +26,18 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="PRN را به XLT در C++ به صورت آنلاین ادغام کنید" %}}
+{{% blocks/products/pf/agp/content h2="PRN را به XLT در C++ ادغام کنید" %}}
 
 مثال زیر نحوه ادغام PRN را با XLT در Aspose.Cells for C++ نشان می دهد.
 {{% blocks/products/pf/agp/text %}}
 
-مراحل آسان را برای ادغام PRN به XLT دنبال کنید. فایل های خود را آپلود کنید، با Workbook تماس بگیرید. روش ترکیبی برای ادغام فایل ها، و سپس آن را در فایل XLT ذخیره کنید. اگر کد را در C++ ایجاد کنید، این ساده تر از آن چیزی است که به نظر می رسد. مثال C++ را ببینید که PRN را با XLT ادغام می کند.
+مراحل آسان را برای ادغام PRN با XLT دنبال کنید. فایل های خود را آپلود کنید، با Workbook تماس بگیرید. روش ترکیبی برای ادغام فایل ها، و سپس آن را در فایل XLT ذخیره کنید. اگر کد را در C++ ایجاد کنید، این ساده تر از آن چیزی است که به نظر می رسد. مثال C++ را ببینید که PRN را با XLT ادغام می کند.
 
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="آنلاین رایگان برای ادغام PRN به XLT در C++" InputFormat="prn" InputFormat2="xlt" outformat="xlt" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="cpp" %}}
+{{% cells-merger title="نمونه کد برای ادغام PRN به XLT در C++" InputFormat="prn" InputFormat2="xlt" outformat="xlt" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="cpp" %}}
 
 {{% blocks/products/pf/agp/content h2="نحوه ادغام PRN به XLT از طریق C++" %}}
 
@@ -107,7 +107,6 @@ API های ما در تمام سیستم عامل ها و سیستم عامل ه
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-prn-to-pdf/" name="PRN را به PDF ادغام کنید" description="فرمت سند قابل حمل" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-prn-to-png/" name="PRN را به PNG ادغام کنید" description="گرافیک شبکه قابل حمل" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-prn-to-svg/" name="PRN را به SVG ادغام کنید" description="گرافیک برداری مقیاس پذیر" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-prn-to-tiff/" name="PRN را به TIFF ادغام کنید" description="فرمت تصویر برچسب شده" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-prn-to-tsv/" name="PRN را به TSV ادغام کنید" description="مقادیر جدا شده از تب" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-prn-to-txt/" name="PRN را به TXT ادغام کنید" description="سند متنی" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-prn-to-xls/" name="PRN را به XLS ادغام کنید" description="فرمت باینری اکسل" >}}

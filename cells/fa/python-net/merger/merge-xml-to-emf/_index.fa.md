@@ -1,8 +1,8 @@
 ---
 title: XML را به EMF ادغام کنید - XML را با EMF در Python ترکیب کنید
 url: /fa/python-net/merger/merge-xml-to-emf/ 
-description: Aspose اکسل. Python Aspose.Cells. ادغام آنلاین رایگان XML به EMF ذخیره فرمت. Python XML را با فرمت EMF ترکیب کنید. XML را به EMF در Python ادغام کنید. XML Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge XML to EMF in Python., Free Online Python Merge XML to emf., Python Combine XML to EMF Online for Free., XML Merge]
+description: Aspose اکسل. Python Aspose.Cells. XML را با فرمت ذخیره EMF ادغام کنید. Python XML را با فرمت EMF ترکیب کنید. XML را به EMF در Python ادغام کنید. XML Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge XML to EMF in Python., Python Merge XML to emf., Python Combine XML to EMF., XML Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="XML را از طریق Python به EMF ادغام کنید" h2="کتابخانه پرسرعت Python برای ادغام XML به EMF. از تبدیل اکسل ما API برای توسعه نرم افزار سطح بالا و مستقل از پلتفرم در Python استفاده کنید. این یک راه حل نرم افزار حرفه ای برای وارد کردن و صادرات Excel, CSV, OpenOffice, PDF, HTML, image و بسیاری از فرمت های excel دیگر است." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="XML" additionalConversionTag="EMF" pfName="Aspose.Cells" subTitlepfName="for Python" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -12,12 +12,12 @@ keywords: [Aspose Excel., Python Aspose.Cells., Merge XML to EMF in Python., Fre
 
 {{% blocks/products/pf/agp/content h2="XML را به EMF با استفاده از Python ادغام کنید" %}}
 
- چگونه XML را با EMF ادغام کنم؟ با کتابخانه Aspose.Cells for Python via .NET می توانید به راحتی XML را با چند خط کد به صورت برنامه نویسی به EMF ادغام کنید.[Aspose.Cells for Python via .NET](https://pypi.org/project/aspose-cells-python)قادر به ساخت برنامه های چند پلتفرمی با قابلیت تولید، تغییر، تبدیل، رندر و چاپ تمام فایل های اکسل است. Python اکسل API نه تنها بین فرمت های صفحه گسترده تبدیل می کند، بلکه می تواند فایل های اکسل را به صورت تصویر رندر کند. انتخاب عالی برای تبادل اسناد در استانداردهای صنعتی فرمت ها می توانید Aspose.Cells for Python via .NET را نصب کنید<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> ، از دستور به صورت زیر استفاده کنید:<code>$ pip install aspose-cells-python</code>.
+ چگونه XML را با EMF ادغام کنم؟ با کتابخانه Aspose.Cells for Python via .NET می توانید به راحتی XML را با چند خط کد به صورت برنامه نویسی به EMF ادغام کنید.[Aspose.Cells for Python via .NET](https://pypi.org/project/aspose-cells-python) قادر به ساخت برنامه های چند پلتفرمی با قابلیت تولید، تغییر، تبدیل، رندر و چاپ تمام فایل های اکسل است. Python اکسل API نه تنها بین فرمت های صفحه گسترده تبدیل می شود، بلکه می تواند فایل های اکسل را به صورت تصویر، PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT و موارد دیگر ارائه دهد، بنابراین آن را به گزینه ای عالی برای تبادل اسناد در قالب های استاندارد صنعتی تبدیل می کند. می توانید Aspose.Cells for Python via .NET را نصب کنید<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> ، از دستور به صورت زیر استفاده کنید:<code>$ pip install aspose-cells-python</code>.
 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="ادغام XML به EMF در Python آنلاین به صورت رایگان" %}}
+{{% blocks/products/pf/agp/content h2="XML را به EMF در Python ادغام کنید" %}}
 
 مثال زیر نحوه ادغام XML به EMF را در Aspose.Cells for Python via .NET نشان می دهد.
 {{% blocks/products/pf/agp/text %}}
@@ -28,13 +28,13 @@ keywords: [Aspose Excel., Python Aspose.Cells., Merge XML to EMF in Python., Fre
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="آنلاین رایگان برای ادغام XML به EMF در Python" InputFormat="xml" InputFormat2="emf" outformat="emf" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-merger title="نمونه کد برای ادغام XML به EMF در Python" InputFormat="xml" InputFormat2="emf" outformat="emf" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="نحوه ادغام XML به EMF از طریق Python" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- آیا نیاز به ادغام XML با EMF به صورت برنامه ای دارید؟ یک سند اساسی ادغام و الحاق با[Aspose.Cells for Python via .NET](https://products.aspose.com/cells/python-net) API ها را می توان تنها با چند خط کد انجام داد.
+آیا نیاز به ادغام XML با EMF به صورت برنامه ای دارید؟ یک سند اساسی ادغام و الحاق با[Aspose.Cells for Python via .NET](https://products.aspose.com/cells/python-net) API ها را می توان تنها با چند خط کد انجام داد.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -52,7 +52,7 @@ keywords: [Aspose Excel., Python Aspose.Cells., Merge XML to EMF in Python., Fre
 ما بسته های Python خود را در مخازن PyPi میزبانی می کنیم.
 
 {{% blocks/products/pf/agp/text %}}
-Aspose.Cells for Python را نصب کنید<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> ، از دستور به صورت زیر استفاده کنید:<code>$ pip install aspose-cells-python</code>.
+ Aspose.Cells for Python را نصب کنید<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> ، از دستور به صورت زیر استفاده کنید:<code>$ pip install aspose-cells-python</code>.
 {{% /blocks/products/pf/agp/text %}}
 
 {{% blocks/products/pf/agp/text %}}
@@ -72,7 +72,7 @@ API های ما در تمام سیستم عامل ها و سیستم عامل ه
 {{% /blocks/products/pf/agp/text %}}
 
 -  نصب[Python](https://www.python.org/downloads/) 3.7 یا بالاتر
-- Aspose.Cells for Python را نصب کنید<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> ، از دستور به صورت زیر استفاده کنید:<code>$ pip install aspose-cells-python</code>.
+-  Aspose.Cells for Python را نصب کنید<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> ، از دستور به صورت زیر استفاده کنید:<code>$ pip install aspose-cells-python</code>.
 
 
 {{% /blocks/products/pf/agp/content %}}
@@ -80,7 +80,7 @@ API های ما در تمام سیستم عامل ها و سیستم عامل ه
 <!-- aboutfile Starts -->
     {{< blocks/products/pf/agp/about-file-section >}}
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XML" readMoreLink="https://docs.fileformat.com/web/xml/" >}}XML مخفف Extensible Markup Language است که شبیه به HTML است اما در استفاده از برچسب ها برای تعریف اشیا متفاوت است. ایده اصلی ایجاد فرمت فایل XML ذخیره و انتقال داده ها بدون وابستگی به ابزارهای نرم افزاری یا سخت افزاری بود. محبوبیت آن به این دلیل است که هم توسط انسان و هم با ماشین قابل خواندن است. این امر آن را قادر می سازد تا پروتکل های داده های رایج را در قالب اشیایی که قرار است در شبکه ای مانند شبکه جهانی وب (WWW) ذخیره و به اشتراک گذاشته شوند، ایجاد کند. "X" در XML برای توسعه پذیر است که به این معنی است که زبان را می توان به هر تعداد نماد بر اساس نیاز کاربر گسترش داد. برای این ویژگی ها است که بسیاری از فرمت های استاندارد فایل مانند Microsoft Open XML، LibreOffice OpenDocument، XHTML و SVG از آن استفاده می کنند.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="EMF" readMoreLink="https://docs.fileformat.com/image/emf/" >}}فرمت متافایل پیشرفته (EMF) تصاویر گرافیکی را مستقل از دستگاه ذخیره می کند. Metafiles EMF شامل رکوردهای با طول متغیر به ترتیب زمانی است که می تواند تصویر ذخیره شده را پس از تجزیه در هر دستگاه خروجی ارائه دهد. این رکوردهای با طول متغیر می توانند تعاریف اشیاء محصور، دستورات برای ترسیم، و ویژگی های گرافیکی برای ارائه دقیق تصویر حیاتی باشند. وقتی دستگاهی یک متافیل EMF را با استفاده از محیط گرافیکی خود باز می کند، نسبت ها، ابعاد، رنگ ها و سایر ویژگی های گرافیکی تصویر اصلی بدون توجه به پلت فرم دستگاه باز می ماند.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="EMF" readMoreLink="https://docs.fileformat.com/image/emf/" >}}فرمت متافایل پیشرفته (EMF) تصاویر گرافیکی را مستقل از دستگاه ذخیره می کند. Metafiles EMF شامل رکوردهای با طول متغیر به ترتیب زمانی است که می تواند تصویر ذخیره شده را پس از تجزیه در هر دستگاه خروجی ارائه دهد. این رکوردهای با طول متغیر می توانند تعاریف اشیاء محصور، دستورات برای ترسیم، و ویژگی های گرافیکی برای ارائه دقیق تصویر حیاتی باشند. وقتی دستگاهی یک متافیل EMF را با استفاده از محیط گرافیکی خود باز می‌کند، نسبت‌ها، ابعاد، رنگ‌ها و سایر ویژگی‌های گرافیکی تصویر اصلی بدون توجه به پلت فرم دستگاه باز می‌ماند.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
     {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->
 

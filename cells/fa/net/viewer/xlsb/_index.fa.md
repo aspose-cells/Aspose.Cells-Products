@@ -2,6 +2,7 @@
 title:  مشاهده XLSB فرمت های فایل via .NET
 weight: 6260
 description: کد منبع C# برای بارگیری، رندر و نمایش اسناد XLSB در .NET Framework، .NET Core، Mono یا Xamarin Platforms.
+keywords: [C# Aspose.Cells., c# view XLSB files., c# how to render XLSB document., c# load and display XLSB files., XLSB File Viewer using C#]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="XLSB نمایشگر فایل for .NET" h2="صفحات گسترده Excel و OpenOffice مانند XLSB را بدون نیاز به Microsoft Excel یا Office Automation مشاهده کنید." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSB" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSB" >}}
@@ -43,7 +44,7 @@ PM> Install-Package Aspose.Cells
 
 1.  فایل XLSB را در یک نمونه از Workbook بارگیری کنید
 1.  یک نمونه از HtmlSaveOptions ایجاد کنید و ویژگی ExportHeadings را روی true تنظیم کنید
-1.  فایل XLSB را با فرمت HTML با استفاده از روش Workbook ذخیره کنید.
+1. فایل XLSB را با فرمت HTML با استفاده از روش Workbook ذخیره کنید.
 1.  HTML حاصل را در مرورگر پیش فرض با Process.Start بارگیری کنید
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

@@ -1,7 +1,7 @@
 ---
-title: C++ XLSB به TSV - تبدیل آنلاین XLSB به TSV
-description: Aspose اکسل. C++ Aspose.Cells. C++ Aspose Cells. رایگان آنلاین C++ تبدیل XLSB به TSV ذخیره فرمت. C++ XLSB الی TSV فرمت. XLSB را به شماره TSV C++ ذخیره کنید.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ XLSB to TSV saveformat., Free Online XLSB to TSV C++., C++ Convert XLSB to TSV]
+title: C++ XLSB به TSV - XLSB به TSV تبدیل
+description: Aspose اکسل. XLSB را سریع و آسان با Aspose.Cells به TSV تبدیل کنید. 113481 با استفاده از C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., Convert XLSB to TSV in C++., Save XLSB to TSV using C++., C++ XLSB to TSV saveformat., XLSB to TSV Converter., C++ Save XLSB as TSV]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="تبدیل XLSB به TSV در C++" h2="تبدیل XLSB به TSV با کارایی بالا با استفاده از کتابخانه C++ بدون نیاز به نصب اکسل، OpenOffice یا Adobe Acrobat Microsoft." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" sourceAdditionalConversionTag="" additionalConversionTag="TSV" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ XLSB to TSV 
 
 {{% blocks/products/pf/agp/content h2="تبدیل XLSB به TSV با استفاده از C++" %}}
 
-چگونه XLSB را به TSV تبدیل کنم؟ با کتابخانه Aspose.Cells for C++ می توانید به راحتی با چند خط کد XLSB را به صورت برنامه ای به TSV تبدیل کنید.[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) قادر به ساخت برنامه های چند پلتفرمی با قابلیت تولید، تغییر، تبدیل، رندر و چاپ تمام فایل های اکسل است. C++ اکسل API نه تنها بین فرمت های صفحه گسترده تبدیل می کند، بلکه می تواند فایل های اکسل را به صورت تصویر رندر کند. انتخاب عالی برای تبادل اسناد در استانداردهای صنعتی فرمت ها شما می توانید آخرین نسخه آن را مستقیما دانلود کنید، فقط باز کنید[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) Package Manager Aspose.Cells.Cpp را جستجو کرده و نصب کنید. همچنین می توانید از دستور زیر در کنسول Package Manager استفاده کنید.
+چگونه XLSB را به TSV تبدیل کنم؟ با کتابخانه Aspose.Cells for C++ می توانید به راحتی با چند خط کد XLSB را به صورت برنامه ای به TSV تبدیل کنید.[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) قادر به ساخت برنامه های چند پلتفرمی با قابلیت تولید، تغییر، تبدیل، رندر و چاپ تمام فایل های اکسل است. C++ اکسل API نه تنها بین فرمت های صفحه گسترده تبدیل می شود، بلکه می تواند فایل های اکسل را به صورت تصویر، PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT و موارد دیگر ارائه دهد، بنابراین آن را به گزینه ای عالی برای تبادل اسناد در قالب های استاندارد صنعتی تبدیل می کند. شما می توانید آخرین نسخه آن را مستقیما دانلود کنید، فقط باز کنید[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) Package Manager Aspose.Cells.Cpp را جستجو کرده و نصب کنید. همچنین می توانید از دستور زیر در کنسول Package Manager استفاده کنید.
 
 {{% blocks/products/pf/agp/code-block title="فرمان" offSpacer="true" %}}
 
@@ -26,7 +26,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="XLSB را به شماره TSV در C++ بصورت آنلاین و رایگان ذخیره کنید" %}}
+{{% blocks/products/pf/agp/content h2="XLSB را به شماره TSV در C++ ذخیره کنید" %}}
 
 مثال زیر نحوه تبدیل XLSB به TSV را در C++ نشان می دهد.
 {{% blocks/products/pf/agp/text %}}
@@ -37,7 +37,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="برنامه رایگان و کد نمونه برای تبدیل XLSB به TSV آنلاین" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsb" outformat="tsv" IsLandingPage="true" language="cpp" %}}
+{{% cells-convert title="نمونه کد برای تبدیل XLSB به TSV" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsb" outformat="tsv" IsLandingPage="true" language="cpp" %}}
 
 {{% blocks/products/pf/agp/content h2="نحوه تبدیل XLSB به TSV از طریق C++" %}}
 
@@ -49,7 +49,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 1.  'Aspose.Cells for C++' را نصب کنید.
 1.  یک مرجع کتابخانه (وارد کردن کتابخانه) به پروژه C++ خود اضافه کنید.
-1.  فایل XLSB را با استفاده از Factory::CreateIWorkbook بارگیری کنید.
+1.  فایل XLSB را با استفاده از Workbook بارگیری کنید.
 1.  XLSB را با فراخوانی متد Save() به TSV تبدیل کنید.
 1.  نتیجه تبدیل XLSB به TSV را دریافت کنید.
 
@@ -101,7 +101,6 @@ PM> Install-Package Aspose.Cells.Cpp
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xlsb-to-pdf/" name="XLSB الی PDF" description="فرمت سند قابل حمل" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xlsb-to-png/" name="XLSB الی PNG" description="گرافیک شبکه قابل حمل" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xlsb-to-svg/" name="XLSB الی SVG" description="گرافیک برداری مقیاس پذیر" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xlsb-to-tiff/" name="XLSB الی TIFF" description="فرمت تصویر برچسب شده" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xlsb-to-tsv/" name="XLSB الی TSV" description="مقادیر جدا شده از تب" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xlsb-to-txt/" name="XLSB الی TXT" description="سند متنی" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xlsb-to-xls/" name="XLSB الی XLS" description="فرمت باینری اکسل" >}}

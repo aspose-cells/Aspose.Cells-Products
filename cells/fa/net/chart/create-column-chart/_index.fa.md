@@ -1,6 +1,7 @@
 ---
 title: ایجاد نمودارهای ستونی از طریق C#
 description: C# نمونه کد برای ایجاد نمودارهای ستونی در اکسل با استفاده از کتابخانه .NET. از این کد برای ایجاد نمودار ستونی در MS Excel در VB.NET، Asp.NET یا هر برنامه مبتنی بر .NET استفاده کنید.
+keywords: [C# Aspose.Cells., c# add Column Chart., c# insert Column Chart., c# create Column Chart]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 

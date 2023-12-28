@@ -1,6 +1,7 @@
 ---
 title:  ویرایش TXT فایل via .NET
 description: کد منبع C# برای ویرایش سند TXT در .NET Framework، .NET Core، Windows Azure، Mono یا Xamarin Platforms.
+keywords: [C# Aspose.Cells., c# edit txt document., c# load txt file., c# modify txt file., c# save file to txt format]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="ویرایش TXT فرمت ها در C#" h2="ویرایش سند بومی و با کارایی بالا TXT با استفاده از API های سمت سرور Aspose.Cells for .NET، بدون استفاده از نرم افزارهایی مانند Microsoft یا Adobe PDF." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="DOCX" >}}
@@ -30,13 +31,15 @@ PM> Install-Package Aspose.Cells
 
 {{% blocks/products/pf/agp/text %}}
 
- یک ویرایش اولیه سند با
- [Aspose.Cells for .NET](https://products.aspose.com/cells/net) 
- API ها را می توان تنها با چند خط کد انجام داد.
+ یک ویرایش اولیه سند با[Aspose.Cells for .NET](https://products.aspose.com/cells/net) API ها را می توان تنها با چند خط کد انجام داد.
 
 {{% /blocks/products/pf/agp/text %}}
 
-{{code_steps}}
+1.  فضای نام را در فایل کلاس خود قرار دهید
+1.  فایل نمونه خود را بارگیری کنید.
+1.  به اولین کاربرگ کتاب کار دسترسی پیدا کنید.
+1.  سلول(های) مورد نظر کاربرگ را بدست آورید و مقدار آن را در سلول(ها) قرار دهید.
+1.  از روش Save برای ذخیره کتاب کار به عنوان فایل TXT استفاده کنید.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -56,10 +59,7 @@ PM> Install-Package Aspose.Cells
 
 {{% blocks/products/pf/agp/code-block title="ویرایش TXT فایل - C#" offSpacer="" %}}
 
-```cs
-code here
-
-```
+{{< gist "aspose-cells-gists" "59a1901d62ea9ceb08456a818431a898" "Landingpage-editor-txt.cs" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 
@@ -72,7 +72,7 @@ code here
 
     {{% blocks/products/pf/agp/content h2="" %}}
 
- Aspose.Cells API می تواند برای ایجاد، ویرایش، تبدیل و رندر فرمت های اکسل Microsoft به فرمت های مختلف استفاده شود. علاوه بر این، می توان از آن برای نمودارهای جامع، گزارش مقیاس پذیر و محاسبات قابل اعتماد در برنامه های نرم افزاری استفاده کرد. Aspose.Cells یک API مستقل است و به هیچ نرم افزاری مانند Microsoft یا OpenOffice نیاز ندارد.
+Aspose.Cells API می تواند برای ایجاد، ویرایش، تبدیل و رندر فرمت های اکسل Microsoft به فرمت های مختلف استفاده شود. علاوه بر این، می توان از آن برای نمودارهای جامع، گزارش مقیاس پذیر و محاسبات قابل اعتماد در برنامه های نرم افزاری استفاده کرد. Aspose.Cells یک API مستقل است و به هیچ نرم افزاری مانند Microsoft یا OpenOffice نیاز ندارد.
 
 
 

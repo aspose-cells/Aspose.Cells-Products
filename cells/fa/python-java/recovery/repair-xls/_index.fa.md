@@ -1,8 +1,8 @@
 ---
-title: Python تعمیر فایل xls - تعمیر فایل xls بصورت آنلاین رایگان
+title: Python تعمیر xls - بازیابی و رفع خرابی فایل xls
 url: /fa/python-java/recovery/repair-xls/ 
-description: Aspose اکسل. Python Aspose.Cells. Python تعمیر فایل xls. ابزار تعمیر آنلاین xls رایگان. یک فایل xls خراب را تعمیر کنید. یک فایل xls خراب را در برنامه Python بازیابی کنید.
-keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python Repair xls file., Free Online Repair a corrupted xls file., Python Recover xls file.]
+description: Python Aspose.Cells. تعمیر xls. فایل xls را اصلاح کنید. ابزار بازیابی xls. فساد xls بازیابی اطلاعات xls بازیابی فایل xls بازیابی فایل xls خراب
+keywords: [Python Aspose.Cells., repair xls file., xls repair., recover corrupted xls file., repair corrupted xls., recover xls., fix xls file., xls corruption., restore xls data., xls file recovery., recover corrupted xls file.]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="تعمیر فایل XLS در Python" h2="برنامه Python خود را برای تعمیر فایل های xls با استفاده از Python بسازید." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLS" pfName="Aspose.Cells" subTitlepfName="for Python" downloadUrl="" fileiconsmall1="XLS" fileiconsmall2="XLSB" fileiconsmall3="XLSX" fileiconsmall4="XLSM" fileiconsmall5="ODS" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python Rep
 
 {{% blocks/products/pf/agp/content h2="فایل XLS را با شماره Python تعمیر کنید" %}}
 
- چگونه فایل xls را تعمیر کنم؟ با کتابخانه Aspose.Cells for Python به راحتی می توانید فایل XLS را به صورت برنامه ای و با چند خط کد تعمیر کنید.[Aspose.Cells for Python](https://products.aspose.com/cells/python-java)قادر به ساخت برنامه های چند پلتفرمی با قابلیت تولید، تغییر، تبدیل، رندر و چاپ تمام فایل های اکسل است. Python اکسل API نه تنها بین فرمت های صفحه گسترده تبدیل می کند، بلکه می تواند فایل های اکسل را به صورت تصویر رندر کند. انتخاب عالی برای تبادل اسناد در استانداردهای صنعتی فرمت ها می توانید Aspose.Cells for Python via Java را نصب کنید<a href="https://pypi.org/project/aspose-cells/">pypi</a> ، از دستور به صورت زیر استفاده کنید:<code>$ pip install aspose-cells</code>.
+ چگونه فایل xls را تعمیر کنم؟ با کتابخانه Aspose.Cells for Python به راحتی می توانید فایل XLS را به صورت برنامه ای و با چند خط کد تعمیر کنید.[Aspose.Cells for Python](https://products.aspose.com/cells/python-java) قادر به ساخت برنامه های چند پلتفرمی با قابلیت تولید، تغییر، تبدیل، رندر و چاپ تمام فایل های اکسل است. Python اکسل API نه تنها بین فرمت های صفحه گسترده تبدیل می شود، بلکه می تواند فایل های اکسل را به صورت تصویر، PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT و موارد دیگر ارائه دهد، بنابراین آن را به گزینه ای عالی برای تبادل اسناد در قالب های استاندارد صنعتی تبدیل می کند. می توانید Aspose.Cells for Python via Java را نصب کنید<a href="https://pypi.org/project/aspose-cells/">pypi</a> ، از دستور به صورت زیر استفاده کنید:<code>$ pip install aspose-cells</code>.
 
 
 {{% /blocks/products/pf/agp/content %}}
@@ -32,7 +32,7 @@ keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python Rep
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-recovery title="برنامه رایگان و کد نمونه برای تعمیر فایل آنلاین XLS" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et" InputFormat="xls" outformat="xls" IsLandingPage="true" language="pythonjava" %}}    
+{{% cells-recovery title="نمونه کد تعمیر فایل XLS" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et" InputFormat="xls" outformat="xls" IsLandingPage="true" language="pythonjava" %}}    
     
 {{% blocks/products/pf/agp/content h2="Python کتابخانه جهت تعمیر فایل XLS" %}}
 
@@ -55,7 +55,7 @@ keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python Rep
  
 -  Java 1.8 یا بالاتر را نصب کنید و آن را به متغیر محیطی PATH اضافه کنید، به عنوان مثال:<code>PATH=C:\Program Files\Java\jdk1.8.0_131;</code>.
 -  نصب[Python](https://www.python.org/downloads/) 3.5 یا بالاتر
-- Aspose.Cells for Python را نصب کنید<a href="https://pypi.org/project/aspose-cells/">pypi</a> ، از دستور به صورت زیر استفاده کنید:<code>$ pip install aspose-cells</code>.
+-  Aspose.Cells for Python را نصب کنید<a href="https://pypi.org/project/aspose-cells/">pypi</a> ، از دستور به صورت زیر استفاده کنید:<code>$ pip install aspose-cells</code>.
 
 
 {{% /blocks/products/pf/agp/content %}}

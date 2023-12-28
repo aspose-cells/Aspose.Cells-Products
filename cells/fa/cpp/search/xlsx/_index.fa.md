@@ -2,6 +2,7 @@
 title:  سند XLSX را بدون باز کردن از طریق C++ جستجو کنید
 weight: 9280
 description: C++ کد مثال برای جستجوی کلمات با الگو در فایل XLSX در C++ Runtime Environment برای Windows 32 بیتی، Windows 64 بیتی و لینوکس 64 بیتی.
+keywords: [C++ Aspose.Cells., C++ search words with pattern in XLSX file., C++ find words with pattern in XLSX file., C++ search string with pattern in XLSX file., C++ find words with pattern in XLSX file., C++ search words in excel file., C++ find words in excel file., C++ search string in excel file., C++ find string in excel file]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="فرمت های XLSX را در C++ جستجو کنید" h2="جستجوی سند بومی و با کارایی بالا XLSX با استفاده از API های سمت سرور Aspose.Cells for C++، بدون استفاده از نرم افزارهایی مانند Microsoft یا Adobe PDF." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" sourceAdditionalConversionTag="" additionalConversionTag="" pfName="Aspose.Cells" subTitlepfName="for C++" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="XLSX" >}}
@@ -41,11 +42,11 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/text %}}
 
-فایل XLSX را با نمونه سازی کلاس IWorkbook بارگیری کنید.
-+ کلاس IReplaceOptions را Instanti کنید.
++ فایل XLSX را با نمونه سازی کلاس Workbook بارگیری کنید.
++ کلاس ReplaceOptions را Instantiate کنید.
 + تنظیم الگوی مورد نیاز مانند SetCaseSensitive (مقدار bool)، SetMatchEntireCellContents (مقدار bool).
-+ از روش IWorkbook->Replace(..) با گزینه های مربوطه استفاده کنید.
-+ فایل XLSX را با استفاده از روش IWorkbook->Save(.) ذخیره کنید.
+از روش Workbook::Replace(...) با گزینه های مربوطه استفاده کنید.
++ فایل XLSX را با استفاده از روش Workbook::Save(...) ذخیره کنید.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -66,29 +67,33 @@ PM> Install-Package Aspose.Cells.Cpp
 
 ```cs
 
+Aspose::Cells::Startup();
+
 // Source directory path.
-StringPtr srcDir = new String("SourcePath\\");
+U16String srcDir(u"SourcePath\\");
 
 // Output directory path.
-StringPtr outDir = new String("OutputPath\\");
+U16String outDir(u"OutputPath\\");
 
 // Load XLSX file
-intrusive_ptr<IWorkbook>  wkb = Factory::CreateIWorkbook(srcDir->StringAppend(new String("sourceFile.xlsx")));
+Workbook  wkb(srcDir + u"sourceFile.xlsx");
 
 // Create an instance of the IReplaceOptions class
-intrusive_ptr<IReplaceOptions> replaceOptions = Factory::CreateIReplaceOptions();
+ReplaceOptions replaceOptions;
 
 // Set case sensitivity option
-replaceOptions->SetCaseSensitive(false);
+replaceOptions.SetCaseSensitive(false);
 
 // Set text matching option
-replaceOptions->SetMatchEntireCellContents(false);
+replaceOptions.SetMatchEntireCellContents(false);
 
 // Replace text
-wkb->Replace(new String("Text to find"), new String("Text replacement"), replaceOptions);
+wkb.Replace(u"Text to find", u"Text replacement", replaceOptions);
 
 // Save as XLSX file
-wkb->Save(outDir->StringAppend(new String("outputFile.xlsx")));  
+wkb.Save(outDir + u"outputFile.xlsx");
+
+Aspose::Cells::Cleanup();
 
 ```
 
@@ -119,7 +124,7 @@ wkb->Save(outDir->StringAppend(new String("outputFile.xlsx")));
     {{< /blocks/products/pf/agp/demobox >}}
 
     {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLSX " readMoreLink="https://docs.fileformat.com/spreadsheet/xlsx/" >}}
-XLSX فرمت شناخته شده ای برای اسناد اکسل Microsoft است که توسط Microsoft با انتشار Microsoft Office 2007 معرفی شد. یک بسته فشرده که حاوی تعدادی فایل XML است. ساختار و فایل های زیرین را می توان به سادگی با باز کردن فایل xlsx. بررسی کرد
+ XLSX فرمت شناخته شده ای برای اسناد اکسل Microsoft است که توسط Microsoft با انتشار Microsoft Office 2007 معرفی شد. یک بسته فشرده که حاوی تعدادی فایل XML است. ساختار و فایل های زیرین را می توان به سادگی با باز کردن فایل xlsx. بررسی کرد
 
     {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 

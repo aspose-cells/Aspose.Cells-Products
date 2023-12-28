@@ -1,8 +1,8 @@
 ---
 title: XLSB را با XLTM ادغام کنید - XLSB را با XLTM در Python ترکیب کنید
 url: /fa/python-java/merger/merge-xlsb-to-xltm/ 
-description: Aspose اکسل. Python Aspose.Cells. ادغام آنلاین رایگان XLSB به XLTM ذخیره فرمت. Python XLSB را با فرمت XLTM ترکیب کنید. ادغام XLSB به XLTM در Python. XLSB ادغام.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge XLSB to XLTM in Python., Free Online Python Merge XLSB to xltm., Python Combine XLSB to XLTM Online for Free., XLSB Merge]
+description: Aspose اکسل. Python Aspose.Cells. ادغام XLSB به XLTM ذخیره فرمت. Python XLSB را با فرمت XLTM ترکیب کنید. ادغام XLSB به XLTM در Python. XLSB ادغام.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge XLSB to XLTM in Python., Python Merge XLSB to xltm., Python Combine XLSB to XLTM., XLSB Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="XLSB را با XLTM از طریق Python ادغام کنید" h2="کتابخانه پرسرعت Python برای ادغام XLSB به XLTM. از تبدیل اکسل ما API برای توسعه نرم افزار سطح بالا و مستقل از پلتفرم در Python استفاده کنید. این یک راه حل حرفه ای نرم افزاری برای وارد کردن و صادرات بسیاری از فرمت های excel53481، و صادرات 07134343481 است." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="XLSB" additionalConversionTag="XLTM" pfName="Aspose.Cells" subTitlepfName="for Python" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -12,12 +12,12 @@ keywords: [Aspose Excel., Python Aspose.Cells., Merge XLSB to XLTM in Python., F
 
 {{% blocks/products/pf/agp/content h2="ادغام XLSB به XLTM با استفاده از Python" %}}
 
- چگونه XLSB را با XLTM ادغام کنم؟ با کتابخانه Aspose.Cells for Python via Java می توانید به راحتی با چند خط کد XLSB را به XLTM ادغام کنید.[Aspose.Cells for Python via Java](https://pypi.org/project/aspose-cells)قادر به ساخت برنامه های چند پلتفرمی با قابلیت تولید، تغییر، تبدیل، رندر و چاپ تمام فایل های اکسل است. Python اکسل API نه تنها بین فرمت های صفحه گسترده تبدیل می کند، بلکه می تواند فایل های اکسل را به صورت تصویر رندر کند. انتخاب عالی برای تبادل اسناد در استانداردهای صنعتی فرمت ها می توانید Aspose.Cells for Python via Java را نصب کنید<a href="https://pypi.org/project/aspose-cells/">pypi</a> ، از دستور به صورت زیر استفاده کنید:<code>$ pip install aspose-cells</code>.
+چگونه XLSB را با XLTM ادغام کنم؟ با کتابخانه Aspose.Cells for Python via Java می توانید به راحتی با چند خط کد XLSB را به XLTM ادغام کنید.[Aspose.Cells for Python via Java](https://pypi.org/project/aspose-cells) قادر به ساخت برنامه های چند پلتفرمی با قابلیت تولید، تغییر، تبدیل، رندر و چاپ تمام فایل های اکسل است. Python اکسل API نه تنها بین فرمت های صفحه گسترده تبدیل می شود، بلکه می تواند فایل های اکسل را به صورت تصویر، PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT و موارد دیگر ارائه دهد، بنابراین آن را به گزینه ای عالی برای تبادل اسناد در قالب های استاندارد صنعتی تبدیل می کند. می توانید Aspose.Cells for Python via Java را نصب کنید<a href="https://pypi.org/project/aspose-cells/">pypi</a> ، از دستور به صورت زیر استفاده کنید:<code>$ pip install aspose-cells</code>.
 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="ادغام XLSB به XLTM در Python آنلاین به صورت رایگان" %}}
+{{% blocks/products/pf/agp/content h2="XLSB را با XLTM در Python ادغام کنید" %}}
 
 مثال زیر نحوه ادغام XLSB با XLTM را در Aspose.Cells for Python via Java نشان می دهد.
 {{% blocks/products/pf/agp/text %}}
@@ -28,7 +28,7 @@ keywords: [Aspose Excel., Python Aspose.Cells., Merge XLSB to XLTM in Python., F
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="آنلاین رایگان برای ادغام XLSB با XLTM در Python" InputFormat="xlsb" InputFormat2="xltm" outformat="xltm" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-merger title="نمونه کد ادغام XLSB به XLTM در Python" InputFormat="xlsb" InputFormat2="xltm" outformat="xltm" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="نحوه ادغام XLSB با XLTM از طریق Python" %}}
 
@@ -73,7 +73,7 @@ API های ما در تمام سیستم عامل ها و سیستم عامل ه
 
 -  Java 1.8 یا بالاتر را نصب کنید و آن را به متغیر محیطی PATH اضافه کنید، به عنوان مثال:<code>PATH=C:\Program Files\Java\jdk1.8.0_131;</code>.
 -  نصب[Python](https://www.python.org/downloads/) 3.5 یا بالاتر
-- Aspose.Cells for Python را نصب کنید<a href="https://pypi.org/project/aspose-cells/">pypi</a> ، از دستور به صورت زیر استفاده کنید:<code>$ pip install aspose-cells</code>.
+-  Aspose.Cells for Python را نصب کنید<a href="https://pypi.org/project/aspose-cells/">pypi</a> ، از دستور به صورت زیر استفاده کنید:<code>$ pip install aspose-cells</code>.
 
 
 {{% /blocks/products/pf/agp/content %}}

@@ -1,8 +1,8 @@
 ---
 title: EXCEL را به MHT ادغام کنید - EXCEL را با MHT در C# ترکیب کنید
 url: /fa/net/merger/merge-excel-to-mht/ 
-description: Aspose اکسل. C# Aspose.Cells. ادغام آنلاین رایگان EXCEL به فرمت ذخیره سازی MHT. C# فرمت EXCEL را با فرمت MHT ترکیب کنید. EXCEL را به MHT در C# ادغام کنید. EXCEL Merge.
-keywords: [Aspose Excel., C# Aspose.Cells., Merge EXCEL to MHT in C#., Free Online C# Merge EXCEL to mht., C# Combine EXCEL to MHT Online for Free., EXCEL Merge]
+description: Aspose اکسل. C# Aspose.Cells. EXCEL را با فرمت ذخیره MHT ادغام کنید. C# فرمت EXCEL را با فرمت MHT ترکیب کنید. EXCEL را به MHT در C# ادغام کنید. EXCEL Merge.
+keywords: [Aspose Excel., C# Aspose.Cells., Merge EXCEL to MHT in C#., C# Merge EXCEL to mht., C# Combine EXCEL to MHT., EXCEL Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="EXCEL را با MHT از طریق C# ادغام کنید" h2="کتابخانه پرسرعت C# برای ادغام EXCEL با MHT. از تبدیل اکسل ما API برای توسعه نرم افزار سطح بالا و مستقل از پلت فرم در C# استفاده کنید. این یک راه حل نرم افزاری حرفه ای برای وارد کردن و صادرات Excel, CSV, OpenOffice, PDF, HTML, image و بسیاری از فرمت های اکسل دیگر است." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="EXCEL" additionalConversionTag="MHT" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., C# Aspose.Cells., Merge EXCEL to MHT in C#., Free Onli
 
 {{% blocks/products/pf/agp/content h2="EXCEL را با MHT با استفاده از C# ادغام کنید" %}}
 
- چگونه می توانم EXCEL را با MHT ادغام کنم؟ با کتابخانه Aspose.Cells for .NET، می توانید به راحتی EXCEL را با چند خط کد به صورت برنامه ریزی شده با MHT ادغام کنید.[Aspose.Cells for .NET](https://products.aspose.com/cells/net)قادر به ساخت برنامه های چند پلتفرمی با قابلیت تولید، تغییر، تبدیل، رندر و چاپ تمام فایل های اکسل است. .NET اکسل API نه تنها بین فرمت های صفحه گسترده تبدیل می کند، بلکه می تواند فایل های اکسل را به صورت تصویر رندر کند. انتخاب عالی برای تبادل اسناد در استانداردهای صنعتی فرمت ها باز کن[NuGet](https://www.nuget.org/packages/aspose.cells) Package Manager Aspose.Cells را جستجو و نصب کنید. همچنین می توانید از دستور زیر در کنسول Package Manager استفاده کنید.
+ چگونه می توانم EXCEL را با MHT ادغام کنم؟ با کتابخانه Aspose.Cells for .NET، می توانید به راحتی EXCEL را با چند خط کد به صورت برنامه ریزی شده با MHT ادغام کنید.[Aspose.Cells for .NET](https://products.aspose.com/cells/net)قادر به ساخت برنامه های چند پلتفرمی با قابلیت تولید، تغییر، تبدیل، رندر و چاپ تمام فایل های اکسل است. .NET اکسل API نه تنها بین فرمت های صفحه گسترده تبدیل می شود، بلکه می تواند فایل های اکسل را به صورت تصویر، PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT و موارد دیگر ارائه دهد، بنابراین آن را به گزینه ای عالی برای تبادل اسناد در قالب های استاندارد صنعتی تبدیل می کند. باز کن[NuGet](https://www.nuget.org/packages/aspose.cells) Package Manager Aspose.Cells را جستجو و نصب کنید. همچنین می توانید از دستور زیر در کنسول Package Manager استفاده کنید.
 
 {{% blocks/products/pf/agp/code-block title="فرمان کنسول Package Manager" offSpacer="true" %}}
 
@@ -26,7 +26,7 @@ PM> Install-Package Aspose.Cells
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="EXCEL را با MHT در C# آنلاین به صورت رایگان ادغام کنید" %}}
+{{% blocks/products/pf/agp/content h2="EXCEL را با MHT در C# ادغام کنید" %}}
 
 مثال زیر نحوه ادغام EXCEL با MHT را در Aspose.Cells for .NET نشان می دهد.
 {{% blocks/products/pf/agp/text %}}
@@ -37,7 +37,7 @@ PM> Install-Package Aspose.Cells
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="آنلاین رایگان برای ادغام EXCEL به MHT در C#" InputFormat="xlsx" InputFormat2="mht" outformat="mht" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="net" %}}
+{{% cells-merger title="نمونه کد برای ادغام EXCEL به MHT در C#" InputFormat="xlsx" InputFormat2="mht" outformat="mht" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="net" %}}
 
 {{% blocks/products/pf/agp/content h2="نحوه ادغام EXCEL به MHT از طریق C#" %}}
 

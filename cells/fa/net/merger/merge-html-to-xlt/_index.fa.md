@@ -1,8 +1,8 @@
 ---
 title: HTML را با XLT ادغام کنید - HTML را با XLT در C# ترکیب کنید
 url: /fa/net/merger/merge-html-to-xlt/ 
-description: Aspose اکسل. C# Aspose.Cells. ادغام آنلاین رایگان HTML به XLT ذخیره فرمت. C# HTML را با فرمت XLT ترکیب کنید. ادغام HTML به XLT در C#. HTML ادغام.
-keywords: [Aspose Excel., C# Aspose.Cells., Merge HTML to XLT in C#., Free Online C# Merge HTML to xlt., C# Combine HTML to XLT Online for Free., HTML Merge]
+description: Aspose اکسل. C# Aspose.Cells. ادغام HTML به XLT ذخیره فرمت. C# HTML را با فرمت XLT ترکیب کنید. ادغام HTML به XLT در C#. HTML ادغام.
+keywords: [Aspose Excel., C# Aspose.Cells., Merge HTML to XLT in C#., C# Merge HTML to xlt., C# Combine HTML to XLT., HTML Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="HTML را با XLT از طریق C# ادغام کنید" h2="کتابخانه پرسرعت C# برای ادغام HTML به XLT. از تبدیل اکسل ما API برای توسعه نرم افزار سطح بالا و مستقل از پلتفرم در C# استفاده کنید. این یک راه حل حرفه ای نرم افزاری برای وارد کردن و صادرات بسیاری از فرمت های excel53481، و صادرات 07134343481 است." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="HTML" additionalConversionTag="XLT" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., C# Aspose.Cells., Merge HTML to XLT in C#., Free Onlin
 
 {{% blocks/products/pf/agp/content h2="ادغام HTML به XLT با استفاده از C#" %}}
 
- چگونه HTML را با XLT ادغام کنم؟ با کتابخانه Aspose.Cells for .NET می توانید به راحتی با چند خط کد HTML را به XLT ادغام کنید.[Aspose.Cells for .NET](https://products.aspose.com/cells/net)قادر به ساخت برنامه های چند پلتفرمی با قابلیت تولید، تغییر، تبدیل، رندر و چاپ تمام فایل های اکسل است. .NET اکسل API نه تنها بین فرمت های صفحه گسترده تبدیل می کند، بلکه می تواند فایل های اکسل را به صورت تصویر رندر کند. انتخاب عالی برای تبادل اسناد در استانداردهای صنعتی فرمت ها باز کن[NuGet](https://www.nuget.org/packages/aspose.cells) Package Manager Aspose.Cells را جستجو و نصب کنید. همچنین می توانید از دستور زیر در کنسول Package Manager استفاده کنید.
+ چگونه HTML را با XLT ادغام کنم؟ با کتابخانه Aspose.Cells for .NET می توانید به راحتی با چند خط کد HTML را به XLT ادغام کنید.[Aspose.Cells for .NET](https://products.aspose.com/cells/net)قادر به ساخت برنامه های چند پلتفرمی با قابلیت تولید، تغییر، تبدیل، رندر و چاپ تمام فایل های اکسل است. .NET اکسل API نه تنها بین فرمت های صفحه گسترده تبدیل می شود، بلکه می تواند فایل های اکسل را به صورت تصویر، PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT و موارد دیگر ارائه دهد، بنابراین آن را به گزینه ای عالی برای تبادل اسناد در قالب های استاندارد صنعتی تبدیل می کند. باز کن[NuGet](https://www.nuget.org/packages/aspose.cells) Package Manager Aspose.Cells را جستجو و نصب کنید. همچنین می توانید از دستور زیر در کنسول Package Manager استفاده کنید.
 
 {{% blocks/products/pf/agp/code-block title="فرمان کنسول Package Manager" offSpacer="true" %}}
 
@@ -26,7 +26,7 @@ PM> Install-Package Aspose.Cells
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="ادغام HTML به XLT در C# آنلاین به صورت رایگان" %}}
+{{% blocks/products/pf/agp/content h2="HTML را با XLT در C# ادغام کنید" %}}
 
 مثال زیر نحوه ادغام HTML با XLT را در Aspose.Cells for .NET نشان می دهد.
 {{% blocks/products/pf/agp/text %}}
@@ -37,7 +37,7 @@ PM> Install-Package Aspose.Cells
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="آنلاین رایگان برای ادغام HTML با XLT در C#" InputFormat="html" InputFormat2="xlt" outformat="xlt" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="net" %}}
+{{% cells-merger title="نمونه کد ادغام HTML به XLT در C#" InputFormat="html" InputFormat2="xlt" outformat="xlt" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="net" %}}
 
 {{% blocks/products/pf/agp/content h2="نحوه ادغام HTML با XLT از طریق C#" %}}
 

@@ -1,7 +1,7 @@
 ---
-title: C++ SPREADSHEETML به MHT - تبدیل آنلاین SPREADSHEETML به MHT
-description: Aspose اکسل. C++ Aspose.Cells. C++ Aspose Cells. رایگان آنلاین C++ تبدیل SPREADSHEETML به ذخیره فرمت MHT. C++ SPREADSHEETML به فرمت MHT. SPREADSHEETML را در MHT C++ ذخیره کنید.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ SPREADSHEETML to MHT saveformat., Free Online SPREADSHEETML to MHT C++., C++ Convert SPREADSHEETML to MHT]
+title: C++ SPREADSHEETML به MHT - مبدل SPREADSHEETML به MHT
+description: Aspose اکسل. تبدیل SPREADSHEETML به MHT به سرعت و به راحتی با Aspose.Cells. C++ SPREADSHEETML به MHT. C++ SPREADSHEETML را در MHT ذخیره کنید. SPREADSHEETML را به عنوان MHT با استفاده از C++ ذخیره کنید.
+keywords: [Aspose Excel., C++ Aspose.Cells., Convert SPREADSHEETML to MHT in C++., Save SPREADSHEETML to MHT using C++., C++ SPREADSHEETML to MHT saveformat., SPREADSHEETML to MHT Converter., C++ Save SPREADSHEETML as MHT]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="SPREADSHEETML را در C++ به MHT تبدیل کنید" h2="تبدیل SPREADSHEETML به MHT با کارایی بالا با استفاده از کتابخانه C++ بدون نیاز به نصب Microsoft Excel، OpenOffice یا Adobe Acrobat." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" sourceAdditionalConversionTag="" additionalConversionTag="MHT" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ SPREADSHEETM
 
 {{% blocks/products/pf/agp/content h2="با استفاده از C++ SPREADSHEETML را به MHT تبدیل کنید" %}}
 
- چگونه SPREADSHEETML را به MHT تبدیل کنم؟ با کتابخانه Aspose.Cells for C++ می توانید به راحتی SPREADSHEETML را به صورت برنامه نویسی با چند خط کد به MHT تبدیل کنید.[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) قادر به ساخت برنامه های چند پلتفرمی با قابلیت تولید، تغییر، تبدیل، رندر و چاپ تمام فایل های اکسل است. C++ اکسل API نه تنها بین فرمت های صفحه گسترده تبدیل می کند، بلکه می تواند فایل های اکسل را به صورت تصویر رندر کند. انتخاب عالی برای تبادل اسناد در استانداردهای صنعتی فرمت ها شما می توانید آخرین نسخه آن را مستقیما دانلود کنید، فقط باز کنید[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) Package Manager Aspose.Cells.Cpp را جستجو کرده و نصب کنید. همچنین می توانید از دستور زیر در کنسول Package Manager استفاده کنید.
+ چگونه SPREADSHEETML را به MHT تبدیل کنم؟ با کتابخانه Aspose.Cells for C++ می توانید به راحتی SPREADSHEETML را به صورت برنامه نویسی با چند خط کد به MHT تبدیل کنید.[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) قادر به ساخت برنامه های چند پلتفرمی با قابلیت تولید، تغییر، تبدیل، رندر و چاپ تمام فایل های اکسل است. C++ اکسل API نه تنها بین فرمت های صفحه گسترده تبدیل می شود، بلکه می تواند فایل های اکسل را به صورت تصویر، PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT و موارد دیگر ارائه دهد، بنابراین آن را به گزینه ای عالی برای تبادل اسناد در قالب های استاندارد صنعتی تبدیل می کند. شما می توانید آخرین نسخه آن را مستقیما دانلود کنید، فقط باز کنید[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) Package Manager Aspose.Cells.Cpp را جستجو کرده و نصب کنید. همچنین می توانید از دستور زیر در کنسول Package Manager استفاده کنید.
 
 {{% blocks/products/pf/agp/code-block title="فرمان" offSpacer="true" %}}
 
@@ -26,7 +26,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="SPREADSHEETML را در C++ به صورت آنلاین به صورت رایگان در MHT ذخیره کنید" %}}
+{{% blocks/products/pf/agp/content h2="SPREADSHEETML را در MHT در C++ ذخیره کنید" %}}
 
 مثال زیر نحوه تبدیل SPREADSHEETML به MHT را در C++ نشان می دهد.
 {{% blocks/products/pf/agp/text %}}
@@ -37,7 +37,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="برنامه رایگان و کد نمونه برای تبدیل SPREADSHEETML به MHT آنلاین" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xml" outformat="mht" IsLandingPage="true" language="cpp" %}}
+{{% cells-convert title="نمونه کد برای تبدیل SPREADSHEETML به MHT" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xml" outformat="mht" IsLandingPage="true" language="cpp" %}}
 
 {{% blocks/products/pf/agp/content h2="نحوه تبدیل SPREADSHEETML به MHT از طریق C++" %}}
 
@@ -49,7 +49,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 1.  'Aspose.Cells for C++' را نصب کنید.
 1.  یک مرجع کتابخانه (وارد کردن کتابخانه) به پروژه C++ خود اضافه کنید.
-1.  فایل SPREADSHEETML را با استفاده از Factory::CreateIWorkbook بارگیری کنید.
+1.  فایل SPREADSHEETML را با استفاده از Workbook بارگیری کنید.
 1.  با فراخوانی متد Save() SPREADSHEETML را به MHT تبدیل کنید.
 1.  نتیجه تبدیل SPREADSHEETML به MHT را دریافت کنید.
 
@@ -101,7 +101,6 @@ PM> Install-Package Aspose.Cells.Cpp
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/spreadsheetml-to-pdf/" name="صفحه گسترده به شماره PDF" description="فرمت سند قابل حمل" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/spreadsheetml-to-png/" name="صفحه گسترده به شماره PNG" description="گرافیک شبکه قابل حمل" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/spreadsheetml-to-svg/" name="صفحه گسترده به شماره SVG" description="گرافیک برداری مقیاس پذیر" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/spreadsheetml-to-tiff/" name="صفحه گسترده به شماره TIFF" description="فرمت تصویر برچسب شده" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/spreadsheetml-to-tsv/" name="صفحه گسترده به شماره TSV" description="مقادیر جدا شده از تب" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/spreadsheetml-to-txt/" name="صفحه گسترده به شماره TXT" description="سند متنی" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/spreadsheetml-to-xls/" name="صفحه گسترده به شماره XLS" description="فرمت باینری اکسل" >}}

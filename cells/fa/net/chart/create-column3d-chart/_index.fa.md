@@ -1,6 +1,7 @@
 ---
 title: نمودارهای Column3D را از طریق C# ایجاد کنید
 description: C# نمونه کد برای ایجاد نمودارهای Column3D در اکسل با استفاده از کتابخانه .NET. از این کد برای ایجاد نمودار Column3D در MS Excel در VB.NET، Asp.NET یا هر برنامه مبتنی بر .NET استفاده کنید.
+keywords: [C# Aspose.Cells., c# add Column3D Chart., c# insert Column3D Chart., c# create Column3D Chart]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 

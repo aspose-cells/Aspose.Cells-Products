@@ -1,7 +1,8 @@
 ---
-title:  واترمارک XLSB سند via Java
+title: واترمارک XLSB سند via Java
 weight: 5900
 description: Java کد نمونه برای افزودن یا حذف واترمارک به فایل XLSB در Java Runtime Environment برای برنامه های کاربردی JSP/JSF و برنامه های دسکتاپ.
+keywords: [Java Aspose.Cells., Java add watermark to xlsb file., Java insert watermark to xlsb file., Java create watermark in xlsb file., remove watermark from xlsb file using Java., Java operate watermark in xlsb file., Java access watermark in xlsb file]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="واترمارک متنی را به XLSB via Java اضافه کنید" h2="برنامه های Java خود را بسازید تا فایل های XLSB را با استفاده از API های سمت سرور علامت گذاری کنید." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSB" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="" fileiconsmall1="PPTX" fileiconsmall2="DOCX" fileiconsmall3="XLSX" fileiconsmall4="PDF" fileiconsmall5=" ODP " >}}

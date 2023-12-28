@@ -1,7 +1,7 @@
 ---
-title: C++ XLSX به EMF - تبدیل آنلاین XLSX به EMF
-description: Aspose اکسل. C++ Aspose.Cells. C++ Aspose Cells. رایگان آنلاین C++ تبدیل XLSX به EMF ذخیره فرمت. C++ XLSX الی EMF فرمت. XLSX را به شماره EMF C++ ذخیره کنید.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ XLSX to EMF saveformat., Free Online XLSX to EMF C++., C++ Convert XLSX to EMF]
+title: C++ XLSX به EMF - XLSX به EMF تبدیل
+description: Aspose اکسل. XLSX را سریع و آسان با Aspose.Cells به EMF تبدیل کنید. 113481 با استفاده از C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., Convert XLSX to EMF in C++., Save XLSX to EMF using C++., C++ XLSX to EMF saveformat., XLSX to EMF Converter., C++ Save XLSX as EMF]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="تبدیل XLSX به EMF در C++" h2="تبدیل XLSX به EMF با کارایی بالا با استفاده از کتابخانه C++ بدون نیاز به نصب اکسل، OpenOffice یا Adobe Acrobat Microsoft." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" sourceAdditionalConversionTag="" additionalConversionTag="EMF" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ XLSX to EMF 
 
 {{% blocks/products/pf/agp/content h2="تبدیل XLSX به EMF با استفاده از C++" %}}
 
-چگونه XLSX را به EMF تبدیل کنم؟ با کتابخانه Aspose.Cells for C++ می توانید به راحتی با چند خط کد XLSX را به صورت برنامه ای به EMF تبدیل کنید.[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) قادر به ساخت برنامه های چند پلتفرمی با قابلیت تولید، تغییر، تبدیل، رندر و چاپ تمام فایل های اکسل است. C++ اکسل API نه تنها بین فرمت های صفحه گسترده تبدیل می کند، بلکه می تواند فایل های اکسل را به صورت تصویر رندر کند. انتخاب عالی برای تبادل اسناد در استانداردهای صنعتی فرمت ها شما می توانید آخرین نسخه آن را مستقیما دانلود کنید، فقط باز کنید[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) Package Manager Aspose.Cells.Cpp را جستجو کرده و نصب کنید. همچنین می توانید از دستور زیر در کنسول Package Manager استفاده کنید.
+چگونه XLSX را به EMF تبدیل کنم؟ با کتابخانه Aspose.Cells for C++ می توانید به راحتی با چند خط کد XLSX را به صورت برنامه ای به EMF تبدیل کنید.[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) قادر به ساخت برنامه های چند پلتفرمی با قابلیت تولید، تغییر، تبدیل، رندر و چاپ تمام فایل های اکسل است. C++ اکسل API نه تنها بین فرمت های صفحه گسترده تبدیل می شود، بلکه می تواند فایل های اکسل را به صورت تصویر، PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT و موارد دیگر ارائه دهد، بنابراین آن را به گزینه ای عالی برای تبادل اسناد در قالب های استاندارد صنعتی تبدیل می کند. شما می توانید آخرین نسخه آن را مستقیما دانلود کنید، فقط باز کنید[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) Package Manager Aspose.Cells.Cpp را جستجو کرده و نصب کنید. همچنین می توانید از دستور زیر در کنسول Package Manager استفاده کنید.
 
 {{% blocks/products/pf/agp/code-block title="فرمان" offSpacer="true" %}}
 
@@ -26,7 +26,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="XLSX را به شماره EMF در C++ بصورت آنلاین و رایگان ذخیره کنید" %}}
+{{% blocks/products/pf/agp/content h2="XLSX را به شماره EMF در C++ ذخیره کنید" %}}
 
 مثال زیر نحوه تبدیل XLSX به EMF را در C++ نشان می دهد.
 {{% blocks/products/pf/agp/text %}}
@@ -37,7 +37,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="برنامه رایگان و کد نمونه برای تبدیل XLSX به EMF آنلاین" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsx" outformat="emf" IsLandingPage="true" language="cpp" %}}
+{{% cells-convert title="نمونه کد برای تبدیل XLSX به EMF" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsx" outformat="emf" IsLandingPage="true" language="cpp" %}}
 
 {{% blocks/products/pf/agp/content h2="نحوه تبدیل XLSX به EMF از طریق C++" %}}
 
@@ -49,7 +49,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 1.  'Aspose.Cells for C++' را نصب کنید.
 1.  یک مرجع کتابخانه (وارد کردن کتابخانه) به پروژه C++ خود اضافه کنید.
-1.  فایل XLSX را با استفاده از Factory::CreateIWorkbook بارگیری کنید.
+1.  فایل XLSX را با استفاده از Workbook بارگیری کنید.
 1.  XLSX را با فراخوانی متد Save() به EMF تبدیل کنید.
 1.  نتیجه تبدیل XLSX به EMF را دریافت کنید.
 
@@ -85,7 +85,7 @@ PM> Install-Package Aspose.Cells.Cpp
 <!-- aboutfile Starts -->
     {{< blocks/products/pf/agp/about-file-section >}}
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLSX" readMoreLink="https://docs.fileformat.com/spreadsheet/xlsx/" >}}XLSX فرمت شناخته شده ای برای اسناد اکسل Microsoft است که توسط Microsoft با انتشار Microsoft Office 2007 معرفی شد. یک بسته فشرده که حاوی تعدادی فایل XML است. ساختار و فایل های زیرین را می توان به سادگی با باز کردن فایل xlsx. بررسی کرد.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="EMF" readMoreLink="https://docs.fileformat.com/image/emf/" >}}فرمت متافایل پیشرفته (EMF) تصاویر گرافیکی را مستقل از دستگاه ذخیره می کند. Metafiles EMF شامل رکوردهای با طول متغیر به ترتیب زمانی است که می تواند تصویر ذخیره شده را پس از تجزیه در هر دستگاه خروجی ارائه دهد. این رکوردهای با طول متغیر می توانند تعاریف اشیاء محصور، دستورات برای ترسیم، و ویژگی های گرافیکی برای ارائه دقیق تصویر حیاتی باشند. وقتی دستگاهی یک متافیل EMF را با استفاده از محیط گرافیکی خود باز می کند، نسبت ها، ابعاد، رنگ ها و سایر ویژگی های گرافیکی تصویر اصلی بدون توجه به پلت فرم دستگاه باز می ماند.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="EMF" readMoreLink="https://docs.fileformat.com/image/emf/" >}}فرمت متافایل پیشرفته (EMF) تصاویر گرافیکی را مستقل از دستگاه ذخیره می کند. Metafiles EMF شامل رکوردهای با طول متغیر به ترتیب زمانی است که می تواند تصویر ذخیره شده را پس از تجزیه در هر دستگاه خروجی ارائه دهد. این رکوردهای با طول متغیر می توانند تعاریف اشیاء محصور، دستورات برای ترسیم، و ویژگی های گرافیکی برای ارائه دقیق تصویر حیاتی باشند. وقتی دستگاهی یک متافیل EMF را با استفاده از محیط گرافیکی خود باز می‌کند، نسبت‌ها، ابعاد، رنگ‌ها و سایر ویژگی‌های گرافیکی تصویر اصلی بدون توجه به پلت فرم دستگاه باز می‌ماند.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
     {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->
 
@@ -101,7 +101,6 @@ PM> Install-Package Aspose.Cells.Cpp
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xlsx-to-pdf/" name="XLSX الی PDF" description="فرمت سند قابل حمل" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xlsx-to-png/" name="XLSX الی PNG" description="گرافیک شبکه قابل حمل" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xlsx-to-svg/" name="XLSX الی SVG" description="گرافیک برداری مقیاس پذیر" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xlsx-to-tiff/" name="XLSX الی TIFF" description="فرمت تصویر برچسب شده" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xlsx-to-tsv/" name="XLSX الی TSV" description="مقادیر جدا شده از تب" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xlsx-to-txt/" name="XLSX الی TXT" description="سند متنی" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xlsx-to-xls/" name="XLSX الی XLS" description="فرمت باینری اکسل" >}}

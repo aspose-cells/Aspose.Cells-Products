@@ -1,8 +1,8 @@
 ---
 title: MHT را به EMF ادغام کنید - MHT را با EMF در C++ ترکیب کنید
 url: /fa/cpp/merger/merge-mht-to-emf/ 
-description: Aspose اکسل. C++ Aspose.Cells. ادغام آنلاین رایگان MHT به EMF Saveformat. C++ فرمت MHT را با EMF ترکیب کنید. MHT را به EMF در C++ ادغام کنید. MHT Merge.
-keywords: [Aspose Excel., C++ Aspose.Cells., Merge MHT to EMF in C++., Free Online C++ Merge MHT to emf., C++ Combine MHT to EMF Online for Free., MHT Merge]
+description: Aspose اکسل. C++ Aspose.Cells. MHT را با فرمت ذخیره EMF ادغام کنید. C++ فرمت MHT را با EMF ترکیب کنید. MHT را به EMF در C++ ادغام کنید. MHT Merge.
+keywords: [Aspose Excel., C++ Aspose.Cells., Merge MHT to EMF in C++., C++ Merge MHT to emf., C++ Combine MHT to EMF., MHT Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="MHT را از طریق C++ به EMF ادغام کنید" h2="کتابخانه پرسرعت C++ برای ادغام MHT به EMF. از تبدیل اکسل ما API برای توسعه نرم افزار سطح بالا و مستقل از پلتفرم در C++ استفاده کنید. این یک راه حل نرم افزار حرفه ای برای وارد کردن و صادرات Excel, CSV, OpenOffice, PDF, HTML, image و بسیاری از فرمت های excel دیگر است." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" sourceAdditionalConversionTag="MHT" additionalConversionTag="EMF" pfName="Aspose.Cells" subTitlepfName="for C++" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., C++ Aspose.Cells., Merge MHT to EMF in C++., Free Onli
 
 {{% blocks/products/pf/agp/content h2="ادغام MHT به EMF با استفاده از C++" %}}
 
- چگونه MHT را با EMF ادغام کنم؟ با کتابخانه Aspose.Cells for C++، می توانید به راحتی MHT را به EMF با چند خط کد ادغام کنید.[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) قادر به ساخت برنامه های چند پلتفرمی با قابلیت تولید، تغییر، تبدیل، رندر و چاپ تمام فایل های اکسل است. C++ اکسل API نه تنها بین فرمت های صفحه گسترده تبدیل می کند، بلکه می تواند فایل های اکسل را به صورت تصویر رندر کند. انتخاب عالی برای تبادل اسناد در استانداردهای صنعتی فرمت ها شما می توانید آخرین نسخه آن را مستقیما دانلود کنید، فقط باز کنید[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) Package Manager Aspose.Cells.Cpp را جستجو کرده و نصب کنید. همچنین می توانید از دستور زیر در کنسول Package Manager استفاده کنید.
+ چگونه MHT را با EMF ادغام کنم؟ با کتابخانه Aspose.Cells for C++، می توانید به راحتی MHT را به EMF با چند خط کد ادغام کنید.[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) قادر به ساخت برنامه های چند پلتفرمی با قابلیت تولید، تغییر، تبدیل، رندر و چاپ تمام فایل های اکسل است. C++ اکسل API نه تنها بین فرمت های صفحه گسترده تبدیل می شود، بلکه می تواند فایل های اکسل را به صورت تصویر، PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT و موارد دیگر ارائه دهد، بنابراین آن را به گزینه ای عالی برای تبادل اسناد در قالب های استاندارد صنعتی تبدیل می کند. شما می توانید آخرین نسخه آن را مستقیما دانلود کنید، فقط باز کنید[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) Package Manager Aspose.Cells.Cpp را جستجو کرده و نصب کنید. همچنین می توانید از دستور زیر در کنسول Package Manager استفاده کنید.
 
 {{% blocks/products/pf/agp/code-block title="فرمان" offSpacer="true" %}}
 
@@ -26,7 +26,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="ادغام MHT به EMF در C++ آنلاین به صورت رایگان" %}}
+{{% blocks/products/pf/agp/content h2="MHT را به EMF در C++ ادغام کنید" %}}
 
 مثال زیر نحوه ادغام MHT را با EMF در Aspose.Cells for C++ نشان می دهد.
 {{% blocks/products/pf/agp/text %}}
@@ -37,7 +37,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="آنلاین رایگان برای ادغام MHT به EMF در C++" InputFormat="mht" InputFormat2="emf" outformat="emf" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="cpp" %}}
+{{% cells-merger title="نمونه کد برای ادغام MHT به EMF در C++" InputFormat="mht" InputFormat2="emf" outformat="emf" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="cpp" %}}
 
 {{% blocks/products/pf/agp/content h2="نحوه ادغام MHT به EMF از طریق C++" %}}
 
@@ -89,7 +89,7 @@ API های ما در تمام سیستم عامل ها و سیستم عامل ه
 <!-- aboutfile Starts -->
     {{< blocks/products/pf/agp/about-file-section >}}
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="MHT" readMoreLink="https://docs.fileformat.com/web/mht/" >}}یک فایل با پسوند mht. یک فرمت فایل بایگانی با قابلیت MIME است که شامل انواع مختلف داده در یک فایل واحد است. این می تواند داده هایی مانند متن، تصاویر، استایل صفحه را در قالب فایل های CSS، جاوا اسکریپت و سایر منابع به عنوان منابع جاسازی شده در خود ذخیره کند. فایل‌های MHT، با داشتن پیام از نوع MIME/rfc822، تمام محتویات یک فایل HTML را به عنوان یک فایل بایگانی واحد برای ذخیره در بایگانی در دستگاه‌های ذخیره‌سازی کپسوله می‌کنند. برنامه های نرم افزاری مانند Microsoft Word به شما امکان می دهد اسناد WORD خود را با صادرات به عنوان فایل MHT به MHT تبدیل کنید. فایل های MHT را می توان با استفاده از مرورگرهای محبوب مانند Microsoft Internet Explore و Google Chrome باز کرد.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="EMF" readMoreLink="https://docs.fileformat.com/image/emf/" >}}فرمت متافایل پیشرفته (EMF) تصاویر گرافیکی را مستقل از دستگاه ذخیره می کند. Metafiles EMF شامل رکوردهای با طول متغیر به ترتیب زمانی است که می تواند تصویر ذخیره شده را پس از تجزیه در هر دستگاه خروجی ارائه دهد. این رکوردهای با طول متغیر می توانند تعاریف اشیاء محصور، دستورات برای ترسیم، و ویژگی های گرافیکی برای ارائه دقیق تصویر حیاتی باشند. وقتی دستگاهی یک متافیل EMF را با استفاده از محیط گرافیکی خود باز می کند، نسبت ها، ابعاد، رنگ ها و سایر ویژگی های گرافیکی تصویر اصلی بدون توجه به پلت فرم دستگاه باز می ماند.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="EMF" readMoreLink="https://docs.fileformat.com/image/emf/" >}}فرمت متافایل پیشرفته (EMF) تصاویر گرافیکی را مستقل از دستگاه ذخیره می کند. Metafiles EMF شامل رکوردهای با طول متغیر به ترتیب زمانی است که می تواند تصویر ذخیره شده را پس از تجزیه در هر دستگاه خروجی ارائه دهد. این رکوردهای با طول متغیر می توانند تعاریف اشیاء محصور، دستورات برای ترسیم، و ویژگی های گرافیکی برای ارائه دقیق تصویر حیاتی باشند. وقتی دستگاهی یک متافیل EMF را با استفاده از محیط گرافیکی خود باز می‌کند، نسبت‌ها، ابعاد، رنگ‌ها و سایر ویژگی‌های گرافیکی تصویر اصلی بدون توجه به پلت فرم دستگاه باز می‌ماند.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
     {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->
 
@@ -107,7 +107,6 @@ API های ما در تمام سیستم عامل ها و سیستم عامل ه
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-mht-to-pdf/" name="MHT را به PDF ادغام کنید" description="فرمت سند قابل حمل" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-mht-to-png/" name="MHT را به PNG ادغام کنید" description="گرافیک شبکه قابل حمل" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-mht-to-svg/" name="MHT را به SVG ادغام کنید" description="گرافیک برداری مقیاس پذیر" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-mht-to-tiff/" name="MHT را به TIFF ادغام کنید" description="فرمت تصویر برچسب شده" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-mht-to-tsv/" name="MHT را به TSV ادغام کنید" description="مقادیر جدا شده از تب" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-mht-to-txt/" name="MHT را به TXT ادغام کنید" description="سند متنی" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-mht-to-xls/" name="MHT را به XLS ادغام کنید" description="فرمت باینری اکسل" >}}

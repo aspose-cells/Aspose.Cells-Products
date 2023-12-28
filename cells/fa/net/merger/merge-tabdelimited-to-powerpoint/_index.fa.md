@@ -1,8 +1,8 @@
 ---
 title: ادغام TABDELIMITED به POWERPOINT - ترکیب TABDELIMITED به POWERPOINT در C#
 url: /fa/net/merger/merge-tabdelimited-to-powerpoint/ 
-description: Aspose اکسل. C# Aspose.Cells. ادغام آنلاین رایگان TABDELIMITED به فرمت ذخیره سازی POWERPOINT. C# TABDELIMITED را با فرمت POWERPOINT ترکیب کنید. ادغام TABDELIMITED به POWERPOINT در C#. TABDELIMITED ادغام.
-keywords: [Aspose Excel., C# Aspose.Cells., Merge TABDELIMITED to POWERPOINT in C#., Free Online C# Merge TABDELIMITED to powerpoint., C# Combine TABDELIMITED to POWERPOINT Online for Free., TABDELIMITED Merge]
+description: Aspose اکسل. C# Aspose.Cells. ادغام TABDELIMITED به فرمت ذخیره POWERPOINT. C# TABDELIMITED را با فرمت POWERPOINT ترکیب کنید. ادغام TABDELIMITED به POWERPOINT در C#. TABDELIMITED ادغام.
+keywords: [Aspose Excel., C# Aspose.Cells., Merge TABDELIMITED to POWERPOINT in C#., C# Merge TABDELIMITED to powerpoint., C# Combine TABDELIMITED to POWERPOINT., TABDELIMITED Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="ادغام TABDELIMITED به POWERPOINT از طریق C#" h2="کتابخانه پرسرعت C# برای ادغام TABDELIMITED به POWERPOINT. از تبدیل اکسل ما API برای توسعه نرم افزار سطح بالا و مستقل از پلت فرم در C# استفاده کنید. این یک راه حل نرم افزاری حرفه ای برای وارد کردن و صادرات Excel, CSV, OpenOffice, PDF, HTML, image و بسیاری از فرمت های اکسل دیگر است." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="TABDELIMITED" additionalConversionTag="POWERPOINT" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., C# Aspose.Cells., Merge TABDELIMITED to POWERPOINT in 
 
 {{% blocks/products/pf/agp/content h2="ادغام TABDELIMITED به POWERPOINT با استفاده از C#" %}}
 
- چگونه TABDELIMITED را با POWERPOINT ادغام کنم؟ با کتابخانه Aspose.Cells for .NET، می توانید به راحتی با چند خط کد، TABDELIMITED را به POWERPOINT ادغام کنید.[Aspose.Cells for .NET](https://products.aspose.com/cells/net)قادر به ساخت برنامه های چند پلتفرمی با قابلیت تولید، تغییر، تبدیل، رندر و چاپ تمام فایل های اکسل است. .NET اکسل API نه تنها بین فرمت های صفحه گسترده تبدیل می کند، بلکه می تواند فایل های اکسل را به صورت تصویر رندر کند. انتخاب عالی برای تبادل اسناد در استانداردهای صنعتی فرمت ها باز کن[NuGet](https://www.nuget.org/packages/aspose.cells) Package Manager Aspose.Cells را جستجو و نصب کنید. همچنین می توانید از دستور زیر در کنسول Package Manager استفاده کنید.
+ چگونه TABDELIMITED را با POWERPOINT ادغام کنم؟ با کتابخانه Aspose.Cells for .NET، می توانید به راحتی با چند خط کد، TABDELIMITED را به POWERPOINT ادغام کنید.[Aspose.Cells for .NET](https://products.aspose.com/cells/net)قادر به ساخت برنامه های چند پلتفرمی با قابلیت تولید، تغییر، تبدیل، رندر و چاپ تمام فایل های اکسل است. .NET اکسل API نه تنها بین فرمت های صفحه گسترده تبدیل می شود، بلکه می تواند فایل های اکسل را به صورت تصویر، PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT و موارد دیگر ارائه دهد، بنابراین آن را به گزینه ای عالی برای تبادل اسناد در قالب های استاندارد صنعتی تبدیل می کند. باز کن[NuGet](https://www.nuget.org/packages/aspose.cells) Package Manager Aspose.Cells را جستجو و نصب کنید. همچنین می توانید از دستور زیر در کنسول Package Manager استفاده کنید.
 
 {{% blocks/products/pf/agp/code-block title="فرمان کنسول Package Manager" offSpacer="true" %}}
 
@@ -26,7 +26,7 @@ PM> Install-Package Aspose.Cells
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="ادغام TABDELIMITED به POWERPOINT در C# آنلاین به صورت رایگان" %}}
+{{% blocks/products/pf/agp/content h2="TABDELIMITED را با POWERPOINT در C# ادغام کنید" %}}
 
 مثال زیر نحوه ادغام TABDELIMITED به POWERPOINT را در Aspose.Cells for .NET نشان می دهد.
 {{% blocks/products/pf/agp/text %}}
@@ -37,7 +37,7 @@ PM> Install-Package Aspose.Cells
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="آنلاین رایگان برای ادغام TABDELIMITED به POWERPOINT در C#" InputFormat="tsv" InputFormat2="pptx" outformat="pptx" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="net" %}}
+{{% cells-merger title="کد نمونه برای ادغام TABDELIMITED در POWERPOINT در C#" InputFormat="tsv" InputFormat2="pptx" outformat="pptx" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="net" %}}
 
 {{% blocks/products/pf/agp/content h2="نحوه ادغام TABDELIMITED به POWERPOINT از طریق C#" %}}
 

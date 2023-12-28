@@ -1,8 +1,8 @@
 ---
 title: XLTM را با DOCX ادغام کنید - XLTM را با DOCX در Python ترکیب کنید
 url: /fa/python-java/merger/merge-xltm-to-docx/ 
-description: Aspose اکسل. Python Aspose.Cells. ادغام آنلاین رایگان XLTM به DOCX ذخیره فرمت. Python XLTM را با فرمت DOCX ترکیب کنید. ادغام XLTM به DOCX در Python. XLTM ادغام.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge XLTM to DOCX in Python., Free Online Python Merge XLTM to docx., Python Combine XLTM to DOCX Online for Free., XLTM Merge]
+description: Aspose اکسل. Python Aspose.Cells. ادغام XLTM به DOCX ذخیره فرمت. Python XLTM را با فرمت DOCX ترکیب کنید. ادغام XLTM به DOCX در Python. XLTM ادغام.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge XLTM to DOCX in Python., Python Merge XLTM to docx., Python Combine XLTM to DOCX., XLTM Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="XLTM را با DOCX از طریق Python ادغام کنید" h2="کتابخانه پرسرعت Python برای ادغام XLTM به DOCX. از تبدیل اکسل ما API برای توسعه نرم افزار سطح بالا و مستقل از پلتفرم در Python استفاده کنید. این یک راه حل حرفه ای نرم افزاری برای وارد کردن و صادرات بسیاری از فرمت های excel53481، و صادرات 07134343481 است." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="XLTM" additionalConversionTag="DOCX" pfName="Aspose.Cells" subTitlepfName="for Python" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -12,12 +12,12 @@ keywords: [Aspose Excel., Python Aspose.Cells., Merge XLTM to DOCX in Python., F
 
 {{% blocks/products/pf/agp/content h2="ادغام XLTM به DOCX با استفاده از Python" %}}
 
- چگونه XLTM را با DOCX ادغام کنم؟ با کتابخانه Aspose.Cells for Python via Java می توانید به راحتی با چند خط کد XLTM را به DOCX ادغام کنید.[Aspose.Cells for Python via Java](https://pypi.org/project/aspose-cells)قادر به ساخت برنامه های چند پلتفرمی با قابلیت تولید، تغییر، تبدیل، رندر و چاپ تمام فایل های اکسل است. Python اکسل API نه تنها بین فرمت های صفحه گسترده تبدیل می کند، بلکه می تواند فایل های اکسل را به صورت تصویر رندر کند. انتخاب عالی برای تبادل اسناد در استانداردهای صنعتی فرمت ها می توانید Aspose.Cells for Python via Java را نصب کنید<a href="https://pypi.org/project/aspose-cells/">pypi</a> ، از دستور به صورت زیر استفاده کنید:<code>$ pip install aspose-cells</code>.
+چگونه XLTM را با DOCX ادغام کنم؟ با کتابخانه Aspose.Cells for Python via Java می توانید به راحتی با چند خط کد XLTM را به DOCX ادغام کنید.[Aspose.Cells for Python via Java](https://pypi.org/project/aspose-cells) قادر به ساخت برنامه های چند پلتفرمی با قابلیت تولید، تغییر، تبدیل، رندر و چاپ تمام فایل های اکسل است. Python اکسل API نه تنها بین فرمت های صفحه گسترده تبدیل می شود، بلکه می تواند فایل های اکسل را به صورت تصویر، PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT و موارد دیگر ارائه دهد، بنابراین آن را به گزینه ای عالی برای تبادل اسناد در قالب های استاندارد صنعتی تبدیل می کند. می توانید Aspose.Cells for Python via Java را نصب کنید<a href="https://pypi.org/project/aspose-cells/">pypi</a> ، از دستور به صورت زیر استفاده کنید:<code>$ pip install aspose-cells</code>.
 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="ادغام XLTM به DOCX در Python آنلاین به صورت رایگان" %}}
+{{% blocks/products/pf/agp/content h2="XLTM را با DOCX در Python ادغام کنید" %}}
 
 مثال زیر نحوه ادغام XLTM با DOCX را در Aspose.Cells for Python via Java نشان می دهد.
 {{% blocks/products/pf/agp/text %}}
@@ -28,7 +28,7 @@ keywords: [Aspose Excel., Python Aspose.Cells., Merge XLTM to DOCX in Python., F
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="آنلاین رایگان برای ادغام XLTM با DOCX در Python" InputFormat="xltm" InputFormat2="docx" outformat="docx" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-merger title="نمونه کد ادغام XLTM به DOCX در Python" InputFormat="xltm" InputFormat2="docx" outformat="docx" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="نحوه ادغام XLTM با DOCX از طریق Python" %}}
 
@@ -73,7 +73,7 @@ API های ما در تمام سیستم عامل ها و سیستم عامل ه
 
 -  Java 1.8 یا بالاتر را نصب کنید و آن را به متغیر محیطی PATH اضافه کنید، به عنوان مثال:<code>PATH=C:\Program Files\Java\jdk1.8.0_131;</code>.
 -  نصب[Python](https://www.python.org/downloads/) 3.5 یا بالاتر
-- Aspose.Cells for Python را نصب کنید<a href="https://pypi.org/project/aspose-cells/">pypi</a> ، از دستور به صورت زیر استفاده کنید:<code>$ pip install aspose-cells</code>.
+-  Aspose.Cells for Python را نصب کنید<a href="https://pypi.org/project/aspose-cells/">pypi</a> ، از دستور به صورت زیر استفاده کنید:<code>$ pip install aspose-cells</code>.
 
 
 {{% /blocks/products/pf/agp/content %}}
@@ -81,7 +81,7 @@ API های ما در تمام سیستم عامل ها و سیستم عامل ه
 <!-- aboutfile Starts -->
     {{< blocks/products/pf/agp/about-file-section >}}
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLTM" readMoreLink="https://docs.fileformat.com/spreadsheet/xltm/" >}}پسوند فایل XLTM فایل هایی را نشان می دهد که توسط اکسل Microsoft به عنوان فایل های قالب با قابلیت ماکرو تولید می شوند. فایل‌های XLTM از نظر ساختار شبیه به XLTX هستند، به غیر از این که فایل‌های بعدی از ایجاد فایل‌های الگو با ماکرو پشتیبانی نمی‌کنند. چنین فایل‌های قالبی برای تولید و تنظیم طرح‌بندی، قالب‌بندی و سایر تنظیمات همراه با ماکروها استفاده می‌شوند تا ایجاد فایل‌های مشابه XLSX را تسهیل کنند.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="DOCX" readMoreLink="https://docs.fileformat.com/word-processing/docx/" >}}DOCX یک فرمت شناخته شده برای اسناد ورد Microsoft است. از سال 2007 با انتشار Microsoft Office 2007 معرفی شد، ساختار این قالب سند جدید از باینری ساده به ترکیبی از فایل های XML و باینری تغییر یافت. فایل‌های Docx را می‌توان با Word 2007 و نسخه‌های جانبی باز کرد، اما با نسخه‌های قبلی MS Word که از پسوند فایل DOC پشتیبانی می‌کنند، نمی‌توان آن‌ها را باز کرد.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="DOCX" readMoreLink="https://docs.fileformat.com/word-processing/docx/" >}}DOCX یک فرمت شناخته شده برای اسناد ورد Microsoft است. از سال 2007 با انتشار Microsoft Office 2007، ساختار این قالب سند جدید از باینری ساده به ترکیبی از فایل های XML و باینری تغییر یافت. فایل‌های Docx را می‌توان با Word 2007 و نسخه‌های جانبی باز کرد، اما با نسخه‌های قبلی MS Word که از پسوند فایل DOC پشتیبانی می‌کنند، نمی‌توان آن‌ها را باز کرد.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
     {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->
 

@@ -1,8 +1,8 @@
 ---
 title: SPREADSHEETML را با HTML ادغام کنید - SPREADSHEETML را با HTML در Python ترکیب کنید
 url: /fa/python-net/merger/merge-spreadsheetml-to-html/ 
-description: Aspose اکسل. Python Aspose.Cells. ادغام آنلاین رایگان SPREADSHEETML به HTML ذخیره فرمت. Python SPREADSHEETML را با فرمت HTML ترکیب کنید. SPREADSHEETML را به HTML در Python ادغام کنید. SPREADSHEETML ادغام.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge SPREADSHEETML to HTML in Python., Free Online Python Merge SPREADSHEETML to html., Python Combine SPREADSHEETML to HTML Online for Free., SPREADSHEETML Merge]
+description: Aspose اکسل. Python Aspose.Cells. SPREADSHEETML را با فرمت ذخیره HTML ادغام کنید. Python SPREADSHEETML را با فرمت HTML ترکیب کنید. SPREADSHEETML را به HTML در Python ادغام کنید. SPREADSHEETML ادغام.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge SPREADSHEETML to HTML in Python., Python Merge SPREADSHEETML to html., Python Combine SPREADSHEETML to HTML., SPREADSHEETML Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="ادغام SPREADSHEETML به HTML از طریق Python" h2="کتابخانه پرسرعت Python برای ادغام SPREADSHEETML به HTML. از تبدیل اکسل ما API برای توسعه نرم افزار سطح بالا و مستقل از پلتفرم در Python استفاده کنید. این یک راه حل نرم افزاری حرفه ای برای وارد کردن و صادرات فرمت های 08cel، 076143 و بسیاری دیگر از فرمت های excel است." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="SPREADSHEETML" additionalConversionTag="HTML" pfName="Aspose.Cells" subTitlepfName="for Python" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -12,12 +12,12 @@ keywords: [Aspose Excel., Python Aspose.Cells., Merge SPREADSHEETML to HTML in P
 
 {{% blocks/products/pf/agp/content h2="ادغام SPREADSHEETML به HTML با استفاده از Python" %}}
 
-چگونه SPREADSHEETML را با HTML ادغام کنم؟ با کتابخانه Aspose.Cells for Python via .NET، می توانید به راحتی با چند خط کد، SPREADSHEETML را به HTML ادغام کنید.[Aspose.Cells for Python via .NET](https://pypi.org/project/aspose-cells-python)قادر به ساخت برنامه های چند پلتفرمی با قابلیت تولید، تغییر، تبدیل، رندر و چاپ تمام فایل های اکسل است. Python اکسل API نه تنها بین فرمت های صفحه گسترده تبدیل می کند، بلکه می تواند فایل های اکسل را به صورت تصویر رندر کند. انتخاب عالی برای تبادل اسناد در استانداردهای صنعتی فرمت ها می توانید Aspose.Cells for Python via .NET را نصب کنید<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> ، از دستور به صورت زیر استفاده کنید:<code>$ pip install aspose-cells-python</code>.
+ چگونه SPREADSHEETML را با HTML ادغام کنم؟ با کتابخانه Aspose.Cells for Python via .NET، می توانید به راحتی با چند خط کد، SPREADSHEETML را به HTML ادغام کنید.[Aspose.Cells for Python via .NET](https://pypi.org/project/aspose-cells-python) قادر به ساخت برنامه های چند پلتفرمی با قابلیت تولید، تغییر، تبدیل، رندر و چاپ تمام فایل های اکسل است. Python اکسل API نه تنها بین فرمت های صفحه گسترده تبدیل می شود، بلکه می تواند فایل های اکسل را به صورت تصویر، PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT و موارد دیگر ارائه دهد، بنابراین آن را به گزینه ای عالی برای تبادل اسناد در قالب های استاندارد صنعتی تبدیل می کند. می توانید Aspose.Cells for Python via .NET را نصب کنید<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> ، از دستور به صورت زیر استفاده کنید:<code>$ pip install aspose-cells-python</code>.
 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="ادغام SPREADSHEETML به HTML در Python آنلاین به صورت رایگان" %}}
+{{% blocks/products/pf/agp/content h2="SPREADSHEETML را به HTML در Python ادغام کنید" %}}
 
 مثال زیر نحوه ادغام SPREADSHEETML را با HTML در Aspose.Cells for Python via .NET نشان می دهد.
 {{% blocks/products/pf/agp/text %}}
@@ -28,7 +28,7 @@ keywords: [Aspose Excel., Python Aspose.Cells., Merge SPREADSHEETML to HTML in P
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="آنلاین رایگان برای ادغام SPREADSHEETML به HTML در Python" InputFormat="xml" InputFormat2="html" outformat="html" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-merger title="نمونه کد برای ادغام SPREADSHEETML به HTML در Python" InputFormat="xml" InputFormat2="html" outformat="html" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="نحوه ادغام SPREADSHEETML به HTML از طریق Python" %}}
 
@@ -52,7 +52,7 @@ keywords: [Aspose Excel., Python Aspose.Cells., Merge SPREADSHEETML to HTML in P
 ما بسته های Python خود را در مخازن PyPi میزبانی می کنیم.
 
 {{% blocks/products/pf/agp/text %}}
-Aspose.Cells for Python را نصب کنید<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> ، از دستور به صورت زیر استفاده کنید:<code>$ pip install aspose-cells-python</code>.
+ Aspose.Cells for Python را نصب کنید<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> ، از دستور به صورت زیر استفاده کنید:<code>$ pip install aspose-cells-python</code>.
 {{% /blocks/products/pf/agp/text %}}
 
 {{% blocks/products/pf/agp/text %}}
@@ -72,7 +72,7 @@ API های ما در تمام سیستم عامل ها و سیستم عامل ه
 {{% /blocks/products/pf/agp/text %}}
 
 -  نصب[Python](https://www.python.org/downloads/) 3.7 یا بالاتر
-- Aspose.Cells for Python را نصب کنید<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> ، از دستور به صورت زیر استفاده کنید:<code>$ pip install aspose-cells-python</code>.
+-  Aspose.Cells for Python را نصب کنید<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> ، از دستور به صورت زیر استفاده کنید:<code>$ pip install aspose-cells-python</code>.
 
 
 {{% /blocks/products/pf/agp/content %}}

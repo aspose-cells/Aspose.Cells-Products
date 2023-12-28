@@ -1,7 +1,7 @@
 ---
 title: ایجاد MARKDOWN - ایجاد فایل MARKDOWN در C++
-description: Aspose اکسل. C++ فایل MARKDOWN ایجاد کنید. Create MARKDOWN C++. C++ MARKDOWN Creater. MARKDOWN را در C++ ایجاد کنید. با استفاده از C++ فایل MARKDOWN را ایجاد کنید.
-keywords: [Aspose Excel., C++ Aspose.Cells., Create MARKDOWN C++., C++ MARKDOWN Creater., Create MARKDOWN file in C++., Generate MARKDOWN file in C++]
+description: Aspose اکسل. C++ ایجاد فایل MARKDOWN به سرعت و به راحتی با Aspose.Cells. ایجاد فایل MARKDOWN با استفاده از C++. ایجاد MARKDOWN در C++. 07134813
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ Create MARKDOWN file., Generate MARKDOWN file in C++., Create MARKDOWN file using C++., Write data to MARKDOWN file via C++., Create a MARKDOWN file in C++., C++ Generate a MARKDOWN file., C++ MARKDOWN Creater]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="فایل MARKDOWN را در C++ ایجاد کنید" h2="ایجاد فایل بومی و با کارایی بالا MARKDOWN به صورت برنامه نویسی بدون Micorsoft Office با استفاده از کتابخانه C++." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" sourceAdditionalConversionTag="" additionalConversionTag="MARKDOWN" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -11,7 +11,7 @@ keywords: [Aspose Excel., C++ Aspose.Cells., Create MARKDOWN C++., C++ MARKDOWN 
 
 {{% blocks/products/pf/agp/content h2="با استفاده از C++ فایل MARKDOWN ایجاد کنید" %}}
 
- چگونه فایل MARKDOWN ایجاد کنیم؟ با کتابخانه Aspose.Cells for C++ به راحتی می توانید فایل MARKDOWN را به صورت برنامه نویسی با چند خط کد ایجاد کنید.[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) قادر به ساخت برنامه های چند پلتفرمی با قابلیت تولید، تغییر، تبدیل، رندر و چاپ تمام فایل های اکسل است. C++ اکسل API نه تنها بین فرمت های صفحه گسترده تبدیل می کند، بلکه می تواند فایل های اکسل را به صورت تصویر رندر کند. انتخاب عالی برای تبادل اسناد در استانداردهای صنعتی فرمت ها شما می توانید آخرین نسخه آن را مستقیما دانلود کنید، فقط باز کنید[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) Package Manager Aspose.Cells.Cpp را جستجو کرده و نصب کنید. همچنین می توانید از دستور زیر در کنسول Package Manager استفاده کنید.
+ چگونه فایل MARKDOWN ایجاد کنیم؟ با کتابخانه Aspose.Cells for C++ به راحتی می توانید فایل MARKDOWN را به صورت برنامه نویسی با چند خط کد ایجاد کنید.[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) قادر به ساخت برنامه های چند پلتفرمی با قابلیت تولید، تغییر، تبدیل، رندر و چاپ تمام فایل های اکسل است. C++ اکسل API نه تنها بین فرمت های صفحه گسترده تبدیل می شود، بلکه می تواند فایل های اکسل را به صورت تصویر، PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT و موارد دیگر ارائه دهد، بنابراین آن را به گزینه ای عالی برای تبادل اسناد در قالب های استاندارد صنعتی تبدیل می کند. شما می توانید آخرین نسخه آن را مستقیما دانلود کنید، فقط باز کنید[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) Package Manager Aspose.Cells.Cpp را جستجو کرده و نصب کنید. همچنین می توانید از دستور زیر در کنسول Package Manager استفاده کنید.
 
 {{% blocks/products/pf/agp/code-block title="فرمان" offSpacer="true" %}}
 
@@ -34,41 +34,47 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/text %}}
 
-1.  یک شی از کلاس IWorkbook ایجاد کنید.
-1.  اولین ورق را در یک شیء IWorksheet دریافت کنید.
-1.  از روش IWorksheet->GetICells() برای وارد کردن سلول های کاربرگ به یک شی ICElls استفاده کنید.
-1. از متد ICells->GetObjectByIndex() برای دسترسی به سلول مورد نظر کاربرگ در یک شی ICEL استفاده کنید.
-1.  برای وارد کردن مقدار به سلول از متد ICEll->PutValue() استفاده کنید.
+1.  یک شی از کلاس Workbook ایجاد کنید.
+1.  اولین ورق را در یک شیء Worksheet دریافت کنید.
+1.  از متد Worksheet.GetCells() برای وارد کردن سلول های کاربرگ به یک شی Cells استفاده کنید.
+1. از متد Cells.Get() برای دسترسی به سلول مورد نظر کاربرگ در یک شی Cell استفاده کنید.
+1.  از متد Cell.PutValue() برای وارد کردن مقدار به سلول استفاده کنید.
 1.  با استفاده از متد Save() workbook را به صورت فایل md. ذخیره کنید.
 
 {{% blocks/products/pf/agp/code-block title="کد نمونه نحوه ایجاد فایل MARKDOWN را در C++ نشان می دهد." offSpacer="" %}}
 
 ```cs
+Aspose::Cells::Startup();
 
-// Create an object of the IWorkbook class.
-intrusive_ptr<IWorkbook> wkb = Factory::CreateIWorkbook();
+// Create an object of the Workbook class.
+Workbook wkb;
+// Get the first sheet into an Worksheet object.
+WorksheetCollection wsc = wkb.GetWorksheets();
+Worksheet ws = wsc.Get(0);
 
-// Get the first sheet into an IWorksheet object.
-intrusive_ptr<IWorksheetCollection> wsc = wkb->GetIWorksheets();
-intrusive_ptr<IWorksheet> ws = wsc->GetObjectByIndex(0);
 
-// Use IWorksheet->GetICells() method to get the cells of the worksheet into an ICells object.
-intrusive_ptr<ICells> cells = ws->GetICells();
+// Use Worksheet.GetCells() method to get the cells of the worksheet into an Cells object.
+Cells cells = ws.GetCells();
 
-// Use ICells->GetObjectByIndex() method to access the desired cell of the worksheet into an ICell object.
-intrusive_ptr<ICell> cell00 = cells->GetObjectByIndex(0, 0);
-intrusive_ptr<ICell> cell01 = cells->GetObjectByIndex(0, 1);
-intrusive_ptr<ICell> cell10 = cells->GetObjectByIndex(1, 0);
-intrusive_ptr<ICell> cell11 = cells->GetObjectByIndex(1, 1);
 
-// Use ICell->PutValue() method to input value into the cell.
-cell00->PutValue(new String("ColumnA"));
-cell01->PutValue(new String("ColumnB"));
-cell10->PutValue(new String("ValueA"));
-cell11->PutValue(new String("ValueB"));
+// Use Cells.Get() method to access the desired cell of the worksheet into an Cell object.
+Cell cell00 = cells.Get(0, 0);
+Cell cell01 = cells.Get(0, 1);
+Cell cell10 = cells.Get(1, 0);
+Cell cell11 = cells.Get(1, 1);
+
+
+// Use Cell.PutValue() method to input value into the cell.
+cell00.PutValue(u"ColumnA");
+cell01.PutValue(u"ColumnB");
+cell10.PutValue(u"ValueA");
+cell11.PutValue(u"ValueB");
+
 
 // Save workbook to resultFile folder
-wkb->Save(new String("created_one.md"));
+wkb.Save(u"created_one.md");
+
+Aspose::Cells::Cleanup();
 
 ```
 

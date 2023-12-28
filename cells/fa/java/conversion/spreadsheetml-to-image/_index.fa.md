@@ -1,7 +1,7 @@
 ---
-title: Java SPREADSHEETML به IMAGE - تبدیل آنلاین SPREADSHEETML به IMAGE
-description: Aspose اکسل. Java Aspose.Cells. Java Aspose Cells. رایگان آنلاین Java تبدیل SPREADSHEETML به ذخیره فرمت IMAGE. Java SPREADSHEETML به فرمت IMAGE. SPREADSHEETML را در IMAGE Java ذخیره کنید.
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java SPREADSHEETML to IMAGE saveformat., Free Online SPREADSHEETML to IMAGE Java., Java Convert SPREADSHEETML to IMAGE]
+title: Java SPREADSHEETML به IMAGE - مبدل SPREADSHEETML به IMAGE
+description: Aspose اکسل. تبدیل SPREADSHEETML به IMAGE به سرعت و به راحتی با Aspose.Cells. Java SPREADSHEETML به IMAGE. Java SPREADSHEETML را در IMAGE ذخیره کنید. با استفاده از Java SPREADSHEETML را به عنوان IMAGE ذخیره کنید.
+keywords: [Aspose Excel., Java Aspose.Cells., Convert SPREADSHEETML to IMAGE in Java., Save SPREADSHEETML to IMAGE using Java., Java SPREADSHEETML to IMAGE saveformat., SPREADSHEETML to IMAGE Converter., Java Save SPREADSHEETML as IMAGE]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="SPREADSHEETML را در Java به IMAGE تبدیل کنید" h2="کتابخانه پرسرعت Java برای تبدیل SPREADSHEETML به IMAGE. این یک راه حل نرم افزاری حرفه ای برای وارد کردن و صادرات SPREADSHEETML، IMAGE و بسیاری از فرمت های دیگر با استفاده از Java است." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="IMAGE" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java SPREADSHE
 
 {{% blocks/products/pf/agp/content h2="با استفاده از Java SPREADSHEETML را به IMAGE تبدیل کنید" %}}
 
- چگونه SPREADSHEETML را به IMAGE تبدیل کنم؟ با کتابخانه Aspose.Cells for Java، می توانید به راحتی با چند خط کد، SPREADSHEETML را به صورت برنامه ریزی شده به IMAGE تبدیل کنید.[Aspose.Cells for Java](https://products.aspose.com/cells/java) قادر به ساخت برنامه های چند پلتفرمی با قابلیت تولید، تغییر، تبدیل، رندر و چاپ تمام فایل های اکسل است. Java اکسل API نه تنها بین فرمت های صفحه گسترده تبدیل می کند، بلکه می تواند فایل های اکسل را به صورت تصویر رندر کند. انتخاب عالی برای تبادل اسناد در استانداردهای صنعتی فرمت ها آخرین نسخه آن را می توانید مستقیماً از اینجا دانلود کنید[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) و با افزودن تنظیمات زیر به pom.xml آن را در پروژه مبتنی بر Maven خود نصب کنید.
+ چگونه SPREADSHEETML را به IMAGE تبدیل کنم؟ با کتابخانه Aspose.Cells for Java، می توانید به راحتی با چند خط کد، SPREADSHEETML را به صورت برنامه ریزی شده به IMAGE تبدیل کنید.[Aspose.Cells for Java](https://products.aspose.com/cells/java)قادر به ساخت برنامه های چند پلتفرمی با قابلیت تولید، تغییر، تبدیل، رندر و چاپ تمام فایل های اکسل است. Java اکسل API نه تنها بین فرمت های صفحه گسترده تبدیل می شود، بلکه می تواند فایل های اکسل را به صورت تصویر، PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT و موارد دیگر ارائه دهد، بنابراین آن را به گزینه ای عالی برای تبادل اسناد در قالب های استاندارد صنعتی تبدیل می کند. آخرین نسخه آن را می توانید مستقیماً از اینجا دانلود کنید[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) و با افزودن تنظیمات زیر به pom.xml آن را در پروژه مبتنی بر Maven خود نصب کنید.
 
 {{% blocks/products/pf/agp/code-block title="مخزن" offSpacer="true" %}}
 
@@ -45,7 +45,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java SPREADSHE
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="SPREADSHEETML را در IMAGE در Java بصورت آنلاین به صورت رایگان ذخیره کنید" %}}
+{{% blocks/products/pf/agp/content h2="SPREADSHEETML را در IMAGE در Java ذخیره کنید" %}}
 
 مثال زیر نحوه تبدیل SPREADSHEETML به IMAGE را در Java نشان می دهد.
 {{% blocks/products/pf/agp/text %}}
@@ -56,7 +56,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java SPREADSHE
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="برنامه رایگان و کد نمونه برای تبدیل SPREADSHEETML به IMAGE آنلاین" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xml" outformat="png" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="نمونه کد برای تبدیل SPREADSHEETML به IMAGE" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xml" outformat="png" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="نحوه تبدیل SPREADSHEETML به IMAGE via Java" %}}
 

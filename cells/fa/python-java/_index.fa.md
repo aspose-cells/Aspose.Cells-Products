@@ -1,7 +1,8 @@
 ---
 title:  Python صفحه گسترده اکسل API - Aspose
 weight: 2820
-description: Python کتابخانه صفحه گسترده برای ایجاد خواندن نوشتن و تجزیه فایل های اکسل.
+description: کتابخانه Python برای ایجاد، تعمیر، ادغام، تجزیه و تبدیل فایل های اکسل. اکسل را به PDF، JSON، HTML، TXT و سایر فرمت های محبوب تبدیل کنید.
+keywords: [Python Aspose.Cells Create parse repair merge convert JSON Excel XML PDF HTML TSV SQL CSV TSV PNG JPEG and more formats]
 ---
 {{< blocks/products/pf/main-wrap-class >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Python Excel Spreadsheets Parsing APIs" h2="صفحات گسترده تولید، خواندن، نوشتن یا دستکاری و همچنین صادرات فایل های اکسل به فرمت های مختلف در برنامه های Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/headers/aspose_cells-for-python-java.svg" pfName="Aspose.Cells" subTitlepfName="for Python via Java" downloadUrl="https://releases.aspose.com/cells/python-java/" >}}
@@ -104,7 +105,7 @@ Aspose.Cells for Python via Java یک API سریع و قابل اعتماد بر
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="استقلال پلتفرم" description="Aspose.Cells for Python via Java موجود است برای." >}}
+{{< blocks/products/pf/carousel-item h3="سکوی استقلال" description="Aspose.Cells for Python via Java موجود است برای." >}}
 <div class="diagram1 d1-python">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -234,7 +235,7 @@ Aspose.Cells for Python via Java یک API سریع و قابل اعتماد بر
  <div class="row">
   <div class="container">
    <h2 class="pr-ft">
-ویژگی های پیشرفته Python Excel API
+ ویژگی های پیشرفته Python Excel API
    </h2>
    <p>
    </p>
@@ -305,7 +306,7 @@ Aspose.Cells for Python via Java یک API سریع و قابل اعتماد بر
     <em class="fa fa-object-ungroup ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- گروه بندی را به سطرها و ستون ها اضافه یا حذف کنید
+گروه بندی را به سطرها و ستون ها اضافه یا حذف کنید
     </p>
    </div>
    <div class="col-lg-4">
@@ -488,7 +489,7 @@ wkbk.save(SD_PATH + "houtput.html", SaveFormat.HTML);</code></pre>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
- سفارشی سازی نمودارها
+سفارشی سازی نمودارها
     </h2>
     <p>
 Aspose.Cells for Python via Java پشتیبانی کامل از نمودار را فراهم می کند. می توان به راحتی نمودارهای استاندارد و سفارشی شده را اضافه کرد یا داده های نمودار را به صورت پویا تنظیم کرد تا نمودار را در این کتابخانه پایتون به روز کند.

@@ -1,7 +1,7 @@
 ---
-title: Java TABDELIMITED به ET - تبدیل آنلاین TABDELIMITED به ET
-description: Aspose اکسل. Java Aspose.Cells. Java Aspose Cells. رایگان آنلاین Java تبدیل TABDELIMITED به ذخیره فرمت ET. Java TABDELIMITED به فرمت ET. TABDELIMITED را در ET Java ذخیره کنید.
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java TABDELIMITED to ET saveformat., Free Online TABDELIMITED to ET Java., Java Convert TABDELIMITED to ET]
+title: Java TABDELIMITED به ET - تبدیل TABDELIMITED به ET
+description: Aspose اکسل. تبدیل TABDELIMITED به ET سریع و آسان با Aspose.Cells. Java TABDELIMITED به ET. Java ذخیره TABDELIMITED در ET. ذخیره TABDELIMITED به عنوان ET با استفاده از Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Convert TABDELIMITED to ET in Java., Save TABDELIMITED to ET using Java., Java TABDELIMITED to ET saveformat., TABDELIMITED to ET Converter., Java Save TABDELIMITED as ET]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="TABDELIMITED را در Java به ET تبدیل کنید" h2="کتابخانه پرسرعت Java برای تبدیل TABDELIMITED به ET. این یک راه حل نرم افزاری حرفه ای برای واردات و صادرات TABDELIMITED، ET، و بسیاری از فرمت های دیگر با استفاده از Java است." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="ET" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java TABDELIMI
 
 {{% blocks/products/pf/agp/content h2="TABDELIMITED را با استفاده از Java به ET تبدیل کنید" %}}
 
- چگونه TABDELIMITED را به ET تبدیل کنم؟ با کتابخانه Aspose.Cells for Java می توانید به راحتی و با چند خط کد، TABDELIMITED را به صورت برنامه ریزی شده به ET تبدیل کنید.[Aspose.Cells for Java](https://products.aspose.com/cells/java) قادر به ساخت برنامه های چند پلتفرمی با قابلیت تولید، تغییر، تبدیل، رندر و چاپ تمام فایل های اکسل است. Java اکسل API نه تنها بین فرمت های صفحه گسترده تبدیل می کند، بلکه می تواند فایل های اکسل را به صورت تصویر رندر کند. انتخاب عالی برای تبادل اسناد در استانداردهای صنعتی فرمت ها آخرین نسخه آن را می توانید مستقیماً از اینجا دانلود کنید[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) و با افزودن تنظیمات زیر به pom.xml آن را در پروژه مبتنی بر Maven خود نصب کنید.
+ چگونه TABDELIMITED را به ET تبدیل کنم؟ با کتابخانه Aspose.Cells for Java می توانید به راحتی و با چند خط کد، TABDELIMITED را به صورت برنامه ریزی شده به ET تبدیل کنید.[Aspose.Cells for Java](https://products.aspose.com/cells/java)قادر به ساخت برنامه های چند پلتفرمی با قابلیت تولید، تغییر، تبدیل، رندر و چاپ تمام فایل های اکسل است. Java اکسل API نه تنها بین فرمت های صفحه گسترده تبدیل می شود، بلکه می تواند فایل های اکسل را به صورت تصویر، PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT و موارد دیگر ارائه دهد، بنابراین آن را به گزینه ای عالی برای تبادل اسناد در قالب های استاندارد صنعتی تبدیل می کند. آخرین نسخه آن را می توانید مستقیماً از اینجا دانلود کنید[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) و با افزودن تنظیمات زیر به pom.xml آن را در پروژه مبتنی بر Maven خود نصب کنید.
 
 {{% blocks/products/pf/agp/code-block title="مخزن" offSpacer="true" %}}
 
@@ -45,7 +45,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java TABDELIMI
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="ذخیره TABDELIMITED در ET در Java آنلاین به صورت رایگان" %}}
+{{% blocks/products/pf/agp/content h2="ذخیره TABDELIMITED در ET در Java" %}}
 
 مثال زیر نحوه تبدیل TABDELIMITED به ET را در Java نشان می دهد.
 {{% blocks/products/pf/agp/text %}}
@@ -56,7 +56,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java TABDELIMI
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="برنامه رایگان و کد نمونه برای تبدیل TABDELIMITED به ET آنلاین" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="tsv" outformat="et" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="کد نمونه برای تبدیل TABDELIMITED به ET" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="tsv" outformat="et" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="نحوه تبدیل TABDELIMITED به ET via Java" %}}
 

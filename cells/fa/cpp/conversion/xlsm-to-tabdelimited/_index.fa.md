@@ -1,7 +1,7 @@
 ---
-title: C++ XLSM به TABDELIMITED - تبدیل آنلاین XLSM به TABDELIMITED
-description: Aspose اکسل. C++ Aspose.Cells. C++ Aspose Cells. آنلاین رایگان C++ تبدیل XLSM به TABDELIMITED ذخیره فرمت. C++ XLSM به فرمت TABDELIMITED. XLSM را به ABDELIMITED C++ ذخیره کنید.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ XLSM to TABDELIMITED saveformat., Free Online XLSM to TABDELIMITED C++., C++ Convert XLSM to TABDELIMITED]
+title: C++ XLSM به TABDELIMITED - XLSM به TABDELIMITED تبدیل
+description: Aspose اکسل. تبدیل XLSM به TABDELIMITED به سرعت و به راحتی با Aspose.Cells. C++ XLSM به TABDELIMITED. C++ XLSM را به ABDELIMITED ذخیره کنید. با استفاده از C++ شماره XLSM را بصورت TABDELIMITED ذخیره کنید.
+keywords: [Aspose Excel., C++ Aspose.Cells., Convert XLSM to TABDELIMITED in C++., Save XLSM to TABDELIMITED using C++., C++ XLSM to TABDELIMITED saveformat., XLSM to TABDELIMITED Converter., C++ Save XLSM as TABDELIMITED]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="تبدیل XLSM به ABDELIMITED در C++" h2="تبدیل XLSM به TABDELIMITED با کارایی بالا با استفاده از کتابخانه C++ بدون نیاز به نصب Microsoft Excel، OpenOffice یا Adobe Acrobat." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" sourceAdditionalConversionTag="" additionalConversionTag="TABDELIMITED" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ XLSM to TABD
 
 {{% blocks/products/pf/agp/content h2="تبدیل XLSM به ABDELIMITED با استفاده از C++" %}}
 
- چگونه XLSM را به TABDELIMITED تبدیل کنم؟ با کتابخانه Aspose.Cells for C++ می توانید به راحتی با چند خط کد XLSM را به صورت برنامه ریزی شده به TABDELIMITED تبدیل کنید.[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) قادر به ساخت برنامه های چند پلتفرمی با قابلیت تولید، تغییر، تبدیل، رندر و چاپ تمام فایل های اکسل است. C++ اکسل API نه تنها بین فرمت های صفحه گسترده تبدیل می کند، بلکه می تواند فایل های اکسل را به صورت تصویر رندر کند. انتخاب عالی برای تبادل اسناد در استانداردهای صنعتی فرمت ها شما می توانید آخرین نسخه آن را مستقیما دانلود کنید، فقط باز کنید[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) Package Manager Aspose.Cells.Cpp را جستجو کرده و نصب کنید. همچنین می توانید از دستور زیر در کنسول Package Manager استفاده کنید.
+ چگونه XLSM را به TABDELIMITED تبدیل کنم؟ با کتابخانه Aspose.Cells for C++ می توانید به راحتی با چند خط کد XLSM را به صورت برنامه ریزی شده به TABDELIMITED تبدیل کنید.[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) قادر به ساخت برنامه های چند پلتفرمی با قابلیت تولید، تغییر، تبدیل، رندر و چاپ تمام فایل های اکسل است. C++ اکسل API نه تنها بین فرمت های صفحه گسترده تبدیل می شود، بلکه می تواند فایل های اکسل را به صورت تصویر، PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT و موارد دیگر ارائه دهد، بنابراین آن را به گزینه ای عالی برای تبادل اسناد در قالب های استاندارد صنعتی تبدیل می کند. شما می توانید آخرین نسخه آن را مستقیما دانلود کنید، فقط باز کنید[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) Package Manager Aspose.Cells.Cpp را جستجو کرده و نصب کنید. همچنین می توانید از دستور زیر در کنسول Package Manager استفاده کنید.
 
 {{% blocks/products/pf/agp/code-block title="فرمان" offSpacer="true" %}}
 
@@ -26,7 +26,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="XLSM را ذخیره کنید تا ABDELIMITED در C++ آنلاین به صورت رایگان" %}}
+{{% blocks/products/pf/agp/content h2="XLSM را به ABDELIMITED در C++ ذخیره کنید" %}}
 
 مثال زیر نحوه تبدیل XLSM به TABDELIMITED را در C++ نشان می دهد.
 {{% blocks/products/pf/agp/text %}}
@@ -37,7 +37,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="برنامه رایگان و کد نمونه برای تبدیل XLSM به TABDELIMITED آنلاین" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsm" outformat="tsv" IsLandingPage="true" language="cpp" %}}
+{{% cells-convert title="کد نمونه برای تبدیل XLSM به TABDELIMITED" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsm" outformat="tsv" IsLandingPage="true" language="cpp" %}}
 
 {{% blocks/products/pf/agp/content h2="نحوه تبدیل XLSM به TABDELIMITED از طریق C++" %}}
 
@@ -49,7 +49,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 1.  'Aspose.Cells for C++' را نصب کنید.
 1.  یک مرجع کتابخانه (وارد کردن کتابخانه) به پروژه C++ خود اضافه کنید.
-1.  فایل XLSM را با استفاده از Factory::CreateIWorkbook بارگیری کنید.
+1.  فایل XLSM را با استفاده از Workbook بارگیری کنید.
 1. XLSM را با فراخوانی متد Save() به TABDELIMITED تبدیل کنید.
 1.  نتیجه تبدیل XLSM به TABDELIMITED را دریافت کنید.
 
@@ -101,7 +101,6 @@ PM> Install-Package Aspose.Cells.Cpp
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xlsm-to-pdf/" name="XLSM الی PDF" description="فرمت سند قابل حمل" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xlsm-to-png/" name="XLSM الی PNG" description="گرافیک شبکه قابل حمل" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xlsm-to-svg/" name="XLSM الی SVG" description="گرافیک برداری مقیاس پذیر" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xlsm-to-tiff/" name="XLSM الی TIFF" description="فرمت تصویر برچسب شده" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xlsm-to-tsv/" name="XLSM الی TSV" description="مقادیر جدا شده از تب" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xlsm-to-txt/" name="XLSM الی TXT" description="سند متنی" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xlsm-to-xls/" name="XLSM الی XLS" description="فرمت باینری اکسل" >}}

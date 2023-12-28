@@ -1,7 +1,7 @@
 ---
-title: Java EXCEL به HTM - تبدیل آنلاین EXCEL به HTM
-description: Aspose اکسل. Java Aspose.Cells. Java Aspose Cells. رایگان آنلاین Java تبدیل EXCEL به HTM saveformat. Java EXCEL به فرمت HTM. EXCEL را در HTM Java ذخیره کنید.
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java EXCEL to HTM saveformat., Free Online EXCEL to HTM Java., Java Convert EXCEL to HTM]
+title: Java EXCEL به HTM - تبدیل EXCEL به HTM
+description: Aspose اکسل. تبدیل EXCEL به HTM به سرعت و به راحتی با Aspose.Cells. Java EXCEL به HTM. Java EXCEL را در HTM ذخیره کنید. EXCEL را با استفاده از Java به عنوان HTM ذخیره کنید.
+keywords: [Aspose Excel., Java Aspose.Cells., Convert EXCEL to HTM in Java., Save EXCEL to HTM using Java., Java EXCEL to HTM saveformat., EXCEL to HTM Converter., Java Save EXCEL as HTM]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="EXCEL را به HTM در Java تبدیل کنید" h2="کتابخانه پرسرعت Java برای تبدیل EXCEL به HTM. این یک راه حل نرم افزاری حرفه ای برای واردات و صادرات EXCEL، HTM، و بسیاری از فرمت های دیگر با استفاده از Java است." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="HTM" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java EXCEL to 
 
 {{% blocks/products/pf/agp/content h2="با استفاده از Java EXCEL را به HTM تبدیل کنید" %}}
 
- چگونه EXCEL را به HTM تبدیل کنم؟ با کتابخانه Aspose.Cells for Java به راحتی می توانید EXCEL را به صورت برنامه ریزی شده با چند خط کد به HTM تبدیل کنید.[Aspose.Cells for Java](https://products.aspose.com/cells/java) قادر به ساخت برنامه های چند پلتفرمی با قابلیت تولید، تغییر، تبدیل، رندر و چاپ تمام فایل های اکسل است. Java اکسل API نه تنها بین فرمت های صفحه گسترده تبدیل می کند، بلکه می تواند فایل های اکسل را به صورت تصویر رندر کند. انتخاب عالی برای تبادل اسناد در استانداردهای صنعتی فرمت ها آخرین نسخه آن را می توانید مستقیماً از اینجا دانلود کنید[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) و با افزودن تنظیمات زیر به pom.xml آن را در پروژه مبتنی بر Maven خود نصب کنید.
+ چگونه EXCEL را به HTM تبدیل کنم؟ با کتابخانه Aspose.Cells for Java به راحتی می توانید EXCEL را به صورت برنامه ریزی شده با چند خط کد به HTM تبدیل کنید.[Aspose.Cells for Java](https://products.aspose.com/cells/java)قادر به ساخت برنامه های چند پلتفرمی با قابلیت تولید، تغییر، تبدیل، رندر و چاپ تمام فایل های اکسل است. Java اکسل API نه تنها بین فرمت های صفحه گسترده تبدیل می شود، بلکه می تواند فایل های اکسل را به صورت تصویر، PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT و موارد دیگر ارائه دهد، بنابراین آن را به گزینه ای عالی برای تبادل اسناد در قالب های استاندارد صنعتی تبدیل می کند. آخرین نسخه آن را می توانید مستقیماً از اینجا دانلود کنید[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) و با افزودن تنظیمات زیر به pom.xml آن را در پروژه مبتنی بر Maven خود نصب کنید.
 
 {{% blocks/products/pf/agp/code-block title="مخزن" offSpacer="true" %}}
 
@@ -45,7 +45,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java EXCEL to 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="EXCEL را در Java به صورت آنلاین به صورت رایگان در HTM ذخیره کنید" %}}
+{{% blocks/products/pf/agp/content h2="EXCEL را در HTM در Java ذخیره کنید" %}}
 
 مثال زیر نحوه تبدیل EXCEL به HTM را در Java نشان می دهد.
 {{% blocks/products/pf/agp/text %}}
@@ -56,7 +56,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java EXCEL to 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="برنامه رایگان و کد نمونه برای تبدیل EXCEL به HTM آنلاین" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsx" outformat="htm" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="نمونه کد برای تبدیل EXCEL به HTM" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsx" outformat="htm" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="نحوه تبدیل EXCEL به HTM via Java" %}}
 
@@ -70,7 +70,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java EXCEL to 
 1.  یک مرجع کتابخانه (وارد کردن کتابخانه) به پروژه Java خود اضافه کنید.
 1.  فایل EXCEL را با نمونه ای از کلاس Workbook بارگیری کنید.
 1.  با فراخوانی روش Workbook.save EXCEL را به HTM تبدیل کنید.
-1.  نتیجه تبدیل EXCEL به HTM را دریافت کنید.
+1. نتیجه تبدیل EXCEL به HTM را دریافت کنید.
 
 {{% /blocks/products/pf/agp/content %}}
 

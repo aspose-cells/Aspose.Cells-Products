@@ -1,7 +1,7 @@
 ---
-title: Python HTM به SPREADSHEETML - تبدیل آنلاین HTM به SPREADSHEETML
-description: Aspose اکسل. Python Aspose.Cells. Python Aspose Cells. رایگان آنلاین Python تبدیل HTM به SPREADSHEETML ذخیره فرمت. Python HTM به فرمت SPREADSHEETML. HTM را در SPREADSHEETML Python ذخیره کنید.
-keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python HTM to SPREADSHEETML saveformat., Free Online HTM to SPREADSHEETML Python., Python Convert HTM to SPREADSHEETML]
+title: Python HTM به SPREADSHEETML - تبدیل HTM به SPREADSHEETML
+description: Aspose اکسل. تبدیل HTM به SPREADSHEETML به سرعت و به راحتی با Aspose.Cells. Python HTM به SPREADSHEETML. Python HTM را در SPREADSHEETML ذخیره کنید. HTM را به عنوان SPREADSHEETML با استفاده از Python ذخیره کنید.
+keywords: [Aspose Excel., Python Aspose.Cells., Convert HTM to SPREADSHEETML in Python., Save HTM to SPREADSHEETML using Python., Python HTM to SPREADSHEETML saveformat., HTM to SPREADSHEETML Converter., Python Save HTM as SPREADSHEETML]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="HTM را به SPREADSHEETML در Python تبدیل کنید" h2="کتابخانه پرسرعت Python برای تبدیل HTM به SPREADSHEETML. از تبدیل اکسل API ما برای توسعه نرم افزار سطح بالا و مستقل از پلت فرم در Python استفاده کنید." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="SPREADSHEETML" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,12 +12,12 @@ keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python HTM
 
 {{% blocks/products/pf/agp/content h2="HTM را به SPREADSHEETML در Python تبدیل کنید" %}}
 
- چگونه HTM را به SPREADSHEETML تبدیل کنم؟ با Aspose.Cells for Python از طریق کتابخانه NET، می توانید به راحتی HTM را به صورت برنامه ریزی شده با چند خط کد به SPREADSHEETML تبدیل کنید.[Aspose.Cells for Python از طریق NET](https://pypi.org/project/aspose-cells-python/)قادر به ساخت برنامه های چند پلتفرمی با قابلیت تولید، تغییر، تبدیل، رندر و چاپ تمام فایل های اکسل است. Python اکسل API نه تنها بین فرمت های صفحه گسترده تبدیل می کند، بلکه می تواند فایل های اکسل را به صورت تصویر رندر کند. انتخاب عالی برای تبادل اسناد در استانداردهای صنعتی فرمت ها
+ چگونه HTM را به SPREADSHEETML تبدیل کنم؟ با Aspose.Cells for Python از طریق کتابخانه NET، می توانید به راحتی HTM را به صورت برنامه ریزی شده با چند خط کد به SPREADSHEETML تبدیل کنید.[Aspose.Cells for Python از طریق NET](https://pypi.org/project/aspose-cells-python/)قادر به ساخت برنامه های چند پلتفرمی با قابلیت تولید، تغییر، تبدیل، رندر و چاپ تمام فایل های اکسل است. Python اکسل API نه تنها بین فرمت های صفحه گسترده تبدیل می شود، بلکه می تواند فایل های اکسل را به صورت تصویر، PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT و موارد دیگر ارائه دهد، بنابراین آن را به گزینه ای عالی برای تبادل اسناد در قالب های استاندارد صنعتی تبدیل می کند.
 
 {{% /blocks/products/pf/agp/content %}}
 
 
-{{% blocks/products/pf/agp/content h2="HTM را به صورت رایگان در SPREADSHEETML در Python ذخیره کنید" %}}
+{{% blocks/products/pf/agp/content h2="HTM را در SPREADSHEETML در Python ذخیره کنید" %}}
 
 مثال زیر نحوه تبدیل HTM به SPREADSHEETML را در Python via NET نشان می دهد.
 {{% blocks/products/pf/agp/text %}}
@@ -28,7 +28,7 @@ keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python HTM
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="برنامه رایگان و کد نمونه برای تبدیل HTM به SPREADSHEETML آنلاین" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="htm" outformat="xml" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="نمونه کد برای تبدیل HTM به SPREADSHEETML" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="htm" outformat="xml" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="چگونه HTM را به SPREADSHEETML تبدیل کنیم" %}}
 
@@ -52,7 +52,7 @@ keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python HTM
 ما بسته های Python خود را در مخازن PyPi میزبانی می کنیم.
 
 {{% blocks/products/pf/agp/text %}}
-Aspose.Cells for Python را نصب کنید<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> ، از دستور به صورت زیر استفاده کنید:<code>$ pip install aspose-cells-python</code>.
+ Aspose.Cells for Python را نصب کنید<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> ، از دستور به صورت زیر استفاده کنید:<code>$ pip install aspose-cells-python</code>.
 {{% /blocks/products/pf/agp/text %}}
 
 {{% blocks/products/pf/agp/text %}}

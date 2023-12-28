@@ -2,6 +2,7 @@
 title:  قفل XLSX سند via Java را باز کنید
 weight: 310
 description: Java نمونه کد برای باز کردن قفل فایل XLSX محافظت شده با رمز عبور در Java Runtime Environment برای برنامه های JSP/JSF و برنامه های دسکتاپ.
+keywords: [Java Aspose.Cells., Java unlock XLSX files., Java how to unlock XLSX document., Java unprotect XLSX files., remove protection from XLSX files., decrypt XLSX Files using Java]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="باز کردن قفل XLSX فایل via Java" h2="حفاظت از صفحات گسترده اکسل شامل فایل XLSX را با استفاده از کتابخانه Java حذف کنید." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSX" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -73,7 +74,7 @@ description: Java نمونه کد برای باز کردن قفل فایل XLSX 
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="فایل های XLSX را از طریق C# باز کنید" offSpacer="" %}}
+{{% blocks/products/pf/agp/code-block title="باز کردن قفل XLSX فایل via Java" offSpacer="" %}}
 
 ```cs
 

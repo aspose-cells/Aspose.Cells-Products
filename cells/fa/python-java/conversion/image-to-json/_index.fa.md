@@ -1,7 +1,7 @@
 ---
-title: Python IMAGE به JSON - تبدیل آنلاین IMAGE به JSON
-description: Aspose اکسل. Python Aspose.Cells. Python Aspose Cells. رایگان آنلاین Python تبدیل تصویر به JSON ذخیره فرمت. فرمت Python IMAGE تا JSON. IMAGE را در JSON Python ذخیره کنید.
-keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python IMAGE to JSON saveformat., Free Online IMAGE to JSON Python., Python Convert IMAGE to JSON]
+title: Python IMAGE به JSON - تبدیل IMAGE به JSON
+description: Aspose اکسل. Python Aspose.Cells. IMAGE به JSON در Python. Python تبدیل IMAGE به JSON ذخیره فرمت. فرمت Python IMAGE تا JSON. IMAGE را در JSON Python ذخیره کنید.
+keywords: [Aspose Excel., Python Aspose.Cells., IMAGE to JSON in Python., Python IMAGE to JSON saveformat., IMAGE to JSON Python., Python Convert IMAGE to JSON]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="تبدیل IMAGE به JSON در Python" h2="کتابخانه پرسرعت Python برای تبدیل IMAGE به JSON. این یک راه حل نرم افزاری حرفه ای برای وارد کردن و صادرات IMAGE، JSON و بسیاری از فرمت های دیگر با استفاده از Python است." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="JSON" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,11 +12,11 @@ keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python IMA
 
 {{% blocks/products/pf/agp/content h2="تبدیل IMAGE به JSON با استفاده از Python" %}}
 
- چگونه IMAGE را به JSON تبدیل کنم؟ با کتابخانه Aspose.Cells for Python می توانید به راحتی و با چند خط کد IMAGE را به صورت برنامه نویسی به JSON تبدیل کنید.[Aspose.Cells for Python](https://pypi.org/project/aspose-cells)قادر به ساخت برنامه های چند پلتفرمی با قابلیت تولید، تغییر، تبدیل، رندر و چاپ تمام فایل های اکسل است. Python اکسل API نه تنها بین فرمت های صفحه گسترده تبدیل می کند، بلکه می تواند فایل های اکسل را به صورت تصویر رندر کند. انتخاب عالی برای تبادل اسناد در استانداردهای صنعتی فرمت ها
+ چگونه IMAGE را به JSON تبدیل کنم؟ با کتابخانه Aspose.Cells for Python می توانید به راحتی و با چند خط کد IMAGE را به صورت برنامه نویسی به JSON تبدیل کنید.[Aspose.Cells for Python](https://pypi.org/project/aspose-cells)قادر به ساخت برنامه های چند پلتفرمی با قابلیت تولید، تغییر، تبدیل، رندر و چاپ تمام فایل های اکسل است. Python اکسل API نه تنها بین فرمت های صفحه گسترده تبدیل می شود، بلکه می تواند فایل های اکسل را به صورت تصویر، PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT و موارد دیگر ارائه دهد، بنابراین آن را به گزینه ای عالی برای تبادل اسناد در قالب های استاندارد صنعتی تبدیل می کند.
  
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="ذخیره IMAGE در JSON در Python بصورت آنلاین به صورت رایگان" %}}
+{{% blocks/products/pf/agp/content h2="IMAGE را در JSON در Python ذخیره کنید" %}}
 
 مثال زیر نحوه تبدیل IMAGE را به JSON در Python نشان می دهد.
 {{% blocks/products/pf/agp/text %}}
@@ -27,7 +27,7 @@ keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python IMA
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="برنامه رایگان و کد نمونه برای تبدیل IMAGE به JSON آنلاین" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="png" outformat="json" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="نمونه کد برای تبدیل IMAGE به JSON" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="png" outformat="json" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="نحوه تبدیل IMAGE به JSON از طریق Python" %}}
 
@@ -63,12 +63,12 @@ keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python IMA
 
 {{% blocks/products/pf/agp/text %}}
 
-Aspose.Cells for Python via Java مستقل از پلتفرم API است و می تواند در هر پلتفرمی (Windows، لینوکس و MacOS) استفاده شود، فقط مطمئن شوید که سیستم دارای Java 1.8 یا بالاتر است،[Python](https://www.python.org/downloads/) 3.5 یا بالاتر
+ Aspose.Cells for Python via Java مستقل از پلتفرم API است و می تواند در هر پلتفرمی (Windows، لینوکس و MacOS) استفاده شود، فقط مطمئن شوید که سیستم دارای Java 1.8 یا بالاتر است،[Python](https://www.python.org/downloads/) 3.5 یا بالاتر
  
 {{% /blocks/products/pf/agp/text %}}
 
 -  Java را نصب کنید و آن را به متغیر محیطی PATH اضافه کنید، به عنوان مثال:<code>PATH=C:\Program Files\Java\jdk1.8.0_131;</code>.
-- Aspose.Cells for Python را نصب کنید<a href="https://pypi.org/project/aspose-cells/">pypi</a> ، از دستور به صورت زیر استفاده کنید:<code>$ pip install aspose-cells</code>.
+-  Aspose.Cells for Python را نصب کنید<a href="https://pypi.org/project/aspose-cells/">pypi</a> ، از دستور به صورت زیر استفاده کنید:<code>$ pip install aspose-cells</code>.
 
 {{% /blocks/products/pf/agp/content %}}
 

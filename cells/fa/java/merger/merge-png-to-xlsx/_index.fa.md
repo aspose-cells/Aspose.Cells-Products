@@ -1,8 +1,8 @@
 ---
 title: PNG را با XLSX ادغام کنید - PNG را با XLSX در Java ترکیب کنید
 url: /fa/java/merger/merge-png-to-xlsx/ 
-description: Aspose اکسل. Java Aspose.Cells. ادغام آنلاین رایگان PNG به XLSX ذخیره فرمت. Java PNG را با فرمت XLSX ترکیب کنید. ادغام PNG به XLSX در Java. PNG ادغام.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge PNG to XLSX in Java., Free Online Java Merge PNG to xlsx., Java Combine PNG to XLSX Online for Free., PNG Merge]
+description: Aspose اکسل. Java Aspose.Cells. ادغام PNG به XLSX ذخیره فرمت. Java PNG را با فرمت XLSX ترکیب کنید. ادغام PNG به XLSX در Java. PNG ادغام.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge PNG to XLSX in Java., Java Merge PNG to xlsx., Java Combine PNG to XLSX., PNG Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="PNG را با XLSX via Java ادغام کنید" h2="کتابخانه پرسرعت Java برای ادغام PNG به XLSX. از تبدیل اکسل ما API برای توسعه نرم افزار سطح بالا و مستقل از پلتفرم در Java استفاده کنید. این یک راه حل حرفه ای نرم افزاری برای وارد کردن و صادرات بسیاری از فرمت های excel53481، و صادرات 07134343481 است." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="PNG" additionalConversionTag="XLSX" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Merge PNG to XLSX in Java., Free O
 
 {{% blocks/products/pf/agp/content h2="ادغام PNG به XLSX با استفاده از Java" %}}
 
- چگونه PNG را با XLSX ادغام کنم؟ با کتابخانه Aspose.Cells for Java می توانید به راحتی با چند خط کد PNG را به XLSX ادغام کنید.[Aspose.Cells for Java](https://products.aspose.com/cells/java) قادر به ساخت برنامه های چند پلتفرمی با قابلیت تولید، تغییر، تبدیل، رندر و چاپ تمام فایل های اکسل است. Java اکسل API نه تنها بین فرمت های صفحه گسترده تبدیل می کند، بلکه می تواند فایل های اکسل را به صورت تصویر رندر کند. انتخاب عالی برای تبادل اسناد در استانداردهای صنعتی فرمت ها آخرین نسخه آن را می توانید مستقیماً از اینجا دانلود کنید[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) و با افزودن تنظیمات زیر به pom.xml آن را در پروژه مبتنی بر Maven خود نصب کنید.
+ چگونه PNG را با XLSX ادغام کنم؟ با کتابخانه Aspose.Cells for Java می توانید به راحتی با چند خط کد PNG را به XLSX ادغام کنید.[Aspose.Cells for Java](https://products.aspose.com/cells/java)قادر به ساخت برنامه های چند پلتفرمی با قابلیت تولید، تغییر، تبدیل، رندر و چاپ تمام فایل های اکسل است. Java اکسل API نه تنها بین فرمت های صفحه گسترده تبدیل می شود، بلکه می تواند فایل های اکسل را به صورت تصویر، PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT و موارد دیگر ارائه دهد، بنابراین آن را به گزینه ای عالی برای تبادل اسناد در قالب های استاندارد صنعتی تبدیل می کند. آخرین نسخه آن را می توانید مستقیماً از اینجا دانلود کنید[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) و با افزودن تنظیمات زیر به pom.xml آن را در پروژه مبتنی بر Maven خود نصب کنید.
 
 {{% blocks/products/pf/agp/code-block title="مخزن" offSpacer="true" %}}
 
@@ -45,7 +45,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Merge PNG to XLSX in Java., Free O
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="ادغام PNG به XLSX در Java آنلاین به صورت رایگان" %}}
+{{% blocks/products/pf/agp/content h2="PNG را با XLSX در Java ادغام کنید" %}}
 
 مثال زیر نحوه ادغام PNG با XLSX را در Aspose.Cells for Java نشان می دهد.
 {{% blocks/products/pf/agp/text %}}
@@ -56,7 +56,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Merge PNG to XLSX in Java., Free O
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="آنلاین رایگان برای ادغام PNG با XLSX در Java" InputFormat="png" InputFormat2="xlsx" outformat="xlsx" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="java" %}}
+{{% cells-merger title="نمونه کد ادغام PNG به XLSX در Java" InputFormat="png" InputFormat2="xlsx" outformat="xlsx" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="نحوه ادغام PNG به XLSX via Java" %}}
 

@@ -1,7 +1,7 @@
 ---
-title: C++ JSON به ETT - تبدیل آنلاین JSON به ETT
-description: Aspose اکسل. C++ Aspose.Cells. C++ Aspose Cells. رایگان آنلاین C++ تبدیل JSON به فرمت ذخیره ETT. C++ JSON به فرمت ETT. JSON را به ETT C++ ذخیره کنید.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ JSON to ETT saveformat., Free Online JSON to ETT C++., C++ Convert JSON to ETT]
+title: C++ JSON به ETT - JSON به ETT تبدیل
+description: Aspose اکسل. JSON را به سرعت و به راحتی با Aspose.Cells به ETT تبدیل کنید. C++ JSON به ETT. C++ JSON را در ETT ذخیره کنید. JSON را به عنوان ETT با استفاده از C++ ذخیره کنید.
+keywords: [Aspose Excel., C++ Aspose.Cells., Convert JSON to ETT in C++., Save JSON to ETT using C++., C++ JSON to ETT saveformat., JSON to ETT Converter., C++ Save JSON as ETT]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="JSON را به ETT در C++ تبدیل کنید" h2="تبدیل JSON به ETT با کارایی بالا با استفاده از کتابخانه C++ بدون نیاز به نصب Microsoft Excel، OpenOffice یا Adobe Acrobat." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" sourceAdditionalConversionTag="" additionalConversionTag="ETT" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ JSON to ETT 
 
 {{% blocks/products/pf/agp/content h2="تبدیل JSON به ETT با استفاده از C++" %}}
 
- چگونه JSON را به ETT تبدیل کنم؟ با کتابخانه Aspose.Cells for C++ به راحتی می توانید با چند خط کد JSON را به صورت برنامه ریزی شده به ETT تبدیل کنید.[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) قادر به ساخت برنامه های چند پلتفرمی با قابلیت تولید، تغییر، تبدیل، رندر و چاپ تمام فایل های اکسل است. C++ اکسل API نه تنها بین فرمت های صفحه گسترده تبدیل می کند، بلکه می تواند فایل های اکسل را به صورت تصویر رندر کند. انتخاب عالی برای تبادل اسناد در استانداردهای صنعتی فرمت ها شما می توانید آخرین نسخه آن را مستقیما دانلود کنید، فقط باز کنید[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) Package Manager Aspose.Cells.Cpp را جستجو کرده و نصب کنید. همچنین می توانید از دستور زیر در کنسول Package Manager استفاده کنید.
+چگونه JSON را به ETT تبدیل کنم؟ با کتابخانه Aspose.Cells for C++ به راحتی می توانید با چند خط کد JSON را به صورت برنامه ریزی شده به ETT تبدیل کنید.[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) قادر به ساخت برنامه های چند پلتفرمی با قابلیت تولید، تغییر، تبدیل، رندر و چاپ تمام فایل های اکسل است. C++ اکسل API نه تنها بین فرمت های صفحه گسترده تبدیل می شود، بلکه می تواند فایل های اکسل را به صورت تصویر، PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT و موارد دیگر ارائه دهد، بنابراین آن را به گزینه ای عالی برای تبادل اسناد در قالب های استاندارد صنعتی تبدیل می کند. شما می توانید آخرین نسخه آن را مستقیما دانلود کنید، فقط باز کنید[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) Package Manager Aspose.Cells.Cpp را جستجو کرده و نصب کنید. همچنین می توانید از دستور زیر در کنسول Package Manager استفاده کنید.
 
 {{% blocks/products/pf/agp/code-block title="فرمان" offSpacer="true" %}}
 
@@ -26,7 +26,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="JSON را به ETT در C++ به صورت آنلاین و رایگان ذخیره کنید" %}}
+{{% blocks/products/pf/agp/content h2="JSON را به ETT در C++ ذخیره کنید" %}}
 
 مثال زیر نحوه تبدیل JSON به ETT را در C++ نشان می دهد.
 {{% blocks/products/pf/agp/text %}}
@@ -37,7 +37,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="برنامه رایگان و کد نمونه برای تبدیل JSON به ETT آنلاین" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="json" outformat="ett" IsLandingPage="true" language="cpp" %}}
+{{% cells-convert title="کد نمونه برای تبدیل JSON به ETT" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="json" outformat="ett" IsLandingPage="true" language="cpp" %}}
 
 {{% blocks/products/pf/agp/content h2="نحوه تبدیل JSON به ETT از طریق C++" %}}
 
@@ -49,7 +49,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 1.  'Aspose.Cells for C++' را نصب کنید.
 1.  یک مرجع کتابخانه (وارد کردن کتابخانه) به پروژه C++ خود اضافه کنید.
-1.  فایل JSON را با استفاده از Factory::CreateIWorkbook بارگیری کنید.
+1.  فایل JSON را با استفاده از Workbook بارگیری کنید.
 1.  JSON را با فراخوانی متد Save() به ETT تبدیل کنید.
 1.  نتیجه تبدیل JSON به ETT را دریافت کنید.
 
@@ -101,7 +101,6 @@ PM> Install-Package Aspose.Cells.Cpp
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/json-to-pdf/" name="JSON الی PDF" description="فرمت سند قابل حمل" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/json-to-png/" name="JSON الی PNG" description="گرافیک شبکه قابل حمل" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/json-to-svg/" name="JSON الی SVG" description="گرافیک برداری مقیاس پذیر" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/json-to-tiff/" name="JSON الی TIFF" description="فرمت تصویر برچسب شده" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/json-to-tsv/" name="JSON الی TSV" description="مقادیر جدا شده از تب" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/json-to-txt/" name="JSON الی TXT" description="سند متنی" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/json-to-xls/" name="JSON الی XLS" description="فرمت باینری اکسل" >}}

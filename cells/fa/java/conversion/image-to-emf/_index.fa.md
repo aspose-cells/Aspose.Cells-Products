@@ -1,7 +1,7 @@
 ---
-title: Java IMAGE به EMF - تبدیل آنلاین IMAGE به EMF
-description: Aspose اکسل. Java Aspose.Cells. Java Aspose Cells. رایگان آنلاین Java تبدیل تصویر به EMF ذخیره فرمت. فرمت Java IMAGE تا EMF. IMAGE را در EMF Java ذخیره کنید.
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java IMAGE to EMF saveformat., Free Online IMAGE to EMF Java., Java Convert IMAGE to EMF]
+title: Java IMAGE به EMF - تبدیل IMAGE به EMF
+description: Aspose اکسل. تبدیل IMAGE به EMF به سرعت و به راحتی با Aspose.Cells. Java IMAGE به EMF. Java ذخیره IMAGE به EMF. ذخیره IMAGE به عنوان 07613473.
+keywords: [Aspose Excel., Java Aspose.Cells., Convert IMAGE to EMF in Java., Save IMAGE to EMF using Java., Java IMAGE to EMF saveformat., IMAGE to EMF Converter., Java Save IMAGE as EMF]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="تبدیل IMAGE به EMF در Java" h2="کتابخانه پرسرعت Java برای تبدیل IMAGE به EMF. این یک راه حل نرم افزاری حرفه ای برای وارد کردن و صادرات IMAGE، EMF و بسیاری از فرمت های دیگر با استفاده از Java است." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="EMF" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java IMAGE to 
 
 {{% blocks/products/pf/agp/content h2="تبدیل IMAGE به EMF با استفاده از Java" %}}
 
- چگونه IMAGE را به EMF تبدیل کنم؟ با کتابخانه Aspose.Cells for Java می توانید به راحتی و با چند خط کد IMAGE را به صورت برنامه نویسی به EMF تبدیل کنید.[Aspose.Cells for Java](https://products.aspose.com/cells/java) قادر به ساخت برنامه های چند پلتفرمی با قابلیت تولید، تغییر، تبدیل، رندر و چاپ تمام فایل های اکسل است. Java اکسل API نه تنها بین فرمت های صفحه گسترده تبدیل می کند، بلکه می تواند فایل های اکسل را به صورت تصویر رندر کند. انتخاب عالی برای تبادل اسناد در استانداردهای صنعتی فرمت ها آخرین نسخه آن را می توانید مستقیماً از اینجا دانلود کنید[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) و با افزودن تنظیمات زیر به pom.xml آن را در پروژه مبتنی بر Maven خود نصب کنید.
+ چگونه IMAGE را به EMF تبدیل کنم؟ با کتابخانه Aspose.Cells for Java می توانید به راحتی و با چند خط کد IMAGE را به صورت برنامه نویسی به EMF تبدیل کنید.[Aspose.Cells for Java](https://products.aspose.com/cells/java)قادر به ساخت برنامه های چند پلتفرمی با قابلیت تولید، تغییر، تبدیل، رندر و چاپ تمام فایل های اکسل است. Java اکسل API نه تنها بین فرمت های صفحه گسترده تبدیل می شود، بلکه می تواند فایل های اکسل را به صورت تصویر، PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT و موارد دیگر ارائه دهد، بنابراین آن را به گزینه ای عالی برای تبادل اسناد در قالب های استاندارد صنعتی تبدیل می کند. آخرین نسخه آن را می توانید مستقیماً از اینجا دانلود کنید[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) و با افزودن تنظیمات زیر به pom.xml آن را در پروژه مبتنی بر Maven خود نصب کنید.
 
 {{% blocks/products/pf/agp/code-block title="مخزن" offSpacer="true" %}}
 
@@ -45,7 +45,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java IMAGE to 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="ذخیره IMAGE در EMF در Java بصورت آنلاین به صورت رایگان" %}}
+{{% blocks/products/pf/agp/content h2="IMAGE را در EMF در Java ذخیره کنید" %}}
 
 مثال زیر نحوه تبدیل IMAGE را به EMF در Java نشان می دهد.
 {{% blocks/products/pf/agp/text %}}
@@ -56,7 +56,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java IMAGE to 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="برنامه رایگان و کد نمونه برای تبدیل IMAGE به EMF آنلاین" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="png" outformat="emf" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="نمونه کد برای تبدیل IMAGE به EMF" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="png" outformat="emf" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="نحوه تبدیل IMAGE به EMF via Java" %}}
 
@@ -98,7 +98,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java IMAGE to 
 <!-- aboutfile Starts -->
     {{< blocks/products/pf/agp/about-file-section >}}
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="IMAGE" readMoreLink="https://docs.fileformat.com/image/png/" >}}فایل PNG (گرافیک شبکه قابل حمل) یک فرمت فایل تصویری شطرنجی است که از فشرده سازی بدون تلفات استفاده می کند. این فرمت فایل به عنوان جایگزین فرمت تبادل گرافیکی (GIF) ایجاد شده است و هیچ محدودیتی برای کپی رایت ندارد. با این حال، فرمت فایل PNG از انیمیشن ها پشتیبانی نمی کند. فرمت فایل PNG از فشرده سازی تصویر بدون اتلاف پشتیبانی می کند که باعث محبوبیت آن در بین کاربرانش می شود. با گذشت زمان، PNG به عنوان یکی از فرمت های فایل تصویری پرکاربرد تبدیل شده است.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="EMF" readMoreLink="https://docs.fileformat.com/image/emf/" >}}فرمت متافایل پیشرفته (EMF) تصاویر گرافیکی را مستقل از دستگاه ذخیره می کند. Metafiles EMF شامل رکوردهای با طول متغیر به ترتیب زمانی است که می تواند تصویر ذخیره شده را پس از تجزیه در هر دستگاه خروجی ارائه دهد. این رکوردهای با طول متغیر می توانند تعاریف اشیاء محصور، دستورات برای ترسیم، و ویژگی های گرافیکی برای ارائه دقیق تصویر حیاتی باشند. وقتی دستگاهی یک متافیل EMF را با استفاده از محیط گرافیکی خود باز می کند، نسبت ها، ابعاد، رنگ ها و سایر ویژگی های گرافیکی تصویر اصلی بدون توجه به پلت فرم دستگاه باز می ماند.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="EMF" readMoreLink="https://docs.fileformat.com/image/emf/" >}}فرمت متافایل پیشرفته (EMF) تصاویر گرافیکی را مستقل از دستگاه ذخیره می کند. Metafiles EMF شامل رکوردهای با طول متغیر به ترتیب زمانی است که می تواند تصویر ذخیره شده را پس از تجزیه در هر دستگاه خروجی ارائه دهد. این رکوردهای با طول متغیر می توانند تعاریف اشیاء محصور، دستورات برای ترسیم، و ویژگی های گرافیکی برای ارائه دقیق تصویر حیاتی باشند. وقتی دستگاهی یک متافیل EMF را با استفاده از محیط گرافیکی خود باز می‌کند، نسبت‌ها، ابعاد، رنگ‌ها و سایر ویژگی‌های گرافیکی تصویر اصلی بدون توجه به پلت فرم دستگاه باز می‌ماند.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
     {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->
 

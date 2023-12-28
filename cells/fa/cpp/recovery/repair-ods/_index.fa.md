@@ -1,8 +1,8 @@
 ---
-title: C++ Repair ods File - Repair ods File Online به صورت رایگان
+title: C++ Repair ods - فایل ods خراب را بازیابی و رفع کنید
 url: /fa/cpp/recovery/repair-ods/ 
-description: Aspose اکسل. C++ Aspose.Cells. C++ تعمیر فایل ods. ابزار آنلاین رایگان تعمیر ods. یک فایل ods خراب را تعمیر کنید. یک فایل ods خراب را در برنامه C++ بازیابی کنید.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ Repair ods file., Free Online Repair a corrupted ods file., C++ Recover ods file.]
+description: C++ Aspose.Cells. اود تعمیر. فایل ods را رفع کنید. ابزار بازیابی ods. فساد بازیابی اطلاعات ods بازیابی فایل ods فایل ods خراب را بازیابی کنید.
+keywords: [C++ Aspose.Cells., repair ods file., ods repair., recover corrupted ods file., repair corrupted ods., recover ods., fix ods file., ods corruption., restore ods data., ods file recovery., recover corrupted ods file.]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="تعمیر فایل ODS در C++" h2="برنامه C++ خود را برای تعمیر فایل های ods با استفاده از C++ بسازید." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" sourceAdditionalConversionTag="" additionalConversionTag="ODS" pfName="Aspose.Cells" subTitlepfName="for C++" downloadUrl="" fileiconsmall1="XLS" fileiconsmall2="XLSB" fileiconsmall3="XLSX" fileiconsmall4="XLSM" fileiconsmall5="ODS" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ Repair ods f
 
 {{% blocks/products/pf/agp/content h2="فایل ODS را با شماره C++ تعمیر کنید" %}}
 
- چگونه فایل ods را تعمیر کنم؟ با کتابخانه Aspose.Cells for C++ به راحتی می توانید فایل ODS را به صورت برنامه ای و با چند خط کد تعمیر کنید.[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) قادر به ساخت برنامه های چند پلتفرمی با قابلیت تولید، تغییر، تبدیل، رندر و چاپ تمام فایل های اکسل است. C++ اکسل API نه تنها بین فرمت های صفحه گسترده تبدیل می کند، بلکه می تواند فایل های اکسل را به صورت تصویر رندر کند. انتخاب عالی برای تبادل اسناد در استانداردهای صنعتی فرمت ها شما می توانید آخرین نسخه آن را مستقیما دانلود کنید، فقط باز کنید[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) Package Manager Aspose.Cells.Cpp را جستجو کرده و نصب کنید. همچنین می توانید از دستور زیر در کنسول Package Manager استفاده کنید.
+ چگونه فایل ods را تعمیر کنم؟ با کتابخانه Aspose.Cells for C++ به راحتی می توانید فایل ODS را به صورت برنامه ای و با چند خط کد تعمیر کنید.[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) قادر به ساخت برنامه های چند پلتفرمی با قابلیت تولید، تغییر، تبدیل، رندر و چاپ تمام فایل های اکسل است. C++ اکسل API نه تنها بین فرمت های صفحه گسترده تبدیل می شود، بلکه می تواند فایل های اکسل را به صورت تصویر، PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT و موارد دیگر ارائه دهد، بنابراین آن را به گزینه ای عالی برای تبادل اسناد در قالب های استاندارد صنعتی تبدیل می کند. شما می توانید آخرین نسخه آن را مستقیما دانلود کنید، فقط باز کنید[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) Package Manager Aspose.Cells.Cpp را جستجو کرده و نصب کنید. همچنین می توانید از دستور زیر در کنسول Package Manager استفاده کنید.
 
 {{% blocks/products/pf/agp/code-block title="فرمان" offSpacer="true" %}}
 
@@ -41,7 +41,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-recovery title="برنامه رایگان و کد نمونه برای تعمیر فایل آنلاین ODS" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et" InputFormat="ods" outformat="ods" IsLandingPage="true" language="cpp" %}}    
+{{% cells-recovery title="نمونه کد تعمیر فایل ODS" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;xps;mhtml;md;json;xml;zip;sql;txt;et" InputFormat="ods" outformat="ods" IsLandingPage="true" language="cpp" %}}    
     
 {{% blocks/products/pf/agp/content h2="C++ کتابخانه جهت تعمیر فایل ODS" %}}
 

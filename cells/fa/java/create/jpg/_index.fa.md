@@ -1,7 +1,7 @@
 ---
 title: ایجاد JPG - فایل JPG را در Java ایجاد کنید
-description: Aspose اکسل. Java فایل JPG ایجاد کنید. ایجاد JPG Java. Java JPG Creater. ایجاد JPG در Java. با استفاده از Java فایل JPG ایجاد کنید.
-keywords: [Aspose Excel., Java Aspose.Cells., Create JPG Java., Java JPG Creater., Create JPG file in Java., Generate JPG file in Java]
+description: Aspose اکسل. Java فایل JPG را به سرعت و به راحتی با Aspose.Cells ایجاد کنید. با استفاده از Java فایل JPG ایجاد کنید. در Java JPG ایجاد کنید. Java JPG Creater.
+keywords: [Aspose Excel., Java Aspose.Cells., Java Create JPG file., Generate JPG file in Java., Create JPG file using Java., Write data to JPG file via Java., Create a JPG file in Java., Java Generate a JPG file., Java JPG Creater]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="فایل JPG را در Java ایجاد کنید" h2="کتابخانه پرسرعت Java برای ایجاد فایل JPG. این یک راه حل نرم افزاری حرفه ای برای واردات و صادرات XLSX، PDF و بسیاری از فرمت های دیگر با استفاده از Java است." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="JPG" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -11,7 +11,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Create JPG Java., Java JPG Creater
 
 {{% blocks/products/pf/agp/content h2="با استفاده از Java فایل JPG ایجاد کنید" %}}
 
- چگونه فایل JPG ایجاد کنیم؟ با کتابخانه Aspose.Cells for Java به راحتی می توانید فایل JPG را به صورت برنامه نویسی با چند خط کد ایجاد کنید.[Aspose.Cells for Java](https://products.aspose.com/cells/java) قادر به ساخت برنامه های چند پلتفرمی با قابلیت تولید، تغییر، تبدیل، رندر و چاپ تمام فایل های اکسل است. Java اکسل API نه تنها بین فرمت های صفحه گسترده تبدیل می کند، بلکه می تواند فایل های اکسل را به صورت تصویر رندر کند. انتخاب عالی برای تبادل اسناد در استانداردهای صنعتی فرمت ها آخرین نسخه آن را می توانید مستقیماً از اینجا دانلود کنید[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) و با افزودن تنظیمات زیر به pom.xml آن را در پروژه مبتنی بر Maven خود نصب کنید.
+ چگونه فایل JPG ایجاد کنیم؟ با کتابخانه Aspose.Cells for Java به راحتی می توانید فایل JPG را به صورت برنامه نویسی با چند خط کد ایجاد کنید.[Aspose.Cells for Java](https://products.aspose.com/cells/java)قادر به ساخت برنامه های چند پلتفرمی با قابلیت تولید، تغییر، تبدیل، رندر و چاپ تمام فایل های اکسل است. Java اکسل API نه تنها بین فرمت های صفحه گسترده تبدیل می شود، بلکه می تواند فایل های اکسل را به صورت تصویر، PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT و موارد دیگر ارائه دهد، بنابراین آن را به گزینه ای عالی برای تبادل اسناد در قالب های استاندارد صنعتی تبدیل می کند. آخرین نسخه آن را می توانید مستقیماً از اینجا دانلود کنید[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) و با افزودن تنظیمات زیر به pom.xml آن را در پروژه مبتنی بر Maven خود نصب کنید.
 
 {{% blocks/products/pf/agp/code-block title="مخزن" offSpacer="true" %}}
 
@@ -101,7 +101,7 @@ wkb.save("Excel.jpg");
 
 {{% blocks/products/pf/agp/text %}}
 
-قبل از اجرای کد منبع نمونه تبدیل Java، مطمئن شوید که پیش نیازهای زیر را دارید.
+ قبل از اجرای کد منبع نمونه تبدیل Java، مطمئن شوید که پیش نیازهای زیر را دارید.
 
 {{% /blocks/products/pf/agp/text %}}
 

@@ -2,6 +2,7 @@
 title:  تقسیم XLSM فایل via .NET
 weight: 8890
 description: کد منبع C# برای تقسیم اسناد XLSM در .NET Framework، .NET Core، Mono یا Xamarin Platforms.
+keywords: [C# Aspose.Cells., C# split xlsm files., C# how to split xlsm files into multiple files., C# xlsm splitter., C# split Cell., Cell splitter using C#]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="تقسیم XLSM فرمت در C#" h2="تقسیم‌کننده بومی و با کارایی بالا XLSM با استفاده از APIهای سمت سرور، بدون استفاده از نرم‌افزاری مانند Microsoft یا Open Office، Adobe PDF." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="XLSM" >}}

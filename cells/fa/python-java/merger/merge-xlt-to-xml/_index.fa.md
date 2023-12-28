@@ -1,8 +1,8 @@
 ---
 title: ادغام XLT به XML - ترکیب XLT به XML در Python
 url: /fa/python-java/merger/merge-xlt-to-xml/ 
-description: Aspose اکسل. Python Aspose.Cells. ادغام آنلاین رایگان XLT به فرمت ذخیره XML. Python XLT را با فرمت XML ترکیب کنید. ادغام XLT به XML در Python. XLT ادغام.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge XLT to XML in Python., Free Online Python Merge XLT to xml., Python Combine XLT to XML Online for Free., XLT Merge]
+description: Aspose اکسل. Python Aspose.Cells. ادغام XLT به فرمت ذخیره XML. Python XLT را با فرمت XML ترکیب کنید. ادغام XLT به XML در Python. XLT ادغام.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge XLT to XML in Python., Python Merge XLT to xml., Python Combine XLT to XML., XLT Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="XLT را از طریق Python به XML ادغام کنید" h2="کتابخانه پرسرعت Python برای ادغام XLT به XML. از تبدیل اکسل ما API برای توسعه نرم افزار سطح بالا و مستقل از پلت فرم در Python استفاده کنید. این یک راه حل نرم افزاری حرفه ای برای وارد کردن و صادرات Excel, CSV, OpenOffice, PDF, HTML, image و بسیاری از فرمت های اکسل دیگر است." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="XLT" additionalConversionTag="XML" pfName="Aspose.Cells" subTitlepfName="for Python" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -12,12 +12,12 @@ keywords: [Aspose Excel., Python Aspose.Cells., Merge XLT to XML in Python., Fre
 
 {{% blocks/products/pf/agp/content h2="XLT را با استفاده از Python به XML ادغام کنید" %}}
 
- چگونه XLT را با XML ادغام کنم؟ با کتابخانه Aspose.Cells for Python via Java، می توانید به راحتی با چند خط کد، XLT را به صورت برنامه نویسی به XML ادغام کنید.[Aspose.Cells for Python via Java](https://pypi.org/project/aspose-cells)قادر به ساخت برنامه های چند پلتفرمی با قابلیت تولید، تغییر، تبدیل، رندر و چاپ تمام فایل های اکسل است. Python اکسل API نه تنها بین فرمت های صفحه گسترده تبدیل می کند، بلکه می تواند فایل های اکسل را به صورت تصویر رندر کند. انتخاب عالی برای تبادل اسناد در استانداردهای صنعتی فرمت ها می توانید Aspose.Cells for Python via Java را نصب کنید<a href="https://pypi.org/project/aspose-cells/">pypi</a> ، از دستور به صورت زیر استفاده کنید:<code>$ pip install aspose-cells</code>.
+ چگونه XLT را با XML ادغام کنم؟ با کتابخانه Aspose.Cells for Python via Java، می توانید به راحتی با چند خط کد، XLT را به صورت برنامه نویسی به XML ادغام کنید.[Aspose.Cells for Python via Java](https://pypi.org/project/aspose-cells) قادر به ساخت برنامه های چند پلتفرمی با قابلیت تولید، تغییر، تبدیل، رندر و چاپ تمام فایل های اکسل است. Python اکسل API نه تنها بین فرمت های صفحه گسترده تبدیل می شود، بلکه می تواند فایل های اکسل را به صورت تصویر، PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT و موارد دیگر ارائه دهد، بنابراین آن را به گزینه ای عالی برای تبادل اسناد در قالب های استاندارد صنعتی تبدیل می کند. می توانید Aspose.Cells for Python via Java را نصب کنید<a href="https://pypi.org/project/aspose-cells/">pypi</a> ، از دستور به صورت زیر استفاده کنید:<code>$ pip install aspose-cells</code>.
 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="ادغام XLT به XML در Python آنلاین به صورت رایگان" %}}
+{{% blocks/products/pf/agp/content h2="XLT را به XML در Python ادغام کنید" %}}
 
 مثال زیر نحوه ادغام XLT به XML را در Aspose.Cells for Python via Java نشان می دهد.
 {{% blocks/products/pf/agp/text %}}
@@ -28,13 +28,13 @@ keywords: [Aspose Excel., Python Aspose.Cells., Merge XLT to XML in Python., Fre
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="آنلاین رایگان برای ادغام XLT به XML در Python" InputFormat="xlt" InputFormat2="xml" outformat="xml" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-merger title="نمونه کد برای ادغام XLT به XML در Python" InputFormat="xlt" InputFormat2="xml" outformat="xml" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="نحوه ادغام XLT به XML از طریق Python" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- آیا نیاز به ادغام XLT با XML به صورت برنامه ای دارید؟ یک سند اساسی ادغام و الحاق با[Aspose.Cells for Python via Java](https://products.aspose.com/cells/python-java) API ها را می توان تنها با چند خط کد انجام داد.
+آیا نیاز به ادغام XLT با XML به صورت برنامه ای دارید؟ یک سند اساسی ادغام و الحاق با[Aspose.Cells for Python via Java](https://products.aspose.com/cells/python-java) API ها را می توان تنها با چند خط کد انجام داد.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -73,7 +73,7 @@ API های ما در تمام سیستم عامل ها و سیستم عامل ه
 
 -  Java 1.8 یا بالاتر را نصب کنید و آن را به متغیر محیطی PATH اضافه کنید، به عنوان مثال:<code>PATH=C:\Program Files\Java\jdk1.8.0_131;</code>.
 -  نصب[Python](https://www.python.org/downloads/) 3.5 یا بالاتر
-- Aspose.Cells for Python را نصب کنید<a href="https://pypi.org/project/aspose-cells/">pypi</a> ، از دستور به صورت زیر استفاده کنید:<code>$ pip install aspose-cells</code>.
+-  Aspose.Cells for Python را نصب کنید<a href="https://pypi.org/project/aspose-cells/">pypi</a> ، از دستور به صورت زیر استفاده کنید:<code>$ pip install aspose-cells</code>.
 
 
 {{% /blocks/products/pf/agp/content %}}

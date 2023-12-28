@@ -1,7 +1,7 @@
 ---
-title: Java JPG به IMAGE - تبدیل آنلاین JPG به IMAGE
-description: Aspose اکسل. Java Aspose.Cells. Java Aspose Cells. رایگان آنلاین Java تبدیل JPG به فرمت ذخیره تصویر. Java فرمت JPG به IMAGE. JPG را در IMAGE Java ذخیره کنید.
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java JPG to IMAGE saveformat., Free Online JPG to IMAGE Java., Java Convert JPG to IMAGE]
+title: Java JPG به IMAGE - تبدیل JPG به IMAGE
+description: Aspose اکسل. تبدیل JPG به IMAGE سریع و آسان با Aspose.Cells. Java JPG به IMAGE. Java JPG را در IMAGE ذخیره کنید. با استفاده از Java JPG را به عنوان IMAGE ذخیره کنید.
+keywords: [Aspose Excel., Java Aspose.Cells., Convert JPG to IMAGE in Java., Save JPG to IMAGE using Java., Java JPG to IMAGE saveformat., JPG to IMAGE Converter., Java Save JPG as IMAGE]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="تبدیل JPG به IMAGE در Java" h2="کتابخانه پرسرعت Java برای تبدیل JPG به IMAGE. این یک راه حل نرم افزاری حرفه ای برای وارد کردن و صادرات JPG، IMAGE و بسیاری از فرمت های دیگر با استفاده از Java است." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="IMAGE" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java JPG to IM
 
 {{% blocks/products/pf/agp/content h2="تبدیل JPG به IMAGE با استفاده از Java" %}}
 
- چگونه JPG را به IMAGE تبدیل کنم؟ با کتابخانه Aspose.Cells for Java به راحتی می توانید JPG را به صورت برنامه نویسی با چند خط کد به IMAGE تبدیل کنید.[Aspose.Cells for Java](https://products.aspose.com/cells/java) قادر به ساخت برنامه های چند پلتفرمی با قابلیت تولید، تغییر، تبدیل، رندر و چاپ تمام فایل های اکسل است. Java اکسل API نه تنها بین فرمت های صفحه گسترده تبدیل می کند، بلکه می تواند فایل های اکسل را به صورت تصویر رندر کند. انتخاب عالی برای تبادل اسناد در استانداردهای صنعتی فرمت ها آخرین نسخه آن را می توانید مستقیماً از اینجا دانلود کنید[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) و با افزودن تنظیمات زیر به pom.xml آن را در پروژه مبتنی بر Maven خود نصب کنید.
+ چگونه JPG را به IMAGE تبدیل کنم؟ با کتابخانه Aspose.Cells for Java به راحتی می توانید JPG را به صورت برنامه نویسی با چند خط کد به IMAGE تبدیل کنید.[Aspose.Cells for Java](https://products.aspose.com/cells/java)قادر به ساخت برنامه های چند پلتفرمی با قابلیت تولید، تغییر، تبدیل، رندر و چاپ تمام فایل های اکسل است. Java اکسل API نه تنها بین فرمت های صفحه گسترده تبدیل می شود، بلکه می تواند فایل های اکسل را به صورت تصویر، PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT و موارد دیگر ارائه دهد، بنابراین آن را به گزینه ای عالی برای تبادل اسناد در قالب های استاندارد صنعتی تبدیل می کند. آخرین نسخه آن را می توانید مستقیماً از اینجا دانلود کنید[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) و با افزودن تنظیمات زیر به pom.xml آن را در پروژه مبتنی بر Maven خود نصب کنید.
 
 {{% blocks/products/pf/agp/code-block title="مخزن" offSpacer="true" %}}
 
@@ -45,7 +45,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java JPG to IM
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="JPG را به صورت رایگان در IMAGE در Java ذخیره کنید" %}}
+{{% blocks/products/pf/agp/content h2="JPG را در IMAGE در Java ذخیره کنید" %}}
 
 مثال زیر نحوه تبدیل JPG به IMAGE را در Java نشان می دهد.
 {{% blocks/products/pf/agp/text %}}
@@ -56,7 +56,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java JPG to IM
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="برنامه رایگان و کد نمونه برای تبدیل JPG به IMAGE آنلاین" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="jpg" outformat="png" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="نمونه کد برای تبدیل JPG به IMAGE" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="jpg" outformat="png" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="نحوه تبدیل JPG به IMAGE via Java" %}}
 
@@ -70,7 +70,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java JPG to IM
 1.  یک مرجع کتابخانه (وارد کردن کتابخانه) به پروژه Java خود اضافه کنید.
 1.  فایل JPG را با نمونه ای از کلاس Workbook بارگیری کنید.
 1.  با فراخوانی روش Workbook.save، JPG را به IMAGE تبدیل کنید.
-1.  نتیجه تبدیل JPG به IMAGE را دریافت کنید.
+1. نتیجه تبدیل JPG به IMAGE را دریافت کنید.
 
 {{% /blocks/products/pf/agp/content %}}
 

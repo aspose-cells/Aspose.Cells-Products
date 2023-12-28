@@ -1,8 +1,8 @@
 ---
 title: IMAGE را با DOCX ادغام کنید - IMAGE را با DOCX در C++ ترکیب کنید
 url: /fa/cpp/merger/merge-image-to-docx/ 
-description: Aspose اکسل. C++ Aspose.Cells. ادغام آنلاین رایگان IMAGE به DOCX Saveformat. C++ IMAGE را با فرمت DOCX ترکیب کنید. IMAGE را به DOCX در C++ ادغام کنید. IMAGE Merge.
-keywords: [Aspose Excel., C++ Aspose.Cells., Merge IMAGE to DOCX in C++., Free Online C++ Merge IMAGE to docx., C++ Combine IMAGE to DOCX Online for Free., IMAGE Merge]
+description: Aspose اکسل. C++ Aspose.Cells. IMAGE را با فرمت ذخیره DOCX ادغام کنید. C++ IMAGE را با فرمت DOCX ترکیب کنید. IMAGE را به DOCX در C++ ادغام کنید. IMAGE Merge.
+keywords: [Aspose Excel., C++ Aspose.Cells., Merge IMAGE to DOCX in C++., C++ Merge IMAGE to docx., C++ Combine IMAGE to DOCX., IMAGE Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="IMAGE را از طریق C++ به DOCX ادغام کنید" h2="کتابخانه پرسرعت C++ برای ادغام IMAGE به DOCX. از تبدیل اکسل ما API برای توسعه نرم افزار سطح بالا و مستقل از پلت فرم در C++ استفاده کنید. این یک راه حل نرم افزار حرفه ای برای وارد کردن و صادرات Excel, CSV, OpenOffice, PDF, HTML, image و بسیاری از فرمت های excel دیگر است." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" sourceAdditionalConversionTag="IMAGE" additionalConversionTag="DOCX" pfName="Aspose.Cells" subTitlepfName="for C++" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., C++ Aspose.Cells., Merge IMAGE to DOCX in C++., Free O
 
 {{% blocks/products/pf/agp/content h2="ادغام IMAGE به DOCX با استفاده از C++" %}}
 
- چگونه IMAGE را با DOCX ادغام کنم؟ با کتابخانه Aspose.Cells for C++، می توانید به راحتی با چند خط کد، IMAGE را به DOCX ادغام کنید.[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) قادر به ساخت برنامه های چند پلتفرمی با قابلیت تولید، تغییر، تبدیل، رندر و چاپ تمام فایل های اکسل است. C++ اکسل API نه تنها بین فرمت های صفحه گسترده تبدیل می کند، بلکه می تواند فایل های اکسل را به صورت تصویر رندر کند. انتخاب عالی برای تبادل اسناد در استانداردهای صنعتی فرمت ها شما می توانید آخرین نسخه آن را مستقیما دانلود کنید، فقط باز کنید[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) Package Manager Aspose.Cells.Cpp را جستجو کرده و نصب کنید. همچنین می توانید از دستور زیر در کنسول Package Manager استفاده کنید.
+ چگونه IMAGE را با DOCX ادغام کنم؟ با کتابخانه Aspose.Cells for C++، می توانید به راحتی با چند خط کد، IMAGE را به DOCX ادغام کنید.[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) قادر به ساخت برنامه های چند پلتفرمی با قابلیت تولید، تغییر، تبدیل، رندر و چاپ تمام فایل های اکسل است. C++ اکسل API نه تنها بین فرمت های صفحه گسترده تبدیل می شود، بلکه می تواند فایل های اکسل را به صورت تصویر، PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT و موارد دیگر ارائه دهد، بنابراین آن را به گزینه ای عالی برای تبادل اسناد در قالب های استاندارد صنعتی تبدیل می کند. شما می توانید آخرین نسخه آن را مستقیما دانلود کنید، فقط باز کنید[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) Package Manager Aspose.Cells.Cpp را جستجو کرده و نصب کنید. همچنین می توانید از دستور زیر در کنسول Package Manager استفاده کنید.
 
 {{% blocks/products/pf/agp/code-block title="فرمان" offSpacer="true" %}}
 
@@ -26,7 +26,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="IMAGE را به DOCX در C++ به صورت آنلاین و رایگان ادغام کنید" %}}
+{{% blocks/products/pf/agp/content h2="IMAGE را به DOCX در C++ ادغام کنید" %}}
 
 مثال زیر نحوه ادغام IMAGE را با DOCX در Aspose.Cells for C++ نشان می دهد.
 {{% blocks/products/pf/agp/text %}}
@@ -37,13 +37,13 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="آنلاین رایگان برای ادغام IMAGE به DOCX در C++" InputFormat="png" InputFormat2="docx" outformat="docx" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="cpp" %}}
+{{% cells-merger title="نمونه کد برای ادغام IMAGE به DOCX در C++" InputFormat="png" InputFormat2="docx" outformat="docx" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="cpp" %}}
 
 {{% blocks/products/pf/agp/content h2="نحوه ادغام IMAGE به DOCX از طریق C++" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- آیا نیاز به ادغام IMAGE با DOCX از نظر برنامه ای دارید؟ یک سند اساسی ادغام و الحاق با[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) API ها را می توان تنها با چند خط کد انجام داد.
+آیا نیاز به ادغام IMAGE با DOCX از نظر برنامه ای دارید؟ یک سند اساسی ادغام و الحاق با[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) API ها را می توان تنها با چند خط کد انجام داد.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -89,7 +89,7 @@ API های ما در تمام سیستم عامل ها و سیستم عامل ه
 <!-- aboutfile Starts -->
     {{< blocks/products/pf/agp/about-file-section >}}
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="IMAGE" readMoreLink="https://docs.fileformat.com/image/png/" >}}فایل PNG (گرافیک شبکه قابل حمل) یک فرمت فایل تصویری شطرنجی است که از فشرده سازی بدون تلفات استفاده می کند. این فرمت فایل به عنوان جایگزین فرمت تبادل گرافیکی (GIF) ایجاد شده است و هیچ محدودیتی برای کپی رایت ندارد. با این حال، فرمت فایل PNG از انیمیشن ها پشتیبانی نمی کند. فرمت فایل PNG از فشرده سازی تصویر بدون اتلاف پشتیبانی می کند که باعث محبوبیت آن در بین کاربرانش می شود. با گذشت زمان، PNG به عنوان یکی از فرمت های فایل تصویری پرکاربرد تبدیل شده است.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="DOCX" readMoreLink="https://docs.fileformat.com/word-processing/docx/" >}}DOCX یک فرمت شناخته شده برای اسناد ورد Microsoft است. از سال 2007 با انتشار Microsoft Office 2007 معرفی شد، ساختار این قالب سند جدید از باینری ساده به ترکیبی از فایل های XML و باینری تغییر یافت. فایل‌های Docx را می‌توان با Word 2007 و نسخه‌های جانبی باز کرد، اما با نسخه‌های قبلی MS Word که از پسوند فایل DOC پشتیبانی می‌کنند، نمی‌توان آن‌ها را باز کرد.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="DOCX" readMoreLink="https://docs.fileformat.com/word-processing/docx/" >}}DOCX یک فرمت شناخته شده برای اسناد ورد Microsoft است. از سال 2007 با انتشار Microsoft Office 2007، ساختار این قالب سند جدید از باینری ساده به ترکیبی از فایل های XML و باینری تغییر یافت. فایل‌های Docx را می‌توان با Word 2007 و نسخه‌های جانبی باز کرد، اما با نسخه‌های قبلی MS Word که از پسوند فایل DOC پشتیبانی می‌کنند، نمی‌توان آن‌ها را باز کرد.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
     {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->
 
@@ -107,7 +107,6 @@ API های ما در تمام سیستم عامل ها و سیستم عامل ه
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-image-to-pdf/" name="IMAGE را با PDF ادغام کنید" description="فرمت سند قابل حمل" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-image-to-png/" name="IMAGE را با PNG ادغام کنید" description="گرافیک شبکه قابل حمل" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-image-to-svg/" name="IMAGE را با SVG ادغام کنید" description="گرافیک برداری مقیاس پذیر" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-image-to-tiff/" name="IMAGE را با TIFF ادغام کنید" description="فرمت تصویر برچسب شده" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-image-to-tsv/" name="IMAGE را با TSV ادغام کنید" description="مقادیر جدا شده از تب" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-image-to-txt/" name="IMAGE را با TXT ادغام کنید" description="سند متنی" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-image-to-xls/" name="IMAGE را با XLS ادغام کنید" description="فرمت باینری اکسل" >}}

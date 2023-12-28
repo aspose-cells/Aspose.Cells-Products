@@ -1,8 +1,8 @@
 ---
 title: OTS را به XLSX ادغام کنید - OTS را با XLSX در Python ترکیب کنید
 url: /fa/python-net/merger/merge-ots-to-xlsx/ 
-description: Aspose اکسل. Python Aspose.Cells. ادغام آنلاین رایگان OTS به XLSX Saveformat. Python OTS را با فرمت XLSX ترکیب کنید. OTS را به XLSX در Python ادغام کنید. OTS Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge OTS to XLSX in Python., Free Online Python Merge OTS to xlsx., Python Combine OTS to XLSX Online for Free., OTS Merge]
+description: Aspose اکسل. Python Aspose.Cells. OTS را با فرمت ذخیره XLSX ادغام کنید. Python OTS را با فرمت XLSX ترکیب کنید. OTS را به XLSX در Python ادغام کنید. OTS Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge OTS to XLSX in Python., Python Merge OTS to xlsx., Python Combine OTS to XLSX., OTS Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="OTS را از طریق Python به XLSX ادغام کنید" h2="کتابخانه پرسرعت Python برای ادغام OTS به XLSX. از تبدیل اکسل ما API برای توسعه نرم افزار سطح بالا و مستقل از پلت فرم در Python استفاده کنید. این یک راه حل نرم افزار حرفه ای برای وارد کردن و صادرات Excel, CSV, OpenOffice, PDF, HTML, image و بسیاری از فرمت های excel دیگر است." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="OTS" additionalConversionTag="XLSX" pfName="Aspose.Cells" subTitlepfName="for Python" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -12,12 +12,12 @@ keywords: [Aspose Excel., Python Aspose.Cells., Merge OTS to XLSX in Python., Fr
 
 {{% blocks/products/pf/agp/content h2="OTS را با استفاده از Python به XLSX ادغام کنید" %}}
 
- چگونه OTS را با XLSX ادغام کنم؟ با کتابخانه Aspose.Cells for Python via .NET، می توانید به راحتی OTS را به صورت برنامه ریزی شده با چند خط کد به XLSX ادغام کنید.[Aspose.Cells for Python via .NET](https://pypi.org/project/aspose-cells-python)قادر به ساخت برنامه های چند پلتفرمی با قابلیت تولید، تغییر، تبدیل، رندر و چاپ تمام فایل های اکسل است. Python اکسل API نه تنها بین فرمت های صفحه گسترده تبدیل می کند، بلکه می تواند فایل های اکسل را به صورت تصویر رندر کند. انتخاب عالی برای تبادل اسناد در استانداردهای صنعتی فرمت ها می توانید Aspose.Cells for Python via .NET را نصب کنید<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> ، از دستور به صورت زیر استفاده کنید:<code>$ pip install aspose-cells-python</code>.
+ چگونه OTS را با XLSX ادغام کنم؟ با کتابخانه Aspose.Cells for Python via .NET، می توانید به راحتی OTS را به صورت برنامه ریزی شده با چند خط کد به XLSX ادغام کنید.[Aspose.Cells for Python via .NET](https://pypi.org/project/aspose-cells-python) قادر به ساخت برنامه های چند پلتفرمی با قابلیت تولید، تغییر، تبدیل، رندر و چاپ تمام فایل های اکسل است. Python اکسل API نه تنها بین فرمت های صفحه گسترده تبدیل می شود، بلکه می تواند فایل های اکسل را به صورت تصویر، PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT و موارد دیگر ارائه دهد، بنابراین آن را به گزینه ای عالی برای تبادل اسناد در قالب های استاندارد صنعتی تبدیل می کند. می توانید Aspose.Cells for Python via .NET را نصب کنید<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> ، از دستور به صورت زیر استفاده کنید:<code>$ pip install aspose-cells-python</code>.
 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="OTS را به XLSX در Python به صورت آنلاین ادغام کنید" %}}
+{{% blocks/products/pf/agp/content h2="OTS را به XLSX در Python ادغام کنید" %}}
 
 مثال زیر نحوه ادغام OTS را با XLSX در Aspose.Cells for Python via .NET نشان می دهد.
 {{% blocks/products/pf/agp/text %}}
@@ -28,13 +28,13 @@ keywords: [Aspose Excel., Python Aspose.Cells., Merge OTS to XLSX in Python., Fr
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="آنلاین رایگان برای ادغام OTS به XLSX در Python" InputFormat="ots" InputFormat2="xlsx" outformat="xlsx" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-merger title="نمونه کد برای ادغام OTS به XLSX در Python" InputFormat="ots" InputFormat2="xlsx" outformat="xlsx" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="نحوه ادغام OTS به XLSX از طریق Python" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
-آیا نیاز به ادغام OTS با XLSX از طریق برنامه دارید؟ یک سند اساسی ادغام و الحاق با[Aspose.Cells for Python via .NET](https://products.aspose.com/cells/python-net) API ها را می توان تنها با چند خط کد انجام داد.
+ آیا نیاز به ادغام OTS با XLSX از طریق برنامه دارید؟ یک سند اساسی ادغام و الحاق با[Aspose.Cells for Python via .NET](https://products.aspose.com/cells/python-net) API ها را می توان تنها با چند خط کد انجام داد.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -52,7 +52,7 @@ keywords: [Aspose Excel., Python Aspose.Cells., Merge OTS to XLSX in Python., Fr
 ما بسته های Python خود را در مخازن PyPi میزبانی می کنیم.
 
 {{% blocks/products/pf/agp/text %}}
-Aspose.Cells for Python را نصب کنید<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> ، از دستور به صورت زیر استفاده کنید:<code>$ pip install aspose-cells-python</code>.
+ Aspose.Cells for Python را نصب کنید<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> ، از دستور به صورت زیر استفاده کنید:<code>$ pip install aspose-cells-python</code>.
 {{% /blocks/products/pf/agp/text %}}
 
 {{% blocks/products/pf/agp/text %}}
@@ -72,7 +72,7 @@ API های ما در تمام سیستم عامل ها و سیستم عامل ه
 {{% /blocks/products/pf/agp/text %}}
 
 -  نصب[Python](https://www.python.org/downloads/) 3.7 یا بالاتر
-- Aspose.Cells for Python را نصب کنید<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> ، از دستور به صورت زیر استفاده کنید:<code>$ pip install aspose-cells-python</code>.
+-  Aspose.Cells for Python را نصب کنید<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> ، از دستور به صورت زیر استفاده کنید:<code>$ pip install aspose-cells-python</code>.
 
 
 {{% /blocks/products/pf/agp/content %}}

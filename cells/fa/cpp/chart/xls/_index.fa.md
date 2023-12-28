@@ -1,7 +1,8 @@
 ---
-title: نمودار سند XLS از طریق C++
+title:  نمودار سند XLS از طریق C++
 weight: 2500
 description: C++ کد نمونه برای رسم و تبدیل نمودار یا نمودار در فایل XLS در C++ Runtime Environment برای Windows 32 بیتی، Windows 64 بیتی و لینوکس 64 بیتی.
+keywords: [C++ Aspose.Cells., C++ Convert chart to image in xls., C++ Save chart to image in xls., C++ chart to image in xls., xls convert chart to image in C++., xls save chart to imagein C++., xls chart to image in C++]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="XLS فرمت نمودارها در C++" h2="نمودارهای سند بومی و با کارایی بالا XLS با استفاده از API های سمت سرور Aspose.Cells for C++، بدون استفاده از نرم افزارهایی مانند Microsoft یا Adobe PDF." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" sourceAdditionalConversionTag="" additionalConversionTag="" pfName="Aspose.Cells" subTitlepfName="for C++" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="XLS" >}}
@@ -50,7 +51,7 @@ PM> Install-Package Aspose.Cells.Cpp
 + به نمونه نمودار تازه اضافه شده دسترسی پیدا کنید
 + SeriesCollection (منبع داده نمودار) را به نمودار اضافه کنید
 + نوع نمودار سری دوم NS را برای نمایش به عنوان نمودار خطی تنظیم کنید
-فایل را ذخیره کنید
++ فایل را ذخیره کنید
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -69,7 +70,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% blocks/products/pf/agp/code-block title="ایجاد نمودار فایل XLS - C++" offSpacer="" %}}
 
-{{< gist "aspose-com-gists" "da2fd423617bf9013a7673870c81d708" "create-excel-xls-column-chart.cpp" >}}
+{{< gist "aspose-cells-gists" "6f7d9819d85793c3a3b5d040af42e1a9" "create-excel-xls-column-chart.cpp" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 

@@ -1,7 +1,8 @@
 ---
 title:  قرار دادن PivotTable در فایل های Micorsoft Excel XLSB از طریق C#
 weight: 7690
-description: C# کد نمونه برای تولید اسناد XLSB با PivotTable. از این کد برای ایجاد فایل های Micorsoft Excel XLSB با PivotTable در VB.NET، Asp.NET یا هر برنامه مبتنی بر .NET استفاده کنید.
+description: C# کد نمونه برای افزودن PivotTable به XLSB با استفاده از کتابخانه .NET. از این کد برای درج PivotTable به فایل XLSB در VB.NET، Asp.NET یا هر برنامه مبتنی بر .NET استفاده کنید.
+keywords: [C# Aspose.Cells., c# add PivotTable in xlsb., c# insert PivotTable in xlsb., c# create PivotTable in xlsb., c# modify PivotTable in xlsb., access PivotTable in xlsb., c# add pivot table in xlsb., c# insert pivot table in xlsb., c# create pivot table in xlsb., c# modify pivot table in xlsb., access pivot table in xlsb]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="درج PivotTable در اسناد XLSB از طریق C#" h2="صفحه گسترده Microsoft اکسل XLSB بومی و با کارایی بالا با ایجاد PivotTable به صورت برنامه ریزی شده با استفاده از API های سمت سرور .NET." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSB" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSB" >}}
@@ -11,9 +12,7 @@ description: C# کد نمونه برای تولید اسناد XLSB با PivotTa
 
 {{% blocks/products/pf/agp/content h2="" %}}
 
- تولید فایل MS Excel XLSB با PivotTable به صورت پویا در برنامه در حال اجرا آسان است. برای ایجاد اسناد XLSB با PivotTable از ابتدا بدون نیاز به MS Office، ما از
- [Aspose.Cells for .NET](https://products.aspose.com/cells/net) 
- API که ویژگی های مختلفی را برای ایجاد، دستکاری و تبدیل صفحات گسترده با استفاده از پلت فرم .NET ارائه می دهد. توسعه دهندگان می توانند به راحتی کد را برای نوشتن داده ها، تولید نمودارها یا نمودارها و همچنین ایجاد جدول در صفحات گسترده افزایش دهند.
+ تولید فایل MS Excel XLSB با PivotTable به صورت پویا در برنامه در حال اجرا آسان است. برای ایجاد اسناد XLSB با PivotTable از ابتدا بدون نیاز به MS Office، ما از[Aspose.Cells for .NET](https://products.aspose.com/cells/net) API که ویژگی های مختلفی را برای ایجاد، دستکاری و تبدیل صفحات گسترده با استفاده از پلت فرم .NET ارائه می دهد. توسعه دهندگان می توانند به راحتی کد را برای نوشتن داده ها، تولید نمودارها یا نمودارها و همچنین ایجاد جدول در صفحات گسترده افزایش دهند.
 {{% /blocks/products/pf/agp/content %}}
 
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
@@ -22,7 +21,7 @@ description: C# کد نمونه برای تولید اسناد XLSB با PivotTa
 
 {{% blocks/products/pf/agp/text %}}
 
-برای توسعه دهندگان آسان است که PivotTable را در صفحه گسترده با فرمت XLSB در برنامه های مختلف گزارش دهی در حال اجرا برای پردازش داده ها تنها در چند خط کد وارد کنند.
+ برای توسعه دهندگان آسان است که PivotTable را در صفحه گسترده با فرمت XLSB در برنامه های مختلف گزارش دهی در حال اجرا برای پردازش داده ها تنها در چند خط کد وارد کنند.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -31,7 +30,7 @@ description: C# کد نمونه برای تولید اسناد XLSB با PivotTa
 1.  به اولین کاربرگ کتاب کار دسترسی پیدا کنید.
 1.  سلول(های) مورد نظر کاربرگ را بدست آورید و مقدار آن را در سلول(ها) قرار دهید.
 1.  PivotTable را وارد کرده و استایل را تنظیم کنید
-1. از روش Save برای ذخیره کتاب کار به عنوان فایل XLSB استفاده کنید.
+1.  از روش Save برای ذخیره کتاب کار به عنوان فایل XLSB استفاده کنید.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -39,7 +38,7 @@ description: C# کد نمونه برای تولید اسناد XLSB با PivotTa
 
 {{% blocks/products/pf/agp/text %}}
 
- فقط مطمئن شوید که سیستم دارای Microsoft Windows یا یک سیستم عامل سازگار با .NET Framework، .NET Core، Windows Azure، Mono یا Xamarin پلتفرم های 876 استودیو 3076 و همچنین محیط های توسعه است.
+فقط مطمئن شوید که سیستم دارای Microsoft Windows یا یک سیستم عامل سازگار با .NET Framework، .NET Core، Windows Azure، Mono یا Xamarin پلتفرم های 876 استودیو 3076 و همچنین محیط های توسعه است.
 
 {{% /blocks/products/pf/agp/text %}}
 

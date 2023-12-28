@@ -1,7 +1,7 @@
 ---
 title: ایجاد MD - ایجاد فایل MD در Python
-description: Aspose اکسل. Python ایجاد فایل MD. ایجاد MD Python. Python MD Creater. MD را در Python ایجاد کنید. فایل MD را با استفاده از Python ایجاد کنید.
-keywords: [Aspose Excel., Python Aspose.Cells., Create MD Python., Python MD Creater., Create MD file in Python., Generate MD file in Python]
+description: Aspose اکسل. Python فایل MD را به سرعت و به راحتی با Aspose.Cells ایجاد کنید. فایل MD را با استفاده از Python ایجاد کنید. MD را در Python ایجاد کنید. Python MD Creater.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Create MD file., Generate MD file in Python., Create MD file using Python., Write data to MD file via Python., Create a MD file in Python., Python Generate a MD file., Python MD Creater]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="فایل MD را در Python ایجاد کنید" h2="کتابخانه پرسرعت Python برای ایجاد فایل MD. از تبدیل اکسل API ما برای توسعه نرم افزار سطح بالا و مستقل از پلت فرم در Python استفاده کنید." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="MD" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -11,7 +11,7 @@ keywords: [Aspose Excel., Python Aspose.Cells., Create MD Python., Python MD Cre
 
 {{% blocks/products/pf/agp/content h2="با استفاده از Python فایل MD ایجاد کنید" %}}
 
- چگونه فایل MD بسازیم؟ با Aspose.Cells for Python از طریق کتابخانه NET می توانید به راحتی فایل MD را به صورت برنامه نویسی با چند خط کد ایجاد کنید.[Aspose.Cells for Python](https://pypi.org/project/aspose-cells-python/)قادر به ساخت برنامه های چند پلتفرمی با قابلیت تولید، تغییر، تبدیل، رندر و چاپ تمام فایل های اکسل است. Python اکسل API نه تنها بین فرمت های صفحه گسترده تبدیل می کند، بلکه می تواند فایل های اکسل را به صورت تصویر رندر کند. انتخاب عالی برای تبادل اسناد در استانداردهای صنعتی فرمت ها
+ چگونه فایل MD بسازیم؟ با Aspose.Cells for Python از طریق کتابخانه NET می توانید به راحتی فایل MD را به صورت برنامه نویسی با چند خط کد ایجاد کنید.[Aspose.Cells for Python](https://pypi.org/project/aspose-cells-python/)قادر به ساخت برنامه های چند پلتفرمی با قابلیت تولید، تغییر، تبدیل، رندر و چاپ تمام فایل های اکسل است. Python اکسل API نه تنها بین فرمت های صفحه گسترده تبدیل می شود، بلکه می تواند فایل های اکسل را به صورت تصویر، PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT و موارد دیگر ارائه دهد، بنابراین آن را به گزینه ای عالی برای تبادل اسناد در قالب های استاندارد صنعتی تبدیل می کند.
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -62,7 +62,7 @@ workbook.save("output.md")
 ما بسته های Python خود را در مخازن PyPi میزبانی می کنیم.
 
 {{% blocks/products/pf/agp/text %}}
-Aspose.Cells for Python را نصب کنید<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> ، از دستور به صورت زیر استفاده کنید:<code>$ pip install aspose-cells-python</code>.
+ Aspose.Cells for Python را نصب کنید<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> ، از دستور به صورت زیر استفاده کنید:<code>$ pip install aspose-cells-python</code>.
 {{% /blocks/products/pf/agp/text %}}
 
 {{% blocks/products/pf/agp/text %}}

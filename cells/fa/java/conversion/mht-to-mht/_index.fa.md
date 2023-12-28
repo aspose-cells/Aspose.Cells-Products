@@ -1,7 +1,7 @@
 ---
-title: Java MHT به MHT - تبدیل آنلاین MHT به MHT
-description: Aspose اکسل. Java Aspose.Cells. Java Aspose Cells. رایگان آنلاین Java تبدیل MHT به MHT saveformat. Java فرمت MHT به MHT. MHT را به MHT Java ذخیره کنید.
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java MHT to MHT saveformat., Free Online MHT to MHT Java., Java Convert MHT to MHT]
+title: Java MHT به MHT - تبدیل MHT به MHT
+description: Aspose اکسل. تبدیل MHT به MHT سریع و آسان با Aspose.Cells. Java MHT به MHT. Java ذخیره MHT به MHT. MHT را به عنوان MHT با استفاده از Java ذخیره کنید.
+keywords: [Aspose Excel., Java Aspose.Cells., Convert MHT to MHT in Java., Save MHT to MHT using Java., Java MHT to MHT saveformat., MHT to MHT Converter., Java Save MHT as MHT]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="MHT را به MHT در Java تبدیل کنید" h2="کتابخانه پرسرعت Java برای تبدیل MHT به MHT. این یک راه حل نرم افزاری حرفه ای برای وارد کردن و صادرات MHT، MHT و بسیاری از فرمت های دیگر با استفاده از Java است." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="MHT" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java MHT to MH
 
 {{% blocks/products/pf/agp/content h2="با استفاده از Java MHT را به MHT تبدیل کنید" %}}
 
- چگونه MHT را به MHT تبدیل کنم؟ با کتابخانه Aspose.Cells for Java به راحتی می توانید MHT را به صورت برنامه ریزی شده با چند خط کد به MHT تبدیل کنید.[Aspose.Cells for Java](https://products.aspose.com/cells/java) قادر به ساخت برنامه های چند پلتفرمی با قابلیت تولید، تغییر، تبدیل، رندر و چاپ تمام فایل های اکسل است. Java اکسل API نه تنها بین فرمت های صفحه گسترده تبدیل می کند، بلکه می تواند فایل های اکسل را به صورت تصویر رندر کند. انتخاب عالی برای تبادل اسناد در استانداردهای صنعتی فرمت ها آخرین نسخه آن را می توانید مستقیماً از اینجا دانلود کنید[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) و با افزودن تنظیمات زیر به pom.xml آن را در پروژه مبتنی بر Maven خود نصب کنید.
+ چگونه MHT را به MHT تبدیل کنم؟ با کتابخانه Aspose.Cells for Java به راحتی می توانید MHT را به صورت برنامه ریزی شده با چند خط کد به MHT تبدیل کنید.[Aspose.Cells for Java](https://products.aspose.com/cells/java)قادر به ساخت برنامه های چند پلتفرمی با قابلیت تولید، تغییر، تبدیل، رندر و چاپ تمام فایل های اکسل است. Java اکسل API نه تنها بین فرمت های صفحه گسترده تبدیل می شود، بلکه می تواند فایل های اکسل را به صورت تصویر، PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT و موارد دیگر ارائه دهد، بنابراین آن را به گزینه ای عالی برای تبادل اسناد در قالب های استاندارد صنعتی تبدیل می کند. آخرین نسخه آن را می توانید مستقیماً از اینجا دانلود کنید[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) و با افزودن تنظیمات زیر به pom.xml آن را در پروژه مبتنی بر Maven خود نصب کنید.
 
 {{% blocks/products/pf/agp/code-block title="مخزن" offSpacer="true" %}}
 
@@ -45,7 +45,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java MHT to MH
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="MHT را به MHT در Java آنلاین به صورت رایگان ذخیره کنید" %}}
+{{% blocks/products/pf/agp/content h2="MHT را به MHT در Java ذخیره کنید" %}}
 
 مثال زیر نحوه تبدیل MHT به MHT را در Java نشان می دهد.
 {{% blocks/products/pf/agp/text %}}
@@ -56,7 +56,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java MHT to MH
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="برنامه رایگان و کد نمونه برای تبدیل MHT به MHT آنلاین" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="mht" outformat="mht" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="نمونه کد برای تبدیل MHT به MHT" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="mht" outformat="mht" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="نحوه تبدیل MHT به MHT via Java" %}}
 

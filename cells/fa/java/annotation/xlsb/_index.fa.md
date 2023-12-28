@@ -1,7 +1,8 @@
 ---
-title:  حذف XLSB حاشیه نویسی via Java
+title:  افزودن یا حذف XLSB حاشیه نویسی via Java
 weight: 860
 description: Java کد نمونه برای حذف حاشیه نویسی با فرمت XLSB در Java Runtime Environment برای برنامه های کاربردی JSP/JSF و برنامه های دسکتاپ.
+keywords: [Java Aspose.Cells., add xlsb annotation., insert xlsb annotation., access xlsb annotation., remove xlsb annotation., delete xlsb annotation., add annotation in xlsb., insert annotation in xlsb., access annotation in xlsb., remove annotation in xlsb., delete annotation in xlsb]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="افزودن یا حذف حاشیه نویسی از XLSB via Java" h2="برنامه های Java خود را برای دستکاری نظرات و نویسندگان در فایل های سند با استفاده از API های سمت سرور بسازید." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSB" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="" fileiconsmall1="PPTX" fileiconsmall2="DOCX" fileiconsmall3="XLSX" fileiconsmall4="PDF" fileiconsmall5=" ODP " >}}

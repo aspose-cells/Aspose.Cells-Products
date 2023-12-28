@@ -2,6 +2,7 @@
 title:  استخراج متن و تصاویر از سند XLSB از طریق C++
 weight: 3140
 description: C++ کد نمونه برای استخراج متن و تصاویر از فایل XLSB در C++ Runtime Environment برای Windows 32 بیتی، Windows 64 بیتی و لینوکس 64 بیتی.
+keywords: [C++ Aspose.Cells., C++ Extract text and images from XLSB file., C++ How to Parse XLSB File., C++ Extract text from XLSB file., Extract images from XLSB file using C++]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="فرمت های XLSB را در C++ تجزیه کنید" h2="تجزیه اسناد بومی و با کارایی بالا XLSB با استفاده از APIهای Aspose.Cells for C++ سمت سرور، بدون استفاده از نرم افزارهایی مانند Microsoft یا Adobe PDF." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" sourceAdditionalConversionTag="" additionalConversionTag="" pfName="Aspose.Cells" subTitlepfName="for C++" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="XLSB" >}}
@@ -61,9 +62,30 @@ PM> Install-Package Aspose.Cells.Cpp
 {{% blocks/products/pf/agp/code-block title="فایل های پارس XLSB - C++" offSpacer="" %}}
 
 ```cs
-  
 
-    
+Aspose::Cells::Startup();
+
+// extract images from Worksheets 
+// open a template Excel file
+Workbook workbook(u"sampleExtractImagesFromWorksheets.xlsb");
+
+// get the first worksheet
+Worksheet worksheet = workbook.GetWorksheets().Get(0);
+
+// get the first Picture in the first worksheet
+Picture pic = worksheet.GetPictures().Get(0);
+
+// Note: you may evaluate the image format before specifying the image path
+// define ImageOrPrintOptions
+ImageOrPrintOptions printoption;
+
+// specify the image format
+printoption.SetImageType(ImageType::Jpeg);
+
+// save the image
+pic.ToImage(u"outputExtractImagesFromWorksheets.jpg", printoption);
+
+Aspose::Cells::Cleanup();
 
 ```
 

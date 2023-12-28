@@ -1,6 +1,7 @@
 ---
 title: نمودارهای پراکندگی را از طریق C# ایجاد کنید
 description: C# نمونه کد ایجاد نمودارهای Scatter در اکسل با استفاده از کتابخانه .NET. از این کد برای ایجاد نمودار Scatter در MS Excel در VB.NET، Asp.NET یا هر برنامه مبتنی بر .NET استفاده کنید.
+keywords: [C# Aspose.Cells., c# add Scatter Chart., c# insert Scatter Chart., c# create Scatter Chart]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 

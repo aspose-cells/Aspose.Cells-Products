@@ -1,8 +1,8 @@
 ---
 title: NUMBERS را به SVG ادغام کنید - NUMBERS را با SVG در C# ترکیب کنید
 url: /fa/net/merger/merge-numbers-to-svg/ 
-description: Aspose اکسل. C# Aspose.Cells. ادغام آنلاین رایگان NUMBERS به SVG Saveformat. C# NUMBERS را با فرمت SVG ترکیب کنید. NUMBERS را به SVG در C# ادغام کنید. NUMBERS ادغام شوند.
-keywords: [Aspose Excel., C# Aspose.Cells., Merge NUMBERS to SVG in C#., Free Online C# Merge NUMBERS to svg., C# Combine NUMBERS to SVG Online for Free., NUMBERS Merge]
+description: Aspose اکسل. C# Aspose.Cells. NUMBERS را با فرمت ذخیره SVG ادغام کنید. C# NUMBERS را با فرمت SVG ترکیب کنید. NUMBERS را به SVG در C# ادغام کنید. NUMBERS ادغام شوند.
+keywords: [Aspose Excel., C# Aspose.Cells., Merge NUMBERS to SVG in C#., C# Merge NUMBERS to svg., C# Combine NUMBERS to SVG., NUMBERS Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="ادغام NUMBERS به SVG از طریق C#" h2="کتابخانه پرسرعت C# برای ادغام NUMBERS به SVG. از تبدیل اکسل ما API برای توسعه نرم افزار سطح بالا و مستقل از پلت فرم در C# استفاده کنید. این یک راه حل نرم افزار حرفه ای برای وارد کردن و صادرات Excel, CSV, OpenOffice, PDF, HTML, image و بسیاری از فرمت های excel دیگر است." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="NUMBERS" additionalConversionTag="SVG" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., C# Aspose.Cells., Merge NUMBERS to SVG in C#., Free On
 
 {{% blocks/products/pf/agp/content h2="ادغام NUMBERS به SVG با استفاده از C#" %}}
 
- چگونه NUMBERS را به SVG ادغام کنم؟ با کتابخانه Aspose.Cells for .NET، می توانید به راحتی با چند خط کد، NUMBERS را به SVG ادغام کنید.[Aspose.Cells for .NET](https://products.aspose.com/cells/net)قادر به ساخت برنامه های چند پلتفرمی با قابلیت تولید، تغییر، تبدیل، رندر و چاپ تمام فایل های اکسل است. .NET اکسل API نه تنها بین فرمت های صفحه گسترده تبدیل می کند، بلکه می تواند فایل های اکسل را به صورت تصویر رندر کند. انتخاب عالی برای تبادل اسناد در استانداردهای صنعتی فرمت ها باز کن[NuGet](https://www.nuget.org/packages/aspose.cells) Package Manager Aspose.Cells را جستجو و نصب کنید. همچنین می توانید از دستور زیر در کنسول Package Manager استفاده کنید.
+ چگونه NUMBERS را به SVG ادغام کنم؟ با کتابخانه Aspose.Cells for .NET، می توانید به راحتی با چند خط کد، NUMBERS را به SVG ادغام کنید.[Aspose.Cells for .NET](https://products.aspose.com/cells/net)قادر به ساخت برنامه های چند پلتفرمی با قابلیت تولید، تغییر، تبدیل، رندر و چاپ تمام فایل های اکسل است. .NET اکسل API نه تنها بین فرمت های صفحه گسترده تبدیل می شود، بلکه می تواند فایل های اکسل را به صورت تصویر، PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT و موارد دیگر ارائه دهد، بنابراین آن را به گزینه ای عالی برای تبادل اسناد در قالب های استاندارد صنعتی تبدیل می کند. باز کن[NuGet](https://www.nuget.org/packages/aspose.cells) Package Manager Aspose.Cells را جستجو و نصب کنید. همچنین می توانید از دستور زیر در کنسول Package Manager استفاده کنید.
 
 {{% blocks/products/pf/agp/code-block title="فرمان کنسول Package Manager" offSpacer="true" %}}
 
@@ -26,7 +26,7 @@ PM> Install-Package Aspose.Cells
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="ادغام NUMBERS به SVG در C# آنلاین به صورت رایگان" %}}
+{{% blocks/products/pf/agp/content h2="NUMBERS را به SVG در C# ادغام کنید" %}}
 
 مثال زیر نحوه ادغام NUMBERS را به SVG در Aspose.Cells for .NET نشان می دهد.
 {{% blocks/products/pf/agp/text %}}
@@ -37,7 +37,7 @@ PM> Install-Package Aspose.Cells
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="آنلاین رایگان برای ادغام NUMBERS به SVG در C#" InputFormat="numbers" InputFormat2="svg" outformat="svg" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="net" %}}
+{{% cells-merger title="نمونه کد برای ادغام NUMBERS به SVG در C#" InputFormat="numbers" InputFormat2="svg" outformat="svg" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="net" %}}
 
 {{% blocks/products/pf/agp/content h2="نحوه ادغام NUMBERS به SVG از طریق C#" %}}
 
@@ -87,7 +87,7 @@ API های ما در تمام سیستم عامل ها و سیستم عامل ه
 
 <!-- aboutfile Starts -->
     {{< blocks/products/pf/agp/about-file-section >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="NUMBERS" readMoreLink="https://docs.fileformat.com/spreadsheet/numbers/" >}}فایل های با پسوند .numbers به عنوان نوع فایل صفحه گسترده طبقه بندی می شوند، به همین دلیل شبیه فایل های xlsx هستند. اما فایل های Numbers با استفاده از نرم افزار صفحه گسترده Apple iWork Numbers ایجاد می شوند. Apple iWork Numbers یک نرم افزار واحد از مجموعه بهره وری iWork است. مجموعه بهره وری iWork معادل مجموعه آفیس Microsoft است که در رایانه های شخصی Windows استفاده می شود. از این رو، می توان گفت Numbers که برای MacOS در دسترس است، رقیب Microsoft Excel نیز می باشد. به همین ترتیب، Microsoft اکسل، فایل NUMBERS ممکن است شامل جداول، نمودارها و فرمول ها نیز باشد.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="NUMBERS" readMoreLink="https://docs.fileformat.com/spreadsheet/numbers/" >}} فایل های با پسوند .numbers به عنوان نوع فایل صفحه گسترده طبقه بندی می شوند، به همین دلیل شبیه فایل های xlsx هستند. اما فایل های Numbers با استفاده از نرم افزار صفحه گسترده Apple iWork Numbers ایجاد می شوند. Apple iWork Numbers یک نرم افزار واحد از مجموعه بهره وری iWork است. مجموعه بهره وری iWork معادل مجموعه آفیس Microsoft است که در رایانه های شخصی Windows استفاده می شود. از این رو، می توان گفت Numbers که برای MacOS در دسترس است، رقیب Microsoft Excel نیز می باشد. به همین ترتیب، Microsoft اکسل، فایل NUMBERS ممکن است شامل جداول، نمودارها و فرمول ها نیز باشد.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="SVG" readMoreLink="https://docs.fileformat.com/page-description-language/svg/" >}}یک فایل SVG یک فایل گرافیکی اسکالار است که از فرمت متنی مبتنی بر XML برای توصیف ظاهر یک تصویر استفاده می‌کند. کلمه Scalable به این واقعیت اشاره دارد که SVG را می توان در اندازه های مختلف بدون از دست دادن کیفیت مقیاس کرد. توصیف مبتنی بر متن چنین فایل‌هایی آنها را از وضوح مستقل می‌کند. یکی از پرکاربردترین فرمت ها برای ساخت وب سایت و چاپ گرافیک به منظور دستیابی به مقیاس پذیری است. این فرمت فقط برای گرافیک های دو بعدی قابل استفاده است. فایل‌های SVG تقریباً در تمام مرورگرهای مدرن از جمله کروم، اینترنت اکسپلورر، فایرفاکس و سافاری قابل مشاهده/باز هستند.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
     {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->

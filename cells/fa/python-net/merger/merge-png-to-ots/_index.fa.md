@@ -1,8 +1,8 @@
 ---
 title: PNG را به OTS ادغام کنید - PNG را با OTS در Python ترکیب کنید
 url: /fa/python-net/merger/merge-png-to-ots/ 
-description: Aspose اکسل. Python Aspose.Cells. ادغام آنلاین رایگان PNG به فرمت ذخیره OTS. Python PNG را با فرمت OTS ترکیب کنید. ادغام PNG به OTS در Python. PNG ادغام.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge PNG to OTS in Python., Free Online Python Merge PNG to ots., Python Combine PNG to OTS Online for Free., PNG Merge]
+description: Aspose اکسل. Python Aspose.Cells. ادغام PNG به OTS saveformat. Python PNG را با فرمت OTS ترکیب کنید. ادغام PNG به OTS در Python. PNG ادغام.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge PNG to OTS in Python., Python Merge PNG to ots., Python Combine PNG to OTS., PNG Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="PNG را از طریق Python به OTS ادغام کنید" h2="کتابخانه پرسرعت Python برای ادغام PNG به OTS. از تبدیل اکسل ما API برای توسعه نرم افزار سطح بالا و مستقل از پلت فرم در Python استفاده کنید. این یک راه حل نرم افزاری حرفه ای برای وارد کردن و صادرات Excel, CSV, OpenOffice, PDF, HTML, image و بسیاری از فرمت های اکسل دیگر است." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="PNG" additionalConversionTag="OTS" pfName="Aspose.Cells" subTitlepfName="for Python" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -12,12 +12,12 @@ keywords: [Aspose Excel., Python Aspose.Cells., Merge PNG to OTS in Python., Fre
 
 {{% blocks/products/pf/agp/content h2="PNG را با استفاده از Python به OTS ادغام کنید" %}}
 
- چگونه PNG را با OTS ادغام کنم؟ با کتابخانه Aspose.Cells for Python via .NET به راحتی می توانید PNG را به صورت برنامه ریزی شده با چند خط کد به OTS ادغام کنید.[Aspose.Cells for Python via .NET](https://pypi.org/project/aspose-cells-python)قادر به ساخت برنامه های چند پلتفرمی با قابلیت تولید، تغییر، تبدیل، رندر و چاپ تمام فایل های اکسل است. Python اکسل API نه تنها بین فرمت های صفحه گسترده تبدیل می کند، بلکه می تواند فایل های اکسل را به صورت تصویر رندر کند. انتخاب عالی برای تبادل اسناد در استانداردهای صنعتی فرمت ها می توانید Aspose.Cells for Python via .NET را نصب کنید<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> ، از دستور به صورت زیر استفاده کنید:<code>$ pip install aspose-cells-python</code>.
+ چگونه PNG را با OTS ادغام کنم؟ با کتابخانه Aspose.Cells for Python via .NET به راحتی می توانید PNG را به صورت برنامه ریزی شده با چند خط کد به OTS ادغام کنید.[Aspose.Cells for Python via .NET](https://pypi.org/project/aspose-cells-python) قادر به ساخت برنامه های چند پلتفرمی با قابلیت تولید، تغییر، تبدیل، رندر و چاپ تمام فایل های اکسل است. Python اکسل API نه تنها بین فرمت های صفحه گسترده تبدیل می شود، بلکه می تواند فایل های اکسل را به صورت تصویر، PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT و موارد دیگر ارائه دهد، بنابراین آن را به گزینه ای عالی برای تبادل اسناد در قالب های استاندارد صنعتی تبدیل می کند. می توانید Aspose.Cells for Python via .NET را نصب کنید<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> ، از دستور به صورت زیر استفاده کنید:<code>$ pip install aspose-cells-python</code>.
 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="ادغام PNG به OTS در Python آنلاین به صورت رایگان" %}}
+{{% blocks/products/pf/agp/content h2="PNG را با OTS در Python ادغام کنید" %}}
 
 مثال زیر نحوه ادغام PNG با OTS را در Aspose.Cells for Python via .NET نشان می دهد.
 {{% blocks/products/pf/agp/text %}}
@@ -28,13 +28,13 @@ keywords: [Aspose Excel., Python Aspose.Cells., Merge PNG to OTS in Python., Fre
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="آنلاین رایگان برای ادغام PNG با OTS در Python" InputFormat="png" InputFormat2="ots" outformat="ots" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-merger title="نمونه کد برای ادغام PNG به OTS در Python" InputFormat="png" InputFormat2="ots" outformat="ots" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="نحوه ادغام PNG با OTS از طریق Python" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
-آیا نیاز به ادغام PNG با OTS دارید؟ یک سند اساسی ادغام و الحاق با[Aspose.Cells for Python via .NET](https://products.aspose.com/cells/python-net) API ها را می توان تنها با چند خط کد انجام داد.
+ آیا نیاز به ادغام PNG با OTS دارید؟ یک سند اساسی ادغام و الحاق با[Aspose.Cells for Python via .NET](https://products.aspose.com/cells/python-net) API ها را می توان تنها با چند خط کد انجام داد.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -52,7 +52,7 @@ keywords: [Aspose Excel., Python Aspose.Cells., Merge PNG to OTS in Python., Fre
 ما بسته های Python خود را در مخازن PyPi میزبانی می کنیم.
 
 {{% blocks/products/pf/agp/text %}}
-Aspose.Cells for Python را نصب کنید<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> ، از دستور به صورت زیر استفاده کنید:<code>$ pip install aspose-cells-python</code>.
+ Aspose.Cells for Python را نصب کنید<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> ، از دستور به صورت زیر استفاده کنید:<code>$ pip install aspose-cells-python</code>.
 {{% /blocks/products/pf/agp/text %}}
 
 {{% blocks/products/pf/agp/text %}}
@@ -72,7 +72,7 @@ API های ما در تمام سیستم عامل ها و سیستم عامل ه
 {{% /blocks/products/pf/agp/text %}}
 
 -  نصب[Python](https://www.python.org/downloads/) 3.7 یا بالاتر
-- Aspose.Cells for Python را نصب کنید<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> ، از دستور به صورت زیر استفاده کنید:<code>$ pip install aspose-cells-python</code>.
+-  Aspose.Cells for Python را نصب کنید<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> ، از دستور به صورت زیر استفاده کنید:<code>$ pip install aspose-cells-python</code>.
 
 
 {{% /blocks/products/pf/agp/content %}}

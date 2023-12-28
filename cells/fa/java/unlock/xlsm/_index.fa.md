@@ -2,6 +2,7 @@
 title:  قفل XLSM سند via Java را باز کنید
 weight: 7700
 description: Java نمونه کد برای باز کردن قفل فایل XLSM محافظت شده با رمز عبور در Java Runtime Environment برای برنامه های JSP/JSF و برنامه های دسکتاپ.
+keywords: [Java Aspose.Cells., Java unlock XLSM files., Java how to unlock XLSM document., Java unprotect XLSM files., remove protection from XLSM files., decrypt XLSM Files using Java]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="باز کردن قفل XLSM فایل via Java" h2="حفاظت از صفحات گسترده اکسل شامل فایل XLSM را با استفاده از کتابخانه Java حذف کنید." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSM" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSM" >}}
@@ -73,7 +74,7 @@ description: Java نمونه کد برای باز کردن قفل فایل XLSM 
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="فایل های XLSM را از طریق C# باز کنید" offSpacer="" %}}
+{{% blocks/products/pf/agp/code-block title="باز کردن قفل XLSM فایل via Java" offSpacer="" %}}
 
 ```cs
 

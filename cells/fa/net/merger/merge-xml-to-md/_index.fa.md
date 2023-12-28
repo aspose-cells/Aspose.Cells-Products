@@ -1,8 +1,8 @@
 ---
 title: XML را به MD ادغام کنید - XML را با MD در C# ترکیب کنید
 url: /fa/net/merger/merge-xml-to-md/ 
-description: Aspose اکسل. C# Aspose.Cells. ادغام آنلاین رایگان XML به MD saveformat. C# فرمت XML را به MD ترکیب کنید. XML را به MD در C# ادغام کنید. XML Merge.
-keywords: [Aspose Excel., C# Aspose.Cells., Merge XML to MD in C#., Free Online C# Merge XML to md., C# Combine XML to MD Online for Free., XML Merge]
+description: Aspose اکسل. C# Aspose.Cells. فرمت ذخیره XML را با MD ادغام کنید. C# فرمت XML را به MD ترکیب کنید. XML را به MD در C# ادغام کنید. XML Merge.
+keywords: [Aspose Excel., C# Aspose.Cells., Merge XML to MD in C#., C# Merge XML to md., C# Combine XML to MD., XML Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="XML را با MD از طریق C# ادغام کنید" h2="کتابخانه پرسرعت C# برای ادغام XML به MD. از تبدیل اکسل ما API برای توسعه نرم افزار سطح بالا و مستقل از پلت فرم در C# استفاده کنید. این یک راه حل نرم افزاری حرفه ای برای وارد کردن و صادرات Excel, CSV, OpenOffice, PDF, HTML, image و بسیاری از فرمت های اکسل دیگر است." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="XML" additionalConversionTag="MD" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., C# Aspose.Cells., Merge XML to MD in C#., Free Online 
 
 {{% blocks/products/pf/agp/content h2="XML را با MD با استفاده از C# ادغام کنید" %}}
 
- چگونه XML را با MD ادغام کنم؟ با کتابخانه Aspose.Cells for .NET، می توانید به راحتی XML را به MD به صورت برنامه نویسی با چند خط کد ادغام کنید.[Aspose.Cells for .NET](https://products.aspose.com/cells/net)قادر به ساخت برنامه های چند پلتفرمی با قابلیت تولید، تغییر، تبدیل، رندر و چاپ تمام فایل های اکسل است. .NET اکسل API نه تنها بین فرمت های صفحه گسترده تبدیل می کند، بلکه می تواند فایل های اکسل را به صورت تصویر رندر کند. انتخاب عالی برای تبادل اسناد در استانداردهای صنعتی فرمت ها باز کن[NuGet](https://www.nuget.org/packages/aspose.cells) Package Manager Aspose.Cells را جستجو و نصب کنید. همچنین می توانید از دستور زیر در کنسول Package Manager استفاده کنید.
+ چگونه XML را با MD ادغام کنم؟ با کتابخانه Aspose.Cells for .NET، می توانید به راحتی XML را به MD به صورت برنامه نویسی با چند خط کد ادغام کنید.[Aspose.Cells for .NET](https://products.aspose.com/cells/net)قادر به ساخت برنامه های چند پلتفرمی با قابلیت تولید، تغییر، تبدیل، رندر و چاپ تمام فایل های اکسل است. .NET اکسل API نه تنها بین فرمت های صفحه گسترده تبدیل می شود، بلکه می تواند فایل های اکسل را به صورت تصویر، PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT و موارد دیگر ارائه دهد، بنابراین آن را به گزینه ای عالی برای تبادل اسناد در قالب های استاندارد صنعتی تبدیل می کند. باز کن[NuGet](https://www.nuget.org/packages/aspose.cells) Package Manager Aspose.Cells را جستجو و نصب کنید. همچنین می توانید از دستور زیر در کنسول Package Manager استفاده کنید.
 
 {{% blocks/products/pf/agp/code-block title="فرمان کنسول Package Manager" offSpacer="true" %}}
 
@@ -26,7 +26,7 @@ PM> Install-Package Aspose.Cells
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="XML را به MD در C# آنلاین به صورت رایگان ادغام کنید" %}}
+{{% blocks/products/pf/agp/content h2="XML را با MD در C# ادغام کنید" %}}
 
 مثال زیر نحوه ادغام XML به MD را در Aspose.Cells for .NET نشان می دهد.
 {{% blocks/products/pf/agp/text %}}
@@ -37,7 +37,7 @@ PM> Install-Package Aspose.Cells
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="آنلاین رایگان برای ادغام XML به MD در C#" InputFormat="xml" InputFormat2="md" outformat="md" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="net" %}}
+{{% cells-merger title="نمونه کد برای ادغام XML به MD در C#" InputFormat="xml" InputFormat2="md" outformat="md" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="net" %}}
 
 {{% blocks/products/pf/agp/content h2="نحوه ادغام XML به MD از طریق C#" %}}
 

@@ -2,6 +2,7 @@
 title:  مشاهده یا ویرایش XLS فایل های فراداده via .NET
 weight: 1410
 description: کد منبع C# برای ویرایش یا مشاهده فراداده با فرمت XLS در .NET Framework، .NET Core، Mono یا Xamarin Platforms.
+keywords: [C# Aspose.Cells., c# view xls metadata., c# add xls metadata., c# insert xls metadata., c# edit xls metadata., c# remove xls metadata., c# extract xls metadata., c# modify xls metadata]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Extract XLS Metadata via .NET" h2="برنامه های .NET خود را بسازید تا با استفاده از API های سمت سرور، متادیتا را از فایل های XLS اضافه، ویرایش، حذف یا استخراج کنید." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLS" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="PPTX" fileiconsmall2="DOCX" fileiconsmall3="XLSX" fileiconsmall4="PDF" fileiconsmall5=" ODP " >}}

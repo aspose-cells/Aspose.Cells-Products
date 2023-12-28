@@ -1,7 +1,8 @@
 ---
-title:  حذف ODS حاشیه نویسی via Java
+title:  افزودن یا حذف ODS حاشیه نویسی via Java
 weight: 8840
 description: Java کد نمونه برای حذف حاشیه نویسی با فرمت ODS در Java Runtime Environment برای برنامه های کاربردی JSP/JSF و برنامه های دسکتاپ.
+keywords: [Java Aspose.Cells., add ods annotation., insert ods annotation., access ods annotation., remove ods annotation., delete ods annotation., add annotation in ods., insert annotation in ods., access annotation in ods., remove annotation in ods., delete annotation in ods]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="افزودن یا حذف حاشیه نویسی از ODS via Java" h2="برنامه های Java خود را برای دستکاری نظرات و نویسندگان در فایل های سند با استفاده از API های سمت سرور بسازید." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="ODS" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="" fileiconsmall1="PPTX" fileiconsmall2="DOCX" fileiconsmall3="XLSX" fileiconsmall4="PDF" fileiconsmall5=" ODP " >}}

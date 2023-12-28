@@ -1,6 +1,7 @@
 ---
 title: از طریق C# نمودارهای سهام بالا-پایین-بسته ایجاد کنید
 description: C# کد نمونه برای ایجاد نمودارهای سهام بالا-کم-بسته در اکسل با استفاده از کتابخانه .NET. از این کد برای ایجاد نمودار سهام بالا-کم-بسته در MS Excel در VB.NET، Asp.NET یا هر برنامه مبتنی بر .NET استفاده کنید.
+keywords: [C# Aspose.Cells., c# add High-Low-Close Stock Chart., c# insert High-Low-Close Stock Chart., c# create High-Low-Close Stock Chart]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
@@ -27,7 +28,7 @@ description: C# کد نمونه برای ایجاد نمودارهای سهام 
 1.  a اضافه کنید[**سهام بالا-کم-بسته**](https://reference.aspose.com/cells/net/aspose.cells.charts/charttype) نمودار را با فراخوانی به کاربرگ نشان دهید[**نمودار**](https://reference.aspose.com/cells/net/aspose.cells.charts/chartcollection) مجموعه ها[**اضافه کردن**](https://reference.aspose.com/cells/net/aspose.cells.charts/chartcollection/methods/add) روش، کپسوله شده در[**کاربرگ**](https://reference.aspose.com/cells/net/aspose.cells/worksheet)هدف - شی.
 1.  دسترسی به جدید[**چارت سازمانی**](https://reference.aspose.com/cells/net/aspose.cells.charts/chart)شیء از مجموعه نمودارها با عبور از نمایه آن.
 1.  منبع داده نمودار را با[**Chart.SetChartDataRange**](https://reference.aspose.com/cells/net/aspose.cells.charts/chart/methods/setchartdatarange) روش.
-1.  تنظیم داده های دسته با[**CategoryData**](https://reference.aspose.com/cells/net/aspose.cells.charts/seriescollection/categorydata/) ویژگی.
+1.  تنظیم داده های دسته با[**داده های دسته**](https://reference.aspose.com/cells/net/aspose.cells.charts/seriescollection/categorydata/) ویژگی.
 1.  را تنظیم کنید[**نشانگر**](https://reference.aspose.com/cells/net/aspose.cells.charts/series/marker/) با داده های داخلی
 1.  به عنوان اکسل یا ODS ذخیره کنید[فایل خروجی](out.xlsx).
 

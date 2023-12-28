@@ -2,6 +2,7 @@
 title:  چگونه با استفاده از Python via Java فلش مستقیم را در اکسل رسم یا وارد کنم
 weight: 10
 description: کد منبع Python via Java برای کشیدن یا درج فلش مستقیم در اکسل.
+keywords: [Python Aspose.Cells., Python add straight arrow., Python insert straight arrow., Python create straight arrow]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="با استفاده از Python via Java فلش مستقیم را در اکسل وارد کنید" h2="پیکان مستقیم را با استفاده از Aspose.Cells\' API بدون هیچ نرم افزاری مانند Microsoft یا Open Office، Adobe PDF و غیره وارد کنید." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="" pfName="Aspose.Cells" subTitlepfName="for Python via Java" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="XLSX" >}}
@@ -11,7 +12,7 @@ description: کد منبع Python via Java برای کشیدن یا درج فل�
 
 {{% blocks/products/pf/agp/content h2="نحوه درج فلش مستقیم در فایل اکسل با استفاده از Python via Java" %}}
 
- به منظور درج فلش مستقیم در فایل اکسل، از آن استفاده می کنیم
+به منظور درج فلش مستقیم در فایل اکسل، از آن استفاده می کنیم
  [Aspose.Cells for Python via Java](https://pypi.org/project/aspose-cells/) 
  API که دارای ویژگی های غنی، قدرتمند و آسان برای دستکاری اسناد است API for Python via Java پلت فرم. API ایجاد، دستکاری، تبدیل و رندر فایل اکسل را فراهم می کند. همه بدون اتکا به برنامه های آفیس یا اکسل Microsoft. می توانید با استفاده از دستور زیر از کنسول نصب کنید.
 
@@ -37,7 +38,7 @@ description: کد منبع Python via Java برای کشیدن یا درج فل�
 
 {{% /blocks/products/pf/agp/text %}}
 
-نمونه سازی یک شی Workbook. (یا -> فایل XLSX را با مسیر کامل بارگیری کنید.)
++ نمونه سازی یک شی Workbook. (یا -> فایل XLSX را با مسیر کامل بارگیری کنید.)
 + کاربرگ را از طریق فهرست آن انتخاب کنید.
  + از shapecollection استفاده کنید[روش اضافه کردن](https://reference.aspose.com/cells/python-java/asposecells.api/shapecollection#addLine(int,%20int,%20int,%20int,%20int,%20int)) برای درج یک فلش مستقیم در کاربرگ انتخاب شده.
 + کتاب کار را با فرمت XLSX ذخیره کنید.
@@ -48,12 +49,12 @@ description: کد منبع Python via Java برای کشیدن یا درج فل�
 
 {{% blocks/products/pf/agp/text %}}
 
-Aspose.Cells for Python via Java مستقل از پلتفرم API است و می تواند در هر پلتفرمی (Windows، لینوکس و MacOS) استفاده شود، فقط مطمئن شوید که سیستم دارای Java 1.8 یا بالاتر است،[Python](https://www.python.org/downloads/) 3.5 یا بالاتر
+ Aspose.Cells for Python via Java مستقل از پلتفرم API است و می تواند در هر پلتفرمی (Windows، لینوکس و MacOS) استفاده شود، فقط مطمئن شوید که سیستم دارای Java 1.8 یا بالاتر است،[Python](https://www.python.org/downloads/) 3.5 یا بالاتر
  
 {{% /blocks/products/pf/agp/text %}}
 
-- هر سیستم عاملی که می تواند اسکریپت های Python via Java را اجرا کند، مانند Windows، Linux و MacOS
--  Java را نصب کنید و آن را به متغیر محیطی PATH اضافه کنید، به عنوان مثال:<code>PATH=C:\Program Files\Java\jdk1.8.0_131;</code>.
+-  هر سیستم عاملی که می تواند اسکریپت های Python via Java را اجرا کند، مانند Windows، Linux و MacOS
+- Java را نصب کنید و آن را به متغیر محیطی PATH اضافه کنید، به عنوان مثال:<code>PATH=C:\Program Files\Java\jdk1.8.0_131;</code>.
 -  نصب Aspose.Cells for Python via Java از<a href="https://pypi.org/project/aspose-cells/">pypi</a> ، از دستور به صورت زیر استفاده کنید:<code>$ pip install aspose-cells</code>.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
@@ -81,7 +82,7 @@ Aspose.Cells API قادر به ساخت برنامه های چند پلتفرم�
 
 <!-- aboutfile Ends -->
 <!--
-{{< blocks/products/pf/agp/other-supported-section title="Other Supported Splitting Formats" subTitle="Using C#, One can also split large file into chunks of many other file formats including." >}}
+{{< blocks/products/pf/agp/other-supported-section title="Other Supported Splitting Formats" subTitle="Using Python, One can also split large file into chunks of many other file formats including." >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/splitter/ods/" name="ODS" description="OpenDocument Spreadsheet File" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/splitter/xls/" name="XLS" description="Excel Binary Format" >}}

@@ -2,6 +2,7 @@
 title:  اندازه تصاویر/تصاویر را در اکسل via Java دریافت کنید
 weight: 10
 description: اندازه تصاویر/تصاویر را در اکسل با استفاده از Aspose.Cells' Java API بدون هیچ نرم افزاری مانند Microsoft یا Open Office، Adobe PDF و غیره دریافت می کند.
+keywords: [Java Aspose.Cells., Java Get Images/Pictures Size In Excel., Java Obtain Images/Pictures Size In Excel., Java Access Images/Pictures Size In Excel]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="اندازه تصاویر/تصاویر را در اکسل via Java دریافت کنید" h2="با استفاده از Aspose.Cells\' API برای کار با اشیاء مختلف بدون هیچ نرم افزاری مانند Microsoft یا Open Office، Adobe PDF و غیره." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSX" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="" fileiconsmall1="PPTX" fileiconsmall2="DOCX" fileiconsmall3="XLSX" fileiconsmall4="PDF" fileiconsmall5=" ODP " >}}
@@ -63,7 +64,7 @@ description: اندازه تصاویر/تصاویر را در اکسل با اس
     + [عرض](https://reference.aspose.com/cells/java/com.aspose.cells/picture/#getWidth--) عرض شکل را بر حسب واحد پیکسل نشان می دهد.
     + [ارتفاع](https://reference.aspose.com/cells/java/com.aspose.cells/picture/#getHeight--) ارتفاع شکل را بر حسب واحد پیکسل نشان می دهد.
     + [عرض اصلی](https://reference.aspose.com/cells/java/com.aspose.cells/picture/#getOriginalWidth--) عرض اصلی تصویر را بر حسب واحد پیکسل دریافت می کند.
-    + [ارتفاع اصلی](https://reference.aspose.com/cells/java/com.aspose.cells/picture/#getOriginalHeight--) ارتفاع اصلی تصویر را بر حسب واحد پیکسل دریافت می کند.
+    + [ارتفاع اصلی](https://reference.aspose.com/cells/java/com.aspose.cells/picture/#getOriginalHeight--)ارتفاع اصلی تصویر را بر حسب واحد پیکسل دریافت می کند.
 
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

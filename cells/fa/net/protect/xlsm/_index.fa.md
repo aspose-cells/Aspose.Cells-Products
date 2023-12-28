@@ -1,7 +1,8 @@
 ---
-title: محافظت و قفل XLSM سند via .NET
+title:  محافظت و قفل XLSM سند via .NET
 weight: 7530
 description: کد منبع C# برای قفل کردن فایل XLSM با استفاده از رمز عبور در .NET Framework، .NET Core، Mono یا Xamarin Platforms.
+keywords: [C# Aspose.Cells., c# Lock XLSM files., c# How to Protect and lock XLSM document., c# Protect XLSM files., Encrypt XLSM Files using C#]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="فایل های XLSM را از طریق C# رمزگذاری کنید" h2="از صفحات گسترده اکسل با فرمت XLSM با استفاده از کتابخانه .NET محافظت کنید." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSM" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSM" >}}

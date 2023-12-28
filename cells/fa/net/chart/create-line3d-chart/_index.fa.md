@@ -1,6 +1,7 @@
 ---
 title: از طریق شماره C# نمودارهای خطی سه بعدی ایجاد کنید
 description: C# نمونه کد ایجاد نمودارهای خط سه بعدی در اکسل با استفاده از کتابخانه .NET. از این کد برای ایجاد نمودار خط سه بعدی در MS Excel در VB.NET، Asp.NET یا هر برنامه مبتنی بر .NET استفاده کنید.
+keywords: [C# Aspose.Cells., c# add 3D Line Chart., c# insert 3D Line Chart., c# create 3D Line Chart., c# add Line3D Chart., c# insert Line3D Chart., c# create Line3D Chart]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 

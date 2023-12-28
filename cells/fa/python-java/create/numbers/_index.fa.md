@@ -1,7 +1,7 @@
 ---
 title: ایجاد NUMBERS - فایل NUMBERS را در Python ایجاد کنید
-description: Aspose اکسل. Python ایجاد فایل NUMBERS. ایجاد NUMBERS Python. Python NUMBERS Creater. NUMBERS را در Python ایجاد کنید. فایل NUMBERS را با استفاده از Python ایجاد کنید.
-keywords: [Aspose Excel., Python Aspose.Cells., Create NUMBERS Python., Python NUMBERS Creater., Create NUMBERS file in Python., Generate NUMBERS file in Python]
+description:  Aspose اکسل. Python با Aspose.Cells فایل NUMBERS را به سرعت و به راحتی ایجاد کنید. با استفاده از Python فایل NUMBERS را ایجاد کنید. NUMBERS را در Python ایجاد کنید. Python NUMBERS Creater.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Create NUMBERS file., Generate NUMBERS file in Python., Create NUMBERS file using Python., Write data to NUMBERS file via Python., Create a NUMBERS file in Python., Python Generate a NUMBERS file., Python NUMBERS Creater]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="فایل NUMBERS را در Python ایجاد کنید" h2="کتابخانه پرسرعت Python برای ایجاد فایل NUMBERS. این یک راه حل نرم افزاری حرفه ای برای واردات و صادرات XLSX، PDF و بسیاری از فرمت های دیگر با استفاده از Python است." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="NUMBERS" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -11,7 +11,7 @@ keywords: [Aspose Excel., Python Aspose.Cells., Create NUMBERS Python., Python N
 
 {{% blocks/products/pf/agp/content h2="با استفاده از Python فایل NUMBERS ایجاد کنید" %}}
 
-چگونه فایل NUMBERS ایجاد کنیم؟ با کتابخانه Aspose.Cells for Python via Java می توانید به راحتی فایل NUMBERS را به صورت برنامه نویسی با چند خط کد ایجاد کنید.[Aspose.Cells for Python](https://pypi.org/project/aspose-cells)قادر به ساخت برنامه های چند پلتفرمی با قابلیت تولید، تغییر، تبدیل، رندر و چاپ تمام فایل های اکسل است. Python اکسل API نه تنها بین فرمت های صفحه گسترده تبدیل می کند، بلکه می تواند فایل های اکسل را به صورت تصویر رندر کند. انتخاب عالی برای تبادل اسناد در استانداردهای صنعتی فرمت ها
+ چگونه فایل NUMBERS ایجاد کنیم؟ با کتابخانه Aspose.Cells for Python via Java می توانید به راحتی فایل NUMBERS را به صورت برنامه نویسی با چند خط کد ایجاد کنید.[Aspose.Cells for Python](https://pypi.org/project/aspose-cells)قادر به ساخت برنامه های چند پلتفرمی با قابلیت تولید، تغییر، تبدیل، رندر و چاپ تمام فایل های اکسل است. Python اکسل API نه تنها بین فرمت های صفحه گسترده تبدیل می شود، بلکه می تواند فایل های اکسل را به صورت تصویر، PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT و موارد دیگر ارائه دهد، بنابراین آن را به گزینه ای عالی برای تبادل اسناد در قالب های استاندارد صنعتی تبدیل می کند.
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -80,7 +80,7 @@ jpype.shutdownJVM()
 
 {{% blocks/products/pf/agp/text %}}
 
-Aspose.Cells for Python via Java مستقل از پلتفرم API است و می تواند در هر پلتفرمی (Windows، لینوکس و MacOS) استفاده شود، فقط مطمئن شوید که سیستم دارای Java 1.8 یا بالاتر است،[Python](https://www.python.org/downloads/) 3.5 یا بالاتر
+ Aspose.Cells for Python via Java مستقل از پلتفرم API است و می تواند در هر پلتفرمی (Windows، لینوکس و MacOS) استفاده شود، فقط مطمئن شوید که سیستم دارای Java 1.8 یا بالاتر است،[Python](https://www.python.org/downloads/) 3.5 یا بالاتر
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -91,7 +91,7 @@ Aspose.Cells for Python via Java مستقل از پلتفرم API است و می
 
 <!-- aboutfile Starts -->
     {{< blocks/products/pf/agp/about-file-section >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="NUMBERS" readMoreLink="https://docs.fileformat.com/spreadsheet/numbers/" >}}فایل های با پسوند .numbers به عنوان نوع فایل صفحه گسترده طبقه بندی می شوند، به همین دلیل شبیه فایل های xlsx هستند. اما فایل های Numbers با استفاده از نرم افزار صفحه گسترده Apple iWork Numbers ایجاد می شوند. Apple iWork Numbers یک نرم افزار واحد از مجموعه بهره وری iWork است. مجموعه بهره وری iWork معادل مجموعه آفیس Microsoft است که در رایانه های شخصی Windows استفاده می شود. از این رو، می توان گفت Numbers که برای MacOS در دسترس است، رقیب Microsoft Excel نیز می باشد. به همین ترتیب، Microsoft اکسل، فایل NUMBERS ممکن است شامل جداول، نمودارها و فرمول ها نیز باشد.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="NUMBERS" readMoreLink="https://docs.fileformat.com/spreadsheet/numbers/" >}} فایل های با پسوند .numbers به عنوان نوع فایل صفحه گسترده طبقه بندی می شوند، به همین دلیل شبیه فایل های xlsx هستند. اما فایل های Numbers با استفاده از نرم افزار صفحه گسترده Apple iWork Numbers ایجاد می شوند. Apple iWork Numbers یک نرم افزار واحد از مجموعه بهره وری iWork است. مجموعه بهره وری iWork معادل مجموعه آفیس Microsoft است که در رایانه های شخصی Windows استفاده می شود. از این رو، می توان گفت Numbers که برای MacOS در دسترس است، رقیب Microsoft Excel نیز می باشد. به همین ترتیب، Microsoft اکسل، فایل NUMBERS ممکن است شامل جداول، نمودارها و فرمول ها نیز باشد.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
     {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->
 

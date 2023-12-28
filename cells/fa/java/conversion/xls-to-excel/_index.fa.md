@@ -1,7 +1,7 @@
 ---
-title: Java XLS به EXCEL - تبدیل آنلاین XLS به EXCEL
-description: Aspose اکسل. Java Aspose.Cells. Java Aspose Cells. آنلاین رایگان Java تبدیل XLS به فرمت ذخیره EXCEL. Java XLS به فرمت EXCEL. XLS را به EXCEL Java ذخیره کنید.
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java XLS to EXCEL saveformat., Free Online XLS to EXCEL Java., Java Convert XLS to EXCEL]
+title: Java XLS به EXCEL - XLS به EXCEL تبدیل
+description: Aspose اکسل. XLS را سریع و آسان با Aspose.Cells به EXCEL تبدیل کنید. Java XLS به EXCEL. Java XLS را در EXCEL ذخیره کنید. XLS را به عنوان EXCEL با استفاده از Java ذخیره کنید.
+keywords: [Aspose Excel., Java Aspose.Cells., Convert XLS to EXCEL in Java., Save XLS to EXCEL using Java., Java XLS to EXCEL saveformat., XLS to EXCEL Converter., Java Save XLS as EXCEL]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="تبدیل XLS به EXCEL در Java" h2="کتابخانه پرسرعت Java برای تبدیل XLS به EXCEL. این یک راه حل نرم افزاری حرفه ای برای واردات و صادرات XLS، EXCEL و بسیاری از فرمت های دیگر با استفاده از Java است." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="EXCEL" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java XLS to EX
 
 {{% blocks/products/pf/agp/content h2="تبدیل XLS به EXCEL با استفاده از Java" %}}
 
- چگونه XLS را به EXCEL تبدیل کنم؟ با کتابخانه Aspose.Cells for Java به راحتی می توانید با چند خط کد XLS را به صورت برنامه نویسی به EXCEL تبدیل کنید.[Aspose.Cells for Java](https://products.aspose.com/cells/java) قادر به ساخت برنامه های چند پلتفرمی با قابلیت تولید، تغییر، تبدیل، رندر و چاپ تمام فایل های اکسل است. Java اکسل API نه تنها بین فرمت های صفحه گسترده تبدیل می کند، بلکه می تواند فایل های اکسل را به صورت تصویر رندر کند. انتخاب عالی برای تبادل اسناد در استانداردهای صنعتی فرمت ها آخرین نسخه آن را می توانید مستقیماً از اینجا دانلود کنید[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) و با افزودن تنظیمات زیر به pom.xml آن را در پروژه مبتنی بر Maven خود نصب کنید.
+ چگونه XLS را به EXCEL تبدیل کنم؟ با کتابخانه Aspose.Cells for Java به راحتی می توانید با چند خط کد XLS را به صورت برنامه نویسی به EXCEL تبدیل کنید.[Aspose.Cells for Java](https://products.aspose.com/cells/java)قادر به ساخت برنامه های چند پلتفرمی با قابلیت تولید، تغییر، تبدیل، رندر و چاپ تمام فایل های اکسل است. Java اکسل API نه تنها بین فرمت های صفحه گسترده تبدیل می شود، بلکه می تواند فایل های اکسل را به صورت تصویر، PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT و موارد دیگر ارائه دهد، بنابراین آن را به گزینه ای عالی برای تبادل اسناد در قالب های استاندارد صنعتی تبدیل می کند. آخرین نسخه آن را می توانید مستقیماً از اینجا دانلود کنید[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) و با افزودن تنظیمات زیر به pom.xml آن را در پروژه مبتنی بر Maven خود نصب کنید.
 
 {{% blocks/products/pf/agp/code-block title="مخزن" offSpacer="true" %}}
 
@@ -45,7 +45,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java XLS to EX
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="XLS را به EXCEL در Java به صورت آنلاین و رایگان ذخیره کنید" %}}
+{{% blocks/products/pf/agp/content h2="XLS را در EXCEL در Java ذخیره کنید" %}}
 
 مثال زیر نحوه تبدیل XLS به EXCEL را در Java نشان می دهد.
 {{% blocks/products/pf/agp/text %}}
@@ -56,7 +56,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java XLS to EX
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="برنامه رایگان و کد نمونه برای تبدیل XLS به EXCEL آنلاین" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xls" outformat="xlsx" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="نمونه کد برای تبدیل XLS به EXCEL" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xls" outformat="xlsx" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="نحوه تبدیل XLS به EXCEL via Java" %}}
 
@@ -68,7 +68,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java XLS to EX
 
 1.  'Aspose.Cells for Java' را نصب کنید.
 1.  یک مرجع کتابخانه (وارد کردن کتابخانه) به پروژه Java خود اضافه کنید.
-1.  فایل XLS را با نمونه ای از کلاس Workbook بارگیری کنید.
+1. فایل XLS را با نمونه ای از کلاس Workbook بارگیری کنید.
 1.  XLS را با فراخوانی روش Workbook.save به EXCEL تبدیل کنید.
 1.  نتیجه تبدیل XLS به EXCEL را دریافت کنید.
 

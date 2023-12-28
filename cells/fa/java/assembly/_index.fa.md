@@ -1,6 +1,7 @@
 ---
 title: ایجاد فایل های اکسل via Java
 description: ایجاد صفحات گسترده Microsoft اکسل از یک صفحه الگو با استفاده از کتابخانه صفحه گسترده Java
+keywords: [Java Aspose.Cells., Java Create Reports Based on Predesigned Excel Template., Java Generate Reports Based on Predesigned Excel Template., Java Create Reports Based on Excel Template., Java Generate Reports Based on Excel Template., Java Create Excel files Based on Excel Template., Java Generate Excel files Based on Excel Template]
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
 {{< blocks/products/pf/i18n/feature-page-header h1="Microsoft<sup>&reg;</sup> ایجاد گزارش های مبتنی بر الگوی اکسل via Java" h2="گزارش های فایل اکسل انبوه را بر اساس یک الگوی از پیش تعریف شده در برنامه های مبتنی بر Java ایجاد کنید." >}}

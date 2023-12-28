@@ -1,7 +1,7 @@
 ---
-title: Java PNG به SXC - تبدیل آنلاین PNG به SXC
-description: Aspose اکسل. Java Aspose.Cells. Java Aspose Cells. رایگان آنلاین Java تبدیل PNG به SXC ذخیره فرمت. Java PNG الی SXC فرمت. PNG را به شماره SXC Java ذخیره کنید.
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java PNG to SXC saveformat., Free Online PNG to SXC Java., Java Convert PNG to SXC]
+title: Java PNG به SXC - PNG به SXC تبدیل
+description: Aspose اکسل. PNG را سریع و آسان با Aspose.Cells به SXC تبدیل کنید. 113481 با استفاده از Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Convert PNG to SXC in Java., Save PNG to SXC using Java., Java PNG to SXC saveformat., PNG to SXC Converter., Java Save PNG as SXC]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="تبدیل PNG به SXC در Java" h2="کتابخانه پرسرعت Java برای تبدیل PNG به SXC. این یک راه حل نرم افزاری حرفه ای برای واردات و صادرات PNG، SXC و بسیاری از فرمت های دیگر با استفاده از Java است." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="SXC" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java PNG to SX
 
 {{% blocks/products/pf/agp/content h2="تبدیل PNG به SXC با استفاده از Java" %}}
 
-چگونه PNG را به SXC تبدیل کنم؟ با کتابخانه Aspose.Cells for Java می توانید به راحتی با چند خط کد PNG را به صورت برنامه ای به SXC تبدیل کنید.[Aspose.Cells for Java](https://products.aspose.com/cells/java) قادر به ساخت برنامه های چند پلتفرمی با قابلیت تولید، تغییر، تبدیل، رندر و چاپ تمام فایل های اکسل است. Java اکسل API نه تنها بین فرمت های صفحه گسترده تبدیل می کند، بلکه می تواند فایل های اکسل را به صورت تصویر رندر کند. انتخاب عالی برای تبادل اسناد در استانداردهای صنعتی فرمت ها آخرین نسخه آن را می توانید مستقیماً از اینجا دانلود کنید[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) و با افزودن تنظیمات زیر به pom.xml آن را در پروژه مبتنی بر Maven خود نصب کنید.
+چگونه PNG را به SXC تبدیل کنم؟ با کتابخانه Aspose.Cells for Java می توانید به راحتی با چند خط کد PNG را به صورت برنامه ای به SXC تبدیل کنید.[Aspose.Cells for Java](https://products.aspose.com/cells/java)قادر به ساخت برنامه های چند پلتفرمی با قابلیت تولید، تغییر، تبدیل، رندر و چاپ تمام فایل های اکسل است. Java اکسل API نه تنها بین فرمت های صفحه گسترده تبدیل می شود، بلکه می تواند فایل های اکسل را به صورت تصویر، PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT و موارد دیگر ارائه دهد، بنابراین آن را به گزینه ای عالی برای تبادل اسناد در قالب های استاندارد صنعتی تبدیل می کند. آخرین نسخه آن را می توانید مستقیماً از اینجا دانلود کنید[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) و با افزودن تنظیمات زیر به pom.xml آن را در پروژه مبتنی بر Maven خود نصب کنید.
 
 {{% blocks/products/pf/agp/code-block title="مخزن" offSpacer="true" %}}
 
@@ -45,7 +45,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java PNG to SX
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="PNG را به شماره SXC در Java بصورت آنلاین و رایگان ذخیره کنید" %}}
+{{% blocks/products/pf/agp/content h2="PNG را به شماره SXC در Java ذخیره کنید" %}}
 
 مثال زیر نحوه تبدیل PNG به SXC را در Java نشان می دهد.
 {{% blocks/products/pf/agp/text %}}
@@ -56,7 +56,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java PNG to SX
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="برنامه رایگان و کد نمونه برای تبدیل PNG به SXC آنلاین" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="png" outformat="sxc" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="نمونه کد برای تبدیل PNG به SXC" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="png" outformat="sxc" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="نحوه تبدیل PNG به SXC via Java" %}}
 
@@ -68,7 +68,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java PNG to SX
 
 1.  'Aspose.Cells for Java' را نصب کنید.
 1.  یک مرجع کتابخانه (وارد کردن کتابخانه) به پروژه Java خود اضافه کنید.
-1.  فایل PNG را با نمونه ای از کلاس Workbook بارگیری کنید.
+1. فایل PNG را با نمونه ای از کلاس Workbook بارگیری کنید.
 1.  PNG را با فراخوانی روش Workbook.save به SXC تبدیل کنید.
 1.  نتیجه تبدیل PNG به SXC را دریافت کنید.
 
@@ -98,7 +98,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java PNG to SX
 <!-- aboutfile Starts -->
     {{< blocks/products/pf/agp/about-file-section >}}
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="PNG" readMoreLink="https://docs.fileformat.com/image/png/" >}}فایل PNG (گرافیک شبکه قابل حمل) یک فرمت فایل تصویری شطرنجی است که از فشرده سازی بدون تلفات استفاده می کند. این فرمت فایل به عنوان جایگزین فرمت تبادل گرافیکی (GIF) ایجاد شده است و هیچ محدودیتی برای کپی رایت ندارد. با این حال، فرمت فایل PNG از انیمیشن ها پشتیبانی نمی کند. فرمت فایل PNG از فشرده سازی تصویر بدون اتلاف پشتیبانی می کند که باعث محبوبیت آن در بین کاربرانش می شود. با گذشت زمان، PNG به عنوان یکی از فرمت های فایل تصویری پرکاربرد تبدیل شده است.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="SXC" readMoreLink="https://docs.fileformat.com/spreadsheet/sxc/" >}}فرمت فایل SXC (Sun XML Calc) متعلق به یک مجموعه اداری به نام OpenOffice.org است. این قالب به طور کلی با نیازهای صفحه گسترده کاربران سروکار دارد زیرا یک فرمت فایل صفحه گسترده مبتنی بر XML است. فرمت SXC از فرمول‌ها، توابع، ماکروها و نمودارها همراه با DataPilot پشتیبانی می‌کند، که یک ویژگی باورنکردنی است زیرا به‌طور خودکار شخصی‌سازی می‌شود و خلاصه‌ای از داده‌های وارداتی خام را ارائه می‌دهد. فایل های ایجاد شده با این نرم افزار با پسوند .sxc ذخیره می شوند.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="SXC" readMoreLink="https://docs.fileformat.com/spreadsheet/sxc/" >}}فرمت فایل SXC (Sun XML Calc) متعلق به یک مجموعه اداری به نام OpenOffice.org است. این قالب به طور کلی با نیازهای صفحه گسترده کاربران سروکار دارد زیرا یک فرمت فایل صفحه گسترده مبتنی بر XML است. فرمت SXC از فرمول‌ها، توابع، ماکروها و نمودارها همراه با DataPilot پشتیبانی می‌کند، که یک ویژگی باورنکردنی است زیرا به طور خودکار شخصی‌سازی می‌شود و خلاصه‌ای از داده‌های وارداتی خام را ارائه می‌دهد. فایل های ایجاد شده با این نرم افزار با پسوند .sxc ذخیره می شوند.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
     {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->
 

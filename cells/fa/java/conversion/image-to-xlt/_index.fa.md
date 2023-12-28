@@ -1,7 +1,7 @@
 ---
-title: Java IMAGE به XLT - تبدیل آنلاین IMAGE به XLT
-description: Aspose اکسل. Java Aspose.Cells. Java Aspose Cells. رایگان آنلاین Java تبدیل تصویر به XLT ذخیره فرمت. فرمت Java IMAGE تا XLT. IMAGE را در XLT Java ذخیره کنید.
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java IMAGE to XLT saveformat., Free Online IMAGE to XLT Java., Java Convert IMAGE to XLT]
+title: Java IMAGE به XLT - تبدیل IMAGE به XLT
+description: Aspose اکسل. تبدیل IMAGE به XLT به سرعت و به راحتی با Aspose.Cells. Java IMAGE به XLT. Java ذخیره IMAGE به XLT. ذخیره IMAGE به عنوان 07613473.
+keywords: [Aspose Excel., Java Aspose.Cells., Convert IMAGE to XLT in Java., Save IMAGE to XLT using Java., Java IMAGE to XLT saveformat., IMAGE to XLT Converter., Java Save IMAGE as XLT]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="تبدیل IMAGE به XLT در Java" h2="کتابخانه پرسرعت Java برای تبدیل IMAGE به XLT. این یک راه حل نرم افزاری حرفه ای برای وارد کردن و صادرات IMAGE، XLT و بسیاری از فرمت های دیگر با استفاده از Java است." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLT" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java IMAGE to 
 
 {{% blocks/products/pf/agp/content h2="تبدیل IMAGE به XLT با استفاده از Java" %}}
 
- چگونه IMAGE را به XLT تبدیل کنم؟ با کتابخانه Aspose.Cells for Java می توانید به راحتی و با چند خط کد IMAGE را به صورت برنامه نویسی به XLT تبدیل کنید.[Aspose.Cells for Java](https://products.aspose.com/cells/java) قادر به ساخت برنامه های چند پلتفرمی با قابلیت تولید، تغییر، تبدیل، رندر و چاپ تمام فایل های اکسل است. Java اکسل API نه تنها بین فرمت های صفحه گسترده تبدیل می کند، بلکه می تواند فایل های اکسل را به صورت تصویر رندر کند. انتخاب عالی برای تبادل اسناد در استانداردهای صنعتی فرمت ها آخرین نسخه آن را می توانید مستقیماً از اینجا دانلود کنید[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) و با افزودن تنظیمات زیر به pom.xml آن را در پروژه مبتنی بر Maven خود نصب کنید.
+ چگونه IMAGE را به XLT تبدیل کنم؟ با کتابخانه Aspose.Cells for Java می توانید به راحتی و با چند خط کد IMAGE را به صورت برنامه نویسی به XLT تبدیل کنید.[Aspose.Cells for Java](https://products.aspose.com/cells/java)قادر به ساخت برنامه های چند پلتفرمی با قابلیت تولید، تغییر، تبدیل، رندر و چاپ تمام فایل های اکسل است. Java اکسل API نه تنها بین فرمت های صفحه گسترده تبدیل می شود، بلکه می تواند فایل های اکسل را به صورت تصویر، PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT و موارد دیگر ارائه دهد، بنابراین آن را به گزینه ای عالی برای تبادل اسناد در قالب های استاندارد صنعتی تبدیل می کند. آخرین نسخه آن را می توانید مستقیماً از اینجا دانلود کنید[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) و با افزودن تنظیمات زیر به pom.xml آن را در پروژه مبتنی بر Maven خود نصب کنید.
 
 {{% blocks/products/pf/agp/code-block title="مخزن" offSpacer="true" %}}
 
@@ -45,7 +45,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java IMAGE to 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="ذخیره IMAGE در XLT در Java بصورت آنلاین به صورت رایگان" %}}
+{{% blocks/products/pf/agp/content h2="IMAGE را در XLT در Java ذخیره کنید" %}}
 
 مثال زیر نحوه تبدیل IMAGE را به XLT در Java نشان می دهد.
 {{% blocks/products/pf/agp/text %}}
@@ -56,7 +56,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java IMAGE to 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="برنامه رایگان و کد نمونه برای تبدیل IMAGE به XLT آنلاین" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="png" outformat="xlt" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="نمونه کد برای تبدیل IMAGE به XLT" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="png" outformat="xlt" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="نحوه تبدیل IMAGE به XLT via Java" %}}
 

@@ -2,6 +2,7 @@
 title:  جستجو و جایگزینی متن در سند XLSB via .NET
 weight: 3890
 description: کد منبع C# برای ویرایش اطلاعات حساس در فایل XLSB در .NET Framework، .NET Core، Mono یا Xamarin Platforms.
+keywords: [C# Aspose.Cells., c# Search and replace text in XLSB file., c# redact XLSB file., c# edit XLSB file., c# XLSB file redaction., c# Search and replace string in XLSB file]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Redact XLSB فرمت ها در C#" h2="XLSB بومی و با کارایی بالا، اطلاعات ویرایش حساس را با استفاده از APIهای Aspose.Cells for .NET سمت سرور، بدون استفاده از نرم‌افزاری مانند Microsoft یا Adobe PDF ثبت می‌کند." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="XLSB" >}}
@@ -48,7 +49,7 @@ PM> Install-Package Aspose.Cells
 + شی FindOptions را ایجاد کنید.
 + گزینه های جستجو را تنظیم کنید
 + در هر سلول حلقه بزنید و از روش Find استفاده کنید.
-کتاب کار را ذخیره کنید.
++ کتاب کار را ذخیره کنید.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -121,7 +122,7 @@ wb.Save("e:\test2\output.xlsb");
             {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" بدون نیاز به دانلود Aspose API." >}}
             {{< blocks/products/pf/agp/democard icon="fa-edit" text=" نیازی به نوشتن هیچ کدی نیست." >}}
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" فقط فایل های XLSB خود را آپلود کنید." >}}
-            {{< blocks/products/pf/agp/democard icon="fa-download" text=" فورا ویرایش خواهد شد." >}}
+            {{< blocks/products/pf/agp/democard icon="fa-download" text="فورا ویرایش خواهد شد." >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLSB" readMoreLink="https://docs.fileformat.com/spreadsheet/xlsb/" >}}
 فرمت فایل XLSB فرمت فایل باینری اکسل را مشخص می کند که مجموعه ای از رکوردها و ساختارهایی است که محتوای کتاب کار اکسل را مشخص می کند. محتوا می تواند شامل جداول بدون ساختار یا نیمه ساختاریافته اعداد، متن یا هر دو اعداد و متن، فرمول ها، اتصالات داده خارجی، نمودارها و تصاویر باشد. برخلاف XLSX (که بر اساس فرمت فایل Open XML است)، XLSB فایل باینری کتاب کار اکسل را نشان می دهد. فایل های XLSB را می توان سریعتر خواند و نوشت که آنها را برای کار با فایل های حجیم مفید می کند. XLSB به ندرت برای ذخیره کتاب‌های کار استفاده می‌شود، زیرا XLSX (و قبلاً XLS) رایج‌ترین فرمت‌های فایل انتخابی کاربر برای ذخیره کتاب‌های کار هستند. با شماره Microsoft Office 2007 به بالا قابل باز شدن است.

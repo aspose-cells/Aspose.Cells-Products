@@ -1,8 +1,8 @@
 ---
 title: XLTM را با EXCEL ادغام کنید - XLTM را با EXCEL در Java ترکیب کنید
 url: /fa/java/merger/merge-xltm-to-excel/ 
-description: Aspose اکسل. Java Aspose.Cells. ادغام آنلاین رایگان XLTM به فرمت ذخیره EXCEL. Java XLTM را با فرمت EXCEL ترکیب کنید. ادغام XLTM به EXCEL در Java. XLTM ادغام.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge XLTM to EXCEL in Java., Free Online Java Merge XLTM to excel., Java Combine XLTM to EXCEL Online for Free., XLTM Merge]
+description: Aspose اکسل. Java Aspose.Cells. XLTM را با فرمت ذخیره EXCEL ادغام کنید. Java XLTM را با فرمت EXCEL ترکیب کنید. ادغام XLTM به EXCEL در Java. XLTM ادغام.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge XLTM to EXCEL in Java., Java Merge XLTM to excel., Java Combine XLTM to EXCEL., XLTM Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="XLTM را به EXCEL via Java ادغام کنید" h2="کتابخانه پرسرعت Java برای ادغام XLTM با EXCEL. از تبدیل اکسل ما API برای توسعه نرم افزار سطح بالا و مستقل از پلت فرم در Java استفاده کنید. این یک راه حل نرم افزاری حرفه ای برای وارد کردن و صادرات Excel, CSV, OpenOffice, PDF, HTML, image و بسیاری از فرمت های اکسل دیگر است." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="XLTM" additionalConversionTag="EXCEL" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Merge XLTM to EXCEL in Java., Free
 
 {{% blocks/products/pf/agp/content h2="ادغام XLTM به EXCEL با استفاده از Java" %}}
 
- چگونه XLTM را با EXCEL ادغام کنم؟ با کتابخانه Aspose.Cells for Java، می توانید به راحتی با چند خط کد، XLTM را با برنامه نویسی EXCEL ادغام کنید.[Aspose.Cells for Java](https://products.aspose.com/cells/java) قادر به ساخت برنامه های چند پلتفرمی با قابلیت تولید، تغییر، تبدیل، رندر و چاپ تمام فایل های اکسل است. Java اکسل API نه تنها بین فرمت های صفحه گسترده تبدیل می کند، بلکه می تواند فایل های اکسل را به صورت تصویر رندر کند. انتخاب عالی برای تبادل اسناد در استانداردهای صنعتی فرمت ها آخرین نسخه آن را می توانید مستقیماً از اینجا دانلود کنید[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) و با افزودن تنظیمات زیر به pom.xml آن را در پروژه مبتنی بر Maven خود نصب کنید.
+ چگونه XLTM را با EXCEL ادغام کنم؟ با کتابخانه Aspose.Cells for Java، می توانید به راحتی با چند خط کد، XLTM را با برنامه نویسی EXCEL ادغام کنید.[Aspose.Cells for Java](https://products.aspose.com/cells/java)قادر به ساخت برنامه های چند پلتفرمی با قابلیت تولید، تغییر، تبدیل، رندر و چاپ تمام فایل های اکسل است. Java اکسل API نه تنها بین فرمت های صفحه گسترده تبدیل می شود، بلکه می تواند فایل های اکسل را به صورت تصویر، PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT و موارد دیگر ارائه دهد، بنابراین آن را به گزینه ای عالی برای تبادل اسناد در قالب های استاندارد صنعتی تبدیل می کند. آخرین نسخه آن را می توانید مستقیماً از اینجا دانلود کنید[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) و با افزودن تنظیمات زیر به pom.xml آن را در پروژه مبتنی بر Maven خود نصب کنید.
 
 {{% blocks/products/pf/agp/code-block title="مخزن" offSpacer="true" %}}
 
@@ -45,7 +45,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Merge XLTM to EXCEL in Java., Free
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="ادغام XLTM به EXCEL در Java آنلاین به صورت رایگان" %}}
+{{% blocks/products/pf/agp/content h2="XLTM را با EXCEL در Java ادغام کنید" %}}
 
 مثال زیر نحوه ادغام XLTM را با EXCEL در Aspose.Cells for Java نشان می دهد.
 {{% blocks/products/pf/agp/text %}}
@@ -56,7 +56,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Merge XLTM to EXCEL in Java., Free
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="آنلاین رایگان برای ادغام XLTM با EXCEL در Java" InputFormat="xltm" InputFormat2="xlsx" outformat="xlsx" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="java" %}}
+{{% cells-merger title="نمونه کد برای ادغام XLTM با EXCEL در Java" InputFormat="xltm" InputFormat2="xlsx" outformat="xlsx" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="نحوه ادغام XLTM با EXCEL via Java" %}}
 

@@ -2,6 +2,7 @@
 title: اندازه تصاویر/تصاویر را در اکسل با استفاده از Python via .Net دریافت کنید
 weight: 10
 description: اندازه تصاویر/تصاویر را در اکسل با استفاده از Aspose.Cells' Python via .Net API بدون هیچ نرم افزاری مانند Microsoft یا Open Office، Adobe PDF و غیره دریافت می کند.
+keywords: [Python via .NET Aspose.Cells., Python via .NET Get Images/Pictures Size In Excel., Python via .NET Obtain Images/Pictures Size In Excel., Python via .NET Access Images/Pictures Size In Excel]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="اندازه تصاویر/تصاویر را در اکسل با استفاده از Python via .Net دریافت کنید" h2="با استفاده از Aspose.Cells\' API برای کار با اشیاء مختلف بدون هیچ نرم افزاری مانند Microsoft یا Open Office، Adobe PDF و غیره." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="" pfName="Aspose.Cells" subTitlepfName="for Python via .NET" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="XLSX" >}}
@@ -13,7 +14,7 @@ description: اندازه تصاویر/تصاویر را در اکسل با اس
 
  برای بدست آوردن اندازه تصاویر/تصاویر در فایل اکسل، از آن استفاده خواهیم کرد
  [Aspose.Cells for Python از طریق دات نت](https://pypi.org/project/aspose-cells-python/) 
-API که یک دستکاری سند غنی، قدرتمند و آسان برای استفاده است API for Python از طریق پلتفرم Net. API ایجاد، دستکاری، تبدیل و رندر فایل اکسل را فراهم می کند. همه بدون اتکا به برنامه های Office یا Excel Microsoft. می توانید با استفاده از دستور زیر از کنسول نصب کنید.
+ API که یک دستکاری سند غنی، قدرتمند و آسان برای استفاده است API for Python از طریق پلتفرم Net. API ایجاد، دستکاری، تبدیل و رندر فایل اکسل را فراهم می کند. همه بدون اتکا به برنامه های Office یا Excel Microsoft. می توانید با استفاده از دستور زیر از کنسول نصب کنید.
 
 {{% blocks/products/pf/agp/code-block title="فرمان" offSpacer="true" %}}
 
@@ -44,7 +45,7 @@ API که یک دستکاری سند غنی، قدرتمند و آسان برای
     + [عرض](https://reference.aspose.com/cells/python-net/aspose.cells.drawing/picture/width/) عرض شکل را بر حسب واحد پیکسل نشان می دهد.
     + [ارتفاع](https://reference.aspose.com/cells/python-net/aspose.cells.drawing/picture/height/) ارتفاع شکل را بر حسب واحد پیکسل نشان می دهد.
     + [عرض اصلی](https://reference.aspose.com/cells/python-net/aspose.cells.drawing/picture/original_width/) عرض اصلی تصویر را بر حسب واحد پیکسل دریافت می کند.
-    + [ارتفاع اصلی](https://reference.aspose.com/cells/python-net/aspose.cells.drawing/picture/original_height/) ارتفاع اصلی تصویر را بر حسب واحد پیکسل دریافت می کند.
+    + [ارتفاع اصلی](https://reference.aspose.com/cells/python-net/aspose.cells.drawing/picture/original_height/)ارتفاع اصلی تصویر را بر حسب واحد پیکسل دریافت می کند.
     
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
@@ -94,7 +95,7 @@ Aspose.Cells API قادر به ساخت برنامه های چند پلتفرم�
 
 <!-- aboutfile Ends -->
 <!--
-{{< blocks/products/pf/agp/other-supported-section title="Other Supported Splitting Formats" subTitle="Using C#, One can also split large file into chunks of many other file formats including." >}}
+{{< blocks/products/pf/agp/other-supported-section title="Other Supported Splitting Formats" subTitle="Using Python via .NET, One can also split large file into chunks of many other file formats including." >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/splitter/ods/" name="ODS" description="OpenDocument Spreadsheet File" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/splitter/xls/" name="XLS" description="Excel Binary Format" >}}

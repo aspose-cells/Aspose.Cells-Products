@@ -2,6 +2,7 @@
 title:  قفل XLSB سند via .NET را باز کنید
 weight: 6410
 description: کد منبع C# برای باز کردن قفل فایل XLSB محافظت شده با رمز عبور در .NET Framework، .NET Core، Mono یا Xamarin Platforms.
+keywords: [C# Aspose.Cells., c# unlock XLSB files., c# how to unlock XLSB document., c# unprotect XLSB files., remove protection from XLSB files., decrypt XLSB Files using C#]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="باز کردن قفل صفحه گسترده XLSB از طریق C#" h2="با استفاده از کتابخانه .NET حفاظت را از XLSB حذف کنید." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSB" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSB" >}}

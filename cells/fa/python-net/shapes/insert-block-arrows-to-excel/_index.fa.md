@@ -2,6 +2,7 @@
 title: فلش های بلوکی را با استفاده از Python via .Net در اکسل قرار دهید
 weight: 338
 description: Python via کد منبع خالص برای درج فلش های بلوک در اکسل.
+keywords: [C# Aspose.Cells., c# add block arrows., c# insert block arrows., c# create block arrows]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="فلش های بلوکی را با استفاده از Python via .Net در اکسل قرار دهید" h2="فلش های بلوکی را با استفاده از Aspose.Cells\' API بدون هیچ نرم افزاری مانند Microsoft یا Open Office، Adobe PDF و غیره وارد کنید." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="" pfName="Aspose.Cells" subTitlepfName="for Python via .NET" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="XLSX" >}}
@@ -11,9 +12,9 @@ description: Python via کد منبع خالص برای درج فلش های ب�
 
 {{% blocks/products/pf/agp/content h2="نحوه درج فلش های بلوکی در فایل اکسل با استفاده از Python via .Net" %}}
 
-به منظور درج فلش های بلوکی در فایل اکسل، از آن استفاده می کنیم
+ به منظور درج فلش های بلوکی در فایل اکسل، از آن استفاده می کنیم
  [Aspose.Cells for Python از طریق دات نت](https://pypi.org/project/aspose-cells-python/) 
-API که یک دستکاری سند غنی، قدرتمند و آسان برای استفاده است API for Python از طریق پلتفرم Net. API ایجاد، دستکاری، تبدیل و رندر فایل اکسل را فراهم می کند. همه بدون اتکا به برنامه های Office یا Excel Microsoft. می توانید با استفاده از دستور زیر از کنسول نصب کنید.
+ API که یک دستکاری سند غنی، قدرتمند و آسان برای استفاده است API for Python از طریق پلتفرم Net. API ایجاد، دستکاری، تبدیل و رندر فایل اکسل را فراهم می کند. همه بدون اتکا به برنامه های Office یا Excel Microsoft. می توانید با استفاده از دستور زیر از کنسول نصب کنید.
 
 {{% blocks/products/pf/agp/code-block title="فرمان" offSpacer="true" %}}
 
@@ -37,7 +38,7 @@ API که یک دستکاری سند غنی، قدرتمند و آسان برای
 
 {{% /blocks/products/pf/agp/text %}}
 
-نمونه سازی یک شی Workbook. (یا -> فایل XLSX را با مسیر کامل بارگیری کنید.)
++ نمونه سازی یک شی Workbook. (یا -> فایل XLSX را با مسیر کامل بارگیری کنید.)
 + کاربرگ را از طریق فهرست آن انتخاب کنید.
  + از افزودن shapecollection استفاده کنید[روش](https://reference.aspose.com/cells/python-net/aspose.cells.drawing/shapecollection/add_auto_shape/#AutoShapeType-int-int-int-int-int-int) برای درج فلش های بلوکی در کاربرگ انتخاب شده.
 + کتاب کار را با فرمت XLSX ذخیره کنید.
@@ -132,7 +133,7 @@ API که یک دستکاری سند غنی، قدرتمند و آسان برای
    <div class="col-lg-4">
     <img src="/cells/net/shapes/insert-block-arrows-to-excel/arrow_uturn.png" align="left" width="28" height="28">
     <p class="col-lg-10" style="font-size:0.8rem !important;">
- AutoShapeType.U_TURN_ARROW
+AutoShapeType.U_TURN_ARROW
     </p>
    </div>
    <div class="col-lg-4">
@@ -198,7 +199,7 @@ API که یک دستکاری سند غنی، قدرتمند و آسان برای
    <div class="col-lg-4">
     <img src="/cells/net/shapes/insert-block-arrows-to-excel/arrow_right_callout.png" align="left" width="28" height="28">
     <p class="col-lg-10" style="font-size:0.8rem !important;">
-AutoShapeType.RIGHT_ARROW_CALLOUT
+ AutoShapeType.RIGHT_ARROW_CALLOUT
     </p>
    </div>
    <div class="col-lg-4">
@@ -250,7 +251,7 @@ AutoShapeType.RIGHT_ARROW_CALLOUT
 
 {{% blocks/products/pf/agp/content h2="درباره Aspose.Cells for Python via .NET API" %}}
 
- Aspose.Cells API می تواند برای ایجاد، ویرایش، تبدیل و رندر فرمت های اکسل Microsoft به فرمت های مختلف استفاده شود. علاوه بر این، می توان از آن برای نمودارهای جامع، گزارش مقیاس پذیر و محاسبات قابل اعتماد در برنامه های نرم افزاری استفاده کرد. Aspose.Cells یک API مستقل است و به هیچ نرم افزاری مانند Microsoft یا OpenOffice نیاز ندارد.
+Aspose.Cells API می تواند برای ایجاد، ویرایش، تبدیل و رندر فرمت های اکسل Microsoft به فرمت های مختلف استفاده شود. علاوه بر این، می توان از آن برای نمودارهای جامع، گزارش مقیاس پذیر و محاسبات قابل اعتماد در برنامه های نرم افزاری استفاده کرد. Aspose.Cells یک API مستقل است و به هیچ نرم افزاری مانند Microsoft یا OpenOffice نیاز ندارد.
 
 {{% /blocks/products/pf/agp/content %}}
 

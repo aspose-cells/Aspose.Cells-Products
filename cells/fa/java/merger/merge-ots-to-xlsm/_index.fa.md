@@ -1,8 +1,8 @@
 ---
 title: OTS را به XLSM ادغام کنید - OTS را با XLSM در Java ترکیب کنید
 url: /fa/java/merger/merge-ots-to-xlsm/ 
-description: Aspose اکسل. Java Aspose.Cells. ادغام آنلاین رایگان OTS به XLSM Saveformat. Java OTS را با فرمت XLSM ترکیب کنید. OTS را به XLSM در Java ادغام کنید. OTS Merge.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge OTS to XLSM in Java., Free Online Java Merge OTS to xlsm., Java Combine OTS to XLSM Online for Free., OTS Merge]
+description: Aspose اکسل. Java Aspose.Cells. OTS را با فرمت ذخیره XLSM ادغام کنید. Java OTS را با فرمت XLSM ترکیب کنید. OTS را به XLSM در Java ادغام کنید. OTS Merge.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge OTS to XLSM in Java., Java Merge OTS to xlsm., Java Combine OTS to XLSM., OTS Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="OTS را به XLSM via Java ادغام کنید" h2="کتابخانه پرسرعت Java برای ادغام OTS به XLSM. از تبدیل اکسل ما API برای توسعه نرم افزار سطح بالا و مستقل از پلت فرم در Java استفاده کنید. این یک راه حل نرم افزار حرفه ای برای وارد کردن و صادرات Excel, CSV, OpenOffice, PDF, HTML, image و بسیاری از فرمت های excel دیگر است." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="OTS" additionalConversionTag="XLSM" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Merge OTS to XLSM in Java., Free O
 
 {{% blocks/products/pf/agp/content h2="OTS را با استفاده از Java به XLSM ادغام کنید" %}}
 
- چگونه OTS را با XLSM ادغام کنم؟ با کتابخانه Aspose.Cells for Java، می توانید به راحتی OTS را با چند خط کد به صورت برنامه ریزی شده با XLSM ادغام کنید.[Aspose.Cells for Java](https://products.aspose.com/cells/java) قادر به ساخت برنامه های چند پلتفرمی با قابلیت تولید، تغییر، تبدیل، رندر و چاپ تمام فایل های اکسل است. Java اکسل API نه تنها بین فرمت های صفحه گسترده تبدیل می کند، بلکه می تواند فایل های اکسل را به صورت تصویر رندر کند. انتخاب عالی برای تبادل اسناد در استانداردهای صنعتی فرمت ها آخرین نسخه آن را می توانید مستقیماً از اینجا دانلود کنید[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) و با افزودن تنظیمات زیر به pom.xml آن را در پروژه مبتنی بر Maven خود نصب کنید.
+ چگونه OTS را با XLSM ادغام کنم؟ با کتابخانه Aspose.Cells for Java، می توانید به راحتی OTS را با چند خط کد به صورت برنامه ریزی شده با XLSM ادغام کنید.[Aspose.Cells for Java](https://products.aspose.com/cells/java)قادر به ساخت برنامه های چند پلتفرمی با قابلیت تولید، تغییر، تبدیل، رندر و چاپ تمام فایل های اکسل است. Java اکسل API نه تنها بین فرمت های صفحه گسترده تبدیل می شود، بلکه می تواند فایل های اکسل را به صورت تصویر، PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT و موارد دیگر ارائه دهد، بنابراین آن را به گزینه ای عالی برای تبادل اسناد در قالب های استاندارد صنعتی تبدیل می کند. آخرین نسخه آن را می توانید مستقیماً از اینجا دانلود کنید[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) و با افزودن تنظیمات زیر به pom.xml آن را در پروژه مبتنی بر Maven خود نصب کنید.
 
 {{% blocks/products/pf/agp/code-block title="مخزن" offSpacer="true" %}}
 
@@ -45,7 +45,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Merge OTS to XLSM in Java., Free O
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="OTS را به XLSM در Java به صورت آنلاین ادغام کنید" %}}
+{{% blocks/products/pf/agp/content h2="OTS را به XLSM در Java ادغام کنید" %}}
 
 مثال زیر نحوه ادغام OTS را با XLSM در Aspose.Cells for Java نشان می دهد.
 {{% blocks/products/pf/agp/text %}}
@@ -56,13 +56,13 @@ keywords: [Aspose Excel., Java Aspose.Cells., Merge OTS to XLSM in Java., Free O
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="آنلاین رایگان برای ادغام OTS به XLSM در Java" InputFormat="ots" InputFormat2="xlsm" outformat="xlsm" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="java" %}}
+{{% cells-merger title="نمونه کد برای ادغام OTS به XLSM در Java" InputFormat="ots" InputFormat2="xlsm" outformat="xlsm" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="نحوه ادغام OTS به XLSM via Java" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
-آیا نیاز به ادغام OTS با XLSM از طریق برنامه دارید؟ یک سند اساسی ادغام و الحاق با[Aspose.Cells for Java](https://products.aspose.com/cells/java) API ها را می توان تنها با چند خط کد انجام داد.
+ آیا نیاز به ادغام OTS با XLSM از طریق برنامه دارید؟ یک سند اساسی ادغام و الحاق با[Aspose.Cells for Java](https://products.aspose.com/cells/java) API ها را می توان تنها با چند خط کد انجام داد.
 
 {{% /blocks/products/pf/agp/text %}}
 

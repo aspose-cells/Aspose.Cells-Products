@@ -2,6 +2,7 @@
 title:  ایجاد گزارش در XLSM فایل via Java
 weight: 270
 description: Java کد نمونه برای ایجاد گزارشات با فرمت XLSM در Java Runtime Environment برای برنامه های کاربردی JSP/JSF و برنامه های دسکتاپ.
+keywords: [Java Aspose.Cells., Java Create XLSM Reports Based on Predesigned Excel Template., Java Generate XLSM Reports Based on Predesigned Excel Template., Java Create XLSM Reports Based on Excel Template., Java Generate XLSM Reports Based on Excel Template., Java Create XLSM files Based on Excel Template., Java Generate XLSM files Based on Excel Template]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="تولید گزارش انبوه در قالب XLSM via Java" h2="با استفاده از منبع داده و یک الگو، گزارش‌هایی در قالب XLSM ایجاد کنید." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSM" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSM" >}}
@@ -75,9 +76,9 @@ description: Java کد نمونه برای ایجاد گزارشات با فرم
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="ایجاد گزارشات اکسل با فرمت XLSM - C#" offSpacer="" %}}
+{{% blocks/products/pf/agp/code-block title="ایجاد گزارشات اکسل با فرمت XLSM - Java" offSpacer="" %}}
 
-```cs
+```java
 //Create a workbook designer
 WorkbookDesigner designer = new WorkbookDesigner(workbook);
 

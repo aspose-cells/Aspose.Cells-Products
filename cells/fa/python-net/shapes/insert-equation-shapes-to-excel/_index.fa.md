@@ -2,6 +2,7 @@
 title: اشکال معادله را با استفاده از Python via .Net در اکسل قرار دهید
 weight: 360
 description: Python via کد منبع خالص برای درج اشکال معادله در اکسل.
+keywords: [Python Aspose.Cells., Python add equation shapes., Python insert equation shapes., Python create equation shapes]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="اشکال معادله را با استفاده از Python via .Net در اکسل قرار دهید" h2="اشکال معادله را با استفاده از Aspose.Cells\' API بدون هیچ نرم افزاری مانند Microsoft یا Open Office، Adobe PDF و غیره درج کنید." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="" pfName="Aspose.Cells" subTitlepfName="for Python via .NET" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="XLSX" >}}
@@ -13,7 +14,7 @@ description: Python via کد منبع خالص برای درج اشکال معا
 
  برای درج Equation Shapes در فایل اکسل، از آن استفاده می کنیم
  [Aspose.Cells for Python از طریق دات نت](https://pypi.org/project/aspose-cells-python/) 
-API که یک دستکاری سند غنی، قدرتمند و آسان برای استفاده است API for Python از طریق پلتفرم Net. API ایجاد، دستکاری، تبدیل و رندر فایل اکسل را فراهم می کند. همه بدون اتکا به برنامه های Office یا Excel Microsoft. می توانید با استفاده از دستور زیر از کنسول نصب کنید.
+ API که یک دستکاری سند غنی، قدرتمند و آسان برای استفاده است API for Python از طریق پلتفرم Net. API ایجاد، دستکاری، تبدیل و رندر فایل اکسل را فراهم می کند. همه بدون اتکا به برنامه های Office یا Excel Microsoft. می توانید با استفاده از دستور زیر از کنسول نصب کنید.
 
 {{% blocks/products/pf/agp/code-block title="فرمان" offSpacer="true" %}}
 
@@ -37,7 +38,7 @@ API که یک دستکاری سند غنی، قدرتمند و آسان برای
 
 {{% /blocks/products/pf/agp/text %}}
 
-نمونه سازی یک شی Workbook. (یا -> فایل XLSX را با مسیر کامل بارگیری کنید.)
++ نمونه سازی یک شی Workbook. (یا -> فایل XLSX را با مسیر کامل بارگیری کنید.)
 + کاربرگ را از طریق فهرست آن انتخاب کنید.
  + از افزودن shapecollection استفاده کنید[روش](https://reference.aspose.com/cells/python-net/aspose.cells.drawing/shapecollection/add_auto_shape/#AutoShapeType-int-int-int-int-int-int) برای درج اشکال معادله در کاربرگ انتخاب شده.
 + کتاب کار را با فرمت XLSX ذخیره کنید.
@@ -84,7 +85,7 @@ API که یک دستکاری سند غنی، قدرتمند و آسان برای
    <div class="col-lg-4">
     <img src="/cells/net/shapes/insert-equation-shapes-to-excel/minus.png" align="left" width="28" height="28">
     <p class="col-lg-10">
- AutoShapeType.MATH_MINUS
+AutoShapeType.MATH_MINUS
     </p>
    </div>
    <div class="col-lg-4">
@@ -124,7 +125,7 @@ API که یک دستکاری سند غنی، قدرتمند و آسان برای
 
 {{% blocks/products/pf/agp/content h2="درباره Aspose.Cells for Python via .NET API" %}}
 
- Aspose.Cells API می تواند برای ایجاد، ویرایش، تبدیل و رندر فرمت های اکسل Microsoft به فرمت های مختلف استفاده شود. علاوه بر این، می توان از آن برای نمودارهای جامع، گزارش مقیاس پذیر و محاسبات قابل اعتماد در برنامه های نرم افزاری استفاده کرد. Aspose.Cells یک API مستقل است و به هیچ نرم افزاری مانند Microsoft یا OpenOffice نیاز ندارد.
+Aspose.Cells API می تواند برای ایجاد، ویرایش، تبدیل و رندر فرمت های اکسل Microsoft به فرمت های مختلف استفاده شود. علاوه بر این، می توان از آن برای نمودارهای جامع، گزارش مقیاس پذیر و محاسبات قابل اعتماد در برنامه های نرم افزاری استفاده کرد. Aspose.Cells یک API مستقل است و به هیچ نرم افزاری مانند Microsoft یا OpenOffice نیاز ندارد.
 
 {{% /blocks/products/pf/agp/content %}}
 

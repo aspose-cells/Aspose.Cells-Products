@@ -1,7 +1,7 @@
 ---
 title: ایجاد JPG - فایل JPG را در Python ایجاد کنید
-description: Aspose اکسل. Python فایل JPG ایجاد کنید. ایجاد JPG Python. Python JPG Creater. ایجاد JPG در Python. با استفاده از Python فایل JPG ایجاد کنید.
-keywords: [Aspose Excel., Python Aspose.Cells., Create JPG Python., Python JPG Creater., Create JPG file in Python., Generate JPG file in Python]
+description: Aspose اکسل. Python فایل JPG را به سرعت و به راحتی با Aspose.Cells ایجاد کنید. با استفاده از Python فایل JPG ایجاد کنید. در Python JPG ایجاد کنید. Python JPG Creater.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Create JPG file., Generate JPG file in Python., Create JPG file using Python., Write data to JPG file via Python., Create a JPG file in Python., Python Generate a JPG file., Python JPG Creater]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="فایل JPG را در Python ایجاد کنید" h2="کتابخانه پرسرعت Python برای ایجاد فایل JPG. از تبدیل اکسل API ما برای توسعه نرم افزار سطح بالا و مستقل از پلت فرم در Python استفاده کنید." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="JPG" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -11,7 +11,7 @@ keywords: [Aspose Excel., Python Aspose.Cells., Create JPG Python., Python JPG C
 
 {{% blocks/products/pf/agp/content h2="با استفاده از Python فایل JPG ایجاد کنید" %}}
 
- چگونه فایل JPG ایجاد کنیم؟ با Aspose.Cells for Python از طریق کتابخانه NET، به راحتی می توانید فایل JPG را به صورت برنامه نویسی با چند خط کد ایجاد کنید.[Aspose.Cells for Python](https://pypi.org/project/aspose-cells-python/)قادر به ساخت برنامه های چند پلتفرمی با قابلیت تولید، تغییر، تبدیل، رندر و چاپ تمام فایل های اکسل است. Python اکسل API نه تنها بین فرمت های صفحه گسترده تبدیل می کند، بلکه می تواند فایل های اکسل را به صورت تصویر رندر کند. انتخاب عالی برای تبادل اسناد در استانداردهای صنعتی فرمت ها
+ چگونه فایل JPG ایجاد کنیم؟ با Aspose.Cells for Python از طریق کتابخانه NET، به راحتی می توانید فایل JPG را به صورت برنامه نویسی با چند خط کد ایجاد کنید.[Aspose.Cells for Python](https://pypi.org/project/aspose-cells-python/)قادر به ساخت برنامه های چند پلتفرمی با قابلیت تولید، تغییر، تبدیل، رندر و چاپ تمام فایل های اکسل است. Python اکسل API نه تنها بین فرمت های صفحه گسترده تبدیل می شود، بلکه می تواند فایل های اکسل را به صورت تصویر، PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT و موارد دیگر ارائه دهد، بنابراین آن را به گزینه ای عالی برای تبادل اسناد در قالب های استاندارد صنعتی تبدیل می کند.
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -62,7 +62,7 @@ workbook.save("output.jpg")
 ما بسته های Python خود را در مخازن PyPi میزبانی می کنیم.
 
 {{% blocks/products/pf/agp/text %}}
-Aspose.Cells for Python را نصب کنید<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> ، از دستور به صورت زیر استفاده کنید:<code>$ pip install aspose-cells-python</code>.
+ Aspose.Cells for Python را نصب کنید<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> ، از دستور به صورت زیر استفاده کنید:<code>$ pip install aspose-cells-python</code>.
 {{% /blocks/products/pf/agp/text %}}
 
 {{% blocks/products/pf/agp/text %}}

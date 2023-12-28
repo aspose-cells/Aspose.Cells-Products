@@ -1,7 +1,7 @@
 ---
-title: Java PRN به POWERPOINT - تبدیل آنلاین PRN به POWERPOINT
-description: Aspose اکسل. Java Aspose.Cells. Java Aspose Cells. رایگان آنلاین Java تبدیل PRN به فرمت ذخیره سازی POWERPOINT. Java PRN به فرمت POWERPOINT. PRN را در POWERPOINT Java ذخیره کنید.
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java PRN to POWERPOINT saveformat., Free Online PRN to POWERPOINT Java., Java Convert PRN to POWERPOINT]
+title: Java PRN به POWERPOINT - تبدیل PRN به POWERPOINT
+description: Aspose اکسل. تبدیل PRN به POWERPOINT سریع و آسان با Aspose.Cells. Java PRN به POWERPOINT. Java PRN را در POWERPOINT ذخیره کنید. PRN را به عنوان POWERPOINT با استفاده از Java ذخیره کنید.
+keywords: [Aspose Excel., Java Aspose.Cells., Convert PRN to POWERPOINT in Java., Save PRN to POWERPOINT using Java., Java PRN to POWERPOINT saveformat., PRN to POWERPOINT Converter., Java Save PRN as POWERPOINT]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="PRN را به POWERPOINT در Java تبدیل کنید" h2="کتابخانه پرسرعت Java برای تبدیل PRN به POWERPOINT. این یک راه حل نرم افزاری حرفه ای برای وارد کردن و صادرات PRN، POWERPOINT و بسیاری از فرمت های دیگر با استفاده از Java است." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="POWERPOINT" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java PRN to PO
 
 {{% blocks/products/pf/agp/content h2="با استفاده از Java PRN را به POWERPOINT تبدیل کنید" %}}
 
- چگونه PRN را به POWERPOINT تبدیل کنم؟ با کتابخانه Aspose.Cells for Java به راحتی می توانید PRN را به صورت برنامه ریزی شده با چند خط کد به POWERPOINT تبدیل کنید.[Aspose.Cells for Java](https://products.aspose.com/cells/java) قادر به ساخت برنامه های چند پلتفرمی با قابلیت تولید، تغییر، تبدیل، رندر و چاپ تمام فایل های اکسل است. Java اکسل API نه تنها بین فرمت های صفحه گسترده تبدیل می کند، بلکه می تواند فایل های اکسل را به صورت تصویر رندر کند. انتخاب عالی برای تبادل اسناد در استانداردهای صنعتی فرمت ها آخرین نسخه آن را می توانید مستقیماً از اینجا دانلود کنید[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) و با افزودن تنظیمات زیر به pom.xml آن را در پروژه مبتنی بر Maven خود نصب کنید.
+ چگونه PRN را به POWERPOINT تبدیل کنم؟ با کتابخانه Aspose.Cells for Java به راحتی می توانید PRN را به صورت برنامه ریزی شده با چند خط کد به POWERPOINT تبدیل کنید.[Aspose.Cells for Java](https://products.aspose.com/cells/java)قادر به ساخت برنامه های چند پلتفرمی با قابلیت تولید، تغییر، تبدیل، رندر و چاپ تمام فایل های اکسل است. Java اکسل API نه تنها بین فرمت های صفحه گسترده تبدیل می شود، بلکه می تواند فایل های اکسل را به صورت تصویر، PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT و موارد دیگر ارائه دهد، بنابراین آن را به گزینه ای عالی برای تبادل اسناد در قالب های استاندارد صنعتی تبدیل می کند. آخرین نسخه آن را می توانید مستقیماً از اینجا دانلود کنید[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) و با افزودن تنظیمات زیر به pom.xml آن را در پروژه مبتنی بر Maven خود نصب کنید.
 
 {{% blocks/products/pf/agp/code-block title="مخزن" offSpacer="true" %}}
 
@@ -45,7 +45,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java PRN to PO
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="PRN را در POWERPOINT در Java آنلاین به صورت رایگان ذخیره کنید" %}}
+{{% blocks/products/pf/agp/content h2="PRN را در POWERPOINT در Java ذخیره کنید" %}}
 
 مثال زیر نحوه تبدیل PRN به POWERPOINT را در Java نشان می دهد.
 {{% blocks/products/pf/agp/text %}}
@@ -56,7 +56,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java PRN to PO
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="برنامه رایگان و کد نمونه برای تبدیل PRN به POWERPOINT آنلاین" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="prn" outformat="pptx" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="نمونه کد برای تبدیل PRN به POWERPOINT" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="prn" outformat="pptx" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="نحوه تبدیل PRN به POWERPOINT via Java" %}}
 

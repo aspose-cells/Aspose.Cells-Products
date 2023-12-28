@@ -2,6 +2,7 @@
 title:  جستجو و جایگزینی متن در سند XLSB via Java
 weight: 4590
 description: Java نمونه کد برای ویرایش اطلاعات حساس در فایل XLSB در Java Runtime Environment for JSP/JSF Application and Desktop Applications.
+keywords: [Java Aspose.Cells., Java Search and replace text in XLSB file., Java redact XLSB file., Java edit XLSB file., Java XLSB file redaction., Java Search and replace string in XLSB file]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Redact XLSB فرمت ها در Java" h2="XLSB بومی و با کارایی بالا، اطلاعات ویرایش حساس را با استفاده از APIهای Aspose.Cells for Java سمت سرور، بدون استفاده از نرم‌افزاری مانند Microsoft یا Adobe PDF ثبت می‌کند." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="XLSB" >}}
@@ -13,7 +14,7 @@ description: Java نمونه کد برای ویرایش اطلاعات حساس 
 
  به منظور ویرایش فایل XLSB، ما از
  [Aspose.Cells for Java](https://products.aspose.com/cells/java) 
- API که یک پلتفرم ویرایش API for Java با ویژگی های غنی، قدرتمند و آسان برای استفاده است. آخرین نسخه آن را می توانید مستقیماً از اینجا دانلود کنید
+API که یک پلتفرم ویرایش API for Java با ویژگی های غنی، قدرتمند و آسان برای استفاده است. آخرین نسخه آن را می توانید مستقیماً از اینجا دانلود کنید
  [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) 
  و با افزودن تنظیمات زیر به pom.xml آن را در پروژه مبتنی بر Maven خود نصب کنید.
 
@@ -65,7 +66,7 @@ description: Java نمونه کد برای ویرایش اطلاعات حساس 
 + محدوده ای را که می خواهید جستجو کنید مشخص کنید
 + در هر سلول حلقه بزنید و از getCells().find(...) استفاده کنید.
 + مقدار را جایگزین کنید.
-کتاب کار را ذخیره کنید.
++ کتاب کار را ذخیره کنید.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -143,7 +144,7 @@ workbook.save(dataDir + "output.xlsb");
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" بدون نیاز به دانلود Aspose API." >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" نیازی به نوشتن هیچ کدی نیست." >}}
         {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" فقط فایل های XLSB خود را آپلود کنید." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-download" text=" فورا ویرایش خواهد شد." >}}
+        {{< blocks/products/pf/agp/democard icon="fa-download" text="فورا ویرایش خواهد شد." >}}
     {{< /blocks/products/pf/agp/demobox >}}
 
     {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLSB" readMoreLink="https://docs.fileformat.com/spreadsheet/xlsb/" >}}

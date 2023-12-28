@@ -1,8 +1,8 @@
 ---
 title: XLSX را به SPREADSHEETML ادغام کنید - XLSX را با SPREADSHEETML در C# ترکیب کنید
 url: /fa/net/merger/merge-xlsx-to-spreadsheetml/ 
-description: Aspose اکسل. C# Aspose.Cells. ادغام آنلاین رایگان XLSX به SPREADSHEETML ذخیره فرمت. C# XLSX را با فرمت SPREADSHEETML ترکیب کنید. ادغام XLSX به SPREADSHEETML در C#. XLSX ادغام.
-keywords: [Aspose Excel., C# Aspose.Cells., Merge XLSX to SPREADSHEETML in C#., Free Online C# Merge XLSX to spreadsheetml., C# Combine XLSX to SPREADSHEETML Online for Free., XLSX Merge]
+description: Aspose اکسل. C# Aspose.Cells. XLSX را با فرمت ذخیره SPREADSHEETML ادغام کنید. C# XLSX را با فرمت SPREADSHEETML ترکیب کنید. ادغام XLSX به SPREADSHEETML در C#. XLSX ادغام.
+keywords: [Aspose Excel., C# Aspose.Cells., Merge XLSX to SPREADSHEETML in C#., C# Merge XLSX to spreadsheetml., C# Combine XLSX to SPREADSHEETML., XLSX Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="ادغام XLSX به SPREADSHEETML از طریق C#" h2="کتابخانه پرسرعت C# برای ادغام XLSX به SPREADSHEETML. از تبدیل اکسل ما API برای توسعه نرم افزار سطح بالا و مستقل از پلت فرم در C# استفاده کنید. این یک راه حل نرم افزاری حرفه ای برای وارد کردن و صادرات Excel, CSV, OpenOffice, PDF, HTML, image و بسیاری از فرمت های اکسل دیگر است." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="XLSX" additionalConversionTag="SPREADSHEETML" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., C# Aspose.Cells., Merge XLSX to SPREADSHEETML in C#., 
 
 {{% blocks/products/pf/agp/content h2="ادغام XLSX به SPREADSHEETML با استفاده از C#" %}}
 
-چگونه XLSX را با SPREADSHEETML ادغام کنم؟ با کتابخانه Aspose.Cells for .NET، می توانید به راحتی با چند خط کد، XLSX را با برنامه SPREADSHEETML ادغام کنید.[Aspose.Cells for .NET](https://products.aspose.com/cells/net)قادر به ساخت برنامه های چند پلتفرمی با قابلیت تولید، تغییر، تبدیل، رندر و چاپ تمام فایل های اکسل است. .NET اکسل API نه تنها بین فرمت های صفحه گسترده تبدیل می کند، بلکه می تواند فایل های اکسل را به صورت تصویر رندر کند. انتخاب عالی برای تبادل اسناد در استانداردهای صنعتی فرمت ها باز کن[NuGet](https://www.nuget.org/packages/aspose.cells) Package Manager Aspose.Cells را جستجو و نصب کنید. همچنین می توانید از دستور زیر در کنسول Package Manager استفاده کنید.
+ چگونه XLSX را با SPREADSHEETML ادغام کنم؟ با کتابخانه Aspose.Cells for .NET، می توانید به راحتی با چند خط کد، XLSX را با برنامه SPREADSHEETML ادغام کنید.[Aspose.Cells for .NET](https://products.aspose.com/cells/net)قادر به ساخت برنامه های چند پلتفرمی با قابلیت تولید، تغییر، تبدیل، رندر و چاپ تمام فایل های اکسل است. .NET اکسل API نه تنها بین فرمت های صفحه گسترده تبدیل می شود، بلکه می تواند فایل های اکسل را به صورت تصویر، PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT و موارد دیگر ارائه دهد، بنابراین آن را به گزینه ای عالی برای تبادل اسناد در قالب های استاندارد صنعتی تبدیل می کند. باز کن[NuGet](https://www.nuget.org/packages/aspose.cells) Package Manager Aspose.Cells را جستجو و نصب کنید. همچنین می توانید از دستور زیر در کنسول Package Manager استفاده کنید.
 
 {{% blocks/products/pf/agp/code-block title="فرمان کنسول Package Manager" offSpacer="true" %}}
 
@@ -26,7 +26,7 @@ PM> Install-Package Aspose.Cells
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="ادغام XLSX به SPREADSHEETML در C# آنلاین به صورت رایگان" %}}
+{{% blocks/products/pf/agp/content h2="ادغام XLSX به SPREADSHEETML در C#" %}}
 
 مثال زیر نحوه ادغام XLSX را با SPREADSHEETML در Aspose.Cells for .NET نشان می دهد.
 {{% blocks/products/pf/agp/text %}}
@@ -37,7 +37,7 @@ PM> Install-Package Aspose.Cells
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="آنلاین رایگان برای ادغام XLSX به SPREADSHEETML در C#" InputFormat="xlsx" InputFormat2="xml" outformat="xml" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="net" %}}
+{{% cells-merger title="نمونه کد برای ادغام XLSX به SPREADSHEETML در C#" InputFormat="xlsx" InputFormat2="xml" outformat="xml" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="net" %}}
 
 {{% blocks/products/pf/agp/content h2="نحوه ادغام XLSX به SPREADSHEETML از طریق C#" %}}
 

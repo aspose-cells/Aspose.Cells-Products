@@ -1,7 +1,7 @@
 ---
 title: ایجاد SXC - ایجاد فایل SXC در Python
-description: Aspose اکسل. Python فایل SXC ایجاد کنید. Create SXC Python. Python SXC Creater. SXC را در Python ایجاد کنید. با استفاده از Python فایل SXC را ایجاد کنید.
-keywords: [Aspose Excel., Python Aspose.Cells., Create SXC Python., Python SXC Creater., Create SXC file in Python., Generate SXC file in Python]
+description: Aspose اکسل. Python ایجاد فایل SXC به سرعت و به راحتی با Aspose.Cells. ایجاد فایل SXC با استفاده از Python. ایجاد SXC در Python. 07134813
+keywords: [Aspose Excel., Python Aspose.Cells., Python Create SXC file., Generate SXC file in Python., Create SXC file using Python., Write data to SXC file via Python., Create a SXC file in Python., Python Generate a SXC file., Python SXC Creater]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="فایل SXC را در Python ایجاد کنید" h2="کتابخانه پرسرعت Python برای ایجاد فایل SXC. از تبدیل اکسل API ما برای توسعه نرم افزار سطح بالا و مستقل از پلت فرم در Python استفاده کنید." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="SXC" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -11,7 +11,7 @@ keywords: [Aspose Excel., Python Aspose.Cells., Create SXC Python., Python SXC C
 
 {{% blocks/products/pf/agp/content h2="با استفاده از Python فایل SXC ایجاد کنید" %}}
 
- چگونه فایل SXC ایجاد کنیم؟ با Aspose.Cells for Python از طریق کتابخانه NET به راحتی می توانید فایل SXC را به صورت برنامه نویسی با چند خط کد ایجاد کنید.[Aspose.Cells for Python](https://pypi.org/project/aspose-cells-python/)قادر به ساخت برنامه های چند پلتفرمی با قابلیت تولید، تغییر، تبدیل، رندر و چاپ تمام فایل های اکسل است. Python اکسل API نه تنها بین فرمت های صفحه گسترده تبدیل می کند، بلکه می تواند فایل های اکسل را به صورت تصویر رندر کند. انتخاب عالی برای تبادل اسناد در استانداردهای صنعتی فرمت ها
+ چگونه فایل SXC ایجاد کنیم؟ با Aspose.Cells for Python از طریق کتابخانه NET به راحتی می توانید فایل SXC را به صورت برنامه نویسی با چند خط کد ایجاد کنید.[Aspose.Cells for Python](https://pypi.org/project/aspose-cells-python/)قادر به ساخت برنامه های چند پلتفرمی با قابلیت تولید، تغییر، تبدیل، رندر و چاپ تمام فایل های اکسل است. Python اکسل API نه تنها بین فرمت های صفحه گسترده تبدیل می شود، بلکه می تواند فایل های اکسل را به صورت تصویر، PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT و موارد دیگر ارائه دهد، بنابراین آن را به گزینه ای عالی برای تبادل اسناد در قالب های استاندارد صنعتی تبدیل می کند.
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -28,7 +28,7 @@ keywords: [Aspose Excel., Python Aspose.Cells., Create SXC Python., Python SXC C
 1.  نمونه کلاس Workbook را ایجاد کنید.
 1.  به اولین کاربرگ کتاب کار دسترسی پیدا کنید.
 1.  سلول(های) مورد نظر کاربرگ را دریافت کرده و مقدار را در سلول(ها) وارد کنید.
-1. از روش Save برای ذخیره کتاب کار به عنوان فایل SXC استفاده کنید.
+1.  از روش Save برای ذخیره کتاب کار به عنوان فایل SXC استفاده کنید.
 
 {{% blocks/products/pf/agp/code-block title="کد نمونه نحوه ایجاد فایل SXC را در Python نشان می دهد." offSpacer="" %}}
 
@@ -62,7 +62,7 @@ workbook.save("output.sxc")
 ما بسته های Python خود را در مخازن PyPi میزبانی می کنیم.
 
 {{% blocks/products/pf/agp/text %}}
-Aspose.Cells for Python را نصب کنید<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> ، از دستور به صورت زیر استفاده کنید:<code>$ pip install aspose-cells-python</code>.
+ Aspose.Cells for Python را نصب کنید<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> ، از دستور به صورت زیر استفاده کنید:<code>$ pip install aspose-cells-python</code>.
 {{% /blocks/products/pf/agp/text %}}
 
 {{% blocks/products/pf/agp/text %}}
@@ -82,7 +82,7 @@ Aspose.Cells for Python را نصب کنید<a href="https://pypi.org/project/as
 
 <!-- aboutfile Starts -->
     {{< blocks/products/pf/agp/about-file-section >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="SXC" readMoreLink="https://docs.fileformat.com/spreadsheet/sxc/" >}}فرمت فایل SXC (Sun XML Calc) متعلق به یک مجموعه اداری به نام OpenOffice.org است. این قالب به طور کلی با نیازهای صفحه گسترده کاربران سروکار دارد زیرا یک فرمت فایل صفحه گسترده مبتنی بر XML است. فرمت SXC از فرمول‌ها، توابع، ماکروها و نمودارها همراه با DataPilot پشتیبانی می‌کند، که یک ویژگی باورنکردنی است زیرا به‌طور خودکار شخصی‌سازی می‌شود و خلاصه‌ای از داده‌های وارداتی خام را ارائه می‌دهد. فایل های ایجاد شده با این نرم افزار با پسوند .sxc ذخیره می شوند.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="SXC" readMoreLink="https://docs.fileformat.com/spreadsheet/sxc/" >}}فرمت فایل SXC (Sun XML Calc) متعلق به یک مجموعه اداری به نام OpenOffice.org است. این قالب به طور کلی با نیازهای صفحه گسترده کاربران سروکار دارد زیرا یک فرمت فایل صفحه گسترده مبتنی بر XML است. فرمت SXC از فرمول‌ها، توابع، ماکروها و نمودارها همراه با DataPilot پشتیبانی می‌کند، که یک ویژگی باورنکردنی است زیرا به طور خودکار شخصی‌سازی می‌شود و خلاصه‌ای از داده‌های وارداتی خام را ارائه می‌دهد. فایل های ایجاد شده با این نرم افزار با پسوند .sxc ذخیره می شوند.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
     {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->
 

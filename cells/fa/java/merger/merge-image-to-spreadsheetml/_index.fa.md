@@ -1,8 +1,8 @@
 ---
 title: IMAGE را با SPREADSHEETML ادغام کنید - IMAGE را با SPREADSHEETML در Java ترکیب کنید
 url: /fa/java/merger/merge-image-to-spreadsheetml/ 
-description: Aspose اکسل. Java Aspose.Cells. ادغام آنلاین رایگان IMAGE در SPREADSHEETML ذخیره فرمت. Java IMAGE را با فرمت SPREADSHEETML ترکیب کنید. IMAGE را با SPREADSHEETML در Java ادغام کنید. IMAGE ادغام.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge IMAGE to SPREADSHEETML in Java., Free Online Java Merge IMAGE to spreadsheetml., Java Combine IMAGE to SPREADSHEETML Online for Free., IMAGE Merge]
+description: Aspose اکسل. Java Aspose.Cells. IMAGE را با فرمت ذخیره SPREADSHEETML ادغام کنید. Java IMAGE را با فرمت SPREADSHEETML ترکیب کنید. IMAGE را با SPREADSHEETML در Java ادغام کنید. IMAGE ادغام.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge IMAGE to SPREADSHEETML in Java., Java Merge IMAGE to spreadsheetml., Java Combine IMAGE to SPREADSHEETML., IMAGE Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="IMAGE را با SPREADSHEETML via Java ادغام کنید" h2="کتابخانه پرسرعت Java برای ادغام IMAGE به SPREADSHEETML. از تبدیل اکسل ما API برای توسعه نرم افزار سطح بالا و مستقل از پلت فرم در Java استفاده کنید. این یک راه حل نرم افزاری حرفه ای برای وارد کردن و صادرات Excel, CSV, OpenOffice, PDF, HTML, image و بسیاری از فرمت های اکسل دیگر است." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="IMAGE" additionalConversionTag="SPREADSHEETML" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Merge IMAGE to SPREADSHEETML in Ja
 
 {{% blocks/products/pf/agp/content h2="IMAGE را با SPREADSHEETML با استفاده از Java ادغام کنید" %}}
 
- چگونه IMAGE را با SPREADSHEETML ادغام کنم؟ با کتابخانه Aspose.Cells for Java، می توانید به راحتی IMAGE را با چند خط کد به صورت برنامه ریزی شده در SPREADSHEETML ادغام کنید.[Aspose.Cells for Java](https://products.aspose.com/cells/java) قادر به ساخت برنامه های چند پلتفرمی با قابلیت تولید، تغییر، تبدیل، رندر و چاپ تمام فایل های اکسل است. Java اکسل API نه تنها بین فرمت های صفحه گسترده تبدیل می کند، بلکه می تواند فایل های اکسل را به صورت تصویر رندر کند. انتخاب عالی برای تبادل اسناد در استانداردهای صنعتی فرمت ها آخرین نسخه آن را می توانید مستقیماً از اینجا دانلود کنید[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) و با افزودن تنظیمات زیر به pom.xml آن را در پروژه مبتنی بر Maven خود نصب کنید.
+ چگونه IMAGE را با SPREADSHEETML ادغام کنم؟ با کتابخانه Aspose.Cells for Java، می توانید به راحتی IMAGE را با چند خط کد به صورت برنامه ریزی شده در SPREADSHEETML ادغام کنید.[Aspose.Cells for Java](https://products.aspose.com/cells/java)قادر به ساخت برنامه های چند پلتفرمی با قابلیت تولید، تغییر، تبدیل، رندر و چاپ تمام فایل های اکسل است. Java اکسل API نه تنها بین فرمت های صفحه گسترده تبدیل می شود، بلکه می تواند فایل های اکسل را به صورت تصویر، PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT و موارد دیگر ارائه دهد، بنابراین آن را به گزینه ای عالی برای تبادل اسناد در قالب های استاندارد صنعتی تبدیل می کند. آخرین نسخه آن را می توانید مستقیماً از اینجا دانلود کنید[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) و با افزودن تنظیمات زیر به pom.xml آن را در پروژه مبتنی بر Maven خود نصب کنید.
 
 {{% blocks/products/pf/agp/code-block title="مخزن" offSpacer="true" %}}
 
@@ -45,7 +45,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Merge IMAGE to SPREADSHEETML in Ja
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="IMAGE را به SPREADSHEETML در Java آنلاین به صورت رایگان ادغام کنید" %}}
+{{% blocks/products/pf/agp/content h2="IMAGE را با SPREADSHEETML در Java ادغام کنید" %}}
 
 مثال زیر نحوه ادغام IMAGE را با SPREADSHEETML در Aspose.Cells for Java نشان می دهد.
 {{% blocks/products/pf/agp/text %}}
@@ -56,7 +56,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Merge IMAGE to SPREADSHEETML in Ja
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="آنلاین رایگان برای ادغام IMAGE به SPREADSHEETML در Java" InputFormat="png" InputFormat2="xml" outformat="xml" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="java" %}}
+{{% cells-merger title="نمونه کد برای ادغام IMAGE به SPREADSHEETML در Java" InputFormat="png" InputFormat2="xml" outformat="xml" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="نحوه ادغام IMAGE به SPREADSHEETML via Java" %}}
 

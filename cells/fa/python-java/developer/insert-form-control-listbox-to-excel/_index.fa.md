@@ -1,7 +1,8 @@
 ---
-title:  ListBox (کنترل فرم) را با استفاده از Python via جاوا در اکسل قرار دهید
+title: ListBox (کنترل فرم) را با استفاده از Python via جاوا در اکسل قرار دهید
 weight: 50
 description: Python via کد منبع جاوا برای درج ListBox (کنترل فرم) در اکسل.
+keywords: [Python via Java Aspose.Cells., Python via Java add ListBox into Excel., Python via Java insert ListBox into Excel., Python via Java create ListBox in Excel]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="ListBox (کنترل فرم) را با استفاده از Python via جاوا در اکسل قرار دهید" h2="درج اشیاء با استفاده از API های سمت سرور بدون هیچ نرم افزاری مانند Microsoft یا Open Office، Adobe PDF و غیره." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="" pfName="Aspose.Cells" subTitlepfName="for Python via Java" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="XLSX" >}}
@@ -37,7 +38,7 @@ description: Python via کد منبع جاوا برای درج ListBox (کنتر
 
 {{% /blocks/products/pf/agp/text %}}
 
-نمونه سازی یک شی Workbook. (یا -> فایل XLSX را با مسیر کامل بارگیری کنید.)
++ نمونه سازی یک شی Workbook. (یا -> فایل XLSX را با مسیر کامل بارگیری کنید.)
 + کاربرگ را از طریق فهرست آن انتخاب کنید.
  + از shapecollection استفاده کنید[روش اضافه کردن](https://reference.aspose.com/cells/python-java/asposecells.api/shapecollection#addListBox(int,%20int,%20int,%20int,%20int,%20int)) برای درج یک ListBox (کنترل فرم) در کاربرگ انتخاب شده.
 + کتاب کار را با فرمت XLSX ذخیره کنید.
@@ -52,8 +53,8 @@ description: Python via کد منبع جاوا برای درج ListBox (کنتر
  
 {{% /blocks/products/pf/agp/text %}}
 
-- هر سیستم عاملی که می تواند اسکریپت های جاوا Python via را اجرا کند، مانند Windows، Linux و MacOS
--  Java را نصب کنید و آن را به متغیر محیطی PATH اضافه کنید، به عنوان مثال:<code>PATH=C:\Program Files\Java\jdk1.8.0_131;</code>.
+-  هر سیستم عاملی که می تواند اسکریپت های جاوا Python via را اجرا کند، مانند Windows، Linux و MacOS
+- Java را نصب کنید و آن را به متغیر محیطی PATH اضافه کنید، به عنوان مثال:<code>PATH=C:\Program Files\Java\jdk1.8.0_131;</code>.
 -  نصب Aspose.Cells for Python از طریق جاوا از<a href="https://pypi.org/project/aspose-cells/">pypi</a> ، از دستور به صورت زیر استفاده کنید:<code>$ pip install aspose-cells</code>.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

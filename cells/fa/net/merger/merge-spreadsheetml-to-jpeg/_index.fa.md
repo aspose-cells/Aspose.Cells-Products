@@ -1,8 +1,8 @@
 ---
 title: SPREADSHEETML را با JPEG ادغام کنید - SPREADSHEETML را با JPEG در C# ترکیب کنید
 url: /fa/net/merger/merge-spreadsheetml-to-jpeg/ 
-description: Aspose اکسل. C# Aspose.Cells. ادغام آنلاین رایگان SPREADSHEETML به JPEG ذخیره فرمت. C# SPREADSHEETML را با فرمت JPEG ترکیب کنید. SPREADSHEETML را به JPEG در C# ادغام کنید. SPREADSHEETML ادغام.
-keywords: [Aspose Excel., C# Aspose.Cells., Merge SPREADSHEETML to JPEG in C#., Free Online C# Merge SPREADSHEETML to jpeg., C# Combine SPREADSHEETML to JPEG Online for Free., SPREADSHEETML Merge]
+description: Aspose اکسل. C# Aspose.Cells. SPREADSHEETML را با فرمت ذخیره JPEG ادغام کنید. C# SPREADSHEETML را با فرمت JPEG ترکیب کنید. SPREADSHEETML را به JPEG در C# ادغام کنید. SPREADSHEETML ادغام.
+keywords: [Aspose Excel., C# Aspose.Cells., Merge SPREADSHEETML to JPEG in C#., C# Merge SPREADSHEETML to jpeg., C# Combine SPREADSHEETML to JPEG., SPREADSHEETML Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="ادغام SPREADSHEETML به JPEG از طریق C#" h2="کتابخانه پرسرعت C# برای ادغام SPREADSHEETML به JPEG. از تبدیل اکسل ما API برای توسعه نرم افزار سطح بالا و مستقل از پلتفرم در C# استفاده کنید. این یک راه حل نرم افزاری حرفه ای برای وارد کردن و صادرات فرمت های 08cel، 076143 و بسیاری دیگر از فرمت های excel است." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="SPREADSHEETML" additionalConversionTag="JPEG" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., C# Aspose.Cells., Merge SPREADSHEETML to JPEG in C#., 
 
 {{% blocks/products/pf/agp/content h2="ادغام SPREADSHEETML به JPEG با استفاده از C#" %}}
 
- چگونه SPREADSHEETML را با JPEG ادغام کنم؟ با کتابخانه Aspose.Cells for .NET، می‌توانید به راحتی SPREADSHEETML را به صورت برنامه‌نویسی با چند خط کد به JPEG ادغام کنید.[Aspose.Cells for .NET](https://products.aspose.com/cells/net)قادر به ساخت برنامه های چند پلتفرمی با قابلیت تولید، تغییر، تبدیل، رندر و چاپ تمام فایل های اکسل است. .NET اکسل API نه تنها بین فرمت های صفحه گسترده تبدیل می کند، بلکه می تواند فایل های اکسل را به صورت تصویر رندر کند. انتخاب عالی برای تبادل اسناد در استانداردهای صنعتی فرمت ها باز کن[NuGet](https://www.nuget.org/packages/aspose.cells) Package Manager Aspose.Cells را جستجو و نصب کنید. همچنین می توانید از دستور زیر در کنسول Package Manager استفاده کنید.
+ چگونه SPREADSHEETML را با JPEG ادغام کنم؟ با کتابخانه Aspose.Cells for .NET، می‌توانید به راحتی SPREADSHEETML را به صورت برنامه‌نویسی با چند خط کد به JPEG ادغام کنید.[Aspose.Cells for .NET](https://products.aspose.com/cells/net)قادر به ساخت برنامه های چند پلتفرمی با قابلیت تولید، تغییر، تبدیل، رندر و چاپ تمام فایل های اکسل است. .NET اکسل API نه تنها بین فرمت های صفحه گسترده تبدیل می شود، بلکه می تواند فایل های اکسل را به صورت تصویر، PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT و موارد دیگر ارائه دهد، بنابراین آن را به گزینه ای عالی برای تبادل اسناد در قالب های استاندارد صنعتی تبدیل می کند. باز کن[NuGet](https://www.nuget.org/packages/aspose.cells) Package Manager Aspose.Cells را جستجو و نصب کنید. همچنین می توانید از دستور زیر در کنسول Package Manager استفاده کنید.
 
 {{% blocks/products/pf/agp/code-block title="فرمان کنسول Package Manager" offSpacer="true" %}}
 
@@ -26,7 +26,7 @@ PM> Install-Package Aspose.Cells
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="ادغام SPREADSHEETML به JPEG در C# آنلاین به صورت رایگان" %}}
+{{% blocks/products/pf/agp/content h2="SPREADSHEETML را به JPEG در C# ادغام کنید" %}}
 
 مثال زیر نحوه ادغام SPREADSHEETML را با JPEG در Aspose.Cells for .NET نشان می دهد.
 {{% blocks/products/pf/agp/text %}}
@@ -37,7 +37,7 @@ PM> Install-Package Aspose.Cells
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="آنلاین رایگان برای ادغام SPREADSHEETML به JPEG در C#" InputFormat="xml" InputFormat2="jpg" outformat="jpg" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="net" %}}
+{{% cells-merger title="نمونه کد برای ادغام SPREADSHEETML به JPEG در C#" InputFormat="xml" InputFormat2="jpg" outformat="jpg" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="net" %}}
 
 {{% blocks/products/pf/agp/content h2="نحوه ادغام SPREADSHEETML به JPEG از طریق C#" %}}
 

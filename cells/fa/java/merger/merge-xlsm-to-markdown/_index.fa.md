@@ -1,8 +1,8 @@
 ---
 title: XLSM را با MARKDOWN ادغام کنید - XLSM را با MARKDOWN در Java ترکیب کنید
 url: /fa/java/merger/merge-xlsm-to-markdown/ 
-description: Aspose اکسل. Java Aspose.Cells. ادغام آنلاین رایگان XLSM به MARKDOWN ذخیره فرمت. Java XLSM را با فرمت MARKDOWN ترکیب کنید. ادغام XLSM به MARKDOWN در Java. XLSM ادغام.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge XLSM to MARKDOWN in Java., Free Online Java Merge XLSM to markdown., Java Combine XLSM to MARKDOWN Online for Free., XLSM Merge]
+description: Aspose اکسل. Java Aspose.Cells. ادغام XLSM به MARKDOWN ذخیره فرمت. Java XLSM را با فرمت MARKDOWN ترکیب کنید. ادغام XLSM به MARKDOWN در Java. XLSM ادغام.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge XLSM to MARKDOWN in Java., Java Merge XLSM to markdown., Java Combine XLSM to MARKDOWN., XLSM Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="XLSM را با MARKDOWN via Java ادغام کنید" h2="کتابخانه پرسرعت Java برای ادغام XLSM به MARKDOWN. از تبدیل اکسل ما API برای توسعه نرم افزار سطح بالا و مستقل از پلتفرم در Java استفاده کنید. این یک راه حل حرفه ای نرم افزاری برای وارد کردن و صادرات بسیاری از فرمت های excel53481، و صادرات 07134343481 است." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="XLSM" additionalConversionTag="MARKDOWN" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Merge XLSM to MARKDOWN in Java., F
 
 {{% blocks/products/pf/agp/content h2="ادغام XLSM به MARKDOWN با استفاده از Java" %}}
 
- چگونه XLSM را با MARKDOWN ادغام کنم؟ با کتابخانه Aspose.Cells for Java می توانید به راحتی با چند خط کد XLSM را به MARKDOWN ادغام کنید.[Aspose.Cells for Java](https://products.aspose.com/cells/java) قادر به ساخت برنامه های چند پلتفرمی با قابلیت تولید، تغییر، تبدیل، رندر و چاپ تمام فایل های اکسل است. Java اکسل API نه تنها بین فرمت های صفحه گسترده تبدیل می کند، بلکه می تواند فایل های اکسل را به صورت تصویر رندر کند. انتخاب عالی برای تبادل اسناد در استانداردهای صنعتی فرمت ها آخرین نسخه آن را می توانید مستقیماً از اینجا دانلود کنید[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) و با افزودن تنظیمات زیر به pom.xml آن را در پروژه مبتنی بر Maven خود نصب کنید.
+ چگونه XLSM را با MARKDOWN ادغام کنم؟ با کتابخانه Aspose.Cells for Java می توانید به راحتی با چند خط کد XLSM را به MARKDOWN ادغام کنید.[Aspose.Cells for Java](https://products.aspose.com/cells/java)قادر به ساخت برنامه های چند پلتفرمی با قابلیت تولید، تغییر، تبدیل، رندر و چاپ تمام فایل های اکسل است. Java اکسل API نه تنها بین فرمت های صفحه گسترده تبدیل می شود، بلکه می تواند فایل های اکسل را به صورت تصویر، PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT و موارد دیگر ارائه دهد، بنابراین آن را به گزینه ای عالی برای تبادل اسناد در قالب های استاندارد صنعتی تبدیل می کند. آخرین نسخه آن را می توانید مستقیماً از اینجا دانلود کنید[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) و با افزودن تنظیمات زیر به pom.xml آن را در پروژه مبتنی بر Maven خود نصب کنید.
 
 {{% blocks/products/pf/agp/code-block title="مخزن" offSpacer="true" %}}
 
@@ -45,7 +45,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Merge XLSM to MARKDOWN in Java., F
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="ادغام XLSM به MARKDOWN در Java آنلاین به صورت رایگان" %}}
+{{% blocks/products/pf/agp/content h2="XLSM را با MARKDOWN در Java ادغام کنید" %}}
 
 مثال زیر نحوه ادغام XLSM با MARKDOWN را در Aspose.Cells for Java نشان می دهد.
 {{% blocks/products/pf/agp/text %}}
@@ -56,7 +56,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Merge XLSM to MARKDOWN in Java., F
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="آنلاین رایگان برای ادغام XLSM با MARKDOWN در Java" InputFormat="xlsm" InputFormat2="md" outformat="md" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="java" %}}
+{{% cells-merger title="نمونه کد ادغام XLSM به MARKDOWN در Java" InputFormat="xlsm" InputFormat2="md" outformat="md" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="نحوه ادغام XLSM به MARKDOWN via Java" %}}
 

@@ -104,7 +104,7 @@ description: کتابخانه صفحه گسترده اندروید برای ای
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="استقلال پلتفرم" description="Aspose.Cells for Android via Java موجود است for Android 2.0 یا بالاتر." >}}
+{{< blocks/products/pf/carousel-item h3="سکوی استقلال" description="Aspose.Cells for Android via Java موجود است for Android 2.0 یا بالاتر." >}}
 <div class="diagram1 d1-android">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -493,7 +493,7 @@ wkb.save(SD_PATH + "output.html", SaveFormat.HTML);</code></pre>
  تبدیل اشیاء صفحه گسترده به فرمت های مختلف
     </h2>
     <p>
- Aspose.Cells for Android via Java برخی از ویژگی‌های متمایز مانند کاربرگ‌ها به تصاویر، نمودارها به تصاویر و amp. PDF و صفحات گسترده به PDF تبدیل فرمت سند. فرآیند انعطاف پذیر تعدادی انتخاب برای تبدیل دارد، مانند نمونه برداری مجدد تصاویر در طول صفحات گسترده به PDF یا تنظیم ابعاد تصویر حاصل هنگام رندر کاربرگ ها و amp; نمودارها به فرمت های تصویر
+ Aspose.Cells for Android via Java برخی از ویژگی‌های متمایز مانند کاربرگ‌ها به تصاویر، نمودارها به تصاویر و amp. PDF و صفحات گسترده به PDF تبدیل فرمت سند. فرآیند انعطاف‌پذیر تعدادی انتخاب برای تبدیل دارد، مانند نمونه‌برداری مجدد تصاویر در طول صفحات گسترده به PDF یا تنظیم ابعاد تصویر حاصل هنگام رندر کاربرگ‌ها و amp; نمودارها به فرمت های تصویر
     </p>
    </div>
    <div class="col-lg-12">

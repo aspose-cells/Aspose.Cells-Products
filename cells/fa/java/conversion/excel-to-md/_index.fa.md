@@ -1,7 +1,7 @@
 ---
-title: Java EXCEL به MD - تبدیل آنلاین EXCEL به MD
-description: Aspose اکسل. Java Aspose.Cells. Java Aspose Cells. آنلاین رایگان Java تبدیل EXCEL به MD saveformat. Java فرمت EXCEL به MD. EXCEL را در MD Java ذخیره کنید.
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java EXCEL to MD saveformat., Free Online EXCEL to MD Java., Java Convert EXCEL to MD]
+title: Java EXCEL به MD - تبدیل EXCEL به MD
+description: Aspose اکسل. تبدیل EXCEL به MD به سرعت و به راحتی با Aspose.Cells. Java EXCEL به MD. Java EXCEL را در MD ذخیره کنید. با استفاده از Java EXCEL را به عنوان MD ذخیره کنید.
+keywords: [Aspose Excel., Java Aspose.Cells., Convert EXCEL to MD in Java., Save EXCEL to MD using Java., Java EXCEL to MD saveformat., EXCEL to MD Converter., Java Save EXCEL as MD]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="EXCEL را در Java به MD تبدیل کنید" h2="کتابخانه پرسرعت Java برای تبدیل EXCEL به MD. این یک راه حل نرم افزاری حرفه ای برای وارد کردن و صادرات EXCEL، MD، و بسیاری از فرمت های دیگر با استفاده از Java است." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="MD" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java EXCEL to 
 
 {{% blocks/products/pf/agp/content h2="EXCEL را با استفاده از Java به MD تبدیل کنید" %}}
 
- چگونه EXCEL را به MD تبدیل کنم؟ با کتابخانه Aspose.Cells for Java به راحتی می توانید EXCEL را به صورت برنامه نویسی و با چند خط کد به MD تبدیل کنید.[Aspose.Cells for Java](https://products.aspose.com/cells/java) قادر به ساخت برنامه های چند پلتفرمی با قابلیت تولید، تغییر، تبدیل، رندر و چاپ تمام فایل های اکسل است. Java اکسل API نه تنها بین فرمت های صفحه گسترده تبدیل می کند، بلکه می تواند فایل های اکسل را به صورت تصویر رندر کند. انتخاب عالی برای تبادل اسناد در استانداردهای صنعتی فرمت ها آخرین نسخه آن را می توانید مستقیماً از اینجا دانلود کنید[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) و با افزودن تنظیمات زیر به pom.xml آن را در پروژه مبتنی بر Maven خود نصب کنید.
+ چگونه EXCEL را به MD تبدیل کنم؟ با کتابخانه Aspose.Cells for Java به راحتی می توانید EXCEL را به صورت برنامه نویسی و با چند خط کد به MD تبدیل کنید.[Aspose.Cells for Java](https://products.aspose.com/cells/java)قادر به ساخت برنامه های چند پلتفرمی با قابلیت تولید، تغییر، تبدیل، رندر و چاپ تمام فایل های اکسل است. Java اکسل API نه تنها بین فرمت های صفحه گسترده تبدیل می شود، بلکه می تواند فایل های اکسل را به صورت تصویر، PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT و موارد دیگر ارائه دهد، بنابراین آن را به گزینه ای عالی برای تبادل اسناد در قالب های استاندارد صنعتی تبدیل می کند. آخرین نسخه آن را می توانید مستقیماً از اینجا دانلود کنید[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) و با افزودن تنظیمات زیر به pom.xml آن را در پروژه مبتنی بر Maven خود نصب کنید.
 
 {{% blocks/products/pf/agp/code-block title="مخزن" offSpacer="true" %}}
 
@@ -45,7 +45,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java EXCEL to 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="ذخیره EXCEL به MD در Java آنلاین به صورت رایگان" %}}
+{{% blocks/products/pf/agp/content h2="EXCEL را به MD در Java ذخیره کنید" %}}
 
 مثال زیر نحوه تبدیل EXCEL به MD را در Java نشان می دهد.
 {{% blocks/products/pf/agp/text %}}
@@ -56,7 +56,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java EXCEL to 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="برنامه رایگان و کد نمونه برای تبدیل EXCEL به MD آنلاین" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsx" outformat="md" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="نمونه کد برای تبدیل EXCEL به MD" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsx" outformat="md" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="نحوه تبدیل EXCEL به MD via Java" %}}
 

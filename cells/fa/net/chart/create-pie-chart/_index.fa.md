@@ -1,6 +1,7 @@
 ---
 title: نمودارهای پای را از طریق C# ایجاد کنید
 description: C# کد نمونه برای ایجاد نمودار دایره ای در اکسل با استفاده از کتابخانه .NET. از این کد برای ایجاد نمودار دایره ای در MS Excel در VB.NET، Asp.NET یا هر برنامه مبتنی بر .NET استفاده کنید.
+keywords: [C# Aspose.Cells., c# add Pie Chart., c# insert Pie Chart., c# create Pie Chart]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 

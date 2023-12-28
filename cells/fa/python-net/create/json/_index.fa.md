@@ -1,7 +1,7 @@
 ---
 title: ایجاد JSON - ایجاد فایل JSON در Python
-description: Aspose اکسل. Python فایل JSON ایجاد کنید. Create JSON Python. Python JSON Creater. JSON را در Python ایجاد کنید. با استفاده از Python فایل JSON را ایجاد کنید.
-keywords: [Aspose Excel., Python Aspose.Cells., Create JSON Python., Python JSON Creater., Create JSON file in Python., Generate JSON file in Python]
+description: Aspose اکسل. Python ایجاد فایل JSON به سرعت و به راحتی با Aspose.Cells. ایجاد فایل JSON با استفاده از Python. ایجاد JSON در Python. 07134813
+keywords: [Aspose Excel., Python Aspose.Cells., Python Create JSON file., Generate JSON file in Python., Create JSON file using Python., Write data to JSON file via Python., Create a JSON file in Python., Python Generate a JSON file., Python JSON Creater]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="فایل JSON را در Python ایجاد کنید" h2="کتابخانه پرسرعت Python برای ایجاد فایل JSON. از تبدیل اکسل API ما برای توسعه نرم افزار سطح بالا و مستقل از پلت فرم در Python استفاده کنید." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="JSON" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -11,7 +11,7 @@ keywords: [Aspose Excel., Python Aspose.Cells., Create JSON Python., Python JSON
 
 {{% blocks/products/pf/agp/content h2="با استفاده از Python فایل JSON ایجاد کنید" %}}
 
- چگونه فایل JSON ایجاد کنیم؟ با Aspose.Cells for Python از طریق کتابخانه NET به راحتی می توانید فایل JSON را به صورت برنامه نویسی با چند خط کد ایجاد کنید.[Aspose.Cells for Python](https://pypi.org/project/aspose-cells-python/)قادر به ساخت برنامه های چند پلتفرمی با قابلیت تولید، تغییر، تبدیل، رندر و چاپ تمام فایل های اکسل است. Python اکسل API نه تنها بین فرمت های صفحه گسترده تبدیل می کند، بلکه می تواند فایل های اکسل را به صورت تصویر رندر کند. انتخاب عالی برای تبادل اسناد در استانداردهای صنعتی فرمت ها
+ چگونه فایل JSON ایجاد کنیم؟ با Aspose.Cells for Python از طریق کتابخانه NET به راحتی می توانید فایل JSON را به صورت برنامه نویسی با چند خط کد ایجاد کنید.[Aspose.Cells for Python](https://pypi.org/project/aspose-cells-python/)قادر به ساخت برنامه های چند پلتفرمی با قابلیت تولید، تغییر، تبدیل، رندر و چاپ تمام فایل های اکسل است. Python اکسل API نه تنها بین فرمت های صفحه گسترده تبدیل می شود، بلکه می تواند فایل های اکسل را به صورت تصویر، PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT و موارد دیگر ارائه دهد، بنابراین آن را به گزینه ای عالی برای تبادل اسناد در قالب های استاندارد صنعتی تبدیل می کند.
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -28,7 +28,7 @@ keywords: [Aspose Excel., Python Aspose.Cells., Create JSON Python., Python JSON
 1.  نمونه کلاس Workbook را ایجاد کنید.
 1.  به اولین کاربرگ کتاب کار دسترسی پیدا کنید.
 1.  سلول(های) مورد نظر کاربرگ را دریافت کرده و مقدار را در سلول(ها) وارد کنید.
-1. از روش Save برای ذخیره کتاب کار به عنوان فایل JSON استفاده کنید.
+1.  از روش Save برای ذخیره کتاب کار به عنوان فایل JSON استفاده کنید.
 
 {{% blocks/products/pf/agp/code-block title="کد نمونه نحوه ایجاد فایل JSON را در Python نشان می دهد." offSpacer="" %}}
 
@@ -62,7 +62,7 @@ workbook.save("output.json")
 ما بسته های Python خود را در مخازن PyPi میزبانی می کنیم.
 
 {{% blocks/products/pf/agp/text %}}
-Aspose.Cells for Python را نصب کنید<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> ، از دستور به صورت زیر استفاده کنید:<code>$ pip install aspose-cells-python</code>.
+ Aspose.Cells for Python را نصب کنید<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> ، از دستور به صورت زیر استفاده کنید:<code>$ pip install aspose-cells-python</code>.
 {{% /blocks/products/pf/agp/text %}}
 
 {{% blocks/products/pf/agp/text %}}

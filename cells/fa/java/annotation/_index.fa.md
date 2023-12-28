@@ -1,6 +1,7 @@
 ---
-title: حاشیه نویسی فایل اکسل via Java
+title: افزودن یا حذف حاشیه نویسی فایل اکسل via Java
 description: اضافه کردن یا حذف حاشیه نویسی داده های صفحات گسترده اکسل و اپن آفیس با کتابخانه Java.
+keywords: [Java Aspose.Cells., add excel annotation., insert excel annotation., access excel annotation., remove excel annotation., delete excel annotation., add annotation in excel., insert annotation in excel., access annotation in excel., remove annotation in excel., delete annotation in excel]
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
 {{< blocks/products/pf/i18n/feature-page-header h1="مدیریت Microsoft<sup>&reg;</sup> حاشیه نویسی فایل اکسل via Java" h2="یادداشت‌های ساده را برای حاشیه‌نویسی درج کنید یا نظرات سطح سلول صفحه‌گسترده اکسل را در برنامه‌های مبتنی بر Java حذف کنید." >}}

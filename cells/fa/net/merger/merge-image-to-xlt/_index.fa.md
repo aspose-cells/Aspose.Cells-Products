@@ -1,8 +1,8 @@
 ---
 title: IMAGE را با XLT ادغام کنید - IMAGE را با XLT در C# ترکیب کنید
 url: /fa/net/merger/merge-image-to-xlt/ 
-description: Aspose اکسل. C# Aspose.Cells. ادغام آنلاین رایگان IMAGE به XLT Saveformat. C# IMAGE را با فرمت XLT ترکیب کنید. IMAGE را به XLT در C# ادغام کنید. IMAGE Merge.
-keywords: [Aspose Excel., C# Aspose.Cells., Merge IMAGE to XLT in C#., Free Online C# Merge IMAGE to xlt., C# Combine IMAGE to XLT Online for Free., IMAGE Merge]
+description: Aspose اکسل. C# Aspose.Cells. IMAGE را با فرمت ذخیره XLT ادغام کنید. C# IMAGE را با فرمت XLT ترکیب کنید. IMAGE را به XLT در C# ادغام کنید. IMAGE Merge.
+keywords: [Aspose Excel., C# Aspose.Cells., Merge IMAGE to XLT in C#., C# Merge IMAGE to xlt., C# Combine IMAGE to XLT., IMAGE Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="IMAGE را از طریق C# به XLT ادغام کنید" h2="کتابخانه پرسرعت C# برای ادغام IMAGE به XLT. از تبدیل اکسل ما API برای توسعه نرم افزار سطح بالا و مستقل از پلت فرم در C# استفاده کنید. این یک راه حل نرم افزار حرفه ای برای وارد کردن و صادرات Excel, CSV, OpenOffice, PDF, HTML, image و بسیاری از فرمت های excel دیگر است." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="IMAGE" additionalConversionTag="XLT" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., C# Aspose.Cells., Merge IMAGE to XLT in C#., Free Onli
 
 {{% blocks/products/pf/agp/content h2="ادغام IMAGE به XLT با استفاده از C#" %}}
 
- چگونه IMAGE را با XLT ادغام کنم؟ با کتابخانه Aspose.Cells for .NET، می توانید به راحتی با چند خط کد، IMAGE را به XLT ادغام کنید.[Aspose.Cells for .NET](https://products.aspose.com/cells/net)قادر به ساخت برنامه های چند پلتفرمی با قابلیت تولید، تغییر، تبدیل، رندر و چاپ تمام فایل های اکسل است. .NET اکسل API نه تنها بین فرمت های صفحه گسترده تبدیل می کند، بلکه می تواند فایل های اکسل را به صورت تصویر رندر کند. انتخاب عالی برای تبادل اسناد در استانداردهای صنعتی فرمت ها باز کن[NuGet](https://www.nuget.org/packages/aspose.cells) Package Manager Aspose.Cells را جستجو و نصب کنید. همچنین می توانید از دستور زیر در کنسول Package Manager استفاده کنید.
+ چگونه IMAGE را با XLT ادغام کنم؟ با کتابخانه Aspose.Cells for .NET، می توانید به راحتی با چند خط کد، IMAGE را به XLT ادغام کنید.[Aspose.Cells for .NET](https://products.aspose.com/cells/net)قادر به ساخت برنامه های چند پلتفرمی با قابلیت تولید، تغییر، تبدیل، رندر و چاپ تمام فایل های اکسل است. .NET اکسل API نه تنها بین فرمت های صفحه گسترده تبدیل می شود، بلکه می تواند فایل های اکسل را به صورت تصویر، PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT و موارد دیگر ارائه دهد، بنابراین آن را به گزینه ای عالی برای تبادل اسناد در قالب های استاندارد صنعتی تبدیل می کند. باز کن[NuGet](https://www.nuget.org/packages/aspose.cells) Package Manager Aspose.Cells را جستجو و نصب کنید. همچنین می توانید از دستور زیر در کنسول Package Manager استفاده کنید.
 
 {{% blocks/products/pf/agp/code-block title="فرمان کنسول Package Manager" offSpacer="true" %}}
 
@@ -26,7 +26,7 @@ PM> Install-Package Aspose.Cells
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="IMAGE را به XLT در C# به صورت آنلاین و رایگان ادغام کنید" %}}
+{{% blocks/products/pf/agp/content h2="IMAGE را به XLT در C# ادغام کنید" %}}
 
 مثال زیر نحوه ادغام IMAGE را با XLT در Aspose.Cells for .NET نشان می دهد.
 {{% blocks/products/pf/agp/text %}}
@@ -37,13 +37,13 @@ PM> Install-Package Aspose.Cells
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="آنلاین رایگان برای ادغام IMAGE به XLT در C#" InputFormat="png" InputFormat2="xlt" outformat="xlt" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="net" %}}
+{{% cells-merger title="نمونه کد برای ادغام IMAGE به XLT در C#" InputFormat="png" InputFormat2="xlt" outformat="xlt" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="net" %}}
 
 {{% blocks/products/pf/agp/content h2="نحوه ادغام IMAGE به XLT از طریق C#" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- آیا نیاز به ادغام IMAGE با XLT از نظر برنامه ای دارید؟ یک سند اساسی ادغام و الحاق با[Aspose.Cells for .NET](https://products.aspose.com/cells/net) API ها را می توان تنها با چند خط کد انجام داد.
+آیا نیاز به ادغام IMAGE با XLT از نظر برنامه ای دارید؟ یک سند اساسی ادغام و الحاق با[Aspose.Cells for .NET](https://products.aspose.com/cells/net) API ها را می توان تنها با چند خط کد انجام داد.
 
 {{% /blocks/products/pf/agp/text %}}
 

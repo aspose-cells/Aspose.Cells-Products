@@ -1,8 +1,8 @@
 ---
 title: CSV را با TIFF ادغام کنید - CSV را با TIFF در Python ترکیب کنید
 url: /fa/python-java/merger/merge-csv-to-tiff/ 
-description: Aspose اکسل. Python Aspose.Cells. ادغام آنلاین رایگان CSV به TIFF ذخیره فرمت. Python CSV را با فرمت TIFF ترکیب کنید. ادغام CSV به TIFF در Python. CSV ادغام.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge CSV to TIFF in Python., Free Online Python Merge CSV to tiff., Python Combine CSV to TIFF Online for Free., CSV Merge]
+description: Aspose اکسل. Python Aspose.Cells. ادغام CSV به TIFF ذخیره فرمت. Python CSV را با فرمت TIFF ترکیب کنید. ادغام CSV به TIFF در Python. CSV ادغام.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge CSV to TIFF in Python., Python Merge CSV to tiff., Python Combine CSV to TIFF., CSV Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="CSV را با TIFF از طریق Python ادغام کنید" h2="کتابخانه پرسرعت Python برای ادغام CSV به TIFF. از تبدیل اکسل ما API برای توسعه نرم افزار سطح بالا و مستقل از پلتفرم در Python استفاده کنید. این یک راه حل حرفه ای نرم افزاری برای وارد کردن و صادرات بسیاری از فرمت های excel53481، و صادرات 07134343481 است." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="CSV" additionalConversionTag="TIFF" pfName="Aspose.Cells" subTitlepfName="for Python" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -12,12 +12,12 @@ keywords: [Aspose Excel., Python Aspose.Cells., Merge CSV to TIFF in Python., Fr
 
 {{% blocks/products/pf/agp/content h2="ادغام CSV به TIFF با استفاده از Python" %}}
 
- چگونه CSV را با TIFF ادغام کنم؟ با کتابخانه Aspose.Cells for Python via Java می توانید به راحتی با چند خط کد CSV را به TIFF ادغام کنید.[Aspose.Cells for Python via Java](https://pypi.org/project/aspose-cells)قادر به ساخت برنامه های چند پلتفرمی با قابلیت تولید، تغییر، تبدیل، رندر و چاپ تمام فایل های اکسل است. Python اکسل API نه تنها بین فرمت های صفحه گسترده تبدیل می کند، بلکه می تواند فایل های اکسل را به صورت تصویر رندر کند. انتخاب عالی برای تبادل اسناد در استانداردهای صنعتی فرمت ها می توانید Aspose.Cells for Python via Java را نصب کنید<a href="https://pypi.org/project/aspose-cells/">pypi</a> ، از دستور به صورت زیر استفاده کنید:<code>$ pip install aspose-cells</code>.
+چگونه CSV را با TIFF ادغام کنم؟ با کتابخانه Aspose.Cells for Python via Java می توانید به راحتی با چند خط کد CSV را به TIFF ادغام کنید.[Aspose.Cells for Python via Java](https://pypi.org/project/aspose-cells) قادر به ساخت برنامه های چند پلتفرمی با قابلیت تولید، تغییر، تبدیل، رندر و چاپ تمام فایل های اکسل است. Python اکسل API نه تنها بین فرمت های صفحه گسترده تبدیل می شود، بلکه می تواند فایل های اکسل را به صورت تصویر، PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT و موارد دیگر ارائه دهد، بنابراین آن را به گزینه ای عالی برای تبادل اسناد در قالب های استاندارد صنعتی تبدیل می کند. می توانید Aspose.Cells for Python via Java را نصب کنید<a href="https://pypi.org/project/aspose-cells/">pypi</a> ، از دستور به صورت زیر استفاده کنید:<code>$ pip install aspose-cells</code>.
 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="ادغام CSV به TIFF در Python آنلاین به صورت رایگان" %}}
+{{% blocks/products/pf/agp/content h2="CSV را با TIFF در Python ادغام کنید" %}}
 
 مثال زیر نحوه ادغام CSV با TIFF را در Aspose.Cells for Python via Java نشان می دهد.
 {{% blocks/products/pf/agp/text %}}
@@ -28,7 +28,7 @@ keywords: [Aspose Excel., Python Aspose.Cells., Merge CSV to TIFF in Python., Fr
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="آنلاین رایگان برای ادغام CSV با TIFF در Python" InputFormat="csv" InputFormat2="tiff" outformat="tiff" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-merger title="نمونه کد ادغام CSV به TIFF در Python" InputFormat="csv" InputFormat2="tiff" outformat="tiff" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="نحوه ادغام CSV با TIFF از طریق Python" %}}
 
@@ -73,7 +73,7 @@ API های ما در تمام سیستم عامل ها و سیستم عامل ه
 
 -  Java 1.8 یا بالاتر را نصب کنید و آن را به متغیر محیطی PATH اضافه کنید، به عنوان مثال:<code>PATH=C:\Program Files\Java\jdk1.8.0_131;</code>.
 -  نصب[Python](https://www.python.org/downloads/) 3.5 یا بالاتر
-- Aspose.Cells for Python را نصب کنید<a href="https://pypi.org/project/aspose-cells/">pypi</a> ، از دستور به صورت زیر استفاده کنید:<code>$ pip install aspose-cells</code>.
+-  Aspose.Cells for Python را نصب کنید<a href="https://pypi.org/project/aspose-cells/">pypi</a> ، از دستور به صورت زیر استفاده کنید:<code>$ pip install aspose-cells</code>.
 
 
 {{% /blocks/products/pf/agp/content %}}

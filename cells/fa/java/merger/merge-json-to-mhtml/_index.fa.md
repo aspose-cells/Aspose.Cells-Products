@@ -1,8 +1,8 @@
 ---
 title: JSON را با MHTML ادغام کنید - JSON را با MHTML در Java ترکیب کنید
 url: /fa/java/merger/merge-json-to-mhtml/ 
-description: Aspose اکسل. Java Aspose.Cells. ادغام آنلاین رایگان JSON به MHTML ذخیره فرمت. Java JSON را با فرمت MHTML ترکیب کنید. ادغام JSON به MHTML در Java. JSON ادغام.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge JSON to MHTML in Java., Free Online Java Merge JSON to mhtml., Java Combine JSON to MHTML Online for Free., JSON Merge]
+description: Aspose اکسل. Java Aspose.Cells. ادغام JSON به MHTML ذخیره فرمت. Java JSON را با فرمت MHTML ترکیب کنید. ادغام JSON به MHTML در Java. JSON ادغام.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge JSON to MHTML in Java., Java Merge JSON to mhtml., Java Combine JSON to MHTML., JSON Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="JSON را با MHTML via Java ادغام کنید" h2="کتابخانه پرسرعت Java برای ادغام JSON به MHTML. از تبدیل اکسل ما API برای توسعه نرم افزار سطح بالا و مستقل از پلتفرم در Java استفاده کنید. این یک راه حل حرفه ای نرم افزاری برای وارد کردن و صادرات بسیاری از فرمت های excel53481، و صادرات 07134343481 است." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="JSON" additionalConversionTag="MHTML" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Merge JSON to MHTML in Java., Free
 
 {{% blocks/products/pf/agp/content h2="ادغام JSON به MHTML با استفاده از Java" %}}
 
- چگونه JSON را با MHTML ادغام کنم؟ با کتابخانه Aspose.Cells for Java می توانید به راحتی با چند خط کد JSON را به MHTML ادغام کنید.[Aspose.Cells for Java](https://products.aspose.com/cells/java) قادر به ساخت برنامه های چند پلتفرمی با قابلیت تولید، تغییر، تبدیل، رندر و چاپ تمام فایل های اکسل است. Java اکسل API نه تنها بین فرمت های صفحه گسترده تبدیل می کند، بلکه می تواند فایل های اکسل را به صورت تصویر رندر کند. انتخاب عالی برای تبادل اسناد در استانداردهای صنعتی فرمت ها آخرین نسخه آن را می توانید مستقیماً از اینجا دانلود کنید[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) و با افزودن تنظیمات زیر به pom.xml آن را در پروژه مبتنی بر Maven خود نصب کنید.
+ چگونه JSON را با MHTML ادغام کنم؟ با کتابخانه Aspose.Cells for Java می توانید به راحتی با چند خط کد JSON را به MHTML ادغام کنید.[Aspose.Cells for Java](https://products.aspose.com/cells/java)قادر به ساخت برنامه های چند پلتفرمی با قابلیت تولید، تغییر، تبدیل، رندر و چاپ تمام فایل های اکسل است. Java اکسل API نه تنها بین فرمت های صفحه گسترده تبدیل می شود، بلکه می تواند فایل های اکسل را به صورت تصویر، PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT و موارد دیگر ارائه دهد، بنابراین آن را به گزینه ای عالی برای تبادل اسناد در قالب های استاندارد صنعتی تبدیل می کند. آخرین نسخه آن را می توانید مستقیماً از اینجا دانلود کنید[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) و با افزودن تنظیمات زیر به pom.xml آن را در پروژه مبتنی بر Maven خود نصب کنید.
 
 {{% blocks/products/pf/agp/code-block title="مخزن" offSpacer="true" %}}
 
@@ -45,7 +45,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Merge JSON to MHTML in Java., Free
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="ادغام JSON به MHTML در Java آنلاین به صورت رایگان" %}}
+{{% blocks/products/pf/agp/content h2="JSON را با MHTML در Java ادغام کنید" %}}
 
 مثال زیر نحوه ادغام JSON با MHTML را در Aspose.Cells for Java نشان می دهد.
 {{% blocks/products/pf/agp/text %}}
@@ -56,7 +56,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Merge JSON to MHTML in Java., Free
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="آنلاین رایگان برای ادغام JSON با MHTML در Java" InputFormat="json" InputFormat2="mhtml" outformat="mhtml" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="java" %}}
+{{% cells-merger title="نمونه کد ادغام JSON به MHTML در Java" InputFormat="json" InputFormat2="mhtml" outformat="mhtml" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="نحوه ادغام JSON به MHTML via Java" %}}
 

@@ -38,7 +38,7 @@ description: C# نمونه کد تبدیل TSV به آرایه بایت. از ا
 
 {{% blocks/products/pf/agp/text %}}
 
- فقط مطمئن شوید که سیستم دارای Microsoft Windows یا یک سیستم عامل سازگار با .NET Framework، .NET Core، Windows Azure، Mono یا Xamarin پلتفرم های 876 استودیو 3076 و همچنین محیط های توسعه است.
+فقط مطمئن شوید که سیستم دارای Microsoft Windows یا یک سیستم عامل سازگار با .NET Framework، .NET Core، Windows Azure، Mono یا Xamarin پلتفرم های 876 استودیو 3076 و همچنین محیط های توسعه است.
 
 {{% /blocks/products/pf/agp/text %}}
 

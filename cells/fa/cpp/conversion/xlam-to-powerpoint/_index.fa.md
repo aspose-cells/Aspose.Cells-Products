@@ -1,7 +1,7 @@
 ---
-title: XLAM به POWERPOINT - تبدیل XLAM به POWERPOINT فایل C++
-description: Aspose اکسل. تبدیل رایگان آنلاین XLAM به فرمت ذخیره سازی POWERPOINT. C++ XLAM به فرمت POWERPOINT. XLAM را به عنوان POWERPOINT در C++ ذخیره کنید.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ XLAM to POWERPOINT saveformat., Free Online XLAM to POWERPOINT Converter]
+title: C++ XLAM به POWERPOINT - XLAM به POWERPOINT تبدیل
+description: Aspose اکسل. تبدیل XLAM به POWERPOINT سریع و آسان با Aspose.Cells. C++ XLAM به POWERPOINT. C++ XLAM را در POWERPOINT ذخیره کنید. XLAM را به عنوان POWERPOINT با استفاده از C++ ذخیره کنید.
+keywords: [Aspose Excel., C++ Aspose.Cells., Convert XLAM to POWERPOINT in C++., Save XLAM to POWERPOINT using C++., C++ XLAM to POWERPOINT saveformat., XLAM to POWERPOINT Converter., C++ Save XLAM as POWERPOINT]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="تبدیل XLAM به POWERPOINT در C++" h2="تبدیل XLAM به POWERPOINT با کارایی بالا با استفاده از کتابخانه C++ بدون نیاز به نصب Microsoft Excel، OpenOffice یا Adobe Acrobat." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" sourceAdditionalConversionTag="" additionalConversionTag="POWERPOINT" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., C++ Aspose.Cells., C++ XLAM to POWERPOINT saveformat.,
 
 {{% blocks/products/pf/agp/content h2="تبدیل XLAM به POWERPOINT با استفاده از C++" %}}
 
- چگونه XLAM را به POWERPOINT تبدیل کنم؟ با کتابخانه Aspose.Cells for C++ به راحتی می توانید با چند خط کد XLAM را به صورت برنامه ریزی شده به POWERPOINT تبدیل کنید.[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) قادر به ساخت برنامه های چند پلتفرمی با قابلیت تولید، تغییر، تبدیل، رندر و چاپ تمام فایل های اکسل است. C++ اکسل API نه تنها بین فرمت های صفحه گسترده تبدیل می کند، بلکه می تواند فایل های اکسل را به صورت تصویر رندر کند. انتخاب عالی برای تبادل اسناد در استانداردهای صنعتی فرمت ها شما می توانید آخرین نسخه آن را مستقیما دانلود کنید، فقط باز کنید[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) Package Manager Aspose.Cells.Cpp را جستجو کرده و نصب کنید. همچنین می توانید از دستور زیر در کنسول Package Manager استفاده کنید.
+ چگونه XLAM را به POWERPOINT تبدیل کنم؟ با کتابخانه Aspose.Cells for C++ به راحتی می توانید با چند خط کد XLAM را به صورت برنامه ریزی شده به POWERPOINT تبدیل کنید.[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) قادر به ساخت برنامه های چند پلتفرمی با قابلیت تولید، تغییر، تبدیل، رندر و چاپ تمام فایل های اکسل است. C++ اکسل API نه تنها بین فرمت های صفحه گسترده تبدیل می شود، بلکه می تواند فایل های اکسل را به صورت تصویر، PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT و موارد دیگر ارائه دهد، بنابراین آن را به گزینه ای عالی برای تبادل اسناد در قالب های استاندارد صنعتی تبدیل می کند. شما می توانید آخرین نسخه آن را مستقیما دانلود کنید، فقط باز کنید[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) Package Manager Aspose.Cells.Cpp را جستجو کرده و نصب کنید. همچنین می توانید از دستور زیر در کنسول Package Manager استفاده کنید.
 
 {{% blocks/products/pf/agp/code-block title="فرمان" offSpacer="true" %}}
 
@@ -26,7 +26,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="XLAM را در POWERPOINT در C++ آنلاین به صورت رایگان ذخیره کنید" %}}
+{{% blocks/products/pf/agp/content h2="XLAM را در POWERPOINT در C++ ذخیره کنید" %}}
 
 مثال زیر نحوه تبدیل XLAM به POWERPOINT را در C++ نشان می دهد.
 {{% blocks/products/pf/agp/text %}}
@@ -37,7 +37,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="برنامه رایگان و کد نمونه برای تبدیل XLAM به POWERPOINT آنلاین" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlam" outformat="pptx" IsLandingPage="true" language="cpp" %}}
+{{% cells-convert title="نمونه کد برای تبدیل XLAM به POWERPOINT" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlam" outformat="pptx" IsLandingPage="true" language="cpp" %}}
 
 {{% blocks/products/pf/agp/content h2="نحوه تبدیل XLAM به POWERPOINT از طریق C++" %}}
 
@@ -49,7 +49,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 1.  'Aspose.Cells for C++' را نصب کنید.
 1.  یک مرجع کتابخانه (وارد کردن کتابخانه) به پروژه C++ خود اضافه کنید.
-1.  فایل XLAM را با استفاده از Factory::CreateIWorkbook بارگیری کنید.
+1.  فایل XLAM را با استفاده از Workbook بارگیری کنید.
 1.  XLAM را با فراخوانی متد Save() به POWERPOINT تبدیل کنید.
 1.  نتیجه تبدیل XLAM به POWERPOINT را دریافت کنید.
 
@@ -82,6 +82,12 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/content %}}
 
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLAM" readMoreLink="https://docs.fileformat.com/spreadsheet/xlam/" >}}XLAM یک فایل افزودنی ماکرو فعال است که برای افزودن عملکردهای جدید به صفحات گسترده استفاده می شود. Add-In یک برنامه تکمیلی است که کدهای اضافی را اجرا می کند و عملکردهای اضافی را برای صفحات گسترده فراهم می کند. فایل های XLAM با پسوند xlam ذخیره می شوند. فایل‌های XLAM فایل‌های مبتنی بر XML مشابه فرمت‌های فایل XLSM و XLSX هستند و با فشرده‌سازی ZIP ذخیره می‌شوند تا اندازه کلی فایل کاهش یابد.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="POWERPOINT" readMoreLink="https://docs.fileformat.com/presentation/pptx/" >}}فایل های با پسوند PPTX فایل های ارائه ای هستند که با برنامه محبوب Microsoft PowerPoint ایجاد شده اند. بر خلاف نسخه قبلی فرمت فایل ارائه PPT که باینری بود، فرمت PPTX بر اساس فرمت فایل ارائه باز XML Microsoft PowerPoint است. فایل ارائه مجموعه ای از اسلایدها است که در آن هر اسلاید می تواند شامل متن، تصاویر، قالب بندی، انیمیشن ها و سایر رسانه ها باشد. این اسلایدها در قالب نمایش اسلاید با تنظیمات ارائه سفارشی به مخاطبان ارائه می شود.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="سایر تبدیل های پشتیبانی شده" subTitle="شما همچنین می توانید XLAM را به بسیاری از فرمت های فایل دیگر از جمله تعداد کمی از آنها که در زیر ذکر شده است تبدیل کنید." >}}
 
@@ -95,7 +101,6 @@ PM> Install-Package Aspose.Cells.Cpp
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xlam-to-pdf/" name="XLAM الی PDF" description="فرمت سند قابل حمل" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xlam-to-png/" name="XLAM الی PNG" description="گرافیک شبکه قابل حمل" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xlam-to-svg/" name="XLAM الی SVG" description="گرافیک برداری مقیاس پذیر" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xlam-to-tiff/" name="XLAM الی TIFF" description="فرمت تصویر برچسب شده" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xlam-to-tsv/" name="XLAM الی TSV" description="مقادیر جدا شده از تب" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xlam-to-txt/" name="XLAM الی TXT" description="سند متنی" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xlam-to-xls/" name="XLAM الی XLS" description="فرمت باینری اکسل" >}}

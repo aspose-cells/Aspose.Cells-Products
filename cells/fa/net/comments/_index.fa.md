@@ -1,6 +1,7 @@
 ---
 title: درج نظرات در اکسل via .NET
 description:  کدهای منبع C# که نحوه درج نظر در فایل های اکسل Microsoft با استفاده از کتابخانه .NET.
+keywords: [C# Aspose.Cells., add excel comments., insert excel comments., access excel comments., remove excel comments., delete excel comments., add comments in excel., insert comments in excel., access comments in excel., remove comments in excel., delete comments in excel]
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
 {{< blocks/products/pf/i18n/feature-page-header h1="Microsoft<sup>&reg;</sup> درج نظرات اکسل via .NET" h2="اسناد Excel ایجاد کنید و نظرات را با استفاده از API های سمت سرور در برنامه های مبتنی بر .NET درج کنید." >}}
@@ -12,7 +13,7 @@ description:  کدهای منبع C# که نحوه درج نظر در فایل �
 
 {{% blocks/products/pf/feature-page-section h2="درج نظرات در فایل اکسل" %}}
 
- درج نظرات با استفاده از اکسل API ساده است. فرآیند، ایجاد است[کلاس کتاب کار](https://reference.aspose.com/cells/net/aspose.cells/workbook) شی و اولین کاربرگ یا شیت مربوطه را با ارائه نمایه آن انتخاب کنید. با استفاده از داده های سلولی مورد نیاز را وارد کنید[روش PutValue](https://reference.aspose.com/cells/net/aspose.cells/cell/methods/putvalue/index) . اضافه کردن نظر به کاربرگ با استفاده از[CommentCollection](https://reference.aspose.com/cells/net/aspose.cells/commentcollection) 's[روش اضافه کنید](https://reference.aspose.com/cells/net/aspose.cells.commentcollection/add/methods/1).
+ درج نظرات با استفاده از اکسل API ساده است. فرآیند، ایجاد است[کلاس کتاب کار](https://reference.aspose.com/cells/net/aspose.cells/workbook)شی و اولین کاربرگ یا شیت مربوطه را با ارائه نمایه آن انتخاب کنید. با استفاده از داده های سلولی مورد نیاز را وارد کنید[روش PutValue](https://reference.aspose.com/cells/net/aspose.cells/cell/methods/putvalue/index) . اضافه کردن نظر به کاربرگ با استفاده از[CommentCollection](https://reference.aspose.com/cells/net/aspose.cells/commentcollection) 's[روش اضافه کنید](https://reference.aspose.com/cells/net/aspose.cells.commentcollection/add/methods/1).
 
 {{% blocks/products/pf/feature-page-code h3="C# کد درج نظر در اکسل" %}}
 

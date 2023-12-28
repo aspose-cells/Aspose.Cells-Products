@@ -1,8 +1,8 @@
 ---
-title: Java تعمیر فایل xlsx - تعمیر فایل xlsx بصورت آنلاین رایگان
+title: Java تعمیر xlsx - بازیابی و رفع خرابی فایل xlsx
 url: /fa/java/recovery/repair-xlsx/ 
-description: Aspose اکسل. Java Aspose.Cells. Java تعمیر فایل xlsx. ابزار تعمیر آنلاین xlsx رایگان. یک فایل xlsx خراب را تعمیر کنید. یک فایل xlsx خراب را در برنامه Java بازیابی کنید.
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java Repair xlsx file., Free Online Repair a corrupted xlsx file., Java Recover xlsx file.]
+description: Java Aspose.Cells. تعمیر xlsx. فایل xlsx را اصلاح کنید. ابزار بازیابی xlsx. فساد xlsx بازیابی اطلاعات xlsx بازیابی فایل xlsx بازیابی فایل xlsx خراب
+keywords: [Java Aspose.Cells., repair xlsx file., xlsx repair., recover corrupted xlsx file., repair corrupted xlsx., recover xlsx., fix xlsx file., xlsx corruption., restore xlsx data., xlsx file recovery., recover corrupted xlsx file.]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="تعمیر فایل XLSX در Java" h2="برنامه Java خود را برای تعمیر فایل های xlsx با استفاده از Java بسازید." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSX" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="" fileiconsmall1="XLS" fileiconsmall2="XLSB" fileiconsmall3="XLSX" fileiconsmall4="XLSM" fileiconsmall5="ODS" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java Repair xl
 
 {{% blocks/products/pf/agp/content h2="فایل XLSX را با شماره Java تعمیر کنید" %}}
 
- چگونه فایل xlsx را تعمیر کنم؟ با کتابخانه Aspose.Cells for Java به راحتی می توانید فایل XLSX را به صورت برنامه ای و با چند خط کد تعمیر کنید.[Aspose.Cells for Java](https://products.aspose.com/cells/java) قادر به ساخت برنامه های چند پلتفرمی با قابلیت تولید، تغییر، تبدیل، رندر و چاپ تمام فایل های اکسل است. Java اکسل API نه تنها بین فرمت های صفحه گسترده تبدیل می کند، بلکه می تواند فایل های اکسل را به صورت تصویر رندر کند. انتخاب عالی برای تبادل اسناد در استانداردهای صنعتی فرمت ها آخرین نسخه آن را می توانید مستقیماً از اینجا دانلود کنید[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) و با افزودن تنظیمات زیر به pom.xml آن را در پروژه مبتنی بر Maven خود نصب کنید.
+ چگونه فایل xlsx را تعمیر کنم؟ با کتابخانه Aspose.Cells for Java به راحتی می توانید فایل XLSX را به صورت برنامه ای و با چند خط کد تعمیر کنید.[Aspose.Cells for Java](https://products.aspose.com/cells/java)قادر به ساخت برنامه های چند پلتفرمی با قابلیت تولید، تغییر، تبدیل، رندر و چاپ تمام فایل های اکسل است. Java اکسل API نه تنها بین فرمت های صفحه گسترده تبدیل می شود، بلکه می تواند فایل های اکسل را به صورت تصویر، PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT و موارد دیگر ارائه دهد، بنابراین آن را به گزینه ای عالی برای تبادل اسناد در قالب های استاندارد صنعتی تبدیل می کند. آخرین نسخه آن را می توانید مستقیماً از اینجا دانلود کنید[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) و با افزودن تنظیمات زیر به pom.xml آن را در پروژه مبتنی بر Maven خود نصب کنید.
 
 {{% blocks/products/pf/agp/code-block title="مخزن" offSpacer="true" %}}
 
@@ -60,7 +60,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java Repair xl
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-recovery title="برنامه رایگان و کد نمونه برای تعمیر فایل آنلاین XLSX" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et" InputFormat="xlsx" outformat="xlsx" IsLandingPage="true" language="java" %}}    
+{{% cells-recovery title="نمونه کد تعمیر فایل XLSX" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et" InputFormat="xlsx" outformat="xlsx" IsLandingPage="true" language="java" %}}    
     
 {{% blocks/products/pf/agp/content h2="Java کتابخانه جهت تعمیر فایل XLSX" %}}
 

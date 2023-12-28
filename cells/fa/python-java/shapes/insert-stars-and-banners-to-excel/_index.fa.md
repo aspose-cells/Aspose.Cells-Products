@@ -2,6 +2,7 @@
 title: ستاره/بنر را با استفاده از Python via Java در اکسل قرار دهید
 weight: 381
 description: Python via Java کد منبع برای درج ستاره / بنر در اکسل.
+keywords: [Python Aspose.Cells., Python add Star/Banner., Python insert Star/Banner., Python create Star/Banner]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="ستاره/بنر را با استفاده از Python via Java در اکسل قرار دهید" h2="Star/Banner را با استفاده از Aspose.Cells\' API بدون هیچ نرم افزاری مانند Microsoft یا Open Office، Adobe PDF و غیره درج کنید." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="" pfName="Aspose.Cells" subTitlepfName="for Python via Java" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="XLSX" >}}
@@ -37,7 +38,7 @@ description: Python via Java کد منبع برای درج ستاره / بنر �
 
 {{% /blocks/products/pf/agp/text %}}
 
-نمونه سازی یک شی Workbook. (یا -> فایل XLSX را با مسیر کامل بارگیری کنید.)
++ نمونه سازی یک شی Workbook. (یا -> فایل XLSX را با مسیر کامل بارگیری کنید.)
 + کاربرگ را از طریق فهرست آن انتخاب کنید.
  + استفاده کنید[روش اضافه کردن](https://reference.aspose.com/cells/python-java/asposecells.api/shapecollection#addAutoShape(int,%20int,%20int,%20int,%20int,%20int,%20int)) برای درج Star/Banner در کاربرگ انتخاب شده
 + کتاب کار را با فرمت XLSX ذخیره کنید.
@@ -48,12 +49,12 @@ description: Python via Java کد منبع برای درج ستاره / بنر �
 
 {{% blocks/products/pf/agp/text %}}
 
-Aspose.Cells for Python via Java مستقل از پلتفرم API است و می تواند در هر پلتفرمی (Windows، لینوکس و MacOS) استفاده شود، فقط مطمئن شوید که سیستم دارای Java 1.8 یا بالاتر است،[Python](https://www.python.org/downloads/) 3.5 یا بالاتر
+ Aspose.Cells for Python via Java مستقل از پلتفرم API است و می تواند در هر پلتفرمی (Windows، لینوکس و MacOS) استفاده شود، فقط مطمئن شوید که سیستم دارای Java 1.8 یا بالاتر است،[Python](https://www.python.org/downloads/) 3.5 یا بالاتر
  
 {{% /blocks/products/pf/agp/text %}}
 
-- هر سیستم عاملی که می تواند اسکریپت های Python via Java را اجرا کند، مانند Windows، Linux و MacOS
--  Java را نصب کنید و آن را به متغیر محیطی PATH اضافه کنید، به عنوان مثال:<code>PATH=C:\Program Files\Java\jdk1.8.0_131;</code>.
+-  هر سیستم عاملی که می تواند اسکریپت های Python via Java را اجرا کند، مانند Windows، Linux و MacOS
+- Java را نصب کنید و آن را به متغیر محیطی PATH اضافه کنید، به عنوان مثال:<code>PATH=C:\Program Files\Java\jdk1.8.0_131;</code>.
 -  نصب Aspose.Cells for Python via Java از<a href="https://pypi.org/project/aspose-cells/">pypi</a> ، از دستور به صورت زیر استفاده کنید:<code>$ pip install aspose-cells</code>.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
@@ -131,7 +132,7 @@ Aspose.Cells for Python via Java مستقل از پلتفرم API است و می
    <div class="col-lg-4">
     <img src="/cells/net/shapes/insert-stars-and-banners-to-excel/star_16_points.png" align="left" width="28" height="28">
     <p class="col-lg-10">
-AutoShapeType.STAR_16
+ AutoShapeType.STAR_16
     </p>
    </div>
    <div class="col-lg-4">
@@ -207,7 +208,7 @@ AutoShapeType.STAR_16
 
 {{% blocks/products/pf/agp/content h2="درباره Aspose.Cells for Python via Java API" %}}
 
- Aspose.Cells API می تواند برای ایجاد، ویرایش، تبدیل و رندر فرمت های اکسل Microsoft به فرمت های مختلف استفاده شود. علاوه بر این، می توان از آن برای نمودارهای جامع، گزارش مقیاس پذیر و محاسبات قابل اعتماد در برنامه های نرم افزاری استفاده کرد. Aspose.Cells یک API مستقل است و به هیچ نرم افزاری مانند Microsoft یا OpenOffice نیاز ندارد.
+Aspose.Cells API می تواند برای ایجاد، ویرایش، تبدیل و رندر فرمت های اکسل Microsoft به فرمت های مختلف استفاده شود. علاوه بر این، می توان از آن برای نمودارهای جامع، گزارش مقیاس پذیر و محاسبات قابل اعتماد در برنامه های نرم افزاری استفاده کرد. Aspose.Cells یک API مستقل است و به هیچ نرم افزاری مانند Microsoft یا OpenOffice نیاز ندارد.
 
 {{% /blocks/products/pf/agp/content %}}
 

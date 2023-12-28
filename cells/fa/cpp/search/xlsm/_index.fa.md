@@ -2,6 +2,7 @@
 title:  سند XLSM را بدون باز کردن از طریق C++ جستجو کنید
 weight: 9280
 description: C++ کد مثال برای جستجوی کلمات با الگو در فایل XLSM در C++ Runtime Environment برای Windows 32 بیتی، Windows 64 بیتی و لینوکس 64 بیتی.
+keywords: [C++ Aspose.Cells., C++ search words with pattern in xlsm file., C++ find words with pattern in xlsm file., C++ search string with pattern in xlsm file., C++ find words with pattern in xlsm file., C++ search words in xlsm file., C++ find words in xlsm file., C++ search string in xlsm file., C++ find string in xlsm file]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="فرمت های XLSM را در C++ جستجو کنید" h2="جستجوی سند بومی و با کارایی بالا XLSM با استفاده از API های سمت سرور Aspose.Cells for C++، بدون استفاده از نرم افزارهایی مانند Microsoft یا Adobe PDF." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" sourceAdditionalConversionTag="" additionalConversionTag="" pfName="Aspose.Cells" subTitlepfName="for C++" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="XLSM" >}}
@@ -41,11 +42,11 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/text %}}
 
-فایل XLSM را با نمونه سازی کلاس IWorkbook بارگیری کنید.
-+ کلاس IReplaceOptions را Instanti کنید.
++ فایل XLSM را با نمونه سازی کلاس Workbook بارگیری کنید.
++ کلاس ReplaceOptions را Instantiate کنید.
 + تنظیم الگوی مورد نیاز مانند SetCaseSensitive (مقدار bool)، SetMatchEntireCellContents (مقدار bool).
-+ از روش IWorkbook->Replace(..) با گزینه های مربوطه استفاده کنید.
-+ فایل XLSM را با استفاده از روش IWorkbook->Save(.) ذخیره کنید.
+از روش Workbook::Replace(...) با گزینه های مربوطه استفاده کنید.
++ فایل XLSM را با استفاده از روش Workbook::Save(...) ذخیره کنید.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -66,29 +67,33 @@ PM> Install-Package Aspose.Cells.Cpp
 
 ```cs
 
+Aspose::Cells::Startup();
+
 // Source directory path.
-StringPtr srcDir = new String("SourcePath\\");
+U16String srcDir(u"SourcePath\\");
 
 // Output directory path.
-StringPtr outDir = new String("OutputPath\\");
+U16String outDir(u"OutputPath\\");
 
 // Load XLSM file
-intrusive_ptr<IWorkbook>  wkb = Factory::CreateIWorkbook(srcDir->StringAppend(new String("sourceFile.xlsm")));
+Workbook  wkb(srcDir + u"sourceFile.xlsm");
 
 // Create an instance of the IReplaceOptions class
-intrusive_ptr<IReplaceOptions> replaceOptions = Factory::CreateIReplaceOptions();
+ReplaceOptions replaceOptions;
 
 // Set case sensitivity option
-replaceOptions->SetCaseSensitive(false);
+replaceOptions.SetCaseSensitive(false);
 
 // Set text matching option
-replaceOptions->SetMatchEntireCellContents(false);
+replaceOptions.SetMatchEntireCellContents(false);
 
 // Replace text
-wkb->Replace(new String("Text to find"), new String("Text replacement"), replaceOptions);
+wkb.Replace(u"Text to find", u"Text replacement", replaceOptions);
 
 // Save as XLSM file
-wkb->Save(outDir->StringAppend(new String("outputFile.xlsm")));  
+wkb.Save(outDir + u"outputFile.xlsm");
+
+Aspose::Cells::Cleanup();
 
 ```
 

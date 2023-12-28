@@ -1,7 +1,8 @@
 ---
 title:  .NET اکسل API | فرمت های صفحه گسترده پردازش via .NET هسته
 weight: 2030
-description: C# ASP.NET کتابخانه VB.NET برای کار با اسناد اکسل Microsoft. ایجاد خواندن نوشتن ذخیره و چاپ فایل های صفحه گسترده. به فرمت های PDF یا بیشتر تبدیل کنید
+description: C# ASP.NET کتابخانه VB.NET برای ایجاد، تعمیر، ادغام، تجزیه و تبدیل فایل های اکسل. اکسل را به PDF، JSON، XML، TSV، HTML و غیره تبدیل کنید.
+keywords: [Aspose.Cells C# Create repair parse merge convert JSON Excel XML PDF HTML TSV SQL TXT PNG JPEG and more formats]
 ---
 {{< blocks/products/pf/main-wrap-class >}}
 {{< blocks/products/pf/i18n/upper-banner h1="APIهای اکسل via .NET را دستکاری کنید" h2="خواندن و نوشتن فایل های صفحه گسترده در پلتفرم های .NET، .NET Core و Xamarin. صفحات گسترده را بدون Microsoft Excel به فرمت های دیگر صادر کنید." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/headers/aspose_cells-for-net.svg" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="https://downloads.aspose.com/cells/net" >}}
@@ -117,7 +118,7 @@ Aspose.Cells for .NET یک برنامه نویسی صفحه گسترده اکس�
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="استقلال پلتفرم" description="API از فریم ورک .NET، .NET Core و پلتفرم Xamarin پشتیبانی می کند. علاوه بر این، می توان از آن با Mono و چندین پلتفرم دیگر از طریق COM Interop استفاده کرد." >}}
+{{< blocks/products/pf/carousel-item h3="سکوی استقلال" description="API از فریم ورک .NET، .NET Core و پلتفرم Xamarin پشتیبانی می کند. علاوه بر این، می توان از آن با Mono و چندین پلتفرم دیگر از طریق COM Interop استفاده کرد." >}}
 <div class="diagram1 d1-net">
  <div class="d1-row">
   <div class="d1-col d1-left">

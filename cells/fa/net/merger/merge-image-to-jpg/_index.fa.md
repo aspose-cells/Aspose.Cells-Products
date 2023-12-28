@@ -1,8 +1,8 @@
 ---
 title: IMAGE را به JPG ادغام کنید - IMAGE را با JPG در C# ترکیب کنید
 url: /fa/net/merger/merge-image-to-jpg/ 
-description: Aspose اکسل. C# Aspose.Cells. ادغام رایگان IMAGE به فرمت ذخیره JPG. C# IMAGE را با فرمت JPG ترکیب کنید. IMAGE را با JPG در C# ادغام کنید. IMAGE Merge.
-keywords: [Aspose Excel., C# Aspose.Cells., Merge IMAGE to JPG in C#., Free Online C# Merge IMAGE to jpg., C# Combine IMAGE to JPG Online for Free., IMAGE Merge]
+description: Aspose اکسل. C# Aspose.Cells. IMAGE را با فرمت ذخیره JPG ادغام کنید. C# IMAGE را با فرمت JPG ترکیب کنید. IMAGE را با JPG در C# ادغام کنید. IMAGE Merge.
+keywords: [Aspose Excel., C# Aspose.Cells., Merge IMAGE to JPG in C#., C# Merge IMAGE to jpg., C# Combine IMAGE to JPG., IMAGE Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="IMAGE را از طریق C# به JPG ادغام کنید" h2="کتابخانه پرسرعت C# برای ادغام IMAGE به JPG. از تبدیل اکسل ما API برای توسعه نرم افزار سطح بالا و مستقل از پلت فرم در C# استفاده کنید. این یک راه حل نرم افزاری حرفه ای برای وارد کردن و صادرات Excel, CSV, OpenOffice, PDF, HTML, image و بسیاری از فرمت های اکسل دیگر است." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="IMAGE" additionalConversionTag="JPG" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., C# Aspose.Cells., Merge IMAGE to JPG in C#., Free Onli
 
 {{% blocks/products/pf/agp/content h2="IMAGE را با JPG با استفاده از C# ادغام کنید" %}}
 
- چگونه IMAGE را با JPG ادغام کنم؟ با کتابخانه Aspose.Cells for .NET، می توانید به راحتی IMAGE را به صورت برنامه نویسی با چند خط کد به JPG ادغام کنید.[Aspose.Cells for .NET](https://products.aspose.com/cells/net)قادر به ساخت برنامه های چند پلتفرمی با قابلیت تولید، تغییر، تبدیل، رندر و چاپ تمام فایل های اکسل است. .NET اکسل API نه تنها بین فرمت های صفحه گسترده تبدیل می کند، بلکه می تواند فایل های اکسل را به صورت تصویر رندر کند. انتخاب عالی برای تبادل اسناد در استانداردهای صنعتی فرمت ها باز کن[NuGet](https://www.nuget.org/packages/aspose.cells) Package Manager Aspose.Cells را جستجو و نصب کنید. همچنین می توانید از دستور زیر در کنسول Package Manager استفاده کنید.
+ چگونه IMAGE را با JPG ادغام کنم؟ با کتابخانه Aspose.Cells for .NET، می توانید به راحتی IMAGE را به صورت برنامه نویسی با چند خط کد به JPG ادغام کنید.[Aspose.Cells for .NET](https://products.aspose.com/cells/net)قادر به ساخت برنامه های چند پلتفرمی با قابلیت تولید، تغییر، تبدیل، رندر و چاپ تمام فایل های اکسل است. .NET اکسل API نه تنها بین فرمت های صفحه گسترده تبدیل می شود، بلکه می تواند فایل های اکسل را به صورت تصویر، PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT و موارد دیگر ارائه دهد، بنابراین آن را به گزینه ای عالی برای تبادل اسناد در قالب های استاندارد صنعتی تبدیل می کند. باز کن[NuGet](https://www.nuget.org/packages/aspose.cells) Package Manager Aspose.Cells را جستجو و نصب کنید. همچنین می توانید از دستور زیر در کنسول Package Manager استفاده کنید.
 
 {{% blocks/products/pf/agp/code-block title="فرمان کنسول Package Manager" offSpacer="true" %}}
 
@@ -26,7 +26,7 @@ PM> Install-Package Aspose.Cells
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="IMAGE را با JPG در C# آنلاین به صورت رایگان ادغام کنید" %}}
+{{% blocks/products/pf/agp/content h2="IMAGE را با JPG در C# ادغام کنید" %}}
 
 مثال زیر نحوه ادغام IMAGE به JPG را در Aspose.Cells for .NET نشان می دهد.
 {{% blocks/products/pf/agp/text %}}
@@ -37,7 +37,7 @@ PM> Install-Package Aspose.Cells
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="آنلاین رایگان برای ادغام IMAGE به JPG در C#" InputFormat="png" InputFormat2="jpg" outformat="jpg" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="net" %}}
+{{% cells-merger title="نمونه کد برای ادغام IMAGE به JPG در C#" InputFormat="png" InputFormat2="jpg" outformat="jpg" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="net" %}}
 
 {{% blocks/products/pf/agp/content h2="نحوه ادغام IMAGE به JPG از طریق C#" %}}
 

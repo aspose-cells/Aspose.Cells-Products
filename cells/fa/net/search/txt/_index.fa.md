@@ -2,6 +2,7 @@
 title:  سند TXT را بدون باز کردن via .NET جستجو کنید
 weight: 8410
 description: کد منبع C# برای جستجوی کلمات با الگو در فایل TXT در .NET Framework، .NET Core، Mono یا Xamarin Platforms.
+keywords: [C# Aspose.Cells., c# search words with pattern in txt file., c# find words with pattern in txt file., c# search string with pattern in txt file., c# find words with pattern in txt file., c# search words in txt file., c# find words in txt file., c# search string in txt file., c# find string in txt file]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="فرمت های TXT را در C# جستجو کنید" h2="جستجوی سند بومی و با کارایی بالا TXT با استفاده از API های سمت سرور Aspose.Cells for .NET، بدون استفاده از نرم افزارهایی مانند Microsoft یا Adobe PDF." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="TXT" >}}
@@ -13,7 +14,7 @@ description: کد منبع C# برای جستجوی کلمات با الگو د�
 
  برای جستجوی فایل TXT، از
  [Aspose.Cells for .NET](https://products.aspose.com/cells/net) 
-API که دارای ویژگی های غنی، قدرتمند و آسان برای جستجوی سند است API برای پلت فرم C#. باز کن
+ API که دارای ویژگی های غنی، قدرتمند و آسان برای جستجوی سند است API برای پلت فرم C#. باز کن
  [NuGet](https://www.nuget.org/packages/aspose.cells) 
  مدیر بسته، جستجو کنید
  **Aspose.Cells** 

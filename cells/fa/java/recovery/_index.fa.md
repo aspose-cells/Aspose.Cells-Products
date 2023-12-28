@@ -1,6 +1,7 @@
 ---
-title: تعمیر فایل اکسل via Java
-description: یک فایل اکسل خراب را با استفاده از Java تعمیر کنید. ابزار بازیابی برای تعمیر فایل اکسل خراب در برنامه Java.
+title: Java تعمیر اکسل - بازیابی و رفع خرابی فایل اکسل
+description: Java Aspose.Cells. تعمیر اکسل. فایل اکسل را اصلاح کنید. ابزار بازیابی اکسل اکسل فساد بازیابی اطلاعات اکسل بازیابی فایل اکسل بازیابی فایل اکسل خراب
+keywords: [Java Aspose.Cells., repair excel file., excel repair., recover corrupted excel file., repair corrupted excel., recover excel., fix excel file., excel corruption., restore excel data., excel file recovery., recover corrupted excel file.]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="بازیابی فایل اکسل via Java" h2="ساخت اپلیکیشن Java برای تعمیر فایل های اکسل با استفاده از Java." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="EXCEL" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="" fileiconsmall1="XLS" fileiconsmall2="XLSB" fileiconsmall3="XLSX" fileiconsmall4="XLSM" fileiconsmall5="ODS" >}}
@@ -10,7 +11,7 @@ description: یک فایل اکسل خراب را با استفاده از Java 
 
 {{% blocks/products/pf/agp/content h2="با استفاده از Java فایل EXCEL را تعمیر کنید" %}}
 
- به منظور تعمیر فایل EXCEL ما استفاده خواهیم کرد[Aspose.Cells for Java](https://products.aspose.com/cells/java)API که یک پلتفرم دستکاری اسناد غنی، قدرتمند و آسان برای استفاده است API for Java.
+ به منظور تعمیر فایل EXCEL ما استفاده خواهیم کرد[Aspose.Cells for Java](https://products.aspose.com/cells/java) API که یک پلتفرم دستکاری اسناد غنی، قدرتمند و آسان برای استفاده است API for Java.
  
  Aspose.Cells API می تواند برای ایجاد، ویرایش، تبدیل و رندر فرمت های اکسل Microsoft به فرمت های مختلف استفاده شود. علاوه بر این، می توان از آن برای نمودارهای جامع، گزارش مقیاس پذیر و محاسبات قابل اعتماد در برنامه های نرم افزاری استفاده کرد. Aspose.Cells یک API مستقل است و به هیچ نرم افزاری مانند Microsoft یا OpenOffice نیاز ندارد.
 

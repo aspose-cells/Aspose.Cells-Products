@@ -1,7 +1,7 @@
 ---
 title: ایجاد TABDELIMITED - ایجاد فایل TABDELIMITED در Java
-description: Aspose اکسل. Java فایل TABDELIMITED ایجاد کنید. ایجاد TABDELIMITED Java. Java TABDELIMITED Creater. TABDELIMITED را در Java ایجاد کنید. فایل TABDELIMITED را با استفاده از Java ایجاد کنید.
-keywords: [Aspose Excel., Java Aspose.Cells., Create TABDELIMITED Java., Java TABDELIMITED Creater., Create TABDELIMITED file in Java., Generate TABDELIMITED file in Java]
+description: Aspose اکسل. Java فایل TABDELIMITED را به سرعت و به راحتی با Aspose.Cells ایجاد کنید. با استفاده از Java فایل TABDELIMITED ایجاد کنید. در Java TABDELIMITED ایجاد کنید. Java TABDELIMITE Creaater.
+keywords: [Aspose Excel., Java Aspose.Cells., Java Create TABDELIMITED file., Generate TABDELIMITED file in Java., Create TABDELIMITED file using Java., Write data to TABDELIMITED file via Java., Create a TABDELIMITED file in Java., Java Generate a TABDELIMITED file., Java TABDELIMITED Creater]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="فایل TABDELIMITED را در Java ایجاد کنید" h2="کتابخانه پرسرعت Java برای ایجاد فایل TABDELIMITED. این یک راه حل نرم افزاری حرفه ای برای واردات و صادرات XLSX، PDF و بسیاری از فرمت های دیگر با استفاده از Java است." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="TABDELIMITED" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -11,7 +11,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Create TABDELIMITED Java., Java TA
 
 {{% blocks/products/pf/agp/content h2="با استفاده از Java فایل TABDELIMITED ایجاد کنید" %}}
 
- چگونه فایل TABDELIMITED ایجاد کنیم؟ با کتابخانه Aspose.Cells for Java به راحتی می توانید فایل TABDELIMITED را به صورت برنامه نویسی با چند خط کد ایجاد کنید.[Aspose.Cells for Java](https://products.aspose.com/cells/java) قادر به ساخت برنامه های چند پلتفرمی با قابلیت تولید، تغییر، تبدیل، رندر و چاپ تمام فایل های اکسل است. Java اکسل API نه تنها بین فرمت های صفحه گسترده تبدیل می کند، بلکه می تواند فایل های اکسل را به صورت تصویر رندر کند. انتخاب عالی برای تبادل اسناد در استانداردهای صنعتی فرمت ها آخرین نسخه آن را می توانید مستقیماً از اینجا دانلود کنید[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) و با افزودن تنظیمات زیر به pom.xml آن را در پروژه مبتنی بر Maven خود نصب کنید.
+ چگونه فایل TABDELIMITED ایجاد کنیم؟ با کتابخانه Aspose.Cells for Java به راحتی می توانید فایل TABDELIMITED را به صورت برنامه نویسی با چند خط کد ایجاد کنید.[Aspose.Cells for Java](https://products.aspose.com/cells/java)قادر به ساخت برنامه های چند پلتفرمی با قابلیت تولید، تغییر، تبدیل، رندر و چاپ تمام فایل های اکسل است. Java اکسل API نه تنها بین فرمت های صفحه گسترده تبدیل می شود، بلکه می تواند فایل های اکسل را به صورت تصویر، PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT و موارد دیگر ارائه دهد، بنابراین آن را به گزینه ای عالی برای تبادل اسناد در قالب های استاندارد صنعتی تبدیل می کند. آخرین نسخه آن را می توانید مستقیماً از اینجا دانلود کنید[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) و با افزودن تنظیمات زیر به pom.xml آن را در پروژه مبتنی بر Maven خود نصب کنید.
 
 {{% blocks/products/pf/agp/code-block title="مخزن" offSpacer="true" %}}
 
@@ -50,7 +50,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Create TABDELIMITED Java., Java TA
 
 {{% blocks/products/pf/agp/text %}}
 
- ایجاد، بارگیری، تغییر و تبدیل فایل‌های TABDELIMITED در برنامه‌های گزارش‌دهی مختلف برای پردازش داده‌ها، تنها در چند خط کد برای توسعه‌دهندگان آسان است.
+ایجاد، بارگیری، تغییر و تبدیل فایل‌های TABDELIMITED در برنامه‌های گزارش‌دهی مختلف برای پردازش داده‌ها، تنها در چند خط کد برای توسعه‌دهندگان آسان است.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -101,7 +101,7 @@ wkb.save("Excel.tsv");
 
 {{% blocks/products/pf/agp/text %}}
 
-قبل از اجرای کد منبع نمونه تبدیل Java، مطمئن شوید که پیش نیازهای زیر را دارید.
+ قبل از اجرای کد منبع نمونه تبدیل Java، مطمئن شوید که پیش نیازهای زیر را دارید.
 
 {{% /blocks/products/pf/agp/text %}}
 

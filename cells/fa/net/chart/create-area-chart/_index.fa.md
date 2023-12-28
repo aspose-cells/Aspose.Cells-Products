@@ -1,6 +1,7 @@
 ---
 title: ایجاد نمودارهای منطقه ای از طریق C#
 description: C# کد نمونه برای ایجاد نمودارهای منطقه در اکسل با استفاده از کتابخانه .NET. از این کد برای ایجاد نمودار منطقه در MS Excel در VB.NET، Asp.NET یا هر برنامه مبتنی بر .NET استفاده کنید.
+keywords: [C# Aspose.Cells., c# add Area Chart., c# insert Area Chart., c# create Area Chart]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 

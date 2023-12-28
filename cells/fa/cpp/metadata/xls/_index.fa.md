@@ -2,6 +2,7 @@
 title:  ویرایش یا مشاهده فراداده سند XLS از طریق C++
 weight: 2150
 description: C++ کد نمونه برای ویرایش یا مشاهده فراداده فایل XLS در C++ Runtime Environment برای Windows 32 بیتی، Windows 64 بیتی و لینوکس 64 بیتی.
+keywords: [C++ Aspose.Cells., C++ view xls metadata., C++ add xls metadata., C++ insert xls metadata., C++ edit xls metadata., C++ remove xls metadata., C++ extract xls metadata., C++ modify xls metadata]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="استخراج فراداده XLS از طریق C++" h2="برنامه های C++ خود را بسازید تا با استفاده از API های سمت سرور، متادیتا را از فایل های XLS اضافه، ویرایش، حذف یا استخراج کنید." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLS" pfName="Aspose.Cells" subTitlepfName="for C++" downloadUrl="" fileiconsmall1="PPTX" fileiconsmall2="DOCX" fileiconsmall3="XLSX" fileiconsmall4="PDF" fileiconsmall5=" ODP " >}}
@@ -41,9 +42,9 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/text %}}
 
-+ فایل XLS را با استفاده از CreateIWorkbookMetadata بارگیری کنید
-+ با استفاده از CreateIMetadataOptions گزینه ها را ایجاد کنید
-+ ویژگی های جدید را توسط GetICustomDocumentProperties() و AddIDocumentProperty اضافه کنید
++ با استفاده از MetadataOptions گزینه هایی ایجاد کنید
++ فایل XLS را با استفاده از WorkbookMetadata بارگیری کنید
++ ویژگی های جدید را با GetCustomDocumentProperties() و Add اضافه کنید
 + سند XLS را ذخیره کنید
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
@@ -65,10 +66,17 @@ PM> Install-Package Aspose.Cells.Cpp
 
 ```cs
 
-intrusive_ptr<IMetadataOptions> options = Factory::CreateIMetadataOptions(MetadataType_DocumentProperties);
-intrusive_ptr<IWorkbookMetadata> meta = Factory::CreateIWorkbookMetadata(new String("c:\\book1.xls"), options);
-meta->GetICustomDocumentProperties()->AddIDocumentProperty(new String("test"), (StringPtr)new String("test"));
-meta->Save(new String("c:\\book2.xls"));  
+Aspose::Cells::Startup();
+
+//Load the sample excel file
+MetadataOptions options(MetadataType::Document_Properties);
+WorkbookMetadata meta(u"c:\\book1.xls", options);
+//Add a new custom property
+meta.GetCustomDocumentProperties().Add(u"test", u"test");
+//Save the output excel file
+meta.Save(u"c:\\book2.xls"); 
+
+Aspose::Cells::Cleanup();
 
 ```
 

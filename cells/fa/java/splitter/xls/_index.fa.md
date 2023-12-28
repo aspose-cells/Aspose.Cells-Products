@@ -2,6 +2,7 @@
 title:  تقسیم XLS فایل via Java
 weight: 610
 description: Java کد نمونه برای تقسیم اسناد XLS در Java Runtime Environment برای JSP/JSF Application and Desktop Applications.
+keywords: [Java Aspose.Cells., Java split xls files., Java how to split xls files into multiple files., Java xls splitter., Java split Cell., Cell splitter using Java]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="تقسیم XLS فایل via Java" h2="XLS تقسیم با کمک کتابخانه سمت سرور Java." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="XLS" >}}
@@ -62,7 +63,7 @@ description: Java کد نمونه برای تقسیم اسناد XLS در Java R
 + فایل XLS را با استفاده از کلاس Workbook بارگیری کنید.
 + در هر برگه تکرار کنید
 + شیء کلاس Workbook جدید ایجاد کنید
-+ برگه انتخاب شده را در شی جدید کپی کنید
+برگه انتخاب شده را در شی جدید کپی کنید
 + روش ذخیره با مسیر فایل جدید XLS تماس بگیرید.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

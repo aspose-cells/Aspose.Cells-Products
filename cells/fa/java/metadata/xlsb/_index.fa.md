@@ -2,6 +2,7 @@
 title:  ویرایش یا مشاهده XLSB فایل های فراداده via Java
 weight: 7290
 description: Java کد نمونه برای ویرایش یا مشاهده فراداده با فرمت XLSB در Java Runtime Environment for JSP/JSF Application and Desktop Applications.
+keywords: [Java Aspose.Cells., Java view xlsb metadata., Java add xlsb metadata., Java insert xlsb metadata., Java edit xlsb metadata., Java remove xlsb metadata., Java extract xlsb metadata., Java modify xlsb metadata]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Extract XLSB Metadata via Java" h2="برنامه های Java خود را بسازید تا با استفاده از API های سمت سرور، متادیتا را از فایل های XLSB اضافه، ویرایش، حذف یا استخراج کنید." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSB" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="" fileiconsmall1="PPTX" fileiconsmall2="DOCX" fileiconsmall3="XLSX" fileiconsmall4="PDF" fileiconsmall5=" ODP " >}}
@@ -13,7 +14,7 @@ description: Java کد نمونه برای ویرایش یا مشاهده فرا
 
  برای به دست آوردن فراداده فایل XLSB، از آن استفاده خواهیم کرد
  [Aspose.Cells for Java](https://products.aspose.com/cells/java) 
-API که یک پلتفرم ابرداده غنی، قدرتمند و آسان برای استفاده است API for Java. آخرین نسخه آن را می توانید مستقیماً از اینجا دانلود کنید
+ API که یک پلتفرم ابرداده غنی، قدرتمند و آسان برای استفاده است API for Java. آخرین نسخه آن را می توانید مستقیماً از اینجا دانلود کنید
  [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) 
  و با افزودن تنظیمات زیر به pom.xml آن را در پروژه مبتنی بر Maven خود نصب کنید.
 

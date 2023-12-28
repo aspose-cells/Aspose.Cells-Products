@@ -18,7 +18,7 @@ description: فایل های صفحه گسترده Excel و OpenOffice را تن
 {{% /blocks/products/pf/feature-page-section %}}
 
 {{% blocks/products/pf/feature-page-section h2="ادغام چندین فایل اکسل" %}}
-[CellsHelper.MergeFiles](https://reference.aspose.com/cells/net/aspose.cells/cellshelper/methods/mergefiles)روش از ادغام داده‌ها، سبک و فرمول‌های یک فایل اکسل در یک صفحه گسترده جدید با همان فرمت پشتیبانی می‌کند. این یک راه کارآمد برای ادغام چندین فایل در حین استفاده از کش است.
+[CellsHelper.MergeFiles](https://reference.aspose.com/cells/net/aspose.cells/cellshelper/methods/mergefiles) روش از ادغام داده‌ها، سبک و فرمول‌های یک فایل اکسل در یک صفحه گسترده جدید با همان فرمت پشتیبانی می‌کند. این یک راه کارآمد برای ادغام چندین فایل در حین استفاده از کش است.
 {{% blocks/products/pf/feature-page-code h3="C# کد برای ادغام چندین فایل اکسل" %}}
 
 {{< gist "aspose-com-gists" "d7c757e7471bd38006ac0d35d221b2e2" "merge-several-excel-files.cs" >}}

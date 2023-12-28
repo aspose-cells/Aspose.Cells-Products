@@ -1,7 +1,7 @@
 ---
 title: ایجاد MD - ایجاد فایل MD در Java
-description: Aspose اکسل. Java ایجاد فایل MD. ایجاد MD Java. Java MD Creater. MD را در Java ایجاد کنید. فایل MD را با استفاده از Java ایجاد کنید.
-keywords: [Aspose Excel., Java Aspose.Cells., Create MD Java., Java MD Creater., Create MD file in Java., Generate MD file in Java]
+description: Aspose اکسل. Java فایل MD را به سرعت و به راحتی با Aspose.Cells ایجاد کنید. فایل MD را با استفاده از Java ایجاد کنید. MD را در Java ایجاد کنید. Java MD Creater.
+keywords: [Aspose Excel., Java Aspose.Cells., Java Create MD file., Generate MD file in Java., Create MD file using Java., Write data to MD file via Java., Create a MD file in Java., Java Generate a MD file., Java MD Creater]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="فایل MD را در Java ایجاد کنید" h2="کتابخانه پرسرعت Java برای ایجاد فایل MD. این یک راه حل نرم افزاری حرفه ای برای واردات و صادرات XLSX، PDF و بسیاری از فرمت های دیگر با استفاده از Java است." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="MD" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -11,7 +11,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Create MD Java., Java MD Creater.,
 
 {{% blocks/products/pf/agp/content h2="با استفاده از Java فایل MD ایجاد کنید" %}}
 
- چگونه فایل MD بسازیم؟ با کتابخانه Aspose.Cells for Java به راحتی می توانید فایل MD را به صورت برنامه نویسی با چند خط کد ایجاد کنید.[Aspose.Cells for Java](https://products.aspose.com/cells/java) قادر به ساخت برنامه های چند پلتفرمی با قابلیت تولید، تغییر، تبدیل، رندر و چاپ تمام فایل های اکسل است. Java اکسل API نه تنها بین فرمت های صفحه گسترده تبدیل می کند، بلکه می تواند فایل های اکسل را به صورت تصویر رندر کند. انتخاب عالی برای تبادل اسناد در استانداردهای صنعتی فرمت ها آخرین نسخه آن را می توانید مستقیماً از اینجا دانلود کنید[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) و با افزودن تنظیمات زیر به pom.xml آن را در پروژه مبتنی بر Maven خود نصب کنید.
+چگونه فایل MD بسازیم؟ با کتابخانه Aspose.Cells for Java به راحتی می توانید فایل MD را به صورت برنامه نویسی با چند خط کد ایجاد کنید.[Aspose.Cells for Java](https://products.aspose.com/cells/java)قادر به ساخت برنامه های چند پلتفرمی با قابلیت تولید، تغییر، تبدیل، رندر و چاپ تمام فایل های اکسل است. Java اکسل API نه تنها بین فرمت های صفحه گسترده تبدیل می شود، بلکه می تواند فایل های اکسل را به صورت تصویر، PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT و موارد دیگر ارائه دهد، بنابراین آن را به گزینه ای عالی برای تبادل اسناد در قالب های استاندارد صنعتی تبدیل می کند. آخرین نسخه آن را می توانید مستقیماً از اینجا دانلود کنید[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) و با افزودن تنظیمات زیر به pom.xml آن را در پروژه مبتنی بر Maven خود نصب کنید.
 
 {{% blocks/products/pf/agp/code-block title="مخزن" offSpacer="true" %}}
 
@@ -101,7 +101,7 @@ wkb.save("Excel.md");
 
 {{% blocks/products/pf/agp/text %}}
 
-قبل از اجرای کد منبع نمونه تبدیل Java، مطمئن شوید که پیش نیازهای زیر را دارید.
+ قبل از اجرای کد منبع نمونه تبدیل Java، مطمئن شوید که پیش نیازهای زیر را دارید.
 
 {{% /blocks/products/pf/agp/text %}}
 

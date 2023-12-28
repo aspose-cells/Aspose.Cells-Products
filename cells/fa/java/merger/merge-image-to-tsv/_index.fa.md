@@ -1,8 +1,8 @@
 ---
 title: IMAGE را با TSV ادغام کنید - IMAGE را با TSV در Java ترکیب کنید
 url: /fa/java/merger/merge-image-to-tsv/ 
-description: Aspose اکسل. Java Aspose.Cells. ادغام آنلاین رایگان IMAGE به TSV Saveformat. Java IMAGE را با فرمت TSV ترکیب کنید. IMAGE را به TSV در Java ادغام کنید. IMAGE Merge.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge IMAGE to TSV in Java., Free Online Java Merge IMAGE to tsv., Java Combine IMAGE to TSV Online for Free., IMAGE Merge]
+description: Aspose اکسل. Java Aspose.Cells. IMAGE را با فرمت ذخیره TSV ادغام کنید. Java IMAGE را با فرمت TSV ترکیب کنید. IMAGE را به TSV در Java ادغام کنید. IMAGE Merge.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge IMAGE to TSV in Java., Java Merge IMAGE to tsv., Java Combine IMAGE to TSV., IMAGE Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="IMAGE را با TSV via Java ادغام کنید" h2="کتابخانه پرسرعت Java برای ادغام IMAGE به TSV. از تبدیل اکسل ما API برای توسعه نرم افزار سطح بالا و مستقل از پلت فرم در Java استفاده کنید. این یک راه حل نرم افزار حرفه ای برای وارد کردن و صادرات Excel, CSV, OpenOffice, PDF, HTML, image و بسیاری از فرمت های excel دیگر است." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="IMAGE" additionalConversionTag="TSV" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Merge IMAGE to TSV in Java., Free 
 
 {{% blocks/products/pf/agp/content h2="ادغام IMAGE به TSV با استفاده از Java" %}}
 
- چگونه IMAGE را با TSV ادغام کنم؟ با کتابخانه Aspose.Cells for Java، می توانید به راحتی با چند خط کد، IMAGE را به TSV ادغام کنید.[Aspose.Cells for Java](https://products.aspose.com/cells/java) قادر به ساخت برنامه های چند پلتفرمی با قابلیت تولید، تغییر، تبدیل، رندر و چاپ تمام فایل های اکسل است. Java اکسل API نه تنها بین فرمت های صفحه گسترده تبدیل می کند، بلکه می تواند فایل های اکسل را به صورت تصویر رندر کند. انتخاب عالی برای تبادل اسناد در استانداردهای صنعتی فرمت ها آخرین نسخه آن را می توانید مستقیماً از اینجا دانلود کنید[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) و با افزودن تنظیمات زیر به pom.xml آن را در پروژه مبتنی بر Maven خود نصب کنید.
+ چگونه IMAGE را با TSV ادغام کنم؟ با کتابخانه Aspose.Cells for Java، می توانید به راحتی با چند خط کد، IMAGE را به TSV ادغام کنید.[Aspose.Cells for Java](https://products.aspose.com/cells/java)قادر به ساخت برنامه های چند پلتفرمی با قابلیت تولید، تغییر، تبدیل، رندر و چاپ تمام فایل های اکسل است. Java اکسل API نه تنها بین فرمت های صفحه گسترده تبدیل می شود، بلکه می تواند فایل های اکسل را به صورت تصویر، PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT و موارد دیگر ارائه دهد، بنابراین آن را به گزینه ای عالی برای تبادل اسناد در قالب های استاندارد صنعتی تبدیل می کند. آخرین نسخه آن را می توانید مستقیماً از اینجا دانلود کنید[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) و با افزودن تنظیمات زیر به pom.xml آن را در پروژه مبتنی بر Maven خود نصب کنید.
 
 {{% blocks/products/pf/agp/code-block title="مخزن" offSpacer="true" %}}
 
@@ -45,7 +45,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Merge IMAGE to TSV in Java., Free 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="IMAGE را به TSV در Java به صورت آنلاین و رایگان ادغام کنید" %}}
+{{% blocks/products/pf/agp/content h2="IMAGE را به TSV در Java ادغام کنید" %}}
 
 مثال زیر نحوه ادغام IMAGE را با TSV در Aspose.Cells for Java نشان می دهد.
 {{% blocks/products/pf/agp/text %}}
@@ -56,13 +56,13 @@ keywords: [Aspose Excel., Java Aspose.Cells., Merge IMAGE to TSV in Java., Free 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="آنلاین رایگان برای ادغام IMAGE به TSV در Java" InputFormat="png" InputFormat2="tsv" outformat="tsv" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="java" %}}
+{{% cells-merger title="نمونه کد برای ادغام IMAGE به TSV در Java" InputFormat="png" InputFormat2="tsv" outformat="tsv" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="نحوه ادغام IMAGE به TSV via Java" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- آیا نیاز به ادغام IMAGE با TSV از نظر برنامه ای دارید؟ یک سند اساسی ادغام و الحاق با[Aspose.Cells for Java](https://products.aspose.com/cells/java) API ها را می توان تنها با چند خط کد انجام داد.
+آیا نیاز به ادغام IMAGE با TSV از نظر برنامه ای دارید؟ یک سند اساسی ادغام و الحاق با[Aspose.Cells for Java](https://products.aspose.com/cells/java) API ها را می توان تنها با چند خط کد انجام داد.
 
 {{% /blocks/products/pf/agp/text %}}
 

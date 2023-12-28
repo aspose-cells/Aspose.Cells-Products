@@ -2,6 +2,7 @@
 title:  استخراج متن و تصاویر از سند ODS via Java
 weight: 4740
 description: Java نمونه کد برای استخراج متن و تصاویر از فایل ODS در Java Runtime Environment for JSP/JSF Application and Desktop Applications.
+keywords: [Java Aspose.Cells., Java Extract text and images from ODS file., Java How to Parse ODS File., Java Extract text from ODS file., Extract images from ODS file using Java]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="فرمت های ODS را در Java تجزیه کنید" h2="تجزیه اسناد بومی و با کارایی بالا ODS با استفاده از APIهای Aspose.Cells for Java سمت سرور، بدون استفاده از نرم افزارهایی مانند Microsoft یا Adobe PDF." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="ODS" >}}
@@ -63,7 +64,7 @@ description: Java نمونه کد برای استخراج متن و تصاویر
 + برگه مورد نیاز را با استفاده از متد getWorksheets().get انتخاب کنید.
 + تمام سلول های صفحه انتخاب شده را با استفاده از getCells() دریافت کنید.
 + روی هر سلول تکرار کنید، متن آن را دریافت کنید.
-هر مقدار سلول را چاپ کنید یا از روش StringBuilder append() برای مشاهده به عنوان یک کل استفاده کنید
++ هر مقدار سلول را چاپ کنید یا از روش StringBuilder append() برای مشاهده به عنوان یک کل استفاده کنید
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

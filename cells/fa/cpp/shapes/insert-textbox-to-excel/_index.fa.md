@@ -2,6 +2,7 @@
 title:  TextBox را از طریق C++ در اکسل قرار دهید
 weight: 60
 description: C++ کد نمونه برای درج TextBox در فایل اکسل در C++ Runtime Environment برای Windows 32 بیتی، Windows 64 بیتی و لینوکس 64 بیتی.
+keywords: [C++ Aspose.Cells., C++ add TextBox., C++ insert TextBox., C++ create TextBox]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="TextBox را از طریق C++ در اکسل قرار دهید" h2="درج اشیاء با استفاده از عملکرد بومی و بالای سمت سرور Aspose.Cells for C++ API بدون استفاده از نرم افزارهایی مانند Microsoft یا Adobe PDF." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" sourceAdditionalConversionTag="" additionalConversionTag="" pfName="Aspose.Cells" subTitlepfName="for C++" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="XLSX" >}}
@@ -35,9 +36,9 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% blocks/products/pf/agp/feature-section-col title="مراحل درج TextBox به فایل اکسل از طریق C++" %}}
 
-نمونه سازی یک شی Workbook. (یا -> فایل XLSX را با مسیر کامل بارگیری کنید.)
++ نمونه سازی یک شی Workbook. (یا -> فایل XLSX را با مسیر کامل بارگیری کنید.)
 + کاربرگ را از طریق فهرست آن انتخاب کنید.
- + استفاده کنید[روش اضافه کردن](https://reference.aspose.com/cells/cpp/class/aspose.cells.drawing.i_shape_collection#aabfa692515c324008ab417a43fed206c) برای درج اشکال معادله در کاربرگ انتخاب شده
+ + استفاده کنید[روش اضافه کردن](https://reference.aspose.com/cells/cpp/aspose.cells.drawing/shapecollection/addtextbox/) برای درج اشکال معادله در کاربرگ انتخاب شده
 + کتاب کار را با فرمت XLSX ذخیره کنید.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
@@ -62,7 +63,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% blocks/products/pf/agp/code-block title="درج TextBox - C++" offSpacer="" %}}
 
-{{< gist "aspose-cells-gists" "6f7d9819d85793c3a3b5d040af42e1a9" "InsertTextBoxIntoWorksheet.cpp" >}}
+{{< gist "aspose-cells-gists" "6f7d9819d85793c3a3b5d040af42e1a9" "InsertTextBoxIntoWorksheet-new.cpp" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 
@@ -74,7 +75,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% blocks/products/pf/agp/content h2="درباره Aspose.Cells for C++ API" %}}
 
- Aspose.Cells API می تواند برای ایجاد، ویرایش، تبدیل و رندر فرمت های اکسل Microsoft به فرمت های مختلف استفاده شود. علاوه بر این، می توان از آن برای نمودارهای جامع، گزارش مقیاس پذیر و محاسبات قابل اعتماد در برنامه های نرم افزاری استفاده کرد. Aspose.Cells یک API مستقل است و به هیچ نرم افزاری مانند Microsoft یا OpenOffice نیاز ندارد.
+Aspose.Cells API می تواند برای ایجاد، ویرایش، تبدیل و رندر فرمت های اکسل Microsoft به فرمت های مختلف استفاده شود. علاوه بر این، می توان از آن برای نمودارهای جامع، گزارش مقیاس پذیر و محاسبات قابل اعتماد در برنامه های نرم افزاری استفاده کرد. Aspose.Cells یک API مستقل است و به هیچ نرم افزاری مانند Microsoft یا OpenOffice نیاز ندارد.
 
 {{% /blocks/products/pf/agp/content %}}
 

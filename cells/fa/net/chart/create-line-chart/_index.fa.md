@@ -1,6 +1,7 @@
 ---
 title:  نمودارهای خطی را از طریق C# ایجاد کنید
 description: C# نمونه کد برای ایجاد نمودارهای خطی در اکسل با استفاده از کتابخانه .NET. از این کد برای ایجاد نمودار خطی در MS Excel در VB.NET، Asp.NET یا هر برنامه مبتنی بر .NET استفاده کنید.
+keywords: [C# Aspose.Cells., c# add Line Chart., c# insert Line Chart., c# create Line Chart]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="نمودارهای خطی را از طریق C# ایجاد کنید" h2="ایجاد نمودارهای MS Excel بومی و با کارایی بالا به صورت برنامه نویسی با استفاده از API های سمت سرور .NET." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSX" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -10,7 +11,7 @@ description: C# نمونه کد برای ایجاد نمودارهای خطی د
 
 {{% blocks/products/pf/agp/content h2="" %}}
 
- ایجاد نمودارهای خطی به صورت پویا در برنامه در حال اجرا آسان است. به منظور ایجاد انواع نمودارها تا صفحات گسترده از ابتدا بدون نیاز به MS Office، ما از[Aspose.Cells for .NET](https://products.aspose.com/cells/net) API که ویژگی های مختلفی را برای ایجاد، دستکاری و تبدیل صفحات گسترده با استفاده از پلت فرم .NET ارائه می دهد. Aspose.Cells بسیاری از اشیاء نمودار انعطاف پذیر را فراهم می کند.
+ایجاد نمودارهای خطی به صورت پویا در برنامه در حال اجرا آسان است. به منظور ایجاد انواع نمودارها تا صفحات گسترده از ابتدا بدون نیاز به MS Office، ما از[Aspose.Cells for .NET](https://products.aspose.com/cells/net) API که ویژگی های مختلفی را برای ایجاد، دستکاری و تبدیل صفحات گسترده با استفاده از پلت فرم .NET ارائه می دهد. Aspose.Cells بسیاری از اشیاء نمودار انعطاف پذیر را فراهم می کند.
 {{% /blocks/products/pf/agp/content %}}
 
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
@@ -26,7 +27,7 @@ description: C# نمونه کد برای ایجاد نمودارهای خطی د
 1. فضای نام Aspose.Cells را وارد کنید
 1.  ايجاد كردن[**کتاب کار**](https://reference.aspose.com/cells/net/aspose.cells/workbook) نمونه کلاس
 1. مقداری داده به کاربرگ اضافه کنید.
-1.  a اضافه کنید[**خط**](https://reference.aspose.com/cells/net/aspose.cells.charts/charttype)نمودار به کاربرگ.
+1.  a اضافه کنید[**خط**](https://reference.aspose.com/cells/net/aspose.cells.charts/charttype) نمودار به کاربرگ.
 1.  دسترسی به جدید[**چارت سازمانی**](https://reference.aspose.com/cells/net/aspose.cells.charts/chart)هدف - شی.
 1.  منبع داده نمودار را با مشخص کنید[**Chart.SetChartDataRange**](https://https://reference.aspose.com/cells/net/aspose.cells.charts/chart/methods/setchartdatarange) روش.
 
@@ -37,7 +38,7 @@ description: C# نمونه کد برای ایجاد نمودارهای خطی د
 
 {{% blocks/products/pf/agp/text %}}
 
- فقط مطمئن شوید که سیستم دارای Microsoft Windows یا یک سیستم عامل سازگار با .NET Framework، .NET Core، Windows Azure، Mono یا Xamarin پلتفرم های 876 استودیو 3076 و همچنین محیط های توسعه است.
+فقط مطمئن شوید که سیستم دارای Microsoft Windows یا یک سیستم عامل سازگار با .NET Framework، .NET Core، Windows Azure، Mono یا Xamarin پلتفرم های 876 استودیو 3076 و همچنین محیط های توسعه است.
 
 {{% /blocks/products/pf/agp/text %}}
 

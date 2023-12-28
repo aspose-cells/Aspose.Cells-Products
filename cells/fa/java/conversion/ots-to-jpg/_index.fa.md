@@ -1,7 +1,7 @@
 ---
-title: Java OTS به JPG - تبدیل آنلاین OTS به JPG
-description: Aspose اکسل. Java Aspose.Cells. Java Aspose Cells. آنلاین رایگان Java تبدیل OTS به فرمت ذخیره JPG. Java OTS به فرمت JPG. OTS را در JPG Java ذخیره کنید.
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java OTS to JPG saveformat., Free Online OTS to JPG Java., Java Convert OTS to JPG]
+title: Java OTS به JPG - تبدیل OTS به JPG
+description: Aspose اکسل. تبدیل OTS به JPG سریع و آسان با Aspose.Cells. Java OTS به JPG. Java OTS را در JPG ذخیره کنید. OTS را با استفاده از Java به صورت JPG ذخیره کنید.
+keywords: [Aspose Excel., Java Aspose.Cells., Convert OTS to JPG in Java., Save OTS to JPG using Java., Java OTS to JPG saveformat., OTS to JPG Converter., Java Save OTS as JPG]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="OTS را در Java به JPG تبدیل کنید" h2="کتابخانه پرسرعت Java برای تبدیل OTS به JPG. این یک راه حل نرم افزاری حرفه ای برای وارد کردن و صادرات OTS، JPG و بسیاری از فرمت های دیگر با استفاده از Java است." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="JPG" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java OTS to JP
 
 {{% blocks/products/pf/agp/content h2="با استفاده از Java OTS را به JPG تبدیل کنید" %}}
 
- چگونه OTS را به JPG تبدیل کنم؟ با کتابخانه Aspose.Cells for Java می توانید به راحتی OTS را به صورت برنامه نویسی با چند خط کد به JPG تبدیل کنید.[Aspose.Cells for Java](https://products.aspose.com/cells/java) قادر به ساخت برنامه های چند پلتفرمی با قابلیت تولید، تغییر، تبدیل، رندر و چاپ تمام فایل های اکسل است. Java اکسل API نه تنها بین فرمت های صفحه گسترده تبدیل می کند، بلکه می تواند فایل های اکسل را به صورت تصویر رندر کند. انتخاب عالی برای تبادل اسناد در استانداردهای صنعتی فرمت ها آخرین نسخه آن را می توانید مستقیماً از اینجا دانلود کنید[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) و با افزودن تنظیمات زیر به pom.xml آن را در پروژه مبتنی بر Maven خود نصب کنید.
+ چگونه OTS را به JPG تبدیل کنم؟ با کتابخانه Aspose.Cells for Java می توانید به راحتی OTS را به صورت برنامه نویسی با چند خط کد به JPG تبدیل کنید.[Aspose.Cells for Java](https://products.aspose.com/cells/java)قادر به ساخت برنامه های چند پلتفرمی با قابلیت تولید، تغییر، تبدیل، رندر و چاپ تمام فایل های اکسل است. Java اکسل API نه تنها بین فرمت های صفحه گسترده تبدیل می شود، بلکه می تواند فایل های اکسل را به صورت تصویر، PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT و موارد دیگر ارائه دهد، بنابراین آن را به گزینه ای عالی برای تبادل اسناد در قالب های استاندارد صنعتی تبدیل می کند. آخرین نسخه آن را می توانید مستقیماً از اینجا دانلود کنید[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) و با افزودن تنظیمات زیر به pom.xml آن را در پروژه مبتنی بر Maven خود نصب کنید.
 
 {{% blocks/products/pf/agp/code-block title="مخزن" offSpacer="true" %}}
 
@@ -45,7 +45,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java OTS to JP
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="ذخیره OTS در JPG در Java آنلاین به صورت رایگان" %}}
+{{% blocks/products/pf/agp/content h2="OTS را در JPG در Java ذخیره کنید" %}}
 
 مثال زیر نحوه تبدیل OTS به JPG را در Java نشان می دهد.
 {{% blocks/products/pf/agp/text %}}
@@ -56,7 +56,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java OTS to JP
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="برنامه رایگان و کد نمونه برای تبدیل OTS به JPG آنلاین" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="ots" outformat="jpg" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="نمونه کد برای تبدیل OTS به JPG" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="ots" outformat="jpg" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="نحوه تبدیل OTS به JPG via Java" %}}
 

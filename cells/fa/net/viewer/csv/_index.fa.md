@@ -2,6 +2,7 @@
 title:  مشاهده CSV فرمت های فایل via .NET
 weight: 7690
 description: کد منبع C# برای بارگیری، رندر و نمایش اسناد CSV در .NET Framework، .NET Core، Mono یا Xamarin Platforms.
+keywords: [C# Aspose.Cells., c# view CSV files., c# how to render CSV document., c# load and display CSV files., CSV File Viewer using C#]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="CSV نمایشگر فایل for .NET" h2="صفحات گسترده Excel و OpenOffice مانند CSV را بدون نیاز به Microsoft Excel یا Office Automation مشاهده کنید." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="CSV" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="CSV" >}}
@@ -43,7 +44,7 @@ PM> Install-Package Aspose.Cells
 
 1.  فایل CSV را در یک نمونه از Workbook بارگیری کنید
 1.  یک نمونه از HtmlSaveOptions ایجاد کنید و ویژگی ExportHeadings را روی true تنظیم کنید
-1.  فایل CSV را با فرمت HTML با استفاده از روش Workbook ذخیره کنید.
+1. فایل CSV را با فرمت HTML با استفاده از روش Workbook ذخیره کنید.
 1.  HTML حاصل را در مرورگر پیش فرض با Process.Start بارگیری کنید
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

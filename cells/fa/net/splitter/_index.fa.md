@@ -1,6 +1,7 @@
 ---
 title: ورق کاربرگ اکسل را به شماره C# تقسیم کنید
 description: کدهای منبع C# که نحوه تقسیم فایل های اکسل Microsoft را به چندین فایل در برنامه های Visual C#.NET توضیح می دهد.
+keywords: [C# Aspose.Cells., C# split excel files., C# how to split excel files into multiple files., C# excel splitter., C# split Cell., Cell splitter using C#]
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
 {{< blocks/products/pf/i18n/feature-page-header h1="Microsoft<sup>&reg;</sup> تقسیم فایل اکسل via .NET" h2="تقسیم یک سند اکسل به فایل های مختلف با استفاده از کد C# در برنامه های مبتنی بر .NET" >}}
@@ -9,7 +10,7 @@ description: کدهای منبع C# که نحوه تقسیم فایل های ا�
 {{% /blocks/products/pf/feature-page-summary %}}
 
 {{% blocks/products/pf/feature-page-section h2="سند اکسل را به چندین فایل تقسیم کنید" %}}
- ساده ترین راه برای تقسیم بندی فایل های اکسل به صورت عاقلانه، دسترسی به همه برگه ها از طریق آن است[کاربرگ ها](https://reference.aspose.com/cells/net/aspose.cells/workbook/properties/worksheets) ، تکرار از طریق هر برگه و فراخوانی[کپی 🀄](https://reference.aspose.com/cells/net/aspose.cells/worksheet/methods/copy) روش. در نهایت آن را در یک مسیر مشخص ذخیره کنید.
+ساده ترین راه برای تقسیم بندی فایل های اکسل به صورت عاقلانه، دسترسی به همه برگه ها از طریق آن است[کاربرگ ها](https://reference.aspose.com/cells/net/aspose.cells/workbook/properties/worksheets) ، تکرار از طریق هر برگه و فراخوانی[کپی 🀄](https://reference.aspose.com/cells/net/aspose.cells/worksheet/methods/copy) روش. در نهایت آن را در یک مسیر مشخص ذخیره کنید.
 
  + فایل اکسل را با استفاده از مسیر کامل بارگذاری کنید[کلاس کتاب کار](https://reference.aspose.com/cells/net/aspose.cells/workbook).
 + در هر برگه تکرار کنید
@@ -28,7 +29,7 @@ description: کدهای منبع C# که نحوه تقسیم فایل های ا�
 
 {{% blocks/products/pf/feature-page-section h2="کاربرگ اکسل را به صفحات تقسیم کنید" %}}
 
- برای تقسیم پنجره کاربرگ به پنجره ها، API فراهم می کند[روش تقسیم](https://reference.aspose.com/cells/net/aspose.cells/worksheet/methods/split)از کلاس کاربرگ، که نمای تقسیم شده از کاربرگ را ارائه می دهد. برای حذف نمای تقسیم شده API فراهم می کند[روش RemoveSplit](https://reference.aspose.com/cells/net/aspose.cells/worksheet/methods/removesplit) . در نهایت آن را در یک مسیر مشخص ذخیره کنید.
+ برای تقسیم پنجره کاربرگ به پنجره ها، API فراهم می کند[روش تقسیم](https://reference.aspose.com/cells/net/aspose.cells/worksheet/methods/split) از کلاس کاربرگ، که نمای تقسیم شده از کاربرگ را ارائه می دهد. برای حذف نمای تقسیم شده API فراهم می کند[روش RemoveSplit](https://reference.aspose.com/cells/net/aspose.cells/worksheet/methods/removesplit) . در نهایت آن را در یک مسیر مشخص ذخیره کنید.
 
 {{% blocks/products/pf/feature-page-code h3="C# کد برای تقسیم پنجره کاربرگ اکسل" %}}
 

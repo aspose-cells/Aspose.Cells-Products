@@ -1,8 +1,8 @@
 ---
-title: Python تعمیر فایل xlsm - تعمیر فایل xlsm بصورت آنلاین رایگان
+title: Python تعمیر xlsm - بازیابی و رفع خرابی فایل xlsm
 url: /fa/python-net/recovery/repair-xlsm/ 
-description: Aspose اکسل. Python Aspose.Cells. Python تعمیر فایل xlsm. ابزار تعمیر آنلاین xlsm رایگان. یک فایل xlsm خراب را تعمیر کنید. یک فایل xlsm خراب را در برنامه Python بازیابی کنید.
-keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python Repair xlsm file., Free Online Repair a corrupted xlsm file., Python Recover xlsm file.]
+description: Python Aspose.Cells. تعمیر xlsm. فایل xlsm را اصلاح کنید. ابزار بازیابی xlsm. فساد xlsm بازیابی اطلاعات xlsm بازیابی فایل xlsm فایل xlsm خراب را بازیابی کنید.
+keywords: [Python Aspose.Cells., repair xlsm file., xlsm repair., recover corrupted xlsm file., repair corrupted xlsm., recover xlsm., fix xlsm file., xlsm corruption., restore xlsm data., xlsm file recovery., recover corrupted xlsm file.]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="تعمیر فایل XLSM در Python" h2="برنامه Python خود را برای تعمیر فایل های xlsm با استفاده از Python بسازید." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSM" pfName="Aspose.Cells" subTitlepfName="for Python" downloadUrl="" fileiconsmall1="XLS" fileiconsmall2="XLSB" fileiconsmall3="XLSX" fileiconsmall4="XLSM" fileiconsmall5="ODS" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python Rep
 
 {{% blocks/products/pf/agp/content h2="فایل XLSM را با شماره Python تعمیر کنید" %}}
 
- چگونه فایل xlsm را تعمیر کنم؟ با کتابخانه Aspose.Cells for Python به راحتی می توانید فایل XLSM را به صورت برنامه ای و با چند خط کد تعمیر کنید.[Aspose.Cells for Python](https://products.aspose.com/cells/python-net)قادر به ساخت برنامه های چند پلتفرمی با قابلیت تولید، تغییر، تبدیل، رندر و چاپ تمام فایل های اکسل است. Python اکسل API نه تنها بین فرمت های صفحه گسترده تبدیل می کند، بلکه می تواند فایل های اکسل را به صورت تصویر رندر کند. انتخاب عالی برای تبادل اسناد در استانداردهای صنعتی فرمت ها می توانید Aspose.Cells for Python via .NET را نصب کنید<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> ، از دستور به صورت زیر استفاده کنید:<code>$ pip install aspose-cells-python</code>.
+ چگونه فایل xlsm را تعمیر کنم؟ با کتابخانه Aspose.Cells for Python به راحتی می توانید فایل XLSM را به صورت برنامه ای و با چند خط کد تعمیر کنید.[Aspose.Cells for Python](https://products.aspose.com/cells/python-net) قادر به ساخت برنامه های چند پلتفرمی با قابلیت تولید، تغییر، تبدیل، رندر و چاپ تمام فایل های اکسل است. Python اکسل API نه تنها بین فرمت های صفحه گسترده تبدیل می شود، بلکه می تواند فایل های اکسل را به صورت تصویر، PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT و موارد دیگر ارائه دهد، بنابراین آن را به گزینه ای عالی برای تبادل اسناد در قالب های استاندارد صنعتی تبدیل می کند. می توانید Aspose.Cells for Python via .NET را نصب کنید<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> ، از دستور به صورت زیر استفاده کنید:<code>$ pip install aspose-cells-python</code>.
 
 
 {{% /blocks/products/pf/agp/content %}}
@@ -32,14 +32,14 @@ keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python Rep
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-recovery title="برنامه رایگان و کد نمونه برای تعمیر فایل آنلاین XLSM" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et" InputFormat="xlsm" outformat="xlsm" IsLandingPage="true" language="pythonnet" %}}    
+{{% cells-recovery title="نمونه کد تعمیر فایل XLSM" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et" InputFormat="xlsm" outformat="xlsm" IsLandingPage="true" language="pythonnet" %}}    
     
 {{% blocks/products/pf/agp/content h2="Python کتابخانه جهت تعمیر فایل XLSM" %}}
 
 ما بسته های Python خود را در مخازن PyPi میزبانی می کنیم.
 
 {{% blocks/products/pf/agp/text %}}
-Aspose.Cells for Python را نصب کنید<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> ، از دستور به صورت زیر استفاده کنید:<code>$ pip install aspose-cells-python</code>.
+ Aspose.Cells for Python را نصب کنید<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> ، از دستور به صورت زیر استفاده کنید:<code>$ pip install aspose-cells-python</code>.
 {{% /blocks/products/pf/agp/text %}}
 
 {{% blocks/products/pf/agp/text %}}
@@ -54,7 +54,7 @@ Aspose.Cells for Python را نصب کنید<a href="https://pypi.org/project/as
  Aspose.Cells for Python در تمام سیستم عامل های اصلی پشتیبانی می شود. فقط مطمئن شوید که پیش نیازهای زیر را دارید.
  
 -  نصب[Python](https://www.python.org/downloads/) 3.7 یا بالاتر
-- Aspose.Cells for Python را نصب کنید<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> ، از دستور به صورت زیر استفاده کنید:<code>$ pip install aspose-cells-python</code>.
+-  Aspose.Cells for Python را نصب کنید<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> ، از دستور به صورت زیر استفاده کنید:<code>$ pip install aspose-cells-python</code>.
 
 
 {{% /blocks/products/pf/agp/content %}}

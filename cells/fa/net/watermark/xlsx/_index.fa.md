@@ -1,7 +1,8 @@
 ---
-title:  واترمارک XLSX سند via .NET
+title: واترمارک XLSX سند via .NET
 weight: 8270
 description: کد منبع C# برای افزودن یا حذف واترمارک به فایل XLSX در .NET Framework، .NET Core، Mono یا Xamarin Platforms.
+keywords: [C# Aspose.Cells., C# add watermark to xlsx file., C# insert watermark to xlsx file., C# create watermark in xlsx file., remove watermark from xlsx file using C#., C# operate watermark in xlsx file., C# access watermark in xlsx file]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="اضافه کردن متن واترمارک به XLSX از طریق C#" h2="برنامه های .NET خود را بسازید تا فایل های XLSX را با استفاده از API های سمت سرور علامت گذاری کنید." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSX" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="PPTX" fileiconsmall2="DOCX" fileiconsmall3="XLSX" fileiconsmall4="PDF" fileiconsmall5=" ODP " >}}

@@ -1,7 +1,7 @@
 ---
 title: ایجاد MHT - فایل MHT را در Python ایجاد کنید
-description: Aspose اکسل. Python فایل MHT ایجاد کنید. ایجاد MHT Python. Python MHT Creater. MHT را در Python ایجاد کنید. فایل MHT را با استفاده از Python ایجاد کنید.
-keywords: [Aspose Excel., Python Aspose.Cells., Create MHT Python., Python MHT Creater., Create MHT file in Python., Generate MHT file in Python]
+description:  Aspose اکسل. Python فایل MHT را به سرعت و به راحتی با Aspose.Cells ایجاد کنید. فایل MHT را با استفاده از Python ایجاد کنید. MHT را در Python ایجاد کنید. Python MHT Creater.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Create MHT file., Generate MHT file in Python., Create MHT file using Python., Write data to MHT file via Python., Create a MHT file in Python., Python Generate a MHT file., Python MHT Creater]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="فایل MHT را در Python ایجاد کنید" h2="کتابخانه پرسرعت Python برای ایجاد فایل MHT. این یک راه حل نرم افزاری حرفه ای برای واردات و صادرات XLSX، PDF و بسیاری از فرمت های دیگر با استفاده از Python است." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="MHT" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -11,7 +11,7 @@ keywords: [Aspose Excel., Python Aspose.Cells., Create MHT Python., Python MHT C
 
 {{% blocks/products/pf/agp/content h2="با استفاده از Python فایل MHT ایجاد کنید" %}}
 
- چگونه فایل MHT ایجاد کنیم؟ با کتابخانه Aspose.Cells for Python via Java می توانید به راحتی فایل MHT را به صورت برنامه نویسی با چند خط کد ایجاد کنید.[Aspose.Cells for Python](https://pypi.org/project/aspose-cells)قادر به ساخت برنامه های چند پلتفرمی با قابلیت تولید، تغییر، تبدیل، رندر و چاپ تمام فایل های اکسل است. Python اکسل API نه تنها بین فرمت های صفحه گسترده تبدیل می کند، بلکه می تواند فایل های اکسل را به صورت تصویر رندر کند. انتخاب عالی برای تبادل اسناد در استانداردهای صنعتی فرمت ها
+ چگونه فایل MHT ایجاد کنیم؟ با کتابخانه Aspose.Cells for Python via Java می توانید به راحتی فایل MHT را به صورت برنامه نویسی با چند خط کد ایجاد کنید.[Aspose.Cells for Python](https://pypi.org/project/aspose-cells)قادر به ساخت برنامه های چند پلتفرمی با قابلیت تولید، تغییر، تبدیل، رندر و چاپ تمام فایل های اکسل است. Python اکسل API نه تنها بین فرمت های صفحه گسترده تبدیل می شود، بلکه می تواند فایل های اکسل را به صورت تصویر، PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT و موارد دیگر ارائه دهد، بنابراین آن را به گزینه ای عالی برای تبادل اسناد در قالب های استاندارد صنعتی تبدیل می کند.
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -21,7 +21,7 @@ keywords: [Aspose Excel., Python Aspose.Cells., Create MHT Python., Python MHT C
 
 {{% blocks/products/pf/agp/text %}}
 
-ایجاد، بارگیری، تغییر و تبدیل فایل‌های MHT در برنامه‌های مختلف گزارش‌دهی برای پردازش داده‌ها، تنها در چند خط کد برای توسعه‌دهندگان آسان است.
+ ایجاد، بارگیری، تغییر و تبدیل فایل‌های MHT در برنامه‌های مختلف گزارش‌دهی برای پردازش داده‌ها، تنها در چند خط کد برای توسعه‌دهندگان آسان است.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -80,7 +80,7 @@ jpype.shutdownJVM()
 
 {{% blocks/products/pf/agp/text %}}
 
-Aspose.Cells for Python via Java مستقل از پلتفرم API است و می تواند در هر پلتفرمی (Windows، لینوکس و MacOS) استفاده شود، فقط مطمئن شوید که سیستم دارای Java 1.8 یا بالاتر است،[Python](https://www.python.org/downloads/) 3.5 یا بالاتر
+ Aspose.Cells for Python via Java مستقل از پلتفرم API است و می تواند در هر پلتفرمی (Windows، لینوکس و MacOS) استفاده شود، فقط مطمئن شوید که سیستم دارای Java 1.8 یا بالاتر است،[Python](https://www.python.org/downloads/) 3.5 یا بالاتر
 
 {{% /blocks/products/pf/agp/text %}}
 

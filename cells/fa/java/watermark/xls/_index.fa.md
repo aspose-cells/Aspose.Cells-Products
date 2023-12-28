@@ -1,7 +1,8 @@
 ---
-title:  واترمارک XLS سند via Java
+title: واترمارک XLS سند via Java
 weight: 2210
 description: Java کد نمونه برای افزودن یا حذف واترمارک به فایل XLS در Java Runtime Environment برای برنامه های کاربردی JSP/JSF و برنامه های دسکتاپ.
+keywords: [Java Aspose.Cells., Java add watermark to xls file., Java insert watermark to xls file., Java create watermark in xls file., remove watermark from xls file using Java., Java operate watermark in xls file., Java access watermark in xls file]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="واترمارک متنی را به XLS via Java اضافه کنید" h2="برنامه های Java خود را بسازید تا فایل های XLS را با استفاده از API های سمت سرور علامت گذاری کنید." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLS" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="" fileiconsmall1="PPTX" fileiconsmall2="DOCX" fileiconsmall3="XLSX" fileiconsmall4="PDF" fileiconsmall5=" ODP " >}}

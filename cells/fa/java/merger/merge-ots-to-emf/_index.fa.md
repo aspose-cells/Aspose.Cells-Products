@@ -1,8 +1,8 @@
 ---
 title: OTS را به EMF ادغام کنید - OTS را با EMF در Java ترکیب کنید
 url: /fa/java/merger/merge-ots-to-emf/ 
-description: Aspose اکسل. Java Aspose.Cells. ادغام آنلاین رایگان OTS به EMF Saveformat. Java OTS را با فرمت EMF ترکیب کنید. OTS را به EMF در Java ادغام کنید. OTS Merge.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge OTS to EMF in Java., Free Online Java Merge OTS to emf., Java Combine OTS to EMF Online for Free., OTS Merge]
+description: Aspose اکسل. Java Aspose.Cells. OTS را با فرمت ذخیره EMF ادغام کنید. Java OTS را با فرمت EMF ترکیب کنید. OTS را به EMF در Java ادغام کنید. OTS Merge.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge OTS to EMF in Java., Java Merge OTS to emf., Java Combine OTS to EMF., OTS Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="OTS را به EMF via Java ادغام کنید" h2="کتابخانه پرسرعت Java برای ادغام OTS به EMF. از تبدیل اکسل ما API برای توسعه نرم افزار سطح بالا و مستقل از پلت فرم در Java استفاده کنید. این یک راه حل نرم افزار حرفه ای برای وارد کردن و صادرات Excel, CSV, OpenOffice, PDF, HTML, image و بسیاری از فرمت های excel دیگر است." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="OTS" additionalConversionTag="EMF" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Merge OTS to EMF in Java., Free On
 
 {{% blocks/products/pf/agp/content h2="OTS را با استفاده از Java به EMF ادغام کنید" %}}
 
- چگونه OTS را با EMF ادغام کنم؟ با کتابخانه Aspose.Cells for Java، می توانید به راحتی OTS را با چند خط کد به صورت برنامه ریزی شده با EMF ادغام کنید.[Aspose.Cells for Java](https://products.aspose.com/cells/java) قادر به ساخت برنامه های چند پلتفرمی با قابلیت تولید، تغییر، تبدیل، رندر و چاپ تمام فایل های اکسل است. Java اکسل API نه تنها بین فرمت های صفحه گسترده تبدیل می کند، بلکه می تواند فایل های اکسل را به صورت تصویر رندر کند. انتخاب عالی برای تبادل اسناد در استانداردهای صنعتی فرمت ها آخرین نسخه آن را می توانید مستقیماً از اینجا دانلود کنید[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) و با افزودن تنظیمات زیر به pom.xml آن را در پروژه مبتنی بر Maven خود نصب کنید.
+ چگونه OTS را با EMF ادغام کنم؟ با کتابخانه Aspose.Cells for Java، می توانید به راحتی OTS را با چند خط کد به صورت برنامه ریزی شده با EMF ادغام کنید.[Aspose.Cells for Java](https://products.aspose.com/cells/java)قادر به ساخت برنامه های چند پلتفرمی با قابلیت تولید، تغییر، تبدیل، رندر و چاپ تمام فایل های اکسل است. Java اکسل API نه تنها بین فرمت های صفحه گسترده تبدیل می شود، بلکه می تواند فایل های اکسل را به صورت تصویر، PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT و موارد دیگر ارائه دهد، بنابراین آن را به گزینه ای عالی برای تبادل اسناد در قالب های استاندارد صنعتی تبدیل می کند. آخرین نسخه آن را می توانید مستقیماً از اینجا دانلود کنید[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) و با افزودن تنظیمات زیر به pom.xml آن را در پروژه مبتنی بر Maven خود نصب کنید.
 
 {{% blocks/products/pf/agp/code-block title="مخزن" offSpacer="true" %}}
 
@@ -45,7 +45,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Merge OTS to EMF in Java., Free On
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="OTS را به EMF در Java به صورت آنلاین ادغام کنید" %}}
+{{% blocks/products/pf/agp/content h2="OTS را به EMF در Java ادغام کنید" %}}
 
 مثال زیر نحوه ادغام OTS را با EMF در Aspose.Cells for Java نشان می دهد.
 {{% blocks/products/pf/agp/text %}}
@@ -56,13 +56,13 @@ keywords: [Aspose Excel., Java Aspose.Cells., Merge OTS to EMF in Java., Free On
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="آنلاین رایگان برای ادغام OTS به EMF در Java" InputFormat="ots" InputFormat2="emf" outformat="emf" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="java" %}}
+{{% cells-merger title="نمونه کد برای ادغام OTS به EMF در Java" InputFormat="ots" InputFormat2="emf" outformat="emf" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="نحوه ادغام OTS به EMF via Java" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
-آیا نیاز به ادغام OTS با EMF از طریق برنامه دارید؟ یک سند اساسی ادغام و الحاق با[Aspose.Cells for Java](https://products.aspose.com/cells/java) API ها را می توان تنها با چند خط کد انجام داد.
+ آیا نیاز به ادغام OTS با EMF از طریق برنامه دارید؟ یک سند اساسی ادغام و الحاق با[Aspose.Cells for Java](https://products.aspose.com/cells/java) API ها را می توان تنها با چند خط کد انجام داد.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -103,7 +103,7 @@ API های ما در تمام سیستم عامل ها و سیستم عامل ه
 <!-- aboutfile Starts -->
     {{< blocks/products/pf/agp/about-file-section >}}
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="OTS" readMoreLink="https://docs.fileformat.com/spreadsheet/ots/" >}}یک فایل با پسوند .ots یک فایل الگوی صفحه گسترده OpenDocument است که با نرم افزار کاربردی Calc موجود در آپاچی اوپن آفیس ایجاد می شود. نرم افزار کاربردی Calc مشابه اکسل است که در آفیس Microsoft موجود است. فرمت فایل OTS برای ایجاد الگوهایی استفاده می شود که حاوی تنظیمات از پیش تعریف شده مربوط به سبک ها، فونت، داده ها، طرح صفحه گسترده و قالب بندی هستند. فایل های OTF دارای mime-type application/vnd.oasis.opedocument.spreadsheet-template هستند. این فایل های قالب می توانند به عنوان نقطه شروع برای تولید و ذخیره فایل های داده واقعی که در قالب فایل ODS ذخیره شده اند استفاده شوند. فایل های OTS را می توان با برنامه هایی مانند OpenOffice و LibreOffice استفاده کرد.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="EMF" readMoreLink="https://docs.fileformat.com/image/emf/" >}}فرمت متافایل پیشرفته (EMF) تصاویر گرافیکی را مستقل از دستگاه ذخیره می کند. Metafiles EMF شامل رکوردهای با طول متغیر به ترتیب زمانی است که می تواند تصویر ذخیره شده را پس از تجزیه در هر دستگاه خروجی ارائه دهد. این رکوردهای با طول متغیر می توانند تعاریف اشیاء محصور، دستورات برای ترسیم، و ویژگی های گرافیکی برای ارائه دقیق تصویر حیاتی باشند. وقتی دستگاهی یک متافیل EMF را با استفاده از محیط گرافیکی خود باز می کند، نسبت ها، ابعاد، رنگ ها و سایر ویژگی های گرافیکی تصویر اصلی بدون توجه به پلت فرم دستگاه باز می ماند.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="EMF" readMoreLink="https://docs.fileformat.com/image/emf/" >}}فرمت متافایل پیشرفته (EMF) تصاویر گرافیکی را مستقل از دستگاه ذخیره می کند. Metafiles EMF شامل رکوردهای با طول متغیر به ترتیب زمانی است که می تواند تصویر ذخیره شده را پس از تجزیه در هر دستگاه خروجی ارائه دهد. این رکوردهای با طول متغیر می توانند تعاریف اشیاء محصور، دستورات برای ترسیم، و ویژگی های گرافیکی برای ارائه دقیق تصویر حیاتی باشند. وقتی دستگاهی یک متافیل EMF را با استفاده از محیط گرافیکی خود باز می‌کند، نسبت‌ها، ابعاد، رنگ‌ها و سایر ویژگی‌های گرافیکی تصویر اصلی بدون توجه به پلت فرم دستگاه باز می‌ماند.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
     {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->
 

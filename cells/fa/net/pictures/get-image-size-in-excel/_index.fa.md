@@ -2,6 +2,7 @@
 title:  اندازه تصاویر/تصاویر را در اکسل via .NET دریافت کنید
 weight: 10
 description: کد منبع C# برای دریافت اندازه تصاویر/تصاویر در اکسل در .NET Framework، .NET Core، Mono یا Xamarin Platforms.
+keywords: [C# Aspose.Cells., c# Get Images/Pictures Size In Excel., c# Obtain Images/Pictures Size In Excel., c# Access Images/Pictures Size In Excel]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="اندازه تصاویر/تصاویر را در اکسل via .NET دریافت کنید" h2="با استفاده از Aspose.Cells\' API برای کار با اشیاء مختلف بدون هیچ نرم افزاری مانند Microsoft یا Open Office، Adobe PDF و غیره." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="XLSX" >}}
@@ -48,7 +49,7 @@ PM> Install-Package Aspose.Cells
     + [عرض](https://reference.aspose.com/cells/net/aspose.cells.drawing/shape/width/) عرض شکل را بر حسب واحد پیکسل نشان می دهد.
     + [ارتفاع](https://reference.aspose.com/cells/net/aspose.cells.drawing/shape/height/) ارتفاع شکل را بر حسب واحد پیکسل نشان می دهد.
     + [عرض اصلی](https://reference.aspose.com/cells/net/aspose.cells.drawing/picture/originalwidth/) عرض اصلی تصویر را بر حسب واحد پیکسل دریافت می کند.
-    + [ارتفاع اصلی](https://reference.aspose.com/cells/net/aspose.cells.drawing/picture/originalheight/) ارتفاع اصلی تصویر را بر حسب واحد پیکسل دریافت می کند.
+    + [ارتفاع اصلی](https://reference.aspose.com/cells/net/aspose.cells.drawing/picture/originalheight/)ارتفاع اصلی تصویر را بر حسب واحد پیکسل دریافت می کند.
 
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
@@ -92,7 +93,7 @@ PM> Install-Package Aspose.Cells
 
 {{% blocks/products/pf/agp/content h2="درباره Aspose.Cells for .NET API" %}}
 
- Aspose.Cells API می تواند برای ایجاد، ویرایش، تبدیل و رندر فرمت های اکسل Microsoft به فرمت های مختلف استفاده شود. علاوه بر این، می توان از آن برای نمودارهای جامع، گزارش مقیاس پذیر و محاسبات قابل اعتماد در برنامه های نرم افزاری استفاده کرد. Aspose.Cells یک API مستقل است و به هیچ نرم افزاری مانند Microsoft یا OpenOffice نیاز ندارد.
+Aspose.Cells API می تواند برای ایجاد، ویرایش، تبدیل و رندر فرمت های اکسل Microsoft به فرمت های مختلف استفاده شود. علاوه بر این، می توان از آن برای نمودارهای جامع، گزارش مقیاس پذیر و محاسبات قابل اعتماد در برنامه های نرم افزاری استفاده کرد. Aspose.Cells یک API مستقل است و به هیچ نرم افزاری مانند Microsoft یا OpenOffice نیاز ندارد.
 
 {{% /blocks/products/pf/agp/content %}}
 

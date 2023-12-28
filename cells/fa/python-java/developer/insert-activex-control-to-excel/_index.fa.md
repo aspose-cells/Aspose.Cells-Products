@@ -2,6 +2,7 @@
 title: وارد کردن ActiveX Control در اکسل با استفاده از Python via Java
 weight: 10
 description: Python via Java کد منبع برای درج ActiveX Control در اکسل.
+keywords: [Python via Java Aspose.Cells., Python via Java add ActiveX Control into Excel., Python via Java insert ActiveX Control into Excel., Python via Java create ActiveX Control in Excel]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="با استفاده از Python via جاوا کنترل ActiveX را در اکسل قرار دهید" h2="درج اشیاء با استفاده از API های سمت سرور بدون هیچ نرم افزاری مانند Microsoft یا Open Office، Adobe PDF و غیره." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="" pfName="Aspose.Cells" subTitlepfName="for Python via Java" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="XLSX" >}}
@@ -13,7 +14,7 @@ description: Python via Java کد منبع برای درج ActiveX Control در 
 
  برای قرار دادن ActiveX Control در فایل اکسل، از آن استفاده می کنیم
  [Aspose.Cells for Python از طریق جاوا](https://pypi.org/project/aspose-cells/) 
-API که یک دستکاری سند غنی، قدرتمند و آسان برای استفاده است API برای پایتون از طریق پلتفرم جاوا. API ایجاد، دستکاری، تبدیل و رندر فایل اکسل را فراهم می کند. همه بدون اتکا به برنامه های آفیس یا اکسل Microsoft. می توانید با استفاده از دستور زیر از کنسول نصب کنید.
+ API که یک دستکاری سند غنی، قدرتمند و آسان برای استفاده است API برای پایتون از طریق پلتفرم جاوا. API ایجاد، دستکاری، تبدیل و رندر فایل اکسل را فراهم می کند. همه بدون اتکا به برنامه های آفیس یا اکسل Microsoft. می توانید با استفاده از دستور زیر از کنسول نصب کنید.
 
 {{% blocks/products/pf/agp/code-block title="فرمان" offSpacer="true" %}}
 
@@ -37,7 +38,7 @@ API که یک دستکاری سند غنی، قدرتمند و آسان برای
 
 {{% /blocks/products/pf/agp/text %}}
 
-نمونه سازی یک شی Workbook. (یا -> فایل XLSX را با مسیر کامل بارگیری کنید.)
++ نمونه سازی یک شی Workbook. (یا -> فایل XLSX را با مسیر کامل بارگیری کنید.)
 + کاربرگ را از طریق فهرست آن انتخاب کنید.
  + از shapecollection استفاده کنید[روش اضافه کردن](https://reference.aspose.com/cells/python-java/asposecells.api/shapecollection#addActiveXControl(int,%20int,%20int,%20int,%20int,%20int,%20int)) برای درج یک کنترل اکتیو ایکس در کاربرگ انتخاب شده.
 + کتاب کار را با فرمت XLSX ذخیره کنید.
@@ -53,7 +54,7 @@ API که یک دستکاری سند غنی، قدرتمند و آسان برای
 {{% /blocks/products/pf/agp/text %}}
 
 -  هر سیستم عاملی که بتواند پایتون را از طریق اسکریپت های جاوا اجرا کند، مانند Windows، Linux و MacOS
--  Java را نصب کنید و آن را به متغیر محیطی PATH اضافه کنید، به عنوان مثال:<code>PATH=C:\Program Files\Java\jdk1.8.0_131;</code>.
+- Java را نصب کنید و آن را به متغیر محیطی PATH اضافه کنید، به عنوان مثال:<code>PATH=C:\Program Files\Java\jdk1.8.0_131;</code>.
 -  نصب Aspose.Cells for Python از طریق جاوا از<a href="https://pypi.org/project/aspose-cells/">pypi</a> ، از دستور به صورت زیر استفاده کنید:<code>$ pip install aspose-cells</code>.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

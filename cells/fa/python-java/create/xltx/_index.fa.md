@@ -1,7 +1,7 @@
 ---
 title: ایجاد XLTX - ایجاد فایل XLTX در Python
-description: Aspose اکسل. Python فایل XLTX ایجاد کنید. Create XLTX Python. Python XLTX Creater. XLTX را در Python ایجاد کنید. با استفاده از Python فایل XLTX را ایجاد کنید.
-keywords: [Aspose Excel., Python Aspose.Cells., Create XLTX Python., Python XLTX Creater., Create XLTX file in Python., Generate XLTX file in Python]
+description: Aspose اکسل. Python ایجاد فایل XLTX به سرعت و به راحتی با Aspose.Cells. ایجاد فایل XLTX با استفاده از Python. ایجاد XLTX در Python. 07134813
+keywords: [Aspose Excel., Python Aspose.Cells., Python Create XLTX file., Generate XLTX file in Python., Create XLTX file using Python., Write data to XLTX file via Python., Create a XLTX file in Python., Python Generate a XLTX file., Python XLTX Creater]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="فایل XLTX را در Python ایجاد کنید" h2="کتابخانه پرسرعت Python برای ایجاد فایل XLTX. این یک راه حل نرم افزاری حرفه ای برای واردات و صادرات XLSX، PDF و بسیاری از فرمت های دیگر با استفاده از Python است." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLTX" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -11,7 +11,7 @@ keywords: [Aspose Excel., Python Aspose.Cells., Create XLTX Python., Python XLTX
 
 {{% blocks/products/pf/agp/content h2="با استفاده از Python فایل XLTX ایجاد کنید" %}}
 
- چگونه فایل XLTX ایجاد کنیم؟ با کتابخانه Aspose.Cells for Python via Java به راحتی می توانید فایل XLTX را به صورت برنامه نویسی با چند خط کد ایجاد کنید.[Aspose.Cells for Python](https://pypi.org/project/aspose-cells)قادر به ساخت برنامه های چند پلتفرمی با قابلیت تولید، تغییر، تبدیل، رندر و چاپ تمام فایل های اکسل است. Python اکسل API نه تنها بین فرمت های صفحه گسترده تبدیل می کند، بلکه می تواند فایل های اکسل را به صورت تصویر رندر کند. انتخاب عالی برای تبادل اسناد در استانداردهای صنعتی فرمت ها
+ چگونه فایل XLTX ایجاد کنیم؟ با کتابخانه Aspose.Cells for Python via Java به راحتی می توانید فایل XLTX را به صورت برنامه نویسی با چند خط کد ایجاد کنید.[Aspose.Cells for Python](https://pypi.org/project/aspose-cells)قادر به ساخت برنامه های چند پلتفرمی با قابلیت تولید، تغییر، تبدیل، رندر و چاپ تمام فایل های اکسل است. Python اکسل API نه تنها بین فرمت های صفحه گسترده تبدیل می شود، بلکه می تواند فایل های اکسل را به صورت تصویر، PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT و موارد دیگر ارائه دهد، بنابراین آن را به گزینه ای عالی برای تبادل اسناد در قالب های استاندارد صنعتی تبدیل می کند.
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -29,7 +29,7 @@ keywords: [Aspose Excel., Python Aspose.Cells., Create XLTX Python., Python XLTX
 1.  نمونه کلاس Workbook را ایجاد کنید.
 1.  به اولین کاربرگ کتاب کار دسترسی پیدا کنید.
 1.  سلول(های) مورد نظر کاربرگ را دریافت کرده و مقدار را در سلول(ها) وارد کنید.
-1. از روش Save برای ذخیره کتاب کار به عنوان فایل XLTX استفاده کنید.
+1.  از روش Save برای ذخیره کتاب کار به عنوان فایل XLTX استفاده کنید.
 
 {{% blocks/products/pf/agp/code-block title="کد نمونه نحوه ایجاد فایل XLTX را در Python نشان می دهد." offSpacer="" %}}
 
@@ -80,7 +80,7 @@ jpype.shutdownJVM()
 
 {{% blocks/products/pf/agp/text %}}
 
-Aspose.Cells for Python via Java مستقل از پلتفرم API است و می تواند در هر پلتفرمی (Windows، لینوکس و MacOS) استفاده شود، فقط مطمئن شوید که سیستم دارای Java 1.8 یا بالاتر است،[Python](https://www.python.org/downloads/) 3.5 یا بالاتر
+ Aspose.Cells for Python via Java مستقل از پلتفرم API است و می تواند در هر پلتفرمی (Windows، لینوکس و MacOS) استفاده شود، فقط مطمئن شوید که سیستم دارای Java 1.8 یا بالاتر است،[Python](https://www.python.org/downloads/) 3.5 یا بالاتر
 
 {{% /blocks/products/pf/agp/text %}}
 

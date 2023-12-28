@@ -1,7 +1,7 @@
 ---
 title: ایجاد XLSM - ایجاد فایل XLSM در Java
-description: Aspose اکسل. Java فایل XLSM ایجاد کنید. Create XLSM Java. Java XLSM Creater. XLSM را در Java ایجاد کنید. با استفاده از Java فایل XLSM را ایجاد کنید.
-keywords: [Aspose Excel., Java Aspose.Cells., Create XLSM Java., Java XLSM Creater., Create XLSM file in Java., Generate XLSM file in Java]
+description: Aspose اکسل. Java ایجاد فایل XLSM به سرعت و به راحتی با Aspose.Cells. ایجاد فایل XLSM با استفاده از Java. ایجاد XLSM در Java. 07134813
+keywords: [Aspose Excel., Java Aspose.Cells., Java Create XLSM file., Generate XLSM file in Java., Create XLSM file using Java., Write data to XLSM file via Java., Create a XLSM file in Java., Java Generate a XLSM file., Java XLSM Creater]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="فایل XLSM را در Java ایجاد کنید" h2="کتابخانه پرسرعت Java برای ایجاد فایل XLSM. این یک راه حل نرم افزاری حرفه ای برای واردات و صادرات XLSX، PDF و بسیاری از فرمت های دیگر با استفاده از Java است." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSM" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -11,7 +11,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Create XLSM Java., Java XLSM Creat
 
 {{% blocks/products/pf/agp/content h2="با استفاده از Java فایل XLSM ایجاد کنید" %}}
 
- چگونه فایل XLSM ایجاد کنیم؟ با کتابخانه Aspose.Cells for Java به راحتی می توانید فایل XLSM را به صورت برنامه نویسی با چند خط کد ایجاد کنید.[Aspose.Cells for Java](https://products.aspose.com/cells/java) قادر به ساخت برنامه های چند پلتفرمی با قابلیت تولید، تغییر، تبدیل، رندر و چاپ تمام فایل های اکسل است. Java اکسل API نه تنها بین فرمت های صفحه گسترده تبدیل می کند، بلکه می تواند فایل های اکسل را به صورت تصویر رندر کند. انتخاب عالی برای تبادل اسناد در استانداردهای صنعتی فرمت ها آخرین نسخه آن را می توانید مستقیماً از اینجا دانلود کنید[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) و با افزودن تنظیمات زیر به pom.xml آن را در پروژه مبتنی بر Maven خود نصب کنید.
+ چگونه فایل XLSM ایجاد کنیم؟ با کتابخانه Aspose.Cells for Java به راحتی می توانید فایل XLSM را به صورت برنامه نویسی با چند خط کد ایجاد کنید.[Aspose.Cells for Java](https://products.aspose.com/cells/java)قادر به ساخت برنامه های چند پلتفرمی با قابلیت تولید، تغییر، تبدیل، رندر و چاپ تمام فایل های اکسل است. Java اکسل API نه تنها بین فرمت های صفحه گسترده تبدیل می شود، بلکه می تواند فایل های اکسل را به صورت تصویر، PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT و موارد دیگر ارائه دهد، بنابراین آن را به گزینه ای عالی برای تبادل اسناد در قالب های استاندارد صنعتی تبدیل می کند. آخرین نسخه آن را می توانید مستقیماً از اینجا دانلود کنید[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) و با افزودن تنظیمات زیر به pom.xml آن را در پروژه مبتنی بر Maven خود نصب کنید.
 
 {{% blocks/products/pf/agp/code-block title="مخزن" offSpacer="true" %}}
 
@@ -57,7 +57,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Create XLSM Java., Java XLSM Creat
 1.  ایجاد یک نمونه از[کلاس کتاب کار](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook).
 1.  با استفاده از متد ()getWorksheets.get به کاربرگ مربوطه دسترسی پیدا کنید.
 1.  سلول مربوطه را انتخاب کنید، مقدار را با استفاده از نام سلول مانند A1، B3 و غیره در سلول مورد نظر وارد کنید.
-1.  با استفاده از روش save() workbook را با فرمت XLSM ذخیره کنید.
+1. با استفاده از روش save() workbook را با فرمت XLSM ذخیره کنید.
 
 {{% blocks/products/pf/agp/code-block title="کد نمونه نحوه ایجاد فایل XLSM را در Java نشان می دهد." offSpacer="" %}}
 
@@ -101,7 +101,7 @@ wkb.save("Excel.xlsm");
 
 {{% blocks/products/pf/agp/text %}}
 
-قبل از اجرای کد منبع نمونه تبدیل Java، مطمئن شوید که پیش نیازهای زیر را دارید.
+ قبل از اجرای کد منبع نمونه تبدیل Java، مطمئن شوید که پیش نیازهای زیر را دارید.
 
 {{% /blocks/products/pf/agp/text %}}
 

@@ -2,6 +2,7 @@
 title:  سند XLSX را بدون باز کردن via Java جستجو کنید
 weight: 6780
 description: Java نمونه کد برای جستجوی کلمات با الگو در فایل XLSX در Java Runtime Environment for JSP/JSF Application and Desktop Applications.
+keywords: [Java Aspose.Cells., Java search words with pattern in XLSX file., Java find words with pattern in XLSX file., Java search string with pattern in XLSX file., Java find words with pattern in XLSX file., Java search words in excel file., Java find words in excel file., Java search string in excel file., Java find string in excel file]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="فرمت های XLSX را در Java جستجو کنید" h2="جستجوی سند بومی و با کارایی بالا XLSX با استفاده از API های سمت سرور Aspose.Cells for Java، بدون استفاده از نرم افزارهایی مانند Microsoft یا Adobe PDF." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="XLSX" >}}
@@ -60,9 +61,9 @@ description: Java نمونه کد برای جستجوی کلمات با الگو
 + فایل XLSX را با نمونه سازی یک شی Workbook بارگیری کنید.
 + به اولین کاربرگ در فایل XLSX دسترسی پیدا کنید.
 + سلول حاوی فرمول مشخص شده را پیدا کنید.
-+ گزینه‌های FindOptions را به صورت لحظه‌ای وارد کنید.
++ گزینه‌های FindOptions را به‌صورت فوری وارد کنید.
 + سلول حاوی یک مقدار رشته را پیدا کنید
-+ سلول های پیدا شده پس از نتیجه جستجو را چاپ کنید
+سلول های پیدا شده پس از نتیجه جستجو را چاپ کنید
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

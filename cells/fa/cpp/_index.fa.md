@@ -1,7 +1,8 @@
 ---
-title:  C++ برنامه نویسی صفحه گسترده اکسل API - Aspose
+title: C++ برنامه نویسی صفحه گسترده اکسل API - Aspose
 weight: 7140
-description: کتابخانه اکسل C++ برای خواندن نوشتن و تجزیه فایل ها شامل فرمت های XLS، XLSX، XLSM و XLSB. تبدیل صفحات گسترده به فرمت های PDF، CSV و بیشتر
+description: Aspose.Cells for C++ کتابخانه برای ایجاد، تعمیر، ادغام، تجزیه و تبدیل فایل های اکسل. اکسل را به PDF، JSON، XML، TSV و غیره تبدیل کنید.
+keywords: [C++ Aspose.Cells Create repair parse merge convert JSON Excel XML PDF HTML TSV SQL ODS CSV TXT PNG JPEG and more formats]
 ---
 {{< blocks/products/pf/main-wrap-class >}}
 {{< blocks/products/pf/i18n/upper-banner h1="C++ Excel Spreadsheets APIs" h2="ایجاد، خواندن، نوشتن و تجزیه صفحات گسترده بدون هیچ گونه وابستگی Microsoft اکسل در برنامه های کاربردی کامل C++." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/headers/aspose_cells-for-cpp.svg" pfName="Aspose.Cells" subTitlepfName="for C++" downloadUrl="https://downloads.aspose.com/cells/cpp" >}}
@@ -40,13 +41,13 @@ description: کتابخانه اکسل C++ برای خواندن نوشتن و �
  جدول محوری
     </li>
     <li>
- جداول
+جداول
     </li>
     <li>
  نمودار
     </li>
     <li>
-محاسبه فرمول ها
+ محاسبه فرمول ها
     </li>
     <li>
  اعتبار سنجی داده ها
@@ -121,7 +122,7 @@ description: کتابخانه اکسل C++ برای خواندن نوشتن و �
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="استقلال پلتفرم" description=" API به طور کامل از برنامه های C++ در پلتفرم های زیر با[سیستم مورد نیاز](https://docs.aspose.com/cells/cpp/system-requirements/)." >}}
+{{< blocks/products/pf/carousel-item h3="سکوی استقلال" description=" API به طور کامل از برنامه های C++ در پلتفرم های زیر با[سیستم مورد نیاز](https://docs.aspose.com/cells/cpp/system-requirements/)." >}}
 <div class="diagram1 d1-cplus">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -227,7 +228,7 @@ description: کتابخانه اکسل C++ برای خواندن نوشتن و �
      <b>
  تصاویر:
      </b>
-     JPEG, PNG, BMP, TIFF, GIF, EMF, SVG
+     JPEG, PNG, BMP, GIF, EMF, SVG
     </li>
    </ul>
   </div>
@@ -274,7 +275,7 @@ description: کتابخانه اکسل C++ برای خواندن نوشتن و �
     <em class="fa fa-save ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- بارگذاری &amp; ذخیره فایل های اکسل با استفاده از استریم ها
+بارگذاری &amp; ذخیره فایل های اکسل با استفاده از استریم ها
     </p>
    </div>
    <div class="col-lg-4">
@@ -288,14 +289,14 @@ description: کتابخانه اکسل C++ برای خواندن نوشتن و �
     <em class="fa fa-check-square-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-اعتبار سنجی داده را برای محدود کردن ورودی تنظیم کنید
+ اعتبار سنجی داده را برای محدود کردن ورودی تنظیم کنید
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-table ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- سازماندهی داده ها با گروه بندی ردیف ها و amp; ستون ها
+ سازماندهی داده ها با گروه بندی ردیف ها &amp; ستون ها
     </p>
    </div>
    <div class="col-lg-4">
@@ -415,17 +416,17 @@ APIهای Aspose کاملاً مستقل هستند و به شرکت Microsoft �
      <h3>
  تبدیل فایل های اکسل در چند فرمت - C++
      </h3>
-     <pre><code class="cpp">// load the document for conversion
+     <pre><code class="cpp">	// load the document for conversion
 
-intrusive_ptr&lt;IWorkbook&gt; book = Factory::CreateIWorkbook(dir-&gt;StringAppend(new String("template.xls")));
+	Workbook book(u"template.xls");
 
-// save in different formats
+	// save in different formats
 
-book-&gt;Save(dir-&gt;StringAppend(new String("output.xlsx")), SaveFormat_Xlsx);
+	book.Save(u"output.xlsx", SaveFormat::Xlsx);
 
-book-&gt;Save(dir-&gt;StringAppend(new String("output.xlsb")), SaveFormat_Xlsb);
+	book.Save(u"output.xlsb", SaveFormat::Xlsb);
 
-book-&gt;Save(dir-&gt;StringAppend(new String("output.csv")), SaveFormat_CSV);</code></pre>
+	book.Save(u"output.csv", SaveFormat::CSV);</code></pre>
     </div>
    </div>
    <div class="col-lg-12">
@@ -449,7 +450,7 @@ Aspose.Cells for C++ با ارائه ویژگی‌های قالب‌بندی پ�
  کاربرگ ها را به صورت تصویر رندر کنید
     </h2>
     <p>
-این کتابخانه با استفاده از موتور رندر خود، با بالاترین وفاداری به اکسل Microsoft رندر می‌دهد. ویژگی‌های متمایزی مانند ارائه کاربرگ‌ها به تصاویر در فرمت‌های محبوب از جمله BMP، TIFF، PNG، JPEG و amp; EMF. فرآیند Sheet2Image منعطف است بنابراین امکان انتخاب گزینه هایی مانند کنترل وضوح تصویر حاصل را فراهم می کند.
+این کتابخانه با استفاده از موتور رندر خود، با بالاترین وفاداری به اکسل Microsoft رندر می‌دهد. ویژگی‌های متمایزی مانند ارائه کاربرگ‌ها به تصاویر در فرمت‌های محبوب از جمله BMP، PNG، JPEG و amp; EMF. فرآیند Sheet2Image منعطف است بنابراین امکان انتخاب گزینه هایی مانند کنترل وضوح تصویر حاصل را فراهم می کند.
     </p>
    </div>
    <div class="col-lg-12">

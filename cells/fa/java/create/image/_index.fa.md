@@ -1,7 +1,7 @@
 ---
 title: ایجاد IMAGE - فایل IMAGE را در Java ایجاد کنید
-description: Aspose اکسل. Java ایجاد فایل IMAGE. ایجاد IMAGE Java. Java IMAGE Creater. IMAGE را در Java ایجاد کنید. فایل IMAGE را با استفاده از Java ایجاد کنید.
-keywords: [Aspose Excel., Java Aspose.Cells., Create IMAGE Java., Java IMAGE Creater., Create IMAGE file in Java., Generate IMAGE file in Java]
+description: Aspose اکسل. Java فایل IMAGE را به سرعت و به راحتی با Aspose.Cells ایجاد کنید. با استفاده از Java فایل IMAGE ایجاد کنید. در Java IMAGE ایجاد کنید. Java IMAGE Creater.
+keywords: [Aspose Excel., Java Aspose.Cells., Java Create IMAGE file., Generate IMAGE file in Java., Create IMAGE file using Java., Write data to IMAGE file via Java., Create a IMAGE file in Java., Java Generate a IMAGE file., Java IMAGE Creater]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="فایل IMAGE را در Java ایجاد کنید" h2="کتابخانه پرسرعت Java برای ایجاد فایل IMAGE. این یک راه حل نرم افزاری حرفه ای برای واردات و صادرات XLSX، PDF و بسیاری از فرمت های دیگر با استفاده از Java است." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="IMAGE" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -11,7 +11,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Create IMAGE Java., Java IMAGE Cre
 
 {{% blocks/products/pf/agp/content h2="با استفاده از Java فایل IMAGE ایجاد کنید" %}}
 
-چگونه فایل IMAGE ایجاد کنیم؟ با کتابخانه Aspose.Cells for Java به راحتی می توانید فایل IMAGE را به صورت برنامه نویسی با چند خط کد ایجاد کنید.[Aspose.Cells for Java](https://products.aspose.com/cells/java) قادر به ساخت برنامه های چند پلتفرمی با قابلیت تولید، تغییر، تبدیل، رندر و چاپ تمام فایل های اکسل است. Java اکسل API نه تنها بین فرمت های صفحه گسترده تبدیل می کند، بلکه می تواند فایل های اکسل را به صورت تصویر رندر کند. انتخاب عالی برای تبادل اسناد در استانداردهای صنعتی فرمت ها آخرین نسخه آن را می توانید مستقیماً از اینجا دانلود کنید[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) و با افزودن تنظیمات زیر به pom.xml آن را در پروژه مبتنی بر Maven خود نصب کنید.
+ چگونه فایل IMAGE ایجاد کنیم؟ با کتابخانه Aspose.Cells for Java به راحتی می توانید فایل IMAGE را به صورت برنامه نویسی با چند خط کد ایجاد کنید.[Aspose.Cells for Java](https://products.aspose.com/cells/java)قادر به ساخت برنامه های چند پلتفرمی با قابلیت تولید، تغییر، تبدیل، رندر و چاپ تمام فایل های اکسل است. Java اکسل API نه تنها بین فرمت های صفحه گسترده تبدیل می شود، بلکه می تواند فایل های اکسل را به صورت تصویر، PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT و موارد دیگر ارائه دهد، بنابراین آن را به گزینه ای عالی برای تبادل اسناد در قالب های استاندارد صنعتی تبدیل می کند. آخرین نسخه آن را می توانید مستقیماً از اینجا دانلود کنید[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) و با افزودن تنظیمات زیر به pom.xml آن را در پروژه مبتنی بر Maven خود نصب کنید.
 
 {{% blocks/products/pf/agp/code-block title="مخزن" offSpacer="true" %}}
 
@@ -50,7 +50,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Create IMAGE Java., Java IMAGE Cre
 
 {{% blocks/products/pf/agp/text %}}
 
- ایجاد، بارگیری، تغییر و تبدیل فایل های IMAGE در برنامه های مختلف گزارش دهی برای پردازش داده ها در چند خط کد برای توسعه دهندگان آسان است.
+ایجاد، بارگیری، تغییر و تبدیل فایل های IMAGE در برنامه های مختلف گزارش دهی برای پردازش داده ها در چند خط کد برای توسعه دهندگان آسان است.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -101,7 +101,7 @@ wkb.save("Excel.png");
 
 {{% blocks/products/pf/agp/text %}}
 
-قبل از اجرای کد منبع نمونه تبدیل Java، مطمئن شوید که پیش نیازهای زیر را دارید.
+ قبل از اجرای کد منبع نمونه تبدیل Java، مطمئن شوید که پیش نیازهای زیر را دارید.
 
 {{% /blocks/products/pf/agp/text %}}
 

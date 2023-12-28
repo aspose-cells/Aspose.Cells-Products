@@ -1,6 +1,7 @@
 ---
 title: نمودارهای کندل استیک را از طریق C# ایجاد کنید
 description: C# کد نمونه برای ایجاد نمودارهای Candlestick (Open-High- Low-Close Stock) در اکسل با استفاده از کتابخانه .NET. از این کد برای ایجاد نمودار Candlestick در MS Excel در VB.NET، Asp.NET یا هر برنامه مبتنی بر .NET استفاده کنید.
+keywords: [C# Aspose.Cells., c# add Candlestick Chart., c# insert Candlestick Chart., c# create Candlestick Chart]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
@@ -27,7 +28,7 @@ description: C# کد نمونه برای ایجاد نمودارهای Candlesti
 1.  a اضافه کنید[**سهام باز-بالا-کم-بسته**](https://reference.aspose.com/cells/net/aspose.cells.charts/charttype) نمودار را با فراخوانی به کاربرگ نشان دهید[**نمودار**](https://reference.aspose.com/cells/net/aspose.cells.charts/chartcollection) مجموعه ها[**اضافه کردن**](https://reference.aspose.com/cells/net/aspose.cells.charts/chartcollection/methods/add) روش، کپسوله شده در[**کاربرگ**](https://reference.aspose.com/cells/net/aspose.cells/worksheet)هدف - شی.
 1.  دسترسی به جدید[**چارت سازمانی**](https://reference.aspose.com/cells/net/aspose.cells.charts/chart)شیء از مجموعه نمودارها با عبور از نمایه آن.
 1.  منبع داده نمودار را با[**Chart.SetChartDataRange**](https://reference.aspose.com/cells/net/aspose.cells.charts/chart/methods/setchartdatarange) روش.
-1.  تنظیم داده های دسته با[**CategoryData**](https://reference.aspose.com/cells/net/aspose.cells.charts/seriescollection/categorydata/) ویژگی.
+1.  تنظیم داده های دسته با[**داده های دسته**](https://reference.aspose.com/cells/net/aspose.cells.charts/seriescollection/categorydata/) ویژگی.
 1.  به عنوان اکسل یا ODS ذخیره کنید[فایل خروجی](out.xlsx).
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

@@ -1,8 +1,8 @@
 ---
-title: Java تعمیر فایل اکسل - تعمیر فایل اکسل آنلاین به صورت رایگان
+title: Java تعمیر اکسل - بازیابی و رفع خرابی فایل اکسل
 url: /fa/java/recovery/repair-excel/ 
-description: Aspose اکسل. Java Aspose.Cells. Java تعمیر فایل اکسل. ابزار آنلاین رایگان تعمیر اکسل. یک فایل اکسل خراب را تعمیر کنید. یک فایل اکسل خراب را در برنامه Java بازیابی کنید.
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java Repair excel file., Free Online Repair a corrupted excel file., Java Recover excel file.]
+description: Java Aspose.Cells. تعمیر اکسل. فایل اکسل را اصلاح کنید. ابزار بازیابی اکسل اکسل فساد بازیابی اطلاعات اکسل بازیابی فایل اکسل بازیابی فایل اکسل خراب
+keywords: [Java Aspose.Cells., repair excel file., excel repair., recover corrupted excel file., repair corrupted excel., recover excel., fix excel file., excel corruption., restore excel data., excel file recovery., recover corrupted excel file.]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="تعمیر فایل EXCEL در Java" h2="برنامه Java خود را برای تعمیر فایل های اکسل با استفاده از Java بسازید." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="EXCEL" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="" fileiconsmall1="XLS" fileiconsmall2="XLSB" fileiconsmall3="XLSX" fileiconsmall4="XLSM" fileiconsmall5="ODS" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java Repair ex
 
 {{% blocks/products/pf/agp/content h2="با استفاده از Java فایل EXCEL را تعمیر کنید" %}}
 
- چگونه فایل اکسل را تعمیر کنم؟ با کتابخانه Aspose.Cells for Java به راحتی می توانید فایل EXCEL را به صورت برنامه ای و با چند خط کد تعمیر کنید.[Aspose.Cells for Java](https://products.aspose.com/cells/java) قادر به ساخت برنامه های چند پلتفرمی با قابلیت تولید، تغییر، تبدیل، رندر و چاپ تمام فایل های اکسل است. Java اکسل API نه تنها بین فرمت های صفحه گسترده تبدیل می کند، بلکه می تواند فایل های اکسل را به صورت تصویر رندر کند. انتخاب عالی برای تبادل اسناد در استانداردهای صنعتی فرمت ها آخرین نسخه آن را می توانید مستقیماً از اینجا دانلود کنید[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) و با افزودن تنظیمات زیر به pom.xml آن را در پروژه مبتنی بر Maven خود نصب کنید.
+ چگونه فایل اکسل را تعمیر کنم؟ با کتابخانه Aspose.Cells for Java به راحتی می توانید فایل EXCEL را به صورت برنامه ای و با چند خط کد تعمیر کنید.[Aspose.Cells for Java](https://products.aspose.com/cells/java)قادر به ساخت برنامه های چند پلتفرمی با قابلیت تولید، تغییر، تبدیل، رندر و چاپ تمام فایل های اکسل است. Java اکسل API نه تنها بین فرمت های صفحه گسترده تبدیل می شود، بلکه می تواند فایل های اکسل را به صورت تصویر، PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT و موارد دیگر ارائه دهد، بنابراین آن را به گزینه ای عالی برای تبادل اسناد در قالب های استاندارد صنعتی تبدیل می کند. آخرین نسخه آن را می توانید مستقیماً از اینجا دانلود کنید[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) و با افزودن تنظیمات زیر به pom.xml آن را در پروژه مبتنی بر Maven خود نصب کنید.
 
 {{% blocks/products/pf/agp/code-block title="مخزن" offSpacer="true" %}}
 
@@ -60,7 +60,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java Repair ex
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-recovery title="برنامه رایگان و کد نمونه برای تعمیر آنلاین فایل EXCEL" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et" InputFormat="xlsx" outformat="xlsx" IsLandingPage="true" language="java" %}}    
+{{% cells-recovery title="نمونه کد برای تعمیر فایل EXCEL" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et" InputFormat="xlsx" outformat="xlsx" IsLandingPage="true" language="java" %}}    
     
 {{% blocks/products/pf/agp/content h2="کتابخانه Java برای تعمیر فایل EXCEL" %}}
 

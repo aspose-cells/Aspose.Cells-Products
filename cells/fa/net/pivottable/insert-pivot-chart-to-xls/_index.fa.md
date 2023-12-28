@@ -1,7 +1,8 @@
 ---
 title: درج Pivot Chart در فایل های Micorsoft Excel XLS از طریق C#
 weight: 7690
-description: C# نمونه کد تولید اسناد XLS با نمودار محوری. از این کد برای ایجاد فایل های Micorsoft Excel XLS با نمودار محوری در VB.NET، Asp.NET یا هر برنامه مبتنی بر .NET استفاده کنید.
+description: C# نمونه کد افزودن Pivot Chart به XLS با استفاده از کتابخانه .NET. از این کد برای درج Pivot Chart به فایل XLS در VB.NET، Asp.NET یا هر برنامه مبتنی بر .NET استفاده کنید.
+keywords: [C# Aspose.Cells., c# add pivot chart in xls., c# insert pivot chart in xls., c# create pivot chart in xls., c# modify pivot chart in xls., access pivot chart in xls]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="درج نمودار محوری در اسناد XLS از طریق C#" h2="صفحه گسترده Microsoft اکسل XLS بومی و با کارایی بالا با ایجاد نمودار Pivot به صورت برنامه‌ریزی با استفاده از APIهای سمت سرور .NET." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLS" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLS" >}}
@@ -11,9 +12,7 @@ description: C# نمونه کد تولید اسناد XLS با نمودار مح
 
 {{% blocks/products/pf/agp/content h2="" %}}
 
- تولید فایل MS Excel XLS با نمودار Pivot به صورت پویا در برنامه در حال اجرا آسان است. به منظور ایجاد اسناد XLS با نمودار Pivot از ابتدا بدون نیاز به MS Office، ما از
- [Aspose.Cells for .NET](https://products.aspose.com/cells/net) 
- API که ویژگی های مختلفی را برای ایجاد، دستکاری و تبدیل صفحات گسترده با استفاده از پلت فرم .NET ارائه می دهد. توسعه دهندگان می توانند به راحتی کد را برای نوشتن داده ها، تولید نمودارها یا نمودارها و همچنین ایجاد جدول در صفحات گسترده افزایش دهند.
+ تولید فایل MS Excel XLS با نمودار Pivot به صورت پویا در برنامه در حال اجرا آسان است. به منظور ایجاد اسناد XLS با نمودار Pivot از ابتدا بدون نیاز به MS Office، ما از[Aspose.Cells for .NET](https://products.aspose.com/cells/net) API که ویژگی های مختلفی را برای ایجاد، دستکاری و تبدیل صفحات گسترده با استفاده از پلت فرم .NET ارائه می دهد. توسعه دهندگان می توانند به راحتی کد را برای نوشتن داده ها، تولید نمودارها یا نمودارها و همچنین ایجاد جدول در صفحات گسترده افزایش دهند.
 {{% /blocks/products/pf/agp/content %}}
 
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
@@ -32,7 +31,7 @@ description: C# نمونه کد تولید اسناد XLS با نمودار مح
 1.  سلول(های) مورد نظر کاربرگ را بدست آورید و مقدار آن را در سلول(ها) قرار دهید.
 1.  PivotTable را وارد کرده و استایل را تنظیم کنید
 1.  درج نمودار محوری با استفاده از داده های PivotTable
-1. از روش Save برای ذخیره کتاب کار به عنوان فایل XLS استفاده کنید.
+1.  از روش Save برای ذخیره کتاب کار به عنوان فایل XLS استفاده کنید.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -40,7 +39,7 @@ description: C# نمونه کد تولید اسناد XLS با نمودار مح
 
 {{% blocks/products/pf/agp/text %}}
 
- فقط مطمئن شوید که سیستم دارای Microsoft Windows یا یک سیستم عامل سازگار با .NET Framework، .NET Core، Windows Azure، Mono یا Xamarin پلتفرم های 876 استودیو 3076 و همچنین محیط های توسعه است.
+فقط مطمئن شوید که سیستم دارای Microsoft Windows یا یک سیستم عامل سازگار با .NET Framework، .NET Core، Windows Azure، Mono یا Xamarin پلتفرم های 876 استودیو 3076 و همچنین محیط های توسعه است.
 
 {{% /blocks/products/pf/agp/text %}}
 

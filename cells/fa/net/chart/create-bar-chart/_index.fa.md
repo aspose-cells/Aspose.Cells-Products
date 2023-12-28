@@ -1,6 +1,7 @@
 ---
 title: نمودار میله ای را از طریق C# ایجاد کنید
 description: C# نمونه کد ایجاد نمودار میله ای در اکسل با استفاده از کتابخانه .NET. از این کد برای ایجاد نمودار نواری در MS Excel در VB.NET، Asp.NET یا هر برنامه مبتنی بر .NET استفاده کنید.
+keywords: [C# Aspose.Cells., c# add Bar Chart., c# insert Bar Chart., c# create Bar Chart]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 

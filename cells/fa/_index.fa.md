@@ -10,7 +10,7 @@ description: برنامه های دستکاری فایل اکسل را با اس
 {{< blocks/products/pf/product-card-row title="Aspose.Cells High Code APIs شامل" >}}
 
 {{< blocks/products/pf/product pfName="Aspose.Cells for " title=".NET" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" productLink="https://products.aspose.com/cells/net" >}}
-API های High Code برای هدف قرار دادن پلتفرم های .NET Framework، .NET Core و Xamarin برای توسعه برنامه های دستکاری صفحه گسترده برای Windows، iOS و Android.
+APIهای High Code برای هدف قرار دادن پلتفرم های .NET Framework، .NET Core و Xamarin برای توسعه برنامه های دستکاری صفحه گسترده برای Windows، iOS و Android.
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/product pfName="Aspose.Cells for " title="Java" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" productLink="https://products.aspose.com/cells/java" >}}

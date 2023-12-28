@@ -1,7 +1,8 @@
 ---
-title:  حذف XLSM حاشیه نویسی via .NET
+title:  افزودن یا حذف XLSM حاشیه نویسی via .NET
 weight: 9890
 description: C# کد منبع برای افزودن و حذف حاشیه نویسی با فرمت XLSM در .NET Framework، .NET Core، Mono یا Xamarin Platforms.
+keywords: [C# Aspose.Cells., add xlsm annotation., insert xlsm annotation., access xlsm annotation., remove xlsm annotation., delete xlsm annotation., add annotation in xlsm., insert annotation in xlsm., access annotation in xlsm., remove annotation in xlsm., delete annotation in xlsm]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="اضافه کردن یا حذف حاشیه نویسی از XLSM از طریق C#" h2="برنامه های .NET خود را برای دستکاری نظرات و نویسندگان در فایل های سند با استفاده از API های سمت سرور بسازید." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSM" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="PPTX" fileiconsmall2="DOCX" fileiconsmall3="XLSX" fileiconsmall4="PDF" fileiconsmall5=" ODP " >}}

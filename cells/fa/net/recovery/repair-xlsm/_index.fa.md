@@ -1,8 +1,8 @@
 ---
-title: C# تعمیر فایل xlsm - تعمیر فایل xlsm بصورت آنلاین رایگان
+title: C# تعمیر xlsm - بازیابی و رفع خرابی فایل xlsm
 url: /fa/net/recovery/repair-xlsm/ 
-description: Aspose اکسل. C# Aspose.Cells. C# تعمیر فایل xlsm. ابزار تعمیر آنلاین xlsm رایگان. یک فایل xlsm خراب را تعمیر کنید. یک فایل xlsm خراب را در برنامه .NET بازیابی کنید.
-keywords: [Aspose Excel., C# Aspose.Cells., C# Aspose Cells., C# Repair xlsm file., Free Online Repair a corrupted xlsm file., C# Recover xlsm file.]
+description: C# Aspose.Cells. تعمیر xlsm. فایل xlsm را اصلاح کنید. ابزار بازیابی xlsm. فساد xlsm بازیابی اطلاعات xlsm بازیابی فایل xlsm فایل xlsm خراب را بازیابی کنید.
+keywords: [C# Aspose.Cells., repair xlsm file., xlsm repair., recover corrupted xlsm file., repair corrupted xlsm., recover xlsm., fix xlsm file., xlsm corruption., restore xlsm data., xlsm file recovery., recover corrupted xlsm file.]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="تعمیر فایل XLSM در C#" h2="برنامه .NET خود را برای تعمیر فایل های xlsm با استفاده از .NET بسازید." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSM" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="XLS" fileiconsmall2="XLSB" fileiconsmall3="XLSX" fileiconsmall4="XLSM" fileiconsmall5="ODS" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., C# Aspose.Cells., C# Aspose Cells., C# Repair xlsm fil
 
 {{% blocks/products/pf/agp/content h2="فایل XLSM را با شماره C# تعمیر کنید" %}}
 
- چگونه فایل xlsm را تعمیر کنم؟ با کتابخانه Aspose.Cells for .NET به راحتی می توانید فایل XLSM را به صورت برنامه ای و با چند خط کد تعمیر کنید.[Aspose.Cells for .NET](https://products.aspose.com/cells/net)قادر به ساخت برنامه های چند پلتفرمی با قابلیت تولید، تغییر، تبدیل، رندر و چاپ تمام فایل های اکسل است. .NET اکسل API نه تنها بین فرمت های صفحه گسترده تبدیل می کند، بلکه می تواند فایل های اکسل را به صورت تصویر رندر کند. انتخاب عالی برای تبادل اسناد در استانداردهای صنعتی فرمت ها باز کن[NuGet](https://www.nuget.org/packages/aspose.cells) Package Manager Aspose.Cells را جستجو و نصب کنید. همچنین می توانید از دستور زیر در کنسول Package Manager استفاده کنید.
+ چگونه فایل xlsm را تعمیر کنم؟ با کتابخانه Aspose.Cells for .NET به راحتی می توانید فایل XLSM را به صورت برنامه ای و با چند خط کد تعمیر کنید.[Aspose.Cells for .NET](https://products.aspose.com/cells/net)قادر به ساخت برنامه های چند پلتفرمی با قابلیت تولید، تغییر، تبدیل، رندر و چاپ تمام فایل های اکسل است. .NET اکسل API نه تنها بین فرمت های صفحه گسترده تبدیل می شود، بلکه می تواند فایل های اکسل را به صورت تصویر، PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT و موارد دیگر ارائه دهد، بنابراین آن را به گزینه ای عالی برای تبادل اسناد در قالب های استاندارد صنعتی تبدیل می کند. باز کن[NuGet](https://www.nuget.org/packages/aspose.cells) Package Manager Aspose.Cells را جستجو و نصب کنید. همچنین می توانید از دستور زیر در کنسول Package Manager استفاده کنید.
 
 {{% blocks/products/pf/agp/code-block title="فرمان کنسول Package Manager" offSpacer="true" %}}
 
@@ -41,7 +41,7 @@ PM> Install-Package Aspose.Cells
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-recovery title="برنامه رایگان و کد نمونه برای تعمیر فایل آنلاین XLSM" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et" InputFormat="xlsm" outformat="xlsm" IsLandingPage="true" language="net" %}}    
+{{% cells-recovery title="نمونه کد تعمیر فایل XLSM" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et" InputFormat="xlsm" outformat="xlsm" IsLandingPage="true" language="net" %}}    
     
 {{% blocks/products/pf/agp/content h2=".NET کتابخانه جهت تعمیر فایل XLSM" %}}
 

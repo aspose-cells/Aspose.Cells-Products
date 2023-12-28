@@ -2,6 +2,7 @@
 title:  سند XLSM را بدون باز کردن via Java جستجو کنید
 weight: 6780
 description: Java نمونه کد برای جستجوی کلمات با الگو در فایل XLSM در Java Runtime Environment for JSP/JSF Application and Desktop Applications.
+keywords: [Java Aspose.Cells., Java search words with pattern in xlsm file., Java find words with pattern in xlsm file., Java search string with pattern in xlsm file., Java find words with pattern in xlsm file., Java search words in xlsm file., Java find words in xlsm file., Java search string in xlsm file., Java find string in xlsm file]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="فرمت های XLSM را در Java جستجو کنید" h2="جستجوی سند بومی و با کارایی بالا XLSM با استفاده از API های سمت سرور Aspose.Cells for Java، بدون استفاده از نرم افزارهایی مانند Microsoft یا Adobe PDF." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="XLSM" >}}
@@ -60,9 +61,9 @@ description: Java نمونه کد برای جستجوی کلمات با الگو
 + فایل XLSM را با نمونه سازی یک شی Workbook بارگیری کنید.
 + به اولین کاربرگ در فایل XLSM دسترسی پیدا کنید.
 + سلول حاوی فرمول مشخص شده را پیدا کنید.
-+ گزینه‌های FindOptions را به صورت لحظه‌ای وارد کنید.
++ گزینه‌های FindOptions را به‌صورت فوری وارد کنید.
 + سلول حاوی یک مقدار رشته را پیدا کنید
-+ سلول های پیدا شده پس از نتیجه جستجو را چاپ کنید
+سلول های پیدا شده پس از نتیجه جستجو را چاپ کنید
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

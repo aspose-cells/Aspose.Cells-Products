@@ -2,6 +2,7 @@
 title:  مکعب را در اکسل via Java قرار دهید
 weight: 20
 description: اشیاء را با استفاده از Aspose.Cells' Java API بدون هیچ نرم افزاری مانند Microsoft یا Open Office، Adobe PDF و غیره درج کنید.
+keywords: [Java Aspose.Cells., Java add Cube shape., Java insert Cube shape., Java create Cube shape]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="مکعب را در اکسل via Java قرار دهید" h2="مکعب را با استفاده از Aspose.Cells\' API بدون هیچ نرم افزاری مانند Microsoft یا Open Office، Adobe PDF و غیره وارد کنید." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSX" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="" fileiconsmall1="PPTX" fileiconsmall2="DOCX" fileiconsmall3="XLSX" fileiconsmall4="PDF" fileiconsmall5=" ODP " >}}
@@ -56,7 +57,7 @@ description: اشیاء را با استفاده از Aspose.Cells' Java API ب�
 
 {{% /blocks/products/pf/agp/text %}}
 
-نمونه سازی یک شی Workbook. (یا -> فایل XLSX را با مسیر کامل بارگیری کنید.)
++ نمونه سازی یک شی Workbook. (یا -> فایل XLSX را با مسیر کامل بارگیری کنید.)
 + کاربرگ را از طریق فهرست آن انتخاب کنید.
  + استفاده کنید[روش اضافه کردن](https://reference.aspose.com/cells/java/com.aspose.cells/shapecollection/#addAutoShape-int-int-int-int-int-int-int-) برای درج مکعب در کاربرگ انتخاب شده
 + کتاب کار را با فرمت XLSX ذخیره کنید.

@@ -1,6 +1,7 @@
 ---
 title:  تبدیل نمودار به SVG تصاویر via .NET
 description: کد منبع C# برای تبدیل نمودار در فایل XLSX در .NET Framework، .NET Core، Mono یا Xamarin Platforms.
+keywords: [C# Aspose.Cells., c# Convert chart to svg., c# Save chart to svg., c# chart to svg]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="تبدیل نمودارها به SVG تصاویر در C#" h2="تبدیل نمودارهای سند بومی و با کارایی بالا XLS به تصاویر با استفاده از API های سمت سرور، بدون استفاده از نرم افزارهایی مانند Microsoft یا Adobe PDF." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="XLS" >}}
@@ -43,7 +44,7 @@ PM> Install-Package Aspose.Cells
 {{% /blocks/products/pf/agp/text %}}
 
 + فایل XLSX ایجاد کنید.
-+ نمودار را دریافت کنید.
+نمودار را دریافت کنید.
 + تبدیل نمودار به تصویر SVG.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

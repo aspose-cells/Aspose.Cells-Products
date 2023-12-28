@@ -2,6 +2,7 @@
 title: درج تصاویر/آیکون های SVG در اکسل via Java
 weight: 10
 description: اشیاء را با استفاده از Aspose.Cells' Java API بدون هیچ نرم افزاری مانند Microsoft یا Open Office، Adobe PDF و غیره درج کنید.
+keywords: [Java Aspose.Cells., Java add SVG images/Icons into Excel., Java insert SVG images/Icons into Excel., Java create SVG images/Icons in Excel]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="درج تصاویر/آیکون های SVG در اکسل via Java" h2="تصاویر/آیکون های SVG را با استفاده از Aspose.Cells\' API بدون هیچ نرم افزاری مانند Microsoft یا Open Office، Adobe PDF و غیره وارد کنید." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSX" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="" fileiconsmall1="PPTX" fileiconsmall2="DOCX" fileiconsmall3="XLSX" fileiconsmall4="PDF" fileiconsmall5=" ODP " >}}
@@ -25,7 +26,7 @@ description: اشیاء را با استفاده از Aspose.Cells' Java API ب�
 + تعداد زیادی تصویر svg را در همان فایل اکسل قرار دهید.
 + تصاویر svg را در تعداد زیادی فایل اکسل مختلف قرار دهید.
 
- برای حل این مشکلات به شما توصیه می کنیم از[Aspose.Cells](https://products.aspose.com/cells/) library.این شامل بسیاری از رابط های رایج برای پردازش فایل های اکسل است و ابزار بسیار مفیدی است.
+ برای حل این مشکلات به شما توصیه می کنیم از[Aspose.Cells](https://products.aspose.com/cells/)library.این شامل بسیاری از رابط های رایج برای پردازش فایل های اکسل است و ابزار بسیار مفیدی است.
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -96,9 +97,9 @@ Microsoft اکسل تصاویر svg از پیش تعیین شده را در اخ
 
 {{% /blocks/products/pf/agp/text %}}
 
-نمونه سازی یک شی Workbook. (یا -> فایل XLSX را با مسیر کامل بارگیری کنید.)
++ نمونه سازی یک شی Workbook. (یا -> فایل XLSX را با مسیر کامل بارگیری کنید.)
 + کاربرگ را از طریق فهرست آن انتخاب کنید.
- + استفاده کنید[روش اضافه کردن](https://reference.aspose.com/cells/java/com.aspose.cells/shapecollection/#addIcons-int-int-int-int-int-int-byte---byte---)برای درج Callouts در کاربرگ انتخابی
+ + استفاده کنید[روش اضافه کردن](https://reference.aspose.com/cells/java/com.aspose.cells/shapecollection/#addIcons-int-int-int-int-int-int-byte---byte---) برای درج Callouts در کاربرگ انتخابی
 + کتاب کار را با فرمت XLSX ذخیره کنید.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

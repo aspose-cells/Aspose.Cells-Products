@@ -2,6 +2,7 @@
 title:  نحوه رسم یا درج شکل فلش منحنی در اکسل via Java
 weight: 30
 description: شکل فلش منحنی را با استفاده از Aspose.Cells' Java API بدون هیچ نرم افزاری مانند Microsoft یا Open Office، Adobe PDF و غیره بکشید یا درج کنید.
+keywords: [Java Aspose.Cells., Java add curved arrow shape., Java insert curved arrow shape., Java create curved arrow shape]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="شکل فلش منحنی را در اکسل via Java وارد کنید" h2="شکل فلش منحنی را با استفاده از Aspose.Cells\' API بدون هیچ نرم افزاری مانند Microsoft یا Open Office، Adobe PDF و غیره وارد کنید." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSX" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="" fileiconsmall1="PPTX" fileiconsmall2="DOCX" fileiconsmall3="XLSX" fileiconsmall4="PDF" fileiconsmall5=" ODP " >}}
@@ -56,7 +57,7 @@ description: شکل فلش منحنی را با استفاده از Aspose.Cells
 
 {{% /blocks/products/pf/agp/text %}}
 
-نمونه سازی یک شی Workbook. (یا -> فایل XLSX را با مسیر کامل بارگیری کنید.)
++ نمونه سازی یک شی Workbook. (یا -> فایل XLSX را با مسیر کامل بارگیری کنید.)
 + کاربرگ را از طریق فهرست آن انتخاب کنید.
  + استفاده کنید[روش اضافه کردن](https://reference.aspose.com/cells/java/com.aspose.cells/shapecollection/#addAutoShape-int-int-int-int-int-int-int-) برای درج شکل فلش منحنی در کاربرگ انتخاب شده
 + کتاب کار را با فرمت XLSX ذخیره کنید.

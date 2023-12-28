@@ -2,6 +2,7 @@
 title:  قفل سند XLSM را از طریق C++ باز کنید
 weight: 6070
 description: C++ کد نمونه برای باز کردن قفل فایل XLSM محافظت شده با رمز عبور در C++ Runtime Environment برای Windows 32 بیتی، Windows 64 بیتی و لینوکس 64 بیتی.
+keywords: [C++ Aspose.Cells., C++ unlock XLSM files., C++ how to unlock XLSM document., C++ unprotect XLSM files., remove protection from XLSM files., decrypt XLSM Files using C++]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="فایل های XLSM را از طریق C++ باز کنید" h2="حفاظت از صفحات گسترده اکسل شامل فایل XLSM را با استفاده از کتابخانه C++ حذف کنید." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSM" pfName="Aspose.Cells" subTitlepfName="for C++" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSM" >}}
@@ -43,10 +44,11 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/text %}}
 
-1.  فایل قفل شده XLSM را با استفاده از CreateIWorkbook بارگیری کنید.
-1.  برای باز کردن قفل، تابع Unprotect() را فراخوانی کنید.
-1.  رمز عبور را با استفاده از SetPassword روی NULL قرار دهید.
-1.  فایل XLSM را در مکانی مشخص ذخیره کنید.
+1.  کلاس Workbook Instantiate با مسیر فایل محافظت شده XLSM
+1.  برای حذف حفاظت، پیش فرض یا هر کاربرگ دیگری را دریافت کنید
+1.  حفاظت کاربرگ را با روش Worksheet.Unprotect حذف کنید
+1.  حفاظت Workbook را با روش Workbook.Unprotect حذف کنید
+1.  نتیجه را در قالب XLSM ذخیره کنید
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -67,23 +69,24 @@ PM> Install-Package Aspose.Cells.Cpp
 
 ```cs
 
-// Source directory path.
-StringPtr srcDir = new String("SourceDirectory\\");
+Aspose::Cells::Startup();
 
-// Output directory path.
-StringPtr outDir = new String("OutputDirectory\\");
+// instantiate a Workbook object with protected XLSM file
+Workbook workbook(u"protected.xlsm");
 
-// Load XLSM file
-intrusive_ptr<IWorkbook> workbook = Factory::CreateIWorkbook(srcDir->StringAppend(new String("sampleExcelFileProtected.xlsm")));
+// access the default worksheet in the Excel file
+Worksheet worksheet = workbook.GetWorksheets().Get(0);
 
-// Unprotect workbook
-workbook->Unprotect(new String("12345"));
+// unprotect worksheet without a password
+worksheet.Unprotect();
 
-// Set password to null
-workbook->GetISettings()->SetPassword(NULL);
+// unprotect workbook with password
+workbook.Unprotect("password");
 
-// Save the XLSM file
-workbook->Save(outDir->StringAppend(new String("sampleExcelFileUnprotected_out.xlsm")));
+// save the result back in XLSM format
+workbook.Save("unprotected.xlsm", SaveFormat::Auto);
+
+Aspose::Cells::Cleanup();
 
 ```
 

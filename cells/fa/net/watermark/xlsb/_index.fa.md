@@ -1,7 +1,8 @@
 ---
-title:  واترمارک XLSB سند via .NET
+title: واترمارک XLSB سند via .NET
 weight: 5410
 description: کد منبع C# برای افزودن یا حذف واترمارک به فایل XLSB در .NET Framework، .NET Core، Mono یا Xamarin Platforms.
+keywords: [C# Aspose.Cells., C# add watermark to xlsb file., C# insert watermark to xlsb file., C# create watermark in xlsb file., remove watermark from xlsb file using C#., C# operate watermark in xlsb file., C# access watermark in xlsb file]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="اضافه کردن متن واترمارک به XLSB از طریق C#" h2="برنامه های .NET خود را بسازید تا فایل های XLSB را با استفاده از API های سمت سرور علامت گذاری کنید." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSB" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="PPTX" fileiconsmall2="DOCX" fileiconsmall3="XLSX" fileiconsmall4="PDF" fileiconsmall5=" ODP " >}}

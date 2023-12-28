@@ -1,8 +1,8 @@
 ---
 title: IMAGE را با ET ادغام کنید - IMAGE را با ET در Java ترکیب کنید
 url: /fa/java/merger/merge-image-to-et/ 
-description: Aspose اکسل. Java Aspose.Cells. ادغام آنلاین رایگان IMAGE به فرمت ذخیره سازی ET. Java IMAGE را با فرمت ET ترکیب کنید. IMAGE را با ET در Java ادغام کنید. IMAGE Merge.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge IMAGE to ET in Java., Free Online Java Merge IMAGE to et., Java Combine IMAGE to ET Online for Free., IMAGE Merge]
+description: Aspose اکسل. Java Aspose.Cells. IMAGE را با فرمت ذخیره ET ادغام کنید. Java IMAGE را با فرمت ET ترکیب کنید. IMAGE را با ET در Java ادغام کنید. IMAGE Merge.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge IMAGE to ET in Java., Java Merge IMAGE to et., Java Combine IMAGE to ET., IMAGE Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="IMAGE را با ET via Java ادغام کنید" h2="کتابخانه پرسرعت Java برای ادغام IMAGE به ET. از تبدیل اکسل ما API برای توسعه نرم افزار سطح بالا و مستقل از پلت فرم در Java استفاده کنید. این یک راه حل نرم افزاری حرفه ای برای وارد کردن و صادرات Excel, CSV, OpenOffice, PDF, HTML, image و بسیاری از فرمت های اکسل دیگر است." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="IMAGE" additionalConversionTag="ET" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Merge IMAGE to ET in Java., Free O
 
 {{% blocks/products/pf/agp/content h2="IMAGE را با ET با استفاده از Java ادغام کنید" %}}
 
-چگونه IMAGE را با ET ادغام کنم؟ با کتابخانه Aspose.Cells for Java، می توانید به راحتی IMAGE را به صورت برنامه ریزی شده با چند خط کد به ET ادغام کنید.[Aspose.Cells for Java](https://products.aspose.com/cells/java) قادر به ساخت برنامه های چند پلتفرمی با قابلیت تولید، تغییر، تبدیل، رندر و چاپ تمام فایل های اکسل است. Java اکسل API نه تنها بین فرمت های صفحه گسترده تبدیل می کند، بلکه می تواند فایل های اکسل را به صورت تصویر رندر کند. انتخاب عالی برای تبادل اسناد در استانداردهای صنعتی فرمت ها آخرین نسخه آن را می توانید مستقیماً از اینجا دانلود کنید[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) و با افزودن تنظیمات زیر به pom.xml آن را در پروژه مبتنی بر Maven خود نصب کنید.
+چگونه IMAGE را با ET ادغام کنم؟ با کتابخانه Aspose.Cells for Java، می توانید به راحتی IMAGE را به صورت برنامه ریزی شده با چند خط کد به ET ادغام کنید.[Aspose.Cells for Java](https://products.aspose.com/cells/java)قادر به ساخت برنامه های چند پلتفرمی با قابلیت تولید، تغییر، تبدیل، رندر و چاپ تمام فایل های اکسل است. Java اکسل API نه تنها بین فرمت های صفحه گسترده تبدیل می شود، بلکه می تواند فایل های اکسل را به صورت تصویر، PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT و موارد دیگر ارائه دهد، بنابراین آن را به گزینه ای عالی برای تبادل اسناد در قالب های استاندارد صنعتی تبدیل می کند. آخرین نسخه آن را می توانید مستقیماً از اینجا دانلود کنید[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) و با افزودن تنظیمات زیر به pom.xml آن را در پروژه مبتنی بر Maven خود نصب کنید.
 
 {{% blocks/products/pf/agp/code-block title="مخزن" offSpacer="true" %}}
 
@@ -45,7 +45,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Merge IMAGE to ET in Java., Free O
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="IMAGE را با ET در Java آنلاین به صورت رایگان ادغام کنید" %}}
+{{% blocks/products/pf/agp/content h2="IMAGE را با ET در Java ادغام کنید" %}}
 
 مثال زیر نحوه ادغام IMAGE به ET را در Aspose.Cells for Java نشان می دهد.
 {{% blocks/products/pf/agp/text %}}
@@ -56,7 +56,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Merge IMAGE to ET in Java., Free O
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="آنلاین رایگان برای ادغام IMAGE به ET در Java" InputFormat="png" InputFormat2="et" outformat="et" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="java" %}}
+{{% cells-merger title="نمونه کد برای ادغام IMAGE به ET در Java" InputFormat="png" InputFormat2="et" outformat="et" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="نحوه ادغام IMAGE به ET via Java" %}}
 

@@ -1,8 +1,8 @@
 ---
-title: C++ تعمیر فایل اکسل - تعمیر فایل اکسل آنلاین به صورت رایگان
+title: C++ تعمیر اکسل - بازیابی و رفع خرابی فایل اکسل
 url: /fa/cpp/recovery/repair-excel/ 
-description: Aspose اکسل. C++ Aspose.Cells. C++ تعمیر فایل اکسل. ابزار آنلاین رایگان تعمیر اکسل. یک فایل اکسل خراب را تعمیر کنید. یک فایل اکسل خراب را در برنامه C++ بازیابی کنید.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ Repair excel file., Free Online Repair a corrupted excel file., C++ Recover excel file.]
+description: C++ Aspose.Cells. تعمیر اکسل. فایل اکسل را اصلاح کنید. ابزار بازیابی اکسل اکسل فساد بازیابی اطلاعات اکسل بازیابی فایل اکسل بازیابی فایل اکسل خراب
+keywords: [C++ Aspose.Cells., repair excel file., excel repair., recover corrupted excel file., repair corrupted excel., recover excel., fix excel file., excel corruption., restore excel data., excel file recovery., recover corrupted excel file.]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="تعمیر فایل EXCEL در C++" h2="برنامه C++ خود را برای تعمیر فایل های اکسل با استفاده از C++ بسازید." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" sourceAdditionalConversionTag="" additionalConversionTag="EXCEL" pfName="Aspose.Cells" subTitlepfName="for C++" downloadUrl="" fileiconsmall1="XLS" fileiconsmall2="XLSB" fileiconsmall3="XLSX" fileiconsmall4="XLSM" fileiconsmall5="ODS" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ Repair excel
 
 {{% blocks/products/pf/agp/content h2="با استفاده از C++ فایل EXCEL را تعمیر کنید" %}}
 
- چگونه فایل اکسل را تعمیر کنم؟ با کتابخانه Aspose.Cells for C++ به راحتی می توانید فایل EXCEL را به صورت برنامه ای و با چند خط کد تعمیر کنید.[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) قادر به ساخت برنامه های چند پلتفرمی با قابلیت تولید، تغییر، تبدیل، رندر و چاپ تمام فایل های اکسل است. C++ اکسل API نه تنها بین فرمت های صفحه گسترده تبدیل می کند، بلکه می تواند فایل های اکسل را به صورت تصویر رندر کند. انتخاب عالی برای تبادل اسناد در استانداردهای صنعتی فرمت ها شما می توانید آخرین نسخه آن را مستقیما دانلود کنید، فقط باز کنید[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) Package Manager Aspose.Cells.Cpp را جستجو کرده و نصب کنید. همچنین می توانید از دستور زیر در کنسول Package Manager استفاده کنید.
+ چگونه فایل اکسل را تعمیر کنم؟ با کتابخانه Aspose.Cells for C++ به راحتی می توانید فایل EXCEL را به صورت برنامه ای و با چند خط کد تعمیر کنید.[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) قادر به ساخت برنامه های چند پلتفرمی با قابلیت تولید، تغییر، تبدیل، رندر و چاپ تمام فایل های اکسل است. C++ اکسل API نه تنها بین فرمت های صفحه گسترده تبدیل می شود، بلکه می تواند فایل های اکسل را به صورت تصویر، PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT و موارد دیگر ارائه دهد، بنابراین آن را به گزینه ای عالی برای تبادل اسناد در قالب های استاندارد صنعتی تبدیل می کند. شما می توانید آخرین نسخه آن را مستقیما دانلود کنید، فقط باز کنید[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) Package Manager Aspose.Cells.Cpp را جستجو کرده و نصب کنید. همچنین می توانید از دستور زیر در کنسول Package Manager استفاده کنید.
 
 {{% blocks/products/pf/agp/code-block title="فرمان" offSpacer="true" %}}
 
@@ -41,7 +41,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-recovery title="برنامه رایگان و کد نمونه برای تعمیر آنلاین فایل EXCEL" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et" InputFormat="xlsx" outformat="xlsx" IsLandingPage="true" language="cpp" %}}    
+{{% cells-recovery title="نمونه کد برای تعمیر فایل EXCEL" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;xps;mhtml;md;json;xml;zip;sql;txt;et" InputFormat="xlsx" outformat="xlsx" IsLandingPage="true" language="cpp" %}}    
     
 {{% blocks/products/pf/agp/content h2="کتابخانه C++ برای تعمیر فایل EXCEL" %}}
 

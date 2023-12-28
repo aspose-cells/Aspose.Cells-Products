@@ -1,8 +1,8 @@
 ---
 title: MHT را با SQL ادغام کنید - MHT را با SQL در Java ترکیب کنید
 url: /fa/java/merger/merge-mht-to-sql/ 
-description: Aspose اکسل. Java Aspose.Cells. ادغام آنلاین رایگان MHT به SQL Saveformat. Java فرمت MHT را با SQL ترکیب کنید. ادغام MHT به SQL در Java. MHT Merge.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge MHT to SQL in Java., Free Online Java Merge MHT to sql., Java Combine MHT to SQL Online for Free., MHT Merge]
+description: Aspose اکسل. Java Aspose.Cells. MHT را با فرمت ذخیره SQL ادغام کنید. Java فرمت MHT را با SQL ترکیب کنید. ادغام MHT به SQL در Java. MHT Merge.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge MHT to SQL in Java., Java Merge MHT to sql., Java Combine MHT to SQL., MHT Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="MHT را با SQL via Java ادغام کنید" h2="کتابخانه پرسرعت Java برای ادغام MHT به SQL. از تبدیل اکسل ما API برای توسعه نرم افزار سطح بالا و مستقل از پلت فرم در Java استفاده کنید. این یک راه حل نرم افزاری حرفه ای برای وارد کردن و صادرات Excel, CSV, OpenOffice, PDF, HTML, image و بسیاری از فرمت های اکسل دیگر است." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="MHT" additionalConversionTag="SQL" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Merge MHT to SQL in Java., Free On
 
 {{% blocks/products/pf/agp/content h2="MHT را با SQL با استفاده از Java ادغام کنید" %}}
 
- چگونه MHT را با SQL ادغام کنم؟ با کتابخانه Aspose.Cells for Java، می‌توانید به راحتی MHT را به صورت برنامه‌نویسی با چند خط کد با SQL ادغام کنید.[Aspose.Cells for Java](https://products.aspose.com/cells/java) قادر به ساخت برنامه های چند پلتفرمی با قابلیت تولید، تغییر، تبدیل، رندر و چاپ تمام فایل های اکسل است. Java اکسل API نه تنها بین فرمت های صفحه گسترده تبدیل می کند، بلکه می تواند فایل های اکسل را به صورت تصویر رندر کند. انتخاب عالی برای تبادل اسناد در استانداردهای صنعتی فرمت ها آخرین نسخه آن را می توانید مستقیماً از اینجا دانلود کنید[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) و با افزودن تنظیمات زیر به pom.xml آن را در پروژه مبتنی بر Maven خود نصب کنید.
+ چگونه MHT را با SQL ادغام کنم؟ با کتابخانه Aspose.Cells for Java، می‌توانید به راحتی MHT را به صورت برنامه‌نویسی با چند خط کد با SQL ادغام کنید.[Aspose.Cells for Java](https://products.aspose.com/cells/java)قادر به ساخت برنامه های چند پلتفرمی با قابلیت تولید، تغییر، تبدیل، رندر و چاپ تمام فایل های اکسل است. Java اکسل API نه تنها بین فرمت های صفحه گسترده تبدیل می شود، بلکه می تواند فایل های اکسل را به صورت تصویر، PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT و موارد دیگر ارائه دهد، بنابراین آن را به گزینه ای عالی برای تبادل اسناد در قالب های استاندارد صنعتی تبدیل می کند. آخرین نسخه آن را می توانید مستقیماً از اینجا دانلود کنید[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) و با افزودن تنظیمات زیر به pom.xml آن را در پروژه مبتنی بر Maven خود نصب کنید.
 
 {{% blocks/products/pf/agp/code-block title="مخزن" offSpacer="true" %}}
 
@@ -45,7 +45,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Merge MHT to SQL in Java., Free On
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="ادغام MHT به SQL در Java آنلاین به صورت رایگان" %}}
+{{% blocks/products/pf/agp/content h2="MHT را با SQL در Java ادغام کنید" %}}
 
 مثال زیر نحوه ادغام MHT به SQL را در Aspose.Cells for Java نشان می دهد.
 {{% blocks/products/pf/agp/text %}}
@@ -56,13 +56,13 @@ keywords: [Aspose Excel., Java Aspose.Cells., Merge MHT to SQL in Java., Free On
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="آنلاین رایگان برای ادغام MHT به SQL در Java" InputFormat="mht" InputFormat2="sql" outformat="sql" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="java" %}}
+{{% cells-merger title="کد نمونه برای ادغام MHT به SQL در Java" InputFormat="mht" InputFormat2="sql" outformat="sql" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="نحوه ادغام MHT به SQL via Java" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
-آیا نیاز به ادغام MHT با SQL به صورت برنامه ریزی شده دارید؟ یک سند اساسی ادغام و الحاق با[Aspose.Cells for Java](https://products.aspose.com/cells/java) API ها را می توان تنها با چند خط کد انجام داد.
+ آیا نیاز به ادغام MHT با SQL به صورت برنامه ریزی شده دارید؟ یک سند اساسی ادغام و الحاق با[Aspose.Cells for Java](https://products.aspose.com/cells/java) API ها را می توان تنها با چند خط کد انجام داد.
 
 {{% /blocks/products/pf/agp/text %}}
 

@@ -2,6 +2,7 @@
 title: فلش های بلوکی را در اکسل via Java وارد کنید
 weight: 338
 description: اشیاء را با استفاده از Aspose.Cells' Java API بدون هیچ نرم افزاری مانند Microsoft یا Open Office، Adobe PDF و غیره درج کنید.
+keywords: [Java Aspose.Cells., Java add block arrows., Java insert block arrows., Java create block arrows]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="فلش های بلوکی را در اکسل via Java وارد کنید" h2="فلش های بلوکی را با استفاده از Aspose.Cells\' API بدون هیچ نرم افزاری مانند Microsoft یا Open Office، Adobe PDF و غیره وارد کنید." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSX" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="" fileiconsmall1="PPTX" fileiconsmall2="DOCX" fileiconsmall3="XLSX" fileiconsmall4="PDF" fileiconsmall5=" ODP " >}}
@@ -11,7 +12,7 @@ description: اشیاء را با استفاده از Aspose.Cells' Java API ب�
 
 {{% blocks/products/pf/agp/content h2="نحوه درج فلش های بلوک در فایل اکسل با استفاده از Java" %}}
 
-به منظور درج فلش های بلوکی در فایل اکسل، از آن استفاده می کنیم
+ به منظور درج فلش های بلوکی در فایل اکسل، از آن استفاده می کنیم
  [Aspose.Cells for Java](https://products.aspose.com/cells/java) 
  API که یک پلتفرم پر ویژگی، قدرتمند و آسان برای استفاده است API for Java. آخرین نسخه آن را می توانید مستقیماً از اینجا دانلود کنید
  [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) 
@@ -56,7 +57,7 @@ description: اشیاء را با استفاده از Aspose.Cells' Java API ب�
 
 {{% /blocks/products/pf/agp/text %}}
 
-نمونه سازی یک شی Workbook. (یا -> فایل XLSX را با مسیر کامل بارگیری کنید.)
++ نمونه سازی یک شی Workbook. (یا -> فایل XLSX را با مسیر کامل بارگیری کنید.)
 + کاربرگ را از طریق فهرست آن انتخاب کنید.
  + استفاده کنید[روش اضافه کردن](https://reference.aspose.com/cells/java/com.aspose.cells/shapecollection/#addAutoShape-int-int-int-int-int-int-int-) برای درج فلش های بلوکی در کاربرگ انتخاب شده
 + کتاب کار را با فرمت XLSX ذخیره کنید.
@@ -151,7 +152,7 @@ description: اشیاء را با استفاده از Aspose.Cells' Java API ب�
    <div class="col-lg-4">
     <img src="/cells/net/shapes/insert-block-arrows-to-excel/arrow_uturn.png" align="left" width="28" height="28">
     <p class="col-lg-10" style="font-size:0.8rem !important;">
- AutoShapeType.U_TURN_ARROW
+AutoShapeType.U_TURN_ARROW
     </p>
    </div>
    <div class="col-lg-4">
@@ -217,7 +218,7 @@ description: اشیاء را با استفاده از Aspose.Cells' Java API ب�
    <div class="col-lg-4">
     <img src="/cells/net/shapes/insert-block-arrows-to-excel/arrow_right_callout.png" align="left" width="28" height="28">
     <p class="col-lg-10" style="font-size:0.8rem !important;">
-AutoShapeType.RIGHT_ARROW_CALLOUT
+ AutoShapeType.RIGHT_ARROW_CALLOUT
     </p>
    </div>
    <div class="col-lg-4">

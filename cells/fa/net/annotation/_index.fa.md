@@ -1,6 +1,7 @@
 ---
-title: حاشیه نویسی فایل اکسل NET C#
+title: افزودن یا حذف حاشیه نویسی فایل اکسل NET C#
 description: تنها با چند خط کد C#، حاشیه نویسی داده صفحات گسترده Excel و OpenOffice را اضافه یا حذف کنید.
+keywords: [C# Aspose.Cells., add excel annotation., insert excel annotation., access excel annotation., remove excel annotation., delete excel annotation., add annotation in excel., insert annotation in excel., access annotation in excel., remove annotation in excel., delete annotation in excel]
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
 {{< blocks/products/pf/i18n/feature-page-header h1="حذف Microsoft<sup>&reg;</sup> حاشیه نویسی فایل اکسل via .NET" h2="اضافه کردن یا حذف حاشیه نویسی فایل های اکسل با استفاده از کد C# در برنامه های مبتنی بر .NET." >}}

@@ -2,6 +2,7 @@
 title: گروه و گروه بندی کردن اشکال در اکسل via Java
 weight: 360
 description: اشیاء را با استفاده از Aspose.Cells' Java API بدون هیچ نرم افزاری مانند Microsoft یا Open Office، Adobe PDF و غیره Group And Ungroup کنید.
+keywords: [Java Aspose.Cells., Java group shapes., Java ungroup shapes., Java group and ungroup shapes., Java group or ungroup shapes]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="گروه و گروه بندی کردن اشکال در اکسل via Java" h2="با استفاده از Aspose.Cells\' API برای کار با اشیاء مختلف بدون هیچ نرم افزاری مانند Microsoft یا Open Office، Adobe PDF و غیره." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSX" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="" fileiconsmall1="PPTX" fileiconsmall2="DOCX" fileiconsmall3="XLSX" fileiconsmall4="PDF" fileiconsmall5=" ODP " >}}
@@ -56,7 +57,7 @@ description: اشیاء را با استفاده از Aspose.Cells' Java API ب�
 
 {{% /blocks/products/pf/agp/text %}}
 
-نمونه سازی یک شی Workbook. (یا -> فایل XLSX را با مسیر کامل بارگیری کنید.)
++ نمونه سازی یک شی Workbook. (یا -> فایل XLSX را با مسیر کامل بارگیری کنید.)
 + کاربرگ را از طریق فهرست آن انتخاب کنید.
  + استفاده کنید[روش گروهی](https://reference.aspose.com/cells/java/com.aspose.cells/shapecollection/#group-com.aspose.cells.Shape---) برای گروه بندی اشکال در کاربرگ انتخاب شده
  + استفاده کنید[روش حذف گروه](https://reference.aspose.com/cells/java/com.aspose.cells/shapecollection/#ungroup-com.aspose.cells.GroupShape-) برای لغو گروه بندی اشکال در کاربرگ انتخاب شده

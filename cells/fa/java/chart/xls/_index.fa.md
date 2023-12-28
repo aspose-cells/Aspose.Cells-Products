@@ -2,6 +2,7 @@
 title:  XLS نمودار سند via Java
 weight: 1050
 description: Java نمونه کد برای رسم و تبدیل نمودار یا نمودار در فایل XLS در Java Runtime Environment for JSP/JSF Application and Desktop Applications.
+keywords: [Java Aspose.Cells., Java Convert chart to image in xls., Java Save chart to image in xls., Java chart to image in xls., xls convert chart to image in Java., xls save chart to imagein Java., xls chart to image in Java]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="XLS فرمت نمودارها در Java" h2="نمودارهای سند بومی و با کارایی بالا XLS با استفاده از API های سمت سرور Aspose.Cells for Java، بدون استفاده از نرم افزارهایی مانند Microsoft یا Adobe PDF." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="XLS" >}}
@@ -11,7 +12,7 @@ description: Java نمونه کد برای رسم و تبدیل نمودار ی�
 
 {{% blocks/products/pf/agp/content h2="نحوه ایجاد نمودارهای فایل XLS با استفاده از Java" %}}
 
- به منظور ایجاد نمودارهای فایل XLS، از آن استفاده خواهیم کرد
+به منظور ایجاد نمودارهای فایل XLS، از آن استفاده خواهیم کرد
  [Aspose.Cells for Java](https://products.aspose.com/cells/java) 
  API که یک پلتفرم نمودار API for Java با ویژگی های غنی، قدرتمند و آسان برای استفاده است. آخرین نسخه آن را می توانید مستقیماً از اینجا دانلود کنید
  [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) 
@@ -64,7 +65,7 @@ description: Java نمونه کد برای رسم و تبدیل نمودار ی�
 + مقادیر نمونه را به سلول ها اضافه کنید.
 + یک نمودار به کاربرگ اضافه کنید.
 + به نمونه نمودار تازه اضافه شده دسترسی پیدا کنید.
-تنظیم منبع داده نمودار به عنوان محدوده.
++ تنظیم منبع داده نمودار به عنوان محدوده.
 + ذخیره کتاب کار.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

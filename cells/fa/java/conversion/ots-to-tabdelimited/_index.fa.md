@@ -1,7 +1,7 @@
 ---
-title: Java OTS به TABDELIMITED - تبدیل آنلاین OTS به TABDELIMITED
-description: Aspose اکسل. Java Aspose.Cells. Java Aspose Cells. رایگان آنلاین Java تبدیل OTS به TABDELIMITED ذخیره فرمت. Java OTS به فرمت TABDELIMITED. OTS را به ABDELIMITED Java ذخیره کنید.
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java OTS to TABDELIMITED saveformat., Free Online OTS to TABDELIMITED Java., Java Convert OTS to TABDELIMITED]
+title: Java OTS به TABDELIMITED - تبدیل OTS به TABDELIMITED
+description: Aspose اکسل. تبدیل OTS به TABDELIMITED به سرعت و به راحتی با Aspose.Cells. Java OTS به TABDELIMITED. Java ذخیره OTS در TABDELIMITED. با استفاده از Java OTS را به صورت TABDELIMITED ذخیره کنید.
+keywords: [Aspose Excel., Java Aspose.Cells., Convert OTS to TABDELIMITED in Java., Save OTS to TABDELIMITED using Java., Java OTS to TABDELIMITED saveformat., OTS to TABDELIMITED Converter., Java Save OTS as TABDELIMITED]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="OTS را در Java به TABDELIMITED تبدیل کنید" h2="کتابخانه پرسرعت Java برای تبدیل OTS به TABDELIMITED. این یک راه حل نرم افزاری حرفه ای برای واردات و صادرات OTS، TABDELIMITED و بسیاری از فرمت های دیگر با استفاده از Java است." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="TABDELIMITED" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java OTS to TA
 
 {{% blocks/products/pf/agp/content h2="OTS را با استفاده از Java به TABDELIMITED تبدیل کنید" %}}
 
- چگونه OTS را به TABDELIMITED تبدیل کنم؟ با کتابخانه Aspose.Cells for Java به راحتی می توانید OTS را به صورت برنامه ریزی شده با چند خط کد به TABDELIMITED تبدیل کنید.[Aspose.Cells for Java](https://products.aspose.com/cells/java) قادر به ساخت برنامه های چند پلتفرمی با قابلیت تولید، تغییر، تبدیل، رندر و چاپ تمام فایل های اکسل است. Java اکسل API نه تنها بین فرمت های صفحه گسترده تبدیل می کند، بلکه می تواند فایل های اکسل را به صورت تصویر رندر کند. انتخاب عالی برای تبادل اسناد در استانداردهای صنعتی فرمت ها آخرین نسخه آن را می توانید مستقیماً از اینجا دانلود کنید[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) و با افزودن تنظیمات زیر به pom.xml آن را در پروژه مبتنی بر Maven خود نصب کنید.
+ چگونه OTS را به TABDELIMITED تبدیل کنم؟ با کتابخانه Aspose.Cells for Java به راحتی می توانید OTS را به صورت برنامه ریزی شده با چند خط کد به TABDELIMITED تبدیل کنید.[Aspose.Cells for Java](https://products.aspose.com/cells/java)قادر به ساخت برنامه های چند پلتفرمی با قابلیت تولید، تغییر، تبدیل، رندر و چاپ تمام فایل های اکسل است. Java اکسل API نه تنها بین فرمت های صفحه گسترده تبدیل می شود، بلکه می تواند فایل های اکسل را به صورت تصویر، PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT و موارد دیگر ارائه دهد، بنابراین آن را به گزینه ای عالی برای تبادل اسناد در قالب های استاندارد صنعتی تبدیل می کند. آخرین نسخه آن را می توانید مستقیماً از اینجا دانلود کنید[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) و با افزودن تنظیمات زیر به pom.xml آن را در پروژه مبتنی بر Maven خود نصب کنید.
 
 {{% blocks/products/pf/agp/code-block title="مخزن" offSpacer="true" %}}
 
@@ -45,7 +45,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java OTS to TA
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="OTS را به TABDELIMITED در Java آنلاین به صورت رایگان ذخیره کنید" %}}
+{{% blocks/products/pf/agp/content h2="OTS را در TABDELIMITED در Java ذخیره کنید" %}}
 
 مثال زیر نحوه تبدیل OTS به TABDELIMITED را در Java نشان می دهد.
 {{% blocks/products/pf/agp/text %}}
@@ -56,7 +56,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java OTS to TA
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="برنامه رایگان و کد نمونه برای تبدیل OTS به TABDELIMITED آنلاین" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="ots" outformat="tsv" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="کد نمونه برای تبدیل OTS به TABDELIMITED" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="ots" outformat="tsv" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="نحوه تبدیل OTS به TABDELIMITED via Java" %}}
 

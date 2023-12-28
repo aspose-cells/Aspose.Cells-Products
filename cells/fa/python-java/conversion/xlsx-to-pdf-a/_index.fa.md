@@ -10,7 +10,7 @@ description: کد نمونه برای تبدیل xlsx به pdf Python. از کد
 
 {{% blocks/products/pf/agp/content h2="نحوه تبدیل XLSX به PDF با استفاده از Python" %}}
 
- برای تبدیل XLSX به PDF از
+برای تبدیل XLSX به PDF از
  [Aspose.Cells for Python](https://pypi.org/project/aspose-cells) 
  API که یک پلتفرم دستکاری و تبدیل اسناد با ویژگی های غنی، قدرتمند و آسان برای استفاده است API for Python.
 {{% /blocks/products/pf/agp/content %}}
@@ -41,11 +41,11 @@ description: کد نمونه برای تبدیل xlsx به pdf Python. از کد
 {{% /blocks/products/pf/agp/text %}}
 
 -  Java را نصب کنید و آن را به متغیر محیطی PATH اضافه کنید، به عنوان مثال:<code>PATH=C:\Program Files\Java\jdk1.8.0_131;</code>.
-- Aspose.Cells for Python را نصب کنید<a href="https://pypi.org/project/aspose-cells/">pypi</a> ، از دستور به صورت زیر استفاده کنید:<code>$ pip install aspose-cells</code>.
+-  Aspose.Cells for Python را نصب کنید<a href="https://pypi.org/project/aspose-cells/">pypi</a> ، از دستور به صورت زیر استفاده کنید:<code>$ pip install aspose-cells</code>.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Convert XLSX to PDF-A - Python" offSpacer="" %}}
+{{% blocks/products/pf/agp/code-block title="تبدیل XLSX به PDF-A - Python" offSpacer="" %}}
 
 {{< gist "aspose-cells-gists" "32e50c6aabc547111966569f3fd39694" "Convert-XLSX-to-PDFA.py" >}}
 
@@ -57,7 +57,7 @@ description: کد نمونه برای تبدیل xlsx به pdf Python. از کد
 
     {{% blocks/products/pf/agp/content h2="" %}}
 
- یک کتابخانه برنامه نویسی صفحه گسترده اکسل که قادر به ساخت برنامه های کاربردی چند پلتفرمی با توانایی تولید، تغییر، تبدیل، رندر و چاپ همه فایل های اکسل است. Python اکسل API نه تنها بین فرمت های صفحه گسترده تبدیل می کند، بلکه می تواند فایل های اکسل را به صورت تصویر رندر کند. انتخاب عالی برای تبادل اسناد در استانداردهای صنعتی فرمت ها
+یک کتابخانه برنامه نویسی صفحه گسترده اکسل که قادر به ساخت برنامه های کاربردی چند پلتفرمی با توانایی تولید، تغییر، تبدیل، رندر و چاپ همه فایل های اکسل است. Python اکسل API نه تنها بین فرمت های صفحه گسترده تبدیل می شود، بلکه می تواند فایل های اکسل را به صورت تصویر، PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT و موارد دیگر ارائه دهد، بنابراین آن را به گزینه ای عالی برای تبادل اسناد در قالب های استاندارد صنعتی تبدیل می کند.
 
     {{% /blocks/products/pf/agp/content %}}
 

@@ -2,6 +2,7 @@
 title:  ایجاد گزارش در XLS فایل via Java
 weight: 1090
 description: Java کد نمونه برای ایجاد گزارشات با فرمت XLS در Java Runtime Environment برای برنامه های کاربردی JSP/JSF و برنامه های دسکتاپ.
+keywords: [Java Aspose.Cells., Java Create XLS Reports Based on Predesigned Excel Template., Java Generate XLS Reports Based on Predesigned Excel Template., Java Create XLS Reports Based on Excel Template., Java Generate XLS Reports Based on Excel Template., Java Create XLS files Based on Excel Template., Java Generate XLS files Based on Excel Template]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="تولید گزارش انبوه در قالب XLS via Java" h2="با استفاده از منبع داده و یک الگو، گزارش‌هایی در قالب XLS ایجاد کنید." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLS" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLS" >}}
@@ -75,9 +76,9 @@ description: Java کد نمونه برای ایجاد گزارشات با فرم
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="ایجاد گزارشات اکسل با فرمت XLS - C#" offSpacer="" %}}
+{{% blocks/products/pf/agp/code-block title="ایجاد گزارشات اکسل با فرمت XLS - Java" offSpacer="" %}}
 
-```cs
+```java
 //Create a workbook designer
 WorkbookDesigner designer = new WorkbookDesigner(workbook);
 

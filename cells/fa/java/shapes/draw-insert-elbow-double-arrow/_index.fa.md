@@ -2,6 +2,7 @@
 title:  نحوه رسم یا قرار دادن شکل دو فلش آرنج در اکسل via Java
 weight: 30
 description: با استفاده از Aspose.Cells' Java API بدون هیچ نرم افزاری مانند Microsoft یا Open Office، Adobe PDF و غیره، شکل دو فلش آرنج را بکشید یا وارد کنید.
+keywords: [Java Aspose.Cells., Java add double-arrow shape., Java insert double-arrow shape., Java create double-arrow shape]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="شکل دو فلش آرنج را در اکسل via Java قرار دهید" h2="با استفاده از شماره Aspose.Cells\' API بدون هیچ نرم افزاری مانند Microsoft یا Open Office، Adobe PDF و غیره، فلش دوگانه را وارد کنید." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSX" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="" fileiconsmall1="PPTX" fileiconsmall2="DOCX" fileiconsmall3="XLSX" fileiconsmall4="PDF" fileiconsmall5=" ODP " >}}
@@ -56,7 +57,7 @@ description: با استفاده از Aspose.Cells' Java API بدون هیچ ن�
 
 {{% /blocks/products/pf/agp/text %}}
 
-نمونه سازی یک شی Workbook. (یا -> فایل XLSX را با مسیر کامل بارگیری کنید.)
++ نمونه سازی یک شی Workbook. (یا -> فایل XLSX را با مسیر کامل بارگیری کنید.)
 + کاربرگ را از طریق فهرست آن انتخاب کنید.
  + استفاده کنید[روش اضافه کردن](https://reference.aspose.com/cells/java/com.aspose.cells/shapecollection/#addAutoShape-int-int-int-int-int-int-int-) برای درج شکل فلش دوگانه آرنج در کاربرگ انتخاب شده
 + کتاب کار را با فرمت XLSX ذخیره کنید.

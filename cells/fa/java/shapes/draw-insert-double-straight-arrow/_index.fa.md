@@ -1,7 +1,8 @@
 ---
-title: چگونه می توانم دو فلش مستقیم را در اکسل via Java بکشم یا وارد کنم
+title:  چگونه می توانم دو فلش مستقیم را در اکسل via Java بکشم یا وارد کنم
 weight: 20
 description: با استفاده از Aspose.Cells' Java API اشیاء پیکان مستقیم دوتایی را بدون هیچ نرم افزاری مانند Microsoft یا Open Office، Adobe PDF و غیره بکشید یا وارد کنید.
+keywords: [Java Aspose.Cells., Java add double straight arrow., Java insert double straight arrow., Java create double straight arrow]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="دو فلش مستقیم را در اکسل via Java وارد کنید" h2="پیکان مستقیم دوتایی را با استفاده از Aspose.Cells\' API بدون هیچ نرم افزاری مانند Microsoft یا Open Office، Adobe PDF و غیره وارد کنید." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSX" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="" fileiconsmall1="PPTX" fileiconsmall2="DOCX" fileiconsmall3="XLSX" fileiconsmall4="PDF" fileiconsmall5=" ODP " >}}
@@ -11,7 +12,7 @@ description: با استفاده از Aspose.Cells' Java API اشیاء پیکا
 
 {{% blocks/products/pf/agp/content h2="نحوه درج دو فلش مستقیم در فایل اکسل با استفاده از Java" %}}
 
- به منظور درج دو فلش مستقیم در فایل اکسل، از آن استفاده می کنیم
+به منظور درج دو فلش مستقیم در فایل اکسل، از آن استفاده می کنیم
  [Aspose.Cells for Java](https://products.aspose.com/cells/java) 
  API که یک پلتفرم پر ویژگی، قدرتمند و آسان برای استفاده است API for Java. آخرین نسخه آن را می توانید مستقیماً از اینجا دانلود کنید
  [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) 
@@ -56,7 +57,7 @@ description: با استفاده از Aspose.Cells' Java API اشیاء پیکا
 
 {{% /blocks/products/pf/agp/text %}}
 
-نمونه سازی یک شی Workbook. (یا -> فایل XLSX را با مسیر کامل بارگیری کنید.)
++ نمونه سازی یک شی Workbook. (یا -> فایل XLSX را با مسیر کامل بارگیری کنید.)
 + کاربرگ را از طریق فهرست آن انتخاب کنید.
  + استفاده کنید[روش اضافه کردن](https://reference.aspose.com/cells/java/com.aspose.cells/shapecollection/#addLine-int-int-int-int-int-int-) برای درج دو فلش مستقیم در کاربرگ انتخاب شده
 + کتاب کار را با فرمت XLSX ذخیره کنید.

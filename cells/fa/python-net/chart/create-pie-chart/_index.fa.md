@@ -1,6 +1,7 @@
 ---
 title: نمودارهای پای را از طریق Python ایجاد کنید
 description: Python کد نمونه برای ایجاد نمودار دایره ای در اکسل با استفاده از کتابخانه Python. از این کد برای ایجاد نمودار دایره ای در MS Excel در برنامه مبتنی بر Python استفاده کنید.
+keywords: [Python Aspose.Cells., Python add Pie Chart., Python insert Pie Chart., Python create Pie Chart]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
@@ -36,7 +37,7 @@ description: Python کد نمونه برای ایجاد نمودار دایره 
  Aspose.Cells for Python مستقل از پلتفرم API است و می تواند بر روی هر پلتفرمی (Windows، لینوکس) استفاده شود، فقط مطمئن شوید که سیستم دارای[Python](https://www.python.org/downloads/) 3.7 یا بالاتر
 {{% /blocks/products/pf/agp/text %}}
 
-- Aspose.Cells for Python را نصب کنید<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> ، از دستور به صورت زیر استفاده کنید:<code>$ pip install aspose-cells-python</code>.
+-  Aspose.Cells for Python را نصب کنید<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> ، از دستور به صورت زیر استفاده کنید:<code>$ pip install aspose-cells-python</code>.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/code-block title="کد منبع زیر نحوه ایجاد یک نمودار دایره ای در فایل MS Excel XLSX را با استفاده از Python نشان می دهد." offSpacer="" %}}

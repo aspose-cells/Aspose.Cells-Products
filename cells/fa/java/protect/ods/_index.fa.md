@@ -1,7 +1,8 @@
 ---
-title: محافظت و قفل ODS سند via Java
+title:  محافظت و قفل ODS سند via Java
 weight: 6360
 description: Java نمونه کد برای قفل کردن فایل ODS با استفاده از رمز عبور در Java Runtime Environment for JSP/JSF Application and Desktop Applications.
+keywords: [Java Aspose.Cells., Java Lock ODS files., Java How to Protect and lock ODS document., Java Protect ODS files., Encrypt ODS Files using Java]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="ODS فایل ها via Java را رمزگذاری کنید" h2="از صفحات گسترده اکسل با فرمت ODS با استفاده از کتابخانه .NET محافظت کنید." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="ODS" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="ODS" >}}

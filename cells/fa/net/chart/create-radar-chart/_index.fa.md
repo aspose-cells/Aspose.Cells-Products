@@ -1,6 +1,7 @@
 ---
 title: ایجاد نمودارهای رادار از طریق C#
 description: C# نمونه کد ایجاد نمودار رادار در اکسل با استفاده از کتابخانه .NET. از این کد برای ایجاد نمودار رادار در MS Excel در VB.NET، Asp.NET یا هر برنامه مبتنی بر .NET استفاده کنید.
+keywords: [C# Aspose.Cells., c# add Radar Chart., c# insert Radar Chart., c# create Radar Chart]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 

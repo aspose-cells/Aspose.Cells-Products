@@ -2,6 +2,7 @@
 title:  ODS نمودار سند به تصاویر via .NET
 weight: 4360
 description: کد منبع C# برای ترسیم و تبدیل نمودار یا نمودار در فایل ODS در .NET Framework، .NET Core، Mono یا Xamarin Platforms.
+keywords: [C# Aspose.Cells., c# Convert chart to image in ods., c# Save chart to image in ods., c# chart to image in ods., ods convert chart to image in c#., ods save chart to image in c#., ods chart to image in c#]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="ODS فایل نمودارها به تصاویر در C#" h2="تبدیل نمودارهای سند بومی و با کارایی بالا ODS به تصاویر با استفاده از API های سمت سرور، بدون استفاده از نرم افزارهایی مانند Microsoft یا Adobe PDF." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="ODS" >}}
@@ -44,7 +45,7 @@ PM> Install-Package Aspose.Cells
 {{% /blocks/products/pf/agp/text %}}
 
 + بارگذاری فایل ODS.
-+ نمودار را دریافت کنید.
+نمودار را دریافت کنید.
 + تبدیل نمودار به تصویر.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
@@ -78,7 +79,7 @@ PM> Install-Package Aspose.Cells
 
     {{% blocks/products/pf/agp/content h2="" %}}
 
-Aspose.Cells API می تواند برای ایجاد، ویرایش، تبدیل و رندر فرمت های اکسل Microsoft به فرمت های مختلف استفاده شود. علاوه بر این، می توان از آن برای نمودارهای جامع، گزارش مقیاس پذیر و محاسبات قابل اعتماد در برنامه های نرم افزاری استفاده کرد. Aspose.Cells یک API مستقل است و به هیچ نرم افزاری مانند Microsoft یا OpenOffice نیاز ندارد. تبدیل نمودار اکسل به PDF, JPG, PNG, EMF, WMF, BMP, SVG, TIFF, XPS.
+ Aspose.Cells API می تواند برای ایجاد، ویرایش، تبدیل و رندر فرمت های اکسل Microsoft به فرمت های مختلف استفاده شود. علاوه بر این، می توان از آن برای نمودارهای جامع، گزارش مقیاس پذیر و محاسبات قابل اعتماد در برنامه های نرم افزاری استفاده کرد. Aspose.Cells یک API مستقل است و به هیچ نرم افزاری مانند Microsoft یا OpenOffice نیاز ندارد. تبدیل نمودار اکسل به PDF, JPG, PNG, EMF, WMF, BMP, SVG, TIFF, XPS.
  
 
 

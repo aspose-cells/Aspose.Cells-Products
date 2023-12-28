@@ -41,7 +41,7 @@ APIهای بومی Java برای دسکتاپ، وب یا هر نوع برنام
 ایجاد، دستکاری، تبدیل و رندر صفحات گسترده Excel از طریق Node.js.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Cells for" title="PHP via Java" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-php-java.svg" productLink="/cells/php-java/" >}}
+{{< blocks/products/pf/product pfName="Aspose.Cells for" title="پی اچ پی via Java" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-php-java.svg" productLink="/cells/php-java/" >}}
 ایجاد، دستکاری، تبدیل و رندر صفحات گسترده Excel در برنامه های PHP از طریق JavaBridge.
 {{< /blocks/products/pf/product >}}
 

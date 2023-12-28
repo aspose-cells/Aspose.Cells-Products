@@ -1,8 +1,8 @@
 ---
-title: C# تعمیر فایل xlsx - تعمیر فایل xlsx بصورت آنلاین رایگان
+title: C# تعمیر xlsx - بازیابی و رفع خرابی فایل xlsx
 url: /fa/net/recovery/repair-xlsx/ 
-description: Aspose اکسل. C# Aspose.Cells. C# تعمیر فایل xlsx. ابزار تعمیر آنلاین xlsx رایگان. یک فایل xlsx خراب را تعمیر کنید. یک فایل xlsx خراب را در برنامه .NET بازیابی کنید.
-keywords: [Aspose Excel., C# Aspose.Cells., C# Aspose Cells., C# Repair xlsx file., Free Online Repair a corrupted xlsx file., C# Recover xlsx file.]
+description: C# Aspose.Cells. تعمیر xlsx. فایل xlsx را اصلاح کنید. ابزار بازیابی xlsx. فساد xlsx بازیابی اطلاعات xlsx بازیابی فایل xlsx بازیابی فایل xlsx خراب
+keywords: [C# Aspose.Cells., repair xlsx file., xlsx repair., recover corrupted xlsx file., repair corrupted xlsx., recover xlsx., fix xlsx file., xlsx corruption., restore xlsx data., xlsx file recovery., recover corrupted xlsx file.]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="تعمیر فایل XLSX در C#" h2="برنامه .NET خود را برای تعمیر فایل های xlsx با استفاده از .NET بسازید." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSX" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="XLS" fileiconsmall2="XLSB" fileiconsmall3="XLSX" fileiconsmall4="XLSM" fileiconsmall5="ODS" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., C# Aspose.Cells., C# Aspose Cells., C# Repair xlsx fil
 
 {{% blocks/products/pf/agp/content h2="فایل XLSX را با شماره C# تعمیر کنید" %}}
 
- چگونه فایل xlsx را تعمیر کنم؟ با کتابخانه Aspose.Cells for .NET به راحتی می توانید فایل XLSX را به صورت برنامه ای و با چند خط کد تعمیر کنید.[Aspose.Cells for .NET](https://products.aspose.com/cells/net)قادر به ساخت برنامه های چند پلتفرمی با قابلیت تولید، تغییر، تبدیل، رندر و چاپ تمام فایل های اکسل است. .NET اکسل API نه تنها بین فرمت های صفحه گسترده تبدیل می کند، بلکه می تواند فایل های اکسل را به صورت تصویر رندر کند. انتخاب عالی برای تبادل اسناد در استانداردهای صنعتی فرمت ها باز کن[NuGet](https://www.nuget.org/packages/aspose.cells) Package Manager Aspose.Cells را جستجو و نصب کنید. همچنین می توانید از دستور زیر در کنسول Package Manager استفاده کنید.
+ چگونه فایل xlsx را تعمیر کنم؟ با کتابخانه Aspose.Cells for .NET به راحتی می توانید فایل XLSX را به صورت برنامه ای و با چند خط کد تعمیر کنید.[Aspose.Cells for .NET](https://products.aspose.com/cells/net)قادر به ساخت برنامه های چند پلتفرمی با قابلیت تولید، تغییر، تبدیل، رندر و چاپ تمام فایل های اکسل است. .NET اکسل API نه تنها بین فرمت های صفحه گسترده تبدیل می شود، بلکه می تواند فایل های اکسل را به صورت تصویر، PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT و موارد دیگر ارائه دهد، بنابراین آن را به گزینه ای عالی برای تبادل اسناد در قالب های استاندارد صنعتی تبدیل می کند. باز کن[NuGet](https://www.nuget.org/packages/aspose.cells) Package Manager Aspose.Cells را جستجو و نصب کنید. همچنین می توانید از دستور زیر در کنسول Package Manager استفاده کنید.
 
 {{% blocks/products/pf/agp/code-block title="فرمان کنسول Package Manager" offSpacer="true" %}}
 
@@ -41,7 +41,7 @@ PM> Install-Package Aspose.Cells
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-recovery title="برنامه رایگان و کد نمونه برای تعمیر فایل آنلاین XLSX" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et" InputFormat="xlsx" outformat="xlsx" IsLandingPage="true" language="net" %}}    
+{{% cells-recovery title="نمونه کد تعمیر فایل XLSX" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et" InputFormat="xlsx" outformat="xlsx" IsLandingPage="true" language="net" %}}    
     
 {{% blocks/products/pf/agp/content h2=".NET کتابخانه جهت تعمیر فایل XLSX" %}}
 

@@ -1,8 +1,8 @@
 ---
 title: CSV را به MHT ادغام کنید - CSV را با MHT در C# ترکیب کنید
 url: /fa/net/merger/merge-csv-to-mht/ 
-description: Aspose اکسل. C# Aspose.Cells. ادغام آنلاین رایگان CSV به فرمت ذخیره سازی MHT. C# CSV را با فرمت MHT ترکیب کنید. ادغام CSV به MHT در C#. CSV ادغام.
-keywords: [Aspose Excel., C# Aspose.Cells., Merge CSV to MHT in C#., Free Online C# Merge CSV to mht., C# Combine CSV to MHT Online for Free., CSV Merge]
+description: Aspose اکسل. C# Aspose.Cells. ادغام CSV به فرمت ذخیره MHT. C# CSV را با فرمت MHT ترکیب کنید. ادغام CSV به MHT در C#. CSV ادغام.
+keywords: [Aspose Excel., C# Aspose.Cells., Merge CSV to MHT in C#., C# Merge CSV to mht., C# Combine CSV to MHT., CSV Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="ادغام CSV به MHT از طریق C#" h2="کتابخانه پرسرعت C# برای ادغام CSV به MHT. از تبدیل اکسل ما API برای توسعه نرم افزار سطح بالا و مستقل از پلت فرم در C# استفاده کنید. این یک راه حل نرم افزاری حرفه ای برای وارد کردن و صادرات Excel, CSV, OpenOffice, PDF, HTML, image و بسیاری از فرمت های اکسل دیگر است." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="CSV" additionalConversionTag="MHT" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., C# Aspose.Cells., Merge CSV to MHT in C#., Free Online
 
 {{% blocks/products/pf/agp/content h2="ادغام CSV به MHT با استفاده از C#" %}}
 
- چگونه CSV را با MHT ادغام کنم؟ با کتابخانه Aspose.Cells for .NET می توانید به راحتی CSV را به صورت برنامه ریزی شده با چند خط کد به MHT ادغام کنید.[Aspose.Cells for .NET](https://products.aspose.com/cells/net)قادر به ساخت برنامه های چند پلتفرمی با قابلیت تولید، تغییر، تبدیل، رندر و چاپ تمام فایل های اکسل است. .NET اکسل API نه تنها بین فرمت های صفحه گسترده تبدیل می کند، بلکه می تواند فایل های اکسل را به صورت تصویر رندر کند. انتخاب عالی برای تبادل اسناد در استانداردهای صنعتی فرمت ها باز کن[NuGet](https://www.nuget.org/packages/aspose.cells) Package Manager Aspose.Cells را جستجو و نصب کنید. همچنین می توانید از دستور زیر در کنسول Package Manager استفاده کنید.
+ چگونه CSV را با MHT ادغام کنم؟ با کتابخانه Aspose.Cells for .NET می توانید به راحتی CSV را به صورت برنامه ریزی شده با چند خط کد به MHT ادغام کنید.[Aspose.Cells for .NET](https://products.aspose.com/cells/net)قادر به ساخت برنامه های چند پلتفرمی با قابلیت تولید، تغییر، تبدیل، رندر و چاپ تمام فایل های اکسل است. .NET اکسل API نه تنها بین فرمت های صفحه گسترده تبدیل می شود، بلکه می تواند فایل های اکسل را به صورت تصویر، PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT و موارد دیگر ارائه دهد، بنابراین آن را به گزینه ای عالی برای تبادل اسناد در قالب های استاندارد صنعتی تبدیل می کند. باز کن[NuGet](https://www.nuget.org/packages/aspose.cells) Package Manager Aspose.Cells را جستجو و نصب کنید. همچنین می توانید از دستور زیر در کنسول Package Manager استفاده کنید.
 
 {{% blocks/products/pf/agp/code-block title="فرمان کنسول Package Manager" offSpacer="true" %}}
 
@@ -26,7 +26,7 @@ PM> Install-Package Aspose.Cells
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="ادغام CSV به MHT در C# آنلاین به صورت رایگان" %}}
+{{% blocks/products/pf/agp/content h2="CSV را با MHT در C# ادغام کنید" %}}
 
 مثال زیر نحوه ادغام CSV را با MHT در Aspose.Cells for .NET نشان می دهد.
 {{% blocks/products/pf/agp/text %}}
@@ -37,7 +37,7 @@ PM> Install-Package Aspose.Cells
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="آنلاین رایگان برای ادغام CSV به MHT در C#" InputFormat="csv" InputFormat2="mht" outformat="mht" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="net" %}}
+{{% cells-merger title="نمونه کد برای ادغام CSV به MHT در C#" InputFormat="csv" InputFormat2="mht" outformat="mht" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="net" %}}
 
 {{% blocks/products/pf/agp/content h2="نحوه ادغام CSV به MHT از طریق C#" %}}
 

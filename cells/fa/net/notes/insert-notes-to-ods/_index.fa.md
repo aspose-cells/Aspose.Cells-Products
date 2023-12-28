@@ -2,6 +2,7 @@
 title: درج یادداشت به ODS فایل via .NET
 url: /fa/net/notes/insert-notes-to-ods/ 
 description: درج یادداشت ها به ODS با استفاده از C#. از کد نمونه API برای درج یادداشت ها در برنامه .NET استفاده کنید.
+keywords: [C# Aspose.Cells., add ODS notes., insert ODS notes., access ODS notes., remove ODS notes., delete ODS notes., add notes in ODS., insert notes in ODS., access notes in ODS., remove notes in ODS., delete notes in ODS]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="درج یادداشت در فایل ODS از طریق C#" h2="برنامه .NET خود را برای دستکاری نظرات و نویسندگان در فایل های سند با استفاده از API های سمت سرور بسازید." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="ODS" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="XLS" fileiconsmall2="XLSB" fileiconsmall3="XLSX" fileiconsmall4="XLSM" fileiconsmall5="ODS" >}}
@@ -11,7 +12,7 @@ description: درج یادداشت ها به ODS با استفاده از C#. ا
 
 {{% blocks/products/pf/agp/content h2="درج یادداشت ها در فایل ODS با استفاده از .NET" %}}
 
- با کتابخانه Aspose.Cells for .NET به راحتی می توانید یادداشت ها را در فایل ODS به صورت برنامه نویسی با چند خط کد وارد کنید.[Aspose.Cells for .NET](https://products.aspose.com/cells/net)قادر به ساخت برنامه های چند پلتفرمی با قابلیت تولید، تغییر، تبدیل، رندر و چاپ تمام فایل های اکسل است. .NET اکسل API نه تنها بین فرمت های صفحه گسترده تبدیل می کند، بلکه می تواند فایل های اکسل را به صورت تصویر رندر کند. انتخاب عالی برای تبادل اسناد در استانداردهای صنعتی فرمت ها باز کن[NuGet](https://www.nuget.org/packages/aspose.cells) Package Manager Aspose.Cells را جستجو و نصب کنید. همچنین می توانید از دستور زیر در کنسول Package Manager استفاده کنید.
+ با کتابخانه Aspose.Cells for .NET به راحتی می توانید یادداشت ها را در فایل ODS به صورت برنامه نویسی با چند خط کد وارد کنید.[Aspose.Cells for .NET](https://products.aspose.com/cells/net)قادر به ساخت برنامه های چند پلتفرمی با قابلیت تولید، تغییر، تبدیل، رندر و چاپ تمام فایل های اکسل است. .NET اکسل API نه تنها بین فرمت های صفحه گسترده تبدیل می شود، بلکه می تواند فایل های اکسل را به صورت تصویر، PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT و موارد دیگر ارائه دهد، بنابراین آن را به گزینه ای عالی برای تبادل اسناد در قالب های استاندارد صنعتی تبدیل می کند. باز کن[NuGet](https://www.nuget.org/packages/aspose.cells) Package Manager Aspose.Cells را جستجو و نصب کنید. همچنین می توانید از دستور زیر در کنسول Package Manager استفاده کنید.
 
 {{% blocks/products/pf/agp/code-block title="فرمان کنسول Package Manager" offSpacer="true" %}}
 

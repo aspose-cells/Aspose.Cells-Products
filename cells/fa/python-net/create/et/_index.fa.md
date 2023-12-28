@@ -1,7 +1,7 @@
 ---
 title: ایجاد ET - فایل ET را در Python ایجاد کنید
-description: Aspose اکسل. Python فایل ET را ایجاد کنید. ایجاد ET Python. Python ET Creater. ET را در Python ایجاد کنید. فایل ET را با استفاده از Python ایجاد کنید.
-keywords: [Aspose Excel., Python Aspose.Cells., Create ET Python., Python ET Creater., Create ET file in Python., Generate ET file in Python]
+description:  Aspose اکسل. Python فایل ET را به سرعت و به راحتی با Aspose.Cells ایجاد کنید. فایل ET را با استفاده از Python ایجاد کنید. ET را در Python ایجاد کنید. Python ET Creater.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Create ET file., Generate ET file in Python., Create ET file using Python., Write data to ET file via Python., Create a ET file in Python., Python Generate a ET file., Python ET Creater]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="فایل ET را در Python ایجاد کنید" h2="کتابخانه پرسرعت Python برای ایجاد فایل ET. از تبدیل اکسل API ما برای توسعه نرم افزار سطح بالا و مستقل از پلت فرم در Python استفاده کنید." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="ET" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -11,7 +11,7 @@ keywords: [Aspose Excel., Python Aspose.Cells., Create ET Python., Python ET Cre
 
 {{% blocks/products/pf/agp/content h2="با استفاده از Python فایل ET ایجاد کنید" %}}
 
- چگونه فایل ET ایجاد کنیم؟ با Aspose.Cells for Python از طریق کتابخانه NET، می توانید به راحتی فایل ET را به صورت برنامه نویسی با چند خط کد ایجاد کنید.[Aspose.Cells for Python](https://pypi.org/project/aspose-cells-python/)قادر به ساخت برنامه های چند پلتفرمی با قابلیت تولید، تغییر، تبدیل، رندر و چاپ تمام فایل های اکسل است. Python اکسل API نه تنها بین فرمت های صفحه گسترده تبدیل می کند، بلکه می تواند فایل های اکسل را به صورت تصویر رندر کند. انتخاب عالی برای تبادل اسناد در استانداردهای صنعتی فرمت ها
+ چگونه فایل ET ایجاد کنیم؟ با Aspose.Cells for Python از طریق کتابخانه NET، می توانید به راحتی فایل ET را به صورت برنامه نویسی با چند خط کد ایجاد کنید.[Aspose.Cells for Python](https://pypi.org/project/aspose-cells-python/)قادر به ساخت برنامه های چند پلتفرمی با قابلیت تولید، تغییر، تبدیل، رندر و چاپ تمام فایل های اکسل است. Python اکسل API نه تنها بین فرمت های صفحه گسترده تبدیل می شود، بلکه می تواند فایل های اکسل را به صورت تصویر، PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT و موارد دیگر ارائه دهد، بنابراین آن را به گزینه ای عالی برای تبادل اسناد در قالب های استاندارد صنعتی تبدیل می کند.
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -62,7 +62,7 @@ workbook.save("output.et")
 ما بسته های Python خود را در مخازن PyPi میزبانی می کنیم.
 
 {{% blocks/products/pf/agp/text %}}
-Aspose.Cells for Python را نصب کنید<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> ، از دستور به صورت زیر استفاده کنید:<code>$ pip install aspose-cells-python</code>.
+ Aspose.Cells for Python را نصب کنید<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> ، از دستور به صورت زیر استفاده کنید:<code>$ pip install aspose-cells-python</code>.
 {{% /blocks/products/pf/agp/text %}}
 
 {{% blocks/products/pf/agp/text %}}

@@ -1,7 +1,7 @@
 ---
-title: Java XLTX به IMAGE - تبدیل آنلاین XLTX به IMAGE
-description: Aspose اکسل. Java Aspose.Cells. Java Aspose Cells. رایگان آنلاین Java تبدیل XLTX به فرمت ذخیره تصویر. Java XLTX به فرمت IMAGE. XLTX را در IMAGE Java ذخیره کنید.
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java XLTX to IMAGE saveformat., Free Online XLTX to IMAGE Java., Java Convert XLTX to IMAGE]
+title: Java XLTX به IMAGE - XLTX به IMAGE تبدیل
+description: Aspose اکسل. XLTX را به سرعت و به راحتی با Aspose.Cells به IMAGE تبدیل کنید. Java XLTX به IMAGE. Java XLTX را در IMAGE ذخیره کنید. XLTX را به عنوان IMAGE با استفاده از Java ذخیره کنید.
+keywords: [Aspose Excel., Java Aspose.Cells., Convert XLTX to IMAGE in Java., Save XLTX to IMAGE using Java., Java XLTX to IMAGE saveformat., XLTX to IMAGE Converter., Java Save XLTX as IMAGE]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="تبدیل XLTX به IMAGE در Java" h2="کتابخانه پرسرعت Java برای تبدیل XLTX به IMAGE. این یک راه حل نرم افزاری حرفه ای برای وارد کردن و صادرات XLTX، IMAGE و بسیاری از فرمت های دیگر با استفاده از Java است." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="IMAGE" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java XLTX to I
 
 {{% blocks/products/pf/agp/content h2="تبدیل XLTX به IMAGE با استفاده از Java" %}}
 
- چگونه XLTX را به IMAGE تبدیل کنم؟ با کتابخانه Aspose.Cells for Java به راحتی می توانید با چند خط کد XLTX را به صورت برنامه ریزی شده به IMAGE تبدیل کنید.[Aspose.Cells for Java](https://products.aspose.com/cells/java) قادر به ساخت برنامه های چند پلتفرمی با قابلیت تولید، تغییر، تبدیل، رندر و چاپ تمام فایل های اکسل است. Java اکسل API نه تنها بین فرمت های صفحه گسترده تبدیل می کند، بلکه می تواند فایل های اکسل را به صورت تصویر رندر کند. انتخاب عالی برای تبادل اسناد در استانداردهای صنعتی فرمت ها آخرین نسخه آن را می توانید مستقیماً از اینجا دانلود کنید[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) و با افزودن تنظیمات زیر به pom.xml آن را در پروژه مبتنی بر Maven خود نصب کنید.
+ چگونه XLTX را به IMAGE تبدیل کنم؟ با کتابخانه Aspose.Cells for Java به راحتی می توانید با چند خط کد XLTX را به صورت برنامه ریزی شده به IMAGE تبدیل کنید.[Aspose.Cells for Java](https://products.aspose.com/cells/java)قادر به ساخت برنامه های چند پلتفرمی با قابلیت تولید، تغییر، تبدیل، رندر و چاپ تمام فایل های اکسل است. Java اکسل API نه تنها بین فرمت های صفحه گسترده تبدیل می شود، بلکه می تواند فایل های اکسل را به صورت تصویر، PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT و موارد دیگر ارائه دهد، بنابراین آن را به گزینه ای عالی برای تبادل اسناد در قالب های استاندارد صنعتی تبدیل می کند. آخرین نسخه آن را می توانید مستقیماً از اینجا دانلود کنید[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) و با افزودن تنظیمات زیر به pom.xml آن را در پروژه مبتنی بر Maven خود نصب کنید.
 
 {{% blocks/products/pf/agp/code-block title="مخزن" offSpacer="true" %}}
 
@@ -45,7 +45,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java XLTX to I
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="XLTX را در IMAGE در Java به صورت آنلاین به صورت رایگان ذخیره کنید" %}}
+{{% blocks/products/pf/agp/content h2="XLTX را در IMAGE در Java ذخیره کنید" %}}
 
 مثال زیر نحوه تبدیل XLTX به IMAGE را در Java نشان می دهد.
 {{% blocks/products/pf/agp/text %}}
@@ -56,7 +56,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java XLTX to I
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="برنامه رایگان و کد نمونه برای تبدیل XLTX به IMAGE آنلاین" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xltx" outformat="png" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="نمونه کد برای تبدیل XLTX به IMAGE" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xltx" outformat="png" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="نحوه تبدیل XLTX به IMAGE via Java" %}}
 
@@ -68,7 +68,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java XLTX to I
 
 1.  'Aspose.Cells for Java' را نصب کنید.
 1.  یک مرجع کتابخانه (وارد کردن کتابخانه) به پروژه Java خود اضافه کنید.
-1.  فایل XLTX را با نمونه ای از کلاس Workbook بارگیری کنید.
+1. فایل XLTX را با نمونه ای از کلاس Workbook بارگیری کنید.
 1.  XLTX را با فراخوانی روش Workbook.save به IMAGE تبدیل کنید.
 1.  نتیجه تبدیل XLTX به IMAGE را دریافت کنید.
 

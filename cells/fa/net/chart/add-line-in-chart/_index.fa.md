@@ -1,6 +1,7 @@
 ---
 title:  یک خط در نمودار از طریق C# اضافه کنید
 description: C# کد نمونه برای افزودن یک خط در نمودار به اکسل با استفاده از کتابخانه .NET. از این کد برای افزودن یک خط در نمودار به MS Excel در VB.NET، Asp.NET یا هر برنامه مبتنی بر .NET استفاده کنید.
+keywords: [C# Aspose.Cells., c# add a line in chart., c# insert a line in chart., c# create a line in chart]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="یک خط در نمودار از طریق C# اضافه کنید" h2="ایجاد بومی و با کارایی بالا MS Excel به صورت برنامه نویسی با استفاده از API های سمت سرور .NET." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSX" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -27,7 +28,7 @@ description: C# کد نمونه برای افزودن یک خط در نمودا�
 1.  برخی از داده ها را به سلول های کاربرگ اضافه کنید[**Cell**](https://reference.aspose.com/cells/net/aspose.cells/cell) اشیاء[**PutValue**](https://reference.aspose.com/cells/net/aspose.cells/cell/methods/putvalue/index)روش.
  این به عنوان منبع داده برای نمودار استفاده خواهد شد.
 1.  با فراخوانی یک نمودار به کاربرگ اضافه کنید[**نمودار**](https://reference.aspose.com/cells/net/aspose.cells.charts/chartcollection) مجموعه ها[**اضافه کردن**](https://reference.aspose.com/cells/net/aspose.cells.charts/chartcollection/methods/add) روش، کپسوله شده در[**کاربرگ**](https://reference.aspose.com/cells/net/aspose.cells/worksheet)هدف - شی.
-1.  دسترسی به جدید[**چارت سازمانی**](https://reference.aspose.com/cells/net/aspose.cells.charts/chart)شیء از مجموعه نمودارها با ارسال ایندکس آن، منبع داده نمودار را با فراخوانی مشخص کنید[**Chart.SetChartDataRange**](https://https://reference.aspose.com/cells/net/aspose.cells.charts/chart/methods/setchartdatarange).
+1.  دسترسی به جدید[**چارت سازمانی**](https://reference.aspose.com/cells/net/aspose.cells.charts/chart) شیء از مجموعه نمودارها با ارسال ایندکس آن، منبع داده نمودار را با فراخوانی مشخص کنید[**Chart.SetChartDataRange**](https://https://reference.aspose.com/cells/net/aspose.cells.charts/chart/methods/setchartdatarange).
 1.  موقعیت نمودار را با تماس محاسبه کنید[**محاسبه**](https://https://reference.aspose.com/cells/net/aspose.cells.charts/chart/methods/Calculate) روش.
 1.  a اضافه کنید[**خط**](https://reference.aspose.com/cells/net/aspose.cells.drawing/shape/properties/msodrawingtype) با فراخوانی متد Chart.Shapes.AddShapeInChartByScale شکل دهید.
 1. قالب خط را تنظیم کنید
@@ -38,7 +39,7 @@ description: C# کد نمونه برای افزودن یک خط در نمودا�
 
 {{% blocks/products/pf/agp/text %}}
 
- فقط مطمئن شوید که سیستم دارای Microsoft Windows یا یک سیستم عامل سازگار با .NET Framework، .NET Core، Windows Azure، Mono یا Xamarin پلتفرم های 876 استودیو 3076 و همچنین محیط های توسعه است.
+فقط مطمئن شوید که سیستم دارای Microsoft Windows یا یک سیستم عامل سازگار با .NET Framework، .NET Core، Windows Azure، Mono یا Xamarin پلتفرم های 876 استودیو 3076 و همچنین محیط های توسعه است.
 
 {{% /blocks/products/pf/agp/text %}}
 

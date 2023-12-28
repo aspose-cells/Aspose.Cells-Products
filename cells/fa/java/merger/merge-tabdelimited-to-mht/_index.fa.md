@@ -1,8 +1,8 @@
 ---
 title: ادغام TABDELIMITED به MHT - ترکیب TABDELIMITED به MHT در Java
 url: /fa/java/merger/merge-tabdelimited-to-mht/ 
-description: Aspose اکسل. Java Aspose.Cells. ادغام آنلاین رایگان TABDELIMITED به فرمت ذخیره سازی MHT. Java TABDELIMITED را با فرمت MHT ترکیب کنید. ادغام TABDELIMITED به MHT در Java. TABDELIMITED ادغام.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge TABDELIMITED to MHT in Java., Free Online Java Merge TABDELIMITED to mht., Java Combine TABDELIMITED to MHT Online for Free., TABDELIMITED Merge]
+description: Aspose اکسل. Java Aspose.Cells. ادغام TABDELIMITED به فرمت ذخیره MHT. Java TABDELIMITED را با فرمت MHT ترکیب کنید. ادغام TABDELIMITED به MHT در Java. TABDELIMITED ادغام.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge TABDELIMITED to MHT in Java., Java Merge TABDELIMITED to mht., Java Combine TABDELIMITED to MHT., TABDELIMITED Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="TABDELIMITED را به MHT via Java ادغام کنید" h2="کتابخانه پرسرعت Java برای ادغام TABDELIMITED به MHT. از تبدیل اکسل ما API برای توسعه نرم افزار سطح بالا و مستقل از پلت فرم در Java استفاده کنید. این یک راه حل نرم افزاری حرفه ای برای وارد کردن و صادرات Excel, CSV, OpenOffice, PDF, HTML, image و بسیاری از فرمت های اکسل دیگر است." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="TABDELIMITED" additionalConversionTag="MHT" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Merge TABDELIMITED to MHT in Java.
 
 {{% blocks/products/pf/agp/content h2="ادغام TABDELIMITED به MHT با استفاده از Java" %}}
 
- چگونه TABDELIMITED را با MHT ادغام کنم؟ با کتابخانه Aspose.Cells for Java، می‌توانید به راحتی TABDELIMITED را به صورت برنامه‌نویسی با چند خط کد با MHT ادغام کنید.[Aspose.Cells for Java](https://products.aspose.com/cells/java) قادر به ساخت برنامه های چند پلتفرمی با قابلیت تولید، تغییر، تبدیل، رندر و چاپ تمام فایل های اکسل است. Java اکسل API نه تنها بین فرمت های صفحه گسترده تبدیل می کند، بلکه می تواند فایل های اکسل را به صورت تصویر رندر کند. انتخاب عالی برای تبادل اسناد در استانداردهای صنعتی فرمت ها آخرین نسخه آن را می توانید مستقیماً از اینجا دانلود کنید[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) و با افزودن تنظیمات زیر به pom.xml آن را در پروژه مبتنی بر Maven خود نصب کنید.
+ چگونه TABDELIMITED را با MHT ادغام کنم؟ با کتابخانه Aspose.Cells for Java، می‌توانید به راحتی TABDELIMITED را به صورت برنامه‌نویسی با چند خط کد با MHT ادغام کنید.[Aspose.Cells for Java](https://products.aspose.com/cells/java)قادر به ساخت برنامه های چند پلتفرمی با قابلیت تولید، تغییر، تبدیل، رندر و چاپ تمام فایل های اکسل است. Java اکسل API نه تنها بین فرمت های صفحه گسترده تبدیل می شود، بلکه می تواند فایل های اکسل را به صورت تصویر، PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT و موارد دیگر ارائه دهد، بنابراین آن را به گزینه ای عالی برای تبادل اسناد در قالب های استاندارد صنعتی تبدیل می کند. آخرین نسخه آن را می توانید مستقیماً از اینجا دانلود کنید[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) و با افزودن تنظیمات زیر به pom.xml آن را در پروژه مبتنی بر Maven خود نصب کنید.
 
 {{% blocks/products/pf/agp/code-block title="مخزن" offSpacer="true" %}}
 
@@ -45,7 +45,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Merge TABDELIMITED to MHT in Java.
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="TABDELIMITED را با MHT در Java آنلاین به صورت رایگان ادغام کنید" %}}
+{{% blocks/products/pf/agp/content h2="ادغام TABDELIMITED به MHT در Java" %}}
 
 مثال زیر نحوه ادغام TABDELIMITED به MHT را در Aspose.Cells for Java نشان می دهد.
 {{% blocks/products/pf/agp/text %}}
@@ -56,7 +56,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Merge TABDELIMITED to MHT in Java.
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="آنلاین رایگان برای ادغام TABDELIMITED به MHT در Java" InputFormat="tsv" InputFormat2="mht" outformat="mht" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="java" %}}
+{{% cells-merger title="کد نمونه برای ادغام TABDELIMITED به MHT در Java" InputFormat="tsv" InputFormat2="mht" outformat="mht" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="نحوه ادغام TABDELIMITED به MHT via Java" %}}
 

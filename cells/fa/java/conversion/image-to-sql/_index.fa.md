@@ -1,7 +1,7 @@
 ---
-title: Java IMAGE به SQL - تبدیل آنلاین IMAGE به SQL
-description: Aspose اکسل. Java Aspose.Cells. Java Aspose Cells. رایگان آنلاین Java تبدیل IMAGE به فرمت ذخیره سازی SQL. Java IMAGE به فرمت SQL. IMAGE را در SQL Java ذخیره کنید.
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java IMAGE to SQL saveformat., Free Online IMAGE to SQL Java., Java Convert IMAGE to SQL]
+title: Java IMAGE به SQL - تبدیل IMAGE به SQL
+description: Aspose اکسل. Java Aspose.Cells. IMAGE به SQL در Java. Java تبدیل IMAGE به SQL Saveformat. Java IMAGE به فرمت SQL. IMAGE را در SQL Java ذخیره کنید.
+keywords: [Aspose Excel., Java Aspose.Cells., IMAGE to SQL in Java., Java IMAGE to SQL saveformat., IMAGE to SQL Java., Java Convert IMAGE to SQL]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="تبدیل IMAGE به SQL در Java" h2="کتابخانه پرسرعت Java برای تبدیل IMAGE به SQL. این یک راه حل نرم افزاری حرفه ای برای وارد کردن و صادرات IMAGE، SQL، و بسیاری از فرمت های دیگر با استفاده از Java است." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="SQL" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java IMAGE to 
 
 {{% blocks/products/pf/agp/content h2="IMAGE را با استفاده از Java به SQL تبدیل کنید" %}}
 
- چگونه IMAGE را به SQL تبدیل کنم؟ با کتابخانه Aspose.Cells for Java، می توانید به راحتی و با چند خط کد، IMAGE را به صورت برنامه نویسی به SQL تبدیل کنید.[Aspose.Cells for Java](https://products.aspose.com/cells/java) قادر به ساخت برنامه های چند پلتفرمی با قابلیت تولید، تغییر، تبدیل، رندر و چاپ تمام فایل های اکسل است. Java اکسل API نه تنها بین فرمت های صفحه گسترده تبدیل می کند، بلکه می تواند فایل های اکسل را به صورت تصویر رندر کند. انتخاب عالی برای تبادل اسناد در استانداردهای صنعتی فرمت ها آخرین نسخه آن را می توانید مستقیماً از اینجا دانلود کنید[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) و با افزودن تنظیمات زیر به pom.xml آن را در پروژه مبتنی بر Maven خود نصب کنید.
+ چگونه IMAGE را به SQL تبدیل کنم؟ با کتابخانه Aspose.Cells for Java، می توانید به راحتی و با چند خط کد، IMAGE را به صورت برنامه نویسی به SQL تبدیل کنید.[Aspose.Cells for Java](https://products.aspose.com/cells/java)قادر به ساخت برنامه های چند پلتفرمی با قابلیت تولید، تغییر، تبدیل، رندر و چاپ تمام فایل های اکسل است. Java اکسل API نه تنها بین فرمت های صفحه گسترده تبدیل می شود، بلکه می تواند فایل های اکسل را به صورت تصویر، PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT و موارد دیگر ارائه دهد، بنابراین آن را به گزینه ای عالی برای تبادل اسناد در قالب های استاندارد صنعتی تبدیل می کند. آخرین نسخه آن را می توانید مستقیماً از اینجا دانلود کنید[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) و با افزودن تنظیمات زیر به pom.xml آن را در پروژه مبتنی بر Maven خود نصب کنید.
 
 {{% blocks/products/pf/agp/code-block title="مخزن" offSpacer="true" %}}
 
@@ -45,7 +45,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java IMAGE to 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="ذخیره IMAGE در SQL در Java آنلاین به صورت رایگان" %}}
+{{% blocks/products/pf/agp/content h2="IMAGE را در SQL در Java ذخیره کنید" %}}
 
 مثال زیر نحوه تبدیل IMAGE به SQL را در Java نشان می دهد.
 {{% blocks/products/pf/agp/text %}}
@@ -56,7 +56,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java IMAGE to 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="برنامه رایگان و کد نمونه برای تبدیل IMAGE به SQL آنلاین" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="png" outformat="sql" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="نمونه کد برای تبدیل IMAGE به SQL" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="png" outformat="sql" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="نحوه تبدیل IMAGE به SQL via Java" %}}
 
@@ -70,7 +70,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java IMAGE to 
 1.  یک مرجع کتابخانه (وارد کردن کتابخانه) به پروژه Java خود اضافه کنید.
 1.  فایل IMAGE را با نمونه ای از کلاس Workbook بارگیری کنید.
 1.  با فراخوانی روش Workbook.save IMAGE را به SQL تبدیل کنید.
-1.  نتیجه تبدیل IMAGE به SQL را دریافت کنید.
+1. نتیجه تبدیل IMAGE به SQL را دریافت کنید.
 
 {{% /blocks/products/pf/agp/content %}}
 

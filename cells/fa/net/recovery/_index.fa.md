@@ -1,6 +1,7 @@
 ---
-title: تعمیر فایل اکسل via .NET
-description: یک فایل اکسل خراب را با استفاده از C# تعمیر کنید. ابزار بازیابی برای تعمیر فایل اکسل خراب در برنامه .NET.
+title: C# تعمیر اکسل - بازیابی و رفع خرابی فایل اکسل
+description: C# Aspose.Cells. تعمیر اکسل. فایل اکسل را اصلاح کنید. ابزار بازیابی اکسل اکسل فساد بازیابی اطلاعات اکسل بازیابی فایل اکسل بازیابی فایل اکسل خراب
+keywords: [C# Aspose.Cells., repair excel file., excel repair., recover corrupted excel file., repair corrupted excel., recover excel., fix excel file., excel corruption., restore excel data., excel file recovery., recover corrupted excel file.]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="فایل EXCEL را از طریق C# بازیابی کنید" h2="برنامه .NET خود را برای تعمیر فایل های اکسل با استفاده از .NET بسازید." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="EXCEL" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="XLS" fileiconsmall2="XLSB" fileiconsmall3="XLSX" fileiconsmall4="XLSM" fileiconsmall5="ODS" >}}

@@ -1,8 +1,8 @@
 ---
 title: ادغام JPG به JPG - ترکیب JPG به JPG در Java
 url: /fa/java/merger/merge-jpg-to-jpg/ 
-description: Aspose اکسل. Java Aspose.Cells. ادغام آنلاین رایگان JPG به JPG با فرمت ذخیره. Java فرمت JPG را با JPG ترکیب کنید. ادغام JPG به JPG در Java. JPG Merge.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge JPG to JPG in Java., Free Online Java Merge JPG to jpg., Java Combine JPG to JPG Online for Free., JPG Merge]
+description: Aspose اکسل. Java Aspose.Cells. فرمت ذخیره JPG را با JPG ادغام کنید. Java فرمت JPG را با JPG ترکیب کنید. ادغام JPG به JPG در Java. JPG Merge.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge JPG to JPG in Java., Java Merge JPG to jpg., Java Combine JPG to JPG., JPG Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="JPG را به JPG via Java ادغام کنید" h2="کتابخانه پرسرعت Java برای ادغام JPG به JPG. از تبدیل اکسل ما API برای توسعه نرم افزار سطح بالا و مستقل از پلت فرم در Java استفاده کنید. این یک راه حل نرم افزاری حرفه ای برای وارد کردن و صادرات Excel, CSV, OpenOffice, PDF, HTML, image و بسیاری از فرمت های اکسل دیگر است." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="JPG" additionalConversionTag="JPG" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Merge JPG to JPG in Java., Free On
 
 {{% blocks/products/pf/agp/content h2="ادغام JPG به JPG با استفاده از Java" %}}
 
- چگونه JPG را با JPG ادغام کنم؟ با کتابخانه Aspose.Cells for Java، می توانید به راحتی JPG را به JPG به صورت برنامه نویسی با چند خط کد ادغام کنید.[Aspose.Cells for Java](https://products.aspose.com/cells/java) قادر به ساخت برنامه های چند پلتفرمی با قابلیت تولید، تغییر، تبدیل، رندر و چاپ تمام فایل های اکسل است. Java اکسل API نه تنها بین فرمت های صفحه گسترده تبدیل می کند، بلکه می تواند فایل های اکسل را به صورت تصویر رندر کند. انتخاب عالی برای تبادل اسناد در استانداردهای صنعتی فرمت ها آخرین نسخه آن را می توانید مستقیماً از اینجا دانلود کنید[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) و با افزودن تنظیمات زیر به pom.xml آن را در پروژه مبتنی بر Maven خود نصب کنید.
+ چگونه JPG را با JPG ادغام کنم؟ با کتابخانه Aspose.Cells for Java، می توانید به راحتی JPG را به JPG به صورت برنامه نویسی با چند خط کد ادغام کنید.[Aspose.Cells for Java](https://products.aspose.com/cells/java)قادر به ساخت برنامه های چند پلتفرمی با قابلیت تولید، تغییر، تبدیل، رندر و چاپ تمام فایل های اکسل است. Java اکسل API نه تنها بین فرمت های صفحه گسترده تبدیل می شود، بلکه می تواند فایل های اکسل را به صورت تصویر، PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT و موارد دیگر ارائه دهد، بنابراین آن را به گزینه ای عالی برای تبادل اسناد در قالب های استاندارد صنعتی تبدیل می کند. آخرین نسخه آن را می توانید مستقیماً از اینجا دانلود کنید[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) و با افزودن تنظیمات زیر به pom.xml آن را در پروژه مبتنی بر Maven خود نصب کنید.
 
 {{% blocks/products/pf/agp/code-block title="مخزن" offSpacer="true" %}}
 
@@ -45,7 +45,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Merge JPG to JPG in Java., Free On
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="ادغام JPG به JPG در Java آنلاین به صورت رایگان" %}}
+{{% blocks/products/pf/agp/content h2="ادغام JPG به JPG در Java" %}}
 
 مثال زیر نحوه ادغام JPG به JPG را در Aspose.Cells for Java نشان می دهد.
 {{% blocks/products/pf/agp/text %}}
@@ -56,13 +56,13 @@ keywords: [Aspose Excel., Java Aspose.Cells., Merge JPG to JPG in Java., Free On
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="آنلاین رایگان برای ادغام JPG به JPG در Java" InputFormat="jpg" InputFormat2="jpg" outformat="jpg" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="java" %}}
+{{% cells-merger title="نمونه کد برای ادغام JPG به JPG در Java" InputFormat="jpg" InputFormat2="jpg" outformat="jpg" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="نحوه ادغام JPG به JPG via Java" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
-آیا نیاز به ادغام JPG به JPG به صورت برنامه ای دارید؟ یک سند اساسی ادغام و الحاق با[Aspose.Cells for Java](https://products.aspose.com/cells/java) API ها را می توان تنها با چند خط کد انجام داد.
+ آیا نیاز به ادغام JPG به JPG به صورت برنامه ای دارید؟ یک سند اساسی ادغام و الحاق با[Aspose.Cells for Java](https://products.aspose.com/cells/java) API ها را می توان تنها با چند خط کد انجام داد.
 
 {{% /blocks/products/pf/agp/text %}}
 

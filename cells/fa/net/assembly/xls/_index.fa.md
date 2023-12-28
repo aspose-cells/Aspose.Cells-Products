@@ -2,6 +2,7 @@
 title:  ایجاد گزارش در XLS فایل via .NET
 weight: 1700
 description: کد منبع C# برای تولید گزارش های قالب XLS در .NET Framework، .NET Core، Mono یا Xamarin Platforms.
+keywords: [C# Aspose.Cells., c# Create XLS Reports Based on Predesigned Excel Template., c# Generate XLS Reports Based on Predesigned Excel Template., c# Create XLS Reports Based on Excel Template., C# Generate XLS Reports Based on Excel Template., c# Create XLS files Based on Excel Template., C# Generate XLS files Based on Excel Template]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="تولید گزارش انبوه در قالب XLS از طریق C#" h2="با استفاده از منبع داده و یک الگو، گزارش‌هایی در قالب XLS ایجاد کنید." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLS" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLS" >}}

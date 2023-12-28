@@ -2,6 +2,7 @@
 title:  قفل XLSM سند via .NET را باز کنید
 weight: 9810
 description: کد منبع C# برای باز کردن قفل فایل XLSM محافظت شده با رمز عبور در .NET Framework، .NET Core، Mono یا Xamarin Platforms.
+keywords: [C# Aspose.Cells., c# unlock XLSM files., c# how to unlock XLSM document., c# unprotect XLSM files., remove protection from XLSM files., decrypt XLSM Files using C#]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="باز کردن قفل صفحه گسترده XLSM از طریق C#" h2="با استفاده از کتابخانه .NET حفاظت را از XLSM حذف کنید." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSM" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSM" >}}

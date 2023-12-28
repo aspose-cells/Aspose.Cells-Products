@@ -1,8 +1,8 @@
 ---
 title: ادغام TABDELIMITED به XLSM - ترکیب TABDELIMITED به XLSM در C#
 url: /fa/net/merger/merge-tabdelimited-to-xlsm/ 
-description: Aspose اکسل. C# Aspose.Cells. ادغام آنلاین رایگان TABDELIMITED به XLSM ذخیره فرمت. C# TABDELIMITED را با فرمت XLSM ترکیب کنید. ادغام TABDELIMITED به XLSM در C#. TABDELIMITED ادغام.
-keywords: [Aspose Excel., C# Aspose.Cells., Merge TABDELIMITED to XLSM in C#., Free Online C# Merge TABDELIMITED to xlsm., C# Combine TABDELIMITED to XLSM Online for Free., TABDELIMITED Merge]
+description: Aspose اکسل. C# Aspose.Cells. ادغام TABDELIMITED به XLSM ذخیره فرمت. C# TABDELIMITED را با فرمت XLSM ترکیب کنید. ادغام TABDELIMITED به XLSM در C#. TABDELIMITED ادغام.
+keywords: [Aspose Excel., C# Aspose.Cells., Merge TABDELIMITED to XLSM in C#., C# Merge TABDELIMITED to xlsm., C# Combine TABDELIMITED to XLSM., TABDELIMITED Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="ادغام TABDELIMITED به XLSM از طریق C#" h2="کتابخانه پرسرعت C# برای ادغام TABDELIMITED به XLSM. از تبدیل اکسل ما API برای توسعه نرم افزار سطح بالا و مستقل از پلت فرم در C# استفاده کنید. این یک راه حل نرم افزار حرفه ای برای وارد کردن و صادرات فرمت های 071143 excel و بسیاری دیگر از فرمت های 071143 است." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="TABDELIMITED" additionalConversionTag="XLSM" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., C# Aspose.Cells., Merge TABDELIMITED to XLSM in C#., F
 
 {{% blocks/products/pf/agp/content h2="ادغام TABDELIMITED به XLSM با استفاده از C#" %}}
 
-چگونه TABDELIMITED را با XLSM ادغام کنم؟ با کتابخانه Aspose.Cells for .NET، می توانید به راحتی با چند خط کد، TABDELIMITED را به XLSM ادغام کنید.[Aspose.Cells for .NET](https://products.aspose.com/cells/net)قادر به ساخت برنامه های چند پلتفرمی با قابلیت تولید، تغییر، تبدیل، رندر و چاپ تمام فایل های اکسل است. .NET اکسل API نه تنها بین فرمت های صفحه گسترده تبدیل می کند، بلکه می تواند فایل های اکسل را به صورت تصویر رندر کند. انتخاب عالی برای تبادل اسناد در استانداردهای صنعتی فرمت ها باز کن[NuGet](https://www.nuget.org/packages/aspose.cells) Package Manager Aspose.Cells را جستجو و نصب کنید. همچنین می توانید از دستور زیر در کنسول Package Manager استفاده کنید.
+ چگونه TABDELIMITED را با XLSM ادغام کنم؟ با کتابخانه Aspose.Cells for .NET، می توانید به راحتی با چند خط کد، TABDELIMITED را به XLSM ادغام کنید.[Aspose.Cells for .NET](https://products.aspose.com/cells/net)قادر به ساخت برنامه های چند پلتفرمی با قابلیت تولید، تغییر، تبدیل، رندر و چاپ تمام فایل های اکسل است. .NET اکسل API نه تنها بین فرمت های صفحه گسترده تبدیل می شود، بلکه می تواند فایل های اکسل را به صورت تصویر، PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT و موارد دیگر ارائه دهد، بنابراین آن را به گزینه ای عالی برای تبادل اسناد در قالب های استاندارد صنعتی تبدیل می کند. باز کن[NuGet](https://www.nuget.org/packages/aspose.cells) Package Manager Aspose.Cells را جستجو و نصب کنید. همچنین می توانید از دستور زیر در کنسول Package Manager استفاده کنید.
 
 {{% blocks/products/pf/agp/code-block title="فرمان کنسول Package Manager" offSpacer="true" %}}
 
@@ -26,7 +26,7 @@ PM> Install-Package Aspose.Cells
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="ادغام TABDELIMITED به XLSM در C# آنلاین به صورت رایگان" %}}
+{{% blocks/products/pf/agp/content h2="ادغام TABDELIMITED به XLSM در C#" %}}
 
 مثال زیر نحوه ادغام TABDELIMITED را به XLSM در Aspose.Cells for .NET نشان می دهد.
 {{% blocks/products/pf/agp/text %}}
@@ -37,7 +37,7 @@ PM> Install-Package Aspose.Cells
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="آنلاین رایگان برای ادغام TABDELIMITED به XLSM در C#" InputFormat="tsv" InputFormat2="xlsm" outformat="xlsm" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="net" %}}
+{{% cells-merger title="کد نمونه برای ادغام TABDELIMITED به XLSM در C#" InputFormat="tsv" InputFormat2="xlsm" outformat="xlsm" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="net" %}}
 
 {{% blocks/products/pf/agp/content h2="نحوه ادغام TABDELIMITED به XLSM از طریق C#" %}}
 

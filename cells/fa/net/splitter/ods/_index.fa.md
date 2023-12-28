@@ -2,6 +2,7 @@
 title:  تقسیم ODS فایل via .NET
 weight: 140
 description: کد منبع C# برای تقسیم اسناد ODS در .NET Framework، .NET Core، Mono یا Xamarin Platforms.
+keywords: [C# Aspose.Cells., C# split ods files., C# how to split ods files into multiple files., C# ods splitter., C# split Cell., Cell splitter using C#]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="تقسیم ODS فرمت در C#" h2="تقسیم‌کننده بومی و با کارایی بالا ODS با استفاده از APIهای سمت سرور، بدون استفاده از نرم‌افزاری مانند Microsoft یا Open Office، Adobe PDF." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="ODS" >}}
@@ -48,7 +49,7 @@ PM> Install-Package Aspose.Cells
 + در هر برگه تکرار کنید
 + یک شی کلاس Workbook جدید ایجاد کنید
  + برگه را از طریق کپی کنید[روش کپی](https://reference.aspose.com/cells/net/aspose.cells/worksheet/methods/copy)
- + متد Save() را فراخوانی کنید و نام فایل (مسیر کامل) و SaveFormat.Ods را به عنوان پارامتر ارسال کنید.
+ متد Save() را فراخوانی کنید و نام فایل (مسیر کامل) و SaveFormat.Ods را به عنوان پارامتر ارسال کنید.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

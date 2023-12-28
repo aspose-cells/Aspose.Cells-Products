@@ -2,6 +2,7 @@
 title:  قفل ODS سند via .NET را باز کنید
 weight: 3110
 description: کد منبع C# برای باز کردن قفل فایل ODS محافظت شده با رمز عبور در .NET Framework، .NET Core، Mono یا Xamarin Platforms.
+keywords: [C# Aspose.Cells., c# unlock ODS files., c# how to unlock ODS document., c# unprotect ODS files., remove protection from ODS files., decrypt ODS Files using C#]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="باز کردن قفل صفحه گسترده ODS از طریق C#" h2="با استفاده از کتابخانه .NET حفاظت را از ODS حذف کنید." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="ODS" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="ODS" >}}

@@ -2,6 +2,7 @@
 title:  قفل XLS سند via Java را باز کنید
 weight: 6390
 description: Java نمونه کد برای باز کردن قفل فایل XLS محافظت شده با رمز عبور در Java Runtime Environment برای برنامه های JSP/JSF و برنامه های دسکتاپ.
+keywords: [Java Aspose.Cells., Java unlock XLS files., Java how to unlock XLS document., Java unprotect XLS files., remove protection from XLS files., decrypt XLS Files using Java]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="باز کردن قفل XLS فایل via Java" h2="حفاظت از صفحات گسترده اکسل شامل فایل XLS را با استفاده از کتابخانه Java حذف کنید." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLS" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLS" >}}
@@ -73,7 +74,7 @@ description: Java نمونه کد برای باز کردن قفل فایل XLS �
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="فایل های XLS را از طریق C# باز کنید" offSpacer="" %}}
+{{% blocks/products/pf/agp/code-block title="باز کردن قفل XLS فایل via Java" offSpacer="" %}}
 
 ```cs
 

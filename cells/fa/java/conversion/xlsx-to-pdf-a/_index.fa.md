@@ -1,5 +1,5 @@
 ---
-title: تبدیل XLSX به PDF/A فایل های تکمیل شده via Java
+title:  تبدیل XLSX به PDF/A فایل های تکمیل شده via Java
 weight: 3200
 description: نمونه کد تبدیل Java برای فرمت XLSX به PDF A Complied Files. برنامه نویسان می توانند از این کد مثال برای صادر کردن صفحات گسترده Excel و OpenOffice به فایل های PDFA Complied در هر برنامه مبتنی بر وب یا دسکتاپ Java استفاده کنند.
 ---
@@ -11,7 +11,7 @@ description: نمونه کد تبدیل Java برای فرمت XLSX به PDF A C
 
 {{% blocks/products/pf/agp/content h2="نحوه تبدیل XLSX به PDF/A با استفاده از Java" %}}
 
- برای رندر XLSX به PDF/A از
+برای رندر XLSX به PDF/A از
  [Aspose.Cells for Java](https://products.aspose.com/cells/java) 
  API که یک پلتفرم تبدیل API for Java با ویژگی های غنی، قدرتمند و آسان برای استفاده است. آخرین نسخه آن را می توانید مستقیماً از اینجا دانلود کنید
  [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) 
@@ -58,7 +58,7 @@ description: نمونه کد تبدیل Java برای فرمت XLSX به PDF A C
 {{% /blocks/products/pf/agp/text %}}
 
 1.  فایل XLSX را با نمونه ای از کلاس Workbook بارگیری کنید
-1. شی کلاس PdfSaveOptions ایجاد کنید
+1.  شی کلاس PdfSaveOptions ایجاد کنید
 1.  نوع سازگاری PdfCompliance.PdfA1b را تنظیم کنید
 1.  روش Workbook.save را فراخوانی کنید
 1.  عبور مسیر خروجی با پسوند PDF و شیء PdfSaveOptions به عنوان پارامتر
@@ -95,12 +95,12 @@ description: نمونه کد تبدیل Java برای فرمت XLSX به PDF A C
 {{< blocks/products/pf/agp/demobox sectionTitle="XLSX به PDF تبدیل دموهای زنده" sectionDescription="[XLSX را به PDF تبدیل کنید](https://products.aspose.app/cells/conversion/xlsx-to-pdf) در حال حاضر با بازدید از وب سایت Live Demos ما. نسخه ی نمایشی زنده دارای مزایای زیر است" >}}
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" بدون نیاز به دانلود Aspose API." >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" نیازی به نوشتن هیچ کدی نیست." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" فقط فایل XLSX خود را آپلود کنید، فورا به PDF تبدیل می شود." >}}
+        {{< blocks/products/pf/agp/democard icon="fa-file-text" text="فقط فایل XLSX خود را آپلود کنید، فورا به PDF تبدیل می شود." >}}
         {{< blocks/products/pf/agp/democard icon="fa-download" text=" لینک دانلود را دریافت خواهید کرد." >}}
 
     {{% blocks/products/pf/agp/content h2="Java کتابخانه دستکاری صفحه گسترده" %}}
 
-اکسل API می تواند برای ایجاد، ویرایش، تبدیل و رندر فرمت های اکسل Microsoft به فرمت های مختلف استفاده شود. علاوه بر این، می توان از آن برای نمودارهای جامع، گزارش مقیاس پذیر و محاسبات قابل اعتماد در برنامه های نرم افزاری استفاده کرد. Aspose.Cells یک API مستقل است و به هیچ نرم افزاری مانند Microsoft یا OpenOffice نیاز ندارد.
+ اکسل API می تواند برای ایجاد، ویرایش، تبدیل و رندر فرمت های اکسل Microsoft به فرمت های مختلف استفاده شود. علاوه بر این، می توان از آن برای نمودارهای جامع، گزارش مقیاس پذیر و محاسبات قابل اعتماد در برنامه های نرم افزاری استفاده کرد. Aspose.Cells یک API مستقل است و به هیچ نرم افزاری مانند Microsoft یا OpenOffice نیاز ندارد.
 
 
 

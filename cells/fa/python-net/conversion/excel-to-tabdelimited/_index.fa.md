@@ -1,7 +1,7 @@
 ---
-title: Python EXCEL به TABDELIMITED - تبدیل آنلاین EXCEL به TABDELIMITED
-description: Aspose اکسل. Python Aspose.Cells. Python Aspose Cells. رایگان آنلاین Python تبدیل EXCEL به TABDELIMITED ذخیره فرمت. Python فرمت EXCEL به TABDELIMITED. EXCEL را در ABDELIMITED Python ذخیره کنید.
-keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python EXCEL to TABDELIMITED saveformat., Free Online EXCEL to TABDELIMITED Python., Python Convert EXCEL to TABDELIMITED]
+title: Python EXCEL به TABDELIMITED - تبدیل EXCEL به TABDELIMITED
+description: Aspose اکسل. تبدیل EXCEL به TABDELIMITED به سرعت و به راحتی با Aspose.Cells. Python EXCEL به TABDELIMITED. Python EXCEL را در TABDELIMITED ذخیره کنید. با استفاده از Python EXCEL را به صورت TABDELIMITED ذخیره کنید.
+keywords: [Aspose Excel., Python Aspose.Cells., Convert EXCEL to TABDELIMITED in Python., Save EXCEL to TABDELIMITED using Python., Python EXCEL to TABDELIMITED saveformat., EXCEL to TABDELIMITED Converter., Python Save EXCEL as TABDELIMITED]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="در Python EXCEL را به TABDELIMITED تبدیل کنید" h2="کتابخانه پرسرعت Python برای تبدیل EXCEL به TABDELIMITED. از تبدیل اکسل API ما برای توسعه نرم افزار سطح بالا و مستقل از پلت فرم در Python استفاده کنید." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="TABDELIMITED" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,12 +12,12 @@ keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python EXC
 
 {{% blocks/products/pf/agp/content h2="در Python EXCEL را به TABDELIMITED تبدیل کنید" %}}
 
- چگونه EXCEL را به TABDELIMITED تبدیل کنم؟ با Aspose.Cells for Python از طریق کتابخانه NET، می توانید به راحتی و با چند خط کد، EXCEL را به صورت برنامه ریزی شده به TABDELIMITED تبدیل کنید.[Aspose.Cells for Python از طریق NET](https://pypi.org/project/aspose-cells-python/)قادر به ساخت برنامه های چند پلتفرمی با قابلیت تولید، تغییر، تبدیل، رندر و چاپ تمام فایل های اکسل است. Python اکسل API نه تنها بین فرمت های صفحه گسترده تبدیل می کند، بلکه می تواند فایل های اکسل را به صورت تصویر رندر کند. انتخاب عالی برای تبادل اسناد در استانداردهای صنعتی فرمت ها
+ چگونه EXCEL را به TABDELIMITED تبدیل کنم؟ با Aspose.Cells for Python از طریق کتابخانه NET، می توانید به راحتی و با چند خط کد، EXCEL را به صورت برنامه ریزی شده به TABDELIMITED تبدیل کنید.[Aspose.Cells for Python از طریق NET](https://pypi.org/project/aspose-cells-python/)قادر به ساخت برنامه های چند پلتفرمی با قابلیت تولید، تغییر، تبدیل، رندر و چاپ تمام فایل های اکسل است. Python اکسل API نه تنها بین فرمت های صفحه گسترده تبدیل می شود، بلکه می تواند فایل های اکسل را به صورت تصویر، PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT و موارد دیگر ارائه دهد، بنابراین آن را به گزینه ای عالی برای تبادل اسناد در قالب های استاندارد صنعتی تبدیل می کند.
 
 {{% /blocks/products/pf/agp/content %}}
 
 
-{{% blocks/products/pf/agp/content h2="ذخیره EXCEL به TABDELIMITED در Python آنلاین به صورت رایگان" %}}
+{{% blocks/products/pf/agp/content h2="EXCEL را به ABDELIMITED در Python ذخیره کنید" %}}
 
 مثال زیر نحوه تبدیل EXCEL به TABDELIMITED را در Python via NET نشان می دهد.
 {{% blocks/products/pf/agp/text %}}
@@ -28,7 +28,7 @@ keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python EXC
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="برنامه رایگان و کد نمونه برای تبدیل EXCEL به TABDELIMITED آنلاین" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsx" outformat="tsv" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="نمونه کد برای تبدیل EXCEL به TABDELIMITED" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsx" outformat="tsv" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="نحوه تبدیل EXCEL به TABDELIMITED" %}}
 
@@ -42,7 +42,7 @@ keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python EXC
 1.  یک مرجع کتابخانه (وارد کردن کتابخانه) به پروژه Python خود اضافه کنید.
 1.  فایل EXCEL را با یک نمونه از Workbook بارگیری کنید.
 1.  با فراخوانی روش Workbook.save EXCEL را به TABDELIMITED تبدیل کنید.
-1. نتیجه تبدیل EXCEL به TABDELIMITED را دریافت کنید.
+1.  نتیجه تبدیل EXCEL به TABDELIMITED را دریافت کنید.
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -52,7 +52,7 @@ keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python EXC
 ما بسته های Python خود را در مخازن PyPi میزبانی می کنیم.
 
 {{% blocks/products/pf/agp/text %}}
-Aspose.Cells for Python را نصب کنید<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> ، از دستور به صورت زیر استفاده کنید:<code>$ pip install aspose-cells-python</code>.
+ Aspose.Cells for Python را نصب کنید<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> ، از دستور به صورت زیر استفاده کنید:<code>$ pip install aspose-cells-python</code>.
 {{% /blocks/products/pf/agp/text %}}
 
 {{% blocks/products/pf/agp/text %}}

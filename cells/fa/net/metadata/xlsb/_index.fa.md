@@ -2,6 +2,7 @@
 title:  مشاهده یا ویرایش XLSB فایل های فراداده via .NET
 weight: 7890
 description: کد منبع C# برای ویرایش یا مشاهده فراداده با فرمت XLSB در .NET Framework، .NET Core، Mono یا Xamarin Platforms.
+keywords: [C# Aspose.Cells., c# view xlsb metadata., c# add xlsb metadata., c# insert xlsb metadata., c# edit xlsb metadata., c# remove xlsb metadata., c# extract xlsb metadata., c# modify xlsb metadata]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Extract XLSB Metadata via .NET" h2="برنامه های .NET خود را بسازید تا با استفاده از API های سمت سرور، متادیتا را از فایل های XLSB اضافه، ویرایش، حذف یا استخراج کنید." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSB" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="PPTX" fileiconsmall2="DOCX" fileiconsmall3="XLSX" fileiconsmall4="PDF" fileiconsmall5=" ODP " >}}

@@ -1,7 +1,7 @@
 ---
 title: ایجاد NUMBERS - فایل NUMBERS را در C++ ایجاد کنید
-description: Aspose اکسل. C++ ایجاد فایل NUMBERS. ایجاد NUMBERS C++. C++ NUMBERS Creater. NUMBERS را در C++ ایجاد کنید. فایل NUMBERS را با استفاده از C++ ایجاد کنید.
-keywords: [Aspose Excel., C++ Aspose.Cells., Create NUMBERS C++., C++ NUMBERS Creater., Create NUMBERS file in C++., Generate NUMBERS file in C++]
+description:  Aspose اکسل. C++ با Aspose.Cells فایل NUMBERS را به سرعت و به راحتی ایجاد کنید. با استفاده از C++ فایل NUMBERS را ایجاد کنید. NUMBERS را در C++ ایجاد کنید. C++ NUMBERS Creater.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ Create NUMBERS file., Generate NUMBERS file in C++., Create NUMBERS file using C++., Write data to NUMBERS file via C++., Create a NUMBERS file in C++., C++ Generate a NUMBERS file., C++ NUMBERS Creater]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="فایل NUMBERS را در C++ ایجاد کنید" h2="ایجاد فایل NUMBERS بومی و با کارایی بالا به صورت برنامه نویسی بدون Micorsoft Office با استفاده از کتابخانه C++." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" sourceAdditionalConversionTag="" additionalConversionTag="NUMBERS" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -11,7 +11,7 @@ keywords: [Aspose Excel., C++ Aspose.Cells., Create NUMBERS C++., C++ NUMBERS Cr
 
 {{% blocks/products/pf/agp/content h2="با استفاده از C++ فایل NUMBERS ایجاد کنید" %}}
 
- چگونه فایل NUMBERS ایجاد کنیم؟ با کتابخانه Aspose.Cells for C++، می توانید به راحتی فایل NUMBERS را به صورت برنامه نویسی با چند خط کد ایجاد کنید.[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) قادر به ساخت برنامه های چند پلتفرمی با قابلیت تولید، تغییر، تبدیل، رندر و چاپ تمام فایل های اکسل است. C++ اکسل API نه تنها بین فرمت های صفحه گسترده تبدیل می کند، بلکه می تواند فایل های اکسل را به صورت تصویر رندر کند. انتخاب عالی برای تبادل اسناد در استانداردهای صنعتی فرمت ها شما می توانید آخرین نسخه آن را مستقیما دانلود کنید، فقط باز کنید[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) Package Manager Aspose.Cells.Cpp را جستجو کرده و نصب کنید. همچنین می توانید از دستور زیر در کنسول Package Manager استفاده کنید.
+ چگونه فایل NUMBERS ایجاد کنیم؟ با کتابخانه Aspose.Cells for C++، می توانید به راحتی فایل NUMBERS را به صورت برنامه نویسی با چند خط کد ایجاد کنید.[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) قادر به ساخت برنامه های چند پلتفرمی با قابلیت تولید، تغییر، تبدیل، رندر و چاپ تمام فایل های اکسل است. C++ اکسل API نه تنها بین فرمت های صفحه گسترده تبدیل می شود، بلکه می تواند فایل های اکسل را به صورت تصویر، PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT و موارد دیگر ارائه دهد، بنابراین آن را به گزینه ای عالی برای تبادل اسناد در قالب های استاندارد صنعتی تبدیل می کند. شما می توانید آخرین نسخه آن را مستقیما دانلود کنید، فقط باز کنید[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) Package Manager Aspose.Cells.Cpp را جستجو کرده و نصب کنید. همچنین می توانید از دستور زیر در کنسول Package Manager استفاده کنید.
 
 {{% blocks/products/pf/agp/code-block title="فرمان" offSpacer="true" %}}
 
@@ -34,41 +34,47 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/text %}}
 
-1.  یک شی از کلاس IWorkbook ایجاد کنید.
-1.  اولین ورق را در یک شیء IWorksheet دریافت کنید.
-1.  از روش IWorksheet->GetICells() برای وارد کردن سلول های کاربرگ به یک شی ICElls استفاده کنید.
-1. از متد ICells->GetObjectByIndex() برای دسترسی به سلول مورد نظر کاربرگ در یک شی ICEL استفاده کنید.
-1.  برای وارد کردن مقدار به سلول از متد ICEll->PutValue() استفاده کنید.
+1.  یک شی از کلاس Workbook ایجاد کنید.
+1.  اولین ورق را در یک شیء Worksheet دریافت کنید.
+1.  از متد Worksheet.GetCells() برای وارد کردن سلول های کاربرگ به یک شی Cells استفاده کنید.
+1. از متد Cells.Get() برای دسترسی به سلول مورد نظر کاربرگ در یک شی Cell استفاده کنید.
+1.  از متد Cell.PutValue() برای وارد کردن مقدار به سلول استفاده کنید.
 1.  با استفاده از متد Save() Workbook را به صورت فایل .numbers ذخیره کنید.
 
 {{% blocks/products/pf/agp/code-block title="کد نمونه نحوه ایجاد فایل NUMBERS را در C++ نشان می دهد." offSpacer="" %}}
 
 ```cs
+Aspose::Cells::Startup();
 
-// Create an object of the IWorkbook class.
-intrusive_ptr<IWorkbook> wkb = Factory::CreateIWorkbook();
+// Create an object of the Workbook class.
+Workbook wkb;
+// Get the first sheet into an Worksheet object.
+WorksheetCollection wsc = wkb.GetWorksheets();
+Worksheet ws = wsc.Get(0);
 
-// Get the first sheet into an IWorksheet object.
-intrusive_ptr<IWorksheetCollection> wsc = wkb->GetIWorksheets();
-intrusive_ptr<IWorksheet> ws = wsc->GetObjectByIndex(0);
 
-// Use IWorksheet->GetICells() method to get the cells of the worksheet into an ICells object.
-intrusive_ptr<ICells> cells = ws->GetICells();
+// Use Worksheet.GetCells() method to get the cells of the worksheet into an Cells object.
+Cells cells = ws.GetCells();
 
-// Use ICells->GetObjectByIndex() method to access the desired cell of the worksheet into an ICell object.
-intrusive_ptr<ICell> cell00 = cells->GetObjectByIndex(0, 0);
-intrusive_ptr<ICell> cell01 = cells->GetObjectByIndex(0, 1);
-intrusive_ptr<ICell> cell10 = cells->GetObjectByIndex(1, 0);
-intrusive_ptr<ICell> cell11 = cells->GetObjectByIndex(1, 1);
 
-// Use ICell->PutValue() method to input value into the cell.
-cell00->PutValue(new String("ColumnA"));
-cell01->PutValue(new String("ColumnB"));
-cell10->PutValue(new String("ValueA"));
-cell11->PutValue(new String("ValueB"));
+// Use Cells.Get() method to access the desired cell of the worksheet into an Cell object.
+Cell cell00 = cells.Get(0, 0);
+Cell cell01 = cells.Get(0, 1);
+Cell cell10 = cells.Get(1, 0);
+Cell cell11 = cells.Get(1, 1);
+
+
+// Use Cell.PutValue() method to input value into the cell.
+cell00.PutValue(u"ColumnA");
+cell01.PutValue(u"ColumnB");
+cell10.PutValue(u"ValueA");
+cell11.PutValue(u"ValueB");
+
 
 // Save workbook to resultFile folder
-wkb->Save(new String("created_one.numbers"));
+wkb.Save(u"created_one.numbers");
+
+Aspose::Cells::Cleanup();
 
 ```
 
@@ -104,7 +110,7 @@ wkb->Save(new String("created_one.numbers"));
 
 <!-- aboutfile Starts -->
     {{< blocks/products/pf/agp/about-file-section >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="NUMBERS" readMoreLink="https://docs.fileformat.com/spreadsheet/numbers/" >}}فایل های با پسوند .numbers به عنوان نوع فایل صفحه گسترده طبقه بندی می شوند، به همین دلیل شبیه فایل های xlsx هستند. اما فایل های Numbers با استفاده از نرم افزار صفحه گسترده Apple iWork Numbers ایجاد می شوند. Apple iWork Numbers یک نرم افزار واحد از مجموعه بهره وری iWork است. مجموعه بهره وری iWork معادل مجموعه آفیس Microsoft است که در رایانه های شخصی Windows استفاده می شود. از این رو، می توان گفت Numbers که برای MacOS در دسترس است، رقیب Microsoft Excel نیز می باشد. به همین ترتیب، Microsoft اکسل، فایل NUMBERS ممکن است شامل جداول، نمودارها و فرمول ها نیز باشد.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="NUMBERS" readMoreLink="https://docs.fileformat.com/spreadsheet/numbers/" >}} فایل های با پسوند .numbers به عنوان نوع فایل صفحه گسترده طبقه بندی می شوند، به همین دلیل شبیه فایل های xlsx هستند. اما فایل های Numbers با استفاده از نرم افزار صفحه گسترده Apple iWork Numbers ایجاد می شوند. Apple iWork Numbers یک نرم افزار واحد از مجموعه بهره وری iWork است. مجموعه بهره وری iWork معادل مجموعه آفیس Microsoft است که در رایانه های شخصی Windows استفاده می شود. از این رو، می توان گفت Numbers که برای MacOS در دسترس است، رقیب Microsoft Excel نیز می باشد. به همین ترتیب، Microsoft اکسل، فایل NUMBERS ممکن است شامل جداول، نمودارها و فرمول ها نیز باشد.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
     {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->
 

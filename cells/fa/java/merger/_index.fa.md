@@ -5,7 +5,7 @@ description: فایل های اکسل را با استفاده از Java در چ
 {{< blocks/products/pf/feature-page-wrap >}}
 {{< blocks/products/pf/i18n/feature-page-header h1="Microsoft<sup>&reg;</sup> ادغام فایل اکسل via Java" h2="دو یا چند فایل اکسل را با استفاده از کد Java در یک صفحه گسترده ترکیب کنید" >}}
 {{% blocks/products/pf/feature-page-summary %}}
-[Java کتابخانه اکسل](/cells/fa/java/) راه های متعددی برای ترکیب کتاب های کار با انواع مختلف محتوا مانند فرمول ها، تصاویر، داده ها، نمودارها و غیره در یک سند صفحه گسترده ارائه می دهد. فرمت های فایل پشتیبانی شده شامل XLS، XLSX، XLSB، XLT، XLTX، XLTM، ODS، CSV، CSV، CSV، CSV،
+[Java کتابخانه اکسل](/cells/fa/java/)راه های متعددی برای ترکیب کتاب های کار با انواع مختلف محتوا مانند فرمول ها، تصاویر، داده ها، نمودارها و غیره در یک سند صفحه گسترده ارائه می دهد. فرمت های فایل پشتیبانی شده شامل XLS، XLSX، XLSB، XLT، XLTX، XLTM، ODS، CSV، CSV، CSV، CSV،
 {{% /blocks/products/pf/feature-page-summary %}}
 
 {{% blocks/products/pf/feature-page-section h2="فایل های اکسل را با تصاویر و نمودارها ترکیب کنید" %}}
@@ -27,7 +27,7 @@ book1.save("combined.xlsx");
 {{% /blocks/products/pf/feature-page-section %}}
 
 {{% blocks/products/pf/feature-page-section h2="ادغام چندین فایل اکسل" %}}
-[CellsHelper.mergeFiles](https://reference.aspose.com/cells/java/com.aspose.cells/cellshelper#mergeFiles)روش از ادغام داده‌ها، سبک و فرمول‌های یک فایل اکسل در یک صفحه گسترده جدید با همان فرمت پشتیبانی می‌کند. این یک راه کارآمد برای ادغام چندین فایل در حین استفاده از کش است.
+[CellsHelper.mergeFiles](https://reference.aspose.com/cells/java/com.aspose.cells/cellshelper#mergeFiles) روش از ادغام داده‌ها، سبک و فرمول‌های یک فایل اکسل در یک صفحه گسترده جدید با همان فرمت پشتیبانی می‌کند. این یک راه کارآمد برای ادغام چندین فایل در حین استفاده از کش است.
 {{% blocks/products/pf/feature-page-code h3="Java کد برای ادغام چندین فایل اکسل" %}}
 
 ```cs
@@ -44,7 +44,7 @@ CellsHelper.mergeFiles(files, "cache", "merged.xls");
 {{% /blocks/products/pf/feature-page-section %}}
 
 {{% blocks/products/pf/feature-page-section h2="ادغام فایل های اکسل با کپی کردن کاربرگ ها" %}}
-[کاربرگ.کپی](https://reference.aspose.com/cells/java/com.aspose.cells/worksheet#copy(com.aspose.cells.Worksheet)) می تواند برای کپی داده ها و قالب بندی از یک کاربرگ منبع به کاربرگ دیگر در داخل یا بین کتاب های کار استفاده شود. متد شیء کاربرگ منبع را به عنوان پارامتر می گیرد.
+[کاربرگ.کپی](https://reference.aspose.com/cells/java/com.aspose.cells/worksheet#copy(com.aspose.cells.Worksheet)می تواند برای کپی داده ها و قالب بندی از یک کاربرگ منبع به کاربرگ دیگر در داخل یا بین کتاب های کار استفاده شود. متد شیء کاربرگ منبع را به عنوان پارامتر می گیرد.
 {{% blocks/products/pf/feature-page-code h3="Java کد برای کپی کاربرگ ها بین کتاب های کار" %}}
 
 ```cs

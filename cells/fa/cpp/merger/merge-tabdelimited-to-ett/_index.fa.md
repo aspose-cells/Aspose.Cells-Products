@@ -1,8 +1,8 @@
 ---
 title: ادغام TABDELIMITED به ETT - ترکیب TABDELIMITED به ETT در C++
 url: /fa/cpp/merger/merge-tabdelimited-to-ett/ 
-description: Aspose اکسل. C++ Aspose.Cells. ادغام آنلاین رایگان TABDELIMITED به فرمت ذخیره ETT. C++ TABDELIMITED را با فرمت ETT ترکیب کنید. ادغام TABDELIMITED به ETT در C++. TABDELIMITED ادغام.
-keywords: [Aspose Excel., C++ Aspose.Cells., Merge TABDELIMITED to ETT in C++., Free Online C++ Merge TABDELIMITED to ett., C++ Combine TABDELIMITED to ETT Online for Free., TABDELIMITED Merge]
+description: Aspose اکسل. C++ Aspose.Cells. TABDELIMITED را با فرمت ذخیره ETT ادغام کنید. C++ TABDELIMITED را با فرمت ETT ترکیب کنید. ادغام TABDELIMITED به ETT در C++. TABDELIMITED ادغام.
+keywords: [Aspose Excel., C++ Aspose.Cells., Merge TABDELIMITED to ETT in C++., C++ Merge TABDELIMITED to ett., C++ Combine TABDELIMITED to ETT., TABDELIMITED Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="TABDELIMITED را از طریق C++ به ETT ادغام کنید" h2="کتابخانه پرسرعت C++ برای ادغام TABDELIMITED به ETT. از تبدیل اکسل ما API برای توسعه نرم افزار سطح بالا و مستقل از پلت فرم در C++ استفاده کنید. این یک راه حل نرم افزاری حرفه ای برای وارد کردن و صادرات Excel, CSV, OpenOffice, PDF, HTML, image و بسیاری از فرمت های اکسل دیگر است." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" sourceAdditionalConversionTag="TABDELIMITED" additionalConversionTag="ETT" pfName="Aspose.Cells" subTitlepfName="for C++" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., C++ Aspose.Cells., Merge TABDELIMITED to ETT in C++., 
 
 {{% blocks/products/pf/agp/content h2="ادغام TABDELIMITED به ETT با استفاده از C++" %}}
 
- چگونه TABDELIMITED را با ETT ادغام کنم؟ با کتابخانه Aspose.Cells for C++، می توانید به راحتی TABDELIMITED را به صورت برنامه ریزی شده با چند خط کد به ETT ادغام کنید.[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) قادر به ساخت برنامه های چند پلتفرمی با قابلیت تولید، تغییر، تبدیل، رندر و چاپ تمام فایل های اکسل است. C++ اکسل API نه تنها بین فرمت های صفحه گسترده تبدیل می کند، بلکه می تواند فایل های اکسل را به صورت تصویر رندر کند. انتخاب عالی برای تبادل اسناد در استانداردهای صنعتی فرمت ها شما می توانید آخرین نسخه آن را مستقیما دانلود کنید، فقط باز کنید[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) Package Manager Aspose.Cells.Cpp را جستجو کرده و نصب کنید. همچنین می توانید از دستور زیر در کنسول Package Manager استفاده کنید.
+ چگونه TABDELIMITED را با ETT ادغام کنم؟ با کتابخانه Aspose.Cells for C++، می توانید به راحتی TABDELIMITED را به صورت برنامه ریزی شده با چند خط کد به ETT ادغام کنید.[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) قادر به ساخت برنامه های چند پلتفرمی با قابلیت تولید، تغییر، تبدیل، رندر و چاپ تمام فایل های اکسل است. C++ اکسل API نه تنها بین فرمت های صفحه گسترده تبدیل می شود، بلکه می تواند فایل های اکسل را به صورت تصویر، PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT و موارد دیگر ارائه دهد، بنابراین آن را به گزینه ای عالی برای تبادل اسناد در قالب های استاندارد صنعتی تبدیل می کند. شما می توانید آخرین نسخه آن را مستقیما دانلود کنید، فقط باز کنید[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) Package Manager Aspose.Cells.Cpp را جستجو کرده و نصب کنید. همچنین می توانید از دستور زیر در کنسول Package Manager استفاده کنید.
 
 {{% blocks/products/pf/agp/code-block title="فرمان" offSpacer="true" %}}
 
@@ -26,7 +26,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="TABDELIMITED را با ETT در C++ آنلاین به صورت رایگان ادغام کنید" %}}
+{{% blocks/products/pf/agp/content h2="ادغام TABDELIMITED به ETT در C++" %}}
 
 مثال زیر نحوه ادغام TABDELIMITED را با ETT در Aspose.Cells for C++ نشان می دهد.
 {{% blocks/products/pf/agp/text %}}
@@ -37,7 +37,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="آنلاین رایگان برای ادغام TABDELIMITED به ETT در C++" InputFormat="tsv" InputFormat2="ett" outformat="ett" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="cpp" %}}
+{{% cells-merger title="کد نمونه برای ادغام TABDELIMITED به ETT در C++" InputFormat="tsv" InputFormat2="ett" outformat="ett" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="cpp" %}}
 
 {{% blocks/products/pf/agp/content h2="نحوه ادغام TABDELIMITED به ETT از طریق C++" %}}
 
@@ -107,7 +107,6 @@ API های ما در تمام سیستم عامل ها و سیستم عامل ه
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-tabdelimited-to-pdf/" name="TABDELIMITED را به PDF ادغام کنید" description="فرمت سند قابل حمل" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-tabdelimited-to-png/" name="TABDELIMITED را به PNG ادغام کنید" description="گرافیک شبکه قابل حمل" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-tabdelimited-to-svg/" name="TABDELIMITED را به SVG ادغام کنید" description="گرافیک برداری مقیاس پذیر" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-tabdelimited-to-tiff/" name="TABDELIMITED را به TIFF ادغام کنید" description="فرمت تصویر برچسب شده" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-tabdelimited-to-tsv/" name="TABDELIMITED را به TSV ادغام کنید" description="مقادیر جدا شده از تب" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-tabdelimited-to-txt/" name="TABDELIMITED را به TXT ادغام کنید" description="سند متنی" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-tabdelimited-to-xls/" name="TABDELIMITED را به XLS ادغام کنید" description="فرمت باینری اکسل" >}}

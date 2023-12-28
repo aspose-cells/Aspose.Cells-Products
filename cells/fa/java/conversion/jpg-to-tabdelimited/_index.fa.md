@@ -1,7 +1,7 @@
 ---
-title: Java JPG به TABDELIMITED - تبدیل آنلاین JPG به TABDELIMITED
-description: Aspose اکسل. Java Aspose.Cells. Java Aspose Cells. رایگان آنلاین Java تبدیل JPG به TABDELIMITED ذخیره فرمت. Java فرمت JPG تا TABDELIMITED. JPG را در TABDELIMITED Java ذخیره کنید.
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java JPG to TABDELIMITED saveformat., Free Online JPG to TABDELIMITED Java., Java Convert JPG to TABDELIMITED]
+title: Java JPG به TABDELIMITED - تبدیل JPG به TABDELIMITED
+description: Aspose اکسل. Java Aspose.Cells. JPG به TABDELIMITED در Java. Java تبدیل JPG به TABDELIMITED ذخیره فرمت. Java فرمت JPG به TABDELIMITED. JPG را در TABDELIMITED Java ذخیره کنید.
+keywords: [Aspose Excel., Java Aspose.Cells., JPG to TABDELIMITED in Java., Java JPG to TABDELIMITED saveformat., JPG to TABDELIMITED Java., Java Convert JPG to TABDELIMITED]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="تبدیل JPG به TABDELIMITED در Java" h2="کتابخانه پرسرعت Java برای تبدیل JPG به TABDELIMITED. این یک راه حل نرم افزاری حرفه ای برای وارد کردن و صادرات JPG، TABDELIMITED و بسیاری از فرمت های دیگر با استفاده از Java است." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="TABDELIMITED" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java JPG to TA
 
 {{% blocks/products/pf/agp/content h2="با استفاده از Java JPG را به TABDELIMITED تبدیل کنید" %}}
 
- چگونه JPG را به TABDELIMITED تبدیل کنم؟ با کتابخانه Aspose.Cells for Java به راحتی می توانید JPG را به صورت برنامه نویسی و با چند خط کد به TABDELIMITED تبدیل کنید.[Aspose.Cells for Java](https://products.aspose.com/cells/java) قادر به ساخت برنامه های چند پلتفرمی با قابلیت تولید، تغییر، تبدیل، رندر و چاپ تمام فایل های اکسل است. Java اکسل API نه تنها بین فرمت های صفحه گسترده تبدیل می کند، بلکه می تواند فایل های اکسل را به صورت تصویر رندر کند. انتخاب عالی برای تبادل اسناد در استانداردهای صنعتی فرمت ها آخرین نسخه آن را می توانید مستقیماً از اینجا دانلود کنید[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) و با افزودن تنظیمات زیر به pom.xml آن را در پروژه مبتنی بر Maven خود نصب کنید.
+ چگونه JPG را به TABDELIMITED تبدیل کنم؟ با کتابخانه Aspose.Cells for Java به راحتی می توانید JPG را به صورت برنامه نویسی و با چند خط کد به TABDELIMITED تبدیل کنید.[Aspose.Cells for Java](https://products.aspose.com/cells/java)قادر به ساخت برنامه های چند پلتفرمی با قابلیت تولید، تغییر، تبدیل، رندر و چاپ تمام فایل های اکسل است. Java اکسل API نه تنها بین فرمت های صفحه گسترده تبدیل می شود، بلکه می تواند فایل های اکسل را به صورت تصویر، PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT و موارد دیگر ارائه دهد، بنابراین آن را به گزینه ای عالی برای تبادل اسناد در قالب های استاندارد صنعتی تبدیل می کند. آخرین نسخه آن را می توانید مستقیماً از اینجا دانلود کنید[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) و با افزودن تنظیمات زیر به pom.xml آن را در پروژه مبتنی بر Maven خود نصب کنید.
 
 {{% blocks/products/pf/agp/code-block title="مخزن" offSpacer="true" %}}
 
@@ -45,7 +45,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java JPG to TA
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="JPG را در TABDELIMITED در Java آنلاین به صورت رایگان ذخیره کنید" %}}
+{{% blocks/products/pf/agp/content h2="JPG را در TABDELIMITED در Java ذخیره کنید" %}}
 
 مثال زیر نحوه تبدیل JPG به TABDELIMITED را در Java نشان می دهد.
 {{% blocks/products/pf/agp/text %}}
@@ -56,7 +56,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java JPG to TA
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="برنامه رایگان و کد نمونه برای تبدیل JPG به TABDELIMITED آنلاین" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="jpg" outformat="tsv" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="کد نمونه برای تبدیل JPG به TABDELIMITED" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="jpg" outformat="tsv" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="نحوه تبدیل JPG به TABDELIMITED via Java" %}}
 

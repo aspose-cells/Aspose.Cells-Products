@@ -1,7 +1,8 @@
 ---
-title:  واترمارک XLSM سند via Java
+title: واترمارک XLSM سند via Java
 weight: 7680
 description: Java کد نمونه برای افزودن یا حذف واترمارک به فایل XLSM در Java Runtime Environment برای برنامه های کاربردی JSP/JSF و برنامه های دسکتاپ.
+keywords: [Java Aspose.Cells., Java add watermark to xlsm file., Java insert watermark to xlsm file., Java create watermark in xlsm file., remove watermark from xlsm file using Java., Java operate watermark in xlsm file., Java access watermark in xlsm file]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="واترمارک متنی را به XLSM via Java اضافه کنید" h2="برنامه های Java خود را بسازید تا فایل های XLSM را با استفاده از API های سمت سرور علامت گذاری کنید." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSM" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="" fileiconsmall1="PPTX" fileiconsmall2="DOCX" fileiconsmall3="XLSX" fileiconsmall4="PDF" fileiconsmall5=" ODP " >}}

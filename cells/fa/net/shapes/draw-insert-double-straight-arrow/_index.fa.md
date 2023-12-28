@@ -1,7 +1,8 @@
 ---
-title: چگونه می توانم دو فلش مستقیم را در اکسل via .NET بکشم یا وارد کنم
+title:  چگونه می توانم دو فلش مستقیم را در اکسل via .NET بکشم یا وارد کنم
 weight: 10
-description: کد منبع C# برای کشیدن یا درج دو فلش مستقیم در اکسل در .NET Framework، .NET Core، Mono یا Xamarin Platforms.
+description: C# کد نمونه برای افزودن یا درج دو فلش مستقیم به اکسل با استفاده از کتابخانه .NET. از این کد برای ایجاد پیکان مستقیم دوتایی در MS Excel در VB.NET، Asp.NET یا هر برنامه مبتنی بر .NET استفاده کنید.
+keywords: [C# Aspose.Cells., c# add double straight arrow., c# insert double straight arrow., c# create double straight arrow]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="دو فلش مستقیم را در اکسل via .NET وارد کنید" h2="پیکان مستقیم دوتایی را با استفاده از Aspose.Cells\' API بدون هیچ نرم افزاری مانند Microsoft یا Open Office، Adobe PDF و غیره وارد کنید." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="XLSX" >}}
@@ -11,7 +12,7 @@ description: کد منبع C# برای کشیدن یا درج دو فلش مست
 
 {{% blocks/products/pf/agp/content h2="نحوه درج دو فلش مستقیم در فایل اکسل با استفاده از C#" %}}
 
- به منظور درج دو فلش مستقیم در فایل اکسل، از آن استفاده می کنیم
+به منظور درج دو فلش مستقیم در فایل اکسل، از آن استفاده می کنیم
  [Aspose.Cells for .NET](https://products.aspose.com/cells/net) 
  API که دارای ویژگی های غنی، قدرتمند و آسان برای دستکاری اسناد و تقسیم کننده API برای پلت فرم C# است. باز کن
  [NuGet](https://www.nuget.org/packages/aspose.cells) 
@@ -41,9 +42,9 @@ PM> Install-Package Aspose.Cells
 
 {{% /blocks/products/pf/agp/text %}}
 
-نمونه سازی یک شی Workbook. (یا -> فایل XLSX را با مسیر کامل بارگیری کنید.)
++ نمونه سازی یک شی Workbook. (یا -> فایل XLSX را با مسیر کامل بارگیری کنید.)
 + کاربرگ را از طریق فهرست آن انتخاب کنید.
- + استفاده کنید[روش اضافه کردن](https://reference.aspose.com/cells/net/aspose.cells.drawing/shapecollection/methods/addline) برای درج یک فلش مستقیم دوتایی در کاربرگ انتخاب شده
+ + استفاده کنید[روش اضافه کردن](https://reference.aspose.com/cells/net/aspose.cells.drawing/shapecollection/methods/addline)برای درج یک فلش مستقیم دوتایی در کاربرگ انتخاب شده
 + کتاب کار را با فرمت XLSX ذخیره کنید.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
@@ -77,7 +78,7 @@ PM> Install-Package Aspose.Cells
 
 {{% blocks/products/pf/agp/content h2="درباره Aspose.Cells for .NET API" %}}
 
- Aspose.Cells API می تواند برای ایجاد، ویرایش، تبدیل و رندر فرمت های اکسل Microsoft به فرمت های مختلف استفاده شود. علاوه بر این، می توان از آن برای نمودارهای جامع، گزارش مقیاس پذیر و محاسبات قابل اعتماد در برنامه های نرم افزاری استفاده کرد. Aspose.Cells یک API مستقل است و به هیچ نرم افزاری مانند Microsoft یا OpenOffice نیاز ندارد.
+Aspose.Cells API می تواند برای ایجاد، ویرایش، تبدیل و رندر فرمت های اکسل Microsoft به فرمت های مختلف استفاده شود. علاوه بر این، می توان از آن برای نمودارهای جامع، گزارش مقیاس پذیر و محاسبات قابل اعتماد در برنامه های نرم افزاری استفاده کرد. Aspose.Cells یک API مستقل است و به هیچ نرم افزاری مانند Microsoft یا OpenOffice نیاز ندارد.
 
 {{% /blocks/products/pf/agp/content %}}
 

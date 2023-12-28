@@ -1,12 +1,13 @@
 ---
 title: Microsoft تبدیل فایل اکسل با استفاده از Python via Java
-description: اکسل XLS، XLSX، ODS، CSV را به PDF، XPS، HTML، HTML، JPEG، JPEG، JPEG، JPEG، JPEG، JPEG، JPEG، JPEG، JPEG، JPEG، JPEG، JPEG، JPEG، JPEG، PDF، PDF. کد 81
+description: Aspose.Cells for Python via Java کتابخانه. فرمت های EXCEL، JSON، PDF، XML، HTML، TXT، TSV، CSV، SQL و فرمت های بیشتر را تنها با چند خط 076194 تبدیل کنید.
+keywords: [Python Aspose.Cells., excel to pdf., json to excel., excel to json., csv to json., json to html., xml to excel and Convert files between various formats in Python]
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
 {{< blocks/products/pf/i18n/feature-page-header h1="Microsoft<sup>&reg;</sup> تبدیل فرمت اکسل از طریق Python" h2="فایل‌های اکسل را به‌صورت صفحه‌گسترده، وب، تصویر و قالب‌بندی ثابت وارد و صادر کنید" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-Python Excel Library برنامه‌نویسی و فرآیندهای تبدیل صفحه‌گسترده را با پشتیبانی از فرمت‌های محبوب از جمله XLS، XLSX، XLSM، XLSB، XLTX، XLTX، XLTX، XLS، XLS، XLTX، XLS، XLS، XLTX، XLS، 076113418 ODS. همچنین اجازه می دهد تا فایل های اکسل را به PDF، XPS، HTML، MHTML، ساده صادر کنید. متن و فرمت های تصویری محبوب مانند TIFF، JPG، PNG، BMP و SVG.
+Python Excel Library برنامه‌نویسی و فرآیندهای تبدیل صفحه‌گسترده را با پشتیبانی از فرمت‌های محبوب از جمله XLS، XLSX، XLSM، XLSB، XLTX، XLTX، XLTX، 0716113481، XLTX، 0716113481، XLS، XLS، XLTX، XLS، XLTX، 0716163481 6193481. همچنین اجازه می دهد تا فایل های اکسل را به PDF، XPS، HTML، MHTML، ساده صادر کنید. متن و فرمت های تصویری محبوب مانند TIFF، JPG، PNG، BMP و SVG.
 {{% /blocks/products/pf/feature-page-summary %}}
 
 {{% blocks/products/pf/feature-page-section h2="تبدیل اکسل به XLSX، ODS، SXC و FODS" %}}
@@ -85,7 +86,7 @@ workbook.save("Data.json")
 {{< blocks/products/pf/feature-page-options pairs="json-to-xlsx json-to-ods json-to-csv json-to-dif json-to-html csv-to-json xls-to-json ods-to-json" >}}
 
 {{% blocks/products/pf/feature-page-section h2="تبدیل کاربرگ های اکسل به JPG، BMP، PNG و GIF" %}}
- هر کاربرگ یک فایل اکسل را می توان به فرمت های مختلف تصویر تبدیل کرد، تماس بگیرید[ImageOrPrintOptions](https://reference.aspose.com/cells/python/asposecells.api/ImageOrPrintOptions) برای تنظیم فرمت تصویر، setImageFormat.
+ هر کاربرگ یک فایل اکسل را می توان به فرمت های مختلف تصویر تبدیل کرد، تماس بگیرید[ImageOrPrintOptions](https://reference.aspose.com/cells/python/asposecells.api/ImageOrPrintOptions)برای تنظیم فرمت تصویر، setImageFormat.
 {{% blocks/products/pf/feature-page-code h3="Python کد برای تبدیل اکسل به تصویر" %}}
 ```cs
 // load template spreadsheet
@@ -106,7 +107,7 @@ sr.toImage(0, "output.jpg")
 {{< blocks/products/pf/feature-page-options pairs="xlsx-to-jpg xlsx-to-png xlsx-to-bmp ods-to-gif ods-to-svg ods-to-png ods-to-gif ods-to-bmp sxc-to-jpg mhtml-to-svg xlt-to-svg xls-to-emf fods-to-emf" afterslug="rendering" >}}
 
 {{% blocks/products/pf/feature-page-section h2="اکسل را به ورد و PowerPoint تبدیل کنید" %}}
- امکان بارگذاری هر صفحه گسترده و تبدیل آن به فایل های Word DOCX و PowerPoint PPTX در حین استفاده وجود دارد.[DocxSaveOptions](https://reference.aspose.com/cells/python/asposecells.api/DocxSaveOptions) & [PptxSaveOptions](https://reference.aspose.com/cells/python/asposecells.api/PptxSaveOptions)کلاس هایی که در زیر نشان داده شده است.
+امکان بارگذاری هر صفحه گسترده و تبدیل آن به فایل های Word DOCX و PowerPoint PPTX در حین استفاده وجود دارد.[DocxSaveOptions](https://reference.aspose.com/cells/python/asposecells.api/DocxSaveOptions) & [PptxSaveOptions](https://reference.aspose.com/cells/python/asposecells.api/PptxSaveOptions) کلاس هایی که در زیر نشان داده شده است.
 {{% blocks/products/pf/feature-page-code h3="کد Python برای اکسل به ورد و تبدیل PowerPoint" %}}
 ```cs
 // load the template file

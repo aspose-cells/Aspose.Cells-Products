@@ -1,7 +1,8 @@
 ---
-title:  اضافه کردن ODS حاشیه نویسی از طریق C++
+title:  افزودن یا حذف حاشیه نویسی ODS از طریق C++
 weight: 8840
 description: C++ نمونه کد حذف حاشیه نویسی فرمت ODS در C++ Runtime Environment برای Windows 32 بیتی، Windows 64 بیتی و لینوکس 64 بیتی.
+keywords: [C++ Aspose.Cells., add ods annotation., insert ods annotation., access ods annotation., remove ods annotation., delete ods annotation., add annotation in ods., insert annotation in ods., access annotation in ods., remove annotation in ods., delete annotation in ods]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="اضافه کردن حاشیه نویسی در فایل ODS از طریق C++" h2="برنامه های C++ خود را برای دستکاری نظرات و نویسندگان در فایل های سند با استفاده از API های سمت سرور بسازید." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" sourceAdditionalConversionTag="" additionalConversionTag="ODS" pfName="Aspose.Cells" subTitlepfName="for C++" downloadUrl="" fileiconsmall1="PPTX" fileiconsmall2="DOCX" fileiconsmall3="XLSX" fileiconsmall4="PDF" fileiconsmall5=" ODP " >}}
@@ -43,7 +44,7 @@ PM> Install-Package Aspose.Cells.Cpp
 1.  برگه مربوطه را انتخاب کنید
 1.  نظر را با استفاده از روش افزودن اضافه کنید
 1.  یادداشت نظر را با استفاده از روش SetNote تنظیم کنید.
-1.  با استفاده از کتاب کار را ذخیره کنید[صرفه جویی](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook#a77072cfb929787df9ad1f38b02f58349) روش
+1.  با استفاده از کتاب کار را ذخیره کنید[صرفه جویی](https://reference.aspose.com/cells/cpp/aspose.cells/workbook/save/) روش
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -62,7 +63,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% blocks/products/pf/agp/code-block title="نظرات را در ODS - C++ اضافه کنید" offSpacer="" %}}
 
-{{< gist "aspose-com-gists" "e144512d2c395c3336f12ce960424686" "add-comment-in-ods-file.cpp" >}}
+{{< gist "aspose-cells-gists" "6f7d9819d85793c3a3b5d040af42e1a9" "add-comment-in-ods-file.cpp" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 

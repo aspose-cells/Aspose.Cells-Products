@@ -1,7 +1,7 @@
 ---
 title: ایجاد TABDELIMITED - ایجاد فایل TABDELIMITED در Python
-description: Aspose اکسل. Python فایل TABDELIMITED ایجاد کنید. ایجاد TABDELIMITED Python. Python TABDELIMITED Creater. TABDELIMITED را در Python ایجاد کنید. فایل TABDELIMITED را با استفاده از Python ایجاد کنید.
-keywords: [Aspose Excel., Python Aspose.Cells., Create TABDELIMITED Python., Python TABDELIMITED Creater., Create TABDELIMITED file in Python., Generate TABDELIMITED file in Python]
+description: Aspose اکسل. Python فایل TABDELIMITED را به سرعت و به راحتی با Aspose.Cells ایجاد کنید. با استفاده از Python فایل TABDELIMITED ایجاد کنید. در Python TABDELIMITED ایجاد کنید. Python TABDELIMITE Creaater.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Create TABDELIMITED file., Generate TABDELIMITED file in Python., Create TABDELIMITED file using Python., Write data to TABDELIMITED file via Python., Create a TABDELIMITED file in Python., Python Generate a TABDELIMITED file., Python TABDELIMITED Creater]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="فایل TABDELIMITED را در Python ایجاد کنید" h2="کتابخانه پرسرعت Python برای ایجاد فایل TABDELIMITED. این یک راه حل نرم افزاری حرفه ای برای واردات و صادرات XLSX، PDF و بسیاری از فرمت های دیگر با استفاده از Python است." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="TABDELIMITED" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -11,7 +11,7 @@ keywords: [Aspose Excel., Python Aspose.Cells., Create TABDELIMITED Python., Pyt
 
 {{% blocks/products/pf/agp/content h2="با استفاده از Python فایل TABDELIMITED ایجاد کنید" %}}
 
- چگونه فایل TABDELIMITED ایجاد کنیم؟ با کتابخانه Aspose.Cells for Python via Java می توانید به راحتی فایل TABDELIMITED را به صورت برنامه نویسی با چند خط کد ایجاد کنید.[Aspose.Cells for Python](https://pypi.org/project/aspose-cells)قادر به ساخت برنامه های چند پلتفرمی با قابلیت تولید، تغییر، تبدیل، رندر و چاپ تمام فایل های اکسل است. Python اکسل API نه تنها بین فرمت های صفحه گسترده تبدیل می کند، بلکه می تواند فایل های اکسل را به صورت تصویر رندر کند. انتخاب عالی برای تبادل اسناد در استانداردهای صنعتی فرمت ها
+ چگونه فایل TABDELIMITED ایجاد کنیم؟ با کتابخانه Aspose.Cells for Python via Java می توانید به راحتی فایل TABDELIMITED را به صورت برنامه نویسی با چند خط کد ایجاد کنید.[Aspose.Cells for Python](https://pypi.org/project/aspose-cells)قادر به ساخت برنامه های چند پلتفرمی با قابلیت تولید، تغییر، تبدیل، رندر و چاپ تمام فایل های اکسل است. Python اکسل API نه تنها بین فرمت های صفحه گسترده تبدیل می شود، بلکه می تواند فایل های اکسل را به صورت تصویر، PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT و موارد دیگر ارائه دهد، بنابراین آن را به گزینه ای عالی برای تبادل اسناد در قالب های استاندارد صنعتی تبدیل می کند.
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -21,7 +21,7 @@ keywords: [Aspose Excel., Python Aspose.Cells., Create TABDELIMITED Python., Pyt
 
 {{% blocks/products/pf/agp/text %}}
 
- ایجاد، بارگیری، تغییر و تبدیل فایل‌های TABDELIMITED در برنامه‌های گزارش‌دهی مختلف برای پردازش داده‌ها، تنها در چند خط کد برای توسعه‌دهندگان آسان است.
+ایجاد، بارگیری، تغییر و تبدیل فایل‌های TABDELIMITED در برنامه‌های گزارش‌دهی مختلف برای پردازش داده‌ها، تنها در چند خط کد برای توسعه‌دهندگان آسان است.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -80,7 +80,7 @@ jpype.shutdownJVM()
 
 {{% blocks/products/pf/agp/text %}}
 
-Aspose.Cells for Python via Java مستقل از پلتفرم API است و می تواند در هر پلتفرمی (Windows، لینوکس و MacOS) استفاده شود، فقط مطمئن شوید که سیستم دارای Java 1.8 یا بالاتر است،[Python](https://www.python.org/downloads/) 3.5 یا بالاتر
+ Aspose.Cells for Python via Java مستقل از پلتفرم API است و می تواند در هر پلتفرمی (Windows، لینوکس و MacOS) استفاده شود، فقط مطمئن شوید که سیستم دارای Java 1.8 یا بالاتر است،[Python](https://www.python.org/downloads/) 3.5 یا بالاتر
 
 {{% /blocks/products/pf/agp/text %}}
 

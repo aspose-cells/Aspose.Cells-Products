@@ -1,8 +1,8 @@
 ---
 title: Slå samman HTML till ETT - Kombinera HTML till ETT i C#
 url: /sv/net/merger/merge-html-to-ett/ 
-description: Aspose Excel. C# Aspose.Cells. Gratis Online Merge HTML till ETT saveformat. C# Kombinera HTML till ETT-format. Slå samman HTML till ETT i C#. HTML Slå samman.
-keywords: [Aspose Excel., C# Aspose.Cells., Merge HTML to ETT in C#., Free Online C# Merge HTML to ett., C# Combine HTML to ETT Online for Free., HTML Merge]
+description: Aspose Excel. C# Aspose.Cells. Slå samman HTML till ETT sparaformat. C# Kombinera HTML till ETT-format. Slå samman HTML till ETT i C#. HTML Slå samman.
+keywords: [Aspose Excel., C# Aspose.Cells., Merge HTML to ETT in C#., C# Merge HTML to ett., C# Combine HTML to ETT., HTML Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Slå samman HTML till ETT via C#" h2="Höghastighetsbibliotek C# för sammanslagning av HTML till ETT. Använd vår excel-konvertering API för att utveckla plattformsoberoende programvara på hög nivå i C#. Detta är en professionell mjukvarulösning för att importera och exportera Excel, CSV, OpenOffice, PDF, HTML, image och många andra Excel-format." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="HTML" additionalConversionTag="ETT" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., C# Aspose.Cells., Merge HTML to ETT in C#., Free Onlin
 
 {{% blocks/products/pf/agp/content h2="Slå samman HTML till ETT med C#" %}}
 
- Hur slår jag ihop HTML till ETT? Med Aspose.Cells for .NET bibliotek kan du enkelt slå samman HTML till ETT programmatiskt med några rader kod.[Aspose.Cells for .NET](https://products.aspose.com/cells/net)kan bygga plattformsoberoende applikationer med förmågan att generera, modifiera, konvertera, rendera och skriva ut alla Excel-filer. .NET Excel API konverterar inte bara mellan kalkylarksformat, det kan också rendera Excel-filer som bilder, PDF, HTML, ODS, ODS, CSV, 0761687481, 0761687481, vilket gör det till ett perfekt val, Pt utbyta dokument i branschstandard format. Öppen[NuGet](https://www.nuget.org/packages/aspose.cells) pakethanteraren, sök efter Aspose.Cells och installera. Du kan också använda följande kommando från Package Manager Console.
+ Hur slår jag ihop HTML till ETT? Med Aspose.Cells for .NET bibliotek kan du enkelt slå samman HTML till ETT programmatiskt med några rader kod.[Aspose.Cells for .NET](https://products.aspose.com/cells/net)kan bygga plattformsoberoende applikationer med förmågan att generera, modifiera, konvertera, rendera och skriva ut alla Excel-filer. .NET Excel API konverterar inte bara mellan kalkylarksformat, den kan också rendera Excel-filer som bilder, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT och mer, vilket gör det till ett perfekt val att utbyta dokument i industristandardformat. Öppen[NuGet](https://www.nuget.org/packages/aspose.cells) pakethanteraren, sök efter Aspose.Cells och installera. Du kan också använda följande kommando från Package Manager Console.
 
 {{% blocks/products/pf/agp/code-block title="Pakethanterarens konsolkommando" offSpacer="true" %}}
 
@@ -26,7 +26,7 @@ PM> Install-Package Aspose.Cells
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Slå samman HTML till ETT i C# Online gratis" %}}
+{{% blocks/products/pf/agp/content h2="Slå samman HTML till ETT i C#" %}}
 
 Följande exempel visar hur man slår samman HTML till ETT i Aspose.Cells for .NET.
 {{% blocks/products/pf/agp/text %}}
@@ -37,7 +37,7 @@ Följ de enkla stegen för att slå samman HTML till ETT. Ladda upp dina filer, 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Gratis online för att slå samman HTML till ETT i C#" InputFormat="html" InputFormat2="ett" outformat="ett" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="net" %}}
+{{% cells-merger title="Exempelkod för att slå samman HTML till ETT i C#" InputFormat="html" InputFormat2="ett" outformat="ett" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="net" %}}
 
 {{% blocks/products/pf/agp/content h2="Hur man slår samman HTML till ETT via C#" %}}
 

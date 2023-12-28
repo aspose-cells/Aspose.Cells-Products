@@ -2,6 +2,7 @@
 title:  Εισαγάγετε την εικόνα στο Excel via .NET
 weight: 200
 description: C# πηγαίος κώδικας για εισαγωγή εικόνας στο Excel στις πλατφόρμες .NET Framework, .NET Core, Mono ή Xamarin.
+keywords: [C# Aspose.Cells., c# add picture into Excel., c# insert picture into Excel., c# create picture in Excel]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Εισαγάγετε την εικόνα στο Excel via .NET" h2="Εισαγάγετε εικόνες χρησιμοποιώντας το Aspose.Cells\' API χωρίς λογισμικό όπως Microsoft ή Open Office, Adobe PDF κ.λπ." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="XLSX" >}}
@@ -41,7 +42,7 @@ PM> Install-Package Aspose.Cells
 
 {{% /blocks/products/pf/agp/text %}}
 
-Δημιουργία αντικειμένου βιβλίου εργασίας.(ή->Φορτώστε το αρχείο XLSX με πλήρη διαδρομή.)
++ Δημιουργία αντικειμένου βιβλίου εργασίας.(ή->Φορτώστε το αρχείο XLSX με πλήρη διαδρομή.)
 + Επιλέξτε Φύλλο εργασίας μέσω του ευρετηρίου του.
 + Υπάρχουν δύο τρόποι για να εισαγάγετε μια εικόνα στο επιλεγμένο φύλλο εργασίας.
  + Χρησιμοποιήστε τα shapecollection's[μέθοδος προσθήκης](https://reference.aspose.com/cells/net/aspose.cells.drawing/shapecollection/methods/addpicture/index) για να εισαγάγετε μια εικόνα στο επιλεγμένο φύλλο εργασίας.
@@ -79,7 +80,7 @@ PM> Install-Package Aspose.Cells
 
 {{% blocks/products/pf/agp/content h2="Σχετικά με Aspose.Cells for .NET API" %}}
 
- Aspose.Cells API μπορεί να χρησιμοποιηθεί για τη δημιουργία, επεξεργασία, μετατροπή και απόδοση μορφών Excel Microsoft σε διαφορετικές μορφές. Επιπλέον, μπορεί να χρησιμοποιηθεί για ολοκληρωμένη χαρτογράφηση, κλιμακούμενη αναφορά και αξιόπιστους υπολογισμούς εντός εφαρμογών λογισμικού. Το Aspose.Cells είναι ένα αυτόνομο API και δεν απαιτεί λογισμικό όπως το Microsoft ή το OpenOffice.
+Aspose.Cells API μπορεί να χρησιμοποιηθεί για τη δημιουργία, επεξεργασία, μετατροπή και απόδοση μορφών Excel Microsoft σε διαφορετικές μορφές. Επιπλέον, μπορεί να χρησιμοποιηθεί για ολοκληρωμένη χαρτογράφηση, κλιμακούμενη αναφορά και αξιόπιστους υπολογισμούς εντός εφαρμογών λογισμικού. Το Aspose.Cells είναι ένα αυτόνομο API και δεν απαιτεί λογισμικό όπως το Microsoft ή το OpenOffice.
 
 {{% /blocks/products/pf/agp/content %}}
 

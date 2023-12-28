@@ -1,7 +1,7 @@
 ---
-title: XLAM till XPS - Konvertera XLAM till XPS filer C++
-description: Aspose Excel. Konvertera gratis online XLAM till XPS sparaformat. C++ XLAM till XPS format. Spara XLAM som XPS i C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ XLAM to XPS saveformat., Free Online XLAM to XPS Converter]
+title: C++ XLAM till XPS - XLAM till XPS Omvandlare
+description: Aspose Excel. Konvertera XLAM till XPS snabbt och enkelt med Aspose.Cells. C++ XLAM till XPS. C++ Spara XLAM till 07611 till 07161. 07611 till 07161. 3481 med C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., Convert XLAM to XPS in C++., Save XLAM to XPS using C++., C++ XLAM to XPS saveformat., XLAM to XPS Converter., C++ Save XLAM as XPS]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Konvertera XLAM till XPS till C++" h2="Högpresterande XLAM till XPS konvertering med C++ bibliotek utan behov av Microsoft Excel, OpenOffice eller Adobe Acrobat installation." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" sourceAdditionalConversionTag="" additionalConversionTag="XPS" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., C++ Aspose.Cells., C++ XLAM to XPS saveformat., Free O
 
 {{% blocks/products/pf/agp/content h2="Konvertera XLAM till XPS med C++" %}}
 
-Hur konverterar jag XLAM till XPS? Med Aspose.Cells for C++ bibliotek kan du enkelt konvertera XLAM till XPS programmatiskt med några rader kod.[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) kan bygga plattformsoberoende applikationer med förmågan att generera, modifiera, konvertera, rendera och skriva ut alla Excel-filer. C++ Excel API konverterar inte bara mellan kalkylarksformat, det kan också rendera Excel-filer som bilder, PDF, HTML, ODS, ODS, CSV, 0761687481, 0761687481, vilket gör det till ett perfekt val, Pt utbyta dokument i branschstandard format. Du kan ladda ner den senaste versionen direkt, bara öppna[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) pakethanteraren, sök efter Aspose.Cells.Cpp och installera. Du kan också använda följande kommando från Package Manager Console.
+Hur konverterar jag XLAM till XPS? Med Aspose.Cells for C++ bibliotek kan du enkelt konvertera XLAM till XPS programmatiskt med några rader kod.[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) kan bygga plattformsoberoende applikationer med förmågan att generera, modifiera, konvertera, rendera och skriva ut alla Excel-filer. C++ Excel API konverterar inte bara mellan kalkylarksformat, den kan också rendera Excel-filer som bilder, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT och mer, vilket gör det till ett perfekt val att utbyta dokument i industristandardformat. Du kan ladda ner den senaste versionen direkt, bara öppna[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) pakethanteraren, sök efter Aspose.Cells.Cpp och installera. Du kan också använda följande kommando från Package Manager Console.
 
 {{% blocks/products/pf/agp/code-block title="Kommando" offSpacer="true" %}}
 
@@ -26,7 +26,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Spara XLAM till XPS på C++ Online gratis" %}}
+{{% blocks/products/pf/agp/content h2="Spara XLAM till XPS i C++" %}}
 
 Följande exempel visar hur man konverterar XLAM till XPS i C++.
 {{% blocks/products/pf/agp/text %}}
@@ -37,7 +37,7 @@ Följ de enkla stegen för att konvertera XLAM till XPS. Ladda upp din XLAM-fil 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Gratis app och provkod för att konvertera XLAM till XPS online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlam" outformat="xps" IsLandingPage="true" language="cpp" %}}
+{{% cells-convert title="Exempelkod för att konvertera XLAM till XPS" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlam" outformat="xps" IsLandingPage="true" language="cpp" %}}
 
 {{% blocks/products/pf/agp/content h2="Hur man konverterar XLAM till XPS via C++" %}}
 
@@ -49,7 +49,7 @@ Behöver du konvertera XLAM-filer till XPS programmatiskt? C++-utvecklare kan en
 
 1.  Installera 'Aspose.Cells for C++'.
 1.  Lägg till en biblioteksreferens (importera biblioteket) till ditt C++-projekt.
-1.  Ladda XLAM-filen med Factory::CreateIWorkbook.
+1.  Ladda XLAM-filen med arbetsbok.
 1.  Konvertera XLAM till XPS genom att anropa metoden Save().
 1.  Få konverteringsresultatet från XLAM till XPS.
 
@@ -82,6 +82,12 @@ Det finns tre alternativ för att installera "Aspose.Cells for C++" på ditt sys
 
 {{% /blocks/products/pf/agp/content %}}
 
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLAM" readMoreLink="https://docs.fileformat.com/spreadsheet/xlam/" >}}XLAM är en makroaktiverad tilläggsfil som används för att lägga till nya funktioner i kalkylblad. Ett tillägg är ett tilläggsprogram som kör ytterligare kod och ger ytterligare funktionalitet för kalkylblad. XLAM-filer lagras med tillägget .xlam. XLAM-filer är XML-baserade filer som liknar filformaten XLSM och XLSX och sparas med ZIP-komprimering för att minska den totala filstorleken.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XPS" readMoreLink="https://docs.fileformat.com/page-description-language/xps/" >}}En XPS-fil representerar sidlayoutfiler som är baserade på XML Paper Specifications skapade av Microsoft. Den utvecklades som en ersättning för filformatet EMF och liknar filformatet PDF, men använder XML i layout, utseende och utskriftsinformation för ett dokument . Det är faktiskt mer berättigat att säga att XPS är ett försök på PDF, men att det inte kunde få tillräckligt med popularitet eftersom det ägs av PDF av många anledningar. Microsoft tillhandahåller XPS Document Writer som standard från Windows 7 och framåt för att skapa XPS filer. XPS-filer kan genereras genom att välja "Microsoft XPS Document Writer" som skrivare medan du skriver ut dokumentet.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Andra omvandlingar som stöds" subTitle="Du kan också konvertera XLAM till många andra filformat, inklusive några som anges nedan." >}}
 
@@ -95,7 +101,6 @@ Det finns tre alternativ för att installera "Aspose.Cells for C++" på ditt sys
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xlam-to-pdf/" name="XLAM TILL PDF" description="Portabelt dokumentformat" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xlam-to-png/" name="XLAM TILL PNG" description="Bärbar nätverksgrafik" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xlam-to-svg/" name="XLAM TILL SVG" description="Skalbar vektorgrafik" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xlam-to-tiff/" name="XLAM TILL TIFF" description="Taggad bildformat" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xlam-to-tsv/" name="XLAM TILL TSV" description="Tab-separerade värden" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xlam-to-txt/" name="XLAM TILL TXT" description="Textdokument" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xlam-to-xls/" name="XLAM TILL XLS" description="Excel binärt format" >}}

@@ -1,7 +1,7 @@
 ---
-title: C++ JSON σε MHT - Online Μετατροπέας JSON σε MHT
-description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. Δωρεάν Online C++ Μετατροπή JSON σε μορφή αποθήκευσης MHT. C++ JSON σε μορφή MHT. Αποθηκεύστε το JSON στο MHT C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ JSON to MHT saveformat., Free Online JSON to MHT C++., C++ Convert JSON to MHT]
+title: C++ JSON σε MHT - JSON σε MHT Converter
+description: Aspose Excel. Μετατρέψτε το JSON σε MHT γρήγορα και εύκολα με το Aspose.Cells. C++ JSON σε MHT. C++ Αποθήκευση JSON στο MHT. Αποθηκεύστε το JSON ως MHT χρησιμοποιώντας το C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., Convert JSON to MHT in C++., Save JSON to MHT using C++., C++ JSON to MHT saveformat., JSON to MHT Converter., C++ Save JSON as MHT]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Μετατροπή JSON σε MHT στο C++" h2="Μετατροπή υψηλής απόδοσης JSON σε MHT με χρήση της βιβλιοθήκης C++ χωρίς την ανάγκη εγκατάστασης Microsoft Excel, OpenOffice ή Adobe Acrobat." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" sourceAdditionalConversionTag="" additionalConversionTag="MHT" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ JSON to MHT 
 
 {{% blocks/products/pf/agp/content h2="Μετατροπή JSON σε MHT χρησιμοποιώντας C++" %}}
 
- Πώς μπορώ να μετατρέψω το JSON σε MHT; Με τη βιβλιοθήκη Aspose.Cells for C++, μπορείτε εύκολα να μετατρέψετε το JSON σε MHT μέσω προγραμματισμού με λίγες γραμμές κώδικα.[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) έχει τη δυνατότητα δημιουργίας εφαρμογών πολλαπλών πλατφορμών με δυνατότητα δημιουργίας, τροποποίησης, μετατροπής, απόδοσης και εκτύπωσης όλων των αρχείων Excel. C++ Το Excel API όχι μόνο μετατρέπει μεταξύ μορφών υπολογιστικών φύλλων, αλλά μπορεί επίσης να αποδώσει αρχεία Excel ως εικόνες, PDF, HTML, ODS, CSV, 07616031481, CSV, 07616831481, δημιουργώντας περισσότερα τέλεια επιλογή για την ανταλλαγή εγγράφων σε βιομηχανικά πρότυπα μορφές. Μπορείτε να κατεβάσετε την τελευταία του έκδοση απευθείας, απλά ανοίξτε[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) διαχειριστής πακέτων, αναζητήστε Aspose.Cells.Cpp και εγκαταστήστε. Μπορείτε επίσης να χρησιμοποιήσετε την ακόλουθη εντολή από την Κονσόλα Package Manager.
+Πώς μπορώ να μετατρέψω το JSON σε MHT; Με τη βιβλιοθήκη Aspose.Cells for C++, μπορείτε εύκολα να μετατρέψετε το JSON σε MHT μέσω προγραμματισμού με λίγες γραμμές κώδικα.[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) έχει τη δυνατότητα δημιουργίας εφαρμογών πολλαπλών πλατφορμών με δυνατότητα δημιουργίας, τροποποίησης, μετατροπής, απόδοσης και εκτύπωσης όλων των αρχείων Excel. C++ Το Excel API όχι μόνο μετατρέπει μεταξύ μορφών υπολογιστικών φύλλων, αλλά μπορεί επίσης να αποδώσει αρχεία Excel ως εικόνες, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT και άλλα, καθιστώντας έτσι την τέλεια επιλογή για την ανταλλαγή εγγράφων σε βιομηχανικές τυποποιημένες μορφές. Μπορείτε να κατεβάσετε την τελευταία του έκδοση απευθείας, απλά ανοίξτε[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) διαχειριστής πακέτων, αναζητήστε Aspose.Cells.Cpp και εγκαταστήστε. Μπορείτε επίσης να χρησιμοποιήσετε την ακόλουθη εντολή από την Κονσόλα Package Manager.
 
 {{% blocks/products/pf/agp/code-block title="Εντολή" offSpacer="true" %}}
 
@@ -26,7 +26,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Αποθηκεύστε JSON στο MHT στο C++ Δωρεάν Online" %}}
+{{% blocks/products/pf/agp/content h2="Αποθηκεύστε το JSON στο MHT στο C++" %}}
 
 Το ακόλουθο παράδειγμα δείχνει πώς να μετατρέψετε το JSON σε MHT στο C++.
 {{% blocks/products/pf/agp/text %}}
@@ -37,7 +37,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Δωρεάν εφαρμογή και δείγμα κώδικα για μετατροπή JSON σε MHT Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="json" outformat="mht" IsLandingPage="true" language="cpp" %}}
+{{% cells-convert title="Δείγμα κώδικα για μετατροπή JSON σε MHT" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="json" outformat="mht" IsLandingPage="true" language="cpp" %}}
 
 {{% blocks/products/pf/agp/content h2="Πώς να μετατρέψετε το JSON σε MHT μέσω του C++" %}}
 
@@ -49,7 +49,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 1.  Εγκαταστήστε το 'Aspose.Cells for C++'.
 1.  Προσθέστε μια αναφορά βιβλιοθήκης (εισάγετε τη βιβλιοθήκη) στο έργο σας C++.
-1.  Φορτώστε το αρχείο JSON χρησιμοποιώντας το Factory::CreateIWorkbook.
+1.  Φορτώστε το αρχείο JSON χρησιμοποιώντας το Βιβλίο εργασίας.
 1.  Μετατρέψτε το JSON σε MHT καλώντας τη μέθοδο Save().
 1.  Λάβετε το αποτέλεσμα μετατροπής JSON σε MHT.
 
@@ -101,7 +101,6 @@ PM> Install-Package Aspose.Cells.Cpp
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/json-to-pdf/" name="JSON ΕΩΣ PDF" description="Μορφή φορητού εγγράφου" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/json-to-png/" name="JSON ΕΩΣ PNG" description="Φορητά γραφικά δικτύου" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/json-to-svg/" name="JSON ΕΩΣ SVG" description="Κλιμακόμενα διανυσματικά γραφικά" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/json-to-tiff/" name="JSON ΕΩΣ TIFF" description="Με ετικέτα Μορφή εικόνας" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/json-to-tsv/" name="JSON ΕΩΣ TSV" description="Τιμές διαχωρισμένες με καρτέλες" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/json-to-txt/" name="JSON ΕΩΣ TXT" description="Έγγραφο κειμένου" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/json-to-xls/" name="JSON ΕΩΣ XLS" description="Δυαδική μορφή Excel" >}}

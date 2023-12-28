@@ -1,8 +1,8 @@
 ---
 title: Συγχώνευση XLTM σε XLTM - Συνδυάστε XLTM σε XLTM στο Java
 url: /el/java/merger/merge-xltm-to-xltm/ 
-description: Aspose Excel. Java Aspose.Cells. Δωρεάν Online Συγχώνευση XLTM σε XLTM saveformat. Java Συνδυάστε τη μορφή XLTM με XLTM. Συγχώνευση XLTM σε XLTM στο Java. XLTM Συγχώνευση.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge XLTM to XLTM in Java., Free Online Java Merge XLTM to xltm., Java Combine XLTM to XLTM Online for Free., XLTM Merge]
+description: Aspose Excel. Java Aspose.Cells. Συγχώνευση XLTM σε μορφή αποθήκευσης XLTM. Java Συνδυάστε τη μορφή XLTM με XLTM. Συγχώνευση XLTM σε XLTM στο Java. XLTM Συγχώνευση.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge XLTM to XLTM in Java., Java Merge XLTM to xltm., Java Combine XLTM to XLTM., XLTM Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Συγχώνευση XLTM σε XLTM via Java" h2="Βιβλιοθήκη υψηλής ταχύτητας Java για συγχώνευση XLTM με XLTM. Χρησιμοποιήστε τη μετατροπή excel API για να αναπτύξετε λογισμικό υψηλού επιπέδου, ανεξάρτητο από την πλατφόρμα στο Java. Αυτή είναι μια επαγγελματική λύση λογισμικού για εισαγωγή και εξαγωγή 5 άλλων μορφών excel 076, πολλών και πολλών μορφών excel." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="XLTM" additionalConversionTag="XLTM" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Merge XLTM to XLTM in Java., Free 
 
 {{% blocks/products/pf/agp/content h2="Συγχώνευση XLTM σε XLTM χρησιμοποιώντας Java" %}}
 
- Πώς μπορώ να συγχωνεύσω το XLTM με το XLTM; Με τη βιβλιοθήκη Aspose.Cells for Java, μπορείτε εύκολα να συγχωνεύσετε το XLTM με το XLTM μέσω προγραμματισμού με λίγες γραμμές κώδικα.[Aspose.Cells for Java](https://products.aspose.com/cells/java) έχει τη δυνατότητα δημιουργίας εφαρμογών πολλαπλών πλατφορμών με δυνατότητα δημιουργίας, τροποποίησης, μετατροπής, απόδοσης και εκτύπωσης όλων των αρχείων Excel. Java Το Excel API όχι μόνο μετατρέπει μεταξύ μορφών υπολογιστικών φύλλων, αλλά μπορεί επίσης να αποδώσει αρχεία Excel ως εικόνες, PDF, HTML, ODS, CSV, 07616031481, CSV, 07616831481, δημιουργώντας περισσότερα τέλεια επιλογή για την ανταλλαγή εγγράφων σε βιομηχανικά πρότυπα μορφές. Μπορείτε να κατεβάσετε την τελευταία του έκδοση απευθείας από[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) και εγκαταστήστε το στο έργο σας που βασίζεται στο Maven προσθέτοντας τις ακόλουθες διαμορφώσεις στο pom.xml.
+ Πώς μπορώ να συγχωνεύσω το XLTM με το XLTM; Με τη βιβλιοθήκη Aspose.Cells for Java, μπορείτε εύκολα να συγχωνεύσετε το XLTM με το XLTM μέσω προγραμματισμού με λίγες γραμμές κώδικα.[Aspose.Cells for Java](https://products.aspose.com/cells/java)έχει τη δυνατότητα δημιουργίας εφαρμογών πολλαπλών πλατφορμών με δυνατότητα δημιουργίας, τροποποίησης, μετατροπής, απόδοσης και εκτύπωσης όλων των αρχείων Excel. Java Το Excel API όχι μόνο μετατρέπει μεταξύ μορφών υπολογιστικών φύλλων, αλλά μπορεί επίσης να αποδώσει αρχεία Excel ως εικόνες, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT και άλλα, καθιστώντας έτσι την τέλεια επιλογή για την ανταλλαγή εγγράφων σε βιομηχανικές τυποποιημένες μορφές. Μπορείτε να κατεβάσετε την τελευταία του έκδοση απευθείας από[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) και εγκαταστήστε το στο έργο σας που βασίζεται στο Maven προσθέτοντας τις ακόλουθες διαμορφώσεις στο pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Αποθήκη" offSpacer="true" %}}
 
@@ -45,7 +45,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Merge XLTM to XLTM in Java., Free 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Συγχώνευση XLTM στο XLTM στο Java Δωρεάν Online" %}}
+{{% blocks/products/pf/agp/content h2="Συγχώνευση XLTM με XLTM στο Java" %}}
 
 Το ακόλουθο παράδειγμα δείχνει πώς να συγχωνεύσετε το XLTM με το XLTM στο Aspose.Cells for Java.
 {{% blocks/products/pf/agp/text %}}
@@ -56,7 +56,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Merge XLTM to XLTM in Java., Free 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Δωρεάν online για συγχώνευση XLTM με XLTM στο Java" InputFormat="xltm" InputFormat2="xltm" outformat="xltm" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="java" %}}
+{{% cells-merger title="Δείγμα κωδικού για συγχώνευση XLTM έως XLTM στο Java" InputFormat="xltm" InputFormat2="xltm" outformat="xltm" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="Τρόπος συγχώνευσης XLTM σε XLTM via Java" %}}
 

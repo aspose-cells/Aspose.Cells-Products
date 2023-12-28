@@ -1,6 +1,7 @@
 ---
 title: Infoga former i Excel via JAVA
-description:  C# källkoder som hur man infogar en form i Microsoft Excel-filer med hjälp av JAVA Library.
+description:  Java källkoder som hur man infogar en form i Microsoft Excel-filer med hjälp av JAVA Library.
+keywords: [Java Aspose.Cells., Java add shapes., Java insert shapes., Java create shapes]
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
 {{< blocks/products/pf/i18n/feature-page-header h1="Microsoft<sup>&reg;</sup> Infogning av Excel-former via JAVA" h2="Skapa Excel-dokument och infoga former med hjälp av API:er på serversidan i JAVA-baserade applikationer." >}}
@@ -12,9 +13,9 @@ description:  C# källkoder som hur man infogar en form i Microsoft Excel-filer 
 
 {{% blocks/products/pf/feature-page-section h2="Infoga former i Excel-fil" %}}
 
- Att infoga former med dessa API:er är enkelt. Processen är, Skapa[Arbetsbok klass](https://reference.aspose.com/cells/java/com.aspose.cells/workbook/) objekt och välj det första kalkylbladet eller det relevanta bladet genom att tillhandahålla dess index. Lägg till en form i kalkylbladet med hjälp av[formsamling](https://reference.aspose.com/cells/java/com.aspose.cells/shapecollection/)s Lägg till metod.
+ Att infoga former med dessa API:er är enkelt. Processen är, Skapa[Arbetsbok klass](https://reference.aspose.com/cells/java/com.aspose.cells/workbook/)objekt och välj det första kalkylbladet eller det relevanta bladet genom att tillhandahålla dess index. Lägg till en form i kalkylbladet med hjälp av[formsamling](https://reference.aspose.com/cells/java/com.aspose.cells/shapecollection/)s Lägg till metod.
 
-{{% blocks/products/pf/feature-page-code h3="C# Kod för att infoga form i Excel" %}}
+{{% blocks/products/pf/feature-page-code h3="Java Kod för att infoga form i Excel" %}}
 
 {{< gist "aspose-cells-gists" "5876dc77e47649b66bdb5deefb4b5639" "InsertShape.java" >}}
 

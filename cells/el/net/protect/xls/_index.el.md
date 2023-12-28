@@ -1,7 +1,8 @@
 ---
-title: Προστατέψτε και κλειδώστε το έγγραφο XLS via .NET
+title:  Προστατέψτε και κλειδώστε το έγγραφο XLS via .NET
 weight: 7010
 description: C# πηγαίος κώδικας για κλείδωμα του αρχείου XLS με χρήση κωδικού πρόσβασης στο .NET Framework, .NET Core, Mono ή Xamarin Platforms.
+keywords: [C# Aspose.Cells., c# Lock XLS files., c# How to Protect and lock XLS document., c# Protect XLS files., Encrypt XLS Files using C#]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Κρυπτογράφηση XLS Αρχείων μέσω C#" h2="Προστατέψτε με κωδικό πρόσβασης υπολογιστικά φύλλα Excel, συμπεριλαμβανομένης της μορφής XLS, χρησιμοποιώντας τη Βιβλιοθήκη .NET." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLS" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLS" >}}

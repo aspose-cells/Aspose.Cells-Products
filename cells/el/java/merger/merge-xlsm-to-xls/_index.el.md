@@ -1,8 +1,8 @@
 ---
 title: Συγχώνευση XLSM σε XLS - Συνδυάστε XLSM σε XLS στο Java
 url: /el/java/merger/merge-xlsm-to-xls/ 
-description: Aspose Excel. Java Aspose.Cells. Δωρεάν Online Συγχώνευση XLSM σε XLS saveformat. Java Συνδυάστε τη μορφή XLSM με XLS. Συγχώνευση XLSM σε XLS στο Java. XLSM Συγχώνευση.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge XLSM to XLS in Java., Free Online Java Merge XLSM to xls., Java Combine XLSM to XLS Online for Free., XLSM Merge]
+description: Aspose Excel. Java Aspose.Cells. Συγχώνευση XLSM σε μορφή αποθήκευσης XLS. Java Συνδυάστε τη μορφή XLSM με XLS. Συγχώνευση XLSM σε XLS στο Java. XLSM Συγχώνευση.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge XLSM to XLS in Java., Java Merge XLSM to xls., Java Combine XLSM to XLS., XLSM Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Συγχώνευση XLSM σε XLS via Java" h2="Βιβλιοθήκη υψηλής ταχύτητας Java για συγχώνευση XLSM με XLS. Χρησιμοποιήστε τη μετατροπή excel API για να αναπτύξετε λογισμικό υψηλού επιπέδου, ανεξάρτητο από την πλατφόρμα στο Java. Αυτή είναι μια επαγγελματική λύση λογισμικού για εισαγωγή και εξαγωγή 5 άλλων μορφών excel 076, πολλών και πολλών μορφών excel." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="XLSM" additionalConversionTag="XLS" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Merge XLSM to XLS in Java., Free O
 
 {{% blocks/products/pf/agp/content h2="Συγχώνευση XLSM σε XLS χρησιμοποιώντας Java" %}}
 
- Πώς μπορώ να συγχωνεύσω το XLSM με το XLS; Με τη βιβλιοθήκη Aspose.Cells for Java, μπορείτε εύκολα να συγχωνεύσετε το XLSM με το XLS μέσω προγραμματισμού με λίγες γραμμές κώδικα.[Aspose.Cells for Java](https://products.aspose.com/cells/java) έχει τη δυνατότητα δημιουργίας εφαρμογών πολλαπλών πλατφορμών με δυνατότητα δημιουργίας, τροποποίησης, μετατροπής, απόδοσης και εκτύπωσης όλων των αρχείων Excel. Java Το Excel API όχι μόνο μετατρέπει μεταξύ μορφών υπολογιστικών φύλλων, αλλά μπορεί επίσης να αποδώσει αρχεία Excel ως εικόνες, PDF, HTML, ODS, CSV, 07616031481, CSV, 07616831481, δημιουργώντας περισσότερα τέλεια επιλογή για την ανταλλαγή εγγράφων σε βιομηχανικά πρότυπα μορφές. Μπορείτε να κατεβάσετε την τελευταία του έκδοση απευθείας από[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) και εγκαταστήστε το στο έργο σας που βασίζεται στο Maven προσθέτοντας τις ακόλουθες διαμορφώσεις στο pom.xml.
+ Πώς μπορώ να συγχωνεύσω το XLSM με το XLS; Με τη βιβλιοθήκη Aspose.Cells for Java, μπορείτε εύκολα να συγχωνεύσετε το XLSM με το XLS μέσω προγραμματισμού με λίγες γραμμές κώδικα.[Aspose.Cells for Java](https://products.aspose.com/cells/java)έχει τη δυνατότητα δημιουργίας εφαρμογών πολλαπλών πλατφορμών με δυνατότητα δημιουργίας, τροποποίησης, μετατροπής, απόδοσης και εκτύπωσης όλων των αρχείων Excel. Java Το Excel API όχι μόνο μετατρέπει μεταξύ μορφών υπολογιστικών φύλλων, αλλά μπορεί επίσης να αποδώσει αρχεία Excel ως εικόνες, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT και άλλα, καθιστώντας έτσι την τέλεια επιλογή για την ανταλλαγή εγγράφων σε βιομηχανικές τυποποιημένες μορφές. Μπορείτε να κατεβάσετε την τελευταία του έκδοση απευθείας από[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) και εγκαταστήστε το στο έργο σας που βασίζεται στο Maven προσθέτοντας τις ακόλουθες διαμορφώσεις στο pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Αποθήκη" offSpacer="true" %}}
 
@@ -45,7 +45,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Merge XLSM to XLS in Java., Free O
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Συγχώνευση XLSM στο XLS στο Java Δωρεάν Online" %}}
+{{% blocks/products/pf/agp/content h2="Συγχώνευση XLSM με XLS στο Java" %}}
 
 Το ακόλουθο παράδειγμα δείχνει πώς να συγχωνεύσετε το XLSM με το XLS στο Aspose.Cells for Java.
 {{% blocks/products/pf/agp/text %}}
@@ -56,7 +56,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Merge XLSM to XLS in Java., Free O
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Δωρεάν online για συγχώνευση XLSM με XLS στο Java" InputFormat="xlsm" InputFormat2="xls" outformat="xls" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="java" %}}
+{{% cells-merger title="Δείγμα κωδικού για συγχώνευση XLSM έως XLS στο Java" InputFormat="xlsm" InputFormat2="xls" outformat="xls" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="Τρόπος συγχώνευσης XLSM σε XLS via Java" %}}
 

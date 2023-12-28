@@ -1,8 +1,8 @@
 ---
 title: Slå samman NUMBERS till XLAM - Kombinera NUMBERS till XLAM i C++
 url: /sv/cpp/merger/merge-numbers-to-xlam/ 
-description: Aspose Excel. C++ Aspose.Cells. Gratis Online Merge NUMBERS till XLAM saveformat. C++ Kombinera NUMBERS till XLAM format. Slå samman NUMBERS till XLAM i C++. NUMBERS Slå samman.
-keywords: [Aspose Excel., C++ Aspose.Cells., Merge NUMBERS to XLAM in C++., Free Online C++ Merge NUMBERS to xlam., C++ Combine NUMBERS to XLAM Online for Free., NUMBERS Merge]
+description: Aspose Excel. C++ Aspose.Cells. Slå samman NUMBERS till XLAM sparaformat. C++ Kombinera NUMBERS till XLAM format. Slå samman NUMBERS till XLAM i C++. NUMBERS Slå samman.
+keywords: [Aspose Excel., C++ Aspose.Cells., Merge NUMBERS to XLAM in C++., C++ Merge NUMBERS to xlam., C++ Combine NUMBERS to XLAM., NUMBERS Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Slå samman NUMBERS till XLAM via C++" h2="Höghastighetsbibliotek C++ för sammanslagning av NUMBERS till XLAM. Använd vår excel-konvertering API för att utveckla plattformsoberoende programvara på hög nivå i C++. Detta är en professionell mjukvarulösning för att importera och exportera Excel, CSV, OpenOffice, PDF, HTML, image-format och många andra excel-format." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" sourceAdditionalConversionTag="NUMBERS" additionalConversionTag="XLAM" pfName="Aspose.Cells" subTitlepfName="for C++" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., C++ Aspose.Cells., Merge NUMBERS to XLAM in C++., Free
 
 {{% blocks/products/pf/agp/content h2="Slå samman NUMBERS till XLAM med C++" %}}
 
- Hur slår jag samman NUMBERS till XLAM? Med Aspose.Cells for C++ bibliotek kan du enkelt slå samman NUMBERS till XLAM programmatiskt med några rader kod.[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) kan bygga plattformsoberoende applikationer med förmågan att generera, modifiera, konvertera, rendera och skriva ut alla Excel-filer. C++ Excel API konverterar inte bara mellan kalkylarksformat, det kan också rendera Excel-filer som bilder, PDF, HTML, ODS, ODS, CSV, 0761687481, 0761687481, vilket gör det till ett perfekt val, Pt utbyta dokument i branschstandard format. Du kan ladda ner den senaste versionen direkt, bara öppna[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) pakethanteraren, sök efter Aspose.Cells.Cpp och installera. Du kan också använda följande kommando från Package Manager Console.
+ Hur slår jag samman NUMBERS till XLAM? Med Aspose.Cells for C++ bibliotek kan du enkelt slå samman NUMBERS till XLAM programmatiskt med några rader kod.[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) kan bygga plattformsoberoende applikationer med förmågan att generera, modifiera, konvertera, rendera och skriva ut alla Excel-filer. C++ Excel API konverterar inte bara mellan kalkylarksformat, den kan också rendera Excel-filer som bilder, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT och mer, vilket gör det till ett perfekt val att utbyta dokument i industristandardformat. Du kan ladda ner den senaste versionen direkt, bara öppna[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) pakethanteraren, sök efter Aspose.Cells.Cpp och installera. Du kan också använda följande kommando från Package Manager Console.
 
 {{% blocks/products/pf/agp/code-block title="Kommando" offSpacer="true" %}}
 
@@ -26,7 +26,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Slå samman NUMBERS till XLAM i C++ Online gratis" %}}
+{{% blocks/products/pf/agp/content h2="Slå samman NUMBERS till XLAM i C++" %}}
 
 Följande exempel visar hur man slår samman NUMBERS till XLAM i Aspose.Cells for C++.
 {{% blocks/products/pf/agp/text %}}
@@ -37,7 +37,7 @@ Följ de enkla stegen för att slå samman NUMBERS till XLAM. Ladda upp dina fil
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Gratis online för att slå samman NUMBERS till XLAM i C++" InputFormat="numbers" InputFormat2="xlam" outformat="xlam" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="cpp" %}}
+{{% cells-merger title="Exempelkod för att slå samman NUMBERS till XLAM i C++" InputFormat="numbers" InputFormat2="xlam" outformat="xlam" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="cpp" %}}
 
 {{% blocks/products/pf/agp/content h2="Hur man slår samman NUMBERS till XLAM via C++" %}}
 
@@ -88,7 +88,7 @@ Våra API:er stöds på alla större plattformar och operativsystem. Innan du k�
 
 <!-- aboutfile Starts -->
     {{< blocks/products/pf/agp/about-file-section >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="NUMBERS" readMoreLink="https://docs.fileformat.com/spreadsheet/numbers/" >}}Filerna med tillägget .numbers klassificeras som kalkylbladsfiltyp, det är därför de liknar .xlsx-filerna; men Numbers-filerna skapas med hjälp av Apple iWork Numbers kalkylprogram. Apple iWork Numbers är en enhetsprogramvara för iWork Productivity Suite. iWork Productivity Suite motsvarar Microsoft Office Suite som används på Windows-datorer. Därför kan vi säga att Numbers som är tillgänglig för MacOS också är en konkurrent till Microsoft Excel. På samma sätt, Microsoft Excel, NUMBERS-filen kan också innehålla tabeller, diagram och formler.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="NUMBERS" readMoreLink="https://docs.fileformat.com/spreadsheet/numbers/" >}} Filerna med tillägget .numbers klassificeras som kalkylbladsfiltyp, det är därför de liknar .xlsx-filerna; men Numbers-filerna skapas med hjälp av Apple iWork Numbers kalkylprogram. Apple iWork Numbers är en enhetsprogramvara för iWork Productivity Suite. iWork Productivity Suite motsvarar Microsoft Office Suite som används på Windows-datorer. Därför kan vi säga att Numbers som är tillgänglig för MacOS också är en konkurrent till Microsoft Excel. På samma sätt, Microsoft Excel, NUMBERS-filen kan också innehålla tabeller, diagram och formler.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLAM" readMoreLink="https://docs.fileformat.com/spreadsheet/xlam/" >}}XLAM är en makroaktiverad tilläggsfil som används för att lägga till nya funktioner i kalkylblad. Ett tillägg är ett tilläggsprogram som kör ytterligare kod och ger ytterligare funktionalitet för kalkylblad. XLAM-filer lagras med tillägget .xlam. XLAM-filer är XML-baserade filer som liknar filformaten XLSM och XLSX och sparas med ZIP-komprimering för att minska den totala filstorleken.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
     {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->
@@ -107,7 +107,6 @@ Våra API:er stöds på alla större plattformar och operativsystem. Innan du k�
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-numbers-to-pdf/" name="Slå samman NUMBERS till PDF" description="Portabelt dokumentformat" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-numbers-to-png/" name="Slå samman NUMBERS till PNG" description="Bärbar nätverksgrafik" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-numbers-to-svg/" name="Slå samman NUMBERS till SVG" description="Skalbar vektorgrafik" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-numbers-to-tiff/" name="Slå samman NUMBERS till TIFF" description="Taggad bildformat" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-numbers-to-tsv/" name="Slå samman NUMBERS till TSV" description="Tab-separerade värden" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-numbers-to-txt/" name="Slå samman NUMBERS till TXT" description="Textdokument" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-numbers-to-xls/" name="Slå samman NUMBERS till XLS" description="Excel binärt format" >}}

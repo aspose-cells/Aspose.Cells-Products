@@ -1,8 +1,8 @@
 ---
 title: Συγχώνευση HTM στο TXT - Συνδυάστε το HTM στο TXT στο C++
 url: /el/cpp/merger/merge-htm-to-txt/ 
-description: Aspose Excel. C++ Aspose.Cells. Δωρεάν Online Συγχώνευση HTM σε TXT saveformat. C++ Συνδυάστε τη μορφή HTM σε TXT. Συγχώνευση HTM στο TXT στο C++. Συγχώνευση HTM.
-keywords: [Aspose Excel., C++ Aspose.Cells., Merge HTM to TXT in C++., Free Online C++ Merge HTM to txt., C++ Combine HTM to TXT Online for Free., HTM Merge]
+description: Aspose Excel. C++ Aspose.Cells. Συγχώνευση HTM σε TXT saveformat. C++ Συνδυάστε τη μορφή HTM σε TXT. Συγχώνευση HTM στο TXT στο C++. Συγχώνευση HTM.
+keywords: [Aspose Excel., C++ Aspose.Cells., Merge HTM to TXT in C++., C++ Merge HTM to txt., C++ Combine HTM to TXT., HTM Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Συγχωνεύστε το HTM στο TXT μέσω του C++" h2="Βιβλιοθήκη υψηλής ταχύτητας C++ για συγχώνευση HTM με TXT. Χρησιμοποιήστε τη μετατροπή excel API για να αναπτύξετε λογισμικό υψηλού επιπέδου, ανεξάρτητο από πλατφόρμα στο C++. Αυτή είναι μια επαγγελματική λύση λογισμικού για εισαγωγή και εξαγωγή Excel, CSV, OpenOffice, PDF, HTML, image μορφών excel και πολλών άλλων μορφών excel." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" sourceAdditionalConversionTag="HTM" additionalConversionTag="TXT" pfName="Aspose.Cells" subTitlepfName="for C++" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., C++ Aspose.Cells., Merge HTM to TXT in C++., Free Onli
 
 {{% blocks/products/pf/agp/content h2="Συγχωνεύστε το HTM στο TXT χρησιμοποιώντας το C++" %}}
 
- Πώς μπορώ να συγχωνεύσω το HTM στο TXT; Με τη βιβλιοθήκη Aspose.Cells for C++, μπορείτε εύκολα να συγχωνεύσετε το HTM στο TXT μέσω προγραμματισμού με λίγες γραμμές κώδικα.[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) έχει τη δυνατότητα δημιουργίας εφαρμογών πολλαπλών πλατφορμών με δυνατότητα δημιουργίας, τροποποίησης, μετατροπής, απόδοσης και εκτύπωσης όλων των αρχείων Excel. C++ Το Excel API όχι μόνο μετατρέπει μεταξύ μορφών υπολογιστικών φύλλων, αλλά μπορεί επίσης να αποδώσει αρχεία Excel ως εικόνες, PDF, HTML, ODS, CSV, 07616031481, CSV, 07616831481, δημιουργώντας περισσότερα τέλεια επιλογή για την ανταλλαγή εγγράφων σε βιομηχανικά πρότυπα μορφές. Μπορείτε να κατεβάσετε την τελευταία του έκδοση απευθείας, απλά ανοίξτε[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) διαχειριστής πακέτων, αναζητήστε Aspose.Cells.Cpp και εγκαταστήστε. Μπορείτε επίσης να χρησιμοποιήσετε την ακόλουθη εντολή από την Κονσόλα Package Manager.
+ Πώς μπορώ να συγχωνεύσω το HTM στο TXT; Με τη βιβλιοθήκη Aspose.Cells for C++, μπορείτε εύκολα να συγχωνεύσετε το HTM στο TXT μέσω προγραμματισμού με λίγες γραμμές κώδικα.[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) έχει τη δυνατότητα δημιουργίας εφαρμογών πολλαπλών πλατφορμών με δυνατότητα δημιουργίας, τροποποίησης, μετατροπής, απόδοσης και εκτύπωσης όλων των αρχείων Excel. C++ Το Excel API όχι μόνο μετατρέπει μεταξύ μορφών υπολογιστικών φύλλων, αλλά μπορεί επίσης να αποδώσει αρχεία Excel ως εικόνες, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT και άλλα, καθιστώντας έτσι την τέλεια επιλογή για την ανταλλαγή εγγράφων σε βιομηχανικές τυποποιημένες μορφές. Μπορείτε να κατεβάσετε την τελευταία του έκδοση απευθείας, απλά ανοίξτε[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) διαχειριστής πακέτων, αναζητήστε Aspose.Cells.Cpp και εγκαταστήστε. Μπορείτε επίσης να χρησιμοποιήσετε την ακόλουθη εντολή από την Κονσόλα Package Manager.
 
 {{% blocks/products/pf/agp/code-block title="Εντολή" offSpacer="true" %}}
 
@@ -26,7 +26,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Συγχώνευση HTM στο TXT στο C++ Δωρεάν Online" %}}
+{{% blocks/products/pf/agp/content h2="Συγχωνεύστε το HTM στο TXT στο C++" %}}
 
 Το ακόλουθο παράδειγμα δείχνει πώς να συγχωνεύσετε το HTM στο TXT στο Aspose.Cells for C++.
 {{% blocks/products/pf/agp/text %}}
@@ -37,7 +37,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Δωρεάν online για συγχώνευση HTM στο TXT στο C++" InputFormat="htm" InputFormat2="txt" outformat="txt" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="cpp" %}}
+{{% cells-merger title="Δείγμα κώδικα για συγχώνευση HTM στο TXT στο C++" InputFormat="htm" InputFormat2="txt" outformat="txt" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="cpp" %}}
 
 {{% blocks/products/pf/agp/content h2="Πώς να συγχωνεύσετε το HTM στο TXT μέσω του C++" %}}
 
@@ -107,7 +107,6 @@ PM> Install-Package Aspose.Cells.Cpp
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-htm-to-pdf/" name="Συγχωνεύστε το HTM στο PDF" description="Μορφή φορητού εγγράφου" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-htm-to-png/" name="Συγχωνεύστε το HTM στο PNG" description="Φορητά γραφικά δικτύου" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-htm-to-svg/" name="Συγχωνεύστε το HTM στο SVG" description="Κλιμακόμενα διανυσματικά γραφικά" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-htm-to-tiff/" name="Συγχωνεύστε το HTM στο TIFF" description="Με ετικέτα Μορφή εικόνας" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-htm-to-tsv/" name="Συγχωνεύστε το HTM στο TSV" description="Τιμές διαχωρισμένες με καρτέλες" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-htm-to-txt/" name="Συγχωνεύστε το HTM στο TXT" description="Έγγραφο κειμένου" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-htm-to-xls/" name="Συγχωνεύστε το HTM στο XLS" description="Δυαδική μορφή Excel" >}}

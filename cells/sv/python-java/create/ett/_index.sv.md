@@ -1,7 +1,7 @@
 ---
 title: Skapa ETT - Skapa ETT-fil i Python
-description: Aspose Excel. Python Skapa ETT-fil. Skapa ETT Python. Python ETT Skapare. Skapa ETT i Python. Skapa ETT-fil med Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Create ETT Python., Python ETT Creater., Create ETT file in Python., Generate ETT file in Python]
+description: Aspose Excel. Python Skapa ETT-fil snabbt och enkelt med Aspose.Cells. Skapa ETT-fil med Python. Skapa ETT i Python. Python ETT Creater.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Create ETT file., Generate ETT file in Python., Create ETT file using Python., Write data to ETT file via Python., Create a ETT file in Python., Python Generate a ETT file., Python ETT Creater]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Skapa ETT-fil i Python" h2="Höghastighets Python-bibliotek för att skapa ETT-fil. Detta är en professionell mjukvarulösning för att importera och exportera XLSX, PDF och många andra format med Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="ETT" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -11,7 +11,7 @@ keywords: [Aspose Excel., Python Aspose.Cells., Create ETT Python., Python ETT C
 
 {{% blocks/products/pf/agp/content h2="Skapa ETT-fil med Python" %}}
 
- Hur skapar man ETT-fil? Med Aspose.Cells for Python via Java bibliotek kan du enkelt skapa ETT-fil programmatiskt med några rader kod.[Aspose.Cells for Python](https://pypi.org/project/aspose-cells)kan bygga plattformsoberoende applikationer med förmågan att generera, modifiera, konvertera, rendera och skriva ut alla Excel-filer. Python Excel API konverterar inte bara mellan kalkylarksformat, det kan också rendera Excel-filer som bilder, PDF, HTML, ODS, ODS, CSV, 0761687481, 0761687481, vilket gör det till ett perfekt val, Pt utbyta dokument i branschstandard format.
+ Hur skapar man ETT-fil? Med Aspose.Cells for Python via Java bibliotek kan du enkelt skapa ETT-fil programmatiskt med några rader kod.[Aspose.Cells for Python](https://pypi.org/project/aspose-cells)kan bygga plattformsoberoende applikationer med förmågan att generera, modifiera, konvertera, rendera och skriva ut alla Excel-filer. Python Excel API konverterar inte bara mellan kalkylarksformat, den kan också rendera Excel-filer som bilder, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT och mer, vilket gör det till ett perfekt val att utbyta dokument i industristandardformat.
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -80,7 +80,7 @@ Det finns tre alternativ för att installera "Aspose.Cells for Python via Java" 
 
 {{% blocks/products/pf/agp/text %}}
 
-Aspose.Cells for Python via Java är plattformsoberoende API och kan användas på vilken plattform som helst (Windows, Linux och MacOS), se bara till att systemet har Java 1.8 eller högre,[Python](https://www.python.org/downloads/) 3,5 eller högre.
+ Aspose.Cells for Python via Java är plattformsoberoende API och kan användas på vilken plattform som helst (Windows, Linux och MacOS), se bara till att systemet har Java 1.8 eller högre,[Python](https://www.python.org/downloads/) 3,5 eller högre.
 
 {{% /blocks/products/pf/agp/text %}}
 

@@ -1,7 +1,7 @@
 ---
-title: C++ IMAGE σε FODS - Online Μετατροπέας IMAGE σε FODS
-description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. Δωρεάν Online C++ Μετατροπή IMAGE σε FODS saveformat. Μορφή C++ IMAGE έως FODS. Αποθηκεύστε την ΕΙΚΟΝΑ στο FODS C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ IMAGE to FODS saveformat., Free Online IMAGE to FODS C++., C++ Convert IMAGE to FODS]
+title: C++ IMAGE σε FODS - IMAGE to FODS Converter
+description: Aspose Excel. Μετατρέψτε το IMAGE σε FODS γρήγορα και εύκολα με το Aspose.Cells. C++ IMAGE σε FODS. C++ Αποθήκευση ΕΙΚΟΝΑΣ σε FODS. Αποθηκεύστε το IMAGE ως 08183473.
+keywords: [Aspose Excel., C++ Aspose.Cells., Convert IMAGE to FODS in C++., Save IMAGE to FODS using C++., C++ IMAGE to FODS saveformat., IMAGE to FODS Converter., C++ Save IMAGE as FODS]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Μετατροπή IMAGE σε FODS στο C++" h2="Μετατροπή IMAGE σε FODS υψηλής απόδοσης με χρήση της βιβλιοθήκης C++ χωρίς την ανάγκη εγκατάστασης Microsoft Excel, OpenOffice ή Adobe Acrobat." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" sourceAdditionalConversionTag="" additionalConversionTag="FODS" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ IMAGE to FOD
 
 {{% blocks/products/pf/agp/content h2="Μετατροπή IMAGE σε FODS χρησιμοποιώντας C++" %}}
 
- Πώς μπορώ να μετατρέψω το IMAGE σε FODS; Με τη βιβλιοθήκη Aspose.Cells for C++, μπορείτε εύκολα να μετατρέψετε το IMAGE σε FODS μέσω προγραμματισμού με λίγες γραμμές κώδικα.[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) έχει τη δυνατότητα δημιουργίας εφαρμογών πολλαπλών πλατφορμών με δυνατότητα δημιουργίας, τροποποίησης, μετατροπής, απόδοσης και εκτύπωσης όλων των αρχείων Excel. C++ Το Excel API όχι μόνο μετατρέπει μεταξύ μορφών υπολογιστικών φύλλων, αλλά μπορεί επίσης να αποδώσει αρχεία Excel ως εικόνες, PDF, HTML, ODS, CSV, 07616031481, CSV, 07616831481, δημιουργώντας περισσότερα τέλεια επιλογή για την ανταλλαγή εγγράφων σε βιομηχανικά πρότυπα μορφές. Μπορείτε να κατεβάσετε την τελευταία του έκδοση απευθείας, απλά ανοίξτε[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) διαχειριστής πακέτων, αναζητήστε Aspose.Cells.Cpp και εγκαταστήστε. Μπορείτε επίσης να χρησιμοποιήσετε την ακόλουθη εντολή από την Κονσόλα Package Manager.
+ Πώς μπορώ να μετατρέψω το IMAGE σε FODS; Με τη βιβλιοθήκη Aspose.Cells for C++, μπορείτε εύκολα να μετατρέψετε το IMAGE σε FODS μέσω προγραμματισμού με λίγες γραμμές κώδικα.[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) έχει τη δυνατότητα δημιουργίας εφαρμογών πολλαπλών πλατφορμών με δυνατότητα δημιουργίας, τροποποίησης, μετατροπής, απόδοσης και εκτύπωσης όλων των αρχείων Excel. C++ Το Excel API όχι μόνο μετατρέπει μεταξύ μορφών υπολογιστικών φύλλων, αλλά μπορεί επίσης να αποδώσει αρχεία Excel ως εικόνες, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT και άλλα, καθιστώντας έτσι την τέλεια επιλογή για την ανταλλαγή εγγράφων σε βιομηχανικές τυποποιημένες μορφές. Μπορείτε να κατεβάσετε την τελευταία του έκδοση απευθείας, απλά ανοίξτε[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) διαχειριστής πακέτων, αναζητήστε Aspose.Cells.Cpp και εγκαταστήστε. Μπορείτε επίσης να χρησιμοποιήσετε την ακόλουθη εντολή από την Κονσόλα Package Manager.
 
 {{% blocks/products/pf/agp/code-block title="Εντολή" offSpacer="true" %}}
 
@@ -26,7 +26,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Αποθήκευση IMAGE στο FODS στο C++ Δωρεάν Online" %}}
+{{% blocks/products/pf/agp/content h2="Αποθηκεύστε το IMAGE στο FODS στο C++" %}}
 
 Το ακόλουθο παράδειγμα δείχνει πώς να μετατρέψετε το IMAGE σε FODS στο C++.
 {{% blocks/products/pf/agp/text %}}
@@ -37,7 +37,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Δωρεάν εφαρμογή και δείγμα κώδικα για μετατροπή IMAGE σε FODS Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="png" outformat="fods" IsLandingPage="true" language="cpp" %}}
+{{% cells-convert title="Δείγμα κώδικα για μετατροπή IMAGE σε FODS" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="png" outformat="fods" IsLandingPage="true" language="cpp" %}}
 
 {{% blocks/products/pf/agp/content h2="Πώς να μετατρέψετε IMAGE σε FODS μέσω C++" %}}
 
@@ -49,7 +49,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 1.  Εγκαταστήστε το 'Aspose.Cells for C++'.
 1.  Προσθέστε μια αναφορά βιβλιοθήκης (εισάγετε τη βιβλιοθήκη) στο έργο σας C++.
-1.  Φορτώστε το αρχείο IMAGE χρησιμοποιώντας το Factory::CreateIWorkbook.
+1.  Φορτώστε το αρχείο IMAGE χρησιμοποιώντας το Βιβλίο εργασίας.
 1.  Μετατρέψτε το IMAGE σε FODS καλώντας τη μέθοδο Save().
 1.  Λάβετε το αποτέλεσμα μετατροπής του IMAGE σε FODS.
 
@@ -101,7 +101,6 @@ PM> Install-Package Aspose.Cells.Cpp
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/image-to-pdf/" name="ΕΙΚΟΝΑ ΣΤΟ PDF" description="Μορφή φορητού εγγράφου" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/image-to-png/" name="ΕΙΚΟΝΑ ΣΤΟ PNG" description="Φορητά γραφικά δικτύου" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/image-to-svg/" name="ΕΙΚΟΝΑ ΣΤΟ SVG" description="Κλιμακόμενα διανυσματικά γραφικά" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/image-to-tiff/" name="ΕΙΚΟΝΑ ΣΤΟ TIFF" description="Με ετικέτα Μορφή εικόνας" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/image-to-tsv/" name="ΕΙΚΟΝΑ ΣΤΟ TSV" description="Τιμές διαχωρισμένες με καρτέλες" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/image-to-txt/" name="ΕΙΚΟΝΑ ΣΤΟ TXT" description="Έγγραφο κειμένου" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/image-to-xls/" name="ΕΙΚΟΝΑ ΣΤΟ XLS" description="Δυαδική μορφή Excel" >}}

@@ -1,7 +1,7 @@
 ---
-title: Python MHTML σε XML - Online Μετατροπέας MHTML σε XML
-description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Δωρεάν Online Python Μετατροπή MHTML σε μορφή αποθήκευσης XML. Python MHTML σε μορφή XML. Αποθηκεύστε το MHTML στο XML Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python MHTML to XML saveformat., Free Online MHTML to XML Python., Python Convert MHTML to XML]
+title: Python MHTML σε XML - MHTML σε XML Μετατροπέας
+description: Aspose Excel. Μετατρέψτε το MHTML σε XML γρήγορα και εύκολα με το Aspose.Cells. Python MHTML σε XML. Python Αποθήκευση MHTML σε XML. Αποθηκεύστε το MHTML ως XML χρησιμοποιώντας το Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Convert MHTML to XML in Python., Save MHTML to XML using Python., Python MHTML to XML saveformat., MHTML to XML Converter., Python Save MHTML as XML]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Μετατρέψτε το MHTML σε XML στο Python" h2="Βιβλιοθήκη υψηλής ταχύτητας Python για μετατροπή MHTML σε XML. Αυτή είναι μια επαγγελματική λύση λογισμικού για εισαγωγή και εξαγωγή MHTML, XML και πολλών άλλων μορφών χρησιμοποιώντας το Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="XML" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,11 +12,11 @@ keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python MHT
 
 {{% blocks/products/pf/agp/content h2="Μετατροπή MHTML σε XML χρησιμοποιώντας Python" %}}
 
- Πώς μπορώ να μετατρέψω το MHTML σε XML; Με τη βιβλιοθήκη Aspose.Cells for Python, μπορείτε εύκολα να μετατρέψετε το MHTML σε XML μέσω προγραμματισμού με λίγες γραμμές κώδικα.[Aspose.Cells for Python](https://pypi.org/project/aspose-cells)έχει τη δυνατότητα δημιουργίας εφαρμογών πολλαπλών πλατφορμών με δυνατότητα δημιουργίας, τροποποίησης, μετατροπής, απόδοσης και εκτύπωσης όλων των αρχείων Excel. Python Το Excel API όχι μόνο μετατρέπει μεταξύ μορφών υπολογιστικών φύλλων, αλλά μπορεί επίσης να αποδώσει αρχεία Excel ως εικόνες, PDF, HTML, ODS, CSV, 07616031481, CSV, 07616831481, δημιουργώντας περισσότερα τέλεια επιλογή για την ανταλλαγή εγγράφων σε βιομηχανικά πρότυπα μορφές.
+ Πώς μπορώ να μετατρέψω το MHTML σε XML; Με τη βιβλιοθήκη Aspose.Cells for Python, μπορείτε εύκολα να μετατρέψετε το MHTML σε XML μέσω προγραμματισμού με λίγες γραμμές κώδικα.[Aspose.Cells for Python](https://pypi.org/project/aspose-cells)έχει τη δυνατότητα δημιουργίας εφαρμογών πολλαπλών πλατφορμών με δυνατότητα δημιουργίας, τροποποίησης, μετατροπής, απόδοσης και εκτύπωσης όλων των αρχείων Excel. Python Το Excel API όχι μόνο μετατρέπει μεταξύ μορφών υπολογιστικών φύλλων, αλλά μπορεί επίσης να αποδώσει αρχεία Excel ως εικόνες, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT και άλλα, καθιστώντας έτσι την τέλεια επιλογή για την ανταλλαγή εγγράφων σε βιομηχανικές τυποποιημένες μορφές.
  
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Αποθηκεύστε το MHTML σε XML στο Python Δωρεάν Online" %}}
+{{% blocks/products/pf/agp/content h2="Αποθηκεύστε το MHTML σε XML στο Python" %}}
 
 Το ακόλουθο παράδειγμα δείχνει πώς να μετατρέψετε το MHTML σε XML στο Python.
 {{% blocks/products/pf/agp/text %}}
@@ -27,7 +27,7 @@ keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python MHT
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Δωρεάν εφαρμογή και δείγμα κώδικα για μετατροπή MHTML σε XML Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="mhtml" outformat="xml" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="Δείγμα κώδικα για μετατροπή MHTML σε XML" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="mhtml" outformat="xml" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="Πώς να μετατρέψετε το MHTML σε XML μέσω Python" %}}
 
@@ -63,12 +63,12 @@ keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python MHT
 
 {{% blocks/products/pf/agp/text %}}
 
-Aspose.Cells for Python via Java είναι ανεξάρτητο από πλατφόρμα API και μπορεί να χρησιμοποιηθεί σε οποιαδήποτε πλατφόρμα (Windows, Linux και MacOS), απλώς βεβαιωθείτε ότι το σύστημα έχει Java 1.8 ή υψηλότερο,[Python](https://www.python.org/downloads/) 3,5 ή υψηλότερο.
+ Aspose.Cells for Python via Java είναι ανεξάρτητο από πλατφόρμα API και μπορεί να χρησιμοποιηθεί σε οποιαδήποτε πλατφόρμα (Windows, Linux και MacOS), απλώς βεβαιωθείτε ότι το σύστημα έχει Java 1.8 ή υψηλότερο,[Python](https://www.python.org/downloads/) 3,5 ή υψηλότερο.
  
 {{% /blocks/products/pf/agp/text %}}
 
 -  Εγκαταστήστε το Java και προσθέστε το στη μεταβλητή περιβάλλοντος PATH, για παράδειγμα:<code>PATH=C:\Program Files\Java\jdk1.8.0_131;</code>.
-- Εγκαταστήστε το Aspose.Cells for Python από<a href="https://pypi.org/project/aspose-cells/">pypi</a> , χρησιμοποιήστε την εντολή ως:<code>$ pip install aspose-cells</code>.
+-  Εγκαταστήστε το Aspose.Cells for Python από<a href="https://pypi.org/project/aspose-cells/">pypi</a> , χρησιμοποιήστε την εντολή ως:<code>$ pip install aspose-cells</code>.
 
 {{% /blocks/products/pf/agp/content %}}
 

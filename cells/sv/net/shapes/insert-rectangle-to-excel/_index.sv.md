@@ -1,7 +1,8 @@
 ---
 title:  Infoga rektangel i Excel via .NET
 weight: 240
-description: C# källkod för att infoga rektangel i Excel på .NET Framework, .NET Core, Mono eller Xamarin Platforms.
+description: C# Exempelkod för att lägga till eller infoga rektangel i Excel med hjälp av .NET Library. Använd den här koden för att skapa rektangel i MS Excel inom VB.NET, Asp.NET eller någon .NET-baserad applikation.
+keywords: [C# Aspose.Cells., c# add Rectangle., c# insert Rectangle., c# create Rectangle]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Infoga rektangel i Excel via .NET" h2="Infoga rektangel med Aspose.Cells\' API utan någon programvara som Microsoft eller Open Office, Adobe PDF, etc." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="XLSX" >}}
@@ -11,7 +12,7 @@ description: C# källkod för att infoga rektangel i Excel på .NET Framework, .
 
 {{% blocks/products/pf/agp/content h2="Hur man infogar rektangel i Excel-fil med C#" %}}
 
-För att infoga rektangel i excel-fil kommer vi att använda
+ För att infoga rektangel i excel-fil kommer vi att använda
  [Aspose.Cells for .NET](https://products.aspose.com/cells/net) 
  API som är en funktionsrik, kraftfull och lättanvänd dokumenthantering och splitter API för C# plattform. Öppen
  [NuGet](https://www.nuget.org/packages/aspose.cells) 
@@ -41,7 +42,7 @@ Du behöver aspose.cells.dll för att prova följande arbetsflöde i din egen mi
 
 {{% /blocks/products/pf/agp/text %}}
 
-Instantiera ett arbetsboksobjekt.(eller->Läs in XLSX-filen med fullständig sökväg.)
++ Instantiera ett arbetsboksobjekt.(eller->Läs in XLSX-filen med fullständig sökväg.)
 + Välj kalkylblad via dess index.
  + Använd[lägga till metod](https://reference.aspose.com/cells/net/aspose.cells.drawing/shapecollection/methods/addrectangle) för att infoga en rektangel i det valda kalkylbladet
 + Spara arbetsboken i XLSX-format.
@@ -77,7 +78,7 @@ Instantiera ett arbetsboksobjekt.(eller->Läs in XLSX-filen med fullständig sö
 
 {{% blocks/products/pf/agp/content h2="Om Aspose.Cells for .NET API" %}}
 
- Aspose.Cells API kan användas för att skapa, redigera, konvertera och rendera Microsoft Excel-format till olika format. Dessutom kan den användas för omfattande kartläggning, skalbar rapportering och tillförlitliga beräkningar inom mjukvaruapplikationer. Aspose.Cells är en fristående API och den kräver ingen programvara som Microsoft eller OpenOffice.
+Aspose.Cells API kan användas för att skapa, redigera, konvertera och rendera Microsoft Excel-format till olika format. Dessutom kan den användas för omfattande kartläggning, skalbar rapportering och tillförlitliga beräkningar inom mjukvaruapplikationer. Aspose.Cells är en fristående API och den kräver ingen programvara som Microsoft eller OpenOffice.
 
 {{% /blocks/products/pf/agp/content %}}
 

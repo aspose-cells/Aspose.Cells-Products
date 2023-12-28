@@ -2,6 +2,7 @@
 title: Infoga blockpilar i Excel med Python via .Net
 weight: 338
 description: Python via .Net-källkod för att infoga blockpilar i Excel.
+keywords: [C# Aspose.Cells., c# add block arrows., c# insert block arrows., c# create block arrows]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Infoga blockpilar i Excel med Python via .Net" h2="Infoga blockpilar med Aspose.Cells\' API utan någon programvara som Microsoft eller Open Office, Adobe PDF, etc." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="" pfName="Aspose.Cells" subTitlepfName="for Python via .NET" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="XLSX" >}}
@@ -11,9 +12,9 @@ description: Python via .Net-källkod för att infoga blockpilar i Excel.
 
 {{% blocks/products/pf/agp/content h2="Hur man infogar blockpilar i Excel-fil med Python via .Net" %}}
 
-För att infoga blockpilar i excel-filen kommer vi att använda
+ För att infoga blockpilar i excel-filen kommer vi att använda
  [Aspose.Cells for Python via .Net](https://pypi.org/project/aspose-cells-python/) 
-API som är en funktionsrik, kraftfull och lättanvänd dokumenthantering API for Python via .Net-plattformen. API tillhandahåller Excel-filskapande, manipulering, konvertering och rendering. Allt utan att förlita sig på Microsoft Office- eller Excel-program. Du kan installera från konsolen med följande kommando.
+ API som är en funktionsrik, kraftfull och lättanvänd dokumenthantering API for Python via .Net-plattformen. API tillhandahåller Excel-filskapande, manipulering, konvertering och rendering. Allt utan att förlita sig på Microsoft Office- eller Excel-program. Du kan installera från konsolen med följande kommando.
 
 {{% blocks/products/pf/agp/code-block title="Kommando" offSpacer="true" %}}
 
@@ -37,7 +38,7 @@ Du behöver Aspose.Cells för att prova följande arbetsflöde i din egen miljö
 
 {{% /blocks/products/pf/agp/text %}}
 
-Instantiera ett arbetsboksobjekt.(eller->Läs in XLSX-filen med fullständig sökväg.)
++ Instantiera ett arbetsboksobjekt.(eller->Läs in XLSX-filen med fullständig sökväg.)
 + Välj kalkylblad via dess index.
  + Använd formkollektionens tillägg[metod](https://reference.aspose.com/cells/python-net/aspose.cells.drawing/shapecollection/add_auto_shape/#AutoShapeType-int-int-int-int-int-int) för att infoga blockpilar i det valda kalkylbladet.
 + Spara arbetsboken i XLSX-format.
@@ -57,7 +58,7 @@ Instantiera ett arbetsboksobjekt.(eller->Läs in XLSX-filen med fullständig sö
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-Exempelkoden nedan visar hur man infogar en "högerpil". För fler typer, se "Översikt över blockpilarformtyper" nedan.
+Exempelkoden nedan visar hur man infogar en "högerpil". För fler typer, se "Översikt över formtyper av blockpil" nedan.
 
 {{% blocks/products/pf/agp/code-block title="Infoga blockpilar - Python via .Net" offSpacer="" %}}
 
@@ -132,7 +133,7 @@ Exempelkoden nedan visar hur man infogar en "högerpil". För fler typer, se "Ö
    <div class="col-lg-4">
     <img src="/cells/net/shapes/insert-block-arrows-to-excel/arrow_uturn.png" align="left" width="28" height="28">
     <p class="col-lg-10" style="font-size:0.8rem !important;">
- AutoShapeType.U_TURN_ARROW
+AutoShapeType.U_TURN_ARROW
     </p>
    </div>
    <div class="col-lg-4">
@@ -198,7 +199,7 @@ Exempelkoden nedan visar hur man infogar en "högerpil". För fler typer, se "Ö
    <div class="col-lg-4">
     <img src="/cells/net/shapes/insert-block-arrows-to-excel/arrow_right_callout.png" align="left" width="28" height="28">
     <p class="col-lg-10" style="font-size:0.8rem !important;">
-AutoShapeType.RIGHT_ARROW_CALLOUT
+ AutoShapeType.RIGHT_ARROW_CALLOUT
     </p>
    </div>
    <div class="col-lg-4">
@@ -250,7 +251,7 @@ AutoShapeType.RIGHT_ARROW_CALLOUT
 
 {{% blocks/products/pf/agp/content h2="Om Aspose.Cells for Python via .NET API" %}}
 
- Aspose.Cells API kan användas för att skapa, redigera, konvertera och rendera Microsoft Excel-format till olika format. Dessutom kan den användas för omfattande kartläggning, skalbar rapportering och tillförlitliga beräkningar inom mjukvaruapplikationer. Aspose.Cells är en fristående API och den kräver ingen programvara som Microsoft eller OpenOffice.
+Aspose.Cells API kan användas för att skapa, redigera, konvertera och rendera Microsoft Excel-format till olika format. Dessutom kan den användas för omfattande kartläggning, skalbar rapportering och tillförlitliga beräkningar inom mjukvaruapplikationer. Aspose.Cells är en fristående API och den kräver ingen programvara som Microsoft eller OpenOffice.
 
 {{% /blocks/products/pf/agp/content %}}
 

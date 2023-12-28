@@ -1,8 +1,8 @@
 ---
-title: C# Repair ods File - Repair ods File Online δωρεάν
+title: C# Επιδιόρθωση ods - Ανάκτηση και διόρθωση κατεστραμμένου αρχείου ods
 url: /el/net/recovery/repair-ods/ 
-description: Aspose Excel. C# Aspose.Cells. C# Επισκευή αρχείου ods. Δωρεάν διαδικτυακό εργαλείο επισκευής ods. Επιδιορθώστε ένα κατεστραμμένο αρχείο ods. Ανακτήστε ένα κατεστραμμένο αρχείο ods εντός της εφαρμογής .NET.
-keywords: [Aspose Excel., C# Aspose.Cells., C# Aspose Cells., C# Repair ods file., Free Online Repair a corrupted ods file., C# Recover ods file.]
+description: C# Aspose.Cells. Επισκευή ods. Διορθώστε το αρχείο ods. εργαλείο ανάκτησης ods. από τη διαφθορά. Επαναφορά δεδομένων ods. ανάκτηση αρχείων ods. Ανακτήστε το κατεστραμμένο αρχείο ods.
+keywords: [C# Aspose.Cells., repair ods file., ods repair., recover corrupted ods file., repair corrupted ods., recover ods., fix ods file., ods corruption., restore ods data., ods file recovery., recover corrupted ods file.]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Επισκευάστε το αρχείο ODS στο C#" h2="Δημιουργήστε τη δική σας εφαρμογή .NET για να επιδιορθώσετε αρχεία ods χρησιμοποιώντας το .NET." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="ODS" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="XLS" fileiconsmall2="XLSB" fileiconsmall3="XLSX" fileiconsmall4="XLSM" fileiconsmall5="ODS" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., C# Aspose.Cells., C# Aspose Cells., C# Repair ods file
 
 {{% blocks/products/pf/agp/content h2="Επισκευάστε το αρχείο ODS χρησιμοποιώντας το C#" %}}
 
- Πώς μπορώ να επισκευάσω το αρχείο ods; Με τη βιβλιοθήκη Aspose.Cells for .NET, μπορείτε εύκολα να επιδιορθώσετε το αρχείο ODS μέσω προγραμματισμού με λίγες γραμμές κώδικα.[Aspose.Cells for .NET](https://products.aspose.com/cells/net)έχει τη δυνατότητα δημιουργίας εφαρμογών πολλαπλών πλατφορμών με δυνατότητα δημιουργίας, τροποποίησης, μετατροπής, απόδοσης και εκτύπωσης όλων των αρχείων Excel. .NET Το Excel API όχι μόνο μετατρέπει μεταξύ μορφών υπολογιστικών φύλλων, αλλά μπορεί επίσης να αποδώσει αρχεία Excel ως εικόνες, PDF, HTML, ODS, CSV, 07616031481, CSV, 07616831481, δημιουργώντας περισσότερα τέλεια επιλογή για την ανταλλαγή εγγράφων σε βιομηχανικά πρότυπα μορφές. Ανοιξε[NuGet](https://www.nuget.org/packages/aspose.cells) διαχειριστής πακέτων, αναζητήστε Aspose.Cells και εγκαταστήστε. Μπορείτε επίσης να χρησιμοποιήσετε την ακόλουθη εντολή από την Κονσόλα Package Manager.
+ Πώς μπορώ να επισκευάσω το αρχείο ods; Με τη βιβλιοθήκη Aspose.Cells for .NET, μπορείτε εύκολα να επιδιορθώσετε το αρχείο ODS μέσω προγραμματισμού με λίγες γραμμές κώδικα.[Aspose.Cells for .NET](https://products.aspose.com/cells/net)έχει τη δυνατότητα δημιουργίας εφαρμογών πολλαπλών πλατφορμών με δυνατότητα δημιουργίας, τροποποίησης, μετατροπής, απόδοσης και εκτύπωσης όλων των αρχείων Excel. .NET Το Excel API όχι μόνο μετατρέπει μεταξύ μορφών υπολογιστικών φύλλων, αλλά μπορεί επίσης να αποδώσει αρχεία Excel ως εικόνες, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT και άλλα, καθιστώντας έτσι την τέλεια επιλογή για την ανταλλαγή εγγράφων σε βιομηχανικές τυποποιημένες μορφές. Ανοιξε[NuGet](https://www.nuget.org/packages/aspose.cells) διαχειριστής πακέτων, αναζητήστε Aspose.Cells και εγκαταστήστε. Μπορείτε επίσης να χρησιμοποιήσετε την ακόλουθη εντολή από την Κονσόλα Package Manager.
 
 {{% blocks/products/pf/agp/code-block title="Εντολή κονσόλας διαχείρισης πακέτων" offSpacer="true" %}}
 
@@ -41,7 +41,7 @@ PM> Install-Package Aspose.Cells
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-recovery title="Δωρεάν εφαρμογή και δείγμα κώδικα για επισκευή αρχείου ODS στο Διαδίκτυο" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et" InputFormat="ods" outformat="ods" IsLandingPage="true" language="net" %}}    
+{{% cells-recovery title="Δείγμα κώδικα για επιδιόρθωση αρχείου ODS" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et" InputFormat="ods" outformat="ods" IsLandingPage="true" language="net" %}}    
     
 {{% blocks/products/pf/agp/content h2=".NET βιβλιοθήκη για επιδιόρθωση αρχείου ODS" %}}
 

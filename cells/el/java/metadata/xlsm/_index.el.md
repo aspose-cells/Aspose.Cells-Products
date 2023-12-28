@@ -2,6 +2,7 @@
 title:  Επεξεργασία ή προβολή XLSM Files Metadata via Java
 weight: 9030
 description: Java δείγμα κώδικα για επεξεργασία ή προβολή μεταδεδομένων μορφής XLSM στο Java Runtime Environment για εφαρμογές JSP/JSF και εφαρμογές επιφάνειας εργασίας.
+keywords: [Java Aspose.Cells., Java view xlsm metadata., Java add xlsm metadata., Java insert xlsm metadata., Java edit xlsm metadata., Java remove xlsm metadata., Java extract xlsm metadata., Java modify xlsm metadata]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Απόσπασμα XLSM Μεταδεδομένα via Java" h2="Δημιουργήστε τις δικές σας εφαρμογές Java για να προσθέσετε, να επεξεργαστείτε, να αφαιρέσετε ή να εξαγάγετε μεταδεδομένα από αρχεία XLSM χρησιμοποιώντας API από την πλευρά του διακομιστή." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSM" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="" fileiconsmall1="PPTX" fileiconsmall2="DOCX" fileiconsmall3="XLSX" fileiconsmall4="PDF" fileiconsmall5=" ODP " >}}
@@ -13,7 +14,7 @@ description: Java δείγμα κώδικα για επεξεργασία ή π�
 
  Για να λάβουμε μεταδεδομένα αρχείου XLSM, θα χρησιμοποιήσουμε
  [Aspose.Cells for Java](https://products.aspose.com/cells/java) 
-API που είναι μια πλατφόρμα πλούσια σε χαρακτηριστικά, ισχυρή και εύχρηστη πλατφόρμα μεταδεδομένων API for Java. Μπορείτε να κατεβάσετε την τελευταία του έκδοση απευθείας από
+ API που είναι μια πλατφόρμα πλούσια σε χαρακτηριστικά, ισχυρή και εύχρηστη πλατφόρμα μεταδεδομένων API for Java. Μπορείτε να κατεβάσετε την τελευταία του έκδοση απευθείας από
  [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) 
  και εγκαταστήστε το στο έργο σας που βασίζεται στο Maven προσθέτοντας τις ακόλουθες διαμορφώσεις στο pom.xml.
 

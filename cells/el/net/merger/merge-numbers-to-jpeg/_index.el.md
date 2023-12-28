@@ -1,8 +1,8 @@
 ---
 title: Συγχώνευση NUMBERS στο JPEG - Συνδυάστε NUMBERS στο JPEG στο C#
 url: /el/net/merger/merge-numbers-to-jpeg/ 
-description: Aspose Excel. C# Aspose.Cells. Δωρεάν Online Merge NUMBERS to JPEG saveformat. C# Συνδυάστε τα NUMBERS σε μορφή JPEG. Συγχώνευση NUMBERS στο JPEG στο C#. NUMBERS Συγχώνευση.
-keywords: [Aspose Excel., C# Aspose.Cells., Merge NUMBERS to JPEG in C#., Free Online C# Merge NUMBERS to jpeg., C# Combine NUMBERS to JPEG Online for Free., NUMBERS Merge]
+description: Aspose Excel. C# Aspose.Cells. Συγχώνευση NUMBERS σε μορφή αποθήκευσης JPEG. C# Συνδυάστε τα NUMBERS σε μορφή JPEG. Συγχώνευση NUMBERS στο JPEG στο C#. NUMBERS Συγχώνευση.
+keywords: [Aspose Excel., C# Aspose.Cells., Merge NUMBERS to JPEG in C#., C# Merge NUMBERS to jpeg., C# Combine NUMBERS to JPEG., NUMBERS Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Συγχώνευση NUMBERS στο JPEG μέσω C#" h2="Βιβλιοθήκη υψηλής ταχύτητας C# για συγχώνευση NUMBERS στο JPEG. Χρησιμοποιήστε τη μετατροπή excel API για να αναπτύξετε λογισμικό υψηλού επιπέδου, ανεξάρτητο από πλατφόρμα στο C#. Αυτή είναι μια επαγγελματική λύση λογισμικού για εισαγωγή και εξαγωγή πολλών άλλων μορφών excel, Excel, CSV, OpenOffice, PDF, HTML, image." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="NUMBERS" additionalConversionTag="JPEG" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., C# Aspose.Cells., Merge NUMBERS to JPEG in C#., Free O
 
 {{% blocks/products/pf/agp/content h2="Συγχώνευση NUMBERS στο JPEG χρησιμοποιώντας C#" %}}
 
- Πώς μπορώ να συγχωνεύσω τα NUMBERS στο JPEG; Με τη βιβλιοθήκη Aspose.Cells for .NET, μπορείτε εύκολα να συγχωνεύσετε NUMBERS στο JPEG μέσω προγραμματισμού με λίγες γραμμές κώδικα.[Aspose.Cells for .NET](https://products.aspose.com/cells/net)έχει τη δυνατότητα δημιουργίας εφαρμογών πολλαπλών πλατφορμών με δυνατότητα δημιουργίας, τροποποίησης, μετατροπής, απόδοσης και εκτύπωσης όλων των αρχείων Excel. .NET Το Excel API όχι μόνο μετατρέπει μεταξύ μορφών υπολογιστικών φύλλων, αλλά μπορεί επίσης να αποδώσει αρχεία Excel ως εικόνες, PDF, HTML, ODS, CSV, 07616031481, CSV, 07616831481, δημιουργώντας περισσότερα τέλεια επιλογή για την ανταλλαγή εγγράφων σε βιομηχανικά πρότυπα μορφές. Ανοιξε[NuGet](https://www.nuget.org/packages/aspose.cells) διαχειριστής πακέτων, αναζητήστε Aspose.Cells και εγκαταστήστε. Μπορείτε επίσης να χρησιμοποιήσετε την ακόλουθη εντολή από την Κονσόλα Package Manager.
+ Πώς μπορώ να συγχωνεύσω τα NUMBERS στο JPEG; Με τη βιβλιοθήκη Aspose.Cells for .NET, μπορείτε εύκολα να συγχωνεύσετε NUMBERS στο JPEG μέσω προγραμματισμού με λίγες γραμμές κώδικα.[Aspose.Cells for .NET](https://products.aspose.com/cells/net)έχει τη δυνατότητα δημιουργίας εφαρμογών πολλαπλών πλατφορμών με δυνατότητα δημιουργίας, τροποποίησης, μετατροπής, απόδοσης και εκτύπωσης όλων των αρχείων Excel. .NET Το Excel API όχι μόνο μετατρέπει μεταξύ μορφών υπολογιστικών φύλλων, αλλά μπορεί επίσης να αποδώσει αρχεία Excel ως εικόνες, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT και άλλα, καθιστώντας έτσι την τέλεια επιλογή για την ανταλλαγή εγγράφων σε βιομηχανικές τυποποιημένες μορφές. Ανοιξε[NuGet](https://www.nuget.org/packages/aspose.cells) διαχειριστής πακέτων, αναζητήστε Aspose.Cells και εγκαταστήστε. Μπορείτε επίσης να χρησιμοποιήσετε την ακόλουθη εντολή από την Κονσόλα Package Manager.
 
 {{% blocks/products/pf/agp/code-block title="Εντολή κονσόλας διαχείρισης πακέτων" offSpacer="true" %}}
 
@@ -26,7 +26,7 @@ PM> Install-Package Aspose.Cells
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Συγχώνευση NUMBERS στο JPEG στο C# Δωρεάν Online" %}}
+{{% blocks/products/pf/agp/content h2="Συγχώνευση NUMBERS στο JPEG στο C#" %}}
 
 Το ακόλουθο παράδειγμα δείχνει πώς να συγχωνεύσετε τους αριθμούς με το JPEG στο Aspose.Cells for .NET.
 {{% blocks/products/pf/agp/text %}}
@@ -37,7 +37,7 @@ PM> Install-Package Aspose.Cells
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Δωρεάν online για συγχώνευση NUMBERS στο JPEG στο C#" InputFormat="numbers" InputFormat2="jpg" outformat="jpg" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="net" %}}
+{{% cells-merger title="Δείγμα κώδικα για συγχώνευση αριθμών σε JPEG στο C#" InputFormat="numbers" InputFormat2="jpg" outformat="jpg" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="net" %}}
 
 {{% blocks/products/pf/agp/content h2="Πώς να συγχωνεύσετε τους αριθμούς στο JPEG μέσω του C#" %}}
 
@@ -87,7 +87,7 @@ PM> Install-Package Aspose.Cells
 
 <!-- aboutfile Starts -->
     {{< blocks/products/pf/agp/about-file-section >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="NUMBERS" readMoreLink="https://docs.fileformat.com/spreadsheet/numbers/" >}}Τα αρχεία με επέκταση .numbers ταξινομούνται ως τύπος αρχείου υπολογιστικού φύλλου, γι' αυτό είναι παρόμοια με τα αρχεία .xlsx. αλλά τα αρχεία Numbers δημιουργούνται χρησιμοποιώντας το λογισμικό υπολογιστικών φύλλων Apple iWork Numbers. Το Apple iWork Numbers είναι ένα λογισμικό μονάδας του iWork Productivity Suite. Το iWork Productivity Suite είναι ισοδύναμο με το Microsoft Office Suite που χρησιμοποιείται σε υπολογιστές Windows. Ως εκ τούτου, μπορούμε να πούμε ότι το Numbers που είναι διαθέσιμο για MacOS είναι επίσης ανταγωνιστής του Microsoft Excel. Ομοίως, Microsoft Excel, το αρχείο NUMBERS μπορεί επίσης να περιέχει πίνακες, γραφήματα και τύπους.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="NUMBERS" readMoreLink="https://docs.fileformat.com/spreadsheet/numbers/" >}} Τα αρχεία με επέκταση .numbers ταξινομούνται ως τύπος αρχείου υπολογιστικού φύλλου, γι' αυτό είναι παρόμοια με τα αρχεία .xlsx. αλλά τα αρχεία Numbers δημιουργούνται χρησιμοποιώντας το λογισμικό υπολογιστικών φύλλων Apple iWork Numbers. Το Apple iWork Numbers είναι ένα λογισμικό μονάδας του iWork Productivity Suite. Το iWork Productivity Suite είναι ισοδύναμο με το Microsoft Office Suite που χρησιμοποιείται σε υπολογιστές Windows. Ως εκ τούτου, μπορούμε να πούμε ότι το Numbers που είναι διαθέσιμο για MacOS είναι επίσης ανταγωνιστής του Microsoft Excel. Ομοίως, Microsoft Excel, το αρχείο NUMBERS μπορεί επίσης να περιέχει πίνακες, γραφήματα και τύπους.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="JPEG" readMoreLink="https://docs.fileformat.com/image/jpg/" >}}Το JPEG είναι ένας τύπος μορφής εικόνας που αποθηκεύεται χρησιμοποιώντας τη μέθοδο συμπίεσης με απώλειες. Η εικόνα εξόδου, ως αποτέλεσμα της συμπίεσης, είναι μια αντιστάθμιση μεταξύ του μεγέθους αποθήκευσης και της ποιότητας της εικόνας. Οι χρήστες μπορούν να προσαρμόσουν το επίπεδο συμπίεσης για να επιτύχουν το επιθυμητό επίπεδο ποιότητας ενώ ταυτόχρονα να μειώσουν το μέγεθος αποθήκευσης. Η ποιότητα της εικόνας επηρεάζεται αμελητέα εάν εφαρμοστεί συμπίεση 10:1 στην εικόνα. Όσο υψηλότερη είναι η τιμή συμπίεσης, τόσο μεγαλύτερη είναι η υποβάθμιση της ποιότητας της εικόνας.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
     {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->

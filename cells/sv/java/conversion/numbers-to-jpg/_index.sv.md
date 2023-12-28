@@ -1,7 +1,7 @@
 ---
-title: Java NUMBERS to JPG - Online NUMBERS to JPG Converter
-description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Gratis online Java Konvertera NUMBERS till JPG sparaformat. Java NUMBERS till JPG-format. Spara NUMBERS till JPG Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java NUMBERS to JPG saveformat., Free Online NUMBERS to JPG Java., Java Convert NUMBERS to JPG]
+title: Java NUMBERS to JPG - NUMBERS to JPG Converter
+description: Aspose Excel. Konvertera NUMBERS till JPG snabbt och enkelt med Aspose.Cells. Java NUMBERS till JPG. Java Spara NUMBERS till JPG. Spara NUMBERS som JPG med Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Convert NUMBERS to JPG in Java., Save NUMBERS to JPG using Java., Java NUMBERS to JPG saveformat., NUMBERS to JPG Converter., Java Save NUMBERS as JPG]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Konvertera NUMBERS till JPG i Java" h2="Höghastighetsbibliotek Java för att konvertera NUMBERS till JPG. Detta är en professionell mjukvarulösning för att importera och exportera NUMBERS, JPG och många andra format med Java." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="JPG" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java NUMBERS t
 
 {{% blocks/products/pf/agp/content h2="Konvertera NUMBERS till JPG med Java" %}}
 
- Hur konverterar jag NUMBERS till JPG? Med Aspose.Cells for Java-biblioteket kan du enkelt konvertera NUMBERS till JPG programmatiskt med några rader kod.[Aspose.Cells for Java](https://products.aspose.com/cells/java) kan bygga plattformsoberoende applikationer med förmågan att generera, modifiera, konvertera, rendera och skriva ut alla Excel-filer. Java Excel API konverterar inte bara mellan kalkylarksformat, det kan också rendera Excel-filer som bilder, PDF, HTML, ODS, ODS, CSV, 0761687481, 0761687481, vilket gör det till ett perfekt val, Pt utbyta dokument i branschstandard format. Du kan ladda ner den senaste versionen direkt från[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) och installera det i ditt Maven-baserade projekt genom att lägga till följande konfigurationer till pom.xml.
+ Hur konverterar jag NUMBERS till JPG? Med Aspose.Cells for Java-biblioteket kan du enkelt konvertera NUMBERS till JPG programmatiskt med några rader kod.[Aspose.Cells for Java](https://products.aspose.com/cells/java)kan bygga plattformsoberoende applikationer med förmågan att generera, modifiera, konvertera, rendera och skriva ut alla Excel-filer. Java Excel API konverterar inte bara mellan kalkylarksformat, den kan också rendera Excel-filer som bilder, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT och mer, vilket gör det till ett perfekt val att utbyta dokument i industristandardformat. Du kan ladda ner den senaste versionen direkt från[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) och installera det i ditt Maven-baserade projekt genom att lägga till följande konfigurationer till pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Förvar" offSpacer="true" %}}
 
@@ -45,7 +45,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java NUMBERS t
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Spara NUMBERS till JPG i Java Online gratis" %}}
+{{% blocks/products/pf/agp/content h2="Spara NUMBERS till JPG i Java" %}}
 
 Följande exempel visar hur man konverterar NUMBERS till JPG i Java.
 {{% blocks/products/pf/agp/text %}}
@@ -56,7 +56,7 @@ Följ de enkla stegen för att konvertera NUMBERS till JPG. Ladda upp din NUMBER
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Gratis app och provkod för att konvertera NUMBERS till JPG online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="numbers" outformat="jpg" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Exempelkod för att konvertera NUMBERS till JPG" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="numbers" outformat="jpg" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="Hur man konverterar NUMBERS till JPG via Java" %}}
 
@@ -97,7 +97,7 @@ Behöver du konvertera NUMBERS filer till JPG programmatiskt? Java-utvecklare ka
 
 <!-- aboutfile Starts -->
     {{< blocks/products/pf/agp/about-file-section >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="NUMBERS" readMoreLink="https://docs.fileformat.com/spreadsheet/numbers/" >}}Filerna med tillägget .numbers klassificeras som kalkylbladsfiltyp, det är därför de liknar .xlsx-filerna; men Numbers-filerna skapas med hjälp av Apple iWork Numbers kalkylprogram. Apple iWork Numbers är en enhetsprogramvara för iWork Productivity Suite. iWork Productivity Suite motsvarar Microsoft Office Suite som används på Windows-datorer. Därför kan vi säga att Numbers som är tillgänglig för MacOS också är en konkurrent till Microsoft Excel. På samma sätt, Microsoft Excel, NUMBERS-filen kan också innehålla tabeller, diagram och formler.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="NUMBERS" readMoreLink="https://docs.fileformat.com/spreadsheet/numbers/" >}} Filerna med tillägget .numbers klassificeras som kalkylbladsfiltyp, det är därför de liknar .xlsx-filerna; men Numbers-filerna skapas med hjälp av Apple iWork Numbers kalkylprogram. Apple iWork Numbers är en enhetsprogramvara för iWork Productivity Suite. iWork Productivity Suite motsvarar Microsoft Office Suite som används på Windows-datorer. Därför kan vi säga att Numbers som är tillgänglig för MacOS också är en konkurrent till Microsoft Excel. På samma sätt, Microsoft Excel, NUMBERS-filen kan också innehålla tabeller, diagram och formler.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="JPG" readMoreLink="https://docs.fileformat.com/image/jpg/" >}}En JPEG är en typ av bildformat som sparas med metoden för förlustkomprimering. Utdatabilden, som ett resultat av komprimering, är en kompromiss mellan lagringsstorlek och bildkvalitet. Användare kan justera komprimeringsnivån för att uppnå önskad kvalitetsnivå samtidigt som lagringsstorleken minskas. Bildkvaliteten påverkas försumbart om 10:1-komprimering tillämpas på bilden. Ju högre komprimeringsvärde, desto högre försämring i bildkvalitet.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
     {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->

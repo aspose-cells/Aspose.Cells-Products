@@ -2,6 +2,7 @@
 title:  Πώς να σχεδιάσετε ή να εισαγάγετε σχήμα κυρτού βέλους στο Excel via Java
 weight: 30
 description: Σχεδιάστε ή εισαγάγετε σχήμα κυρτού βέλους χρησιμοποιώντας το Aspose.Cells' Java API χωρίς κανένα λογισμικό όπως Microsoft ή Open Office, Adobe PDF κ.λπ.
+keywords: [Java Aspose.Cells., Java add curved arrow shape., Java insert curved arrow shape., Java create curved arrow shape]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Εισαγάγετε το σχήμα κυρτού βέλους στο Excel via Java" h2="Εισαγάγετε το σχήμα κυρτού βέλους χρησιμοποιώντας το Aspose.Cells\' API χωρίς λογισμικό όπως Microsoft ή Open Office, Adobe PDF κ.λπ." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSX" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="" fileiconsmall1="PPTX" fileiconsmall2="DOCX" fileiconsmall3="XLSX" fileiconsmall4="PDF" fileiconsmall5=" ODP " >}}
@@ -56,7 +57,7 @@ description: Σχεδιάστε ή εισαγάγετε σχήμα κυρτού 
 
 {{% /blocks/products/pf/agp/text %}}
 
-Δημιουργία αντικειμένου βιβλίου εργασίας.(ή->Φορτώστε το αρχείο XLSX με πλήρη διαδρομή.)
++ Δημιουργία αντικειμένου βιβλίου εργασίας.(ή->Φορτώστε το αρχείο XLSX με πλήρη διαδρομή.)
 + Επιλέξτε Φύλλο εργασίας μέσω του ευρετηρίου του.
  + Χρησιμοποιήστε το[μέθοδος προσθήκης](https://reference.aspose.com/cells/java/com.aspose.cells/shapecollection/#addAutoShape-int-int-int-int-int-int-int-) για να εισαγάγετε το σχήμα κυρτού βέλους στο επιλεγμένο φύλλο εργασίας
 + Αποθήκευση βιβλίου εργασίας σε μορφή XLSX.

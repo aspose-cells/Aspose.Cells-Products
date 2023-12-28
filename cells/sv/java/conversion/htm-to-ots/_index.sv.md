@@ -1,7 +1,7 @@
 ---
-title: Java HTM till OTS - Online HTM till OTS-konverterare
-description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Gratis Online Java Konvertera HTM till OTS saveformat. Java HTM till OTS-format. Spara HTM till OTS Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java HTM to OTS saveformat., Free Online HTM to OTS Java., Java Convert HTM to OTS]
+title: Java HTM till OTS - HTM till OTS-omvandlare
+description: Aspose Excel. Konvertera HTM till OTS snabbt och enkelt med Aspose.Cells. Java HTM till OTS. Java Spara HTM till OTS. Spara HTM som OTS med Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Convert HTM to OTS in Java., Save HTM to OTS using Java., Java HTM to OTS saveformat., HTM to OTS Converter., Java Save HTM as OTS]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Konvertera HTM till OTS i Java" h2="Höghastighets Java-bibliotek för konvertering av HTM till OTS. Detta är en professionell mjukvarulösning för att importera och exportera HTM, OTS och många andra format med Java." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="OTS" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java HTM to OT
 
 {{% blocks/products/pf/agp/content h2="Konvertera HTM till OTS med Java" %}}
 
- Hur konverterar jag HTM till OTS? Med Aspose.Cells for Java bibliotek kan du enkelt konvertera HTM till OTS programmatiskt med några rader kod.[Aspose.Cells for Java](https://products.aspose.com/cells/java) kan bygga plattformsoberoende applikationer med förmågan att generera, modifiera, konvertera, rendera och skriva ut alla Excel-filer. Java Excel API konverterar inte bara mellan kalkylarksformat, det kan också rendera Excel-filer som bilder, PDF, HTML, ODS, ODS, CSV, 0761687481, 0761687481, vilket gör det till ett perfekt val, Pt utbyta dokument i branschstandard format. Du kan ladda ner den senaste versionen direkt från[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) och installera det i ditt Maven-baserade projekt genom att lägga till följande konfigurationer till pom.xml.
+ Hur konverterar jag HTM till OTS? Med Aspose.Cells for Java bibliotek kan du enkelt konvertera HTM till OTS programmatiskt med några rader kod.[Aspose.Cells for Java](https://products.aspose.com/cells/java)kan bygga plattformsoberoende applikationer med förmågan att generera, modifiera, konvertera, rendera och skriva ut alla Excel-filer. Java Excel API konverterar inte bara mellan kalkylarksformat, den kan också rendera Excel-filer som bilder, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT och mer, vilket gör det till ett perfekt val att utbyta dokument i industristandardformat. Du kan ladda ner den senaste versionen direkt från[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) och installera det i ditt Maven-baserade projekt genom att lägga till följande konfigurationer till pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Förvar" offSpacer="true" %}}
 
@@ -45,7 +45,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java HTM to OT
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Spara HTM till OTS på Java Online gratis" %}}
+{{% blocks/products/pf/agp/content h2="Spara HTM till OTS på Java" %}}
 
 Följande exempel visar hur man konverterar HTM till OTS i Java.
 {{% blocks/products/pf/agp/text %}}
@@ -56,7 +56,7 @@ Följ de enkla stegen för att konvertera HTM till OTS. Ladda upp din HTM-fil oc
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Gratis app och provkod för att konvertera HTM till OTS Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="htm" outformat="ots" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Exempelkod för att konvertera HTM till OTS" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="htm" outformat="ots" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="Hur man konverterar HTM till OTS via Java" %}}
 

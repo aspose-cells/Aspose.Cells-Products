@@ -1,7 +1,7 @@
 ---
-title: Java XLT till OTS - Online XLT till OTS Converter
-description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Gratis Online Java Konvertera XLT till OTS saveformat. Java XLT till OTS-format. Spara XLT till OTS Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java XLT to OTS saveformat., Free Online XLT to OTS Java., Java Convert XLT to OTS]
+title: Java XLT till OTS - XLT till OTS Converter
+description: Aspose Excel. Konvertera XLT till OTS snabbt och enkelt med Aspose.Cells. Java XLT till OTS. Java Spara XLT till OTS. Spara XLT som OTS med Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Convert XLT to OTS in Java., Save XLT to OTS using Java., Java XLT to OTS saveformat., XLT to OTS Converter., Java Save XLT as OTS]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Konvertera XLT till OTS i Java" h2="Höghastighetsbibliotek Java för konvertering av XLT till OTS. Detta är en professionell mjukvarulösning för att importera och exportera XLT, OTS och många andra format med Java." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="OTS" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java XLT to OT
 
 {{% blocks/products/pf/agp/content h2="Konvertera XLT till OTS med Java" %}}
 
- Hur konverterar jag XLT till OTS? Med Aspose.Cells for Java bibliotek kan du enkelt konvertera XLT till OTS programmatiskt med några rader kod.[Aspose.Cells for Java](https://products.aspose.com/cells/java) kan bygga plattformsoberoende applikationer med förmågan att generera, modifiera, konvertera, rendera och skriva ut alla Excel-filer. Java Excel API konverterar inte bara mellan kalkylarksformat, det kan också rendera Excel-filer som bilder, PDF, HTML, ODS, ODS, CSV, 0761687481, 0761687481, vilket gör det till ett perfekt val, Pt utbyta dokument i branschstandard format. Du kan ladda ner den senaste versionen direkt från[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) och installera det i ditt Maven-baserade projekt genom att lägga till följande konfigurationer till pom.xml.
+ Hur konverterar jag XLT till OTS? Med Aspose.Cells for Java bibliotek kan du enkelt konvertera XLT till OTS programmatiskt med några rader kod.[Aspose.Cells for Java](https://products.aspose.com/cells/java)kan bygga plattformsoberoende applikationer med förmågan att generera, modifiera, konvertera, rendera och skriva ut alla Excel-filer. Java Excel API konverterar inte bara mellan kalkylarksformat, den kan också rendera Excel-filer som bilder, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT och mer, vilket gör det till ett perfekt val att utbyta dokument i industristandardformat. Du kan ladda ner den senaste versionen direkt från[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) och installera det i ditt Maven-baserade projekt genom att lägga till följande konfigurationer till pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Förvar" offSpacer="true" %}}
 
@@ -45,7 +45,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java XLT to OT
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Spara XLT till OTS i Java Online gratis" %}}
+{{% blocks/products/pf/agp/content h2="Spara XLT till OTS på Java" %}}
 
 Följande exempel visar hur man konverterar XLT till OTS i Java.
 {{% blocks/products/pf/agp/text %}}
@@ -56,7 +56,7 @@ Följ de enkla stegen för att konvertera XLT till OTS. Ladda upp din XLT-fil oc
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Gratis app och provkod för att konvertera XLT till OTS Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlt" outformat="ots" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Exempelkod för att konvertera XLT till OTS" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlt" outformat="ots" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="Hur man konverterar XLT till OTS via Java" %}}
 
@@ -68,7 +68,7 @@ Behöver du konvertera XLT-filer till OTS programmatiskt? Java-utvecklare kan en
 
 1.  Installera 'Aspose.Cells for Java'.
 1.  Lägg till en biblioteksreferens (importera biblioteket) till ditt Java-projekt.
-1.  Ladda XLT-filen med en instans av Workbook-klassen.
+1. Ladda XLT-filen med en instans av Workbook-klassen.
 1.  Konvertera XLT till OTS genom att anropa Workbook.save-metoden.
 1.  Få konverteringsresultatet av XLT till OTS.
 

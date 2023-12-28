@@ -1,8 +1,8 @@
 ---
 title: Συγχώνευση IMAGE στο XLSM - Συνδυάστε το IMAGE στο XLSM στο Java
 url: /el/java/merger/merge-image-to-xlsm/ 
-description: Aspose Excel. Java Aspose.Cells. Δωρεάν Online Συγχώνευση IMAGE σε XLSM saveformat. Java Συνδυάστε το IMAGE σε μορφή XLSM. Συγχώνευση IMAGE στο XLSM στο Java. IMAGE Συγχώνευση.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge IMAGE to XLSM in Java., Free Online Java Merge IMAGE to xlsm., Java Combine IMAGE to XLSM Online for Free., IMAGE Merge]
+description: Aspose Excel. Java Aspose.Cells. Συγχώνευση IMAGE σε μορφή αποθήκευσης XLSM. Java Συνδυάστε το IMAGE σε μορφή XLSM. Συγχώνευση IMAGE στο XLSM στο Java. IMAGE Συγχώνευση.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge IMAGE to XLSM in Java., Java Merge IMAGE to xlsm., Java Combine IMAGE to XLSM., IMAGE Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Συγχώνευση IMAGE στο XLSM via Java" h2="Βιβλιοθήκη υψηλής ταχύτητας Java για συγχώνευση IMAGE με XLSM. Χρησιμοποιήστε τη μετατροπή excel API για να αναπτύξετε λογισμικό υψηλού επιπέδου, ανεξάρτητο από πλατφόρμα στο Java. Αυτή είναι μια επαγγελματική λύση λογισμικού για εισαγωγή και εξαγωγή πολλών άλλων μορφών excel, Excel, CSV, OpenOffice, PDF, HTML, image." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="IMAGE" additionalConversionTag="XLSM" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Merge IMAGE to XLSM in Java., Free
 
 {{% blocks/products/pf/agp/content h2="Συγχώνευση IMAGE στο XLSM χρησιμοποιώντας Java" %}}
 
- Πώς μπορώ να συγχωνεύσω το IMAGE με το XLSM; Με τη βιβλιοθήκη Aspose.Cells for Java, μπορείτε εύκολα να συγχωνεύσετε το IMAGE στο XLSM μέσω προγραμματισμού με λίγες γραμμές κώδικα.[Aspose.Cells for Java](https://products.aspose.com/cells/java) έχει τη δυνατότητα δημιουργίας εφαρμογών πολλαπλών πλατφορμών με δυνατότητα δημιουργίας, τροποποίησης, μετατροπής, απόδοσης και εκτύπωσης όλων των αρχείων Excel. Java Το Excel API όχι μόνο μετατρέπει μεταξύ μορφών υπολογιστικών φύλλων, αλλά μπορεί επίσης να αποδώσει αρχεία Excel ως εικόνες, PDF, HTML, ODS, CSV, 07616031481, CSV, 07616831481, δημιουργώντας περισσότερα τέλεια επιλογή για την ανταλλαγή εγγράφων σε βιομηχανικά πρότυπα μορφές. Μπορείτε να κατεβάσετε την τελευταία του έκδοση απευθείας από[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) και εγκαταστήστε το στο έργο σας που βασίζεται στο Maven προσθέτοντας τις ακόλουθες διαμορφώσεις στο pom.xml.
+ Πώς μπορώ να συγχωνεύσω το IMAGE με το XLSM; Με τη βιβλιοθήκη Aspose.Cells for Java, μπορείτε εύκολα να συγχωνεύσετε το IMAGE στο XLSM μέσω προγραμματισμού με λίγες γραμμές κώδικα.[Aspose.Cells for Java](https://products.aspose.com/cells/java)έχει τη δυνατότητα δημιουργίας εφαρμογών πολλαπλών πλατφορμών με δυνατότητα δημιουργίας, τροποποίησης, μετατροπής, απόδοσης και εκτύπωσης όλων των αρχείων Excel. Java Το Excel API όχι μόνο μετατρέπει μεταξύ μορφών υπολογιστικών φύλλων, αλλά μπορεί επίσης να αποδώσει αρχεία Excel ως εικόνες, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT και άλλα, καθιστώντας έτσι την τέλεια επιλογή για την ανταλλαγή εγγράφων σε βιομηχανικές τυποποιημένες μορφές. Μπορείτε να κατεβάσετε την τελευταία του έκδοση απευθείας από[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) και εγκαταστήστε το στο έργο σας που βασίζεται στο Maven προσθέτοντας τις ακόλουθες διαμορφώσεις στο pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Αποθήκη" offSpacer="true" %}}
 
@@ -45,7 +45,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Merge IMAGE to XLSM in Java., Free
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Συγχώνευση IMAGE στο XLSM στο Java Δωρεάν Online" %}}
+{{% blocks/products/pf/agp/content h2="Συγχώνευση IMAGE στο XLSM στο Java" %}}
 
 Το ακόλουθο παράδειγμα δείχνει πώς να συγχωνεύσετε το IMAGE στο XLSM στο Aspose.Cells for Java.
 {{% blocks/products/pf/agp/text %}}
@@ -56,13 +56,13 @@ keywords: [Aspose Excel., Java Aspose.Cells., Merge IMAGE to XLSM in Java., Free
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Δωρεάν online για συγχώνευση IMAGE στο XLSM στο Java" InputFormat="png" InputFormat2="xlsm" outformat="xlsm" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="java" %}}
+{{% cells-merger title="Δείγμα κώδικα για συγχώνευση IMAGE στο XLSM στο Java" InputFormat="png" InputFormat2="xlsm" outformat="xlsm" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="Πώς να συγχωνεύσετε το IMAGE στο XLSM via Java" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- Θέλετε να συγχωνεύσετε το IMAGE στο XLSM μέσω προγραμματισμού; Ένα βασικό έγγραφο που συγχωνεύεται και συνενώνεται με[Aspose.Cells for Java](https://products.aspose.com/cells/java) Τα API μπορούν να γίνουν με λίγες μόνο γραμμές κώδικα.
+Θέλετε να συγχωνεύσετε το IMAGE στο XLSM μέσω προγραμματισμού; Ένα βασικό έγγραφο που συγχωνεύεται και συνενώνεται με[Aspose.Cells for Java](https://products.aspose.com/cells/java) Τα API μπορούν να γίνουν με λίγες μόνο γραμμές κώδικα.
 
 {{% /blocks/products/pf/agp/text %}}
 

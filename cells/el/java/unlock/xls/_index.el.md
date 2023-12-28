@@ -2,6 +2,7 @@
 title:  Ξεκλείδωμα XLS έγγραφο via Java
 weight: 6390
 description: Java δείγμα κώδικα για ξεκλείδωμα αρχείου XLS με προστασία κωδικού πρόσβασης στο Java Περιβάλλον χρόνου εκτέλεσης για εφαρμογές JSP/JSF και εφαρμογές επιφάνειας εργασίας.
+keywords: [Java Aspose.Cells., Java unlock XLS files., Java how to unlock XLS document., Java unprotect XLS files., remove protection from XLS files., decrypt XLS Files using Java]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Ξεκλείδωμα XLS Αρχεία via Java" h2="Καταργήστε την προστασία από υπολογιστικά φύλλα Excel, συμπεριλαμβανομένου του αρχείου XLS χρησιμοποιώντας τη Βιβλιοθήκη Java." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLS" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLS" >}}
@@ -73,7 +74,7 @@ description: Java δείγμα κώδικα για ξεκλείδωμα αρχε
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Ξεκλειδώστε τα αρχεία XLS μέσω του C#" offSpacer="" %}}
+{{% blocks/products/pf/agp/code-block title="Ξεκλείδωμα XLS Αρχεία via Java" offSpacer="" %}}
 
 ```cs
 

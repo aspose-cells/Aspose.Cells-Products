@@ -1,7 +1,7 @@
 ---
-title: XLAM till TSV - Konvertera XLAM till TSV filer C++
-description: Aspose Excel. Konvertera gratis online XLAM till TSV sparaformat. C++ XLAM till TSV format. Spara XLAM som TSV i C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ XLAM to TSV saveformat., Free Online XLAM to TSV Converter]
+title: C++ XLAM till TSV - XLAM till TSV Omvandlare
+description: Aspose Excel. Konvertera XLAM till TSV snabbt och enkelt med Aspose.Cells. C++ XLAM till TSV. C++ Spara XLAM till 07611 till 07161. 07611 till 07161. 3481 med C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., Convert XLAM to TSV in C++., Save XLAM to TSV using C++., C++ XLAM to TSV saveformat., XLAM to TSV Converter., C++ Save XLAM as TSV]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Konvertera XLAM till TSV till C++" h2="Högpresterande XLAM till TSV konvertering med C++ bibliotek utan behov av Microsoft Excel, OpenOffice eller Adobe Acrobat installation." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" sourceAdditionalConversionTag="" additionalConversionTag="TSV" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., C++ Aspose.Cells., C++ XLAM to TSV saveformat., Free O
 
 {{% blocks/products/pf/agp/content h2="Konvertera XLAM till TSV med C++" %}}
 
-Hur konverterar jag XLAM till TSV? Med Aspose.Cells for C++ bibliotek kan du enkelt konvertera XLAM till TSV programmatiskt med några rader kod.[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) kan bygga plattformsoberoende applikationer med förmågan att generera, modifiera, konvertera, rendera och skriva ut alla Excel-filer. C++ Excel API konverterar inte bara mellan kalkylarksformat, det kan också rendera Excel-filer som bilder, PDF, HTML, ODS, ODS, CSV, 0761687481, 0761687481, vilket gör det till ett perfekt val, Pt utbyta dokument i branschstandard format. Du kan ladda ner den senaste versionen direkt, bara öppna[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) pakethanteraren, sök efter Aspose.Cells.Cpp och installera. Du kan också använda följande kommando från Package Manager Console.
+Hur konverterar jag XLAM till TSV? Med Aspose.Cells for C++ bibliotek kan du enkelt konvertera XLAM till TSV programmatiskt med några rader kod.[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) kan bygga plattformsoberoende applikationer med förmågan att generera, modifiera, konvertera, rendera och skriva ut alla Excel-filer. C++ Excel API konverterar inte bara mellan kalkylarksformat, den kan också rendera Excel-filer som bilder, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT och mer, vilket gör det till ett perfekt val att utbyta dokument i industristandardformat. Du kan ladda ner den senaste versionen direkt, bara öppna[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) pakethanteraren, sök efter Aspose.Cells.Cpp och installera. Du kan också använda följande kommando från Package Manager Console.
 
 {{% blocks/products/pf/agp/code-block title="Kommando" offSpacer="true" %}}
 
@@ -26,7 +26,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Spara XLAM till TSV på C++ Online gratis" %}}
+{{% blocks/products/pf/agp/content h2="Spara XLAM till TSV i C++" %}}
 
 Följande exempel visar hur man konverterar XLAM till TSV i C++.
 {{% blocks/products/pf/agp/text %}}
@@ -37,7 +37,7 @@ Följ de enkla stegen för att konvertera XLAM till TSV. Ladda upp din XLAM-fil 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Gratis app och provkod för att konvertera XLAM till TSV online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlam" outformat="tsv" IsLandingPage="true" language="cpp" %}}
+{{% cells-convert title="Exempelkod för att konvertera XLAM till TSV" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlam" outformat="tsv" IsLandingPage="true" language="cpp" %}}
 
 {{% blocks/products/pf/agp/content h2="Hur man konverterar XLAM till TSV via C++" %}}
 
@@ -49,7 +49,7 @@ Behöver du konvertera XLAM-filer till TSV programmatiskt? C++-utvecklare kan en
 
 1.  Installera 'Aspose.Cells for C++'.
 1.  Lägg till en biblioteksreferens (importera biblioteket) till ditt C++-projekt.
-1.  Ladda XLAM-filen med Factory::CreateIWorkbook.
+1.  Ladda XLAM-filen med arbetsbok.
 1.  Konvertera XLAM till TSV genom att anropa metoden Save().
 1.  Få konverteringsresultatet från XLAM till TSV.
 
@@ -82,6 +82,12 @@ Det finns tre alternativ för att installera "Aspose.Cells for C++" på ditt sys
 
 {{% /blocks/products/pf/agp/content %}}
 
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLAM" readMoreLink="https://docs.fileformat.com/spreadsheet/xlam/" >}}XLAM är en makroaktiverad tilläggsfil som används för att lägga till nya funktioner i kalkylblad. Ett tillägg är ett tilläggsprogram som kör ytterligare kod och ger ytterligare funktionalitet för kalkylblad. XLAM-filer lagras med tillägget .xlam. XLAM-filer är XML-baserade filer som liknar filformaten XLSM och XLSX och sparas med ZIP-komprimering för att minska den totala filstorleken.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="TSV" readMoreLink="https://docs.fileformat.com/spreadsheet/tsv/" >}}Filformatet Tab-Separated Values (TSV) representerar data separerade med flikar i vanligt textformat. Filformatet, liknande CSV, används för att organisera data på ett strukturerat sätt för att importera och exportera mellan olika applikationer. Formatet används främst för dataimport/export och utbyte i kalkylbladsapplikationer och databaser. Varje post i en TSV-fil finns i en enda rad med textfil där varje fältvärde separeras med ett tabbtecken. Medietypen för TSV filformat är text/tab-separerade-värden.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Andra omvandlingar som stöds" subTitle="Du kan också konvertera XLAM till många andra filformat, inklusive några som anges nedan." >}}
 
@@ -95,7 +101,6 @@ Det finns tre alternativ för att installera "Aspose.Cells for C++" på ditt sys
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xlam-to-pdf/" name="XLAM TILL PDF" description="Portabelt dokumentformat" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xlam-to-png/" name="XLAM TILL PNG" description="Bärbar nätverksgrafik" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xlam-to-svg/" name="XLAM TILL SVG" description="Skalbar vektorgrafik" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xlam-to-tiff/" name="XLAM TILL TIFF" description="Taggad bildformat" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xlam-to-tsv/" name="XLAM TILL TSV" description="Tab-separerade värden" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xlam-to-txt/" name="XLAM TILL TXT" description="Textdokument" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xlam-to-xls/" name="XLAM TILL XLS" description="Excel binärt format" >}}

@@ -2,6 +2,7 @@
 title: Infoga blockpilar i Excel via Java
 weight: 338
 description: Infoga objekt med Aspose.Cells' Java API utan någon programvara som Microsoft eller Open Office, Adobe PDF, etc.
+keywords: [Java Aspose.Cells., Java add block arrows., Java insert block arrows., Java create block arrows]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Infoga blockpilar i Excel via Java" h2="Infoga blockpilar med Aspose.Cells\' API utan någon programvara som Microsoft eller Open Office, Adobe PDF, etc." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSX" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="" fileiconsmall1="PPTX" fileiconsmall2="DOCX" fileiconsmall3="XLSX" fileiconsmall4="PDF" fileiconsmall5=" ODP " >}}
@@ -11,7 +12,7 @@ description: Infoga objekt med Aspose.Cells' Java API utan någon programvara so
 
 {{% blocks/products/pf/agp/content h2="Hur man infogar blockpilar i Excel-fil med hjälp av Java" %}}
 
-För att infoga blockpilar i excel-filen kommer vi att använda
+ För att infoga blockpilar i excel-filen kommer vi att använda
  [Aspose.Cells for Java](https://products.aspose.com/cells/java) 
  API som är en funktionsrik, kraftfull och lättanvänd API for Java plattform. Du kan ladda ner den senaste versionen direkt från
  [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) 
@@ -56,7 +57,7 @@ För att infoga blockpilar i excel-filen kommer vi att använda
 
 {{% /blocks/products/pf/agp/text %}}
 
-Instantiera ett arbetsboksobjekt.(eller->Läs in XLSX-filen med fullständig sökväg.)
++ Instantiera ett arbetsboksobjekt.(eller->Läs in XLSX-filen med fullständig sökväg.)
 + Välj kalkylblad via dess index.
  + Använd[lägga till metod](https://reference.aspose.com/cells/java/com.aspose.cells/shapecollection/#addAutoShape-int-int-int-int-int-int-int-) för att infoga blockpilar i det valda kalkylbladet
 + Spara arbetsboken i XLSX-format.
@@ -76,7 +77,7 @@ Instantiera ett arbetsboksobjekt.(eller->Läs in XLSX-filen med fullständig sö
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-Exempelkoden nedan visar hur man infogar en "högerpil". För fler typer, se "Översikt över blockpilarformtyper" nedan.
+Exempelkoden nedan visar hur man infogar en "högerpil". För fler typer, se "Översikt över formtyper av blockpil" nedan.
 
 {{% blocks/products/pf/agp/code-block title="Infoga blockpilar - Java" offSpacer="" %}}
 
@@ -151,7 +152,7 @@ Exempelkoden nedan visar hur man infogar en "högerpil". För fler typer, se "Ö
    <div class="col-lg-4">
     <img src="/cells/net/shapes/insert-block-arrows-to-excel/arrow_uturn.png" align="left" width="28" height="28">
     <p class="col-lg-10" style="font-size:0.8rem !important;">
- AutoShapeType.U_TURN_ARROW
+AutoShapeType.U_TURN_ARROW
     </p>
    </div>
    <div class="col-lg-4">
@@ -217,7 +218,7 @@ Exempelkoden nedan visar hur man infogar en "högerpil". För fler typer, se "Ö
    <div class="col-lg-4">
     <img src="/cells/net/shapes/insert-block-arrows-to-excel/arrow_right_callout.png" align="left" width="28" height="28">
     <p class="col-lg-10" style="font-size:0.8rem !important;">
-AutoShapeType.RIGHT_ARROW_CALLOUT
+ AutoShapeType.RIGHT_ARROW_CALLOUT
     </p>
    </div>
    <div class="col-lg-4">

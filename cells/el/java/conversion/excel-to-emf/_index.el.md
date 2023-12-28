@@ -1,7 +1,7 @@
 ---
-title: Java EXCEL σε EMF - Online Μετατροπέας EXCEL σε EMF
-description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Δωρεάν Online Java Μετατροπή EXCEL σε EMF saveformat. Μορφή Java EXCEL έως EMF. Αποθηκεύστε το EXCEL στο EMF Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java EXCEL to EMF saveformat., Free Online EXCEL to EMF Java., Java Convert EXCEL to EMF]
+title: Java EXCEL σε EMF - EXCEL σε EMF Μετατροπέας
+description: Aspose Excel. Μετατρέψτε το EXCEL σε EMF γρήγορα και εύκολα με το Aspose.Cells. Java EXCEL σε EMF. Java Αποθήκευση EXCEL σε EMF. Αποθηκεύστε το EXCEL χρησιμοποιώντας το Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Convert EXCEL to EMF in Java., Save EXCEL to EMF using Java., Java EXCEL to EMF saveformat., EXCEL to EMF Converter., Java Save EXCEL as EMF]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Μετατρέψτε το EXCEL σε EMF στο Java" h2="Βιβλιοθήκη υψηλής ταχύτητας Java για μετατροπή EXCEL σε EMF. Αυτή είναι μια επαγγελματική λύση λογισμικού για εισαγωγή και εξαγωγή EXCEL, EMF και πολλών άλλων μορφών χρησιμοποιώντας το Java." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="EMF" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java EXCEL to 
 
 {{% blocks/products/pf/agp/content h2="Μετατροπή EXCEL σε EMF χρησιμοποιώντας Java" %}}
 
- Πώς μπορώ να μετατρέψω το EXCEL σε EMF; Με τη βιβλιοθήκη Aspose.Cells for Java, μπορείτε εύκολα να μετατρέψετε το EXCEL σε EMF μέσω προγραμματισμού με λίγες γραμμές κώδικα.[Aspose.Cells for Java](https://products.aspose.com/cells/java) έχει τη δυνατότητα δημιουργίας εφαρμογών πολλαπλών πλατφορμών με δυνατότητα δημιουργίας, τροποποίησης, μετατροπής, απόδοσης και εκτύπωσης όλων των αρχείων Excel. Java Το Excel API όχι μόνο μετατρέπει μεταξύ μορφών υπολογιστικών φύλλων, αλλά μπορεί επίσης να αποδώσει αρχεία Excel ως εικόνες, PDF, HTML, ODS, CSV, 07616031481, CSV, 07616831481, δημιουργώντας περισσότερα τέλεια επιλογή για την ανταλλαγή εγγράφων σε βιομηχανικά πρότυπα μορφές. Μπορείτε να κατεβάσετε την τελευταία του έκδοση απευθείας από[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) και εγκαταστήστε το στο έργο σας που βασίζεται στο Maven προσθέτοντας τις ακόλουθες διαμορφώσεις στο pom.xml.
+ Πώς μπορώ να μετατρέψω το EXCEL σε EMF; Με τη βιβλιοθήκη Aspose.Cells for Java, μπορείτε εύκολα να μετατρέψετε το EXCEL σε EMF μέσω προγραμματισμού με λίγες γραμμές κώδικα.[Aspose.Cells for Java](https://products.aspose.com/cells/java)έχει τη δυνατότητα δημιουργίας εφαρμογών πολλαπλών πλατφορμών με δυνατότητα δημιουργίας, τροποποίησης, μετατροπής, απόδοσης και εκτύπωσης όλων των αρχείων Excel. Java Το Excel API όχι μόνο μετατρέπει μεταξύ μορφών υπολογιστικών φύλλων, αλλά μπορεί επίσης να αποδώσει αρχεία Excel ως εικόνες, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT και άλλα, καθιστώντας έτσι την τέλεια επιλογή για την ανταλλαγή εγγράφων σε βιομηχανικές τυποποιημένες μορφές. Μπορείτε να κατεβάσετε την τελευταία του έκδοση απευθείας από[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) και εγκαταστήστε το στο έργο σας που βασίζεται στο Maven προσθέτοντας τις ακόλουθες διαμορφώσεις στο pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Αποθήκη" offSpacer="true" %}}
 
@@ -45,7 +45,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java EXCEL to 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Αποθηκεύστε το EXCEL στο EMF στο Java Δωρεάν Online" %}}
+{{% blocks/products/pf/agp/content h2="Αποθήκευση EXCEL στο EMF στο Java" %}}
 
 Το ακόλουθο παράδειγμα δείχνει πώς να μετατρέψετε το EXCEL σε EMF στο Java.
 {{% blocks/products/pf/agp/text %}}
@@ -56,7 +56,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java EXCEL to 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Δωρεάν εφαρμογή και δείγμα κώδικα για μετατροπή EXCEL σε EMF Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsx" outformat="emf" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Δείγμα κώδικα για μετατροπή EXCEL σε EMF" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsx" outformat="emf" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="Πώς να μετατρέψετε το EXCEL σε EMF via Java" %}}
 

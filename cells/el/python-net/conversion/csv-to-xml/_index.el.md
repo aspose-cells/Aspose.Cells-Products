@@ -1,7 +1,7 @@
 ---
-title: Python CSV σε XML - Online Μετατροπέας CSV σε XML
-description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Δωρεάν Online Python Μετατροπή CSV σε μορφή αποθήκευσης XML. Python CSV σε μορφή XML. Αποθηκεύστε το CSV στο XML Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python CSV to XML saveformat., Free Online CSV to XML Python., Python Convert CSV to XML]
+title: Python CSV σε XML - CSV σε XML Μετατροπέας
+description: Aspose Excel. Μετατρέψτε το CSV σε XML γρήγορα και εύκολα με το Aspose.Cells. Python CSV σε XML. Python Αποθήκευση CSV σε XML. Αποθηκεύστε το CSV ως XML χρησιμοποιώντας το Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Convert CSV to XML in Python., Save CSV to XML using Python., Python CSV to XML saveformat., CSV to XML Converter., Python Save CSV as XML]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Μετατρέψτε το CSV σε XML στο Python" h2="Βιβλιοθήκη υψηλής ταχύτητας Python για μετατροπή CSV σε XML. Χρησιμοποιήστε τη μετατροπή excel API για να αναπτύξετε λογισμικό υψηλού επιπέδου, ανεξάρτητο από πλατφόρμα στο Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="XML" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,12 +12,12 @@ keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python CSV
 
 {{% blocks/products/pf/agp/content h2="Μετατρέψτε το CSV σε XML στο Python" %}}
 
- Πώς μπορώ να μετατρέψω το CSV σε XML; Με το Aspose.Cells for Python μέσω της βιβλιοθήκης NET, μπορείτε εύκολα να μετατρέψετε το CSV σε XML μέσω προγραμματισμού με λίγες γραμμές κώδικα.[Aspose.Cells for Python μέσω NET](https://pypi.org/project/aspose-cells-python/)έχει τη δυνατότητα δημιουργίας εφαρμογών πολλαπλών πλατφορμών με δυνατότητα δημιουργίας, τροποποίησης, μετατροπής, απόδοσης και εκτύπωσης όλων των αρχείων Excel. Python Το Excel API όχι μόνο μετατρέπει μεταξύ μορφών υπολογιστικών φύλλων, αλλά μπορεί επίσης να αποδώσει αρχεία Excel ως εικόνες, PDF, HTML, ODS, CSV, 07616031481, CSV, 07616831481, δημιουργώντας περισσότερα τέλεια επιλογή για την ανταλλαγή εγγράφων σε βιομηχανικά πρότυπα μορφές.
+ Πώς μπορώ να μετατρέψω το CSV σε XML; Με το Aspose.Cells for Python μέσω της βιβλιοθήκης NET, μπορείτε εύκολα να μετατρέψετε το CSV σε XML μέσω προγραμματισμού με λίγες γραμμές κώδικα.[Aspose.Cells for Python μέσω NET](https://pypi.org/project/aspose-cells-python/)έχει τη δυνατότητα δημιουργίας εφαρμογών πολλαπλών πλατφορμών με δυνατότητα δημιουργίας, τροποποίησης, μετατροπής, απόδοσης και εκτύπωσης όλων των αρχείων Excel. Python Το Excel API όχι μόνο μετατρέπει μεταξύ μορφών υπολογιστικών φύλλων, αλλά μπορεί επίσης να αποδώσει αρχεία Excel ως εικόνες, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT και άλλα, καθιστώντας έτσι την τέλεια επιλογή για την ανταλλαγή εγγράφων σε βιομηχανικές τυποποιημένες μορφές.
 
 {{% /blocks/products/pf/agp/content %}}
 
 
-{{% blocks/products/pf/agp/content h2="Αποθηκεύστε το CSV σε XML στο Python Δωρεάν Online" %}}
+{{% blocks/products/pf/agp/content h2="Αποθηκεύστε το CSV σε XML στο Python" %}}
 
 Το ακόλουθο παράδειγμα δείχνει πώς να μετατρέψετε το CSV σε XML στο Python via NET.
 {{% blocks/products/pf/agp/text %}}
@@ -28,7 +28,7 @@ keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python CSV
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Δωρεάν εφαρμογή και δείγμα κώδικα για μετατροπή CSV σε XML Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="csv" outformat="xml" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Δείγμα κώδικα για μετατροπή CSV σε XML" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="csv" outformat="xml" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="Πώς να μετατρέψετε το CSV σε XML" %}}
 
@@ -52,7 +52,7 @@ keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python CSV
 Φιλοξενούμε τα πακέτα μας Python στα αποθετήρια PyPi.
 
 {{% blocks/products/pf/agp/text %}}
-Εγκαταστήστε το Aspose.Cells for Python από<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , χρησιμοποιήστε την εντολή ως:<code>$ pip install aspose-cells-python</code>.
+ Εγκαταστήστε το Aspose.Cells for Python από<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , χρησιμοποιήστε την εντολή ως:<code>$ pip install aspose-cells-python</code>.
 {{% /blocks/products/pf/agp/text %}}
 
 {{% blocks/products/pf/agp/text %}}

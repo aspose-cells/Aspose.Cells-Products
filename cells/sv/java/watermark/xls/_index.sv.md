@@ -1,7 +1,8 @@
 ---
-title:  Vattenstämpel XLS dokument via Java
+title: Vattenstämpel XLS dokument via Java
 weight: 2210
 description: Java exempelkod för att lägga till eller ta bort vattenstämpel till XLS-filen på Java Runtime Environment för JSP/JSF Application och Desktop Applications.
+keywords: [Java Aspose.Cells., Java add watermark to xls file., Java insert watermark to xls file., Java create watermark in xls file., remove watermark from xls file using Java., Java operate watermark in xls file., Java access watermark in xls file]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Lägg till textvattenstämpel till XLS via Java" h2="Bygg dina egna Java-appar för att vattenstämpla XLS-filer med hjälp av API:er på serversidan." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLS" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="" fileiconsmall1="PPTX" fileiconsmall2="DOCX" fileiconsmall3="XLSX" fileiconsmall4="PDF" fileiconsmall5=" ODP " >}}

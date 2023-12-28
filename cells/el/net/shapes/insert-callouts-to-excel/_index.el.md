@@ -1,7 +1,8 @@
 ---
 title:  Εισαγάγετε μηνύματα προώθησης στο Excel via .NET
 weight: 360
-description: C# πηγαίος κώδικας για την εισαγωγή Callouts στο Excel στις πλατφόρμες .NET Framework, .NET Core, Mono ή Xamarin.
+description: C# Δείγμα κώδικα για προσθήκη ή εισαγωγή Callouts στο Excel χρησιμοποιώντας τη Βιβλιοθήκη .NET. Χρησιμοποιήστε αυτόν τον κώδικα για να δημιουργήσετε μηνύματα προώθησης στο MS Excel εντός των VB.NET, Asp.NET ή οποιασδήποτε εφαρμογής που βασίζεται στο .NET.
+keywords: [C# Aspose.Cells., c# add Callouts shape., c# insert Callouts shape., c# create Callouts shape]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Εισαγάγετε μηνύματα προώθησης στο Excel via .NET" h2="Εισαγάγετε μηνύματα προώθησης χρησιμοποιώντας το Aspose.Cells\' API χωρίς λογισμικό όπως Microsoft ή Open Office, Adobe PDF κ.λπ." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="XLSX" >}}
@@ -41,9 +42,9 @@ PM> Install-Package Aspose.Cells
 
 {{% /blocks/products/pf/agp/text %}}
 
-Δημιουργία αντικειμένου βιβλίου εργασίας.(ή->Φορτώστε το αρχείο XLSX με πλήρη διαδρομή.)
++ Δημιουργία αντικειμένου βιβλίου εργασίας.(ή->Φορτώστε το αρχείο XLSX με πλήρη διαδρομή.)
 + Επιλέξτε Φύλλο εργασίας μέσω του ευρετηρίου του.
- + Χρησιμοποιήστε το[μέθοδος προσθήκης](https://reference.aspose.com/cells/net/aspose.cells.drawing/shapecollection/addautoshape)για να εισαγάγετε μηνύματα προώθησης στο επιλεγμένο φύλλο εργασίας
+ + Χρησιμοποιήστε το[μέθοδος προσθήκης](https://reference.aspose.com/cells/net/aspose.cells.drawing/shapecollection/addautoshape) για να εισαγάγετε μηνύματα προώθησης στο επιλεγμένο φύλλο εργασίας
 + Αποθήκευση βιβλίου εργασίας σε μορφή XLSX.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
@@ -76,7 +77,7 @@ PM> Install-Package Aspose.Cells
  <div class="row">
   <div class="container">
    <h2 class="pr-ft">
-Επισκόπηση των τύπων προώθησης
+ Επισκόπηση των τύπων προώθησης
    </h2>
    <div class="col-lg-4">
     <img src="/cells/net/shapes/insert-callouts-to-excel/speech_bubble_rectangle.png" align="left" width="28" height="28">
@@ -111,7 +112,7 @@ PM> Install-Package Aspose.Cells
    <div class="col-lg-4">
     <img src="/cells/net/shapes/insert-callouts-to-excel/bent_line.png" align="left" width="28" height="28">
     <p class="col-lg-10" style="font-size:0.8rem !important;">
- AutoShapeType.LineCalloutWithBorder2
+AutoShapeType.LineCalloutWithBorder2
     </p>
    </div>
    <div class="col-lg-4">
@@ -171,7 +172,7 @@ PM> Install-Package Aspose.Cells
    <div class="col-lg-4">
     <img src="/cells/net/shapes/insert-callouts-to-excel/double_bent_line_with_border_and_accent_bar.png" align="left" width="28" height="28">
     <p class="col-lg-10" style="font-size:0.8rem !important;">
-AutoShapeType.LineCalloutWithBorderAndAccentBar3
+ AutoShapeType.LineCalloutWithBorderAndAccentBar3
     </p>
    </div>
   </div>
@@ -187,7 +188,7 @@ AutoShapeType.LineCalloutWithBorderAndAccentBar3
 
 {{% blocks/products/pf/agp/content h2="Σχετικά με Aspose.Cells for .NET API" %}}
 
- Aspose.Cells API μπορεί να χρησιμοποιηθεί για τη δημιουργία, επεξεργασία, μετατροπή και απόδοση μορφών Excel Microsoft σε διαφορετικές μορφές. Επιπλέον, μπορεί να χρησιμοποιηθεί για ολοκληρωμένη χαρτογράφηση, κλιμακούμενη αναφορά και αξιόπιστους υπολογισμούς εντός εφαρμογών λογισμικού. Το Aspose.Cells είναι ένα αυτόνομο API και δεν απαιτεί λογισμικό όπως το Microsoft ή το OpenOffice.
+Aspose.Cells API μπορεί να χρησιμοποιηθεί για τη δημιουργία, επεξεργασία, μετατροπή και απόδοση μορφών Excel Microsoft σε διαφορετικές μορφές. Επιπλέον, μπορεί να χρησιμοποιηθεί για ολοκληρωμένη χαρτογράφηση, κλιμακούμενη αναφορά και αξιόπιστους υπολογισμούς εντός εφαρμογών λογισμικού. Το Aspose.Cells είναι ένα αυτόνομο API και δεν απαιτεί λογισμικό όπως το Microsoft ή το OpenOffice.
 
 {{% /blocks/products/pf/agp/content %}}
 

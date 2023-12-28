@@ -2,6 +2,7 @@
 title:  Sök ODS dokument utan att öppna via C++
 weight: 3300
 description: C++ exempelkod för att söka efter ord med mönster i filen ODS på C++ Runtime Environment för Windows 32 bitar, Windows 64 bitar och Linux 64 bitar.
+keywords: [C++ Aspose.Cells., C++ search words with pattern in ods file., C++ find words with pattern in ods file., C++ search string with pattern in ods file., C++ find words with pattern in ods file., C++ search words in ods file., C++ find words in ods file., C++ search string in ods file., C++ find string in ods file]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Sök ODS-format i C++" h2="Inbyggd och högpresterande ODS dokumentsökning med hjälp av Aspose.Cells for C++ API:er på serversidan, utan användning av någon programvara som Microsoft eller Adobe PDF." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" sourceAdditionalConversionTag="" additionalConversionTag="" pfName="Aspose.Cells" subTitlepfName="for C++" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="ODS" >}}
@@ -41,11 +42,11 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/text %}}
 
-Ladda ODS-filen genom att instansiera en IWorkbook-klass.
-+ Instantiera klass IReplaceOptions.
++ Ladda ODS-filen genom att instansiera en Workbook-klass.
++ Instantiate ReplaceOptions-klassen.
 + Ställ in önskat mönster som SetCaseSensitive(boolvärde), SetMatchEntireCellContents(boolvärde) .
-+ Använd metoden IWorkbook->Ersätt(..) med relevanta alternativ.
-+ Spara ODS-filen med metoden IWorkbook->Spara(.).
+Använd Workbook::Replace(...)-metoden med relevanta alternativ.
++ Spara ODS-filen med Workbook::Save(...)-metoden.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -66,29 +67,33 @@ Ladda ODS-filen genom att instansiera en IWorkbook-klass.
 
 ```cs
 
+Aspose::Cells::Startup();
+
 // Source directory path.
-StringPtr srcDir = new String("SourcePath\\");
+U16String srcDir(u"SourcePath\\");
 
 // Output directory path.
-StringPtr outDir = new String("OutputPath\\");
+U16String outDir(u"OutputPath\\");
 
 // Load ODS file
-intrusive_ptr<IWorkbook>  wkb = Factory::CreateIWorkbook(srcDir->StringAppend(new String("sourceFile.ods")));
+Workbook  wkb(srcDir + u"sourceFile.ods");
 
 // Create an instance of the IReplaceOptions class
-intrusive_ptr<IReplaceOptions> replaceOptions = Factory::CreateIReplaceOptions();
+ReplaceOptions replaceOptions;
 
 // Set case sensitivity option
-replaceOptions->SetCaseSensitive(false);
+replaceOptions.SetCaseSensitive(false);
 
 // Set text matching option
-replaceOptions->SetMatchEntireCellContents(false);
+replaceOptions.SetMatchEntireCellContents(false);
 
 // Replace text
-wkb->Replace(new String("Text to find"), new String("Text replacement"), replaceOptions);
+wkb.Replace(u"Text to find", u"Text replacement", replaceOptions);
 
 // Save as ODS file
-wkb->Save(outDir->StringAppend(new String("outputFile.ods")));  
+wkb.Save(outDir + u"outputFile.ods");
+
+Aspose::Cells::Cleanup();
 
 ```
 

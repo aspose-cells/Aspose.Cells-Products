@@ -1,7 +1,7 @@
 ---
 title: Skapa NUMBERS - Skapa NUMBERS-fil i Python
-description: Aspose Excel. Python Skapa NUMMER-fil. Skapa NUMMER Python. Python NUMMER Skapare. Skapa NUMBERS i Python. Skapa NUMBERS-fil med Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Create NUMBERS Python., Python NUMBERS Creater., Create NUMBERS file in Python., Generate NUMBERS file in Python]
+description:  Aspose Excel. Python Skapa NUMBERS-fil snabbt och enkelt med Aspose.Cells. Skapa NUMBERS-fil med Python. Skapa NUMBERS i Python. Python NUMBERS Creater.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Create NUMBERS file., Generate NUMBERS file in Python., Create NUMBERS file using Python., Write data to NUMBERS file via Python., Create a NUMBERS file in Python., Python Generate a NUMBERS file., Python NUMBERS Creater]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Skapa NUMBERS-fil i Python" h2="Höghastighets Python-bibliotek för att skapa NUMBERS-fil. Detta är en professionell mjukvarulösning för att importera och exportera XLSX, PDF och många andra format med Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="NUMBERS" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -11,7 +11,7 @@ keywords: [Aspose Excel., Python Aspose.Cells., Create NUMBERS Python., Python N
 
 {{% blocks/products/pf/agp/content h2="Skapa NUMBERS-fil med Python" %}}
 
-Hur skapar man en NUMBERS-fil? Med Aspose.Cells for Python via Java-biblioteket kan du enkelt skapa NUMBERS-fil programmatiskt med några rader kod.[Aspose.Cells for Python](https://pypi.org/project/aspose-cells)kan bygga plattformsoberoende applikationer med förmågan att generera, modifiera, konvertera, rendera och skriva ut alla Excel-filer. Python Excel API konverterar inte bara mellan kalkylarksformat, det kan också rendera Excel-filer som bilder, PDF, HTML, ODS, ODS, CSV, 0761687481, 0761687481, vilket gör det till ett perfekt val, Pt utbyta dokument i branschstandard format.
+ Hur skapar man en NUMBERS-fil? Med Aspose.Cells for Python via Java-biblioteket kan du enkelt skapa NUMBERS-fil programmatiskt med några rader kod.[Aspose.Cells for Python](https://pypi.org/project/aspose-cells)kan bygga plattformsoberoende applikationer med förmågan att generera, modifiera, konvertera, rendera och skriva ut alla Excel-filer. Python Excel API konverterar inte bara mellan kalkylarksformat, den kan också rendera Excel-filer som bilder, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT och mer, vilket gör det till ett perfekt val att utbyta dokument i industristandardformat.
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -80,7 +80,7 @@ Det finns tre alternativ för att installera "Aspose.Cells for Python via Java" 
 
 {{% blocks/products/pf/agp/text %}}
 
-Aspose.Cells for Python via Java är plattformsoberoende API och kan användas på vilken plattform som helst (Windows, Linux och MacOS), se bara till att systemet har Java 1.8 eller högre,[Python](https://www.python.org/downloads/) 3,5 eller högre.
+ Aspose.Cells for Python via Java är plattformsoberoende API och kan användas på vilken plattform som helst (Windows, Linux och MacOS), se bara till att systemet har Java 1.8 eller högre,[Python](https://www.python.org/downloads/) 3,5 eller högre.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -91,7 +91,7 @@ Aspose.Cells for Python via Java är plattformsoberoende API och kan användas p
 
 <!-- aboutfile Starts -->
     {{< blocks/products/pf/agp/about-file-section >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="NUMBERS" readMoreLink="https://docs.fileformat.com/spreadsheet/numbers/" >}}Filerna med tillägget .numbers klassificeras som kalkylbladsfiltyp, det är därför de liknar .xlsx-filerna; men Numbers-filerna skapas med hjälp av Apple iWork Numbers kalkylprogram. Apple iWork Numbers är en enhetsprogramvara för iWork Productivity Suite. iWork Productivity Suite motsvarar Microsoft Office Suite som används på Windows-datorer. Därför kan vi säga att Numbers som är tillgänglig för MacOS också är en konkurrent till Microsoft Excel. På samma sätt, Microsoft Excel, NUMBERS-filen kan också innehålla tabeller, diagram och formler.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="NUMBERS" readMoreLink="https://docs.fileformat.com/spreadsheet/numbers/" >}} Filerna med tillägget .numbers klassificeras som kalkylbladsfiltyp, det är därför de liknar .xlsx-filerna; men Numbers-filerna skapas med hjälp av Apple iWork Numbers kalkylprogram. Apple iWork Numbers är en enhetsprogramvara för iWork Productivity Suite. iWork Productivity Suite motsvarar Microsoft Office Suite som används på Windows-datorer. Därför kan vi säga att Numbers som är tillgänglig för MacOS också är en konkurrent till Microsoft Excel. På samma sätt, Microsoft Excel, NUMBERS-filen kan också innehålla tabeller, diagram och formler.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
     {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->
 

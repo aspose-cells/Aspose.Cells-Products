@@ -2,6 +2,7 @@
 title:  Εξαγωγή κειμένου και εικόνων από το έγγραφο ODS via .NET
 weight: 6970
 description: C# πηγαίος κώδικας για εξαγωγή κειμένου και εικόνων από το αρχείο ODS στο .NET Framework, .NET Core, Mono ή Xamarin Platforms.
+keywords: [C# Aspose.Cells., c# Extract text and images from ODS file., c# How to Parse ODS File., c# Extract text from ODS file., Extract images from ODS file using C#]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Ανάλυση ODS Μορφές σε C#" h2="Εγγενής και υψηλής απόδοσης ανάλυση εγγράφων ODS με χρήση API Aspose.Cells for .NET από την πλευρά του διακομιστή, χωρίς τη χρήση οποιουδήποτε λογισμικού όπως το Microsoft ή το Adobe PDF." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="ODS" >}}

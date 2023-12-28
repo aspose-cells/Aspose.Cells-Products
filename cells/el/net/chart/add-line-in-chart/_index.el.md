@@ -1,6 +1,7 @@
 ---
 title:  Προσθέστε μια γραμμή στο γράφημα μέσω C#
 description: C# Δείγμα κώδικα για την προσθήκη γραμμής στο γράφημα στο Excel χρησιμοποιώντας τη Βιβλιοθήκη .NET. Χρησιμοποιήστε αυτόν τον κώδικα για να προσθέσετε μια γραμμή στο γράφημα στο MS Excel εντός των VB.NET, Asp.NET ή οποιασδήποτε εφαρμογής που βασίζεται στο .NET.
+keywords: [C# Aspose.Cells., c# add a line in chart., c# insert a line in chart., c# create a line in chart]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Προσθέστε μια γραμμή στο γράφημα μέσω C#" h2="Δημιουργία εγγενούς και υψηλής απόδοσης MS Excel μέσω προγραμματισμού χρησιμοποιώντας API .NET από την πλευρά του διακομιστή." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSX" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -27,7 +28,7 @@ description: C# Δείγμα κώδικα για την προσθήκη γρα�
 1.  Προσθέστε ορισμένα δεδομένα στα κελιά του φύλλου εργασίας με το[**Cell**](https://reference.aspose.com/cells/net/aspose.cells/cell) του αντικειμένου[**PutValue**](https://reference.aspose.com/cells/net/aspose.cells/cell/methods/putvalue/index)μέθοδος.
  Αυτό θα χρησιμοποιηθεί ως πηγή δεδομένων για το γράφημα.
 1.  Προσθέστε ένα γράφημα στο φύλλο εργασίας καλώντας το[**Διαγράμματα**](https://reference.aspose.com/cells/net/aspose.cells.charts/chartcollection) της συλλογής[**Προσθήκη**](https://reference.aspose.com/cells/net/aspose.cells.charts/chartcollection/methods/add) μέθοδος, ενθυλακωμένη στο[**Φύλλο εργασίας**](https://reference.aspose.com/cells/net/aspose.cells/worksheet)αντικείμενο.
-1.  Πρόσβαση στο νέο[**Διάγραμμα**](https://reference.aspose.com/cells/net/aspose.cells.charts/chart)αντικείμενο από τη συλλογή γραφημάτων περνώντας το ευρετήριό του, καθορίστε την πηγή δεδομένων του γραφήματος καλώντας[**Chart.SetChartDataRange**](https://https://reference.aspose.com/cells/net/aspose.cells.charts/chart/methods/setchartdatarange).
+1.  Πρόσβαση στο νέο[**Διάγραμμα**](https://reference.aspose.com/cells/net/aspose.cells.charts/chart) αντικείμενο από τη συλλογή γραφημάτων περνώντας το ευρετήριό του, καθορίστε την πηγή δεδομένων του γραφήματος καλώντας[**Chart.SetChartDataRange**](https://https://reference.aspose.com/cells/net/aspose.cells.charts/chart/methods/setchartdatarange).
 1.  Υπολογίστε τη θέση του γραφήματος καλώντας[**Υπολογίζω**](https://https://reference.aspose.com/cells/net/aspose.cells.charts/chart/methods/Calculate) μέθοδος.
 1.  Πρόσθεσε ένα[**Γραμμή**](https://reference.aspose.com/cells/net/aspose.cells.drawing/shape/properties/msodrawingtype) Σχηματίστε καλώντας τη μέθοδο Chart.Shapes.AddShapeInChartByScale.
 1. Ορίστε τη μορφή γραμμής
@@ -38,7 +39,7 @@ description: C# Δείγμα κώδικα για την προσθήκη γρα�
 
 {{% blocks/products/pf/agp/text %}}
 
- Απλώς βεβαιωθείτε ότι το σύστημα έχει Microsoft Windows ή ένα συμβατό λειτουργικό σύστημα με .NET Framework, .NET Core, Windows Azure, Mono ή Xamarin πλατφόρμες, καθώς και περιβάλλον ανάπτυξης 80161 Studio3, όπως 80161 Studio6.
+Απλώς βεβαιωθείτε ότι το σύστημα έχει Microsoft Windows ή ένα συμβατό λειτουργικό σύστημα με .NET Framework, .NET Core, Windows Azure, Mono ή Xamarin πλατφόρμες, καθώς και περιβάλλον ανάπτυξης 80161 Studio3, όπως 80161 Studio6.
 
 {{% /blocks/products/pf/agp/text %}}
 

@@ -2,6 +2,7 @@
 title: Εισαγάγετε σχόλια στο αρχείο XLS μέσω Python
 url: /el/python-java/comments/insert-comments-to-xls/ 
 description: Εισαγάγετε σχόλια στο XLS χρησιμοποιώντας το Python. Χρησιμοποιήστε το παράδειγμα API για να εισαγάγετε σχόλια στην εφαρμογή Python.
+keywords: [Python Aspose.Cells., add XLS comments., insert XLS comments., access XLS comments., remove XLS comments., delete XLS comments., add comments in XLS., insert comments in XLS., access comments in XLS., remove comments in XLS., delete comments in XLS]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Εισαγάγετε σχόλια στο αρχείο XLS μέσω Python" h2="Δημιουργήστε τη δική σας εφαρμογή Python για να χειριστείτε σχόλια και συγγραφείς σε αρχεία εγγράφων χρησιμοποιώντας API από την πλευρά του διακομιστή." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLS" pfName="Aspose.Cells" subTitlepfName="for Python" downloadUrl="" fileiconsmall1="XLS" fileiconsmall2="XLSB" fileiconsmall3="XLSX" fileiconsmall4="XLSM" fileiconsmall5="ODS" >}}
@@ -11,7 +12,7 @@ description: Εισαγάγετε σχόλια στο XLS χρησιμοποιώ
 
 {{% blocks/products/pf/agp/content h2="Εισαγάγετε σχόλια στο αρχείο XLS χρησιμοποιώντας Python" %}}
 
- Με τη βιβλιοθήκη Aspose.Cells for Python, μπορείτε εύκολα να εισαγάγετε σχόλια στο αρχείο XLS μέσω προγραμματισμού με μερικές γραμμές κώδικα.[Aspose.Cells for Python](https://pypi.org/project/aspose-cells) έχει τη δυνατότητα δημιουργίας εφαρμογών πολλαπλών πλατφορμών με δυνατότητα δημιουργίας, τροποποίησης, μετατροπής, απόδοσης και εκτύπωσης όλων των αρχείων Excel. Python Το Excel API όχι μόνο μετατρέπει μεταξύ μορφών υπολογιστικών φύλλων, αλλά μπορεί επίσης να αποδώσει αρχεία Excel ως εικόνες, PDF, HTML, ODS, CSV, 07616031481, CSV, 07616831481, δημιουργώντας περισσότερα τέλεια επιλογή για την ανταλλαγή εγγράφων σε βιομηχανικά πρότυπα μορφές. Μπορείτε να εγκαταστήσετε το Aspose.Cells for Python από<a href="https://pypi.org/project/aspose-cells/">pypi</a> , χρησιμοποιήστε την εντολή ως:<code>$ pip install aspose-cells</code>.
+ Με τη βιβλιοθήκη Aspose.Cells for Python, μπορείτε εύκολα να εισαγάγετε σχόλια στο αρχείο XLS μέσω προγραμματισμού με μερικές γραμμές κώδικα.[Aspose.Cells for Python](https://pypi.org/project/aspose-cells) έχει τη δυνατότητα δημιουργίας εφαρμογών πολλαπλών πλατφορμών με δυνατότητα δημιουργίας, τροποποίησης, μετατροπής, απόδοσης και εκτύπωσης όλων των αρχείων Excel. Python Το Excel API όχι μόνο μετατρέπει μεταξύ μορφών υπολογιστικών φύλλων, αλλά μπορεί επίσης να αποδώσει αρχεία Excel ως εικόνες, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT και άλλα, καθιστώντας έτσι την τέλεια επιλογή για την ανταλλαγή εγγράφων σε βιομηχανικές τυποποιημένες μορφές. Μπορείτε να εγκαταστήσετε το Aspose.Cells for Python via Java από<a href="https://pypi.org/project/aspose-cells/">pypi</a> , χρησιμοποιήστε την εντολή ως:<code>$ pip install aspose-cells</code>.
 
 
 {{% /blocks/products/pf/agp/content %}}
@@ -26,7 +27,7 @@ description: Εισαγάγετε σχόλια στο XLS χρησιμοποιώ
 
 -  Εγκαταστήστε το Java 1.8 ή μεταγενέστερο και προσθέστε το στη μεταβλητή περιβάλλοντος PATH, για παράδειγμα:<code>PATH=C:\Program Files\Java\jdk1.8.0_131;</code>.
 -  Εγκαθιστώ[Python](https://www.python.org/downloads/) 3,5 ή υψηλότερο.
-- Εγκαταστήστε το Aspose.Cells for Python από<a href="https://pypi.org/project/aspose-cells/">pypi</a> , χρησιμοποιήστε την εντολή ως:<code>$ pip install aspose-cells</code>.
+-  Εγκαταστήστε το Aspose.Cells for Python από<a href="https://pypi.org/project/aspose-cells/">pypi</a> , χρησιμοποιήστε την εντολή ως:<code>$ pip install aspose-cells</code>.
 
 
 {{% /blocks/products/pf/agp/content %}}

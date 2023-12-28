@@ -1,7 +1,7 @@
 ---
-title: Python XLSX έως XLSM - Online XLSX έως XLSM Μετατροπέας
-description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Δωρεάν Online Python Μετατροπή XLSX σε XLSM αποθήκευση μορφής. Μορφή Python XLSX έως XLSM. Αποθηκεύστε XLSX στο XLSM Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python XLSX to XLSM saveformat., Free Online XLSX to XLSM Python., Python Convert XLSX to XLSM]
+title: Python XLSX έως XLSM - XLSX έως XLSM Μετατροπέας
+description: Aspose Excel. Μετατρέψτε το XLSX στο XLSM γρήγορα και εύκολα με το Aspose.Cells. Python XLSX σε XLSM. Python Αποθήκευση 076183419 ως 076183419 στο 076183419 στο 076183419 στο XLSX. 113481 χρησιμοποιώντας Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Convert XLSX to XLSM in Python., Save XLSX to XLSM using Python., Python XLSX to XLSM saveformat., XLSX to XLSM Converter., Python Save XLSX as XLSM]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Μετατροπή XLSX σε XLSM στο Python" h2="Βιβλιοθήκη υψηλής ταχύτητας Python για μετατροπή XLSX σε XLSM. Χρησιμοποιήστε τη μετατροπή excel API για να αναπτύξετε λογισμικό υψηλού επιπέδου, ανεξάρτητο από πλατφόρμα στο Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSM" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,12 +12,12 @@ keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python XLS
 
 {{% blocks/products/pf/agp/content h2="Μετατροπή XLSX σε XLSM στο Python" %}}
 
- Πώς μπορώ να μετατρέψω το XLSX σε XLSM; Με το Aspose.Cells for Python μέσω της βιβλιοθήκης NET, μπορείτε εύκολα να μετατρέψετε το XLSX σε XLSM μέσω προγραμματισμού με λίγες γραμμές κώδικα.[Aspose.Cells for Python μέσω NET](https://pypi.org/project/aspose-cells-python/)έχει τη δυνατότητα δημιουργίας εφαρμογών πολλαπλών πλατφορμών με δυνατότητα δημιουργίας, τροποποίησης, μετατροπής, απόδοσης και εκτύπωσης όλων των αρχείων Excel. Python Το Excel API όχι μόνο μετατρέπει μεταξύ μορφών υπολογιστικών φύλλων, αλλά μπορεί επίσης να αποδώσει αρχεία Excel ως εικόνες, PDF, HTML, ODS, CSV, 07616031481, CSV, 07616831481, δημιουργώντας περισσότερα τέλεια επιλογή για την ανταλλαγή εγγράφων σε βιομηχανικά πρότυπα μορφές.
+ Πώς μπορώ να μετατρέψω το XLSX σε XLSM; Με το Aspose.Cells for Python μέσω της βιβλιοθήκης NET, μπορείτε εύκολα να μετατρέψετε το XLSX σε XLSM μέσω προγραμματισμού με λίγες γραμμές κώδικα.[Aspose.Cells for Python μέσω NET](https://pypi.org/project/aspose-cells-python/)έχει τη δυνατότητα δημιουργίας εφαρμογών πολλαπλών πλατφορμών με δυνατότητα δημιουργίας, τροποποίησης, μετατροπής, απόδοσης και εκτύπωσης όλων των αρχείων Excel. Python Το Excel API όχι μόνο μετατρέπει μεταξύ μορφών υπολογιστικών φύλλων, αλλά μπορεί επίσης να αποδώσει αρχεία Excel ως εικόνες, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT και άλλα, καθιστώντας έτσι την τέλεια επιλογή για την ανταλλαγή εγγράφων σε βιομηχανικές τυποποιημένες μορφές.
 
 {{% /blocks/products/pf/agp/content %}}
 
 
-{{% blocks/products/pf/agp/content h2="Αποθήκευση XLSX έως XLSM στο Python Δωρεάν Online" %}}
+{{% blocks/products/pf/agp/content h2="Αποθήκευση XLSX έως XLSM στο Python" %}}
 
 Το ακόλουθο παράδειγμα δείχνει πώς να μετατρέψετε το XLSX σε XLSM στο Python via NET.
 {{% blocks/products/pf/agp/text %}}
@@ -28,7 +28,7 @@ keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python XLS
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Δωρεάν εφαρμογή και δείγμα κώδικα για μετατροπή XLSX σε XLSM Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsx" outformat="xlsm" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Δείγμα κώδικα για μετατροπή XLSX σε XLSM" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsx" outformat="xlsm" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="Πώς να μετατρέψετε το XLSX σε XLSM" %}}
 
@@ -52,7 +52,7 @@ keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python XLS
 Φιλοξενούμε τα πακέτα μας Python στα αποθετήρια PyPi.
 
 {{% blocks/products/pf/agp/text %}}
-Εγκαταστήστε το Aspose.Cells for Python από<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , χρησιμοποιήστε την εντολή ως:<code>$ pip install aspose-cells-python</code>.
+ Εγκαταστήστε το Aspose.Cells for Python από<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , χρησιμοποιήστε την εντολή ως:<code>$ pip install aspose-cells-python</code>.
 {{% /blocks/products/pf/agp/text %}}
 
 {{% blocks/products/pf/agp/text %}}

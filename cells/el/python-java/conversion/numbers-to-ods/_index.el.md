@@ -1,7 +1,7 @@
 ---
-title: Python NUMBERS to ODS - Online NUMBERS to ODS Converter
-description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Δωρεάν Online Python Μετατροπή ΑΡΙΘΜΩΝ σε ODS saveformat. Μορφή Python NUMBERS έως ODS. Αποθηκεύστε NUMBERS στο ODS Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python NUMBERS to ODS saveformat., Free Online NUMBERS to ODS Python., Python Convert NUMBERS to ODS]
+title: Python NUMBERS to ODS - NUMBERS to ODS Converter
+description: Aspose Excel. Μετατρέψτε τους ΑΡΙΘΜΟΥΣ σε ODS γρήγορα και εύκολα με Aspose.Cells. Python NUMBERS σε ODS. Python Αποθήκευση ΑΡΙΘΜΩΝ σε ODS. Αποθηκεύστε ΑΡΙΘΜΟΥΣ ως 0183474.
+keywords: [Aspose Excel., Python Aspose.Cells., Convert NUMBERS to ODS in Python., Save NUMBERS to ODS using Python., Python NUMBERS to ODS saveformat., NUMBERS to ODS Converter., Python Save NUMBERS as ODS]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Μετατροπή ΑΡΙΘΜΩΝ σε ODS στο Python" h2="Βιβλιοθήκη υψηλής ταχύτητας Python για μετατροπή NUMBERS σε ODS. Αυτή είναι μια επαγγελματική λύση λογισμικού για την εισαγωγή και εξαγωγή NUMBERS, ODS και πολλών άλλων μορφών χρησιμοποιώντας το Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="ODS" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,11 +12,11 @@ keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python NUM
 
 {{% blocks/products/pf/agp/content h2="Μετατροπή ΑΡΙΘΜΩΝ σε ODS Χρησιμοποιώντας Python" %}}
 
- Πώς μπορώ να μετατρέψω τους αριθμούς σε ODS; Με τη βιβλιοθήκη Aspose.Cells for Python, μπορείτε εύκολα να μετατρέψετε τους αριθμούς σε ODS μέσω προγραμματισμού με λίγες γραμμές κώδικα.[Aspose.Cells for Python](https://pypi.org/project/aspose-cells)έχει τη δυνατότητα δημιουργίας εφαρμογών πολλαπλών πλατφορμών με δυνατότητα δημιουργίας, τροποποίησης, μετατροπής, απόδοσης και εκτύπωσης όλων των αρχείων Excel. Python Το Excel API όχι μόνο μετατρέπει μεταξύ μορφών υπολογιστικών φύλλων, αλλά μπορεί επίσης να αποδώσει αρχεία Excel ως εικόνες, PDF, HTML, ODS, CSV, 07616031481, CSV, 07616831481, δημιουργώντας περισσότερα τέλεια επιλογή για την ανταλλαγή εγγράφων σε βιομηχανικά πρότυπα μορφές.
+ Πώς μπορώ να μετατρέψω τους αριθμούς σε ODS; Με τη βιβλιοθήκη Aspose.Cells for Python, μπορείτε εύκολα να μετατρέψετε τους αριθμούς σε ODS μέσω προγραμματισμού με λίγες γραμμές κώδικα.[Aspose.Cells for Python](https://pypi.org/project/aspose-cells)έχει τη δυνατότητα δημιουργίας εφαρμογών πολλαπλών πλατφορμών με δυνατότητα δημιουργίας, τροποποίησης, μετατροπής, απόδοσης και εκτύπωσης όλων των αρχείων Excel. Python Το Excel API όχι μόνο μετατρέπει μεταξύ μορφών υπολογιστικών φύλλων, αλλά μπορεί επίσης να αποδώσει αρχεία Excel ως εικόνες, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT και άλλα, καθιστώντας έτσι την τέλεια επιλογή για την ανταλλαγή εγγράφων σε βιομηχανικές τυποποιημένες μορφές.
  
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Αποθηκεύστε NUMBERS στο ODS στο Python Δωρεάν Online" %}}
+{{% blocks/products/pf/agp/content h2="Αποθηκεύστε NUMBERS στο ODS στο Python" %}}
 
 Το ακόλουθο παράδειγμα δείχνει πώς να μετατρέψετε NUMBERS σε ODS στο Python.
 {{% blocks/products/pf/agp/text %}}
@@ -27,7 +27,7 @@ keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python NUM
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Δωρεάν εφαρμογή και δείγμα κώδικα για μετατροπή αριθμών σε ODS Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="numbers" outformat="ods" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="Δείγμα κώδικα για να μετατρέψετε τους αριθμούς σε ODS" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="numbers" outformat="ods" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="Πώς να μετατρέψετε τους αριθμούς σε ODS μέσω Python" %}}
 
@@ -63,18 +63,18 @@ keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python NUM
 
 {{% blocks/products/pf/agp/text %}}
 
-Aspose.Cells for Python via Java είναι ανεξάρτητο από πλατφόρμα API και μπορεί να χρησιμοποιηθεί σε οποιαδήποτε πλατφόρμα (Windows, Linux και MacOS), απλώς βεβαιωθείτε ότι το σύστημα έχει Java 1.8 ή υψηλότερο,[Python](https://www.python.org/downloads/) 3,5 ή υψηλότερο.
+ Aspose.Cells for Python via Java είναι ανεξάρτητο από πλατφόρμα API και μπορεί να χρησιμοποιηθεί σε οποιαδήποτε πλατφόρμα (Windows, Linux και MacOS), απλώς βεβαιωθείτε ότι το σύστημα έχει Java 1.8 ή υψηλότερο,[Python](https://www.python.org/downloads/) 3,5 ή υψηλότερο.
  
 {{% /blocks/products/pf/agp/text %}}
 
 -  Εγκαταστήστε το Java και προσθέστε το στη μεταβλητή περιβάλλοντος PATH, για παράδειγμα:<code>PATH=C:\Program Files\Java\jdk1.8.0_131;</code>.
-- Εγκαταστήστε το Aspose.Cells for Python από<a href="https://pypi.org/project/aspose-cells/">pypi</a> , χρησιμοποιήστε την εντολή ως:<code>$ pip install aspose-cells</code>.
+-  Εγκαταστήστε το Aspose.Cells for Python από<a href="https://pypi.org/project/aspose-cells/">pypi</a> , χρησιμοποιήστε την εντολή ως:<code>$ pip install aspose-cells</code>.
 
 {{% /blocks/products/pf/agp/content %}}
 
 <!-- aboutfile Starts -->
     {{< blocks/products/pf/agp/about-file-section >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="NUMBERS" readMoreLink="https://docs.fileformat.com/spreadsheet/numbers/" >}}Τα αρχεία με επέκταση .numbers ταξινομούνται ως τύπος αρχείου υπολογιστικού φύλλου, γι' αυτό είναι παρόμοια με τα αρχεία .xlsx. αλλά τα αρχεία Numbers δημιουργούνται χρησιμοποιώντας το λογισμικό υπολογιστικών φύλλων Apple iWork Numbers. Το Apple iWork Numbers είναι ένα λογισμικό μονάδας του iWork Productivity Suite. Το iWork Productivity Suite είναι ισοδύναμο με το Microsoft Office Suite που χρησιμοποιείται σε υπολογιστές Windows. Ως εκ τούτου, μπορούμε να πούμε ότι το Numbers που είναι διαθέσιμο για MacOS είναι επίσης ανταγωνιστής του Microsoft Excel. Ομοίως, Microsoft Excel, το αρχείο NUMBERS μπορεί επίσης να περιέχει πίνακες, γραφήματα και τύπους.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="NUMBERS" readMoreLink="https://docs.fileformat.com/spreadsheet/numbers/" >}} Τα αρχεία με επέκταση .numbers ταξινομούνται ως τύπος αρχείου υπολογιστικού φύλλου, γι' αυτό είναι παρόμοια με τα αρχεία .xlsx. αλλά τα αρχεία Numbers δημιουργούνται χρησιμοποιώντας το λογισμικό υπολογιστικών φύλλων Apple iWork Numbers. Το Apple iWork Numbers είναι ένα λογισμικό μονάδας του iWork Productivity Suite. Το iWork Productivity Suite είναι ισοδύναμο με το Microsoft Office Suite που χρησιμοποιείται σε υπολογιστές Windows. Ως εκ τούτου, μπορούμε να πούμε ότι το Numbers που είναι διαθέσιμο για MacOS είναι επίσης ανταγωνιστής του Microsoft Excel. Ομοίως, Microsoft Excel, το αρχείο NUMBERS μπορεί επίσης να περιέχει πίνακες, γραφήματα και τύπους.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="ODS" readMoreLink="https://docs.fileformat.com/spreadsheet/ods/" >}}Τα αρχεία με επέκταση .ods αντιπροσωπεύουν τη μορφή εγγράφου υπολογιστικού φύλλου OpenDocument που είναι επεξεργάσιμα από τον χρήστη. Τα δεδομένα αποθηκεύονται μέσα στο αρχείο ODF σε γραμμές και στήλες. Είναι μορφή που βασίζεται σε XML και είναι ένας από τους διάφορους υποτύπους της οικογένειας Μορφές Ανοιχτών Εγγράφων (ODF). Η μορφή καθορίζεται ως μέρος των προδιαγραφών ODF 1.2 που δημοσιεύει και διατηρεί το OASIS. Ένας αριθμός εφαρμογών στο Windows καθώς και σε άλλα λειτουργικά συστήματα μπορούν να ανοίξουν αρχεία ODS για επεξεργασία και χειρισμό, συμπεριλαμβανομένων των Microsoft Excel, NeoOffice και LibreOffice. Τα αρχεία ODS μπορούν επίσης να μετατραπούν σε άλλες μορφές υπολογιστικών φύλλων, όπως XLS, XLSX και άλλα από διαφορετικές εφαρμογές.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
     {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->

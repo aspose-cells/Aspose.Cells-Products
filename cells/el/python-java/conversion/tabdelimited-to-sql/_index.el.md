@@ -1,7 +1,7 @@
 ---
-title: Python TABDELIMITED σε SQL - Online Μετατροπέας TABDELIMITED σε SQL
-description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Δωρεάν Online Python Μετατροπή TABDELIMITED σε SQL saveformat. Python TABDOLIMITED σε μορφή SQL. Αποθήκευση TABDELIMITED σε SQL Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python TABDELIMITED to SQL saveformat., Free Online TABDELIMITED to SQL Python., Python Convert TABDELIMITED to SQL]
+title: Python TABDELIMITED σε SQL - Μετατροπέας TABDELIMITED σε SQL
+description: Aspose Excel. Μετατρέψτε το TABDELIMITED σε SQL γρήγορα και εύκολα με το Aspose.Cells. Python TABDELIMITED σε SQL. Python Αποθήκευση TABDELIMITED σε SQL. Αποθηκεύστε το TABDELIMITED ως SQL χρησιμοποιώντας Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Convert TABDELIMITED to SQL in Python., Save TABDELIMITED to SQL using Python., Python TABDELIMITED to SQL saveformat., TABDELIMITED to SQL Converter., Python Save TABDELIMITED as SQL]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Μετατρέψτε το TABDELIMITED σε SQL στο Python" h2="Βιβλιοθήκη υψηλής ταχύτητας Python για μετατροπή του TABDELIMITED σε SQL. Αυτή είναι μια επαγγελματική λύση λογισμικού για εισαγωγή και εξαγωγή TABDELIMITED, SQL και πολλών άλλων μορφών χρησιμοποιώντας το Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="SQL" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,11 +12,11 @@ keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python TAB
 
 {{% blocks/products/pf/agp/content h2="Μετατροπή TABDELIMITED σε SQL χρησιμοποιώντας Python" %}}
 
- Πώς μπορώ να μετατρέψω το TABDELIMITED σε SQL; Με τη βιβλιοθήκη Aspose.Cells for Python, μπορείτε εύκολα να μετατρέψετε το TABDELIMITED σε SQL μέσω προγραμματισμού με λίγες γραμμές κώδικα.[Aspose.Cells for Python](https://pypi.org/project/aspose-cells)έχει τη δυνατότητα δημιουργίας εφαρμογών πολλαπλών πλατφορμών με δυνατότητα δημιουργίας, τροποποίησης, μετατροπής, απόδοσης και εκτύπωσης όλων των αρχείων Excel. Python Το Excel API όχι μόνο μετατρέπει μεταξύ μορφών υπολογιστικών φύλλων, αλλά μπορεί επίσης να αποδώσει αρχεία Excel ως εικόνες, PDF, HTML, ODS, CSV, 07616031481, CSV, 07616831481, δημιουργώντας περισσότερα τέλεια επιλογή για την ανταλλαγή εγγράφων σε βιομηχανικά πρότυπα μορφές.
+ Πώς μπορώ να μετατρέψω το TABDELIMITED σε SQL; Με τη βιβλιοθήκη Aspose.Cells for Python, μπορείτε εύκολα να μετατρέψετε το TABDELIMITED σε SQL μέσω προγραμματισμού με λίγες γραμμές κώδικα.[Aspose.Cells for Python](https://pypi.org/project/aspose-cells)έχει τη δυνατότητα δημιουργίας εφαρμογών πολλαπλών πλατφορμών με δυνατότητα δημιουργίας, τροποποίησης, μετατροπής, απόδοσης και εκτύπωσης όλων των αρχείων Excel. Python Το Excel API όχι μόνο μετατρέπει μεταξύ μορφών υπολογιστικών φύλλων, αλλά μπορεί επίσης να αποδώσει αρχεία Excel ως εικόνες, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT και άλλα, καθιστώντας έτσι την τέλεια επιλογή για την ανταλλαγή εγγράφων σε βιομηχανικές τυποποιημένες μορφές.
  
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Αποθηκεύστε το TABDELIMITED σε SQL στο Python Δωρεάν Online" %}}
+{{% blocks/products/pf/agp/content h2="Αποθηκεύστε το TABDELIMITED σε SQL στο Python" %}}
 
 Το ακόλουθο παράδειγμα δείχνει πώς να μετατρέψετε το TABDELIMITED σε SQL στο Python.
 {{% blocks/products/pf/agp/text %}}
@@ -27,7 +27,7 @@ keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python TAB
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Δωρεάν εφαρμογή και δείγμα κώδικα για μετατροπή TABDELIMITED σε SQL Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="tsv" outformat="sql" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="Δείγμα κώδικα για μετατροπή TABDELIMITED σε SQL" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="tsv" outformat="sql" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="Πώς να μετατρέψετε το TABDELIMITED σε SQL μέσω Python" %}}
 
@@ -63,12 +63,12 @@ keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python TAB
 
 {{% blocks/products/pf/agp/text %}}
 
-Aspose.Cells for Python via Java είναι ανεξάρτητο από πλατφόρμα API και μπορεί να χρησιμοποιηθεί σε οποιαδήποτε πλατφόρμα (Windows, Linux και MacOS), απλώς βεβαιωθείτε ότι το σύστημα έχει Java 1.8 ή υψηλότερο,[Python](https://www.python.org/downloads/) 3,5 ή υψηλότερο.
+ Aspose.Cells for Python via Java είναι ανεξάρτητο από πλατφόρμα API και μπορεί να χρησιμοποιηθεί σε οποιαδήποτε πλατφόρμα (Windows, Linux και MacOS), απλώς βεβαιωθείτε ότι το σύστημα έχει Java 1.8 ή υψηλότερο,[Python](https://www.python.org/downloads/) 3,5 ή υψηλότερο.
  
 {{% /blocks/products/pf/agp/text %}}
 
 -  Εγκαταστήστε το Java και προσθέστε το στη μεταβλητή περιβάλλοντος PATH, για παράδειγμα:<code>PATH=C:\Program Files\Java\jdk1.8.0_131;</code>.
-- Εγκαταστήστε το Aspose.Cells for Python από<a href="https://pypi.org/project/aspose-cells/">pypi</a> , χρησιμοποιήστε την εντολή ως:<code>$ pip install aspose-cells</code>.
+-  Εγκαταστήστε το Aspose.Cells for Python από<a href="https://pypi.org/project/aspose-cells/">pypi</a> , χρησιμοποιήστε την εντολή ως:<code>$ pip install aspose-cells</code>.
 
 {{% /blocks/products/pf/agp/content %}}
 

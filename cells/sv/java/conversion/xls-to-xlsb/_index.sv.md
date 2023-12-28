@@ -1,7 +1,7 @@
 ---
-title: Java XLS till XLSB - Online XLS till XLSB Converter
-description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Gratis Online Java Konvertera XLS till XLSB sparaformat. Java XLS till XLSB format. Spara XLS till XLSB Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java XLS to XLSB saveformat., Free Online XLS to XLSB Java., Java Convert XLS to XLSB]
+title: Java XLS till XLSB - XLS till XLSB Omvandlare
+description: Aspose Excel. Konvertera XLS till XLSB snabbt och enkelt med Aspose.Cells. Java XLS till XLSB. Java Spara XLS till 07611 till 07161. 07611 till 07161. 3481 med Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Convert XLS to XLSB in Java., Save XLS to XLSB using Java., Java XLS to XLSB saveformat., XLS to XLSB Converter., Java Save XLS as XLSB]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Konvertera XLS till XLSB till Java" h2="Höghastighetsbibliotek Java för att konvertera XLS till XLSB. Detta är en professionell mjukvarulösning för att importera och exportera XLS, XLSB och många andra format med Java." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSB" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java XLS to XL
 
 {{% blocks/products/pf/agp/content h2="Konvertera XLS till XLSB med Java" %}}
 
-Hur konverterar jag XLS till XLSB? Med Aspose.Cells for Java bibliotek kan du enkelt konvertera XLS till XLSB programmatiskt med några rader kod.[Aspose.Cells for Java](https://products.aspose.com/cells/java) kan bygga plattformsoberoende applikationer med förmågan att generera, modifiera, konvertera, rendera och skriva ut alla Excel-filer. Java Excel API konverterar inte bara mellan kalkylarksformat, det kan också rendera Excel-filer som bilder, PDF, HTML, ODS, ODS, CSV, 0761687481, 0761687481, vilket gör det till ett perfekt val, Pt utbyta dokument i branschstandard format. Du kan ladda ner den senaste versionen direkt från[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) och installera det i ditt Maven-baserade projekt genom att lägga till följande konfigurationer till pom.xml.
+Hur konverterar jag XLS till XLSB? Med Aspose.Cells for Java bibliotek kan du enkelt konvertera XLS till XLSB programmatiskt med några rader kod.[Aspose.Cells for Java](https://products.aspose.com/cells/java)kan bygga plattformsoberoende applikationer med förmågan att generera, modifiera, konvertera, rendera och skriva ut alla Excel-filer. Java Excel API konverterar inte bara mellan kalkylarksformat, den kan också rendera Excel-filer som bilder, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT och mer, vilket gör det till ett perfekt val att utbyta dokument i industristandardformat. Du kan ladda ner den senaste versionen direkt från[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) och installera det i ditt Maven-baserade projekt genom att lägga till följande konfigurationer till pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Förvar" offSpacer="true" %}}
 
@@ -45,7 +45,7 @@ Hur konverterar jag XLS till XLSB? Med Aspose.Cells for Java bibliotek kan du en
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Spara XLS till XLSB på Java Online gratis" %}}
+{{% blocks/products/pf/agp/content h2="Spara XLS till XLSB i Java" %}}
 
 Följande exempel visar hur man konverterar XLS till XLSB i Java.
 {{% blocks/products/pf/agp/text %}}
@@ -56,7 +56,7 @@ Följ de enkla stegen för att konvertera XLS till XLSB. Ladda upp din XLS-fil o
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Gratis app och provkod för att konvertera XLS till XLSB online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xls" outformat="xlsb" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Exempelkod för att konvertera XLS till XLSB" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xls" outformat="xlsb" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="Hur man konverterar XLS till XLSB via Java" %}}
 
@@ -68,7 +68,7 @@ Behöver du konvertera XLS-filer till XLSB programmatiskt? Java-utvecklare kan e
 
 1.  Installera 'Aspose.Cells for Java'.
 1.  Lägg till en biblioteksreferens (importera biblioteket) till ditt Java-projekt.
-1.  Ladda XLS-filen med en instans av Workbook-klassen.
+1. Ladda XLS-filen med en instans av Workbook-klassen.
 1.  Konvertera XLS till XLSB genom att anropa Workbook.save-metoden.
 1.  Få konverteringsresultatet från XLS till XLSB.
 

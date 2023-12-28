@@ -2,6 +2,7 @@
 title:  Εισαγάγετε Block Arrows στο Excel μέσω C++
 weight: 770
 description: C++ παράδειγμα κώδικα για την εισαγωγή Block Arrows στο αρχείο Excel στο C++ Runtime Environment για Windows 32 bit, Windows 64 bit και Linux 64 bit.
+keywords: [C++ Aspose.Cells., C++ add block arrows., C++ insert block arrows., C++ create block arrows]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Εισαγάγετε Block Arrows στο Excel μέσω C++" h2="Εισαγάγετε αντικείμενα χρησιμοποιώντας την εγγενή και υψηλή απόδοση του διακομιστή Aspose.Cells for C++ API χωρίς τη χρήση λογισμικού όπως Microsoft ή Adobe PDF." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" sourceAdditionalConversionTag="" additionalConversionTag="" pfName="Aspose.Cells" subTitlepfName="for C++" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="XLSX" >}}
@@ -11,7 +12,7 @@ description: C++ παράδειγμα κώδικα για την εισαγωγ�
 
 {{% blocks/products/pf/agp/content h2="Πώς να εισαγάγετε βέλη μπλοκ σε αρχείο Excel χρησιμοποιώντας το C++" %}}
 
-Για να εισαγάγουμε Block Arrows στο αρχείο excel, θα χρησιμοποιήσουμε
+ Για να εισαγάγουμε Block Arrows στο αρχείο excel, θα χρησιμοποιήσουμε
  [Aspose.Cells for C++](https://products.aspose.com/cells/cpp) 
 API που είναι μια πλατφόρμα αναζήτησης εγγράφων πλούσια σε χαρακτηριστικά, ισχυρή και εύκολη στη χρήση API for C++. Μπορείτε να κατεβάσετε την τελευταία του έκδοση απευθείας, απλά ανοίξτε
  [NuGet](https://www.nuget.org/packages/aspose.cells) 
@@ -35,9 +36,9 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% blocks/products/pf/agp/feature-section-col title="Βήματα για την εισαγωγή Block Arrows στο αρχείο Excel μέσω C++" %}}
 
-Δημιουργία αντικειμένου βιβλίου εργασίας.(ή->Φορτώστε το αρχείο XLSX με πλήρη διαδρομή.)
++ Δημιουργία αντικειμένου βιβλίου εργασίας.(ή->Φορτώστε το αρχείο XLSX με πλήρη διαδρομή.)
 + Επιλέξτε Φύλλο εργασίας μέσω του ευρετηρίου του.
- + Χρησιμοποιήστε το[μέθοδος προσθήκης](https://reference.aspose.com/cells/cpp/class/aspose.cells.drawing.i_shape_collection#ab8156e8562724f9a597b7d2bc503cd4d) για να εισαγάγετε Επισκόπηση των τύπων βελών αποκλεισμού στο επιλεγμένο φύλλο εργασίας
+ + Χρησιμοποιήστε το[μέθοδος προσθήκης](https://reference.aspose.com/cells/cpp/aspose.cells.drawing/shapecollection/addautoshape/) για να εισαγάγετε Επισκόπηση των τύπων βελών αποκλεισμού στο επιλεγμένο φύλλο εργασίας
 + Αποθήκευση βιβλίου εργασίας σε μορφή XLSX.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
@@ -63,7 +64,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% blocks/products/pf/agp/code-block title="Εισαγωγή βελών μπλοκ - C++" offSpacer="" %}}
 
-{{< gist "aspose-cells-gists" "6f7d9819d85793c3a3b5d040af42e1a9" "InsertBlockArrowsIntoWorksheet.cpp" >}}
+{{< gist "aspose-cells-gists" "6f7d9819d85793c3a3b5d040af42e1a9" "InsertBlockArrowsIntoWorksheet-new.cpp" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 
@@ -248,7 +249,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% blocks/products/pf/agp/content h2="Σχετικά με Aspose.Cells for C++ API" %}}
 
- Aspose.Cells API μπορεί να χρησιμοποιηθεί για τη δημιουργία, επεξεργασία, μετατροπή και απόδοση μορφών Excel Microsoft σε διαφορετικές μορφές. Επιπλέον, μπορεί να χρησιμοποιηθεί για ολοκληρωμένη χαρτογράφηση, κλιμακούμενη αναφορά και αξιόπιστους υπολογισμούς εντός εφαρμογών λογισμικού. Το Aspose.Cells είναι ένα αυτόνομο API και δεν απαιτεί λογισμικό όπως το Microsoft ή το OpenOffice.
+Aspose.Cells API μπορεί να χρησιμοποιηθεί για τη δημιουργία, επεξεργασία, μετατροπή και απόδοση μορφών Excel Microsoft σε διαφορετικές μορφές. Επιπλέον, μπορεί να χρησιμοποιηθεί για ολοκληρωμένη χαρτογράφηση, κλιμακούμενη αναφορά και αξιόπιστους υπολογισμούς εντός εφαρμογών λογισμικού. Το Aspose.Cells είναι ένα αυτόνομο API και δεν απαιτεί λογισμικό όπως το Microsoft ή το OpenOffice.
 
 {{% /blocks/products/pf/agp/content %}}
 

@@ -1,7 +1,7 @@
 ---
-title: Java MHT till OTS - Online MHT till OTS Converter
-description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Gratis Online Java Konvertera MHT till OTS saveformat. Java MHT till OTS-format. Spara MHT till OTS Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java MHT to OTS saveformat., Free Online MHT to OTS Java., Java Convert MHT to OTS]
+title: Java MHT till OTS - MHT till OTS-omvandlare
+description: Aspose Excel. Konvertera MHT till OTS snabbt och enkelt med Aspose.Cells. Java MHT till OTS. Java Spara MHT till OTS. Spara MHT som OTS med Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Convert MHT to OTS in Java., Save MHT to OTS using Java., Java MHT to OTS saveformat., MHT to OTS Converter., Java Save MHT as OTS]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Konvertera MHT till OTS i Java" h2="Höghastighets Java bibliotek för konvertering av MHT till OTS. Detta är en professionell mjukvarulösning för att importera och exportera MHT, OTS och många andra format med Java." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="OTS" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java MHT to OT
 
 {{% blocks/products/pf/agp/content h2="Konvertera MHT till OTS med Java" %}}
 
- Hur konverterar jag MHT till OTS? Med Aspose.Cells for Java-biblioteket kan du enkelt konvertera MHT till OTS programmatiskt med några rader kod.[Aspose.Cells for Java](https://products.aspose.com/cells/java) kan bygga plattformsoberoende applikationer med förmågan att generera, modifiera, konvertera, rendera och skriva ut alla Excel-filer. Java Excel API konverterar inte bara mellan kalkylarksformat, det kan också rendera Excel-filer som bilder, PDF, HTML, ODS, ODS, CSV, 0761687481, 0761687481, vilket gör det till ett perfekt val, Pt utbyta dokument i branschstandard format. Du kan ladda ner den senaste versionen direkt från[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) och installera det i ditt Maven-baserade projekt genom att lägga till följande konfigurationer till pom.xml.
+ Hur konverterar jag MHT till OTS? Med Aspose.Cells for Java bibliotek kan du enkelt konvertera MHT till OTS programmatiskt med några rader kod.[Aspose.Cells for Java](https://products.aspose.com/cells/java)kan bygga plattformsoberoende applikationer med förmågan att generera, modifiera, konvertera, rendera och skriva ut alla Excel-filer. Java Excel API konverterar inte bara mellan kalkylarksformat, den kan också rendera Excel-filer som bilder, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT och mer, vilket gör det till ett perfekt val att utbyta dokument i industristandardformat. Du kan ladda ner den senaste versionen direkt från[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) och installera det i ditt Maven-baserade projekt genom att lägga till följande konfigurationer till pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Förvar" offSpacer="true" %}}
 
@@ -45,7 +45,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java MHT to OT
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Spara MHT till OTS i Java Online gratis" %}}
+{{% blocks/products/pf/agp/content h2="Spara MHT till OTS på Java" %}}
 
 Följande exempel visar hur man konverterar MHT till OTS i Java.
 {{% blocks/products/pf/agp/text %}}
@@ -56,7 +56,7 @@ Följ de enkla stegen för att konvertera MHT till OTS. Ladda upp din MHT-fil oc
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Gratis app och provkod för att konvertera MHT till OTS Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="mht" outformat="ots" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Exempelkod för att konvertera MHT till OTS" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="mht" outformat="ots" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="Hur man konverterar MHT till OTS via Java" %}}
 

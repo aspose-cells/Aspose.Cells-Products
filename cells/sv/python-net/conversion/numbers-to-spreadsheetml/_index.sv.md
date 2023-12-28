@@ -1,7 +1,7 @@
 ---
-title: Python NUMBERS to SPREADSHEETML - Online NUMBERS to SPREADSHEETML Converter
-description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Gratis online Python Konvertera NUMBERS till SPREADSHEETML saveformat. Python NUMBERS till Kalkylbladsformat. Spara NUMMER i SPREADSHEETML Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python NUMBERS to SPREADSHEETML saveformat., Free Online NUMBERS to SPREADSHEETML Python., Python Convert NUMBERS to SPREADSHEETML]
+title: Python NUMBERS to SPREADSHEETML - NUMBERS to SPREADSHEETML Converter
+description: Aspose Excel. Konvertera NUMBERS till Kalkylblad snabbt och enkelt med Aspose.Cells. Python NUMMER till Kalkylblad. Python Spara NUMMER i Kalkylblad. Spara NUMMER som Kalkylblad med Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Convert NUMBERS to SPREADSHEETML in Python., Save NUMBERS to SPREADSHEETML using Python., Python NUMBERS to SPREADSHEETML saveformat., NUMBERS to SPREADSHEETML Converter., Python Save NUMBERS as SPREADSHEETML]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Konvertera NUMBERS till SPREADSHEETML i Python" h2="Höghastighets Python-bibliotek för att konvertera NUMBERS till Kalkylblad. Använd vår excel-konvertering API för att utveckla plattformsoberoende programvara på hög nivå i Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="SPREADSHEETML" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,12 +12,12 @@ keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python NUM
 
 {{% blocks/products/pf/agp/content h2="Konvertera NUMBERS till SPREADSHEETML i Python" %}}
 
- Hur konverterar jag NUMBERS till SPREADSHEETML? Med Aspose.Cells for Python via NET-biblioteket kan du enkelt konvertera NUMBERS till Kalkylblad programmatiskt med några rader kod.[Aspose.Cells for Python via NET](https://pypi.org/project/aspose-cells-python/)kan bygga plattformsoberoende applikationer med förmågan att generera, modifiera, konvertera, rendera och skriva ut alla Excel-filer. Python Excel API konverterar inte bara mellan kalkylarksformat, det kan också rendera Excel-filer som bilder, PDF, HTML, ODS, ODS, CSV, 0761687481, 0761687481, vilket gör det till ett perfekt val, Pt utbyta dokument i branschstandard format.
+ Hur konverterar jag NUMBERS till SPREADSHEETML? Med Aspose.Cells for Python via NET-biblioteket kan du enkelt konvertera NUMBERS till Kalkylblad programmatiskt med några rader kod.[Aspose.Cells for Python via NET](https://pypi.org/project/aspose-cells-python/)kan bygga plattformsoberoende applikationer med förmågan att generera, modifiera, konvertera, rendera och skriva ut alla Excel-filer. Python Excel API konverterar inte bara mellan kalkylarksformat, den kan också rendera Excel-filer som bilder, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT och mer, vilket gör det till ett perfekt val att utbyta dokument i industristandardformat.
 
 {{% /blocks/products/pf/agp/content %}}
 
 
-{{% blocks/products/pf/agp/content h2="Spara NUMMER i Kalkylblad i Python Online gratis" %}}
+{{% blocks/products/pf/agp/content h2="Spara NUMBERS i Kalkylblad på Python" %}}
 
 Följande exempel visar hur man konverterar NUMBERS till Kalkylblad i Python via NET.
 {{% blocks/products/pf/agp/text %}}
@@ -28,7 +28,7 @@ Följ de enkla stegen för att konvertera NUMBERS till Kalkylblad. Ladda upp din
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Gratis app och exempelkod för att konvertera NUMBERS till Kalkylblad online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="numbers" outformat="xml" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Exempelkod för att konvertera NUMBERS till Kalkylblad" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="numbers" outformat="xml" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="Hur man konverterar NUMBERS till SPREADSHEETML" %}}
 
@@ -42,7 +42,7 @@ Behöver du konvertera NUMBERS filer till SPREADSHEETML programmatiskt? Python-u
 1.  Lägg till en biblioteksreferens (importera biblioteket) till ditt Python-projekt.
 1.  Ladda NUMBERS-filen med en instans av Workbook.
 1.  Konvertera NUMBERS till SPREADSHEETML genom att anropa Workbook.save-metoden.
-1. Få konverteringsresultatet av NUMBERS till SPREADSHEETML.
+1.  Få konverteringsresultatet av NUMBERS till SPREADSHEETML.
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -52,7 +52,7 @@ Behöver du konvertera NUMBERS filer till SPREADSHEETML programmatiskt? Python-u
 Vi är värd för våra Python-paket i PyPi-förråd.
 
 {{% blocks/products/pf/agp/text %}}
-Installera Aspose.Cells for Python från<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , använd kommandot som:<code>$ pip install aspose-cells-python</code>.
+ Installera Aspose.Cells for Python från<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , använd kommandot som:<code>$ pip install aspose-cells-python</code>.
 {{% /blocks/products/pf/agp/text %}}
 
 {{% blocks/products/pf/agp/text %}}
@@ -72,7 +72,7 @@ Installera Aspose.Cells for Python från<a href="https://pypi.org/project/aspose
 
 <!-- aboutfile Starts -->
     {{< blocks/products/pf/agp/about-file-section >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="NUMBERS" readMoreLink="https://docs.fileformat.com/spreadsheet/numbers/" >}}Filerna med tillägget .numbers klassificeras som kalkylbladsfiltyp, det är därför de liknar .xlsx-filerna; men Numbers-filerna skapas med hjälp av Apple iWork Numbers kalkylprogram. Apple iWork Numbers är en enhetsprogramvara för iWork Productivity Suite. iWork Productivity Suite motsvarar Microsoft Office Suite som används på Windows-datorer. Därför kan vi säga att Numbers som är tillgänglig för MacOS också är en konkurrent till Microsoft Excel. På samma sätt, Microsoft Excel, NUMBERS-filen kan också innehålla tabeller, diagram och formler.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="NUMBERS" readMoreLink="https://docs.fileformat.com/spreadsheet/numbers/" >}} Filerna med tillägget .numbers klassificeras som kalkylbladsfiltyp, det är därför de liknar .xlsx-filerna; men Numbers-filerna skapas med hjälp av Apple iWork Numbers kalkylprogram. Apple iWork Numbers är en enhetsprogramvara för iWork Productivity Suite. iWork Productivity Suite motsvarar Microsoft Office Suite som används på Windows-datorer. Därför kan vi säga att Numbers som är tillgänglig för MacOS också är en konkurrent till Microsoft Excel. På samma sätt, Microsoft Excel, NUMBERS-filen kan också innehålla tabeller, diagram och formler.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="SPREADSHEETML" readMoreLink="https://docs.fileformat.com/web/xml/" >}}XML står för Extensible Markup Language som liknar HTML men skiljer sig från att använda taggar för att definiera objekt. Hela idén bakom skapandet av XML-filformat var att lagra och transportera data utan att vara beroende av mjukvara eller hårdvaruverktyg. Dess popularitet beror på att den är både mänsklig och maskinläsbar. Detta gör det möjligt för den att skapa gemensamma dataprotokoll i form av objekt som ska lagras och delas över nätverk som World Wide Web (WWW). "X" i XML är för extensible vilket innebär att språket kan utökas till valfritt antal symboler enligt användarens krav. Det är för dessa funktioner som många standardfilformat använder det som Microsoft Open XML, LibreOffice OpenDocument, XHTML och SVG.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
     {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->

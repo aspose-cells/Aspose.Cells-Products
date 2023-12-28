@@ -1,7 +1,8 @@
 ---
-title:  C++ Excel-kalkylbladsprogrammering API - Aspose
+title: C++ Excel-kalkylbladsprogrammering API - Aspose
 weight: 7140
-description: C++ Excel-bibliotek för att läsa skriv- och tolkfiler inklusive formaten XLS, XLSX, XLSM och XLSB. Konvertera kalkylblad till PDF, CSV och fler format
+description: Aspose.Cells for C++ bibliotek för att skapa, reparera, slå samman, analysera och konvertera Excel-filer. Konvertera excel till PDF, JSON, XML, TSV och så vidare.
+keywords: [C++ Aspose.Cells Create repair parse merge convert JSON Excel XML PDF HTML TSV SQL ODS CSV TXT PNG JPEG and more formats]
 ---
 {{< blocks/products/pf/main-wrap-class >}}
 {{< blocks/products/pf/i18n/upper-banner h1="C++ Excel Spreadsheets API:er" h2="Skapa, läs, skriv och analysera kalkylblad utan några Microsoft Excel-beroenden inom fullfunktionella C++-applikationer." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/headers/aspose_cells-for-cpp.svg" pfName="Aspose.Cells" subTitlepfName="for C++" downloadUrl="https://downloads.aspose.com/cells/cpp" >}}
@@ -40,13 +41,13 @@ description: C++ Excel-bibliotek för att läsa skriv- och tolkfiler inklusive f
  Pivottabell
     </li>
     <li>
- Tabeller
+Tabeller
     </li>
     <li>
  Diagram
     </li>
     <li>
-Formler beräkning
+ Formler beräkning
     </li>
     <li>
  Datavalidering
@@ -227,7 +228,7 @@ Formler beräkning
      <b>
  Bilder:
      </b>
-     JPEG, PNG, BMP, TIFF, GIF, EMF, SVG
+     JPEG, PNG, BMP, GIF, EMF, SVG
     </li>
    </ul>
   </div>
@@ -274,7 +275,7 @@ Formler beräkning
     <em class="fa fa-save ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Ladda &amp; spara Excel-filer med strömmar
+Ladda &amp; spara Excel-filer med strömmar
     </p>
    </div>
    <div class="col-lg-4">
@@ -288,7 +289,7 @@ Formler beräkning
     <em class="fa fa-check-square-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-Ställ in datavalidering för att begränsa inmatning
+ Ställ in datavalidering för att begränsa inmatning
     </p>
    </div>
    <div class="col-lg-4">
@@ -415,17 +416,17 @@ Aspose API:er är helt oberoende och är inte anslutna till, inte heller auktori
      <h3>
  Konvertera Excel-filer i flera format - C++
      </h3>
-     <pre><code class="cpp">// load the document for conversion
+     <pre><code class="cpp">	// load the document for conversion
 
-intrusive_ptr&lt;IWorkbook&gt; book = Factory::CreateIWorkbook(dir-&gt;StringAppend(new String("template.xls")));
+	Workbook book(u"template.xls");
 
-// save in different formats
+	// save in different formats
 
-book-&gt;Save(dir-&gt;StringAppend(new String("output.xlsx")), SaveFormat_Xlsx);
+	book.Save(u"output.xlsx", SaveFormat::Xlsx);
 
-book-&gt;Save(dir-&gt;StringAppend(new String("output.xlsb")), SaveFormat_Xlsb);
+	book.Save(u"output.xlsb", SaveFormat::Xlsb);
 
-book-&gt;Save(dir-&gt;StringAppend(new String("output.csv")), SaveFormat_CSV);</code></pre>
+	book.Save(u"output.csv", SaveFormat::CSV);</code></pre>
     </div>
    </div>
    <div class="col-lg-12">
@@ -449,7 +450,7 @@ Aspose.Cells for C++ ger dig fullständig kontroll över hur du vill presentera 
  Gör arbetsblad som bilder
     </h2>
     <p>
-Biblioteket renderar med högsta kvalitet till Microsoft Excel med sin egen renderingsmotor. Det erbjuder distinkta funktioner som att rendera kalkylblad till bilder i populära format inklusive BMP, TIFF, PNG, JPEG &amp; EMF. Sheet2Image-processen är flexibel, vilket gör det möjligt att välja alternativ som att kontrollera den resulterande bildens upplösning.
+Biblioteket renderar med högsta kvalitet till Microsoft Excel med sin egen renderingsmotor. Den erbjuder distinkta funktioner som att rendera kalkylblad till bilder i populära format inklusive BMP, PNG, JPEG &amp; EMF. Sheet2Image-processen är flexibel, vilket gör det möjligt att välja alternativ som att kontrollera den resulterande bildens upplösning.
     </p>
    </div>
    <div class="col-lg-12">

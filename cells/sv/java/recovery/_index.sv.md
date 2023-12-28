@@ -1,6 +1,7 @@
 ---
-title: Reparera excel-fil via Java
-description: Reparera en korrupt excel-fil med Java. Återställningsverktyg för att reparera skadad excel-fil inom Java-applikationen.
+title: Java Reparera excel - Återställ och fixa skadad excel-fil
+description: Java Aspose.Cells. Reparation excel. Fixa excel-fil. excel återställningsverktyg. excel korruption. Återställ Excel-data. excel-filåterställning. Återställ skadad excel-fil.
+keywords: [Java Aspose.Cells., repair excel file., excel repair., recover corrupted excel file., repair corrupted excel., recover excel., fix excel file., excel corruption., restore excel data., excel file recovery., recover corrupted excel file.]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Återställ excel-fil via Java" h2="Bygg Java-applikation för att reparera Excel-filer med Java." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="EXCEL" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="" fileiconsmall1="XLS" fileiconsmall2="XLSB" fileiconsmall3="XLSX" fileiconsmall4="XLSM" fileiconsmall5="ODS" >}}
@@ -10,7 +11,7 @@ description: Reparera en korrupt excel-fil med Java. Återställningsverktyg fö
 
 {{% blocks/products/pf/agp/content h2="Reparera EXCEL-fil med Java" %}}
 
- För att reparera EXCEL-fil kommer vi att använda[Aspose.Cells for Java](https://products.aspose.com/cells/java)API som är en funktionsrik, kraftfull och lättanvänd plattform för dokumentmanipulation API for Java.
+ För att reparera EXCEL-fil kommer vi att använda[Aspose.Cells for Java](https://products.aspose.com/cells/java) API som är en funktionsrik, kraftfull och lättanvänd plattform för dokumentmanipulation API for Java.
  
  Aspose.Cells API kan användas för att skapa, redigera, konvertera och rendera Microsoft Excel-format till olika format. Dessutom kan den användas för omfattande kartläggning, skalbar rapportering och tillförlitliga beräkningar inom mjukvaruapplikationer. Aspose.Cells är en fristående API och den kräver ingen programvara som Microsoft eller OpenOffice.
 

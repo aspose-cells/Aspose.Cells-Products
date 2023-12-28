@@ -1,7 +1,7 @@
 ---
-title: C++ EXCEL till TSV - Online EXCEL till TSV Converter
-description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. Gratis online C++ Konvertera EXCEL till TSV sparaformat. C++ EXCEL till TSV format. Spara EXCEL till TSV C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ EXCEL to TSV saveformat., Free Online EXCEL to TSV C++., C++ Convert EXCEL to TSV]
+title: C++ EXCEL till TSV - EXCEL till TSV omvandlare
+description: Aspose Excel. Konvertera EXCEL till TSV snabbt och enkelt med Aspose.Cells. C++ EXCEL till TSV. C++ Spara EXCEL till TSV. Spara EXCEL som 41618 med 0713718 med 0713718.
+keywords: [Aspose Excel., C++ Aspose.Cells., Convert EXCEL to TSV in C++., Save EXCEL to TSV using C++., C++ EXCEL to TSV saveformat., EXCEL to TSV Converter., C++ Save EXCEL as TSV]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Konvertera EXCEL till TSV till C++" h2="Högpresterande EXCEL till TSV konvertering med C++ bibliotek utan behov av Microsoft Excel, OpenOffice eller Adobe Acrobat installation." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" sourceAdditionalConversionTag="" additionalConversionTag="TSV" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ EXCEL to TSV
 
 {{% blocks/products/pf/agp/content h2="Konvertera EXCEL till TSV med C++" %}}
 
- Hur konverterar jag EXCEL till TSV? Med Aspose.Cells for C++ bibliotek kan du enkelt konvertera EXCEL till TSV programmatiskt med några rader kod.[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) kan bygga plattformsoberoende applikationer med förmågan att generera, modifiera, konvertera, rendera och skriva ut alla Excel-filer. C++ Excel API konverterar inte bara mellan kalkylarksformat, det kan också rendera Excel-filer som bilder, PDF, HTML, ODS, ODS, CSV, 0761687481, 0761687481, vilket gör det till ett perfekt val, Pt utbyta dokument i branschstandard format. Du kan ladda ner den senaste versionen direkt, bara öppna[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) pakethanteraren, sök efter Aspose.Cells.Cpp och installera. Du kan också använda följande kommando från Package Manager Console.
+ Hur konverterar jag EXCEL till TSV? Med Aspose.Cells for C++ bibliotek kan du enkelt konvertera EXCEL till TSV programmatiskt med några rader kod.[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) kan bygga plattformsoberoende applikationer med förmågan att generera, modifiera, konvertera, rendera och skriva ut alla Excel-filer. C++ Excel API konverterar inte bara mellan kalkylarksformat, den kan också rendera Excel-filer som bilder, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT och mer, vilket gör det till ett perfekt val att utbyta dokument i industristandardformat. Du kan ladda ner den senaste versionen direkt, bara öppna[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) pakethanteraren, sök efter Aspose.Cells.Cpp och installera. Du kan också använda följande kommando från Package Manager Console.
 
 {{% blocks/products/pf/agp/code-block title="Kommando" offSpacer="true" %}}
 
@@ -26,7 +26,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Spara EXCEL till TSV i C++ online gratis" %}}
+{{% blocks/products/pf/agp/content h2="Spara EXCEL till TSV i C++" %}}
 
 Följande exempel visar hur man konverterar EXCEL till TSV i C++.
 {{% blocks/products/pf/agp/text %}}
@@ -37,7 +37,7 @@ Följ de enkla stegen för att konvertera EXCEL till TSV. Ladda upp din EXCEL-fi
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Gratis app och provkod för att konvertera EXCEL till TSV online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsx" outformat="tsv" IsLandingPage="true" language="cpp" %}}
+{{% cells-convert title="Exempelkod för att konvertera EXCEL till TSV" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsx" outformat="tsv" IsLandingPage="true" language="cpp" %}}
 
 {{% blocks/products/pf/agp/content h2="Hur man konverterar EXCEL till TSV via C++" %}}
 
@@ -49,7 +49,7 @@ Behöver du konvertera EXCEL-filer till TSV programmatiskt? C++-utvecklare kan e
 
 1.  Installera 'Aspose.Cells for C++'.
 1.  Lägg till en biblioteksreferens (importera biblioteket) till ditt C++-projekt.
-1.  Ladda EXCEL-fil med Factory::CreateIWorkbook.
+1.  Ladda EXCEL-fil med arbetsbok.
 1.  Konvertera EXCEL till TSV genom att anropa metoden Save().
 1.  Få konverteringsresultatet från EXCEL till TSV.
 
@@ -101,7 +101,6 @@ Det finns tre alternativ för att installera "Aspose.Cells for C++" på ditt sys
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/excel-to-pdf/" name="EXCEL TILL PDF" description="Portabelt dokumentformat" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/excel-to-png/" name="EXCEL TILL PNG" description="Bärbar nätverksgrafik" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/excel-to-svg/" name="EXCEL TILL SVG" description="Skalbar vektorgrafik" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/excel-to-tiff/" name="EXCEL TILL TIFF" description="Taggad bildformat" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/excel-to-tsv/" name="EXCEL TILL TSV" description="Tab-separerade värden" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/excel-to-txt/" name="EXCEL TILL TXT" description="Textdokument" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/excel-to-xls/" name="EXCEL TILL XLS" description="Excel binärt format" >}}

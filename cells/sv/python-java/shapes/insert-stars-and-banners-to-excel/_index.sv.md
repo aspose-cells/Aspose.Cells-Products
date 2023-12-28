@@ -2,6 +2,7 @@
 title: Infoga stjärna/banner i Excel med Python via Java
 weight: 381
 description: Python via Java källkod för att infoga Star/Banner i Excel.
+keywords: [Python Aspose.Cells., Python add Star/Banner., Python insert Star/Banner., Python create Star/Banner]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Infoga stjärna/banner i Excel med Python via Java" h2="Infoga Star/Banner med Aspose.Cells\' API utan någon programvara som Microsoft eller Open Office, Adobe PDF, etc." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="" pfName="Aspose.Cells" subTitlepfName="for Python via Java" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="XLSX" >}}
@@ -37,7 +38,7 @@ Du behöver aspose.cells för att prova följande arbetsflöde i din egen miljö
 
 {{% /blocks/products/pf/agp/text %}}
 
-Instantiera ett arbetsboksobjekt.(eller->Läs in XLSX-filen med fullständig sökväg.)
++ Instantiera ett arbetsboksobjekt.(eller->Läs in XLSX-filen med fullständig sökväg.)
 + Välj kalkylblad via dess index.
  + Använd[lägga till metod](https://reference.aspose.com/cells/python-java/asposecells.api/shapecollection#addAutoShape(int,%20int,%20int,%20int,%20int,%20int,%20int)) för att infoga stjärna/banner i det valda kalkylbladet
 + Spara arbetsboken i XLSX-format.
@@ -48,12 +49,12 @@ Instantiera ett arbetsboksobjekt.(eller->Läs in XLSX-filen med fullständig sö
 
 {{% blocks/products/pf/agp/text %}}
 
-Aspose.Cells for Python via Java är plattformsoberoende API och kan användas på vilken plattform som helst (Windows, Linux och MacOS), se bara till att systemet har Java 1.8 eller högre,[Python](https://www.python.org/downloads/) 3,5 eller högre.
+ Aspose.Cells for Python via Java är plattformsoberoende API och kan användas på vilken plattform som helst (Windows, Linux och MacOS), se bara till att systemet har Java 1.8 eller högre,[Python](https://www.python.org/downloads/) 3,5 eller högre.
  
 {{% /blocks/products/pf/agp/text %}}
 
-- Alla operativsystem som kan köra Python via Java skript, som Windows, Linux och MacOS
--  Installera Java och lägg till den i PATH miljövariabel, till exempel:<code>PATH=C:\Program Files\Java\jdk1.8.0_131;</code>.
+-  Alla operativsystem som kan köra Python via Java skript, som Windows, Linux och MacOS
+- Installera Java och lägg till den i PATH miljövariabel, till exempel:<code>PATH=C:\Program Files\Java\jdk1.8.0_131;</code>.
 -  Installera Aspose.Cells for Python via Java från<a href="https://pypi.org/project/aspose-cells/">pypi</a> , använd kommandot som:<code>$ pip install aspose-cells</code>.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
@@ -131,7 +132,7 @@ Exempelkoden nedan visar hur man infogar ett "matte plus". För fler typer, se "
    <div class="col-lg-4">
     <img src="/cells/net/shapes/insert-stars-and-banners-to-excel/star_16_points.png" align="left" width="28" height="28">
     <p class="col-lg-10">
-AutoShapeType.STAR_16
+ AutoShapeType.STAR_16
     </p>
    </div>
    <div class="col-lg-4">
@@ -207,7 +208,7 @@ AutoShapeType.STAR_16
 
 {{% blocks/products/pf/agp/content h2="Om Aspose.Cells for Python via Java API" %}}
 
- Aspose.Cells API kan användas för att skapa, redigera, konvertera och rendera Microsoft Excel-format till olika format. Dessutom kan den användas för omfattande kartläggning, skalbar rapportering och tillförlitliga beräkningar inom mjukvaruapplikationer. Aspose.Cells är en fristående API och den kräver ingen programvara som Microsoft eller OpenOffice.
+Aspose.Cells API kan användas för att skapa, redigera, konvertera och rendera Microsoft Excel-format till olika format. Dessutom kan den användas för omfattande kartläggning, skalbar rapportering och tillförlitliga beräkningar inom mjukvaruapplikationer. Aspose.Cells är en fristående API och den kräver ingen programvara som Microsoft eller OpenOffice.
 
 {{% /blocks/products/pf/agp/content %}}
 

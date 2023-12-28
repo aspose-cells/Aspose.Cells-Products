@@ -1,7 +1,8 @@
 ---
-title:  Κατάργηση XLSX Σχολιασμός via .NET
+title:  Προσθήκη ή αφαίρεση XLSX Σχολιασμός via .NET
 weight: 2010
 description: C# πηγαίος κώδικας για προσθήκη και διαγραφή σχολιασμών μορφής XLSX στις πλατφόρμες .NET Framework, .NET Core, Mono ή Xamarin Platforms.
+keywords: [C# Aspose.Cells., add xlsx annotation., insert xlsx annotation., access xlsx annotation., remove xlsx annotation., delete xlsx annotation., add annotation in xlsx., insert annotation in xlsx., access annotation in xlsx., remove annotation in xlsx., delete annotation in xlsx]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Προσθήκη ή διαγραφή σχολιασμού από XLSX μέσω C#" h2="Δημιουργήστε τις δικές σας εφαρμογές .NET για να χειριστείτε σχόλια και συγγραφείς σε αρχεία εγγράφων χρησιμοποιώντας API από την πλευρά του διακομιστή." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSX" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="PPTX" fileiconsmall2="DOCX" fileiconsmall3="XLSX" fileiconsmall4="PDF" fileiconsmall5=" ODP " >}}

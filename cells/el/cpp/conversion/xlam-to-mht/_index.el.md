@@ -1,7 +1,7 @@
 ---
-title: XLAM σε MHT - Μετατροπή XLAM σε αρχεία MHT C++
-description: Aspose Excel. Δωρεάν Online Μετατροπή XLAM σε μορφή αποθήκευσης MHT. C++ XLAM σε μορφή MHT. Αποθηκεύστε το XLAM ως MHT στο C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ XLAM to MHT saveformat., Free Online XLAM to MHT Converter]
+title: C++ XLAM σε MHT - XLAM σε MHT Converter
+description: Aspose Excel. Μετατρέψτε το XLAM σε MHT γρήγορα και εύκολα με το Aspose.Cells. C++ XLAM σε MHT. C++ Αποθήκευση XLAM στο MHT. Αποθηκεύστε το XLAM ως MHT χρησιμοποιώντας το C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., Convert XLAM to MHT in C++., Save XLAM to MHT using C++., C++ XLAM to MHT saveformat., XLAM to MHT Converter., C++ Save XLAM as MHT]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Μετατροπή XLAM σε MHT στο C++" h2="Μετατροπή υψηλής απόδοσης XLAM σε MHT με χρήση της βιβλιοθήκης C++ χωρίς την ανάγκη εγκατάστασης Microsoft Excel, OpenOffice ή Adobe Acrobat." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" sourceAdditionalConversionTag="" additionalConversionTag="MHT" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., C++ Aspose.Cells., C++ XLAM to MHT saveformat., Free O
 
 {{% blocks/products/pf/agp/content h2="Μετατροπή XLAM σε MHT χρησιμοποιώντας C++" %}}
 
- Πώς μπορώ να μετατρέψω το XLAM σε MHT; Με τη βιβλιοθήκη Aspose.Cells for C++, μπορείτε εύκολα να μετατρέψετε το XLAM σε MHT μέσω προγραμματισμού με λίγες γραμμές κώδικα.[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) έχει τη δυνατότητα δημιουργίας εφαρμογών πολλαπλών πλατφορμών με δυνατότητα δημιουργίας, τροποποίησης, μετατροπής, απόδοσης και εκτύπωσης όλων των αρχείων Excel. C++ Το Excel API όχι μόνο μετατρέπει μεταξύ μορφών υπολογιστικών φύλλων, αλλά μπορεί επίσης να αποδώσει αρχεία Excel ως εικόνες, PDF, HTML, ODS, CSV, 07616031481, CSV, 07616831481, δημιουργώντας περισσότερα τέλεια επιλογή για την ανταλλαγή εγγράφων σε βιομηχανικά πρότυπα μορφές. Μπορείτε να κατεβάσετε την τελευταία του έκδοση απευθείας, απλά ανοίξτε[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) διαχειριστής πακέτων, αναζητήστε Aspose.Cells.Cpp και εγκαταστήστε. Μπορείτε επίσης να χρησιμοποιήσετε την ακόλουθη εντολή από την Κονσόλα Package Manager.
+Πώς μπορώ να μετατρέψω το XLAM σε MHT; Με τη βιβλιοθήκη Aspose.Cells for C++, μπορείτε εύκολα να μετατρέψετε το XLAM σε MHT μέσω προγραμματισμού με λίγες γραμμές κώδικα.[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) έχει τη δυνατότητα δημιουργίας εφαρμογών πολλαπλών πλατφορμών με δυνατότητα δημιουργίας, τροποποίησης, μετατροπής, απόδοσης και εκτύπωσης όλων των αρχείων Excel. C++ Το Excel API όχι μόνο μετατρέπει μεταξύ μορφών υπολογιστικών φύλλων, αλλά μπορεί επίσης να αποδώσει αρχεία Excel ως εικόνες, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT και άλλα, καθιστώντας έτσι την τέλεια επιλογή για την ανταλλαγή εγγράφων σε βιομηχανικές τυποποιημένες μορφές. Μπορείτε να κατεβάσετε την τελευταία του έκδοση απευθείας, απλά ανοίξτε[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) διαχειριστής πακέτων, αναζητήστε Aspose.Cells.Cpp και εγκαταστήστε. Μπορείτε επίσης να χρησιμοποιήσετε την ακόλουθη εντολή από την Κονσόλα Package Manager.
 
 {{% blocks/products/pf/agp/code-block title="Εντολή" offSpacer="true" %}}
 
@@ -26,7 +26,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Αποθηκεύστε XLAM στο MHT στο C++ Δωρεάν Online" %}}
+{{% blocks/products/pf/agp/content h2="Αποθηκεύστε το XLAM στο MHT στο C++" %}}
 
 Το ακόλουθο παράδειγμα δείχνει πώς να μετατρέψετε το XLAM σε MHT στο C++.
 {{% blocks/products/pf/agp/text %}}
@@ -37,7 +37,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Δωρεάν εφαρμογή και δείγμα κώδικα για μετατροπή XLAM σε MHT Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlam" outformat="mht" IsLandingPage="true" language="cpp" %}}
+{{% cells-convert title="Δείγμα κώδικα για μετατροπή XLAM σε MHT" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlam" outformat="mht" IsLandingPage="true" language="cpp" %}}
 
 {{% blocks/products/pf/agp/content h2="Πώς να μετατρέψετε το XLAM σε MHT μέσω του C++" %}}
 
@@ -49,7 +49,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 1.  Εγκαταστήστε το 'Aspose.Cells for C++'.
 1.  Προσθέστε μια αναφορά βιβλιοθήκης (εισάγετε τη βιβλιοθήκη) στο έργο σας C++.
-1.  Φορτώστε το αρχείο XLAM χρησιμοποιώντας το Factory::CreateIWorkbook.
+1.  Φορτώστε το αρχείο XLAM χρησιμοποιώντας το Βιβλίο εργασίας.
 1.  Μετατρέψτε το XLAM σε MHT καλώντας τη μέθοδο Save().
 1.  Λάβετε το αποτέλεσμα μετατροπής XLAM σε MHT.
 
@@ -82,6 +82,12 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/content %}}
 
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLAM" readMoreLink="https://docs.fileformat.com/spreadsheet/xlam/" >}}Το XLAM είναι ένα αρχείο πρόσθετου με δυνατότητα μακροεντολής που χρησιμοποιείται για την προσθήκη νέων λειτουργιών σε υπολογιστικά φύλλα. Το πρόσθετο είναι ένα συμπληρωματικό πρόγραμμα που εκτελεί πρόσθετο κώδικα και παρέχει πρόσθετη λειτουργικότητα για υπολογιστικά φύλλα. Τα αρχεία XLAM αποθηκεύονται με την επέκταση .xlam. Τα αρχεία XLAM είναι αρχεία που βασίζονται σε XML παρόμοια με τις μορφές αρχείων XLSM και XLSX και αποθηκεύονται με συμπίεση ZIP για μείωση του συνολικού μεγέθους του αρχείου.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="MHT" readMoreLink="https://docs.fileformat.com/web/mht/" >}}Ένα αρχείο με επέκταση .mht είναι μια μορφή αρχείου αρχειοθέτησης με δυνατότητα MIME που περιέχει διαφορετικούς τύπους δεδομένων σε ένα μόνο αρχείο. Μπορεί να αποθηκεύσει δεδομένα όπως κείμενο, εικόνες, στυλ σελίδας με τη μορφή αρχείων CSS, JavaScript και άλλους πόρους ως ενσωματωμένους πόρους σε αυτό. Τα αρχεία MHT, με μήνυμα τύπου MIME/rfc822, ενσωματώνουν όλα τα περιεχόμενα ενός αρχείου HTML ως ένα ενιαίο αρχείο αρχειοθέτησης για αποθήκευση κατά την αρχειοθέτηση σε συσκευές αποθήκευσης. Οι εφαρμογές λογισμικού όπως το Microsoft Word σάς επιτρέπουν να μετατρέψετε τα έγγραφά σας WORD σε MHT με εξαγωγή ως αρχείο MHT. Τα αρχεία MHT μπορούν να ανοίξουν χρησιμοποιώντας δημοφιλή προγράμματα περιήγησης όπως το Microsoft Internet Explore και το Google Chrome.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Άλλες υποστηριζόμενες μετατροπές" subTitle="Μπορείτε επίσης να μετατρέψετε το XLAM σε πολλές άλλες μορφές αρχείων, συμπεριλαμβανομένων μερικών που αναφέρονται παρακάτω." >}}
 
@@ -95,7 +101,6 @@ PM> Install-Package Aspose.Cells.Cpp
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xlam-to-pdf/" name="XLAM ΕΩΣ PDF" description="Μορφή φορητού εγγράφου" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xlam-to-png/" name="XLAM ΕΩΣ PNG" description="Φορητά γραφικά δικτύου" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xlam-to-svg/" name="XLAM ΕΩΣ SVG" description="Κλιμακόμενα διανυσματικά γραφικά" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xlam-to-tiff/" name="XLAM ΕΩΣ TIFF" description="Με ετικέτα Μορφή εικόνας" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xlam-to-tsv/" name="XLAM ΕΩΣ TSV" description="Τιμές διαχωρισμένες με καρτέλες" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xlam-to-txt/" name="XLAM ΕΩΣ TXT" description="Έγγραφο κειμένου" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xlam-to-xls/" name="XLAM ΕΩΣ XLS" description="Δυαδική μορφή Excel" >}}

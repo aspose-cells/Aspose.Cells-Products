@@ -1,7 +1,7 @@
 ---
-title: Python ODS till SQL - Online ODS till SQL Converter
-description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Gratis Online Python Konvertera ODS till SQL saveformat. Python ODS till SQL-format. Spara ODS till SQL Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python ODS to SQL saveformat., Free Online ODS to SQL Python., Python Convert ODS to SQL]
+title: Python ODS till SQL - ODS till SQL Converter
+description: Aspose Excel. Konvertera ODS till SQL snabbt och enkelt med Aspose.Cells. Python ODS till SQL. Python Spara ODS till SQL. Spara ODS som SQL med Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Convert ODS to SQL in Python., Save ODS to SQL using Python., Python ODS to SQL saveformat., ODS to SQL Converter., Python Save ODS as SQL]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Konvertera ODS till SQL i Python" h2="Höghastighets Python-bibliotek för att konvertera ODS till SQL. Använd vår excel-konvertering API för att utveckla plattformsoberoende programvara på hög nivå i Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="SQL" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,12 +12,12 @@ keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python ODS
 
 {{% blocks/products/pf/agp/content h2="Konvertera ODS till SQL i Python" %}}
 
- Hur konverterar jag ODS till SQL? Med Aspose.Cells for Python via NET bibliotek kan du enkelt konvertera ODS till SQL programmatiskt med några rader kod.[Aspose.Cells for Python via NET](https://pypi.org/project/aspose-cells-python/)kan bygga plattformsoberoende applikationer med förmågan att generera, modifiera, konvertera, rendera och skriva ut alla Excel-filer. Python Excel API konverterar inte bara mellan kalkylarksformat, det kan också rendera Excel-filer som bilder, PDF, HTML, ODS, ODS, CSV, 0761687481, 0761687481, vilket gör det till ett perfekt val, Pt utbyta dokument i branschstandard format.
+ Hur konverterar jag ODS till SQL? Med Aspose.Cells for Python via NET bibliotek kan du enkelt konvertera ODS till SQL programmatiskt med några rader kod.[Aspose.Cells for Python via NET](https://pypi.org/project/aspose-cells-python/)kan bygga plattformsoberoende applikationer med förmågan att generera, modifiera, konvertera, rendera och skriva ut alla Excel-filer. Python Excel API konverterar inte bara mellan kalkylarksformat, den kan också rendera Excel-filer som bilder, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT och mer, vilket gör det till ett perfekt val att utbyta dokument i industristandardformat.
 
 {{% /blocks/products/pf/agp/content %}}
 
 
-{{% blocks/products/pf/agp/content h2="Spara ODS till SQL i Python online gratis" %}}
+{{% blocks/products/pf/agp/content h2="Spara ODS till SQL i Python" %}}
 
 Följande exempel visar hur man konverterar ODS till SQL i Python via NET.
 {{% blocks/products/pf/agp/text %}}
@@ -28,7 +28,7 @@ Följ de enkla stegen för att konvertera ODS till SQL. Ladda upp din ODS-fil oc
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Gratis app och exempelkod för att konvertera ODS till SQL Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="ods" outformat="sql" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Exempelkod för att konvertera ODS till SQL" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="ods" outformat="sql" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="Hur man konverterar ODS till SQL" %}}
 
@@ -52,7 +52,7 @@ Behöver du konvertera ODS-filer till SQL programmatiskt? Python-utvecklare kan 
 Vi är värd för våra Python-paket i PyPi-förråd.
 
 {{% blocks/products/pf/agp/text %}}
-Installera Aspose.Cells for Python från<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , använd kommandot som:<code>$ pip install aspose-cells-python</code>.
+ Installera Aspose.Cells for Python från<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , använd kommandot som:<code>$ pip install aspose-cells-python</code>.
 {{% /blocks/products/pf/agp/text %}}
 
 {{% blocks/products/pf/agp/text %}}

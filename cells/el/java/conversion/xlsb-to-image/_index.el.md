@@ -1,7 +1,7 @@
 ---
-title: Java XLSB σε IMAGE - Online XLSB σε IMAGE Converter
-description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Δωρεάν Online Java Μετατροπή XLSB σε μορφή αποθήκευσης ΕΙΚΟΝΑΣ. Java XLSB σε μορφή IMAGE. Αποθηκεύστε το XLSB στο IMAGE Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java XLSB to IMAGE saveformat., Free Online XLSB to IMAGE Java., Java Convert XLSB to IMAGE]
+title: Java XLSB σε IMAGE - XLSB σε IMAGE Converter
+description: Aspose Excel. Μετατρέψτε το XLSB σε ΕΙΚΟΝΑ γρήγορα και εύκολα με το Aspose.Cells. Java XLSB σε ΕΙΚΟΝΑ. Java Αποθήκευση XLSB στο IMAGE. Αποθηκεύστε το XLSB ως ΕΙΚΟΝΑ χρησιμοποιώντας το Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Convert XLSB to IMAGE in Java., Save XLSB to IMAGE using Java., Java XLSB to IMAGE saveformat., XLSB to IMAGE Converter., Java Save XLSB as IMAGE]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Μετατροπή XLSB σε ΕΙΚΟΝΑ στο Java" h2="Βιβλιοθήκη υψηλής ταχύτητας Java για μετατροπή XLSB σε ΕΙΚΟΝΑ. Αυτή είναι μια επαγγελματική λύση λογισμικού για εισαγωγή και εξαγωγή XLSB, IMAGE και πολλών άλλων μορφών χρησιμοποιώντας το Java." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="IMAGE" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java XLSB to I
 
 {{% blocks/products/pf/agp/content h2="Μετατροπή XLSB σε ΕΙΚΟΝΑ χρησιμοποιώντας Java" %}}
 
- Πώς μπορώ να μετατρέψω το XLSB σε IMAGE; Με τη βιβλιοθήκη Aspose.Cells for Java, μπορείτε εύκολα να μετατρέψετε το XLSB σε ΕΙΚΟΝΑ μέσω προγραμματισμού με λίγες γραμμές κώδικα.[Aspose.Cells for Java](https://products.aspose.com/cells/java) έχει τη δυνατότητα δημιουργίας εφαρμογών πολλαπλών πλατφορμών με δυνατότητα δημιουργίας, τροποποίησης, μετατροπής, απόδοσης και εκτύπωσης όλων των αρχείων Excel. Java Το Excel API όχι μόνο μετατρέπει μεταξύ μορφών υπολογιστικών φύλλων, αλλά μπορεί επίσης να αποδώσει αρχεία Excel ως εικόνες, PDF, HTML, ODS, CSV, 07616031481, CSV, 07616831481, δημιουργώντας περισσότερα τέλεια επιλογή για την ανταλλαγή εγγράφων σε βιομηχανικά πρότυπα μορφές. Μπορείτε να κατεβάσετε την τελευταία του έκδοση απευθείας από[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) και εγκαταστήστε το στο έργο σας που βασίζεται στο Maven προσθέτοντας τις ακόλουθες διαμορφώσεις στο pom.xml.
+ Πώς μπορώ να μετατρέψω το XLSB σε IMAGE; Με τη βιβλιοθήκη Aspose.Cells for Java, μπορείτε εύκολα να μετατρέψετε το XLSB σε ΕΙΚΟΝΑ μέσω προγραμματισμού με λίγες γραμμές κώδικα.[Aspose.Cells for Java](https://products.aspose.com/cells/java)έχει τη δυνατότητα δημιουργίας εφαρμογών πολλαπλών πλατφορμών με δυνατότητα δημιουργίας, τροποποίησης, μετατροπής, απόδοσης και εκτύπωσης όλων των αρχείων Excel. Java Το Excel API όχι μόνο μετατρέπει μεταξύ μορφών υπολογιστικών φύλλων, αλλά μπορεί επίσης να αποδώσει αρχεία Excel ως εικόνες, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT και άλλα, καθιστώντας έτσι την τέλεια επιλογή για την ανταλλαγή εγγράφων σε βιομηχανικές τυποποιημένες μορφές. Μπορείτε να κατεβάσετε την τελευταία του έκδοση απευθείας από[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) και εγκαταστήστε το στο έργο σας που βασίζεται στο Maven προσθέτοντας τις ακόλουθες διαμορφώσεις στο pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Αποθήκη" offSpacer="true" %}}
 
@@ -45,7 +45,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java XLSB to I
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Αποθήκευση XLSB στο IMAGE στο Java Δωρεάν Online" %}}
+{{% blocks/products/pf/agp/content h2="Αποθηκεύστε το XLSB στο IMAGE στο Java" %}}
 
 Το ακόλουθο παράδειγμα δείχνει πώς να μετατρέψετε το XLSB σε IMAGE στο Java.
 {{% blocks/products/pf/agp/text %}}
@@ -56,7 +56,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java XLSB to I
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Δωρεάν εφαρμογή και δείγμα κώδικα για μετατροπή XLSB σε IMAGE Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsb" outformat="png" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Δείγμα κώδικα για μετατροπή XLSB σε ΕΙΚΟΝΑ" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsb" outformat="png" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="Πώς να μετατρέψετε το XLSB σε IMAGE via Java" %}}
 
@@ -68,7 +68,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java XLSB to I
 
 1.  Εγκαταστήστε το 'Aspose.Cells for Java'.
 1.  Προσθέστε μια αναφορά βιβλιοθήκης (εισάγετε τη βιβλιοθήκη) στο έργο σας Java.
-1.  Φορτώστε το αρχείο XLSB με μια παρουσία της κλάσης Βιβλίο εργασίας.
+1. Φορτώστε το αρχείο XLSB με μια παρουσία της κλάσης Βιβλίο εργασίας.
 1.  Μετατρέψτε το XLSB σε IMAGE καλώντας τη μέθοδο Workbook.save.
 1.  Λάβετε το αποτέλεσμα μετατροπής XLSB σε IMAGE.
 

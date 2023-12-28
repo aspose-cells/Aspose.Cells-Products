@@ -1,7 +1,7 @@
 ---
-title: C++ XLSB till XLSB - Online XLSB till XLSB Converter
-description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. Gratis Online C++ Konvertera XLSB till XLSB sparaformat. C++ XLSB till XLSB format. Spara XLSB till XLSB C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ XLSB to XLSB saveformat., Free Online XLSB to XLSB C++., C++ Convert XLSB to XLSB]
+title: C++ XLSB till XLSB - XLSB till XLSB Omvandlare
+description: Aspose Excel. Konvertera XLSB till XLSB snabbt och enkelt med Aspose.Cells. C++ XLSB till XLSB. C++ Spara XLSB till 07611 till 07161. 07611 till 07161. 3481 med C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., Convert XLSB to XLSB in C++., Save XLSB to XLSB using C++., C++ XLSB to XLSB saveformat., XLSB to XLSB Converter., C++ Save XLSB as XLSB]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Konvertera XLSB till XLSB till C++" h2="Högpresterande XLSB till XLSB konvertering med C++ bibliotek utan behov av Microsoft Excel, OpenOffice eller Adobe Acrobat installation." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSB" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ XLSB to XLSB
 
 {{% blocks/products/pf/agp/content h2="Konvertera XLSB till XLSB med C++" %}}
 
-Hur konverterar jag XLSB till XLSB? Med Aspose.Cells for C++ bibliotek kan du enkelt konvertera XLSB till XLSB programmatiskt med några rader kod.[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) kan bygga plattformsoberoende applikationer med förmågan att generera, modifiera, konvertera, rendera och skriva ut alla Excel-filer. C++ Excel API konverterar inte bara mellan kalkylarksformat, det kan också rendera Excel-filer som bilder, PDF, HTML, ODS, ODS, CSV, 0761687481, 0761687481, vilket gör det till ett perfekt val, Pt utbyta dokument i branschstandard format. Du kan ladda ner den senaste versionen direkt, bara öppna[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) pakethanteraren, sök efter Aspose.Cells.Cpp och installera. Du kan också använda följande kommando från Package Manager Console.
+Hur konverterar jag XLSB till XLSB? Med Aspose.Cells for C++ bibliotek kan du enkelt konvertera XLSB till XLSB programmatiskt med några rader kod.[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) kan bygga plattformsoberoende applikationer med förmågan att generera, modifiera, konvertera, rendera och skriva ut alla Excel-filer. C++ Excel API konverterar inte bara mellan kalkylarksformat, den kan också rendera Excel-filer som bilder, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT och mer, vilket gör det till ett perfekt val att utbyta dokument i industristandardformat. Du kan ladda ner den senaste versionen direkt, bara öppna[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) pakethanteraren, sök efter Aspose.Cells.Cpp och installera. Du kan också använda följande kommando från Package Manager Console.
 
 {{% blocks/products/pf/agp/code-block title="Kommando" offSpacer="true" %}}
 
@@ -26,7 +26,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Spara XLSB till XLSB på C++ Online gratis" %}}
+{{% blocks/products/pf/agp/content h2="Spara XLSB till XLSB i C++" %}}
 
 Följande exempel visar hur man konverterar XLSB till XLSB i C++.
 {{% blocks/products/pf/agp/text %}}
@@ -37,7 +37,7 @@ Följ de enkla stegen för att konvertera XLSB till XLSB. Ladda upp din XLSB-fil
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Gratis app och provkod för att konvertera XLSB till XLSB online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsb" outformat="xlsb" IsLandingPage="true" language="cpp" %}}
+{{% cells-convert title="Exempelkod för att konvertera XLSB till XLSB" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsb" outformat="xlsb" IsLandingPage="true" language="cpp" %}}
 
 {{% blocks/products/pf/agp/content h2="Hur man konverterar XLSB till XLSB via C++" %}}
 
@@ -49,7 +49,7 @@ Behöver du konvertera XLSB-filer till XLSB programmatiskt? C++-utvecklare kan e
 
 1.  Installera 'Aspose.Cells for C++'.
 1.  Lägg till en biblioteksreferens (importera biblioteket) till ditt C++-projekt.
-1.  Ladda XLSB-filen med Factory::CreateIWorkbook.
+1.  Ladda XLSB-filen med arbetsbok.
 1.  Konvertera XLSB till XLSB genom att anropa metoden Save().
 1.  Få konverteringsresultatet från XLSB till XLSB.
 
@@ -101,7 +101,6 @@ Det finns tre alternativ för att installera "Aspose.Cells for C++" på ditt sys
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xlsb-to-pdf/" name="XLSB TILL PDF" description="Portabelt dokumentformat" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xlsb-to-png/" name="XLSB TILL PNG" description="Bärbar nätverksgrafik" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xlsb-to-svg/" name="XLSB TILL SVG" description="Skalbar vektorgrafik" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xlsb-to-tiff/" name="XLSB TILL TIFF" description="Taggad bildformat" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xlsb-to-tsv/" name="XLSB TILL TSV" description="Tab-separerade värden" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xlsb-to-txt/" name="XLSB TILL TXT" description="Textdokument" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xlsb-to-xls/" name="XLSB TILL XLS" description="Excel binärt format" >}}

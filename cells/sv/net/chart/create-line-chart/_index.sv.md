@@ -1,6 +1,7 @@
 ---
 title:  Skapa linjediagram via C#
 description: C# Exempelkod för att skapa linjediagram till Excel med .NET Library. Använd den här koden för att skapa ett linjediagram till MS Excel inom VB.NET, Asp.NET eller någon .NET-baserad applikation.
+keywords: [C# Aspose.Cells., c# add Line Chart., c# insert Line Chart., c# create Line Chart]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Skapa linjediagram via C#" h2="Native och högpresterande MS Excel-diagram skapas programmatiskt med hjälp av serversidan .NET API:er." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSX" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -10,7 +11,7 @@ description: C# Exempelkod för att skapa linjediagram till Excel med .NET Libra
 
 {{% blocks/products/pf/agp/content h2="" %}}
 
- Det är enkelt att skapa linjediagram dynamiskt i ett program som körs. För att skapa olika diagram till kalkylblad från grunden utan att behöva MS Office, kommer vi att använda[Aspose.Cells for .NET](https://products.aspose.com/cells/net) API som erbjuder olika funktioner för att skapa, manipulera och konvertera kalkylark med .NET-plattformen. Aspose.Cells tillhandahåller många flexibla sjökortsobjekt.
+Det är enkelt att skapa linjediagram dynamiskt i ett program som körs. För att skapa olika diagram till kalkylblad från grunden utan att behöva MS Office, kommer vi att använda[Aspose.Cells for .NET](https://products.aspose.com/cells/net) API som erbjuder olika funktioner för att skapa, manipulera och konvertera kalkylark med .NET-plattformen. Aspose.Cells tillhandahåller många flexibla sjökortsobjekt.
 {{% /blocks/products/pf/agp/content %}}
 
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
@@ -19,14 +20,14 @@ description: C# Exempelkod för att skapa linjediagram till Excel med .NET Libra
 
 {{% blocks/products/pf/agp/text %}}
 
- Det är enkelt för utvecklarna att skapa ett linjediagram inom att köra olika rapporteringsapplikationer för databehandling på bara några rader kod.
+ Det är lätt för utvecklarna att skapa ett linjediagram inom att köra olika rapporteringsapplikationer för databehandling på bara några rader kod.
 
 {{% /blocks/products/pf/agp/text %}}
 
-1. Inkludera Aspose.Cells namnutrymme
+1. Inkludera namnutrymmet Aspose.Cells
 1.  Skapa[**Arbetsbok**](https://reference.aspose.com/cells/net/aspose.cells/workbook) klassinstans.
 1. Lägg till lite data till arbetsbladet.
-1.  Lägg till en[**Linje**](https://reference.aspose.com/cells/net/aspose.cells.charts/charttype)Diagram till arbetsbladet.
+1.  Lägg till en[**Linje**](https://reference.aspose.com/cells/net/aspose.cells.charts/charttype) Diagram till arbetsbladet.
 1.  Få tillgång till det nya[**Diagram**](https://reference.aspose.com/cells/net/aspose.cells.charts/chart)objekt.
 1.  Ange diagrammets datakälla med[**Chart.SetChartDataRange**](https://https://reference.aspose.com/cells/net/aspose.cells.charts/chart/methods/setchartdatarange) metod.
 
@@ -37,7 +38,7 @@ description: C# Exempelkod för att skapa linjediagram till Excel med .NET Libra
 
 {{% blocks/products/pf/agp/text %}}
 
- Se bara till att systemet har Microsoft Windows eller ett kompatibelt operativsystem med .NET Framework, .NET Core, Windows Azure, Mono eller Xamarin-plattformar samt utvecklingsmiljö som 4076163 som 4076163.
+Se bara till att systemet har Microsoft Windows eller ett kompatibelt operativsystem med .NET Framework, .NET Core, Windows Azure, Mono eller Xamarin-plattformar samt utvecklingsmiljö som 4076163 som 4076163.
 
 {{% /blocks/products/pf/agp/text %}}
 

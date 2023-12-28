@@ -2,6 +2,7 @@
 title:  Generera rapporter i XLS filer via .NET
 weight: 1700
 description: C# källkod för att generera rapporter i formatet XLS på .NET Framework, .NET Core, Mono eller Xamarin-plattformar.
+keywords: [C# Aspose.Cells., c# Create XLS Reports Based on Predesigned Excel Template., c# Generate XLS Reports Based on Predesigned Excel Template., c# Create XLS Reports Based on Excel Template., C# Generate XLS Reports Based on Excel Template., c# Create XLS files Based on Excel Template., C# Generate XLS files Based on Excel Template]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Generering av massrapporter i XLS-format via C#" h2="Generera rapporter i XLS-format med hjälp av datakälla och en mall." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLS" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLS" >}}

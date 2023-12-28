@@ -30,7 +30,7 @@ PM> Install-Package Aspose.Cells
 
 {{% blocks/products/pf/agp/text %}}
 
-Ένα βασικό έγγραφο που συγχωνεύεται και συνενώνεται με[Aspose.Cells for .NET](https://products.aspose.com/cells/net) Τα API μπορούν να γίνουν με λίγες μόνο γραμμές κώδικα.
+ Ένα βασικό έγγραφο που συγχωνεύεται και συνενώνεται με[Aspose.Cells for .NET](https://products.aspose.com/cells/net) Τα API μπορούν να γίνουν με λίγες μόνο γραμμές κώδικα.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -67,7 +67,7 @@ PM> Install-Package Aspose.Cells
             {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Δεν χρειάζεται να κατεβάσετε το Aspose API." >}}
             {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Δεν χρειάζεται να γράψετε κανέναν κώδικα." >}}
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Απλώς ανεβάστε τα αρχεία MHT σας." >}}
-            {{< blocks/products/pf/agp/democard icon="fa-download" text="Θα συγχωνευθεί και θα ενωθεί αμέσως." >}}
+            {{< blocks/products/pf/agp/democard icon="fa-download" text=" Θα συγχωνευθεί και θα ενωθεί αμέσως." >}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
@@ -75,7 +75,7 @@ PM> Install-Package Aspose.Cells
 
     {{% blocks/products/pf/agp/content h2="Σχετικά με Aspose.Cells for .NET API" %}}
 
- Aspose.Cells API μπορεί να χρησιμοποιηθεί για τη δημιουργία, επεξεργασία, μετατροπή και απόδοση μορφών Excel Microsoft σε διαφορετικές μορφές. Επιπλέον, μπορεί να χρησιμοποιηθεί για ολοκληρωμένη χαρτογράφηση, κλιμακούμενη αναφορά και αξιόπιστους υπολογισμούς εντός εφαρμογών λογισμικού. Το Aspose.Cells είναι ένα αυτόνομο API και δεν απαιτεί λογισμικό όπως το Microsoft ή το OpenOffice.
+Aspose.Cells API μπορεί να χρησιμοποιηθεί για τη δημιουργία, επεξεργασία, μετατροπή και απόδοση μορφών Excel Microsoft σε διαφορετικές μορφές. Επιπλέον, μπορεί να χρησιμοποιηθεί για ολοκληρωμένη χαρτογράφηση, κλιμακούμενη αναφορά και αξιόπιστους υπολογισμούς εντός εφαρμογών λογισμικού. Το Aspose.Cells είναι ένα αυτόνομο API και δεν απαιτεί λογισμικό όπως το Microsoft ή το OpenOffice.
 
 
 

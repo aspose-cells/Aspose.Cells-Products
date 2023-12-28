@@ -2,6 +2,7 @@
 title: Gruppera och dela upp former i Excel med Python via Java
 weight: 371
 description: Gruppera och dela upp objekt med Aspose.Cells' Python via Java API utan någon programvara som Microsoft eller Open Office, Adobe PDF, etc.
+keywords: [Python Aspose.Cells., Python group shapes., Python ungroup shapes., Python group and ungroup shapes., Python group or ungroup shapes]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Gruppera och dela upp former i Excel med Python via Java" h2="Använda Aspose.Cells\' API för att arbeta med olika objekt utan någon programvara som Microsoft eller Open Office, Adobe PDF, etc." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="" pfName="Aspose.Cells" subTitlepfName="for Python via Java" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="XLSX" >}}
@@ -37,7 +38,7 @@ Du behöver aspose.cells för att prova följande arbetsflöde i din egen miljö
 
 {{% /blocks/products/pf/agp/text %}}
 
-Instantiera ett arbetsboksobjekt.(eller->Läs in XLSX-filen med fullständig sökväg.)
++ Instantiera ett arbetsboksobjekt.(eller->Läs in XLSX-filen med fullständig sökväg.)
 + Välj kalkylblad via dess index.
  + Använd[gruppmetod](https://reference.aspose.com/cells/python-java/asposecells.api/shapecollection#group(com.aspose.cells.Shape[])) för att gruppera former i det valda kalkylbladet
  + Använd[avgruppera metoden](https://reference.aspose.com/cells/python-java/asposecells.api/shapecollection#ungroup(com.aspose.cells.GroupShape)) för att dela upp former i det valda kalkylbladet
@@ -49,12 +50,12 @@ Instantiera ett arbetsboksobjekt.(eller->Läs in XLSX-filen med fullständig sö
 
 {{% blocks/products/pf/agp/text %}}
 
-Aspose.Cells for Python via Java är plattformsoberoende API och kan användas på vilken plattform som helst (Windows, Linux och MacOS), se bara till att systemet har Java 1.8 eller högre,[Python](https://www.python.org/downloads/) 3,5 eller högre.
+ Aspose.Cells for Python via Java är plattformsoberoende API och kan användas på vilken plattform som helst (Windows, Linux och MacOS), se bara till att systemet har Java 1.8 eller högre,[Python](https://www.python.org/downloads/) 3,5 eller högre.
  
 {{% /blocks/products/pf/agp/text %}}
 
-- Alla operativsystem som kan köra Python via Java skript, som Windows, Linux och MacOS
--  Installera Java och lägg till den i PATH miljövariabel, till exempel:<code>PATH=C:\Program Files\Java\jdk1.8.0_131;</code>.
+-  Alla operativsystem som kan köra Python via Java skript, som Windows, Linux och MacOS
+- Installera Java och lägg till den i PATH miljövariabel, till exempel:<code>PATH=C:\Program Files\Java\jdk1.8.0_131;</code>.
 -  Installera Aspose.Cells for Python via Java från<a href="https://pypi.org/project/aspose-cells/">pypi</a> , använd kommandot som:<code>$ pip install aspose-cells</code>.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
@@ -74,7 +75,7 @@ Aspose.Cells for Python via Java är plattformsoberoende API och kan användas p
 
 {{% blocks/products/pf/agp/content h2="Om Aspose.Cells for Python via Java API" %}}
 
- Aspose.Cells API kan användas för att skapa, redigera, konvertera och rendera Microsoft Excel-format till olika format. Dessutom kan den användas för omfattande kartläggning, skalbar rapportering och tillförlitliga beräkningar inom mjukvaruapplikationer. Aspose.Cells är en fristående API och den kräver ingen programvara som Microsoft eller OpenOffice.
+Aspose.Cells API kan användas för att skapa, redigera, konvertera och rendera Microsoft Excel-format till olika format. Dessutom kan den användas för omfattande kartläggning, skalbar rapportering och tillförlitliga beräkningar inom mjukvaruapplikationer. Aspose.Cells är en fristående API och den kräver ingen programvara som Microsoft eller OpenOffice.
 
 {{% /blocks/products/pf/agp/content %}}
 

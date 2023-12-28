@@ -2,6 +2,7 @@
 title:  Επεξεργασία ή προβολή XLSM Μεταδεδομένα εγγράφου μέσω C++
 weight: 1300
 description: C++ παράδειγμα κώδικα για επεξεργασία ή προβολή μεταδεδομένων αρχείου XLSM στο C++ Runtime Environment για Windows 32 bit, Windows 64 bit και Linux 64 bit.
+keywords: [C++ Aspose.Cells., C++ view xlsm metadata., C++ add xlsm metadata., C++ insert xlsm metadata., C++ edit xlsm metadata., C++ remove xlsm metadata., C++ extract xlsm metadata., C++ modify xlsm metadata]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Απόσπασμα XLSM Μεταδεδομένα μέσω C++" h2="Δημιουργήστε τις δικές σας εφαρμογές C++ για να προσθέσετε, να επεξεργαστείτε, να αφαιρέσετε ή να εξαγάγετε μεταδεδομένα από αρχεία XLSM χρησιμοποιώντας API από την πλευρά του διακομιστή." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSM" pfName="Aspose.Cells" subTitlepfName="for C++" downloadUrl="" fileiconsmall1="PPTX" fileiconsmall2="DOCX" fileiconsmall3="XLSX" fileiconsmall4="PDF" fileiconsmall5=" ODP " >}}
@@ -41,9 +42,9 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/text %}}
 
-+ Φόρτωση αρχείου XLSM χρησιμοποιώντας το CreateIWorkbookMetadata
-+ Δημιουργήστε επιλογές χρησιμοποιώντας το CreateIMetadataOptions
-+ Προσθήκη νέων ιδιοτήτων από τα GetICustomDocumentProperties() και AddIDocumentProperty
++ Δημιουργήστε επιλογές χρησιμοποιώντας τις Επιλογές Μεταδεδομένων
++ Φόρτωση αρχείου XLSM χρησιμοποιώντας το WorkbookMetadata
++ Προσθήκη νέων ιδιοτήτων με GetCustomDocumentProperties() και Προσθήκη
 + Αποθήκευση εγγράφου XLSM
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
@@ -65,10 +66,17 @@ PM> Install-Package Aspose.Cells.Cpp
 
 ```cs
 
-intrusive_ptr<IMetadataOptions> options = Factory::CreateIMetadataOptions(MetadataType_DocumentProperties);
-intrusive_ptr<IWorkbookMetadata> meta = Factory::CreateIWorkbookMetadata(new String("c:\\book1.xlsm"), options);
-meta->GetICustomDocumentProperties()->AddIDocumentProperty(new String("test"), (StringPtr)new String("test"));
-meta->Save(new String("c:\\book2.xlsm"));  
+Aspose::Cells::Startup();
+
+//Load the sample excel file
+MetadataOptions options(MetadataType::Document_Properties);
+WorkbookMetadata meta(u"c:\\book1.xlsm", options);
+//Add a new custom property
+meta.GetCustomDocumentProperties().Add(u"test", u"test");
+//Save the output excel file
+meta.Save(u"c:\\book2.xlsm"); 
+
+Aspose::Cells::Cleanup();
 
 ```
 

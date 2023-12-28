@@ -1,7 +1,7 @@
 ---
-title: C++ ODS σε ET - Online ODS σε ET Converter
-description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. Δωρεάν Online C++ Μετατροπή ODS σε μορφή αποθήκευσης ET. C++ ODS σε μορφή ET. Αποθήκευση ODS στο ET C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ ODS to ET saveformat., Free Online ODS to ET C++., C++ Convert ODS to ET]
+title: C++ ODS σε ET - ODS σε ET Converter
+description: Aspose Excel. Μετατρέψτε το ODS σε ET γρήγορα και εύκολα με το Aspose.Cells. C++ ODS σε ET. C++ Αποθήκευση ODS στο ET. Αποθηκεύστε το ODS ως ET χρησιμοποιώντας το C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., Convert ODS to ET in C++., Save ODS to ET using C++., C++ ODS to ET saveformat., ODS to ET Converter., C++ Save ODS as ET]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Μετατρέψτε το ODS σε ET στο C++" h2="Μετατροπή υψηλής απόδοσης ODS σε ET με χρήση της βιβλιοθήκης C++ χωρίς την ανάγκη εγκατάστασης Microsoft Excel, OpenOffice ή Adobe Acrobat." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" sourceAdditionalConversionTag="" additionalConversionTag="ET" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ ODS to ET sa
 
 {{% blocks/products/pf/agp/content h2="Μετατροπή ODS σε ET χρησιμοποιώντας C++" %}}
 
- Πώς μπορώ να μετατρέψω το ODS σε ET; Με τη βιβλιοθήκη Aspose.Cells for C++, μπορείτε εύκολα να μετατρέψετε το ODS σε ET μέσω προγραμματισμού με λίγες γραμμές κώδικα.[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) έχει τη δυνατότητα δημιουργίας εφαρμογών πολλαπλών πλατφορμών με δυνατότητα δημιουργίας, τροποποίησης, μετατροπής, απόδοσης και εκτύπωσης όλων των αρχείων Excel. C++ Το Excel API όχι μόνο μετατρέπει μεταξύ μορφών υπολογιστικών φύλλων, αλλά μπορεί επίσης να αποδώσει αρχεία Excel ως εικόνες, PDF, HTML, ODS, CSV, 07616031481, CSV, 07616831481, δημιουργώντας περισσότερα τέλεια επιλογή για την ανταλλαγή εγγράφων σε βιομηχανικά πρότυπα μορφές. Μπορείτε να κατεβάσετε την τελευταία του έκδοση απευθείας, απλά ανοίξτε[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) διαχειριστής πακέτων, αναζητήστε Aspose.Cells.Cpp και εγκαταστήστε. Μπορείτε επίσης να χρησιμοποιήσετε την ακόλουθη εντολή από την Κονσόλα Package Manager.
+ Πώς μπορώ να μετατρέψω το ODS σε ET; Με τη βιβλιοθήκη Aspose.Cells for C++, μπορείτε εύκολα να μετατρέψετε το ODS σε ET μέσω προγραμματισμού με λίγες γραμμές κώδικα.[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) έχει τη δυνατότητα δημιουργίας εφαρμογών πολλαπλών πλατφορμών με δυνατότητα δημιουργίας, τροποποίησης, μετατροπής, απόδοσης και εκτύπωσης όλων των αρχείων Excel. C++ Το Excel API όχι μόνο μετατρέπει μεταξύ μορφών υπολογιστικών φύλλων, αλλά μπορεί επίσης να αποδώσει αρχεία Excel ως εικόνες, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT και άλλα, καθιστώντας έτσι την τέλεια επιλογή για την ανταλλαγή εγγράφων σε βιομηχανικές τυποποιημένες μορφές. Μπορείτε να κατεβάσετε την τελευταία του έκδοση απευθείας, απλά ανοίξτε[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) διαχειριστής πακέτων, αναζητήστε Aspose.Cells.Cpp και εγκαταστήστε. Μπορείτε επίσης να χρησιμοποιήσετε την ακόλουθη εντολή από την Κονσόλα Package Manager.
 
 {{% blocks/products/pf/agp/code-block title="Εντολή" offSpacer="true" %}}
 
@@ -26,7 +26,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Αποθήκευση ODS στο ET στο C++ Δωρεάν Online" %}}
+{{% blocks/products/pf/agp/content h2="Αποθηκεύστε ODS στο ET στο C++" %}}
 
 Το ακόλουθο παράδειγμα δείχνει πώς να μετατρέψετε το ODS σε ET στο C++.
 {{% blocks/products/pf/agp/text %}}
@@ -37,7 +37,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Δωρεάν εφαρμογή και δείγμα κώδικα για μετατροπή ODS σε ET Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="ods" outformat="et" IsLandingPage="true" language="cpp" %}}
+{{% cells-convert title="Δείγμα κώδικα για μετατροπή ODS σε ET" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="ods" outformat="et" IsLandingPage="true" language="cpp" %}}
 
 {{% blocks/products/pf/agp/content h2="Πώς να μετατρέψετε το ODS σε ET μέσω του C++" %}}
 
@@ -49,8 +49,8 @@ PM> Install-Package Aspose.Cells.Cpp
 
 1.  Εγκαταστήστε το 'Aspose.Cells for C++'.
 1.  Προσθέστε μια αναφορά βιβλιοθήκης (εισάγετε τη βιβλιοθήκη) στο έργο σας C++.
-1.  Φορτώστε το αρχείο ODS χρησιμοποιώντας το Factory::CreateIWorkbook.
-1.  Μετατρέψτε το ODS σε ET καλώντας τη μέθοδο Save().
+1.  Φορτώστε το αρχείο ODS χρησιμοποιώντας το Βιβλίο εργασίας.
+1. Μετατρέψτε το ODS σε ET καλώντας τη μέθοδο Save().
 1.  Λάβετε το αποτέλεσμα μετατροπής ODS σε ET.
 
 {{% /blocks/products/pf/agp/content %}}
@@ -101,7 +101,6 @@ PM> Install-Package Aspose.Cells.Cpp
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/ods-to-pdf/" name="ODS ΕΩΣ PDF" description="Μορφή φορητού εγγράφου" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/ods-to-png/" name="ODS ΕΩΣ PNG" description="Φορητά γραφικά δικτύου" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/ods-to-svg/" name="ODS ΕΩΣ SVG" description="Κλιμακόμενα διανυσματικά γραφικά" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/ods-to-tiff/" name="ODS ΕΩΣ TIFF" description="Με ετικέτα Μορφή εικόνας" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/ods-to-tsv/" name="ODS ΕΩΣ TSV" description="Τιμές διαχωρισμένες με καρτέλες" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/ods-to-txt/" name="ODS ΕΩΣ TXT" description="Έγγραφο κειμένου" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/ods-to-xls/" name="ODS ΕΩΣ XLS" description="Δυαδική μορφή Excel" >}}

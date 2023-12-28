@@ -1,7 +1,8 @@
 ---
-title:  Ta bort XLSM Anteckning via .NET
+title:  Lägg till eller ta bort XLSM Anteckning via .NET
 weight: 9890
 description: C# källkod för att lägga till och ta bort XLSM formatkommentarer på .NET Framework, .NET Core, Mono eller Xamarin Platforms.
+keywords: [C# Aspose.Cells., add xlsm annotation., insert xlsm annotation., access xlsm annotation., remove xlsm annotation., delete xlsm annotation., add annotation in xlsm., insert annotation in xlsm., access annotation in xlsm., remove annotation in xlsm., delete annotation in xlsm]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Lägg till eller ta bort anteckning från XLSM via C#" h2="Bygg dina egna .NET-appar för att manipulera kommentarer och författare i dokumentfiler med hjälp av API:er på serversidan." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSM" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="PPTX" fileiconsmall2="DOCX" fileiconsmall3="XLSX" fileiconsmall4="PDF" fileiconsmall5=" ODP " >}}

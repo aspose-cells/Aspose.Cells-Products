@@ -1,8 +1,8 @@
 ---
 title: Slå samman MHTML till EXCEL - Kombinera MHTML till EXCEL i Java
 url: /sv/java/merger/merge-mhtml-to-excel/ 
-description: Aspose Excel. Java Aspose.Cells. Gratis Online Merge MHTML till EXCEL sparaformat. Java Kombinera MHTML till EXCEL-format. Slå samman MHTML till EXCEL i Java. MHTML Slå samman.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge MHTML to EXCEL in Java., Free Online Java Merge MHTML to excel., Java Combine MHTML to EXCEL Online for Free., MHTML Merge]
+description: Aspose Excel. Java Aspose.Cells. Slå samman MHTML till EXCEL-sparformat. Java Kombinera MHTML till EXCEL-format. Slå samman MHTML till EXCEL i Java. MHTML Slå samman.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge MHTML to EXCEL in Java., Java Merge MHTML to excel., Java Combine MHTML to EXCEL., MHTML Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Slå samman MHTML till EXCEL via Java" h2="Höghastighetsbibliotek Java för sammanslagning av MHTML till EXCEL. Använd vår excel-konvertering API för att utveckla plattformsoberoende programvara på hög nivå i Java. Detta är en professionell mjukvarulösning för att importera och exportera Excel, CSV, OpenOffice, PDF, HTML, image och många andra Excel-format." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="MHTML" additionalConversionTag="EXCEL" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Merge MHTML to EXCEL in Java., Fre
 
 {{% blocks/products/pf/agp/content h2="Slå samman MHTML till EXCEL med Java" %}}
 
- Hur slår jag ihop MHTML till EXCEL? Med Aspose.Cells for Java bibliotek kan du enkelt slå samman MHTML till EXCEL programmatiskt med några rader kod.[Aspose.Cells for Java](https://products.aspose.com/cells/java) kan bygga plattformsoberoende applikationer med förmågan att generera, modifiera, konvertera, rendera och skriva ut alla Excel-filer. Java Excel API konverterar inte bara mellan kalkylarksformat, det kan också rendera Excel-filer som bilder, PDF, HTML, ODS, ODS, CSV, 0761687481, 0761687481, vilket gör det till ett perfekt val, Pt utbyta dokument i branschstandard format. Du kan ladda ner den senaste versionen direkt från[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) och installera det i ditt Maven-baserade projekt genom att lägga till följande konfigurationer till pom.xml.
+ Hur slår jag ihop MHTML till EXCEL? Med Aspose.Cells for Java bibliotek kan du enkelt slå samman MHTML till EXCEL programmatiskt med några rader kod.[Aspose.Cells for Java](https://products.aspose.com/cells/java)kan bygga plattformsoberoende applikationer med förmågan att generera, modifiera, konvertera, rendera och skriva ut alla Excel-filer. Java Excel API konverterar inte bara mellan kalkylarksformat, den kan också rendera Excel-filer som bilder, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT och mer, vilket gör det till ett perfekt val att utbyta dokument i industristandardformat. Du kan ladda ner den senaste versionen direkt från[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) och installera det i ditt Maven-baserade projekt genom att lägga till följande konfigurationer till pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Förvar" offSpacer="true" %}}
 
@@ -45,7 +45,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Merge MHTML to EXCEL in Java., Fre
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Slå samman MHTML till EXCEL i Java Online gratis" %}}
+{{% blocks/products/pf/agp/content h2="Slå samman MHTML till EXCEL i Java" %}}
 
 Följande exempel visar hur man slår samman MHTML till EXCEL i Aspose.Cells for Java.
 {{% blocks/products/pf/agp/text %}}
@@ -56,7 +56,7 @@ Följ de enkla stegen för att slå samman MHTML till EXCEL. Ladda upp dina file
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Gratis online för att slå samman MHTML till EXCEL i Java" InputFormat="mhtml" InputFormat2="xlsx" outformat="xlsx" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="java" %}}
+{{% cells-merger title="Exempelkod för att slå samman MHTML till EXCEL i Java" InputFormat="mhtml" InputFormat2="xlsx" outformat="xlsx" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="Hur man slår samman MHTML till EXCEL via Java" %}}
 

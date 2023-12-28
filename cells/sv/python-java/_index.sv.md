@@ -1,7 +1,8 @@
 ---
 title:  Python Excel-kalkylblad API - Aspose
 weight: 2820
-description: Python kalkylbladsbibliotek för att skapa läs-skriv- och tolka Excel-filer.
+description: Python-bibliotek för att skapa, reparera, slå samman, analysera och konvertera Excel-filer. Konvertera excel till PDF, JSON, HTML, TXT och andra populära format.
+keywords: [Python Aspose.Cells Create parse repair merge convert JSON Excel XML PDF HTML TSV SQL CSV TSV PNG JPEG and more formats]
 ---
 {{< blocks/products/pf/main-wrap-class >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Python Excel-kalkylblad Parsing API:er" h2="Generera, läs, skriv eller manipulera kalkylblad samt exportera Excel-filer till flera format inom Python-applikationer." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/headers/aspose_cells-for-python-java.svg" pfName="Aspose.Cells" subTitlepfName="for Python via Java" downloadUrl="https://releases.aspose.com/cells/python-java/" >}}
@@ -31,7 +32,7 @@ Aspose.Cells for Python via Java är en snabb och pålitlig API för bearbetning
    </header>
    <ul>
     <li>
- Arrayer
+ Matriser
     </li>
     <li>
  Resultatet satt
@@ -234,7 +235,7 @@ Samlingar
  <div class="row">
   <div class="container">
    <h2 class="pr-ft">
-Avancerade Python Excel API funktioner
+ Avancerade Python Excel API funktioner
    </h2>
    <p>
    </p>
@@ -305,7 +306,7 @@ Avancerade Python Excel API funktioner
     <em class="fa fa-object-ungroup ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Lägg till eller ta bort gruppering i rader och kolumner
+Lägg till eller ta bort gruppering i rader och kolumner
     </p>
    </div>
    <div class="col-lg-4">
@@ -488,7 +489,7 @@ wkbk.save(SD_PATH + "houtput.html", SaveFormat.HTML);</code></pre>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
- Anpassning av diagram
+Anpassning av diagram
     </h2>
     <p>
 Aspose.Cells for Python via Java ger fullt stöd för kartläggning. Man kan enkelt lägga till standard och anpassade diagram eller dynamiskt ställa in diagramdata för att uppdatera diagrammet via detta pythonbibliotek.

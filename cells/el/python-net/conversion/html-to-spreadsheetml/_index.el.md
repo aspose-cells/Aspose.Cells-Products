@@ -1,7 +1,7 @@
 ---
-title: Python HTML σε SPREADSHEETML - Online HTML σε SPREADSHEETML Μετατροπέας
-description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Δωρεάν Online Python Μετατροπή HTML σε μορφή αποθήκευσης SPREADSHEETML. Python HTML σε μορφή SPREADSHEETML. Αποθηκεύστε το HTML στο SPREADSHEETML Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python HTML to SPREADSHEETML saveformat., Free Online HTML to SPREADSHEETML Python., Python Convert HTML to SPREADSHEETML]
+title: Python HTML σε SPREADSHEETML - HTML σε SPREADSHEETML Μετατροπέας
+description: Aspose Excel. Μετατρέψτε το HTML σε SPREADSHEETML γρήγορα και εύκολα με το Aspose.Cells. Python HTML σε SPREADSHEETML. Python Αποθήκευση HTML στο SPREADSHEETML. Αποθηκεύστε το HTML ως SPREADSHEETML χρησιμοποιώντας το Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Convert HTML to SPREADSHEETML in Python., Save HTML to SPREADSHEETML using Python., Python HTML to SPREADSHEETML saveformat., HTML to SPREADSHEETML Converter., Python Save HTML as SPREADSHEETML]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Μετατροπή HTML σε SPREADSHEETML στο Python" h2="Βιβλιοθήκη υψηλής ταχύτητας Python για μετατροπή HTML σε SPREADSHEETML. Χρησιμοποιήστε τη μετατροπή excel API για να αναπτύξετε λογισμικό υψηλού επιπέδου, ανεξάρτητο από πλατφόρμα στο Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="SPREADSHEETML" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,12 +12,12 @@ keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python HTM
 
 {{% blocks/products/pf/agp/content h2="Μετατροπή HTML σε SPREADSHEETML στο Python" %}}
 
- Πώς μπορώ να μετατρέψω το HTML σε SPREADSHEETML; Με το Aspose.Cells for Python μέσω της βιβλιοθήκης NET, μπορείτε εύκολα να μετατρέψετε το HTML σε SPREADSHEETML μέσω προγραμματισμού με λίγες γραμμές κώδικα.[Aspose.Cells for Python μέσω NET](https://pypi.org/project/aspose-cells-python/)έχει τη δυνατότητα δημιουργίας εφαρμογών πολλαπλών πλατφορμών με δυνατότητα δημιουργίας, τροποποίησης, μετατροπής, απόδοσης και εκτύπωσης όλων των αρχείων Excel. Python Το Excel API όχι μόνο μετατρέπει μεταξύ μορφών υπολογιστικών φύλλων, αλλά μπορεί επίσης να αποδώσει αρχεία Excel ως εικόνες, PDF, HTML, ODS, CSV, 07616031481, CSV, 07616831481, δημιουργώντας περισσότερα τέλεια επιλογή για την ανταλλαγή εγγράφων σε βιομηχανικά πρότυπα μορφές.
+ Πώς μπορώ να μετατρέψω το HTML σε SPREADSHEETML; Με το Aspose.Cells for Python μέσω της βιβλιοθήκης NET, μπορείτε εύκολα να μετατρέψετε το HTML σε SPREADSHEETML μέσω προγραμματισμού με λίγες γραμμές κώδικα.[Aspose.Cells for Python μέσω NET](https://pypi.org/project/aspose-cells-python/)έχει τη δυνατότητα δημιουργίας εφαρμογών πολλαπλών πλατφορμών με δυνατότητα δημιουργίας, τροποποίησης, μετατροπής, απόδοσης και εκτύπωσης όλων των αρχείων Excel. Python Το Excel API όχι μόνο μετατρέπει μεταξύ μορφών υπολογιστικών φύλλων, αλλά μπορεί επίσης να αποδώσει αρχεία Excel ως εικόνες, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT και άλλα, καθιστώντας έτσι την τέλεια επιλογή για την ανταλλαγή εγγράφων σε βιομηχανικές τυποποιημένες μορφές.
 
 {{% /blocks/products/pf/agp/content %}}
 
 
-{{% blocks/products/pf/agp/content h2="Αποθηκεύστε το HTML στο SPREADSHEETML στο Python Δωρεάν Online" %}}
+{{% blocks/products/pf/agp/content h2="Αποθήκευση HTML στο SPREADSHEETML στο Python" %}}
 
 Το ακόλουθο παράδειγμα δείχνει πώς να μετατρέψετε το HTML σε SPREADSHEETML στο Python via NET.
 {{% blocks/products/pf/agp/text %}}
@@ -28,7 +28,7 @@ keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python HTM
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Δωρεάν εφαρμογή και δείγμα κώδικα για μετατροπή HTML σε SPREADSHEETML Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="html" outformat="xml" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Δείγμα κώδικα για μετατροπή HTML σε SPREADSHEETML" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="html" outformat="xml" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="Πώς να μετατρέψετε το HTML σε SPREADSHEETML" %}}
 
@@ -52,7 +52,7 @@ keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python HTM
 Φιλοξενούμε τα πακέτα μας Python στα αποθετήρια PyPi.
 
 {{% blocks/products/pf/agp/text %}}
-Εγκαταστήστε το Aspose.Cells for Python από<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , χρησιμοποιήστε την εντολή ως:<code>$ pip install aspose-cells-python</code>.
+ Εγκαταστήστε το Aspose.Cells for Python από<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , χρησιμοποιήστε την εντολή ως:<code>$ pip install aspose-cells-python</code>.
 {{% /blocks/products/pf/agp/text %}}
 
 {{% blocks/products/pf/agp/text %}}

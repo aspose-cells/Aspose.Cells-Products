@@ -1,7 +1,8 @@
 ---
 title: Infoga pivotdiagram i Micorsoft Excel XLSX-filer via C#
 weight: 7690
-description: C# Exempelkod för att generera XLSX dokument med pivotdiagram. Använd den här koden för att skapa Micorsoft Excel XLSX-filer med pivotdiagram inom VB.NET, Asp.NET eller någon .NET-baserad applikation.
+description: C# Exempelkod för att lägga till pivotdiagram till XLSX med hjälp av .NET Library. Använd den här koden för att infoga pivotdiagram till XLSX-filen i VB.NET, Asp.NET eller någon .NET-baserad applikation.
+keywords: [C# Aspose.Cells., c# add pivot chart in xlsx., c# insert pivot chart in xlsx., c# create pivot chart in xlsx., c# modify pivot chart in xlsx., access pivot chart in xlsx]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Infoga pivotdiagram i XLSX Dokument via C#" h2="Native och högpresterande Microsoft Excel XLSX kalkylblad med pivotdiagram skapande programmatiskt med hjälp av serversidan .NET API:er." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSX" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -11,9 +12,7 @@ description: C# Exempelkod för att generera XLSX dokument med pivotdiagram. Anv
 
 {{% blocks/products/pf/agp/content h2="" %}}
 
- Det är enkelt att generera MS Excel XLSX-filen med pivotdiagram dynamiskt i ett program som körs. För att skapa XLSX-dokument med pivotdiagram från början utan att behöva MS Office använder vi
- [Aspose.Cells for .NET](https://products.aspose.com/cells/net) 
- API som erbjuder olika funktioner för att skapa, manipulera och konvertera kalkylark med .NET-plattformen. Utvecklare kan enkelt förbättra kod för att skriva data, generera diagram eller grafer samt skapa tabeller i kalkylblad.
+ Det är enkelt att generera MS Excel XLSX-filen med pivotdiagram dynamiskt i ett program som körs. För att skapa XLSX-dokument med pivotdiagram från början utan att behöva MS Office använder vi[Aspose.Cells for .NET](https://products.aspose.com/cells/net) API som erbjuder olika funktioner för att skapa, manipulera och konvertera kalkylark med .NET-plattformen. Utvecklare kan enkelt förbättra kod för att skriva data, generera diagram eller grafer samt skapa tabeller i kalkylblad.
 {{% /blocks/products/pf/agp/content %}}
 
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
@@ -32,7 +31,7 @@ description: C# Exempelkod för att generera XLSX dokument med pivotdiagram. Anv
 1.  Hämta önskad cell(er) i kalkylbladet och lägg värdet i cellen(erna).
 1.  Infoga pivottabell och ställ in stilen
 1.  Infoga pivotdiagram med hjälp av pivottabellens data
-1. Använd metoden Spara för att spara arbetsboken som XLSX-fil.
+1.  Använd metoden Spara för att spara arbetsboken som XLSX-fil.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -40,7 +39,7 @@ description: C# Exempelkod för att generera XLSX dokument med pivotdiagram. Anv
 
 {{% blocks/products/pf/agp/text %}}
 
- Se bara till att systemet har Microsoft Windows eller ett kompatibelt operativsystem med .NET Framework, .NET Core, Windows Azure, Mono eller Xamarin-plattformar samt utvecklingsmiljö som 4076163 som 4076163.
+Se bara till att systemet har Microsoft Windows eller ett kompatibelt operativsystem med .NET Framework, .NET Core, Windows Azure, Mono eller Xamarin-plattformar samt utvecklingsmiljö som 4076163 som 4076163.
 
 {{% /blocks/products/pf/agp/text %}}
 

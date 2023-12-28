@@ -46,7 +46,7 @@ description: Συγχώνευση αρχείου Excel στον κώδικα Pyt
 
 -  Εγκαταστήστε το Java 1.8 ή μεταγενέστερο και προσθέστε το στη μεταβλητή περιβάλλοντος PATH, για παράδειγμα:<code>PATH=C:\Program Files\Java\jdk1.8.0_131;</code>.
 -  Εγκαθιστώ[Python](https://www.python.org/downloads/) 3,5 ή υψηλότερο.
-- Εγκαταστήστε το Aspose.Cells for Python από<a href="https://pypi.org/project/aspose-cells/">pypi</a> , χρησιμοποιήστε την εντολή ως:<code>$ pip install aspose-cells</code>.
+-  Εγκαταστήστε το Aspose.Cells for Python από<a href="https://pypi.org/project/aspose-cells/">pypi</a> , χρησιμοποιήστε την εντολή ως:<code>$ pip install aspose-cells</code>.
 
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

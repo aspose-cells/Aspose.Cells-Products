@@ -1,8 +1,8 @@
 ---
 title: Συγχώνευση NUMBERS στο JSON - Συνδυάστε NUMBERS στο JSON στο C++
 url: /el/cpp/merger/merge-numbers-to-json/ 
-description: Aspose Excel. C++ Aspose.Cells. Δωρεάν Online Merge NUMBERS to JSON saveformat. C++ Συνδυάστε τα NUMBERS σε μορφή JSON. Συγχώνευση NUMBERS στο JSON στο C++. NUMBERS Συγχώνευση.
-keywords: [Aspose Excel., C++ Aspose.Cells., Merge NUMBERS to JSON in C++., Free Online C++ Merge NUMBERS to json., C++ Combine NUMBERS to JSON Online for Free., NUMBERS Merge]
+description: Aspose Excel. C++ Aspose.Cells. Συγχώνευση NUMBERS σε μορφή αποθήκευσης JSON. C++ Συνδυάστε τα NUMBERS σε μορφή JSON. Συγχώνευση NUMBERS στο JSON στο C++. NUMBERS Συγχώνευση.
+keywords: [Aspose Excel., C++ Aspose.Cells., Merge NUMBERS to JSON in C++., C++ Merge NUMBERS to json., C++ Combine NUMBERS to JSON., NUMBERS Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Συγχώνευση NUMBERS στο JSON μέσω C++" h2="Βιβλιοθήκη υψηλής ταχύτητας C++ για συγχώνευση NUMBERS στο JSON. Χρησιμοποιήστε τη μετατροπή excel API για να αναπτύξετε λογισμικό υψηλού επιπέδου, ανεξάρτητο από πλατφόρμα στο C++. Αυτή είναι μια επαγγελματική λύση λογισμικού για εισαγωγή και εξαγωγή πολλών άλλων μορφών excel, Excel, CSV, OpenOffice, PDF, HTML, image." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" sourceAdditionalConversionTag="NUMBERS" additionalConversionTag="JSON" pfName="Aspose.Cells" subTitlepfName="for C++" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., C++ Aspose.Cells., Merge NUMBERS to JSON in C++., Free
 
 {{% blocks/products/pf/agp/content h2="Συγχώνευση NUMBERS στο JSON χρησιμοποιώντας C++" %}}
 
- Πώς μπορώ να συγχωνεύσω τα NUMBERS στο JSON; Με τη βιβλιοθήκη Aspose.Cells for C++, μπορείτε εύκολα να συγχωνεύσετε NUMBERS στο JSON μέσω προγραμματισμού με λίγες γραμμές κώδικα.[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) έχει τη δυνατότητα δημιουργίας εφαρμογών πολλαπλών πλατφορμών με δυνατότητα δημιουργίας, τροποποίησης, μετατροπής, απόδοσης και εκτύπωσης όλων των αρχείων Excel. C++ Το Excel API όχι μόνο μετατρέπει μεταξύ μορφών υπολογιστικών φύλλων, αλλά μπορεί επίσης να αποδώσει αρχεία Excel ως εικόνες, PDF, HTML, ODS, CSV, 07616031481, CSV, 07616831481, δημιουργώντας περισσότερα τέλεια επιλογή για την ανταλλαγή εγγράφων σε βιομηχανικά πρότυπα μορφές. Μπορείτε να κατεβάσετε την τελευταία του έκδοση απευθείας, απλά ανοίξτε[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) διαχειριστής πακέτων, αναζητήστε Aspose.Cells.Cpp και εγκαταστήστε. Μπορείτε επίσης να χρησιμοποιήσετε την ακόλουθη εντολή από την Κονσόλα Package Manager.
+ Πώς μπορώ να συγχωνεύσω τα NUMBERS στο JSON; Με τη βιβλιοθήκη Aspose.Cells for C++, μπορείτε εύκολα να συγχωνεύσετε NUMBERS στο JSON μέσω προγραμματισμού με λίγες γραμμές κώδικα.[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) έχει τη δυνατότητα δημιουργίας εφαρμογών πολλαπλών πλατφορμών με δυνατότητα δημιουργίας, τροποποίησης, μετατροπής, απόδοσης και εκτύπωσης όλων των αρχείων Excel. C++ Το Excel API όχι μόνο μετατρέπει μεταξύ μορφών υπολογιστικών φύλλων, αλλά μπορεί επίσης να αποδώσει αρχεία Excel ως εικόνες, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT και άλλα, καθιστώντας έτσι την τέλεια επιλογή για την ανταλλαγή εγγράφων σε βιομηχανικές τυποποιημένες μορφές. Μπορείτε να κατεβάσετε την τελευταία του έκδοση απευθείας, απλά ανοίξτε[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) διαχειριστής πακέτων, αναζητήστε Aspose.Cells.Cpp και εγκαταστήστε. Μπορείτε επίσης να χρησιμοποιήσετε την ακόλουθη εντολή από την Κονσόλα Package Manager.
 
 {{% blocks/products/pf/agp/code-block title="Εντολή" offSpacer="true" %}}
 
@@ -26,7 +26,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Συγχώνευση NUMBERS στο JSON στο C++ Δωρεάν Online" %}}
+{{% blocks/products/pf/agp/content h2="Συγχώνευση NUMBERS στο JSON στο C++" %}}
 
 Το ακόλουθο παράδειγμα δείχνει πώς να συγχωνεύσετε τους αριθμούς με το JSON στο Aspose.Cells for C++.
 {{% blocks/products/pf/agp/text %}}
@@ -37,7 +37,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Δωρεάν online για συγχώνευση NUMBERS στο JSON στο C++" InputFormat="numbers" InputFormat2="json" outformat="json" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="cpp" %}}
+{{% cells-merger title="Δείγμα κώδικα για συγχώνευση αριθμών σε JSON στο C++" InputFormat="numbers" InputFormat2="json" outformat="json" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="cpp" %}}
 
 {{% blocks/products/pf/agp/content h2="Πώς να συγχωνεύσετε τους αριθμούς στο JSON μέσω του C++" %}}
 
@@ -88,7 +88,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 <!-- aboutfile Starts -->
     {{< blocks/products/pf/agp/about-file-section >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="NUMBERS" readMoreLink="https://docs.fileformat.com/spreadsheet/numbers/" >}}Τα αρχεία με επέκταση .numbers ταξινομούνται ως τύπος αρχείου υπολογιστικού φύλλου, γι' αυτό είναι παρόμοια με τα αρχεία .xlsx. αλλά τα αρχεία Numbers δημιουργούνται χρησιμοποιώντας το λογισμικό υπολογιστικών φύλλων Apple iWork Numbers. Το Apple iWork Numbers είναι ένα λογισμικό μονάδας του iWork Productivity Suite. Το iWork Productivity Suite είναι ισοδύναμο με το Microsoft Office Suite που χρησιμοποιείται σε υπολογιστές Windows. Ως εκ τούτου, μπορούμε να πούμε ότι το Numbers που είναι διαθέσιμο για MacOS είναι επίσης ανταγωνιστής του Microsoft Excel. Ομοίως, Microsoft Excel, το αρχείο NUMBERS μπορεί επίσης να περιέχει πίνακες, γραφήματα και τύπους.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="NUMBERS" readMoreLink="https://docs.fileformat.com/spreadsheet/numbers/" >}} Τα αρχεία με επέκταση .numbers ταξινομούνται ως τύπος αρχείου υπολογιστικού φύλλου, γι' αυτό είναι παρόμοια με τα αρχεία .xlsx. αλλά τα αρχεία Numbers δημιουργούνται χρησιμοποιώντας το λογισμικό υπολογιστικών φύλλων Apple iWork Numbers. Το Apple iWork Numbers είναι ένα λογισμικό μονάδας του iWork Productivity Suite. Το iWork Productivity Suite είναι ισοδύναμο με το Microsoft Office Suite που χρησιμοποιείται σε υπολογιστές Windows. Ως εκ τούτου, μπορούμε να πούμε ότι το Numbers που είναι διαθέσιμο για MacOS είναι επίσης ανταγωνιστής του Microsoft Excel. Ομοίως, Microsoft Excel, το αρχείο NUMBERS μπορεί επίσης να περιέχει πίνακες, γραφήματα και τύπους.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="JSON" readMoreLink="https://docs.fileformat.com/web/json/" >}}Το JSON (JavaScript Object Notation) είναι μια ανοιχτή τυπική μορφή αρχείου για κοινή χρήση δεδομένων που χρησιμοποιεί κείμενο αναγνώσιμο από τον άνθρωπο για την αποθήκευση και τη μετάδοση δεδομένων. Τα αρχεία JSON αποθηκεύονται με την επέκταση .json. Το JSON απαιτεί λιγότερη μορφοποίηση και είναι μια καλή εναλλακτική για XML. Το JSON προέρχεται από JavaScript αλλά είναι μια μορφή δεδομένων ανεξάρτητη από τη γλώσσα. Η δημιουργία και η ανάλυση του JSON υποστηρίζεται από πολλές σύγχρονες γλώσσες προγραμματισμού. application/json είναι ο τύπος μέσου που χρησιμοποιείται για το JSON.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
     {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->
@@ -107,7 +107,6 @@ PM> Install-Package Aspose.Cells.Cpp
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-numbers-to-pdf/" name="Συγχώνευση NUMBERS στο PDF" description="Μορφή φορητού εγγράφου" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-numbers-to-png/" name="Συγχώνευση NUMBERS στο PNG" description="Φορητά γραφικά δικτύου" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-numbers-to-svg/" name="Συγχώνευση NUMBERS στο SVG" description="Κλιμακόμενα διανυσματικά γραφικά" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-numbers-to-tiff/" name="Συγχώνευση NUMBERS στο TIFF" description="Με ετικέτα Μορφή εικόνας" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-numbers-to-tsv/" name="Συγχώνευση NUMBERS στο TSV" description="Τιμές διαχωρισμένες με καρτέλες" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-numbers-to-txt/" name="Συγχώνευση NUMBERS στο TXT" description="Έγγραφο κειμένου" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-numbers-to-xls/" name="Συγχώνευση NUMBERS στο XLS" description="Δυαδική μορφή Excel" >}}

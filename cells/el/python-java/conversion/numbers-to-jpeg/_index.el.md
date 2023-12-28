@@ -1,7 +1,7 @@
 ---
-title: Python NUMBERS to JPEG - Online NUMBERS to JPEG Converter
-description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Δωρεάν Online Python Μετατροπή ΑΡΙΘΜΩΝ σε JPEG saveformat. Μορφή Python NUMBERS έως JPEG. Αποθηκεύστε NUMBERS στο JPEG Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python NUMBERS to JPEG saveformat., Free Online NUMBERS to JPEG Python., Python Convert NUMBERS to JPEG]
+title: Python NUMBERS to JPEG - NUMBERS to JPEG Converter
+description: Aspose Excel. Μετατρέψτε τους ΑΡΙΘΜΟΥΣ σε JPEG γρήγορα και εύκολα με Aspose.Cells. Python NUMBERS σε JPEG. Python Αποθήκευση ΑΡΙΘΜΩΝ σε JPEG. Αποθηκεύστε ΑΡΙΘΜΟΥΣ ως 0183474.
+keywords: [Aspose Excel., Python Aspose.Cells., Convert NUMBERS to JPEG in Python., Save NUMBERS to JPEG using Python., Python NUMBERS to JPEG saveformat., NUMBERS to JPEG Converter., Python Save NUMBERS as JPEG]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Μετατροπή ΑΡΙΘΜΩΝ σε JPEG στο Python" h2="Βιβλιοθήκη υψηλής ταχύτητας Python για μετατροπή NUMBERS σε JPEG. Αυτή είναι μια επαγγελματική λύση λογισμικού για την εισαγωγή και εξαγωγή NUMBERS, JPEG και πολλών άλλων μορφών χρησιμοποιώντας το Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="JPEG" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,11 +12,11 @@ keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python NUM
 
 {{% blocks/products/pf/agp/content h2="Μετατροπή ΑΡΙΘΜΩΝ σε JPEG Χρησιμοποιώντας Python" %}}
 
- Πώς μπορώ να μετατρέψω τους αριθμούς σε JPEG; Με τη βιβλιοθήκη Aspose.Cells for Python, μπορείτε εύκολα να μετατρέψετε τους αριθμούς σε JPEG μέσω προγραμματισμού με λίγες γραμμές κώδικα.[Aspose.Cells for Python](https://pypi.org/project/aspose-cells)έχει τη δυνατότητα δημιουργίας εφαρμογών πολλαπλών πλατφορμών με δυνατότητα δημιουργίας, τροποποίησης, μετατροπής, απόδοσης και εκτύπωσης όλων των αρχείων Excel. Python Το Excel API όχι μόνο μετατρέπει μεταξύ μορφών υπολογιστικών φύλλων, αλλά μπορεί επίσης να αποδώσει αρχεία Excel ως εικόνες, PDF, HTML, ODS, CSV, 07616031481, CSV, 07616831481, δημιουργώντας περισσότερα τέλεια επιλογή για την ανταλλαγή εγγράφων σε βιομηχανικά πρότυπα μορφές.
+ Πώς μπορώ να μετατρέψω τους αριθμούς σε JPEG; Με τη βιβλιοθήκη Aspose.Cells for Python, μπορείτε εύκολα να μετατρέψετε τους αριθμούς σε JPEG μέσω προγραμματισμού με λίγες γραμμές κώδικα.[Aspose.Cells for Python](https://pypi.org/project/aspose-cells)έχει τη δυνατότητα δημιουργίας εφαρμογών πολλαπλών πλατφορμών με δυνατότητα δημιουργίας, τροποποίησης, μετατροπής, απόδοσης και εκτύπωσης όλων των αρχείων Excel. Python Το Excel API όχι μόνο μετατρέπει μεταξύ μορφών υπολογιστικών φύλλων, αλλά μπορεί επίσης να αποδώσει αρχεία Excel ως εικόνες, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT και άλλα, καθιστώντας έτσι την τέλεια επιλογή για την ανταλλαγή εγγράφων σε βιομηχανικές τυποποιημένες μορφές.
  
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Αποθηκεύστε NUMBERS στο JPEG στο Python Δωρεάν Online" %}}
+{{% blocks/products/pf/agp/content h2="Αποθηκεύστε NUMBERS στο JPEG στο Python" %}}
 
 Το ακόλουθο παράδειγμα δείχνει πώς να μετατρέψετε NUMBERS σε JPEG στο Python.
 {{% blocks/products/pf/agp/text %}}
@@ -27,7 +27,7 @@ keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python NUM
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Δωρεάν εφαρμογή και δείγμα κώδικα για μετατροπή αριθμών σε JPEG Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="numbers" outformat="jpg" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="Δείγμα κώδικα για να μετατρέψετε τους αριθμούς σε JPEG" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="numbers" outformat="jpg" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="Πώς να μετατρέψετε τους αριθμούς σε JPEG μέσω Python" %}}
 
@@ -63,18 +63,18 @@ keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python NUM
 
 {{% blocks/products/pf/agp/text %}}
 
-Aspose.Cells for Python via Java είναι ανεξάρτητο από πλατφόρμα API και μπορεί να χρησιμοποιηθεί σε οποιαδήποτε πλατφόρμα (Windows, Linux και MacOS), απλώς βεβαιωθείτε ότι το σύστημα έχει Java 1.8 ή υψηλότερο,[Python](https://www.python.org/downloads/) 3,5 ή υψηλότερο.
+ Aspose.Cells for Python via Java είναι ανεξάρτητο από πλατφόρμα API και μπορεί να χρησιμοποιηθεί σε οποιαδήποτε πλατφόρμα (Windows, Linux και MacOS), απλώς βεβαιωθείτε ότι το σύστημα έχει Java 1.8 ή υψηλότερο,[Python](https://www.python.org/downloads/) 3,5 ή υψηλότερο.
  
 {{% /blocks/products/pf/agp/text %}}
 
 -  Εγκαταστήστε το Java και προσθέστε το στη μεταβλητή περιβάλλοντος PATH, για παράδειγμα:<code>PATH=C:\Program Files\Java\jdk1.8.0_131;</code>.
-- Εγκαταστήστε το Aspose.Cells for Python από<a href="https://pypi.org/project/aspose-cells/">pypi</a> , χρησιμοποιήστε την εντολή ως:<code>$ pip install aspose-cells</code>.
+-  Εγκαταστήστε το Aspose.Cells for Python από<a href="https://pypi.org/project/aspose-cells/">pypi</a> , χρησιμοποιήστε την εντολή ως:<code>$ pip install aspose-cells</code>.
 
 {{% /blocks/products/pf/agp/content %}}
 
 <!-- aboutfile Starts -->
     {{< blocks/products/pf/agp/about-file-section >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="NUMBERS" readMoreLink="https://docs.fileformat.com/spreadsheet/numbers/" >}}Τα αρχεία με επέκταση .numbers ταξινομούνται ως τύπος αρχείου υπολογιστικού φύλλου, γι' αυτό είναι παρόμοια με τα αρχεία .xlsx. αλλά τα αρχεία Numbers δημιουργούνται χρησιμοποιώντας το λογισμικό υπολογιστικών φύλλων Apple iWork Numbers. Το Apple iWork Numbers είναι ένα λογισμικό μονάδας του iWork Productivity Suite. Το iWork Productivity Suite είναι ισοδύναμο με το Microsoft Office Suite που χρησιμοποιείται σε υπολογιστές Windows. Ως εκ τούτου, μπορούμε να πούμε ότι το Numbers που είναι διαθέσιμο για MacOS είναι επίσης ανταγωνιστής του Microsoft Excel. Ομοίως, Microsoft Excel, το αρχείο NUMBERS μπορεί επίσης να περιέχει πίνακες, γραφήματα και τύπους.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="NUMBERS" readMoreLink="https://docs.fileformat.com/spreadsheet/numbers/" >}} Τα αρχεία με επέκταση .numbers ταξινομούνται ως τύπος αρχείου υπολογιστικού φύλλου, γι' αυτό είναι παρόμοια με τα αρχεία .xlsx. αλλά τα αρχεία Numbers δημιουργούνται χρησιμοποιώντας το λογισμικό υπολογιστικών φύλλων Apple iWork Numbers. Το Apple iWork Numbers είναι ένα λογισμικό μονάδας του iWork Productivity Suite. Το iWork Productivity Suite είναι ισοδύναμο με το Microsoft Office Suite που χρησιμοποιείται σε υπολογιστές Windows. Ως εκ τούτου, μπορούμε να πούμε ότι το Numbers που είναι διαθέσιμο για MacOS είναι επίσης ανταγωνιστής του Microsoft Excel. Ομοίως, Microsoft Excel, το αρχείο NUMBERS μπορεί επίσης να περιέχει πίνακες, γραφήματα και τύπους.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="JPEG" readMoreLink="https://docs.fileformat.com/image/jpg/" >}}Το JPEG είναι ένας τύπος μορφής εικόνας που αποθηκεύεται χρησιμοποιώντας τη μέθοδο συμπίεσης με απώλειες. Η εικόνα εξόδου, ως αποτέλεσμα της συμπίεσης, είναι μια αντιστάθμιση μεταξύ του μεγέθους αποθήκευσης και της ποιότητας της εικόνας. Οι χρήστες μπορούν να προσαρμόσουν το επίπεδο συμπίεσης για να επιτύχουν το επιθυμητό επίπεδο ποιότητας ενώ ταυτόχρονα να μειώσουν το μέγεθος αποθήκευσης. Η ποιότητα της εικόνας επηρεάζεται αμελητέα εάν εφαρμοστεί συμπίεση 10:1 στην εικόνα. Όσο υψηλότερη είναι η τιμή συμπίεσης, τόσο μεγαλύτερη είναι η υποβάθμιση της ποιότητας της εικόνας.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
     {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->

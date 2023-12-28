@@ -1,7 +1,8 @@
 ---
-title:  Υδατογράφημα ODS έγγραφο via .NET
+title: Υδατογράφημα ODS έγγραφο via .NET
 weight: 4190
 description: C# πηγαίος κώδικας για προσθήκη ή κατάργηση υδατογραφήματος στο αρχείο ODS στο .NET Framework, .NET Core, Mono ή Xamarin Platforms.
+keywords: [C# Aspose.Cells., C# add watermark to ods file., C# insert watermark to ods file., C# create watermark in ods file., remove watermark from ods file using C#., C# operate watermark in ods file., C# access watermark in ods file]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Προσθήκη Υδατογράφημα κειμένου στο ODS μέσω C#" h2="Δημιουργήστε τις δικές σας εφαρμογές .NET για να υδατογραφήσετε αρχεία ODS χρησιμοποιώντας API από την πλευρά του διακομιστή." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="ODS" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="PPTX" fileiconsmall2="DOCX" fileiconsmall3="XLSX" fileiconsmall4="PDF" fileiconsmall5=" ODP " >}}

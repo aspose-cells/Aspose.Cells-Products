@@ -1,7 +1,7 @@
 ---
-title: Java XLSM έως XLTX - Online XLSM έως XLTX Μετατροπέας
-description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Δωρεάν Online Java Μετατροπή XLSM σε XLTX αποθήκευση μορφής. Μορφή Java XLSM έως XLTX. Αποθηκεύστε XLSM στο XLTX Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java XLSM to XLTX saveformat., Free Online XLSM to XLTX Java., Java Convert XLSM to XLTX]
+title: Java XLSM έως XLTX - XLSM έως XLTX Μετατροπέας
+description: Aspose Excel. Μετατρέψτε το XLSM στο XLTX γρήγορα και εύκολα με το Aspose.Cells. Java XLSM σε XLTX. Java Αποθήκευση 076183419 ως 076183419 στο 076183419 στο 076183419 στο XLSM. 113481 χρησιμοποιώντας Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Convert XLSM to XLTX in Java., Save XLSM to XLTX using Java., Java XLSM to XLTX saveformat., XLSM to XLTX Converter., Java Save XLSM as XLTX]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Μετατροπή XLSM σε XLTX στο Java" h2="Βιβλιοθήκη υψηλής ταχύτητας Java για μετατροπή XLSM σε XLTX. Αυτή είναι μια επαγγελματική λύση λογισμικού για εισαγωγή και εξαγωγή XLSM, XLTX και πολλών άλλων μορφών χρησιμοποιώντας το Java." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLTX" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java XLSM to X
 
 {{% blocks/products/pf/agp/content h2="Μετατροπή XLSM σε XLTX χρησιμοποιώντας Java" %}}
 
-Πώς μπορώ να μετατρέψω το XLSM σε XLTX; Με τη βιβλιοθήκη Aspose.Cells for Java, μπορείτε εύκολα να μετατρέψετε το XLSM σε XLTX μέσω προγραμματισμού με λίγες γραμμές κώδικα.[Aspose.Cells for Java](https://products.aspose.com/cells/java) έχει τη δυνατότητα δημιουργίας εφαρμογών πολλαπλών πλατφορμών με δυνατότητα δημιουργίας, τροποποίησης, μετατροπής, απόδοσης και εκτύπωσης όλων των αρχείων Excel. Java Το Excel API όχι μόνο μετατρέπει μεταξύ μορφών υπολογιστικών φύλλων, αλλά μπορεί επίσης να αποδώσει αρχεία Excel ως εικόνες, PDF, HTML, ODS, CSV, 07616031481, CSV, 07616831481, δημιουργώντας περισσότερα τέλεια επιλογή για την ανταλλαγή εγγράφων σε βιομηχανικά πρότυπα μορφές. Μπορείτε να κατεβάσετε την τελευταία του έκδοση απευθείας από[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) και εγκαταστήστε το στο έργο σας που βασίζεται στο Maven προσθέτοντας τις ακόλουθες διαμορφώσεις στο pom.xml.
+Πώς μπορώ να μετατρέψω το XLSM σε XLTX; Με τη βιβλιοθήκη Aspose.Cells for Java, μπορείτε εύκολα να μετατρέψετε το XLSM σε XLTX μέσω προγραμματισμού με λίγες γραμμές κώδικα.[Aspose.Cells for Java](https://products.aspose.com/cells/java)έχει τη δυνατότητα δημιουργίας εφαρμογών πολλαπλών πλατφορμών με δυνατότητα δημιουργίας, τροποποίησης, μετατροπής, απόδοσης και εκτύπωσης όλων των αρχείων Excel. Java Το Excel API όχι μόνο μετατρέπει μεταξύ μορφών υπολογιστικών φύλλων, αλλά μπορεί επίσης να αποδώσει αρχεία Excel ως εικόνες, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT και άλλα, καθιστώντας έτσι την τέλεια επιλογή για την ανταλλαγή εγγράφων σε βιομηχανικές τυποποιημένες μορφές. Μπορείτε να κατεβάσετε την τελευταία του έκδοση απευθείας από[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) και εγκαταστήστε το στο έργο σας που βασίζεται στο Maven προσθέτοντας τις ακόλουθες διαμορφώσεις στο pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Αποθήκη" offSpacer="true" %}}
 
@@ -45,7 +45,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java XLSM to X
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Αποθήκευση XLSM έως XLTX στο Java Δωρεάν Online" %}}
+{{% blocks/products/pf/agp/content h2="Αποθήκευση XLSM έως XLTX στο Java" %}}
 
 Το ακόλουθο παράδειγμα δείχνει πώς να μετατρέψετε το XLSM σε XLTX στο Java.
 {{% blocks/products/pf/agp/text %}}
@@ -56,7 +56,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java XLSM to X
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Δωρεάν εφαρμογή και δείγμα κώδικα για μετατροπή XLSM σε XLTX Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsm" outformat="xltx" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Δείγμα κώδικα για μετατροπή XLSM σε XLTX" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsm" outformat="xltx" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="Πώς να μετατρέψετε το XLSM σε XLTX via Java" %}}
 
@@ -68,7 +68,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java XLSM to X
 
 1.  Εγκαταστήστε το 'Aspose.Cells for Java'.
 1.  Προσθέστε μια αναφορά βιβλιοθήκης (εισάγετε τη βιβλιοθήκη) στο έργο σας Java.
-1.  Φορτώστε το αρχείο XLSM με μια παρουσία της κλάσης Βιβλίο εργασίας.
+1. Φορτώστε το αρχείο XLSM με μια παρουσία της κλάσης Βιβλίο εργασίας.
 1.  Μετατρέψτε το XLSM σε XLTX καλώντας τη μέθοδο Workbook.save.
 1.  Λάβετε το αποτέλεσμα μετατροπής XLSM σε XLTX.
 

@@ -1,6 +1,7 @@
 ---
 title: Δημιουργία γραφημάτων Excel και μετατροπή σε εικόνες via Java
 description:  Java πηγαίος κώδικας για σχεδίαση και μετατροπή γραφήματος ή διαγράμματος στο Microsoft Excel χρησιμοποιώντας τη Βιβλιοθήκη Java.
+keywords: [Java Aspose.Cells., Java Convert chart to image., Java Save chart to image., Java chart to image., create charts in Java., insert charts in Java., manage charts in Java]
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
 {{< blocks/products/pf/i18n/feature-page-header h1="Microsoft<sup>&reg;</sup> Μετατροπή και δημιουργία γραφημάτων αρχείων Excel via Java" h2="Μετατρέψτε γραφήματα εγγράφων του Excel σε εικόνες καθώς και δημιουργήστε διάφορα γραφήματα χρησιμοποιώντας API από την πλευρά του διακομιστή εντός εφαρμογών που βασίζονται σε Java." >}}
@@ -8,7 +9,7 @@ description:  Java πηγαίος κώδικας για σχεδίαση και 
 
 {{% blocks/products/pf/feature-page-summary %}}
 
- Η ανάλυση δεδομένων μέσω διαγραμμάτων δείχνει τη μεγαλύτερη εικόνα και είναι εύκολο να ληφθούν πιο τεκμηριωμένες αποφάσεις με σαφέστερες πληροφορίες.[Java Βιβλιοθήκη Excel](/cells/el/java/) υποστηρίζει τη σχεδίαση διαφορετικών γραφημάτων που παρατίθενται από[Τύπος γραφήματος](https://reference.aspose.com/cells/java/com.aspose.cells/ChartType) συμπεριλαμβανομένων γραφημάτων πίτας, πυραμίδας, γραμμών και φυσαλίδων. Επιπλέον, μετατρέπει επίσης γραφήματα σε εικόνες. API παρέχει α[Τάξη γραφημάτων](https://reference.aspose.com/cells/java/com.aspose.cells/Chart)για την αναπαράσταση ενός ενιαίου γραφήματος Excel.
+ Η ανάλυση δεδομένων μέσω διαγραμμάτων δείχνει τη μεγαλύτερη εικόνα και είναι εύκολο να ληφθούν πιο τεκμηριωμένες αποφάσεις με σαφέστερες πληροφορίες.[Java Βιβλιοθήκη Excel](/cells/el/java/) υποστηρίζει τη σχεδίαση διαφορετικών γραφημάτων που παρατίθενται από[Τύπος γραφήματος](https://reference.aspose.com/cells/java/com.aspose.cells/ChartType) συμπεριλαμβανομένων γραφημάτων πίτας, πυραμίδας, γραμμών και φυσαλίδων. Επιπλέον, μετατρέπει επίσης γραφήματα σε εικόνες. API παρέχει α[Τάξη γραφημάτων](https://reference.aspose.com/cells/java/com.aspose.cells/Chart) για την αναπαράσταση ενός ενιαίου γραφήματος Excel.
 
 {{% /blocks/products/pf/feature-page-summary %}}
 {{% blocks/products/pf/feature-page-section h2="Μετατροπή γραφημάτων Excel σε εικόνες" %}}
@@ -28,7 +29,7 @@ description:  Java πηγαίος κώδικας για σχεδίαση και 
 
 {{% blocks/products/pf/feature-page-section h2="Δημιουργήστε γραφήματα μέσα στο αρχείο Excel" %}}
 
- Η δημιουργία γραφημάτων χρησιμοποιώντας το Excel API είναι απλή, καθώς το API παρέχει ένα σύνολο διαφορετικών κλάσεων όπως Άξονας, Γράφημα, Περιοχή γραφήματος, ChartDataTable, ChartFrame, ChartPoint, ChartPointCollection, ChartCollection κ.λπ. για διαφορετικά είδη γραφημάτων. Η διαδικασία είναι, Δημιουργήστε αντικείμενο κλάσης Βιβλίο εργασίας και επιλέξτε το πρώτο φύλλο εργασίας ή το σχετικό φύλλο παρέχοντας το ευρετήριό του. Για την προέλευση δεδομένων του γραφήματος, εισαγάγετε τιμές στα κελιά του φύλλου εργασίας χρησιμοποιώντας[setValue](https://reference.aspose.com/cells/java/com.aspose.cells/cell#Value)μέθοδος. Χρησιμοποιήστε τη συλλογή ChartCollection[μέθοδος προσθήκης](https://reference.aspose.com/cells/java/com.aspose.cells/chartcollection#add(int,%20int,%20int,%20int,%20int) ) για να προσθέσετε το γράφημα, ορίστε τον τύπο του γραφήματος με την απαρίθμηση ChartType. Αποκτήστε πρόσβαση στο νέο αντικείμενο Chart από τη συλλογή ChartCollection περνώντας το ευρετήριό του. Χρησιμοποιήστε το[SeriesCollection](https://reference.aspose.com/cells/java/com.aspose.cells/SeriesCollection) αντικειμένου γραφήματος για να καθορίσετε την πηγή δεδομένων του γραφήματος.
+Η δημιουργία γραφημάτων χρησιμοποιώντας το Excel API είναι απλή, καθώς το API παρέχει ένα σύνολο διαφορετικών κλάσεων όπως Άξονας, Γράφημα, Περιοχή γραφήματος, ChartDataTable, ChartFrame, ChartPoint, ChartPointCollection, ChartCollection κ.λπ. για διαφορετικά είδη γραφημάτων. Η διαδικασία είναι, Δημιουργήστε αντικείμενο κλάσης Βιβλίο εργασίας και επιλέξτε το πρώτο φύλλο εργασίας ή το σχετικό φύλλο παρέχοντας το ευρετήριό του. Για την προέλευση δεδομένων του γραφήματος, εισαγάγετε τιμές στα κελιά του φύλλου εργασίας χρησιμοποιώντας[setValue](https://reference.aspose.com/cells/java/com.aspose.cells/cell#Value) μέθοδος. Χρησιμοποιήστε τη συλλογή ChartCollection[μέθοδος προσθήκης](https://reference.aspose.com/cells/java/com.aspose.cells/chartcollection#add(int,%20int,%20int,%20int,%20int) ) για να προσθέσετε το γράφημα, ορίστε τον τύπο του γραφήματος με την απαρίθμηση ChartType. Αποκτήστε πρόσβαση στο νέο αντικείμενο Chart από τη συλλογή ChartCollection περνώντας το ευρετήριό του. Χρησιμοποιήστε το[SeriesCollection](https://reference.aspose.com/cells/java/com.aspose.cells/SeriesCollection) αντικειμένου γραφήματος για να καθορίσετε την πηγή δεδομένων του γραφήματος.
 
 {{% blocks/products/pf/feature-page-code h3="Java Κώδικας για τη δημιουργία γραφημάτων Excel" %}}
 

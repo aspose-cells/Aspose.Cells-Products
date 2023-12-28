@@ -2,6 +2,7 @@
 title:  Sök XLSB dokument utan att öppna via .NET
 weight: 8880
 description: C# källkod för att söka efter ord med mönster i filen XLSB på .NET Framework, .NET Core, Mono eller Xamarin Platforms.
+keywords: [C# Aspose.Cells., c# search words with pattern in xlsb file., c# find words with pattern in xlsb file., c# search string with pattern in xlsb file., c# find words with pattern in xlsb file., c# search words in xlsb file., c# find words in xlsb file., c# search string in xlsb file., c# find string in xlsb file]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Sök XLSB-format i C#" h2="Inbyggd och högpresterande XLSB dokumentsökning med hjälp av Aspose.Cells for .NET API:er på serversidan, utan användning av någon programvara som Microsoft eller Adobe PDF." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="XLSB" >}}
@@ -13,7 +14,7 @@ description: C# källkod för att söka efter ord med mönster i filen XLSB på 
 
  För att söka XLSB-filen använder vi
  [Aspose.Cells for .NET](https://products.aspose.com/cells/net) 
-API som är en funktionsrik, kraftfull och lättanvänd dokumentsökning API för C# plattform. Öppen
+ API som är en funktionsrik, kraftfull och lättanvänd dokumentsökning API för C# plattform. Öppen
  [NuGet](https://www.nuget.org/packages/aspose.cells) 
  pakethanterare, sök efter
  **Aspose.Cells** 

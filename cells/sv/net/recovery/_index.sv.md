@@ -1,6 +1,7 @@
 ---
-title: Reparera excel-fil via .NET
-description: Reparera en korrupt excel-fil med C#. Återställningsverktyg för att reparera skadad excel-fil inom .NET-applikationen.
+title: C# Reparera excel - Återställ och fixa skadad excel-fil
+description: C# Aspose.Cells. Reparation excel. Fixa excel-fil. excel återställningsverktyg. excel korruption. Återställ Excel-data. excel-filåterställning. Återställ skadad excel-fil.
+keywords: [C# Aspose.Cells., repair excel file., excel repair., recover corrupted excel file., repair corrupted excel., recover excel., fix excel file., excel corruption., restore excel data., excel file recovery., recover corrupted excel file.]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Återställ EXCEL-fil via C#" h2="Bygg din egen .NET-applikation för att reparera Excel-filer med .NET." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="EXCEL" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="XLS" fileiconsmall2="XLSB" fileiconsmall3="XLSX" fileiconsmall4="XLSM" fileiconsmall5="ODS" >}}

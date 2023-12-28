@@ -2,6 +2,7 @@
 title:  XLSX dokumentdiagram via Java
 weight: 5380
 description: Java exempelkod för att rita och konvertera diagram eller diagram i XLSX fil på Java Runtime Environment för JSP/JSF Application och Desktop Applications.
+keywords: [Java Aspose.Cells., Java Convert chart to image in xlsx., Java Save chart to image in xlsx., Java chart to image in xlsx., xlsx convert chart to image in Java., xlsx save chart to imagein Java., xlsx chart to image in Java]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="XLSX Formaterar diagram i Java" h2="Inbyggda och högpresterande XLSX dokumentdiagram med Aspose.Cells for Java API:er på serversidan, utan användning av någon programvara som Microsoft eller Adobe PDF." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="XLSX" >}}
@@ -11,7 +12,7 @@ description: Java exempelkod för att rita och konvertera diagram eller diagram 
 
 {{% blocks/products/pf/agp/content h2="Hur man skapar XLSX fildiagram med Java" %}}
 
- För att skapa XLSX fildiagram kommer vi att använda
+För att skapa XLSX fildiagram kommer vi att använda
  [Aspose.Cells for Java](https://products.aspose.com/cells/java) 
  API som är en funktionsrik, kraftfull och lättanvänd plattform för kartläggning API for Java. Du kan ladda ner den senaste versionen direkt från
  [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) 
@@ -64,7 +65,7 @@ description: Java exempelkod för att rita och konvertera diagram eller diagram 
 + Lägg till exempelvärden till celler.
 + Lägg till ett diagram i kalkylbladet.
 + Gå till instansen av det nyligen tillagda diagrammet.
-Ställ in diagramdatakälla som intervall.
++ Ställ in diagramdatakälla som intervall.
 + Spara arbetsbok.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

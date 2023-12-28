@@ -1,7 +1,7 @@
 ---
-title: Java JPEG till XLSB - Online JPEG till XLSB Converter
-description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Gratis Online Java Konvertera JPEG till XLSB sparaformat. Java JPEG till XLSB format. Spara JPEG till XLSB Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java JPEG to XLSB saveformat., Free Online JPEG to XLSB Java., Java Convert JPEG to XLSB]
+title: Java JPEG till XLSB - JPEG till XLSB Omvandlare
+description: Aspose Excel. Konvertera JPEG till XLSB snabbt och enkelt med Aspose.Cells. Java JPEG till XLSB. Java Spara JPEG till 07611 till 07161. 07611 till 07161. 3481 med Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Convert JPEG to XLSB in Java., Save JPEG to XLSB using Java., Java JPEG to XLSB saveformat., JPEG to XLSB Converter., Java Save JPEG as XLSB]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Konvertera JPEG till XLSB till Java" h2="Höghastighetsbibliotek Java för att konvertera JPEG till XLSB. Detta är en professionell mjukvarulösning för att importera och exportera JPEG, XLSB och många andra format med Java." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSB" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java JPEG to X
 
 {{% blocks/products/pf/agp/content h2="Konvertera JPEG till XLSB med Java" %}}
 
-Hur konverterar jag JPEG till XLSB? Med Aspose.Cells for Java bibliotek kan du enkelt konvertera JPEG till XLSB programmatiskt med några rader kod.[Aspose.Cells for Java](https://products.aspose.com/cells/java) kan bygga plattformsoberoende applikationer med förmågan att generera, modifiera, konvertera, rendera och skriva ut alla Excel-filer. Java Excel API konverterar inte bara mellan kalkylarksformat, det kan också rendera Excel-filer som bilder, PDF, HTML, ODS, ODS, CSV, 0761687481, 0761687481, vilket gör det till ett perfekt val, Pt utbyta dokument i branschstandard format. Du kan ladda ner den senaste versionen direkt från[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) och installera det i ditt Maven-baserade projekt genom att lägga till följande konfigurationer till pom.xml.
+Hur konverterar jag JPEG till XLSB? Med Aspose.Cells for Java bibliotek kan du enkelt konvertera JPEG till XLSB programmatiskt med några rader kod.[Aspose.Cells for Java](https://products.aspose.com/cells/java)kan bygga plattformsoberoende applikationer med förmågan att generera, modifiera, konvertera, rendera och skriva ut alla Excel-filer. Java Excel API konverterar inte bara mellan kalkylarksformat, den kan också rendera Excel-filer som bilder, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT och mer, vilket gör det till ett perfekt val att utbyta dokument i industristandardformat. Du kan ladda ner den senaste versionen direkt från[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) och installera det i ditt Maven-baserade projekt genom att lägga till följande konfigurationer till pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Förvar" offSpacer="true" %}}
 
@@ -45,7 +45,7 @@ Hur konverterar jag JPEG till XLSB? Med Aspose.Cells for Java bibliotek kan du e
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Spara JPEG till XLSB på Java Online gratis" %}}
+{{% blocks/products/pf/agp/content h2="Spara JPEG till XLSB i Java" %}}
 
 Följande exempel visar hur man konverterar JPEG till XLSB i Java.
 {{% blocks/products/pf/agp/text %}}
@@ -56,7 +56,7 @@ Följ de enkla stegen för att konvertera JPEG till XLSB. Ladda upp din JPEG-fil
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Gratis app och provkod för att konvertera JPEG till XLSB online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="jpg" outformat="xlsb" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Exempelkod för att konvertera JPEG till XLSB" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="jpg" outformat="xlsb" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="Hur man konverterar JPEG till XLSB via Java" %}}
 
@@ -68,7 +68,7 @@ Behöver du konvertera JPEG-filer till XLSB programmatiskt? Java-utvecklare kan 
 
 1.  Installera 'Aspose.Cells for Java'.
 1.  Lägg till en biblioteksreferens (importera biblioteket) till ditt Java-projekt.
-1.  Ladda JPEG-filen med en instans av Workbook-klassen.
+1. Ladda JPEG-filen med en instans av Workbook-klassen.
 1.  Konvertera JPEG till XLSB genom att anropa Workbook.save-metoden.
 1.  Få konverteringsresultatet från JPEG till XLSB.
 

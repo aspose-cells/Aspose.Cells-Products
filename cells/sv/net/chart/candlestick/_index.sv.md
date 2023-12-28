@@ -1,6 +1,7 @@
 ---
 title: Skapa ljusstakediagram via C#
 description: C# Exempelkod för att skapa ljusstake(Öppna-Hög-Låg-Stäng lager)-diagram till Excel med hjälp av .NET Library. Använd den här koden för att skapa ett ljusstakediagram till MS Excel inom VB.NET, Asp.NET eller någon .NET-baserad applikation.
+keywords: [C# Aspose.Cells., c# add Candlestick Chart., c# insert Candlestick Chart., c# create Candlestick Chart]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 

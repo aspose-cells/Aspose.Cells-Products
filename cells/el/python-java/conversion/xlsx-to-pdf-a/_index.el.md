@@ -10,7 +10,7 @@ description: Δείγμα κώδικα για μετατροπή xlsx σε pdf P
 
 {{% blocks/products/pf/agp/content h2="Πώς να μετατρέψετε το XLSX σε PDF χρησιμοποιώντας το Python" %}}
 
- Για να μετατρέψουμε το XLSX σε PDF, θα χρησιμοποιήσουμε
+Για να μετατρέψουμε το XLSX σε PDF, θα χρησιμοποιήσουμε
  [Aspose.Cells for Python](https://pypi.org/project/aspose-cells) 
  API που είναι μια πλατφόρμα πλούσια σε χαρακτηριστικά, ισχυρή και εύχρηστη πλατφόρμα χειρισμού και μετατροπής εγγράφων API for Python.
 {{% /blocks/products/pf/agp/content %}}
@@ -41,11 +41,11 @@ description: Δείγμα κώδικα για μετατροπή xlsx σε pdf P
 {{% /blocks/products/pf/agp/text %}}
 
 -  Εγκαταστήστε το Java και προσθέστε το στη μεταβλητή περιβάλλοντος PATH, για παράδειγμα:<code>PATH=C:\Program Files\Java\jdk1.8.0_131;</code>.
-- Εγκαταστήστε το Aspose.Cells for Python από<a href="https://pypi.org/project/aspose-cells/">pypi</a> , χρησιμοποιήστε την εντολή ως:<code>$ pip install aspose-cells</code>.
+-  Εγκαταστήστε το Aspose.Cells for Python από<a href="https://pypi.org/project/aspose-cells/">pypi</a> , χρησιμοποιήστε την εντολή ως:<code>$ pip install aspose-cells</code>.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Convert XLSX to PDF-A - Python" offSpacer="" %}}
+{{% blocks/products/pf/agp/code-block title="Μετατροπή XLSX σε PDF-A - Python" offSpacer="" %}}
 
 {{< gist "aspose-cells-gists" "32e50c6aabc547111966569f3fd39694" "Convert-XLSX-to-PDFA.py" >}}
 
@@ -57,7 +57,7 @@ description: Δείγμα κώδικα για μετατροπή xlsx σε pdf P
 
     {{% blocks/products/pf/agp/content h2="" %}}
 
- Μια Βιβλιοθήκη Προγραμματισμού Υπολογιστικών Φύλλων Excel ικανή να δημιουργεί εφαρμογές πολλαπλών πλατφορμών με δυνατότητα δημιουργίας, τροποποίησης, μετατροπής, απόδοσης και εκτύπωσης όλων των αρχείων Excel. Python Το Excel API όχι μόνο μετατρέπει μεταξύ μορφών υπολογιστικών φύλλων, αλλά μπορεί επίσης να αποδώσει αρχεία Excel ως εικόνες, PDF, HTML, ODS, CSV, 07616031481, CSV, 07616831481, δημιουργώντας περισσότερα τέλεια επιλογή για την ανταλλαγή εγγράφων σε βιομηχανικά πρότυπα μορφές.
+Μια Βιβλιοθήκη Προγραμματισμού Υπολογιστικών Φύλλων Excel ικανή να δημιουργεί εφαρμογές πολλαπλών πλατφορμών με δυνατότητα δημιουργίας, τροποποίησης, μετατροπής, απόδοσης και εκτύπωσης όλων των αρχείων Excel. Python Το Excel API όχι μόνο μετατρέπει μεταξύ μορφών υπολογιστικών φύλλων, αλλά μπορεί επίσης να αποδώσει αρχεία Excel ως εικόνες, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT και άλλα, καθιστώντας έτσι την τέλεια επιλογή για την ανταλλαγή εγγράφων σε βιομηχανικές τυποποιημένες μορφές.
 
     {{% /blocks/products/pf/agp/content %}}
 

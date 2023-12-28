@@ -2,6 +2,7 @@
 title:  Extrahera text och bilder från XLSM dokument via .NET
 weight: 4010
 description: C# källkod för att extrahera text och bilder från filen XLSM på .NET Framework, .NET Core, Mono eller Xamarin Platforms.
+keywords: [C# Aspose.Cells., c# Extract text and images from XLSM file., c# How to Parse XLSM File., c# Extract text from XLSM file., Extract images from XLSM file using C#]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Analysera XLSM format i C#" h2="Inbyggd och högpresterande XLSM-dokumenttolkning med hjälp av API:er på serversidan Aspose.Cells for .NET, utan användning av någon programvara som Microsoft eller Adobe PDF." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="XLSM" >}}

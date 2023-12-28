@@ -2,6 +2,7 @@
 title:  Visa eller redigera XLS Filer Metadata via .NET
 weight: 1410
 description: C# källkod för att redigera eller visa XLS formatmetadata på .NET Framework, .NET Core, Mono eller Xamarin Platforms.
+keywords: [C# Aspose.Cells., c# view xls metadata., c# add xls metadata., c# insert xls metadata., c# edit xls metadata., c# remove xls metadata., c# extract xls metadata., c# modify xls metadata]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Extrahera XLS Metadata via .NET" h2="Bygg dina egna .NET-appar för att lägga till, redigera, ta bort eller extrahera metadata från XLS-filer med hjälp av API:er på serversidan." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLS" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="PPTX" fileiconsmall2="DOCX" fileiconsmall3="XLSX" fileiconsmall4="PDF" fileiconsmall5=" ODP " >}}
@@ -106,7 +107,7 @@ foreach (Aspose.Cells.Properties.DocumentProperty property in book.Worksheets.Bu
 
     {{< blocks/products/pf/agp/about-file-section >}}
 
-        {{< blocks/products/pf/agp/demobox sectionTitle="Extrahera metadata för XLS via onlineappen" sectionDescription=" Visa och redigera metadata till XLS dokument genom att använda vår[Livedemos](https://products.aspose.app/cells/metadata) med följande förmåner." >}}
+        {{< blocks/products/pf/agp/demobox sectionTitle="Extrahera metadata för XLS via onlineappen" sectionDescription=" Visa och redigera metadata till XLS dokument genom att använda vår[Live Demos](https://products.aspose.app/cells/metadata) med följande förmåner." >}}
             {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Du behöver inte ladda ner eller ställa in någonting" >}}
             {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Du behöver inte skriva någon kod" >}}
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Ladda bara upp din XLS-fil och redigera dokumentegenskaper" >}}

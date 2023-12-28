@@ -1,8 +1,8 @@
 ---
 title: Slå ihop EXCEL till DIF - Kombinera EXCEL till DIF i C#
 url: /sv/net/merger/merge-excel-to-dif/ 
-description: Aspose Excel. C# Aspose.Cells. Gratis Online Merge EXCEL till DIF saveformat. C# Kombinera EXCEL till DIF format. Slå ihop EXCEL till DIF i C#. EXCEL Merge.
-keywords: [Aspose Excel., C# Aspose.Cells., Merge EXCEL to DIF in C#., Free Online C# Merge EXCEL to dif., C# Combine EXCEL to DIF Online for Free., EXCEL Merge]
+description: Aspose Excel. C# Aspose.Cells. Slå ihop EXCEL till DIF sparaformat. C# Kombinera EXCEL till DIF format. Slå ihop EXCEL till DIF i C#. EXCEL Merge.
+keywords: [Aspose Excel., C# Aspose.Cells., Merge EXCEL to DIF in C#., C# Merge EXCEL to dif., C# Combine EXCEL to DIF., EXCEL Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Slå ihop EXCEL till DIF via C#" h2="Höghastighetsbibliotek C# för sammanslagning av EXCEL till DIF. Använd vår excelkonvertering API för att utveckla plattformsoberoende programvara på hög nivå i C#. Detta är en professionell mjukvarulösning för att importera och exportera Excel, CSV, OpenOffice, PDF, HTML, image och många andra Excel-format." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="EXCEL" additionalConversionTag="DIF" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., C# Aspose.Cells., Merge EXCEL to DIF in C#., Free Onli
 
 {{% blocks/products/pf/agp/content h2="Slå ihop EXCEL till DIF med C#" %}}
 
- Hur slår jag ihop EXCEL till DIF? Med Aspose.Cells for .NET-biblioteket kan du enkelt slå samman EXCEL till DIF programmatiskt med några rader kod.[Aspose.Cells for .NET](https://products.aspose.com/cells/net)kan bygga plattformsoberoende applikationer med förmågan att generera, modifiera, konvertera, rendera och skriva ut alla Excel-filer. .NET Excel API konverterar inte bara mellan kalkylarksformat, det kan också rendera Excel-filer som bilder, PDF, HTML, ODS, ODS, CSV, 0761687481, 0761687481, vilket gör det till ett perfekt val, Pt utbyta dokument i branschstandard format. Öppen[NuGet](https://www.nuget.org/packages/aspose.cells) pakethanteraren, sök efter Aspose.Cells och installera. Du kan också använda följande kommando från Package Manager Console.
+ Hur slår jag ihop EXCEL till DIF? Med Aspose.Cells for .NET-biblioteket kan du enkelt slå samman EXCEL till DIF programmatiskt med några rader kod.[Aspose.Cells for .NET](https://products.aspose.com/cells/net)kan bygga plattformsoberoende applikationer med förmågan att generera, modifiera, konvertera, rendera och skriva ut alla Excel-filer. .NET Excel API konverterar inte bara mellan kalkylarksformat, den kan också rendera Excel-filer som bilder, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT och mer, vilket gör det till ett perfekt val att utbyta dokument i industristandardformat. Öppen[NuGet](https://www.nuget.org/packages/aspose.cells) pakethanteraren, sök efter Aspose.Cells och installera. Du kan också använda följande kommando från Package Manager Console.
 
 {{% blocks/products/pf/agp/code-block title="Pakethanterarens konsolkommando" offSpacer="true" %}}
 
@@ -26,7 +26,7 @@ PM> Install-Package Aspose.Cells
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Slå ihop EXCEL till DIF i C# Online gratis" %}}
+{{% blocks/products/pf/agp/content h2="Slå ihop EXCEL till DIF i C#" %}}
 
 Följande exempel visar hur man slår ihop EXCEL till DIF i Aspose.Cells for .NET.
 {{% blocks/products/pf/agp/text %}}
@@ -37,7 +37,7 @@ Följ de enkla stegen för att slå samman EXCEL till DIF. Ladda upp dina filer,
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Gratis online för att slå ihop EXCEL till DIF i C#" InputFormat="xlsx" InputFormat2="dif" outformat="dif" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="net" %}}
+{{% cells-merger title="Exempelkod för att slå ihop EXCEL till DIF i C#" InputFormat="xlsx" InputFormat2="dif" outformat="dif" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="net" %}}
 
 {{% blocks/products/pf/agp/content h2="Hur man slår ihop EXCEL till DIF via C#" %}}
 

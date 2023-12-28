@@ -1,7 +1,7 @@
 ---
-title: Java NUMBERS till SVG - Online NUMBERS till SVG Converter
-description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Gratis Online Java Konvertera NUMBERS till SVG sparaformat. Java NUMBERS till SVG format. Spara NUMBERS till SVG Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java NUMBERS to SVG saveformat., Free Online NUMBERS to SVG Java., Java Convert NUMBERS to SVG]
+title: Java NUMBERS till SVG - NUMBERS till SVG Omvandlare
+description: Aspose Excel. Konvertera NUMBERS till SVG snabbt och enkelt med Aspose.Cells. Java NUMBERS till SVG. Java Spara NUMBERS till SVG. Spara NUMBERS med 078173418.
+keywords: [Aspose Excel., Java Aspose.Cells., Convert NUMBERS to SVG in Java., Save NUMBERS to SVG using Java., Java NUMBERS to SVG saveformat., NUMBERS to SVG Converter., Java Save NUMBERS as SVG]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Konvertera NUMBERS till SVG till Java" h2="Höghastighetsbibliotek Java för att konvertera NUMBERS till SVG. Detta är en professionell mjukvarulösning för att importera och exportera NUMBERS, SVG och många andra format med Java." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="SVG" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java NUMBERS t
 
 {{% blocks/products/pf/agp/content h2="Konvertera NUMBERS till SVG med Java" %}}
 
- Hur konverterar jag NUMBERS till SVG? Med Aspose.Cells for Java bibliotek kan du enkelt konvertera NUMBERS till SVG programmatiskt med några rader kod.[Aspose.Cells for Java](https://products.aspose.com/cells/java) kan bygga plattformsoberoende applikationer med förmågan att generera, modifiera, konvertera, rendera och skriva ut alla Excel-filer. Java Excel API konverterar inte bara mellan kalkylarksformat, det kan också rendera Excel-filer som bilder, PDF, HTML, ODS, ODS, CSV, 0761687481, 0761687481, vilket gör det till ett perfekt val, Pt utbyta dokument i branschstandard format. Du kan ladda ner den senaste versionen direkt från[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) och installera det i ditt Maven-baserade projekt genom att lägga till följande konfigurationer till pom.xml.
+ Hur konverterar jag NUMBERS till SVG? Med Aspose.Cells for Java bibliotek kan du enkelt konvertera NUMBERS till SVG programmatiskt med några rader kod.[Aspose.Cells for Java](https://products.aspose.com/cells/java)kan bygga plattformsoberoende applikationer med förmågan att generera, modifiera, konvertera, rendera och skriva ut alla Excel-filer. Java Excel API konverterar inte bara mellan kalkylarksformat, den kan också rendera Excel-filer som bilder, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT och mer, vilket gör det till ett perfekt val att utbyta dokument i industristandardformat. Du kan ladda ner den senaste versionen direkt från[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) och installera det i ditt Maven-baserade projekt genom att lägga till följande konfigurationer till pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Förvar" offSpacer="true" %}}
 
@@ -45,7 +45,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java NUMBERS t
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Spara NUMBERS till SVG i Java online gratis" %}}
+{{% blocks/products/pf/agp/content h2="Spara NUMBERS till SVG i Java" %}}
 
 Följande exempel visar hur man konverterar NUMBERS till SVG i Java.
 {{% blocks/products/pf/agp/text %}}
@@ -56,7 +56,7 @@ Följ de enkla stegen för att konvertera NUMBERS till SVG. Ladda upp din NUMBER
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Gratis app och provkod för att konvertera NUMBERS till SVG online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="numbers" outformat="svg" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Exempelkod för att konvertera NUMBERS till SVG" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="numbers" outformat="svg" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="Hur man konverterar NUMBERS till SVG via Java" %}}
 
@@ -97,7 +97,7 @@ Behöver du konvertera NUMBERS filer till SVG programmatiskt? Java-utvecklare ka
 
 <!-- aboutfile Starts -->
     {{< blocks/products/pf/agp/about-file-section >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="NUMBERS" readMoreLink="https://docs.fileformat.com/spreadsheet/numbers/" >}}Filerna med tillägget .numbers klassificeras som kalkylbladsfiltyp, det är därför de liknar .xlsx-filerna; men Numbers-filerna skapas med hjälp av Apple iWork Numbers kalkylprogram. Apple iWork Numbers är en enhetsprogramvara för iWork Productivity Suite. iWork Productivity Suite motsvarar Microsoft Office Suite som används på Windows-datorer. Därför kan vi säga att Numbers som är tillgänglig för MacOS också är en konkurrent till Microsoft Excel. På samma sätt, Microsoft Excel, NUMBERS-filen kan också innehålla tabeller, diagram och formler.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="NUMBERS" readMoreLink="https://docs.fileformat.com/spreadsheet/numbers/" >}} Filerna med tillägget .numbers klassificeras som kalkylbladsfiltyp, det är därför de liknar .xlsx-filerna; men Numbers-filerna skapas med hjälp av Apple iWork Numbers kalkylprogram. Apple iWork Numbers är en enhetsprogramvara för iWork Productivity Suite. iWork Productivity Suite motsvarar Microsoft Office Suite som används på Windows-datorer. Därför kan vi säga att Numbers som är tillgänglig för MacOS också är en konkurrent till Microsoft Excel. På samma sätt, Microsoft Excel, NUMBERS-filen kan också innehålla tabeller, diagram och formler.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="SVG" readMoreLink="https://docs.fileformat.com/page-description-language/svg/" >}}En SVG-fil är en Scalar Vector Graphics-fil som använder XML-baserat textformat för att beskriva utseendet på en bild. Ordet Scalable syftar på det faktum att SVG kan skalas till olika storlekar utan att förlora någon kvalitet. Textbaserad beskrivning av sådana filer gör dem oberoende av upplösning. Det är ett av de mest använda formaten för att bygga en webbplats och skriva ut grafik för att uppnå skalbarhet. Formatet kan dock endast användas för tvådimensionell grafik. SVG-filer kan ses/öppnas i nästan alla moderna webbläsare inklusive Chrome, Internet Explorer, Firefox och Safari.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
     {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->

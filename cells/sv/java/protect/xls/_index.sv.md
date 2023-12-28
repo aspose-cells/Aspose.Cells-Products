@@ -1,7 +1,8 @@
 ---
-title: Skydda och lås XLS dokument via Java
+title:  Skydda och lås XLS dokument via Java
 weight: 5070
 description: Java exempelkod för att låsa XLS fil med lösenord på Java Runtime Environment för JSP/JSF Application och Desktop Applications.
+keywords: [Java Aspose.Cells., Java Lock XLS files., Java How to Protect and lock XLS document., Java Protect XLS files., Encrypt XLS Files using Java]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Kryptera XLS Filer via Java" h2="Lösenordsskydda Excel-kalkylblad inklusive XLS-format med .NET Library." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLS" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLS" >}}

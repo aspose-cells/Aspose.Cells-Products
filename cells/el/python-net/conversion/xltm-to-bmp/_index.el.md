@@ -1,7 +1,7 @@
 ---
-title: Python XLTM έως BMP - Online XLTM έως BMP Μετατροπέας
-description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Δωρεάν Online Python Μετατροπή XLTM σε BMP αποθήκευση μορφής. Μορφή Python XLTM έως BMP. Αποθηκεύστε XLTM στο BMP Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python XLTM to BMP saveformat., Free Online XLTM to BMP Python., Python Convert XLTM to BMP]
+title: Python XLTM έως BMP - XLTM έως BMP Μετατροπέας
+description: Aspose Excel. Μετατρέψτε το XLTM στο BMP γρήγορα και εύκολα με το Aspose.Cells. Python XLTM σε BMP. Python Αποθήκευση 076183419 ως 076183419 στο 076183419 στο 076183419 στο XLTM. 113481 χρησιμοποιώντας Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Convert XLTM to BMP in Python., Save XLTM to BMP using Python., Python XLTM to BMP saveformat., XLTM to BMP Converter., Python Save XLTM as BMP]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Μετατροπή XLTM σε BMP στο Python" h2="Βιβλιοθήκη υψηλής ταχύτητας Python για μετατροπή XLTM σε BMP. Χρησιμοποιήστε τη μετατροπή excel API για να αναπτύξετε λογισμικό υψηλού επιπέδου, ανεξάρτητο από πλατφόρμα στο Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="BMP" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,12 +12,12 @@ keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python XLT
 
 {{% blocks/products/pf/agp/content h2="Μετατροπή XLTM σε BMP στο Python" %}}
 
- Πώς μπορώ να μετατρέψω το XLTM σε BMP; Με το Aspose.Cells for Python μέσω της βιβλιοθήκης NET, μπορείτε εύκολα να μετατρέψετε το XLTM σε BMP μέσω προγραμματισμού με λίγες γραμμές κώδικα.[Aspose.Cells for Python μέσω NET](https://pypi.org/project/aspose-cells-python/)έχει τη δυνατότητα δημιουργίας εφαρμογών πολλαπλών πλατφορμών με δυνατότητα δημιουργίας, τροποποίησης, μετατροπής, απόδοσης και εκτύπωσης όλων των αρχείων Excel. Python Το Excel API όχι μόνο μετατρέπει μεταξύ μορφών υπολογιστικών φύλλων, αλλά μπορεί επίσης να αποδώσει αρχεία Excel ως εικόνες, PDF, HTML, ODS, CSV, 07616031481, CSV, 07616831481, δημιουργώντας περισσότερα τέλεια επιλογή για την ανταλλαγή εγγράφων σε βιομηχανικά πρότυπα μορφές.
+ Πώς μπορώ να μετατρέψω το XLTM σε BMP; Με το Aspose.Cells for Python μέσω της βιβλιοθήκης NET, μπορείτε εύκολα να μετατρέψετε το XLTM σε BMP μέσω προγραμματισμού με λίγες γραμμές κώδικα.[Aspose.Cells for Python μέσω NET](https://pypi.org/project/aspose-cells-python/)έχει τη δυνατότητα δημιουργίας εφαρμογών πολλαπλών πλατφορμών με δυνατότητα δημιουργίας, τροποποίησης, μετατροπής, απόδοσης και εκτύπωσης όλων των αρχείων Excel. Python Το Excel API όχι μόνο μετατρέπει μεταξύ μορφών υπολογιστικών φύλλων, αλλά μπορεί επίσης να αποδώσει αρχεία Excel ως εικόνες, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT και άλλα, καθιστώντας έτσι την τέλεια επιλογή για την ανταλλαγή εγγράφων σε βιομηχανικές τυποποιημένες μορφές.
 
 {{% /blocks/products/pf/agp/content %}}
 
 
-{{% blocks/products/pf/agp/content h2="Αποθήκευση XLTM έως BMP στο Python Δωρεάν Online" %}}
+{{% blocks/products/pf/agp/content h2="Αποθήκευση XLTM έως BMP στο Python" %}}
 
 Το ακόλουθο παράδειγμα δείχνει πώς να μετατρέψετε το XLTM σε BMP στο Python via NET.
 {{% blocks/products/pf/agp/text %}}
@@ -28,7 +28,7 @@ keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python XLT
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Δωρεάν εφαρμογή και δείγμα κώδικα για μετατροπή XLTM σε BMP Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xltm" outformat="bmp" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Δείγμα κώδικα για μετατροπή XLTM σε BMP" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xltm" outformat="bmp" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="Πώς να μετατρέψετε το XLTM σε BMP" %}}
 
@@ -52,7 +52,7 @@ keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python XLT
 Φιλοξενούμε τα πακέτα μας Python στα αποθετήρια PyPi.
 
 {{% blocks/products/pf/agp/text %}}
-Εγκαταστήστε το Aspose.Cells for Python από<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , χρησιμοποιήστε την εντολή ως:<code>$ pip install aspose-cells-python</code>.
+ Εγκαταστήστε το Aspose.Cells for Python από<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , χρησιμοποιήστε την εντολή ως:<code>$ pip install aspose-cells-python</code>.
 {{% /blocks/products/pf/agp/text %}}
 
 {{% blocks/products/pf/agp/text %}}

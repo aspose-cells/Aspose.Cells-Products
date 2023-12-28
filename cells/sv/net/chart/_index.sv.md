@@ -1,6 +1,7 @@
 ---
 title: Skapa Excel-diagram och konvertera till bilder via .NET
 description:  C# källkod för att rita och konvertera diagram eller diagram i Microsoft Excel med hjälp av .NET Library.
+keywords: [C# Aspose.Cells., c# Convert chart to image., c# Save chart to image., c# chart to image., create charts in c#., insert charts in c#., manage charts in c#]
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
 {{< blocks/products/pf/i18n/feature-page-header h1="Microsoft<sup>&reg;</sup> Skapa och konvertera Excel-fildiagram via .NET" h2="Skapa Excel-dokumentdiagram och konvertera till bilder med hjälp av API:er på serversidan inom .NET-baserade applikationer." >}}
@@ -11,7 +12,7 @@ description:  C# källkod för att rita och konvertera diagram eller diagram i M
 
 {{% blocks/products/pf/feature-page-section h2="Skapa diagram i Excel-fil" %}}
 
- Att skapa diagram med Excel API är enkelt. Processen är, Skapa[Arbetsbok klass](https://reference.aspose.com/cells/net/aspose.cells/workbook) objekt och välj det första kalkylbladet eller det relevanta bladet genom att tillhandahålla dess index. Infoga de nödvändiga celldata med hjälp av[PutValue-metoden](https://reference.aspose.com/cells/net/aspose.cells/cell/methods/putvalue/index) . Lägg till diagram i kalkylbladet med hjälp av diagramsamlingar[Lägg till metod](https://reference.aspose.com/cells/net/aspose.cells.charts/chartcollection/methods/add) . Specificera[ChartType](https://reference.aspose.com/cells/net/aspose.cells.charts/charttype)från ChartType-uppräkning.
+ Att skapa diagram med Excel API är enkelt. Processen är, Skapa[Arbetsbok klass](https://reference.aspose.com/cells/net/aspose.cells/workbook)objekt och välj det första kalkylbladet eller det relevanta bladet genom att tillhandahålla dess index. Infoga de nödvändiga celldata med hjälp av[PutValue-metoden](https://reference.aspose.com/cells/net/aspose.cells/cell/methods/putvalue/index) . Lägg till diagram i kalkylbladet med hjälp av diagramsamlingar[Lägg till metod](https://reference.aspose.com/cells/net/aspose.cells.charts/chartcollection/methods/add) . Specificera[ChartType](https://reference.aspose.com/cells/net/aspose.cells.charts/charttype) från ChartType-uppräkning.
 {{% blocks/products/pf/feature-page-code h3="C# Kod för att skapa Excel-diagram" %}}
 
 {{< gist "aspose-com-gists" "47151e6b1cd698683d5eefb538a4a52a" "create-excel-chart.cs" >}}

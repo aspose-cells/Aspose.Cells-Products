@@ -1,8 +1,8 @@
 ---
-title: Python Reparera xlsb-fil - Reparera xlsb-fil online gratis
+title: Python Reparera xlsb - Återställ och fixa skadad xlsb-fil
 url: /sv/python-net/recovery/repair-xlsb/ 
-description: Aspose Excel. Python Aspose.Cells. Python Reparera xlsb-fil. Gratis online xlsb reparationsverktyg. Reparera en skadad xlsb-fil. Återställ en skadad xlsb-fil i programmet Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python Repair xlsb file., Free Online Repair a corrupted xlsb file., Python Recover xlsb file.]
+description: Python Aspose.Cells. Reparation xlsb. Fixa xlsb-fil. xlsb återställningsverktyg. xlsb korruption. Återställ xlsb-data. xlsb-filåterställning. Återställ skadad xlsb-fil.
+keywords: [Python Aspose.Cells., repair xlsb file., xlsb repair., recover corrupted xlsb file., repair corrupted xlsb., recover xlsb., fix xlsb file., xlsb corruption., restore xlsb data., xlsb file recovery., recover corrupted xlsb file.]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Reparera XLSB fil i Python" h2="Bygg din egen Python-applikation för att reparera xlsb-filer med Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSB" pfName="Aspose.Cells" subTitlepfName="for Python" downloadUrl="" fileiconsmall1="XLS" fileiconsmall2="XLSB" fileiconsmall3="XLSX" fileiconsmall4="XLSM" fileiconsmall5="ODS" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python Rep
 
 {{% blocks/products/pf/agp/content h2="Reparera XLSB fil med Python" %}}
 
-Hur reparerar jag xlsb-filen? Med Aspose.Cells for Python-biblioteket kan du enkelt reparera XLSB-filen programmatiskt med några rader kod.[Aspose.Cells for Python](https://products.aspose.com/cells/python-net)kan bygga plattformsoberoende applikationer med förmågan att generera, modifiera, konvertera, rendera och skriva ut alla Excel-filer. Python Excel API konverterar inte bara mellan kalkylarksformat, det kan också rendera Excel-filer som bilder, PDF, HTML, ODS, ODS, CSV, 0761687481, 0761687481, vilket gör det till ett perfekt val, Pt utbyta dokument i branschstandard format. Du kan installera Aspose.Cells for Python via .NET från<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , använd kommandot som:<code>$ pip install aspose-cells-python</code>.
+ Hur reparerar jag xlsb-filen? Med Aspose.Cells for Python-biblioteket kan du enkelt reparera XLSB-filen programmatiskt med några rader kod.[Aspose.Cells for Python](https://products.aspose.com/cells/python-net) kan bygga plattformsoberoende applikationer med förmågan att generera, modifiera, konvertera, rendera och skriva ut alla Excel-filer. Python Excel API konverterar inte bara mellan kalkylarksformat, den kan också rendera Excel-filer som bilder, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT och mer, vilket gör det till ett perfekt val att utbyta dokument i industristandardformat. Du kan installera Aspose.Cells for Python via .NET från<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , använd kommandot som:<code>$ pip install aspose-cells-python</code>.
 
 
 {{% /blocks/products/pf/agp/content %}}
@@ -32,14 +32,14 @@ Behöver du reparera xlsb-filen programmatiskt? Python-utvecklare kan enkelt lad
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-recovery title="Gratis app och provkod för att reparera XLSB fil online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et" InputFormat="xlsb" outformat="xlsb" IsLandingPage="true" language="pythonnet" %}}    
+{{% cells-recovery title="Provkod för att reparera filen XLSB" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et" InputFormat="xlsb" outformat="xlsb" IsLandingPage="true" language="pythonnet" %}}    
     
 {{% blocks/products/pf/agp/content h2="Python bibliotek för att reparera XLSB fil" %}}
 
 Vi är värd för våra Python-paket i PyPi-förråd.
 
 {{% blocks/products/pf/agp/text %}}
-Installera Aspose.Cells for Python från<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , använd kommandot som:<code>$ pip install aspose-cells-python</code>.
+ Installera Aspose.Cells for Python från<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , använd kommandot som:<code>$ pip install aspose-cells-python</code>.
 {{% /blocks/products/pf/agp/text %}}
 
 {{% blocks/products/pf/agp/text %}}
@@ -54,7 +54,7 @@ Installera Aspose.Cells for Python från<a href="https://pypi.org/project/aspose
  Aspose.Cells for Python stöds på alla större operativsystem. Se bara till att du har följande förutsättningar.
  
 -  Installera[Python](https://www.python.org/downloads/) 3,7 eller högre.
-- Installera Aspose.Cells for Python från<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , använd kommandot som:<code>$ pip install aspose-cells-python</code>.
+-  Installera Aspose.Cells for Python från<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , använd kommandot som:<code>$ pip install aspose-cells-python</code>.
 
 
 {{% /blocks/products/pf/agp/content %}}

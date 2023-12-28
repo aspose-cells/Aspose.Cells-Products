@@ -1,7 +1,7 @@
 ---
 title: Δημιουργία MHTML - Δημιουργία αρχείου MHTML στο Python
-description: Aspose Excel. Python Δημιουργία αρχείου MHTML. Δημιουργία MHTML Python. Python MHTML Δημιουργός. Δημιουργήστε το MHTML στο Python. Δημιουργήστε το αρχείο MHTML χρησιμοποιώντας το Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Create MHTML Python., Python MHTML Creater., Create MHTML file in Python., Generate MHTML file in Python]
+description: Aspose Excel. Python Δημιουργία MHTML Αρχειοθέτηση γρήγορα και εύκολα με το Aspose.Cells. Δημιουργήστε το αρχείο MHTML χρησιμοποιώντας το Python. Δημιουργήστε το MHTML στο Python. 0714074.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Create MHTML file., Generate MHTML file in Python., Create MHTML file using Python., Write data to MHTML file via Python., Create a MHTML file in Python., Python Generate a MHTML file., Python MHTML Creater]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Δημιουργήστε αρχείο MHTML στο Python" h2="Βιβλιοθήκη υψηλής ταχύτητας Python για τη δημιουργία αρχείου MHTML. Αυτή είναι μια επαγγελματική λύση λογισμικού για εισαγωγή και εξαγωγή XLSX, PDF και πολλών άλλων μορφών χρησιμοποιώντας το Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="MHTML" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -11,7 +11,7 @@ keywords: [Aspose Excel., Python Aspose.Cells., Create MHTML Python., Python MHT
 
 {{% blocks/products/pf/agp/content h2="Δημιουργήστε το αρχείο MHTML χρησιμοποιώντας το Python" %}}
 
- Πώς να δημιουργήσετε το αρχείο MHTML; Με τη βιβλιοθήκη Aspose.Cells for Python via Java, μπορείτε εύκολα να δημιουργήσετε το αρχείο MHTML μέσω προγραμματισμού με λίγες γραμμές κώδικα.[Aspose.Cells for Python](https://pypi.org/project/aspose-cells)έχει τη δυνατότητα δημιουργίας εφαρμογών πολλαπλών πλατφορμών με δυνατότητα δημιουργίας, τροποποίησης, μετατροπής, απόδοσης και εκτύπωσης όλων των αρχείων Excel. Python Το Excel API όχι μόνο μετατρέπει μεταξύ μορφών υπολογιστικών φύλλων, αλλά μπορεί επίσης να αποδώσει αρχεία Excel ως εικόνες, PDF, HTML, ODS, CSV, 07616031481, CSV, 07616831481, δημιουργώντας περισσότερα τέλεια επιλογή για την ανταλλαγή εγγράφων σε βιομηχανικά πρότυπα μορφές.
+ Πώς να δημιουργήσετε το αρχείο MHTML; Με τη βιβλιοθήκη Aspose.Cells for Python via Java, μπορείτε εύκολα να δημιουργήσετε το αρχείο MHTML μέσω προγραμματισμού με λίγες γραμμές κώδικα.[Aspose.Cells for Python](https://pypi.org/project/aspose-cells)έχει τη δυνατότητα δημιουργίας εφαρμογών πολλαπλών πλατφορμών με δυνατότητα δημιουργίας, τροποποίησης, μετατροπής, απόδοσης και εκτύπωσης όλων των αρχείων Excel. Python Το Excel API όχι μόνο μετατρέπει μεταξύ μορφών υπολογιστικών φύλλων, αλλά μπορεί επίσης να αποδώσει αρχεία Excel ως εικόνες, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT και άλλα, καθιστώντας έτσι την τέλεια επιλογή για την ανταλλαγή εγγράφων σε βιομηχανικές τυποποιημένες μορφές.
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -29,7 +29,7 @@ keywords: [Aspose Excel., Python Aspose.Cells., Create MHTML Python., Python MHT
 1.  Δημιουργία παρουσίας κλάσης βιβλίου εργασίας.
 1.  Πρόσβαση στο πρώτο φύλλο εργασίας του βιβλίου εργασίας.
 1.  Λάβετε τα επιθυμητά κελιά του φύλλου εργασίας και εισαγάγετε την τιμή στα κελιά.
-1. Χρησιμοποιήστε τη μέθοδο Save για να αποθηκεύσετε το βιβλίο εργασίας ως αρχείο MHTML.
+1.  Χρησιμοποιήστε τη μέθοδο Save για να αποθηκεύσετε το βιβλίο εργασίας ως αρχείο MHTML.
 
 {{% blocks/products/pf/agp/code-block title="Το δείγμα κώδικα δείχνει πώς να δημιουργήσετε το αρχείο MHTML στο Python." offSpacer="" %}}
 
@@ -80,7 +80,7 @@ jpype.shutdownJVM()
 
 {{% blocks/products/pf/agp/text %}}
 
-Aspose.Cells for Python via Java είναι ανεξάρτητο από πλατφόρμα API και μπορεί να χρησιμοποιηθεί σε οποιαδήποτε πλατφόρμα (Windows, Linux και MacOS), απλώς βεβαιωθείτε ότι το σύστημα έχει Java 1.8 ή υψηλότερο,[Python](https://www.python.org/downloads/) 3,5 ή υψηλότερο.
+ Aspose.Cells for Python via Java είναι ανεξάρτητο από πλατφόρμα API και μπορεί να χρησιμοποιηθεί σε οποιαδήποτε πλατφόρμα (Windows, Linux και MacOS), απλώς βεβαιωθείτε ότι το σύστημα έχει Java 1.8 ή υψηλότερο,[Python](https://www.python.org/downloads/) 3,5 ή υψηλότερο.
 
 {{% /blocks/products/pf/agp/text %}}
 

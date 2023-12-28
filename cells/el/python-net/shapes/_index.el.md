@@ -1,6 +1,7 @@
 ---
 title:  Εισαγάγετε σχήματα στο Excel χρησιμοποιώντας Python via .Net
 description:  Python via .Net πηγαίοι κώδικες που δείχνουν πώς να εισαγάγετε ένα σχήμα σε αρχεία Excel Microsoft χρησιμοποιώντας Python via .Net Library.
+keywords: [Python Aspose.Cells., Python add shapes., Python insert shapes., Python create shapes]
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
 {{< blocks/products/pf/i18n/feature-page-header h1="Microsoft<sup>&reg;</sup> Εισαγωγή σχημάτων Excel με χρήση Python via .Net" h2="Δημιουργήστε έγγραφα Excel και εισαγάγετε σχήματα χρησιμοποιώντας API από την πλευρά του διακομιστή σε εφαρμογές που βασίζονται στο Net Python via." >}}
@@ -12,7 +13,7 @@ description:  Python via .Net πηγαίοι κώδικες που δείχνο�
 
 {{% blocks/products/pf/feature-page-section h2="Εισαγάγετε σχήματα στο αρχείο Excel" %}}
 
- Η εισαγωγή σχημάτων χρησιμοποιώντας αυτά τα API είναι απλή. Η διαδικασία είναι, Δημιουργία[Τάξη βιβλίου εργασίας](https://reference.aspose.com/cells/python-net/aspose.cells/workbook/) αντικείμενο και επιλέξτε το πρώτο φύλλο εργασίας ή το σχετικό φύλλο παρέχοντας το ευρετήριό του. Προσθέστε ένα σχήμα στο φύλλο εργασίας χρησιμοποιώντας[σχήμα συλλογής](https://reference.aspose.com/cells/python-net/aspose.cells.drawing/shapecollection/) για να προσθέσετε μέθοδο.
+ Η εισαγωγή σχημάτων χρησιμοποιώντας αυτά τα API είναι απλή. Η διαδικασία είναι, Δημιουργία[Τάξη βιβλίου εργασίας](https://reference.aspose.com/cells/python-net/aspose.cells/workbook/)αντικείμενο και επιλέξτε το πρώτο φύλλο εργασίας ή το σχετικό φύλλο παρέχοντας το ευρετήριό του. Προσθέστε ένα σχήμα στο φύλλο εργασίας χρησιμοποιώντας[σχήμα συλλογής](https://reference.aspose.com/cells/python-net/aspose.cells.drawing/shapecollection/) για να προσθέσετε μέθοδο.
 
 {{% blocks/products/pf/feature-page-code h3="Python via .Net Code για εισαγωγή σχήματος στο Excel" %}}
 

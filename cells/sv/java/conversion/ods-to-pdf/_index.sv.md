@@ -1,7 +1,7 @@
 ---
-title: Java ODS till PDF - Online ODS till PDF Converter
-description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Gratis Online Java Konvertera ODS till PDF sparaformat. Java ODS till PDF format. Spara ODS till PDF Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java ODS to PDF saveformat., Free Online ODS to PDF Java., Java Convert ODS to PDF]
+title: Java ODS till PDF - ODS till PDF Omvandlare
+description: Aspose Excel. Konvertera ODS till PDF snabbt och enkelt med Aspose.Cells. Java ODS till PDF. Java Spara ODS till 07611 till 07161. 07611 till 07161. 3481 med Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Convert ODS to PDF in Java., Save ODS to PDF using Java., Java ODS to PDF saveformat., ODS to PDF Converter., Java Save ODS as PDF]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Konvertera ODS till PDF till Java" h2="Höghastighetsbibliotek Java för att konvertera ODS till PDF. Detta är en professionell mjukvarulösning för att importera och exportera ODS, PDF och många andra format med Java." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="PDF" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java ODS to PD
 
 {{% blocks/products/pf/agp/content h2="Konvertera ODS till PDF med Java" %}}
 
-Hur konverterar jag ODS till PDF? Med Aspose.Cells for Java bibliotek kan du enkelt konvertera ODS till PDF programmatiskt med några rader kod.[Aspose.Cells for Java](https://products.aspose.com/cells/java) kan bygga plattformsoberoende applikationer med förmågan att generera, modifiera, konvertera, rendera och skriva ut alla Excel-filer. Java Excel API konverterar inte bara mellan kalkylarksformat, det kan också rendera Excel-filer som bilder, PDF, HTML, ODS, ODS, CSV, 0761687481, 0761687481, vilket gör det till ett perfekt val, Pt utbyta dokument i branschstandard format. Du kan ladda ner den senaste versionen direkt från[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) och installera det i ditt Maven-baserade projekt genom att lägga till följande konfigurationer till pom.xml.
+Hur konverterar jag ODS till PDF? Med Aspose.Cells for Java bibliotek kan du enkelt konvertera ODS till PDF programmatiskt med några rader kod.[Aspose.Cells for Java](https://products.aspose.com/cells/java)kan bygga plattformsoberoende applikationer med förmågan att generera, modifiera, konvertera, rendera och skriva ut alla Excel-filer. Java Excel API konverterar inte bara mellan kalkylarksformat, den kan också rendera Excel-filer som bilder, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT och mer, vilket gör det till ett perfekt val att utbyta dokument i industristandardformat. Du kan ladda ner den senaste versionen direkt från[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) och installera det i ditt Maven-baserade projekt genom att lägga till följande konfigurationer till pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Förvar" offSpacer="true" %}}
 
@@ -45,7 +45,7 @@ Hur konverterar jag ODS till PDF? Med Aspose.Cells for Java bibliotek kan du enk
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Spara ODS till PDF på Java Online gratis" %}}
+{{% blocks/products/pf/agp/content h2="Spara ODS till PDF i Java" %}}
 
 Följande exempel visar hur man konverterar ODS till PDF i Java.
 {{% blocks/products/pf/agp/text %}}
@@ -56,7 +56,7 @@ Följ de enkla stegen för att konvertera ODS till PDF. Ladda upp din ODS-fil oc
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Gratis app och provkod för att konvertera ODS till PDF online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="ods" outformat="pdf" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Exempelkod för att konvertera ODS till PDF" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="ods" outformat="pdf" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="Hur man konverterar ODS till PDF via Java" %}}
 
@@ -68,7 +68,7 @@ Behöver du konvertera ODS-filer till PDF programmatiskt? Java-utvecklare kan en
 
 1.  Installera 'Aspose.Cells for Java'.
 1.  Lägg till en biblioteksreferens (importera biblioteket) till ditt Java-projekt.
-1.  Ladda ODS-filen med en instans av Workbook-klassen.
+1. Ladda ODS-filen med en instans av Workbook-klassen.
 1.  Konvertera ODS till PDF genom att anropa Workbook.save-metoden.
 1.  Få konverteringsresultatet från ODS till PDF.
 

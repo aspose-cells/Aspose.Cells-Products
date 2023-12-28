@@ -1,8 +1,8 @@
 ---
-title: C# Επισκευή αρχείου xlsm - Επισκευή αρχείου xlsm δωρεάν online
+title: C# Επιδιόρθωση xlsm - Ανάκτηση και διόρθωση κατεστραμμένου αρχείου xlsm
 url: /el/net/recovery/repair-xlsm/ 
-description: Aspose Excel. C# Aspose.Cells. C# Επισκευή αρχείου xlsm. Δωρεάν διαδικτυακό εργαλείο επισκευής xlsm. Επιδιορθώστε ένα κατεστραμμένο αρχείο xlsm. Ανακτήστε ένα κατεστραμμένο αρχείο xlsm εντός της εφαρμογής .NET.
-keywords: [Aspose Excel., C# Aspose.Cells., C# Aspose Cells., C# Repair xlsm file., Free Online Repair a corrupted xlsm file., C# Recover xlsm file.]
+description: C# Aspose.Cells. Επισκευή xlsm. Διορθώστε το αρχείο xlsm. Το εργαλείο ανάκτησης xlsm. xlsm διαφθορά. Επαναφορά δεδομένων xlsm. Ανάκτηση αρχείων xlsm. Ανακτήστε το κατεστραμμένο αρχείο xlsm.
+keywords: [C# Aspose.Cells., repair xlsm file., xlsm repair., recover corrupted xlsm file., repair corrupted xlsm., recover xlsm., fix xlsm file., xlsm corruption., restore xlsm data., xlsm file recovery., recover corrupted xlsm file.]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Επισκευάστε το αρχείο XLSM στο C#" h2="Δημιουργήστε τη δική σας εφαρμογή .NET για να επιδιορθώσετε αρχεία xlsm χρησιμοποιώντας το .NET." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSM" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="XLS" fileiconsmall2="XLSB" fileiconsmall3="XLSX" fileiconsmall4="XLSM" fileiconsmall5="ODS" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., C# Aspose.Cells., C# Aspose Cells., C# Repair xlsm fil
 
 {{% blocks/products/pf/agp/content h2="Επισκευάστε το αρχείο XLSM χρησιμοποιώντας το C#" %}}
 
- Πώς επιδιορθώνω το αρχείο xlsm; Με τη βιβλιοθήκη Aspose.Cells for .NET, μπορείτε εύκολα να επιδιορθώσετε το αρχείο XLSM μέσω προγραμματισμού με λίγες γραμμές κώδικα.[Aspose.Cells for .NET](https://products.aspose.com/cells/net)έχει τη δυνατότητα δημιουργίας εφαρμογών πολλαπλών πλατφορμών με δυνατότητα δημιουργίας, τροποποίησης, μετατροπής, απόδοσης και εκτύπωσης όλων των αρχείων Excel. .NET Το Excel API όχι μόνο μετατρέπει μεταξύ μορφών υπολογιστικών φύλλων, αλλά μπορεί επίσης να αποδώσει αρχεία Excel ως εικόνες, PDF, HTML, ODS, CSV, 07616031481, CSV, 07616831481, δημιουργώντας περισσότερα τέλεια επιλογή για την ανταλλαγή εγγράφων σε βιομηχανικά πρότυπα μορφές. Ανοιξε[NuGet](https://www.nuget.org/packages/aspose.cells) διαχειριστής πακέτων, αναζητήστε Aspose.Cells και εγκαταστήστε. Μπορείτε επίσης να χρησιμοποιήσετε την ακόλουθη εντολή από την Κονσόλα Package Manager.
+ Πώς επιδιορθώνω το αρχείο xlsm; Με τη βιβλιοθήκη Aspose.Cells for .NET, μπορείτε εύκολα να επιδιορθώσετε το αρχείο XLSM μέσω προγραμματισμού με λίγες γραμμές κώδικα.[Aspose.Cells for .NET](https://products.aspose.com/cells/net)έχει τη δυνατότητα δημιουργίας εφαρμογών πολλαπλών πλατφορμών με δυνατότητα δημιουργίας, τροποποίησης, μετατροπής, απόδοσης και εκτύπωσης όλων των αρχείων Excel. .NET Το Excel API όχι μόνο μετατρέπει μεταξύ μορφών υπολογιστικών φύλλων, αλλά μπορεί επίσης να αποδώσει αρχεία Excel ως εικόνες, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT και άλλα, καθιστώντας έτσι την τέλεια επιλογή για την ανταλλαγή εγγράφων σε βιομηχανικές τυποποιημένες μορφές. Ανοιξε[NuGet](https://www.nuget.org/packages/aspose.cells) διαχειριστής πακέτων, αναζητήστε Aspose.Cells και εγκαταστήστε. Μπορείτε επίσης να χρησιμοποιήσετε την ακόλουθη εντολή από την Κονσόλα Package Manager.
 
 {{% blocks/products/pf/agp/code-block title="Εντολή κονσόλας διαχείρισης πακέτων" offSpacer="true" %}}
 
@@ -41,7 +41,7 @@ PM> Install-Package Aspose.Cells
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-recovery title="Δωρεάν εφαρμογή και δείγμα κώδικα για επισκευή αρχείου XLSM στο Διαδίκτυο" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et" InputFormat="xlsm" outformat="xlsm" IsLandingPage="true" language="net" %}}    
+{{% cells-recovery title="Δείγμα κώδικα για επιδιόρθωση αρχείου XLSM" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et" InputFormat="xlsm" outformat="xlsm" IsLandingPage="true" language="net" %}}    
     
 {{% blocks/products/pf/agp/content h2=".NET βιβλιοθήκη για επιδιόρθωση αρχείου XLSM" %}}
 

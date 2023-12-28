@@ -1,7 +1,7 @@
 ---
-title: Python XLSB σε PRN - Online Μετατροπέας XLSB σε PRN
-description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Δωρεάν Online Python Μετατροπή XLSB σε μορφή αποθήκευσης PRN. Python XLSB σε μορφή PRN. Αποθηκεύστε το XLSB στο PRN Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python XLSB to PRN saveformat., Free Online XLSB to PRN Python., Python Convert XLSB to PRN]
+title: Python XLSB σε PRN - XLSB σε PRN Μετατροπέας
+description: Aspose Excel. Μετατρέψτε το XLSB σε PRN γρήγορα και εύκολα με το Aspose.Cells. Python XLSB σε PRN. Python Αποθήκευση XLSB στο PRN. Αποθηκεύστε το XLSB ως PRN χρησιμοποιώντας το Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Convert XLSB to PRN in Python., Save XLSB to PRN using Python., Python XLSB to PRN saveformat., XLSB to PRN Converter., Python Save XLSB as PRN]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Μετατροπή XLSB σε PRN στο Python" h2="Βιβλιοθήκη υψηλής ταχύτητας Python για μετατροπή XLSB σε PRN. Χρησιμοποιήστε τη μετατροπή excel API για να αναπτύξετε λογισμικό υψηλού επιπέδου, ανεξάρτητο από πλατφόρμα στο Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="PRN" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,12 +12,12 @@ keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python XLS
 
 {{% blocks/products/pf/agp/content h2="Μετατροπή XLSB σε PRN στο Python" %}}
 
- Πώς μπορώ να μετατρέψω το XLSB σε PRN; Με το Aspose.Cells for Python μέσω της βιβλιοθήκης NET, μπορείτε εύκολα να μετατρέψετε το XLSB σε PRN μέσω προγραμματισμού με λίγες γραμμές κώδικα.[Aspose.Cells for Python μέσω NET](https://pypi.org/project/aspose-cells-python/)έχει τη δυνατότητα δημιουργίας εφαρμογών πολλαπλών πλατφορμών με δυνατότητα δημιουργίας, τροποποίησης, μετατροπής, απόδοσης και εκτύπωσης όλων των αρχείων Excel. Python Το Excel API όχι μόνο μετατρέπει μεταξύ μορφών υπολογιστικών φύλλων, αλλά μπορεί επίσης να αποδώσει αρχεία Excel ως εικόνες, PDF, HTML, ODS, CSV, 07616031481, CSV, 07616831481, δημιουργώντας περισσότερα τέλεια επιλογή για την ανταλλαγή εγγράφων σε βιομηχανικά πρότυπα μορφές.
+ Πώς μπορώ να μετατρέψω το XLSB σε PRN; Με το Aspose.Cells for Python μέσω της βιβλιοθήκης NET, μπορείτε εύκολα να μετατρέψετε το XLSB σε PRN μέσω προγραμματισμού με λίγες γραμμές κώδικα.[Aspose.Cells for Python μέσω NET](https://pypi.org/project/aspose-cells-python/)έχει τη δυνατότητα δημιουργίας εφαρμογών πολλαπλών πλατφορμών με δυνατότητα δημιουργίας, τροποποίησης, μετατροπής, απόδοσης και εκτύπωσης όλων των αρχείων Excel. Python Το Excel API όχι μόνο μετατρέπει μεταξύ μορφών υπολογιστικών φύλλων, αλλά μπορεί επίσης να αποδώσει αρχεία Excel ως εικόνες, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT και άλλα, καθιστώντας έτσι την τέλεια επιλογή για την ανταλλαγή εγγράφων σε βιομηχανικές τυποποιημένες μορφές.
 
 {{% /blocks/products/pf/agp/content %}}
 
 
-{{% blocks/products/pf/agp/content h2="Αποθήκευση XLSB στο PRN στο Python Δωρεάν Online" %}}
+{{% blocks/products/pf/agp/content h2="Αποθηκεύστε το XLSB στο PRN στο Python" %}}
 
 Το ακόλουθο παράδειγμα δείχνει πώς να μετατρέψετε το XLSB σε PRN στο Python via NET.
 {{% blocks/products/pf/agp/text %}}
@@ -28,7 +28,7 @@ keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python XLS
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Δωρεάν εφαρμογή και δείγμα κώδικα για μετατροπή XLSB σε PRN Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsb" outformat="prn" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Δείγμα κώδικα για μετατροπή XLSB σε PRN" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsb" outformat="prn" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="Πώς να μετατρέψετε το XLSB σε PRN" %}}
 
@@ -52,7 +52,7 @@ keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python XLS
 Φιλοξενούμε τα πακέτα μας Python στα αποθετήρια PyPi.
 
 {{% blocks/products/pf/agp/text %}}
-Εγκαταστήστε το Aspose.Cells for Python από<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , χρησιμοποιήστε την εντολή ως:<code>$ pip install aspose-cells-python</code>.
+ Εγκαταστήστε το Aspose.Cells for Python από<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , χρησιμοποιήστε την εντολή ως:<code>$ pip install aspose-cells-python</code>.
 {{% /blocks/products/pf/agp/text %}}
 
 {{% blocks/products/pf/agp/text %}}

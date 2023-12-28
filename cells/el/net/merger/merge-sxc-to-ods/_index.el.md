@@ -1,8 +1,8 @@
 ---
 title: Συγχώνευση SXC σε ODS - Συνδυάστε SXC σε ODS στο C#
 url: /el/net/merger/merge-sxc-to-ods/ 
-description: Aspose Excel. C# Aspose.Cells. Δωρεάν Online Συγχώνευση SXC σε ODS saveformat. C# Συνδυάστε τη μορφή SXC με ODS. Συγχώνευση SXC σε ODS στο C#. SXC Συγχώνευση.
-keywords: [Aspose Excel., C# Aspose.Cells., Merge SXC to ODS in C#., Free Online C# Merge SXC to ods., C# Combine SXC to ODS Online for Free., SXC Merge]
+description: Aspose Excel. C# Aspose.Cells. Συγχώνευση SXC σε μορφή αποθήκευσης ODS. C# Συνδυάστε τη μορφή SXC με ODS. Συγχώνευση SXC σε ODS στο C#. SXC Συγχώνευση.
+keywords: [Aspose Excel., C# Aspose.Cells., Merge SXC to ODS in C#., C# Merge SXC to ods., C# Combine SXC to ODS., SXC Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Συγχώνευση SXC σε ODS μέσω C#" h2="Βιβλιοθήκη υψηλής ταχύτητας C# για συγχώνευση SXC με ODS. Χρησιμοποιήστε τη μετατροπή excel API για να αναπτύξετε λογισμικό υψηλού επιπέδου, ανεξάρτητο από την πλατφόρμα στο C#. Αυτή είναι μια επαγγελματική λύση λογισμικού για εισαγωγή και εξαγωγή 5 άλλων μορφών excel 076, πολλών και πολλών μορφών excel." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="SXC" additionalConversionTag="ODS" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., C# Aspose.Cells., Merge SXC to ODS in C#., Free Online
 
 {{% blocks/products/pf/agp/content h2="Συγχώνευση SXC σε ODS χρησιμοποιώντας C#" %}}
 
- Πώς μπορώ να συγχωνεύσω το SXC με το ODS; Με τη βιβλιοθήκη Aspose.Cells for .NET, μπορείτε εύκολα να συγχωνεύσετε το SXC με το ODS μέσω προγραμματισμού με λίγες γραμμές κώδικα.[Aspose.Cells for .NET](https://products.aspose.com/cells/net)έχει τη δυνατότητα δημιουργίας εφαρμογών πολλαπλών πλατφορμών με δυνατότητα δημιουργίας, τροποποίησης, μετατροπής, απόδοσης και εκτύπωσης όλων των αρχείων Excel. .NET Το Excel API όχι μόνο μετατρέπει μεταξύ μορφών υπολογιστικών φύλλων, αλλά μπορεί επίσης να αποδώσει αρχεία Excel ως εικόνες, PDF, HTML, ODS, CSV, 07616031481, CSV, 07616831481, δημιουργώντας περισσότερα τέλεια επιλογή για την ανταλλαγή εγγράφων σε βιομηχανικά πρότυπα μορφές. Ανοιξε[NuGet](https://www.nuget.org/packages/aspose.cells) διαχειριστής πακέτων, αναζητήστε Aspose.Cells και εγκαταστήστε. Μπορείτε επίσης να χρησιμοποιήσετε την ακόλουθη εντολή από την Κονσόλα Package Manager.
+ Πώς μπορώ να συγχωνεύσω το SXC με το ODS; Με τη βιβλιοθήκη Aspose.Cells for .NET, μπορείτε εύκολα να συγχωνεύσετε το SXC με το ODS μέσω προγραμματισμού με λίγες γραμμές κώδικα.[Aspose.Cells for .NET](https://products.aspose.com/cells/net)έχει τη δυνατότητα δημιουργίας εφαρμογών πολλαπλών πλατφορμών με δυνατότητα δημιουργίας, τροποποίησης, μετατροπής, απόδοσης και εκτύπωσης όλων των αρχείων Excel. .NET Το Excel API όχι μόνο μετατρέπει μεταξύ μορφών υπολογιστικών φύλλων, αλλά μπορεί επίσης να αποδώσει αρχεία Excel ως εικόνες, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT και άλλα, καθιστώντας έτσι την τέλεια επιλογή για την ανταλλαγή εγγράφων σε βιομηχανικές τυποποιημένες μορφές. Ανοιξε[NuGet](https://www.nuget.org/packages/aspose.cells) διαχειριστής πακέτων, αναζητήστε Aspose.Cells και εγκαταστήστε. Μπορείτε επίσης να χρησιμοποιήσετε την ακόλουθη εντολή από την Κονσόλα Package Manager.
 
 {{% blocks/products/pf/agp/code-block title="Εντολή κονσόλας διαχείρισης πακέτων" offSpacer="true" %}}
 
@@ -26,7 +26,7 @@ PM> Install-Package Aspose.Cells
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Συγχώνευση SXC στο ODS στο C# Δωρεάν Online" %}}
+{{% blocks/products/pf/agp/content h2="Συγχώνευση SXC με ODS στο C#" %}}
 
 Το ακόλουθο παράδειγμα δείχνει πώς να συγχωνεύσετε το SXC με το ODS στο Aspose.Cells for .NET.
 {{% blocks/products/pf/agp/text %}}
@@ -37,7 +37,7 @@ PM> Install-Package Aspose.Cells
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Δωρεάν online για συγχώνευση SXC με ODS στο C#" InputFormat="sxc" InputFormat2="ods" outformat="ods" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="net" %}}
+{{% cells-merger title="Δείγμα κωδικού για συγχώνευση SXC έως ODS στο C#" InputFormat="sxc" InputFormat2="ods" outformat="ods" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="net" %}}
 
 {{% blocks/products/pf/agp/content h2="Πώς να συγχωνεύσετε το SXC στο ODS μέσω του C#" %}}
 

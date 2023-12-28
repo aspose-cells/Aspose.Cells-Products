@@ -1,8 +1,8 @@
 ---
 title: Συγχώνευση IMAGE στο XLT - Συνδυάστε το IMAGE στο XLT στο Java
 url: /el/java/merger/merge-image-to-xlt/ 
-description: Aspose Excel. Java Aspose.Cells. Δωρεάν Online Συγχώνευση IMAGE σε XLT saveformat. Java Συνδυάστε το IMAGE σε μορφή XLT. Συγχώνευση IMAGE στο XLT στο Java. IMAGE Συγχώνευση.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge IMAGE to XLT in Java., Free Online Java Merge IMAGE to xlt., Java Combine IMAGE to XLT Online for Free., IMAGE Merge]
+description: Aspose Excel. Java Aspose.Cells. Συγχώνευση IMAGE σε μορφή αποθήκευσης XLT. Java Συνδυάστε το IMAGE σε μορφή XLT. Συγχώνευση IMAGE στο XLT στο Java. IMAGE Συγχώνευση.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge IMAGE to XLT in Java., Java Merge IMAGE to xlt., Java Combine IMAGE to XLT., IMAGE Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Συγχώνευση IMAGE στο XLT via Java" h2="Βιβλιοθήκη υψηλής ταχύτητας Java για συγχώνευση IMAGE με XLT. Χρησιμοποιήστε τη μετατροπή excel API για να αναπτύξετε λογισμικό υψηλού επιπέδου, ανεξάρτητο από πλατφόρμα στο Java. Αυτή είναι μια επαγγελματική λύση λογισμικού για εισαγωγή και εξαγωγή πολλών άλλων μορφών excel, Excel, CSV, OpenOffice, PDF, HTML, image." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="IMAGE" additionalConversionTag="XLT" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Merge IMAGE to XLT in Java., Free 
 
 {{% blocks/products/pf/agp/content h2="Συγχώνευση IMAGE στο XLT χρησιμοποιώντας Java" %}}
 
- Πώς μπορώ να συγχωνεύσω το IMAGE με το XLT; Με τη βιβλιοθήκη Aspose.Cells for Java, μπορείτε εύκολα να συγχωνεύσετε το IMAGE στο XLT μέσω προγραμματισμού με λίγες γραμμές κώδικα.[Aspose.Cells for Java](https://products.aspose.com/cells/java) έχει τη δυνατότητα δημιουργίας εφαρμογών πολλαπλών πλατφορμών με δυνατότητα δημιουργίας, τροποποίησης, μετατροπής, απόδοσης και εκτύπωσης όλων των αρχείων Excel. Java Το Excel API όχι μόνο μετατρέπει μεταξύ μορφών υπολογιστικών φύλλων, αλλά μπορεί επίσης να αποδώσει αρχεία Excel ως εικόνες, PDF, HTML, ODS, CSV, 07616031481, CSV, 07616831481, δημιουργώντας περισσότερα τέλεια επιλογή για την ανταλλαγή εγγράφων σε βιομηχανικά πρότυπα μορφές. Μπορείτε να κατεβάσετε την τελευταία του έκδοση απευθείας από[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) και εγκαταστήστε το στο έργο σας που βασίζεται στο Maven προσθέτοντας τις ακόλουθες διαμορφώσεις στο pom.xml.
+ Πώς μπορώ να συγχωνεύσω το IMAGE με το XLT; Με τη βιβλιοθήκη Aspose.Cells for Java, μπορείτε εύκολα να συγχωνεύσετε το IMAGE στο XLT μέσω προγραμματισμού με λίγες γραμμές κώδικα.[Aspose.Cells for Java](https://products.aspose.com/cells/java)έχει τη δυνατότητα δημιουργίας εφαρμογών πολλαπλών πλατφορμών με δυνατότητα δημιουργίας, τροποποίησης, μετατροπής, απόδοσης και εκτύπωσης όλων των αρχείων Excel. Java Το Excel API όχι μόνο μετατρέπει μεταξύ μορφών υπολογιστικών φύλλων, αλλά μπορεί επίσης να αποδώσει αρχεία Excel ως εικόνες, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT και άλλα, καθιστώντας έτσι την τέλεια επιλογή για την ανταλλαγή εγγράφων σε βιομηχανικές τυποποιημένες μορφές. Μπορείτε να κατεβάσετε την τελευταία του έκδοση απευθείας από[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) και εγκαταστήστε το στο έργο σας που βασίζεται στο Maven προσθέτοντας τις ακόλουθες διαμορφώσεις στο pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Αποθήκη" offSpacer="true" %}}
 
@@ -45,7 +45,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Merge IMAGE to XLT in Java., Free 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Συγχώνευση IMAGE στο XLT στο Java Δωρεάν Online" %}}
+{{% blocks/products/pf/agp/content h2="Συγχώνευση IMAGE στο XLT στο Java" %}}
 
 Το ακόλουθο παράδειγμα δείχνει πώς να συγχωνεύσετε το IMAGE στο XLT στο Aspose.Cells for Java.
 {{% blocks/products/pf/agp/text %}}
@@ -56,13 +56,13 @@ keywords: [Aspose Excel., Java Aspose.Cells., Merge IMAGE to XLT in Java., Free 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Δωρεάν online για συγχώνευση IMAGE στο XLT στο Java" InputFormat="png" InputFormat2="xlt" outformat="xlt" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="java" %}}
+{{% cells-merger title="Δείγμα κώδικα για συγχώνευση IMAGE στο XLT στο Java" InputFormat="png" InputFormat2="xlt" outformat="xlt" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="Πώς να συγχωνεύσετε το IMAGE στο XLT via Java" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- Θέλετε να συγχωνεύσετε το IMAGE στο XLT μέσω προγραμματισμού; Ένα βασικό έγγραφο που συγχωνεύεται και συνενώνεται με[Aspose.Cells for Java](https://products.aspose.com/cells/java) Τα API μπορούν να γίνουν με λίγες μόνο γραμμές κώδικα.
+Θέλετε να συγχωνεύσετε το IMAGE στο XLT μέσω προγραμματισμού; Ένα βασικό έγγραφο που συγχωνεύεται και συνενώνεται με[Aspose.Cells for Java](https://products.aspose.com/cells/java) Τα API μπορούν να γίνουν με λίγες μόνο γραμμές κώδικα.
 
 {{% /blocks/products/pf/agp/text %}}
 

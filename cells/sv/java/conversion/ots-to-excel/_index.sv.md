@@ -1,7 +1,7 @@
 ---
-title: Java OTS till EXCEL - Online OTS till EXCEL-omvandlare
-description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Gratis online Java Konvertera OTS till EXCEL sparaformat. Java OTS till EXCEL-format. Spara OTS till EXCEL Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java OTS to EXCEL saveformat., Free Online OTS to EXCEL Java., Java Convert OTS to EXCEL]
+title: Java OTS till EXCEL - OTS till EXCEL-omvandlare
+description: Aspose Excel. Konvertera OTS till EXCEL snabbt och enkelt med Aspose.Cells. Java OTS till EXCEL. Java Spara OTS till EXCEL. Spara OTS som EXCEL med Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Convert OTS to EXCEL in Java., Save OTS to EXCEL using Java., Java OTS to EXCEL saveformat., OTS to EXCEL Converter., Java Save OTS as EXCEL]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Konvertera OTS till EXCEL i Java" h2="Höghastighetsbibliotek Java för konvertering av OTS till EXCEL. Detta är en professionell mjukvarulösning för att importera och exportera OTS, EXCEL och många andra format med Java." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="EXCEL" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java OTS to EX
 
 {{% blocks/products/pf/agp/content h2="Konvertera OTS till EXCEL med Java" %}}
 
- Hur konverterar jag OTS till EXCEL? Med Aspose.Cells for Java bibliotek kan du enkelt konvertera OTS till EXCEL programmatiskt med några rader kod.[Aspose.Cells for Java](https://products.aspose.com/cells/java) kan bygga plattformsoberoende applikationer med förmågan att generera, modifiera, konvertera, rendera och skriva ut alla Excel-filer. Java Excel API konverterar inte bara mellan kalkylarksformat, det kan också rendera Excel-filer som bilder, PDF, HTML, ODS, ODS, CSV, 0761687481, 0761687481, vilket gör det till ett perfekt val, Pt utbyta dokument i branschstandard format. Du kan ladda ner den senaste versionen direkt från[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) och installera det i ditt Maven-baserade projekt genom att lägga till följande konfigurationer till pom.xml.
+ Hur konverterar jag OTS till EXCEL? Med Aspose.Cells for Java bibliotek kan du enkelt konvertera OTS till EXCEL programmatiskt med några rader kod.[Aspose.Cells for Java](https://products.aspose.com/cells/java)kan bygga plattformsoberoende applikationer med förmågan att generera, modifiera, konvertera, rendera och skriva ut alla Excel-filer. Java Excel API konverterar inte bara mellan kalkylarksformat, den kan också rendera Excel-filer som bilder, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT och mer, vilket gör det till ett perfekt val att utbyta dokument i industristandardformat. Du kan ladda ner den senaste versionen direkt från[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) och installera det i ditt Maven-baserade projekt genom att lägga till följande konfigurationer till pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Förvar" offSpacer="true" %}}
 
@@ -45,7 +45,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java OTS to EX
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Spara OTS till EXCEL i Java Online gratis" %}}
+{{% blocks/products/pf/agp/content h2="Spara OTS till EXCEL på Java" %}}
 
 Följande exempel visar hur man konverterar OTS till EXCEL i Java.
 {{% blocks/products/pf/agp/text %}}
@@ -56,7 +56,7 @@ Följ de enkla stegen för att konvertera OTS till EXCEL. Ladda upp din OTS-fil 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Gratis app och provkod för att konvertera OTS till EXCEL online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="ots" outformat="xlsx" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Exempelkod för att konvertera OTS till EXCEL" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="ots" outformat="xlsx" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="Hur man konverterar OTS till EXCEL via Java" %}}
 
@@ -70,7 +70,7 @@ Behöver du konvertera OTS-filer till EXCEL programmatiskt? Java-utvecklare kan 
 1.  Lägg till en biblioteksreferens (importera biblioteket) till ditt Java-projekt.
 1.  Ladda OTS-fil med en instans av Workbook-klassen.
 1.  Konvertera OTS till EXCEL genom att anropa Workbook.save-metoden.
-1.  Få konverteringsresultatet från OTS till EXCEL.
+1. Få konverteringsresultatet från OTS till EXCEL.
 
 {{% /blocks/products/pf/agp/content %}}
 

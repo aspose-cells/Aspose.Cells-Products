@@ -1,8 +1,8 @@
 ---
 title: Συγχώνευση XLSX σε XLSX - Συνδυάστε XLSX σε XLSX στο Java
 url: /el/java/merger/merge-xlsx-to-xlsx/ 
-description: Aspose Excel. Java Aspose.Cells. Δωρεάν Online Συγχώνευση XLSX σε XLSX saveformat. Java Συνδυάστε τη μορφή XLSX με XLSX. Συγχώνευση XLSX σε XLSX στο Java. XLSX Συγχώνευση.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge XLSX to XLSX in Java., Free Online Java Merge XLSX to xlsx., Java Combine XLSX to XLSX Online for Free., XLSX Merge]
+description: Aspose Excel. Java Aspose.Cells. Συγχώνευση XLSX σε μορφή αποθήκευσης XLSX. Java Συνδυάστε τη μορφή XLSX με XLSX. Συγχώνευση XLSX σε XLSX στο Java. XLSX Συγχώνευση.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge XLSX to XLSX in Java., Java Merge XLSX to xlsx., Java Combine XLSX to XLSX., XLSX Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Συγχώνευση XLSX σε XLSX via Java" h2="Βιβλιοθήκη υψηλής ταχύτητας Java για συγχώνευση XLSX με XLSX. Χρησιμοποιήστε τη μετατροπή excel API για να αναπτύξετε λογισμικό υψηλού επιπέδου, ανεξάρτητο από την πλατφόρμα στο Java. Αυτή είναι μια επαγγελματική λύση λογισμικού για εισαγωγή και εξαγωγή 5 άλλων μορφών excel 076, πολλών και πολλών μορφών excel." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="XLSX" additionalConversionTag="XLSX" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Merge XLSX to XLSX in Java., Free 
 
 {{% blocks/products/pf/agp/content h2="Συγχώνευση XLSX σε XLSX χρησιμοποιώντας Java" %}}
 
- Πώς μπορώ να συγχωνεύσω το XLSX με το XLSX; Με τη βιβλιοθήκη Aspose.Cells for Java, μπορείτε εύκολα να συγχωνεύσετε το XLSX με το XLSX μέσω προγραμματισμού με λίγες γραμμές κώδικα.[Aspose.Cells for Java](https://products.aspose.com/cells/java) έχει τη δυνατότητα δημιουργίας εφαρμογών πολλαπλών πλατφορμών με δυνατότητα δημιουργίας, τροποποίησης, μετατροπής, απόδοσης και εκτύπωσης όλων των αρχείων Excel. Java Το Excel API όχι μόνο μετατρέπει μεταξύ μορφών υπολογιστικών φύλλων, αλλά μπορεί επίσης να αποδώσει αρχεία Excel ως εικόνες, PDF, HTML, ODS, CSV, 07616031481, CSV, 07616831481, δημιουργώντας περισσότερα τέλεια επιλογή για την ανταλλαγή εγγράφων σε βιομηχανικά πρότυπα μορφές. Μπορείτε να κατεβάσετε την τελευταία του έκδοση απευθείας από[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) και εγκαταστήστε το στο έργο σας που βασίζεται στο Maven προσθέτοντας τις ακόλουθες διαμορφώσεις στο pom.xml.
+ Πώς μπορώ να συγχωνεύσω το XLSX με το XLSX; Με τη βιβλιοθήκη Aspose.Cells for Java, μπορείτε εύκολα να συγχωνεύσετε το XLSX με το XLSX μέσω προγραμματισμού με λίγες γραμμές κώδικα.[Aspose.Cells for Java](https://products.aspose.com/cells/java)έχει τη δυνατότητα δημιουργίας εφαρμογών πολλαπλών πλατφορμών με δυνατότητα δημιουργίας, τροποποίησης, μετατροπής, απόδοσης και εκτύπωσης όλων των αρχείων Excel. Java Το Excel API όχι μόνο μετατρέπει μεταξύ μορφών υπολογιστικών φύλλων, αλλά μπορεί επίσης να αποδώσει αρχεία Excel ως εικόνες, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT και άλλα, καθιστώντας έτσι την τέλεια επιλογή για την ανταλλαγή εγγράφων σε βιομηχανικές τυποποιημένες μορφές. Μπορείτε να κατεβάσετε την τελευταία του έκδοση απευθείας από[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) και εγκαταστήστε το στο έργο σας που βασίζεται στο Maven προσθέτοντας τις ακόλουθες διαμορφώσεις στο pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Αποθήκη" offSpacer="true" %}}
 
@@ -45,7 +45,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Merge XLSX to XLSX in Java., Free 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Συγχώνευση XLSX στο XLSX στο Java Δωρεάν Online" %}}
+{{% blocks/products/pf/agp/content h2="Συγχώνευση XLSX με XLSX στο Java" %}}
 
 Το ακόλουθο παράδειγμα δείχνει πώς να συγχωνεύσετε το XLSX με το XLSX στο Aspose.Cells for Java.
 {{% blocks/products/pf/agp/text %}}
@@ -56,7 +56,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Merge XLSX to XLSX in Java., Free 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Δωρεάν online για συγχώνευση XLSX με XLSX στο Java" InputFormat="xlsx" InputFormat2="xlsx" outformat="xlsx" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="java" %}}
+{{% cells-merger title="Δείγμα κωδικού για συγχώνευση XLSX έως XLSX στο Java" InputFormat="xlsx" InputFormat2="xlsx" outformat="xlsx" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="Τρόπος συγχώνευσης XLSX σε XLSX via Java" %}}
 

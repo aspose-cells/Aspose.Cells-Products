@@ -1,8 +1,8 @@
 ---
-title: Python Reparera ods-fil - Reparera ods-fil online gratis
+title: Python Reparera ods - Återställ och fixa skadad ods-fil
 url: /sv/python-net/recovery/repair-ods/ 
-description: Aspose Excel. Python Aspose.Cells. Python Reparation ods fil. Gratis online ods reparationsverktyg. Reparera en skadad ods-fil. Återställ en skadad ods-fil i Python-applikationen.
-keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python Repair ods file., Free Online Repair a corrupted ods file., Python Recover ods file.]
+description: Python Aspose.Cells. Reparation ods. Fixa ods-fil. ods återställningsverktyg. ods korruption. Återställ ods-data. ods-filåterställning. Återställ skadad ods-fil.
+keywords: [Python Aspose.Cells., repair ods file., ods repair., recover corrupted ods file., repair corrupted ods., recover ods., fix ods file., ods corruption., restore ods data., ods file recovery., recover corrupted ods file.]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Reparera ODS fil i Python" h2="Bygg din egen Python-applikation för att reparera ods-filer med Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="ODS" pfName="Aspose.Cells" subTitlepfName="for Python" downloadUrl="" fileiconsmall1="XLS" fileiconsmall2="XLSB" fileiconsmall3="XLSX" fileiconsmall4="XLSM" fileiconsmall5="ODS" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python Rep
 
 {{% blocks/products/pf/agp/content h2="Reparera ODS fil med Python" %}}
 
- Hur reparerar jag ods-filen? Med Aspose.Cells for Python-biblioteket kan du enkelt reparera ODS-filen programmatiskt med några rader kod.[Aspose.Cells for Python](https://products.aspose.com/cells/python-net)kan bygga plattformsoberoende applikationer med förmågan att generera, modifiera, konvertera, rendera och skriva ut alla Excel-filer. Python Excel API konverterar inte bara mellan kalkylarksformat, det kan också rendera Excel-filer som bilder, PDF, HTML, ODS, ODS, CSV, 0761687481, 0761687481, vilket gör det till ett perfekt val, Pt utbyta dokument i branschstandard format. Du kan installera Aspose.Cells for Python via .NET från<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , använd kommandot som:<code>$ pip install aspose-cells-python</code>.
+ Hur reparerar jag ods-filen? Med Aspose.Cells for Python-biblioteket kan du enkelt reparera ODS-filen programmatiskt med några rader kod.[Aspose.Cells for Python](https://products.aspose.com/cells/python-net) kan bygga plattformsoberoende applikationer med förmågan att generera, modifiera, konvertera, rendera och skriva ut alla Excel-filer. Python Excel API konverterar inte bara mellan kalkylarksformat, den kan också rendera Excel-filer som bilder, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT och mer, vilket gör det till ett perfekt val att utbyta dokument i industristandardformat. Du kan installera Aspose.Cells for Python via .NET från<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , använd kommandot som:<code>$ pip install aspose-cells-python</code>.
 
 
 {{% /blocks/products/pf/agp/content %}}
@@ -32,14 +32,14 @@ Behöver du reparera ods-filen programmatiskt? Python-utvecklare kan enkelt ladd
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-recovery title="Gratis app och provkod för att reparera ODS fil online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et" InputFormat="ods" outformat="ods" IsLandingPage="true" language="pythonnet" %}}    
+{{% cells-recovery title="Provkod för att reparera filen ODS" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et" InputFormat="ods" outformat="ods" IsLandingPage="true" language="pythonnet" %}}    
     
 {{% blocks/products/pf/agp/content h2="Python bibliotek för att reparera ODS fil" %}}
 
 Vi är värd för våra Python-paket i PyPi-förråd.
 
 {{% blocks/products/pf/agp/text %}}
-Installera Aspose.Cells for Python från<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , använd kommandot som:<code>$ pip install aspose-cells-python</code>.
+ Installera Aspose.Cells for Python från<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , använd kommandot som:<code>$ pip install aspose-cells-python</code>.
 {{% /blocks/products/pf/agp/text %}}
 
 {{% blocks/products/pf/agp/text %}}
@@ -54,7 +54,7 @@ Installera Aspose.Cells for Python från<a href="https://pypi.org/project/aspose
  Aspose.Cells for Python stöds på alla större operativsystem. Se bara till att du har följande förutsättningar.
  
 -  Installera[Python](https://www.python.org/downloads/) 3,7 eller högre.
-- Installera Aspose.Cells for Python från<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , använd kommandot som:<code>$ pip install aspose-cells-python</code>.
+-  Installera Aspose.Cells for Python från<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , använd kommandot som:<code>$ pip install aspose-cells-python</code>.
 
 
 {{% /blocks/products/pf/agp/content %}}

@@ -2,6 +2,7 @@
 title: Infoga SVG bilder/ikoner i Excel via Java
 weight: 10
 description: Infoga objekt med Aspose.Cells' Java API utan någon programvara som Microsoft eller Open Office, Adobe PDF, etc.
+keywords: [Java Aspose.Cells., Java add SVG images/Icons into Excel., Java insert SVG images/Icons into Excel., Java create SVG images/Icons in Excel]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Infoga SVG bilder/ikoner i Excel via Java" h2="Infoga SVG bilder/ikoner med Aspose.Cells\' API utan någon programvara som Microsoft eller Open Office, Adobe PDF, etc." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSX" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="" fileiconsmall1="PPTX" fileiconsmall2="DOCX" fileiconsmall3="XLSX" fileiconsmall4="PDF" fileiconsmall5=" ODP " >}}
@@ -25,7 +26,7 @@ När du använder Excel kan du stöta på följande problem:
 + Infoga ett stort antal svg-bilder i samma Excel-fil.
 + Infoga svg-bilder i ett stort antal olika Excel-filer.
 
- För att lösa dessa problem rekommenderar vi att du använder[Aspose.Cells](https://products.aspose.com/cells/) bibliotek. Det innehåller många vanliga gränssnitt för bearbetning av Excel-filer och är ett mycket användbart verktyg.
+ För att lösa dessa problem rekommenderar vi att du använder[Aspose.Cells](https://products.aspose.com/cells/)bibliotek. Det innehåller många vanliga gränssnitt för bearbetning av Excel-filer och är ett mycket användbart verktyg.
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -96,9 +97,9 @@ Om ingen av metoderna ovan kan uppfylla dina behov kan du också söka efter de 
 
 {{% /blocks/products/pf/agp/text %}}
 
-Instantiera ett arbetsboksobjekt.(eller->Läs in XLSX-filen med fullständig sökväg.)
++ Instantiera ett arbetsboksobjekt.(eller->Läs in XLSX-filen med fullständig sökväg.)
 + Välj kalkylblad via dess index.
- + Använd[lägga till metod](https://reference.aspose.com/cells/java/com.aspose.cells/shapecollection/#addIcons-int-int-int-int-int-int-byte---byte---)för att infoga bildtexter i det valda kalkylbladet
+ + Använd[lägga till metod](https://reference.aspose.com/cells/java/com.aspose.cells/shapecollection/#addIcons-int-int-int-int-int-int-byte---byte---) för att infoga bildtexter i det valda kalkylbladet
 + Spara arbetsboken i XLSX-format.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

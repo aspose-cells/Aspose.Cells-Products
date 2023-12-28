@@ -1,8 +1,8 @@
 ---
 title: Συγχώνευση NUMBERS στο JSON - Συνδυάστε NUMBERS στο JSON στο Python
 url: /el/python-java/merger/merge-numbers-to-json/ 
-description: Aspose Excel. Python Aspose.Cells. Δωρεάν Online Merge NUMBERS to JSON saveformat. Python Συνδυάστε τα NUMBERS σε μορφή JSON. Συγχώνευση NUMBERS στο JSON στο Python. NUMBERS Συγχώνευση.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge NUMBERS to JSON in Python., Free Online Python Merge NUMBERS to json., Python Combine NUMBERS to JSON Online for Free., NUMBERS Merge]
+description: Aspose Excel. Python Aspose.Cells. Συγχώνευση NUMBERS σε μορφή αποθήκευσης JSON. Python Συνδυάστε τα NUMBERS σε μορφή JSON. Συγχώνευση NUMBERS στο JSON στο Python. NUMBERS Συγχώνευση.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge NUMBERS to JSON in Python., Python Merge NUMBERS to json., Python Combine NUMBERS to JSON., NUMBERS Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Συγχώνευση NUMBERS στο JSON μέσω Python" h2="Βιβλιοθήκη υψηλής ταχύτητας Python για συγχώνευση NUMBERS στο JSON. Χρησιμοποιήστε τη μετατροπή excel API για να αναπτύξετε λογισμικό υψηλού επιπέδου, ανεξάρτητο από πλατφόρμα στο Python. Αυτή είναι μια επαγγελματική λύση λογισμικού για εισαγωγή και εξαγωγή πολλών άλλων μορφών excel, Excel, CSV, OpenOffice, PDF, HTML, image." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="NUMBERS" additionalConversionTag="JSON" pfName="Aspose.Cells" subTitlepfName="for Python" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -12,12 +12,12 @@ keywords: [Aspose Excel., Python Aspose.Cells., Merge NUMBERS to JSON in Python.
 
 {{% blocks/products/pf/agp/content h2="Συγχώνευση NUMBERS στο JSON χρησιμοποιώντας Python" %}}
 
- Πώς μπορώ να συγχωνεύσω τα NUMBERS στο JSON; Με τη βιβλιοθήκη Aspose.Cells for Python via Java, μπορείτε εύκολα να συγχωνεύσετε NUMBERS στο JSON μέσω προγραμματισμού με λίγες γραμμές κώδικα.[Aspose.Cells for Python via Java](https://pypi.org/project/aspose-cells)έχει τη δυνατότητα δημιουργίας εφαρμογών πολλαπλών πλατφορμών με δυνατότητα δημιουργίας, τροποποίησης, μετατροπής, απόδοσης και εκτύπωσης όλων των αρχείων Excel. Python Το Excel API όχι μόνο μετατρέπει μεταξύ μορφών υπολογιστικών φύλλων, αλλά μπορεί επίσης να αποδώσει αρχεία Excel ως εικόνες, PDF, HTML, ODS, CSV, 07616031481, CSV, 07616831481, δημιουργώντας περισσότερα τέλεια επιλογή για την ανταλλαγή εγγράφων σε βιομηχανικά πρότυπα μορφές. Μπορείτε να εγκαταστήσετε το Aspose.Cells for Python via Java από<a href="https://pypi.org/project/aspose-cells/">pypi</a> , χρησιμοποιήστε την εντολή ως:<code>$ pip install aspose-cells</code>.
+ Πώς μπορώ να συγχωνεύσω τα NUMBERS στο JSON; Με τη βιβλιοθήκη Aspose.Cells for Python via Java, μπορείτε εύκολα να συγχωνεύσετε NUMBERS στο JSON μέσω προγραμματισμού με λίγες γραμμές κώδικα.[Aspose.Cells for Python via Java](https://pypi.org/project/aspose-cells) έχει τη δυνατότητα δημιουργίας εφαρμογών πολλαπλών πλατφορμών με δυνατότητα δημιουργίας, τροποποίησης, μετατροπής, απόδοσης και εκτύπωσης όλων των αρχείων Excel. Python Το Excel API όχι μόνο μετατρέπει μεταξύ μορφών υπολογιστικών φύλλων, αλλά μπορεί επίσης να αποδώσει αρχεία Excel ως εικόνες, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT και άλλα, καθιστώντας έτσι την τέλεια επιλογή για την ανταλλαγή εγγράφων σε βιομηχανικές τυποποιημένες μορφές. Μπορείτε να εγκαταστήσετε το Aspose.Cells for Python via Java από<a href="https://pypi.org/project/aspose-cells/">pypi</a> , χρησιμοποιήστε την εντολή ως:<code>$ pip install aspose-cells</code>.
 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Συγχώνευση NUMBERS στο JSON στο Python Δωρεάν Online" %}}
+{{% blocks/products/pf/agp/content h2="Συγχώνευση NUMBERS στο JSON στο Python" %}}
 
 Το ακόλουθο παράδειγμα δείχνει πώς να συγχωνεύσετε NUMBERS στο JSON στο Aspose.Cells for Python via Java.
 {{% blocks/products/pf/agp/text %}}
@@ -28,7 +28,7 @@ keywords: [Aspose Excel., Python Aspose.Cells., Merge NUMBERS to JSON in Python.
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Δωρεάν online για συγχώνευση NUMBERS στο JSON στο Python" InputFormat="numbers" InputFormat2="json" outformat="json" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-merger title="Δείγμα κώδικα για συγχώνευση αριθμών σε JSON στο Python" InputFormat="numbers" InputFormat2="json" outformat="json" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="Πώς να συγχωνεύσετε τους αριθμούς στο JSON μέσω του Python" %}}
 
@@ -73,14 +73,14 @@ keywords: [Aspose Excel., Python Aspose.Cells., Merge NUMBERS to JSON in Python.
 
 -  Εγκαταστήστε το Java 1.8 ή μεταγενέστερο και προσθέστε το στη μεταβλητή περιβάλλοντος PATH, για παράδειγμα:<code>PATH=C:\Program Files\Java\jdk1.8.0_131;</code>.
 -  Εγκαθιστώ[Python](https://www.python.org/downloads/) 3,5 ή υψηλότερο.
-- Εγκαταστήστε το Aspose.Cells for Python από<a href="https://pypi.org/project/aspose-cells/">pypi</a> , χρησιμοποιήστε την εντολή ως:<code>$ pip install aspose-cells</code>.
+-  Εγκαταστήστε το Aspose.Cells for Python από<a href="https://pypi.org/project/aspose-cells/">pypi</a> , χρησιμοποιήστε την εντολή ως:<code>$ pip install aspose-cells</code>.
 
 
 {{% /blocks/products/pf/agp/content %}}
 
 <!-- aboutfile Starts -->
     {{< blocks/products/pf/agp/about-file-section >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="NUMBERS" readMoreLink="https://docs.fileformat.com/spreadsheet/numbers/" >}}Τα αρχεία με επέκταση .numbers ταξινομούνται ως τύπος αρχείου υπολογιστικού φύλλου, γι' αυτό είναι παρόμοια με τα αρχεία .xlsx. αλλά τα αρχεία Numbers δημιουργούνται χρησιμοποιώντας το λογισμικό υπολογιστικών φύλλων Apple iWork Numbers. Το Apple iWork Numbers είναι ένα λογισμικό μονάδας του iWork Productivity Suite. Το iWork Productivity Suite είναι ισοδύναμο με το Microsoft Office Suite που χρησιμοποιείται σε υπολογιστές Windows. Ως εκ τούτου, μπορούμε να πούμε ότι το Numbers που είναι διαθέσιμο για MacOS είναι επίσης ανταγωνιστής του Microsoft Excel. Ομοίως, Microsoft Excel, το αρχείο NUMBERS μπορεί επίσης να περιέχει πίνακες, γραφήματα και τύπους.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="NUMBERS" readMoreLink="https://docs.fileformat.com/spreadsheet/numbers/" >}} Τα αρχεία με επέκταση .numbers ταξινομούνται ως τύπος αρχείου υπολογιστικού φύλλου, γι' αυτό είναι παρόμοια με τα αρχεία .xlsx. αλλά τα αρχεία Numbers δημιουργούνται χρησιμοποιώντας το λογισμικό υπολογιστικών φύλλων Apple iWork Numbers. Το Apple iWork Numbers είναι ένα λογισμικό μονάδας του iWork Productivity Suite. Το iWork Productivity Suite είναι ισοδύναμο με το Microsoft Office Suite που χρησιμοποιείται σε υπολογιστές Windows. Ως εκ τούτου, μπορούμε να πούμε ότι το Numbers που είναι διαθέσιμο για MacOS είναι επίσης ανταγωνιστής του Microsoft Excel. Ομοίως, Microsoft Excel, το αρχείο NUMBERS μπορεί επίσης να περιέχει πίνακες, γραφήματα και τύπους.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="JSON" readMoreLink="https://docs.fileformat.com/web/json/" >}}Το JSON (JavaScript Object Notation) είναι μια ανοιχτή τυπική μορφή αρχείου για κοινή χρήση δεδομένων που χρησιμοποιεί κείμενο αναγνώσιμο από τον άνθρωπο για την αποθήκευση και τη μετάδοση δεδομένων. Τα αρχεία JSON αποθηκεύονται με την επέκταση .json. Το JSON απαιτεί λιγότερη μορφοποίηση και είναι μια καλή εναλλακτική για XML. Το JSON προέρχεται από JavaScript αλλά είναι μια μορφή δεδομένων ανεξάρτητη από τη γλώσσα. Η δημιουργία και η ανάλυση του JSON υποστηρίζεται από πολλές σύγχρονες γλώσσες προγραμματισμού. application/json είναι ο τύπος μέσου που χρησιμοποιείται για το JSON.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
     {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->

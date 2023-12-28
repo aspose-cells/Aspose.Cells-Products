@@ -1,7 +1,7 @@
 ---
-title: Java XLS till XML - Online XLS till XML Converter
-description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Gratis online Java Konvertera XLS till XML saveformat. Java XLS till XML-format. Spara XLS till XML Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java XLS to XML saveformat., Free Online XLS to XML Java., Java Convert XLS to XML]
+title: Java XLS till XML - XLS till XML Converter
+description: Aspose Excel. Konvertera XLS till XML snabbt och enkelt med Aspose.Cells. Java XLS till XML. Java Spara XLS till XML. Spara XLS som XML med Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Convert XLS to XML in Java., Save XLS to XML using Java., Java XLS to XML saveformat., XLS to XML Converter., Java Save XLS as XML]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Konvertera XLS till XML i Java" h2="Höghastighets Java-bibliotek för att konvertera XLS till XML. Detta är en professionell mjukvarulösning för att importera och exportera XLS, XML och många andra format med Java." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="XML" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java XLS to XM
 
 {{% blocks/products/pf/agp/content h2="Konvertera XLS till XML med Java" %}}
 
- Hur konverterar jag XLS till XML? Med Aspose.Cells for Java bibliotek kan du enkelt konvertera XLS till XML programmatiskt med några rader kod.[Aspose.Cells for Java](https://products.aspose.com/cells/java) kan bygga plattformsoberoende applikationer med förmågan att generera, modifiera, konvertera, rendera och skriva ut alla Excel-filer. Java Excel API konverterar inte bara mellan kalkylarksformat, det kan också rendera Excel-filer som bilder, PDF, HTML, ODS, ODS, CSV, 0761687481, 0761687481, vilket gör det till ett perfekt val, Pt utbyta dokument i branschstandard format. Du kan ladda ner den senaste versionen direkt från[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) och installera det i ditt Maven-baserade projekt genom att lägga till följande konfigurationer till pom.xml.
+ Hur konverterar jag XLS till XML? Med Aspose.Cells for Java bibliotek kan du enkelt konvertera XLS till XML programmatiskt med några rader kod.[Aspose.Cells for Java](https://products.aspose.com/cells/java)kan bygga plattformsoberoende applikationer med förmågan att generera, modifiera, konvertera, rendera och skriva ut alla Excel-filer. Java Excel API konverterar inte bara mellan kalkylarksformat, den kan också rendera Excel-filer som bilder, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT och mer, vilket gör det till ett perfekt val att utbyta dokument i industristandardformat. Du kan ladda ner den senaste versionen direkt från[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) och installera det i ditt Maven-baserade projekt genom att lägga till följande konfigurationer till pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Förvar" offSpacer="true" %}}
 
@@ -45,7 +45,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java XLS to XM
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Spara XLS till XML i Java Online gratis" %}}
+{{% blocks/products/pf/agp/content h2="Spara XLS till XML i Java" %}}
 
 Följande exempel visar hur man konverterar XLS till XML i Java.
 {{% blocks/products/pf/agp/text %}}
@@ -56,7 +56,7 @@ Följ de enkla stegen för att konvertera XLS till XML. Ladda upp din XLS-fil oc
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Gratis app och provkod för att konvertera XLS till XML online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xls" outformat="xml" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Exempelkod för att konvertera XLS till XML" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xls" outformat="xml" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="Hur man konverterar XLS till XML via Java" %}}
 
@@ -68,7 +68,7 @@ Behöver du konvertera XLS-filer till XML programmatiskt? Java-utvecklare kan en
 
 1.  Installera 'Aspose.Cells for Java'.
 1.  Lägg till en biblioteksreferens (importera biblioteket) till ditt Java-projekt.
-1.  Ladda XLS-filen med en instans av Workbook-klassen.
+1. Ladda XLS-filen med en instans av Workbook-klassen.
 1.  Konvertera XLS till XML genom att anropa Workbook.save-metoden.
 1.  Få konverteringsresultatet från XLS till XML.
 

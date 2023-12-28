@@ -12,7 +12,7 @@ keywords: [Aspose Excel., Python Aspose.Cells., Python XLAM to ODS saveformat., 
 
 {{% blocks/products/pf/agp/content h2="Konvertera XLAM till ODS till Python" %}}
 
- Hur konverterar jag XLAM till ODS? Med Aspose.Cells for Python via NET bibliotek kan du enkelt konvertera XLAM till ODS programmatiskt med några rader kod.[Aspose.Cells for Python via NET](https://pypi.org/project/aspose-cells-python/)kan bygga plattformsoberoende applikationer med förmågan att generera, modifiera, konvertera, rendera och skriva ut alla Excel-filer. Python Excel API konverterar inte bara mellan kalkylarksformat, det kan också rendera Excel-filer som bilder, PDF, HTML, ODS, ODS, CSV, 0761687481, 0761687481, vilket gör det till ett perfekt val, Pt utbyta dokument i branschstandard format.
+ Hur konverterar jag XLAM till ODS? Med Aspose.Cells for Python via NET bibliotek kan du enkelt konvertera XLAM till ODS programmatiskt med några rader kod.[Aspose.Cells for Python via NET](https://pypi.org/project/aspose-cells-python/)kan bygga plattformsoberoende applikationer med förmågan att generera, modifiera, konvertera, rendera och skriva ut alla Excel-filer. Python Excel API konverterar inte bara mellan kalkylarksformat, den kan också rendera Excel-filer som bilder, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT och mer, vilket gör det till ett perfekt val att utbyta dokument i industristandardformat.
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -52,7 +52,7 @@ Behöver du konvertera XLAM-filer till ODS programmatiskt? Python-utvecklare kan
 Vi är värd för våra Python-paket i PyPi-förråd.
 
 {{% blocks/products/pf/agp/text %}}
-Installera Aspose.Cells for Python från<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , använd kommandot som:<code>$ pip install aspose-cells-python</code>.
+ Installera Aspose.Cells for Python från<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , använd kommandot som:<code>$ pip install aspose-cells-python</code>.
 {{% /blocks/products/pf/agp/text %}}
 
 {{% blocks/products/pf/agp/text %}}

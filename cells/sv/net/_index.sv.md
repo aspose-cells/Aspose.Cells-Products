@@ -1,7 +1,8 @@
 ---
 title:  .NET Excel API | Processkalkylbladsformat via .NET Kärna
 weight: 2030
-description: C# ASP.NET VB.NET bibliotek för att arbeta med Microsoft Excel-dokument. Skapa läs skriv spara och skriv ut kalkylbladsfiler. Konvertera till PDF eller fler format
+description: C# ASP.NET VB.NET-bibliotek för att skapa, reparera, slå samman, analysera och konvertera Excel-filer. Konvertera excel till PDF, JSON, XML, TSV, HTML och så vidare.
+keywords: [Aspose.Cells C# Create repair parse merge convert JSON Excel XML PDF HTML TSV SQL TXT PNG JPEG and more formats]
 ---
 {{< blocks/products/pf/main-wrap-class >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Manipulera Excel-filer via .NET API:er" h2="Läs och skriv kalkylbladsfiler på .NET, .NET Core & Xamarin-plattformar. Exportera kalkylblad till andra format utan Microsoft Excel." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/headers/aspose_cells-for-net.svg" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="https://downloads.aspose.com/cells/net" >}}

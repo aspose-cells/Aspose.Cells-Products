@@ -1,8 +1,8 @@
 ---
 title: Συγχώνευση MHT σε PRN - Συνδυάστε MHT σε PRN στο Python
 url: /el/python-java/merger/merge-mht-to-prn/ 
-description: Aspose Excel. Python Aspose.Cells. Δωρεάν διαδικτυακή συγχώνευση MHT σε μορφή αποθήκευσης PRN. Python Συνδυάστε τη μορφή MHT σε PRN. Συγχώνευση MHT σε PRN στο Python. MHT Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge MHT to PRN in Python., Free Online Python Merge MHT to prn., Python Combine MHT to PRN Online for Free., MHT Merge]
+description: Aspose Excel. Python Aspose.Cells. Συγχώνευση MHT σε μορφή αποθήκευσης PRN. Python Συνδυάστε τη μορφή MHT σε PRN. Συγχώνευση MHT σε PRN στο Python. MHT Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge MHT to PRN in Python., Python Merge MHT to prn., Python Combine MHT to PRN., MHT Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Συγχωνεύστε το MHT στο PRN μέσω του Python" h2="Βιβλιοθήκη υψηλής ταχύτητας Python για συγχώνευση MHT με PRN. Χρησιμοποιήστε τη μετατροπή excel API για να αναπτύξετε λογισμικό υψηλού επιπέδου, ανεξάρτητο από πλατφόρμα στο Python. Αυτή είναι μια επαγγελματική λύση λογισμικού για την εισαγωγή και εξαγωγή του Excel, CSV, OpenOffice, PDF, HTML, image και πολλών άλλων μορφών excel." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="MHT" additionalConversionTag="PRN" pfName="Aspose.Cells" subTitlepfName="for Python" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -12,12 +12,12 @@ keywords: [Aspose Excel., Python Aspose.Cells., Merge MHT to PRN in Python., Fre
 
 {{% blocks/products/pf/agp/content h2="Συγχώνευση MHT σε PRN χρησιμοποιώντας Python" %}}
 
- Πώς μπορώ να συγχωνεύσω το MHT με το PRN; Με τη βιβλιοθήκη Aspose.Cells for Python via Java, μπορείτε εύκολα να συγχωνεύσετε το MHT στο PRN μέσω προγραμματισμού με μερικές γραμμές κώδικα.[Aspose.Cells for Python via Java](https://pypi.org/project/aspose-cells)έχει τη δυνατότητα δημιουργίας εφαρμογών πολλαπλών πλατφορμών με δυνατότητα δημιουργίας, τροποποίησης, μετατροπής, απόδοσης και εκτύπωσης όλων των αρχείων Excel. Python Το Excel API όχι μόνο μετατρέπει μεταξύ μορφών υπολογιστικών φύλλων, αλλά μπορεί επίσης να αποδώσει αρχεία Excel ως εικόνες, PDF, HTML, ODS, CSV, 07616031481, CSV, 07616831481, δημιουργώντας περισσότερα τέλεια επιλογή για την ανταλλαγή εγγράφων σε βιομηχανικά πρότυπα μορφές. Μπορείτε να εγκαταστήσετε το Aspose.Cells for Python via Java από<a href="https://pypi.org/project/aspose-cells/">pypi</a> , χρησιμοποιήστε την εντολή ως:<code>$ pip install aspose-cells</code>.
+ Πώς μπορώ να συγχωνεύσω το MHT με το PRN; Με τη βιβλιοθήκη Aspose.Cells for Python via Java, μπορείτε εύκολα να συγχωνεύσετε το MHT στο PRN μέσω προγραμματισμού με μερικές γραμμές κώδικα.[Aspose.Cells for Python via Java](https://pypi.org/project/aspose-cells) έχει τη δυνατότητα δημιουργίας εφαρμογών πολλαπλών πλατφορμών με δυνατότητα δημιουργίας, τροποποίησης, μετατροπής, απόδοσης και εκτύπωσης όλων των αρχείων Excel. Python Το Excel API όχι μόνο μετατρέπει μεταξύ μορφών υπολογιστικών φύλλων, αλλά μπορεί επίσης να αποδώσει αρχεία Excel ως εικόνες, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT και άλλα, καθιστώντας έτσι την τέλεια επιλογή για την ανταλλαγή εγγράφων σε βιομηχανικές τυποποιημένες μορφές. Μπορείτε να εγκαταστήσετε το Aspose.Cells for Python via Java από<a href="https://pypi.org/project/aspose-cells/">pypi</a> , χρησιμοποιήστε την εντολή ως:<code>$ pip install aspose-cells</code>.
 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Συγχωνεύστε το MHT στο PRN στο Python Online δωρεάν" %}}
+{{% blocks/products/pf/agp/content h2="Συγχώνευση MHT με PRN στο Python" %}}
 
 Το ακόλουθο παράδειγμα δείχνει πώς να συγχωνεύσετε το MHT στο PRN στο Aspose.Cells for Python via Java.
 {{% blocks/products/pf/agp/text %}}
@@ -28,13 +28,13 @@ keywords: [Aspose Excel., Python Aspose.Cells., Merge MHT to PRN in Python., Fre
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Δωρεάν Online για συγχώνευση MHT με PRN στο Python" InputFormat="mht" InputFormat2="prn" outformat="prn" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-merger title="Δείγμα κώδικα για συγχώνευση MHT με PRN στο Python" InputFormat="mht" InputFormat2="prn" outformat="prn" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="Πώς να συγχωνεύσετε το MHT στο PRN μέσω του Python" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
-Θέλετε να συγχωνεύσετε το MHT στο PRN μέσω προγραμματισμού; Ένα βασικό έγγραφο που συγχωνεύεται και συνενώνεται με[Aspose.Cells for Python via Java](https://products.aspose.com/cells/python-java) Τα API μπορούν να γίνουν με λίγες μόνο γραμμές κώδικα.
+ Θέλετε να συγχωνεύσετε το MHT στο PRN μέσω προγραμματισμού; Ένα βασικό έγγραφο που συγχωνεύεται και συνενώνεται με[Aspose.Cells for Python via Java](https://products.aspose.com/cells/python-java) Τα API μπορούν να γίνουν με λίγες μόνο γραμμές κώδικα.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -73,7 +73,7 @@ keywords: [Aspose Excel., Python Aspose.Cells., Merge MHT to PRN in Python., Fre
 
 -  Εγκαταστήστε το Java 1.8 ή μεταγενέστερο και προσθέστε το στη μεταβλητή περιβάλλοντος PATH, για παράδειγμα:<code>PATH=C:\Program Files\Java\jdk1.8.0_131;</code>.
 -  Εγκαθιστώ[Python](https://www.python.org/downloads/) 3,5 ή υψηλότερο.
-- Εγκαταστήστε το Aspose.Cells for Python από<a href="https://pypi.org/project/aspose-cells/">pypi</a> , χρησιμοποιήστε την εντολή ως:<code>$ pip install aspose-cells</code>.
+-  Εγκαταστήστε το Aspose.Cells for Python από<a href="https://pypi.org/project/aspose-cells/">pypi</a> , χρησιμοποιήστε την εντολή ως:<code>$ pip install aspose-cells</code>.
 
 
 {{% /blocks/products/pf/agp/content %}}

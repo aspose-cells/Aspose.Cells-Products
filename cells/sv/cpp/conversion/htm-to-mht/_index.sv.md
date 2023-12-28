@@ -1,7 +1,7 @@
 ---
-title: C++ HTM till MHT - Online HTM till MHT-omvandlare
-description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. Gratis Online C++ Konvertera HTM till MHT saveformat. C++ HTM till MHT-format. Spara HTM till MHT C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ HTM to MHT saveformat., Free Online HTM to MHT C++., C++ Convert HTM to MHT]
+title: C++ HTM till MHT - HTM till MHT-omvandlare
+description: Aspose Excel. Konvertera HTM till MHT snabbt och enkelt med Aspose.Cells. C++ HTM till MHT. C++ Spara HTM till MHT. Spara HTM som MHT med C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., Convert HTM to MHT in C++., Save HTM to MHT using C++., C++ HTM to MHT saveformat., HTM to MHT Converter., C++ Save HTM as MHT]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Konvertera HTM till MHT i C++" h2="Högpresterande HTM till MHT-konvertering med C++-biblioteket utan behov av Microsoft Excel, OpenOffice eller Adobe Acrobat-installation." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" sourceAdditionalConversionTag="" additionalConversionTag="MHT" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ HTM to MHT s
 
 {{% blocks/products/pf/agp/content h2="Konvertera HTM till MHT med C++" %}}
 
- Hur konverterar jag HTM till MHT? Med Aspose.Cells for C++ bibliotek kan du enkelt konvertera HTM till MHT programmatiskt med några rader kod.[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) kan bygga plattformsoberoende applikationer med förmågan att generera, modifiera, konvertera, rendera och skriva ut alla Excel-filer. C++ Excel API konverterar inte bara mellan kalkylarksformat, det kan också rendera Excel-filer som bilder, PDF, HTML, ODS, ODS, CSV, 0761687481, 0761687481, vilket gör det till ett perfekt val, Pt utbyta dokument i branschstandard format. Du kan ladda ner den senaste versionen direkt, bara öppna[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) pakethanteraren, sök efter Aspose.Cells.Cpp och installera. Du kan också använda följande kommando från Package Manager Console.
+ Hur konverterar jag HTM till MHT? Med Aspose.Cells for C++ bibliotek kan du enkelt konvertera HTM till MHT programmatiskt med några rader kod.[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) kan bygga plattformsoberoende applikationer med förmågan att generera, modifiera, konvertera, rendera och skriva ut alla Excel-filer. C++ Excel API konverterar inte bara mellan kalkylarksformat, den kan också rendera Excel-filer som bilder, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT och mer, vilket gör det till ett perfekt val att utbyta dokument i industristandardformat. Du kan ladda ner den senaste versionen direkt, bara öppna[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) pakethanteraren, sök efter Aspose.Cells.Cpp och installera. Du kan också använda följande kommando från Package Manager Console.
 
 {{% blocks/products/pf/agp/code-block title="Kommando" offSpacer="true" %}}
 
@@ -26,7 +26,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Spara HTM till MHT i C++ Online gratis" %}}
+{{% blocks/products/pf/agp/content h2="Spara HTM till MHT på C++" %}}
 
 Följande exempel visar hur man konverterar HTM till MHT i C++.
 {{% blocks/products/pf/agp/text %}}
@@ -37,7 +37,7 @@ Följ de enkla stegen för att konvertera HTM till MHT. Ladda upp din HTM-fil oc
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Gratis app och provkod för att konvertera HTM till MHT Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="htm" outformat="mht" IsLandingPage="true" language="cpp" %}}
+{{% cells-convert title="Exempelkod för att konvertera HTM till MHT" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="htm" outformat="mht" IsLandingPage="true" language="cpp" %}}
 
 {{% blocks/products/pf/agp/content h2="Hur man konverterar HTM till MHT via C++" %}}
 
@@ -49,7 +49,7 @@ Behöver du konvertera HTM-filer till MHT programmatiskt? C++-utvecklare kan enk
 
 1.  Installera 'Aspose.Cells for C++'.
 1.  Lägg till en biblioteksreferens (importera biblioteket) till ditt C++-projekt.
-1.  Ladda HTM-fil med Factory::CreateIWorkbook.
+1.  Ladda HTM-fil med arbetsbok.
 1.  Konvertera HTM till MHT genom att anropa metoden Save().
 1.  Få konverteringsresultatet från HTM till MHT.
 
@@ -101,7 +101,6 @@ Det finns tre alternativ för att installera "Aspose.Cells for C++" på ditt sys
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/htm-to-pdf/" name="HTM TILL PDF" description="Portabelt dokumentformat" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/htm-to-png/" name="HTM TILL PNG" description="Bärbar nätverksgrafik" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/htm-to-svg/" name="HTM TILL SVG" description="Skalbar vektorgrafik" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/htm-to-tiff/" name="HTM TILL TIFF" description="Taggad bildformat" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/htm-to-tsv/" name="HTM TILL TSV" description="Tab-separerade värden" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/htm-to-txt/" name="HTM TILL TXT" description="Textdokument" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/htm-to-xls/" name="HTM TILL XLS" description="Excel binärt format" >}}

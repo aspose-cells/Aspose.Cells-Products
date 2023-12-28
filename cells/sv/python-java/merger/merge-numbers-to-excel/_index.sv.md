@@ -1,8 +1,8 @@
 ---
 title: Slå samman NUMBERS till EXCEL - Kombinera NUMBERS till EXCEL i Python
 url: /sv/python-java/merger/merge-numbers-to-excel/ 
-description: Aspose Excel. Python Aspose.Cells. Gratis Online Merge NUMBERS till EXCEL sparaformat. Python Kombinera NUMBERS till EXCEL-format. Slå samman NUMBERS till EXCEL i Python. NUMBERS Slå samman.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge NUMBERS to EXCEL in Python., Free Online Python Merge NUMBERS to excel., Python Combine NUMBERS to EXCEL Online for Free., NUMBERS Merge]
+description: Aspose Excel. Python Aspose.Cells. Slå ihop NUMBERS till EXCEL-sparformat. Python Kombinera NUMBERS till EXCEL-format. Slå samman NUMBERS till EXCEL i Python. NUMBERS Slå samman.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge NUMBERS to EXCEL in Python., Python Merge NUMBERS to excel., Python Combine NUMBERS to EXCEL., NUMBERS Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Slå ihop NUMBERS till EXCEL via Python" h2="Höghastighetsbibliotek Python för sammanslagning av NUMBERS till EXCEL. Använd vår excel-konvertering API för att utveckla plattformsoberoende programvara på hög nivå i Python. Detta är en professionell mjukvarulösning för att importera och exportera Excel, CSV, OpenOffice, PDF, HTML, image och många andra Excel-format." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="NUMBERS" additionalConversionTag="EXCEL" pfName="Aspose.Cells" subTitlepfName="for Python" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -12,12 +12,12 @@ keywords: [Aspose Excel., Python Aspose.Cells., Merge NUMBERS to EXCEL in Python
 
 {{% blocks/products/pf/agp/content h2="Slå samman NUMBERS till EXCEL med Python" %}}
 
- Hur slår jag ihop NUMBERS till EXCEL? Med Aspose.Cells for Python via Java bibliotek kan du enkelt slå samman NUMBERS till EXCEL programmatiskt med några rader kod.[Aspose.Cells for Python via Java](https://pypi.org/project/aspose-cells)kan bygga plattformsoberoende applikationer med förmågan att generera, modifiera, konvertera, rendera och skriva ut alla Excel-filer. Python Excel API konverterar inte bara mellan kalkylarksformat, det kan också rendera Excel-filer som bilder, PDF, HTML, ODS, ODS, CSV, 0761687481, 0761687481, vilket gör det till ett perfekt val, Pt utbyta dokument i branschstandard format. Du kan installera Aspose.Cells for Python via Java från<a href="https://pypi.org/project/aspose-cells/">pypi</a> , använd kommandot som:<code>$ pip install aspose-cells</code>.
+ Hur slår jag ihop NUMBERS till EXCEL? Med Aspose.Cells for Python via Java bibliotek kan du enkelt slå samman NUMBERS till EXCEL programmatiskt med några rader kod.[Aspose.Cells for Python via Java](https://pypi.org/project/aspose-cells) kan bygga plattformsoberoende applikationer med förmågan att generera, modifiera, konvertera, rendera och skriva ut alla Excel-filer. Python Excel API konverterar inte bara mellan kalkylarksformat, den kan också rendera Excel-filer som bilder, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT och mer, vilket gör det till ett perfekt val att utbyta dokument i industristandardformat. Du kan installera Aspose.Cells for Python via Java från<a href="https://pypi.org/project/aspose-cells/">pypi</a> , använd kommandot som:<code>$ pip install aspose-cells</code>.
 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Slå samman NUMBERS till EXCEL i Python Online gratis" %}}
+{{% blocks/products/pf/agp/content h2="Slå samman NUMBERS till EXCEL i Python" %}}
 
 Följande exempel visar hur man slår samman NUMBERS till EXCEL i Aspose.Cells for Python via Java.
 {{% blocks/products/pf/agp/text %}}
@@ -28,7 +28,7 @@ Följ de enkla stegen för att slå samman NUMBERS till EXCEL. Ladda upp dina fi
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Gratis online för att slå samman NUMBERS till EXCEL i Python" InputFormat="numbers" InputFormat2="xlsx" outformat="xlsx" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-merger title="Exempelkod för att slå samman NUMBERS till EXCEL i Python" InputFormat="numbers" InputFormat2="xlsx" outformat="xlsx" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="Hur man slår samman NUMBERS till EXCEL via Python" %}}
 
@@ -73,14 +73,14 @@ Våra API:er stöds på alla större plattformar och operativsystem. Innan du k�
 
 -  Installera Java 1.8 eller högre och lägg till den i PATH miljövariabel, till exempel:<code>PATH=C:\Program Files\Java\jdk1.8.0_131;</code>.
 -  Installera[Python](https://www.python.org/downloads/) 3,5 eller högre.
-- Installera Aspose.Cells for Python från<a href="https://pypi.org/project/aspose-cells/">pypi</a> , använd kommandot som:<code>$ pip install aspose-cells</code>.
+-  Installera Aspose.Cells for Python från<a href="https://pypi.org/project/aspose-cells/">pypi</a> , använd kommandot som:<code>$ pip install aspose-cells</code>.
 
 
 {{% /blocks/products/pf/agp/content %}}
 
 <!-- aboutfile Starts -->
     {{< blocks/products/pf/agp/about-file-section >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="NUMBERS" readMoreLink="https://docs.fileformat.com/spreadsheet/numbers/" >}}Filerna med tillägget .numbers klassificeras som kalkylbladsfiltyp, det är därför de liknar .xlsx-filerna; men Numbers-filerna skapas med hjälp av Apple iWork Numbers kalkylprogram. Apple iWork Numbers är en enhetsprogramvara för iWork Productivity Suite. iWork Productivity Suite motsvarar Microsoft Office Suite som används på Windows-datorer. Därför kan vi säga att Numbers som är tillgänglig för MacOS också är en konkurrent till Microsoft Excel. På samma sätt, Microsoft Excel, NUMBERS-filen kan också innehålla tabeller, diagram och formler.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="NUMBERS" readMoreLink="https://docs.fileformat.com/spreadsheet/numbers/" >}} Filerna med tillägget .numbers klassificeras som kalkylbladsfiltyp, det är därför de liknar .xlsx-filerna; men Numbers-filerna skapas med hjälp av Apple iWork Numbers kalkylprogram. Apple iWork Numbers är en enhetsprogramvara för iWork Productivity Suite. iWork Productivity Suite motsvarar Microsoft Office Suite som används på Windows-datorer. Därför kan vi säga att Numbers som är tillgänglig för MacOS också är en konkurrent till Microsoft Excel. På samma sätt, Microsoft Excel, NUMBERS-filen kan också innehålla tabeller, diagram och formler.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="EXCEL" readMoreLink="https://docs.fileformat.com/spreadsheet/xlsx/" >}}XLSX är ett välkänt format för Microsoft Excel-dokument som introducerades av Microsoft med lanseringen av Microsoft Office 2007. Baserat på strukturen organiserad enligt Open Packaging-konventionerna som beskrivs i del 2 av OOX3ML-standarden ECMA- är det nya formatet ECMA ett zip-paket som innehåller ett antal XML-filer. Den underliggande strukturen och filerna kan undersökas genom att helt enkelt packa upp .xlsx-filen.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
     {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->

@@ -1,6 +1,7 @@
 ---
 title:  Konvertera diagram till SVG bilder via .NET
 description: C# källkod för att konvertera diagram i XLSX fil på .NET Framework, .NET Core, Mono eller Xamarin Platforms.
+keywords: [C# Aspose.Cells., c# Convert chart to svg., c# Save chart to svg., c# chart to svg]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Konvertera diagram till SVG bilder i C#" h2="Inbyggda och högpresterande dokumentdiagram från XLS till bildkonvertering med hjälp av API:er på serversidan, utan användning av någon programvara som Microsoft eller Adobe PDF." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="XLS" >}}
@@ -43,7 +44,7 @@ PM> Install-Package Aspose.Cells
 {{% /blocks/products/pf/agp/text %}}
 
 + Skapa XLSX-fil.
-+ Skaffa diagrammet.
+Skaffa diagrammet.
 + Konvertera diagram till SVG bild.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

@@ -1,7 +1,8 @@
 ---
-title: Skydda och lås ODS dokument via Java
+title:  Skydda och lås ODS dokument via Java
 weight: 6360
 description: Java exempelkod för att låsa ODS fil med lösenord på Java Runtime Environment för JSP/JSF Application och Desktop Applications.
+keywords: [Java Aspose.Cells., Java Lock ODS files., Java How to Protect and lock ODS document., Java Protect ODS files., Encrypt ODS Files using Java]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Kryptera ODS Filer via Java" h2="Lösenordsskydda Excel-kalkylblad inklusive ODS-format med .NET Library." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="ODS" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="ODS" >}}

@@ -2,6 +2,7 @@
 title:  Προβολή ή επεξεργασία XLS Files Metadata via .NET
 weight: 1410
 description: C# πηγαίος κώδικας για επεξεργασία ή προβολή μεταδεδομένων μορφής XLS στις πλατφόρμες .NET Framework, .NET Core, Mono ή Xamarin Platforms.
+keywords: [C# Aspose.Cells., c# view xls metadata., c# add xls metadata., c# insert xls metadata., c# edit xls metadata., c# remove xls metadata., c# extract xls metadata., c# modify xls metadata]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Απόσπασμα XLS Μεταδεδομένα via .NET" h2="Δημιουργήστε τις δικές σας εφαρμογές .NET για να προσθέσετε, να επεξεργαστείτε, να αφαιρέσετε ή να εξαγάγετε μεταδεδομένα από αρχεία XLS χρησιμοποιώντας API από την πλευρά του διακομιστή." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLS" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="PPTX" fileiconsmall2="DOCX" fileiconsmall3="XLSX" fileiconsmall4="PDF" fileiconsmall5=" ODP " >}}

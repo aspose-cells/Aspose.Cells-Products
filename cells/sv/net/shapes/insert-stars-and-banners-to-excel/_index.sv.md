@@ -1,7 +1,8 @@
 ---
 title:  Infoga stjärna/banner i Excel via .NET
 weight: 381
-description: C# källkod för att infoga Star/Banner i Excel på .NET Framework, .NET Core, Mono eller Xamarin Platforms.
+description: C# Exempelkod för att lägga till eller infoga Star/Banner i Excel med hjälp av .NET Library. Använd den här koden för att skapa Star/Banner i MS Excel inom VB.NET, Asp.NET eller någon .NET-baserad applikation.
+keywords: [C# Aspose.Cells., c# add Star/Banner., c# insert Star/Banner., c# create Star/Banner]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Infoga stjärna/banner i Excel via .NET" h2="Infoga Star/Banner med Aspose.Cells\' API utan någon programvara som Microsoft eller Open Office, Adobe PDF, etc." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="XLSX" >}}
@@ -41,9 +42,9 @@ Du behöver aspose.cells.dll för att prova följande arbetsflöde i din egen mi
 
 {{% /blocks/products/pf/agp/text %}}
 
-Instantiera ett arbetsboksobjekt.(eller->Läs in XLSX-filen med fullständig sökväg.)
++ Instantiera ett arbetsboksobjekt.(eller->Läs in XLSX-filen med fullständig sökväg.)
 + Välj kalkylblad via dess index.
- + Använd[lägga till metod](https://reference.aspose.com/cells/net/aspose.cells.drawing/shapecollection/addautoshape) för att infoga stjärna/banner i det valda arbetsbladet
+ + Använd[lägga till metod](https://reference.aspose.com/cells/net/aspose.cells.drawing/shapecollection/addautoshape)för att infoga stjärna/banner i det valda arbetsbladet
 + Spara arbetsboken i XLSX-format.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
@@ -135,7 +136,7 @@ Exempelkoden nedan visar hur man infogar "Ribbon: Curved and Tilted Up" och "Exp
    <div class="col-lg-4">
     <img src="/cells/net/shapes/insert-stars-and-banners-to-excel/star_16_points.png" align="left" width="28" height="28">
     <p class="col-lg-10">
-AutoShapeType.Star16
+ AutoShapeType.Star16
     </p>
    </div>
    <div class="col-lg-4">
@@ -211,7 +212,7 @@ AutoShapeType.Star16
 
 {{% blocks/products/pf/agp/content h2="Om Aspose.Cells for .NET API" %}}
 
- Aspose.Cells API kan användas för att skapa, redigera, konvertera och rendera Microsoft Excel-format till olika format. Dessutom kan den användas för omfattande kartläggning, skalbar rapportering och tillförlitliga beräkningar inom mjukvaruapplikationer. Aspose.Cells är en fristående API och den kräver ingen programvara som Microsoft eller OpenOffice.
+Aspose.Cells API kan användas för att skapa, redigera, konvertera och rendera Microsoft Excel-format till olika format. Dessutom kan den användas för omfattande kartläggning, skalbar rapportering och tillförlitliga beräkningar inom mjukvaruapplikationer. Aspose.Cells är en fristående API och den kräver ingen programvara som Microsoft eller OpenOffice.
 
 {{% /blocks/products/pf/agp/content %}}
 

@@ -1,8 +1,8 @@
 ---
 title: Slå samman XLTX till POWERPOINT - Kombinera XLTX till POWERPOINT i C++
 url: /sv/cpp/merger/merge-xltx-to-powerpoint/ 
-description: Aspose Excel. C++ Aspose.Cells. Gratis Online Merge XLTX till POWERPOINT saveformat. C++ Kombinera XLTX till POWERPOINT-format. Slå samman XLTX till POWERPOINT i C++. XLTX Slå samman.
-keywords: [Aspose Excel., C++ Aspose.Cells., Merge XLTX to POWERPOINT in C++., Free Online C++ Merge XLTX to powerpoint., C++ Combine XLTX to POWERPOINT Online for Free., XLTX Merge]
+description: Aspose Excel. C++ Aspose.Cells. Slå samman XLTX till POWERPOINT saveformat. C++ Kombinera XLTX till POWERPOINT-format. Slå samman XLTX till POWERPOINT i C++. XLTX Slå samman.
+keywords: [Aspose Excel., C++ Aspose.Cells., Merge XLTX to POWERPOINT in C++., C++ Merge XLTX to powerpoint., C++ Combine XLTX to POWERPOINT., XLTX Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Slå samman XLTX till POWERPOINT via C++" h2="Höghastighetsbibliotek C++ för sammanslagning av XLTX till POWERPOINT. Använd vår excel-konvertering API för att utveckla plattformsoberoende programvara på hög nivå i C++. Detta är en professionell mjukvarulösning för att importera och exportera Excel, CSV, OpenOffice, PDF, HTML, image och många andra Excel-format." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" sourceAdditionalConversionTag="XLTX" additionalConversionTag="POWERPOINT" pfName="Aspose.Cells" subTitlepfName="for C++" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., C++ Aspose.Cells., Merge XLTX to POWERPOINT in C++., F
 
 {{% blocks/products/pf/agp/content h2="Slå samman XLTX till POWERPOINT med C++" %}}
 
- Hur sammanfogar jag XLTX till POWERPOINT? Med Aspose.Cells for C++ bibliotek kan du enkelt slå samman XLTX till POWERPOINT programmatiskt med några rader kod.[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) kan bygga plattformsoberoende applikationer med förmågan att generera, modifiera, konvertera, rendera och skriva ut alla Excel-filer. C++ Excel API konverterar inte bara mellan kalkylarksformat, det kan också rendera Excel-filer som bilder, PDF, HTML, ODS, ODS, CSV, 0761687481, 0761687481, vilket gör det till ett perfekt val, Pt utbyta dokument i branschstandard format. Du kan ladda ner den senaste versionen direkt, bara öppna[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) pakethanteraren, sök efter Aspose.Cells.Cpp och installera. Du kan också använda följande kommando från Package Manager Console.
+ Hur sammanfogar jag XLTX till POWERPOINT? Med Aspose.Cells for C++ bibliotek kan du enkelt slå samman XLTX till POWERPOINT programmatiskt med några rader kod.[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) kan bygga plattformsoberoende applikationer med förmågan att generera, modifiera, konvertera, rendera och skriva ut alla Excel-filer. C++ Excel API konverterar inte bara mellan kalkylarksformat, den kan också rendera Excel-filer som bilder, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT och mer, vilket gör det till ett perfekt val att utbyta dokument i industristandardformat. Du kan ladda ner den senaste versionen direkt, bara öppna[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) pakethanteraren, sök efter Aspose.Cells.Cpp och installera. Du kan också använda följande kommando från Package Manager Console.
 
 {{% blocks/products/pf/agp/code-block title="Kommando" offSpacer="true" %}}
 
@@ -26,7 +26,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Slå samman XLTX till POWERPOINT i C++ Online gratis" %}}
+{{% blocks/products/pf/agp/content h2="Slå samman XLTX till POWERPOINT i C++" %}}
 
 Följande exempel visar hur man slår samman XLTX till POWERPOINT i Aspose.Cells for C++.
 {{% blocks/products/pf/agp/text %}}
@@ -37,7 +37,7 @@ Följ de enkla stegen för att slå samman XLTX till POWERPOINT. Ladda upp dina 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Gratis online för att slå samman XLTX till POWERPOINT i C++" InputFormat="xltx" InputFormat2="pptx" outformat="pptx" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="cpp" %}}
+{{% cells-merger title="Exempelkod för att slå samman XLTX till POWERPOINT i C++" InputFormat="xltx" InputFormat2="pptx" outformat="pptx" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="cpp" %}}
 
 {{% blocks/products/pf/agp/content h2="Hur man slår samman XLTX till POWERPOINT via C++" %}}
 
@@ -107,7 +107,6 @@ Våra API:er stöds på alla större plattformar och operativsystem. Innan du k�
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xltx-to-pdf/" name="Slå samman XLTX till PDF" description="Portabelt dokumentformat" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xltx-to-png/" name="Slå samman XLTX till PNG" description="Bärbar nätverksgrafik" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xltx-to-svg/" name="Slå samman XLTX till SVG" description="Skalbar vektorgrafik" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xltx-to-tiff/" name="Slå samman XLTX till TIFF" description="Taggad bildformat" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xltx-to-tsv/" name="Slå samman XLTX till TSV" description="Tab-separerade värden" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xltx-to-txt/" name="Slå samman XLTX till TXT" description="Textdokument" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xltx-to-xls/" name="Slå samman XLTX till XLS" description="Excel binärt format" >}}

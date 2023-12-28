@@ -2,6 +2,7 @@
 title:  Sök TSV dokument utan att öppna via Java
 weight: 4940
 description: Java exempelkod för att söka efter ord med mönster i filen TSV på Java Runtime Environment för JSP/JSF Application och Desktop Applications.
+keywords: [Java Aspose.Cells., Java search words with pattern in tsv file., Java find words with pattern in tsv file., Java search string with pattern in tsv file., Java find words with pattern in tsv file., Java search words in tsv file., Java find words in tsv file., Java search string in tsv file., Java find string in tsv file]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Sök TSV-format i Java" h2="Inbyggd och högpresterande TSV dokumentsökning med hjälp av Aspose.Cells for Java API:er på serversidan, utan användning av någon programvara som Microsoft eller Adobe PDF." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="TSV" >}}
@@ -62,7 +63,7 @@ description: Java exempelkod för att söka efter ord med mönster i filen TSV p
 + Hitta cellen som innehåller den angivna formeln.
 + Instantiera FindOptions.
 + Hitta cellen som innehåller ett strängvärde
-+ Skriv ut cellerna som hittats efter sökresultat
+Skriv ut cellerna som hittats efter sökresultat
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

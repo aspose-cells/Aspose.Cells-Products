@@ -2,6 +2,7 @@
 title:  Εισαγάγετε το Rectangle στο Excel via Java
 weight: 50
 description: Εισαγάγετε αντικείμενα χρησιμοποιώντας Aspose.Cells' Java API χωρίς λογισμικό όπως Microsoft ή Open Office, Adobe PDF κ.λπ.
+keywords: [Java Aspose.Cells., Java add Rectangle., Java insert Rectangle., Java create Rectangle]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Εισαγάγετε το Rectangle στο Excel via Java" h2="Εισαγάγετε ορθογώνιο χρησιμοποιώντας Aspose.Cells\' API χωρίς λογισμικό όπως Microsoft ή Open Office, Adobe PDF κ.λπ." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSX" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="" fileiconsmall1="PPTX" fileiconsmall2="DOCX" fileiconsmall3="XLSX" fileiconsmall4="PDF" fileiconsmall5=" ODP " >}}
@@ -56,9 +57,9 @@ description: Εισαγάγετε αντικείμενα χρησιμοποιώ�
 
 {{% /blocks/products/pf/agp/text %}}
 
-Δημιουργία αντικειμένου βιβλίου εργασίας.(ή->Φορτώστε το αρχείο XLSX με πλήρη διαδρομή.)
++ Δημιουργία αντικειμένου βιβλίου εργασίας.(ή->Φορτώστε το αρχείο XLSX με πλήρη διαδρομή.)
 + Επιλέξτε Φύλλο εργασίας μέσω του ευρετηρίου του.
- + Χρησιμοποιήστε το[μέθοδος προσθήκης](https://reference.aspose.com/cells/java/com.aspose.cells/shapecollection/#addRectangle-int-int-int-int-int-int-) για να εισαγάγετε το ορθογώνιο στο επιλεγμένο φύλλο εργασίας
+ + Χρησιμοποιήστε το[μέθοδος προσθήκης](https://reference.aspose.com/cells/java/com.aspose.cells/shapecollection/#addRectangle-int-int-int-int-int-int-)για να εισαγάγετε το ορθογώνιο στο επιλεγμένο φύλλο εργασίας
 + Αποθήκευση βιβλίου εργασίας σε μορφή XLSX.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

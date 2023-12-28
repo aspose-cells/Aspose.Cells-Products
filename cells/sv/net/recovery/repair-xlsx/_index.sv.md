@@ -1,8 +1,8 @@
 ---
-title: C# Reparera xlsx-fil - Reparera xlsx-fil online gratis
+title: C# Reparera xlsx - Återställ och fixa skadad xlsx-fil
 url: /sv/net/recovery/repair-xlsx/ 
-description: Aspose Excel. C# Aspose.Cells. C# Reparera xlsx-fil. Gratis online xlsx reparationsverktyg. Reparera en skadad xlsx-fil. Återställ en skadad xlsx-fil i programmet .NET.
-keywords: [Aspose Excel., C# Aspose.Cells., C# Aspose Cells., C# Repair xlsx file., Free Online Repair a corrupted xlsx file., C# Recover xlsx file.]
+description: C# Aspose.Cells. Reparation xlsx. Fixa xlsx-filen. xlsx återställningsverktyg. xlsx korruption. Återställ xlsx-data. xlsx filåterställning. Återställ skadad xlsx-fil.
+keywords: [C# Aspose.Cells., repair xlsx file., xlsx repair., recover corrupted xlsx file., repair corrupted xlsx., recover xlsx., fix xlsx file., xlsx corruption., restore xlsx data., xlsx file recovery., recover corrupted xlsx file.]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Reparera XLSX fil i C#" h2="Bygg din egen .NET-applikation för att reparera xlsx-filer med .NET." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSX" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="XLS" fileiconsmall2="XLSB" fileiconsmall3="XLSX" fileiconsmall4="XLSM" fileiconsmall5="ODS" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., C# Aspose.Cells., C# Aspose Cells., C# Repair xlsx fil
 
 {{% blocks/products/pf/agp/content h2="Reparera XLSX fil med C#" %}}
 
- Hur reparerar jag xlsx-filen? Med Aspose.Cells for .NET-biblioteket kan du enkelt reparera XLSX-filen programmatiskt med några rader kod.[Aspose.Cells for .NET](https://products.aspose.com/cells/net)kan bygga plattformsoberoende applikationer med förmågan att generera, modifiera, konvertera, rendera och skriva ut alla Excel-filer. .NET Excel API konverterar inte bara mellan kalkylarksformat, det kan också rendera Excel-filer som bilder, PDF, HTML, ODS, ODS, CSV, 0761687481, 0761687481, vilket gör det till ett perfekt val, Pt utbyta dokument i branschstandard format. Öppen[NuGet](https://www.nuget.org/packages/aspose.cells) pakethanteraren, sök efter Aspose.Cells och installera. Du kan också använda följande kommando från Package Manager Console.
+ Hur reparerar jag xlsx-filen? Med Aspose.Cells for .NET-biblioteket kan du enkelt reparera XLSX-filen programmatiskt med några rader kod.[Aspose.Cells for .NET](https://products.aspose.com/cells/net)kan bygga plattformsoberoende applikationer med förmågan att generera, modifiera, konvertera, rendera och skriva ut alla Excel-filer. .NET Excel API konverterar inte bara mellan kalkylarksformat, den kan också rendera Excel-filer som bilder, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT och mer, vilket gör det till ett perfekt val att utbyta dokument i industristandardformat. Öppen[NuGet](https://www.nuget.org/packages/aspose.cells) pakethanteraren, sök efter Aspose.Cells och installera. Du kan också använda följande kommando från Package Manager Console.
 
 {{% blocks/products/pf/agp/code-block title="Pakethanterarens konsolkommando" offSpacer="true" %}}
 
@@ -41,7 +41,7 @@ Behöver du reparera xlsx-filen programmatiskt? .NET-utvecklare kan enkelt ladda
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-recovery title="Gratis app och provkod för att reparera XLSX fil online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et" InputFormat="xlsx" outformat="xlsx" IsLandingPage="true" language="net" %}}    
+{{% cells-recovery title="Provkod för att reparera filen XLSX" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et" InputFormat="xlsx" outformat="xlsx" IsLandingPage="true" language="net" %}}    
     
 {{% blocks/products/pf/agp/content h2=".NET bibliotek för att reparera XLSX fil" %}}
 

@@ -2,6 +2,7 @@
 title:  Εξαγωγή κειμένου και εικόνων από το έγγραφο XLS via Java
 weight: 3700
 description: Java δείγμα κώδικα για εξαγωγή κειμένου και εικόνων από το αρχείο XLS στο Java Runtime Environment για εφαρμογές JSP/JSF και εφαρμογές επιφάνειας εργασίας.
+keywords: [Java Aspose.Cells., Java Extract text and images from XLS file., Java How to Parse XLS File., Java Extract text from XLS file., Extract images from XLS file using Java]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Ανάλυση XLS Μορφές σε Java" h2="Εγγενής και υψηλής απόδοσης ανάλυση εγγράφων XLS με χρήση API Aspose.Cells for Java από την πλευρά του διακομιστή, χωρίς τη χρήση οποιουδήποτε λογισμικού όπως το Microsoft ή το Adobe PDF." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="XLS" >}}
@@ -63,7 +64,7 @@ description: Java δείγμα κώδικα για εξαγωγή κειμένο
 + Επιλέξτε το απαιτούμενο φύλλο χρησιμοποιώντας τη μέθοδο getWorksheets().get.
 + Λάβετε όλα τα κελιά του επιλεγμένου φύλλου χρησιμοποιώντας το getCells().
 + Επαναλάβετε σε κάθε κελί, λάβετε το κείμενό του .
-Εκτυπώστε κάθε τιμή κελιού ή χρησιμοποιήστε τη μέθοδο StringBuilder append() για προβολή ως σύνολο
++ Εκτυπώστε κάθε τιμή κελιού ή χρησιμοποιήστε τη μέθοδο StringBuilder append() για προβολή ως σύνολο
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

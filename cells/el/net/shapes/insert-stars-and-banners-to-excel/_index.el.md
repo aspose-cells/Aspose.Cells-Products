@@ -1,7 +1,8 @@
 ---
 title:  Εισαγάγετε Star/Banner στο Excel via .NET
 weight: 381
-description: C# πηγαίος κώδικας για εισαγωγή Star/Banner στο Excel στις πλατφόρμες .NET Framework, .NET Core, Mono ή Xamarin.
+description: C# Δείγμα κώδικα για προσθήκη ή εισαγωγή Star/Banner στο Excel χρησιμοποιώντας τη Βιβλιοθήκη .NET. Χρησιμοποιήστε αυτόν τον κώδικα για να δημιουργήσετε Star/Banner στο MS Excel εντός VB.NET, Asp.NET ή οποιασδήποτε εφαρμογής που βασίζεται στο .NET.
+keywords: [C# Aspose.Cells., c# add Star/Banner., c# insert Star/Banner., c# create Star/Banner]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Εισαγάγετε Star/Banner στο Excel via .NET" h2="Εισαγάγετε το Star/Banner χρησιμοποιώντας το Aspose.Cells\' API χωρίς λογισμικό όπως Microsoft ή Open Office, Adobe PDF κ.λπ." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="XLSX" >}}
@@ -41,9 +42,9 @@ PM> Install-Package Aspose.Cells
 
 {{% /blocks/products/pf/agp/text %}}
 
-Δημιουργία αντικειμένου βιβλίου εργασίας.(ή->Φορτώστε το αρχείο XLSX με πλήρη διαδρομή.)
++ Δημιουργία αντικειμένου βιβλίου εργασίας.(ή->Φορτώστε το αρχείο XLSX με πλήρη διαδρομή.)
 + Επιλέξτε Φύλλο εργασίας μέσω του ευρετηρίου του.
- + Χρησιμοποιήστε το[μέθοδος προσθήκης](https://reference.aspose.com/cells/net/aspose.cells.drawing/shapecollection/addautoshape) για να εισαγάγετε το αστέρι/πανό στο επιλεγμένο φύλλο εργασίας
+ + Χρησιμοποιήστε το[μέθοδος προσθήκης](https://reference.aspose.com/cells/net/aspose.cells.drawing/shapecollection/addautoshape)για να εισαγάγετε το αστέρι/πανό στο επιλεγμένο φύλλο εργασίας
 + Αποθήκευση βιβλίου εργασίας σε μορφή XLSX.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
@@ -135,7 +136,7 @@ PM> Install-Package Aspose.Cells
    <div class="col-lg-4">
     <img src="/cells/net/shapes/insert-stars-and-banners-to-excel/star_16_points.png" align="left" width="28" height="28">
     <p class="col-lg-10">
-AutoShapeType.Star16
+ AutoShapeType.Star16
     </p>
    </div>
    <div class="col-lg-4">
@@ -211,7 +212,7 @@ AutoShapeType.Star16
 
 {{% blocks/products/pf/agp/content h2="Σχετικά με Aspose.Cells for .NET API" %}}
 
- Aspose.Cells API μπορεί να χρησιμοποιηθεί για τη δημιουργία, επεξεργασία, μετατροπή και απόδοση μορφών Excel Microsoft σε διαφορετικές μορφές. Επιπλέον, μπορεί να χρησιμοποιηθεί για ολοκληρωμένη χαρτογράφηση, κλιμακούμενη αναφορά και αξιόπιστους υπολογισμούς εντός εφαρμογών λογισμικού. Το Aspose.Cells είναι ένα αυτόνομο API και δεν απαιτεί λογισμικό όπως το Microsoft ή το OpenOffice.
+Aspose.Cells API μπορεί να χρησιμοποιηθεί για τη δημιουργία, επεξεργασία, μετατροπή και απόδοση μορφών Excel Microsoft σε διαφορετικές μορφές. Επιπλέον, μπορεί να χρησιμοποιηθεί για ολοκληρωμένη χαρτογράφηση, κλιμακούμενη αναφορά και αξιόπιστους υπολογισμούς εντός εφαρμογών λογισμικού. Το Aspose.Cells είναι ένα αυτόνομο API και δεν απαιτεί λογισμικό όπως το Microsoft ή το OpenOffice.
 
 {{% /blocks/products/pf/agp/content %}}
 

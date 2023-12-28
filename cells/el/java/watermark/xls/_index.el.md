@@ -1,7 +1,8 @@
 ---
-title:  Υδατογράφημα XLS έγγραφο via Java
+title: Υδατογράφημα XLS έγγραφο via Java
 weight: 2210
 description: Java δείγμα κώδικα για προσθήκη ή αφαίρεση υδατογραφήματος στο αρχείο XLS στο Java Runtime Environment για εφαρμογές JSP/JSF και εφαρμογές επιφάνειας εργασίας.
+keywords: [Java Aspose.Cells., Java add watermark to xls file., Java insert watermark to xls file., Java create watermark in xls file., remove watermark from xls file using Java., Java operate watermark in xls file., Java access watermark in xls file]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Προσθέστε Υδατογράφημα κειμένου στο XLS via Java" h2="Δημιουργήστε τις δικές σας εφαρμογές Java για να υδατογραφήσετε αρχεία XLS χρησιμοποιώντας API από την πλευρά του διακομιστή." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLS" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="" fileiconsmall1="PPTX" fileiconsmall2="DOCX" fileiconsmall3="XLSX" fileiconsmall4="PDF" fileiconsmall5=" ODP " >}}

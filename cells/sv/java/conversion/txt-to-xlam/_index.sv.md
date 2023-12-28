@@ -1,7 +1,7 @@
 ---
-title: Java TXT till XLAM - Online TXT till XLAM Converter
-description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Gratis Online Java Konvertera TXT till XLAM sparaformat. Java TXT till XLAM format. Spara TXT till XLAM Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java TXT to XLAM saveformat., Free Online TXT to XLAM Java., Java Convert TXT to XLAM]
+title: Java TXT till XLAM - TXT till XLAM Omvandlare
+description: Aspose Excel. Konvertera TXT till XLAM snabbt och enkelt med Aspose.Cells. Java TXT till XLAM. Java Spara TXT till 07611 till 07161. 07611 till 07161. 3481 med Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Convert TXT to XLAM in Java., Save TXT to XLAM using Java., Java TXT to XLAM saveformat., TXT to XLAM Converter., Java Save TXT as XLAM]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Konvertera TXT till XLAM till Java" h2="Höghastighetsbibliotek Java för att konvertera TXT till XLAM. Detta är en professionell mjukvarulösning för att importera och exportera TXT, XLAM och många andra format med Java." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLAM" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java TXT to XL
 
 {{% blocks/products/pf/agp/content h2="Konvertera TXT till XLAM med Java" %}}
 
-Hur konverterar jag TXT till XLAM? Med Aspose.Cells for Java bibliotek kan du enkelt konvertera TXT till XLAM programmatiskt med några rader kod.[Aspose.Cells for Java](https://products.aspose.com/cells/java) kan bygga plattformsoberoende applikationer med förmågan att generera, modifiera, konvertera, rendera och skriva ut alla Excel-filer. Java Excel API konverterar inte bara mellan kalkylarksformat, det kan också rendera Excel-filer som bilder, PDF, HTML, ODS, ODS, CSV, 0761687481, 0761687481, vilket gör det till ett perfekt val, Pt utbyta dokument i branschstandard format. Du kan ladda ner den senaste versionen direkt från[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) och installera det i ditt Maven-baserade projekt genom att lägga till följande konfigurationer till pom.xml.
+Hur konverterar jag TXT till XLAM? Med Aspose.Cells for Java bibliotek kan du enkelt konvertera TXT till XLAM programmatiskt med några rader kod.[Aspose.Cells for Java](https://products.aspose.com/cells/java)kan bygga plattformsoberoende applikationer med förmågan att generera, modifiera, konvertera, rendera och skriva ut alla Excel-filer. Java Excel API konverterar inte bara mellan kalkylarksformat, den kan också rendera Excel-filer som bilder, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT och mer, vilket gör det till ett perfekt val att utbyta dokument i industristandardformat. Du kan ladda ner den senaste versionen direkt från[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) och installera det i ditt Maven-baserade projekt genom att lägga till följande konfigurationer till pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Förvar" offSpacer="true" %}}
 
@@ -45,7 +45,7 @@ Hur konverterar jag TXT till XLAM? Med Aspose.Cells for Java bibliotek kan du en
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Spara TXT till XLAM på Java Online gratis" %}}
+{{% blocks/products/pf/agp/content h2="Spara TXT till XLAM i Java" %}}
 
 Följande exempel visar hur man konverterar TXT till XLAM i Java.
 {{% blocks/products/pf/agp/text %}}
@@ -56,7 +56,7 @@ Följ de enkla stegen för att konvertera TXT till XLAM. Ladda upp din TXT-fil o
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Gratis app och provkod för att konvertera TXT till XLAM online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="txt" outformat="xlam" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Exempelkod för att konvertera TXT till XLAM" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="txt" outformat="xlam" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="Hur man konverterar TXT till XLAM via Java" %}}
 
@@ -68,7 +68,7 @@ Behöver du konvertera TXT-filer till XLAM programmatiskt? Java-utvecklare kan e
 
 1.  Installera 'Aspose.Cells for Java'.
 1.  Lägg till en biblioteksreferens (importera biblioteket) till ditt Java-projekt.
-1.  Ladda TXT-filen med en instans av Workbook-klassen.
+1. Ladda TXT-filen med en instans av Workbook-klassen.
 1.  Konvertera TXT till XLAM genom att anropa Workbook.save-metoden.
 1.  Få konverteringsresultatet från TXT till XLAM.
 

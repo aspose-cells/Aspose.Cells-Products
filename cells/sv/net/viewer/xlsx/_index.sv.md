@@ -2,6 +2,7 @@
 title:  Visa XLSX Filformat via .NET
 weight: 2180
 description: C# källkod för att ladda, rendera och visa XLSX dokument på .NET Framework, .NET Core, Mono eller Xamarin Platforms.
+keywords: [C# Aspose.Cells., c# view XLSX files., c# how to render XLSX document., c# load and display XLSX files., XLSX File Viewer using C#]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="XLSX Filvisare for .NET" h2="Visa Excel- och OpenOffice-kalkylblad som XLSX utan att behöva Microsoft Excel eller Office Automation." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSX" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -43,7 +44,7 @@ PM> Install-Package Aspose.Cells
 
 1.  Ladda filen XLSX i en instans av Workbook
 1.  Skapa en instans av HtmlSaveOptions och ställ in ExportHeadings-egenskapen till true
-1.  Spara XLSX-filen i HTML-format med Workbook.Save-metoden
+1. Spara XLSX-filen i HTML-format med Workbook.Save-metoden
 1.  Ladda resultant HTML i standardwebbläsaren med Process.Start
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

@@ -2,6 +2,7 @@
 title:  Προστατέψτε και κλειδώστε το έγγραφο XLSM μέσω του C++
 weight: 8770
 description: C++ παράδειγμα κώδικα για το κλείδωμα του αρχείου XLSM με χρήση κωδικού πρόσβασης στο C++ Runtime Environment για Windows 32 bit, Windows 64 bit και Linux 64 bit.
+keywords: [C++ Aspose.Cells., C++ Lock XLSM files., C++ How to Protect and lock XLSM document., C++ Protect XLSM files., Encrypt XLSM Files using C++]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Κρυπτογράφηση XLSM Αρχείων μέσω C++" h2="Προστατέψτε με κωδικό πρόσβασης υπολογιστικά φύλλα Excel, συμπεριλαμβανομένης της μορφής XLSM, χρησιμοποιώντας τη Βιβλιοθήκη .NET." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSM" pfName="Aspose.Cells" subTitlepfName="for C++" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSM" >}}
@@ -41,7 +42,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/text %}}
 
-1.  Φορτώστε το αρχείο XLSM χρησιμοποιώντας την τάξη IWorkbook
+1.  Φορτώστε το αρχείο XLSM χρησιμοποιώντας την κλάση Βιβλίο εργασίας
 1.  Χρησιμοποιήστε τη μέθοδο Protect(..) με ProtectionType και Password
 1.  Αποθηκεύστε το προστατευμένο αρχείο XLSM με τη μέθοδο Save().
 
@@ -64,20 +65,24 @@ PM> Install-Package Aspose.Cells.Cpp
 
 ```cs
 
-// Source path.
-StringPtr srcDir = new String("SourcePath\");
+Aspose::Cells::Startup();
 
-// Output path.
-StringPtr outDir = new String("OutputPath\");
+// load the ODS Excel file 
+Workbook book(u"unlocked.xlsm");
 
-// Load XLSM file
-intrusive_ptr<IWorkbook> workbook = Factory::CreateIWorkbook(srcDir->StringAppend(new String("sourceFile.xlsm")));
+// access the first worksheet
+Worksheet worksheet = book.GetWorksheets().Get(0);
 
-// Protect workbook by specifying protection type
-workbook->Protect(ProtectionType::ProtectionType_All, new String("12345"));
+// protect the worksheet with password
+worksheet.Protect(ProtectionType::All, u"password", nullptr);
 
-// Save the XLSM file
-workbook->Save(outDir->StringAppend(new String("output.xlsm")));
+// protect the whole workbook with password
+book.Protect(ProtectionType::All, u"password");
+
+// save the modified file in default format
+book.Save(u"protected.xlsm");
+
+Aspose::Cells::Cleanup();
 
 ```
 

@@ -1,7 +1,8 @@
 ---
 title:  Java Excel API - Aspose
 weight: 6830
-description: Java Excel-bibliotek för bearbetning av kalkylblad. Läs skriv rendera och konvertera XLS XLSX XLSM ODS CSV TSV och fler format. Kompatibel med Windows Linux & Unix
+description:  Aspose.Cells for Java bibliotek för att skapa, reparera, slå samman, analysera och konvertera Excel-filer. Konvertera excel till PDF, JSON, CSV, HTML och så vidare.
+keywords: [Java Aspose.Cells Create repair parse merge convert JSON Excel XML PDF HTML TSV MHTML XPS CSV PNG JPEG and more formats]
 ---
 {{< blocks/products/pf/main-wrap-class >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Java Excel-kalkylbladsbearbetning API" h2="Skapa, manipulera, konvertera, skydda eller skriv ut kalkylblad utan att förlita dig på Microsoft Excel." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/headers/aspose_cells-for-java.svg" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="https://downloads.aspose.com/cells/java" >}}
@@ -383,7 +384,7 @@ Sampla om bilder i Excel till PDF konvertering
  Spara Excel-filer till olika format
     </h2>
     <p>
- Excel API erbjuder konvertering av kalkylblad till PDF, XPS, HTML och fler format samtidigt som högsta visuella kvalitet behålls. Den pålitliga och flexibla konverteringsprocessen gör Aspose.Cells till ett perfekt val för organisationer som mestadels utbyter filer inom branschstandardformat.
+ Excel API erbjuder konvertering av kalkylblad till PDF, XPS, HTML och fler format samtidigt som den behåller högsta visuella trohet. Den pålitliga och flexibla konverteringsprocessen gör Aspose.Cells till ett perfekt val för organisationer som mestadels utbyter filer inom branschstandardformat.
     </p>
     <div class="codeblock" id="code">
      <h3>
@@ -404,7 +405,7 @@ wbk.save(dir + "output.html", SaveFormat.HTML);</code></pre>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
- Formatera kalkylblad till den mest detaljerade nivån
+ Formatera arbetsblad till den mest detaljerade nivån
     </h2>
     <p>
 Bibliotek tillhandahåller kalkylbladsformatering inklusive men inte begränsat till kalkylbladsformatering på rad-, kolumn- och cellnivå, lägga till regler för villkorlig formatering, definiera talformat och ställa in teckensnitt med attribut. På samma sätt stöder API manipulering och skapande av alla typer av anpassade och standarddiagram samt olika ritobjekt som OLE-objekt, bilder, kommentarer, former och kontroller till cellerna.
@@ -419,7 +420,7 @@ Bibliotek tillhandahåller kalkylbladsformatering inklusive men inte begränsat 
 </div>-->
    <div class="col-lg-12">
     <h2 class="h2title">
- Konvertera diagram &amp; Ark till bild &amp; PDF Format
+ Konvertera diagram &amp; Kalkylark till bild &amp; PDF Format
     </h2>
     <p>
  Aspose.Cells for Java erbjuder speciella konverteringsfunktioner som diagram till bilder och PDF, kalkylblad till bilder, utskrift av kalkylblad och konvertering av kalkylblad till filformatet PDF. Konverteringsprocessen är mycket flexibel och enkel, vilket gör det möjligt att välja ett antal sätt för konverteringen, såsom omsampling av bilder under kalkylblad till PDF-transformation eller justering av de resulterande bilddimensionerna samtidigt som kalkylblad och diagram renderas till bilder.
@@ -450,7 +451,7 @@ chart.toPdf(dir + "output.pdf");</code></pre>
  Manipulera Excel-rader &amp; Kolumner
     </h2>
     <p>
- Aspose.Cells for Java låter dig ändra rader och kolumner på en mängd olika sätt. Man kan enkelt justera kolumnbredd och radhöjd, automatiskt anpassa bredden/höjden på celler efter innehåll, infoga &amp; ta bort, dölj &amp; av-gömma såväl som grupp &amp; avgruppera rader och kolumner.
+ Aspose.Cells for Java låter dig ändra rader och kolumner på en mängd olika sätt. Man kan enkelt justera kolumnbredd och radhöjd, automatiskt anpassa bredden/höjden på celler efter innehåll, infoga &amp; ta bort, dölj &amp; av-gömma samt gruppera &amp; avgruppera rader och kolumner.
     </p>
    </div>
    <div class="col-lg-12">

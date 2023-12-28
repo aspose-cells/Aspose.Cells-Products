@@ -1,7 +1,7 @@
 ---
-title: Java HTM till JPG - Online HTM till JPG-konverterare
-description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Gratis Online Java Konvertera HTM till JPG sparaformat. Java HTM till JPG-format. Spara HTM till JPG Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java HTM to JPG saveformat., Free Online HTM to JPG Java., Java Convert HTM to JPG]
+title: Java HTM till JPG - HTM till JPG-konverterare
+description: Aspose Excel. Konvertera HTM till JPG snabbt och enkelt med Aspose.Cells. Java HTM till JPG. Java Spara HTM till JPG. Spara HTM som JPG med Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Convert HTM to JPG in Java., Save HTM to JPG using Java., Java HTM to JPG saveformat., HTM to JPG Converter., Java Save HTM as JPG]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Konvertera HTM till JPG i Java" h2="Höghastighetsbibliotek Java för konvertering av HTM till JPG. Detta är en professionell mjukvarulösning för att importera och exportera HTM, JPG och många andra format med Java." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="JPG" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java HTM to JP
 
 {{% blocks/products/pf/agp/content h2="Konvertera HTM till JPG med Java" %}}
 
- Hur konverterar jag HTM till JPG? Med Aspose.Cells for Java-biblioteket kan du enkelt konvertera HTM till JPG programmatiskt med några rader kod.[Aspose.Cells for Java](https://products.aspose.com/cells/java) kan bygga plattformsoberoende applikationer med förmågan att generera, modifiera, konvertera, rendera och skriva ut alla Excel-filer. Java Excel API konverterar inte bara mellan kalkylarksformat, det kan också rendera Excel-filer som bilder, PDF, HTML, ODS, ODS, CSV, 0761687481, 0761687481, vilket gör det till ett perfekt val, Pt utbyta dokument i branschstandard format. Du kan ladda ner den senaste versionen direkt från[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) och installera det i ditt Maven-baserade projekt genom att lägga till följande konfigurationer till pom.xml.
+ Hur konverterar jag HTM till JPG? Med Aspose.Cells for Java-biblioteket kan du enkelt konvertera HTM till JPG programmatiskt med några rader kod.[Aspose.Cells for Java](https://products.aspose.com/cells/java)kan bygga plattformsoberoende applikationer med förmågan att generera, modifiera, konvertera, rendera och skriva ut alla Excel-filer. Java Excel API konverterar inte bara mellan kalkylarksformat, den kan också rendera Excel-filer som bilder, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT och mer, vilket gör det till ett perfekt val att utbyta dokument i industristandardformat. Du kan ladda ner den senaste versionen direkt från[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) och installera det i ditt Maven-baserade projekt genom att lägga till följande konfigurationer till pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Förvar" offSpacer="true" %}}
 
@@ -45,7 +45,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java HTM to JP
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Spara HTM till JPG i Java Online gratis" %}}
+{{% blocks/products/pf/agp/content h2="Spara HTM till JPG i Java" %}}
 
 Följande exempel visar hur man konverterar HTM till JPG i Java.
 {{% blocks/products/pf/agp/text %}}
@@ -56,7 +56,7 @@ Följ de enkla stegen för att konvertera HTM till JPG. Ladda upp din HTM-fil oc
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Gratis app och provkod för att konvertera HTM till JPG online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="htm" outformat="jpg" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Exempelkod för att konvertera HTM till JPG" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="htm" outformat="jpg" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="Hur man konverterar HTM till JPG via Java" %}}
 
@@ -70,7 +70,7 @@ Behöver du konvertera HTM-filer till JPG programmatiskt? Java-utvecklare kan en
 1.  Lägg till en biblioteksreferens (importera biblioteket) till ditt Java-projekt.
 1.  Ladda HTM-fil med en instans av Workbook-klassen.
 1.  Konvertera HTM till JPG genom att anropa Workbook.save-metoden.
-1.  Få konverteringsresultatet från HTM till JPG.
+1. Få konverteringsresultatet från HTM till JPG.
 
 {{% /blocks/products/pf/agp/content %}}
 

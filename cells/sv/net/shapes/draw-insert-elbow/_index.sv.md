@@ -1,7 +1,8 @@
 ---
 title:  Hur man ritar eller infogar en armbågsform i Excel via .NET
 weight: 101
-description: C# källkod för att rita eller infoga armbågsform i Excel på .NET Framework, .NET Core, Mono eller Xamarin-plattformar.
+description: C# Exempelkod för att lägga till eller infoga armbågsform i Excel med hjälp av .NET Library. Använd den här koden för att skapa armbågsform i MS Excel inom VB.NET, Asp.NET eller någon .NET-baserad applikation.
+keywords: [C# Aspose.Cells., c# add elbow shape., c# insert elbow shape., c# create elbow shape]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Infoga armbågsform i Excel via .NET" h2="Infoga armbågsform med Aspose.Cells\' API utan någon programvara som Microsoft eller Open Office, Adobe PDF, etc." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="XLSX" >}}
@@ -41,7 +42,7 @@ Du behöver aspose.cells.dll för att prova följande arbetsflöde i din egen mi
 
 {{% /blocks/products/pf/agp/text %}}
 
-Instantiera ett arbetsboksobjekt.(eller->Läs in XLSX-filen med fullständig sökväg.)
++ Instantiera ett arbetsboksobjekt.(eller->Läs in XLSX-filen med fullständig sökväg.)
 + Välj kalkylblad via dess index.
  + Använd[lägga till metod](https://reference.aspose.com/cells/net/aspose.cells.drawing/shapecollection/addautoshape/) för att infoga en armbågsform i det valda kalkylbladet
 + Spara arbetsboken i XLSX-format.
@@ -77,7 +78,7 @@ Instantiera ett arbetsboksobjekt.(eller->Läs in XLSX-filen med fullständig sö
 
 {{% blocks/products/pf/agp/content h2="Om Aspose.Cells for .NET API" %}}
 
- Aspose.Cells API kan användas för att skapa, redigera, konvertera och rendera Microsoft Excel-format till olika format. Dessutom kan den användas för omfattande kartläggning, skalbar rapportering och tillförlitliga beräkningar inom mjukvaruapplikationer. Aspose.Cells är en fristående API och den kräver ingen programvara som Microsoft eller OpenOffice.
+Aspose.Cells API kan användas för att skapa, redigera, konvertera och rendera Microsoft Excel-format till olika format. Dessutom kan den användas för omfattande kartläggning, skalbar rapportering och tillförlitliga beräkningar inom mjukvaruapplikationer. Aspose.Cells är en fristående API och den kräver ingen programvara som Microsoft eller OpenOffice.
 
 {{% /blocks/products/pf/agp/content %}}
 

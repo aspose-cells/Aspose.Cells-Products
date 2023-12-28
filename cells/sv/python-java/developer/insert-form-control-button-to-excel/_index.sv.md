@@ -2,6 +2,7 @@
 title: Infoga knapp (formulärkontroll) i Excel med Python via java
 weight: 200
 description: Python via java källkod för att infoga knappen (formulärkontroll) i Excel.
+keywords: [Python via Java Aspose.Cells., Python via Java add button into Excel., Python via Java insert button into Excel., Python via Java create button in Excel]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Infoga knapp (formulärkontroll) i Excel med Python via java" h2="Infoga objekt med hjälp av API:er på serversidan utan någon programvara som Microsoft eller Open Office, Adobe PDF, etc." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="" pfName="Aspose.Cells" subTitlepfName="for Python via Java" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="XLSX" >}}
@@ -11,9 +12,9 @@ description: Python via java källkod för att infoga knappen (formulärkontroll
 
 {{% blocks/products/pf/agp/content h2="Hur man infogar knapp (formulärkontroll) i Excel-fil med Python via java" %}}
 
- För att infoga Button(Form control) i excel-filen kommer vi att använda
+För att infoga Button(Form control) i excel-filen kommer vi att använda
  [Aspose.Cells for Python via java](https://pypi.org/project/aspose-cells/) 
-API som är en funktionsrik, kraftfull och lättanvänd dokumentmanipulering API för python via java-plattformen. API tillhandahåller Excel-filskapande, manipulering, konvertering och rendering. Allt utan att förlita sig på Microsoft Office- eller Excel-program. Du kan installera från konsolen med följande kommando.
+ API som är en funktionsrik, kraftfull och lättanvänd dokumentmanipulering API för python via java-plattformen. API tillhandahåller Excel-filskapande, manipulering, konvertering och rendering. Allt utan att förlita sig på Microsoft Office- eller Excel-program. Du kan installera från konsolen med följande kommando.
 
 {{% blocks/products/pf/agp/code-block title="Kommando" offSpacer="true" %}}
 
@@ -37,9 +38,9 @@ Du behöver Aspose.Cells för att prova följande arbetsflöde i din egen miljö
 
 {{% /blocks/products/pf/agp/text %}}
 
-Instantiera ett arbetsboksobjekt.(eller->Läs in XLSX-filen med fullständig sökväg.)
++ Instantiera ett arbetsboksobjekt.(eller->Läs in XLSX-filen med fullständig sökväg.)
 + Välj kalkylblad via dess index.
- + Använd formkollektionens[lägga till metod](https://reference.aspose.com/cells/python-java/asposecells.api/shapecollection#addButton(int,%20int,%20int,%20int,%20int,%20int)för att infoga en knapp (formulärkontroll) i det valda kalkylbladet.
+ + Använd formkollektionens[lägga till metod](https://reference.aspose.com/cells/python-java/asposecells.api/shapecollection#addButton(int,%20int,%20int,%20int,%20int,%20int)) för att infoga en knapp (formulärkontroll) i det valda kalkylbladet.
 + Spara arbetsboken i XLSX-format.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
@@ -53,7 +54,7 @@ Instantiera ett arbetsboksobjekt.(eller->Läs in XLSX-filen med fullständig sö
 {{% /blocks/products/pf/agp/text %}}
 
 -  Alla operativsystem som kan köra python via java-skript, såsom Windows, Linux och MacOS
--  Installera Java och lägg till den i PATH miljövariabel, till exempel:<code>PATH=C:\Program Files\Java\jdk1.8.0_131;</code>.
+- Installera Java och lägg till den i PATH miljövariabel, till exempel:<code>PATH=C:\Program Files\Java\jdk1.8.0_131;</code>.
 -  Installera Aspose.Cells for Python via java från<a href="https://pypi.org/project/aspose-cells/">pypi</a> , använd kommandot som:<code>$ pip install aspose-cells</code>.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

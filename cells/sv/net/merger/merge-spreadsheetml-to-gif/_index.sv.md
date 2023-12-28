@@ -1,8 +1,8 @@
 ---
 title: Slå samman SPREADSHEETML till GIF - Kombinera SPREADSHEETML till GIF i C#
 url: /sv/net/merger/merge-spreadsheetml-to-gif/ 
-description: Aspose Excel. C# Aspose.Cells. Gratis Online Merge Kalkylblad till GIF sparaformat. C# Kombinera Kalkylblad till GIF-format. Sammanfoga Kalkylblad till GIF i C#. Kalkylblad Sammanfoga.
-keywords: [Aspose Excel., C# Aspose.Cells., Merge SPREADSHEETML to GIF in C#., Free Online C# Merge SPREADSHEETML to gif., C# Combine SPREADSHEETML to GIF Online for Free., SPREADSHEETML Merge]
+description: Aspose Excel. C# Aspose.Cells. Slå samman Kalkylark till GIF sparaformat. C# Kombinera Kalkylblad till GIF-format. Sammanfoga Kalkylblad till GIF i C#. Kalkylblad Sammanfoga.
+keywords: [Aspose Excel., C# Aspose.Cells., Merge SPREADSHEETML to GIF in C#., C# Merge SPREADSHEETML to gif., C# Combine SPREADSHEETML to GIF., SPREADSHEETML Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Slå samman Kalkylark till GIF via C#" h2="Höghastighetsbibliotek C# för sammanslagning av SPREADSHEETML till GIF. Använd vår excel-konvertering API för att utveckla plattformsoberoende programvara på hög nivå i C#. Detta är en professionell mjukvarulösning för import och export av Excel, CSV, OpenOffice, PDF, HTML, image-format och många andra excel-format." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="SPREADSHEETML" additionalConversionTag="GIF" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., C# Aspose.Cells., Merge SPREADSHEETML to GIF in C#., F
 
 {{% blocks/products/pf/agp/content h2="Slå samman Kalkylark till GIF med C#" %}}
 
- Hur slår jag samman SPREADSHEETML till GIF? Med Aspose.Cells for .NET bibliotek kan du enkelt slå samman SPREADSHEETML till GIF programmatiskt med några rader kod.[Aspose.Cells for .NET](https://products.aspose.com/cells/net)kan bygga plattformsoberoende applikationer med förmågan att generera, modifiera, konvertera, rendera och skriva ut alla Excel-filer. .NET Excel API konverterar inte bara mellan kalkylarksformat, det kan också rendera Excel-filer som bilder, PDF, HTML, ODS, ODS, CSV, 0761687481, 0761687481, vilket gör det till ett perfekt val, Pt utbyta dokument i branschstandard format. Öppen[NuGet](https://www.nuget.org/packages/aspose.cells) pakethanteraren, sök efter Aspose.Cells och installera. Du kan också använda följande kommando från Package Manager Console.
+ Hur slår jag samman SPREADSHEETML till GIF? Med Aspose.Cells for .NET bibliotek kan du enkelt slå samman SPREADSHEETML till GIF programmatiskt med några rader kod.[Aspose.Cells for .NET](https://products.aspose.com/cells/net)kan bygga plattformsoberoende applikationer med förmågan att generera, modifiera, konvertera, rendera och skriva ut alla Excel-filer. .NET Excel API konverterar inte bara mellan kalkylarksformat, den kan också rendera Excel-filer som bilder, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT och mer, vilket gör det till ett perfekt val att utbyta dokument i industristandardformat. Öppen[NuGet](https://www.nuget.org/packages/aspose.cells) pakethanteraren, sök efter Aspose.Cells och installera. Du kan också använda följande kommando från Package Manager Console.
 
 {{% blocks/products/pf/agp/code-block title="Pakethanterarens konsolkommando" offSpacer="true" %}}
 
@@ -26,7 +26,7 @@ PM> Install-Package Aspose.Cells
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Slå samman Kalkylblad till GIF i C# Online gratis" %}}
+{{% blocks/products/pf/agp/content h2="Slå samman Kalkylblad till GIF i C#" %}}
 
 Följande exempel visar hur man slår samman SPREADSHEETML till GIF i Aspose.Cells for .NET.
 {{% blocks/products/pf/agp/text %}}
@@ -37,7 +37,7 @@ Följ de enkla stegen för att slå samman SPREADSHEETML till GIF. Ladda upp din
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Gratis online för att slå samman SPREADSHEETML till GIF i C#" InputFormat="xml" InputFormat2="gif" outformat="gif" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="net" %}}
+{{% cells-merger title="Exempelkod för att slå samman SPREADSHEETML till GIF i C#" InputFormat="xml" InputFormat2="gif" outformat="gif" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="net" %}}
 
 {{% blocks/products/pf/agp/content h2="Hur man slår ihop Kalkylblad till GIF via C#" %}}
 

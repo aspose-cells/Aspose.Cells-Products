@@ -1,7 +1,8 @@
 ---
 title:  Εισαγωγή Συγκεντρωτικού Πίνακα σε αρχεία Micorsoft Excel XLSB μέσω C#
 weight: 7690
-description: C# Δείγμα κώδικα για τη δημιουργία εγγράφων XLSB με Συγκεντρωτικό Πίνακα. Χρησιμοποιήστε αυτόν τον κώδικα για τη δημιουργία αρχείων Micorsoft Excel XLSB με Συγκεντρωτικό Πίνακα εντός VB.NET, Asp.NET ή οποιασδήποτε εφαρμογής που βασίζεται στο .NET.
+description: C# Δείγμα κώδικα για την προσθήκη Συγκεντρωτικού Πίνακα στο XLSB χρησιμοποιώντας τη Βιβλιοθήκη .NET. Χρησιμοποιήστε αυτόν τον κωδικό για την εισαγωγή του αρχείου Συγκεντρωτικού Πίνακα στο XLSB σε VB.NET, Asp.NET ή σε οποιαδήποτε εφαρμογή που βασίζεται στο .NET.
+keywords: [C# Aspose.Cells., c# add PivotTable in xlsb., c# insert PivotTable in xlsb., c# create PivotTable in xlsb., c# modify PivotTable in xlsb., access PivotTable in xlsb., c# add pivot table in xlsb., c# insert pivot table in xlsb., c# create pivot table in xlsb., c# modify pivot table in xlsb., access pivot table in xlsb]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Εισαγωγή Συγκεντρωτικού Πίνακα σε Έγγραφα XLSB μέσω C#" h2="Εγγενές και υψηλής απόδοσης υπολογιστικό φύλλο Microsoft Excel XLSB με δημιουργία Συγκεντρωτικού Πίνακα μέσω προγραμματισμού χρησιμοποιώντας API από την πλευρά του διακομιστή .NET." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSB" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSB" >}}
@@ -11,9 +12,7 @@ description: C# Δείγμα κώδικα για τη δημιουργία εγ�
 
 {{% blocks/products/pf/agp/content h2="" %}}
 
- Η δυναμική δημιουργία αρχείου MS Excel XLSB με Συγκεντρωτικό Πίνακα σε εφαρμογή που εκτελείται είναι εύκολη. Για να δημιουργήσουμε έγγραφα XLSB με τον Συγκεντρωτικό Πίνακα από την αρχή χωρίς να απαιτείται MS Office, θα χρησιμοποιήσουμε
- [Aspose.Cells for .NET](https://products.aspose.com/cells/net) 
- API που προσφέρει διαφορετικές δυνατότητες για δημιουργία υπολογιστικών φύλλων, χειρισμό και μετατροπή χρησιμοποιώντας την πλατφόρμα .NET. Οι προγραμματιστές μπορούν εύκολα να βελτιώσουν τον κώδικα για τη σύνταξη δεδομένων, τη δημιουργία γραφημάτων ή γραφημάτων, καθώς και τη δημιουργία πινάκων σε υπολογιστικά φύλλα.
+ Η δυναμική δημιουργία αρχείου MS Excel XLSB με Συγκεντρωτικό Πίνακα σε εφαρμογή που εκτελείται είναι εύκολη. Για να δημιουργήσουμε έγγραφα XLSB με τον Συγκεντρωτικό Πίνακα από την αρχή χωρίς να απαιτείται MS Office, θα χρησιμοποιήσουμε[Aspose.Cells for .NET](https://products.aspose.com/cells/net) API που προσφέρει διαφορετικές δυνατότητες για δημιουργία υπολογιστικών φύλλων, χειρισμό και μετατροπή χρησιμοποιώντας την πλατφόρμα .NET. Οι προγραμματιστές μπορούν εύκολα να βελτιώσουν τον κώδικα για τη σύνταξη δεδομένων, τη δημιουργία γραφημάτων ή γραφημάτων, καθώς και τη δημιουργία πινάκων σε υπολογιστικά φύλλα.
 {{% /blocks/products/pf/agp/content %}}
 
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
@@ -22,7 +21,7 @@ description: C# Δείγμα κώδικα για τη δημιουργία εγ�
 
 {{% blocks/products/pf/agp/text %}}
 
-Είναι εύκολο για τους προγραμματιστές να εισαγάγουν τον Συγκεντρωτικό Πίνακα σε υπολογιστικό φύλλο μορφής XLSB σε διαφορετικές εφαρμογές αναφοράς για επεξεργασία δεδομένων σε λίγες μόνο γραμμές κώδικα.
+ Είναι εύκολο για τους προγραμματιστές να εισαγάγουν τον Συγκεντρωτικό Πίνακα σε υπολογιστικό φύλλο μορφής XLSB σε διαφορετικές εφαρμογές αναφοράς για επεξεργασία δεδομένων σε λίγες μόνο γραμμές κώδικα.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -31,7 +30,7 @@ description: C# Δείγμα κώδικα για τη δημιουργία εγ�
 1.  Πρόσβαση στο πρώτο φύλλο εργασίας του βιβλίου εργασίας.
 1.  Λάβετε τα επιθυμητά κελιά του φύλλου εργασίας και τοποθετήστε την τιμή στα κελιά.
 1.  Εισαγάγετε τον Συγκεντρωτικό Πίνακα και ορίστε το στυλ
-1. Χρησιμοποιήστε τη μέθοδο Save για να αποθηκεύσετε το βιβλίο εργασίας ως αρχείο XLSB.
+1.  Χρησιμοποιήστε τη μέθοδο Save για να αποθηκεύσετε το βιβλίο εργασίας ως αρχείο XLSB.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -39,7 +38,7 @@ description: C# Δείγμα κώδικα για τη δημιουργία εγ�
 
 {{% blocks/products/pf/agp/text %}}
 
- Απλώς βεβαιωθείτε ότι το σύστημα έχει Microsoft Windows ή ένα συμβατό λειτουργικό σύστημα με .NET Framework, .NET Core, Windows Azure, Mono ή Xamarin πλατφόρμες, καθώς και περιβάλλον ανάπτυξης 80161 Studio3, όπως 80161 Studio6.
+Απλώς βεβαιωθείτε ότι το σύστημα έχει Microsoft Windows ή ένα συμβατό λειτουργικό σύστημα με .NET Framework, .NET Core, Windows Azure, Mono ή Xamarin πλατφόρμες, καθώς και περιβάλλον ανάπτυξης 80161 Studio3, όπως 80161 Studio6.
 
 {{% /blocks/products/pf/agp/text %}}
 

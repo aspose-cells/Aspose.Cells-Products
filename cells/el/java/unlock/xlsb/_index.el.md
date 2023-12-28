@@ -2,6 +2,7 @@
 title:  Ξεκλείδωμα XLSB έγγραφο via Java
 weight: 5860
 description: Java δείγμα κώδικα για ξεκλείδωμα αρχείου XLSB με προστασία κωδικού πρόσβασης στο Java Περιβάλλον χρόνου εκτέλεσης για εφαρμογές JSP/JSF και εφαρμογές επιφάνειας εργασίας.
+keywords: [Java Aspose.Cells., Java unlock XLSB files., Java how to unlock XLSB document., Java unprotect XLSB files., remove protection from XLSB files., decrypt XLSB Files using Java]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Ξεκλείδωμα XLSB Αρχεία via Java" h2="Καταργήστε την προστασία από υπολογιστικά φύλλα Excel, συμπεριλαμβανομένου του αρχείου XLSB χρησιμοποιώντας τη Βιβλιοθήκη Java." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSB" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSB" >}}
@@ -73,7 +74,7 @@ description: Java δείγμα κώδικα για ξεκλείδωμα αρχε
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Ξεκλειδώστε τα αρχεία XLSB μέσω του C#" offSpacer="" %}}
+{{% blocks/products/pf/agp/code-block title="Ξεκλείδωμα XLSB Αρχεία via Java" offSpacer="" %}}
 
 ```cs
 

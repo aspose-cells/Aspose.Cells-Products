@@ -1,8 +1,8 @@
 ---
 title: Συγχώνευση IMAGE στο EMF - Συνδυάστε το IMAGE στο EMF στο C++
 url: /el/cpp/merger/merge-image-to-emf/ 
-description: Aspose Excel. C++ Aspose.Cells. Δωρεάν Online Συγχώνευση IMAGE σε EMF saveformat. C++ Συνδυάστε το IMAGE σε μορφή EMF. Συγχώνευση IMAGE στο EMF στο C++. IMAGE Συγχώνευση.
-keywords: [Aspose Excel., C++ Aspose.Cells., Merge IMAGE to EMF in C++., Free Online C++ Merge IMAGE to emf., C++ Combine IMAGE to EMF Online for Free., IMAGE Merge]
+description: Aspose Excel. C++ Aspose.Cells. Συγχώνευση IMAGE σε μορφή αποθήκευσης EMF. C++ Συνδυάστε το IMAGE σε μορφή EMF. Συγχώνευση IMAGE στο EMF στο C++. IMAGE Συγχώνευση.
+keywords: [Aspose Excel., C++ Aspose.Cells., Merge IMAGE to EMF in C++., C++ Merge IMAGE to emf., C++ Combine IMAGE to EMF., IMAGE Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Συγχώνευση IMAGE στο EMF μέσω C++" h2="Βιβλιοθήκη υψηλής ταχύτητας C++ για συγχώνευση IMAGE με EMF. Χρησιμοποιήστε τη μετατροπή excel API για να αναπτύξετε λογισμικό υψηλού επιπέδου, ανεξάρτητο από πλατφόρμα στο C++. Αυτή είναι μια επαγγελματική λύση λογισμικού για εισαγωγή και εξαγωγή πολλών άλλων μορφών excel, Excel, CSV, OpenOffice, PDF, HTML, image." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" sourceAdditionalConversionTag="IMAGE" additionalConversionTag="EMF" pfName="Aspose.Cells" subTitlepfName="for C++" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., C++ Aspose.Cells., Merge IMAGE to EMF in C++., Free On
 
 {{% blocks/products/pf/agp/content h2="Συγχώνευση IMAGE στο EMF χρησιμοποιώντας C++" %}}
 
- Πώς μπορώ να συγχωνεύσω το IMAGE με το EMF; Με τη βιβλιοθήκη Aspose.Cells for C++, μπορείτε εύκολα να συγχωνεύσετε το IMAGE στο EMF μέσω προγραμματισμού με λίγες γραμμές κώδικα.[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) έχει τη δυνατότητα δημιουργίας εφαρμογών πολλαπλών πλατφορμών με δυνατότητα δημιουργίας, τροποποίησης, μετατροπής, απόδοσης και εκτύπωσης όλων των αρχείων Excel. C++ Το Excel API όχι μόνο μετατρέπει μεταξύ μορφών υπολογιστικών φύλλων, αλλά μπορεί επίσης να αποδώσει αρχεία Excel ως εικόνες, PDF, HTML, ODS, CSV, 07616031481, CSV, 07616831481, δημιουργώντας περισσότερα τέλεια επιλογή για την ανταλλαγή εγγράφων σε βιομηχανικά πρότυπα μορφές. Μπορείτε να κατεβάσετε την τελευταία του έκδοση απευθείας, απλά ανοίξτε[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) διαχειριστής πακέτων, αναζητήστε Aspose.Cells.Cpp και εγκαταστήστε. Μπορείτε επίσης να χρησιμοποιήσετε την ακόλουθη εντολή από την Κονσόλα Package Manager.
+ Πώς μπορώ να συγχωνεύσω το IMAGE με το EMF; Με τη βιβλιοθήκη Aspose.Cells for C++, μπορείτε εύκολα να συγχωνεύσετε το IMAGE στο EMF μέσω προγραμματισμού με λίγες γραμμές κώδικα.[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) έχει τη δυνατότητα δημιουργίας εφαρμογών πολλαπλών πλατφορμών με δυνατότητα δημιουργίας, τροποποίησης, μετατροπής, απόδοσης και εκτύπωσης όλων των αρχείων Excel. C++ Το Excel API όχι μόνο μετατρέπει μεταξύ μορφών υπολογιστικών φύλλων, αλλά μπορεί επίσης να αποδώσει αρχεία Excel ως εικόνες, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT και άλλα, καθιστώντας έτσι την τέλεια επιλογή για την ανταλλαγή εγγράφων σε βιομηχανικές τυποποιημένες μορφές. Μπορείτε να κατεβάσετε την τελευταία του έκδοση απευθείας, απλά ανοίξτε[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) διαχειριστής πακέτων, αναζητήστε Aspose.Cells.Cpp και εγκαταστήστε. Μπορείτε επίσης να χρησιμοποιήσετε την ακόλουθη εντολή από την Κονσόλα Package Manager.
 
 {{% blocks/products/pf/agp/code-block title="Εντολή" offSpacer="true" %}}
 
@@ -26,7 +26,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Συγχώνευση IMAGE στο EMF στο C++ Δωρεάν Online" %}}
+{{% blocks/products/pf/agp/content h2="Συγχώνευση IMAGE στο EMF στο C++" %}}
 
 Το ακόλουθο παράδειγμα δείχνει πώς να συγχωνεύσετε το IMAGE στο EMF στο Aspose.Cells for C++.
 {{% blocks/products/pf/agp/text %}}
@@ -37,13 +37,13 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Δωρεάν online για συγχώνευση IMAGE στο EMF στο C++" InputFormat="png" InputFormat2="emf" outformat="emf" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="cpp" %}}
+{{% cells-merger title="Δείγμα κώδικα για συγχώνευση IMAGE στο EMF στο C++" InputFormat="png" InputFormat2="emf" outformat="emf" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="cpp" %}}
 
 {{% blocks/products/pf/agp/content h2="Πώς να συγχωνεύσετε το IMAGE στο EMF μέσω του C++" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- Θέλετε να συγχωνεύσετε το IMAGE στο EMF μέσω προγραμματισμού; Ένα βασικό έγγραφο που συγχωνεύεται και συνενώνεται με[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) Τα API μπορούν να γίνουν με λίγες μόνο γραμμές κώδικα.
+Θέλετε να συγχωνεύσετε το IMAGE στο EMF μέσω προγραμματισμού; Ένα βασικό έγγραφο που συγχωνεύεται και συνενώνεται με[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) Τα API μπορούν να γίνουν με λίγες μόνο γραμμές κώδικα.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -107,7 +107,6 @@ PM> Install-Package Aspose.Cells.Cpp
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-image-to-pdf/" name="Συγχώνευση IMAGE στο PDF" description="Μορφή φορητού εγγράφου" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-image-to-png/" name="Συγχώνευση IMAGE στο PNG" description="Φορητά γραφικά δικτύου" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-image-to-svg/" name="Συγχώνευση IMAGE στο SVG" description="Κλιμακόμενα διανυσματικά γραφικά" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-image-to-tiff/" name="Συγχώνευση IMAGE στο TIFF" description="Με ετικέτα Μορφή εικόνας" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-image-to-tsv/" name="Συγχώνευση IMAGE στο TSV" description="Τιμές διαχωρισμένες με καρτέλες" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-image-to-txt/" name="Συγχώνευση IMAGE στο TXT" description="Έγγραφο κειμένου" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-image-to-xls/" name="Συγχώνευση IMAGE στο XLS" description="Δυαδική μορφή Excel" >}}

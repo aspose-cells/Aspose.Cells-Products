@@ -1,8 +1,8 @@
 ---
 title: Συγχώνευση του EXCEL στο JSON - Συνδυάστε το EXCEL στο JSON στο Python
 url: /el/python-java/merger/merge-excel-to-json/ 
-description: Aspose Excel. Python Aspose.Cells. Δωρεάν Online Συγχώνευση EXCEL σε JSON saveformat. Python Συνδυάστε τη μορφή EXCEL σε JSON. Συγχώνευση του EXCEL στο JSON στο Python. Συγχώνευση EXCEL.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge EXCEL to JSON in Python., Free Online Python Merge EXCEL to json., Python Combine EXCEL to JSON Online for Free., EXCEL Merge]
+description: Aspose Excel. Python Aspose.Cells. Συγχώνευση του EXCEL σε JSON saveformat. Python Συνδυάστε τη μορφή EXCEL σε JSON. Συγχώνευση του EXCEL στο JSON στο Python. Συγχώνευση EXCEL.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge EXCEL to JSON in Python., Python Merge EXCEL to json., Python Combine EXCEL to JSON., EXCEL Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Συγχώνευση του EXCEL στο JSON μέσω του Python" h2="Βιβλιοθήκη υψηλής ταχύτητας Python για συγχώνευση του EXCEL στο JSON. Χρησιμοποιήστε τη μετατροπή excel API για να αναπτύξετε λογισμικό υψηλού επιπέδου, ανεξάρτητο από πλατφόρμα στο Python. Αυτή είναι μια επαγγελματική λύση λογισμικού για εισαγωγή και εξαγωγή πολλών άλλων μορφών excel, Excel, CSV, OpenOffice, PDF, HTML, image." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="EXCEL" additionalConversionTag="JSON" pfName="Aspose.Cells" subTitlepfName="for Python" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -12,12 +12,12 @@ keywords: [Aspose Excel., Python Aspose.Cells., Merge EXCEL to JSON in Python., 
 
 {{% blocks/products/pf/agp/content h2="Συγχώνευση του EXCEL στο JSON χρησιμοποιώντας το Python" %}}
 
- Πώς μπορώ να συγχωνεύσω το EXCEL στο JSON; Με τη βιβλιοθήκη Aspose.Cells for Python via Java, μπορείτε εύκολα να συγχωνεύσετε το EXCEL στο JSON μέσω προγραμματισμού με λίγες γραμμές κώδικα.[Aspose.Cells for Python via Java](https://pypi.org/project/aspose-cells)έχει τη δυνατότητα δημιουργίας εφαρμογών πολλαπλών πλατφορμών με δυνατότητα δημιουργίας, τροποποίησης, μετατροπής, απόδοσης και εκτύπωσης όλων των αρχείων Excel. Python Το Excel API όχι μόνο μετατρέπει μεταξύ μορφών υπολογιστικών φύλλων, αλλά μπορεί επίσης να αποδώσει αρχεία Excel ως εικόνες, PDF, HTML, ODS, CSV, 07616031481, CSV, 07616831481, δημιουργώντας περισσότερα τέλεια επιλογή για την ανταλλαγή εγγράφων σε βιομηχανικά πρότυπα μορφές. Μπορείτε να εγκαταστήσετε το Aspose.Cells for Python via Java από<a href="https://pypi.org/project/aspose-cells/">pypi</a> , χρησιμοποιήστε την εντολή ως:<code>$ pip install aspose-cells</code>.
+ Πώς μπορώ να συγχωνεύσω το EXCEL στο JSON; Με τη βιβλιοθήκη Aspose.Cells for Python via Java, μπορείτε εύκολα να συγχωνεύσετε το EXCEL στο JSON μέσω προγραμματισμού με λίγες γραμμές κώδικα.[Aspose.Cells for Python via Java](https://pypi.org/project/aspose-cells) έχει τη δυνατότητα δημιουργίας εφαρμογών πολλαπλών πλατφορμών με δυνατότητα δημιουργίας, τροποποίησης, μετατροπής, απόδοσης και εκτύπωσης όλων των αρχείων Excel. Python Το Excel API όχι μόνο μετατρέπει μεταξύ μορφών υπολογιστικών φύλλων, αλλά μπορεί επίσης να αποδώσει αρχεία Excel ως εικόνες, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT και άλλα, καθιστώντας έτσι την τέλεια επιλογή για την ανταλλαγή εγγράφων σε βιομηχανικές τυποποιημένες μορφές. Μπορείτε να εγκαταστήσετε το Aspose.Cells for Python via Java από<a href="https://pypi.org/project/aspose-cells/">pypi</a> , χρησιμοποιήστε την εντολή ως:<code>$ pip install aspose-cells</code>.
 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Συγχωνεύστε το EXCEL στο JSON στο Python Δωρεάν Online" %}}
+{{% blocks/products/pf/agp/content h2="Συγχώνευση του EXCEL στο JSON στο Python" %}}
 
 Το ακόλουθο παράδειγμα δείχνει πώς να συγχωνεύσετε το EXCEL στο JSON στο Aspose.Cells for Python via Java.
 {{% blocks/products/pf/agp/text %}}
@@ -28,7 +28,7 @@ keywords: [Aspose Excel., Python Aspose.Cells., Merge EXCEL to JSON in Python., 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Δωρεάν online για συγχώνευση του EXCEL στο JSON στο Python" InputFormat="xlsx" InputFormat2="json" outformat="json" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-merger title="Δείγμα κώδικα για συγχώνευση του EXCEL στο JSON στο Python" InputFormat="xlsx" InputFormat2="json" outformat="json" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="Πώς να συγχωνεύσετε το EXCEL στο JSON μέσω του Python" %}}
 
@@ -73,7 +73,7 @@ keywords: [Aspose Excel., Python Aspose.Cells., Merge EXCEL to JSON in Python., 
 
 -  Εγκαταστήστε το Java 1.8 ή μεταγενέστερο και προσθέστε το στη μεταβλητή περιβάλλοντος PATH, για παράδειγμα:<code>PATH=C:\Program Files\Java\jdk1.8.0_131;</code>.
 -  Εγκαθιστώ[Python](https://www.python.org/downloads/) 3,5 ή υψηλότερο.
-- Εγκαταστήστε το Aspose.Cells for Python από<a href="https://pypi.org/project/aspose-cells/">pypi</a> , χρησιμοποιήστε την εντολή ως:<code>$ pip install aspose-cells</code>.
+-  Εγκαταστήστε το Aspose.Cells for Python από<a href="https://pypi.org/project/aspose-cells/">pypi</a> , χρησιμοποιήστε την εντολή ως:<code>$ pip install aspose-cells</code>.
 
 
 {{% /blocks/products/pf/agp/content %}}

@@ -2,6 +2,7 @@
 title:  Προβολή ή επεξεργασία XLSM Files Metadata via .NET
 weight: 5590
 description: C# πηγαίος κώδικας για επεξεργασία ή προβολή μεταδεδομένων μορφής XLSM στις πλατφόρμες .NET Framework, .NET Core, Mono ή Xamarin Platforms.
+keywords: [C# Aspose.Cells., c# view xlsm metadata., c# add xlsm metadata., c# insert xlsm metadata., c# edit xlsm metadata., c# remove xlsm metadata., c# extract xlsm metadata., c# modify xlsm metadata]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Απόσπασμα XLSM Μεταδεδομένα via .NET" h2="Δημιουργήστε τις δικές σας εφαρμογές .NET για να προσθέσετε, να επεξεργαστείτε, να αφαιρέσετε ή να εξαγάγετε μεταδεδομένα από αρχεία XLSM χρησιμοποιώντας API από την πλευρά του διακομιστή." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSM" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="PPTX" fileiconsmall2="DOCX" fileiconsmall3="XLSX" fileiconsmall4="PDF" fileiconsmall5=" ODP " >}}

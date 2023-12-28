@@ -2,6 +2,7 @@
 title:  Προστατέψτε και κλειδώστε το έγγραφο XLSB μέσω του C++
 weight: 4860
 description: C++ παράδειγμα κώδικα για το κλείδωμα του αρχείου XLSB με χρήση κωδικού πρόσβασης στο C++ Runtime Environment για Windows 32 bit, Windows 64 bit και Linux 64 bit.
+keywords: [C++ Aspose.Cells., C++ Lock XLSB files., C++ How to Protect and lock XLSB document., C++ Protect XLSB files., Encrypt XLSB Files using C++]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Κρυπτογράφηση XLSB Αρχείων μέσω C++" h2="Προστατέψτε με κωδικό πρόσβασης υπολογιστικά φύλλα Excel, συμπεριλαμβανομένης της μορφής XLSB, χρησιμοποιώντας τη Βιβλιοθήκη .NET." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSB" pfName="Aspose.Cells" subTitlepfName="for C++" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSB" >}}
@@ -41,7 +42,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/text %}}
 
-1.  Φορτώστε το αρχείο XLSB χρησιμοποιώντας την τάξη IWorkbook
+1.  Φορτώστε το αρχείο XLSB χρησιμοποιώντας την κλάση Βιβλίο εργασίας
 1.  Χρησιμοποιήστε τη μέθοδο Protect(..) με ProtectionType και Password
 1.  Αποθηκεύστε το προστατευμένο αρχείο XLSB με τη μέθοδο Save().
 
@@ -64,20 +65,24 @@ PM> Install-Package Aspose.Cells.Cpp
 
 ```cs
 
-// Source path.
-StringPtr srcDir = new String("SourcePath\");
+Aspose::Cells::Startup();
 
-// Output path.
-StringPtr outDir = new String("OutputPath\");
+// load the ODS Excel file 
+Workbook book(u"unlocked.xlsb");
 
-// Load XLSB file
-intrusive_ptr<IWorkbook> workbook = Factory::CreateIWorkbook(srcDir->StringAppend(new String("sourceFile.xlsb")));
+// access the first worksheet
+Worksheet worksheet = book.GetWorksheets().Get(0);
 
-// Protect workbook by specifying protection type
-workbook->Protect(ProtectionType::ProtectionType_All, new String("12345"));
+// protect the worksheet with password
+worksheet.Protect(ProtectionType::All, u"password", nullptr);
 
-// Save the XLSB file
-workbook->Save(outDir->StringAppend(new String("output.xlsb")));
+// protect the whole workbook with password
+book.Protect(ProtectionType::All, u"password");
+
+// save the modified file in default format
+book.Save(u"protected.xlsb");
+
+Aspose::Cells::Cleanup();
 
 ```
 

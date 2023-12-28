@@ -1,8 +1,8 @@
 ---
 title: Συγχώνευση NUMBERS στο DIF - Συνδυάστε NUMBERS στο DIF στο C#
 url: /el/net/merger/merge-numbers-to-dif/ 
-description: Aspose Excel. C# Aspose.Cells. Δωρεάν Online Merge NUMBERS to DIF saveformat. C# Συνδυάστε τα NUMBERS σε μορφή DIF. Συγχώνευση NUMBERS στο DIF στο C#. NUMBERS Συγχώνευση.
-keywords: [Aspose Excel., C# Aspose.Cells., Merge NUMBERS to DIF in C#., Free Online C# Merge NUMBERS to dif., C# Combine NUMBERS to DIF Online for Free., NUMBERS Merge]
+description: Aspose Excel. C# Aspose.Cells. Συγχώνευση NUMBERS σε μορφή αποθήκευσης DIF. C# Συνδυάστε τα NUMBERS σε μορφή DIF. Συγχώνευση NUMBERS στο DIF στο C#. NUMBERS Συγχώνευση.
+keywords: [Aspose Excel., C# Aspose.Cells., Merge NUMBERS to DIF in C#., C# Merge NUMBERS to dif., C# Combine NUMBERS to DIF., NUMBERS Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Συγχώνευση NUMBERS στο DIF μέσω C#" h2="Βιβλιοθήκη υψηλής ταχύτητας C# για συγχώνευση NUMBERS στο DIF. Χρησιμοποιήστε τη μετατροπή excel API για να αναπτύξετε λογισμικό υψηλού επιπέδου, ανεξάρτητο από πλατφόρμα στο C#. Αυτή είναι μια επαγγελματική λύση λογισμικού για εισαγωγή και εξαγωγή πολλών άλλων μορφών excel, Excel, CSV, OpenOffice, PDF, HTML, image." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="NUMBERS" additionalConversionTag="DIF" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., C# Aspose.Cells., Merge NUMBERS to DIF in C#., Free On
 
 {{% blocks/products/pf/agp/content h2="Συγχώνευση NUMBERS στο DIF χρησιμοποιώντας C#" %}}
 
- Πώς μπορώ να συγχωνεύσω τα NUMBERS στο DIF; Με τη βιβλιοθήκη Aspose.Cells for .NET, μπορείτε εύκολα να συγχωνεύσετε NUMBERS στο DIF μέσω προγραμματισμού με λίγες γραμμές κώδικα.[Aspose.Cells for .NET](https://products.aspose.com/cells/net)έχει τη δυνατότητα δημιουργίας εφαρμογών πολλαπλών πλατφορμών με δυνατότητα δημιουργίας, τροποποίησης, μετατροπής, απόδοσης και εκτύπωσης όλων των αρχείων Excel. .NET Το Excel API όχι μόνο μετατρέπει μεταξύ μορφών υπολογιστικών φύλλων, αλλά μπορεί επίσης να αποδώσει αρχεία Excel ως εικόνες, PDF, HTML, ODS, CSV, 07616031481, CSV, 07616831481, δημιουργώντας περισσότερα τέλεια επιλογή για την ανταλλαγή εγγράφων σε βιομηχανικά πρότυπα μορφές. Ανοιξε[NuGet](https://www.nuget.org/packages/aspose.cells) διαχειριστής πακέτων, αναζητήστε Aspose.Cells και εγκαταστήστε. Μπορείτε επίσης να χρησιμοποιήσετε την ακόλουθη εντολή από την Κονσόλα Package Manager.
+ Πώς μπορώ να συγχωνεύσω τα NUMBERS στο DIF; Με τη βιβλιοθήκη Aspose.Cells for .NET, μπορείτε εύκολα να συγχωνεύσετε NUMBERS στο DIF μέσω προγραμματισμού με λίγες γραμμές κώδικα.[Aspose.Cells for .NET](https://products.aspose.com/cells/net)έχει τη δυνατότητα δημιουργίας εφαρμογών πολλαπλών πλατφορμών με δυνατότητα δημιουργίας, τροποποίησης, μετατροπής, απόδοσης και εκτύπωσης όλων των αρχείων Excel. .NET Το Excel API όχι μόνο μετατρέπει μεταξύ μορφών υπολογιστικών φύλλων, αλλά μπορεί επίσης να αποδώσει αρχεία Excel ως εικόνες, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT και άλλα, καθιστώντας έτσι την τέλεια επιλογή για την ανταλλαγή εγγράφων σε βιομηχανικές τυποποιημένες μορφές. Ανοιξε[NuGet](https://www.nuget.org/packages/aspose.cells) διαχειριστής πακέτων, αναζητήστε Aspose.Cells και εγκαταστήστε. Μπορείτε επίσης να χρησιμοποιήσετε την ακόλουθη εντολή από την Κονσόλα Package Manager.
 
 {{% blocks/products/pf/agp/code-block title="Εντολή κονσόλας διαχείρισης πακέτων" offSpacer="true" %}}
 
@@ -26,7 +26,7 @@ PM> Install-Package Aspose.Cells
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Συγχώνευση NUMBERS στο DIF στο C# Δωρεάν Online" %}}
+{{% blocks/products/pf/agp/content h2="Συγχώνευση NUMBERS στο DIF στο C#" %}}
 
 Το ακόλουθο παράδειγμα δείχνει πώς να συγχωνεύσετε τους αριθμούς με το DIF στο Aspose.Cells for .NET.
 {{% blocks/products/pf/agp/text %}}
@@ -37,7 +37,7 @@ PM> Install-Package Aspose.Cells
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Δωρεάν online για συγχώνευση NUMBERS στο DIF στο C#" InputFormat="numbers" InputFormat2="dif" outformat="dif" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="net" %}}
+{{% cells-merger title="Δείγμα κώδικα για συγχώνευση αριθμών σε DIF στο C#" InputFormat="numbers" InputFormat2="dif" outformat="dif" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="net" %}}
 
 {{% blocks/products/pf/agp/content h2="Πώς να συγχωνεύσετε τους αριθμούς στο DIF μέσω του C#" %}}
 
@@ -87,7 +87,7 @@ PM> Install-Package Aspose.Cells
 
 <!-- aboutfile Starts -->
     {{< blocks/products/pf/agp/about-file-section >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="NUMBERS" readMoreLink="https://docs.fileformat.com/spreadsheet/numbers/" >}}Τα αρχεία με επέκταση .numbers ταξινομούνται ως τύπος αρχείου υπολογιστικού φύλλου, γι' αυτό είναι παρόμοια με τα αρχεία .xlsx. αλλά τα αρχεία Numbers δημιουργούνται χρησιμοποιώντας το λογισμικό υπολογιστικών φύλλων Apple iWork Numbers. Το Apple iWork Numbers είναι ένα λογισμικό μονάδας του iWork Productivity Suite. Το iWork Productivity Suite είναι ισοδύναμο με το Microsoft Office Suite που χρησιμοποιείται σε υπολογιστές Windows. Ως εκ τούτου, μπορούμε να πούμε ότι το Numbers που είναι διαθέσιμο για MacOS είναι επίσης ανταγωνιστής του Microsoft Excel. Ομοίως, Microsoft Excel, το αρχείο NUMBERS μπορεί επίσης να περιέχει πίνακες, γραφήματα και τύπους.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="NUMBERS" readMoreLink="https://docs.fileformat.com/spreadsheet/numbers/" >}} Τα αρχεία με επέκταση .numbers ταξινομούνται ως τύπος αρχείου υπολογιστικού φύλλου, γι' αυτό είναι παρόμοια με τα αρχεία .xlsx. αλλά τα αρχεία Numbers δημιουργούνται χρησιμοποιώντας το λογισμικό υπολογιστικών φύλλων Apple iWork Numbers. Το Apple iWork Numbers είναι ένα λογισμικό μονάδας του iWork Productivity Suite. Το iWork Productivity Suite είναι ισοδύναμο με το Microsoft Office Suite που χρησιμοποιείται σε υπολογιστές Windows. Ως εκ τούτου, μπορούμε να πούμε ότι το Numbers που είναι διαθέσιμο για MacOS είναι επίσης ανταγωνιστής του Microsoft Excel. Ομοίως, Microsoft Excel, το αρχείο NUMBERS μπορεί επίσης να περιέχει πίνακες, γραφήματα και τύπους.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="DIF" readMoreLink="https://docs.fileformat.com/spreadsheet/dif/" >}}Το DIF σημαίνει Μορφή ανταλλαγής δεδομένων που χρησιμοποιείται για την εισαγωγή/εξαγωγή δεδομένων υπολογιστικών φύλλων μεταξύ διαφορετικών εφαρμογών. Αυτά περιλαμβάνουν Microsoft Excel, OpenOffice Calc, StarCalc και πολλά άλλα. Αποθηκεύει δεδομένα που περιέχονται σε ένα μόνο υπολογιστικό φύλλο που είναι ο μόνος περιορισμός αυτής της μορφής αρχείου.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
     {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->

@@ -1,7 +1,8 @@
 ---
 title:  Infoga pivottabell i Micorsoft Excel XLSB-filer via C#
 weight: 7690
-description: C# Exempelkod för att generera XLSB dokument med pivottabell. Använd den här koden för att skapa Micorsoft Excel XLSB-filer med pivottabell i VB.NET, Asp.NET eller någon .NET-baserad applikation.
+description: C# Exempelkod för att lägga till pivottabell till XLSB med .NET bibliotek. Använd den här koden för att infoga pivottabell till XLSB-filen i VB.NET, Asp.NET eller någon .NET-baserad applikation.
+keywords: [C# Aspose.Cells., c# add PivotTable in xlsb., c# insert PivotTable in xlsb., c# create PivotTable in xlsb., c# modify PivotTable in xlsb., access PivotTable in xlsb., c# add pivot table in xlsb., c# insert pivot table in xlsb., c# create pivot table in xlsb., c# modify pivot table in xlsb., access pivot table in xlsb]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Infoga pivottabell i XLSB Dokument via C#" h2="Inbyggt och högpresterande Microsoft Excel XLSB kalkylblad med pivottabell skapad programmatiskt med hjälp av serversidan .NET API:er." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSB" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSB" >}}
@@ -11,9 +12,7 @@ description: C# Exempelkod för att generera XLSB dokument med pivottabell. Anv�
 
 {{% blocks/products/pf/agp/content h2="" %}}
 
- Det är enkelt att generera MS Excel XLSB-filen med pivottabell dynamiskt i ett program som körs. För att skapa XLSB-dokument med PivotTable från början utan att behöva MS Office, använder vi
- [Aspose.Cells for .NET](https://products.aspose.com/cells/net) 
- API som erbjuder olika funktioner för att skapa, manipulera och konvertera kalkylark med .NET-plattformen. Utvecklare kan enkelt förbättra kod för att skriva data, generera diagram eller grafer samt skapa tabeller i kalkylblad.
+ Det är enkelt att generera MS Excel XLSB-filen med pivottabell dynamiskt i ett program som körs. För att skapa XLSB-dokument med PivotTable från början utan att behöva MS Office, använder vi[Aspose.Cells for .NET](https://products.aspose.com/cells/net) API som erbjuder olika funktioner för att skapa, manipulera och konvertera kalkylark med .NET-plattformen. Utvecklare kan enkelt förbättra kod för att skriva data, generera diagram eller grafer samt skapa tabeller i kalkylblad.
 {{% /blocks/products/pf/agp/content %}}
 
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
@@ -22,7 +21,7 @@ description: C# Exempelkod för att generera XLSB dokument med pivottabell. Anv�
 
 {{% blocks/products/pf/agp/text %}}
 
-Det är lätt för utvecklarna att infoga PivotTable i XLSB-format kalkylblad inom körning av olika rapporteringsapplikationer för databehandling på bara några rader kod.
+ Det är lätt för utvecklarna att infoga PivotTable i XLSB-format kalkylblad inom körning av olika rapporteringsapplikationer för databehandling på bara några rader kod.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -31,7 +30,7 @@ Det är lätt för utvecklarna att infoga PivotTable i XLSB-format kalkylblad in
 1.  Öppna det första kalkylbladet i arbetsboken.
 1.  Hämta önskad cell(er) i kalkylbladet och lägg värdet i cellen(erna).
 1.  Infoga pivottabell och ställ in stilen
-1. Använd metoden Spara för att spara arbetsboken som XLSB-fil.
+1.  Använd metoden Spara för att spara arbetsboken som XLSB-fil.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -39,7 +38,7 @@ Det är lätt för utvecklarna att infoga PivotTable i XLSB-format kalkylblad in
 
 {{% blocks/products/pf/agp/text %}}
 
- Se bara till att systemet har Microsoft Windows eller ett kompatibelt operativsystem med .NET Framework, .NET Core, Windows Azure, Mono eller Xamarin-plattformar samt utvecklingsmiljö som 4076163 som 4076163.
+Se bara till att systemet har Microsoft Windows eller ett kompatibelt operativsystem med .NET Framework, .NET Core, Windows Azure, Mono eller Xamarin-plattformar samt utvecklingsmiljö som 4076163 som 4076163.
 
 {{% /blocks/products/pf/agp/text %}}
 

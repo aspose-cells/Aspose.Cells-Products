@@ -1,7 +1,7 @@
 ---
-title: Python XLS till SQL - Online XLS till SQL Converter
-description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Gratis Online Python Konvertera XLS till SQL saveformat. Python XLS till SQL-format. Spara XLS till SQL Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python XLS to SQL saveformat., Free Online XLS to SQL Python., Python Convert XLS to SQL]
+title: Python XLS till SQL - XLS till SQL Converter
+description: Aspose Excel. Konvertera XLS till SQL snabbt och enkelt med Aspose.Cells. Python XLS till SQL. Python Spara XLS till SQL. Spara XLS som SQL med Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Convert XLS to SQL in Python., Save XLS to SQL using Python., Python XLS to SQL saveformat., XLS to SQL Converter., Python Save XLS as SQL]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Konvertera XLS till SQL i Python" h2="Höghastighets Python-bibliotek för att konvertera XLS till SQL. Detta är en professionell mjukvarulösning för att importera och exportera XLS, SQL och många andra format med Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="SQL" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,11 +12,11 @@ keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python XLS
 
 {{% blocks/products/pf/agp/content h2="Konvertera XLS till SQL med Python" %}}
 
- Hur konverterar jag XLS till SQL? Med Aspose.Cells for Python bibliotek kan du enkelt konvertera XLS till SQL programmatiskt med några rader kod.[Aspose.Cells for Python](https://pypi.org/project/aspose-cells)kan bygga plattformsoberoende applikationer med förmågan att generera, modifiera, konvertera, rendera och skriva ut alla Excel-filer. Python Excel API konverterar inte bara mellan kalkylarksformat, det kan också rendera Excel-filer som bilder, PDF, HTML, ODS, ODS, CSV, 0761687481, 0761687481, vilket gör det till ett perfekt val, Pt utbyta dokument i branschstandard format.
+ Hur konverterar jag XLS till SQL? Med Aspose.Cells for Python bibliotek kan du enkelt konvertera XLS till SQL programmatiskt med några rader kod.[Aspose.Cells for Python](https://pypi.org/project/aspose-cells)kan bygga plattformsoberoende applikationer med förmågan att generera, modifiera, konvertera, rendera och skriva ut alla Excel-filer. Python Excel API konverterar inte bara mellan kalkylarksformat, den kan också rendera Excel-filer som bilder, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT och mer, vilket gör det till ett perfekt val att utbyta dokument i industristandardformat.
  
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Spara XLS till SQL i Python online gratis" %}}
+{{% blocks/products/pf/agp/content h2="Spara XLS till SQL i Python" %}}
 
 Följande exempel visar hur man konverterar XLS till SQL i Python.
 {{% blocks/products/pf/agp/text %}}
@@ -27,7 +27,7 @@ Följ de enkla stegen för att konvertera XLS till SQL. Ladda upp din XLS-fil oc
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Gratis app och exempelkod för att konvertera XLS till SQL Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xls" outformat="sql" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="Exempelkod för att konvertera XLS till SQL" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xls" outformat="sql" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="Hur man konverterar XLS till SQL via Python" %}}
 
@@ -63,12 +63,12 @@ Det finns tre alternativ för att installera "Aspose.Cells for Python via Java" 
 
 {{% blocks/products/pf/agp/text %}}
 
-Aspose.Cells for Python via Java är plattformsoberoende API och kan användas på vilken plattform som helst (Windows, Linux och MacOS), se bara till att systemet har Java 1.8 eller högre,[Python](https://www.python.org/downloads/) 3,5 eller högre.
+ Aspose.Cells for Python via Java är plattformsoberoende API och kan användas på vilken plattform som helst (Windows, Linux och MacOS), se bara till att systemet har Java 1.8 eller högre,[Python](https://www.python.org/downloads/) 3,5 eller högre.
  
 {{% /blocks/products/pf/agp/text %}}
 
 -  Installera Java och lägg till den i PATH miljövariabel, till exempel:<code>PATH=C:\Program Files\Java\jdk1.8.0_131;</code>.
-- Installera Aspose.Cells for Python från<a href="https://pypi.org/project/aspose-cells/">pypi</a> , använd kommandot som:<code>$ pip install aspose-cells</code>.
+-  Installera Aspose.Cells for Python från<a href="https://pypi.org/project/aspose-cells/">pypi</a> , använd kommandot som:<code>$ pip install aspose-cells</code>.
 
 {{% /blocks/products/pf/agp/content %}}
 

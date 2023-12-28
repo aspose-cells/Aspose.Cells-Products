@@ -1,7 +1,8 @@
 ---
-title:  Vattenstämpel XLS dokument via .NET
+title: Vattenstämpel XLS dokument via .NET
 weight: 3050
 description: C# källkod för att lägga till eller ta bort vattenstämpel i filen XLS på .NET Framework, .NET Core, Mono eller Xamarin Platforms.
+keywords: [C# Aspose.Cells., C# add watermark to xls file., C# insert watermark to xls file., C# create watermark in xls file., remove watermark from xls file using C#., C# operate watermark in xls file., C# access watermark in xls file]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Lägg till textvattenstämpel till XLS via C#" h2="Bygg dina egna .NET-appar för att vattenstämpla XLS-filer med hjälp av API:er på serversidan." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLS" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="PPTX" fileiconsmall2="DOCX" fileiconsmall3="XLSX" fileiconsmall4="PDF" fileiconsmall5=" ODP " >}}

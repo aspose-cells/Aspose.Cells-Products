@@ -1,7 +1,8 @@
 ---
 title:  Infoga bildtexter i Excel via .NET
 weight: 360
-description: C# källkod för att infoga bildtexter i Excel på .NET Framework, .NET Core, Mono eller Xamarin-plattformar.
+description: C# Exempelkod för att lägga till eller infoga bildtexter i Excel med .NET Library. Använd den här koden för att skapa bildtexter i MS Excel i VB.NET, Asp.NET eller någon .NET-baserad applikation.
+keywords: [C# Aspose.Cells., c# add Callouts shape., c# insert Callouts shape., c# create Callouts shape]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Infoga bildtexter i Excel via .NET" h2="Infoga bildtexter med Aspose.Cells\' API utan någon programvara som Microsoft eller Open Office, Adobe PDF, etc." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="XLSX" >}}
@@ -41,9 +42,9 @@ Du behöver aspose.cells.dll för att prova följande arbetsflöde i din egen mi
 
 {{% /blocks/products/pf/agp/text %}}
 
-Instantiera ett arbetsboksobjekt.(eller->Läs in XLSX-filen med fullständig sökväg.)
++ Instantiera ett arbetsboksobjekt.(eller->Läs in XLSX-filen med fullständig sökväg.)
 + Välj kalkylblad via dess index.
- + Använd[lägga till metod](https://reference.aspose.com/cells/net/aspose.cells.drawing/shapecollection/addautoshape)för att infoga bildtexter i det valda kalkylbladet
+ + Använd[lägga till metod](https://reference.aspose.com/cells/net/aspose.cells.drawing/shapecollection/addautoshape) för att infoga bildtexter i det valda kalkylbladet
 + Spara arbetsboken i XLSX-format.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
@@ -76,7 +77,7 @@ Exempelkoden nedan visar hur man infogar en "Thought Bubble: Cloud". För fler t
  <div class="row">
   <div class="container">
    <h2 class="pr-ft">
-Översikt över bildtexttyper
+ Översikt över bildtexttyper
    </h2>
    <div class="col-lg-4">
     <img src="/cells/net/shapes/insert-callouts-to-excel/speech_bubble_rectangle.png" align="left" width="28" height="28">
@@ -111,7 +112,7 @@ Exempelkoden nedan visar hur man infogar en "Thought Bubble: Cloud". För fler t
    <div class="col-lg-4">
     <img src="/cells/net/shapes/insert-callouts-to-excel/bent_line.png" align="left" width="28" height="28">
     <p class="col-lg-10" style="font-size:0.8rem !important;">
- AutoShapeType.LineCalloutWithBorder2
+AutoShapeType.LineCalloutWithBorder2
     </p>
    </div>
    <div class="col-lg-4">
@@ -171,7 +172,7 @@ Exempelkoden nedan visar hur man infogar en "Thought Bubble: Cloud". För fler t
    <div class="col-lg-4">
     <img src="/cells/net/shapes/insert-callouts-to-excel/double_bent_line_with_border_and_accent_bar.png" align="left" width="28" height="28">
     <p class="col-lg-10" style="font-size:0.8rem !important;">
-AutoShapeType.LineCalloutWithBorderAndAccentBar3
+ AutoShapeType.LineCalloutWithBorderAndAccentBar3
     </p>
    </div>
   </div>
@@ -187,7 +188,7 @@ AutoShapeType.LineCalloutWithBorderAndAccentBar3
 
 {{% blocks/products/pf/agp/content h2="Om Aspose.Cells for .NET API" %}}
 
- Aspose.Cells API kan användas för att skapa, redigera, konvertera och rendera Microsoft Excel-format till olika format. Dessutom kan den användas för omfattande kartläggning, skalbar rapportering och tillförlitliga beräkningar inom mjukvaruapplikationer. Aspose.Cells är en fristående API och den kräver ingen programvara som Microsoft eller OpenOffice.
+Aspose.Cells API kan användas för att skapa, redigera, konvertera och rendera Microsoft Excel-format till olika format. Dessutom kan den användas för omfattande kartläggning, skalbar rapportering och tillförlitliga beräkningar inom mjukvaruapplikationer. Aspose.Cells är en fristående API och den kräver ingen programvara som Microsoft eller OpenOffice.
 
 {{% /blocks/products/pf/agp/content %}}
 

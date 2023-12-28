@@ -31,7 +31,7 @@ description: Android-kalkylbladsbibliotek för att skapa läs-skriv- och tolka E
    </header>
    <ul>
     <li>
- Arrayer
+ Matriser
     </li>
     <li>
  Resultatet satt

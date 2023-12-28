@@ -1,6 +1,7 @@
 ---
 title:  Infoga former i Excel med Python via .Net
 description:  Python via .Net-källkoder som sätter in en form i Microsoft Excel-filer med Python via .Net Library.
+keywords: [Python Aspose.Cells., Python add shapes., Python insert shapes., Python create shapes]
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
 {{< blocks/products/pf/i18n/feature-page-header h1="Microsoft<sup>&reg;</sup> Infogning av Excel-former med Python via .Net" h2="Skapa Excel-dokument och infoga former med hjälp av API:er på serversidan i Python via nätbaserade applikationer." >}}
@@ -12,7 +13,7 @@ description:  Python via .Net-källkoder som sätter in en form i Microsoft Exce
 
 {{% blocks/products/pf/feature-page-section h2="Infoga former i Excel-fil" %}}
 
- Att infoga former med dessa API:er är enkelt. Processen är, Skapa[Arbetsbok klass](https://reference.aspose.com/cells/python-net/aspose.cells/workbook/) objekt och välj det första kalkylbladet eller det relevanta bladet genom att tillhandahålla dess index. Lägg till en form i kalkylbladet med hjälp av[formsamling](https://reference.aspose.com/cells/python-net/aspose.cells.drawing/shapecollection/) för att lägga till metod.
+ Att infoga former med dessa API:er är enkelt. Processen är, Skapa[Arbetsbok klass](https://reference.aspose.com/cells/python-net/aspose.cells/workbook/)objekt och välj det första kalkylbladet eller det relevanta bladet genom att tillhandahålla dess index. Lägg till en form i kalkylbladet med hjälp av[formsamling](https://reference.aspose.com/cells/python-net/aspose.cells.drawing/shapecollection/) för att lägga till metod.
 
 {{% blocks/products/pf/feature-page-code h3="Python via .Net-kod för att infoga form i Excel" %}}
 

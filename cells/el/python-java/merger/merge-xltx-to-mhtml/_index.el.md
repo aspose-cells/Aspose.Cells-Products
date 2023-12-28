@@ -1,8 +1,8 @@
 ---
 title: Συγχώνευση XLTX σε MHTML - Συνδυάστε XLTX σε MHTML στο Python
 url: /el/python-java/merger/merge-xltx-to-mhtml/ 
-description: Aspose Excel. Python Aspose.Cells. Δωρεάν Online Συγχώνευση XLTX σε MHTML saveformat. Python Συνδυάστε τη μορφή XLTX με MHTML. Συγχώνευση XLTX σε MHTML στο Python. XLTX Συγχώνευση.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge XLTX to MHTML in Python., Free Online Python Merge XLTX to mhtml., Python Combine XLTX to MHTML Online for Free., XLTX Merge]
+description: Aspose Excel. Python Aspose.Cells. Συγχώνευση XLTX σε μορφή αποθήκευσης MHTML. Python Συνδυάστε τη μορφή XLTX με MHTML. Συγχώνευση XLTX σε MHTML στο Python. XLTX Συγχώνευση.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge XLTX to MHTML in Python., Python Merge XLTX to mhtml., Python Combine XLTX to MHTML., XLTX Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Συγχώνευση XLTX σε MHTML μέσω Python" h2="Βιβλιοθήκη υψηλής ταχύτητας Python για συγχώνευση XLTX με MHTML. Χρησιμοποιήστε τη μετατροπή excel API για να αναπτύξετε λογισμικό υψηλού επιπέδου, ανεξάρτητο από την πλατφόρμα στο Python. Αυτή είναι μια επαγγελματική λύση λογισμικού για εισαγωγή και εξαγωγή 5 άλλων μορφών excel 076, πολλών και πολλών μορφών excel." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="XLTX" additionalConversionTag="MHTML" pfName="Aspose.Cells" subTitlepfName="for Python" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -12,12 +12,12 @@ keywords: [Aspose Excel., Python Aspose.Cells., Merge XLTX to MHTML in Python., 
 
 {{% blocks/products/pf/agp/content h2="Συγχώνευση XLTX σε MHTML χρησιμοποιώντας Python" %}}
 
- Πώς μπορώ να συγχωνεύσω το XLTX με το MHTML; Με τη βιβλιοθήκη Aspose.Cells for Python via Java, μπορείτε εύκολα να συγχωνεύσετε το XLTX με το MHTML μέσω προγραμματισμού με λίγες γραμμές κώδικα.[Aspose.Cells for Python via Java](https://pypi.org/project/aspose-cells)έχει τη δυνατότητα δημιουργίας εφαρμογών πολλαπλών πλατφορμών με δυνατότητα δημιουργίας, τροποποίησης, μετατροπής, απόδοσης και εκτύπωσης όλων των αρχείων Excel. Python Το Excel API όχι μόνο μετατρέπει μεταξύ μορφών υπολογιστικών φύλλων, αλλά μπορεί επίσης να αποδώσει αρχεία Excel ως εικόνες, PDF, HTML, ODS, CSV, 07616031481, CSV, 07616831481, δημιουργώντας περισσότερα τέλεια επιλογή για την ανταλλαγή εγγράφων σε βιομηχανικά πρότυπα μορφές. Μπορείτε να εγκαταστήσετε το Aspose.Cells for Python via Java από<a href="https://pypi.org/project/aspose-cells/">pypi</a> , χρησιμοποιήστε την εντολή ως:<code>$ pip install aspose-cells</code>.
+Πώς μπορώ να συγχωνεύσω το XLTX με το MHTML; Με τη βιβλιοθήκη Aspose.Cells for Python via Java, μπορείτε εύκολα να συγχωνεύσετε το XLTX με το MHTML μέσω προγραμματισμού με λίγες γραμμές κώδικα.[Aspose.Cells for Python via Java](https://pypi.org/project/aspose-cells) έχει τη δυνατότητα δημιουργίας εφαρμογών πολλαπλών πλατφορμών με δυνατότητα δημιουργίας, τροποποίησης, μετατροπής, απόδοσης και εκτύπωσης όλων των αρχείων Excel. Python Το Excel API όχι μόνο μετατρέπει μεταξύ μορφών υπολογιστικών φύλλων, αλλά μπορεί επίσης να αποδώσει αρχεία Excel ως εικόνες, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT και άλλα, καθιστώντας έτσι την τέλεια επιλογή για την ανταλλαγή εγγράφων σε βιομηχανικές τυποποιημένες μορφές. Μπορείτε να εγκαταστήσετε το Aspose.Cells for Python via Java από<a href="https://pypi.org/project/aspose-cells/">pypi</a> , χρησιμοποιήστε την εντολή ως:<code>$ pip install aspose-cells</code>.
 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Συγχώνευση XLTX στο MHTML στο Python Δωρεάν Online" %}}
+{{% blocks/products/pf/agp/content h2="Συγχώνευση XLTX με MHTML στο Python" %}}
 
 Το παρακάτω παράδειγμα δείχνει πώς να συγχωνεύσετε το XLTX με το MHTML στο Aspose.Cells for Python via Java.
 {{% blocks/products/pf/agp/text %}}
@@ -28,7 +28,7 @@ keywords: [Aspose Excel., Python Aspose.Cells., Merge XLTX to MHTML in Python., 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Δωρεάν online για συγχώνευση XLTX με MHTML στο Python" InputFormat="xltx" InputFormat2="mhtml" outformat="mhtml" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-merger title="Δείγμα κωδικού για συγχώνευση XLTX έως MHTML στο Python" InputFormat="xltx" InputFormat2="mhtml" outformat="mhtml" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="Πώς να συγχωνεύσετε το XLTX στο MHTML μέσω του Python" %}}
 
@@ -73,7 +73,7 @@ keywords: [Aspose Excel., Python Aspose.Cells., Merge XLTX to MHTML in Python., 
 
 -  Εγκαταστήστε το Java 1.8 ή μεταγενέστερο και προσθέστε το στη μεταβλητή περιβάλλοντος PATH, για παράδειγμα:<code>PATH=C:\Program Files\Java\jdk1.8.0_131;</code>.
 -  Εγκαθιστώ[Python](https://www.python.org/downloads/) 3,5 ή υψηλότερο.
-- Εγκαταστήστε το Aspose.Cells for Python από<a href="https://pypi.org/project/aspose-cells/">pypi</a> , χρησιμοποιήστε την εντολή ως:<code>$ pip install aspose-cells</code>.
+-  Εγκαταστήστε το Aspose.Cells for Python από<a href="https://pypi.org/project/aspose-cells/">pypi</a> , χρησιμοποιήστε την εντολή ως:<code>$ pip install aspose-cells</code>.
 
 
 {{% /blocks/products/pf/agp/content %}}

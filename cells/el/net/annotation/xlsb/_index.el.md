@@ -1,7 +1,8 @@
 ---
-title:  Κατάργηση XLSB Σχολιασμός via .NET
+title:  Προσθήκη ή αφαίρεση XLSB Σχολιασμός via .NET
 weight: 6440
 description: C# πηγαίος κώδικας για προσθήκη και διαγραφή σχολιασμών μορφής XLSB στις πλατφόρμες .NET Framework, .NET Core, Mono ή Xamarin Platforms.
+keywords: [C# Aspose.Cells., add xlsb annotation., insert xlsb annotation., access xlsb annotation., remove xlsb annotation., delete xlsb annotation., add annotation in xlsb., insert annotation in xlsb., access annotation in xlsb., remove annotation in xlsb., delete annotation in xlsb]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Προσθήκη ή διαγραφή σχολιασμού από XLSB μέσω C#" h2="Δημιουργήστε τις δικές σας εφαρμογές .NET για να χειριστείτε σχόλια και συγγραφείς σε αρχεία εγγράφων χρησιμοποιώντας API από την πλευρά του διακομιστή." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSB" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="PPTX" fileiconsmall2="DOCX" fileiconsmall3="XLSX" fileiconsmall4="PDF" fileiconsmall5=" ODP " >}}

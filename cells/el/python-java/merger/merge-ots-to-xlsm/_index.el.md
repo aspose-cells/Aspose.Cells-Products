@@ -1,8 +1,8 @@
 ---
 title: Συγχώνευση OTS στο XLSM - Συνδυάστε το OTS στο XLSM στο Python
 url: /el/python-java/merger/merge-ots-to-xlsm/ 
-description: Aspose Excel. Python Aspose.Cells. Δωρεάν Online Συγχώνευση OTS σε XLSM saveformat. Python Συνδυάστε τη μορφή OTS σε XLSM. Συγχώνευση OTS στο XLSM στο Python. OTS Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge OTS to XLSM in Python., Free Online Python Merge OTS to xlsm., Python Combine OTS to XLSM Online for Free., OTS Merge]
+description: Aspose Excel. Python Aspose.Cells. Συγχώνευση OTS σε XLSM saveformat. Python Συνδυάστε τη μορφή OTS σε XLSM. Συγχώνευση OTS στο XLSM στο Python. OTS Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge OTS to XLSM in Python., Python Merge OTS to xlsm., Python Combine OTS to XLSM., OTS Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Συγχωνεύστε το OTS στο XLSM μέσω του Python" h2="Βιβλιοθήκη Python υψηλής ταχύτητας για συγχώνευση OTS με XLSM. Χρησιμοποιήστε τη μετατροπή excel API για να αναπτύξετε λογισμικό υψηλού επιπέδου, ανεξάρτητο από πλατφόρμα στο Python. Αυτή είναι μια επαγγελματική λύση λογισμικού για εισαγωγή και εξαγωγή Excel, CSV, OpenOffice, PDF, HTML, image μορφών excel και πολλών άλλων μορφών excel." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="OTS" additionalConversionTag="XLSM" pfName="Aspose.Cells" subTitlepfName="for Python" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -12,12 +12,12 @@ keywords: [Aspose Excel., Python Aspose.Cells., Merge OTS to XLSM in Python., Fr
 
 {{% blocks/products/pf/agp/content h2="Συγχωνεύστε το OTS στο XLSM χρησιμοποιώντας το Python" %}}
 
- Πώς μπορώ να συγχωνεύσω το OTS στο XLSM; Με τη βιβλιοθήκη Aspose.Cells for Python via Java, μπορείτε εύκολα να συγχωνεύσετε το OTS στο XLSM μέσω προγραμματισμού με λίγες γραμμές κώδικα.[Aspose.Cells for Python via Java](https://pypi.org/project/aspose-cells)έχει τη δυνατότητα δημιουργίας εφαρμογών πολλαπλών πλατφορμών με δυνατότητα δημιουργίας, τροποποίησης, μετατροπής, απόδοσης και εκτύπωσης όλων των αρχείων Excel. Python Το Excel API όχι μόνο μετατρέπει μεταξύ μορφών υπολογιστικών φύλλων, αλλά μπορεί επίσης να αποδώσει αρχεία Excel ως εικόνες, PDF, HTML, ODS, CSV, 07616031481, CSV, 07616831481, δημιουργώντας περισσότερα τέλεια επιλογή για την ανταλλαγή εγγράφων σε βιομηχανικά πρότυπα μορφές. Μπορείτε να εγκαταστήσετε το Aspose.Cells for Python via Java από<a href="https://pypi.org/project/aspose-cells/">pypi</a> , χρησιμοποιήστε την εντολή ως:<code>$ pip install aspose-cells</code>.
+ Πώς μπορώ να συγχωνεύσω το OTS στο XLSM; Με τη βιβλιοθήκη Aspose.Cells for Python via Java, μπορείτε εύκολα να συγχωνεύσετε το OTS στο XLSM μέσω προγραμματισμού με λίγες γραμμές κώδικα.[Aspose.Cells for Python via Java](https://pypi.org/project/aspose-cells) έχει τη δυνατότητα δημιουργίας εφαρμογών πολλαπλών πλατφορμών με δυνατότητα δημιουργίας, τροποποίησης, μετατροπής, απόδοσης και εκτύπωσης όλων των αρχείων Excel. Python Το Excel API όχι μόνο μετατρέπει μεταξύ μορφών υπολογιστικών φύλλων, αλλά μπορεί επίσης να αποδώσει αρχεία Excel ως εικόνες, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT και άλλα, καθιστώντας έτσι την τέλεια επιλογή για την ανταλλαγή εγγράφων σε βιομηχανικές τυποποιημένες μορφές. Μπορείτε να εγκαταστήσετε το Aspose.Cells for Python via Java από<a href="https://pypi.org/project/aspose-cells/">pypi</a> , χρησιμοποιήστε την εντολή ως:<code>$ pip install aspose-cells</code>.
 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Συγχώνευση OTS στο XLSM στο Python Δωρεάν Online" %}}
+{{% blocks/products/pf/agp/content h2="Συγχωνεύστε το OTS στο XLSM στο Python" %}}
 
 Το ακόλουθο παράδειγμα δείχνει πώς να συγχωνεύσετε το OTS στο XLSM στο Aspose.Cells for Python via Java.
 {{% blocks/products/pf/agp/text %}}
@@ -28,13 +28,13 @@ keywords: [Aspose Excel., Python Aspose.Cells., Merge OTS to XLSM in Python., Fr
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Δωρεάν online για συγχώνευση OTS στο XLSM στο Python" InputFormat="ots" InputFormat2="xlsm" outformat="xlsm" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-merger title="Δείγμα κώδικα για συγχώνευση OTS στο XLSM στο Python" InputFormat="ots" InputFormat2="xlsm" outformat="xlsm" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="Πώς να συγχωνεύσετε το OTS στο XLSM μέσω του Python" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
-Θέλετε να συγχωνεύσετε το OTS στο XLSM μέσω προγραμματισμού; Ένα βασικό έγγραφο που συγχωνεύεται και συνενώνεται με[Aspose.Cells for Python via Java](https://products.aspose.com/cells/python-java) Τα API μπορούν να γίνουν με λίγες μόνο γραμμές κώδικα.
+ Θέλετε να συγχωνεύσετε το OTS στο XLSM μέσω προγραμματισμού; Ένα βασικό έγγραφο που συγχωνεύεται και συνενώνεται με[Aspose.Cells for Python via Java](https://products.aspose.com/cells/python-java) Τα API μπορούν να γίνουν με λίγες μόνο γραμμές κώδικα.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -73,7 +73,7 @@ keywords: [Aspose Excel., Python Aspose.Cells., Merge OTS to XLSM in Python., Fr
 
 -  Εγκαταστήστε το Java 1.8 ή μεταγενέστερο και προσθέστε το στη μεταβλητή περιβάλλοντος PATH, για παράδειγμα:<code>PATH=C:\Program Files\Java\jdk1.8.0_131;</code>.
 -  Εγκαθιστώ[Python](https://www.python.org/downloads/) 3,5 ή υψηλότερο.
-- Εγκαταστήστε το Aspose.Cells for Python από<a href="https://pypi.org/project/aspose-cells/">pypi</a> , χρησιμοποιήστε την εντολή ως:<code>$ pip install aspose-cells</code>.
+-  Εγκαταστήστε το Aspose.Cells for Python από<a href="https://pypi.org/project/aspose-cells/">pypi</a> , χρησιμοποιήστε την εντολή ως:<code>$ pip install aspose-cells</code>.
 
 
 {{% /blocks/products/pf/agp/content %}}

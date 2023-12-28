@@ -1,7 +1,8 @@
 ---
-title:  Lägg till ODS Anteckning via C++
+title:  Lägg till eller ta bort ODS Anteckning via C++
 weight: 8840
 description: C++ exempelkod för att radera ODS formatkommentarer på C++ Runtime Environment för Windows 32 bitar, Windows 64 bitar och Linux 64 bitar.
+keywords: [C++ Aspose.Cells., add ods annotation., insert ods annotation., access ods annotation., remove ods annotation., delete ods annotation., add annotation in ods., insert annotation in ods., access annotation in ods., remove annotation in ods., delete annotation in ods]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Lägg till anteckning i ODS fil via C++" h2="Bygg dina egna C++-appar för att manipulera kommentarer och författare i dokumentfiler med hjälp av API:er på serversidan." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" sourceAdditionalConversionTag="" additionalConversionTag="ODS" pfName="Aspose.Cells" subTitlepfName="for C++" downloadUrl="" fileiconsmall1="PPTX" fileiconsmall2="DOCX" fileiconsmall3="XLSX" fileiconsmall4="PDF" fileiconsmall5=" ODP " >}}
@@ -43,7 +44,7 @@ PM> Install-Package Aspose.Cells.Cpp
 1.  Välj relevant blad
 1.  Lägg till kommentaren med Add-metoden
 1.  Ställ in kommentarens not med SetNote-metoden.
-1.  Spara arbetsboken med[Spara](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook#a77072cfb929787df9ad1f38b02f58349) metod
+1.  Spara arbetsboken med[Spara](https://reference.aspose.com/cells/cpp/aspose.cells/workbook/save/) metod
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -62,7 +63,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% blocks/products/pf/agp/code-block title="Lägg till kommentarer på ODS - C++" offSpacer="" %}}
 
-{{< gist "aspose-com-gists" "e144512d2c395c3336f12ce960424686" "add-comment-in-ods-file.cpp" >}}
+{{< gist "aspose-cells-gists" "6f7d9819d85793c3a3b5d040af42e1a9" "add-comment-in-ods-file.cpp" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 

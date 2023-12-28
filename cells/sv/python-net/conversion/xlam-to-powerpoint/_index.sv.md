@@ -12,7 +12,7 @@ keywords: [Aspose Excel., Python Aspose.Cells., Python XLAM to POWERPOINT savefo
 
 {{% blocks/products/pf/agp/content h2="Konvertera XLAM till POWERPOINT i Python" %}}
 
- Hur konverterar jag XLAM till POWERPOINT? Med Aspose.Cells for Python via NET bibliotek kan du enkelt konvertera XLAM till POWERPOINT programmatiskt med några rader kod.[Aspose.Cells for Python via NET](https://pypi.org/project/aspose-cells-python/)kan bygga plattformsoberoende applikationer med förmågan att generera, modifiera, konvertera, rendera och skriva ut alla Excel-filer. Python Excel API konverterar inte bara mellan kalkylarksformat, det kan också rendera Excel-filer som bilder, PDF, HTML, ODS, ODS, CSV, 0761687481, 0761687481, vilket gör det till ett perfekt val, Pt utbyta dokument i branschstandard format.
+ Hur konverterar jag XLAM till POWERPOINT? Med Aspose.Cells for Python via NET bibliotek kan du enkelt konvertera XLAM till POWERPOINT programmatiskt med några rader kod.[Aspose.Cells for Python via NET](https://pypi.org/project/aspose-cells-python/)kan bygga plattformsoberoende applikationer med förmågan att generera, modifiera, konvertera, rendera och skriva ut alla Excel-filer. Python Excel API konverterar inte bara mellan kalkylarksformat, den kan också rendera Excel-filer som bilder, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT och mer, vilket gör det till ett perfekt val att utbyta dokument i industristandardformat.
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -22,7 +22,7 @@ keywords: [Aspose Excel., Python Aspose.Cells., Python XLAM to POWERPOINT savefo
 Följande exempel visar hur man konverterar XLAM till POWERPOINT i Python via NET.
 {{% blocks/products/pf/agp/text %}}
 
-Följ de enkla stegen för att konvertera XLAM till POWERPOINT. Ladda upp din XLAM-fil och spara den sedan som POWERPOINT-fil. För både XLAM-läsning och POWERPOINT-skrivning kan du använda fullt kvalificerade filnamn. POWERPOINT-innehållet och formateringen kommer att vara identisk med originaldokumentet XLAM.
+Följ de enkla stegen för att konvertera XLAM till POWERPOINT. Ladda upp din XLAM-fil och spara den sedan som POWERPOINT-fil. För både XLAM-läsning och POWERPOINT-skrivning kan du använda fullt kvalificerade filnamn. Utdata POWERPOINT-innehåll och formatering kommer att vara identisk med originaldokumentet XLAM.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -52,7 +52,7 @@ Behöver du konvertera XLAM-filer till POWERPOINT programmatiskt? Python-utveckl
 Vi är värd för våra Python-paket i PyPi-förråd.
 
 {{% blocks/products/pf/agp/text %}}
-Installera Aspose.Cells for Python från<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , använd kommandot som:<code>$ pip install aspose-cells-python</code>.
+ Installera Aspose.Cells for Python från<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , använd kommandot som:<code>$ pip install aspose-cells-python</code>.
 {{% /blocks/products/pf/agp/text %}}
 
 {{% blocks/products/pf/agp/text %}}

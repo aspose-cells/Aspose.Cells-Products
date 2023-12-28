@@ -1,6 +1,7 @@
 ---
 title: Δημιουργήστε αρχεία Excel via Java
 description: Δημιουργήστε υπολογιστικά φύλλα Microsoft Excel από ένα φύλλο προτύπου χρησιμοποιώντας τη βιβλιοθήκη υπολογιστικών φύλλων Java
+keywords: [Java Aspose.Cells., Java Create Reports Based on Predesigned Excel Template., Java Generate Reports Based on Predesigned Excel Template., Java Create Reports Based on Excel Template., Java Generate Reports Based on Excel Template., Java Create Excel files Based on Excel Template., Java Generate Excel files Based on Excel Template]
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
 {{< blocks/products/pf/i18n/feature-page-header h1="Microsoft<sup>&reg;</sup> Δημιουργία αναφορών βάσει προτύπων Excel via Java" h2="Δημιουργήστε μαζικές αναφορές αρχείων Excel με βάση ένα προκαθορισμένο πρότυπο εντός εφαρμογών που βασίζονται σε Java." >}}
@@ -10,7 +11,7 @@ description: Δημιουργήστε υπολογιστικά φύλλα Micros
 
 {{% blocks/products/pf/feature-page-section h2="Δημιουργία αναφορών με βάση το προσχεδιασμένο πρότυπο Excel" %}}
 
- Χρησιμοποιώντας το Java Assembly API, οι προγραμματιστές μπορούν εύκολα να προγραμματίσουν τον κώδικα δημιουργίας μαζικής αναφοράς συμπεριλαμβάνοντας τα παρακάτω αποσπάσματα κώδικα. API παρέχει[εισαγωγή δεδομένων](https://docs.aspose.com/cells/java/import-and-export-data/) χαρακτηριστικό από διαφορετικές πηγές και δημιουργία εγγράφων Excel ανάλογα με αυτά τα δεδομένα. Για μοτίβα που βασίζονται σε πρότυπα, το API παρέχει α[Τάξη βιβλίου εργασίας Designer](https://reference.aspose.com/cells/java/com.aspose.cells/WorkbookDesigner)για την αναπαράσταση ενός φύλλου εργασίας σχεδιαστή. Η διαδικασία είναι, Δημιουργήστε το αντικείμενό του και χρησιμοποιήστε το για να ανοίξετε το αρχείο προτύπου. Ορίστε την πηγή δεδομένων, που μπορεί να είναι Array, DataTable, Json κ.λπ. Επεξεργαστείτε την για να εισαγάγετε δεδομένα και αποθηκεύστε το αρχείο στην επιθυμητή μορφή. Οι προγραμματιστές μπορούν να συγκεντρώνουν δεδομένα σε αναφορές σε άλλες μορφές αρχείων, συμπεριλαμβανομένων των XLS, XLSX, XLSB, XLSM, ODS όπως οι παρακάτω σύνδεσμοι.
+ Χρησιμοποιώντας το Java Assembly API, οι προγραμματιστές μπορούν εύκολα να προγραμματίσουν τον κώδικα δημιουργίας μαζικής αναφοράς συμπεριλαμβάνοντας τα παρακάτω αποσπάσματα κώδικα. API παρέχει[εισαγωγή δεδομένων](https://docs.aspose.com/cells/java/import-and-export-data/) χαρακτηριστικό από διαφορετικές πηγές και δημιουργία εγγράφων Excel ανάλογα με αυτά τα δεδομένα. Για μοτίβα που βασίζονται σε πρότυπα, το API παρέχει α[Τάξη Βιβλίο Εργασίας Designer](https://reference.aspose.com/cells/java/com.aspose.cells/WorkbookDesigner)για την αναπαράσταση ενός φύλλου εργασίας σχεδιαστή. Η διαδικασία είναι, Δημιουργήστε το αντικείμενό του και χρησιμοποιήστε το για να ανοίξετε το αρχείο προτύπου. Ορίστε την πηγή δεδομένων, που μπορεί να είναι Array, DataTable, Json κ.λπ. Επεξεργαστείτε την για να εισαγάγετε δεδομένα και αποθηκεύστε το αρχείο στην επιθυμητή μορφή. Οι προγραμματιστές μπορούν να συγκεντρώνουν δεδομένα σε αναφορές σε άλλες μορφές αρχείων, συμπεριλαμβανομένων των XLS, XLSX, XLSB, XLSM, ODS όπως οι παρακάτω σύνδεσμοι.
 
 
 

@@ -1,7 +1,7 @@
 ---
-title: Java HTM till HTM - Online HTM till HTM-konverterare
-description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Gratis Online Java Konvertera HTM till HTM saveformat. Java HTM till HTM-format. Spara HTM till HTM Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java HTM to HTM saveformat., Free Online HTM to HTM Java., Java Convert HTM to HTM]
+title: Java HTM till HTM - HTM till HTM-omvandlare
+description: Aspose Excel. Konvertera HTM till HTM snabbt och enkelt med Aspose.Cells. Java HTM till HTM. Java Spara HTM till HTM. Spara HTM som HTM med Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Convert HTM to HTM in Java., Save HTM to HTM using Java., Java HTM to HTM saveformat., HTM to HTM Converter., Java Save HTM as HTM]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Konvertera HTM till HTM i Java" h2="Höghastighets Java-bibliotek för konvertering av HTM till HTM. Detta är en professionell mjukvarulösning för att importera och exportera HTM, HTM och många andra format med Java." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="HTM" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java HTM to HT
 
 {{% blocks/products/pf/agp/content h2="Konvertera HTM till HTM med Java" %}}
 
- Hur konverterar jag HTM till HTM? Med Aspose.Cells for Java bibliotek kan du enkelt konvertera HTM till HTM programmatiskt med några rader kod.[Aspose.Cells for Java](https://products.aspose.com/cells/java) kan bygga plattformsoberoende applikationer med förmågan att generera, modifiera, konvertera, rendera och skriva ut alla Excel-filer. Java Excel API konverterar inte bara mellan kalkylarksformat, det kan också rendera Excel-filer som bilder, PDF, HTML, ODS, ODS, CSV, 0761687481, 0761687481, vilket gör det till ett perfekt val, Pt utbyta dokument i branschstandard format. Du kan ladda ner den senaste versionen direkt från[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) och installera det i ditt Maven-baserade projekt genom att lägga till följande konfigurationer till pom.xml.
+ Hur konverterar jag HTM till HTM? Med Aspose.Cells for Java bibliotek kan du enkelt konvertera HTM till HTM programmatiskt med några rader kod.[Aspose.Cells for Java](https://products.aspose.com/cells/java)kan bygga plattformsoberoende applikationer med förmågan att generera, modifiera, konvertera, rendera och skriva ut alla Excel-filer. Java Excel API konverterar inte bara mellan kalkylarksformat, den kan också rendera Excel-filer som bilder, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT och mer, vilket gör det till ett perfekt val att utbyta dokument i industristandardformat. Du kan ladda ner den senaste versionen direkt från[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) och installera det i ditt Maven-baserade projekt genom att lägga till följande konfigurationer till pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Förvar" offSpacer="true" %}}
 
@@ -45,7 +45,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java HTM to HT
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Spara HTM till HTM på Java Online gratis" %}}
+{{% blocks/products/pf/agp/content h2="Spara HTM till HTM på Java" %}}
 
 Följande exempel visar hur man konverterar HTM till HTM i Java.
 {{% blocks/products/pf/agp/text %}}
@@ -56,7 +56,7 @@ Följ de enkla stegen för att konvertera HTM till HTM. Ladda upp din HTM-fil oc
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Gratis app och provkod för att konvertera HTM till HTM Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="htm" outformat="htm" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Exempelkod för att konvertera HTM till HTM" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="htm" outformat="htm" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="Hur man konverterar HTM till HTM via Java" %}}
 
@@ -70,7 +70,7 @@ Behöver du konvertera HTM-filer till HTM programmatiskt? Java-utvecklare kan en
 1.  Lägg till en biblioteksreferens (importera biblioteket) till ditt Java-projekt.
 1.  Ladda HTM-fil med en instans av Workbook-klassen.
 1.  Konvertera HTM till HTM genom att anropa Workbook.save-metoden.
-1.  Få konverteringsresultatet från HTM till HTM.
+1. Få konverteringsresultatet från HTM till HTM.
 
 {{% /blocks/products/pf/agp/content %}}
 

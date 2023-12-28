@@ -2,6 +2,7 @@
 title:  Sök och ersätt text i XLS dokument via Java
 weight: 7900
 description: Java exempelkod för att redigera känslig information i XLS-filen på Java Runtime Environment för JSP/JSF Application och Desktop Applications.
+keywords: [Java Aspose.Cells., Java Search and replace text in XLS file., Java redact XLS file., Java edit XLS file., Java XLS file redaction., Java Search and replace string in XLS file]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Redigera XLS-format i Java" h2="Inbyggd och högpresterande XLS dokumentkänslig redaktionsinformation med hjälp av Aspose.Cells for Java API:er på serversidan, utan användning av någon programvara som Microsoft eller Adobe PDF." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="XLS" >}}
@@ -13,7 +14,7 @@ description: Java exempelkod för att redigera känslig information i XLS-filen 
 
  För att redigera filen XLS kommer vi att använda
  [Aspose.Cells for Java](https://products.aspose.com/cells/java) 
- API som är en funktionsrik, kraftfull och lättanvänd redigeringsplattform API for Java. Du kan ladda ner den senaste versionen direkt från
+API som är en funktionsrik, kraftfull och lättanvänd redigeringsplattform API for Java. Du kan ladda ner den senaste versionen direkt från
  [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) 
  och installera det i ditt Maven-baserade projekt genom att lägga till följande konfigurationer till pom.xml.
 
@@ -65,7 +66,7 @@ description: Java exempelkod för att redigera känslig information i XLS-filen 
 + Ange intervallet där du vill söka
 + Gå igenom varje cell och använd getCells().find(...).
 + Byt ut värdet.
-Spara arbetsboken.
++ Spara arbetsboken.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -143,7 +144,7 @@ workbook.save(dataDir + "output.xls");
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Du behöver inte ladda ner Aspose API." >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Du behöver inte skriva någon kod." >}}
         {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Ladda bara upp dina XLS-filer." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-download" text=" Den kommer att redigeras omedelbart." >}}
+        {{< blocks/products/pf/agp/democard icon="fa-download" text="Den kommer att redigeras omedelbart." >}}
     {{< /blocks/products/pf/agp/demobox >}}
 
     {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLS" readMoreLink="https://docs.fileformat.com/spreadsheet/xls/" >}}

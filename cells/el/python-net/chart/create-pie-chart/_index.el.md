@@ -1,6 +1,7 @@
 ---
 title: Δημιουργήστε γραφήματα πίτας μέσω του Python
 description: Python Δείγμα κώδικα για τη δημιουργία γραφημάτων πίτας στο Excel χρησιμοποιώντας τη Βιβλιοθήκη Python. Χρησιμοποιήστε αυτόν τον κώδικα για τη δημιουργία ενός γραφήματος πίτας στο MS Excel εντός εφαρμογής που βασίζεται στο Python.
+keywords: [Python Aspose.Cells., Python add Pie Chart., Python insert Pie Chart., Python create Pie Chart]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
@@ -36,7 +37,7 @@ description: Python Δείγμα κώδικα για τη δημιουργία �
  Aspose.Cells for Python είναι ανεξάρτητο από πλατφόρμα API και μπορεί να χρησιμοποιηθεί σε οποιαδήποτε πλατφόρμα (Windows, Linux), απλώς βεβαιωθείτε ότι το σύστημα έχει[Python](https://www.python.org/downloads/) 3,7 ή υψηλότερο.
 {{% /blocks/products/pf/agp/text %}}
 
-- Εγκαταστήστε το Aspose.Cells for Python από<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , χρησιμοποιήστε την εντολή ως:<code>$ pip install aspose-cells-python</code>.
+-  Εγκαταστήστε το Aspose.Cells for Python από<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , χρησιμοποιήστε την εντολή ως:<code>$ pip install aspose-cells-python</code>.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/code-block title="Ο παρακάτω πηγαίος κώδικας δείχνει πώς να δημιουργήσετε ένα αρχείο γραφήματος πίτας στο MS Excel XLSX χρησιμοποιώντας το Python." offSpacer="" %}}

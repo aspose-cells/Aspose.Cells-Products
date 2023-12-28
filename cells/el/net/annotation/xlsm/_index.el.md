@@ -1,7 +1,8 @@
 ---
-title:  Κατάργηση XLSM Σχολιασμός via .NET
+title:  Προσθήκη ή αφαίρεση XLSM Σχολιασμός via .NET
 weight: 9890
 description: C# πηγαίος κώδικας για προσθήκη και διαγραφή σχολιασμών μορφής XLSM στις πλατφόρμες .NET Framework, .NET Core, Mono ή Xamarin Platforms.
+keywords: [C# Aspose.Cells., add xlsm annotation., insert xlsm annotation., access xlsm annotation., remove xlsm annotation., delete xlsm annotation., add annotation in xlsm., insert annotation in xlsm., access annotation in xlsm., remove annotation in xlsm., delete annotation in xlsm]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Προσθήκη ή διαγραφή σχολιασμού από XLSM μέσω C#" h2="Δημιουργήστε τις δικές σας εφαρμογές .NET για να χειριστείτε σχόλια και συγγραφείς σε αρχεία εγγράφων χρησιμοποιώντας API από την πλευρά του διακομιστή." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSM" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="PPTX" fileiconsmall2="DOCX" fileiconsmall3="XLSX" fileiconsmall4="PDF" fileiconsmall5=" ODP " >}}

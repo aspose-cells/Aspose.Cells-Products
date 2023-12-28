@@ -2,6 +2,7 @@
 title: Ομαδοποίηση και κατάργηση ομαδοποίησης σχημάτων στο Excel via Java
 weight: 360
 description: Ομαδοποίηση και κατάργηση ομαδοποίησης αντικειμένων χρησιμοποιώντας Aspose.Cells' Java API χωρίς λογισμικό όπως Microsoft ή Open Office, Adobe PDF κ.λπ.
+keywords: [Java Aspose.Cells., Java group shapes., Java ungroup shapes., Java group and ungroup shapes., Java group or ungroup shapes]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Ομαδοποίηση και κατάργηση ομαδοποίησης σχημάτων στο Excel via Java" h2="Χρησιμοποιώντας το Aspose.Cells\' API για εργασία με διάφορα αντικείμενα χωρίς λογισμικό όπως Microsoft ή Open Office, Adobe PDF κ.λπ." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSX" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="" fileiconsmall1="PPTX" fileiconsmall2="DOCX" fileiconsmall3="XLSX" fileiconsmall4="PDF" fileiconsmall5=" ODP " >}}
@@ -56,7 +57,7 @@ description: Ομαδοποίηση και κατάργηση ομαδοποίη
 
 {{% /blocks/products/pf/agp/text %}}
 
-Δημιουργία αντικειμένου βιβλίου εργασίας.(ή->Φορτώστε το αρχείο XLSX με πλήρη διαδρομή.)
++ Δημιουργία αντικειμένου βιβλίου εργασίας.(ή->Φορτώστε το αρχείο XLSX με πλήρη διαδρομή.)
 + Επιλέξτε Φύλλο εργασίας μέσω του ευρετηρίου του.
  + Χρησιμοποιήστε το[ομαδική μέθοδος](https://reference.aspose.com/cells/java/com.aspose.cells/shapecollection/#group-com.aspose.cells.Shape---) για ομαδοποίηση σχημάτων στο επιλεγμένο φύλλο εργασίας
  + Χρησιμοποιήστε το[μέθοδος κατάργησης ομαδοποίησης](https://reference.aspose.com/cells/java/com.aspose.cells/shapecollection/#ungroup-com.aspose.cells.GroupShape-) για να καταργήσετε την ομαδοποίηση σχημάτων στο επιλεγμένο φύλλο εργασίας

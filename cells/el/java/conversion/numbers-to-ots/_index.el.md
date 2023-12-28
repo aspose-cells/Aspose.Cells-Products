@@ -1,7 +1,7 @@
 ---
-title: Java NUMBERs to OTS - Online NUMBERS to OTS Converter
-description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Δωρεάν Online Java Μετατροπή ΑΡΙΘΜΩΝ σε μορφή αποθήκευσης OTS. Java NUMBERS σε μορφή OTS. Αποθηκεύστε NUMBERS στο OTS Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java NUMBERS to OTS saveformat., Free Online NUMBERS to OTS Java., Java Convert NUMBERS to OTS]
+title: Java NUMBERs to OTS - NUMBERs to OTS Converter
+description: Aspose Excel. Μετατρέψτε τους αριθμούς σε OTS γρήγορα και εύκολα με το Aspose.Cells. Java NUMBERS σε OTS. Java Αποθήκευση ΑΡΙΘΜΩΝ στο OTS. Αποθηκεύστε τους αριθμούς ως OTS χρησιμοποιώντας το Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Convert NUMBERS to OTS in Java., Save NUMBERS to OTS using Java., Java NUMBERS to OTS saveformat., NUMBERS to OTS Converter., Java Save NUMBERS as OTS]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Μετατρέψτε τους αριθμούς σε OTS στο Java" h2="Βιβλιοθήκη υψηλής ταχύτητας Java για μετατροπή NUMBERS σε OTS. Αυτή είναι μια επαγγελματική λύση λογισμικού για την εισαγωγή και εξαγωγή NUMBERS, OTS και πολλών άλλων μορφών χρησιμοποιώντας το Java." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="OTS" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java NUMBERS t
 
 {{% blocks/products/pf/agp/content h2="Μετατροπή ΑΡΙΘΜΩΝ σε OTS χρησιμοποιώντας Java" %}}
 
- Πώς μπορώ να μετατρέψω NUMBERS σε OTS; Με τη βιβλιοθήκη Aspose.Cells for Java, μπορείτε εύκολα να μετατρέψετε τους αριθμούς σε OTS μέσω προγραμματισμού με λίγες γραμμές κώδικα.[Aspose.Cells for Java](https://products.aspose.com/cells/java) έχει τη δυνατότητα δημιουργίας εφαρμογών πολλαπλών πλατφορμών με δυνατότητα δημιουργίας, τροποποίησης, μετατροπής, απόδοσης και εκτύπωσης όλων των αρχείων Excel. Java Το Excel API όχι μόνο μετατρέπει μεταξύ μορφών υπολογιστικών φύλλων, αλλά μπορεί επίσης να αποδώσει αρχεία Excel ως εικόνες, PDF, HTML, ODS, CSV, 07616031481, CSV, 07616831481, δημιουργώντας περισσότερα τέλεια επιλογή για την ανταλλαγή εγγράφων σε βιομηχανικά πρότυπα μορφές. Μπορείτε να κατεβάσετε την τελευταία του έκδοση απευθείας από[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) και εγκαταστήστε το στο έργο σας που βασίζεται στο Maven προσθέτοντας τις ακόλουθες διαμορφώσεις στο pom.xml.
+ Πώς μπορώ να μετατρέψω NUMBERS σε OTS; Με τη βιβλιοθήκη Aspose.Cells for Java, μπορείτε εύκολα να μετατρέψετε τους αριθμούς σε OTS μέσω προγραμματισμού με λίγες γραμμές κώδικα.[Aspose.Cells for Java](https://products.aspose.com/cells/java)έχει τη δυνατότητα δημιουργίας εφαρμογών πολλαπλών πλατφορμών με δυνατότητα δημιουργίας, τροποποίησης, μετατροπής, απόδοσης και εκτύπωσης όλων των αρχείων Excel. Java Το Excel API όχι μόνο μετατρέπει μεταξύ μορφών υπολογιστικών φύλλων, αλλά μπορεί επίσης να αποδώσει αρχεία Excel ως εικόνες, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT και άλλα, καθιστώντας έτσι την τέλεια επιλογή για την ανταλλαγή εγγράφων σε βιομηχανικές τυποποιημένες μορφές. Μπορείτε να κατεβάσετε την τελευταία του έκδοση απευθείας από[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) και εγκαταστήστε το στο έργο σας που βασίζεται στο Maven προσθέτοντας τις ακόλουθες διαμορφώσεις στο pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Αποθήκη" offSpacer="true" %}}
 
@@ -45,7 +45,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java NUMBERS t
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Αποθηκεύστε NUMBERS στο OTS στο Java Online δωρεάν" %}}
+{{% blocks/products/pf/agp/content h2="Αποθηκεύστε NUMBERS στο OTS στο Java" %}}
 
 Το ακόλουθο παράδειγμα δείχνει πώς να μετατρέψετε NUMBERS σε OTS στο Java.
 {{% blocks/products/pf/agp/text %}}
@@ -56,7 +56,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java NUMBERS t
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Δωρεάν εφαρμογή και δείγμα κώδικα για τη μετατροπή των αριθμών σε OTS Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="numbers" outformat="ots" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Δείγμα κώδικα για μετατροπή ΑΡΙΘΜΩΝ σε OTS" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="numbers" outformat="ots" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="Πώς να μετατρέψετε τους αριθμούς σε OTS via Java" %}}
 
@@ -97,7 +97,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java NUMBERS t
 
 <!-- aboutfile Starts -->
     {{< blocks/products/pf/agp/about-file-section >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="NUMBERS" readMoreLink="https://docs.fileformat.com/spreadsheet/numbers/" >}}Τα αρχεία με επέκταση .numbers ταξινομούνται ως τύπος αρχείου υπολογιστικού φύλλου, γι' αυτό είναι παρόμοια με τα αρχεία .xlsx. αλλά τα αρχεία Numbers δημιουργούνται χρησιμοποιώντας το λογισμικό υπολογιστικών φύλλων Apple iWork Numbers. Το Apple iWork Numbers είναι ένα λογισμικό μονάδας του iWork Productivity Suite. Το iWork Productivity Suite είναι ισοδύναμο με το Microsoft Office Suite που χρησιμοποιείται σε υπολογιστές Windows. Ως εκ τούτου, μπορούμε να πούμε ότι το Numbers που είναι διαθέσιμο για MacOS είναι επίσης ανταγωνιστής του Microsoft Excel. Ομοίως, Microsoft Excel, το αρχείο NUMBERS μπορεί επίσης να περιέχει πίνακες, γραφήματα και τύπους.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="NUMBERS" readMoreLink="https://docs.fileformat.com/spreadsheet/numbers/" >}} Τα αρχεία με επέκταση .numbers ταξινομούνται ως τύπος αρχείου υπολογιστικού φύλλου, γι' αυτό είναι παρόμοια με τα αρχεία .xlsx. αλλά τα αρχεία Numbers δημιουργούνται χρησιμοποιώντας το λογισμικό υπολογιστικών φύλλων Apple iWork Numbers. Το Apple iWork Numbers είναι ένα λογισμικό μονάδας του iWork Productivity Suite. Το iWork Productivity Suite είναι ισοδύναμο με το Microsoft Office Suite που χρησιμοποιείται σε υπολογιστές Windows. Ως εκ τούτου, μπορούμε να πούμε ότι το Numbers που είναι διαθέσιμο για MacOS είναι επίσης ανταγωνιστής του Microsoft Excel. Ομοίως, Microsoft Excel, το αρχείο NUMBERS μπορεί επίσης να περιέχει πίνακες, γραφήματα και τύπους.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="OTS" readMoreLink="https://docs.fileformat.com/spreadsheet/ots/" >}}Ένα αρχείο με επέκταση .ots είναι ένα αρχείο προτύπου υπολογιστικού φύλλου OpenDocument που δημιουργείται με το λογισμικό εφαρμογής Calc που περιλαμβάνεται στο Apache OpenOffice. Το λογισμικό εφαρμογής Calc είναι παρόμοιο με το Excel που διατίθεται στο Microsoft Office. Η μορφή αρχείου OTS χρησιμοποιείται για τη δημιουργία προτύπων που περιέχουν προκαθορισμένες ρυθμίσεις που σχετίζονται με στυλ, γραμματοσειρά, δεδομένα, διάταξη υπολογιστικού φύλλου και μορφοποίηση. Τα αρχεία OTF έχουν application/vnd.oasis.opedocument.spreadsheet-template τύπου mime. Αυτά τα αρχεία προτύπων μπορούν να χρησιμοποιηθούν ως σημείο εκκίνησης για τη δημιουργία και αποθήκευση πραγματικών αρχείων δεδομένων που αποθηκεύονται σε μορφή αρχείου ODS. Τα αρχεία OTS μπορούν να χρησιμοποιηθούν με εφαρμογές όπως το OpenOffice και το LibreOffice.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
     {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->

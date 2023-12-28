@@ -46,7 +46,7 @@ description: Slå ihop Excel-fil i Python-kod. Kombinera Excel-fil med Python.
 
 -  Installera Java 1.8 eller högre och lägg till den i PATH miljövariabel, till exempel:<code>PATH=C:\Program Files\Java\jdk1.8.0_131;</code>.
 -  Installera[Python](https://www.python.org/downloads/) 3,5 eller högre.
-- Installera Aspose.Cells for Python från<a href="https://pypi.org/project/aspose-cells/">pypi</a> , använd kommandot som:<code>$ pip install aspose-cells</code>.
+-  Installera Aspose.Cells for Python från<a href="https://pypi.org/project/aspose-cells/">pypi</a> , använd kommandot som:<code>$ pip install aspose-cells</code>.
 
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

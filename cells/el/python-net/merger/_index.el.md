@@ -45,7 +45,7 @@ description: Συγχώνευση αρχείου Excel στον κώδικα Pyt
 {{% /blocks/products/pf/agp/text %}}
 
 -  Εγκαθιστώ[Python](https://www.python.org/downloads/) 3,7 ή υψηλότερο.
-- Εγκαταστήστε το Aspose.Cells for Python από<a href="https://pypi.org/project/aspose-cells/">pypi</a> , χρησιμοποιήστε την εντολή ως:<code>$ pip install aspose-cells-python</code>.
+-  Εγκαταστήστε το Aspose.Cells for Python από<a href="https://pypi.org/project/aspose-cells/">pypi</a> , χρησιμοποιήστε την εντολή ως:<code>$ pip install aspose-cells-python</code>.
 
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

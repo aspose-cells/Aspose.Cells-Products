@@ -2,6 +2,7 @@
 title:  Λήψη μεγέθους εικόνων/εικόνων στο Excel via .NET
 weight: 10
 description: C# πηγαίος κώδικας για λήψη μεγέθους εικόνων/εικόνων στο Excel σε πλατφόρμες .NET Framework, .NET Core, Mono ή Xamarin.
+keywords: [C# Aspose.Cells., c# Get Images/Pictures Size In Excel., c# Obtain Images/Pictures Size In Excel., c# Access Images/Pictures Size In Excel]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Λήψη μεγέθους εικόνων/εικόνων στο Excel via .NET" h2="Χρησιμοποιώντας το Aspose.Cells\' API για εργασία με διάφορα αντικείμενα χωρίς λογισμικό όπως Microsoft ή Open Office, Adobe PDF κ.λπ." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="XLSX" >}}
@@ -48,7 +49,7 @@ PM> Install-Package Aspose.Cells
     + [Πλάτος](https://reference.aspose.com/cells/net/aspose.cells.drawing/shape/width/) Αντιπροσωπεύει το πλάτος του σχήματος, σε μονάδα pixel.
     + [Υψος](https://reference.aspose.com/cells/net/aspose.cells.drawing/shape/height/) Αντιπροσωπεύει το ύψος του σχήματος, σε μονάδα pixel.
     + [Αρχικό Πλάτος](https://reference.aspose.com/cells/net/aspose.cells.drawing/picture/originalwidth/) Λαμβάνει το αρχικό πλάτος της εικόνας, σε μονάδα pixel.
-    + [Αρχικό ύψος](https://reference.aspose.com/cells/net/aspose.cells.drawing/picture/originalheight/) Λαμβάνει το αρχικό ύψος της εικόνας, σε μονάδα pixel.
+    + [Αρχικό ύψος](https://reference.aspose.com/cells/net/aspose.cells.drawing/picture/originalheight/)Λαμβάνει το αρχικό ύψος της εικόνας, σε μονάδα pixel.
 
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
@@ -92,7 +93,7 @@ PM> Install-Package Aspose.Cells
 
 {{% blocks/products/pf/agp/content h2="Σχετικά με Aspose.Cells for .NET API" %}}
 
- Aspose.Cells API μπορεί να χρησιμοποιηθεί για τη δημιουργία, επεξεργασία, μετατροπή και απόδοση μορφών Excel Microsoft σε διαφορετικές μορφές. Επιπλέον, μπορεί να χρησιμοποιηθεί για ολοκληρωμένη χαρτογράφηση, κλιμακούμενη αναφορά και αξιόπιστους υπολογισμούς εντός εφαρμογών λογισμικού. Το Aspose.Cells είναι ένα αυτόνομο API και δεν απαιτεί λογισμικό όπως το Microsoft ή το OpenOffice.
+Aspose.Cells API μπορεί να χρησιμοποιηθεί για τη δημιουργία, επεξεργασία, μετατροπή και απόδοση μορφών Excel Microsoft σε διαφορετικές μορφές. Επιπλέον, μπορεί να χρησιμοποιηθεί για ολοκληρωμένη χαρτογράφηση, κλιμακούμενη αναφορά και αξιόπιστους υπολογισμούς εντός εφαρμογών λογισμικού. Το Aspose.Cells είναι ένα αυτόνομο API και δεν απαιτεί λογισμικό όπως το Microsoft ή το OpenOffice.
 
 {{% /blocks/products/pf/agp/content %}}
 

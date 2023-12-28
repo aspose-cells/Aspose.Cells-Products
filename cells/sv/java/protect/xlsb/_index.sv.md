@@ -1,7 +1,8 @@
 ---
-title: Skydda och lås XLSB dokument via Java
+title:  Skydda och lås XLSB dokument via Java
 weight: 6590
 description: Java exempelkod för att låsa XLSB fil med lösenord på Java Runtime Environment för JSP/JSF Application och Desktop Applications.
+keywords: [Java Aspose.Cells., Java Lock XLSB files., Java How to Protect and lock XLSB document., Java Protect XLSB files., Encrypt XLSB Files using Java]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Kryptera XLSB Filer via Java" h2="Lösenordsskydda Excel-kalkylblad inklusive XLSB-format med .NET Library." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSB" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSB" >}}

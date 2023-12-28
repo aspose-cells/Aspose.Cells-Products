@@ -1,8 +1,8 @@
 ---
 title: Slå samman TABDELIMITED till ODS - Kombinera TABDELIMITED till ODS i Java
 url: /sv/java/merger/merge-tabdelimited-to-ods/ 
-description: Aspose Excel. Java Aspose.Cells. Gratis Online Merge TABDELLIMITED till ODS sparaformat. Java Kombinera TABDELLIMITED till ODS format. Slå samman TABDELIMITED till ODS i Java. TABDELIMITED Sammanfoga.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge TABDELIMITED to ODS in Java., Free Online Java Merge TABDELIMITED to ods., Java Combine TABDELIMITED to ODS Online for Free., TABDELIMITED Merge]
+description: Aspose Excel. Java Aspose.Cells. Slå samman TABDELLIMITED till ODS sparaformat. Java Kombinera TABDELLIMITED till ODS format. Slå samman TABDELIMITED till ODS i Java. TABDELIMITED Sammanfoga.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge TABDELIMITED to ODS in Java., Java Merge TABDELIMITED to ods., Java Combine TABDELIMITED to ODS., TABDELIMITED Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Slå samman TABDELLIMITED till ODS via Java" h2="Höghastighetsbibliotek Java för sammanslagning av TABDELLIMITED till ODS. Använd vår excel-konvertering API för att utveckla högnivå, plattformsoberoende programvara i Java. Detta är en professionell mjukvarulösning för att importera och exportera Excel, CSV, OpenOffice, PDF, HTML, image, och många andra excel-format." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="TABDELIMITED" additionalConversionTag="ODS" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Merge TABDELIMITED to ODS in Java.
 
 {{% blocks/products/pf/agp/content h2="Slå samman TABDELLIMITED till ODS med Java" %}}
 
-Hur slår jag ihop TABDELIMITED till ODS? Med Aspose.Cells for Java bibliotek kan du enkelt slå samman TABDELIMITED till ODS programmatiskt med några rader kod.[Aspose.Cells for Java](https://products.aspose.com/cells/java) kan bygga plattformsoberoende applikationer med förmågan att generera, modifiera, konvertera, rendera och skriva ut alla Excel-filer. Java Excel API konverterar inte bara mellan kalkylarksformat, det kan också rendera Excel-filer som bilder, PDF, HTML, ODS, ODS, CSV, 0761687481, 0761687481, vilket gör det till ett perfekt val, Pt utbyta dokument i branschstandard format. Du kan ladda ner den senaste versionen direkt från[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) och installera det i ditt Maven-baserade projekt genom att lägga till följande konfigurationer till pom.xml.
+ Hur slår jag ihop TABDELIMITED till ODS? Med Aspose.Cells for Java bibliotek kan du enkelt slå samman TABDELIMITED till ODS programmatiskt med några rader kod.[Aspose.Cells for Java](https://products.aspose.com/cells/java)kan bygga plattformsoberoende applikationer med förmågan att generera, modifiera, konvertera, rendera och skriva ut alla Excel-filer. Java Excel API konverterar inte bara mellan kalkylarksformat, den kan också rendera Excel-filer som bilder, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT och mer, vilket gör det till ett perfekt val att utbyta dokument i industristandardformat. Du kan ladda ner den senaste versionen direkt från[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) och installera det i ditt Maven-baserade projekt genom att lägga till följande konfigurationer till pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Förvar" offSpacer="true" %}}
 
@@ -45,7 +45,7 @@ Hur slår jag ihop TABDELIMITED till ODS? Med Aspose.Cells for Java bibliotek ka
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Slå samman TABDELIMITED till ODS i Java Online gratis" %}}
+{{% blocks/products/pf/agp/content h2="Slå samman TABDELLIMITED till ODS i Java" %}}
 
 Följande exempel visar hur man slår samman TABDELIMITED till ODS i Aspose.Cells for Java.
 {{% blocks/products/pf/agp/text %}}
@@ -56,7 +56,7 @@ Följ de enkla stegen för att slå samman TABDELIMITED till ODS. Ladda upp dina
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Gratis online för att slå samman TABDELLIMITED till ODS i Java" InputFormat="tsv" InputFormat2="ods" outformat="ods" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="java" %}}
+{{% cells-merger title="Exempelkod för att slå samman TABDELLIMITED till ODS i Java" InputFormat="tsv" InputFormat2="ods" outformat="ods" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="Hur man slår samman TABBELIMITED till ODS via Java" %}}
 

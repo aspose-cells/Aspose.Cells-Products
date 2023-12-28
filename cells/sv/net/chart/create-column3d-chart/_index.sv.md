@@ -1,6 +1,7 @@
 ---
 title: Skapa Column3D-diagram via C#
 description: C# Exempelkod för att skapa Column3D-diagram till Excel med hjälp av .NET Library. Använd den här koden för att skapa ett Column3D-diagram till MS Excel inom VB.NET, Asp.NET eller någon .NET-baserad applikation.
+keywords: [C# Aspose.Cells., c# add Column3D Chart., c# insert Column3D Chart., c# create Column3D Chart]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 

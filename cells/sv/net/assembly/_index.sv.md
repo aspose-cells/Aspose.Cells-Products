@@ -1,6 +1,7 @@
 ---
 title: Generera Excel-filer via C#
 description: Generera Microsoft Excel-kalkylblad från ett mallblad med C#-koden
+keywords: [C# Aspose.Cells., c# Create Reports Based on Predesigned Excel Template., c# Generate Reports Based on Predesigned Excel Template., c# Create Reports Based on Excel Template., C# Generate Reports Based on Excel Template., c# Create Excel files Based on Excel Template., C# Generate Excel files Based on Excel Template]
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
 {{< blocks/products/pf/i18n/feature-page-header h1="Microsoft<sup>&reg;</sup> Skapa Excel-mallbaserade filer via .NET" h2="Generera Excel-filrapporter på basis av en fördefinierad mall inom .NET baserade applikationer" >}}

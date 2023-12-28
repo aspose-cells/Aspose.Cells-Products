@@ -1,8 +1,8 @@
 ---
 title: Συγχώνευση IMAGE στο XLSM - Συνδυάστε το IMAGE στο XLSM στο C#
 url: /el/net/merger/merge-image-to-xlsm/ 
-description: Aspose Excel. C# Aspose.Cells. Δωρεάν Online Συγχώνευση IMAGE σε XLSM saveformat. C# Συνδυάστε το IMAGE σε μορφή XLSM. Συγχώνευση IMAGE στο XLSM στο C#. IMAGE Συγχώνευση.
-keywords: [Aspose Excel., C# Aspose.Cells., Merge IMAGE to XLSM in C#., Free Online C# Merge IMAGE to xlsm., C# Combine IMAGE to XLSM Online for Free., IMAGE Merge]
+description: Aspose Excel. C# Aspose.Cells. Συγχώνευση IMAGE σε μορφή αποθήκευσης XLSM. C# Συνδυάστε το IMAGE σε μορφή XLSM. Συγχώνευση IMAGE στο XLSM στο C#. IMAGE Συγχώνευση.
+keywords: [Aspose Excel., C# Aspose.Cells., Merge IMAGE to XLSM in C#., C# Merge IMAGE to xlsm., C# Combine IMAGE to XLSM., IMAGE Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Συγχώνευση IMAGE στο XLSM μέσω C#" h2="Βιβλιοθήκη υψηλής ταχύτητας C# για συγχώνευση IMAGE με XLSM. Χρησιμοποιήστε τη μετατροπή excel API για να αναπτύξετε λογισμικό υψηλού επιπέδου, ανεξάρτητο από πλατφόρμα στο C#. Αυτή είναι μια επαγγελματική λύση λογισμικού για εισαγωγή και εξαγωγή πολλών άλλων μορφών excel, Excel, CSV, OpenOffice, PDF, HTML, image." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="IMAGE" additionalConversionTag="XLSM" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., C# Aspose.Cells., Merge IMAGE to XLSM in C#., Free Onl
 
 {{% blocks/products/pf/agp/content h2="Συγχώνευση IMAGE στο XLSM χρησιμοποιώντας C#" %}}
 
- Πώς μπορώ να συγχωνεύσω το IMAGE με το XLSM; Με τη βιβλιοθήκη Aspose.Cells for .NET, μπορείτε εύκολα να συγχωνεύσετε το IMAGE στο XLSM μέσω προγραμματισμού με λίγες γραμμές κώδικα.[Aspose.Cells for .NET](https://products.aspose.com/cells/net)έχει τη δυνατότητα δημιουργίας εφαρμογών πολλαπλών πλατφορμών με δυνατότητα δημιουργίας, τροποποίησης, μετατροπής, απόδοσης και εκτύπωσης όλων των αρχείων Excel. .NET Το Excel API όχι μόνο μετατρέπει μεταξύ μορφών υπολογιστικών φύλλων, αλλά μπορεί επίσης να αποδώσει αρχεία Excel ως εικόνες, PDF, HTML, ODS, CSV, 07616031481, CSV, 07616831481, δημιουργώντας περισσότερα τέλεια επιλογή για την ανταλλαγή εγγράφων σε βιομηχανικά πρότυπα μορφές. Ανοιξε[NuGet](https://www.nuget.org/packages/aspose.cells) διαχειριστής πακέτων, αναζητήστε Aspose.Cells και εγκαταστήστε. Μπορείτε επίσης να χρησιμοποιήσετε την ακόλουθη εντολή από την Κονσόλα Package Manager.
+ Πώς μπορώ να συγχωνεύσω το IMAGE με το XLSM; Με τη βιβλιοθήκη Aspose.Cells for .NET, μπορείτε εύκολα να συγχωνεύσετε το IMAGE στο XLSM μέσω προγραμματισμού με λίγες γραμμές κώδικα.[Aspose.Cells for .NET](https://products.aspose.com/cells/net)έχει τη δυνατότητα δημιουργίας εφαρμογών πολλαπλών πλατφορμών με δυνατότητα δημιουργίας, τροποποίησης, μετατροπής, απόδοσης και εκτύπωσης όλων των αρχείων Excel. .NET Το Excel API όχι μόνο μετατρέπει μεταξύ μορφών υπολογιστικών φύλλων, αλλά μπορεί επίσης να αποδώσει αρχεία Excel ως εικόνες, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT και άλλα, καθιστώντας έτσι την τέλεια επιλογή για την ανταλλαγή εγγράφων σε βιομηχανικές τυποποιημένες μορφές. Ανοιξε[NuGet](https://www.nuget.org/packages/aspose.cells) διαχειριστής πακέτων, αναζητήστε Aspose.Cells και εγκαταστήστε. Μπορείτε επίσης να χρησιμοποιήσετε την ακόλουθη εντολή από την Κονσόλα Package Manager.
 
 {{% blocks/products/pf/agp/code-block title="Εντολή κονσόλας διαχείρισης πακέτων" offSpacer="true" %}}
 
@@ -26,7 +26,7 @@ PM> Install-Package Aspose.Cells
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Συγχώνευση IMAGE στο XLSM στο C# Δωρεάν Online" %}}
+{{% blocks/products/pf/agp/content h2="Συγχώνευση IMAGE στο XLSM στο C#" %}}
 
 Το ακόλουθο παράδειγμα δείχνει πώς να συγχωνεύσετε το IMAGE στο XLSM στο Aspose.Cells for .NET.
 {{% blocks/products/pf/agp/text %}}
@@ -37,13 +37,13 @@ PM> Install-Package Aspose.Cells
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Δωρεάν online για συγχώνευση IMAGE στο XLSM στο C#" InputFormat="png" InputFormat2="xlsm" outformat="xlsm" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="net" %}}
+{{% cells-merger title="Δείγμα κώδικα για συγχώνευση IMAGE στο XLSM στο C#" InputFormat="png" InputFormat2="xlsm" outformat="xlsm" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="net" %}}
 
 {{% blocks/products/pf/agp/content h2="Πώς να συγχωνεύσετε το IMAGE στο XLSM μέσω του C#" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- Θέλετε να συγχωνεύσετε το IMAGE στο XLSM μέσω προγραμματισμού; Ένα βασικό έγγραφο που συγχωνεύεται και συνενώνεται με[Aspose.Cells for .NET](https://products.aspose.com/cells/net) Τα API μπορούν να γίνουν με λίγες μόνο γραμμές κώδικα.
+Θέλετε να συγχωνεύσετε το IMAGE στο XLSM μέσω προγραμματισμού; Ένα βασικό έγγραφο που συγχωνεύεται και συνενώνεται με[Aspose.Cells for .NET](https://products.aspose.com/cells/net) Τα API μπορούν να γίνουν με λίγες μόνο γραμμές κώδικα.
 
 {{% /blocks/products/pf/agp/text %}}
 

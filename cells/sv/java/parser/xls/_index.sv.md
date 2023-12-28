@@ -2,6 +2,7 @@
 title:  Extrahera text och bilder från XLS dokument via Java
 weight: 3700
 description: Java exempelkod för att extrahera text och bilder från XLS fil på Java Runtime Environment för JSP/JSF Application och Desktop Applications.
+keywords: [Java Aspose.Cells., Java Extract text and images from XLS file., Java How to Parse XLS File., Java Extract text from XLS file., Extract images from XLS file using Java]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Analysera XLS format i Java" h2="Inbyggd och högpresterande XLS-dokumenttolkning med hjälp av API:er på serversidan Aspose.Cells for Java, utan användning av någon programvara som Microsoft eller Adobe PDF." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="XLS" >}}
@@ -63,7 +64,7 @@ description: Java exempelkod för att extrahera text och bilder från XLS fil p�
 + Välj det begärda arket med metoden getWorksheets().get.
 + Hämta alla celler i det valda arket med getCells().
 + Iterera över varje cell, hämta dess text .
-Skriv ut varje cellvärde eller använd StringBuilder append()-metoden för att se som en helhet
++ Skriv ut varje cellvärde eller använd StringBuilder append()-metoden för att se som en helhet
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

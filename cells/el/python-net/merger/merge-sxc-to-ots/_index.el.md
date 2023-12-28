@@ -1,8 +1,8 @@
 ---
 title: Συγχώνευση SXC σε OTS - Συνδυάστε το SXC σε OTS στο Python
 url: /el/python-net/merger/merge-sxc-to-ots/ 
-description: Aspose Excel. Python Aspose.Cells. Δωρεάν online συγχώνευση SXC σε μορφή αποθήκευσης OTS. Python Συνδυάστε το SXC σε μορφή OTS. Συγχώνευση SXC στο OTS στο Python. SXC Συγχώνευση.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge SXC to OTS in Python., Free Online Python Merge SXC to ots., Python Combine SXC to OTS Online for Free., SXC Merge]
+description: Aspose Excel. Python Aspose.Cells. Συγχώνευση SXC σε μορφή αποθήκευσης OTS. Python Συνδυάστε το SXC σε μορφή OTS. Συγχώνευση SXC στο OTS στο Python. SXC Συγχώνευση.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge SXC to OTS in Python., Python Merge SXC to ots., Python Combine SXC to OTS., SXC Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Συγχώνευση SXC στο OTS μέσω Python" h2="Βιβλιοθήκη υψηλής ταχύτητας Python για συγχώνευση SXC με OTS. Χρησιμοποιήστε τη μετατροπή excel API για να αναπτύξετε λογισμικό υψηλού επιπέδου, ανεξάρτητο από πλατφόρμα στο Python. Αυτή είναι μια επαγγελματική λύση λογισμικού για την εισαγωγή και εξαγωγή του Excel, CSV, OpenOffice, PDF, HTML, image και πολλών άλλων μορφών excel." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="SXC" additionalConversionTag="OTS" pfName="Aspose.Cells" subTitlepfName="for Python" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -12,12 +12,12 @@ keywords: [Aspose Excel., Python Aspose.Cells., Merge SXC to OTS in Python., Fre
 
 {{% blocks/products/pf/agp/content h2="Συγχώνευση SXC σε OTS χρησιμοποιώντας Python" %}}
 
- Πώς μπορώ να συγχωνεύσω το SXC με το OTS; Με τη βιβλιοθήκη Aspose.Cells for Python via .NET, μπορείτε εύκολα να συγχωνεύσετε το SXC στο OTS μέσω προγραμματισμού με λίγες γραμμές κώδικα.[Aspose.Cells for Python via .NET](https://pypi.org/project/aspose-cells-python)έχει τη δυνατότητα δημιουργίας εφαρμογών πολλαπλών πλατφορμών με δυνατότητα δημιουργίας, τροποποίησης, μετατροπής, απόδοσης και εκτύπωσης όλων των αρχείων Excel. Python Το Excel API όχι μόνο μετατρέπει μεταξύ μορφών υπολογιστικών φύλλων, αλλά μπορεί επίσης να αποδώσει αρχεία Excel ως εικόνες, PDF, HTML, ODS, CSV, 07616031481, CSV, 07616831481, δημιουργώντας περισσότερα τέλεια επιλογή για την ανταλλαγή εγγράφων σε βιομηχανικά πρότυπα μορφές. Μπορείτε να εγκαταστήσετε το Aspose.Cells for Python via .NET από<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , χρησιμοποιήστε την εντολή ως:<code>$ pip install aspose-cells-python</code>.
+ Πώς μπορώ να συγχωνεύσω το SXC με το OTS; Με τη βιβλιοθήκη Aspose.Cells for Python via .NET, μπορείτε εύκολα να συγχωνεύσετε το SXC στο OTS μέσω προγραμματισμού με λίγες γραμμές κώδικα.[Aspose.Cells for Python via .NET](https://pypi.org/project/aspose-cells-python) έχει τη δυνατότητα δημιουργίας εφαρμογών πολλαπλών πλατφορμών με δυνατότητα δημιουργίας, τροποποίησης, μετατροπής, απόδοσης και εκτύπωσης όλων των αρχείων Excel. Python Το Excel API όχι μόνο μετατρέπει μεταξύ μορφών υπολογιστικών φύλλων, αλλά μπορεί επίσης να αποδώσει αρχεία Excel ως εικόνες, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT και άλλα, καθιστώντας έτσι την τέλεια επιλογή για την ανταλλαγή εγγράφων σε βιομηχανικές τυποποιημένες μορφές. Μπορείτε να εγκαταστήσετε το Aspose.Cells for Python via .NET από<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , χρησιμοποιήστε την εντολή ως:<code>$ pip install aspose-cells-python</code>.
 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Συγχώνευση SXC στο OTS στο Python Δωρεάν Online" %}}
+{{% blocks/products/pf/agp/content h2="Συγχώνευση SXC στο OTS στο Python" %}}
 
 Το ακόλουθο παράδειγμα δείχνει πώς να συγχωνεύσετε το SXC με το OTS στο Aspose.Cells for Python via .NET.
 {{% blocks/products/pf/agp/text %}}
@@ -28,13 +28,13 @@ keywords: [Aspose Excel., Python Aspose.Cells., Merge SXC to OTS in Python., Fre
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Δωρεάν online για συγχώνευση SXC στο OTS στο Python" InputFormat="sxc" InputFormat2="ots" outformat="ots" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-merger title="Δείγμα κωδικού για συγχώνευση SXC στο OTS στο Python" InputFormat="sxc" InputFormat2="ots" outformat="ots" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="Πώς να συγχωνεύσετε το SXC στο OTS μέσω του Python" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
-Θέλετε να συγχωνεύσετε το SXC με το OTS μέσω προγραμματισμού; Ένα βασικό έγγραφο που συγχωνεύεται και συνενώνεται με[Aspose.Cells for Python via .NET](https://products.aspose.com/cells/python-net) Τα API μπορούν να γίνουν με λίγες μόνο γραμμές κώδικα.
+ Θέλετε να συγχωνεύσετε το SXC με το OTS μέσω προγραμματισμού; Ένα βασικό έγγραφο που συγχωνεύεται και συνενώνεται με[Aspose.Cells for Python via .NET](https://products.aspose.com/cells/python-net) Τα API μπορούν να γίνουν με λίγες μόνο γραμμές κώδικα.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -52,7 +52,7 @@ keywords: [Aspose Excel., Python Aspose.Cells., Merge SXC to OTS in Python., Fre
 Φιλοξενούμε τα πακέτα μας Python στα αποθετήρια PyPi.
 
 {{% blocks/products/pf/agp/text %}}
-Εγκαταστήστε το Aspose.Cells for Python από<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , χρησιμοποιήστε την εντολή ως:<code>$ pip install aspose-cells-python</code>.
+ Εγκαταστήστε το Aspose.Cells for Python από<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , χρησιμοποιήστε την εντολή ως:<code>$ pip install aspose-cells-python</code>.
 {{% /blocks/products/pf/agp/text %}}
 
 {{% blocks/products/pf/agp/text %}}
@@ -72,7 +72,7 @@ keywords: [Aspose Excel., Python Aspose.Cells., Merge SXC to OTS in Python., Fre
 {{% /blocks/products/pf/agp/text %}}
 
 -  Εγκαθιστώ[Python](https://www.python.org/downloads/) 3,7 ή υψηλότερο.
-- Εγκαταστήστε το Aspose.Cells for Python από<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , χρησιμοποιήστε την εντολή ως:<code>$ pip install aspose-cells-python</code>.
+-  Εγκαταστήστε το Aspose.Cells for Python από<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , χρησιμοποιήστε την εντολή ως:<code>$ pip install aspose-cells-python</code>.
 
 
 {{% /blocks/products/pf/agp/content %}}

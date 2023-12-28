@@ -2,6 +2,7 @@
 title:  Infoga Oval i Excel med Python via .Net
 weight: 10
 description: Python via .Net-källkod för att infoga Oval i Excel.
+keywords: [Python Aspose.Cells., Python add Oval shape., Python insert Oval shape., Python create Oval shape]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Infoga Oval i Excel med Python via .Net" h2="Infoga oval med Aspose.Cells\' API utan någon programvara som Microsoft eller Open Office, Adobe PDF, etc." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="" pfName="Aspose.Cells" subTitlepfName="for Python via .NET" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="XLSX" >}}
@@ -13,7 +14,7 @@ description: Python via .Net-källkod för att infoga Oval i Excel.
 
  För att infoga Oval i excel-filen använder vi
  [Aspose.Cells for Python via .Net](https://pypi.org/project/aspose-cells-python/) 
-API som är en funktionsrik, kraftfull och lättanvänd dokumenthantering API for Python via .Net-plattformen. API tillhandahåller Excel-filskapande, manipulering, konvertering och rendering. Allt utan att förlita sig på Microsoft Office- eller Excel-program. Du kan installera från konsolen med följande kommando.
+ API som är en funktionsrik, kraftfull och lättanvänd dokumenthantering API for Python via .Net-plattformen. API tillhandahåller Excel-filskapande, manipulering, konvertering och rendering. Allt utan att förlita sig på Microsoft Office- eller Excel-program. Du kan installera från konsolen med följande kommando.
 
 {{% blocks/products/pf/agp/code-block title="Kommando" offSpacer="true" %}}
 
@@ -37,9 +38,9 @@ Du behöver Aspose.Cells för att prova följande arbetsflöde i din egen miljö
 
 {{% /blocks/products/pf/agp/text %}}
 
-Instantiera ett arbetsboksobjekt.(eller->Läs in XLSX-filen med fullständig sökväg.)
++ Instantiera ett arbetsboksobjekt.(eller->Läs in XLSX-filen med fullständig sökväg.)
 + Välj kalkylblad via dess index.
- + Använd formkollektionens tillägg[metod](https://reference.aspose.com/cells/python-net/aspose.cells.drawing/shapecollection/add_oval/#int-int-int-int-int-int) för att infoga en oval i det valda arbetsbladet.
+ + Använd formkollektionens tillägg[metod](https://reference.aspose.com/cells/python-net/aspose.cells.drawing/shapecollection/add_oval/#int-int-int-int-int-int)för att infoga en oval i det valda arbetsbladet.
 + Spara arbetsboken i XLSX-format.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
@@ -80,7 +81,7 @@ Aspose.Cells API som kan bygga plattformsoberoende applikationer, kan användas 
 
 <!-- aboutfile Ends -->
 <!--
-{{< blocks/products/pf/agp/other-supported-section title="Other Supported Splitting Formats" subTitle="Using C#, One can also split large file into chunks of many other file formats including." >}}
+{{< blocks/products/pf/agp/other-supported-section title="Other Supported Splitting Formats" subTitle="Using Python, One can also split large file into chunks of many other file formats including." >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/splitter/ods/" name="ODS" description="OpenDocument Spreadsheet File" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/splitter/xls/" name="XLS" description="Excel Binary Format" >}}

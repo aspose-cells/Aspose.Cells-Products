@@ -1,7 +1,7 @@
 ---
-title: Java OTS till XLTM - Online OTS till XLTM Converter
-description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Gratis Online Java Konvertera OTS till XLTM saveformat. Java OTS till XLTM format. Spara OTS till XLTM Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java OTS to XLTM saveformat., Free Online OTS to XLTM Java., Java Convert OTS to XLTM]
+title: Java OTS till XLTM - OTS till XLTM Converter
+description: Aspose Excel. Konvertera OTS till XLTM snabbt och enkelt med Aspose.Cells. Java OTS till XLTM. Java Spara OTS till XLTM. Spara OTS som XLTM med 304818.
+keywords: [Aspose Excel., Java Aspose.Cells., Convert OTS to XLTM in Java., Save OTS to XLTM using Java., Java OTS to XLTM saveformat., OTS to XLTM Converter., Java Save OTS as XLTM]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Konvertera OTS till XLTM till Java" h2="Höghastighetsbibliotek Java för konvertering av OTS till XLTM. Detta är en professionell mjukvarulösning för att importera och exportera OTS, XLTM och många andra format med Java." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLTM" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java OTS to XL
 
 {{% blocks/products/pf/agp/content h2="Konvertera OTS till XLTM med Java" %}}
 
- Hur konverterar jag OTS till XLTM? Med Aspose.Cells for Java bibliotek kan du enkelt konvertera OTS till XLTM programmatiskt med några rader kod.[Aspose.Cells for Java](https://products.aspose.com/cells/java) kan bygga plattformsoberoende applikationer med förmågan att generera, modifiera, konvertera, rendera och skriva ut alla Excel-filer. Java Excel API konverterar inte bara mellan kalkylarksformat, det kan också rendera Excel-filer som bilder, PDF, HTML, ODS, ODS, CSV, 0761687481, 0761687481, vilket gör det till ett perfekt val, Pt utbyta dokument i branschstandard format. Du kan ladda ner den senaste versionen direkt från[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) och installera det i ditt Maven-baserade projekt genom att lägga till följande konfigurationer till pom.xml.
+ Hur konverterar jag OTS till XLTM? Med Aspose.Cells for Java bibliotek kan du enkelt konvertera OTS till XLTM programmatiskt med några rader kod.[Aspose.Cells for Java](https://products.aspose.com/cells/java)kan bygga plattformsoberoende applikationer med förmågan att generera, modifiera, konvertera, rendera och skriva ut alla Excel-filer. Java Excel API konverterar inte bara mellan kalkylarksformat, den kan också rendera Excel-filer som bilder, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT och mer, vilket gör det till ett perfekt val att utbyta dokument i industristandardformat. Du kan ladda ner den senaste versionen direkt från[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) och installera det i ditt Maven-baserade projekt genom att lägga till följande konfigurationer till pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Förvar" offSpacer="true" %}}
 
@@ -45,7 +45,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java OTS to XL
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Spara OTS till XLTM i Java online gratis" %}}
+{{% blocks/products/pf/agp/content h2="Spara OTS till XLTM på Java" %}}
 
 Följande exempel visar hur man konverterar OTS till XLTM i Java.
 {{% blocks/products/pf/agp/text %}}
@@ -56,7 +56,7 @@ Följ de enkla stegen för att konvertera OTS till XLTM. Ladda upp din OTS-fil o
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Gratis app och provkod för att konvertera OTS till XLTM online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="ots" outformat="xltm" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Exempelkod för att konvertera OTS till XLTM" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="ots" outformat="xltm" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="Hur man konverterar OTS till XLTM via Java" %}}
 

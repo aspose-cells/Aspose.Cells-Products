@@ -2,6 +2,7 @@
 title:  Infoga bildtexter i Excel via C++
 weight: 810
 description: C++ exempelkod för att infoga bildtexter i Excel-fil på C++ Runtime Environment för Windows 32 bitar, Windows 64 bitar och Linux 64 bitar.
+keywords: [C++ Aspose.Cells., C++ add Callouts shape., C++ insert Callouts shape., C++ create Callouts shape]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Infoga bildtexter i Excel via C++" h2="Infoga objekt med den inbyggda och höga prestanda på serversidan Aspose.Cells for C++ API utan att använda någon programvara som Microsoft eller Adobe PDF." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" sourceAdditionalConversionTag="" additionalConversionTag="" pfName="Aspose.Cells" subTitlepfName="for C++" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="XLSX" >}}
@@ -35,9 +36,9 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% blocks/products/pf/agp/feature-section-col title="Steg för att infoga bildtexter i Excel-fil via C++" %}}
 
-Instantiera ett arbetsboksobjekt.(eller->Läs in XLSX-filen med fullständig sökväg.)
++ Instantiera ett arbetsboksobjekt.(eller->Läs in XLSX-filen med fullständig sökväg.)
 + Välj kalkylblad via dess index.
- + Använd[lägga till metod](https://reference.aspose.com/cells/cpp/class/aspose.cells.drawing.i_shape_collection#ab8156e8562724f9a597b7d2bc503cd4d) för att infoga ekvationsformer i det valda kalkylbladet
+ + Använd[lägga till metod](https://reference.aspose.com/cells/cpp/aspose.cells.drawing/shapecollection/addautoshape/) för att infoga ekvationsformer i det valda kalkylbladet
 + Spara arbetsboken i XLSX-format.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
@@ -63,7 +64,7 @@ Exempelkoden nedan visar hur man infogar en "Thought Bubble: Cloud". För fler t
 
 {{% blocks/products/pf/agp/code-block title="Infoga bildtexter - C++" offSpacer="" %}}
 
-{{< gist "aspose-cells-gists" "6f7d9819d85793c3a3b5d040af42e1a9" "InsertCalloutsIntoWorksheet.cpp" >}}
+{{< gist "aspose-cells-gists" "6f7d9819d85793c3a3b5d040af42e1a9" "InsertCalloutsIntoWorksheet-new.cpp" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 
@@ -73,7 +74,7 @@ Exempelkoden nedan visar hur man infogar en "Thought Bubble: Cloud". För fler t
  <div class="row">
   <div class="container">
    <h2 class="pr-ft">
-Översikt över bildtexttyper
+ Översikt över bildtexttyper
    </h2>
    <div class="col-lg-4">
     <img src="/cells/net/shapes/insert-callouts-to-excel/speech_bubble_rectangle.png" align="left" width="28" height="28">
@@ -182,7 +183,7 @@ Exempelkoden nedan visar hur man infogar en "Thought Bubble: Cloud". För fler t
 
 {{% blocks/products/pf/agp/content h2="Om Aspose.Cells for C++ API" %}}
 
- Aspose.Cells API kan användas för att skapa, redigera, konvertera och rendera Microsoft Excel-format till olika format. Dessutom kan den användas för omfattande kartläggning, skalbar rapportering och tillförlitliga beräkningar inom mjukvaruapplikationer. Aspose.Cells är en fristående API och den kräver ingen programvara som Microsoft eller OpenOffice.
+Aspose.Cells API kan användas för att skapa, redigera, konvertera och rendera Microsoft Excel-format till olika format. Dessutom kan den användas för omfattande kartläggning, skalbar rapportering och tillförlitliga beräkningar inom mjukvaruapplikationer. Aspose.Cells är en fristående API och den kräver ingen programvara som Microsoft eller OpenOffice.
 
 {{% /blocks/products/pf/agp/content %}}
 

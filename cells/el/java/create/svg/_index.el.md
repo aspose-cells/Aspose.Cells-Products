@@ -1,7 +1,7 @@
 ---
 title: Δημιουργία SVG - Δημιουργία αρχείου SVG στο Java
-description: Aspose Excel. Java Δημιουργία αρχείου SVG. Δημιουργία SVG Java. Java SVG Δημιουργός. Δημιουργήστε το SVG στο Java. Δημιουργήστε το αρχείο SVG χρησιμοποιώντας το Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Create SVG Java., Java SVG Creater., Create SVG file in Java., Generate SVG file in Java]
+description: Aspose Excel. Java Δημιουργία SVG Αρχειοθέτηση γρήγορα και εύκολα με το Aspose.Cells. Δημιουργήστε το αρχείο SVG χρησιμοποιώντας το Java. Δημιουργήστε το SVG στο Java. 0714074.
+keywords: [Aspose Excel., Java Aspose.Cells., Java Create SVG file., Generate SVG file in Java., Create SVG file using Java., Write data to SVG file via Java., Create a SVG file in Java., Java Generate a SVG file., Java SVG Creater]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Δημιουργήστε αρχείο SVG στο Java" h2="Βιβλιοθήκη υψηλής ταχύτητας Java για τη δημιουργία αρχείου SVG. Αυτή είναι μια επαγγελματική λύση λογισμικού για εισαγωγή και εξαγωγή XLSX, PDF και πολλών άλλων μορφών χρησιμοποιώντας το Java." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="SVG" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -11,7 +11,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Create SVG Java., Java SVG Creater
 
 {{% blocks/products/pf/agp/content h2="Δημιουργήστε το αρχείο SVG χρησιμοποιώντας το Java" %}}
 
- Πώς να δημιουργήσετε το αρχείο SVG; Με τη βιβλιοθήκη Aspose.Cells for Java, μπορείτε εύκολα να δημιουργήσετε το αρχείο SVG μέσω προγραμματισμού με μερικές γραμμές κώδικα.[Aspose.Cells for Java](https://products.aspose.com/cells/java) έχει τη δυνατότητα δημιουργίας εφαρμογών πολλαπλών πλατφορμών με δυνατότητα δημιουργίας, τροποποίησης, μετατροπής, απόδοσης και εκτύπωσης όλων των αρχείων Excel. Java Το Excel API όχι μόνο μετατρέπει μεταξύ μορφών υπολογιστικών φύλλων, αλλά μπορεί επίσης να αποδώσει αρχεία Excel ως εικόνες, PDF, HTML, ODS, CSV, 07616031481, CSV, 07616831481, δημιουργώντας περισσότερα τέλεια επιλογή για την ανταλλαγή εγγράφων σε βιομηχανικά πρότυπα μορφές. Μπορείτε να κατεβάσετε την τελευταία του έκδοση απευθείας από[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) και εγκαταστήστε το στο έργο σας που βασίζεται στο Maven προσθέτοντας τις ακόλουθες διαμορφώσεις στο pom.xml.
+ Πώς να δημιουργήσετε το αρχείο SVG; Με τη βιβλιοθήκη Aspose.Cells for Java, μπορείτε εύκολα να δημιουργήσετε το αρχείο SVG μέσω προγραμματισμού με μερικές γραμμές κώδικα.[Aspose.Cells for Java](https://products.aspose.com/cells/java)έχει τη δυνατότητα δημιουργίας εφαρμογών πολλαπλών πλατφορμών με δυνατότητα δημιουργίας, τροποποίησης, μετατροπής, απόδοσης και εκτύπωσης όλων των αρχείων Excel. Java Το Excel API όχι μόνο μετατρέπει μεταξύ μορφών υπολογιστικών φύλλων, αλλά μπορεί επίσης να αποδώσει αρχεία Excel ως εικόνες, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT και άλλα, καθιστώντας έτσι την τέλεια επιλογή για την ανταλλαγή εγγράφων σε βιομηχανικές τυποποιημένες μορφές. Μπορείτε να κατεβάσετε την τελευταία του έκδοση απευθείας από[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) και εγκαταστήστε το στο έργο σας που βασίζεται στο Maven προσθέτοντας τις ακόλουθες διαμορφώσεις στο pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Αποθήκη" offSpacer="true" %}}
 
@@ -57,7 +57,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Create SVG Java., Java SVG Creater
 1.  Δημιουργήστε ένα παράδειγμα του[Τάξη βιβλίου εργασίας](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook).
 1.  Αποκτήστε πρόσβαση στο σχετικό φύλλο εργασίας χρησιμοποιώντας τη μέθοδο getWorksheets.get().
 1.  Επιλέξτε το σχετικό κελί, εισαγάγετε την τιμή στο επιθυμητό κελί χρησιμοποιώντας το όνομα κελιού, όπως A1, B3, κ.λπ.
-1.  Αποθηκεύστε το βιβλίο εργασίας σε μορφή SVG χρησιμοποιώντας τη μέθοδο save().
+1. Αποθηκεύστε το βιβλίο εργασίας σε μορφή SVG χρησιμοποιώντας τη μέθοδο save().
 
 {{% blocks/products/pf/agp/code-block title="Το δείγμα κώδικα δείχνει πώς να δημιουργήσετε το αρχείο SVG στο Java." offSpacer="" %}}
 
@@ -101,7 +101,7 @@ wkb.save("Excel.svg");
 
 {{% blocks/products/pf/agp/text %}}
 
-Πριν εκτελέσετε το δείγμα πηγαίου κώδικα μετατροπής Java, βεβαιωθείτε ότι διαθέτετε τις ακόλουθες προϋποθέσεις.
+ Πριν εκτελέσετε το δείγμα πηγαίου κώδικα μετατροπής Java, βεβαιωθείτε ότι διαθέτετε τις ακόλουθες προϋποθέσεις.
 
 {{% /blocks/products/pf/agp/text %}}
 

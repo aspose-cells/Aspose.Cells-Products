@@ -1,7 +1,7 @@
 ---
-title: C++ OTS till OTS - Online OTS till OTS Converter
-description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. Gratis Online C++ Konvertera OTS till OTS saveformat. C++ OTS till OTS-format. Spara OTS till OTS C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ OTS to OTS saveformat., Free Online OTS to OTS C++., C++ Convert OTS to OTS]
+title: C++ OTS till OTS - OTS till OTS-omvandlare
+description: Aspose Excel. Konvertera OTS till OTS snabbt och enkelt med Aspose.Cells. C++ OTS till OTS. C++ Spara OTS till OTS. Spara OTS som OTS med C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., Convert OTS to OTS in C++., Save OTS to OTS using C++., C++ OTS to OTS saveformat., OTS to OTS Converter., C++ Save OTS as OTS]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Konvertera OTS till OTS i C++" h2="Högpresterande OTS till OTS-konvertering med C++-biblioteket utan behov av Microsoft Excel, OpenOffice eller Adobe Acrobat-installation." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" sourceAdditionalConversionTag="" additionalConversionTag="OTS" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ OTS to OTS s
 
 {{% blocks/products/pf/agp/content h2="Konvertera OTS till OTS med C++" %}}
 
- Hur konverterar jag OTS till OTS? Med Aspose.Cells for C++ bibliotek kan du enkelt konvertera OTS till OTS programmatiskt med några rader kod.[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) kan bygga plattformsoberoende applikationer med förmågan att generera, modifiera, konvertera, rendera och skriva ut alla Excel-filer. C++ Excel API konverterar inte bara mellan kalkylarksformat, det kan också rendera Excel-filer som bilder, PDF, HTML, ODS, ODS, CSV, 0761687481, 0761687481, vilket gör det till ett perfekt val, Pt utbyta dokument i branschstandard format. Du kan ladda ner den senaste versionen direkt, bara öppna[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) pakethanteraren, sök efter Aspose.Cells.Cpp och installera. Du kan också använda följande kommando från Package Manager Console.
+ Hur konverterar jag OTS till OTS? Med Aspose.Cells for C++ bibliotek kan du enkelt konvertera OTS till OTS programmatiskt med några rader kod.[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) kan bygga plattformsoberoende applikationer med förmågan att generera, modifiera, konvertera, rendera och skriva ut alla Excel-filer. C++ Excel API konverterar inte bara mellan kalkylarksformat, den kan också rendera Excel-filer som bilder, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT och mer, vilket gör det till ett perfekt val att utbyta dokument i industristandardformat. Du kan ladda ner den senaste versionen direkt, bara öppna[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) pakethanteraren, sök efter Aspose.Cells.Cpp och installera. Du kan också använda följande kommando från Package Manager Console.
 
 {{% blocks/products/pf/agp/code-block title="Kommando" offSpacer="true" %}}
 
@@ -26,7 +26,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Spara OTS till OTS på C++ Online gratis" %}}
+{{% blocks/products/pf/agp/content h2="Spara OTS till OTS på C++" %}}
 
 Följande exempel visar hur man konverterar OTS till OTS i C++.
 {{% blocks/products/pf/agp/text %}}
@@ -37,7 +37,7 @@ Följ de enkla stegen för att konvertera OTS till OTS. Ladda upp din OTS-fil oc
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Gratis app och provkod för att konvertera OTS till OTS Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="ots" outformat="ots" IsLandingPage="true" language="cpp" %}}
+{{% cells-convert title="Exempelkod för att konvertera OTS till OTS" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="ots" outformat="ots" IsLandingPage="true" language="cpp" %}}
 
 {{% blocks/products/pf/agp/content h2="Hur man konverterar OTS till OTS via C++" %}}
 
@@ -49,8 +49,8 @@ Behöver du konvertera OTS-filer till OTS programmatiskt? C++-utvecklare kan enk
 
 1.  Installera 'Aspose.Cells for C++'.
 1.  Lägg till en biblioteksreferens (importera biblioteket) till ditt C++-projekt.
-1.  Ladda OTS-fil med Factory::CreateIWorkbook.
-1. Konvertera OTS till OTS genom att anropa metoden Save().
+1.  Ladda OTS-fil med arbetsbok.
+1.  Konvertera OTS till OTS genom att anropa metoden Save().
 1.  Få konverteringsresultatet från OTS till OTS.
 
 {{% /blocks/products/pf/agp/content %}}
@@ -101,7 +101,6 @@ Det finns tre alternativ för att installera "Aspose.Cells for C++" på ditt sys
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/ots-to-pdf/" name="OTS TILL PDF" description="Portabelt dokumentformat" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/ots-to-png/" name="OTS TILL PNG" description="Bärbar nätverksgrafik" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/ots-to-svg/" name="OTS TILL SVG" description="Skalbar vektorgrafik" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/ots-to-tiff/" name="OTS TILL TIFF" description="Taggad bildformat" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/ots-to-tsv/" name="OTS TILL TSV" description="Tab-separerade värden" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/ots-to-txt/" name="OTS TILL TXT" description="Textdokument" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/ots-to-xls/" name="OTS TILL XLS" description="Excel binärt format" >}}

@@ -1,7 +1,7 @@
 ---
-title: Java OTS till XLTX - Online OTS till XLTX Converter
-description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Gratis Online Java Konvertera OTS till XLTX saveformat. Java OTS till XLTX format. Spara OTS till XLTX Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java OTS to XLTX saveformat., Free Online OTS to XLTX Java., Java Convert OTS to XLTX]
+title: Java OTS till XLTX - OTS till XLTX Converter
+description: Aspose Excel. Konvertera OTS till XLTX snabbt och enkelt med Aspose.Cells. Java OTS till XLTX. Java Spara OTS till XLTX. Spara OTS som XLTX med 304818.
+keywords: [Aspose Excel., Java Aspose.Cells., Convert OTS to XLTX in Java., Save OTS to XLTX using Java., Java OTS to XLTX saveformat., OTS to XLTX Converter., Java Save OTS as XLTX]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Konvertera OTS till XLTX till Java" h2="Höghastighetsbibliotek Java för konvertering av OTS till XLTX. Detta är en professionell mjukvarulösning för att importera och exportera OTS, XLTX och många andra format med Java." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLTX" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java OTS to XL
 
 {{% blocks/products/pf/agp/content h2="Konvertera OTS till XLTX med Java" %}}
 
- Hur konverterar jag OTS till XLTX? Med Aspose.Cells for Java bibliotek kan du enkelt konvertera OTS till XLTX programmatiskt med några rader kod.[Aspose.Cells for Java](https://products.aspose.com/cells/java) kan bygga plattformsoberoende applikationer med förmågan att generera, modifiera, konvertera, rendera och skriva ut alla Excel-filer. Java Excel API konverterar inte bara mellan kalkylarksformat, det kan också rendera Excel-filer som bilder, PDF, HTML, ODS, ODS, CSV, 0761687481, 0761687481, vilket gör det till ett perfekt val, Pt utbyta dokument i branschstandard format. Du kan ladda ner den senaste versionen direkt från[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) och installera det i ditt Maven-baserade projekt genom att lägga till följande konfigurationer till pom.xml.
+ Hur konverterar jag OTS till XLTX? Med Aspose.Cells for Java bibliotek kan du enkelt konvertera OTS till XLTX programmatiskt med några rader kod.[Aspose.Cells for Java](https://products.aspose.com/cells/java)kan bygga plattformsoberoende applikationer med förmågan att generera, modifiera, konvertera, rendera och skriva ut alla Excel-filer. Java Excel API konverterar inte bara mellan kalkylarksformat, den kan också rendera Excel-filer som bilder, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT och mer, vilket gör det till ett perfekt val att utbyta dokument i industristandardformat. Du kan ladda ner den senaste versionen direkt från[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) och installera det i ditt Maven-baserade projekt genom att lägga till följande konfigurationer till pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Förvar" offSpacer="true" %}}
 
@@ -45,7 +45,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java OTS to XL
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Spara OTS till XLTX i Java online gratis" %}}
+{{% blocks/products/pf/agp/content h2="Spara OTS till XLTX på Java" %}}
 
 Följande exempel visar hur man konverterar OTS till XLTX i Java.
 {{% blocks/products/pf/agp/text %}}
@@ -56,7 +56,7 @@ Följ de enkla stegen för att konvertera OTS till XLTX. Ladda upp din OTS-fil o
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Gratis app och provkod för att konvertera OTS till XLTX online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="ots" outformat="xltx" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Exempelkod för att konvertera OTS till XLTX" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="ots" outformat="xltx" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="Hur man konverterar OTS till XLTX via Java" %}}
 

@@ -2,6 +2,7 @@
 title:  Ξεκλείδωμα XLSM έγγραφο via Java
 weight: 7700
 description: Java δείγμα κώδικα για ξεκλείδωμα αρχείου XLSM με προστασία κωδικού πρόσβασης στο Java Περιβάλλον χρόνου εκτέλεσης για εφαρμογές JSP/JSF και εφαρμογές επιφάνειας εργασίας.
+keywords: [Java Aspose.Cells., Java unlock XLSM files., Java how to unlock XLSM document., Java unprotect XLSM files., remove protection from XLSM files., decrypt XLSM Files using Java]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Ξεκλείδωμα XLSM Αρχεία via Java" h2="Καταργήστε την προστασία από υπολογιστικά φύλλα Excel, συμπεριλαμβανομένου του αρχείου XLSM χρησιμοποιώντας τη Βιβλιοθήκη Java." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSM" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSM" >}}
@@ -73,7 +74,7 @@ description: Java δείγμα κώδικα για ξεκλείδωμα αρχε
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Ξεκλειδώστε τα αρχεία XLSM μέσω του C#" offSpacer="" %}}
+{{% blocks/products/pf/agp/code-block title="Ξεκλείδωμα XLSM Αρχεία via Java" offSpacer="" %}}
 
 ```cs
 

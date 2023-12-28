@@ -31,7 +31,7 @@ PM> Install-Package Aspose.Cells
 
 {{% blocks/products/pf/agp/text %}}
 
-Ett grundläggande dokument som sammanfogas och sammanfogas med[Aspose.Cells for .NET](https://products.aspose.com/cells/net) API:er kan göras med bara några rader kod.
+ Ett grundläggande dokument som sammanfogas och sammanfogas med[Aspose.Cells for .NET](https://products.aspose.com/cells/net) API:er kan göras med bara några rader kod.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -67,7 +67,7 @@ Ett grundläggande dokument som sammanfogas och sammanfogas med[Aspose.Cells for
             {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Du behöver inte ladda ner Aspose API." >}}
             {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Du behöver inte skriva någon kod." >}}
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Ladda bara upp dina ODS-filer." >}}
-            {{< blocks/products/pf/agp/democard icon="fa-download" text="Det kommer att slås samman och sammanfogas direkt." >}}
+            {{< blocks/products/pf/agp/democard icon="fa-download" text=" Det kommer att slås samman och sammanfogas direkt." >}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
 

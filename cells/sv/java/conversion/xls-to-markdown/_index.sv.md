@@ -1,7 +1,7 @@
 ---
-title: Java XLS till MARKDOWN - Online XLS till MARKDOWN Converter
-description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Gratis Online Java Konvertera XLS till MARKDOWN sparaformat. Java XLS till MARKDOWN format. Spara XLS till MARKDOWN Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java XLS to MARKDOWN saveformat., Free Online XLS to MARKDOWN Java., Java Convert XLS to MARKDOWN]
+title: Java XLS till MARKDOWN - XLS till MARKDOWN Omvandlare
+description: Aspose Excel. Konvertera XLS till MARKDOWN snabbt och enkelt med Aspose.Cells. Java XLS till MARKDOWN. Java Spara XLS till 07611 till 07161. 07611 till 07161. 3481 med Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Convert XLS to MARKDOWN in Java., Save XLS to MARKDOWN using Java., Java XLS to MARKDOWN saveformat., XLS to MARKDOWN Converter., Java Save XLS as MARKDOWN]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Konvertera XLS till MARKDOWN till Java" h2="Höghastighetsbibliotek Java för att konvertera XLS till MARKDOWN. Detta är en professionell mjukvarulösning för att importera och exportera XLS, MARKDOWN och många andra format med Java." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="MARKDOWN" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java XLS to MA
 
 {{% blocks/products/pf/agp/content h2="Konvertera XLS till MARKDOWN med Java" %}}
 
-Hur konverterar jag XLS till MARKDOWN? Med Aspose.Cells for Java bibliotek kan du enkelt konvertera XLS till MARKDOWN programmatiskt med några rader kod.[Aspose.Cells for Java](https://products.aspose.com/cells/java) kan bygga plattformsoberoende applikationer med förmågan att generera, modifiera, konvertera, rendera och skriva ut alla Excel-filer. Java Excel API konverterar inte bara mellan kalkylarksformat, det kan också rendera Excel-filer som bilder, PDF, HTML, ODS, ODS, CSV, 0761687481, 0761687481, vilket gör det till ett perfekt val, Pt utbyta dokument i branschstandard format. Du kan ladda ner den senaste versionen direkt från[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) och installera det i ditt Maven-baserade projekt genom att lägga till följande konfigurationer till pom.xml.
+Hur konverterar jag XLS till MARKDOWN? Med Aspose.Cells for Java bibliotek kan du enkelt konvertera XLS till MARKDOWN programmatiskt med några rader kod.[Aspose.Cells for Java](https://products.aspose.com/cells/java)kan bygga plattformsoberoende applikationer med förmågan att generera, modifiera, konvertera, rendera och skriva ut alla Excel-filer. Java Excel API konverterar inte bara mellan kalkylarksformat, den kan också rendera Excel-filer som bilder, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT och mer, vilket gör det till ett perfekt val att utbyta dokument i industristandardformat. Du kan ladda ner den senaste versionen direkt från[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) och installera det i ditt Maven-baserade projekt genom att lägga till följande konfigurationer till pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Förvar" offSpacer="true" %}}
 
@@ -45,7 +45,7 @@ Hur konverterar jag XLS till MARKDOWN? Med Aspose.Cells for Java bibliotek kan d
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Spara XLS till MARKDOWN på Java Online gratis" %}}
+{{% blocks/products/pf/agp/content h2="Spara XLS till MARKDOWN i Java" %}}
 
 Följande exempel visar hur man konverterar XLS till MARKDOWN i Java.
 {{% blocks/products/pf/agp/text %}}
@@ -56,7 +56,7 @@ Följ de enkla stegen för att konvertera XLS till MARKDOWN. Ladda upp din XLS-f
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Gratis app och provkod för att konvertera XLS till MARKDOWN online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xls" outformat="md" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Exempelkod för att konvertera XLS till MARKDOWN" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xls" outformat="md" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="Hur man konverterar XLS till MARKDOWN via Java" %}}
 
@@ -68,7 +68,7 @@ Behöver du konvertera XLS-filer till MARKDOWN programmatiskt? Java-utvecklare k
 
 1.  Installera 'Aspose.Cells for Java'.
 1.  Lägg till en biblioteksreferens (importera biblioteket) till ditt Java-projekt.
-1.  Ladda XLS-filen med en instans av Workbook-klassen.
+1. Ladda XLS-filen med en instans av Workbook-klassen.
 1.  Konvertera XLS till MARKDOWN genom att anropa Workbook.save-metoden.
 1.  Få konverteringsresultatet från XLS till MARKDOWN.
 

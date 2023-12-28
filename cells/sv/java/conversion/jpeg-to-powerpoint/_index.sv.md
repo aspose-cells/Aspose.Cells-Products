@@ -1,7 +1,7 @@
 ---
-title: Java JPEG till POWERPOINT - Online JPEG till POWERPOINT Converter
-description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Gratis Online Java Konvertera JPEG till POWERPOINT saveformat. Java JPEG till POWERPOINT-format. Spara JPEG till POWERPOINT Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java JPEG to POWERPOINT saveformat., Free Online JPEG to POWERPOINT Java., Java Convert JPEG to POWERPOINT]
+title: Java JPEG till POWERPOINT - JPEG till POWERPOINT-omvandlare
+description: Aspose Excel. Konvertera JPEG till POWERPOINT snabbt och enkelt med Aspose.Cells. Java JPEG till POWERPOINT. Java Spara JPEG till POWERPOINT. Spara JPEG som POWERPOINT med Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Convert JPEG to POWERPOINT in Java., Save JPEG to POWERPOINT using Java., Java JPEG to POWERPOINT saveformat., JPEG to POWERPOINT Converter., Java Save JPEG as POWERPOINT]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Konvertera JPEG till POWERPOINT i Java" h2="Höghastighets Java bibliotek för att konvertera JPEG till POWERPOINT. Detta är en professionell mjukvarulösning för att importera och exportera JPEG, POWERPOINT och många andra format med Java." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="POWERPOINT" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java JPEG to P
 
 {{% blocks/products/pf/agp/content h2="Konvertera JPEG till POWERPOINT med Java" %}}
 
- Hur konverterar jag JPEG till POWERPOINT? Med Aspose.Cells for Java bibliotek kan du enkelt konvertera JPEG till POWERPOINT programmatiskt med några rader kod.[Aspose.Cells for Java](https://products.aspose.com/cells/java) kan bygga plattformsoberoende applikationer med förmågan att generera, modifiera, konvertera, rendera och skriva ut alla Excel-filer. Java Excel API konverterar inte bara mellan kalkylarksformat, det kan också rendera Excel-filer som bilder, PDF, HTML, ODS, ODS, CSV, 0761687481, 0761687481, vilket gör det till ett perfekt val, Pt utbyta dokument i branschstandard format. Du kan ladda ner den senaste versionen direkt från[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) och installera det i ditt Maven-baserade projekt genom att lägga till följande konfigurationer till pom.xml.
+ Hur konverterar jag JPEG till POWERPOINT? Med Aspose.Cells for Java bibliotek kan du enkelt konvertera JPEG till POWERPOINT programmatiskt med några rader kod.[Aspose.Cells for Java](https://products.aspose.com/cells/java)kan bygga plattformsoberoende applikationer med förmågan att generera, modifiera, konvertera, rendera och skriva ut alla Excel-filer. Java Excel API konverterar inte bara mellan kalkylarksformat, den kan också rendera Excel-filer som bilder, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT och mer, vilket gör det till ett perfekt val att utbyta dokument i industristandardformat. Du kan ladda ner den senaste versionen direkt från[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) och installera det i ditt Maven-baserade projekt genom att lägga till följande konfigurationer till pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Förvar" offSpacer="true" %}}
 
@@ -45,18 +45,18 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java JPEG to P
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Spara JPEG till POWERPOINT i Java Online gratis" %}}
+{{% blocks/products/pf/agp/content h2="Spara JPEG till POWERPOINT i Java" %}}
 
 Följande exempel visar hur man konverterar JPEG till POWERPOINT i Java.
 {{% blocks/products/pf/agp/text %}}
 
-Följ de enkla stegen för att konvertera JPEG till POWERPOINT. Ladda upp din JPEG-fil och spara den sedan som POWERPOINT-fil. För både JPEG-läsning och POWERPOINT-skrivning kan du använda fullt kvalificerade filnamn. POWERPOINT-innehållet och formateringen kommer att vara identisk med originaldokumentet JPEG.
+Följ de enkla stegen för att konvertera JPEG till POWERPOINT. Ladda upp din JPEG-fil och spara den sedan som POWERPOINT-fil. För både JPEG-läsning och POWERPOINT-skrivning kan du använda fullt kvalificerade filnamn. Utdata POWERPOINT-innehåll och formatering kommer att vara identisk med originaldokumentet JPEG.
 
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Gratis app och provkod för att konvertera JPEG till POWERPOINT Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="jpg" outformat="pptx" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Exempelkod för att konvertera JPEG till POWERPOINT" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="jpg" outformat="pptx" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="Hur man konverterar JPEG till POWERPOINT via Java" %}}
 
@@ -68,7 +68,7 @@ Behöver du konvertera JPEG-filer till POWERPOINT programmatiskt? Java-utvecklar
 
 1.  Installera 'Aspose.Cells for Java'.
 1.  Lägg till en biblioteksreferens (importera biblioteket) till ditt Java-projekt.
-1.  Ladda JPEG-filen med en instans av Workbook-klassen.
+1. Ladda JPEG-filen med en instans av Workbook-klassen.
 1.  Konvertera JPEG till POWERPOINT genom att anropa Workbook.save-metoden.
 1.  Få konverteringsresultatet från JPEG till POWERPOINT.
 

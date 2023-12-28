@@ -1,7 +1,8 @@
 ---
 title:  Infoga/Skapa ett flödesschema i Excel via .NET
 weight: 371
-description: C# källkod för att infoga/skapa ett flödesschema i Excel på .NET Framework, .NET Core, Mono eller Xamarin Platforms.
+description: C# Exempelkod för att lägga till eller infoga flödesdiagram i Excel med hjälp av .NET Library. Använd den här koden för att skapa flödesdiagram i MS Excel inom VB.NET, Asp.NET eller någon .NET-baserad applikation.
+keywords: [C# Aspose.Cells., c# add FlowChart., c# insert FlowChart., c# create FlowChart]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Infoga/Skapa ett flödesschema i Excel via .NET" h2="Infoga /Skapa ett flödesschema med Aspose.Cells\' API utan någon programvara som Microsoft eller Open Office, Adobe PDF, etc." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="XLSX" >}}
@@ -41,7 +42,7 @@ Du behöver aspose.cells.dll för att prova följande arbetsflöde i din egen mi
 
 {{% /blocks/products/pf/agp/text %}}
 
-Instantiera ett arbetsboksobjekt.(eller->Läs in XLSX-filen med fullständig sökväg.)
++ Instantiera ett arbetsboksobjekt.(eller->Läs in XLSX-filen med fullständig sökväg.)
 + Välj kalkylblad via dess index.
  + Använd[lägga till metod](https://reference.aspose.com/cells/net/aspose.cells.drawing/shapecollection/addautoshape) för att infoga/skapa ett flödesschema i det valda kalkylbladet
 + Spara arbetsboken i XLSX-format.
@@ -105,13 +106,13 @@ Exempelkoden nedan visar hur man infogar ett "Multidokument". För fler typer, s
    <div class="col-lg-4">
     <img src="/cells/net/shapes/insert-flowchart-to-excel/predefined_process.png" align="left" width="28" height="28">
     <p class="col-lg-12">
-AutoShapeType.FlowChartPredefinedProcess
+ AutoShapeType.FlowChartPredefinedProcess
     </p>
    </div>
    <div class="col-lg-4">
     <img src="/cells/net/shapes/insert-flowchart-to-excel/internal_storage.png" align="left" width="28" height="28">
     <p class="col-lg-12">
- AutoShapeType.FlowChartInternalStorage
+AutoShapeType.FlowChartInternalStorage
     </p>
    </div>
    <div class="col-lg-4">
@@ -237,13 +238,13 @@ AutoShapeType.FlowChartPredefinedProcess
    <div class="col-lg-4">
     <img src="/cells/net/shapes/insert-flowchart-to-excel/direct_access_storage.png" align="left" width="28" height="28">
     <p class="col-lg-12">
-AutoShapeType.FlowChartDirectAccessStorage
+ AutoShapeType.FlowChartDirectAccessStorage
     </p>
    </div>
    <div class="col-lg-4">
     <img src="/cells/net/shapes/insert-flowchart-to-excel/display.png" align="left" width="28" height="28">
     <p class="col-lg-12">
- AutoShapeType.FlowChartDisplay
+AutoShapeType.FlowChartDisplay
     </p>
    </div>
   </div>
@@ -259,7 +260,7 @@ AutoShapeType.FlowChartDirectAccessStorage
 
 {{% blocks/products/pf/agp/content h2="Om Aspose.Cells for .NET API" %}}
 
- Aspose.Cells API kan användas för att skapa, redigera, konvertera och rendera Microsoft Excel-format till olika format. Dessutom kan den användas för omfattande kartläggning, skalbar rapportering och tillförlitliga beräkningar inom mjukvaruapplikationer. Aspose.Cells är en fristående API och den kräver ingen programvara som Microsoft eller OpenOffice.
+Aspose.Cells API kan användas för att skapa, redigera, konvertera och rendera Microsoft Excel-format till olika format. Dessutom kan den användas för omfattande kartläggning, skalbar rapportering och tillförlitliga beräkningar inom mjukvaruapplikationer. Aspose.Cells är en fristående API och den kräver ingen programvara som Microsoft eller OpenOffice.
 
 {{% /blocks/products/pf/agp/content %}}
 

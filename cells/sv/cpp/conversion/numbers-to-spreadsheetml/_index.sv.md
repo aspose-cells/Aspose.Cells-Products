@@ -1,7 +1,7 @@
 ---
-title: C++ NUMBERS to SPREADSHEETML - Online NUMBERS to SPREADSHEETML Converter
-description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. Gratis online C++ Konvertera NUMBERS till SPREADSHEETML saveformat. C++ NUMBERS till Kalkylbladsformat. Spara NUMMER i SPREADSHEETML C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ NUMBERS to SPREADSHEETML saveformat., Free Online NUMBERS to SPREADSHEETML C++., C++ Convert NUMBERS to SPREADSHEETML]
+title: C++ NUMBERS to SPREADSHEETML - NUMBERS to SPREADSHEETML Converter
+description: Aspose Excel. Konvertera NUMBERS till Kalkylblad snabbt och enkelt med Aspose.Cells. C++ NUMMER till Kalkylblad. C++ Spara NUMMER i Kalkylblad. Spara NUMMER som Kalkylblad med C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., Convert NUMBERS to SPREADSHEETML in C++., Save NUMBERS to SPREADSHEETML using C++., C++ NUMBERS to SPREADSHEETML saveformat., NUMBERS to SPREADSHEETML Converter., C++ Save NUMBERS as SPREADSHEETML]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Konvertera NUMBERS till SPREADSHEETML i C++" h2="Högpresterande NUMBER till SPREADSHEETML-konvertering med C++-bibliotek utan behov av Microsoft Excel, OpenOffice eller Adobe Acrobat-installation." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" sourceAdditionalConversionTag="" additionalConversionTag="SPREADSHEETML" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ NUMBERS to S
 
 {{% blocks/products/pf/agp/content h2="Konvertera NUMBERS till Kalkylblad med C++" %}}
 
-Hur konverterar jag NUMBERS till SPREADSHEETML? Med Aspose.Cells for C++-biblioteket kan du enkelt konvertera NUMBERS till Kalkylblad programmatiskt med några rader kod.[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) kan bygga plattformsoberoende applikationer med förmågan att generera, modifiera, konvertera, rendera och skriva ut alla Excel-filer. C++ Excel API konverterar inte bara mellan kalkylarksformat, det kan också rendera Excel-filer som bilder, PDF, HTML, ODS, ODS, CSV, 0761687481, 0761687481, vilket gör det till ett perfekt val, Pt utbyta dokument i branschstandard format. Du kan ladda ner den senaste versionen direkt, bara öppna[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) pakethanteraren, sök efter Aspose.Cells.Cpp och installera. Du kan också använda följande kommando från Package Manager Console.
+ Hur konverterar jag NUMBERS till SPREADSHEETML? Med Aspose.Cells for C++-biblioteket kan du enkelt konvertera NUMBERS till Kalkylblad programmatiskt med några rader kod.[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) kan bygga plattformsoberoende applikationer med förmågan att generera, modifiera, konvertera, rendera och skriva ut alla Excel-filer. C++ Excel API konverterar inte bara mellan kalkylarksformat, den kan också rendera Excel-filer som bilder, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT och mer, vilket gör det till ett perfekt val att utbyta dokument i industristandardformat. Du kan ladda ner den senaste versionen direkt, bara öppna[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) pakethanteraren, sök efter Aspose.Cells.Cpp och installera. Du kan också använda följande kommando från Package Manager Console.
 
 {{% blocks/products/pf/agp/code-block title="Kommando" offSpacer="true" %}}
 
@@ -26,7 +26,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Spara NUMMER i Kalkylblad i C++ Online gratis" %}}
+{{% blocks/products/pf/agp/content h2="Spara NUMBERS i Kalkylblad på C++" %}}
 
 Följande exempel visar hur man konverterar NUMBERS till Kalkylblad i C++.
 {{% blocks/products/pf/agp/text %}}
@@ -37,7 +37,7 @@ Följ de enkla stegen för att konvertera NUMBERS till Kalkylblad. Ladda upp din
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Gratis app och exempelkod för att konvertera NUMBERS till Kalkylblad online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="numbers" outformat="xml" IsLandingPage="true" language="cpp" %}}
+{{% cells-convert title="Exempelkod för att konvertera NUMBERS till Kalkylblad" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="numbers" outformat="xml" IsLandingPage="true" language="cpp" %}}
 
 {{% blocks/products/pf/agp/content h2="Hur man konverterar NUMBERS till SPREADSHEETML via C++" %}}
 
@@ -49,9 +49,9 @@ Behöver du konvertera NUMBERS filer till SPREADSHEETML programmatiskt? C++-utve
 
 1.  Installera 'Aspose.Cells for C++'.
 1.  Lägg till en biblioteksreferens (importera biblioteket) till ditt C++-projekt.
-1.  Ladda NUMBERS-filen med Factory::CreateIWorkbook.
+1.  Ladda NUMBERS-filen med arbetsbok.
 1.  Konvertera NUMBERS till SPREADSHEETML genom att anropa metoden Save().
-1. Få konverteringsresultatet av NUMBERS till SPREADSHEETML.
+1.  Få konverteringsresultatet av NUMBERS till SPREADSHEETML.
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -84,7 +84,7 @@ Det finns tre alternativ för att installera "Aspose.Cells for C++" på ditt sys
 
 <!-- aboutfile Starts -->
     {{< blocks/products/pf/agp/about-file-section >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="NUMBERS" readMoreLink="https://docs.fileformat.com/spreadsheet/numbers/" >}}Filerna med tillägget .numbers klassificeras som kalkylbladsfiltyp, det är därför de liknar .xlsx-filerna; men Numbers-filerna skapas med hjälp av Apple iWork Numbers kalkylprogram. Apple iWork Numbers är en enhetsprogramvara för iWork Productivity Suite. iWork Productivity Suite motsvarar Microsoft Office Suite som används på Windows-datorer. Därför kan vi säga att Numbers som är tillgänglig för MacOS också är en konkurrent till Microsoft Excel. På samma sätt, Microsoft Excel, NUMBERS-filen kan också innehålla tabeller, diagram och formler.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="NUMBERS" readMoreLink="https://docs.fileformat.com/spreadsheet/numbers/" >}} Filerna med tillägget .numbers klassificeras som kalkylbladsfiltyp, det är därför de liknar .xlsx-filerna; men Numbers-filerna skapas med hjälp av Apple iWork Numbers kalkylprogram. Apple iWork Numbers är en enhetsprogramvara för iWork Productivity Suite. iWork Productivity Suite motsvarar Microsoft Office Suite som används på Windows-datorer. Därför kan vi säga att Numbers som är tillgänglig för MacOS också är en konkurrent till Microsoft Excel. På samma sätt, Microsoft Excel, NUMBERS-filen kan också innehålla tabeller, diagram och formler.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="SPREADSHEETML" readMoreLink="https://docs.fileformat.com/web/xml/" >}}XML står för Extensible Markup Language som liknar HTML men skiljer sig från att använda taggar för att definiera objekt. Hela idén bakom skapandet av XML-filformat var att lagra och transportera data utan att vara beroende av mjukvara eller hårdvaruverktyg. Dess popularitet beror på att den är både mänsklig och maskinläsbar. Detta gör det möjligt för den att skapa gemensamma dataprotokoll i form av objekt som ska lagras och delas över nätverk som World Wide Web (WWW). "X" i XML är för extensible vilket innebär att språket kan utökas till valfritt antal symboler enligt användarens krav. Det är för dessa funktioner som många standardfilformat använder det som Microsoft Open XML, LibreOffice OpenDocument, XHTML och SVG.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
     {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->
@@ -101,7 +101,6 @@ Det finns tre alternativ för att installera "Aspose.Cells for C++" på ditt sys
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/numbers-to-pdf/" name="NUMMER TILL PDF" description="Portabelt dokumentformat" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/numbers-to-png/" name="NUMMER TILL PNG" description="Bärbar nätverksgrafik" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/numbers-to-svg/" name="NUMMER TILL SVG" description="Skalbar vektorgrafik" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/numbers-to-tiff/" name="NUMMER TILL TIFF" description="Taggad bildformat" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/numbers-to-tsv/" name="NUMMER TILL TSV" description="Tab-separerade värden" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/numbers-to-txt/" name="NUMMER TILL TXT" description="Textdokument" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/numbers-to-xls/" name="NUMMER TILL XLS" description="Excel binärt format" >}}

@@ -2,6 +2,7 @@
 title:  Visa CSV Filformat via .NET
 weight: 7690
 description: C# källkod för att ladda, rendera och visa CSV dokument på .NET Framework, .NET Core, Mono eller Xamarin Platforms.
+keywords: [C# Aspose.Cells., c# view CSV files., c# how to render CSV document., c# load and display CSV files., CSV File Viewer using C#]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="CSV Filvisare for .NET" h2="Visa Excel- och OpenOffice-kalkylblad som CSV utan att behöva Microsoft Excel eller Office Automation." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="CSV" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="CSV" >}}
@@ -43,7 +44,7 @@ PM> Install-Package Aspose.Cells
 
 1.  Ladda filen CSV i en instans av Workbook
 1.  Skapa en instans av HtmlSaveOptions och ställ in ExportHeadings-egenskapen till true
-1.  Spara CSV-filen i HTML-format med Workbook.Save-metoden
+1. Spara CSV-filen i HTML-format med Workbook.Save-metoden
 1.  Ladda resultant HTML i standardwebbläsaren med Process.Start
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

@@ -2,6 +2,7 @@
 title:  Δημιουργία αναφορών σε XLSM Αρχεία via .NET
 weight: 4400
 description: C# πηγαίου κώδικα για τη δημιουργία αναφορών μορφής XLSM στις πλατφόρμες .NET Framework, .NET Core, Mono ή Xamarin.
+keywords: [C# Aspose.Cells., c# Create XLSM Reports Based on Predesigned Excel Template., c# Generate XLSM Reports Based on Predesigned Excel Template., c# Create XLSM Reports Based on Excel Template., C# Generate XLSM Reports Based on Excel Template., c# Create XLSM files Based on Excel Template., C# Generate XLSM files Based on Excel Template]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Δημιουργία μαζικής αναφοράς σε μορφή XLSM μέσω C#" h2="Δημιουργήστε αναφορές σε μορφή XLSM χρησιμοποιώντας πηγή δεδομένων και πρότυπο." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSM" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSM" >}}

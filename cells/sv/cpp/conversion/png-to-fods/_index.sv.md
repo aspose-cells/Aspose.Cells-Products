@@ -1,7 +1,7 @@
 ---
-title: C++ PNG till FODS - Online PNG till FODS Converter
-description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. Gratis Online C++ Konvertera PNG till FODS sparaformat. C++ PNG till FODS format. Spara PNG till FODS C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ PNG to FODS saveformat., Free Online PNG to FODS C++., C++ Convert PNG to FODS]
+title: C++ PNG till FODS - PNG till FODS Omvandlare
+description: Aspose Excel. Konvertera PNG till FODS snabbt och enkelt med Aspose.Cells. C++ PNG till FODS. C++ Spara PNG till 07611 till 07161. 07611 till 07161. 3481 med C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., Convert PNG to FODS in C++., Save PNG to FODS using C++., C++ PNG to FODS saveformat., PNG to FODS Converter., C++ Save PNG as FODS]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Konvertera PNG till FODS till C++" h2="Högpresterande PNG till FODS konvertering med C++ bibliotek utan behov av Microsoft Excel, OpenOffice eller Adobe Acrobat installation." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" sourceAdditionalConversionTag="" additionalConversionTag="FODS" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ PNG to FODS 
 
 {{% blocks/products/pf/agp/content h2="Konvertera PNG till FODS med C++" %}}
 
-Hur konverterar jag PNG till FODS? Med Aspose.Cells for C++ bibliotek kan du enkelt konvertera PNG till FODS programmatiskt med några rader kod.[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) kan bygga plattformsoberoende applikationer med förmågan att generera, modifiera, konvertera, rendera och skriva ut alla Excel-filer. C++ Excel API konverterar inte bara mellan kalkylarksformat, det kan också rendera Excel-filer som bilder, PDF, HTML, ODS, ODS, CSV, 0761687481, 0761687481, vilket gör det till ett perfekt val, Pt utbyta dokument i branschstandard format. Du kan ladda ner den senaste versionen direkt, bara öppna[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) pakethanteraren, sök efter Aspose.Cells.Cpp och installera. Du kan också använda följande kommando från Package Manager Console.
+Hur konverterar jag PNG till FODS? Med Aspose.Cells for C++ bibliotek kan du enkelt konvertera PNG till FODS programmatiskt med några rader kod.[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) kan bygga plattformsoberoende applikationer med förmågan att generera, modifiera, konvertera, rendera och skriva ut alla Excel-filer. C++ Excel API konverterar inte bara mellan kalkylarksformat, den kan också rendera Excel-filer som bilder, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT och mer, vilket gör det till ett perfekt val att utbyta dokument i industristandardformat. Du kan ladda ner den senaste versionen direkt, bara öppna[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) pakethanteraren, sök efter Aspose.Cells.Cpp och installera. Du kan också använda följande kommando från Package Manager Console.
 
 {{% blocks/products/pf/agp/code-block title="Kommando" offSpacer="true" %}}
 
@@ -26,7 +26,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Spara PNG till FODS på C++ Online gratis" %}}
+{{% blocks/products/pf/agp/content h2="Spara PNG till FODS i C++" %}}
 
 Följande exempel visar hur man konverterar PNG till FODS i C++.
 {{% blocks/products/pf/agp/text %}}
@@ -37,7 +37,7 @@ Följ de enkla stegen för att konvertera PNG till FODS. Ladda upp din PNG-fil o
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Gratis app och provkod för att konvertera PNG till FODS online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="png" outformat="fods" IsLandingPage="true" language="cpp" %}}
+{{% cells-convert title="Exempelkod för att konvertera PNG till FODS" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="png" outformat="fods" IsLandingPage="true" language="cpp" %}}
 
 {{% blocks/products/pf/agp/content h2="Hur man konverterar PNG till FODS via C++" %}}
 
@@ -49,7 +49,7 @@ Behöver du konvertera PNG-filer till FODS programmatiskt? C++-utvecklare kan en
 
 1.  Installera 'Aspose.Cells for C++'.
 1.  Lägg till en biblioteksreferens (importera biblioteket) till ditt C++-projekt.
-1.  Ladda PNG-filen med Factory::CreateIWorkbook.
+1.  Ladda PNG-filen med arbetsbok.
 1.  Konvertera PNG till FODS genom att anropa metoden Save().
 1.  Få konverteringsresultatet från PNG till FODS.
 
@@ -101,7 +101,6 @@ Det finns tre alternativ för att installera "Aspose.Cells for C++" på ditt sys
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/png-to-pdf/" name="PNG TILL PDF" description="Portabelt dokumentformat" >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/png-to-svg/" name="PNG TILL SVG" description="Skalbar vektorgrafik" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/png-to-tiff/" name="PNG TILL TIFF" description="Taggad bildformat" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/png-to-tsv/" name="PNG TILL TSV" description="Tab-separerade värden" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/png-to-txt/" name="PNG TILL TXT" description="Textdokument" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/png-to-xls/" name="PNG TILL XLS" description="Excel binärt format" >}}

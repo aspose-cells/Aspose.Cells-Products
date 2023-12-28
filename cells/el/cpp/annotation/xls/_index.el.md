@@ -1,7 +1,8 @@
 ---
-title:  Προσθήκη σχολιασμού αρχείου Excel XLS μέσω C++
+title:  Προσθήκη ή αφαίρεση σχολιασμού αρχείου Excel XLS μέσω C++
 weight: 10040
 description: C++ δείγμα κώδικα για προσθήκη και διαγραφή σχολιασμών μορφής XLS στο C++ Runtime Environment για Windows 32 bit, Windows 64 bit και Linux 64 bit.
+keywords: [C++ Aspose.Cells., add xls annotation., insert xls annotation., access xls annotation., remove xls annotation., delete xls annotation., add annotation in xls., insert annotation in xls., access annotation in xls., remove annotation in xls., delete annotation in xls]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Προσθήκη σχολιασμού στο αρχείο XLS μέσω C++" h2="Δημιουργήστε τις δικές σας εφαρμογές C++ για να χειριστείτε σχόλια και συγγραφείς σε αρχεία εγγράφων χρησιμοποιώντας API από την πλευρά του διακομιστή." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLS" pfName="Aspose.Cells" subTitlepfName="for C++" downloadUrl="" fileiconsmall1="PPTX" fileiconsmall2="DOCX" fileiconsmall3="XLSX" fileiconsmall4="PDF" fileiconsmall5=" ODP " >}}
@@ -43,7 +44,7 @@ PM> Install-Package Aspose.Cells.Cpp
 1.  Επιλέξτε το σχετικό φύλλο
 1.  Προσθέστε το σχόλιο χρησιμοποιώντας τη μέθοδο Προσθήκη
 1.  Ορίστε τη σημείωση του σχολίου χρησιμοποιώντας τη μέθοδο SetNote.
-1.  Αποθηκεύστε το βιβλίο εργασίας χρησιμοποιώντας[Αποθηκεύσετε](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook#a77072cfb929787df9ad1f38b02f58349) μέθοδος
+1.  Αποθηκεύστε το βιβλίο εργασίας χρησιμοποιώντας[Αποθηκεύσετε](https://reference.aspose.com/cells/cpp/aspose.cells/workbook/save/) μέθοδος
 
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
@@ -63,7 +64,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% blocks/products/pf/agp/code-block title="Προσθήκη σχολίων στο αρχείο XLS - C++" offSpacer="" %}}
 
-{{< gist "aspose-com-gists" "e144512d2c395c3336f12ce960424686" "add-comment-in-xls-file.cpp" >}}
+{{< gist "aspose-cells-gists" "6f7d9819d85793c3a3b5d040af42e1a9" "add-comment-in-xls-file.cpp" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 

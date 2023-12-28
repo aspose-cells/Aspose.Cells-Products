@@ -2,6 +2,7 @@
 title:  Εξαγωγή κειμένου και εικόνων από το έγγραφο XLS via .NET
 weight: 5600
 description: C# πηγαίος κώδικας για εξαγωγή κειμένου και εικόνων από το αρχείο XLS στο .NET Framework, .NET Core, Mono ή Xamarin Platforms.
+keywords: [C# Aspose.Cells., c# Extract text and images from XLS file., c# How to Parse XLS File., c# Extract text from XLS file., Extract images from XLS file using C#]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Ανάλυση XLS Μορφές σε C#" h2="Εγγενής και υψηλής απόδοσης ανάλυση εγγράφων XLS με χρήση API Aspose.Cells for .NET από την πλευρά του διακομιστή, χωρίς τη χρήση οποιουδήποτε λογισμικού όπως το Microsoft ή το Adobe PDF." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="XLS" >}}

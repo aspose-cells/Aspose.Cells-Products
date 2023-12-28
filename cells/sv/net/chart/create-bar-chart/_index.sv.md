@@ -1,6 +1,7 @@
 ---
 title: Skapa stapeldiagram via C#
 description: C# Exempelkod för att skapa stapeldiagram till Excel med .NET Library. Använd den här koden för att skapa ett stapeldiagram till MS Excel inom VB.NET, Asp.NET eller någon .NET-baserad applikation.
+keywords: [C# Aspose.Cells., c# add Bar Chart., c# insert Bar Chart., c# create Bar Chart]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 

@@ -2,6 +2,7 @@
 title:  Ξεκλείδωμα XLSB έγγραφο via .NET
 weight: 6410
 description: C# πηγαίος κώδικας για ξεκλείδωμα αρχείου XLSB με προστασία κωδικού πρόσβασης στο .NET Framework, .NET Core, Mono ή Xamarin Platforms.
+keywords: [C# Aspose.Cells., c# unlock XLSB files., c# how to unlock XLSB document., c# unprotect XLSB files., remove protection from XLSB files., decrypt XLSB Files using C#]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Ξεκλείδωμα XLSB Υπολογιστικό φύλλο μέσω C#" h2="Καταργήστε την προστασία από το XLSB χρησιμοποιώντας τη βιβλιοθήκη .NET." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSB" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSB" >}}

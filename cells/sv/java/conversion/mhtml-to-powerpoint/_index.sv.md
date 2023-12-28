@@ -1,7 +1,7 @@
 ---
-title: Java MHTML till POWERPOINT - Online MHTML till POWERPOINT Converter
-description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Gratis Online Java Konvertera MHTML till POWERPOINT saveformat. Java MHTML till POWERPOINT-format. Spara MHTML till POWERPOINT Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java MHTML to POWERPOINT saveformat., Free Online MHTML to POWERPOINT Java., Java Convert MHTML to POWERPOINT]
+title: Java MHTML till POWERPOINT - MHTML till POWERPOINT-omvandlare
+description: Aspose Excel. Konvertera MHTML till POWERPOINT snabbt och enkelt med Aspose.Cells. Java MHTML till POWERPOINT. Java Spara MHTML till POWERPOINT. Spara MHTML som POWERPOINT med Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Convert MHTML to POWERPOINT in Java., Save MHTML to POWERPOINT using Java., Java MHTML to POWERPOINT saveformat., MHTML to POWERPOINT Converter., Java Save MHTML as POWERPOINT]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Konvertera MHTML till POWERPOINT i Java" h2="Höghastighets Java bibliotek för att konvertera MHTML till POWERPOINT. Detta är en professionell mjukvarulösning för att importera och exportera MHTML, POWERPOINT och många andra format med Java." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="POWERPOINT" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java MHTML to 
 
 {{% blocks/products/pf/agp/content h2="Konvertera MHTML till POWERPOINT med Java" %}}
 
- Hur konverterar jag MHTML till POWERPOINT? Med Aspose.Cells for Java bibliotek kan du enkelt konvertera MHTML till POWERPOINT programmatiskt med några rader kod.[Aspose.Cells for Java](https://products.aspose.com/cells/java) kan bygga plattformsoberoende applikationer med förmågan att generera, modifiera, konvertera, rendera och skriva ut alla Excel-filer. Java Excel API konverterar inte bara mellan kalkylarksformat, det kan också rendera Excel-filer som bilder, PDF, HTML, ODS, ODS, CSV, 0761687481, 0761687481, vilket gör det till ett perfekt val, Pt utbyta dokument i branschstandard format. Du kan ladda ner den senaste versionen direkt från[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) och installera det i ditt Maven-baserade projekt genom att lägga till följande konfigurationer till pom.xml.
+ Hur konverterar jag MHTML till POWERPOINT? Med Aspose.Cells for Java bibliotek kan du enkelt konvertera MHTML till POWERPOINT programmatiskt med några rader kod.[Aspose.Cells for Java](https://products.aspose.com/cells/java)kan bygga plattformsoberoende applikationer med förmågan att generera, modifiera, konvertera, rendera och skriva ut alla Excel-filer. Java Excel API konverterar inte bara mellan kalkylarksformat, den kan också rendera Excel-filer som bilder, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT och mer, vilket gör det till ett perfekt val att utbyta dokument i industristandardformat. Du kan ladda ner den senaste versionen direkt från[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) och installera det i ditt Maven-baserade projekt genom att lägga till följande konfigurationer till pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Förvar" offSpacer="true" %}}
 
@@ -45,18 +45,18 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java MHTML to 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Spara MHTML till POWERPOINT i Java Online gratis" %}}
+{{% blocks/products/pf/agp/content h2="Spara MHTML till POWERPOINT i Java" %}}
 
 Följande exempel visar hur man konverterar MHTML till POWERPOINT i Java.
 {{% blocks/products/pf/agp/text %}}
 
-Följ de enkla stegen för att konvertera MHTML till POWERPOINT. Ladda upp din MHTML-fil och spara den sedan som POWERPOINT-fil. För både MHTML-läsning och POWERPOINT-skrivning kan du använda fullt kvalificerade filnamn. POWERPOINT-innehållet och formateringen kommer att vara identisk med originaldokumentet MHTML.
+Följ de enkla stegen för att konvertera MHTML till POWERPOINT. Ladda upp din MHTML-fil och spara den sedan som POWERPOINT-fil. För både MHTML-läsning och POWERPOINT-skrivning kan du använda fullt kvalificerade filnamn. Utdata POWERPOINT-innehåll och formatering kommer att vara identisk med originaldokumentet MHTML.
 
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Gratis app och provkod för att konvertera MHTML till POWERPOINT Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="mhtml" outformat="pptx" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Exempelkod för att konvertera MHTML till POWERPOINT" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="mhtml" outformat="pptx" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="Hur man konverterar MHTML till POWERPOINT via Java" %}}
 
@@ -68,7 +68,7 @@ Behöver du konvertera MHTML-filer till POWERPOINT programmatiskt? Java-utveckla
 
 1.  Installera 'Aspose.Cells for Java'.
 1.  Lägg till en biblioteksreferens (importera biblioteket) till ditt Java-projekt.
-1.  Ladda MHTML-filen med en instans av Workbook-klassen.
+1. Ladda MHTML-filen med en instans av Workbook-klassen.
 1.  Konvertera MHTML till POWERPOINT genom att anropa Workbook.save-metoden.
 1.  Få konverteringsresultatet från MHTML till POWERPOINT.
 

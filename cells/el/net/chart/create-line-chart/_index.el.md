@@ -1,6 +1,7 @@
 ---
 title:  Δημιουργήστε γραμμικά γραφήματα μέσω του C#
 description: C# Δείγμα κώδικα για τη δημιουργία γραμμικών γραφημάτων στο Excel χρησιμοποιώντας τη Βιβλιοθήκη .NET. Χρησιμοποιήστε αυτόν τον κώδικα για τη δημιουργία ενός γραμμικού γραφήματος στο MS Excel εντός των VB.NET, Asp.NET ή οποιασδήποτε εφαρμογής που βασίζεται στο .NET.
+keywords: [C# Aspose.Cells., c# add Line Chart., c# insert Line Chart., c# create Line Chart]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Δημιουργήστε γραμμικά γραφήματα μέσω του C#" h2="Δημιουργία εγγενών και υψηλής απόδοσης γραφημάτων MS Excel μέσω προγραμματισμού χρησιμοποιώντας API από την πλευρά του διακομιστή .NET." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSX" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -10,7 +11,7 @@ description: C# Δείγμα κώδικα για τη δημιουργία γρ�
 
 {{% blocks/products/pf/agp/content h2="" %}}
 
- Η δημιουργία γραμμικών γραφημάτων δυναμικά σε εφαρμογή που εκτελείται είναι εύκολη. Για να δημιουργήσουμε ποικιλία από γραφήματα σε υπολογιστικά φύλλα από την αρχή χωρίς να απαιτείται MS Office, θα χρησιμοποιήσουμε[Aspose.Cells for .NET](https://products.aspose.com/cells/net) API που προσφέρει διαφορετικές δυνατότητες για δημιουργία υπολογιστικών φύλλων, χειρισμό και μετατροπή χρησιμοποιώντας την πλατφόρμα .NET. Aspose.Cells παρέχει πολλά ευέλικτα αντικείμενα γραφήματος.
+Η δημιουργία γραμμικών γραφημάτων δυναμικά σε εφαρμογή που εκτελείται είναι εύκολη. Για να δημιουργήσουμε ποικιλία από γραφήματα σε υπολογιστικά φύλλα από την αρχή χωρίς να απαιτείται MS Office, θα χρησιμοποιήσουμε[Aspose.Cells for .NET](https://products.aspose.com/cells/net) API που προσφέρει διαφορετικές δυνατότητες για δημιουργία υπολογιστικών φύλλων, χειρισμό και μετατροπή χρησιμοποιώντας την πλατφόρμα .NET. Aspose.Cells παρέχει πολλά ευέλικτα αντικείμενα γραφήματος.
 {{% /blocks/products/pf/agp/content %}}
 
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
@@ -26,7 +27,7 @@ description: C# Δείγμα κώδικα για τη δημιουργία γρ�
 1. Συμπεριλάβετε τον χώρο ονομάτων Aspose.Cells
 1.  Δημιουργώ[**ΤΕΤΡΑΔΙΟ ΕΡΓΑΣΙΩΝ**](https://reference.aspose.com/cells/net/aspose.cells/workbook) περίπτωση τάξης.
 1. Προσθέστε ορισμένα δεδομένα στο φύλλο εργασίας.
-1.  Πρόσθεσε ένα[**Γραμμή**](https://reference.aspose.com/cells/net/aspose.cells.charts/charttype)Γράφημα στο φύλλο εργασίας.
+1.  Πρόσθεσε ένα[**Γραμμή**](https://reference.aspose.com/cells/net/aspose.cells.charts/charttype) Γράφημα στο φύλλο εργασίας.
 1.  Πρόσβαση στο νέο[**Διάγραμμα**](https://reference.aspose.com/cells/net/aspose.cells.charts/chart)αντικείμενο.
 1.  Καθορίστε την πηγή δεδομένων του γραφήματος με[**Chart.SetChartDataRange**](https://https://reference.aspose.com/cells/net/aspose.cells.charts/chart/methods/setchartdatarange) μέθοδος.
 
@@ -37,7 +38,7 @@ description: C# Δείγμα κώδικα για τη δημιουργία γρ�
 
 {{% blocks/products/pf/agp/text %}}
 
- Απλώς βεβαιωθείτε ότι το σύστημα έχει Microsoft Windows ή ένα συμβατό λειτουργικό σύστημα με .NET Framework, .NET Core, Windows Azure, Mono ή Xamarin πλατφόρμες, καθώς και περιβάλλον ανάπτυξης 80161 Studio3, όπως 80161 Studio6.
+Απλώς βεβαιωθείτε ότι το σύστημα έχει Microsoft Windows ή ένα συμβατό λειτουργικό σύστημα με .NET Framework, .NET Core, Windows Azure, Mono ή Xamarin πλατφόρμες, καθώς και περιβάλλον ανάπτυξης 80161 Studio3, όπως 80161 Studio6.
 
 {{% /blocks/products/pf/agp/text %}}
 

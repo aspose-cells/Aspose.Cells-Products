@@ -1,6 +1,7 @@
 ---
 title: Δημιουργία γραφημάτων Excel και μετατροπή σε εικόνες via .NET
 description:  C# πηγαίος κώδικας για σχεδίαση και μετατροπή γραφήματος ή διαγράμματος στο Microsoft Excel χρησιμοποιώντας τη Βιβλιοθήκη .NET.
+keywords: [C# Aspose.Cells., c# Convert chart to image., c# Save chart to image., c# chart to image., create charts in c#., insert charts in c#., manage charts in c#]
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
 {{< blocks/products/pf/i18n/feature-page-header h1="Microsoft<sup>&reg;</sup> Δημιουργία και μετατροπή γραφημάτων αρχείων Excel via .NET" h2="Δημιουργήστε γραφήματα εγγράφων του Excel και μετατρέψτε σε εικόνες χρησιμοποιώντας API από την πλευρά του διακομιστή εντός εφαρμογών που βασίζονται σε .NET." >}}
@@ -11,7 +12,7 @@ description:  C# πηγαίος κώδικας για σχεδίαση και μ
 
 {{% blocks/products/pf/feature-page-section h2="Δημιουργήστε γραφήματα μέσα στο αρχείο Excel" %}}
 
- Η δημιουργία γραφημάτων χρησιμοποιώντας το Excel API είναι απλή. Η διαδικασία είναι, Δημιουργία[Τάξη βιβλίου εργασίας](https://reference.aspose.com/cells/net/aspose.cells/workbook) αντικείμενο και επιλέξτε το πρώτο φύλλο εργασίας ή το σχετικό φύλλο παρέχοντας το ευρετήριό του. Εισαγάγετε τα απαιτούμενα δεδομένα κελιών χρησιμοποιώντας[Μέθοδος PutValue](https://reference.aspose.com/cells/net/aspose.cells/cell/methods/putvalue/index) . Προσθέστε γράφημα στο φύλλο εργασίας χρησιμοποιώντας τη συλλογή γραφημάτων[Προσθήκη μεθόδου](https://reference.aspose.com/cells/net/aspose.cells.charts/chartcollection/methods/add) . Προσδιορίστε το[Τύπος γραφήματος](https://reference.aspose.com/cells/net/aspose.cells.charts/charttype)από την απαρίθμηση ChartType.
+ Η δημιουργία γραφημάτων χρησιμοποιώντας το Excel API είναι απλή. Η διαδικασία είναι, Δημιουργία[Τάξη βιβλίου εργασίας](https://reference.aspose.com/cells/net/aspose.cells/workbook)αντικείμενο και επιλέξτε το πρώτο φύλλο εργασίας ή το σχετικό φύλλο παρέχοντας το ευρετήριό του. Εισαγάγετε τα απαιτούμενα δεδομένα κελιών χρησιμοποιώντας[Μέθοδος PutValue](https://reference.aspose.com/cells/net/aspose.cells/cell/methods/putvalue/index) . Προσθέστε γράφημα στο φύλλο εργασίας χρησιμοποιώντας τη συλλογή γραφημάτων[Προσθήκη μεθόδου](https://reference.aspose.com/cells/net/aspose.cells.charts/chartcollection/methods/add) . Προσδιορίστε το[Τύπος γραφήματος](https://reference.aspose.com/cells/net/aspose.cells.charts/charttype) από την απαρίθμηση ChartType.
 {{% blocks/products/pf/feature-page-code h3="C# Κώδικας για τη δημιουργία γραφημάτων Excel" %}}
 
 {{< gist "aspose-com-gists" "47151e6b1cd698683d5eefb538a4a52a" "create-excel-chart.cs" >}}

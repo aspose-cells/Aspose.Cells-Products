@@ -1,8 +1,8 @@
 ---
 title: Συγχώνευση TABDELIMITED στο BMP - Συνδυάστε το TABDELIMITED στο BMP στο Java
 url: /el/java/merger/merge-tabdelimited-to-bmp/ 
-description: Aspose Excel. Java Aspose.Cells. Δωρεάν online συγχώνευση TABDELIMITED σε BMP saveformat. Java Συνδυάστε τη μορφή TABDELIMITED σε BMP. Συγχώνευση TABDELIMITED στο BMP στο Java. TABDELIMITED Συγχώνευση.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge TABDELIMITED to BMP in Java., Free Online Java Merge TABDELIMITED to bmp., Java Combine TABDELIMITED to BMP Online for Free., TABDELIMITED Merge]
+description: Aspose Excel. Java Aspose.Cells. Συγχώνευση TABDELIMITED σε μορφή αποθήκευσης BMP. Java Συνδυάστε τη μορφή TABDELIMITED σε BMP. Συγχώνευση TABDELIMITED στο BMP στο Java. TABDELIMITED Συγχώνευση.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge TABDELIMITED to BMP in Java., Java Merge TABDELIMITED to bmp., Java Combine TABDELIMITED to BMP., TABDELIMITED Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Συγχώνευση TABDELIMITED στο BMP via Java" h2="Βιβλιοθήκη υψηλής ταχύτητας Java για συγχώνευση TABDELIMITED σε BMP. Χρησιμοποιήστε τη μετατροπή excel API για να αναπτύξετε λογισμικό υψηλού επιπέδου, ανεξάρτητο από πλατφόρμα στο Java. Αυτή είναι μια επαγγελματική λύση λογισμικού για εισαγωγή και εξαγωγή μορφών excel, 076143 και πολλών άλλων." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="TABDELIMITED" additionalConversionTag="BMP" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Merge TABDELIMITED to BMP in Java.
 
 {{% blocks/products/pf/agp/content h2="Συγχώνευση TABDELIMITED στο BMP χρησιμοποιώντας Java" %}}
 
-Πώς μπορώ να συγχωνεύσω το TABDELIMITED στο BMP; Με τη βιβλιοθήκη Aspose.Cells for Java, μπορείτε εύκολα να συγχωνεύσετε το TABDELIMITED στο BMP μέσω προγραμματισμού με λίγες γραμμές κώδικα.[Aspose.Cells for Java](https://products.aspose.com/cells/java) έχει τη δυνατότητα δημιουργίας εφαρμογών πολλαπλών πλατφορμών με δυνατότητα δημιουργίας, τροποποίησης, μετατροπής, απόδοσης και εκτύπωσης όλων των αρχείων Excel. Java Το Excel API όχι μόνο μετατρέπει μεταξύ μορφών υπολογιστικών φύλλων, αλλά μπορεί επίσης να αποδώσει αρχεία Excel ως εικόνες, PDF, HTML, ODS, CSV, 07616031481, CSV, 07616831481, δημιουργώντας περισσότερα τέλεια επιλογή για την ανταλλαγή εγγράφων σε βιομηχανικά πρότυπα μορφές. Μπορείτε να κατεβάσετε την τελευταία του έκδοση απευθείας από[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) και εγκαταστήστε το στο έργο σας που βασίζεται στο Maven προσθέτοντας τις ακόλουθες διαμορφώσεις στο pom.xml.
+ Πώς μπορώ να συγχωνεύσω το TABDELIMITED στο BMP; Με τη βιβλιοθήκη Aspose.Cells for Java, μπορείτε εύκολα να συγχωνεύσετε το TABDELIMITED στο BMP μέσω προγραμματισμού με λίγες γραμμές κώδικα.[Aspose.Cells for Java](https://products.aspose.com/cells/java)έχει τη δυνατότητα δημιουργίας εφαρμογών πολλαπλών πλατφορμών με δυνατότητα δημιουργίας, τροποποίησης, μετατροπής, απόδοσης και εκτύπωσης όλων των αρχείων Excel. Java Το Excel API όχι μόνο μετατρέπει μεταξύ μορφών υπολογιστικών φύλλων, αλλά μπορεί επίσης να αποδώσει αρχεία Excel ως εικόνες, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT και άλλα, καθιστώντας έτσι την τέλεια επιλογή για την ανταλλαγή εγγράφων σε βιομηχανικές τυποποιημένες μορφές. Μπορείτε να κατεβάσετε την τελευταία του έκδοση απευθείας από[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) και εγκαταστήστε το στο έργο σας που βασίζεται στο Maven προσθέτοντας τις ακόλουθες διαμορφώσεις στο pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Αποθήκη" offSpacer="true" %}}
 
@@ -45,7 +45,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Merge TABDELIMITED to BMP in Java.
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Συγχώνευση TABDELIMITED στο BMP στο Java Δωρεάν Online" %}}
+{{% blocks/products/pf/agp/content h2="Συγχώνευση TABDELIMITED στο BMP στο Java" %}}
 
 Το παρακάτω παράδειγμα δείχνει πώς να συγχωνεύσετε το TABDELIMITED στο BMP στο Aspose.Cells for Java.
 {{% blocks/products/pf/agp/text %}}
@@ -56,7 +56,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Merge TABDELIMITED to BMP in Java.
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Δωρεάν online για συγχώνευση TABDELIMITED στο BMP στο Java" InputFormat="tsv" InputFormat2="bmp" outformat="bmp" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="java" %}}
+{{% cells-merger title="Δείγμα κώδικα για συγχώνευση TABDELIMITED στο BMP στο Java" InputFormat="tsv" InputFormat2="bmp" outformat="bmp" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="Πώς να συγχωνεύσετε το TABDELIMITED στο BMP via Java" %}}
 

@@ -38,7 +38,7 @@ description: C# Δείγμα κωδικού για μετατροπή XLS σε �
 
 {{% blocks/products/pf/agp/text %}}
 
- Απλώς βεβαιωθείτε ότι το σύστημα έχει Microsoft Windows ή ένα συμβατό λειτουργικό σύστημα με .NET Framework, .NET Core, Windows Azure, Mono ή Xamarin πλατφόρμες, καθώς και περιβάλλον ανάπτυξης 80161 Studio3, όπως 80161 Studio6.
+Απλώς βεβαιωθείτε ότι το σύστημα έχει Microsoft Windows ή ένα συμβατό λειτουργικό σύστημα με .NET Framework, .NET Core, Windows Azure, Mono ή Xamarin πλατφόρμες, καθώς και περιβάλλον ανάπτυξης 80161 Studio3, όπως 80161 Studio6.
 
 {{% /blocks/products/pf/agp/text %}}
 

@@ -1,7 +1,7 @@
 ---
 title: Skapa XLT - Skapa XLT fil i Java
-description: Aspose Excel. Java Skapa XLT fil. Skapa XLT Java. Java XLT Skapare. Skapa XLT i Java. Generera filen XLT med Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Create XLT Java., Java XLT Creater., Create XLT file in Java., Generate XLT file in Java]
+description: Aspose Excel. Java Skapa XLT Arkivera snabbt och enkelt med Aspose.Cells. Skapa XLT fil med Java. Skapa XLT i Java. 0761836481 Skapa Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java Create XLT file., Generate XLT file in Java., Create XLT file using Java., Write data to XLT file via Java., Create a XLT file in Java., Java Generate a XLT file., Java XLT Creater]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Skapa XLT-fil i Java" h2="Höghastighets Java-bibliotek för att skapa XLT-fil. Detta är en professionell mjukvarulösning för att importera och exportera XLSX, PDF och många andra format med Java." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLT" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -11,7 +11,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Create XLT Java., Java XLT Creater
 
 {{% blocks/products/pf/agp/content h2="Skapa XLT-fil med Java" %}}
 
- Hur skapar man XLT-fil? Med Aspose.Cells for Java-biblioteket kan du enkelt skapa XLT-filen programmatiskt med några rader kod.[Aspose.Cells for Java](https://products.aspose.com/cells/java) kan bygga plattformsoberoende applikationer med förmågan att generera, modifiera, konvertera, rendera och skriva ut alla Excel-filer. Java Excel API konverterar inte bara mellan kalkylarksformat, det kan också rendera Excel-filer som bilder, PDF, HTML, ODS, ODS, CSV, 0761687481, 0761687481, vilket gör det till ett perfekt val, Pt utbyta dokument i branschstandard format. Du kan ladda ner den senaste versionen direkt från[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) och installera det i ditt Maven-baserade projekt genom att lägga till följande konfigurationer till pom.xml.
+ Hur skapar man XLT-fil? Med Aspose.Cells for Java-biblioteket kan du enkelt skapa XLT-filen programmatiskt med några rader kod.[Aspose.Cells for Java](https://products.aspose.com/cells/java)kan bygga plattformsoberoende applikationer med förmågan att generera, modifiera, konvertera, rendera och skriva ut alla Excel-filer. Java Excel API konverterar inte bara mellan kalkylarksformat, den kan också rendera Excel-filer som bilder, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT och mer, vilket gör det till ett perfekt val att utbyta dokument i industristandardformat. Du kan ladda ner den senaste versionen direkt från[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) och installera det i ditt Maven-baserade projekt genom att lägga till följande konfigurationer till pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Förvar" offSpacer="true" %}}
 
@@ -57,7 +57,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Create XLT Java., Java XLT Creater
 1.  Skapa en instans av[Arbetsbok klass](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook).
 1.  Öppna det relevanta kalkylbladet med metoden getWorksheets.get().
 1.  Välj den relevanta cellen, mata in värdet i önskad cell med cellnamnet, som A1, B3, etc.
-1.  Spara arbetsboken som XLT-format med metoden save().
+1. Spara arbetsboken som XLT-format med metoden save().
 
 {{% blocks/products/pf/agp/code-block title="Exempelkod visar hur man skapar XLT-filen i Java." offSpacer="" %}}
 
@@ -101,7 +101,7 @@ wkb.save("Excel.xlt");
 
 {{% blocks/products/pf/agp/text %}}
 
-Innan du kör källkoden för Java omvandlingsexempel, se till att du har följande förutsättningar.
+ Innan du kör källkoden för Java omvandlingsexempel, se till att du har följande förutsättningar.
 
 {{% /blocks/products/pf/agp/text %}}
 

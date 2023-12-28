@@ -1,7 +1,8 @@
 ---
-title:  Υδατογράφημα XLSB έγγραφο via Java
+title: Υδατογράφημα XLSB έγγραφο via Java
 weight: 5900
 description: Java δείγμα κώδικα για προσθήκη ή αφαίρεση υδατογραφήματος στο αρχείο XLSB στο Java Runtime Environment για εφαρμογές JSP/JSF και εφαρμογές επιφάνειας εργασίας.
+keywords: [Java Aspose.Cells., Java add watermark to xlsb file., Java insert watermark to xlsb file., Java create watermark in xlsb file., remove watermark from xlsb file using Java., Java operate watermark in xlsb file., Java access watermark in xlsb file]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Προσθέστε Υδατογράφημα κειμένου στο XLSB via Java" h2="Δημιουργήστε τις δικές σας εφαρμογές Java για να υδατογραφήσετε αρχεία XLSB χρησιμοποιώντας API από την πλευρά του διακομιστή." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSB" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="" fileiconsmall1="PPTX" fileiconsmall2="DOCX" fileiconsmall3="XLSX" fileiconsmall4="PDF" fileiconsmall5=" ODP " >}}

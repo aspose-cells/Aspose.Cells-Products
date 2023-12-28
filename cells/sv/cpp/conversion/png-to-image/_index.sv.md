@@ -1,7 +1,7 @@
 ---
-title: C++ PNG till IMAGE - Online PNG till IMAGE Converter
-description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. Gratis Online C++ Konvertera PNG till IMAGE saveformat. C++ PNG till IMAGE-format. Spara PNG till BILD C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ PNG to IMAGE saveformat., Free Online PNG to IMAGE C++., C++ Convert PNG to IMAGE]
+title: C++ PNG till IMAGE - PNG till IMAGE Converter
+description: Aspose Excel. Konvertera PNG till IMAGE snabbt och enkelt med Aspose.Cells. C++ PNG till IMAGE. C++ Spara PNG till BILD. Spara PNG som BILD med C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., Convert PNG to IMAGE in C++., Save PNG to IMAGE using C++., C++ PNG to IMAGE saveformat., PNG to IMAGE Converter., C++ Save PNG as IMAGE]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Konvertera PNG till IMAGE i C++" h2="Högpresterande PNG till IMAGE-konvertering med C++-bibliotek utan behov av Microsoft Excel, OpenOffice eller Adobe Acrobat-installation." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" sourceAdditionalConversionTag="" additionalConversionTag="IMAGE" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ PNG to IMAGE
 
 {{% blocks/products/pf/agp/content h2="Konvertera PNG till IMAGE med C++" %}}
 
- Hur konverterar jag PNG till IMAGE? Med Aspose.Cells for C++ bibliotek kan du enkelt konvertera PNG till IMAGE programmatiskt med några rader kod.[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) kan bygga plattformsoberoende applikationer med förmågan att generera, modifiera, konvertera, rendera och skriva ut alla Excel-filer. C++ Excel API konverterar inte bara mellan kalkylarksformat, det kan också rendera Excel-filer som bilder, PDF, HTML, ODS, ODS, CSV, 0761687481, 0761687481, vilket gör det till ett perfekt val, Pt utbyta dokument i branschstandard format. Du kan ladda ner den senaste versionen direkt, bara öppna[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) pakethanteraren, sök efter Aspose.Cells.Cpp och installera. Du kan också använda följande kommando från Package Manager Console.
+ Hur konverterar jag PNG till IMAGE? Med Aspose.Cells for C++ bibliotek kan du enkelt konvertera PNG till IMAGE programmatiskt med några rader kod.[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) kan bygga plattformsoberoende applikationer med förmågan att generera, modifiera, konvertera, rendera och skriva ut alla Excel-filer. C++ Excel API konverterar inte bara mellan kalkylarksformat, den kan också rendera Excel-filer som bilder, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT och mer, vilket gör det till ett perfekt val att utbyta dokument i industristandardformat. Du kan ladda ner den senaste versionen direkt, bara öppna[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) pakethanteraren, sök efter Aspose.Cells.Cpp och installera. Du kan också använda följande kommando från Package Manager Console.
 
 {{% blocks/products/pf/agp/code-block title="Kommando" offSpacer="true" %}}
 
@@ -26,7 +26,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Spara PNG till IMAGE i C++ Online gratis" %}}
+{{% blocks/products/pf/agp/content h2="Spara PNG till IMAGE på C++" %}}
 
 Följande exempel visar hur man konverterar PNG till IMAGE i C++.
 {{% blocks/products/pf/agp/text %}}
@@ -37,7 +37,7 @@ Följ de enkla stegen för att konvertera PNG till IMAGE. Ladda upp din PNG-fil 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Gratis app och provkod för att konvertera PNG till IMAGE Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="png" outformat="png" IsLandingPage="true" language="cpp" %}}
+{{% cells-convert title="Exempelkod för att konvertera PNG till IMAGE" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="png" outformat="png" IsLandingPage="true" language="cpp" %}}
 
 {{% blocks/products/pf/agp/content h2="Hur man konverterar PNG till IMAGE via C++" %}}
 
@@ -49,7 +49,7 @@ Behöver du konvertera PNG-filer till IMAGE programmatiskt? C++-utvecklare kan e
 
 1.  Installera 'Aspose.Cells for C++'.
 1.  Lägg till en biblioteksreferens (importera biblioteket) till ditt C++-projekt.
-1.  Ladda PNG-filen med Factory::CreateIWorkbook.
+1.  Ladda PNG-filen med arbetsbok.
 1.  Konvertera PNG till IMAGE genom att anropa metoden Save().
 1.  Få konverteringsresultatet från PNG till IMAGE.
 
@@ -101,7 +101,6 @@ Det finns tre alternativ för att installera "Aspose.Cells for C++" på ditt sys
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/png-to-pdf/" name="PNG TILL PDF" description="Portabelt dokumentformat" >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/png-to-svg/" name="PNG TILL SVG" description="Skalbar vektorgrafik" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/png-to-tiff/" name="PNG TILL TIFF" description="Taggad bildformat" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/png-to-tsv/" name="PNG TILL TSV" description="Tab-separerade värden" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/png-to-txt/" name="PNG TILL TXT" description="Textdokument" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/png-to-xls/" name="PNG TILL XLS" description="Excel binärt format" >}}

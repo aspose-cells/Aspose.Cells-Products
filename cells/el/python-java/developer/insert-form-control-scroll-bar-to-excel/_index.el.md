@@ -1,7 +1,8 @@
 ---
-title: Εισαγωγή ScrollBar (Έλεγχος φόρμας) στο Excel χρησιμοποιώντας Python via java
+title:  Εισαγωγή ScrollBar (Έλεγχος φόρμας) στο Excel χρησιμοποιώντας Python via java
 weight: 90
 description: Python via πηγαίος κώδικας java για εισαγωγή ScrollBar (Έλεγχος φόρμας) στο Excel.
+keywords: [Python via Java Aspose.Cells., Python via Java add ScrollBar into Excel., Python via Java insert ScrollBar into Excel., Python via Java create ScrollBar in Excel]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Εισαγωγή ScrollBar (Έλεγχος φόρμας) στο Excel χρησιμοποιώντας Python via java" h2="Εισαγάγετε αντικείμενα χρησιμοποιώντας API από την πλευρά του διακομιστή χωρίς λογισμικό όπως Microsoft ή Open Office, Adobe PDF κ.λπ." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="" pfName="Aspose.Cells" subTitlepfName="for Python via Java" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="XLSX" >}}
@@ -37,7 +38,7 @@ description: Python via πηγαίος κώδικας java για εισαγωγ
 
 {{% /blocks/products/pf/agp/text %}}
 
-Δημιουργία αντικειμένου βιβλίου εργασίας.(ή->Φορτώστε το αρχείο XLSX με πλήρη διαδρομή.)
++ Δημιουργία αντικειμένου βιβλίου εργασίας.(ή->Φορτώστε το αρχείο XLSX με πλήρη διαδρομή.)
 + Επιλέξτε Φύλλο εργασίας μέσω του ευρετηρίου του.
  + Χρησιμοποιήστε τα shapecollection's[μέθοδος προσθήκης](https://reference.aspose.com/cells/python-java/asposecells.api/shapecollection#addScrollBar(int,%20int,%20int,%20int,%20int,%20int)) για να εισαγάγετε ένα ScrollBar (Στοιχείο ελέγχου φόρμας) στο επιλεγμένο φύλλο εργασίας.
 + Αποθήκευση βιβλίου εργασίας σε μορφή XLSX.
@@ -52,8 +53,8 @@ description: Python via πηγαίος κώδικας java για εισαγωγ
  
 {{% /blocks/products/pf/agp/text %}}
 
-- Οποιοδήποτε λειτουργικό σύστημα που μπορεί να τρέξει Python via java scripts, όπως Windows, Linux και MacOS
--  Εγκαταστήστε το Java και προσθέστε το στη μεταβλητή περιβάλλοντος PATH, για παράδειγμα:<code>PATH=C:\Program Files\Java\jdk1.8.0_131;</code>.
+-  Οποιοδήποτε λειτουργικό σύστημα που μπορεί να τρέξει Python via java scripts, όπως Windows, Linux και MacOS
+- Εγκαταστήστε το Java και προσθέστε το στη μεταβλητή περιβάλλοντος PATH, για παράδειγμα:<code>PATH=C:\Program Files\Java\jdk1.8.0_131;</code>.
 -  Εγκατάσταση Aspose.Cells for Python μέσω java από<a href="https://pypi.org/project/aspose-cells/">pypi</a> , χρησιμοποιήστε την εντολή ως:<code>$ pip install aspose-cells</code>.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

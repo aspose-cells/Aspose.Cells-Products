@@ -1,6 +1,7 @@
 ---
 title:  Lägg till en linje i diagrammet via C#
 description: C# Exempelkod för att lägga till en linje i diagrammet till Excel med hjälp av .NET Library. Använd den här koden för att lägga till en linje i diagrammet till MS Excel i VB.NET, Asp.NET eller någon .NET-baserad applikation.
+keywords: [C# Aspose.Cells., c# add a line in chart., c# insert a line in chart., c# create a line in chart]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Lägg till en linje i diagrammet via C#" h2="Native och högpresterande MS Excel skapande programmatiskt med hjälp av serversidan .NET API: er." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSX" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -27,7 +28,7 @@ Det är enkelt att lägga till en linje i diagrammet dynamiskt i ett program som
 1.  Lägg till några data till kalkylbladsceller med[**Cell**](https://reference.aspose.com/cells/net/aspose.cells/cell) föremål[**PutValue**](https://reference.aspose.com/cells/net/aspose.cells/cell/methods/putvalue/index)metod.
  Detta kommer att användas som datakälla för diagrammet.
 1.  Lägg till ett diagram i kalkylbladet genom att anropa[**Diagram**](https://reference.aspose.com/cells/net/aspose.cells.charts/chartcollection) samlingens[**Lägg till**](https://reference.aspose.com/cells/net/aspose.cells.charts/chartcollection/methods/add) metod, inkapslad i[**Arbetsblad**](https://reference.aspose.com/cells/net/aspose.cells/worksheet)objekt.
-1.  Få tillgång till det nya[**Diagram**](https://reference.aspose.com/cells/net/aspose.cells.charts/chart)objekt från diagramsamlingen genom att skicka dess index, ange diagrammets datakälla genom att anropa[**Chart.SetChartDataRange**](https://https://reference.aspose.com/cells/net/aspose.cells.charts/chart/methods/setchartdatarange).
+1.  Få tillgång till det nya[**Diagram**](https://reference.aspose.com/cells/net/aspose.cells.charts/chart) objekt från diagramsamlingen genom att skicka dess index, ange diagrammets datakälla genom att anropa[**Chart.SetChartDataRange**](https://https://reference.aspose.com/cells/net/aspose.cells.charts/chart/methods/setchartdatarange).
 1.  Beräkna sjökortets position genom att ringa[**Beräkna**](https://https://reference.aspose.com/cells/net/aspose.cells.charts/chart/methods/Calculate) metod.
 1.  Lägg till en[**Linje**](https://reference.aspose.com/cells/net/aspose.cells.drawing/shape/properties/msodrawingtype) Forma genom att anropa metoden Chart.Shapes.AddShapeInChartByScale.
 1. Ställ in linjeformatet
@@ -38,7 +39,7 @@ Det är enkelt att lägga till en linje i diagrammet dynamiskt i ett program som
 
 {{% blocks/products/pf/agp/text %}}
 
- Se bara till att systemet har Microsoft Windows eller ett kompatibelt operativsystem med .NET Framework, .NET Core, Windows Azure, Mono eller Xamarin-plattformar samt utvecklingsmiljö som 4076163 som 4076163.
+Se bara till att systemet har Microsoft Windows eller ett kompatibelt operativsystem med .NET Framework, .NET Core, Windows Azure, Mono eller Xamarin-plattformar samt utvecklingsmiljö som 4076163 som 4076163.
 
 {{% /blocks/products/pf/agp/text %}}
 

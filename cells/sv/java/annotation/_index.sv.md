@@ -1,6 +1,7 @@
 ---
-title: Excel-filanteckningar via Java
+title: Lägg till eller ta bort Excel-filanteckningar via Java
 description: Lägg till eller ta bort datakommentarer för Excel- och OpenOffice-kalkylblad med Java-biblioteket.
+keywords: [Java Aspose.Cells., add excel annotation., insert excel annotation., access excel annotation., remove excel annotation., delete excel annotation., add annotation in excel., insert annotation in excel., access annotation in excel., remove annotation in excel., delete annotation in excel]
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
 {{< blocks/products/pf/i18n/feature-page-header h1="Hantera Microsoft<sup>&reg;</sup> Excel-filanteckningar via Java" h2="Infoga enkla anteckningar för anteckningar eller ta bort kommentarer på cellnivå i Excel-kalkylark i Java-baserade applikationer." >}}

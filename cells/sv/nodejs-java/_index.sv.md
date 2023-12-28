@@ -343,7 +343,7 @@ Aspose.Cells for Node.js via Java ger full kontroll över kalkylbladets sidinst�
  Manipulera rader &amp; Kolumner
     </h2>
     <p>
- Aspose.Cells for Node.js via Java låter dig manipulera rader och kolumner på många olika sätt. Du kan enkelt justera radhöjden &amp; kolumnbredd, anpassa cellerna automatiskt efter innehållet, infoga &amp; ta bort, dölj &amp; av-gömma såväl som grupp &amp; avgruppera rader &amp; kolumner.
+ Aspose.Cells for Node.js via Java låter dig manipulera rader och kolumner på många olika sätt. Du kan enkelt justera radhöjden &amp; kolumnbredd, anpassa cellerna automatiskt efter innehållet, infoga &amp; ta bort, dölj &amp; av-gömma samt gruppera &amp; avgruppera rader &amp; kolumner.
     </p>
    </div>
    <div class="col-lg-12">

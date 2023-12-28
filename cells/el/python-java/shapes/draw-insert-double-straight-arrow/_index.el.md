@@ -2,6 +2,7 @@
 title:  Πώς μπορώ να σχεδιάσω ή να εισαγάγω διπλό ευθύ βέλος στο Excel χρησιμοποιώντας Python via java
 weight: 10
 description: Python via πηγαίος κώδικας java για να σχεδιάσετε ή να εισαγάγετε διπλό ίσιο βέλος στο Excel.
+keywords: [Python Aspose.Cells., Python add double straight arrow., Python insert double straight arrow., Python create double straight arrow]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Εισαγάγετε διπλό ευθύ βέλος στο Excel χρησιμοποιώντας Python via java" h2="Εισαγάγετε διπλό ίσιο βέλος χρησιμοποιώντας το Aspose.Cells\' API χωρίς λογισμικό όπως Microsoft ή Open Office, Adobe PDF κ.λπ." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="" pfName="Aspose.Cells" subTitlepfName="for Python via Java" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="XLSX" >}}
@@ -11,7 +12,7 @@ description: Python via πηγαίος κώδικας java για να σχεδ�
 
 {{% blocks/products/pf/agp/content h2="Πώς να εισαγάγετε διπλό ευθύ βέλος στο αρχείο Excel χρησιμοποιώντας Python via java" %}}
 
- Για να εισαγάγουμε διπλό ίσιο βέλος στο αρχείο excel, θα χρησιμοποιήσουμε
+Για να εισαγάγουμε διπλό ίσιο βέλος στο αρχείο excel, θα χρησιμοποιήσουμε
  [Aspose.Cells for Python μέσω java](https://pypi.org/project/aspose-cells/) 
  API που είναι πλούσιο σε χαρακτηριστικά, ισχυρό και εύχρηστο χειρισμό εγγράφων API for Python μέσω πλατφόρμας java. Το API παρέχει δημιουργία, χειρισμό, μετατροπή και απόδοση αρχείων Excel. Όλα χωρίς να βασίζεστε σε εφαρμογές Office ή Excel Microsoft. Μπορείτε να εγκαταστήσετε από την κονσόλα χρησιμοποιώντας την ακόλουθη εντολή.
 
@@ -37,7 +38,7 @@ description: Python via πηγαίος κώδικας java για να σχεδ�
 
 {{% /blocks/products/pf/agp/text %}}
 
-Δημιουργία αντικειμένου βιβλίου εργασίας.(ή->Φορτώστε το αρχείο XLSX με πλήρη διαδρομή.)
++ Δημιουργία αντικειμένου βιβλίου εργασίας.(ή->Φορτώστε το αρχείο XLSX με πλήρη διαδρομή.)
 + Επιλέξτε Φύλλο εργασίας μέσω του ευρετηρίου του.
  + Χρησιμοποιήστε τα shapecollection's[μέθοδος προσθήκης](https://reference.aspose.com/cells/python-java/asposecells.api/shapecollection#addLine(int,%20int,%20int,%20int,%20int,%20int)) για να εισαγάγετε ένα διπλό ίσιο βέλος στο επιλεγμένο φύλλο εργασίας.
 + Αποθήκευση βιβλίου εργασίας σε μορφή XLSX.
@@ -52,8 +53,8 @@ description: Python via πηγαίος κώδικας java για να σχεδ�
  
 {{% /blocks/products/pf/agp/text %}}
 
-- Οποιοδήποτε λειτουργικό σύστημα που μπορεί να τρέξει Python via java scripts, όπως Windows, Linux και MacOS
--  Εγκαταστήστε το Java και προσθέστε το στη μεταβλητή περιβάλλοντος PATH, για παράδειγμα:<code>PATH=C:\Program Files\Java\jdk1.8.0_131;</code>.
+-  Οποιοδήποτε λειτουργικό σύστημα που μπορεί να τρέξει Python via java scripts, όπως Windows, Linux και MacOS
+- Εγκαταστήστε το Java και προσθέστε το στη μεταβλητή περιβάλλοντος PATH, για παράδειγμα:<code>PATH=C:\Program Files\Java\jdk1.8.0_131;</code>.
 -  Εγκατάσταση Aspose.Cells for Python μέσω java από<a href="https://pypi.org/project/aspose-cells/">pypi</a> , χρησιμοποιήστε την εντολή ως:<code>$ pip install aspose-cells</code>.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
@@ -81,7 +82,7 @@ Aspose.Cells API με δυνατότητα δημιουργίας εφαρμογ
 
 <!-- aboutfile Ends -->
 <!--
-{{< blocks/products/pf/agp/other-supported-section title="Other Supported Splitting Formats" subTitle="Using C#, One can also split large file into chunks of many other file formats including." >}}
+{{< blocks/products/pf/agp/other-supported-section title="Other Supported Splitting Formats" subTitle="Using Python, One can also split large file into chunks of many other file formats including." >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/splitter/ods/" name="ODS" description="OpenDocument Spreadsheet File" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/splitter/xls/" name="XLS" description="Excel Binary Format" >}}

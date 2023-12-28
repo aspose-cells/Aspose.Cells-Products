@@ -10,7 +10,7 @@ description: Exempelkod för konvertering av xlsx till pdf Python. Använd API e
 
 {{% blocks/products/pf/agp/content h2="Hur man konverterar XLSX till PDF med Python" %}}
 
- För att konvertera XLSX till PDF kommer vi att använda
+För att konvertera XLSX till PDF kommer vi att använda
  [Aspose.Cells for Python](https://pypi.org/project/aspose-cells) 
  API som är en funktionsrik, kraftfull och lättanvänd plattform för dokumentmanipulation och konvertering API for Python.
 {{% /blocks/products/pf/agp/content %}}
@@ -41,11 +41,11 @@ description: Exempelkod för konvertering av xlsx till pdf Python. Använd API e
 {{% /blocks/products/pf/agp/text %}}
 
 -  Installera Java och lägg till den i PATH miljövariabel, till exempel:<code>PATH=C:\Program Files\Java\jdk1.8.0_131;</code>.
-- Installera Aspose.Cells for Python från<a href="https://pypi.org/project/aspose-cells/">pypi</a> , använd kommandot som:<code>$ pip install aspose-cells</code>.
+-  Installera Aspose.Cells for Python från<a href="https://pypi.org/project/aspose-cells/">pypi</a> , använd kommandot som:<code>$ pip install aspose-cells</code>.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Convert XLSX to PDF-A - Python" offSpacer="" %}}
+{{% blocks/products/pf/agp/code-block title="Konvertera XLSX till PDF-A - Python" offSpacer="" %}}
 
 {{< gist "aspose-cells-gists" "32e50c6aabc547111966569f3fd39694" "Convert-XLSX-to-PDFA.py" >}}
 
@@ -57,7 +57,7 @@ description: Exempelkod för konvertering av xlsx till pdf Python. Använd API e
 
     {{% blocks/products/pf/agp/content h2="" %}}
 
- Ett Excel-kalkylbladsprogrammeringsbibliotek som kan bygga plattformsoberoende applikationer med förmågan att generera, modifiera, konvertera, rendera och skriva ut alla Excel-filer. Python Excel API konverterar inte bara mellan kalkylarksformat, det kan också rendera Excel-filer som bilder, PDF, HTML, ODS, ODS, CSV, 0761687481, 0761687481, vilket gör det till ett perfekt val, Pt utbyta dokument i branschstandard format.
+Ett Excel-kalkylbladsprogrammeringsbibliotek som kan bygga plattformsoberoende applikationer med förmågan att generera, modifiera, konvertera, rendera och skriva ut alla Excel-filer. Python Excel API konverterar inte bara mellan kalkylarksformat, den kan också rendera Excel-filer som bilder, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT och mer, vilket gör det till ett perfekt val att utbyta dokument i industristandardformat.
 
     {{% /blocks/products/pf/agp/content %}}
 

@@ -1,8 +1,8 @@
 ---
 title: Συγχώνευση XLT σε JSON - Συνδυάστε XLT σε JSON στο C#
 url: /el/net/merger/merge-xlt-to-json/ 
-description: Aspose Excel. C# Aspose.Cells. Δωρεάν Online Συγχώνευση XLT σε JSON saveformat. C# Συνδυάστε τη μορφή XLT με JSON. Συγχώνευση XLT σε JSON στο C#. XLT Συγχώνευση.
-keywords: [Aspose Excel., C# Aspose.Cells., Merge XLT to JSON in C#., Free Online C# Merge XLT to json., C# Combine XLT to JSON Online for Free., XLT Merge]
+description: Aspose Excel. C# Aspose.Cells. Συγχώνευση XLT σε μορφή αποθήκευσης JSON. C# Συνδυάστε τη μορφή XLT με JSON. Συγχώνευση XLT σε JSON στο C#. XLT Συγχώνευση.
+keywords: [Aspose Excel., C# Aspose.Cells., Merge XLT to JSON in C#., C# Merge XLT to json., C# Combine XLT to JSON., XLT Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Συγχώνευση XLT σε JSON μέσω C#" h2="Βιβλιοθήκη υψηλής ταχύτητας C# για συγχώνευση XLT με JSON. Χρησιμοποιήστε τη μετατροπή excel API για να αναπτύξετε λογισμικό υψηλού επιπέδου, ανεξάρτητο από την πλατφόρμα στο C#. Αυτή είναι μια επαγγελματική λύση λογισμικού για εισαγωγή και εξαγωγή 5 άλλων μορφών excel 076, πολλών και πολλών μορφών excel." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="XLT" additionalConversionTag="JSON" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., C# Aspose.Cells., Merge XLT to JSON in C#., Free Onlin
 
 {{% blocks/products/pf/agp/content h2="Συγχώνευση XLT σε JSON χρησιμοποιώντας C#" %}}
 
- Πώς μπορώ να συγχωνεύσω το XLT με το JSON; Με τη βιβλιοθήκη Aspose.Cells for .NET, μπορείτε εύκολα να συγχωνεύσετε το XLT με το JSON μέσω προγραμματισμού με λίγες γραμμές κώδικα.[Aspose.Cells for .NET](https://products.aspose.com/cells/net)έχει τη δυνατότητα δημιουργίας εφαρμογών πολλαπλών πλατφορμών με δυνατότητα δημιουργίας, τροποποίησης, μετατροπής, απόδοσης και εκτύπωσης όλων των αρχείων Excel. .NET Το Excel API όχι μόνο μετατρέπει μεταξύ μορφών υπολογιστικών φύλλων, αλλά μπορεί επίσης να αποδώσει αρχεία Excel ως εικόνες, PDF, HTML, ODS, CSV, 07616031481, CSV, 07616831481, δημιουργώντας περισσότερα τέλεια επιλογή για την ανταλλαγή εγγράφων σε βιομηχανικά πρότυπα μορφές. Ανοιξε[NuGet](https://www.nuget.org/packages/aspose.cells) διαχειριστής πακέτων, αναζητήστε Aspose.Cells και εγκαταστήστε. Μπορείτε επίσης να χρησιμοποιήσετε την ακόλουθη εντολή από την Κονσόλα Package Manager.
+ Πώς μπορώ να συγχωνεύσω το XLT με το JSON; Με τη βιβλιοθήκη Aspose.Cells for .NET, μπορείτε εύκολα να συγχωνεύσετε το XLT με το JSON μέσω προγραμματισμού με λίγες γραμμές κώδικα.[Aspose.Cells for .NET](https://products.aspose.com/cells/net)έχει τη δυνατότητα δημιουργίας εφαρμογών πολλαπλών πλατφορμών με δυνατότητα δημιουργίας, τροποποίησης, μετατροπής, απόδοσης και εκτύπωσης όλων των αρχείων Excel. .NET Το Excel API όχι μόνο μετατρέπει μεταξύ μορφών υπολογιστικών φύλλων, αλλά μπορεί επίσης να αποδώσει αρχεία Excel ως εικόνες, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT και άλλα, καθιστώντας έτσι την τέλεια επιλογή για την ανταλλαγή εγγράφων σε βιομηχανικές τυποποιημένες μορφές. Ανοιξε[NuGet](https://www.nuget.org/packages/aspose.cells) διαχειριστής πακέτων, αναζητήστε Aspose.Cells και εγκαταστήστε. Μπορείτε επίσης να χρησιμοποιήσετε την ακόλουθη εντολή από την Κονσόλα Package Manager.
 
 {{% blocks/products/pf/agp/code-block title="Εντολή κονσόλας διαχείρισης πακέτων" offSpacer="true" %}}
 
@@ -26,7 +26,7 @@ PM> Install-Package Aspose.Cells
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Συγχώνευση XLT στο JSON στο C# Δωρεάν Online" %}}
+{{% blocks/products/pf/agp/content h2="Συγχώνευση XLT με JSON στο C#" %}}
 
 Το ακόλουθο παράδειγμα δείχνει πώς να συγχωνεύσετε το XLT με το JSON στο Aspose.Cells for .NET.
 {{% blocks/products/pf/agp/text %}}
@@ -37,7 +37,7 @@ PM> Install-Package Aspose.Cells
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Δωρεάν online για συγχώνευση XLT με JSON στο C#" InputFormat="xlt" InputFormat2="json" outformat="json" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="net" %}}
+{{% cells-merger title="Δείγμα κωδικού για συγχώνευση XLT έως JSON στο C#" InputFormat="xlt" InputFormat2="json" outformat="json" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="net" %}}
 
 {{% blocks/products/pf/agp/content h2="Πώς να συγχωνεύσετε το XLT στο JSON μέσω του C#" %}}
 

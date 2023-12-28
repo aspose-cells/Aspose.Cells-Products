@@ -2,6 +2,7 @@
 title:  Δημιουργία αναφορών σε XLSX Αρχεία via Java
 weight: 7710
 description: Java δείγμα κώδικα για τη δημιουργία αναφορών μορφής XLSX στο Java Runtime Environment για εφαρμογές JSP/JSF και εφαρμογές επιφάνειας εργασίας.
+keywords: [Java Aspose.Cells., Java Create XLSX Reports Based on Predesigned Excel Template., Java Generate XLSX Reports Based on Predesigned Excel Template., Java Create XLSX Reports Based on Excel Template., Java Generate XLSX Reports Based on Excel Template., Java Create xlsx files Based on Excel Template., Java Generate xlsx files Based on Excel Template]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Δημιουργία μαζικής αναφοράς σε μορφή XLSX via Java" h2="Δημιουργήστε αναφορές σε μορφή XLSX χρησιμοποιώντας πηγή δεδομένων και πρότυπο." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSX" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -75,9 +76,9 @@ description: Java δείγμα κώδικα για τη δημιουργία α�
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Δημιουργία αναφορών Excel σε μορφή XLSX - C#" offSpacer="" %}}
+{{% blocks/products/pf/agp/code-block title="Δημιουργία αναφορών Excel σε μορφή XLSX - Java" offSpacer="" %}}
 
-```cs
+```java
 //Create a workbook designer
 WorkbookDesigner designer = new WorkbookDesigner(workbook);
 

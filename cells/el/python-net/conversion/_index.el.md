@@ -1,12 +1,13 @@
 ---
 title: Microsoft Μετατροπή αρχείου Excel με χρήση Python via NET
-description: Μετατρέψτε το Excel XLS, XLSX, ODS, CSV σε PDF, XPS, HTML, JPEG, JPEG, JPEG, 438 με πολλές άλλες 334 δημοφιλείς μορφές και 076 076 81 κωδικός.
+description: Aspose.Cells for Python μέσω NET βιβλιοθήκης. Μετατρέψτε μορφές EXCEL, JSON, PDF, XML, HTML, TXT, TSV, CSV, SQL και άλλες μορφές με λίγες μόνο γραμμές 0816193.
+keywords: [Python Aspose.Cells., excel to pdf., json to excel., excel to json., csv to json., json to html., xml to excel and Convert files between various formats in Python]
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
 {{< blocks/products/pf/i18n/feature-page-header h1="Microsoft<sup>&reg;</sup> Μετατροπή μορφής Excel μέσω Python" h2="Εισαγωγή και εξαγωγή αρχείων Excel ως υπολογιστικού φύλλου, ιστού, εικόνας και μορφής σταθερής διάταξης" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-Python Η Βιβλιοθήκη Excel επιταχύνει τον προγραμματισμό υπολογιστικών φύλλων και τις διαδικασίες μετατροπής ενώ υποστηρίζει δημοφιλείς μορφές, συμπεριλαμβανομένων XLS, XLSX, XLSM, XLSB, XLTX, XLTX, 076113418 ODS. Επιτρέπει επίσης την εξαγωγή αρχείων Excel σε PDF, XPS, HTML, MHTML, Απλό Κείμενο και δημοφιλείς μορφές εικόνας όπως TIFF, JPG, PNG, BMP και SVG.
+Python Η Βιβλιοθήκη Excel επιταχύνει τον προγραμματισμό υπολογιστικών φύλλων και τις διαδικασίες μετατροπής ενώ υποστηρίζει δημοφιλείς μορφές, συμπεριλαμβανομένων των XLS, XLSX, XLSM, XLSB, XLTX, XLTX, XLS, XLTX, XLS. 6193481. Επιτρέπει επίσης την εξαγωγή αρχείων Excel στα PDF, XPS, HTML, MHTML, Απλό Κείμενο και δημοφιλείς μορφές εικόνας όπως TIFF, JPG, PNG, BMP και SVG.
 {{% /blocks/products/pf/feature-page-summary %}}
 
 {{% blocks/products/pf/feature-page-section h2="Μετατροπή Excel σε XLSX, ODS, SXC & FODS" %}}
@@ -85,7 +86,7 @@ workbook.save("Data.json")
 {{< blocks/products/pf/feature-page-options pairs="json-to-xlsx json-to-ods json-to-csv json-to-dif json-to-html csv-to-json xls-to-json ods-to-json" >}}
 
 {{% blocks/products/pf/feature-page-section h2="Μετατροπή φύλλων εργασίας Excel σε JPG, BMP, PNG & GIF" %}}
- Κάθε φύλλο εργασίας ενός αρχείου Excel μπορεί να μετατραπεί σε διαφορετικές μορφές εικόνας, καλέστε[ImageOrPrintOptions](https://reference.aspose.com/cells/python-net/aspose.cells.rendering/imageorprintoptions/) .setImageFormat για να ορίσετε τη μορφή εικόνας.
+ Κάθε φύλλο εργασίας ενός αρχείου Excel μπορεί να μετατραπεί σε διαφορετικές μορφές εικόνας, καλέστε[ImageOrPrintOptions](https://reference.aspose.com/cells/python-net/aspose.cells.rendering/imageorprintoptions/).setImageFormat για να ορίσετε τη μορφή εικόνας.
 {{% blocks/products/pf/feature-page-code h3="Python Κώδικας για Μετατροπή Excel σε Εικόνα" %}}
 ```cs
 // load template spreadsheet
@@ -106,7 +107,7 @@ sr.toImage(0, "output.jpg")
 {{< blocks/products/pf/feature-page-options pairs="xlsx-to-jpg xlsx-to-png xlsx-to-bmp ods-to-gif ods-to-svg ods-to-png ods-to-gif ods-to-bmp sxc-to-jpg mhtml-to-svg xlt-to-svg xls-to-emf fods-to-emf" afterslug="rendering" >}}
 
 {{% blocks/products/pf/feature-page-section h2="Μετατροπή Excel σε Word & PowerPoint" %}}
- Είναι δυνατή η φόρτωση οποιουδήποτε υπολογιστικού φύλλου και η μετατροπή του σε αρχεία Word DOCX & PowerPoint PPTX κατά τη χρήση[DocxSaveOptions](https://reference.aspose.com/cells/python-net/aspose.cells/docxsaveoptions/) & [PptxSaveOptions](https://reference.aspose.com/cells/python-net/aspose.cells/pptxsaveoptions/)τάξεις όπως παρουσιάζεται παρακάτω.
+Είναι δυνατή η φόρτωση οποιουδήποτε υπολογιστικού φύλλου και η μετατροπή του σε αρχεία Word DOCX & PowerPoint PPTX κατά τη χρήση[DocxSaveOptions](https://reference.aspose.com/cells/python-net/aspose.cells/docxsaveoptions/) & [PptxSaveOptions](https://reference.aspose.com/cells/python-net/aspose.cells/pptxsaveoptions/) τάξεις όπως παρουσιάζεται παρακάτω.
 {{% blocks/products/pf/feature-page-code h3="Python κώδικας για Excel σε Word & PowerPoint Μετατροπή" %}}
 ```cs
 // load the template file

@@ -2,6 +2,7 @@
 title:  Infoga knapp (formulärkontroll) i Excel med Python via .Net
 weight: 200
 description: Python via .Net-källkod för att infoga knappen (formulärkontroll) i Excel.
+keywords: [Python via .Net Aspose.Cells., Python via .Net add button into Excel., Python via .Net insert button into Excel., Python via .Net create button in Excel]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Infoga knapp (formulärkontroll) i Excel med Python via .Net" h2="Infoga objekt med hjälp av API:er på serversidan utan någon programvara som Microsoft eller Open Office, Adobe PDF, etc." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="" pfName="Aspose.Cells" subTitlepfName="for Python via .NET" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="XLSX" >}}
@@ -11,9 +12,9 @@ description: Python via .Net-källkod för att infoga knappen (formulärkontroll
 
 {{% blocks/products/pf/agp/content h2="Hur man infogar knapp (formulärkontroll) i Excel-fil med Python via .Net" %}}
 
- För att infoga Button(Form control) i excel-filen kommer vi att använda
+För att infoga Button(Form control) i excel-filen kommer vi att använda
  [Aspose.Cells for Python via .Net](https://pypi.org/project/aspose-cells-python/) 
-API som är en funktionsrik, kraftfull och lättanvänd dokumenthantering API for Python via .Net-plattformen. API tillhandahåller Excel-filskapande, manipulering, konvertering och rendering. Allt utan att förlita sig på Microsoft Office- eller Excel-program. Du kan installera från konsolen med följande kommando.
+ API som är en funktionsrik, kraftfull och lättanvänd dokumenthantering API for Python via .Net-plattformen. API tillhandahåller Excel-filskapande, manipulering, konvertering och rendering. Allt utan att förlita sig på Microsoft Office- eller Excel-program. Du kan installera från konsolen med följande kommando.
 
 {{% blocks/products/pf/agp/code-block title="Kommando" offSpacer="true" %}}
 
@@ -37,7 +38,7 @@ Du behöver Aspose.Cells för att prova följande arbetsflöde i din egen miljö
 
 {{% /blocks/products/pf/agp/text %}}
 
-Instantiera ett arbetsboksobjekt.(eller->Läs in XLSX-filen med fullständig sökväg.)
++ Instantiera ett arbetsboksobjekt.(eller->Läs in XLSX-filen med fullständig sökväg.)
 + Välj kalkylblad via dess index.
  + Använd formkollektionens tillägg[metod](https://reference.aspose.com/cells/python-net/aspose.cells.drawing/shapecollection/add_button/#int-int-int-int-int-int) för att infoga en knapp (formulärkontroll) i det valda kalkylbladet.
 + Spara arbetsboken i XLSX-format.

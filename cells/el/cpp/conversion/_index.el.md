@@ -1,27 +1,29 @@
 ---
-title: Μετατροπή αρχείου Microsoft Excel μέσω C++ 
-
-description: Μετατρέψτε το Excel XLS, XLSX, ODS, CSV σε PDF, XPS, HTML, JPEG και άλλες μορφές με λίγες μόνο γραμμές κώδικα C++.
+title:  Microsoft Μετατροπή αρχείου Excel μέσω C++
+description: Aspose.Cells for C++ βιβλιοθήκη. Μετατρέψτε το EXCEL, JSON, PDF, XML, HTML, TXT, TSV, CSV, SQL, JPG, PNG με λίγες μόνο 61 σειρές από 84 σειρές από 84 σειρές και περισσότερες μορφές κωδικών.
+keywords: [C++ Aspose.Cells., excel to pdf., json to excel., txt to sql., csv to json., json to pdf., xml to excel and Convert files between various formats in C++]
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Microsoft<sup>&reg;</sup> Μετατροπή εγγράφου Excel μέσω C++" h2="Αποθήκευση αρχείων Microsoft<sup>&reg;</sup> Excel ως υπολογιστικού φύλλου, ιστού, εικόνας και μορφής σταθερής διάταξης" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Microsoft<sup>&reg;</sup> Μετατροπή εγγράφου Excel μέσω C++" h2="Αποθήκευση Microsoft<sup>&reg;</sup> αρχείων Excel ως υπολογιστικού φύλλου, ιστού, εικόνας και μορφής σταθερής διάταξης" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-Για οποιαδήποτε εφαρμογή ή λύση μετατροπέα υπολογιστικών φύλλων, η **C++ Βιβλιοθήκη του Excel** επιταχύνει τις διαδικασίες κωδικοποίησης, αυτοματισμού και μετατροπής ενώ χειρίζεται πολλά αρχεία, όπως XLSX, XLS, XLSM, XLSB, XLTX, XLTM, CSV, SpreadsheetML, ODS. Επιτρέπει επίσης τη **μετατροπή του Excel σε PDF**, XPS, HTML, MHTML, Απλό κείμενο και δημοφιλών εικόνων όπως JPG, TIFF, PNG, BMP και SVG.
+ Για οποιαδήποτε εφαρμογή ή λύση μετατροπέα υπολογιστικών φύλλων,**C++ Βιβλιοθήκη Excel** επιταχύνει την κωδικοποίηση, τον αυτοματισμό και τις διαδικασίες μετατροπής κατά το χειρισμό πολλών αρχείων, συμπεριλαμβανομένων των XLSX, XLS, XLSM, XLSB, XLTX, XLTM, XLTM, 07614,16341, XLTM, 076140348. *μετατροπή Excel σε PDF**, XPS, HTML, MHTML, Απλό Κείμενο και δημοφιλείς εικόνες όπως JPG, TIFF, PNG, BMP και SVG.
 {{% /blocks/products/pf/feature-page-summary %}}
 
-{{% blocks/products/pf/feature-page-section h2="Διαμετατροπή μορφών Microsoft Excel" %}}
-Η αλληλομετατροπή της μορφής υπολογιστικού φύλλου απαιτεί μόνο τη φόρτωση ενός υπολογιστικού φύλλου με μια παρουσία του [ intrusive_ptr<Aspose::Cells::IWorkbook>](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook) δείκτη και αποθήκευση πίσω στην επιθυμητή μορφή χρησιμοποιώντας [Σώσει](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook#a9460f52a2dec8f4bf623a4905167d997) μέθοδος για [Τάξη IWorkbook](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook).
+{{% blocks/products/pf/feature-page-section h2="Διαμετατροπή μορφών Excel Microsoft" %}}
+ Η μετατροπή μεταξύ μορφών υπολογιστικού φύλλου απαιτεί μόνο τη φόρτωση του υπολογιστικού φύλλου χρησιμοποιώντας το[ΤΕΤΡΑΔΙΟ ΕΡΓΑΣΙΩΝ](https://reference.aspose.com/cells/cpp/aspose.cells/workbook/) κλάση και αποθηκεύστε το ξανά στην απαιτούμενη μορφή χρησιμοποιώντας το[Αποθηκεύσετε](https://reference.aspose.com/cells/cpp/aspose.cells/workbook/save/) μέθοδος του[ΤΕΤΡΑΔΙΟ ΕΡΓΑΣΙΩΝ](https://reference.aspose.com/cells/cpp/aspose.cells/workbook/) τάξη.
 {{% blocks/products/pf/feature-page-code h3="C++ Παράδειγμα κώδικα για μετατροπή μορφής αρχείου Excel" %}}
 
-```cs
+```cpp
 
-// Φορτώστε την πηγαία μορφή excel.
-intrusive_ptr<Aspose::Cells::IWorkbook> wkb = Factory::CreateIWorkbook(u"src_excel_file.xls");
+Aspose::Cells::Startup();
 
-// Αποθήκευση στην απαιτούμενη μορφή εξόδου.
-wkb->Save(u"output_excel_format.xlsx", SaveFormat_Xlsx);
+// Load the source excel format.
+Workbook wkb(u"src_excel_file.xls");
+// Save in required output format.
+wkb.Save(u"output_excel_format.xlsx", SaveFormat::Xlsx);
 
+Aspose::Cells::Cleanup();
 
 ```
 {{% /blocks/products/pf/feature-page-code %}}
@@ -29,27 +31,29 @@ wkb->Save(u"output_excel_format.xlsx", SaveFormat_Xlsx);
 {{< blocks/products/pf/feature-page-options pairs="xls-to-xlsx xlsx-to-xlsm xlsx-to-ods xlsx-to-csv xlsm-to-xls" >}}
 
 
-{{% blocks/products/pf/feature-page-section h2="Μετατρέψτε τις μορφές του Excel σε PDF με τις ρυθμίσεις επιπέδου συμμόρφωσης" %}}
-Το C++ Excel Automation API υποστηρίζει τη μετατροπή Βιβλίων Εργασίας σε PDF, καθώς και υποστήριξη ρύθμισης επιπέδου συμμόρφωσης και ημερομηνίας δημιουργίας. Οι προγραμματιστές μπορούν να χρησιμοποιήσουν [Επιλογές IPdfSave](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_pdf_save_options) μαζί με [Aspose::Cells::Απόδοση](https://reference.aspose.com/cells/cpp/namespace/aspose.cells.rendering) για να ορίσετε τη συμμόρφωση PDF. Για τη μετατροπή, API μέθοδος αποθήκευσης με PdfSaveOptions ως παράμετρο και καθορισμένη διαδρομή αρχείου εξόδου. 
+{{% blocks/products/pf/feature-page-section h2="Μετατρέψτε τις μορφές Excel σε PDF με τις ρυθμίσεις επιπέδου συμμόρφωσης" %}}
+C++ Το Excel Automation API υποστηρίζει τη μετατροπή των Βιβλίων εργασίας σε PDF, καθώς και τη ρύθμιση υποστήριξης του επιπέδου συμμόρφωσης και της ημερομηνίας δημιουργίας. Οι προγραμματιστές μπορούν να χρησιμοποιήσουν[PdfSaveOptions](https://reference.aspose.com/cells/cpp/aspose.cells/pdfsaveoptions/) μαζί με[Aspose::Cells::Απόδοση](https://reference.aspose.com/cells/cpp/aspose.cells.rendering/) για να ορίσετε τη συμμόρφωση PDF. Για τη μετατροπή, η μέθοδος αποθήκευσης API έχει ως παράμετρο το PdfSaveOptions και καθορισμένη διαδρομή αρχείου εξόδου.
 {{% blocks/products/pf/feature-page-code h3="C++ Δείγμα κώδικα για μετατροπή Excel σε PDF" %}}
 
-```cs
-// Φορτώστε το δείγμα αρχείου Excel.
-intrusive_ptr<Aspose::Cells::IWorkbook> wkb = Factory::CreateIWorkbook(u"sample-convert-excel-to.pdf");
+```cpp
 
-// Δημιουργία αντικειμένου επιλογών αποθήκευσης pdf.
-intrusive_ptr<Aspose::Cells::IPdfSaveOptions> pdfSaveOptions = Factory::CreateIPdfSaveOptions();
+Aspose::Cells::Startup();
 
-// Ρυθμίστε τη συμμόρφωση σε PDF/A-1b.
-pdfSaveOptions->SetCompliance(Aspose::Cells::Rendering::PdfCompliance_PdfA1b);
+// Load the sample Excel file.
+Workbook wkb(u"sample-convert-excel-to.pdf");
+// Create pdf save options object.
+PdfSaveOptions pdfSaveOptions;
 
-// ή PdfCompliance_PdfA1a 
-// για κανονικό PDF θα είναι PdfCompliance_None
+// Set the compliance to PDF/A-1b.
+pdfSaveOptions.SetCompliance(PdfCompliance::PdfA1b);
 
-// Αποθηκεύστε το Έγγραφο του Excel σε μορφή PDF
-wkb->Save(u"output-converted-excel-workbook-to.pdf", pdfSaveOptions);
+// or PdfCompliance::PdfA1a
+// for normal PDF it will be PdfCompliance::None
 
+// Save the Excel Document in PDF format
+wkb.Save(u"output-converted-excel-workbook-to.pdf", pdfSaveOptions);
 
+Aspose::Cells::Cleanup();
 
 ```
 {{% /blocks/products/pf/feature-page-code %}}
@@ -58,54 +62,53 @@ wkb->Save(u"output-converted-excel-workbook-to.pdf", pdfSaveOptions);
 {{< blocks/products/pf/feature-page-options formats="PDF" >}}
 
 {{% blocks/products/pf/feature-page-section h2="Αποθηκεύστε το Excel στις Εικόνες" %}}
-Το **C++ Excel Parser** έχει τη δυνατότητα εξαγωγής δεδομένων με τη μορφή εικόνων. Κάθε φύλλο εργασίας μπορεί να μετατραπεί σε διαφορετικές μορφές εικόνας, συμπεριλαμβανομένων BMP, JPEG, PNG και GIF, που ορίζονται από το [Rendering::IImageOrPrintOptions](https://reference.aspose.com/cells/cpp/class/aspose.cells.rendering.i_image_or_print_options). Για οποιαδήποτε περίπτωση **Μετατροπή Excel σε Εικόνες**, επιλέξτε τη σχετική περίπτωση από συνδέσμους.
+**C++ Excel Parser** έχει τη δυνατότητα εξαγωγής δεδομένων σε μορφή εικόνων. Κάθε φύλλο εργασίας μπορεί να μετατραπεί σε διαφορετικές μορφές εικόνας, συμπεριλαμβανομένων των BMP, JPEG, PNG και GIF, που ορίζονται από το[Rendering::ImageOrPrintOptions](https://reference.aspose.com/cells/cpp/aspose.cells.rendering/imageorprintoptions/) . Για κάθε**Μετατροπή Excel σε Εικόνες** περίπτωση, επιλέξτε τη σχετική περίπτωση από συνδέσμους.
 {{% blocks/products/pf/feature-page-code h3="C++ Κώδικας για Μετατροπή Excel σε Εικόνα" %}}
 
-```cs
-// Διαδρομή καταλόγου εξόδου.
-StringPtr outDir = new String("ImagesOutputDirectoryPath");
+```cpp
 
-// Φορτώστε το XLSX.
-intrusive_ptr<Aspose::Cells::IWorkbook> wkb = Factory::CreateIWorkbook(u"source-excel-file.xlsx");
+Aspose::Cells::Startup();
 
-// Πρόσβαση στο πρώτο φύλλο εργασίας.
-intrusive_ptr<Aspose::Cells::IWorksheet> wks = wkb->GetIWorksheets()->GetObjectByIndex(0);
+// Load the XLSX.
+Aspose::Cells::Workbook wkb(u"source-excel-file.xlsx");
 
-// Δημιουργία αντικειμένου επιλογών εικόνας ή εκτύπωσης.
-intrusive_ptr<Aspose::Cells::Rendering::IImageOrPrintOptions> imgOptions = Factory::CreateIImageOrPrintOptions();
+// Access first worksheet.
+Aspose::Cells::Worksheet wks = wkb.GetWorksheets().Get(0);
 
-// Καθορίστε τη μορφή εικόνας. Ο παρακάτω κώδικας είναι για JPEG
-imgOptions->SetImageFormat(Aspose::Cells::Systems::Drawing::Imaging::ImageFormat::GetJpeg());
+// Create image or print options object.
+Aspose::Cells::Rendering::ImageOrPrintOptions imgOptions;
 
-// Για άλλες εικόνες όπως GIF, BMP και PNG μπορείτε να χρησιμοποιήσετε τα GetGif(), GetBmp() και GetPng() αντίστοιχα 
+// Specify the image format. Below code is for JPEG
+imgOptions.SetImageType(ImageType::Jpeg);
 
-// Καθορίστε την οριζόντια και κάθετη ανάλυση
-imgOptions->SetHorizontalResolution(200);
-imgOptions->SetVerticalResolution(200);
+// For other images like GIF, BMP and PNG one can use ImageType::Gif, ImageType::Bmp and ImageType::Png respectively 
 
-// Αποδώστε το φύλλο σε σχέση με καθορισμένες επιλογές εικόνας ή εκτύπωσης.
-intrusive_ptr<Aspose::Cells::Rendering::ISheetRender> sr = Factory::CreateISheetRender(wks, imgOptions);
+// Specify horizontal and vertical resolution
+imgOptions.SetHorizontalResolution(200);
+imgOptions.SetVerticalResolution(200);
 
-// Λάβετε τον αριθμό σελίδων.
-Aspose::Cells::Systems::Int32 pageCount = sr->GetPageCount();
+// Render the sheet with respect to specified image or print options.
+Aspose::Cells::Rendering::SheetRender sr(wks, imgOptions);
 
-// Δημιουργήστε αντικείμενο δημιουργίας συμβολοσειρών για συνενώσεις συμβολοσειρών.
-intrusive_ptr<Aspose::Cells::Systems::Text::StringBuilder> sb = new Aspose::Cells::Systems::Text::StringBuilder();
+// Get page count.
+int pageCount = sr.GetPageCount();
 
-// Αποδώστε κάθε σελίδα σε εικόνα jpeg μία προς μία.
-for (int i = 0; i < pageCount; i++){
-	// Διαγράψτε το εργαλείο δημιουργίας συμβολοσειρών και δημιουργήστε διαδρομή εικόνας εξόδου με συνενώσεις συμβολοσειρών.
-	sb->Clear();
-	sb->Append(outDir);
-	sb->Append((StringPtr)new String("outputConvertingWorksheetToImageJPEG_"));
-	sb->Append(i);
-	sb->Append((StringPtr)new String(".jpeg"));
-	// Λάβετε τη διαδρομή εικόνας εξόδου.
-	StringPtr outputJPEG = sb->ToString();
-	// Μετατροπή φύλλου εργασίας σε εικόνα.
-	sr->ToImage(i, outputJPEG);
+std::string sb = "";
+// Render each page to jpeg image one by one.
+for (int i = 0; i < pageCount; i++) {
+	sb = ""; 
+	sb += "ImagesOutputDirectoryPath/";
+	sb += "outputConvertingWorksheetToImageJPEG_";
+	sb += std::to_string(i);
+	sb += ".jpeg";
+	// Get the output image path.
+	U16String outputJPEG(sb.c_str());
+	// Convert worksheet to image.
+	sr.ToImage(i, outputJPEG);
 }
 
+Aspose::Cells::Cleanup();
+	
 ```
 {{% /blocks/products/pf/feature-page-code %}}
 {{% /blocks/products/pf/feature-page-section %}}

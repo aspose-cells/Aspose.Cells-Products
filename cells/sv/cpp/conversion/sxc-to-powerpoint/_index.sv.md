@@ -1,7 +1,7 @@
 ---
-title: C++ SXC till POWERPOINT - Online SXC till POWERPOINT Converter
-description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. Gratis Online C++ Konvertera SXC till POWERPOINT saveformat. C++ SXC till POWERPOINT-format. Spara SXC till POWERPOINT C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ SXC to POWERPOINT saveformat., Free Online SXC to POWERPOINT C++., C++ Convert SXC to POWERPOINT]
+title: C++ SXC till POWERPOINT - SXC till POWERPOINT-omvandlare
+description: Aspose Excel. Konvertera SXC till POWERPOINT snabbt och enkelt med Aspose.Cells. C++ SXC till POWERPOINT. C++ Spara SXC till POWERPOINT. Spara SXC som POWERPOINT med C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., Convert SXC to POWERPOINT in C++., Save SXC to POWERPOINT using C++., C++ SXC to POWERPOINT saveformat., SXC to POWERPOINT Converter., C++ Save SXC as POWERPOINT]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Konvertera SXC till POWERPOINT i C++" h2="Högpresterande SXC till POWERPOINT-konvertering med C++-bibliotek utan behov av Microsoft Excel, OpenOffice eller Adobe Acrobat-installation." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" sourceAdditionalConversionTag="" additionalConversionTag="POWERPOINT" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ SXC to POWER
 
 {{% blocks/products/pf/agp/content h2="Konvertera SXC till POWERPOINT med C++" %}}
 
- Hur konverterar jag SXC till POWERPOINT? Med Aspose.Cells for C++ bibliotek kan du enkelt konvertera SXC till POWERPOINT programmatiskt med några rader kod.[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) kan bygga plattformsoberoende applikationer med förmågan att generera, modifiera, konvertera, rendera och skriva ut alla Excel-filer. C++ Excel API konverterar inte bara mellan kalkylarksformat, det kan också rendera Excel-filer som bilder, PDF, HTML, ODS, ODS, CSV, 0761687481, 0761687481, vilket gör det till ett perfekt val, Pt utbyta dokument i branschstandard format. Du kan ladda ner den senaste versionen direkt, bara öppna[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) pakethanteraren, sök efter Aspose.Cells.Cpp och installera. Du kan också använda följande kommando från Package Manager Console.
+ Hur konverterar jag SXC till POWERPOINT? Med Aspose.Cells for C++ bibliotek kan du enkelt konvertera SXC till POWERPOINT programmatiskt med några rader kod.[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) kan bygga plattformsoberoende applikationer med förmågan att generera, modifiera, konvertera, rendera och skriva ut alla Excel-filer. C++ Excel API konverterar inte bara mellan kalkylarksformat, den kan också rendera Excel-filer som bilder, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT och mer, vilket gör det till ett perfekt val att utbyta dokument i industristandardformat. Du kan ladda ner den senaste versionen direkt, bara öppna[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) pakethanteraren, sök efter Aspose.Cells.Cpp och installera. Du kan också använda följande kommando från Package Manager Console.
 
 {{% blocks/products/pf/agp/code-block title="Kommando" offSpacer="true" %}}
 
@@ -26,18 +26,18 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Spara SXC till POWERPOINT i C++ Online gratis" %}}
+{{% blocks/products/pf/agp/content h2="Spara SXC till POWERPOINT i C++" %}}
 
 Följande exempel visar hur man konverterar SXC till POWERPOINT i C++.
 {{% blocks/products/pf/agp/text %}}
 
-Följ de enkla stegen för att konvertera SXC till POWERPOINT. Ladda upp din SXC-fil och spara den sedan som POWERPOINT-fil. För både SXC-läsning och POWERPOINT-skrivning kan du använda fullt kvalificerade filnamn. POWERPOINT-innehållet och formateringen kommer att vara identisk med originaldokumentet SXC.
+Följ de enkla stegen för att konvertera SXC till POWERPOINT. Ladda upp din SXC-fil och spara den sedan som POWERPOINT-fil. För både SXC-läsning och POWERPOINT-skrivning kan du använda fullt kvalificerade filnamn. Utdata POWERPOINT-innehåll och formatering kommer att vara identisk med originaldokumentet SXC.
 
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Gratis app och provkod för att konvertera SXC till POWERPOINT Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="sxc" outformat="pptx" IsLandingPage="true" language="cpp" %}}
+{{% cells-convert title="Exempelkod för att konvertera SXC till POWERPOINT" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="sxc" outformat="pptx" IsLandingPage="true" language="cpp" %}}
 
 {{% blocks/products/pf/agp/content h2="Hur man konverterar SXC till POWERPOINT via C++" %}}
 
@@ -49,7 +49,7 @@ Behöver du konvertera SXC-filer till POWERPOINT programmatiskt? C++-utvecklare 
 
 1.  Installera 'Aspose.Cells for C++'.
 1.  Lägg till en biblioteksreferens (importera biblioteket) till ditt C++-projekt.
-1.  Ladda SXC-filen med Factory::CreateIWorkbook.
+1.  Ladda SXC-filen med arbetsbok.
 1.  Konvertera SXC till POWERPOINT genom att anropa metoden Save().
 1.  Få konverteringsresultatet från SXC till POWERPOINT.
 
@@ -101,7 +101,6 @@ Det finns tre alternativ för att installera "Aspose.Cells for C++" på ditt sys
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/sxc-to-pdf/" name="SXC TILL PDF" description="Portabelt dokumentformat" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/sxc-to-png/" name="SXC TILL PNG" description="Bärbar nätverksgrafik" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/sxc-to-svg/" name="SXC TILL SVG" description="Skalbar vektorgrafik" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/sxc-to-tiff/" name="SXC TILL TIFF" description="Taggad bildformat" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/sxc-to-tsv/" name="SXC TILL TSV" description="Tab-separerade värden" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/sxc-to-txt/" name="SXC TILL TXT" description="Textdokument" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/sxc-to-xls/" name="SXC TILL XLS" description="Excel binärt format" >}}

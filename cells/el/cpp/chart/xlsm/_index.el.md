@@ -1,7 +1,8 @@
 ---
-title: XLSM γράφημα εγγράφων μέσω C++
+title:  XLSM γράφημα εγγράφων μέσω C++
 weight: 8510
 description: C++ παράδειγμα κώδικα για σχεδίαση και μετατροπή γραφήματος ή διαγράμματος σε αρχείο XLSM στο C++ Runtime Environment για Windows 32 bit, Windows 64 bit και Linux 64 bit.
+keywords: [C++ Aspose.Cells., C++ Convert chart to image in xlsm., C++ Save chart to image in xlsm., C++ chart to image in xlsm., xlsm convert chart to image in C++., xlsm save chart to imagein C++., xlsm chart to image in C++]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="XLSM Μορφοποιεί γραφήματα στο C++" h2="Εγγενή και υψηλής απόδοσης γραφήματα εγγράφων XLSM χρησιμοποιώντας API Aspose.Cells for C++ από την πλευρά του διακομιστή, χωρίς τη χρήση οποιουδήποτε λογισμικού όπως το Microsoft ή το Adobe PDF." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" sourceAdditionalConversionTag="" additionalConversionTag="" pfName="Aspose.Cells" subTitlepfName="for C++" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="XLSM" >}}
@@ -50,7 +51,7 @@ PM> Install-Package Aspose.Cells.Cpp
 + Πρόσβαση στην παρουσία του γραφήματος που προστέθηκε πρόσφατα
 + Προσθήκη SeriesCollection (πηγή δεδομένων γραφήματος) στο γράφημα
 + Ρυθμίστε τον τύπο γραφήματος της 2ης σειράς NS ώστε να εμφανίζεται ως γραμμικό γράφημα
-Αποθηκεύστε το αρχείο
++ Αποθηκεύστε το αρχείο
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -69,7 +70,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% blocks/products/pf/agp/code-block title="Δημιουργία γραφήματος αρχείων XLSM - C++" offSpacer="" %}}
 
-{{< gist "aspose-com-gists" "da2fd423617bf9013a7673870c81d708" "create-excel-xlsm-column-chart.cpp" >}}
+{{< gist "aspose-cells-gists" "6f7d9819d85793c3a3b5d040af42e1a9" "create-excel-xlsm-column-chart.cpp" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 

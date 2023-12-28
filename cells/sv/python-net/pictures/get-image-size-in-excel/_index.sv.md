@@ -2,6 +2,7 @@
 title: Få bilder/bilderstorlek i Excel med Python via .Net
 weight: 10
 description: Får bild-/bildstorlek i Excel med Aspose.Cells' Python via .Net API utan någon programvara som Microsoft eller Open Office, Adobe PDF, etc.
+keywords: [Python via .NET Aspose.Cells., Python via .NET Get Images/Pictures Size In Excel., Python via .NET Obtain Images/Pictures Size In Excel., Python via .NET Access Images/Pictures Size In Excel]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Få bilder/bilderstorlek i Excel med Python via .Net" h2="Använda Aspose.Cells\' API för att arbeta med olika objekt utan någon programvara som Microsoft eller Open Office, Adobe PDF, etc." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="" pfName="Aspose.Cells" subTitlepfName="for Python via .NET" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="XLSX" >}}
@@ -13,7 +14,7 @@ description: Får bild-/bildstorlek i Excel med Aspose.Cells' Python via .Net AP
 
  För att få bilder/bildstorlek i Excel-fil kommer vi att använda
  [Aspose.Cells for Python via .Net](https://pypi.org/project/aspose-cells-python/) 
-API som är en funktionsrik, kraftfull och lättanvänd dokumenthantering API for Python via .Net-plattformen. API tillhandahåller Excel-filskapande, manipulering, konvertering och rendering. Allt utan att förlita sig på Microsoft Office- eller Excel-program. Du kan installera från konsolen med följande kommando.
+ API som är en funktionsrik, kraftfull och lättanvänd dokumenthantering API for Python via .Net-plattformen. API tillhandahåller Excel-filskapande, manipulering, konvertering och rendering. Allt utan att förlita sig på Microsoft Office- eller Excel-program. Du kan installera från konsolen med följande kommando.
 
 {{% blocks/products/pf/agp/code-block title="Kommando" offSpacer="true" %}}
 
@@ -44,7 +45,7 @@ Du behöver Aspose.Cells för att prova följande arbetsflöde i din egen miljö
     + [Bredd](https://reference.aspose.com/cells/python-net/aspose.cells.drawing/picture/width/) Representerar formens bredd i pixelenhet.
     + [Höjd](https://reference.aspose.com/cells/python-net/aspose.cells.drawing/picture/height/) Representerar formhöjden, i pixelenhet.
     + [OriginalWidth](https://reference.aspose.com/cells/python-net/aspose.cells.drawing/picture/original_width/) Får bildens ursprungliga bredd, i pixelenhet.
-    + [Originalhöjd](https://reference.aspose.com/cells/python-net/aspose.cells.drawing/picture/original_height/) Får bildens ursprungliga höjd, i pixelenhet.
+    + [Originalhöjd](https://reference.aspose.com/cells/python-net/aspose.cells.drawing/picture/original_height/)Får bildens ursprungliga höjd, i pixelenhet.
     
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
@@ -94,7 +95,7 @@ Aspose.Cells API som kan bygga plattformsoberoende applikationer, kan användas 
 
 <!-- aboutfile Ends -->
 <!--
-{{< blocks/products/pf/agp/other-supported-section title="Other Supported Splitting Formats" subTitle="Using C#, One can also split large file into chunks of many other file formats including." >}}
+{{< blocks/products/pf/agp/other-supported-section title="Other Supported Splitting Formats" subTitle="Using Python via .NET, One can also split large file into chunks of many other file formats including." >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/splitter/ods/" name="ODS" description="OpenDocument Spreadsheet File" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/splitter/xls/" name="XLS" description="Excel Binary Format" >}}

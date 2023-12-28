@@ -1,8 +1,8 @@
 ---
 title: Συγχώνευση SPREADSHEETML σε MD - Συνδυάστε SPREADSHEETML σε MD στο Python
 url: /el/python-net/merger/merge-spreadsheetml-to-md/ 
-description: Aspose Excel. Python Aspose.Cells. Δωρεάν Online Συγχώνευση SPREADSHEETML σε μορφή αποθήκευσης MD. Python Συνδυάστε το SPREADSHEETML σε μορφή MD. Συγχώνευση SPREADSHEETML σε MD στο Python. SPREADSHEETML Συγχώνευση.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge SPREADSHEETML to MD in Python., Free Online Python Merge SPREADSHEETML to md., Python Combine SPREADSHEETML to MD Online for Free., SPREADSHEETML Merge]
+description: Aspose Excel. Python Aspose.Cells. Συγχώνευση SPREADSHEETML σε μορφή αποθήκευσης MD. Python Συνδυάστε το SPREADSHEETML σε μορφή MD. Συγχώνευση SPREADSHEETML σε MD στο Python. SPREADSHEETML Συγχώνευση.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge SPREADSHEETML to MD in Python., Python Merge SPREADSHEETML to md., Python Combine SPREADSHEETML to MD., SPREADSHEETML Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Συγχώνευση SPREADSHEETML με MD μέσω Python" h2="Βιβλιοθήκη υψηλής ταχύτητας Python για συγχώνευση SPREADSHEETML με MD. Χρησιμοποιήστε τη μετατροπή excel API για να αναπτύξετε λογισμικό υψηλού επιπέδου, ανεξάρτητο από πλατφόρμα στο Python. Αυτή είναι μια επαγγελματική λύση λογισμικού για την εισαγωγή και εξαγωγή του Excel, CSV, OpenOffice, PDF, HTML, image και πολλών άλλων μορφών excel." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="SPREADSHEETML" additionalConversionTag="MD" pfName="Aspose.Cells" subTitlepfName="for Python" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -12,12 +12,12 @@ keywords: [Aspose Excel., Python Aspose.Cells., Merge SPREADSHEETML to MD in Pyt
 
 {{% blocks/products/pf/agp/content h2="Συγχώνευση SPREADSHEETML σε MD χρησιμοποιώντας Python" %}}
 
- Πώς μπορώ να συγχωνεύσω το SPREADSHEETML με το MD; Με τη βιβλιοθήκη Aspose.Cells for Python via .NET, μπορείτε εύκολα να συγχωνεύσετε το SPREADSHEETML στο MD μέσω προγραμματισμού με λίγες γραμμές κώδικα.[Aspose.Cells for Python via .NET](https://pypi.org/project/aspose-cells-python)έχει τη δυνατότητα δημιουργίας εφαρμογών πολλαπλών πλατφορμών με δυνατότητα δημιουργίας, τροποποίησης, μετατροπής, απόδοσης και εκτύπωσης όλων των αρχείων Excel. Python Το Excel API όχι μόνο μετατρέπει μεταξύ μορφών υπολογιστικών φύλλων, αλλά μπορεί επίσης να αποδώσει αρχεία Excel ως εικόνες, PDF, HTML, ODS, CSV, 07616031481, CSV, 07616831481, δημιουργώντας περισσότερα τέλεια επιλογή για την ανταλλαγή εγγράφων σε βιομηχανικά πρότυπα μορφές. Μπορείτε να εγκαταστήσετε το Aspose.Cells for Python via .NET από<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , χρησιμοποιήστε την εντολή ως:<code>$ pip install aspose-cells-python</code>.
+ Πώς μπορώ να συγχωνεύσω το SPREADSHEETML με το MD; Με τη βιβλιοθήκη Aspose.Cells for Python via .NET, μπορείτε εύκολα να συγχωνεύσετε το SPREADSHEETML στο MD μέσω προγραμματισμού με λίγες γραμμές κώδικα.[Aspose.Cells for Python via .NET](https://pypi.org/project/aspose-cells-python) έχει τη δυνατότητα δημιουργίας εφαρμογών πολλαπλών πλατφορμών με δυνατότητα δημιουργίας, τροποποίησης, μετατροπής, απόδοσης και εκτύπωσης όλων των αρχείων Excel. Python Το Excel API όχι μόνο μετατρέπει μεταξύ μορφών υπολογιστικών φύλλων, αλλά μπορεί επίσης να αποδώσει αρχεία Excel ως εικόνες, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT και άλλα, καθιστώντας έτσι την τέλεια επιλογή για την ανταλλαγή εγγράφων σε βιομηχανικές τυποποιημένες μορφές. Μπορείτε να εγκαταστήσετε το Aspose.Cells for Python via .NET από<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , χρησιμοποιήστε την εντολή ως:<code>$ pip install aspose-cells-python</code>.
 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Συγχώνευση SPREADSHEETML στο MD στο Python Online δωρεάν" %}}
+{{% blocks/products/pf/agp/content h2="Συγχώνευση SPREADSHEETML στο MD στο Python" %}}
 
 Το ακόλουθο παράδειγμα δείχνει πώς να συγχωνεύσετε το SPREADSHEETML με το MD στο Aspose.Cells for Python via .NET.
 {{% blocks/products/pf/agp/text %}}
@@ -28,7 +28,7 @@ keywords: [Aspose Excel., Python Aspose.Cells., Merge SPREADSHEETML to MD in Pyt
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Δωρεάν online για συγχώνευση SPREADSHEETML με MD στο Python" InputFormat="xml" InputFormat2="md" outformat="md" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-merger title="Δείγμα κώδικα για συγχώνευση SPREADSHEETML σε MD στο Python" InputFormat="xml" InputFormat2="md" outformat="md" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="Πώς να συγχωνεύσετε το SPREADSHEETML στο MD μέσω του Python" %}}
 
@@ -52,7 +52,7 @@ keywords: [Aspose Excel., Python Aspose.Cells., Merge SPREADSHEETML to MD in Pyt
 Φιλοξενούμε τα πακέτα μας Python στα αποθετήρια PyPi.
 
 {{% blocks/products/pf/agp/text %}}
-Εγκαταστήστε το Aspose.Cells for Python από<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , χρησιμοποιήστε την εντολή ως:<code>$ pip install aspose-cells-python</code>.
+ Εγκαταστήστε το Aspose.Cells for Python από<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , χρησιμοποιήστε την εντολή ως:<code>$ pip install aspose-cells-python</code>.
 {{% /blocks/products/pf/agp/text %}}
 
 {{% blocks/products/pf/agp/text %}}
@@ -72,7 +72,7 @@ keywords: [Aspose Excel., Python Aspose.Cells., Merge SPREADSHEETML to MD in Pyt
 {{% /blocks/products/pf/agp/text %}}
 
 -  Εγκαθιστώ[Python](https://www.python.org/downloads/) 3,7 ή υψηλότερο.
-- Εγκαταστήστε το Aspose.Cells for Python από<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , χρησιμοποιήστε την εντολή ως:<code>$ pip install aspose-cells-python</code>.
+-  Εγκαταστήστε το Aspose.Cells for Python από<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , χρησιμοποιήστε την εντολή ως:<code>$ pip install aspose-cells-python</code>.
 
 
 {{% /blocks/products/pf/agp/content %}}

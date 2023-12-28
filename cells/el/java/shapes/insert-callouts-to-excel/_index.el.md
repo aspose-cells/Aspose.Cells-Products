@@ -2,6 +2,7 @@
 title:  Εισαγάγετε μηνύματα προώθησης στο Excel via Java
 weight: 360
 description: Εισαγάγετε αντικείμενα χρησιμοποιώντας Aspose.Cells' Java API χωρίς λογισμικό όπως Microsoft ή Open Office, Adobe PDF κ.λπ.
+keywords: [Java Aspose.Cells., Java add Callouts shape., Java insert Callouts shape., Java create Callouts shape]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Εισαγάγετε μηνύματα προώθησης στο Excel via Java" h2="Εισαγάγετε μηνύματα προώθησης χρησιμοποιώντας το Aspose.Cells\' API χωρίς λογισμικό όπως Microsoft ή Open Office, Adobe PDF κ.λπ." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSX" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="" fileiconsmall1="PPTX" fileiconsmall2="DOCX" fileiconsmall3="XLSX" fileiconsmall4="PDF" fileiconsmall5=" ODP " >}}
@@ -56,9 +57,9 @@ description: Εισαγάγετε αντικείμενα χρησιμοποιώ�
 
 {{% /blocks/products/pf/agp/text %}}
 
-Δημιουργία αντικειμένου βιβλίου εργασίας.(ή->Φορτώστε το αρχείο XLSX με πλήρη διαδρομή.)
++ Δημιουργία αντικειμένου βιβλίου εργασίας.(ή->Φορτώστε το αρχείο XLSX με πλήρη διαδρομή.)
 + Επιλέξτε Φύλλο εργασίας μέσω του ευρετηρίου του.
- + Χρησιμοποιήστε το[μέθοδος προσθήκης](https://reference.aspose.com/cells/java/com.aspose.cells/shapecollection/#addAutoShape-int-int-int-int-int-int-int-)για να εισαγάγετε μηνύματα προώθησης στο επιλεγμένο φύλλο εργασίας
+ + Χρησιμοποιήστε το[μέθοδος προσθήκης](https://reference.aspose.com/cells/java/com.aspose.cells/shapecollection/#addAutoShape-int-int-int-int-int-int-int-) για να εισαγάγετε μηνύματα προώθησης στο επιλεγμένο φύλλο εργασίας
 + Αποθήκευση βιβλίου εργασίας σε μορφή XLSX.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
@@ -90,7 +91,7 @@ description: Εισαγάγετε αντικείμενα χρησιμοποιώ�
  <div class="row">
   <div class="container">
    <h2 class="pr-ft">
-Επισκόπηση των τύπων προώθησης
+ Επισκόπηση των τύπων προώθησης
    </h2>
    <div class="col-lg-4">
     <!--em class="fa fa-chrome ico-blue fa-2x col-lg-2">

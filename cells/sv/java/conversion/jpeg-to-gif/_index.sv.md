@@ -1,7 +1,7 @@
 ---
-title: Java JPEG till GIF - Online JPEG till GIF Converter
-description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Gratis Online Java Konvertera JPEG till GIF sparaformat. Java JPEG till GIF format. Spara JPEG till GIF Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java JPEG to GIF saveformat., Free Online JPEG to GIF Java., Java Convert JPEG to GIF]
+title: Java JPEG till GIF - JPEG till GIF Omvandlare
+description: Aspose Excel. Konvertera JPEG till GIF snabbt och enkelt med Aspose.Cells. Java JPEG till GIF. Java Spara JPEG till 07611 till 07161. 07611 till 07161. 3481 med Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Convert JPEG to GIF in Java., Save JPEG to GIF using Java., Java JPEG to GIF saveformat., JPEG to GIF Converter., Java Save JPEG as GIF]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Konvertera JPEG till GIF till Java" h2="Höghastighetsbibliotek Java för att konvertera JPEG till GIF. Detta är en professionell mjukvarulösning för att importera och exportera JPEG, GIF och många andra format med Java." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="GIF" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java JPEG to G
 
 {{% blocks/products/pf/agp/content h2="Konvertera JPEG till GIF med Java" %}}
 
-Hur konverterar jag JPEG till GIF? Med Aspose.Cells for Java bibliotek kan du enkelt konvertera JPEG till GIF programmatiskt med några rader kod.[Aspose.Cells for Java](https://products.aspose.com/cells/java) kan bygga plattformsoberoende applikationer med förmågan att generera, modifiera, konvertera, rendera och skriva ut alla Excel-filer. Java Excel API konverterar inte bara mellan kalkylarksformat, det kan också rendera Excel-filer som bilder, PDF, HTML, ODS, ODS, CSV, 0761687481, 0761687481, vilket gör det till ett perfekt val, Pt utbyta dokument i branschstandard format. Du kan ladda ner den senaste versionen direkt från[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) och installera det i ditt Maven-baserade projekt genom att lägga till följande konfigurationer till pom.xml.
+Hur konverterar jag JPEG till GIF? Med Aspose.Cells for Java bibliotek kan du enkelt konvertera JPEG till GIF programmatiskt med några rader kod.[Aspose.Cells for Java](https://products.aspose.com/cells/java)kan bygga plattformsoberoende applikationer med förmågan att generera, modifiera, konvertera, rendera och skriva ut alla Excel-filer. Java Excel API konverterar inte bara mellan kalkylarksformat, den kan också rendera Excel-filer som bilder, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT och mer, vilket gör det till ett perfekt val att utbyta dokument i industristandardformat. Du kan ladda ner den senaste versionen direkt från[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) och installera det i ditt Maven-baserade projekt genom att lägga till följande konfigurationer till pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Förvar" offSpacer="true" %}}
 
@@ -45,7 +45,7 @@ Hur konverterar jag JPEG till GIF? Med Aspose.Cells for Java bibliotek kan du en
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Spara JPEG till GIF på Java Online gratis" %}}
+{{% blocks/products/pf/agp/content h2="Spara JPEG till GIF i Java" %}}
 
 Följande exempel visar hur man konverterar JPEG till GIF i Java.
 {{% blocks/products/pf/agp/text %}}
@@ -56,7 +56,7 @@ Följ de enkla stegen för att konvertera JPEG till GIF. Ladda upp din JPEG-fil 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Gratis app och provkod för att konvertera JPEG till GIF online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="jpg" outformat="gif" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Exempelkod för att konvertera JPEG till GIF" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="jpg" outformat="gif" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="Hur man konverterar JPEG till GIF via Java" %}}
 
@@ -68,7 +68,7 @@ Behöver du konvertera JPEG-filer till GIF programmatiskt? Java-utvecklare kan e
 
 1.  Installera 'Aspose.Cells for Java'.
 1.  Lägg till en biblioteksreferens (importera biblioteket) till ditt Java-projekt.
-1.  Ladda JPEG-filen med en instans av Workbook-klassen.
+1. Ladda JPEG-filen med en instans av Workbook-klassen.
 1.  Konvertera JPEG till GIF genom att anropa Workbook.save-metoden.
 1.  Få konverteringsresultatet från JPEG till GIF.
 

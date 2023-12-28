@@ -1,8 +1,8 @@
 ---
 title: Slå samman JPG till PDF - Kombinera JPG till PDF i Java
 url: /sv/java/merger/merge-jpg-to-pdf/ 
-description: Aspose Excel. Java Aspose.Cells. Gratis Online Merge JPG till PDF sparaformat. Java Kombinera JPG till PDF format. Slå samman JPG till PDF i Java. JPG Merge.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge JPG to PDF in Java., Free Online Java Merge JPG to pdf., Java Combine JPG to PDF Online for Free., JPG Merge]
+description: Aspose Excel. Java Aspose.Cells. Slå samman JPG till PDF sparaformat. Java Kombinera JPG till PDF format. Slå samman JPG till PDF i Java. JPG Merge.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge JPG to PDF in Java., Java Merge JPG to pdf., Java Combine JPG to PDF., JPG Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Slå samman JPG till PDF via Java" h2="Höghastighetsbibliotek Java för sammanslagning av JPG till PDF. Använd vår excel-konvertering API för att utveckla plattformsoberoende programvara på hög nivå i Java. Detta är en professionell mjukvarulösning för att importera och exportera Excel, CSV, OpenOffice, PDF, HTML, image-format och många andra excel-format." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="JPG" additionalConversionTag="PDF" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Merge JPG to PDF in Java., Free On
 
 {{% blocks/products/pf/agp/content h2="Slå samman JPG till PDF med Java" %}}
 
- Hur slår jag ihop JPG till PDF? Med Aspose.Cells for Java-biblioteket kan du enkelt slå samman JPG till PDF programmatiskt med några rader kod.[Aspose.Cells for Java](https://products.aspose.com/cells/java) kan bygga plattformsoberoende applikationer med förmågan att generera, modifiera, konvertera, rendera och skriva ut alla Excel-filer. Java Excel API konverterar inte bara mellan kalkylarksformat, det kan också rendera Excel-filer som bilder, PDF, HTML, ODS, ODS, CSV, 0761687481, 0761687481, vilket gör det till ett perfekt val, Pt utbyta dokument i branschstandard format. Du kan ladda ner den senaste versionen direkt från[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) och installera det i ditt Maven-baserade projekt genom att lägga till följande konfigurationer till pom.xml.
+ Hur slår jag ihop JPG till PDF? Med Aspose.Cells for Java-biblioteket kan du enkelt slå samman JPG till PDF programmatiskt med några rader kod.[Aspose.Cells for Java](https://products.aspose.com/cells/java)kan bygga plattformsoberoende applikationer med förmågan att generera, modifiera, konvertera, rendera och skriva ut alla Excel-filer. Java Excel API konverterar inte bara mellan kalkylarksformat, den kan också rendera Excel-filer som bilder, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT och mer, vilket gör det till ett perfekt val att utbyta dokument i industristandardformat. Du kan ladda ner den senaste versionen direkt från[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) och installera det i ditt Maven-baserade projekt genom att lägga till följande konfigurationer till pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Förvar" offSpacer="true" %}}
 
@@ -45,7 +45,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Merge JPG to PDF in Java., Free On
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Slå samman JPG till PDF i Java Online gratis" %}}
+{{% blocks/products/pf/agp/content h2="Slå samman JPG till PDF i Java" %}}
 
 Följande exempel visar hur man slår samman JPG till PDF i Aspose.Cells for Java.
 {{% blocks/products/pf/agp/text %}}
@@ -56,7 +56,7 @@ Följ de enkla stegen för att sammanfoga JPG till PDF. Ladda upp dina filer, ri
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Gratis online för att slå samman JPG till PDF i Java" InputFormat="jpg" InputFormat2="pdf" outformat="pdf" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="java" %}}
+{{% cells-merger title="Exempelkod för att slå samman JPG till PDF i Java" InputFormat="jpg" InputFormat2="pdf" outformat="pdf" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="Hur man slår ihop JPG till PDF via Java" %}}
 

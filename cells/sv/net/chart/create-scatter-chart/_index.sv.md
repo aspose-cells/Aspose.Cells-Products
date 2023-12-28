@@ -1,6 +1,7 @@
 ---
 title: Skapa spridningsdiagram via C#
 description: C# Exempelkod för att skapa spridningsdiagram till Excel med .NET Library. Använd den här koden för att skapa ett punktdiagram till MS Excel inom VB.NET, Asp.NET eller någon .NET-baserad applikation.
+keywords: [C# Aspose.Cells., c# add Scatter Chart., c# insert Scatter Chart., c# create Scatter Chart]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 

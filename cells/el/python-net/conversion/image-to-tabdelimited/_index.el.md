@@ -1,7 +1,7 @@
 ---
-title: Python IMAGE σε TABDELIMITED - Online Μετατροπέας IMAGE σε TABDELIMITED
-description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Δωρεάν Online Python Μετατροπή ΕΙΚΟΝΑΣ σε μορφή αποθήκευσης TABDELIMITED. Python Μορφή IMAGE σε TABDELIMITED. Αποθήκευση IMAGE στο TABDELIMITED Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python IMAGE to TABDELIMITED saveformat., Free Online IMAGE to TABDELIMITED Python., Python Convert IMAGE to TABDELIMITED]
+title: Python IMAGE σε TABDELIMITED - Μετατροπέας IMAGE σε TABDELIMITED
+description: Aspose Excel. Python Aspose.Cells. IMAGE σε TABDELIMITED στο Python. Python Μετατροπή IMAGE σε μορφή αποθήκευσης TABDELIMITED. Python Μορφή IMAGE σε TABDELIMITED. Αποθήκευση IMAGE στο TABDELIMITED Python.
+keywords: [Aspose Excel., Python Aspose.Cells., IMAGE to TABDELIMITED in Python., Python IMAGE to TABDELIMITED saveformat., IMAGE to TABDELIMITED Python., Python Convert IMAGE to TABDELIMITED]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Μετατρέψτε το IMAGE σε TABDELIMITED στο Python" h2="Βιβλιοθήκη υψηλής ταχύτητας Python για μετατροπή IMAGE σε TABDELIMITED. Χρησιμοποιήστε τη μετατροπή excel API για να αναπτύξετε λογισμικό υψηλού επιπέδου, ανεξάρτητο από πλατφόρμα στο Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="TABDELIMITED" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,12 +12,12 @@ keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python IMA
 
 {{% blocks/products/pf/agp/content h2="Μετατρέψτε το IMAGE σε TABDELIMITED στο Python" %}}
 
- Πώς μπορώ να μετατρέψω το IMAGE σε TABDELIMITED; Με τη βιβλιοθήκη Aspose.Cells for Python μέσω NET, μπορείτε εύκολα να μετατρέψετε το IMAGE σε TABDELIMITED μέσω προγραμματισμού με λίγες γραμμές κώδικα.[Aspose.Cells for Python μέσω NET](https://pypi.org/project/aspose-cells-python/)έχει τη δυνατότητα δημιουργίας εφαρμογών πολλαπλών πλατφορμών με δυνατότητα δημιουργίας, τροποποίησης, μετατροπής, απόδοσης και εκτύπωσης όλων των αρχείων Excel. Python Το Excel API όχι μόνο μετατρέπει μεταξύ μορφών υπολογιστικών φύλλων, αλλά μπορεί επίσης να αποδώσει αρχεία Excel ως εικόνες, PDF, HTML, ODS, CSV, 07616031481, CSV, 07616831481, δημιουργώντας περισσότερα τέλεια επιλογή για την ανταλλαγή εγγράφων σε βιομηχανικά πρότυπα μορφές.
+ Πώς μπορώ να μετατρέψω το IMAGE σε TABDELIMITED; Με τη βιβλιοθήκη Aspose.Cells for Python μέσω NET, μπορείτε εύκολα να μετατρέψετε το IMAGE σε TABDELIMITED μέσω προγραμματισμού με λίγες γραμμές κώδικα.[Aspose.Cells for Python μέσω NET](https://pypi.org/project/aspose-cells-python/)έχει τη δυνατότητα δημιουργίας εφαρμογών πολλαπλών πλατφορμών με δυνατότητα δημιουργίας, τροποποίησης, μετατροπής, απόδοσης και εκτύπωσης όλων των αρχείων Excel. Python Το Excel API όχι μόνο μετατρέπει μεταξύ μορφών υπολογιστικών φύλλων, αλλά μπορεί επίσης να αποδώσει αρχεία Excel ως εικόνες, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT και άλλα, καθιστώντας έτσι την τέλεια επιλογή για την ανταλλαγή εγγράφων σε βιομηχανικές τυποποιημένες μορφές.
 
 {{% /blocks/products/pf/agp/content %}}
 
 
-{{% blocks/products/pf/agp/content h2="Αποθηκεύστε το IMAGE στο TABDELIMITED στο Python Δωρεάν Online" %}}
+{{% blocks/products/pf/agp/content h2="Αποθηκεύστε το IMAGE στο TABDELIMITED στο Python" %}}
 
 Το ακόλουθο παράδειγμα δείχνει πώς να μετατρέψετε το IMAGE σε TABDELIMITED στο Python via NET.
 {{% blocks/products/pf/agp/text %}}
@@ -28,7 +28,7 @@ keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python IMA
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Δωρεάν εφαρμογή και δείγμα κώδικα για τη μετατροπή της εικόνας σε TABDELIMITED στο Διαδίκτυο" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="png" outformat="tsv" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Δείγμα κώδικα για μετατροπή IMAGE σε TABDELIMITED" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="png" outformat="tsv" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="Πώς να μετατρέψετε IMAGE σε TABDELIMITED" %}}
 
@@ -42,7 +42,7 @@ keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python IMA
 1.  Προσθέστε μια αναφορά βιβλιοθήκης (εισάγετε τη βιβλιοθήκη) στο έργο σας Python.
 1.  Φορτώστε το αρχείο IMAGE με μια παρουσία του βιβλίου εργασίας.
 1.  Μετατρέψτε το IMAGE σε TABDELIMITED καλώντας τη μέθοδο Workbook.save.
-1. Λάβετε το αποτέλεσμα μετατροπής του IMAGE σε TABDELIMITED.
+1.  Λάβετε το αποτέλεσμα μετατροπής του IMAGE σε TABDELIMITED.
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -52,7 +52,7 @@ keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python IMA
 Φιλοξενούμε τα πακέτα μας Python στα αποθετήρια PyPi.
 
 {{% blocks/products/pf/agp/text %}}
-Εγκαταστήστε το Aspose.Cells for Python από<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , χρησιμοποιήστε την εντολή ως:<code>$ pip install aspose-cells-python</code>.
+ Εγκαταστήστε το Aspose.Cells for Python από<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , χρησιμοποιήστε την εντολή ως:<code>$ pip install aspose-cells-python</code>.
 {{% /blocks/products/pf/agp/text %}}
 
 {{% blocks/products/pf/agp/text %}}

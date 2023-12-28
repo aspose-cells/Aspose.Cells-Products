@@ -2,6 +2,7 @@
 title:  XLSX γράφημα εγγράφων via Java
 weight: 5380
 description: Java δείγμα κώδικα για σχεδίαση και μετατροπή γραφήματος ή διαγράμματος σε αρχείο XLSX στο Java Περιβάλλον χρόνου εκτέλεσης για εφαρμογές JSP/JSF και εφαρμογές επιφάνειας εργασίας.
+keywords: [Java Aspose.Cells., Java Convert chart to image in xlsx., Java Save chart to image in xlsx., Java chart to image in xlsx., xlsx convert chart to image in Java., xlsx save chart to imagein Java., xlsx chart to image in Java]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="XLSX Μορφοποιεί γραφήματα στο Java" h2="Εγγενή και υψηλής απόδοσης γραφήματα εγγράφων XLSX χρησιμοποιώντας API Aspose.Cells for Java από την πλευρά του διακομιστή, χωρίς τη χρήση οποιουδήποτε λογισμικού όπως το Microsoft ή το Adobe PDF." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="XLSX" >}}
@@ -11,7 +12,7 @@ description: Java δείγμα κώδικα για σχεδίαση και με�
 
 {{% blocks/products/pf/agp/content h2="Πώς να δημιουργήσετε γραφήματα αρχείων XLSX χρησιμοποιώντας Java" %}}
 
- Για να δημιουργήσουμε γραφήματα αρχείων XLSX, θα χρησιμοποιήσουμε
+Για να δημιουργήσουμε γραφήματα αρχείων XLSX, θα χρησιμοποιήσουμε
  [Aspose.Cells for Java](https://products.aspose.com/cells/java) 
  API που είναι μια πλούσια σε χαρακτηριστικά, ισχυρή και εύκολη στη χρήση πλατφόρμα χαρτογράφησης API for Java. Μπορείτε να κατεβάσετε την τελευταία του έκδοση απευθείας από
  [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) 
@@ -64,7 +65,7 @@ description: Java δείγμα κώδικα για σχεδίαση και με�
 + Προσθήκη τιμών δείγματος στα κελιά.
 + Προσθήκη γραφήματος στο φύλλο εργασίας.
 + Πρόσβαση στην παρουσία του γραφήματος που προστέθηκε πρόσφατα.
-Ορισμός πηγής δεδομένων γραφήματος ως εύρος.
++ Ορισμός πηγής δεδομένων γραφήματος ως εύρος.
 + Αποθήκευση βιβλίου εργασίας.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

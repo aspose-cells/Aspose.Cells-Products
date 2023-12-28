@@ -2,6 +2,7 @@
 title:  Ξεκλειδώστε το έγγραφο XLS μέσω του C++
 weight: 2380
 description: C++ παράδειγμα κώδικα για ξεκλείδωμα αρχείου XLS με προστασία κωδικού πρόσβασης στο C++ Runtime Environment για Windows 32 bit, Windows 64 bit και Linux 64 bit.
+keywords: [C++ Aspose.Cells., C++ unlock XLS files., C++ how to unlock XLS document., C++ unprotect XLS files., remove protection from XLS files., decrypt XLS Files using C++]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Ξεκλειδώστε τα αρχεία XLS μέσω του C++" h2="Καταργήστε την προστασία από υπολογιστικά φύλλα Excel, συμπεριλαμβανομένου του αρχείου XLS χρησιμοποιώντας τη Βιβλιοθήκη C++." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLS" pfName="Aspose.Cells" subTitlepfName="for C++" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLS" >}}
@@ -43,10 +44,11 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/text %}}
 
-1.  Φορτώστε το κλειδωμένο αρχείο XLS χρησιμοποιώντας το CreateIWorkbook.
-1.  Καλέστε τη λειτουργία Unprotect() για ξεκλείδωμα.
-1.  Ορίστε τον κωδικό πρόσβασης σε NULL χρησιμοποιώντας το SetPassword.
-1.  Αποθηκεύστε το αρχείο XLS σε μια καθορισμένη τοποθεσία.
+1.  Instantiate classbook Workbook με διαδρομή προς το προστατευμένο αρχείο XLS
+1.  Λάβετε την προεπιλογή ή οποιοδήποτε φύλλο εργασίας για να καταργήσετε την προστασία
+1.  Καταργήστε την προστασία φύλλου εργασίας με τη μέθοδο φύλλου εργασίας. Κατάργηση προστασίας
+1.  Καταργήστε την προστασία βιβλίου εργασίας με τη μέθοδο Workbook.Unprotect
+1.  Αποθήκευση αποτελέσματος σε μορφή XLS
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -67,23 +69,24 @@ PM> Install-Package Aspose.Cells.Cpp
 
 ```cs
 
-// Source directory path.
-StringPtr srcDir = new String("SourceDirectory\\");
+Aspose::Cells::Startup();
 
-// Output directory path.
-StringPtr outDir = new String("OutputDirectory\\");
+// instantiate a Workbook object with protected XLS file
+Workbook workbook(u"protected.xls");
 
-// Load XLS file
-intrusive_ptr<IWorkbook> workbook = Factory::CreateIWorkbook(srcDir->StringAppend(new String("sampleExcelFileProtected.xls")));
+// access the default worksheet in the Excel file
+Worksheet worksheet = workbook.GetWorksheets().Get(0);
 
-// Unprotect workbook
-workbook->Unprotect(new String("12345"));
+// unprotect worksheet without a password
+worksheet.Unprotect();
 
-// Set password to null
-workbook->GetISettings()->SetPassword(NULL);
+// unprotect workbook with password
+workbook.Unprotect("password");
 
-// Save the XLS file
-workbook->Save(outDir->StringAppend(new String("sampleExcelFileUnprotected_out.xls")));
+// save the result back in XLS format
+workbook.Save("unprotected.xls", SaveFormat::Auto);
+
+Aspose::Cells::Cleanup();
 
 ```
 

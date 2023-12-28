@@ -2,6 +2,7 @@
 title:  Split XLSB Filer via Java
 weight: 7880
 description: Java exempelkod för att dela XLSB dokument på Java Runtime Environment för JSP/JSF Application och Desktop Applications.
+keywords: [Java Aspose.Cells., Java split xlsb files., Java how to split xlsb files into multiple files., Java xlsb splitter., Java split Cell., Cell splitter using Java]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Split XLSB Filer via Java" h2="XLSB uppdelning med hjälp av server-side Java bibliotek." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="XLSB" >}}
@@ -62,7 +63,7 @@ description: Java exempelkod för att dela XLSB dokument på Java Runtime Enviro
 + Ladda XLSB-filen med Workbook-klassen.
 + Gå igenom varje ark
 + Skapa nytt Workbook-klassobjekt
-+ Kopiera det valda arket till ett nytt objekt
+Kopiera det valda arket till ett nytt objekt
 + Anropa sparmetoden med ny XLSB filsökväg.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

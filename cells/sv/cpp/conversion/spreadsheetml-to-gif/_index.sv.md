@@ -1,7 +1,7 @@
 ---
-title: C++ SPREADSHEETML till GIF - Online SPREADSHEETML till GIF Converter
-description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. Gratis online C++ Konvertera SPREADSHEETML till GIF sparaformat. C++ Kalkylblad till GIF format. Spara Kalkylblad till GIF C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ SPREADSHEETML to GIF saveformat., Free Online SPREADSHEETML to GIF C++., C++ Convert SPREADSHEETML to GIF]
+title: C++ Kalkylblad till GIF - Kalkylblad till GIF Omvandlare
+description: Aspose Excel. Konvertera SPREADSHEETML till GIF snabbt och enkelt med Aspose.Cells. C++ SPREADSHEETML till GIF. C++ Spara SPREADSHEETML till GIF. Spara SPREADSHEETML till GIF. Spara 6 SPREADSHEETML 8 som 7 ML3 4 8 med 7 ML3 4 8 7 SP 4 8 1.
+keywords: [Aspose Excel., C++ Aspose.Cells., Convert SPREADSHEETML to GIF in C++., Save SPREADSHEETML to GIF using C++., C++ SPREADSHEETML to GIF saveformat., SPREADSHEETML to GIF Converter., C++ Save SPREADSHEETML as GIF]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Konvertera SPREADSHEETML till GIF till C++" h2="Högpresterande SPREADSHEETML till GIF konvertering med C++ bibliotek utan behov av Microsoft Excel, OpenOffice eller Adobe Acrobat installation." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" sourceAdditionalConversionTag="" additionalConversionTag="GIF" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ SPREADSHEETM
 
 {{% blocks/products/pf/agp/content h2="Konvertera SPREADSHEETML till GIF med C++" %}}
 
- Hur konverterar jag SPREADSHEETML till GIF? Med Aspose.Cells for C++-biblioteket kan du enkelt konvertera SPREADSHEETML till GIF programmatiskt med några rader kod.[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) kan bygga plattformsoberoende applikationer med förmågan att generera, modifiera, konvertera, rendera och skriva ut alla Excel-filer. C++ Excel API konverterar inte bara mellan kalkylarksformat, det kan också rendera Excel-filer som bilder, PDF, HTML, ODS, ODS, CSV, 0761687481, 0761687481, vilket gör det till ett perfekt val, Pt utbyta dokument i branschstandard format. Du kan ladda ner den senaste versionen direkt, bara öppna[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) pakethanteraren, sök efter Aspose.Cells.Cpp och installera. Du kan också använda följande kommando från Package Manager Console.
+ Hur konverterar jag SPREADSHEETML till GIF? Med Aspose.Cells for C++-biblioteket kan du enkelt konvertera SPREADSHEETML till GIF programmatiskt med några rader kod.[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) kan bygga plattformsoberoende applikationer med förmågan att generera, modifiera, konvertera, rendera och skriva ut alla Excel-filer. C++ Excel API konverterar inte bara mellan kalkylarksformat, den kan också rendera Excel-filer som bilder, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT och mer, vilket gör det till ett perfekt val att utbyta dokument i industristandardformat. Du kan ladda ner den senaste versionen direkt, bara öppna[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) pakethanteraren, sök efter Aspose.Cells.Cpp och installera. Du kan också använda följande kommando från Package Manager Console.
 
 {{% blocks/products/pf/agp/code-block title="Kommando" offSpacer="true" %}}
 
@@ -26,7 +26,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Spara Kalkylblad till GIF i C++ Online gratis" %}}
+{{% blocks/products/pf/agp/content h2="Spara Kalkylblad till GIF i C++" %}}
 
 Följande exempel visar hur man konverterar SPREADSHEETML till GIF i C++.
 {{% blocks/products/pf/agp/text %}}
@@ -37,7 +37,7 @@ Följ de enkla stegen för att konvertera SPREADSHEETML till GIF. Ladda upp din 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Gratis app och exempelkod för att konvertera SPREADSHEETML till GIF online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xml" outformat="gif" IsLandingPage="true" language="cpp" %}}
+{{% cells-convert title="Exempelkod för att konvertera SPREADSHEETML till GIF" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xml" outformat="gif" IsLandingPage="true" language="cpp" %}}
 
 {{% blocks/products/pf/agp/content h2="Hur man konverterar SPREADSHEETML till GIF via C++" %}}
 
@@ -49,7 +49,7 @@ Behöver du konvertera SPREADSHEETML-filer till GIF programmatiskt? C++-utveckla
 
 1.  Installera 'Aspose.Cells for C++'.
 1.  Lägg till en biblioteksreferens (importera biblioteket) till ditt C++-projekt.
-1.  Ladda SPREADSHEETML-fil med Factory::CreateIWorkbook.
+1.  Ladda SPREADSHEETML-fil med arbetsbok.
 1.  Konvertera SPREADSHEETML till GIF genom att anropa metoden Save().
 1.  Få omvandlingsresultatet av SPREADSHEETML till GIF.
 
@@ -101,7 +101,6 @@ Det finns tre alternativ för att installera "Aspose.Cells for C++" på ditt sys
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/spreadsheetml-to-pdf/" name="Kalkylblad TILL PDF" description="Portabelt dokumentformat" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/spreadsheetml-to-png/" name="Kalkylblad TILL PNG" description="Bärbar nätverksgrafik" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/spreadsheetml-to-svg/" name="Kalkylblad TILL SVG" description="Skalbar vektorgrafik" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/spreadsheetml-to-tiff/" name="Kalkylblad TILL TIFF" description="Taggad bildformat" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/spreadsheetml-to-tsv/" name="Kalkylblad TILL TSV" description="Tab-separerade värden" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/spreadsheetml-to-txt/" name="Kalkylblad TILL TXT" description="Textdokument" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/spreadsheetml-to-xls/" name="Kalkylblad TILL XLS" description="Excel binärt format" >}}

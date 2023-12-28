@@ -2,6 +2,7 @@
 title: Infoga/Skapa ett flödesschema i Excel via Java
 weight: 360
 description: Infoga/Skapa ett flödesschema med Aspose.Cells' Java API utan någon programvara som Microsoft eller Open Office, Adobe PDF, etc.
+keywords: [Java Aspose.Cells., Java add FlowChart., Java insert FlowChart., Java create FlowChart]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Infoga/Skapa ett flödesschema i Excel via Java" h2="Infoga /Skapa ett flödesschema med Aspose.Cells\' API utan någon programvara som Microsoft eller Open Office, Adobe PDF, etc." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSX" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="" fileiconsmall1="PPTX" fileiconsmall2="DOCX" fileiconsmall3="XLSX" fileiconsmall4="PDF" fileiconsmall5=" ODP " >}}
@@ -56,7 +57,7 @@ description: Infoga/Skapa ett flödesschema med Aspose.Cells' Java API utan någ
 
 {{% /blocks/products/pf/agp/text %}}
 
-Instantiera ett arbetsboksobjekt.(eller->Läs in XLSX-filen med fullständig sökväg.)
++ Instantiera ett arbetsboksobjekt.(eller->Läs in XLSX-filen med fullständig sökväg.)
 + Välj kalkylblad via dess index.
  + Använd[lägga till metod](https://reference.aspose.com/cells/java/com.aspose.cells/shapecollection/#addAutoShape-int-int-int-int-int-int-int-) för att infoga/skapa ett flödesschema i det valda kalkylbladet
 + Spara arbetsboken i XLSX-format.
@@ -76,7 +77,7 @@ Instantiera ett arbetsboksobjekt.(eller->Läs in XLSX-filen med fullständig sö
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-Exempelkoden nedan visar hur man infogar ett "Multidokument". För fler typer, se "Översikt över blockpilarformtyper" nedan.
+Exempelkoden nedan visar hur man infogar ett "Multidokument". För fler typer, se "Översikt över formtyper av blockpil" nedan.
 
 {{% blocks/products/pf/agp/code-block title="Infoga/Skapa ett flödesschema - Java" offSpacer="" %}}
 

@@ -2,6 +2,7 @@
 title:  Redigera eller visa XLSB Dokumentmetadata via C++
 weight: 4820
 description: C++ exempelkod för att redigera eller visa XLSB filmetadata på C++ Runtime Environment för Windows 32 bitar, Windows 64 bitar och Linux 64 bitar.
+keywords: [C++ Aspose.Cells., C++ view xlsb metadata., C++ add xlsb metadata., C++ insert xlsb metadata., C++ edit xlsb metadata., C++ remove xlsb metadata., C++ extract xlsb metadata., C++ modify xlsb metadata]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Extrahera XLSB Metadata via C++" h2="Bygg dina egna C++-appar för att lägga till, redigera, ta bort eller extrahera metadata från XLSB-filer med hjälp av API:er på serversidan." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSB" pfName="Aspose.Cells" subTitlepfName="for C++" downloadUrl="" fileiconsmall1="PPTX" fileiconsmall2="DOCX" fileiconsmall3="XLSX" fileiconsmall4="PDF" fileiconsmall5=" ODP " >}}
@@ -41,9 +42,9 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/text %}}
 
-+ Ladda XLSB-filen med CreateIWorkbookMetadata
-+ Skapa alternativ med CreateIMetadataOptions
-+ Lägg till nya egenskaper med GetICustomDocumentProperties() och AddIDocumentProperty
++ Skapa alternativ med MetadataOptions
++ Ladda XLSB-filen med WorkbookMetadata
++ Lägg till nya egenskaper genom GetCustomDocumentProperties() och Add
 + Spara XLSB dokument
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
@@ -65,10 +66,17 @@ PM> Install-Package Aspose.Cells.Cpp
 
 ```cs
 
-intrusive_ptr<IMetadataOptions> options = Factory::CreateIMetadataOptions(MetadataType_DocumentProperties);
-intrusive_ptr<IWorkbookMetadata> meta = Factory::CreateIWorkbookMetadata(new String("c:\\book1.xlsb"), options);
-meta->GetICustomDocumentProperties()->AddIDocumentProperty(new String("test"), (StringPtr)new String("test"));
-meta->Save(new String("c:\\book2.xlsb"));  
+Aspose::Cells::Startup();
+
+//Load the sample excel file
+MetadataOptions options(MetadataType::Document_Properties);
+WorkbookMetadata meta(u"c:\\book1.xlsb", options);
+//Add a new custom property
+meta.GetCustomDocumentProperties().Add(u"test", u"test");
+//Save the output excel file
+meta.Save(u"c:\\book2.xlsb");
+
+Aspose::Cells::Cleanup();
 
 ```
 
@@ -91,7 +99,7 @@ meta->Save(new String("c:\\book2.xlsb"));
 
     {{< blocks/products/pf/agp/about-file-section >}}
 
-        {{< blocks/products/pf/agp/demobox sectionTitle="Extrahera metadata för XLSB via onlineappen" sectionDescription=" Visa och redigera metadata till XLSB dokument genom att använda vår[Livedemos](https://products.aspose.app/cells/metadata) med följande förmåner." >}}
+        {{< blocks/products/pf/agp/demobox sectionTitle="Extrahera metadata för XLSB via onlineappen" sectionDescription=" Visa och redigera metadata till XLSB dokument genom att använda vår[Live Demos](https://products.aspose.app/cells/metadata) med följande förmåner." >}}
             {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Du behöver inte ladda ner eller ställa in någonting" >}}
             {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Du behöver inte skriva någon kod" >}}
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Ladda bara upp din XLSB-fil och redigera dokumentegenskaper" >}}

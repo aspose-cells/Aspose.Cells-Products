@@ -1,8 +1,7 @@
 ---
-title: Exportera rapporter i Excel XLS XLSX PDF ODS i JasperReports och JasperServer 
+title: Exportera rapporter i Excel XLS XLSX PDF ODS i JasperReports och JasperServer
 weight: 9460
-
-description: Exportera rapporter från Jasper Reports och JasperServer i Excel XLS XLSX PDF ODS TXT och SpreadsheetML-format. Skriv även ut rapporter som Excel-kalkylblad
+description: Exportera rapporter från Jasper Reports och JasperServer i Excel XLS XLSX PDF ODS TXT och SpreadsheetML format. Skriv även ut rapporter som Excel-kalkylblad
 ---
 {{< blocks/products/pf/main-wrap-class >}}
 {{< blocks/products/pf/i18n/upper-banner h1="JasperReports-tillägg för att exportera rapporter som Excel-format" h2="Exportera rapporter till Microsoft Excel-kalkylblad i flera format." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/headers/aspose_cells-for-jasperreports.svg" pfName="Aspose.Cells" subTitlepfName="for JasperReports" downloadUrl="https://downloads.aspose.com/cells/jasperreports" >}}
@@ -13,7 +12,7 @@ description: Exportera rapporter från Jasper Reports och JasperServer i Excel X
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
- Aspose.Cells för JasperReports är ett pålitligt JasperReports och JasperServer-tillägg som erbjuder export av rapporter i Microsoft Excel XLS, XLSX, PDF, ODS, TXT och SpreadsheetML-format utan att använda Microsoft Excel. Det fungerar som ett alternativ till JasperReports ursprungliga Microsoft Excel-exportör samt eliminerar beroendet av POI-biblioteket.
+ nr 76193481 Excel. Det fungerar som ett alternativ till JasperReports ursprungliga Microsoft Excel-exportör samt eliminerar beroendet av POI-biblioteket.
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
@@ -21,20 +20,20 @@ description: Exportera rapporter från Jasper Reports och JasperServer i Excel X
 <!--Diagrams Start-->
 {{< blocks/products/pf/i18n/carousel >}}
 
-{{< blocks/products/pf/carousel-item h3="En överblick" description="En översikt över Aspose.Cells för JasperReports funktioner." >}}
+{{< blocks/products/pf/carousel-item h3="En överblick" description="En översikt över Aspose.Cells for JasperReports\' funktioner." >}}
 <div class="diagram1 d1-jasper">
  <div class="d1-row">
   <div class="d1-col d1-left">
    <header>
     <i class="fa fa-cog">
     </i>
-    Lättviktsinstallation
+ Lättviktsinstallation
    </header>
    <br/>
    <header>
     <i class="fa fa-table">
     </i>
-    High Fidelity till rapportdesign
+ High Fidelity till rapportdesign
    </header>
   </div>
   <!--/left-->
@@ -42,13 +41,13 @@ description: Exportera rapporter från Jasper Reports och JasperServer i Excel X
    <header>
     <i class="fa fa-bar-chart">
     </i>
-    Redigerbara diagram
+ Redigerbara diagram
    </header>
    <br/>
    <header>
     <i class="fa fa-share">
     </i>
-    Exportera till Excel-format
+ Exportera till Excel-format
    </header>
   </div>
   <!--/right-->
@@ -62,9 +61,9 @@ description: Exportera rapporter från Jasper Reports och JasperServer i Excel X
   <footer>
    <small>
     <em>
-     för
+ för
     </em>
-    Jasper rapporterar
+ Jasper rapporterar
    </small>
   </footer>
  </div>
@@ -73,7 +72,7 @@ description: Exportera rapporter från Jasper Reports och JasperServer i Excel X
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Plattformsoberoende" description="Aspose.Cells för JasperReports stöder J2SE, JasperReports och JasperServer." >}}
+{{< blocks/products/pf/carousel-item h3="Plattformsoberoende" description="Aspose.Cells for JasperReports stöder J2SE, JasperReports och JasperServer." >}}
 <div class="diagram1 d1-jasper">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -83,13 +82,13 @@ description: Exportera rapporter från Jasper Reports och JasperServer i Excel X
    <header style="padding-left: 0px;">
     <i class="fa fa-cubes">
     </i>
-    J2SE 1.6 eller högre
+ J2SE 1.6 eller högre
    </header>
    <br/>
    <header style="padding-left: 0px;">
     <i class="fa fa-cubes">
     </i>
-    JasperReports 6.3.0 eller senare
+ JasperReports 6.3.0 eller senare
    </header>
   </div>
   <!--/right-->
@@ -103,9 +102,9 @@ description: Exportera rapporter från Jasper Reports och JasperServer i Excel X
   <footer>
    <small>
     <em>
-     för
+ för
     </em>
-    Jasper rapporterar
+ Jasper rapporterar
    </small>
   </footer>
  </div>
@@ -114,7 +113,7 @@ description: Exportera rapporter från Jasper Reports och JasperServer i Excel X
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Filformat som stöds" description="Aspose.Cells för JasperReports låter dig exportera rapporter direkt till [följande format](https://docs.aspose.com/cells/jasperreports/supported-file-formats/)." >}}
+{{< blocks/products/pf/carousel-item h3="Filformat som stöds" description=" Aspose.Cells for JasperReports låter dig exportera rapporter direkt till[följande format](https://docs.aspose.com/cells/jasperreports/supported-file-formats/)." >}}
 <div class="diagram1 d2 d1-jasper">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -124,18 +123,18 @@ description: Exportera rapporter från Jasper Reports och JasperServer i Excel X
    <header>
     <i class="fa fa-mail-forward">
     </i>
-    Endast utgång
+ Endast utgång
    </header>
    <ul>
     <li>
      <b>
-      Microsoft excel:
+ Microsoft Excel:
      </b>
      XLS, XLSX
     </li>
     <li>
      <b>
-      Öppet kontor:
+ Öppet kontor:
      </b>
      ODS
     </li>
@@ -147,15 +146,15 @@ description: Exportera rapporter från Jasper Reports och JasperServer i Excel X
     </li>
     <li>
      <b>
-      Fast layout:
+ Fast layout:
      </b>
      PDF
     </li>
     <li>
      <b>
-      Text:
+ Text:
      </b>
-     CSV, TSV, tabbavgränsad
+ CSV, TSV, tabbavgränsad
     </li>
    </ul>
   </div>
@@ -170,9 +169,9 @@ description: Exportera rapporter från Jasper Reports och JasperServer i Excel X
   <footer>
    <small>
     <em>
-     för
+ för
     </em>
-    Jasper rapporterar
+ Jasper rapporterar
    </small>
   </footer>
  </div>
@@ -191,7 +190,7 @@ description: Exportera rapporter från Jasper Reports och JasperServer i Excel X
  <div class="row">
   <div class="container">
    <h2 class="pr-ft">
-    Avancerade exportfunktioner för JasperReports till Excel
+ Avancerade exportfunktioner för JasperReports till Excel
    </h2>
    <p>
    </p>
@@ -199,53 +198,53 @@ description: Exportera rapporter från Jasper Reports och JasperServer i Excel X
     <em class="fa fa-line-chart ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Generera rapporter som Microsoft Excel-filer
+ Generera rapporter som Microsoft Excel-filer
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-print ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Skriv ut rapporter som kalkylblad
+ Skriv ut rapporter som kalkylblad
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-pie-chart ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Exportera Excel-filer som redigerbara kalkylblad
+ Exportera Excel-filer som redigerbara kalkylblad
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Exportera rapporter till Microsoft Excel-format
+ Exportera rapporter till Microsoft Excel-format
     </h2>
     <p>
-     Aspose.Cells för JasperReports tillhandahåller funktionen att exportera rapporter direkt till Microsoft Excel-format som XLS &amp; XLSX. Dessutom kan du även exportera rapporterna i SpreadsheetML, ODS, CSV &amp; Tabbavgränsade format för att passa dina affärsbehov.
+ Aspose.Cells for JasperReports ger funktionen att exportera rapporter direkt till Microsoft Excel-format som XLS &amp; XLSX. Dessutom kan du också exportera rapporterna i SpreadsheetML, ODS, CSV &amp; Tabbavgränsade format för att passa dina affärsbehov.
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     High Fidelity till rapportdesign
+ High Fidelity till rapportdesign
     </h2>
     <p>
-     Aspose.Cells för JasperReports exportera rapporter till format som stöds med högsta precision, det vill säga; verkar identiska rapporter som exporteras av de inbyggda exportfunktionerna i JasperReports.
+Aspose.Cells for JasperReports exportera rapporter till format som stöds med högsta precision, det vill säga; verkar identiska rapporter som exporteras av de inbyggda exportfunktionerna i JasperReports.
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Redigerbara Excel-kalkylblad
+ Redigerbara Excel-kalkylblad
     </h2>
     <p>
-     Aspose.Cells för JasperReports exportera Excel-dokument som helt redigerbara kalkylblad. Den stöder Microsoft Excel-diagram, och alla diagram som exporteras via Aspose-renderingsmotorn kommer att vara tillgängliga som ett redigerbart diagram snarare än en statisk bild, vilket gör att slutanvändarna kan ändra diagram manuellt i Microsoft Excel.
+ Aspose.Cells for JasperReports exportera Excel-dokument som helt redigerbara kalkylblad. Den stöder Microsoft Excel-diagram, och alla diagram som exporteras via Aspose-renderingsmotorn kommer att vara tillgängliga som ett redigerbart diagram snarare än en statisk bild, vilket gör att slutanvändarna kan ändra diagram manuellt i Microsoft Excel.
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Microsoft Office Automation – Behövs inte
+ Microsoft Kontorsautomation – behövs inte
     </h2>
     <p>
-     Aspose.Cells för JasperReports-exportören utvecklad med hanterad kod som aldrig behöver installera Microsoft Excel eller Microsoft Office på maskinen för att fungera med Excel-dokumentformat. Det är ett perfekt automationsalternativ för Microsoft Excel när det gäller stabilitet, skalbarhet, funktioner som stöds, säkerhet, pris och hastighet.
+ Aspose.Cells for JasperReports exportör utvecklad med hanterad kod som aldrig behöver Microsoft Excel eller Microsoft Office installeras på maskinen för att fungera med Excel-dokumentformat. Det är ett perfekt Microsoft Excel-automatiseringsalternativ när det gäller stabilitet, skalbarhet, funktioner som stöds, säkerhet, pris och hastighet.
     </p>
    </div>
   </div>
@@ -265,12 +264,12 @@ description: Exportera rapporter från Jasper Reports och JasperServer i Excel X
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="Produktsupport" tabId="support" >}}
-{{< blocks/products/pf/slr-element name="Gratis support" href="https://forum.aspose.com/c/cells" >}}
+{{< blocks/products/pf/slr-element name="Gratis support" href="https://forum.aspose.com/c/cells/9" >}}
 {{< blocks/products/pf/slr-element name="Betald support" href="https://helpdesk.aspose.com/" >}}
 {{< blocks/products/pf/slr-element name="Blogg" href="https://blog.aspose.com/category/cells/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
-{{< blocks/products/pf/slr-tab tabTitle="Varför Aspose.Cells för JasperReports?" tabId="success-stories" >}}
+{{< blocks/products/pf/slr-tab tabTitle="Varför Aspose.Cells for JasperReports?" tabId="success-stories" >}}
 {{< blocks/products/pf/slr-element name="Kundlista" href="https://company.aspose.com/customers" >}}
 {{< blocks/products/pf/slr-element name="Framgångsberättelser" href="https://company.aspose.com/customers/success-stories/aspose-cells" >}}
 {{< /blocks/products/pf/slr-tab >}}
@@ -279,7 +278,7 @@ description: Exportera rapporter från Jasper Reports och JasperServer i Excel X
 
 {{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://downloads.aspose.com/cells/jasperreports" pricingInformationLink="https://purchase.aspose.com/pricing/cells/jasperreports" >}}
 
-{{< blocks/products/pf/offers-section pfName="Aspose.Cells" description="Aspose.Cells erbjuder individuella Excel-API:er för andra populära utvecklingsmiljöer enligt listan nedan:" >}}
+{{< blocks/products/pf/offers-section pfName="Aspose.Cells" description="Aspose.Cells erbjuder individuella Excel API:er för andra populära utvecklingsmiljöer enligt listan nedan:" >}}
 
     {{< blocks/products/pf/offers-section-item link="/cells/net/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sdkName=".NET" >}}
     {{< blocks/products/pf/offers-section-item link="/cells/java/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sdkName="Java" >}}

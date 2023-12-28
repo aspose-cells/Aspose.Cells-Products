@@ -1,8 +1,8 @@
 ---
 title: Συγχώνευση SPREADSHEETML σε EXCEL - Συνδυάστε SPREADSHEETML σε EXCEL στο C#
 url: /el/net/merger/merge-spreadsheetml-to-excel/ 
-description: Aspose Excel. C# Aspose.Cells. Δωρεάν Online Συγχώνευση SPREADSHEETML σε μορφή αποθήκευσης EXCEL. C# Συνδυάστε το SPREADSHEETML σε μορφή EXCEL. Συγχώνευση SPREADSHEETML σε EXCEL στο C#. SPREADSHEETML Συγχώνευση.
-keywords: [Aspose Excel., C# Aspose.Cells., Merge SPREADSHEETML to EXCEL in C#., Free Online C# Merge SPREADSHEETML to excel., C# Combine SPREADSHEETML to EXCEL Online for Free., SPREADSHEETML Merge]
+description: Aspose Excel. C# Aspose.Cells. Συγχώνευση SPREADSHEETML σε μορφή αποθήκευσης EXCEL. C# Συνδυάστε το SPREADSHEETML σε μορφή EXCEL. Συγχώνευση SPREADSHEETML σε EXCEL στο C#. SPREADSHEETML Συγχώνευση.
+keywords: [Aspose Excel., C# Aspose.Cells., Merge SPREADSHEETML to EXCEL in C#., C# Merge SPREADSHEETML to excel., C# Combine SPREADSHEETML to EXCEL., SPREADSHEETML Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Συγχώνευση SPREADSHEETML στο EXCEL μέσω C#" h2="Βιβλιοθήκη υψηλής ταχύτητας C# για συγχώνευση SPREADSHEETML με EXCEL. Χρησιμοποιήστε τη μετατροπή excel API για να αναπτύξετε λογισμικό υψηλού επιπέδου, ανεξάρτητο από πλατφόρμα στο C#. Αυτή είναι μια επαγγελματική λύση λογισμικού για την εισαγωγή και εξαγωγή του Excel, CSV, OpenOffice, PDF, HTML, image και πολλών άλλων μορφών excel." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="SPREADSHEETML" additionalConversionTag="EXCEL" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., C# Aspose.Cells., Merge SPREADSHEETML to EXCEL in C#.,
 
 {{% blocks/products/pf/agp/content h2="Συγχώνευση SPREADSHEETML στο EXCEL χρησιμοποιώντας C#" %}}
 
- Πώς μπορώ να συγχωνεύσω το SPREADSHEETML με το EXCEL; Με τη βιβλιοθήκη Aspose.Cells for .NET, μπορείτε εύκολα να συγχωνεύσετε το SPREADSHEETML στο EXCEL μέσω προγραμματισμού με μερικές γραμμές κώδικα.[Aspose.Cells for .NET](https://products.aspose.com/cells/net)έχει τη δυνατότητα δημιουργίας εφαρμογών πολλαπλών πλατφορμών με δυνατότητα δημιουργίας, τροποποίησης, μετατροπής, απόδοσης και εκτύπωσης όλων των αρχείων Excel. .NET Το Excel API όχι μόνο μετατρέπει μεταξύ μορφών υπολογιστικών φύλλων, αλλά μπορεί επίσης να αποδώσει αρχεία Excel ως εικόνες, PDF, HTML, ODS, CSV, 07616031481, CSV, 07616831481, δημιουργώντας περισσότερα τέλεια επιλογή για την ανταλλαγή εγγράφων σε βιομηχανικά πρότυπα μορφές. Ανοιξε[NuGet](https://www.nuget.org/packages/aspose.cells) διαχειριστής πακέτων, αναζητήστε Aspose.Cells και εγκαταστήστε. Μπορείτε επίσης να χρησιμοποιήσετε την ακόλουθη εντολή από την Κονσόλα Package Manager.
+ Πώς μπορώ να συγχωνεύσω το SPREADSHEETML με το EXCEL; Με τη βιβλιοθήκη Aspose.Cells for .NET, μπορείτε εύκολα να συγχωνεύσετε το SPREADSHEETML στο EXCEL μέσω προγραμματισμού με μερικές γραμμές κώδικα.[Aspose.Cells for .NET](https://products.aspose.com/cells/net)έχει τη δυνατότητα δημιουργίας εφαρμογών πολλαπλών πλατφορμών με δυνατότητα δημιουργίας, τροποποίησης, μετατροπής, απόδοσης και εκτύπωσης όλων των αρχείων Excel. .NET Το Excel API όχι μόνο μετατρέπει μεταξύ μορφών υπολογιστικών φύλλων, αλλά μπορεί επίσης να αποδώσει αρχεία Excel ως εικόνες, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT και άλλα, καθιστώντας έτσι την τέλεια επιλογή για την ανταλλαγή εγγράφων σε βιομηχανικές τυποποιημένες μορφές. Ανοιξε[NuGet](https://www.nuget.org/packages/aspose.cells) διαχειριστής πακέτων, αναζητήστε Aspose.Cells και εγκαταστήστε. Μπορείτε επίσης να χρησιμοποιήσετε την ακόλουθη εντολή από την Κονσόλα Package Manager.
 
 {{% blocks/products/pf/agp/code-block title="Εντολή κονσόλας διαχείρισης πακέτων" offSpacer="true" %}}
 
@@ -26,7 +26,7 @@ PM> Install-Package Aspose.Cells
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Συγχώνευση SPREADSHEETML στο EXCEL στο C# Δωρεάν Online" %}}
+{{% blocks/products/pf/agp/content h2="Συγχώνευση SPREADSHEETML στο EXCEL στο C#" %}}
 
 Το ακόλουθο παράδειγμα δείχνει πώς να συγχωνεύσετε το SPREADSHEETML στο EXCEL στο Aspose.Cells for .NET.
 {{% blocks/products/pf/agp/text %}}
@@ -37,7 +37,7 @@ PM> Install-Package Aspose.Cells
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Δωρεάν online για συγχώνευση SPREADSHEETML στο EXCEL στο C#" InputFormat="xml" InputFormat2="xlsx" outformat="xlsx" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="net" %}}
+{{% cells-merger title="Δείγμα κώδικα για συγχώνευση SPREADSHEETML στο EXCEL στο C#" InputFormat="xml" InputFormat2="xlsx" outformat="xlsx" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="net" %}}
 
 {{% blocks/products/pf/agp/content h2="Πώς να συγχωνεύσετε το SPREADSHEETML στο EXCEL μέσω C#" %}}
 

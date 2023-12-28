@@ -1,6 +1,7 @@
 ---
 title: Δημιουργήστε γραφήματα Column3D μέσω του C#
 description: C# Δείγμα κώδικα για τη δημιουργία γραφημάτων Column3D στο Excel χρησιμοποιώντας τη Βιβλιοθήκη .NET. Χρησιμοποιήστε αυτόν τον κώδικα για τη δημιουργία ενός γραφήματος Column3D στο MS Excel εντός VB.NET, Asp.NET ή οποιασδήποτε εφαρμογής που βασίζεται στο .NET.
+keywords: [C# Aspose.Cells., c# add Column3D Chart., c# insert Column3D Chart., c# create Column3D Chart]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 

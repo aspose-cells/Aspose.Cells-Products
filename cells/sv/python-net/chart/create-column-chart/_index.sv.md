@@ -1,6 +1,7 @@
 ---
 title: Skapa kolumndiagram via Python
 description: Python Exempelkod för att skapa kolumndiagram till Excel med Python Library. Använd den här koden för att skapa ett kolumndiagram till MS Excel inom Python-baserad applikation.
+keywords: [Python Aspose.Cells., Python add Column Chart., Python insert Column Chart., Python create Column Chart]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
@@ -36,7 +37,7 @@ Det är lätt för utvecklarna att skapa ett kolumndiagram inom att köra olika 
  Aspose.Cells for Python är plattformsoberoende API och kan användas på vilken plattform som helst (Windows, Linux), se bara till att systemet har[Python](https://www.python.org/downloads/) 3,7 eller högre.
 {{% /blocks/products/pf/agp/text %}}
 
-- Installera Aspose.Cells for Python från<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , använd kommandot som:<code>$ pip install aspose-cells-python</code>.
+-  Installera Aspose.Cells for Python från<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , använd kommandot som:<code>$ pip install aspose-cells-python</code>.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/code-block title="Följande källkod visar hur man skapar ett kolumndiagram till MS Excel XLSX-fil med Python." offSpacer="" %}}

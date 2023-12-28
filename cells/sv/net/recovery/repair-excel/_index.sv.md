@@ -1,8 +1,8 @@
 ---
-title: C# Reparera excel-fil - Reparera excel-fil online gratis
+title: C# Reparera excel - Återställ och fixa skadad excel-fil
 url: /sv/net/recovery/repair-excel/ 
-description: Aspose Excel. C# Aspose.Cells. C# Reparera excel-fil. Gratis online excel reparationsverktyg. Reparera en skadad Excel-fil. Återställ en skadad Excel-fil i .NET-applikationen.
-keywords: [Aspose Excel., C# Aspose.Cells., C# Aspose Cells., C# Repair excel file., Free Online Repair a corrupted excel file., C# Recover excel file.]
+description: C# Aspose.Cells. Reparation excel. Fixa excel-fil. excel återställningsverktyg. excel korruption. Återställ Excel-data. excel-filåterställning. Återställ skadad excel-fil.
+keywords: [C# Aspose.Cells., repair excel file., excel repair., recover corrupted excel file., repair corrupted excel., recover excel., fix excel file., excel corruption., restore excel data., excel file recovery., recover corrupted excel file.]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Reparera EXCEL-fil i C#" h2="Bygg din egen .NET-applikation för att reparera Excel-filer med .NET." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="EXCEL" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="XLS" fileiconsmall2="XLSB" fileiconsmall3="XLSX" fileiconsmall4="XLSM" fileiconsmall5="ODS" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., C# Aspose.Cells., C# Aspose Cells., C# Repair excel fi
 
 {{% blocks/products/pf/agp/content h2="Reparera EXCEL-fil med C#" %}}
 
- Hur reparerar jag excel-filen? Med Aspose.Cells for .NET-biblioteket kan du enkelt reparera EXCEL-filen programmatiskt med några rader kod.[Aspose.Cells for .NET](https://products.aspose.com/cells/net)kan bygga plattformsoberoende applikationer med förmågan att generera, modifiera, konvertera, rendera och skriva ut alla Excel-filer. .NET Excel API konverterar inte bara mellan kalkylarksformat, det kan också rendera Excel-filer som bilder, PDF, HTML, ODS, ODS, CSV, 0761687481, 0761687481, vilket gör det till ett perfekt val, Pt utbyta dokument i branschstandard format. Öppen[NuGet](https://www.nuget.org/packages/aspose.cells) pakethanteraren, sök efter Aspose.Cells och installera. Du kan också använda följande kommando från Package Manager Console.
+ Hur reparerar jag excel-filen? Med Aspose.Cells for .NET-biblioteket kan du enkelt reparera EXCEL-filen programmatiskt med några rader kod.[Aspose.Cells for .NET](https://products.aspose.com/cells/net)kan bygga plattformsoberoende applikationer med förmågan att generera, modifiera, konvertera, rendera och skriva ut alla Excel-filer. .NET Excel API konverterar inte bara mellan kalkylarksformat, den kan också rendera Excel-filer som bilder, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT och mer, vilket gör det till ett perfekt val att utbyta dokument i industristandardformat. Öppen[NuGet](https://www.nuget.org/packages/aspose.cells) pakethanteraren, sök efter Aspose.Cells och installera. Du kan också använda följande kommando från Package Manager Console.
 
 {{% blocks/products/pf/agp/code-block title="Pakethanterarens konsolkommando" offSpacer="true" %}}
 
@@ -41,7 +41,7 @@ Behöver du reparera excel-filen programmatiskt? .NET-utvecklare kan enkelt ladd
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-recovery title="Gratis app och provkod för att reparera EXCEL-fil online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et" InputFormat="xlsx" outformat="xlsx" IsLandingPage="true" language="net" %}}    
+{{% cells-recovery title="Exempelkod för att reparera EXCEL-fil" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et" InputFormat="xlsx" outformat="xlsx" IsLandingPage="true" language="net" %}}    
     
 {{% blocks/products/pf/agp/content h2=".NET bibliotek för att reparera EXCEL-fil" %}}
 

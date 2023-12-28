@@ -1,7 +1,7 @@
 ---
-title: Java ODS till OTS - Online ODS till OTS Converter
-description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Gratis Online Java Konvertera ODS till OTS saveformat. Java ODS till OTS-format. Spara ODS till OTS Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java ODS to OTS saveformat., Free Online ODS to OTS Java., Java Convert ODS to OTS]
+title: Java ODS till OTS - ODS till OTS Converter
+description: Aspose Excel. Konvertera ODS till OTS snabbt och enkelt med Aspose.Cells. Java ODS till OTS. Java Spara ODS till OTS. Spara ODS som OTS med Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Convert ODS to OTS in Java., Save ODS to OTS using Java., Java ODS to OTS saveformat., ODS to OTS Converter., Java Save ODS as OTS]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Konvertera ODS till OTS i Java" h2="Höghastighetsbibliotek Java för konvertering av ODS till OTS. Detta är en professionell mjukvarulösning för att importera och exportera ODS, OTS och många andra format med Java." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="OTS" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java ODS to OT
 
 {{% blocks/products/pf/agp/content h2="Konvertera ODS till OTS med Java" %}}
 
- Hur konverterar jag ODS till OTS? Med Aspose.Cells for Java bibliotek kan du enkelt konvertera ODS till OTS programmatiskt med några rader kod.[Aspose.Cells for Java](https://products.aspose.com/cells/java) kan bygga plattformsoberoende applikationer med förmågan att generera, modifiera, konvertera, rendera och skriva ut alla Excel-filer. Java Excel API konverterar inte bara mellan kalkylarksformat, det kan också rendera Excel-filer som bilder, PDF, HTML, ODS, ODS, CSV, 0761687481, 0761687481, vilket gör det till ett perfekt val, Pt utbyta dokument i branschstandard format. Du kan ladda ner den senaste versionen direkt från[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) och installera det i ditt Maven-baserade projekt genom att lägga till följande konfigurationer till pom.xml.
+ Hur konverterar jag ODS till OTS? Med Aspose.Cells for Java bibliotek kan du enkelt konvertera ODS till OTS programmatiskt med några rader kod.[Aspose.Cells for Java](https://products.aspose.com/cells/java)kan bygga plattformsoberoende applikationer med förmågan att generera, modifiera, konvertera, rendera och skriva ut alla Excel-filer. Java Excel API konverterar inte bara mellan kalkylarksformat, den kan också rendera Excel-filer som bilder, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT och mer, vilket gör det till ett perfekt val att utbyta dokument i industristandardformat. Du kan ladda ner den senaste versionen direkt från[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) och installera det i ditt Maven-baserade projekt genom att lägga till följande konfigurationer till pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Förvar" offSpacer="true" %}}
 
@@ -45,7 +45,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java ODS to OT
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Spara ODS till OTS i Java Online gratis" %}}
+{{% blocks/products/pf/agp/content h2="Spara ODS till OTS på Java" %}}
 
 Följande exempel visar hur man konverterar ODS till OTS i Java.
 {{% blocks/products/pf/agp/text %}}
@@ -56,7 +56,7 @@ Följ de enkla stegen för att konvertera ODS till OTS. Ladda upp din ODS-fil oc
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Gratis app och provkod för att konvertera ODS till OTS Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="ods" outformat="ots" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Exempelkod för att konvertera ODS till OTS" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="ods" outformat="ots" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="Hur man konverterar ODS till OTS via Java" %}}
 
@@ -68,7 +68,7 @@ Behöver du konvertera ODS-filer till OTS programmatiskt? Java-utvecklare kan en
 
 1.  Installera 'Aspose.Cells for Java'.
 1.  Lägg till en biblioteksreferens (importera biblioteket) till ditt Java-projekt.
-1.  Ladda ODS-filen med en instans av Workbook-klassen.
+1. Ladda ODS-filen med en instans av Workbook-klassen.
 1.  Konvertera ODS till OTS genom att anropa Workbook.save-metoden.
 1.  Få konverteringsresultatet av ODS till OTS.
 

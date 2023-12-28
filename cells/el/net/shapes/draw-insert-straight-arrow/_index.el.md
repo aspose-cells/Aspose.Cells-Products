@@ -1,7 +1,8 @@
 ---
 title:  Πώς μπορώ να σχεδιάσω ή να εισάγω ευθύ βέλος στο Excel via .NET
 weight: 10
-description: C# πηγαίος κώδικας για να σχεδιάσετε ή να εισαγάγετε ευθύ βέλος στο Excel στις πλατφόρμες .NET Framework, .NET Core, Mono ή Xamarin Platforms.
+description: C# Δείγμα κώδικα για προσθήκη ή εισαγωγή ευθύγραμμου βέλους στο Excel χρησιμοποιώντας τη Βιβλιοθήκη .NET. Χρησιμοποιήστε αυτόν τον κώδικα για να δημιουργήσετε ευθύ βέλος στο MS Excel εντός των VB.NET, Asp.NET ή οποιασδήποτε εφαρμογής που βασίζεται στο .NET.
+keywords: [C# Aspose.Cells., c# add straight arrow., c# insert straight arrow., c# create straight arrow]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Εισαγάγετε το ευθύ βέλος στο Excel via .NET" h2="Εισαγάγετε το ευθύ βέλος χρησιμοποιώντας το Aspose.Cells\' API χωρίς λογισμικό όπως Microsoft ή Open Office, Adobe PDF κ.λπ." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="XLSX" >}}
@@ -11,7 +12,7 @@ description: C# πηγαίος κώδικας για να σχεδιάσετε �
 
 {{% blocks/products/pf/agp/content h2="Πώς να εισαγάγετε ευθύ βέλος στο αρχείο Excel χρησιμοποιώντας το C#" %}}
 
- Για να εισαγάγουμε το ίσιο βέλος στο αρχείο excel, θα χρησιμοποιήσουμε
+Για να εισαγάγουμε το ίσιο βέλος στο αρχείο excel, θα χρησιμοποιήσουμε
  [Aspose.Cells for .NET](https://products.aspose.com/cells/net) 
  API που είναι μια πλούσια σε χαρακτηριστικά, ισχυρή και εύχρηστη πλατφόρμα χειρισμού εγγράφων και διαχωριστή API για C#. Ανοιξε
  [NuGet](https://www.nuget.org/packages/aspose.cells) 
@@ -41,7 +42,7 @@ PM> Install-Package Aspose.Cells
 
 {{% /blocks/products/pf/agp/text %}}
 
-Δημιουργία αντικειμένου βιβλίου εργασίας.(ή->Φορτώστε το αρχείο XLSX με πλήρη διαδρομή.)
++ Δημιουργία αντικειμένου βιβλίου εργασίας.(ή->Φορτώστε το αρχείο XLSX με πλήρη διαδρομή.)
 + Επιλέξτε Φύλλο εργασίας μέσω του ευρετηρίου του.
  + Χρησιμοποιήστε το[μέθοδος προσθήκης](https://reference.aspose.com/cells/net/aspose.cells.drawing/shapecollection/methods/addline) για να εισαγάγετε ένα ίσιο βέλος στο επιλεγμένο φύλλο εργασίας
 + Αποθήκευση βιβλίου εργασίας σε μορφή XLSX.
@@ -77,7 +78,7 @@ PM> Install-Package Aspose.Cells
 
 {{% blocks/products/pf/agp/content h2="Σχετικά με Aspose.Cells for .NET API" %}}
 
- Aspose.Cells API μπορεί να χρησιμοποιηθεί για τη δημιουργία, επεξεργασία, μετατροπή και απόδοση μορφών Excel Microsoft σε διαφορετικές μορφές. Επιπλέον, μπορεί να χρησιμοποιηθεί για ολοκληρωμένη χαρτογράφηση, κλιμακούμενη αναφορά και αξιόπιστους υπολογισμούς εντός εφαρμογών λογισμικού. Το Aspose.Cells είναι ένα αυτόνομο API και δεν απαιτεί λογισμικό όπως το Microsoft ή το OpenOffice.
+Aspose.Cells API μπορεί να χρησιμοποιηθεί για τη δημιουργία, επεξεργασία, μετατροπή και απόδοση μορφών Excel Microsoft σε διαφορετικές μορφές. Επιπλέον, μπορεί να χρησιμοποιηθεί για ολοκληρωμένη χαρτογράφηση, κλιμακούμενη αναφορά και αξιόπιστους υπολογισμούς εντός εφαρμογών λογισμικού. Το Aspose.Cells είναι ένα αυτόνομο API και δεν απαιτεί λογισμικό όπως το Microsoft ή το OpenOffice.
 
 {{% /blocks/products/pf/agp/content %}}
 

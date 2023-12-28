@@ -2,6 +2,7 @@
 title:  Redigera eller visa ODS Filer Metadata via Java
 weight: 2080
 description: Java exempelkod för att redigera eller visa metadata i formatet ODS på Java Runtime Environment för JSP/JSF Application och Desktop Applications.
+keywords: [Java Aspose.Cells., Java view ods metadata., Java add ods metadata., Java insert ods metadata., Java edit ods metadata., Java remove ods metadata., Java extract ods metadata., Java modify ods metadata]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Extrahera ODS Metadata via Java" h2="Bygg dina egna Java-appar för att lägga till, redigera, ta bort eller extrahera metadata från ODS-filer med hjälp av API:er på serversidan." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="ODS" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="" fileiconsmall1="PPTX" fileiconsmall2="DOCX" fileiconsmall3="XLSX" fileiconsmall4="PDF" fileiconsmall5=" ODP " >}}
@@ -13,7 +14,7 @@ description: Java exempelkod för att redigera eller visa metadata i formatet OD
 
  För att få ODS filmetadata kommer vi att använda
  [Aspose.Cells for Java](https://products.aspose.com/cells/java) 
-API som är en funktionsrik, kraftfull och lättanvänd metadata API for Java plattform. Du kan ladda ner den senaste versionen direkt från
+ API som är en funktionsrik, kraftfull och lättanvänd metadata API for Java plattform. Du kan ladda ner den senaste versionen direkt från
  [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) 
  och installera det i ditt Maven-baserade projekt genom att lägga till följande konfigurationer till pom.xml.
 
@@ -119,7 +120,7 @@ System.out.println(w.getCustomDocumentProperties().get("test"));
 
     {{< blocks/products/pf/agp/about-file-section >}}
 
-        {{< blocks/products/pf/agp/demobox sectionTitle="Extrahera metadata för ODS via onlineappen" sectionDescription=" Visa och redigera metadata till ODS dokument genom att använda vår[Livedemos](https://products.aspose.app/cells/metadata) med följande förmåner." >}}
+        {{< blocks/products/pf/agp/demobox sectionTitle="Extrahera metadata för ODS via onlineappen" sectionDescription=" Visa och redigera metadata till ODS dokument genom att använda vår[Live Demos](https://products.aspose.app/cells/metadata) med följande förmåner." >}}
             {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Du behöver inte ladda ner eller ställa in någonting" >}}
             {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Du behöver inte skriva någon kod" >}}
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Ladda bara upp din ODS-fil och redigera dokumentegenskaper" >}}

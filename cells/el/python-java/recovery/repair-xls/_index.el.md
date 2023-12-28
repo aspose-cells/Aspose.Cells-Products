@@ -1,8 +1,8 @@
 ---
-title: Python Repair xls File - Επιδιόρθωση αρχείου xls Online δωρεάν
+title: Python Επιδιόρθωση xls - Ανάκτηση και διόρθωση κατεστραμμένου αρχείου xls
 url: /el/python-java/recovery/repair-xls/ 
-description: Aspose Excel. Python Aspose.Cells. Python Επιδιόρθωση αρχείου xls. Δωρεάν διαδικτυακό εργαλείο επισκευής xls. Επιδιορθώστε ένα κατεστραμμένο αρχείο xls. Ανακτήστε ένα κατεστραμμένο αρχείο xls εντός της εφαρμογής Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python Repair xls file., Free Online Repair a corrupted xls file., Python Recover xls file.]
+description: Python Aspose.Cells. Επισκευή xls. Διορθώστε το αρχείο xls. xls εργαλείο ανάκτησης. xls διαφθορά. Επαναφορά δεδομένων xls. ανάκτηση αρχείων xls. Ανακτήστε το κατεστραμμένο αρχείο xls.
+keywords: [Python Aspose.Cells., repair xls file., xls repair., recover corrupted xls file., repair corrupted xls., recover xls., fix xls file., xls corruption., restore xls data., xls file recovery., recover corrupted xls file.]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Επισκευάστε το αρχείο XLS στο Python" h2="Δημιουργήστε τη δική σας εφαρμογή Python για να επιδιορθώσετε αρχεία xls χρησιμοποιώντας το Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLS" pfName="Aspose.Cells" subTitlepfName="for Python" downloadUrl="" fileiconsmall1="XLS" fileiconsmall2="XLSB" fileiconsmall3="XLSX" fileiconsmall4="XLSM" fileiconsmall5="ODS" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python Rep
 
 {{% blocks/products/pf/agp/content h2="Επισκευάστε το αρχείο XLS χρησιμοποιώντας το Python" %}}
 
- Πώς επιδιορθώνω το αρχείο xls; Με τη βιβλιοθήκη Aspose.Cells for Python, μπορείτε εύκολα να επιδιορθώσετε το αρχείο XLS μέσω προγραμματισμού με λίγες γραμμές κώδικα.[Aspose.Cells for Python](https://products.aspose.com/cells/python-java)έχει τη δυνατότητα δημιουργίας εφαρμογών πολλαπλών πλατφορμών με δυνατότητα δημιουργίας, τροποποίησης, μετατροπής, απόδοσης και εκτύπωσης όλων των αρχείων Excel. Python Το Excel API όχι μόνο μετατρέπει μεταξύ μορφών υπολογιστικών φύλλων, αλλά μπορεί επίσης να αποδώσει αρχεία Excel ως εικόνες, PDF, HTML, ODS, CSV, 07616031481, CSV, 07616831481, δημιουργώντας περισσότερα τέλεια επιλογή για την ανταλλαγή εγγράφων σε βιομηχανικά πρότυπα μορφές. Μπορείτε να εγκαταστήσετε το Aspose.Cells for Python via Java από<a href="https://pypi.org/project/aspose-cells/">pypi</a> , χρησιμοποιήστε την εντολή ως:<code>$ pip install aspose-cells</code>.
+ Πώς επιδιορθώνω το αρχείο xls; Με τη βιβλιοθήκη Aspose.Cells for Python, μπορείτε εύκολα να επιδιορθώσετε το αρχείο XLS μέσω προγραμματισμού με λίγες γραμμές κώδικα.[Aspose.Cells for Python](https://products.aspose.com/cells/python-java) έχει τη δυνατότητα δημιουργίας εφαρμογών πολλαπλών πλατφορμών με δυνατότητα δημιουργίας, τροποποίησης, μετατροπής, απόδοσης και εκτύπωσης όλων των αρχείων Excel. Python Το Excel API όχι μόνο μετατρέπει μεταξύ μορφών υπολογιστικών φύλλων, αλλά μπορεί επίσης να αποδώσει αρχεία Excel ως εικόνες, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT και άλλα, καθιστώντας έτσι την τέλεια επιλογή για την ανταλλαγή εγγράφων σε βιομηχανικές τυποποιημένες μορφές. Μπορείτε να εγκαταστήσετε το Aspose.Cells for Python via Java από<a href="https://pypi.org/project/aspose-cells/">pypi</a> , χρησιμοποιήστε την εντολή ως:<code>$ pip install aspose-cells</code>.
 
 
 {{% /blocks/products/pf/agp/content %}}
@@ -32,7 +32,7 @@ keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python Rep
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-recovery title="Δωρεάν εφαρμογή και δείγμα κώδικα για επισκευή αρχείου XLS στο Διαδίκτυο" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et" InputFormat="xls" outformat="xls" IsLandingPage="true" language="pythonjava" %}}    
+{{% cells-recovery title="Δείγμα κώδικα για επιδιόρθωση αρχείου XLS" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et" InputFormat="xls" outformat="xls" IsLandingPage="true" language="pythonjava" %}}    
     
 {{% blocks/products/pf/agp/content h2="Python βιβλιοθήκη για επιδιόρθωση αρχείου XLS" %}}
 
@@ -55,7 +55,7 @@ keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python Rep
  
 -  Εγκαταστήστε το Java 1.8 ή μεταγενέστερο και προσθέστε το στη μεταβλητή περιβάλλοντος PATH, για παράδειγμα:<code>PATH=C:\Program Files\Java\jdk1.8.0_131;</code>.
 -  Εγκαθιστώ[Python](https://www.python.org/downloads/) 3,5 ή υψηλότερο.
-- Εγκαταστήστε το Aspose.Cells for Python από<a href="https://pypi.org/project/aspose-cells/">pypi</a> , χρησιμοποιήστε την εντολή ως:<code>$ pip install aspose-cells</code>.
+-  Εγκαταστήστε το Aspose.Cells for Python από<a href="https://pypi.org/project/aspose-cells/">pypi</a> , χρησιμοποιήστε την εντολή ως:<code>$ pip install aspose-cells</code>.
 
 
 {{% /blocks/products/pf/agp/content %}}

@@ -1,8 +1,8 @@
 ---
-title: Java Repair xls File - Επιδιόρθωση αρχείου xls Online δωρεάν
+title: Java Επιδιόρθωση xls - Ανάκτηση και διόρθωση κατεστραμμένου αρχείου xls
 url: /el/java/recovery/repair-xls/ 
-description: Aspose Excel. Java Aspose.Cells. Java Επιδιόρθωση αρχείου xls. Δωρεάν διαδικτυακό εργαλείο επισκευής xls. Επιδιορθώστε ένα κατεστραμμένο αρχείο xls. Ανακτήστε ένα κατεστραμμένο αρχείο xls εντός της εφαρμογής Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java Repair xls file., Free Online Repair a corrupted xls file., Java Recover xls file.]
+description: Java Aspose.Cells. Επισκευή xls. Διορθώστε το αρχείο xls. xls εργαλείο ανάκτησης. xls διαφθορά. Επαναφορά δεδομένων xls. ανάκτηση αρχείων xls. Ανακτήστε το κατεστραμμένο αρχείο xls.
+keywords: [Java Aspose.Cells., repair xls file., xls repair., recover corrupted xls file., repair corrupted xls., recover xls., fix xls file., xls corruption., restore xls data., xls file recovery., recover corrupted xls file.]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Επισκευάστε το αρχείο XLS στο Java" h2="Δημιουργήστε τη δική σας εφαρμογή Java για να επιδιορθώσετε αρχεία xls χρησιμοποιώντας το Java." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLS" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="" fileiconsmall1="XLS" fileiconsmall2="XLSB" fileiconsmall3="XLSX" fileiconsmall4="XLSM" fileiconsmall5="ODS" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java Repair xl
 
 {{% blocks/products/pf/agp/content h2="Επισκευάστε το αρχείο XLS χρησιμοποιώντας το Java" %}}
 
- Πώς επιδιορθώνω το αρχείο xls; Με τη βιβλιοθήκη Aspose.Cells for Java, μπορείτε εύκολα να επιδιορθώσετε το αρχείο XLS μέσω προγραμματισμού με λίγες γραμμές κώδικα.[Aspose.Cells for Java](https://products.aspose.com/cells/java) έχει τη δυνατότητα δημιουργίας εφαρμογών πολλαπλών πλατφορμών με δυνατότητα δημιουργίας, τροποποίησης, μετατροπής, απόδοσης και εκτύπωσης όλων των αρχείων Excel. Java Το Excel API όχι μόνο μετατρέπει μεταξύ μορφών υπολογιστικών φύλλων, αλλά μπορεί επίσης να αποδώσει αρχεία Excel ως εικόνες, PDF, HTML, ODS, CSV, 07616031481, CSV, 07616831481, δημιουργώντας περισσότερα τέλεια επιλογή για την ανταλλαγή εγγράφων σε βιομηχανικά πρότυπα μορφές. Μπορείτε να κατεβάσετε την τελευταία του έκδοση απευθείας από[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) και εγκαταστήστε το στο έργο σας που βασίζεται στο Maven προσθέτοντας τις ακόλουθες διαμορφώσεις στο pom.xml.
+ Πώς επιδιορθώνω το αρχείο xls; Με τη βιβλιοθήκη Aspose.Cells for Java, μπορείτε εύκολα να επιδιορθώσετε το αρχείο XLS μέσω προγραμματισμού με λίγες γραμμές κώδικα.[Aspose.Cells for Java](https://products.aspose.com/cells/java)έχει τη δυνατότητα δημιουργίας εφαρμογών πολλαπλών πλατφορμών με δυνατότητα δημιουργίας, τροποποίησης, μετατροπής, απόδοσης και εκτύπωσης όλων των αρχείων Excel. Java Το Excel API όχι μόνο μετατρέπει μεταξύ μορφών υπολογιστικών φύλλων, αλλά μπορεί επίσης να αποδώσει αρχεία Excel ως εικόνες, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT και άλλα, καθιστώντας έτσι την τέλεια επιλογή για την ανταλλαγή εγγράφων σε βιομηχανικές τυποποιημένες μορφές. Μπορείτε να κατεβάσετε την τελευταία του έκδοση απευθείας από[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) και εγκαταστήστε το στο έργο σας που βασίζεται στο Maven προσθέτοντας τις ακόλουθες διαμορφώσεις στο pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Αποθήκη" offSpacer="true" %}}
 
@@ -60,7 +60,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java Repair xl
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-recovery title="Δωρεάν εφαρμογή και δείγμα κώδικα για επισκευή αρχείου XLS στο Διαδίκτυο" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et" InputFormat="xls" outformat="xls" IsLandingPage="true" language="java" %}}    
+{{% cells-recovery title="Δείγμα κώδικα για επιδιόρθωση αρχείου XLS" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et" InputFormat="xls" outformat="xls" IsLandingPage="true" language="java" %}}    
     
 {{% blocks/products/pf/agp/content h2="Java βιβλιοθήκη για επιδιόρθωση αρχείου XLS" %}}
 

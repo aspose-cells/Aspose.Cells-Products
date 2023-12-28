@@ -2,6 +2,7 @@
 title:  Hur man ritar eller infogar en krökt pilform i Excel via Java
 weight: 30
 description: Rita eller infoga en krökt pilform med Aspose.Cells' Java API utan någon programvara som Microsoft eller Open Office, Adobe PDF, etc.
+keywords: [Java Aspose.Cells., Java add curved arrow shape., Java insert curved arrow shape., Java create curved arrow shape]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Infoga en krökt pilform i Excel via Java" h2="Infoga en krökt pilform med Aspose.Cells\' API utan någon programvara som Microsoft eller Open Office, Adobe PDF, etc." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSX" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="" fileiconsmall1="PPTX" fileiconsmall2="DOCX" fileiconsmall3="XLSX" fileiconsmall4="PDF" fileiconsmall5=" ODP " >}}
@@ -56,7 +57,7 @@ description: Rita eller infoga en krökt pilform med Aspose.Cells' Java API utan
 
 {{% /blocks/products/pf/agp/text %}}
 
-Instantiera ett arbetsboksobjekt.(eller->Läs in XLSX-filen med fullständig sökväg.)
++ Instantiera ett arbetsboksobjekt.(eller->Läs in XLSX-filen med fullständig sökväg.)
 + Välj kalkylblad via dess index.
  + Använd[lägga till metod](https://reference.aspose.com/cells/java/com.aspose.cells/shapecollection/#addAutoShape-int-int-int-int-int-int-int-) för att infoga en krökt pilform i det valda kalkylbladet
 + Spara arbetsboken i XLSX-format.

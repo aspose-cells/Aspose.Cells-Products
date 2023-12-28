@@ -2,6 +2,7 @@
 title:  Αναζήτηση και αντικατάσταση κειμένου στο έγγραφο ODS μέσω του C++
 weight: 1610
 description: C++ παράδειγμα κώδικα για τη διόρθωση ευαίσθητων πληροφοριών στο αρχείο ODS στο C++ Runtime Environment για Windows 32 bit, Windows 64 bit και Linux 64 bit.
+keywords: [C++ Aspose.Cells., C++ Search and replace text in ODS file., C++ redact ODS file., C++ edit ODS file., C++ ODS file redaction., C++ Search and replace string in ODS file]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Redact ODS Μορφές στο C++" h2="Το εγγενές και υψηλής απόδοσης ODS τεκμηριώνει ευαίσθητες πληροφορίες επεξεργασίας χρησιμοποιώντας API Aspose.Cells for C++ από την πλευρά του διακομιστή, χωρίς τη χρήση λογισμικού όπως το Microsoft ή το Adobe PDF." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" sourceAdditionalConversionTag="" additionalConversionTag="" pfName="Aspose.Cells" subTitlepfName="for C++" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="ODS" >}}
@@ -48,7 +49,7 @@ PM> Install-Package Aspose.Cells.Cpp
 + Ορισμός επιλογής ευαισθησίας πεζών-κεφαλαίων.
 + Ορισμός επιλογής αντιστοίχισης κειμένου
 + Αντικατάσταση κειμένου χρησιμοποιώντας τη μέθοδο Replace(...).
-Αποθηκεύστε το βιβλίο εργασίας.
++ Αποθηκεύστε το βιβλίο εργασίας.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -68,29 +69,25 @@ PM> Install-Package Aspose.Cells.Cpp
 {{% blocks/products/pf/agp/code-block title="Redact ODS Αρχεία - C++" offSpacer="" %}}
 
 ```cs
-// Source directory path.
-StringPtr srcDir = new String("SourceFolder\\");
 
-// Output directory path.
-StringPtr outDir = new String("OutputFolder\\");
+Aspose::Cells::Startup();
 
 // Load ODS file
-intrusive_ptr<IWorkbook>  workbook = Factory::CreateIWorkbook(srcDir->StringAppend(new String("book1.ods")));
-
-// Create an instance of the IReplaceOptions class
-intrusive_ptr<IReplaceOptions> replaceOptions = Factory::CreateIReplaceOptions();
-
-// Set case sensitivity option
-replaceOptions->SetCaseSensitive(false);
-
+Workbook wb(u"Input.ods");
+//Create an instance of the ReplaceOptions class
+ReplaceOptions replaceOptions;
 // Set text matching option
-replaceOptions->SetMatchEntireCellContents(false);
-
+replaceOptions.SetRegexKey(true);
+// Set case sensitivity option
+replaceOptions.SetCaseSensitive(false);
+// Set text matching option
+replaceOptions.SetMatchEntireCellContents(false);
 // Replace text
-workbook->Replace(new String("Text to find"), new String("Text replacement"), replaceOptions);
-
+wb.Replace(u"\bKIM\b", u"^^^^^^^^", replaceOptions);
 // Save as ODS file
-workbook->Save(outDir->StringAppend(new String("book1_out.ods")));
+wb.Save("output.ods");
+
+Aspose::Cells::Cleanup();
 
 ```
 
@@ -117,7 +114,7 @@ workbook->Save(outDir->StringAppend(new String("book1_out.ods")));
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Δεν χρειάζεται να κατεβάσετε το Aspose API." >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Δεν χρειάζεται να γράψετε κανέναν κώδικα." >}}
         {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Απλώς ανεβάστε τα ODS αρχεία σας." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-download" text=" Θα διορθωθεί αμέσως." >}}
+        {{< blocks/products/pf/agp/democard icon="fa-download" text="Θα διορθωθεί αμέσως." >}}
     {{< /blocks/products/pf/agp/demobox >}}
 
     {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="ODS" readMoreLink="https://docs.fileformat.com/spreadsheet/ods/" >}}

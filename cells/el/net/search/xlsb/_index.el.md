@@ -2,6 +2,7 @@
 title:  Αναζητήστε το έγγραφο XLSB χωρίς να ανοίξετε το via .NET
 weight: 8880
 description: C# πηγαίος κώδικας για αναζήτηση λέξεων με μοτίβο στο αρχείο XLSB στο .NET Framework, .NET Core, Mono ή Xamarin Platforms.
+keywords: [C# Aspose.Cells., c# search words with pattern in xlsb file., c# find words with pattern in xlsb file., c# search string with pattern in xlsb file., c# find words with pattern in xlsb file., c# search words in xlsb file., c# find words in xlsb file., c# search string in xlsb file., c# find string in xlsb file]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Αναζήτηση XLSB Μορφές στο C#" h2="Εγγενής και υψηλής απόδοσης αναζήτηση εγγράφων XLSB χρησιμοποιώντας API Aspose.Cells for .NET από την πλευρά του διακομιστή, χωρίς τη χρήση λογισμικού όπως το Microsoft ή το Adobe PDF." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="XLSB" >}}
@@ -13,7 +14,7 @@ description: C# πηγαίος κώδικας για αναζήτηση λέξε
 
  Για να αναζητήσουμε το αρχείο XLSB, θα χρησιμοποιήσουμε
  [Aspose.Cells for .NET](https://products.aspose.com/cells/net) 
-API το οποίο είναι ένα πλούσιο σε χαρακτηριστικά, ισχυρό και εύκολο στη χρήση πλατφόρμα αναζήτησης εγγράφων API για C#. Ανοιξε
+ API το οποίο είναι ένα πλούσιο σε χαρακτηριστικά, ισχυρό και εύκολο στη χρήση πλατφόρμα αναζήτησης εγγράφων API για C#. Ανοιξε
  [NuGet](https://www.nuget.org/packages/aspose.cells) 
  διαχειριστής πακέτων, αναζητήστε
  **Aspose.Cells** 

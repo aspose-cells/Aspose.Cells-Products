@@ -1,7 +1,7 @@
 ---
-title: C++ TXT till POWERPOINT - Online TXT till POWERPOINT Converter
-description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. Gratis Online C++ Konvertera TXT till POWERPOINT saveformat. C++ TXT till POWERPOINT-format. Spara TXT till POWERPOINT C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ TXT to POWERPOINT saveformat., Free Online TXT to POWERPOINT C++., C++ Convert TXT to POWERPOINT]
+title: C++ TXT till POWERPOINT - TXT till POWERPOINT-omvandlare
+description: Aspose Excel. Konvertera TXT till POWERPOINT snabbt och enkelt med Aspose.Cells. C++ TXT till POWERPOINT. C++ Spara TXT till POWERPOINT. Spara TXT som POWERPOINT med C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., Convert TXT to POWERPOINT in C++., Save TXT to POWERPOINT using C++., C++ TXT to POWERPOINT saveformat., TXT to POWERPOINT Converter., C++ Save TXT as POWERPOINT]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Konvertera TXT till POWERPOINT i C++" h2="Högpresterande TXT till POWERPOINT-konvertering med C++-bibliotek utan behov av Microsoft Excel, OpenOffice eller Adobe Acrobat-installation." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" sourceAdditionalConversionTag="" additionalConversionTag="POWERPOINT" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ TXT to POWER
 
 {{% blocks/products/pf/agp/content h2="Konvertera TXT till POWERPOINT med C++" %}}
 
- Hur konverterar jag TXT till POWERPOINT? Med Aspose.Cells for C++ bibliotek kan du enkelt konvertera TXT till POWERPOINT programmatiskt med några rader kod.[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) kan bygga plattformsoberoende applikationer med förmågan att generera, modifiera, konvertera, rendera och skriva ut alla Excel-filer. C++ Excel API konverterar inte bara mellan kalkylarksformat, det kan också rendera Excel-filer som bilder, PDF, HTML, ODS, ODS, CSV, 0761687481, 0761687481, vilket gör det till ett perfekt val, Pt utbyta dokument i branschstandard format. Du kan ladda ner den senaste versionen direkt, bara öppna[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) pakethanteraren, sök efter Aspose.Cells.Cpp och installera. Du kan också använda följande kommando från Package Manager Console.
+ Hur konverterar jag TXT till POWERPOINT? Med Aspose.Cells for C++ bibliotek kan du enkelt konvertera TXT till POWERPOINT programmatiskt med några rader kod.[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) kan bygga plattformsoberoende applikationer med förmågan att generera, modifiera, konvertera, rendera och skriva ut alla Excel-filer. C++ Excel API konverterar inte bara mellan kalkylarksformat, den kan också rendera Excel-filer som bilder, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT och mer, vilket gör det till ett perfekt val att utbyta dokument i industristandardformat. Du kan ladda ner den senaste versionen direkt, bara öppna[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) pakethanteraren, sök efter Aspose.Cells.Cpp och installera. Du kan också använda följande kommando från Package Manager Console.
 
 {{% blocks/products/pf/agp/code-block title="Kommando" offSpacer="true" %}}
 
@@ -26,18 +26,18 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Spara TXT till POWERPOINT i C++ Online gratis" %}}
+{{% blocks/products/pf/agp/content h2="Spara TXT till POWERPOINT i C++" %}}
 
 Följande exempel visar hur man konverterar TXT till POWERPOINT i C++.
 {{% blocks/products/pf/agp/text %}}
 
-Följ de enkla stegen för att konvertera TXT till POWERPOINT. Ladda upp din TXT-fil och spara den sedan som POWERPOINT-fil. För både TXT-läsning och POWERPOINT-skrivning kan du använda fullt kvalificerade filnamn. POWERPOINT-innehållet och formateringen kommer att vara identisk med originaldokumentet TXT.
+Följ de enkla stegen för att konvertera TXT till POWERPOINT. Ladda upp din TXT-fil och spara den sedan som POWERPOINT-fil. För både TXT-läsning och POWERPOINT-skrivning kan du använda fullt kvalificerade filnamn. Utdata POWERPOINT-innehåll och formatering kommer att vara identisk med originaldokumentet TXT.
 
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Gratis app och provkod för att konvertera TXT till POWERPOINT Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="txt" outformat="pptx" IsLandingPage="true" language="cpp" %}}
+{{% cells-convert title="Exempelkod för att konvertera TXT till POWERPOINT" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="txt" outformat="pptx" IsLandingPage="true" language="cpp" %}}
 
 {{% blocks/products/pf/agp/content h2="Hur man konverterar TXT till POWERPOINT via C++" %}}
 
@@ -49,7 +49,7 @@ Behöver du konvertera TXT-filer till POWERPOINT programmatiskt? C++-utvecklare 
 
 1.  Installera 'Aspose.Cells for C++'.
 1.  Lägg till en biblioteksreferens (importera biblioteket) till ditt C++-projekt.
-1.  Ladda TXT-filen med Factory::CreateIWorkbook.
+1.  Ladda TXT-filen med arbetsbok.
 1.  Konvertera TXT till POWERPOINT genom att anropa metoden Save().
 1.  Få konverteringsresultatet från TXT till POWERPOINT.
 
@@ -101,7 +101,6 @@ Det finns tre alternativ för att installera "Aspose.Cells for C++" på ditt sys
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/txt-to-pdf/" name="TXT TILL PDF" description="Portabelt dokumentformat" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/txt-to-png/" name="TXT TILL PNG" description="Bärbar nätverksgrafik" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/txt-to-svg/" name="TXT TILL SVG" description="Skalbar vektorgrafik" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/txt-to-tiff/" name="TXT TILL TIFF" description="Taggad bildformat" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/txt-to-tsv/" name="TXT TILL TSV" description="Tab-separerade värden" >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/txt-to-xls/" name="TXT TILL XLS" description="Excel binärt format" >}}

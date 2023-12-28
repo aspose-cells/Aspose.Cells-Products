@@ -1,7 +1,7 @@
 ---
 title: Skapa ODS - Skapa ODS fil i Java
-description: Aspose Excel. Java Skapa ODS fil. Skapa ODS Java. Java ODS Skapare. Skapa ODS i Java. Generera filen ODS med Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Create ODS Java., Java ODS Creater., Create ODS file in Java., Generate ODS file in Java]
+description: Aspose Excel. Java Skapa ODS Arkivera snabbt och enkelt med Aspose.Cells. Skapa ODS fil med Java. Skapa ODS i Java. 0761836481 Skapa Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java Create ODS file., Generate ODS file in Java., Create ODS file using Java., Write data to ODS file via Java., Create a ODS file in Java., Java Generate a ODS file., Java ODS Creater]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Skapa ODS-fil i Java" h2="Höghastighets Java-bibliotek för att skapa ODS-fil. Detta är en professionell mjukvarulösning för att importera och exportera XLSX, PDF och många andra format med Java." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="ODS" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -11,7 +11,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Create ODS Java., Java ODS Creater
 
 {{% blocks/products/pf/agp/content h2="Skapa ODS-fil med Java" %}}
 
- Hur skapar man ODS-fil? Med Aspose.Cells for Java-biblioteket kan du enkelt skapa ODS-filen programmatiskt med några rader kod.[Aspose.Cells for Java](https://products.aspose.com/cells/java) kan bygga plattformsoberoende applikationer med förmågan att generera, modifiera, konvertera, rendera och skriva ut alla Excel-filer. Java Excel API konverterar inte bara mellan kalkylarksformat, det kan också rendera Excel-filer som bilder, PDF, HTML, ODS, ODS, CSV, 0761687481, 0761687481, vilket gör det till ett perfekt val, Pt utbyta dokument i branschstandard format. Du kan ladda ner den senaste versionen direkt från[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) och installera det i ditt Maven-baserade projekt genom att lägga till följande konfigurationer till pom.xml.
+ Hur skapar man ODS-fil? Med Aspose.Cells for Java-biblioteket kan du enkelt skapa ODS-filen programmatiskt med några rader kod.[Aspose.Cells for Java](https://products.aspose.com/cells/java)kan bygga plattformsoberoende applikationer med förmågan att generera, modifiera, konvertera, rendera och skriva ut alla Excel-filer. Java Excel API konverterar inte bara mellan kalkylarksformat, den kan också rendera Excel-filer som bilder, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT och mer, vilket gör det till ett perfekt val att utbyta dokument i industristandardformat. Du kan ladda ner den senaste versionen direkt från[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) och installera det i ditt Maven-baserade projekt genom att lägga till följande konfigurationer till pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Förvar" offSpacer="true" %}}
 
@@ -57,7 +57,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Create ODS Java., Java ODS Creater
 1.  Skapa en instans av[Arbetsbok klass](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook).
 1.  Öppna det relevanta kalkylbladet med metoden getWorksheets.get().
 1.  Välj den relevanta cellen, mata in värdet i önskad cell med cellnamnet, som A1, B3, etc.
-1.  Spara arbetsboken som ODS-format med metoden save().
+1. Spara arbetsboken som ODS-format med metoden save().
 
 {{% blocks/products/pf/agp/code-block title="Exempelkod visar hur man skapar ODS-filen i Java." offSpacer="" %}}
 
@@ -101,7 +101,7 @@ wkb.save("Excel.ods");
 
 {{% blocks/products/pf/agp/text %}}
 
-Innan du kör källkoden för Java omvandlingsexempel, se till att du har följande förutsättningar.
+ Innan du kör källkoden för Java omvandlingsexempel, se till att du har följande förutsättningar.
 
 {{% /blocks/products/pf/agp/text %}}
 

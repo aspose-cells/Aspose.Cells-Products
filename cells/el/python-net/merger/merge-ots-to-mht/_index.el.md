@@ -1,8 +1,8 @@
 ---
 title: Συγχώνευση OTS σε MHT - Συνδυάστε το OTS σε MHT στο Python
 url: /el/python-net/merger/merge-ots-to-mht/ 
-description: Aspose Excel. Python Aspose.Cells. Δωρεάν Online Συγχώνευση OTS σε μορφή αποθήκευσης MHT. Python Συνδυάστε τη μορφή OTS σε MHT. Συγχώνευση OTS σε MHT στο Python. OTS Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge OTS to MHT in Python., Free Online Python Merge OTS to mht., Python Combine OTS to MHT Online for Free., OTS Merge]
+description: Aspose Excel. Python Aspose.Cells. Συγχώνευση OTS σε μορφή αποθήκευσης MHT. Python Συνδυάστε τη μορφή OTS σε MHT. Συγχώνευση OTS σε MHT στο Python. OTS Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge OTS to MHT in Python., Python Merge OTS to mht., Python Combine OTS to MHT., OTS Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Συγχωνεύστε το OTS με το MHT μέσω του Python" h2="Βιβλιοθήκη υψηλής ταχύτητας Python για συγχώνευση OTS με MHT. Χρησιμοποιήστε τη μετατροπή excel API για να αναπτύξετε λογισμικό υψηλού επιπέδου, ανεξάρτητο από πλατφόρμα στο Python. Αυτή είναι μια επαγγελματική λύση λογισμικού για την εισαγωγή και εξαγωγή του Excel, CSV, OpenOffice, PDF, HTML, image και πολλών άλλων μορφών excel." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="OTS" additionalConversionTag="MHT" pfName="Aspose.Cells" subTitlepfName="for Python" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -12,12 +12,12 @@ keywords: [Aspose Excel., Python Aspose.Cells., Merge OTS to MHT in Python., Fre
 
 {{% blocks/products/pf/agp/content h2="Συγχώνευση OTS σε MHT χρησιμοποιώντας Python" %}}
 
- Πώς μπορώ να συγχωνεύσω το OTS με το MHT; Με τη βιβλιοθήκη Aspose.Cells for Python via .NET, μπορείτε εύκολα να συγχωνεύσετε το OTS στο MHT μέσω προγραμματισμού με μερικές γραμμές κώδικα.[Aspose.Cells for Python via .NET](https://pypi.org/project/aspose-cells-python)έχει τη δυνατότητα δημιουργίας εφαρμογών πολλαπλών πλατφορμών με δυνατότητα δημιουργίας, τροποποίησης, μετατροπής, απόδοσης και εκτύπωσης όλων των αρχείων Excel. Python Το Excel API όχι μόνο μετατρέπει μεταξύ μορφών υπολογιστικών φύλλων, αλλά μπορεί επίσης να αποδώσει αρχεία Excel ως εικόνες, PDF, HTML, ODS, CSV, 07616031481, CSV, 07616831481, δημιουργώντας περισσότερα τέλεια επιλογή για την ανταλλαγή εγγράφων σε βιομηχανικά πρότυπα μορφές. Μπορείτε να εγκαταστήσετε το Aspose.Cells for Python via .NET από<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , χρησιμοποιήστε την εντολή ως:<code>$ pip install aspose-cells-python</code>.
+ Πώς μπορώ να συγχωνεύσω το OTS με το MHT; Με τη βιβλιοθήκη Aspose.Cells for Python via .NET, μπορείτε εύκολα να συγχωνεύσετε το OTS στο MHT μέσω προγραμματισμού με μερικές γραμμές κώδικα.[Aspose.Cells for Python via .NET](https://pypi.org/project/aspose-cells-python) έχει τη δυνατότητα δημιουργίας εφαρμογών πολλαπλών πλατφορμών με δυνατότητα δημιουργίας, τροποποίησης, μετατροπής, απόδοσης και εκτύπωσης όλων των αρχείων Excel. Python Το Excel API όχι μόνο μετατρέπει μεταξύ μορφών υπολογιστικών φύλλων, αλλά μπορεί επίσης να αποδώσει αρχεία Excel ως εικόνες, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT και άλλα, καθιστώντας έτσι την τέλεια επιλογή για την ανταλλαγή εγγράφων σε βιομηχανικές τυποποιημένες μορφές. Μπορείτε να εγκαταστήσετε το Aspose.Cells for Python via .NET από<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , χρησιμοποιήστε την εντολή ως:<code>$ pip install aspose-cells-python</code>.
 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Συγχωνεύστε το OTS με το MHT στο Python Online δωρεάν" %}}
+{{% blocks/products/pf/agp/content h2="Συγχώνευση OTS με MHT στο Python" %}}
 
 Το ακόλουθο παράδειγμα δείχνει πώς να συγχωνεύσετε το OTS με το MHT στο Aspose.Cells for Python via .NET.
 {{% blocks/products/pf/agp/text %}}
@@ -28,7 +28,7 @@ keywords: [Aspose Excel., Python Aspose.Cells., Merge OTS to MHT in Python., Fre
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Δωρεάν online για συγχώνευση OTS με MHT στο Python" InputFormat="ots" InputFormat2="mht" outformat="mht" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-merger title="Δείγμα κώδικα για συγχώνευση OTS με MHT στο Python" InputFormat="ots" InputFormat2="mht" outformat="mht" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="Πώς να συγχωνεύσετε το OTS στο MHT μέσω του Python" %}}
 
@@ -52,7 +52,7 @@ keywords: [Aspose Excel., Python Aspose.Cells., Merge OTS to MHT in Python., Fre
 Φιλοξενούμε τα πακέτα μας Python στα αποθετήρια PyPi.
 
 {{% blocks/products/pf/agp/text %}}
-Εγκαταστήστε το Aspose.Cells for Python από<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , χρησιμοποιήστε την εντολή ως:<code>$ pip install aspose-cells-python</code>.
+ Εγκαταστήστε το Aspose.Cells for Python από<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , χρησιμοποιήστε την εντολή ως:<code>$ pip install aspose-cells-python</code>.
 {{% /blocks/products/pf/agp/text %}}
 
 {{% blocks/products/pf/agp/text %}}
@@ -72,7 +72,7 @@ keywords: [Aspose Excel., Python Aspose.Cells., Merge OTS to MHT in Python., Fre
 {{% /blocks/products/pf/agp/text %}}
 
 -  Εγκαθιστώ[Python](https://www.python.org/downloads/) 3,7 ή υψηλότερο.
-- Εγκαταστήστε το Aspose.Cells for Python από<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , χρησιμοποιήστε την εντολή ως:<code>$ pip install aspose-cells-python</code>.
+-  Εγκαταστήστε το Aspose.Cells for Python από<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , χρησιμοποιήστε την εντολή ως:<code>$ pip install aspose-cells-python</code>.
 
 
 {{% /blocks/products/pf/agp/content %}}

@@ -1,8 +1,8 @@
 ---
 title: Συγχώνευση NUMBERS στο SVG - Συνδυάστε NUMBERS στο SVG στο Python
 url: /el/python-net/merger/merge-numbers-to-svg/ 
-description: Aspose Excel. Python Aspose.Cells. Δωρεάν Online Merge NUMBERS to SVG saveformat. Python Συνδυάστε τα NUMBERS σε μορφή SVG. Συγχώνευση NUMBERS στο SVG στο Python. NUMBERS Συγχώνευση.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge NUMBERS to SVG in Python., Free Online Python Merge NUMBERS to svg., Python Combine NUMBERS to SVG Online for Free., NUMBERS Merge]
+description: Aspose Excel. Python Aspose.Cells. Συγχώνευση NUMBERS σε μορφή αποθήκευσης SVG. Python Συνδυάστε τα NUMBERS σε μορφή SVG. Συγχώνευση NUMBERS στο SVG στο Python. NUMBERS Συγχώνευση.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge NUMBERS to SVG in Python., Python Merge NUMBERS to svg., Python Combine NUMBERS to SVG., NUMBERS Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Συγχώνευση NUMBERS στο SVG μέσω Python" h2="Βιβλιοθήκη υψηλής ταχύτητας Python για συγχώνευση NUMBERS στο SVG. Χρησιμοποιήστε τη μετατροπή excel API για να αναπτύξετε λογισμικό υψηλού επιπέδου, ανεξάρτητο από πλατφόρμα στο Python. Αυτή είναι μια επαγγελματική λύση λογισμικού για εισαγωγή και εξαγωγή πολλών άλλων μορφών excel, Excel, CSV, OpenOffice, PDF, HTML, image." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="NUMBERS" additionalConversionTag="SVG" pfName="Aspose.Cells" subTitlepfName="for Python" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -12,12 +12,12 @@ keywords: [Aspose Excel., Python Aspose.Cells., Merge NUMBERS to SVG in Python.,
 
 {{% blocks/products/pf/agp/content h2="Συγχώνευση NUMBERS στο SVG χρησιμοποιώντας Python" %}}
 
- Πώς μπορώ να συγχωνεύσω τα NUMBERS στο SVG; Με τη βιβλιοθήκη Aspose.Cells for Python via .NET, μπορείτε εύκολα να συγχωνεύσετε NUMBERS στο SVG μέσω προγραμματισμού με λίγες γραμμές κώδικα.[Aspose.Cells for Python via .NET](https://pypi.org/project/aspose-cells-python)έχει τη δυνατότητα δημιουργίας εφαρμογών πολλαπλών πλατφορμών με δυνατότητα δημιουργίας, τροποποίησης, μετατροπής, απόδοσης και εκτύπωσης όλων των αρχείων Excel. Python Το Excel API όχι μόνο μετατρέπει μεταξύ μορφών υπολογιστικών φύλλων, αλλά μπορεί επίσης να αποδώσει αρχεία Excel ως εικόνες, PDF, HTML, ODS, CSV, 07616031481, CSV, 07616831481, δημιουργώντας περισσότερα τέλεια επιλογή για την ανταλλαγή εγγράφων σε βιομηχανικά πρότυπα μορφές. Μπορείτε να εγκαταστήσετε το Aspose.Cells for Python via .NET από<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , χρησιμοποιήστε την εντολή ως:<code>$ pip install aspose-cells-python</code>.
+ Πώς μπορώ να συγχωνεύσω τα NUMBERS στο SVG; Με τη βιβλιοθήκη Aspose.Cells for Python via .NET, μπορείτε εύκολα να συγχωνεύσετε NUMBERS στο SVG μέσω προγραμματισμού με λίγες γραμμές κώδικα.[Aspose.Cells for Python via .NET](https://pypi.org/project/aspose-cells-python) έχει τη δυνατότητα δημιουργίας εφαρμογών πολλαπλών πλατφορμών με δυνατότητα δημιουργίας, τροποποίησης, μετατροπής, απόδοσης και εκτύπωσης όλων των αρχείων Excel. Python Το Excel API όχι μόνο μετατρέπει μεταξύ μορφών υπολογιστικών φύλλων, αλλά μπορεί επίσης να αποδώσει αρχεία Excel ως εικόνες, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT και άλλα, καθιστώντας έτσι την τέλεια επιλογή για την ανταλλαγή εγγράφων σε βιομηχανικές τυποποιημένες μορφές. Μπορείτε να εγκαταστήσετε το Aspose.Cells for Python via .NET από<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , χρησιμοποιήστε την εντολή ως:<code>$ pip install aspose-cells-python</code>.
 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Συγχώνευση NUMBERS στο SVG στο Python Δωρεάν Online" %}}
+{{% blocks/products/pf/agp/content h2="Συγχώνευση NUMBERS στο SVG στο Python" %}}
 
 Το ακόλουθο παράδειγμα δείχνει πώς να συγχωνεύσετε NUMBERS στο SVG στο Aspose.Cells for Python via .NET.
 {{% blocks/products/pf/agp/text %}}
@@ -28,7 +28,7 @@ keywords: [Aspose Excel., Python Aspose.Cells., Merge NUMBERS to SVG in Python.,
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Δωρεάν online για συγχώνευση NUMBERS στο SVG στο Python" InputFormat="numbers" InputFormat2="svg" outformat="svg" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-merger title="Δείγμα κώδικα για συγχώνευση αριθμών σε SVG στο Python" InputFormat="numbers" InputFormat2="svg" outformat="svg" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="Πώς να συγχωνεύσετε τους αριθμούς στο SVG μέσω του Python" %}}
 
@@ -52,7 +52,7 @@ keywords: [Aspose Excel., Python Aspose.Cells., Merge NUMBERS to SVG in Python.,
 Φιλοξενούμε τα πακέτα μας Python στα αποθετήρια PyPi.
 
 {{% blocks/products/pf/agp/text %}}
-Εγκαταστήστε το Aspose.Cells for Python από<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , χρησιμοποιήστε την εντολή ως:<code>$ pip install aspose-cells-python</code>.
+ Εγκαταστήστε το Aspose.Cells for Python από<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , χρησιμοποιήστε την εντολή ως:<code>$ pip install aspose-cells-python</code>.
 {{% /blocks/products/pf/agp/text %}}
 
 {{% blocks/products/pf/agp/text %}}
@@ -72,14 +72,14 @@ keywords: [Aspose Excel., Python Aspose.Cells., Merge NUMBERS to SVG in Python.,
 {{% /blocks/products/pf/agp/text %}}
 
 -  Εγκαθιστώ[Python](https://www.python.org/downloads/) 3,7 ή υψηλότερο.
-- Εγκαταστήστε το Aspose.Cells for Python από<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , χρησιμοποιήστε την εντολή ως:<code>$ pip install aspose-cells-python</code>.
+-  Εγκαταστήστε το Aspose.Cells for Python από<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , χρησιμοποιήστε την εντολή ως:<code>$ pip install aspose-cells-python</code>.
 
 
 {{% /blocks/products/pf/agp/content %}}
 
 <!-- aboutfile Starts -->
     {{< blocks/products/pf/agp/about-file-section >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="NUMBERS" readMoreLink="https://docs.fileformat.com/spreadsheet/numbers/" >}}Τα αρχεία με επέκταση .numbers ταξινομούνται ως τύπος αρχείου υπολογιστικού φύλλου, γι' αυτό είναι παρόμοια με τα αρχεία .xlsx. αλλά τα αρχεία Numbers δημιουργούνται χρησιμοποιώντας το λογισμικό υπολογιστικών φύλλων Apple iWork Numbers. Το Apple iWork Numbers είναι ένα λογισμικό μονάδας του iWork Productivity Suite. Το iWork Productivity Suite είναι ισοδύναμο με το Microsoft Office Suite που χρησιμοποιείται σε υπολογιστές Windows. Ως εκ τούτου, μπορούμε να πούμε ότι το Numbers που είναι διαθέσιμο για MacOS είναι επίσης ανταγωνιστής του Microsoft Excel. Ομοίως, Microsoft Excel, το αρχείο NUMBERS μπορεί επίσης να περιέχει πίνακες, γραφήματα και τύπους.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="NUMBERS" readMoreLink="https://docs.fileformat.com/spreadsheet/numbers/" >}} Τα αρχεία με επέκταση .numbers ταξινομούνται ως τύπος αρχείου υπολογιστικού φύλλου, γι' αυτό είναι παρόμοια με τα αρχεία .xlsx. αλλά τα αρχεία Numbers δημιουργούνται χρησιμοποιώντας το λογισμικό υπολογιστικών φύλλων Apple iWork Numbers. Το Apple iWork Numbers είναι ένα λογισμικό μονάδας του iWork Productivity Suite. Το iWork Productivity Suite είναι ισοδύναμο με το Microsoft Office Suite που χρησιμοποιείται σε υπολογιστές Windows. Ως εκ τούτου, μπορούμε να πούμε ότι το Numbers που είναι διαθέσιμο για MacOS είναι επίσης ανταγωνιστής του Microsoft Excel. Ομοίως, Microsoft Excel, το αρχείο NUMBERS μπορεί επίσης να περιέχει πίνακες, γραφήματα και τύπους.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="SVG" readMoreLink="https://docs.fileformat.com/page-description-language/svg/" >}}Ένα αρχείο SVG είναι ένα αρχείο Scalar Vector Graphics που χρησιμοποιεί μορφή κειμένου βασισμένη σε XML για την περιγραφή της εμφάνισης μιας εικόνας. Η λέξη Scalable αναφέρεται στο γεγονός ότι το SVG μπορεί να κλιμακωθεί σε διαφορετικά μεγέθη χωρίς να χάσει καμία ποιότητα. Η περιγραφή τέτοιων αρχείων βάσει κειμένου τα καθιστά ανεξάρτητα από την ανάλυση. Είναι μια από τις πιο χρησιμοποιούμενες μορφές για τη δημιουργία ιστότοπου και την εκτύπωση γραφικών προκειμένου να επιτευχθεί επεκτασιμότητα. Ωστόσο, η μορφή μπορεί να χρησιμοποιηθεί μόνο για δισδιάστατα γραφικά. Τα αρχεία SVG μπορούν να προβληθούν/ανοιχθούν σε όλα σχεδόν τα σύγχρονα προγράμματα περιήγησης, συμπεριλαμβανομένων των Chrome, Internet Explorer, Firefox και Safari.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
     {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->

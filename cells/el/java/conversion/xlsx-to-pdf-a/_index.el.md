@@ -1,5 +1,5 @@
 ---
-title: Μετατροπή XLSX σε PDF/A Συμμορφωμένα Αρχεία via Java
+title:  Μετατροπή XLSX σε PDF/A Συμμορφωμένα Αρχεία via Java
 weight: 3200
 description: Δείγμα κωδικού μετατροπής Java για μορφή XLSX σε PDF A Complied Files. Οι προγραμματιστές μπορούν να χρησιμοποιήσουν αυτό το παράδειγμα κώδικα για να εξάγουν υπολογιστικά φύλλα Excel και OpenOffice σε αρχεία PDFA Complied εντός οποιασδήποτε εφαρμογής που βασίζεται στο Web ή στην επιφάνεια εργασίας Java.
 ---
@@ -11,7 +11,7 @@ description: Δείγμα κωδικού μετατροπής Java για μορ
 
 {{% blocks/products/pf/agp/content h2="Πώς να μετατρέψετε το XLSX σε PDF/A χρησιμοποιώντας το Java" %}}
 
- Για να αποδώσουμε το XLSX στο PDF/A, θα χρησιμοποιήσουμε
+Για να αποδώσουμε το XLSX στο PDF/A, θα χρησιμοποιήσουμε
  [Aspose.Cells for Java](https://products.aspose.com/cells/java) 
  API που είναι μια πλατφόρμα μετατροπής πλούσια σε χαρακτηριστικά, ισχυρή και εύκολη στη χρήση API for Java. Μπορείτε να κατεβάσετε την τελευταία του έκδοση απευθείας από
  [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) 
@@ -58,7 +58,7 @@ description: Δείγμα κωδικού μετατροπής Java για μορ
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Φορτώστε το αρχείο XLSX με μια παρουσία της κλάσης Βιβλίο εργασίας
-1. Δημιουργία αντικειμένου κλάσης PdfSaveOptions
+1.  Δημιουργία αντικειμένου κλάσης PdfSaveOptions
 1.  Ορίστε τον τύπο συμμόρφωσης PdfCompliance.PdfA1b
 1.  Καλέστε τη μέθοδο Workbook.save
 1.  Διέλευση διαδρομής εξόδου με επέκταση PDF & αντικείμενο PdfSaveOptions ως παραμέτρους
@@ -95,12 +95,12 @@ description: Δείγμα κωδικού μετατροπής Java για μορ
 {{< blocks/products/pf/agp/demobox sectionTitle="XLSX σε PDF Ζωντανές επιδείξεις μετατροπής" sectionDescription="[Μετατρέψτε το XLSX σε PDF](https://products.aspose.app/cells/conversion/xlsx-to-pdf) αυτή τη στιγμή, επισκεπτόμενοι τον ιστότοπο Live Demos. Η ζωντανή επίδειξη έχει τα ακόλουθα πλεονεκτήματα" >}}
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Δεν χρειάζεται να κατεβάσετε το Aspose API." >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Δεν χρειάζεται να γράψετε κανέναν κώδικα." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Απλώς ανεβάστε το αρχείο XLSX, θα μετατραπεί αμέσως σε PDF." >}}
+        {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Απλώς ανεβάστε το αρχείο XLSX, θα μετατραπεί αμέσως σε PDF." >}}
         {{< blocks/products/pf/agp/democard icon="fa-download" text=" Θα λάβετε τον σύνδεσμο λήψης." >}}
 
     {{% blocks/products/pf/agp/content h2="Java Βιβλιοθήκη χειρισμού υπολογιστικών φύλλων" %}}
 
-Το Excel API μπορεί να χρησιμοποιηθεί για τη δημιουργία, επεξεργασία, μετατροπή και απόδοση μορφών Excel Microsoft σε διαφορετικές μορφές. Επιπλέον, μπορεί να χρησιμοποιηθεί για ολοκληρωμένη χαρτογράφηση, κλιμακούμενη αναφορά και αξιόπιστους υπολογισμούς εντός εφαρμογών λογισμικού. Το Aspose.Cells είναι ένα αυτόνομο API και δεν απαιτεί λογισμικό όπως το Microsoft ή το OpenOffice.
+ Το Excel API μπορεί να χρησιμοποιηθεί για τη δημιουργία, επεξεργασία, μετατροπή και απόδοση μορφών Excel Microsoft σε διαφορετικές μορφές. Επιπλέον, μπορεί να χρησιμοποιηθεί για ολοκληρωμένη χαρτογράφηση, κλιμακούμενη αναφορά και αξιόπιστους υπολογισμούς εντός εφαρμογών λογισμικού. Το Aspose.Cells είναι ένα αυτόνομο API και δεν απαιτεί λογισμικό όπως το Microsoft ή το OpenOffice.
 
 
 

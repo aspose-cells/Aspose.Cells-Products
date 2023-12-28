@@ -1,7 +1,7 @@
 ---
-title: Java ODS till MD - Online ODS till MD Converter
-description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Gratis Online Java Konvertera ODS till MD saveformat. Java ODS till MD-format. Spara ODS till MD Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java ODS to MD saveformat., Free Online ODS to MD Java., Java Convert ODS to MD]
+title: Java ODS till MD - ODS till MD-omvandlare
+description: Aspose Excel. Konvertera ODS till MD snabbt och enkelt med Aspose.Cells. Java ODS till MD. Java Spara ODS till MD. Spara ODS som MD med Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Convert ODS to MD in Java., Save ODS to MD using Java., Java ODS to MD saveformat., ODS to MD Converter., Java Save ODS as MD]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Konvertera ODS till MD i Java" h2="Höghastighets Java-bibliotek för att konvertera ODS till MD. Detta är en professionell mjukvarulösning för att importera och exportera ODS, MD och många andra format med Java." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="MD" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java ODS to MD
 
 {{% blocks/products/pf/agp/content h2="Konvertera ODS till MD med Java" %}}
 
- Hur konverterar jag ODS till MD? Med Aspose.Cells for Java bibliotek kan du enkelt konvertera ODS till MD programmatiskt med några rader kod.[Aspose.Cells for Java](https://products.aspose.com/cells/java) kan bygga plattformsoberoende applikationer med förmågan att generera, modifiera, konvertera, rendera och skriva ut alla Excel-filer. Java Excel API konverterar inte bara mellan kalkylarksformat, det kan också rendera Excel-filer som bilder, PDF, HTML, ODS, ODS, CSV, 0761687481, 0761687481, vilket gör det till ett perfekt val, Pt utbyta dokument i branschstandard format. Du kan ladda ner den senaste versionen direkt från[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) och installera det i ditt Maven-baserade projekt genom att lägga till följande konfigurationer till pom.xml.
+ Hur konverterar jag ODS till MD? Med Aspose.Cells for Java bibliotek kan du enkelt konvertera ODS till MD programmatiskt med några rader kod.[Aspose.Cells for Java](https://products.aspose.com/cells/java)kan bygga plattformsoberoende applikationer med förmågan att generera, modifiera, konvertera, rendera och skriva ut alla Excel-filer. Java Excel API konverterar inte bara mellan kalkylarksformat, den kan också rendera Excel-filer som bilder, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT och mer, vilket gör det till ett perfekt val att utbyta dokument i industristandardformat. Du kan ladda ner den senaste versionen direkt från[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) och installera det i ditt Maven-baserade projekt genom att lägga till följande konfigurationer till pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Förvar" offSpacer="true" %}}
 
@@ -45,7 +45,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java ODS to MD
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Spara ODS till MD i Java online gratis" %}}
+{{% blocks/products/pf/agp/content h2="Spara ODS till MD i Java" %}}
 
 Följande exempel visar hur man konverterar ODS till MD i Java.
 {{% blocks/products/pf/agp/text %}}
@@ -56,7 +56,7 @@ Följ de enkla stegen för att konvertera ODS till MD. Ladda upp din ODS-fil och
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Gratis app och provkod för att konvertera ODS till MD Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="ods" outformat="md" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Exempelkod för att konvertera ODS till MD" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="ods" outformat="md" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="Hur man konverterar ODS till MD via Java" %}}
 
@@ -68,7 +68,7 @@ Behöver du konvertera ODS-filer till MD programmatiskt? Java-utvecklare kan enk
 
 1.  Installera 'Aspose.Cells for Java'.
 1.  Lägg till en biblioteksreferens (importera biblioteket) till ditt Java-projekt.
-1.  Ladda ODS-filen med en instans av Workbook-klassen.
+1. Ladda ODS-filen med en instans av Workbook-klassen.
 1.  Konvertera ODS till MD genom att anropa Workbook.save-metoden.
 1.  Få konverteringsresultatet av ODS till MD.
 

@@ -2,6 +2,7 @@
 title: Infoga kommentarer till XLSM fil via .NET
 url: /sv/net/comments/insert-comments-to-xlsm/ 
 description: Infoga kommentarer till XLSM med C#. Använd API exempelkod för att infoga kommentarer i .NET-applikationen.
+keywords: [C# Aspose.Cells., add XLSM comments., insert XLSM comments., access XLSM comments., remove XLSM comments., delete XLSM comments., add comments in XLSM., insert comments in XLSM., access comments in XLSM., remove comments in XLSM., delete comments in XLSM]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Infoga kommentarer i XLSM fil via C#" h2="Bygg din egen .NET-applikation för att manipulera kommentarer och författare i dokumentfiler med hjälp av API:er på serversidan." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSM" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="XLS" fileiconsmall2="XLSB" fileiconsmall3="XLSX" fileiconsmall4="XLSM" fileiconsmall5="ODS" >}}
@@ -11,7 +12,7 @@ description: Infoga kommentarer till XLSM med C#. Använd API exempelkod för at
 
 {{% blocks/products/pf/agp/content h2="Infoga kommentarer i XLSM fil med .NET" %}}
 
- Med Aspose.Cells for .NET-biblioteket kan du enkelt infoga kommentarer i XLSM-filen programmatiskt med några rader kod.[Aspose.Cells for .NET](https://products.aspose.com/cells/net)kan bygga plattformsoberoende applikationer med förmågan att generera, modifiera, konvertera, rendera och skriva ut alla Excel-filer. .NET Excel API konverterar inte bara mellan kalkylarksformat, det kan också rendera Excel-filer som bilder, PDF, HTML, ODS, ODS, CSV, 0761687481, 0761687481, vilket gör det till ett perfekt val, Pt utbyta dokument i branschstandard format. Öppen[NuGet](https://www.nuget.org/packages/aspose.cells) pakethanteraren, sök efter Aspose.Cells och installera. Du kan också använda följande kommando från Package Manager Console.
+ Med Aspose.Cells for .NET-biblioteket kan du enkelt infoga kommentarer i XLSM-filen programmatiskt med några rader kod.[Aspose.Cells for .NET](https://products.aspose.com/cells/net)kan bygga plattformsoberoende applikationer med förmågan att generera, modifiera, konvertera, rendera och skriva ut alla Excel-filer. .NET Excel API konverterar inte bara mellan kalkylarksformat, den kan också rendera Excel-filer som bilder, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT och mer, vilket gör det till ett perfekt val att utbyta dokument i industristandardformat. Öppen[NuGet](https://www.nuget.org/packages/aspose.cells) pakethanteraren, sök efter Aspose.Cells och installera. Du kan också använda följande kommando från Package Manager Console.
 
 {{% blocks/products/pf/agp/code-block title="Pakethanterarens konsolkommando" offSpacer="true" %}}
 

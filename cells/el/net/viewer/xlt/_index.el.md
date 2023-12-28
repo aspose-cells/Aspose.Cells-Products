@@ -2,6 +2,7 @@
 title:  Προβολή XLT Μορφές αρχείων via .NET
 weight: 3610
 description: C# πηγαίος κώδικας για φόρτωση, απόδοση και εμφάνιση εγγράφων XLT στο .NET Framework, .NET Core, Mono ή Xamarin Platforms.
+keywords: [C# Aspose.Cells., c# view XLT files., c# how to render XLT document., c# load and display XLT files., XLT File Viewer using C#]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="XLT Προβολή αρχείων for .NET" h2="Προβάλετε υπολογιστικά φύλλα Excel & OpenOffice όπως XLT χωρίς να απαιτείται Microsoft Excel ή Office Automation." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLT" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLT" >}}
@@ -43,7 +44,7 @@ PM> Install-Package Aspose.Cells
 
 1.  Φορτώστε το αρχείο XLT σε μια παρουσία του βιβλίου εργασίας
 1.  Δημιουργήστε μια παρουσία του HtmlSaveOptions και ορίστε την ιδιότητα ExportHeadings σε true
-1.  Αποθηκεύστε το αρχείο XLT σε μορφή HTML χρησιμοποιώντας τη μέθοδο Workbook.Save
+1. Αποθηκεύστε το αρχείο XLT σε μορφή HTML χρησιμοποιώντας τη μέθοδο Workbook.Save
 1.  Φορτώστε το προκύπτον HTML στο προεπιλεγμένο πρόγραμμα περιήγησης με το Process.Start
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

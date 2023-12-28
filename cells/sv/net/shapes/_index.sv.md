@@ -1,6 +1,7 @@
 ---
 title: Infoga former i Excel via .NET
-description:  C# källkoder som hur man infogar en form i Microsoft Excel-filer med hjälp av .NET Library.
+description: C# Exempelkod för att lägga till eller infoga former i Excel med hjälp av .NET Library. Använd den här koden för att skapa former i MS Excel inom VB.NET, Asp.NET eller någon .NET-baserad applikation.
+keywords: [C# Aspose.Cells., c# add shapes., c# insert shapes., c# create shapes]
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
 {{< blocks/products/pf/i18n/feature-page-header h1="Microsoft<sup>&reg;</sup> Infogning av Excel-former via .NET" h2="Skapa Excel-dokument och infoga former med hjälp av API:er på serversidan i .NET-baserade applikationer." >}}
@@ -12,7 +13,7 @@ description:  C# källkoder som hur man infogar en form i Microsoft Excel-filer 
 
 {{% blocks/products/pf/feature-page-section h2="Infoga former i Excel-fil" %}}
 
- Att infoga former med dessa API:er är enkelt. Processen är, Skapa[Arbetsbok klass](https://reference.aspose.com/cells/net/aspose.cells/workbook) objekt och välj det första kalkylbladet eller det relevanta bladet genom att tillhandahålla dess index. Lägg till en form i kalkylbladet med hjälp av[formsamling](https://reference.aspose.com/cells/net/aspose.cells.drawing/shapecollection)s Lägg till metod.
+ Att infoga former med dessa API:er är enkelt. Processen är, Skapa[Arbetsbok klass](https://reference.aspose.com/cells/net/aspose.cells/workbook)objekt och välj det första kalkylbladet eller det relevanta bladet genom att tillhandahålla dess index. Lägg till en form i kalkylbladet med hjälp av[formsamling](https://reference.aspose.com/cells/net/aspose.cells.drawing/shapecollection)s Lägg till metod.
 
 {{% blocks/products/pf/feature-page-code h3="C# Kod för att infoga form i Excel" %}}
 

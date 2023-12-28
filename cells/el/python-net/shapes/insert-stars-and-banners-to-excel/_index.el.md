@@ -2,6 +2,7 @@
 title:  Εισαγάγετε Star/Banner στο Excel χρησιμοποιώντας Python via .Net
 weight: 381
 description: Python via .Net πηγαίος κώδικας για εισαγωγή Star/Banner στο Excel.
+keywords: [Python Aspose.Cells., Python add Star/Banner., Python insert Star/Banner., Python create Star/Banner]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Εισαγάγετε Star/Banner στο Excel χρησιμοποιώντας Python via .Net" h2="Εισαγάγετε το Star/Banner χρησιμοποιώντας το Aspose.Cells\' API χωρίς λογισμικό όπως Microsoft ή Open Office, Adobe PDF κ.λπ." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="" pfName="Aspose.Cells" subTitlepfName="for Python via .NET" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="XLSX" >}}
@@ -13,7 +14,7 @@ description: Python via .Net πηγαίος κώδικας για εισαγωγ
 
  Για να εισαγάγουμε το Star/Banner στο αρχείο excel, θα χρησιμοποιήσουμε
  [Aspose.Cells for Python μέσω .Net](https://pypi.org/project/aspose-cells-python/) 
-API, το οποίο είναι πλούσιο σε χαρακτηριστικά, ισχυρό και εύκολο στη χρήση χειρισμό εγγράφων API for Python μέσω της πλατφόρμας .Net. Το API παρέχει δημιουργία, επεξεργασία, μετατροπή και απόδοση αρχείων Excel. Όλα χωρίς να βασίζεστε σε εφαρμογές Office ή Excel Microsoft. Μπορείτε να εγκαταστήσετε από την κονσόλα χρησιμοποιώντας την ακόλουθη εντολή.
+ API, το οποίο είναι πλούσιο σε χαρακτηριστικά, ισχυρό και εύκολο στη χρήση χειρισμό εγγράφων API for Python μέσω της πλατφόρμας .Net. Το API παρέχει δημιουργία, επεξεργασία, μετατροπή και απόδοση αρχείων Excel. Όλα χωρίς να βασίζεστε σε εφαρμογές Office ή Excel Microsoft. Μπορείτε να εγκαταστήσετε από την κονσόλα χρησιμοποιώντας την ακόλουθη εντολή.
 
 {{% blocks/products/pf/agp/code-block title="Εντολή" offSpacer="true" %}}
 
@@ -37,7 +38,7 @@ API, το οποίο είναι πλούσιο σε χαρακτηριστικά
 
 {{% /blocks/products/pf/agp/text %}}
 
-Δημιουργία αντικειμένου βιβλίου εργασίας.(ή->Φορτώστε το αρχείο XLSX με πλήρη διαδρομή.)
++ Δημιουργία αντικειμένου βιβλίου εργασίας.(ή->Φορτώστε το αρχείο XLSX με πλήρη διαδρομή.)
 + Επιλέξτε Φύλλο εργασίας μέσω του ευρετηρίου του.
  + Χρησιμοποιήστε την προσθήκη της shapecollection[μέθοδος](https://reference.aspose.com/cells/python-net/aspose.cells.drawing/shapecollection/add_auto_shape/#AutoShapeType-int-int-int-int-int-int) για να εισαγάγετε το αστέρι/πανό στο επιλεγμένο φύλλο εργασίας.
 + Αποθήκευση βιβλίου εργασίας σε μορφή XLSX.
@@ -100,7 +101,7 @@ API, το οποίο είναι πλούσιο σε χαρακτηριστικά
    <div class="col-lg-4">
     <img src="/cells/net/shapes/insert-stars-and-banners-to-excel/star_6_points.png" align="left" width="28" height="28">
     <p class="col-lg-10">
-AutoShapeType.STAR6
+ AutoShapeType.STAR6
     </p>
    </div>
    <div class="col-lg-4">
@@ -206,7 +207,7 @@ AutoShapeType.STAR6
 
 {{% blocks/products/pf/agp/content h2="Σχετικά με Aspose.Cells for Python via .NET API" %}}
 
- Aspose.Cells API μπορεί να χρησιμοποιηθεί για τη δημιουργία, επεξεργασία, μετατροπή και απόδοση μορφών Excel Microsoft σε διαφορετικές μορφές. Επιπλέον, μπορεί να χρησιμοποιηθεί για ολοκληρωμένη χαρτογράφηση, κλιμακούμενη αναφορά και αξιόπιστους υπολογισμούς εντός εφαρμογών λογισμικού. Το Aspose.Cells είναι ένα αυτόνομο API και δεν απαιτεί λογισμικό όπως το Microsoft ή το OpenOffice.
+Aspose.Cells API μπορεί να χρησιμοποιηθεί για τη δημιουργία, επεξεργασία, μετατροπή και απόδοση μορφών Excel Microsoft σε διαφορετικές μορφές. Επιπλέον, μπορεί να χρησιμοποιηθεί για ολοκληρωμένη χαρτογράφηση, κλιμακούμενη αναφορά και αξιόπιστους υπολογισμούς εντός εφαρμογών λογισμικού. Το Aspose.Cells είναι ένα αυτόνομο API και δεν απαιτεί λογισμικό όπως το Microsoft ή το OpenOffice.
 
 {{% /blocks/products/pf/agp/content %}}
 

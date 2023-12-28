@@ -2,6 +2,7 @@
 title:  Sök XLS dokument utan att öppna via Java
 weight: 9430
 description: Java exempelkod för att söka efter ord med mönster i filen XLS på Java Runtime Environment för JSP/JSF Application och Desktop Applications.
+keywords: [Java Aspose.Cells., Java search words with pattern in xls file., Java find words with pattern in xls file., Java search string with pattern in xls file., Java find words with pattern in xls file., Java search words in xls file., Java find words in xls file., Java search string in xls file., Java find string in xls file]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Sök XLS-format i Java" h2="Inbyggd och högpresterande XLS dokumentsökning med hjälp av Aspose.Cells for Java API:er på serversidan, utan användning av någon programvara som Microsoft eller Adobe PDF." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="XLS" >}}
@@ -62,7 +63,7 @@ description: Java exempelkod för att söka efter ord med mönster i filen XLS p
 + Hitta cellen som innehåller den angivna formeln.
 + Instantiera FindOptions.
 + Hitta cellen som innehåller ett strängvärde
-+ Skriv ut cellerna som hittats efter sökresultat
+Skriv ut cellerna som hittats efter sökresultat
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

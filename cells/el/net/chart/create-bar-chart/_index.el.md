@@ -1,6 +1,7 @@
 ---
 title: Δημιουργήστε γραφήματα ράβδων μέσω του C#
 description: C# Δείγμα κώδικα για τη δημιουργία γραφημάτων ράβδων στο Excel χρησιμοποιώντας τη Βιβλιοθήκη .NET. Χρησιμοποιήστε αυτόν τον κώδικα για τη δημιουργία ενός γραφήματος ράβδων στο MS Excel εντός των VB.NET, Asp.NET ή οποιασδήποτε εφαρμογής που βασίζεται στο .NET.
+keywords: [C# Aspose.Cells., c# add Bar Chart., c# insert Bar Chart., c# create Bar Chart]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 

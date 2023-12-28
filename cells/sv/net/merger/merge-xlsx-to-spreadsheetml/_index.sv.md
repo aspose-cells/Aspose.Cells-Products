@@ -1,8 +1,8 @@
 ---
 title: Slå samman XLSX till SPREADSHEETML - Kombinera XLSX till SPREADSHEETML i C#
 url: /sv/net/merger/merge-xlsx-to-spreadsheetml/ 
-description: Aspose Excel. C# Aspose.Cells. Gratis Online Merge XLSX till SPREADSHEETML sparaformat. C# Kombinera XLSX till SPREADSHEETML-format. Slå samman XLSX till Kalkylblad i C#. XLSX Slå samman.
-keywords: [Aspose Excel., C# Aspose.Cells., Merge XLSX to SPREADSHEETML in C#., Free Online C# Merge XLSX to spreadsheetml., C# Combine XLSX to SPREADSHEETML Online for Free., XLSX Merge]
+description: Aspose Excel. C# Aspose.Cells. Slå samman XLSX till SPREADSHEETML sparaformat. C# Kombinera XLSX till SPREADSHEETML-format. Slå samman XLSX till Kalkylblad i C#. XLSX Slå samman.
+keywords: [Aspose Excel., C# Aspose.Cells., Merge XLSX to SPREADSHEETML in C#., C# Merge XLSX to spreadsheetml., C# Combine XLSX to SPREADSHEETML., XLSX Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Slå samman XLSX till Kalkylblad via C#" h2="Höghastighetsbibliotek C# för sammanslagning av XLSX till Kalkylblad. Använd vår excel-konvertering API för att utveckla plattformsoberoende programvara på hög nivå i C#. Detta är en professionell mjukvarulösning för att importera och exportera Excel, CSV, OpenOffice, PDF, HTML, image och många andra Excel-format." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="XLSX" additionalConversionTag="SPREADSHEETML" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., C# Aspose.Cells., Merge XLSX to SPREADSHEETML in C#., 
 
 {{% blocks/products/pf/agp/content h2="Slå samman XLSX till Kalkylblad med C#" %}}
 
-Hur sammanfogar jag XLSX till SPREADSHEETML? Med Aspose.Cells for .NET-biblioteket kan du enkelt slå samman XLSX till SPREADSHEETML programmatiskt med några rader kod.[Aspose.Cells for .NET](https://products.aspose.com/cells/net)kan bygga plattformsoberoende applikationer med förmågan att generera, modifiera, konvertera, rendera och skriva ut alla Excel-filer. .NET Excel API konverterar inte bara mellan kalkylarksformat, det kan också rendera Excel-filer som bilder, PDF, HTML, ODS, ODS, CSV, 0761687481, 0761687481, vilket gör det till ett perfekt val, Pt utbyta dokument i branschstandard format. Öppen[NuGet](https://www.nuget.org/packages/aspose.cells) pakethanteraren, sök efter Aspose.Cells och installera. Du kan också använda följande kommando från Package Manager Console.
+ Hur sammanfogar jag XLSX till SPREADSHEETML? Med Aspose.Cells for .NET-biblioteket kan du enkelt slå samman XLSX till SPREADSHEETML programmatiskt med några rader kod.[Aspose.Cells for .NET](https://products.aspose.com/cells/net)kan bygga plattformsoberoende applikationer med förmågan att generera, modifiera, konvertera, rendera och skriva ut alla Excel-filer. .NET Excel API konverterar inte bara mellan kalkylarksformat, den kan också rendera Excel-filer som bilder, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT och mer, vilket gör det till ett perfekt val att utbyta dokument i industristandardformat. Öppen[NuGet](https://www.nuget.org/packages/aspose.cells) pakethanteraren, sök efter Aspose.Cells och installera. Du kan också använda följande kommando från Package Manager Console.
 
 {{% blocks/products/pf/agp/code-block title="Pakethanterarens konsolkommando" offSpacer="true" %}}
 
@@ -26,7 +26,7 @@ PM> Install-Package Aspose.Cells
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Slå samman XLSX till Kalkylblad i C# Online gratis" %}}
+{{% blocks/products/pf/agp/content h2="Slå samman XLSX till Kalkylblad i C#" %}}
 
 Följande exempel visar hur man slår samman XLSX till SPREADSHEETML i Aspose.Cells for .NET.
 {{% blocks/products/pf/agp/text %}}
@@ -37,7 +37,7 @@ Följ de enkla stegen för att slå samman XLSX till SPREADSHEETML. Ladda upp di
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Gratis online för att slå samman XLSX till Kalkylblad i C#" InputFormat="xlsx" InputFormat2="xml" outformat="xml" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="net" %}}
+{{% cells-merger title="Exempelkod för att slå samman XLSX till Kalkylblad i C#" InputFormat="xlsx" InputFormat2="xml" outformat="xml" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="net" %}}
 
 {{% blocks/products/pf/agp/content h2="Hur man sammanfogar XLSX till Kalkylblad via C#" %}}
 

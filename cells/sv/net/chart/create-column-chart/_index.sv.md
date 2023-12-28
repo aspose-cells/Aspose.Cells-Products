@@ -1,6 +1,7 @@
 ---
 title: Skapa kolumndiagram via C#
 description: C# Exempelkod för att skapa kolumndiagram till Excel med .NET Library. Använd den här koden för att skapa ett kolumndiagram till MS Excel inom VB.NET, Asp.NET eller någon .NET-baserad applikation.
+keywords: [C# Aspose.Cells., c# add Column Chart., c# insert Column Chart., c# create Column Chart]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 

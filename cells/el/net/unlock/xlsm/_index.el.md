@@ -2,6 +2,7 @@
 title:  Ξεκλείδωμα XLSM έγγραφο via .NET
 weight: 9810
 description: C# πηγαίος κώδικας για ξεκλείδωμα αρχείου XLSM με προστασία κωδικού πρόσβασης στο .NET Framework, .NET Core, Mono ή Xamarin Platforms.
+keywords: [C# Aspose.Cells., c# unlock XLSM files., c# how to unlock XLSM document., c# unprotect XLSM files., remove protection from XLSM files., decrypt XLSM Files using C#]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Ξεκλείδωμα XLSM Υπολογιστικό φύλλο μέσω C#" h2="Καταργήστε την προστασία από το XLSM χρησιμοποιώντας τη βιβλιοθήκη .NET." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSM" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSM" >}}

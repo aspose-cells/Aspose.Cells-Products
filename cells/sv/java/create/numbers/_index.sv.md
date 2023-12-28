@@ -1,7 +1,7 @@
 ---
 title: Skapa NUMBERS - Skapa NUMBERS-fil i Java
-description: Aspose Excel. Java Skapa NUMMER-fil. Skapa NUMMER Java. Java NUMMER Skapare. Skapa NUMBERS i Java. Skapa NUMBERS-fil med Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Create NUMBERS Java., Java NUMBERS Creater., Create NUMBERS file in Java., Generate NUMBERS file in Java]
+description:  Aspose Excel. Java Skapa NUMBERS-fil snabbt och enkelt med Aspose.Cells. Skapa NUMBERS-fil med Java. Skapa NUMBERS i Java. Java NUMBERS Creater.
+keywords: [Aspose Excel., Java Aspose.Cells., Java Create NUMBERS file., Generate NUMBERS file in Java., Create NUMBERS file using Java., Write data to NUMBERS file via Java., Create a NUMBERS file in Java., Java Generate a NUMBERS file., Java NUMBERS Creater]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Skapa NUMBERS-fil i Java" h2="Höghastighets Java-bibliotek för att skapa NUMBERS-fil. Detta är en professionell mjukvarulösning för att importera och exportera XLSX, PDF och många andra format med Java." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="NUMBERS" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -11,7 +11,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Create NUMBERS Java., Java NUMBERS
 
 {{% blocks/products/pf/agp/content h2="Skapa NUMBERS-fil med Java" %}}
 
- Hur skapar man en NUMBERS-fil? Med Aspose.Cells for Java-biblioteket kan du enkelt skapa NUMBERS-fil programmatiskt med några rader kod.[Aspose.Cells for Java](https://products.aspose.com/cells/java) kan bygga plattformsoberoende applikationer med förmågan att generera, modifiera, konvertera, rendera och skriva ut alla Excel-filer. Java Excel API konverterar inte bara mellan kalkylarksformat, det kan också rendera Excel-filer som bilder, PDF, HTML, ODS, ODS, CSV, 0761687481, 0761687481, vilket gör det till ett perfekt val, Pt utbyta dokument i branschstandard format. Du kan ladda ner den senaste versionen direkt från[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) och installera det i ditt Maven-baserade projekt genom att lägga till följande konfigurationer till pom.xml.
+ Hur skapar man en NUMBERS-fil? Med Aspose.Cells for Java-biblioteket kan du enkelt skapa NUMBERS-fil programmatiskt med några rader kod.[Aspose.Cells for Java](https://products.aspose.com/cells/java)kan bygga plattformsoberoende applikationer med förmågan att generera, modifiera, konvertera, rendera och skriva ut alla Excel-filer. Java Excel API konverterar inte bara mellan kalkylarksformat, den kan också rendera Excel-filer som bilder, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT och mer, vilket gör det till ett perfekt val att utbyta dokument i industristandardformat. Du kan ladda ner den senaste versionen direkt från[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) och installera det i ditt Maven-baserade projekt genom att lägga till följande konfigurationer till pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Förvar" offSpacer="true" %}}
 
@@ -101,7 +101,7 @@ wkb.save("Excel.numbers");
 
 {{% blocks/products/pf/agp/text %}}
 
-Innan du kör källkoden för Java omvandlingsexempel, se till att du har följande förutsättningar.
+ Innan du kör källkoden för Java omvandlingsexempel, se till att du har följande förutsättningar.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -113,7 +113,7 @@ Innan du kör källkoden för Java omvandlingsexempel, se till att du har följa
 
 <!-- aboutfile Starts -->
     {{< blocks/products/pf/agp/about-file-section >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="NUMBERS" readMoreLink="https://docs.fileformat.com/spreadsheet/numbers/" >}}Filerna med tillägget .numbers klassificeras som kalkylbladsfiltyp, det är därför de liknar .xlsx-filerna; men Numbers-filerna skapas med hjälp av Apple iWork Numbers kalkylprogram. Apple iWork Numbers är en enhetsprogramvara för iWork Productivity Suite. iWork Productivity Suite motsvarar Microsoft Office Suite som används på Windows-datorer. Därför kan vi säga att Numbers som är tillgänglig för MacOS också är en konkurrent till Microsoft Excel. På samma sätt, Microsoft Excel, NUMBERS-filen kan också innehålla tabeller, diagram och formler.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="NUMBERS" readMoreLink="https://docs.fileformat.com/spreadsheet/numbers/" >}} Filerna med tillägget .numbers klassificeras som kalkylbladsfiltyp, det är därför de liknar .xlsx-filerna; men Numbers-filerna skapas med hjälp av Apple iWork Numbers kalkylprogram. Apple iWork Numbers är en enhetsprogramvara för iWork Productivity Suite. iWork Productivity Suite motsvarar Microsoft Office Suite som används på Windows-datorer. Därför kan vi säga att Numbers som är tillgänglig för MacOS också är en konkurrent till Microsoft Excel. På samma sätt, Microsoft Excel, NUMBERS-filen kan också innehålla tabeller, diagram och formler.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
     {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->
 

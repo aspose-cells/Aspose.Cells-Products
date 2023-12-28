@@ -2,6 +2,7 @@
 title: Λήψη μεγέθους εικόνων/εικόνων στο Excel χρησιμοποιώντας το Python via .Net
 weight: 10
 description: Λαμβάνει μέγεθος εικόνων/εικόνων στο Excel χρησιμοποιώντας Aspose.Cells' Python via .Net API χωρίς λογισμικό όπως Microsoft ή Open Office, Adobe PDF κ.λπ.
+keywords: [Python via .NET Aspose.Cells., Python via .NET Get Images/Pictures Size In Excel., Python via .NET Obtain Images/Pictures Size In Excel., Python via .NET Access Images/Pictures Size In Excel]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Λήψη μεγέθους εικόνων/εικόνων στο Excel χρησιμοποιώντας το Python via .Net" h2="Χρησιμοποιώντας το Aspose.Cells\' API για εργασία με διάφορα αντικείμενα χωρίς λογισμικό όπως Microsoft ή Open Office, Adobe PDF κ.λπ." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="" pfName="Aspose.Cells" subTitlepfName="for Python via .NET" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="XLSX" >}}
@@ -13,7 +14,7 @@ description: Λαμβάνει μέγεθος εικόνων/εικόνων στ�
 
  Για να λάβουμε μέγεθος εικόνων/εικόνων στο Αρχείο Excel, θα χρησιμοποιήσουμε
  [Aspose.Cells for Python μέσω .Net](https://pypi.org/project/aspose-cells-python/) 
-API, το οποίο είναι πλούσιο σε χαρακτηριστικά, ισχυρό και εύκολο στη χρήση χειρισμό εγγράφων API for Python μέσω της πλατφόρμας .Net. Το API παρέχει δημιουργία, επεξεργασία, μετατροπή και απόδοση αρχείων Excel. Όλα χωρίς να βασίζεστε σε εφαρμογές Office ή Excel Microsoft. Μπορείτε να εγκαταστήσετε από την κονσόλα χρησιμοποιώντας την ακόλουθη εντολή.
+ API, το οποίο είναι πλούσιο σε χαρακτηριστικά, ισχυρό και εύκολο στη χρήση χειρισμό εγγράφων API for Python μέσω της πλατφόρμας .Net. Το API παρέχει δημιουργία, επεξεργασία, μετατροπή και απόδοση αρχείων Excel. Όλα χωρίς να βασίζεστε σε εφαρμογές Office ή Excel Microsoft. Μπορείτε να εγκαταστήσετε από την κονσόλα χρησιμοποιώντας την ακόλουθη εντολή.
 
 {{% blocks/products/pf/agp/code-block title="Εντολή" offSpacer="true" %}}
 
@@ -44,7 +45,7 @@ API, το οποίο είναι πλούσιο σε χαρακτηριστικά
     + [Πλάτος](https://reference.aspose.com/cells/python-net/aspose.cells.drawing/picture/width/) Αντιπροσωπεύει το πλάτος του σχήματος, σε μονάδα pixel.
     + [Υψος](https://reference.aspose.com/cells/python-net/aspose.cells.drawing/picture/height/) Αντιπροσωπεύει το ύψος του σχήματος, σε μονάδα pixel.
     + [Αρχικό Πλάτος](https://reference.aspose.com/cells/python-net/aspose.cells.drawing/picture/original_width/) Λαμβάνει το αρχικό πλάτος της εικόνας, σε μονάδα pixel.
-    + [Αρχικό ύψος](https://reference.aspose.com/cells/python-net/aspose.cells.drawing/picture/original_height/) Λαμβάνει το αρχικό ύψος της εικόνας, σε μονάδα pixel.
+    + [Αρχικό ύψος](https://reference.aspose.com/cells/python-net/aspose.cells.drawing/picture/original_height/)Λαμβάνει το αρχικό ύψος της εικόνας, σε μονάδα pixel.
     
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
@@ -94,7 +95,7 @@ Aspose.Cells API με δυνατότητα δημιουργίας εφαρμογ
 
 <!-- aboutfile Ends -->
 <!--
-{{< blocks/products/pf/agp/other-supported-section title="Other Supported Splitting Formats" subTitle="Using C#, One can also split large file into chunks of many other file formats including." >}}
+{{< blocks/products/pf/agp/other-supported-section title="Other Supported Splitting Formats" subTitle="Using Python via .NET, One can also split large file into chunks of many other file formats including." >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/splitter/ods/" name="ODS" description="OpenDocument Spreadsheet File" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/splitter/xls/" name="XLS" description="Excel Binary Format" >}}

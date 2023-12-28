@@ -2,6 +2,7 @@
 title:  Δημιουργία αναφορών σε XLSX Αρχεία via .NET
 weight: 6740
 description: C# πηγαίου κώδικα για τη δημιουργία αναφορών μορφής XLSX στις πλατφόρμες .NET Framework, .NET Core, Mono ή Xamarin.
+keywords: [C# Aspose.Cells., c# Create XLSX Reports Based on Predesigned Excel Template., c# Generate XLSX Reports Based on Predesigned Excel Template., c# Create XLSX Reports Based on Excel Template., C# Generate XLSX Reports Based on Excel Template., c# Create xlsx files Based on Excel Template., C# Generate xlsx files Based on Excel Template]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Δημιουργία μαζικής αναφοράς σε μορφή XLSX μέσω C#" h2="Δημιουργήστε αναφορές σε μορφή XLSX χρησιμοποιώντας πηγή δεδομένων και πρότυπο." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSX" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}

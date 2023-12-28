@@ -2,6 +2,7 @@
 title: Εισαγάγετε σχόλια στο αρχείο XLSB via .NET
 url: /el/net/comments/insert-comments-to-xlsb/ 
 description: Εισαγάγετε σχόλια στο XLSB χρησιμοποιώντας το C#. Χρησιμοποιήστε το παράδειγμα API για να εισαγάγετε σχόλια στην εφαρμογή .NET.
+keywords: [C# Aspose.Cells., add XLSB comments., insert XLSB comments., access XLSB comments., remove XLSB comments., delete XLSB comments., add comments in XLSB., insert comments in XLSB., access comments in XLSB., remove comments in XLSB., delete comments in XLSB]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Εισαγάγετε σχόλια στο αρχείο XLSB μέσω C#" h2="Δημιουργήστε τη δική σας εφαρμογή .NET για να χειριστείτε σχόλια και συγγραφείς σε αρχεία εγγράφων χρησιμοποιώντας API από την πλευρά του διακομιστή." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSB" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="XLS" fileiconsmall2="XLSB" fileiconsmall3="XLSX" fileiconsmall4="XLSM" fileiconsmall5="ODS" >}}
@@ -11,7 +12,7 @@ description: Εισαγάγετε σχόλια στο XLSB χρησιμοποι�
 
 {{% blocks/products/pf/agp/content h2="Εισαγάγετε σχόλια στο αρχείο XLSB χρησιμοποιώντας .NET" %}}
 
- Με τη βιβλιοθήκη Aspose.Cells for .NET, μπορείτε εύκολα να εισαγάγετε σχόλια στο αρχείο XLSB μέσω προγραμματισμού με μερικές γραμμές κώδικα.[Aspose.Cells for .NET](https://products.aspose.com/cells/net)έχει τη δυνατότητα δημιουργίας εφαρμογών πολλαπλών πλατφορμών με δυνατότητα δημιουργίας, τροποποίησης, μετατροπής, απόδοσης και εκτύπωσης όλων των αρχείων Excel. .NET Το Excel API όχι μόνο μετατρέπει μεταξύ μορφών υπολογιστικών φύλλων, αλλά μπορεί επίσης να αποδώσει αρχεία Excel ως εικόνες, PDF, HTML, ODS, CSV, 07616031481, CSV, 07616831481, δημιουργώντας περισσότερα τέλεια επιλογή για την ανταλλαγή εγγράφων σε βιομηχανικά πρότυπα μορφές. Ανοιξε[NuGet](https://www.nuget.org/packages/aspose.cells) διαχειριστής πακέτων, αναζητήστε Aspose.Cells και εγκαταστήστε. Μπορείτε επίσης να χρησιμοποιήσετε την ακόλουθη εντολή από την Κονσόλα Package Manager.
+ Με τη βιβλιοθήκη Aspose.Cells for .NET, μπορείτε εύκολα να εισαγάγετε σχόλια στο αρχείο XLSB μέσω προγραμματισμού με μερικές γραμμές κώδικα.[Aspose.Cells for .NET](https://products.aspose.com/cells/net)έχει τη δυνατότητα δημιουργίας εφαρμογών πολλαπλών πλατφορμών με δυνατότητα δημιουργίας, τροποποίησης, μετατροπής, απόδοσης και εκτύπωσης όλων των αρχείων Excel. .NET Το Excel API όχι μόνο μετατρέπει μεταξύ μορφών υπολογιστικών φύλλων, αλλά μπορεί επίσης να αποδώσει αρχεία Excel ως εικόνες, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT και άλλα, καθιστώντας έτσι την τέλεια επιλογή για την ανταλλαγή εγγράφων σε βιομηχανικές τυποποιημένες μορφές. Ανοιξε[NuGet](https://www.nuget.org/packages/aspose.cells) διαχειριστής πακέτων, αναζητήστε Aspose.Cells και εγκαταστήστε. Μπορείτε επίσης να χρησιμοποιήσετε την ακόλουθη εντολή από την Κονσόλα Package Manager.
 
 {{% blocks/products/pf/agp/code-block title="Εντολή κονσόλας διαχείρισης πακέτων" offSpacer="true" %}}
 

@@ -1,7 +1,7 @@
 ---
-title: Java SPREADSHEETML till JSON - Online SPREADSHEETML till JSON Converter
-description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Gratis online Java Konvertera SPREADSHEETML till JSON sparaformat. Java Kalkylblad till JSON format. Spara Kalkylblad till JSON Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java SPREADSHEETML to JSON saveformat., Free Online SPREADSHEETML to JSON Java., Java Convert SPREADSHEETML to JSON]
+title: Java Kalkylblad till JSON - Kalkylblad till JSON Omvandlare
+description: Aspose Excel. Konvertera SPREADSHEETML till JSON snabbt och enkelt med Aspose.Cells. Java SPREADSHEETML till JSON. Java Spara SPREADSHEETML till JSON. Spara SPREADSHEETML till JSON. Spara 6 SPREADSHEETML 8 som 7 ML3 4 8 med 7 ML3 4 8 7 SP 4 8 1.
+keywords: [Aspose Excel., Java Aspose.Cells., Convert SPREADSHEETML to JSON in Java., Save SPREADSHEETML to JSON using Java., Java SPREADSHEETML to JSON saveformat., SPREADSHEETML to JSON Converter., Java Save SPREADSHEETML as JSON]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Konvertera SPREADSHEETML till JSON till Java" h2="Höghastighetsbibliotek Java för konvertering av SPREADSHEETML till JSON. Detta är en professionell mjukvarulösning för att importera och exportera SPREADSHEETML, JSON och många andra format som använder Java." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="JSON" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java SPREADSHE
 
 {{% blocks/products/pf/agp/content h2="Konvertera SPREADSHEETML till JSON med Java" %}}
 
- Hur konverterar jag SPREADSHEETML till JSON? Med Aspose.Cells for Java-biblioteket kan du enkelt konvertera SPREADSHEETML till JSON programmatiskt med några rader kod.[Aspose.Cells for Java](https://products.aspose.com/cells/java) kan bygga plattformsoberoende applikationer med förmågan att generera, modifiera, konvertera, rendera och skriva ut alla Excel-filer. Java Excel API konverterar inte bara mellan kalkylarksformat, det kan också rendera Excel-filer som bilder, PDF, HTML, ODS, ODS, CSV, 0761687481, 0761687481, vilket gör det till ett perfekt val, Pt utbyta dokument i branschstandard format. Du kan ladda ner den senaste versionen direkt från[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) och installera det i ditt Maven-baserade projekt genom att lägga till följande konfigurationer till pom.xml.
+ Hur konverterar jag SPREADSHEETML till JSON? Med Aspose.Cells for Java-biblioteket kan du enkelt konvertera SPREADSHEETML till JSON programmatiskt med några rader kod.[Aspose.Cells for Java](https://products.aspose.com/cells/java)kan bygga plattformsoberoende applikationer med förmågan att generera, modifiera, konvertera, rendera och skriva ut alla Excel-filer. Java Excel API konverterar inte bara mellan kalkylarksformat, den kan också rendera Excel-filer som bilder, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT och mer, vilket gör det till ett perfekt val att utbyta dokument i industristandardformat. Du kan ladda ner den senaste versionen direkt från[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) och installera det i ditt Maven-baserade projekt genom att lägga till följande konfigurationer till pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Förvar" offSpacer="true" %}}
 
@@ -45,7 +45,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java SPREADSHE
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Spara Kalkylblad till JSON i Java Online gratis" %}}
+{{% blocks/products/pf/agp/content h2="Spara Kalkylblad till JSON i Java" %}}
 
 Följande exempel visar hur man konverterar SPREADSHEETML till JSON i Java.
 {{% blocks/products/pf/agp/text %}}
@@ -56,7 +56,7 @@ Följ de enkla stegen för att konvertera SPREADSHEETML till JSON. Ladda upp din
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Gratis app och exempelkod för att konvertera SPREADSHEETML till JSON online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xml" outformat="json" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Exempelkod för att konvertera SPREADSHEETML till JSON" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xml" outformat="json" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="Hur man konverterar SPREADSHEETML till JSON via Java" %}}
 

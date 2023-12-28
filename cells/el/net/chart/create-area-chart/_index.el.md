@@ -1,6 +1,7 @@
 ---
 title: Δημιουργήστε γραφήματα περιοχής μέσω C#
 description: C# Δείγμα κώδικα για τη δημιουργία γραφημάτων περιοχής στο Excel χρησιμοποιώντας τη Βιβλιοθήκη .NET. Χρησιμοποιήστε αυτόν τον κώδικα για τη δημιουργία ενός γραφήματος περιοχής στο MS Excel εντός των VB.NET, Asp.NET ή οποιασδήποτε εφαρμογής που βασίζεται στο .NET.
+keywords: [C# Aspose.Cells., c# add Area Chart., c# insert Area Chart., c# create Area Chart]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 

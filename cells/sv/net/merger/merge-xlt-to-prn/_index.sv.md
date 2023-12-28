@@ -1,8 +1,8 @@
 ---
 title: Slå samman XLT till PRN - Kombinera XLT till PRN i C#
 url: /sv/net/merger/merge-xlt-to-prn/ 
-description: Aspose Excel. C# Aspose.Cells. Gratis Online Merge XLT till PRN sparaformat. C# Kombinera XLT till PRN-format. Slå samman XLT till PRN i C#. XLT Slå samman.
-keywords: [Aspose Excel., C# Aspose.Cells., Merge XLT to PRN in C#., Free Online C# Merge XLT to prn., C# Combine XLT to PRN Online for Free., XLT Merge]
+description: Aspose Excel. C# Aspose.Cells. Slå samman XLT till PRN sparaformat. C# Kombinera XLT till PRN-format. Slå samman XLT till PRN i C#. XLT Slå samman.
+keywords: [Aspose Excel., C# Aspose.Cells., Merge XLT to PRN in C#., C# Merge XLT to prn., C# Combine XLT to PRN., XLT Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Slå samman XLT till PRN via C#" h2="Höghastighetsbibliotek C# för sammanslagning av XLT till PRN. Använd vår excel-konvertering API för att utveckla plattformsoberoende programvara på hög nivå i C#. Detta är en professionell mjukvarulösning för att importera och exportera Excel, CSV, OpenOffice, PDF, HTML, image och många andra Excel-format." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="XLT" additionalConversionTag="PRN" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., C# Aspose.Cells., Merge XLT to PRN in C#., Free Online
 
 {{% blocks/products/pf/agp/content h2="Slå samman XLT till PRN med C#" %}}
 
- Hur sammanfogar jag XLT till PRN? Med Aspose.Cells for .NET bibliotek kan du enkelt slå samman XLT till PRN programmatiskt med några rader kod.[Aspose.Cells for .NET](https://products.aspose.com/cells/net)kan bygga plattformsoberoende applikationer med förmågan att generera, modifiera, konvertera, rendera och skriva ut alla Excel-filer. .NET Excel API konverterar inte bara mellan kalkylarksformat, det kan också rendera Excel-filer som bilder, PDF, HTML, ODS, ODS, CSV, 0761687481, 0761687481, vilket gör det till ett perfekt val, Pt utbyta dokument i branschstandard format. Öppen[NuGet](https://www.nuget.org/packages/aspose.cells) pakethanteraren, sök efter Aspose.Cells och installera. Du kan också använda följande kommando från Package Manager Console.
+ Hur sammanfogar jag XLT till PRN? Med Aspose.Cells for .NET bibliotek kan du enkelt slå samman XLT till PRN programmatiskt med några rader kod.[Aspose.Cells for .NET](https://products.aspose.com/cells/net)kan bygga plattformsoberoende applikationer med förmågan att generera, modifiera, konvertera, rendera och skriva ut alla Excel-filer. .NET Excel API konverterar inte bara mellan kalkylarksformat, den kan också rendera Excel-filer som bilder, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT och mer, vilket gör det till ett perfekt val att utbyta dokument i industristandardformat. Öppen[NuGet](https://www.nuget.org/packages/aspose.cells) pakethanteraren, sök efter Aspose.Cells och installera. Du kan också använda följande kommando från Package Manager Console.
 
 {{% blocks/products/pf/agp/code-block title="Pakethanterarens konsolkommando" offSpacer="true" %}}
 
@@ -26,7 +26,7 @@ PM> Install-Package Aspose.Cells
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Slå samman XLT till PRN i C# Online gratis" %}}
+{{% blocks/products/pf/agp/content h2="Slå samman XLT till PRN i C#" %}}
 
 Följande exempel visar hur man slår samman XLT till PRN i Aspose.Cells for .NET.
 {{% blocks/products/pf/agp/text %}}
@@ -37,7 +37,7 @@ Följ de enkla stegen för att slå samman XLT till PRN. Ladda upp dina filer, a
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Gratis online för att slå samman XLT till PRN i C#" InputFormat="xlt" InputFormat2="prn" outformat="prn" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="net" %}}
+{{% cells-merger title="Exempelkod för att slå samman XLT till PRN i C#" InputFormat="xlt" InputFormat2="prn" outformat="prn" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="net" %}}
 
 {{% blocks/products/pf/agp/content h2="Hur man slår samman XLT till PRN via C#" %}}
 

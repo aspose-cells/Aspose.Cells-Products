@@ -1,7 +1,7 @@
 ---
-title: Java XLSM till POWERPOINT - Online XLSM till POWERPOINT Converter
-description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Gratis Online Java Konvertera XLSM till POWERPOINT saveformat. Java XLSM till POWERPOINT-format. Spara XLSM till POWERPOINT Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java XLSM to POWERPOINT saveformat., Free Online XLSM to POWERPOINT Java., Java Convert XLSM to POWERPOINT]
+title: Java XLSM till POWERPOINT - XLSM till POWERPOINT-omvandlare
+description: Aspose Excel. Konvertera XLSM till POWERPOINT snabbt och enkelt med Aspose.Cells. Java XLSM till POWERPOINT. Java Spara XLSM till POWERPOINT. Spara XLSM som POWERPOINT med Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Convert XLSM to POWERPOINT in Java., Save XLSM to POWERPOINT using Java., Java XLSM to POWERPOINT saveformat., XLSM to POWERPOINT Converter., Java Save XLSM as POWERPOINT]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Konvertera XLSM till POWERPOINT i Java" h2="Höghastighets Java bibliotek för att konvertera XLSM till POWERPOINT. Detta är en professionell mjukvarulösning för att importera och exportera XLSM, POWERPOINT och många andra format med Java." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="POWERPOINT" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java XLSM to P
 
 {{% blocks/products/pf/agp/content h2="Konvertera XLSM till POWERPOINT med Java" %}}
 
- Hur konverterar jag XLSM till POWERPOINT? Med Aspose.Cells for Java bibliotek kan du enkelt konvertera XLSM till POWERPOINT programmatiskt med några rader kod.[Aspose.Cells for Java](https://products.aspose.com/cells/java) kan bygga plattformsoberoende applikationer med förmågan att generera, modifiera, konvertera, rendera och skriva ut alla Excel-filer. Java Excel API konverterar inte bara mellan kalkylarksformat, det kan också rendera Excel-filer som bilder, PDF, HTML, ODS, ODS, CSV, 0761687481, 0761687481, vilket gör det till ett perfekt val, Pt utbyta dokument i branschstandard format. Du kan ladda ner den senaste versionen direkt från[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) och installera det i ditt Maven-baserade projekt genom att lägga till följande konfigurationer till pom.xml.
+ Hur konverterar jag XLSM till POWERPOINT? Med Aspose.Cells for Java bibliotek kan du enkelt konvertera XLSM till POWERPOINT programmatiskt med några rader kod.[Aspose.Cells for Java](https://products.aspose.com/cells/java)kan bygga plattformsoberoende applikationer med förmågan att generera, modifiera, konvertera, rendera och skriva ut alla Excel-filer. Java Excel API konverterar inte bara mellan kalkylarksformat, den kan också rendera Excel-filer som bilder, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT och mer, vilket gör det till ett perfekt val att utbyta dokument i industristandardformat. Du kan ladda ner den senaste versionen direkt från[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) och installera det i ditt Maven-baserade projekt genom att lägga till följande konfigurationer till pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Förvar" offSpacer="true" %}}
 
@@ -45,18 +45,18 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java XLSM to P
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Spara XLSM till POWERPOINT i Java Online gratis" %}}
+{{% blocks/products/pf/agp/content h2="Spara XLSM till POWERPOINT i Java" %}}
 
 Följande exempel visar hur man konverterar XLSM till POWERPOINT i Java.
 {{% blocks/products/pf/agp/text %}}
 
-Följ de enkla stegen för att konvertera XLSM till POWERPOINT. Ladda upp din XLSM-fil och spara den sedan som POWERPOINT-fil. För både XLSM-läsning och POWERPOINT-skrivning kan du använda fullt kvalificerade filnamn. POWERPOINT-innehållet och formateringen kommer att vara identisk med originaldokumentet XLSM.
+Följ de enkla stegen för att konvertera XLSM till POWERPOINT. Ladda upp din XLSM-fil och spara den sedan som POWERPOINT-fil. För både XLSM-läsning och POWERPOINT-skrivning kan du använda fullt kvalificerade filnamn. Utdata POWERPOINT-innehåll och formatering kommer att vara identisk med originaldokumentet XLSM.
 
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Gratis app och provkod för att konvertera XLSM till POWERPOINT Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsm" outformat="pptx" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Exempelkod för att konvertera XLSM till POWERPOINT" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsm" outformat="pptx" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="Hur man konverterar XLSM till POWERPOINT via Java" %}}
 
@@ -68,7 +68,7 @@ Behöver du konvertera XLSM-filer till POWERPOINT programmatiskt? Java-utvecklar
 
 1.  Installera 'Aspose.Cells for Java'.
 1.  Lägg till en biblioteksreferens (importera biblioteket) till ditt Java-projekt.
-1.  Ladda XLSM-filen med en instans av Workbook-klassen.
+1. Ladda XLSM-filen med en instans av Workbook-klassen.
 1.  Konvertera XLSM till POWERPOINT genom att anropa Workbook.save-metoden.
 1.  Få konverteringsresultatet från XLSM till POWERPOINT.
 

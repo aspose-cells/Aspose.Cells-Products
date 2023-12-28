@@ -2,6 +2,7 @@
 title: Ομαδοποίηση και κατάργηση ομαδοποίησης σχημάτων στο Excel χρησιμοποιώντας Python via Java
 weight: 371
 description: Ομαδοποίηση και κατάργηση ομαδοποίησης αντικειμένων χρησιμοποιώντας Aspose.Cells' Python via Java API χωρίς λογισμικό όπως Microsoft ή Open Office, Adobe PDF κ.λπ.
+keywords: [Python Aspose.Cells., Python group shapes., Python ungroup shapes., Python group and ungroup shapes., Python group or ungroup shapes]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Ομαδοποίηση και κατάργηση ομαδοποίησης σχημάτων στο Excel χρησιμοποιώντας Python via Java" h2="Χρησιμοποιώντας το Aspose.Cells\' API για εργασία με διάφορα αντικείμενα χωρίς λογισμικό όπως Microsoft ή Open Office, Adobe PDF κ.λπ." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="" pfName="Aspose.Cells" subTitlepfName="for Python via Java" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="XLSX" >}}
@@ -37,7 +38,7 @@ description: Ομαδοποίηση και κατάργηση ομαδοποίη
 
 {{% /blocks/products/pf/agp/text %}}
 
-Δημιουργία αντικειμένου βιβλίου εργασίας.(ή->Φορτώστε το αρχείο XLSX με πλήρη διαδρομή.)
++ Δημιουργία αντικειμένου βιβλίου εργασίας.(ή->Φορτώστε το αρχείο XLSX με πλήρη διαδρομή.)
 + Επιλέξτε Φύλλο εργασίας μέσω του ευρετηρίου του.
  + Χρησιμοποιήστε το[ομαδική μέθοδος](https://reference.aspose.com/cells/python-java/asposecells.api/shapecollection#group(com.aspose.cells.Shape[])) για να ομαδοποιήσετε σχήματα στο επιλεγμένο φύλλο εργασίας
  + Χρησιμοποιήστε το[μέθοδος κατάργησης ομαδοποίησης](https://reference.aspose.com/cells/python-java/asposecells.api/shapecollection#ungroup(com.aspose.cells.GroupShape)) για να καταργήσετε την ομαδοποίηση σχημάτων στο επιλεγμένο φύλλο εργασίας
@@ -49,12 +50,12 @@ description: Ομαδοποίηση και κατάργηση ομαδοποίη
 
 {{% blocks/products/pf/agp/text %}}
 
-Aspose.Cells for Python via Java είναι ανεξάρτητο από πλατφόρμα API και μπορεί να χρησιμοποιηθεί σε οποιαδήποτε πλατφόρμα (Windows, Linux και MacOS), απλώς βεβαιωθείτε ότι το σύστημα έχει Java 1.8 ή υψηλότερο,[Python](https://www.python.org/downloads/) 3,5 ή υψηλότερο.
+ Aspose.Cells for Python via Java είναι ανεξάρτητο από πλατφόρμα API και μπορεί να χρησιμοποιηθεί σε οποιαδήποτε πλατφόρμα (Windows, Linux και MacOS), απλώς βεβαιωθείτε ότι το σύστημα έχει Java 1.8 ή υψηλότερο,[Python](https://www.python.org/downloads/) 3,5 ή υψηλότερο.
  
 {{% /blocks/products/pf/agp/text %}}
 
-- Οποιοδήποτε λειτουργικό σύστημα που μπορεί να εκτελέσει σενάρια Python via Java, όπως Windows, Linux και MacOS
--  Εγκαταστήστε το Java και προσθέστε το στη μεταβλητή περιβάλλοντος PATH, για παράδειγμα:<code>PATH=C:\Program Files\Java\jdk1.8.0_131;</code>.
+-  Οποιοδήποτε λειτουργικό σύστημα που μπορεί να εκτελέσει σενάρια Python via Java, όπως Windows, Linux και MacOS
+- Εγκαταστήστε το Java και προσθέστε το στη μεταβλητή περιβάλλοντος PATH, για παράδειγμα:<code>PATH=C:\Program Files\Java\jdk1.8.0_131;</code>.
 -  Εγκατάσταση Aspose.Cells for Python via Java από<a href="https://pypi.org/project/aspose-cells/">pypi</a> , χρησιμοποιήστε την εντολή ως:<code>$ pip install aspose-cells</code>.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
@@ -74,7 +75,7 @@ Aspose.Cells for Python via Java είναι ανεξάρτητο από πλατ
 
 {{% blocks/products/pf/agp/content h2="Σχετικά με Aspose.Cells for Python via Java API" %}}
 
- Aspose.Cells API μπορεί να χρησιμοποιηθεί για τη δημιουργία, επεξεργασία, μετατροπή και απόδοση μορφών Excel Microsoft σε διαφορετικές μορφές. Επιπλέον, μπορεί να χρησιμοποιηθεί για ολοκληρωμένη χαρτογράφηση, κλιμακούμενη αναφορά και αξιόπιστους υπολογισμούς εντός εφαρμογών λογισμικού. Το Aspose.Cells είναι ένα αυτόνομο API και δεν απαιτεί λογισμικό όπως το Microsoft ή το OpenOffice.
+Aspose.Cells API μπορεί να χρησιμοποιηθεί για τη δημιουργία, επεξεργασία, μετατροπή και απόδοση μορφών Excel Microsoft σε διαφορετικές μορφές. Επιπλέον, μπορεί να χρησιμοποιηθεί για ολοκληρωμένη χαρτογράφηση, κλιμακούμενη αναφορά και αξιόπιστους υπολογισμούς εντός εφαρμογών λογισμικού. Το Aspose.Cells είναι ένα αυτόνομο API και δεν απαιτεί λογισμικό όπως το Microsoft ή το OpenOffice.
 
 {{% /blocks/products/pf/agp/content %}}
 

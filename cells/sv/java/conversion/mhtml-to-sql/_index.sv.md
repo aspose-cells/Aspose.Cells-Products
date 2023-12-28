@@ -1,7 +1,7 @@
 ---
-title: Java MHTML till SQL - Online MHTML till SQL Converter
-description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Gratis Online Java Konvertera MHTML till SQL saveformat. Java MHTML till SQL-format. Spara MHTML till SQL Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java MHTML to SQL saveformat., Free Online MHTML to SQL Java., Java Convert MHTML to SQL]
+title: Java MHTML till SQL - MHTML till SQL Converter
+description: Aspose Excel. Konvertera MHTML till SQL snabbt och enkelt med Aspose.Cells. Java MHTML till SQL. Java Spara MHTML till SQL. Spara MHTML som SQL med Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Convert MHTML to SQL in Java., Save MHTML to SQL using Java., Java MHTML to SQL saveformat., MHTML to SQL Converter., Java Save MHTML as SQL]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Konvertera MHTML till SQL i Java" h2="Höghastighets Java-bibliotek för att konvertera MHTML till SQL. Detta är en professionell mjukvarulösning för att importera och exportera MHTML, SQL och många andra format med Java." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="SQL" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java MHTML to 
 
 {{% blocks/products/pf/agp/content h2="Konvertera MHTML till SQL med Java" %}}
 
- Hur konverterar jag MHTML till SQL? Med Aspose.Cells for Java bibliotek kan du enkelt konvertera MHTML till SQL programmatiskt med några rader kod.[Aspose.Cells for Java](https://products.aspose.com/cells/java) kan bygga plattformsoberoende applikationer med förmågan att generera, modifiera, konvertera, rendera och skriva ut alla Excel-filer. Java Excel API konverterar inte bara mellan kalkylarksformat, det kan också rendera Excel-filer som bilder, PDF, HTML, ODS, ODS, CSV, 0761687481, 0761687481, vilket gör det till ett perfekt val, Pt utbyta dokument i branschstandard format. Du kan ladda ner den senaste versionen direkt från[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) och installera det i ditt Maven-baserade projekt genom att lägga till följande konfigurationer till pom.xml.
+ Hur konverterar jag MHTML till SQL? Med Aspose.Cells for Java bibliotek kan du enkelt konvertera MHTML till SQL programmatiskt med några rader kod.[Aspose.Cells for Java](https://products.aspose.com/cells/java)kan bygga plattformsoberoende applikationer med förmågan att generera, modifiera, konvertera, rendera och skriva ut alla Excel-filer. Java Excel API konverterar inte bara mellan kalkylarksformat, den kan också rendera Excel-filer som bilder, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT och mer, vilket gör det till ett perfekt val att utbyta dokument i industristandardformat. Du kan ladda ner den senaste versionen direkt från[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) och installera det i ditt Maven-baserade projekt genom att lägga till följande konfigurationer till pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Förvar" offSpacer="true" %}}
 
@@ -45,7 +45,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java MHTML to 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Spara MHTML till SQL i Java online gratis" %}}
+{{% blocks/products/pf/agp/content h2="Spara MHTML till SQL i Java" %}}
 
 Följande exempel visar hur man konverterar MHTML till SQL i Java.
 {{% blocks/products/pf/agp/text %}}
@@ -56,7 +56,7 @@ Följ de enkla stegen för att konvertera MHTML till SQL. Ladda upp din MHTML-fi
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Gratis app och exempelkod för att konvertera MHTML till SQL Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="mhtml" outformat="sql" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Exempelkod för att konvertera MHTML till SQL" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="mhtml" outformat="sql" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="Hur man konverterar MHTML till SQL via Java" %}}
 
@@ -68,7 +68,7 @@ Behöver du konvertera MHTML-filer till SQL programmatiskt? Java-utvecklare kan 
 
 1.  Installera 'Aspose.Cells for Java'.
 1.  Lägg till en biblioteksreferens (importera biblioteket) till ditt Java-projekt.
-1.  Ladda MHTML-filen med en instans av Workbook-klassen.
+1. Ladda MHTML-filen med en instans av Workbook-klassen.
 1.  Konvertera MHTML till SQL genom att anropa Workbook.save-metoden.
 1.  Få konverteringsresultatet från MHTML till SQL.
 

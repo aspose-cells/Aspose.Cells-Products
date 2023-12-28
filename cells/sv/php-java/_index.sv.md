@@ -12,7 +12,7 @@ description: PHP Excel-kalkylblad API för att läsa skriv och konvertera XLS XL
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
- Aspose.Cells for PHP via Java är en skalbar och funktionsrik hantering och bearbetning av Excel-kalkylblad API. Applikationer kan utföra konvertering av kalkylbladsformat, diagramhantering och rendering, implementera formler, utforma kalkylblad till den mest detaljerade nivån och mycket mer. API stöder XLS, XLSX, ODS, SpreadsheetML, CSV, Tab Delimited, HTML/MHTML, 3817 andra och 3817 format . Utvecklare kan enkelt lägga till möjligheten att skapa, redigera, konvertera och rendera Excel-filer i sina PHP-applikationer medan de använder JavaBridge.
+ Aspose.Cells for PHP via Java är en skalbar och funktionsrik hantering och bearbetning av Excel-kalkylblad API. Applikationer kan utföra konvertering av kalkylbladsformat, diagramhantering och rendering, implementera formler, utforma kalkylblad till den mest detaljerade nivån och mycket mer. API stöder XLS, XLSX, ODS, SpreadsheetML, CSV, Tab Delimited, HTML/MHTML, 3471s andra och 3407. Utvecklare kan enkelt lägga till möjligheten att skapa, redigera, konvertera och rendera Excel-filer i sina PHP-applikationer medan de använder JavaBridge.
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
@@ -370,11 +370,11 @@ description: PHP Excel-kalkylblad API för att läsa skriv och konvertera XLS XL
  Konvertera Excel-filer till XPS, PDF &amp; HTML
     </h2>
     <p>
- Aspose.Cells for PHP via Java API kan konvertera Excel-filer till formaten XPS, XPS och HTML samt bibehålla högsta visuella tillförlitlighet. Konverteringsprocessen är tillförlitlig och utvecklare kan få det format som krävs med bara några rader.
+Aspose.Cells for PHP via Java API kan konvertera Excel-filer till formaten XPS, XPS och HTML samt bibehålla högsta visuella tillförlitlighet. Konverteringsprocessen är tillförlitlig och utvecklare kan få det format som krävs med bara några rader.
     </p>
     <div class="codeblock" id="code">
      <h3>
-Spara kalkylblad i flera format - PHP
+ Spara kalkylblad i flera format - PHP
      </h3>
      <pre><code class="php">// load document to be converted
 
@@ -404,7 +404,7 @@ $wkbk-&gt;save("output.html", SaveFormat::HTML);</code></pre>
  Flexibla visningsalternativ för kalkylblad
     </h2>
     <p>
- Aspose.Cells for PHP via Java ger dig fullständig kontroll över kalkylbladets sidinställningar, vilket gör att du kan manipulera Excel-kalkylbladets visningsalternativ som sidbrytningar, sidorientering, skalning, pappersstorlek, sidhuvuden/sidfötter &amp; zoomnivå. Du kan också kontrollera datasynlighet med hjälp av frysrutor &amp; utskriftsområde för att passa dina applikationskrav.
+Aspose.Cells for PHP via Java ger dig fullständig kontroll över kalkylbladets sidinställningar, vilket gör att du kan manipulera Excel-kalkylbladets visningsalternativ som sidbrytningar, sidorientering, skalning, pappersstorlek, sidhuvuden/sidfötter &amp; zoomnivå. Du kan också kontrollera datasynlighet med hjälp av frysrutor &amp; utskriftsområde för att passa dina applikationskrav.
     </p>
    </div>
    <div class="col-lg-12">
@@ -412,7 +412,7 @@ $wkbk-&gt;save("output.html", SaveFormat::HTML);</code></pre>
  Effektiv, Robust &amp; Pålitlig formelberäkningsmotor
     </h2>
     <p>
-Aspose.Cells for PHP via Java är utrustad med en kraftfull formelberäkningsmotor som stöder nästan alla standard- och avancerade Microsoft Excel-formler och -funktioner. Du kan läsa, ställa in och beräkna resultaten av formler för inbyggd eller tilläggstyp, array och R1C1-referensstil.
+ Aspose.Cells for PHP via Java är utrustad med en kraftfull formelberäkningsmotor som stöder nästan alla standard- och avancerade Microsoft Excel-formler och -funktioner. Du kan läsa, ställa in och beräkna resultaten av formler för inbyggd eller tilläggstyp, array och R1C1-referensstil.
     </p>
    </div>
    <div class="col-lg-12">
@@ -423,7 +423,7 @@ Aspose.Cells for PHP via Java är utrustad med en kraftfull formelberäkningsmot
  Biblioteket är så flexibelt att man kan förse kalkylblad med alla typer av visuella effekter samt kan tillämpa formatering på ett kalkylblad, rad, kolumn eller cell, ställa in typsnitt med attribut, definiera cellstil &amp; nummerformat, lägg till Rich Text och definiera regler för villkorlig formatering.
     </p>
     <p>
- På samma sätt, för ett professionellt utseende och lätt att förstå diagram och grafik är de integrerade delarna. Aspose.Cells for PHP via Java API:er kan skapa och manipulera alla typer av standard- och anpassade diagram. Dessutom kan olika typer av ritobjekt enkelt läggas till i cellerna.
+På samma sätt, för ett professionellt utseende och lätt att förstå diagram och grafik är de integrerade delarna. Aspose.Cells for PHP via Java API:er kan skapa och manipulera alla typer av standard- och anpassade diagram. Dessutom kan olika typer av ritobjekt enkelt läggas till i cellerna.
     </p>
    </div>
   </div>

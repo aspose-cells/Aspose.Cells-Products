@@ -1,8 +1,8 @@
 ---
 title: Slå samman XLS till SPREADSHEETML - Kombinera XLS till SPREADSHEETML i Python
 url: /sv/python-java/merger/merge-xls-to-spreadsheetml/ 
-description: Aspose Excel. Python Aspose.Cells. Gratis Online Merge XLS till SPREADSHEETML sparaformat. Python Kombinera XLS till SPREADSHEETML-format. Slå samman XLS till Kalkylblad i Python. XLS Slå samman.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge XLS to SPREADSHEETML in Python., Free Online Python Merge XLS to spreadsheetml., Python Combine XLS to SPREADSHEETML Online for Free., XLS Merge]
+description: Aspose Excel. Python Aspose.Cells. Slå samman XLS till SPREADSHEETML sparaformat. Python Kombinera XLS till SPREADSHEETML-format. Slå samman XLS till Kalkylblad i Python. XLS Slå samman.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge XLS to SPREADSHEETML in Python., Python Merge XLS to spreadsheetml., Python Combine XLS to SPREADSHEETML., XLS Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Slå samman XLS till Kalkylblad via Python" h2="Höghastighetsbibliotek Python för sammanslagning av XLS till Kalkylblad. Använd vår excel-konvertering API för att utveckla plattformsoberoende programvara på hög nivå i Python. Detta är en professionell mjukvarulösning för att importera och exportera Excel, CSV, OpenOffice, PDF, HTML, image och många andra Excel-format." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="XLS" additionalConversionTag="SPREADSHEETML" pfName="Aspose.Cells" subTitlepfName="for Python" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -12,12 +12,12 @@ keywords: [Aspose Excel., Python Aspose.Cells., Merge XLS to SPREADSHEETML in Py
 
 {{% blocks/products/pf/agp/content h2="Slå samman XLS till Kalkylblad med Python" %}}
 
- Hur sammanfogar jag XLS till SPREADSHEETML? Med Aspose.Cells for Python via Java bibliotek kan du enkelt slå samman XLS till SPREADSHEETML programmatiskt med några rader kod.[Aspose.Cells for Python via Java](https://pypi.org/project/aspose-cells)kan bygga plattformsoberoende applikationer med förmågan att generera, modifiera, konvertera, rendera och skriva ut alla Excel-filer. Python Excel API konverterar inte bara mellan kalkylarksformat, det kan också rendera Excel-filer som bilder, PDF, HTML, ODS, ODS, CSV, 0761687481, 0761687481, vilket gör det till ett perfekt val, Pt utbyta dokument i branschstandard format. Du kan installera Aspose.Cells for Python via Java från<a href="https://pypi.org/project/aspose-cells/">pypi</a> , använd kommandot som:<code>$ pip install aspose-cells</code>.
+ Hur sammanfogar jag XLS till SPREADSHEETML? Med Aspose.Cells for Python via Java bibliotek kan du enkelt slå samman XLS till SPREADSHEETML programmatiskt med några rader kod.[Aspose.Cells for Python via Java](https://pypi.org/project/aspose-cells) kan bygga plattformsoberoende applikationer med förmågan att generera, modifiera, konvertera, rendera och skriva ut alla Excel-filer. Python Excel API konverterar inte bara mellan kalkylarksformat, den kan också rendera Excel-filer som bilder, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT och mer, vilket gör det till ett perfekt val att utbyta dokument i industristandardformat. Du kan installera Aspose.Cells for Python via Java från<a href="https://pypi.org/project/aspose-cells/">pypi</a> , använd kommandot som:<code>$ pip install aspose-cells</code>.
 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Slå samman XLS till Kalkylblad i Python Online gratis" %}}
+{{% blocks/products/pf/agp/content h2="Slå samman XLS till Kalkylblad i Python" %}}
 
 Följande exempel visar hur man slår samman XLS till SPREADSHEETML i Aspose.Cells for Python via Java.
 {{% blocks/products/pf/agp/text %}}
@@ -28,7 +28,7 @@ Följ de enkla stegen för att slå samman XLS till SPREADSHEETML. Ladda upp din
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Gratis online för att slå samman XLS till Kalkylblad i Python" InputFormat="xls" InputFormat2="xml" outformat="xml" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-merger title="Exempelkod för att slå samman XLS till Kalkylblad i Python" InputFormat="xls" InputFormat2="xml" outformat="xml" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="Hur man sammanfogar XLS till Kalkylblad via Python" %}}
 
@@ -73,7 +73,7 @@ Våra API:er stöds på alla större plattformar och operativsystem. Innan du k�
 
 -  Installera Java 1.8 eller högre och lägg till den i PATH miljövariabel, till exempel:<code>PATH=C:\Program Files\Java\jdk1.8.0_131;</code>.
 -  Installera[Python](https://www.python.org/downloads/) 3,5 eller högre.
-- Installera Aspose.Cells for Python från<a href="https://pypi.org/project/aspose-cells/">pypi</a> , använd kommandot som:<code>$ pip install aspose-cells</code>.
+-  Installera Aspose.Cells for Python från<a href="https://pypi.org/project/aspose-cells/">pypi</a> , använd kommandot som:<code>$ pip install aspose-cells</code>.
 
 
 {{% /blocks/products/pf/agp/content %}}

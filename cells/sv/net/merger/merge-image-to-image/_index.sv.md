@@ -1,8 +1,8 @@
 ---
 title: Slå samman IMAGE till IMAGE - Kombinera IMAGE till IMAGE i C#
 url: /sv/net/merger/merge-image-to-image/ 
-description: Aspose Excel. C# Aspose.Cells. Gratis Online Merge IMAGE to IMAGE saveformat. C# Kombinera BILD till BILD-format. Slå samman IMAGE till IMAGE i C#. IMAGE Merge.
-keywords: [Aspose Excel., C# Aspose.Cells., Merge IMAGE to IMAGE in C#., Free Online C# Merge IMAGE to image., C# Combine IMAGE to IMAGE Online for Free., IMAGE Merge]
+description: Aspose Excel. C# Aspose.Cells. Slå samman IMAGE till IMAGE saveformat. C# Kombinera BILD till BILD-format. Slå samman IMAGE till IMAGE i C#. IMAGE Merge.
+keywords: [Aspose Excel., C# Aspose.Cells., Merge IMAGE to IMAGE in C#., C# Merge IMAGE to image., C# Combine IMAGE to IMAGE., IMAGE Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Slå samman IMAGE till IMAGE via C#" h2="Höghastighetsbibliotek C# för sammanslagning av IMAGE till IMAGE. Använd vår excel-konvertering API för att utveckla plattformsoberoende programvara på hög nivå i C#. Detta är en professionell mjukvarulösning för att importera och exportera Excel, CSV, OpenOffice, PDF, HTML, image och många andra Excel-format." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="IMAGE" additionalConversionTag="IMAGE" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., C# Aspose.Cells., Merge IMAGE to IMAGE in C#., Free On
 
 {{% blocks/products/pf/agp/content h2="Slå samman IMAGE till IMAGE med C#" %}}
 
- Hur slår jag ihop IMAGE till IMAGE? Med Aspose.Cells for .NET-biblioteket kan du enkelt slå samman IMAGE till IMAGE programmatiskt med några rader kod.[Aspose.Cells for .NET](https://products.aspose.com/cells/net)kan bygga plattformsoberoende applikationer med förmågan att generera, modifiera, konvertera, rendera och skriva ut alla Excel-filer. .NET Excel API konverterar inte bara mellan kalkylarksformat, det kan också rendera Excel-filer som bilder, PDF, HTML, ODS, ODS, CSV, 0761687481, 0761687481, vilket gör det till ett perfekt val, Pt utbyta dokument i branschstandard format. Öppen[NuGet](https://www.nuget.org/packages/aspose.cells) pakethanteraren, sök efter Aspose.Cells och installera. Du kan också använda följande kommando från Package Manager Console.
+ Hur slår jag ihop IMAGE till IMAGE? Med Aspose.Cells for .NET-biblioteket kan du enkelt slå samman IMAGE till IMAGE programmatiskt med några rader kod.[Aspose.Cells for .NET](https://products.aspose.com/cells/net)kan bygga plattformsoberoende applikationer med förmågan att generera, modifiera, konvertera, rendera och skriva ut alla Excel-filer. .NET Excel API konverterar inte bara mellan kalkylarksformat, den kan också rendera Excel-filer som bilder, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT och mer, vilket gör det till ett perfekt val att utbyta dokument i industristandardformat. Öppen[NuGet](https://www.nuget.org/packages/aspose.cells) pakethanteraren, sök efter Aspose.Cells och installera. Du kan också använda följande kommando från Package Manager Console.
 
 {{% blocks/products/pf/agp/code-block title="Pakethanterarens konsolkommando" offSpacer="true" %}}
 
@@ -26,7 +26,7 @@ PM> Install-Package Aspose.Cells
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Slå samman IMAGE till IMAGE i C# Online gratis" %}}
+{{% blocks/products/pf/agp/content h2="Slå samman IMAGE till IMAGE i C#" %}}
 
 Följande exempel visar hur man slår samman IMAGE till IMAGE i Aspose.Cells for .NET.
 {{% blocks/products/pf/agp/text %}}
@@ -37,7 +37,7 @@ Följ de enkla stegen för att slå samman IMAGE till IMAGE. Ladda upp dina file
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Gratis online för att slå samman IMAGE till IMAGE på C#" InputFormat="png" InputFormat2="png" outformat="png" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="net" %}}
+{{% cells-merger title="Exempelkod för att slå samman IMAGE till IMAGE i C#" InputFormat="png" InputFormat2="png" outformat="png" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="net" %}}
 
 {{% blocks/products/pf/agp/content h2="Hur man slår ihop IMAGE till IMAGE via C#" %}}
 

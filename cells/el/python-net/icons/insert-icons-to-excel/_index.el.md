@@ -2,6 +2,7 @@
 title:  Εισαγάγετε SVG εικόνες/εικονίδια στο Excel χρησιμοποιώντας Python via .Net
 weight: 200
 description: Python via. Καθαρός πηγαίος κώδικας για την εισαγωγή εικόνων/εικονιδίων SVG στο Excel.
+keywords: [Python via .NET Aspose.Cells., Python via .NET add SVG images/Icons into Excel., Python via .NET insert SVG images/Icons into Excel., Python via .NET create SVG images/Icons in Excel]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Εισαγάγετε SVG εικόνες/εικονίδια στο Excel χρησιμοποιώντας Python via .Net" h2="Εισαγάγετε SVG εικόνες/εικονίδια χρησιμοποιώντας Aspose.Cells\' API χωρίς λογισμικό όπως Microsoft ή Open Office, Adobe PDF κ.λπ." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="" pfName="Aspose.Cells" subTitlepfName="for Python via .NET" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="XLSX" >}}
@@ -25,7 +26,7 @@ description: Python via. Καθαρός πηγαίος κώδικας για τ�
 + Εισαγάγετε μεγάλο αριθμό εικόνων svg στο ίδιο αρχείο Excel.
 + Εισαγάγετε εικόνες svg σε μεγάλο αριθμό διαφορετικών αρχείων Excel.
 
- Για να λύσετε αυτά τα προβλήματα, σας συνιστούμε να χρησιμοποιήσετε το[Aspose.Cells](https://products.aspose.com/cells/) βιβλιοθήκη.Περιέχει πολλές κοινές διεπαφές για την επεξεργασία αρχείων excel και είναι ένα πολύ χρήσιμο εργαλείο.
+ Για να λύσετε αυτά τα προβλήματα, σας συνιστούμε να χρησιμοποιήσετε το[Aspose.Cells](https://products.aspose.com/cells/)βιβλιοθήκη.Περιέχει πολλές κοινές διεπαφές για την επεξεργασία αρχείων excel και είναι ένα πολύ χρήσιμο εργαλείο.
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -53,7 +54,7 @@ Microsoft Το Excel μας έδωσε προκαθορισμένες εικόν
 
  Για να εισαγάγουμε SVG εικόνες/εικονίδια στο αρχείο excel, θα χρησιμοποιήσουμε
  [Aspose.Cells for Python μέσω .Net](https://pypi.org/project/aspose-cells-python/) 
-API, το οποίο είναι πλούσιο σε χαρακτηριστικά, ισχυρό και εύκολο στη χρήση χειρισμό εγγράφων API for Python μέσω της πλατφόρμας .Net. Το API παρέχει δημιουργία, επεξεργασία, μετατροπή και απόδοση αρχείων Excel. Όλα χωρίς να βασίζεστε σε εφαρμογές Office ή Excel Microsoft. Μπορείτε να εγκαταστήσετε από την κονσόλα χρησιμοποιώντας την ακόλουθη εντολή.
+ API, το οποίο είναι πλούσιο σε χαρακτηριστικά, ισχυρό και εύκολο στη χρήση χειρισμό εγγράφων API for Python μέσω της πλατφόρμας .Net. Το API παρέχει δημιουργία, επεξεργασία, μετατροπή και απόδοση αρχείων Excel. Όλα χωρίς να βασίζεστε σε εφαρμογές Office ή Excel Microsoft. Μπορείτε να εγκαταστήσετε από την κονσόλα χρησιμοποιώντας την ακόλουθη εντολή.
 
 {{% blocks/products/pf/agp/code-block title="Εντολή" offSpacer="true" %}}
 
@@ -77,7 +78,7 @@ API, το οποίο είναι πλούσιο σε χαρακτηριστικά
 
 {{% /blocks/products/pf/agp/text %}}
 
-Δημιουργία αντικειμένου βιβλίου εργασίας.(ή->Φορτώστε το αρχείο XLSX με πλήρη διαδρομή.)
++ Δημιουργία αντικειμένου βιβλίου εργασίας.(ή->Φορτώστε το αρχείο XLSX με πλήρη διαδρομή.)
 + Επιλέξτε Φύλλο εργασίας μέσω του ευρετηρίου του.
  + Χρησιμοποιήστε την προσθήκη της shapecollection[μέθοδος](https://reference.aspose.com/cells/python-net/aspose.cells.drawing/shapecollection/) για να εισαγάγετε ένα εικονίδιο στο επιλεγμένο φύλλο εργασίας.
 + Αποθήκευση βιβλίου εργασίας σε μορφή XLSX.
@@ -120,7 +121,7 @@ Aspose.Cells API με δυνατότητα δημιουργίας εφαρμογ
 
 <!-- aboutfile Ends -->
 <!--
-{{< blocks/products/pf/agp/other-supported-section title="Other Supported Splitting Formats" subTitle="Using C#, One can also split large file into chunks of many other file formats including." >}}
+{{< blocks/products/pf/agp/other-supported-section title="Other Supported Splitting Formats" subTitle="Using Python via .NET, One can also split large file into chunks of many other file formats including." >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/splitter/ods/" name="ODS" description="OpenDocument Spreadsheet File" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/splitter/xls/" name="XLS" description="Excel Binary Format" >}}

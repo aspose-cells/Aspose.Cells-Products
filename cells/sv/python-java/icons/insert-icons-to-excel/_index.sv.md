@@ -2,6 +2,7 @@
 title:  Infoga SVG bilder/ikoner i Excel med Python via java
 weight: 200
 description: Python via java källkod för att infoga SVG bilder/ikoner i Excel.
+keywords: [Python via Java Aspose.Cells., Python via Java add SVG images/Icons into Excel., Python via Java insert SVG images/Icons into Excel., Python via Java create SVG images/Icons in Excel]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Infoga SVG bilder/ikoner i Excel med Python via java" h2="Infoga SVG bilder/ikoner med Aspose.Cells\' API utan någon programvara som Microsoft eller Open Office, Adobe PDF, etc." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="" pfName="Aspose.Cells" subTitlepfName="for Python via Java" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="XLSX" >}}
@@ -25,7 +26,7 @@ När du använder Excel kan du stöta på följande problem:
 + Infoga ett stort antal svg-bilder i samma Excel-fil.
 + Infoga svg-bilder i ett stort antal olika Excel-filer.
 
- För att lösa dessa problem rekommenderar vi att du använder[Aspose.Cells](https://products.aspose.com/cells/) bibliotek. Det innehåller många vanliga gränssnitt för bearbetning av Excel-filer och är ett mycket användbart verktyg.
+ För att lösa dessa problem rekommenderar vi att du använder[Aspose.Cells](https://products.aspose.com/cells/)bibliotek. Det innehåller många vanliga gränssnitt för bearbetning av Excel-filer och är ett mycket användbart verktyg.
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -53,7 +54,7 @@ Om ingen av metoderna ovan kan uppfylla dina behov kan du också söka efter de 
 
  För att infoga SVG bilder/ikoner i excel-filen använder vi
  [Aspose.Cells for Python via java](https://pypi.org/project/aspose-cells/) 
- API som är en funktionsrik, kraftfull och lättanvänd dokumenthantering API for Python via java-plattformen. API tillhandahåller Excel-filskapande, manipulering, konvertering och rendering. Allt utan att förlita sig på Microsoft Office- eller Excel-program. Du kan installera från konsolen med följande kommando.
+ API som är en funktionsrik, kraftfull och lättanvänd dokumentmanipulering API for Python via java-plattformen. API ger Excel-filskapande, manipulering, konvertering och rendering. Allt utan att förlita sig på Microsoft Office- eller Excel-program. Du kan installera från konsolen med följande kommando.
 
 {{% blocks/products/pf/agp/code-block title="Kommando" offSpacer="true" %}}
 
@@ -77,7 +78,7 @@ Du behöver Aspose.Cells för att prova följande arbetsflöde i din egen miljö
 
 {{% /blocks/products/pf/agp/text %}}
 
-Instantiera ett arbetsboksobjekt.(eller->Läs in XLSX-filen med fullständig sökväg.)
++ Instantiera ett arbetsboksobjekt.(eller->Läs in XLSX-filen med fullständig sökväg.)
 + Välj kalkylblad via dess index.
  + Använd formkollektionens[lägga till metod](https://reference.aspose.com/cells/python-java/asposecells.api/shapecollection#addIcons(int,%20int,%20int,%20int,%20int,%20int,%20byte[],%20byte[])) för att infoga en ikon i det valda kalkylbladet.
 + Spara arbetsboken i XLSX-format.
@@ -92,8 +93,8 @@ Instantiera ett arbetsboksobjekt.(eller->Läs in XLSX-filen med fullständig sö
  
 {{% /blocks/products/pf/agp/text %}}
 
-- Alla operativsystem som kan köra Python via java-skript, såsom Windows, Linux och MacOS
--  Installera Java och lägg till den i PATH miljövariabel, till exempel:<code>PATH=C:\Program Files\Java\jdk1.8.0_131;</code>.
+-  Alla operativsystem som kan köra Python via java-skript, såsom Windows, Linux och MacOS
+- Installera Java och lägg till den i PATH miljövariabel, till exempel:<code>PATH=C:\Program Files\Java\jdk1.8.0_131;</code>.
 -  Installera Aspose.Cells for Python via java från<a href="https://pypi.org/project/aspose-cells/">pypi</a> , använd kommandot som:<code>$ pip install aspose-cells</code>.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
@@ -121,7 +122,7 @@ Aspose.Cells API som kan bygga plattformsoberoende applikationer, kan användas 
 
 <!-- aboutfile Ends -->
 <!--
-{{< blocks/products/pf/agp/other-supported-section title="Other Supported Splitting Formats" subTitle="Using C#, One can also split large file into chunks of many other file formats including." >}}
+{{< blocks/products/pf/agp/other-supported-section title="Other Supported Splitting Formats" subTitle="Using Python via Java, One can also split large file into chunks of many other file formats including." >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/splitter/ods/" name="ODS" description="OpenDocument Spreadsheet File" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/splitter/xls/" name="XLS" description="Excel Binary Format" >}}

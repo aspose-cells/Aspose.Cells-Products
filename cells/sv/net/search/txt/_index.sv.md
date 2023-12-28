@@ -2,6 +2,7 @@
 title:  Sök TXT dokument utan att öppna via .NET
 weight: 8410
 description: C# källkod för att söka efter ord med mönster i filen TXT på .NET Framework, .NET Core, Mono eller Xamarin Platforms.
+keywords: [C# Aspose.Cells., c# search words with pattern in txt file., c# find words with pattern in txt file., c# search string with pattern in txt file., c# find words with pattern in txt file., c# search words in txt file., c# find words in txt file., c# search string in txt file., c# find string in txt file]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Sök TXT-format i C#" h2="Inbyggd och högpresterande TXT dokumentsökning med hjälp av Aspose.Cells for .NET API:er på serversidan, utan användning av någon programvara som Microsoft eller Adobe PDF." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="TXT" >}}
@@ -13,7 +14,7 @@ description: C# källkod för att söka efter ord med mönster i filen TXT på .
 
  För att söka TXT-filen använder vi
  [Aspose.Cells for .NET](https://products.aspose.com/cells/net) 
-API som är en funktionsrik, kraftfull och lättanvänd dokumentsökning API för C# plattform. Öppen
+ API som är en funktionsrik, kraftfull och lättanvänd dokumentsökning API för C# plattform. Öppen
  [NuGet](https://www.nuget.org/packages/aspose.cells) 
  pakethanterare, sök efter
  **Aspose.Cells** 

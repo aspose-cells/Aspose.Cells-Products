@@ -1,7 +1,7 @@
 ---
 title: Skapa FODS - Skapa FODS fil i Python
-description: Aspose Excel. Python Skapa FODS fil. Skapa FODS Python. Python FODS Skapare. Skapa FODS i Python. Generera filen FODS med Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Create FODS Python., Python FODS Creater., Create FODS file in Python., Generate FODS file in Python]
+description: Aspose Excel. Python Skapa FODS Arkivera snabbt och enkelt med Aspose.Cells. Skapa FODS fil med Python. Skapa FODS i Python. 0761836481 Skapa Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Create FODS file., Generate FODS file in Python., Create FODS file using Python., Write data to FODS file via Python., Create a FODS file in Python., Python Generate a FODS file., Python FODS Creater]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Skapa FODS-fil i Python" h2="Höghastighets Python-bibliotek för att skapa FODS-fil. Detta är en professionell mjukvarulösning för att importera och exportera XLSX, PDF och många andra format med Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="FODS" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -11,7 +11,7 @@ keywords: [Aspose Excel., Python Aspose.Cells., Create FODS Python., Python FODS
 
 {{% blocks/products/pf/agp/content h2="Skapa FODS-fil med Python" %}}
 
- Hur skapar man FODS-fil? Med Aspose.Cells for Python via Java bibliotek kan du enkelt skapa FODS fil programmatiskt med några rader kod.[Aspose.Cells for Python](https://pypi.org/project/aspose-cells)kan bygga plattformsoberoende applikationer med förmågan att generera, modifiera, konvertera, rendera och skriva ut alla Excel-filer. Python Excel API konverterar inte bara mellan kalkylarksformat, det kan också rendera Excel-filer som bilder, PDF, HTML, ODS, ODS, CSV, 0761687481, 0761687481, vilket gör det till ett perfekt val, Pt utbyta dokument i branschstandard format.
+ Hur skapar man FODS-fil? Med Aspose.Cells for Python via Java bibliotek kan du enkelt skapa FODS fil programmatiskt med några rader kod.[Aspose.Cells for Python](https://pypi.org/project/aspose-cells)kan bygga plattformsoberoende applikationer med förmågan att generera, modifiera, konvertera, rendera och skriva ut alla Excel-filer. Python Excel API konverterar inte bara mellan kalkylarksformat, den kan också rendera Excel-filer som bilder, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT och mer, vilket gör det till ett perfekt val att utbyta dokument i industristandardformat.
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -29,7 +29,7 @@ keywords: [Aspose Excel., Python Aspose.Cells., Create FODS Python., Python FODS
 1.  Skapa Workbook-klassinstans.
 1.  Öppna det första kalkylbladet i arbetsboken.
 1.  Hämta önskad cell(er) i kalkylbladet och mata in värdet i cellen(erna).
-1. Använd metoden Spara för att spara arbetsboken som FODS-fil.
+1.  Använd metoden Spara för att spara arbetsboken som FODS-fil.
 
 {{% blocks/products/pf/agp/code-block title="Exempelkod visar hur man skapar FODS-filen i Python." offSpacer="" %}}
 
@@ -80,7 +80,7 @@ Det finns tre alternativ för att installera "Aspose.Cells for Python via Java" 
 
 {{% blocks/products/pf/agp/text %}}
 
-Aspose.Cells for Python via Java är plattformsoberoende API och kan användas på vilken plattform som helst (Windows, Linux och MacOS), se bara till att systemet har Java 1.8 eller högre,[Python](https://www.python.org/downloads/) 3,5 eller högre.
+ Aspose.Cells for Python via Java är plattformsoberoende API och kan användas på vilken plattform som helst (Windows, Linux och MacOS), se bara till att systemet har Java 1.8 eller högre,[Python](https://www.python.org/downloads/) 3,5 eller högre.
 
 {{% /blocks/products/pf/agp/text %}}
 

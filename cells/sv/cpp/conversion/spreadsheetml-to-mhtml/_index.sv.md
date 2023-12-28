@@ -1,7 +1,7 @@
 ---
-title: C++ SPREADSHEETML till MHTML - Online SPREADSHEETML till MHTML Converter
-description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. Gratis online C++ Konvertera SPREADSHEETML till MHTML sparaformat. C++ Kalkylblad till MHTML format. Spara Kalkylblad till MHTML C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ SPREADSHEETML to MHTML saveformat., Free Online SPREADSHEETML to MHTML C++., C++ Convert SPREADSHEETML to MHTML]
+title: C++ Kalkylblad till MHTML - Kalkylblad till MHTML Omvandlare
+description: Aspose Excel. Konvertera SPREADSHEETML till MHTML snabbt och enkelt med Aspose.Cells. C++ SPREADSHEETML till MHTML. C++ Spara SPREADSHEETML till MHTML. Spara SPREADSHEETML till MHTML. Spara 6 SPREADSHEETML 8 som 7 ML3 4 8 med 7 ML3 4 8 7 SP 4 8 1.
+keywords: [Aspose Excel., C++ Aspose.Cells., Convert SPREADSHEETML to MHTML in C++., Save SPREADSHEETML to MHTML using C++., C++ SPREADSHEETML to MHTML saveformat., SPREADSHEETML to MHTML Converter., C++ Save SPREADSHEETML as MHTML]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Konvertera SPREADSHEETML till MHTML till C++" h2="Högpresterande SPREADSHEETML till MHTML konvertering med C++ bibliotek utan behov av Microsoft Excel, OpenOffice eller Adobe Acrobat installation." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" sourceAdditionalConversionTag="" additionalConversionTag="MHTML" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ SPREADSHEETM
 
 {{% blocks/products/pf/agp/content h2="Konvertera SPREADSHEETML till MHTML med C++" %}}
 
- Hur konverterar jag SPREADSHEETML till MHTML? Med Aspose.Cells for C++-biblioteket kan du enkelt konvertera SPREADSHEETML till MHTML programmatiskt med några rader kod.[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) kan bygga plattformsoberoende applikationer med förmågan att generera, modifiera, konvertera, rendera och skriva ut alla Excel-filer. C++ Excel API konverterar inte bara mellan kalkylarksformat, det kan också rendera Excel-filer som bilder, PDF, HTML, ODS, ODS, CSV, 0761687481, 0761687481, vilket gör det till ett perfekt val, Pt utbyta dokument i branschstandard format. Du kan ladda ner den senaste versionen direkt, bara öppna[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) pakethanteraren, sök efter Aspose.Cells.Cpp och installera. Du kan också använda följande kommando från Package Manager Console.
+ Hur konverterar jag SPREADSHEETML till MHTML? Med Aspose.Cells for C++-biblioteket kan du enkelt konvertera SPREADSHEETML till MHTML programmatiskt med några rader kod.[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) kan bygga plattformsoberoende applikationer med förmågan att generera, modifiera, konvertera, rendera och skriva ut alla Excel-filer. C++ Excel API konverterar inte bara mellan kalkylarksformat, den kan också rendera Excel-filer som bilder, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT och mer, vilket gör det till ett perfekt val att utbyta dokument i industristandardformat. Du kan ladda ner den senaste versionen direkt, bara öppna[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) pakethanteraren, sök efter Aspose.Cells.Cpp och installera. Du kan också använda följande kommando från Package Manager Console.
 
 {{% blocks/products/pf/agp/code-block title="Kommando" offSpacer="true" %}}
 
@@ -26,7 +26,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Spara Kalkylblad till MHTML i C++ Online gratis" %}}
+{{% blocks/products/pf/agp/content h2="Spara Kalkylblad till MHTML i C++" %}}
 
 Följande exempel visar hur man konverterar SPREADSHEETML till MHTML i C++.
 {{% blocks/products/pf/agp/text %}}
@@ -37,7 +37,7 @@ Följ de enkla stegen för att konvertera SPREADSHEETML till MHTML. Ladda upp di
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Gratis app och exempelkod för att konvertera SPREADSHEETML till MHTML online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xml" outformat="mhtml" IsLandingPage="true" language="cpp" %}}
+{{% cells-convert title="Exempelkod för att konvertera SPREADSHEETML till MHTML" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xml" outformat="mhtml" IsLandingPage="true" language="cpp" %}}
 
 {{% blocks/products/pf/agp/content h2="Hur man konverterar SPREADSHEETML till MHTML via C++" %}}
 
@@ -49,7 +49,7 @@ Behöver du konvertera SPREADSHEETML-filer till MHTML programmatiskt? C++-utveck
 
 1.  Installera 'Aspose.Cells for C++'.
 1.  Lägg till en biblioteksreferens (importera biblioteket) till ditt C++-projekt.
-1.  Ladda SPREADSHEETML-fil med Factory::CreateIWorkbook.
+1.  Ladda SPREADSHEETML-fil med arbetsbok.
 1.  Konvertera SPREADSHEETML till MHTML genom att anropa metoden Save().
 1.  Få omvandlingsresultatet av SPREADSHEETML till MHTML.
 
@@ -101,7 +101,6 @@ Det finns tre alternativ för att installera "Aspose.Cells for C++" på ditt sys
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/spreadsheetml-to-pdf/" name="Kalkylblad TILL PDF" description="Portabelt dokumentformat" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/spreadsheetml-to-png/" name="Kalkylblad TILL PNG" description="Bärbar nätverksgrafik" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/spreadsheetml-to-svg/" name="Kalkylblad TILL SVG" description="Skalbar vektorgrafik" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/spreadsheetml-to-tiff/" name="Kalkylblad TILL TIFF" description="Taggad bildformat" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/spreadsheetml-to-tsv/" name="Kalkylblad TILL TSV" description="Tab-separerade värden" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/spreadsheetml-to-txt/" name="Kalkylblad TILL TXT" description="Textdokument" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/spreadsheetml-to-xls/" name="Kalkylblad TILL XLS" description="Excel binärt format" >}}

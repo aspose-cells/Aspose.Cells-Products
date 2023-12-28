@@ -2,6 +2,7 @@
 title:  Generera rapporter i XLSB filer via .NET
 weight: 1690
 description: C# källkod för att generera rapporter i formatet XLSB på .NET Framework, .NET Core, Mono eller Xamarin-plattformar.
+keywords: [C# Aspose.Cells., c# Create XLSB Reports Based on Predesigned Excel Template., c# Generate XLSB Reports Based on Predesigned Excel Template., c# Create XLSB Reports Based on Excel Template., C# Generate XLSB Reports Based on Excel Template., c# Create XLSB files Based on Excel Template., C# Generate XLSB files Based on Excel Template]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Generering av massrapporter i XLSB-format via C#" h2="Generera rapporter i XLSB-format med hjälp av datakälla och en mall." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSB" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSB" >}}

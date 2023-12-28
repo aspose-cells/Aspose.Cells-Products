@@ -1,7 +1,7 @@
 ---
-title: Java SPREADSHEETML till MD - Online SPREADSHEETML till MD Converter
-description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Gratis online Java Konvertera SPREADSHEETML till MD saveformat. Java SPREADSHEETML till MD-format. Spara SPREADSHEETML till MD Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java SPREADSHEETML to MD saveformat., Free Online SPREADSHEETML to MD Java., Java Convert SPREADSHEETML to MD]
+title: Java SPREADSHEETML till MD - SPREADSHEETML till MD Converter
+description: Aspose Excel. Konvertera SPREADSHEETML till MD snabbt och enkelt med Aspose.Cells. Java SPREADSHEETML till MD. Java Spara Kalkylblad till MD. Spara SPREADSHEETML som MD med Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Convert SPREADSHEETML to MD in Java., Save SPREADSHEETML to MD using Java., Java SPREADSHEETML to MD saveformat., SPREADSHEETML to MD Converter., Java Save SPREADSHEETML as MD]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Konvertera SPREADSHEETML till MD i Java" h2="Höghastighetsbibliotek Java för konvertering av SPREADSHEETML till MD. Detta är en professionell mjukvarulösning för att importera och exportera SPREADSHEETML, MD och många andra format med Java." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="MD" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java SPREADSHE
 
 {{% blocks/products/pf/agp/content h2="Konvertera SPREADSHEETML till MD med Java" %}}
 
- Hur konverterar jag SPREADSHEETML till MD? Med Aspose.Cells for Java bibliotek kan du enkelt konvertera SPREADSHEETML till MD programmatiskt med några rader kod.[Aspose.Cells for Java](https://products.aspose.com/cells/java) kan bygga plattformsoberoende applikationer med förmågan att generera, modifiera, konvertera, rendera och skriva ut alla Excel-filer. Java Excel API konverterar inte bara mellan kalkylarksformat, det kan också rendera Excel-filer som bilder, PDF, HTML, ODS, ODS, CSV, 0761687481, 0761687481, vilket gör det till ett perfekt val, Pt utbyta dokument i branschstandard format. Du kan ladda ner den senaste versionen direkt från[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) och installera det i ditt Maven-baserade projekt genom att lägga till följande konfigurationer till pom.xml.
+ Hur konverterar jag SPREADSHEETML till MD? Med Aspose.Cells for Java bibliotek kan du enkelt konvertera SPREADSHEETML till MD programmatiskt med några rader kod.[Aspose.Cells for Java](https://products.aspose.com/cells/java)kan bygga plattformsoberoende applikationer med förmågan att generera, modifiera, konvertera, rendera och skriva ut alla Excel-filer. Java Excel API konverterar inte bara mellan kalkylarksformat, den kan också rendera Excel-filer som bilder, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT och mer, vilket gör det till ett perfekt val att utbyta dokument i industristandardformat. Du kan ladda ner den senaste versionen direkt från[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) och installera det i ditt Maven-baserade projekt genom att lägga till följande konfigurationer till pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Förvar" offSpacer="true" %}}
 
@@ -45,7 +45,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java SPREADSHE
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Spara SPREADSHEETML till MD i Java Online gratis" %}}
+{{% blocks/products/pf/agp/content h2="Spara SPREADSHEETML till MD på Java" %}}
 
 Följande exempel visar hur man konverterar SPREADSHEETML till MD i Java.
 {{% blocks/products/pf/agp/text %}}
@@ -56,7 +56,7 @@ Följ de enkla stegen för att konvertera SPREADSHEETML till MD. Ladda upp din S
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Gratis app och provkod för att konvertera SPREADSHEETML till MD Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xml" outformat="md" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Exempelkod för att konvertera SPREADSHEETML till MD" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xml" outformat="md" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="Hur man konverterar SPREADSHEETML till MD via Java" %}}
 

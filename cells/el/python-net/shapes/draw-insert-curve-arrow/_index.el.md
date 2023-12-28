@@ -2,6 +2,7 @@
 title: Πώς να σχεδιάσετε ή να εισαγάγετε σχήμα κυρτού βέλους στο Excel χρησιμοποιώντας το Python via .Net
 weight: 10
 description: Python via. Καθαρός πηγαίος κώδικας για εισαγωγή σχήματος καμπύλου βέλους στο Excel.
+keywords: [Python Aspose.Cells., Python add curved arrow shape., Python insert curved arrow shape., Python create curved arrow shape]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Εισαγάγετε το σχήμα κυρτού βέλους στο Excel χρησιμοποιώντας το Python via .Net" h2="Εισαγάγετε το σχήμα κυρτού βέλους χρησιμοποιώντας το Aspose.Cells\' API χωρίς λογισμικό όπως Microsoft ή Open Office, Adobe PDF κ.λπ." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="" pfName="Aspose.Cells" subTitlepfName="for Python via .NET" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="XLSX" >}}
@@ -13,7 +14,7 @@ description: Python via. Καθαρός πηγαίος κώδικας για ε�
 
  Για να εισαγάγουμε το σχήμα καμπύλου βέλους στο αρχείο excel, θα χρησιμοποιήσουμε
  [Aspose.Cells for Python μέσω .Net](https://pypi.org/project/aspose-cells-python/) 
-API, το οποίο είναι πλούσιο σε χαρακτηριστικά, ισχυρό και εύκολο στη χρήση χειρισμό εγγράφων API for Python μέσω της πλατφόρμας .Net. Το API παρέχει δημιουργία, επεξεργασία, μετατροπή και απόδοση αρχείων Excel. Όλα χωρίς να βασίζεστε σε εφαρμογές Office ή Excel Microsoft. Μπορείτε να εγκαταστήσετε από την κονσόλα χρησιμοποιώντας την ακόλουθη εντολή.
+ API, το οποίο είναι πλούσιο σε χαρακτηριστικά, ισχυρό και εύκολο στη χρήση χειρισμό εγγράφων API for Python μέσω της πλατφόρμας .Net. Το API παρέχει δημιουργία, επεξεργασία, μετατροπή και απόδοση αρχείων Excel. Όλα χωρίς να βασίζεστε σε εφαρμογές Office ή Excel Microsoft. Μπορείτε να εγκαταστήσετε από την κονσόλα χρησιμοποιώντας την ακόλουθη εντολή.
 
 {{% blocks/products/pf/agp/code-block title="Εντολή" offSpacer="true" %}}
 
@@ -37,9 +38,9 @@ API, το οποίο είναι πλούσιο σε χαρακτηριστικά
 
 {{% /blocks/products/pf/agp/text %}}
 
-Δημιουργία αντικειμένου βιβλίου εργασίας.(ή->Φορτώστε το αρχείο XLSX με πλήρη διαδρομή.)
++ Δημιουργία αντικειμένου βιβλίου εργασίας.(ή->Φορτώστε το αρχείο XLSX με πλήρη διαδρομή.)
 + Επιλέξτε Φύλλο εργασίας μέσω του ευρετηρίου του.
- + Χρησιμοποιήστε την προσθήκη της shapecollection[μέθοδος](https://reference.aspose.com/cells/python-net/aspose.cells.drawing/shapecollection/add_auto_shape/#AutoShapeType-int-int-int-int-int-int) για να εισαγάγετε ένα σχήμα κυρτού βέλους στο επιλεγμένο φύλλο εργασίας.
+ + Χρησιμοποιήστε την προσθήκη της shapecollection[μέθοδος](https://reference.aspose.com/cells/python-net/aspose.cells.drawing/shapecollection/add_auto_shape/#AutoShapeType-int-int-int-int-int-int)για να εισαγάγετε ένα σχήμα κυρτού βέλους στο επιλεγμένο φύλλο εργασίας.
 + Αποθήκευση βιβλίου εργασίας σε μορφή XLSX.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
@@ -80,7 +81,7 @@ Aspose.Cells API με δυνατότητα δημιουργίας εφαρμογ
 
 <!-- aboutfile Ends -->
 <!--
-{{< blocks/products/pf/agp/other-supported-section title="Other Supported Splitting Formats" subTitle="Using C#, One can also split large file into chunks of many other file formats including." >}}
+{{< blocks/products/pf/agp/other-supported-section title="Other Supported Splitting Formats" subTitle="Using Python, One can also split large file into chunks of many other file formats including." >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/splitter/ods/" name="ODS" description="OpenDocument Spreadsheet File" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/splitter/xls/" name="XLS" description="Excel Binary Format" >}}

@@ -38,7 +38,7 @@ description: C# Exempelkod för konvertering från XLTM till Byte Array. Använd
 
 {{% blocks/products/pf/agp/text %}}
 
- Se bara till att systemet har Microsoft Windows eller ett kompatibelt operativsystem med .NET Framework, .NET Core, Windows Azure, Mono eller Xamarin-plattformar samt utvecklingsmiljö som 4076163 som 4076163.
+Se bara till att systemet har Microsoft Windows eller ett kompatibelt operativsystem med .NET Framework, .NET Core, Windows Azure, Mono eller Xamarin-plattformar samt utvecklingsmiljö som 4076163 som 4076163.
 
 {{% /blocks/products/pf/agp/text %}}
 

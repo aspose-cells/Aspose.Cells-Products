@@ -2,6 +2,7 @@
 title:  Αναζήτηση και αντικατάσταση κειμένου στο έγγραφο ODS via Java
 weight: 9210
 description: Java δείγμα κώδικα για τη διόρθωση ευαίσθητων πληροφοριών στο αρχείο ODS στο Java Runtime Environment for JSP/JSF Application and Desktop Applications.
+keywords: [Java Aspose.Cells., Java Search and replace text in ODS file., Java redact ODS file., Java edit ODS file., Java ODS file redaction., Java Search and replace string in ODS file]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Redact ODS Μορφές στο Java" h2="Το εγγενές και υψηλής απόδοσης ODS τεκμηριώνει ευαίσθητες πληροφορίες επεξεργασίας χρησιμοποιώντας API Aspose.Cells for Java από την πλευρά του διακομιστή, χωρίς τη χρήση λογισμικού όπως το Microsoft ή το Adobe PDF." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="ODS" >}}
@@ -13,7 +14,7 @@ description: Java δείγμα κώδικα για τη διόρθωση ευα�
 
  Για να επεξεργαστούμε το αρχείο ODS, θα χρησιμοποιήσουμε
  [Aspose.Cells for Java](https://products.aspose.com/cells/java) 
- API, η οποία είναι μια πλατφόρμα με πλούσια χαρακτηριστικά, ισχυρή και εύκολη στη χρήση έκδοση API for Java. Μπορείτε να κατεβάσετε την τελευταία του έκδοση απευθείας από
+API, η οποία είναι μια πλατφόρμα με πλούσια χαρακτηριστικά, ισχυρή και εύκολη στη χρήση έκδοση API for Java. Μπορείτε να κατεβάσετε την τελευταία του έκδοση απευθείας από
  [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) 
  και εγκαταστήστε το στο έργο σας που βασίζεται στο Maven προσθέτοντας τις ακόλουθες διαμορφώσεις στο pom.xml.
 
@@ -65,7 +66,7 @@ description: Java δείγμα κώδικα για τη διόρθωση ευα�
 + Καθορίστε το εύρος στο οποίο θέλετε να πραγματοποιήσετε αναζήτηση
 + Κάντε βρόχο σε κάθε κελί και χρησιμοποιήστε το getCells().find(...).
 + Αντικαταστήστε την τιμή.
-Αποθηκεύστε το βιβλίο εργασίας.
++ Αποθηκεύστε το βιβλίο εργασίας.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -143,7 +144,7 @@ workbook.save(dataDir + "output.ods");
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Δεν χρειάζεται να κατεβάσετε το Aspose API." >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Δεν χρειάζεται να γράψετε κανέναν κώδικα." >}}
         {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Απλώς ανεβάστε τα ODS αρχεία σας." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-download" text=" Θα διορθωθεί αμέσως." >}}
+        {{< blocks/products/pf/agp/democard icon="fa-download" text="Θα διορθωθεί αμέσως." >}}
     {{< /blocks/products/pf/agp/demobox >}}
 
     {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="ODS" readMoreLink="https://docs.fileformat.com/spreadsheet/ods/" >}}

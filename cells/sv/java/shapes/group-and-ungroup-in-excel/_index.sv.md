@@ -2,6 +2,7 @@
 title: Gruppera och dela upp former i Excel via Java
 weight: 360
 description: Gruppera och dela upp objekt med Aspose.Cells' Java API utan någon programvara som Microsoft eller Open Office, Adobe PDF, etc.
+keywords: [Java Aspose.Cells., Java group shapes., Java ungroup shapes., Java group and ungroup shapes., Java group or ungroup shapes]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Gruppera och dela upp former i Excel via Java" h2="Använda Aspose.Cells\' API för att arbeta med olika objekt utan någon programvara som Microsoft eller Open Office, Adobe PDF, etc." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSX" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="" fileiconsmall1="PPTX" fileiconsmall2="DOCX" fileiconsmall3="XLSX" fileiconsmall4="PDF" fileiconsmall5=" ODP " >}}
@@ -56,7 +57,7 @@ description: Gruppera och dela upp objekt med Aspose.Cells' Java API utan någon
 
 {{% /blocks/products/pf/agp/text %}}
 
-Instantiera ett arbetsboksobjekt.(eller->Läs in XLSX-filen med fullständig sökväg.)
++ Instantiera ett arbetsboksobjekt.(eller->Läs in XLSX-filen med fullständig sökväg.)
 + Välj kalkylblad via dess index.
  + Använd[gruppmetod](https://reference.aspose.com/cells/java/com.aspose.cells/shapecollection/#group-com.aspose.cells.Shape---) för att gruppera former i det valda kalkylbladet
  + Använd[avgruppera metoden](https://reference.aspose.com/cells/java/com.aspose.cells/shapecollection/#ungroup-com.aspose.cells.GroupShape-) för att dela upp former i det valda kalkylbladet

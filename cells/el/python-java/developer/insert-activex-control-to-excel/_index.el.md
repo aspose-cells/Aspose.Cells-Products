@@ -2,6 +2,7 @@
 title: Εισαγάγετε το ActiveX Control στο Excel χρησιμοποιώντας Python via Java
 weight: 10
 description: Python via Java πηγαίος κώδικας για εισαγωγή ActiveX Control στο Excel.
+keywords: [Python via Java Aspose.Cells., Python via Java add ActiveX Control into Excel., Python via Java insert ActiveX Control into Excel., Python via Java create ActiveX Control in Excel]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Εισαγάγετε το ActiveX Control στο Excel χρησιμοποιώντας Python via java" h2="Εισαγάγετε αντικείμενα χρησιμοποιώντας API από την πλευρά του διακομιστή χωρίς λογισμικό όπως Microsoft ή Open Office, Adobe PDF κ.λπ." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="" pfName="Aspose.Cells" subTitlepfName="for Python via Java" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="XLSX" >}}
@@ -13,7 +14,7 @@ description: Python via Java πηγαίος κώδικας για εισαγωγ
 
  Για να εισαγάγουμε το ActiveX Control στο αρχείο excel, θα χρησιμοποιήσουμε
  [Aspose.Cells for Python μέσω java](https://pypi.org/project/aspose-cells/) 
-API που είναι πλούσιο σε χαρακτηριστικά, ισχυρό και εύκολο στη χρήση χειρισμό εγγράφων API για python μέσω πλατφόρμας java. Το API παρέχει δημιουργία, επεξεργασία, μετατροπή και απόδοση αρχείων Excel. Όλα χωρίς να βασίζεστε σε εφαρμογές Office ή Excel Microsoft. Μπορείτε να εγκαταστήσετε από την κονσόλα χρησιμοποιώντας την ακόλουθη εντολή.
+ API που είναι πλούσιο σε χαρακτηριστικά, ισχυρό και εύκολο στη χρήση χειρισμό εγγράφων API για python μέσω πλατφόρμας java. Το API παρέχει δημιουργία, επεξεργασία, μετατροπή και απόδοση αρχείων Excel. Όλα χωρίς να βασίζεστε σε εφαρμογές Office ή Excel Microsoft. Μπορείτε να εγκαταστήσετε από την κονσόλα χρησιμοποιώντας την ακόλουθη εντολή.
 
 {{% blocks/products/pf/agp/code-block title="Εντολή" offSpacer="true" %}}
 
@@ -37,7 +38,7 @@ API που είναι πλούσιο σε χαρακτηριστικά, ισχυ
 
 {{% /blocks/products/pf/agp/text %}}
 
-Δημιουργία αντικειμένου βιβλίου εργασίας.(ή->Φορτώστε το αρχείο XLSX με πλήρη διαδρομή.)
++ Δημιουργία αντικειμένου βιβλίου εργασίας.(ή->Φορτώστε το αρχείο XLSX με πλήρη διαδρομή.)
 + Επιλέξτε Φύλλο εργασίας μέσω του ευρετηρίου του.
  + Χρησιμοποιήστε τα shapecollection's[μέθοδος προσθήκης](https://reference.aspose.com/cells/python-java/asposecells.api/shapecollection#addActiveXControl(int,%20int,%20int,%20int,%20int,%20int,%20int)) για να εισαγάγετε ένα στοιχείο ελέγχου ActiveX στο επιλεγμένο φύλλο εργασίας.
 + Αποθήκευση βιβλίου εργασίας σε μορφή XLSX.
@@ -53,7 +54,7 @@ API που είναι πλούσιο σε χαρακτηριστικά, ισχυ
 {{% /blocks/products/pf/agp/text %}}
 
 -  Οποιοδήποτε λειτουργικό σύστημα που μπορεί να τρέξει python μέσω σεναρίων java, όπως Windows, Linux και MacOS
--  Εγκαταστήστε το Java και προσθέστε το στη μεταβλητή περιβάλλοντος PATH, για παράδειγμα:<code>PATH=C:\Program Files\Java\jdk1.8.0_131;</code>.
+- Εγκαταστήστε το Java και προσθέστε το στη μεταβλητή περιβάλλοντος PATH, για παράδειγμα:<code>PATH=C:\Program Files\Java\jdk1.8.0_131;</code>.
 -  Εγκατάσταση Aspose.Cells for Python μέσω java από<a href="https://pypi.org/project/aspose-cells/">pypi</a> , χρησιμοποιήστε την εντολή ως:<code>$ pip install aspose-cells</code>.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

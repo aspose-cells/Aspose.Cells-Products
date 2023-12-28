@@ -2,6 +2,7 @@
 title:  Εισαγάγετε SVG εικόνες/εικονίδια στο Excel via .NET
 weight: 110
 description: C# πηγαίος κώδικας για την εισαγωγή εικόνων/εικονιδίων SVG στο Excel σε πλατφόρμες .NET Framework, .NET Core, Mono ή Xamarin.
+keywords: [C# Aspose.Cells., c# add SVG images/Icons into Excel., c# insert SVG images/Icons into Excel., c# create SVG images/Icons in Excel]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Εισαγάγετε SVG εικόνες/εικονίδια στο Excel via .NET" h2="Εισαγάγετε SVG εικόνες/εικονίδια χρησιμοποιώντας Aspose.Cells\' API χωρίς λογισμικό όπως Microsoft ή Open Office, Adobe PDF κ.λπ." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="XLSX" >}}
@@ -25,7 +26,7 @@ description: C# πηγαίος κώδικας για την εισαγωγή ε�
 + Εισαγάγετε μεγάλο αριθμό εικόνων svg στο ίδιο αρχείο Excel.
 + Εισαγάγετε εικόνες svg σε μεγάλο αριθμό διαφορετικών αρχείων Excel.
 
- Για να λύσετε αυτά τα προβλήματα, σας συνιστούμε να χρησιμοποιήσετε το[Aspose.Cells](https://products.aspose.com/cells/) βιβλιοθήκη.Περιέχει πολλές κοινές διεπαφές για την επεξεργασία αρχείων excel και είναι ένα πολύ χρήσιμο εργαλείο.
+ Για να λύσετε αυτά τα προβλήματα, σας συνιστούμε να χρησιμοποιήσετε το[Aspose.Cells](https://products.aspose.com/cells/)βιβλιοθήκη.Περιέχει πολλές κοινές διεπαφές για την επεξεργασία αρχείων excel και είναι ένα πολύ χρήσιμο εργαλείο.
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -81,7 +82,7 @@ PM> Install-Package Aspose.Cells
 
 {{% /blocks/products/pf/agp/text %}}
 
-Δημιουργία αντικειμένου βιβλίου εργασίας.(ή->Φορτώστε το αρχείο XLSX με πλήρη διαδρομή.)
++ Δημιουργία αντικειμένου βιβλίου εργασίας.(ή->Φορτώστε το αρχείο XLSX με πλήρη διαδρομή.)
 + Επιλέξτε Φύλλο εργασίας μέσω του ευρετηρίου του.
  + Χρησιμοποιήστε το[μέθοδος προσθήκης](https://reference.aspose.com/cells/net/aspose.cells.drawing/shapecollection/methods/addicons)για να εισαγάγετε ένα εικονίδιο στο επιλεγμένο φύλλο εργασίας
 + Αποθήκευση βιβλίου εργασίας σε μορφή XLSX.
@@ -117,7 +118,7 @@ PM> Install-Package Aspose.Cells
 
 {{% blocks/products/pf/agp/content h2="Σχετικά με Aspose.Cells for .NET API" %}}
 
- Aspose.Cells API μπορεί να χρησιμοποιηθεί για τη δημιουργία, επεξεργασία, μετατροπή και απόδοση μορφών Excel Microsoft σε διαφορετικές μορφές. Επιπλέον, μπορεί να χρησιμοποιηθεί για ολοκληρωμένη χαρτογράφηση, κλιμακούμενη αναφορά και αξιόπιστους υπολογισμούς εντός εφαρμογών λογισμικού. Το Aspose.Cells είναι ένα αυτόνομο API και δεν απαιτεί λογισμικό όπως το Microsoft ή το OpenOffice.
+Aspose.Cells API μπορεί να χρησιμοποιηθεί για τη δημιουργία, επεξεργασία, μετατροπή και απόδοση μορφών Excel Microsoft σε διαφορετικές μορφές. Επιπλέον, μπορεί να χρησιμοποιηθεί για ολοκληρωμένη χαρτογράφηση, κλιμακούμενη αναφορά και αξιόπιστους υπολογισμούς εντός εφαρμογών λογισμικού. Το Aspose.Cells είναι ένα αυτόνομο API και δεν απαιτεί λογισμικό όπως το Microsoft ή το OpenOffice.
 
 {{% /blocks/products/pf/agp/content %}}
 

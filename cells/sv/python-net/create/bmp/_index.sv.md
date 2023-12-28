@@ -1,7 +1,7 @@
 ---
 title: Skapa BMP - Skapa BMP fil i Python
-description: Aspose Excel. Python Skapa BMP fil. Skapa BMP Python. Python BMP Skapare. Skapa BMP i Python. Generera filen BMP med Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Create BMP Python., Python BMP Creater., Create BMP file in Python., Generate BMP file in Python]
+description: Aspose Excel. Python Skapa BMP Arkivera snabbt och enkelt med Aspose.Cells. Skapa BMP fil med Python. Skapa BMP i Python. 0761836481 Skapa Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Create BMP file., Generate BMP file in Python., Create BMP file using Python., Write data to BMP file via Python., Create a BMP file in Python., Python Generate a BMP file., Python BMP Creater]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Skapa BMP-fil i Python" h2="Höghastighets Python-bibliotek för att skapa BMP-fil. Använd vår excel-konvertering API för att utveckla plattformsoberoende programvara på hög nivå i Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="BMP" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -11,7 +11,7 @@ keywords: [Aspose Excel., Python Aspose.Cells., Create BMP Python., Python BMP C
 
 {{% blocks/products/pf/agp/content h2="Skapa BMP-fil med Python" %}}
 
- Hur skapar man BMP-fil? Med Aspose.Cells for Python via NET bibliotek kan du enkelt skapa BMP fil programmatiskt med några rader kod.[Aspose.Cells for Python](https://pypi.org/project/aspose-cells-python/)kan bygga plattformsoberoende applikationer med förmågan att generera, modifiera, konvertera, rendera och skriva ut alla Excel-filer. Python Excel API konverterar inte bara mellan kalkylarksformat, det kan också rendera Excel-filer som bilder, PDF, HTML, ODS, ODS, CSV, 0761687481, 0761687481, vilket gör det till ett perfekt val, Pt utbyta dokument i branschstandard format.
+ Hur skapar man BMP-fil? Med Aspose.Cells for Python via NET bibliotek kan du enkelt skapa BMP fil programmatiskt med några rader kod.[Aspose.Cells for Python](https://pypi.org/project/aspose-cells-python/)kan bygga plattformsoberoende applikationer med förmågan att generera, modifiera, konvertera, rendera och skriva ut alla Excel-filer. Python Excel API konverterar inte bara mellan kalkylarksformat, den kan också rendera Excel-filer som bilder, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT och mer, vilket gör det till ett perfekt val att utbyta dokument i industristandardformat.
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -28,7 +28,7 @@ keywords: [Aspose Excel., Python Aspose.Cells., Create BMP Python., Python BMP C
 1.  Skapa Workbook-klassinstans.
 1.  Öppna det första kalkylbladet i arbetsboken.
 1.  Hämta önskad cell(er) i kalkylbladet och mata in värdet i cellen(erna).
-1. Använd metoden Spara för att spara arbetsboken som BMP-fil.
+1.  Använd metoden Spara för att spara arbetsboken som BMP-fil.
 
 {{% blocks/products/pf/agp/code-block title="Exempelkod visar hur man skapar BMP-filen i Python." offSpacer="" %}}
 
@@ -62,7 +62,7 @@ workbook.save("output.bmp")
 Vi är värd för våra Python-paket i PyPi-förråd.
 
 {{% blocks/products/pf/agp/text %}}
-Installera Aspose.Cells for Python från<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , använd kommandot som:<code>$ pip install aspose-cells-python</code>.
+ Installera Aspose.Cells for Python från<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , använd kommandot som:<code>$ pip install aspose-cells-python</code>.
 {{% /blocks/products/pf/agp/text %}}
 
 {{% blocks/products/pf/agp/text %}}

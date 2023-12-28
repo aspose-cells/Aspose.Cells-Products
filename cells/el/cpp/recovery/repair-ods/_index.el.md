@@ -1,8 +1,8 @@
 ---
-title: C++ Repair ods File - Repair ods File Online δωρεάν
+title: C++ Επιδιόρθωση ods - Ανάκτηση και διόρθωση κατεστραμμένου αρχείου ods
 url: /el/cpp/recovery/repair-ods/ 
-description: Aspose Excel. C++ Aspose.Cells. C++ Επισκευή αρχείου ods. Δωρεάν διαδικτυακό εργαλείο επισκευής ods. Επιδιορθώστε ένα κατεστραμμένο αρχείο ods. Ανακτήστε ένα κατεστραμμένο αρχείο ods εντός της εφαρμογής C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ Repair ods file., Free Online Repair a corrupted ods file., C++ Recover ods file.]
+description: C++ Aspose.Cells. Επισκευή ods. Διορθώστε το αρχείο ods. εργαλείο ανάκτησης ods. από τη διαφθορά. Επαναφορά δεδομένων ods. ανάκτηση αρχείων ods. Ανακτήστε το κατεστραμμένο αρχείο ods.
+keywords: [C++ Aspose.Cells., repair ods file., ods repair., recover corrupted ods file., repair corrupted ods., recover ods., fix ods file., ods corruption., restore ods data., ods file recovery., recover corrupted ods file.]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Επισκευάστε το αρχείο ODS στο C++" h2="Δημιουργήστε τη δική σας εφαρμογή C++ για να επιδιορθώσετε αρχεία ods χρησιμοποιώντας το C++." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" sourceAdditionalConversionTag="" additionalConversionTag="ODS" pfName="Aspose.Cells" subTitlepfName="for C++" downloadUrl="" fileiconsmall1="XLS" fileiconsmall2="XLSB" fileiconsmall3="XLSX" fileiconsmall4="XLSM" fileiconsmall5="ODS" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ Repair ods f
 
 {{% blocks/products/pf/agp/content h2="Επισκευάστε το αρχείο ODS χρησιμοποιώντας το C++" %}}
 
- Πώς μπορώ να επισκευάσω το αρχείο ods; Με τη βιβλιοθήκη Aspose.Cells for C++, μπορείτε εύκολα να επιδιορθώσετε το αρχείο ODS μέσω προγραμματισμού με λίγες γραμμές κώδικα.[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) έχει τη δυνατότητα δημιουργίας εφαρμογών πολλαπλών πλατφορμών με δυνατότητα δημιουργίας, τροποποίησης, μετατροπής, απόδοσης και εκτύπωσης όλων των αρχείων Excel. C++ Το Excel API όχι μόνο μετατρέπει μεταξύ μορφών υπολογιστικών φύλλων, αλλά μπορεί επίσης να αποδώσει αρχεία Excel ως εικόνες, PDF, HTML, ODS, CSV, 07616031481, CSV, 07616831481, δημιουργώντας περισσότερα τέλεια επιλογή για την ανταλλαγή εγγράφων σε βιομηχανικά πρότυπα μορφές. Μπορείτε να κατεβάσετε την τελευταία του έκδοση απευθείας, απλά ανοίξτε[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) διαχειριστής πακέτων, αναζητήστε Aspose.Cells.Cpp και εγκαταστήστε. Μπορείτε επίσης να χρησιμοποιήσετε την ακόλουθη εντολή από την Κονσόλα Package Manager.
+ Πώς μπορώ να επισκευάσω το αρχείο ods; Με τη βιβλιοθήκη Aspose.Cells for C++, μπορείτε εύκολα να επιδιορθώσετε το αρχείο ODS μέσω προγραμματισμού με λίγες γραμμές κώδικα.[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) έχει τη δυνατότητα δημιουργίας εφαρμογών πολλαπλών πλατφορμών με δυνατότητα δημιουργίας, τροποποίησης, μετατροπής, απόδοσης και εκτύπωσης όλων των αρχείων Excel. C++ Το Excel API όχι μόνο μετατρέπει μεταξύ μορφών υπολογιστικών φύλλων, αλλά μπορεί επίσης να αποδώσει αρχεία Excel ως εικόνες, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT και άλλα, καθιστώντας έτσι την τέλεια επιλογή για την ανταλλαγή εγγράφων σε βιομηχανικές τυποποιημένες μορφές. Μπορείτε να κατεβάσετε την τελευταία του έκδοση απευθείας, απλά ανοίξτε[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) διαχειριστής πακέτων, αναζητήστε Aspose.Cells.Cpp και εγκαταστήστε. Μπορείτε επίσης να χρησιμοποιήσετε την ακόλουθη εντολή από την Κονσόλα Package Manager.
 
 {{% blocks/products/pf/agp/code-block title="Εντολή" offSpacer="true" %}}
 
@@ -41,7 +41,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-recovery title="Δωρεάν εφαρμογή και δείγμα κώδικα για επισκευή αρχείου ODS στο Διαδίκτυο" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et" InputFormat="ods" outformat="ods" IsLandingPage="true" language="cpp" %}}    
+{{% cells-recovery title="Δείγμα κώδικα για επιδιόρθωση αρχείου ODS" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;xps;mhtml;md;json;xml;zip;sql;txt;et" InputFormat="ods" outformat="ods" IsLandingPage="true" language="cpp" %}}    
     
 {{% blocks/products/pf/agp/content h2="C++ βιβλιοθήκη για επιδιόρθωση αρχείου ODS" %}}
 

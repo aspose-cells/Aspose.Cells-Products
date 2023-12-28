@@ -1,6 +1,7 @@
 ---
 title: Δημιουργήστε γραφήματα πίτας μέσω του C#
 description: C# Δείγμα κώδικα για τη δημιουργία γραφημάτων πίτας στο Excel χρησιμοποιώντας τη Βιβλιοθήκη .NET. Χρησιμοποιήστε αυτόν τον κώδικα για τη δημιουργία ενός γραφήματος πίτας στο MS Excel εντός των VB.NET, Asp.NET ή οποιασδήποτε εφαρμογής που βασίζεται στο .NET.
+keywords: [C# Aspose.Cells., c# add Pie Chart., c# insert Pie Chart., c# create Pie Chart]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 

@@ -1,8 +1,8 @@
 ---
 title: Slå samman XML till TIFF - Kombinera XML till TIFF i C#
 url: /sv/net/merger/merge-xml-to-tiff/ 
-description: Aspose Excel. C# Aspose.Cells. Free Online Merge XML to TIFF saveformat. C# Kombinera XML till TIFF format. Slå samman XML till TIFF i C#. XML Merge.
-keywords: [Aspose Excel., C# Aspose.Cells., Merge XML to TIFF in C#., Free Online C# Merge XML to tiff., C# Combine XML to TIFF Online for Free., XML Merge]
+description: Aspose Excel. C# Aspose.Cells. Slå samman XML till TIFF sparaformat. C# Kombinera XML till TIFF format. Slå samman XML till TIFF i C#. XML Merge.
+keywords: [Aspose Excel., C# Aspose.Cells., Merge XML to TIFF in C#., C# Merge XML to tiff., C# Combine XML to TIFF., XML Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Slå samman XML till TIFF via C#" h2="Höghastighetsbibliotek C# för sammanslagning av XML till TIFF. Använd vår excel-konvertering API för att utveckla högnivå, plattformsoberoende programvara i C#. Detta är en professionell mjukvarulösning för att importera och exportera Excel, CSV, OpenOffice, PDF, HTML, image och många andra Excel-format." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="XML" additionalConversionTag="TIFF" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., C# Aspose.Cells., Merge XML to TIFF in C#., Free Onlin
 
 {{% blocks/products/pf/agp/content h2="Slå samman XML till TIFF med C#" %}}
 
-Hur slår jag ihop XML till TIFF? Med Aspose.Cells for .NET bibliotek kan du enkelt slå samman XML till TIFF programmatiskt med några rader kod.[Aspose.Cells for .NET](https://products.aspose.com/cells/net)kan bygga plattformsoberoende applikationer med förmågan att generera, modifiera, konvertera, rendera och skriva ut alla Excel-filer. .NET Excel API konverterar inte bara mellan kalkylarksformat, det kan också rendera Excel-filer som bilder, PDF, HTML, ODS, ODS, CSV, 0761687481, 0761687481, vilket gör det till ett perfekt val, Pt utbyta dokument i branschstandard format. Öppen[NuGet](https://www.nuget.org/packages/aspose.cells) pakethanteraren, sök efter Aspose.Cells och installera. Du kan också använda följande kommando från Package Manager Console.
+ Hur slår jag ihop XML till TIFF? Med Aspose.Cells for .NET bibliotek kan du enkelt slå samman XML till TIFF programmatiskt med några rader kod.[Aspose.Cells for .NET](https://products.aspose.com/cells/net)kan bygga plattformsoberoende applikationer med förmågan att generera, modifiera, konvertera, rendera och skriva ut alla Excel-filer. .NET Excel API konverterar inte bara mellan kalkylarksformat, den kan också rendera Excel-filer som bilder, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT och mer, vilket gör det till ett perfekt val att utbyta dokument i industristandardformat. Öppen[NuGet](https://www.nuget.org/packages/aspose.cells) pakethanteraren, sök efter Aspose.Cells och installera. Du kan också använda följande kommando från Package Manager Console.
 
 {{% blocks/products/pf/agp/code-block title="Pakethanterarens konsolkommando" offSpacer="true" %}}
 
@@ -26,7 +26,7 @@ PM> Install-Package Aspose.Cells
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Slå samman XML till TIFF i C# Online gratis" %}}
+{{% blocks/products/pf/agp/content h2="Slå samman XML till TIFF i C#" %}}
 
 Följande exempel visar hur man slår samman XML till TIFF i Aspose.Cells for .NET.
 {{% blocks/products/pf/agp/text %}}
@@ -37,13 +37,13 @@ Följ de enkla stegen för att sammanfoga XML till TIFF. Ladda upp dina filer, a
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Gratis online för att slå samman XML till TIFF i C#" InputFormat="xml" InputFormat2="tiff" outformat="tiff" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="net" %}}
+{{% cells-merger title="Exempelkod för att slå samman XML till TIFF i C#" InputFormat="xml" InputFormat2="tiff" outformat="tiff" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="net" %}}
 
 {{% blocks/products/pf/agp/content h2="Hur man sammanfogar XML till TIFF via C#" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- Behöver du slå samman XML till TIFF programmatiskt? Ett grundläggande dokument som sammanfogas och sammanfogas med[Aspose.Cells for .NET](https://products.aspose.com/cells/net) API:er kan göras med bara några rader kod.
+Behöver du slå samman XML till TIFF programmatiskt? Ett grundläggande dokument som sammanfogas och sammanfogas med[Aspose.Cells for .NET](https://products.aspose.com/cells/net) API:er kan göras med bara några rader kod.
 
 {{% /blocks/products/pf/agp/text %}}
 

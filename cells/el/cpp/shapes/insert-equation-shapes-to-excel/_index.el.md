@@ -1,7 +1,8 @@
 ---
-title:  Εισαγάγετε σχήματα εξισώσεων στο Excel μέσω C++
+title: Εισαγάγετε σχήματα εξισώσεων στο Excel μέσω C++
 weight: 780
 description: C++ παράδειγμα κώδικα για την εισαγωγή Equation Shapes στο αρχείο Excel στο C++ Runtime Environment για Windows 32 bit, Windows 64 bit και Linux 64 bit.
+keywords: [C++ Aspose.Cells., C++ add equation shapes., C++ insert equation shapes., C++ create equation shapes]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Εισαγάγετε σχήματα εξισώσεων στο Excel μέσω C++" h2="Εισαγάγετε αντικείμενα χρησιμοποιώντας την εγγενή και υψηλή απόδοση του διακομιστή Aspose.Cells for C++ API χωρίς τη χρήση λογισμικού όπως Microsoft ή Adobe PDF." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" sourceAdditionalConversionTag="" additionalConversionTag="" pfName="Aspose.Cells" subTitlepfName="for C++" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="XLSX" >}}
@@ -35,9 +36,9 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% blocks/products/pf/agp/feature-section-col title="Βήματα για την εισαγωγή Equation Shapes στο αρχείο Excel μέσω C++" %}}
 
-Δημιουργία αντικειμένου βιβλίου εργασίας.(ή->Φορτώστε το αρχείο XLSX με πλήρη διαδρομή.)
++ Δημιουργία αντικειμένου βιβλίου εργασίας.(ή->Φορτώστε το αρχείο XLSX με πλήρη διαδρομή.)
 + Επιλέξτε Φύλλο εργασίας μέσω του ευρετηρίου του.
- + Χρησιμοποιήστε το[μέθοδος προσθήκης](https://reference.aspose.com/cells/cpp/class/aspose.cells.drawing.i_shape_collection#ab8156e8562724f9a597b7d2bc503cd4d) για να εισαγάγετε σχήματα εξισώσεων στο επιλεγμένο φύλλο εργασίας
+ + Χρησιμοποιήστε το[μέθοδος προσθήκης](https://reference.aspose.com/cells/cpp/aspose.cells.drawing/shapecollection/addautoshape/) για να εισαγάγετε σχήματα εξισώσεων στο επιλεγμένο φύλλο εργασίας
 + Αποθήκευση βιβλίου εργασίας σε μορφή XLSX.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
@@ -63,7 +64,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% blocks/products/pf/agp/code-block title="Εισαγωγή σχημάτων εξίσωσης - C++" offSpacer="" %}}
 
-{{< gist "aspose-cells-gists" "6f7d9819d85793c3a3b5d040af42e1a9" "InsertEquationIntoWorksheet.cpp" >}}
+{{< gist "aspose-cells-gists" "6f7d9819d85793c3a3b5d040af42e1a9" "InsertEquationIntoWorksheet-new.cpp" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 
@@ -90,7 +91,7 @@ PM> Install-Package Aspose.Cells.Cpp
    <div class="col-lg-4">
     <img src="/cells/net/shapes/insert-equation-shapes-to-excel/multiplication.png" align="left" width="28" height="28">
     <p class="col-lg-10">
-AutoShapeType::AutoShapeType_MathΠολλαπλασιασμός
+ AutoShapeType::AutoShapeType_MathΠολλαπλασιασμός
     </p>
    </div>
    <div class="col-lg-4">
@@ -122,7 +123,7 @@ AutoShapeType::AutoShapeType_MathΠολλαπλασιασμός
 
 {{% blocks/products/pf/agp/content h2="Σχετικά με Aspose.Cells for C++ API" %}}
 
- Aspose.Cells API μπορεί να χρησιμοποιηθεί για τη δημιουργία, επεξεργασία, μετατροπή και απόδοση μορφών Excel Microsoft σε διαφορετικές μορφές. Επιπλέον, μπορεί να χρησιμοποιηθεί για ολοκληρωμένη χαρτογράφηση, κλιμακούμενη αναφορά και αξιόπιστους υπολογισμούς εντός εφαρμογών λογισμικού. Το Aspose.Cells είναι ένα αυτόνομο API και δεν απαιτεί λογισμικό όπως το Microsoft ή το OpenOffice.
+Aspose.Cells API μπορεί να χρησιμοποιηθεί για τη δημιουργία, επεξεργασία, μετατροπή και απόδοση μορφών Excel Microsoft σε διαφορετικές μορφές. Επιπλέον, μπορεί να χρησιμοποιηθεί για ολοκληρωμένη χαρτογράφηση, κλιμακούμενη αναφορά και αξιόπιστους υπολογισμούς εντός εφαρμογών λογισμικού. Το Aspose.Cells είναι ένα αυτόνομο API και δεν απαιτεί λογισμικό όπως το Microsoft ή το OpenOffice.
 
 {{% /blocks/products/pf/agp/content %}}
 

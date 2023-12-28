@@ -1,6 +1,7 @@
 ---
 title: Skapa stapeldiagram via Python
 description: Python Exempelkod för att skapa stapeldiagram till Excel med Python Library. Använd den här koden för att skapa ett stapeldiagram till MS Excel inom Python-baserad applikation.
+keywords: [Python Aspose.Cells., Python add Bar Chart., Python insert Bar Chart., Python create Bar Chart]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
@@ -36,7 +37,7 @@ Det är lätt för utvecklarna att skapa ett stapeldiagram inom att köra olika 
  Aspose.Cells for Python är plattformsoberoende API och kan användas på vilken plattform som helst (Windows, Linux och MacOS), se bara till att systemet har Java 1.8 eller högre,[Python](https://www.python.org/downloads/) 3,5 eller högre.
 {{% /blocks/products/pf/agp/text %}}
 -  Installera Java och lägg till den i PATH miljövariabel, till exempel:<code>PATH=C:\Program Files\Java\jdk1.8.0_131;</code>.
-- Installera Aspose.Cells for Python från<a href="https://pypi.org/project/aspose-cells/">pypi</a> , använd kommandot som:<code>$ pip install aspose-cells</code>.
+-  Installera Aspose.Cells for Python från<a href="https://pypi.org/project/aspose-cells/">pypi</a> , använd kommandot som:<code>$ pip install aspose-cells</code>.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/code-block title="Följande källkod visar hur man skapar ett stapeldiagram till MS Excel XLSX-fil med Python." offSpacer="" %}}

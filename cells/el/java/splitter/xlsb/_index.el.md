@@ -2,6 +2,7 @@
 title:  Split XLSB Files via Java
 weight: 7880
 description: Java δείγμα κώδικα για διαχωρισμό εγγράφων XLSB στο Java Runtime Environment για εφαρμογές JSP/JSF και εφαρμογές επιφάνειας εργασίας.
+keywords: [Java Aspose.Cells., Java split xlsb files., Java how to split xlsb files into multiple files., Java xlsb splitter., Java split Cell., Cell splitter using Java]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Split XLSB Files via Java" h2="XLSB διαχωρισμός με τη βοήθεια της βιβλιοθήκης Java από την πλευρά του διακομιστή." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="XLSB" >}}
@@ -62,7 +63,7 @@ description: Java δείγμα κώδικα για διαχωρισμό εγγρ
 + Φόρτωση αρχείου XLSB χρησιμοποιώντας την κλάση Βιβλίο εργασίας.
 + Επαναλάβετε σε κάθε φύλλο
 + Δημιουργία νέου αντικειμένου κλάσης Βιβλίου εργασίας
-+ Αντιγράψτε το επιλεγμένο φύλλο σε νέο αντικείμενο
+Αντιγράψτε το επιλεγμένο φύλλο σε νέο αντικείμενο
 + Καλέστε τη μέθοδο αποθήκευσης με τη νέα διαδρομή αρχείου XLSB.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

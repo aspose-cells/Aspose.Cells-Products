@@ -1,7 +1,7 @@
 ---
-title: Java FODS till POWERPOINT - Online FODS till POWERPOINT Converter
-description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Gratis Online Java Konvertera FODS till POWERPOINT saveformat. Java FODS till POWERPOINT-format. Spara FODS till POWERPOINT Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java FODS to POWERPOINT saveformat., Free Online FODS to POWERPOINT Java., Java Convert FODS to POWERPOINT]
+title: Java FODS till POWERPOINT - FODS till POWERPOINT-omvandlare
+description: Aspose Excel. Konvertera FODS till POWERPOINT snabbt och enkelt med Aspose.Cells. Java FODS till POWERPOINT. Java Spara FODS till POWERPOINT. Spara FODS som POWERPOINT med Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Convert FODS to POWERPOINT in Java., Save FODS to POWERPOINT using Java., Java FODS to POWERPOINT saveformat., FODS to POWERPOINT Converter., Java Save FODS as POWERPOINT]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Konvertera FODS till POWERPOINT i Java" h2="Höghastighets Java bibliotek för att konvertera FODS till POWERPOINT. Detta är en professionell mjukvarulösning för att importera och exportera FODS, POWERPOINT och många andra format med Java." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="POWERPOINT" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java FODS to P
 
 {{% blocks/products/pf/agp/content h2="Konvertera FODS till POWERPOINT med Java" %}}
 
- Hur konverterar jag FODS till POWERPOINT? Med Aspose.Cells for Java bibliotek kan du enkelt konvertera FODS till POWERPOINT programmatiskt med några rader kod.[Aspose.Cells for Java](https://products.aspose.com/cells/java) kan bygga plattformsoberoende applikationer med förmågan att generera, modifiera, konvertera, rendera och skriva ut alla Excel-filer. Java Excel API konverterar inte bara mellan kalkylarksformat, det kan också rendera Excel-filer som bilder, PDF, HTML, ODS, ODS, CSV, 0761687481, 0761687481, vilket gör det till ett perfekt val, Pt utbyta dokument i branschstandard format. Du kan ladda ner den senaste versionen direkt från[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) och installera det i ditt Maven-baserade projekt genom att lägga till följande konfigurationer till pom.xml.
+ Hur konverterar jag FODS till POWERPOINT? Med Aspose.Cells for Java bibliotek kan du enkelt konvertera FODS till POWERPOINT programmatiskt med några rader kod.[Aspose.Cells for Java](https://products.aspose.com/cells/java)kan bygga plattformsoberoende applikationer med förmågan att generera, modifiera, konvertera, rendera och skriva ut alla Excel-filer. Java Excel API konverterar inte bara mellan kalkylarksformat, den kan också rendera Excel-filer som bilder, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT och mer, vilket gör det till ett perfekt val att utbyta dokument i industristandardformat. Du kan ladda ner den senaste versionen direkt från[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) och installera det i ditt Maven-baserade projekt genom att lägga till följande konfigurationer till pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Förvar" offSpacer="true" %}}
 
@@ -45,18 +45,18 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java FODS to P
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Spara FODS till POWERPOINT i Java Online gratis" %}}
+{{% blocks/products/pf/agp/content h2="Spara FODS till POWERPOINT i Java" %}}
 
 Följande exempel visar hur man konverterar FODS till POWERPOINT i Java.
 {{% blocks/products/pf/agp/text %}}
 
-Följ de enkla stegen för att konvertera FODS till POWERPOINT. Ladda upp din FODS-fil och spara den sedan som POWERPOINT-fil. För både FODS-läsning och POWERPOINT-skrivning kan du använda fullt kvalificerade filnamn. POWERPOINT-innehållet och formateringen kommer att vara identisk med originaldokumentet FODS.
+Följ de enkla stegen för att konvertera FODS till POWERPOINT. Ladda upp din FODS-fil och spara den sedan som POWERPOINT-fil. För både FODS-läsning och POWERPOINT-skrivning kan du använda fullt kvalificerade filnamn. Utdata POWERPOINT-innehåll och formatering kommer att vara identisk med originaldokumentet FODS.
 
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Gratis app och provkod för att konvertera FODS till POWERPOINT Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="fods" outformat="pptx" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Exempelkod för att konvertera FODS till POWERPOINT" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="fods" outformat="pptx" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="Hur man konverterar FODS till POWERPOINT via Java" %}}
 
@@ -68,7 +68,7 @@ Behöver du konvertera FODS-filer till POWERPOINT programmatiskt? Java-utvecklar
 
 1.  Installera 'Aspose.Cells for Java'.
 1.  Lägg till en biblioteksreferens (importera biblioteket) till ditt Java-projekt.
-1.  Ladda FODS-filen med en instans av Workbook-klassen.
+1. Ladda FODS-filen med en instans av Workbook-klassen.
 1.  Konvertera FODS till POWERPOINT genom att anropa Workbook.save-metoden.
 1.  Få konverteringsresultatet från FODS till POWERPOINT.
 

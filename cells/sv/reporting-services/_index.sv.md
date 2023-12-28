@@ -40,7 +40,7 @@ description: SQL Server Reporting Services-renderingstillägg - Exportera Excel 
  Textrutor
     </li>
     <li>
-Bilder
+ Bilder
     </li>
     <li>
  Delrapporter
@@ -52,7 +52,7 @@ Bilder
  Listor
     </li>
     <li>
- Tabeller
+Tabeller
     </li>
     <li>
  Mätare
@@ -312,7 +312,7 @@ Bilder
     <em class="fa fa-expand ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-Komprimera eller expandera pivottabellfält
+ Komprimera eller expandera pivottabellfält
     </p>
    </div>
    <div class="col-lg-4">
@@ -348,7 +348,7 @@ Komprimera eller expandera pivottabellfält
  Aspose.Cells' Reports Designer Tool
     </h2>
     <p>
- Utvecklare kan designa och leverera rapporter direkt från Microsoft Excel samtidigt som de använder Aspose.Cells.Report.Designer - ett enkelt designverktyg som använder Microsoft Excel som rapportmall. Den här funktionen gör det möjligt att dra nytta av alla kraftfulla funktioner och funktioner som finns i Microsoft Excel-applikationen inklusive pivottabeller, interaktiva diagram, formler och så vidare.
+Utvecklare kan designa och leverera rapporter direkt från Microsoft Excel samtidigt som de använder Aspose.Cells.Report.Designer - ett enkelt designverktyg som använder Microsoft Excel som rapportmall. Den här funktionen gör det möjligt att dra nytta av alla kraftfulla funktioner och funktioner som finns i Microsoft Excel-applikationen inklusive pivottabeller, interaktiva diagram, formler och så vidare.
     </p>
    </div>
    <div class="col-lg-12">
@@ -356,7 +356,7 @@ Komprimera eller expandera pivottabellfält
  Exportera rapporter till kalkylbladsformat
     </h2>
     <p>
-Aspose.Cells for Reporting Services stöder alla populära Microsoft Excel (97 - 2016) filformat, inklusive "native" Microsoft Excel-format som XLS, XLSX, 081616 081,716 081, 716 081, 716 07613481 , Tab Delimited och HTML. Aspose.Cells for Reporting Services stöder även filformatet ODS (OpenDocument Spreadsheet).
+ Aspose.Cells for Reporting Services stöder alla populära Microsoft Excel (97 - 2016) filformat, inklusive "inbyggda" Microsoft Excel-format som XLS, XLSX, XLSX, 07163407, 816, 716, 0761637, XLSX, XLSX, 07616347, 07613437 Delimited och HTML. Aspose.Cells for Reporting Services stöder även filformatet ODS (OpenDocument Spreadsheet).
     </p>
     <p>
  Ovanpå det exporterar Aspose.Cells for Reporting Services Excel-dokument som helt redigerbara kalkylblad, det vill säga; Slutanvändaren kan redigera de resulterande kalkylbladen manuellt i Microsoft Excel-applikationen om det behövs.
@@ -367,7 +367,7 @@ Aspose.Cells for Reporting Services stöder alla populära Microsoft Excel (97 -
  High Fidelity - identisk med rapportdesign
     </h2>
     <p>
- Aspose.Cells for Reporting Services exportera rapporterna till Microsoft Excel-kalkylblad på ett sätt så att resultatet ser identiskt ut med det ursprungliga som genererats av den inbyggda Reporting Services-rapportdesignern. Alla rapportfunktioner konverteras till högsta precision för att få Microsoft Excel-kalkylblad att se så likt originalet ut som möjligt.
+Aspose.Cells for Reporting Services exportera rapporterna till Microsoft Excel-kalkylblad på ett sätt så att resultatet ser identiskt ut med det ursprungliga som genererats av den inbyggda Reporting Services-rapportdesignern. Alla rapportfunktioner konverteras till högsta precision för att få Microsoft Excel-kalkylblad att se så likt originalet ut som möjligt.
     </p>
    </div>
    <!--
@@ -386,10 +386,10 @@ Aspose.Cells for Reporting Services stöder alla populära Microsoft Excel (97 -
  Olika alternativ för datahantering
     </h2>
     <p>
-Aspose.Cells for Reporting Services stödjer tabeller med grupperade rader och sidfötter medan grupperingen kan ställas in vid designtillfället som andra rapportobjekt. Aspose.Cells for Reporting Services stöder även parametrar och globala variabler som rapportdatakällor. Utvecklare kan också använda Microsoft Query för att skapa datakällor och frågor; detta är ett flitigt använt verktyg och bekant för de flesta användare.
+ Aspose.Cells for Reporting Services stödjer tabeller med grupperade rader och sidfötter medan grupperingen kan ställas in vid designtillfället som andra rapportobjekt. Aspose.Cells for Reporting Services stöder även parametrar och globala variabler som rapportdatakällor. Utvecklare kan också använda Microsoft Query för att skapa datakällor och frågor; detta är ett flitigt använt verktyg och bekant för de flesta användare.
     </p>
     <p>
- Utöver detta stöder Aspose.Cells for Reporting Services både rapportspecifika datakällor och delade datakällor som skapats på Report Server i förväg. Utvecklare kan använda rapportspecifika datakällor vid designtillfället och ange delade datakällor som rapportdatakällor medan de publicerar rapporter.
+Utöver detta stöder Aspose.Cells for Reporting Services både rapportspecifika datakällor och delade datakällor som skapats på Report Server i förväg. Utvecklare kan använda rapportspecifika datakällor vid designtillfället och ange delade datakällor som rapportdatakällor medan de publicerar rapporter.
     </p>
    </div>
    <!-- 

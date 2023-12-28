@@ -2,6 +2,7 @@
 title:  Αναζήτηση και αντικατάσταση κειμένου στο έγγραφο XLS via .NET
 weight: 7280
 description: C# πηγαίος κώδικας για τη διόρθωση ευαίσθητων πληροφοριών στο αρχείο XLS στο .NET Framework, .NET Core, Mono ή Xamarin Platforms.
+keywords: [C# Aspose.Cells., c# Search and replace text in XLS file., c# redact XLS file., c# edit XLS file., c# XLS file redaction., c# Search and replace string in XLS file]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Redact XLS Μορφές στο C#" h2="Το εγγενές και υψηλής απόδοσης XLS τεκμηριώνει ευαίσθητες πληροφορίες επεξεργασίας χρησιμοποιώντας API Aspose.Cells for .NET από την πλευρά του διακομιστή, χωρίς τη χρήση λογισμικού όπως το Microsoft ή το Adobe PDF." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="XLS" >}}
@@ -48,7 +49,7 @@ PM> Install-Package Aspose.Cells
 + Δημιουργία αντικειμένου FindOptions.
 + Ορισμός επιλογών αναζήτησης
 + Κάντε βρόχο σε κάθε κελί και χρησιμοποιήστε τη μέθοδο Εύρεση.
-Αποθηκεύστε το βιβλίο εργασίας.
++ Αποθηκεύστε το βιβλίο εργασίας.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -121,7 +122,7 @@ wb.Save("e:\test2\output.xls");
             {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Δεν χρειάζεται να κατεβάσετε το Aspose API." >}}
             {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Δεν χρειάζεται να γράψετε κανέναν κώδικα." >}}
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Απλώς ανεβάστε τα XLS αρχεία σας." >}}
-            {{< blocks/products/pf/agp/democard icon="fa-download" text=" Θα διορθωθεί αμέσως." >}}
+            {{< blocks/products/pf/agp/democard icon="fa-download" text="Θα διορθωθεί αμέσως." >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLS" readMoreLink="https://docs.fileformat.com/spreadsheet/xls/" >}}
 Τα αρχεία με επέκταση XLS αντιπροσωπεύουν τη μορφή δυαδικού αρχείου του Excel. Τέτοια αρχεία μπορούν να δημιουργηθούν από το Microsoft Excel καθώς και από άλλα παρόμοια προγράμματα υπολογιστικών φύλλων όπως το OpenOffice Calc ή το Apple Numbers. Το αρχείο που αποθηκεύεται από το Excel είναι γνωστό ως Workbook όπου κάθε βιβλίο εργασίας μπορεί να έχει ένα ή περισσότερα φύλλα εργασίας. Τα δεδομένα αποθηκεύονται και εμφανίζονται στους χρήστες σε μορφή πίνακα σε φύλλο εργασίας και μπορούν να εκτείνονται σε αριθμητικές τιμές, δεδομένα κειμένου, τύπους, εξωτερικές συνδέσεις δεδομένων, εικόνες και γραφήματα. Εφαρμογές όπως το Microsoft Excel σάς επιτρέπουν να εξάγετε δεδομένα βιβλίου εργασίας σε πολλές διαφορετικές μορφές, συμπεριλαμβανομένων των PDF, CSV, XLSX, TXT, HTML, XPS και πολλών άλλων. Η μορφή αρχείου XLS αντικαταστάθηκε με μια πιο ανοιχτή και δομημένη μορφή, XLSX, με την κυκλοφορία του Microsoft Excel 2007. Οι πιο πρόσφατες εκδόσεις εξακολουθούν να παρέχουν υποστήριξη για τη δημιουργία και την ανάγνωση αρχείων XLS, αν και η πρώτη επιλογή που χρησιμοποιείται τώρα είναι το 076114348.

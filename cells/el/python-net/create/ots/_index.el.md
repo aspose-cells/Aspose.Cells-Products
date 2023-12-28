@@ -1,7 +1,7 @@
 ---
 title: Δημιουργία OTS - Δημιουργία αρχείου OTS στο Python
-description: Aspose Excel. Python Δημιουργία αρχείου OTS. Δημιουργία OTS Python. Python OTS Creater. Δημιουργήστε OTS στο Python. Δημιουργήστε αρχείο OTS χρησιμοποιώντας το Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Create OTS Python., Python OTS Creater., Create OTS file in Python., Generate OTS file in Python]
+description:  Aspose Excel. Python Δημιουργήστε αρχείο OTS γρήγορα και εύκολα με το Aspose.Cells. Δημιουργήστε αρχείο OTS χρησιμοποιώντας το Python. Δημιουργήστε OTS στο Python. Python OTS Creater.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Create OTS file., Generate OTS file in Python., Create OTS file using Python., Write data to OTS file via Python., Create a OTS file in Python., Python Generate a OTS file., Python OTS Creater]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Δημιουργήστε αρχείο OTS στο Python" h2="Βιβλιοθήκη υψηλής ταχύτητας Python για τη δημιουργία αρχείου OTS. Χρησιμοποιήστε τη μετατροπή excel API για να αναπτύξετε λογισμικό υψηλού επιπέδου, ανεξάρτητο από πλατφόρμα στο Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="OTS" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -11,7 +11,7 @@ keywords: [Aspose Excel., Python Aspose.Cells., Create OTS Python., Python OTS C
 
 {{% blocks/products/pf/agp/content h2="Δημιουργήστε αρχείο OTS χρησιμοποιώντας το Python" %}}
 
- Πώς να δημιουργήσετε αρχείο OTS; Με τη βιβλιοθήκη Aspose.Cells for Python μέσω NET, μπορείτε εύκολα να δημιουργήσετε αρχείο OTS μέσω προγραμματισμού με λίγες γραμμές κώδικα.[Aspose.Cells for Python](https://pypi.org/project/aspose-cells-python/)έχει τη δυνατότητα δημιουργίας εφαρμογών πολλαπλών πλατφορμών με δυνατότητα δημιουργίας, τροποποίησης, μετατροπής, απόδοσης και εκτύπωσης όλων των αρχείων Excel. Python Το Excel API όχι μόνο μετατρέπει μεταξύ μορφών υπολογιστικών φύλλων, αλλά μπορεί επίσης να αποδώσει αρχεία Excel ως εικόνες, PDF, HTML, ODS, CSV, 07616031481, CSV, 07616831481, δημιουργώντας περισσότερα τέλεια επιλογή για την ανταλλαγή εγγράφων σε βιομηχανικά πρότυπα μορφές.
+ Πώς να δημιουργήσετε αρχείο OTS; Με τη βιβλιοθήκη Aspose.Cells for Python μέσω NET, μπορείτε εύκολα να δημιουργήσετε αρχείο OTS μέσω προγραμματισμού με λίγες γραμμές κώδικα.[Aspose.Cells for Python](https://pypi.org/project/aspose-cells-python/)έχει τη δυνατότητα δημιουργίας εφαρμογών πολλαπλών πλατφορμών με δυνατότητα δημιουργίας, τροποποίησης, μετατροπής, απόδοσης και εκτύπωσης όλων των αρχείων Excel. Python Το Excel API όχι μόνο μετατρέπει μεταξύ μορφών υπολογιστικών φύλλων, αλλά μπορεί επίσης να αποδώσει αρχεία Excel ως εικόνες, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT και άλλα, καθιστώντας έτσι την τέλεια επιλογή για την ανταλλαγή εγγράφων σε βιομηχανικές τυποποιημένες μορφές.
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -21,7 +21,7 @@ keywords: [Aspose Excel., Python Aspose.Cells., Create OTS Python., Python OTS C
 
 {{% blocks/products/pf/agp/text %}}
 
- Είναι εύκολο για τους προγραμματιστές να δημιουργήσουν, να φορτώσουν, να τροποποιήσουν και να μετατρέψουν αρχεία OTS μέσα σε διαφορετικές εφαρμογές αναφοράς για επεξεργασία δεδομένων σε λίγες μόνο γραμμές κώδικα.
+Είναι εύκολο για τους προγραμματιστές να δημιουργήσουν, να φορτώσουν, να τροποποιήσουν και να μετατρέψουν αρχεία OTS μέσα σε διαφορετικές εφαρμογές αναφοράς για επεξεργασία δεδομένων σε λίγες μόνο γραμμές κώδικα.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -62,7 +62,7 @@ workbook.save("output.ots")
 Φιλοξενούμε τα πακέτα μας Python στα αποθετήρια PyPi.
 
 {{% blocks/products/pf/agp/text %}}
-Εγκαταστήστε το Aspose.Cells for Python από<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , χρησιμοποιήστε την εντολή ως:<code>$ pip install aspose-cells-python</code>.
+ Εγκαταστήστε το Aspose.Cells for Python από<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , χρησιμοποιήστε την εντολή ως:<code>$ pip install aspose-cells-python</code>.
 {{% /blocks/products/pf/agp/text %}}
 
 {{% blocks/products/pf/agp/text %}}

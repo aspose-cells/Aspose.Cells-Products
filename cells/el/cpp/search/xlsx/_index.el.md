@@ -2,6 +2,7 @@
 title:  Αναζητήστε το έγγραφο XLSX χωρίς να το ανοίξετε μέσω του C++
 weight: 9280
 description: C++ παράδειγμα κώδικα για αναζήτηση λέξεων με μοτίβο στο αρχείο XLSX στο C++ Runtime Environment για Windows 32 bit, Windows 64 bit και Linux 64 bit.
+keywords: [C++ Aspose.Cells., C++ search words with pattern in XLSX file., C++ find words with pattern in XLSX file., C++ search string with pattern in XLSX file., C++ find words with pattern in XLSX file., C++ search words in excel file., C++ find words in excel file., C++ search string in excel file., C++ find string in excel file]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Αναζήτηση XLSX Μορφές στο C++" h2="Εγγενής και υψηλής απόδοσης αναζήτηση εγγράφων XLSX χρησιμοποιώντας API Aspose.Cells for C++ από την πλευρά του διακομιστή, χωρίς τη χρήση λογισμικού όπως το Microsoft ή το Adobe PDF." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" sourceAdditionalConversionTag="" additionalConversionTag="" pfName="Aspose.Cells" subTitlepfName="for C++" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="XLSX" >}}
@@ -37,15 +38,15 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% blocks/products/pf/agp/text %}}
 
- Μια βασική αναζήτηση εγγράφων χρησιμοποιώντας Aspose.Cells API μπορεί να γίνει με λίγες μόνο γραμμές κώδικα.
+ Μια βασική αναζήτηση εγγράφων χρησιμοποιώντας API Aspose.Cells μπορεί να γίνει με λίγες μόνο γραμμές κώδικα.
 
 {{% /blocks/products/pf/agp/text %}}
 
-Φόρτωση αρχείου XLSX δημιουργώντας μια κλάση IWorkbook.
-+ Instantiate class IReplaceOptions.
++ Φόρτωση αρχείου XLSX δημιουργώντας μια κλάση βιβλίου εργασίας.
++ Instantiate ReplaceOptions class.
 + Ορισμός απαιτούμενου μοτίβου όπως SetCaseSensitive (τιμή bool), SetMatchEntireCellContents (τιμή bool) .
-+ Χρησιμοποιήστε τη μέθοδο IWorkbook->Replace(..) με σχετικές επιλογές.
-+ Αποθήκευση αρχείου XLSX χρησιμοποιώντας τη μέθοδο IWorkbook->Save(.).
+Χρησιμοποιήστε τη μέθοδο Workbook::Replace(...) με σχετικές επιλογές.
++ Αποθήκευση αρχείου XLSX χρησιμοποιώντας τη μέθοδο Workbook::Save(...).
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -66,29 +67,33 @@ PM> Install-Package Aspose.Cells.Cpp
 
 ```cs
 
+Aspose::Cells::Startup();
+
 // Source directory path.
-StringPtr srcDir = new String("SourcePath\\");
+U16String srcDir(u"SourcePath\\");
 
 // Output directory path.
-StringPtr outDir = new String("OutputPath\\");
+U16String outDir(u"OutputPath\\");
 
 // Load XLSX file
-intrusive_ptr<IWorkbook>  wkb = Factory::CreateIWorkbook(srcDir->StringAppend(new String("sourceFile.xlsx")));
+Workbook  wkb(srcDir + u"sourceFile.xlsx");
 
 // Create an instance of the IReplaceOptions class
-intrusive_ptr<IReplaceOptions> replaceOptions = Factory::CreateIReplaceOptions();
+ReplaceOptions replaceOptions;
 
 // Set case sensitivity option
-replaceOptions->SetCaseSensitive(false);
+replaceOptions.SetCaseSensitive(false);
 
 // Set text matching option
-replaceOptions->SetMatchEntireCellContents(false);
+replaceOptions.SetMatchEntireCellContents(false);
 
 // Replace text
-wkb->Replace(new String("Text to find"), new String("Text replacement"), replaceOptions);
+wkb.Replace(u"Text to find", u"Text replacement", replaceOptions);
 
 // Save as XLSX file
-wkb->Save(outDir->StringAppend(new String("outputFile.xlsx")));  
+wkb.Save(outDir + u"outputFile.xlsx");
+
+Aspose::Cells::Cleanup();
 
 ```
 
@@ -119,7 +124,7 @@ wkb->Save(outDir->StringAppend(new String("outputFile.xlsx")));
     {{< /blocks/products/pf/agp/demobox >}}
 
     {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLSX " readMoreLink="https://docs.fileformat.com/spreadsheet/xlsx/" >}}
-Το XLSX είναι γνωστή μορφή για έγγραφα Excel Microsoft που εισήχθη από τον Microsoft με την κυκλοφορία του Microsoft Office 2007. Βάσει δομής οργανωμένης σύμφωνα με τις Συμβάσεις Ανοιχτής Συσκευασίας όπως περιγράφεται στο Μέρος 2 του νέου προτύπου OOX37 είναι το πρότυπο ECMA ένα πακέτο zip που περιέχει έναν αριθμό αρχείων XML. Η υποκείμενη δομή και τα αρχεία μπορούν να εξεταστούν απλά αποσυμπιέζοντας το αρχείο .xlsx
+ Το XLSX είναι γνωστή μορφή για έγγραφα Excel Microsoft που εισήχθη από τον Microsoft με την κυκλοφορία του Microsoft Office 2007. Βάσει δομής οργανωμένης σύμφωνα με τις Συμβάσεις Ανοιχτής Συσκευασίας όπως περιγράφεται στο Μέρος 2 του νέου προτύπου OOX37 είναι το πρότυπο ECMA ένα πακέτο zip που περιέχει έναν αριθμό αρχείων XML. Η υποκείμενη δομή και τα αρχεία μπορούν να εξεταστούν απλά αποσυμπιέζοντας το αρχείο .xlsx
 
     {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 

@@ -2,6 +2,7 @@
 title:  Visa ODS Filformat via .NET
 weight: 130
 description: C# källkod för att ladda, rendera och visa ODS dokument på .NET Framework, .NET Core, Mono eller Xamarin Platforms.
+keywords: [C# Aspose.Cells., c# view ODS files., c# how to render ODS document., c# load and display ODS files., ODS File Viewer using C#]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="ODS Filvisare for .NET" h2="Visa Excel- och OpenOffice-kalkylblad som ODS utan att behöva Microsoft Excel eller Office Automation." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="ODS" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="ODS" >}}
@@ -43,7 +44,7 @@ PM> Install-Package Aspose.Cells
 
 1.  Ladda filen ODS i en instans av Workbook
 1.  Skapa en instans av HtmlSaveOptions och ställ in ExportHeadings-egenskapen till true
-1.  Spara ODS-filen i HTML-format med Workbook.Save-metoden
+1. Spara ODS-filen i HTML-format med Workbook.Save-metoden
 1.  Ladda resultant HTML i standardwebbläsaren med Process.Start
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

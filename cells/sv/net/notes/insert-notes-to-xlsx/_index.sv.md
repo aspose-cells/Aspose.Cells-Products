@@ -2,6 +2,7 @@
 title: Infoga anteckningar till XLSX fil via .NET
 url: /sv/net/notes/insert-notes-to-xlsx/ 
 description: Infoga anteckningar till XLSX med C#. Använd API exempelkod för att infoga anteckningar i .NET-applikationen.
+keywords: [C# Aspose.Cells., add XLSX notes., insert XLSX notes., access XLSX notes., remove XLSX notes., delete XLSX notes., add notes in XLSX., insert notes in XLSX., access notes in XLSX., remove notes in XLSX., delete notes in XLSX]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Infoga anteckningar i filen XLSX via C#" h2="Bygg din egen .NET-applikation för att manipulera kommentarer och författare i dokumentfiler med hjälp av API:er på serversidan." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSX" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="XLS" fileiconsmall2="XLSB" fileiconsmall3="XLSX" fileiconsmall4="XLSM" fileiconsmall5="ODS" >}}
@@ -11,7 +12,7 @@ description: Infoga anteckningar till XLSX med C#. Använd API exempelkod för a
 
 {{% blocks/products/pf/agp/content h2="Infoga anteckningar i XLSX fil med .NET" %}}
 
- Med Aspose.Cells for .NET-biblioteket kan du enkelt infoga anteckningar i XLSX-filen programmatiskt med några rader kod.[Aspose.Cells for .NET](https://products.aspose.com/cells/net)kan bygga plattformsoberoende applikationer med förmågan att generera, modifiera, konvertera, rendera och skriva ut alla Excel-filer. .NET Excel API konverterar inte bara mellan kalkylarksformat, det kan också rendera Excel-filer som bilder, PDF, HTML, ODS, ODS, CSV, 0761687481, 0761687481, vilket gör det till ett perfekt val, Pt utbyta dokument i branschstandard format. Öppen[NuGet](https://www.nuget.org/packages/aspose.cells) pakethanteraren, sök efter Aspose.Cells och installera. Du kan också använda följande kommando från Package Manager Console.
+ Med Aspose.Cells for .NET-biblioteket kan du enkelt infoga anteckningar i XLSX-filen programmatiskt med några rader kod.[Aspose.Cells for .NET](https://products.aspose.com/cells/net)kan bygga plattformsoberoende applikationer med förmågan att generera, modifiera, konvertera, rendera och skriva ut alla Excel-filer. .NET Excel API konverterar inte bara mellan kalkylarksformat, den kan också rendera Excel-filer som bilder, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT och mer, vilket gör det till ett perfekt val att utbyta dokument i industristandardformat. Öppen[NuGet](https://www.nuget.org/packages/aspose.cells) pakethanteraren, sök efter Aspose.Cells och installera. Du kan också använda följande kommando från Package Manager Console.
 
 {{% blocks/products/pf/agp/code-block title="Pakethanterarens konsolkommando" offSpacer="true" %}}
 

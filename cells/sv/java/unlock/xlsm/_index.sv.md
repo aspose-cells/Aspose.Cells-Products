@@ -2,6 +2,7 @@
 title:  Lås upp XLSM dokument via Java
 weight: 7700
 description: Java exempelkod för att låsa upp lösenordsskyddad XLSM fil på Java Runtime Environment för JSP/JSF Application och Desktop Applications.
+keywords: [Java Aspose.Cells., Java unlock XLSM files., Java how to unlock XLSM document., Java unprotect XLSM files., remove protection from XLSM files., decrypt XLSM Files using Java]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Lås upp XLSM Filer via Java" h2="Ta bort skyddet från Excel-kalkylblad inklusive XLSM-filen med hjälp av Java Library." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSM" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSM" >}}
@@ -73,7 +74,7 @@ description: Java exempelkod för att låsa upp lösenordsskyddad XLSM fil på J
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Lås upp XLSM filer via C#" offSpacer="" %}}
+{{% blocks/products/pf/agp/code-block title="Lås upp XLSM Filer via Java" offSpacer="" %}}
 
 ```cs
 

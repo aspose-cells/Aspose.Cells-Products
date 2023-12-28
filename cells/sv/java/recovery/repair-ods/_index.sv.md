@@ -1,8 +1,8 @@
 ---
-title: Java Reparera ods-fil - Reparera ods-fil online gratis
+title: Java Reparera ods - Återställ och fixa skadad ods-fil
 url: /sv/java/recovery/repair-ods/ 
-description: Aspose Excel. Java Aspose.Cells. Java Reparation ods fil. Gratis online ods reparationsverktyg. Reparera en skadad ods-fil. Återställ en skadad ods-fil i Java-applikationen.
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java Repair ods file., Free Online Repair a corrupted ods file., Java Recover ods file.]
+description: Java Aspose.Cells. Reparation ods. Fixa ods-fil. ods återställningsverktyg. ods korruption. Återställ ods-data. ods-filåterställning. Återställ skadad ods-fil.
+keywords: [Java Aspose.Cells., repair ods file., ods repair., recover corrupted ods file., repair corrupted ods., recover ods., fix ods file., ods corruption., restore ods data., ods file recovery., recover corrupted ods file.]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Reparera ODS fil i Java" h2="Bygg din egen Java-applikation för att reparera ods-filer med Java." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="ODS" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="" fileiconsmall1="XLS" fileiconsmall2="XLSB" fileiconsmall3="XLSX" fileiconsmall4="XLSM" fileiconsmall5="ODS" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java Repair od
 
 {{% blocks/products/pf/agp/content h2="Reparera ODS fil med Java" %}}
 
- Hur reparerar jag ods-filen? Med Aspose.Cells for Java-biblioteket kan du enkelt reparera ODS-filen programmatiskt med några rader kod.[Aspose.Cells for Java](https://products.aspose.com/cells/java) kan bygga plattformsoberoende applikationer med förmågan att generera, modifiera, konvertera, rendera och skriva ut alla Excel-filer. Java Excel API konverterar inte bara mellan kalkylarksformat, det kan också rendera Excel-filer som bilder, PDF, HTML, ODS, ODS, CSV, 0761687481, 0761687481, vilket gör det till ett perfekt val, Pt utbyta dokument i branschstandard format. Du kan ladda ner den senaste versionen direkt från[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) och installera det i ditt Maven-baserade projekt genom att lägga till följande konfigurationer till pom.xml.
+ Hur reparerar jag ods-filen? Med Aspose.Cells for Java-biblioteket kan du enkelt reparera ODS-filen programmatiskt med några rader kod.[Aspose.Cells for Java](https://products.aspose.com/cells/java)kan bygga plattformsoberoende applikationer med förmågan att generera, modifiera, konvertera, rendera och skriva ut alla Excel-filer. Java Excel API konverterar inte bara mellan kalkylarksformat, den kan också rendera Excel-filer som bilder, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT och mer, vilket gör det till ett perfekt val att utbyta dokument i industristandardformat. Du kan ladda ner den senaste versionen direkt från[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) och installera det i ditt Maven-baserade projekt genom att lägga till följande konfigurationer till pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Förvar" offSpacer="true" %}}
 
@@ -60,7 +60,7 @@ Behöver du reparera ods-filen programmatiskt? Java-utvecklare kan enkelt ladda 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-recovery title="Gratis app och provkod för att reparera ODS fil online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et" InputFormat="ods" outformat="ods" IsLandingPage="true" language="java" %}}    
+{{% cells-recovery title="Provkod för att reparera filen ODS" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et" InputFormat="ods" outformat="ods" IsLandingPage="true" language="java" %}}    
     
 {{% blocks/products/pf/agp/content h2="Java bibliotek för att reparera ODS fil" %}}
 

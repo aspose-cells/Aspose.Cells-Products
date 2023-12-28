@@ -2,6 +2,7 @@
 title:  Få bilder/bildstorlek i Excel via .NET
 weight: 10
 description: C# källkod för att få bilder/bildstorlek i Excel på .NET Framework, .NET Core, Mono eller Xamarin Platforms.
+keywords: [C# Aspose.Cells., c# Get Images/Pictures Size In Excel., c# Obtain Images/Pictures Size In Excel., c# Access Images/Pictures Size In Excel]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Få bilder/bildstorlek i Excel via .NET" h2="Använda Aspose.Cells\' API för att arbeta med olika objekt utan någon programvara som Microsoft eller Open Office, Adobe PDF, etc." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="XLSX" >}}
@@ -48,7 +49,7 @@ Du behöver aspose.cells.dll för att prova följande arbetsflöde i din egen mi
     + [Bredd](https://reference.aspose.com/cells/net/aspose.cells.drawing/shape/width/) Representerar formens bredd i pixelenhet.
     + [Höjd](https://reference.aspose.com/cells/net/aspose.cells.drawing/shape/height/) Representerar formhöjden, i pixelenhet.
     + [OriginalWidth](https://reference.aspose.com/cells/net/aspose.cells.drawing/picture/originalwidth/) Får bildens ursprungliga bredd, i pixelenhet.
-    + [Originalhöjd](https://reference.aspose.com/cells/net/aspose.cells.drawing/picture/originalheight/) Får bildens ursprungliga höjd, i pixelenhet.
+    + [Originalhöjd](https://reference.aspose.com/cells/net/aspose.cells.drawing/picture/originalheight/)Får bildens ursprungliga höjd, i pixelenhet.
 
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
@@ -92,7 +93,7 @@ Det finns också två storleksrelaterade attribut 'WidthScale' och 'HeightScale'
 
 {{% blocks/products/pf/agp/content h2="Om Aspose.Cells for .NET API" %}}
 
- Aspose.Cells API kan användas för att skapa, redigera, konvertera och rendera Microsoft Excel-format till olika format. Dessutom kan den användas för omfattande kartläggning, skalbar rapportering och tillförlitliga beräkningar inom mjukvaruapplikationer. Aspose.Cells är en fristående API och den kräver ingen programvara som Microsoft eller OpenOffice.
+Aspose.Cells API kan användas för att skapa, redigera, konvertera och rendera Microsoft Excel-format till olika format. Dessutom kan den användas för omfattande kartläggning, skalbar rapportering och tillförlitliga beräkningar inom mjukvaruapplikationer. Aspose.Cells är en fristående API och den kräver ingen programvara som Microsoft eller OpenOffice.
 
 {{% /blocks/products/pf/agp/content %}}
 

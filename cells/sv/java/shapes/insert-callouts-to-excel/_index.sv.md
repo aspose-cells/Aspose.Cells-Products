@@ -2,6 +2,7 @@
 title:  Infoga bildtexter i Excel via Java
 weight: 360
 description: Infoga objekt med Aspose.Cells' Java API utan någon programvara som Microsoft eller Open Office, Adobe PDF, etc.
+keywords: [Java Aspose.Cells., Java add Callouts shape., Java insert Callouts shape., Java create Callouts shape]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Infoga bildtexter i Excel via Java" h2="Infoga bildtexter med Aspose.Cells\' API utan någon programvara som Microsoft eller Open Office, Adobe PDF, etc." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSX" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="" fileiconsmall1="PPTX" fileiconsmall2="DOCX" fileiconsmall3="XLSX" fileiconsmall4="PDF" fileiconsmall5=" ODP " >}}
@@ -56,9 +57,9 @@ description: Infoga objekt med Aspose.Cells' Java API utan någon programvara so
 
 {{% /blocks/products/pf/agp/text %}}
 
-Instantiera ett arbetsboksobjekt.(eller->Läs in XLSX-filen med fullständig sökväg.)
++ Instantiera ett arbetsboksobjekt.(eller->Läs in XLSX-filen med fullständig sökväg.)
 + Välj kalkylblad via dess index.
- + Använd[lägga till metod](https://reference.aspose.com/cells/java/com.aspose.cells/shapecollection/#addAutoShape-int-int-int-int-int-int-int-)för att infoga bildtexter i det valda kalkylbladet
+ + Använd[lägga till metod](https://reference.aspose.com/cells/java/com.aspose.cells/shapecollection/#addAutoShape-int-int-int-int-int-int-int-) för att infoga bildtexter i det valda kalkylbladet
 + Spara arbetsboken i XLSX-format.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
@@ -90,7 +91,7 @@ Exempelkoden nedan visar hur man infogar en "Thought Bubble: Cloud". För fler t
  <div class="row">
   <div class="container">
    <h2 class="pr-ft">
-Översikt över bildtexttyper
+ Översikt över bildtexttyper
    </h2>
    <div class="col-lg-4">
     <!--em class="fa fa-chrome ico-blue fa-2x col-lg-2">

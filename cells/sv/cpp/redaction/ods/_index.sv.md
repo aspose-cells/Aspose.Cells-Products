@@ -2,6 +2,7 @@
 title:  Sök och ersätt text i ODS dokument via C++
 weight: 1610
 description: C++ exempelkod för att redigera känslig information i filen ODS på C++ Runtime Environment för Windows 32 bitar, Windows 64 bitar och Linux 64 bitar.
+keywords: [C++ Aspose.Cells., C++ Search and replace text in ODS file., C++ redact ODS file., C++ edit ODS file., C++ ODS file redaction., C++ Search and replace string in ODS file]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Redigera ODS-format i C++" h2="Inbyggd och högpresterande ODS dokumentkänslig redaktionsinformation med hjälp av Aspose.Cells for C++ API:er på serversidan, utan användning av någon programvara som Microsoft eller Adobe PDF." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" sourceAdditionalConversionTag="" additionalConversionTag="" pfName="Aspose.Cells" subTitlepfName="for C++" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="ODS" >}}
@@ -48,7 +49,7 @@ PM> Install-Package Aspose.Cells.Cpp
 + Ställ in skiftlägeskänslighet.
 + Ställ in textmatchningsalternativ
 + Ersätt text med metoden Ersätt(...).
-Spara arbetsboken.
++ Spara arbetsboken.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -68,29 +69,25 @@ Spara arbetsboken.
 {{% blocks/products/pf/agp/code-block title="Redagera ODS Filer - C++" offSpacer="" %}}
 
 ```cs
-// Source directory path.
-StringPtr srcDir = new String("SourceFolder\\");
 
-// Output directory path.
-StringPtr outDir = new String("OutputFolder\\");
+Aspose::Cells::Startup();
 
 // Load ODS file
-intrusive_ptr<IWorkbook>  workbook = Factory::CreateIWorkbook(srcDir->StringAppend(new String("book1.ods")));
-
-// Create an instance of the IReplaceOptions class
-intrusive_ptr<IReplaceOptions> replaceOptions = Factory::CreateIReplaceOptions();
-
-// Set case sensitivity option
-replaceOptions->SetCaseSensitive(false);
-
+Workbook wb(u"Input.ods");
+//Create an instance of the ReplaceOptions class
+ReplaceOptions replaceOptions;
 // Set text matching option
-replaceOptions->SetMatchEntireCellContents(false);
-
+replaceOptions.SetRegexKey(true);
+// Set case sensitivity option
+replaceOptions.SetCaseSensitive(false);
+// Set text matching option
+replaceOptions.SetMatchEntireCellContents(false);
 // Replace text
-workbook->Replace(new String("Text to find"), new String("Text replacement"), replaceOptions);
-
+wb.Replace(u"\bKIM\b", u"^^^^^^^^", replaceOptions);
 // Save as ODS file
-workbook->Save(outDir->StringAppend(new String("book1_out.ods")));
+wb.Save("output.ods");
+
+Aspose::Cells::Cleanup();
 
 ```
 
@@ -117,7 +114,7 @@ workbook->Save(outDir->StringAppend(new String("book1_out.ods")));
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Du behöver inte ladda ner Aspose API." >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Du behöver inte skriva någon kod." >}}
         {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Ladda bara upp dina ODS-filer." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-download" text=" Den kommer att redigeras omedelbart." >}}
+        {{< blocks/products/pf/agp/democard icon="fa-download" text="Den kommer att redigeras omedelbart." >}}
     {{< /blocks/products/pf/agp/demobox >}}
 
     {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="ODS" readMoreLink="https://docs.fileformat.com/spreadsheet/ods/" >}}

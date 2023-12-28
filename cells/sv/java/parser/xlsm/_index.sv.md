@@ -2,6 +2,7 @@
 title:  Extrahera text och bilder från XLSM dokument via Java
 weight: 3260
 description: Java exempelkod för att extrahera text och bilder från XLSM fil på Java Runtime Environment för JSP/JSF Application och Desktop Applications.
+keywords: [Java Aspose.Cells., Java Extract text and images from XLSM file., Java How to Parse XLSM File., Java Extract text from XLSM file., Extract images from XLSM file using Java]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Analysera XLSM format i Java" h2="Inbyggd och högpresterande XLSM-dokumenttolkning med hjälp av API:er på serversidan Aspose.Cells for Java, utan användning av någon programvara som Microsoft eller Adobe PDF." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="XLSM" >}}
@@ -63,7 +64,7 @@ description: Java exempelkod för att extrahera text och bilder från XLSM fil p
 + Välj det begärda arket med metoden getWorksheets().get.
 + Hämta alla celler i det valda arket med getCells().
 + Iterera över varje cell, hämta dess text .
-Skriv ut varje cellvärde eller använd StringBuilder append()-metoden för att se som en helhet
++ Skriv ut varje cellvärde eller använd StringBuilder append()-metoden för att se som en helhet
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

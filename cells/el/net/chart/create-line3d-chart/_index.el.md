@@ -1,6 +1,7 @@
 ---
 title: Δημιουργήστε τρισδιάστατα γραμμικά γραφήματα μέσω του C#
 description: C# Δείγμα κώδικα για τη δημιουργία γραφημάτων τρισδιάστατης γραμμής στο Excel χρησιμοποιώντας τη Βιβλιοθήκη .NET. Χρησιμοποιήστε αυτόν τον κώδικα για τη δημιουργία ενός γραφήματος τρισδιάστατης γραμμής στο MS Excel εντός των VB.NET, Asp.NET ή οποιασδήποτε εφαρμογής που βασίζεται στο .NET.
+keywords: [C# Aspose.Cells., c# add 3D Line Chart., c# insert 3D Line Chart., c# create 3D Line Chart., c# add Line3D Chart., c# insert Line3D Chart., c# create Line3D Chart]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 

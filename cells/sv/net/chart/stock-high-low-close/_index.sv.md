@@ -1,6 +1,7 @@
 ---
 title: Skapa hög-låg-stäng aktiediagram via C#
 description: C# Exempelkod för att skapa High-Low-Close Aktiediagram till Excel med hjälp av .NET Library. Använd den här koden för att skapa ett High-Low-Close Aktiediagram till MS Excel inom VB.NET, Asp.NET eller någon .NET-baserad applikation.
+keywords: [C# Aspose.Cells., c# add High-Low-Close Stock Chart., c# insert High-Low-Close Stock Chart., c# create High-Low-Close Stock Chart]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 

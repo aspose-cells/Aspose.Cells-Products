@@ -1,7 +1,7 @@
 ---
-title: Java FODS till SQL - Online FODS till SQL Converter
-description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Gratis Online Java Konvertera FODS till SQL saveformat. Java FODS till SQL-format. Spara FODS till SQL Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java FODS to SQL saveformat., Free Online FODS to SQL Java., Java Convert FODS to SQL]
+title: Java FODS till SQL - FODS till SQL Converter
+description: Aspose Excel. Konvertera FODS till SQL snabbt och enkelt med Aspose.Cells. Java FODS till SQL. Java Spara FODS till SQL. Spara FODS som SQL med Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Convert FODS to SQL in Java., Save FODS to SQL using Java., Java FODS to SQL saveformat., FODS to SQL Converter., Java Save FODS as SQL]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Konvertera FODS till SQL i Java" h2="Höghastighets Java-bibliotek för att konvertera FODS till SQL. Detta är en professionell mjukvarulösning för att importera och exportera FODS, SQL och många andra format med Java." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="SQL" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java FODS to S
 
 {{% blocks/products/pf/agp/content h2="Konvertera FODS till SQL med Java" %}}
 
- Hur konverterar jag FODS till SQL? Med Aspose.Cells for Java bibliotek kan du enkelt konvertera FODS till SQL programmatiskt med några rader kod.[Aspose.Cells for Java](https://products.aspose.com/cells/java) kan bygga plattformsoberoende applikationer med förmågan att generera, modifiera, konvertera, rendera och skriva ut alla Excel-filer. Java Excel API konverterar inte bara mellan kalkylarksformat, det kan också rendera Excel-filer som bilder, PDF, HTML, ODS, ODS, CSV, 0761687481, 0761687481, vilket gör det till ett perfekt val, Pt utbyta dokument i branschstandard format. Du kan ladda ner den senaste versionen direkt från[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) och installera det i ditt Maven-baserade projekt genom att lägga till följande konfigurationer till pom.xml.
+ Hur konverterar jag FODS till SQL? Med Aspose.Cells for Java bibliotek kan du enkelt konvertera FODS till SQL programmatiskt med några rader kod.[Aspose.Cells for Java](https://products.aspose.com/cells/java)kan bygga plattformsoberoende applikationer med förmågan att generera, modifiera, konvertera, rendera och skriva ut alla Excel-filer. Java Excel API konverterar inte bara mellan kalkylarksformat, den kan också rendera Excel-filer som bilder, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT och mer, vilket gör det till ett perfekt val att utbyta dokument i industristandardformat. Du kan ladda ner den senaste versionen direkt från[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) och installera det i ditt Maven-baserade projekt genom att lägga till följande konfigurationer till pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Förvar" offSpacer="true" %}}
 
@@ -45,7 +45,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java FODS to S
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Spara FODS till SQL i Java online gratis" %}}
+{{% blocks/products/pf/agp/content h2="Spara FODS till SQL i Java" %}}
 
 Följande exempel visar hur man konverterar FODS till SQL i Java.
 {{% blocks/products/pf/agp/text %}}
@@ -56,7 +56,7 @@ Följ de enkla stegen för att konvertera FODS till SQL. Ladda upp din FODS-fil 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Gratis app och exempelkod för att konvertera FODS till SQL Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="fods" outformat="sql" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Exempelkod för att konvertera FODS till SQL" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="fods" outformat="sql" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="Hur man konverterar FODS till SQL via Java" %}}
 
@@ -68,7 +68,7 @@ Behöver du konvertera FODS-filer till SQL programmatiskt? Java-utvecklare kan e
 
 1.  Installera 'Aspose.Cells for Java'.
 1.  Lägg till en biblioteksreferens (importera biblioteket) till ditt Java-projekt.
-1.  Ladda FODS-filen med en instans av Workbook-klassen.
+1. Ladda FODS-filen med en instans av Workbook-klassen.
 1.  Konvertera FODS till SQL genom att anropa Workbook.save-metoden.
 1.  Få konverteringsresultatet från FODS till SQL.
 

@@ -1,7 +1,7 @@
 ---
-title: Python EXCEL till SQL - Online EXCEL till SQL-konverterare
-description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Gratis online Python Konvertera EXCEL till SQL saveformat. Python EXCEL till SQL-format. Spara EXCEL till SQL Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python EXCEL to SQL saveformat., Free Online EXCEL to SQL Python., Python Convert EXCEL to SQL]
+title: Python EXCEL till SQL - EXCEL till SQL Converter
+description: Aspose Excel. Konvertera EXCEL till SQL snabbt och enkelt med Aspose.Cells. Python EXCEL till SQL. Python Spara EXCEL till SQL. Spara EXCEL som SQL med Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Convert EXCEL to SQL in Python., Save EXCEL to SQL using Python., Python EXCEL to SQL saveformat., EXCEL to SQL Converter., Python Save EXCEL as SQL]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Konvertera EXCEL till SQL i Python" h2="Höghastighetsbibliotek Python för konvertering av EXCEL till SQL. Detta är en professionell mjukvarulösning för att importera och exportera EXCEL, SQL och många andra format med Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="SQL" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,13 +12,13 @@ keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python EXC
 
 {{% blocks/products/pf/agp/content h2="Konvertera EXCEL till SQL med Python" %}}
 
- Hur konverterar jag EXCEL till SQL? Med Aspose.Cells for Python bibliotek kan du enkelt konvertera EXCEL till SQL programmatiskt med några rader kod.[Aspose.Cells for Python](https://pypi.org/project/aspose-cells)kan bygga plattformsoberoende applikationer med förmågan att generera, modifiera, konvertera, rendera och skriva ut alla Excel-filer. Python Excel API konverterar inte bara mellan kalkylarksformat, det kan också rendera Excel-filer som bilder, PDF, HTML, ODS, ODS, CSV, 0761687481, 0761687481, vilket gör det till ett perfekt val, Pt utbyta dokument i branschstandard format.
+ Hur konverterar jag EXCEL till SQL? Med Aspose.Cells for Python bibliotek kan du enkelt konvertera EXCEL till SQL programmatiskt med några rader kod.[Aspose.Cells for Python](https://pypi.org/project/aspose-cells)kan bygga plattformsoberoende applikationer med förmågan att generera, modifiera, konvertera, rendera och skriva ut alla Excel-filer. Python Excel API konverterar inte bara mellan kalkylarksformat, den kan också rendera Excel-filer som bilder, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT och mer, vilket gör det till ett perfekt val att utbyta dokument i industristandardformat.
  
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Spara EXCEL till SQL i Python Online gratis" %}}
+{{% blocks/products/pf/agp/content h2="Spara EXCEL till SQL i Python" %}}
 
-Följande exempel visar hur man konverterar EXCEL till SQL i Python.
+Följande exempel visar hur du konverterar EXCEL till SQL i Python.
 {{% blocks/products/pf/agp/text %}}
 
 Följ de enkla stegen för att konvertera EXCEL till SQL. Ladda upp din EXCEL-fil och spara den sedan som SQL-fil. För både EXCEL-läsning och SQL-skrivning kan du använda fullt kvalificerade filnamn. Utdatat SQL-innehåll och formatering kommer att vara identisk med det ursprungliga EXCEL-dokumentet.
@@ -27,7 +27,7 @@ Följ de enkla stegen för att konvertera EXCEL till SQL. Ladda upp din EXCEL-fi
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Gratis app och exempelkod för att konvertera EXCEL till SQL Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsx" outformat="sql" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="Exempelkod för att konvertera EXCEL till SQL" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsx" outformat="sql" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="Hur man konverterar EXCEL till SQL via Python" %}}
 
@@ -63,12 +63,12 @@ Det finns tre alternativ för att installera "Aspose.Cells for Python via Java" 
 
 {{% blocks/products/pf/agp/text %}}
 
-Aspose.Cells for Python via Java är plattformsoberoende API och kan användas på vilken plattform som helst (Windows, Linux och MacOS), se bara till att systemet har Java 1.8 eller högre,[Python](https://www.python.org/downloads/) 3,5 eller högre.
+ Aspose.Cells for Python via Java är plattformsoberoende API och kan användas på vilken plattform som helst (Windows, Linux och MacOS), se bara till att systemet har Java 1.8 eller högre,[Python](https://www.python.org/downloads/) 3,5 eller högre.
  
 {{% /blocks/products/pf/agp/text %}}
 
 -  Installera Java och lägg till den i PATH miljövariabel, till exempel:<code>PATH=C:\Program Files\Java\jdk1.8.0_131;</code>.
-- Installera Aspose.Cells for Python från<a href="https://pypi.org/project/aspose-cells/">pypi</a> , använd kommandot som:<code>$ pip install aspose-cells</code>.
+-  Installera Aspose.Cells for Python från<a href="https://pypi.org/project/aspose-cells/">pypi</a> , använd kommandot som:<code>$ pip install aspose-cells</code>.
 
 {{% /blocks/products/pf/agp/content %}}
 

@@ -2,6 +2,7 @@
 title:  Lås upp XLSX dokument via .NET
 weight: 2040
 description: C# källkod för att låsa upp lösenordsskyddad XLSX-fil på .NET Framework, .NET Core, Mono eller Xamarin-plattformar.
+keywords: [C# Aspose.Cells., c# unlock XLSX files., c# how to unlock XLSX document., c# unprotect XLSX files., remove protection from XLSX files., decrypt XLSX Files using C#]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Lås upp XLSX Kalkylblad via C#" h2="Ta bort skyddet från XLSX med .NET-biblioteket." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSX" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}

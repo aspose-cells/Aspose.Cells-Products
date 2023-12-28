@@ -1,7 +1,7 @@
 ---
 title: Δημιουργία XPS - Δημιουργία αρχείου XPS στο Java
-description: Aspose Excel. Java Δημιουργία αρχείου XPS. Δημιουργία XPS Java. Java XPS Δημιουργός. Δημιουργήστε το XPS στο Java. Δημιουργήστε το αρχείο XPS χρησιμοποιώντας το Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Create XPS Java., Java XPS Creater., Create XPS file in Java., Generate XPS file in Java]
+description: Aspose Excel. Java Δημιουργία XPS Αρχειοθέτηση γρήγορα και εύκολα με το Aspose.Cells. Δημιουργήστε το αρχείο XPS χρησιμοποιώντας το Java. Δημιουργήστε το XPS στο Java. 0714074.
+keywords: [Aspose Excel., Java Aspose.Cells., Java Create XPS file., Generate XPS file in Java., Create XPS file using Java., Write data to XPS file via Java., Create a XPS file in Java., Java Generate a XPS file., Java XPS Creater]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Δημιουργήστε αρχείο XPS στο Java" h2="Βιβλιοθήκη υψηλής ταχύτητας Java για τη δημιουργία αρχείου XPS. Αυτή είναι μια επαγγελματική λύση λογισμικού για εισαγωγή και εξαγωγή XLSX, PDF και πολλών άλλων μορφών χρησιμοποιώντας το Java." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="XPS" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -11,7 +11,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Create XPS Java., Java XPS Creater
 
 {{% blocks/products/pf/agp/content h2="Δημιουργήστε το αρχείο XPS χρησιμοποιώντας το Java" %}}
 
- Πώς να δημιουργήσετε το αρχείο XPS; Με τη βιβλιοθήκη Aspose.Cells for Java, μπορείτε εύκολα να δημιουργήσετε το αρχείο XPS μέσω προγραμματισμού με μερικές γραμμές κώδικα.[Aspose.Cells for Java](https://products.aspose.com/cells/java) έχει τη δυνατότητα δημιουργίας εφαρμογών πολλαπλών πλατφορμών με δυνατότητα δημιουργίας, τροποποίησης, μετατροπής, απόδοσης και εκτύπωσης όλων των αρχείων Excel. Java Το Excel API όχι μόνο μετατρέπει μεταξύ μορφών υπολογιστικών φύλλων, αλλά μπορεί επίσης να αποδώσει αρχεία Excel ως εικόνες, PDF, HTML, ODS, CSV, 07616031481, CSV, 07616831481, δημιουργώντας περισσότερα τέλεια επιλογή για την ανταλλαγή εγγράφων σε βιομηχανικά πρότυπα μορφές. Μπορείτε να κατεβάσετε την τελευταία του έκδοση απευθείας από[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) και εγκαταστήστε το στο έργο σας που βασίζεται στο Maven προσθέτοντας τις ακόλουθες διαμορφώσεις στο pom.xml.
+ Πώς να δημιουργήσετε το αρχείο XPS; Με τη βιβλιοθήκη Aspose.Cells for Java, μπορείτε εύκολα να δημιουργήσετε το αρχείο XPS μέσω προγραμματισμού με μερικές γραμμές κώδικα.[Aspose.Cells for Java](https://products.aspose.com/cells/java)έχει τη δυνατότητα δημιουργίας εφαρμογών πολλαπλών πλατφορμών με δυνατότητα δημιουργίας, τροποποίησης, μετατροπής, απόδοσης και εκτύπωσης όλων των αρχείων Excel. Java Το Excel API όχι μόνο μετατρέπει μεταξύ μορφών υπολογιστικών φύλλων, αλλά μπορεί επίσης να αποδώσει αρχεία Excel ως εικόνες, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT και άλλα, καθιστώντας έτσι την τέλεια επιλογή για την ανταλλαγή εγγράφων σε βιομηχανικές τυποποιημένες μορφές. Μπορείτε να κατεβάσετε την τελευταία του έκδοση απευθείας από[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) και εγκαταστήστε το στο έργο σας που βασίζεται στο Maven προσθέτοντας τις ακόλουθες διαμορφώσεις στο pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Αποθήκη" offSpacer="true" %}}
 
@@ -57,7 +57,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Create XPS Java., Java XPS Creater
 1.  Δημιουργήστε ένα παράδειγμα του[Τάξη βιβλίου εργασίας](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook).
 1.  Αποκτήστε πρόσβαση στο σχετικό φύλλο εργασίας χρησιμοποιώντας τη μέθοδο getWorksheets.get().
 1.  Επιλέξτε το σχετικό κελί, εισαγάγετε την τιμή στο επιθυμητό κελί χρησιμοποιώντας το όνομα κελιού, όπως A1, B3, κ.λπ.
-1.  Αποθηκεύστε το βιβλίο εργασίας σε μορφή XPS χρησιμοποιώντας τη μέθοδο save().
+1. Αποθηκεύστε το βιβλίο εργασίας σε μορφή XPS χρησιμοποιώντας τη μέθοδο save().
 
 {{% blocks/products/pf/agp/code-block title="Το δείγμα κώδικα δείχνει πώς να δημιουργήσετε το αρχείο XPS στο Java." offSpacer="" %}}
 
@@ -101,7 +101,7 @@ wkb.save("Excel.xps");
 
 {{% blocks/products/pf/agp/text %}}
 
-Πριν εκτελέσετε το δείγμα πηγαίου κώδικα μετατροπής Java, βεβαιωθείτε ότι διαθέτετε τις ακόλουθες προϋποθέσεις.
+ Πριν εκτελέσετε το δείγμα πηγαίου κώδικα μετατροπής Java, βεβαιωθείτε ότι διαθέτετε τις ακόλουθες προϋποθέσεις.
 
 {{% /blocks/products/pf/agp/text %}}
 

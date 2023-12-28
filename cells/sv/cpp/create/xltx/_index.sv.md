@@ -1,7 +1,7 @@
 ---
 title: Skapa XLTX - Skapa XLTX fil i C++
-description: Aspose Excel. C++ Skapa XLTX fil. Skapa XLTX C++. C++ XLTX Skapare. Skapa XLTX i C++. Generera filen XLTX med C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., Create XLTX C++., C++ XLTX Creater., Create XLTX file in C++., Generate XLTX file in C++]
+description: Aspose Excel. C++ Skapa XLTX Arkivera snabbt och enkelt med Aspose.Cells. Skapa XLTX fil med C++. Skapa XLTX i C++. 0761836481 Skapa C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ Create XLTX file., Generate XLTX file in C++., Create XLTX file using C++., Write data to XLTX file via C++., Create a XLTX file in C++., C++ Generate a XLTX file., C++ XLTX Creater]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Skapa XLTX-fil i C++" h2="Native och högpresterande XLTX-filskapande programmatiskt utan Micorsoft Office med C++-biblioteket." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLTX" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -11,7 +11,7 @@ keywords: [Aspose Excel., C++ Aspose.Cells., Create XLTX C++., C++ XLTX Creater.
 
 {{% blocks/products/pf/agp/content h2="Skapa XLTX-fil med C++" %}}
 
- Hur skapar man XLTX-fil? Med Aspose.Cells for C++-biblioteket kan du enkelt skapa XLTX-fil programmatiskt med några rader kod.[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) kan bygga plattformsoberoende applikationer med förmågan att generera, modifiera, konvertera, rendera och skriva ut alla Excel-filer. C++ Excel API konverterar inte bara mellan kalkylarksformat, det kan också rendera Excel-filer som bilder, PDF, HTML, ODS, ODS, CSV, 0761687481, 0761687481, vilket gör det till ett perfekt val, Pt utbyta dokument i branschstandard format. Du kan ladda ner den senaste versionen direkt, bara öppna[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) pakethanteraren, sök efter Aspose.Cells.Cpp och installera. Du kan också använda följande kommando från Package Manager Console.
+ Hur skapar man XLTX-fil? Med Aspose.Cells for C++-biblioteket kan du enkelt skapa XLTX-fil programmatiskt med några rader kod.[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) kan bygga plattformsoberoende applikationer med förmågan att generera, modifiera, konvertera, rendera och skriva ut alla Excel-filer. C++ Excel API konverterar inte bara mellan kalkylarksformat, den kan också rendera Excel-filer som bilder, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT och mer, vilket gör det till ett perfekt val att utbyta dokument i industristandardformat. Du kan ladda ner den senaste versionen direkt, bara öppna[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) pakethanteraren, sök efter Aspose.Cells.Cpp och installera. Du kan också använda följande kommando från Package Manager Console.
 
 {{% blocks/products/pf/agp/code-block title="Kommando" offSpacer="true" %}}
 
@@ -34,41 +34,47 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/text %}}
 
-1.  Skapa ett objekt av klassen IWorkbook.
-1.  Hämta det första arket i ett IWorksheet-objekt.
-1.  Använd metoden IWorksheet->GetICells() för att få cellerna i kalkylbladet till ett ICells-objekt.
-1. Använd metoden ICells->GetObjectByIndex() för att komma åt önskad cell i kalkylbladet till ett ICell-objekt.
-1.  Använd metoden ICell->PutValue() för att mata in värde i cellen.
+1.  Skapa ett objekt av klassen Workbook.
+1.  Få det första arket till ett kalkylbladsobjekt.
+1.  Använd metoden Worksheet.GetCells() för att få cellerna i kalkylbladet till ett Cells-objekt.
+1. Använd metoden Cells.Get() för att komma åt önskad cell i kalkylbladet till ett Cell-objekt.
+1.  Använd metoden Cell.PutValue() för att mata in värde i cellen.
 1.  Spara arbetsboken som .xltx-fil med metoden Save().
 
 {{% blocks/products/pf/agp/code-block title="Exempelkod visar hur man skapar XLTX-filen i C++." offSpacer="" %}}
 
 ```cs
+Aspose::Cells::Startup();
 
-// Create an object of the IWorkbook class.
-intrusive_ptr<IWorkbook> wkb = Factory::CreateIWorkbook();
+// Create an object of the Workbook class.
+Workbook wkb;
+// Get the first sheet into an Worksheet object.
+WorksheetCollection wsc = wkb.GetWorksheets();
+Worksheet ws = wsc.Get(0);
 
-// Get the first sheet into an IWorksheet object.
-intrusive_ptr<IWorksheetCollection> wsc = wkb->GetIWorksheets();
-intrusive_ptr<IWorksheet> ws = wsc->GetObjectByIndex(0);
 
-// Use IWorksheet->GetICells() method to get the cells of the worksheet into an ICells object.
-intrusive_ptr<ICells> cells = ws->GetICells();
+// Use Worksheet.GetCells() method to get the cells of the worksheet into an Cells object.
+Cells cells = ws.GetCells();
 
-// Use ICells->GetObjectByIndex() method to access the desired cell of the worksheet into an ICell object.
-intrusive_ptr<ICell> cell00 = cells->GetObjectByIndex(0, 0);
-intrusive_ptr<ICell> cell01 = cells->GetObjectByIndex(0, 1);
-intrusive_ptr<ICell> cell10 = cells->GetObjectByIndex(1, 0);
-intrusive_ptr<ICell> cell11 = cells->GetObjectByIndex(1, 1);
 
-// Use ICell->PutValue() method to input value into the cell.
-cell00->PutValue(new String("ColumnA"));
-cell01->PutValue(new String("ColumnB"));
-cell10->PutValue(new String("ValueA"));
-cell11->PutValue(new String("ValueB"));
+// Use Cells.Get() method to access the desired cell of the worksheet into an Cell object.
+Cell cell00 = cells.Get(0, 0);
+Cell cell01 = cells.Get(0, 1);
+Cell cell10 = cells.Get(1, 0);
+Cell cell11 = cells.Get(1, 1);
+
+
+// Use Cell.PutValue() method to input value into the cell.
+cell00.PutValue(u"ColumnA");
+cell01.PutValue(u"ColumnB");
+cell10.PutValue(u"ValueA");
+cell11.PutValue(u"ValueB");
+
 
 // Save workbook to resultFile folder
-wkb->Save(new String("created_one.xltx"));
+wkb.Save(u"created_one.xltx");
+
+Aspose::Cells::Cleanup();
 
 ```
 

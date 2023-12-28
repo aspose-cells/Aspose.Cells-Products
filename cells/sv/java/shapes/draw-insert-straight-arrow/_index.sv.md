@@ -2,6 +2,7 @@
 title:  Hur ritar eller infogar jag en rak pil i Excel via Java
 weight: 10
 description: Rita eller infoga raka pilobjekt med Aspose.Cells' Java API utan någon programvara som Microsoft eller Open Office, Adobe PDF, etc.
+keywords: [Java Aspose.Cells., Java add straight arrow., Java insert straight arrow., Java create straight arrow]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Infoga en rak pil i Excel via Java" h2="Infoga en rak pil med Aspose.Cells\' API utan någon programvara som Microsoft eller Open Office, Adobe PDF, etc." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSX" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="" fileiconsmall1="PPTX" fileiconsmall2="DOCX" fileiconsmall3="XLSX" fileiconsmall4="PDF" fileiconsmall5=" ODP " >}}
@@ -11,7 +12,7 @@ description: Rita eller infoga raka pilobjekt med Aspose.Cells' Java API utan n�
 
 {{% blocks/products/pf/agp/content h2="Hur man infogar en rak pil i Excel-fil med Java" %}}
 
- För att infoga en rak pil i excel-filen använder vi
+För att infoga en rak pil i excel-filen använder vi
  [Aspose.Cells for Java](https://products.aspose.com/cells/java) 
  API som är en funktionsrik, kraftfull och lättanvänd API for Java plattform. Du kan ladda ner den senaste versionen direkt från
  [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) 
@@ -56,7 +57,7 @@ description: Rita eller infoga raka pilobjekt med Aspose.Cells' Java API utan n�
 
 {{% /blocks/products/pf/agp/text %}}
 
-Instantiera ett arbetsboksobjekt.(eller->Läs in XLSX-filen med fullständig sökväg.)
++ Instantiera ett arbetsboksobjekt.(eller->Läs in XLSX-filen med fullständig sökväg.)
 + Välj kalkylblad via dess index.
  + Använd[lägga till metod](https://reference.aspose.com/cells/java/com.aspose.cells/shapecollection/#addLine-int-int-int-int-int-int-) för att infoga en rak pil i det valda kalkylbladet
 + Spara arbetsboken i XLSX-format.

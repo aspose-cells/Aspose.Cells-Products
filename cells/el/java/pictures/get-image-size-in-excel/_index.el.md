@@ -2,6 +2,7 @@
 title:  Λήψη μεγέθους εικόνων/εικόνων στο Excel via Java
 weight: 10
 description: Λαμβάνει το μέγεθος Εικόνων/Εικόνων στο Excel χρησιμοποιώντας Aspose.Cells' Java API χωρίς λογισμικό όπως Microsoft ή Open Office, Adobe PDF κ.λπ.
+keywords: [Java Aspose.Cells., Java Get Images/Pictures Size In Excel., Java Obtain Images/Pictures Size In Excel., Java Access Images/Pictures Size In Excel]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Λήψη μεγέθους εικόνων/εικόνων στο Excel via Java" h2="Χρησιμοποιώντας το Aspose.Cells\' API για εργασία με διάφορα αντικείμενα χωρίς λογισμικό όπως Microsoft ή Open Office, Adobe PDF κ.λπ." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSX" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="" fileiconsmall1="PPTX" fileiconsmall2="DOCX" fileiconsmall3="XLSX" fileiconsmall4="PDF" fileiconsmall5=" ODP " >}}
@@ -63,7 +64,7 @@ description: Λαμβάνει το μέγεθος Εικόνων/Εικόνων 
     + [Πλάτος](https://reference.aspose.com/cells/java/com.aspose.cells/picture/#getWidth--) Αντιπροσωπεύει το πλάτος του σχήματος, σε μονάδα pixel.
     + [Υψος](https://reference.aspose.com/cells/java/com.aspose.cells/picture/#getHeight--) Αντιπροσωπεύει το ύψος του σχήματος, σε μονάδα pixel.
     + [Αρχικό Πλάτος](https://reference.aspose.com/cells/java/com.aspose.cells/picture/#getOriginalWidth--) Λαμβάνει το αρχικό πλάτος της εικόνας, σε μονάδα pixel.
-    + [Αρχικό ύψος](https://reference.aspose.com/cells/java/com.aspose.cells/picture/#getOriginalHeight--) Λαμβάνει το αρχικό ύψος της εικόνας, σε μονάδα pixel.
+    + [Αρχικό ύψος](https://reference.aspose.com/cells/java/com.aspose.cells/picture/#getOriginalHeight--)Λαμβάνει το αρχικό ύψος της εικόνας, σε μονάδα pixel.
 
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

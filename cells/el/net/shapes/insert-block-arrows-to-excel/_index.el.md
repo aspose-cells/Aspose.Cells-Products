@@ -1,7 +1,8 @@
 ---
 title:  Εισαγάγετε τα βέλη μπλοκ στο Excel via .NET
 weight: 338
-description: C# πηγαίος κώδικας για την εισαγωγή Block Arrows στο Excel στις πλατφόρμες .NET Framework, .NET Core, Mono ή Xamarin.
+description: C# Δείγμα κώδικα για προσθήκη ή εισαγωγή βελών μπλοκ στο Excel χρησιμοποιώντας τη Βιβλιοθήκη .NET. Χρησιμοποιήστε αυτόν τον κώδικα για να δημιουργήσετε βέλη μπλοκ στο MS Excel εντός των VB.NET, Asp.NET ή οποιασδήποτε εφαρμογής που βασίζεται στο .NET.
+keywords: [C# Aspose.Cells., c# add block arrows., c# insert block arrows., c# create block arrows]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Εισαγάγετε τα βέλη μπλοκ στο Excel via .NET" h2="Εισαγάγετε Block Arrows χρησιμοποιώντας το Aspose.Cells\' API χωρίς λογισμικό όπως Microsoft ή Open Office, Adobe PDF κ.λπ." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="XLSX" >}}
@@ -11,7 +12,7 @@ description: C# πηγαίος κώδικας για την εισαγωγή Blo
 
 {{% blocks/products/pf/agp/content h2="Πώς να εισαγάγετε βέλη μπλοκ σε αρχείο Excel χρησιμοποιώντας το C#" %}}
 
-Για να εισαγάγουμε Block Arrows στο αρχείο excel, θα χρησιμοποιήσουμε
+ Για να εισαγάγουμε Block Arrows στο αρχείο excel, θα χρησιμοποιήσουμε
  [Aspose.Cells for .NET](https://products.aspose.com/cells/net) 
  API που είναι μια πλούσια σε χαρακτηριστικά, ισχυρή και εύχρηστη πλατφόρμα χειρισμού εγγράφων και διαχωριστή API για C#. Ανοιξε
  [NuGet](https://www.nuget.org/packages/aspose.cells) 
@@ -41,7 +42,7 @@ PM> Install-Package Aspose.Cells
 
 {{% /blocks/products/pf/agp/text %}}
 
-Δημιουργία αντικειμένου βιβλίου εργασίας.(ή->Φορτώστε το αρχείο XLSX με πλήρη διαδρομή.)
++ Δημιουργία αντικειμένου βιβλίου εργασίας.(ή->Φορτώστε το αρχείο XLSX με πλήρη διαδρομή.)
 + Επιλέξτε Φύλλο εργασίας μέσω του ευρετηρίου του.
  + Χρησιμοποιήστε το[μέθοδος προσθήκης](https://reference.aspose.com/cells/net/aspose.cells.drawing/shapecollection/addautoshape) για να εισαγάγετε Βέλη μπλοκ στο επιλεγμένο φύλλο εργασίας
 + Αποθήκευση βιβλίου εργασίας σε μορφή XLSX.
@@ -159,7 +160,7 @@ PM> Install-Package Aspose.Cells
    <div class="col-lg-4">
     <img src="/cells/net/shapes/insert-block-arrows-to-excel/arrow_curved_left.png" align="left" width="28" height="28">
     <p class="col-lg-10">
- AutoShapeType.CurvedLeftArrow
+AutoShapeType.CurvedLeftArrow
     </p>
    </div>
    <div class="col-lg-4">
@@ -219,7 +220,7 @@ PM> Install-Package Aspose.Cells
    <div class="col-lg-4">
     <img src="/cells/net/shapes/insert-block-arrows-to-excel/arrow_up_callout.png" align="left" width="28" height="28">
     <p class="col-lg-10">
-AutoShapeType.UpArrowCallout
+ AutoShapeType.UpArrowCallout
     </p>
    </div>
    <div class="col-lg-4">
@@ -253,7 +254,7 @@ AutoShapeType.UpArrowCallout
 
 {{% blocks/products/pf/agp/content h2="Σχετικά με Aspose.Cells for .NET API" %}}
 
- Aspose.Cells API μπορεί να χρησιμοποιηθεί για τη δημιουργία, επεξεργασία, μετατροπή και απόδοση μορφών Excel Microsoft σε διαφορετικές μορφές. Επιπλέον, μπορεί να χρησιμοποιηθεί για ολοκληρωμένη χαρτογράφηση, κλιμακούμενη αναφορά και αξιόπιστους υπολογισμούς εντός εφαρμογών λογισμικού. Το Aspose.Cells είναι ένα αυτόνομο API και δεν απαιτεί λογισμικό όπως το Microsoft ή το OpenOffice.
+Aspose.Cells API μπορεί να χρησιμοποιηθεί για τη δημιουργία, επεξεργασία, μετατροπή και απόδοση μορφών Excel Microsoft σε διαφορετικές μορφές. Επιπλέον, μπορεί να χρησιμοποιηθεί για ολοκληρωμένη χαρτογράφηση, κλιμακούμενη αναφορά και αξιόπιστους υπολογισμούς εντός εφαρμογών λογισμικού. Το Aspose.Cells είναι ένα αυτόνομο API και δεν απαιτεί λογισμικό όπως το Microsoft ή το OpenOffice.
 
 {{% /blocks/products/pf/agp/content %}}
 

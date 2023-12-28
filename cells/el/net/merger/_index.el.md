@@ -18,7 +18,7 @@ description: Συνδυάστε αρχεία υπολογιστικού φύλλ
 {{% /blocks/products/pf/feature-page-section %}}
 
 {{% blocks/products/pf/feature-page-section h2="Συγχώνευση πολλών αρχείων Excel" %}}
-[CellsHelper.MergeFiles](https://reference.aspose.com/cells/net/aspose.cells/cellshelper/methods/mergefiles)Η μέθοδος υποστηρίζει τη συγχώνευση δεδομένων, στυλ και τύπων ενός αρχείου Excel σε ένα νέο υπολογιστικό φύλλο της ίδιας μορφής. Είναι ένας αποτελεσματικός τρόπος για τη συγχώνευση πολλών αρχείων κατά τη χρήση της προσωρινής αποθήκευσης.
+[CellsHelper.MergeFiles](https://reference.aspose.com/cells/net/aspose.cells/cellshelper/methods/mergefiles) Η μέθοδος υποστηρίζει τη συγχώνευση δεδομένων, στυλ και τύπων ενός αρχείου Excel σε ένα νέο υπολογιστικό φύλλο της ίδιας μορφής. Είναι ένας αποτελεσματικός τρόπος για τη συγχώνευση πολλών αρχείων κατά τη χρήση της προσωρινής αποθήκευσης.
 {{% blocks/products/pf/feature-page-code h3="C# Κώδικας για συγχώνευση πολλών αρχείων Excel" %}}
 
 {{< gist "aspose-com-gists" "d7c757e7471bd38006ac0d35d221b2e2" "merge-several-excel-files.cs" >}}

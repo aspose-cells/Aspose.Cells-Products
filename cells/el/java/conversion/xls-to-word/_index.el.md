@@ -1,7 +1,7 @@
 ---
-title: Java XLS σε WORD - Online Μετατροπέας XLS σε WORD
-description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Δωρεάν Online Java Μετατροπή XLS σε μορφή αποθήκευσης WORD. Java XLS σε μορφή WORD. Αποθηκεύστε το XLS στο WORD Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java XLS to WORD saveformat., Free Online XLS to WORD Java., Java Convert XLS to WORD]
+title: Java XLS έως WORD - XLS έως WORD Μετατροπέας
+description: Aspose Excel. Μετατρέψτε το XLS στο WORD γρήγορα και εύκολα με το Aspose.Cells. Java XLS σε WORD. Java Αποθήκευση 076183419 ως 076183419 στο 076183419 στο 076183419 στο XLS. 113481 χρησιμοποιώντας Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Convert XLS to WORD in Java., Save XLS to WORD using Java., Java XLS to WORD saveformat., XLS to WORD Converter., Java Save XLS as WORD]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Μετατροπή XLS σε WORD στο Java" h2="Βιβλιοθήκη υψηλής ταχύτητας Java για μετατροπή XLS σε WORD. Αυτή είναι μια επαγγελματική λύση λογισμικού για εισαγωγή και εξαγωγή XLS, WORD και πολλών άλλων μορφών χρησιμοποιώντας το Java." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="WORD" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java XLS to WO
 
 {{% blocks/products/pf/agp/content h2="Μετατροπή XLS σε WORD χρησιμοποιώντας Java" %}}
 
- Πώς μπορώ να μετατρέψω το XLS σε WORD; Με τη βιβλιοθήκη Aspose.Cells for Java, μπορείτε εύκολα να μετατρέψετε το XLS σε WORD μέσω προγραμματισμού με λίγες γραμμές κώδικα.[Aspose.Cells for Java](https://products.aspose.com/cells/java) έχει τη δυνατότητα δημιουργίας εφαρμογών πολλαπλών πλατφορμών με δυνατότητα δημιουργίας, τροποποίησης, μετατροπής, απόδοσης και εκτύπωσης όλων των αρχείων Excel. Java Το Excel API όχι μόνο μετατρέπει μεταξύ μορφών υπολογιστικών φύλλων, αλλά μπορεί επίσης να αποδώσει αρχεία Excel ως εικόνες, PDF, HTML, ODS, CSV, 07616031481, CSV, 07616831481, δημιουργώντας περισσότερα τέλεια επιλογή για την ανταλλαγή εγγράφων σε βιομηχανικά πρότυπα μορφές. Μπορείτε να κατεβάσετε την τελευταία του έκδοση απευθείας από[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) και εγκαταστήστε το στο έργο σας που βασίζεται στο Maven προσθέτοντας τις ακόλουθες διαμορφώσεις στο pom.xml.
+Πώς μπορώ να μετατρέψω το XLS σε WORD; Με τη βιβλιοθήκη Aspose.Cells for Java, μπορείτε εύκολα να μετατρέψετε το XLS σε WORD μέσω προγραμματισμού με λίγες γραμμές κώδικα.[Aspose.Cells for Java](https://products.aspose.com/cells/java)έχει τη δυνατότητα δημιουργίας εφαρμογών πολλαπλών πλατφορμών με δυνατότητα δημιουργίας, τροποποίησης, μετατροπής, απόδοσης και εκτύπωσης όλων των αρχείων Excel. Java Το Excel API όχι μόνο μετατρέπει μεταξύ μορφών υπολογιστικών φύλλων, αλλά μπορεί επίσης να αποδώσει αρχεία Excel ως εικόνες, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT και άλλα, καθιστώντας έτσι την τέλεια επιλογή για την ανταλλαγή εγγράφων σε βιομηχανικές τυποποιημένες μορφές. Μπορείτε να κατεβάσετε την τελευταία του έκδοση απευθείας από[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) και εγκαταστήστε το στο έργο σας που βασίζεται στο Maven προσθέτοντας τις ακόλουθες διαμορφώσεις στο pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Αποθήκη" offSpacer="true" %}}
 
@@ -45,18 +45,18 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java XLS to WO
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Αποθήκευση XLS στο WORD στο Java Δωρεάν Online" %}}
+{{% blocks/products/pf/agp/content h2="Αποθήκευση XLS έως WORD στο Java" %}}
 
 Το ακόλουθο παράδειγμα δείχνει πώς να μετατρέψετε το XLS σε WORD στο Java.
 {{% blocks/products/pf/agp/text %}}
 
-Ακολουθήστε τα εύκολα βήματα για να μετατρέψετε το XLS σε WORD. Ανεβάστε το αρχείο XLS και, στη συνέχεια, απλώς αποθηκεύστε το ως αρχείο WORD. Τόσο για ανάγνωση XLS όσο και για εγγραφή WORD, μπορείτε να χρησιμοποιήσετε πλήρως πιστοποιημένα ονόματα αρχείων. Το περιεχόμενο και η μορφοποίηση εξόδου WORD θα είναι πανομοιότυπα με το αρχικό έγγραφο XLS.
+Ακολουθήστε τα εύκολα βήματα για να μετατρέψετε το XLS σε WORD. Ανεβάστε το αρχείο XLS και, στη συνέχεια, απλώς αποθηκεύστε το ως αρχείο WORD. Τόσο για την ανάγνωση XLS όσο και για τη γραφή WORD, μπορείτε να χρησιμοποιήσετε πλήρως πιστοποιημένα ονόματα αρχείων. Το περιεχόμενο και η μορφοποίηση εξόδου WORD θα είναι πανομοιότυπα με το αρχικό έγγραφο XLS.
 
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Δωρεάν εφαρμογή και δείγμα κώδικα για μετατροπή XLS σε WORD Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xls" outformat="docx" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Δείγμα κώδικα για μετατροπή XLS σε WORD" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xls" outformat="docx" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="Πώς να μετατρέψετε το XLS σε WORD via Java" %}}
 
@@ -68,7 +68,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java XLS to WO
 
 1.  Εγκαταστήστε το 'Aspose.Cells for Java'.
 1.  Προσθέστε μια αναφορά βιβλιοθήκης (εισάγετε τη βιβλιοθήκη) στο έργο σας Java.
-1.  Φορτώστε το αρχείο XLS με μια παρουσία της κλάσης Βιβλίο εργασίας.
+1. Φορτώστε το αρχείο XLS με μια παρουσία της κλάσης Βιβλίο εργασίας.
 1.  Μετατρέψτε το XLS σε WORD καλώντας τη μέθοδο Workbook.save.
 1.  Λάβετε το αποτέλεσμα μετατροπής XLS σε WORD.
 

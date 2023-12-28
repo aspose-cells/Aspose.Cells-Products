@@ -1,6 +1,6 @@
 ---
-title: XLAM σε WORD - Μετατροπή XLAM σε αρχεία WORD Python via Python
-description: Aspose Excel. Δωρεάν Online Μετατροπή XLAM σε μορφή αποθήκευσης WORD. Python XLAM σε μορφή WORD. Αποθηκεύστε το XLAM ως WORD στο Python.
+title: XLAM σε WORD - Μετατροπή XLAM σε WORD αρχεία Python via Python
+description: Aspose Excel. Δωρεάν Online Μετατροπή XLAM σε WORD saveformat. Μορφή Python XLAM έως WORD. Αποθηκεύστε το XLAM ως WORD στο Python.
 keywords: [Aspose Excel., Python Aspose.Cells., Python XLAM to WORD saveformat., Free Online XLAM to WORD Converter]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -12,17 +12,17 @@ keywords: [Aspose Excel., Python Aspose.Cells., Python XLAM to WORD saveformat.,
 
 {{% blocks/products/pf/agp/content h2="Μετατροπή XLAM σε WORD στο Python" %}}
 
- Πώς μπορώ να μετατρέψω το XLAM σε WORD; Με το Aspose.Cells for Python μέσω της βιβλιοθήκης NET, μπορείτε εύκολα να μετατρέψετε το XLAM σε WORD μέσω προγραμματισμού με λίγες γραμμές κώδικα.[Aspose.Cells for Python μέσω NET](https://pypi.org/project/aspose-cells-python/)έχει τη δυνατότητα δημιουργίας εφαρμογών πολλαπλών πλατφορμών με δυνατότητα δημιουργίας, τροποποίησης, μετατροπής, απόδοσης και εκτύπωσης όλων των αρχείων Excel. Python Το Excel API όχι μόνο μετατρέπει μεταξύ μορφών υπολογιστικών φύλλων, αλλά μπορεί επίσης να αποδώσει αρχεία Excel ως εικόνες, PDF, HTML, ODS, CSV, 07616031481, CSV, 07616831481, δημιουργώντας περισσότερα τέλεια επιλογή για την ανταλλαγή εγγράφων σε βιομηχανικά πρότυπα μορφές.
+ Πώς μπορώ να μετατρέψω το XLAM σε WORD; Με το Aspose.Cells for Python μέσω της βιβλιοθήκης NET, μπορείτε εύκολα να μετατρέψετε το XLAM σε WORD μέσω προγραμματισμού με λίγες γραμμές κώδικα.[Aspose.Cells for Python μέσω NET](https://pypi.org/project/aspose-cells-python/)έχει τη δυνατότητα δημιουργίας εφαρμογών πολλαπλών πλατφορμών με δυνατότητα δημιουργίας, τροποποίησης, μετατροπής, απόδοσης και εκτύπωσης όλων των αρχείων Excel. Python Το Excel API όχι μόνο μετατρέπει μεταξύ μορφών υπολογιστικών φύλλων, αλλά μπορεί επίσης να αποδώσει αρχεία Excel ως εικόνες, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT και άλλα, καθιστώντας έτσι την τέλεια επιλογή για την ανταλλαγή εγγράφων σε βιομηχανικές τυποποιημένες μορφές.
 
 {{% /blocks/products/pf/agp/content %}}
 
 
-{{% blocks/products/pf/agp/content h2="Αποθήκευση XLAM στο WORD στο Python Δωρεάν Online" %}}
+{{% blocks/products/pf/agp/content h2="Αποθήκευση XLAM έως WORD στο Python Δωρεάν Online" %}}
 
 Το ακόλουθο παράδειγμα δείχνει πώς να μετατρέψετε το XLAM σε WORD στο Python via NET.
 {{% blocks/products/pf/agp/text %}}
 
-Ακολουθήστε τα εύκολα βήματα για να μετατρέψετε το XLAM σε WORD. Ανεβάστε το αρχείο XLAM και, στη συνέχεια, απλώς αποθηκεύστε το ως αρχείο WORD. Τόσο για ανάγνωση XLAM όσο και για εγγραφή WORD, μπορείτε να χρησιμοποιήσετε πλήρως πιστοποιημένα ονόματα αρχείων. Το περιεχόμενο και η μορφοποίηση εξόδου WORD θα είναι πανομοιότυπα με το αρχικό έγγραφο XLAM.
+Ακολουθήστε τα εύκολα βήματα για να μετατρέψετε το XLAM σε WORD. Ανεβάστε το αρχείο XLAM και, στη συνέχεια, απλώς αποθηκεύστε το ως αρχείο WORD. Τόσο για την ανάγνωση XLAM όσο και για τη γραφή WORD, μπορείτε να χρησιμοποιήσετε πλήρως πιστοποιημένα ονόματα αρχείων. Το περιεχόμενο και η μορφοποίηση εξόδου WORD θα είναι πανομοιότυπα με το αρχικό έγγραφο XLAM.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -52,7 +52,7 @@ keywords: [Aspose Excel., Python Aspose.Cells., Python XLAM to WORD saveformat.,
 Φιλοξενούμε τα πακέτα μας Python στα αποθετήρια PyPi.
 
 {{% blocks/products/pf/agp/text %}}
-Εγκαταστήστε το Aspose.Cells for Python από<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , χρησιμοποιήστε την εντολή ως:<code>$ pip install aspose-cells-python</code>.
+ Εγκαταστήστε το Aspose.Cells for Python από<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , χρησιμοποιήστε την εντολή ως:<code>$ pip install aspose-cells-python</code>.
 {{% /blocks/products/pf/agp/text %}}
 
 {{% blocks/products/pf/agp/text %}}

@@ -1,7 +1,7 @@
 ---
 title: Δημιουργία ET - Δημιουργία αρχείου ET στο C++
-description: Aspose Excel. C++ Δημιουργία αρχείου ET. Δημιουργία ET C++. C++ ET Creater. Δημιουργήστε ET στο C++. Δημιουργήστε αρχείο ET χρησιμοποιώντας το C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., Create ET C++., C++ ET Creater., Create ET file in C++., Generate ET file in C++]
+description:  Aspose Excel. C++ Δημιουργήστε αρχείο ET γρήγορα και εύκολα με το Aspose.Cells. Δημιουργήστε αρχείο ET χρησιμοποιώντας το C++. Δημιουργήστε ET στο C++. C++ ET Creater.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ Create ET file., Generate ET file in C++., Create ET file using C++., Write data to ET file via C++., Create a ET file in C++., C++ Generate a ET file., C++ ET Creater]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Δημιουργήστε αρχείο ET στο C++" h2="Δημιουργία εγγενούς και υψηλής απόδοσης αρχείου ET μέσω προγραμματισμού χωρίς Micorsoft Office χρησιμοποιώντας τη βιβλιοθήκη C++." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" sourceAdditionalConversionTag="" additionalConversionTag="ET" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -11,7 +11,7 @@ keywords: [Aspose Excel., C++ Aspose.Cells., Create ET C++., C++ ET Creater., Cr
 
 {{% blocks/products/pf/agp/content h2="Δημιουργήστε αρχείο ET χρησιμοποιώντας το C++" %}}
 
- Πώς να δημιουργήσετε αρχείο ET; Με τη βιβλιοθήκη Aspose.Cells for C++, μπορείτε εύκολα να δημιουργήσετε αρχείο ET μέσω προγραμματισμού με λίγες γραμμές κώδικα.[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) έχει τη δυνατότητα δημιουργίας εφαρμογών πολλαπλών πλατφορμών με δυνατότητα δημιουργίας, τροποποίησης, μετατροπής, απόδοσης και εκτύπωσης όλων των αρχείων Excel. C++ Το Excel API όχι μόνο μετατρέπει μεταξύ μορφών υπολογιστικών φύλλων, αλλά μπορεί επίσης να αποδώσει αρχεία Excel ως εικόνες, PDF, HTML, ODS, CSV, 07616031481, CSV, 07616831481, δημιουργώντας περισσότερα τέλεια επιλογή για την ανταλλαγή εγγράφων σε βιομηχανικά πρότυπα μορφές. Μπορείτε να κατεβάσετε την τελευταία του έκδοση απευθείας, απλά ανοίξτε[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) διαχειριστής πακέτων, αναζητήστε Aspose.Cells.Cpp και εγκαταστήστε. Μπορείτε επίσης να χρησιμοποιήσετε την ακόλουθη εντολή από την Κονσόλα Package Manager.
+ Πώς να δημιουργήσετε αρχείο ET; Με τη βιβλιοθήκη Aspose.Cells for C++, μπορείτε εύκολα να δημιουργήσετε αρχείο ET μέσω προγραμματισμού με λίγες γραμμές κώδικα.[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) έχει τη δυνατότητα δημιουργίας εφαρμογών πολλαπλών πλατφορμών με δυνατότητα δημιουργίας, τροποποίησης, μετατροπής, απόδοσης και εκτύπωσης όλων των αρχείων Excel. C++ Το Excel API όχι μόνο μετατρέπει μεταξύ μορφών υπολογιστικών φύλλων, αλλά μπορεί επίσης να αποδώσει αρχεία Excel ως εικόνες, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT και άλλα, καθιστώντας έτσι την τέλεια επιλογή για την ανταλλαγή εγγράφων σε βιομηχανικές τυποποιημένες μορφές. Μπορείτε να κατεβάσετε την τελευταία του έκδοση απευθείας, απλά ανοίξτε[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) διαχειριστής πακέτων, αναζητήστε Aspose.Cells.Cpp και εγκαταστήστε. Μπορείτε επίσης να χρησιμοποιήσετε την ακόλουθη εντολή από την Κονσόλα Package Manager.
 
 {{% blocks/products/pf/agp/code-block title="Εντολή" offSpacer="true" %}}
 
@@ -34,41 +34,47 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/text %}}
 
-1.  Δημιουργήστε ένα αντικείμενο της κλάσης IWorkbook.
-1.  Αποκτήστε το πρώτο φύλλο σε ένα αντικείμενο IWorksheet.
-1.  Χρησιμοποιήστε τη μέθοδο IWorksheet->GetICells() για να μεταφέρετε τα κελιά του φύλλου εργασίας σε ένα αντικείμενο ICElls.
-1. Χρησιμοποιήστε τη μέθοδο ICElls->GetObjectByIndex() για να αποκτήσετε πρόσβαση στο επιθυμητό κελί του φύλλου εργασίας σε ένα αντικείμενο ICEL.
-1.  Χρησιμοποιήστε τη μέθοδο ICEll->PutValue() για να εισαγάγετε τιμή στο κελί.
+1.  Δημιουργήστε ένα αντικείμενο της κλάσης Βιβλίο εργασίας.
+1.  Αποκτήστε το πρώτο φύλλο σε ένα αντικείμενο φύλλου εργασίας.
+1.  Χρησιμοποιήστε τη μέθοδο Worksheet.GetCells() για να μεταφέρετε τα κελιά του φύλλου εργασίας σε ένα αντικείμενο Cells.
+1. Χρησιμοποιήστε τη μέθοδο Cells.Get() για πρόσβαση στο επιθυμητό κελί του φύλλου εργασίας σε ένα αντικείμενο Cell.
+1.  Χρησιμοποιήστε τη μέθοδο Cell.PutValue() για να εισαγάγετε τιμή στο κελί.
 1.  Αποθηκεύστε το βιβλίο εργασίας ως αρχείο .et χρησιμοποιώντας τη μέθοδο Save().
 
 {{% blocks/products/pf/agp/code-block title="Το δείγμα κώδικα δείχνει πώς να δημιουργήσετε αρχείο ET στο C++." offSpacer="" %}}
 
 ```cs
+Aspose::Cells::Startup();
 
-// Create an object of the IWorkbook class.
-intrusive_ptr<IWorkbook> wkb = Factory::CreateIWorkbook();
+// Create an object of the Workbook class.
+Workbook wkb;
+// Get the first sheet into an Worksheet object.
+WorksheetCollection wsc = wkb.GetWorksheets();
+Worksheet ws = wsc.Get(0);
 
-// Get the first sheet into an IWorksheet object.
-intrusive_ptr<IWorksheetCollection> wsc = wkb->GetIWorksheets();
-intrusive_ptr<IWorksheet> ws = wsc->GetObjectByIndex(0);
 
-// Use IWorksheet->GetICells() method to get the cells of the worksheet into an ICells object.
-intrusive_ptr<ICells> cells = ws->GetICells();
+// Use Worksheet.GetCells() method to get the cells of the worksheet into an Cells object.
+Cells cells = ws.GetCells();
 
-// Use ICells->GetObjectByIndex() method to access the desired cell of the worksheet into an ICell object.
-intrusive_ptr<ICell> cell00 = cells->GetObjectByIndex(0, 0);
-intrusive_ptr<ICell> cell01 = cells->GetObjectByIndex(0, 1);
-intrusive_ptr<ICell> cell10 = cells->GetObjectByIndex(1, 0);
-intrusive_ptr<ICell> cell11 = cells->GetObjectByIndex(1, 1);
 
-// Use ICell->PutValue() method to input value into the cell.
-cell00->PutValue(new String("ColumnA"));
-cell01->PutValue(new String("ColumnB"));
-cell10->PutValue(new String("ValueA"));
-cell11->PutValue(new String("ValueB"));
+// Use Cells.Get() method to access the desired cell of the worksheet into an Cell object.
+Cell cell00 = cells.Get(0, 0);
+Cell cell01 = cells.Get(0, 1);
+Cell cell10 = cells.Get(1, 0);
+Cell cell11 = cells.Get(1, 1);
+
+
+// Use Cell.PutValue() method to input value into the cell.
+cell00.PutValue(u"ColumnA");
+cell01.PutValue(u"ColumnB");
+cell10.PutValue(u"ValueA");
+cell11.PutValue(u"ValueB");
+
 
 // Save workbook to resultFile folder
-wkb->Save(new String("created_one.et"));
+wkb.Save(u"created_one.et");
+
+Aspose::Cells::Cleanup();
 
 ```
 

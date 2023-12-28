@@ -1,7 +1,8 @@
 ---
-title:  C++ Προγραμματισμός υπολογιστικών φύλλων Excel API - Aspose
+title: C++ Προγραμματισμός υπολογιστικών φύλλων Excel API - Aspose
 weight: 7140
-description: C++ Βιβλιοθήκη Excel για ανάγνωση εγγραφής και ανάλυσης αρχείων συμπεριλαμβανομένων των μορφών XLS, XLSX, XLSM και XLSB. Μετατροπή υπολογιστικών φύλλων σε PDF, CSV και περισσότερες μορφές
+description: Aspose.Cells for C++ βιβλιοθήκη για δημιουργία, επιδιόρθωση, συγχώνευση, ανάλυση και μετατροπή αρχείων excel. Μετατρέψτε το excel σε PDF, JSON, XML, TSV και ούτω καθεξής.
+keywords: [C++ Aspose.Cells Create repair parse merge convert JSON Excel XML PDF HTML TSV SQL ODS CSV TXT PNG JPEG and more formats]
 ---
 {{< blocks/products/pf/main-wrap-class >}}
 {{< blocks/products/pf/i18n/upper-banner h1="C++ API υπολογιστικών φύλλων Excel" h2="Δημιουργήστε, διαβάστε, γράψτε και αναλύστε υπολογιστικά φύλλα χωρίς εξαρτήσεις Microsoft Excel σε πλήρως λειτουργικές εφαρμογές C++." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/headers/aspose_cells-for-cpp.svg" pfName="Aspose.Cells" subTitlepfName="for C++" downloadUrl="https://downloads.aspose.com/cells/cpp" >}}
@@ -40,13 +41,13 @@ description: C++ Βιβλιοθήκη Excel για ανάγνωση εγγραφ
  Συγκεντρωτικός πίνακας
     </li>
     <li>
- Πίνακες
+Πίνακες
     </li>
     <li>
  Διαγράμματα
     </li>
     <li>
-Υπολογισμός τύπων
+ Υπολογισμός τύπων
     </li>
     <li>
  Επικύρωση δεδομένων
@@ -71,7 +72,7 @@ description: C++ Βιβλιοθήκη Excel για ανάγνωση εγγραφ
  ΧΕΙΡΑΓΩΓΗΣΗ ΔΕΔΟΜΕΝΩΝ
     </li>
     <li>
- Εντοιχισμένες ιδιότητες
+ Εντοιχισμένες Ιδιότητες
     </li>
     <li>
  Προσαρμοσμένες ιδιότητες
@@ -227,7 +228,7 @@ description: C++ Βιβλιοθήκη Excel για ανάγνωση εγγραφ
      <b>
  Εικόνες:
      </b>
-     JPEG, PNG, BMP, TIFF, GIF, EMF, SVG
+     JPEG, PNG, BMP, GIF, EMF, SVG
     </li>
    </ul>
   </div>
@@ -274,7 +275,7 @@ description: C++ Βιβλιοθήκη Excel για ανάγνωση εγγραφ
     <em class="fa fa-save ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Φόρτωση &amp; αποθηκεύστε αρχεία Excel χρησιμοποιώντας ροές
+Φόρτωση &amp; αποθηκεύστε αρχεία Excel χρησιμοποιώντας ροές
     </p>
    </div>
    <div class="col-lg-4">
@@ -288,7 +289,7 @@ description: C++ Βιβλιοθήκη Excel για ανάγνωση εγγραφ
     <em class="fa fa-check-square-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-Ρυθμίστε την επικύρωση δεδομένων για να περιορίσετε την εισαγωγή
+ Ρυθμίστε την επικύρωση δεδομένων για να περιορίσετε την εισαγωγή
     </p>
    </div>
    <div class="col-lg-4">
@@ -351,7 +352,7 @@ description: C++ Βιβλιοθήκη Excel για ανάγνωση εγγραφ
     <em class="fa fa-list-ol ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Trace Precedents &amp; Εξαρτημένοι
+ Trace Precedents &amp; Εξαρτημένα άτομα
     </p>
    </div>
    <div class="col-lg-4">
@@ -415,17 +416,17 @@ description: C++ Βιβλιοθήκη Excel για ανάγνωση εγγραφ
      <h3>
  Μετατροπή αρχείων Excel σε πολλαπλές μορφές - C++
      </h3>
-     <pre><code class="cpp">// load the document for conversion
+     <pre><code class="cpp">	// load the document for conversion
 
-intrusive_ptr&lt;IWorkbook&gt; book = Factory::CreateIWorkbook(dir-&gt;StringAppend(new String("template.xls")));
+	Workbook book(u"template.xls");
 
-// save in different formats
+	// save in different formats
 
-book-&gt;Save(dir-&gt;StringAppend(new String("output.xlsx")), SaveFormat_Xlsx);
+	book.Save(u"output.xlsx", SaveFormat::Xlsx);
 
-book-&gt;Save(dir-&gt;StringAppend(new String("output.xlsb")), SaveFormat_Xlsb);
+	book.Save(u"output.xlsb", SaveFormat::Xlsb);
 
-book-&gt;Save(dir-&gt;StringAppend(new String("output.csv")), SaveFormat_CSV);</code></pre>
+	book.Save(u"output.csv", SaveFormat::CSV);</code></pre>
     </div>
    </div>
    <div class="col-lg-12">
@@ -449,7 +450,7 @@ book-&gt;Save(dir-&gt;StringAppend(new String("output.csv")), SaveFormat_CSV);</
  Αποδώστε τα φύλλα εργασίας ως εικόνες
     </h2>
     <p>
-Η βιβλιοθήκη αποδίδει με την υψηλότερη πιστότητα στο Microsoft Excel χρησιμοποιώντας τη δική της μηχανή απόδοσης. Προσφέρει διακριτικά χαρακτηριστικά, όπως η απόδοση φύλλων εργασίας σε εικόνες σε δημοφιλείς μορφές, όπως BMP, TIFF, PNG, JPEG &amp; EMF. Η διαδικασία Sheet2Image είναι ευέλικτη, επιτρέποντας έτσι την επιλογή επιλογών όπως ο έλεγχος της ανάλυσης της εικόνας που προκύπτει.
+Η βιβλιοθήκη αποδίδει με την υψηλότερη πιστότητα στο Microsoft Excel χρησιμοποιώντας τη δική της μηχανή απόδοσης. Προσφέρει διακριτικά χαρακτηριστικά, όπως η απόδοση φύλλων εργασίας σε εικόνες σε δημοφιλείς μορφές, όπως BMP, PNG, JPEG &amp; EMF. Η διαδικασία Sheet2Image είναι ευέλικτη, επιτρέποντας έτσι την επιλογή επιλογών όπως ο έλεγχος της ανάλυσης της εικόνας που προκύπτει.
     </p>
    </div>
    <div class="col-lg-12">

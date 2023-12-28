@@ -2,6 +2,7 @@
 title:  Få bilder/bildstorlek i Excel via Java
 weight: 10
 description: Får bild-/bildstorlek i Excel med Aspose.Cells' Java API utan någon programvara som Microsoft eller Open Office, Adobe PDF, etc.
+keywords: [Java Aspose.Cells., Java Get Images/Pictures Size In Excel., Java Obtain Images/Pictures Size In Excel., Java Access Images/Pictures Size In Excel]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Få bilder/bildstorlek i Excel via Java" h2="Använda Aspose.Cells\' API för att arbeta med olika objekt utan någon programvara som Microsoft eller Open Office, Adobe PDF, etc." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSX" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="" fileiconsmall1="PPTX" fileiconsmall2="DOCX" fileiconsmall3="XLSX" fileiconsmall4="PDF" fileiconsmall5=" ODP " >}}
@@ -63,7 +64,7 @@ description: Får bild-/bildstorlek i Excel med Aspose.Cells' Java API utan någ
     + [Bredd](https://reference.aspose.com/cells/java/com.aspose.cells/picture/#getWidth--) Representerar formens bredd i pixelenhet.
     + [Höjd](https://reference.aspose.com/cells/java/com.aspose.cells/picture/#getHeight--) Representerar formhöjden, i pixelenhet.
     + [OriginalWidth](https://reference.aspose.com/cells/java/com.aspose.cells/picture/#getOriginalWidth--) Får bildens ursprungliga bredd, i pixelenhet.
-    + [Originalhöjd](https://reference.aspose.com/cells/java/com.aspose.cells/picture/#getOriginalHeight--) Får bildens ursprungliga höjd, i pixelenhet.
+    + [Originalhöjd](https://reference.aspose.com/cells/java/com.aspose.cells/picture/#getOriginalHeight--)Får bildens ursprungliga höjd, i pixelenhet.
 
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

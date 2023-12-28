@@ -1,6 +1,6 @@
 ---
-title: XLAM σε WORD - Μετατροπή XLAM σε αρχεία WORD Java
-description: Aspose Excel. Δωρεάν Online Μετατροπή XLAM σε μορφή αποθήκευσης WORD. Java XLAM σε μορφή WORD. Αποθηκεύστε το XLAM ως WORD στο Java.
+title: XLAM σε WORD - Μετατροπή XLAM σε WORD αρχεία Java
+description: Aspose Excel. Δωρεάν Online Μετατροπή XLAM σε WORD saveformat. Μορφή Java XLAM έως WORD. Αποθηκεύστε το XLAM ως WORD στο Java.
 keywords: [Aspose Excel., Java Aspose.Cells., Java XLAM to WORD saveformat., Free Online XLAM to WORD Converter]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java XLAM to WORD saveformat., Fre
 
 {{% blocks/products/pf/agp/content h2="Μετατροπή XLAM σε WORD χρησιμοποιώντας Java" %}}
 
- Πώς μπορώ να μετατρέψω το XLAM σε WORD; Με τη βιβλιοθήκη Aspose.Cells for Java, μπορείτε εύκολα να μετατρέψετε το XLAM σε WORD μέσω προγραμματισμού με λίγες γραμμές κώδικα.[Aspose.Cells for Java](https://products.aspose.com/cells/java) έχει τη δυνατότητα δημιουργίας εφαρμογών πολλαπλών πλατφορμών με δυνατότητα δημιουργίας, τροποποίησης, μετατροπής, απόδοσης και εκτύπωσης όλων των αρχείων Excel. Java Το Excel API όχι μόνο μετατρέπει μεταξύ μορφών υπολογιστικών φύλλων, αλλά μπορεί επίσης να αποδώσει αρχεία Excel ως εικόνες, PDF, HTML, ODS, CSV, 07616031481, CSV, 07616831481, δημιουργώντας περισσότερα τέλεια επιλογή για την ανταλλαγή εγγράφων σε βιομηχανικά πρότυπα μορφές. Μπορείτε να κατεβάσετε την τελευταία του έκδοση απευθείας από[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) και εγκαταστήστε το στο έργο σας που βασίζεται στο Maven προσθέτοντας τις ακόλουθες διαμορφώσεις στο pom.xml.
+Πώς μπορώ να μετατρέψω το XLAM σε WORD; Με τη βιβλιοθήκη Aspose.Cells for Java, μπορείτε εύκολα να μετατρέψετε το XLAM σε WORD μέσω προγραμματισμού με λίγες γραμμές κώδικα.[Aspose.Cells for Java](https://products.aspose.com/cells/java)έχει τη δυνατότητα δημιουργίας εφαρμογών πολλαπλών πλατφορμών με δυνατότητα δημιουργίας, τροποποίησης, μετατροπής, απόδοσης και εκτύπωσης όλων των αρχείων Excel. Java Το Excel API όχι μόνο μετατρέπει μεταξύ μορφών υπολογιστικών φύλλων, αλλά μπορεί επίσης να αποδώσει αρχεία Excel ως εικόνες, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT και άλλα, καθιστώντας έτσι την τέλεια επιλογή για την ανταλλαγή εγγράφων σε βιομηχανικές τυποποιημένες μορφές. Μπορείτε να κατεβάσετε την τελευταία του έκδοση απευθείας από[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) και εγκαταστήστε το στο έργο σας που βασίζεται στο Maven προσθέτοντας τις ακόλουθες διαμορφώσεις στο pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Αποθήκη" offSpacer="true" %}}
 
@@ -45,12 +45,12 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java XLAM to WORD saveformat., Fre
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Αποθήκευση XLAM στο WORD στο Java Δωρεάν Online" %}}
+{{% blocks/products/pf/agp/content h2="Αποθήκευση XLAM έως WORD στο Java Δωρεάν Online" %}}
 
 Το ακόλουθο παράδειγμα δείχνει πώς να μετατρέψετε το XLAM σε WORD στο Java.
 {{% blocks/products/pf/agp/text %}}
 
-Ακολουθήστε τα εύκολα βήματα για να μετατρέψετε το XLAM σε WORD. Ανεβάστε το αρχείο XLAM και, στη συνέχεια, απλώς αποθηκεύστε το ως αρχείο WORD. Τόσο για ανάγνωση XLAM όσο και για εγγραφή WORD, μπορείτε να χρησιμοποιήσετε πλήρως πιστοποιημένα ονόματα αρχείων. Το περιεχόμενο και η μορφοποίηση εξόδου WORD θα είναι πανομοιότυπα με το αρχικό έγγραφο XLAM.
+Ακολουθήστε τα εύκολα βήματα για να μετατρέψετε το XLAM σε WORD. Ανεβάστε το αρχείο XLAM και, στη συνέχεια, απλώς αποθηκεύστε το ως αρχείο WORD. Τόσο για την ανάγνωση XLAM όσο και για τη γραφή WORD, μπορείτε να χρησιμοποιήσετε πλήρως πιστοποιημένα ονόματα αρχείων. Το περιεχόμενο και η μορφοποίηση εξόδου WORD θα είναι πανομοιότυπα με το αρχικό έγγραφο XLAM.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -68,7 +68,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java XLAM to WORD saveformat., Fre
 
 1.  Εγκαταστήστε το 'Aspose.Cells for Java'.
 1.  Προσθέστε μια αναφορά βιβλιοθήκης (εισάγετε τη βιβλιοθήκη) στο έργο σας Java.
-1.  Φορτώστε το αρχείο XLAM με μια παρουσία της κλάσης Βιβλίο εργασίας.
+1. Φορτώστε το αρχείο XLAM με μια παρουσία της κλάσης Βιβλίο εργασίας.
 1.  Μετατρέψτε το XLAM σε WORD καλώντας τη μέθοδο Workbook.save.
 1.  Λάβετε το αποτέλεσμα μετατροπής XLAM σε WORD.
 

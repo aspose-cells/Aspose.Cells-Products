@@ -2,6 +2,7 @@
 title:  Lås upp XLSB dokument via Java
 weight: 5860
 description: Java exempelkod för att låsa upp lösenordsskyddad XLSB fil på Java Runtime Environment för JSP/JSF Application och Desktop Applications.
+keywords: [Java Aspose.Cells., Java unlock XLSB files., Java how to unlock XLSB document., Java unprotect XLSB files., remove protection from XLSB files., decrypt XLSB Files using Java]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Lås upp XLSB Filer via Java" h2="Ta bort skyddet från Excel-kalkylblad inklusive XLSB-filen med hjälp av Java Library." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSB" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSB" >}}
@@ -73,7 +74,7 @@ description: Java exempelkod för att låsa upp lösenordsskyddad XLSB fil på J
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Lås upp XLSB filer via C#" offSpacer="" %}}
+{{% blocks/products/pf/agp/code-block title="Lås upp XLSB Filer via Java" offSpacer="" %}}
 
 ```cs
 

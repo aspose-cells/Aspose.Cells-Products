@@ -1,8 +1,8 @@
 ---
-title: Python Reparera excel-fil - Reparera excel-fil online gratis
+title: Python Reparera excel - Återställ och fixa skadad excel-fil
 url: /sv/python-java/recovery/repair-excel/ 
-description: Aspose Excel. Python Aspose.Cells. Python Reparera excel-fil. Gratis online excel reparationsverktyg. Reparera en skadad Excel-fil. Återställ en skadad Excel-fil i Python-applikationen.
-keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python Repair excel file., Free Online Repair a corrupted excel file., Python Recover excel file.]
+description: Python Aspose.Cells. Reparation excel. Fixa excel-fil. excel återställningsverktyg. excel korruption. Återställ Excel-data. excel-filåterställning. Återställ skadad excel-fil.
+keywords: [Python Aspose.Cells., repair excel file., excel repair., recover corrupted excel file., repair corrupted excel., recover excel., fix excel file., excel corruption., restore excel data., excel file recovery., recover corrupted excel file.]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Reparera EXCEL-fil i Python" h2="Bygg din egen Python-applikation för att reparera Excel-filer med Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="EXCEL" pfName="Aspose.Cells" subTitlepfName="for Python" downloadUrl="" fileiconsmall1="XLS" fileiconsmall2="XLSB" fileiconsmall3="XLSX" fileiconsmall4="XLSM" fileiconsmall5="ODS" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python Rep
 
 {{% blocks/products/pf/agp/content h2="Reparera EXCEL-fil med Python" %}}
 
- Hur reparerar jag excel-filen? Med Aspose.Cells for Python-biblioteket kan du enkelt reparera EXCEL-filen programmatiskt med några rader kod.[Aspose.Cells for Python](https://products.aspose.com/cells/python-java)kan bygga plattformsoberoende applikationer med förmågan att generera, modifiera, konvertera, rendera och skriva ut alla Excel-filer. Python Excel API konverterar inte bara mellan kalkylarksformat, det kan också rendera Excel-filer som bilder, PDF, HTML, ODS, ODS, CSV, 0761687481, 0761687481, vilket gör det till ett perfekt val, Pt utbyta dokument i branschstandard format. Du kan installera Aspose.Cells for Python via Java från<a href="https://pypi.org/project/aspose-cells/">pypi</a> , använd kommandot som:<code>$ pip install aspose-cells</code>.
+ Hur reparerar jag excel-filen? Med Aspose.Cells for Python-biblioteket kan du enkelt reparera EXCEL-filen programmatiskt med några rader kod.[Aspose.Cells for Python](https://products.aspose.com/cells/python-java) kan bygga plattformsoberoende applikationer med förmågan att generera, modifiera, konvertera, rendera och skriva ut alla Excel-filer. Python Excel API konverterar inte bara mellan kalkylarksformat, den kan också rendera Excel-filer som bilder, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT och mer, vilket gör det till ett perfekt val att utbyta dokument i industristandardformat. Du kan installera Aspose.Cells for Python via Java från<a href="https://pypi.org/project/aspose-cells/">pypi</a> , använd kommandot som:<code>$ pip install aspose-cells</code>.
 
 
 {{% /blocks/products/pf/agp/content %}}
@@ -32,7 +32,7 @@ Behöver du reparera excel-filen programmatiskt? Python-utvecklare kan enkelt la
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-recovery title="Gratis app och provkod för att reparera EXCEL-fil online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et" InputFormat="xlsx" outformat="xlsx" IsLandingPage="true" language="pythonjava" %}}    
+{{% cells-recovery title="Exempelkod för att reparera EXCEL-fil" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et" InputFormat="xlsx" outformat="xlsx" IsLandingPage="true" language="pythonjava" %}}    
     
 {{% blocks/products/pf/agp/content h2="Python bibliotek för att reparera EXCEL-fil" %}}
 
@@ -55,7 +55,7 @@ Det finns tre alternativ för att installera "Aspose.Cells for Python via Java" 
  
 -  Installera Java 1.8 eller högre och lägg till den i PATH miljövariabel, till exempel:<code>PATH=C:\Program Files\Java\jdk1.8.0_131;</code>.
 -  Installera[Python](https://www.python.org/downloads/) 3,5 eller högre.
-- Installera Aspose.Cells for Python från<a href="https://pypi.org/project/aspose-cells/">pypi</a> , använd kommandot som:<code>$ pip install aspose-cells</code>.
+-  Installera Aspose.Cells for Python från<a href="https://pypi.org/project/aspose-cells/">pypi</a> , använd kommandot som:<code>$ pip install aspose-cells</code>.
 
 
 {{% /blocks/products/pf/agp/content %}}

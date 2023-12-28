@@ -1,6 +1,7 @@
 ---
-title: Επιδιόρθωση αρχείου excel via Java
-description: Επιδιορθώστε ένα κατεστραμμένο αρχείο excel χρησιμοποιώντας το Java. Εργαλείο ανάκτησης για την επιδιόρθωση κατεστραμμένου αρχείου excel εντός της εφαρμογής Java.
+title: Java Επιδιόρθωση excel - Ανάκτηση και διόρθωση κατεστραμμένου αρχείου excel
+description: Java Aspose.Cells. Επισκευή excel. Διορθώστε το αρχείο excel. εργαλείο ανάκτησης excel. υπερέχει τη διαφθορά. Επαναφορά δεδομένων excel. ανάκτηση αρχείων excel. Ανάκτηση κατεστραμμένου αρχείου excel.
+keywords: [Java Aspose.Cells., repair excel file., excel repair., recover corrupted excel file., repair corrupted excel., recover excel., fix excel file., excel corruption., restore excel data., excel file recovery., recover corrupted excel file.]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Ανάκτηση αρχείου excel via Java" h2="Δημιουργήστε την εφαρμογή Java για να επιδιορθώσετε αρχεία excel χρησιμοποιώντας Java." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="EXCEL" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="" fileiconsmall1="XLS" fileiconsmall2="XLSB" fileiconsmall3="XLSX" fileiconsmall4="XLSM" fileiconsmall5="ODS" >}}
@@ -10,7 +11,7 @@ description: Επιδιορθώστε ένα κατεστραμμένο αρχε
 
 {{% blocks/products/pf/agp/content h2="Επιδιορθώστε το αρχείο EXCEL χρησιμοποιώντας το Java" %}}
 
- Για την επιδιόρθωση του αρχείου EXCEL, θα χρησιμοποιήσουμε[Aspose.Cells for Java](https://products.aspose.com/cells/java)API που είναι μια πλούσια σε χαρακτηριστικά, ισχυρή και εύκολη στη χρήση πλατφόρμα χειρισμού εγγράφων API for Java.
+ Για την επιδιόρθωση του αρχείου EXCEL, θα χρησιμοποιήσουμε[Aspose.Cells for Java](https://products.aspose.com/cells/java) API που είναι μια πλούσια σε χαρακτηριστικά, ισχυρή και εύκολη στη χρήση πλατφόρμα χειρισμού εγγράφων API for Java.
  
  Aspose.Cells API μπορεί να χρησιμοποιηθεί για τη δημιουργία, επεξεργασία, μετατροπή και απόδοση μορφών Excel Microsoft σε διαφορετικές μορφές. Επιπλέον, μπορεί να χρησιμοποιηθεί για ολοκληρωμένη χαρτογράφηση, κλιμακούμενη αναφορά και αξιόπιστους υπολογισμούς εντός εφαρμογών λογισμικού. Το Aspose.Cells είναι ένα αυτόνομο API και δεν απαιτεί λογισμικό όπως το Microsoft ή το OpenOffice.
 

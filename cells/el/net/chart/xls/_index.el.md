@@ -2,6 +2,7 @@
 title:  XLS γράφημα εγγράφων σε εικόνες via .NET
 weight: 3210
 description: C# πηγαίος κώδικας για σχεδίαση και μετατροπή γραφήματος ή διαγράμματος σε αρχείο XLS στο .NET Framework, .NET Core, Mono ή Xamarin Platforms.
+keywords: [C# Aspose.Cells., c# Convert chart to image in xls., c# Save chart to image in xls., c# chart to image in xls., xls convert chart to image in c#., xls save chart to imagein c#., xls chart to image in c#]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="XLS Αρχειοθέτηση γραφημάτων σε εικόνες στο C#" h2="Μετατροπή εγγενών γραφημάτων εγγράφων και υψηλής απόδοσης XLS σε εικόνες με χρήση API από την πλευρά του διακομιστή, χωρίς τη χρήση λογισμικού όπως το Microsoft ή το Adobe PDF." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="XLS" >}}
@@ -44,7 +45,7 @@ PM> Install-Package Aspose.Cells
 {{% /blocks/products/pf/agp/text %}}
 
 + Φόρτωση αρχείου XLS.
-+ Λάβετε το γράφημα.
+Λάβετε το γράφημα.
 + Μετατροπή γραφήματος σε εικόνα.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
@@ -78,7 +79,7 @@ PM> Install-Package Aspose.Cells
 
     {{% blocks/products/pf/agp/content h2="" %}}
 
-Aspose.Cells API μπορεί να χρησιμοποιηθεί για τη δημιουργία, επεξεργασία, μετατροπή και απόδοση μορφών Excel Microsoft σε διαφορετικές μορφές. Επιπλέον, μπορεί να χρησιμοποιηθεί για ολοκληρωμένη χαρτογράφηση, κλιμακούμενη αναφορά και αξιόπιστους υπολογισμούς εντός εφαρμογών λογισμικού. Το Aspose.Cells είναι ένα αυτόνομο API και δεν απαιτεί λογισμικό όπως το Microsoft ή το OpenOffice. Μετατροπή γραφήματος Excel σε PDF, JPG, PNG, EMF, WMF, BMP, SVG, TIFF, XPS.
+ Aspose.Cells API μπορεί να χρησιμοποιηθεί για τη δημιουργία, επεξεργασία, μετατροπή και απόδοση μορφών Excel Microsoft σε διαφορετικές μορφές. Επιπλέον, μπορεί να χρησιμοποιηθεί για ολοκληρωμένη χαρτογράφηση, κλιμακούμενη αναφορά και αξιόπιστους υπολογισμούς εντός εφαρμογών λογισμικού. Το Aspose.Cells είναι ένα αυτόνομο API και δεν απαιτεί λογισμικό όπως το Microsoft ή το OpenOffice. Μετατροπή γραφήματος Excel σε PDF, JPG, PNG, EMF, WMF, BMP, SVG, TIFF, XPS.
  
 
 

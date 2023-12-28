@@ -5,7 +5,7 @@ description: Slå ihop Excel-filer med Java till flera ark eller ett enda ark. S
 {{< blocks/products/pf/feature-page-wrap >}}
 {{< blocks/products/pf/i18n/feature-page-header h1="Microsoft<sup>&reg;</sup> Excel-filsammanslagning via Java" h2="Kombinera två eller flera Excel-filer i ett enda kalkylblad med Java-koden" >}}
 {{% blocks/products/pf/feature-page-summary %}}
-[Java Excel-bibliotek](/cells/sv/java/) ger flera sätt att kombinera arbetsböcker med olika typer av innehåll som formler, bilder, data, diagram etc till ett enda kalkylarksdokument. Filformat som stöds inkluderar XLS, XLSX, XLSB, XLT, XLTX, XLTM, ODS, CSV, 347618 och fler.
+[Java Excel-bibliotek](/cells/sv/java/)ger flera sätt att kombinera arbetsböcker med olika typer av innehåll som formler, bilder, data, diagram etc till ett enda kalkylarksdokument. Filformat som stöds inkluderar XLS, XLSX, XLSB, XLT, XLTX, XLTM, ODS, CSV, 347618 och fler.
 {{% /blocks/products/pf/feature-page-summary %}}
 
 {{% blocks/products/pf/feature-page-section h2="Kombinera Excel-filer med bilder och diagram" %}}
@@ -27,7 +27,7 @@ book1.save("combined.xlsx");
 {{% /blocks/products/pf/feature-page-section %}}
 
 {{% blocks/products/pf/feature-page-section h2="Slå samman flera Excel-filer" %}}
-[CellsHelper.mergeFiles](https://reference.aspose.com/cells/java/com.aspose.cells/cellshelper#mergeFiles)Metoden stöder sammanslagning av data, stil och formler för en Excel-fil till ett nytt kalkylblad i samma format. Det är ett effektivt sätt att slå samman flera filer samtidigt som du använder cachning.
+[CellsHelper.mergeFiles](https://reference.aspose.com/cells/java/com.aspose.cells/cellshelper#mergeFiles) Metoden stöder sammanslagning av data, stil och formler för en Excel-fil till ett nytt kalkylblad i samma format. Det är ett effektivt sätt att slå samman flera filer samtidigt som du använder cachning.
 {{% blocks/products/pf/feature-page-code h3="Java Kod för att slå samman flera Excel-filer" %}}
 
 ```cs
@@ -44,7 +44,7 @@ CellsHelper.mergeFiles(files, "cache", "merged.xls");
 {{% /blocks/products/pf/feature-page-section %}}
 
 {{% blocks/products/pf/feature-page-section h2="Slå ihop Excel-filer genom att kopiera arbetsblad" %}}
-[Arbetsblad.kopia](https://reference.aspose.com/cells/java/com.aspose.cells/worksheet#copy(com.aspose.cells.Worksheet)) kan användas för att kopiera data och formatering från ett källark till ett annat kalkylblad inom eller mellan arbetsböcker. Metoden tar källarksobjektet som en parameter.
+[Arbetsblad.kopia](https://reference.aspose.com/cells/java/com.aspose.cells/worksheet#copy(com.aspose.cells.Worksheet)kan användas för att kopiera data och formatering från ett källark till ett annat kalkylblad inom eller mellan arbetsböcker. Metoden tar källarksobjektet som en parameter.
 {{% blocks/products/pf/feature-page-code h3="Java Kod för att kopiera arbetsblad mellan arbetsböcker" %}}
 
 ```cs

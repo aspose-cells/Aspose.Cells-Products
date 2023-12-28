@@ -1,6 +1,7 @@
 ---
 title:  Μετατροπή γραφήματος σε εικόνες BMP via .NET
 description: C# πηγαίος κώδικας για μετατροπή γραφήματος σε αρχείο XLSX στο .NET Framework, .NET Core, Mono ή Xamarin Platforms.
+keywords: [C# Aspose.Cells., c# Convert chart to BMP., c# Save chart to BMP., c# chart to BMP]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Μετατροπή γραφημάτων σε BMP Εικόνες σε C#" h2="Μετατροπή εγγενών γραφημάτων εγγράφων και υψηλής απόδοσης XLS σε εικόνες με χρήση API από την πλευρά του διακομιστή, χωρίς τη χρήση λογισμικού όπως το Microsoft ή το Adobe PDF." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="XLS" >}}
@@ -43,7 +44,7 @@ PM> Install-Package Aspose.Cells
 {{% /blocks/products/pf/agp/text %}}
 
 + Δημιουργία αρχείου XLSX.
-+ Λάβετε το γράφημα.
+Λάβετε το γράφημα.
 + Μετατροπή γραφήματος σε εικόνα BMP.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

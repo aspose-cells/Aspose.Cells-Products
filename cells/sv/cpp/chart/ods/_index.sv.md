@@ -1,7 +1,8 @@
 ---
-title: ODS dokumentdiagram via C++
+title:  ODS dokumentdiagram via C++
 weight: 3820
 description: C++ exempelkod för att rita och konvertera diagram eller diagram i ODS fil på C++ Runtime Environment för Windows 32 bitar, Windows 64 bitar och Linux 64 bitar.
+keywords: [C++ Aspose.Cells., C++ Convert chart to image in ods., C++ Save chart to image in ods., C++ chart to image in ods., ods convert chart to image in C++., ods save chart to image in C++., ods chart to image in C++]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="ODS Formaterar diagram i C++" h2="Inbyggda och högpresterande ODS dokumentdiagram med Aspose.Cells for C++ API:er på serversidan, utan användning av någon programvara som Microsoft eller Adobe PDF." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" sourceAdditionalConversionTag="" additionalConversionTag="" pfName="Aspose.Cells" subTitlepfName="for C++" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="ODS" >}}
@@ -50,7 +51,7 @@ PM> Install-Package Aspose.Cells.Cpp
 + Gå till instansen av det nyligen tillagda diagrammet
 + Lägg till SeriesCollection (diagramdatakälla) till diagrammet
 + Ställ in diagramtypen för 2nd NSeries att visa som linjediagram
-Spara filen
++ Spara filen
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -69,7 +70,7 @@ Spara filen
 
 {{% blocks/products/pf/agp/code-block title="Skapa ODS Fildiagram - C++" offSpacer="" %}}
 
-{{< gist "aspose-com-gists" "da2fd423617bf9013a7673870c81d708" "create-ods-column-chart.cpp" >}}
+{{< gist "aspose-cells-gists" "6f7d9819d85793c3a3b5d040af42e1a9" "create-excel-ods-column-chart.cpp" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 

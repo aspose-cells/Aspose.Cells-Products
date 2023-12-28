@@ -1,7 +1,8 @@
 ---
 title:  Infoga blockpilar i Excel via .NET
 weight: 338
-description: C# källkod för att infoga blockpilar i Excel på .NET Framework, .NET Core, Mono eller Xamarin-plattformar.
+description: C# Exempelkod för att lägga till eller infoga blockpilar i Excel med hjälp av .NET Library. Använd den här koden för att skapa blockpilar i MS Excel inom VB.NET, Asp.NET eller någon .NET-baserad applikation.
+keywords: [C# Aspose.Cells., c# add block arrows., c# insert block arrows., c# create block arrows]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Infoga blockpilar i Excel via .NET" h2="Infoga blockpilar med Aspose.Cells\' API utan någon programvara som Microsoft eller Open Office, Adobe PDF, etc." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="XLSX" >}}
@@ -11,7 +12,7 @@ description: C# källkod för att infoga blockpilar i Excel på .NET Framework, 
 
 {{% blocks/products/pf/agp/content h2="Hur man infogar blockpilar i Excel-fil med C#" %}}
 
-För att infoga blockpilar i excel-filen kommer vi att använda
+ För att infoga blockpilar i excel-filen kommer vi att använda
  [Aspose.Cells for .NET](https://products.aspose.com/cells/net) 
  API som är en funktionsrik, kraftfull och lättanvänd dokumenthantering och splitter API för C# plattform. Öppen
  [NuGet](https://www.nuget.org/packages/aspose.cells) 
@@ -41,7 +42,7 @@ Du behöver aspose.cells.dll för att prova följande arbetsflöde i din egen mi
 
 {{% /blocks/products/pf/agp/text %}}
 
-Instantiera ett arbetsboksobjekt.(eller->Läs in XLSX-filen med fullständig sökväg.)
++ Instantiera ett arbetsboksobjekt.(eller->Läs in XLSX-filen med fullständig sökväg.)
 + Välj kalkylblad via dess index.
  + Använd[lägga till metod](https://reference.aspose.com/cells/net/aspose.cells.drawing/shapecollection/addautoshape) för att infoga blockpilar i det valda kalkylbladet
 + Spara arbetsboken i XLSX-format.
@@ -62,7 +63,7 @@ Instantiera ett arbetsboksobjekt.(eller->Läs in XLSX-filen med fullständig sö
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-Exempelkoden nedan visar hur man infogar en "högerpil". För fler typer, se "Översikt över blockpilarformtyper" nedan.
+Exempelkoden nedan visar hur man infogar en "högerpil". För fler typer, se "Översikt över formtyper av blockpil" nedan.
 
 {{% blocks/products/pf/agp/code-block title="Infoga blockpilar - C#" offSpacer="" %}}
 
@@ -159,7 +160,7 @@ Exempelkoden nedan visar hur man infogar en "högerpil". För fler typer, se "Ö
    <div class="col-lg-4">
     <img src="/cells/net/shapes/insert-block-arrows-to-excel/arrow_curved_left.png" align="left" width="28" height="28">
     <p class="col-lg-10">
- AutoShapeType.CurvedLeftArrow
+AutoShapeType.CurvedLeftArrow
     </p>
    </div>
    <div class="col-lg-4">
@@ -219,7 +220,7 @@ Exempelkoden nedan visar hur man infogar en "högerpil". För fler typer, se "Ö
    <div class="col-lg-4">
     <img src="/cells/net/shapes/insert-block-arrows-to-excel/arrow_up_callout.png" align="left" width="28" height="28">
     <p class="col-lg-10">
-AutoShapeType.UpArrowCallout
+ AutoShapeType.UpArrowCallout
     </p>
    </div>
    <div class="col-lg-4">
@@ -253,7 +254,7 @@ AutoShapeType.UpArrowCallout
 
 {{% blocks/products/pf/agp/content h2="Om Aspose.Cells for .NET API" %}}
 
- Aspose.Cells API kan användas för att skapa, redigera, konvertera och rendera Microsoft Excel-format till olika format. Dessutom kan den användas för omfattande kartläggning, skalbar rapportering och tillförlitliga beräkningar inom mjukvaruapplikationer. Aspose.Cells är en fristående API och den kräver ingen programvara som Microsoft eller OpenOffice.
+Aspose.Cells API kan användas för att skapa, redigera, konvertera och rendera Microsoft Excel-format till olika format. Dessutom kan den användas för omfattande kartläggning, skalbar rapportering och tillförlitliga beräkningar inom mjukvaruapplikationer. Aspose.Cells är en fristående API och den kräver ingen programvara som Microsoft eller OpenOffice.
 
 {{% /blocks/products/pf/agp/content %}}
 

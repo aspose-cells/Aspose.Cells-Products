@@ -2,6 +2,7 @@
 title: Infoga anteckningar till XLSB fil via Python
 url: /sv/python-java/notes/insert-notes-to-xlsb/ 
 description: Infoga anteckningar till XLSB med Python. Använd API exempelkod för att infoga anteckningar i Python-applikationen.
+keywords: [Python Aspose.Cells., add XLSB notes., insert XLSB notes., access XLSB notes., remove XLSB notes., delete XLSB notes., add notes in XLSB., insert notes in XLSB., access notes in XLSB., remove notes in XLSB., delete notes in XLSB]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Infoga anteckningar i filen XLSB via Python" h2="Bygg din egen Python-applikation för att manipulera kommentarer och författare i dokumentfiler med hjälp av API:er på serversidan." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSB" pfName="Aspose.Cells" subTitlepfName="for Python" downloadUrl="" fileiconsmall1="XLS" fileiconsmall2="XLSB" fileiconsmall3="XLSX" fileiconsmall4="XLSM" fileiconsmall5="ODS" >}}
@@ -11,7 +12,7 @@ description: Infoga anteckningar till XLSB med Python. Använd API exempelkod f�
 
 {{% blocks/products/pf/agp/content h2="Infoga anteckningar i XLSB fil med Python" %}}
 
- Med Aspose.Cells for Python-biblioteket kan du enkelt infoga anteckningar i XLSB-filen programmatiskt med några rader kod.[Aspose.Cells for Python](https://pypi.org/project/aspose-cells) kan bygga plattformsoberoende applikationer med förmågan att generera, modifiera, konvertera, rendera och skriva ut alla Excel-filer. Python Excel API konverterar inte bara mellan kalkylarksformat, det kan också rendera Excel-filer som bilder, PDF, HTML, ODS, ODS, CSV, 0761687481, 0761687481, vilket gör det till ett perfekt val, Pt utbyta dokument i branschstandard format. Du kan installera Aspose.Cells for Python från<a href="https://pypi.org/project/aspose-cells/">pypi</a> , använd kommandot som:<code>$ pip install aspose-cells</code>.
+ Med Aspose.Cells for Python-biblioteket kan du enkelt infoga anteckningar i XLSB-filen programmatiskt med några rader kod.[Aspose.Cells for Python](https://pypi.org/project/aspose-cells) kan bygga plattformsoberoende applikationer med förmågan att generera, modifiera, konvertera, rendera och skriva ut alla Excel-filer. Python Excel API konverterar inte bara mellan kalkylarksformat, den kan också rendera Excel-filer som bilder, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT och mer, vilket gör det till ett perfekt val att utbyta dokument i industristandardformat. Du kan installera Aspose.Cells for Python via Java från<a href="https://pypi.org/project/aspose-cells/">pypi</a> , använd kommandot som:<code>$ pip install aspose-cells</code>.
 
  
 {{% /blocks/products/pf/agp/content %}}
@@ -26,7 +27,7 @@ description: Infoga anteckningar till XLSB med Python. Använd API exempelkod f�
 
 -  Installera Java 1.8 eller högre och lägg till den i PATH miljövariabel, till exempel:<code>PATH=C:\Program Files\Java\jdk1.8.0_131;</code>.
 -  Installera[Python](https://www.python.org/downloads/) 3,5 eller högre.
-- Installera Aspose.Cells for Python från<a href="https://pypi.org/project/aspose-cells/">pypi</a> , använd kommandot som:<code>$ pip install aspose-cells</code>.
+-  Installera Aspose.Cells for Python från<a href="https://pypi.org/project/aspose-cells/">pypi</a> , använd kommandot som:<code>$ pip install aspose-cells</code>.
 
 
 {{% /blocks/products/pf/agp/content %}}

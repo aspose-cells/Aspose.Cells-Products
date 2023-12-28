@@ -2,6 +2,7 @@
 title:  Visa eller redigera XLSB Filer Metadata via .NET
 weight: 7890
 description: C# källkod för att redigera eller visa XLSB formatmetadata på .NET Framework, .NET Core, Mono eller Xamarin Platforms.
+keywords: [C# Aspose.Cells., c# view xlsb metadata., c# add xlsb metadata., c# insert xlsb metadata., c# edit xlsb metadata., c# remove xlsb metadata., c# extract xlsb metadata., c# modify xlsb metadata]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Extrahera XLSB Metadata via .NET" h2="Bygg dina egna .NET-appar för att lägga till, redigera, ta bort eller extrahera metadata från XLSB-filer med hjälp av API:er på serversidan." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSB" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="PPTX" fileiconsmall2="DOCX" fileiconsmall3="XLSX" fileiconsmall4="PDF" fileiconsmall5=" ODP " >}}
@@ -106,7 +107,7 @@ foreach (Aspose.Cells.Properties.DocumentProperty property in book.Worksheets.Bu
 
     {{< blocks/products/pf/agp/about-file-section >}}
 
-        {{< blocks/products/pf/agp/demobox sectionTitle="Extrahera metadata för XLSB via onlineappen" sectionDescription=" Visa och redigera metadata till XLSB dokument genom att använda vår[Livedemos](https://products.aspose.app/cells/metadata) med följande förmåner." >}}
+        {{< blocks/products/pf/agp/demobox sectionTitle="Extrahera metadata för XLSB via onlineappen" sectionDescription=" Visa och redigera metadata till XLSB dokument genom att använda vår[Live Demos](https://products.aspose.app/cells/metadata) med följande förmåner." >}}
             {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Du behöver inte ladda ner eller ställa in någonting" >}}
             {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Du behöver inte skriva någon kod" >}}
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Ladda bara upp din XLSB-fil och redigera dokumentegenskaper" >}}

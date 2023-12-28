@@ -1,7 +1,7 @@
 ---
 title: Skapa FODS - Skapa FODS fil i Java
-description: Aspose Excel. Java Skapa FODS fil. Skapa FODS Java. Java FODS Skapare. Skapa FODS i Java. Generera filen FODS med Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Create FODS Java., Java FODS Creater., Create FODS file in Java., Generate FODS file in Java]
+description: Aspose Excel. Java Skapa FODS Arkivera snabbt och enkelt med Aspose.Cells. Skapa FODS fil med Java. Skapa FODS i Java. 0761836481 Skapa Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java Create FODS file., Generate FODS file in Java., Create FODS file using Java., Write data to FODS file via Java., Create a FODS file in Java., Java Generate a FODS file., Java FODS Creater]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Skapa FODS-fil i Java" h2="Höghastighets Java-bibliotek för att skapa FODS-fil. Detta är en professionell mjukvarulösning för att importera och exportera XLSX, PDF och många andra format med Java." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="FODS" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -11,7 +11,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Create FODS Java., Java FODS Creat
 
 {{% blocks/products/pf/agp/content h2="Skapa FODS-fil med Java" %}}
 
- Hur skapar man FODS-fil? Med Aspose.Cells for Java-biblioteket kan du enkelt skapa FODS-filen programmatiskt med några rader kod.[Aspose.Cells for Java](https://products.aspose.com/cells/java) kan bygga plattformsoberoende applikationer med förmågan att generera, modifiera, konvertera, rendera och skriva ut alla Excel-filer. Java Excel API konverterar inte bara mellan kalkylarksformat, det kan också rendera Excel-filer som bilder, PDF, HTML, ODS, ODS, CSV, 0761687481, 0761687481, vilket gör det till ett perfekt val, Pt utbyta dokument i branschstandard format. Du kan ladda ner den senaste versionen direkt från[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) och installera det i ditt Maven-baserade projekt genom att lägga till följande konfigurationer till pom.xml.
+ Hur skapar man FODS-fil? Med Aspose.Cells for Java-biblioteket kan du enkelt skapa FODS-filen programmatiskt med några rader kod.[Aspose.Cells for Java](https://products.aspose.com/cells/java)kan bygga plattformsoberoende applikationer med förmågan att generera, modifiera, konvertera, rendera och skriva ut alla Excel-filer. Java Excel API konverterar inte bara mellan kalkylarksformat, den kan också rendera Excel-filer som bilder, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT och mer, vilket gör det till ett perfekt val att utbyta dokument i industristandardformat. Du kan ladda ner den senaste versionen direkt från[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) och installera det i ditt Maven-baserade projekt genom att lägga till följande konfigurationer till pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Förvar" offSpacer="true" %}}
 
@@ -57,7 +57,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Create FODS Java., Java FODS Creat
 1.  Skapa en instans av[Arbetsbok klass](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook).
 1.  Öppna det relevanta kalkylbladet med metoden getWorksheets.get().
 1.  Välj den relevanta cellen, mata in värdet i önskad cell med cellnamnet, som A1, B3, etc.
-1.  Spara arbetsboken som FODS-format med metoden save().
+1. Spara arbetsboken som FODS-format med metoden save().
 
 {{% blocks/products/pf/agp/code-block title="Exempelkod visar hur man skapar FODS-filen i Java." offSpacer="" %}}
 
@@ -101,7 +101,7 @@ wkb.save("Excel.fods");
 
 {{% blocks/products/pf/agp/text %}}
 
-Innan du kör källkoden för Java omvandlingsexempel, se till att du har följande förutsättningar.
+ Innan du kör källkoden för Java omvandlingsexempel, se till att du har följande förutsättningar.
 
 {{% /blocks/products/pf/agp/text %}}
 

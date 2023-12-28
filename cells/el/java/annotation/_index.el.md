@@ -1,6 +1,7 @@
 ---
-title: Σχολιασμοί αρχείου Excel via Java
+title: Προσθήκη ή αφαίρεση σχολιασμών αρχείου Excel via Java
 description: Προσθέστε ή αφαιρέστε σχολιασμούς δεδομένων υπολογιστικών φύλλων Excel και OpenOffice με τη βιβλιοθήκη Java.
+keywords: [Java Aspose.Cells., add excel annotation., insert excel annotation., access excel annotation., remove excel annotation., delete excel annotation., add annotation in excel., insert annotation in excel., access annotation in excel., remove annotation in excel., delete annotation in excel]
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
 {{< blocks/products/pf/i18n/feature-page-header h1="Διαχείριση Microsoft<sup>&reg;</sup> Σχολιασμοί αρχείου Excel via Java" h2="Εισαγάγετε απλές σημειώσεις για σχολιασμό ή διαγράψτε σχόλια σε επίπεδο κελιού υπολογιστικού φύλλου Excel εντός εφαρμογών που βασίζονται σε Java." >}}

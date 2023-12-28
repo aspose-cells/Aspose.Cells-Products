@@ -2,6 +2,7 @@
 title:  Sök XLSX dokument utan att öppna via .NET
 weight: 4880
 description: C# källkod för att söka efter ord med mönster i filen XLSX på .NET Framework, .NET Core, Mono eller Xamarin Platforms.
+keywords: [C# Aspose.Cells., c# search words with pattern in XLSX file., c# find words with pattern in XLSX file., c# search string with pattern in XLSX file., c# find words with pattern in XLSX file., c# search words in excel file., c# find words in excel file., c# search string in excel file., c# find string in excel file]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Sök XLSX-format i C#" h2="Inbyggd och högpresterande XLSX dokumentsökning med hjälp av Aspose.Cells for .NET API:er på serversidan, utan användning av någon programvara som Microsoft eller Adobe PDF." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="XLSX" >}}
@@ -13,7 +14,7 @@ description: C# källkod för att söka efter ord med mönster i filen XLSX på 
 
  För att söka XLSX-filen använder vi
  [Aspose.Cells for .NET](https://products.aspose.com/cells/net) 
-API som är en funktionsrik, kraftfull och lättanvänd dokumentsökning API för C# plattform. Öppen
+ API som är en funktionsrik, kraftfull och lättanvänd dokumentsökning API för C# plattform. Öppen
  [NuGet](https://www.nuget.org/packages/aspose.cells) 
  pakethanterare, sök efter
  **Aspose.Cells** 

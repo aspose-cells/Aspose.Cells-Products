@@ -1,7 +1,7 @@
 ---
 title: Skapa MARKDOWN - Skapa MARKDOWN fil i Java
-description: Aspose Excel. Java Skapa MARKDOWN fil. Skapa MARKDOWN Java. Java MARKDOWN Skapare. Skapa MARKDOWN i Java. Generera filen MARKDOWN med Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Create MARKDOWN Java., Java MARKDOWN Creater., Create MARKDOWN file in Java., Generate MARKDOWN file in Java]
+description: Aspose Excel. Java Skapa MARKDOWN Arkivera snabbt och enkelt med Aspose.Cells. Skapa MARKDOWN fil med Java. Skapa MARKDOWN i Java. 0761836481 Skapa Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java Create MARKDOWN file., Generate MARKDOWN file in Java., Create MARKDOWN file using Java., Write data to MARKDOWN file via Java., Create a MARKDOWN file in Java., Java Generate a MARKDOWN file., Java MARKDOWN Creater]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Skapa MARKDOWN-fil i Java" h2="Höghastighets Java-bibliotek för att skapa MARKDOWN-fil. Detta är en professionell mjukvarulösning för att importera och exportera XLSX, PDF och många andra format med Java." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="MARKDOWN" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -11,7 +11,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Create MARKDOWN Java., Java MARKDO
 
 {{% blocks/products/pf/agp/content h2="Skapa MARKDOWN-fil med Java" %}}
 
- Hur skapar man MARKDOWN-fil? Med Aspose.Cells for Java-biblioteket kan du enkelt skapa MARKDOWN-filen programmatiskt med några rader kod.[Aspose.Cells for Java](https://products.aspose.com/cells/java) kan bygga plattformsoberoende applikationer med förmågan att generera, modifiera, konvertera, rendera och skriva ut alla Excel-filer. Java Excel API konverterar inte bara mellan kalkylarksformat, det kan också rendera Excel-filer som bilder, PDF, HTML, ODS, ODS, CSV, 0761687481, 0761687481, vilket gör det till ett perfekt val, Pt utbyta dokument i branschstandard format. Du kan ladda ner den senaste versionen direkt från[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) och installera det i ditt Maven-baserade projekt genom att lägga till följande konfigurationer till pom.xml.
+ Hur skapar man MARKDOWN-fil? Med Aspose.Cells for Java-biblioteket kan du enkelt skapa MARKDOWN-filen programmatiskt med några rader kod.[Aspose.Cells for Java](https://products.aspose.com/cells/java)kan bygga plattformsoberoende applikationer med förmågan att generera, modifiera, konvertera, rendera och skriva ut alla Excel-filer. Java Excel API konverterar inte bara mellan kalkylarksformat, den kan också rendera Excel-filer som bilder, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT och mer, vilket gör det till ett perfekt val att utbyta dokument i industristandardformat. Du kan ladda ner den senaste versionen direkt från[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) och installera det i ditt Maven-baserade projekt genom att lägga till följande konfigurationer till pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Förvar" offSpacer="true" %}}
 
@@ -57,7 +57,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Create MARKDOWN Java., Java MARKDO
 1.  Skapa en instans av[Arbetsbok klass](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook).
 1.  Öppna det relevanta kalkylbladet med metoden getWorksheets.get().
 1.  Välj den relevanta cellen, mata in värdet i önskad cell med cellnamnet, som A1, B3, etc.
-1.  Spara arbetsboken som MARKDOWN-format med metoden save().
+1. Spara arbetsboken som MARKDOWN-format med metoden save().
 
 {{% blocks/products/pf/agp/code-block title="Exempelkod visar hur man skapar MARKDOWN-filen i Java." offSpacer="" %}}
 
@@ -101,7 +101,7 @@ wkb.save("Excel.md");
 
 {{% blocks/products/pf/agp/text %}}
 
-Innan du kör källkoden för Java omvandlingsexempel, se till att du har följande förutsättningar.
+ Innan du kör källkoden för Java omvandlingsexempel, se till att du har följande förutsättningar.
 
 {{% /blocks/products/pf/agp/text %}}
 

@@ -1,8 +1,8 @@
 ---
-title: Java Reparera excel-fil - Reparera excel-fil online gratis
+title: Java Reparera excel - Återställ och fixa skadad excel-fil
 url: /sv/java/recovery/repair-excel/ 
-description: Aspose Excel. Java Aspose.Cells. Java Reparera excel-fil. Gratis online excel reparationsverktyg. Reparera en skadad Excel-fil. Återställ en skadad Excel-fil i Java-applikationen.
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java Repair excel file., Free Online Repair a corrupted excel file., Java Recover excel file.]
+description: Java Aspose.Cells. Reparation excel. Fixa excel-fil. excel återställningsverktyg. excel korruption. Återställ Excel-data. excel-filåterställning. Återställ skadad excel-fil.
+keywords: [Java Aspose.Cells., repair excel file., excel repair., recover corrupted excel file., repair corrupted excel., recover excel., fix excel file., excel corruption., restore excel data., excel file recovery., recover corrupted excel file.]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Reparera EXCEL-fil i Java" h2="Bygg din egen Java-applikation för att reparera Excel-filer med Java." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="EXCEL" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="" fileiconsmall1="XLS" fileiconsmall2="XLSB" fileiconsmall3="XLSX" fileiconsmall4="XLSM" fileiconsmall5="ODS" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java Repair ex
 
 {{% blocks/products/pf/agp/content h2="Reparera EXCEL-fil med Java" %}}
 
- Hur reparerar jag excel-filen? Med Aspose.Cells for Java-biblioteket kan du enkelt reparera EXCEL-filen programmatiskt med några rader kod.[Aspose.Cells for Java](https://products.aspose.com/cells/java) kan bygga plattformsoberoende applikationer med förmågan att generera, modifiera, konvertera, rendera och skriva ut alla Excel-filer. Java Excel API konverterar inte bara mellan kalkylarksformat, det kan också rendera Excel-filer som bilder, PDF, HTML, ODS, ODS, CSV, 0761687481, 0761687481, vilket gör det till ett perfekt val, Pt utbyta dokument i branschstandard format. Du kan ladda ner den senaste versionen direkt från[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) och installera det i ditt Maven-baserade projekt genom att lägga till följande konfigurationer till pom.xml.
+ Hur reparerar jag excel-filen? Med Aspose.Cells for Java-biblioteket kan du enkelt reparera EXCEL-filen programmatiskt med några rader kod.[Aspose.Cells for Java](https://products.aspose.com/cells/java)kan bygga plattformsoberoende applikationer med förmågan att generera, modifiera, konvertera, rendera och skriva ut alla Excel-filer. Java Excel API konverterar inte bara mellan kalkylarksformat, den kan också rendera Excel-filer som bilder, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT och mer, vilket gör det till ett perfekt val att utbyta dokument i industristandardformat. Du kan ladda ner den senaste versionen direkt från[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) och installera det i ditt Maven-baserade projekt genom att lägga till följande konfigurationer till pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Förvar" offSpacer="true" %}}
 
@@ -60,7 +60,7 @@ Behöver du reparera excel-filen programmatiskt? Java-utvecklare kan enkelt ladd
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-recovery title="Gratis app och provkod för att reparera EXCEL-fil online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et" InputFormat="xlsx" outformat="xlsx" IsLandingPage="true" language="java" %}}    
+{{% cells-recovery title="Exempelkod för att reparera EXCEL-fil" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et" InputFormat="xlsx" outformat="xlsx" IsLandingPage="true" language="java" %}}    
     
 {{% blocks/products/pf/agp/content h2="Java bibliotek för att reparera EXCEL-fil" %}}
 

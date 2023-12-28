@@ -1,6 +1,7 @@
 ---
 title: Dela upp Excel-kalkylblad i C#
 description: C# källkoder som förklarar hur man delar upp Microsoft Excel-filer i flera filer i Visual C#.NET-program
+keywords: [C# Aspose.Cells., C# split excel files., C# how to split excel files into multiple files., C# excel splitter., C# split Cell., Cell splitter using C#]
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
 {{< blocks/products/pf/i18n/feature-page-header h1="Microsoft<sup>&reg;</sup> Excel-fildelning via .NET" h2="Dela upp ett Excel-dokument i olika filer med C#-koden inom .NET-baserade applikationer" >}}
@@ -9,7 +10,7 @@ description: C# källkoder som förklarar hur man delar upp Microsoft Excel-file
 {{% /blocks/products/pf/feature-page-summary %}}
 
 {{% blocks/products/pf/feature-page-section h2="Dela upp Excel-dokument i flera filer" %}}
- Det enklaste sättet att dela upp Excel-filer arkmässigt är att komma åt alla ark via[Arbetsblad](https://reference.aspose.com/cells/net/aspose.cells/workbook/properties/worksheets) , Itererar genom varje ark och anropar[Kopiera](https://reference.aspose.com/cells/net/aspose.cells/worksheet/methods/copy) metod. Äntligen sparar du den på en angiven väg.
+Det enklaste sättet att dela upp Excel-filer arkmässigt är att komma åt alla ark via[Arbetsblad](https://reference.aspose.com/cells/net/aspose.cells/workbook/properties/worksheets) , Itererar genom varje ark och anropar[Kopiera](https://reference.aspose.com/cells/net/aspose.cells/worksheet/methods/copy) metod. Äntligen sparar du den på en angiven väg.
 
  + Ladda Excel-filen med fullständig sökväg med hjälp av[Arbetsbok klass](https://reference.aspose.com/cells/net/aspose.cells/workbook).
 + Iterera genom varje ark
@@ -28,7 +29,7 @@ description: C# källkoder som förklarar hur man delar upp Microsoft Excel-file
 
 {{% blocks/products/pf/feature-page-section h2="Dela upp Excel-kalkylblad i rutor" %}}
 
- För att dela upp kalkylbladsfönster i rutor, tillhandahåller API[Split metod](https://reference.aspose.com/cells/net/aspose.cells/worksheet/methods/split)av kalkylbladsklassen, som ger den delade vyn av kalkylbladet. För att ta bort delad vy ger API[RemoveSplit-metoden](https://reference.aspose.com/cells/net/aspose.cells/worksheet/methods/removesplit) . Spara den till sist i en angiven sökväg.
+ För att dela upp kalkylbladsfönster i rutor, tillhandahåller API[Split metod](https://reference.aspose.com/cells/net/aspose.cells/worksheet/methods/split) av kalkylbladsklassen, som ger den delade vyn av kalkylbladet. För att ta bort delad vy ger API[RemoveSplit-metoden](https://reference.aspose.com/cells/net/aspose.cells/worksheet/methods/removesplit) . Spara den till sist i en angiven sökväg.
 
 {{% blocks/products/pf/feature-page-code h3="C# Kod för att dela Excel-kalkylbladsfönster" %}}
 

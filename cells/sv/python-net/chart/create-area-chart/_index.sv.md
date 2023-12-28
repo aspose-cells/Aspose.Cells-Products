@@ -1,6 +1,7 @@
 ---
 title: Skapa områdesdiagram via Python
 description: Python Exempelkod för att skapa Ytdiagram till Excel med Python Library. Använd den här koden för att skapa ett områdesdiagram till MS Excel inom Python-baserad applikation.
+keywords: [Python Aspose.Cells., Python add Area Chart., Python insert Area Chart., Python create Area Chart]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
@@ -35,7 +36,7 @@ Det är enkelt för utvecklarna att skapa ett områdesdiagram inom att köra oli
 {{% blocks/products/pf/agp/text %}}
  Aspose.Cells for Python är plattformsoberoende API och kan användas på vilken plattform som helst (Windows, Linux), se bara till att systemet har[Python](https://www.python.org/downloads/) 3,7 eller högre.
 {{% /blocks/products/pf/agp/text %}}
-- Installera Aspose.Cells for Python från<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , använd kommandot som:<code>$ pip install aspose-cells-python</code>.
+-  Installera Aspose.Cells for Python från<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , använd kommandot som:<code>$ pip install aspose-cells-python</code>.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/code-block title="Följande källkod visar hur man skapar ett områdesdiagram till MS Excel XLSX-fil med Python." offSpacer="" %}}

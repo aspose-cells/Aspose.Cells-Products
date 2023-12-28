@@ -1,7 +1,7 @@
 ---
 title: Δημιουργία SQL - Δημιουργία αρχείου SQL στο Java
-description: Aspose Excel. Java Δημιουργία αρχείου SQL. Δημιουργία SQL Java. Java SQL Creater. Δημιουργήστε SQL στο Java. Δημιουργήστε αρχείο SQL χρησιμοποιώντας το Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Create SQL Java., Java SQL Creater., Create SQL file in Java., Generate SQL file in Java]
+description:  Aspose Excel. Java Δημιουργήστε αρχείο SQL γρήγορα και εύκολα με το Aspose.Cells. Δημιουργήστε αρχείο SQL χρησιμοποιώντας το Java. Δημιουργήστε SQL στο Java. Java SQL Creater.
+keywords: [Aspose Excel., Java Aspose.Cells., Java Create SQL file., Generate SQL file in Java., Create SQL file using Java., Write data to SQL file via Java., Create a SQL file in Java., Java Generate a SQL file., Java SQL Creater]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Δημιουργήστε αρχείο SQL στο Java" h2="Βιβλιοθήκη υψηλής ταχύτητας Java για τη δημιουργία αρχείου SQL. Αυτή είναι μια επαγγελματική λύση λογισμικού για εισαγωγή και εξαγωγή XLSX, PDF και πολλών άλλων μορφών χρησιμοποιώντας το Java." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="SQL" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -11,7 +11,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Create SQL Java., Java SQL Creater
 
 {{% blocks/products/pf/agp/content h2="Δημιουργήστε αρχείο SQL χρησιμοποιώντας Java" %}}
 
- Πώς να δημιουργήσετε αρχείο SQL; Με τη βιβλιοθήκη Aspose.Cells for Java, μπορείτε εύκολα να δημιουργήσετε αρχείο SQL μέσω προγραμματισμού με λίγες γραμμές κώδικα.[Aspose.Cells for Java](https://products.aspose.com/cells/java) έχει τη δυνατότητα δημιουργίας εφαρμογών πολλαπλών πλατφορμών με δυνατότητα δημιουργίας, τροποποίησης, μετατροπής, απόδοσης και εκτύπωσης όλων των αρχείων Excel. Java Το Excel API όχι μόνο μετατρέπει μεταξύ μορφών υπολογιστικών φύλλων, αλλά μπορεί επίσης να αποδώσει αρχεία Excel ως εικόνες, PDF, HTML, ODS, CSV, 07616031481, CSV, 07616831481, δημιουργώντας περισσότερα τέλεια επιλογή για την ανταλλαγή εγγράφων σε βιομηχανικά πρότυπα μορφές. Μπορείτε να κατεβάσετε την τελευταία του έκδοση απευθείας από[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) και εγκαταστήστε το στο έργο σας που βασίζεται στο Maven προσθέτοντας τις ακόλουθες διαμορφώσεις στο pom.xml.
+ Πώς να δημιουργήσετε αρχείο SQL; Με τη βιβλιοθήκη Aspose.Cells for Java, μπορείτε εύκολα να δημιουργήσετε αρχείο SQL μέσω προγραμματισμού με λίγες γραμμές κώδικα.[Aspose.Cells for Java](https://products.aspose.com/cells/java)έχει τη δυνατότητα δημιουργίας εφαρμογών πολλαπλών πλατφορμών με δυνατότητα δημιουργίας, τροποποίησης, μετατροπής, απόδοσης και εκτύπωσης όλων των αρχείων Excel. Java Το Excel API όχι μόνο μετατρέπει μεταξύ μορφών υπολογιστικών φύλλων, αλλά μπορεί επίσης να αποδώσει αρχεία Excel ως εικόνες, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT και άλλα, καθιστώντας έτσι την τέλεια επιλογή για την ανταλλαγή εγγράφων σε βιομηχανικές τυποποιημένες μορφές. Μπορείτε να κατεβάσετε την τελευταία του έκδοση απευθείας από[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) και εγκαταστήστε το στο έργο σας που βασίζεται στο Maven προσθέτοντας τις ακόλουθες διαμορφώσεις στο pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Αποθήκη" offSpacer="true" %}}
 
@@ -50,7 +50,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Create SQL Java., Java SQL Creater
 
 {{% blocks/products/pf/agp/text %}}
 
-Είναι εύκολο για τους προγραμματιστές να δημιουργήσουν, να φορτώσουν, να τροποποιήσουν και να μετατρέψουν αρχεία SQL μέσα σε διαφορετικές εφαρμογές αναφοράς για επεξεργασία δεδομένων σε λίγες μόνο γραμμές κώδικα.
+ Είναι εύκολο για τους προγραμματιστές να δημιουργήσουν, να φορτώσουν, να τροποποιήσουν και να μετατρέψουν αρχεία SQL μέσα σε διαφορετικές εφαρμογές αναφοράς για επεξεργασία δεδομένων σε λίγες μόνο γραμμές κώδικα.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -101,7 +101,7 @@ wkb.save("Excel.sql");
 
 {{% blocks/products/pf/agp/text %}}
 
-Πριν εκτελέσετε το δείγμα πηγαίου κώδικα μετατροπής Java, βεβαιωθείτε ότι διαθέτετε τις ακόλουθες προϋποθέσεις.
+ Πριν εκτελέσετε το δείγμα πηγαίου κώδικα μετατροπής Java, βεβαιωθείτε ότι διαθέτετε τις ακόλουθες προϋποθέσεις.
 
 {{% /blocks/products/pf/agp/text %}}
 

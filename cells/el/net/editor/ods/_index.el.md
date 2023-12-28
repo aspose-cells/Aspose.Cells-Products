@@ -1,6 +1,7 @@
 ---
 title:  Επεξεργασία ODS αρχείων via .NET
 description: C# πηγαίος κώδικας για επεξεργασία εγγράφου ODS στο .NET Framework, .NET Core, Windows Azure, Mono ή Xamarin Platforms.
+keywords: [C# Aspose.Cells., c# edit ods document., c# load ods file., c# modify ods file., c# save file to ods format]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Επεξεργασία ODS Μορφές στο C#" h2="Επεξεργασία εγγράφων εγγενούς και υψηλής απόδοσης ODS με χρήση API Aspose.Cells for .NET από την πλευρά του διακομιστή, χωρίς τη χρήση λογισμικού όπως το Microsoft ή το Adobe PDF." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="DOCX" >}}
@@ -30,13 +31,16 @@ PM> Install-Package Aspose.Cells
 
 {{% blocks/products/pf/agp/text %}}
 
- Μια βασική επεξεργασία εγγράφων με
- [Aspose.Cells for .NET](https://products.aspose.com/cells/net) 
- Τα API μπορούν να γίνουν με λίγες μόνο γραμμές κώδικα.
+ Μια βασική επεξεργασία εγγράφων με[Aspose.Cells for .NET](https://products.aspose.com/cells/net) Τα API μπορούν να γίνουν με λίγες μόνο γραμμές κώδικα.
 
 {{% /blocks/products/pf/agp/text %}}
 
-{{code_steps}}
+1.  Συμπεριλάβετε τον χώρο ονομάτων στο αρχείο της τάξης σας
+1.  Φορτώστε το δείγμα του αρχείου σας.
+1. Προσθήκη και πρόσβαση στο νέο φύλλο εργασίας του βιβλίου εργασίας.
+1.  Λάβετε τα επιθυμητά κελιά του φύλλου εργασίας και τοποθετήστε την τιμή στα κελιά.
+1.  Εισαγάγετε τον Συγκεντρωτικό Πίνακα και ορίστε το στυλ
+1.  Χρησιμοποιήστε τη μέθοδο Save για να αποθηκεύσετε το βιβλίο εργασίας ως αρχείο ODS.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -56,10 +60,7 @@ PM> Install-Package Aspose.Cells
 
 {{% blocks/products/pf/agp/code-block title="Επεξεργασία ODS Αρχεία - C#" offSpacer="" %}}
 
-```cs
-code here
-
-```
+{{< gist "aspose-cells-gists" "59a1901d62ea9ceb08456a818431a898" "Landingpage-editor-ods.cs" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 
@@ -72,7 +73,7 @@ code here
 
     {{% blocks/products/pf/agp/content h2="" %}}
 
- Aspose.Cells API μπορεί να χρησιμοποιηθεί για τη δημιουργία, επεξεργασία, μετατροπή και απόδοση μορφών Excel Microsoft σε διαφορετικές μορφές. Επιπλέον, μπορεί να χρησιμοποιηθεί για ολοκληρωμένη χαρτογράφηση, κλιμακούμενη αναφορά και αξιόπιστους υπολογισμούς εντός εφαρμογών λογισμικού. Το Aspose.Cells είναι ένα αυτόνομο API και δεν απαιτεί λογισμικό όπως το Microsoft ή το OpenOffice.
+Aspose.Cells API μπορεί να χρησιμοποιηθεί για τη δημιουργία, επεξεργασία, μετατροπή και απόδοση μορφών Excel Microsoft σε διαφορετικές μορφές. Επιπλέον, μπορεί να χρησιμοποιηθεί για ολοκληρωμένη χαρτογράφηση, κλιμακούμενη αναφορά και αξιόπιστους υπολογισμούς εντός εφαρμογών λογισμικού. Το Aspose.Cells είναι ένα αυτόνομο API και δεν απαιτεί λογισμικό όπως το Microsoft ή το OpenOffice.
 
 
 

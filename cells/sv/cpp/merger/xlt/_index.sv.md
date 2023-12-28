@@ -10,7 +10,7 @@ description: C++ exempelkod för att kombinera XLT dokument på C++ Runtime Envi
 
 {{% blocks/products/pf/agp/content h2="Hur man sammanfogar XLT-fil med C++" %}}
 
- För att slå samman XLT-filen kommer vi att använda<a href="https://products.aspose.com/cells/cpp">Aspose.Cells for C++</a> API som är en funktionsrik, kraftfull och lättanvänd dokumentsammanslagningsplattform API for C++. Du kan ladda ner den senaste versionen direkt, bara öppna<a href="https://www.nuget.org/packages/aspose.cells">NuGet</a> pakethanterare, sök efter<b>Aspose.Cells.Cpp</b> och installera. Du kan också använda följande kommando från Package Manager Console.
+ För att slå samman XLT-filen kommer vi att använda<a href="https://products.aspose.com/cells/cpp">Aspose.Cells for C++</a>API som är en funktionsrik, kraftfull och lättanvänd dokumentsammanslagningsplattform API for C++. Du kan ladda ner den senaste versionen direkt, bara öppna<a href="https://www.nuget.org/packages/aspose.cells">NuGet</a> pakethanterare, sök efter<b>Aspose.Cells.Cpp</b> och installera. Du kan också använda följande kommando från Package Manager Console.
 
 {{% blocks/products/pf/agp/code-block title="Kommando" offSpacer="true" %}}
 
@@ -30,7 +30,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% blocks/products/pf/agp/text %}}
 
-Ett grundläggande dokument som sammanfogas och sammanfogas med[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) API:er kan göras med bara några rader kod.
+ Ett grundläggande dokument som sammanfogas och sammanfogas med[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) API:er kan göras med bara några rader kod.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -56,13 +56,13 @@ Ett grundläggande dokument som sammanfogas och sammanfogas med[Aspose.Cells for
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{% cells-merger title="Gratis app för att slå samman Excel-filer online" InputFormat="xlt" InputFormat2="xlt" outformat="xlt" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;ods;csv;tsv;html;jpg;bmp;png;svg;tiff;xps;mhtml;md" IsLandingPage="true" language="cpp" %}}
+{{% cells-merger title="Gratis app för att slå samman Excel-filer online" InputFormat="xlt" InputFormat2="xlt" outformat="xlt" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;ods;csv;tsv;html;jpg;bmp;png;svg;xps;mhtml;md" IsLandingPage="true" language="cpp" %}}
 
 <!-- aboutfile Starts -->
 
     {{% blocks/products/pf/agp/content h2="" %}}
 
- Aspose.Cells API kan användas för att skapa, redigera, konvertera och rendera Microsoft Excel-format till olika format. Dessutom kan den användas för omfattande kartläggning, skalbar rapportering och tillförlitliga beräkningar inom mjukvaruapplikationer. Aspose.Cells är en fristående API och den kräver ingen programvara som Microsoft eller OpenOffice.
+Aspose.Cells API kan användas för att skapa, redigera, konvertera och rendera Microsoft Excel-format till olika format. Dessutom kan den användas för omfattande kartläggning, skalbar rapportering och tillförlitliga beräkningar inom mjukvaruapplikationer. Aspose.Cells är en fristående API och den kräver ingen programvara som Microsoft eller OpenOffice.
 
     {{% /blocks/products/pf/agp/content %}}
 

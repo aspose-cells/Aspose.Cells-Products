@@ -1,6 +1,7 @@
 ---
 title: Skapa 3D-linjediagram via C#
 description: C# Exempelkod för att skapa 3D-linjediagram till Excel med .NET Library. Använd den här koden för att skapa ett 3D-linjediagram till MS Excel inom VB.NET, Asp.NET eller någon .NET-baserad applikation.
+keywords: [C# Aspose.Cells., c# add 3D Line Chart., c# insert 3D Line Chart., c# create 3D Line Chart., c# add Line3D Chart., c# insert Line3D Chart., c# create Line3D Chart]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 

@@ -1,6 +1,7 @@
 ---
-title: Επιδιόρθωση αρχείου excel via .NET
-description: Επιδιορθώστε ένα κατεστραμμένο αρχείο excel χρησιμοποιώντας το C#. Εργαλείο ανάκτησης για την επιδιόρθωση κατεστραμμένου αρχείου excel εντός της εφαρμογής .NET.
+title: C# Επιδιόρθωση excel - Ανάκτηση και διόρθωση κατεστραμμένου αρχείου excel
+description: C# Aspose.Cells. Επισκευή excel. Διορθώστε το αρχείο excel. εργαλείο ανάκτησης excel. υπερέχει τη διαφθορά. Επαναφορά δεδομένων excel. ανάκτηση αρχείων excel. Ανάκτηση κατεστραμμένου αρχείου excel.
+keywords: [C# Aspose.Cells., repair excel file., excel repair., recover corrupted excel file., repair corrupted excel., recover excel., fix excel file., excel corruption., restore excel data., excel file recovery., recover corrupted excel file.]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Ανάκτηση αρχείου EXCEL μέσω C#" h2="Δημιουργήστε τη δική σας εφαρμογή .NET για να επιδιορθώσετε αρχεία excel χρησιμοποιώντας το .NET." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="EXCEL" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="XLS" fileiconsmall2="XLSB" fileiconsmall3="XLSX" fileiconsmall4="XLSM" fileiconsmall5="ODS" >}}

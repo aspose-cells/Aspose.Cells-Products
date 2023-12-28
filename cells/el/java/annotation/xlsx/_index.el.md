@@ -1,7 +1,8 @@
 ---
-title:  Κατάργηση XLSX Σχολιασμός via Java
+title:  Προσθήκη ή αφαίρεση XLSX Σχολιασμός via Java
 weight: 5260
 description: Java δείγμα κώδικα για διαγραφή σχολιασμών μορφής XLSX στο Java Runtime Environment για εφαρμογές JSP/JSF και εφαρμογές επιφάνειας εργασίας.
+keywords: [Java Aspose.Cells., add xlsx annotation., insert xlsx annotation., access xlsx annotation., remove xlsx annotation., delete xlsx annotation., add annotation in xlsx., insert annotation in xlsx., access annotation in xlsx., remove annotation in xlsx., delete annotation in xlsx]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Προσθήκη ή διαγραφή σχολιασμού από XLSX via Java" h2="Δημιουργήστε τις δικές σας εφαρμογές Java για να χειριστείτε σχόλια και συγγραφείς σε αρχεία εγγράφων χρησιμοποιώντας API από την πλευρά του διακομιστή." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSX" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="" fileiconsmall1="PPTX" fileiconsmall2="DOCX" fileiconsmall3="XLSX" fileiconsmall4="PDF" fileiconsmall5=" ODP " >}}

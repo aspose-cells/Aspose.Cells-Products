@@ -1,7 +1,7 @@
 ---
 title: Δημιουργία XLS - Δημιουργία αρχείου XLS στο Java
-description: Aspose Excel. Java Δημιουργία αρχείου XLS. Δημιουργία XLS Java. Java XLS Δημιουργός. Δημιουργήστε το XLS στο Java. Δημιουργήστε το αρχείο XLS χρησιμοποιώντας το Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Create XLS Java., Java XLS Creater., Create XLS file in Java., Generate XLS file in Java]
+description: Aspose Excel. Java Δημιουργία XLS Αρχειοθέτηση γρήγορα και εύκολα με το Aspose.Cells. Δημιουργήστε το αρχείο XLS χρησιμοποιώντας το Java. Δημιουργήστε το XLS στο Java. 0714074.
+keywords: [Aspose Excel., Java Aspose.Cells., Java Create XLS file., Generate XLS file in Java., Create XLS file using Java., Write data to XLS file via Java., Create a XLS file in Java., Java Generate a XLS file., Java XLS Creater]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Δημιουργήστε αρχείο XLS στο Java" h2="Βιβλιοθήκη υψηλής ταχύτητας Java για τη δημιουργία αρχείου XLS. Αυτή είναι μια επαγγελματική λύση λογισμικού για εισαγωγή και εξαγωγή XLSX, PDF και πολλών άλλων μορφών χρησιμοποιώντας το Java." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLS" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -11,7 +11,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Create XLS Java., Java XLS Creater
 
 {{% blocks/products/pf/agp/content h2="Δημιουργήστε το αρχείο XLS χρησιμοποιώντας το Java" %}}
 
- Πώς να δημιουργήσετε το αρχείο XLS; Με τη βιβλιοθήκη Aspose.Cells for Java, μπορείτε εύκολα να δημιουργήσετε το αρχείο XLS μέσω προγραμματισμού με μερικές γραμμές κώδικα.[Aspose.Cells for Java](https://products.aspose.com/cells/java) έχει τη δυνατότητα δημιουργίας εφαρμογών πολλαπλών πλατφορμών με δυνατότητα δημιουργίας, τροποποίησης, μετατροπής, απόδοσης και εκτύπωσης όλων των αρχείων Excel. Java Το Excel API όχι μόνο μετατρέπει μεταξύ μορφών υπολογιστικών φύλλων, αλλά μπορεί επίσης να αποδώσει αρχεία Excel ως εικόνες, PDF, HTML, ODS, CSV, 07616031481, CSV, 07616831481, δημιουργώντας περισσότερα τέλεια επιλογή για την ανταλλαγή εγγράφων σε βιομηχανικά πρότυπα μορφές. Μπορείτε να κατεβάσετε την τελευταία του έκδοση απευθείας από[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) και εγκαταστήστε το στο έργο σας που βασίζεται στο Maven προσθέτοντας τις ακόλουθες διαμορφώσεις στο pom.xml.
+ Πώς να δημιουργήσετε το αρχείο XLS; Με τη βιβλιοθήκη Aspose.Cells for Java, μπορείτε εύκολα να δημιουργήσετε το αρχείο XLS μέσω προγραμματισμού με μερικές γραμμές κώδικα.[Aspose.Cells for Java](https://products.aspose.com/cells/java)έχει τη δυνατότητα δημιουργίας εφαρμογών πολλαπλών πλατφορμών με δυνατότητα δημιουργίας, τροποποίησης, μετατροπής, απόδοσης και εκτύπωσης όλων των αρχείων Excel. Java Το Excel API όχι μόνο μετατρέπει μεταξύ μορφών υπολογιστικών φύλλων, αλλά μπορεί επίσης να αποδώσει αρχεία Excel ως εικόνες, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT και άλλα, καθιστώντας έτσι την τέλεια επιλογή για την ανταλλαγή εγγράφων σε βιομηχανικές τυποποιημένες μορφές. Μπορείτε να κατεβάσετε την τελευταία του έκδοση απευθείας από[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) και εγκαταστήστε το στο έργο σας που βασίζεται στο Maven προσθέτοντας τις ακόλουθες διαμορφώσεις στο pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Αποθήκη" offSpacer="true" %}}
 
@@ -57,7 +57,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Create XLS Java., Java XLS Creater
 1.  Δημιουργήστε ένα παράδειγμα του[Τάξη βιβλίου εργασίας](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook).
 1.  Αποκτήστε πρόσβαση στο σχετικό φύλλο εργασίας χρησιμοποιώντας τη μέθοδο getWorksheets.get().
 1.  Επιλέξτε το σχετικό κελί, εισαγάγετε την τιμή στο επιθυμητό κελί χρησιμοποιώντας το όνομα κελιού, όπως A1, B3, κ.λπ.
-1.  Αποθηκεύστε το βιβλίο εργασίας σε μορφή XLS χρησιμοποιώντας τη μέθοδο save().
+1. Αποθηκεύστε το βιβλίο εργασίας σε μορφή XLS χρησιμοποιώντας τη μέθοδο save().
 
 {{% blocks/products/pf/agp/code-block title="Το δείγμα κώδικα δείχνει πώς να δημιουργήσετε το αρχείο XLS στο Java." offSpacer="" %}}
 
@@ -101,7 +101,7 @@ wkb.save("Excel.xls");
 
 {{% blocks/products/pf/agp/text %}}
 
-Πριν εκτελέσετε το δείγμα πηγαίου κώδικα μετατροπής Java, βεβαιωθείτε ότι διαθέτετε τις ακόλουθες προϋποθέσεις.
+ Πριν εκτελέσετε το δείγμα πηγαίου κώδικα μετατροπής Java, βεβαιωθείτε ότι διαθέτετε τις ακόλουθες προϋποθέσεις.
 
 {{% /blocks/products/pf/agp/text %}}
 

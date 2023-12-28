@@ -1,7 +1,7 @@
 ---
 title: Δημιουργία XLAM - Δημιουργία αρχείου XLAM στο Python
-description: Aspose Excel. Python Δημιουργία αρχείου XLAM. Δημιουργία XLAM Python. Python XLAM Δημιουργός. Δημιουργήστε το XLAM στο Python. Δημιουργήστε το αρχείο XLAM χρησιμοποιώντας το Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Create XLAM Python., Python XLAM Creater., Create XLAM file in Python., Generate XLAM file in Python]
+description: Aspose Excel. Python Δημιουργία XLAM Αρχειοθέτηση γρήγορα και εύκολα με το Aspose.Cells. Δημιουργήστε το αρχείο XLAM χρησιμοποιώντας το Python. Δημιουργήστε το XLAM στο Python. 0714074.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Create XLAM file., Generate XLAM file in Python., Create XLAM file using Python., Write data to XLAM file via Python., Create a XLAM file in Python., Python Generate a XLAM file., Python XLAM Creater]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Δημιουργήστε αρχείο XLAM στο Python" h2="Βιβλιοθήκη υψηλής ταχύτητας Python για τη δημιουργία αρχείου XLAM. Χρησιμοποιήστε τη μετατροπή excel API για να αναπτύξετε λογισμικό υψηλού επιπέδου, ανεξάρτητο από πλατφόρμα στο Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLAM" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -11,7 +11,7 @@ keywords: [Aspose Excel., Python Aspose.Cells., Create XLAM Python., Python XLAM
 
 {{% blocks/products/pf/agp/content h2="Δημιουργήστε το αρχείο XLAM χρησιμοποιώντας το Python" %}}
 
- Πώς να δημιουργήσετε το αρχείο XLAM; Με το Aspose.Cells for Python μέσω της βιβλιοθήκης NET, μπορείτε εύκολα να δημιουργήσετε το αρχείο XLAM μέσω προγραμματισμού με λίγες γραμμές κώδικα.[Aspose.Cells for Python](https://pypi.org/project/aspose-cells-python/)έχει τη δυνατότητα δημιουργίας εφαρμογών πολλαπλών πλατφορμών με δυνατότητα δημιουργίας, τροποποίησης, μετατροπής, απόδοσης και εκτύπωσης όλων των αρχείων Excel. Python Το Excel API όχι μόνο μετατρέπει μεταξύ μορφών υπολογιστικών φύλλων, αλλά μπορεί επίσης να αποδώσει αρχεία Excel ως εικόνες, PDF, HTML, ODS, CSV, 07616031481, CSV, 07616831481, δημιουργώντας περισσότερα τέλεια επιλογή για την ανταλλαγή εγγράφων σε βιομηχανικά πρότυπα μορφές.
+ Πώς να δημιουργήσετε το αρχείο XLAM; Με το Aspose.Cells for Python μέσω της βιβλιοθήκης NET, μπορείτε εύκολα να δημιουργήσετε το αρχείο XLAM μέσω προγραμματισμού με λίγες γραμμές κώδικα.[Aspose.Cells for Python](https://pypi.org/project/aspose-cells-python/)έχει τη δυνατότητα δημιουργίας εφαρμογών πολλαπλών πλατφορμών με δυνατότητα δημιουργίας, τροποποίησης, μετατροπής, απόδοσης και εκτύπωσης όλων των αρχείων Excel. Python Το Excel API όχι μόνο μετατρέπει μεταξύ μορφών υπολογιστικών φύλλων, αλλά μπορεί επίσης να αποδώσει αρχεία Excel ως εικόνες, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT και άλλα, καθιστώντας έτσι την τέλεια επιλογή για την ανταλλαγή εγγράφων σε βιομηχανικές τυποποιημένες μορφές.
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -28,7 +28,7 @@ keywords: [Aspose Excel., Python Aspose.Cells., Create XLAM Python., Python XLAM
 1.  Δημιουργία παρουσίας κλάσης βιβλίου εργασίας.
 1.  Πρόσβαση στο πρώτο φύλλο εργασίας του βιβλίου εργασίας.
 1.  Λάβετε τα επιθυμητά κελιά του φύλλου εργασίας και εισαγάγετε την τιμή στα κελιά.
-1. Χρησιμοποιήστε τη μέθοδο Save για να αποθηκεύσετε το βιβλίο εργασίας ως αρχείο XLAM.
+1.  Χρησιμοποιήστε τη μέθοδο Save για να αποθηκεύσετε το βιβλίο εργασίας ως αρχείο XLAM.
 
 {{% blocks/products/pf/agp/code-block title="Το δείγμα κώδικα δείχνει πώς να δημιουργήσετε το αρχείο XLAM στο Python." offSpacer="" %}}
 
@@ -62,7 +62,7 @@ workbook.save("output.xlam")
 Φιλοξενούμε τα πακέτα μας Python στα αποθετήρια PyPi.
 
 {{% blocks/products/pf/agp/text %}}
-Εγκαταστήστε το Aspose.Cells for Python από<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , χρησιμοποιήστε την εντολή ως:<code>$ pip install aspose-cells-python</code>.
+ Εγκαταστήστε το Aspose.Cells for Python από<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , χρησιμοποιήστε την εντολή ως:<code>$ pip install aspose-cells-python</code>.
 {{% /blocks/products/pf/agp/text %}}
 
 {{% blocks/products/pf/agp/text %}}

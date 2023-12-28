@@ -1,6 +1,7 @@
 ---
 title: Infoga former i Excel med Python via Java
-description: Python via Java källkoder som hur man infogar en form i Microsoft Excel-filer med Aspose.Cells for Python via Java bibliotek.
+description:  Python via Java källkoder som hur man infogar en form i Microsoft Excel-filer med Aspose.Cells for Python via Java bibliotek.
+keywords: [Python Aspose.Cells., Python add shapes., Python insert shapes., Python create shapes]
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
 {{< blocks/products/pf/i18n/feature-page-header h1="Microsoft<sup>&reg;</sup> Infogning av Excel-former med Python via Java" h2="Skapa Excel-dokument och infoga former med hjälp av API:er på serversidan i python via javabaserade applikationer." >}}
@@ -12,7 +13,7 @@ description: Python via Java källkoder som hur man infogar en form i Microsoft 
 
 {{% blocks/products/pf/feature-page-section h2="Infoga former i Excel-fil" %}}
 
- Att infoga former med dessa API:er är enkelt. Processen är, Skapa[Arbetsbok klass](https://reference.aspose.com/cells/python-java/asposecells.api/Workbook) objekt och välj det första kalkylbladet eller det relevanta bladet genom att tillhandahålla dess index. Lägg till en form i kalkylbladet med hjälp av[formsamling](https://reference.aspose.com/cells/python-java/asposecells.api/ShapeCollection)s Lägg till metod.
+ Att infoga former med dessa API:er är enkelt. Processen är, Skapa[Arbetsbok klass](https://reference.aspose.com/cells/python-java/asposecells.api/Workbook)objekt och välj det första kalkylbladet eller det relevanta bladet genom att tillhandahålla dess index. Lägg till en form i kalkylbladet med hjälp av[formsamling](https://reference.aspose.com/cells/python-java/asposecells.api/ShapeCollection)s Lägg till metod.
 
 {{% blocks/products/pf/feature-page-code h3="Python via Java Kod för att infoga form i Excel" %}}
 

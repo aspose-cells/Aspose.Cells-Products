@@ -10,7 +10,7 @@ description: C++ παράδειγμα κώδικα για συνδυασμό ε�
 
 {{% blocks/products/pf/agp/content h2="Πώς να συγχωνεύσετε το αρχείο TXT χρησιμοποιώντας το C++" %}}
 
- Για να συγχωνεύσουμε το αρχείο TXT, θα χρησιμοποιήσουμε<a href="https://products.aspose.com/cells/cpp">Aspose.Cells for C++</a> API που είναι μια πλούσια σε χαρακτηριστικά, ισχυρή και εύχρηστη πλατφόρμα συγχώνευσης εγγράφων API for C++. Μπορείτε να κατεβάσετε την τελευταία του έκδοση απευθείας, απλά ανοίξτε<a href="https://www.nuget.org/packages/aspose.cells">NuGet</a> διαχειριστής πακέτων, αναζητήστε<b>Aspose.Cells.Cpp</b> και εγκαταστήστε. Μπορείτε επίσης να χρησιμοποιήσετε την ακόλουθη εντολή από την Κονσόλα Package Manager.
+ Για να συγχωνεύσουμε το αρχείο TXT, θα χρησιμοποιήσουμε<a href="https://products.aspose.com/cells/cpp">Aspose.Cells for C++</a>API που είναι μια πλούσια σε χαρακτηριστικά, ισχυρή και εύχρηστη πλατφόρμα συγχώνευσης εγγράφων API for C++. Μπορείτε να κατεβάσετε την τελευταία του έκδοση απευθείας, απλά ανοίξτε<a href="https://www.nuget.org/packages/aspose.cells">NuGet</a> διαχειριστής πακέτων, αναζητήστε<b>Aspose.Cells.Cpp</b> και εγκαταστήστε. Μπορείτε επίσης να χρησιμοποιήσετε την ακόλουθη εντολή από την Κονσόλα Package Manager.
 
 {{% blocks/products/pf/agp/code-block title="Εντολή" offSpacer="true" %}}
 
@@ -30,7 +30,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% blocks/products/pf/agp/text %}}
 
-Ένα βασικό έγγραφο που συγχωνεύεται και συνενώνεται με[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) Τα API μπορούν να γίνουν με λίγες μόνο γραμμές κώδικα.
+ Ένα βασικό έγγραφο που συγχωνεύεται και συνενώνεται με[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) Τα API μπορούν να γίνουν με λίγες μόνο γραμμές κώδικα.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -56,13 +56,13 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{% cells-merger title="Δωρεάν εφαρμογή για τη συγχώνευση αρχείων Excel σε απευθείας σύνδεση" InputFormat="txt" InputFormat2="txt" outformat="txt" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;ods;csv;tsv;html;jpg;bmp;png;svg;tiff;xps;mhtml;md" IsLandingPage="true" language="cpp" %}}
+{{% cells-merger title="Δωρεάν εφαρμογή για τη συγχώνευση αρχείων Excel σε απευθείας σύνδεση" InputFormat="txt" InputFormat2="txt" outformat="txt" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;ods;csv;tsv;html;jpg;bmp;png;svg;xps;mhtml;md" IsLandingPage="true" language="cpp" %}}
 
 <!-- aboutfile Starts -->
 
     {{% blocks/products/pf/agp/content h2="" %}}
 
- Aspose.Cells API μπορεί να χρησιμοποιηθεί για τη δημιουργία, επεξεργασία, μετατροπή και απόδοση μορφών Excel Microsoft σε διαφορετικές μορφές. Επιπλέον, μπορεί να χρησιμοποιηθεί για ολοκληρωμένη χαρτογράφηση, κλιμακούμενη αναφορά και αξιόπιστους υπολογισμούς εντός εφαρμογών λογισμικού. Το Aspose.Cells είναι ένα αυτόνομο API και δεν απαιτεί λογισμικό όπως το Microsoft ή το OpenOffice.
+Aspose.Cells API μπορεί να χρησιμοποιηθεί για τη δημιουργία, επεξεργασία, μετατροπή και απόδοση μορφών Excel Microsoft σε διαφορετικές μορφές. Επιπλέον, μπορεί να χρησιμοποιηθεί για ολοκληρωμένη χαρτογράφηση, κλιμακούμενη αναφορά και αξιόπιστους υπολογισμούς εντός εφαρμογών λογισμικού. Το Aspose.Cells είναι ένα αυτόνομο API και δεν απαιτεί λογισμικό όπως το Microsoft ή το OpenOffice.
 
     {{% /blocks/products/pf/agp/content %}}
 

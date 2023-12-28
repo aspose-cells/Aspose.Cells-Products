@@ -2,6 +2,7 @@
 title:  Sök XLSX dokument utan att öppna via C++
 weight: 9280
 description: C++ exempelkod för att söka efter ord med mönster i filen XLSX på C++ Runtime Environment för Windows 32 bitar, Windows 64 bitar och Linux 64 bitar.
+keywords: [C++ Aspose.Cells., C++ search words with pattern in XLSX file., C++ find words with pattern in XLSX file., C++ search string with pattern in XLSX file., C++ find words with pattern in XLSX file., C++ search words in excel file., C++ find words in excel file., C++ search string in excel file., C++ find string in excel file]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Sök XLSX-format i C++" h2="Inbyggd och högpresterande XLSX dokumentsökning med hjälp av Aspose.Cells for C++ API:er på serversidan, utan användning av någon programvara som Microsoft eller Adobe PDF." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" sourceAdditionalConversionTag="" additionalConversionTag="" pfName="Aspose.Cells" subTitlepfName="for C++" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="XLSX" >}}
@@ -41,11 +42,11 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/text %}}
 
-Ladda XLSX-filen genom att instansiera en IWorkbook-klass.
-+ Instantiera klass IReplaceOptions.
++ Ladda XLSX-filen genom att instansiera en Workbook-klass.
++ Instantiate ReplaceOptions-klassen.
 + Ställ in önskat mönster som SetCaseSensitive(boolvärde), SetMatchEntireCellContents(boolvärde) .
-+ Använd metoden IWorkbook->Ersätt(..) med relevanta alternativ.
-+ Spara XLSX-filen med metoden IWorkbook->Spara(.).
+Använd Workbook::Replace(...)-metoden med relevanta alternativ.
++ Spara XLSX-filen med Workbook::Save(...)-metoden.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -66,29 +67,33 @@ Ladda XLSX-filen genom att instansiera en IWorkbook-klass.
 
 ```cs
 
+Aspose::Cells::Startup();
+
 // Source directory path.
-StringPtr srcDir = new String("SourcePath\\");
+U16String srcDir(u"SourcePath\\");
 
 // Output directory path.
-StringPtr outDir = new String("OutputPath\\");
+U16String outDir(u"OutputPath\\");
 
 // Load XLSX file
-intrusive_ptr<IWorkbook>  wkb = Factory::CreateIWorkbook(srcDir->StringAppend(new String("sourceFile.xlsx")));
+Workbook  wkb(srcDir + u"sourceFile.xlsx");
 
 // Create an instance of the IReplaceOptions class
-intrusive_ptr<IReplaceOptions> replaceOptions = Factory::CreateIReplaceOptions();
+ReplaceOptions replaceOptions;
 
 // Set case sensitivity option
-replaceOptions->SetCaseSensitive(false);
+replaceOptions.SetCaseSensitive(false);
 
 // Set text matching option
-replaceOptions->SetMatchEntireCellContents(false);
+replaceOptions.SetMatchEntireCellContents(false);
 
 // Replace text
-wkb->Replace(new String("Text to find"), new String("Text replacement"), replaceOptions);
+wkb.Replace(u"Text to find", u"Text replacement", replaceOptions);
 
 // Save as XLSX file
-wkb->Save(outDir->StringAppend(new String("outputFile.xlsx")));  
+wkb.Save(outDir + u"outputFile.xlsx");
+
+Aspose::Cells::Cleanup();
 
 ```
 
@@ -119,7 +124,7 @@ wkb->Save(outDir->StringAppend(new String("outputFile.xlsx")));
     {{< /blocks/products/pf/agp/demobox >}}
 
     {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLSX " readMoreLink="https://docs.fileformat.com/spreadsheet/xlsx/" >}}
-XLSX är ett välkänt format för Microsoft Excel-dokument som introducerades av Microsoft med lanseringen av Microsoft Office 2007. Baserat på strukturen organiserad enligt Open Packaging-konventionerna som beskrivs i del 2 av OOX3ML-standarden ECMA- är det nya formatet ECMA ett zip-paket som innehåller ett antal XML-filer. Den underliggande strukturen och filerna kan undersökas genom att helt enkelt packa upp .xlsx-filen
+ XLSX är ett välkänt format för Microsoft Excel-dokument som introducerades av Microsoft med lanseringen av Microsoft Office 2007. Baserat på strukturen organiserad enligt Open Packaging-konventionerna som beskrivs i del 2 av OOX3ML-standarden ECMA- är det nya formatet ECMA ett zip-paket som innehåller ett antal XML-filer. Den underliggande strukturen och filerna kan undersökas genom att helt enkelt packa upp .xlsx-filen
 
     {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 

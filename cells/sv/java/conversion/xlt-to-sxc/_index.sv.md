@@ -1,7 +1,7 @@
 ---
-title: Java XLT till SXC - Online XLT till SXC Converter
-description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Gratis Online Java Konvertera XLT till SXC sparaformat. Java XLT till SXC format. Spara XLT till SXC Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java XLT to SXC saveformat., Free Online XLT to SXC Java., Java Convert XLT to SXC]
+title: Java XLT till SXC - XLT till SXC Omvandlare
+description: Aspose Excel. Konvertera XLT till SXC snabbt och enkelt med Aspose.Cells. Java XLT till SXC. Java Spara XLT till 07611 till 07161. 07611 till 07161. 3481 med Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Convert XLT to SXC in Java., Save XLT to SXC using Java., Java XLT to SXC saveformat., XLT to SXC Converter., Java Save XLT as SXC]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Konvertera XLT till SXC till Java" h2="Höghastighetsbibliotek Java för att konvertera XLT till SXC. Detta är en professionell mjukvarulösning för att importera och exportera XLT, SXC och många andra format med Java." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="SXC" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java XLT to SX
 
 {{% blocks/products/pf/agp/content h2="Konvertera XLT till SXC med Java" %}}
 
-Hur konverterar jag XLT till SXC? Med Aspose.Cells for Java bibliotek kan du enkelt konvertera XLT till SXC programmatiskt med några rader kod.[Aspose.Cells for Java](https://products.aspose.com/cells/java) kan bygga plattformsoberoende applikationer med förmågan att generera, modifiera, konvertera, rendera och skriva ut alla Excel-filer. Java Excel API konverterar inte bara mellan kalkylarksformat, det kan också rendera Excel-filer som bilder, PDF, HTML, ODS, ODS, CSV, 0761687481, 0761687481, vilket gör det till ett perfekt val, Pt utbyta dokument i branschstandard format. Du kan ladda ner den senaste versionen direkt från[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) och installera det i ditt Maven-baserade projekt genom att lägga till följande konfigurationer till pom.xml.
+Hur konverterar jag XLT till SXC? Med Aspose.Cells for Java bibliotek kan du enkelt konvertera XLT till SXC programmatiskt med några rader kod.[Aspose.Cells for Java](https://products.aspose.com/cells/java)kan bygga plattformsoberoende applikationer med förmågan att generera, modifiera, konvertera, rendera och skriva ut alla Excel-filer. Java Excel API konverterar inte bara mellan kalkylarksformat, den kan också rendera Excel-filer som bilder, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT och mer, vilket gör det till ett perfekt val att utbyta dokument i industristandardformat. Du kan ladda ner den senaste versionen direkt från[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) och installera det i ditt Maven-baserade projekt genom att lägga till följande konfigurationer till pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Förvar" offSpacer="true" %}}
 
@@ -45,7 +45,7 @@ Hur konverterar jag XLT till SXC? Med Aspose.Cells for Java bibliotek kan du enk
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Spara XLT till SXC på Java Online gratis" %}}
+{{% blocks/products/pf/agp/content h2="Spara XLT till SXC i Java" %}}
 
 Följande exempel visar hur man konverterar XLT till SXC i Java.
 {{% blocks/products/pf/agp/text %}}
@@ -56,7 +56,7 @@ Följ de enkla stegen för att konvertera XLT till SXC. Ladda upp din XLT-fil oc
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Gratis app och provkod för att konvertera XLT till SXC online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlt" outformat="sxc" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Exempelkod för att konvertera XLT till SXC" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlt" outformat="sxc" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="Hur man konverterar XLT till SXC via Java" %}}
 
@@ -68,7 +68,7 @@ Behöver du konvertera XLT-filer till SXC programmatiskt? Java-utvecklare kan en
 
 1.  Installera 'Aspose.Cells for Java'.
 1.  Lägg till en biblioteksreferens (importera biblioteket) till ditt Java-projekt.
-1.  Ladda XLT-filen med en instans av Workbook-klassen.
+1. Ladda XLT-filen med en instans av Workbook-klassen.
 1.  Konvertera XLT till SXC genom att anropa Workbook.save-metoden.
 1.  Få konverteringsresultatet från XLT till SXC.
 

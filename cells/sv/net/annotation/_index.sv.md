@@ -1,6 +1,7 @@
 ---
-title: Excel-filanteckningar NET C#
+title: Lägg till eller ta bort Excel-filanteckningar NET C#
 description: Lägg till eller ta bort datakommentarer för Excel- och OpenOffice-kalkylblad med bara några rader med C#-kod.
+keywords: [C# Aspose.Cells., add excel annotation., insert excel annotation., access excel annotation., remove excel annotation., delete excel annotation., add annotation in excel., insert annotation in excel., access annotation in excel., remove annotation in excel., delete annotation in excel]
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
 {{< blocks/products/pf/i18n/feature-page-header h1="Ta bort Microsoft<sup>&reg;</sup> Excel-filanteckningar via .NET" h2="Lägg till eller ta bort anteckningar för Excel-filer med C#-koden i .NET-baserade applikationer." >}}

@@ -1,7 +1,8 @@
 ---
 title:  Python Excel-kalkylblad API - Aspose
 weight: 2800
-description: Python kalkylbladsbibliotek för att skapa läs-skriv- och tolka Excel-filer.
+description: Python-bibliotek för att skapa, reparera, slå samman, analysera och konvertera Excel-filer. Konvertera excel till PDF, JSON, HTML, TXT och andra populära format.
+keywords: [Python Aspose.Cells Create repair merge convert JSON Excel XML PDF HTML TSV SQL ODS CSV TSV PNG JPEG and more formats]
 ---
 {{< blocks/products/pf/main-wrap-class >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Python Excel-kalkylblad Parsing API:er" h2="Generera, läs, skriv eller manipulera kalkylblad samt exportera Excel-filer till flera format inom Python-applikationer." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/cells/headers/aspose_cells-for-python-via-net.svg" pfName="Aspose.Cells" subTitlepfName="for Python via .NET" downloadUrl="https://releases.aspose.com/cells/python-net/" >}}
@@ -12,7 +13,7 @@ description: Python kalkylbladsbibliotek för att skapa läs-skriv- och tolka Ex
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
- Aspose.Cells for Python via .Net är en snabb och pålitlig API för bearbetningsuppgifter för kalkylblad. Utvecklare kan skapa enkla eller komplexa kalkylblad, manipulera och extrahera information från Excel-filer. API läser flera Excel-format och kan rendera kalkylblad till XPS, PDF, MHTML, HTML, vanlig text, bilder och mer. Det är den bästa lösningen för att automatisera Excel-rapporter med python.
+Aspose.Cells for Python via .Net är en snabb och pålitlig API för bearbetningsuppgifter för kalkylblad. Utvecklare kan skapa enkla eller komplexa kalkylblad, manipulera och extrahera information från Excel-filer. API läser flera Excel-format och kan rendera kalkylblad till XPS, PDF, MHTML, HTML, vanlig text, bilder och mer. Det är den bästa lösningen för att automatisera Excel-rapporter med python.
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
@@ -31,7 +32,7 @@ description: Python kalkylbladsbibliotek för att skapa läs-skriv- och tolka Ex
    </header>
    <ul>
     <li>
- Arrayer
+ Matriser
     </li>
     <li>
  Resultatet satt
@@ -234,7 +235,7 @@ Samlingar
  <div class="row">
   <div class="container">
    <h2 class="pr-ft">
-Avancerade Python Excel API funktioner
+ Avancerade Python Excel API funktioner
    </h2>
    <p>
    </p>
@@ -305,7 +306,7 @@ Avancerade Python Excel API funktioner
     <em class="fa fa-object-ungroup ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Lägg till eller ta bort gruppering i rader och kolumner
+Lägg till eller ta bort gruppering i rader och kolumner
     </p>
    </div>
    <div class="col-lg-4">
@@ -492,7 +493,7 @@ wk.save("houtput.html", SaveFormat.HTML);</code></pre>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
- Anpassning av diagram
+Anpassning av diagram
     </h2>
     <p>
 Aspose.Cells for Python via .NET ger fullt stöd för kartläggning. Man kan enkelt lägga till standard och anpassade diagram eller dynamiskt ställa in diagramdata för att uppdatera diagrammet via detta pythonbibliotek.

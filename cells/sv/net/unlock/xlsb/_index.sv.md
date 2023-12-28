@@ -2,6 +2,7 @@
 title:  Lås upp XLSB dokument via .NET
 weight: 6410
 description: C# källkod för att låsa upp lösenordsskyddad XLSB-fil på .NET Framework, .NET Core, Mono eller Xamarin-plattformar.
+keywords: [C# Aspose.Cells., c# unlock XLSB files., c# how to unlock XLSB document., c# unprotect XLSB files., remove protection from XLSB files., decrypt XLSB Files using C#]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Lås upp XLSB Kalkylblad via C#" h2="Ta bort skyddet från XLSB med .NET-biblioteket." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSB" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSB" >}}

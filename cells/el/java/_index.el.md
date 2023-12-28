@@ -1,7 +1,8 @@
 ---
 title:  Java Excel API - Aspose
 weight: 6830
-description: Java Βιβλιοθήκη Excel για επεξεργασία υπολογιστικών φύλλων. Διαβάστε την απόδοση εγγραφής και μετατροπή XLS XLSX XLSM ODS CSV TSV και περισσότερες μορφές. Συμβατό με Windows Linux & Unix
+description:  Aspose.Cells for Java βιβλιοθήκη για δημιουργία, επιδιόρθωση, συγχώνευση, ανάλυση και μετατροπή αρχείων excel. Μετατρέψτε το excel σε PDF, JSON, CSV, HTML και ούτω καθεξής.
+keywords: [Java Aspose.Cells Create repair parse merge convert JSON Excel XML PDF HTML TSV MHTML XPS CSV PNG JPEG and more formats]
 ---
 {{< blocks/products/pf/main-wrap-class >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Java Επεξεργασία υπολογιστικού φύλλου Excel API" h2="Δημιουργήστε, χειριστείτε, μετατρέψτε, προστατέψτε ή εκτυπώστε υπολογιστικά φύλλα χωρίς να βασίζεστε στο Microsoft Excel." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/headers/aspose_cells-for-java.svg" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="https://downloads.aspose.com/cells/java" >}}
@@ -503,7 +504,7 @@ chart.toPdf(dir + "output.pdf");</code></pre>
 <p class="first">
  Θα συνιστούσαμε τη χρήση του Aspose.cells for Java γιατί είναι εύκολο να εφαρμοστεί και το API είναι απλό στην κατανόηση και πολύ ευχάριστο.
  <em>
- Pierre-Eric Oudin | Advizeo από Setec, Γαλλία
+ Pierre-Eric Oudin | Advizeo από τη Setec, Γαλλία
  </em>
 </p>
 {{< /blocks/products/pf/testimonials-quote >}}

@@ -1,7 +1,7 @@
 ---
-title: Java XLTM till SPREADSHEETML - Online XLTM till SPREADSHEETML Converter
-description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Gratis Online Java Konvertera XLTM till SPREADSHEETML saveformat. Java XLTM till SPREADSHEETML-format. Spara XLTM till SPREADSHEETML Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java XLTM to SPREADSHEETML saveformat., Free Online XLTM to SPREADSHEETML Java., Java Convert XLTM to SPREADSHEETML]
+title: Java XLTM till SPREADSHEETML - XLTM till SPREADSHEETML Converter
+description: Aspose Excel. Konvertera XLTM till SPREADSHEETML snabbt och enkelt med Aspose.Cells. Java XLTM till SPREADSHEETML. Java Spara XLTM till Kalkylblad. Spara XLTM som Kalkylblad med Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Convert XLTM to SPREADSHEETML in Java., Save XLTM to SPREADSHEETML using Java., Java XLTM to SPREADSHEETML saveformat., XLTM to SPREADSHEETML Converter., Java Save XLTM as SPREADSHEETML]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Konvertera XLTM till SPREADSHEETML i Java" h2="Höghastighets Java-bibliotek för att konvertera XLTM till Kalkylblad. Detta är en professionell mjukvarulösning för att importera och exportera XLTM, SPREADSHEETML och många andra format med Java." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="SPREADSHEETML" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java XLTM to S
 
 {{% blocks/products/pf/agp/content h2="Konvertera XLTM till SPREADSHEETML med Java" %}}
 
-Hur konverterar jag XLTM till SPREADSHEETML? Med Aspose.Cells for Java bibliotek kan du enkelt konvertera XLTM till Kalkylblad programmatiskt med några rader kod.[Aspose.Cells for Java](https://products.aspose.com/cells/java) kan bygga plattformsoberoende applikationer med förmågan att generera, modifiera, konvertera, rendera och skriva ut alla Excel-filer. Java Excel API konverterar inte bara mellan kalkylarksformat, det kan också rendera Excel-filer som bilder, PDF, HTML, ODS, ODS, CSV, 0761687481, 0761687481, vilket gör det till ett perfekt val, Pt utbyta dokument i branschstandard format. Du kan ladda ner den senaste versionen direkt från[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) och installera det i ditt Maven-baserade projekt genom att lägga till följande konfigurationer till pom.xml.
+ Hur konverterar jag XLTM till SPREADSHEETML? Med Aspose.Cells for Java bibliotek kan du enkelt konvertera XLTM till Kalkylblad programmatiskt med några rader kod.[Aspose.Cells for Java](https://products.aspose.com/cells/java)kan bygga plattformsoberoende applikationer med förmågan att generera, modifiera, konvertera, rendera och skriva ut alla Excel-filer. Java Excel API konverterar inte bara mellan kalkylarksformat, den kan också rendera Excel-filer som bilder, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT och mer, vilket gör det till ett perfekt val att utbyta dokument i industristandardformat. Du kan ladda ner den senaste versionen direkt från[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) och installera det i ditt Maven-baserade projekt genom att lägga till följande konfigurationer till pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Förvar" offSpacer="true" %}}
 
@@ -45,7 +45,7 @@ Hur konverterar jag XLTM till SPREADSHEETML? Med Aspose.Cells for Java bibliotek
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Spara XLTM till SPREADSHEETML i Java Online gratis" %}}
+{{% blocks/products/pf/agp/content h2="Spara XLTM till SPREADSHEETML i Java" %}}
 
 Följande exempel visar hur man konverterar XLTM till SPREADSHEETML i Java.
 {{% blocks/products/pf/agp/text %}}
@@ -56,7 +56,7 @@ Följ de enkla stegen för att konvertera XLTM till SPREADSHEETML. Ladda upp din
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Gratis app och exempelkod för att konvertera XLTM till SPREADSHEETML Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xltm" outformat="xml" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Exempelkod för att konvertera XLTM till Kalkylblad" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xltm" outformat="xml" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="Hur man konverterar XLTM till SPREADSHEETML via Java" %}}
 
@@ -68,7 +68,7 @@ Behöver du konvertera XLTM-filer till SPREADSHEETML programmatiskt? Java-utveck
 
 1.  Installera 'Aspose.Cells for Java'.
 1.  Lägg till en biblioteksreferens (importera biblioteket) till ditt Java-projekt.
-1.  Ladda XLTM-filen med en instans av Workbook-klassen.
+1. Ladda XLTM-filen med en instans av Workbook-klassen.
 1.  Konvertera XLTM till SPREADSHEETML genom att anropa Workbook.save-metoden.
 1.  Få konverteringsresultatet av XLTM till SPREADSHEETML.
 

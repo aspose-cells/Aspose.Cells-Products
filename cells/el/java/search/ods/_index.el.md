@@ -2,6 +2,7 @@
 title:  Αναζητήστε το έγγραφο ODS χωρίς να ανοίξετε το via Java
 weight: 8140
 description: Java δείγμα κώδικα για αναζήτηση λέξεων με μοτίβο στο αρχείο ODS στο Java Runtime Environment for JSP/JSF Application and Desktop Applications.
+keywords: [Java Aspose.Cells., Java search words with pattern in ods file., Java find words with pattern in ods file., Java search string with pattern in ods file., Java find words with pattern in ods file., Java search words in ods file., Java find words in ods file., Java search string in ods file., Java find string in ods file]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Αναζήτηση ODS Μορφές στο Java" h2="Εγγενής και υψηλής απόδοσης αναζήτηση εγγράφων ODS χρησιμοποιώντας API Aspose.Cells for Java από την πλευρά του διακομιστή, χωρίς τη χρήση λογισμικού όπως το Microsoft ή το Adobe PDF." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="ODS" >}}
@@ -53,7 +54,7 @@ description: Java δείγμα κώδικα για αναζήτηση λέξεω
 
 {{% blocks/products/pf/agp/text %}}
 
- Μια βασική αναζήτηση εγγράφων χρησιμοποιώντας Aspose.Cells API μπορεί να γίνει με λίγες μόνο γραμμές κώδικα.
+ Μια βασική αναζήτηση εγγράφων χρησιμοποιώντας API Aspose.Cells μπορεί να γίνει με λίγες μόνο γραμμές κώδικα.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -62,7 +63,7 @@ description: Java δείγμα κώδικα για αναζήτηση λέξεω
 + Βρείτε το κελί που περιέχει τον καθορισμένο τύπο.
 + Instantiate FindOptions.
 + Βρείτε το κελί που περιέχει μια τιμή συμβολοσειράς
-+ Εκτυπώστε τα κελιά που βρέθηκαν μετά το αποτέλεσμα αναζήτησης
+Εκτυπώστε τα κελιά που βρέθηκαν μετά το αποτέλεσμα αναζήτησης
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

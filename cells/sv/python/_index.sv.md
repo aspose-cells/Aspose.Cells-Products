@@ -12,7 +12,7 @@ description: Python kalkylbladsbibliotek för att skapa läs-skriv- och tolka Ex
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
- Aspose.Cells for Python är en snabb och pålitlig API för bearbetning av kalkylblad. Utvecklare kan skapa enkla eller komplexa kalkylblad, manipulera och extrahera information från Excel-filer. API läser flera Excel-format och kan rendera kalkylblad till XPS, PDF, MHTML, HTML, vanlig text, bilder och mer. Det är den bästa lösningen för att automatisera Excel-rapporter med python.
+Aspose.Cells for Python är en snabb och pålitlig API för bearbetning av kalkylblad. Utvecklare kan skapa enkla eller komplexa kalkylblad, manipulera och extrahera information från Excel-filer. API läser flera Excel-format och kan rendera kalkylblad till XPS, PDF, MHTML, HTML, vanlig text, bilder och mer. Det är den bästa lösningen för att automatisera Excel-rapporter med python.
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
@@ -31,7 +31,7 @@ description: Python kalkylbladsbibliotek för att skapa läs-skriv- och tolka Ex
    </header>
    <ul>
     <li>
- Arrayer
+ Matriser
     </li>
     <li>
  Resultatet satt
@@ -234,7 +234,7 @@ Samlingar
  <div class="row">
   <div class="container">
    <h2 class="pr-ft">
-Avancerade Python Excel API funktioner
+ Avancerade Python Excel API funktioner
    </h2>
    <p>
    </p>
@@ -305,7 +305,7 @@ Avancerade Python Excel API funktioner
     <em class="fa fa-object-ungroup ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Lägg till eller ta bort gruppering i rader och kolumner
+Lägg till eller ta bort gruppering i rader och kolumner
     </p>
    </div>
    <div class="col-lg-4">
@@ -461,7 +461,7 @@ wkbk.save(SD_PATH + "houtput.html", SaveFormat.HTML);</code></pre>
  Flexibla visningsalternativ
     </h2>
     <p>
-Aspose.Cells for Python ger full kontroll över sidinställningar som gör det möjligt att manipulera flera visningsalternativ som förhandsgranska sidbrytningar, ställa in zoomnivå, ställa in sidorientering, kontrollera datasynlighet med frysrutor, pappersstorlek, skalning, rubriker &amp; sidfötter och utskriftsområde.
+ Aspose.Cells for Python ger full kontroll över sidinställningar som gör det möjligt att manipulera flera visningsalternativ som förhandsgranska sidbrytningar, ställa in zoomnivå, ställa in sidorientering, kontrollera datasynlighet med frysrutor, pappersstorlek, skalning, rubriker &amp; sidfötter och utskriftsområde.
     </p>
    </div>
    <!--<div class="col-lg-12">
@@ -489,7 +489,7 @@ Aspose.Cells for Python ger full kontroll över sidinställningar som gör det m
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
- Anpassning av diagram
+Anpassning av diagram
     </h2>
     <p>
  Aspose.Cells for Python ger fullt stöd för kartläggning. Man kan enkelt lägga till standard och anpassade diagram eller dynamiskt ställa in diagramdata för att uppdatera diagrammet via detta pythonbibliotek.

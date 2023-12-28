@@ -1,8 +1,8 @@
 ---
 title: Slå samman MHT till OTS - Kombinera MHT till OTS i C++
 url: /sv/cpp/merger/merge-mht-to-ots/ 
-description: Aspose Excel. C++ Aspose.Cells. Gratis Online Merge MHT to OTS saveformat. C++ Kombinera MHT till OTS-format. Slå samman MHT till OTS i C++. MHT Merge.
-keywords: [Aspose Excel., C++ Aspose.Cells., Merge MHT to OTS in C++., Free Online C++ Merge MHT to ots., C++ Combine MHT to OTS Online for Free., MHT Merge]
+description: Aspose Excel. C++ Aspose.Cells. Slå samman MHT till OTS saveformat. C++ Kombinera MHT till OTS-format. Slå samman MHT till OTS i C++. MHT Merge.
+keywords: [Aspose Excel., C++ Aspose.Cells., Merge MHT to OTS in C++., C++ Merge MHT to ots., C++ Combine MHT to OTS., MHT Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Slå samman MHT till OTS via C++" h2="Höghastighets C++-bibliotek för sammanslagning av MHT till OTS. Använd vår excel-konvertering API för att utveckla plattformsoberoende programvara på hög nivå i C++. Detta är en professionell mjukvarulösning för att importera och exportera Excel, CSV, OpenOffice, PDF, HTML, image och många andra Excel-format." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" sourceAdditionalConversionTag="MHT" additionalConversionTag="OTS" pfName="Aspose.Cells" subTitlepfName="for C++" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., C++ Aspose.Cells., Merge MHT to OTS in C++., Free Onli
 
 {{% blocks/products/pf/agp/content h2="Slå samman MHT till OTS med C++" %}}
 
- Hur slår jag ihop MHT till OTS? Med Aspose.Cells for C++ bibliotek kan du enkelt slå samman MHT till OTS programmatiskt med några rader kod.[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) kan bygga plattformsoberoende applikationer med förmågan att generera, modifiera, konvertera, rendera och skriva ut alla Excel-filer. C++ Excel API konverterar inte bara mellan kalkylarksformat, det kan också rendera Excel-filer som bilder, PDF, HTML, ODS, ODS, CSV, 0761687481, 0761687481, vilket gör det till ett perfekt val, Pt utbyta dokument i branschstandard format. Du kan ladda ner den senaste versionen direkt, bara öppna[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) pakethanteraren, sök efter Aspose.Cells.Cpp och installera. Du kan också använda följande kommando från Package Manager Console.
+ Hur slår jag ihop MHT till OTS? Med Aspose.Cells for C++ bibliotek kan du enkelt slå samman MHT till OTS programmatiskt med några rader kod.[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) kan bygga plattformsoberoende applikationer med förmågan att generera, modifiera, konvertera, rendera och skriva ut alla Excel-filer. C++ Excel API konverterar inte bara mellan kalkylarksformat, den kan också rendera Excel-filer som bilder, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT och mer, vilket gör det till ett perfekt val att utbyta dokument i industristandardformat. Du kan ladda ner den senaste versionen direkt, bara öppna[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) pakethanteraren, sök efter Aspose.Cells.Cpp och installera. Du kan också använda följande kommando från Package Manager Console.
 
 {{% blocks/products/pf/agp/code-block title="Kommando" offSpacer="true" %}}
 
@@ -26,7 +26,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Slå samman MHT till OTS i C++ Online gratis" %}}
+{{% blocks/products/pf/agp/content h2="Slå samman MHT till OTS i C++" %}}
 
 Följande exempel visar hur man slår samman MHT till OTS i Aspose.Cells for C++.
 {{% blocks/products/pf/agp/text %}}
@@ -37,13 +37,13 @@ Följ de enkla stegen för att slå samman MHT till OTS. Ladda upp dina filer, r
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Gratis online för att slå samman MHT till OTS på C++" InputFormat="mht" InputFormat2="ots" outformat="ots" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="cpp" %}}
+{{% cells-merger title="Exempelkod för att slå samman MHT till OTS i C++" InputFormat="mht" InputFormat2="ots" outformat="ots" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="cpp" %}}
 
 {{% blocks/products/pf/agp/content h2="Hur man slår samman MHT till OTS via C++" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
-Behöver du slå samman MHT till OTS programmatiskt? Ett grundläggande dokument som sammanfogas och sammanfogas med[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) API:er kan göras med bara några rader kod.
+ Behöver du slå samman MHT till OTS programmatiskt? Ett grundläggande dokument som sammanfogas och sammanfogas med[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) API:er kan göras med bara några rader kod.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -107,7 +107,6 @@ Våra API:er stöds på alla större plattformar och operativsystem. Innan du k�
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-mht-to-pdf/" name="Slå samman MHT till PDF" description="Portabelt dokumentformat" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-mht-to-png/" name="Slå samman MHT till PNG" description="Bärbar nätverksgrafik" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-mht-to-svg/" name="Slå samman MHT till SVG" description="Skalbar vektorgrafik" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-mht-to-tiff/" name="Slå samman MHT till TIFF" description="Taggad bildformat" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-mht-to-tsv/" name="Slå samman MHT till TSV" description="Tab-separerade värden" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-mht-to-txt/" name="Slå samman MHT till TXT" description="Textdokument" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-mht-to-xls/" name="Slå samman MHT till XLS" description="Excel binärt format" >}}

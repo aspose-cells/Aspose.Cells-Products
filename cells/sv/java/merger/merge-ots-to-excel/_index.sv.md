@@ -1,8 +1,8 @@
 ---
 title: Slå samman OTS till EXCEL - Kombinera OTS till EXCEL i Java
 url: /sv/java/merger/merge-ots-to-excel/ 
-description: Aspose Excel. Java Aspose.Cells. Gratis Online Merge OTS till EXCEL sparaformat. Java Kombinera OTS till EXCEL-format. Slå samman OTS till EXCEL i Java. OTS Merge.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge OTS to EXCEL in Java., Free Online Java Merge OTS to excel., Java Combine OTS to EXCEL Online for Free., OTS Merge]
+description: Aspose Excel. Java Aspose.Cells. Slå ihop OTS till EXCEL-sparformat. Java Kombinera OTS till EXCEL-format. Slå samman OTS till EXCEL i Java. OTS Merge.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge OTS to EXCEL in Java., Java Merge OTS to excel., Java Combine OTS to EXCEL., OTS Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Slå samman OTS till EXCEL via Java" h2="Höghastighetsbibliotek Java för sammanslagning av OTS till EXCEL. Använd vår excel-konvertering API för att utveckla plattformsoberoende programvara på hög nivå i Java. Detta är en professionell mjukvarulösning för att importera och exportera Excel, CSV, OpenOffice, PDF, HTML, image och många andra Excel-format." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="OTS" additionalConversionTag="EXCEL" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Merge OTS to EXCEL in Java., Free 
 
 {{% blocks/products/pf/agp/content h2="Slå samman OTS till EXCEL med Java" %}}
 
- Hur slår jag ihop OTS till EXCEL? Med Aspose.Cells for Java-biblioteket kan du enkelt slå samman OTS till EXCEL programmatiskt med några rader kod.[Aspose.Cells for Java](https://products.aspose.com/cells/java) kan bygga plattformsoberoende applikationer med förmågan att generera, modifiera, konvertera, rendera och skriva ut alla Excel-filer. Java Excel API konverterar inte bara mellan kalkylarksformat, det kan också rendera Excel-filer som bilder, PDF, HTML, ODS, ODS, CSV, 0761687481, 0761687481, vilket gör det till ett perfekt val, Pt utbyta dokument i branschstandard format. Du kan ladda ner den senaste versionen direkt från[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) och installera det i ditt Maven-baserade projekt genom att lägga till följande konfigurationer till pom.xml.
+ Hur slår jag ihop OTS till EXCEL? Med Aspose.Cells for Java-biblioteket kan du enkelt slå samman OTS till EXCEL programmatiskt med några rader kod.[Aspose.Cells for Java](https://products.aspose.com/cells/java)kan bygga plattformsoberoende applikationer med förmågan att generera, modifiera, konvertera, rendera och skriva ut alla Excel-filer. Java Excel API konverterar inte bara mellan kalkylarksformat, den kan också rendera Excel-filer som bilder, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT och mer, vilket gör det till ett perfekt val att utbyta dokument i industristandardformat. Du kan ladda ner den senaste versionen direkt från[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) och installera det i ditt Maven-baserade projekt genom att lägga till följande konfigurationer till pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Förvar" offSpacer="true" %}}
 
@@ -45,7 +45,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Merge OTS to EXCEL in Java., Free 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Slå samman OTS till EXCEL i Java Online gratis" %}}
+{{% blocks/products/pf/agp/content h2="Slå samman OTS till EXCEL i Java" %}}
 
 Följande exempel visar hur man slår samman OTS till EXCEL i Aspose.Cells for Java.
 {{% blocks/products/pf/agp/text %}}
@@ -56,13 +56,13 @@ Följ de enkla stegen för att slå samman OTS till EXCEL. Ladda upp dina filer,
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Gratis online för att slå samman OTS till EXCEL i Java" InputFormat="ots" InputFormat2="xlsx" outformat="xlsx" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="java" %}}
+{{% cells-merger title="Exempelkod för att slå samman OTS till EXCEL i Java" InputFormat="ots" InputFormat2="xlsx" outformat="xlsx" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="Hur man slår ihop OTS till EXCEL via Java" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- Behöver du slå samman OTS till EXCEL programmatiskt? Ett grundläggande dokument som sammanfogas och sammanfogas med[Aspose.Cells for Java](https://products.aspose.com/cells/java) API:er kan göras med bara några rader kod.
+Behöver du slå samman OTS till EXCEL programmatiskt? Ett grundläggande dokument som sammanfogas och sammanfogas med[Aspose.Cells for Java](https://products.aspose.com/cells/java) API:er kan göras med bara några rader kod.
 
 {{% /blocks/products/pf/agp/text %}}
 

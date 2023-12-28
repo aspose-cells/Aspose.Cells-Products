@@ -2,6 +2,7 @@
 title:  Lås upp XLSX dokument via Java
 weight: 310
 description: Java exempelkod för att låsa upp lösenordsskyddad XLSX fil på Java Runtime Environment för JSP/JSF Application och Desktop Applications.
+keywords: [Java Aspose.Cells., Java unlock XLSX files., Java how to unlock XLSX document., Java unprotect XLSX files., remove protection from XLSX files., decrypt XLSX Files using Java]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Lås upp XLSX Filer via Java" h2="Ta bort skyddet från Excel-kalkylblad inklusive XLSX-filen med hjälp av Java Library." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSX" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -73,7 +74,7 @@ description: Java exempelkod för att låsa upp lösenordsskyddad XLSX fil på J
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Lås upp XLSX filer via C#" offSpacer="" %}}
+{{% blocks/products/pf/agp/code-block title="Lås upp XLSX Filer via Java" offSpacer="" %}}
 
 ```cs
 

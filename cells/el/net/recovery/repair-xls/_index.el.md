@@ -1,8 +1,8 @@
 ---
-title: C# Repair xls File - Επιδιόρθωση αρχείου xls Online δωρεάν
+title: C# Επιδιόρθωση xls - Ανάκτηση και διόρθωση κατεστραμμένου αρχείου xls
 url: /el/net/recovery/repair-xls/ 
-description: Aspose Excel. C# Aspose.Cells. C# Επιδιόρθωση αρχείου xls. Δωρεάν διαδικτυακό εργαλείο επισκευής xls. Επιδιορθώστε ένα κατεστραμμένο αρχείο xls. Ανακτήστε ένα κατεστραμμένο αρχείο xls εντός της εφαρμογής .NET.
-keywords: [Aspose Excel., C# Aspose.Cells., C# Aspose Cells., C# Repair xls file., Free Online Repair a corrupted xls file., C# Recover xls file.]
+description: C# Aspose.Cells. Επισκευή xls. Διορθώστε το αρχείο xls. xls εργαλείο ανάκτησης. xls διαφθορά. Επαναφορά δεδομένων xls. ανάκτηση αρχείων xls. Ανακτήστε το κατεστραμμένο αρχείο xls.
+keywords: [C# Aspose.Cells., repair xls file., xls repair., recover corrupted xls file., repair corrupted xls., recover xls., fix xls file., xls corruption., restore xls data., xls file recovery., recover corrupted xls file.]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Επισκευάστε το αρχείο XLS στο C#" h2="Δημιουργήστε τη δική σας εφαρμογή .NET για να επιδιορθώσετε αρχεία xls χρησιμοποιώντας το .NET." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLS" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="XLS" fileiconsmall2="XLSB" fileiconsmall3="XLSX" fileiconsmall4="XLSM" fileiconsmall5="ODS" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., C# Aspose.Cells., C# Aspose Cells., C# Repair xls file
 
 {{% blocks/products/pf/agp/content h2="Επισκευάστε το αρχείο XLS χρησιμοποιώντας το C#" %}}
 
- Πώς επιδιορθώνω το αρχείο xls; Με τη βιβλιοθήκη Aspose.Cells for .NET, μπορείτε εύκολα να επιδιορθώσετε το αρχείο XLS μέσω προγραμματισμού με λίγες γραμμές κώδικα.[Aspose.Cells for .NET](https://products.aspose.com/cells/net)έχει τη δυνατότητα δημιουργίας εφαρμογών πολλαπλών πλατφορμών με δυνατότητα δημιουργίας, τροποποίησης, μετατροπής, απόδοσης και εκτύπωσης όλων των αρχείων Excel. .NET Το Excel API όχι μόνο μετατρέπει μεταξύ μορφών υπολογιστικών φύλλων, αλλά μπορεί επίσης να αποδώσει αρχεία Excel ως εικόνες, PDF, HTML, ODS, CSV, 07616031481, CSV, 07616831481, δημιουργώντας περισσότερα τέλεια επιλογή για την ανταλλαγή εγγράφων σε βιομηχανικά πρότυπα μορφές. Ανοιξε[NuGet](https://www.nuget.org/packages/aspose.cells) διαχειριστής πακέτων, αναζητήστε Aspose.Cells και εγκαταστήστε. Μπορείτε επίσης να χρησιμοποιήσετε την ακόλουθη εντολή από την Κονσόλα Package Manager.
+ Πώς επιδιορθώνω το αρχείο xls; Με τη βιβλιοθήκη Aspose.Cells for .NET, μπορείτε εύκολα να επιδιορθώσετε το αρχείο XLS μέσω προγραμματισμού με λίγες γραμμές κώδικα.[Aspose.Cells for .NET](https://products.aspose.com/cells/net)έχει τη δυνατότητα δημιουργίας εφαρμογών πολλαπλών πλατφορμών με δυνατότητα δημιουργίας, τροποποίησης, μετατροπής, απόδοσης και εκτύπωσης όλων των αρχείων Excel. .NET Το Excel API όχι μόνο μετατρέπει μεταξύ μορφών υπολογιστικών φύλλων, αλλά μπορεί επίσης να αποδώσει αρχεία Excel ως εικόνες, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT και άλλα, καθιστώντας έτσι την τέλεια επιλογή για την ανταλλαγή εγγράφων σε βιομηχανικές τυποποιημένες μορφές. Ανοιξε[NuGet](https://www.nuget.org/packages/aspose.cells) διαχειριστής πακέτων, αναζητήστε Aspose.Cells και εγκαταστήστε. Μπορείτε επίσης να χρησιμοποιήσετε την ακόλουθη εντολή από την Κονσόλα Package Manager.
 
 {{% blocks/products/pf/agp/code-block title="Εντολή κονσόλας διαχείρισης πακέτων" offSpacer="true" %}}
 
@@ -41,7 +41,7 @@ PM> Install-Package Aspose.Cells
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-recovery title="Δωρεάν εφαρμογή και δείγμα κώδικα για επισκευή αρχείου XLS στο Διαδίκτυο" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et" InputFormat="xls" outformat="xls" IsLandingPage="true" language="net" %}}    
+{{% cells-recovery title="Δείγμα κώδικα για επιδιόρθωση αρχείου XLS" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et" InputFormat="xls" outformat="xls" IsLandingPage="true" language="net" %}}    
     
 {{% blocks/products/pf/agp/content h2=".NET βιβλιοθήκη για επιδιόρθωση αρχείου XLS" %}}
 

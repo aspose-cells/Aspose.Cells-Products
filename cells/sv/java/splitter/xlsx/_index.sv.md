@@ -2,6 +2,7 @@
 title:  Split XLSX Filer via Java
 weight: 3250
 description: Java exempelkod för att dela XLSX dokument på Java Runtime Environment för JSP/JSF Application och Desktop Applications.
+keywords: [Java Aspose.Cells., Java split xlsx files., Java how to split xlsx files into multiple files., Java xlsx splitter., Java split Cell., Cell splitter using Java]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Split XLSX Filer via Java" h2="XLSX uppdelning med hjälp av server-side Java bibliotek." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="XLSX" >}}
@@ -62,7 +63,7 @@ description: Java exempelkod för att dela XLSX dokument på Java Runtime Enviro
 + Ladda XLSX-filen med Workbook-klassen.
 + Gå igenom varje ark
 + Skapa nytt Workbook-klassobjekt
-+ Kopiera det valda arket till ett nytt objekt
+Kopiera det valda arket till ett nytt objekt
 + Anropa sparmetoden med ny XLSX filsökväg.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

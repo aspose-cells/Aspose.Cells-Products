@@ -1,6 +1,7 @@
 ---
 title:  Redigera ODS filer via .NET
 description: C# källkod för att redigera ODS dokument på .NET Framework, .NET Core, Windows Azure, Mono eller Xamarin Platforms.
+keywords: [C# Aspose.Cells., c# edit ods document., c# load ods file., c# modify ods file., c# save file to ods format]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Redigera ODS Format i C#" h2="Inbyggd och högpresterande ODS dokumentredigering med Aspose.Cells for .NET API:er på serversidan, utan användning av någon programvara som Microsoft eller Adobe PDF." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="DOCX" >}}
@@ -30,13 +31,16 @@ PM> Install-Package Aspose.Cells
 
 {{% blocks/products/pf/agp/text %}}
 
- En grundläggande dokumentredigering med
- [Aspose.Cells for .NET](https://products.aspose.com/cells/net) 
- API:er kan göras med bara några rader kod.
+ En grundläggande dokumentredigering med[Aspose.Cells for .NET](https://products.aspose.com/cells/net) API:er kan göras med bara några rader kod.
 
 {{% /blocks/products/pf/agp/text %}}
 
-{{code_steps}}
+1.  Inkludera namnområdet i din klassfil
+1.  Ladda din exempelfil.
+1. Lägg till och få tillgång till det nya kalkylbladet i arbetsboken.
+1.  Hämta önskad cell(er) i kalkylbladet och lägg värdet i cellen(erna).
+1.  Infoga pivottabell och ställ in stilen
+1.  Använd metoden Spara för att spara arbetsboken som ODS-fil.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -56,10 +60,7 @@ PM> Install-Package Aspose.Cells
 
 {{% blocks/products/pf/agp/code-block title="Redigera ODS Filer - C#" offSpacer="" %}}
 
-```cs
-code here
-
-```
+{{< gist "aspose-cells-gists" "59a1901d62ea9ceb08456a818431a898" "Landingpage-editor-ods.cs" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 
@@ -72,7 +73,7 @@ code here
 
     {{% blocks/products/pf/agp/content h2="" %}}
 
- Aspose.Cells API kan användas för att skapa, redigera, konvertera och rendera Microsoft Excel-format till olika format. Dessutom kan den användas för omfattande kartläggning, skalbar rapportering och tillförlitliga beräkningar inom mjukvaruapplikationer. Aspose.Cells är en fristående API och den kräver ingen programvara som Microsoft eller OpenOffice.
+Aspose.Cells API kan användas för att skapa, redigera, konvertera och rendera Microsoft Excel-format till olika format. Dessutom kan den användas för omfattande kartläggning, skalbar rapportering och tillförlitliga beräkningar inom mjukvaruapplikationer. Aspose.Cells är en fristående API och den kräver ingen programvara som Microsoft eller OpenOffice.
 
 
 

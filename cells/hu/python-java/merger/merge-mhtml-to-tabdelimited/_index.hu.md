@@ -1,8 +1,8 @@
 ---
 title: A MHTML egyesítése a TABDELIMITED számmal – a MHTML és a TABDELIMITED egyesítése a Python-ben
 url: /hu/python-java/merger/merge-mhtml-to-tabdelimited/ 
-description: Aspose Excel. Python Aspose.Cells. Ingyenes online egyesítés MHTML TABDELIMITED mentési formátumba. Python A MHTML kombinálása TABDELIMITED formátumba. A MHTML egyesítése a TABDELIMITED-hez a Python-ben. MHTML Egyesítés.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge MHTML to TABDELIMITED in Python., Free Online Python Merge MHTML to tabdelimited., Python Combine MHTML to TABDELIMITED Online for Free., MHTML Merge]
+description: Aspose Excel. Python Aspose.Cells. A MHTML egyesítése a TABDELIMITED mentési formátumba. Python A MHTML kombinálása TABDELIMITED formátumba. A MHTML egyesítése a TABDELIMITED-hez a Python-ben. MHTML Egyesítés.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge MHTML to TABDELIMITED in Python., Python Merge MHTML to tabdelimited., Python Combine MHTML to TABDELIMITED., MHTML Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="A MHTML egyesítése a TABDELIMITED-el a Python számon keresztül" h2="Nagy sebességű Python-es könyvtár a MHTML-es TAB-ba DELIMITED egyesítéséhez. Használja a API-es excel-konverziónkat magas szintű, platformfüggetlen szoftverek fejlesztéséhez a Python-ben. Ez egy professzionális szoftvermegoldás a Excel, CSV, OpenOffice, PDF, HTML, image és sok más excel formátum importálásához és exportálásához." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="MHTML" additionalConversionTag="TABDELIMITED" pfName="Aspose.Cells" subTitlepfName="for Python" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -12,12 +12,12 @@ keywords: [Aspose Excel., Python Aspose.Cells., Merge MHTML to TABDELIMITED in P
 
 {{% blocks/products/pf/agp/content h2="A MHTML egyesítése a TABDELIMITED-hez a Python használatával" %}}
 
- Hogyan egyesíthetem a MHTML-es számot a TABDELIMITED-el? A Aspose.Cells for Python via Java könyvtárral egyszerűen egyesítheti a MHTML-et a TABDELIMITED-szel programozottan néhány sor kóddal.[Aspose.Cells for Python via Java](https://pypi.org/project/aspose-cells)képes többplatformos alkalmazásokat létrehozni, módosítani, konvertálni, renderelni és kinyomtatni az összes Excel fájlt. Python Excel API nem csak a táblázatformátumok között konvertál, hanem Excel fájlokat is képes megjeleníteni képként, PDF, HTML, ODS, CSV, CSV, CSV, CSV, CSV, CSV, SVG, és így tovább, SVG P, 8 PT a választás,3,8 ipari szabvány szerinti dokumentumok cseréjére formátumok. A Aspose.Cells for Python via Java számot innen telepítheti.<a href="https://pypi.org/project/aspose-cells/">pypi</a> , használja a parancsot a következőképpen:<code>$ pip install aspose-cells</code>.
+ Hogyan egyesíthetem a MHTML-es számot a TABDELIMITED-el? A Aspose.Cells for Python via Java könyvtárral egyszerűen egyesítheti a MHTML-et a TABDELIMITED-szel programozottan néhány sor kóddal.[Aspose.Cells for Python via Java](https://pypi.org/project/aspose-cells) képes többplatformos alkalmazásokat létrehozni, módosítani, konvertálni, renderelni és kinyomtatni az összes Excel fájlt. Python Az Excel API nemcsak a táblázatformátumok között konvertál, hanem Excel-fájlokat is képes megjeleníteni képként, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT és egyebekként, így tökéletes választás a szabványos formátumú dokumentumok cseréjéhez. Telepítheti a Aspose.Cells for Python via Java számot innen<a href="https://pypi.org/project/aspose-cells/">pypi</a> , használja a parancsot a következőképpen:<code>$ pip install aspose-cells</code>.
 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Csatlakoztassa a MHTML-et a TABDELIMITED-hez a Python-ben online ingyen" %}}
+{{% blocks/products/pf/agp/content h2="A MHTML egyesítése a TABDELIMITED-hez a Python-ben" %}}
 
 A következő példa bemutatja a MHTML és a TABDELIMITED egyesítését a Aspose.Cells for Python via Java számban.
 {{% blocks/products/pf/agp/text %}}
@@ -28,7 +28,7 @@ Kövesse az egyszerű lépéseket a MHTML és a TABDELIMITED egyesítéséhez. T
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Ingyenes online a MHTML és a TABDELIMITED egyesítéséhez a Python-ben" InputFormat="mhtml" InputFormat2="tsv" outformat="tsv" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-merger title="Mintakód a MHTML és a TABDELIMITED egyesítéséhez a Python-ben" InputFormat="mhtml" InputFormat2="tsv" outformat="tsv" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="A MHTML és a TABDELIMITED egyesítése a Python számon keresztül" %}}
 
@@ -73,7 +73,7 @@ API-jaink minden nagyobb platformon és operációs rendszeren támogatottak. Mi
 
 -  Telepítse a Java 1.8-as vagy újabb verziót, és adja hozzá a PATH környezeti változóhoz, például:<code>PATH=C:\Program Files\Java\jdk1.8.0_131;</code>.
 -  Telepítés[Python](https://www.python.org/downloads/) 3,5 vagy magasabb.
-- Telepítés: Aspose.Cells for Python innen<a href="https://pypi.org/project/aspose-cells/">pypi</a> , használja a parancsot a következőképpen:<code>$ pip install aspose-cells</code>.
+-  Telepítés: Aspose.Cells for Python innen<a href="https://pypi.org/project/aspose-cells/">pypi</a> , használja a parancsot a következőképpen:<code>$ pip install aspose-cells</code>.
 
 
 {{% /blocks/products/pf/agp/content %}}
@@ -109,8 +109,8 @@ API-jaink minden nagyobb platformon és operációs rendszeren támogatottak. Mi
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-mhtml-to-xlt/" name="MHTML és a XLT számok egyesítése" description="Microsoft Excel-sablon" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-mhtml-to-xltm/" name="MHTML és a XLTM számok egyesítése" description="Excel-makró-kompatibilis sablon" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-mhtml-to-xltx/" name="MHTML és a XLTX számok egyesítése" description="Office OpenXML Excel sablon" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-mhtml-to-xml/" name="A MHTML egyesítése XML-be" description="Bővíthető jelölőnyelv" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-mhtml-to-xps/" name="MHTML és a XPS számok egyesítése" description="XML papírspecifikációk" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-mhtml-to-xml/" name="Egyesítse a MHTML-et XML-be" description="Bővíthető jelölőnyelv" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-mhtml-to-xps/" name="MHTML és a XPS számok egyesítése" description="XML papír specifikációk" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-mhtml-to-json/" name="MHTML és a JSON számok egyesítése" description="JavaScript objektum jelölés" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-mhtml-to-jpeg/" name="MHTML és a JPEG számok egyesítése" description="JPEG Kép" >}}
 

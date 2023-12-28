@@ -1,7 +1,7 @@
 ---
-title: Java JSON - FODS - Online JSON - FODS Átalakító
-description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Ingyenes online Java A JSON konvertálása FODS mentési formátumra. Java JSON - FODS formátum. Mentse a JSON számot a FODS Java számra.
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java JSON to FODS saveformat., Free Online JSON to FODS Java., Java Convert JSON to FODS]
+title: Java JSON - FODS - JSON - FODS Átalakító
+description: Aspose Excel. A JSON-es számot FODS-re gyorsan és egyszerűen a Aspose.Cells-es számmal alakíthatja át. Java JSON-FODS-re. 13481 a Java számon.
+keywords: [Aspose Excel., Java Aspose.Cells., Convert JSON to FODS in Java., Save JSON to FODS using Java., Java JSON to FODS saveformat., JSON to FODS Converter., Java Save JSON as FODS]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Konvertálja a JSON-et FODS-re Java-ben" h2="Nagysebességű Java könyvtár a JSON FODS-es számok konvertálásához. Ez egy professzionális szoftvermegoldás a JSON, FODS és sok más formátum importálásához és exportálásához a Java szám használatával." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="FODS" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java JSON to F
 
 {{% blocks/products/pf/agp/content h2="A JSON konvertálása FODS-re a Java használatával" %}}
 
-Hogyan alakíthatom át a JSON-et FODS-re? A Aspose.Cells for Java könyvtárral egyszerűen konvertálhatja a JSON-et programozottan FODS-re néhány sor kóddal.[Aspose.Cells for Java](https://products.aspose.com/cells/java) képes többplatformos alkalmazásokat létrehozni, módosítani, konvertálni, renderelni és kinyomtatni az összes Excel fájlt. Java Excel API nem csak a táblázatformátumok között konvertál, hanem Excel fájlokat is képes megjeleníteni képként, PDF, HTML, ODS, CSV, CSV, CSV, CSV, CSV, CSV, SVG, és így tovább, SVG P, 8 PT a választás,3,8 ipari szabvány szerinti dokumentumok cseréjére formátumok. A legújabb verziót közvetlenül a webhelyről töltheti le[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) és telepítse a Maven alapú projekten belül a következő konfigurációk hozzáadásával a pom.xml fájlhoz.
+Hogyan alakíthatom át a JSON-et FODS-re? A Aspose.Cells for Java könyvtárral egyszerűen konvertálhatja a JSON-et programozottan FODS-re néhány sor kóddal.[Aspose.Cells for Java](https://products.aspose.com/cells/java)képes többplatformos alkalmazásokat létrehozni, módosítani, konvertálni, renderelni és kinyomtatni az összes Excel fájlt. Java Az Excel API nemcsak a táblázatformátumok között konvertál, hanem Excel-fájlokat is képes megjeleníteni képként, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT és egyebekként, így tökéletes választás a szabványos formátumú dokumentumok cseréjéhez. A legújabb verziót közvetlenül a webhelyről töltheti le[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) és telepítse a Maven alapú projekten belül a következő konfigurációk hozzáadásával a pom.xml fájlhoz.
 
 {{% blocks/products/pf/agp/code-block title="Adattár" offSpacer="true" %}}
 
@@ -45,7 +45,7 @@ Hogyan alakíthatom át a JSON-et FODS-re? A Aspose.Cells for Java könyvtárral
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Takarítson meg JSON-FODS számot a Java számon online ingyen" %}}
+{{% blocks/products/pf/agp/content h2="Mentse a JSON-FODS számot a Java-es számon" %}}
 
 A következő példa bemutatja, hogyan lehet a JSON-et FODS-re konvertálni a Java-ben.
 {{% blocks/products/pf/agp/text %}}
@@ -56,9 +56,9 @@ Kövesse az egyszerű lépéseket a JSON FODS-re konvertálásához. Töltse fel
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Ingyenes alkalmazás és mintakód a JSON FODS online konvertálásához" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="json" outformat="fods" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Mintakód a JSON FODS-re konvertálásához" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="json" outformat="fods" IsLandingPage="true" language="java" %}}
 
-{{% blocks/products/pf/agp/content h2="JSON FODS via Java-re konvertálása" %}}
+{{% blocks/products/pf/agp/content h2="A JSON FODS via Java-re konvertálása" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
@@ -68,7 +68,7 @@ A JSON fájlt programozottan FODS-re kell konvertálni? A Java fejlesztők könn
 
 1.  Telepítse a „Aspose.Cells for Java” fájlt.
 1.  Adjon hozzá egy könyvtári hivatkozást (importálja a könyvtárat) a Java projekthez.
-1.  Töltse be a JSON számú fájlt a Workbook osztály egy példányával.
+1. Töltse be a JSON számú fájlt a Workbook osztály egy példányával.
 1.  Konvertálja a JSON-et FODS-re a Workbook.save metódus meghívásával.
 1.  Szerezze meg a JSON-es konverziós eredményt FODS-re.
 
@@ -98,7 +98,7 @@ A JSON fájlt programozottan FODS-re kell konvertálni? A Java fejlesztők könn
 <!-- aboutfile Starts -->
     {{< blocks/products/pf/agp/about-file-section >}}
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="JSON" readMoreLink="https://docs.fileformat.com/web/json/" >}}JSON (JavaScript Object Notation) egy nyílt szabványos fájlformátum az adatok megosztására, amely ember által olvasható szöveget használ az adatok tárolására és továbbítására. A JSON fájlok .json kiterjesztéssel vannak tárolva. A JSON kevesebb formázást igényel, és jó alternatíva az XML számára. A JSON a JavaScriptből származik, de nyelvfüggetlen adatformátum. A JSON generálását és elemzését számos modern programozási nyelv támogatja. Az application/json a JSON adathordozó típusa.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="FODS" readMoreLink="https://docs.fileformat.com/spreadsheet/fods/" >}}A .fods kiterjesztésű fájl az OpenDocument Spreadsheet dokumentumformátum egyik típusa, amely sorokban és oszlopokban tárolja az adatokat. A formátumot az OASIS által közzétett és karbantartott ODF 1.2 specifikáció részeként határozták meg. A FODS fájlok nem nyithatók meg Excellel, egy másik táblázatkezelő szoftveralkalmazással a Microsoft. A FODS fájlok ODS néven menthetők a LibreOffice segítségével, és konvertálhatók más formátumokba, például a XLS és a 4816151 és a 48133 formátumokba.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="FODS" readMoreLink="https://docs.fileformat.com/spreadsheet/fods/" >}}.fods kiterjesztésű fájl az OpenDocument Spreadsheet dokumentumformátum egyik típusa, amely sorokban és oszlopokban tárolja az adatokat. A formátumot az OASIS által közzétett és karbantartott ODF 1.2 specifikáció részeként határozták meg. A FODS fájlok nem nyithatók meg Excellel, egy másik táblázatkezelő szoftveralkalmazással a Microsoft. A FODS fájlok ODS néven menthetők a LibreOffice segítségével, és konvertálhatók más formátumokba, például a XLS és a 4816151 és a 48133 formátumokba.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
     {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->
 
@@ -125,7 +125,7 @@ A JSON fájlt programozottan FODS-re kell konvertálni? A Java fejlesztők könn
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/json-to-xltm/" name="JSON-XLTM" description="Excel-makró-kompatibilis sablon" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/json-to-xltx/" name="JSON-XLTX" description="Office OpenXML Excel sablon" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/json-to-xml/" name="JSON XML-RE" description="Bővíthető jelölőnyelv" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/json-to-xps/" name="JSON-XPS" description="XML papírspecifikációk" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/json-to-xps/" name="JSON-XPS" description="XML papír specifikációk" >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/json-to-jpeg/" name="JSON-JPEG" description="JPEG Kép" >}}
 

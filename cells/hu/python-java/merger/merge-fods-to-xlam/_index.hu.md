@@ -1,8 +1,8 @@
 ---
 title: A FODS-XLAM-es számok egyesítése – a FODS-es és a XLAM-es számok egyesítése a Python-ben
 url: /hu/python-java/merger/merge-fods-to-xlam/ 
-description: Aspose Excel. Python Aspose.Cells. Ingyenes online egyesítés FODS XLAM mentési formátumba. Python A FODS és a XLAM formátum kombinálása. Egyesítse a FODS-XLAM-et a Python-ben. FODS Egyesítse.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge FODS to XLAM in Python., Free Online Python Merge FODS to xlam., Python Combine FODS to XLAM Online for Free., FODS Merge]
+description: Aspose Excel. Python Aspose.Cells. A FODS és a XLAM mentési formátum egyesítése. Python A FODS és a XLAM formátum kombinálása. Egyesítse a FODS-XLAM-et a Python-ben. FODS Egyesítse.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge FODS to XLAM in Python., Python Merge FODS to xlam., Python Combine FODS to XLAM., FODS Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="A FODS-es szám egyesítése a XLAM-es számmal a Python-es számon keresztül" h2="Nagysebességű Python könyvtár a FODS és XLAM egyesítéséhez. Használja a API-es excel konverziónkat magas szintű, platformfüggetlen szoftver fejlesztésére a Python-ben. Ez egy professzionális szoftvermegoldás Excel, CSV, OpenOffice, PDF, HTML, image és sok más excel formátum importálásához és exportálásához." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="FODS" additionalConversionTag="XLAM" pfName="Aspose.Cells" subTitlepfName="for Python" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -12,12 +12,12 @@ keywords: [Aspose Excel., Python Aspose.Cells., Merge FODS to XLAM in Python., F
 
 {{% blocks/products/pf/agp/content h2="A FODS és a XLAM egyesítése a Python használatával" %}}
 
- Hogyan egyesíthetem a FODS és a XLAM számokat? A Aspose.Cells for Python via Java könyvtárral könnyedén egyesítheti a FODS-et a XLAM-es számokkal programozottan néhány sornyi kóddal.[Aspose.Cells for Python via Java](https://pypi.org/project/aspose-cells)képes többplatformos alkalmazásokat létrehozni, módosítani, konvertálni, renderelni és kinyomtatni az összes Excel fájlt. Python Excel API nem csak a táblázatformátumok között konvertál, hanem Excel fájlokat is képes megjeleníteni képként, PDF, HTML, ODS, CSV, CSV, CSV, CSV, CSV, CSV, SVG, és így tovább, SVG P, 8 PT a választás,3,8 ipari szabvány szerinti dokumentumok cseréjére formátumok. A Aspose.Cells for Python via Java számot innen telepítheti.<a href="https://pypi.org/project/aspose-cells/">pypi</a> , használja a parancsot a következőképpen:<code>$ pip install aspose-cells</code>.
+Hogyan egyesíthetem a FODS és a XLAM számokat? A Aspose.Cells for Python via Java könyvtárral könnyedén egyesítheti a FODS-et a XLAM-es számokkal programozottan néhány sornyi kóddal.[Aspose.Cells for Python via Java](https://pypi.org/project/aspose-cells) képes többplatformos alkalmazásokat létrehozni, módosítani, konvertálni, renderelni és kinyomtatni az összes Excel fájlt. Python Az Excel API nemcsak a táblázatformátumok között konvertál, hanem Excel-fájlokat is képes megjeleníteni képként, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT és egyebekként, így tökéletes választás a szabványos formátumú dokumentumok cseréjéhez. Telepítheti a Aspose.Cells for Python via Java számot innen<a href="https://pypi.org/project/aspose-cells/">pypi</a> , használja a parancsot a következőképpen:<code>$ pip install aspose-cells</code>.
 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Csatlakoztassa a FODS-es számokat a XLAM-es számokhoz a Python-ben online ingyen" %}}
+{{% blocks/products/pf/agp/content h2="A FODS és a XLAM egyesítése a Python-ben" %}}
 
 A következő példa bemutatja a FODS és XLAM egyesítését a Aspose.Cells for Python via Java számban.
 {{% blocks/products/pf/agp/text %}}
@@ -28,7 +28,7 @@ Kövesse az egyszerű lépéseket a FODS-es és a XLAM-es számok egyesítéséh
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Ingyenes online a FODS-XLAM-es számok egyesítéséhez a Python-ben" InputFormat="fods" InputFormat2="xlam" outformat="xlam" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-merger title="Mintakód a FODS és XLAM közötti egyesítéshez a Python-ben" InputFormat="fods" InputFormat2="xlam" outformat="xlam" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="A FODS és a XLAM egyesítése a Python számon keresztül" %}}
 
@@ -73,14 +73,14 @@ API-jaink minden nagyobb platformon és operációs rendszeren támogatottak. Mi
 
 -  Telepítse a Java 1.8-as vagy újabb verziót, és adja hozzá a PATH környezeti változóhoz, például:<code>PATH=C:\Program Files\Java\jdk1.8.0_131;</code>.
 -  Telepítés[Python](https://www.python.org/downloads/) 3,5 vagy magasabb.
-- Telepítés: Aspose.Cells for Python innen<a href="https://pypi.org/project/aspose-cells/">pypi</a> , használja a parancsot a következőképpen:<code>$ pip install aspose-cells</code>.
+-  Telepítés: Aspose.Cells for Python innen<a href="https://pypi.org/project/aspose-cells/">pypi</a> , használja a parancsot a következőképpen:<code>$ pip install aspose-cells</code>.
 
 
 {{% /blocks/products/pf/agp/content %}}
 
 <!-- aboutfile Starts -->
     {{< blocks/products/pf/agp/about-file-section >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="FODS" readMoreLink="https://docs.fileformat.com/spreadsheet/fods/" >}}A .fods kiterjesztésű fájl az OpenDocument Spreadsheet dokumentumformátum egyik típusa, amely sorokban és oszlopokban tárolja az adatokat. A formátumot az OASIS által közzétett és karbantartott ODF 1.2 specifikáció részeként határozták meg. A FODS fájlok nem nyithatók meg Excellel, egy másik táblázatkezelő szoftveralkalmazással a Microsoft. A FODS fájlok ODS néven menthetők a LibreOffice segítségével, és konvertálhatók más formátumokba, például a XLS és a 4816151 és a 48133 formátumokba.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="FODS" readMoreLink="https://docs.fileformat.com/spreadsheet/fods/" >}}.fods kiterjesztésű fájl az OpenDocument Spreadsheet dokumentumformátum egyik típusa, amely sorokban és oszlopokban tárolja az adatokat. A formátumot az OASIS által közzétett és karbantartott ODF 1.2 specifikáció részeként határozták meg. A FODS fájlok nem nyithatók meg Excellel, egy másik táblázatkezelő szoftveralkalmazással a Microsoft. A FODS fájlok ODS néven menthetők a LibreOffice segítségével, és konvertálhatók más formátumokba, például a XLS és a 4816151 és a 48133 formátumokba.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLAM" readMoreLink="https://docs.fileformat.com/spreadsheet/xlam/" >}}XLAM egy makróképes bővítményfájl, amely új függvények hozzáadására szolgál a táblázatokhoz. A bővítmény egy kiegészítő program, amely további kódot futtat, és további funkciókat biztosít a táblázatokhoz. A XLAM fájlok .xlam kiterjesztéssel vannak tárolva. A XLAM fájlok a XLSM és a XLSX fájlformátumokhoz hasonló XML-alapú fájlok, és ZIP-tömörítéssel kerülnek mentésre a teljes fájlméret csökkentése érdekében.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
     {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->
@@ -109,8 +109,8 @@ API-jaink minden nagyobb platformon és operációs rendszeren támogatottak. Mi
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-fods-to-xlt/" name="FODS és a XLT számok egyesítése" description="Microsoft Excel-sablon" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-fods-to-xltm/" name="FODS és a XLTM számok egyesítése" description="Excel-makró-kompatibilis sablon" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-fods-to-xltx/" name="FODS és a XLTX számok egyesítése" description="Office OpenXML Excel sablon" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-fods-to-xml/" name="A FODS egyesítése XML-be" description="Bővíthető jelölőnyelv" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-fods-to-xps/" name="FODS és a XPS számok egyesítése" description="XML papírspecifikációk" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-fods-to-xml/" name="Egyesítse a FODS-et XML-be" description="Bővíthető jelölőnyelv" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-fods-to-xps/" name="FODS és a XPS számok egyesítése" description="XML papír specifikációk" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-fods-to-json/" name="FODS és a JSON számok egyesítése" description="JavaScript objektum jelölés" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-fods-to-jpeg/" name="FODS és a JPEG számok egyesítése" description="JPEG Kép" >}}
 

@@ -1,8 +1,8 @@
 ---
 title: A FODS-XLSB-es számok egyesítése – a FODS-es és a XLSB-es számok egyesítése a C#-ben
 url: /hu/net/merger/merge-fods-to-xlsb/ 
-description: Aspose Excel. C# Aspose.Cells. Ingyenes online egyesítés FODS XLSB mentési formátumba. C# A FODS és a XLSB formátum kombinálása. Egyesítse a FODS-XLSB-et a C#-ben. FODS Egyesítse.
-keywords: [Aspose Excel., C# Aspose.Cells., Merge FODS to XLSB in C#., Free Online C# Merge FODS to xlsb., C# Combine FODS to XLSB Online for Free., FODS Merge]
+description: Aspose Excel. C# Aspose.Cells. A FODS és a XLSB mentési formátum egyesítése. C# A FODS és a XLSB formátum kombinálása. Egyesítse a FODS-XLSB-et a C#-ben. FODS Egyesítse.
+keywords: [Aspose Excel., C# Aspose.Cells., Merge FODS to XLSB in C#., C# Merge FODS to xlsb., C# Combine FODS to XLSB., FODS Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="A FODS-es szám egyesítése a XLSB-es számmal a C#-es számon keresztül" h2="Nagysebességű C# könyvtár a FODS és XLSB egyesítéséhez. Használja a API-es excel konverziónkat magas szintű, platformfüggetlen szoftver fejlesztésére a C#-ben. Ez egy professzionális szoftvermegoldás Excel, CSV, OpenOffice, PDF, HTML, image és sok más excel formátum importálásához és exportálásához." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="FODS" additionalConversionTag="XLSB" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., C# Aspose.Cells., Merge FODS to XLSB in C#., Free Onli
 
 {{% blocks/products/pf/agp/content h2="A FODS és a XLSB egyesítése a C# használatával" %}}
 
- Hogyan egyesíthetem a FODS és a XLSB számokat? A Aspose.Cells for .NET könyvtárral egyszerűen egyesítheti a FODS-et a XLSB-es számokkal programozottan néhány sornyi kóddal.[Aspose.Cells for .NET](https://products.aspose.com/cells/net)képes többplatformos alkalmazásokat létrehozni, módosítani, konvertálni, renderelni és kinyomtatni az összes Excel fájlt. .NET Excel API nem csak a táblázatformátumok között konvertál, hanem Excel fájlokat is képes megjeleníteni képként, PDF, HTML, ODS, CSV, CSV, CSV, CSV, CSV, CSV, SVG, és így tovább, SVG P, 8 PT a választás,3,8 ipari szabvány szerinti dokumentumok cseréjére formátumok. Nyisd ki[NuGet](https://www.nuget.org/packages/aspose.cells) csomagkezelő, keresse meg a Aspose.Cells-et, és telepítse. A következő parancsot is használhatja a Package Manager konzolból.
+ Hogyan egyesíthetem a FODS és a XLSB számokat? A Aspose.Cells for .NET könyvtárral egyszerűen egyesítheti a FODS-et a XLSB-es számokkal programozottan néhány sornyi kóddal.[Aspose.Cells for .NET](https://products.aspose.com/cells/net)képes többplatformos alkalmazásokat létrehozni, módosítani, konvertálni, renderelni és kinyomtatni az összes Excel fájlt. .NET Az Excel API nemcsak a táblázatformátumok között konvertál, hanem Excel-fájlokat is képes megjeleníteni képként, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT és egyebekként, így tökéletes választás a szabványos formátumú dokumentumok cseréjéhez. Nyisd ki[NuGet](https://www.nuget.org/packages/aspose.cells) csomagkezelő, keresse meg a Aspose.Cells-et, és telepítse. A következő parancsot is használhatja a Package Manager konzolból.
 
 {{% blocks/products/pf/agp/code-block title="Csomagkezelő konzolparancs" offSpacer="true" %}}
 
@@ -26,7 +26,7 @@ PM> Install-Package Aspose.Cells
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Csatlakoztassa a FODS-es számokat a XLSB-es számokhoz a C#-ben online ingyen" %}}
+{{% blocks/products/pf/agp/content h2="A FODS és a XLSB egyesítése a C#-ben" %}}
 
 A következő példa bemutatja a FODS és a XLSB egyesítését a Aspose.Cells for .NET számban.
 {{% blocks/products/pf/agp/text %}}
@@ -37,7 +37,7 @@ Kövesse az egyszerű lépéseket a FODS-es és a XLSB-es számok egyesítéséh
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Ingyenes online a FODS-XLSB-es számok egyesítéséhez a C#-ben" InputFormat="fods" InputFormat2="xlsb" outformat="xlsb" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="net" %}}
+{{% cells-merger title="Mintakód a FODS és XLSB közötti egyesítéshez a C#-ben" InputFormat="fods" InputFormat2="xlsb" outformat="xlsb" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="net" %}}
 
 {{% blocks/products/pf/agp/content h2="A FODS és a XLSB egyesítése a C# számon keresztül" %}}
 
@@ -87,7 +87,7 @@ API-jaink minden nagyobb platformon és operációs rendszeren támogatottak. Mi
 
 <!-- aboutfile Starts -->
     {{< blocks/products/pf/agp/about-file-section >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="FODS" readMoreLink="https://docs.fileformat.com/spreadsheet/fods/" >}}A .fods kiterjesztésű fájl az OpenDocument Spreadsheet dokumentumformátum egyik típusa, amely sorokban és oszlopokban tárolja az adatokat. A formátumot az OASIS által közzétett és karbantartott ODF 1.2 specifikáció részeként határozták meg. A FODS fájlok nem nyithatók meg Excellel, egy másik táblázatkezelő szoftveralkalmazással a Microsoft. A FODS fájlok ODS néven menthetők a LibreOffice segítségével, és konvertálhatók más formátumokba, például a XLS és a 4816151 és a 48133 formátumokba.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="FODS" readMoreLink="https://docs.fileformat.com/spreadsheet/fods/" >}}.fods kiterjesztésű fájl az OpenDocument Spreadsheet dokumentumformátum egyik típusa, amely sorokban és oszlopokban tárolja az adatokat. A formátumot az OASIS által közzétett és karbantartott ODF 1.2 specifikáció részeként határozták meg. A FODS fájlok nem nyithatók meg Excellel, egy másik táblázatkezelő szoftveralkalmazással a Microsoft. A FODS fájlok ODS néven menthetők a LibreOffice segítségével, és konvertálhatók más formátumokba, például a XLS és a 4816151 és a 48133 formátumokba.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLSB" readMoreLink="https://docs.fileformat.com/spreadsheet/xlsb/" >}}A XLSB fájlformátum az Excel bináris fájlformátumát határozza meg, amely az Excel-munkafüzet tartalmát meghatározó rekordok és struktúrák gyűjteménye. A tartalom tartalmazhat strukturálatlan vagy félig strukturált számtáblázatokat, szöveget, vagy számokat és szöveget egyaránt, képleteket, külső adatkapcsolatokat, diagramokat és képeket. A XLSX-től eltérően (amely Open XML fájlformátumon alapul), a XLSB bináris Excel-munkafüzetfájlt jelöl. A XLSB fájlok gyorsabban olvashatók és írhatók, ami hasznossá teszi őket a nagy fájlokkal való munka során. A XLSB-et ritkán használják munkafüzetek tárolására, mivel a XLSX (és korábban a XLS) a felhasználók által leggyakrabban kiválasztott fájlformátumok munkafüzetek mentésére. Megnyitható: Microsoft Office 2007 és újabb.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
     {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->
@@ -116,8 +116,8 @@ API-jaink minden nagyobb platformon és operációs rendszeren támogatottak. Mi
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-fods-to-xlt/" name="FODS és a XLT számok egyesítése" description="Microsoft Excel-sablon" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-fods-to-xltm/" name="FODS és a XLTM számok egyesítése" description="Excel-makró-kompatibilis sablon" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-fods-to-xltx/" name="FODS és a XLTX számok egyesítése" description="Office OpenXML Excel sablon" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-fods-to-xml/" name="A FODS egyesítése XML-be" description="Bővíthető jelölőnyelv" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-fods-to-xps/" name="FODS és a XPS számok egyesítése" description="XML papírspecifikációk" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-fods-to-xml/" name="Egyesítse a FODS-et XML-be" description="Bővíthető jelölőnyelv" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-fods-to-xps/" name="FODS és a XPS számok egyesítése" description="XML papír specifikációk" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-fods-to-json/" name="FODS és a JSON számok egyesítése" description="JavaScript objektum jelölés" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-fods-to-jpeg/" name="FODS és a JPEG számok egyesítése" description="JPEG Kép" >}}
 

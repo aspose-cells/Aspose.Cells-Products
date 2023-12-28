@@ -1,6 +1,7 @@
 ---
 title: Hozzon létre oszlopdiagramokat a C# számon keresztül
 description: C# Mintakód oszlopdiagramok készítéséhez Excelbe a .NET könyvtár használatával. Használja ezt a kódot oszlopdiagram létrehozásához az MS Excelhez VB.NET, Asp.NET vagy bármely .NET alapú alkalmazáson belül.
+keywords: [C# Aspose.Cells., c# add Bar Chart., c# insert Bar Chart., c# create Bar Chart]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
@@ -18,7 +19,7 @@ Az oszlopdiagramok dinamikus létrehozása a futó alkalmazáson belül egyszer�
 
 {{% blocks/products/pf/agp/text %}}
 
-A fejlesztők könnyen létrehozhatnak oszlopdiagramot a különböző jelentéskészítő alkalmazások futtatásán belül az adatfeldolgozáshoz, mindössze néhány sornyi kóddal.
+fejlesztők könnyen létrehozhatnak oszlopdiagramot a különböző jelentéskészítő alkalmazások futtatásán belül az adatfeldolgozáshoz, mindössze néhány sornyi kóddal.
 
 {{% /blocks/products/pf/agp/text %}}
 

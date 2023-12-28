@@ -1,6 +1,7 @@
 ---
 title:  Alakzatok beszúrása az Excelbe a Python via .Net használatával
 description:  Python via .Net forráskódok, amelyek segítségével alakzatot lehet beszúrni Microsoft Excel-fájlokba a Python via .Net Library használatával.
+keywords: [Python Aspose.Cells., Python add shapes., Python insert shapes., Python create shapes]
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
 {{< blocks/products/pf/i18n/feature-page-header h1="Microsoft<sup>&reg;</sup> Excel alakzatok beszúrása a Python via .Net használatával" h2="Hozzon létre Excel-dokumentumokat és szúrjon be alakzatokat szerveroldali API-k segítségével a Python via Net alapú alkalmazásokban." >}}
@@ -12,7 +13,7 @@ description:  Python via .Net forráskódok, amelyek segítségével alakzatot l
 
 {{% blocks/products/pf/feature-page-section h2="Alakzatok beszúrása Excel fájlba" %}}
 
- Az alakzatok beszúrása ezekkel az API-kkal egyszerű. A folyamat a létrehozás[Munkafüzet osztály](https://reference.aspose.com/cells/python-net/aspose.cells/workbook/) objektumot, és az index megadásával válassza ki az első munkalapot vagy a megfelelő lapot. Adjon hozzá egy alakzatot a munkalaphoz a használatával[alakgyűjtemény](https://reference.aspose.com/cells/python-net/aspose.cells.drawing/shapecollection/) módszer hozzáadásához.
+ Az alakzatok beszúrása ezekkel az API-kkal egyszerű. A folyamat a létrehozás[Munkafüzet osztály](https://reference.aspose.com/cells/python-net/aspose.cells/workbook/)objektumot, és az index megadásával válassza ki az első munkalapot vagy a megfelelő lapot. Adjon hozzá egy alakzatot a munkalaphoz a használatával[alakgyűjtemény](https://reference.aspose.com/cells/python-net/aspose.cells.drawing/shapecollection/) módszer hozzáadásához.
 
 {{% blocks/products/pf/feature-page-code h3="Python via .Net kód az alakzat beszúrásához az Excelben" %}}
 

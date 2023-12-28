@@ -1,8 +1,8 @@
 ---
 title: JPG egyesítése PRN-be – JPG és PRN egyesítése a C#-ben
 url: /hu/net/merger/merge-jpg-to-prn/ 
-description: Aspose Excel. C# Aspose.Cells. Ingyenes online egyesítése JPG PRN mentési formátumba. C# JPG kombinálása PRN formátumba. JPG egyesítése PRN-be a C#-ben. JPG-egyesítés.
-keywords: [Aspose Excel., C# Aspose.Cells., Merge JPG to PRN in C#., Free Online C# Merge JPG to prn., C# Combine JPG to PRN Online for Free., JPG Merge]
+description: Aspose Excel. C# Aspose.Cells. JPG egyesítése PRN mentési formátumba. C# JPG kombinálása PRN formátumba. JPG egyesítése PRN-be a C#-ben. JPG-egyesítés.
+keywords: [Aspose Excel., C# Aspose.Cells., Merge JPG to PRN in C#., C# Merge JPG to prn., C# Combine JPG to PRN., JPG Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="JPG egyesítése PRN-vel a C# számon keresztül" h2="Nagy sebességű C# könyvtár a JPG és a PRN egyesítéséhez. Használja a API-es excel-konverziónkat magas szintű, platformfüggetlen szoftverek fejlesztéséhez a C#-ben. Ez egy professzionális szoftvermegoldás a Excel, CSV, OpenOffice, PDF, HTML, image és sok más excel formátum importálásához és exportálásához." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="JPG" additionalConversionTag="PRN" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., C# Aspose.Cells., Merge JPG to PRN in C#., Free Online
 
 {{% blocks/products/pf/agp/content h2="JPG egyesítése PRN-be a C# használatával" %}}
 
- Hogyan egyesíthetem a JPG-t PRN-be? A Aspose.Cells for .NET könyvtárral egyszerűen egyesítheti a JPG-t PRN-fájlba programozottan néhány sornyi kóddal.[Aspose.Cells for .NET](https://products.aspose.com/cells/net)képes többplatformos alkalmazásokat létrehozni, módosítani, konvertálni, renderelni és kinyomtatni az összes Excel fájlt. .NET Excel API nem csak a táblázatformátumok között konvertál, hanem Excel fájlokat is képes megjeleníteni képként, PDF, HTML, ODS, CSV, CSV, CSV, CSV, CSV, CSV, SVG, és így tovább, SVG P, 8 PT a választás,3,8 ipari szabvány szerinti dokumentumok cseréjére formátumok. Nyisd ki[NuGet](https://www.nuget.org/packages/aspose.cells) csomagkezelő, keresse meg a Aspose.Cells-et, és telepítse. A következő parancsot is használhatja a Package Manager konzolból.
+ Hogyan egyesíthetem a JPG-t PRN-be? A Aspose.Cells for .NET könyvtárral egyszerűen egyesítheti a JPG-t PRN-fájlba programozottan néhány sornyi kóddal.[Aspose.Cells for .NET](https://products.aspose.com/cells/net)képes többplatformos alkalmazásokat létrehozni, módosítani, konvertálni, renderelni és kinyomtatni az összes Excel fájlt. .NET Az Excel API nemcsak a táblázatformátumok között konvertál, hanem Excel-fájlokat is képes megjeleníteni képként, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT és egyebekként, így tökéletes választás a szabványos formátumú dokumentumok cseréjéhez. Nyisd ki[NuGet](https://www.nuget.org/packages/aspose.cells) csomagkezelő, keresse meg a Aspose.Cells-et, és telepítse. A következő parancsot is használhatja a Package Manager konzolból.
 
 {{% blocks/products/pf/agp/code-block title="Csomagkezelő konzolparancs" offSpacer="true" %}}
 
@@ -26,7 +26,7 @@ PM> Install-Package Aspose.Cells
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Ingyenesen egyesítse a JPG-t PRN-vel a C#-es számon online" %}}
+{{% blocks/products/pf/agp/content h2="JPG egyesítése PRN-vel a C#-ben" %}}
 
 A következő példa bemutatja, hogyan egyesítheti a JPG-t PRN-vel a Aspose.Cells for .NET-ben.
 {{% blocks/products/pf/agp/text %}}
@@ -37,13 +37,13 @@ Kövesse az egyszerű lépéseket a JPG és a PRN egyesítéséhez. Töltse fel 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Ingyenes online JPG és PRN egyesítése a C# számon" InputFormat="jpg" InputFormat2="prn" outformat="prn" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="net" %}}
+{{% cells-merger title="Mintakód a JPG és a PRN egyesítéséhez a C#-ben" InputFormat="jpg" InputFormat2="prn" outformat="prn" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="net" %}}
 
 {{% blocks/products/pf/agp/content h2="JPG egyesítése PRN-be a C# számon keresztül" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
-Programozottan egyesítenie kell a JPG-t a PRN-vel? Egy alapdokumentum, amely összeolvad és összefűződik[Aspose.Cells for .NET](https://products.aspose.com/cells/net) Az API-k néhány sornyi kóddal elkészíthetők.
+ Programozottan egyesítenie kell a JPG-t a PRN-vel? Egy alapdokumentum, amely összeolvad és összefűződik[Aspose.Cells for .NET](https://products.aspose.com/cells/net) Az API-k néhány sornyi kóddal elkészíthetők.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -88,7 +88,7 @@ API-jaink minden nagyobb platformon és operációs rendszeren támogatottak. Mi
 <!-- aboutfile Starts -->
     {{< blocks/products/pf/agp/about-file-section >}}
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="JPG" readMoreLink="https://docs.fileformat.com/image/jpg/" >}}A JPEG egy olyan képformátum, amely veszteséges tömörítés módszerével kerül mentésre. A kimeneti kép a tömörítés eredményeként kompromisszumot jelent a tárhely mérete és a képminőség között. A felhasználók beállíthatják a tömörítési szintet a kívánt minőségi szint eléréséhez, ugyanakkor csökkenthetik a tárhely méretét. A képminőséget elhanyagolható mértékben befolyásolja, ha 10:1-es tömörítést alkalmaznak a képen. Minél nagyobb a tömörítési érték, annál nagyobb a képminőség romlása.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="PRN" readMoreLink="https://fileinfo.com/extension/prn/" >}}PRN-fájl a Nyomtatás fájlba jelölőnégyzet segítségével létrehozott fájl, amely a Windows-es szám egyes Nyomtatás párbeszédpaneleiben jelenik meg. Eszközspecifikus utasításokat tartalmaz, amelyeket a nyomtató, fax vagy más eszköz a dokumentum nyomtatásához használ. A PRN-fájlok szöveges vagy bináris tartalmat tartalmazhatnak, attól függően, hogy milyen eszközhöz készült a fájl.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="PRN" readMoreLink="https://fileinfo.com/extension/prn/" >}}A PRN-fájl a Nyomtatás fájlba jelölőnégyzet segítségével létrehozott fájl, amely a Windows-es szám egyes Nyomtatás párbeszédpaneleiben jelenik meg. Eszközspecifikus utasításokat tartalmaz, amelyeket a nyomtató, fax vagy más eszköz a dokumentum nyomtatásához használ. A PRN-fájlok szöveges vagy bináris tartalmat tartalmazhatnak, attól függően, hogy milyen eszközhöz készült a fájl.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
     {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->
 
@@ -117,7 +117,7 @@ API-jaink minden nagyobb platformon és operációs rendszeren támogatottak. Mi
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-jpg-to-xltm/" name="JPG egyesítése a XLTM-gyel" description="Excel-makró-kompatibilis sablon" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-jpg-to-xltx/" name="JPG egyesítése a XLTX-gyel" description="Office OpenXML Excel sablon" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-jpg-to-xml/" name="JPG egyesítése XML-be" description="Bővíthető jelölőnyelv" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-jpg-to-xps/" name="JPG egyesítése a XPS-gyel" description="XML papírspecifikációk" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-jpg-to-xps/" name="JPG egyesítése a XPS-gyel" description="XML papír specifikációk" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-jpg-to-json/" name="JPG egyesítése a JSON-gyel" description="JavaScript objektum jelölés" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-jpg-to-jpeg/" name="JPG egyesítése a JPEG-gyel" description="JPEG Kép" >}}
 

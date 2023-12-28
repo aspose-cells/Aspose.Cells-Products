@@ -1,7 +1,7 @@
 ---
-title: Python FODS MD - Online FODS MD konverter
-description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Ingyenes online Python A FODS konvertálása MD mentési formátumba. Python FODS MD formátumba. Mentse a FODS számot az MD Python számra.
-keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python FODS to MD saveformat., Free Online FODS to MD Python., Python Convert FODS to MD]
+title: Python FODS MD-hez - FODS MD konverterhez
+description: Aspose Excel. A FODS számot gyorsan és egyszerűen konvertálja MD-re a Aspose.Cells-es számmal. Python FODS MD-vé. Python Takarítson meg FODS-et az MD-nek. Mentse el a FODS számot MD-ként a Python használatával.
+keywords: [Aspose Excel., Python Aspose.Cells., Convert FODS to MD in Python., Save FODS to MD using Python., Python FODS to MD saveformat., FODS to MD Converter., Python Save FODS as MD]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Alakítsa át a FODS-et MD-re a Python-ben" h2="Nagy sebességű Python könyvtár a FODS MD formátumba konvertálásához. Használja a API-es excel konverziónkat magas szintű, platformfüggetlen szoftver fejlesztéséhez a Python-ben." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="MD" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,12 +12,12 @@ keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python FOD
 
 {{% blocks/products/pf/agp/content h2="Alakítsa át a FODS-et MD-re a Python-ben" %}}
 
- Hogyan konvertálhatom át a FODS-et MD-re? A Aspose.Cells for Python számmal a NET könyvtáron keresztül könnyedén konvertálhatja a FODS-et MD-vé, néhány soros kóddal programozottan.[Aspose.Cells for Python a NET számon keresztül](https://pypi.org/project/aspose-cells-python/)képes többplatformos alkalmazásokat létrehozni, módosítani, konvertálni, renderelni és kinyomtatni az összes Excel fájlt. Python Excel API nem csak a táblázatformátumok között konvertál, hanem Excel fájlokat is képes megjeleníteni képként, PDF, HTML, ODS, CSV, CSV, CSV, CSV, CSV, CSV, SVG, és így tovább, SVG P, 8 PT a választás,3,8 ipari szabvány szerinti dokumentumok cseréjére formátumok.
+ Hogyan konvertálhatom át a FODS-et MD-re? A Aspose.Cells for Python számmal a NET könyvtáron keresztül könnyedén konvertálhatja a FODS-et MD-vé, néhány soros kóddal programozottan.[Aspose.Cells for Python a NET számon keresztül](https://pypi.org/project/aspose-cells-python/)képes többplatformos alkalmazásokat létrehozni, módosítani, konvertálni, renderelni és kinyomtatni az összes Excel fájlt. Python Az Excel API nemcsak a táblázatformátumok között konvertál, hanem Excel-fájlokat is képes megjeleníteni képként, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT és egyebekként, így tökéletes választás a szabványos formátumú dokumentumok cseréjéhez.
 
 {{% /blocks/products/pf/agp/content %}}
 
 
-{{% blocks/products/pf/agp/content h2="Takarítson meg FODS-et MD-nek a Python számon online ingyen" %}}
+{{% blocks/products/pf/agp/content h2="Mentse el a FODS számot az MD számára a Python számon" %}}
 
 A következő példa bemutatja, hogyan lehet Python via NET-ben MD-vé alakítani a FODS-et.
 {{% blocks/products/pf/agp/text %}}
@@ -28,7 +28,7 @@ Kövesse az egyszerű lépéseket a FODS MD-re konvertálásához. Töltse fel a
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Ingyenes alkalmazás és mintakód a FODS MD Online konvertálásához" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="fods" outformat="md" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Mintakód a FODS MD-vé konvertálásához" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="fods" outformat="md" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="Hogyan lehet FODS-et konvertálni MD-re" %}}
 
@@ -52,7 +52,7 @@ FODS fájlokat programozottan MD-re kell konvertálnia? A Python fejlesztők egy
 A Python-es csomagjainkat PyPi-tárolókban tároljuk.
 
 {{% blocks/products/pf/agp/text %}}
-Telepítés: Aspose.Cells for Python innen<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , használja a parancsot a következőképpen:<code>$ pip install aspose-cells-python</code>.
+ Telepítés: Aspose.Cells for Python innen<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , használja a parancsot a következőképpen:<code>$ pip install aspose-cells-python</code>.
 {{% /blocks/products/pf/agp/text %}}
 
 {{% blocks/products/pf/agp/text %}}
@@ -72,7 +72,7 @@ Telepítés: Aspose.Cells for Python innen<a href="https://pypi.org/project/aspo
 
 <!-- aboutfile Starts -->
     {{< blocks/products/pf/agp/about-file-section >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="FODS" readMoreLink="https://docs.fileformat.com/spreadsheet/fods/" >}}A .fods kiterjesztésű fájl az OpenDocument Spreadsheet dokumentumformátum egyik típusa, amely sorokban és oszlopokban tárolja az adatokat. A formátumot az OASIS által közzétett és karbantartott ODF 1.2 specifikáció részeként határozták meg. A FODS fájlok nem nyithatók meg Excellel, egy másik táblázatkezelő szoftveralkalmazással a Microsoft. A FODS fájlok ODS néven menthetők a LibreOffice segítségével, és konvertálhatók más formátumokba, például a XLS és a 4816151 és a 48133 formátumokba.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="FODS" readMoreLink="https://docs.fileformat.com/spreadsheet/fods/" >}}.fods kiterjesztésű fájl az OpenDocument Spreadsheet dokumentumformátum egyik típusa, amely sorokban és oszlopokban tárolja az adatokat. A formátumot az OASIS által közzétett és karbantartott ODF 1.2 specifikáció részeként határozták meg. A FODS fájlok nem nyithatók meg Excellel, egy másik táblázatkezelő szoftveralkalmazással a Microsoft. A FODS fájlok ODS néven menthetők a LibreOffice segítségével, és konvertálhatók más formátumokba, például a XLS és a 4816151 és a 48133 formátumokba.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="MD" readMoreLink="https://docs.fileformat.com/word-processing/md/" >}}A Markdown nyelvi dialektusokkal létrehozott szöveges fájlok .md vagy .MARKDOWN kiterjesztéssel kerülnek mentésre. Az MD-fájlok egyszerű szöveges formátumban kerülnek mentésre, amely Markdown nyelvet használ, amely szövegközi szimbólumokat is tartalmaz, amelyek meghatározzák a szöveg formázását, például behúzásokat, táblázatformázást, betűtípusokat és fejléceket. Az MD fájlok a Markdown nevű programmal konvertálhatók HTML-re. A Markdown nyelvet John Gruber adta ki.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
     {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->
@@ -100,7 +100,7 @@ Telepítés: Aspose.Cells for Python innen<a href="https://pypi.org/project/aspo
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/fods-to-xltm/" name="FODS-XLTM" description="Excel-makró-kompatibilis sablon" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/fods-to-xltx/" name="FODS-XLTX" description="Office OpenXML Excel sablon" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/fods-to-xml/" name="FODS XML-RE" description="Bővíthető jelölőnyelv" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/fods-to-xps/" name="FODS-XPS" description="XML papírspecifikációk" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/fods-to-xps/" name="FODS-XPS" description="XML papír specifikációk" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/fods-to-json/" name="FODS-JSON" description="JavaScript objektum jelölés" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}

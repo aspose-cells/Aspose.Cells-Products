@@ -1,7 +1,7 @@
 ---
-title: C++ TSV - MHTML - Online TSV - MHTML Átalakító
-description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. Ingyenes online C++ A TSV konvertálása MHTML mentési formátumra. C++ TSV - MHTML formátum. Mentse a TSV számot a MHTML C++ számra.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ TSV to MHTML saveformat., Free Online TSV to MHTML C++., C++ Convert TSV to MHTML]
+title: C++ TSV - MHTML - TSV - MHTML Átalakító
+description: Aspose Excel. A TSV-es számot MHTML-re gyorsan és egyszerűen a Aspose.Cells-es számmal alakíthatja át. C++ TSV-MHTML-re. 13481 a C++ számon.
+keywords: [Aspose Excel., C++ Aspose.Cells., Convert TSV to MHTML in C++., Save TSV to MHTML using C++., C++ TSV to MHTML saveformat., TSV to MHTML Converter., C++ Save TSV as MHTML]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Konvertálja a TSV-et MHTML-re C++-ben" h2="Nagy teljesítményű TSV és MHTML közötti átalakítás a C++ könyvtár használatával a Microsoft Excel, OpenOffice vagy Adobe Acrobat telepítése nélkül." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" sourceAdditionalConversionTag="" additionalConversionTag="MHTML" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ TSV to MHTML
 
 {{% blocks/products/pf/agp/content h2="A TSV konvertálása MHTML-re a C++ használatával" %}}
 
-Hogyan alakíthatom át a TSV-et MHTML-re? A Aspose.Cells for C++ könyvtárral egyszerűen konvertálhatja a TSV-et programozottan MHTML-re néhány sor kóddal.[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) képes többplatformos alkalmazásokat létrehozni, módosítani, konvertálni, renderelni és kinyomtatni az összes Excel fájlt. C++ Excel API nem csak a táblázatformátumok között konvertál, hanem Excel fájlokat is képes megjeleníteni képként, PDF, HTML, ODS, CSV, CSV, CSV, CSV, CSV, CSV, SVG, és így tovább, SVG P, 8 PT a választás,3,8 ipari szabvány szerinti dokumentumok cseréjére formátumok. A legújabb verziót közvetlenül letöltheti, csak nyissa meg[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) csomagkezelő, keresse meg a Aspose.Cells.Cpp címet, és telepítse. A következő parancsot is használhatja a Package Manager konzolból.
+Hogyan alakíthatom át a TSV-et MHTML-re? A Aspose.Cells for C++ könyvtárral egyszerűen konvertálhatja a TSV-et programozottan MHTML-re néhány sor kóddal.[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) képes többplatformos alkalmazásokat létrehozni, módosítani, konvertálni, renderelni és kinyomtatni az összes Excel fájlt. C++ Az Excel API nemcsak a táblázatformátumok között konvertál, hanem Excel-fájlokat is képes megjeleníteni képként, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT és egyebekként, így tökéletes választás a szabványos formátumú dokumentumok cseréjéhez. A legújabb verziót közvetlenül letöltheti, csak nyissa meg[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) csomagkezelő, keresse meg a Aspose.Cells.Cpp címet, és telepítse. A következő parancsot is használhatja a Package Manager konzolból.
 
 {{% blocks/products/pf/agp/code-block title="Parancs" offSpacer="true" %}}
 
@@ -26,7 +26,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Takarítson meg TSV-MHTML számot a C++ számon online ingyen" %}}
+{{% blocks/products/pf/agp/content h2="Mentse a TSV-MHTML számot a C++-es számon" %}}
 
 A következő példa bemutatja, hogyan lehet a TSV-et MHTML-re konvertálni a C++-ben.
 {{% blocks/products/pf/agp/text %}}
@@ -37,7 +37,7 @@ Kövesse az egyszerű lépéseket a TSV MHTML-re konvertálásához. Töltse fel
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Ingyenes alkalmazás és mintakód a TSV MHTML online konvertálásához" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="tsv" outformat="mhtml" IsLandingPage="true" language="cpp" %}}
+{{% cells-convert title="Mintakód a TSV MHTML-re konvertálásához" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="tsv" outformat="mhtml" IsLandingPage="true" language="cpp" %}}
 
 {{% blocks/products/pf/agp/content h2="A TSV konvertálása MHTML-re a C++ számon keresztül" %}}
 
@@ -49,7 +49,7 @@ A TSV fájlt programozottan MHTML-re kell konvertálni? A C++ fejlesztők könny
 
 1.  Telepítse a „Aspose.Cells for C++” fájlt.
 1.  Adjon hozzá egy könyvtári hivatkozást (importálja a könyvtárat) a C++ projekthez.
-1.  Töltse be a TSV fájlt a Factory::CreateIWorkbook segítségével.
+1.  Töltse be a TSV fájlt a munkafüzet segítségével.
 1.  Konvertálja a TSV-et MHTML-re a Save() metódus meghívásával.
 1.  Szerezze meg a TSV-es konverziós eredményt MHTML-re.
 
@@ -101,7 +101,6 @@ Három lehetőség közül választhat a „Aspose.Cells for C++” telepítés�
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/tsv-to-pdf/" name="TSV-PDF" description="Hordozható dokumentum formátum" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/tsv-to-png/" name="TSV-PNG" description="Hordozható hálózati grafika" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/tsv-to-svg/" name="TSV-SVG" description="Skálázható vektorgrafika" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/tsv-to-tiff/" name="TSV-TIFF" description="Címkézett képformátum" >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/tsv-to-txt/" name="TSV-TXT" description="Szöveges dokumentum" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/tsv-to-xls/" name="TSV-XLS" description="Excel bináris formátum" >}}
@@ -112,7 +111,7 @@ Három lehetőség közül választhat a „Aspose.Cells for C++” telepítés�
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/tsv-to-xltm/" name="TSV-XLTM" description="Excel-makró-kompatibilis sablon" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/tsv-to-xltx/" name="TSV-XLTX" description="Office OpenXML Excel sablon" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/tsv-to-xml/" name="TSV XML-RE" description="Bővíthető jelölőnyelv" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/tsv-to-xps/" name="TSV-XPS" description="XML papírspecifikációk" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/tsv-to-xps/" name="TSV-XPS" description="XML papír specifikációk" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/tsv-to-json/" name="TSV-JSON" description="JavaScript objektum jelölés" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/tsv-to-jpeg/" name="TSV-JPEG" description="JPEG Kép" >}}
 

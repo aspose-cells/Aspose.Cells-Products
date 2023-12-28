@@ -1,7 +1,7 @@
 ---
-title: Java JSON az ET-hez – Online JSON az ET átalakítóhoz
-description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Ingyenes online Java A JSON konvertálása ET mentési formátumba. Java JSON ET formátumba. Mentse a JSON számot az ET Java számra.
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java JSON to ET saveformat., Free Online JSON to ET Java., Java Convert JSON to ET]
+title: Java JSON ET - JSON ET Converter
+description: Aspose Excel. A JSON-es számot gyorsan és egyszerűen konvertálja ET-re a Aspose.Cells-es számmal. Java JSON ET-re. Java Takarítson meg JSON-et az ET-nek. Mentse el a JSON számot ET néven a Java használatával.
+keywords: [Aspose Excel., Java Aspose.Cells., Convert JSON to ET in Java., Save JSON to ET using Java., Java JSON to ET saveformat., JSON to ET Converter., Java Save JSON as ET]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Alakítsa át a JSON-et ET-re a Java-ben" h2="Nagy sebességű Java-es könyvtár a JSON ET-re való konvertálásához. Ez egy professzionális szoftvermegoldás a JSON, ET és sok más formátum importálásához és exportálásához a Java használatával." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="ET" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java JSON to E
 
 {{% blocks/products/pf/agp/content h2="Konvertálja a JSON-et ET-re a Java használatával" %}}
 
- Hogyan konvertálhatom át a JSON-et ET-re? A Aspose.Cells for Java könyvtárral könnyedén konvertálhatja a JSON-et ET-vé, néhány sornyi kóddal programozottan.[Aspose.Cells for Java](https://products.aspose.com/cells/java) képes többplatformos alkalmazásokat létrehozni, módosítani, konvertálni, renderelni és kinyomtatni az összes Excel fájlt. Java Excel API nem csak a táblázatformátumok között konvertál, hanem Excel fájlokat is képes megjeleníteni képként, PDF, HTML, ODS, CSV, CSV, CSV, CSV, CSV, CSV, SVG, és így tovább, SVG P, 8 PT a választás,3,8 ipari szabvány szerinti dokumentumok cseréjére formátumok. A legújabb verziót közvetlenül a webhelyről töltheti le[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) és telepítse a Maven alapú projekten belül a következő konfigurációk hozzáadásával a pom.xml fájlhoz.
+ Hogyan konvertálhatom át a JSON-et ET-re? A Aspose.Cells for Java könyvtárral könnyedén konvertálhatja a JSON-et ET-vé, néhány sornyi kóddal programozottan.[Aspose.Cells for Java](https://products.aspose.com/cells/java)képes többplatformos alkalmazásokat létrehozni, módosítani, konvertálni, renderelni és kinyomtatni az összes Excel fájlt. Java Az Excel API nemcsak a táblázatformátumok között konvertál, hanem Excel-fájlokat is képes megjeleníteni képként, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT és egyebekként, így tökéletes választás a szabványos formátumú dokumentumok cseréjéhez. A legújabb verziót közvetlenül a webhelyről töltheti le[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) és telepítse a Maven alapú projekten belül a következő konfigurációk hozzáadásával a pom.xml fájlhoz.
 
 {{% blocks/products/pf/agp/code-block title="Adattár" offSpacer="true" %}}
 
@@ -45,7 +45,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java JSON to E
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Takarítson meg JSON-et ET-nek a Java-ben online ingyen" %}}
+{{% blocks/products/pf/agp/content h2="Mentse a JSON számot ET-nek a Java számon" %}}
 
 A következő példa bemutatja, hogyan lehet átalakítani a JSON-et ET-re a Java-ben.
 {{% blocks/products/pf/agp/text %}}
@@ -56,7 +56,7 @@ Kövesse az egyszerű lépéseket a JSON ET-re konvertálásához. Töltse fel a
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Ingyenes alkalmazás és mintakód a JSON ET Online-ra való konvertálásához" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="json" outformat="et" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Mintakód a JSON ET-re konvertálásához" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="json" outformat="et" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="Hogyan alakítsuk át a JSON-et ET via Java-re" %}}
 
@@ -68,7 +68,7 @@ Programozottan kell konvertálnia a JSON fájlokat ET-re? A Java fejlesztők kö
 
 1.  Telepítse a „Aspose.Cells for Java” fájlt.
 1.  Adjon hozzá egy könyvtári hivatkozást (importálja a könyvtárat) a Java projekthez.
-1.  Töltse be a JSON számú fájlt a Workbook osztály egy példányával.
+1. Töltse be a JSON számú fájlt a Workbook osztály egy példányával.
 1.  Konvertálja a JSON-et ET-re a Workbook.save metódus hívásával.
 1.  Szerezze meg a JSON konverziós eredményt ET-re.
 
@@ -125,7 +125,7 @@ Programozottan kell konvertálnia a JSON fájlokat ET-re? A Java fejlesztők kö
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/json-to-xltm/" name="JSON-XLTM" description="Excel-makró-kompatibilis sablon" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/json-to-xltx/" name="JSON-XLTX" description="Office OpenXML Excel sablon" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/json-to-xml/" name="JSON XML-RE" description="Bővíthető jelölőnyelv" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/json-to-xps/" name="JSON-XPS" description="XML papírspecifikációk" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/json-to-xps/" name="JSON-XPS" description="XML papír specifikációk" >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/json-to-jpeg/" name="JSON-JPEG" description="JPEG Kép" >}}
 

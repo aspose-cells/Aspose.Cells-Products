@@ -2,6 +2,7 @@
 title:  Illessze be a Csillag/szalaghirdetés beszúrását az Excel via Java-be
 weight: 381
 description: Szúrja be a csillagot/szalaghirdetést a Aspose.Cells' Java API számmal szoftver nélkül, például Microsoft vagy Open Office, Adobe PDF stb.
+keywords: [Java Aspose.Cells., Java add Star/Banner., Java insert Star/Banner., Java create Star/Banner]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Illessze be a Csillag/szalaghirdetés beszúrását az Excel via Java-be" h2="Szúrja be a csillagot/szalaghirdetést a Aspose.Cells\' API használatával szoftverek, például Microsoft vagy Open Office, Adobe PDF stb. nélkül." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSX" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="" fileiconsmall1="PPTX" fileiconsmall2="DOCX" fileiconsmall3="XLSX" fileiconsmall4="PDF" fileiconsmall5=" ODP " >}}
@@ -56,7 +57,7 @@ description: Szúrja be a csillagot/szalaghirdetést a Aspose.Cells' Java API sz
 
 {{% /blocks/products/pf/agp/text %}}
 
-Munkafüzet objektum példányosítása. (vagy->Töltse be a XLSX fájlt a teljes elérési úttal.)
++ Munkafüzet objektum példányosítása. (vagy->Töltse be a XLSX fájlt a teljes elérési úttal.)
 + Válassza ki a munkalapot az indexén keresztül.
  + Használja a[módszer hozzáadása](https://reference.aspose.com/cells/java/com.aspose.cells/shapecollection/#addAutoShape-int-int-int-int-int-int-int-) a Csillag/Szalaghirdetés beszúrása a kiválasztott munkalapba
 + Mentse a munkafüzetet XLSX formátumban.
@@ -90,7 +91,7 @@ Az alábbi mintakód bemutatja, hogyan kell beilleszteni a „szalag: ívelt és
  <div class="row">
   <div class="container">
    <h2 class="pr-ft">
- A csillag- és szalaghirdetés-típusok áttekintése
+ csillag- és szalaghirdetés-típusok áttekintése
    </h2>
    <div class="col-lg-4">
     <img src="/cells/net/shapes/insert-stars-and-banners-to-excel/explosion_8_points.png" align="left" width="28" height="28">
@@ -149,7 +150,7 @@ Az alábbi mintakód bemutatja, hogyan kell beilleszteni a „szalag: ívelt és
    <div class="col-lg-4">
     <img src="/cells/net/shapes/insert-stars-and-banners-to-excel/star_16_points.png" align="left" width="28" height="28">
     <p class="col-lg-10">
-AutoShapeType.STAR_16
+ AutoShapeType.STAR_16
     </p>
    </div>
    <div class="col-lg-4">

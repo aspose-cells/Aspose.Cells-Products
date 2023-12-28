@@ -2,6 +2,7 @@
 title:  Könyöknyilak rajzolása vagy beszúrása az Excelbe a Python via Java használatával
 weight: 10
 description: Rajzoljon vagy illesszen be könyöknyíl alakzatot a Python via' Python via Java API számmal szoftver nélkül, például Microsoft vagy Open Office, Adobe PDF stb.
+keywords: [Python Aspose.Cells., Python add elbow arrow shape., Python insert elbow arrow shape., Python create elbow arrow shape]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Illessze be a könyök nyíl alakját az Excelbe a Python via Java használatával" h2="Illessze be a könyök nyíl alakját a Aspose.Cells\' API használatával, szoftver nélkül, például Microsoft vagy Open Office, Adobe PDF stb." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="" pfName="Aspose.Cells" subTitlepfName="for Python via Java" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="XLSX" >}}
@@ -29,7 +30,7 @@ description: Rajzoljon vagy illesszen be könyöknyíl alakzatot a Python via' P
 
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
-{{% blocks/products/pf/agp/feature-section-col title="A könyöknyíl alakzat Excel-fájlba történő beszúrásának lépései a Python via Java használatával" %}}
+{{% blocks/products/pf/agp/feature-section-col title="könyöknyíl alakzat Excel-fájlba történő beszúrásának lépései a Python via Java használatával" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
@@ -37,7 +38,7 @@ Szüksége van a Aspose.Cells-es számra a következő munkafolyamat kipróbál�
 
 {{% /blocks/products/pf/agp/text %}}
 
-Munkafüzet objektum példányosítása. (vagy->Töltse be a XLSX fájlt a teljes elérési úttal.)
++ Munkafüzet objektum példányosítása. (vagy->Töltse be a XLSX fájlt a teljes elérési úttal.)
 + Válassza ki a munkalapot az indexén keresztül.
  + Használja az alakgyűjteményt[módszer hozzáadása](https://reference.aspose.com/cells/python-java/asposecells.api/shapecollection#addAutoShape(int,%20int,%20int,%20int,%20int,%20int,%20int)) egy könyök nyíl alakzat beszúrásához a kiválasztott munkalapba.
 + Mentse a munkafüzetet XLSX formátumban.
@@ -48,12 +49,12 @@ Munkafüzet objektum példányosítása. (vagy->Töltse be a XLSX fájlt a telje
 
 {{% blocks/products/pf/agp/text %}}
 
-Aspose.Cells for Python via Java platformfüggetlen API, és bármilyen platformon használható (Windows, Linux és MacOS), csak győződjön meg arról, hogy a rendszer Java 1.8 vagy újabb[Python](https://www.python.org/downloads/) 3,5 vagy magasabb.
+ Aspose.Cells for Python via Java platformfüggetlen API, és bármilyen platformon használható (Windows, Linux és MacOS), csak győződjön meg arról, hogy a rendszer Java 1.8 vagy újabb[Python](https://www.python.org/downloads/) 3,5 vagy magasabb.
  
 {{% /blocks/products/pf/agp/text %}}
 
-- Bármilyen operációs rendszer, amely Python via Java szkripteket futtat, például Windows, Linux és MacOS
--  Telepítse a Java-et, és adja hozzá a PATH környezeti változóhoz, például:<code>PATH=C:\Program Files\Java\jdk1.8.0_131;</code>.
+-  Bármilyen operációs rendszer, amely Python via Java szkripteket futtat, például Windows, Linux és MacOS
+- Telepítse a Java-et, és adja hozzá a PATH környezeti változóhoz, például:<code>PATH=C:\Program Files\Java\jdk1.8.0_131;</code>.
 -  Telepítés: Aspose.Cells for Python via Java innen<a href="https://pypi.org/project/aspose-cells/">pypi</a> , használja a parancsot a következőképpen:<code>$ pip install aspose-cells</code>.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
@@ -81,7 +82,7 @@ Aspose.Cells API többplatformos alkalmazások létrehozására alkalmas, haszn�
 
 <!-- aboutfile Ends -->
 <!--
-{{< blocks/products/pf/agp/other-supported-section title="Other Supported Splitting Formats" subTitle="Using C#, One can also split large file into chunks of many other file formats including." >}}
+{{< blocks/products/pf/agp/other-supported-section title="Other Supported Splitting Formats" subTitle="Using Python, One can also split large file into chunks of many other file formats including." >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/splitter/ods/" name="ODS" description="OpenDocument Spreadsheet File" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/splitter/xls/" name="XLS" description="Excel Binary Format" >}}

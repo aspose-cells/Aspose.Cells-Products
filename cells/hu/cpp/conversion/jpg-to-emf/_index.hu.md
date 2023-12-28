@@ -1,7 +1,7 @@
 ---
-title: C++ JPG-ből EMF-be – Online JPG-ből EMF-be konvertáló
-description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. Ingyenes online C++ JPG konvertálása EMF mentési formátumra. C++ JPG EMF formátumba. JPG mentése a EMF C++ számra.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ JPG to EMF saveformat., Free Online JPG to EMF C++., C++ Convert JPG to EMF]
+title: C++ JPG-ből EMF-be - JPG-ből EMF-be konvertáló
+description: Aspose Excel. Konvertálja gyorsan és egyszerűen JPG-t Aspose.Cells-re. C++ JPG-t EMF-re. C++ JPG mentése EMF-re. JPG mentése EMF néven a 348173468 használatával.
+keywords: [Aspose Excel., C++ Aspose.Cells., Convert JPG to EMF in C++., Save JPG to EMF using C++., C++ JPG to EMF saveformat., JPG to EMF Converter., C++ Save JPG as EMF]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Konvertálja a JPG-t EMF-re a C++-ben" h2="Nagy teljesítményű JPG-ből EMF-be konvertálás a C++ könyvtár használatával, Microsoft Excel, OpenOffice vagy Adobe Acrobat telepítése nélkül." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" sourceAdditionalConversionTag="" additionalConversionTag="EMF" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ JPG to EMF s
 
 {{% blocks/products/pf/agp/content h2="Konvertálja a JPG-t EMF-re a C++ használatával" %}}
 
- Hogyan konvertálhatom át a JPG-t EMF-re? A Aspose.Cells for C++ könyvtárral egyszerűen konvertálhat JPG-t EMF formátumba programozottan néhány sornyi kóddal.[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) képes többplatformos alkalmazásokat létrehozni, módosítani, konvertálni, renderelni és kinyomtatni az összes Excel fájlt. C++ Excel API nem csak a táblázatformátumok között konvertál, hanem Excel fájlokat is képes megjeleníteni képként, PDF, HTML, ODS, CSV, CSV, CSV, CSV, CSV, CSV, SVG, és így tovább, SVG P, 8 PT a választás,3,8 ipari szabvány szerinti dokumentumok cseréjére formátumok. A legújabb verziót közvetlenül letöltheti, csak nyissa meg[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) csomagkezelő, keresse meg a Aspose.Cells.Cpp címet, és telepítse. A következő parancsot is használhatja a Package Manager konzolból.
+ Hogyan konvertálhatom át a JPG-t EMF-re? A Aspose.Cells for C++ könyvtárral egyszerűen konvertálhat JPG-t EMF formátumba programozottan néhány sornyi kóddal.[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) képes többplatformos alkalmazásokat létrehozni, módosítani, konvertálni, renderelni és kinyomtatni az összes Excel fájlt. C++ Az Excel API nemcsak a táblázatformátumok között konvertál, hanem Excel-fájlokat is képes megjeleníteni képként, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT és egyebekként, így tökéletes választás a szabványos formátumú dokumentumok cseréjéhez. A legújabb verziót közvetlenül letöltheti, csak nyissa meg[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) csomagkezelő, keresse meg a Aspose.Cells.Cpp címet, és telepítse. A következő parancsot is használhatja a Package Manager konzolból.
 
 {{% blocks/products/pf/agp/code-block title="Parancs" offSpacer="true" %}}
 
@@ -26,7 +26,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Mentse el a JPG-t a EMF-es számra a C++-ben online ingyen" %}}
+{{% blocks/products/pf/agp/content h2="Mentse el a JPG-t a EMF-es számra a C++-ben" %}}
 
 A következő példa bemutatja, hogyan lehet JPG-t EMF-re konvertálni a C++-ben.
 {{% blocks/products/pf/agp/text %}}
@@ -37,7 +37,7 @@ Kövesse az egyszerű lépéseket a JPG EMF formátumba konvertálásához. Töl
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Ingyenes alkalmazás és mintakód a JPG EMF online konvertálásához" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="jpg" outformat="emf" IsLandingPage="true" language="cpp" %}}
+{{% cells-convert title="Mintakód a JPG EMF formátumú konvertálásához" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="jpg" outformat="emf" IsLandingPage="true" language="cpp" %}}
 
 {{% blocks/products/pf/agp/content h2="JPG konvertálása EMF-re a C++-en keresztül" %}}
 
@@ -49,7 +49,7 @@ Programozottan kell konvertálnia a JPG fájlokat EMF-re? A C++ fejlesztők kön
 
 1.  Telepítse a „Aspose.Cells for C++” fájlt.
 1.  Adjon hozzá egy könyvtári hivatkozást (importálja a könyvtárat) a C++ projekthez.
-1.  Töltse be a JPG fájlt a Factory::CreateIWorkbook segítségével.
+1.  Töltsön be JPG fájlt a munkafüzet segítségével.
 1.  Konvertálja a JPG-t EMF-re a Save() metódus meghívásával.
 1.  Szerezze meg a JPG konvertálási eredményét EMF-re.
 
@@ -89,7 +89,7 @@ Három lehetőség közül választhat a „Aspose.Cells for C++” telepítés�
     {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="Egyéb támogatott konverziók" subTitle="A JPG-t számos más fájlformátumra is konvertálhatja, köztük néhány alább felsorolt fájlformátumra." >}}
+{{< blocks/products/pf/agp/other-supported-section title="Egyéb támogatott konverziók" subTitle="A JPG-t sok más fájlformátumra is konvertálhatja, beleértve az alábbiakban felsorolt néhányat." >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/jpg-to-bmp/" name="JPG - BMP" description="Bittérképes kép" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/jpg-to-emf/" name="JPG - EMF" description="Továbbfejlesztett metafájl formátum" >}}
@@ -101,7 +101,6 @@ Három lehetőség közül választhat a „Aspose.Cells for C++” telepítés�
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/jpg-to-pdf/" name="JPG - PDF" description="Hordozható dokumentum formátum" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/jpg-to-png/" name="JPG - PNG" description="Hordozható hálózati grafika" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/jpg-to-svg/" name="JPG - SVG" description="Skálázható vektorgrafika" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/jpg-to-tiff/" name="JPG - TIFF" description="Címkézett képformátum" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/jpg-to-tsv/" name="JPG - TSV" description="Tabulátorral elválasztott értékek" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/jpg-to-txt/" name="JPG - TXT" description="Szöveges dokumentum" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/jpg-to-xls/" name="JPG - XLS" description="Excel bináris formátum" >}}
@@ -112,7 +111,7 @@ Három lehetőség közül választhat a „Aspose.Cells for C++” telepítés�
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/jpg-to-xltm/" name="JPG - XLTM" description="Excel-makró-kompatibilis sablon" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/jpg-to-xltx/" name="JPG - XLTX" description="Office OpenXML Excel sablon" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/jpg-to-xml/" name="JPG-ből XML-be" description="Bővíthető jelölőnyelv" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/jpg-to-xps/" name="JPG - XPS" description="XML papírspecifikációk" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/jpg-to-xps/" name="JPG - XPS" description="XML papír specifikációk" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/jpg-to-json/" name="JPG - JSON" description="JavaScript objektum jelölés" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/jpg-to-jpeg/" name="JPG - JPEG" description="JPEG Kép" >}}
 

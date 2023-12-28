@@ -1,8 +1,8 @@
 ---
-title: C++ Xls fájl javítása – xls fájl javítása online ingyen
+title: C++ Xls javítás – A sérült xls fájl helyreállítása és javítása
 url: /hu/cpp/recovery/repair-xls/ 
-description: Aspose Excel. C++ Aspose.Cells. C++ Xls fájl javítása. Ingyenes online xls javítóeszköz. Javítsa meg a sérült xls fájlt. Helyezze vissza a sérült xls fájlt a C++ alkalmazáson belül.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ Repair xls file., Free Online Repair a corrupted xls file., C++ Recover xls file.]
+description: C++ Aspose.Cells. Javítás xls. Xls fájl javítása. xls helyreállítási eszköz. xls korrupció. xls adatok visszaállítása. xls fájl helyreállítása. A sérült xls fájl helyreállítása.
+keywords: [C++ Aspose.Cells., repair xls file., xls repair., recover corrupted xls file., repair corrupted xls., recover xls., fix xls file., xls corruption., restore xls data., xls file recovery., recover corrupted xls file.]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Javítás XLS fájl a C++-ben" h2="Készítse el saját C++ alkalmazását az xls fájlok javításához a C++ használatával." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLS" pfName="Aspose.Cells" subTitlepfName="for C++" downloadUrl="" fileiconsmall1="XLS" fileiconsmall2="XLSB" fileiconsmall3="XLSX" fileiconsmall4="XLSM" fileiconsmall5="ODS" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ Repair xls f
 
 {{% blocks/products/pf/agp/content h2="Javítás XLS fájl a C++ használatával" %}}
 
- Hogyan javíthatom ki az xls fájlt? A Aspose.Cells for C++ könyvtárral könnyedén kijavíthatja a XLS fájlt néhány soros kóddal, programozottan.[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) képes többplatformos alkalmazásokat létrehozni, módosítani, konvertálni, renderelni és kinyomtatni az összes Excel fájlt. C++ Excel API nem csak a táblázatformátumok között konvertál, hanem Excel fájlokat is képes megjeleníteni képként, PDF, HTML, ODS, CSV, CSV, CSV, CSV, CSV, CSV, SVG, és így tovább, SVG P, 8 PT a választás,3,8 ipari szabvány szerinti dokumentumok cseréjére formátumok. A legújabb verziót közvetlenül letöltheti, csak nyissa meg[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) csomagkezelő, keresse meg a Aspose.Cells.Cpp címet, és telepítse. A következő parancsot is használhatja a Package Manager konzolból.
+ Hogyan javíthatom ki az xls fájlt? A Aspose.Cells for C++ könyvtárral könnyedén kijavíthatja a XLS fájlt néhány soros kóddal, programozottan.[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) képes többplatformos alkalmazásokat létrehozni, módosítani, konvertálni, renderelni és kinyomtatni az összes Excel fájlt. C++ Az Excel API nemcsak a táblázatformátumok között konvertál, hanem Excel-fájlokat is képes megjeleníteni képként, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT és egyebekként, így tökéletes választás a szabványos formátumú dokumentumok cseréjéhez. A legújabb verziót közvetlenül letöltheti, csak nyissa meg[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) csomagkezelő, keresse meg a Aspose.Cells.Cpp címet, és telepítse. A következő parancsot is használhatja a Package Manager konzolból.
 
 {{% blocks/products/pf/agp/code-block title="Parancs" offSpacer="true" %}}
 
@@ -41,7 +41,7 @@ Programozottan kell javítani az xls fájlt? C++ A fejlesztők könnyedén betö
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-recovery title="Ingyenes alkalmazás és mintakód a XLS fájl online javításához" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et" InputFormat="xls" outformat="xls" IsLandingPage="true" language="cpp" %}}    
+{{% cells-recovery title="Mintakód a XLS fájl javításához" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;xps;mhtml;md;json;xml;zip;sql;txt;et" InputFormat="xls" outformat="xls" IsLandingPage="true" language="cpp" %}}    
     
 {{% blocks/products/pf/agp/content h2="C++ könyvtár a XLS fájl javításához" %}}
 

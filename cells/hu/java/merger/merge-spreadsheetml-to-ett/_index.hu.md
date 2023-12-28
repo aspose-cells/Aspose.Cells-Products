@@ -1,8 +1,8 @@
 ---
 title: A SPREADSHEETML egyesítése az ETT-vel – A SPREADSHEETML egyesítése az ETT-vel a Java-ben
 url: /hu/java/merger/merge-spreadsheetml-to-ett/ 
-description: Aspose Excel. Java Aspose.Cells. Ingyenes online egyesítése SPREADSHEETML ETT mentési formátumba. Java A SPREADSHEETML kombinálása ETT formátumba. A SPREADSHEETML egyesítése az ETT-vel a Java-ben. SPREADSHEETML Egyesítés.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge SPREADSHEETML to ETT in Java., Free Online Java Merge SPREADSHEETML to ett., Java Combine SPREADSHEETML to ETT Online for Free., SPREADSHEETML Merge]
+description: Aspose Excel. Java Aspose.Cells. A SPREADSHEETML egyesítése ETT mentési formátumba. Java A SPREADSHEETML kombinálása ETT formátumba. A SPREADSHEETML egyesítése az ETT-vel a Java-ben. SPREADSHEETML Egyesítés.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge SPREADSHEETML to ETT in Java., Java Merge SPREADSHEETML to ett., Java Combine SPREADSHEETML to ETT., SPREADSHEETML Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="A SPREADSHEETML egyesítése az ETT via Java számmal" h2="Nagy sebességű Java könyvtár a SPREADSHEETML és az ETT egyesítéséhez. Használja a API-es excel-konverziónkat magas szintű, platformfüggetlen szoftverek fejlesztéséhez a Java-ben. Ez egy professzionális szoftvermegoldás a Excel, CSV, OpenOffice, PDF, HTML, image és sok más excel formátum importálásához és exportálásához." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="SPREADSHEETML" additionalConversionTag="ETT" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Merge SPREADSHEETML to ETT in Java
 
 {{% blocks/products/pf/agp/content h2="A SPREADSHEETML egyesítése az ETT-vel a Java használatával" %}}
 
- Hogyan egyesíthetem a SPREADSHEETML-t az ETT-vel? A Aspose.Cells for Java könyvtárral egyszerűen egyesítheti a SPREADSHEETML-t az ETT-vel, néhány soros kóddal programozottan.[Aspose.Cells for Java](https://products.aspose.com/cells/java) képes többplatformos alkalmazásokat létrehozni, módosítani, konvertálni, renderelni és kinyomtatni az összes Excel fájlt. Java Excel API nem csak a táblázatformátumok között konvertál, hanem Excel fájlokat is képes megjeleníteni képként, PDF, HTML, ODS, CSV, CSV, CSV, CSV, CSV, CSV, SVG, és így tovább, SVG P, 8 PT a választás,3,8 ipari szabvány szerinti dokumentumok cseréjére formátumok. A legújabb verziót közvetlenül a webhelyről töltheti le[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) és telepítse a Maven alapú projekten belül a következő konfigurációk hozzáadásával a pom.xml fájlhoz.
+ Hogyan egyesíthetem a SPREADSHEETML-t az ETT-vel? A Aspose.Cells for Java könyvtárral egyszerűen egyesítheti a SPREADSHEETML-t az ETT-vel, néhány soros kóddal programozottan.[Aspose.Cells for Java](https://products.aspose.com/cells/java)képes többplatformos alkalmazásokat létrehozni, módosítani, konvertálni, renderelni és kinyomtatni az összes Excel fájlt. Java Az Excel API nemcsak a táblázatformátumok között konvertál, hanem Excel-fájlokat is képes megjeleníteni képként, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT és egyebekként, így tökéletes választás a szabványos formátumú dokumentumok cseréjéhez. A legújabb verziót közvetlenül a webhelyről töltheti le[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) és telepítse a Maven alapú projekten belül a következő konfigurációk hozzáadásával a pom.xml fájlhoz.
 
 {{% blocks/products/pf/agp/code-block title="Adattár" offSpacer="true" %}}
 
@@ -45,9 +45,9 @@ keywords: [Aspose Excel., Java Aspose.Cells., Merge SPREADSHEETML to ETT in Java
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Ingyenesen egyesítse a SPREADSHEETML-t az ETT-vel a Java-es számon" %}}
+{{% blocks/products/pf/agp/content h2="A SPREADSHEETML egyesítése a Java-es számú ETT-vel" %}}
 
-A következő példa bemutatja, hogyan lehet egyesíteni a SPREADSHEETML-t az ETT-vel a Aspose.Cells for Java számon.
+következő példa bemutatja, hogyan lehet egyesíteni a SPREADSHEETML-t az ETT-vel a Aspose.Cells for Java számon.
 {{% blocks/products/pf/agp/text %}}
 
 Kövesse az egyszerű lépéseket a SPREADSHEETML és az ETT egyesítéséhez. Töltse fel fájljait, hívja meg a Workbook.Combine metódust a fájlok egyesítéséhez, majd mentse el ETT fájlba. Ha kódot fejleszt a Java-ben, ez egyszerűbb lesz, mint amilyennek hangzik. Lásd a Java példát, amely egyesíti a SPREADSHEETML-t az ETT-vel.
@@ -56,7 +56,7 @@ Kövesse az egyszerű lépéseket a SPREADSHEETML és az ETT egyesítéséhez. T
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Ingyenes online a SPREADSHEETML egyesítése az ETT-vel a Java számon" InputFormat="xml" InputFormat2="ett" outformat="ett" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="java" %}}
+{{% cells-merger title="Mintakód a SPREADSHEETML és az ETT egyesítéséhez a Java-ben" InputFormat="xml" InputFormat2="ett" outformat="ett" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="A SPREADSHEETML egyesítése ETT via Java-hez" %}}
 
@@ -132,7 +132,7 @@ API-jaink minden nagyobb platformon és operációs rendszeren támogatottak. Mi
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-spreadsheetml-to-xltm/" name="A SPREADSHEETML egyesítése a XLTM-gyel" description="Excel-makró-kompatibilis sablon" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-spreadsheetml-to-xltx/" name="A SPREADSHEETML egyesítése a XLTX-gyel" description="Office OpenXML Excel sablon" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-spreadsheetml-to-xml/" name="A SPREADSHEETML egyesítése XML-lel" description="Bővíthető jelölőnyelv" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-spreadsheetml-to-xps/" name="A SPREADSHEETML egyesítése a XPS-gyel" description="XML papírspecifikációk" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-spreadsheetml-to-xps/" name="A SPREADSHEETML egyesítése a XPS-gyel" description="XML papír specifikációk" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-spreadsheetml-to-json/" name="A SPREADSHEETML egyesítése a JSON-gyel" description="JavaScript objektum jelölés" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-spreadsheetml-to-jpeg/" name="A SPREADSHEETML egyesítése a JPEG-gyel" description="JPEG Kép" >}}
 

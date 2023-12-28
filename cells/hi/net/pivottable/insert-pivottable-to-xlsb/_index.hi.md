@@ -1,7 +1,8 @@
 ---
 title:  C# के माध्यम से माइक्रोसॉफ्ट एक्सेल XLSB फाइलों में पिवोटटेबल डालें
 weight: 7690
-description: C# PivotTable के साथ XLSB दस्तावेज़ बनाने के लिए नमूना कोड। VB.NET, Asp.NET या किसी .NET आधारित एप्लिकेशन के भीतर PivotTable के साथ Microsoft Excel XLSB फ़ाइलें बनाने के लिए इस कोड का उपयोग करें।
+description: C# .NET लाइब्रेरी का उपयोग करके XLSB में पिवोटटेबल जोड़ने के लिए नमूना कोड। VB.NET, Asp.NET या किसी .NET आधारित एप्लिकेशन के भीतर XLSB फ़ाइल में PivotTable डालने के लिए इस कोड का उपयोग करें।
+keywords: [C# Aspose.Cells., c# add PivotTable in xlsb., c# insert PivotTable in xlsb., c# create PivotTable in xlsb., c# modify PivotTable in xlsb., access PivotTable in xlsb., c# add pivot table in xlsb., c# insert pivot table in xlsb., c# create pivot table in xlsb., c# modify pivot table in xlsb., access pivot table in xlsb]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="C# के माध्यम से XLSB दस्तावेज़ों में पिवोटटेबल डालें" h2="मूल और उच्च प्रदर्शन Microsoft एक्सेल XLSB स्प्रेडशीट, सर्वर साइड .NET एपीआई का उपयोग करके प्रोग्रामेटिक रूप से पिवोटटेबल निर्माण के साथ।" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSB" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSB" >}}
@@ -11,9 +12,7 @@ description: C# PivotTable के साथ XLSB दस्तावेज़ ब
 
 {{% blocks/products/pf/agp/content h2="" %}}
 
- चल रहे एप्लिकेशन के भीतर गतिशील रूप से PivotTable के साथ MS Excel XLSB फ़ाइल बनाना आसान है। MS Office की आवश्यकता के बिना शुरुआत से PivotTable के साथ XLSB दस्तावेज़ बनाने के लिए, हम इसका उपयोग करेंगे
- [Aspose.Cells for .NET](https://products.aspose.com/cells/net) 
- API जो .NET प्लेटफॉर्म का उपयोग करके स्प्रेडशीट निर्माण, हेरफेर और रूपांतरण के लिए विभिन्न सुविधाएँ प्रदान करता है। डेवलपर्स डेटा लिखने, चार्ट या ग्राफ़ बनाने के साथ-साथ स्प्रेडशीट में टेबल बनाने के लिए कोड को आसानी से बढ़ा सकते हैं।
+ चल रहे एप्लिकेशन के भीतर गतिशील रूप से PivotTable के साथ MS Excel XLSB फ़ाइल बनाना आसान है। MS Office की आवश्यकता के बिना शुरुआत से PivotTable के साथ XLSB दस्तावेज़ बनाने के लिए, हम इसका उपयोग करेंगे[Aspose.Cells for .NET](https://products.aspose.com/cells/net) API जो .NET प्लेटफॉर्म का उपयोग करके स्प्रेडशीट निर्माण, हेरफेर और रूपांतरण के लिए विभिन्न सुविधाएँ प्रदान करता है। डेवलपर्स डेटा लिखने, चार्ट या ग्राफ़ बनाने के साथ-साथ स्प्रेडशीट में टेबल बनाने के लिए कोड को आसानी से बढ़ा सकते हैं।
 {{% /blocks/products/pf/agp/content %}}
 
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
@@ -22,7 +21,7 @@ description: C# PivotTable के साथ XLSB दस्तावेज़ ब
 
 {{% blocks/products/pf/agp/text %}}
 
-डेवलपर्स के लिए कोड की कुछ पंक्तियों में डेटा प्रोसेसिंग के लिए विभिन्न रिपोर्टिंग एप्लिकेशन चलाने के भीतर XLSB प्रारूप स्प्रेडशीट में पिवोटटेबल सम्मिलित करना आसान है।
+ डेवलपर्स के लिए कोड की कुछ पंक्तियों में डेटा प्रोसेसिंग के लिए विभिन्न रिपोर्टिंग एप्लिकेशन चलाने के भीतर XLSB प्रारूप स्प्रेडशीट में पिवोटटेबल सम्मिलित करना आसान है।
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -31,7 +30,7 @@ description: C# PivotTable के साथ XLSB दस्तावेज़ ब
 1.  कार्यपुस्तिका की पहली वर्कशीट तक पहुँचें।
 1.  वर्कशीट के वांछित सेल प्राप्त करें और सेल में मान डालें।
 1.  पिवोटटेबल डालें और स्टाइल सेट करें
-1. कार्यपुस्तिका को XLSB फ़ाइल के रूप में सहेजने के लिए सेव विधि का उपयोग करें।
+1.  कार्यपुस्तिका को XLSB फ़ाइल के रूप में सहेजने के लिए सेव विधि का उपयोग करें।
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -39,7 +38,7 @@ description: C# PivotTable के साथ XLSB दस्तावेज़ ब
 
 {{% blocks/products/pf/agp/text %}}
 
- बस सुनिश्चित करें कि सिस्टम में Microsoft Windows या .NET फ्रेमवर्क, .NET कोर, Windows Azure, Mono या Xamarin प्लेटफ़ॉर्म के साथ-साथ Microsoft विज़ुअल स्टूडियो जैसे विकास वातावरण के साथ एक संगत ओएस है।
+बस सुनिश्चित करें कि सिस्टम में Microsoft Windows या .NET फ्रेमवर्क, .NET कोर, Windows Azure, Mono या Xamarin प्लेटफ़ॉर्म के साथ-साथ Microsoft विज़ुअल स्टूडियो जैसे विकास वातावरण के साथ एक संगत ओएस है।
 
 {{% /blocks/products/pf/agp/text %}}
 

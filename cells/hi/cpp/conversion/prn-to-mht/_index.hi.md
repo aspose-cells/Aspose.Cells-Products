@@ -1,7 +1,7 @@
 ---
-title: C++ पीआरएन से एमएचटी - ऑनलाइन पीआरएन से एमएचटी कनवर्टर
-description: Aspose एक्सेल। C++ Aspose.Cells. C++ Aspose Cells. मुफ़्त ऑनलाइन C++ पीआरएन को एमएचटी सेवफॉर्मेट में बदलें। C++ पीआरएन से एमएचटी प्रारूप। पीआरएन को एमएचटी C++ पर सेव करें।
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ PRN to MHT saveformat., Free Online PRN to MHT C++., C++ Convert PRN to MHT]
+title: C++ पीआरएन से एमएचटी - पीआरएन से एमएचटी कनवर्टर
+description: Aspose एक्सेल। Aspose.Cells के साथ पीआरएन को एमएचटी में जल्दी और आसानी से बदलें। C++ पीआरएन को एमएचटी में बदलें। C++ पीआरएन को एमएचटी में सहेजें। C++ का उपयोग करके पीआरएन को एमएचटी के रूप में सहेजें।
+keywords: [Aspose Excel., C++ Aspose.Cells., Convert PRN to MHT in C++., Save PRN to MHT using C++., C++ PRN to MHT saveformat., PRN to MHT Converter., C++ Save PRN as MHT]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="C++ में पीआरएन को एमएचटी में बदलें" h2="Microsoft एक्सेल, ओपनऑफिस या एडोब एक्रोबैट इंस्टॉलेशन की आवश्यकता के बिना C++ लाइब्रेरी का उपयोग करके उच्च प्रदर्शन पीआरएन से एमएचटी रूपांतरण।" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" sourceAdditionalConversionTag="" additionalConversionTag="MHT" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ PRN to MHT s
 
 {{% blocks/products/pf/agp/content h2="C++ का उपयोग करके पीआरएन को एमएचटी में बदलें" %}}
 
- मैं पीआरएन को एमएचटी में कैसे परिवर्तित करूं? Aspose.Cells for C++ लाइब्रेरी के साथ, आप कोड की कुछ पंक्तियों के साथ आसानी से पीआरएन को एमएचटी में प्रोग्रामेटिक रूप से परिवर्तित कर सकते हैं।[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) सभी एक्सेल फ़ाइलों को उत्पन्न करने, संशोधित करने, परिवर्तित करने, प्रस्तुत करने और प्रिंट करने की क्षमता के साथ क्रॉस-प्लेटफ़ॉर्म एप्लिकेशन बनाने में सक्षम है। C++ एक्सेल API न केवल स्प्रेडशीट प्रारूपों के बीच कनवर्ट कर सकता है, यह एक्सेल फाइलों को छवियों, PDF, HTML, ODS, CSV, SVG, JSON, वर्ड, पीपीटी और भी बहुत कुछ के रूप में प्रस्तुत कर सकता है, इस प्रकार यह एक्सचेंज के लिए एक आदर्श विकल्प बन जाता है। उद्योग-मानक में दस्तावेज़ प्रारूप. आप इसका नवीनतम संस्करण सीधे डाउनलोड कर सकते हैं, बस खोलें[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) पैकेज मैनेजर, Aspose.Cells.सीपीपी खोजें और इंस्टॉल करें। आप पैकेज मैनेजर कंसोल से निम्न कमांड का भी उपयोग कर सकते हैं।
+ मैं पीआरएन को एमएचटी में कैसे परिवर्तित करूं? Aspose.Cells for C++ लाइब्रेरी के साथ, आप कोड की कुछ पंक्तियों के साथ आसानी से पीआरएन को एमएचटी में प्रोग्रामेटिक रूप से परिवर्तित कर सकते हैं।[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) सभी एक्सेल फ़ाइलों को उत्पन्न करने, संशोधित करने, परिवर्तित करने, प्रस्तुत करने और प्रिंट करने की क्षमता के साथ क्रॉस-प्लेटफ़ॉर्म एप्लिकेशन बनाने में सक्षम है। C++ एक्सेल API न केवल स्प्रेडशीट प्रारूपों के बीच परिवर्तित होता है, बल्कि यह एक्सेल फाइलों को छवियों, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT और अधिक के रूप में भी प्रस्तुत कर सकता है, इस प्रकार यह उद्योग-मानक प्रारूपों में दस्तावेजों का आदान-प्रदान करने के लिए एक आदर्श विकल्प बन जाता है। आप इसका नवीनतम संस्करण सीधे डाउनलोड कर सकते हैं, बस खोलें[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) पैकेज मैनेजर, Aspose.Cells.सीपीपी खोजें और इंस्टॉल करें। आप पैकेज मैनेजर कंसोल से निम्न कमांड का भी उपयोग कर सकते हैं।
 
 {{% blocks/products/pf/agp/code-block title="आज्ञा" offSpacer="true" %}}
 
@@ -26,7 +26,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="C++ पर पीआरएन को एमएचटी में निःशुल्क ऑनलाइन सेव करें" %}}
+{{% blocks/products/pf/agp/content h2="C++ में पीआरएन को एमएचटी में सेव करें" %}}
 
 निम्नलिखित उदाहरण दर्शाता है कि C++ में पीआरएन को एमएचटी में कैसे परिवर्तित किया जाए।
 {{% blocks/products/pf/agp/text %}}
@@ -37,7 +37,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="पीआरएन को ऑनलाइन एमएचटी में बदलने के लिए निःशुल्क ऐप और नमूना कोड" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="prn" outformat="mht" IsLandingPage="true" language="cpp" %}}
+{{% cells-convert title="पीआरएन को एमएचटी में बदलने के लिए नमूना कोड" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="prn" outformat="mht" IsLandingPage="true" language="cpp" %}}
 
 {{% blocks/products/pf/agp/content h2="C++ के माध्यम से पीआरएन को एमएचटी में कैसे परिवर्तित करें" %}}
 
@@ -49,8 +49,8 @@ PM> Install-Package Aspose.Cells.Cpp
 
 1.  'Aspose.Cells for C++' इंस्टॉल करें।
 1.  अपने C++ प्रोजेक्ट में एक लाइब्रेरी संदर्भ जोड़ें (लाइब्रेरी आयात करें)।
-1.  फ़ैक्टरी::CreateIWorkbook का उपयोग करके PRN फ़ाइल लोड करें।
-1. Save() विधि को कॉल करके PRN को MHT में बदलें।
+1. वर्कबुक का उपयोग करके पीआरएन फ़ाइल लोड करें।
+1.  Save() विधि को कॉल करके PRN को MHT में बदलें।
 1.  पीआरएन का एमएचटी में रूपांतरण परिणाम प्राप्त करें।
 
 {{% /blocks/products/pf/agp/content %}}
@@ -85,7 +85,7 @@ PM> Install-Package Aspose.Cells.Cpp
 <!-- aboutfile Starts -->
     {{< blocks/products/pf/agp/about-file-section >}}
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="PRN" readMoreLink="https://fileinfo.com/extension/prn/" >}}पीआरएन फ़ाइल प्रिंट टू फ़ाइल चेकबॉक्स का उपयोग करके बनाई गई एक फ़ाइल है जो Windows पर कुछ प्रिंट संवाद बॉक्स के भीतर दिखाई देती है। इसमें डिवाइस-विशिष्ट निर्देशों का एक सेट होता है जो प्रिंटर, फैक्स मशीन या अन्य डिवाइस किसी दस्तावेज़ को प्रिंट करने के लिए उपयोग करता है। पीआरएन फ़ाइलों में टेक्स्ट या बाइनरी सामग्री हो सकती है, यह उस डिवाइस पर निर्भर करता है जिसके लिए फ़ाइल बनाई गई थी।{{< /blocks/products/pf/agp/i18n/about-file-text >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="MHT" readMoreLink="https://docs.fileformat.com/web/mht/" >}}.mht एक्सटेंशन वाली फ़ाइल एक MIME सक्षम संग्रह फ़ाइल स्वरूप है जिसमें एक ही फ़ाइल में विभिन्न प्रकार के डेटा शामिल होते हैं। यह सीएसएस फाइलों, जावास्क्रिप्ट और अन्य संसाधनों के रूप में पाठ, छवियों, पेज स्टाइल जैसे डेटा को इसमें एम्बेडेड संसाधनों के रूप में संग्रहीत कर सकता है। MIME प्रकार संदेश/rfc822 वाली MHT फ़ाइलें, भंडारण उपकरणों पर संग्रहित करने के लिए HTML फ़ाइल की सभी सामग्री को एकल संग्रह फ़ाइल के रूप में समाहित करती हैं। Microsoft वर्ड जैसे सॉफ़्टवेयर एप्लिकेशन आपको एमएचटी फ़ाइल के रूप में निर्यात करके अपने वर्ड दस्तावेज़ों को एमएचटी में परिवर्तित करने की सुविधा देते हैं। एमएचटी फ़ाइलें Microsoft इंटरनेट एक्सप्लोर और Google क्रोम जैसे लोकप्रिय ब्राउज़रों का उपयोग करके खोली जा सकती हैं।{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="MHT" readMoreLink="https://docs.fileformat.com/web/mht/" >}}.mht एक्सटेंशन वाली फ़ाइल एक MIME सक्षम संग्रह फ़ाइल स्वरूप है जिसमें एक ही फ़ाइल में विभिन्न प्रकार के डेटा शामिल होते हैं। यह सीएसएस फाइलों, जावास्क्रिप्ट और अन्य संसाधनों के रूप में पाठ, छवियों, पेज स्टाइल जैसे डेटा को इसमें एम्बेडेड संसाधनों के रूप में संग्रहीत कर सकता है। MIME प्रकार संदेश/rfc822 वाली MHT फ़ाइलें, भंडारण उपकरणों पर संग्रहित करने के लिए HTML फ़ाइल की सभी सामग्री को एकल संग्रह फ़ाइल के रूप में समाहित करती हैं। Microsoft वर्ड जैसे सॉफ़्टवेयर एप्लिकेशन आपको एमएचटी फ़ाइल के रूप में निर्यात करके अपने WORD दस्तावेज़ों को एमएचटी में बदलने की सुविधा देते हैं। एमएचटी फ़ाइलें Microsoft इंटरनेट एक्सप्लोर और Google क्रोम जैसे लोकप्रिय ब्राउज़रों का उपयोग करके खोली जा सकती हैं।{{< /blocks/products/pf/agp/i18n/about-file-text >}}
     {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->
 
@@ -101,7 +101,6 @@ PM> Install-Package Aspose.Cells.Cpp
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/prn-to-pdf/" name="PDF पर पीआरएन" description="संवहन दस्तावेज़ स्वरूप" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/prn-to-png/" name="PNG पर पीआरएन" description="पोर्टेबल नेटवर्क ग्राफ़िक्स" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/prn-to-svg/" name="SVG पर पीआरएन" description="स्केलेबल वेक्टर ग्राफिक्स" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/prn-to-tiff/" name="TIFF पर पीआरएन" description="टैग किया गया छवि प्रारूप" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/prn-to-tsv/" name="TSV पर पीआरएन" description="टैब-पृथक मान" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/prn-to-txt/" name="TXT पर पीआरएन" description="सामग्री या लेख दस्तावेज़" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/prn-to-xls/" name="XLS पर पीआरएन" description="एक्सेल बाइनरी फॉर्मेट" >}}

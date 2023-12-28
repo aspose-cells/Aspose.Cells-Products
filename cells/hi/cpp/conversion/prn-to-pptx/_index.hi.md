@@ -1,7 +1,7 @@
 ---
-title: C++ पीआरएन से PPTX - ऑनलाइन पीआरएन से PPTX कनवर्टर
-description: Aspose एक्सेल। C++ Aspose.Cells. C++ Aspose Cells. मुफ़्त ऑनलाइन C++ पीआरएन को PPTX सेवफॉर्मेट में कनवर्ट करें। C++ पीआरएन से PPTX प्रारूप। पीआरएन को PPTX C++ पर सेव करें।
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ PRN to PPTX saveformat., Free Online PRN to PPTX C++., C++ Convert PRN to PPTX]
+title: C++ पीआरएन से PPTX - पीआरएन से PPTX कनवर्टर
+description: Aspose एक्सेल। Aspose.Cells के साथ पीआरएन को जल्दी और आसानी से PPTX में बदलें। C++ पीआरएन को PPTX पर। C++ पीआरएन को PPTX पर सहेजें। C++ का उपयोग करके पीआरएन को PPTX के रूप में सहेजें।
+keywords: [Aspose Excel., C++ Aspose.Cells., Convert PRN to PPTX in C++., Save PRN to PPTX using C++., C++ PRN to PPTX saveformat., PRN to PPTX Converter., C++ Save PRN as PPTX]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="C++ में पीआरएन को PPTX में बदलें" h2="Microsoft एक्सेल, ओपनऑफिस या एडोब एक्रोबैट इंस्टॉलेशन की आवश्यकता के बिना C++ लाइब्रेरी का उपयोग करके PPTX में उच्च प्रदर्शन पीआरएन रूपांतरण।" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" sourceAdditionalConversionTag="" additionalConversionTag="PPTX" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ PRN to PPTX 
 
 {{% blocks/products/pf/agp/content h2="C++ का उपयोग करके पीआरएन को PPTX में बदलें" %}}
 
- मैं पीआरएन को PPTX में कैसे परिवर्तित करूं? Aspose.Cells for C++ लाइब्रेरी के साथ, आप कोड की कुछ पंक्तियों के साथ आसानी से पीआरएन को PPTX में प्रोग्रामेटिक रूप से परिवर्तित कर सकते हैं।[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) सभी एक्सेल फ़ाइलों को उत्पन्न करने, संशोधित करने, परिवर्तित करने, प्रस्तुत करने और प्रिंट करने की क्षमता के साथ क्रॉस-प्लेटफ़ॉर्म एप्लिकेशन बनाने में सक्षम है। C++ एक्सेल API न केवल स्प्रेडशीट प्रारूपों के बीच कनवर्ट कर सकता है, यह एक्सेल फाइलों को छवियों, PDF, HTML, ODS, CSV, SVG, JSON, वर्ड, पीपीटी और भी बहुत कुछ के रूप में प्रस्तुत कर सकता है, इस प्रकार यह एक्सचेंज के लिए एक आदर्श विकल्प बन जाता है। उद्योग-मानक में दस्तावेज़ प्रारूप. आप इसका नवीनतम संस्करण सीधे डाउनलोड कर सकते हैं, बस खोलें[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) पैकेज मैनेजर, Aspose.Cells.सीपीपी खोजें और इंस्टॉल करें। आप पैकेज मैनेजर कंसोल से निम्न कमांड का भी उपयोग कर सकते हैं।
+ मैं पीआरएन को PPTX में कैसे परिवर्तित करूं? Aspose.Cells for C++ लाइब्रेरी के साथ, आप कोड की कुछ पंक्तियों के साथ आसानी से पीआरएन को PPTX में प्रोग्रामेटिक रूप से परिवर्तित कर सकते हैं।[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) सभी एक्सेल फ़ाइलों को उत्पन्न करने, संशोधित करने, परिवर्तित करने, प्रस्तुत करने और प्रिंट करने की क्षमता के साथ क्रॉस-प्लेटफ़ॉर्म एप्लिकेशन बनाने में सक्षम है। C++ एक्सेल API न केवल स्प्रेडशीट प्रारूपों के बीच परिवर्तित होता है, बल्कि यह एक्सेल फाइलों को छवियों, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT और अधिक के रूप में भी प्रस्तुत कर सकता है, इस प्रकार यह उद्योग-मानक प्रारूपों में दस्तावेजों का आदान-प्रदान करने के लिए एक आदर्श विकल्प बन जाता है। आप इसका नवीनतम संस्करण सीधे डाउनलोड कर सकते हैं, बस खोलें[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) पैकेज मैनेजर, Aspose.Cells.सीपीपी खोजें और इंस्टॉल करें। आप पैकेज मैनेजर कंसोल से निम्न कमांड का भी उपयोग कर सकते हैं।
 
 {{% blocks/products/pf/agp/code-block title="आज्ञा" offSpacer="true" %}}
 
@@ -26,7 +26,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="C++ में पीआरएन को PPTX पर निःशुल्क ऑनलाइन सेव करें" %}}
+{{% blocks/products/pf/agp/content h2="C++ में पीआरएन को PPTX पर सेव करें" %}}
 
 निम्नलिखित उदाहरण दर्शाता है कि पीआरएन को C++ में PPTX में कैसे परिवर्तित किया जाए।
 {{% blocks/products/pf/agp/text %}}
@@ -37,7 +37,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="पीआरएन को PPTX में ऑनलाइन परिवर्तित करने के लिए निःशुल्क ऐप और नमूना कोड" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="prn" outformat="pptx" IsLandingPage="true" language="cpp" %}}
+{{% cells-convert title="पीआरएन को PPTX में बदलने के लिए नमूना कोड" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="prn" outformat="pptx" IsLandingPage="true" language="cpp" %}}
 
 {{% blocks/products/pf/agp/content h2="C++ के माध्यम से पीआरएन को PPTX में कैसे परिवर्तित करें" %}}
 
@@ -49,7 +49,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 1.  'Aspose.Cells for C++' इंस्टॉल करें।
 1.  अपने C++ प्रोजेक्ट में एक लाइब्रेरी संदर्भ जोड़ें (लाइब्रेरी आयात करें)।
-1.  फ़ैक्टरी::CreateIWorkbook का उपयोग करके PRN फ़ाइल लोड करें।
+1. वर्कबुक का उपयोग करके पीआरएन फ़ाइल लोड करें।
 1.  Save() विधि को कॉल करके PRN को PPTX में बदलें।
 1.  पीआरएन का रूपांतरण परिणाम PPTX पर प्राप्त करें।
 
@@ -85,7 +85,7 @@ PM> Install-Package Aspose.Cells.Cpp
 <!-- aboutfile Starts -->
     {{< blocks/products/pf/agp/about-file-section >}}
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="PRN" readMoreLink="https://fileinfo.com/extension/prn/" >}}पीआरएन फ़ाइल प्रिंट टू फ़ाइल चेकबॉक्स का उपयोग करके बनाई गई एक फ़ाइल है जो Windows पर कुछ प्रिंट संवाद बॉक्स के भीतर दिखाई देती है। इसमें डिवाइस-विशिष्ट निर्देशों का एक सेट होता है जो प्रिंटर, फैक्स मशीन या अन्य डिवाइस किसी दस्तावेज़ को प्रिंट करने के लिए उपयोग करता है। पीआरएन फ़ाइलों में टेक्स्ट या बाइनरी सामग्री हो सकती है, यह उस डिवाइस पर निर्भर करता है जिसके लिए फ़ाइल बनाई गई थी।{{< /blocks/products/pf/agp/i18n/about-file-text >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="PPTX" readMoreLink="https://docs.fileformat.com/presentation/pptx/" >}}PPTX एक्सटेंशन वाली फ़ाइलें लोकप्रिय Microsoft PowerPoint एप्लिकेशन के साथ बनाई गई प्रस्तुति फ़ाइलें हैं। प्रेजेंटेशन फ़ाइल प्रारूप पीपीटी के पिछले संस्करण के विपरीत, जो बाइनरी था, PPTX प्रारूप Microsoft PowerPoint ओपन XML प्रेजेंटेशन फ़ाइल प्रारूप पर आधारित है। प्रेजेंटेशन फ़ाइल स्लाइडों का एक संग्रह है जहां प्रत्येक स्लाइड में टेक्स्ट, चित्र, फ़ॉर्मेटिंग, एनिमेशन और अन्य मीडिया शामिल हो सकते हैं। इन स्लाइडों को कस्टम प्रेजेंटेशन सेटिंग्स के साथ स्लाइड शो के रूप में दर्शकों के सामने प्रस्तुत किया जाता है।{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="PPTX" readMoreLink="https://docs.fileformat.com/presentation/pptx/" >}}PPTX एक्सटेंशन वाली फ़ाइलें लोकप्रिय Microsoft PowerPoint एप्लिकेशन के साथ बनाई गई प्रस्तुति फ़ाइलें हैं। प्रेजेंटेशन फ़ाइल प्रारूप PPT के पिछले संस्करण के विपरीत, जो बाइनरी था, PPTX प्रारूप Microsoft PowerPoint ओपन एक्सएमएल प्रेजेंटेशन फ़ाइल प्रारूप पर आधारित है। प्रेजेंटेशन फ़ाइल स्लाइडों का एक संग्रह है जहां प्रत्येक स्लाइड में टेक्स्ट, चित्र, फ़ॉर्मेटिंग, एनिमेशन और अन्य मीडिया शामिल हो सकते हैं। इन स्लाइडों को कस्टम प्रेजेंटेशन सेटिंग्स के साथ स्लाइड शो के रूप में दर्शकों के सामने प्रस्तुत किया जाता है।{{< /blocks/products/pf/agp/i18n/about-file-text >}}
     {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->
 
@@ -101,7 +101,6 @@ PM> Install-Package Aspose.Cells.Cpp
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/prn-to-pdf/" name="PDF पर पीआरएन" description="संवहन दस्तावेज़ स्वरूप" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/prn-to-png/" name="PNG पर पीआरएन" description="पोर्टेबल नेटवर्क ग्राफ़िक्स" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/prn-to-svg/" name="SVG पर पीआरएन" description="स्केलेबल वेक्टर ग्राफिक्स" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/prn-to-tiff/" name="TIFF पर पीआरएन" description="टैग किया गया छवि प्रारूप" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/prn-to-tsv/" name="TSV पर पीआरएन" description="टैब-पृथक मान" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/prn-to-txt/" name="TXT पर पीआरएन" description="सामग्री या लेख दस्तावेज़" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/prn-to-xls/" name="XLS पर पीआरएन" description="एक्सेल बाइनरी फॉर्मेट" >}}

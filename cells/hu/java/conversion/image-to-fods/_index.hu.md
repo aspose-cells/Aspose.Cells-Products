@@ -1,7 +1,7 @@
 ---
-title: Java IMAGE - FODS - Online IMAGE - FODS konverter
-description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Ingyenes online Java KÉP konvertálása FODS mentési formátumra. Java IMAGE FODS formátumba. Mentse az IMAGE-ot a FODS Java számra.
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java IMAGE to FODS saveformat., Free Online IMAGE to FODS Java., Java Convert IMAGE to FODS]
+title: Java IMAGE - FODS - IMAGE - FODS Átalakító
+description: Aspose Excel. A Aspose.Cells-es számmal gyorsan és egyszerűen konvertálja az IMAGE-ot FODS-re. Java IMAGE a FODS-es számra. Java Mentse az IMAGE-ot a FODS-es számra. Mentse az IMAGE-ot 07617481818-as számként a 3617034818 számon.
+keywords: [Aspose Excel., Java Aspose.Cells., Convert IMAGE to FODS in Java., Save IMAGE to FODS using Java., Java IMAGE to FODS saveformat., IMAGE to FODS Converter., Java Save IMAGE as FODS]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Konvertálja az IMAGE-ot FODS-re a Java-ben" h2="Nagy sebességű Java könyvtár az IMAGE FODS formátummá konvertálásához. Ez egy professzionális szoftvermegoldás az IMAGE, FODS és sok más formátum importálásához és exportálásához a Java használatával." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="FODS" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java IMAGE to 
 
 {{% blocks/products/pf/agp/content h2="Az IMAGE konvertálása FODS-re a Java használatával" %}}
 
- Hogyan konvertálhatom át az IMAGE-ot FODS-re? A Aspose.Cells for Java könyvtárral egyszerűen konvertálhatja az IMAGE-ot FODS-re programozottan néhány sor kóddal.[Aspose.Cells for Java](https://products.aspose.com/cells/java) képes többplatformos alkalmazásokat létrehozni, módosítani, konvertálni, renderelni és kinyomtatni az összes Excel fájlt. Java Excel API nem csak a táblázatformátumok között konvertál, hanem Excel fájlokat is képes megjeleníteni képként, PDF, HTML, ODS, CSV, CSV, CSV, CSV, CSV, CSV, SVG, és így tovább, SVG P, 8 PT a választás,3,8 ipari szabvány szerinti dokumentumok cseréjére formátumok. A legújabb verziót közvetlenül a webhelyről töltheti le[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) és telepítse a Maven alapú projekten belül a következő konfigurációk hozzáadásával a pom.xml fájlhoz.
+ Hogyan konvertálhatom át az IMAGE-ot FODS-re? A Aspose.Cells for Java könyvtárral egyszerűen konvertálhatja az IMAGE-ot FODS-re programozottan néhány sor kóddal.[Aspose.Cells for Java](https://products.aspose.com/cells/java)képes többplatformos alkalmazásokat létrehozni, módosítani, konvertálni, renderelni és kinyomtatni az összes Excel fájlt. Java Az Excel API nemcsak a táblázatformátumok között konvertál, hanem Excel-fájlokat is képes megjeleníteni képként, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT és egyebekként, így tökéletes választás a szabványos formátumú dokumentumok cseréjéhez. A legújabb verziót közvetlenül a webhelyről töltheti le[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) és telepítse a Maven alapú projekten belül a következő konfigurációk hozzáadásával a pom.xml fájlhoz.
 
 {{% blocks/products/pf/agp/code-block title="Adattár" offSpacer="true" %}}
 
@@ -45,7 +45,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java IMAGE to 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Mentse a KÉPET a FODS-es számra a Java-ben online ingyen" %}}
+{{% blocks/products/pf/agp/content h2="Mentse az IMAGE-ot a FODS-es számra a Java-ben" %}}
 
 A következő példa bemutatja, hogyan alakítható át az IMAGE FODS-re a Java-ben.
 {{% blocks/products/pf/agp/text %}}
@@ -56,7 +56,7 @@ Kövesse az egyszerű lépéseket az IMAGE FODS-re konvertálásához. Töltse f
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Ingyenes alkalmazás és mintakód az IMAGE FODS online konvertálásához" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="png" outformat="fods" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Mintakód az IMAGE FODS-re konvertálásához" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="png" outformat="fods" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="Az IMAGE konvertálása FODS via Java-re" %}}
 
@@ -98,7 +98,7 @@ Programozottan kell konvertálnia az IMAGE fájlokat FODS-re? A Java fejlesztők
 <!-- aboutfile Starts -->
     {{< blocks/products/pf/agp/about-file-section >}}
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="IMAGE" readMoreLink="https://docs.fileformat.com/image/png/" >}}PNG (Portable Network Graphics) fájl egy raszteres képfájl formátum, amely veszteségmentes tömörítést használ. Ezt a fájlformátumot a Graphics Interchange Format (GIF) helyettesítésére hozták létre, és nincs szerzői jogi korlátozása. A PNG fájlformátum azonban nem támogatja az animációkat. A PNG fájlformátum támogatja a veszteségmentes képtömörítést, amely népszerűvé teszi a felhasználók körében. Az idő múlásával a PNG az egyik legszélesebb körben használt képfájlformátummá fejlődött.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="FODS" readMoreLink="https://docs.fileformat.com/spreadsheet/fods/" >}}A .fods kiterjesztésű fájl az OpenDocument Spreadsheet dokumentumformátum egyik típusa, amely sorokban és oszlopokban tárolja az adatokat. A formátumot az OASIS által közzétett és karbantartott ODF 1.2 specifikáció részeként határozták meg. A FODS fájlok nem nyithatók meg Excellel, egy másik táblázatkezelő szoftveralkalmazással a Microsoft. A FODS fájlok ODS néven menthetők a LibreOffice segítségével, és konvertálhatók más formátumokba, például a XLS és a 4816151 és a 48133 formátumokba.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="FODS" readMoreLink="https://docs.fileformat.com/spreadsheet/fods/" >}}.fods kiterjesztésű fájl az OpenDocument Spreadsheet dokumentumformátum egyik típusa, amely sorokban és oszlopokban tárolja az adatokat. A formátumot az OASIS által közzétett és karbantartott ODF 1.2 specifikáció részeként határozták meg. A FODS fájlok nem nyithatók meg Excellel, egy másik táblázatkezelő szoftveralkalmazással a Microsoft. A FODS fájlok ODS néven menthetők a LibreOffice segítségével, és konvertálhatók más formátumokba, például a XLS és a 4816151 és a 48133 formátumokba.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
     {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->
 
@@ -125,7 +125,7 @@ Programozottan kell konvertálnia az IMAGE fájlokat FODS-re? A Java fejlesztők
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/image-to-xltm/" name="KÉP: XLTM" description="Excel-makró-kompatibilis sablon" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/image-to-xltx/" name="KÉP: XLTX" description="Office OpenXML Excel sablon" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/image-to-xml/" name="KÉP XML-BE" description="Bővíthető jelölőnyelv" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/image-to-xps/" name="KÉP: XPS" description="XML papírspecifikációk" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/image-to-xps/" name="KÉP: XPS" description="XML papír specifikációk" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/image-to-json/" name="KÉP: JSON" description="JavaScript objektum jelölés" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/image-to-jpeg/" name="KÉP: JPEG" description="JPEG Kép" >}}
 

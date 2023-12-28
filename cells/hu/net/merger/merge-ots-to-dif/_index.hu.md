@@ -1,8 +1,8 @@
 ---
 title: OTS egyesítése a DIF-es számmal - OTS egyesítése a DIF-gyel a C#-ben
 url: /hu/net/merger/merge-ots-to-dif/ 
-description: Aspose Excel. C# Aspose.Cells. Ingyenes online egyesítése OTS a DIF mentési formátumhoz. C# OTS kombinálása DIF formátummal. OTS egyesítése a DIF számmal a C#-ben. OTS összevonás.
-keywords: [Aspose Excel., C# Aspose.Cells., Merge OTS to DIF in C#., Free Online C# Merge OTS to dif., C# Combine OTS to DIF Online for Free., OTS Merge]
+description: Aspose Excel. C# Aspose.Cells. OTS egyesítése a DIF mentési formátumba. C# OTS kombinálása DIF formátummal. OTS egyesítése a DIF számmal a C#-ben. OTS összevonás.
+keywords: [Aspose Excel., C# Aspose.Cells., Merge OTS to DIF in C#., C# Merge OTS to dif., C# Combine OTS to DIF., OTS Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="OTS egyesítése a DIF-gyel a C#-en keresztül" h2="Nagysebességű C# könyvtár az OTS és a DIF egyesítéséhez. Használja a API-es excel konverziónkat magas szintű, platformfüggetlen szoftver fejlesztésére a C#-ben. Ez egy professzionális szoftvermegoldás a Excel, CSV, OpenOffice, PDF, HTML, image és sok más excel formátum importálásához és exportálásához." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="OTS" additionalConversionTag="DIF" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., C# Aspose.Cells., Merge OTS to DIF in C#., Free Online
 
 {{% blocks/products/pf/agp/content h2="Az OTS egyesítése a DIF-gyel a C# használatával" %}}
 
- Hogyan egyesíthetem az OTS-t a DIF-gyel? A Aspose.Cells for .NET könyvtárral egyszerűen egyesítheti az OTS-t a DIF-gyel programozottan néhány sornyi kóddal.[Aspose.Cells for .NET](https://products.aspose.com/cells/net)képes többplatformos alkalmazásokat létrehozni, módosítani, konvertálni, renderelni és kinyomtatni az összes Excel fájlt. .NET Excel API nem csak a táblázatformátumok között konvertál, hanem Excel fájlokat is képes megjeleníteni képként, PDF, HTML, ODS, CSV, CSV, CSV, CSV, CSV, CSV, SVG, és így tovább, SVG P, 8 PT a választás,3,8 ipari szabvány szerinti dokumentumok cseréjére formátumok. Nyisd ki[NuGet](https://www.nuget.org/packages/aspose.cells) csomagkezelő, keresse meg a Aspose.Cells-et, és telepítse. A következő parancsot is használhatja a Package Manager konzolból.
+ Hogyan egyesíthetem az OTS-t a DIF-gyel? A Aspose.Cells for .NET könyvtárral egyszerűen egyesítheti az OTS-t a DIF-gyel programozottan néhány sornyi kóddal.[Aspose.Cells for .NET](https://products.aspose.com/cells/net)képes többplatformos alkalmazásokat létrehozni, módosítani, konvertálni, renderelni és kinyomtatni az összes Excel fájlt. .NET Az Excel API nemcsak a táblázatformátumok között konvertál, hanem Excel-fájlokat is képes megjeleníteni képként, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT és egyebekként, így tökéletes választás a szabványos formátumú dokumentumok cseréjéhez. Nyisd ki[NuGet](https://www.nuget.org/packages/aspose.cells) csomagkezelő, keresse meg a Aspose.Cells-et, és telepítse. A következő parancsot is használhatja a Package Manager konzolból.
 
 {{% blocks/products/pf/agp/code-block title="Csomagkezelő konzolparancs" offSpacer="true" %}}
 
@@ -26,9 +26,9 @@ PM> Install-Package Aspose.Cells
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Ingyenesen egyesítse az OTS-t a DIF-es számmal a C#-ben." %}}
+{{% blocks/products/pf/agp/content h2="Az OTS egyesítése a DIF számmal a C#-ben" %}}
 
-A következő példa bemutatja, hogyan egyesítheti az OTS-t a DIF-es számmal a Aspose.Cells for .NET-ben.
+következő példa bemutatja, hogyan egyesítheti az OTS-t a DIF-es számmal a Aspose.Cells for .NET-ben.
 {{% blocks/products/pf/agp/text %}}
 
 Kövesse az egyszerű lépéseket az OTS DIF-es egyesítéséhez. Töltse fel a fájlokat, hívja meg a Workbook.Combine metódust a fájlok egyesítéséhez, majd mentse el a DIF fájlba. Ha kódot fejleszt a C#-ben, ez egyszerűbb lesz, mint amilyennek hangzik. Lásd a C#-es példát, amely egyesíti az OTS-t a DIF-gyel.
@@ -37,13 +37,13 @@ Kövesse az egyszerű lépéseket az OTS DIF-es egyesítéséhez. Töltse fel a 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Ingyenes online az OTS összevonása a DIF-es számmal a C#-ben" InputFormat="ots" InputFormat2="dif" outformat="dif" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="net" %}}
+{{% cells-merger title="Mintakód az OTS-nek a DIF-es számmal való egyesítéséhez a C#-ben" InputFormat="ots" InputFormat2="dif" outformat="dif" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="net" %}}
 
 {{% blocks/products/pf/agp/content h2="Az OTS egyesítése a DIF-gyel a C#-en keresztül" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
-Programozottan egyesítenie kell az OTS-t a DIF-es számmal? Egy alapdokumentum, amely összeolvad és összefűződik[Aspose.Cells for .NET](https://products.aspose.com/cells/net) Az API-k néhány sornyi kóddal elkészíthetők.
+ Programozottan egyesítenie kell az OTS-t a DIF-es számmal? Egy alapdokumentum, amely összeolvad és összefűződik[Aspose.Cells for .NET](https://products.aspose.com/cells/net) Az API-k néhány sornyi kóddal elkészíthetők.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -117,7 +117,7 @@ API-jaink minden nagyobb platformon és operációs rendszeren támogatottak. Mi
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-ots-to-xltm/" name="OTS egyesítése a XLTM-gyel" description="Excel-makró-kompatibilis sablon" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-ots-to-xltx/" name="OTS egyesítése a XLTX-gyel" description="Office OpenXML Excel sablon" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-ots-to-xml/" name="OTS egyesítése XML-lel" description="Bővíthető jelölőnyelv" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-ots-to-xps/" name="OTS egyesítése a XPS-gyel" description="XML papírspecifikációk" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-ots-to-xps/" name="OTS egyesítése a XPS-gyel" description="XML papír specifikációk" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-ots-to-json/" name="OTS egyesítése a JSON-gyel" description="JavaScript objektum jelölés" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-ots-to-jpeg/" name="OTS egyesítése a JPEG-gyel" description="JPEG Kép" >}}
 

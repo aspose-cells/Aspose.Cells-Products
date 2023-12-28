@@ -1,8 +1,8 @@
 ---
-title: Java Xlsb fájl javítása – xlsb fájl javítása online ingyen
+title: Java xlsb javítás – A sérült xlsb fájl helyreállítása és javítása
 url: /hu/java/recovery/repair-xlsb/ 
-description: Aspose Excel. Java Aspose.Cells. Java Xlsb fájl javítása. Ingyenes online xlsb javítóeszköz. Javítsa meg a sérült xlsb fájlt. Helyezze vissza a sérült xlsb fájlt a Java alkalmazáson belül.
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java Repair xlsb file., Free Online Repair a corrupted xlsb file., Java Recover xlsb file.]
+description: Java Aspose.Cells. Javítás xlsb. Javítsa ki az xlsb fájlt. xlsb helyreállítási eszköz. xlsb korrupció. xlsb adatok visszaállítása. xlsb fájl helyreállítása. A sérült xlsb fájl helyreállítása.
+keywords: [Java Aspose.Cells., repair xlsb file., xlsb repair., recover corrupted xlsb file., repair corrupted xlsb., recover xlsb., fix xlsb file., xlsb corruption., restore xlsb data., xlsb file recovery., recover corrupted xlsb file.]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Javítás XLSB fájl a Java-ben" h2="Készítse el saját Java alkalmazását az xlsb fájlok javításához a Java használatával." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSB" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="" fileiconsmall1="XLS" fileiconsmall2="XLSB" fileiconsmall3="XLSX" fileiconsmall4="XLSM" fileiconsmall5="ODS" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java Repair xl
 
 {{% blocks/products/pf/agp/content h2="Javítás XLSB fájl a Java használatával" %}}
 
-Hogyan javíthatom ki az xlsb fájlt? A Aspose.Cells for Java könyvtárral könnyedén kijavíthatja a XLSB fájlt néhány soros kóddal, programozottan.[Aspose.Cells for Java](https://products.aspose.com/cells/java) képes többplatformos alkalmazásokat létrehozni, módosítani, konvertálni, renderelni és kinyomtatni az összes Excel fájlt. Java Excel API nem csak a táblázatformátumok között konvertál, hanem Excel fájlokat is képes megjeleníteni képként, PDF, HTML, ODS, CSV, CSV, CSV, CSV, CSV, CSV, SVG, és így tovább, SVG P, 8 PT a választás,3,8 ipari szabvány szerinti dokumentumok cseréjére formátumok. A legújabb verziót közvetlenül a webhelyről töltheti le[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) és telepítse a Maven alapú projekten belül a következő konfigurációk hozzáadásával a pom.xml fájlhoz.
+ Hogyan javíthatom ki az xlsb fájlt? A Aspose.Cells for Java könyvtárral könnyedén kijavíthatja a XLSB fájlt néhány soros kóddal, programozottan.[Aspose.Cells for Java](https://products.aspose.com/cells/java)képes többplatformos alkalmazásokat létrehozni, módosítani, konvertálni, renderelni és kinyomtatni az összes Excel fájlt. Java Az Excel API nemcsak a táblázatformátumok között konvertál, hanem Excel-fájlokat is képes megjeleníteni képként, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT és egyebekként, így tökéletes választás a szabványos formátumú dokumentumok cseréjéhez. A legújabb verziót közvetlenül a webhelyről töltheti le[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) és telepítse a Maven alapú projekten belül a következő konfigurációk hozzáadásával a pom.xml fájlhoz.
 
 {{% blocks/products/pf/agp/code-block title="Adattár" offSpacer="true" %}}
 
@@ -60,7 +60,7 @@ Programozottan kell javítani az xlsb fájlt? Java A fejlesztők könnyedén bet
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-recovery title="Ingyenes alkalmazás és mintakód a XLSB fájl online javításához" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et" InputFormat="xlsb" outformat="xlsb" IsLandingPage="true" language="java" %}}    
+{{% cells-recovery title="Mintakód a XLSB fájl javításához" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et" InputFormat="xlsb" outformat="xlsb" IsLandingPage="true" language="java" %}}    
     
 {{% blocks/products/pf/agp/content h2="Java könyvtár a XLSB fájl javításához" %}}
 

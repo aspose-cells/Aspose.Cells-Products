@@ -1,7 +1,7 @@
 ---
-title: Python JPG-ből XLAM-be – Online JPG-ből XLAM-be konvertáló
-description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Ingyenes online Python JPG konvertálása XLAM mentési formátumra. Python JPG XLAM formátumba. JPG mentése a XLAM Python számra.
-keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python JPG to XLAM saveformat., Free Online JPG to XLAM Python., Python Convert JPG to XLAM]
+title: Python JPG-ből XLAM-be - JPG-ből XLAM-be konvertáló
+description: Aspose Excel. Konvertálja gyorsan és egyszerűen JPG-t Aspose.Cells-re. Python JPG-t XLAM-re. Python JPG mentése XLAM-re. JPG mentése XLAM néven a 348173468 használatával.
+keywords: [Aspose Excel., Python Aspose.Cells., Convert JPG to XLAM in Python., Save JPG to XLAM using Python., Python JPG to XLAM saveformat., JPG to XLAM Converter., Python Save JPG as XLAM]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Konvertálja a JPG-t XLAM-re a Python-ben" h2="Nagysebességű Python könyvtár a JPG XLAM formátumba konvertálásához. Használja a API-es excel konverziónkat magas szintű, platformfüggetlen szoftver fejlesztésére a Python-ben." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLAM" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,12 +12,12 @@ keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python JPG
 
 {{% blocks/products/pf/agp/content h2="Konvertálja a JPG-t XLAM-re a Python-ben" %}}
 
- Hogyan konvertálhatom át a JPG-t XLAM-re? A Aspose.Cells for Python segítségével a NET könyvtáron keresztül egyszerűen konvertálhat JPG-t XLAM formátumba programozottan, néhány sornyi kóddal.[Aspose.Cells for Python a NET számon keresztül](https://pypi.org/project/aspose-cells-python/)képes többplatformos alkalmazásokat létrehozni, módosítani, konvertálni, renderelni és kinyomtatni az összes Excel fájlt. Python Excel API nem csak a táblázatformátumok között konvertál, hanem Excel fájlokat is képes megjeleníteni képként, PDF, HTML, ODS, CSV, CSV, CSV, CSV, CSV, CSV, SVG, és így tovább, SVG P, 8 PT a választás,3,8 ipari szabvány szerinti dokumentumok cseréjére formátumok.
+ Hogyan konvertálhatom át a JPG-t XLAM-re? A Aspose.Cells for Python segítségével a NET könyvtáron keresztül egyszerűen konvertálhat JPG-t XLAM formátumba programozottan, néhány sornyi kóddal.[Aspose.Cells for Python a NET számon keresztül](https://pypi.org/project/aspose-cells-python/)képes többplatformos alkalmazásokat létrehozni, módosítani, konvertálni, renderelni és kinyomtatni az összes Excel fájlt. Python Az Excel API nemcsak a táblázatformátumok között konvertál, hanem Excel-fájlokat is képes megjeleníteni képként, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT és egyebekként, így tökéletes választás a szabványos formátumú dokumentumok cseréjéhez.
 
 {{% /blocks/products/pf/agp/content %}}
 
 
-{{% blocks/products/pf/agp/content h2="Mentse el a JPG-t a XLAM-es számra a Python-ben online ingyen" %}}
+{{% blocks/products/pf/agp/content h2="Mentse el a JPG-t a XLAM-es számra a Python-ben" %}}
 
 A következő példa bemutatja, hogyan lehet JPG-t XLAM-re konvertálni a Python via NET-ben.
 {{% blocks/products/pf/agp/text %}}
@@ -28,7 +28,7 @@ Kövesse az egyszerű lépéseket a JPG XLAM formátumba konvertálásához. Tö
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Ingyenes alkalmazás és mintakód a JPG XLAM online konvertálásához" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="jpg" outformat="xlam" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Mintakód a JPG XLAM formátumú konvertálásához" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="jpg" outformat="xlam" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="Hogyan lehet JPG-t konvertálni XLAM-re" %}}
 
@@ -52,7 +52,7 @@ Programozottan kell konvertálnia a JPG fájlokat XLAM-re? A Python fejlesztők 
 A Python-es csomagjainkat PyPi-tárolókban tároljuk.
 
 {{% blocks/products/pf/agp/text %}}
-Telepítés: Aspose.Cells for Python innen<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , használja a parancsot a következőképpen:<code>$ pip install aspose-cells-python</code>.
+ Telepítés: Aspose.Cells for Python innen<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , használja a parancsot a következőképpen:<code>$ pip install aspose-cells-python</code>.
 {{% /blocks/products/pf/agp/text %}}
 
 {{% blocks/products/pf/agp/text %}}
@@ -77,7 +77,7 @@ Telepítés: Aspose.Cells for Python innen<a href="https://pypi.org/project/aspo
     {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="Egyéb támogatott konverziók" subTitle="A JPG-t számos más fájlformátumra is konvertálhatja, köztük néhány alább felsorolt fájlformátumra." >}}
+{{< blocks/products/pf/agp/other-supported-section title="Egyéb támogatott konverziók" subTitle="A JPG-t sok más fájlformátumra is konvertálhatja, beleértve az alábbiakban felsorolt néhányat." >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/jpg-to-bmp/" name="JPG - BMP" description="Bittérképes kép" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/jpg-to-emf/" name="JPG - EMF" description="Továbbfejlesztett metafájl formátum" >}}
@@ -100,7 +100,7 @@ Telepítés: Aspose.Cells for Python innen<a href="https://pypi.org/project/aspo
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/jpg-to-xltm/" name="JPG - XLTM" description="Excel-makró-kompatibilis sablon" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/jpg-to-xltx/" name="JPG - XLTX" description="Office OpenXML Excel sablon" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/jpg-to-xml/" name="JPG-ből XML-be" description="Bővíthető jelölőnyelv" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/jpg-to-xps/" name="JPG - XPS" description="XML papírspecifikációk" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/jpg-to-xps/" name="JPG - XPS" description="XML papír specifikációk" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/jpg-to-json/" name="JPG - JSON" description="JavaScript objektum jelölés" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}

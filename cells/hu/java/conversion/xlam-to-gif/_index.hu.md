@@ -12,7 +12,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java XLAM to GIF saveformat., Free
 
 {{% blocks/products/pf/agp/content h2="A XLAM konvertálása GIF-re a Java használatával" %}}
 
-Hogyan alakíthatom át a XLAM-et GIF-re? A Aspose.Cells for Java könyvtárral egyszerűen konvertálhatja a XLAM-et programozottan GIF-re néhány sor kóddal.[Aspose.Cells for Java](https://products.aspose.com/cells/java) képes többplatformos alkalmazásokat létrehozni, módosítani, konvertálni, renderelni és kinyomtatni az összes Excel fájlt. Java Excel API nem csak a táblázatformátumok között konvertál, hanem Excel fájlokat is képes megjeleníteni képként, PDF, HTML, ODS, CSV, CSV, CSV, CSV, CSV, CSV, SVG, és így tovább, SVG P, 8 PT a választás,3,8 ipari szabvány szerinti dokumentumok cseréjére formátumok. A legújabb verziót közvetlenül a webhelyről töltheti le[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) és telepítse a Maven alapú projekten belül a következő konfigurációk hozzáadásával a pom.xml fájlhoz.
+Hogyan alakíthatom át a XLAM-et GIF-re? A Aspose.Cells for Java könyvtárral egyszerűen konvertálhatja a XLAM-et programozottan GIF-re néhány sor kóddal.[Aspose.Cells for Java](https://products.aspose.com/cells/java)képes többplatformos alkalmazásokat létrehozni, módosítani, konvertálni, renderelni és kinyomtatni az összes Excel fájlt. Java Az Excel API nemcsak a táblázatformátumok között konvertál, hanem Excel-fájlokat is képes megjeleníteni képként, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT és egyebekként, így tökéletes választás a szabványos formátumú dokumentumok cseréjéhez. A legújabb verziót közvetlenül a webhelyről töltheti le[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) és telepítse a Maven alapú projekten belül a következő konfigurációk hozzáadásával a pom.xml fájlhoz.
 
 {{% blocks/products/pf/agp/code-block title="Adattár" offSpacer="true" %}}
 
@@ -58,7 +58,7 @@ Kövesse az egyszerű lépéseket a XLAM GIF-re konvertálásához. Töltse fel 
 
 {{% cells-convert title="Ingyenes alkalmazás és mintakód a XLAM GIF online konvertálásához" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlam" outformat="gif" IsLandingPage="true" language="java" %}}
 
-{{% blocks/products/pf/agp/content h2="XLAM GIF via Java-re konvertálása" %}}
+{{% blocks/products/pf/agp/content h2="A XLAM GIF via Java-re konvertálása" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
@@ -68,7 +68,7 @@ A XLAM fájlt programozottan GIF-re kell konvertálni? A Java fejlesztők könny
 
 1.  Telepítse a „Aspose.Cells for Java” fájlt.
 1.  Adjon hozzá egy könyvtári hivatkozást (importálja a könyvtárat) a Java projekthez.
-1.  Töltse be a XLAM számú fájlt a Workbook osztály egy példányával.
+1. Töltse be a XLAM számú fájlt a Workbook osztály egy példányával.
 1.  Konvertálja a XLAM-et GIF-re a Workbook.save metódus meghívásával.
 1.  Szerezze meg a XLAM-es konverziós eredményt GIF-re.
 
@@ -119,7 +119,7 @@ A XLAM fájlt programozottan GIF-re kell konvertálni? A Java fejlesztők könny
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/xlam-to-xltm/" name="XLAM-XLTM" description="Excel-makró-kompatibilis sablon" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/xlam-to-xltx/" name="XLAM-XLTX" description="Office OpenXML Excel sablon" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/xlam-to-xml/" name="XLAM XML-RE" description="Bővíthető jelölőnyelv" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/xlam-to-xps/" name="XLAM-XPS" description="XML papírspecifikációk" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/xlam-to-xps/" name="XLAM-XPS" description="XML papír specifikációk" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/xlam-to-json/" name="XLAM-JSON" description="JavaScript objektum jelölés" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/xlam-to-jpeg/" name="XLAM-JPEG" description="JPEG Kép" >}}
 

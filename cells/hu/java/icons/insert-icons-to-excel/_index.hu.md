@@ -2,6 +2,7 @@
 title: SVG kép/ikon beszúrása az Excel via Java-be
 weight: 10
 description: Szúrjon be objektumokat a Aspose.Cells' Java API használatával, szoftver nélkül, például Microsoft vagy Open Office, Adobe PDF stb.
+keywords: [Java Aspose.Cells., Java add SVG images/Icons into Excel., Java insert SVG images/Icons into Excel., Java create SVG images/Icons in Excel]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="SVG kép/ikon beszúrása az Excel via Java-be" h2="Szúrjon be SVG képeket/ikonokat a Aspose.Cells\' API használatával szoftverek, például Microsoft vagy Open Office, Adobe PDF stb. nélkül." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSX" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="" fileiconsmall1="PPTX" fileiconsmall2="DOCX" fileiconsmall3="XLSX" fileiconsmall4="PDF" fileiconsmall5=" ODP " >}}
@@ -25,7 +26,7 @@ Az Excel használatakor a következő problémákkal találkozhat:
 + Szúrjon be nagyszámú svg-képet ugyanabba az Excel-fájlba.
 + Szúrjon be svg képeket számos különböző Excel fájlba.
 
- E problémák megoldásához javasoljuk, hogy használja a[Aspose.Cells](https://products.aspose.com/cells/) könyvtár. Számos általános interfészt tartalmaz az Excel fájlok feldolgozásához, és nagyon hasznos eszköz.
+ E problémák megoldásához javasoljuk, hogy használja a[Aspose.Cells](https://products.aspose.com/cells/)könyvtár. Számos általános interfészt tartalmaz az Excel fájlok feldolgozásához, és nagyon hasznos eszköz.
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -96,9 +97,9 @@ Ha a fenti módszerek egyike sem felel meg az Ön igényeinek, akkor az Internet
 
 {{% /blocks/products/pf/agp/text %}}
 
-Munkafüzet objektum példányosítása. (vagy->Töltse be a XLSX fájlt a teljes elérési úttal.)
++ Munkafüzet objektum példányosítása. (vagy->Töltse be a XLSX fájlt a teljes elérési úttal.)
 + Válassza ki a munkalapot az indexén keresztül.
- + Használja a[módszer hozzáadása](https://reference.aspose.com/cells/java/com.aspose.cells/shapecollection/#addIcons-int-int-int-int-int-int-byte---byte---)feliratok beszúrásához a kiválasztott munkalapba
+ + Használja a[módszer hozzáadása](https://reference.aspose.com/cells/java/com.aspose.cells/shapecollection/#addIcons-int-int-int-int-int-int-byte---byte---) feliratok beszúrásához a kiválasztott munkalapba
 + Mentse a munkafüzetet XLSX formátumban.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

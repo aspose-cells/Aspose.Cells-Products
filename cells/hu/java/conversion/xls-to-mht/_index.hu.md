@@ -1,7 +1,7 @@
 ---
-title: Java XLS MHT - Online XLS MHT konverter
-description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Ingyenes online Java A XLS konvertálása MHT mentési formátumra. Java XLS MHT formátumba. Mentse a XLS számot az MHT Java számra.
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java XLS to MHT saveformat., Free Online XLS to MHT Java., Java Convert XLS to MHT]
+title: Java XLS - MHT - XLS - MHT Converter
+description: Aspose Excel. A XLS számot gyorsan és egyszerűen konvertálja MHT-ra a Aspose.Cells-es számmal. Java XLS MHT-vá. Java Takarítson meg XLS-et az MHT-nak. Mentse el a XLS számot MHT-ként a Java használatával.
+keywords: [Aspose Excel., Java Aspose.Cells., Convert XLS to MHT in Java., Save XLS to MHT using Java., Java XLS to MHT saveformat., XLS to MHT Converter., Java Save XLS as MHT]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Konvertálja a XLS-et MHT-ra a Java-ben" h2="Nagy sebességű Java-es könyvtár a XLS MHT-vé konvertálásához. Ez egy professzionális szoftvermegoldás a XLS, MHT és sok más formátum importálásához és exportálásához a Java használatával." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="MHT" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java XLS to MH
 
 {{% blocks/products/pf/agp/content h2="Konvertálja a XLS-et MHT-vé a Java használatával" %}}
 
- Hogyan konvertálhatom át a XLS-et MHT-vé? A Aspose.Cells for Java könyvtárral egyszerűen konvertálhatja a XLS-et MHT-vé, néhány soros kóddal programozottan.[Aspose.Cells for Java](https://products.aspose.com/cells/java) képes többplatformos alkalmazásokat létrehozni, módosítani, konvertálni, renderelni és kinyomtatni az összes Excel fájlt. Java Excel API nem csak a táblázatformátumok között konvertál, hanem Excel fájlokat is képes megjeleníteni képként, PDF, HTML, ODS, CSV, CSV, CSV, CSV, CSV, CSV, SVG, és így tovább, SVG P, 8 PT a választás,3,8 ipari szabvány szerinti dokumentumok cseréjére formátumok. A legújabb verziót közvetlenül a webhelyről töltheti le[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) és telepítse a Maven alapú projekten belül a következő konfigurációk hozzáadásával a pom.xml fájlhoz.
+Hogyan konvertálhatom át a XLS-et MHT-vé? A Aspose.Cells for Java könyvtárral egyszerűen konvertálhatja a XLS-et MHT-vé, néhány soros kóddal programozottan.[Aspose.Cells for Java](https://products.aspose.com/cells/java)képes többplatformos alkalmazásokat létrehozni, módosítani, konvertálni, renderelni és kinyomtatni az összes Excel fájlt. Java Az Excel API nemcsak a táblázatformátumok között konvertál, hanem Excel-fájlokat is képes megjeleníteni képként, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT és egyebekként, így tökéletes választás a szabványos formátumú dokumentumok cseréjéhez. A legújabb verziót közvetlenül a webhelyről töltheti le[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) és telepítse a Maven alapú projekten belül a következő konfigurációk hozzáadásával a pom.xml fájlhoz.
 
 {{% blocks/products/pf/agp/code-block title="Adattár" offSpacer="true" %}}
 
@@ -45,7 +45,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java XLS to MH
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Takarítson meg XLS számot az MHT-nak a Java számon online ingyen" %}}
+{{% blocks/products/pf/agp/content h2="Mentse a XLS számot az MHT-nak a Java számon" %}}
 
 A következő példa bemutatja, hogyan lehet átalakítani a XLS-et MHT-vé a Java-ben.
 {{% blocks/products/pf/agp/text %}}
@@ -56,19 +56,19 @@ Kövesse az egyszerű lépéseket a XLS MHT-vé konvertálásához. Töltse fel 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Ingyenes alkalmazás és mintakód a XLS MHT Online konvertálásához" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xls" outformat="mht" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Mintakód a XLS MHT-vá alakításához" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xls" outformat="mht" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="A XLS konvertálása MHT via Java-re" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
-XLS fájlokat programozottan MHT-vé kell konvertálni? A Java fejlesztők könnyedén konvertálhatják a XLS-et MHT-vé, mindössze néhány sornyi kóddal.
+A XLS fájlokat programozottan MHT-vé kell konvertálni? A Java fejlesztők könnyedén konvertálhatják a XLS-et MHT-vé, mindössze néhány sornyi kóddal.
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Telepítse a „Aspose.Cells for Java” fájlt.
 1.  Adjon hozzá egy könyvtári hivatkozást (importálja a könyvtárat) a Java projekthez.
-1.  Töltse be a XLS számú fájlt a Workbook osztály egy példányával.
+1. Töltse be a XLS számú fájlt a Workbook osztály egy példányával.
 1.  Konvertálja a XLS-et MHT-vé a Workbook.save metódus hívásával.
 1.  Szerezze meg a XLS konverziós eredményt MHT-ra.
 
@@ -98,7 +98,7 @@ XLS fájlokat programozottan MHT-vé kell konvertálni? A Java fejlesztők könn
 <!-- aboutfile Starts -->
     {{< blocks/products/pf/agp/about-file-section >}}
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLS" readMoreLink="https://docs.fileformat.com/spreadsheet/xls/" >}}XLS kiterjesztésű fájlok Excel bináris fájlformátumot képviselnek. Az ilyen fájlokat a Microsoft Excel, valamint más hasonló táblázatkezelő programok, például az OpenOffice Calc vagy az Apple Numbers is létrehozhatják. Az Excel által mentett fájlokat munkafüzetnek nevezik, ahol minden munkafüzetnek egy vagy több munkalapja lehet. Az adatok tárolása és megjelenítése táblázatos formában, munkalapon történik a felhasználók számára, és átfoghatnak számértékeket, szöveges adatokat, képleteket, külső adatkapcsolatokat, képeket és diagramokat. Az olyan alkalmazások, mint a Microsoft Excel, lehetővé teszik a munkafüzet adatainak több különböző formátumba történő exportálását, beleértve a PDF, CSV, XLSX, TXT, HTML, XPS és sok más formátumot. A XLS fájlformátumot egy nyitottabb és strukturáltabb formátum, a XLSX váltotta fel a Microsoft Excel 2007 kiadásával. A legújabb verziók továbbra is támogatják a XLS fájlok létrehozását és olvasását, bár most a XLSX az első számú választás.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="MHT" readMoreLink="https://docs.fileformat.com/web/mht/" >}}Az .mht kiterjesztésű fájl egy MIME-kompatibilis archiválási fájlformátum, amely különböző típusú adatokat tartalmaz egyetlen fájlban. Beágyazott erőforrásként képes tárolni olyan adatokat, mint például szöveg, képek, oldalstílus CSS-fájlok, JavaScript és egyéb erőforrások formájában. Az üzenet/rfc822 MIME-típusú MHT-fájlok egyetlen archív fájlba foglalják a HTML-es fájl teljes tartalmát a tárolóeszközökön történő archiváláshoz. Az olyan szoftveralkalmazások, mint a Microsoft Word, lehetővé teszik a WORD-dokumentumok MHT-fájlként történő exportálásával konvertálását. Az MHT fájlok olyan népszerű böngészőkkel nyithatók meg, mint a Microsoft Internet Explore és a Google Chrome.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="MHT" readMoreLink="https://docs.fileformat.com/web/mht/" >}}Az .mht kiterjesztésű fájl egy MIME-kompatibilis archiválási fájlformátum, amely különböző típusú adatokat tartalmaz egyetlen fájlban. Beágyazott erőforrásként képes tárolni olyan adatokat, mint például szöveg, képek, oldalstílus CSS-fájlok, JavaScript és egyéb erőforrások formájában. Az üzenet/rfc822 MIME-típusú MHT-fájlok egyetlen archív fájlba foglalják a HTML-es fájl teljes tartalmát a tárolóeszközökön történő archiváláshoz. Az olyan szoftveralkalmazások, mint a Microsoft Word, lehetővé teszik a WORD-es dokumentumok MHT-fájlként történő exportálásával konvertálását. Az MHT fájlok olyan népszerű böngészőkkel nyithatók meg, mint a Microsoft Internet Explore és a Google Chrome.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
     {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->
 
@@ -125,7 +125,7 @@ XLS fájlokat programozottan MHT-vé kell konvertálni? A Java fejlesztők könn
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/xls-to-xltm/" name="XLS-XLTM" description="Excel-makró-kompatibilis sablon" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/xls-to-xltx/" name="XLS-XLTX" description="Office OpenXML Excel sablon" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/xls-to-xml/" name="XLS XML-RE" description="Bővíthető jelölőnyelv" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/xls-to-xps/" name="XLS-XPS" description="XML papírspecifikációk" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/xls-to-xps/" name="XLS-XPS" description="XML papír specifikációk" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/xls-to-json/" name="XLS-JSON" description="JavaScript objektum jelölés" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/xls-to-jpeg/" name="XLS-JPEG" description="JPEG Kép" >}}
 

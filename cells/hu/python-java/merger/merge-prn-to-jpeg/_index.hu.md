@@ -1,8 +1,8 @@
 ---
 title: PRN egyesítése a JPEG-es számmal - A PRN összevonása a JPEG-es számmal a Python-ben
 url: /hu/python-java/merger/merge-prn-to-jpeg/ 
-description: Aspose Excel. Python Aspose.Cells. Ingyenes online egyesítése PRN JPEG mentési formátumba. Python Kombinálja a PRN-t JPEG formátummal. PRN egyesítése a JPEG-es számmal a Python-ben. PRN egyesítése.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge PRN to JPEG in Python., Free Online Python Merge PRN to jpeg., Python Combine PRN to JPEG Online for Free., PRN Merge]
+description: Aspose Excel. Python Aspose.Cells. A PRN egyesítése a JPEG mentési formátummal. Python Kombinálja a PRN-t JPEG formátummal. PRN egyesítése a JPEG-es számmal a Python-ben. PRN egyesítése.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge PRN to JPEG in Python., Python Merge PRN to jpeg., Python Combine PRN to JPEG., PRN Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="A PRN egyesítése a JPEG számmal a Python számon keresztül" h2="Nagysebességű Python könyvtár a PRN és a JPEG egyesítéséhez. Használja a API-es excel konverziónkat magas szintű, platformfüggetlen szoftver fejlesztésére a Python-ben. Ez egy professzionális szoftvermegoldás a Excel, CSV, OpenOffice, PDF, HTML, image és sok más excel formátum importálásához és exportálásához." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="PRN" additionalConversionTag="JPEG" pfName="Aspose.Cells" subTitlepfName="for Python" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -12,12 +12,12 @@ keywords: [Aspose Excel., Python Aspose.Cells., Merge PRN to JPEG in Python., Fr
 
 {{% blocks/products/pf/agp/content h2="A PRN egyesítése a JPEG-gyel a Python használatával" %}}
 
- Hogyan egyesíthetem a PRN-t a JPEG-es számmal? A Aspose.Cells for Python via Java könyvtárral egyszerűen egyesítheti a PRN-t a JPEG-gyel programozottan néhány sor kóddal.[Aspose.Cells for Python via Java](https://pypi.org/project/aspose-cells)képes többplatformos alkalmazásokat létrehozni, módosítani, konvertálni, renderelni és kinyomtatni az összes Excel fájlt. Python Excel API nem csak a táblázatformátumok között konvertál, hanem Excel fájlokat is képes megjeleníteni képként, PDF, HTML, ODS, CSV, CSV, CSV, CSV, CSV, CSV, SVG, és így tovább, SVG P, 8 PT a választás,3,8 ipari szabvány szerinti dokumentumok cseréjére formátumok. A Aspose.Cells for Python via Java számot innen telepítheti.<a href="https://pypi.org/project/aspose-cells/">pypi</a> , használja a parancsot a következőképpen:<code>$ pip install aspose-cells</code>.
+ Hogyan egyesíthetem a PRN-t a JPEG-es számmal? A Aspose.Cells for Python via Java könyvtárral egyszerűen egyesítheti a PRN-t a JPEG-gyel programozottan néhány sor kóddal.[Aspose.Cells for Python via Java](https://pypi.org/project/aspose-cells) képes többplatformos alkalmazásokat létrehozni, módosítani, konvertálni, renderelni és kinyomtatni az összes Excel fájlt. Python Az Excel API nemcsak a táblázatformátumok között konvertál, hanem Excel-fájlokat is képes megjeleníteni képként, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT és egyebekként, így tökéletes választás a szabványos formátumú dokumentumok cseréjéhez. Telepítheti a Aspose.Cells for Python via Java számot innen<a href="https://pypi.org/project/aspose-cells/">pypi</a> , használja a parancsot a következőképpen:<code>$ pip install aspose-cells</code>.
 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Ingyenesen egyesítse a PRN-t a JPEG-es számmal a Python-ben." %}}
+{{% blocks/products/pf/agp/content h2="A PRN egyesítése a JPEG számmal a Python-ben" %}}
 
 A következő példa bemutatja, hogyan egyesítheti a PRN-t a Aspose.Cells-es for Python-es via Java-es számmal.
 {{% blocks/products/pf/agp/text %}}
@@ -28,7 +28,7 @@ Kövesse az egyszerű lépéseket a PRN és a JPEG egyesítéséhez. Töltse fel
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Ingyenes online a PRN összevonása a JPEG-es számmal a Python-ben" InputFormat="prn" InputFormat2="jpg" outformat="jpg" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-merger title="Mintakód a PRN JPEG-es számmal való egyesítéséhez a Python-ben" InputFormat="prn" InputFormat2="jpg" outformat="jpg" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="A PRN egyesítése a JPEG-es számmal a Python-en keresztül" %}}
 
@@ -73,14 +73,14 @@ API-jaink minden nagyobb platformon és operációs rendszeren támogatottak. Mi
 
 -  Telepítse a Java 1.8-as vagy újabb verziót, és adja hozzá a PATH környezeti változóhoz, például:<code>PATH=C:\Program Files\Java\jdk1.8.0_131;</code>.
 -  Telepítés[Python](https://www.python.org/downloads/) 3,5 vagy magasabb.
-- Telepítés: Aspose.Cells for Python innen<a href="https://pypi.org/project/aspose-cells/">pypi</a> , használja a parancsot a következőképpen:<code>$ pip install aspose-cells</code>.
+-  Telepítés: Aspose.Cells for Python innen<a href="https://pypi.org/project/aspose-cells/">pypi</a> , használja a parancsot a következőképpen:<code>$ pip install aspose-cells</code>.
 
 
 {{% /blocks/products/pf/agp/content %}}
 
 <!-- aboutfile Starts -->
     {{< blocks/products/pf/agp/about-file-section >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="PRN" readMoreLink="https://fileinfo.com/extension/prn/" >}}PRN-fájl a Nyomtatás fájlba jelölőnégyzet segítségével létrehozott fájl, amely a Windows-es szám egyes Nyomtatás párbeszédpaneleiben jelenik meg. Eszközspecifikus utasításokat tartalmaz, amelyeket a nyomtató, fax vagy más eszköz a dokumentum nyomtatásához használ. A PRN-fájlok szöveges vagy bináris tartalmat tartalmazhatnak, attól függően, hogy milyen eszközhöz készült a fájl.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="PRN" readMoreLink="https://fileinfo.com/extension/prn/" >}}A PRN-fájl a Nyomtatás fájlba jelölőnégyzet segítségével létrehozott fájl, amely a Windows-es szám egyes Nyomtatás párbeszédpaneleiben jelenik meg. Eszközspecifikus utasításokat tartalmaz, amelyeket a nyomtató, fax vagy más eszköz a dokumentum nyomtatásához használ. A PRN-fájlok szöveges vagy bináris tartalmat tartalmazhatnak, attól függően, hogy milyen eszközhöz készült a fájl.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="JPEG" readMoreLink="https://docs.fileformat.com/image/jpg/" >}}A JPEG egy olyan képformátum, amely veszteséges tömörítés módszerével kerül mentésre. A kimeneti kép a tömörítés eredményeként kompromisszumot jelent a tárhely mérete és a képminőség között. A felhasználók beállíthatják a tömörítési szintet a kívánt minőségi szint eléréséhez, ugyanakkor csökkenthetik a tárhely méretét. A képminőséget elhanyagolható mértékben befolyásolja, ha 10:1-es tömörítést alkalmaznak a képen. Minél nagyobb a tömörítési érték, annál nagyobb a képminőség romlása.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
     {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->
@@ -110,7 +110,7 @@ API-jaink minden nagyobb platformon és operációs rendszeren támogatottak. Mi
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-prn-to-xltm/" name="A PRN egyesítése a XLTM számmal" description="Excel-makró-kompatibilis sablon" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-prn-to-xltx/" name="A PRN egyesítése a XLTX számmal" description="Office OpenXML Excel sablon" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-prn-to-xml/" name="A PRN egyesítése XML-lel" description="Bővíthető jelölőnyelv" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-prn-to-xps/" name="A PRN egyesítése a XPS számmal" description="XML papírspecifikációk" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-prn-to-xps/" name="A PRN egyesítése a XPS számmal" description="XML papír specifikációk" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-prn-to-json/" name="A PRN egyesítése a JSON számmal" description="JavaScript objektum jelölés" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-prn-to-jpeg/" name="A PRN egyesítése a JPEG számmal" description="JPEG Kép" >}}
 

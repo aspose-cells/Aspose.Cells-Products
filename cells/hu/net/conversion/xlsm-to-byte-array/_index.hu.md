@@ -38,7 +38,7 @@ description: C# Mintakód a XLSM byte Array konverzióhoz. Használja ezt a kód
 
 {{% blocks/products/pf/agp/text %}}
 
- Csak győződjön meg arról, hogy a rendszer Microsoft Windows vagy kompatibilis operációs rendszerrel rendelkezik .NET Framework, .NET Core, Windows Azure, Mono vagy Xamarin Platformokkal, valamint Visu71616340-hoz hasonló fejlesztői környezettel.
+Csak győződjön meg arról, hogy a rendszer Microsoft Windows vagy kompatibilis operációs rendszerrel rendelkezik .NET Framework, .NET Core, Windows Azure, Mono vagy Xamarin Platformokkal, valamint Visu71616340-hoz hasonló fejlesztői környezettel.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -82,7 +82,7 @@ Egy Excel táblázatkezelő programkönyvtár, amely képes többplatformos alka
     {{< blocks/products/pf/agp/about-file-section >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLSM" readMoreLink="https://docs.fileformat.com/spreadsheet/xlsm/" >}}
-XLSM kiterjesztésű fájlok olyan táblázatkezelő fájlok, amelyek támogatják a makrókat. Alkalmazási szempontból a makró a folyamatok automatizálására használt utasítások halmaza. A makró rögzíti az ismételten végrehajtott lépéseket, és megkönnyíti a műveletek végrehajtását a makró újbóli futtatásával. A makrók a Microsoft Visual Basic for Applications (VBA) programmal programozhatók az Excel-munkafüzetből a Visual Basic Editor segítségével, és onnan közvetlenül futtathatók/hibakereshetők.
+A XLSM kiterjesztésű fájlok olyan táblázatkezelő fájlok, amelyek támogatják a makrókat. Alkalmazási szempontból a makró a folyamatok automatizálására használt utasítások halmaza. A makró rögzíti az ismételten végrehajtott lépéseket, és megkönnyíti a műveletek végrehajtását a makró újbóli futtatásával. A makrók a Microsoft Visual Basic for Applications (VBA) programmal programozhatók az Excel-munkafüzetből a Visual Basic Editor segítségével, és onnan közvetlenül futtathatók/hibakereshetők.
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 

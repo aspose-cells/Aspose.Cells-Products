@@ -1,7 +1,7 @@
 ---
-title: C++ XLS - XPS - Online XLS - XPS Átalakító
-description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. Ingyenes online C++ A XLS konvertálása XPS mentési formátumra. C++ XLS - XPS formátum. Mentse a XLS számot a XPS C++ számra.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ XLS to XPS saveformat., Free Online XLS to XPS C++., C++ Convert XLS to XPS]
+title: C++ XLS - XPS - XLS - XPS Átalakító
+description: Aspose Excel. A XLS-es számot XPS-re gyorsan és egyszerűen a Aspose.Cells-es számmal alakíthatja át. C++ XLS-XPS-re. 13481 a C++ számon.
+keywords: [Aspose Excel., C++ Aspose.Cells., Convert XLS to XPS in C++., Save XLS to XPS using C++., C++ XLS to XPS saveformat., XLS to XPS Converter., C++ Save XLS as XPS]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Konvertálja a XLS-et XPS-re C++-ben" h2="Nagy teljesítményű XLS és XPS közötti átalakítás a C++ könyvtár használatával a Microsoft Excel, OpenOffice vagy Adobe Acrobat telepítése nélkül." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" sourceAdditionalConversionTag="" additionalConversionTag="XPS" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ XLS to XPS s
 
 {{% blocks/products/pf/agp/content h2="A XLS konvertálása XPS-re a C++ használatával" %}}
 
-Hogyan alakíthatom át a XLS-et XPS-re? A Aspose.Cells for C++ könyvtárral egyszerűen konvertálhatja a XLS-et programozottan XPS-re néhány sor kóddal.[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) képes többplatformos alkalmazásokat létrehozni, módosítani, konvertálni, renderelni és kinyomtatni az összes Excel fájlt. C++ Excel API nem csak a táblázatformátumok között konvertál, hanem Excel fájlokat is képes megjeleníteni képként, PDF, HTML, ODS, CSV, CSV, CSV, CSV, CSV, CSV, SVG, és így tovább, SVG P, 8 PT a választás,3,8 ipari szabvány szerinti dokumentumok cseréjére formátumok. A legújabb verziót közvetlenül letöltheti, csak nyissa meg[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) csomagkezelő, keresse meg a Aspose.Cells.Cpp címet, és telepítse. A következő parancsot is használhatja a Package Manager konzolból.
+Hogyan alakíthatom át a XLS-et XPS-re? A Aspose.Cells for C++ könyvtárral egyszerűen konvertálhatja a XLS-et programozottan XPS-re néhány sor kóddal.[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) képes többplatformos alkalmazásokat létrehozni, módosítani, konvertálni, renderelni és kinyomtatni az összes Excel fájlt. C++ Az Excel API nemcsak a táblázatformátumok között konvertál, hanem Excel-fájlokat is képes megjeleníteni képként, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT és egyebekként, így tökéletes választás a szabványos formátumú dokumentumok cseréjéhez. A legújabb verziót közvetlenül letöltheti, csak nyissa meg[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) csomagkezelő, keresse meg a Aspose.Cells.Cpp címet, és telepítse. A következő parancsot is használhatja a Package Manager konzolból.
 
 {{% blocks/products/pf/agp/code-block title="Parancs" offSpacer="true" %}}
 
@@ -26,7 +26,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Takarítson meg XLS-XPS számot a C++ számon online ingyen" %}}
+{{% blocks/products/pf/agp/content h2="Mentse a XLS-XPS számot a C++-es számon" %}}
 
 A következő példa bemutatja, hogyan lehet a XLS-et XPS-re konvertálni a C++-ben.
 {{% blocks/products/pf/agp/text %}}
@@ -37,7 +37,7 @@ Kövesse az egyszerű lépéseket a XLS XPS-re konvertálásához. Töltse fel a
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Ingyenes alkalmazás és mintakód a XLS XPS online konvertálásához" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xls" outformat="xps" IsLandingPage="true" language="cpp" %}}
+{{% cells-convert title="Mintakód a XLS XPS-re konvertálásához" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xls" outformat="xps" IsLandingPage="true" language="cpp" %}}
 
 {{% blocks/products/pf/agp/content h2="A XLS konvertálása XPS-re a C++ számon keresztül" %}}
 
@@ -49,7 +49,7 @@ A XLS fájlt programozottan XPS-re kell konvertálni? A C++ fejlesztők könnyed
 
 1.  Telepítse a „Aspose.Cells for C++” fájlt.
 1.  Adjon hozzá egy könyvtári hivatkozást (importálja a könyvtárat) a C++ projekthez.
-1.  Töltse be a XLS fájlt a Factory::CreateIWorkbook segítségével.
+1.  Töltse be a XLS fájlt a munkafüzet segítségével.
 1.  Konvertálja a XLS-et XPS-re a Save() metódus meghívásával.
 1.  Szerezze meg a XLS-es konverziós eredményt XPS-re.
 
@@ -101,7 +101,6 @@ Három lehetőség közül választhat a „Aspose.Cells for C++” telepítés�
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xls-to-pdf/" name="XLS-PDF" description="Hordozható dokumentum formátum" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xls-to-png/" name="XLS-PNG" description="Hordozható hálózati grafika" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xls-to-svg/" name="XLS-SVG" description="Skálázható vektorgrafika" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xls-to-tiff/" name="XLS-TIFF" description="Címkézett képformátum" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xls-to-tsv/" name="XLS-TSV" description="Tabulátorral elválasztott értékek" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xls-to-txt/" name="XLS-TXT" description="Szöveges dokumentum" >}}
 
@@ -112,7 +111,7 @@ Három lehetőség közül választhat a „Aspose.Cells for C++” telepítés�
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xls-to-xltm/" name="XLS-XLTM" description="Excel-makró-kompatibilis sablon" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xls-to-xltx/" name="XLS-XLTX" description="Office OpenXML Excel sablon" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xls-to-xml/" name="XLS XML-RE" description="Bővíthető jelölőnyelv" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xls-to-xps/" name="XLS-XPS" description="XML papírspecifikációk" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xls-to-xps/" name="XLS-XPS" description="XML papír specifikációk" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xls-to-json/" name="XLS-JSON" description="JavaScript objektum jelölés" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xls-to-jpeg/" name="XLS-JPEG" description="JPEG Kép" >}}
 

@@ -1,8 +1,8 @@
 ---
 title: A TXT-DOCX-es számok egyesítése – a TXT-es és a DOCX-es számok egyesítése a Java-ben
 url: /hu/java/merger/merge-txt-to-docx/ 
-description: Aspose Excel. Java Aspose.Cells. Ingyenes online egyesítés TXT DOCX mentési formátumba. Java A TXT és a DOCX formátum kombinálása. Egyesítse a TXT-DOCX-et a Java-ben. TXT Egyesítse.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge TXT to DOCX in Java., Free Online Java Merge TXT to docx., Java Combine TXT to DOCX Online for Free., TXT Merge]
+description: Aspose Excel. Java Aspose.Cells. A TXT és a DOCX mentési formátum egyesítése. Java A TXT és a DOCX formátum kombinálása. Egyesítse a TXT-DOCX-et a Java-ben. TXT Egyesítse.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge TXT to DOCX in Java., Java Merge TXT to docx., Java Combine TXT to DOCX., TXT Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="A TXT és a DOCX via Java számok egyesítése" h2="Nagysebességű Java könyvtár a TXT és DOCX egyesítéséhez. Használja a API-es excel konverziónkat magas szintű, platformfüggetlen szoftver fejlesztésére a Java-ben. Ez egy professzionális szoftvermegoldás Excel, CSV, OpenOffice, PDF, HTML, image és sok más excel formátum importálásához és exportálásához." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="TXT" additionalConversionTag="DOCX" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Merge TXT to DOCX in Java., Free O
 
 {{% blocks/products/pf/agp/content h2="A TXT és a DOCX egyesítése a Java használatával" %}}
 
- Hogyan egyesíthetem a TXT és a DOCX számokat? A Aspose.Cells for Java könyvtárral egyszerűen egyesítheti a TXT-et a DOCX-es számokkal programozottan néhány sornyi kóddal.[Aspose.Cells for Java](https://products.aspose.com/cells/java) képes többplatformos alkalmazásokat létrehozni, módosítani, konvertálni, renderelni és kinyomtatni az összes Excel fájlt. Java Excel API nem csak a táblázatformátumok között konvertál, hanem Excel fájlokat is képes megjeleníteni képként, PDF, HTML, ODS, CSV, CSV, CSV, CSV, CSV, CSV, SVG, és így tovább, SVG P, 8 PT a választás,3,8 ipari szabvány szerinti dokumentumok cseréjére formátumok. A legújabb verziót közvetlenül a webhelyről töltheti le[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) és telepítse a Maven alapú projekten belül a következő konfigurációk hozzáadásával a pom.xml fájlhoz.
+ Hogyan egyesíthetem a TXT és a DOCX számokat? A Aspose.Cells for Java könyvtárral egyszerűen egyesítheti a TXT-et a DOCX-es számokkal programozottan néhány sornyi kóddal.[Aspose.Cells for Java](https://products.aspose.com/cells/java)képes többplatformos alkalmazásokat létrehozni, módosítani, konvertálni, renderelni és kinyomtatni az összes Excel fájlt. Java Az Excel API nemcsak a táblázatformátumok között konvertál, hanem Excel-fájlokat is képes megjeleníteni képként, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT és egyebekként, így tökéletes választás a szabványos formátumú dokumentumok cseréjéhez. A legújabb verziót közvetlenül a webhelyről töltheti le[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) és telepítse a Maven alapú projekten belül a következő konfigurációk hozzáadásával a pom.xml fájlhoz.
 
 {{% blocks/products/pf/agp/code-block title="Adattár" offSpacer="true" %}}
 
@@ -45,7 +45,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Merge TXT to DOCX in Java., Free O
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Csatlakoztassa a TXT-es számokat a DOCX-es számokhoz a Java-ben online ingyen" %}}
+{{% blocks/products/pf/agp/content h2="A TXT és a DOCX egyesítése a Java-ben" %}}
 
 A következő példa bemutatja a TXT és a DOCX egyesítését a Aspose.Cells for Java számban.
 {{% blocks/products/pf/agp/text %}}
@@ -56,7 +56,7 @@ Kövesse az egyszerű lépéseket a TXT-es és a DOCX-es számok egyesítéséhe
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Ingyenes online a TXT-DOCX-es számok egyesítéséhez a Java-ben" InputFormat="txt" InputFormat2="docx" outformat="docx" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="java" %}}
+{{% cells-merger title="Mintakód a TXT és DOCX közötti egyesítéshez a Java-ben" InputFormat="txt" InputFormat2="docx" outformat="docx" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="A TXT és a DOCX via Java számok egyesítése" %}}
 
@@ -131,8 +131,8 @@ API-jaink minden nagyobb platformon és operációs rendszeren támogatottak. Mi
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-txt-to-xlt/" name="TXT és a XLT számok egyesítése" description="Microsoft Excel-sablon" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-txt-to-xltm/" name="TXT és a XLTM számok egyesítése" description="Excel-makró-kompatibilis sablon" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-txt-to-xltx/" name="TXT és a XLTX számok egyesítése" description="Office OpenXML Excel sablon" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-txt-to-xml/" name="A TXT egyesítése XML-be" description="Bővíthető jelölőnyelv" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-txt-to-xps/" name="TXT és a XPS számok egyesítése" description="XML papírspecifikációk" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-txt-to-xml/" name="Egyesítse a TXT-et XML-be" description="Bővíthető jelölőnyelv" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-txt-to-xps/" name="TXT és a XPS számok egyesítése" description="XML papír specifikációk" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-txt-to-json/" name="TXT és a JSON számok egyesítése" description="JavaScript objektum jelölés" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-txt-to-jpeg/" name="TXT és a JPEG számok egyesítése" description="JPEG Kép" >}}
 

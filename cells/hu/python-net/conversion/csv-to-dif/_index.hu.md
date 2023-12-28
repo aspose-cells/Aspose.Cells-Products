@@ -1,7 +1,7 @@
 ---
-title: Python CSV - DIF - Online CSV - DIF Átalakító
-description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Ingyenes online Python A CSV konvertálása DIF mentési formátumra. Python CSV - DIF formátum. Mentse a CSV számot a DIF Python számra.
-keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python CSV to DIF saveformat., Free Online CSV to DIF Python., Python Convert CSV to DIF]
+title: Python CSV - DIF - CSV - DIF Átalakító
+description: Aspose Excel. A CSV-es számot DIF-re gyorsan és egyszerűen a Aspose.Cells-es számmal alakíthatja át. Python CSV-DIF-re. 13481 a Python számon.
+keywords: [Aspose Excel., Python Aspose.Cells., Convert CSV to DIF in Python., Save CSV to DIF using Python., Python CSV to DIF saveformat., CSV to DIF Converter., Python Save CSV as DIF]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Konvertálja a CSV-et DIF-re Python-ben" h2="Nagy sebességű Python-es könyvtár a CSV-es szám DIF-es konvertálásához. Használja a API-es excel-konverziónkat magas szintű, platformfüggetlen szoftver fejlesztésére a Python-ben." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="DIF" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,12 +12,12 @@ keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python CSV
 
 {{% blocks/products/pf/agp/content h2="Konvertálja a CSV-et DIF-re Python-ben" %}}
 
- Hogyan alakíthatom át a CSV-et DIF-re? A Aspose.Cells for Python-es számmal a NET könyvtáron keresztül könnyedén konvertálhatja a CSV-et DIF-re programozottan néhány sor kóddal.[Aspose.Cells for Python a NET számon keresztül](https://pypi.org/project/aspose-cells-python/)képes többplatformos alkalmazásokat létrehozni, módosítani, konvertálni, renderelni és kinyomtatni az összes Excel fájlt. Python Excel API nem csak a táblázatformátumok között konvertál, hanem Excel fájlokat is képes megjeleníteni képként, PDF, HTML, ODS, CSV, CSV, CSV, CSV, CSV, CSV, SVG, és így tovább, SVG P, 8 PT a választás,3,8 ipari szabvány szerinti dokumentumok cseréjére formátumok.
+ Hogyan alakíthatom át a CSV-et DIF-re? A Aspose.Cells for Python-es számmal a NET könyvtáron keresztül könnyedén konvertálhatja a CSV-et DIF-re programozottan néhány sor kóddal.[Aspose.Cells for Python a NET számon keresztül](https://pypi.org/project/aspose-cells-python/)képes többplatformos alkalmazásokat létrehozni, módosítani, konvertálni, renderelni és kinyomtatni az összes Excel fájlt. Python Az Excel API nemcsak a táblázatformátumok között konvertál, hanem Excel-fájlokat is képes megjeleníteni képként, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT és egyebekként, így tökéletes választás a szabványos formátumú dokumentumok cseréjéhez.
 
 {{% /blocks/products/pf/agp/content %}}
 
 
-{{% blocks/products/pf/agp/content h2="Takarítson meg CSV-DIF számot a Python számon online ingyen" %}}
+{{% blocks/products/pf/agp/content h2="Mentse a CSV-DIF számot a Python-es számon" %}}
 
 következő példa bemutatja, hogyan lehet a CSV-et DIF-re konvertálni a Python via NET-ben.
 {{% blocks/products/pf/agp/text %}}
@@ -28,7 +28,7 @@ Kövesse az egyszerű lépéseket a CSV DIF-re konvertálásához. Töltse fel a
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Ingyenes alkalmazás és mintakód a CSV DIF online konvertálásához" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="csv" outformat="dif" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Mintakód a CSV DIF-re konvertálásához" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="csv" outformat="dif" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="Hogyan lehet CSV-et DIF-re konvertálni" %}}
 
@@ -52,7 +52,7 @@ A CSV fájlt programozottan DIF-re kell konvertálni? A Python fejlesztők néh�
 A Python-es csomagjainkat PyPi-tárolókban tároljuk.
 
 {{% blocks/products/pf/agp/text %}}
-Telepítés: Aspose.Cells for Python innen<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , használja a parancsot a következőképpen:<code>$ pip install aspose-cells-python</code>.
+ Telepítés: Aspose.Cells for Python innen<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , használja a parancsot a következőképpen:<code>$ pip install aspose-cells-python</code>.
 {{% /blocks/products/pf/agp/text %}}
 
 {{% blocks/products/pf/agp/text %}}
@@ -100,7 +100,7 @@ Telepítés: Aspose.Cells for Python innen<a href="https://pypi.org/project/aspo
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/csv-to-xltm/" name="CSV-XLTM" description="Excel-makró-kompatibilis sablon" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/csv-to-xltx/" name="CSV-XLTX" description="Office OpenXML Excel sablon" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/csv-to-xml/" name="CSV XML-RE" description="Bővíthető jelölőnyelv" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/csv-to-xps/" name="CSV-XPS" description="XML papírspecifikációk" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/csv-to-xps/" name="CSV-XPS" description="XML papír specifikációk" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/csv-to-json/" name="CSV-JSON" description="JavaScript objektum jelölés" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}

@@ -1,7 +1,8 @@
 ---
-title: Védje és zárja ODS via Java dokumentumot
+title:  Védje és zárja ODS via Java dokumentumot
 weight: 6360
 description: Java mintakód a ODS fájl zárolásához jelszóval a Java futásidejű környezet JSP/JSF alkalmazásokhoz és asztali alkalmazásokhoz.
+keywords: [Java Aspose.Cells., Java Lock ODS files., Java How to Protect and lock ODS document., Java Protect ODS files., Encrypt ODS Files using Java]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="ODS via Java fájlok titkosítása" h2="Jelszóvédett Excel-táblázatok, beleértve a ODS formátumot a .NET könyvtár használatával." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="ODS" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="ODS" >}}
@@ -49,7 +50,7 @@ description: Java mintakód a ODS fájl zárolásához jelszóval a Java futási
 
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
-{{% blocks/products/pf/agp/feature-section-col title="A ODS via Java számú fájlok védelmének lépései" %}}
+{{% blocks/products/pf/agp/feature-section-col title="ODS via Java számú fájlok védelmének lépései" %}}
 
 {{% blocks/products/pf/agp/text %}}
 

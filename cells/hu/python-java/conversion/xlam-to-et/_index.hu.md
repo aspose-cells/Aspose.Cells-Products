@@ -12,7 +12,7 @@ keywords: [Aspose Excel., Python Aspose.Cells., Python XLAM to ET saveformat., F
 
 {{% blocks/products/pf/agp/content h2="Konvertálja a XLAM-et ET-re a Python használatával" %}}
 
- Hogyan konvertálhatom át a XLAM-et ET-re? A Aspose.Cells for Python könyvtárral könnyedén konvertálhatja a XLAM-et ET-vé, néhány sornyi kóddal programozottan.[Aspose.Cells for Python](https://pypi.org/project/aspose-cells)képes többplatformos alkalmazásokat létrehozni, módosítani, konvertálni, renderelni és kinyomtatni az összes Excel fájlt. Python Excel API nem csak a táblázatformátumok között konvertál, hanem Excel fájlokat is képes megjeleníteni képként, PDF, HTML, ODS, CSV, CSV, CSV, CSV, CSV, CSV, SVG, és így tovább, SVG P, 8 PT a választás,3,8 ipari szabvány szerinti dokumentumok cseréjére formátumok.
+ Hogyan konvertálhatom át a XLAM-et ET-re? A Aspose.Cells for Python könyvtárral könnyedén konvertálhatja a XLAM-et ET-vé, néhány sornyi kóddal programozottan.[Aspose.Cells for Python](https://pypi.org/project/aspose-cells)képes többplatformos alkalmazásokat létrehozni, módosítani, konvertálni, renderelni és kinyomtatni az összes Excel fájlt. Python Az Excel API nemcsak a táblázatformátumok között konvertál, hanem Excel-fájlokat is képes megjeleníteni képként, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT és egyebekként, így tökéletes választás a szabványos formátumú dokumentumok cseréjéhez.
  
 {{% /blocks/products/pf/agp/content %}}
 
@@ -63,12 +63,12 @@ Három lehetőség közül választhat a „Aspose.Cells for Python via Java” 
 
 {{% blocks/products/pf/agp/text %}}
 
-Aspose.Cells for Python via Java platformfüggetlen API, és bármilyen platformon használható (Windows, Linux és MacOS), csak győződjön meg arról, hogy a rendszer Java 1.8 vagy újabb[Python](https://www.python.org/downloads/) 3,5 vagy magasabb.
+ Aspose.Cells for Python via Java platformfüggetlen API, és bármilyen platformon használható (Windows, Linux és MacOS), csak győződjön meg arról, hogy a rendszer Java 1.8 vagy újabb[Python](https://www.python.org/downloads/) 3,5 vagy magasabb.
  
 {{% /blocks/products/pf/agp/text %}}
 
 -  Telepítse a Java-et, és adja hozzá a PATH környezeti változóhoz, például:<code>PATH=C:\Program Files\Java\jdk1.8.0_131;</code>.
-- Telepítés: Aspose.Cells for Python innen<a href="https://pypi.org/project/aspose-cells/">pypi</a> , használja a parancsot a következőképpen:<code>$ pip install aspose-cells</code>.
+-  Telepítés: Aspose.Cells for Python innen<a href="https://pypi.org/project/aspose-cells/">pypi</a> , használja a parancsot a következőképpen:<code>$ pip install aspose-cells</code>.
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -96,7 +96,7 @@ Aspose.Cells for Python via Java platformfüggetlen API, és bármilyen platform
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xlam-to-xltm/" name="XLAM-XLTM" description="Excel-makró-kompatibilis sablon" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xlam-to-xltx/" name="XLAM-XLTX" description="Office OpenXML Excel sablon" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xlam-to-xml/" name="XLAM XML-RE" description="Bővíthető jelölőnyelv" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xlam-to-xps/" name="XLAM-XPS" description="XML papírspecifikációk" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xlam-to-xps/" name="XLAM-XPS" description="XML papír specifikációk" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xlam-to-json/" name="XLAM-JSON" description="JavaScript objektum jelölés" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}

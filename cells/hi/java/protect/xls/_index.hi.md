@@ -1,7 +1,8 @@
 ---
-title: XLS दस्तावेज़ via Java को सुरक्षित रखें और लॉक करें
+title:  XLS दस्तावेज़ via Java को सुरक्षित रखें और लॉक करें
 weight: 5070
 description: जेएसपी/जेएसएफ एप्लिकेशन और डेस्कटॉप एप्लिकेशन के लिए Java रनटाइम एनवायरमेंट पर पासवर्ड का उपयोग करके XLS फ़ाइल को लॉक करने के लिए Java नमूना कोड।
+keywords: [Java Aspose.Cells., Java Lock XLS files., Java How to Protect and lock XLS document., Java Protect XLS files., Encrypt XLS Files using Java]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="एन्क्रिप्ट करें XLS फ़ाइलें via Java" h2=".NET लाइब्रेरी का उपयोग करके XLS प्रारूप सहित एक्सेल स्प्रेडशीट को पासवर्ड से सुरक्षित करें।" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLS" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLS" >}}

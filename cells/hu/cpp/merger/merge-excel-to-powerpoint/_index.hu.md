@@ -1,8 +1,8 @@
 ---
 title: EXCEL egyesítése POWERPOINT-tal – EXCEL egyesítése POWERPOINT-tal a C++-ben
 url: /hu/cpp/merger/merge-excel-to-powerpoint/ 
-description: Aspose Excel. C++ Aspose.Cells. Ingyenes online egyesítése EXCEL POWERPOINT mentési formátumba. C++ Az EXCEL és a POWERPOINT formátum kombinálása. Egyesítse az EXCEL-t POWERPOINT-tal a C++-ben. EXCEL-egyesítés.
-keywords: [Aspose Excel., C++ Aspose.Cells., Merge EXCEL to POWERPOINT in C++., Free Online C++ Merge EXCEL to powerpoint., C++ Combine EXCEL to POWERPOINT Online for Free., EXCEL Merge]
+description: Aspose Excel. C++ Aspose.Cells. Egyesítse az EXCEL-t POWERPOINT mentési formátumba. C++ Az EXCEL és a POWERPOINT formátum kombinálása. Egyesítse az EXCEL-t POWERPOINT-tal a C++-ben. EXCEL-egyesítés.
+keywords: [Aspose Excel., C++ Aspose.Cells., Merge EXCEL to POWERPOINT in C++., C++ Merge EXCEL to powerpoint., C++ Combine EXCEL to POWERPOINT., EXCEL Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Egyesítse az EXCEL-t a POWERPOINT-tal a C++-es számon keresztül" h2="Nagy sebességű C++ könyvtár az EXCEL és a POWERPOINT egyesítéséhez. Használja a API-es excel-konverziónkat magas szintű, platformfüggetlen szoftverek fejlesztéséhez a C++-ben. Ez egy professzionális szoftvermegoldás a Excel, CSV, OpenOffice, PDF, HTML, image és sok más excel formátum importálásához és exportálásához." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" sourceAdditionalConversionTag="EXCEL" additionalConversionTag="POWERPOINT" pfName="Aspose.Cells" subTitlepfName="for C++" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., C++ Aspose.Cells., Merge EXCEL to POWERPOINT in C++., 
 
 {{% blocks/products/pf/agp/content h2="Egyesítse az EXCEL-t POWERPOINT-tal a C++ használatával" %}}
 
- Hogyan egyesíthetem az EXCEL-t a POWERPOINT-tal? A Aspose.Cells for C++ könyvtárral egyszerűen egyesítheti az EXCEL-t a POWERPOINT programozással néhány sornyi kóddal.[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) képes többplatformos alkalmazásokat létrehozni, módosítani, konvertálni, renderelni és kinyomtatni az összes Excel fájlt. C++ Excel API nem csak a táblázatformátumok között konvertál, hanem Excel fájlokat is képes megjeleníteni képként, PDF, HTML, ODS, CSV, CSV, CSV, CSV, CSV, CSV, SVG, és így tovább, SVG P, 8 PT a választás,3,8 ipari szabvány szerinti dokumentumok cseréjére formátumok. A legújabb verziót közvetlenül letöltheti, csak nyissa meg[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) csomagkezelő, keresse meg a Aspose.Cells.Cpp címet, és telepítse. A következő parancsot is használhatja a Package Manager konzolból.
+ Hogyan egyesíthetem az EXCEL-t a POWERPOINT-tal? A Aspose.Cells for C++ könyvtárral egyszerűen egyesítheti az EXCEL-t a POWERPOINT programozással néhány sornyi kóddal.[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) képes többplatformos alkalmazásokat létrehozni, módosítani, konvertálni, renderelni és kinyomtatni az összes Excel fájlt. C++ Az Excel API nemcsak a táblázatformátumok között konvertál, hanem Excel-fájlokat is képes megjeleníteni képként, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT és egyebekként, így tökéletes választás a szabványos formátumú dokumentumok cseréjéhez. A legújabb verziót közvetlenül letöltheti, csak nyissa meg[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) csomagkezelő, keresse meg a Aspose.Cells.Cpp címet, és telepítse. A következő parancsot is használhatja a Package Manager konzolból.
 
 {{% blocks/products/pf/agp/code-block title="Parancs" offSpacer="true" %}}
 
@@ -26,9 +26,9 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Ingyenesen egyesítse az EXCEL-t a POWERPOINT-tal a C++-es számon" %}}
+{{% blocks/products/pf/agp/content h2="Egyesítse az EXCEL-t a POWERPOINT-tal a C++-es számban" %}}
 
-következő példa bemutatja, hogyan lehet egyesíteni az EXCEL-t a POWERPOINT-tal a Aspose.Cells for C++-ben.
+A következő példa bemutatja, hogyan lehet egyesíteni az EXCEL-t a POWERPOINT-tal a Aspose.Cells for C++-ben.
 {{% blocks/products/pf/agp/text %}}
 
 Kövesse az egyszerű lépéseket az EXCEL és a POWERPOINT egyesítéséhez. Töltse fel fájljait, hívja meg a Workbook.Combine metódust a fájlok egyesítéséhez, majd mentse el POWERPOINT fájlba. Ha kódot fejleszt a C++-ben, ez egyszerűbb lesz, mint amilyennek hangzik. Lásd a C++-es példát, amely egyesíti az EXCEL-t a POWERPOINT-tal.
@@ -37,13 +37,13 @@ Kövesse az egyszerű lépéseket az EXCEL és a POWERPOINT egyesítéséhez. T�
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Ingyenes online az EXCEL és a POWERPOINT egyesítése a C++ számon" InputFormat="xlsx" InputFormat2="pptx" outformat="pptx" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="cpp" %}}
+{{% cells-merger title="Mintakód az EXCEL és a POWERPOINT egyesítéséhez a C++-ben" InputFormat="xlsx" InputFormat2="pptx" outformat="pptx" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="cpp" %}}
 
 {{% blocks/products/pf/agp/content h2="Az EXCEL és a POWERPOINT egyesítése a C++ számon keresztül" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- Automatikusan egyesítenie kell az EXCEL-t a POWERPOINT-tal? Egy alapdokumentum, amely összeolvad és összefűződik[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) Az API-k néhány sornyi kóddal elkészíthetők.
+Automatikusan egyesítenie kell az EXCEL-t a POWERPOINT-tal? Egy alapdokumentum, amely összeolvad és összefűződik[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) Az API-k néhány sornyi kóddal elkészíthetők.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -107,7 +107,6 @@ API-jaink minden nagyobb platformon és operációs rendszeren támogatottak. Mi
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-excel-to-pdf/" name="Egyesítse az EXCEL-t a PDF-gyel" description="Hordozható dokumentum formátum" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-excel-to-png/" name="Egyesítse az EXCEL-t a PNG-gyel" description="Hordozható hálózati grafika" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-excel-to-svg/" name="Egyesítse az EXCEL-t a SVG-gyel" description="Skálázható vektorgrafika" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-excel-to-tiff/" name="Egyesítse az EXCEL-t a TIFF-gyel" description="Címkézett képformátum" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-excel-to-tsv/" name="Egyesítse az EXCEL-t a TSV-gyel" description="Tabulátorral elválasztott értékek" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-excel-to-txt/" name="Egyesítse az EXCEL-t a TXT-gyel" description="Szöveges dokumentum" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-excel-to-xls/" name="Egyesítse az EXCEL-t a XLS-gyel" description="Excel bináris formátum" >}}
@@ -118,7 +117,7 @@ API-jaink minden nagyobb platformon és operációs rendszeren támogatottak. Mi
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-excel-to-xltm/" name="Egyesítse az EXCEL-t a XLTM-gyel" description="Excel-makró-kompatibilis sablon" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-excel-to-xltx/" name="Egyesítse az EXCEL-t a XLTX-gyel" description="Office OpenXML Excel sablon" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-excel-to-xml/" name="Az EXCEL egyesítése XML-lel" description="Bővíthető jelölőnyelv" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-excel-to-xps/" name="Egyesítse az EXCEL-t a XPS-gyel" description="XML papírspecifikációk" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-excel-to-xps/" name="Egyesítse az EXCEL-t a XPS-gyel" description="XML papír specifikációk" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-excel-to-json/" name="Egyesítse az EXCEL-t a JSON-gyel" description="JavaScript objektum jelölés" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-excel-to-jpeg/" name="Egyesítse az EXCEL-t a JPEG-gyel" description="JPEG Kép" >}}
 

@@ -1,8 +1,8 @@
 ---
 title: A XLS egyesítése a HTM-mel – a XLS-es szám egyesítése a HTM-mel a Python-ben
 url: /hu/python-net/merger/merge-xls-to-htm/ 
-description: Aspose Excel. Python Aspose.Cells. Ingyenes online egyesítés XLS HTM mentési formátumba. Python A XLS kombinálása HTM formátumba. Egyesítse a XLS-et a HTM-mel a Python-ben. XLS Egyesítés.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge XLS to HTM in Python., Free Online Python Merge XLS to htm., Python Combine XLS to HTM Online for Free., XLS Merge]
+description: Aspose Excel. Python Aspose.Cells. A XLS egyesítése HTM mentési formátumba. Python A XLS kombinálása HTM formátumba. Egyesítse a XLS-et a HTM-mel a Python-ben. XLS Egyesítés.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge XLS to HTM in Python., Python Merge XLS to htm., Python Combine XLS to HTM., XLS Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Csatlakoztassa a XLS-es számot a HTM-hez a Python-es számon keresztül" h2="Nagy sebességű Python-es könyvtár a XLS-es szám HTM-mel való egyesítéséhez. Használja a API-es excel-konverziónkat magas szintű, platformfüggetlen szoftverek fejlesztéséhez a Python-ben. Ez egy professzionális szoftvermegoldás a Excel, CSV, OpenOffice, PDF, HTML, image és sok más excel formátum importálásához és exportálásához." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="XLS" additionalConversionTag="HTM" pfName="Aspose.Cells" subTitlepfName="for Python" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -12,12 +12,12 @@ keywords: [Aspose Excel., Python Aspose.Cells., Merge XLS to HTM in Python., Fre
 
 {{% blocks/products/pf/agp/content h2="Egyesítse a XLS-et a HTM-mel a Python-es szám használatával" %}}
 
- Hogyan egyesíthetem a XLS számot a HTM-mel? A Aspose.Cells for Python via .NET könyvtárral egyszerűen egyesítheti a XLS-et a HTM-mel, néhány sornyi kóddal.[Aspose.Cells for Python via .NET](https://pypi.org/project/aspose-cells-python)képes többplatformos alkalmazásokat létrehozni, módosítani, konvertálni, renderelni és kinyomtatni az összes Excel fájlt. Python Excel API nem csak a táblázatformátumok között konvertál, hanem Excel fájlokat is képes megjeleníteni képként, PDF, HTML, ODS, CSV, CSV, CSV, CSV, CSV, CSV, SVG, és így tovább, SVG P, 8 PT a választás,3,8 ipari szabvány szerinti dokumentumok cseréjére formátumok. A Aspose.Cells for Python via .NET számot innen telepítheti.<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , használja a parancsot a következőképpen:<code>$ pip install aspose-cells-python</code>.
+ Hogyan egyesíthetem a XLS számot a HTM-mel? A Aspose.Cells for Python via .NET könyvtárral egyszerűen egyesítheti a XLS-et a HTM-mel, néhány sornyi kóddal.[Aspose.Cells for Python via .NET](https://pypi.org/project/aspose-cells-python) képes többplatformos alkalmazásokat létrehozni, módosítani, konvertálni, renderelni és kinyomtatni az összes Excel fájlt. Python Az Excel API nemcsak a táblázatformátumok között konvertál, hanem Excel-fájlokat is képes megjeleníteni képként, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT és egyebekként, így tökéletes választás a szabványos formátumú dokumentumok cseréjéhez. Telepítheti a Aspose.Cells for Python via .NET számot innen<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , használja a parancsot a következőképpen:<code>$ pip install aspose-cells-python</code>.
 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Csatlakoztassa a XLS-es számot a HTM-hez a Python-es online ingyen" %}}
+{{% blocks/products/pf/agp/content h2="A XLS-es szám egyesítése a Python-es HTM-mel" %}}
 
 A következő példa bemutatja, hogyan egyesítheti a XLS-es számot a HTM-mel a Aspose.Cells for Python via .NET-ben.
 {{% blocks/products/pf/agp/text %}}
@@ -28,7 +28,7 @@ Kövesse az egyszerű lépéseket a XLS és a HTM egyesítéséhez. Töltse fel 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Ingyenes online a XLS egyesítéséhez a HTM-hez a Python-ben" InputFormat="xls" InputFormat2="htm" outformat="htm" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-merger title="Mintakód a XLS egyesítéséhez a Python-es HTM-hez" InputFormat="xls" InputFormat2="htm" outformat="htm" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="A XLS és a HTM egyesítése a Python számon keresztül" %}}
 
@@ -52,7 +52,7 @@ Programozottan egyesítenie kell a XLS-et a HTM-mel? Egy alapdokumentum, amely �
 A Python-es csomagjainkat PyPi-tárolókban tároljuk.
 
 {{% blocks/products/pf/agp/text %}}
-Telepítés: Aspose.Cells for Python innen<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , használja a parancsot a következőképpen:<code>$ pip install aspose-cells-python</code>.
+ Telepítés: Aspose.Cells for Python innen<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , használja a parancsot a következőképpen:<code>$ pip install aspose-cells-python</code>.
 {{% /blocks/products/pf/agp/text %}}
 
 {{% blocks/products/pf/agp/text %}}
@@ -72,7 +72,7 @@ API-jaink minden nagyobb platformon és operációs rendszeren támogatottak. Mi
 {{% /blocks/products/pf/agp/text %}}
 
 -  Telepítés[Python](https://www.python.org/downloads/) 3,7 vagy magasabb.
-- Telepítés: Aspose.Cells for Python innen<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , használja a parancsot a következőképpen:<code>$ pip install aspose-cells-python</code>.
+-  Telepítés: Aspose.Cells for Python innen<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , használja a parancsot a következőképpen:<code>$ pip install aspose-cells-python</code>.
 
 
 {{% /blocks/products/pf/agp/content %}}
@@ -84,7 +84,7 @@ API-jaink minden nagyobb platformon és operációs rendszeren támogatottak. Mi
     {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="Egyéb támogatott egyesítő formátumok" subTitle="A Python használatával az xl-eket sok más fájlformátumhoz is egyesítheti, beleértve." >}}
+{{< blocks/products/pf/agp/other-supported-section title="Egyéb támogatott egyesítő formátumok" subTitle="Python használatával az xl-eket sok más fájlformátumhoz is egyesítheti, beleértve." >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-xls-to-docx/" name="XLS és a DOCX számok egyesítése" description="Microsoft Word dokumentum" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-xls-to-sql/" name="A XLS egyesítése SQL-be" description="Strukturált lekérdezési nyelv" >}}
@@ -108,8 +108,8 @@ API-jaink minden nagyobb platformon és operációs rendszeren támogatottak. Mi
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-xls-to-xlt/" name="XLS és a XLT számok egyesítése" description="Microsoft Excel-sablon" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-xls-to-xltm/" name="XLS és a XLTM számok egyesítése" description="Excel-makró-kompatibilis sablon" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-xls-to-xltx/" name="XLS és a XLTX számok egyesítése" description="Office OpenXML Excel sablon" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-xls-to-xml/" name="A XLS egyesítése XML-be" description="Bővíthető jelölőnyelv" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-xls-to-xps/" name="XLS és a XPS számok egyesítése" description="XML papírspecifikációk" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-xls-to-xml/" name="Egyesítse a XLS-et XML-be" description="Bővíthető jelölőnyelv" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-xls-to-xps/" name="XLS és a XPS számok egyesítése" description="XML papír specifikációk" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-xls-to-json/" name="XLS és a JSON számok egyesítése" description="JavaScript objektum jelölés" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-xls-to-jpeg/" name="XLS és a JPEG számok egyesítése" description="JPEG Kép" >}}
 

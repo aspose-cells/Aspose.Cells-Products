@@ -1,6 +1,7 @@
 ---
 title: Python via Java का उपयोग करके एक्सेल में आकृतियाँ सम्मिलित करें
-description: Python via Java स्रोत कोड बताते हैं कि Aspose.Cells for Python via Java लाइब्रेरी का उपयोग करके Microsoft एक्सेल फाइलों में एक आकृति कैसे सम्मिलित करें।
+description:  Python via Java स्रोत कोड बताते हैं कि Aspose.Cells for Python via Java लाइब्रेरी का उपयोग करके Microsoft एक्सेल फाइलों में एक आकृति कैसे सम्मिलित करें।
+keywords: [Python Aspose.Cells., Python add shapes., Python insert shapes., Python create shapes]
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
 {{< blocks/products/pf/i18n/feature-page-header h1="Microsoft<sup>&reg;</sup> Python via Java का उपयोग करके एक्सेल आकार प्रविष्टि" h2="एक्सेल दस्तावेज़ बनाएं और जावा आधारित अनुप्रयोगों के माध्यम से पायथन में सर्वर-साइड एपीआई का उपयोग करके आकृतियाँ डालें।" >}}
@@ -12,7 +13,7 @@ description: Python via Java स्रोत कोड बताते हैं
 
 {{% blocks/products/pf/feature-page-section h2="Excel फ़ाइल में आकृतियाँ सम्मिलित करें" %}}
 
- इन एपीआई का उपयोग करके आकृतियाँ सम्मिलित करना सरल है। प्रक्रिया है, बनाएँ[कार्यपुस्तिका कक्षा](https://reference.aspose.com/cells/python-java/asposecells.api/Workbook) ऑब्जेक्ट करें और उसकी अनुक्रमणिका प्रदान करके पहली वर्कशीट या संबंधित शीट का चयन करें। का उपयोग करके वर्कशीट में एक आकृति जोड़ें[आकारसंग्रह](https://reference.aspose.com/cells/python-java/asposecells.api/ShapeCollection)की विधि जोड़ें.
+ इन एपीआई का उपयोग करके आकृतियाँ सम्मिलित करना सरल है। प्रक्रिया है, बनाएँ[कार्यपुस्तिका कक्षा](https://reference.aspose.com/cells/python-java/asposecells.api/Workbook)ऑब्जेक्ट करें और उसकी अनुक्रमणिका प्रदान करके पहली वर्कशीट या संबंधित शीट का चयन करें। का उपयोग करके वर्कशीट में एक आकृति जोड़ें[आकारसंग्रह](https://reference.aspose.com/cells/python-java/asposecells.api/ShapeCollection)की विधि जोड़ें.
 
 {{% blocks/products/pf/feature-page-code h3="Python via Java एक्सेल में आकार सम्मिलित करने के लिए कोड" %}}
 

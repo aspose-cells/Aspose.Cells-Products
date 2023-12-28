@@ -2,6 +2,7 @@
 title: " Oldja fel a ODS számú dokumentumot: via Java"
 weight: 5080
 description: Java mintakód a jelszóval védett ODS fájl feloldásához a Java futásidejű környezet JSP/JSF alkalmazásokhoz és asztali alkalmazásokhoz.
+keywords: [Java Aspose.Cells., Java unlock ODS files., Java how to unlock ODS document., Java unprotect ODS files., remove protection from ODS files., decrypt ODS Files using Java]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Oldja fel a ODS Fájlok via Java számot" h2="Távolítsa el a védelmet az Excel-táblázatokról, beleértve a ODS fájlt a Java könyvtár használatával." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="ODS" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="ODS" >}}
@@ -73,7 +74,7 @@ description: Java mintakód a jelszóval védett ODS fájl feloldásához a Java
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Oldja fel a ODS fájlok zárolását a C# számon keresztül" offSpacer="" %}}
+{{% blocks/products/pf/agp/code-block title="Oldja fel a ODS Fájlok via Java számot" offSpacer="" %}}
 
 ```cs
 

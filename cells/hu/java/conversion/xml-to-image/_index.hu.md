@@ -1,7 +1,7 @@
 ---
-title: Java XML-ből IMAGE-be - Online XML-ből IMAGE konvertáló
-description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Ingyenes online Java XML konvertálása IMAGE mentési formátumba. Java XML-ből IMAGE formátumba. XML mentése az IMAGE Java-es számra.
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java XML to IMAGE saveformat., Free Online XML to IMAGE Java., Java Convert XML to IMAGE]
+title: Java XML-ből IMAGE-ba - XML-ből IMAGE konvertáló
+description: Aspose Excel. A Aspose.Cells segítségével gyorsan és egyszerűen konvertálhat XML-t IMAGE formátumba. Java XML-ből IMAGE. Java XML mentése az IMAGE-ba. Mentse az XML-t KÉP formátumban a Java használatával.
+keywords: [Aspose Excel., Java Aspose.Cells., Convert XML to IMAGE in Java., Save XML to IMAGE using Java., Java XML to IMAGE saveformat., XML to IMAGE Converter., Java Save XML as IMAGE]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Konvertálja az XML-t IMAGE-re a Java-ben" h2="Nagy sebességű Java könyvtár az XML IMAGE formátumba konvertálásához. Ez egy professzionális szoftvermegoldás XML, IMAGE és sok más formátum importálásához és exportálásához a Java szám használatával." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="IMAGE" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java XML to IM
 
 {{% blocks/products/pf/agp/content h2="Konvertálja az XML-t IMAGE-vé a Java használatával" %}}
 
- Hogyan konvertálhatom az XML-t IMAGE-vé? A Aspose.Cells for Java könyvtárral egyszerűen konvertálhatja az XML-t IMAGE formátumba programozottan néhány sornyi kóddal.[Aspose.Cells for Java](https://products.aspose.com/cells/java) képes többplatformos alkalmazásokat létrehozni, módosítani, konvertálni, renderelni és kinyomtatni az összes Excel fájlt. Java Excel API nem csak a táblázatformátumok között konvertál, hanem Excel fájlokat is képes megjeleníteni képként, PDF, HTML, ODS, CSV, CSV, CSV, CSV, CSV, CSV, SVG, és így tovább, SVG P, 8 PT a választás,3,8 ipari szabvány szerinti dokumentumok cseréjére formátumok. A legújabb verziót közvetlenül a webhelyről töltheti le[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) és telepítse a Maven alapú projekten belül a következő konfigurációk hozzáadásával a pom.xml fájlhoz.
+ Hogyan konvertálhatom az XML-t IMAGE-vé? A Aspose.Cells for Java könyvtárral egyszerűen konvertálhatja az XML-t IMAGE formátumba programozottan néhány sornyi kóddal.[Aspose.Cells for Java](https://products.aspose.com/cells/java)képes többplatformos alkalmazásokat létrehozni, módosítani, konvertálni, renderelni és kinyomtatni az összes Excel fájlt. Java Az Excel API nemcsak a táblázatformátumok között konvertál, hanem Excel-fájlokat is képes megjeleníteni képként, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT és egyebekként, így tökéletes választás a szabványos formátumú dokumentumok cseréjéhez. A legújabb verziót közvetlenül a webhelyről töltheti le[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) és telepítse a Maven alapú projekten belül a következő konfigurációk hozzáadásával a pom.xml fájlhoz.
 
 {{% blocks/products/pf/agp/code-block title="Adattár" offSpacer="true" %}}
 
@@ -45,7 +45,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java XML to IM
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Mentse el az XML-t az IMAGE formátumba a Java-es online ingyen" %}}
+{{% blocks/products/pf/agp/content h2="Mentse az XML-t az IMAGE fájlba a Java címen" %}}
 
 A következő példa bemutatja, hogyan lehet XML-t IMAGE-vé konvertálni a Java-ben.
 {{% blocks/products/pf/agp/text %}}
@@ -56,7 +56,7 @@ Kövesse az egyszerű lépéseket az XML IMAGE formátumba konvertálásához. T
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Ingyenes alkalmazás és mintakód az XML IMAGE Online konvertálásához" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xml" outformat="png" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Mintakód az XML-ből IMAGE formátumba konvertálására" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xml" outformat="png" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="XML konvertálása IMAGE via Java-re" %}}
 
@@ -70,7 +70,7 @@ Az XML fájlokat programozottan IMAGE formátumba kell konvertálni? A Java fejl
 1.  Adjon hozzá egy könyvtári hivatkozást (importálja a könyvtárat) a Java projekthez.
 1.  Töltse be az XML-fájlt a Workbook osztály egy példányával.
 1.  Konvertálja az XML-t IMAGE-vé a Workbook.save metódus meghívásával.
-1.  Szerezze meg az XML konvertálási eredményét IMAGE-vé.
+1. Szerezze meg az XML konvertálási eredményét IMAGE-vé.
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -125,7 +125,7 @@ Az XML fájlokat programozottan IMAGE formátumba kell konvertálni? A Java fejl
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/xml-to-xltm/" name="XML a XLTM számra" description="Excel-makró-kompatibilis sablon" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/xml-to-xltx/" name="XML a XLTX számra" description="Office OpenXML Excel sablon" >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/xml-to-xps/" name="XML a XPS számra" description="XML papírspecifikációk" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/xml-to-xps/" name="XML a XPS számra" description="XML papír specifikációk" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/xml-to-json/" name="XML a JSON számra" description="JavaScript objektum jelölés" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/xml-to-jpeg/" name="XML a JPEG számra" description="JPEG Kép" >}}
 

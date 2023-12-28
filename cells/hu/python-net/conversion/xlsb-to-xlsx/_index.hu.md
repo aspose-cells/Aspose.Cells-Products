@@ -1,7 +1,7 @@
 ---
-title: Python XLSB - XLSX - Online XLSB - XLSX Átalakító
-description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Ingyenes online Python A XLSB konvertálása XLSX mentési formátumra. Python XLSB - XLSX formátum. Mentse a XLSB számot a XLSX Python számra.
-keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python XLSB to XLSX saveformat., Free Online XLSB to XLSX Python., Python Convert XLSB to XLSX]
+title: Python XLSB - XLSX - XLSB - XLSX Átalakító
+description: Aspose Excel. A XLSB-es számot XLSX-re gyorsan és egyszerűen a Aspose.Cells-es számmal alakíthatja át. Python XLSB-XLSX-re. 13481 a Python számon.
+keywords: [Aspose Excel., Python Aspose.Cells., Convert XLSB to XLSX in Python., Save XLSB to XLSX using Python., Python XLSB to XLSX saveformat., XLSB to XLSX Converter., Python Save XLSB as XLSX]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Konvertálja a XLSB-et XLSX-re Python-ben" h2="Nagy sebességű Python-es könyvtár a XLSB-es szám XLSX-es konvertálásához. Használja a API-es excel-konverziónkat magas szintű, platformfüggetlen szoftver fejlesztésére a Python-ben." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSX" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,12 +12,12 @@ keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python XLS
 
 {{% blocks/products/pf/agp/content h2="Konvertálja a XLSB-et XLSX-re Python-ben" %}}
 
- Hogyan alakíthatom át a XLSB-et XLSX-re? A Aspose.Cells for Python-es számmal a NET könyvtáron keresztül könnyedén konvertálhatja a XLSB-et XLSX-re programozottan néhány sor kóddal.[Aspose.Cells for Python a NET számon keresztül](https://pypi.org/project/aspose-cells-python/)képes többplatformos alkalmazásokat létrehozni, módosítani, konvertálni, renderelni és kinyomtatni az összes Excel fájlt. Python Excel API nem csak a táblázatformátumok között konvertál, hanem Excel fájlokat is képes megjeleníteni képként, PDF, HTML, ODS, CSV, CSV, CSV, CSV, CSV, CSV, SVG, és így tovább, SVG P, 8 PT a választás,3,8 ipari szabvány szerinti dokumentumok cseréjére formátumok.
+ Hogyan alakíthatom át a XLSB-et XLSX-re? A Aspose.Cells for Python-es számmal a NET könyvtáron keresztül könnyedén konvertálhatja a XLSB-et XLSX-re programozottan néhány sor kóddal.[Aspose.Cells for Python a NET számon keresztül](https://pypi.org/project/aspose-cells-python/)képes többplatformos alkalmazásokat létrehozni, módosítani, konvertálni, renderelni és kinyomtatni az összes Excel fájlt. Python Az Excel API nemcsak a táblázatformátumok között konvertál, hanem Excel-fájlokat is képes megjeleníteni képként, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT és egyebekként, így tökéletes választás a szabványos formátumú dokumentumok cseréjéhez.
 
 {{% /blocks/products/pf/agp/content %}}
 
 
-{{% blocks/products/pf/agp/content h2="Takarítson meg XLSB-XLSX számot a Python számon online ingyen" %}}
+{{% blocks/products/pf/agp/content h2="Mentse a XLSB-XLSX számot a Python-es számon" %}}
 
 következő példa bemutatja, hogyan lehet a XLSB-et XLSX-re konvertálni a Python via NET-ben.
 {{% blocks/products/pf/agp/text %}}
@@ -28,7 +28,7 @@ Kövesse az egyszerű lépéseket a XLSB XLSX-re konvertálásához. Töltse fel
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Ingyenes alkalmazás és mintakód a XLSB XLSX online konvertálásához" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsb" outformat="xlsx" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Mintakód a XLSB XLSX-re konvertálásához" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsb" outformat="xlsx" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="Hogyan lehet XLSB-et XLSX-re konvertálni" %}}
 
@@ -52,7 +52,7 @@ A XLSB fájlt programozottan XLSX-re kell konvertálni? A Python fejlesztők né
 A Python-es csomagjainkat PyPi-tárolókban tároljuk.
 
 {{% blocks/products/pf/agp/text %}}
-Telepítés: Aspose.Cells for Python innen<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , használja a parancsot a következőképpen:<code>$ pip install aspose-cells-python</code>.
+ Telepítés: Aspose.Cells for Python innen<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , használja a parancsot a következőképpen:<code>$ pip install aspose-cells-python</code>.
 {{% /blocks/products/pf/agp/text %}}
 
 {{% blocks/products/pf/agp/text %}}
@@ -100,7 +100,7 @@ Telepítés: Aspose.Cells for Python innen<a href="https://pypi.org/project/aspo
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlsb-to-xltm/" name="XLSB-XLTM" description="Excel-makró-kompatibilis sablon" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlsb-to-xltx/" name="XLSB-XLTX" description="Office OpenXML Excel sablon" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlsb-to-xml/" name="XLSB XML-RE" description="Bővíthető jelölőnyelv" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlsb-to-xps/" name="XLSB-XPS" description="XML papírspecifikációk" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlsb-to-xps/" name="XLSB-XPS" description="XML papír specifikációk" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlsb-to-json/" name="XLSB-JSON" description="JavaScript objektum jelölés" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}

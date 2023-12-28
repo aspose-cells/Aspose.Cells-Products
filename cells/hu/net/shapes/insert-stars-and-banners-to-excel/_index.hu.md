@@ -1,7 +1,8 @@
 ---
 title:  Helyezze be a csillagot/szalaghirdetést az Excel via .NET-be
 weight: 381
-description: C# forráskód a Star/Banner beillesztéséhez az Excelbe a .NET Framework, .NET Core, Mono vagy Xamarin platformokon.
+description: C# Mintakód a csillag/szalaghirdetés Excelbe való hozzáadásához vagy beszúrásához a .NET könyvtár használatával. Ezzel a kóddal hozzon létre csillagot/szalaghirdetést az MS Excelben a VB.NET, Asp.NET vagy bármely .NET alapú alkalmazáson belül.
+keywords: [C# Aspose.Cells., c# add Star/Banner., c# insert Star/Banner., c# create Star/Banner]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Helyezze be a csillagot/szalaghirdetést az Excel via .NET-be" h2="Szúrja be a csillagot/szalaghirdetést a Aspose.Cells\' API használatával szoftverek, például Microsoft vagy Open Office, Adobe PDF stb. nélkül." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="XLSX" >}}
@@ -41,9 +42,9 @@ Szüksége van az aspose.cells.dll fájlra a következő munkafolyamat kipróbá
 
 {{% /blocks/products/pf/agp/text %}}
 
-Munkafüzet objektum példányosítása. (vagy->Töltse be a XLSX fájlt a teljes elérési úttal.)
++ Munkafüzet objektum példányosítása. (vagy->Töltse be a XLSX fájlt a teljes elérési úttal.)
 + Válassza ki a munkalapot az indexén keresztül.
- + Használja a[módszer hozzáadása](https://reference.aspose.com/cells/net/aspose.cells.drawing/shapecollection/addautoshape) Csillag/Szalaghirdetés beszúrásához a kiválasztott munkalapba
+ + Használja a[módszer hozzáadása](https://reference.aspose.com/cells/net/aspose.cells.drawing/shapecollection/addautoshape)Csillag/Szalaghirdetés beszúrásához a kiválasztott munkalapba
 + Mentse a munkafüzetet XLSX formátumban.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
@@ -135,7 +136,7 @@ Az alábbi mintakód bemutatja, hogyan kell beilleszteni a „szalag: ívelt és
    <div class="col-lg-4">
     <img src="/cells/net/shapes/insert-stars-and-banners-to-excel/star_16_points.png" align="left" width="28" height="28">
     <p class="col-lg-10">
-AutoShapeType.Star16
+ AutoShapeType.Star16
     </p>
    </div>
    <div class="col-lg-4">
@@ -211,7 +212,7 @@ AutoShapeType.Star16
 
 {{% blocks/products/pf/agp/content h2="Körülbelül Aspose.Cells for .NET API" %}}
 
- Aspose.Cells API használható Microsoft Excel formátumok létrehozására, szerkesztésére, konvertálására és renderelésére különböző formátumokba. Ezen túlmenően használható átfogó diagramok készítésére, skálázható jelentésekre és megbízható számításokra a szoftveralkalmazásokon belül. A Aspose.Cells egy önálló API, és nem igényel olyan szoftvert, mint a Microsoft vagy az OpenOffice.
+Aspose.Cells API használható Microsoft Excel formátumok létrehozására, szerkesztésére, konvertálására és renderelésére különböző formátumokba. Ezen túlmenően használható átfogó diagramok készítésére, skálázható jelentésekre és megbízható számításokra a szoftveralkalmazásokon belül. A Aspose.Cells egy önálló API, és nem igényel olyan szoftvert, mint a Microsoft vagy az OpenOffice.
 
 {{% /blocks/products/pf/agp/content %}}
 

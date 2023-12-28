@@ -1,8 +1,8 @@
 ---
 title: पीआरएन को एमएचटी में मिलाएं - Python में पीआरएन को एमएचटी में मिलाएं
 url: /hi/python-java/merger/merge-prn-to-mht/ 
-description: "Aspose एक्सेल। Python Aspose.Cells. नि:शुल्क ऑनलाइन पीआरएन को एमएचटी सेवफॉर्मेट में मर्ज करें। Python पीआरएन को एमएचटी प्रारूप में संयोजित करें। Python में पीआरएन को एमएचटी में मर्ज करें। पीआरएन मर्ज।"
-keywords: [Aspose Excel., Python Aspose.Cells., Merge PRN to MHT in Python., Free Online Python Merge PRN to mht., Python Combine PRN to MHT Online for Free., PRN Merge]
+description: Aspose एक्सेल। Python Aspose.Cells. पीआरएन को एमएचटी सेवफॉर्मेट में मर्ज करें। Python पीआरएन को एमएचटी प्रारूप में संयोजित करें। Python में पीआरएन को एमएचटी में मर्ज करें। पीआरएन मर्ज।
+keywords: [Aspose Excel., Python Aspose.Cells., Merge PRN to MHT in Python., Python Merge PRN to mht., Python Combine PRN to MHT., PRN Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Python के माध्यम से पीआरएन को एमएचटी में मर्ज करें" h2="पीआरएन को एमएचटी में विलय करने के लिए हाई-स्पीड Python लाइब्रेरी। Python में उच्च-स्तरीय, प्लेटफ़ॉर्म स्वतंत्र सॉफ़्टवेयर विकसित करने के लिए हमारे एक्सेल रूपांतरण API का उपयोग करें। यह Excel, CSV, OpenOffice, PDF, HTML, image और कई अन्य एक्सेल प्रारूपों को आयात और निर्यात करने के लिए एक पेशेवर सॉफ़्टवेयर समाधान है।" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="PRN" additionalConversionTag="MHT" pfName="Aspose.Cells" subTitlepfName="for Python" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -12,12 +12,12 @@ keywords: [Aspose Excel., Python Aspose.Cells., Merge PRN to MHT in Python., Fre
 
 {{% blocks/products/pf/agp/content h2="Python का उपयोग करके पीआरएन को एमएचटी में मर्ज करें" %}}
 
- मैं पीआरएन को एमएचटी में कैसे मर्ज करूं? Aspose.Cells for Python via Java लाइब्रेरी के साथ, आप कोड की कुछ पंक्तियों के साथ प्रोग्रामेटिक रूप से पीआरएन को एमएचटी में आसानी से मर्ज कर सकते हैं।[Aspose.Cells for Python via Java](https://pypi.org/project/aspose-cells)सभी एक्सेल फ़ाइलों को उत्पन्न करने, संशोधित करने, परिवर्तित करने, प्रस्तुत करने और प्रिंट करने की क्षमता के साथ क्रॉस-प्लेटफ़ॉर्म एप्लिकेशन बनाने में सक्षम है। Python एक्सेल API न केवल स्प्रेडशीट प्रारूपों के बीच कनवर्ट कर सकता है, यह एक्सेल फाइलों को छवियों, PDF, HTML, ODS, CSV, SVG, JSON, वर्ड, पीपीटी और भी बहुत कुछ के रूप में प्रस्तुत कर सकता है, इस प्रकार यह एक्सचेंज के लिए एक आदर्श विकल्प बन जाता है। उद्योग-मानक में दस्तावेज़ प्रारूप. आप Aspose.Cells for Python via Java यहां से इंस्टॉल कर सकते हैं<a href="https://pypi.org/project/aspose-cells/">pypi</a> , कमांड का उपयोग इस प्रकार करें:<code>$ pip install aspose-cells</code>.
+ मैं पीआरएन को एमएचटी में कैसे मर्ज करूं? Aspose.Cells for Python via Java लाइब्रेरी के साथ, आप कोड की कुछ पंक्तियों के साथ प्रोग्रामेटिक रूप से पीआरएन को एमएचटी में आसानी से मर्ज कर सकते हैं।[Aspose.Cells for Python via Java](https://pypi.org/project/aspose-cells) सभी एक्सेल फ़ाइलों को उत्पन्न करने, संशोधित करने, परिवर्तित करने, प्रस्तुत करने और प्रिंट करने की क्षमता के साथ क्रॉस-प्लेटफ़ॉर्म एप्लिकेशन बनाने में सक्षम है। Python एक्सेल API न केवल स्प्रेडशीट प्रारूपों के बीच परिवर्तित होता है, बल्कि यह एक्सेल फाइलों को छवियों, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT और अधिक के रूप में भी प्रस्तुत कर सकता है, इस प्रकार यह उद्योग-मानक प्रारूपों में दस्तावेजों का आदान-प्रदान करने के लिए एक आदर्श विकल्प बन जाता है। आप Aspose.Cells for Python via Java यहां से इंस्टॉल कर सकते हैं<a href="https://pypi.org/project/aspose-cells/">pypi</a> , कमांड का उपयोग इस प्रकार करें:<code>$ pip install aspose-cells</code>.
 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Python में पीआरएन को एमएचटी में निःशुल्क ऑनलाइन मर्ज करें" %}}
+{{% blocks/products/pf/agp/content h2="Python में पीआरएन को एमएचटी में मिलाएं" %}}
 
 निम्नलिखित उदाहरण दर्शाता है कि Aspose.Cells for Python via Java में पीआरएन को एमएचटी में कैसे मर्ज किया जाए।
 {{% blocks/products/pf/agp/text %}}
@@ -28,13 +28,13 @@ keywords: [Aspose Excel., Python Aspose.Cells., Merge PRN to MHT in Python., Fre
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Python में पीआरएन को एमएचटी में मर्ज करने के लिए निःशुल्क ऑनलाइन" InputFormat="prn" InputFormat2="mht" outformat="mht" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-merger title="Python में पीआरएन को एमएचटी में मर्ज करने के लिए नमूना कोड" InputFormat="prn" InputFormat2="mht" outformat="mht" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="Python के माध्यम से पीआरएन को एमएचटी में कैसे मर्ज करें" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- प्रोग्रामेटिक रूप से पीआरएन को एमएचटी में मर्ज करने की आवश्यकता है? एक बुनियादी दस्तावेज़ जिसका विलय और संयोजन हो रहा है[Aspose.Cells for Python via Java](https://products.aspose.com/cells/python-java) एपीआई को कोड की कुछ पंक्तियों के साथ किया जा सकता है।
+प्रोग्रामेटिक रूप से पीआरएन को एमएचटी में मर्ज करने की आवश्यकता है? एक बुनियादी दस्तावेज़ जिसका विलय और संयोजन हो रहा है[Aspose.Cells for Python via Java](https://products.aspose.com/cells/python-java) एपीआई को कोड की कुछ पंक्तियों के साथ किया जा सकता है।
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -73,7 +73,7 @@ keywords: [Aspose Excel., Python Aspose.Cells., Merge PRN to MHT in Python., Fre
 
 -  Java 1.8 या उच्चतर स्थापित करें और इसे PATH पर्यावरण चर में जोड़ें, उदाहरण के लिए:<code>PATH=C:\Program Files\Java\jdk1.8.0_131;</code>.
 -  स्थापित करना[Python](https://www.python.org/downloads/) 3.5 या उच्चतर.
-- Aspose.Cells for Python से इंस्टॉल करें<a href="https://pypi.org/project/aspose-cells/">pypi</a> , कमांड का उपयोग इस प्रकार करें:<code>$ pip install aspose-cells</code>.
+-  Aspose.Cells for Python से इंस्टॉल करें<a href="https://pypi.org/project/aspose-cells/">pypi</a> , कमांड का उपयोग इस प्रकार करें:<code>$ pip install aspose-cells</code>.
 
 
 {{% /blocks/products/pf/agp/content %}}
@@ -81,7 +81,7 @@ keywords: [Aspose Excel., Python Aspose.Cells., Merge PRN to MHT in Python., Fre
 <!-- aboutfile Starts -->
     {{< blocks/products/pf/agp/about-file-section >}}
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="PRN" readMoreLink="https://fileinfo.com/extension/prn/" >}}पीआरएन फ़ाइल प्रिंट टू फ़ाइल चेकबॉक्स का उपयोग करके बनाई गई एक फ़ाइल है जो Windows पर कुछ प्रिंट संवाद बॉक्स के भीतर दिखाई देती है। इसमें डिवाइस-विशिष्ट निर्देशों का एक सेट होता है जो प्रिंटर, फैक्स मशीन या अन्य डिवाइस किसी दस्तावेज़ को प्रिंट करने के लिए उपयोग करता है। पीआरएन फ़ाइलों में टेक्स्ट या बाइनरी सामग्री हो सकती है, यह उस डिवाइस पर निर्भर करता है जिसके लिए फ़ाइल बनाई गई थी।{{< /blocks/products/pf/agp/i18n/about-file-text >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="MHT" readMoreLink="https://docs.fileformat.com/web/mht/" >}}.mht एक्सटेंशन वाली फ़ाइल एक MIME सक्षम संग्रह फ़ाइल स्वरूप है जिसमें एक ही फ़ाइल में विभिन्न प्रकार के डेटा शामिल होते हैं। यह सीएसएस फाइलों, जावास्क्रिप्ट और अन्य संसाधनों के रूप में पाठ, छवियों, पेज स्टाइल जैसे डेटा को इसमें एम्बेडेड संसाधनों के रूप में संग्रहीत कर सकता है। MIME प्रकार संदेश/rfc822 वाली MHT फ़ाइलें, भंडारण उपकरणों पर संग्रहित करने के लिए HTML फ़ाइल की सभी सामग्री को एकल संग्रह फ़ाइल के रूप में समाहित करती हैं। Microsoft वर्ड जैसे सॉफ़्टवेयर एप्लिकेशन आपको एमएचटी फ़ाइल के रूप में निर्यात करके अपने वर्ड दस्तावेज़ों को एमएचटी में परिवर्तित करने की सुविधा देते हैं। एमएचटी फ़ाइलें Microsoft इंटरनेट एक्सप्लोर और Google क्रोम जैसे लोकप्रिय ब्राउज़रों का उपयोग करके खोली जा सकती हैं।{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="MHT" readMoreLink="https://docs.fileformat.com/web/mht/" >}}.mht एक्सटेंशन वाली फ़ाइल एक MIME सक्षम संग्रह फ़ाइल स्वरूप है जिसमें एक ही फ़ाइल में विभिन्न प्रकार के डेटा शामिल होते हैं। यह सीएसएस फाइलों, जावास्क्रिप्ट और अन्य संसाधनों के रूप में पाठ, छवियों, पेज स्टाइल जैसे डेटा को इसमें एम्बेडेड संसाधनों के रूप में संग्रहीत कर सकता है। MIME प्रकार संदेश/rfc822 वाली MHT फ़ाइलें, भंडारण उपकरणों पर संग्रहित करने के लिए HTML फ़ाइल की सभी सामग्री को एकल संग्रह फ़ाइल के रूप में समाहित करती हैं। Microsoft वर्ड जैसे सॉफ़्टवेयर एप्लिकेशन आपको एमएचटी फ़ाइल के रूप में निर्यात करके अपने WORD दस्तावेज़ों को एमएचटी में बदलने की सुविधा देते हैं। एमएचटी फ़ाइलें Microsoft इंटरनेट एक्सप्लोर और Google क्रोम जैसे लोकप्रिय ब्राउज़रों का उपयोग करके खोली जा सकती हैं।{{< /blocks/products/pf/agp/i18n/about-file-text >}}
     {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->
 

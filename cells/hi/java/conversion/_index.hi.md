@@ -1,12 +1,13 @@
 ---
 title:  Microsoft एक्सेल फ़ाइल रूपांतरण via Java
-description: Excel XLS, XLSX, ODS, CSV को PDF, XPS, HTML, JPEG, HTML और कई अन्य लोकप्रिय प्रारूपों को Java कोड की कुछ पंक्तियों के साथ परिवर्तित करें .
+description: Aspose.Cells for Java पुस्तकालय। Java कोड की कुछ पंक्तियों के साथ एक्सेल, JSON, PDF, एक्सएमएल, HTML, TXT, TSV, CSV, एसक्यूएल, जेपीजी, PNG और अधिक प्रारूपों में कनवर्ट करें।
+keywords: [Java Aspose.Cells., excel to pdf., excel to json., html to xps., csv to json., json to pdf., xml to excel and Convert files between various formats in Java]
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
 {{< blocks/products/pf/i18n/feature-page-header h1="Microsoft<sup>&reg;</sup> एक्सेल फ़ाइलें रूपांतरण via Java" h2="Microsoft एक्सेल दस्तावेज़ों को स्प्रेडशीट, वेब, छवि और फिक्स्ड-लेआउट प्रारूपों के रूप में सहेजें" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
- किसी के लिए**एक्सेल कनवर्टर**एप्लिकेशन या समाधान, Java एक्सेल लाइब्रेरी XLS, XLSX, XLSM, XLSB, XLTX, XLTM, CSV, SpreadsheetML, 07 सहित कई प्रारूपों को संभालते हुए स्प्रेडशीट प्रोग्रामिंग और रूपांतरण प्रक्रियाओं को गति देता है। 6193481. यह *एक्सेल फ़ाइलों को PDF** में बदलने की भी अनुमति देता है, XPS, HTML, MHTML, सादा पाठ और लोकप्रिय छवि प्रारूप जैसे TIFF, जेपीजी, PNG, BMP और SVG।
+ किसी के लिए**एक्सेल कनवर्टर** एप्लिकेशन या समाधान, Java एक्सेल लाइब्रेरी XLS, XLSX, XLSM, XLSB, XLTX, XLTM, CSV, SpreadsheetML, 0761 सहित कई प्रारूपों को संभालते हुए स्प्रेडशीट प्रोग्रामिंग और रूपांतरण प्रक्रियाओं को गति देता है। 93481. यह *एक्सेल फ़ाइलों को PDF** में बदलने की भी अनुमति देता है, XPS, HTML, MHTML, सादा पाठ और लोकप्रिय छवि प्रारूप जैसे TIFF, जेपीजी, PNG, BMP और SVG।
 {{% /blocks/products/pf/feature-page-summary %}}
 
 {{% blocks/products/pf/feature-page-section h2="Microsoft एक्सेल प्रारूपों का अंतर-रूपांतरण" %}}
@@ -136,7 +137,7 @@ for (int j = 0; j < sr.getPageCount(); j++) {
 {{< blocks/products/pf/feature-page-options pairs="xlsx-to-jpg xlsx-to-png xlsx-to-bmp ods-to-gif ods-to-svg ods-to-png ods-to-gif ods-to-bmp sxc-to-jpg mhtml-to-svg xlt-to-svg xls-to-emf fods-to-emf" afterslug="rendering" >}}
 
 {{% blocks/products/pf/feature-page-section h2="Microsoft एक्सेल को वर्ड और PowerPoint में कनवर्ट करें" %}}
- उपयोग करते समय किसी भी स्प्रेडशीट को लोड करना और उसे Word DOCX और PowerPoint PPTX फ़ाइलों में परिवर्तित करना संभव है[DocxSaveविकल्प](https://reference.aspose.com/cells/java/com.aspose.cells/DocxSaveOptions) & [पीपीटीएक्ससेवऑप्शंस](https://reference.aspose.com/cells/java/com.aspose.cells/PptxSaveOptions)कक्षाएं जैसा कि नीचे दिखाया गया है।
+उपयोग करते समय किसी भी स्प्रेडशीट को लोड करना और उसे Word DOCX और PowerPoint PPTX फ़ाइलों में परिवर्तित करना संभव है[DocxSaveविकल्प](https://reference.aspose.com/cells/java/com.aspose.cells/DocxSaveOptions) & [पीपीटीएक्ससेवऑप्शंस](https://reference.aspose.com/cells/java/com.aspose.cells/PptxSaveOptions) कक्षाएं जैसा कि नीचे दिखाया गया है।
 {{% blocks/products/pf/feature-page-code h3="Java एक्सेल से वर्ड के लिए कोड और PowerPoint रूपांतरण" %}}
 ```cs
 // load the template file

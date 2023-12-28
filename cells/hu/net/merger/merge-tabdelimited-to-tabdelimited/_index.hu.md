@@ -1,8 +1,8 @@
 ---
 title: A TABDELIMITED egyesítése a TABDELIMITED-re – a TABDELIMITED egyesítése a TABDELIMITED-re C#-ben
 url: /hu/net/merger/merge-tabdelimited-to-tabdelimited/ 
-description: Aspose Excel. C# Aspose.Cells. Ingyenes online egyesítés TABDELIMITED és TABDELIMITED mentési formátumba. C# TABDELIMITED kombinálása TABDELIMITED formátumba. TABDELIMITED egyesítése a TABDELIMITED-hez C#-ben. TABDELIMITED Egyesítés.
-keywords: [Aspose Excel., C# Aspose.Cells., Merge TABDELIMITED to TABDELIMITED in C#., Free Online C# Merge TABDELIMITED to tabdelimited., C# Combine TABDELIMITED to TABDELIMITED Online for Free., TABDELIMITED Merge]
+description: Aspose Excel. C# Aspose.Cells. TABDELIMITED egyesítése TABDELIMITED mentési formátumba. C# TABDELIMITED kombinálása TABDELIMITED formátumba. TABDELIMITED egyesítése a TABDELIMITED-hez C#-ben. TABDELIMITED Egyesítés.
+keywords: [Aspose Excel., C# Aspose.Cells., Merge TABDELIMITED to TABDELIMITED in C#., C# Merge TABDELIMITED to tabdelimited., C# Combine TABDELIMITED to TABDELIMITED., TABDELIMITED Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="TABDELIMITED egyesítése a TABDELIMITED-szel a C# számon keresztül" h2="Nagy sebességű C# könyvtár a TABDELIMITED és a TABDELIMITED egyesítéséhez. Használja a API-es excel-konverziónkat magas szintű, platformfüggetlen szoftverek fejlesztéséhez a C#-ben. Ez egy professzionális szoftvermegoldás a Excel, CSV, OpenOffice, PDF, HTML, image és sok más excel formátum importálásához és exportálásához." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="TABDELIMITED" additionalConversionTag="TABDELIMITED" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., C# Aspose.Cells., Merge TABDELIMITED to TABDELIMITED i
 
 {{% blocks/products/pf/agp/content h2="TABDELIMITED egyesítése a TABDELIMITED füllel a C# szám használatával" %}}
 
- Hogyan egyesíthetem a TABDELIMITED TABDELIMITED-et? A Aspose.Cells for .NET könyvtárral egyszerűen egyesítheti a TABDELIMITED-et a TABDELIMITED-be, néhány sornyi kóddal programozottan.[Aspose.Cells for .NET](https://products.aspose.com/cells/net)képes többplatformos alkalmazásokat létrehozni, módosítani, konvertálni, renderelni és kinyomtatni az összes Excel fájlt. .NET Excel API nem csak a táblázatformátumok között konvertál, hanem Excel fájlokat is képes megjeleníteni képként, PDF, HTML, ODS, CSV, CSV, CSV, CSV, CSV, CSV, SVG, és így tovább, SVG P, 8 PT a választás,3,8 ipari szabvány szerinti dokumentumok cseréjére formátumok. Nyisd ki[NuGet](https://www.nuget.org/packages/aspose.cells) csomagkezelő, keresse meg a Aspose.Cells-et, és telepítse. A következő parancsot is használhatja a Package Manager konzolból.
+ Hogyan egyesíthetem a TABDELIMITED TABDELIMITED-et? A Aspose.Cells for .NET könyvtárral egyszerűen egyesítheti a TABDELIMITED-et a TABDELIMITED-be, néhány sornyi kóddal programozottan.[Aspose.Cells for .NET](https://products.aspose.com/cells/net)képes többplatformos alkalmazásokat létrehozni, módosítani, konvertálni, renderelni és kinyomtatni az összes Excel fájlt. .NET Az Excel API nemcsak a táblázatformátumok között konvertál, hanem Excel-fájlokat is képes megjeleníteni képként, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT és egyebekként, így tökéletes választás a szabványos formátumú dokumentumok cseréjéhez. Nyisd ki[NuGet](https://www.nuget.org/packages/aspose.cells) csomagkezelő, keresse meg a Aspose.Cells-et, és telepítse. A következő parancsot is használhatja a Package Manager konzolból.
 
 {{% blocks/products/pf/agp/code-block title="Csomagkezelő konzolparancs" offSpacer="true" %}}
 
@@ -26,7 +26,7 @@ PM> Install-Package Aspose.Cells
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Ingyenesen egyesítse a TABDELIMITED-et a TABDELIMITED-szel a C#-es számon" %}}
+{{% blocks/products/pf/agp/content h2="TABDELIMITED egyesítése a TABDELIMITED elemekkel a C#-ben" %}}
 
 A következő példa bemutatja a TABDELIMITED és a TABDELIMITED egyesítését a Aspose.Cells for .NET számban.
 {{% blocks/products/pf/agp/text %}}
@@ -37,7 +37,7 @@ Kövesse az egyszerű lépéseket a TABDELIMITED és a TABDELIMITED egyesítés�
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Ingyenes online a TABDELIMITED és a TABDELIMITED egyesítéséhez a C# számon" InputFormat="tsv" InputFormat2="tsv" outformat="tsv" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="net" %}}
+{{% cells-merger title="Mintakód a TABDELIMITED és a TABDELIMITED egyesítéséhez a C#-ben" InputFormat="tsv" InputFormat2="tsv" outformat="tsv" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="net" %}}
 
 {{% blocks/products/pf/agp/content h2="A TABDELIMITED és a TABDELIMITED egyesítése a C# számon keresztül" %}}
 
@@ -92,7 +92,7 @@ API-jaink minden nagyobb platformon és operációs rendszeren támogatottak. Mi
     {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="Egyéb támogatott egyesítő formátumok" subTitle="C# használatával tabulátorral elválasztva is egyesíthető számos más fájlformátumhoz, beleértve." >}}
+{{< blocks/products/pf/agp/other-supported-section title="Egyéb támogatott egyesítő formátumok" subTitle="A C# használatával tabulátorral elválasztva is egyesíthető számos más fájlformátumhoz, beleértve." >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-tabdelimited-to-docx/" name="TABDELIMITED egyesítése a DOCX számmal" description="Microsoft Word dokumentum" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-tabdelimited-to-sql/" name="TABDELIMITED egyesítése SQL-be" description="Strukturált lekérdezési nyelv" >}}
@@ -117,7 +117,7 @@ API-jaink minden nagyobb platformon és operációs rendszeren támogatottak. Mi
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-tabdelimited-to-xltm/" name="TABDELIMITED egyesítése a XLTM számmal" description="Excel-makró-kompatibilis sablon" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-tabdelimited-to-xltx/" name="TABDELIMITED egyesítése a XLTX számmal" description="Office OpenXML Excel sablon" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-tabdelimited-to-xml/" name="TABDELIMITED egyesítése XML-be" description="Bővíthető jelölőnyelv" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-tabdelimited-to-xps/" name="TABDELIMITED egyesítése a XPS számmal" description="XML papírspecifikációk" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-tabdelimited-to-xps/" name="TABDELIMITED egyesítése a XPS számmal" description="XML papír specifikációk" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-tabdelimited-to-json/" name="TABDELIMITED egyesítése a JSON számmal" description="JavaScript objektum jelölés" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-tabdelimited-to-jpeg/" name="TABDELIMITED egyesítése a JPEG számmal" description="JPEG Kép" >}}
 

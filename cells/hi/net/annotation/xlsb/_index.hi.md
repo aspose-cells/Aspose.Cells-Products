@@ -1,7 +1,8 @@
 ---
-title:  XLSB एनोटेशन via .NET हटाएँ
+title:  XLSB एनोटेशन via .NET जोड़ें या हटाएँ
 weight: 6440
 description: .NET फ्रेमवर्क, .NET कोर, Mono या ज़ामरिन प्लेटफ़ॉर्म पर XLSB प्रारूप एनोटेशन जोड़ने और हटाने के लिए C# स्रोत कोड।
+keywords: [C# Aspose.Cells., add xlsb annotation., insert xlsb annotation., access xlsb annotation., remove xlsb annotation., delete xlsb annotation., add annotation in xlsb., insert annotation in xlsb., access annotation in xlsb., remove annotation in xlsb., delete annotation in xlsb]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="XLSB से C# तक एनोटेशन जोड़ें या हटाएं" h2="सर्वर-साइड एपीआई का उपयोग करके दस्तावेज़ फ़ाइलों में टिप्पणियों और लेखकों में हेरफेर करने के लिए अपने स्वयं के .NET ऐप्स बनाएं।" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSB" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="PPTX" fileiconsmall2="DOCX" fileiconsmall3="XLSX" fileiconsmall4="PDF" fileiconsmall5=" ODP " >}}

@@ -1,8 +1,8 @@
 ---
 title: Az EXCEL összevonása a BMP-gyel – az EXCEL egyesítése a BMP-gyel a C#-ben
 url: /hu/net/merger/merge-excel-to-bmp/ 
-description: Aspose Excel. C# Aspose.Cells. Ingyenes online egyesítése EXCEL BMP mentési formátumba. C# Az EXCEL kombinálása a BMP formátummal. Egyesítse az EXCEL-t a BMP-es számmal a C#-ben. EXCEL-egyesítés.
-keywords: [Aspose Excel., C# Aspose.Cells., Merge EXCEL to BMP in C#., Free Online C# Merge EXCEL to bmp., C# Combine EXCEL to BMP Online for Free., EXCEL Merge]
+description: Aspose Excel. C# Aspose.Cells. Az EXCEL egyesítése a BMP mentési formátummal. C# Az EXCEL kombinálása a BMP formátummal. Egyesítse az EXCEL-t a BMP-es számmal a C#-ben. EXCEL-egyesítés.
+keywords: [Aspose Excel., C# Aspose.Cells., Merge EXCEL to BMP in C#., C# Merge EXCEL to bmp., C# Combine EXCEL to BMP., EXCEL Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Az EXCEL egyesítése a BMP-gyel a C#-en keresztül" h2="Nagysebességű C#-es könyvtár az EXCEL és a BMP egyesítéséhez. Használja a API-es excel-konverziónkat magas szintű, platformfüggetlen szoftver fejlesztésére a C#-ben. Ez egy professzionális szoftvermegoldás a Excel, CSV, OpenOffice, PDF, HTML, image és sok más excel formátum importálásához és exportálásához." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="EXCEL" additionalConversionTag="BMP" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., C# Aspose.Cells., Merge EXCEL to BMP in C#., Free Onli
 
 {{% blocks/products/pf/agp/content h2="Az EXCEL egyesítése a BMP-gyel a C# használatával" %}}
 
- Hogyan egyesíthetem az EXCEL-t a BMP-gyel? A Aspose.Cells for .NET könyvtárral egyszerűen egyesítheti az EXCEL-t a BMP-gyel programozottan néhány sornyi kóddal.[Aspose.Cells for .NET](https://products.aspose.com/cells/net)képes többplatformos alkalmazásokat létrehozni, módosítani, konvertálni, renderelni és kinyomtatni az összes Excel fájlt. .NET Excel API nem csak a táblázatformátumok között konvertál, hanem Excel fájlokat is képes megjeleníteni képként, PDF, HTML, ODS, CSV, CSV, CSV, CSV, CSV, CSV, SVG, és így tovább, SVG P, 8 PT a választás,3,8 ipari szabvány szerinti dokumentumok cseréjére formátumok. Nyisd ki[NuGet](https://www.nuget.org/packages/aspose.cells) csomagkezelő, keresse meg a Aspose.Cells-et, és telepítse. A következő parancsot is használhatja a Package Manager konzolból.
+ Hogyan egyesíthetem az EXCEL-t a BMP-gyel? A Aspose.Cells for .NET könyvtárral egyszerűen egyesítheti az EXCEL-t a BMP-gyel programozottan néhány sornyi kóddal.[Aspose.Cells for .NET](https://products.aspose.com/cells/net)képes többplatformos alkalmazásokat létrehozni, módosítani, konvertálni, renderelni és kinyomtatni az összes Excel fájlt. .NET Az Excel API nemcsak a táblázatformátumok között konvertál, hanem Excel-fájlokat is képes megjeleníteni képként, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT és egyebekként, így tökéletes választás a szabványos formátumú dokumentumok cseréjéhez. Nyisd ki[NuGet](https://www.nuget.org/packages/aspose.cells) csomagkezelő, keresse meg a Aspose.Cells-et, és telepítse. A következő parancsot is használhatja a Package Manager konzolból.
 
 {{% blocks/products/pf/agp/code-block title="Csomagkezelő konzolparancs" offSpacer="true" %}}
 
@@ -26,9 +26,9 @@ PM> Install-Package Aspose.Cells
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Ingyenesen egyesítse az EXCEL-t a BMP-es számmal a C#-ben online" %}}
+{{% blocks/products/pf/agp/content h2="Az EXCEL egyesítése a BMP-es számmal a C#-ben" %}}
 
-A következő példa bemutatja, hogyan egyesítheti az EXCEL-t a BMP-gyel a Aspose.Cells-es for .NET-ben.
+következő példa bemutatja, hogyan egyesítheti az EXCEL-t a BMP-gyel a Aspose.Cells-es for .NET-ben.
 {{% blocks/products/pf/agp/text %}}
 
 Kövesse az egyszerű lépéseket az EXCEL és a BMP egyesítéséhez. Töltse fel a fájlokat, hívja meg a Workbook.Combine metódust a fájlok egyesítéséhez, majd mentse el a BMP fájlba. Ha kódot fejleszt a C#-ben, ez egyszerűbb lesz, mint amilyennek hangzik. Lásd a C# példát, amely összevonja az EXCEL-t a BMP-gyel.
@@ -37,7 +37,7 @@ Kövesse az egyszerű lépéseket az EXCEL és a BMP egyesítéséhez. Töltse f
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Ingyenes online az EXCEL egyesítése a BMP-es számmal a C#-ben" InputFormat="xlsx" InputFormat2="bmp" outformat="bmp" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="net" %}}
+{{% cells-merger title="Mintakód az EXCEL és a BMP egyesítéséhez a C#-ben" InputFormat="xlsx" InputFormat2="bmp" outformat="bmp" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="net" %}}
 
 {{% blocks/products/pf/agp/content h2="Az EXCEL egyesítése a BMP-gyel a C#-en keresztül" %}}
 
@@ -117,7 +117,7 @@ API-jaink minden nagyobb platformon és operációs rendszeren támogatottak. Mi
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-excel-to-xltm/" name="Egyesítse az EXCEL-t a XLTM-gyel" description="Excel-makró-kompatibilis sablon" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-excel-to-xltx/" name="Egyesítse az EXCEL-t a XLTX-gyel" description="Office OpenXML Excel sablon" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-excel-to-xml/" name="Az EXCEL egyesítése XML-lel" description="Bővíthető jelölőnyelv" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-excel-to-xps/" name="Egyesítse az EXCEL-t a XPS-gyel" description="XML papírspecifikációk" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-excel-to-xps/" name="Egyesítse az EXCEL-t a XPS-gyel" description="XML papír specifikációk" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-excel-to-json/" name="Egyesítse az EXCEL-t a JSON-gyel" description="JavaScript objektum jelölés" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-excel-to-jpeg/" name="Egyesítse az EXCEL-t a JPEG-gyel" description="JPEG Kép" >}}
 

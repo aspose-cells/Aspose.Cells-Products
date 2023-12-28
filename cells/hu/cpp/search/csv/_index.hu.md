@@ -2,6 +2,7 @@
 title:  Keresés a CSV dokumentumban megnyitás nélkül a C++ számon keresztül
 weight: 5540
 description: C++ példakód a CSV fájl C++ futásidejű környezetének CSV 32 bites, Windows 64 bites, Windows 64 bites és Linux 64 bites CSV fájljában.
+keywords: [C++ Aspose.Cells., C++ search words with pattern in csv file., C++ find words with pattern in csv file., C++ search string with pattern in csv file., C++ find words with pattern in csv file., C++ search words in csv file., C++ find words in csv file., C++ search string in csv file., C++ find string in csv file]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Keresés: CSV Formátumok a C++-ben" h2="Natív és nagy teljesítményű CSV dokumentumkeresés szerveroldali Aspose.Cells for C++ API-kkal, olyan szoftverek használata nélkül, mint a Microsoft vagy az Adobe PDF." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" sourceAdditionalConversionTag="" additionalConversionTag="" pfName="Aspose.Cells" subTitlepfName="for C++" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="CSV" >}}
@@ -41,11 +42,11 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/text %}}
 
-Töltse be a CSV fájlt egy IWorkbook osztály példányosításával.
-+ IReplaceOptions osztály példányosítása.
++ A CSV fájl betöltése munkafüzet osztály létrehozásával.
++ Példányos ReplaceOptions osztály.
 + Állítsa be a szükséges mintát, például SetCaseSensitive(bool érték), SetMatchEntireCellContents(bool érték).
-+ Használja az IWorkbook->Replace(..) metódust a megfelelő opciókkal.
-+ Mentse a CSV fájlt az IWorkbook->Save(.) metódussal.
+Munkafüzet::Csere(...) metódus használata a megfelelő opciókkal.
++ Mentse a CSV fájlt a Workbook::Save(...) metódussal.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -66,29 +67,33 @@ Töltse be a CSV fájlt egy IWorkbook osztály példányosításával.
 
 ```cs
 
+Aspose::Cells::Startup();
+
 // Source directory path.
-StringPtr srcDir = new String("SourcePath\\");
+U16String srcDir(u"SourcePath\\");
 
 // Output directory path.
-StringPtr outDir = new String("OutputPath\\");
+U16String outDir(u"OutputPath\\");
 
 // Load CSV file
-intrusive_ptr<IWorkbook>  wkb = Factory::CreateIWorkbook(srcDir->StringAppend(new String("sourceFile.csv")));
+Workbook  wkb(srcDir + u"sourceFile.csv");
 
 // Create an instance of the IReplaceOptions class
-intrusive_ptr<IReplaceOptions> replaceOptions = Factory::CreateIReplaceOptions();
+ReplaceOptions replaceOptions;
 
 // Set case sensitivity option
-replaceOptions->SetCaseSensitive(false);
+replaceOptions.SetCaseSensitive(false);
 
 // Set text matching option
-replaceOptions->SetMatchEntireCellContents(false);
+replaceOptions.SetMatchEntireCellContents(false);
 
 // Replace text
-wkb->Replace(new String("Text to find"), new String("Text replacement"), replaceOptions);
+wkb.Replace(u"Text to find", u"Text replacement", replaceOptions);
 
 // Save as CSV file
-wkb->Save(outDir->StringAppend(new String("outputFile.csv")));  
+wkb.Save(outDir + u"outputFile.csv");
+
+Aspose::Cells::Cleanup();
 
 ```
 

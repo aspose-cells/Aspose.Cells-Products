@@ -1,7 +1,8 @@
 ---
-title:  Vízjel XLSM dokumentum via Java
+title: Vízjel XLSM dokumentum via Java
 weight: 7680
 description: Java mintakód vízjel hozzáadásához vagy eltávolításához a XLSM fájlhoz a Java Futókörnyezet JSP/JSF alkalmazásokhoz és asztali alkalmazásokhoz.
+keywords: [Java Aspose.Cells., Java add watermark to xlsm file., Java insert watermark to xlsm file., Java create watermark in xlsm file., remove watermark from xlsm file using Java., Java operate watermark in xlsm file., Java access watermark in xlsm file]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Szöveg vízjel hozzáadása a XLSM via Java számhoz" h2="Szerveroldali API-k segítségével készítse el saját Java-es alkalmazásait a XLSM-es fájlok vízjelezésére." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSM" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="" fileiconsmall1="PPTX" fileiconsmall2="DOCX" fileiconsmall3="XLSX" fileiconsmall4="PDF" fileiconsmall5=" ODP " >}}

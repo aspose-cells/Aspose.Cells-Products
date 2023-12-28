@@ -1,8 +1,8 @@
 ---
 title: XLS को BMP में मिलाएँ - XLS को BMP को Java में मिलाएँ
 url: /hi/java/merger/merge-xls-to-bmp/ 
-description: "Aspose एक्सेल। Java Aspose.Cells। नि:शुल्क ऑनलाइन मर्ज XLS से BMP सेवफॉर्मेट। Java XLS को BMP प्रारूप में संयोजित करें। XLS को BMP में Java में मर्ज करें। XLS मर्ज करें।"
-keywords: [Aspose Excel., Java Aspose.Cells., Merge XLS to BMP in Java., Free Online Java Merge XLS to bmp., Java Combine XLS to BMP Online for Free., XLS Merge]
+description: Aspose एक्सेल। Java Aspose.Cells. XLS को BMP सेवफॉर्मेट में मर्ज करें। Java XLS को BMP प्रारूप में संयोजित करें। XLS को BMP में Java में मर्ज करें। XLS मर्ज करें।
+keywords: [Aspose Excel., Java Aspose.Cells., Merge XLS to BMP in Java., Java Merge XLS to bmp., Java Combine XLS to BMP., XLS Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="XLS को BMP via Java में मर्ज करें" h2="XLS को BMP में मर्ज करने के लिए हाई-स्पीड Java लाइब्रेरी। Java में उच्च-स्तरीय, प्लेटफॉर्म स्वतंत्र सॉफ्टवेयर विकसित करने के लिए हमारे एक्सेल रूपांतरण API का उपयोग करें। यह Excel, CSV, OpenOffice, PDF, HTML, image और कई अन्य एक्सेल प्रारूपों को आयात और निर्यात करने के लिए एक पेशेवर सॉफ्टवेयर समाधान है।" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="XLS" additionalConversionTag="BMP" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Merge XLS to BMP in Java., Free On
 
 {{% blocks/products/pf/agp/content h2="Java का उपयोग करके XLS को BMP में मर्ज करें" %}}
 
- मैं XLS को BMP में कैसे मर्ज करूं? Aspose.Cells for Java लाइब्रेरी के साथ, आप कोड की कुछ पंक्तियों के साथ आसानी से XLS को BMP में प्रोग्रामेटिक रूप से मर्ज कर सकते हैं।[Aspose.Cells for Java](https://products.aspose.com/cells/java) सभी एक्सेल फ़ाइलों को उत्पन्न करने, संशोधित करने, परिवर्तित करने, प्रस्तुत करने और प्रिंट करने की क्षमता के साथ क्रॉस-प्लेटफ़ॉर्म एप्लिकेशन बनाने में सक्षम है। Java एक्सेल API न केवल स्प्रेडशीट प्रारूपों के बीच कनवर्ट कर सकता है, यह एक्सेल फाइलों को छवियों, PDF, HTML, ODS, CSV, SVG, JSON, वर्ड, पीपीटी और भी बहुत कुछ के रूप में प्रस्तुत कर सकता है, इस प्रकार यह एक्सचेंज के लिए एक आदर्श विकल्प बन जाता है। उद्योग-मानक में दस्तावेज़ प्रारूप. आप इसका नवीनतम संस्करण सीधे यहां से डाउनलोड कर सकते हैं[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) और pom.xml में निम्नलिखित कॉन्फ़िगरेशन जोड़कर इसे अपने Maven-आधारित प्रोजेक्ट में स्थापित करें।
+ मैं XLS को BMP में कैसे मर्ज करूं? Aspose.Cells for Java लाइब्रेरी के साथ, आप कोड की कुछ पंक्तियों के साथ आसानी से XLS को BMP में प्रोग्रामेटिक रूप से मर्ज कर सकते हैं।[Aspose.Cells for Java](https://products.aspose.com/cells/java)सभी एक्सेल फ़ाइलों को उत्पन्न करने, संशोधित करने, परिवर्तित करने, प्रस्तुत करने और प्रिंट करने की क्षमता के साथ क्रॉस-प्लेटफ़ॉर्म एप्लिकेशन बनाने में सक्षम है। Java एक्सेल API न केवल स्प्रेडशीट प्रारूपों के बीच परिवर्तित होता है, बल्कि यह एक्सेल फाइलों को छवियों, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT और अधिक के रूप में भी प्रस्तुत कर सकता है, इस प्रकार यह उद्योग-मानक प्रारूपों में दस्तावेजों का आदान-प्रदान करने के लिए एक आदर्श विकल्प बन जाता है। आप इसका नवीनतम संस्करण सीधे यहां से डाउनलोड कर सकते हैं[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) और pom.xml में निम्नलिखित कॉन्फ़िगरेशन जोड़कर इसे अपने Maven-आधारित प्रोजेक्ट में स्थापित करें।
 
 {{% blocks/products/pf/agp/code-block title="कोष" offSpacer="true" %}}
 
@@ -45,7 +45,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Merge XLS to BMP in Java., Free On
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Java में XLS से BMP को निःशुल्क ऑनलाइन मर्ज करें" %}}
+{{% blocks/products/pf/agp/content h2="Java में XLS को BMP में मर्ज करें" %}}
 
 निम्नलिखित उदाहरण दर्शाता है कि XLS को BMP को Aspose.Cells for Java में कैसे मर्ज किया जाए।
 {{% blocks/products/pf/agp/text %}}
@@ -56,7 +56,7 @@ XLS को BMP में मर्ज करने के लिए आसान
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="XLS से BMP को Java में मर्ज करने के लिए निःशुल्क ऑनलाइन" InputFormat="xls" InputFormat2="bmp" outformat="bmp" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="java" %}}
+{{% cells-merger title="Java में XLS से BMP को मर्ज करने के लिए नमूना कोड" InputFormat="xls" InputFormat2="bmp" outformat="bmp" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="XLS को BMP via Java में कैसे मर्ज करें" %}}
 

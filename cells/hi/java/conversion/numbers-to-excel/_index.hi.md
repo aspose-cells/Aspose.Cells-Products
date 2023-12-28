@@ -1,7 +1,7 @@
 ---
-title: Java नंबर से एक्सेल - ऑनलाइन नंबर से एक्सेल कनवर्टर
-description: Aspose एक्सेल। Java Aspose.Cells. Java Aspose Cells. मुफ़्त ऑनलाइन Java नंबरों को एक्सेल सेवफॉर्मेट में कनवर्ट करें। Java नंबर एक्सेल प्रारूप में। एक्सेल Java पर नंबर सेव करें।
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java NUMBERS to EXCEL saveformat., Free Online NUMBERS to EXCEL Java., Java Convert NUMBERS to EXCEL]
+title: Java नंबर से एक्सेल - नंबर से एक्सेल कनवर्टर
+description: Aspose एक्सेल। Aspose.Cells के साथ जल्दी और आसानी से NUMBERS को EXCEL में बदलें। Java NUMBERS को EXCEL में बदलें। Java एक्सेल में नंबर सहेजें। Java का उपयोग करके नंबरों को एक्सेल के रूप में सहेजें।
+keywords: [Aspose Excel., Java Aspose.Cells., Convert NUMBERS to EXCEL in Java., Save NUMBERS to EXCEL using Java., Java NUMBERS to EXCEL saveformat., NUMBERS to EXCEL Converter., Java Save NUMBERS as EXCEL]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Java में NUMBERS को EXCEL में बदलें" h2="NUMBERS को EXCEL में परिवर्तित करने के लिए हाई-स्पीड Java लाइब्रेरी। यह Java का उपयोग करके नंबर, एक्सेल और कई अन्य प्रारूपों को आयात और निर्यात करने के लिए एक पेशेवर सॉफ्टवेयर समाधान है।" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="EXCEL" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java NUMBERS t
 
 {{% blocks/products/pf/agp/content h2="Java का उपयोग करके नंबरों को एक्सेल में बदलें" %}}
 
- मैं NUMBERS को EXCEL में कैसे परिवर्तित करूं? Aspose.Cells for Java लाइब्रेरी के साथ, आप कोड की कुछ पंक्तियों के साथ आसानी से NUMBERS को EXCEL में प्रोग्रामेटिक रूप से परिवर्तित कर सकते हैं।[Aspose.Cells for Java](https://products.aspose.com/cells/java) सभी एक्सेल फ़ाइलों को उत्पन्न करने, संशोधित करने, परिवर्तित करने, प्रस्तुत करने और प्रिंट करने की क्षमता के साथ क्रॉस-प्लेटफ़ॉर्म एप्लिकेशन बनाने में सक्षम है। Java एक्सेल API न केवल स्प्रेडशीट प्रारूपों के बीच कनवर्ट कर सकता है, यह एक्सेल फाइलों को छवियों, PDF, HTML, ODS, CSV, SVG, JSON, वर्ड, पीपीटी और भी बहुत कुछ के रूप में प्रस्तुत कर सकता है, इस प्रकार यह एक्सचेंज के लिए एक आदर्श विकल्प बन जाता है। उद्योग-मानक में दस्तावेज़ प्रारूप. आप इसका नवीनतम संस्करण सीधे यहां से डाउनलोड कर सकते हैं[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) और pom.xml में निम्नलिखित कॉन्फ़िगरेशन जोड़कर इसे अपने Maven-आधारित प्रोजेक्ट में स्थापित करें।
+ मैं NUMBERS को EXCEL में कैसे परिवर्तित करूं? Aspose.Cells for Java लाइब्रेरी के साथ, आप कोड की कुछ पंक्तियों के साथ आसानी से NUMBERS को EXCEL में प्रोग्रामेटिक रूप से परिवर्तित कर सकते हैं।[Aspose.Cells for Java](https://products.aspose.com/cells/java)सभी एक्सेल फ़ाइलों को उत्पन्न करने, संशोधित करने, परिवर्तित करने, प्रस्तुत करने और प्रिंट करने की क्षमता के साथ क्रॉस-प्लेटफ़ॉर्म एप्लिकेशन बनाने में सक्षम है। Java एक्सेल API न केवल स्प्रेडशीट प्रारूपों के बीच परिवर्तित होता है, बल्कि यह एक्सेल फाइलों को छवियों, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT और अधिक के रूप में भी प्रस्तुत कर सकता है, इस प्रकार यह उद्योग-मानक प्रारूपों में दस्तावेजों का आदान-प्रदान करने के लिए एक आदर्श विकल्प बन जाता है। आप इसका नवीनतम संस्करण सीधे यहां से डाउनलोड कर सकते हैं[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) और pom.xml में निम्नलिखित कॉन्फ़िगरेशन जोड़कर इसे अपने Maven-आधारित प्रोजेक्ट में स्थापित करें।
 
 {{% blocks/products/pf/agp/code-block title="कोष" offSpacer="true" %}}
 
@@ -45,7 +45,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java NUMBERS t
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Java में ऑनलाइन नि:शुल्क नंबरों को एक्सेल में सेव करें" %}}
+{{% blocks/products/pf/agp/content h2="Java में नंबरों को एक्सेल में सेव करें" %}}
 
 निम्नलिखित उदाहरण दर्शाता है कि Java में NUMBERS को EXCEL में कैसे परिवर्तित किया जाए।
 {{% blocks/products/pf/agp/text %}}
@@ -56,7 +56,7 @@ NUMBERS को EXCEL में बदलने के लिए आसान च
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="संख्याओं को ऑनलाइन एक्सेल में बदलने के लिए निःशुल्क ऐप और नमूना कोड" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="numbers" outformat="xlsx" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="संख्याओं को एक्सेल में बदलने के लिए नमूना कोड" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="numbers" outformat="xlsx" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="NUMBERS को EXCEL via Java में कैसे बदलें" %}}
 
@@ -97,7 +97,7 @@ NUMBERS फ़ाइलों को प्रोग्रामेटिक र
 
 <!-- aboutfile Starts -->
     {{< blocks/products/pf/agp/about-file-section >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="NUMBERS" readMoreLink="https://docs.fileformat.com/spreadsheet/numbers/" >}}.numbers एक्सटेंशन वाली फ़ाइलों को स्प्रेडशीट फ़ाइल प्रकार के रूप में वर्गीकृत किया जाता है, इसीलिए वे .xlsx फ़ाइलों के समान होती हैं; लेकिन Numbers फ़ाइलें Apple iWork Numbers स्प्रेडशीट सॉफ़्टवेयर का उपयोग करके बनाई गई हैं। Apple iWork Numbers iWork Productivity Suite का एक यूनिट सॉफ्टवेयर है। iWork उत्पादकता सुइट Microsoft ऑफिस सुइट के बराबर है जिसका उपयोग Windows पीसी पर किया जाता है। इसलिए, हम कह सकते हैं कि Numbers जो MacOS के लिए उपलब्ध है, Microsoft Excel का भी प्रतिस्पर्धी है। इसी तरह, Microsoft एक्सेल, NUMBERS फ़ाइल में तालिकाएँ, चार्ट और सूत्र भी हो सकते हैं।{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="NUMBERS" readMoreLink="https://docs.fileformat.com/spreadsheet/numbers/" >}} .numbers एक्सटेंशन वाली फ़ाइलों को स्प्रेडशीट फ़ाइल प्रकार के रूप में वर्गीकृत किया जाता है, इसीलिए वे .xlsx फ़ाइलों के समान होती हैं; लेकिन Numbers फ़ाइलें Apple iWork Numbers स्प्रेडशीट सॉफ़्टवेयर का उपयोग करके बनाई गई हैं। Apple iWork Numbers iWork Productivity Suite का एक यूनिट सॉफ्टवेयर है। iWork उत्पादकता सुइट Microsoft ऑफिस सुइट के बराबर है जिसका उपयोग Windows पीसी पर किया जाता है। इसलिए, हम कह सकते हैं कि Numbers जो MacOS के लिए उपलब्ध है, Microsoft Excel का भी प्रतिस्पर्धी है। इसी तरह, Microsoft एक्सेल, NUMBERS फ़ाइल में तालिकाएँ, चार्ट और सूत्र भी हो सकते हैं।{{< /blocks/products/pf/agp/i18n/about-file-text >}}
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="EXCEL" readMoreLink="https://docs.fileformat.com/spreadsheet/xlsx/" >}}XLSX Microsoft एक्सेल दस्तावेजों के लिए प्रसिद्ध प्रारूप है जिसे Microsoft द्वारा Microsoft ऑफिस 2007 की रिलीज के साथ पेश किया गया था। ओओएक्सएमएल मानक ईसीएमए-376 के भाग 2 में उल्लिखित ओपन पैकेजिंग कन्वेंशन के अनुसार व्यवस्थित संरचना के आधार पर, नया प्रारूप है एक ज़िप पैकेज जिसमें कई XML फ़ाइलें होती हैं। अंतर्निहित संरचना और फ़ाइलों की जांच केवल .xlsx फ़ाइल को अनज़िप करके की जा सकती है।{{< /blocks/products/pf/agp/i18n/about-file-text >}}
     {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->

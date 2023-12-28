@@ -1,8 +1,8 @@
 ---
 title: A SPREADSHEETML egyesítése a XLAM-es számmal - A SPREADSHEETML egyesítése a XLAM-es számmal a C#-ben
 url: /hu/net/merger/merge-spreadsheetml-to-xlam/ 
-description: Aspose Excel. C# Aspose.Cells. Ingyenes online egyesítése SPREADSHEETML XLAM mentési formátumba. C# A SPREADSHEETML egyesítése a XLAM formátummal. A SPREADSHEETML egyesítése a XLAM-es számmal a C#-ben. SPREADSHEETML Egyesítés.
-keywords: [Aspose Excel., C# Aspose.Cells., Merge SPREADSHEETML to XLAM in C#., Free Online C# Merge SPREADSHEETML to xlam., C# Combine SPREADSHEETML to XLAM Online for Free., SPREADSHEETML Merge]
+description: Aspose Excel. C# Aspose.Cells. A SPREADSHEETML egyesítése a XLAM mentési formátumba. C# A SPREADSHEETML egyesítése a XLAM formátummal. A SPREADSHEETML egyesítése a XLAM-es számmal a C#-ben. SPREADSHEETML Egyesítés.
+keywords: [Aspose Excel., C# Aspose.Cells., Merge SPREADSHEETML to XLAM in C#., C# Merge SPREADSHEETML to xlam., C# Combine SPREADSHEETML to XLAM., SPREADSHEETML Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="A SPREADSHEETML egyesítése a XLAM-gyel a C#-en keresztül" h2="Nagysebességű C# könyvtár a SPREADSHEETML és a XLAM egyesítéséhez. Használja a API-es excel-konverziónkat magas szintű, platformfüggetlen szoftverek fejlesztésére a C#-ben. Ez egy professzionális szoftvermegoldás Excel, CSV, OpenOffice, PDF, HTML, image és sok más excel formátum importálásához és exportálásához." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="SPREADSHEETML" additionalConversionTag="XLAM" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., C# Aspose.Cells., Merge SPREADSHEETML to XLAM in C#., 
 
 {{% blocks/products/pf/agp/content h2="A SPREADSHEETML egyesítése a XLAM-gyel a C# használatával" %}}
 
- Hogyan egyesíthetem a SPREADSHEETML-t a XLAM-gyel? A Aspose.Cells for .NET könyvtárral egyszerűen egyesítheti a SPREADSHEETML-t a XLAM-gyel programozottan, néhány sornyi kóddal.[Aspose.Cells for .NET](https://products.aspose.com/cells/net)képes többplatformos alkalmazásokat létrehozni, módosítani, konvertálni, renderelni és kinyomtatni az összes Excel fájlt. .NET Excel API nem csak a táblázatformátumok között konvertál, hanem Excel fájlokat is képes megjeleníteni képként, PDF, HTML, ODS, CSV, CSV, CSV, CSV, CSV, CSV, SVG, és így tovább, SVG P, 8 PT a választás,3,8 ipari szabvány szerinti dokumentumok cseréjére formátumok. Nyisd ki[NuGet](https://www.nuget.org/packages/aspose.cells) csomagkezelő, keresse meg a Aspose.Cells-et, és telepítse. A következő parancsot is használhatja a Package Manager konzolból.
+ Hogyan egyesíthetem a SPREADSHEETML-t a XLAM-gyel? A Aspose.Cells for .NET könyvtárral egyszerűen egyesítheti a SPREADSHEETML-t a XLAM-gyel programozottan, néhány sornyi kóddal.[Aspose.Cells for .NET](https://products.aspose.com/cells/net)képes többplatformos alkalmazásokat létrehozni, módosítani, konvertálni, renderelni és kinyomtatni az összes Excel fájlt. .NET Az Excel API nemcsak a táblázatformátumok között konvertál, hanem Excel-fájlokat is képes megjeleníteni képként, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT és egyebekként, így tökéletes választás a szabványos formátumú dokumentumok cseréjéhez. Nyisd ki[NuGet](https://www.nuget.org/packages/aspose.cells) csomagkezelő, keresse meg a Aspose.Cells-et, és telepítse. A következő parancsot is használhatja a Package Manager konzolból.
 
 {{% blocks/products/pf/agp/code-block title="Csomagkezelő konzolparancs" offSpacer="true" %}}
 
@@ -26,7 +26,7 @@ PM> Install-Package Aspose.Cells
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Ingyenesen egyesítse a SPREADSHEETML-t a XLAM-es számmal a C#-ben online" %}}
+{{% blocks/products/pf/agp/content h2="A SPREADSHEETML egyesítése a XLAM-es számmal a C#-ben" %}}
 
 A következő példa bemutatja, hogyan lehet egyesíteni a SPREADSHEETML-t a XLAM-gyel a Aspose.Cells-es for .NET-ben.
 {{% blocks/products/pf/agp/text %}}
@@ -37,7 +37,7 @@ Kövesse az egyszerű lépéseket a SPREADSHEETML és a XLAM egyesítéséhez. T
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Ingyenes online a SPREADSHEETML egyesítése a XLAM-es számmal a C#-ben" InputFormat="xml" InputFormat2="xlam" outformat="xlam" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="net" %}}
+{{% cells-merger title="Mintakód a SPREADSHEETML egyesítéséhez a XLAM-es számmal a C#-ben" InputFormat="xml" InputFormat2="xlam" outformat="xlam" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="net" %}}
 
 {{% blocks/products/pf/agp/content h2="A SPREADSHEETML egyesítése a XLAM-es számmal a C#-en keresztül" %}}
 
@@ -117,7 +117,7 @@ API-jaink minden nagyobb platformon és operációs rendszeren támogatottak. Mi
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-spreadsheetml-to-xltm/" name="A SPREADSHEETML egyesítése a XLTM-gyel" description="Excel-makró-kompatibilis sablon" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-spreadsheetml-to-xltx/" name="A SPREADSHEETML egyesítése a XLTX-gyel" description="Office OpenXML Excel sablon" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-spreadsheetml-to-xml/" name="A SPREADSHEETML egyesítése XML-lel" description="Bővíthető jelölőnyelv" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-spreadsheetml-to-xps/" name="A SPREADSHEETML egyesítése a XPS-gyel" description="XML papírspecifikációk" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-spreadsheetml-to-xps/" name="A SPREADSHEETML egyesítése a XPS-gyel" description="XML papír specifikációk" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-spreadsheetml-to-json/" name="A SPREADSHEETML egyesítése a JSON-gyel" description="JavaScript objektum jelölés" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-spreadsheetml-to-jpeg/" name="A SPREADSHEETML egyesítése a JPEG-gyel" description="JPEG Kép" >}}
 

@@ -2,6 +2,7 @@
 title:  Szúrjon be téglalapot az Excelbe a C++ számon keresztül
 weight: 50
 description: C++ példakód a téglalap beszúrására a C++ számú Excel-fájlba a Windows 32 bites, Windows 64 bites és a 64 bites Linux futási környezethez.
+keywords: [C++ Aspose.Cells., C++ add Rectangle., C++ insert Rectangle., C++ create Rectangle]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Szúrjon be téglalapot az Excelbe a C++ számon keresztül" h2="Szúrjon be objektumokat a Aspose.Cells for C++ API szerveroldali natív és nagy teljesítményű szoftverek (például Microsoft vagy Adobe PDF) használata nélkül." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" sourceAdditionalConversionTag="" additionalConversionTag="" pfName="Aspose.Cells" subTitlepfName="for C++" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="XLSX" >}}
@@ -35,9 +36,9 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% blocks/products/pf/agp/feature-section-col title="A téglalap Excel-fájlba való beszúrásának lépései a C++ számon keresztül" %}}
 
-Munkafüzet objektum példányosítása. (vagy->Töltse be a XLSX fájlt a teljes elérési úttal.)
++ Munkafüzet objektum példányosítása. (vagy->Töltse be a XLSX fájlt a teljes elérési úttal.)
 + Válassza ki a munkalapot az indexén keresztül.
- + Használja a[módszer hozzáadása](https://reference.aspose.com/cells/cpp/class/aspose.cells.drawing.i_shape_collection#ada0b818330196c0f026e4588801feadd) az Egyenlet alakzatok beszúrásához a kiválasztott munkalapba
+ + Használja a[módszer hozzáadása](https://reference.aspose.com/cells/cpp/aspose.cells.drawing/shapecollection/addrectangle/) az Egyenlet alakzatok beszúrásához a kiválasztott munkalapba
 + Mentse a munkafüzetet XLSX formátumban.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
@@ -62,7 +63,7 @@ Munkafüzet objektum példányosítása. (vagy->Töltse be a XLSX fájlt a telje
 
 {{% blocks/products/pf/agp/code-block title="Téglalap beszúrása - C++" offSpacer="" %}}
 
-{{< gist "aspose-cells-gists" "6f7d9819d85793c3a3b5d040af42e1a9" "InsertRectangleIntoWorksheet.cpp" >}}
+{{< gist "aspose-cells-gists" "6f7d9819d85793c3a3b5d040af42e1a9" "InsertRectangleIntoWorksheet-new.cpp" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 
@@ -74,7 +75,7 @@ Munkafüzet objektum példányosítása. (vagy->Töltse be a XLSX fájlt a telje
 
 {{% blocks/products/pf/agp/content h2="Körülbelül Aspose.Cells for C++ API" %}}
 
- Aspose.Cells API használható Microsoft Excel formátumok létrehozására, szerkesztésére, konvertálására és renderelésére különböző formátumokba. Ezen túlmenően használható átfogó diagramok készítésére, skálázható jelentésekre és megbízható számításokra a szoftveralkalmazásokon belül. A Aspose.Cells egy önálló API, és nem igényel olyan szoftvert, mint a Microsoft vagy az OpenOffice.
+Aspose.Cells API használható Microsoft Excel formátumok létrehozására, szerkesztésére, konvertálására és renderelésére különböző formátumokba. Ezen túlmenően használható átfogó diagramok készítésére, skálázható jelentésekre és megbízható számításokra a szoftveralkalmazásokon belül. A Aspose.Cells egy önálló API, és nem igényel olyan szoftvert, mint a Microsoft vagy az OpenOffice.
 
 {{% /blocks/products/pf/agp/content %}}
 

@@ -1,7 +1,8 @@
 ---
-title:  Távolítsa el a XLSX A via Java megjegyzést
+title:  XLSX Megjegyzés hozzáadása vagy eltávolítása via Java
 weight: 5260
 description: Java mintakód a XLSX formátumú megjegyzések törléséhez a Java futásidejű környezet JSP/JSF alkalmazásokhoz és asztali alkalmazásokhoz.
+keywords: [Java Aspose.Cells., add xlsx annotation., insert xlsx annotation., access xlsx annotation., remove xlsx annotation., delete xlsx annotation., add annotation in xlsx., insert annotation in xlsx., access annotation in xlsx., remove annotation in xlsx., delete annotation in xlsx]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Megjegyzés hozzáadása vagy törlése innen: XLSX via Java" h2="Készítse el saját Java-es alkalmazásait a dokumentumfájlok megjegyzéseinek és szerzőinek manipulálásához szerveroldali API-k segítségével." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSX" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="" fileiconsmall1="PPTX" fileiconsmall2="DOCX" fileiconsmall3="XLSX" fileiconsmall4="PDF" fileiconsmall5=" ODP " >}}

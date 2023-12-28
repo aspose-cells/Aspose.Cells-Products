@@ -1,7 +1,7 @@
 ---
-title: Python XLT PRN-hez – Online XLT PRN-konverterhez
-description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Ingyenes online Python A XLT konvertálása PRN mentési formátumra. Python XLT PRN formátumba. Mentse a XLT számot a Python PRN számra.
-keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python XLT to PRN saveformat., Free Online XLT to PRN Python., Python Convert XLT to PRN]
+title: Python XLT PRN - XLT PRN konverter
+description: Aspose Excel. A XLT gyors és egyszerű konvertálása PRN-re a Aspose.Cells-es számmal. Python XLT PRN-re. Python Mentse a XLT-et a PRN-be. Mentse el a XLT számot PRN-ként a Python használatával.
+keywords: [Aspose Excel., Python Aspose.Cells., Convert XLT to PRN in Python., Save XLT to PRN using Python., Python XLT to PRN saveformat., XLT to PRN Converter., Python Save XLT as PRN]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Konvertálja a XLT-et PRN-re a Python-ben" h2="Nagy sebességű Python könyvtár a XLT PRN-re konvertálásához. Ez egy professzionális szoftvermegoldás a XLT, PRN és sok más formátum importálásához és exportálásához a Python használatával." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="PRN" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,11 +12,11 @@ keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python XLT
 
 {{% blocks/products/pf/agp/content h2="Konvertálja a XLT-et PRN-re a Python használatával" %}}
 
- Hogyan konvertálhatom a XLT-et PRN-re? A Aspose.Cells for Python könyvtárral egyszerűen konvertálhatja a XLT-et PRN-re néhány soros kóddal.[Aspose.Cells for Python](https://pypi.org/project/aspose-cells)képes többplatformos alkalmazásokat létrehozni, módosítani, konvertálni, renderelni és kinyomtatni az összes Excel fájlt. Python Excel API nem csak a táblázatformátumok között konvertál, hanem Excel fájlokat is képes megjeleníteni képként, PDF, HTML, ODS, CSV, CSV, CSV, CSV, CSV, CSV, SVG, és így tovább, SVG P, 8 PT a választás,3,8 ipari szabvány szerinti dokumentumok cseréjére formátumok.
+ Hogyan konvertálhatom a XLT-et PRN-re? A Aspose.Cells for Python könyvtárral egyszerűen konvertálhatja a XLT-et PRN-re néhány soros kóddal.[Aspose.Cells for Python](https://pypi.org/project/aspose-cells)képes többplatformos alkalmazásokat létrehozni, módosítani, konvertálni, renderelni és kinyomtatni az összes Excel fájlt. Python Az Excel API nemcsak a táblázatformátumok között konvertál, hanem Excel-fájlokat is képes megjeleníteni képként, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT és egyebekként, így tökéletes választás a szabványos formátumú dokumentumok cseréjéhez.
  
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Takarítson meg XLT-et a PRN számára a Python-es számon online ingyen" %}}
+{{% blocks/products/pf/agp/content h2="Mentse a XLT számot a PRN számára a Python számon" %}}
 
 A következő példa bemutatja, hogyan lehet a XLT-et PRN-re konvertálni a Python-ben.
 {{% blocks/products/pf/agp/text %}}
@@ -27,13 +27,13 @@ Kövesse az egyszerű lépéseket a XLT PRN-re konvertálásához. Töltse fel a
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Ingyenes alkalmazás és mintakód a XLT PRN Online konvertálásához" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlt" outformat="prn" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="Mintakód a XLT PRN-re konvertálásához" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlt" outformat="prn" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="A XLT konvertálása PRN-re a Python-en keresztül" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
-A XLT fájlokat programozottan PRN-re kell konvertálni? A Python fejlesztők egyszerűen betölthetik és néhány sornyi kóddal PRN-re konvertálhatják a XLT-et.
+XLT fájlokat programozottan PRN-re kell konvertálni? A Python fejlesztők egyszerűen betölthetik és néhány sornyi kóddal PRN-re konvertálhatják a XLT-et.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -63,19 +63,19 @@ Három lehetőség közül választhat a „Aspose.Cells for Python via Java” 
 
 {{% blocks/products/pf/agp/text %}}
 
-Aspose.Cells for Python via Java platformfüggetlen API, és bármilyen platformon használható (Windows, Linux és MacOS), csak győződjön meg arról, hogy a rendszer Java 1.8 vagy újabb[Python](https://www.python.org/downloads/) 3,5 vagy magasabb.
+ Aspose.Cells for Python via Java platformfüggetlen API, és bármilyen platformon használható (Windows, Linux és MacOS), csak győződjön meg arról, hogy a rendszer Java 1.8 vagy újabb[Python](https://www.python.org/downloads/) 3,5 vagy magasabb.
  
 {{% /blocks/products/pf/agp/text %}}
 
 -  Telepítse a Java-et, és adja hozzá a PATH környezeti változóhoz, például:<code>PATH=C:\Program Files\Java\jdk1.8.0_131;</code>.
-- Telepítés: Aspose.Cells for Python innen<a href="https://pypi.org/project/aspose-cells/">pypi</a> , használja a parancsot a következőképpen:<code>$ pip install aspose-cells</code>.
+-  Telepítés: Aspose.Cells for Python innen<a href="https://pypi.org/project/aspose-cells/">pypi</a> , használja a parancsot a következőképpen:<code>$ pip install aspose-cells</code>.
 
 {{% /blocks/products/pf/agp/content %}}
 
 <!-- aboutfile Starts -->
     {{< blocks/products/pf/agp/about-file-section >}}
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLT" readMoreLink="https://docs.fileformat.com/spreadsheet/xlt/" >}}Az .xlt kiterjesztésű fájlok olyan sablonfájlok, amelyeket a Microsoft Excel programmal hoztak létre, amely egy táblázatkezelő alkalmazás, amely a Microsoft Office csomag része. A Microsoft Office 97-2003 támogatta az új XLT fájlok létrehozását és megnyitását. Az Excel legújabb verziója továbbra is képes megnyitni a régi formátumú sablonfájlokat. Egy ilyen sablonfájl segítségével gyorsan hozhatók létre új Excel-fájlok alapértelmezett adatokkal és beállításokkal, például oldalformázással, betűmérettel, margókkal, diagramokkal stb., amelyek tovább menthetők új .xls fájlként.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="PRN" readMoreLink="https://fileinfo.com/extension/prn/" >}}PRN-fájl a Nyomtatás fájlba jelölőnégyzet segítségével létrehozott fájl, amely a Windows-es szám egyes Nyomtatás párbeszédpaneleiben jelenik meg. Eszközspecifikus utasításokat tartalmaz, amelyeket a nyomtató, fax vagy más eszköz a dokumentum nyomtatásához használ. A PRN-fájlok szöveges vagy bináris tartalmat tartalmazhatnak, attól függően, hogy milyen eszközhöz készült a fájl.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="PRN" readMoreLink="https://fileinfo.com/extension/prn/" >}}A PRN-fájl a Nyomtatás fájlba jelölőnégyzet segítségével létrehozott fájl, amely a Windows-es szám egyes Nyomtatás párbeszédpaneleiben jelenik meg. Eszközspecifikus utasításokat tartalmaz, amelyeket a nyomtató, fax vagy más eszköz a dokumentum nyomtatásához használ. A PRN-fájlok szöveges vagy bináris tartalmat tartalmazhatnak, attól függően, hogy milyen eszközhöz készült a fájl.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
     {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->
 
@@ -102,7 +102,7 @@ Aspose.Cells for Python via Java platformfüggetlen API, és bármilyen platform
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xlt-to-xltm/" name="XLT-XLTM" description="Excel-makró-kompatibilis sablon" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xlt-to-xltx/" name="XLT-XLTX" description="Office OpenXML Excel sablon" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xlt-to-xml/" name="XLT XML-RE" description="Bővíthető jelölőnyelv" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xlt-to-xps/" name="XLT-XPS" description="XML papírspecifikációk" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xlt-to-xps/" name="XLT-XPS" description="XML papír specifikációk" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xlt-to-json/" name="XLT-JSON" description="JavaScript objektum jelölés" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}

@@ -1,8 +1,8 @@
 ---
-title: Java Javítsa meg az Excel fájlt - Javítsa meg az Excel fájlt online ingyen
+title: Java Az Excel javítása – A sérült Excel fájl helyreállítása és javítása
 url: /hu/java/recovery/repair-excel/ 
-description: Aspose Excel. Java Aspose.Cells. Java Excel fájl javítása. Ingyenes online Excel javítóeszköz. Javítsa meg a sérült excel fájlt. Helyezze vissza a sérült Excel fájlt a Java alkalmazáson belül.
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java Repair excel file., Free Online Repair a corrupted excel file., Java Recover excel file.]
+description: Java Aspose.Cells. Javítás excel. Javítsa ki az Excel fájlt. excel helyreállítási eszköz. excel korrupció. Az excel adatok visszaállítása. excel fájl helyreállítás. A sérült excel fájl helyreállítása.
+keywords: [Java Aspose.Cells., repair excel file., excel repair., recover corrupted excel file., repair corrupted excel., recover excel., fix excel file., excel corruption., restore excel data., excel file recovery., recover corrupted excel file.]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Javítsa meg a Java-es EXCEL-fájlt" h2="Készítse el saját Java alkalmazását az Excel fájlok javításához a Java használatával." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="EXCEL" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="" fileiconsmall1="XLS" fileiconsmall2="XLSB" fileiconsmall3="XLSX" fileiconsmall4="XLSM" fileiconsmall5="ODS" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java Repair ex
 
 {{% blocks/products/pf/agp/content h2="Javítsa meg az EXCEL fájlt a Java használatával" %}}
 
- Hogyan javíthatom ki az excel fájlt? A Aspose.Cells for Java könyvtárral egyszerűen, néhány soros kóddal programozottan javíthatja az EXCEL fájlt.[Aspose.Cells for Java](https://products.aspose.com/cells/java) képes többplatformos alkalmazásokat létrehozni, módosítani, konvertálni, renderelni és kinyomtatni az összes Excel fájlt. Java Excel API nem csak a táblázatformátumok között konvertál, hanem Excel fájlokat is képes megjeleníteni képként, PDF, HTML, ODS, CSV, CSV, CSV, CSV, CSV, CSV, SVG, és így tovább, SVG P, 8 PT a választás,3,8 ipari szabvány szerinti dokumentumok cseréjére formátumok. A legújabb verziót közvetlenül a webhelyről töltheti le[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) és telepítse a Maven alapú projekten belül a következő konfigurációk hozzáadásával a pom.xml fájlhoz.
+ Hogyan javíthatom ki az excel fájlt? A Aspose.Cells for Java könyvtárral egyszerűen, néhány soros kóddal programozottan javíthatja az EXCEL fájlt.[Aspose.Cells for Java](https://products.aspose.com/cells/java)képes többplatformos alkalmazásokat létrehozni, módosítani, konvertálni, renderelni és kinyomtatni az összes Excel fájlt. Java Az Excel API nemcsak a táblázatformátumok között konvertál, hanem Excel-fájlokat is képes megjeleníteni képként, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT és egyebekként, így tökéletes választás a szabványos formátumú dokumentumok cseréjéhez. A legújabb verziót közvetlenül a webhelyről töltheti le[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) és telepítse a Maven alapú projekten belül a következő konfigurációk hozzáadásával a pom.xml fájlhoz.
 
 {{% blocks/products/pf/agp/code-block title="Adattár" offSpacer="true" %}}
 
@@ -55,12 +55,12 @@ Programozottan kell javítani az Excel fájlt? A Java fejlesztők egyszerűen be
 {{% /blocks/products/pf/agp/text %}}
 
 + Határozzon meg egy osztályt, amely örökli a Aspose.Cells.IWarningCallback kódot.
-+ Töltse be az EXCEL fájlt a munkafüzet egy példányának létrehozásával, a fenti öröklési osztály használatával, lásd a fenti kódot.
++ Töltse be az EXCEL fájlt a munkafüzet egy példányának létrehozásával a fenti öröklési osztály használatával, lásd a fenti kódot.
 + Mentse el a munkafüzetet, a sérült excel fájl javításra kerül.
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-recovery title="Ingyenes alkalmazás és mintakód az EXCEL-fájl online javításához" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et" InputFormat="xlsx" outformat="xlsx" IsLandingPage="true" language="java" %}}    
+{{% cells-recovery title="Mintakód az EXCEL fájl javításához" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et" InputFormat="xlsx" outformat="xlsx" IsLandingPage="true" language="java" %}}    
     
 {{% blocks/products/pf/agp/content h2="Java könyvtár az EXCEL-fájl javításához" %}}
 

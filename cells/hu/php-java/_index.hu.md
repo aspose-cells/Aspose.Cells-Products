@@ -12,7 +12,7 @@ description: API PHP Excel táblázat az írás olvasásához és konvertálás�
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
- Aspose.Cells for PHP via Java egy méretezhető és funkciókban gazdag Excel táblázatkezelő és -feldolgozás API. Az alkalmazások táblázatos formátum konvertálást, diagramkezelést és megjelenítést, képletek implementálását, munkalapok stílusát a legrészletesebb szintre és sokkal részletesebb A API támogatja a XLS, XLSX, ODS, SpreadsheetML, CSV, Tabulátorral tagolt, HTML/MHTML és MHTML egyéb formátumokat s. A fejlesztők könnyedén hozzáadhatják az Excel-fájlok létrehozásának, szerkesztésének, konvertálásának és renderelésének lehetőségét PHP-alkalmazásaikban a JavaBridge használata közben.
+ Aspose.Cells for PHP via Java egy méretezhető és funkciókban gazdag Excel táblázatkezelő és -feldolgozás API. Az alkalmazások táblázatos formátum konvertálást, diagramkezelést és megjelenítést, képletek implementálását, munkalapok stílusát a legrészletesebb szintre és sokkal részletesebb API támogatja a XLS, XLSX, ODS, SpreadsheetML, CSV, lapot, Delimited, HTML és más format. A fejlesztők könnyedén hozzáadhatják az Excel-fájlok létrehozásának, szerkesztésének, konvertálásának és renderelésének lehetőségét PHP-alkalmazásaikban a JavaBridge használata közben.
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
@@ -320,7 +320,7 @@ description: API PHP Excel táblázat az írás olvasásához és konvertálás�
     <em class="fa fa-align-center ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Létrehozása &amp; feltételes formázási szabályokat manipulálni
+ Létrehozás &amp; feltételes formázási szabályokat manipulálni
     </p>
    </div>
    <div class="col-lg-4">
@@ -334,7 +334,7 @@ description: API PHP Excel táblázat az írás olvasásához és konvertálás�
     <em class="fa fa-sort-amount-desc ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Létrehozása &amp; manipulálni a megnevezett tartományokat
+ Létrehozás &amp; manipulálni a megnevezett tartományokat
     </p>
    </div>
    <div class="col-lg-4">
@@ -362,7 +362,7 @@ description: API PHP Excel táblázat az írás olvasásához és konvertálás�
     <em class="fa fa-line-chart ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Létrehozása &amp; csillogó fényeket készít
+ Létrehozás &amp; csillogó fényeket készít
     </p>
    </div>
    <div class="col-lg-12">
@@ -370,11 +370,11 @@ description: API PHP Excel táblázat az írás olvasásához és konvertálás�
  Konvertálja az Excel fájlokat XPS, PDF és amp; HTML
     </h2>
     <p>
- A Aspose.Cells for PHP via Java API képes Excel-fájlok konvertálására XPS, XPS és HTML formátumba, valamint a legmagasabb vizuális hűség megőrzésére. Az átalakítási folyamat megbízható, és a fejlesztők néhány sorral megkaphatják a kívánt formátumot.
+ Aspose.Cells for PHP via Java API képes Excel-fájlok konvertálására XPS, XPS és HTML formátumba, valamint a legmagasabb vizuális hűség megőrzésére. Az átalakítási folyamat megbízható, és a fejlesztők néhány sorral megkaphatják a kívánt formátumot.
     </p>
     <div class="codeblock" id="code">
      <h3>
-Táblázat mentése több formátumban – PHP
+ Táblázat mentése több formátumban – PHP
      </h3>
      <pre><code class="php">// load document to be converted
 
@@ -404,7 +404,7 @@ $wkbk-&gt;save("output.html", SaveFormat::HTML);</code></pre>
  Rugalmas munkalap megjelenítési lehetőségek
     </h2>
     <p>
- Aspose.Cells for PHP via Java teljes ellenőrzést biztosít a munkalap oldalbeállítása felett, így lehetővé teszi az Excel munkalap megjelenítési beállításainak, például az oldaltörések, az oldaltájolás, a méretezés, a papírméret, a fejlécek/láblécek kezelését. zoom szint. Az adatok láthatóságát a rögzítőpanelek &amp; nyomtatási területet az alkalmazási követelményeknek megfelelően.
+Aspose.Cells for PHP via Java teljes ellenőrzést biztosít a munkalap oldalbeállítása felett, így lehetővé teszi az Excel munkalap megjelenítési beállításainak, például az oldaltörések, az oldaltájolás, a méretezés, a papírméret, a fejlécek/láblécek kezelését. zoom szint. Az adatok láthatóságát a rögzítőpanelek &amp; nyomtatási területet az alkalmazási követelményeknek megfelelően.
     </p>
    </div>
    <div class="col-lg-12">
@@ -412,7 +412,7 @@ $wkbk-&gt;save("output.html", SaveFormat::HTML);</code></pre>
  Hatékony, robusztus és Megbízható képletszámító motor
     </h2>
     <p>
-Aspose.Cells for PHP via Java egy nagy teljesítményű Formula Calculation Engine-rel van felszerelve, amely szinte az összes szabványos és fejlett Microsoft Excel képletet és függvényt támogatja. Olvashatja, beállíthatja és kiszámíthatja a beépített vagy kiegészítő típusú, tömb- és R1C1 referenciastílus-képletek eredményeit.
+ Aspose.Cells for PHP via Java egy nagy teljesítményű Formula Calculation Engine-rel van felszerelve, amely szinte az összes szabványos és fejlett Microsoft Excel képletet és függvényt támogatja. Olvashatja, beállíthatja és kiszámíthatja a beépített vagy kiegészítő típusú, tömb- és R1C1 referenciastílus-képletek eredményeit.
     </p>
    </div>
    <div class="col-lg-12">
@@ -423,7 +423,7 @@ Aspose.Cells for PHP via Java egy nagy teljesítményű Formula Calculation Engi
  A könyvtár annyira rugalmas, hogy a táblázatok mindenféle vizuális effektussal elláthatók, valamint formázást alkalmazhatunk egy munkalapon, soron, oszlopon vagy cellán, beállíthatunk betűtípusokat attribútumokkal, meghatározhatunk cella stílust és amp; számformátumokat, Rich Text hozzáadását és feltételes formázási szabályok meghatározását.
     </p>
     <p>
- Hasonlóképpen, a professzionális megjelenés és a könnyen érthető diagramok és grafikák szerves részét képezik. Aspose.Cells for PHP via Java Az API-k minden típusú szabványos és egyéni diagramot képesek létrehozni és kezelni. Ezen túlmenően, különböző típusú rajzobjektumok könnyen hozzáadhatók a cellákhoz.
+Hasonlóképpen, a professzionális megjelenés és a könnyen érthető diagramok és grafikák szerves részét képezik. Aspose.Cells for PHP via Java Az API-k minden típusú szabványos és egyéni diagramot képesek létrehozni és kezelni. Ezen túlmenően, különböző típusú rajzobjektumok könnyen hozzáadhatók a cellákhoz.
     </p>
    </div>
   </div>

@@ -1,7 +1,7 @@
 ---
-title: Java XLSM az ET-hez – Online XLSM az ET átalakítóhoz
-description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Ingyenes online Java A XLSM konvertálása ET mentési formátumba. Java XLSM ET formátumba. Mentse a XLSM számot az ET Java számra.
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java XLSM to ET saveformat., Free Online XLSM to ET Java., Java Convert XLSM to ET]
+title: Java XLSM ET - XLSM ET Converter
+description: Aspose Excel. A XLSM-es számot gyorsan és egyszerűen konvertálja ET-re a Aspose.Cells-es számmal. Java XLSM ET-re. Java Takarítson meg XLSM-et az ET-nek. Mentse el a XLSM számot ET néven a Java használatával.
+keywords: [Aspose Excel., Java Aspose.Cells., Convert XLSM to ET in Java., Save XLSM to ET using Java., Java XLSM to ET saveformat., XLSM to ET Converter., Java Save XLSM as ET]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Alakítsa át a XLSM-et ET-re a Java-ben" h2="Nagy sebességű Java-es könyvtár a XLSM ET-re való konvertálásához. Ez egy professzionális szoftvermegoldás a XLSM, ET és sok más formátum importálásához és exportálásához a Java használatával." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="ET" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java XLSM to E
 
 {{% blocks/products/pf/agp/content h2="Konvertálja a XLSM-et ET-re a Java használatával" %}}
 
- Hogyan konvertálhatom át a XLSM-et ET-re? A Aspose.Cells for Java könyvtárral könnyedén konvertálhatja a XLSM-et ET-vé, néhány sornyi kóddal programozottan.[Aspose.Cells for Java](https://products.aspose.com/cells/java) képes többplatformos alkalmazásokat létrehozni, módosítani, konvertálni, renderelni és kinyomtatni az összes Excel fájlt. Java Excel API nem csak a táblázatformátumok között konvertál, hanem Excel fájlokat is képes megjeleníteni képként, PDF, HTML, ODS, CSV, CSV, CSV, CSV, CSV, CSV, SVG, és így tovább, SVG P, 8 PT a választás,3,8 ipari szabvány szerinti dokumentumok cseréjére formátumok. A legújabb verziót közvetlenül a webhelyről töltheti le[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) és telepítse a Maven alapú projekten belül a következő konfigurációk hozzáadásával a pom.xml fájlhoz.
+ Hogyan konvertálhatom át a XLSM-et ET-re? A Aspose.Cells for Java könyvtárral könnyedén konvertálhatja a XLSM-et ET-vé, néhány sornyi kóddal programozottan.[Aspose.Cells for Java](https://products.aspose.com/cells/java)képes többplatformos alkalmazásokat létrehozni, módosítani, konvertálni, renderelni és kinyomtatni az összes Excel fájlt. Java Az Excel API nemcsak a táblázatformátumok között konvertál, hanem Excel-fájlokat is képes megjeleníteni képként, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT és egyebekként, így tökéletes választás a szabványos formátumú dokumentumok cseréjéhez. A legújabb verziót közvetlenül a webhelyről töltheti le[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) és telepítse a Maven alapú projekten belül a következő konfigurációk hozzáadásával a pom.xml fájlhoz.
 
 {{% blocks/products/pf/agp/code-block title="Adattár" offSpacer="true" %}}
 
@@ -45,7 +45,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java XLSM to E
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Takarítson meg XLSM-et ET-nek a Java-ben online ingyen" %}}
+{{% blocks/products/pf/agp/content h2="Mentse a XLSM számot ET-nek a Java számon" %}}
 
 A következő példa bemutatja, hogyan lehet átalakítani a XLSM-et ET-re a Java-ben.
 {{% blocks/products/pf/agp/text %}}
@@ -56,7 +56,7 @@ Kövesse az egyszerű lépéseket a XLSM ET-re konvertálásához. Töltse fel a
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Ingyenes alkalmazás és mintakód a XLSM ET Online-ra való konvertálásához" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsm" outformat="et" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Mintakód a XLSM ET-re konvertálásához" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsm" outformat="et" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="Hogyan alakítsuk át a XLSM-et ET via Java-re" %}}
 
@@ -68,7 +68,7 @@ Programozottan kell konvertálnia a XLSM fájlokat ET-re? A Java fejlesztők kö
 
 1.  Telepítse a „Aspose.Cells for Java” fájlt.
 1.  Adjon hozzá egy könyvtári hivatkozást (importálja a könyvtárat) a Java projekthez.
-1.  Töltse be a XLSM számú fájlt a Workbook osztály egy példányával.
+1. Töltse be a XLSM számú fájlt a Workbook osztály egy példányával.
 1.  Konvertálja a XLSM-et ET-re a Workbook.save metódus hívásával.
 1.  Szerezze meg a XLSM konverziós eredményt ET-re.
 
@@ -125,7 +125,7 @@ Programozottan kell konvertálnia a XLSM fájlokat ET-re? A Java fejlesztők kö
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/xlsm-to-xltm/" name="XLSM-XLTM" description="Excel-makró-kompatibilis sablon" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/xlsm-to-xltx/" name="XLSM-XLTX" description="Office OpenXML Excel sablon" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/xlsm-to-xml/" name="XLSM XML-RE" description="Bővíthető jelölőnyelv" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/xlsm-to-xps/" name="XLSM-XPS" description="XML papírspecifikációk" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/xlsm-to-xps/" name="XLSM-XPS" description="XML papír specifikációk" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/xlsm-to-json/" name="XLSM-JSON" description="JavaScript objektum jelölés" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/xlsm-to-jpeg/" name="XLSM-JPEG" description="JPEG Kép" >}}
 

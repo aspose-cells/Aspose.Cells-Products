@@ -1,8 +1,8 @@
 ---
 title: A XLSB egyesítése a TABDELIMITED számmal – a XLSB és a TABDELIMITED egyesítése a Python-ben
 url: /hu/python-net/merger/merge-xlsb-to-tabdelimited/ 
-description: Aspose Excel. Python Aspose.Cells. Ingyenes online egyesítés XLSB TABDELIMITED mentési formátumba. Python A XLSB kombinálása TABDELIMITED formátumba. A XLSB egyesítése a TABDELIMITED-hez a Python-ben. XLSB Egyesítés.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge XLSB to TABDELIMITED in Python., Free Online Python Merge XLSB to tabdelimited., Python Combine XLSB to TABDELIMITED Online for Free., XLSB Merge]
+description: Aspose Excel. Python Aspose.Cells. A XLSB egyesítése a TABDELIMITED mentési formátumba. Python A XLSB kombinálása TABDELIMITED formátumba. A XLSB egyesítése a TABDELIMITED-hez a Python-ben. XLSB Egyesítés.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge XLSB to TABDELIMITED in Python., Python Merge XLSB to tabdelimited., Python Combine XLSB to TABDELIMITED., XLSB Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="A XLSB egyesítése a TABDELIMITED-el a Python számon keresztül" h2="Nagy sebességű Python-es könyvtár a XLSB-es TAB-ba DELIMITED egyesítéséhez. Használja a API-es excel-konverziónkat magas szintű, platformfüggetlen szoftverek fejlesztéséhez a Python-ben. Ez egy professzionális szoftvermegoldás a Excel, CSV, OpenOffice, PDF, HTML, image és sok más excel formátum importálásához és exportálásához." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="XLSB" additionalConversionTag="TABDELIMITED" pfName="Aspose.Cells" subTitlepfName="for Python" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -12,12 +12,12 @@ keywords: [Aspose Excel., Python Aspose.Cells., Merge XLSB to TABDELIMITED in Py
 
 {{% blocks/products/pf/agp/content h2="A XLSB egyesítése a TABDELIMITED-hez a Python használatával" %}}
 
- Hogyan egyesíthetem a XLSB-es számot a TABDELIMITED-el? A Aspose.Cells for Python via .NET könyvtárral egyszerűen egyesítheti a XLSB-et a TABDELIMITED-szel programozottan néhány sor kóddal.[Aspose.Cells for Python via .NET](https://pypi.org/project/aspose-cells-python)képes többplatformos alkalmazásokat létrehozni, módosítani, konvertálni, renderelni és kinyomtatni az összes Excel fájlt. Python Excel API nem csak a táblázatformátumok között konvertál, hanem Excel fájlokat is képes megjeleníteni képként, PDF, HTML, ODS, CSV, CSV, CSV, CSV, CSV, CSV, SVG, és így tovább, SVG P, 8 PT a választás,3,8 ipari szabvány szerinti dokumentumok cseréjére formátumok. A Aspose.Cells for Python via .NET számot innen telepítheti.<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , használja a parancsot a következőképpen:<code>$ pip install aspose-cells-python</code>.
+ Hogyan egyesíthetem a XLSB-es számot a TABDELIMITED-el? A Aspose.Cells for Python via .NET könyvtárral egyszerűen egyesítheti a XLSB-et a TABDELIMITED-szel programozottan néhány sor kóddal.[Aspose.Cells for Python via .NET](https://pypi.org/project/aspose-cells-python) képes többplatformos alkalmazásokat létrehozni, módosítani, konvertálni, renderelni és kinyomtatni az összes Excel fájlt. Python Az Excel API nemcsak a táblázatformátumok között konvertál, hanem Excel-fájlokat is képes megjeleníteni képként, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT és egyebekként, így tökéletes választás a szabványos formátumú dokumentumok cseréjéhez. Telepítheti a Aspose.Cells for Python via .NET számot innen<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , használja a parancsot a következőképpen:<code>$ pip install aspose-cells-python</code>.
 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Csatlakoztassa a XLSB-et a TABDELIMITED-hez a Python-ben online ingyen" %}}
+{{% blocks/products/pf/agp/content h2="A XLSB egyesítése a TABDELIMITED-hez a Python-ben" %}}
 
 A következő példa bemutatja a XLSB és a TABDELIMITED egyesítését a Aspose.Cells for Python via .NET számban.
 {{% blocks/products/pf/agp/text %}}
@@ -28,7 +28,7 @@ Kövesse az egyszerű lépéseket a XLSB és a TABDELIMITED egyesítéséhez. T�
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Ingyenes online a XLSB és a TABDELIMITED egyesítéséhez a Python-ben" InputFormat="xlsb" InputFormat2="tsv" outformat="tsv" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-merger title="Mintakód a XLSB és a TABDELIMITED egyesítéséhez a Python-ben" InputFormat="xlsb" InputFormat2="tsv" outformat="tsv" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="A XLSB és a TABDELIMITED egyesítése a Python számon keresztül" %}}
 
@@ -52,7 +52,7 @@ Kövesse az egyszerű lépéseket a XLSB és a TABDELIMITED egyesítéséhez. T�
 A Python-es csomagjainkat PyPi-tárolókban tároljuk.
 
 {{% blocks/products/pf/agp/text %}}
-Telepítés: Aspose.Cells for Python innen<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , használja a parancsot a következőképpen:<code>$ pip install aspose-cells-python</code>.
+ Telepítés: Aspose.Cells for Python innen<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , használja a parancsot a következőképpen:<code>$ pip install aspose-cells-python</code>.
 {{% /blocks/products/pf/agp/text %}}
 
 {{% blocks/products/pf/agp/text %}}
@@ -72,7 +72,7 @@ API-jaink minden nagyobb platformon és operációs rendszeren támogatottak. Mi
 {{% /blocks/products/pf/agp/text %}}
 
 -  Telepítés[Python](https://www.python.org/downloads/) 3,7 vagy magasabb.
-- Telepítés: Aspose.Cells for Python innen<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , használja a parancsot a következőképpen:<code>$ pip install aspose-cells-python</code>.
+-  Telepítés: Aspose.Cells for Python innen<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , használja a parancsot a következőképpen:<code>$ pip install aspose-cells-python</code>.
 
 
 {{% /blocks/products/pf/agp/content %}}
@@ -108,8 +108,8 @@ API-jaink minden nagyobb platformon és operációs rendszeren támogatottak. Mi
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-xlsb-to-xlt/" name="XLSB és a XLT számok egyesítése" description="Microsoft Excel-sablon" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-xlsb-to-xltm/" name="XLSB és a XLTM számok egyesítése" description="Excel-makró-kompatibilis sablon" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-xlsb-to-xltx/" name="XLSB és a XLTX számok egyesítése" description="Office OpenXML Excel sablon" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-xlsb-to-xml/" name="A XLSB egyesítése XML-be" description="Bővíthető jelölőnyelv" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-xlsb-to-xps/" name="XLSB és a XPS számok egyesítése" description="XML papírspecifikációk" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-xlsb-to-xml/" name="Egyesítse a XLSB-et XML-be" description="Bővíthető jelölőnyelv" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-xlsb-to-xps/" name="XLSB és a XPS számok egyesítése" description="XML papír specifikációk" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-xlsb-to-json/" name="XLSB és a JSON számok egyesítése" description="JavaScript objektum jelölés" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-xlsb-to-jpeg/" name="XLSB és a JPEG számok egyesítése" description="JPEG Kép" >}}
 

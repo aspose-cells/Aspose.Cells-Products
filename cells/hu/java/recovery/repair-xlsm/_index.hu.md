@@ -1,8 +1,8 @@
 ---
-title: Java Xlsm fájl javítása – xlsm fájl javítása online ingyen
+title: Java xlsm javítása – A sérült xlsm fájl helyreállítása és javítása
 url: /hu/java/recovery/repair-xlsm/ 
-description: Aspose Excel. Java Aspose.Cells. Java Xlsm fájl javítása. Ingyenes online xlsm javítóeszköz. Javítsa meg a sérült xlsm fájlt. Helyezze vissza a sérült xlsm fájlt a Java alkalmazáson belül.
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java Repair xlsm file., Free Online Repair a corrupted xlsm file., Java Recover xlsm file.]
+description: Java Aspose.Cells. Javítás xlsm. Xlsm fájl javítása. xlsm helyreállítási eszköz. xlsm korrupció. xlsm adatok visszaállítása. xlsm fájl helyreállítása. A sérült xlsm fájl helyreállítása.
+keywords: [Java Aspose.Cells., repair xlsm file., xlsm repair., recover corrupted xlsm file., repair corrupted xlsm., recover xlsm., fix xlsm file., xlsm corruption., restore xlsm data., xlsm file recovery., recover corrupted xlsm file.]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Javítás XLSM fájl a Java-ben" h2="Készítse el saját Java alkalmazását az xlsm fájlok javításához a Java használatával." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSM" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="" fileiconsmall1="XLS" fileiconsmall2="XLSB" fileiconsmall3="XLSX" fileiconsmall4="XLSM" fileiconsmall5="ODS" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java Repair xl
 
 {{% blocks/products/pf/agp/content h2="Javítás XLSM fájl a Java használatával" %}}
 
- Hogyan javíthatom ki az xlsm fájlt? A Aspose.Cells for Java könyvtárral könnyedén kijavíthatja a XLSM fájlt néhány soros kóddal, programozottan.[Aspose.Cells for Java](https://products.aspose.com/cells/java) képes többplatformos alkalmazásokat létrehozni, módosítani, konvertálni, renderelni és kinyomtatni az összes Excel fájlt. Java Excel API nem csak a táblázatformátumok között konvertál, hanem Excel fájlokat is képes megjeleníteni képként, PDF, HTML, ODS, CSV, CSV, CSV, CSV, CSV, CSV, SVG, és így tovább, SVG P, 8 PT a választás,3,8 ipari szabvány szerinti dokumentumok cseréjére formátumok. A legújabb verziót közvetlenül a webhelyről töltheti le[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) és telepítse a Maven alapú projekten belül a következő konfigurációk hozzáadásával a pom.xml fájlhoz.
+ Hogyan javíthatom ki az xlsm fájlt? A Aspose.Cells for Java könyvtárral könnyedén kijavíthatja a XLSM fájlt néhány soros kóddal, programozottan.[Aspose.Cells for Java](https://products.aspose.com/cells/java)képes többplatformos alkalmazásokat létrehozni, módosítani, konvertálni, renderelni és kinyomtatni az összes Excel fájlt. Java Az Excel API nemcsak a táblázatformátumok között konvertál, hanem Excel-fájlokat is képes megjeleníteni képként, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT és egyebekként, így tökéletes választás a szabványos formátumú dokumentumok cseréjéhez. A legújabb verziót közvetlenül a webhelyről töltheti le[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) és telepítse a Maven alapú projekten belül a következő konfigurációk hozzáadásával a pom.xml fájlhoz.
 
 {{% blocks/products/pf/agp/code-block title="Adattár" offSpacer="true" %}}
 
@@ -60,7 +60,7 @@ Programozottan kell javítani az xlsm fájlt? Java A fejlesztők könnyedén bet
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-recovery title="Ingyenes alkalmazás és mintakód a XLSM fájl online javításához" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et" InputFormat="xlsm" outformat="xlsm" IsLandingPage="true" language="java" %}}    
+{{% cells-recovery title="Mintakód a XLSM fájl javításához" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et" InputFormat="xlsm" outformat="xlsm" IsLandingPage="true" language="java" %}}    
     
 {{% blocks/products/pf/agp/content h2="Java könyvtár a XLSM fájl javításához" %}}
 

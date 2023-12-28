@@ -1,7 +1,8 @@
 ---
-title:  Vízjel XLS dokumentum via Java
+title: Vízjel XLS dokumentum via Java
 weight: 2210
 description: Java mintakód vízjel hozzáadásához vagy eltávolításához a XLS fájlhoz a Java Futókörnyezet JSP/JSF alkalmazásokhoz és asztali alkalmazásokhoz.
+keywords: [Java Aspose.Cells., Java add watermark to xls file., Java insert watermark to xls file., Java create watermark in xls file., remove watermark from xls file using Java., Java operate watermark in xls file., Java access watermark in xls file]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Szöveg vízjel hozzáadása a XLS via Java számhoz" h2="Szerveroldali API-k segítségével készítse el saját Java-es alkalmazásait a XLS-es fájlok vízjelezésére." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLS" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="" fileiconsmall1="PPTX" fileiconsmall2="DOCX" fileiconsmall3="XLSX" fileiconsmall4="PDF" fileiconsmall5=" ODP " >}}

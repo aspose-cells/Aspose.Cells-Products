@@ -1,6 +1,7 @@
 ---
-title: एक्सेल फ़ाइल via Java को सुधारें
-description: Java का उपयोग करके एक भ्रष्ट एक्सेल फ़ाइल को सुधारें। Java एप्लिकेशन के भीतर दूषित एक्सेल फ़ाइल को सुधारने के लिए पुनर्प्राप्ति उपकरण।
+title: Java एक्सेल सुधारें - दूषित एक्सेल फ़ाइल को पुनर्प्राप्त करें और ठीक करें
+description: Java Aspose.Cells. एक्सेल मरम्मत करें। एक्सेल फ़ाइल ठीक करें. एक्सेल रिकवरी टूल। एक्सेल भ्रष्टाचार. एक्सेल डेटा पुनर्स्थापित करें. एक्सेल फ़ाइल पुनर्प्राप्ति। दूषित एक्सेल फ़ाइल पुनर्प्राप्त करें.
+keywords: [Java Aspose.Cells., repair excel file., excel repair., recover corrupted excel file., repair corrupted excel., recover excel., fix excel file., excel corruption., restore excel data., excel file recovery., recover corrupted excel file.]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="एक्सेल फ़ाइल via Java पुनर्प्राप्त करें" h2="Java का उपयोग करके एक्सेल फ़ाइलों की मरम्मत के लिए Java एप्लिकेशन बनाएं।" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="EXCEL" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="" fileiconsmall1="XLS" fileiconsmall2="XLSB" fileiconsmall3="XLSX" fileiconsmall4="XLSM" fileiconsmall5="ODS" >}}
@@ -10,7 +11,7 @@ description: Java का उपयोग करके एक भ्रष्ट 
 
 {{% blocks/products/pf/agp/content h2="Java का उपयोग करके एक्सेल फ़ाइल की मरम्मत करें" %}}
 
- EXCEL फ़ाइल को सुधारने के लिए, हम इसका उपयोग करेंगे[Aspose.Cells for Java](https://products.aspose.com/cells/java)API जो एक सुविधा संपन्न, शक्तिशाली और उपयोग में आसान दस्तावेज़ हेरफेर API for Java प्लेटफ़ॉर्म है।
+ EXCEL फ़ाइल को सुधारने के लिए, हम इसका उपयोग करेंगे[Aspose.Cells for Java](https://products.aspose.com/cells/java) API जो एक सुविधा संपन्न, शक्तिशाली और उपयोग में आसान दस्तावेज़ हेरफेर API for Java प्लेटफ़ॉर्म है।
  
  Aspose.Cells API का उपयोग Microsoft एक्सेल प्रारूपों को विभिन्न प्रारूपों में बनाने, संपादित करने, परिवर्तित करने और प्रस्तुत करने के लिए किया जा सकता है। इसके अलावा, इसका उपयोग सॉफ्टवेयर अनुप्रयोगों के भीतर व्यापक चार्टिंग, स्केलेबल रिपोर्टिंग और विश्वसनीय गणना के लिए किया जा सकता है। Aspose.Cells एक स्टैंडअलोन API है और इसके लिए Microsoft या ओपनऑफिस जैसे किसी सॉफ़्टवेयर की आवश्यकता नहीं है।
 

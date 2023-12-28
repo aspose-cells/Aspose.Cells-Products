@@ -1,8 +1,8 @@
 ---
 title: JPG egyesítése SQL-be – JPG egyesítése SQL-be a C++-ben
 url: /hu/cpp/merger/merge-jpg-to-sql/ 
-description: Aspose Excel. C++ Aspose.Cells. Ingyenes online egyesítése JPG SQL mentési formátumba. C++ JPG és SQL formátum kombinálása. JPG egyesítése SQL-be a C++-ben. JPG egyesítés.
-keywords: [Aspose Excel., C++ Aspose.Cells., Merge JPG to SQL in C++., Free Online C++ Merge JPG to sql., C++ Combine JPG to SQL Online for Free., JPG Merge]
+description: Aspose Excel. C++ Aspose.Cells. JPG egyesítése SQL mentési formátumba. C++ JPG és SQL formátum kombinálása. JPG egyesítése SQL-be a C++-ben. JPG egyesítés.
+keywords: [Aspose Excel., C++ Aspose.Cells., Merge JPG to SQL in C++., C++ Merge JPG to sql., C++ Combine JPG to SQL., JPG Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Egyesítse a JPG-t SQL-be a C++-es számon keresztül" h2="Nagy sebességű C++ könyvtár a JPG és az SQL egyesítéséhez. Használja a API-es excel-konverziónkat magas szintű, platformfüggetlen szoftverek fejlesztéséhez a C++-ben. Ez egy professzionális szoftvermegoldás a Excel, CSV, OpenOffice, PDF, HTML, image és sok más excel formátum importálásához és exportálásához." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" sourceAdditionalConversionTag="JPG" additionalConversionTag="SQL" pfName="Aspose.Cells" subTitlepfName="for C++" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., C++ Aspose.Cells., Merge JPG to SQL in C++., Free Onli
 
 {{% blocks/products/pf/agp/content h2="JPG egyesítése SQL-be a C++ használatával" %}}
 
- Hogyan egyesíthetem a JPG-t SQL-be? A Aspose.Cells for C++ könyvtárral egyszerűen egyesítheti a JPG-t SQL-lel, néhány soros kóddal programozottan.[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) képes többplatformos alkalmazásokat létrehozni, módosítani, konvertálni, renderelni és kinyomtatni az összes Excel fájlt. C++ Excel API nem csak a táblázatformátumok között konvertál, hanem Excel fájlokat is képes megjeleníteni képként, PDF, HTML, ODS, CSV, CSV, CSV, CSV, CSV, CSV, SVG, és így tovább, SVG P, 8 PT a választás,3,8 ipari szabvány szerinti dokumentumok cseréjére formátumok. A legújabb verziót közvetlenül letöltheti, csak nyissa meg[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) csomagkezelő, keresse meg a Aspose.Cells.Cpp címet, és telepítse. A következő parancsot is használhatja a Package Manager konzolból.
+ Hogyan egyesíthetem a JPG-t SQL-be? A Aspose.Cells for C++ könyvtárral egyszerűen egyesítheti a JPG-t SQL-lel, néhány soros kóddal programozottan.[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) képes többplatformos alkalmazásokat létrehozni, módosítani, konvertálni, renderelni és kinyomtatni az összes Excel fájlt. C++ Az Excel API nemcsak a táblázatformátumok között konvertál, hanem Excel-fájlokat is képes megjeleníteni képként, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT és egyebekként, így tökéletes választás a szabványos formátumú dokumentumok cseréjéhez. A legújabb verziót közvetlenül letöltheti, csak nyissa meg[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) csomagkezelő, keresse meg a Aspose.Cells.Cpp címet, és telepítse. A következő parancsot is használhatja a Package Manager konzolból.
 
 {{% blocks/products/pf/agp/code-block title="Parancs" offSpacer="true" %}}
 
@@ -26,9 +26,9 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Egyesítse a JPG-t SQL-be a C++ Online ingyenesen" %}}
+{{% blocks/products/pf/agp/content h2="Egyesítse a JPG-t SQL-be a C++-ben" %}}
 
-A következő példa bemutatja, hogyan egyesítheti a JPG-t SQL-be a Aspose.Cells for C++-ben.
+következő példa bemutatja, hogyan egyesítheti a JPG-t SQL-be a Aspose.Cells for C++-ben.
 {{% blocks/products/pf/agp/text %}}
 
 Kövesse az egyszerű lépéseket a JPG és az SQL egyesítéséhez. Töltse fel fájljait, hívja meg a Workbook.Combine metódust a fájlok egyesítéséhez, majd mentse el SQL fájlba. Ha kódot fejleszt a C++-ben, ez egyszerűbb lesz, mint amilyennek hangzik. Lásd a C++-es példát, amely a JPG-t SQL-lel egyesíti.
@@ -37,13 +37,13 @@ Kövesse az egyszerű lépéseket a JPG és az SQL egyesítéséhez. Töltse fel
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Ingyenes online JPG és SQL egyesítése a C++-ben" InputFormat="jpg" InputFormat2="sql" outformat="sql" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="cpp" %}}
+{{% cells-merger title="Mintakód a JPG és az SQL egyesítéséhez a C++-ben" InputFormat="jpg" InputFormat2="sql" outformat="sql" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="cpp" %}}
 
 {{% blocks/products/pf/agp/content h2="JPG és SQL egyesítése a C++ számon keresztül" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
-Programozottan egyesítenie kell a JPG-t SQL-lel? Egy alapdokumentum, amely összeolvad és összefűződik[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) Az API-k néhány sornyi kóddal elkészíthetők.
+ Programozottan egyesítenie kell a JPG-t SQL-lel? Egy alapdokumentum, amely összeolvad és összefűződik[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) Az API-k néhány sornyi kóddal elkészíthetők.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -107,7 +107,6 @@ API-jaink minden nagyobb platformon és operációs rendszeren támogatottak. Mi
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-jpg-to-pdf/" name="JPG egyesítése a PDF-gyel" description="Hordozható dokumentum formátum" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-jpg-to-png/" name="JPG egyesítése a PNG-gyel" description="Hordozható hálózati grafika" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-jpg-to-svg/" name="JPG egyesítése a SVG-gyel" description="Skálázható vektorgrafika" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-jpg-to-tiff/" name="JPG egyesítése a TIFF-gyel" description="Címkézett képformátum" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-jpg-to-tsv/" name="JPG egyesítése a TSV-gyel" description="Tabulátorral elválasztott értékek" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-jpg-to-txt/" name="JPG egyesítése a TXT-gyel" description="Szöveges dokumentum" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-jpg-to-xls/" name="JPG egyesítése a XLS-gyel" description="Excel bináris formátum" >}}
@@ -118,7 +117,7 @@ API-jaink minden nagyobb platformon és operációs rendszeren támogatottak. Mi
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-jpg-to-xltm/" name="JPG egyesítése a XLTM-gyel" description="Excel-makró-kompatibilis sablon" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-jpg-to-xltx/" name="JPG egyesítése a XLTX-gyel" description="Office OpenXML Excel sablon" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-jpg-to-xml/" name="JPG egyesítése XML-be" description="Bővíthető jelölőnyelv" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-jpg-to-xps/" name="JPG egyesítése a XPS-gyel" description="XML papírspecifikációk" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-jpg-to-xps/" name="JPG egyesítése a XPS-gyel" description="XML papír specifikációk" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-jpg-to-json/" name="JPG egyesítése a JSON-gyel" description="JavaScript objektum jelölés" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-jpg-to-jpeg/" name="JPG egyesítése a JPEG-gyel" description="JPEG Kép" >}}
 

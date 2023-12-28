@@ -1,8 +1,8 @@
 ---
 title: A XLSM-JSON-es számok egyesítése – a XLSM-es és a JSON-es számok egyesítése a Python-ben
 url: /hu/python-net/merger/merge-xlsm-to-json/ 
-description: Aspose Excel. Python Aspose.Cells. Ingyenes online egyesítés XLSM JSON mentési formátumba. Python A XLSM és a JSON formátum kombinálása. Egyesítse a XLSM-JSON-et a Python-ben. XLSM Egyesítse.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge XLSM to JSON in Python., Free Online Python Merge XLSM to json., Python Combine XLSM to JSON Online for Free., XLSM Merge]
+description: Aspose Excel. Python Aspose.Cells. A XLSM és a JSON mentési formátum egyesítése. Python A XLSM és a JSON formátum kombinálása. Egyesítse a XLSM-JSON-et a Python-ben. XLSM Egyesítse.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge XLSM to JSON in Python., Python Merge XLSM to json., Python Combine XLSM to JSON., XLSM Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="A XLSM-es szám egyesítése a JSON-es számmal a Python-es számon keresztül" h2="Nagysebességű Python könyvtár a XLSM és JSON egyesítéséhez. Használja a API-es excel konverziónkat magas szintű, platformfüggetlen szoftver fejlesztésére a Python-ben. Ez egy professzionális szoftvermegoldás Excel, CSV, OpenOffice, PDF, HTML, image és sok más excel formátum importálásához és exportálásához." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="XLSM" additionalConversionTag="JSON" pfName="Aspose.Cells" subTitlepfName="for Python" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -12,12 +12,12 @@ keywords: [Aspose Excel., Python Aspose.Cells., Merge XLSM to JSON in Python., F
 
 {{% blocks/products/pf/agp/content h2="A XLSM és a JSON egyesítése a Python használatával" %}}
 
- Hogyan egyesíthetem a XLSM és a JSON számokat? A Aspose.Cells for Python via .NET könyvtárral könnyedén egyesítheti a XLSM-et a JSON-es számokkal programozottan néhány sornyi kóddal.[Aspose.Cells for Python via .NET](https://pypi.org/project/aspose-cells-python)képes többplatformos alkalmazásokat létrehozni, módosítani, konvertálni, renderelni és kinyomtatni az összes Excel fájlt. Python Excel API nem csak a táblázatformátumok között konvertál, hanem Excel fájlokat is képes megjeleníteni képként, PDF, HTML, ODS, CSV, CSV, CSV, CSV, CSV, CSV, SVG, és így tovább, SVG P, 8 PT a választás,3,8 ipari szabvány szerinti dokumentumok cseréjére formátumok. A Aspose.Cells for Python via .NET számot innen telepítheti.<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , használja a parancsot a következőképpen:<code>$ pip install aspose-cells-python</code>.
+Hogyan egyesíthetem a XLSM és a JSON számokat? A Aspose.Cells for Python via .NET könyvtárral könnyedén egyesítheti a XLSM-et a JSON-es számokkal programozottan néhány sornyi kóddal.[Aspose.Cells for Python via .NET](https://pypi.org/project/aspose-cells-python) képes többplatformos alkalmazásokat létrehozni, módosítani, konvertálni, renderelni és kinyomtatni az összes Excel fájlt. Python Az Excel API nemcsak a táblázatformátumok között konvertál, hanem Excel-fájlokat is képes megjeleníteni képként, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT és egyebekként, így tökéletes választás a szabványos formátumú dokumentumok cseréjéhez. Telepítheti a Aspose.Cells for Python via .NET számot innen<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , használja a parancsot a következőképpen:<code>$ pip install aspose-cells-python</code>.
 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Csatlakoztassa a XLSM-es számokat a JSON-es számokhoz a Python-ben online ingyen" %}}
+{{% blocks/products/pf/agp/content h2="A XLSM és a JSON egyesítése a Python-ben" %}}
 
 A következő példa bemutatja a XLSM és JSON egyesítését a Aspose.Cells for Python via .NET számban.
 {{% blocks/products/pf/agp/text %}}
@@ -28,7 +28,7 @@ Kövesse az egyszerű lépéseket a XLSM-es és a JSON-es számok egyesítéséh
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Ingyenes online a XLSM-JSON-es számok egyesítéséhez a Python-ben" InputFormat="xlsm" InputFormat2="json" outformat="json" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-merger title="Mintakód a XLSM és JSON közötti egyesítéshez a Python-ben" InputFormat="xlsm" InputFormat2="json" outformat="json" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="A XLSM és a JSON egyesítése a Python számon keresztül" %}}
 
@@ -52,7 +52,7 @@ Kövesse az egyszerű lépéseket a XLSM-es és a JSON-es számok egyesítéséh
 A Python-es csomagjainkat PyPi-tárolókban tároljuk.
 
 {{% blocks/products/pf/agp/text %}}
-Telepítés: Aspose.Cells for Python innen<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , használja a parancsot a következőképpen:<code>$ pip install aspose-cells-python</code>.
+ Telepítés: Aspose.Cells for Python innen<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , használja a parancsot a következőképpen:<code>$ pip install aspose-cells-python</code>.
 {{% /blocks/products/pf/agp/text %}}
 
 {{% blocks/products/pf/agp/text %}}
@@ -72,7 +72,7 @@ API-jaink minden nagyobb platformon és operációs rendszeren támogatottak. Mi
 {{% /blocks/products/pf/agp/text %}}
 
 -  Telepítés[Python](https://www.python.org/downloads/) 3,7 vagy magasabb.
-- Telepítés: Aspose.Cells for Python innen<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , használja a parancsot a következőképpen:<code>$ pip install aspose-cells-python</code>.
+-  Telepítés: Aspose.Cells for Python innen<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , használja a parancsot a következőképpen:<code>$ pip install aspose-cells-python</code>.
 
 
 {{% /blocks/products/pf/agp/content %}}
@@ -108,8 +108,8 @@ API-jaink minden nagyobb platformon és operációs rendszeren támogatottak. Mi
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-xlsm-to-xlt/" name="XLSM és a XLT számok egyesítése" description="Microsoft Excel-sablon" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-xlsm-to-xltm/" name="XLSM és a XLTM számok egyesítése" description="Excel-makró-kompatibilis sablon" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-xlsm-to-xltx/" name="XLSM és a XLTX számok egyesítése" description="Office OpenXML Excel sablon" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-xlsm-to-xml/" name="A XLSM egyesítése XML-be" description="Bővíthető jelölőnyelv" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-xlsm-to-xps/" name="XLSM és a XPS számok egyesítése" description="XML papírspecifikációk" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-xlsm-to-xml/" name="Egyesítse a XLSM-et XML-be" description="Bővíthető jelölőnyelv" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-xlsm-to-xps/" name="XLSM és a XPS számok egyesítése" description="XML papír specifikációk" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-xlsm-to-json/" name="XLSM és a JSON számok egyesítése" description="JavaScript objektum jelölés" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-xlsm-to-jpeg/" name="XLSM és a JPEG számok egyesítése" description="JPEG Kép" >}}
 

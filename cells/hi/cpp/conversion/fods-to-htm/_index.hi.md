@@ -1,7 +1,7 @@
 ---
-title: C++ FODS से एचटीएम - ऑनलाइन FODS से एचटीएम कन्वर्टर
-description: Aspose एक्सेल। C++ Aspose.Cells. C++ Aspose Cells. मुफ़्त ऑनलाइन C++ FODS को एचटीएम सेवफॉर्मेट में कनवर्ट करें। C++ FODS एचटीएम प्रारूप में। FODS को एचटीएम C++ पर सेव करें।
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ FODS to HTM saveformat., Free Online FODS to HTM C++., C++ Convert FODS to HTM]
+title: C++ FODS से एचटीएम - FODS से एचटीएम कन्वर्टर
+description: Aspose एक्सेल। Aspose.Cells के साथ FODS को जल्दी और आसानी से HTM में बदलें। C++ FODS को HTM में बदलें। C++ FODS को एचटीएम में सहेजें। C++ का उपयोग करके FODS को एचटीएम के रूप में सहेजें।
+keywords: [Aspose Excel., C++ Aspose.Cells., Convert FODS to HTM in C++., Save FODS to HTM using C++., C++ FODS to HTM saveformat., FODS to HTM Converter., C++ Save FODS as HTM]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="FODS को C++ में एचटीएम में बदलें" h2="Microsoft एक्सेल, ओपनऑफिस या एडोब एक्रोबैट इंस्टॉलेशन की आवश्यकता के बिना C++ लाइब्रेरी का उपयोग करके एचटीएम में उच्च प्रदर्शन FODS रूपांतरण।" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" sourceAdditionalConversionTag="" additionalConversionTag="HTM" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ FODS to HTM 
 
 {{% blocks/products/pf/agp/content h2="C++ का उपयोग करके FODS को एचटीएम में बदलें" %}}
 
- मैं FODS को एचटीएम में कैसे परिवर्तित करूं? Aspose.Cells for C++ लाइब्रेरी के साथ, आप कोड की कुछ पंक्तियों के साथ आसानी से FODS को प्रोग्रामेटिक रूप से एचटीएम में परिवर्तित कर सकते हैं।[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) सभी एक्सेल फ़ाइलों को उत्पन्न करने, संशोधित करने, परिवर्तित करने, प्रस्तुत करने और प्रिंट करने की क्षमता के साथ क्रॉस-प्लेटफ़ॉर्म एप्लिकेशन बनाने में सक्षम है। C++ एक्सेल API न केवल स्प्रेडशीट प्रारूपों के बीच कनवर्ट कर सकता है, यह एक्सेल फाइलों को छवियों, PDF, HTML, ODS, CSV, SVG, JSON, वर्ड, पीपीटी और भी बहुत कुछ के रूप में प्रस्तुत कर सकता है, इस प्रकार यह एक्सचेंज के लिए एक आदर्श विकल्प बन जाता है। उद्योग-मानक में दस्तावेज़ प्रारूप. आप इसका नवीनतम संस्करण सीधे डाउनलोड कर सकते हैं, बस खोलें[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) पैकेज मैनेजर, Aspose.Cells.सीपीपी खोजें और इंस्टॉल करें। आप पैकेज मैनेजर कंसोल से निम्न कमांड का भी उपयोग कर सकते हैं।
+ मैं FODS को एचटीएम में कैसे परिवर्तित करूं? Aspose.Cells for C++ लाइब्रेरी के साथ, आप कोड की कुछ पंक्तियों के साथ आसानी से FODS को प्रोग्रामेटिक रूप से एचटीएम में परिवर्तित कर सकते हैं।[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) सभी एक्सेल फ़ाइलों को उत्पन्न करने, संशोधित करने, परिवर्तित करने, प्रस्तुत करने और प्रिंट करने की क्षमता के साथ क्रॉस-प्लेटफ़ॉर्म एप्लिकेशन बनाने में सक्षम है। C++ एक्सेल API न केवल स्प्रेडशीट प्रारूपों के बीच परिवर्तित होता है, बल्कि यह एक्सेल फाइलों को छवियों, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT और अधिक के रूप में भी प्रस्तुत कर सकता है, इस प्रकार यह उद्योग-मानक प्रारूपों में दस्तावेजों का आदान-प्रदान करने के लिए एक आदर्श विकल्प बन जाता है। आप इसका नवीनतम संस्करण सीधे डाउनलोड कर सकते हैं, बस खोलें[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) पैकेज मैनेजर, Aspose.Cells.सीपीपी खोजें और इंस्टॉल करें। आप पैकेज मैनेजर कंसोल से निम्न कमांड का भी उपयोग कर सकते हैं।
 
 {{% blocks/products/pf/agp/code-block title="आज्ञा" offSpacer="true" %}}
 
@@ -26,7 +26,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="FODS को एचटीएम में C++ में निःशुल्क ऑनलाइन सेव करें" %}}
+{{% blocks/products/pf/agp/content h2="FODS को C++ में एचटीएम में सेव करें" %}}
 
 निम्नलिखित उदाहरण दर्शाता है कि FODS को C++ में एचटीएम में कैसे परिवर्तित किया जाए।
 {{% blocks/products/pf/agp/text %}}
@@ -37,7 +37,7 @@ FODS को एचटीएम में बदलने के लिए आस
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="FODS को एचटीएम ऑनलाइन में बदलने के लिए निःशुल्क ऐप और नमूना कोड" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="fods" outformat="htm" IsLandingPage="true" language="cpp" %}}
+{{% cells-convert title="FODS को एचटीएम में बदलने के लिए नमूना कोड" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="fods" outformat="htm" IsLandingPage="true" language="cpp" %}}
 
 {{% blocks/products/pf/agp/content h2="FODS को C++ के माध्यम से एचटीएम में कैसे परिवर्तित करें" %}}
 
@@ -49,7 +49,7 @@ FODS फ़ाइलों को प्रोग्रामेटिक रू
 
 1.  'Aspose.Cells for C++' इंस्टॉल करें।
 1.  अपने C++ प्रोजेक्ट में एक लाइब्रेरी संदर्भ जोड़ें (लाइब्रेरी आयात करें)।
-1.  फ़ैक्टरी::CreateIWorkbook का उपयोग करके FODS फ़ाइल लोड करें।
+1.  वर्कबुक का उपयोग करके FODS फ़ाइल लोड करें।
 1.  Save() विधि को कॉल करके FODS को HTM में कनवर्ट करें।
 1.  FODS का एचटीएम में रूपांतरण परिणाम प्राप्त करें।
 
@@ -101,7 +101,6 @@ FODS फ़ाइलों को प्रोग्रामेटिक रू
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/fods-to-pdf/" name="FODS से PDF तक" description="संवहन दस्तावेज़ स्वरूप" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/fods-to-png/" name="FODS से PNG तक" description="पोर्टेबल नेटवर्क ग्राफ़िक्स" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/fods-to-svg/" name="FODS से SVG तक" description="स्केलेबल वेक्टर ग्राफिक्स" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/fods-to-tiff/" name="FODS से TIFF तक" description="टैग किया गया छवि प्रारूप" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/fods-to-tsv/" name="FODS से TSV तक" description="टैब-पृथक मान" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/fods-to-txt/" name="FODS से TXT तक" description="सामग्री या लेख दस्तावेज़" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/fods-to-xls/" name="FODS से XLS तक" description="एक्सेल बाइनरी फॉर्मेट" >}}

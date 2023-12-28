@@ -1,8 +1,8 @@
 ---
 title: IMAGE egyesítése JPG-be – IMAGE egyesítése JPG-be a C#-ben
 url: /hu/net/merger/merge-image-to-jpg/ 
-description: Aspose Excel. C# Aspose.Cells. Ingyenes online egyesítése IMAGE JPG mentési formátumba. C# Kombinálja az IMAGE-ot JPG formátumba. Az IMAGE egyesítése JPG-be a C#-ben. IMAGE Egyesítés.
-keywords: [Aspose Excel., C# Aspose.Cells., Merge IMAGE to JPG in C#., Free Online C# Merge IMAGE to jpg., C# Combine IMAGE to JPG Online for Free., IMAGE Merge]
+description: Aspose Excel. C# Aspose.Cells. Az IMAGE egyesítése JPG mentési formátumba. C# Kombinálja az IMAGE-ot JPG formátumba. Az IMAGE egyesítése JPG-be a C#-ben. IMAGE Egyesítés.
+keywords: [Aspose Excel., C# Aspose.Cells., Merge IMAGE to JPG in C#., C# Merge IMAGE to jpg., C# Combine IMAGE to JPG., IMAGE Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Egyesítse az IMAGE-ot JPG-be a C# számon keresztül" h2="Nagysebességű C#-es könyvtár az IMAGE-hoz JPG-be egyesítve. Használja a API-es excel-konverziónkat magas szintű, platformfüggetlen szoftverek fejlesztéséhez a C#-ben. Ez egy professzionális szoftvermegoldás a Excel, CSV, OpenOffice, PDF, HTML, image és sok más excel formátum importálásához és exportálásához." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="IMAGE" additionalConversionTag="JPG" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., C# Aspose.Cells., Merge IMAGE to JPG in C#., Free Onli
 
 {{% blocks/products/pf/agp/content h2="Egyesítse az IMAGE-ot JPG-be a C# használatával" %}}
 
- Hogyan egyesíthetem az IMAGE-ot JPG-be? A Aspose.Cells for .NET könyvtárral egyszerűen egyesítheti az IMAGE-ot JPG-be programozottan néhány sornyi kóddal.[Aspose.Cells for .NET](https://products.aspose.com/cells/net)képes többplatformos alkalmazásokat létrehozni, módosítani, konvertálni, renderelni és kinyomtatni az összes Excel fájlt. .NET Excel API nem csak a táblázatformátumok között konvertál, hanem Excel fájlokat is képes megjeleníteni képként, PDF, HTML, ODS, CSV, CSV, CSV, CSV, CSV, CSV, SVG, és így tovább, SVG P, 8 PT a választás,3,8 ipari szabvány szerinti dokumentumok cseréjére formátumok. Nyisd ki[NuGet](https://www.nuget.org/packages/aspose.cells) csomagkezelő, keresse meg a Aspose.Cells-et, és telepítse. A következő parancsot is használhatja a Package Manager konzolból.
+ Hogyan egyesíthetem az IMAGE-ot JPG-be? A Aspose.Cells for .NET könyvtárral egyszerűen egyesítheti az IMAGE-ot JPG-be programozottan néhány sornyi kóddal.[Aspose.Cells for .NET](https://products.aspose.com/cells/net)képes többplatformos alkalmazásokat létrehozni, módosítani, konvertálni, renderelni és kinyomtatni az összes Excel fájlt. .NET Az Excel API nemcsak a táblázatformátumok között konvertál, hanem Excel-fájlokat is képes megjeleníteni képként, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT és egyebekként, így tökéletes választás a szabványos formátumú dokumentumok cseréjéhez. Nyisd ki[NuGet](https://www.nuget.org/packages/aspose.cells) csomagkezelő, keresse meg a Aspose.Cells-et, és telepítse. A következő parancsot is használhatja a Package Manager konzolból.
 
 {{% blocks/products/pf/agp/code-block title="Csomagkezelő konzolparancs" offSpacer="true" %}}
 
@@ -26,7 +26,7 @@ PM> Install-Package Aspose.Cells
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Egyesítse az IMAGE-ot JPG-fájlba a C#-ben online ingyen" %}}
+{{% blocks/products/pf/agp/content h2="Egyesítse az IMAGE fájlt JPG-be a C#-ben" %}}
 
 A következő példa bemutatja, hogyan egyesítheti az IMAGE-ot JPG-be a Aspose.Cells for .NET-ben.
 {{% blocks/products/pf/agp/text %}}
@@ -37,7 +37,7 @@ Kövesse az egyszerű lépéseket az IMAGE kép JPG formátumba egyesítéséhez
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Ingyenes online az IMAGE egyesítéséhez JPG-be C#-ben" InputFormat="png" InputFormat2="jpg" outformat="jpg" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="net" %}}
+{{% cells-merger title="Mintakód az IMAGE formátum JPG formátumba egyesítéséhez a C#-ben" InputFormat="png" InputFormat2="jpg" outformat="jpg" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="net" %}}
 
 {{% blocks/products/pf/agp/content h2="Az IMAGE egyesítése JPG-be a C# számon keresztül" %}}
 
@@ -117,7 +117,7 @@ API-jaink minden nagyobb platformon és operációs rendszeren támogatottak. Mi
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-image-to-xltm/" name="Az IMAGE egyesítése a XLTM számmal" description="Excel-makró-kompatibilis sablon" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-image-to-xltx/" name="Az IMAGE egyesítése a XLTX számmal" description="Office OpenXML Excel sablon" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-image-to-xml/" name="Az IMAGE egyesítése XML-be" description="Bővíthető jelölőnyelv" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-image-to-xps/" name="Az IMAGE egyesítése a XPS számmal" description="XML papírspecifikációk" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-image-to-xps/" name="Az IMAGE egyesítése a XPS számmal" description="XML papír specifikációk" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-image-to-json/" name="Az IMAGE egyesítése a JSON számmal" description="JavaScript objektum jelölés" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-image-to-jpeg/" name="Az IMAGE egyesítése a JPEG számmal" description="JPEG Kép" >}}
 

@@ -1,6 +1,7 @@
 ---
 title: Hozzon létre oszlopdiagramokat a Python számon keresztül
 description: Python Mintakód oszlopdiagramok készítéséhez Excelbe a Python könyvtár használatával. Használja ezt a kódot oszlopdiagram létrehozásához az MS Excelhez a Python alapú alkalmazáson belül.
+keywords: [Python Aspose.Cells., Python add Column Chart., Python insert Column Chart., Python create Column Chart]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
@@ -36,7 +37,7 @@ A fejlesztők könnyen létrehozhatnak egy oszlopdiagramot a különböző jelen
  A Aspose.Cells for Python platformfüggetlen API, és bármilyen platformon használható (Windows, Linux), csak győződjön meg arról, hogy a rendszer rendelkezik[Python](https://www.python.org/downloads/) 3,7 vagy magasabb.
 {{% /blocks/products/pf/agp/text %}}
 
-- Telepítés: Aspose.Cells for Python innen<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , használja a parancsot a következőképpen:<code>$ pip install aspose-cells-python</code>.
+-  Telepítés: Aspose.Cells for Python innen<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , használja a parancsot a következőképpen:<code>$ pip install aspose-cells-python</code>.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/code-block title="A következő forráskód bemutatja, hogyan hozhat létre oszlopdiagramot MS Excel XLSX fájlba a Python használatával." offSpacer="" %}}

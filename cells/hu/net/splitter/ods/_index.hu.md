@@ -2,6 +2,7 @@
 title:  Felosztott ODS Fájlok via .NET
 weight: 140
 description: C# forráskód ODS dokumentum felosztásához a .NET Framework, .NET Core, Mono vagy Xamarin platformokon.
+keywords: [C# Aspose.Cells., C# split ods files., C# how to split ods files into multiple files., C# ods splitter., C# split Cell., Cell splitter using C#]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Felosztott ODS Formátumok C#-ben" h2="Natív és nagy teljesítményű ODS elosztó szerveroldali API-k használatával, olyan szoftverek használata nélkül, mint a Microsoft vagy az Open Office, az Adobe PDF." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="ODS" >}}
@@ -48,7 +49,7 @@ PM> Install-Package Aspose.Cells
 + Iteráció minden lapon keresztül
 + Hozzon létre egy új munkafüzet osztályobjektumot
  + Másolja a lapot a következőn keresztül[Másolási módszer](https://reference.aspose.com/cells/net/aspose.cells/worksheet/methods/copy)
- + Hívja meg a Save() metódust, és adja meg a fájlnevet (teljes elérési út) és a SaveFormat.Ods paramétert.
+ Hívja meg a Save() metódust, és adja meg a fájlnevet (teljes elérési út) és a SaveFormat.Ods paramétert.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -104,7 +105,7 @@ PM> Install-Package Aspose.Cells
 
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="Egyéb támogatott felosztási formátumok" subTitle="C# használatával nagy fájlokat is fel lehet osztani sok más fájlformátum darabjaira, beleértve." >}}
+{{< blocks/products/pf/agp/other-supported-section title="Egyéb támogatott felosztási formátumok" subTitle="A C# használatával nagy fájlokat is fel lehet osztani sok más fájlformátum darabjaira, beleértve." >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/splitter/xls/" name="XLS" description="Excel bináris formátum" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/splitter/xlsb/" name="XLSB" description="Bináris Excel munkafüzet fájl" >}}

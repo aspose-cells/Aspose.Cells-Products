@@ -1,7 +1,8 @@
 ---
 title:  .NET एक्सेल API | प्रक्रिया स्प्रेडशीट प्रारूप via .NET कोर
 weight: 2030
-description: Microsoft एक्सेल दस्तावेजों के साथ काम करने के लिए C# एएसपी.NET वीबी.NET लाइब्रेरी। पढ़ें, लिखें, सहेजें और स्प्रेडशीट फ़ाइलें प्रिंट करें। PDF या अधिक प्रारूपों में कनवर्ट करें
+description: C# ASP.NET VB.NET लाइब्रेरी एक्सेल फ़ाइलें बनाने, मरम्मत करने, मर्ज करने, पार्स करने और परिवर्तित करने के लिए। एक्सेल को PDF, JSON, एक्सएमएल, TSV, HTML इत्यादि में बदलें।
+keywords: [Aspose.Cells C# Create repair parse merge convert JSON Excel XML PDF HTML TSV SQL TXT PNG JPEG and more formats]
 ---
 {{< blocks/products/pf/main-wrap-class >}}
 {{< blocks/products/pf/i18n/upper-banner h1="एक्सेल फ़ाइलें via .NET एपीआई में हेरफेर करें" h2=".NET, .NET कोर और ज़ामरिन प्लेटफ़ॉर्म पर स्प्रेडशीट फ़ाइलें पढ़ें और लिखें। Microsoft एक्सेल के बिना अन्य प्रारूपों में स्प्रेडशीट निर्यात करें।" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/headers/aspose_cells-for-net.svg" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="https://downloads.aspose.com/cells/net" >}}

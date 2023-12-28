@@ -1,7 +1,8 @@
 ---
-title: XLSB dokumentumdiagram a C++ számon keresztül
+title:  XLSB dokumentumdiagram a C++ számon keresztül
 weight: 5200
 description: C++ példakód diagram vagy diagram rajzolásához és konvertálásához a C++-es C++-es C++-es fájlban. Futókörnyezet Windows 32 bites, Windows 64 bites és 64 bites Linux számára.
+keywords: [C++ Aspose.Cells., C++ Convert chart to image in xlsb., C++ Save chart to image in xlsb., C++ chart to image in xlsb., xlsb convert chart to image in C++., xlsb save chart to imagein C++., xlsb chart to image in C++]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="XLSB Diagramok formátuma a C++-ben" h2="Natív és nagy teljesítményű XLSB dokumentumdiagramok szerveroldali Aspose.Cells for C++ API-k használatával, olyan szoftverek használata nélkül, mint a Microsoft vagy az Adobe PDF." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" sourceAdditionalConversionTag="" additionalConversionTag="" pfName="Aspose.Cells" subTitlepfName="for C++" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="XLSB" >}}
@@ -50,7 +51,7 @@ PM> Install-Package Aspose.Cells.Cpp
 + Az újonnan hozzáadott diagram példányának elérése
 + Adja hozzá a SeriesCollection-t (diagram adatforrás) a diagramhoz
 + Állítsa be a 2nd NSeries diagramtípusát, hogy vonaldiagramként jelenjen meg
-Mentse el a fájlt
++ Mentse el a fájlt
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -69,7 +70,7 @@ Mentse el a fájlt
 
 {{% blocks/products/pf/agp/code-block title="XLSB fájldiagram létrehozása - C++" offSpacer="" %}}
 
-{{< gist "aspose-com-gists" "da2fd423617bf9013a7673870c81d708" "create-excel-xlsb-column-chart.cpp" >}}
+{{< gist "aspose-cells-gists" "6f7d9819d85793c3a3b5d040af42e1a9" "create-excel-xlsb-column-chart.cpp" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 

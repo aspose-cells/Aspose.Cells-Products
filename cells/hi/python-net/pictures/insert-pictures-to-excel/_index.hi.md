@@ -2,6 +2,7 @@
 title:  Python via .नेट का उपयोग करके एक्सेल में चित्र डालें
 weight: 200
 description: Python via एक्सेल में चित्र सम्मिलित करने के लिए नेट स्रोत कोड।
+keywords: [Python via NET Aspose.Cells., Python via NET add picture into Excel., Python via NET insert picture into Excel., Python via NET create picture in Excel]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Python via .नेट का उपयोग करके एक्सेल में चित्र डालें" h2="Microsoft या ओपन ऑफिस, एडोब PDF आदि जैसे किसी भी सॉफ्टवेयर के बिना Aspose.Cells\' API का उपयोग करके चित्र डालें।" logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="" pfName="Aspose.Cells" subTitlepfName="for Python via .NET" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="XLSX" >}}
@@ -13,7 +14,7 @@ description: Python via एक्सेल में चित्र सम्�
 
  एक्सेल फ़ाइल में चित्र सम्मिलित करने के लिए, हम इसका उपयोग करेंगे
  [Aspose.Cells for Python .नेट के माध्यम से](https://pypi.org/project/aspose-cells-python/) 
-API जो एक सुविधा संपन्न, शक्तिशाली और उपयोग में आसान दस्तावेज़ हेरफेर है API for Python .नेट प्लेटफ़ॉर्म के माध्यम से। API एक्सेल फ़ाइल निर्माण, हेरफेर, रूपांतरण और रेंडरिंग प्रदान करता है। Microsoft ऑफिस या एक्सेल एप्लिकेशन पर भरोसा किए बिना। आप निम्न कमांड का उपयोग करके कंसोल से इंस्टॉल कर सकते हैं।
+ API जो एक सुविधा संपन्न, शक्तिशाली और उपयोग में आसान दस्तावेज़ हेरफेर है API for Python .नेट प्लेटफ़ॉर्म के माध्यम से। API एक्सेल फ़ाइल निर्माण, हेरफेर, रूपांतरण और रेंडरिंग प्रदान करता है। Microsoft ऑफिस या एक्सेल एप्लिकेशन पर भरोसा किए बिना। आप निम्न कमांड का उपयोग करके कंसोल से इंस्टॉल कर सकते हैं।
 
 {{% blocks/products/pf/agp/code-block title="आज्ञा" offSpacer="true" %}}
 
@@ -37,9 +38,9 @@ API जो एक सुविधा संपन्न, शक्तिशा�
 
 {{% /blocks/products/pf/agp/text %}}
 
-वर्कबुक ऑब्जेक्ट को इंस्टेंट करना। (या->XLSX फ़ाइल को पूर्ण पथ के साथ लोड करें।)
++ वर्कबुक ऑब्जेक्ट को इंस्टेंट करना। (या->XLSX फ़ाइल को पूर्ण पथ के साथ लोड करें।)
 + इसके सूचकांक के माध्यम से वर्कशीट का चयन करें।
- + चित्र संग्रह के ऐड का उपयोग करें[तरीका](https://reference.aspose.com/cells/python-net/aspose.cells.drawing/picturecollection/) चयनित वर्कशीट में एक चित्र सम्मिलित करने के लिए।
+ + चित्र संग्रह के ऐड का उपयोग करें[तरीका](https://reference.aspose.com/cells/python-net/aspose.cells.drawing/picturecollection/)चयनित वर्कशीट में एक चित्र सम्मिलित करने के लिए।
 + कार्यपुस्तिका को XLSX प्रारूप में सहेजें।
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
@@ -80,7 +81,7 @@ Aspose.Cells API क्रॉस-प्लेटफॉर्म एप्लि�
 
 <!-- aboutfile Ends -->
 <!--
-{{< blocks/products/pf/agp/other-supported-section title="Other Supported Splitting Formats" subTitle="Using C#, One can also split large file into chunks of many other file formats including." >}}
+{{< blocks/products/pf/agp/other-supported-section title="Other Supported Splitting Formats" subTitle="Using Python via NET, One can also split large file into chunks of many other file formats including." >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/splitter/ods/" name="ODS" description="OpenDocument Spreadsheet File" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/splitter/xls/" name="XLS" description="Excel Binary Format" >}}

@@ -1,7 +1,8 @@
 ---
-title: Védje és zárja XLSB via Java dokumentumot
+title:  Védje és zárja XLSB via Java dokumentumot
 weight: 6590
 description: Java mintakód a XLSB fájl zárolásához jelszóval a Java futásidejű környezet JSP/JSF alkalmazásokhoz és asztali alkalmazásokhoz.
+keywords: [Java Aspose.Cells., Java Lock XLSB files., Java How to Protect and lock XLSB document., Java Protect XLSB files., Encrypt XLSB Files using Java]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="XLSB via Java fájlok titkosítása" h2="Jelszóvédett Excel-táblázatok, beleértve a XLSB formátumot a .NET könyvtár használatával." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSB" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSB" >}}
@@ -49,7 +50,7 @@ description: Java mintakód a XLSB fájl zárolásához jelszóval a Java futás
 
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
-{{% blocks/products/pf/agp/feature-section-col title="A XLSB via Java számú fájlok védelmének lépései" %}}
+{{% blocks/products/pf/agp/feature-section-col title="XLSB via Java számú fájlok védelmének lépései" %}}
 
 {{% blocks/products/pf/agp/text %}}
 

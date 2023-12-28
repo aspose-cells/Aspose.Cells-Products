@@ -1,6 +1,7 @@
 ---
 title:  Szerkessze a XLTM fájlokat via .NET
 description: C# forráskód a XLTM dokumentum szerkesztéséhez a .NET Framework, .NET Core, Windows Azure, Mono vagy Xamarin platformokon.
+keywords: [C# Aspose.Cells., c# edit xltm document., c# load xltm file., c# modify xltm file., c# save file to xltm format]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Szerkesztés XLTM Formátumok C#-ben" h2="Natív és nagy teljesítményű XLTM dokumentumszerkesztés szerveroldali Aspose.Cells for .NET API-k segítségével, olyan szoftverek használata nélkül, mint a Microsoft vagy az Adobe PDF." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="DOCX" >}}
@@ -30,13 +31,16 @@ PM> Install-Package Aspose.Cells
 
 {{% blocks/products/pf/agp/text %}}
 
- Alapvető dokumentumszerkesztés
- [Aspose.Cells for .NET](https://products.aspose.com/cells/net) 
- Az API-k néhány sornyi kóddal elkészíthetők.
+ Alapvető dokumentumszerkesztés[Aspose.Cells for .NET](https://products.aspose.com/cells/net) Az API-k néhány sornyi kóddal elkészíthetők.
 
 {{% /blocks/products/pf/agp/text %}}
 
-{{code_steps}}
+1.  Szerelje be a névteret az osztályfájlba
+1.  Töltse be a mintafájlt.
+1.  munkafüzet új munkalapjának hozzáadása és elérése.
+1.  Szerezze meg a munkalap kívánt celláit, és írja be az értéket a cellákba.
+1.  Helyezze be a PivotTable-t, és állítsa be a stílust
+1.  A Mentés módszerrel mentheti a munkafüzetet XLTM fájlként.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -56,10 +60,7 @@ PM> Install-Package Aspose.Cells
 
 {{% blocks/products/pf/agp/code-block title="XLTM Fájlok szerkesztése - C#" offSpacer="" %}}
 
-```cs
-code here
-
-```
+{{< gist "aspose-cells-gists" "59a1901d62ea9ceb08456a818431a898" "Landingpage-editor-xltm.cs" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 
@@ -72,7 +73,7 @@ code here
 
     {{% blocks/products/pf/agp/content h2="" %}}
 
- Aspose.Cells API használható Microsoft Excel formátumok létrehozására, szerkesztésére, konvertálására és renderelésére különböző formátumokba. Ezen túlmenően használható átfogó diagramok készítésére, skálázható jelentésekre és megbízható számításokra a szoftveralkalmazásokon belül. A Aspose.Cells egy önálló API, és nem igényel olyan szoftvert, mint a Microsoft vagy az OpenOffice.
+Aspose.Cells API használható Microsoft Excel formátumok létrehozására, szerkesztésére, konvertálására és renderelésére különböző formátumokba. Ezen túlmenően használható átfogó diagramok készítésére, skálázható jelentésekre és megbízható számításokra a szoftveralkalmazásokon belül. A Aspose.Cells egy önálló API, és nem igényel olyan szoftvert, mint a Microsoft vagy az OpenOffice.
 
 
 

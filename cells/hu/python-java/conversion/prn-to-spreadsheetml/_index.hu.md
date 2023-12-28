@@ -1,7 +1,7 @@
 ---
-title: Python PRN SPREADSHEETML-be – Online PRN-SPREADSHEETML konvertáló
-description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Ingyenes online Python A PRN konvertálása SPREADSHEETML mentési formátumba. Python PRN SPREADSHEETML formátumba. Mentse a PRN-t a SPREADSHEETML Python-be.
-keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python PRN to SPREADSHEETML saveformat., Free Online PRN to SPREADSHEETML Python., Python Convert PRN to SPREADSHEETML]
+title: Python PRN SPREADSHEETML-be - PRN SPREADSHEETML-be konvertáló
+description: Aspose Excel. A PRN-t gyorsan és egyszerűen konvertálja SPREADSHEETML-be a Aspose.Cells-es számmal. Python PRN-t SPREADSHEETML-be. Python PRN mentése SPREADSHEETML-be. Mentse a PRN-t SPREADSHEETML-ként a Python használatával.
+keywords: [Aspose Excel., Python Aspose.Cells., Convert PRN to SPREADSHEETML in Python., Save PRN to SPREADSHEETML using Python., Python PRN to SPREADSHEETML saveformat., PRN to SPREADSHEETML Converter., Python Save PRN as SPREADSHEETML]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Konvertálja a PRN-t SPREADSHEETML-be a Python-ben" h2="Nagy sebességű Python könyvtár a PRN SPREADSHEETML formátumba konvertálásához. Ez egy professzionális szoftvermegoldás PRN, SPREADSHEETML és sok más formátum importálására és exportálására a Python használatával." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="SPREADSHEETML" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,11 +12,11 @@ keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python PRN
 
 {{% blocks/products/pf/agp/content h2="A PRN konvertálása SPREADSHEETML-be a Python használatával" %}}
 
- Hogyan konvertálhatom a PRN-t SPREADSHEETML-be? A Aspose.Cells for Python könyvtárral egyszerűen, néhány soros kóddal programozottan konvertálhatja a PRN-t SPREADSHEETML-be.[Aspose.Cells for Python](https://pypi.org/project/aspose-cells)képes többplatformos alkalmazásokat létrehozni, módosítani, konvertálni, renderelni és kinyomtatni az összes Excel fájlt. Python Excel API nem csak a táblázatformátumok között konvertál, hanem Excel fájlokat is képes megjeleníteni képként, PDF, HTML, ODS, CSV, CSV, CSV, CSV, CSV, CSV, SVG, és így tovább, SVG P, 8 PT a választás,3,8 ipari szabvány szerinti dokumentumok cseréjére formátumok.
+ Hogyan konvertálhatom a PRN-t SPREADSHEETML-be? A Aspose.Cells for Python könyvtárral egyszerűen, néhány soros kóddal programozottan konvertálhatja a PRN-t SPREADSHEETML-be.[Aspose.Cells for Python](https://pypi.org/project/aspose-cells)képes többplatformos alkalmazásokat létrehozni, módosítani, konvertálni, renderelni és kinyomtatni az összes Excel fájlt. Python Az Excel API nemcsak a táblázatformátumok között konvertál, hanem Excel-fájlokat is képes megjeleníteni képként, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT és egyebekként, így tökéletes választás a szabványos formátumú dokumentumok cseréjéhez.
  
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Mentse el a PRN-t SPREADSHEETML-be a Python-es számon online ingyen" %}}
+{{% blocks/products/pf/agp/content h2="Mentse a PRN-t SPREADSHEETML-be a Python-es számon" %}}
 
 A következő példa bemutatja, hogyan lehet a PRN-t SPREADSHEETML-be konvertálni a Python-ben.
 {{% blocks/products/pf/agp/text %}}
@@ -27,7 +27,7 @@ Kövesse az egyszerű lépéseket a PRN SPREADSHEETML formátumba konvertálás�
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Ingyenes alkalmazás és mintakód a PRN SPREADSHEETML online konvertálásához" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="prn" outformat="xml" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="Mintakód a PRN SPREADSHEETML-lé konvertálásához" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="prn" outformat="xml" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="A PRN konvertálása SPREADSHEETML-be a Python számon keresztül" %}}
 
@@ -63,18 +63,18 @@ Három lehetőség közül választhat a „Aspose.Cells for Python via Java” 
 
 {{% blocks/products/pf/agp/text %}}
 
-Aspose.Cells for Python via Java platformfüggetlen API, és bármilyen platformon használható (Windows, Linux és MacOS), csak győződjön meg arról, hogy a rendszer Java 1.8 vagy újabb[Python](https://www.python.org/downloads/) 3,5 vagy magasabb.
+ Aspose.Cells for Python via Java platformfüggetlen API, és bármilyen platformon használható (Windows, Linux és MacOS), csak győződjön meg arról, hogy a rendszer Java 1.8 vagy újabb[Python](https://www.python.org/downloads/) 3,5 vagy magasabb.
  
 {{% /blocks/products/pf/agp/text %}}
 
 -  Telepítse a Java-et, és adja hozzá a PATH környezeti változóhoz, például:<code>PATH=C:\Program Files\Java\jdk1.8.0_131;</code>.
-- Telepítés: Aspose.Cells for Python innen<a href="https://pypi.org/project/aspose-cells/">pypi</a> , használja a parancsot a következőképpen:<code>$ pip install aspose-cells</code>.
+-  Telepítés: Aspose.Cells for Python innen<a href="https://pypi.org/project/aspose-cells/">pypi</a> , használja a parancsot a következőképpen:<code>$ pip install aspose-cells</code>.
 
 {{% /blocks/products/pf/agp/content %}}
 
 <!-- aboutfile Starts -->
     {{< blocks/products/pf/agp/about-file-section >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="PRN" readMoreLink="https://fileinfo.com/extension/prn/" >}}PRN-fájl a Nyomtatás fájlba jelölőnégyzet segítségével létrehozott fájl, amely a Windows-es szám egyes Nyomtatás párbeszédpaneleiben jelenik meg. Eszközspecifikus utasításokat tartalmaz, amelyeket a nyomtató, fax vagy más eszköz a dokumentum nyomtatásához használ. A PRN-fájlok szöveges vagy bináris tartalmat tartalmazhatnak, attól függően, hogy milyen eszközhöz készült a fájl.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="PRN" readMoreLink="https://fileinfo.com/extension/prn/" >}}A PRN-fájl a Nyomtatás fájlba jelölőnégyzet segítségével létrehozott fájl, amely a Windows-es szám egyes Nyomtatás párbeszédpaneleiben jelenik meg. Eszközspecifikus utasításokat tartalmaz, amelyeket a nyomtató, fax vagy más eszköz a dokumentum nyomtatásához használ. A PRN-fájlok szöveges vagy bináris tartalmat tartalmazhatnak, attól függően, hogy milyen eszközhöz készült a fájl.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="SPREADSHEETML" readMoreLink="https://docs.fileformat.com/web/xml/" >}}Az XML az Extensible Markup Language rövidítése, amely hasonló a HTML-hez, de különbözik az objektumok meghatározására szolgáló címkék használatában. Az XML fájlformátum létrehozásának teljes ötlete az adatok tárolása és továbbítása volt anélkül, hogy szoftver- vagy hardvereszközöktől függne. Népszerűsége annak köszönhető, hogy emberi és géppel is olvasható. Ez lehetővé teszi, hogy közös adatprotokollokat hozzon létre objektumok formájában, amelyeket tárolni és megosztani a hálózaton, például a World Wide Web-en (WWW). Az XML-ben az "X" a bővíthető, ami azt jelenti, hogy a nyelv tetszőleges számú szimbólumra kiterjeszthető a felhasználói igényeknek megfelelően. Sok szabványos fájlformátum ezekhez a szolgáltatásokhoz használja, például a Microsoft Open XML, a LibreOffice OpenDocument, az XHTML és a SVG.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
     {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->
@@ -102,7 +102,7 @@ Aspose.Cells for Python via Java platformfüggetlen API, és bármilyen platform
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/prn-to-xltm/" name="NYOMTATÁS A XLTM-ES számra" description="Excel-makró-kompatibilis sablon" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/prn-to-xltx/" name="NYOMTATÁS A XLTX-ES számra" description="Office OpenXML Excel sablon" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/prn-to-xml/" name="PRN XML-BE" description="Bővíthető jelölőnyelv" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/prn-to-xps/" name="NYOMTATÁS A XPS-ES számra" description="XML papírspecifikációk" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/prn-to-xps/" name="NYOMTATÁS A XPS-ES számra" description="XML papír specifikációk" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/prn-to-json/" name="NYOMTATÁS A JSON-ES számra" description="JavaScript objektum jelölés" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}

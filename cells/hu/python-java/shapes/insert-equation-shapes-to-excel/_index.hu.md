@@ -2,6 +2,7 @@
 title: Egyenlet alakzatok beszúrása az Excelbe a Python via Java használatával
 weight: 360
 description: Python via Java forráskód egyenlet-alakzatok beszúrásához az Excelbe.
+keywords: [Python Aspose.Cells., Python add equation shapes., Python insert equation shapes., Python create equation shapes]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Egyenlet alakzatok beszúrása az Excelbe a Python via Java használatával" h2="Szúrjon be egyenlet alakzatokat a Aspose.Cells\' API használatával szoftverek, például Microsoft vagy Open Office, Adobe PDF stb. nélkül." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="" pfName="Aspose.Cells" subTitlepfName="for Python via Java" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="XLSX" >}}
@@ -37,7 +38,7 @@ Szüksége van az aspose.cells-re a következő munkafolyamat kipróbálásához
 
 {{% /blocks/products/pf/agp/text %}}
 
-Munkafüzet objektum példányosítása. (vagy->Töltse be a XLSX fájlt a teljes elérési úttal.)
++ Munkafüzet objektum példányosítása. (vagy->Töltse be a XLSX fájlt a teljes elérési úttal.)
 + Válassza ki a munkalapot az indexén keresztül.
  + Használja a[módszer hozzáadása](https://reference.aspose.com/cells/python-java/asposecells.api/shapecollection#addAutoShape(int,%20int,%20int,%20int,%20int,%20int,%20int)) az Egyenlet alakzatok beszúrásához a kiválasztott munkalapba
 + Mentse a munkafüzetet XLSX formátumban.
@@ -48,12 +49,12 @@ Munkafüzet objektum példányosítása. (vagy->Töltse be a XLSX fájlt a telje
 
 {{% blocks/products/pf/agp/text %}}
 
-Aspose.Cells for Python via Java platformfüggetlen API, és bármilyen platformon használható (Windows, Linux és MacOS), csak győződjön meg arról, hogy a rendszer Java 1.8 vagy újabb[Python](https://www.python.org/downloads/) 3,5 vagy magasabb.
+ Aspose.Cells for Python via Java platformfüggetlen API, és bármilyen platformon használható (Windows, Linux és MacOS), csak győződjön meg arról, hogy a rendszer Java 1.8 vagy újabb[Python](https://www.python.org/downloads/) 3,5 vagy magasabb.
  
 {{% /blocks/products/pf/agp/text %}}
 
-- Bármilyen operációs rendszer, amely Python via Java szkripteket futtat, például Windows, Linux és MacOS
--  Telepítse a Java-et, és adja hozzá a PATH környezeti változóhoz, például:<code>PATH=C:\Program Files\Java\jdk1.8.0_131;</code>.
+-  Bármilyen operációs rendszer, amely Python via Java szkripteket futtat, például Windows, Linux és MacOS
+- Telepítse a Java-et, és adja hozzá a PATH környezeti változóhoz, például:<code>PATH=C:\Program Files\Java\jdk1.8.0_131;</code>.
 -  Telepítés: Aspose.Cells for Python via Java innen<a href="https://pypi.org/project/aspose-cells/">pypi</a> , használja a parancsot a következőképpen:<code>$ pip install aspose-cells</code>.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
@@ -85,7 +86,7 @@ Az alábbi mintakód bemutatja, hogyan kell beszúrni egy „matematikai pluszt�
    <div class="col-lg-4">
     <img src="/cells/net/shapes/insert-equation-shapes-to-excel/minus.png" align="left" width="28" height="28">
     <p class="col-lg-10">
- AutoShapeType.MATH_MINUS
+AutoShapeType.MATH_MINUS
     </p>
    </div>
    <div class="col-lg-4">
@@ -125,7 +126,7 @@ Az alábbi mintakód bemutatja, hogyan kell beszúrni egy „matematikai pluszt�
 
 {{% blocks/products/pf/agp/content h2="Körülbelül Aspose.Cells for Python via Java API" %}}
 
- Aspose.Cells API használható Microsoft Excel formátumok létrehozására, szerkesztésére, konvertálására és renderelésére különböző formátumokba. Ezen túlmenően használható átfogó diagramok készítésére, skálázható jelentésekre és megbízható számításokra a szoftveralkalmazásokon belül. A Aspose.Cells egy önálló API, és nem igényel olyan szoftvert, mint a Microsoft vagy az OpenOffice.
+Aspose.Cells API használható Microsoft Excel formátumok létrehozására, szerkesztésére, konvertálására és renderelésére különböző formátumokba. Ezen túlmenően használható átfogó diagramok készítésére, skálázható jelentésekre és megbízható számításokra a szoftveralkalmazásokon belül. A Aspose.Cells egy önálló API, és nem igényel olyan szoftvert, mint a Microsoft vagy az OpenOffice.
 
 {{% /blocks/products/pf/agp/content %}}
 

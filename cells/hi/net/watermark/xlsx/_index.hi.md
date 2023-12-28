@@ -1,7 +1,8 @@
 ---
-title:  वॉटरमार्क XLSX दस्तावेज़ via .NET
+title: वॉटरमार्क XLSX दस्तावेज़ via .NET
 weight: 8270
 description: .NET फ्रेमवर्क, .NET कोर, Mono या ज़ामरिन प्लेटफ़ॉर्म पर XLSX फ़ाइल में वॉटरमार्क जोड़ने या हटाने के लिए C# स्रोत कोड।
+keywords: [C# Aspose.Cells., C# add watermark to xlsx file., C# insert watermark to xlsx file., C# create watermark in xlsx file., remove watermark from xlsx file using C#., C# operate watermark in xlsx file., C# access watermark in xlsx file]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="C# के माध्यम से XLSX पर टेक्स्ट वॉटरमार्क जोड़ें" h2="सर्वर-साइड एपीआई का उपयोग करके XLSX फ़ाइलों को वॉटरमार्क करने के लिए अपने स्वयं के .NET ऐप्स बनाएं।" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSX" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="PPTX" fileiconsmall2="DOCX" fileiconsmall3="XLSX" fileiconsmall4="PDF" fileiconsmall5=" ODP " >}}

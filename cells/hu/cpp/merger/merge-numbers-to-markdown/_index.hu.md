@@ -1,8 +1,8 @@
 ---
 title: A NUMBERS egyesítése a MARKDOWN-es számmal – a NUMBERS egyesítése a MARKDOWN-es számmal a C++-ben
 url: /hu/cpp/merger/merge-numbers-to-markdown/ 
-description: Aspose Excel. C++ Aspose.Cells. Ingyenes online egyesítése NUMBERS MARKDOWN mentési formátumba. C++ Kombinálja a SZÁMOKAT MARKDOWN formátumba. A NUMBERS egyesítése a MARKDOWN számmal a C++-ben. NUMBERS Egyesítés.
-keywords: [Aspose Excel., C++ Aspose.Cells., Merge NUMBERS to MARKDOWN in C++., Free Online C++ Merge NUMBERS to markdown., C++ Combine NUMBERS to MARKDOWN Online for Free., NUMBERS Merge]
+description: Aspose Excel. C++ Aspose.Cells. A NUMBERS egyesítése a MARKDOWN mentési formátumba. C++ Kombinálja a SZÁMOKAT MARKDOWN formátumba. A NUMBERS egyesítése a MARKDOWN számmal a C++-ben. NUMBERS Egyesítés.
+keywords: [Aspose Excel., C++ Aspose.Cells., Merge NUMBERS to MARKDOWN in C++., C++ Merge NUMBERS to markdown., C++ Combine NUMBERS to MARKDOWN., NUMBERS Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="A NUMBERS egyesítése a MARKDOWN számmal a C++ számon keresztül" h2="Nagysebességű C++ könyvtár a NUMBERS MARKDOWN egyesítéséhez. Használja a API-es excel konverziónkat magas szintű, platformfüggetlen szoftver fejlesztésére a C++-ben. Ez egy professzionális szoftvermegoldás a Excel, CSV, OpenOffice, PDF, HTML, image és sok más excel formátum importálásához és exportálásához." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" sourceAdditionalConversionTag="NUMBERS" additionalConversionTag="MARKDOWN" pfName="Aspose.Cells" subTitlepfName="for C++" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., C++ Aspose.Cells., Merge NUMBERS to MARKDOWN in C++., 
 
 {{% blocks/products/pf/agp/content h2="A NUMBERS egyesítése a MARKDOWN számmal a C++ használatával" %}}
 
- Hogyan egyesíthetem a NUMBERS számot a MARKDOWN számmal? A Aspose.Cells for C++ könyvtárral egyszerűen egyesítheti a SZÁMOKAT a MARKDOWN számmal programozottan néhány sornyi kóddal.[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) képes többplatformos alkalmazásokat létrehozni, módosítani, konvertálni, renderelni és kinyomtatni az összes Excel fájlt. C++ Excel API nem csak a táblázatformátumok között konvertál, hanem Excel fájlokat is képes megjeleníteni képként, PDF, HTML, ODS, CSV, CSV, CSV, CSV, CSV, CSV, SVG, és így tovább, SVG P, 8 PT a választás,3,8 ipari szabvány szerinti dokumentumok cseréjére formátumok. A legújabb verziót közvetlenül letöltheti, csak nyissa meg[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) csomagkezelő, keresse meg a Aspose.Cells.Cpp címet, és telepítse. A következő parancsot is használhatja a Package Manager konzolból.
+ Hogyan egyesíthetem a NUMBERS számot a MARKDOWN számmal? A Aspose.Cells for C++ könyvtárral egyszerűen egyesítheti a SZÁMOKAT a MARKDOWN számmal programozottan néhány sornyi kóddal.[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) képes többplatformos alkalmazásokat létrehozni, módosítani, konvertálni, renderelni és kinyomtatni az összes Excel fájlt. C++ Az Excel API nemcsak a táblázatformátumok között konvertál, hanem Excel-fájlokat is képes megjeleníteni képként, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT és egyebekként, így tökéletes választás a szabványos formátumú dokumentumok cseréjéhez. A legújabb verziót közvetlenül letöltheti, csak nyissa meg[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) csomagkezelő, keresse meg a Aspose.Cells.Cpp címet, és telepítse. A következő parancsot is használhatja a Package Manager konzolból.
 
 {{% blocks/products/pf/agp/code-block title="Parancs" offSpacer="true" %}}
 
@@ -26,7 +26,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Ingyenesen egyesítse a NUMBERS számot a MARKDOWN-es számmal a C++-ben online" %}}
+{{% blocks/products/pf/agp/content h2="A NUMBERS egyesítése a MARKDOWN számmal a C++-ben" %}}
 
 A következő példa bemutatja, hogyan egyesítheti a NUMBERS számokat a MARKDOWN számmal a Aspose.Cells for C++ számban.
 {{% blocks/products/pf/agp/text %}}
@@ -37,7 +37,7 @@ Kövesse az egyszerű lépéseket a NUMBERS MARKDOWN számmal való egyesítés�
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Ingyenes online a NUMBERS összevonása a MARKDOWN-es számmal a C++-ben" InputFormat="numbers" InputFormat2="md" outformat="md" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="cpp" %}}
+{{% cells-merger title="Mintakód a NUMBERS MARKDOWN számmal való egyesítéséhez a C++-ben" InputFormat="numbers" InputFormat2="md" outformat="md" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="cpp" %}}
 
 {{% blocks/products/pf/agp/content h2="NUMBERS egyesítése a MARKDOWN számmal a C++ számon keresztül" %}}
 
@@ -88,7 +88,7 @@ API-jaink minden nagyobb platformon és operációs rendszeren támogatottak. Mi
 
 <!-- aboutfile Starts -->
     {{< blocks/products/pf/agp/about-file-section >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="NUMBERS" readMoreLink="https://docs.fileformat.com/spreadsheet/numbers/" >}} .numbers kiterjesztésű fájlok a táblázatkezelő fájltípusok közé tartoznak, ezért hasonlítanak az .xlsx fájlokhoz; de a Numbers fájlok az Apple iWork Numbers táblázatkezelő szoftverrel jönnek létre. Az Apple iWork Numbers az iWork Productivity Suite egységszoftvere. Az iWork Productivity Suite megegyezik a Microsoft számú irodai csomaggal, amelyet a Windows számú számítógépeken használnak. Ennélfogva elmondhatjuk, hogy a MacOS számára elérhető Numbers a Microsoft Excel versenytársa is. Hasonlóképpen, Microsoft Excel, a NUMBERS fájl is tartalmazhatja a táblázatokat, diagramokat és képleteket.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="NUMBERS" readMoreLink="https://docs.fileformat.com/spreadsheet/numbers/" >}} A .numbers kiterjesztésű fájlok a táblázatkezelő fájltípusok közé tartoznak, ezért hasonlítanak az .xlsx fájlokhoz; de a Numbers fájlok az Apple iWork Numbers táblázatkezelő szoftverrel jönnek létre. Az Apple iWork Numbers az iWork Productivity Suite egységszoftvere. Az iWork Productivity Suite megegyezik a Microsoft számú irodai csomaggal, amelyet a Windows számú számítógépeken használnak. Ennélfogva elmondhatjuk, hogy a MacOS számára elérhető Numbers a Microsoft Excel versenytársa is. Hasonlóképpen, Microsoft Excel, a NUMBERS fájl is tartalmazhatja a táblázatokat, diagramokat és képleteket.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="MARKDOWN" readMoreLink="https://docs.fileformat.com/word-processing/md/" >}}A Markdown nyelvi dialektusokkal létrehozott szöveges fájlok .md vagy .MARKDOWN kiterjesztéssel kerülnek mentésre. Az MD-fájlok egyszerű szöveges formátumban kerülnek mentésre, amely Markdown nyelvet használ, amely szövegközi szimbólumokat is tartalmaz, amelyek meghatározzák a szöveg formázását, például behúzásokat, táblázatformázást, betűtípusokat és fejléceket. Az MD fájlok a Markdown nevű programmal konvertálhatók HTML-re. A Markdown nyelvet John Gruber adta ki.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
     {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->
@@ -107,7 +107,6 @@ API-jaink minden nagyobb platformon és operációs rendszeren támogatottak. Mi
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-numbers-to-pdf/" name="A NUMBERS egyesítése a PDF számmal" description="Hordozható dokumentum formátum" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-numbers-to-png/" name="A NUMBERS egyesítése a PNG számmal" description="Hordozható hálózati grafika" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-numbers-to-svg/" name="A NUMBERS egyesítése a SVG számmal" description="Skálázható vektorgrafika" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-numbers-to-tiff/" name="A NUMBERS egyesítése a TIFF számmal" description="Címkézett képformátum" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-numbers-to-tsv/" name="A NUMBERS egyesítése a TSV számmal" description="Tabulátorral elválasztott értékek" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-numbers-to-txt/" name="A NUMBERS egyesítése a TXT számmal" description="Szöveges dokumentum" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-numbers-to-xls/" name="A NUMBERS egyesítése a XLS számmal" description="Excel bináris formátum" >}}
@@ -118,7 +117,7 @@ API-jaink minden nagyobb platformon és operációs rendszeren támogatottak. Mi
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-numbers-to-xltm/" name="A NUMBERS egyesítése a XLTM számmal" description="Excel-makró-kompatibilis sablon" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-numbers-to-xltx/" name="A NUMBERS egyesítése a XLTX számmal" description="Office OpenXML Excel sablon" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-numbers-to-xml/" name="NUMBERS egyesítése XML-be" description="Bővíthető jelölőnyelv" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-numbers-to-xps/" name="A NUMBERS egyesítése a XPS számmal" description="XML papírspecifikációk" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-numbers-to-xps/" name="A NUMBERS egyesítése a XPS számmal" description="XML papír specifikációk" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-numbers-to-json/" name="A NUMBERS egyesítése a JSON számmal" description="JavaScript objektum jelölés" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-numbers-to-jpeg/" name="A NUMBERS egyesítése a JPEG számmal" description="JPEG Kép" >}}
 

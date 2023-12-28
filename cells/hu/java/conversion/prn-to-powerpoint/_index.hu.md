@@ -1,7 +1,7 @@
 ---
-title: Java PRN - POWERPOINT - Online PRN - POWERPOINT konverter
-description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Ingyenes online Java A PRN konvertálása POWERPOINT mentési formátumba. Java PRN POWERPOINT formátumba. PRN mentése a POWERPOINT Java számra.
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java PRN to POWERPOINT saveformat., Free Online PRN to POWERPOINT Java., Java Convert PRN to POWERPOINT]
+title: Java PRN - POWERPOINT - PRN - POWERPOINT konverter
+description: Aspose Excel. A PRN-t gyorsan és egyszerűen konvertálja POWERPOINT-ra a Aspose.Cells-es számmal. Java PRN-t POWERPOINT-ra. Java PRN mentése a POWERPOINT-ba. Mentse a PRN-t POWERPOINT néven a Java számon.
+keywords: [Aspose Excel., Java Aspose.Cells., Convert PRN to POWERPOINT in Java., Save PRN to POWERPOINT using Java., Java PRN to POWERPOINT saveformat., PRN to POWERPOINT Converter., Java Save PRN as POWERPOINT]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Konvertálja a PRN-t POWERPOINT-ra a Java számon" h2="Nagysebességű Java könyvtár a PRN POWERPOINT-tá konvertálásához. Ez egy professzionális szoftvermegoldás PRN, POWERPOINT és sok más formátum importálásához és exportálásához a Java számon." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="POWERPOINT" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java PRN to PO
 
 {{% blocks/products/pf/agp/content h2="A PRN konvertálása POWERPOINT-re a Java használatával" %}}
 
- Hogyan konvertálhatom a PRN-t POWERPOINT-ra? A Aspose.Cells for Java könyvtárral egyszerűen, néhány soros kóddal programozottan konvertálhatja a PRN-t POWERPOINT-ra.[Aspose.Cells for Java](https://products.aspose.com/cells/java) képes többplatformos alkalmazásokat létrehozni, módosítani, konvertálni, renderelni és kinyomtatni az összes Excel fájlt. Java Excel API nem csak a táblázatformátumok között konvertál, hanem Excel fájlokat is képes megjeleníteni képként, PDF, HTML, ODS, CSV, CSV, CSV, CSV, CSV, CSV, SVG, és így tovább, SVG P, 8 PT a választás,3,8 ipari szabvány szerinti dokumentumok cseréjére formátumok. A legújabb verziót közvetlenül a webhelyről töltheti le[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) és telepítse a Maven alapú projekten belül a következő konfigurációk hozzáadásával a pom.xml fájlhoz.
+ Hogyan konvertálhatom a PRN-t POWERPOINT-ra? A Aspose.Cells for Java könyvtárral egyszerűen, néhány soros kóddal programozottan konvertálhatja a PRN-t POWERPOINT-ra.[Aspose.Cells for Java](https://products.aspose.com/cells/java)képes többplatformos alkalmazásokat létrehozni, módosítani, konvertálni, renderelni és kinyomtatni az összes Excel fájlt. Java Az Excel API nemcsak a táblázatformátumok között konvertál, hanem Excel-fájlokat is képes megjeleníteni képként, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT és egyebekként, így tökéletes választás a szabványos formátumú dokumentumok cseréjéhez. A legújabb verziót közvetlenül a webhelyről töltheti le[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) és telepítse a Maven alapú projekten belül a következő konfigurációk hozzáadásával a pom.xml fájlhoz.
 
 {{% blocks/products/pf/agp/code-block title="Adattár" offSpacer="true" %}}
 
@@ -45,7 +45,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java PRN to PO
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Mentse el a PRN-t a POWERPOINT-ba a Java-es számon online ingyen" %}}
+{{% blocks/products/pf/agp/content h2="Mentse a PRN-t a POWERPOINT-ba a Java számon" %}}
 
 A következő példa bemutatja, hogyan lehet a PRN-t POWERPOINT-tá konvertálni a Java-ben.
 {{% blocks/products/pf/agp/text %}}
@@ -56,13 +56,13 @@ Kövesse az egyszerű lépéseket a PRN POWERPOINT-tá konvertálásához. Tölt
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Ingyenes alkalmazás és mintakód a PRN POWERPOINT Online konvertálásához" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="prn" outformat="pptx" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Mintakód a PRN POWERPOINT-tá konvertálásához" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="prn" outformat="pptx" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="Hogyan lehet a PRN-t POWERPOINT via Java-re konvertálni" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
-A PRN fájlokat programozottan POWERPOINT formátumba kell konvertálnia? A Java fejlesztők könnyedén konvertálhatják a PRN-t POWERPOINT-tá, mindössze néhány sornyi kóddal.
+PRN fájlokat programozottan POWERPOINT formátumba kell konvertálnia? A Java fejlesztők könnyedén konvertálhatják a PRN-t POWERPOINT-tá, mindössze néhány sornyi kóddal.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -97,7 +97,7 @@ A PRN fájlokat programozottan POWERPOINT formátumba kell konvertálnia? A Java
 
 <!-- aboutfile Starts -->
     {{< blocks/products/pf/agp/about-file-section >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="PRN" readMoreLink="https://fileinfo.com/extension/prn/" >}}PRN-fájl a Nyomtatás fájlba jelölőnégyzet segítségével létrehozott fájl, amely a Windows-es szám egyes Nyomtatás párbeszédpaneleiben jelenik meg. Eszközspecifikus utasításokat tartalmaz, amelyeket a nyomtató, fax vagy más eszköz a dokumentum nyomtatásához használ. A PRN-fájlok szöveges vagy bináris tartalmat tartalmazhatnak, attól függően, hogy milyen eszközhöz készült a fájl.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="PRN" readMoreLink="https://fileinfo.com/extension/prn/" >}}A PRN-fájl a Nyomtatás fájlba jelölőnégyzet segítségével létrehozott fájl, amely a Windows-es szám egyes Nyomtatás párbeszédpaneleiben jelenik meg. Eszközspecifikus utasításokat tartalmaz, amelyeket a nyomtató, fax vagy más eszköz a dokumentum nyomtatásához használ. A PRN-fájlok szöveges vagy bináris tartalmat tartalmazhatnak, attól függően, hogy milyen eszközhöz készült a fájl.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="POWERPOINT" readMoreLink="https://docs.fileformat.com/presentation/pptx/" >}}A PPTX kiterjesztésű fájlok a népszerű Microsoft PowerPoint alkalmazással létrehozott prezentációs fájlok. A PPT prezentációs fájlformátum korábbi verziójától eltérően, amely bináris volt, a PPTX formátum a Microsoft PowerPoint nyílt XML prezentációs fájlformátumon alapul. A prezentációs fájl olyan diák gyűjteménye, amelyben minden diák szöveget, képeket, formázást, animációt és egyéb médiát tartalmazhat. Ezeket a diákat egyéni prezentációs beállításokkal rendelkező diavetítések formájában mutatják be a közönségnek.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
     {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->
@@ -125,7 +125,7 @@ A PRN fájlokat programozottan POWERPOINT formátumba kell konvertálnia? A Java
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/prn-to-xltm/" name="NYOMTATÁS A XLTM-ES számra" description="Excel-makró-kompatibilis sablon" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/prn-to-xltx/" name="NYOMTATÁS A XLTX-ES számra" description="Office OpenXML Excel sablon" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/prn-to-xml/" name="PRN XML-BE" description="Bővíthető jelölőnyelv" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/prn-to-xps/" name="NYOMTATÁS A XPS-ES számra" description="XML papírspecifikációk" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/prn-to-xps/" name="NYOMTATÁS A XPS-ES számra" description="XML papír specifikációk" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/prn-to-json/" name="NYOMTATÁS A JSON-ES számra" description="JavaScript objektum jelölés" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/prn-to-jpeg/" name="NYOMTATÁS A JPEG-ES számra" description="JPEG Kép" >}}
 

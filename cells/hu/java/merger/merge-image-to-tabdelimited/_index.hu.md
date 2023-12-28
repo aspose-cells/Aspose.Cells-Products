@@ -1,8 +1,8 @@
 ---
 title: Az IMAGE egyesítése a TABEL-BEDELIMITED-be – az IMAGE és a TABDELIMITED egyesítése a Java-ben
 url: /hu/java/merger/merge-image-to-tabdelimited/ 
-description: Aspose Excel. Java Aspose.Cells. Ingyenes online egyesítés IMAGE-ból TABDELIMITED mentési formátumba. Java IMAGE kombinálása TABDELIMITED formátumba. Az IMAGE egyesítése a TABDELIMITED-be a Java-ben. IMAGE Egyesítés.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge IMAGE to TABDELIMITED in Java., Free Online Java Merge IMAGE to tabdelimited., Java Combine IMAGE to TABDELIMITED Online for Free., IMAGE Merge]
+description: Aspose Excel. Java Aspose.Cells. Az IMAGE egyesítése a TABDELIMITED mentési formátumba. Java IMAGE kombinálása TABDELIMITED formátumba. Az IMAGE egyesítése a TABDELIMITED-be a Java-ben. IMAGE Egyesítés.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge IMAGE to TABDELIMITED in Java., Java Merge IMAGE to tabdelimited., Java Combine IMAGE to TABDELIMITED., IMAGE Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Az IMAGE egyesítése a TABDELIMITED via Java számmal" h2="Nagysebességű Java könyvtár az IMAGE és a TAB egyesítéséhezDELIMITED. Használja a API-es excel-konverziónkat magas szintű, platformfüggetlen szoftverek fejlesztéséhez a Java-ben. Ez egy professzionális szoftvermegoldás a Excel, CSV, OpenOffice, PDF, HTML, image és sok más excel formátum importálásához és exportálásához." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="IMAGE" additionalConversionTag="TABDELIMITED" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Merge IMAGE to TABDELIMITED in Jav
 
 {{% blocks/products/pf/agp/content h2="Az IMAGE egyesítése a TABDELIMITED lappal a Java használatával" %}}
 
- Hogyan egyesíthetem az IMAGE-ot a TABDELIMITED-szel? A Aspose.Cells for Java könyvtárral egyszerűen egyesítheti az IMAGE-ot a TABDELIMITED-szel programozottan néhány sornyi kóddal.[Aspose.Cells for Java](https://products.aspose.com/cells/java) képes többplatformos alkalmazásokat létrehozni, módosítani, konvertálni, renderelni és kinyomtatni az összes Excel fájlt. Java Excel API nem csak a táblázatformátumok között konvertál, hanem Excel fájlokat is képes megjeleníteni képként, PDF, HTML, ODS, CSV, CSV, CSV, CSV, CSV, CSV, SVG, és így tovább, SVG P, 8 PT a választás,3,8 ipari szabvány szerinti dokumentumok cseréjére formátumok. A legújabb verziót közvetlenül a webhelyről töltheti le[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) és telepítse a Maven alapú projekten belül a következő konfigurációk hozzáadásával a pom.xml fájlhoz.
+ Hogyan egyesíthetem az IMAGE-ot a TABDELIMITED-szel? A Aspose.Cells for Java könyvtárral egyszerűen egyesítheti az IMAGE-ot a TABDELIMITED-szel programozottan néhány sornyi kóddal.[Aspose.Cells for Java](https://products.aspose.com/cells/java)képes többplatformos alkalmazásokat létrehozni, módosítani, konvertálni, renderelni és kinyomtatni az összes Excel fájlt. Java Az Excel API nemcsak a táblázatformátumok között konvertál, hanem Excel-fájlokat is képes megjeleníteni képként, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT és egyebekként, így tökéletes választás a szabványos formátumú dokumentumok cseréjéhez. A legújabb verziót közvetlenül a webhelyről töltheti le[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) és telepítse a Maven alapú projekten belül a következő konfigurációk hozzáadásával a pom.xml fájlhoz.
 
 {{% blocks/products/pf/agp/code-block title="Adattár" offSpacer="true" %}}
 
@@ -45,9 +45,9 @@ keywords: [Aspose Excel., Java Aspose.Cells., Merge IMAGE to TABDELIMITED in Jav
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Az IMAGE és a TABDELIMITED egyesítése a Java-ben online ingyen" %}}
+{{% blocks/products/pf/agp/content h2="Az IMAGE egyesítése a Java-es TABDELIMITED-del" %}}
 
-következő példa bemutatja, hogyan lehet egyesíteni az IMAGE-ot a TABDELIMITED-szel a Aspose.Cells for Java számon.
+A következő példa bemutatja, hogyan lehet egyesíteni az IMAGE-ot a TABDELIMITED-szel a Aspose.Cells for Java számon.
 {{% blocks/products/pf/agp/text %}}
 
 Kövesse az egyszerű lépéseket az IMAGE és a TABDELIMITED egyesítéséhez. Töltse fel fájljait, hívja meg a Workbook.Combine metódust a fájlok egyesítéséhez, majd mentse el a TABDELIMITED fájlba. Ha kódot fejleszt a Java-ben, ez egyszerűbb lesz, mint amilyennek hangzik. Lásd a Java-es példát, amely az IMAGE-ot a TABDELIMITED-be egyesíti.
@@ -56,7 +56,7 @@ Kövesse az egyszerű lépéseket az IMAGE és a TABDELIMITED egyesítéséhez. 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Ingyenes online az IMAGE és a TABDELIMITED egyesítése a Java számon" InputFormat="png" InputFormat2="tsv" outformat="tsv" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="java" %}}
+{{% cells-merger title="Mintakód az IMAGE és a TABDELIMITED egyesítéséhez a Java-ben" InputFormat="png" InputFormat2="tsv" outformat="tsv" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="Az IMAGE egyesítése a TABDELIMITED via Java számmal" %}}
 
@@ -132,7 +132,7 @@ API-jaink minden nagyobb platformon és operációs rendszeren támogatottak. Mi
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-image-to-xltm/" name="Az IMAGE egyesítése a XLTM számmal" description="Excel-makró-kompatibilis sablon" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-image-to-xltx/" name="Az IMAGE egyesítése a XLTX számmal" description="Office OpenXML Excel sablon" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-image-to-xml/" name="Az IMAGE egyesítése XML-be" description="Bővíthető jelölőnyelv" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-image-to-xps/" name="Az IMAGE egyesítése a XPS számmal" description="XML papírspecifikációk" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-image-to-xps/" name="Az IMAGE egyesítése a XPS számmal" description="XML papír specifikációk" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-image-to-json/" name="Az IMAGE egyesítése a JSON számmal" description="JavaScript objektum jelölés" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-image-to-jpeg/" name="Az IMAGE egyesítése a JPEG számmal" description="JPEG Kép" >}}
 

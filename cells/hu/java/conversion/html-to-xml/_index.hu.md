@@ -1,7 +1,7 @@
 ---
-title: Java HTML XML-be – Online HTML XML-konverterbe
-description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Ingyenes online Java A HTML konvertálása XML mentési formátumba. Java HTML XML formátumba. Mentse a HTML számot XML Java-be.
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java HTML to XML saveformat., Free Online HTML to XML Java., Java Convert HTML to XML]
+title: Java HTML XML - HTML XML konverter
+description: Aspose Excel. A HTML gyors és egyszerű konvertálása XML-re a Aspose.Cells-gyel. Java HTML XML-re. Java Mentse a HTML-et XML-be. Mentse el a HTML-et XML-ként a Java használatával.
+keywords: [Aspose Excel., Java Aspose.Cells., Convert HTML to XML in Java., Save HTML to XML using Java., Java HTML to XML saveformat., HTML to XML Converter., Java Save HTML as XML]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Konvertálja a HTML-et XML-re a Java-ben" h2="Nagy sebességű Java könyvtár a HTML XML-re konvertálásához. Ez egy professzionális szoftvermegoldás a HTML, XML és sok más formátum importálásához és exportálásához a Java használatával." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="XML" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java HTML to X
 
 {{% blocks/products/pf/agp/content h2="A HTML konvertálása XML-re a Java használatával" %}}
 
- Hogyan konvertálhatom át a HTML-et XML-re? A Aspose.Cells for Java könyvtárral egyszerűen konvertálhatja a HTML-et XML-re, programozottan néhány sornyi kóddal.[Aspose.Cells for Java](https://products.aspose.com/cells/java) képes többplatformos alkalmazásokat létrehozni, módosítani, konvertálni, renderelni és kinyomtatni az összes Excel fájlt. Java Excel API nem csak a táblázatformátumok között konvertál, hanem Excel fájlokat is képes megjeleníteni képként, PDF, HTML, ODS, CSV, CSV, CSV, CSV, CSV, CSV, SVG, és így tovább, SVG P, 8 PT a választás,3,8 ipari szabvány szerinti dokumentumok cseréjére formátumok. A legújabb verziót közvetlenül a webhelyről töltheti le[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) és telepítse a Maven alapú projekten belül a következő konfigurációk hozzáadásával a pom.xml fájlhoz.
+ Hogyan konvertálhatom át a HTML-et XML-re? A Aspose.Cells for Java könyvtárral egyszerűen konvertálhatja a HTML-et XML-re, programozottan néhány sornyi kóddal.[Aspose.Cells for Java](https://products.aspose.com/cells/java)képes többplatformos alkalmazásokat létrehozni, módosítani, konvertálni, renderelni és kinyomtatni az összes Excel fájlt. Java Az Excel API nemcsak a táblázatformátumok között konvertál, hanem Excel-fájlokat is képes megjeleníteni képként, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT és egyebekként, így tökéletes választás a szabványos formátumú dokumentumok cseréjéhez. A legújabb verziót közvetlenül a webhelyről töltheti le[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) és telepítse a Maven alapú projekten belül a következő konfigurációk hozzáadásával a pom.xml fájlhoz.
 
 {{% blocks/products/pf/agp/code-block title="Adattár" offSpacer="true" %}}
 
@@ -45,9 +45,9 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java HTML to X
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Mentse el a HTML-et XML-be a Java-ben online ingyen" %}}
+{{% blocks/products/pf/agp/content h2="Mentse a HTML-et XML-be a Java-ben" %}}
 
-A következő példa bemutatja a HTML konvertálását XML-re a Java-ben.
+következő példa bemutatja a HTML konvertálását XML-re a Java-ben.
 {{% blocks/products/pf/agp/text %}}
 
 Kövesse az egyszerű lépéseket a HTML XML-re konvertálásához. Töltse fel a HTML-es fájlt, majd egyszerűen mentse el XML-fájlként. Mind a HTML olvasáshoz, mind az XML íráshoz használhat teljesen minősített fájlneveket. A kimeneti XML tartalom és formázás megegyezik az eredeti HTML dokumentummal.
@@ -56,7 +56,7 @@ Kövesse az egyszerű lépéseket a HTML XML-re konvertálásához. Töltse fel 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Ingyenes alkalmazás és mintakód a HTML XML online konvertálásához" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="html" outformat="xml" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Mintakód a HTML XML-re konvertálásához" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="html" outformat="xml" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="A HTML konvertálása XML via Java-re" %}}
 
@@ -68,7 +68,7 @@ A HTML fájlokat programozottan XML-re kell konvertálni? A Java fejlesztők kö
 
 1.  Telepítse a „Aspose.Cells for Java” fájlt.
 1.  Adjon hozzá egy könyvtári hivatkozást (importálja a könyvtárat) a Java projekthez.
-1.  Töltse be a HTML számú fájlt a Workbook osztály egy példányával.
+1. Töltse be a HTML számú fájlt a Workbook osztály egy példányával.
 1.  Konvertálja a HTML-et XML-re a Workbook.save metódus hívásával.
 1.  Szerezze meg a HTML konverziós eredményt XML-re.
 
@@ -125,7 +125,7 @@ A HTML fájlokat programozottan XML-re kell konvertálni? A Java fejlesztők kö
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/html-to-xltm/" name="HTML-XLTM" description="Excel-makró-kompatibilis sablon" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/html-to-xltx/" name="HTML-XLTX" description="Office OpenXML Excel sablon" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/html-to-xml/" name="HTML XML-RE" description="Bővíthető jelölőnyelv" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/html-to-xps/" name="HTML-XPS" description="XML papírspecifikációk" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/html-to-xps/" name="HTML-XPS" description="XML papír specifikációk" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/html-to-json/" name="HTML-JSON" description="JavaScript objektum jelölés" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/html-to-jpeg/" name="HTML-JPEG" description="JPEG Kép" >}}
 

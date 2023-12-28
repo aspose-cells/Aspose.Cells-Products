@@ -1,7 +1,7 @@
 ---
-title: XLAM SPREADSHEETML formátumba – XLAM konvertálása C++ SPREADSHEETML-fájlokká
-description: Aspose Excel. Ingyenes online konvertálás XLAM SPREADSHEETML mentési formátumba. C++ XLAM SPREADSHEETML formátumba. Mentse el a XLAM-et SPREADSHEETML-ként a C++-ben.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ XLAM to SPREADSHEETML saveformat., Free Online XLAM to SPREADSHEETML Converter]
+title: C++ XLAM SPREADSHEETML - XLAM SPREADSHEETML konverter
+description: Aspose Excel. A XLAM-es számot gyorsan és egyszerűen SPREADSHEETML-re alakíthatja át a Aspose.Cells-es számmal. C++ Mentse a XLAM számot a SPREADSHEETML-be. Mentse el a XLAM-et SPREADSHEETML-ként a C++ használatával.
+keywords: [Aspose Excel., C++ Aspose.Cells., Convert XLAM to SPREADSHEETML in C++., Save XLAM to SPREADSHEETML using C++., C++ XLAM to SPREADSHEETML saveformat., XLAM to SPREADSHEETML Converter., C++ Save XLAM as SPREADSHEETML]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Konvertálja a XLAM-et SPREADSHEETML-re a C++-ben" h2="Nagy teljesítményű XLAM konvertálás SPREADSHEETML-be a C++ könyvtár használatával, Microsoft Excel, OpenOffice vagy Adobe Acrobat telepítése nélkül." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" sourceAdditionalConversionTag="" additionalConversionTag="SPREADSHEETML" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., C++ Aspose.Cells., C++ XLAM to SPREADSHEETML saveforma
 
 {{% blocks/products/pf/agp/content h2="A XLAM konvertálása SPREADSHEETML-re a C++ használatával" %}}
 
-Hogyan konvertálhatom a XLAM-et SPREADSHEETML-re? A Aspose.Cells for C++ könyvtárral könnyedén konvertálhatja a XLAM-et SPREADSHEETML-re, néhány sornyi kóddal programozottan.[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) képes többplatformos alkalmazásokat létrehozni, módosítani, konvertálni, renderelni és kinyomtatni az összes Excel fájlt. C++ Excel API nem csak a táblázatformátumok között konvertál, hanem Excel fájlokat is képes megjeleníteni képként, PDF, HTML, ODS, CSV, CSV, CSV, CSV, CSV, CSV, SVG, és így tovább, SVG P, 8 PT a választás,3,8 ipari szabvány szerinti dokumentumok cseréjére formátumok. A legújabb verziót közvetlenül letöltheti, csak nyissa meg[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) csomagkezelő, keresse meg a Aspose.Cells.Cpp címet, és telepítse. A következő parancsot is használhatja a Package Manager konzolból.
+ Hogyan konvertálhatom a XLAM-et SPREADSHEETML-re? A Aspose.Cells for C++ könyvtárral könnyedén konvertálhatja a XLAM-et SPREADSHEETML-re, néhány sornyi kóddal programozottan.[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) képes többplatformos alkalmazásokat létrehozni, módosítani, konvertálni, renderelni és kinyomtatni az összes Excel fájlt. C++ Az Excel API nemcsak a táblázatformátumok között konvertál, hanem Excel-fájlokat is képes megjeleníteni képként, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT és egyebekként, így tökéletes választás a szabványos formátumú dokumentumok cseréjéhez. A legújabb verziót közvetlenül letöltheti, csak nyissa meg[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) csomagkezelő, keresse meg a Aspose.Cells.Cpp címet, és telepítse. A következő parancsot is használhatja a Package Manager konzolból.
 
 {{% blocks/products/pf/agp/code-block title="Parancs" offSpacer="true" %}}
 
@@ -26,7 +26,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Mentse el a XLAM-et a SPREADSHEETML-be a C++-ben online ingyen" %}}
+{{% blocks/products/pf/agp/content h2="Mentse a XLAM-et a SPREADSHEETML-be a C++-ben" %}}
 
 A következő példa bemutatja, hogyan lehet a XLAM-et SPREADSHEETML-re konvertálni a C++-ben.
 {{% blocks/products/pf/agp/text %}}
@@ -37,7 +37,7 @@ Kövesse az egyszerű lépéseket a XLAM SPREADSHEETML formátumba konvertálás
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Ingyenes alkalmazás és mintakód a XLAM SPREADSHEETML online konvertálásához" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlam" outformat="xml" IsLandingPage="true" language="cpp" %}}
+{{% cells-convert title="Mintakód a XLAM SPREADSHEETML-lé konvertálásához" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlam" outformat="xml" IsLandingPage="true" language="cpp" %}}
 
 {{% blocks/products/pf/agp/content h2="A XLAM konvertálása SPREADSHEETML-re a C++-en keresztül" %}}
 
@@ -49,8 +49,8 @@ A XLAM fájlokat programozottan SPREADSHEETML-be kell konvertálni? A C++ fejles
 
 1.  Telepítse a „Aspose.Cells for C++” fájlt.
 1.  Adjon hozzá egy könyvtári hivatkozást (importálja a könyvtárat) a C++ projekthez.
-1.  Töltse be a XLAM fájlt a Factory::CreateIWorkbook segítségével.
-1.  XLAM konvertálása SPREADSHEETML-re a Save() metódus meghívásával.
+1.  Töltse be a XLAM fájlt a munkafüzet segítségével.
+1.  A XLAM konvertálása SPREADSHEETML-re a Save() metódus meghívásával.
 1.  Szerezze meg a XLAM konverziós eredményt SPREADSHEETML-re.
 
 {{% /blocks/products/pf/agp/content %}}
@@ -82,6 +82,12 @@ Három lehetőség közül választhat a „Aspose.Cells for C++” telepítés�
 
 {{% /blocks/products/pf/agp/content %}}
 
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLAM" readMoreLink="https://docs.fileformat.com/spreadsheet/xlam/" >}}XLAM egy makróképes bővítményfájl, amely új függvények hozzáadására szolgál a táblázatokhoz. A bővítmény egy kiegészítő program, amely további kódot futtat, és további funkciókat biztosít a táblázatokhoz. A XLAM fájlok .xlam kiterjesztéssel vannak tárolva. A XLAM fájlok a XLSM és a XLSX fájlformátumokhoz hasonló XML-alapú fájlok, és ZIP-tömörítéssel kerülnek mentésre a teljes fájlméret csökkentése érdekében.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="SPREADSHEETML" readMoreLink="https://docs.fileformat.com/web/xml/" >}}Az XML az Extensible Markup Language rövidítése, amely hasonló a HTML-hez, de különbözik az objektumok meghatározására szolgáló címkék használatában. Az XML fájlformátum létrehozásának teljes ötlete az adatok tárolása és továbbítása volt anélkül, hogy szoftver- vagy hardvereszközöktől függne. Népszerűsége annak köszönhető, hogy emberi és géppel is olvasható. Ez lehetővé teszi, hogy közös adatprotokollokat hozzon létre objektumok formájában, amelyeket tárolni és megosztani a hálózaton, például a World Wide Web-en (WWW). Az XML-ben az "X" a bővíthető, ami azt jelenti, hogy a nyelv tetszőleges számú szimbólumra kiterjeszthető a felhasználói igényeknek megfelelően. Sok szabványos fájlformátum ezekhez a szolgáltatásokhoz használja, például a Microsoft Open XML, a LibreOffice OpenDocument, az XHTML és a SVG.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Egyéb támogatott konverziók" subTitle="A XLAM-et számos más fájlformátumra is konvertálhatja, köztük néhány alább felsorolt formátumra." >}}
 
@@ -95,7 +101,6 @@ Három lehetőség közül választhat a „Aspose.Cells for C++” telepítés�
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xlam-to-pdf/" name="XLAM-PDF" description="Hordozható dokumentum formátum" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xlam-to-png/" name="XLAM-PNG" description="Hordozható hálózati grafika" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xlam-to-svg/" name="XLAM-SVG" description="Skálázható vektorgrafika" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xlam-to-tiff/" name="XLAM-TIFF" description="Címkézett képformátum" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xlam-to-tsv/" name="XLAM-TSV" description="Tabulátorral elválasztott értékek" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xlam-to-txt/" name="XLAM-TXT" description="Szöveges dokumentum" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xlam-to-xls/" name="XLAM-XLS" description="Excel bináris formátum" >}}
@@ -106,7 +111,7 @@ Három lehetőség közül választhat a „Aspose.Cells for C++” telepítés�
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xlam-to-xltm/" name="XLAM-XLTM" description="Excel-makró-kompatibilis sablon" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xlam-to-xltx/" name="XLAM-XLTX" description="Office OpenXML Excel sablon" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xlam-to-xml/" name="XLAM XML-RE" description="Bővíthető jelölőnyelv" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xlam-to-xps/" name="XLAM-XPS" description="XML papírspecifikációk" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xlam-to-xps/" name="XLAM-XPS" description="XML papír specifikációk" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xlam-to-json/" name="XLAM-JSON" description="JavaScript objektum jelölés" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xlam-to-jpeg/" name="XLAM-JPEG" description="JPEG Kép" >}}
 

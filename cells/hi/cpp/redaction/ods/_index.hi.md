@@ -2,6 +2,7 @@
 title:  ODS दस्तावेज़ में टेक्स्ट को C++ के माध्यम से खोजें और बदलें
 weight: 1610
 description: Windows 32 बिट, Windows 64 बिट और लिनक्स 64 बिट के लिए C++ रनटाइम एनवायरनमेंट पर ODS फ़ाइल में संवेदनशील जानकारी को संशोधित करने के लिए C++ उदाहरण कोड।
+keywords: [C++ Aspose.Cells., C++ Search and replace text in ODS file., C++ redact ODS file., C++ edit ODS file., C++ ODS file redaction., C++ Search and replace string in ODS file]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="C++ में ODS प्रारूप को संशोधित करें" h2="मूल और उच्च प्रदर्शन ODS, Microsoft या एडोब PDF जैसे किसी भी सॉफ्टवेयर के उपयोग के बिना, सर्वर-साइड Aspose.Cells for C++ एपीआई का उपयोग करके संवेदनशील संपादन जानकारी को दस्तावेज़ित करता है।" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" sourceAdditionalConversionTag="" additionalConversionTag="" pfName="Aspose.Cells" subTitlepfName="for C++" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="ODS" >}}
@@ -48,7 +49,7 @@ PM> Install-Package Aspose.Cells.Cpp
 + केस संवेदनशीलता विकल्प सेट करें।
 + टेक्स्ट मिलान विकल्प सेट करें
 + Replace(...) विधि का उपयोग करके टेक्स्ट बदलें
-कार्यपुस्तिका सहेजें.
++ कार्यपुस्तिका सहेजें.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -68,29 +69,25 @@ PM> Install-Package Aspose.Cells.Cpp
 {{% blocks/products/pf/agp/code-block title="Redact ODS फ़ाइलें - C++" offSpacer="" %}}
 
 ```cs
-// Source directory path.
-StringPtr srcDir = new String("SourceFolder\\");
 
-// Output directory path.
-StringPtr outDir = new String("OutputFolder\\");
+Aspose::Cells::Startup();
 
 // Load ODS file
-intrusive_ptr<IWorkbook>  workbook = Factory::CreateIWorkbook(srcDir->StringAppend(new String("book1.ods")));
-
-// Create an instance of the IReplaceOptions class
-intrusive_ptr<IReplaceOptions> replaceOptions = Factory::CreateIReplaceOptions();
-
-// Set case sensitivity option
-replaceOptions->SetCaseSensitive(false);
-
+Workbook wb(u"Input.ods");
+//Create an instance of the ReplaceOptions class
+ReplaceOptions replaceOptions;
 // Set text matching option
-replaceOptions->SetMatchEntireCellContents(false);
-
+replaceOptions.SetRegexKey(true);
+// Set case sensitivity option
+replaceOptions.SetCaseSensitive(false);
+// Set text matching option
+replaceOptions.SetMatchEntireCellContents(false);
 // Replace text
-workbook->Replace(new String("Text to find"), new String("Text replacement"), replaceOptions);
-
+wb.Replace(u"\bKIM\b", u"^^^^^^^^", replaceOptions);
 // Save as ODS file
-workbook->Save(outDir->StringAppend(new String("book1_out.ods")));
+wb.Save("output.ods");
+
+Aspose::Cells::Cleanup();
 
 ```
 
@@ -117,7 +114,7 @@ workbook->Save(outDir->StringAppend(new String("book1_out.ods")));
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Aspose API डाउनलोड करने की आवश्यकता नहीं है।" >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" कोई कोड लिखने की जरूरत नहीं." >}}
         {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" बस अपनी ODS फ़ाइलें अपलोड करें।" >}}
-        {{< blocks/products/pf/agp/democard icon="fa-download" text=" इसे तुरंत संशोधित कर दिया जाएगा." >}}
+        {{< blocks/products/pf/agp/democard icon="fa-download" text="इसे तुरंत संशोधित कर दिया जाएगा." >}}
     {{< /blocks/products/pf/agp/demobox >}}
 
     {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="ODS" readMoreLink="https://docs.fileformat.com/spreadsheet/ods/" >}}
@@ -129,7 +126,7 @@ ODS एक्सटेंशन वाली फ़ाइलें ओपन ड
 
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="अन्य समर्थित सुधार दस्तावेज़" subTitle="C++ का उपयोग करके, कोई भी आसानी से विभिन्न प्रारूपों को संपादित कर सकता है।" >}}
+{{< blocks/products/pf/agp/other-supported-section title="अन्य समर्थित सुधार दस्तावेज़" subTitle="C++ का उपयोग करके, कोई भी आसानी से विभिन्न प्रारूपों को संशोधित कर सकता है।" >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/redaction/xls/" name="XLS" description="एक्सेल बाइनरी फॉर्मेट" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/redaction/xlsb/" name="XLSB" description="बाइनरी एक्सेल वर्कबुक फ़ाइल" >}}

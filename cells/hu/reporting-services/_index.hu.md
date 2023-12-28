@@ -40,7 +40,7 @@ description: SQL Server Reporting Services megjelenítési bővítmény – Exce
  Szövegdobozok
     </li>
     <li>
-Képek
+ Képek
     </li>
     <li>
  Aljelentések
@@ -52,7 +52,7 @@ Képek
  Listák
     </li>
     <li>
- Táblázatok
+Táblázatok
     </li>
     <li>
  Nyomtáv
@@ -312,7 +312,7 @@ Képek
     <em class="fa fa-expand ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-Összecsukja vagy kibontja a kimutatás mezőit
+ Összecsukja vagy kibontja a kimutatás mezőit
     </p>
    </div>
    <div class="col-lg-4">
@@ -348,7 +348,7 @@ Képek
  Aspose.Cells' Jelentéstervező eszköz
     </h2>
     <p>
- A fejlesztők közvetlenül a Microsoft Excelből tervezhetnek és szállíthatnak jelentéseket a Aspose.Cells.Report.Designer használatával – egy egyszerű tervezőeszközzel, amely a Microsoft Excelt használja jelentéssablonként. Ez a funkció lehetővé teszi a Microsoft Excel alkalmazásban elérhető összes hatékony funkció és szolgáltatás kihasználását, beleértve a kimutatástáblákat, interaktív diagramokat, képleteket és így tovább.
+ fejlesztők közvetlenül a Microsoft Excelből tervezhetnek és szállíthatnak jelentéseket a Aspose.Cells.Report.Designer használatával – egy egyszerű tervezőeszközzel, amely a Microsoft Excelt használja jelentéssablonként. Ez a funkció lehetővé teszi a Microsoft Excel alkalmazásban elérhető összes hatékony funkció és szolgáltatás kihasználását, beleértve a kimutatástáblákat, interaktív diagramokat, képleteket és így tovább.
     </p>
    </div>
    <div class="col-lg-12">
@@ -356,7 +356,7 @@ Képek
  Jelentések exportálása táblázatos formátumokba
     </h2>
     <p>
- Aspose.Cells for Reporting Services támogatja az összes népszerű Microsoft Excel (97 - 2016) fájlformátumot, beleértve a „natív” Microsoft Excel formátumokat is, mint például a XLS, XLSX, XLSX, XLSX, XLSX, XLSX, XLSX, XLSX, XLSX, XLSX, Microsoft. , Tabulátorral tagolt és HTML. A Aspose.Cells for Reporting Services támogatja a ODS (OpenDocument Spreadsheet) fájlformátumot is.
+ A Aspose.Cells for Reporting Services támogatja az összes népszerű Microsoft Excel (97–2016) fájlformátumot, beleértve a „natív” Microsoft Excel formátumokat is, például XLS, XLSX, XLSX, XLSX, XLSX, XLSX, XLSX, XLSX, Ta b Határozott és HTML. A Aspose.Cells for Reporting Services támogatja a ODS (OpenDocument Spreadsheet) fájlformátumot is.
     </p>
     <p>
  Ezen felül Aspose.Cells for Reporting Services Excel dokumentumokat exportálhat teljesen szerkeszthető táblázatként, azaz; a végfelhasználó szükség esetén manuálisan szerkesztheti az eredményül kapott táblázatokat a Microsoft Excel alkalmazásban.
@@ -367,7 +367,7 @@ Képek
  High Fidelity – megegyezik a jelentéskészítéssel
     </h2>
     <p>
- Aspose.Cells for Reporting Services exportálja a jelentéseket Microsoft Excel-táblázatokba oly módon, hogy az eredmény megegyezzen a Reporting Services beépített jelentéstervezője által generált eredetivel. Az összes jelentésfunkciót a legmagasabb fokú pontosságra konvertálják, hogy a Microsoft Excel-táblázatok a lehető legjobban hasonlítsanak az eredetihez.
+Aspose.Cells for Reporting Services exportálja a jelentéseket Microsoft Excel-táblázatokba oly módon, hogy az eredmény megegyezzen a Reporting Services beépített jelentéstervezője által generált eredetivel. Az összes jelentésfunkciót a legmagasabb fokú pontosságra konvertálják, hogy a Microsoft Excel-táblázatok a lehető legjobban hasonlítsanak az eredetihez.
     </p>
    </div>
    <!--
@@ -386,10 +386,10 @@ Képek
  Különféle adatkezelési lehetőségek
     </h2>
     <p>
-Aspose.Cells for Reporting Services támogatja a táblázatokat csoportosított sorokkal és láblécekkel, míg a csoportosítás más jelentéstételekhez hasonlóan tervezéskor is beállítható. Aspose.Cells A for Reporting Services a paramétereket és a globális változókat is támogatja jelentésadatforrásként. A fejlesztők a Microsoft Query szolgáltatást is használhatják adatforrások és lekérdezések létrehozásához; ez egy széles körben használt eszköz, és a legtöbb felhasználó számára ismerős.
+ Aspose.Cells for Reporting Services támogatja a táblázatokat csoportosított sorokkal és láblécekkel, míg a csoportosítás más jelentéstételekhez hasonlóan tervezéskor is beállítható. Aspose.Cells A for Reporting Services a paramétereket és a globális változókat is támogatja jelentésadatforrásként. A fejlesztők a Microsoft Query szolgáltatást is használhatják adatforrások és lekérdezések létrehozásához; ez egy széles körben használt eszköz, és a legtöbb felhasználó számára ismerős.
     </p>
     <p>
- Ezen kívül a Aspose.Cells for Reporting Services támogatja a jelentésspecifikus adatforrásokat és a Report Serveren előre létrehozott megosztott adatforrásokat. A fejlesztők jelentésspecifikus adatforrásokat használhatnak a tervezéskor, és megosztott adatforrásokat adhatnak meg jelentésadatforrásként a jelentések közzététele során.
+Ezen kívül a Aspose.Cells for Reporting Services támogatja a jelentésspecifikus adatforrásokat és a Report Serveren előre létrehozott megosztott adatforrásokat. A fejlesztők jelentésspecifikus adatforrásokat használhatnak a tervezéskor, és megosztott adatforrásokat adhatnak meg jelentésadatforrásként a jelentések közzététele során.
     </p>
    </div>
    <!-- 

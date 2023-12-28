@@ -1,7 +1,7 @@
 ---
-title: Java TABDELIMITED to PRN - Online TABDELIMITED to PRN konverter
-description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Ingyenes online Java TABDELIMITED átalakítása PRN mentési formátumra. Java TABDELIMITED PRN formátumba. Mentés TABDELIMITED PRN Java számra.
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java TABDELIMITED to PRN saveformat., Free Online TABDELIMITED to PRN Java., Java Convert TABDELIMITED to PRN]
+title: Java TABDELIMITED PRN-re - TABDELIMITED PRN konverterre
+description: Aspose Excel. A Aspose.Cells számmal gyorsan és egyszerűen konvertálja a TABDELIMITED-et PRN-re. Java TABDELIMITED PRN-re. Java TABDELIMITED mentése PRN-be. Mentés TABDELIMITED PRN-ként a Java használatával.
+keywords: [Aspose Excel., Java Aspose.Cells., Convert TABDELIMITED to PRN in Java., Save TABDELIMITED to PRN using Java., Java TABDELIMITED to PRN saveformat., TABDELIMITED to PRN Converter., Java Save TABDELIMITED as PRN]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Konvertálja a TABDELIMITED-et PRN-re a Java-ben" h2="Nagy sebességű Java könyvtár a TABDELIMITED PRN-re konvertálásához. Ez egy professzionális szoftvermegoldás TABDELIMITED, PRN és sok más formátum importálásához és exportálásához a Java szám használatával." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="PRN" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java TABDELIMI
 
 {{% blocks/products/pf/agp/content h2="A TABDELIMITED konvertálása PRN-re a Java használatával" %}}
 
- Hogyan konvertálhatom a TABDELIMITED-et PRN-re? A Aspose.Cells for Java könyvtárral egyszerűen, néhány soros kóddal programozottan konvertálhatja a TABDELIMITED-et PRN-re.[Aspose.Cells for Java](https://products.aspose.com/cells/java) képes többplatformos alkalmazásokat létrehozni, módosítani, konvertálni, renderelni és kinyomtatni az összes Excel fájlt. Java Excel API nem csak a táblázatformátumok között konvertál, hanem Excel fájlokat is képes megjeleníteni képként, PDF, HTML, ODS, CSV, CSV, CSV, CSV, CSV, CSV, SVG, és így tovább, SVG P, 8 PT a választás,3,8 ipari szabvány szerinti dokumentumok cseréjére formátumok. A legújabb verziót közvetlenül a webhelyről töltheti le[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) és telepítse a Maven alapú projekten belül a következő konfigurációk hozzáadásával a pom.xml fájlhoz.
+ Hogyan konvertálhatom a TABDELIMITED-et PRN-re? A Aspose.Cells for Java könyvtárral egyszerűen, néhány soros kóddal programozottan konvertálhatja a TABDELIMITED-et PRN-re.[Aspose.Cells for Java](https://products.aspose.com/cells/java)képes többplatformos alkalmazásokat létrehozni, módosítani, konvertálni, renderelni és kinyomtatni az összes Excel fájlt. Java Az Excel API nemcsak a táblázatformátumok között konvertál, hanem Excel-fájlokat is képes megjeleníteni képként, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT és egyebekként, így tökéletes választás a szabványos formátumú dokumentumok cseréjéhez. A legújabb verziót közvetlenül a webhelyről töltheti le[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) és telepítse a Maven alapú projekten belül a következő konfigurációk hozzáadásával a pom.xml fájlhoz.
 
 {{% blocks/products/pf/agp/code-block title="Adattár" offSpacer="true" %}}
 
@@ -45,7 +45,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java TABDELIMI
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Mentse el a TABDELIMITED-et a PRN-be a Java-es számon online ingyen" %}}
+{{% blocks/products/pf/agp/content h2="Mentse a TABDELIMITED-et a PRN-be a Java-ben" %}}
 
 A következő példa bemutatja, hogyan konvertálható a TABDELIMITED PRN-re a Java-ben.
 {{% blocks/products/pf/agp/text %}}
@@ -56,7 +56,7 @@ Kövesse az egyszerű lépéseket a TABDELIMITED PRN-re konvertálásához. Töl
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Ingyenes alkalmazás és mintakód a TABDELIMITED PRN Online konvertálásához" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="tsv" outformat="prn" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Mintakód a TABDELIMITED PRN-re konvertálásához" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="tsv" outformat="prn" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="A TABDELIMITED átalakítása PRN via Java-re" %}}
 
@@ -98,7 +98,7 @@ A TABDELIMITED fájlokat programozottan PRN-re kell konvertálnia? A Java fejles
 <!-- aboutfile Starts -->
     {{< blocks/products/pf/agp/about-file-section >}}
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="TABDELIMITED" readMoreLink="https://docs.fileformat.com/spreadsheet/tsv/" >}}A tabulátorral elválasztott értékek (TSV) fájlformátum a tabulátorokkal elválasztott adatokat egyszerű szöveges formátumban jelenti. A CSV-hez hasonló fájlformátumot az adatok strukturált szervezésére használják a különböző alkalmazások közötti importálás és exportálás érdekében. A formátumot elsősorban adatimportálására/exportálására és adatcseréjére használják táblázatkezelő alkalmazásokban és adatbázisokban. A TSV fájl minden rekordja egyetlen sor szövegfájlban található, ahol minden mezőértéket tabulátor karakter választ el. A TSV fájlformátum médiatípusa szöveg/tabulátorral elválasztott értékek.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="PRN" readMoreLink="https://fileinfo.com/extension/prn/" >}}PRN-fájl a Nyomtatás fájlba jelölőnégyzet segítségével létrehozott fájl, amely a Windows-es szám egyes Nyomtatás párbeszédpaneleiben jelenik meg. Eszközspecifikus utasításokat tartalmaz, amelyeket a nyomtató, fax vagy más eszköz a dokumentum nyomtatásához használ. A PRN-fájlok szöveges vagy bináris tartalmat tartalmazhatnak, attól függően, hogy milyen eszközhöz készült a fájl.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="PRN" readMoreLink="https://fileinfo.com/extension/prn/" >}}A PRN-fájl a Nyomtatás fájlba jelölőnégyzet segítségével létrehozott fájl, amely a Windows-es szám egyes Nyomtatás párbeszédpaneleiben jelenik meg. Eszközspecifikus utasításokat tartalmaz, amelyeket a nyomtató, fax vagy más eszköz a dokumentum nyomtatásához használ. A PRN-fájlok szöveges vagy bináris tartalmat tartalmazhatnak, attól függően, hogy milyen eszközhöz készült a fájl.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
     {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->
 
@@ -108,7 +108,7 @@ A TABDELIMITED fájlokat programozottan PRN-re kell konvertálnia? A Java fejles
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/tabdelimited-to-emf/" name="TABDELIMITED A EMF-RE" description="Továbbfejlesztett metafájl formátum" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/tabdelimited-to-gif/" name="TABDELIMITED A GIF-RE" description="Grafikus csereformátum" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/tabdelimited-to-html/" name="TABDELIMITED A HTML-RE" description="Hyper Text Markup Language" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/tabdelimited-to-md/" name="TABLE HITELEZETT AZ MD-HEZ" description="Markdown Language" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/tabdelimited-to-md/" name="FÜLKÖZÖTT AZ MD-HEZ" description="Markdown Language" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/tabdelimited-to-mhtml/" name="TABDELIMITED A MHTML-RE" description="Weboldal archív formátuma" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/tabdelimited-to-ods/" name="TABDELIMITED A ODS-RE" description="OpenDocument táblázatfájl" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/tabdelimited-to-pdf/" name="TABDELIMITED A PDF-RE" description="Hordozható dokumentum formátum" >}}
@@ -125,7 +125,7 @@ A TABDELIMITED fájlokat programozottan PRN-re kell konvertálnia? A Java fejles
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/tabdelimited-to-xltm/" name="TABDELIMITED A XLTM-RE" description="Excel-makró-kompatibilis sablon" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/tabdelimited-to-xltx/" name="TABDELIMITED A XLTX-RE" description="Office OpenXML Excel sablon" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/tabdelimited-to-xml/" name="TABDELIMITED TO XML" description="Bővíthető jelölőnyelv" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/tabdelimited-to-xps/" name="TABDELIMITED A XPS-RE" description="XML papírspecifikációk" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/tabdelimited-to-xps/" name="TABDELIMITED A XPS-RE" description="XML papír specifikációk" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/tabdelimited-to-json/" name="TABDELIMITED A JSON-RE" description="JavaScript objektum jelölés" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/tabdelimited-to-jpeg/" name="TABDELIMITED A JPEG-RE" description="JPEG Kép" >}}
 

@@ -1,8 +1,8 @@
 ---
-title: Java Repair ods File – Javítási ods fájl online ingyen
+title: Java Javítás ods – A sérült ods fájl helyreállítása és javítása
 url: /hu/java/recovery/repair-ods/ 
-description: Aspose Excel. Java Aspose.Cells. Java Javítási ods fájl. Ingyenes online ods-javító eszköz. Javítsa meg a sérült ods fájlt. Helyezze vissza a sérült ods-fájlt a Java alkalmazáson belül.
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java Repair ods file., Free Online Repair a corrupted ods file., Java Recover ods file.]
+description: Java Aspose.Cells. Javítási lehetőségek. Fix ods fájl. ods helyreállítási eszköz. ods korrupció. Az ods adatok visszaállítása. ods fájl helyreállítása. A sérült ods fájl helyreállítása.
+keywords: [Java Aspose.Cells., repair ods file., ods repair., recover corrupted ods file., repair corrupted ods., recover ods., fix ods file., ods corruption., restore ods data., ods file recovery., recover corrupted ods file.]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Javítás ODS fájl a Java-ben" h2="Készítse el saját Java alkalmazását az ods fájlok javításához a Java használatával." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="ODS" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="" fileiconsmall1="XLS" fileiconsmall2="XLSB" fileiconsmall3="XLSX" fileiconsmall4="XLSM" fileiconsmall5="ODS" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java Repair od
 
 {{% blocks/products/pf/agp/content h2="Javítás ODS fájl a Java használatával" %}}
 
- Hogyan javíthatom ki az ods fájlt? A Aspose.Cells for Java könyvtárral könnyedén kijavíthatja a ODS fájlt néhány soros kóddal, programozottan.[Aspose.Cells for Java](https://products.aspose.com/cells/java) képes többplatformos alkalmazásokat létrehozni, módosítani, konvertálni, renderelni és kinyomtatni az összes Excel fájlt. Java Excel API nem csak a táblázatformátumok között konvertál, hanem Excel fájlokat is képes megjeleníteni képként, PDF, HTML, ODS, CSV, CSV, CSV, CSV, CSV, CSV, SVG, és így tovább, SVG P, 8 PT a választás,3,8 ipari szabvány szerinti dokumentumok cseréjére formátumok. A legújabb verziót közvetlenül a webhelyről töltheti le[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) és telepítse a Maven alapú projekten belül a következő konfigurációk hozzáadásával a pom.xml fájlhoz.
+ Hogyan javíthatom ki az ods fájlt? A Aspose.Cells for Java könyvtárral könnyedén kijavíthatja a ODS fájlt néhány soros kóddal, programozottan.[Aspose.Cells for Java](https://products.aspose.com/cells/java)képes többplatformos alkalmazásokat létrehozni, módosítani, konvertálni, renderelni és kinyomtatni az összes Excel fájlt. Java Az Excel API nemcsak a táblázatformátumok között konvertál, hanem Excel-fájlokat is képes megjeleníteni képként, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT és egyebekként, így tökéletes választás a szabványos formátumú dokumentumok cseréjéhez. A legújabb verziót közvetlenül a webhelyről töltheti le[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) és telepítse a Maven alapú projekten belül a következő konfigurációk hozzáadásával a pom.xml fájlhoz.
 
 {{% blocks/products/pf/agp/code-block title="Adattár" offSpacer="true" %}}
 
@@ -60,7 +60,7 @@ Programozottan kell javítania az ods fájlt? A Java fejlesztők könnyedén bet
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-recovery title="Ingyenes alkalmazás és mintakód a ODS fájl online javításához" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et" InputFormat="ods" outformat="ods" IsLandingPage="true" language="java" %}}    
+{{% cells-recovery title="Mintakód a ODS fájl javításához" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et" InputFormat="ods" outformat="ods" IsLandingPage="true" language="java" %}}    
     
 {{% blocks/products/pf/agp/content h2="Java könyvtár a ODS fájl javításához" %}}
 

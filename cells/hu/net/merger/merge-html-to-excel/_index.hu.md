@@ -1,8 +1,8 @@
 ---
 title: A HTML egyesítése az EXCEL-lel – a HTML egyesítése az EXCEL-lel a C#-ben
 url: /hu/net/merger/merge-html-to-excel/ 
-description: Aspose Excel. C# Aspose.Cells. Ingyenes online egyesítés HTML EXCEL mentési formátumba. C# Kombinálja a HTML-et EXCEL formátumba. A HTML egyesítése az EXCEL-lel a C#-ben. HTML Egyesítés.
-keywords: [Aspose Excel., C# Aspose.Cells., Merge HTML to EXCEL in C#., Free Online C# Merge HTML to excel., C# Combine HTML to EXCEL Online for Free., HTML Merge]
+description: Aspose Excel. C# Aspose.Cells. A HTML egyesítése EXCEL mentési formátumba. C# Kombinálja a HTML-et EXCEL formátumba. A HTML egyesítése az EXCEL-lel a C#-ben. HTML Egyesítés.
+keywords: [Aspose Excel., C# Aspose.Cells., Merge HTML to EXCEL in C#., C# Merge HTML to excel., C# Combine HTML to EXCEL., HTML Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="A HTML egyesítése az EXCEL-lel a C# számon keresztül" h2="Nagy sebességű C#-es könyvtár a HTML-es EXCEL-hez való egyesítéséhez. Használja a API-es excel-konverziónkat magas szintű, platformfüggetlen szoftverek fejlesztéséhez a C#-ben. Ez egy professzionális szoftvermegoldás a Excel, CSV, OpenOffice, PDF, HTML, image és sok más excel formátum importálásához és exportálásához." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="HTML" additionalConversionTag="EXCEL" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., C# Aspose.Cells., Merge HTML to EXCEL in C#., Free Onl
 
 {{% blocks/products/pf/agp/content h2="A HTML egyesítése az EXCEL-lel a C# használatával" %}}
 
- Hogyan egyesíthetem a HTML-es számot az EXCEL-lel? A Aspose.Cells for .NET könyvtárral egyszerűen egyesítheti a HTML-et az EXCEL-lel, néhány soros kóddal.[Aspose.Cells for .NET](https://products.aspose.com/cells/net)képes többplatformos alkalmazásokat létrehozni, módosítani, konvertálni, renderelni és kinyomtatni az összes Excel fájlt. .NET Excel API nem csak a táblázatformátumok között konvertál, hanem Excel fájlokat is képes megjeleníteni képként, PDF, HTML, ODS, CSV, CSV, CSV, CSV, CSV, CSV, SVG, és így tovább, SVG P, 8 PT a választás,3,8 ipari szabvány szerinti dokumentumok cseréjére formátumok. Nyisd ki[NuGet](https://www.nuget.org/packages/aspose.cells) csomagkezelő, keresse meg a Aspose.Cells-et, és telepítse. A következő parancsot is használhatja a Package Manager konzolból.
+ Hogyan egyesíthetem a HTML-es számot az EXCEL-lel? A Aspose.Cells for .NET könyvtárral egyszerűen egyesítheti a HTML-et az EXCEL-lel, néhány soros kóddal.[Aspose.Cells for .NET](https://products.aspose.com/cells/net)képes többplatformos alkalmazásokat létrehozni, módosítani, konvertálni, renderelni és kinyomtatni az összes Excel fájlt. .NET Az Excel API nemcsak a táblázatformátumok között konvertál, hanem Excel-fájlokat is képes megjeleníteni képként, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT és egyebekként, így tökéletes választás a szabványos formátumú dokumentumok cseréjéhez. Nyisd ki[NuGet](https://www.nuget.org/packages/aspose.cells) csomagkezelő, keresse meg a Aspose.Cells-et, és telepítse. A következő parancsot is használhatja a Package Manager konzolból.
 
 {{% blocks/products/pf/agp/code-block title="Csomagkezelő konzolparancs" offSpacer="true" %}}
 
@@ -26,7 +26,7 @@ PM> Install-Package Aspose.Cells
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Csatlakoztassa a HTML-et az EXCEL-hez a C#-es online ingyen" %}}
+{{% blocks/products/pf/agp/content h2="A HTML egyesítése az EXCEL-lel a C#-ben" %}}
 
 következő példa bemutatja, hogyan lehet egyesíteni a HTML-et az EXCEL-lel a Aspose.Cells for .NET-ben.
 {{% blocks/products/pf/agp/text %}}
@@ -37,7 +37,7 @@ Kövesse az egyszerű lépéseket a HTML EXCEL-lel való egyesítéséhez. Tölt
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Ingyenes online összevonás a HTML-es EXCEL-lel a C#-ben" InputFormat="html" InputFormat2="xlsx" outformat="xlsx" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="net" %}}
+{{% cells-merger title="Mintakód a HTML egyesítéséhez az EXCEL-hez a C#-ben" InputFormat="html" InputFormat2="xlsx" outformat="xlsx" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="net" %}}
 
 {{% blocks/products/pf/agp/content h2="A HTML és az EXCEL egyesítése a C# számon keresztül" %}}
 
@@ -116,8 +116,8 @@ API-jaink minden nagyobb platformon és operációs rendszeren támogatottak. Mi
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-html-to-xlt/" name="HTML és a XLT számok egyesítése" description="Microsoft Excel-sablon" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-html-to-xltm/" name="HTML és a XLTM számok egyesítése" description="Excel-makró-kompatibilis sablon" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-html-to-xltx/" name="HTML és a XLTX számok egyesítése" description="Office OpenXML Excel sablon" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-html-to-xml/" name="A HTML egyesítése XML-be" description="Bővíthető jelölőnyelv" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-html-to-xps/" name="HTML és a XPS számok egyesítése" description="XML papírspecifikációk" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-html-to-xml/" name="Egyesítse a HTML-et XML-be" description="Bővíthető jelölőnyelv" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-html-to-xps/" name="HTML és a XPS számok egyesítése" description="XML papír specifikációk" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-html-to-json/" name="HTML és a JSON számok egyesítése" description="JavaScript objektum jelölés" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-html-to-jpeg/" name="HTML és a JPEG számok egyesítése" description="JPEG Kép" >}}
 

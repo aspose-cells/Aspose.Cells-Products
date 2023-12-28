@@ -1,8 +1,8 @@
 ---
 title: A XLSM egyesítése az EXCEL-lel – a XLSM egyesítése az EXCEL-lel a Java-ben
 url: /hu/java/merger/merge-xlsm-to-excel/ 
-description: Aspose Excel. Java Aspose.Cells. Ingyenes online egyesítés XLSM EXCEL mentési formátumba. Java Kombinálja a XLSM-et EXCEL formátumba. A XLSM egyesítése az EXCEL-lel a Java-ben. XLSM Egyesítés.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge XLSM to EXCEL in Java., Free Online Java Merge XLSM to excel., Java Combine XLSM to EXCEL Online for Free., XLSM Merge]
+description: Aspose Excel. Java Aspose.Cells. A XLSM egyesítése EXCEL mentési formátumba. Java Kombinálja a XLSM-et EXCEL formátumba. A XLSM egyesítése az EXCEL-lel a Java-ben. XLSM Egyesítés.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge XLSM to EXCEL in Java., Java Merge XLSM to excel., Java Combine XLSM to EXCEL., XLSM Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="A XLSM egyesítése az EXCEL via Java számmal" h2="Nagy sebességű Java-es könyvtár a XLSM-es EXCEL-hez való egyesítéséhez. Használja a API-es excel-konverziónkat magas szintű, platformfüggetlen szoftverek fejlesztéséhez a Java-ben. Ez egy professzionális szoftvermegoldás a Excel, CSV, OpenOffice, PDF, HTML, image és sok más excel formátum importálásához és exportálásához." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="XLSM" additionalConversionTag="EXCEL" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Merge XLSM to EXCEL in Java., Free
 
 {{% blocks/products/pf/agp/content h2="A XLSM egyesítése az EXCEL-lel a Java használatával" %}}
 
- Hogyan egyesíthetem a XLSM-es számot az EXCEL-lel? A Aspose.Cells for Java könyvtárral egyszerűen egyesítheti a XLSM-et az EXCEL-lel, néhány soros kóddal.[Aspose.Cells for Java](https://products.aspose.com/cells/java) képes többplatformos alkalmazásokat létrehozni, módosítani, konvertálni, renderelni és kinyomtatni az összes Excel fájlt. Java Excel API nem csak a táblázatformátumok között konvertál, hanem Excel fájlokat is képes megjeleníteni képként, PDF, HTML, ODS, CSV, CSV, CSV, CSV, CSV, CSV, SVG, és így tovább, SVG P, 8 PT a választás,3,8 ipari szabvány szerinti dokumentumok cseréjére formátumok. A legújabb verziót közvetlenül a webhelyről töltheti le[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) és telepítse a Maven alapú projekten belül a következő konfigurációk hozzáadásával a pom.xml fájlhoz.
+ Hogyan egyesíthetem a XLSM-es számot az EXCEL-lel? A Aspose.Cells for Java könyvtárral egyszerűen egyesítheti a XLSM-et az EXCEL-lel, néhány soros kóddal.[Aspose.Cells for Java](https://products.aspose.com/cells/java)képes többplatformos alkalmazásokat létrehozni, módosítani, konvertálni, renderelni és kinyomtatni az összes Excel fájlt. Java Az Excel API nemcsak a táblázatformátumok között konvertál, hanem Excel-fájlokat is képes megjeleníteni képként, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT és egyebekként, így tökéletes választás a szabványos formátumú dokumentumok cseréjéhez. A legújabb verziót közvetlenül a webhelyről töltheti le[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) és telepítse a Maven alapú projekten belül a következő konfigurációk hozzáadásával a pom.xml fájlhoz.
 
 {{% blocks/products/pf/agp/code-block title="Adattár" offSpacer="true" %}}
 
@@ -45,7 +45,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Merge XLSM to EXCEL in Java., Free
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Csatlakoztassa a XLSM-et az EXCEL-hez a Java-es online ingyen" %}}
+{{% blocks/products/pf/agp/content h2="A XLSM egyesítése az EXCEL-lel a Java-ben" %}}
 
 következő példa bemutatja, hogyan lehet egyesíteni a XLSM-et az EXCEL-lel a Aspose.Cells for Java-ben.
 {{% blocks/products/pf/agp/text %}}
@@ -56,7 +56,7 @@ Kövesse az egyszerű lépéseket a XLSM EXCEL-lel való egyesítéséhez. Tölt
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Ingyenes online összevonás a XLSM-es EXCEL-lel a Java-ben" InputFormat="xlsm" InputFormat2="xlsx" outformat="xlsx" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="java" %}}
+{{% cells-merger title="Mintakód a XLSM egyesítéséhez az EXCEL-hez a Java-ben" InputFormat="xlsm" InputFormat2="xlsx" outformat="xlsx" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="A XLSM és az EXCEL via Java egyesítése" %}}
 
@@ -131,8 +131,8 @@ API-jaink minden nagyobb platformon és operációs rendszeren támogatottak. Mi
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xlsm-to-xlt/" name="XLSM és a XLT számok egyesítése" description="Microsoft Excel-sablon" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xlsm-to-xltm/" name="XLSM és a XLTM számok egyesítése" description="Excel-makró-kompatibilis sablon" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xlsm-to-xltx/" name="XLSM és a XLTX számok egyesítése" description="Office OpenXML Excel sablon" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xlsm-to-xml/" name="A XLSM egyesítése XML-be" description="Bővíthető jelölőnyelv" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xlsm-to-xps/" name="XLSM és a XPS számok egyesítése" description="XML papírspecifikációk" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xlsm-to-xml/" name="Egyesítse a XLSM-et XML-be" description="Bővíthető jelölőnyelv" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xlsm-to-xps/" name="XLSM és a XPS számok egyesítése" description="XML papír specifikációk" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xlsm-to-json/" name="XLSM és a JSON számok egyesítése" description="JavaScript objektum jelölés" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xlsm-to-jpeg/" name="XLSM és a JPEG számok egyesítése" description="JPEG Kép" >}}
 

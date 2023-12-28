@@ -1,7 +1,8 @@
 ---
-title:  Távolítsa el a ODS A via Java megjegyzést
+title:  ODS Megjegyzés hozzáadása vagy eltávolítása via Java
 weight: 8840
 description: Java mintakód a ODS formátumú megjegyzések törléséhez a Java futásidejű környezet JSP/JSF alkalmazásokhoz és asztali alkalmazásokhoz.
+keywords: [Java Aspose.Cells., add ods annotation., insert ods annotation., access ods annotation., remove ods annotation., delete ods annotation., add annotation in ods., insert annotation in ods., access annotation in ods., remove annotation in ods., delete annotation in ods]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Megjegyzés hozzáadása vagy törlése innen: ODS via Java" h2="Készítse el saját Java-es alkalmazásait a dokumentumfájlok megjegyzéseinek és szerzőinek manipulálásához szerveroldali API-k segítségével." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="ODS" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="" fileiconsmall1="PPTX" fileiconsmall2="DOCX" fileiconsmall3="XLSX" fileiconsmall4="PDF" fileiconsmall5=" ODP " >}}

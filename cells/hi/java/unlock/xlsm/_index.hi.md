@@ -2,6 +2,7 @@
 title:  अनलॉक XLSM दस्तावेज़ via Java
 weight: 7700
 description: जेएसपी/जेएसएफ एप्लिकेशन और डेस्कटॉप एप्लिकेशन के लिए Java रनटाइम एनवायरनमेंट पर पासवर्ड संरक्षित XLSM फ़ाइल को अनलॉक करने के लिए Java नमूना कोड।
+keywords: [Java Aspose.Cells., Java unlock XLSM files., Java how to unlock XLSM document., Java unprotect XLSM files., remove protection from XLSM files., decrypt XLSM Files using Java]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="अनलॉक XLSM फ़ाइलें via Java" h2="Java लाइब्रेरी का उपयोग करके XLSM फ़ाइल सहित एक्सेल स्प्रेडशीट से सुरक्षा हटाएँ।" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSM" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSM" >}}
@@ -73,7 +74,7 @@ description: जेएसपी/जेएसएफ एप्लिकेशन �
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="C# के माध्यम से XLSM फ़ाइलें अनलॉक करें" offSpacer="" %}}
+{{% blocks/products/pf/agp/code-block title="अनलॉक XLSM फ़ाइलें via Java" offSpacer="" %}}
 
 ```cs
 

@@ -1,7 +1,8 @@
 ---
-title:  Távolítsa el a XLSM A via Java megjegyzést
+title:  XLSM Megjegyzés hozzáadása vagy eltávolítása via Java
 weight: 2860
 description: Java mintakód a XLSM formátumú megjegyzések törléséhez a Java futásidejű környezet JSP/JSF alkalmazásokhoz és asztali alkalmazásokhoz.
+keywords: [Java Aspose.Cells., add xlsm annotation., insert xlsm annotation., access xlsm annotation., remove xlsm annotation., delete xlsm annotation., add annotation in xlsm., insert annotation in xlsm., access annotation in xlsm., remove annotation in xlsm., delete annotation in xlsm]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Megjegyzés hozzáadása vagy törlése innen: XLSM via Java" h2="Készítse el saját Java-es alkalmazásait a dokumentumfájlok megjegyzéseinek és szerzőinek manipulálásához szerveroldali API-k segítségével." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSM" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="" fileiconsmall1="PPTX" fileiconsmall2="DOCX" fileiconsmall3="XLSX" fileiconsmall4="PDF" fileiconsmall5=" ODP " >}}

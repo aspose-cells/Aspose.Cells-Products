@@ -1,8 +1,8 @@
 ---
-title: C# Repair ods File – Javítási ods fájl online ingyen
+title: C# Javítás ods – A sérült ods fájl helyreállítása és javítása
 url: /hu/net/recovery/repair-ods/ 
-description: Aspose Excel. C# Aspose.Cells. C# Javítási ods fájl. Ingyenes online ods-javító eszköz. Javítsa meg a sérült ods fájlt. Helyezze vissza a sérült ods-fájlt a .NET alkalmazáson belül.
-keywords: [Aspose Excel., C# Aspose.Cells., C# Aspose Cells., C# Repair ods file., Free Online Repair a corrupted ods file., C# Recover ods file.]
+description: C# Aspose.Cells. Javítási lehetőségek. Fix ods fájl. ods helyreállítási eszköz. ods korrupció. Az ods adatok visszaállítása. ods fájl helyreállítása. A sérült ods fájl helyreállítása.
+keywords: [C# Aspose.Cells., repair ods file., ods repair., recover corrupted ods file., repair corrupted ods., recover ods., fix ods file., ods corruption., restore ods data., ods file recovery., recover corrupted ods file.]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Javítás ODS fájl a C#-ben" h2="Készítse el saját .NET alkalmazását az ods fájlok javításához a .NET használatával." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="ODS" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="XLS" fileiconsmall2="XLSB" fileiconsmall3="XLSX" fileiconsmall4="XLSM" fileiconsmall5="ODS" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., C# Aspose.Cells., C# Aspose Cells., C# Repair ods file
 
 {{% blocks/products/pf/agp/content h2="Javítás ODS fájl a C# használatával" %}}
 
- Hogyan javíthatom ki az ods fájlt? A Aspose.Cells for .NET könyvtárral könnyedén kijavíthatja a ODS fájlt néhány soros kóddal, programozottan.[Aspose.Cells for .NET](https://products.aspose.com/cells/net)képes többplatformos alkalmazásokat létrehozni, módosítani, konvertálni, renderelni és kinyomtatni az összes Excel fájlt. .NET Excel API nem csak a táblázatformátumok között konvertál, hanem Excel fájlokat is képes megjeleníteni képként, PDF, HTML, ODS, CSV, CSV, CSV, CSV, CSV, CSV, SVG, és így tovább, SVG P, 8 PT a választás,3,8 ipari szabvány szerinti dokumentumok cseréjére formátumok. Nyisd ki[NuGet](https://www.nuget.org/packages/aspose.cells) csomagkezelő, keresse meg a Aspose.Cells-et, és telepítse. A következő parancsot is használhatja a Package Manager konzolból.
+ Hogyan javíthatom ki az ods fájlt? A Aspose.Cells for .NET könyvtárral könnyedén kijavíthatja a ODS fájlt néhány soros kóddal, programozottan.[Aspose.Cells for .NET](https://products.aspose.com/cells/net)képes többplatformos alkalmazásokat létrehozni, módosítani, konvertálni, renderelni és kinyomtatni az összes Excel fájlt. .NET Az Excel API nemcsak a táblázatformátumok között konvertál, hanem Excel-fájlokat is képes megjeleníteni képként, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT és egyebekként, így tökéletes választás a szabványos formátumú dokumentumok cseréjéhez. Nyisd ki[NuGet](https://www.nuget.org/packages/aspose.cells) csomagkezelő, keresse meg a Aspose.Cells-et, és telepítse. A következő parancsot is használhatja a Package Manager konzolból.
 
 {{% blocks/products/pf/agp/code-block title="Csomagkezelő konzolparancs" offSpacer="true" %}}
 
@@ -41,7 +41,7 @@ Programozottan kell javítania az ods fájlt? A .NET fejlesztők könnyedén bet
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-recovery title="Ingyenes alkalmazás és mintakód a ODS fájl online javításához" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et" InputFormat="ods" outformat="ods" IsLandingPage="true" language="net" %}}    
+{{% cells-recovery title="Mintakód a ODS fájl javításához" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et" InputFormat="ods" outformat="ods" IsLandingPage="true" language="net" %}}    
     
 {{% blocks/products/pf/agp/content h2=".NET könyvtár a ODS fájl javításához" %}}
 

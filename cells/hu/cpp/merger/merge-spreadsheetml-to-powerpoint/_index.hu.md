@@ -1,8 +1,8 @@
 ---
 title: A SPREADSHEETML egyesítése a POWERPOINT-tal – A SPREADSHEETML egyesítése a POWERPOINT-tal a C++-ben
 url: /hu/cpp/merger/merge-spreadsheetml-to-powerpoint/ 
-description: Aspose Excel. C++ Aspose.Cells. Ingyenes online egyesítése SPREADSHEETML POWERPOINT mentési formátumba. C++ A SPREADSHEETML egyesítése POWERPOINT formátummal. A SPREADSHEETML egyesítése a POWERPOINT-tal a C++-ben. SPREADSHEETML egyesítése.
-keywords: [Aspose Excel., C++ Aspose.Cells., Merge SPREADSHEETML to POWERPOINT in C++., Free Online C++ Merge SPREADSHEETML to powerpoint., C++ Combine SPREADSHEETML to POWERPOINT Online for Free., SPREADSHEETML Merge]
+description: Aspose Excel. C++ Aspose.Cells. A SPREADSHEETML egyesítése POWERPOINT mentési formátumba. C++ A SPREADSHEETML egyesítése POWERPOINT formátummal. A SPREADSHEETML egyesítése a POWERPOINT-tal a C++-ben. SPREADSHEETML egyesítése.
+keywords: [Aspose Excel., C++ Aspose.Cells., Merge SPREADSHEETML to POWERPOINT in C++., C++ Merge SPREADSHEETML to powerpoint., C++ Combine SPREADSHEETML to POWERPOINT., SPREADSHEETML Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="A SPREADSHEETML egyesítése a POWERPOINT-tal a C++ számon keresztül" h2="Nagy sebességű C++ könyvtár a SPREADSHEETML és a POWERPOINT egyesítéséhez. Használja a API-es excel-konverziónkat magas szintű, platformfüggetlen szoftverek fejlesztéséhez a C++-ben. Ez egy professzionális szoftvermegoldás a Excel, CSV, OpenOffice, PDF, HTML, image és sok más excel formátum importálásához és exportálásához." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" sourceAdditionalConversionTag="SPREADSHEETML" additionalConversionTag="POWERPOINT" pfName="Aspose.Cells" subTitlepfName="for C++" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., C++ Aspose.Cells., Merge SPREADSHEETML to POWERPOINT i
 
 {{% blocks/products/pf/agp/content h2="A SPREADSHEETML egyesítése a POWERPOINT-tal a C++ használatával" %}}
 
- Hogyan egyesíthetem a SPREADSHEETML-t a POWERPOINT-tal? A Aspose.Cells for C++ könyvtárral egyszerűen egyesítheti a SPREADSHEETML-t a POWERPOINT-tal néhány soros kóddal, programozottan.[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) képes többplatformos alkalmazásokat létrehozni, módosítani, konvertálni, renderelni és kinyomtatni az összes Excel fájlt. C++ Excel API nem csak a táblázatformátumok között konvertál, hanem Excel fájlokat is képes megjeleníteni képként, PDF, HTML, ODS, CSV, CSV, CSV, CSV, CSV, CSV, SVG, és így tovább, SVG P, 8 PT a választás,3,8 ipari szabvány szerinti dokumentumok cseréjére formátumok. A legújabb verziót közvetlenül letöltheti, csak nyissa meg[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) csomagkezelő, keresse meg a Aspose.Cells.Cpp címet, és telepítse. A következő parancsot is használhatja a Package Manager konzolból.
+ Hogyan egyesíthetem a SPREADSHEETML-t a POWERPOINT-tal? A Aspose.Cells for C++ könyvtárral egyszerűen egyesítheti a SPREADSHEETML-t a POWERPOINT-tal néhány soros kóddal, programozottan.[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) képes többplatformos alkalmazásokat létrehozni, módosítani, konvertálni, renderelni és kinyomtatni az összes Excel fájlt. C++ Az Excel API nemcsak a táblázatformátumok között konvertál, hanem Excel-fájlokat is képes megjeleníteni képként, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT és egyebekként, így tökéletes választás a szabványos formátumú dokumentumok cseréjéhez. A legújabb verziót közvetlenül letöltheti, csak nyissa meg[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) csomagkezelő, keresse meg a Aspose.Cells.Cpp címet, és telepítse. A következő parancsot is használhatja a Package Manager konzolból.
 
 {{% blocks/products/pf/agp/code-block title="Parancs" offSpacer="true" %}}
 
@@ -26,7 +26,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Csatlakoztassa a SPREADSHEETML-t a POWERPOINT-hoz a C++-es online ingyen" %}}
+{{% blocks/products/pf/agp/content h2="A SPREADSHEETML egyesítése a C++-es számú POWERPOINT-tal" %}}
 
 A következő példa bemutatja, hogyan lehet egyesíteni a SPREADSHEETML-t a POWERPOINT-tal a Aspose.Cells for C++ számon.
 {{% blocks/products/pf/agp/text %}}
@@ -37,7 +37,7 @@ Kövesse az egyszerű lépéseket a SPREADSHEETML és a POWERPOINT egyesítésé
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Ingyenes online a SPREADSHEETML és a POWERPOINT egyesítése a C++-ben" InputFormat="xml" InputFormat2="pptx" outformat="pptx" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="cpp" %}}
+{{% cells-merger title="Mintakód a SPREADSHEETML és a POWERPOINT egyesítéséhez a C++-ben" InputFormat="xml" InputFormat2="pptx" outformat="pptx" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="cpp" %}}
 
 {{% blocks/products/pf/agp/content h2="A SPREADSHEETML egyesítése a POWERPOINT-hoz a C++ számon keresztül" %}}
 
@@ -107,7 +107,6 @@ API-jaink minden nagyobb platformon és operációs rendszeren támogatottak. Mi
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-spreadsheetml-to-pdf/" name="A SPREADSHEETML egyesítése a PDF-gyel" description="Hordozható dokumentum formátum" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-spreadsheetml-to-png/" name="A SPREADSHEETML egyesítése a PNG-gyel" description="Hordozható hálózati grafika" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-spreadsheetml-to-svg/" name="A SPREADSHEETML egyesítése a SVG-gyel" description="Skálázható vektorgrafika" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-spreadsheetml-to-tiff/" name="A SPREADSHEETML egyesítése a TIFF-gyel" description="Címkézett képformátum" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-spreadsheetml-to-tsv/" name="A SPREADSHEETML egyesítése a TSV-gyel" description="Tabulátorral elválasztott értékek" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-spreadsheetml-to-txt/" name="A SPREADSHEETML egyesítése a TXT-gyel" description="Szöveges dokumentum" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-spreadsheetml-to-xls/" name="A SPREADSHEETML egyesítése a XLS-gyel" description="Excel bináris formátum" >}}
@@ -118,7 +117,7 @@ API-jaink minden nagyobb platformon és operációs rendszeren támogatottak. Mi
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-spreadsheetml-to-xltm/" name="A SPREADSHEETML egyesítése a XLTM-gyel" description="Excel-makró-kompatibilis sablon" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-spreadsheetml-to-xltx/" name="A SPREADSHEETML egyesítése a XLTX-gyel" description="Office OpenXML Excel sablon" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-spreadsheetml-to-xml/" name="A SPREADSHEETML egyesítése XML-lel" description="Bővíthető jelölőnyelv" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-spreadsheetml-to-xps/" name="A SPREADSHEETML egyesítése a XPS-gyel" description="XML papírspecifikációk" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-spreadsheetml-to-xps/" name="A SPREADSHEETML egyesítése a XPS-gyel" description="XML papír specifikációk" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-spreadsheetml-to-json/" name="A SPREADSHEETML egyesítése a JSON-gyel" description="JavaScript objektum jelölés" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-spreadsheetml-to-jpeg/" name="A SPREADSHEETML egyesítése a JPEG-gyel" description="JPEG Kép" >}}
 

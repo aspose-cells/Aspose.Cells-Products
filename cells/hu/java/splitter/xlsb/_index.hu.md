@@ -2,6 +2,7 @@
 title:  Felosztott XLSB Fájlok via Java
 weight: 7880
 description: Java mintakód a XLSB dokumentumok felosztásához a Java futásidejű környezet JSP/JSF alkalmazásokhoz és asztali alkalmazásokhoz.
+keywords: [Java Aspose.Cells., Java split xlsb files., Java how to split xlsb files into multiple files., Java xlsb splitter., Java split Cell., Cell splitter using Java]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Felosztott XLSB Fájlok via Java" h2="XLSB felosztás a szerveroldali Java könyvtár segítségével." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="XLSB" >}}
@@ -62,7 +63,7 @@ description: Java mintakód a XLSB dokumentumok felosztásához a Java futáside
 + Töltsön be XLSB fájlt a Workbook osztály segítségével.
 + Ismételje meg az egyes lapokat
 + Új munkafüzet osztály objektum létrehozása
-+ Másolja a kiválasztott lapot új objektumra
+Másolja a kiválasztott lapot új objektumra
 + Hívja meg a mentési módszert az új XLSB fájlútvonallal.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
@@ -119,7 +120,7 @@ description: Java mintakód a XLSB dokumentumok felosztásához a Java futáside
 
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="Egyéb támogatott felosztási formátumok" subTitle="Java használatával nagy fájlokat is fel lehet osztani sok más fájlformátum darabjaira, beleértve." >}}
+{{< blocks/products/pf/agp/other-supported-section title="Egyéb támogatott felosztási formátumok" subTitle="A Java használatával nagy fájlokat is fel lehet osztani sok más fájlformátum darabjaira, beleértve." >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/splitter/ods/" name="ODS" description="OpenDocument táblázatfájl" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/splitter/xls/" name="XLS" description="Excel bináris formátum" >}}

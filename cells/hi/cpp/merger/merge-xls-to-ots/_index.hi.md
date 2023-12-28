@@ -1,8 +1,8 @@
 ---
 title: XLS को ओटीएस में मिलाएं - XLS को C++ में ओटीएस में मिलाएं
 url: /hi/cpp/merger/merge-xls-to-ots/ 
-description: "Aspose एक्सेल। C++ Aspose.Cells। नि:शुल्क ऑनलाइन XLS को ओटीएस सेवफॉर्मेट में मर्ज करें। C++ XLS को ओटीएस प्रारूप में संयोजित करें। XLS को C++ में ओटीएस में मर्ज करें। XLS मर्ज करें।"
-keywords: [Aspose Excel., C++ Aspose.Cells., Merge XLS to OTS in C++., Free Online C++ Merge XLS to ots., C++ Combine XLS to OTS Online for Free., XLS Merge]
+description: Aspose एक्सेल। C++ Aspose.Cells. XLS को ओटीएस सेवफॉर्मेट में मर्ज करें। C++ XLS को ओटीएस प्रारूप में संयोजित करें। XLS को C++ में ओटीएस में मर्ज करें। XLS मर्ज करें।
+keywords: [Aspose Excel., C++ Aspose.Cells., Merge XLS to OTS in C++., C++ Merge XLS to ots., C++ Combine XLS to OTS., XLS Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="XLS को C++ के माध्यम से ओटीएस में मर्ज करें" h2="XLS को ओटीएस में विलय के लिए हाई-स्पीड C++ लाइब्रेरी। C++ में उच्च-स्तरीय, प्लेटफ़ॉर्म स्वतंत्र सॉफ़्टवेयर विकसित करने के लिए हमारे एक्सेल रूपांतरण API का उपयोग करें। यह Excel, CSV, OpenOffice, PDF, HTML, image और कई अन्य एक्सेल प्रारूपों को आयात और निर्यात करने के लिए एक पेशेवर सॉफ़्टवेयर समाधान है।" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" sourceAdditionalConversionTag="XLS" additionalConversionTag="OTS" pfName="Aspose.Cells" subTitlepfName="for C++" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., C++ Aspose.Cells., Merge XLS to OTS in C++., Free Onli
 
 {{% blocks/products/pf/agp/content h2="C++ का उपयोग करके XLS को ओटीएस में मर्ज करें" %}}
 
- मैं XLS को ओटीएस में कैसे मर्ज करूं? Aspose.Cells for C++ लाइब्रेरी के साथ, आप कोड की कुछ पंक्तियों के साथ XLS को प्रोग्रामेटिक रूप से ओटीएस में आसानी से मर्ज कर सकते हैं।[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) सभी एक्सेल फ़ाइलों को उत्पन्न करने, संशोधित करने, परिवर्तित करने, प्रस्तुत करने और प्रिंट करने की क्षमता के साथ क्रॉस-प्लेटफ़ॉर्म एप्लिकेशन बनाने में सक्षम है। C++ एक्सेल API न केवल स्प्रेडशीट प्रारूपों के बीच कनवर्ट कर सकता है, यह एक्सेल फाइलों को छवियों, PDF, HTML, ODS, CSV, SVG, JSON, वर्ड, पीपीटी और भी बहुत कुछ के रूप में प्रस्तुत कर सकता है, इस प्रकार यह एक्सचेंज के लिए एक आदर्श विकल्प बन जाता है। उद्योग-मानक में दस्तावेज़ प्रारूप. आप इसका नवीनतम संस्करण सीधे डाउनलोड कर सकते हैं, बस खोलें[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) पैकेज मैनेजर, Aspose.Cells.सीपीपी खोजें और इंस्टॉल करें। आप पैकेज मैनेजर कंसोल से निम्न कमांड का भी उपयोग कर सकते हैं।
+ मैं XLS को ओटीएस में कैसे मर्ज करूं? Aspose.Cells for C++ लाइब्रेरी के साथ, आप कोड की कुछ पंक्तियों के साथ XLS को प्रोग्रामेटिक रूप से ओटीएस में आसानी से मर्ज कर सकते हैं।[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) सभी एक्सेल फ़ाइलों को उत्पन्न करने, संशोधित करने, परिवर्तित करने, प्रस्तुत करने और प्रिंट करने की क्षमता के साथ क्रॉस-प्लेटफ़ॉर्म एप्लिकेशन बनाने में सक्षम है। C++ एक्सेल API न केवल स्प्रेडशीट प्रारूपों के बीच परिवर्तित होता है, बल्कि यह एक्सेल फाइलों को छवियों, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT और अधिक के रूप में भी प्रस्तुत कर सकता है, इस प्रकार यह उद्योग-मानक प्रारूपों में दस्तावेजों का आदान-प्रदान करने के लिए एक आदर्श विकल्प बन जाता है। आप इसका नवीनतम संस्करण सीधे डाउनलोड कर सकते हैं, बस खोलें[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) पैकेज मैनेजर, Aspose.Cells.सीपीपी खोजें और इंस्टॉल करें। आप पैकेज मैनेजर कंसोल से निम्न कमांड का भी उपयोग कर सकते हैं।
 
 {{% blocks/products/pf/agp/code-block title="आज्ञा" offSpacer="true" %}}
 
@@ -26,7 +26,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="XLS को C++ में ओटीएस में निःशुल्क ऑनलाइन मर्ज करें" %}}
+{{% blocks/products/pf/agp/content h2="XLS को C++ में ओटीएस में मर्ज करें" %}}
 
 निम्नलिखित उदाहरण दर्शाता है कि XLS को Aspose.Cells for C++ में ओटीएस में कैसे मर्ज किया जाए।
 {{% blocks/products/pf/agp/text %}}
@@ -37,13 +37,13 @@ XLS को ओटीएस में मर्ज करने के लिए 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="XLS को C++ में ओटीएस में मर्ज करने के लिए निःशुल्क ऑनलाइन" InputFormat="xls" InputFormat2="ots" outformat="ots" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="cpp" %}}
+{{% cells-merger title="XLS को C++ में ओटीएस में मर्ज करने के लिए नमूना कोड" InputFormat="xls" InputFormat2="ots" outformat="ots" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="cpp" %}}
 
 {{% blocks/products/pf/agp/content h2="XLS को C++ के माध्यम से ओटीएस में कैसे मर्ज करें" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
-XLS को प्रोग्रामेटिक रूप से ओटीएस में मर्ज करने की आवश्यकता है? एक बुनियादी दस्तावेज़ जिसका विलय और संयोजन हो रहा है[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) एपीआई को कोड की कुछ पंक्तियों के साथ किया जा सकता है।
+ XLS को प्रोग्रामेटिक रूप से ओटीएस में मर्ज करने की आवश्यकता है? एक बुनियादी दस्तावेज़ जिसका विलय और संयोजन हो रहा है[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) एपीआई को कोड की कुछ पंक्तियों के साथ किया जा सकता है।
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -107,7 +107,6 @@ XLS को प्रोग्रामेटिक रूप से ओटीए
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xls-to-pdf/" name="XLS को PDF में मर्ज करें" description="संवहन दस्तावेज़ स्वरूप" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xls-to-png/" name="XLS को PNG में मर्ज करें" description="पोर्टेबल नेटवर्क ग्राफ़िक्स" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xls-to-svg/" name="XLS को SVG में मर्ज करें" description="स्केलेबल वेक्टर ग्राफिक्स" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xls-to-tiff/" name="XLS को TIFF में मर्ज करें" description="टैग किया गया छवि प्रारूप" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xls-to-tsv/" name="XLS को TSV में मर्ज करें" description="टैब-पृथक मान" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xls-to-txt/" name="XLS को TXT में मर्ज करें" description="सामग्री या लेख दस्तावेज़" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xls-to-xls/" name="XLS को XLS में मर्ज करें" description="एक्सेल बाइनरी फॉर्मेट" >}}

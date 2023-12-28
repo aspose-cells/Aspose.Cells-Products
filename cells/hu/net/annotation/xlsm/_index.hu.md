@@ -1,7 +1,8 @@
 ---
-title:  Távolítsa el a XLSM A via .NET megjegyzést
+title:  XLSM Megjegyzés hozzáadása vagy eltávolítása via .NET
 weight: 9890
 description: C# forráskód a XLSM formátumú megjegyzések hozzáadásához és törléséhez a .NET Framework, .NET Core, Mono vagy Xamarin platformokon.
+keywords: [C# Aspose.Cells., add xlsm annotation., insert xlsm annotation., access xlsm annotation., remove xlsm annotation., delete xlsm annotation., add annotation in xlsm., insert annotation in xlsm., access annotation in xlsm., remove annotation in xlsm., delete annotation in xlsm]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Megjegyzés hozzáadása vagy törlése a XLSM-es számról a C#-en keresztül" h2="Készítse el saját .NET-es alkalmazásait a dokumentumfájlok megjegyzéseinek és szerzőinek manipulálásához szerveroldali API-k segítségével." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSM" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="PPTX" fileiconsmall2="DOCX" fileiconsmall3="XLSX" fileiconsmall4="PDF" fileiconsmall5=" ODP " >}}

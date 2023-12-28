@@ -1,7 +1,8 @@
 ---
 title:  Szúrjon be/hozzon létre folyamatábrát az Excel via .NET programba
 weight: 371
-description: C# forráskód egy folyamatábra beszúrásához/létrehozásához Excelbe a .NET Framework, .NET Core, Mono vagy Xamarin platformokon.
+description: C# Mintakód a folyamatábra Excelbe való hozzáadásához vagy beszúrásához a .NET könyvtár használatával. Ezzel a kóddal folyamatábrát hozhat létre MS Excelben a VB.NET, Asp.NET vagy bármely .NET alapú alkalmazáson belül.
+keywords: [C# Aspose.Cells., c# add FlowChart., c# insert FlowChart., c# create FlowChart]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Szúrjon be/hozzon létre folyamatábrát az Excel via .NET programba" h2="Folyamatábra beszúrása / létrehozása a Aspose.Cells\' API használatával szoftver nélkül, például Microsoft vagy Open Office, Adobe PDF stb." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="XLSX" >}}
@@ -41,7 +42,7 @@ Szüksége van az aspose.cells.dll fájlra a következő munkafolyamat kipróbá
 
 {{% /blocks/products/pf/agp/text %}}
 
-Munkafüzet objektum példányosítása. (vagy->Töltse be a XLSX fájlt a teljes elérési úttal.)
++ Munkafüzet objektum példányosítása. (vagy->Töltse be a XLSX fájlt a teljes elérési úttal.)
 + Válassza ki a munkalapot az indexén keresztül.
  + Használja a[módszer hozzáadása](https://reference.aspose.com/cells/net/aspose.cells.drawing/shapecollection/addautoshape) folyamatábra beszúrásához/létrehozásához a kiválasztott munkalapon
 + Mentse a munkafüzetet XLSX formátumban.
@@ -105,13 +106,13 @@ Az alábbi mintakód bemutatja, hogyan kell beszúrni egy „többdokumentumot�
    <div class="col-lg-4">
     <img src="/cells/net/shapes/insert-flowchart-to-excel/predefined_process.png" align="left" width="28" height="28">
     <p class="col-lg-12">
-AutoShapeType.FlowChartPredefinedProcess
+ AutoShapeType.FlowChartPredefinedProcess
     </p>
    </div>
    <div class="col-lg-4">
     <img src="/cells/net/shapes/insert-flowchart-to-excel/internal_storage.png" align="left" width="28" height="28">
     <p class="col-lg-12">
- AutoShapeType.FlowChartInternalStorage
+AutoShapeType.FlowChartInternalStorage
     </p>
    </div>
    <div class="col-lg-4">
@@ -237,13 +238,13 @@ AutoShapeType.FlowChartPredefinedProcess
    <div class="col-lg-4">
     <img src="/cells/net/shapes/insert-flowchart-to-excel/direct_access_storage.png" align="left" width="28" height="28">
     <p class="col-lg-12">
-AutoShapeType.FlowChartDirectAccessStorage
+ AutoShapeType.FlowChartDirectAccessStorage
     </p>
    </div>
    <div class="col-lg-4">
     <img src="/cells/net/shapes/insert-flowchart-to-excel/display.png" align="left" width="28" height="28">
     <p class="col-lg-12">
- AutoShapeType.FlowChartDisplay
+AutoShapeType.FlowChartDisplay
     </p>
    </div>
   </div>
@@ -259,7 +260,7 @@ AutoShapeType.FlowChartDirectAccessStorage
 
 {{% blocks/products/pf/agp/content h2="Körülbelül Aspose.Cells for .NET API" %}}
 
- Aspose.Cells API használható Microsoft Excel formátumok létrehozására, szerkesztésére, konvertálására és renderelésére különböző formátumokba. Ezen túlmenően használható átfogó diagramok készítésére, skálázható jelentésekre és megbízható számításokra a szoftveralkalmazásokon belül. A Aspose.Cells egy önálló API, és nem igényel olyan szoftvert, mint a Microsoft vagy az OpenOffice.
+Aspose.Cells API használható Microsoft Excel formátumok létrehozására, szerkesztésére, konvertálására és renderelésére különböző formátumokba. Ezen túlmenően használható átfogó diagramok készítésére, skálázható jelentésekre és megbízható számításokra a szoftveralkalmazásokon belül. A Aspose.Cells egy önálló API, és nem igényel olyan szoftvert, mint a Microsoft vagy az OpenOffice.
 
 {{% /blocks/products/pf/agp/content %}}
 

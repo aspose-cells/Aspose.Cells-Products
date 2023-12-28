@@ -1,7 +1,7 @@
 ---
-title: Python HTM - OTS - Online HTM - OTS konverter
-description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Ingyenes online Python HTM konvertálása OTS mentési formátumba. Python HTM OTS formátumba. A HTM mentése az OTS Python számra.
-keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python HTM to OTS saveformat., Free Online HTM to OTS Python., Python Convert HTM to OTS]
+title: Python HTM - OTS - HTM - OTS konverter
+description: Aspose Excel. A HTM-et gyorsan és egyszerűen konvertálja OTS-re a Aspose.Cells. Python HTM-ből OTS-vé. Python HTM mentése az OTS-be. Mentse a HTM-et OTS-ként a Python használatával.
+keywords: [Aspose Excel., Python Aspose.Cells., Convert HTM to OTS in Python., Save HTM to OTS using Python., Python HTM to OTS saveformat., HTM to OTS Converter., Python Save HTM as OTS]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Konvertálja a HTM-et OTS-re a Python-ben" h2="Nagy sebességű Python könyvtár a HTM OTS-re konvertálásához. Ez egy professzionális szoftvermegoldás HTM, OTS és sok más formátum importálásához és exportálásához a Python számon." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="OTS" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,13 +12,13 @@ keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python HTM
 
 {{% blocks/products/pf/agp/content h2="Konvertálja a HTM-et OTS-re a Python használatával" %}}
 
- Hogyan konvertálhatom a HTM-et OTS-re? A Aspose.Cells for Python könyvtárral egyszerűen konvertálhatja a HTM-et OTS-re programozottan néhány sornyi kóddal.[Aspose.Cells for Python](https://pypi.org/project/aspose-cells)képes többplatformos alkalmazásokat létrehozni, módosítani, konvertálni, renderelni és kinyomtatni az összes Excel fájlt. Python Excel API nem csak a táblázatformátumok között konvertál, hanem Excel fájlokat is képes megjeleníteni képként, PDF, HTML, ODS, CSV, CSV, CSV, CSV, CSV, CSV, SVG, és így tovább, SVG P, 8 PT a választás,3,8 ipari szabvány szerinti dokumentumok cseréjére formátumok.
+ Hogyan konvertálhatom a HTM-et OTS-re? A Aspose.Cells for Python könyvtárral egyszerűen konvertálhatja a HTM-et OTS-re programozottan néhány sornyi kóddal.[Aspose.Cells for Python](https://pypi.org/project/aspose-cells)képes többplatformos alkalmazásokat létrehozni, módosítani, konvertálni, renderelni és kinyomtatni az összes Excel fájlt. Python Az Excel API nemcsak a táblázatformátumok között konvertál, hanem Excel-fájlokat is képes megjeleníteni képként, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT és egyebekként, így tökéletes választás a szabványos formátumú dokumentumok cseréjéhez.
  
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Mentse el a HTM-et az OTS-be a Python-es számon online ingyen" %}}
+{{% blocks/products/pf/agp/content h2="Mentse el a HTM-et az OTS-be a Python számon" %}}
 
-következő példa bemutatja, hogyan lehet a HTM-et OTS-re konvertálni a Python-ben.
+A következő példa bemutatja, hogyan lehet a HTM-et OTS-re konvertálni a Python-ben.
 {{% blocks/products/pf/agp/text %}}
 
 Kövesse az egyszerű lépéseket a HTM OTS-re konvertálásához. Töltse fel HTM-fájlját, majd egyszerűen mentse el OTS-fájlként. Mind a HTM-olvasáshoz, mind az OTS-íráshoz használhat teljesen minősített fájlneveket. A kimeneti OTS-tartalom és formázás megegyezik az eredeti HTM-dokumentummal.
@@ -27,7 +27,7 @@ Kövesse az egyszerű lépéseket a HTM OTS-re konvertálásához. Töltse fel H
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Ingyenes alkalmazás és mintakód a HTM OTS Online konvertálásához" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="htm" outformat="ots" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="Mintakód a HTM OTS-re konvertálásához" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="htm" outformat="ots" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="A HTM konvertálása OTS-re a Python számon keresztül" %}}
 
@@ -63,12 +63,12 @@ Három lehetőség közül választhat a „Aspose.Cells for Python via Java” 
 
 {{% blocks/products/pf/agp/text %}}
 
-Aspose.Cells for Python via Java platformfüggetlen API, és bármilyen platformon használható (Windows, Linux és MacOS), csak győződjön meg arról, hogy a rendszer Java 1.8 vagy újabb[Python](https://www.python.org/downloads/) 3,5 vagy magasabb.
+ Aspose.Cells for Python via Java platformfüggetlen API, és bármilyen platformon használható (Windows, Linux és MacOS), csak győződjön meg arról, hogy a rendszer Java 1.8 vagy újabb[Python](https://www.python.org/downloads/) 3,5 vagy magasabb.
  
 {{% /blocks/products/pf/agp/text %}}
 
 -  Telepítse a Java-et, és adja hozzá a PATH környezeti változóhoz, például:<code>PATH=C:\Program Files\Java\jdk1.8.0_131;</code>.
-- Telepítés: Aspose.Cells for Python innen<a href="https://pypi.org/project/aspose-cells/">pypi</a> , használja a parancsot a következőképpen:<code>$ pip install aspose-cells</code>.
+-  Telepítés: Aspose.Cells for Python innen<a href="https://pypi.org/project/aspose-cells/">pypi</a> , használja a parancsot a következőképpen:<code>$ pip install aspose-cells</code>.
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -102,7 +102,7 @@ Aspose.Cells for Python via Java platformfüggetlen API, és bármilyen platform
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/htm-to-xltm/" name="HTM: XLTM" description="Excel-makró-kompatibilis sablon" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/htm-to-xltx/" name="HTM: XLTX" description="Office OpenXML Excel sablon" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/htm-to-xml/" name="HTM-ből XML-be" description="Bővíthető jelölőnyelv" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/htm-to-xps/" name="HTM: XPS" description="XML papírspecifikációk" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/htm-to-xps/" name="HTM: XPS" description="XML papír specifikációk" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/htm-to-json/" name="HTM: JSON" description="JavaScript objektum jelölés" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}

@@ -1,7 +1,7 @@
 ---
-title: C++ स्प्रेडशीटएमएल से DIF - ऑनलाइन स्प्रेडशीटएमएल से DIF कन्वर्टर
-description: Aspose एक्सेल। C++ Aspose.Cells. C++ Aspose Cells. मुफ़्त ऑनलाइन C++ स्प्रेडशीटएमएल को DIF सेवफॉर्मेट में कनवर्ट करें। C++ स्प्रेडशीटएमएल से DIF प्रारूप। स्प्रेडशीटएमएल को DIF C++ पर सहेजें।
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ SPREADSHEETML to DIF saveformat., Free Online SPREADSHEETML to DIF C++., C++ Convert SPREADSHEETML to DIF]
+title: C++ स्प्रेडशीटएमएल से DIF - स्प्रेडशीटएमएल से DIF कनवर्टर
+description: Aspose एक्सेल। Aspose.Cells के साथ Aspose.Cells के साथ DIF को जल्दी और आसानी से कन्वर्ट करें।
+keywords: [Aspose Excel., C++ Aspose.Cells., Convert SPREADSHEETML to DIF in C++., Save SPREADSHEETML to DIF using C++., C++ SPREADSHEETML to DIF saveformat., SPREADSHEETML to DIF Converter., C++ Save SPREADSHEETML as DIF]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="C++ में स्प्रेडशीटएमएल को DIF में बदलें" h2="Microsoft एक्सेल, ओपनऑफिस या एडोब एक्रोबैट इंस्टॉलेशन की आवश्यकता के बिना C++ लाइब्रेरी का उपयोग करके DIF में उच्च प्रदर्शन स्प्रेडशीटएमएल रूपांतरण।" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" sourceAdditionalConversionTag="" additionalConversionTag="DIF" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ SPREADSHEETM
 
 {{% blocks/products/pf/agp/content h2="C++ का उपयोग करके स्प्रेडशीटएमएल को DIF में बदलें" %}}
 
- मैं स्प्रेडशीटएमएल को DIF में कैसे परिवर्तित करूं? Aspose.Cells for C++ लाइब्रेरी के साथ, आप कोड की कुछ पंक्तियों के साथ आसानी से स्प्रेडशीटएमएल को प्रोग्रामेटिक रूप से DIF में परिवर्तित कर सकते हैं।[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) सभी एक्सेल फ़ाइलों को उत्पन्न करने, संशोधित करने, परिवर्तित करने, प्रस्तुत करने और प्रिंट करने की क्षमता के साथ क्रॉस-प्लेटफ़ॉर्म एप्लिकेशन बनाने में सक्षम है। C++ एक्सेल API न केवल स्प्रेडशीट प्रारूपों के बीच कनवर्ट कर सकता है, यह एक्सेल फाइलों को छवियों, PDF, HTML, ODS, CSV, SVG, JSON, वर्ड, पीपीटी और भी बहुत कुछ के रूप में प्रस्तुत कर सकता है, इस प्रकार यह एक्सचेंज के लिए एक आदर्श विकल्प बन जाता है। उद्योग-मानक में दस्तावेज़ प्रारूप. आप इसका नवीनतम संस्करण सीधे डाउनलोड कर सकते हैं, बस खोलें[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) पैकेज मैनेजर, Aspose.Cells.सीपीपी खोजें और इंस्टॉल करें। आप पैकेज मैनेजर कंसोल से निम्न कमांड का भी उपयोग कर सकते हैं।
+ मैं स्प्रेडशीटएमएल को DIF में कैसे परिवर्तित करूं? Aspose.Cells for C++ लाइब्रेरी के साथ, आप कोड की कुछ पंक्तियों के साथ आसानी से स्प्रेडशीटएमएल को प्रोग्रामेटिक रूप से DIF में परिवर्तित कर सकते हैं।[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) सभी एक्सेल फ़ाइलों को उत्पन्न करने, संशोधित करने, परिवर्तित करने, प्रस्तुत करने और प्रिंट करने की क्षमता के साथ क्रॉस-प्लेटफ़ॉर्म एप्लिकेशन बनाने में सक्षम है। C++ एक्सेल API न केवल स्प्रेडशीट प्रारूपों के बीच परिवर्तित होता है, बल्कि यह एक्सेल फाइलों को छवियों, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT और अधिक के रूप में भी प्रस्तुत कर सकता है, इस प्रकार यह उद्योग-मानक प्रारूपों में दस्तावेजों का आदान-प्रदान करने के लिए एक आदर्श विकल्प बन जाता है। आप इसका नवीनतम संस्करण सीधे डाउनलोड कर सकते हैं, बस खोलें[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) पैकेज मैनेजर, Aspose.Cells.सीपीपी खोजें और इंस्टॉल करें। आप पैकेज मैनेजर कंसोल से निम्न कमांड का भी उपयोग कर सकते हैं।
 
 {{% blocks/products/pf/agp/code-block title="आज्ञा" offSpacer="true" %}}
 
@@ -26,7 +26,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="C++ में स्प्रेडशीटएमएल को DIF पर निःशुल्क ऑनलाइन सेव करें" %}}
+{{% blocks/products/pf/agp/content h2="C++ में स्प्रेडशीटएमएल को DIF पर सेव करें" %}}
 
 निम्नलिखित उदाहरण दर्शाता है कि SPREADSHEETML को C++ में DIF में कैसे परिवर्तित किया जाए।
 {{% blocks/products/pf/agp/text %}}
@@ -37,7 +37,7 @@ SPREADSHEETML को DIF में बदलने के लिए आसान
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="स्प्रेडशीटएमएल को DIF में ऑनलाइन कनवर्ट करने के लिए निःशुल्क ऐप और नमूना कोड" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xml" outformat="dif" IsLandingPage="true" language="cpp" %}}
+{{% cells-convert title="स्प्रेडशीटएमएल को DIF में बदलने के लिए नमूना कोड" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xml" outformat="dif" IsLandingPage="true" language="cpp" %}}
 
 {{% blocks/products/pf/agp/content h2="C++ के माध्यम से स्प्रेडशीटएमएल को DIF में कैसे परिवर्तित करें" %}}
 
@@ -49,7 +49,7 @@ SPREADSHEETML को DIF में बदलने के लिए आसान
 
 1.  'Aspose.Cells for C++' इंस्टॉल करें।
 1.  अपने C++ प्रोजेक्ट में एक लाइब्रेरी संदर्भ जोड़ें (लाइब्रेरी आयात करें)।
-1.  फ़ैक्टरी::CreateIWorkbook का उपयोग करके स्प्रेडशीटएमएल फ़ाइल लोड करें।
+1.  वर्कबुक का उपयोग करके स्प्रेडशीटएमएल फ़ाइल लोड करें।
 1.  Save() विधि को कॉल करके स्प्रेडशीटएमएल को DIF में कनवर्ट करें।
 1.  स्प्रेडशीटएमएल का रूपांतरण परिणाम DIF पर प्राप्त करें।
 
@@ -101,7 +101,6 @@ SPREADSHEETML को DIF में बदलने के लिए आसान
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/spreadsheetml-to-pdf/" name="स्प्रेडशीटएमएल PDF पर" description="संवहन दस्तावेज़ स्वरूप" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/spreadsheetml-to-png/" name="स्प्रेडशीटएमएल PNG पर" description="पोर्टेबल नेटवर्क ग्राफ़िक्स" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/spreadsheetml-to-svg/" name="स्प्रेडशीटएमएल SVG पर" description="स्केलेबल वेक्टर ग्राफिक्स" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/spreadsheetml-to-tiff/" name="स्प्रेडशीटएमएल TIFF पर" description="टैग किया गया छवि प्रारूप" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/spreadsheetml-to-tsv/" name="स्प्रेडशीटएमएल TSV पर" description="टैब-पृथक मान" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/spreadsheetml-to-txt/" name="स्प्रेडशीटएमएल TXT पर" description="सामग्री या लेख दस्तावेज़" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/spreadsheetml-to-xls/" name="स्प्रेडशीटएमएल XLS पर" description="एक्सेल बाइनरी फॉर्मेट" >}}

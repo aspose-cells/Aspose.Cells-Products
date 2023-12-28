@@ -1,7 +1,7 @@
 ---
 title: SQL létrehozása – SQL-fájl létrehozása a Python-ben
-description: Aspose Excel. Python SQL fájl létrehozása. SQL létrehozása Python. Python SQL Creater. Hozzon létre SQL-t a Python-ben. Hozzon létre SQL-fájlt a Python használatával.
-keywords: [Aspose Excel., Python Aspose.Cells., Create SQL Python., Python SQL Creater., Create SQL file in Python., Generate SQL file in Python]
+description:  Aspose Excel. Python Hozzon létre SQL-fájlt gyorsan és egyszerűen a Aspose.Cells-gyel. SQL-fájl létrehozása a Python-es szám használatával. Hozzon létre SQL-t a Python-ben. Python SQL-készítő.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Create SQL file., Generate SQL file in Python., Create SQL file using Python., Write data to SQL file via Python., Create a SQL file in Python., Python Generate a SQL file., Python SQL Creater]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Hozzon létre SQL-fájlt a Python-ben" h2="Nagy sebességű Python könyvtár SQL fájl létrehozásához. Használja a API-es excel konverziónkat magas szintű, platformfüggetlen szoftver fejlesztéséhez a Python-ben." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="SQL" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -11,7 +11,7 @@ keywords: [Aspose Excel., Python Aspose.Cells., Create SQL Python., Python SQL C
 
 {{% blocks/products/pf/agp/content h2="Hozzon létre SQL-fájlt a Python használatával" %}}
 
- Hogyan készítsünk SQL fájlt? A Aspose.Cells for Python NET könyvtáron keresztül egyszerűen létrehozhat SQL-fájlt programozottan néhány sornyi kóddal.[Aspose.Cells for Python](https://pypi.org/project/aspose-cells-python/)képes többplatformos alkalmazásokat létrehozni, módosítani, konvertálni, renderelni és kinyomtatni az összes Excel fájlt. Python Excel API nem csak a táblázatformátumok között konvertál, hanem Excel fájlokat is képes megjeleníteni képként, PDF, HTML, ODS, CSV, CSV, CSV, CSV, CSV, CSV, SVG, és így tovább, SVG P, 8 PT a választás,3,8 ipari szabvány szerinti dokumentumok cseréjére formátumok.
+ Hogyan készítsünk SQL fájlt? A Aspose.Cells for Python NET könyvtáron keresztül egyszerűen létrehozhat SQL-fájlt programozottan néhány sornyi kóddal.[Aspose.Cells for Python](https://pypi.org/project/aspose-cells-python/)képes többplatformos alkalmazásokat létrehozni, módosítani, konvertálni, renderelni és kinyomtatni az összes Excel fájlt. Python Az Excel API nemcsak a táblázatformátumok között konvertál, hanem Excel-fájlokat is képes megjeleníteni képként, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT és egyebekként, így tökéletes választás a szabványos formátumú dokumentumok cseréjéhez.
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -21,7 +21,7 @@ keywords: [Aspose Excel., Python Aspose.Cells., Create SQL Python., Python SQL C
 
 {{% blocks/products/pf/agp/text %}}
 
- fejlesztők könnyen létrehozhatnak, betölthetnek, módosíthatnak és konvertálhatnak SQL-fájlokat a különböző adatfeldolgozási alkalmazásokon belül, mindössze néhány sornyi kóddal.
+ A fejlesztők könnyen létrehozhatnak, betölthetnek, módosíthatnak és konvertálhatnak SQL-fájlokat a különböző adatfeldolgozási alkalmazásokon belül, mindössze néhány sornyi kóddal.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -62,7 +62,7 @@ workbook.save("output.sql")
 A Python-es csomagjainkat PyPi-tárolókban tároljuk.
 
 {{% blocks/products/pf/agp/text %}}
-Telepítés: Aspose.Cells for Python innen<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , használja a parancsot a következőképpen:<code>$ pip install aspose-cells-python</code>.
+ Telepítés: Aspose.Cells for Python innen<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , használja a parancsot a következőképpen:<code>$ pip install aspose-cells-python</code>.
 {{% /blocks/products/pf/agp/text %}}
 
 {{% blocks/products/pf/agp/text %}}

@@ -1,7 +1,7 @@
 ---
-title: C++ SPREADSHEETML–MHT – Online SPREADSHEETML–MHT konvertáló
-description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. Ingyenes online C++ SPREADSHEETML konvertálása MHT mentési formátumba. C++ SPREADSHEETML MHT formátumba. SPREADSHEETML mentése az MHT C++ számra.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ SPREADSHEETML to MHT saveformat., Free Online SPREADSHEETML to MHT C++., C++ Convert SPREADSHEETML to MHT]
+title: C++ SPREADSHEETML–MHT – SPREADSHEETML–MHT konverter
+description: Aspose Excel. A SPREADSHEETML-t gyorsan és egyszerűen konvertálja MHT-vé a Aspose.Cells-es számmal. C++ SPREADSHEETML-t MHT-vé. C++ SPREADSHEETML mentése az MHT-ba. Mentse a SPREADSHEETML-t MHT-ként a C++ számon.
+keywords: [Aspose Excel., C++ Aspose.Cells., Convert SPREADSHEETML to MHT in C++., Save SPREADSHEETML to MHT using C++., C++ SPREADSHEETML to MHT saveformat., SPREADSHEETML to MHT Converter., C++ Save SPREADSHEETML as MHT]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Konvertálja a SPREADSHEETML fájlt MHT-re a C++-ben" h2="Nagy teljesítményű SPREADSHEETML-MHT konvertálás a C++ könyvtár használatával, Microsoft Excel, OpenOffice vagy Adobe Acrobat telepítése nélkül." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" sourceAdditionalConversionTag="" additionalConversionTag="MHT" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ SPREADSHEETM
 
 {{% blocks/products/pf/agp/content h2="Konvertálja a SPREADSHEETML-t MHT-re a C++ használatával" %}}
 
- Hogyan konvertálhatom a SPREADSHEETML-t MHT-vé? A Aspose.Cells for C++ könyvtárral könnyedén konvertálhatja a SPREADSHEETML-t MHT-má, néhány soros kóddal programozottan.[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) képes többplatformos alkalmazásokat létrehozni, módosítani, konvertálni, renderelni és kinyomtatni az összes Excel fájlt. C++ Excel API nem csak a táblázatformátumok között konvertál, hanem Excel fájlokat is képes megjeleníteni képként, PDF, HTML, ODS, CSV, CSV, CSV, CSV, CSV, CSV, SVG, és így tovább, SVG P, 8 PT a választás,3,8 ipari szabvány szerinti dokumentumok cseréjére formátumok. A legújabb verziót közvetlenül letöltheti, csak nyissa meg[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) csomagkezelő, keresse meg a Aspose.Cells.Cpp címet, és telepítse. A következő parancsot is használhatja a Package Manager konzolból.
+ Hogyan konvertálhatom a SPREADSHEETML-t MHT-vé? A Aspose.Cells for C++ könyvtárral könnyedén konvertálhatja a SPREADSHEETML-t MHT-má, néhány soros kóddal programozottan.[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) képes többplatformos alkalmazásokat létrehozni, módosítani, konvertálni, renderelni és kinyomtatni az összes Excel fájlt. C++ Az Excel API nemcsak a táblázatformátumok között konvertál, hanem Excel-fájlokat is képes megjeleníteni képként, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT és egyebekként, így tökéletes választás a szabványos formátumú dokumentumok cseréjéhez. A legújabb verziót közvetlenül letöltheti, csak nyissa meg[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) csomagkezelő, keresse meg a Aspose.Cells.Cpp címet, és telepítse. A következő parancsot is használhatja a Package Manager konzolból.
 
 {{% blocks/products/pf/agp/code-block title="Parancs" offSpacer="true" %}}
 
@@ -26,7 +26,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Mentse el a SPREADSHEETML fájlt az MHT-ba a C++-es számon online ingyen" %}}
+{{% blocks/products/pf/agp/content h2="Mentse a SPREADSHEETML fájlt az MHT-ba a C++ számon" %}}
 
 A következő példa bemutatja, hogyan lehet a SPREADSHEETML-t MHT-vé konvertálni a C++-ben.
 {{% blocks/products/pf/agp/text %}}
@@ -37,19 +37,19 @@ Kövesse az egyszerű lépéseket a SPREADSHEETML MHT formátumba konvertálás�
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Ingyenes alkalmazás és mintakód a SPREADSHEETML MHT Online konvertálásához" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xml" outformat="mht" IsLandingPage="true" language="cpp" %}}
+{{% cells-convert title="Mintakód a SPREADSHEETML MHT-vé konvertálásához" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xml" outformat="mht" IsLandingPage="true" language="cpp" %}}
 
 {{% blocks/products/pf/agp/content h2="A SPREADSHEETML konvertálása MHT-re a C++ számon keresztül" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
-A SPREADSHEETML fájlokat programozottan MHT-vé kell konvertálnia? A C++ fejlesztők könnyedén konvertálhatják a SPREADSHEETML-t MHT-vé, mindössze néhány sornyi kóddal.
+SPREADSHEETML fájlokat programozottan MHT-vé kell konvertálnia? A C++ fejlesztők könnyedén konvertálhatják a SPREADSHEETML-t MHT-vé, mindössze néhány sornyi kóddal.
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Telepítse a „Aspose.Cells for C++” fájlt.
 1.  Adjon hozzá egy könyvtári hivatkozást (importálja a könyvtárat) a C++ projekthez.
-1.  Töltse be a SPREADSHEETML fájlt a Factory::CreateIWorkbook segítségével.
+1.  Töltse be a SPREADSHEETML fájlt a munkafüzet segítségével.
 1.  Konvertálja a SPREADSHEETML-t MHT-vé a Save() metódus meghívásával.
 1.  Szerezze meg a SPREADSHEETML konvertálási eredményét MHT-vé.
 
@@ -85,7 +85,7 @@ Három lehetőség közül választhat a „Aspose.Cells for C++” telepítés�
 <!-- aboutfile Starts -->
     {{< blocks/products/pf/agp/about-file-section >}}
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="SPREADSHEETML" readMoreLink="https://docs.fileformat.com/web/xml/" >}}Az XML az Extensible Markup Language rövidítése, amely hasonló a HTML-hez, de különbözik az objektumok meghatározására szolgáló címkék használatában. Az XML fájlformátum létrehozásának teljes ötlete az adatok tárolása és továbbítása volt anélkül, hogy szoftver- vagy hardvereszközöktől függne. Népszerűsége annak köszönhető, hogy emberi és géppel is olvasható. Ez lehetővé teszi, hogy közös adatprotokollokat hozzon létre objektumok formájában, amelyeket tárolni és megosztani a hálózaton, például a World Wide Web-en (WWW). Az XML-ben az "X" a bővíthető, ami azt jelenti, hogy a nyelv tetszőleges számú szimbólumra kiterjeszthető a felhasználói igényeknek megfelelően. Sok szabványos fájlformátum ezekhez a szolgáltatásokhoz használja, például a Microsoft Open XML, a LibreOffice OpenDocument, az XHTML és a SVG.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="MHT" readMoreLink="https://docs.fileformat.com/web/mht/" >}}Az .mht kiterjesztésű fájl egy MIME-kompatibilis archiválási fájlformátum, amely különböző típusú adatokat tartalmaz egyetlen fájlban. Beágyazott erőforrásként képes tárolni olyan adatokat, mint például szöveg, képek, oldalstílus CSS-fájlok, JavaScript és egyéb erőforrások formájában. Az üzenet/rfc822 MIME-típusú MHT-fájlok egyetlen archív fájlba foglalják a HTML-es fájl teljes tartalmát a tárolóeszközökön történő archiváláshoz. Az olyan szoftveralkalmazások, mint a Microsoft Word, lehetővé teszik a WORD-dokumentumok MHT-fájlként történő exportálásával konvertálását. Az MHT fájlok olyan népszerű böngészőkkel nyithatók meg, mint a Microsoft Internet Explore és a Google Chrome.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="MHT" readMoreLink="https://docs.fileformat.com/web/mht/" >}}Az .mht kiterjesztésű fájl egy MIME-kompatibilis archiválási fájlformátum, amely különböző típusú adatokat tartalmaz egyetlen fájlban. Beágyazott erőforrásként képes tárolni olyan adatokat, mint például szöveg, képek, oldalstílus CSS-fájlok, JavaScript és egyéb erőforrások formájában. Az üzenet/rfc822 MIME-típusú MHT-fájlok egyetlen archív fájlba foglalják a HTML-es fájl teljes tartalmát a tárolóeszközökön történő archiváláshoz. Az olyan szoftveralkalmazások, mint a Microsoft Word, lehetővé teszik a WORD-es dokumentumok MHT-fájlként történő exportálásával konvertálását. Az MHT fájlok olyan népszerű böngészőkkel nyithatók meg, mint a Microsoft Internet Explore és a Google Chrome.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
     {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->
 
@@ -101,7 +101,6 @@ Három lehetőség közül választhat a „Aspose.Cells for C++” telepítés�
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/spreadsheetml-to-pdf/" name="TÁBLÁZAT A PDF-ES számra" description="Hordozható dokumentum formátum" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/spreadsheetml-to-png/" name="TÁBLÁZAT A PNG-ES számra" description="Hordozható hálózati grafika" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/spreadsheetml-to-svg/" name="TÁBLÁZAT A SVG-ES számra" description="Skálázható vektorgrafika" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/spreadsheetml-to-tiff/" name="TÁBLÁZAT A TIFF-ES számra" description="Címkézett képformátum" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/spreadsheetml-to-tsv/" name="TÁBLÁZAT A TSV-ES számra" description="Tabulátorral elválasztott értékek" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/spreadsheetml-to-txt/" name="TÁBLÁZAT A TXT-ES számra" description="Szöveges dokumentum" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/spreadsheetml-to-xls/" name="TÁBLÁZAT A XLS-ES számra" description="Excel bináris formátum" >}}
@@ -112,7 +111,7 @@ Három lehetőség közül választhat a „Aspose.Cells for C++” telepítés�
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/spreadsheetml-to-xltm/" name="TÁBLÁZAT A XLTM-ES számra" description="Excel-makró-kompatibilis sablon" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/spreadsheetml-to-xltx/" name="TÁBLÁZAT A XLTX-ES számra" description="Office OpenXML Excel sablon" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/spreadsheetml-to-xml/" name="A SPREADSHEETML-ből XML-be" description="Bővíthető jelölőnyelv" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/spreadsheetml-to-xps/" name="TÁBLÁZAT A XPS-ES számra" description="XML papírspecifikációk" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/spreadsheetml-to-xps/" name="TÁBLÁZAT A XPS-ES számra" description="XML papír specifikációk" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/spreadsheetml-to-json/" name="TÁBLÁZAT A JSON-ES számra" description="JavaScript objektum jelölés" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/spreadsheetml-to-jpeg/" name="TÁBLÁZAT A JPEG-ES számra" description="JPEG Kép" >}}
 

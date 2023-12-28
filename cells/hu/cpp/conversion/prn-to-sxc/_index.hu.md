@@ -1,7 +1,7 @@
 ---
-title: C++ PRN - SXC - Online PRN - SXC konverter
-description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. Ingyenes online C++ PRN konvertálása SXC mentési formátumra. C++ PRN SXC formátumra. PRN mentése a SXC C++ számra.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ PRN to SXC saveformat., Free Online PRN to SXC C++., C++ Convert PRN to SXC]
+title: C++ PRN - SXC - PRN - SXC Átalakító
+description: Aspose Excel. A PRN-t gyorsan és egyszerűen konvertálja Aspose.Cells-re Aspose.Cells-re. C++ PRN SXC-re. C++ PRN mentése SXC-re. PRN mentése SXC-re a 407113481-es szám használatával.
+keywords: [Aspose Excel., C++ Aspose.Cells., Convert PRN to SXC in C++., Save PRN to SXC using C++., C++ PRN to SXC saveformat., PRN to SXC Converter., C++ Save PRN as SXC]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Konvertálja a PRN-t SXC-re a C++-ben" h2="Nagy teljesítményű PRN konvertálás SXC-re a C++ könyvtár használatával, Microsoft Excel, OpenOffice vagy Adobe Acrobat telepítése nélkül." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" sourceAdditionalConversionTag="" additionalConversionTag="SXC" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ PRN to SXC s
 
 {{% blocks/products/pf/agp/content h2="Konvertálja a PRN-t SXC-re a C++ használatával" %}}
 
- Hogyan konvertálhatom a PRN-t SXC-re? A Aspose.Cells for C++ könyvtárral egyszerűen konvertálhatja a PRN-t programozottan SXC-re néhány sor kóddal.[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) képes többplatformos alkalmazásokat létrehozni, módosítani, konvertálni, renderelni és kinyomtatni az összes Excel fájlt. C++ Excel API nem csak a táblázatformátumok között konvertál, hanem Excel fájlokat is képes megjeleníteni képként, PDF, HTML, ODS, CSV, CSV, CSV, CSV, CSV, CSV, SVG, és így tovább, SVG P, 8 PT a választás,3,8 ipari szabvány szerinti dokumentumok cseréjére formátumok. A legújabb verziót közvetlenül letöltheti, csak nyissa meg[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) csomagkezelő, keresse meg a Aspose.Cells.Cpp címet, és telepítse. A következő parancsot is használhatja a Package Manager konzolból.
+ Hogyan konvertálhatom a PRN-t SXC-re? A Aspose.Cells for C++ könyvtárral egyszerűen konvertálhatja a PRN-t programozottan SXC-re néhány sor kóddal.[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) képes többplatformos alkalmazásokat létrehozni, módosítani, konvertálni, renderelni és kinyomtatni az összes Excel fájlt. C++ Az Excel API nemcsak a táblázatformátumok között konvertál, hanem Excel-fájlokat is képes megjeleníteni képként, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT és egyebekként, így tökéletes választás a szabványos formátumú dokumentumok cseréjéhez. A legújabb verziót közvetlenül letöltheti, csak nyissa meg[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) csomagkezelő, keresse meg a Aspose.Cells.Cpp címet, és telepítse. A következő parancsot is használhatja a Package Manager konzolból.
 
 {{% blocks/products/pf/agp/code-block title="Parancs" offSpacer="true" %}}
 
@@ -26,7 +26,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Mentse el a PRN-t a SXC-es számra a C++-es számon online ingyen" %}}
+{{% blocks/products/pf/agp/content h2="Mentse a PRN-számot a SXC számra a C++-ben" %}}
 
 A következő példa bemutatja, hogyan lehet a PRN-t SXC-re konvertálni a C++-ben.
 {{% blocks/products/pf/agp/text %}}
@@ -37,19 +37,19 @@ Kövesse az egyszerű lépéseket a PRN SXC-re konvertálásához. Töltse fel P
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Ingyenes alkalmazás és mintakód a PRN SXC online konvertálásához" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="prn" outformat="sxc" IsLandingPage="true" language="cpp" %}}
+{{% cells-convert title="Mintakód a PRN SXC-re konvertálásához" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="prn" outformat="sxc" IsLandingPage="true" language="cpp" %}}
 
 {{% blocks/products/pf/agp/content h2="PRN konvertálása SXC-re a C++-en keresztül" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
-PRN-fájlokat programozottan SXC-re kell konvertálni? A C++ fejlesztők néhány sornyi kóddal könnyedén konvertálhatják a PRN-t SXC-re.
+A PRN-fájlokat programozottan SXC-re kell konvertálni? A C++ fejlesztők néhány sornyi kóddal könnyedén konvertálhatják a PRN-t SXC-re.
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Telepítse a „Aspose.Cells for C++” fájlt.
 1.  Adjon hozzá egy könyvtári hivatkozást (importálja a könyvtárat) a C++ projekthez.
-1.  Töltse be a PRN-fájlt a Factory::CreateIWorkbook segítségével.
+1. Töltse be a PRN-fájlt a munkafüzet segítségével.
 1.  Konvertálja a PRN-t SXC-re a Save() metódus meghívásával.
 1.  Szerezze meg a PRN SXC számra való átalakítási eredményét.
 
@@ -84,7 +84,7 @@ Három lehetőség közül választhat a „Aspose.Cells for C++” telepítés�
 
 <!-- aboutfile Starts -->
     {{< blocks/products/pf/agp/about-file-section >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="PRN" readMoreLink="https://fileinfo.com/extension/prn/" >}}PRN-fájl a Nyomtatás fájlba jelölőnégyzet segítségével létrehozott fájl, amely a Windows-es szám egyes Nyomtatás párbeszédpaneleiben jelenik meg. Eszközspecifikus utasításokat tartalmaz, amelyeket a nyomtató, fax vagy más eszköz a dokumentum nyomtatásához használ. A PRN-fájlok szöveges vagy bináris tartalmat tartalmazhatnak, attól függően, hogy milyen eszközhöz készült a fájl.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="PRN" readMoreLink="https://fileinfo.com/extension/prn/" >}}A PRN-fájl a Nyomtatás fájlba jelölőnégyzet segítségével létrehozott fájl, amely a Windows-es szám egyes Nyomtatás párbeszédpaneleiben jelenik meg. Eszközspecifikus utasításokat tartalmaz, amelyeket a nyomtató, fax vagy más eszköz a dokumentum nyomtatásához használ. A PRN-fájlok szöveges vagy bináris tartalmat tartalmazhatnak, attól függően, hogy milyen eszközhöz készült a fájl.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="SXC" readMoreLink="https://docs.fileformat.com/spreadsheet/sxc/" >}}SXC (Sun XML Calc) fájlformátum az OpenOffice.org nevű irodai programcsomaghoz tartozik. Ez a formátum általában a felhasználók táblázatkezelési igényeit elégíti ki, mivel ez egy XML alapú táblázatkezelő fájlformátum. A SXC formátum a képleteket, függvényeket, makrókat és diagramokat támogatja a DataPilot mellett, amely hihetetlen funkció, mert automatikusan személyre szabja és összefoglalja a nyers importált adatokat. Az ezzel a szoftverrel létrehozott fájlok .sxc kiterjesztéssel kerülnek mentésre.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
     {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->
@@ -101,7 +101,6 @@ Három lehetőség közül választhat a „Aspose.Cells for C++” telepítés�
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/prn-to-pdf/" name="NYOMTATÁS A PDF-ES számra" description="Hordozható dokumentum formátum" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/prn-to-png/" name="NYOMTATÁS A PNG-ES számra" description="Hordozható hálózati grafika" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/prn-to-svg/" name="NYOMTATÁS A SVG-ES számra" description="Skálázható vektorgrafika" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/prn-to-tiff/" name="NYOMTATÁS A TIFF-ES számra" description="Címkézett képformátum" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/prn-to-tsv/" name="NYOMTATÁS A TSV-ES számra" description="Tabulátorral elválasztott értékek" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/prn-to-txt/" name="NYOMTATÁS A TXT-ES számra" description="Szöveges dokumentum" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/prn-to-xls/" name="NYOMTATÁS A XLS-ES számra" description="Excel bináris formátum" >}}
@@ -112,7 +111,7 @@ Három lehetőség közül választhat a „Aspose.Cells for C++” telepítés�
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/prn-to-xltm/" name="NYOMTATÁS A XLTM-ES számra" description="Excel-makró-kompatibilis sablon" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/prn-to-xltx/" name="NYOMTATÁS A XLTX-ES számra" description="Office OpenXML Excel sablon" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/prn-to-xml/" name="PRN XML-BE" description="Bővíthető jelölőnyelv" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/prn-to-xps/" name="NYOMTATÁS A XPS-ES számra" description="XML papírspecifikációk" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/prn-to-xps/" name="NYOMTATÁS A XPS-ES számra" description="XML papír specifikációk" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/prn-to-json/" name="NYOMTATÁS A JSON-ES számra" description="JavaScript objektum jelölés" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/prn-to-jpeg/" name="NYOMTATÁS A JPEG-ES számra" description="JPEG Kép" >}}
 

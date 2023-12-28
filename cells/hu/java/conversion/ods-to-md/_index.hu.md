@@ -1,7 +1,7 @@
 ---
-title: Java ODS MD - Online ODS MD konverter
-description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Ingyenes online Java A ODS konvertálása MD mentési formátumba. Java ODS MD formátumba. Mentse a ODS számot az MD Java számra.
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java ODS to MD saveformat., Free Online ODS to MD Java., Java Convert ODS to MD]
+title: Java ODS MD-hez - ODS MD konverterhez
+description: Aspose Excel. A ODS számot gyorsan és egyszerűen konvertálja MD-re a Aspose.Cells-es számmal. Java ODS MD-vé. Java Takarítson meg ODS-et az MD-nek. Mentse el a ODS számot MD-ként a Java használatával.
+keywords: [Aspose Excel., Java Aspose.Cells., Convert ODS to MD in Java., Save ODS to MD using Java., Java ODS to MD saveformat., ODS to MD Converter., Java Save ODS as MD]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Alakítsa át a ODS-et MD-re a Java-ben" h2="Nagy sebességű Java könyvtár a ODS MD formátumba konvertálásához. Ez egy professzionális szoftvermegoldás a ODS, MD és sok más formátum importálásához és exportálásához a Java használatával." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="MD" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java ODS to MD
 
 {{% blocks/products/pf/agp/content h2="Konvertálja a ODS-et MD-re a Java használatával" %}}
 
- Hogyan konvertálhatom át a ODS-et MD-re? A Aspose.Cells for Java könyvtárral egyszerűen konvertálhatja a ODS-et MD-vé, néhány soros kóddal programozottan.[Aspose.Cells for Java](https://products.aspose.com/cells/java) képes többplatformos alkalmazásokat létrehozni, módosítani, konvertálni, renderelni és kinyomtatni az összes Excel fájlt. Java Excel API nem csak a táblázatformátumok között konvertál, hanem Excel fájlokat is képes megjeleníteni képként, PDF, HTML, ODS, CSV, CSV, CSV, CSV, CSV, CSV, SVG, és így tovább, SVG P, 8 PT a választás,3,8 ipari szabvány szerinti dokumentumok cseréjére formátumok. A legújabb verziót közvetlenül a webhelyről töltheti le[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) és telepítse a Maven alapú projekten belül a következő konfigurációk hozzáadásával a pom.xml fájlhoz.
+ Hogyan konvertálhatom át a ODS-et MD-re? A Aspose.Cells for Java könyvtárral egyszerűen konvertálhatja a ODS-et MD-vé, néhány soros kóddal programozottan.[Aspose.Cells for Java](https://products.aspose.com/cells/java)képes többplatformos alkalmazásokat létrehozni, módosítani, konvertálni, renderelni és kinyomtatni az összes Excel fájlt. Java Az Excel API nemcsak a táblázatformátumok között konvertál, hanem Excel-fájlokat is képes megjeleníteni képként, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT és egyebekként, így tökéletes választás a szabványos formátumú dokumentumok cseréjéhez. A legújabb verziót közvetlenül a webhelyről töltheti le[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) és telepítse a Maven alapú projekten belül a következő konfigurációk hozzáadásával a pom.xml fájlhoz.
 
 {{% blocks/products/pf/agp/code-block title="Adattár" offSpacer="true" %}}
 
@@ -45,7 +45,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java ODS to MD
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Takarítson meg ODS-et MD-nek a Java számon online ingyen" %}}
+{{% blocks/products/pf/agp/content h2="Mentse el a ODS számot az MD számára a Java számon" %}}
 
 A következő példa bemutatja, hogyan lehet átalakítani a ODS-et MD-vé a Java-ben.
 {{% blocks/products/pf/agp/text %}}
@@ -56,7 +56,7 @@ Kövesse az egyszerű lépéseket a ODS MD-re konvertálásához. Töltse fel a 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Ingyenes alkalmazás és mintakód a ODS MD Online konvertálásához" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="ods" outformat="md" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Mintakód a ODS MD-vé konvertálásához" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="ods" outformat="md" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="A ODS konvertálása MD via Java-re" %}}
 
@@ -68,7 +68,7 @@ A ODS fájlokat programozottan MD-re kell konvertálnia? A Java fejlesztők kön
 
 1.  Telepítse a „Aspose.Cells for Java” fájlt.
 1.  Adjon hozzá egy könyvtári hivatkozást (importálja a könyvtárat) a Java projekthez.
-1.  Töltse be a ODS számú fájlt a Workbook osztály egy példányával.
+1. Töltse be a ODS számú fájlt a Workbook osztály egy példányával.
 1.  Konvertálja a ODS-et MD-vé a Workbook.save metódus meghívásával.
 1.  Szerezze meg a ODS konverziós eredményt MD-vé.
 
@@ -125,7 +125,7 @@ A ODS fájlokat programozottan MD-re kell konvertálnia? A Java fejlesztők kön
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/ods-to-xltm/" name="ODS-XLTM" description="Excel-makró-kompatibilis sablon" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/ods-to-xltx/" name="ODS-XLTX" description="Office OpenXML Excel sablon" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/ods-to-xml/" name="ODS XML-RE" description="Bővíthető jelölőnyelv" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/ods-to-xps/" name="ODS-XPS" description="XML papírspecifikációk" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/ods-to-xps/" name="ODS-XPS" description="XML papír specifikációk" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/ods-to-json/" name="ODS-JSON" description="JavaScript objektum jelölés" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/ods-to-jpeg/" name="ODS-JPEG" description="JPEG Kép" >}}
 

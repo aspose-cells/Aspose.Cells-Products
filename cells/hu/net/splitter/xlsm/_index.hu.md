@@ -2,6 +2,7 @@
 title:  Felosztott XLSM Fájlok via .NET
 weight: 8890
 description: C# forráskód XLSM dokumentum felosztásához a .NET Framework, .NET Core, Mono vagy Xamarin platformokon.
+keywords: [C# Aspose.Cells., C# split xlsm files., C# how to split xlsm files into multiple files., C# xlsm splitter., C# split Cell., Cell splitter using C#]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Felosztott XLSM Formátumok C#-ben" h2="Natív és nagy teljesítményű XLSM elosztó szerveroldali API-k használatával, olyan szoftverek használata nélkül, mint a Microsoft vagy az Open Office, az Adobe PDF." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="XLSM" >}}
@@ -103,7 +104,7 @@ PM> Install-Package Aspose.Cells
 
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="Egyéb támogatott felosztási formátumok" subTitle="C# használatával nagy fájlokat is fel lehet osztani sok más fájlformátum darabjaira, beleértve." >}}
+{{< blocks/products/pf/agp/other-supported-section title="Egyéb támogatott felosztási formátumok" subTitle="A C# használatával nagy fájlokat is fel lehet osztani sok más fájlformátum darabjaira, beleértve." >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/splitter/ods/" name="ODS" description="OpenDocument táblázatfájl" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/splitter/xls/" name="XLS" description="Excel bináris formátum" >}}

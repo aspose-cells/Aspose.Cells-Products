@@ -2,6 +2,7 @@
 title:  एक्सेल via .NET में छवियाँ/चित्रों का आकार प्राप्त करें
 weight: 10
 description: .NET फ्रेमवर्क, .NET कोर, Mono या ज़ामरिन प्लेटफ़ॉर्म पर एक्सेल में छवियाँ/चित्रों का आकार प्राप्त करने के लिए C# स्रोत कोड।
+keywords: [C# Aspose.Cells., c# Get Images/Pictures Size In Excel., c# Obtain Images/Pictures Size In Excel., c# Access Images/Pictures Size In Excel]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="एक्सेल via .NET में छवियाँ/चित्रों का आकार प्राप्त करें" h2="Microsoft या ओपन ऑफिस, एडोब PDF आदि जैसे किसी सॉफ्टवेयर के बिना विभिन्न वस्तुओं के साथ काम करने के लिए Aspose.Cells\' API का उपयोग करना।" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="XLSX" >}}
@@ -48,7 +49,7 @@ PM> Install-Package Aspose.Cells
     + [चौड़ाई](https://reference.aspose.com/cells/net/aspose.cells.drawing/shape/width/) पिक्सेल की इकाई में, आकार की चौड़ाई का प्रतिनिधित्व करता है।
     + [ऊंचाई](https://reference.aspose.com/cells/net/aspose.cells.drawing/shape/height/) पिक्सेल की इकाई में, आकार की ऊंचाई का प्रतिनिधित्व करता है।
     + [मूल चौड़ाई](https://reference.aspose.com/cells/net/aspose.cells.drawing/picture/originalwidth/) चित्र की मूल चौड़ाई, पिक्सेल की इकाई में प्राप्त होती है।
-    + [मूल ऊँचाई](https://reference.aspose.com/cells/net/aspose.cells.drawing/picture/originalheight/) पिक्सेल की इकाई में, चित्र की मूल ऊंचाई प्राप्त होती है।
+    + [मूल ऊँचाई](https://reference.aspose.com/cells/net/aspose.cells.drawing/picture/originalheight/)पिक्सेल की इकाई में, चित्र की मूल ऊंचाई प्राप्त होती है।
 
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
@@ -92,7 +93,7 @@ PM> Install-Package Aspose.Cells
 
 {{% blocks/products/pf/agp/content h2="लगभग Aspose.Cells for .NET API" %}}
 
- Aspose.Cells API का उपयोग Microsoft एक्सेल प्रारूपों को विभिन्न प्रारूपों में बनाने, संपादित करने, परिवर्तित करने और प्रस्तुत करने के लिए किया जा सकता है। इसके अलावा, इसका उपयोग सॉफ्टवेयर अनुप्रयोगों के भीतर व्यापक चार्टिंग, स्केलेबल रिपोर्टिंग और विश्वसनीय गणना के लिए किया जा सकता है। Aspose.Cells एक स्टैंडअलोन API है और इसके लिए Microsoft या ओपनऑफिस जैसे किसी सॉफ़्टवेयर की आवश्यकता नहीं है।
+Aspose.Cells API का उपयोग Microsoft एक्सेल प्रारूपों को विभिन्न प्रारूपों में बनाने, संपादित करने, परिवर्तित करने और प्रस्तुत करने के लिए किया जा सकता है। इसके अलावा, इसका उपयोग सॉफ्टवेयर अनुप्रयोगों के भीतर व्यापक चार्टिंग, स्केलेबल रिपोर्टिंग और विश्वसनीय गणना के लिए किया जा सकता है। Aspose.Cells एक स्टैंडअलोन API है और इसके लिए Microsoft या ओपनऑफिस जैसे किसी सॉफ़्टवेयर की आवश्यकता नहीं है।
 
 {{% /blocks/products/pf/agp/content %}}
 

@@ -1,8 +1,8 @@
 ---
-title: Python Repair ods File – Javítási ods fájl online ingyen
+title: Python Javítás ods – A sérült ods fájl helyreállítása és javítása
 url: /hu/python-net/recovery/repair-ods/ 
-description: Aspose Excel. Python Aspose.Cells. Python Javítási ods fájl. Ingyenes online ods-javító eszköz. Javítsa meg a sérült ods fájlt. Helyezze vissza a sérült ods-fájlt a Python alkalmazáson belül.
-keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python Repair ods file., Free Online Repair a corrupted ods file., Python Recover ods file.]
+description: Python Aspose.Cells. Javítási lehetőségek. Fix ods fájl. ods helyreállítási eszköz. ods korrupció. Az ods adatok visszaállítása. ods fájl helyreállítása. A sérült ods fájl helyreállítása.
+keywords: [Python Aspose.Cells., repair ods file., ods repair., recover corrupted ods file., repair corrupted ods., recover ods., fix ods file., ods corruption., restore ods data., ods file recovery., recover corrupted ods file.]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Javítás ODS fájl a Python-ben" h2="Készítse el saját Python alkalmazását az ods fájlok javításához a Python használatával." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="ODS" pfName="Aspose.Cells" subTitlepfName="for Python" downloadUrl="" fileiconsmall1="XLS" fileiconsmall2="XLSB" fileiconsmall3="XLSX" fileiconsmall4="XLSM" fileiconsmall5="ODS" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python Rep
 
 {{% blocks/products/pf/agp/content h2="Javítás ODS fájl a Python használatával" %}}
 
- Hogyan javíthatom ki az ods fájlt? A Aspose.Cells for Python könyvtárral könnyedén kijavíthatja a ODS fájlt néhány soros kóddal, programozottan.[Aspose.Cells for Python](https://products.aspose.com/cells/python-net)képes többplatformos alkalmazásokat létrehozni, módosítani, konvertálni, renderelni és kinyomtatni az összes Excel fájlt. Python Excel API nem csak a táblázatformátumok között konvertál, hanem Excel fájlokat is képes megjeleníteni képként, PDF, HTML, ODS, CSV, CSV, CSV, CSV, CSV, CSV, SVG, és így tovább, SVG P, 8 PT a választás,3,8 ipari szabvány szerinti dokumentumok cseréjére formátumok. A Aspose.Cells for Python via .NET számot innen telepítheti.<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , használja a parancsot a következőképpen:<code>$ pip install aspose-cells-python</code>.
+ Hogyan javíthatom ki az ods fájlt? A Aspose.Cells for Python könyvtárral könnyedén kijavíthatja a ODS fájlt néhány soros kóddal, programozottan.[Aspose.Cells for Python](https://products.aspose.com/cells/python-net) képes többplatformos alkalmazásokat létrehozni, módosítani, konvertálni, renderelni és kinyomtatni az összes Excel fájlt. Python Az Excel API nemcsak a táblázatformátumok között konvertál, hanem Excel-fájlokat is képes megjeleníteni képként, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT és egyebekként, így tökéletes választás a szabványos formátumú dokumentumok cseréjéhez. Telepítheti a Aspose.Cells for Python via .NET számot innen<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , használja a parancsot a következőképpen:<code>$ pip install aspose-cells-python</code>.
 
 
 {{% /blocks/products/pf/agp/content %}}
@@ -32,14 +32,14 @@ Programozottan kell javítania az ods fájlt? A Python fejlesztők könnyedén b
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-recovery title="Ingyenes alkalmazás és mintakód a ODS fájl online javításához" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et" InputFormat="ods" outformat="ods" IsLandingPage="true" language="pythonnet" %}}    
+{{% cells-recovery title="Mintakód a ODS fájl javításához" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et" InputFormat="ods" outformat="ods" IsLandingPage="true" language="pythonnet" %}}    
     
 {{% blocks/products/pf/agp/content h2="Python könyvtár a ODS fájl javításához" %}}
 
 A Python-es csomagjainkat PyPi-tárolókban tároljuk.
 
 {{% blocks/products/pf/agp/text %}}
-Telepítés: Aspose.Cells for Python innen<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , használja a parancsot a következőképpen:<code>$ pip install aspose-cells-python</code>.
+ Telepítés: Aspose.Cells for Python innen<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , használja a parancsot a következőképpen:<code>$ pip install aspose-cells-python</code>.
 {{% /blocks/products/pf/agp/text %}}
 
 {{% blocks/products/pf/agp/text %}}
@@ -54,7 +54,7 @@ Telepítés: Aspose.Cells for Python innen<a href="https://pypi.org/project/aspo
  Aspose.Cells for Python minden nagyobb operációs rendszeren támogatott. Csak győződjön meg arról, hogy rendelkezik a következő előfeltételekkel.
  
 -  Telepítés[Python](https://www.python.org/downloads/) 3,7 vagy magasabb.
-- Telepítés: Aspose.Cells for Python innen<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , használja a parancsot a következőképpen:<code>$ pip install aspose-cells-python</code>.
+-  Telepítés: Aspose.Cells for Python innen<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , használja a parancsot a következőképpen:<code>$ pip install aspose-cells-python</code>.
 
 
 {{% /blocks/products/pf/agp/content %}}

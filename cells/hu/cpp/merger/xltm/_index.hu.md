@@ -10,7 +10,7 @@ description: C++ példakód a XLTM dokumentum kombinálásához a C++ futásidej
 
 {{% blocks/products/pf/agp/content h2="A XLTM fájl egyesítése a C++ használatával" %}}
 
- A XLTM fájl egyesítéséhez a következőt használjuk:<a href="https://products.aspose.com/cells/cpp">Aspose.Cells for C++</a> API, amely funkciókban gazdag, hatékony és könnyen használható dokumentum-egyesítési API for C++ platform. A legújabb verziót közvetlenül letöltheti, csak nyissa meg<a href="https://www.nuget.org/packages/aspose.cells">NuGet</a> csomagkezelő, keressen<b>Aspose.Cells.Cpp</b> és telepítse. A következő parancsot is használhatja a Package Manager konzolból.
+ A XLTM fájl egyesítéséhez a következőt használjuk:<a href="https://products.aspose.com/cells/cpp">Aspose.Cells for C++</a>API, amely funkciókban gazdag, hatékony és könnyen használható dokumentum-egyesítési API for C++ platform. A legújabb verziót közvetlenül letöltheti, csak nyissa meg<a href="https://www.nuget.org/packages/aspose.cells">NuGet</a> csomagkezelő, keressen<b>Aspose.Cells.Cpp</b> és telepítse. A következő parancsot is használhatja a Package Manager konzolból.
 
 {{% blocks/products/pf/agp/code-block title="Parancs" offSpacer="true" %}}
 
@@ -30,7 +30,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% blocks/products/pf/agp/text %}}
 
-Egy alapdokumentum, amely összeolvad és összefűződik[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) Az API-k néhány sornyi kóddal elkészíthetők.
+ Egy alapdokumentum, amely összeolvad és összefűződik[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) Az API-k néhány sornyi kóddal elkészíthetők.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -56,13 +56,13 @@ Egy alapdokumentum, amely összeolvad és összefűződik[Aspose.Cells for C++](
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{% cells-merger title="Ingyenes alkalmazás Excel-fájlok online egyesítéséhez" InputFormat="xltm" InputFormat2="xltm" outformat="xltm" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;ods;csv;tsv;html;jpg;bmp;png;svg;tiff;xps;mhtml;md" IsLandingPage="true" language="cpp" %}}
+{{% cells-merger title="Ingyenes alkalmazás Excel-fájlok online egyesítéséhez" InputFormat="xltm" InputFormat2="xltm" outformat="xltm" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;ods;csv;tsv;html;jpg;bmp;png;svg;xps;mhtml;md" IsLandingPage="true" language="cpp" %}}
 
 <!-- aboutfile Starts -->
 
     {{% blocks/products/pf/agp/content h2="" %}}
 
- Aspose.Cells API használható Microsoft Excel formátumok létrehozására, szerkesztésére, konvertálására és renderelésére különböző formátumokba. Ezen túlmenően használható átfogó diagramok készítésére, skálázható jelentésekre és megbízható számításokra a szoftveralkalmazásokon belül. A Aspose.Cells egy önálló API, és nem igényel olyan szoftvert, mint a Microsoft vagy az OpenOffice.
+Aspose.Cells API használható Microsoft Excel formátumok létrehozására, szerkesztésére, konvertálására és renderelésére különböző formátumokba. Ezen túlmenően használható átfogó diagramok készítésére, skálázható jelentésekre és megbízható számításokra a szoftveralkalmazásokon belül. A Aspose.Cells egy önálló API, és nem igényel olyan szoftvert, mint a Microsoft vagy az OpenOffice.
 
     {{% /blocks/products/pf/agp/content %}}
 

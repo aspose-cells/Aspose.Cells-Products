@@ -1,6 +1,7 @@
 ---
 title:  Adjon hozzá egy sort a diagramhoz a C# számon keresztül
 description: C# Mintakód egy vonal hozzáadásához a diagramhoz az Excel programban a .NET könyvtár használatával. Ezzel a kóddal adjon hozzá egy sort a diagramhoz az MS Excelhez a VB.NET, Asp.NET vagy bármely .NET alapú alkalmazáson belül.
+keywords: [C# Aspose.Cells., c# add a line in chart., c# insert a line in chart., c# create a line in chart]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Adjon hozzá egy sort a diagramhoz a C# számon keresztül" h2="Natív és nagy teljesítményű MS Excel-készítés programozottan, szerveroldali .NET API-k segítségével." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSX" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -27,7 +28,7 @@ Egy vonal dinamikus hozzáadása a diagramhoz a futó alkalmazáson belül egysz
 1.  Adjon hozzá néhány adatot a munkalap celláihoz a[**Cell**](https://reference.aspose.com/cells/net/aspose.cells/cell) tárgyat[**PutValue**](https://reference.aspose.com/cells/net/aspose.cells/cell/methods/putvalue/index)módszer.
  Ez lesz a diagram adatforrása.
 1.  Adjon hozzá egy diagramot a munkalaphoz a[**Diagramok**](https://reference.aspose.com/cells/net/aspose.cells.charts/chartcollection) gyűjteményét[**Hozzáadás**](https://reference.aspose.com/cells/net/aspose.cells.charts/chartcollection/methods/add) módszerrel, a[**Munkalap**](https://reference.aspose.com/cells/net/aspose.cells/worksheet)tárgy.
-1.  Hozzáférés az újhoz[**Diagram**](https://reference.aspose.com/cells/net/aspose.cells.charts/chart)objektumot a Charts gyűjteményből indexének átadásával, hívásával adja meg a diagram adatforrását[**Chart.SetChartDataRange**](https://https://reference.aspose.com/cells/net/aspose.cells.charts/chart/methods/setchartdatarange).
+1.  Hozzáférés az újhoz[**Diagram**](https://reference.aspose.com/cells/net/aspose.cells.charts/chart) objektumot a Charts gyűjteményből indexének átadásával, hívásával adja meg a diagram adatforrását[**Chart.SetChartDataRange**](https://https://reference.aspose.com/cells/net/aspose.cells.charts/chart/methods/setchartdatarange).
 1.  Számítsa ki a diagram pozícióját hívással[**Kiszámítja**](https://https://reference.aspose.com/cells/net/aspose.cells.charts/chart/methods/Calculate) módszer.
 1.  Add hozzá a[**Vonal**](https://reference.aspose.com/cells/net/aspose.cells.drawing/shape/properties/msodrawingtype) Alakzat a Chart.Shapes.AddShapeInChartByScale metódus hívásával.
 1. Állítsa be a vonal formátumát
@@ -38,7 +39,7 @@ Egy vonal dinamikus hozzáadása a diagramhoz a futó alkalmazáson belül egysz
 
 {{% blocks/products/pf/agp/text %}}
 
- Csak győződjön meg arról, hogy a rendszer Microsoft Windows vagy kompatibilis operációs rendszerrel rendelkezik .NET Framework, .NET Core, Windows Azure, Mono vagy Xamarin Platformokkal, valamint Visu71616340-hoz hasonló fejlesztői környezettel.
+Csak győződjön meg arról, hogy a rendszer Microsoft Windows vagy kompatibilis operációs rendszerrel rendelkezik .NET Framework, .NET Core, Windows Azure, Mono vagy Xamarin Platformokkal, valamint Visu71616340-hoz hasonló fejlesztői környezettel.
 
 {{% /blocks/products/pf/agp/text %}}
 

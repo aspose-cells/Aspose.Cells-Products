@@ -2,6 +2,7 @@
 title:  Oldja fel a XLSB számú dokumentum zárolását a C++ számon keresztül
 weight: 7420
 description: C++ példakód a jelszóval védett XLSB fájl feloldásához a C++ Futókörnyezet Windows 32 bites, Windows 64 bites és 64 bites Linux számára.
+keywords: [C++ Aspose.Cells., C++ unlock XLSB files., C++ how to unlock XLSB document., C++ unprotect XLSB files., remove protection from XLSB files., decrypt XLSB Files using C++]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Oldja fel a XLSB fájlok zárolását a C++ számon keresztül" h2="Távolítsa el a védelmet az Excel-táblázatokról, beleértve a XLSB fájlt a C++ könyvtár használatával." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSB" pfName="Aspose.Cells" subTitlepfName="for C++" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSB" >}}
@@ -43,10 +44,11 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/text %}}
 
-1.  Töltse be a XLSB számú zárolt fájlt a CreateIWorkbook segítségével.
-1.  A feloldáshoz hívja az Unprotect() függvényt.
-1.  Állítsa a jelszót NULL-ra a SetPassword segítségével.
-1.  Mentse a XLSB fájlt egy megadott helyre.
+1.  Munkafüzet-osztály példányosítása a védett XLSB fájl elérési útjával
+1.  Szerezze be az alapértelmezett vagy bármely munkalapot a védelem eltávolításához
+1.  Távolítsa el a munkalap védelmét a Worksheet.Unprotect metódussal
+1.  Távolítsa el a munkafüzet védelmét a Workbook.Unprotect metódussal
+1.  Az eredmény mentése XLSB formátumban
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -67,23 +69,24 @@ PM> Install-Package Aspose.Cells.Cpp
 
 ```cs
 
-// Source directory path.
-StringPtr srcDir = new String("SourceDirectory\\");
+Aspose::Cells::Startup();
 
-// Output directory path.
-StringPtr outDir = new String("OutputDirectory\\");
+// instantiate a Workbook object with protected XLSB file
+Workbook workbook(u"protected.xlsb");
 
-// Load XLSB file
-intrusive_ptr<IWorkbook> workbook = Factory::CreateIWorkbook(srcDir->StringAppend(new String("sampleExcelFileProtected.xlsb")));
+// access the default worksheet in the Excel file
+Worksheet worksheet = workbook.GetWorksheets().Get(0);
 
-// Unprotect workbook
-workbook->Unprotect(new String("12345"));
+// unprotect worksheet without a password
+worksheet.Unprotect();
 
-// Set password to null
-workbook->GetISettings()->SetPassword(NULL);
+// unprotect workbook with password
+workbook.Unprotect("password");
 
-// Save the XLSB file
-workbook->Save(outDir->StringAppend(new String("sampleExcelFileUnprotected_out.xlsb")));
+// save the result back in XLSB format
+workbook.Save("unprotected.xlsb", SaveFormat::Auto);
+
+Aspose::Cells::Cleanup();
 
 ```
 

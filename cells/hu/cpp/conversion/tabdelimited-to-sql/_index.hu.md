@@ -1,7 +1,7 @@
 ---
-title: C++ TABDELIMITED SQL-be - Online TABDELIMITED SQL konverterbe
-description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. Ingyenes online C++ TABDELIMITED átalakítása SQL mentési formátumra. C++ TABDELIMITED SQL formátumba. TABDELIMITED mentése SQL C++-be.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ TABDELIMITED to SQL saveformat., Free Online TABDELIMITED to SQL C++., C++ Convert TABDELIMITED to SQL]
+title: C++ TABDELIMITED SQL-be - TABDELIMITED SQL konverterbe
+description: Aspose Excel. A Aspose.Cells-es számmal gyorsan és egyszerűen konvertálja a TABDELIMITED-et SQL-be. C++ TABDELIMITED SQL-vé. C++ TABDELIMITED mentése SQL-be. TABDELIMITED mentése SQL-ként a C++ használatával.
+keywords: [Aspose Excel., C++ Aspose.Cells., Convert TABDELIMITED to SQL in C++., Save TABDELIMITED to SQL using C++., C++ TABDELIMITED to SQL saveformat., TABDELIMITED to SQL Converter., C++ Save TABDELIMITED as SQL]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="A TABDELIMITED konvertálása SQL-re a C++-ben" h2="Nagy teljesítményű TABDELIMITED konvertálás SQL-be a C++ könyvtár használatával anélkül, hogy szükség lenne a Microsoft Excel, OpenOffice vagy Adobe Acrobat telepítésére." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" sourceAdditionalConversionTag="" additionalConversionTag="SQL" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ TABDELIMITED
 
 {{% blocks/products/pf/agp/content h2="A TABDELIMITED konvertálása SQL-be a C++ használatával" %}}
 
- Hogyan konvertálhatom a TABDELIMITED-et SQL-vé? A Aspose.Cells for C++ könyvtárral egyszerűen konvertálhatja a TABDELIMITED-et SQL-vé, néhány soros kóddal programozottan.[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) képes többplatformos alkalmazásokat létrehozni, módosítani, konvertálni, renderelni és kinyomtatni az összes Excel fájlt. C++ Excel API nem csak a táblázatformátumok között konvertál, hanem Excel fájlokat is képes megjeleníteni képként, PDF, HTML, ODS, CSV, CSV, CSV, CSV, CSV, CSV, SVG, és így tovább, SVG P, 8 PT a választás,3,8 ipari szabvány szerinti dokumentumok cseréjére formátumok. A legújabb verziót közvetlenül letöltheti, csak nyissa meg[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) csomagkezelő, keresse meg a Aspose.Cells.Cpp címet, és telepítse. A következő parancsot is használhatja a Package Manager konzolból.
+ Hogyan konvertálhatom a TABDELIMITED-et SQL-vé? A Aspose.Cells for C++ könyvtárral egyszerűen konvertálhatja a TABDELIMITED-et SQL-vé, néhány soros kóddal programozottan.[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) képes többplatformos alkalmazásokat létrehozni, módosítani, konvertálni, renderelni és kinyomtatni az összes Excel fájlt. C++ Az Excel API nemcsak a táblázatformátumok között konvertál, hanem Excel-fájlokat is képes megjeleníteni képként, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT és egyebekként, így tökéletes választás a szabványos formátumú dokumentumok cseréjéhez. A legújabb verziót közvetlenül letöltheti, csak nyissa meg[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) csomagkezelő, keresse meg a Aspose.Cells.Cpp címet, és telepítse. A következő parancsot is használhatja a Package Manager konzolból.
 
 {{% blocks/products/pf/agp/code-block title="Parancs" offSpacer="true" %}}
 
@@ -26,7 +26,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Mentse el a TABDELIMITED-et SQL-be a C++ Online számon ingyen" %}}
+{{% blocks/products/pf/agp/content h2="A TABDELIMITED mentése SQL-be a C++-ben" %}}
 
 A következő példa bemutatja, hogyan konvertálható a TABDELIMITED SQL-be a C++-ben.
 {{% blocks/products/pf/agp/text %}}
@@ -37,7 +37,7 @@ Kövesse az egyszerű lépéseket a TABDELIMITED SQL-vé konvertálásához. Tö
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Ingyenes alkalmazás és mintakód a TABDELIMITED SQL Online konvertálásához" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="tsv" outformat="sql" IsLandingPage="true" language="cpp" %}}
+{{% cells-convert title="Mintakód a TABDELIMITED SQL-vé konvertálásához" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="tsv" outformat="sql" IsLandingPage="true" language="cpp" %}}
 
 {{% blocks/products/pf/agp/content h2="A TABDELIMITED konvertálása SQL-re a C++ számon keresztül" %}}
 
@@ -49,7 +49,7 @@ A TABDELIMITED fájlokat programozottan SQL-vé kell konvertálnia? A C++ fejles
 
 1.  Telepítse a „Aspose.Cells for C++” fájlt.
 1.  Adjon hozzá egy könyvtári hivatkozást (importálja a könyvtárat) a C++ projekthez.
-1.  TABDELIMITED fájl betöltése a Factory::CreateIWorkbook használatával.
+1.  TABDELIMITED fájl betöltése a munkafüzet segítségével.
 1.  A TABDELIMITED konvertálása SQL-re a Save() metódus meghívásával.
 1.  Szerezd meg a TABDELIMITED konverziós eredményét SQL-vé.
 
@@ -95,13 +95,12 @@ Három lehetőség közül választhat a „Aspose.Cells for C++” telepítés�
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/tabdelimited-to-emf/" name="TABDELIMITED A EMF-RE" description="Továbbfejlesztett metafájl formátum" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/tabdelimited-to-gif/" name="TABDELIMITED A GIF-RE" description="Grafikus csereformátum" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/tabdelimited-to-html/" name="TABDELIMITED A HTML-RE" description="Hyper Text Markup Language" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/tabdelimited-to-md/" name="TABLE HITELEZETT AZ MD-HEZ" description="Markdown Language" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/tabdelimited-to-md/" name="FÜLKÖZÖTT AZ MD-HEZ" description="Markdown Language" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/tabdelimited-to-mhtml/" name="TABDELIMITED A MHTML-RE" description="Weboldal archív formátuma" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/tabdelimited-to-ods/" name="TABDELIMITED A ODS-RE" description="OpenDocument táblázatfájl" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/tabdelimited-to-pdf/" name="TABDELIMITED A PDF-RE" description="Hordozható dokumentum formátum" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/tabdelimited-to-png/" name="TABDELIMITED A PNG-RE" description="Hordozható hálózati grafika" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/tabdelimited-to-svg/" name="TABDELIMITED A SVG-RE" description="Skálázható vektorgrafika" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/tabdelimited-to-tiff/" name="TABDELIMITED A TIFF-RE" description="Címkézett képformátum" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/tabdelimited-to-tsv/" name="TABDELIMITED A TSV-RE" description="Tabulátorral elválasztott értékek" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/tabdelimited-to-txt/" name="TABDELIMITED A TXT-RE" description="Szöveges dokumentum" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/tabdelimited-to-xls/" name="TABDELIMITED A XLS-RE" description="Excel bináris formátum" >}}
@@ -112,7 +111,7 @@ Három lehetőség közül választhat a „Aspose.Cells for C++” telepítés�
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/tabdelimited-to-xltm/" name="TABDELIMITED A XLTM-RE" description="Excel-makró-kompatibilis sablon" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/tabdelimited-to-xltx/" name="TABDELIMITED A XLTX-RE" description="Office OpenXML Excel sablon" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/tabdelimited-to-xml/" name="TABDELIMITED TO XML" description="Bővíthető jelölőnyelv" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/tabdelimited-to-xps/" name="TABDELIMITED A XPS-RE" description="XML papírspecifikációk" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/tabdelimited-to-xps/" name="TABDELIMITED A XPS-RE" description="XML papír specifikációk" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/tabdelimited-to-json/" name="TABDELIMITED A JSON-RE" description="JavaScript objektum jelölés" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/tabdelimited-to-jpeg/" name="TABDELIMITED A JPEG-RE" description="JPEG Kép" >}}
 

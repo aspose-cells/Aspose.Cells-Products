@@ -2,6 +2,7 @@
 title:  SVG kép/ikon beszúrása az Excel via .NET-be
 weight: 110
 description: C# forráskód SVG kép/ikon beillesztéséhez az Excelbe a .NET Framework, .NET Core, Mono vagy Xamarin platformokon.
+keywords: [C# Aspose.Cells., c# add SVG images/Icons into Excel., c# insert SVG images/Icons into Excel., c# create SVG images/Icons in Excel]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="SVG kép/ikon beszúrása az Excel via .NET-be" h2="Szúrjon be SVG képeket/ikonokat a Aspose.Cells\' API használatával szoftverek, például Microsoft vagy Open Office, Adobe PDF stb. nélkül." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="XLSX" >}}
@@ -25,7 +26,7 @@ Az Excel használatakor a következő problémákkal találkozhat:
 + Szúrjon be nagyszámú svg-képet ugyanabba az Excel-fájlba.
 + Szúrjon be svg képeket számos különböző Excel fájlba.
 
- E problémák megoldásához javasoljuk, hogy használja a[Aspose.Cells](https://products.aspose.com/cells/) könyvtár. Számos általános interfészt tartalmaz az Excel fájlok feldolgozásához, és nagyon hasznos eszköz.
+ E problémák megoldásához javasoljuk, hogy használja a[Aspose.Cells](https://products.aspose.com/cells/)könyvtár. Számos általános interfészt tartalmaz az Excel fájlok feldolgozásához, és nagyon hasznos eszköz.
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -81,7 +82,7 @@ Szüksége van az aspose.cells.dll fájlra a következő munkafolyamat kipróbá
 
 {{% /blocks/products/pf/agp/text %}}
 
-Munkafüzet objektum példányosítása. (vagy->Töltse be a XLSX fájlt a teljes elérési úttal.)
++ Munkafüzet objektum példányosítása. (vagy->Töltse be a XLSX fájlt a teljes elérési úttal.)
 + Válassza ki a munkalapot az indexén keresztül.
  + Használja a[módszer hozzáadása](https://reference.aspose.com/cells/net/aspose.cells.drawing/shapecollection/methods/addicons)ikon beszúrásához a kiválasztott munkalapba
 + Mentse a munkafüzetet XLSX formátumban.
@@ -117,7 +118,7 @@ Munkafüzet objektum példányosítása. (vagy->Töltse be a XLSX fájlt a telje
 
 {{% blocks/products/pf/agp/content h2="Körülbelül Aspose.Cells for .NET API" %}}
 
- Aspose.Cells API használható Microsoft Excel formátumok létrehozására, szerkesztésére, konvertálására és renderelésére különböző formátumokba. Ezen túlmenően használható átfogó diagramok készítésére, skálázható jelentésekre és megbízható számításokra a szoftveralkalmazásokon belül. A Aspose.Cells egy önálló API, és nem igényel olyan szoftvert, mint a Microsoft vagy az OpenOffice.
+Aspose.Cells API használható Microsoft Excel formátumok létrehozására, szerkesztésére, konvertálására és renderelésére különböző formátumokba. Ezen túlmenően használható átfogó diagramok készítésére, skálázható jelentésekre és megbízható számításokra a szoftveralkalmazásokon belül. A Aspose.Cells egy önálló API, és nem igényel olyan szoftvert, mint a Microsoft vagy az OpenOffice.
 
 {{% /blocks/products/pf/agp/content %}}
 

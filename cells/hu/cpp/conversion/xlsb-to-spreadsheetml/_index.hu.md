@@ -1,7 +1,7 @@
 ---
-title: C++ XLSB SPREADSHEETML-be – Online XLSB SPREADSHEETML konverterbe
-description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. Ingyenes online C++ A XLSB konvertálása SPREADSHEETML mentési formátumba. C++ XLSB SPREADSHEETML formátumba. Mentse a XLSB számot a SPREADSHEETML C++ számra.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ XLSB to SPREADSHEETML saveformat., Free Online XLSB to SPREADSHEETML C++., C++ Convert XLSB to SPREADSHEETML]
+title: C++ XLSB SPREADSHEETML - XLSB SPREADSHEETML konverter
+description: Aspose Excel. A XLSB-es számot gyorsan és egyszerűen SPREADSHEETML-re alakíthatja át a Aspose.Cells-es számmal. C++ Mentse a XLSB számot a SPREADSHEETML-be. Mentse el a XLSB-et SPREADSHEETML-ként a C++ használatával.
+keywords: [Aspose Excel., C++ Aspose.Cells., Convert XLSB to SPREADSHEETML in C++., Save XLSB to SPREADSHEETML using C++., C++ XLSB to SPREADSHEETML saveformat., XLSB to SPREADSHEETML Converter., C++ Save XLSB as SPREADSHEETML]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Konvertálja a XLSB-et SPREADSHEETML-re a C++-ben" h2="Nagy teljesítményű XLSB konvertálás SPREADSHEETML-be a C++ könyvtár használatával, Microsoft Excel, OpenOffice vagy Adobe Acrobat telepítése nélkül." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" sourceAdditionalConversionTag="" additionalConversionTag="SPREADSHEETML" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ XLSB to SPRE
 
 {{% blocks/products/pf/agp/content h2="A XLSB konvertálása SPREADSHEETML-re a C++ használatával" %}}
 
-Hogyan konvertálhatom a XLSB-et SPREADSHEETML-re? A Aspose.Cells for C++ könyvtárral könnyedén konvertálhatja a XLSB-et SPREADSHEETML-re, néhány sornyi kóddal programozottan.[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) képes többplatformos alkalmazásokat létrehozni, módosítani, konvertálni, renderelni és kinyomtatni az összes Excel fájlt. C++ Excel API nem csak a táblázatformátumok között konvertál, hanem Excel fájlokat is képes megjeleníteni képként, PDF, HTML, ODS, CSV, CSV, CSV, CSV, CSV, CSV, SVG, és így tovább, SVG P, 8 PT a választás,3,8 ipari szabvány szerinti dokumentumok cseréjére formátumok. A legújabb verziót közvetlenül letöltheti, csak nyissa meg[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) csomagkezelő, keresse meg a Aspose.Cells.Cpp címet, és telepítse. A következő parancsot is használhatja a Package Manager konzolból.
+ Hogyan konvertálhatom a XLSB-et SPREADSHEETML-re? A Aspose.Cells for C++ könyvtárral könnyedén konvertálhatja a XLSB-et SPREADSHEETML-re, néhány sornyi kóddal programozottan.[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) képes többplatformos alkalmazásokat létrehozni, módosítani, konvertálni, renderelni és kinyomtatni az összes Excel fájlt. C++ Az Excel API nemcsak a táblázatformátumok között konvertál, hanem Excel-fájlokat is képes megjeleníteni képként, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT és egyebekként, így tökéletes választás a szabványos formátumú dokumentumok cseréjéhez. A legújabb verziót közvetlenül letöltheti, csak nyissa meg[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) csomagkezelő, keresse meg a Aspose.Cells.Cpp címet, és telepítse. A következő parancsot is használhatja a Package Manager konzolból.
 
 {{% blocks/products/pf/agp/code-block title="Parancs" offSpacer="true" %}}
 
@@ -26,7 +26,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Mentse el a XLSB-et a SPREADSHEETML-be a C++-ben online ingyen" %}}
+{{% blocks/products/pf/agp/content h2="Mentse a XLSB-et a SPREADSHEETML-be a C++-ben" %}}
 
 A következő példa bemutatja, hogyan lehet a XLSB-et SPREADSHEETML-re konvertálni a C++-ben.
 {{% blocks/products/pf/agp/text %}}
@@ -37,7 +37,7 @@ Kövesse az egyszerű lépéseket a XLSB SPREADSHEETML formátumba konvertálás
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Ingyenes alkalmazás és mintakód a XLSB SPREADSHEETML online konvertálásához" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsb" outformat="xml" IsLandingPage="true" language="cpp" %}}
+{{% cells-convert title="Mintakód a XLSB SPREADSHEETML-lé konvertálásához" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsb" outformat="xml" IsLandingPage="true" language="cpp" %}}
 
 {{% blocks/products/pf/agp/content h2="A XLSB konvertálása SPREADSHEETML-re a C++-en keresztül" %}}
 
@@ -49,8 +49,8 @@ A XLSB fájlokat programozottan SPREADSHEETML-be kell konvertálni? A C++ fejles
 
 1.  Telepítse a „Aspose.Cells for C++” fájlt.
 1.  Adjon hozzá egy könyvtári hivatkozást (importálja a könyvtárat) a C++ projekthez.
-1.  Töltse be a XLSB fájlt a Factory::CreateIWorkbook segítségével.
-1.  XLSB konvertálása SPREADSHEETML-re a Save() metódus meghívásával.
+1.  Töltse be a XLSB fájlt a munkafüzet segítségével.
+1.  A XLSB konvertálása SPREADSHEETML-re a Save() metódus meghívásával.
 1.  Szerezze meg a XLSB konverziós eredményt SPREADSHEETML-re.
 
 {{% /blocks/products/pf/agp/content %}}
@@ -101,7 +101,6 @@ Három lehetőség közül választhat a „Aspose.Cells for C++” telepítés�
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xlsb-to-pdf/" name="XLSB-PDF" description="Hordozható dokumentum formátum" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xlsb-to-png/" name="XLSB-PNG" description="Hordozható hálózati grafika" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xlsb-to-svg/" name="XLSB-SVG" description="Skálázható vektorgrafika" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xlsb-to-tiff/" name="XLSB-TIFF" description="Címkézett képformátum" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xlsb-to-tsv/" name="XLSB-TSV" description="Tabulátorral elválasztott értékek" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xlsb-to-txt/" name="XLSB-TXT" description="Szöveges dokumentum" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xlsb-to-xls/" name="XLSB-XLS" description="Excel bináris formátum" >}}
@@ -112,7 +111,7 @@ Három lehetőség közül választhat a „Aspose.Cells for C++” telepítés�
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xlsb-to-xltm/" name="XLSB-XLTM" description="Excel-makró-kompatibilis sablon" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xlsb-to-xltx/" name="XLSB-XLTX" description="Office OpenXML Excel sablon" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xlsb-to-xml/" name="XLSB XML-RE" description="Bővíthető jelölőnyelv" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xlsb-to-xps/" name="XLSB-XPS" description="XML papírspecifikációk" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xlsb-to-xps/" name="XLSB-XPS" description="XML papír specifikációk" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xlsb-to-json/" name="XLSB-JSON" description="JavaScript objektum jelölés" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xlsb-to-jpeg/" name="XLSB-JPEG" description="JPEG Kép" >}}
 

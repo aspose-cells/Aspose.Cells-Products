@@ -2,6 +2,7 @@
 title: " Oldja fel a XLSM számú dokumentumot: via Java"
 weight: 7700
 description: Java mintakód a jelszóval védett XLSM fájl feloldásához a Java futásidejű környezet JSP/JSF alkalmazásokhoz és asztali alkalmazásokhoz.
+keywords: [Java Aspose.Cells., Java unlock XLSM files., Java how to unlock XLSM document., Java unprotect XLSM files., remove protection from XLSM files., decrypt XLSM Files using Java]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Oldja fel a XLSM Fájlok via Java számot" h2="Távolítsa el a védelmet az Excel-táblázatokról, beleértve a XLSM fájlt a Java könyvtár használatával." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSM" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSM" >}}
@@ -73,7 +74,7 @@ description: Java mintakód a jelszóval védett XLSM fájl feloldásához a Jav
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Oldja fel a XLSM fájlok zárolását a C# számon keresztül" offSpacer="" %}}
+{{% blocks/products/pf/agp/code-block title="Oldja fel a XLSM Fájlok via Java számot" offSpacer="" %}}
 
 ```cs
 

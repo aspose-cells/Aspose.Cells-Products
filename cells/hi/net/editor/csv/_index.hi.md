@@ -1,6 +1,7 @@
 ---
 title:  CSV फ़ाइलें संपादित करें via .NET
 description: .NET फ्रेमवर्क, .NET कोर, Windows एज़्योर, Mono या ज़ामरीन प्लेटफ़ॉर्म पर CSV दस्तावेज़ को संपादित करने के लिए स्रोत कोड।
+keywords: [C# Aspose.Cells., c# edit csv document., c# load csv file., c# modify csv file., c# save file to csv format]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="C# में CSV प्रारूप संपादित करें" h2="Microsoft या एडोब PDF जैसे किसी भी सॉफ़्टवेयर के उपयोग के बिना, सर्वर-साइड Aspose.Cells for .NET एपीआई का उपयोग करके मूल और उच्च प्रदर्शन CSV दस्तावेज़ संपादन।" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="DOCX" >}}
@@ -30,13 +31,15 @@ PM> Install-Package Aspose.Cells
 
 {{% blocks/products/pf/agp/text %}}
 
- के साथ एक बुनियादी दस्तावेज़ संपादन
- [Aspose.Cells for .NET](https://products.aspose.com/cells/net) 
- एपीआई को कोड की कुछ पंक्तियों के साथ किया जा सकता है।
+ के साथ एक बुनियादी दस्तावेज़ संपादन[Aspose.Cells for .NET](https://products.aspose.com/cells/net) एपीआई को कोड की कुछ पंक्तियों के साथ किया जा सकता है।
 
 {{% /blocks/products/pf/agp/text %}}
 
-{{code_steps}}
+1.  अपनी क्लास फ़ाइल में नेमस्पेस शामिल करें
+1.  अपनी नमूना फ़ाइल लोड करें.
+1.  कार्यपुस्तिका की पहली वर्कशीट तक पहुँचें।
+1.  वर्कशीट के वांछित सेल प्राप्त करें और सेल में मान डालें।
+1.  कार्यपुस्तिका को CSV फ़ाइल के रूप में सहेजने के लिए सेव विधि का उपयोग करें।
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -56,10 +59,9 @@ PM> Install-Package Aspose.Cells
 
 {{% blocks/products/pf/agp/code-block title="संपादित करें CSV फ़ाइलें - C#" offSpacer="" %}}
 
-```cs
-code here
 
-```
+{{< gist "aspose-cells-gists" "59a1901d62ea9ceb08456a818431a898" "Landingpage-editor-csv.cs" >}}
+
 
 {{% /blocks/products/pf/agp/code-block %}}
 
@@ -72,7 +74,7 @@ code here
 
     {{% blocks/products/pf/agp/content h2="" %}}
 
- Aspose.Cells API का उपयोग Microsoft एक्सेल प्रारूपों को विभिन्न प्रारूपों में बनाने, संपादित करने, परिवर्तित करने और प्रस्तुत करने के लिए किया जा सकता है। इसके अलावा, इसका उपयोग सॉफ्टवेयर अनुप्रयोगों के भीतर व्यापक चार्टिंग, स्केलेबल रिपोर्टिंग और विश्वसनीय गणना के लिए किया जा सकता है। Aspose.Cells एक स्टैंडअलोन API है और इसके लिए Microsoft या ओपनऑफिस जैसे किसी सॉफ़्टवेयर की आवश्यकता नहीं है।
+Aspose.Cells API का उपयोग Microsoft एक्सेल प्रारूपों को विभिन्न प्रारूपों में बनाने, संपादित करने, परिवर्तित करने और प्रस्तुत करने के लिए किया जा सकता है। इसके अलावा, इसका उपयोग सॉफ्टवेयर अनुप्रयोगों के भीतर व्यापक चार्टिंग, स्केलेबल रिपोर्टिंग और विश्वसनीय गणना के लिए किया जा सकता है। Aspose.Cells एक स्टैंडअलोन API है और इसके लिए Microsoft या ओपनऑफिस जैसे किसी सॉफ़्टवेयर की आवश्यकता नहीं है।
 
 
 

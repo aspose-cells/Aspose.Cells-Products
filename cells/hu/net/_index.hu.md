@@ -1,7 +1,8 @@
 ---
 title:  .NET Excel API | Process Spreadsheet Formats via .NET Core
 weight: 2030
-description: C# ASP.NET VB.NET könyvtár a Microsoft Excel dokumentumok kezeléséhez. Hozzon létre olvasási és írási mentést és nyomtasson táblázatfájlokat. Átalakítás PDF vagy több formátumra
+description: C# ASP.NET VB.NET könyvtár Excel-fájlok létrehozásához, javításához, egyesítéséhez, elemzéséhez és konvertálásához. Az Excel konvertálása PDF, JSON, XML, TSV, HTML és így tovább.
+keywords: [Aspose.Cells C# Create repair parse merge convert JSON Excel XML PDF HTML TSV SQL TXT PNG JPEG and more formats]
 ---
 {{< blocks/products/pf/main-wrap-class >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Excel Files via .NET API-k kezelése" h2="Táblázatfájlok olvasása és írása a .NET, .NET Core és Xamarin platformokon. Táblázatok exportálása más formátumokba a Microsoft Excel nélkül." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/headers/aspose_cells-for-net.svg" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="https://downloads.aspose.com/cells/net" >}}
@@ -381,7 +382,7 @@ description: C# ASP.NET VB.NET könyvtár a Microsoft Excel dokumentumok kezelé
     <em class="fa fa-commenting ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Létrehozása &amp; manipulálni a megjegyzéseket
+ Létrehozás &amp; manipulálni a megjegyzéseket
     </p>
    </div>
    <div class="col-lg-4">
@@ -402,14 +403,14 @@ description: C# ASP.NET VB.NET könyvtár a Microsoft Excel dokumentumok kezelé
     <em class="fa fa-sort-amount-desc ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Létrehozása &amp; manipulálni a megnevezett tartományokat
+ Létrehozás &amp; manipulálni a megnevezett tartományokat
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-line-chart ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Létrehozása &amp; csillogó fényeket készít
+ Létrehozás &amp; csillogó fényeket készít
     </p>
    </div>
    <div class="col-lg-4">
@@ -452,7 +453,7 @@ description: C# ASP.NET VB.NET könyvtár a Microsoft Excel dokumentumok kezelé
  Táblázatok átalakítása PDF, XPS &amp; HTML Formátumok
     </h2>
     <p>
- Aspose.Cells for .NET képes táblázatokat PDF, XPS és XPS számokra konvertálni. HTML formátumokat, miközben megőrzi a legmagasabb vizuális hűséget. Az átalakítási folyamat egyszerű, de megbízható, így a API tökéletes választás azoknak a szervezeteknek, amelyek az iparági szabványos formátumok bármelyikében kívánnak dokumentumokat cserélni.
+ Aspose.Cells for .NET képes táblázatokat PDF, XPS és XPS számokra konvertálni. HTML formátumokat, miközben megőrzi a legmagasabb vizuális hűséget. Az átalakítási folyamat egyszerű, de megbízható, így a API-es szám tökéletes választás azoknak a szervezeteknek, amelyek az ipari szabvány formátumok bármelyikében kívánnak dokumentumokat cserélni.
     </p>
     <div class="codeblock" id="code">
      <h3>

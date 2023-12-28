@@ -1,7 +1,7 @@
 ---
-title: Java IMAGE to POWERPOINT - Online IMAGE to POWERPOINT konverter
-description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Ingyenes online Java KÉP konvertálása POWERPOINT mentési formátumba. Java IMAGE POWERPOINT formátumba. Az IMAGE mentése a POWERPOINT Java számra.
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java IMAGE to POWERPOINT saveformat., Free Online IMAGE to POWERPOINT Java., Java Convert IMAGE to POWERPOINT]
+title: Java IMAGE-ból POWERPOINT-ba - IMAGE-ból POWERPOINT-ba konvertáló
+description: Aspose Excel. A Aspose.Cells-es számmal gyorsan és egyszerűen konvertálja az IMAGE-et POWERPOINT-ra. Java IMAGE POWERPOINT-ra. Java IMAGE mentése a POWERPOINT-ba. A KÉP mentése POWERPOINT néven a Java számon.
+keywords: [Aspose Excel., Java Aspose.Cells., Convert IMAGE to POWERPOINT in Java., Save IMAGE to POWERPOINT using Java., Java IMAGE to POWERPOINT saveformat., IMAGE to POWERPOINT Converter., Java Save IMAGE as POWERPOINT]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Alakítsa át az IMAGE fájlt POWERPOINT-ra a Java számon" h2="Nagysebességű Java könyvtár az IMAGE POWERPOINT-tá konvertálásához. Ez egy professzionális szoftvermegoldás IMAGE, POWERPOINT és sok más formátum importálásához és exportálásához a Java számon." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="POWERPOINT" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java IMAGE to 
 
 {{% blocks/products/pf/agp/content h2="Alakítsa át az IMAGE-ot POWERPOINT-ra a Java számon keresztül" %}}
 
- Hogyan konvertálhatom az IMAGE-ot POWERPOINT-ra? A Aspose.Cells for Java könyvtárral egyszerűen konvertálhatja az IMAGE-et POWERPOINT-tá, néhány soros kóddal programozottan.[Aspose.Cells for Java](https://products.aspose.com/cells/java) képes többplatformos alkalmazásokat létrehozni, módosítani, konvertálni, renderelni és kinyomtatni az összes Excel fájlt. Java Excel API nem csak a táblázatformátumok között konvertál, hanem Excel fájlokat is képes megjeleníteni képként, PDF, HTML, ODS, CSV, CSV, CSV, CSV, CSV, CSV, SVG, és így tovább, SVG P, 8 PT a választás,3,8 ipari szabvány szerinti dokumentumok cseréjére formátumok. A legújabb verziót közvetlenül a webhelyről töltheti le[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) és telepítse a Maven alapú projekten belül a következő konfigurációk hozzáadásával a pom.xml fájlhoz.
+ Hogyan konvertálhatom az IMAGE-ot POWERPOINT-ra? A Aspose.Cells for Java könyvtárral egyszerűen konvertálhatja az IMAGE-et POWERPOINT-tá, néhány soros kóddal programozottan.[Aspose.Cells for Java](https://products.aspose.com/cells/java)képes többplatformos alkalmazásokat létrehozni, módosítani, konvertálni, renderelni és kinyomtatni az összes Excel fájlt. Java Az Excel API nemcsak a táblázatformátumok között konvertál, hanem Excel-fájlokat is képes megjeleníteni képként, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT és egyebekként, így tökéletes választás a szabványos formátumú dokumentumok cseréjéhez. A legújabb verziót közvetlenül a webhelyről töltheti le[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) és telepítse a Maven alapú projekten belül a következő konfigurációk hozzáadásával a pom.xml fájlhoz.
 
 {{% blocks/products/pf/agp/code-block title="Adattár" offSpacer="true" %}}
 
@@ -45,7 +45,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java IMAGE to 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Mentse az IMAGE-ot a POWERPOINT-ba a Java-es számon online ingyen" %}}
+{{% blocks/products/pf/agp/content h2="Az IMAGE mentése a POWERPOINT-ba a Java számon" %}}
 
 A következő példa bemutatja, hogyan lehet az IMAGE fájlt POWERPOINT-tá konvertálni a Java-ben.
 {{% blocks/products/pf/agp/text %}}
@@ -56,7 +56,7 @@ Kövesse az egyszerű lépéseket az IMAGE POWERPOINT formátumba konvertálás�
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Ingyenes alkalmazás és mintakód az IMAGE POWERPOINT Online konvertálásához" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="png" outformat="pptx" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Mintakód az IMAGE POWERPOINT-tá konvertálásához" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="png" outformat="pptx" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="Az IMAGE konvertálása POWERPOINT via Java-re" %}}
 
@@ -125,7 +125,7 @@ Programozottan kell konvertálnia az IMAGE fájlokat POWERPOINT formátumba? A J
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/image-to-xltm/" name="KÉP: XLTM" description="Excel-makró-kompatibilis sablon" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/image-to-xltx/" name="KÉP: XLTX" description="Office OpenXML Excel sablon" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/image-to-xml/" name="KÉP XML-BE" description="Bővíthető jelölőnyelv" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/image-to-xps/" name="KÉP: XPS" description="XML papírspecifikációk" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/image-to-xps/" name="KÉP: XPS" description="XML papír specifikációk" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/image-to-json/" name="KÉP: JSON" description="JavaScript objektum jelölés" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/image-to-jpeg/" name="KÉP: JPEG" description="JPEG Kép" >}}
 

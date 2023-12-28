@@ -1,7 +1,7 @@
 ---
-title: Java एमएचटी से जेपीजी - ऑनलाइन एमएचटी से जेपीजी कनवर्टर
-description: Aspose एक्सेल। Java Aspose.Cells. Java Aspose Cells. मुफ़्त ऑनलाइन Java एमएचटी को जेपीजी सेवफॉर्मेट में कनवर्ट करें। Java एमएचटी से जेपीजी प्रारूप। MHT को JPG Java में सहेजें।
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java MHT to JPG saveformat., Free Online MHT to JPG Java., Java Convert MHT to JPG]
+title: Java एमएचटी से जेपीजी - एमएचटी से जेपीजी कनवर्टर
+description: Aspose एक्सेल। Aspose.Cells के साथ एमएचटी को जेपीजी में जल्दी और आसानी से बदलें। Java एमएचटी से जेपीजी। Java एमएचटी को जेपीजी में सहेजें। Java का उपयोग करके एमएचटी को जेपीजी के रूप में सहेजें।
+keywords: [Aspose Excel., Java Aspose.Cells., Convert MHT to JPG in Java., Save MHT to JPG using Java., Java MHT to JPG saveformat., MHT to JPG Converter., Java Save MHT as JPG]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Java में एमएचटी को जेपीजी में बदलें" h2="एमएचटी को जेपीजी में परिवर्तित करने के लिए हाई-स्पीड Java लाइब्रेरी। यह Java का उपयोग करके एमएचटी, जेपीजी और कई अन्य प्रारूपों को आयात और निर्यात करने के लिए एक पेशेवर सॉफ्टवेयर समाधान है।" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="JPG" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java MHT to JP
 
 {{% blocks/products/pf/agp/content h2="Java का उपयोग करके एमएचटी को जेपीजी में बदलें" %}}
 
- मैं एमएचटी को जेपीजी में कैसे परिवर्तित करूं? Aspose.Cells for Java लाइब्रेरी के साथ, आप कोड की कुछ पंक्तियों के साथ एमएचटी को प्रोग्रामेटिक रूप से आसानी से जेपीजी में परिवर्तित कर सकते हैं।[Aspose.Cells for Java](https://products.aspose.com/cells/java) सभी एक्सेल फ़ाइलों को उत्पन्न करने, संशोधित करने, परिवर्तित करने, प्रस्तुत करने और प्रिंट करने की क्षमता के साथ क्रॉस-प्लेटफ़ॉर्म एप्लिकेशन बनाने में सक्षम है। Java एक्सेल API न केवल स्प्रेडशीट प्रारूपों के बीच कनवर्ट कर सकता है, यह एक्सेल फाइलों को छवियों, PDF, HTML, ODS, CSV, SVG, JSON, वर्ड, पीपीटी और भी बहुत कुछ के रूप में प्रस्तुत कर सकता है, इस प्रकार यह एक्सचेंज के लिए एक आदर्श विकल्प बन जाता है। उद्योग-मानक में दस्तावेज़ प्रारूप. आप इसका नवीनतम संस्करण सीधे यहां से डाउनलोड कर सकते हैं[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) और pom.xml में निम्नलिखित कॉन्फ़िगरेशन जोड़कर इसे अपने Maven-आधारित प्रोजेक्ट में स्थापित करें।
+ मैं एमएचटी को जेपीजी में कैसे परिवर्तित करूं? Aspose.Cells for Java लाइब्रेरी के साथ, आप कोड की कुछ पंक्तियों के साथ एमएचटी को प्रोग्रामेटिक रूप से आसानी से जेपीजी में परिवर्तित कर सकते हैं।[Aspose.Cells for Java](https://products.aspose.com/cells/java)सभी एक्सेल फ़ाइलों को उत्पन्न करने, संशोधित करने, परिवर्तित करने, प्रस्तुत करने और प्रिंट करने की क्षमता के साथ क्रॉस-प्लेटफ़ॉर्म एप्लिकेशन बनाने में सक्षम है। Java एक्सेल API न केवल स्प्रेडशीट प्रारूपों के बीच परिवर्तित होता है, बल्कि यह एक्सेल फाइलों को छवियों, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT और अधिक के रूप में भी प्रस्तुत कर सकता है, इस प्रकार यह उद्योग-मानक प्रारूपों में दस्तावेजों का आदान-प्रदान करने के लिए एक आदर्श विकल्प बन जाता है। आप इसका नवीनतम संस्करण सीधे यहां से डाउनलोड कर सकते हैं[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) और pom.xml में निम्नलिखित कॉन्फ़िगरेशन जोड़कर इसे अपने Maven-आधारित प्रोजेक्ट में स्थापित करें।
 
 {{% blocks/products/pf/agp/code-block title="कोष" offSpacer="true" %}}
 
@@ -45,7 +45,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java MHT to JP
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Java में एमएचटी को जेपीजी में निःशुल्क ऑनलाइन सेव करें" %}}
+{{% blocks/products/pf/agp/content h2="Java में एमएचटी को जेपीजी में सेव करें" %}}
 
 निम्नलिखित उदाहरण दर्शाता है कि Java में एमएचटी को जेपीजी में कैसे परिवर्तित किया जाए।
 {{% blocks/products/pf/agp/text %}}
@@ -56,7 +56,7 @@ MHT को JPG में बदलने के लिए आसान चरण
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="एमएचटी को ऑनलाइन जेपीजी में बदलने के लिए निःशुल्क ऐप और नमूना कोड" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="mht" outformat="jpg" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="एमएचटी को जेपीजी में बदलने के लिए नमूना कोड" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="mht" outformat="jpg" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="एमएचटी को जेपीजी via Java में कैसे बदलें" %}}
 
@@ -97,7 +97,7 @@ MHT को JPG में बदलने के लिए आसान चरण
 
 <!-- aboutfile Starts -->
     {{< blocks/products/pf/agp/about-file-section >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="MHT" readMoreLink="https://docs.fileformat.com/web/mht/" >}}.mht एक्सटेंशन वाली फ़ाइल एक MIME सक्षम संग्रह फ़ाइल स्वरूप है जिसमें एक ही फ़ाइल में विभिन्न प्रकार के डेटा शामिल होते हैं। यह सीएसएस फाइलों, जावास्क्रिप्ट और अन्य संसाधनों के रूप में पाठ, छवियों, पेज स्टाइल जैसे डेटा को इसमें एम्बेडेड संसाधनों के रूप में संग्रहीत कर सकता है। MIME प्रकार संदेश/rfc822 वाली MHT फ़ाइलें, भंडारण उपकरणों पर संग्रहित करने के लिए HTML फ़ाइल की सभी सामग्री को एकल संग्रह फ़ाइल के रूप में समाहित करती हैं। Microsoft वर्ड जैसे सॉफ़्टवेयर एप्लिकेशन आपको एमएचटी फ़ाइल के रूप में निर्यात करके अपने वर्ड दस्तावेज़ों को एमएचटी में परिवर्तित करने की सुविधा देते हैं। एमएचटी फ़ाइलें Microsoft इंटरनेट एक्सप्लोर और Google क्रोम जैसे लोकप्रिय ब्राउज़रों का उपयोग करके खोली जा सकती हैं।{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="MHT" readMoreLink="https://docs.fileformat.com/web/mht/" >}}.mht एक्सटेंशन वाली फ़ाइल एक MIME सक्षम संग्रह फ़ाइल स्वरूप है जिसमें एक ही फ़ाइल में विभिन्न प्रकार के डेटा शामिल होते हैं। यह सीएसएस फाइलों, जावास्क्रिप्ट और अन्य संसाधनों के रूप में पाठ, छवियों, पेज स्टाइल जैसे डेटा को इसमें एम्बेडेड संसाधनों के रूप में संग्रहीत कर सकता है। MIME प्रकार संदेश/rfc822 वाली MHT फ़ाइलें, भंडारण उपकरणों पर संग्रहित करने के लिए HTML फ़ाइल की सभी सामग्री को एकल संग्रह फ़ाइल के रूप में समाहित करती हैं। Microsoft वर्ड जैसे सॉफ़्टवेयर एप्लिकेशन आपको एमएचटी फ़ाइल के रूप में निर्यात करके अपने WORD दस्तावेज़ों को एमएचटी में बदलने की सुविधा देते हैं। एमएचटी फ़ाइलें Microsoft इंटरनेट एक्सप्लोर और Google क्रोम जैसे लोकप्रिय ब्राउज़रों का उपयोग करके खोली जा सकती हैं।{{< /blocks/products/pf/agp/i18n/about-file-text >}}
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="JPG" readMoreLink="https://docs.fileformat.com/image/jpg/" >}}JPEG एक प्रकार का छवि प्रारूप है जिसे हानिपूर्ण संपीड़न की विधि का उपयोग करके सहेजा जाता है। संपीड़न के परिणामस्वरूप आउटपुट छवि, भंडारण आकार और छवि गुणवत्ता के बीच एक समझौता है। उपयोगकर्ता वांछित गुणवत्ता स्तर प्राप्त करने के लिए संपीड़न स्तर को समायोजित कर सकते हैं और साथ ही भंडारण आकार को कम कर सकते हैं। यदि छवि पर 10:1 संपीड़न लागू किया जाता है तो छवि गुणवत्ता नगण्य रूप से प्रभावित होती है। संपीड़न मान जितना अधिक होगा, छवि गुणवत्ता में गिरावट उतनी ही अधिक होगी।{{< /blocks/products/pf/agp/i18n/about-file-text >}}
     {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->

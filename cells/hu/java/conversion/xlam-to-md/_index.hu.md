@@ -12,7 +12,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java XLAM to MD saveformat., Free 
 
 {{% blocks/products/pf/agp/content h2="Konvertálja a XLAM-et MD-re a Java használatával" %}}
 
- Hogyan konvertálhatom át a XLAM-et MD-re? A Aspose.Cells for Java könyvtárral egyszerűen konvertálhatja a XLAM-et MD-vé, néhány soros kóddal programozottan.[Aspose.Cells for Java](https://products.aspose.com/cells/java) képes többplatformos alkalmazásokat létrehozni, módosítani, konvertálni, renderelni és kinyomtatni az összes Excel fájlt. Java Excel API nem csak a táblázatformátumok között konvertál, hanem Excel fájlokat is képes megjeleníteni képként, PDF, HTML, ODS, CSV, CSV, CSV, CSV, CSV, CSV, SVG, és így tovább, SVG P, 8 PT a választás,3,8 ipari szabvány szerinti dokumentumok cseréjére formátumok. A legújabb verziót közvetlenül a webhelyről töltheti le[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) és telepítse a Maven alapú projekten belül a következő konfigurációk hozzáadásával a pom.xml fájlhoz.
+ Hogyan konvertálhatom át a XLAM-et MD-re? A Aspose.Cells for Java könyvtárral egyszerűen konvertálhatja a XLAM-et MD-vé, néhány soros kóddal programozottan.[Aspose.Cells for Java](https://products.aspose.com/cells/java)képes többplatformos alkalmazásokat létrehozni, módosítani, konvertálni, renderelni és kinyomtatni az összes Excel fájlt. Java Az Excel API nemcsak a táblázatformátumok között konvertál, hanem Excel-fájlokat is képes megjeleníteni képként, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT és egyebekként, így tökéletes választás a szabványos formátumú dokumentumok cseréjéhez. A legújabb verziót közvetlenül a webhelyről töltheti le[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) és telepítse a Maven alapú projekten belül a következő konfigurációk hozzáadásával a pom.xml fájlhoz.
 
 {{% blocks/products/pf/agp/code-block title="Adattár" offSpacer="true" %}}
 
@@ -68,7 +68,7 @@ A XLAM fájlokat programozottan MD-re kell konvertálnia? A Java fejlesztők kö
 
 1.  Telepítse a „Aspose.Cells for Java” fájlt.
 1.  Adjon hozzá egy könyvtári hivatkozást (importálja a könyvtárat) a Java projekthez.
-1.  Töltse be a XLAM számú fájlt a Workbook osztály egy példányával.
+1. Töltse be a XLAM számú fájlt a Workbook osztály egy példányával.
 1.  Konvertálja a XLAM-et MD-vé a Workbook.save metódus meghívásával.
 1.  Szerezze meg a XLAM konverziós eredményt MD-vé.
 
@@ -119,7 +119,7 @@ A XLAM fájlokat programozottan MD-re kell konvertálnia? A Java fejlesztők kö
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/xlam-to-xltm/" name="XLAM-XLTM" description="Excel-makró-kompatibilis sablon" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/xlam-to-xltx/" name="XLAM-XLTX" description="Office OpenXML Excel sablon" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/xlam-to-xml/" name="XLAM XML-RE" description="Bővíthető jelölőnyelv" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/xlam-to-xps/" name="XLAM-XPS" description="XML papírspecifikációk" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/xlam-to-xps/" name="XLAM-XPS" description="XML papír specifikációk" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/xlam-to-json/" name="XLAM-JSON" description="JavaScript objektum jelölés" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/xlam-to-jpeg/" name="XLAM-JPEG" description="JPEG Kép" >}}
 

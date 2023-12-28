@@ -2,6 +2,7 @@
 title: Python via Java का उपयोग करके एक्सेल में घुमावदार आकृति कैसे बनाएं या डालें
 weight: 10
 description: Aspose.Cells' Python via Java API का उपयोग करके बिना किसी सॉफ्टवेयर जैसे Microsoft या ओपन ऑफिस, एडोब PDF आदि के बिना घुमावदार आकृति बनाएं या डालें।
+keywords: [Python Aspose.Cells., Python add curved shape., Python insert curved shape., Python create curved shape]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Python via Java का उपयोग करके एक्सेल में घुमावदार आकृति डालें" h2="Microsoft या ओपन ऑफिस, एडोब PDF आदि जैसे किसी सॉफ्टवेयर के बिना Aspose.Cells\' API का उपयोग करके घुमावदार आकार डालें।" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="" pfName="Aspose.Cells" subTitlepfName="for Python via Java" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="XLSX" >}}
@@ -37,7 +38,7 @@ description: Aspose.Cells' Python via Java API का उपयोग करक�
 
 {{% /blocks/products/pf/agp/text %}}
 
-वर्कबुक ऑब्जेक्ट को इंस्टेंट करना। (या->XLSX फ़ाइल को पूर्ण पथ के साथ लोड करें।)
++ वर्कबुक ऑब्जेक्ट को इंस्टेंट करना। (या->XLSX फ़ाइल को पूर्ण पथ के साथ लोड करें।)
 + इसके सूचकांक के माध्यम से वर्कशीट का चयन करें।
  + आकृति संग्रह का उपयोग करें[विधि जोड़ें](https://reference.aspose.com/cells/python-java/asposecells.api/shapecollection#addAutoShape(int,%20int,%20int,%20int,%20int,%20int,%20int)) चयनित वर्कशीट में एक घुमावदार आकृति सम्मिलित करने के लिए।
 + कार्यपुस्तिका को XLSX प्रारूप में सहेजें।
@@ -48,12 +49,12 @@ description: Aspose.Cells' Python via Java API का उपयोग करक�
 
 {{% blocks/products/pf/agp/text %}}
 
-Aspose.Cells for Python via Java प्लेटफ़ॉर्म-स्वतंत्र API है और इसे किसी भी प्लेटफ़ॉर्म (Windows, लिनक्स और मैकओएस) पर उपयोग किया जा सकता है, बस सुनिश्चित करें कि सिस्टम में Java 1.8 या उच्चतर है,[Python](https://www.python.org/downloads/) 3.5 या उच्चतर.
+ Aspose.Cells for Python via Java प्लेटफ़ॉर्म-स्वतंत्र API है और इसे किसी भी प्लेटफ़ॉर्म (Windows, लिनक्स और मैकओएस) पर उपयोग किया जा सकता है, बस सुनिश्चित करें कि सिस्टम में Java 1.8 या उच्चतर है,[Python](https://www.python.org/downloads/) 3.5 या उच्चतर.
  
 {{% /blocks/products/pf/agp/text %}}
 
-- कोई भी ऑपरेटिंग सिस्टम जो Python via Java स्क्रिप्ट चला सकता है, जैसे Windows, लिनक्स और मैकओएस
--  Java स्थापित करें और इसे PATH पर्यावरण चर में जोड़ें, उदाहरण के लिए:<code>PATH=C:\Program Files\Java\jdk1.8.0_131;</code>.
+-  कोई भी ऑपरेटिंग सिस्टम जो Python via Java स्क्रिप्ट चला सकता है, जैसे Windows, लिनक्स और मैकओएस
+- Java स्थापित करें और इसे PATH पर्यावरण चर में जोड़ें, उदाहरण के लिए:<code>PATH=C:\Program Files\Java\jdk1.8.0_131;</code>.
 -  Aspose.Cells for Python via Java से इंस्टॉल करें<a href="https://pypi.org/project/aspose-cells/">pypi</a> , कमांड का उपयोग इस प्रकार करें:<code>$ pip install aspose-cells</code>.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
@@ -81,7 +82,7 @@ Aspose.Cells API क्रॉस-प्लेटफॉर्म एप्लि�
 
 <!-- aboutfile Ends -->
 <!--
-{{< blocks/products/pf/agp/other-supported-section title="Other Supported Splitting Formats" subTitle="Using C#, One can also split large file into chunks of many other file formats including." >}}
+{{< blocks/products/pf/agp/other-supported-section title="Other Supported Splitting Formats" subTitle="Using Python, One can also split large file into chunks of many other file formats including." >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/splitter/ods/" name="ODS" description="OpenDocument Spreadsheet File" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/splitter/xls/" name="XLS" description="Excel Binary Format" >}}

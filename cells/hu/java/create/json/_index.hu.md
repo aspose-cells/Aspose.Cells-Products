@@ -1,7 +1,7 @@
 ---
 title: JSON létrehozása – JSON fájl létrehozása a Java-ben
-description: Aspose Excel. Java Hozzon létre JSON fájlt. Létrehozása JSON Java. Java JSON Létrehozó. Hozzon létre JSON-et a Java-ben. Hozzon létre JSON fájlt a Java használatával.
-keywords: [Aspose Excel., Java Aspose.Cells., Create JSON Java., Java JSON Creater., Create JSON file in Java., Generate JSON file in Java]
+description: Aspose Excel. Java Hozzon létre JSON fájlt gyorsan és egyszerűen a Aspose.Cells segítségével. Hozzon létre JSON fájlt a Java használatával. Hozzon létre JSON-et a Java-ben. Java3481 Létrehozása.
+keywords: [Aspose Excel., Java Aspose.Cells., Java Create JSON file., Generate JSON file in Java., Create JSON file using Java., Write data to JSON file via Java., Create a JSON file in Java., Java Generate a JSON file., Java JSON Creater]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Hozzon létre JSON fájlt a Java helyen" h2="Nagy sebességű Java könyvtár a JSON fájl létrehozásához. Ez egy professzionális szoftvermegoldás a XLSX, PDF és sok más formátum importálásához és exportálásához a Java használatával." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="JSON" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -11,7 +11,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Create JSON Java., Java JSON Creat
 
 {{% blocks/products/pf/agp/content h2="Hozzon létre JSON fájlt a Java használatával" %}}
 
- Hogyan lehet létrehozni a JSON fájlt? A Aspose.Cells for Java könyvtárral könnyedén létrehozhat JSON fájlt programozottan néhány sornyi kóddal.[Aspose.Cells for Java](https://products.aspose.com/cells/java) képes többplatformos alkalmazásokat létrehozni, módosítani, konvertálni, renderelni és kinyomtatni az összes Excel fájlt. Java Excel API nem csak a táblázatformátumok között konvertál, hanem Excel fájlokat is képes megjeleníteni képként, PDF, HTML, ODS, CSV, CSV, CSV, CSV, CSV, CSV, SVG, és így tovább, SVG P, 8 PT a választás,3,8 ipari szabvány szerinti dokumentumok cseréjére formátumok. A legújabb verziót közvetlenül a webhelyről töltheti le[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) és telepítse a Maven alapú projekten belül a következő konfigurációk hozzáadásával a pom.xml fájlhoz.
+ Hogyan lehet létrehozni a JSON fájlt? A Aspose.Cells for Java könyvtárral könnyedén létrehozhat JSON fájlt programozottan néhány sornyi kóddal.[Aspose.Cells for Java](https://products.aspose.com/cells/java)képes többplatformos alkalmazásokat létrehozni, módosítani, konvertálni, renderelni és kinyomtatni az összes Excel fájlt. Java Az Excel API nemcsak a táblázatformátumok között konvertál, hanem Excel-fájlokat is képes megjeleníteni képként, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT és egyebekként, így tökéletes választás a szabványos formátumú dokumentumok cseréjéhez. A legújabb verziót közvetlenül a webhelyről töltheti le[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) és telepítse a Maven alapú projekten belül a következő konfigurációk hozzáadásával a pom.xml fájlhoz.
 
 {{% blocks/products/pf/agp/code-block title="Adattár" offSpacer="true" %}}
 
@@ -57,7 +57,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Create JSON Java., Java JSON Creat
 1.  Hozzon létre egy példányt a[Munkafüzet osztály](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook).
 1.  A megfelelő munkalapot a getWorksheets.get() metódussal érheti el.
 1.  Jelölje ki a megfelelő cellát, írja be az értéket a kívánt cellába a cellanév használatával, például A1, B3 stb.
-1.  Mentse a munkafüzetet JSON formátumban a save() metódussal.
+1. Mentse a munkafüzetet JSON formátumban a save() metódussal.
 
 {{% blocks/products/pf/agp/code-block title="A mintakód megmutatja, hogyan kell létrehozni a JSON fájlt a Java-ben." offSpacer="" %}}
 
@@ -101,7 +101,7 @@ wkb.save("Excel.json");
 
 {{% blocks/products/pf/agp/text %}}
 
- Java konverziós mintaforráskód futtatása előtt győződjön meg arról, hogy rendelkezik a következő előfeltételekkel.
+ A Java konverziós mintaforráskód futtatása előtt győződjön meg arról, hogy rendelkezik a következő előfeltételekkel.
 
 {{% /blocks/products/pf/agp/text %}}
 

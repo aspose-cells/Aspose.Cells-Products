@@ -1,8 +1,8 @@
 ---
 title: PRN egyesítése ET-vel – PRN egyesítése ET-vel a Python-ben
 url: /hu/python-java/merger/merge-prn-to-et/ 
-description: Aspose Excel. Python Aspose.Cells. Ingyenes online egyesítése PRN ET mentési formátumba. Python Kombinálja a PRN-t ET formátumba. PRN egyesítése ET-vel a Python-ben. PRN egyesítés.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge PRN to ET in Python., Free Online Python Merge PRN to et., Python Combine PRN to ET Online for Free., PRN Merge]
+description: Aspose Excel. Python Aspose.Cells. A PRN egyesítése ET mentési formátumba. Python Kombinálja a PRN-t ET formátumba. PRN egyesítése ET-vel a Python-ben. PRN egyesítés.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge PRN to ET in Python., Python Merge PRN to et., Python Combine PRN to ET., PRN Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="A PRN egyesítése az ET-vel a Python számon keresztül" h2="Nagy sebességű Python könyvtár a PRN és az ET egyesítéséhez. Használja a API-es excel-konverziónkat magas szintű, platformfüggetlen szoftverek fejlesztéséhez a Python-ben. Ez egy professzionális szoftvermegoldás a Excel, CSV, OpenOffice, PDF, HTML, image és sok más excel formátum importálásához és exportálásához." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="PRN" additionalConversionTag="ET" pfName="Aspose.Cells" subTitlepfName="for Python" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -12,14 +12,14 @@ keywords: [Aspose Excel., Python Aspose.Cells., Merge PRN to ET in Python., Free
 
 {{% blocks/products/pf/agp/content h2="Csatlakoztassa a PRN-t az ET-hez a Python használatával" %}}
 
- Hogyan egyesíthetem a PRN-t ET-vel? A Aspose.Cells for Python via Java könyvtárral egyszerűen egyesítheti a PRN-t az ET-vel programozottan néhány sornyi kóddal.[Aspose.Cells for Python via Java](https://pypi.org/project/aspose-cells)képes többplatformos alkalmazásokat létrehozni, módosítani, konvertálni, renderelni és kinyomtatni az összes Excel fájlt. Python Excel API nem csak a táblázatformátumok között konvertál, hanem Excel fájlokat is képes megjeleníteni képként, PDF, HTML, ODS, CSV, CSV, CSV, CSV, CSV, CSV, SVG, és így tovább, SVG P, 8 PT a választás,3,8 ipari szabvány szerinti dokumentumok cseréjére formátumok. A Aspose.Cells for Python via Java számot innen telepítheti.<a href="https://pypi.org/project/aspose-cells/">pypi</a> , használja a parancsot a következőképpen:<code>$ pip install aspose-cells</code>.
+ Hogyan egyesíthetem a PRN-t ET-vel? A Aspose.Cells for Python via Java könyvtárral egyszerűen egyesítheti a PRN-t az ET-vel programozottan néhány sornyi kóddal.[Aspose.Cells for Python via Java](https://pypi.org/project/aspose-cells) képes többplatformos alkalmazásokat létrehozni, módosítani, konvertálni, renderelni és kinyomtatni az összes Excel fájlt. Python Az Excel API nemcsak a táblázatformátumok között konvertál, hanem Excel-fájlokat is képes megjeleníteni képként, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT és egyebekként, így tökéletes választás a szabványos formátumú dokumentumok cseréjéhez. Telepítheti a Aspose.Cells for Python via Java számot innen<a href="https://pypi.org/project/aspose-cells/">pypi</a> , használja a parancsot a következőképpen:<code>$ pip install aspose-cells</code>.
 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Csatlakoztassa a PRN-t az ET-hez a Python online számon ingyen" %}}
+{{% blocks/products/pf/agp/content h2="Egyesítse a PRN-t az ET-vel a Python-ben" %}}
 
-A következő példa bemutatja, hogyan egyesítheti a PRN-t ET-vel a Aspose.Cells for Python via Java számon.
+következő példa bemutatja, hogyan egyesítheti a PRN-t ET-vel a Aspose.Cells for Python via Java számon.
 {{% blocks/products/pf/agp/text %}}
 
 Kövesse az egyszerű lépéseket a PRN és az ET egyesítéséhez. Töltse fel fájljait, hívja meg a Workbook.Combine metódust a fájlok egyesítéséhez, majd mentse el ET fájlba. Ha kódot fejleszt a Python-ben, ez egyszerűbb lesz, mint amilyennek hangzik. Lásd a Python példát, amely egyesíti a PRN-t ET-vel.
@@ -28,7 +28,7 @@ Kövesse az egyszerű lépéseket a PRN és az ET egyesítéséhez. Töltse fel 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Ingyenes online a PRN és az ET egyesítése a Python számon" InputFormat="prn" InputFormat2="et" outformat="et" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-merger title="Mintakód a PRN és az ET egyesítéséhez a Python-ben" InputFormat="prn" InputFormat2="et" outformat="et" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="A PRN és az ET egyesítése a Python számon keresztül" %}}
 
@@ -73,14 +73,14 @@ API-jaink minden nagyobb platformon és operációs rendszeren támogatottak. Mi
 
 -  Telepítse a Java 1.8-as vagy újabb verziót, és adja hozzá a PATH környezeti változóhoz, például:<code>PATH=C:\Program Files\Java\jdk1.8.0_131;</code>.
 -  Telepítés[Python](https://www.python.org/downloads/) 3,5 vagy magasabb.
-- Telepítés: Aspose.Cells for Python innen<a href="https://pypi.org/project/aspose-cells/">pypi</a> , használja a parancsot a következőképpen:<code>$ pip install aspose-cells</code>.
+-  Telepítés: Aspose.Cells for Python innen<a href="https://pypi.org/project/aspose-cells/">pypi</a> , használja a parancsot a következőképpen:<code>$ pip install aspose-cells</code>.
 
 
 {{% /blocks/products/pf/agp/content %}}
 
 <!-- aboutfile Starts -->
     {{< blocks/products/pf/agp/about-file-section >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="PRN" readMoreLink="https://fileinfo.com/extension/prn/" >}}PRN-fájl a Nyomtatás fájlba jelölőnégyzet segítségével létrehozott fájl, amely a Windows-es szám egyes Nyomtatás párbeszédpaneleiben jelenik meg. Eszközspecifikus utasításokat tartalmaz, amelyeket a nyomtató, fax vagy más eszköz a dokumentum nyomtatásához használ. A PRN-fájlok szöveges vagy bináris tartalmat tartalmazhatnak, attól függően, hogy milyen eszközhöz készült a fájl.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="PRN" readMoreLink="https://fileinfo.com/extension/prn/" >}}A PRN-fájl a Nyomtatás fájlba jelölőnégyzet segítségével létrehozott fájl, amely a Windows-es szám egyes Nyomtatás párbeszédpaneleiben jelenik meg. Eszközspecifikus utasításokat tartalmaz, amelyeket a nyomtató, fax vagy más eszköz a dokumentum nyomtatásához használ. A PRN-fájlok szöveges vagy bináris tartalmat tartalmazhatnak, attól függően, hogy milyen eszközhöz készült a fájl.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="ET" readMoreLink="https://fileinfo.com/extension/et/" >}}Az ET fájl egy tanítási óra, amelyet az Easiteach készített, egy olyan program, amely lehetővé teszi a tanárok számára, hogy osztálytermi órákat fejlesszenek, és azokat egy interaktív felületen keresztül levezessék. Olyan leckeadatokat tartalmaz, mint az elrendezések, a navigáció, a képek, a szöveg, a témák és az animációk.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
     {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->
@@ -110,7 +110,7 @@ API-jaink minden nagyobb platformon és operációs rendszeren támogatottak. Mi
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-prn-to-xltm/" name="A PRN egyesítése a XLTM számmal" description="Excel-makró-kompatibilis sablon" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-prn-to-xltx/" name="A PRN egyesítése a XLTX számmal" description="Office OpenXML Excel sablon" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-prn-to-xml/" name="A PRN egyesítése XML-lel" description="Bővíthető jelölőnyelv" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-prn-to-xps/" name="A PRN egyesítése a XPS számmal" description="XML papírspecifikációk" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-prn-to-xps/" name="A PRN egyesítése a XPS számmal" description="XML papír specifikációk" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-prn-to-json/" name="A PRN egyesítése a JSON számmal" description="JavaScript objektum jelölés" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-prn-to-jpeg/" name="A PRN egyesítése a JPEG számmal" description="JPEG Kép" >}}
 

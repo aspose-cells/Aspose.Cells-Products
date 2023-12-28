@@ -1,6 +1,7 @@
 ---
 title: Területdiagramok létrehozása a Python számon keresztül
 description: Python Mintakód Területdiagramok létrehozásához Excelben a Python Library használatával. Használja ezt a kódot Területdiagram létrehozásához MS Excelben a Python alapú alkalmazáson belül.
+keywords: [Python Aspose.Cells., Python add Area Chart., Python insert Area Chart., Python create Area Chart]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
@@ -36,7 +37,7 @@ A fejlesztők könnyen létrehozhatnak egy Területdiagramot a különböző jel
  A Aspose.Cells for Python platformfüggetlen API, és bármilyen platformon használható (Windows, Linux és MacOS), csak győződjön meg arról, hogy a rendszer Java 1.8 vagy újabb verzióval rendelkezik,[Python](https://www.python.org/downloads/) 3,5 vagy magasabb.
 {{% /blocks/products/pf/agp/text %}}
 -  Telepítse a Java-et, és adja hozzá a PATH környezeti változóhoz, például:<code>PATH=C:\Program Files\Java\jdk1.8.0_131;</code>.
-- Telepítés: Aspose.Cells for Python innen<a href="https://pypi.org/project/aspose-cells/">pypi</a> , használja a parancsot a következőképpen:<code>$ pip install aspose-cells</code>.
+-  Telepítés: Aspose.Cells for Python innen<a href="https://pypi.org/project/aspose-cells/">pypi</a> , használja a parancsot a következőképpen:<code>$ pip install aspose-cells</code>.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/code-block title="A következő forráskód bemutatja, hogyan hozhat létre Területdiagramot MS Excel XLSX fájlba a Python használatával." offSpacer="" %}}

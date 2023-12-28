@@ -1,8 +1,8 @@
 ---
 title: A XLTM egyesítése az EXCEL-lel – a XLTM egyesítése az EXCEL-lel a C++-ben
 url: /hu/cpp/merger/merge-xltm-to-excel/ 
-description: Aspose Excel. C++ Aspose.Cells. Ingyenes online egyesítés XLTM EXCEL mentési formátumba. C++ Kombinálja a XLTM-et EXCEL formátumba. A XLTM egyesítése az EXCEL-lel a C++-ben. XLTM Egyesítés.
-keywords: [Aspose Excel., C++ Aspose.Cells., Merge XLTM to EXCEL in C++., Free Online C++ Merge XLTM to excel., C++ Combine XLTM to EXCEL Online for Free., XLTM Merge]
+description: Aspose Excel. C++ Aspose.Cells. A XLTM egyesítése EXCEL mentési formátumba. C++ Kombinálja a XLTM-et EXCEL formátumba. A XLTM egyesítése az EXCEL-lel a C++-ben. XLTM Egyesítés.
+keywords: [Aspose Excel., C++ Aspose.Cells., Merge XLTM to EXCEL in C++., C++ Merge XLTM to excel., C++ Combine XLTM to EXCEL., XLTM Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="A XLTM egyesítése az EXCEL-lel a C++ számon keresztül" h2="Nagy sebességű C++-es könyvtár a XLTM-es EXCEL-hez való egyesítéséhez. Használja a API-es excel-konverziónkat magas szintű, platformfüggetlen szoftverek fejlesztéséhez a C++-ben. Ez egy professzionális szoftvermegoldás a Excel, CSV, OpenOffice, PDF, HTML, image és sok más excel formátum importálásához és exportálásához." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" sourceAdditionalConversionTag="XLTM" additionalConversionTag="EXCEL" pfName="Aspose.Cells" subTitlepfName="for C++" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., C++ Aspose.Cells., Merge XLTM to EXCEL in C++., Free O
 
 {{% blocks/products/pf/agp/content h2="A XLTM egyesítése az EXCEL-lel a C++ használatával" %}}
 
- Hogyan egyesíthetem a XLTM-es számot az EXCEL-lel? A Aspose.Cells for C++ könyvtárral egyszerűen egyesítheti a XLTM-et az EXCEL-lel, néhány soros kóddal.[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) képes többplatformos alkalmazásokat létrehozni, módosítani, konvertálni, renderelni és kinyomtatni az összes Excel fájlt. C++ Excel API nem csak a táblázatformátumok között konvertál, hanem Excel fájlokat is képes megjeleníteni képként, PDF, HTML, ODS, CSV, CSV, CSV, CSV, CSV, CSV, SVG, és így tovább, SVG P, 8 PT a választás,3,8 ipari szabvány szerinti dokumentumok cseréjére formátumok. A legújabb verziót közvetlenül letöltheti, csak nyissa meg[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) csomagkezelő, keresse meg a Aspose.Cells.Cpp címet, és telepítse. A következő parancsot is használhatja a Package Manager konzolból.
+ Hogyan egyesíthetem a XLTM-es számot az EXCEL-lel? A Aspose.Cells for C++ könyvtárral egyszerűen egyesítheti a XLTM-et az EXCEL-lel, néhány soros kóddal.[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) képes többplatformos alkalmazásokat létrehozni, módosítani, konvertálni, renderelni és kinyomtatni az összes Excel fájlt. C++ Az Excel API nemcsak a táblázatformátumok között konvertál, hanem Excel-fájlokat is képes megjeleníteni képként, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT és egyebekként, így tökéletes választás a szabványos formátumú dokumentumok cseréjéhez. A legújabb verziót közvetlenül letöltheti, csak nyissa meg[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) csomagkezelő, keresse meg a Aspose.Cells.Cpp címet, és telepítse. A következő parancsot is használhatja a Package Manager konzolból.
 
 {{% blocks/products/pf/agp/code-block title="Parancs" offSpacer="true" %}}
 
@@ -26,7 +26,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Csatlakoztassa a XLTM-et az EXCEL-hez a C++-es online ingyen" %}}
+{{% blocks/products/pf/agp/content h2="A XLTM egyesítése az EXCEL-lel a C++-ben" %}}
 
 következő példa bemutatja, hogyan lehet egyesíteni a XLTM-et az EXCEL-lel a Aspose.Cells for C++-ben.
 {{% blocks/products/pf/agp/text %}}
@@ -37,7 +37,7 @@ Kövesse az egyszerű lépéseket a XLTM EXCEL-lel való egyesítéséhez. Tölt
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Ingyenes online összevonás a XLTM-es EXCEL-lel a C++-ben" InputFormat="xltm" InputFormat2="xlsx" outformat="xlsx" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="cpp" %}}
+{{% cells-merger title="Mintakód a XLTM egyesítéséhez az EXCEL-hez a C++-ben" InputFormat="xltm" InputFormat2="xlsx" outformat="xlsx" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="cpp" %}}
 
 {{% blocks/products/pf/agp/content h2="A XLTM és az EXCEL egyesítése a C++ számon keresztül" %}}
 
@@ -107,7 +107,6 @@ API-jaink minden nagyobb platformon és operációs rendszeren támogatottak. Mi
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xltm-to-pdf/" name="XLTM és a PDF számok egyesítése" description="Hordozható dokumentum formátum" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xltm-to-png/" name="XLTM és a PNG számok egyesítése" description="Hordozható hálózati grafika" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xltm-to-svg/" name="XLTM és a SVG számok egyesítése" description="Skálázható vektorgrafika" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xltm-to-tiff/" name="XLTM és a TIFF számok egyesítése" description="Címkézett képformátum" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xltm-to-tsv/" name="XLTM és a TSV számok egyesítése" description="Tabulátorral elválasztott értékek" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xltm-to-txt/" name="XLTM és a TXT számok egyesítése" description="Szöveges dokumentum" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xltm-to-xls/" name="XLTM és a XLS számok egyesítése" description="Excel bináris formátum" >}}
@@ -117,8 +116,8 @@ API-jaink minden nagyobb platformon és operációs rendszeren támogatottak. Mi
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xltm-to-xlt/" name="XLTM és a XLT számok egyesítése" description="Microsoft Excel-sablon" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xltm-to-xltm/" name="XLTM és a XLTM számok egyesítése" description="Excel-makró-kompatibilis sablon" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xltm-to-xltx/" name="XLTM és a XLTX számok egyesítése" description="Office OpenXML Excel sablon" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xltm-to-xml/" name="A XLTM egyesítése XML-be" description="Bővíthető jelölőnyelv" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xltm-to-xps/" name="XLTM és a XPS számok egyesítése" description="XML papírspecifikációk" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xltm-to-xml/" name="Egyesítse a XLTM-et XML-be" description="Bővíthető jelölőnyelv" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xltm-to-xps/" name="XLTM és a XPS számok egyesítése" description="XML papír specifikációk" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xltm-to-json/" name="XLTM és a JSON számok egyesítése" description="JavaScript objektum jelölés" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xltm-to-jpeg/" name="XLTM és a JPEG számok egyesítése" description="JPEG Kép" >}}
 

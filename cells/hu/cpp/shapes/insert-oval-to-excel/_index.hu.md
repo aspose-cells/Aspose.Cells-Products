@@ -2,6 +2,7 @@
 title:  Illessze be az Oválist az Excelbe a C++ számon keresztül
 weight: 40
 description: C++ példakód az Oval beszúrására a C++ futásidejű Excel-fájlba a Windows 32 bites, Windows 64 bites és Linux 64 bites futási környezethez.
+keywords: [C++ Aspose.Cells., C++ add Oval shape., C++ insert Oval shape., C++ create Oval shape]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Illessze be az Oválist az Excelbe a C++ számon keresztül" h2="Szúrjon be objektumokat a Aspose.Cells for C++ API szerveroldali natív és nagy teljesítményű szoftverek (például Microsoft vagy Adobe PDF) használata nélkül." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" sourceAdditionalConversionTag="" additionalConversionTag="" pfName="Aspose.Cells" subTitlepfName="for C++" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="XLSX" >}}
@@ -35,9 +36,9 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% blocks/products/pf/agp/feature-section-col title="Az ovális fájl Excelbe való beszúrásának lépései a C++ számon keresztül" %}}
 
-Munkafüzet objektum példányosítása. (vagy->Töltse be a XLSX fájlt a teljes elérési úttal.)
++ Munkafüzet objektum példányosítása. (vagy->Töltse be a XLSX fájlt a teljes elérési úttal.)
 + Válassza ki a munkalapot az indexén keresztül.
- + Használja a[módszer hozzáadása](https://reference.aspose.com/cells/cpp/class/aspose.cells.drawing.i_shape_collection#a90bc960de1b4a6d6beaf6c7cc4651bc2) az Egyenlet alakzatok beszúrásához a kiválasztott munkalapba
+ + Használja a[módszer hozzáadása](https://reference.aspose.com/cells/cpp/aspose.cells.drawing/shapecollection/addoval/) az Egyenlet alakzatok beszúrásához a kiválasztott munkalapba
 + Mentse a munkafüzetet XLSX formátumban.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
@@ -62,7 +63,7 @@ Munkafüzet objektum példányosítása. (vagy->Töltse be a XLSX fájlt a telje
 
 {{% blocks/products/pf/agp/code-block title="Ovális betét - C++" offSpacer="" %}}
 
-{{< gist "aspose-cells-gists" "6f7d9819d85793c3a3b5d040af42e1a9" "InsertOvalIntoWorksheet.cpp" >}}
+{{< gist "aspose-cells-gists" "6f7d9819d85793c3a3b5d040af42e1a9" "InsertOvalIntoWorksheet-new.cpp" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 
@@ -74,7 +75,7 @@ Munkafüzet objektum példányosítása. (vagy->Töltse be a XLSX fájlt a telje
 
 {{% blocks/products/pf/agp/content h2="Körülbelül Aspose.Cells for C++ API" %}}
 
- Aspose.Cells API használható Microsoft Excel formátumok létrehozására, szerkesztésére, konvertálására és renderelésére különböző formátumokba. Ezen túlmenően használható átfogó diagramok készítésére, skálázható jelentésekre és megbízható számításokra a szoftveralkalmazásokon belül. A Aspose.Cells egy önálló API, és nem igényel olyan szoftvert, mint a Microsoft vagy az OpenOffice.
+Aspose.Cells API használható Microsoft Excel formátumok létrehozására, szerkesztésére, konvertálására és renderelésére különböző formátumokba. Ezen túlmenően használható átfogó diagramok készítésére, skálázható jelentésekre és megbízható számításokra a szoftveralkalmazásokon belül. A Aspose.Cells egy önálló API, és nem igényel olyan szoftvert, mint a Microsoft vagy az OpenOffice.
 
 {{% /blocks/products/pf/agp/content %}}
 

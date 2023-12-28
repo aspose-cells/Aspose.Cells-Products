@@ -1,8 +1,8 @@
 ---
 title: MHTML को पावरपॉइंट में मर्ज करें - C# में MHTML को पावरपॉइंट में मिलाएं
 url: /hi/net/merger/merge-mhtml-to-powerpoint/ 
-description: "Aspose एक्सेल। C# Aspose.Cells. नि:शुल्क ऑनलाइन MHTML को पॉवरपॉइंट सेवफॉर्मेट में मर्ज करें। C# MHTML को पावरपॉइंट प्रारूप में संयोजित करें। MHTML को C# में पावरपॉइंट में मर्ज करें। MHTML मर्ज करें।"
-keywords: [Aspose Excel., C# Aspose.Cells., Merge MHTML to POWERPOINT in C#., Free Online C# Merge MHTML to powerpoint., C# Combine MHTML to POWERPOINT Online for Free., MHTML Merge]
+description: Aspose एक्सेल। C# Aspose.Cells. MHTML को पावरपॉइंट सेवफॉर्मेट में मर्ज करें। C# MHTML को पावरपॉइंट प्रारूप में संयोजित करें। MHTML को C# में पावरपॉइंट में मर्ज करें। MHTML मर्ज करें।
+keywords: [Aspose Excel., C# Aspose.Cells., Merge MHTML to POWERPOINT in C#., C# Merge MHTML to powerpoint., C# Combine MHTML to POWERPOINT., MHTML Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="MHTML को C# के माध्यम से पावरपॉइंट में मर्ज करें" h2="MHTML को पावरपॉइंट में विलय करने के लिए हाई-स्पीड C# लाइब्रेरी। C# में उच्च-स्तरीय, प्लेटफ़ॉर्म स्वतंत्र सॉफ़्टवेयर विकसित करने के लिए हमारे एक्सेल रूपांतरण API का उपयोग करें। यह Excel, CSV, OpenOffice, PDF, HTML, image और कई अन्य एक्सेल प्रारूपों को आयात और निर्यात करने के लिए एक पेशेवर सॉफ़्टवेयर समाधान है।" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="MHTML" additionalConversionTag="POWERPOINT" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., C# Aspose.Cells., Merge MHTML to POWERPOINT in C#., Fr
 
 {{% blocks/products/pf/agp/content h2="C# का उपयोग करके MHTML को पावरपॉइंट में मर्ज करें" %}}
 
- मैं MHTML को पावरपॉइंट में कैसे मर्ज करूं? Aspose.Cells for .NET लाइब्रेरी के साथ, आप कोड की कुछ पंक्तियों के साथ प्रोग्रामेटिक रूप से MHTML को पावरपॉइंट में आसानी से मर्ज कर सकते हैं।[Aspose.Cells for .NET](https://products.aspose.com/cells/net)सभी एक्सेल फ़ाइलों को उत्पन्न करने, संशोधित करने, परिवर्तित करने, प्रस्तुत करने और प्रिंट करने की क्षमता के साथ क्रॉस-प्लेटफ़ॉर्म एप्लिकेशन बनाने में सक्षम है। .NET एक्सेल API न केवल स्प्रेडशीट प्रारूपों के बीच कनवर्ट कर सकता है, यह एक्सेल फाइलों को छवियों, PDF, HTML, ODS, CSV, SVG, JSON, वर्ड, पीपीटी और भी बहुत कुछ के रूप में प्रस्तुत कर सकता है, इस प्रकार यह एक्सचेंज के लिए एक आदर्श विकल्प बन जाता है। उद्योग-मानक में दस्तावेज़ प्रारूप. खुला[NuGet](https://www.nuget.org/packages/aspose.cells) पैकेज मैनेजर, Aspose.Cells खोजें और इंस्टॉल करें। आप पैकेज मैनेजर कंसोल से निम्न कमांड का भी उपयोग कर सकते हैं।
+ मैं MHTML को पावरपॉइंट में कैसे मर्ज करूं? Aspose.Cells for .NET लाइब्रेरी के साथ, आप कोड की कुछ पंक्तियों के साथ प्रोग्रामेटिक रूप से MHTML को पावरपॉइंट में आसानी से मर्ज कर सकते हैं।[Aspose.Cells for .NET](https://products.aspose.com/cells/net)सभी एक्सेल फ़ाइलों को उत्पन्न करने, संशोधित करने, परिवर्तित करने, प्रस्तुत करने और प्रिंट करने की क्षमता के साथ क्रॉस-प्लेटफ़ॉर्म एप्लिकेशन बनाने में सक्षम है। .NET एक्सेल API न केवल स्प्रेडशीट प्रारूपों के बीच परिवर्तित होता है, बल्कि यह एक्सेल फाइलों को छवियों, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT और अधिक के रूप में भी प्रस्तुत कर सकता है, इस प्रकार यह उद्योग-मानक प्रारूपों में दस्तावेजों का आदान-प्रदान करने के लिए एक आदर्श विकल्प बन जाता है। खुला[NuGet](https://www.nuget.org/packages/aspose.cells) पैकेज मैनेजर, Aspose.Cells खोजें और इंस्टॉल करें। आप पैकेज मैनेजर कंसोल से निम्न कमांड का भी उपयोग कर सकते हैं।
 
 {{% blocks/products/pf/agp/code-block title="पैकेज मैनेजर कंसोल कमांड" offSpacer="true" %}}
 
@@ -26,7 +26,7 @@ PM> Install-Package Aspose.Cells
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="MHTML को पावरपॉइंट में C# में निःशुल्क ऑनलाइन मर्ज करें" %}}
+{{% blocks/products/pf/agp/content h2="MHTML को C# में पावरपॉइंट में मर्ज करें" %}}
 
 निम्नलिखित उदाहरण दर्शाता है कि Aspose.Cells for .NET में MHTML को पावरपॉइंट में कैसे मर्ज किया जाए।
 {{% blocks/products/pf/agp/text %}}
@@ -37,7 +37,7 @@ MHTML को पावरपॉइंट में मर्ज करने क
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="MHTML को C# में पावरपॉइंट में मर्ज करने के लिए निःशुल्क ऑनलाइन" InputFormat="mhtml" InputFormat2="pptx" outformat="pptx" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="net" %}}
+{{% cells-merger title="MHTML को C# में पावरपॉइंट में मर्ज करने के लिए नमूना कोड" InputFormat="mhtml" InputFormat2="pptx" outformat="pptx" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="net" %}}
 
 {{% blocks/products/pf/agp/content h2="MHTML को C# के माध्यम से पावरपॉइंट में कैसे मर्ज करें" %}}
 
@@ -88,7 +88,7 @@ MHTML को पावरपॉइंट में मर्ज करने क
 <!-- aboutfile Starts -->
     {{< blocks/products/pf/agp/about-file-section >}}
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="MHTML" readMoreLink="https://docs.fileformat.com/web/mhtml/" >}}MHTML एक्सटेंशन वाली फ़ाइलें एक वेब पेज संग्रह प्रारूप का प्रतिनिधित्व करती हैं जिसे कई अलग-अलग अनुप्रयोगों द्वारा बनाया जा सकता है। इस प्रारूप को संग्रह प्रारूप के रूप में जाना जाता है क्योंकि यह वेब HTML कोड और संबंधित संसाधनों को एक ही फ़ाइल में सहेजता है। इन संसाधनों में वेबपेज से जुड़ी कुछ भी चीजें शामिल हैं जैसे कि छवियां, एप्लेट्स, एनिमेशन, ऑडियो फ़ाइलें इत्यादि। MHTML फ़ाइलें इंटरनेट एक्सप्लोरर और Microsoft वर्ड जैसे विभिन्न अनुप्रयोगों में खोली जा सकती हैं। Microsoft Windows Windows पर किसी भी एप्लिकेशन के उपयोग के दौरान देखी गई समस्याओं के परिदृश्यों को रिकॉर्ड करने के लिए MHTML फ़ाइल प्रारूप का उपयोग करता है जो समस्याएं पैदा करता है। MHTML फ़ाइल प्रारूप संदेश/आरएफसी822 में परिभाषित विशिष्टताओं के समान पृष्ठ सामग्री को एनकोड करता है जो कि सादा पाठ ईमेल से संबंधित विशिष्टताएं हैं।{{< /blocks/products/pf/agp/i18n/about-file-text >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="POWERPOINT" readMoreLink="https://docs.fileformat.com/presentation/pptx/" >}}PPTX एक्सटेंशन वाली फ़ाइलें लोकप्रिय Microsoft PowerPoint एप्लिकेशन के साथ बनाई गई प्रस्तुति फ़ाइलें हैं। प्रेजेंटेशन फ़ाइल प्रारूप पीपीटी के पिछले संस्करण के विपरीत, जो बाइनरी था, PPTX प्रारूप Microsoft PowerPoint ओपन XML प्रेजेंटेशन फ़ाइल प्रारूप पर आधारित है। प्रेजेंटेशन फ़ाइल स्लाइडों का एक संग्रह है जहां प्रत्येक स्लाइड में टेक्स्ट, चित्र, फ़ॉर्मेटिंग, एनिमेशन और अन्य मीडिया शामिल हो सकते हैं। इन स्लाइडों को कस्टम प्रेजेंटेशन सेटिंग्स के साथ स्लाइड शो के रूप में दर्शकों के सामने प्रस्तुत किया जाता है।{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="POWERPOINT" readMoreLink="https://docs.fileformat.com/presentation/pptx/" >}}PPTX एक्सटेंशन वाली फ़ाइलें लोकप्रिय Microsoft PowerPoint एप्लिकेशन के साथ बनाई गई प्रस्तुति फ़ाइलें हैं। प्रेजेंटेशन फ़ाइल प्रारूप PPT के पिछले संस्करण के विपरीत, जो बाइनरी था, PPTX प्रारूप Microsoft PowerPoint ओपन एक्सएमएल प्रेजेंटेशन फ़ाइल प्रारूप पर आधारित है। प्रेजेंटेशन फ़ाइल स्लाइडों का एक संग्रह है जहां प्रत्येक स्लाइड में टेक्स्ट, चित्र, फ़ॉर्मेटिंग, एनिमेशन और अन्य मीडिया शामिल हो सकते हैं। इन स्लाइडों को कस्टम प्रेजेंटेशन सेटिंग्स के साथ स्लाइड शो के रूप में दर्शकों के सामने प्रस्तुत किया जाता है।{{< /blocks/products/pf/agp/i18n/about-file-text >}}
     {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->
 

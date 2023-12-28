@@ -2,6 +2,7 @@
 title:  XLSM फ़ाइल प्रारूप via .NET देखें
 weight: 9980
 description: .NET फ्रेमवर्क, .NET कोर, Mono या ज़ामरिन प्लेटफ़ॉर्म पर XLSM दस्तावेज़ों को लोड करने, प्रस्तुत करने और प्रदर्शित करने के लिए C# स्रोत कोड।
+keywords: [C# Aspose.Cells., c# view XLSM files., c# how to render XLSM document., c# load and display XLSM files., XLSM File Viewer using C#]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="XLSM फ़ाइल व्यूअर for .NET" h2="Microsoft एक्सेल या ऑफिस ऑटोमेशन की आवश्यकता के बिना एक्सेल और ओपनऑफिस स्प्रेडशीट जैसे XLSM देखें।" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSM" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSM" >}}
@@ -43,7 +44,7 @@ PM> Install-Package Aspose.Cells
 
 1.  कार्यपुस्तिका के उदाहरण में XLSM फ़ाइल लोड करें
 1.  HtmlSaveOptions का एक उदाहरण बनाएं और एक्सपोर्टहेडिंग्स प्रॉपर्टी को सत्य पर सेट करें
-1.  वर्कबुक.सेव विधि का उपयोग करके XLSM फ़ाइल को HTML प्रारूप में सहेजें
+1. वर्कबुक.सेव विधि का उपयोग करके XLSM फ़ाइल को HTML प्रारूप में सहेजें
 1.  परिणामी HTML को प्रोसेस.स्टार्ट के साथ डिफ़ॉल्ट ब्राउज़र में लोड करें
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

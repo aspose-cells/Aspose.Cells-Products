@@ -2,6 +2,7 @@
 title:  XLSB फ़ाइलें मेटाडेटा via .NET देखें या संपादित करें
 weight: 7890
 description: .NET फ्रेमवर्क, .NET कोर, Mono या ज़ामरिन प्लेटफ़ॉर्म पर XLSB प्रारूप मेटाडेटा को संपादित करने या देखने के लिए C# स्रोत कोड।
+keywords: [C# Aspose.Cells., c# view xlsb metadata., c# add xlsb metadata., c# insert xlsb metadata., c# edit xlsb metadata., c# remove xlsb metadata., c# extract xlsb metadata., c# modify xlsb metadata]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="XLSB मेटाडेटा via .NET निकालें" h2="सर्वर-साइड एपीआई का उपयोग करके XLSB फ़ाइलों से मेटाडेटा जोड़ने, संपादित करने, हटाने या निकालने के लिए अपने स्वयं के .NET ऐप्स बनाएं।" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSB" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="PPTX" fileiconsmall2="DOCX" fileiconsmall3="XLSX" fileiconsmall4="PDF" fileiconsmall5=" ODP " >}}

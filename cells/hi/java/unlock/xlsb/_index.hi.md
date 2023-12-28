@@ -2,6 +2,7 @@
 title:  अनलॉक XLSB दस्तावेज़ via Java
 weight: 5860
 description: जेएसपी/जेएसएफ एप्लिकेशन और डेस्कटॉप एप्लिकेशन के लिए Java रनटाइम एनवायरनमेंट पर पासवर्ड संरक्षित XLSB फ़ाइल को अनलॉक करने के लिए Java नमूना कोड।
+keywords: [Java Aspose.Cells., Java unlock XLSB files., Java how to unlock XLSB document., Java unprotect XLSB files., remove protection from XLSB files., decrypt XLSB Files using Java]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="अनलॉक XLSB फ़ाइलें via Java" h2="Java लाइब्रेरी का उपयोग करके XLSB फ़ाइल सहित एक्सेल स्प्रेडशीट से सुरक्षा हटाएँ।" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSB" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSB" >}}
@@ -73,7 +74,7 @@ description: जेएसपी/जेएसएफ एप्लिकेशन �
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="C# के माध्यम से XLSB फ़ाइलें अनलॉक करें" offSpacer="" %}}
+{{% blocks/products/pf/agp/code-block title="अनलॉक XLSB फ़ाइलें via Java" offSpacer="" %}}
 
 ```cs
 

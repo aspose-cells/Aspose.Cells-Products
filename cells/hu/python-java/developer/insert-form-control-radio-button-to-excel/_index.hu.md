@@ -2,6 +2,7 @@
 title:  Illessze be a RadioButtont (Űrlapvezérlőt) az Excelbe a Python via java használatával
 weight: 60
 description: Python via Java forráskód a RadioButton (Űrlapvezérlő) beillesztéséhez az Excelbe.
+keywords: [Python via Java Aspose.Cells., Python via Java add RadioButton into Excel., Python via Java insert RadioButton into Excel., Python via Java create RadioButton in Excel]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Illessze be a RadioButtont (Űrlapvezérlőt) az Excelbe a Python via java használatával" h2="Szerveroldali API-k használatával szúrjon be objektumokat szoftver nélkül, például Microsoft vagy Open Office, Adobe PDF stb." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="" pfName="Aspose.Cells" subTitlepfName="for Python via Java" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="XLSX" >}}
@@ -29,7 +30,7 @@ description: Python via Java forráskód a RadioButton (Űrlapvezérlő) beilles
 
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
-{{% blocks/products/pf/agp/feature-section-col title="A RadioButton (Űrlapvezérlő) beszúrásának lépései az Excel fájlba a Python via java használatával" %}}
+{{% blocks/products/pf/agp/feature-section-col title="RadioButton (Űrlapvezérlő) beszúrásának lépései az Excel fájlba a Python via java használatával" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
@@ -37,7 +38,7 @@ Szüksége van a Aspose.Cells-es számra a következő munkafolyamat kipróbál�
 
 {{% /blocks/products/pf/agp/text %}}
 
-Munkafüzet objektum példányosítása. (vagy->Töltse be a XLSX fájlt a teljes elérési úttal.)
++ Munkafüzet objektum példányosítása. (vagy->Töltse be a XLSX fájlt a teljes elérési úttal.)
 + Válassza ki a munkalapot az indexén keresztül.
  + Használja az alakgyűjteményt[módszer hozzáadása](https://reference.aspose.com/cells/python-java/asposecells.api/shapecollection#addRadioButton(int,%20int,%20int,%20int,%20int,%20int)) egy RadioButton (Űrlapvezérlő) beszúrásához a kiválasztott munkalapba.
 + Mentse a munkafüzetet XLSX formátumban.
@@ -52,8 +53,8 @@ Munkafüzet objektum példányosítása. (vagy->Töltse be a XLSX fájlt a telje
  
 {{% /blocks/products/pf/agp/text %}}
 
-- Bármilyen operációs rendszer, amely képes futtatni Python via Java szkripteket, például Windows, Linux és MacOS
--  Telepítse a Java-et, és adja hozzá a PATH környezeti változóhoz, például:<code>PATH=C:\Program Files\Java\jdk1.8.0_131;</code>.
+-  Bármilyen operációs rendszer, amely képes futtatni Python via Java szkripteket, például Windows, Linux és MacOS
+- Telepítse a Java-et, és adja hozzá a PATH környezeti változóhoz, például:<code>PATH=C:\Program Files\Java\jdk1.8.0_131;</code>.
 -  Telepítse a Aspose.Cells for Python számot javával innen<a href="https://pypi.org/project/aspose-cells/">pypi</a> , használja a parancsot a következőképpen:<code>$ pip install aspose-cells</code>.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

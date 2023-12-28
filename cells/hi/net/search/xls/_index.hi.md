@@ -2,6 +2,7 @@
 title:  via .NET खोले बिना XLS दस्तावेज़ खोजें
 weight: 1490
 description: .NET फ्रेमवर्क, .NET कोर, Mono या ज़ामरिन प्लेटफ़ॉर्म पर XLS फ़ाइल में पैटर्न वाले शब्दों को खोजने के लिए C# स्रोत कोड।
+keywords: [C# Aspose.Cells., c# search words with pattern in xls file., c# find words with pattern in xls file., c# search string with pattern in xls file., c# find words with pattern in xls file., c# search words in xls file., c# find words in xls file., c# search string in xls file., c# find string in xls file]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="C# में XLS प्रारूप खोजें" h2="Microsoft या एडोब PDF जैसे किसी भी सॉफ़्टवेयर के उपयोग के बिना, सर्वर-साइड Aspose.Cells for .NET एपीआई का उपयोग करके मूल और उच्च प्रदर्शन XLS दस्तावेज़ खोज।" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="XLS" >}}
@@ -13,7 +14,7 @@ description: .NET फ्रेमवर्क, .NET कोर, Mono या ज�
 
  XLS फ़ाइल को खोजने के लिए, हम इसका उपयोग करेंगे
  [Aspose.Cells for .NET](https://products.aspose.com/cells/net) 
-API जो C# प्लेटफॉर्म के लिए API पर दस्तावेज़ खोजने के लिए एक सुविधा संपन्न, शक्तिशाली और उपयोग में आसान दस्तावेज़ है। खुला
+ API जो C# प्लेटफॉर्म के लिए API पर दस्तावेज़ खोजने के लिए एक सुविधा संपन्न, शक्तिशाली और उपयोग में आसान दस्तावेज़ है। खुला
  [NuGet](https://www.nuget.org/packages/aspose.cells) 
  पैकेज मैनेजर, खोजें
  **Aspose.Cells** 

@@ -1,7 +1,7 @@
 ---
-title: Java SXC - FODS - Online SXC - FODS Átalakító
-description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Ingyenes online Java A SXC konvertálása FODS mentési formátumra. Java SXC - FODS formátum. Mentse a SXC számot a FODS Java számra.
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java SXC to FODS saveformat., Free Online SXC to FODS Java., Java Convert SXC to FODS]
+title: Java SXC - FODS - SXC - FODS Átalakító
+description: Aspose Excel. A SXC-es számot FODS-re gyorsan és egyszerűen a Aspose.Cells-es számmal alakíthatja át. Java SXC-FODS-re. 13481 a Java számon.
+keywords: [Aspose Excel., Java Aspose.Cells., Convert SXC to FODS in Java., Save SXC to FODS using Java., Java SXC to FODS saveformat., SXC to FODS Converter., Java Save SXC as FODS]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Konvertálja a SXC-et FODS-re Java-ben" h2="Nagysebességű Java könyvtár a SXC FODS-es számok konvertálásához. Ez egy professzionális szoftvermegoldás a SXC, FODS és sok más formátum importálásához és exportálásához a Java szám használatával." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="FODS" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java SXC to FO
 
 {{% blocks/products/pf/agp/content h2="A SXC konvertálása FODS-re a Java használatával" %}}
 
-Hogyan alakíthatom át a SXC-et FODS-re? A Aspose.Cells for Java könyvtárral egyszerűen konvertálhatja a SXC-et programozottan FODS-re néhány sor kóddal.[Aspose.Cells for Java](https://products.aspose.com/cells/java) képes többplatformos alkalmazásokat létrehozni, módosítani, konvertálni, renderelni és kinyomtatni az összes Excel fájlt. Java Excel API nem csak a táblázatformátumok között konvertál, hanem Excel fájlokat is képes megjeleníteni képként, PDF, HTML, ODS, CSV, CSV, CSV, CSV, CSV, CSV, SVG, és így tovább, SVG P, 8 PT a választás,3,8 ipari szabvány szerinti dokumentumok cseréjére formátumok. A legújabb verziót közvetlenül a webhelyről töltheti le[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) és telepítse a Maven alapú projekten belül a következő konfigurációk hozzáadásával a pom.xml fájlhoz.
+Hogyan alakíthatom át a SXC-et FODS-re? A Aspose.Cells for Java könyvtárral egyszerűen konvertálhatja a SXC-et programozottan FODS-re néhány sor kóddal.[Aspose.Cells for Java](https://products.aspose.com/cells/java)képes többplatformos alkalmazásokat létrehozni, módosítani, konvertálni, renderelni és kinyomtatni az összes Excel fájlt. Java Az Excel API nemcsak a táblázatformátumok között konvertál, hanem Excel-fájlokat is képes megjeleníteni képként, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT és egyebekként, így tökéletes választás a szabványos formátumú dokumentumok cseréjéhez. A legújabb verziót közvetlenül a webhelyről töltheti le[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) és telepítse a Maven alapú projekten belül a következő konfigurációk hozzáadásával a pom.xml fájlhoz.
 
 {{% blocks/products/pf/agp/code-block title="Adattár" offSpacer="true" %}}
 
@@ -45,7 +45,7 @@ Hogyan alakíthatom át a SXC-et FODS-re? A Aspose.Cells for Java könyvtárral 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Takarítson meg SXC-FODS számot a Java számon online ingyen" %}}
+{{% blocks/products/pf/agp/content h2="Mentse a SXC-FODS számot a Java-es számon" %}}
 
 A következő példa bemutatja, hogyan lehet a SXC-et FODS-re konvertálni a Java-ben.
 {{% blocks/products/pf/agp/text %}}
@@ -56,9 +56,9 @@ Kövesse az egyszerű lépéseket a SXC FODS-re konvertálásához. Töltse fel 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Ingyenes alkalmazás és mintakód a SXC FODS online konvertálásához" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="sxc" outformat="fods" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Mintakód a SXC FODS-re konvertálásához" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="sxc" outformat="fods" IsLandingPage="true" language="java" %}}
 
-{{% blocks/products/pf/agp/content h2="SXC FODS via Java-re konvertálása" %}}
+{{% blocks/products/pf/agp/content h2="A SXC FODS via Java-re konvertálása" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
@@ -68,7 +68,7 @@ A SXC fájlt programozottan FODS-re kell konvertálni? A Java fejlesztők könny
 
 1.  Telepítse a „Aspose.Cells for Java” fájlt.
 1.  Adjon hozzá egy könyvtári hivatkozást (importálja a könyvtárat) a Java projekthez.
-1.  Töltse be a SXC számú fájlt a Workbook osztály egy példányával.
+1. Töltse be a SXC számú fájlt a Workbook osztály egy példányával.
 1.  Konvertálja a SXC-et FODS-re a Workbook.save metódus meghívásával.
 1.  Szerezze meg a SXC-es konverziós eredményt FODS-re.
 
@@ -98,7 +98,7 @@ A SXC fájlt programozottan FODS-re kell konvertálni? A Java fejlesztők könny
 <!-- aboutfile Starts -->
     {{< blocks/products/pf/agp/about-file-section >}}
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="SXC" readMoreLink="https://docs.fileformat.com/spreadsheet/sxc/" >}}SXC (Sun XML Calc) fájlformátum az OpenOffice.org nevű irodai programcsomaghoz tartozik. Ez a formátum általában a felhasználók táblázatkezelési igényeit elégíti ki, mivel ez egy XML alapú táblázatkezelő fájlformátum. A SXC formátum a képleteket, függvényeket, makrókat és diagramokat támogatja a DataPilot mellett, amely hihetetlen funkció, mert automatikusan személyre szabja és összefoglalja a nyers importált adatokat. Az ezzel a szoftverrel létrehozott fájlok .sxc kiterjesztéssel kerülnek mentésre.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="FODS" readMoreLink="https://docs.fileformat.com/spreadsheet/fods/" >}}A .fods kiterjesztésű fájl az OpenDocument Spreadsheet dokumentumformátum egyik típusa, amely sorokban és oszlopokban tárolja az adatokat. A formátumot az OASIS által közzétett és karbantartott ODF 1.2 specifikáció részeként határozták meg. A FODS fájlok nem nyithatók meg Excellel, egy másik táblázatkezelő szoftveralkalmazással a Microsoft. A FODS fájlok ODS néven menthetők a LibreOffice segítségével, és konvertálhatók más formátumokba, például a XLS és a 4816151 és a 48133 formátumokba.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="FODS" readMoreLink="https://docs.fileformat.com/spreadsheet/fods/" >}}.fods kiterjesztésű fájl az OpenDocument Spreadsheet dokumentumformátum egyik típusa, amely sorokban és oszlopokban tárolja az adatokat. A formátumot az OASIS által közzétett és karbantartott ODF 1.2 specifikáció részeként határozták meg. A FODS fájlok nem nyithatók meg Excellel, egy másik táblázatkezelő szoftveralkalmazással a Microsoft. A FODS fájlok ODS néven menthetők a LibreOffice segítségével, és konvertálhatók más formátumokba, például a XLS és a 4816151 és a 48133 formátumokba.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
     {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->
 
@@ -125,7 +125,7 @@ A SXC fájlt programozottan FODS-re kell konvertálni? A Java fejlesztők könny
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/sxc-to-xltm/" name="SXC-XLTM" description="Excel-makró-kompatibilis sablon" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/sxc-to-xltx/" name="SXC-XLTX" description="Office OpenXML Excel sablon" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/sxc-to-xml/" name="SXC XML-RE" description="Bővíthető jelölőnyelv" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/sxc-to-xps/" name="SXC-XPS" description="XML papírspecifikációk" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/sxc-to-xps/" name="SXC-XPS" description="XML papír specifikációk" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/sxc-to-json/" name="SXC-JSON" description="JavaScript objektum jelölés" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/sxc-to-jpeg/" name="SXC-JPEG" description="JPEG Kép" >}}
 

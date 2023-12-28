@@ -1,6 +1,7 @@
 ---
-title: एक्सेल फ़ाइल एनोटेशन via Java
+title: एक्सेल फ़ाइल एनोटेशन जोड़ें या हटाएँ via Java
 description: Java लाइब्रेरी के साथ एक्सेल और ओपनऑफिस स्प्रेडशीट का डेटा एनोटेशन जोड़ें या हटाएं।
+keywords: [Java Aspose.Cells., add excel annotation., insert excel annotation., access excel annotation., remove excel annotation., delete excel annotation., add annotation in excel., insert annotation in excel., access annotation in excel., remove annotation in excel., delete annotation in excel]
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
 {{< blocks/products/pf/i18n/feature-page-header h1="Microsoft<sup>&reg;</sup> एक्सेल फ़ाइल एनोटेशन प्रबंधित करें via Java" h2="एनोटेशन के लिए सरल नोट्स डालें या Java आधारित अनुप्रयोगों के भीतर एक्सेल स्प्रेडशीट सेल स्तर की टिप्पणियों को हटा दें।" >}}

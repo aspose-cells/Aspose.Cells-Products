@@ -1,7 +1,7 @@
 ---
-title: Java FODS से ईटीटी - ऑनलाइन FODS से ईटीटी कन्वर्टर
-description: Aspose एक्सेल। Java Aspose.Cells. Java Aspose Cells. मुफ़्त ऑनलाइन Java FODS को ईटीटी सेवफॉर्मेट में कनवर्ट करें। Java FODS से ईटीटी प्रारूप तक। FODS को ETT Java पर सेव करें।
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java FODS to ETT saveformat., Free Online FODS to ETT Java., Java Convert FODS to ETT]
+title: Java FODS से ईटीटी - FODS से ईटीटी कनवर्टर
+description: Aspose एक्सेल। Aspose.Cells के साथ FODS को ईटीटी में जल्दी और आसानी से बदलें। Java FODS को ईटीटी में बदलें। Java FODS को ईटीटी में सहेजें। Java का उपयोग करके FODS को ईटीटी के रूप में सहेजें।
+keywords: [Aspose Excel., Java Aspose.Cells., Convert FODS to ETT in Java., Save FODS to ETT using Java., Java FODS to ETT saveformat., FODS to ETT Converter., Java Save FODS as ETT]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="FODS को Java में ईटीटी में बदलें" h2="FODS को ईटीटी में परिवर्तित करने के लिए हाई-स्पीड Java लाइब्रेरी। यह Java का उपयोग करके FODS, ईटीटी और कई अन्य प्रारूपों को आयात और निर्यात करने के लिए एक पेशेवर सॉफ्टवेयर समाधान है।" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="ETT" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java FODS to E
 
 {{% blocks/products/pf/agp/content h2="Java का उपयोग करके FODS को ईटीटी में बदलें" %}}
 
- मैं FODS को ईटीटी में कैसे परिवर्तित करूं? Aspose.Cells for Java लाइब्रेरी के साथ, आप कोड की कुछ पंक्तियों के साथ आसानी से FODS को प्रोग्रामेटिक रूप से ईटीटी में परिवर्तित कर सकते हैं।[Aspose.Cells for Java](https://products.aspose.com/cells/java) सभी एक्सेल फ़ाइलों को उत्पन्न करने, संशोधित करने, परिवर्तित करने, प्रस्तुत करने और प्रिंट करने की क्षमता के साथ क्रॉस-प्लेटफ़ॉर्म एप्लिकेशन बनाने में सक्षम है। Java एक्सेल API न केवल स्प्रेडशीट प्रारूपों के बीच कनवर्ट कर सकता है, यह एक्सेल फाइलों को छवियों, PDF, HTML, ODS, CSV, SVG, JSON, वर्ड, पीपीटी और भी बहुत कुछ के रूप में प्रस्तुत कर सकता है, इस प्रकार यह एक्सचेंज के लिए एक आदर्श विकल्प बन जाता है। उद्योग-मानक में दस्तावेज़ प्रारूप. आप इसका नवीनतम संस्करण सीधे यहां से डाउनलोड कर सकते हैं[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) और pom.xml में निम्नलिखित कॉन्फ़िगरेशन जोड़कर इसे अपने Maven-आधारित प्रोजेक्ट में स्थापित करें।
+मैं FODS को ईटीटी में कैसे परिवर्तित करूं? Aspose.Cells for Java लाइब्रेरी के साथ, आप कोड की कुछ पंक्तियों के साथ आसानी से FODS को प्रोग्रामेटिक रूप से ईटीटी में परिवर्तित कर सकते हैं।[Aspose.Cells for Java](https://products.aspose.com/cells/java)सभी एक्सेल फ़ाइलों को उत्पन्न करने, संशोधित करने, परिवर्तित करने, प्रस्तुत करने और प्रिंट करने की क्षमता के साथ क्रॉस-प्लेटफ़ॉर्म एप्लिकेशन बनाने में सक्षम है। Java एक्सेल API न केवल स्प्रेडशीट प्रारूपों के बीच परिवर्तित होता है, बल्कि यह एक्सेल फाइलों को छवियों, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT और अधिक के रूप में भी प्रस्तुत कर सकता है, इस प्रकार यह उद्योग-मानक प्रारूपों में दस्तावेजों का आदान-प्रदान करने के लिए एक आदर्श विकल्प बन जाता है। आप इसका नवीनतम संस्करण सीधे यहां से डाउनलोड कर सकते हैं[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) और pom.xml में निम्नलिखित कॉन्फ़िगरेशन जोड़कर इसे अपने Maven-आधारित प्रोजेक्ट में स्थापित करें।
 
 {{% blocks/products/pf/agp/code-block title="कोष" offSpacer="true" %}}
 
@@ -45,7 +45,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java FODS to E
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Java में ETT पर FODS को निःशुल्क ऑनलाइन सेव करें" %}}
+{{% blocks/products/pf/agp/content h2="Java में ईटीटी के लिए FODS सेव करें" %}}
 
 निम्नलिखित उदाहरण दर्शाता है कि FODS को Java में ईटीटी में कैसे परिवर्तित किया जाए।
 {{% blocks/products/pf/agp/text %}}
@@ -56,7 +56,7 @@ FODS को ईटीटी में बदलने के लिए आसा
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="FODS को ईटीटी ऑनलाइन में बदलने के लिए निःशुल्क ऐप और नमूना कोड" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="fods" outformat="ett" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="FODS को ईटीटी में बदलने के लिए नमूना कोड" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="fods" outformat="ett" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="FODS को ईटीटी via Java में कैसे बदलें" %}}
 
@@ -68,7 +68,7 @@ FODS फ़ाइलों को प्रोग्रामेटिक रू
 
 1.  'Aspose.Cells for Java' इंस्टॉल करें।
 1.  अपने Java प्रोजेक्ट में एक लाइब्रेरी संदर्भ जोड़ें (लाइब्रेरी आयात करें)।
-1.  वर्कबुक क्लास के उदाहरण के साथ FODS फ़ाइल लोड करें।
+1. वर्कबुक क्लास के उदाहरण के साथ FODS फ़ाइल लोड करें।
 1.  Workbook.save विधि को कॉल करके FODS को ETT में बदलें।
 1.  FODS का ईटीटी में रूपांतरण परिणाम प्राप्त करें।
 

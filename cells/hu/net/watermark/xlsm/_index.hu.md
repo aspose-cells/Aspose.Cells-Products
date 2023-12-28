@@ -1,7 +1,8 @@
 ---
-title:  Vízjel XLSM dokumentum via .NET
+title: Vízjel XLSM dokumentum via .NET
 weight: 8270
 description: C# forráskód vízjel hozzáadásához vagy eltávolításához a .NET Framework, .NET Core, Mono vagy Xamarin Platforms XLSM fájlhoz.
+keywords: [C# Aspose.Cells., C# add watermark to xlsm file., C# insert watermark to xlsm file., C# create watermark in xlsm file., remove watermark from xlsm file using C#., C# operate watermark in xlsm file., C# access watermark in xlsm file]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Szöveges vízjel hozzáadása a XLSM számhoz a C# számon keresztül" h2="Szerveroldali API-k segítségével készítse el saját .NET-es alkalmazásait a XLSM-es fájlok vízjelezésére." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSM" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="PPTX" fileiconsmall2="DOCX" fileiconsmall3="XLSX" fileiconsmall4="PDF" fileiconsmall5=" ODP " >}}

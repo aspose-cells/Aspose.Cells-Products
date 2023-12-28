@@ -1,8 +1,8 @@
 ---
 title: XML egyesítése XML-lel – XML és XML egyesítése a C#-ben
 url: /hu/net/merger/merge-xml-to-xml/ 
-description: Aspose Excel. C# Aspose.Cells. Ingyenes online egyesítése XML-ből XML mentési formátumba. C# Az XML és az XML formátum kombinálása. XML egyesítése XML-lel a C#-ben. XML-egyesítés.
-keywords: [Aspose Excel., C# Aspose.Cells., Merge XML to XML in C#., Free Online C# Merge XML to xml., C# Combine XML to XML Online for Free., XML Merge]
+description: Aspose Excel. C# Aspose.Cells. XML egyesítése XML mentési formátumba. C# Az XML és az XML formátum kombinálása. XML egyesítése XML-lel a C#-ben. XML-egyesítés.
+keywords: [Aspose Excel., C# Aspose.Cells., Merge XML to XML in C#., C# Merge XML to xml., C# Combine XML to XML., XML Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Egyesítse az XML-t XML-lel a C#-es számon keresztül" h2="Nagy sebességű C# könyvtár az XML és az XML egyesítéséhez. Használja a API-es excel-konverziónkat magas szintű, platformfüggetlen szoftverek fejlesztéséhez a C#-ben. Ez egy professzionális szoftvermegoldás a Excel, CSV, OpenOffice, PDF, HTML, image és sok más excel formátum importálásához és exportálásához." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="XML" additionalConversionTag="XML" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., C# Aspose.Cells., Merge XML to XML in C#., Free Online
 
 {{% blocks/products/pf/agp/content h2="Egyesítse az XML-t XML-lel a C# használatával" %}}
 
- Hogyan egyesíthetem az XML-t XML-lel? A Aspose.Cells for .NET könyvtárral egyszerűen egyesítheti az XML-t XML-lel, néhány sornyi kóddal programozottan.[Aspose.Cells for .NET](https://products.aspose.com/cells/net)képes többplatformos alkalmazásokat létrehozni, módosítani, konvertálni, renderelni és kinyomtatni az összes Excel fájlt. .NET Excel API nem csak a táblázatformátumok között konvertál, hanem Excel fájlokat is képes megjeleníteni képként, PDF, HTML, ODS, CSV, CSV, CSV, CSV, CSV, CSV, SVG, és így tovább, SVG P, 8 PT a választás,3,8 ipari szabvány szerinti dokumentumok cseréjére formátumok. Nyisd ki[NuGet](https://www.nuget.org/packages/aspose.cells) csomagkezelő, keresse meg a Aspose.Cells-et, és telepítse. A következő parancsot is használhatja a Package Manager konzolból.
+ Hogyan egyesíthetem az XML-t XML-lel? A Aspose.Cells for .NET könyvtárral egyszerűen egyesítheti az XML-t XML-lel, néhány sornyi kóddal programozottan.[Aspose.Cells for .NET](https://products.aspose.com/cells/net)képes többplatformos alkalmazásokat létrehozni, módosítani, konvertálni, renderelni és kinyomtatni az összes Excel fájlt. .NET Az Excel API nemcsak a táblázatformátumok között konvertál, hanem Excel-fájlokat is képes megjeleníteni képként, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT és egyebekként, így tökéletes választás a szabványos formátumú dokumentumok cseréjéhez. Nyisd ki[NuGet](https://www.nuget.org/packages/aspose.cells) csomagkezelő, keresse meg a Aspose.Cells-et, és telepítse. A következő parancsot is használhatja a Package Manager konzolból.
 
 {{% blocks/products/pf/agp/code-block title="Csomagkezelő konzolparancs" offSpacer="true" %}}
 
@@ -26,7 +26,7 @@ PM> Install-Package Aspose.Cells
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Egyesítse az XML-t XML-lel a C# Online ingyenesen" %}}
+{{% blocks/products/pf/agp/content h2="Egyesítse az XML-t XML-lel a C#-ben" %}}
 
 A következő példa bemutatja, hogyan egyesítheti az XML-t XML-lel a Aspose.Cells for .NET-ben.
 {{% blocks/products/pf/agp/text %}}
@@ -37,7 +37,7 @@ Kövesse az egyszerű lépéseket az XML és az XML egyesítéséhez. Töltse fe
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Ingyenes online az XML és az XML egyesítése a C# számon" InputFormat="xml" InputFormat2="xml" outformat="xml" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="net" %}}
+{{% cells-merger title="Mintakód az XML és az XML egyesítéséhez a C#-ben" InputFormat="xml" InputFormat2="xml" outformat="xml" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="net" %}}
 
 {{% blocks/products/pf/agp/content h2="Az XML és az XML egyesítése a C# számon keresztül" %}}
 
@@ -117,7 +117,7 @@ API-jaink minden nagyobb platformon és operációs rendszeren támogatottak. Mi
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xml-to-xltm/" name="XML egyesítése a XLTM-gyel" description="Excel-makró-kompatibilis sablon" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xml-to-xltx/" name="XML egyesítése a XLTX-gyel" description="Office OpenXML Excel sablon" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xml-to-xml/" name="XML egyesítése XML-lel" description="Bővíthető jelölőnyelv" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xml-to-xps/" name="XML egyesítése a XPS-gyel" description="XML papírspecifikációk" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xml-to-xps/" name="XML egyesítése a XPS-gyel" description="XML papír specifikációk" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xml-to-json/" name="XML egyesítése a JSON-gyel" description="JavaScript objektum jelölés" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xml-to-jpeg/" name="XML egyesítése a JPEG-gyel" description="JPEG Kép" >}}
 

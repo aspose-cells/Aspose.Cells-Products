@@ -2,6 +2,7 @@
 title: Blokknyilak beszúrása az Excel programba a Python via Java használatával
 weight: 338
 description: Python via Java forráskód a blokknyilak Excelbe való beillesztéséhez.
+keywords: [Python Aspose.Cells., Python add block arrows., Python insert block arrows., Python create block arrows]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Blokknyilak beszúrása az Excel programba a Python via Java használatával" h2="Szúrjon be blokknyilakat a Aspose.Cells\' API használatával, szoftverek, például Microsoft vagy Open Office, Adobe PDF stb. nélkül." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="" pfName="Aspose.Cells" subTitlepfName="for Python via Java" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="XLSX" >}}
@@ -11,7 +12,7 @@ description: Python via Java forráskód a blokknyilak Excelbe való beilleszté
 
 {{% blocks/products/pf/agp/content h2="Blokknyilak beszúrása Excel fájlba a Python via Java használatával" %}}
 
- blokknyilak excel fájlba való beillesztéséhez használjuk
+ A blokknyilak excel fájlba való beillesztéséhez használjuk
  [Aspose.Cells for Python via Java](https://pypi.org/project/aspose-cells/) 
  API, amely funkciókban gazdag, hatékony és könnyen használható dokumentumkezelési API for Python via Java platform. A API Excel-fájlok létrehozását, kezelését, konvertálását és megjelenítését biztosítja. Mindezt anélkül, hogy a Microsoft Office- vagy Excel-alkalmazásokra hagyatkozna. A következő paranccsal telepítheti a konzolról.
 
@@ -37,9 +38,9 @@ Szüksége van az aspose.cells-re a következő munkafolyamat kipróbálásához
 
 {{% /blocks/products/pf/agp/text %}}
 
-Munkafüzet objektum példányosítása. (vagy->Töltse be a XLSX fájlt a teljes elérési úttal.)
++ Munkafüzet objektum példányosítása. (vagy->Töltse be a XLSX fájlt a teljes elérési úttal.)
 + Válassza ki a munkalapot az indexén keresztül.
- + Használja a[módszer hozzáadása](https://reference.aspose.com/cells/python-java/asposecells.api/shapecollection#addAutoShape(int,%20int,%20int,%20int,%20int,%20int,%20int)blokknyilak beszúrásához a kiválasztott munkalapba
+ + Használja a[módszer hozzáadása](https://reference.aspose.com/cells/python-java/asposecells.api/shapecollection#addAutoShape(int,%20int,%20int,%20int,%20int,%20int,%20int)) blokknyilak beszúrásához a kiválasztott munkalapba
 + Mentse a munkafüzetet XLSX formátumban.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
@@ -48,12 +49,12 @@ Munkafüzet objektum példányosítása. (vagy->Töltse be a XLSX fájlt a telje
 
 {{% blocks/products/pf/agp/text %}}
 
-Aspose.Cells for Python via Java platformfüggetlen API, és bármilyen platformon használható (Windows, Linux és MacOS), csak győződjön meg arról, hogy a rendszer Java 1.8 vagy újabb[Python](https://www.python.org/downloads/) 3,5 vagy magasabb.
+ Aspose.Cells for Python via Java platformfüggetlen API, és bármilyen platformon használható (Windows, Linux és MacOS), csak győződjön meg arról, hogy a rendszer Java 1.8 vagy újabb[Python](https://www.python.org/downloads/) 3,5 vagy magasabb.
  
 {{% /blocks/products/pf/agp/text %}}
 
-- Bármilyen operációs rendszer, amely Python via Java szkripteket futtat, például Windows, Linux és MacOS
--  Telepítse a Java-et, és adja hozzá a PATH környezeti változóhoz, például:<code>PATH=C:\Program Files\Java\jdk1.8.0_131;</code>.
+-  Bármilyen operációs rendszer, amely Python via Java szkripteket futtat, például Windows, Linux és MacOS
+- Telepítse a Java-et, és adja hozzá a PATH környezeti változóhoz, például:<code>PATH=C:\Program Files\Java\jdk1.8.0_131;</code>.
 -  Telepítés: Aspose.Cells for Python via Java innen<a href="https://pypi.org/project/aspose-cells/">pypi</a> , használja a parancsot a következőképpen:<code>$ pip install aspose-cells</code>.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
@@ -133,7 +134,7 @@ Az alábbi mintakód bemutatja a „jobbra nyíl” beszúrását. További típ
    <div class="col-lg-4">
     <img src="/cells/net/shapes/insert-block-arrows-to-excel/arrow_uturn.png" align="left" width="28" height="28">
     <p class="col-lg-10" style="font-size:0.8rem !important;">
- AutoShapeType.U_TURN_ARROW
+AutoShapeType.U_TURN_ARROW
     </p>
    </div>
    <div class="col-lg-4">
@@ -199,7 +200,7 @@ Az alábbi mintakód bemutatja a „jobbra nyíl” beszúrását. További típ
    <div class="col-lg-4">
     <img src="/cells/net/shapes/insert-block-arrows-to-excel/arrow_right_callout.png" align="left" width="28" height="28">
     <p class="col-lg-10" style="font-size:0.8rem !important;">
-AutoShapeType.RIGHT_ARROW_CALLOUT
+ AutoShapeType.RIGHT_ARROW_CALLOUT
     </p>
    </div>
    <div class="col-lg-4">
@@ -251,7 +252,7 @@ AutoShapeType.RIGHT_ARROW_CALLOUT
 
 {{% blocks/products/pf/agp/content h2="Körülbelül Aspose.Cells for Python via Java API" %}}
 
- Aspose.Cells API használható Microsoft Excel formátumok létrehozására, szerkesztésére, konvertálására és renderelésére különböző formátumokba. Ezen túlmenően használható átfogó diagramok készítésére, skálázható jelentésekre és megbízható számításokra a szoftveralkalmazásokon belül. A Aspose.Cells egy önálló API, és nem igényel olyan szoftvert, mint a Microsoft vagy az OpenOffice.
+Aspose.Cells API használható Microsoft Excel formátumok létrehozására, szerkesztésére, konvertálására és renderelésére különböző formátumokba. Ezen túlmenően használható átfogó diagramok készítésére, skálázható jelentésekre és megbízható számításokra a szoftveralkalmazásokon belül. A Aspose.Cells egy önálló API, és nem igényel olyan szoftvert, mint a Microsoft vagy az OpenOffice.
 
 {{% /blocks/products/pf/agp/content %}}
 

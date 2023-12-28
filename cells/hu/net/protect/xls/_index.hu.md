@@ -1,7 +1,8 @@
 ---
-title: Védje és zárja XLS via .NET dokumentumot
+title:  Védje és zárja XLS via .NET dokumentumot
 weight: 7010
 description: C# forráskód a XLS fájl zárolásához jelszóval a .NET Framework, .NET Core, Mono vagy Xamarin platformokon.
+keywords: [C# Aspose.Cells., c# Lock XLS files., c# How to Protect and lock XLS document., c# Protect XLS files., Encrypt XLS Files using C#]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="XLS fájlok titkosítása a C# számon keresztül" h2="Jelszóvédett Excel-táblázatok, beleértve a XLS formátumot a .NET könyvtár használatával." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLS" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLS" >}}
@@ -120,7 +121,7 @@ XLS kiterjesztésű fájlok Excel bináris fájlformátumot képviselnek. Az ily
 
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="Egyéb támogatott védelmi formátumok" subTitle="C# használatával könnyedén védhet más formátumokat, beleértve." >}}
+{{< blocks/products/pf/agp/other-supported-section title="Egyéb támogatott védelmi formátumok" subTitle="A C# használatával könnyedén védhet más formátumokat, beleértve." >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/protect/ods/" name="ODS" description="OpenDocument táblázatfájl" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/protect/xlsb/" name="XLSB" description="Bináris Excel munkafüzet fájl" >}}

@@ -1,7 +1,7 @@
 ---
-title: Python JSON से ओटीएस - ऑनलाइन JSON से ओटीएस कन्वर्टर
-description: Aspose एक्सेल। Python Aspose.Cells. Python Aspose Cells. मुफ़्त ऑनलाइन Python JSON को ओटीएस सेवफॉर्मेट में कनवर्ट करें। Python JSON से ओटीएस प्रारूप में। JSON को ओटीएस Python पर सेव करें।
-keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python JSON to OTS saveformat., Free Online JSON to OTS Python., Python Convert JSON to OTS]
+title: Python JSON से ओटीएस - JSON से ओटीएस कन्वर्टर
+description: Aspose एक्सेल। Aspose.Cells के साथ JSON को जल्दी और आसानी से ओटीएस में बदलें। Python JSON को ओटीएस में बदलें। Python JSON को ओटीएस में सेव करें। Python का उपयोग करके JSON को ओटीएस के रूप में सहेजें।
+keywords: [Aspose Excel., Python Aspose.Cells., Convert JSON to OTS in Python., Save JSON to OTS using Python., Python JSON to OTS saveformat., JSON to OTS Converter., Python Save JSON as OTS]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="JSON को Python में ओटीएस में बदलें" h2="JSON को ओटीएस में परिवर्तित करने के लिए हाई-स्पीड Python लाइब्रेरी। Python में उच्च-स्तरीय, प्लेटफ़ॉर्म स्वतंत्र सॉफ़्टवेयर विकसित करने के लिए हमारे एक्सेल रूपांतरण API का उपयोग करें।" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="OTS" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,12 +12,12 @@ keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python JSO
 
 {{% blocks/products/pf/agp/content h2="JSON को Python में ओटीएस में बदलें" %}}
 
- मैं JSON को ओटीएस में कैसे परिवर्तित करूं? NET लाइब्रेरी के माध्यम से Aspose.Cells for Python के साथ, आप कोड की कुछ पंक्तियों के साथ JSON को प्रोग्रामेटिक रूप से आसानी से ओटीएस में परिवर्तित कर सकते हैं।[Aspose.Cells for Python वाया NET](https://pypi.org/project/aspose-cells-python/)सभी एक्सेल फ़ाइलों को उत्पन्न करने, संशोधित करने, परिवर्तित करने, प्रस्तुत करने और प्रिंट करने की क्षमता के साथ क्रॉस-प्लेटफ़ॉर्म एप्लिकेशन बनाने में सक्षम है। Python एक्सेल API न केवल स्प्रेडशीट प्रारूपों के बीच कनवर्ट कर सकता है, यह एक्सेल फाइलों को छवियों, PDF, HTML, ODS, CSV, SVG, JSON, वर्ड, पीपीटी और भी बहुत कुछ के रूप में प्रस्तुत कर सकता है, इस प्रकार यह एक्सचेंज के लिए एक आदर्श विकल्प बन जाता है। उद्योग-मानक में दस्तावेज़ प्रारूप.
+ मैं JSON को ओटीएस में कैसे परिवर्तित करूं? NET लाइब्रेरी के माध्यम से Aspose.Cells for Python के साथ, आप कोड की कुछ पंक्तियों के साथ JSON को प्रोग्रामेटिक रूप से आसानी से ओटीएस में परिवर्तित कर सकते हैं।[Aspose.Cells for Python वाया NET](https://pypi.org/project/aspose-cells-python/)सभी एक्सेल फ़ाइलों को उत्पन्न करने, संशोधित करने, परिवर्तित करने, प्रस्तुत करने और प्रिंट करने की क्षमता के साथ क्रॉस-प्लेटफ़ॉर्म एप्लिकेशन बनाने में सक्षम है। Python एक्सेल API न केवल स्प्रेडशीट प्रारूपों के बीच परिवर्तित होता है, बल्कि यह एक्सेल फाइलों को छवियों, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT और अधिक के रूप में भी प्रस्तुत कर सकता है, इस प्रकार यह उद्योग-मानक प्रारूपों में दस्तावेजों का आदान-प्रदान करने के लिए एक आदर्श विकल्प बन जाता है।
 
 {{% /blocks/products/pf/agp/content %}}
 
 
-{{% blocks/products/pf/agp/content h2="JSON को Python में ओटीएस में निःशुल्क ऑनलाइन सेव करें" %}}
+{{% blocks/products/pf/agp/content h2="JSON को Python में ओटीएस में सेव करें" %}}
 
 निम्नलिखित उदाहरण दर्शाता है कि JSON को Python via NET में ओटीएस में कैसे परिवर्तित किया जाए।
 {{% blocks/products/pf/agp/text %}}
@@ -28,7 +28,7 @@ JSON को ओटीएस में बदलने के लिए आसा
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="JSON को ओटीएस ऑनलाइन में बदलने के लिए निःशुल्क ऐप और नमूना कोड" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="json" outformat="ots" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="JSON को ओटीएस में बदलने के लिए नमूना कोड" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="json" outformat="ots" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="JSON को ओटीएस में कैसे बदलें" %}}
 
@@ -52,7 +52,7 @@ JSON फ़ाइलों को प्रोग्रामेटिक रू
 हम अपने Python पैकेजों को PyPi रिपॉजिटरी में होस्ट करते हैं।
 
 {{% blocks/products/pf/agp/text %}}
-Aspose.Cells for Python से इंस्टॉल करें<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , कमांड का उपयोग इस प्रकार करें:<code>$ pip install aspose-cells-python</code>.
+ Aspose.Cells for Python से इंस्टॉल करें<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , कमांड का उपयोग इस प्रकार करें:<code>$ pip install aspose-cells-python</code>.
 {{% /blocks/products/pf/agp/text %}}
 
 {{% blocks/products/pf/agp/text %}}

@@ -1,7 +1,7 @@
 ---
-title: Python JPG-ből EXCEL-be - Online JPG-ből EXCEL-be konvertáló
-description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Ingyenes online Python JPG konvertálása EXCEL mentési formátumba. Python JPG EXCEL formátumba. JPG mentése EXCEL Python-be.
-keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python JPG to EXCEL saveformat., Free Online JPG to EXCEL Python., Python Convert JPG to EXCEL]
+title: Python JPG-ből EXCEL-be - JPG-ből EXCEL-be konvertáló
+description: Aspose Excel. A Aspose.Cells. Python JPG-t EXCEL-re gyorsan és egyszerűen konvertálja EXCEL-be. Python JPG mentése EXCEL-be. JPG mentése EXCEL formátumban a Python használatával.
+keywords: [Aspose Excel., Python Aspose.Cells., Convert JPG to EXCEL in Python., Save JPG to EXCEL using Python., Python JPG to EXCEL saveformat., JPG to EXCEL Converter., Python Save JPG as EXCEL]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Konvertálja a JPG-t EXCEL-re a Python-ben" h2="Nagy sebességű Python könyvtár a JPG EXCEL formátumba konvertálásához. Használja a API-es excel konverziónkat magas szintű, platformfüggetlen szoftver fejlesztéséhez a Python-ben." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="EXCEL" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,12 +12,12 @@ keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python JPG
 
 {{% blocks/products/pf/agp/content h2="Konvertálja a JPG-t EXCEL-re a Python-ben" %}}
 
- Hogyan konvertálhatom a JPG-t EXCEL-re? A Aspose.Cells for Python segítségével a NET könyvtáron keresztül egyszerűen konvertálhatja a JPG-t EXCEL formátumba programozottan néhány sor kóddal.[Aspose.Cells for Python a NET számon keresztül](https://pypi.org/project/aspose-cells-python/)képes többplatformos alkalmazásokat létrehozni, módosítani, konvertálni, renderelni és kinyomtatni az összes Excel fájlt. Python Excel API nem csak a táblázatformátumok között konvertál, hanem Excel fájlokat is képes megjeleníteni képként, PDF, HTML, ODS, CSV, CSV, CSV, CSV, CSV, CSV, SVG, és így tovább, SVG P, 8 PT a választás,3,8 ipari szabvány szerinti dokumentumok cseréjére formátumok.
+ Hogyan konvertálhatom a JPG-t EXCEL-re? A Aspose.Cells for Python segítségével a NET könyvtáron keresztül egyszerűen konvertálhatja a JPG-t EXCEL formátumba programozottan néhány sor kóddal.[Aspose.Cells for Python a NET számon keresztül](https://pypi.org/project/aspose-cells-python/)képes többplatformos alkalmazásokat létrehozni, módosítani, konvertálni, renderelni és kinyomtatni az összes Excel fájlt. Python Az Excel API nemcsak a táblázatformátumok között konvertál, hanem Excel-fájlokat is képes megjeleníteni képként, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT és egyebekként, így tökéletes választás a szabványos formátumú dokumentumok cseréjéhez.
 
 {{% /blocks/products/pf/agp/content %}}
 
 
-{{% blocks/products/pf/agp/content h2="Mentse el a JPG-t EXCEL-be a Python-es számon online ingyen" %}}
+{{% blocks/products/pf/agp/content h2="Mentse el a JPG-t EXCEL-be a Python számon" %}}
 
 A következő példa bemutatja, hogyan lehet JPG-t EXCEL-re konvertálni a Python via NET-ben.
 {{% blocks/products/pf/agp/text %}}
@@ -28,7 +28,7 @@ Kövesse az egyszerű lépéseket a JPG EXCEL formátumba konvertálásához. T�
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Ingyenes alkalmazás és mintakód a JPG EXCEL Online konvertálásához" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="jpg" outformat="xlsx" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Mintakód a JPG EXCEL formátumba konvertálásához" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="jpg" outformat="xlsx" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="Hogyan lehet JPG-t EXCEL-re konvertálni" %}}
 
@@ -42,7 +42,7 @@ Programozottan kell konvertálnia a JPG fájlokat EXCEL formátumba? Python A fe
 1.  Adjon hozzá egy könyvtári hivatkozást (importálja a könyvtárat) a Python projekthez.
 1.  Töltsön be JPG-fájlt a munkafüzet egy példányával.
 1.  Konvertálja a JPG-t EXCEL-re a Workbook.save metódus meghívásával.
-1.  Szerezze meg a JPG-ből EXCEL formátumba konvertáló eredményt.
+1. Szerezze meg a JPG-ből EXCEL formátumba konvertáló eredményt.
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -52,7 +52,7 @@ Programozottan kell konvertálnia a JPG fájlokat EXCEL formátumba? Python A fe
 A Python-es csomagjainkat PyPi-tárolókban tároljuk.
 
 {{% blocks/products/pf/agp/text %}}
-Telepítés: Aspose.Cells for Python innen<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , használja a parancsot a következőképpen:<code>$ pip install aspose-cells-python</code>.
+ Telepítés: Aspose.Cells for Python innen<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , használja a parancsot a következőképpen:<code>$ pip install aspose-cells-python</code>.
 {{% /blocks/products/pf/agp/text %}}
 
 {{% blocks/products/pf/agp/text %}}
@@ -77,7 +77,7 @@ Telepítés: Aspose.Cells for Python innen<a href="https://pypi.org/project/aspo
     {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="Egyéb támogatott konverziók" subTitle="A JPG-t számos más fájlformátumra is konvertálhatja, köztük néhány alább felsorolt fájlformátumra." >}}
+{{< blocks/products/pf/agp/other-supported-section title="Egyéb támogatott konverziók" subTitle="A JPG-t sok más fájlformátumra is konvertálhatja, beleértve az alábbiakban felsorolt néhányat." >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/jpg-to-bmp/" name="JPG - BMP" description="Bittérképes kép" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/jpg-to-emf/" name="JPG - EMF" description="Továbbfejlesztett metafájl formátum" >}}
@@ -100,7 +100,7 @@ Telepítés: Aspose.Cells for Python innen<a href="https://pypi.org/project/aspo
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/jpg-to-xltm/" name="JPG - XLTM" description="Excel-makró-kompatibilis sablon" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/jpg-to-xltx/" name="JPG - XLTX" description="Office OpenXML Excel sablon" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/jpg-to-xml/" name="JPG-ből XML-be" description="Bővíthető jelölőnyelv" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/jpg-to-xps/" name="JPG - XPS" description="XML papírspecifikációk" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/jpg-to-xps/" name="JPG - XPS" description="XML papír specifikációk" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/jpg-to-json/" name="JPG - JSON" description="JavaScript objektum jelölés" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}

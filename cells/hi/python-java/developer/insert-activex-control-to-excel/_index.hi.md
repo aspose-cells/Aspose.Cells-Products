@@ -2,6 +2,7 @@
 title: Python via Java का उपयोग करके Excel में ActiveX नियंत्रण डालें
 weight: 10
 description: Excel में ActiveX कंट्रोल सम्मिलित करने के लिए Python via Java स्रोत कोड।
+keywords: [Python via Java Aspose.Cells., Python via Java add ActiveX Control into Excel., Python via Java insert ActiveX Control into Excel., Python via Java create ActiveX Control in Excel]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Python via जावा का उपयोग करके Excel में ActiveX नियंत्रण डालें" h2="Microsoft या ओपन ऑफिस, एडोब PDF आदि जैसे किसी भी सॉफ्टवेयर के बिना सर्वर-साइड एपीआई का उपयोग करके ऑब्जेक्ट डालें।" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="" pfName="Aspose.Cells" subTitlepfName="for Python via Java" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="XLSX" >}}
@@ -13,7 +14,7 @@ description: Excel में ActiveX कंट्रोल सम्मिलि
 
  Excel फ़ाइल में ActiveX कंट्रोल सम्मिलित करने के लिए, हम इसका उपयोग करेंगे
  [Aspose.Cells for Python जावा के माध्यम से](https://pypi.org/project/aspose-cells/) 
-API जो जावा प्लेटफॉर्म के माध्यम से पायथन के लिए एक सुविधा संपन्न, शक्तिशाली और उपयोग में आसान दस्तावेज़ हेरफेर API है। API एक्सेल फ़ाइल निर्माण, हेरफेर, रूपांतरण और प्रतिपादन प्रदान करता है। यह सब Microsoft ऑफिस या एक्सेल एप्लिकेशन पर निर्भर हुए बिना। आप निम्न कमांड का उपयोग करके कंसोल से इंस्टॉल कर सकते हैं।
+ API जो जावा प्लेटफॉर्म के माध्यम से पायथन के लिए एक सुविधा संपन्न, शक्तिशाली और उपयोग में आसान दस्तावेज़ हेरफेर API है। API एक्सेल फ़ाइल निर्माण, हेरफेर, रूपांतरण और प्रतिपादन प्रदान करता है। यह सब Microsoft ऑफिस या एक्सेल एप्लिकेशन पर निर्भर हुए बिना। आप निम्न कमांड का उपयोग करके कंसोल से इंस्टॉल कर सकते हैं।
 
 {{% blocks/products/pf/agp/code-block title="आज्ञा" offSpacer="true" %}}
 
@@ -37,7 +38,7 @@ API जो जावा प्लेटफॉर्म के माध्यम
 
 {{% /blocks/products/pf/agp/text %}}
 
-वर्कबुक ऑब्जेक्ट को इंस्टेंट करना। (या->XLSX फ़ाइल को पूर्ण पथ के साथ लोड करें।)
++ वर्कबुक ऑब्जेक्ट को इंस्टेंट करना। (या->XLSX फ़ाइल को पूर्ण पथ के साथ लोड करें।)
 + इसके सूचकांक के माध्यम से वर्कशीट का चयन करें।
  + आकृति संग्रह का उपयोग करें[विधि जोड़ें](https://reference.aspose.com/cells/python-java/asposecells.api/shapecollection#addActiveXControl(int,%20int,%20int,%20int,%20int,%20int,%20int)) चयनित वर्कशीट में ActiveX कंट्रोल सम्मिलित करने के लिए।
 + कार्यपुस्तिका को XLSX प्रारूप में सहेजें।
@@ -53,7 +54,7 @@ API जो जावा प्लेटफॉर्म के माध्यम
 {{% /blocks/products/pf/agp/text %}}
 
 -  कोई भी ऑपरेटिंग सिस्टम जो जावा स्क्रिप्ट के माध्यम से पायथन चला सकता है, जैसे Windows, लिनक्स और मैकओएस
--  Java स्थापित करें और इसे PATH पर्यावरण चर में जोड़ें, उदाहरण के लिए:<code>PATH=C:\Program Files\Java\jdk1.8.0_131;</code>.
+- Java स्थापित करें और इसे PATH पर्यावरण चर में जोड़ें, उदाहरण के लिए:<code>PATH=C:\Program Files\Java\jdk1.8.0_131;</code>.
 -  जावा से Aspose.Cells for Python स्थापित करें<a href="https://pypi.org/project/aspose-cells/">pypi</a> , कमांड का उपयोग इस प्रकार करें:<code>$ pip install aspose-cells</code>.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

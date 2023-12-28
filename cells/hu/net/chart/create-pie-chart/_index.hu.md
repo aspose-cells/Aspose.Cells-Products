@@ -1,6 +1,7 @@
 ---
 title: Kördiagramok létrehozása a C# számon keresztül
 description: C# Mintakód kördiagramok készítéséhez Excelbe a .NET könyvtár használatával. Ezzel a kóddal kördiagramot hozhat létre MS Excelben a VB.NET, Asp.NET vagy bármely .NET alapú alkalmazáson belül.
+keywords: [C# Aspose.Cells., c# add Pie Chart., c# insert Pie Chart., c# create Pie Chart]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
@@ -18,7 +19,7 @@ Könnyű a kördiagramok dinamikus létrehozása a futó alkalmazáson belül. A
 
 {{% blocks/products/pf/agp/text %}}
 
-A fejlesztők könnyen létrehozhatnak kördiagramot a különböző jelentéskészítő alkalmazások futtatásán belül az adatfeldolgozáshoz, mindössze néhány sornyi kóddal.
+fejlesztők könnyen létrehozhatnak kördiagramot a különböző jelentéskészítő alkalmazások futtatásán belül az adatfeldolgozáshoz, mindössze néhány sornyi kóddal.
 
 {{% /blocks/products/pf/agp/text %}}
 

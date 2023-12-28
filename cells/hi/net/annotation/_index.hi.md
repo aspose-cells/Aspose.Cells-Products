@@ -1,6 +1,7 @@
 ---
-title: एक्सेल फ़ाइल एनोटेशन NET C#
+title: एक्सेल फ़ाइल एनोटेशन जोड़ें या निकालें NET C#
 description: C# कोड की केवल कुछ पंक्तियों के साथ एक्सेल और ओपनऑफिस स्प्रेडशीट का डेटा एनोटेशन जोड़ें या हटाएं।
+keywords: [C# Aspose.Cells., add excel annotation., insert excel annotation., access excel annotation., remove excel annotation., delete excel annotation., add annotation in excel., insert annotation in excel., access annotation in excel., remove annotation in excel., delete annotation in excel]
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
 {{< blocks/products/pf/i18n/feature-page-header h1="Microsoft<sup>&reg;</sup> एक्सेल फ़ाइल एनोटेशन हटाएँ via .NET" h2=".NET आधारित अनुप्रयोगों के भीतर C# कोड का उपयोग करके एक्सेल फ़ाइलें एनोटेशन जोड़ें या हटाएं।" >}}

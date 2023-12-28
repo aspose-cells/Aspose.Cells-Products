@@ -1,7 +1,7 @@
 ---
-title: C++ XLTX EXCEL - Online XLTX EXCEL konverter
-description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. Ingyenes online C++ A XLTX konvertálása EXCEL mentési formátumba. C++ XLTX EXCEL formátumba. Mentse a XLTX számot az EXCEL C++ számra.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ XLTX to EXCEL saveformat., Free Online XLTX to EXCEL C++., C++ Convert XLTX to EXCEL]
+title: C++ XLTX EXCEL - XLTX EXCEL konverter
+description: Aspose Excel. A XLTX gyors és egyszerű konvertálása EXCEL-re a Aspose.Cells-es számmal. C++ XLTX EXCEL-re. C++ Mentse el a XLTX számot az EXCEL-be. Mentse el a XLTX-et EXCEL-ként a C++ használatával.
+keywords: [Aspose Excel., C++ Aspose.Cells., Convert XLTX to EXCEL in C++., Save XLTX to EXCEL using C++., C++ XLTX to EXCEL saveformat., XLTX to EXCEL Converter., C++ Save XLTX as EXCEL]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Konvertálja a XLTX-et EXCEL-re a C++-ben" h2="Nagy teljesítményű XLTX konvertálás EXCEL-be a C++ könyvtár használatával anélkül, hogy Microsoft Excel, OpenOffice vagy Adobe Acrobat telepítésre lenne szükség." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" sourceAdditionalConversionTag="" additionalConversionTag="EXCEL" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ XLTX to EXCE
 
 {{% blocks/products/pf/agp/content h2="A XLTX konvertálása EXCEL-re a C++ használatával" %}}
 
- Hogyan konvertálhatom át a XLTX-et EXCEL-re? A Aspose.Cells for C++ könyvtárral könnyedén konvertálhatja a XLTX-et programozottan EXCEL-re néhány sornyi kóddal.[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) képes többplatformos alkalmazásokat létrehozni, módosítani, konvertálni, renderelni és kinyomtatni az összes Excel fájlt. C++ Excel API nem csak a táblázatformátumok között konvertál, hanem Excel fájlokat is képes megjeleníteni képként, PDF, HTML, ODS, CSV, CSV, CSV, CSV, CSV, CSV, SVG, és így tovább, SVG P, 8 PT a választás,3,8 ipari szabvány szerinti dokumentumok cseréjére formátumok. A legújabb verziót közvetlenül letöltheti, csak nyissa meg[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) csomagkezelő, keresse meg a Aspose.Cells.Cpp címet, és telepítse. A következő parancsot is használhatja a Package Manager konzolból.
+ Hogyan konvertálhatom át a XLTX-et EXCEL-re? A Aspose.Cells for C++ könyvtárral könnyedén konvertálhatja a XLTX-et programozottan EXCEL-re néhány sornyi kóddal.[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) képes többplatformos alkalmazásokat létrehozni, módosítani, konvertálni, renderelni és kinyomtatni az összes Excel fájlt. C++ Az Excel API nemcsak a táblázatformátumok között konvertál, hanem Excel-fájlokat is képes megjeleníteni képként, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT és egyebekként, így tökéletes választás a szabványos formátumú dokumentumok cseréjéhez. A legújabb verziót közvetlenül letöltheti, csak nyissa meg[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) csomagkezelő, keresse meg a Aspose.Cells.Cpp címet, és telepítse. A következő parancsot is használhatja a Package Manager konzolból.
 
 {{% blocks/products/pf/agp/code-block title="Parancs" offSpacer="true" %}}
 
@@ -26,7 +26,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Takarítson meg XLTX-et az EXCEL-ben a C++-es online ingyen" %}}
+{{% blocks/products/pf/agp/content h2="Mentse el a XLTX-et az EXCEL-be a C++-ben" %}}
 
 A következő példa bemutatja, hogyan lehet a XLTX-et EXCEL-re konvertálni a C++-ben.
 {{% blocks/products/pf/agp/text %}}
@@ -37,19 +37,19 @@ Kövesse az egyszerű lépéseket a XLTX EXCEL-re konvertálásához. Töltse fe
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Ingyenes alkalmazás és mintakód a XLTX EXCEL Online konvertálásához" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xltx" outformat="xlsx" IsLandingPage="true" language="cpp" %}}
+{{% cells-convert title="Mintakód a XLTX EXCEL-re konvertálásához" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xltx" outformat="xlsx" IsLandingPage="true" language="cpp" %}}
 
 {{% blocks/products/pf/agp/content h2="A XLTX konvertálása EXCEL-re a C++-en keresztül" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
-XLTX fájlt programozottan EXCEL-be kell konvertálni? A C++ fejlesztők könnyedén konvertálhatják a XLTX-et EXCEL-re, mindössze néhány sornyi kóddal.
+A XLTX fájlt programozottan EXCEL-be kell konvertálni? A C++ fejlesztők könnyedén konvertálhatják a XLTX-et EXCEL-re, mindössze néhány sornyi kóddal.
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Telepítse a „Aspose.Cells for C++” fájlt.
 1.  Adjon hozzá egy könyvtári hivatkozást (importálja a könyvtárat) a C++ projekthez.
-1.  Töltse be a XLTX fájlt a Factory::CreateIWorkbook segítségével.
+1.  Töltse be a XLTX fájlt a munkafüzet segítségével.
 1.  Konvertálja a XLTX-et EXCEL-re a Save() metódus meghívásával.
 1.  Szerezd meg a XLTX konverziós eredményt EXCEL-re.
 
@@ -101,7 +101,6 @@ Három lehetőség közül választhat a „Aspose.Cells for C++” telepítés�
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xltx-to-pdf/" name="XLTX-PDF" description="Hordozható dokumentum formátum" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xltx-to-png/" name="XLTX-PNG" description="Hordozható hálózati grafika" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xltx-to-svg/" name="XLTX-SVG" description="Skálázható vektorgrafika" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xltx-to-tiff/" name="XLTX-TIFF" description="Címkézett képformátum" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xltx-to-tsv/" name="XLTX-TSV" description="Tabulátorral elválasztott értékek" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xltx-to-txt/" name="XLTX-TXT" description="Szöveges dokumentum" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xltx-to-xls/" name="XLTX-XLS" description="Excel bináris formátum" >}}
@@ -112,7 +111,7 @@ Három lehetőség közül választhat a „Aspose.Cells for C++” telepítés�
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xltx-to-xltm/" name="XLTX-XLTM" description="Excel-makró-kompatibilis sablon" >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xltx-to-xml/" name="XLTX XML-RE" description="Bővíthető jelölőnyelv" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xltx-to-xps/" name="XLTX-XPS" description="XML papírspecifikációk" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xltx-to-xps/" name="XLTX-XPS" description="XML papír specifikációk" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xltx-to-json/" name="XLTX-JSON" description="JavaScript objektum jelölés" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xltx-to-jpeg/" name="XLTX-JPEG" description="JPEG Kép" >}}
 

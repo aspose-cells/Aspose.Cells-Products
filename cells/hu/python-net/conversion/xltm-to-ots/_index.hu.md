@@ -1,7 +1,7 @@
 ---
-title: Python XLTM az OTS-hez – Online XLTM az OTS átalakítóhoz
-description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Ingyenes online Python A XLTM konvertálása OTS mentési formátumba. Python XLTM OTS formátumba. Mentse a XLTM számot az OTS Python számra.
-keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python XLTM to OTS saveformat., Free Online XLTM to OTS Python., Python Convert XLTM to OTS]
+title: Python XLTM az OTS-hez - XLTM az OTS átalakítóhoz
+description: Aspose Excel. A XLTM-es számot gyorsan és egyszerűen konvertálja OTS-re a Aspose.Cells-es számmal. Python XLTM OTS-re. Python Mentse a XLTM számot az OTS-nél. Mentse el a XLTM számot OTS-ként a Python használatával.
+keywords: [Aspose Excel., Python Aspose.Cells., Convert XLTM to OTS in Python., Save XLTM to OTS using Python., Python XLTM to OTS saveformat., XLTM to OTS Converter., Python Save XLTM as OTS]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Konvertálja a XLTM-et OTS-re a Python-ben" h2="Nagy sebességű Python könyvtár a XLTM OTS-re való konvertálásához. Használja a API-es excel konverziónkat magas szintű, platformfüggetlen szoftver fejlesztéséhez a Python-ben." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="OTS" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,12 +12,12 @@ keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python XLT
 
 {{% blocks/products/pf/agp/content h2="Konvertálja a XLTM-et OTS-re a Python-ben" %}}
 
- Hogyan konvertálhatom át a XLTM-et OTS-re? A Aspose.Cells for Python számmal a NET könyvtáron keresztül könnyedén konvertálhatja a XLTM-et OTS-re néhány sor kóddal, programozottan.[Aspose.Cells for Python a NET számon keresztül](https://pypi.org/project/aspose-cells-python/)képes többplatformos alkalmazásokat létrehozni, módosítani, konvertálni, renderelni és kinyomtatni az összes Excel fájlt. Python Excel API nem csak a táblázatformátumok között konvertál, hanem Excel fájlokat is képes megjeleníteni képként, PDF, HTML, ODS, CSV, CSV, CSV, CSV, CSV, CSV, SVG, és így tovább, SVG P, 8 PT a választás,3,8 ipari szabvány szerinti dokumentumok cseréjére formátumok.
+ Hogyan konvertálhatom át a XLTM-et OTS-re? A Aspose.Cells for Python számmal a NET könyvtáron keresztül könnyedén konvertálhatja a XLTM-et OTS-re néhány sor kóddal, programozottan.[Aspose.Cells for Python a NET számon keresztül](https://pypi.org/project/aspose-cells-python/)képes többplatformos alkalmazásokat létrehozni, módosítani, konvertálni, renderelni és kinyomtatni az összes Excel fájlt. Python Az Excel API nemcsak a táblázatformátumok között konvertál, hanem Excel-fájlokat is képes megjeleníteni képként, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT és egyebekként, így tökéletes választás a szabványos formátumú dokumentumok cseréjéhez.
 
 {{% /blocks/products/pf/agp/content %}}
 
 
-{{% blocks/products/pf/agp/content h2="Takarítson meg XLTM-et az OTS-nél a Python-es online ingyen" %}}
+{{% blocks/products/pf/agp/content h2="Mentse el a XLTM számot az OTS számára a Python számon" %}}
 
 A következő példa bemutatja, hogyan lehet a XLTM-et OTS-re konvertálni a Python via NET-ben.
 {{% blocks/products/pf/agp/text %}}
@@ -28,13 +28,13 @@ Kövesse az egyszerű lépéseket a XLTM OTS-re konvertálásához. Töltse fel 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Ingyenes alkalmazás és mintakód a XLTM OTS Online konvertálásához" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xltm" outformat="ots" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Mintakód a XLTM OTS-re konvertálásához" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xltm" outformat="ots" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="Hogyan lehet átalakítani a XLTM-et OTS-re" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
-A XLTM fájlokat programozottan OTS-re kell konvertálnia? A Python fejlesztők egyszerűen betölthetik és néhány sornyi kóddal OTS-re konvertálhatják a XLTM-et.
+XLTM fájlokat programozottan OTS-re kell konvertálnia? A Python fejlesztők egyszerűen betölthetik és néhány sornyi kóddal OTS-re konvertálhatják a XLTM-et.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -52,7 +52,7 @@ A XLTM fájlokat programozottan OTS-re kell konvertálnia? A Python fejlesztők 
 A Python-es csomagjainkat PyPi-tárolókban tároljuk.
 
 {{% blocks/products/pf/agp/text %}}
-Telepítés: Aspose.Cells for Python innen<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , használja a parancsot a következőképpen:<code>$ pip install aspose-cells-python</code>.
+ Telepítés: Aspose.Cells for Python innen<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , használja a parancsot a következőképpen:<code>$ pip install aspose-cells-python</code>.
 {{% /blocks/products/pf/agp/text %}}
 
 {{% blocks/products/pf/agp/text %}}
@@ -100,7 +100,7 @@ Telepítés: Aspose.Cells for Python innen<a href="https://pypi.org/project/aspo
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xltm-to-xltx/" name="XLTM-XLTX" description="Office OpenXML Excel sablon" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xltm-to-xml/" name="XLTM XML-RE" description="Bővíthető jelölőnyelv" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xltm-to-xps/" name="XLTM-XPS" description="XML papírspecifikációk" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xltm-to-xps/" name="XLTM-XPS" description="XML papír specifikációk" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xltm-to-json/" name="XLTM-JSON" description="JavaScript objektum jelölés" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}

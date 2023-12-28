@@ -1,7 +1,7 @@
 ---
-title: Java एमएचटी से XLAM - ऑनलाइन एमएचटी से XLAM कनवर्टर
-description: Aspose एक्सेल। Java Aspose.Cells. Java Aspose Cells. मुफ़्त ऑनलाइन Java एमएचटी को XLAM सेवफॉर्मेट में कनवर्ट करें। Java एमएचटी से XLAM प्रारूप। MHT को XLAM Java पर सेव करें।
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java MHT to XLAM saveformat., Free Online MHT to XLAM Java., Java Convert MHT to XLAM]
+title: Java एमएचटी से XLAM - एमएचटी से XLAM कनवर्टर
+description: Aspose एक्सेल। Aspose.Cells के साथ MHT को जल्दी और आसानी से XLAM में बदलें। Java MHT को XLAM पर बदलें। Java MHT को XLAM पर सहेजें। Java का उपयोग करके MHT को XLAM के रूप में सहेजें।
+keywords: [Aspose Excel., Java Aspose.Cells., Convert MHT to XLAM in Java., Save MHT to XLAM using Java., Java MHT to XLAM saveformat., MHT to XLAM Converter., Java Save MHT as XLAM]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Java में एमएचटी को XLAM में बदलें" h2="एमएचटी को XLAM में परिवर्तित करने के लिए हाई-स्पीड Java लाइब्रेरी। यह Java का उपयोग करके एमएचटी, XLAM और कई अन्य प्रारूपों को आयात और निर्यात करने के लिए एक पेशेवर सॉफ्टवेयर समाधान है।" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLAM" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java MHT to XL
 
 {{% blocks/products/pf/agp/content h2="Java का उपयोग करके एमएचटी को XLAM में बदलें" %}}
 
- मैं एमएचटी को XLAM में कैसे परिवर्तित करूं? Aspose.Cells for Java लाइब्रेरी के साथ, आप कोड की कुछ पंक्तियों के साथ एमएचटी को प्रोग्रामेटिक रूप से XLAM में आसानी से परिवर्तित कर सकते हैं।[Aspose.Cells for Java](https://products.aspose.com/cells/java) सभी एक्सेल फ़ाइलों को उत्पन्न करने, संशोधित करने, परिवर्तित करने, प्रस्तुत करने और प्रिंट करने की क्षमता के साथ क्रॉस-प्लेटफ़ॉर्म एप्लिकेशन बनाने में सक्षम है। Java एक्सेल API न केवल स्प्रेडशीट प्रारूपों के बीच कनवर्ट कर सकता है, यह एक्सेल फाइलों को छवियों, PDF, HTML, ODS, CSV, SVG, JSON, वर्ड, पीपीटी और भी बहुत कुछ के रूप में प्रस्तुत कर सकता है, इस प्रकार यह एक्सचेंज के लिए एक आदर्श विकल्प बन जाता है। उद्योग-मानक में दस्तावेज़ प्रारूप. आप इसका नवीनतम संस्करण सीधे यहां से डाउनलोड कर सकते हैं[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) और pom.xml में निम्नलिखित कॉन्फ़िगरेशन जोड़कर इसे अपने Maven-आधारित प्रोजेक्ट में स्थापित करें।
+ मैं एमएचटी को XLAM में कैसे परिवर्तित करूं? Aspose.Cells for Java लाइब्रेरी के साथ, आप कोड की कुछ पंक्तियों के साथ एमएचटी को प्रोग्रामेटिक रूप से XLAM में आसानी से परिवर्तित कर सकते हैं।[Aspose.Cells for Java](https://products.aspose.com/cells/java)सभी एक्सेल फ़ाइलों को उत्पन्न करने, संशोधित करने, परिवर्तित करने, प्रस्तुत करने और प्रिंट करने की क्षमता के साथ क्रॉस-प्लेटफ़ॉर्म एप्लिकेशन बनाने में सक्षम है। Java एक्सेल API न केवल स्प्रेडशीट प्रारूपों के बीच परिवर्तित होता है, बल्कि यह एक्सेल फाइलों को छवियों, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT और अधिक के रूप में भी प्रस्तुत कर सकता है, इस प्रकार यह उद्योग-मानक प्रारूपों में दस्तावेजों का आदान-प्रदान करने के लिए एक आदर्श विकल्प बन जाता है। आप इसका नवीनतम संस्करण सीधे यहां से डाउनलोड कर सकते हैं[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) और pom.xml में निम्नलिखित कॉन्फ़िगरेशन जोड़कर इसे अपने Maven-आधारित प्रोजेक्ट में स्थापित करें।
 
 {{% blocks/products/pf/agp/code-block title="कोष" offSpacer="true" %}}
 
@@ -45,7 +45,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java MHT to XL
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Java में MHT को XLAM पर निःशुल्क ऑनलाइन सेव करें" %}}
+{{% blocks/products/pf/agp/content h2="Java में एमएचटी को XLAM पर सेव करें" %}}
 
 निम्नलिखित उदाहरण दर्शाता है कि एमएचटी को Java में XLAM में कैसे परिवर्तित किया जाए।
 {{% blocks/products/pf/agp/text %}}
@@ -56,7 +56,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java MHT to XL
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="एमएचटी को XLAM में ऑनलाइन बदलने के लिए निःशुल्क ऐप और नमूना कोड" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="mht" outformat="xlam" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="एमएचटी को XLAM में बदलने के लिए नमूना कोड" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="mht" outformat="xlam" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="एमएचटी को XLAM via Java में कैसे बदलें" %}}
 
@@ -97,7 +97,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java MHT to XL
 
 <!-- aboutfile Starts -->
     {{< blocks/products/pf/agp/about-file-section >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="MHT" readMoreLink="https://docs.fileformat.com/web/mht/" >}}.mht एक्सटेंशन वाली फ़ाइल एक MIME सक्षम संग्रह फ़ाइल स्वरूप है जिसमें एक ही फ़ाइल में विभिन्न प्रकार के डेटा शामिल होते हैं। यह सीएसएस फाइलों, जावास्क्रिप्ट और अन्य संसाधनों के रूप में पाठ, छवियों, पेज स्टाइल जैसे डेटा को इसमें एम्बेडेड संसाधनों के रूप में संग्रहीत कर सकता है। MIME प्रकार संदेश/rfc822 वाली MHT फ़ाइलें, भंडारण उपकरणों पर संग्रहित करने के लिए HTML फ़ाइल की सभी सामग्री को एकल संग्रह फ़ाइल के रूप में समाहित करती हैं। Microsoft वर्ड जैसे सॉफ़्टवेयर एप्लिकेशन आपको एमएचटी फ़ाइल के रूप में निर्यात करके अपने वर्ड दस्तावेज़ों को एमएचटी में परिवर्तित करने की सुविधा देते हैं। एमएचटी फ़ाइलें Microsoft इंटरनेट एक्सप्लोर और Google क्रोम जैसे लोकप्रिय ब्राउज़रों का उपयोग करके खोली जा सकती हैं।{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="MHT" readMoreLink="https://docs.fileformat.com/web/mht/" >}}.mht एक्सटेंशन वाली फ़ाइल एक MIME सक्षम संग्रह फ़ाइल स्वरूप है जिसमें एक ही फ़ाइल में विभिन्न प्रकार के डेटा शामिल होते हैं। यह सीएसएस फाइलों, जावास्क्रिप्ट और अन्य संसाधनों के रूप में पाठ, छवियों, पेज स्टाइल जैसे डेटा को इसमें एम्बेडेड संसाधनों के रूप में संग्रहीत कर सकता है। MIME प्रकार संदेश/rfc822 वाली MHT फ़ाइलें, भंडारण उपकरणों पर संग्रहित करने के लिए HTML फ़ाइल की सभी सामग्री को एकल संग्रह फ़ाइल के रूप में समाहित करती हैं। Microsoft वर्ड जैसे सॉफ़्टवेयर एप्लिकेशन आपको एमएचटी फ़ाइल के रूप में निर्यात करके अपने WORD दस्तावेज़ों को एमएचटी में बदलने की सुविधा देते हैं। एमएचटी फ़ाइलें Microsoft इंटरनेट एक्सप्लोर और Google क्रोम जैसे लोकप्रिय ब्राउज़रों का उपयोग करके खोली जा सकती हैं।{{< /blocks/products/pf/agp/i18n/about-file-text >}}
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLAM" readMoreLink="https://docs.fileformat.com/spreadsheet/xlam/" >}}XLAM एक मैक्रो-सक्षम ऐड-इन फ़ाइल है जिसका उपयोग स्प्रेडशीट में नए फ़ंक्शन जोड़ने के लिए किया जाता है। ऐड-इन एक पूरक प्रोग्राम है जो अतिरिक्त कोड चलाता है और स्प्रेडशीट के लिए अतिरिक्त कार्यक्षमता प्रदान करता है। XLAM फ़ाइलें .xlam एक्सटेंशन के साथ संग्रहीत हैं। XLAM फ़ाइलें XLSM और XLSX फ़ाइल स्वरूपों के समान XML-आधारित फ़ाइलें हैं और समग्र फ़ाइल आकार को कम करने के लिए ज़िप संपीड़न के साथ सहेजी जाती हैं।{{< /blocks/products/pf/agp/i18n/about-file-text >}}
     {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->

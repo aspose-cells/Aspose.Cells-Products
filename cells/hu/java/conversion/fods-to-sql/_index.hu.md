@@ -1,7 +1,7 @@
 ---
-title: Java FODS SQL-hez – Online FODS SQL konverterhez
-description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Ingyenes online Java A FODS konvertálása SQL mentési formátumba. Java FODS SQL formátumba. Mentse a FODS-et SQL Java-be.
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java FODS to SQL saveformat., Free Online FODS to SQL Java., Java Convert FODS to SQL]
+title: Java FODS SQL-hez - FODS SQL Converterhez
+description: Aspose Excel. A FODS gyors és egyszerű konvertálása SQL-re a Aspose.Cells. Java FODS számmal SQL-vé. Java Mentse a FODS-et SQL-be. Mentse a FODS-et SQL-ként a Java használatával.
+keywords: [Aspose Excel., Java Aspose.Cells., Convert FODS to SQL in Java., Save FODS to SQL using Java., Java FODS to SQL saveformat., FODS to SQL Converter., Java Save FODS as SQL]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Konvertálja a FODS-et SQL-re a Java-ben" h2="Nagy sebességű Java könyvtár a FODS SQL-vé konvertálásához. Ez egy professzionális szoftvermegoldás a FODS, SQL és sok más formátum importálásához és exportálásához a Java használatával." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="SQL" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java FODS to S
 
 {{% blocks/products/pf/agp/content h2="Konvertálja a FODS-et SQL-vé a Java használatával" %}}
 
- Hogyan konvertálhatom a FODS-et SQL-vé? A Aspose.Cells for Java könyvtárral könnyedén konvertálhatja a FODS-et programozottan SQL-vé néhány sornyi kóddal.[Aspose.Cells for Java](https://products.aspose.com/cells/java) képes többplatformos alkalmazásokat létrehozni, módosítani, konvertálni, renderelni és kinyomtatni az összes Excel fájlt. Java Excel API nem csak a táblázatformátumok között konvertál, hanem Excel fájlokat is képes megjeleníteni képként, PDF, HTML, ODS, CSV, CSV, CSV, CSV, CSV, CSV, SVG, és így tovább, SVG P, 8 PT a választás,3,8 ipari szabvány szerinti dokumentumok cseréjére formátumok. A legújabb verziót közvetlenül a webhelyről töltheti le[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) és telepítse a Maven alapú projekten belül a következő konfigurációk hozzáadásával a pom.xml fájlhoz.
+ Hogyan konvertálhatom a FODS-et SQL-vé? A Aspose.Cells for Java könyvtárral könnyedén konvertálhatja a FODS-et programozottan SQL-vé néhány sornyi kóddal.[Aspose.Cells for Java](https://products.aspose.com/cells/java)képes többplatformos alkalmazásokat létrehozni, módosítani, konvertálni, renderelni és kinyomtatni az összes Excel fájlt. Java Az Excel API nemcsak a táblázatformátumok között konvertál, hanem Excel-fájlokat is képes megjeleníteni képként, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT és egyebekként, így tökéletes választás a szabványos formátumú dokumentumok cseréjéhez. A legújabb verziót közvetlenül a webhelyről töltheti le[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) és telepítse a Maven alapú projekten belül a következő konfigurációk hozzáadásával a pom.xml fájlhoz.
 
 {{% blocks/products/pf/agp/code-block title="Adattár" offSpacer="true" %}}
 
@@ -45,7 +45,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java FODS to S
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Mentse el a FODS-et SQL-be a Java-ben online ingyen" %}}
+{{% blocks/products/pf/agp/content h2="Mentse a FODS-et SQL-be a Java-ben" %}}
 
 A következő példa bemutatja, hogyan lehet a FODS-et SQL-vé alakítani a Java-ben.
 {{% blocks/products/pf/agp/text %}}
@@ -56,19 +56,19 @@ Kövesse az egyszerű lépéseket a FODS SQL-vé konvertálásához. Töltse fel
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Ingyenes alkalmazás és mintakód a FODS SQL Online konvertálásához" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="fods" outformat="sql" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Mintakód a FODS SQL-vé konvertálásához" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="fods" outformat="sql" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="A FODS konvertálása SQL via Java-re" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
-A FODS fájlokat programozottan SQL-be kell konvertálnia? A Java fejlesztők könnyedén konvertálhatják a FODS-et SQL-re, mindössze néhány sornyi kóddal.
+FODS fájlokat programozottan SQL-be kell konvertálnia? A Java fejlesztők könnyedén konvertálhatják a FODS-et SQL-re, mindössze néhány sornyi kóddal.
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Telepítse a „Aspose.Cells for Java” fájlt.
 1.  Adjon hozzá egy könyvtári hivatkozást (importálja a könyvtárat) a Java projekthez.
-1.  Töltse be a FODS számú fájlt a Workbook osztály egy példányával.
+1. Töltse be a FODS számú fájlt a Workbook osztály egy példányával.
 1.  Konvertálja a FODS-et SQL-be a Workbook.save metódus meghívásával.
 1.  Szerezze le a FODS konverziós eredményt SQL-re.
 
@@ -97,7 +97,7 @@ A FODS fájlokat programozottan SQL-be kell konvertálnia? A Java fejlesztők k�
 
 <!-- aboutfile Starts -->
     {{< blocks/products/pf/agp/about-file-section >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="FODS" readMoreLink="https://docs.fileformat.com/spreadsheet/fods/" >}}A .fods kiterjesztésű fájl az OpenDocument Spreadsheet dokumentumformátum egyik típusa, amely sorokban és oszlopokban tárolja az adatokat. A formátumot az OASIS által közzétett és karbantartott ODF 1.2 specifikáció részeként határozták meg. A FODS fájlok nem nyithatók meg Excellel, egy másik táblázatkezelő szoftveralkalmazással a Microsoft. A FODS fájlok ODS néven menthetők a LibreOffice segítségével, és konvertálhatók más formátumokba, például a XLS és a 4816151 és a 48133 formátumokba.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="FODS" readMoreLink="https://docs.fileformat.com/spreadsheet/fods/" >}}.fods kiterjesztésű fájl az OpenDocument Spreadsheet dokumentumformátum egyik típusa, amely sorokban és oszlopokban tárolja az adatokat. A formátumot az OASIS által közzétett és karbantartott ODF 1.2 specifikáció részeként határozták meg. A FODS fájlok nem nyithatók meg Excellel, egy másik táblázatkezelő szoftveralkalmazással a Microsoft. A FODS fájlok ODS néven menthetők a LibreOffice segítségével, és konvertálhatók más formátumokba, például a XLS és a 4816151 és a 48133 formátumokba.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="SQL" readMoreLink="https://docs.fileformat.com/database/sql/" >}}Az .sql kiterjesztésű fájl egy strukturált lekérdezési nyelv (SQL) fájl, amely kódot tartalmaz a relációs adatbázisokkal való együttműködéshez. SQL utasítások írására szolgál az adatbázisokon a CRUD (Create, Read, Update és Delete) műveletekhez. Az SQL-fájlok gyakoriak az asztali és a webalapú adatbázisok használatakor. Az SQL-nek számos alternatívája létezik, például a Java Persistence Query Language (JPQL), LINQ, HTSQL, 4D QL és még sok más. Az SQL-fájlok megnyithatók a Microsoft SQL Server, a MySQL lekérdezésszerkesztőivel és más egyszerű szövegszerkesztőkkel, például a Windows operációs rendszerhez tartozó Notepad programmal.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
     {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->
@@ -125,7 +125,7 @@ A FODS fájlokat programozottan SQL-be kell konvertálnia? A Java fejlesztők k�
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/fods-to-xltm/" name="FODS-XLTM" description="Excel-makró-kompatibilis sablon" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/fods-to-xltx/" name="FODS-XLTX" description="Office OpenXML Excel sablon" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/fods-to-xml/" name="FODS XML-RE" description="Bővíthető jelölőnyelv" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/fods-to-xps/" name="FODS-XPS" description="XML papírspecifikációk" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/fods-to-xps/" name="FODS-XPS" description="XML papír specifikációk" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/fods-to-json/" name="FODS-JSON" description="JavaScript objektum jelölés" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/fods-to-jpeg/" name="FODS-JPEG" description="JPEG Kép" >}}
 

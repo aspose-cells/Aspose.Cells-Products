@@ -1,8 +1,8 @@
 ---
 title: TABDELIMITED egyesítése a FODS számmal - TABDELIMITED összevonása FODS számmal a Java-ben
 url: /hu/java/merger/merge-tabdelimited-to-fods/ 
-description: Aspose Excel. Java Aspose.Cells. Ingyenes online egyesítés TABDELIMITED a FODS mentési formátumhoz. Java TABDELIMITED kombinálása FODS formátumba. TABDELIMITED egyesítése a FODS-es számmal a Java-ben. TABDELIMITED Egyesítés.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge TABDELIMITED to FODS in Java., Free Online Java Merge TABDELIMITED to fods., Java Combine TABDELIMITED to FODS Online for Free., TABDELIMITED Merge]
+description: Aspose Excel. Java Aspose.Cells. TABDELIMITED egyesítése a FODS mentési formátumba. Java TABDELIMITED kombinálása FODS formátumba. TABDELIMITED egyesítése a FODS-es számmal a Java-ben. TABDELIMITED Egyesítés.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge TABDELIMITED to FODS in Java., Java Merge TABDELIMITED to fods., Java Combine TABDELIMITED to FODS., TABDELIMITED Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="TABDELIMITED egyesítése a FODS via Java számmal" h2="Nagysebességű Java-es könyvtár a TABDELIMITED FODS-es egyesítéséhez. Használja a API-es excel-konverziónkat a Java-es magas szintű, platformfüggetlen szoftver fejlesztésére. Ez egy professzionális szoftvermegoldás Excel, CSV, OpenOffice, PDF, HTML, image és sok más excel formátum importálásához és exportálásához." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="TABDELIMITED" additionalConversionTag="FODS" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Merge TABDELIMITED to FODS in Java
 
 {{% blocks/products/pf/agp/content h2="TABDELIMITED egyesítése a FODS-gyel a Java használatával" %}}
 
-Hogyan egyesíthetem a TABDELIMITED-et a FODS-gyel? A Aspose.Cells for Java könyvtárral egyszerűen egyesítheti a TABDELIMITED-et a FODS-gyel programozottan, néhány sornyi kóddal.[Aspose.Cells for Java](https://products.aspose.com/cells/java) képes többplatformos alkalmazásokat létrehozni, módosítani, konvertálni, renderelni és kinyomtatni az összes Excel fájlt. Java Excel API nem csak a táblázatformátumok között konvertál, hanem Excel fájlokat is képes megjeleníteni képként, PDF, HTML, ODS, CSV, CSV, CSV, CSV, CSV, CSV, SVG, és így tovább, SVG P, 8 PT a választás,3,8 ipari szabvány szerinti dokumentumok cseréjére formátumok. A legújabb verziót közvetlenül a webhelyről töltheti le[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) és telepítse a Maven alapú projekten belül a következő konfigurációk hozzáadásával a pom.xml fájlhoz.
+ Hogyan egyesíthetem a TABDELIMITED-et a FODS-gyel? A Aspose.Cells for Java könyvtárral egyszerűen egyesítheti a TABDELIMITED-et a FODS-gyel programozottan, néhány sornyi kóddal.[Aspose.Cells for Java](https://products.aspose.com/cells/java)képes többplatformos alkalmazásokat létrehozni, módosítani, konvertálni, renderelni és kinyomtatni az összes Excel fájlt. Java Az Excel API nemcsak a táblázatformátumok között konvertál, hanem Excel-fájlokat is képes megjeleníteni képként, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT és egyebekként, így tökéletes választás a szabványos formátumú dokumentumok cseréjéhez. A legújabb verziót közvetlenül a webhelyről töltheti le[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) és telepítse a Maven alapú projekten belül a következő konfigurációk hozzáadásával a pom.xml fájlhoz.
 
 {{% blocks/products/pf/agp/code-block title="Adattár" offSpacer="true" %}}
 
@@ -45,7 +45,7 @@ Hogyan egyesíthetem a TABDELIMITED-et a FODS-gyel? A Aspose.Cells for Java kön
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="TABDELIMITED egyesítése a FODS-es számmal a Java-ben online ingyen" %}}
+{{% blocks/products/pf/agp/content h2="TABDELIMITED egyesítése a FODS-es számmal a Java-ben" %}}
 
 A következő példa bemutatja a TABDELIMITED és a FODS egyesítését a Aspose.Cells for Java számban.
 {{% blocks/products/pf/agp/text %}}
@@ -56,7 +56,7 @@ Kövesse az egyszerű lépéseket a TABDELIMITED FODS-es egyesítéséhez. Tölt
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Ingyenes online a TABDELIMITED egyesítéséhez a FODS-es számhoz a Java-ben" InputFormat="tsv" InputFormat2="fods" outformat="fods" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="java" %}}
+{{% cells-merger title="Mintakód a Java-es TABDELIMITED FODS-es egyesítéséhez" InputFormat="tsv" InputFormat2="fods" outformat="fods" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="A TABDELIMITED egyesítése a FODS via Java számmal" %}}
 
@@ -103,11 +103,11 @@ API-jaink minden nagyobb platformon és operációs rendszeren támogatottak. Mi
 <!-- aboutfile Starts -->
     {{< blocks/products/pf/agp/about-file-section >}}
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="TABDELIMITED" readMoreLink="https://docs.fileformat.com/spreadsheet/tsv/" >}}A tabulátorral elválasztott értékek (TSV) fájlformátum a tabulátorokkal elválasztott adatokat egyszerű szöveges formátumban jelenti. A CSV-hez hasonló fájlformátumot az adatok strukturált szervezésére használják a különböző alkalmazások közötti importálás és exportálás érdekében. A formátumot elsősorban adatimportálására/exportálására és adatcseréjére használják táblázatkezelő alkalmazásokban és adatbázisokban. A TSV fájl minden rekordja egyetlen sor szövegfájlban található, ahol minden mezőértéket tabulátor karakter választ el. A TSV fájlformátum médiatípusa szöveg/tabulátorral elválasztott értékek.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="FODS" readMoreLink="https://docs.fileformat.com/spreadsheet/fods/" >}}A .fods kiterjesztésű fájl az OpenDocument Spreadsheet dokumentumformátum egyik típusa, amely sorokban és oszlopokban tárolja az adatokat. A formátumot az OASIS által közzétett és karbantartott ODF 1.2 specifikáció részeként határozták meg. A FODS fájlok nem nyithatók meg Excellel, egy másik táblázatkezelő szoftveralkalmazással a Microsoft. A FODS fájlok ODS néven menthetők a LibreOffice segítségével, és konvertálhatók más formátumokba, például a XLS és a 4816151 és a 48133 formátumokba.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="FODS" readMoreLink="https://docs.fileformat.com/spreadsheet/fods/" >}}.fods kiterjesztésű fájl az OpenDocument Spreadsheet dokumentumformátum egyik típusa, amely sorokban és oszlopokban tárolja az adatokat. A formátumot az OASIS által közzétett és karbantartott ODF 1.2 specifikáció részeként határozták meg. A FODS fájlok nem nyithatók meg Excellel, egy másik táblázatkezelő szoftveralkalmazással a Microsoft. A FODS fájlok ODS néven menthetők a LibreOffice segítségével, és konvertálhatók más formátumokba, például a XLS és a 4816151 és a 48133 formátumokba.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
     {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="Egyéb támogatott egyesítő formátumok" subTitle="Java használatával tabulátorral elválasztva is egyesíthető számos más fájlformátumhoz, beleértve." >}}
+{{< blocks/products/pf/agp/other-supported-section title="Egyéb támogatott egyesítő formátumok" subTitle="A Java használatával tabulátorral elválasztva is egyesíthető számos más fájlformátumhoz, beleértve." >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-tabdelimited-to-docx/" name="TABDELIMITED egyesítése a DOCX számmal" description="Microsoft Word dokumentum" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-tabdelimited-to-sql/" name="TABDELIMITED egyesítése SQL-be" description="Strukturált lekérdezési nyelv" >}}
@@ -132,7 +132,7 @@ API-jaink minden nagyobb platformon és operációs rendszeren támogatottak. Mi
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-tabdelimited-to-xltm/" name="TABDELIMITED egyesítése a XLTM számmal" description="Excel-makró-kompatibilis sablon" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-tabdelimited-to-xltx/" name="TABDELIMITED egyesítése a XLTX számmal" description="Office OpenXML Excel sablon" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-tabdelimited-to-xml/" name="TABDELIMITED egyesítése XML-be" description="Bővíthető jelölőnyelv" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-tabdelimited-to-xps/" name="TABDELIMITED egyesítése a XPS számmal" description="XML papírspecifikációk" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-tabdelimited-to-xps/" name="TABDELIMITED egyesítése a XPS számmal" description="XML papír specifikációk" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-tabdelimited-to-json/" name="TABDELIMITED egyesítése a JSON számmal" description="JavaScript objektum jelölés" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-tabdelimited-to-jpeg/" name="TABDELIMITED egyesítése a JPEG számmal" description="JPEG Kép" >}}
 

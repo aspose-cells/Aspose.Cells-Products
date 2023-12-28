@@ -1,7 +1,7 @@
 ---
-title: C++ XLTM JPG formátumba – Online XLTM JPG konverter
-description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. Ingyenes online C++ A XLTM konvertálása JPG mentési formátumba. C++ XLTM JPG formátumba. Mentse el a XLTM-et JPG C++-be.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ XLTM to JPG saveformat., Free Online XLTM to JPG C++., C++ Convert XLTM to JPG]
+title: C++ XLTM - JPG - XLTM - JPG konverter
+description: Aspose Excel. A XLTM-et gyorsan és egyszerűen konvertálja JPG formátumba a Aspose.Cells-gyel. C++ XLTM JPG formátumba. C++ Mentse a XLTM-et JPG formátumba. Mentse el a XLTM-et JPG formátumban a C++ használatával.
+keywords: [Aspose Excel., C++ Aspose.Cells., Convert XLTM to JPG in C++., Save XLTM to JPG using C++., C++ XLTM to JPG saveformat., XLTM to JPG Converter., C++ Save XLTM as JPG]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Konvertálja a XLTM-et JPG-re a C++-ben" h2="Nagy teljesítményű XLTM konvertálás JPG formátumba a C++ könyvtár használatával, Microsoft Excel, OpenOffice vagy Adobe Acrobat telepítése nélkül." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" sourceAdditionalConversionTag="" additionalConversionTag="JPG" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ XLTM to JPG 
 
 {{% blocks/products/pf/agp/content h2="Alakítsa át a XLTM-et JPG-be a C++ használatával" %}}
 
- Hogyan konvertálhatom a XLTM fájlt JPG-re? A Aspose.Cells for C++ könyvtárral egyszerűen konvertálhatja a XLTM-et programozottan, néhány soros kóddal JPG formátumba.[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) képes többplatformos alkalmazásokat létrehozni, módosítani, konvertálni, renderelni és kinyomtatni az összes Excel fájlt. C++ Excel API nem csak a táblázatformátumok között konvertál, hanem Excel fájlokat is képes megjeleníteni képként, PDF, HTML, ODS, CSV, CSV, CSV, CSV, CSV, CSV, SVG, és így tovább, SVG P, 8 PT a választás,3,8 ipari szabvány szerinti dokumentumok cseréjére formátumok. A legújabb verziót közvetlenül letöltheti, csak nyissa meg[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) csomagkezelő, keresse meg a Aspose.Cells.Cpp címet, és telepítse. A következő parancsot is használhatja a Package Manager konzolból.
+ Hogyan konvertálhatom a XLTM fájlt JPG-re? A Aspose.Cells for C++ könyvtárral egyszerűen konvertálhatja a XLTM-et programozottan, néhány soros kóddal JPG formátumba.[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) képes többplatformos alkalmazásokat létrehozni, módosítani, konvertálni, renderelni és kinyomtatni az összes Excel fájlt. C++ Az Excel API nemcsak a táblázatformátumok között konvertál, hanem Excel-fájlokat is képes megjeleníteni képként, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT és egyebekként, így tökéletes választás a szabványos formátumú dokumentumok cseréjéhez. A legújabb verziót közvetlenül letöltheti, csak nyissa meg[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) csomagkezelő, keresse meg a Aspose.Cells.Cpp címet, és telepítse. A következő parancsot is használhatja a Package Manager konzolból.
 
 {{% blocks/products/pf/agp/code-block title="Parancs" offSpacer="true" %}}
 
@@ -26,7 +26,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Mentse el a XLTM-et JPG formátumban C++-ben online ingyen" %}}
+{{% blocks/products/pf/agp/content h2="Mentse el a XLTM-et JPG formátumban a C++-ben" %}}
 
 A következő példa bemutatja a XLTM konvertálását JPG formátumba a C++-ben.
 {{% blocks/products/pf/agp/text %}}
@@ -37,7 +37,7 @@ Kövesse az egyszerű lépéseket a XLTM JPG formátumba konvertálásához. Tö
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Ingyenes alkalmazás és mintakód a XLTM JPG online konvertálásához" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xltm" outformat="jpg" IsLandingPage="true" language="cpp" %}}
+{{% cells-convert title="Mintakód a XLTM JPG formátumba konvertálásához" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xltm" outformat="jpg" IsLandingPage="true" language="cpp" %}}
 
 {{% blocks/products/pf/agp/content h2="A XLTM konvertálása JPG-re a C++-en keresztül" %}}
 
@@ -49,7 +49,7 @@ Programozottan kell konvertálnia a XLTM fájlokat JPG formátumba? A C++ fejles
 
 1.  Telepítse a „Aspose.Cells for C++” fájlt.
 1.  Adjon hozzá egy könyvtári hivatkozást (importálja a könyvtárat) a C++ projekthez.
-1.  Töltse be a XLTM fájlt a Factory::CreateIWorkbook segítségével.
+1.  Töltse be a XLTM fájlt a munkafüzet segítségével.
 1.  Konvertálja a XLTM-et JPG-be a Save() metódus meghívásával.
 1.  Szerezze meg a XLTM konvertálási eredményt JPG-re.
 
@@ -101,7 +101,6 @@ Három lehetőség közül választhat a „Aspose.Cells for C++” telepítés�
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xltm-to-pdf/" name="XLTM-PDF" description="Hordozható dokumentum formátum" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xltm-to-png/" name="XLTM-PNG" description="Hordozható hálózati grafika" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xltm-to-svg/" name="XLTM-SVG" description="Skálázható vektorgrafika" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xltm-to-tiff/" name="XLTM-TIFF" description="Címkézett képformátum" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xltm-to-tsv/" name="XLTM-TSV" description="Tabulátorral elválasztott értékek" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xltm-to-txt/" name="XLTM-TXT" description="Szöveges dokumentum" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xltm-to-xls/" name="XLTM-XLS" description="Excel bináris formátum" >}}
@@ -112,7 +111,7 @@ Három lehetőség közül választhat a „Aspose.Cells for C++” telepítés�
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xltm-to-xltx/" name="XLTM-XLTX" description="Office OpenXML Excel sablon" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xltm-to-xml/" name="XLTM XML-RE" description="Bővíthető jelölőnyelv" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xltm-to-xps/" name="XLTM-XPS" description="XML papírspecifikációk" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xltm-to-xps/" name="XLTM-XPS" description="XML papír specifikációk" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xltm-to-json/" name="XLTM-JSON" description="JavaScript objektum jelölés" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xltm-to-jpeg/" name="XLTM-JPEG" description="JPEG Kép" >}}
 

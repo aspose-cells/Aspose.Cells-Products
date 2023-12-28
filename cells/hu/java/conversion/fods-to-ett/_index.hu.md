@@ -1,7 +1,7 @@
 ---
-title: Java FODS az ETT-nek – Online FODS az ETT átalakítónak
-description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Ingyenes online Java A FODS konvertálása ETT mentési formátumba. Java FODS ETT formátumba. Mentse a FODS számot az ETT Java számra.
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java FODS to ETT saveformat., Free Online FODS to ETT Java., Java Convert FODS to ETT]
+title: Java FODS az ETT-hez - FODS az ETT átalakítóhoz
+description: Aspose Excel. A FODS számot gyorsan és egyszerűen ETT-re alakíthatja át a Aspose.Cells-es számmal. Java FODS ETT-vé. Java Mentse a FODS számot az ETT-nek. Mentse el a FODS számot ETT-ként a Java használatával.
+keywords: [Aspose Excel., Java Aspose.Cells., Convert FODS to ETT in Java., Save FODS to ETT using Java., Java FODS to ETT saveformat., FODS to ETT Converter., Java Save FODS as ETT]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Konvertálja a FODS-et ETT-re a Java-ben" h2="Nagysebességű Java könyvtár a FODS ETT-vé konvertálásához. Ez egy professzionális szoftvermegoldás a FODS, ETT és sok más formátum importálásához és exportálásához a Java használatával." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="ETT" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java FODS to E
 
 {{% blocks/products/pf/agp/content h2="Konvertálja a FODS-et ETT-re a Java használatával" %}}
 
- Hogyan konvertálhatom a FODS-et ETT-re? A Aspose.Cells for Java könyvtárral könnyedén konvertálhatja a FODS-et ETT-re néhány soros kóddal programozottan.[Aspose.Cells for Java](https://products.aspose.com/cells/java) képes többplatformos alkalmazásokat létrehozni, módosítani, konvertálni, renderelni és kinyomtatni az összes Excel fájlt. Java Excel API nem csak a táblázatformátumok között konvertál, hanem Excel fájlokat is képes megjeleníteni képként, PDF, HTML, ODS, CSV, CSV, CSV, CSV, CSV, CSV, SVG, és így tovább, SVG P, 8 PT a választás,3,8 ipari szabvány szerinti dokumentumok cseréjére formátumok. A legújabb verziót közvetlenül a webhelyről töltheti le[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) és telepítse a Maven alapú projekten belül a következő konfigurációk hozzáadásával a pom.xml fájlhoz.
+Hogyan konvertálhatom a FODS-et ETT-re? A Aspose.Cells for Java könyvtárral könnyedén konvertálhatja a FODS-et ETT-re néhány soros kóddal programozottan.[Aspose.Cells for Java](https://products.aspose.com/cells/java)képes többplatformos alkalmazásokat létrehozni, módosítani, konvertálni, renderelni és kinyomtatni az összes Excel fájlt. Java Az Excel API nemcsak a táblázatformátumok között konvertál, hanem Excel-fájlokat is képes megjeleníteni képként, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT és egyebekként, így tökéletes választás a szabványos formátumú dokumentumok cseréjéhez. A legújabb verziót közvetlenül a webhelyről töltheti le[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) és telepítse a Maven alapú projekten belül a következő konfigurációk hozzáadásával a pom.xml fájlhoz.
 
 {{% blocks/products/pf/agp/code-block title="Adattár" offSpacer="true" %}}
 
@@ -45,7 +45,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java FODS to E
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Takarítson meg FODS-et az ETT-nek a Java számon online ingyen" %}}
+{{% blocks/products/pf/agp/content h2="Mentse el a FODS számot az ETT számára a Java számon" %}}
 
 A következő példa bemutatja, hogyan lehet Java-ben a FODS-et ETT-vé alakítani.
 {{% blocks/products/pf/agp/text %}}
@@ -56,19 +56,19 @@ Kövesse az egyszerű lépéseket a FODS ETT-re konvertálásához. Töltse fel 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Ingyenes alkalmazás és mintakód a FODS ETT Online konvertálásához" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="fods" outformat="ett" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Mintakód a FODS ETT-re konvertálásához" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="fods" outformat="ett" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="A FODS átalakítása ETT via Java-re" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
-FODS fájlokat programozottan ETT-re kell konvertálni? A Java fejlesztők néhány sornyi kóddal könnyedén konvertálhatják a FODS-et ETT-vé.
+A FODS fájlokat programozottan ETT-re kell konvertálni? A Java fejlesztők néhány sornyi kóddal könnyedén konvertálhatják a FODS-et ETT-vé.
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Telepítse a „Aspose.Cells for Java” fájlt.
 1.  Adjon hozzá egy könyvtári hivatkozást (importálja a könyvtárat) a Java projekthez.
-1.  Töltse be a FODS számú fájlt a Workbook osztály egy példányával.
+1. Töltse be a FODS számú fájlt a Workbook osztály egy példányával.
 1.  Konvertálja a FODS-et ETT-re a Workbook.save metódus hívásával.
 1.  Szerezze meg a FODS konverziós eredményt ETT-re.
 
@@ -97,7 +97,7 @@ FODS fájlokat programozottan ETT-re kell konvertálni? A Java fejlesztők néh�
 
 <!-- aboutfile Starts -->
     {{< blocks/products/pf/agp/about-file-section >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="FODS" readMoreLink="https://docs.fileformat.com/spreadsheet/fods/" >}}A .fods kiterjesztésű fájl az OpenDocument Spreadsheet dokumentumformátum egyik típusa, amely sorokban és oszlopokban tárolja az adatokat. A formátumot az OASIS által közzétett és karbantartott ODF 1.2 specifikáció részeként határozták meg. A FODS fájlok nem nyithatók meg Excellel, egy másik táblázatkezelő szoftveralkalmazással a Microsoft. A FODS fájlok ODS néven menthetők a LibreOffice segítségével, és konvertálhatók más formátumokba, például a XLS és a 4816151 és a 48133 formátumokba.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="FODS" readMoreLink="https://docs.fileformat.com/spreadsheet/fods/" >}}.fods kiterjesztésű fájl az OpenDocument Spreadsheet dokumentumformátum egyik típusa, amely sorokban és oszlopokban tárolja az adatokat. A formátumot az OASIS által közzétett és karbantartott ODF 1.2 specifikáció részeként határozták meg. A FODS fájlok nem nyithatók meg Excellel, egy másik táblázatkezelő szoftveralkalmazással a Microsoft. A FODS fájlok ODS néven menthetők a LibreOffice segítségével, és konvertálhatók más formátumokba, például a XLS és a 4816151 és a 48133 formátumokba.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="ETT" readMoreLink="https://fileinfo.com/extension/ett/" >}}Az ETT-fájl egy táblázatsablon, amelyet a Kingsoft Spreadsheets, a WPS Office csomagban található táblázatkezelő program hozott létre. Olyan sablont tárol, amely kiindulási pontként használható új Kingsoft táblázatok (.ET fájlok) létrehozásához. Az ETT fájlokat gyakran használják pénzügyi költségvetések létrehozására és adatok rendszerezésére.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
     {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->
@@ -125,7 +125,7 @@ FODS fájlokat programozottan ETT-re kell konvertálni? A Java fejlesztők néh�
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/fods-to-xltm/" name="FODS-XLTM" description="Excel-makró-kompatibilis sablon" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/fods-to-xltx/" name="FODS-XLTX" description="Office OpenXML Excel sablon" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/fods-to-xml/" name="FODS XML-RE" description="Bővíthető jelölőnyelv" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/fods-to-xps/" name="FODS-XPS" description="XML papírspecifikációk" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/fods-to-xps/" name="FODS-XPS" description="XML papír specifikációk" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/fods-to-json/" name="FODS-JSON" description="JavaScript objektum jelölés" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/fods-to-jpeg/" name="FODS-JPEG" description="JPEG Kép" >}}
 

@@ -1,7 +1,7 @@
 ---
-title: Python TABDELIMITED to Excel - ऑनलाइन TABDELIMITED to EXCEL कन्वर्टर
-description: Aspose एक्सेल। Python Aspose.Cells. Python Aspose Cells. मुफ़्त ऑनलाइन Python TABDELIMITED को एक्सेल सेवफॉर्मेट में कनवर्ट करें। Python टैब एक्सेल प्रारूप में सीमित। TABDELIMITED को Excel Python में सहेजें।
-keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python TABDELIMITED to EXCEL saveformat., Free Online TABDELIMITED to EXCEL Python., Python Convert TABDELIMITED to EXCEL]
+title: Python एक्सेल में टैबडेलीमिटेड - एक्सेल कनवर्टर के लिए टैबडेलीमिटेड
+description: Aspose एक्सेल। Aspose.Cells के साथ TABDELIMITED को एक्सेल में जल्दी और आसानी से बदलें। Python TABDELIMITED को एक्सेल में बदलें। Python TABDELIMITED को Excel में सहेजें। Python का उपयोग करके TABDELIMITED को Excel के रूप में सहेजें।
+keywords: [Aspose Excel., Python Aspose.Cells., Convert TABDELIMITED to EXCEL in Python., Save TABDELIMITED to EXCEL using Python., Python TABDELIMITED to EXCEL saveformat., TABDELIMITED to EXCEL Converter., Python Save TABDELIMITED as EXCEL]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Python में TABDELIMITED को Excel में बदलें" h2="TABDELIMITED को EXCEL में परिवर्तित करने के लिए हाई-स्पीड Python लाइब्रेरी। Python में उच्च-स्तरीय, प्लेटफ़ॉर्म स्वतंत्र सॉफ़्टवेयर विकसित करने के लिए हमारे एक्सेल रूपांतरण API का उपयोग करें।" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="EXCEL" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,12 +12,12 @@ keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python TAB
 
 {{% blocks/products/pf/agp/content h2="Python में TABDELIMITED को Excel में बदलें" %}}
 
- मैं TABDELIMITED को EXCEL में कैसे परिवर्तित करूं? NET लाइब्रेरी के माध्यम से Aspose.Cells for Python के साथ, आप कोड की कुछ पंक्तियों के साथ आसानी से TABDELIMITED को EXCEL में प्रोग्रामेटिक रूप से परिवर्तित कर सकते हैं।[Aspose.Cells for Python वाया NET](https://pypi.org/project/aspose-cells-python/)सभी एक्सेल फ़ाइलों को उत्पन्न करने, संशोधित करने, परिवर्तित करने, प्रस्तुत करने और प्रिंट करने की क्षमता के साथ क्रॉस-प्लेटफ़ॉर्म एप्लिकेशन बनाने में सक्षम है। Python एक्सेल API न केवल स्प्रेडशीट प्रारूपों के बीच कनवर्ट कर सकता है, यह एक्सेल फाइलों को छवियों, PDF, HTML, ODS, CSV, SVG, JSON, वर्ड, पीपीटी और भी बहुत कुछ के रूप में प्रस्तुत कर सकता है, इस प्रकार यह एक्सचेंज के लिए एक आदर्श विकल्प बन जाता है। उद्योग-मानक में दस्तावेज़ प्रारूप.
+मैं TABDELIMITED को EXCEL में कैसे परिवर्तित करूं? NET लाइब्रेरी के माध्यम से Aspose.Cells for Python के साथ, आप कोड की कुछ पंक्तियों के साथ आसानी से TABDELIMITED को EXCEL में प्रोग्रामेटिक रूप से परिवर्तित कर सकते हैं।[Aspose.Cells for Python वाया NET](https://pypi.org/project/aspose-cells-python/)सभी एक्सेल फ़ाइलों को उत्पन्न करने, संशोधित करने, परिवर्तित करने, प्रस्तुत करने और प्रिंट करने की क्षमता के साथ क्रॉस-प्लेटफ़ॉर्म एप्लिकेशन बनाने में सक्षम है। Python एक्सेल API न केवल स्प्रेडशीट प्रारूपों के बीच परिवर्तित होता है, बल्कि यह एक्सेल फाइलों को छवियों, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT और अधिक के रूप में भी प्रस्तुत कर सकता है, इस प्रकार यह उद्योग-मानक प्रारूपों में दस्तावेजों का आदान-प्रदान करने के लिए एक आदर्श विकल्प बन जाता है।
 
 {{% /blocks/products/pf/agp/content %}}
 
 
-{{% blocks/products/pf/agp/content h2="Python में TABDELIMITED को एक्सेल में निःशुल्क ऑनलाइन सेव करें" %}}
+{{% blocks/products/pf/agp/content h2="Python में TABDELIMITED को Excel में सहेजें" %}}
 
 निम्नलिखित उदाहरण दर्शाता है कि Python via NET में TABDELIMITED को EXCEL में कैसे परिवर्तित किया जाए।
 {{% blocks/products/pf/agp/text %}}
@@ -28,7 +28,7 @@ TABDELIMITED को EXCEL में बदलने के लिए आसा�
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="TABDELIMITED को ऑनलाइन एक्सेल में बदलने के लिए निःशुल्क ऐप और नमूना कोड" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="tsv" outformat="xlsx" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="TABDELIMITED को EXCEL में बदलने के लिए नमूना कोड" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="tsv" outformat="xlsx" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="TABDELIMITED को एक्सेल में कैसे बदलें" %}}
 
@@ -52,7 +52,7 @@ TABDELIMITED फ़ाइलों को प्रोग्रामेटि�
 हम अपने Python पैकेजों को PyPi रिपॉजिटरी में होस्ट करते हैं।
 
 {{% blocks/products/pf/agp/text %}}
-Aspose.Cells for Python से इंस्टॉल करें<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , कमांड का उपयोग इस प्रकार करें:<code>$ pip install aspose-cells-python</code>.
+ Aspose.Cells for Python से इंस्टॉल करें<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , कमांड का उपयोग इस प्रकार करें:<code>$ pip install aspose-cells-python</code>.
 {{% /blocks/products/pf/agp/text %}}
 
 {{% blocks/products/pf/agp/text %}}

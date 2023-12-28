@@ -2,6 +2,7 @@
 title: Kiemelések beszúrása az Excelbe a Python via Java használatával
 weight: 360
 description: Python via Java forráskód a kiemelések Excelbe való beillesztéséhez.
+keywords: [Python Aspose.Cells., Python add Callouts shape., Python insert Callouts shape., Python create Callouts shape]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Kiemelések beszúrása az Excelbe a Python via Java használatával" h2="Szúrjon be kiemeléseket a Aspose.Cells\' API használatával, szoftverek, például Microsoft vagy Open Office, Adobe PDF stb. nélkül." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="" pfName="Aspose.Cells" subTitlepfName="for Python via Java" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="XLSX" >}}
@@ -29,7 +30,7 @@ description: Python via Java forráskód a kiemelések Excelbe való beilleszté
 
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
-{{% blocks/products/pf/agp/feature-section-col title="A kiemelések Excel-fájlba való beszúrásának lépései a Python via Java használatával" %}}
+{{% blocks/products/pf/agp/feature-section-col title="kiemelések Excel-fájlba való beszúrásának lépései a Python via Java használatával" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
@@ -37,7 +38,7 @@ Szüksége van az aspose.cells-re a következő munkafolyamat kipróbálásához
 
 {{% /blocks/products/pf/agp/text %}}
 
-Munkafüzet objektum példányosítása. (vagy->Töltse be a XLSX fájlt a teljes elérési úttal.)
++ Munkafüzet objektum példányosítása. (vagy->Töltse be a XLSX fájlt a teljes elérési úttal.)
 + Válassza ki a munkalapot az indexén keresztül.
  + Használja a[módszer hozzáadása](https://reference.aspose.com/cells/python-java/asposecells.api/shapecollection#addAutoShape(int,%20int,%20int,%20int,%20int,%20int,%20int)) feliratok beszúrásához a kiválasztott munkalapba
 + Mentse a munkafüzetet XLSX formátumban.
@@ -48,17 +49,17 @@ Munkafüzet objektum példányosítása. (vagy->Töltse be a XLSX fájlt a telje
 
 {{% blocks/products/pf/agp/text %}}
 
-Aspose.Cells for Python via Java platformfüggetlen API, és bármilyen platformon használható (Windows, Linux és MacOS), csak győződjön meg arról, hogy a rendszer Java 1.8 vagy újabb[Python](https://www.python.org/downloads/) 3,5 vagy magasabb.
+ Aspose.Cells for Python via Java platformfüggetlen API, és bármilyen platformon használható (Windows, Linux és MacOS), csak győződjön meg arról, hogy a rendszer Java 1.8 vagy újabb[Python](https://www.python.org/downloads/) 3,5 vagy magasabb.
  
 {{% /blocks/products/pf/agp/text %}}
 
-- Bármilyen operációs rendszer, amely Python via Java szkripteket futtat, például Windows, Linux és MacOS
--  Telepítse a Java-et, és adja hozzá a PATH környezeti változóhoz, például:<code>PATH=C:\Program Files\Java\jdk1.8.0_131;</code>.
+-  Bármilyen operációs rendszer, amely Python via Java szkripteket futtat, például Windows, Linux és MacOS
+- Telepítse a Java-et, és adja hozzá a PATH környezeti változóhoz, például:<code>PATH=C:\Program Files\Java\jdk1.8.0_131;</code>.
 -  Telepítés: Aspose.Cells for Python via Java innen<a href="https://pypi.org/project/aspose-cells/">pypi</a> , használja a parancsot a következőképpen:<code>$ pip install aspose-cells</code>.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-Az alábbi mintakód bemutatja, hogyan kell beszúrni egy „Gondolatbuborék: Felhőt”. További típusokért tekintse meg az alábbi „A kiemeléstípusok áttekintését” című részt.
+Az alábbi mintakód bemutatja, hogyan kell beilleszteni egy „Gondolatbuborék: Felhőt”. További típusokért tekintse meg az alábbi „A kiemeléstípusok áttekintését” című részt.
 
 {{% blocks/products/pf/agp/code-block title="Feliratok beszúrása - Python via Java" offSpacer="" %}}
 
@@ -72,7 +73,7 @@ Az alábbi mintakód bemutatja, hogyan kell beszúrni egy „Gondolatbuborék: F
  <div class="row">
   <div class="container">
    <h2 class="pr-ft">
- kiemelés típusainak áttekintése
+ A kiemelés típusainak áttekintése
    </h2>
    <div class="col-lg-4">
     <!--em class="fa fa-chrome ico-blue fa-2x col-lg-2">
@@ -185,7 +186,7 @@ Az alábbi mintakód bemutatja, hogyan kell beszúrni egy „Gondolatbuborék: F
 
 {{% blocks/products/pf/agp/content h2="Körülbelül Aspose.Cells for Python via Java API" %}}
 
- Aspose.Cells API használható Microsoft Excel formátumok létrehozására, szerkesztésére, konvertálására és renderelésére különböző formátumokba. Ezen túlmenően használható átfogó diagramok készítésére, skálázható jelentésekre és megbízható számításokra a szoftveralkalmazásokon belül. A Aspose.Cells egy önálló API, és nem igényel olyan szoftvert, mint a Microsoft vagy az OpenOffice.
+Aspose.Cells API használható Microsoft Excel formátumok létrehozására, szerkesztésére, konvertálására és renderelésére különböző formátumokba. Ezen túlmenően használható átfogó diagramok készítésére, skálázható jelentésekre és megbízható számításokra a szoftveralkalmazásokon belül. A Aspose.Cells egy önálló API, és nem igényel olyan szoftvert, mint a Microsoft vagy az OpenOffice.
 
 {{% /blocks/products/pf/agp/content %}}
 

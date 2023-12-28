@@ -2,6 +2,7 @@
 title:  XLSB dokumentumtáblázat via Java
 weight: 670
 description: Java mintakód diagram vagy diagram rajzolásához és konvertálásához a XLSB fájlban a Java Futókörnyezet JSP/JSF alkalmazásokhoz és asztali alkalmazásokhoz.
+keywords: [Java Aspose.Cells., Java Convert chart to image in xlsb., Java Save chart to image in xlsb., Java chart to image in xlsb., xlsb convert chart to image in Java., xlsb save chart to imagein Java., xlsb chart to image in Java]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="XLSB Diagramok formátuma a Java-ben" h2="Natív és nagy teljesítményű XLSB dokumentumdiagramok szerveroldali Aspose.Cells for Java API-k használatával, olyan szoftverek használata nélkül, mint a Microsoft vagy az Adobe PDF." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="XLSB" >}}
@@ -11,7 +12,7 @@ description: Java mintakód diagram vagy diagram rajzolásához és konvertálá
 
 {{% blocks/products/pf/agp/content h2="XLSB fájldiagramok létrehozása a Java használatával" %}}
 
- A XLSB fájldiagramok létrehozásához használjuk
+ XLSB fájldiagramok létrehozásához használjuk
  [Aspose.Cells for Java](https://products.aspose.com/cells/java) 
  API, amely funkciókban gazdag, hatékony és könnyen használható API for Java grafikon-platform. A legújabb verziót közvetlenül a webhelyről töltheti le
  [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) 
@@ -64,7 +65,7 @@ description: Java mintakód diagram vagy diagram rajzolásához és konvertálá
 + Mintaértékek hozzáadása a cellákhoz.
 + Adjon hozzá egy diagramot a munkalaphoz.
 + Az újonnan hozzáadott diagram példányának elérése.
-A diagram adatforrásának beállítása tartományként.
++ A diagram adatforrásának beállítása tartományként.
 + Mentse munkafüzetet.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

@@ -1,8 +1,8 @@
 ---
 title: JPG összevonása TIFF-gyel – JPG egyesítése TIFF-el a C#-ben
 url: /hu/net/merger/merge-jpg-to-tiff/ 
-description: Aspose Excel. C# Aspose.Cells. Ingyenes online egyesítése JPG TIFF mentési formátumba. C# JPG kombinálása TIFF formátummal. JPG összevonása TIFF-gyel a C#-ben. JPG-egyesítés.
-keywords: [Aspose Excel., C# Aspose.Cells., Merge JPG to TIFF in C#., Free Online C# Merge JPG to tiff., C# Combine JPG to TIFF Online for Free., JPG Merge]
+description: Aspose Excel. C# Aspose.Cells. JPG egyesítése TIFF mentési formátumba. C# JPG kombinálása TIFF formátummal. JPG összevonása TIFF-gyel a C#-ben. JPG-egyesítés.
+keywords: [Aspose Excel., C# Aspose.Cells., Merge JPG to TIFF in C#., C# Merge JPG to tiff., C# Combine JPG to TIFF., JPG Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="JPG egyesítése a TIFF-gyel a C#-en keresztül" h2="Nagysebességű C# könyvtár a JPG és a TIFF egyesítéséhez. Használja a API-es excel konverziónkat magas szintű, platformfüggetlen szoftver fejlesztésére a C#-ben. Ez egy professzionális szoftvermegoldás a Excel, CSV, OpenOffice, PDF, HTML, image és sok más excel formátum importálásához és exportálásához." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="JPG" additionalConversionTag="TIFF" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., C# Aspose.Cells., Merge JPG to TIFF in C#., Free Onlin
 
 {{% blocks/products/pf/agp/content h2="JPG egyesítése a TIFF-gyel a C# használatával" %}}
 
- Hogyan egyesíthetem a JPG-t a TIFF-gyel? A Aspose.Cells for .NET könyvtárral egyszerűen egyesítheti a JPG-t a TIFF-es formátummal programozottan, néhány sornyi kóddal.[Aspose.Cells for .NET](https://products.aspose.com/cells/net)képes többplatformos alkalmazásokat létrehozni, módosítani, konvertálni, renderelni és kinyomtatni az összes Excel fájlt. .NET Excel API nem csak a táblázatformátumok között konvertál, hanem Excel fájlokat is képes megjeleníteni képként, PDF, HTML, ODS, CSV, CSV, CSV, CSV, CSV, CSV, SVG, és így tovább, SVG P, 8 PT a választás,3,8 ipari szabvány szerinti dokumentumok cseréjére formátumok. Nyisd ki[NuGet](https://www.nuget.org/packages/aspose.cells) csomagkezelő, keresse meg a Aspose.Cells-et, és telepítse. A következő parancsot is használhatja a Package Manager konzolból.
+ Hogyan egyesíthetem a JPG-t a TIFF-gyel? A Aspose.Cells for .NET könyvtárral egyszerűen egyesítheti a JPG-t a TIFF-es formátummal programozottan, néhány sornyi kóddal.[Aspose.Cells for .NET](https://products.aspose.com/cells/net)képes többplatformos alkalmazásokat létrehozni, módosítani, konvertálni, renderelni és kinyomtatni az összes Excel fájlt. .NET Az Excel API nemcsak a táblázatformátumok között konvertál, hanem Excel-fájlokat is képes megjeleníteni képként, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT és egyebekként, így tökéletes választás a szabványos formátumú dokumentumok cseréjéhez. Nyisd ki[NuGet](https://www.nuget.org/packages/aspose.cells) csomagkezelő, keresse meg a Aspose.Cells-et, és telepítse. A következő parancsot is használhatja a Package Manager konzolból.
 
 {{% blocks/products/pf/agp/code-block title="Csomagkezelő konzolparancs" offSpacer="true" %}}
 
@@ -26,7 +26,7 @@ PM> Install-Package Aspose.Cells
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Ingyenesen egyesítse a JPG-t a TIFF-es számmal a C#-ben online" %}}
+{{% blocks/products/pf/agp/content h2="JPG egyesítése a TIFF-gyel a C#-ben" %}}
 
 A következő példa bemutatja, hogyan lehet összeolvasztani a JPG-t a TIFF-gyel a Aspose.Cells-es for .NET-ben.
 {{% blocks/products/pf/agp/text %}}
@@ -37,7 +37,7 @@ Kövesse az egyszerű lépéseket a JPG TIFF formátumú egyesítéséhez. Tölt
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Ingyenes online a JPG TIFF-es formátumhoz való egyesítése a C#-ben" InputFormat="jpg" InputFormat2="tiff" outformat="tiff" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="net" %}}
+{{% cells-merger title="Mintakód a JPG TIFF C#-ben való egyesítéséhez" InputFormat="jpg" InputFormat2="tiff" outformat="tiff" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="net" %}}
 
 {{% blocks/products/pf/agp/content h2="JPG egyesítése TIFF-hez a C#-en keresztül" %}}
 
@@ -117,7 +117,7 @@ API-jaink minden nagyobb platformon és operációs rendszeren támogatottak. Mi
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-jpg-to-xltm/" name="JPG egyesítése a XLTM-gyel" description="Excel-makró-kompatibilis sablon" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-jpg-to-xltx/" name="JPG egyesítése a XLTX-gyel" description="Office OpenXML Excel sablon" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-jpg-to-xml/" name="JPG egyesítése XML-be" description="Bővíthető jelölőnyelv" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-jpg-to-xps/" name="JPG egyesítése a XPS-gyel" description="XML papírspecifikációk" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-jpg-to-xps/" name="JPG egyesítése a XPS-gyel" description="XML papír specifikációk" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-jpg-to-json/" name="JPG egyesítése a JSON-gyel" description="JavaScript objektum jelölés" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-jpg-to-jpeg/" name="JPG egyesítése a JPEG-gyel" description="JPEG Kép" >}}
 

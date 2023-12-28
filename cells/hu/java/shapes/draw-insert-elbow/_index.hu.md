@@ -2,6 +2,7 @@
 title:  Könyökforma rajzolása vagy beszúrása Excel via Java-be
 weight: 30
 description: Rajzoljon vagy illesszen be könyök alakot a Aspose.Cells' Java API számmal szoftver nélkül, például Microsoft vagy Open Office, Adobe PDF stb.
+keywords: [Java Aspose.Cells., Java add elbow shape., Java insert elbow shape., Java create elbow shape]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Illessze be a könyök alakját az Excel via Java-be" h2="Illessze be a könyök alakját a Aspose.Cells\' API számmal szoftver nélkül, például Microsoft vagy Open Office, Adobe PDF stb." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSX" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="" fileiconsmall1="PPTX" fileiconsmall2="DOCX" fileiconsmall3="XLSX" fileiconsmall4="PDF" fileiconsmall5=" ODP " >}}
@@ -56,7 +57,7 @@ description: Rajzoljon vagy illesszen be könyök alakot a Aspose.Cells' Java AP
 
 {{% /blocks/products/pf/agp/text %}}
 
-Munkafüzet objektum példányosítása. (vagy->Töltse be a XLSX fájlt a teljes elérési úttal.)
++ Munkafüzet objektum példányosítása. (vagy->Töltse be a XLSX fájlt a teljes elérési úttal.)
 + Válassza ki a munkalapot az indexén keresztül.
  + Használja a[módszer hozzáadása](https://reference.aspose.com/cells/java/com.aspose.cells/shapecollection/#addAutoShape-int-int-int-int-int-int-int-) könyök alakzat beszúrásához a kiválasztott munkalapba
 + Mentse a munkafüzetet XLSX formátumban.

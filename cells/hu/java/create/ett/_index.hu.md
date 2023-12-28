@@ -1,7 +1,7 @@
 ---
 title: ETT létrehozása – ETT-fájl létrehozása a Java-ben
-description: "Aspose Excel. Java ETT-fájl létrehozása. ETT létrehozása Java. Java ETT-készítő. ETT létrehozása itt: Java. ETT-fájl létrehozása a Java használatával."
-keywords: [Aspose Excel., Java Aspose.Cells., Create ETT Java., Java ETT Creater., Create ETT file in Java., Generate ETT file in Java]
+description: Aspose Excel. Java Hozzon létre ETT-fájlt gyorsan és egyszerűen a Aspose.Cells-es számmal. ETT-fájl létrehozása a Java-es szám használatával. ETT-fájl létrehozása a Java-ben. Java ETT-készítő.
+keywords: [Aspose Excel., Java Aspose.Cells., Java Create ETT file., Generate ETT file in Java., Create ETT file using Java., Write data to ETT file via Java., Create a ETT file in Java., Java Generate a ETT file., Java ETT Creater]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Hozzon létre ETT-fájlt a Java-ben" h2="Nagy sebességű Java könyvtár az ETT-fájl létrehozásához. Ez egy professzionális szoftvermegoldás a XLSX, PDF és sok más formátum importálásához és exportálásához a Java használatával." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="ETT" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -11,7 +11,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Create ETT Java., Java ETT Creater
 
 {{% blocks/products/pf/agp/content h2="Hozzon létre ETT-fájlt a Java használatával" %}}
 
- Hogyan készítsünk ETT fájlt? A Aspose.Cells for Java könyvtárral könnyedén létrehozhat ETT-fájlt programozottan néhány sornyi kóddal.[Aspose.Cells for Java](https://products.aspose.com/cells/java) képes többplatformos alkalmazásokat létrehozni, módosítani, konvertálni, renderelni és kinyomtatni az összes Excel fájlt. Java Excel API nem csak a táblázatformátumok között konvertál, hanem Excel fájlokat is képes megjeleníteni képként, PDF, HTML, ODS, CSV, CSV, CSV, CSV, CSV, CSV, SVG, és így tovább, SVG P, 8 PT a választás,3,8 ipari szabvány szerinti dokumentumok cseréjére formátumok. A legújabb verziót közvetlenül a webhelyről töltheti le[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) és telepítse a Maven alapú projekten belül a következő konfigurációk hozzáadásával a pom.xml fájlhoz.
+Hogyan készítsünk ETT fájlt? A Aspose.Cells for Java könyvtárral könnyedén létrehozhat ETT-fájlt programozottan néhány sornyi kóddal.[Aspose.Cells for Java](https://products.aspose.com/cells/java)képes többplatformos alkalmazásokat létrehozni, módosítani, konvertálni, renderelni és kinyomtatni az összes Excel fájlt. Java Az Excel API nemcsak a táblázatformátumok között konvertál, hanem Excel-fájlokat is képes megjeleníteni képként, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT és egyebekként, így tökéletes választás a szabványos formátumú dokumentumok cseréjéhez. A legújabb verziót közvetlenül a webhelyről töltheti le[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) és telepítse a Maven alapú projekten belül a következő konfigurációk hozzáadásával a pom.xml fájlhoz.
 
 {{% blocks/products/pf/agp/code-block title="Adattár" offSpacer="true" %}}
 
@@ -101,7 +101,7 @@ wkb.save("Excel.ett");
 
 {{% blocks/products/pf/agp/text %}}
 
- Java konverziós mintaforráskód futtatása előtt győződjön meg arról, hogy rendelkezik a következő előfeltételekkel.
+ A Java konverziós mintaforráskód futtatása előtt győződjön meg arról, hogy rendelkezik a következő előfeltételekkel.
 
 {{% /blocks/products/pf/agp/text %}}
 

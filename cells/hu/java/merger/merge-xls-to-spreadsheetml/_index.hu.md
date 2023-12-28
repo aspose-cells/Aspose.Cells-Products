@@ -1,8 +1,8 @@
 ---
 title: A XLS egyesítése SPREADSHEETML-be – a XLS egyesítése SPREADSHEETML-be a Java-ben
 url: /hu/java/merger/merge-xls-to-spreadsheetml/ 
-description: Aspose Excel. Java Aspose.Cells. Ingyenes online egyesítés XLS SPREADSHEETML mentési formátumba. Java A XLS kombinálása SPREADSHEETML formátumba. A XLS egyesítése SPREADSHEETML-be a Java-ben. XLS Egyesítés.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge XLS to SPREADSHEETML in Java., Free Online Java Merge XLS to spreadsheetml., Java Combine XLS to SPREADSHEETML Online for Free., XLS Merge]
+description: Aspose Excel. Java Aspose.Cells. A XLS egyesítése SPREADSHEETML mentési formátumba. Java A XLS kombinálása SPREADSHEETML formátumba. A XLS egyesítése SPREADSHEETML-be a Java-ben. XLS Egyesítés.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge XLS to SPREADSHEETML in Java., Java Merge XLS to spreadsheetml., Java Combine XLS to SPREADSHEETML., XLS Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="A XLS egyesítése a SPREADSHEETML via Java számmal" h2="Nagy sebességű Java könyvtár a XLS SPREADSHEETML-be való egyesítéséhez. Használja a API-es excel-konverziónkat magas szintű, platformfüggetlen szoftverek fejlesztéséhez a Java-ben. Ez egy professzionális szoftvermegoldás a Excel, CSV, OpenOffice, PDF, HTML, image és sok más excel formátum importálásához és exportálásához." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="XLS" additionalConversionTag="SPREADSHEETML" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Merge XLS to SPREADSHEETML in Java
 
 {{% blocks/products/pf/agp/content h2="A XLS egyesítése SPREADSHEETML-be a Java használatával" %}}
 
-Hogyan egyesíthetem a XLS-et a SPREADSHEETML-be? A Aspose.Cells for Java könyvtárral egyszerűen egyesítheti a XLS-et a SPREADSHEETML-lel, néhány sornyi kóddal programozottan.[Aspose.Cells for Java](https://products.aspose.com/cells/java) képes többplatformos alkalmazásokat létrehozni, módosítani, konvertálni, renderelni és kinyomtatni az összes Excel fájlt. Java Excel API nem csak a táblázatformátumok között konvertál, hanem Excel fájlokat is képes megjeleníteni képként, PDF, HTML, ODS, CSV, CSV, CSV, CSV, CSV, CSV, SVG, és így tovább, SVG P, 8 PT a választás,3,8 ipari szabvány szerinti dokumentumok cseréjére formátumok. A legújabb verziót közvetlenül a webhelyről töltheti le[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) és telepítse a Maven alapú projekten belül a következő konfigurációk hozzáadásával a pom.xml fájlhoz.
+ Hogyan egyesíthetem a XLS-et a SPREADSHEETML-be? A Aspose.Cells for Java könyvtárral egyszerűen egyesítheti a XLS-et a SPREADSHEETML-lel, néhány sornyi kóddal programozottan.[Aspose.Cells for Java](https://products.aspose.com/cells/java)képes többplatformos alkalmazásokat létrehozni, módosítani, konvertálni, renderelni és kinyomtatni az összes Excel fájlt. Java Az Excel API nemcsak a táblázatformátumok között konvertál, hanem Excel-fájlokat is képes megjeleníteni képként, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT és egyebekként, így tökéletes választás a szabványos formátumú dokumentumok cseréjéhez. A legújabb verziót közvetlenül a webhelyről töltheti le[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) és telepítse a Maven alapú projekten belül a következő konfigurációk hozzáadásával a pom.xml fájlhoz.
 
 {{% blocks/products/pf/agp/code-block title="Adattár" offSpacer="true" %}}
 
@@ -45,7 +45,7 @@ Hogyan egyesíthetem a XLS-et a SPREADSHEETML-be? A Aspose.Cells for Java könyv
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Ingyenesen egyesítse a XLS-et a SPREADSHEETML-be a Java-ben online" %}}
+{{% blocks/products/pf/agp/content h2="A XLS egyesítése SPREADSHEETML-be a Java-ben" %}}
 
 A következő példa bemutatja, hogyan egyesítheti a XLS-et a SPREADSHEETML-be a Aspose.Cells-es for Java-ben.
 {{% blocks/products/pf/agp/text %}}
@@ -56,7 +56,7 @@ Kövesse az egyszerű lépéseket a XLS és a SPREADSHEETML egyesítéséhez. T�
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Ingyenes online összevonás a XLS SPREADSHEETML-be a Java-ben" InputFormat="xls" InputFormat2="xml" outformat="xml" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="java" %}}
+{{% cells-merger title="Mintakód a XLS és a SPREADSHEETML egyesítéséhez a Java-ben" InputFormat="xls" InputFormat2="xml" outformat="xml" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="A XLS és a SPREADSHEETML via Java egyesítése" %}}
 
@@ -107,7 +107,7 @@ API-jaink minden nagyobb platformon és operációs rendszeren támogatottak. Mi
     {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="Egyéb támogatott egyesítő formátumok" subTitle="A Java használatával az xl-eket sok más fájlformátumhoz is egyesítheti, beleértve." >}}
+{{< blocks/products/pf/agp/other-supported-section title="Egyéb támogatott egyesítő formátumok" subTitle="Java használatával az xl-eket sok más fájlformátumhoz is egyesítheti, beleértve." >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xls-to-docx/" name="XLS és a DOCX számok egyesítése" description="Microsoft Word dokumentum" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xls-to-sql/" name="A XLS egyesítése SQL-be" description="Strukturált lekérdezési nyelv" >}}
@@ -131,8 +131,8 @@ API-jaink minden nagyobb platformon és operációs rendszeren támogatottak. Mi
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xls-to-xlt/" name="XLS és a XLT számok egyesítése" description="Microsoft Excel-sablon" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xls-to-xltm/" name="XLS és a XLTM számok egyesítése" description="Excel-makró-kompatibilis sablon" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xls-to-xltx/" name="XLS és a XLTX számok egyesítése" description="Office OpenXML Excel sablon" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xls-to-xml/" name="A XLS egyesítése XML-be" description="Bővíthető jelölőnyelv" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xls-to-xps/" name="XLS és a XPS számok egyesítése" description="XML papírspecifikációk" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xls-to-xml/" name="Egyesítse a XLS-et XML-be" description="Bővíthető jelölőnyelv" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xls-to-xps/" name="XLS és a XPS számok egyesítése" description="XML papír specifikációk" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xls-to-json/" name="XLS és a JSON számok egyesítése" description="JavaScript objektum jelölés" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xls-to-jpeg/" name="XLS és a JPEG számok egyesítése" description="JPEG Kép" >}}
 

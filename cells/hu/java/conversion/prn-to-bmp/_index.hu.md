@@ -1,7 +1,7 @@
 ---
-title: Java PRN - BMP - Online PRN - BMP konverter
-description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Ingyenes online Java PRN konvertálása BMP mentési formátumra. Java PRN BMP formátumra. PRN mentése a BMP Java számra.
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java PRN to BMP saveformat., Free Online PRN to BMP Java., Java Convert PRN to BMP]
+title: Java PRN - BMP - PRN - BMP Átalakító
+description: Aspose Excel. A PRN-t gyorsan és egyszerűen konvertálja Aspose.Cells-re Aspose.Cells-re. Java PRN BMP-re. Java PRN mentése BMP-re. PRN mentése BMP-re a 407113481-es szám használatával.
+keywords: [Aspose Excel., Java Aspose.Cells., Convert PRN to BMP in Java., Save PRN to BMP using Java., Java PRN to BMP saveformat., PRN to BMP Converter., Java Save PRN as BMP]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Konvertálja a PRN-t BMP-re a Java-ben" h2="Nagysebességű Java könyvtár a PRN BMP-re konvertálásához. Ez egy professzionális szoftvermegoldás PRN, BMP és sok más formátum importálására és exportálására a Java használatával." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="BMP" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java PRN to BM
 
 {{% blocks/products/pf/agp/content h2="Konvertálja a PRN-t BMP-re a Java használatával" %}}
 
- Hogyan konvertálhatom a PRN-t BMP-re? A Aspose.Cells for Java könyvtárral egyszerűen konvertálhatja a PRN-t programozottan BMP-re néhány sor kóddal.[Aspose.Cells for Java](https://products.aspose.com/cells/java) képes többplatformos alkalmazásokat létrehozni, módosítani, konvertálni, renderelni és kinyomtatni az összes Excel fájlt. Java Excel API nem csak a táblázatformátumok között konvertál, hanem Excel fájlokat is képes megjeleníteni képként, PDF, HTML, ODS, CSV, CSV, CSV, CSV, CSV, CSV, SVG, és így tovább, SVG P, 8 PT a választás,3,8 ipari szabvány szerinti dokumentumok cseréjére formátumok. A legújabb verziót közvetlenül a webhelyről töltheti le[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) és telepítse a Maven alapú projekten belül a következő konfigurációk hozzáadásával a pom.xml fájlhoz.
+ Hogyan konvertálhatom a PRN-t BMP-re? A Aspose.Cells for Java könyvtárral egyszerűen konvertálhatja a PRN-t programozottan BMP-re néhány sor kóddal.[Aspose.Cells for Java](https://products.aspose.com/cells/java)képes többplatformos alkalmazásokat létrehozni, módosítani, konvertálni, renderelni és kinyomtatni az összes Excel fájlt. Java Az Excel API nemcsak a táblázatformátumok között konvertál, hanem Excel-fájlokat is képes megjeleníteni képként, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT és egyebekként, így tökéletes választás a szabványos formátumú dokumentumok cseréjéhez. A legújabb verziót közvetlenül a webhelyről töltheti le[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) és telepítse a Maven alapú projekten belül a következő konfigurációk hozzáadásával a pom.xml fájlhoz.
 
 {{% blocks/products/pf/agp/code-block title="Adattár" offSpacer="true" %}}
 
@@ -45,7 +45,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java PRN to BM
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Mentse el a PRN-t a BMP-es számra a Java-es számon online ingyen" %}}
+{{% blocks/products/pf/agp/content h2="Mentse a PRN-számot a BMP számra a Java-ben" %}}
 
 A következő példa bemutatja, hogyan lehet a PRN-t BMP-re konvertálni a Java-ben.
 {{% blocks/products/pf/agp/text %}}
@@ -56,13 +56,13 @@ Kövesse az egyszerű lépéseket a PRN BMP-re konvertálásához. Töltse fel P
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Ingyenes alkalmazás és mintakód a PRN BMP online konvertálásához" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="prn" outformat="bmp" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Mintakód a PRN BMP-re konvertálásához" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="prn" outformat="bmp" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="Hogyan lehet a PRN-t BMP via Java-re konvertálni" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
-PRN-fájlokat programozottan BMP-re kell konvertálni? A Java fejlesztők néhány sornyi kóddal könnyedén konvertálhatják a PRN-t BMP-re.
+A PRN-fájlokat programozottan BMP-re kell konvertálni? A Java fejlesztők néhány sornyi kóddal könnyedén konvertálhatják a PRN-t BMP-re.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -97,7 +97,7 @@ PRN-fájlokat programozottan BMP-re kell konvertálni? A Java fejlesztők néhá
 
 <!-- aboutfile Starts -->
     {{< blocks/products/pf/agp/about-file-section >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="PRN" readMoreLink="https://fileinfo.com/extension/prn/" >}}PRN-fájl a Nyomtatás fájlba jelölőnégyzet segítségével létrehozott fájl, amely a Windows-es szám egyes Nyomtatás párbeszédpaneleiben jelenik meg. Eszközspecifikus utasításokat tartalmaz, amelyeket a nyomtató, fax vagy más eszköz a dokumentum nyomtatásához használ. A PRN-fájlok szöveges vagy bináris tartalmat tartalmazhatnak, attól függően, hogy milyen eszközhöz készült a fájl.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="PRN" readMoreLink="https://fileinfo.com/extension/prn/" >}}A PRN-fájl a Nyomtatás fájlba jelölőnégyzet segítségével létrehozott fájl, amely a Windows-es szám egyes Nyomtatás párbeszédpaneleiben jelenik meg. Eszközspecifikus utasításokat tartalmaz, amelyeket a nyomtató, fax vagy más eszköz a dokumentum nyomtatásához használ. A PRN-fájlok szöveges vagy bináris tartalmat tartalmazhatnak, attól függően, hogy milyen eszközhöz készült a fájl.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="BMP" readMoreLink="https://docs.fileformat.com/image/bmp/" >}}.BMP kiterjesztésű fájlok olyan bittérképes képfájlokat jelentenek, amelyeket bittérképes digitális képek tárolására használnak. Ezek a képek függetlenek a grafikus adaptertől, és eszközfüggetlen bittérkép (DIB) fájlformátumnak is nevezik őket. Ez a függetlenség azt a célt szolgálja, hogy a fájlt több platformon is megnyissa, mint például a Microsoft Windows és a Mac. A BMP fájlformátum kétdimenziós digitális képként képes tárolni az adatokat mind monokróm, mind színes formátumban, különböző színmélységgel.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
     {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->
@@ -125,7 +125,7 @@ PRN-fájlokat programozottan BMP-re kell konvertálni? A Java fejlesztők néhá
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/prn-to-xltm/" name="NYOMTATÁS A XLTM-ES számra" description="Excel-makró-kompatibilis sablon" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/prn-to-xltx/" name="NYOMTATÁS A XLTX-ES számra" description="Office OpenXML Excel sablon" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/prn-to-xml/" name="PRN XML-BE" description="Bővíthető jelölőnyelv" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/prn-to-xps/" name="NYOMTATÁS A XPS-ES számra" description="XML papírspecifikációk" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/prn-to-xps/" name="NYOMTATÁS A XPS-ES számra" description="XML papír specifikációk" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/prn-to-json/" name="NYOMTATÁS A JSON-ES számra" description="JavaScript objektum jelölés" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/prn-to-jpeg/" name="NYOMTATÁS A JPEG-ES számra" description="JPEG Kép" >}}
 

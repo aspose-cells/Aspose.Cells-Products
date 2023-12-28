@@ -1,7 +1,7 @@
 ---
 title: XLSB létrehozása – XLSB fájl létrehozása a Python-ben
-description: Aspose Excel. Python Hozzon létre XLSB fájlt. Létrehozása XLSB Python. Python XLSB Létrehozó. Hozzon létre XLSB-et a Python-ben. Hozzon létre XLSB fájlt a Python használatával.
-keywords: [Aspose Excel., Python Aspose.Cells., Create XLSB Python., Python XLSB Creater., Create XLSB file in Python., Generate XLSB file in Python]
+description: Aspose Excel. Python Hozzon létre XLSB fájlt gyorsan és egyszerűen a Aspose.Cells segítségével. Hozzon létre XLSB fájlt a Python használatával. Hozzon létre XLSB-et a Python-ben. Python3481 Létrehozása.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Create XLSB file., Generate XLSB file in Python., Create XLSB file using Python., Write data to XLSB file via Python., Create a XLSB file in Python., Python Generate a XLSB file., Python XLSB Creater]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Hozzon létre XLSB fájlt a Python helyen" h2="Nagy sebességű Python könyvtár a XLSB fájl létrehozásához. Használja a API-es excel konverziónkat magas szintű, platformfüggetlen szoftver fejlesztéséhez a Python-ben." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSB" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -11,7 +11,7 @@ keywords: [Aspose Excel., Python Aspose.Cells., Create XLSB Python., Python XLSB
 
 {{% blocks/products/pf/agp/content h2="Hozzon létre XLSB fájlt a Python használatával" %}}
 
- Hogyan lehet létrehozni a XLSB fájlt? A Aspose.Cells for Python számmal a NET könyvtáron keresztül könnyedén létrehozhat XLSB fájlt programozottan néhány sornyi kóddal.[Aspose.Cells for Python](https://pypi.org/project/aspose-cells-python/)képes többplatformos alkalmazásokat létrehozni, módosítani, konvertálni, renderelni és kinyomtatni az összes Excel fájlt. Python Excel API nem csak a táblázatformátumok között konvertál, hanem Excel fájlokat is képes megjeleníteni képként, PDF, HTML, ODS, CSV, CSV, CSV, CSV, CSV, CSV, SVG, és így tovább, SVG P, 8 PT a választás,3,8 ipari szabvány szerinti dokumentumok cseréjére formátumok.
+ Hogyan lehet létrehozni a XLSB fájlt? A Aspose.Cells for Python számmal a NET könyvtáron keresztül könnyedén létrehozhat XLSB fájlt programozottan néhány sornyi kóddal.[Aspose.Cells for Python](https://pypi.org/project/aspose-cells-python/)képes többplatformos alkalmazásokat létrehozni, módosítani, konvertálni, renderelni és kinyomtatni az összes Excel fájlt. Python Az Excel API nemcsak a táblázatformátumok között konvertál, hanem Excel-fájlokat is képes megjeleníteni képként, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT és egyebekként, így tökéletes választás a szabványos formátumú dokumentumok cseréjéhez.
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -28,7 +28,7 @@ keywords: [Aspose Excel., Python Aspose.Cells., Create XLSB Python., Python XLSB
 1.  Munkafüzet osztálypéldány létrehozása.
 1.  Nyissa meg a munkafüzet első munkalapját.
 1.  Szerezze meg a munkalap kívánt celláit, és írja be az értéket a cellákba.
-1.  Mentés módszerrel mentheti a munkafüzetet XLSB fájlként.
+1.  A Mentés módszerrel mentheti a munkafüzetet XLSB fájlként.
 
 {{% blocks/products/pf/agp/code-block title="A mintakód megmutatja, hogyan kell létrehozni a XLSB fájlt a Python-ben." offSpacer="" %}}
 
@@ -62,7 +62,7 @@ workbook.save("output.xlsb")
 A Python-es csomagjainkat PyPi-tárolókban tároljuk.
 
 {{% blocks/products/pf/agp/text %}}
-Telepítés: Aspose.Cells for Python innen<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , használja a parancsot a következőképpen:<code>$ pip install aspose-cells-python</code>.
+ Telepítés: Aspose.Cells for Python innen<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , használja a parancsot a következőképpen:<code>$ pip install aspose-cells-python</code>.
 {{% /blocks/products/pf/agp/text %}}
 
 {{% blocks/products/pf/agp/text %}}

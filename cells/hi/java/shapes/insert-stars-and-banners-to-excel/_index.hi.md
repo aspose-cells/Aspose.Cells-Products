@@ -2,6 +2,7 @@
 title:  एक्सेल via Java में इन्सर्ट स्टार/बैनर डालें
 weight: 381
 description: Aspose.Cells' Java API का उपयोग करके बिना किसी सॉफ्टवेयर जैसे Microsoft या ओपन ऑफिस, एडोब PDF आदि के बिना स्टार/बैनर डालें।
+keywords: [Java Aspose.Cells., Java add Star/Banner., Java insert Star/Banner., Java create Star/Banner]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="एक्सेल via Java में इन्सर्ट स्टार/बैनर डालें" h2="Microsoft या ओपन ऑफिस, एडोब PDF आदि जैसे किसी सॉफ्टवेयर के बिना Aspose.Cells\' API का उपयोग करके स्टार/बैनर डालें।" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSX" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="" fileiconsmall1="PPTX" fileiconsmall2="DOCX" fileiconsmall3="XLSX" fileiconsmall4="PDF" fileiconsmall5=" ODP " >}}
@@ -56,7 +57,7 @@ description: Aspose.Cells' Java API का उपयोग करके बि�
 
 {{% /blocks/products/pf/agp/text %}}
 
-वर्कबुक ऑब्जेक्ट को इंस्टेंट करना। (या->XLSX फ़ाइल को पूर्ण पथ के साथ लोड करें।)
++ वर्कबुक ऑब्जेक्ट को इंस्टेंट करना। (या->XLSX फ़ाइल को पूर्ण पथ के साथ लोड करें।)
 + इसके सूचकांक के माध्यम से वर्कशीट का चयन करें।
  + का प्रयोग करें[विधि जोड़ें](https://reference.aspose.com/cells/java/com.aspose.cells/shapecollection/#addAutoShape-int-int-int-int-int-int-int-) चयनित वर्कशीट में इन्सर्ट स्टार/बैनर डालने के लिए
 + कार्यपुस्तिका को XLSX प्रारूप में सहेजें।
@@ -90,7 +91,7 @@ description: Aspose.Cells' Java API का उपयोग करके बि�
  <div class="row">
   <div class="container">
    <h2 class="pr-ft">
- सम्मिलित स्टार और बैनर प्रकारों का अवलोकन
+सम्मिलित स्टार और बैनर प्रकारों का अवलोकन
    </h2>
    <div class="col-lg-4">
     <img src="/cells/net/shapes/insert-stars-and-banners-to-excel/explosion_8_points.png" align="left" width="28" height="28">
@@ -149,7 +150,7 @@ description: Aspose.Cells' Java API का उपयोग करके बि�
    <div class="col-lg-4">
     <img src="/cells/net/shapes/insert-stars-and-banners-to-excel/star_16_points.png" align="left" width="28" height="28">
     <p class="col-lg-10">
-ऑटोशेपटाइप.STAR_16
+ ऑटोशेपटाइप.STAR_16
     </p>
    </div>
    <div class="col-lg-4">

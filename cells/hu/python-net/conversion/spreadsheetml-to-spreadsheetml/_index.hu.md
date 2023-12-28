@@ -1,7 +1,7 @@
 ---
-title: Python SPREADSHEETML-ből SPREADSHEETML-be – Online SPREADSHEETML-ből SPREADSHEETML-be konvertáló
-description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Ingyenes online Python SPREADSHEETML konvertálása SPREADSHEETML mentési formátumba. Python SPREADSHEETML SPREADSHEETML formátumba. SPREADSHEETML mentése a SPREADSHEETML Python-be.
-keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python SPREADSHEETML to SPREADSHEETML saveformat., Free Online SPREADSHEETML to SPREADSHEETML Python., Python Convert SPREADSHEETML to SPREADSHEETML]
+title: Python SPREADSHEETML-ből SPREADSHEETML-be - SPREADSHEETML-ből SPREADSHEETML-be konvertáló
+description: Aspose Excel. A SPREADSHEETML-t gyorsan és egyszerűen konvertálja SPREADSHEETML-be a Aspose.Cells-es számmal. Python SPREADSHEETML-t SPREADSHEETML-be. Python SPREADSHEETML mentése SPREADSHEETML-be. Mentse a SPREADSHEETML-t SPREADSHEETML-ként a Python használatával.
+keywords: [Aspose Excel., Python Aspose.Cells., Convert SPREADSHEETML to SPREADSHEETML in Python., Save SPREADSHEETML to SPREADSHEETML using Python., Python SPREADSHEETML to SPREADSHEETML saveformat., SPREADSHEETML to SPREADSHEETML Converter., Python Save SPREADSHEETML as SPREADSHEETML]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="SPREADSHEETML konvertálása SPREADSHEETML-be a Python-ben" h2="Nagy sebességű Python könyvtár a SPREADSHEETML SPREADSHEETML-lé konvertálásához. Használja a API-es excel konverziónkat magas szintű, platformfüggetlen szoftver fejlesztéséhez a Python-ben." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="SPREADSHEETML" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,14 +12,14 @@ keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python SPR
 
 {{% blocks/products/pf/agp/content h2="SPREADSHEETML konvertálása SPREADSHEETML-be a Python-ben" %}}
 
- Hogyan konvertálhatom a SPREADSHEETML-t SPREADSHEETML-be? A Aspose.Cells for Python NET könyvtáron keresztül a SPREADSHEETML-t könnyedén konvertálhatja programozottan SPREADSHEETML-be néhány sor kóddal.[Aspose.Cells for Python a NET számon keresztül](https://pypi.org/project/aspose-cells-python/)képes többplatformos alkalmazásokat létrehozni, módosítani, konvertálni, renderelni és kinyomtatni az összes Excel fájlt. Python Excel API nem csak a táblázatformátumok között konvertál, hanem Excel fájlokat is képes megjeleníteni képként, PDF, HTML, ODS, CSV, CSV, CSV, CSV, CSV, CSV, SVG, és így tovább, SVG P, 8 PT a választás,3,8 ipari szabvány szerinti dokumentumok cseréjére formátumok.
+ Hogyan konvertálhatom a SPREADSHEETML-t SPREADSHEETML-be? A Aspose.Cells for Python NET könyvtáron keresztül a SPREADSHEETML-t könnyedén konvertálhatja programozottan SPREADSHEETML-be néhány sor kóddal.[Aspose.Cells for Python a NET számon keresztül](https://pypi.org/project/aspose-cells-python/)képes többplatformos alkalmazásokat létrehozni, módosítani, konvertálni, renderelni és kinyomtatni az összes Excel fájlt. Python Az Excel API nemcsak a táblázatformátumok között konvertál, hanem Excel-fájlokat is képes megjeleníteni képként, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT és egyebekként, így tökéletes választás a szabványos formátumú dokumentumok cseréjéhez.
 
 {{% /blocks/products/pf/agp/content %}}
 
 
-{{% blocks/products/pf/agp/content h2="SPREADSHEETML mentése SPREADSHEETML-be a Python számon online ingyen" %}}
+{{% blocks/products/pf/agp/content h2="SPREADSHEETML mentése SPREADSHEETML-be a Python-ben" %}}
 
-következő példa bemutatja, hogyan lehet SPREADSHEETML-t konvertálni SPREADSHEETML-be a Python via NET-ben.
+A következő példa bemutatja, hogyan lehet SPREADSHEETML-t konvertálni SPREADSHEETML-be a Python via NET-ben.
 {{% blocks/products/pf/agp/text %}}
 
 Kövesse az egyszerű lépéseket a SPREADSHEETML SPREADSHEETML-lé konvertálásához. Töltse fel SPREADSHEETML-fájlját, majd egyszerűen mentse el SPREADSHEETML-fájlként. Mind a SPREADSHEETML olvasáshoz, mind a SPREADSHEETML íráshoz használhat teljesen minősített fájlneveket. A kimeneti SPREADSHEETML tartalom és formázás megegyezik az eredeti SPREADSHEETML dokumentuméval.
@@ -28,7 +28,7 @@ Kövesse az egyszerű lépéseket a SPREADSHEETML SPREADSHEETML-lé konvertálá
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Ingyenes alkalmazás és mintakód a SPREADSHEETML SPREADSHEETML online konvertálásához" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xml" outformat="xml" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Mintakód a SPREADSHEETML SPREADSHEETML-lé konvertálásához" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xml" outformat="xml" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="Hogyan lehet SPREADSHEETML-t konvertálni SPREADSHEETML-be" %}}
 
@@ -52,7 +52,7 @@ A SPREADSHEETML fájlokat programozottan SPREADSHEETML-re kell konvertálnia? Py
 A Python-es csomagjainkat PyPi-tárolókban tároljuk.
 
 {{% blocks/products/pf/agp/text %}}
-Telepítés: Aspose.Cells for Python innen<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , használja a parancsot a következőképpen:<code>$ pip install aspose-cells-python</code>.
+ Telepítés: Aspose.Cells for Python innen<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , használja a parancsot a következőképpen:<code>$ pip install aspose-cells-python</code>.
 {{% /blocks/products/pf/agp/text %}}
 
 {{% blocks/products/pf/agp/text %}}
@@ -100,7 +100,7 @@ Telepítés: Aspose.Cells for Python innen<a href="https://pypi.org/project/aspo
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/spreadsheetml-to-xltm/" name="TÁBLÁZAT A XLTM-ES számra" description="Excel-makró-kompatibilis sablon" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/spreadsheetml-to-xltx/" name="TÁBLÁZAT A XLTX-ES számra" description="Office OpenXML Excel sablon" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/spreadsheetml-to-xml/" name="A SPREADSHEETML-ből XML-be" description="Bővíthető jelölőnyelv" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/spreadsheetml-to-xps/" name="TÁBLÁZAT A XPS-ES számra" description="XML papírspecifikációk" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/spreadsheetml-to-xps/" name="TÁBLÁZAT A XPS-ES számra" description="XML papír specifikációk" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/spreadsheetml-to-json/" name="TÁBLÁZAT A JSON-ES számra" description="JavaScript objektum jelölés" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}

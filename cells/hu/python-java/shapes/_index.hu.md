@@ -1,6 +1,7 @@
 ---
 title: Alakzatok beszúrása az Excelbe a Python via Java használatával
-description: Python via Java forráskódok alakzatok beszúrásához Microsoft Excel-fájlokba a Aspose.Cells for Python via Java könyvtár használatával.
+description:  Python via Java forráskódok alakzatok beszúrásához Microsoft Excel-fájlokba a Aspose.Cells for Python via Java könyvtár használatával.
+keywords: [Python Aspose.Cells., Python add shapes., Python insert shapes., Python create shapes]
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
 {{< blocks/products/pf/i18n/feature-page-header h1="Microsoft<sup>&reg;</sup> Excel alakzatok beillesztése a Python via Java használatával" h2="Hozzon létre Excel-dokumentumokat és szúrjon be alakzatokat a Python szerveroldali API-jaival, Java alapú alkalmazásokon keresztül." >}}
@@ -12,7 +13,7 @@ description: Python via Java forráskódok alakzatok beszúrásához Microsoft E
 
 {{% blocks/products/pf/feature-page-section h2="Alakzatok beszúrása Excel fájlba" %}}
 
- Az alakzatok beszúrása ezekkel az API-kkal egyszerű. A folyamat a létrehozás[Munkafüzet osztály](https://reference.aspose.com/cells/python-java/asposecells.api/Workbook) objektumot, és az index megadásával válassza ki az első munkalapot vagy a megfelelő lapot. Adjon hozzá egy alakzatot a munkalaphoz a használatával[alakgyűjtemény](https://reference.aspose.com/cells/python-java/asposecells.api/ShapeCollection)'s Add metódus.
+ Az alakzatok beszúrása ezekkel az API-kkal egyszerű. A folyamat a létrehozás[Munkafüzet osztály](https://reference.aspose.com/cells/python-java/asposecells.api/Workbook)objektumot, és az index megadásával válassza ki az első munkalapot vagy a megfelelő lapot. Adjon hozzá egy alakzatot a munkalaphoz a használatával[alakgyűjtemény](https://reference.aspose.com/cells/python-java/asposecells.api/ShapeCollection)'s Add metódus.
 
 {{% blocks/products/pf/feature-page-code h3="Python via Java Kód az alakzat beszúrásához az Excelben" %}}
 

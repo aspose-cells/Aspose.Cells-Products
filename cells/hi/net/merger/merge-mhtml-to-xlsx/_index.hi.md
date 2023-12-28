@@ -1,8 +1,8 @@
 ---
 title: MHTML को XLSX में मिलाएँ - MHTML को XLSX को C# में मिलाएँ
 url: /hi/net/merger/merge-mhtml-to-xlsx/ 
-description: "Aspose एक्सेल। C# Aspose.Cells। नि:शुल्क ऑनलाइन मर्ज MHTML से XLSX सेवफॉर्मेट। C# MHTML को XLSX प्रारूप में संयोजित करें। MHTML को XLSX में C# में मर्ज करें। MHTML मर्ज करें।"
-keywords: [Aspose Excel., C# Aspose.Cells., Merge MHTML to XLSX in C#., Free Online C# Merge MHTML to xlsx., C# Combine MHTML to XLSX Online for Free., MHTML Merge]
+description: Aspose एक्सेल। C# Aspose.Cells. MHTML को XLSX सेवफॉर्मेट में मर्ज करें। C# MHTML को XLSX प्रारूप में संयोजित करें। MHTML को XLSX में C# में मर्ज करें। MHTML मर्ज करें।
+keywords: [Aspose Excel., C# Aspose.Cells., Merge MHTML to XLSX in C#., C# Merge MHTML to xlsx., C# Combine MHTML to XLSX., MHTML Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="C# के माध्यम से MHTML को XLSX में मर्ज करें" h2="MHTML को XLSX में मर्ज करने के लिए हाई-स्पीड C# लाइब्रेरी। C# में उच्च-स्तरीय, प्लेटफॉर्म स्वतंत्र सॉफ्टवेयर विकसित करने के लिए हमारे एक्सेल रूपांतरण API का उपयोग करें। यह Excel, CSV, OpenOffice, PDF, HTML, image और कई अन्य एक्सेल प्रारूपों को आयात और निर्यात करने के लिए एक पेशेवर सॉफ्टवेयर समाधान है।" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="MHTML" additionalConversionTag="XLSX" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., C# Aspose.Cells., Merge MHTML to XLSX in C#., Free Onl
 
 {{% blocks/products/pf/agp/content h2="C# का उपयोग करके MHTML को XLSX में मर्ज करें" %}}
 
- मैं MHTML को XLSX में कैसे मर्ज करूं? Aspose.Cells for .NET लाइब्रेरी के साथ, आप कोड की कुछ पंक्तियों के साथ आसानी से MHTML को XLSX में प्रोग्रामेटिक रूप से मर्ज कर सकते हैं।[Aspose.Cells for .NET](https://products.aspose.com/cells/net)सभी एक्सेल फ़ाइलों को उत्पन्न करने, संशोधित करने, परिवर्तित करने, प्रस्तुत करने और प्रिंट करने की क्षमता के साथ क्रॉस-प्लेटफ़ॉर्म एप्लिकेशन बनाने में सक्षम है। .NET एक्सेल API न केवल स्प्रेडशीट प्रारूपों के बीच कनवर्ट कर सकता है, यह एक्सेल फाइलों को छवियों, PDF, HTML, ODS, CSV, SVG, JSON, वर्ड, पीपीटी और भी बहुत कुछ के रूप में प्रस्तुत कर सकता है, इस प्रकार यह एक्सचेंज के लिए एक आदर्श विकल्प बन जाता है। उद्योग-मानक में दस्तावेज़ प्रारूप. खुला[NuGet](https://www.nuget.org/packages/aspose.cells) पैकेज मैनेजर, Aspose.Cells खोजें और इंस्टॉल करें। आप पैकेज मैनेजर कंसोल से निम्न कमांड का भी उपयोग कर सकते हैं।
+ मैं MHTML को XLSX में कैसे मर्ज करूं? Aspose.Cells for .NET लाइब्रेरी के साथ, आप कोड की कुछ पंक्तियों के साथ आसानी से MHTML को XLSX में प्रोग्रामेटिक रूप से मर्ज कर सकते हैं।[Aspose.Cells for .NET](https://products.aspose.com/cells/net)सभी एक्सेल फ़ाइलों को उत्पन्न करने, संशोधित करने, परिवर्तित करने, प्रस्तुत करने और प्रिंट करने की क्षमता के साथ क्रॉस-प्लेटफ़ॉर्म एप्लिकेशन बनाने में सक्षम है। .NET एक्सेल API न केवल स्प्रेडशीट प्रारूपों के बीच परिवर्तित होता है, बल्कि यह एक्सेल फाइलों को छवियों, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT और अधिक के रूप में भी प्रस्तुत कर सकता है, इस प्रकार यह उद्योग-मानक प्रारूपों में दस्तावेजों का आदान-प्रदान करने के लिए एक आदर्श विकल्प बन जाता है। खुला[NuGet](https://www.nuget.org/packages/aspose.cells) पैकेज मैनेजर, Aspose.Cells खोजें और इंस्टॉल करें। आप पैकेज मैनेजर कंसोल से निम्न कमांड का भी उपयोग कर सकते हैं।
 
 {{% blocks/products/pf/agp/code-block title="पैकेज मैनेजर कंसोल कमांड" offSpacer="true" %}}
 
@@ -26,7 +26,7 @@ PM> Install-Package Aspose.Cells
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="C# में MHTML से XLSX को निःशुल्क ऑनलाइन मर्ज करें" %}}
+{{% blocks/products/pf/agp/content h2="C# में MHTML को XLSX में मर्ज करें" %}}
 
 निम्नलिखित उदाहरण दर्शाता है कि MHTML को XLSX को Aspose.Cells for .NET में कैसे मर्ज किया जाए।
 {{% blocks/products/pf/agp/text %}}
@@ -37,7 +37,7 @@ MHTML को XLSX में मर्ज करने के लिए आसा
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="MHTML से XLSX को C# में मर्ज करने के लिए निःशुल्क ऑनलाइन" InputFormat="mhtml" InputFormat2="xlsx" outformat="xlsx" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="net" %}}
+{{% cells-merger title="C# में MHTML से XLSX को मर्ज करने के लिए नमूना कोड" InputFormat="mhtml" InputFormat2="xlsx" outformat="xlsx" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="net" %}}
 
 {{% blocks/products/pf/agp/content h2="C# के माध्यम से MHTML को XLSX में कैसे मर्ज करें" %}}
 

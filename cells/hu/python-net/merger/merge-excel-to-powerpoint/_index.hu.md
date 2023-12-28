@@ -1,8 +1,8 @@
 ---
 title: EXCEL egyesítése POWERPOINT-tal – EXCEL egyesítése POWERPOINT-tal a Python-ben
 url: /hu/python-net/merger/merge-excel-to-powerpoint/ 
-description: Aspose Excel. Python Aspose.Cells. Ingyenes online egyesítése EXCEL POWERPOINT mentési formátumba. Python Az EXCEL és a POWERPOINT formátum kombinálása. Egyesítse az EXCEL-t POWERPOINT-tal a Python-ben. EXCEL-egyesítés.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge EXCEL to POWERPOINT in Python., Free Online Python Merge EXCEL to powerpoint., Python Combine EXCEL to POWERPOINT Online for Free., EXCEL Merge]
+description: Aspose Excel. Python Aspose.Cells. Egyesítse az EXCEL-t POWERPOINT mentési formátumba. Python Az EXCEL és a POWERPOINT formátum kombinálása. Egyesítse az EXCEL-t POWERPOINT-tal a Python-ben. EXCEL-egyesítés.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge EXCEL to POWERPOINT in Python., Python Merge EXCEL to powerpoint., Python Combine EXCEL to POWERPOINT., EXCEL Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Egyesítse az EXCEL-t a POWERPOINT-tal a Python-es számon keresztül" h2="Nagy sebességű Python könyvtár az EXCEL és a POWERPOINT egyesítéséhez. Használja a API-es excel-konverziónkat magas szintű, platformfüggetlen szoftverek fejlesztéséhez a Python-ben. Ez egy professzionális szoftvermegoldás a Excel, CSV, OpenOffice, PDF, HTML, image és sok más excel formátum importálásához és exportálásához." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="EXCEL" additionalConversionTag="POWERPOINT" pfName="Aspose.Cells" subTitlepfName="for Python" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -12,12 +12,12 @@ keywords: [Aspose Excel., Python Aspose.Cells., Merge EXCEL to POWERPOINT in Pyt
 
 {{% blocks/products/pf/agp/content h2="Egyesítse az EXCEL-t POWERPOINT-tal a Python használatával" %}}
 
- Hogyan egyesíthetem az EXCEL-t a POWERPOINT-tal? A Aspose.Cells for Python via .NET könyvtárral egyszerűen egyesítheti az EXCEL-t a POWERPOINT programozással néhány sornyi kóddal.[Aspose.Cells for Python via .NET](https://pypi.org/project/aspose-cells-python)képes többplatformos alkalmazásokat létrehozni, módosítani, konvertálni, renderelni és kinyomtatni az összes Excel fájlt. Python Excel API nem csak a táblázatformátumok között konvertál, hanem Excel fájlokat is képes megjeleníteni képként, PDF, HTML, ODS, CSV, CSV, CSV, CSV, CSV, CSV, SVG, és így tovább, SVG P, 8 PT a választás,3,8 ipari szabvány szerinti dokumentumok cseréjére formátumok. A Aspose.Cells for Python via .NET számot innen telepítheti.<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , használja a parancsot a következőképpen:<code>$ pip install aspose-cells-python</code>.
+ Hogyan egyesíthetem az EXCEL-t a POWERPOINT-tal? A Aspose.Cells for Python via .NET könyvtárral egyszerűen egyesítheti az EXCEL-t a POWERPOINT programozással néhány sornyi kóddal.[Aspose.Cells for Python via .NET](https://pypi.org/project/aspose-cells-python) képes többplatformos alkalmazásokat létrehozni, módosítani, konvertálni, renderelni és kinyomtatni az összes Excel fájlt. Python Az Excel API nemcsak a táblázatformátumok között konvertál, hanem Excel-fájlokat is képes megjeleníteni képként, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT és egyebekként, így tökéletes választás a szabványos formátumú dokumentumok cseréjéhez. Telepítheti a Aspose.Cells for Python via .NET számot innen<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , használja a parancsot a következőképpen:<code>$ pip install aspose-cells-python</code>.
 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Ingyenesen egyesítse az EXCEL-t a POWERPOINT-tal a Python-es számon" %}}
+{{% blocks/products/pf/agp/content h2="Egyesítse az EXCEL-t a POWERPOINT-tal a Python-es számban" %}}
 
 A következő példa bemutatja, hogyan lehet egyesíteni az EXCEL-t a POWERPOINT-tal a Aspose.Cells for Python via .NET-ben.
 {{% blocks/products/pf/agp/text %}}
@@ -28,13 +28,13 @@ Kövesse az egyszerű lépéseket az EXCEL és a POWERPOINT egyesítéséhez. T�
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Ingyenes online az EXCEL és a POWERPOINT egyesítése a Python számon" InputFormat="xlsx" InputFormat2="pptx" outformat="pptx" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-merger title="Mintakód az EXCEL és a POWERPOINT egyesítéséhez a Python-ben" InputFormat="xlsx" InputFormat2="pptx" outformat="pptx" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="Az EXCEL és a POWERPOINT egyesítése a Python számon keresztül" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- Automatikusan egyesítenie kell az EXCEL-t a POWERPOINT-tal? Egy alapdokumentum, amely összeolvad és összefűződik[Aspose.Cells for Python via .NET](https://products.aspose.com/cells/python-net) Az API-k néhány sornyi kóddal elkészíthetők.
+Automatikusan egyesítenie kell az EXCEL-t a POWERPOINT-tal? Egy alapdokumentum, amely összeolvad és összefűződik[Aspose.Cells for Python via .NET](https://products.aspose.com/cells/python-net) Az API-k néhány sornyi kóddal elkészíthetők.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -52,7 +52,7 @@ Kövesse az egyszerű lépéseket az EXCEL és a POWERPOINT egyesítéséhez. T�
 A Python-es csomagjainkat PyPi-tárolókban tároljuk.
 
 {{% blocks/products/pf/agp/text %}}
-Telepítés: Aspose.Cells for Python innen<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , használja a parancsot a következőképpen:<code>$ pip install aspose-cells-python</code>.
+ Telepítés: Aspose.Cells for Python innen<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , használja a parancsot a következőképpen:<code>$ pip install aspose-cells-python</code>.
 {{% /blocks/products/pf/agp/text %}}
 
 {{% blocks/products/pf/agp/text %}}
@@ -72,7 +72,7 @@ API-jaink minden nagyobb platformon és operációs rendszeren támogatottak. Mi
 {{% /blocks/products/pf/agp/text %}}
 
 -  Telepítés[Python](https://www.python.org/downloads/) 3,7 vagy magasabb.
-- Telepítés: Aspose.Cells for Python innen<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , használja a parancsot a következőképpen:<code>$ pip install aspose-cells-python</code>.
+-  Telepítés: Aspose.Cells for Python innen<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , használja a parancsot a következőképpen:<code>$ pip install aspose-cells-python</code>.
 
 
 {{% /blocks/products/pf/agp/content %}}
@@ -109,7 +109,7 @@ API-jaink minden nagyobb platformon és operációs rendszeren támogatottak. Mi
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-excel-to-xltm/" name="Egyesítse az EXCEL-t a XLTM-gyel" description="Excel-makró-kompatibilis sablon" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-excel-to-xltx/" name="Egyesítse az EXCEL-t a XLTX-gyel" description="Office OpenXML Excel sablon" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-excel-to-xml/" name="Az EXCEL egyesítése XML-lel" description="Bővíthető jelölőnyelv" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-excel-to-xps/" name="Egyesítse az EXCEL-t a XPS-gyel" description="XML papírspecifikációk" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-excel-to-xps/" name="Egyesítse az EXCEL-t a XPS-gyel" description="XML papír specifikációk" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-excel-to-json/" name="Egyesítse az EXCEL-t a JSON-gyel" description="JavaScript objektum jelölés" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-excel-to-jpeg/" name="Egyesítse az EXCEL-t a JPEG-gyel" description="JPEG Kép" >}}
 

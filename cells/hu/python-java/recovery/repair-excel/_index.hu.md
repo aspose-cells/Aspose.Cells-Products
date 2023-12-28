@@ -1,8 +1,8 @@
 ---
-title: Python Javítsa meg az Excel fájlt - Javítsa meg az Excel fájlt online ingyen
+title: Python Az Excel javítása – A sérült Excel fájl helyreállítása és javítása
 url: /hu/python-java/recovery/repair-excel/ 
-description: Aspose Excel. Python Aspose.Cells. Python Excel fájl javítása. Ingyenes online Excel javítóeszköz. Javítsa meg a sérült excel fájlt. Helyezze vissza a sérült Excel fájlt a Python alkalmazáson belül.
-keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python Repair excel file., Free Online Repair a corrupted excel file., Python Recover excel file.]
+description: Python Aspose.Cells. Javítás excel. Javítsa ki az Excel fájlt. excel helyreállítási eszköz. excel korrupció. Az excel adatok visszaállítása. excel fájl helyreállítás. A sérült excel fájl helyreállítása.
+keywords: [Python Aspose.Cells., repair excel file., excel repair., recover corrupted excel file., repair corrupted excel., recover excel., fix excel file., excel corruption., restore excel data., excel file recovery., recover corrupted excel file.]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Javítsa meg a Python-es EXCEL-fájlt" h2="Készítse el saját Python alkalmazását az Excel fájlok javításához a Python használatával." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="EXCEL" pfName="Aspose.Cells" subTitlepfName="for Python" downloadUrl="" fileiconsmall1="XLS" fileiconsmall2="XLSB" fileiconsmall3="XLSX" fileiconsmall4="XLSM" fileiconsmall5="ODS" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python Rep
 
 {{% blocks/products/pf/agp/content h2="Javítsa meg az EXCEL fájlt a Python használatával" %}}
 
- Hogyan javíthatom ki az excel fájlt? A Aspose.Cells for Python könyvtárral egyszerűen, néhány soros kóddal programozottan javíthatja az EXCEL fájlt.[Aspose.Cells for Python](https://products.aspose.com/cells/python-java)képes többplatformos alkalmazásokat létrehozni, módosítani, konvertálni, renderelni és kinyomtatni az összes Excel fájlt. Python Excel API nem csak a táblázatformátumok között konvertál, hanem Excel fájlokat is képes megjeleníteni képként, PDF, HTML, ODS, CSV, CSV, CSV, CSV, CSV, CSV, SVG, és így tovább, SVG P, 8 PT a választás,3,8 ipari szabvány szerinti dokumentumok cseréjére formátumok. A Aspose.Cells for Python via Java számot innen telepítheti.<a href="https://pypi.org/project/aspose-cells/">pypi</a> , használja a parancsot a következőképpen:<code>$ pip install aspose-cells</code>.
+ Hogyan javíthatom ki az excel fájlt? A Aspose.Cells for Python könyvtárral egyszerűen, néhány soros kóddal programozottan javíthatja az EXCEL fájlt.[Aspose.Cells for Python](https://products.aspose.com/cells/python-java) képes többplatformos alkalmazásokat létrehozni, módosítani, konvertálni, renderelni és kinyomtatni az összes Excel fájlt. Python Az Excel API nemcsak a táblázatformátumok között konvertál, hanem Excel-fájlokat is képes megjeleníteni képként, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT és egyebekként, így tökéletes választás a szabványos formátumú dokumentumok cseréjéhez. Telepítheti a Aspose.Cells for Python via Java számot innen<a href="https://pypi.org/project/aspose-cells/">pypi</a> , használja a parancsot a következőképpen:<code>$ pip install aspose-cells</code>.
 
 
 {{% /blocks/products/pf/agp/content %}}
@@ -27,12 +27,12 @@ Programozottan kell javítani az Excel fájlt? A Python fejlesztők egyszerűen 
 {{% /blocks/products/pf/agp/text %}}
 
 + Határozzon meg egy osztályt, amely örökli a Aspose.Cells.IWarningCallback kódot.
-+ Töltse be az EXCEL fájlt a munkafüzet egy példányának létrehozásával, a fenti öröklési osztály használatával, lásd a fenti kódot.
++ Töltse be az EXCEL fájlt a munkafüzet egy példányának létrehozásával a fenti öröklési osztály használatával, lásd a fenti kódot.
 + Mentse el a munkafüzetet, a sérült excel fájl javításra kerül.
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-recovery title="Ingyenes alkalmazás és mintakód az EXCEL-fájl online javításához" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et" InputFormat="xlsx" outformat="xlsx" IsLandingPage="true" language="pythonjava" %}}    
+{{% cells-recovery title="Mintakód az EXCEL fájl javításához" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et" InputFormat="xlsx" outformat="xlsx" IsLandingPage="true" language="pythonjava" %}}    
     
 {{% blocks/products/pf/agp/content h2="Python könyvtár az EXCEL-fájl javításához" %}}
 
@@ -55,7 +55,7 @@ Három lehetőség közül választhat a „Aspose.Cells for Python via Java” 
  
 -  Telepítse a Java 1.8-as vagy újabb verziót, és adja hozzá a PATH környezeti változóhoz, például:<code>PATH=C:\Program Files\Java\jdk1.8.0_131;</code>.
 -  Telepítés[Python](https://www.python.org/downloads/) 3,5 vagy magasabb.
-- Telepítés: Aspose.Cells for Python innen<a href="https://pypi.org/project/aspose-cells/">pypi</a> , használja a parancsot a következőképpen:<code>$ pip install aspose-cells</code>.
+-  Telepítés: Aspose.Cells for Python innen<a href="https://pypi.org/project/aspose-cells/">pypi</a> , használja a parancsot a következőképpen:<code>$ pip install aspose-cells</code>.
 
 
 {{% /blocks/products/pf/agp/content %}}

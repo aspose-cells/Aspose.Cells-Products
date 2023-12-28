@@ -1,6 +1,7 @@
 ---
 title:  चार्ट को JPG(JPEG) छवियों में परिवर्तित करें via .NET
 description: .NET फ्रेमवर्क, .NET कोर, Mono या ज़ामरिन प्लेटफ़ॉर्म पर XLSX फ़ाइल में चार्ट को परिवर्तित करने के लिए C# स्रोत कोड।
+keywords: [C# Aspose.Cells., c# Convert chart to jpg or jpeg., c# Save chart to jpg or jpeg., c# chart to jpg or jpeg]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="C# में चार्ट को JPG(JPEG) छवियों में बदलें" h2="Microsoft या एडोब PDF जैसे किसी भी सॉफ़्टवेयर के उपयोग के बिना, सर्वर-साइड एपीआई का उपयोग करके छवि रूपांतरण के लिए मूल और उच्च प्रदर्शन XLS दस्तावेज़ चार्ट।" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="XLS" >}}
@@ -43,7 +44,7 @@ PM> Install-Package Aspose.Cells
 {{% /blocks/products/pf/agp/text %}}
 
 + XLSX फ़ाइल बनाएँ।
-+ चार्ट प्राप्त करें.
+चार्ट प्राप्त करें.
 + चार्ट को JPG/JPEG छवि में बदलें।
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

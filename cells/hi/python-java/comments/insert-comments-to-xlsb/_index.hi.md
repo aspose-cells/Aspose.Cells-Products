@@ -2,6 +2,7 @@
 title: Python के माध्यम से XLSB फ़ाइल में टिप्पणियाँ डालें
 url: /hi/python-java/comments/insert-comments-to-xlsb/ 
 description: Python का उपयोग करके XLSB पर टिप्पणियाँ डालें। Python एप्लिकेशन में टिप्पणियाँ डालने के लिए API उदाहरण कोड का उपयोग करें।
+keywords: [Python Aspose.Cells., add XLSB comments., insert XLSB comments., access XLSB comments., remove XLSB comments., delete XLSB comments., add comments in XLSB., insert comments in XLSB., access comments in XLSB., remove comments in XLSB., delete comments in XLSB]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Python के माध्यम से XLSB फ़ाइल में टिप्पणियाँ सम्मिलित करें" h2="सर्वर-साइड एपीआई का उपयोग करके दस्तावेज़ फ़ाइलों में टिप्पणियों और लेखकों में हेरफेर करने के लिए अपना स्वयं का Python एप्लिकेशन बनाएं।" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSB" pfName="Aspose.Cells" subTitlepfName="for Python" downloadUrl="" fileiconsmall1="XLS" fileiconsmall2="XLSB" fileiconsmall3="XLSX" fileiconsmall4="XLSM" fileiconsmall5="ODS" >}}
@@ -11,7 +12,7 @@ description: Python का उपयोग करके XLSB पर टिप्
 
 {{% blocks/products/pf/agp/content h2="Python का उपयोग करके XLSB फ़ाइल में टिप्पणियाँ सम्मिलित करें" %}}
 
- Aspose.Cells for Python लाइब्रेरी के साथ, आप कोड की कुछ पंक्तियों के साथ प्रोग्रामेटिक रूप से XLSB फ़ाइल में आसानी से टिप्पणियाँ सम्मिलित कर सकते हैं।[Aspose.Cells for Python](https://pypi.org/project/aspose-cells) सभी एक्सेल फ़ाइलों को उत्पन्न करने, संशोधित करने, परिवर्तित करने, प्रस्तुत करने और प्रिंट करने की क्षमता के साथ क्रॉस-प्लेटफ़ॉर्म एप्लिकेशन बनाने में सक्षम है। Python एक्सेल API न केवल स्प्रेडशीट प्रारूपों के बीच कनवर्ट कर सकता है, यह एक्सेल फाइलों को छवियों, PDF, HTML, ODS, CSV, SVG, JSON, वर्ड, पीपीटी और भी बहुत कुछ के रूप में प्रस्तुत कर सकता है, इस प्रकार यह एक्सचेंज के लिए एक आदर्श विकल्प बन जाता है। उद्योग-मानक में दस्तावेज़ प्रारूप. आप Aspose.Cells for Python से इंस्टॉल कर सकते हैं<a href="https://pypi.org/project/aspose-cells/">pypi</a> , कमांड का उपयोग इस प्रकार करें:<code>$ pip install aspose-cells</code>.
+ Aspose.Cells for Python लाइब्रेरी के साथ, आप कोड की कुछ पंक्तियों के साथ प्रोग्रामेटिक रूप से XLSB फ़ाइल में आसानी से टिप्पणियाँ सम्मिलित कर सकते हैं।[Aspose.Cells for Python](https://pypi.org/project/aspose-cells) सभी एक्सेल फ़ाइलों को उत्पन्न करने, संशोधित करने, परिवर्तित करने, प्रस्तुत करने और प्रिंट करने की क्षमता के साथ क्रॉस-प्लेटफ़ॉर्म एप्लिकेशन बनाने में सक्षम है। Python एक्सेल API न केवल स्प्रेडशीट प्रारूपों के बीच परिवर्तित होता है, बल्कि यह एक्सेल फाइलों को छवियों, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT और अधिक के रूप में भी प्रस्तुत कर सकता है, इस प्रकार यह उद्योग-मानक प्रारूपों में दस्तावेजों का आदान-प्रदान करने के लिए एक आदर्श विकल्प बन जाता है। आप Aspose.Cells for Python via Java यहां से इंस्टॉल कर सकते हैं<a href="https://pypi.org/project/aspose-cells/">pypi</a> , कमांड का उपयोग इस प्रकार करें:<code>$ pip install aspose-cells</code>.
 
 
 {{% /blocks/products/pf/agp/content %}}
@@ -26,7 +27,7 @@ description: Python का उपयोग करके XLSB पर टिप्
 
 -  Java 1.8 या उच्चतर स्थापित करें और इसे PATH पर्यावरण चर में जोड़ें, उदाहरण के लिए:<code>PATH=C:\Program Files\Java\jdk1.8.0_131;</code>.
 -  स्थापित करना[Python](https://www.python.org/downloads/) 3.5 या उच्चतर.
-- Aspose.Cells for Python से इंस्टॉल करें<a href="https://pypi.org/project/aspose-cells/">pypi</a> , कमांड का उपयोग इस प्रकार करें:<code>$ pip install aspose-cells</code>.
+-  Aspose.Cells for Python से इंस्टॉल करें<a href="https://pypi.org/project/aspose-cells/">pypi</a> , कमांड का उपयोग इस प्रकार करें:<code>$ pip install aspose-cells</code>.
 
 
 {{% /blocks/products/pf/agp/content %}}

@@ -1,8 +1,8 @@
 ---
 title: HTM egyesítése ET-vel – HTM egyesítése ET-vel a C# számon
 url: /hu/net/merger/merge-htm-to-et/ 
-description: Aspose Excel. C# Aspose.Cells. Ingyenes online egyesítése HTM ET mentési formátumba. C# HTM kombinálása ET formátumba. HTM összevonása ET-vel a C# számon. HTM összevonás.
-keywords: [Aspose Excel., C# Aspose.Cells., Merge HTM to ET in C#., Free Online C# Merge HTM to et., C# Combine HTM to ET Online for Free., HTM Merge]
+description: Aspose Excel. C# Aspose.Cells. HTM egyesítése ET mentési formátumba. C# HTM kombinálása ET formátumba. HTM összevonása ET-vel a C# számon. HTM összevonás.
+keywords: [Aspose Excel., C# Aspose.Cells., Merge HTM to ET in C#., C# Merge HTM to et., C# Combine HTM to ET., HTM Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Csatlakoztassa a HTM-et az ET-hez a C# számon keresztül" h2="Nagy sebességű C# könyvtár a HTM és az ET egyesítéséhez. Használja a API-es excel-konverziónkat magas szintű, platformfüggetlen szoftverek fejlesztéséhez a C#-ben. Ez egy professzionális szoftvermegoldás a Excel, CSV, OpenOffice, PDF, HTML, image és sok más excel formátum importálásához és exportálásához." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="HTM" additionalConversionTag="ET" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., C# Aspose.Cells., Merge HTM to ET in C#., Free Online 
 
 {{% blocks/products/pf/agp/content h2="Egyesítse a HTM-et az ET-hez a C# használatával" %}}
 
-Hogyan egyesíthetem a HTM-et ET-vel? A Aspose.Cells for .NET könyvtárral egyszerűen egyesítheti a HTM-et az ET-vel programozottan néhány sor kóddal.[Aspose.Cells for .NET](https://products.aspose.com/cells/net)képes többplatformos alkalmazásokat létrehozni, módosítani, konvertálni, renderelni és kinyomtatni az összes Excel fájlt. .NET Excel API nem csak a táblázatformátumok között konvertál, hanem Excel fájlokat is képes megjeleníteni képként, PDF, HTML, ODS, CSV, CSV, CSV, CSV, CSV, CSV, SVG, és így tovább, SVG P, 8 PT a választás,3,8 ipari szabvány szerinti dokumentumok cseréjére formátumok. Nyisd ki[NuGet](https://www.nuget.org/packages/aspose.cells) csomagkezelő, keresse meg a Aspose.Cells-et, és telepítse. A következő parancsot is használhatja a Package Manager konzolból.
+Hogyan egyesíthetem a HTM-et ET-vel? A Aspose.Cells for .NET könyvtárral egyszerűen egyesítheti a HTM-et az ET-vel programozottan néhány sor kóddal.[Aspose.Cells for .NET](https://products.aspose.com/cells/net)képes többplatformos alkalmazásokat létrehozni, módosítani, konvertálni, renderelni és kinyomtatni az összes Excel fájlt. .NET Az Excel API nemcsak a táblázatformátumok között konvertál, hanem Excel-fájlokat is képes megjeleníteni képként, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT és egyebekként, így tökéletes választás a szabványos formátumú dokumentumok cseréjéhez. Nyisd ki[NuGet](https://www.nuget.org/packages/aspose.cells) csomagkezelő, keresse meg a Aspose.Cells-et, és telepítse. A következő parancsot is használhatja a Package Manager konzolból.
 
 {{% blocks/products/pf/agp/code-block title="Csomagkezelő konzolparancs" offSpacer="true" %}}
 
@@ -26,7 +26,7 @@ PM> Install-Package Aspose.Cells
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Csatlakoztassa a HTM-et az ET-hez a C# online számon ingyen" %}}
+{{% blocks/products/pf/agp/content h2="HTM egyesítése ET-vel a C# számon" %}}
 
 A következő példa bemutatja, hogyan lehet egyesíteni a HTM-et az ET-vel a Aspose.Cells for .NET számon.
 {{% blocks/products/pf/agp/text %}}
@@ -37,7 +37,7 @@ Kövesse az egyszerű lépéseket a HTM és az ET egyesítéséhez. Töltse fel 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Ingyenes online a HTM és az ET egyesítése a C# számon" InputFormat="htm" InputFormat2="et" outformat="et" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="net" %}}
+{{% cells-merger title="Mintakód a HTM és az ET egyesítéséhez a C#-ben" InputFormat="htm" InputFormat2="et" outformat="et" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="net" %}}
 
 {{% blocks/products/pf/agp/content h2="A HTM és az ET egyesítése a C# számon keresztül" %}}
 
@@ -117,7 +117,7 @@ API-jaink minden nagyobb platformon és operációs rendszeren támogatottak. Mi
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-htm-to-xltm/" name="HTM egyesítése a XLTM számmal" description="Excel-makró-kompatibilis sablon" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-htm-to-xltx/" name="HTM egyesítése a XLTX számmal" description="Office OpenXML Excel sablon" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-htm-to-xml/" name="HTM egyesítése XML-lel" description="Bővíthető jelölőnyelv" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-htm-to-xps/" name="HTM egyesítése a XPS számmal" description="XML papírspecifikációk" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-htm-to-xps/" name="HTM egyesítése a XPS számmal" description="XML papír specifikációk" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-htm-to-json/" name="HTM egyesítése a JSON számmal" description="JavaScript objektum jelölés" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-htm-to-jpeg/" name="HTM egyesítése a JPEG számmal" description="JPEG Kép" >}}
 

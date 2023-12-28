@@ -2,6 +2,7 @@
 title:  via Java खोले बिना XLSX दस्तावेज़ खोजें
 weight: 6780
 description: जेएसपी/जेएसएफ एप्लिकेशन और डेस्कटॉप एप्लिकेशन के लिए Java रनटाइम एनवायरनमेंट पर XLSX फ़ाइल में पैटर्न के साथ शब्द खोजने के लिए Java नमूना कोड।
+keywords: [Java Aspose.Cells., Java search words with pattern in XLSX file., Java find words with pattern in XLSX file., Java search string with pattern in XLSX file., Java find words with pattern in XLSX file., Java search words in excel file., Java find words in excel file., Java search string in excel file., Java find string in excel file]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Java में XLSX प्रारूप खोजें" h2="Microsoft या एडोब PDF जैसे किसी भी सॉफ़्टवेयर के उपयोग के बिना, सर्वर-साइड Aspose.Cells for Java एपीआई का उपयोग करके मूल और उच्च प्रदर्शन XLSX दस्तावेज़ खोज।" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="XLSX" >}}
@@ -62,7 +63,7 @@ description: जेएसपी/जेएसएफ एप्लिकेशन �
 + निर्दिष्ट सूत्र वाले सेल को ढूंढें।
 + तत्काल ढूँढें विकल्प।
 + स्ट्रिंग मान वाले सेल को ढूंढें
-+ खोज परिणाम के बाद मिली कोशिकाओं का प्रिंटआउट लें
+खोज परिणाम के बाद मिली कोशिकाओं का प्रिंटआउट लें
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

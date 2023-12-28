@@ -1,7 +1,7 @@
 ---
 title: XLSX létrehozása – XLSX fájl létrehozása a Python-ben
-description: Aspose Excel. Python Hozzon létre XLSX fájlt. Létrehozása XLSX Python. Python XLSX Létrehozó. Hozzon létre XLSX-et a Python-ben. Hozzon létre XLSX fájlt a Python használatával.
-keywords: [Aspose Excel., Python Aspose.Cells., Create XLSX Python., Python XLSX Creater., Create XLSX file in Python., Generate XLSX file in Python]
+description: Aspose Excel. Python Hozzon létre XLSX fájlt gyorsan és egyszerűen a Aspose.Cells segítségével. Hozzon létre XLSX fájlt a Python használatával. Hozzon létre XLSX-et a Python-ben. Python3481 Létrehozása.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Create XLSX file., Generate XLSX file in Python., Create XLSX file using Python., Write data to XLSX file via Python., Create a XLSX file in Python., Python Generate a XLSX file., Python XLSX Creater]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Hozzon létre XLSX fájlt a Python helyen" h2="Nagy sebességű Python könyvtár a XLSX fájl létrehozásához. Ez egy professzionális szoftvermegoldás a XLSX, PDF és sok más formátum importálásához és exportálásához a Python használatával." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSX" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -11,7 +11,7 @@ keywords: [Aspose Excel., Python Aspose.Cells., Create XLSX Python., Python XLSX
 
 {{% blocks/products/pf/agp/content h2="Hozzon létre XLSX fájlt a Python használatával" %}}
 
- Hogyan lehet létrehozni a XLSX fájlt? A Aspose.Cells for Python via Java könyvtárral könnyedén létrehozhat XLSX fájlt programozottan néhány sornyi kóddal.[Aspose.Cells for Python](https://pypi.org/project/aspose-cells)képes többplatformos alkalmazásokat létrehozni, módosítani, konvertálni, renderelni és kinyomtatni az összes Excel fájlt. Python Excel API nem csak a táblázatformátumok között konvertál, hanem Excel fájlokat is képes megjeleníteni képként, PDF, HTML, ODS, CSV, CSV, CSV, CSV, CSV, CSV, SVG, és így tovább, SVG P, 8 PT a választás,3,8 ipari szabvány szerinti dokumentumok cseréjére formátumok.
+ Hogyan lehet létrehozni a XLSX fájlt? A Aspose.Cells for Python via Java könyvtárral könnyedén létrehozhat XLSX fájlt programozottan néhány sornyi kóddal.[Aspose.Cells for Python](https://pypi.org/project/aspose-cells)képes többplatformos alkalmazásokat létrehozni, módosítani, konvertálni, renderelni és kinyomtatni az összes Excel fájlt. Python Az Excel API nemcsak a táblázatformátumok között konvertál, hanem Excel-fájlokat is képes megjeleníteni képként, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT és egyebekként, így tökéletes választás a szabványos formátumú dokumentumok cseréjéhez.
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -29,7 +29,7 @@ keywords: [Aspose Excel., Python Aspose.Cells., Create XLSX Python., Python XLSX
 1.  Munkafüzet osztálypéldány létrehozása.
 1.  Nyissa meg a munkafüzet első munkalapját.
 1.  Szerezze meg a munkalap kívánt celláit, és írja be az értéket a cellákba.
-1.  Mentés módszerrel mentheti a munkafüzetet XLSX fájlként.
+1.  A Mentés módszerrel mentheti a munkafüzetet XLSX fájlként.
 
 {{% blocks/products/pf/agp/code-block title="A mintakód megmutatja, hogyan kell létrehozni a XLSX fájlt a Python-ben." offSpacer="" %}}
 
@@ -80,7 +80,7 @@ Három lehetőség közül választhat a „Aspose.Cells for Python via Java” 
 
 {{% blocks/products/pf/agp/text %}}
 
-Aspose.Cells for Python via Java platformfüggetlen API, és bármilyen platformon használható (Windows, Linux és MacOS), csak győződjön meg arról, hogy a rendszer Java 1.8 vagy újabb[Python](https://www.python.org/downloads/) 3,5 vagy magasabb.
+ Aspose.Cells for Python via Java platformfüggetlen API, és bármilyen platformon használható (Windows, Linux és MacOS), csak győződjön meg arról, hogy a rendszer Java 1.8 vagy újabb[Python](https://www.python.org/downloads/) 3,5 vagy magasabb.
 
 {{% /blocks/products/pf/agp/text %}}
 

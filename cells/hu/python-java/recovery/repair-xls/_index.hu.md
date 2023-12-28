@@ -1,8 +1,8 @@
 ---
-title: Python Xls fájl javítása – xls fájl javítása online ingyen
+title: Python Xls javítás – A sérült xls fájl helyreállítása és javítása
 url: /hu/python-java/recovery/repair-xls/ 
-description: Aspose Excel. Python Aspose.Cells. Python Xls fájl javítása. Ingyenes online xls javítóeszköz. Javítsa meg a sérült xls fájlt. Helyezze vissza a sérült xls fájlt a Python alkalmazáson belül.
-keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python Repair xls file., Free Online Repair a corrupted xls file., Python Recover xls file.]
+description: Python Aspose.Cells. Javítás xls. Xls fájl javítása. xls helyreállítási eszköz. xls korrupció. xls adatok visszaállítása. xls fájl helyreállítása. A sérült xls fájl helyreállítása.
+keywords: [Python Aspose.Cells., repair xls file., xls repair., recover corrupted xls file., repair corrupted xls., recover xls., fix xls file., xls corruption., restore xls data., xls file recovery., recover corrupted xls file.]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Javítás XLS fájl a Python-ben" h2="Készítse el saját Python alkalmazását az xls fájlok javításához a Python használatával." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLS" pfName="Aspose.Cells" subTitlepfName="for Python" downloadUrl="" fileiconsmall1="XLS" fileiconsmall2="XLSB" fileiconsmall3="XLSX" fileiconsmall4="XLSM" fileiconsmall5="ODS" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python Rep
 
 {{% blocks/products/pf/agp/content h2="Javítás XLS fájl a Python használatával" %}}
 
- Hogyan javíthatom ki az xls fájlt? A Aspose.Cells for Python könyvtárral könnyedén kijavíthatja a XLS fájlt néhány soros kóddal, programozottan.[Aspose.Cells for Python](https://products.aspose.com/cells/python-java)képes többplatformos alkalmazásokat létrehozni, módosítani, konvertálni, renderelni és kinyomtatni az összes Excel fájlt. Python Excel API nem csak a táblázatformátumok között konvertál, hanem Excel fájlokat is képes megjeleníteni képként, PDF, HTML, ODS, CSV, CSV, CSV, CSV, CSV, CSV, SVG, és így tovább, SVG P, 8 PT a választás,3,8 ipari szabvány szerinti dokumentumok cseréjére formátumok. A Aspose.Cells for Python via Java számot innen telepítheti.<a href="https://pypi.org/project/aspose-cells/">pypi</a> , használja a parancsot a következőképpen:<code>$ pip install aspose-cells</code>.
+ Hogyan javíthatom ki az xls fájlt? A Aspose.Cells for Python könyvtárral könnyedén kijavíthatja a XLS fájlt néhány soros kóddal, programozottan.[Aspose.Cells for Python](https://products.aspose.com/cells/python-java) képes többplatformos alkalmazásokat létrehozni, módosítani, konvertálni, renderelni és kinyomtatni az összes Excel fájlt. Python Az Excel API nemcsak a táblázatformátumok között konvertál, hanem Excel-fájlokat is képes megjeleníteni képként, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT és egyebekként, így tökéletes választás a szabványos formátumú dokumentumok cseréjéhez. Telepítheti a Aspose.Cells for Python via Java számot innen<a href="https://pypi.org/project/aspose-cells/">pypi</a> , használja a parancsot a következőképpen:<code>$ pip install aspose-cells</code>.
 
 
 {{% /blocks/products/pf/agp/content %}}
@@ -32,7 +32,7 @@ Programozottan kell javítani az xls fájlt? Python A fejlesztők könnyedén be
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-recovery title="Ingyenes alkalmazás és mintakód a XLS fájl online javításához" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et" InputFormat="xls" outformat="xls" IsLandingPage="true" language="pythonjava" %}}    
+{{% cells-recovery title="Mintakód a XLS fájl javításához" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et" InputFormat="xls" outformat="xls" IsLandingPage="true" language="pythonjava" %}}    
     
 {{% blocks/products/pf/agp/content h2="Python könyvtár a XLS fájl javításához" %}}
 
@@ -55,7 +55,7 @@ Három lehetőség közül választhat a „Aspose.Cells for Python via Java” 
  
 -  Telepítse a Java 1.8-as vagy újabb verziót, és adja hozzá a PATH környezeti változóhoz, például:<code>PATH=C:\Program Files\Java\jdk1.8.0_131;</code>.
 -  Telepítés[Python](https://www.python.org/downloads/) 3,5 vagy magasabb.
-- Telepítés: Aspose.Cells for Python innen<a href="https://pypi.org/project/aspose-cells/">pypi</a> , használja a parancsot a következőképpen:<code>$ pip install aspose-cells</code>.
+-  Telepítés: Aspose.Cells for Python innen<a href="https://pypi.org/project/aspose-cells/">pypi</a> , használja a parancsot a következőképpen:<code>$ pip install aspose-cells</code>.
 
 
 {{% /blocks/products/pf/agp/content %}}

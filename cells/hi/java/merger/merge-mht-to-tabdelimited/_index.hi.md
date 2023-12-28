@@ -1,8 +1,8 @@
 ---
 title: MHT को TABDELIMITED में मिलाएं - Java में MHT को TABDELIMITED में मिलाएं
 url: /hi/java/merger/merge-mht-to-tabdelimited/ 
-description: Aspose एक्सेल। Java Aspose.Cells. निःशुल्क ऑनलाइन MHT को TABDELIMITED सेवफॉर्मेट में मर्ज करें। Java MHT को TABDELIMITED प्रारूप में संयोजित करें। Java में MHT को TABDELIMITED में मर्ज करें। MHT मर्ज।
-keywords: [Aspose Excel., Java Aspose.Cells., Merge MHT to TABDELIMITED in Java., Free Online Java Merge MHT to tabdelimited., Java Combine MHT to TABDELIMITED Online for Free., MHT Merge]
+description: Aspose एक्सेल। Java Aspose.Cells. MHT को TABDELIMITED सेवफॉर्मेट में मर्ज करें। Java MHT को TABDELIMITED प्रारूप में संयोजित करें। Java में MHT को TABDELIMITED में मर्ज करें। MHT मर्ज।
+keywords: [Aspose Excel., Java Aspose.Cells., Merge MHT to TABDELIMITED in Java., Java Merge MHT to tabdelimited., Java Combine MHT to TABDELIMITED., MHT Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="MHT को TABDELIMETED via Java में मर्ज करें" h2="MHT को TABDELIMITED में विलय करने के लिए हाई-स्पीड Java लाइब्रेरी। Java में उच्च-स्तरीय, प्लेटफ़ॉर्म स्वतंत्र सॉफ़्टवेयर विकसित करने के लिए हमारे एक्सेल रूपांतरण API का उपयोग करें। यह Excel, CSV, OpenOffice, PDF, HTML, image और कई अन्य एक्सेल प्रारूपों को आयात और निर्यात करने के लिए एक पेशेवर सॉफ़्टवेयर समाधान है।" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="MHT" additionalConversionTag="TABDELIMITED" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Merge MHT to TABDELIMITED in Java.
 
 {{% blocks/products/pf/agp/content h2="Java का उपयोग करके MHT को TABDELIMITED में मर्ज करें" %}}
 
- मैं MHT को TABDELIMITED में कैसे मर्ज करूं? Aspose.Cells for Java लाइब्रेरी के साथ, आप कोड की कुछ पंक्तियों के साथ प्रोग्रामेटिक रूप से MHT को TABDELIMITED में आसानी से मर्ज कर सकते हैं।[Aspose.Cells for Java](https://products.aspose.com/cells/java) सभी एक्सेल फ़ाइलों को उत्पन्न करने, संशोधित करने, परिवर्तित करने, प्रस्तुत करने और प्रिंट करने की क्षमता के साथ क्रॉस-प्लेटफ़ॉर्म एप्लिकेशन बनाने में सक्षम है। Java एक्सेल API न केवल स्प्रेडशीट प्रारूपों के बीच कनवर्ट कर सकता है, यह एक्सेल फाइलों को छवियों, PDF, HTML, ODS, CSV, SVG, JSON, वर्ड, पीपीटी और भी बहुत कुछ के रूप में प्रस्तुत कर सकता है, इस प्रकार यह एक्सचेंज के लिए एक आदर्श विकल्प बन जाता है। उद्योग-मानक में दस्तावेज़ प्रारूप. आप इसका नवीनतम संस्करण सीधे यहां से डाउनलोड कर सकते हैं[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) और pom.xml में निम्नलिखित कॉन्फ़िगरेशन जोड़कर इसे अपने Maven-आधारित प्रोजेक्ट में स्थापित करें।
+ मैं MHT को TABDELIMITED में कैसे मर्ज करूं? Aspose.Cells for Java लाइब्रेरी के साथ, आप कोड की कुछ पंक्तियों के साथ प्रोग्रामेटिक रूप से MHT को TABDELIMITED में आसानी से मर्ज कर सकते हैं।[Aspose.Cells for Java](https://products.aspose.com/cells/java)सभी एक्सेल फ़ाइलों को उत्पन्न करने, संशोधित करने, परिवर्तित करने, प्रस्तुत करने और प्रिंट करने की क्षमता के साथ क्रॉस-प्लेटफ़ॉर्म एप्लिकेशन बनाने में सक्षम है। Java एक्सेल API न केवल स्प्रेडशीट प्रारूपों के बीच परिवर्तित होता है, बल्कि यह एक्सेल फाइलों को छवियों, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT और अधिक के रूप में भी प्रस्तुत कर सकता है, इस प्रकार यह उद्योग-मानक प्रारूपों में दस्तावेजों का आदान-प्रदान करने के लिए एक आदर्श विकल्प बन जाता है। आप इसका नवीनतम संस्करण सीधे यहां से डाउनलोड कर सकते हैं[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) और pom.xml में निम्नलिखित कॉन्फ़िगरेशन जोड़कर इसे अपने Maven-आधारित प्रोजेक्ट में स्थापित करें।
 
 {{% blocks/products/pf/agp/code-block title="कोष" offSpacer="true" %}}
 
@@ -45,7 +45,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Merge MHT to TABDELIMITED in Java.
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Java में MHT को TABDELIMITED में निःशुल्क ऑनलाइन मर्ज करें" %}}
+{{% blocks/products/pf/agp/content h2="Java में MHT को TABDELIMITED में मर्ज करें" %}}
 
 निम्नलिखित उदाहरण दर्शाता है कि Aspose.Cells for Java में MHT को TABDELIMITED में कैसे मर्ज किया जाए।
 {{% blocks/products/pf/agp/text %}}
@@ -56,13 +56,13 @@ MHT को TABDELIMITED में मर्ज करने के लिए आ
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Java में MHT को TABDELIMITED में मर्ज करने के लिए निःशुल्क ऑनलाइन" InputFormat="mht" InputFormat2="tsv" outformat="tsv" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="java" %}}
+{{% cells-merger title="Java में MHT को TABDELIMITED में मर्ज करने के लिए नमूना कोड" InputFormat="mht" InputFormat2="tsv" outformat="tsv" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="MHT को TABDELIMITED via Java में कैसे मर्ज करें" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- प्रोग्रामेटिक रूप से MHT को TABDELIMITED में मर्ज करने की आवश्यकता है? एक बुनियादी दस्तावेज़ जिसका विलय और संयोजन हो रहा है[Aspose.Cells for Java](https://products.aspose.com/cells/java) एपीआई को कोड की कुछ पंक्तियों के साथ किया जा सकता है।
+प्रोग्रामेटिक रूप से MHT को TABDELIMITED में मर्ज करने की आवश्यकता है? एक बुनियादी दस्तावेज़ जिसका विलय और संयोजन हो रहा है[Aspose.Cells for Java](https://products.aspose.com/cells/java) एपीआई को कोड की कुछ पंक्तियों के साथ किया जा सकता है।
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -102,7 +102,7 @@ MHT को TABDELIMITED में मर्ज करने के लिए आ
 
 <!-- aboutfile Starts -->
     {{< blocks/products/pf/agp/about-file-section >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="MHT" readMoreLink="https://docs.fileformat.com/web/mht/" >}}.mht एक्सटेंशन वाली फ़ाइल एक MIME सक्षम संग्रह फ़ाइल स्वरूप है जिसमें एक ही फ़ाइल में विभिन्न प्रकार के डेटा शामिल होते हैं। यह सीएसएस फाइलों, जावास्क्रिप्ट और अन्य संसाधनों के रूप में पाठ, छवियों, पेज स्टाइल जैसे डेटा को इसमें एम्बेडेड संसाधनों के रूप में संग्रहीत कर सकता है। MIME प्रकार संदेश/rfc822 वाली MHT फ़ाइलें, भंडारण उपकरणों पर संग्रहित करने के लिए HTML फ़ाइल की सभी सामग्री को एकल संग्रह फ़ाइल के रूप में समाहित करती हैं। Microsoft वर्ड जैसे सॉफ़्टवेयर एप्लिकेशन आपको एमएचटी फ़ाइल के रूप में निर्यात करके अपने वर्ड दस्तावेज़ों को एमएचटी में परिवर्तित करने की सुविधा देते हैं। एमएचटी फ़ाइलें Microsoft इंटरनेट एक्सप्लोर और Google क्रोम जैसे लोकप्रिय ब्राउज़रों का उपयोग करके खोली जा सकती हैं।{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="MHT" readMoreLink="https://docs.fileformat.com/web/mht/" >}}.mht एक्सटेंशन वाली फ़ाइल एक MIME सक्षम संग्रह फ़ाइल स्वरूप है जिसमें एक ही फ़ाइल में विभिन्न प्रकार के डेटा शामिल होते हैं। यह सीएसएस फाइलों, जावास्क्रिप्ट और अन्य संसाधनों के रूप में पाठ, छवियों, पेज स्टाइल जैसे डेटा को इसमें एम्बेडेड संसाधनों के रूप में संग्रहीत कर सकता है। MIME प्रकार संदेश/rfc822 वाली MHT फ़ाइलें, भंडारण उपकरणों पर संग्रहित करने के लिए HTML फ़ाइल की सभी सामग्री को एकल संग्रह फ़ाइल के रूप में समाहित करती हैं। Microsoft वर्ड जैसे सॉफ़्टवेयर एप्लिकेशन आपको एमएचटी फ़ाइल के रूप में निर्यात करके अपने WORD दस्तावेज़ों को एमएचटी में बदलने की सुविधा देते हैं। एमएचटी फ़ाइलें Microsoft इंटरनेट एक्सप्लोर और Google क्रोम जैसे लोकप्रिय ब्राउज़रों का उपयोग करके खोली जा सकती हैं।{{< /blocks/products/pf/agp/i18n/about-file-text >}}
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="TABDELIMITED" readMoreLink="https://docs.fileformat.com/spreadsheet/tsv/" >}}एक टैब-पृथक मान (TSV) फ़ाइल स्वरूप सादे पाठ प्रारूप में टैब से अलग किए गए डेटा का प्रतिनिधित्व करता है। फ़ाइल स्वरूप, CSV के समान, विभिन्न अनुप्रयोगों के बीच आयात और निर्यात करने के लिए संरचित तरीके से डेटा के संगठन के लिए उपयोग किया जाता है। प्रारूप का उपयोग मुख्य रूप से स्प्रेडशीट अनुप्रयोगों और डेटाबेस में डेटा आयात/निर्यात और विनिमय के लिए किया जाता है। TSV फ़ाइल में प्रत्येक रिकॉर्ड टेक्स्ट फ़ाइल की एक पंक्ति में समाहित होता है जहां प्रत्येक फ़ील्ड मान को एक टैब वर्ण द्वारा अलग किया जाता है। TSV फ़ाइल स्वरूप के लिए मीडिया प्रकार टेक्स्ट/टैब-पृथक-मान है।{{< /blocks/products/pf/agp/i18n/about-file-text >}}
     {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->

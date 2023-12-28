@@ -1,5 +1,5 @@
 ---
-title: XLSX konvertálása PDF/A megfelelő fájlok via Java-re
+title:  XLSX konvertálása PDF/A megfelelő fájlok via Java-re
 weight: 3200
 description: Minta Java konverziós kód a XLSX formátumhoz PDF A megfelelő fájlokká. A programozók ezt a példakódot használhatják Excel- és OpenOffice-táblázatok PDFA-kompatibilis fájlokba történő exportálására bármely web- vagy asztali Java alapú alkalmazáson belül.
 ---
@@ -11,7 +11,7 @@ description: Minta Java konverziós kód a XLSX formátumhoz PDF A megfelelő f�
 
 {{% blocks/products/pf/agp/content h2="A XLSX konvertálása PDF/A-ra a Java használatával" %}}
 
- A XLSX-PDF/A számok rendereléséhez használjuk
+ XLSX-PDF/A számok rendereléséhez használjuk
  [Aspose.Cells for Java](https://products.aspose.com/cells/java) 
  API, amely egy funkciókban gazdag, hatékony és könnyen használható konverziós API for Java platform. A legújabb verziót közvetlenül a webhelyről töltheti le
  [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) 
@@ -58,7 +58,7 @@ description: Minta Java konverziós kód a XLSX formátumhoz PDF A megfelelő f�
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Töltse be a XLSX számú fájlt a Workbook osztály egy példányával
-1. Hozzon létre PdfSaveOptions osztályobjektumot
+1.  Hozzon létre PdfSaveOptions osztályobjektumot
 1.  Állítsa be a PdfCompliance.PdfA1b megfelelőségi típust
 1.  Hívja a Workbook.save metódust
 1.  Adja meg a kimeneti útvonalat PDF kiterjesztéssel és PdfSaveOptions objektummal paraméterként
@@ -95,12 +95,12 @@ description: Minta Java konverziós kód a XLSX formátumhoz PDF A megfelelő f�
 {{< blocks/products/pf/agp/demobox sectionTitle="XLSX-PDF Konverziós élő bemutatók" sectionDescription="[Alakítsa át a XLSX-et PDF-re](https://products.aspose.app/cells/conversion/xlsx-to-pdf) most azonnal látogassa meg Élő bemutatók webhelyünket.Az élő bemutatónak a következő előnyei vannak" >}}
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Nem kell letölteni a Aspose API számot." >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Nem kell kódot írni." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Csak töltse fel a XLSX-es fájlt, és azonnal PDF-re konvertálódik." >}}
+        {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Csak töltse fel a XLSX-es fájlt, és azonnal PDF-re konvertálódik." >}}
         {{< blocks/products/pf/agp/democard icon="fa-download" text=" Megkapod a letöltési linket." >}}
 
     {{% blocks/products/pf/agp/content h2="Java Táblázatkezelési könyvtár" %}}
 
-Az Excel API használható Microsoft Excel formátumok létrehozására, szerkesztésére, konvertálására és különböző formátumokká való renderelésére. Ezen túlmenően használható átfogó diagramok készítésére, skálázható jelentésekre és megbízható számításokra a szoftveralkalmazásokon belül. A Aspose.Cells egy önálló API, és nem igényel olyan szoftvert, mint a Microsoft vagy az OpenOffice.
+ Az Excel API használható Microsoft Excel formátumok létrehozására, szerkesztésére, konvertálására és különböző formátumokká való renderelésére. Ezen túlmenően használható átfogó diagramok készítésére, skálázható jelentésekre és megbízható számításokra a szoftveralkalmazásokon belül. A Aspose.Cells egy önálló API, és nem igényel olyan szoftvert, mint a Microsoft vagy az OpenOffice.
 
 
 
@@ -151,7 +151,7 @@ Portable Document Format (PDF) az Adobe által az 1990-es években létrehozott 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/xlsx-to-xlt/" name="XLSX-XLT" description="Microsoft Excel-sablon" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/xlsx-to-xltm/" name="XLSX-XLTM" description="Excel-makró-kompatibilis sablon" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/xlsx-to-xltx/" name="XLSX-XLTX" description="Office OpenXML Excel sablon" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/xlsx-to-xps/" name="XLSX-XPS" description="XML papírspecifikációk" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/xlsx-to-xps/" name="XLSX-XPS" description="XML papír specifikációk" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/xlsx-to-json/" name="XLSX-JSON" description="JavaScript objektum jelölés" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}

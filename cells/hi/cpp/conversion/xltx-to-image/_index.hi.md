@@ -1,7 +1,7 @@
 ---
-title: C++ XLTX से इमेज - ऑनलाइन XLTX से इमेज कन्वर्टर
-description: Aspose एक्सेल। C++ Aspose.Cells. C++ Aspose Cells. मुफ़्त ऑनलाइन C++ XLTX को इमेज सेव फॉर्मेट में कनवर्ट करें। C++ XLTX छवि प्रारूप में। XLTX को इमेज C++ पर सेव करें।
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ XLTX to IMAGE saveformat., Free Online XLTX to IMAGE C++., C++ Convert XLTX to IMAGE]
+title: C++ XLTX से छवि - XLTX से छवि कनवर्टर
+description: Aspose एक्सेल। Aspose.Cells के साथ XLTX को जल्दी और आसानी से इमेज में बदलें। C++ XLTX को इमेज में बदलें। C++ XLTX को इमेज में सहेजें। C++ का उपयोग करके XLTX को छवि के रूप में सहेजें।
+keywords: [Aspose Excel., C++ Aspose.Cells., Convert XLTX to IMAGE in C++., Save XLTX to IMAGE using C++., C++ XLTX to IMAGE saveformat., XLTX to IMAGE Converter., C++ Save XLTX as IMAGE]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="XLTX को C++ में छवि में बदलें" h2="Microsoft एक्सेल, ओपनऑफिस या एडोब एक्रोबैट इंस्टॉलेशन की आवश्यकता के बिना C++ लाइब्रेरी का उपयोग करके छवि रूपांतरण के लिए उच्च प्रदर्शन XLTX।" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" sourceAdditionalConversionTag="" additionalConversionTag="IMAGE" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ XLTX to IMAG
 
 {{% blocks/products/pf/agp/content h2="C++ का उपयोग करके XLTX को छवि में बदलें" %}}
 
- मैं XLTX को इमेज में कैसे परिवर्तित करूं? Aspose.Cells for C++ लाइब्रेरी के साथ, आप कोड की कुछ पंक्तियों के साथ आसानी से XLTX को प्रोग्रामेटिक रूप से इमेज में परिवर्तित कर सकते हैं।[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) सभी एक्सेल फ़ाइलों को उत्पन्न करने, संशोधित करने, परिवर्तित करने, प्रस्तुत करने और प्रिंट करने की क्षमता के साथ क्रॉस-प्लेटफ़ॉर्म एप्लिकेशन बनाने में सक्षम है। C++ एक्सेल API न केवल स्प्रेडशीट प्रारूपों के बीच कनवर्ट कर सकता है, यह एक्सेल फाइलों को छवियों, PDF, HTML, ODS, CSV, SVG, JSON, वर्ड, पीपीटी और भी बहुत कुछ के रूप में प्रस्तुत कर सकता है, इस प्रकार यह एक्सचेंज के लिए एक आदर्श विकल्प बन जाता है। उद्योग-मानक में दस्तावेज़ प्रारूप. आप इसका नवीनतम संस्करण सीधे डाउनलोड कर सकते हैं, बस खोलें[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) पैकेज मैनेजर, Aspose.Cells.सीपीपी खोजें और इंस्टॉल करें। आप पैकेज मैनेजर कंसोल से निम्न कमांड का भी उपयोग कर सकते हैं।
+ मैं XLTX को इमेज में कैसे परिवर्तित करूं? Aspose.Cells for C++ लाइब्रेरी के साथ, आप कोड की कुछ पंक्तियों के साथ आसानी से XLTX को प्रोग्रामेटिक रूप से इमेज में परिवर्तित कर सकते हैं।[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) सभी एक्सेल फ़ाइलों को उत्पन्न करने, संशोधित करने, परिवर्तित करने, प्रस्तुत करने और प्रिंट करने की क्षमता के साथ क्रॉस-प्लेटफ़ॉर्म एप्लिकेशन बनाने में सक्षम है। C++ एक्सेल API न केवल स्प्रेडशीट प्रारूपों के बीच परिवर्तित होता है, बल्कि यह एक्सेल फाइलों को छवियों, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT और अधिक के रूप में भी प्रस्तुत कर सकता है, इस प्रकार यह उद्योग-मानक प्रारूपों में दस्तावेजों का आदान-प्रदान करने के लिए एक आदर्श विकल्प बन जाता है। आप इसका नवीनतम संस्करण सीधे डाउनलोड कर सकते हैं, बस खोलें[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) पैकेज मैनेजर, Aspose.Cells.सीपीपी खोजें और इंस्टॉल करें। आप पैकेज मैनेजर कंसोल से निम्न कमांड का भी उपयोग कर सकते हैं।
 
 {{% blocks/products/pf/agp/code-block title="आज्ञा" offSpacer="true" %}}
 
@@ -26,7 +26,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="XLTX को इमेज में C++ में निःशुल्क ऑनलाइन सेव करें" %}}
+{{% blocks/products/pf/agp/content h2="XLTX को C++ में इमेज में सेव करें" %}}
 
 निम्नलिखित उदाहरण दर्शाता है कि XLTX को C++ में IMAGE में कैसे परिवर्तित किया जाए।
 {{% blocks/products/pf/agp/text %}}
@@ -37,7 +37,7 @@ XLTX को IMAGE में बदलने के लिए आसान चर
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="XLTX को ऑनलाइन इमेज में बदलने के लिए निःशुल्क ऐप और नमूना कोड" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xltx" outformat="png" IsLandingPage="true" language="cpp" %}}
+{{% cells-convert title="XLTX को छवि में बदलने के लिए नमूना कोड" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xltx" outformat="png" IsLandingPage="true" language="cpp" %}}
 
 {{% blocks/products/pf/agp/content h2="XLTX को C++ के माध्यम से इमेज में कैसे बदलें" %}}
 
@@ -49,7 +49,7 @@ XLTX फ़ाइलों को प्रोग्रामेटिक रू
 
 1.  'Aspose.Cells for C++' इंस्टॉल करें।
 1.  अपने C++ प्रोजेक्ट में एक लाइब्रेरी संदर्भ जोड़ें (लाइब्रेरी आयात करें)।
-1.  फ़ैक्टरी::CreateIWorkbook का उपयोग करके XLTX फ़ाइल लोड करें।
+1.  वर्कबुक का उपयोग करके XLTX फ़ाइल लोड करें।
 1.  Save() विधि को कॉल करके XLTX को IMAGE में बदलें।
 1.  XLTX का IMAGE में रूपांतरण परिणाम प्राप्त करें।
 
@@ -101,7 +101,6 @@ XLTX फ़ाइलों को प्रोग्रामेटिक रू
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xltx-to-pdf/" name="XLTX से PDF तक" description="संवहन दस्तावेज़ स्वरूप" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xltx-to-png/" name="XLTX से PNG तक" description="पोर्टेबल नेटवर्क ग्राफ़िक्स" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xltx-to-svg/" name="XLTX से SVG तक" description="स्केलेबल वेक्टर ग्राफिक्स" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xltx-to-tiff/" name="XLTX से TIFF तक" description="टैग किया गया छवि प्रारूप" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xltx-to-tsv/" name="XLTX से TSV तक" description="टैब-पृथक मान" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xltx-to-txt/" name="XLTX से TXT तक" description="सामग्री या लेख दस्तावेज़" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xltx-to-xls/" name="XLTX से XLS तक" description="एक्सेल बाइनरी फॉर्मेट" >}}

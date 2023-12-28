@@ -1,7 +1,7 @@
 ---
-title: Java PNG - TABDELIMITED - Online PNG - TABDELIMITED konverter
-description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Ingyenes online Java A PNG konvertálása TABDELIMITED mentési formátumra. Java PNG TABDELIMITED formátumba. Mentse a PNG számot a TABDELIMITED Java számra.
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java PNG to TABDELIMITED saveformat., Free Online PNG to TABDELIMITED Java., Java Convert PNG to TABDELIMITED]
+title: Java PNG - TABDELIMITED - PNG - TABDELIMITED konverter
+description: Aspose Excel. Java Aspose.Cells. PNG - TABDELIMITED in Java. Java A PNG konvertálása TABDELIMITED mentési formátumra. Java PNG TABDELIMITED formátumba. Mentse a PNG számot a TABDELIMITED Java számra.
+keywords: [Aspose Excel., Java Aspose.Cells., PNG to TABDELIMITED in Java., Java PNG to TABDELIMITED saveformat., PNG to TABDELIMITED Java., Java Convert PNG to TABDELIMITED]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Konvertálja a PNG-et TABDELIMITED-re a Java-ben" h2="Nagy sebességű Java-es könyvtár a PNG-es szám TAB-ra konvertálásáhozDELIMITED. Ez egy professzionális szoftvermegoldás a PNG, TABDELIMITED és sok más formátum importálásához és exportálásához a Java használatával." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="TABDELIMITED" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java PNG to TA
 
 {{% blocks/products/pf/agp/content h2="PNG konvertálása TABLEDELIMITED-re a Java használatával" %}}
 
- Hogyan alakíthatom át a PNG-et TABDELIMITED-re? A Aspose.Cells for Java könyvtárral egyszerűen konvertálhatja a PNG-et TABDELIMITED-re, néhány soros kóddal.[Aspose.Cells for Java](https://products.aspose.com/cells/java) képes többplatformos alkalmazásokat létrehozni, módosítani, konvertálni, renderelni és kinyomtatni az összes Excel fájlt. Java Excel API nem csak a táblázatformátumok között konvertál, hanem Excel fájlokat is képes megjeleníteni képként, PDF, HTML, ODS, CSV, CSV, CSV, CSV, CSV, CSV, SVG, és így tovább, SVG P, 8 PT a választás,3,8 ipari szabvány szerinti dokumentumok cseréjére formátumok. A legújabb verziót közvetlenül a webhelyről töltheti le[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) és telepítse a Maven alapú projekten belül a következő konfigurációk hozzáadásával a pom.xml fájlhoz.
+ Hogyan alakíthatom át a PNG-et TABDELIMITED-re? A Aspose.Cells for Java könyvtárral egyszerűen konvertálhatja a PNG-et TABDELIMITED-re, néhány soros kóddal.[Aspose.Cells for Java](https://products.aspose.com/cells/java)képes többplatformos alkalmazásokat létrehozni, módosítani, konvertálni, renderelni és kinyomtatni az összes Excel fájlt. Java Az Excel API nemcsak a táblázatformátumok között konvertál, hanem Excel-fájlokat is képes megjeleníteni képként, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT és egyebekként, így tökéletes választás a szabványos formátumú dokumentumok cseréjéhez. A legújabb verziót közvetlenül a webhelyről töltheti le[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) és telepítse a Maven alapú projekten belül a következő konfigurációk hozzáadásával a pom.xml fájlhoz.
 
 {{% blocks/products/pf/agp/code-block title="Adattár" offSpacer="true" %}}
 
@@ -45,7 +45,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java PNG to TA
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Takarítson meg PNG-et a TABDELIMITED-en a Java-ben online ingyen" %}}
+{{% blocks/products/pf/agp/content h2="Mentse el a PNG-et a TABDELIMITED-hez itt: Java" %}}
 
 A következő példa bemutatja, hogyan alakíthatja át a PNG-et TABDELIMITED-re a Java-ben.
 {{% blocks/products/pf/agp/text %}}
@@ -56,7 +56,7 @@ Kövesse az egyszerű lépéseket a PNG TABDELIMITED-re konvertálásához. Töl
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Ingyenes alkalmazás és mintakód a PNG konvertálásához TABDELIMITED online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="png" outformat="tsv" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Mintakód a PNG TAB-ra konvertálásáhozDELIMITED" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="png" outformat="tsv" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="A PNG konvertálása TABDELIMITED via Java-re" %}}
 
@@ -68,7 +68,7 @@ A PNG fájlt TABDELIMITED-re kell programozottan konvertálni? A Java fejlesztő
 
 1.  Telepítse a „Aspose.Cells for Java” fájlt.
 1.  Adjon hozzá egy könyvtári hivatkozást (importálja a könyvtárat) a Java projekthez.
-1.  Töltse be a PNG számú fájlt a Workbook osztály egy példányával.
+1. Töltse be a PNG számú fájlt a Workbook osztály egy példányával.
 1.  Konvertálja a PNG-et TABDELIMITED-re a Workbook.save metódus meghívásával.
 1.  A PNG átalakítási eredmény lekérése TABDELIMITED-re.
 
@@ -125,7 +125,7 @@ A PNG fájlt TABDELIMITED-re kell programozottan konvertálni? A Java fejlesztő
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/png-to-xltm/" name="PNG-XLTM" description="Excel-makró-kompatibilis sablon" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/png-to-xltx/" name="PNG-XLTX" description="Office OpenXML Excel sablon" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/png-to-xml/" name="PNG XML-RE" description="Bővíthető jelölőnyelv" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/png-to-xps/" name="PNG-XPS" description="XML papírspecifikációk" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/png-to-xps/" name="PNG-XPS" description="XML papír specifikációk" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/png-to-json/" name="PNG-JSON" description="JavaScript objektum jelölés" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/png-to-jpeg/" name="PNG-JPEG" description="JPEG Kép" >}}
 

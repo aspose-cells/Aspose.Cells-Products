@@ -1,7 +1,7 @@
 ---
-title: C++ XLTX a HTM-hez – Online XLTX a HTM konverterhez
-description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. Ingyenes online C++ A XLTX konvertálása HTM mentési formátumba. C++ XLTX HTM formátumba. Mentse a XLTX számot a HTM C++ számon.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ XLTX to HTM saveformat., Free Online XLTX to HTM C++., C++ Convert XLTX to HTM]
+title: C++ XLTX HTM - XLTX HTM Converter
+description: Aspose Excel. A XLTX számot gyorsan és egyszerűen konvertálja HTM-re a Aspose.Cells. C++ XLTX számmal HTM-re. C++ Mentse a XLTX számot a HTM-nél. Mentse el a XLTX számot HTM-ként a C++ használatával.
+keywords: [Aspose Excel., C++ Aspose.Cells., Convert XLTX to HTM in C++., Save XLTX to HTM using C++., C++ XLTX to HTM saveformat., XLTX to HTM Converter., C++ Save XLTX as HTM]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Konvertálja a XLTX-et HTM-re a C++-ben" h2="Nagy teljesítményű XLTX konvertálás HTM-be a C++ könyvtár használatával, Microsoft Excel, OpenOffice vagy Adobe Acrobat telepítése nélkül." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" sourceAdditionalConversionTag="" additionalConversionTag="HTM" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ XLTX to HTM 
 
 {{% blocks/products/pf/agp/content h2="Konvertálja a XLTX-et HTM-re a C++ használatával" %}}
 
- Hogyan konvertálhatom át a XLTX-et HTM-re? A Aspose.Cells for C++ könyvtárral egyszerűen konvertálhatja a XLTX-et HTM-re néhány soros kóddal.[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) képes többplatformos alkalmazásokat létrehozni, módosítani, konvertálni, renderelni és kinyomtatni az összes Excel fájlt. C++ Excel API nem csak a táblázatformátumok között konvertál, hanem Excel fájlokat is képes megjeleníteni képként, PDF, HTML, ODS, CSV, CSV, CSV, CSV, CSV, CSV, SVG, és így tovább, SVG P, 8 PT a választás,3,8 ipari szabvány szerinti dokumentumok cseréjére formátumok. A legújabb verziót közvetlenül letöltheti, csak nyissa meg[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) csomagkezelő, keresse meg a Aspose.Cells.Cpp címet, és telepítse. A következő parancsot is használhatja a Package Manager konzolból.
+ Hogyan konvertálhatom át a XLTX-et HTM-re? A Aspose.Cells for C++ könyvtárral egyszerűen konvertálhatja a XLTX-et HTM-re néhány soros kóddal.[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) képes többplatformos alkalmazásokat létrehozni, módosítani, konvertálni, renderelni és kinyomtatni az összes Excel fájlt. C++ Az Excel API nemcsak a táblázatformátumok között konvertál, hanem Excel-fájlokat is képes megjeleníteni képként, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT és egyebekként, így tökéletes választás a szabványos formátumú dokumentumok cseréjéhez. A legújabb verziót közvetlenül letöltheti, csak nyissa meg[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) csomagkezelő, keresse meg a Aspose.Cells.Cpp címet, és telepítse. A következő parancsot is használhatja a Package Manager konzolból.
 
 {{% blocks/products/pf/agp/code-block title="Parancs" offSpacer="true" %}}
 
@@ -26,7 +26,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Takarítson meg XLTX-et a HTM-nél a C++-es számon online ingyen" %}}
+{{% blocks/products/pf/agp/content h2="Mentse a XLTX számot a HTM-hez a C++ számon" %}}
 
 A következő példa bemutatja, hogyan lehet átalakítani a XLTX-et HTM-re a C++-ben.
 {{% blocks/products/pf/agp/text %}}
@@ -37,7 +37,7 @@ Kövesse az egyszerű lépéseket a XLTX HTM-re konvertálásához. Töltse fel 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Ingyenes alkalmazás és mintakód a XLTX HTM Online konvertálásához" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xltx" outformat="htm" IsLandingPage="true" language="cpp" %}}
+{{% cells-convert title="Mintakód a XLTX HTM-re konvertálásához" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xltx" outformat="htm" IsLandingPage="true" language="cpp" %}}
 
 {{% blocks/products/pf/agp/content h2="A XLTX konvertálása HTM-re a C++-en keresztül" %}}
 
@@ -49,7 +49,7 @@ A XLTX fájlokat programozottan HTM-re kell konvertálni? A C++ fejlesztők kön
 
 1.  Telepítse a „Aspose.Cells for C++” fájlt.
 1.  Adjon hozzá egy könyvtári hivatkozást (importálja a könyvtárat) a C++ projekthez.
-1.  Töltse be a XLTX fájlt a Factory::CreateIWorkbook segítségével.
+1.  Töltse be a XLTX fájlt a munkafüzet segítségével.
 1.  Konvertálja a XLTX-et HTM-re a Save() metódus meghívásával.
 1.  Szerezze meg a XLTX konverziós eredményt HTM-re.
 
@@ -101,7 +101,6 @@ Három lehetőség közül választhat a „Aspose.Cells for C++” telepítés�
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xltx-to-pdf/" name="XLTX-PDF" description="Hordozható dokumentum formátum" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xltx-to-png/" name="XLTX-PNG" description="Hordozható hálózati grafika" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xltx-to-svg/" name="XLTX-SVG" description="Skálázható vektorgrafika" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xltx-to-tiff/" name="XLTX-TIFF" description="Címkézett képformátum" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xltx-to-tsv/" name="XLTX-TSV" description="Tabulátorral elválasztott értékek" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xltx-to-txt/" name="XLTX-TXT" description="Szöveges dokumentum" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xltx-to-xls/" name="XLTX-XLS" description="Excel bináris formátum" >}}
@@ -112,7 +111,7 @@ Három lehetőség közül választhat a „Aspose.Cells for C++” telepítés�
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xltx-to-xltm/" name="XLTX-XLTM" description="Excel-makró-kompatibilis sablon" >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xltx-to-xml/" name="XLTX XML-RE" description="Bővíthető jelölőnyelv" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xltx-to-xps/" name="XLTX-XPS" description="XML papírspecifikációk" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xltx-to-xps/" name="XLTX-XPS" description="XML papír specifikációk" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xltx-to-json/" name="XLTX-JSON" description="JavaScript objektum jelölés" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xltx-to-jpeg/" name="XLTX-JPEG" description="JPEG Kép" >}}
 

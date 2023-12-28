@@ -1,7 +1,7 @@
 ---
-title: Java XLS - EMF - Online XLS - EMF Átalakító
-description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Ingyenes online Java A XLS konvertálása EMF mentési formátumra. Java XLS - EMF formátum. Mentse a XLS számot a EMF Java számra.
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java XLS to EMF saveformat., Free Online XLS to EMF Java., Java Convert XLS to EMF]
+title: Java XLS - EMF - XLS - EMF Átalakító
+description: Aspose Excel. A XLS-es számot EMF-re gyorsan és egyszerűen a Aspose.Cells-es számmal alakíthatja át. Java XLS-EMF-re. 13481 a Java számon.
+keywords: [Aspose Excel., Java Aspose.Cells., Convert XLS to EMF in Java., Save XLS to EMF using Java., Java XLS to EMF saveformat., XLS to EMF Converter., Java Save XLS as EMF]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Konvertálja a XLS-et EMF-re Java-ben" h2="Nagysebességű Java könyvtár a XLS EMF-es számok konvertálásához. Ez egy professzionális szoftvermegoldás a XLS, EMF és sok más formátum importálásához és exportálásához a Java szám használatával." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="EMF" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java XLS to EM
 
 {{% blocks/products/pf/agp/content h2="A XLS konvertálása EMF-re a Java használatával" %}}
 
-Hogyan alakíthatom át a XLS-et EMF-re? A Aspose.Cells for Java könyvtárral egyszerűen konvertálhatja a XLS-et programozottan EMF-re néhány sor kóddal.[Aspose.Cells for Java](https://products.aspose.com/cells/java) képes többplatformos alkalmazásokat létrehozni, módosítani, konvertálni, renderelni és kinyomtatni az összes Excel fájlt. Java Excel API nem csak a táblázatformátumok között konvertál, hanem Excel fájlokat is képes megjeleníteni képként, PDF, HTML, ODS, CSV, CSV, CSV, CSV, CSV, CSV, SVG, és így tovább, SVG P, 8 PT a választás,3,8 ipari szabvány szerinti dokumentumok cseréjére formátumok. A legújabb verziót közvetlenül a webhelyről töltheti le[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) és telepítse a Maven alapú projekten belül a következő konfigurációk hozzáadásával a pom.xml fájlhoz.
+Hogyan alakíthatom át a XLS-et EMF-re? A Aspose.Cells for Java könyvtárral egyszerűen konvertálhatja a XLS-et programozottan EMF-re néhány sor kóddal.[Aspose.Cells for Java](https://products.aspose.com/cells/java)képes többplatformos alkalmazásokat létrehozni, módosítani, konvertálni, renderelni és kinyomtatni az összes Excel fájlt. Java Az Excel API nemcsak a táblázatformátumok között konvertál, hanem Excel-fájlokat is képes megjeleníteni képként, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT és egyebekként, így tökéletes választás a szabványos formátumú dokumentumok cseréjéhez. A legújabb verziót közvetlenül a webhelyről töltheti le[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) és telepítse a Maven alapú projekten belül a következő konfigurációk hozzáadásával a pom.xml fájlhoz.
 
 {{% blocks/products/pf/agp/code-block title="Adattár" offSpacer="true" %}}
 
@@ -45,7 +45,7 @@ Hogyan alakíthatom át a XLS-et EMF-re? A Aspose.Cells for Java könyvtárral e
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Takarítson meg XLS-EMF számot a Java számon online ingyen" %}}
+{{% blocks/products/pf/agp/content h2="Mentse a XLS-EMF számot a Java-es számon" %}}
 
 A következő példa bemutatja, hogyan lehet a XLS-et EMF-re konvertálni a Java-ben.
 {{% blocks/products/pf/agp/text %}}
@@ -56,9 +56,9 @@ Kövesse az egyszerű lépéseket a XLS EMF-re konvertálásához. Töltse fel a
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Ingyenes alkalmazás és mintakód a XLS EMF online konvertálásához" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xls" outformat="emf" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Mintakód a XLS EMF-re konvertálásához" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xls" outformat="emf" IsLandingPage="true" language="java" %}}
 
-{{% blocks/products/pf/agp/content h2="XLS EMF via Java-re konvertálása" %}}
+{{% blocks/products/pf/agp/content h2="A XLS EMF via Java-re konvertálása" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
@@ -68,7 +68,7 @@ A XLS fájlt programozottan EMF-re kell konvertálni? A Java fejlesztők könnye
 
 1.  Telepítse a „Aspose.Cells for Java” fájlt.
 1.  Adjon hozzá egy könyvtári hivatkozást (importálja a könyvtárat) a Java projekthez.
-1.  Töltse be a XLS számú fájlt a Workbook osztály egy példányával.
+1. Töltse be a XLS számú fájlt a Workbook osztály egy példányával.
 1.  Konvertálja a XLS-et EMF-re a Workbook.save metódus meghívásával.
 1.  Szerezze meg a XLS-es konverziós eredményt EMF-re.
 
@@ -125,7 +125,7 @@ A XLS fájlt programozottan EMF-re kell konvertálni? A Java fejlesztők könnye
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/xls-to-xltm/" name="XLS-XLTM" description="Excel-makró-kompatibilis sablon" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/xls-to-xltx/" name="XLS-XLTX" description="Office OpenXML Excel sablon" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/xls-to-xml/" name="XLS XML-RE" description="Bővíthető jelölőnyelv" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/xls-to-xps/" name="XLS-XPS" description="XML papírspecifikációk" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/xls-to-xps/" name="XLS-XPS" description="XML papír specifikációk" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/xls-to-json/" name="XLS-JSON" description="JavaScript objektum jelölés" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/xls-to-jpeg/" name="XLS-JPEG" description="JPEG Kép" >}}
 

@@ -18,7 +18,7 @@ description: Összefűzze Excel és OpenOffice táblázatfájlokat néhány sorn
 {{% /blocks/products/pf/feature-page-section %}}
 
 {{% blocks/products/pf/feature-page-section h2="Egyesítsen több Excel-fájlt" %}}
-[CellsHelper.MergeFiles](https://reference.aspose.com/cells/net/aspose.cells/cellshelper/methods/mergefiles) módszer támogatja az Excel-fájl adatainak, stílusának és képleteinek egyesítését egy új, azonos formátumú táblázattal. Ez egy hatékony módja több fájl egyesítésének gyorsítótár használata közben.
+[CellsHelper.MergeFiles](https://reference.aspose.com/cells/net/aspose.cells/cellshelper/methods/mergefiles) A módszer támogatja az Excel-fájl adatainak, stílusának és képleteinek egyesítését egy új, azonos formátumú táblázattal. Ez egy hatékony módja több fájl egyesítésének gyorsítótár használata közben.
 {{% blocks/products/pf/feature-page-code h3="C# Kód több Excel-fájl egyesítéséhez" %}}
 
 {{< gist "aspose-com-gists" "d7c757e7471bd38006ac0d35d221b2e2" "merge-several-excel-files.cs" >}}

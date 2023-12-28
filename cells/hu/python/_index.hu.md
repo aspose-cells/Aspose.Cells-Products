@@ -12,7 +12,7 @@ description: Python táblázatkönyvtár olvasási írási és -elemzési Excel-
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
- Aspose.Cells for Python egy gyors és megbízható API táblázatkezelési feladatokhoz. A fejlesztők egyszerű vagy összetett táblázatokat hozhatnak létre, manipulálhatnak, valamint információkat nyerhetnek ki Excel-fájlokból. A API több Excel formátumot is beolvas, és munkalapokat tud renderelni a XPS, PDF, MHTML, HTML, egyszerű szöveg, képek és egyebek számára. Ez a legjobb megoldás az Excel-jelentések python segítségével történő automatizálására.
+Aspose.Cells for Python egy gyors és megbízható API táblázatkezelési feladatokhoz. A fejlesztők egyszerű vagy összetett táblázatokat hozhatnak létre, manipulálhatnak, valamint információkat nyerhetnek ki Excel-fájlokból. A API több Excel formátumot is beolvas, és munkalapokat tud renderelni a XPS, PDF, MHTML, HTML, egyszerű szöveg, képek és egyebek számára. Ez a legjobb megoldás az Excel-jelentések python segítségével történő automatizálására.
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
@@ -234,7 +234,7 @@ Gyűjtemények
  <div class="row">
   <div class="container">
    <h2 class="pr-ft">
-Speciális Python Excel API Funkciók
+ Speciális Python Excel API Funkciók
    </h2>
    <p>
    </p>
@@ -305,7 +305,7 @@ Speciális Python Excel API Funkciók
     <em class="fa fa-object-ungroup ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Csoportosítás hozzáadása vagy eltávolítása sorokhoz és oszlopokhoz
+Csoportosítás hozzáadása vagy eltávolítása sorokhoz és oszlopokhoz
     </p>
    </div>
    <div class="col-lg-4">
@@ -461,7 +461,7 @@ wkbk.save(SD_PATH + "houtput.html", SaveFormat.HTML);</code></pre>
  Rugalmas megjelenítési lehetőségek
     </h2>
     <p>
-Aspose.Cells for Python teljes körű ellenőrzést biztosít az oldalbeállítások felett, lehetővé téve több megjelenítési lehetőség kezelését, mint például az oldaltörések előnézete, a nagyítási szint beállítása, az oldaltájolás beállítása, az adatok láthatóságának vezérlése kimerevítő panelekkel, a papírméret, a méretezés, a fejlécek és a fejlécek; láblécek és nyomtatási terület.
+ Aspose.Cells for Python teljes körű ellenőrzést biztosít az oldalbeállítások felett, lehetővé téve több megjelenítési lehetőség kezelését, mint például az oldaltörések előnézete, a nagyítási szint beállítása, az oldaltájolás beállítása, az adatok láthatóságának vezérlése kimerevítő panelekkel, a papírméret, a méretezés, a fejlécek és a fejlécek; láblécek és nyomtatási terület.
     </p>
    </div>
    <!--<div class="col-lg-12">
@@ -489,7 +489,7 @@ Aspose.Cells for Python teljes körű ellenőrzést biztosít az oldalbeállít�
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
- Diagramok testreszabása
+Diagramok testreszabása
     </h2>
     <p>
  Aspose.Cells for Python teljes mértékben támogatja a diagramkészítést. Könnyen hozzáadhat szabványos és testreszabott diagramokat vagy dinamikusan beállíthatja a diagramadatokat a diagram frissítéséhez vagy ebben a python könyvtárban.

@@ -1,6 +1,7 @@
 ---
 title:  Átalakítsa a diagramot SVG képekké via .NET
 description: C# forráskód a diagram konvertálásához a .NET Framework, .NET Core, Mono vagy Xamarin Platforms XLSX fájlban.
+keywords: [C# Aspose.Cells., c# Convert chart to svg., c# Save chart to svg., c# chart to svg]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Átalakítsa a diagramokat SVG képekké a C#-ben" h2="Natív és nagy teljesítményű XLS dokumentumdiagramok képek konvertálásához szerveroldali API-k segítségével, olyan szoftverek használata nélkül, mint a Microsoft vagy az Adobe PDF." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="XLS" >}}
@@ -43,7 +44,7 @@ PM> Install-Package Aspose.Cells
 {{% /blocks/products/pf/agp/text %}}
 
 + Hozzon létre XLSX fájlt.
-+ Szerezd meg a diagramot.
+Szerezd meg a diagramot.
 + Átalakítsa a diagramot SVG képpé.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

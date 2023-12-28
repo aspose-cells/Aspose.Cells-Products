@@ -1,7 +1,8 @@
 ---
 title: Pivot diagram beszúrása a Micorsoft Excel XLSB fájlokban a C# számon keresztül
 weight: 7690
-description: C# Mintakód a XLSB számú dokumentumok előállításához pivot diagrammal. Használja ezt a kódot a VB.NET, Asp.NET vagy bármely .NET alapú alkalmazáson belüli pivot diagrammal rendelkező Micorsoft Excel XLSB fájlok létrehozásához.
+description: C# Mintakód a kimutatásdiagram XLSB-hez való hozzáadásához a .NET könyvtár használatával. Használja ezt a kódot a kimutatásdiagram beszúrásához a XLSB fájlba VB.NET, Asp.NET vagy bármely .NET alapú alkalmazáson belül.
+keywords: [C# Aspose.Cells., c# add pivot chart in xlsb., c# insert pivot chart in xlsb., c# create pivot chart in xlsb., c# modify pivot chart in xlsb., access pivot chart in xlsb]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Pivot diagram beszúrása a XLSB dokumentumokba a C#-en keresztül" h2="Natív és nagy teljesítményű Microsoft Excel XLSB táblázat Kimutatásdiagram-készítéssel programozottan, szerveroldali .NET API-k használatával." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSB" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSB" >}}
@@ -11,9 +12,7 @@ description: C# Mintakód a XLSB számú dokumentumok előállításához pivot 
 
 {{% blocks/products/pf/agp/content h2="" %}}
 
- Az MS Excel XLSB fájl dinamikus előállítása a Pivot Chart segítségével a futó alkalmazáson belül egyszerű. A XLSB számú dokumentumok Pivot Chart segítségével történő létrehozásához a semmiből, MS Office használata nélkül,
- [Aspose.Cells for .NET](https://products.aspose.com/cells/net) 
- API, amely különböző funkciókat kínál a táblázatok létrehozásához, kezeléséhez és konvertálásához a .NET platformon. A fejlesztők egyszerűen javíthatják a kódot az adatok írásához, diagramok vagy grafikonok generálásához, valamint táblázatok készítéséhez.
+ Az MS Excel XLSB fájl dinamikus előállítása a Pivot Chart segítségével a futó alkalmazáson belül egyszerű. A XLSB számú dokumentumok Pivot Chart segítségével történő létrehozásához a semmiből, MS Office használata nélkül,[Aspose.Cells for .NET](https://products.aspose.com/cells/net) API, amely különböző funkciókat kínál a táblázatok létrehozásához, kezeléséhez és konvertálásához a .NET platformon. A fejlesztők egyszerűen javíthatják a kódot az adatok írásához, diagramok vagy grafikonok generálásához, valamint táblázatok készítéséhez.
 {{% /blocks/products/pf/agp/content %}}
 
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
@@ -32,7 +31,7 @@ description: C# Mintakód a XLSB számú dokumentumok előállításához pivot 
 1.  Szerezze meg a munkalap kívánt celláit, és írja be az értéket a cellákba.
 1.  Helyezze be a PivotTable-t, és állítsa be a stílust
 1.  Szúrjon be Pivot diagramot a kimutatás adataival
-1.  Mentés módszerrel mentheti a munkafüzetet XLSB fájlként.
+1.  A Mentés módszerrel mentheti a munkafüzetet XLSB fájlként.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -40,7 +39,7 @@ description: C# Mintakód a XLSB számú dokumentumok előállításához pivot 
 
 {{% blocks/products/pf/agp/text %}}
 
- Csak győződjön meg arról, hogy a rendszer Microsoft Windows vagy kompatibilis operációs rendszerrel rendelkezik .NET Framework, .NET Core, Windows Azure, Mono vagy Xamarin Platformokkal, valamint Visu71616340-hoz hasonló fejlesztői környezettel.
+Csak győződjön meg arról, hogy a rendszer Microsoft Windows vagy kompatibilis operációs rendszerrel rendelkezik .NET Framework, .NET Core, Windows Azure, Mono vagy Xamarin Platformokkal, valamint Visu71616340-hoz hasonló fejlesztői környezettel.
 
 {{% /blocks/products/pf/agp/text %}}
 

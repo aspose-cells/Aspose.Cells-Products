@@ -1,7 +1,7 @@
 ---
-title: Python नंबर से छवि - ऑनलाइन नंबर से छवि कनवर्टर
-description: Aspose एक्सेल। Python Aspose.Cells. Python Aspose Cells. मुफ़्त ऑनलाइन Python नंबरों को इमेज सेव फॉर्मेट में बदलें। Python नंबर छवि प्रारूप में। नंबरों को छवि Python पर सहेजें।
-keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python NUMBERS to IMAGE saveformat., Free Online NUMBERS to IMAGE Python., Python Convert NUMBERS to IMAGE]
+title: Python नंबर से छवि - नंबर से छवि कनवर्टर
+description: Aspose एक्सेल। Aspose.Cells के साथ जल्दी और आसानी से NUMBERS को IMAGE में बदलें। Python NUMBERS को IMAGE में बदलें। Python छवि में नंबर सहेजें। Python का उपयोग करके नंबरों को छवि के रूप में सहेजें।
+keywords: [Aspose Excel., Python Aspose.Cells., Convert NUMBERS to IMAGE in Python., Save NUMBERS to IMAGE using Python., Python NUMBERS to IMAGE saveformat., NUMBERS to IMAGE Converter., Python Save NUMBERS as IMAGE]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Python में NUMBERS को IMAGE में बदलें" h2="NUMBERS को IMAGE में बदलने के लिए हाई-स्पीड Python लाइब्रेरी। Python में उच्च-स्तरीय, प्लेटफ़ॉर्म स्वतंत्र सॉफ़्टवेयर विकसित करने के लिए हमारे एक्सेल रूपांतरण API का उपयोग करें।" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="IMAGE" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,12 +12,12 @@ keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python NUM
 
 {{% blocks/products/pf/agp/content h2="Python में NUMBERS को IMAGE में बदलें" %}}
 
- मैं NUMBERS को IMAGE में कैसे परिवर्तित करूं? NET लाइब्रेरी के माध्यम से Aspose.Cells for Python के साथ, आप कोड की कुछ पंक्तियों के साथ आसानी से NUMBERS को IMAGE में प्रोग्रामेटिक रूप से परिवर्तित कर सकते हैं।[Aspose.Cells for Python वाया NET](https://pypi.org/project/aspose-cells-python/)सभी एक्सेल फ़ाइलों को उत्पन्न करने, संशोधित करने, परिवर्तित करने, प्रस्तुत करने और प्रिंट करने की क्षमता के साथ क्रॉस-प्लेटफ़ॉर्म एप्लिकेशन बनाने में सक्षम है। Python एक्सेल API न केवल स्प्रेडशीट प्रारूपों के बीच कनवर्ट कर सकता है, यह एक्सेल फाइलों को छवियों, PDF, HTML, ODS, CSV, SVG, JSON, वर्ड, पीपीटी और भी बहुत कुछ के रूप में प्रस्तुत कर सकता है, इस प्रकार यह एक्सचेंज के लिए एक आदर्श विकल्प बन जाता है। उद्योग-मानक में दस्तावेज़ प्रारूप.
+ मैं NUMBERS को IMAGE में कैसे परिवर्तित करूं? NET लाइब्रेरी के माध्यम से Aspose.Cells for Python के साथ, आप कोड की कुछ पंक्तियों के साथ आसानी से NUMBERS को IMAGE में प्रोग्रामेटिक रूप से परिवर्तित कर सकते हैं।[Aspose.Cells for Python वाया NET](https://pypi.org/project/aspose-cells-python/)सभी एक्सेल फ़ाइलों को उत्पन्न करने, संशोधित करने, परिवर्तित करने, प्रस्तुत करने और प्रिंट करने की क्षमता के साथ क्रॉस-प्लेटफ़ॉर्म एप्लिकेशन बनाने में सक्षम है। Python एक्सेल API न केवल स्प्रेडशीट प्रारूपों के बीच परिवर्तित होता है, बल्कि यह एक्सेल फाइलों को छवियों, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT और अधिक के रूप में भी प्रस्तुत कर सकता है, इस प्रकार यह उद्योग-मानक प्रारूपों में दस्तावेजों का आदान-प्रदान करने के लिए एक आदर्श विकल्प बन जाता है।
 
 {{% /blocks/products/pf/agp/content %}}
 
 
-{{% blocks/products/pf/agp/content h2="Python ऑनलाइन निःशुल्क में इमेज में नंबर सेव करें" %}}
+{{% blocks/products/pf/agp/content h2="Python में नंबरों को छवि में सहेजें" %}}
 
 निम्नलिखित उदाहरण दर्शाता है कि Python via NET में NUMBERS को IMAGE में कैसे परिवर्तित किया जाए।
 {{% blocks/products/pf/agp/text %}}
@@ -28,7 +28,7 @@ NUMBERS को IMAGE में बदलने के लिए आसान च
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="संख्याओं को ऑनलाइन छवि में बदलने के लिए निःशुल्क ऐप और नमूना कोड" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="numbers" outformat="png" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="संख्याओं को छवि में बदलने के लिए नमूना कोड" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="numbers" outformat="png" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="NUMBERS को IMAGE में कैसे बदलें" %}}
 
@@ -52,7 +52,7 @@ NUMBERS फ़ाइलों को प्रोग्रामेटिक र
 हम अपने Python पैकेजों को PyPi रिपॉजिटरी में होस्ट करते हैं।
 
 {{% blocks/products/pf/agp/text %}}
-Aspose.Cells for Python से इंस्टॉल करें<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , कमांड का उपयोग इस प्रकार करें:<code>$ pip install aspose-cells-python</code>.
+ Aspose.Cells for Python से इंस्टॉल करें<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , कमांड का उपयोग इस प्रकार करें:<code>$ pip install aspose-cells-python</code>.
 {{% /blocks/products/pf/agp/text %}}
 
 {{% blocks/products/pf/agp/text %}}
@@ -72,7 +72,7 @@ Aspose.Cells for Python से इंस्टॉल करें<a href="https:
 
 <!-- aboutfile Starts -->
     {{< blocks/products/pf/agp/about-file-section >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="NUMBERS" readMoreLink="https://docs.fileformat.com/spreadsheet/numbers/" >}}.numbers एक्सटेंशन वाली फ़ाइलों को स्प्रेडशीट फ़ाइल प्रकार के रूप में वर्गीकृत किया जाता है, इसीलिए वे .xlsx फ़ाइलों के समान होती हैं; लेकिन Numbers फ़ाइलें Apple iWork Numbers स्प्रेडशीट सॉफ़्टवेयर का उपयोग करके बनाई गई हैं। Apple iWork Numbers iWork Productivity Suite का एक यूनिट सॉफ्टवेयर है। iWork उत्पादकता सुइट Microsoft ऑफिस सुइट के बराबर है जिसका उपयोग Windows पीसी पर किया जाता है। इसलिए, हम कह सकते हैं कि Numbers जो MacOS के लिए उपलब्ध है, Microsoft Excel का भी प्रतिस्पर्धी है। इसी तरह, Microsoft एक्सेल, NUMBERS फ़ाइल में तालिकाएँ, चार्ट और सूत्र भी हो सकते हैं।{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="NUMBERS" readMoreLink="https://docs.fileformat.com/spreadsheet/numbers/" >}} .numbers एक्सटेंशन वाली फ़ाइलों को स्प्रेडशीट फ़ाइल प्रकार के रूप में वर्गीकृत किया जाता है, इसीलिए वे .xlsx फ़ाइलों के समान होती हैं; लेकिन Numbers फ़ाइलें Apple iWork Numbers स्प्रेडशीट सॉफ़्टवेयर का उपयोग करके बनाई गई हैं। Apple iWork Numbers iWork Productivity Suite का एक यूनिट सॉफ्टवेयर है। iWork उत्पादकता सुइट Microsoft ऑफिस सुइट के बराबर है जिसका उपयोग Windows पीसी पर किया जाता है। इसलिए, हम कह सकते हैं कि Numbers जो MacOS के लिए उपलब्ध है, Microsoft Excel का भी प्रतिस्पर्धी है। इसी तरह, Microsoft एक्सेल, NUMBERS फ़ाइल में तालिकाएँ, चार्ट और सूत्र भी हो सकते हैं।{{< /blocks/products/pf/agp/i18n/about-file-text >}}
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="IMAGE" readMoreLink="https://docs.fileformat.com/image/png/" >}}PNG (पोर्टेबल नेटवर्क ग्राफ़िक्स) फ़ाइल एक रेखापुंज छवि फ़ाइल स्वरूप है जो दोषरहित संपीड़न का उपयोग करती है। यह फ़ाइल प्रारूप ग्राफ़िक्स इंटरचेंज प्रारूप (GIF) के प्रतिस्थापन के रूप में बनाया गया था और इसकी कोई कॉपीराइट सीमा नहीं है। हालाँकि, PNG फ़ाइल स्वरूप एनिमेशन का समर्थन नहीं करता है। PNG फ़ाइल स्वरूप दोषरहित छवि संपीड़न का समर्थन करता है जो इसे अपने उपयोगकर्ताओं के बीच लोकप्रिय बनाता है। समय बीतने के साथ, PNG व्यापक रूप से उपयोग किए जाने वाले छवि फ़ाइल स्वरूपों में से एक के रूप में विकसित हुआ है।{{< /blocks/products/pf/agp/i18n/about-file-text >}}
     {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->

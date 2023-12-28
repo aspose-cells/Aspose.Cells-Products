@@ -2,6 +2,7 @@
 title:  C++ के माध्यम से एक्सेल में टेक्स्टबॉक्स डालें
 weight: 60
 description: Windows 32 बिट, Windows 64 बिट और लिनक्स 64 बिट के लिए C++ रनटाइम एनवायरनमेंट पर एक्सेल फ़ाइल में टेक्स्टबॉक्स डालने के लिए C++ उदाहरण कोड।
+keywords: [C++ Aspose.Cells., C++ add TextBox., C++ insert TextBox., C++ create TextBox]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="C++ के माध्यम से एक्सेल में टेक्स्टबॉक्स डालें" h2="Microsoft या एडोब PDF जैसे किसी भी सॉफ्टवेयर का उपयोग किए बिना सर्वर-साइड Aspose.Cells for C++ API के मूल और उच्च प्रदर्शन का उपयोग करके ऑब्जेक्ट डालें।" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" sourceAdditionalConversionTag="" additionalConversionTag="" pfName="Aspose.Cells" subTitlepfName="for C++" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="XLSX" >}}
@@ -35,9 +36,9 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% blocks/products/pf/agp/feature-section-col title="C++ के माध्यम से एक्सेल फ़ाइल में टेक्स्टबॉक्स सम्मिलित करने के चरण" %}}
 
-वर्कबुक ऑब्जेक्ट को इंस्टेंट करना। (या->XLSX फ़ाइल को पूर्ण पथ के साथ लोड करें।)
++ वर्कबुक ऑब्जेक्ट को इंस्टेंट करना। (या->XLSX फ़ाइल को पूर्ण पथ के साथ लोड करें।)
 + इसके सूचकांक के माध्यम से वर्कशीट का चयन करें।
- + का प्रयोग करें[विधि जोड़ें](https://reference.aspose.com/cells/cpp/class/aspose.cells.drawing.i_shape_collection#aabfa692515c324008ab417a43fed206c) चयनित वर्कशीट में समीकरण आकृतियाँ सम्मिलित करने के लिए
+ + का प्रयोग करें[विधि जोड़ें](https://reference.aspose.com/cells/cpp/aspose.cells.drawing/shapecollection/addtextbox/) चयनित वर्कशीट में समीकरण आकृतियाँ सम्मिलित करने के लिए
 + कार्यपुस्तिका को XLSX प्रारूप में सहेजें।
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
@@ -62,7 +63,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% blocks/products/pf/agp/code-block title="टेक्स्टबॉक्स डालें - C++" offSpacer="" %}}
 
-{{< gist "aspose-cells-gists" "6f7d9819d85793c3a3b5d040af42e1a9" "InsertTextBoxIntoWorksheet.cpp" >}}
+{{< gist "aspose-cells-gists" "6f7d9819d85793c3a3b5d040af42e1a9" "InsertTextBoxIntoWorksheet-new.cpp" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 
@@ -74,7 +75,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% blocks/products/pf/agp/content h2="लगभग Aspose.Cells for C++ API" %}}
 
- Aspose.Cells API का उपयोग Microsoft एक्सेल प्रारूपों को विभिन्न प्रारूपों में बनाने, संपादित करने, परिवर्तित करने और प्रस्तुत करने के लिए किया जा सकता है। इसके अलावा, इसका उपयोग सॉफ्टवेयर अनुप्रयोगों के भीतर व्यापक चार्टिंग, स्केलेबल रिपोर्टिंग और विश्वसनीय गणना के लिए किया जा सकता है। Aspose.Cells एक स्टैंडअलोन API है और इसके लिए Microsoft या ओपनऑफिस जैसे किसी सॉफ़्टवेयर की आवश्यकता नहीं है।
+Aspose.Cells API का उपयोग Microsoft एक्सेल प्रारूपों को विभिन्न प्रारूपों में बनाने, संपादित करने, परिवर्तित करने और प्रस्तुत करने के लिए किया जा सकता है। इसके अलावा, इसका उपयोग सॉफ्टवेयर अनुप्रयोगों के भीतर व्यापक चार्टिंग, स्केलेबल रिपोर्टिंग और विश्वसनीय गणना के लिए किया जा सकता है। Aspose.Cells एक स्टैंडअलोन API है और इसके लिए Microsoft या ओपनऑफिस जैसे किसी सॉफ़्टवेयर की आवश्यकता नहीं है।
 
 {{% /blocks/products/pf/agp/content %}}
 

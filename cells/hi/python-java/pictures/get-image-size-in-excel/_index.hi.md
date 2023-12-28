@@ -2,6 +2,7 @@
 title: Python via Java का उपयोग करके एक्सेल में छवियाँ/चित्रों का आकार प्राप्त करें
 weight: 10
 description: Aspose.Cells' Python via Java API का उपयोग करके Excel में छवियाँ/चित्रों का आकार बिना किसी सॉफ़्टवेयर जैसे Microsoft या ओपन ऑफ़िस, Adobe PDF इत्यादि के बिना प्राप्त करता है।
+keywords: [Python via Java Aspose.Cells., Python via Java Get Images/Pictures Size In Excel., Python via Java Obtain Images/Pictures Size In Excel., Python via Java Access Images/Pictures Size In Excel]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Python via Java का उपयोग करके एक्सेल में छवियाँ/चित्रों का आकार प्राप्त करें" h2="Microsoft या ओपन ऑफिस, एडोब PDF आदि जैसे किसी सॉफ्टवेयर के बिना विभिन्न वस्तुओं के साथ काम करने के लिए Aspose.Cells\' API का उपयोग करना।" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="" pfName="Aspose.Cells" subTitlepfName="for Python via Java" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="XLSX" >}}
@@ -44,7 +45,7 @@ description: Aspose.Cells' Python via Java API का उपयोग करक�
     + [चौड़ाई](https://reference.aspose.com/cells/python-java/asposecells.api/picture#Width) पिक्सेल की इकाई में, आकार की चौड़ाई का प्रतिनिधित्व करता है।
     + [ऊंचाई](https://reference.aspose.com/cells/python-java/asposecells.api/picture#Height) पिक्सेल की इकाई में, आकार की ऊंचाई का प्रतिनिधित्व करता है।
     + [मूल चौड़ाई](https://reference.aspose.com/cells/python-java/asposecells.api/picture#OriginalWidth) चित्र की मूल चौड़ाई, पिक्सेल की इकाई में प्राप्त होती है।
-    + [मूल ऊँचाई](https://reference.aspose.com/cells/python-java/asposecells.api/picture#OriginalHeight) पिक्सेल की इकाई में, चित्र की मूल ऊंचाई प्राप्त होती है।
+    + [मूल ऊँचाई](https://reference.aspose.com/cells/python-java/asposecells.api/picture#OriginalHeight)पिक्सेल की इकाई में, चित्र की मूल ऊंचाई प्राप्त होती है।
     
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
@@ -53,12 +54,12 @@ description: Aspose.Cells' Python via Java API का उपयोग करक�
 
 {{% blocks/products/pf/agp/text %}}
 
-Aspose.Cells for Python via Java प्लेटफ़ॉर्म-स्वतंत्र API है और इसे किसी भी प्लेटफ़ॉर्म (Windows, लिनक्स और मैकओएस) पर उपयोग किया जा सकता है, बस सुनिश्चित करें कि सिस्टम में Java 1.8 या उच्चतर है,[Python](https://www.python.org/downloads/) 3.5 या उच्चतर.
+ Aspose.Cells for Python via Java प्लेटफ़ॉर्म-स्वतंत्र API है और इसे किसी भी प्लेटफ़ॉर्म (Windows, लिनक्स और मैकओएस) पर उपयोग किया जा सकता है, बस सुनिश्चित करें कि सिस्टम में Java 1.8 या उच्चतर है,[Python](https://www.python.org/downloads/) 3.5 या उच्चतर.
  
 {{% /blocks/products/pf/agp/text %}}
 
-- कोई भी ऑपरेटिंग सिस्टम जो Python via Java स्क्रिप्ट चला सकता है, जैसे Windows, लिनक्स और मैकओएस
--  Java स्थापित करें और इसे PATH पर्यावरण चर में जोड़ें, उदाहरण के लिए:<code>PATH=C:\Program Files\Java\jdk1.8.0_131;</code>.
+-  कोई भी ऑपरेटिंग सिस्टम जो Python via Java स्क्रिप्ट चला सकता है, जैसे Windows, लिनक्स और मैकओएस
+- Java स्थापित करें और इसे PATH पर्यावरण चर में जोड़ें, उदाहरण के लिए:<code>PATH=C:\Program Files\Java\jdk1.8.0_131;</code>.
 -  Aspose.Cells for Python via Java से इंस्टॉल करें<a href="https://pypi.org/project/aspose-cells/">pypi</a> , कमांड का उपयोग इस प्रकार करें:<code>$ pip install aspose-cells</code>.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
@@ -95,7 +96,7 @@ Aspose.Cells API क्रॉस-प्लेटफॉर्म एप्लि�
 
 <!-- aboutfile Ends -->
 <!--
-{{< blocks/products/pf/agp/other-supported-section title="Other Supported Splitting Formats" subTitle="Using C#, One can also split large file into chunks of many other file formats including." >}}
+{{< blocks/products/pf/agp/other-supported-section title="Other Supported Splitting Formats" subTitle="Using Python via Java, One can also split large file into chunks of many other file formats including." >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/splitter/ods/" name="ODS" description="OpenDocument Spreadsheet File" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/splitter/xls/" name="XLS" description="Excel Binary Format" >}}

@@ -1,7 +1,7 @@
 ---
-title: C++ JPEG EXCEL - Online JPEG EXCEL konverter
-description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. Ingyenes online C++ A JPEG konvertálása EXCEL mentési formátumba. C++ JPEG EXCEL formátumba. Mentse a JPEG számot az EXCEL C++ számra.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ JPEG to EXCEL saveformat., Free Online JPEG to EXCEL C++., C++ Convert JPEG to EXCEL]
+title: C++ JPEG EXCEL - JPEG EXCEL konverter
+description: Aspose Excel. A JPEG gyors és egyszerű konvertálása EXCEL-re a Aspose.Cells-es számmal. C++ JPEG EXCEL-re. C++ Mentse el a JPEG számot az EXCEL-be. Mentse el a JPEG-et EXCEL-ként a C++ használatával.
+keywords: [Aspose Excel., C++ Aspose.Cells., Convert JPEG to EXCEL in C++., Save JPEG to EXCEL using C++., C++ JPEG to EXCEL saveformat., JPEG to EXCEL Converter., C++ Save JPEG as EXCEL]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Konvertálja a JPEG-et EXCEL-re a C++-ben" h2="Nagy teljesítményű JPEG konvertálás EXCEL-be a C++ könyvtár használatával anélkül, hogy Microsoft Excel, OpenOffice vagy Adobe Acrobat telepítésre lenne szükség." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" sourceAdditionalConversionTag="" additionalConversionTag="EXCEL" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ JPEG to EXCE
 
 {{% blocks/products/pf/agp/content h2="A JPEG konvertálása EXCEL-re a C++ használatával" %}}
 
- Hogyan konvertálhatom át a JPEG-et EXCEL-re? A Aspose.Cells for C++ könyvtárral könnyedén konvertálhatja a JPEG-et programozottan EXCEL-re néhány sornyi kóddal.[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) képes többplatformos alkalmazásokat létrehozni, módosítani, konvertálni, renderelni és kinyomtatni az összes Excel fájlt. C++ Excel API nem csak a táblázatformátumok között konvertál, hanem Excel fájlokat is képes megjeleníteni képként, PDF, HTML, ODS, CSV, CSV, CSV, CSV, CSV, CSV, SVG, és így tovább, SVG P, 8 PT a választás,3,8 ipari szabvány szerinti dokumentumok cseréjére formátumok. A legújabb verziót közvetlenül letöltheti, csak nyissa meg[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) csomagkezelő, keresse meg a Aspose.Cells.Cpp címet, és telepítse. A következő parancsot is használhatja a Package Manager konzolból.
+ Hogyan konvertálhatom át a JPEG-et EXCEL-re? A Aspose.Cells for C++ könyvtárral könnyedén konvertálhatja a JPEG-et programozottan EXCEL-re néhány sornyi kóddal.[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) képes többplatformos alkalmazásokat létrehozni, módosítani, konvertálni, renderelni és kinyomtatni az összes Excel fájlt. C++ Az Excel API nemcsak a táblázatformátumok között konvertál, hanem Excel-fájlokat is képes megjeleníteni képként, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT és egyebekként, így tökéletes választás a szabványos formátumú dokumentumok cseréjéhez. A legújabb verziót közvetlenül letöltheti, csak nyissa meg[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) csomagkezelő, keresse meg a Aspose.Cells.Cpp címet, és telepítse. A következő parancsot is használhatja a Package Manager konzolból.
 
 {{% blocks/products/pf/agp/code-block title="Parancs" offSpacer="true" %}}
 
@@ -26,7 +26,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Takarítson meg JPEG-et az EXCEL-ben a C++-es online ingyen" %}}
+{{% blocks/products/pf/agp/content h2="Mentse el a JPEG-et az EXCEL-be a C++-ben" %}}
 
 A következő példa bemutatja, hogyan lehet a JPEG-et EXCEL-re konvertálni a C++-ben.
 {{% blocks/products/pf/agp/text %}}
@@ -37,19 +37,19 @@ Kövesse az egyszerű lépéseket a JPEG EXCEL-re konvertálásához. Töltse fe
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Ingyenes alkalmazás és mintakód a JPEG EXCEL Online konvertálásához" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="jpg" outformat="xlsx" IsLandingPage="true" language="cpp" %}}
+{{% cells-convert title="Mintakód a JPEG EXCEL-re konvertálásához" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="jpg" outformat="xlsx" IsLandingPage="true" language="cpp" %}}
 
 {{% blocks/products/pf/agp/content h2="A JPEG konvertálása EXCEL-re a C++-en keresztül" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
-JPEG fájlt programozottan EXCEL-be kell konvertálni? A C++ fejlesztők könnyedén konvertálhatják a JPEG-et EXCEL-re, mindössze néhány sornyi kóddal.
+A JPEG fájlt programozottan EXCEL-be kell konvertálni? A C++ fejlesztők könnyedén konvertálhatják a JPEG-et EXCEL-re, mindössze néhány sornyi kóddal.
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Telepítse a „Aspose.Cells for C++” fájlt.
 1.  Adjon hozzá egy könyvtári hivatkozást (importálja a könyvtárat) a C++ projekthez.
-1.  Töltse be a JPEG fájlt a Factory::CreateIWorkbook segítségével.
+1.  Töltse be a JPEG fájlt a munkafüzet segítségével.
 1.  Konvertálja a JPEG-et EXCEL-re a Save() metódus meghívásával.
 1.  Szerezd meg a JPEG konverziós eredményt EXCEL-re.
 
@@ -101,7 +101,6 @@ Három lehetőség közül választhat a „Aspose.Cells for C++” telepítés�
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/jpeg-to-pdf/" name="JPEG-PDF" description="Hordozható dokumentum formátum" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/jpeg-to-png/" name="JPEG-PNG" description="Hordozható hálózati grafika" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/jpeg-to-svg/" name="JPEG-SVG" description="Skálázható vektorgrafika" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/jpeg-to-tiff/" name="JPEG-TIFF" description="Címkézett képformátum" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/jpeg-to-tsv/" name="JPEG-TSV" description="Tabulátorral elválasztott értékek" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/jpeg-to-txt/" name="JPEG-TXT" description="Szöveges dokumentum" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/jpeg-to-xls/" name="JPEG-XLS" description="Excel bináris formátum" >}}
@@ -112,7 +111,7 @@ Három lehetőség közül választhat a „Aspose.Cells for C++” telepítés�
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/jpeg-to-xltm/" name="JPEG-XLTM" description="Excel-makró-kompatibilis sablon" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/jpeg-to-xltx/" name="JPEG-XLTX" description="Office OpenXML Excel sablon" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/jpeg-to-xml/" name="JPEG XML-RE" description="Bővíthető jelölőnyelv" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/jpeg-to-xps/" name="JPEG-XPS" description="XML papírspecifikációk" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/jpeg-to-xps/" name="JPEG-XPS" description="XML papír specifikációk" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/jpeg-to-json/" name="JPEG-JSON" description="JavaScript objektum jelölés" >}}
 
 

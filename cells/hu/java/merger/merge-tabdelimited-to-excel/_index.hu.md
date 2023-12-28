@@ -1,8 +1,8 @@
 ---
 title: TABDELIMITED egyesítése EXCEL-lel - TABDELIMITED egyesítése EXCEL-lel a Java-ben
 url: /hu/java/merger/merge-tabdelimited-to-excel/ 
-description: Aspose Excel. Java Aspose.Cells. Ingyenes online egyesítés TABDELIMITED EXCEL mentési formátumba. Java TABDELIMITED kombinálása EXCEL formátumba. TABDELIMITED egyesítése EXCEL-lel a Java-ben. TABDELIMITED Egyesítés.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge TABDELIMITED to EXCEL in Java., Free Online Java Merge TABDELIMITED to excel., Java Combine TABDELIMITED to EXCEL Online for Free., TABDELIMITED Merge]
+description: Aspose Excel. Java Aspose.Cells. TABDELIMITED egyesítése EXCEL mentési formátumba. Java TABDELIMITED kombinálása EXCEL formátumba. TABDELIMITED egyesítése EXCEL-lel a Java-ben. TABDELIMITED Egyesítés.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge TABDELIMITED to EXCEL in Java., Java Merge TABDELIMITED to excel., Java Combine TABDELIMITED to EXCEL., TABDELIMITED Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="TABDELIMITED egyesítése az EXCEL via Java számmal" h2="Nagy sebességű Java könyvtár a TABDELIMITED és az EXCEL egyesítéséhez. Használja a API-es excel-konverziónkat magas szintű, platformfüggetlen szoftverek fejlesztéséhez a Java-ben. Ez egy professzionális szoftvermegoldás a Excel, CSV, OpenOffice, PDF, HTML, image és sok más excel formátum importálásához és exportálásához." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="TABDELIMITED" additionalConversionTag="EXCEL" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Merge TABDELIMITED to EXCEL in Jav
 
 {{% blocks/products/pf/agp/content h2="TABDELIMITED egyesítése EXCEL-lel a Java használatával" %}}
 
-Hogyan egyesíthetem a TABDELIMITED-et az EXCEL-lel? A Aspose.Cells for Java könyvtárral egyszerűen egyesítheti a TABDELIMITED-et az EXCEL-lel, néhány soros kóddal programozottan.[Aspose.Cells for Java](https://products.aspose.com/cells/java) képes többplatformos alkalmazásokat létrehozni, módosítani, konvertálni, renderelni és kinyomtatni az összes Excel fájlt. Java Excel API nem csak a táblázatformátumok között konvertál, hanem Excel fájlokat is képes megjeleníteni képként, PDF, HTML, ODS, CSV, CSV, CSV, CSV, CSV, CSV, SVG, és így tovább, SVG P, 8 PT a választás,3,8 ipari szabvány szerinti dokumentumok cseréjére formátumok. A legújabb verziót közvetlenül a webhelyről töltheti le[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) és telepítse a Maven alapú projekten belül a következő konfigurációk hozzáadásával a pom.xml fájlhoz.
+ Hogyan egyesíthetem a TABDELIMITED-et az EXCEL-lel? A Aspose.Cells for Java könyvtárral egyszerűen egyesítheti a TABDELIMITED-et az EXCEL-lel, néhány soros kóddal programozottan.[Aspose.Cells for Java](https://products.aspose.com/cells/java)képes többplatformos alkalmazásokat létrehozni, módosítani, konvertálni, renderelni és kinyomtatni az összes Excel fájlt. Java Az Excel API nemcsak a táblázatformátumok között konvertál, hanem Excel-fájlokat is képes megjeleníteni képként, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT és egyebekként, így tökéletes választás a szabványos formátumú dokumentumok cseréjéhez. A legújabb verziót közvetlenül a webhelyről töltheti le[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) és telepítse a Maven alapú projekten belül a következő konfigurációk hozzáadásával a pom.xml fájlhoz.
 
 {{% blocks/products/pf/agp/code-block title="Adattár" offSpacer="true" %}}
 
@@ -45,7 +45,7 @@ Hogyan egyesíthetem a TABDELIMITED-et az EXCEL-lel? A Aspose.Cells for Java kö
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Ingyenesen egyesítse a TABDELIMITED-et az EXCEL-lel a Java-ben online" %}}
+{{% blocks/products/pf/agp/content h2="A TABDELIMITED egyesítése az EXCEL-lel a Java-ben" %}}
 
 A következő példa bemutatja, hogyan lehet egyesíteni a TABDELIMITED-et az EXCEL-lel a Aspose.Cells for Java-ben.
 {{% blocks/products/pf/agp/text %}}
@@ -56,7 +56,7 @@ Kövesse az egyszerű lépéseket a TABDELIMITED és az EXCEL egyesítéséhez. 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Ingyenes online a TABDELIMITED és az EXCEL egyesítése a Java számon" InputFormat="tsv" InputFormat2="xlsx" outformat="xlsx" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="java" %}}
+{{% cells-merger title="Mintakód a TABDELIMITED EXCEL-be egyesítéséhez a Java-ben" InputFormat="tsv" InputFormat2="xlsx" outformat="xlsx" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="A TABDELIMITED egyesítése az EXCEL via Java-gyel" %}}
 
@@ -107,7 +107,7 @@ API-jaink minden nagyobb platformon és operációs rendszeren támogatottak. Mi
     {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="Egyéb támogatott egyesítő formátumok" subTitle="Java használatával tabulátorral elválasztva is egyesíthető számos más fájlformátumhoz, beleértve." >}}
+{{< blocks/products/pf/agp/other-supported-section title="Egyéb támogatott egyesítő formátumok" subTitle="A Java használatával tabulátorral elválasztva is egyesíthető számos más fájlformátumhoz, beleértve." >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-tabdelimited-to-docx/" name="TABDELIMITED egyesítése a DOCX számmal" description="Microsoft Word dokumentum" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-tabdelimited-to-sql/" name="TABDELIMITED egyesítése SQL-be" description="Strukturált lekérdezési nyelv" >}}
@@ -132,7 +132,7 @@ API-jaink minden nagyobb platformon és operációs rendszeren támogatottak. Mi
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-tabdelimited-to-xltm/" name="TABDELIMITED egyesítése a XLTM számmal" description="Excel-makró-kompatibilis sablon" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-tabdelimited-to-xltx/" name="TABDELIMITED egyesítése a XLTX számmal" description="Office OpenXML Excel sablon" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-tabdelimited-to-xml/" name="TABDELIMITED egyesítése XML-be" description="Bővíthető jelölőnyelv" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-tabdelimited-to-xps/" name="TABDELIMITED egyesítése a XPS számmal" description="XML papírspecifikációk" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-tabdelimited-to-xps/" name="TABDELIMITED egyesítése a XPS számmal" description="XML papír specifikációk" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-tabdelimited-to-json/" name="TABDELIMITED egyesítése a JSON számmal" description="JavaScript objektum jelölés" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-tabdelimited-to-jpeg/" name="TABDELIMITED egyesítése a JPEG számmal" description="JPEG Kép" >}}
 

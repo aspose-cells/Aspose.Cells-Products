@@ -1,7 +1,7 @@
 ---
-title: Python XLSX - XPS - Online XLSX - XPS Átalakító
-description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Ingyenes online Python A XLSX konvertálása XPS mentési formátumra. Python XLSX - XPS formátum. Mentse a XLSX számot a XPS Python számra.
-keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python XLSX to XPS saveformat., Free Online XLSX to XPS Python., Python Convert XLSX to XPS]
+title: Python XLSX - XPS - XLSX - XPS Átalakító
+description: Aspose Excel. A XLSX-es számot XPS-re gyorsan és egyszerűen a Aspose.Cells-es számmal alakíthatja át. Python XLSX-XPS-re. 13481 a Python számon.
+keywords: [Aspose Excel., Python Aspose.Cells., Convert XLSX to XPS in Python., Save XLSX to XPS using Python., Python XLSX to XPS saveformat., XLSX to XPS Converter., Python Save XLSX as XPS]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Konvertálja a XLSX-et XPS-re Python-ben" h2="Nagysebességű Python könyvtár a XLSX XPS-es számok konvertálásához. Ez egy professzionális szoftvermegoldás a XLSX, XPS és sok más formátum importálásához és exportálásához a Python szám használatával." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="XPS" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,11 +12,11 @@ keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python XLS
 
 {{% blocks/products/pf/agp/content h2="A XLSX konvertálása XPS-re a Python használatával" %}}
 
-Hogyan alakíthatom át a XLSX-et XPS-re? A Aspose.Cells for Python könyvtárral egyszerűen konvertálhatja a XLSX-et programozottan XPS-re néhány sor kóddal.[Aspose.Cells for Python](https://pypi.org/project/aspose-cells)képes többplatformos alkalmazásokat létrehozni, módosítani, konvertálni, renderelni és kinyomtatni az összes Excel fájlt. Python Excel API nem csak a táblázatformátumok között konvertál, hanem Excel fájlokat is képes megjeleníteni képként, PDF, HTML, ODS, CSV, CSV, CSV, CSV, CSV, CSV, SVG, és így tovább, SVG P, 8 PT a választás,3,8 ipari szabvány szerinti dokumentumok cseréjére formátumok.
+Hogyan alakíthatom át a XLSX-et XPS-re? A Aspose.Cells for Python könyvtárral egyszerűen konvertálhatja a XLSX-et programozottan XPS-re néhány sor kóddal.[Aspose.Cells for Python](https://pypi.org/project/aspose-cells)képes többplatformos alkalmazásokat létrehozni, módosítani, konvertálni, renderelni és kinyomtatni az összes Excel fájlt. Python Az Excel API nemcsak a táblázatformátumok között konvertál, hanem Excel-fájlokat is képes megjeleníteni képként, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT és egyebekként, így tökéletes választás a szabványos formátumú dokumentumok cseréjéhez.
  
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Takarítson meg XLSX-XPS számot a Python számon online ingyen" %}}
+{{% blocks/products/pf/agp/content h2="Mentse a XLSX-XPS számot a Python-es számon" %}}
 
 A következő példa bemutatja, hogyan lehet a XLSX-et XPS-re konvertálni a Python-ben.
 {{% blocks/products/pf/agp/text %}}
@@ -27,7 +27,7 @@ Kövesse az egyszerű lépéseket a XLSX XPS-re konvertálásához. Töltse fel 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Ingyenes alkalmazás és mintakód a XLSX XPS online konvertálásához" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsx" outformat="xps" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="Mintakód a XLSX XPS-re konvertálásához" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsx" outformat="xps" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="A XLSX konvertálása XPS-re a Python számon keresztül" %}}
 
@@ -63,12 +63,12 @@ Három lehetőség közül választhat a „Aspose.Cells for Python via Java” 
 
 {{% blocks/products/pf/agp/text %}}
 
-Aspose.Cells for Python via Java platformfüggetlen API, és bármilyen platformon használható (Windows, Linux és MacOS), csak győződjön meg arról, hogy a rendszer Java 1.8 vagy újabb[Python](https://www.python.org/downloads/) 3,5 vagy magasabb.
+ Aspose.Cells for Python via Java platformfüggetlen API, és bármilyen platformon használható (Windows, Linux és MacOS), csak győződjön meg arról, hogy a rendszer Java 1.8 vagy újabb[Python](https://www.python.org/downloads/) 3,5 vagy magasabb.
  
 {{% /blocks/products/pf/agp/text %}}
 
 -  Telepítse a Java-et, és adja hozzá a PATH környezeti változóhoz, például:<code>PATH=C:\Program Files\Java\jdk1.8.0_131;</code>.
-- Telepítés: Aspose.Cells for Python innen<a href="https://pypi.org/project/aspose-cells/">pypi</a> , használja a parancsot a következőképpen:<code>$ pip install aspose-cells</code>.
+-  Telepítés: Aspose.Cells for Python innen<a href="https://pypi.org/project/aspose-cells/">pypi</a> , használja a parancsot a következőképpen:<code>$ pip install aspose-cells</code>.
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -102,7 +102,7 @@ Aspose.Cells for Python via Java platformfüggetlen API, és bármilyen platform
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xlsx-to-xltm/" name="XLSX-XLTM" description="Excel-makró-kompatibilis sablon" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xlsx-to-xltx/" name="XLSX-XLTX" description="Office OpenXML Excel sablon" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xlsx-to-xml/" name="XLSX XML-RE" description="Bővíthető jelölőnyelv" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xlsx-to-xps/" name="XLSX-XPS" description="XML papírspecifikációk" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xlsx-to-xps/" name="XLSX-XPS" description="XML papír specifikációk" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xlsx-to-json/" name="XLSX-JSON" description="JavaScript objektum jelölés" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}

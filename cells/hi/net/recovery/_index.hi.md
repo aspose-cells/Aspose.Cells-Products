@@ -1,6 +1,7 @@
 ---
-title: एक्सेल फ़ाइल via .NET को सुधारें
-description: C# का उपयोग करके एक भ्रष्ट एक्सेल फ़ाइल को सुधारें। .NET एप्लिकेशन के भीतर दूषित एक्सेल फ़ाइल को सुधारने के लिए पुनर्प्राप्ति उपकरण।
+title: C# एक्सेल सुधारें - दूषित एक्सेल फ़ाइल को पुनर्प्राप्त करें और ठीक करें
+description: C# Aspose.Cells. एक्सेल मरम्मत करें। एक्सेल फ़ाइल ठीक करें. एक्सेल रिकवरी टूल। एक्सेल भ्रष्टाचार. एक्सेल डेटा पुनर्स्थापित करें. एक्सेल फ़ाइल पुनर्प्राप्ति। दूषित एक्सेल फ़ाइल पुनर्प्राप्त करें.
+keywords: [C# Aspose.Cells., repair excel file., excel repair., recover corrupted excel file., repair corrupted excel., recover excel., fix excel file., excel corruption., restore excel data., excel file recovery., recover corrupted excel file.]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="C# के माध्यम से एक्सेल फ़ाइल पुनर्प्राप्त करें" h2=".NET का उपयोग करके एक्सेल फ़ाइलों को सुधारने के लिए अपना स्वयं का .NET एप्लिकेशन बनाएं।" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="EXCEL" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="XLS" fileiconsmall2="XLSB" fileiconsmall3="XLSX" fileiconsmall4="XLSM" fileiconsmall5="ODS" >}}

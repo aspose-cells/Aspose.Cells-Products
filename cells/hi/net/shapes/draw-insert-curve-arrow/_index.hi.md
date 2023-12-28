@@ -1,7 +1,8 @@
 ---
 title:  एक्सेल via .NET में घुमावदार तीर का आकार कैसे बनाएं या डालें
 weight: 101
-description: .NET फ्रेमवर्क, .NET कोर, Mono या ज़ामरिन प्लेटफ़ॉर्म पर एक्सेल में घुमावदार तीर आकार बनाने या डालने के लिए C# स्रोत कोड।
+description: C# .NET लाइब्रेरी का उपयोग करके एक्सेल में घुमावदार तीर आकार जोड़ने या डालने के लिए नमूना कोड। VB.NET, Asp.NET या किसी .NET आधारित एप्लिकेशन के भीतर एमएस एक्सेल में घुमावदार तीर आकार बनाने के लिए इस कोड का उपयोग करें।
+keywords: [C# Aspose.Cells., c# add curved arrow shape., c# insert curved arrow shape., c# create curved arrow shape]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="एक्सेल via .NET में घुमावदार तीर का आकार डालें" h2="Microsoft या ओपन ऑफिस, एडोब PDF आदि जैसे किसी सॉफ्टवेयर के बिना Aspose.Cells\' API का उपयोग करके घुमावदार तीर का आकार डालें।" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="XLSX" >}}
@@ -41,7 +42,7 @@ PM> Install-Package Aspose.Cells
 
 {{% /blocks/products/pf/agp/text %}}
 
-वर्कबुक ऑब्जेक्ट को इंस्टेंट करना। (या->XLSX फ़ाइल को पूर्ण पथ के साथ लोड करें।)
++ वर्कबुक ऑब्जेक्ट को इंस्टेंट करना। (या->XLSX फ़ाइल को पूर्ण पथ के साथ लोड करें।)
 + इसके सूचकांक के माध्यम से वर्कशीट का चयन करें।
  + का प्रयोग करें[विधि जोड़ें](https://reference.aspose.com/cells/net/aspose.cells.drawing/shapecollection/addautoshape/) चयनित वर्कशीट में घुमावदार तीर का आकार सम्मिलित करने के लिए
 + कार्यपुस्तिका को XLSX प्रारूप में सहेजें।
@@ -77,7 +78,7 @@ PM> Install-Package Aspose.Cells
 
 {{% blocks/products/pf/agp/content h2="लगभग Aspose.Cells for .NET API" %}}
 
- Aspose.Cells API का उपयोग Microsoft एक्सेल प्रारूपों को विभिन्न प्रारूपों में बनाने, संपादित करने, परिवर्तित करने और प्रस्तुत करने के लिए किया जा सकता है। इसके अलावा, इसका उपयोग सॉफ्टवेयर अनुप्रयोगों के भीतर व्यापक चार्टिंग, स्केलेबल रिपोर्टिंग और विश्वसनीय गणना के लिए किया जा सकता है। Aspose.Cells एक स्टैंडअलोन API है और इसके लिए Microsoft या ओपनऑफिस जैसे किसी सॉफ़्टवेयर की आवश्यकता नहीं है।
+Aspose.Cells API का उपयोग Microsoft एक्सेल प्रारूपों को विभिन्न प्रारूपों में बनाने, संपादित करने, परिवर्तित करने और प्रस्तुत करने के लिए किया जा सकता है। इसके अलावा, इसका उपयोग सॉफ्टवेयर अनुप्रयोगों के भीतर व्यापक चार्टिंग, स्केलेबल रिपोर्टिंग और विश्वसनीय गणना के लिए किया जा सकता है। Aspose.Cells एक स्टैंडअलोन API है और इसके लिए Microsoft या ओपनऑफिस जैसे किसी सॉफ़्टवेयर की आवश्यकता नहीं है।
 
 {{% /blocks/products/pf/agp/content %}}
 

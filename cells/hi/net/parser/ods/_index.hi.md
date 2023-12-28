@@ -2,6 +2,7 @@
 title:  ODS दस्तावेज़ via .NET से पाठ और छवियाँ निकालें
 weight: 6970
 description: .NET फ्रेमवर्क, .NET कोर, Mono या ज़ामरिन प्लेटफ़ॉर्म पर ODS फ़ाइल से पाठ और चित्र निकालने के लिए C# स्रोत कोड।
+keywords: [C# Aspose.Cells., c# Extract text and images from ODS file., c# How to Parse ODS File., c# Extract text from ODS file., Extract images from ODS file using C#]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="C# में पार्स ODS प्रारूप" h2="Microsoft या एडोब PDF जैसे किसी भी सॉफ़्टवेयर के उपयोग के बिना, सर्वर-साइड Aspose.Cells for .NET एपीआई का उपयोग करके मूल और उच्च प्रदर्शन ODS दस्तावेज़ पार्सिंग।" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="ODS" >}}

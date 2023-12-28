@@ -1,8 +1,8 @@
 ---
 title: JPEG को ईटीटी में मिलाएं - Java में JPEG को ईटीटी में मिलाएं
 url: /hi/java/merger/merge-jpeg-to-ett/ 
-description: Aspose एक्सेल। Java Aspose.Cells। JPEG को ईटीटी सेवफॉर्मेट में निःशुल्क ऑनलाइन मर्ज करें। Java JPEG को ईटीटी प्रारूप में संयोजित करें। JPEG को Java में ईटीटी में मर्ज करें। JPEG मर्ज करें।
-keywords: [Aspose Excel., Java Aspose.Cells., Merge JPEG to ETT in Java., Free Online Java Merge JPEG to ett., Java Combine JPEG to ETT Online for Free., JPEG Merge]
+description: Aspose एक्सेल। Java Aspose.Cells. JPEG को ईटीटी सेवफॉर्मेट में मर्ज करें। Java JPEG को ईटीटी प्रारूप में संयोजित करें। JPEG को Java में ईटीटी में मर्ज करें। JPEG मर्ज करें।
+keywords: [Aspose Excel., Java Aspose.Cells., Merge JPEG to ETT in Java., Java Merge JPEG to ett., Java Combine JPEG to ETT., JPEG Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="JPEG को ईटीटी via Java में मर्ज करें" h2="JPEG को ईटीटी में विलय के लिए हाई-स्पीड Java लाइब्रेरी। Java में उच्च-स्तरीय, प्लेटफ़ॉर्म स्वतंत्र सॉफ़्टवेयर विकसित करने के लिए हमारे एक्सेल रूपांतरण API का उपयोग करें। यह Excel, CSV, OpenOffice, PDF, HTML, image और कई अन्य एक्सेल प्रारूपों को आयात और निर्यात करने के लिए एक पेशेवर सॉफ़्टवेयर समाधान है।" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="JPEG" additionalConversionTag="ETT" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Merge JPEG to ETT in Java., Free O
 
 {{% blocks/products/pf/agp/content h2="Java का उपयोग करके JPEG को ईटीटी में मर्ज करें" %}}
 
- मैं JPEG को ईटीटी में कैसे मर्ज करूं? Aspose.Cells for Java लाइब्रेरी के साथ, आप कोड की कुछ पंक्तियों के साथ प्रोग्रामेटिक रूप से JPEG को ईटीटी में आसानी से मर्ज कर सकते हैं।[Aspose.Cells for Java](https://products.aspose.com/cells/java) सभी एक्सेल फ़ाइलों को उत्पन्न करने, संशोधित करने, परिवर्तित करने, प्रस्तुत करने और प्रिंट करने की क्षमता के साथ क्रॉस-प्लेटफ़ॉर्म एप्लिकेशन बनाने में सक्षम है। Java एक्सेल API न केवल स्प्रेडशीट प्रारूपों के बीच कनवर्ट कर सकता है, यह एक्सेल फाइलों को छवियों, PDF, HTML, ODS, CSV, SVG, JSON, वर्ड, पीपीटी और भी बहुत कुछ के रूप में प्रस्तुत कर सकता है, इस प्रकार यह एक्सचेंज के लिए एक आदर्श विकल्प बन जाता है। उद्योग-मानक में दस्तावेज़ प्रारूप. आप इसका नवीनतम संस्करण सीधे यहां से डाउनलोड कर सकते हैं[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) और pom.xml में निम्नलिखित कॉन्फ़िगरेशन जोड़कर इसे अपने Maven-आधारित प्रोजेक्ट में स्थापित करें।
+ मैं JPEG को ईटीटी में कैसे मर्ज करूं? Aspose.Cells for Java लाइब्रेरी के साथ, आप कोड की कुछ पंक्तियों के साथ प्रोग्रामेटिक रूप से JPEG को ईटीटी में आसानी से मर्ज कर सकते हैं।[Aspose.Cells for Java](https://products.aspose.com/cells/java)सभी एक्सेल फ़ाइलों को उत्पन्न करने, संशोधित करने, परिवर्तित करने, प्रस्तुत करने और प्रिंट करने की क्षमता के साथ क्रॉस-प्लेटफ़ॉर्म एप्लिकेशन बनाने में सक्षम है। Java एक्सेल API न केवल स्प्रेडशीट प्रारूपों के बीच परिवर्तित होता है, बल्कि यह एक्सेल फाइलों को छवियों, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT और अधिक के रूप में भी प्रस्तुत कर सकता है, इस प्रकार यह उद्योग-मानक प्रारूपों में दस्तावेजों का आदान-प्रदान करने के लिए एक आदर्श विकल्प बन जाता है। आप इसका नवीनतम संस्करण सीधे यहां से डाउनलोड कर सकते हैं[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) और pom.xml में निम्नलिखित कॉन्फ़िगरेशन जोड़कर इसे अपने Maven-आधारित प्रोजेक्ट में स्थापित करें।
 
 {{% blocks/products/pf/agp/code-block title="कोष" offSpacer="true" %}}
 
@@ -45,7 +45,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Merge JPEG to ETT in Java., Free O
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="JPEG को ईटीटी में Java में निःशुल्क ऑनलाइन मर्ज करें" %}}
+{{% blocks/products/pf/agp/content h2="JPEG को Java में ईटीटी में मर्ज करें" %}}
 
 निम्नलिखित उदाहरण दर्शाता है कि JPEG को Aspose.Cells for Java में ईटीटी में कैसे मर्ज किया जाए।
 {{% blocks/products/pf/agp/text %}}
@@ -56,7 +56,7 @@ JPEG को ईटीटी में मर्ज करने के लिए
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="JPEG को ईटीटी में Java में मर्ज करने के लिए निःशुल्क ऑनलाइन" InputFormat="jpg" InputFormat2="ett" outformat="ett" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="java" %}}
+{{% cells-merger title="JPEG को Java में ईटीटी में मर्ज करने के लिए नमूना कोड" InputFormat="jpg" InputFormat2="ett" outformat="ett" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="JPEG को ईटीटी via Java में कैसे मर्ज करें" %}}
 

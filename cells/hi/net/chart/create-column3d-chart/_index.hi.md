@@ -1,6 +1,7 @@
 ---
 title: C# के माध्यम से कॉलम3डी चार्ट बनाएं
 description: C# .NET लाइब्रेरी का उपयोग करके एक्सेल में कॉलम3डी चार्ट बनाने के लिए नमूना कोड। VB.NET, Asp.NET या किसी .NET आधारित एप्लिकेशन के भीतर एमएस एक्सेल में कॉलम3डी चार्ट बनाने के लिए इस कोड का उपयोग करें।
+keywords: [C# Aspose.Cells., c# add Column3D Chart., c# insert Column3D Chart., c# create Column3D Chart]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 

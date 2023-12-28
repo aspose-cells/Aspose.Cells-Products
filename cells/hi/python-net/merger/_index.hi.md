@@ -45,7 +45,7 @@ description: एक्सेल फ़ाइल को Python कोड मे�
 {{% /blocks/products/pf/agp/text %}}
 
 -  स्थापित करना[Python](https://www.python.org/downloads/) 3.7 या उच्चतर.
-- Aspose.Cells for Python से इंस्टॉल करें<a href="https://pypi.org/project/aspose-cells/">pypi</a> , कमांड का उपयोग इस प्रकार करें:<code>$ pip install aspose-cells-python</code>.
+-  Aspose.Cells for Python से इंस्टॉल करें<a href="https://pypi.org/project/aspose-cells/">pypi</a> , कमांड का उपयोग इस प्रकार करें:<code>$ pip install aspose-cells-python</code>.
 
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

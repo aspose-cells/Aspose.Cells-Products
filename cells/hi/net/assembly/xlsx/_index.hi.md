@@ -2,6 +2,7 @@
 title:  XLSX फ़ाइलें via .NET में रिपोर्ट जनरेट करें
 weight: 6740
 description: .NET फ्रेमवर्क, .NET कोर, Mono या ज़ामरिन प्लेटफ़ॉर्म पर XLSX प्रारूप रिपोर्ट तैयार करने के लिए C# स्रोत कोड।
+keywords: [C# Aspose.Cells., c# Create XLSX Reports Based on Predesigned Excel Template., c# Generate XLSX Reports Based on Predesigned Excel Template., c# Create XLSX Reports Based on Excel Template., C# Generate XLSX Reports Based on Excel Template., c# Create xlsx files Based on Excel Template., C# Generate xlsx files Based on Excel Template]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="C# के माध्यम से XLSX प्रारूप में थोक रिपोर्ट तैयार करना" h2="डेटा स्रोत और टेम्पलेट का उपयोग करके XLSX प्रारूप में रिपोर्ट तैयार करें।" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSX" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}

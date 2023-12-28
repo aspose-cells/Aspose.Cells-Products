@@ -2,6 +2,7 @@
 title: Illessze be a blokknyilakat az Excel via Java-be
 weight: 338
 description: Szúrjon be objektumokat a Aspose.Cells' Java API használatával, szoftver nélkül, például Microsoft vagy Open Office, Adobe PDF stb.
+keywords: [Java Aspose.Cells., Java add block arrows., Java insert block arrows., Java create block arrows]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Illessze be a blokknyilakat az Excel via Java-be" h2="Szúrjon be blokknyilakat a Aspose.Cells\' API használatával, szoftverek, például Microsoft vagy Open Office, Adobe PDF stb. nélkül." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSX" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="" fileiconsmall1="PPTX" fileiconsmall2="DOCX" fileiconsmall3="XLSX" fileiconsmall4="PDF" fileiconsmall5=" ODP " >}}
@@ -11,7 +12,7 @@ description: Szúrjon be objektumokat a Aspose.Cells' Java API használatával, 
 
 {{% blocks/products/pf/agp/content h2="Blokknyilak beszúrása Excel-fájlba a Java használatával" %}}
 
- blokknyilak excel fájlba való beillesztéséhez használjuk
+ A blokknyilak excel fájlba való beillesztéséhez használjuk
  [Aspose.Cells for Java](https://products.aspose.com/cells/java) 
  API, amely funkciókban gazdag, erőteljes és könnyen használható API for Java platform. A legújabb verziót közvetlenül a webhelyről töltheti le
  [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) 
@@ -56,7 +57,7 @@ description: Szúrjon be objektumokat a Aspose.Cells' Java API használatával, 
 
 {{% /blocks/products/pf/agp/text %}}
 
-Munkafüzet objektum példányosítása. (vagy->Töltse be a XLSX fájlt a teljes elérési úttal.)
++ Munkafüzet objektum példányosítása. (vagy->Töltse be a XLSX fájlt a teljes elérési úttal.)
 + Válassza ki a munkalapot az indexén keresztül.
  + Használja a[módszer hozzáadása](https://reference.aspose.com/cells/java/com.aspose.cells/shapecollection/#addAutoShape-int-int-int-int-int-int-int-) blokknyilak beszúrásához a kiválasztott munkalapba
 + Mentse a munkafüzetet XLSX formátumban.
@@ -151,7 +152,7 @@ Az alábbi mintakód bemutatja a „jobbra nyíl” beszúrását. További típ
    <div class="col-lg-4">
     <img src="/cells/net/shapes/insert-block-arrows-to-excel/arrow_uturn.png" align="left" width="28" height="28">
     <p class="col-lg-10" style="font-size:0.8rem !important;">
- AutoShapeType.U_TURN_ARROW
+AutoShapeType.U_TURN_ARROW
     </p>
    </div>
    <div class="col-lg-4">
@@ -217,7 +218,7 @@ Az alábbi mintakód bemutatja a „jobbra nyíl” beszúrását. További típ
    <div class="col-lg-4">
     <img src="/cells/net/shapes/insert-block-arrows-to-excel/arrow_right_callout.png" align="left" width="28" height="28">
     <p class="col-lg-10" style="font-size:0.8rem !important;">
-AutoShapeType.RIGHT_ARROW_CALLOUT
+ AutoShapeType.RIGHT_ARROW_CALLOUT
     </p>
    </div>
    <div class="col-lg-4">

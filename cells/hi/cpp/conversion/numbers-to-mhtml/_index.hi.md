@@ -1,7 +1,7 @@
 ---
-title: C++ नंबर से MHTML - ऑनलाइन नंबर से MHTML कनवर्टर
-description: Aspose एक्सेल। C++ Aspose.Cells. C++ Aspose Cells. मुफ़्त ऑनलाइन C++ नंबरों को MHTML सेव फॉर्मेट में कनवर्ट करें। C++ नंबर से MHTML प्रारूप। MHTML C++ पर नंबर सेव करें।
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ NUMBERS to MHTML saveformat., Free Online NUMBERS to MHTML C++., C++ Convert NUMBERS to MHTML]
+title: C++ नंबर से MHTML - नंबर से MHTML कनवर्टर
+description: Aspose एक्सेल। Aspose.Cells के साथ जल्दी और आसानी से NUMBERS को MHTML में बदलें। C++ NUMBERS को MHTML में बदलें। C++ NUMBERS को MHTML में सहेजें। C++ का उपयोग करके NUMBERS को MHTML के रूप में सहेजें।
+keywords: [Aspose Excel., C++ Aspose.Cells., Convert NUMBERS to MHTML in C++., Save NUMBERS to MHTML using C++., C++ NUMBERS to MHTML saveformat., NUMBERS to MHTML Converter., C++ Save NUMBERS as MHTML]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="C++ में NUMBERS को MHTML में बदलें" h2="Microsoft एक्सेल, ओपनऑफिस या एडोब एक्रोबैट इंस्टॉलेशन की आवश्यकता के बिना C++ लाइब्रेरी का उपयोग करके MHTML में उच्च प्रदर्शन संख्या रूपांतरण।" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" sourceAdditionalConversionTag="" additionalConversionTag="MHTML" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ NUMBERS to M
 
 {{% blocks/products/pf/agp/content h2="C++ का उपयोग करके संख्याओं को MHTML में बदलें" %}}
 
- मैं NUMBERS को MHTML में कैसे परिवर्तित करूं? Aspose.Cells for C++ लाइब्रेरी के साथ, आप कोड की कुछ पंक्तियों के साथ आसानी से NUMBERS को MHTML में प्रोग्रामेटिक रूप से परिवर्तित कर सकते हैं।[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) सभी एक्सेल फ़ाइलों को उत्पन्न करने, संशोधित करने, परिवर्तित करने, प्रस्तुत करने और प्रिंट करने की क्षमता के साथ क्रॉस-प्लेटफ़ॉर्म एप्लिकेशन बनाने में सक्षम है। C++ एक्सेल API न केवल स्प्रेडशीट प्रारूपों के बीच कनवर्ट कर सकता है, यह एक्सेल फाइलों को छवियों, PDF, HTML, ODS, CSV, SVG, JSON, वर्ड, पीपीटी और भी बहुत कुछ के रूप में प्रस्तुत कर सकता है, इस प्रकार यह एक्सचेंज के लिए एक आदर्श विकल्प बन जाता है। उद्योग-मानक में दस्तावेज़ प्रारूप. आप इसका नवीनतम संस्करण सीधे डाउनलोड कर सकते हैं, बस खोलें[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) पैकेज मैनेजर, Aspose.Cells.सीपीपी खोजें और इंस्टॉल करें। आप पैकेज मैनेजर कंसोल से निम्न कमांड का भी उपयोग कर सकते हैं।
+ मैं NUMBERS को MHTML में कैसे परिवर्तित करूं? Aspose.Cells for C++ लाइब्रेरी के साथ, आप कोड की कुछ पंक्तियों के साथ आसानी से NUMBERS को MHTML में प्रोग्रामेटिक रूप से परिवर्तित कर सकते हैं।[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) सभी एक्सेल फ़ाइलों को उत्पन्न करने, संशोधित करने, परिवर्तित करने, प्रस्तुत करने और प्रिंट करने की क्षमता के साथ क्रॉस-प्लेटफ़ॉर्म एप्लिकेशन बनाने में सक्षम है। C++ एक्सेल API न केवल स्प्रेडशीट प्रारूपों के बीच परिवर्तित होता है, बल्कि यह एक्सेल फाइलों को छवियों, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT और अधिक के रूप में भी प्रस्तुत कर सकता है, इस प्रकार यह उद्योग-मानक प्रारूपों में दस्तावेजों का आदान-प्रदान करने के लिए एक आदर्श विकल्प बन जाता है। आप इसका नवीनतम संस्करण सीधे डाउनलोड कर सकते हैं, बस खोलें[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) पैकेज मैनेजर, Aspose.Cells.सीपीपी खोजें और इंस्टॉल करें। आप पैकेज मैनेजर कंसोल से निम्न कमांड का भी उपयोग कर सकते हैं।
 
 {{% blocks/products/pf/agp/code-block title="आज्ञा" offSpacer="true" %}}
 
@@ -26,7 +26,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="C++ में MHTML पर निःशुल्क ऑनलाइन नंबर सेव करें" %}}
+{{% blocks/products/pf/agp/content h2="C++ में नंबर को MHTML पर सेव करें" %}}
 
 निम्नलिखित उदाहरण दर्शाता है कि C++ में NUMBERS को MHTML में कैसे परिवर्तित किया जाए।
 {{% blocks/products/pf/agp/text %}}
@@ -37,7 +37,7 @@ NUMBERS को MHTML में बदलने के लिए आसान च
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="संख्याओं को MHTML में ऑनलाइन बदलने के लिए निःशुल्क ऐप और नमूना कोड" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="numbers" outformat="mhtml" IsLandingPage="true" language="cpp" %}}
+{{% cells-convert title="संख्याओं को MHTML में बदलने के लिए नमूना कोड" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="numbers" outformat="mhtml" IsLandingPage="true" language="cpp" %}}
 
 {{% blocks/products/pf/agp/content h2="C++ के माध्यम से संख्याओं को MHTML में कैसे बदलें" %}}
 
@@ -49,7 +49,7 @@ NUMBERS फ़ाइलों को प्रोग्रामेटिक र
 
 1.  'Aspose.Cells for C++' इंस्टॉल करें।
 1.  अपने C++ प्रोजेक्ट में एक लाइब्रेरी संदर्भ जोड़ें (लाइब्रेरी आयात करें)।
-1.  फ़ैक्टरी::CreateIWorkbook का उपयोग करके NUMBERS फ़ाइल लोड करें।
+1.  वर्कबुक का उपयोग करके NUMBERS फ़ाइल लोड करें।
 1.  Save() विधि को कॉल करके NUMBERS को MHTML में बदलें।
 1.  NUMBERS का रूपांतरण परिणाम MHTML पर प्राप्त करें।
 
@@ -84,7 +84,7 @@ NUMBERS फ़ाइलों को प्रोग्रामेटिक र
 
 <!-- aboutfile Starts -->
     {{< blocks/products/pf/agp/about-file-section >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="NUMBERS" readMoreLink="https://docs.fileformat.com/spreadsheet/numbers/" >}}.numbers एक्सटेंशन वाली फ़ाइलों को स्प्रेडशीट फ़ाइल प्रकार के रूप में वर्गीकृत किया जाता है, इसीलिए वे .xlsx फ़ाइलों के समान होती हैं; लेकिन Numbers फ़ाइलें Apple iWork Numbers स्प्रेडशीट सॉफ़्टवेयर का उपयोग करके बनाई गई हैं। Apple iWork Numbers iWork Productivity Suite का एक यूनिट सॉफ्टवेयर है। iWork उत्पादकता सुइट Microsoft ऑफिस सुइट के बराबर है जिसका उपयोग Windows पीसी पर किया जाता है। इसलिए, हम कह सकते हैं कि Numbers जो MacOS के लिए उपलब्ध है, Microsoft Excel का भी प्रतिस्पर्धी है। इसी तरह, Microsoft एक्सेल, NUMBERS फ़ाइल में तालिकाएँ, चार्ट और सूत्र भी हो सकते हैं।{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="NUMBERS" readMoreLink="https://docs.fileformat.com/spreadsheet/numbers/" >}} .numbers एक्सटेंशन वाली फ़ाइलों को स्प्रेडशीट फ़ाइल प्रकार के रूप में वर्गीकृत किया जाता है, इसीलिए वे .xlsx फ़ाइलों के समान होती हैं; लेकिन Numbers फ़ाइलें Apple iWork Numbers स्प्रेडशीट सॉफ़्टवेयर का उपयोग करके बनाई गई हैं। Apple iWork Numbers iWork Productivity Suite का एक यूनिट सॉफ्टवेयर है। iWork उत्पादकता सुइट Microsoft ऑफिस सुइट के बराबर है जिसका उपयोग Windows पीसी पर किया जाता है। इसलिए, हम कह सकते हैं कि Numbers जो MacOS के लिए उपलब्ध है, Microsoft Excel का भी प्रतिस्पर्धी है। इसी तरह, Microsoft एक्सेल, NUMBERS फ़ाइल में तालिकाएँ, चार्ट और सूत्र भी हो सकते हैं।{{< /blocks/products/pf/agp/i18n/about-file-text >}}
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="MHTML" readMoreLink="https://docs.fileformat.com/web/mhtml/" >}}MHTML एक्सटेंशन वाली फ़ाइलें एक वेब पेज संग्रह प्रारूप का प्रतिनिधित्व करती हैं जिसे कई अलग-अलग अनुप्रयोगों द्वारा बनाया जा सकता है। इस प्रारूप को संग्रह प्रारूप के रूप में जाना जाता है क्योंकि यह वेब HTML कोड और संबंधित संसाधनों को एक ही फ़ाइल में सहेजता है। इन संसाधनों में वेबपेज से जुड़ी कुछ भी चीजें शामिल हैं जैसे कि छवियां, एप्लेट्स, एनिमेशन, ऑडियो फ़ाइलें इत्यादि। MHTML फ़ाइलें इंटरनेट एक्सप्लोरर और Microsoft वर्ड जैसे विभिन्न अनुप्रयोगों में खोली जा सकती हैं। Microsoft Windows Windows पर किसी भी एप्लिकेशन के उपयोग के दौरान देखी गई समस्याओं के परिदृश्यों को रिकॉर्ड करने के लिए MHTML फ़ाइल प्रारूप का उपयोग करता है जो समस्याएं पैदा करता है। MHTML फ़ाइल प्रारूप संदेश/आरएफसी822 में परिभाषित विशिष्टताओं के समान पृष्ठ सामग्री को एनकोड करता है जो कि सादा पाठ ईमेल से संबंधित विशिष्टताएं हैं।{{< /blocks/products/pf/agp/i18n/about-file-text >}}
     {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->
@@ -101,7 +101,6 @@ NUMBERS फ़ाइलों को प्रोग्रामेटिक र
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/numbers-to-pdf/" name="नंबर PDF पर" description="संवहन दस्तावेज़ स्वरूप" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/numbers-to-png/" name="नंबर PNG पर" description="पोर्टेबल नेटवर्क ग्राफ़िक्स" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/numbers-to-svg/" name="नंबर SVG पर" description="स्केलेबल वेक्टर ग्राफिक्स" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/numbers-to-tiff/" name="नंबर TIFF पर" description="टैग किया गया छवि प्रारूप" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/numbers-to-tsv/" name="नंबर TSV पर" description="टैब-पृथक मान" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/numbers-to-txt/" name="नंबर TXT पर" description="सामग्री या लेख दस्तावेज़" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/numbers-to-xls/" name="नंबर XLS पर" description="एक्सेल बाइनरी फॉर्मेट" >}}

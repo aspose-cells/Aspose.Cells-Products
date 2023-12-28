@@ -1,8 +1,8 @@
 ---
 title: Az IMAGE egyesítése a TSV-es számmal – az IMAGE egyesítése a TSV-es számmal a C++-ben
 url: /hu/cpp/merger/merge-image-to-tsv/ 
-description: Aspose Excel. C++ Aspose.Cells. Ingyenes online egyesítése IMAGE TSV mentési formátumba. C++ Az IMAGE kombinálása a TSV formátummal. Az IMAGE egyesítése a TSV-es számmal a C++-ben. IMAGE Egyesítés.
-keywords: [Aspose Excel., C++ Aspose.Cells., Merge IMAGE to TSV in C++., Free Online C++ Merge IMAGE to tsv., C++ Combine IMAGE to TSV Online for Free., IMAGE Merge]
+description: Aspose Excel. C++ Aspose.Cells. Az IMAGE egyesítése a TSV mentési formátumba. C++ Az IMAGE kombinálása a TSV formátummal. Az IMAGE egyesítése a TSV-es számmal a C++-ben. IMAGE Egyesítés.
+keywords: [Aspose Excel., C++ Aspose.Cells., Merge IMAGE to TSV in C++., C++ Merge IMAGE to tsv., C++ Combine IMAGE to TSV., IMAGE Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Az IMAGE egyesítése a TSV számmal a C++ számon keresztül" h2="Nagy sebességű C++ könyvtár az IMAGE és a TSV egyesítéséhez. Használja a API-es excel konverziónkat magas szintű, platformfüggetlen szoftver fejlesztésére a C++-ben. Ez egy professzionális szoftvermegoldás a Excel, CSV, OpenOffice, PDF, HTML, image és sok más excel formátum importálásához és exportálásához." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" sourceAdditionalConversionTag="IMAGE" additionalConversionTag="TSV" pfName="Aspose.Cells" subTitlepfName="for C++" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., C++ Aspose.Cells., Merge IMAGE to TSV in C++., Free On
 
 {{% blocks/products/pf/agp/content h2="Az IMAGE egyesítése a TSV-gyel a C++ használatával" %}}
 
- Hogyan egyesíthetem az IMAGE-ot a TSV-gyel? A Aspose.Cells for C++ könyvtárral egyszerűen egyesítheti az IMAGE-ot a TSV-gyel programozottan, néhány sornyi kóddal.[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) képes többplatformos alkalmazásokat létrehozni, módosítani, konvertálni, renderelni és kinyomtatni az összes Excel fájlt. C++ Excel API nem csak a táblázatformátumok között konvertál, hanem Excel fájlokat is képes megjeleníteni képként, PDF, HTML, ODS, CSV, CSV, CSV, CSV, CSV, CSV, SVG, és így tovább, SVG P, 8 PT a választás,3,8 ipari szabvány szerinti dokumentumok cseréjére formátumok. A legújabb verziót közvetlenül letöltheti, csak nyissa meg[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) csomagkezelő, keresse meg a Aspose.Cells.Cpp címet, és telepítse. A következő parancsot is használhatja a Package Manager konzolból.
+ Hogyan egyesíthetem az IMAGE-ot a TSV-gyel? A Aspose.Cells for C++ könyvtárral egyszerűen egyesítheti az IMAGE-ot a TSV-gyel programozottan, néhány sornyi kóddal.[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) képes többplatformos alkalmazásokat létrehozni, módosítani, konvertálni, renderelni és kinyomtatni az összes Excel fájlt. C++ Az Excel API nemcsak a táblázatformátumok között konvertál, hanem Excel-fájlokat is képes megjeleníteni képként, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT és egyebekként, így tökéletes választás a szabványos formátumú dokumentumok cseréjéhez. A legújabb verziót közvetlenül letöltheti, csak nyissa meg[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) csomagkezelő, keresse meg a Aspose.Cells.Cpp címet, és telepítse. A következő parancsot is használhatja a Package Manager konzolból.
 
 {{% blocks/products/pf/agp/code-block title="Parancs" offSpacer="true" %}}
 
@@ -26,7 +26,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Ingyenesen egyesítse az IMAGE-ot a TSV-es számmal a C++-ben online" %}}
+{{% blocks/products/pf/agp/content h2="Az IMAGE egyesítése a TSV-es számmal a C++-ben" %}}
 
 A következő példa bemutatja, hogyan lehet egyesíteni az IMAGE-ot a TSV-gyel a Aspose.Cells-es for C++-ben.
 {{% blocks/products/pf/agp/text %}}
@@ -37,13 +37,13 @@ Kövesse az egyszerű lépéseket az IMAGE és a TSV egyesítéséhez. Töltse f
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Ingyenes online az IMAGE egyesítése a TSV-es számmal a C++-ben" InputFormat="png" InputFormat2="tsv" outformat="tsv" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="cpp" %}}
+{{% cells-merger title="Mintakód az IMAGE és a TSV egyesítéséhez a C++-ben" InputFormat="png" InputFormat2="tsv" outformat="tsv" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="cpp" %}}
 
 {{% blocks/products/pf/agp/content h2="Az IMAGE egyesítése a TSV-gyel a C++-en keresztül" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- Programozottan egyesítenie kell az IMAGE-ot a TSV-gyel? Egy alapdokumentum, amely összeolvad és összefűződik[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) Az API-k néhány sornyi kóddal elkészíthetők.
+Programozottan egyesítenie kell az IMAGE-ot a TSV-gyel? Egy alapdokumentum, amely összeolvad és összefűződik[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) Az API-k néhány sornyi kóddal elkészíthetők.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -107,7 +107,6 @@ API-jaink minden nagyobb platformon és operációs rendszeren támogatottak. Mi
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-image-to-pdf/" name="Az IMAGE egyesítése a PDF számmal" description="Hordozható dokumentum formátum" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-image-to-png/" name="Az IMAGE egyesítése a PNG számmal" description="Hordozható hálózati grafika" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-image-to-svg/" name="Az IMAGE egyesítése a SVG számmal" description="Skálázható vektorgrafika" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-image-to-tiff/" name="Az IMAGE egyesítése a TIFF számmal" description="Címkézett képformátum" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-image-to-tsv/" name="Az IMAGE egyesítése a TSV számmal" description="Tabulátorral elválasztott értékek" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-image-to-txt/" name="Az IMAGE egyesítése a TXT számmal" description="Szöveges dokumentum" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-image-to-xls/" name="Az IMAGE egyesítése a XLS számmal" description="Excel bináris formátum" >}}
@@ -118,7 +117,7 @@ API-jaink minden nagyobb platformon és operációs rendszeren támogatottak. Mi
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-image-to-xltm/" name="Az IMAGE egyesítése a XLTM számmal" description="Excel-makró-kompatibilis sablon" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-image-to-xltx/" name="Az IMAGE egyesítése a XLTX számmal" description="Office OpenXML Excel sablon" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-image-to-xml/" name="Az IMAGE egyesítése XML-be" description="Bővíthető jelölőnyelv" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-image-to-xps/" name="Az IMAGE egyesítése a XPS számmal" description="XML papírspecifikációk" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-image-to-xps/" name="Az IMAGE egyesítése a XPS számmal" description="XML papír specifikációk" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-image-to-json/" name="Az IMAGE egyesítése a JSON számmal" description="JavaScript objektum jelölés" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-image-to-jpeg/" name="Az IMAGE egyesítése a JPEG számmal" description="JPEG Kép" >}}
 

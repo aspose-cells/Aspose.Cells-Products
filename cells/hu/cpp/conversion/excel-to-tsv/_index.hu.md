@@ -1,7 +1,7 @@
 ---
-title: C++ EXCEL - TSV - Online EXCEL - TSV konverter
-description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. Ingyenes online C++ Az EXCEL konvertálása TSV mentési formátumra. C++ EXCEL TSV formátumba. Mentse az EXCEL-t a TSV C++ számra.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ EXCEL to TSV saveformat., Free Online EXCEL to TSV C++., C++ Convert EXCEL to TSV]
+title: C++ EXCEL - TSV - EXCEL - TSV konverter
+description: Aspose Excel. Konvertálja gyorsan és egyszerűen EXCEL-t TSV-re a Aspose.Cells-es számmal. C++ EXCEL TSV-re. C++ Mentse az EXCEL-t TSV-re. Mentse az EXCEL-t TSV-es számra. Mentse az EXCEL-t 38123481-es számmal 07613817-ként.
+keywords: [Aspose Excel., C++ Aspose.Cells., Convert EXCEL to TSV in C++., Save EXCEL to TSV using C++., C++ EXCEL to TSV saveformat., EXCEL to TSV Converter., C++ Save EXCEL as TSV]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="EXCEL konvertálása TSV-re a C++-ben" h2="Nagy teljesítményű EXCEL konvertálás TSV-re a C++ könyvtár használatával anélkül, hogy szükség lenne Microsoft Excel, OpenOffice vagy Adobe Acrobat telepítésére." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" sourceAdditionalConversionTag="" additionalConversionTag="TSV" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ EXCEL to TSV
 
 {{% blocks/products/pf/agp/content h2="Konvertálja az EXCEL-t TSV-re a C++ használatával" %}}
 
- Hogyan konvertálhatom az EXCEL-t TSV-re? A Aspose.Cells for C++ könyvtárral egyszerűen konvertálhatja az EXCEL-t programozottan TSV-re néhány sor kóddal.[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) képes többplatformos alkalmazásokat létrehozni, módosítani, konvertálni, renderelni és kinyomtatni az összes Excel fájlt. C++ Excel API nem csak a táblázatformátumok között konvertál, hanem Excel fájlokat is képes megjeleníteni képként, PDF, HTML, ODS, CSV, CSV, CSV, CSV, CSV, CSV, SVG, és így tovább, SVG P, 8 PT a választás,3,8 ipari szabvány szerinti dokumentumok cseréjére formátumok. A legújabb verziót közvetlenül letöltheti, csak nyissa meg[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) csomagkezelő, keresse meg a Aspose.Cells.Cpp címet, és telepítse. A következő parancsot is használhatja a Package Manager konzolból.
+ Hogyan konvertálhatom az EXCEL-t TSV-re? A Aspose.Cells for C++ könyvtárral egyszerűen konvertálhatja az EXCEL-t programozottan TSV-re néhány sor kóddal.[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) képes többplatformos alkalmazásokat létrehozni, módosítani, konvertálni, renderelni és kinyomtatni az összes Excel fájlt. C++ Az Excel API nemcsak a táblázatformátumok között konvertál, hanem Excel-fájlokat is képes megjeleníteni képként, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT és egyebekként, így tökéletes választás a szabványos formátumú dokumentumok cseréjéhez. A legújabb verziót közvetlenül letöltheti, csak nyissa meg[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) csomagkezelő, keresse meg a Aspose.Cells.Cpp címet, és telepítse. A következő parancsot is használhatja a Package Manager konzolból.
 
 {{% blocks/products/pf/agp/code-block title="Parancs" offSpacer="true" %}}
 
@@ -26,7 +26,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Mentse el az EXCEL-t a TSV-es számra a C++-ben online ingyen" %}}
+{{% blocks/products/pf/agp/content h2="EXCEL mentése a TSV-es számra a C++-ben" %}}
 
 A következő példa bemutatja, hogyan lehet EXCEL-t TSV-re konvertálni a C++-ben.
 {{% blocks/products/pf/agp/text %}}
@@ -37,7 +37,7 @@ Kövesse az egyszerű lépéseket az EXCEL TSV-re konvertálásához. Töltse fe
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Ingyenes alkalmazás és mintakód az EXCEL TSV online konvertálásához" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsx" outformat="tsv" IsLandingPage="true" language="cpp" %}}
+{{% cells-convert title="Mintakód az EXCEL TSV-re konvertálásához" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsx" outformat="tsv" IsLandingPage="true" language="cpp" %}}
 
 {{% blocks/products/pf/agp/content h2="Az EXCEL konvertálása TSV-re a C++-en keresztül" %}}
 
@@ -49,7 +49,7 @@ Programozottan kell konvertálnia az EXCEL fájlokat TSV-re? A C++ fejlesztők n
 
 1.  Telepítse a „Aspose.Cells for C++” fájlt.
 1.  Adjon hozzá egy könyvtári hivatkozást (importálja a könyvtárat) a C++ projekthez.
-1.  Töltse be az EXCEL fájlt a Factory::CreateIWorkbook segítségével.
+1.  Töltse be az EXCEL fájlt a munkafüzet segítségével.
 1.  Konvertálja az EXCEL-t TSV-re a Save() metódus meghívásával.
 1.  Szerezze meg az EXCEL konverziós eredményét a TSV számra.
 
@@ -101,7 +101,6 @@ Három lehetőség közül választhat a „Aspose.Cells for C++” telepítés�
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/excel-to-pdf/" name="EXCEL: PDF" description="Hordozható dokumentum formátum" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/excel-to-png/" name="EXCEL: PNG" description="Hordozható hálózati grafika" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/excel-to-svg/" name="EXCEL: SVG" description="Skálázható vektorgrafika" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/excel-to-tiff/" name="EXCEL: TIFF" description="Címkézett képformátum" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/excel-to-tsv/" name="EXCEL: TSV" description="Tabulátorral elválasztott értékek" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/excel-to-txt/" name="EXCEL: TXT" description="Szöveges dokumentum" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/excel-to-xls/" name="EXCEL: XLS" description="Excel bináris formátum" >}}
@@ -112,7 +111,7 @@ Három lehetőség közül választhat a „Aspose.Cells for C++” telepítés�
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/excel-to-xltm/" name="EXCEL: XLTM" description="Excel-makró-kompatibilis sablon" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/excel-to-xltx/" name="EXCEL: XLTX" description="Office OpenXML Excel sablon" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/excel-to-xml/" name="EXCEL TO XML" description="Bővíthető jelölőnyelv" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/excel-to-xps/" name="EXCEL: XPS" description="XML papírspecifikációk" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/excel-to-xps/" name="EXCEL: XPS" description="XML papír specifikációk" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/excel-to-json/" name="EXCEL: JSON" description="JavaScript objektum jelölés" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/excel-to-jpeg/" name="EXCEL: JPEG" description="JPEG Kép" >}}
 

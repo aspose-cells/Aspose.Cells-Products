@@ -1,7 +1,7 @@
 ---
 title: SQL बनाएँ - Python में SQL फ़ाइल बनाएँ
-description: Aspose एक्सेल। Python SQL फ़ाइल बनाएँ। SQL Python बनाएँ। Python SQL क्रिएटर। Python में SQL बनाएँ। Python का उपयोग करके SQL फ़ाइल बनाएँ।
-keywords: [Aspose Excel., Python Aspose.Cells., Create SQL Python., Python SQL Creater., Create SQL file in Python., Generate SQL file in Python]
+description:  Aspose एक्सेल। Python Aspose.Cells के साथ जल्दी और आसानी से SQL फ़ाइल बनाएँ। Python का उपयोग करके SQL फ़ाइल बनाएँ। Python में SQL बनाएँ। Python SQL क्रिएटर।
+keywords: [Aspose Excel., Python Aspose.Cells., Python Create SQL file., Generate SQL file in Python., Create SQL file using Python., Write data to SQL file via Python., Create a SQL file in Python., Python Generate a SQL file., Python SQL Creater]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Python में SQL फ़ाइल बनाएँ" h2="SQL फ़ाइल बनाने के लिए हाई-स्पीड Python लाइब्रेरी। Python में उच्च-स्तरीय, प्लेटफ़ॉर्म स्वतंत्र सॉफ़्टवेयर विकसित करने के लिए हमारे एक्सेल रूपांतरण API का उपयोग करें।" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="SQL" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -11,7 +11,7 @@ keywords: [Aspose Excel., Python Aspose.Cells., Create SQL Python., Python SQL C
 
 {{% blocks/products/pf/agp/content h2="Python का उपयोग करके SQL फ़ाइल बनाएँ" %}}
 
- SQL फ़ाइल कैसे बनाएं? NET लाइब्रेरी के माध्यम से Aspose.Cells for Python के साथ, आप कोड की कुछ पंक्तियों के साथ आसानी से प्रोग्रामेटिक रूप से SQL फ़ाइल बना सकते हैं।[Aspose.Cells for Python](https://pypi.org/project/aspose-cells-python/)सभी एक्सेल फ़ाइलों को उत्पन्न करने, संशोधित करने, परिवर्तित करने, प्रस्तुत करने और प्रिंट करने की क्षमता के साथ क्रॉस-प्लेटफ़ॉर्म एप्लिकेशन बनाने में सक्षम है। Python एक्सेल API न केवल स्प्रेडशीट प्रारूपों के बीच कनवर्ट कर सकता है, यह एक्सेल फाइलों को छवियों, PDF, HTML, ODS, CSV, SVG, JSON, वर्ड, पीपीटी और भी बहुत कुछ के रूप में प्रस्तुत कर सकता है, इस प्रकार यह एक्सचेंज के लिए एक आदर्श विकल्प बन जाता है। उद्योग-मानक में दस्तावेज़ प्रारूप.
+ SQL फ़ाइल कैसे बनाएं? NET लाइब्रेरी के माध्यम से Aspose.Cells for Python के साथ, आप कोड की कुछ पंक्तियों के साथ आसानी से प्रोग्रामेटिक रूप से SQL फ़ाइल बना सकते हैं।[Aspose.Cells for Python](https://pypi.org/project/aspose-cells-python/)सभी एक्सेल फ़ाइलों को उत्पन्न करने, संशोधित करने, परिवर्तित करने, प्रस्तुत करने और प्रिंट करने की क्षमता के साथ क्रॉस-प्लेटफ़ॉर्म एप्लिकेशन बनाने में सक्षम है। Python एक्सेल API न केवल स्प्रेडशीट प्रारूपों के बीच परिवर्तित होता है, बल्कि यह एक्सेल फाइलों को छवियों, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT और अधिक के रूप में भी प्रस्तुत कर सकता है, इस प्रकार यह उद्योग-मानक प्रारूपों में दस्तावेजों का आदान-प्रदान करने के लिए एक आदर्श विकल्प बन जाता है।
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -21,7 +21,7 @@ keywords: [Aspose Excel., Python Aspose.Cells., Create SQL Python., Python SQL C
 
 {{% blocks/products/pf/agp/text %}}
 
-डेवलपर्स के लिए कोड की कुछ पंक्तियों में डेटा प्रोसेसिंग के लिए विभिन्न रिपोर्टिंग एप्लिकेशन चलाने के भीतर SQL फ़ाइलों को बनाना, लोड करना, संशोधित करना और परिवर्तित करना आसान है।
+ डेवलपर्स के लिए कोड की कुछ पंक्तियों में डेटा प्रोसेसिंग के लिए विभिन्न रिपोर्टिंग एप्लिकेशन चलाने के भीतर SQL फ़ाइलों को बनाना, लोड करना, संशोधित करना और परिवर्तित करना आसान है।
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -62,7 +62,7 @@ workbook.save("output.sql")
 हम अपने Python पैकेजों को PyPi रिपॉजिटरी में होस्ट करते हैं।
 
 {{% blocks/products/pf/agp/text %}}
-Aspose.Cells for Python से इंस्टॉल करें<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , कमांड का उपयोग इस प्रकार करें:<code>$ pip install aspose-cells-python</code>.
+ Aspose.Cells for Python से इंस्टॉल करें<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , कमांड का उपयोग इस प्रकार करें:<code>$ pip install aspose-cells-python</code>.
 {{% /blocks/products/pf/agp/text %}}
 
 {{% blocks/products/pf/agp/text %}}

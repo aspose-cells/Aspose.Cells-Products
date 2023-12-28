@@ -2,6 +2,7 @@
 title:  Keresés a XLSM dokumentumban a via .NET megnyitása nélkül
 weight: 4880
 description: C# forráskód a XLSM fájlban a .NET Framework, a .NET Core, a Mono vagy a Xamarin Platforms mintájú szavak kereséséhez.
+keywords: [C# Aspose.Cells., c# search words with pattern in xlsm file., c# find words with pattern in xlsm file., c# search string with pattern in xlsm file., c# find words with pattern in xlsm file., c# search words in xlsm file., c# find words in xlsm file., c# search string in xlsm file., c# find string in xlsm file]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Keresés: XLSM Formátumok a C#-ben" h2="Natív és nagy teljesítményű XLSM dokumentumkeresés szerveroldali Aspose.Cells for .NET API-kkal, olyan szoftverek használata nélkül, mint a Microsoft vagy az Adobe PDF." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="XLSM" >}}
@@ -13,7 +14,7 @@ description: C# forráskód a XLSM fájlban a .NET Framework, a .NET Core, a Mon
 
  A XLSM fájl kereséséhez használjuk a
  [Aspose.Cells for .NET](https://products.aspose.com/cells/net) 
-API, amely funkciókban gazdag, hatékony és könnyen használható dokumentumkereső API a C# platformhoz. Nyisd ki
+ API, amely funkciókban gazdag, hatékony és könnyen használható dokumentumkereső API a C# platformhoz. Nyisd ki
  [NuGet](https://www.nuget.org/packages/aspose.cells) 
  csomagkezelő, keressen
  **Aspose.Cells** 

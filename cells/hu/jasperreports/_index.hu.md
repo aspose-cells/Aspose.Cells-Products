@@ -12,7 +12,7 @@ description: A Jasper Reports és a JasperServer jelentések exportálása Excel
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
- A Aspose.Cells for JasperReports egy megbízható JasperReports és JasperServer bővítmény, amely Microsoft Excel XLS, XLSX, XLSX, PDF, PDF, ODS és 384 176163481, 178481 és 18s 3804 formátumú jelentések exportálását kínálja. Microsoft Excel. A JasperReports eredeti Microsoft Excel-exportőrének alternatívájaként működik, valamint megszünteti a POI-könyvtártól való függőséget.
+ A Aspose.Cells for JasperReports egy megbízható JasperReports és JasperServer bővítmény, amely Microsoft Excel XLS, XLSX, XLSX, PDF, PDF, ODS és 18s 176163481, 80473748s formátumú, 176163481, 87480481, 87481 formátumban. 76193481 Excel. A JasperReports eredeti Microsoft Excel-exportőrének alternatívájaként működik, valamint megszünteti a POI-könyvtártól való függőséget.
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}

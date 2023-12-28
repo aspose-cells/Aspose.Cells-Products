@@ -269,7 +269,7 @@ Aspose.Cells for Node.js via Java támogatja a legtöbb népszerű táblázatfor
     <em class="fa fa-commenting ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-Létrehozása &amp; megjegyzések manipulálása &amp; hiperhivatkozások
+Létrehozás &amp; megjegyzések manipulálása &amp; hiperhivatkozások
     </p>
    </div>
    <div class="col-lg-4">
@@ -290,7 +290,7 @@ Létrehozása &amp; megjegyzések manipulálása &amp; hiperhivatkozások
     <em class="fa fa-sort-amount-desc ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Létrehozása &amp; manipulálni a megnevezett tartományokat
+ Létrehozás &amp; manipulálni a megnevezett tartományokat
     </p>
    </div>
    <div class="col-lg-4">

@@ -1,7 +1,7 @@
 ---
-title: Python OTS - EXCEL - Online OTS - EXCEL konverter
-description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Ingyenes online Python OTS konvertálása EXCEL mentési formátumba. Python OTS EXCEL formátumba. Mentse az OTS-t az EXCEL Python számra.
-keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python OTS to EXCEL saveformat., Free Online OTS to EXCEL Python., Python Convert OTS to EXCEL]
+title: Python OTS - EXCEL - OTS - EXCEL konverter
+description: Aspose Excel. A Aspose.Cells. Python OTS-t EXCEL-re gyorsan és egyszerűen alakíthatja át. Python Mentse az OTS-t az EXCEL-be. Mentse az OTS-t EXCEL-ként a Python számon.
+keywords: [Aspose Excel., Python Aspose.Cells., Convert OTS to EXCEL in Python., Save OTS to EXCEL using Python., Python OTS to EXCEL saveformat., OTS to EXCEL Converter., Python Save OTS as EXCEL]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Konvertálja az OTS-t EXCEL-re a Python-ben" h2="Nagy sebességű Python könyvtár az OTS EXCEL formátumba konvertálásához. Használja a API-es excel konverziónkat magas szintű, platformfüggetlen szoftver fejlesztéséhez a Python-ben." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="EXCEL" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,12 +12,12 @@ keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python OTS
 
 {{% blocks/products/pf/agp/content h2="Konvertálja az OTS-t EXCEL-re a Python-ben" %}}
 
- Hogyan konvertálhatom az OTS-t EXCEL-re? A Aspose.Cells for Python számmal a NET könyvtáron keresztül könnyedén konvertálhatja az OTS-t EXCEL-re programozottan néhány sornyi kóddal.[Aspose.Cells for Python a NET számon keresztül](https://pypi.org/project/aspose-cells-python/)képes többplatformos alkalmazásokat létrehozni, módosítani, konvertálni, renderelni és kinyomtatni az összes Excel fájlt. Python Excel API nem csak a táblázatformátumok között konvertál, hanem Excel fájlokat is képes megjeleníteni képként, PDF, HTML, ODS, CSV, CSV, CSV, CSV, CSV, CSV, SVG, és így tovább, SVG P, 8 PT a választás,3,8 ipari szabvány szerinti dokumentumok cseréjére formátumok.
+ Hogyan konvertálhatom az OTS-t EXCEL-re? A Aspose.Cells for Python számmal a NET könyvtáron keresztül könnyedén konvertálhatja az OTS-t EXCEL-re programozottan néhány sornyi kóddal.[Aspose.Cells for Python a NET számon keresztül](https://pypi.org/project/aspose-cells-python/)képes többplatformos alkalmazásokat létrehozni, módosítani, konvertálni, renderelni és kinyomtatni az összes Excel fájlt. Python Az Excel API nemcsak a táblázatformátumok között konvertál, hanem Excel-fájlokat is képes megjeleníteni képként, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT és egyebekként, így tökéletes választás a szabványos formátumú dokumentumok cseréjéhez.
 
 {{% /blocks/products/pf/agp/content %}}
 
 
-{{% blocks/products/pf/agp/content h2="Mentse el az OTS-t az EXCEL-be a Python online számon ingyen" %}}
+{{% blocks/products/pf/agp/content h2="Mentse az OTS-t az EXCEL-be a Python számon" %}}
 
 A következő példa bemutatja, hogyan lehet az OTS-t EXCEL-re konvertálni a Python via NET-ben.
 {{% blocks/products/pf/agp/text %}}
@@ -28,7 +28,7 @@ Kövesse az egyszerű lépéseket az OTS EXCEL-re konvertálásához. Töltse fe
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Ingyenes alkalmazás és mintakód az OTS EXCEL Online konvertálásához" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="ots" outformat="xlsx" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Mintakód az OTS EXCEL-re konvertálásához" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="ots" outformat="xlsx" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="Hogyan lehet az OTS-t EXCEL-re konvertálni" %}}
 
@@ -42,7 +42,7 @@ Programozottan kell konvertálnia az OTS fájlokat EXCEL-re? A Python fejlesztő
 1.  Adjon hozzá egy könyvtári hivatkozást (importálja a könyvtárat) a Python projekthez.
 1.  Töltse be az OTS-fájlt a munkafüzet egy példányával.
 1.  Konvertálja az OTS-t EXCEL-re a Workbook.save metódus meghívásával.
-1.  Szerezze meg az OTS EXCEL átalakítási eredményét.
+1. Szerezze meg az OTS EXCEL átalakítási eredményét.
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -52,7 +52,7 @@ Programozottan kell konvertálnia az OTS fájlokat EXCEL-re? A Python fejlesztő
 A Python-es csomagjainkat PyPi-tárolókban tároljuk.
 
 {{% blocks/products/pf/agp/text %}}
-Telepítés: Aspose.Cells for Python innen<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , használja a parancsot a következőképpen:<code>$ pip install aspose-cells-python</code>.
+ Telepítés: Aspose.Cells for Python innen<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , használja a parancsot a következőképpen:<code>$ pip install aspose-cells-python</code>.
 {{% /blocks/products/pf/agp/text %}}
 
 {{% blocks/products/pf/agp/text %}}
@@ -77,7 +77,7 @@ Telepítés: Aspose.Cells for Python innen<a href="https://pypi.org/project/aspo
     {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="Egyéb támogatott konverziók" subTitle="Az OTS-t sok más fájlformátumra is konvertálhatja, köztük néhány alább felsorolt fájlformátumra." >}}
+{{< blocks/products/pf/agp/other-supported-section title="Egyéb támogatott konverziók" subTitle="Az OTS-t sok más fájlformátumra is konvertálhatja, beleértve az alábbiakban felsorolt néhányat." >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/ots-to-bmp/" name="OTS: BMP" description="Bittérképes kép" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/ots-to-emf/" name="OTS: EMF" description="Továbbfejlesztett metafájl formátum" >}}
@@ -100,7 +100,7 @@ Telepítés: Aspose.Cells for Python innen<a href="https://pypi.org/project/aspo
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/ots-to-xltm/" name="OTS: XLTM" description="Excel-makró-kompatibilis sablon" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/ots-to-xltx/" name="OTS: XLTX" description="Office OpenXML Excel sablon" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/ots-to-xml/" name="OTS TO XML" description="Bővíthető jelölőnyelv" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/ots-to-xps/" name="OTS: XPS" description="XML papírspecifikációk" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/ots-to-xps/" name="OTS: XPS" description="XML papír specifikációk" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/ots-to-json/" name="OTS: JSON" description="JavaScript objektum jelölés" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}

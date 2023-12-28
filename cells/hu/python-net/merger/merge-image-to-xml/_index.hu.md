@@ -1,8 +1,8 @@
 ---
 title: IMAGE egyesítése XML-be – IMAGE egyesítése XML-be a Python-ben
 url: /hu/python-net/merger/merge-image-to-xml/ 
-description: Aspose Excel. Python Aspose.Cells. Ingyenes online egyesítése IMAGE XML mentési formátumba. Python Az IMAGE és az XML formátum kombinálása. Az IMAGE egyesítése XML-be a Python-ben. IMAGE Egyesítés.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge IMAGE to XML in Python., Free Online Python Merge IMAGE to xml., Python Combine IMAGE to XML Online for Free., IMAGE Merge]
+description: Aspose Excel. Python Aspose.Cells. Az IMAGE egyesítése XML mentési formátumba. Python Az IMAGE és az XML formátum kombinálása. Az IMAGE egyesítése XML-be a Python-ben. IMAGE Egyesítés.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge IMAGE to XML in Python., Python Merge IMAGE to xml., Python Combine IMAGE to XML., IMAGE Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Egyesítse az IMAGE-ot XML-be a Python számon keresztül" h2="Nagy sebességű Python könyvtár az IMAGE és XML egyesítéséhez. Használja a API-es excel-konverziónkat magas szintű, platformfüggetlen szoftverek fejlesztéséhez a Python-ben. Ez egy professzionális szoftvermegoldás a Excel, CSV, OpenOffice, PDF, HTML, image és sok más excel formátum importálásához és exportálásához." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="IMAGE" additionalConversionTag="XML" pfName="Aspose.Cells" subTitlepfName="for Python" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -12,14 +12,14 @@ keywords: [Aspose Excel., Python Aspose.Cells., Merge IMAGE to XML in Python., F
 
 {{% blocks/products/pf/agp/content h2="Egyesítse az IMAGE-ot XML-be a Python használatával" %}}
 
- Hogyan egyesíthetem az IMAGE-ot XML-be? A Aspose.Cells for Python via .NET könyvtárral egyszerűen egyesítheti az IMAGE-ot XML-lel, néhány sornyi kóddal programozottan.[Aspose.Cells for Python via .NET](https://pypi.org/project/aspose-cells-python)képes többplatformos alkalmazásokat létrehozni, módosítani, konvertálni, renderelni és kinyomtatni az összes Excel fájlt. Python Excel API nem csak a táblázatformátumok között konvertál, hanem Excel fájlokat is képes megjeleníteni képként, PDF, HTML, ODS, CSV, CSV, CSV, CSV, CSV, CSV, SVG, és így tovább, SVG P, 8 PT a választás,3,8 ipari szabvány szerinti dokumentumok cseréjére formátumok. A Aspose.Cells for Python via .NET számot innen telepítheti.<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , használja a parancsot a következőképpen:<code>$ pip install aspose-cells-python</code>.
+ Hogyan egyesíthetem az IMAGE-ot XML-be? A Aspose.Cells for Python via .NET könyvtárral egyszerűen egyesítheti az IMAGE-ot XML-lel, néhány sornyi kóddal programozottan.[Aspose.Cells for Python via .NET](https://pypi.org/project/aspose-cells-python) képes többplatformos alkalmazásokat létrehozni, módosítani, konvertálni, renderelni és kinyomtatni az összes Excel fájlt. Python Az Excel API nemcsak a táblázatformátumok között konvertál, hanem Excel-fájlokat is képes megjeleníteni képként, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT és egyebekként, így tökéletes választás a szabványos formátumú dokumentumok cseréjéhez. Telepítheti a Aspose.Cells for Python via .NET számot innen<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , használja a parancsot a következőképpen:<code>$ pip install aspose-cells-python</code>.
 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Egyesítse az IMAGE fájlt XML-be a Python Online ingyenesen" %}}
+{{% blocks/products/pf/agp/content h2="Egyesítse az IMAGE fájlt XML-be a Python-ben" %}}
 
-A következő példa bemutatja, hogyan egyesítheti az IMAGE fájlt XML-lel a Aspose.Cells for Python via .NET-ben.
+következő példa bemutatja, hogyan egyesítheti az IMAGE fájlt XML-lel a Aspose.Cells for Python via .NET-ben.
 {{% blocks/products/pf/agp/text %}}
 
 Kövesse az egyszerű lépéseket az IMAGE XML-be olvasztásához. Töltse fel fájljait, hívja meg a Workbook.Combine metódust a fájlok egyesítéséhez, majd mentse el XML-fájlba. Ha kódot fejleszt a Python-ben, ez egyszerűbb lesz, mint amilyennek hangzik. Lásd a Python példát, amely az IMAGE-ot XML-lel egyesíti.
@@ -28,7 +28,7 @@ Kövesse az egyszerű lépéseket az IMAGE XML-be olvasztásához. Töltse fel f
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Ingyenes online az IMAGE és az XML egyesítéséhez a Python-ben" InputFormat="png" InputFormat2="xml" outformat="xml" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-merger title="Mintakód az IMAGE XML-be olvasztásához a Python-ben" InputFormat="png" InputFormat2="xml" outformat="xml" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="Az IMAGE egyesítése XML-be a Python számon keresztül" %}}
 
@@ -52,7 +52,7 @@ Kövesse az egyszerű lépéseket az IMAGE XML-be olvasztásához. Töltse fel f
 A Python-es csomagjainkat PyPi-tárolókban tároljuk.
 
 {{% blocks/products/pf/agp/text %}}
-Telepítés: Aspose.Cells for Python innen<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , használja a parancsot a következőképpen:<code>$ pip install aspose-cells-python</code>.
+ Telepítés: Aspose.Cells for Python innen<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , használja a parancsot a következőképpen:<code>$ pip install aspose-cells-python</code>.
 {{% /blocks/products/pf/agp/text %}}
 
 {{% blocks/products/pf/agp/text %}}
@@ -72,7 +72,7 @@ API-jaink minden nagyobb platformon és operációs rendszeren támogatottak. Mi
 {{% /blocks/products/pf/agp/text %}}
 
 -  Telepítés[Python](https://www.python.org/downloads/) 3,7 vagy magasabb.
-- Telepítés: Aspose.Cells for Python innen<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , használja a parancsot a következőképpen:<code>$ pip install aspose-cells-python</code>.
+-  Telepítés: Aspose.Cells for Python innen<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , használja a parancsot a következőképpen:<code>$ pip install aspose-cells-python</code>.
 
 
 {{% /blocks/products/pf/agp/content %}}
@@ -109,7 +109,7 @@ API-jaink minden nagyobb platformon és operációs rendszeren támogatottak. Mi
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-image-to-xltm/" name="Az IMAGE egyesítése a XLTM számmal" description="Excel-makró-kompatibilis sablon" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-image-to-xltx/" name="Az IMAGE egyesítése a XLTX számmal" description="Office OpenXML Excel sablon" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-image-to-xml/" name="Az IMAGE egyesítése XML-be" description="Bővíthető jelölőnyelv" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-image-to-xps/" name="Az IMAGE egyesítése a XPS számmal" description="XML papírspecifikációk" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-image-to-xps/" name="Az IMAGE egyesítése a XPS számmal" description="XML papír specifikációk" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-image-to-json/" name="Az IMAGE egyesítése a JSON számmal" description="JavaScript objektum jelölés" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-image-to-jpeg/" name="Az IMAGE egyesítése a JPEG számmal" description="JPEG Kép" >}}
 

@@ -1,7 +1,8 @@
 ---
-title:  C++ Excel táblázatkezelő programozás API - Aspose
+title: C++ Excel táblázatkezelő programozás API - Aspose
 weight: 7140
-description: C++ Excel könyvtár a XLS, XLSX, XLSM és XLSB formátumú fájlok olvasásához és elemzéséhez. A táblázatok konvertálása PDF, CSV és több formátumra
+description: Aspose.Cells for C++ könyvtár Excel fájlok létrehozásához, javításához, egyesítéséhez, elemzéséhez és konvertálásához. Az Excel konvertálása PDF, JSON, XML, TSV és így tovább.
+keywords: [C++ Aspose.Cells Create repair parse merge convert JSON Excel XML PDF HTML TSV SQL ODS CSV TXT PNG JPEG and more formats]
 ---
 {{< blocks/products/pf/main-wrap-class >}}
 {{< blocks/products/pf/i18n/upper-banner h1="C++ Excel Spreadsheets API-k" h2="Táblázatok létrehozása, olvasása, írása és elemzése Microsoft Excel-függőségek nélkül a teljes funkcionalitású C++ alkalmazásokban." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/headers/aspose_cells-for-cpp.svg" pfName="Aspose.Cells" subTitlepfName="for C++" downloadUrl="https://downloads.aspose.com/cells/cpp" >}}
@@ -40,13 +41,13 @@ description: C++ Excel könyvtár a XLS, XLSX, XLSM és XLSB formátumú fájlok
  Pivot tábla
     </li>
     <li>
- Táblázatok
+Táblázatok
     </li>
     <li>
  Diagramok
     </li>
     <li>
-Képletek számítása
+ Képletek számítása
     </li>
     <li>
  Adatok érvényesítése
@@ -227,7 +228,7 @@ Képletek számítása
      <b>
  Képek:
      </b>
-     JPEG, PNG, BMP, TIFF, GIF, EMF, SVG
+     JPEG, PNG, BMP, GIF, EMF, SVG
     </li>
    </ul>
   </div>
@@ -274,21 +275,21 @@ Képletek számítása
     <em class="fa fa-save ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Betöltés &amp; mentse az Excel fájlokat adatfolyamok segítségével
+Betöltés &amp; mentse az Excel fájlokat adatfolyamok segítségével
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-bar-chart ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Létrehozása &amp; diagramokat manipulálni
+ Létrehozás &amp; diagramokat manipulálni
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-check-square-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-Állítsa be az adatellenőrzést a bevitel korlátozásához
+ Állítsa be az adatellenőrzést a bevitel korlátozásához
     </p>
    </div>
    <div class="col-lg-4">
@@ -316,7 +317,7 @@ Képletek számítása
     <em class="fa fa-list-alt ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Létrehozása &amp; manipulálni a kimutatástáblákat
+ Létrehozás &amp; manipulálni a kimutatástáblákat
     </p>
    </div>
    <div class="col-lg-4">
@@ -409,23 +410,23 @@ Képletek számítása
  Egyszerű &amp; Excel formátumok megbízható konvertálása
     </h2>
     <p>
- Aspose.Cells A for C++ olyan hatékony API-készlet, amely lehetővé teszi Excel-fájlformátumok betöltését, szerkesztését, írását és egymás közötti konvertálását anélkül, hogy aggódnia kellene a formátum-specifikus részletek miatt. A API lehetővé teszi a táblázatok bármely támogatott formátumból bármely más támogatott formátumba konvertálását mindössze két sornyi kóddal. Ennyire egyszerű!
+ Aspose.Cells A for C++ olyan hatékony API-készlet, amely lehetővé teszi az Excel fájlformátumok betöltését, szerkesztését, írását és egymás közötti konvertálását anélkül, hogy a formátum-specifikus részletek miatt kellene aggódnia. A API lehetővé teszi a táblázatok bármely támogatott formátumból bármely más támogatott formátumba konvertálását mindössze két sornyi kóddal. Ennyire egyszerű!
     </p>
     <div class="codeblock" id="code">
      <h3>
  Excel-fájlok konvertálása több formátumba - C++
      </h3>
-     <pre><code class="cpp">// load the document for conversion
+     <pre><code class="cpp">	// load the document for conversion
 
-intrusive_ptr&lt;IWorkbook&gt; book = Factory::CreateIWorkbook(dir-&gt;StringAppend(new String("template.xls")));
+	Workbook book(u"template.xls");
 
-// save in different formats
+	// save in different formats
 
-book-&gt;Save(dir-&gt;StringAppend(new String("output.xlsx")), SaveFormat_Xlsx);
+	book.Save(u"output.xlsx", SaveFormat::Xlsx);
 
-book-&gt;Save(dir-&gt;StringAppend(new String("output.xlsb")), SaveFormat_Xlsb);
+	book.Save(u"output.xlsb", SaveFormat::Xlsb);
 
-book-&gt;Save(dir-&gt;StringAppend(new String("output.csv")), SaveFormat_CSV);</code></pre>
+	book.Save(u"output.csv", SaveFormat::CSV);</code></pre>
     </div>
    </div>
    <div class="col-lg-12">
@@ -449,7 +450,7 @@ Aspose.Cells A for C++ fejlett formázási funkciókkal teljes körűen szabály
  Munkalapok megjelenítése képként
     </h2>
     <p>
- könyvtár a legnagyobb pontossággal jeleníti meg a Microsoft Excelt a saját renderelő motorjával. Különleges funkciókat kínál, mint például a munkalapok megjelenítése a népszerű formátumú képekké, beleértve a BMP, TIFF, PNG, JPEG és JPEG és amp; EMF. A Sheet2Image folyamat rugalmas, így lehetővé teszi olyan opciók kiválasztását, mint például az eredményül kapott kép felbontásának szabályozása.
+ könyvtár a legnagyobb pontossággal jeleníti meg a Microsoft Excelt a saját renderelő motorjával. Különleges funkciókat kínál, mint például a munkalapok megjelenítése a képeken népszerű formátumokban, beleértve a BMP, PNG, JPEG és JPEG és amp; EMF. A Sheet2Image folyamat rugalmas, így lehetővé teszi olyan opciók kiválasztását, mint például az eredményül kapott kép felbontásának szabályozása.
     </p>
    </div>
    <div class="col-lg-12">

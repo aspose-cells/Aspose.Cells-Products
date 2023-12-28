@@ -1,8 +1,8 @@
 ---
 title: JPG egyesítése SPREADSHEETML-be – JPG egyesítése SPREADSHEETML-be a Java-ben
 url: /hu/java/merger/merge-jpg-to-spreadsheetml/ 
-description: Aspose Excel. Java Aspose.Cells. Ingyenes online egyesítése JPG SPREADSHEETML mentési formátumba. Java JPG kombinálása SPREADSHEETML formátumba. JPG egyesítése SPREADSHEETML-be a Java-ben. JPG egyesítés.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge JPG to SPREADSHEETML in Java., Free Online Java Merge JPG to spreadsheetml., Java Combine JPG to SPREADSHEETML Online for Free., JPG Merge]
+description: Aspose Excel. Java Aspose.Cells. JPG egyesítése SPREADSHEETML mentési formátumba. Java JPG kombinálása SPREADSHEETML formátumba. JPG egyesítése SPREADSHEETML-be a Java-ben. JPG egyesítés.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge JPG to SPREADSHEETML in Java., Java Merge JPG to spreadsheetml., Java Combine JPG to SPREADSHEETML., JPG Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="A JPG egyesítése a SPREADSHEETML via Java fájlba" h2="Nagy sebességű Java könyvtár a JPG és a SPREADSHEETML egyesítéséhez. Használja a API-es excel-konverziónkat magas szintű, platformfüggetlen szoftverek fejlesztéséhez a Java-ben. Ez egy professzionális szoftvermegoldás a Excel, CSV, OpenOffice, PDF, HTML, image és sok más excel formátum importálásához és exportálásához." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="JPG" additionalConversionTag="SPREADSHEETML" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Merge JPG to SPREADSHEETML in Java
 
 {{% blocks/products/pf/agp/content h2="JPG egyesítése SPREADSHEETML-be a Java használatával" %}}
 
- Hogyan egyesíthetem a JPG-t SPREADSHEETML-be? A Aspose.Cells for Java könyvtárral egyszerűen egyesítheti a JPG-t a SPREADSHEETML-be programozottan néhány sornyi kóddal.[Aspose.Cells for Java](https://products.aspose.com/cells/java) képes többplatformos alkalmazásokat létrehozni, módosítani, konvertálni, renderelni és kinyomtatni az összes Excel fájlt. Java Excel API nem csak a táblázatformátumok között konvertál, hanem Excel fájlokat is képes megjeleníteni képként, PDF, HTML, ODS, CSV, CSV, CSV, CSV, CSV, CSV, SVG, és így tovább, SVG P, 8 PT a választás,3,8 ipari szabvány szerinti dokumentumok cseréjére formátumok. A legújabb verziót közvetlenül a webhelyről töltheti le[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) és telepítse a Maven alapú projekten belül a következő konfigurációk hozzáadásával a pom.xml fájlhoz.
+ Hogyan egyesíthetem a JPG-t SPREADSHEETML-be? A Aspose.Cells for Java könyvtárral egyszerűen egyesítheti a JPG-t a SPREADSHEETML-be programozottan néhány sornyi kóddal.[Aspose.Cells for Java](https://products.aspose.com/cells/java)képes többplatformos alkalmazásokat létrehozni, módosítani, konvertálni, renderelni és kinyomtatni az összes Excel fájlt. Java Az Excel API nemcsak a táblázatformátumok között konvertál, hanem Excel-fájlokat is képes megjeleníteni képként, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT és egyebekként, így tökéletes választás a szabványos formátumú dokumentumok cseréjéhez. A legújabb verziót közvetlenül a webhelyről töltheti le[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) és telepítse a Maven alapú projekten belül a következő konfigurációk hozzáadásával a pom.xml fájlhoz.
 
 {{% blocks/products/pf/agp/code-block title="Adattár" offSpacer="true" %}}
 
@@ -45,9 +45,9 @@ keywords: [Aspose Excel., Java Aspose.Cells., Merge JPG to SPREADSHEETML in Java
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Ingyenesen egyesítse a JPG-t SPREADSHEETML-be a Java-es számon" %}}
+{{% blocks/products/pf/agp/content h2="Egyesítse a JPG-t SPREADSHEETML-be a Java-ben" %}}
 
-következő példa bemutatja, hogyan egyesítheti a JPG-t a SPREADSHEETML-be a Aspose.Cells for Java-ben.
+A következő példa bemutatja, hogyan egyesítheti a JPG-t a SPREADSHEETML-be a Aspose.Cells for Java-ben.
 {{% blocks/products/pf/agp/text %}}
 
 Kövesse az egyszerű lépéseket a JPG és a SPREADSHEETML egyesítéséhez. Töltse fel fájljait, hívja meg a Workbook.Combine metódust a fájlok egyesítéséhez, majd mentse el SPREADSHEETML fájlba. Ha kódot fejleszt a Java-ben, ez egyszerűbb lesz, mint amilyennek hangzik. Lásd a Java példát, amely a JPG-t SPREADSHEETML-lel egyesíti.
@@ -56,7 +56,7 @@ Kövesse az egyszerű lépéseket a JPG és a SPREADSHEETML egyesítéséhez. T�
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Ingyenes online a JPG és a SPREADSHEETML egyesítése a Java számon" InputFormat="jpg" InputFormat2="xml" outformat="xml" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="java" %}}
+{{% cells-merger title="Mintakód a JPG és a SPREADSHEETML egyesítéséhez a Java-ben" InputFormat="jpg" InputFormat2="xml" outformat="xml" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="JPG egyesítése SPREADSHEETML via Java-be" %}}
 
@@ -132,7 +132,7 @@ API-jaink minden nagyobb platformon és operációs rendszeren támogatottak. Mi
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-jpg-to-xltm/" name="JPG egyesítése a XLTM-gyel" description="Excel-makró-kompatibilis sablon" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-jpg-to-xltx/" name="JPG egyesítése a XLTX-gyel" description="Office OpenXML Excel sablon" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-jpg-to-xml/" name="JPG egyesítése XML-be" description="Bővíthető jelölőnyelv" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-jpg-to-xps/" name="JPG egyesítése a XPS-gyel" description="XML papírspecifikációk" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-jpg-to-xps/" name="JPG egyesítése a XPS-gyel" description="XML papír specifikációk" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-jpg-to-json/" name="JPG egyesítése a JSON-gyel" description="JavaScript objektum jelölés" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-jpg-to-jpeg/" name="JPG egyesítése a JPEG-gyel" description="JPEG Kép" >}}
 

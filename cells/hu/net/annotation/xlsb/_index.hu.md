@@ -1,7 +1,8 @@
 ---
-title:  Távolítsa el a XLSB A via .NET megjegyzést
+title:  XLSB Megjegyzés hozzáadása vagy eltávolítása via .NET
 weight: 6440
 description: C# forráskód a XLSB formátumú megjegyzések hozzáadásához és törléséhez a .NET Framework, .NET Core, Mono vagy Xamarin platformokon.
+keywords: [C# Aspose.Cells., add xlsb annotation., insert xlsb annotation., access xlsb annotation., remove xlsb annotation., delete xlsb annotation., add annotation in xlsb., insert annotation in xlsb., access annotation in xlsb., remove annotation in xlsb., delete annotation in xlsb]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Megjegyzés hozzáadása vagy törlése a XLSB-es számról a C#-en keresztül" h2="Készítse el saját .NET-es alkalmazásait a dokumentumfájlok megjegyzéseinek és szerzőinek manipulálásához szerveroldali API-k segítségével." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSB" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="PPTX" fileiconsmall2="DOCX" fileiconsmall3="XLSX" fileiconsmall4="PDF" fileiconsmall5=" ODP " >}}

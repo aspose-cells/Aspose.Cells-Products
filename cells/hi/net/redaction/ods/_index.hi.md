@@ -2,6 +2,7 @@
 title:  ODS दस्तावेज़ via .NET में टेक्स्ट खोजें और बदलें
 weight: 6100
 description: .NET फ्रेमवर्क, .NET कोर, Mono या ज़ामरिन प्लेटफ़ॉर्म पर ODS फ़ाइल में संवेदनशील जानकारी को संशोधित करने के लिए C# स्रोत कोड।
+keywords: [C# Aspose.Cells., c# Search and replace text in ODS file., c# redact ODS file., c# edit ODS file., c# ODS file redaction., c# Search and replace string in ODS file]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="C# में ODS प्रारूप को संशोधित करें" h2="मूल और उच्च प्रदर्शन ODS, Microsoft या एडोब PDF जैसे किसी भी सॉफ्टवेयर के उपयोग के बिना, सर्वर-साइड Aspose.Cells for .NET एपीआई का उपयोग करके संवेदनशील संपादन जानकारी को दस्तावेज़ित करता है।" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="ODS" >}}
@@ -48,7 +49,7 @@ PM> Install-Package Aspose.Cells
 + FindOptions ऑब्जेक्ट बनाएं।
 + खोज विकल्प सेट करें
 + प्रत्येक सेल के माध्यम से लूप करें और फाइंड विधि का उपयोग करें।
-कार्यपुस्तिका सहेजें.
++ कार्यपुस्तिका सहेजें.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -121,7 +122,7 @@ wb.Save("e:\test2\output.ods");
             {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Aspose API डाउनलोड करने की आवश्यकता नहीं है।" >}}
             {{< blocks/products/pf/agp/democard icon="fa-edit" text=" कोई कोड लिखने की जरूरत नहीं." >}}
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" बस अपनी ODS फ़ाइलें अपलोड करें।" >}}
-            {{< blocks/products/pf/agp/democard icon="fa-download" text=" इसे तुरंत संशोधित कर दिया जाएगा." >}}
+            {{< blocks/products/pf/agp/democard icon="fa-download" text="इसे तुरंत संशोधित कर दिया जाएगा." >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="ODS" readMoreLink="https://docs.fileformat.com/spreadsheet/ods/" >}}
 ODS एक्सटेंशन वाली फ़ाइलें ओपन डॉक्यूमेंट स्प्रेडशीट दस्तावेज़ प्रारूप के लिए हैं जो उपयोगकर्ता द्वारा संपादन योग्य हैं। डेटा को ODF फ़ाइल के अंदर पंक्तियों और स्तंभों में संग्रहीत किया जाता है। यह XML-आधारित प्रारूप है और ओपन दस्तावेज़ प्रारूप (ODF) परिवार में कई उपप्रकारों में से एक है। प्रारूप OASIS द्वारा प्रकाशित और अनुरक्षित ODF 1.2 विनिर्देशों के भाग के रूप में निर्दिष्ट है। Windows के साथ-साथ अन्य ऑपरेटिंग सिस्टम पर कई एप्लिकेशन संपादन और हेरफेर के लिए Microsoft एक्सेल, नियोऑफिस और लिबरऑफिस सहित ODS फाइलें खोल सकते हैं। ODS फ़ाइलों को विभिन्न अनुप्रयोगों द्वारा अन्य स्प्रेडशीट प्रारूपों जैसे XLS, XLSX और अन्य में भी परिवर्तित किया जा सकता है।
@@ -132,7 +133,7 @@ ODS एक्सटेंशन वाली फ़ाइलें ओपन ड
 
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="अन्य समर्थित रिडक्शन प्रारूप" subTitle="C# का उपयोग करके, कोई भी आसानी से विभिन्न प्रारूपों को संपादित कर सकता है।" >}}
+{{< blocks/products/pf/agp/other-supported-section title="अन्य समर्थित रिडक्शन प्रारूप" subTitle="C# का उपयोग करके, कोई भी आसानी से विभिन्न प्रारूपों को संशोधित कर सकता है।" >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/redaction/xls/" name="XLS" description="एक्सेल बाइनरी फॉर्मेट" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/redaction/xlsb/" name="XLSB" description="बाइनरी एक्सेल वर्कबुक फ़ाइल" >}}

@@ -2,6 +2,7 @@
 title:  ODS फ़ाइलें मेटाडेटा via .NET देखें या संपादित करें
 weight: 320
 description: .NET फ्रेमवर्क, .NET कोर, Mono या ज़ामरिन प्लेटफ़ॉर्म पर ODS प्रारूप मेटाडेटा को संपादित करने या देखने के लिए C# स्रोत कोड।
+keywords: [C# Aspose.Cells., c# view ods metadata., c# add ods metadata., c# insert ods metadata., c# edit ods metadata., c# remove ods metadata., c# extract ods metadata., c# modify ods metadata]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="ODS मेटाडेटा via .NET निकालें" h2="सर्वर-साइड एपीआई का उपयोग करके ODS फ़ाइलों से मेटाडेटा जोड़ने, संपादित करने, हटाने या निकालने के लिए अपने स्वयं के .NET ऐप्स बनाएं।" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="ODS" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="PPTX" fileiconsmall2="DOCX" fileiconsmall3="XLSX" fileiconsmall4="PDF" fileiconsmall5=" ODP " >}}

@@ -1,7 +1,7 @@
 ---
 title: EXCEL létrehozása – EXCEL-fájl létrehozása a Java-ben
-description: Aspose Excel. Java EXCEL-fájl létrehozása. EXCEL létrehozása Java. Java EXCEL-készítő. Hozzon létre EXCEL-t a Java-ben. Hozzon létre EXCEL-fájlt a Java használatával.
-keywords: [Aspose Excel., Java Aspose.Cells., Create EXCEL Java., Java EXCEL Creater., Create EXCEL file in Java., Generate EXCEL file in Java]
+description: Aspose Excel. Java Hozzon létre EXCEL-fájlt gyorsan és egyszerűen a Aspose.Cells-gyel. EXCEL-fájl létrehozása a Java-es szám használatával. Hozzon létre EXCEL-t a Java-ben. Java EXCEL-készítő.
+keywords: [Aspose Excel., Java Aspose.Cells., Java Create EXCEL file., Generate EXCEL file in Java., Create EXCEL file using Java., Write data to EXCEL file via Java., Create a EXCEL file in Java., Java Generate a EXCEL file., Java EXCEL Creater]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Hozzon létre EXCEL-fájlt a Java-ben" h2="Nagy sebességű Java könyvtár EXCEL fájl létrehozásához. Ez egy professzionális szoftvermegoldás a XLSX, PDF és sok más formátum importálásához és exportálásához a Java használatával." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="EXCEL" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -11,7 +11,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Create EXCEL Java., Java EXCEL Cre
 
 {{% blocks/products/pf/agp/content h2="Hozzon létre EXCEL-fájlt a Java használatával" %}}
 
- Hogyan készítsünk EXCEL fájlt? A Aspose.Cells for Java könyvtárral könnyedén létrehozhat EXCEL-fájlt programozottan néhány sornyi kóddal.[Aspose.Cells for Java](https://products.aspose.com/cells/java) képes többplatformos alkalmazásokat létrehozni, módosítani, konvertálni, renderelni és kinyomtatni az összes Excel fájlt. Java Excel API nem csak a táblázatformátumok között konvertál, hanem Excel fájlokat is képes megjeleníteni képként, PDF, HTML, ODS, CSV, CSV, CSV, CSV, CSV, CSV, SVG, és így tovább, SVG P, 8 PT a választás,3,8 ipari szabvány szerinti dokumentumok cseréjére formátumok. A legújabb verziót közvetlenül a webhelyről töltheti le[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) és telepítse a Maven alapú projekten belül a következő konfigurációk hozzáadásával a pom.xml fájlhoz.
+ Hogyan készítsünk EXCEL fájlt? A Aspose.Cells for Java könyvtárral könnyedén létrehozhat EXCEL-fájlt programozottan néhány sornyi kóddal.[Aspose.Cells for Java](https://products.aspose.com/cells/java)képes többplatformos alkalmazásokat létrehozni, módosítani, konvertálni, renderelni és kinyomtatni az összes Excel fájlt. Java Az Excel API nemcsak a táblázatformátumok között konvertál, hanem Excel-fájlokat is képes megjeleníteni képként, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT és egyebekként, így tökéletes választás a szabványos formátumú dokumentumok cseréjéhez. A legújabb verziót közvetlenül a webhelyről töltheti le[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) és telepítse a Maven alapú projekten belül a következő konfigurációk hozzáadásával a pom.xml fájlhoz.
 
 {{% blocks/products/pf/agp/code-block title="Adattár" offSpacer="true" %}}
 
@@ -50,7 +50,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Create EXCEL Java., Java EXCEL Cre
 
 {{% blocks/products/pf/agp/text %}}
 
- fejlesztők egyszerűen hozhatnak létre, tölthetnek be, módosíthatnak és konvertálhatnak EXCEL fájlokat a különböző adatfeldolgozási alkalmazásokon belül, mindössze néhány sornyi kóddal.
+ A fejlesztők egyszerűen hozhatnak létre, tölthetnek be, módosíthatnak és konvertálhatnak EXCEL fájlokat a különböző adatfeldolgozási alkalmazásokon belül, mindössze néhány sornyi kóddal.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -101,7 +101,7 @@ wkb.save("Excel.xlsx");
 
 {{% blocks/products/pf/agp/text %}}
 
- Java konverziós mintaforráskód futtatása előtt győződjön meg arról, hogy rendelkezik a következő előfeltételekkel.
+ A Java konverziós mintaforráskód futtatása előtt győződjön meg arról, hogy rendelkezik a következő előfeltételekkel.
 
 {{% /blocks/products/pf/agp/text %}}
 

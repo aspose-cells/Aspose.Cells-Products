@@ -1,7 +1,7 @@
 ---
-title: C++ HTM-XPS - Online HTM-XPS konverter
-description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. Ingyenes online C++ HTM konvertálása XPS mentési formátumra. C++ HTM XPS formátumra. Mentse a HTM-et a XPS C++ számra.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ HTM to XPS saveformat., Free Online HTM to XPS C++., C++ Convert HTM to XPS]
+title: C++ HTM-XPS - HTM-XPS konverter
+description: Aspose Excel. A HTM-et gyorsan és egyszerűen konvertálhatja XPS-re a Aspose.Cells-es számmal. C++ HTM-et XPS-re. C++ Mentse el a HTM-et XPS-re. Mentse el a HTM-et XPS néven a 308 4073468-as szám használatával.
+keywords: [Aspose Excel., C++ Aspose.Cells., Convert HTM to XPS in C++., Save HTM to XPS using C++., C++ HTM to XPS saveformat., HTM to XPS Converter., C++ Save HTM as XPS]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Konvertálja a HTM-et XPS-re a C++-ben" h2="Nagy teljesítményű HTM konvertálás XPS-re a C++ könyvtár használatával a Microsoft Excel, OpenOffice vagy Adobe Acrobat telepítése nélkül." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" sourceAdditionalConversionTag="" additionalConversionTag="XPS" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ HTM to XPS s
 
 {{% blocks/products/pf/agp/content h2="Konvertálja a HTM-et XPS-re a C++ használatával" %}}
 
- Hogyan konvertálhatom át a HTM-et XPS-re? A Aspose.Cells for C++ könyvtárral egyszerűen konvertálhatja a HTM-et XPS programozással néhány sornyi kóddal.[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) képes többplatformos alkalmazásokat létrehozni, módosítani, konvertálni, renderelni és kinyomtatni az összes Excel fájlt. C++ Excel API nem csak a táblázatformátumok között konvertál, hanem Excel fájlokat is képes megjeleníteni képként, PDF, HTML, ODS, CSV, CSV, CSV, CSV, CSV, CSV, SVG, és így tovább, SVG P, 8 PT a választás,3,8 ipari szabvány szerinti dokumentumok cseréjére formátumok. A legújabb verziót közvetlenül letöltheti, csak nyissa meg[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) csomagkezelő, keresse meg a Aspose.Cells.Cpp címet, és telepítse. A következő parancsot is használhatja a Package Manager konzolból.
+ Hogyan konvertálhatom át a HTM-et XPS-re? A Aspose.Cells for C++ könyvtárral egyszerűen konvertálhatja a HTM-et XPS programozással néhány sornyi kóddal.[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) képes többplatformos alkalmazásokat létrehozni, módosítani, konvertálni, renderelni és kinyomtatni az összes Excel fájlt. C++ Az Excel API nemcsak a táblázatformátumok között konvertál, hanem Excel-fájlokat is képes megjeleníteni képként, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT és egyebekként, így tökéletes választás a szabványos formátumú dokumentumok cseréjéhez. A legújabb verziót közvetlenül letöltheti, csak nyissa meg[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) csomagkezelő, keresse meg a Aspose.Cells.Cpp címet, és telepítse. A következő parancsot is használhatja a Package Manager konzolból.
 
 {{% blocks/products/pf/agp/code-block title="Parancs" offSpacer="true" %}}
 
@@ -26,7 +26,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Mentse el a HTM-et a XPS-es számra a C++-ben online ingyen" %}}
+{{% blocks/products/pf/agp/content h2="Mentse el a HTM-et a XPS számra a C++-ben" %}}
 
 A következő példa bemutatja, hogyan lehet a HTM-et XPS-re konvertálni a C++-ben.
 {{% blocks/products/pf/agp/text %}}
@@ -37,19 +37,19 @@ Kövesse az egyszerű lépéseket a HTM XPS-re konvertálásához. Töltse fel H
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Ingyenes alkalmazás és mintakód a HTM XPS online konvertálásához" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="htm" outformat="xps" IsLandingPage="true" language="cpp" %}}
+{{% cells-convert title="Mintakód a HTM konvertálásához XPS-re" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="htm" outformat="xps" IsLandingPage="true" language="cpp" %}}
 
 {{% blocks/products/pf/agp/content h2="A HTM konvertálása XPS-re a C++-en keresztül" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
-A HTM-fájlokat programozottan XPS-re kell konvertálni? A C++ fejlesztők néhány kódsor segítségével könnyedén konvertálhatják a HTM-et XPS-re.
+HTM-fájlokat programozottan XPS-re kell konvertálni? A C++ fejlesztők néhány kódsor segítségével könnyedén konvertálhatják a HTM-et XPS-re.
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Telepítse a „Aspose.Cells for C++” fájlt.
 1.  Adjon hozzá egy könyvtári hivatkozást (importálja a könyvtárat) a C++ projekthez.
-1.  Töltse be a HTM-fájlt a Factory::CreateIWorkbook segítségével.
+1.  Töltse be a HTM-fájlt a munkafüzet segítségével.
 1.  Konvertálja a HTM-et XPS-re a Save() metódus meghívásával.
 1.  Szerezze meg a HTM konverziós eredményét XPS-re.
 
@@ -101,7 +101,6 @@ Három lehetőség közül választhat a „Aspose.Cells for C++” telepítés�
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/htm-to-pdf/" name="HTM: PDF" description="Hordozható dokumentum formátum" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/htm-to-png/" name="HTM: PNG" description="Hordozható hálózati grafika" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/htm-to-svg/" name="HTM: SVG" description="Skálázható vektorgrafika" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/htm-to-tiff/" name="HTM: TIFF" description="Címkézett képformátum" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/htm-to-tsv/" name="HTM: TSV" description="Tabulátorral elválasztott értékek" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/htm-to-txt/" name="HTM: TXT" description="Szöveges dokumentum" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/htm-to-xls/" name="HTM: XLS" description="Excel bináris formátum" >}}
@@ -112,7 +111,7 @@ Három lehetőség közül választhat a „Aspose.Cells for C++” telepítés�
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/htm-to-xltm/" name="HTM: XLTM" description="Excel-makró-kompatibilis sablon" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/htm-to-xltx/" name="HTM: XLTX" description="Office OpenXML Excel sablon" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/htm-to-xml/" name="HTM-ből XML-be" description="Bővíthető jelölőnyelv" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/htm-to-xps/" name="HTM: XPS" description="XML papírspecifikációk" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/htm-to-xps/" name="HTM: XPS" description="XML papír specifikációk" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/htm-to-json/" name="HTM: JSON" description="JavaScript objektum jelölés" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/htm-to-jpeg/" name="HTM: JPEG" description="JPEG Kép" >}}
 

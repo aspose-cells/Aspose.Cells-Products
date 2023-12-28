@@ -1,7 +1,8 @@
 ---
-title:  XLS एनोटेशन via .NET हटाएँ
+title:  XLS एनोटेशन via .NET जोड़ें या हटाएँ
 weight: 9270
 description: .NET फ्रेमवर्क, .NET कोर, Mono या ज़ामरिन प्लेटफ़ॉर्म पर XLS प्रारूप एनोटेशन जोड़ने और हटाने के लिए C# स्रोत कोड।
+keywords: [C# Aspose.Cells., add xls annotation., insert xls annotation., access xls annotation., remove xls annotation., delete xls annotation., add annotation in xls., insert annotation in xls., access annotation in xls., remove annotation in xls., delete annotation in xls]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="XLS से C# तक एनोटेशन जोड़ें या हटाएं" h2="सर्वर-साइड एपीआई का उपयोग करके दस्तावेज़ फ़ाइलों में टिप्पणियों और लेखकों में हेरफेर करने के लिए अपने स्वयं के .NET ऐप्स बनाएं।" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLS" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="PPTX" fileiconsmall2="DOCX" fileiconsmall3="XLSX" fileiconsmall4="PDF" fileiconsmall5=" ODP " >}}

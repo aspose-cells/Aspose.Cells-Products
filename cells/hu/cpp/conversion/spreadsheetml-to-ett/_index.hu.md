@@ -1,7 +1,7 @@
 ---
-title: C++ SPREADSHEETML-ből ETT-be – Online SPREADSHEETML-ből ETT-be konvertáló
-description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. Ingyenes online C++ SPREADSHEETML konvertálása ETT mentési formátumba. C++ SPREADSHEETML ETT formátumba. Mentse a SPREADSHEETML fájlt az ETT C++ számra.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ SPREADSHEETML to ETT saveformat., Free Online SPREADSHEETML to ETT C++., C++ Convert SPREADSHEETML to ETT]
+title: C++ SPREADSHEETML-ből ETT-be – SPREADSHEETML-ből ETT-be konvertáló
+description: Aspose Excel. A SPREADSHEETML-t gyorsan és egyszerűen konvertálja ETT-vé a Aspose.Cells-es számmal. C++ SPREADSHEETML-t ETT-vé. C++ SPREADSHEETML mentése az ETT-be. Mentse a SPREADSHEETML-t ETT-ként a C++ számon.
+keywords: [Aspose Excel., C++ Aspose.Cells., Convert SPREADSHEETML to ETT in C++., Save SPREADSHEETML to ETT using C++., C++ SPREADSHEETML to ETT saveformat., SPREADSHEETML to ETT Converter., C++ Save SPREADSHEETML as ETT]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="A SPREADSHEETML konvertálása ETT-re a C++-ben" h2="Nagy teljesítményű SPREADSHEETML konvertálás ETT-be a C++ könyvtár használatával, Microsoft Excel, OpenOffice vagy Adobe Acrobat telepítése nélkül." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" sourceAdditionalConversionTag="" additionalConversionTag="ETT" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ SPREADSHEETM
 
 {{% blocks/products/pf/agp/content h2="Konvertálja a SPREADSHEETML-t ETT-re a C++ használatával" %}}
 
- Hogyan konvertálhatom a SPREADSHEETML-t ETT-re? A Aspose.Cells for C++ könyvtárral könnyedén konvertálhatja a SPREADSHEETML-t ETT-re programozottan, néhány sornyi kóddal.[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) képes többplatformos alkalmazásokat létrehozni, módosítani, konvertálni, renderelni és kinyomtatni az összes Excel fájlt. C++ Excel API nem csak a táblázatformátumok között konvertál, hanem Excel fájlokat is képes megjeleníteni képként, PDF, HTML, ODS, CSV, CSV, CSV, CSV, CSV, CSV, SVG, és így tovább, SVG P, 8 PT a választás,3,8 ipari szabvány szerinti dokumentumok cseréjére formátumok. A legújabb verziót közvetlenül letöltheti, csak nyissa meg[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) csomagkezelő, keresse meg a Aspose.Cells.Cpp címet, és telepítse. A következő parancsot is használhatja a Package Manager konzolból.
+ Hogyan konvertálhatom a SPREADSHEETML-t ETT-re? A Aspose.Cells for C++ könyvtárral könnyedén konvertálhatja a SPREADSHEETML-t ETT-re programozottan, néhány sornyi kóddal.[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) képes többplatformos alkalmazásokat létrehozni, módosítani, konvertálni, renderelni és kinyomtatni az összes Excel fájlt. C++ Az Excel API nemcsak a táblázatformátumok között konvertál, hanem Excel-fájlokat is képes megjeleníteni képként, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT és egyebekként, így tökéletes választás a szabványos formátumú dokumentumok cseréjéhez. A legújabb verziót közvetlenül letöltheti, csak nyissa meg[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) csomagkezelő, keresse meg a Aspose.Cells.Cpp címet, és telepítse. A következő parancsot is használhatja a Package Manager konzolból.
 
 {{% blocks/products/pf/agp/code-block title="Parancs" offSpacer="true" %}}
 
@@ -26,7 +26,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Mentse el a SPREADSHEETML-t az ETT-be a C++-es számon online ingyen" %}}
+{{% blocks/products/pf/agp/content h2="Mentse a SPREADSHEETML fájlt az ETT-be a C++ számon" %}}
 
 A következő példa bemutatja, hogyan lehet a SPREADSHEETML-t ETT-vé konvertálni a C++-ben.
 {{% blocks/products/pf/agp/text %}}
@@ -37,7 +37,7 @@ Kövesse az egyszerű lépéseket a SPREADSHEETML ETT-re konvertálásához. Tö
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Ingyenes alkalmazás és mintakód a SPREADSHEETML ETT Online konvertálásához" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xml" outformat="ett" IsLandingPage="true" language="cpp" %}}
+{{% cells-convert title="Mintakód a SPREADSHEETML ETT-re konvertálásához" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xml" outformat="ett" IsLandingPage="true" language="cpp" %}}
 
 {{% blocks/products/pf/agp/content h2="A SPREADSHEETML konvertálása ETT-re a C++ számon keresztül" %}}
 
@@ -49,7 +49,7 @@ A SPREADSHEETML fájlokat programozottan ETT-vé kell konvertálnia? A C++ fejle
 
 1.  Telepítse a „Aspose.Cells for C++” fájlt.
 1.  Adjon hozzá egy könyvtári hivatkozást (importálja a könyvtárat) a C++ projekthez.
-1.  Töltse be a SPREADSHEETML fájlt a Factory::CreateIWorkbook segítségével.
+1.  Töltse be a SPREADSHEETML fájlt a munkafüzet segítségével.
 1.  Konvertálja a SPREADSHEETML-t ETT-re a Save() metódus meghívásával.
 1.  Szerezze meg a SPREADSHEETML konvertálási eredményét ETT-vé.
 
@@ -101,7 +101,6 @@ Három lehetőség közül választhat a „Aspose.Cells for C++” telepítés�
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/spreadsheetml-to-pdf/" name="TÁBLÁZAT A PDF-ES számra" description="Hordozható dokumentum formátum" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/spreadsheetml-to-png/" name="TÁBLÁZAT A PNG-ES számra" description="Hordozható hálózati grafika" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/spreadsheetml-to-svg/" name="TÁBLÁZAT A SVG-ES számra" description="Skálázható vektorgrafika" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/spreadsheetml-to-tiff/" name="TÁBLÁZAT A TIFF-ES számra" description="Címkézett képformátum" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/spreadsheetml-to-tsv/" name="TÁBLÁZAT A TSV-ES számra" description="Tabulátorral elválasztott értékek" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/spreadsheetml-to-txt/" name="TÁBLÁZAT A TXT-ES számra" description="Szöveges dokumentum" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/spreadsheetml-to-xls/" name="TÁBLÁZAT A XLS-ES számra" description="Excel bináris formátum" >}}
@@ -112,7 +111,7 @@ Három lehetőség közül választhat a „Aspose.Cells for C++” telepítés�
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/spreadsheetml-to-xltm/" name="TÁBLÁZAT A XLTM-ES számra" description="Excel-makró-kompatibilis sablon" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/spreadsheetml-to-xltx/" name="TÁBLÁZAT A XLTX-ES számra" description="Office OpenXML Excel sablon" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/spreadsheetml-to-xml/" name="A SPREADSHEETML-ből XML-be" description="Bővíthető jelölőnyelv" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/spreadsheetml-to-xps/" name="TÁBLÁZAT A XPS-ES számra" description="XML papírspecifikációk" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/spreadsheetml-to-xps/" name="TÁBLÁZAT A XPS-ES számra" description="XML papír specifikációk" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/spreadsheetml-to-json/" name="TÁBLÁZAT A JSON-ES számra" description="JavaScript objektum jelölés" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/spreadsheetml-to-jpeg/" name="TÁBLÁZAT A JPEG-ES számra" description="JPEG Kép" >}}
 

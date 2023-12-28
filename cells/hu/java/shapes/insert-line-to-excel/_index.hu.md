@@ -1,7 +1,8 @@
 ---
-title:  Szúrjon be egy sort az Excel via Java-be
+title: Szúrjon be egy sort az Excel via Java-be
 weight: 30
 description: Szúrjon be objektumokat a Aspose.Cells' Java API használatával, szoftver nélkül, például Microsoft vagy Open Office, Adobe PDF stb.
+keywords: [Java Aspose.Cells., Java add a Line., Java insert a Line., Java create a Line]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Szúrjon be egy sort az Excel via Java-be" h2="Szúrjon be egy sort a Aspose.Cells\' API használatával, szoftver nélkül, például Microsoft vagy Open Office, Adobe PDF stb." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSX" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="" fileiconsmall1="PPTX" fileiconsmall2="DOCX" fileiconsmall3="XLSX" fileiconsmall4="PDF" fileiconsmall5=" ODP " >}}
@@ -56,7 +57,7 @@ description: Szúrjon be objektumokat a Aspose.Cells' Java API használatával, 
 
 {{% /blocks/products/pf/agp/text %}}
 
-Munkafüzet objektum példányosítása. (vagy->Töltse be a XLSX fájlt a teljes elérési úttal.)
++ Munkafüzet objektum példányosítása. (vagy->Töltse be a XLSX fájlt a teljes elérési úttal.)
 + Válassza ki a munkalapot az indexén keresztül.
  + Használja a[módszer hozzáadása](https://reference.aspose.com/cells/java/com.aspose.cells/shapecollection/#addLine-int-int-int-int-int-int-) sor beszúrásához a kiválasztott munkalapba
 + Mentse a munkafüzetet XLSX formátumban.

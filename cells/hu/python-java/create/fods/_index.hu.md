@@ -1,7 +1,7 @@
 ---
 title: FODS létrehozása – FODS fájl létrehozása a Python-ben
-description: Aspose Excel. Python Hozzon létre FODS fájlt. Létrehozása FODS Python. Python FODS Létrehozó. Hozzon létre FODS-et a Python-ben. Hozzon létre FODS fájlt a Python használatával.
-keywords: [Aspose Excel., Python Aspose.Cells., Create FODS Python., Python FODS Creater., Create FODS file in Python., Generate FODS file in Python]
+description: Aspose Excel. Python Hozzon létre FODS fájlt gyorsan és egyszerűen a Aspose.Cells segítségével. Hozzon létre FODS fájlt a Python használatával. Hozzon létre FODS-et a Python-ben. Python3481 Létrehozása.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Create FODS file., Generate FODS file in Python., Create FODS file using Python., Write data to FODS file via Python., Create a FODS file in Python., Python Generate a FODS file., Python FODS Creater]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Hozzon létre FODS fájlt a Python helyen" h2="Nagy sebességű Python könyvtár a FODS fájl létrehozásához. Ez egy professzionális szoftvermegoldás a XLSX, PDF és sok más formátum importálásához és exportálásához a Python használatával." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="FODS" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -11,7 +11,7 @@ keywords: [Aspose Excel., Python Aspose.Cells., Create FODS Python., Python FODS
 
 {{% blocks/products/pf/agp/content h2="Hozzon létre FODS fájlt a Python használatával" %}}
 
- Hogyan lehet létrehozni a FODS fájlt? A Aspose.Cells for Python via Java könyvtárral könnyedén létrehozhat FODS fájlt programozottan néhány sornyi kóddal.[Aspose.Cells for Python](https://pypi.org/project/aspose-cells)képes többplatformos alkalmazásokat létrehozni, módosítani, konvertálni, renderelni és kinyomtatni az összes Excel fájlt. Python Excel API nem csak a táblázatformátumok között konvertál, hanem Excel fájlokat is képes megjeleníteni képként, PDF, HTML, ODS, CSV, CSV, CSV, CSV, CSV, CSV, SVG, és így tovább, SVG P, 8 PT a választás,3,8 ipari szabvány szerinti dokumentumok cseréjére formátumok.
+ Hogyan lehet létrehozni a FODS fájlt? A Aspose.Cells for Python via Java könyvtárral könnyedén létrehozhat FODS fájlt programozottan néhány sornyi kóddal.[Aspose.Cells for Python](https://pypi.org/project/aspose-cells)képes többplatformos alkalmazásokat létrehozni, módosítani, konvertálni, renderelni és kinyomtatni az összes Excel fájlt. Python Az Excel API nemcsak a táblázatformátumok között konvertál, hanem Excel-fájlokat is képes megjeleníteni képként, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT és egyebekként, így tökéletes választás a szabványos formátumú dokumentumok cseréjéhez.
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -29,7 +29,7 @@ keywords: [Aspose Excel., Python Aspose.Cells., Create FODS Python., Python FODS
 1.  Munkafüzet osztálypéldány létrehozása.
 1.  Nyissa meg a munkafüzet első munkalapját.
 1.  Szerezze meg a munkalap kívánt celláit, és írja be az értéket a cellákba.
-1.  Mentés módszerrel mentheti a munkafüzetet FODS fájlként.
+1.  A Mentés módszerrel mentheti a munkafüzetet FODS fájlként.
 
 {{% blocks/products/pf/agp/code-block title="A mintakód megmutatja, hogyan kell létrehozni a FODS fájlt a Python-ben." offSpacer="" %}}
 
@@ -80,7 +80,7 @@ Három lehetőség közül választhat a „Aspose.Cells for Python via Java” 
 
 {{% blocks/products/pf/agp/text %}}
 
-Aspose.Cells for Python via Java platformfüggetlen API, és bármilyen platformon használható (Windows, Linux és MacOS), csak győződjön meg arról, hogy a rendszer Java 1.8 vagy újabb[Python](https://www.python.org/downloads/) 3,5 vagy magasabb.
+ Aspose.Cells for Python via Java platformfüggetlen API, és bármilyen platformon használható (Windows, Linux és MacOS), csak győződjön meg arról, hogy a rendszer Java 1.8 vagy újabb[Python](https://www.python.org/downloads/) 3,5 vagy magasabb.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -91,7 +91,7 @@ Aspose.Cells for Python via Java platformfüggetlen API, és bármilyen platform
 
 <!-- aboutfile Starts -->
     {{< blocks/products/pf/agp/about-file-section >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="FODS" readMoreLink="https://docs.fileformat.com/spreadsheet/fods/" >}}A .fods kiterjesztésű fájl az OpenDocument Spreadsheet dokumentumformátum egyik típusa, amely sorokban és oszlopokban tárolja az adatokat. A formátumot az OASIS által közzétett és karbantartott ODF 1.2 specifikáció részeként határozták meg. A FODS fájlok nem nyithatók meg Excellel, egy másik táblázatkezelő szoftveralkalmazással a Microsoft. A FODS fájlok ODS néven menthetők a LibreOffice segítségével, és konvertálhatók más formátumokba, például a XLS és a 4816151 és a 48133 formátumokba.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="FODS" readMoreLink="https://docs.fileformat.com/spreadsheet/fods/" >}}.fods kiterjesztésű fájl az OpenDocument Spreadsheet dokumentumformátum egyik típusa, amely sorokban és oszlopokban tárolja az adatokat. A formátumot az OASIS által közzétett és karbantartott ODF 1.2 specifikáció részeként határozták meg. A FODS fájlok nem nyithatók meg Excellel, egy másik táblázatkezelő szoftveralkalmazással a Microsoft. A FODS fájlok ODS néven menthetők a LibreOffice segítségével, és konvertálhatók más formátumokba, például a XLS és a 4816151 és a 48133 formátumokba.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
     {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->
 

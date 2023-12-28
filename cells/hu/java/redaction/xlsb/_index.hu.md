@@ -2,6 +2,7 @@
 title:  Szöveg keresése és cseréje a XLSB via Java dokumentumban
 weight: 4590
 description: Java mintakód a XLSB fájlban található érzékeny információk törléséhez a Java futásidejű környezet JSP/JSF alkalmazásokhoz és asztali alkalmazásokhoz.
+keywords: [Java Aspose.Cells., Java Search and replace text in XLSB file., Java redact XLSB file., Java edit XLSB file., Java XLSB file redaction., Java Search and replace string in XLSB file]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Szerkesztés XLSB Formátumok Java-ben" h2="Natív és nagy teljesítményű XLSB dokumentumérzékeny szerkesztési információk szerveroldali Aspose.Cells for Java API-k használatával, olyan szoftverek használata nélkül, mint a Microsoft vagy az Adobe PDF." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="XLSB" >}}
@@ -13,7 +14,7 @@ description: Java mintakód a XLSB fájlban található érzékeny információk
 
  A XLSB fájl szerkesztéséhez a következőt használjuk:
  [Aspose.Cells for Java](https://products.aspose.com/cells/java) 
- API, amely egy funkciókban gazdag, hatékony és könnyen használható szerkesztési API for Java platform. A legújabb verziót közvetlenül a webhelyről töltheti le
+API, amely egy funkciókban gazdag, hatékony és könnyen használható szerkesztési API for Java platform. A legújabb verziót közvetlenül a webhelyről töltheti le
  [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) 
  és telepítse a Maven alapú projekten belül a következő konfigurációk hozzáadásával a pom.xml fájlhoz.
 
@@ -65,7 +66,7 @@ description: Java mintakód a XLSB fájlban található érzékeny információk
 + Adja meg a tartományt, ahol keresni szeretne
 + Lapozzon végig minden cellán, és használja a getCells().find(...) parancsot.
 + Cserélje ki az értéket.
-Mentse el a munkafüzetet.
++ Mentse el a munkafüzetet.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -143,7 +144,7 @@ workbook.save(dataDir + "output.xlsb");
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Nem kell letölteni a Aspose API számot." >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Nem kell kódot írni." >}}
         {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Csak töltse fel a XLSB fájlokat." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-download" text=" Azonnal szerkesztve lesz." >}}
+        {{< blocks/products/pf/agp/democard icon="fa-download" text="Azonnal szerkesztve lesz." >}}
     {{< /blocks/products/pf/agp/demobox >}}
 
     {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLSB" readMoreLink="https://docs.fileformat.com/spreadsheet/xlsb/" >}}

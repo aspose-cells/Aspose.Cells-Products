@@ -1,7 +1,7 @@
 ---
 title: एक्सेल बनाएं - C++ में एक्सेल फाइल बनाएं
-description: Aspose एक्सेल। C++ एक्सेल फाइल बनाएं। एक्सेल बनाएं C++. C++ एक्सेल क्रिएटर। C++ में EXCEL बनाएँ। C++ का उपयोग करके EXCEL फ़ाइल बनाएँ।
-keywords: [Aspose Excel., C++ Aspose.Cells., Create EXCEL C++., C++ EXCEL Creater., Create EXCEL file in C++., Generate EXCEL file in C++]
+description: Aspose एक्सेल। C++ Aspose.Cells के साथ जल्दी और आसानी से एक्सेल फ़ाइल बनाएं। C++ का उपयोग करके एक्सेल फ़ाइल बनाएं। C++ में एक्सेल बनाएं। C++ एक्सेल क्रिएटर।
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ Create EXCEL file., Generate EXCEL file in C++., Create EXCEL file using C++., Write data to EXCEL file via C++., Create a EXCEL file in C++., C++ Generate a EXCEL file., C++ EXCEL Creater]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="C++ में एक्सेल फ़ाइल बनाएं" h2="C++ लाइब्रेरी का उपयोग करके माइक्रोसॉफ्ट ऑफिस के बिना प्रोग्रामेटिक रूप से मूल और उच्च प्रदर्शन EXCEL फ़ाइल निर्माण।" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" sourceAdditionalConversionTag="" additionalConversionTag="EXCEL" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -11,7 +11,7 @@ keywords: [Aspose Excel., C++ Aspose.Cells., Create EXCEL C++., C++ EXCEL Create
 
 {{% blocks/products/pf/agp/content h2="C++ का उपयोग करके एक्सेल फ़ाइल बनाएं" %}}
 
- एक्सेल फाइल कैसे बनाएं? Aspose.Cells for C++ लाइब्रेरी के साथ, आप कोड की कुछ पंक्तियों के साथ प्रोग्रामेटिक रूप से आसानी से EXCEL फ़ाइल बना सकते हैं।[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) सभी एक्सेल फ़ाइलों को उत्पन्न करने, संशोधित करने, परिवर्तित करने, प्रस्तुत करने और प्रिंट करने की क्षमता के साथ क्रॉस-प्लेटफ़ॉर्म एप्लिकेशन बनाने में सक्षम है। C++ एक्सेल API न केवल स्प्रेडशीट प्रारूपों के बीच कनवर्ट कर सकता है, यह एक्सेल फाइलों को छवियों, PDF, HTML, ODS, CSV, SVG, JSON, वर्ड, पीपीटी और भी बहुत कुछ के रूप में प्रस्तुत कर सकता है, इस प्रकार यह एक्सचेंज के लिए एक आदर्श विकल्प बन जाता है। उद्योग-मानक में दस्तावेज़ प्रारूप. आप इसका नवीनतम संस्करण सीधे डाउनलोड कर सकते हैं, बस खोलें[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) पैकेज मैनेजर, Aspose.Cells.सीपीपी खोजें और इंस्टॉल करें। आप पैकेज मैनेजर कंसोल से निम्न कमांड का भी उपयोग कर सकते हैं।
+ एक्सेल फाइल कैसे बनाएं? Aspose.Cells for C++ लाइब्रेरी के साथ, आप कोड की कुछ पंक्तियों के साथ प्रोग्रामेटिक रूप से आसानी से EXCEL फ़ाइल बना सकते हैं।[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) सभी एक्सेल फ़ाइलों को उत्पन्न करने, संशोधित करने, परिवर्तित करने, प्रस्तुत करने और प्रिंट करने की क्षमता के साथ क्रॉस-प्लेटफ़ॉर्म एप्लिकेशन बनाने में सक्षम है। C++ एक्सेल API न केवल स्प्रेडशीट प्रारूपों के बीच परिवर्तित होता है, बल्कि यह एक्सेल फाइलों को छवियों, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT और अधिक के रूप में भी प्रस्तुत कर सकता है, इस प्रकार यह उद्योग-मानक प्रारूपों में दस्तावेजों का आदान-प्रदान करने के लिए एक आदर्श विकल्प बन जाता है। आप इसका नवीनतम संस्करण सीधे डाउनलोड कर सकते हैं, बस खोलें[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) पैकेज मैनेजर, Aspose.Cells.सीपीपी खोजें और इंस्टॉल करें। आप पैकेज मैनेजर कंसोल से निम्न कमांड का भी उपयोग कर सकते हैं।
 
 {{% blocks/products/pf/agp/code-block title="आज्ञा" offSpacer="true" %}}
 
@@ -34,41 +34,47 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/text %}}
 
-1.  IWorkbook क्लास का एक ऑब्जेक्ट बनाएं।
-1.  पहली शीट को IWorkSheet ऑब्जेक्ट में प्राप्त करें।
-1.  वर्कशीट की कोशिकाओं को ICells ऑब्जेक्ट में लाने के लिए IWorkSheet->GetICells() विधि का उपयोग करें।
-1. वर्कशीट के वांछित सेल को ICell ऑब्जेक्ट में एक्सेस करने के लिए ICells->GetObjectByIndex() विधि का उपयोग करें।
-1.  सेल में मान इनपुट करने के लिए ICell->PutValue() विधि का उपयोग करें।
+1.  वर्कबुक क्लास का एक ऑब्जेक्ट बनाएं।
+1.  वर्कशीट ऑब्जेक्ट में पहली शीट प्राप्त करें।
+1.  वर्कशीट की कोशिकाओं को Cells ऑब्जेक्ट में लाने के लिए वर्कशीट.गेटसेल्स() विधि का उपयोग करें।
+1. वर्कशीट के वांछित सेल को Cell ऑब्जेक्ट में एक्सेस करने के लिए Cells.गेट() विधि का उपयोग करें।
+1.  सेल में मान इनपुट करने के लिए Cell.PutValue() विधि का उपयोग करें।
 1.  Save() विधि का उपयोग करके कार्यपुस्तिका को .xlsx फ़ाइल के रूप में सहेजें।
 
 {{% blocks/products/pf/agp/code-block title="नमूना कोड दिखाता है कि C++ में EXCEL फ़ाइल कैसे बनाएं।" offSpacer="" %}}
 
 ```cs
+Aspose::Cells::Startup();
 
-// Create an object of the IWorkbook class.
-intrusive_ptr<IWorkbook> wkb = Factory::CreateIWorkbook();
+// Create an object of the Workbook class.
+Workbook wkb;
+// Get the first sheet into an Worksheet object.
+WorksheetCollection wsc = wkb.GetWorksheets();
+Worksheet ws = wsc.Get(0);
 
-// Get the first sheet into an IWorksheet object.
-intrusive_ptr<IWorksheetCollection> wsc = wkb->GetIWorksheets();
-intrusive_ptr<IWorksheet> ws = wsc->GetObjectByIndex(0);
 
-// Use IWorksheet->GetICells() method to get the cells of the worksheet into an ICells object.
-intrusive_ptr<ICells> cells = ws->GetICells();
+// Use Worksheet.GetCells() method to get the cells of the worksheet into an Cells object.
+Cells cells = ws.GetCells();
 
-// Use ICells->GetObjectByIndex() method to access the desired cell of the worksheet into an ICell object.
-intrusive_ptr<ICell> cell00 = cells->GetObjectByIndex(0, 0);
-intrusive_ptr<ICell> cell01 = cells->GetObjectByIndex(0, 1);
-intrusive_ptr<ICell> cell10 = cells->GetObjectByIndex(1, 0);
-intrusive_ptr<ICell> cell11 = cells->GetObjectByIndex(1, 1);
 
-// Use ICell->PutValue() method to input value into the cell.
-cell00->PutValue(new String("ColumnA"));
-cell01->PutValue(new String("ColumnB"));
-cell10->PutValue(new String("ValueA"));
-cell11->PutValue(new String("ValueB"));
+// Use Cells.Get() method to access the desired cell of the worksheet into an Cell object.
+Cell cell00 = cells.Get(0, 0);
+Cell cell01 = cells.Get(0, 1);
+Cell cell10 = cells.Get(1, 0);
+Cell cell11 = cells.Get(1, 1);
+
+
+// Use Cell.PutValue() method to input value into the cell.
+cell00.PutValue(u"ColumnA");
+cell01.PutValue(u"ColumnB");
+cell10.PutValue(u"ValueA");
+cell11.PutValue(u"ValueB");
+
 
 // Save workbook to resultFile folder
-wkb->Save(new String("created_one.xlsx"));
+wkb.Save(u"created_one.xlsx");
+
+Aspose::Cells::Cleanup();
 
 ```
 

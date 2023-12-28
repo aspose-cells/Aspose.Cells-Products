@@ -1,7 +1,7 @@
 ---
-title: Python XLTX से MARKDOWN - ऑनलाइन XLTX से MARKDOWN कनवर्टर
-description: Aspose एक्सेल। Python Aspose.Cells. Python Aspose Cells. मुफ़्त ऑनलाइन Python XLTX को MARKDOWN सेव फॉर्मेट में कनवर्ट करें। Python XLTX से MARKDOWN प्रारूप। XLTX को MARKDOWN Python पर सेव करें।
-keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python XLTX to MARKDOWN saveformat., Free Online XLTX to MARKDOWN Python., Python Convert XLTX to MARKDOWN]
+title: Python XLTX से MARKDOWN - XLTX से MARKDOWN कनवर्टर
+description: Aspose एक्सेल। Aspose.Cells के साथ XLTX को MARKDOWN में जल्दी और आसानी से बदलें। 81 Python का उपयोग करते हुए।
+keywords: [Aspose Excel., Python Aspose.Cells., Convert XLTX to MARKDOWN in Python., Save XLTX to MARKDOWN using Python., Python XLTX to MARKDOWN saveformat., XLTX to MARKDOWN Converter., Python Save XLTX as MARKDOWN]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Python में XLTX को MARKDOWN में बदलें" h2="XLTX को MARKDOWN में परिवर्तित करने के लिए हाई-स्पीड Python लाइब्रेरी। यह Python का उपयोग करके XLTX, MARKDOWN और कई अन्य प्रारूपों को आयात और निर्यात करने के लिए एक पेशेवर सॉफ्टवेयर समाधान है।" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="MARKDOWN" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,11 +12,11 @@ keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python XLT
 
 {{% blocks/products/pf/agp/content h2="Python का उपयोग करके XLTX को MARKDOWN में बदलें" %}}
 
-मैं XLTX को MARKDOWN में कैसे परिवर्तित करूं? Aspose.Cells for Python लाइब्रेरी के साथ, आप कोड की कुछ पंक्तियों के साथ आसानी से XLTX को MARKDOWN में प्रोग्रामेटिक रूप से परिवर्तित कर सकते हैं।[Aspose.Cells for Python](https://pypi.org/project/aspose-cells)सभी एक्सेल फ़ाइलों को उत्पन्न करने, संशोधित करने, परिवर्तित करने, प्रस्तुत करने और प्रिंट करने की क्षमता के साथ क्रॉस-प्लेटफ़ॉर्म एप्लिकेशन बनाने में सक्षम है। Python एक्सेल API न केवल स्प्रेडशीट प्रारूपों के बीच कनवर्ट कर सकता है, यह एक्सेल फाइलों को छवियों, PDF, HTML, ODS, CSV, SVG, JSON, वर्ड, पीपीटी और भी बहुत कुछ के रूप में प्रस्तुत कर सकता है, इस प्रकार यह एक्सचेंज के लिए एक आदर्श विकल्प बन जाता है। उद्योग-मानक में दस्तावेज़ प्रारूप.
+मैं XLTX को MARKDOWN में कैसे परिवर्तित करूं? Aspose.Cells for Python लाइब्रेरी के साथ, आप कोड की कुछ पंक्तियों के साथ आसानी से XLTX को MARKDOWN में प्रोग्रामेटिक रूप से परिवर्तित कर सकते हैं।[Aspose.Cells for Python](https://pypi.org/project/aspose-cells)सभी एक्सेल फ़ाइलों को उत्पन्न करने, संशोधित करने, परिवर्तित करने, प्रस्तुत करने और प्रिंट करने की क्षमता के साथ क्रॉस-प्लेटफ़ॉर्म एप्लिकेशन बनाने में सक्षम है। Python एक्सेल API न केवल स्प्रेडशीट प्रारूपों के बीच परिवर्तित होता है, बल्कि यह एक्सेल फाइलों को छवियों, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT और अधिक के रूप में भी प्रस्तुत कर सकता है, इस प्रकार यह उद्योग-मानक प्रारूपों में दस्तावेजों का आदान-प्रदान करने के लिए एक आदर्श विकल्प बन जाता है।
  
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Python में XLTX से MARKDOWN को निःशुल्क ऑनलाइन सेव करें" %}}
+{{% blocks/products/pf/agp/content h2="Python में XLTX से MARKDOWN सेव करें" %}}
 
 निम्नलिखित उदाहरण दर्शाता है कि Python में XLTX को MARKDOWN में कैसे परिवर्तित किया जाए।
 {{% blocks/products/pf/agp/text %}}
@@ -27,7 +27,7 @@ XLTX को MARKDOWN में बदलने के लिए आसान च
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="XLTX को MARKDOWN में ऑनलाइन बदलने के लिए निःशुल्क ऐप और नमूना कोड" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xltx" outformat="md" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="XLTX को MARKDOWN में बदलने के लिए नमूना कोड" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xltx" outformat="md" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="Python के माध्यम से XLTX को MARKDOWN में कैसे परिवर्तित करें" %}}
 
@@ -63,12 +63,12 @@ XLTX फ़ाइलों को प्रोग्रामेटिक रू
 
 {{% blocks/products/pf/agp/text %}}
 
-Aspose.Cells for Python via Java प्लेटफ़ॉर्म-स्वतंत्र API है और इसे किसी भी प्लेटफ़ॉर्म (Windows, लिनक्स और मैकओएस) पर उपयोग किया जा सकता है, बस सुनिश्चित करें कि सिस्टम में Java 1.8 या उच्चतर है,[Python](https://www.python.org/downloads/) 3.5 या उच्चतर.
+ Aspose.Cells for Python via Java प्लेटफ़ॉर्म-स्वतंत्र API है और इसे किसी भी प्लेटफ़ॉर्म (Windows, लिनक्स और मैकओएस) पर उपयोग किया जा सकता है, बस सुनिश्चित करें कि सिस्टम में Java 1.8 या उच्चतर है,[Python](https://www.python.org/downloads/) 3.5 या उच्चतर.
  
 {{% /blocks/products/pf/agp/text %}}
 
 -  Java स्थापित करें और इसे PATH पर्यावरण चर में जोड़ें, उदाहरण के लिए:<code>PATH=C:\Program Files\Java\jdk1.8.0_131;</code>.
-- Aspose.Cells for Python से इंस्टॉल करें<a href="https://pypi.org/project/aspose-cells/">pypi</a> , कमांड का उपयोग इस प्रकार करें:<code>$ pip install aspose-cells</code>.
+-  Aspose.Cells for Python से इंस्टॉल करें<a href="https://pypi.org/project/aspose-cells/">pypi</a> , कमांड का उपयोग इस प्रकार करें:<code>$ pip install aspose-cells</code>.
 
 {{% /blocks/products/pf/agp/content %}}
 

@@ -1,7 +1,8 @@
 ---
 title:  Szöveg és képek kibontása a XLSB via Java számú dokumentumból
 weight: 440
-description: Java mintakód a XLSB fájl XLSB futásidejű környezetének XLSB fájlból való kinyeréséhez JSP/JSF alkalmazásokhoz és asztali alkalmazásokhoz.
+description: Java mintakód szövegek és képek kinyeréséhez a Java Java számú XLSB fájlból a JSP/JSF alkalmazásokhoz és asztali alkalmazásokhoz.
+keywords: [Java Aspose.Cells., Java Extract text and images from XLSB file., Java How to Parse XLSB File., Java Extract text from XLSB file., Extract images from XLSB file using Java]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="A XLSB formátumok elemzése a Java-ben" h2="Natív és nagy teljesítményű XLSB dokumentumelemzés szerveroldali Aspose.Cells for Java API-k segítségével, olyan szoftverek használata nélkül, mint a Microsoft vagy az Adobe PDF." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="XLSB" >}}
@@ -63,7 +64,7 @@ description: Java mintakód a XLSB fájl XLSB futásidejű környezetének XLSB 
 + Válassza ki a szükséges lapot a getWorksheets().get metódussal.
 + A kiválasztott lap összes cellájának lekérése a getCells() segítségével.
 + Iteráljon minden cellát, és kapja meg a szövegét.
-Nyomtasson ki minden cellaértéket, vagy használja a StringBuilder append() metódust az egész megtekintéséhez
++ Nyomtasson ki minden cellaértéket, vagy használja a StringBuilder append() metódust az egész megtekintéséhez
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

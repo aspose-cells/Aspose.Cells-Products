@@ -1,6 +1,7 @@
 ---
 title: Excel diagramok létrehozása és konvertálása képekké via .NET
 description:  C# forráskód diagram vagy diagram rajzolásához és konvertálásához Microsoft Excelben a .NET könyvtár használatával.
+keywords: [C# Aspose.Cells., c# Convert chart to image., c# Save chart to image., c# chart to image., create charts in c#., insert charts in c#., manage charts in c#]
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
 {{< blocks/products/pf/i18n/feature-page-header h1="Microsoft<sup>&reg;</sup> Excel fájldiagramok létrehozása és konvertálása via .NET" h2="Hozzon létre Excel-dokumentumdiagramokat, és konvertáljon képekké kiszolgálóoldali API-k segítségével a .NET alapú alkalmazásokon belül." >}}
@@ -11,7 +12,7 @@ description:  C# forráskód diagram vagy diagram rajzolásához és konvertál�
 
 {{% blocks/products/pf/feature-page-section h2="Hozzon létre diagramokat az Excel fájlban" %}}
 
- A diagramok létrehozása az Excel API használatával egyszerű. A folyamat a létrehozás[Munkafüzet osztály](https://reference.aspose.com/cells/net/aspose.cells/workbook) objektumot, és az index megadásával válassza ki az első munkalapot vagy a megfelelő lapot. Illessze be a szükséges cellaadatokat a segítségével[PutValue módszer](https://reference.aspose.com/cells/net/aspose.cells/cell/methods/putvalue/index) . Adjon hozzá diagramot a munkalaphoz a Charts gyűjtemény használatával[Módszer hozzáadása](https://reference.aspose.com/cells/net/aspose.cells.charts/chartcollection/methods/add) . Adja meg a[ChartType](https://reference.aspose.com/cells/net/aspose.cells.charts/charttype) ChartType felsorolásból.
+ A diagramok létrehozása az Excel API használatával egyszerű. A folyamat a létrehozás[Munkafüzet osztály](https://reference.aspose.com/cells/net/aspose.cells/workbook)objektumot, és az index megadásával válassza ki az első munkalapot vagy a megfelelő lapot. Illessze be a szükséges cellaadatokat a segítségével[PutValue módszer](https://reference.aspose.com/cells/net/aspose.cells/cell/methods/putvalue/index) . Adjon hozzá diagramot a munkalaphoz a Charts gyűjtemény használatával[Módszer hozzáadása](https://reference.aspose.com/cells/net/aspose.cells.charts/chartcollection/methods/add) . Adja meg a[ChartType](https://reference.aspose.com/cells/net/aspose.cells.charts/charttype) a ChartType felsorolásból.
 {{% blocks/products/pf/feature-page-code h3="C# Kód Excel-diagramok létrehozásához" %}}
 
 {{< gist "aspose-com-gists" "47151e6b1cd698683d5eefb538a4a52a" "create-excel-chart.cs" >}}

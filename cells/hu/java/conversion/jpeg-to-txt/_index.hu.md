@@ -1,7 +1,7 @@
 ---
-title: Java JPEG - TXT - Online JPEG - TXT Átalakító
-description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Ingyenes online Java A JPEG konvertálása TXT mentési formátumra. Java JPEG - TXT formátum. Mentse a JPEG számot a TXT Java számra.
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java JPEG to TXT saveformat., Free Online JPEG to TXT Java., Java Convert JPEG to TXT]
+title: Java JPEG - TXT - JPEG - TXT Átalakító
+description: Aspose Excel. Java Aspose.Cells. JPEG-TXT Java-ben. Java A JPEG konvertálása TXT mentési formátumra. Java JPEG - TXT formátum. Mentse a JPEG számot a TXT Java számra.
+keywords: [Aspose Excel., Java Aspose.Cells., JPEG to TXT in Java., Java JPEG to TXT saveformat., JPEG to TXT Java., Java Convert JPEG to TXT]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Konvertálja a JPEG-et TXT-re Java-ben" h2="Nagysebességű Java könyvtár a JPEG TXT-es számok konvertálásához. Ez egy professzionális szoftvermegoldás a JPEG, TXT és sok más formátum importálásához és exportálásához a Java szám használatával." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="TXT" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java JPEG to T
 
 {{% blocks/products/pf/agp/content h2="A JPEG konvertálása TXT-re a Java használatával" %}}
 
-Hogyan alakíthatom át a JPEG-et TXT-re? A Aspose.Cells for Java könyvtárral egyszerűen konvertálhatja a JPEG-et programozottan TXT-re néhány sor kóddal.[Aspose.Cells for Java](https://products.aspose.com/cells/java) képes többplatformos alkalmazásokat létrehozni, módosítani, konvertálni, renderelni és kinyomtatni az összes Excel fájlt. Java Excel API nem csak a táblázatformátumok között konvertál, hanem Excel fájlokat is képes megjeleníteni képként, PDF, HTML, ODS, CSV, CSV, CSV, CSV, CSV, CSV, SVG, és így tovább, SVG P, 8 PT a választás,3,8 ipari szabvány szerinti dokumentumok cseréjére formátumok. A legújabb verziót közvetlenül a webhelyről töltheti le[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) és telepítse a Maven alapú projekten belül a következő konfigurációk hozzáadásával a pom.xml fájlhoz.
+Hogyan alakíthatom át a JPEG-et TXT-re? A Aspose.Cells for Java könyvtárral egyszerűen konvertálhatja a JPEG-et programozottan TXT-re néhány sor kóddal.[Aspose.Cells for Java](https://products.aspose.com/cells/java)képes többplatformos alkalmazásokat létrehozni, módosítani, konvertálni, renderelni és kinyomtatni az összes Excel fájlt. Java Az Excel API nemcsak a táblázatformátumok között konvertál, hanem Excel-fájlokat is képes megjeleníteni képként, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT és egyebekként, így tökéletes választás a szabványos formátumú dokumentumok cseréjéhez. A legújabb verziót közvetlenül a webhelyről töltheti le[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) és telepítse a Maven alapú projekten belül a következő konfigurációk hozzáadásával a pom.xml fájlhoz.
 
 {{% blocks/products/pf/agp/code-block title="Adattár" offSpacer="true" %}}
 
@@ -45,7 +45,7 @@ Hogyan alakíthatom át a JPEG-et TXT-re? A Aspose.Cells for Java könyvtárral 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Takarítson meg JPEG-TXT számot a Java számon online ingyen" %}}
+{{% blocks/products/pf/agp/content h2="Mentse a JPEG-TXT számot a Java-es számon" %}}
 
 A következő példa bemutatja, hogyan lehet a JPEG-et TXT-re konvertálni a Java-ben.
 {{% blocks/products/pf/agp/text %}}
@@ -56,9 +56,9 @@ Kövesse az egyszerű lépéseket a JPEG TXT-re konvertálásához. Töltse fel 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Ingyenes alkalmazás és mintakód a JPEG TXT online konvertálásához" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="jpg" outformat="txt" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Mintakód a JPEG TXT-re konvertálásához" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="jpg" outformat="txt" IsLandingPage="true" language="java" %}}
 
-{{% blocks/products/pf/agp/content h2="JPEG TXT via Java-re konvertálása" %}}
+{{% blocks/products/pf/agp/content h2="A JPEG TXT via Java-re konvertálása" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
@@ -68,7 +68,7 @@ A JPEG fájlt programozottan TXT-re kell konvertálni? A Java fejlesztők könny
 
 1.  Telepítse a „Aspose.Cells for Java” fájlt.
 1.  Adjon hozzá egy könyvtári hivatkozást (importálja a könyvtárat) a Java projekthez.
-1.  Töltse be a JPEG számú fájlt a Workbook osztály egy példányával.
+1. Töltse be a JPEG számú fájlt a Workbook osztály egy példányával.
 1.  Konvertálja a JPEG-et TXT-re a Workbook.save metódus meghívásával.
 1.  Szerezze meg a JPEG-es konverziós eredményt TXT-re.
 
@@ -125,7 +125,7 @@ A JPEG fájlt programozottan TXT-re kell konvertálni? A Java fejlesztők könny
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/jpeg-to-xltm/" name="JPEG-XLTM" description="Excel-makró-kompatibilis sablon" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/jpeg-to-xltx/" name="JPEG-XLTX" description="Office OpenXML Excel sablon" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/jpeg-to-xml/" name="JPEG XML-RE" description="Bővíthető jelölőnyelv" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/jpeg-to-xps/" name="JPEG-XPS" description="XML papírspecifikációk" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/jpeg-to-xps/" name="JPEG-XPS" description="XML papír specifikációk" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/jpeg-to-json/" name="JPEG-JSON" description="JavaScript objektum jelölés" >}}
 
 

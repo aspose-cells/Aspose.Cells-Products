@@ -1,8 +1,8 @@
 ---
 title: A PNG egyesítése JPG-be
 url: /hu/java/merger/merge-png-to-jpg/ 
-description: Aspose Excel. Java Aspose.Cells. Ingyenes online egyesítés PNG JPG mentési formátumba. Java Kombinálja a PNG-et JPG formátumba. A PNG egyesítése JPG-be a Java-ben. PNG Egyesítés.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge PNG to JPG in Java., Free Online Java Merge PNG to jpg., Java Combine PNG to JPG Online for Free., PNG Merge]
+description: Aspose Excel. Java Aspose.Cells. A PNG egyesítése JPG mentési formátumba. Java Kombinálja a PNG-et JPG formátumba. A PNG egyesítése JPG-be a Java-ben. PNG Egyesítés.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge PNG to JPG in Java., Java Merge PNG to jpg., Java Combine PNG to JPG., PNG Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="A PNG egyesítése a via Java JPG-vel" h2="Nagy sebességű Java könyvtár a PNG JPG formátumba egyesítéséhez. Használja a API-es excel-konverziónkat magas szintű, platformfüggetlen szoftverek fejlesztéséhez a Java-ben. Ez egy professzionális szoftvermegoldás a Excel, CSV, OpenOffice, PDF, HTML, image és sok más excel formátum importálásához és exportálásához." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="PNG" additionalConversionTag="JPG" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Merge PNG to JPG in Java., Free On
 
 {{% blocks/products/pf/agp/content h2="Egyesítse a PNG-et JPG-be a Java használatával" %}}
 
- Hogyan egyesíthetem a PNG-et JPG-be? A Aspose.Cells for Java könyvtárral egyszerűen egyesítheti a PNG-et JPG-be, néhány sornyi kóddal programozottan.[Aspose.Cells for Java](https://products.aspose.com/cells/java) képes többplatformos alkalmazásokat létrehozni, módosítani, konvertálni, renderelni és kinyomtatni az összes Excel fájlt. Java Excel API nem csak a táblázatformátumok között konvertál, hanem Excel fájlokat is képes megjeleníteni képként, PDF, HTML, ODS, CSV, CSV, CSV, CSV, CSV, CSV, SVG, és így tovább, SVG P, 8 PT a választás,3,8 ipari szabvány szerinti dokumentumok cseréjére formátumok. A legújabb verziót közvetlenül a webhelyről töltheti le[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) és telepítse a Maven alapú projekten belül a következő konfigurációk hozzáadásával a pom.xml fájlhoz.
+ Hogyan egyesíthetem a PNG-et JPG-be? A Aspose.Cells for Java könyvtárral egyszerűen egyesítheti a PNG-et JPG-be, néhány sornyi kóddal programozottan.[Aspose.Cells for Java](https://products.aspose.com/cells/java)képes többplatformos alkalmazásokat létrehozni, módosítani, konvertálni, renderelni és kinyomtatni az összes Excel fájlt. Java Az Excel API nemcsak a táblázatformátumok között konvertál, hanem Excel-fájlokat is képes megjeleníteni képként, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT és egyebekként, így tökéletes választás a szabványos formátumú dokumentumok cseréjéhez. A legújabb verziót közvetlenül a webhelyről töltheti le[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) és telepítse a Maven alapú projekten belül a következő konfigurációk hozzáadásával a pom.xml fájlhoz.
 
 {{% blocks/products/pf/agp/code-block title="Adattár" offSpacer="true" %}}
 
@@ -45,7 +45,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Merge PNG to JPG in Java., Free On
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Ingyenesen egyesítse a PNG-et JPG-be a Java-ben" %}}
+{{% blocks/products/pf/agp/content h2="Egyesítse a PNG-et JPG-be a Java-ben" %}}
 
 A következő példa bemutatja, hogyan lehet egyesíteni a PNG-et JPG-vel a Aspose.Cells for Java-ben.
 {{% blocks/products/pf/agp/text %}}
@@ -56,7 +56,7 @@ Kövesse az egyszerű lépéseket a PNG JPG formátumba egyesítéséhez. Tölts
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Ingyenes online a PNG egyesítéséhez JPG formátumba Java-ben" InputFormat="png" InputFormat2="jpg" outformat="jpg" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="java" %}}
+{{% cells-merger title="Mintakód a PNG JPG formátumba való egyesítéséhez a Java-ben" InputFormat="png" InputFormat2="jpg" outformat="jpg" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="A PNG és a via Java JPG fájl egyesítése" %}}
 
@@ -131,8 +131,8 @@ API-jaink minden nagyobb platformon és operációs rendszeren támogatottak. Mi
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-png-to-xlt/" name="PNG és a XLT számok egyesítése" description="Microsoft Excel-sablon" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-png-to-xltm/" name="PNG és a XLTM számok egyesítése" description="Excel-makró-kompatibilis sablon" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-png-to-xltx/" name="PNG és a XLTX számok egyesítése" description="Office OpenXML Excel sablon" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-png-to-xml/" name="A PNG egyesítése XML-be" description="Bővíthető jelölőnyelv" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-png-to-xps/" name="PNG és a XPS számok egyesítése" description="XML papírspecifikációk" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-png-to-xml/" name="Egyesítse a PNG-et XML-be" description="Bővíthető jelölőnyelv" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-png-to-xps/" name="PNG és a XPS számok egyesítése" description="XML papír specifikációk" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-png-to-json/" name="PNG és a JSON számok egyesítése" description="JavaScript objektum jelölés" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-png-to-jpeg/" name="PNG és a JPEG számok egyesítése" description="JPEG Kép" >}}
 

@@ -1,7 +1,7 @@
 ---
-title: Python इमेज से पावरपॉइंट - ऑनलाइन इमेज से पावरपॉइंट कनवर्टर
-description: Aspose एक्सेल। Python Aspose.Cells. Python Aspose Cells. मुफ़्त ऑनलाइन Python छवि को पावरपॉइंट सेवफॉर्मेट में कनवर्ट करें। Python छवि पावरपॉइंट प्रारूप में। छवि को पावरपॉइंट Python पर सहेजें।
-keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python IMAGE to POWERPOINT saveformat., Free Online IMAGE to POWERPOINT Python., Python Convert IMAGE to POWERPOINT]
+title: Python छवि से पावरपॉइंट - छवि से पावरपॉइंट कनवर्टर
+description: Aspose एक्सेल। Aspose.Cells के साथ इमेज को पावरपॉइंट में जल्दी और आसानी से बदलें। Python इमेज को पावरपॉइंट में बदलें। Python छवि को पावरपॉइंट में सहेजें। Python का उपयोग करके छवि को पावरपॉइंट के रूप में सहेजें।
+keywords: [Aspose Excel., Python Aspose.Cells., Convert IMAGE to POWERPOINT in Python., Save IMAGE to POWERPOINT using Python., Python IMAGE to POWERPOINT saveformat., IMAGE to POWERPOINT Converter., Python Save IMAGE as POWERPOINT]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Python में IMAGE को PowerPOINT में बदलें" h2="IMAGE को POWERPOINT में परिवर्तित करने के लिए हाई-स्पीड Python लाइब्रेरी। यह Python का उपयोग करके इमेज, पावरपॉइंट और कई अन्य प्रारूपों को आयात और निर्यात करने के लिए एक पेशेवर सॉफ्टवेयर समाधान है।" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="POWERPOINT" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,11 +12,11 @@ keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python IMA
 
 {{% blocks/products/pf/agp/content h2="Python का उपयोग करके छवि को पावरपॉइंट में बदलें" %}}
 
- मैं IMAGE को POWERPOINT में कैसे परिवर्तित करूं? Aspose.Cells for Python लाइब्रेरी के साथ, आप कोड की कुछ पंक्तियों के साथ आसानी से इमेज को प्रोग्रामेटिक रूप से पावरपॉइंट में परिवर्तित कर सकते हैं।[Aspose.Cells for Python](https://pypi.org/project/aspose-cells)सभी एक्सेल फ़ाइलों को उत्पन्न करने, संशोधित करने, परिवर्तित करने, प्रस्तुत करने और प्रिंट करने की क्षमता के साथ क्रॉस-प्लेटफ़ॉर्म एप्लिकेशन बनाने में सक्षम है। Python एक्सेल API न केवल स्प्रेडशीट प्रारूपों के बीच कनवर्ट कर सकता है, यह एक्सेल फाइलों को छवियों, PDF, HTML, ODS, CSV, SVG, JSON, वर्ड, पीपीटी और भी बहुत कुछ के रूप में प्रस्तुत कर सकता है, इस प्रकार यह एक्सचेंज के लिए एक आदर्श विकल्प बन जाता है। उद्योग-मानक में दस्तावेज़ प्रारूप.
+ मैं IMAGE को POWERPOINT में कैसे परिवर्तित करूं? Aspose.Cells for Python लाइब्रेरी के साथ, आप कोड की कुछ पंक्तियों के साथ आसानी से इमेज को प्रोग्रामेटिक रूप से पावरपॉइंट में परिवर्तित कर सकते हैं।[Aspose.Cells for Python](https://pypi.org/project/aspose-cells)सभी एक्सेल फ़ाइलों को उत्पन्न करने, संशोधित करने, परिवर्तित करने, प्रस्तुत करने और प्रिंट करने की क्षमता के साथ क्रॉस-प्लेटफ़ॉर्म एप्लिकेशन बनाने में सक्षम है। Python एक्सेल API न केवल स्प्रेडशीट प्रारूपों के बीच परिवर्तित होता है, बल्कि यह एक्सेल फाइलों को छवियों, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT और अधिक के रूप में भी प्रस्तुत कर सकता है, इस प्रकार यह उद्योग-मानक प्रारूपों में दस्तावेजों का आदान-प्रदान करने के लिए एक आदर्श विकल्प बन जाता है।
  
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Python ऑनलाइन निःशुल्क में पावरप्वाइंट पर छवि सहेजें" %}}
+{{% blocks/products/pf/agp/content h2="Python में छवि को पावरपॉइंट में सहेजें" %}}
 
 निम्नलिखित उदाहरण दर्शाता है कि Python में IMAGE को POWERPOINT में कैसे परिवर्तित किया जाए।
 {{% blocks/products/pf/agp/text %}}
@@ -27,7 +27,7 @@ IMAGE को POWERPOINT में बदलने के लिए आसान 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="छवि को ऑनलाइन पॉवरपॉइंट में बदलने के लिए निःशुल्क ऐप और नमूना कोड" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="png" outformat="pptx" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="छवि को पावरपॉइंट में बदलने के लिए नमूना कोड" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="png" outformat="pptx" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="Python के माध्यम से इमेज को पावरपॉइंट में कैसे बदलें" %}}
 
@@ -63,19 +63,19 @@ IMAGE को POWERPOINT में बदलने के लिए आसान 
 
 {{% blocks/products/pf/agp/text %}}
 
-Aspose.Cells for Python via Java प्लेटफ़ॉर्म-स्वतंत्र API है और इसे किसी भी प्लेटफ़ॉर्म (Windows, लिनक्स और मैकओएस) पर उपयोग किया जा सकता है, बस सुनिश्चित करें कि सिस्टम में Java 1.8 या उच्चतर है,[Python](https://www.python.org/downloads/) 3.5 या उच्चतर.
+ Aspose.Cells for Python via Java प्लेटफ़ॉर्म-स्वतंत्र API है और इसे किसी भी प्लेटफ़ॉर्म (Windows, लिनक्स और मैकओएस) पर उपयोग किया जा सकता है, बस सुनिश्चित करें कि सिस्टम में Java 1.8 या उच्चतर है,[Python](https://www.python.org/downloads/) 3.5 या उच्चतर.
  
 {{% /blocks/products/pf/agp/text %}}
 
 -  Java स्थापित करें और इसे PATH पर्यावरण चर में जोड़ें, उदाहरण के लिए:<code>PATH=C:\Program Files\Java\jdk1.8.0_131;</code>.
-- Aspose.Cells for Python से इंस्टॉल करें<a href="https://pypi.org/project/aspose-cells/">pypi</a> , कमांड का उपयोग इस प्रकार करें:<code>$ pip install aspose-cells</code>.
+-  Aspose.Cells for Python से इंस्टॉल करें<a href="https://pypi.org/project/aspose-cells/">pypi</a> , कमांड का उपयोग इस प्रकार करें:<code>$ pip install aspose-cells</code>.
 
 {{% /blocks/products/pf/agp/content %}}
 
 <!-- aboutfile Starts -->
     {{< blocks/products/pf/agp/about-file-section >}}
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="IMAGE" readMoreLink="https://docs.fileformat.com/image/png/" >}}PNG (पोर्टेबल नेटवर्क ग्राफ़िक्स) फ़ाइल एक रेखापुंज छवि फ़ाइल स्वरूप है जो दोषरहित संपीड़न का उपयोग करती है। यह फ़ाइल प्रारूप ग्राफ़िक्स इंटरचेंज प्रारूप (GIF) के प्रतिस्थापन के रूप में बनाया गया था और इसकी कोई कॉपीराइट सीमा नहीं है। हालाँकि, PNG फ़ाइल स्वरूप एनिमेशन का समर्थन नहीं करता है। PNG फ़ाइल स्वरूप दोषरहित छवि संपीड़न का समर्थन करता है जो इसे अपने उपयोगकर्ताओं के बीच लोकप्रिय बनाता है। समय बीतने के साथ, PNG व्यापक रूप से उपयोग किए जाने वाले छवि फ़ाइल स्वरूपों में से एक के रूप में विकसित हुआ है।{{< /blocks/products/pf/agp/i18n/about-file-text >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="POWERPOINT" readMoreLink="https://docs.fileformat.com/presentation/pptx/" >}}PPTX एक्सटेंशन वाली फ़ाइलें लोकप्रिय Microsoft PowerPoint एप्लिकेशन के साथ बनाई गई प्रस्तुति फ़ाइलें हैं। प्रेजेंटेशन फ़ाइल प्रारूप पीपीटी के पिछले संस्करण के विपरीत, जो बाइनरी था, PPTX प्रारूप Microsoft PowerPoint ओपन XML प्रेजेंटेशन फ़ाइल प्रारूप पर आधारित है। प्रेजेंटेशन फ़ाइल स्लाइडों का एक संग्रह है जहां प्रत्येक स्लाइड में टेक्स्ट, चित्र, फ़ॉर्मेटिंग, एनिमेशन और अन्य मीडिया शामिल हो सकते हैं। इन स्लाइडों को कस्टम प्रेजेंटेशन सेटिंग्स के साथ स्लाइड शो के रूप में दर्शकों के सामने प्रस्तुत किया जाता है।{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="POWERPOINT" readMoreLink="https://docs.fileformat.com/presentation/pptx/" >}}PPTX एक्सटेंशन वाली फ़ाइलें लोकप्रिय Microsoft PowerPoint एप्लिकेशन के साथ बनाई गई प्रस्तुति फ़ाइलें हैं। प्रेजेंटेशन फ़ाइल प्रारूप PPT के पिछले संस्करण के विपरीत, जो बाइनरी था, PPTX प्रारूप Microsoft PowerPoint ओपन एक्सएमएल प्रेजेंटेशन फ़ाइल प्रारूप पर आधारित है। प्रेजेंटेशन फ़ाइल स्लाइडों का एक संग्रह है जहां प्रत्येक स्लाइड में टेक्स्ट, चित्र, फ़ॉर्मेटिंग, एनिमेशन और अन्य मीडिया शामिल हो सकते हैं। इन स्लाइडों को कस्टम प्रेजेंटेशन सेटिंग्स के साथ स्लाइड शो के रूप में दर्शकों के सामने प्रस्तुत किया जाता है।{{< /blocks/products/pf/agp/i18n/about-file-text >}}
     {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->
 

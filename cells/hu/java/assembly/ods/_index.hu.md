@@ -2,6 +2,7 @@
 title:  Jelentések generálása ODS fájlokban via Java
 weight: 2440
 description: Java mintakód a ODS formátumú jelentések létrehozásához a Java futási környezet JSP/JSF alkalmazásokhoz és asztali alkalmazásokhoz.
+keywords: [Java Aspose.Cells., Java Create ODS Reports Based on Predesigned Excel Template., Java Generate ODS Reports Based on Predesigned Excel Template., Java Create ODS Reports Based on Excel Template., Java Generate ODS Reports Based on Excel Template., Java Create ODS files Based on Excel Template., Java Generate ODS files Based on Excel Template]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Tömeges jelentéskészítés ODS via Java formátumban" h2="Jelentések létrehozása ODS formátumban adatforrás és sablon használatával." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="ODS" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="ODS" >}}
@@ -75,9 +76,9 @@ description: Java mintakód a ODS formátumú jelentések létrehozásához a Ja
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Excel-jelentések létrehozása ODS formátumban - C#" offSpacer="" %}}
+{{% blocks/products/pf/agp/code-block title="Excel-jelentések létrehozása ODS formátumban - Java" offSpacer="" %}}
 
-```cs
+```java
 //Create a workbook designer
 WorkbookDesigner designer = new WorkbookDesigner(workbook);
 

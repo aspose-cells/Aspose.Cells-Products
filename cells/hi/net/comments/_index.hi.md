@@ -1,6 +1,7 @@
 ---
 title: एक्सेल via .NET में टिप्पणियाँ सम्मिलित करें
 description:  C# स्रोत कोड बताते हैं कि .NET लाइब्रेरी का उपयोग करके Microsoft एक्सेल फाइलों में टिप्पणी कैसे डालें।
+keywords: [C# Aspose.Cells., add excel comments., insert excel comments., access excel comments., remove excel comments., delete excel comments., add comments in excel., insert comments in excel., access comments in excel., remove comments in excel., delete comments in excel]
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
 {{< blocks/products/pf/i18n/feature-page-header h1="Microsoft<sup>&reg;</sup> एक्सेल टिप्पणियाँ प्रविष्टि via .NET" h2="एक्सेल दस्तावेज़ बनाएं और .NET-आधारित अनुप्रयोगों में सर्वर-साइड एपीआई का उपयोग करके टिप्पणियाँ डालें।" >}}
@@ -12,7 +13,7 @@ description:  C# स्रोत कोड बताते हैं कि .NET
 
 {{% blocks/products/pf/feature-page-section h2="Excel फ़ाइल में टिप्पणियाँ सम्मिलित करें" %}}
 
- एक्सेल API का उपयोग करके टिप्पणियाँ सम्मिलित करना सरल है। प्रक्रिया है, बनाएँ[कार्यपुस्तिका कक्षा](https://reference.aspose.com/cells/net/aspose.cells/workbook) ऑब्जेक्ट करें और उसकी अनुक्रमणिका प्रदान करके पहली वर्कशीट या संबंधित शीट का चयन करें। का उपयोग करके आवश्यक सेल डेटा डालें[पुटवैल्यू विधि](https://reference.aspose.com/cells/net/aspose.cells/cell/methods/putvalue/index) . का उपयोग करके वर्कशीट में टिप्पणी जोड़ें[टिप्पणी संग्रह](https://reference.aspose.com/cells/net/aspose.cells/commentcollection) 'एस[विधि जोड़ें](https://reference.aspose.com/cells/net/aspose.cells.commentcollection/add/methods/1).
+ एक्सेल API का उपयोग करके टिप्पणियाँ सम्मिलित करना सरल है। प्रक्रिया है, बनाएँ[कार्यपुस्तिका कक्षा](https://reference.aspose.com/cells/net/aspose.cells/workbook)ऑब्जेक्ट करें और उसकी अनुक्रमणिका प्रदान करके पहली वर्कशीट या संबंधित शीट का चयन करें। का उपयोग करके आवश्यक सेल डेटा डालें[पुटवैल्यू विधि](https://reference.aspose.com/cells/net/aspose.cells/cell/methods/putvalue/index) . का उपयोग करके वर्कशीट में टिप्पणी जोड़ें[टिप्पणी संग्रह](https://reference.aspose.com/cells/net/aspose.cells/commentcollection) 'एस[विधि जोड़ें](https://reference.aspose.com/cells/net/aspose.cells.commentcollection/add/methods/1).
 
 {{% blocks/products/pf/feature-page-code h3="C# एक्सेल में टिप्पणी सम्मिलित करने के लिए कोड" %}}
 

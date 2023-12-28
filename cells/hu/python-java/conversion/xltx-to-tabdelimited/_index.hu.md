@@ -1,7 +1,7 @@
 ---
-title: Python XLTX - TABDELIMITED - Online XLTX - TABDELIMITED konverter
-description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Ingyenes online Python A XLTX konvertálása TABDELIMITED mentési formátumra. Python XLTX TABDELIMITED formátumba. Mentse a XLTX számot a TABDELIMITED Python számra.
-keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python XLTX to TABDELIMITED saveformat., Free Online XLTX to TABDELIMITED Python., Python Convert XLTX to TABDELIMITED]
+title: Python XLTX - TABDELIMITED - XLTX - TABDELIMITED konverter
+description: Aspose Excel. A XLTX-et gyorsan és egyszerűen konvertálja TABDELIMITED-re a Aspose.Cells-es számmal. Python XLTX-ből TABDELIMITED. Python Mentse a XLTX számot a TABDELIMITED-be. A XLTX mentése TABDELIMITED néven a Python használatával.
+keywords: [Aspose Excel., Python Aspose.Cells., Convert XLTX to TABDELIMITED in Python., Save XLTX to TABDELIMITED using Python., Python XLTX to TABDELIMITED saveformat., XLTX to TABDELIMITED Converter., Python Save XLTX as TABDELIMITED]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Konvertálja a XLTX-et TABDELIMITED-re a Python-ben" h2="Nagy sebességű Python-es könyvtár a XLTX-es szám TAB-ra konvertálásáhozDELIMITED. Ez egy professzionális szoftvermegoldás a XLTX, TABDELIMITED és sok más formátum importálásához és exportálásához a Python használatával." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="TABDELIMITED" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,11 +12,11 @@ keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python XLT
 
 {{% blocks/products/pf/agp/content h2="XLTX konvertálása TABLEDELIMITED-re a Python használatával" %}}
 
- Hogyan alakíthatom át a XLTX-et TABDELIMITED-re? A Aspose.Cells for Python könyvtárral egyszerűen konvertálhatja a XLTX-et TABDELIMITED-re, néhány soros kóddal.[Aspose.Cells for Python](https://pypi.org/project/aspose-cells)képes többplatformos alkalmazásokat létrehozni, módosítani, konvertálni, renderelni és kinyomtatni az összes Excel fájlt. Python Excel API nem csak a táblázatformátumok között konvertál, hanem Excel fájlokat is képes megjeleníteni képként, PDF, HTML, ODS, CSV, CSV, CSV, CSV, CSV, CSV, SVG, és így tovább, SVG P, 8 PT a választás,3,8 ipari szabvány szerinti dokumentumok cseréjére formátumok.
+ Hogyan alakíthatom át a XLTX-et TABDELIMITED-re? A Aspose.Cells for Python könyvtárral egyszerűen konvertálhatja a XLTX-et TABDELIMITED-re, néhány soros kóddal.[Aspose.Cells for Python](https://pypi.org/project/aspose-cells)képes többplatformos alkalmazásokat létrehozni, módosítani, konvertálni, renderelni és kinyomtatni az összes Excel fájlt. Python Az Excel API nemcsak a táblázatformátumok között konvertál, hanem Excel-fájlokat is képes megjeleníteni képként, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT és egyebekként, így tökéletes választás a szabványos formátumú dokumentumok cseréjéhez.
  
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Takarítson meg XLTX-et a TABDELIMITED-en a Python-ben online ingyen" %}}
+{{% blocks/products/pf/agp/content h2="Mentse el a XLTX-et a TABDELIMITED-hez itt: Python" %}}
 
 A következő példa bemutatja, hogyan alakíthatja át a XLTX-et TABDELIMITED-re a Python-ben.
 {{% blocks/products/pf/agp/text %}}
@@ -27,13 +27,13 @@ Kövesse az egyszerű lépéseket a XLTX TABDELIMITED-re konvertálásához. Tö
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Ingyenes alkalmazás és mintakód a XLTX konvertálásához TABDELIMITED online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xltx" outformat="tsv" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="Mintakód a XLTX TAB-ra konvertálásáhozDELIMITED" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xltx" outformat="tsv" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="A XLTX konvertálása TABDELIMITED-re a Python-en keresztül" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
-XLTX fájlt TABDELIMITED-re kell programozottan konvertálni? A Python fejlesztők könnyedén betölthetik és átalakíthatják a XLTX-et TABDELIMITED-re, mindössze néhány sornyi kóddal.
+A XLTX fájlt TABDELIMITED-re kell programozottan konvertálni? A Python fejlesztők könnyedén betölthetik és átalakíthatják a XLTX-et TABDELIMITED-re, mindössze néhány sornyi kóddal.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -63,12 +63,12 @@ Három lehetőség közül választhat a „Aspose.Cells for Python via Java” 
 
 {{% blocks/products/pf/agp/text %}}
 
-Aspose.Cells for Python via Java platformfüggetlen API, és bármilyen platformon használható (Windows, Linux és MacOS), csak győződjön meg arról, hogy a rendszer Java 1.8 vagy újabb[Python](https://www.python.org/downloads/) 3,5 vagy magasabb.
+ Aspose.Cells for Python via Java platformfüggetlen API, és bármilyen platformon használható (Windows, Linux és MacOS), csak győződjön meg arról, hogy a rendszer Java 1.8 vagy újabb[Python](https://www.python.org/downloads/) 3,5 vagy magasabb.
  
 {{% /blocks/products/pf/agp/text %}}
 
 -  Telepítse a Java-et, és adja hozzá a PATH környezeti változóhoz, például:<code>PATH=C:\Program Files\Java\jdk1.8.0_131;</code>.
-- Telepítés: Aspose.Cells for Python innen<a href="https://pypi.org/project/aspose-cells/">pypi</a> , használja a parancsot a következőképpen:<code>$ pip install aspose-cells</code>.
+-  Telepítés: Aspose.Cells for Python innen<a href="https://pypi.org/project/aspose-cells/">pypi</a> , használja a parancsot a következőképpen:<code>$ pip install aspose-cells</code>.
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -102,7 +102,7 @@ Aspose.Cells for Python via Java platformfüggetlen API, és bármilyen platform
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xltx-to-xltm/" name="XLTX-XLTM" description="Excel-makró-kompatibilis sablon" >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xltx-to-xml/" name="XLTX XML-RE" description="Bővíthető jelölőnyelv" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xltx-to-xps/" name="XLTX-XPS" description="XML papírspecifikációk" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xltx-to-xps/" name="XLTX-XPS" description="XML papír specifikációk" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xltx-to-json/" name="XLTX-JSON" description="JavaScript objektum jelölés" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}

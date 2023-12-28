@@ -32,7 +32,7 @@ Felejtse el a platformot, csak küldjön egy REST API hívást a Microsoft Excel
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/product pfName="Aspose.Cells" title="Cloud SDK for .NET" imgSrc="https://www.aspose.cloud/templates/asposecloud/App_Themes/V3/images/sdk/272x272/aspose_cells-for-net.png" productLink="https://products.aspose.cloud/cells/net" >}}
-nyílt forráskódú SDK-t kifejezetten arra tervezték, hogy megkönnyítse a .NET programozók számára a Aspose.Cells RESTFul API-k egyszerű használatát.
+A nyílt forráskódú SDK-t kifejezetten arra tervezték, hogy megkönnyítse a .NET programozók számára a Aspose.Cells RESTFul API-k egyszerű használatát.
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/product pfName="Aspose.Cells" title="Cloud SDK for Java" imgSrc="https://www.aspose.cloud/templates/asposecloud/App_Themes/V3/images/sdk/272x272/aspose_cells-for-java.png" productLink="https://products.aspose.cloud/cells/java" >}}

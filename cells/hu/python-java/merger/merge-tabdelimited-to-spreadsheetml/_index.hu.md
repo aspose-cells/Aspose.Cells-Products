@@ -1,8 +1,8 @@
 ---
 title: TABDELIMITED egyesítése SPREADSHEETML-be – TABDELIMITED egyesítése SPREADSHEETML-be a Python-ben
 url: /hu/python-java/merger/merge-tabdelimited-to-spreadsheetml/ 
-description: Aspose Excel. Python Aspose.Cells. Ingyenes online egyesítés TABDELIMITED SPREADSHEETML mentési formátumba. Python TABDELIMITED kombinálása SPREADSHEETML formátumba. TABDELIMITED egyesítése SPREADSHEETML-be a Python-ben. TABDELIMITED Egyesítés.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge TABDELIMITED to SPREADSHEETML in Python., Free Online Python Merge TABDELIMITED to spreadsheetml., Python Combine TABDELIMITED to SPREADSHEETML Online for Free., TABDELIMITED Merge]
+description: Aspose Excel. Python Aspose.Cells. A TABDELIMITED egyesítése SPREADSHEETML mentési formátumba. Python TABDELIMITED kombinálása SPREADSHEETML formátumba. TABDELIMITED egyesítése SPREADSHEETML-be a Python-ben. TABDELIMITED Egyesítés.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge TABDELIMITED to SPREADSHEETML in Python., Python Merge TABDELIMITED to spreadsheetml., Python Combine TABDELIMITED to SPREADSHEETML., TABDELIMITED Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="TABDELIMITED egyesítése SPREADSHEETML-lel a Python számon keresztül" h2="Nagy sebességű Python-es könyvtár a TABDELIMITED SPREADSHEETML-be egyesítéséhez. Használja a API-es excel-konverziónkat magas szintű, platformfüggetlen szoftverek fejlesztéséhez a Python-ben. Ez egy professzionális szoftvermegoldás a Excel, CSV, OpenOffice, PDF, HTML, image és sok más excel formátum importálásához és exportálásához." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="TABDELIMITED" additionalConversionTag="SPREADSHEETML" pfName="Aspose.Cells" subTitlepfName="for Python" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -12,12 +12,12 @@ keywords: [Aspose Excel., Python Aspose.Cells., Merge TABDELIMITED to SPREADSHEE
 
 {{% blocks/products/pf/agp/content h2="TABDELIMITED egyesítése a SPREADSHEETML-be a Python használatával" %}}
 
- Hogyan egyesíthetem a TABDELIMITED-et SPREADSHEETML-lel? A Aspose.Cells for Python via Java könyvtárral egyszerűen egyesítheti a TABDELIMITED-et a SPREADSHEETML-lel, néhány sornyi kóddal programozottan.[Aspose.Cells for Python via Java](https://pypi.org/project/aspose-cells)képes többplatformos alkalmazásokat létrehozni, módosítani, konvertálni, renderelni és kinyomtatni az összes Excel fájlt. Python Excel API nem csak a táblázatformátumok között konvertál, hanem Excel fájlokat is képes megjeleníteni képként, PDF, HTML, ODS, CSV, CSV, CSV, CSV, CSV, CSV, SVG, és így tovább, SVG P, 8 PT a választás,3,8 ipari szabvány szerinti dokumentumok cseréjére formátumok. A Aspose.Cells for Python via Java számot innen telepítheti.<a href="https://pypi.org/project/aspose-cells/">pypi</a> , használja a parancsot a következőképpen:<code>$ pip install aspose-cells</code>.
+ Hogyan egyesíthetem a TABDELIMITED-et SPREADSHEETML-lel? A Aspose.Cells for Python via Java könyvtárral egyszerűen egyesítheti a TABDELIMITED-et a SPREADSHEETML-lel, néhány sornyi kóddal programozottan.[Aspose.Cells for Python via Java](https://pypi.org/project/aspose-cells) képes többplatformos alkalmazásokat létrehozni, módosítani, konvertálni, renderelni és kinyomtatni az összes Excel fájlt. Python Az Excel API nemcsak a táblázatformátumok között konvertál, hanem Excel-fájlokat is képes megjeleníteni képként, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT és egyebekként, így tökéletes választás a szabványos formátumú dokumentumok cseréjéhez. Telepítheti a Aspose.Cells for Python via Java számot innen<a href="https://pypi.org/project/aspose-cells/">pypi</a> , használja a parancsot a következőképpen:<code>$ pip install aspose-cells</code>.
 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="TABDELIMITED egyesítése SPREADSHEETML-be a Python-ben online ingyen" %}}
+{{% blocks/products/pf/agp/content h2="TABDELIMITED egyesítése SPREADSHEETML-be a Python-ben" %}}
 
 A következő példa bemutatja, hogyan lehet egyesíteni a TABDELIMITED fájlt a SPREADSHEETML-lel a Aspose.Cells for Python via Java számon.
 {{% blocks/products/pf/agp/text %}}
@@ -28,7 +28,7 @@ Kövesse az egyszerű lépéseket a TABDELIMITED és a SPREADSHEETML egyesítés
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Ingyenes online a TABDELIMITED egyesítése SPREADSHEETML-be a Python-ben" InputFormat="tsv" InputFormat2="xml" outformat="xml" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-merger title="Mintakód a TABDELIMITED SPREADSHEETML-be egyesítéséhez a Python-ben" InputFormat="tsv" InputFormat2="xml" outformat="xml" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="A TABDELIMITED egyesítése SPREADSHEETML-be a Python számon keresztül" %}}
 
@@ -73,7 +73,7 @@ API-jaink minden nagyobb platformon és operációs rendszeren támogatottak. Mi
 
 -  Telepítse a Java 1.8-as vagy újabb verziót, és adja hozzá a PATH környezeti változóhoz, például:<code>PATH=C:\Program Files\Java\jdk1.8.0_131;</code>.
 -  Telepítés[Python](https://www.python.org/downloads/) 3,5 vagy magasabb.
-- Telepítés: Aspose.Cells for Python innen<a href="https://pypi.org/project/aspose-cells/">pypi</a> , használja a parancsot a következőképpen:<code>$ pip install aspose-cells</code>.
+-  Telepítés: Aspose.Cells for Python innen<a href="https://pypi.org/project/aspose-cells/">pypi</a> , használja a parancsot a következőképpen:<code>$ pip install aspose-cells</code>.
 
 
 {{% /blocks/products/pf/agp/content %}}
@@ -85,7 +85,7 @@ API-jaink minden nagyobb platformon és operációs rendszeren támogatottak. Mi
     {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="Egyéb támogatott egyesítő formátumok" subTitle="Python használatával tabulátorral elválasztva is egyesíthető számos más fájlformátumhoz, beleértve." >}}
+{{< blocks/products/pf/agp/other-supported-section title="Egyéb támogatott egyesítő formátumok" subTitle="A Python használatával tabulátorral elválasztva is egyesíthető számos más fájlformátumhoz, beleértve." >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-tabdelimited-to-docx/" name="TABDELIMITED egyesítése a DOCX számmal" description="Microsoft Word dokumentum" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-tabdelimited-to-sql/" name="TABDELIMITED egyesítése SQL-be" description="Strukturált lekérdezési nyelv" >}}
@@ -110,7 +110,7 @@ API-jaink minden nagyobb platformon és operációs rendszeren támogatottak. Mi
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-tabdelimited-to-xltm/" name="TABDELIMITED egyesítése a XLTM számmal" description="Excel-makró-kompatibilis sablon" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-tabdelimited-to-xltx/" name="TABDELIMITED egyesítése a XLTX számmal" description="Office OpenXML Excel sablon" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-tabdelimited-to-xml/" name="TABDELIMITED egyesítése XML-be" description="Bővíthető jelölőnyelv" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-tabdelimited-to-xps/" name="TABDELIMITED egyesítése a XPS számmal" description="XML papírspecifikációk" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-tabdelimited-to-xps/" name="TABDELIMITED egyesítése a XPS számmal" description="XML papír specifikációk" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-tabdelimited-to-json/" name="TABDELIMITED egyesítése a JSON számmal" description="JavaScript objektum jelölés" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-tabdelimited-to-jpeg/" name="TABDELIMITED egyesítése a JPEG számmal" description="JPEG Kép" >}}
 

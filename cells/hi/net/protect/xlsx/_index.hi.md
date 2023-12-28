@@ -1,7 +1,8 @@
 ---
-title: XLSX दस्तावेज़ via .NET को सुरक्षित रखें और लॉक करें
+title:  XLSX दस्तावेज़ via .NET को सुरक्षित रखें और लॉक करें
 weight: 90
 description: .NET फ्रेमवर्क, .NET कोर, Mono या ज़ामरिन प्लेटफ़ॉर्म पर पासवर्ड का उपयोग करके XLSX फ़ाइल को लॉक करने के लिए C# स्रोत कोड।
+keywords: [C# Aspose.Cells., c# Lock XLSX files., c# How to Protect and lock XLSX document., c# Protect XLSX files., Encrypt XLSX Files using C#]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="XLSX फ़ाइलों को C# के माध्यम से एन्क्रिप्ट करें" h2=".NET लाइब्रेरी का उपयोग करके XLSX प्रारूप सहित एक्सेल स्प्रेडशीट को पासवर्ड से सुरक्षित करें।" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSX" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}

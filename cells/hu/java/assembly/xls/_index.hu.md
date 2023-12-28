@@ -2,6 +2,7 @@
 title:  Jelentések generálása XLS fájlokban via Java
 weight: 1090
 description: Java mintakód a XLS formátumú jelentések létrehozásához a Java futási környezet JSP/JSF alkalmazásokhoz és asztali alkalmazásokhoz.
+keywords: [Java Aspose.Cells., Java Create XLS Reports Based on Predesigned Excel Template., Java Generate XLS Reports Based on Predesigned Excel Template., Java Create XLS Reports Based on Excel Template., Java Generate XLS Reports Based on Excel Template., Java Create XLS files Based on Excel Template., Java Generate XLS files Based on Excel Template]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Tömeges jelentéskészítés XLS via Java formátumban" h2="Jelentések létrehozása XLS formátumban adatforrás és sablon használatával." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLS" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLS" >}}
@@ -75,9 +76,9 @@ description: Java mintakód a XLS formátumú jelentések létrehozásához a Ja
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Excel-jelentések létrehozása XLS formátumban - C#" offSpacer="" %}}
+{{% blocks/products/pf/agp/code-block title="Excel-jelentések létrehozása XLS formátumban - Java" offSpacer="" %}}
 
-```cs
+```java
 //Create a workbook designer
 WorkbookDesigner designer = new WorkbookDesigner(workbook);
 

@@ -1,7 +1,8 @@
 ---
-title:  वॉटरमार्क XLS दस्तावेज़ via Java
+title: वॉटरमार्क XLS दस्तावेज़ via Java
 weight: 2210
 description: JSP/JSF एप्लिकेशन और डेस्कटॉप एप्लिकेशन के लिए Java रनटाइम एनवायरमेंट पर XLS फ़ाइल में वॉटरमार्क जोड़ने या हटाने के लिए Java नमूना कोड।
+keywords: [Java Aspose.Cells., Java add watermark to xls file., Java insert watermark to xls file., Java create watermark in xls file., remove watermark from xls file using Java., Java operate watermark in xls file., Java access watermark in xls file]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="XLS via Java पर टेक्स्ट वॉटरमार्क जोड़ें" h2="सर्वर-साइड एपीआई का उपयोग करके XLS फ़ाइलों को वॉटरमार्क करने के लिए अपने स्वयं के Java ऐप्स बनाएं।" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLS" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="" fileiconsmall1="PPTX" fileiconsmall2="DOCX" fileiconsmall3="XLSX" fileiconsmall4="PDF" fileiconsmall5=" ODP " >}}

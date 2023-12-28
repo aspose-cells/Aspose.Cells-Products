@@ -46,7 +46,7 @@ description: एक्सेल फ़ाइल को Python कोड मे�
 
 -  Java 1.8 या उच्चतर स्थापित करें और इसे PATH पर्यावरण चर में जोड़ें, उदाहरण के लिए:<code>PATH=C:\Program Files\Java\jdk1.8.0_131;</code>.
 -  स्थापित करना[Python](https://www.python.org/downloads/) 3.5 या उच्चतर.
-- Aspose.Cells for Python से इंस्टॉल करें<a href="https://pypi.org/project/aspose-cells/">pypi</a> , कमांड का उपयोग इस प्रकार करें:<code>$ pip install aspose-cells</code>.
+-  Aspose.Cells for Python से इंस्टॉल करें<a href="https://pypi.org/project/aspose-cells/">pypi</a> , कमांड का उपयोग इस प्रकार करें:<code>$ pip install aspose-cells</code>.
 
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

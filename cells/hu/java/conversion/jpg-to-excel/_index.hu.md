@@ -1,7 +1,7 @@
 ---
-title: Java JPG-ből EXCEL-be - Online JPG-ből EXCEL-be konvertáló
-description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Ingyenes online Java JPG konvertálása EXCEL mentési formátumba. Java JPG EXCEL formátumba. JPG mentése EXCEL Java-be.
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java JPG to EXCEL saveformat., Free Online JPG to EXCEL Java., Java Convert JPG to EXCEL]
+title: Java JPG-ből EXCEL-be - JPG-ből EXCEL-be konvertáló
+description: Aspose Excel. A Aspose.Cells. Java JPG-t EXCEL-re gyorsan és egyszerűen konvertálja EXCEL-be. Java JPG mentése EXCEL-be. JPG mentése EXCEL formátumban a Java használatával.
+keywords: [Aspose Excel., Java Aspose.Cells., Convert JPG to EXCEL in Java., Save JPG to EXCEL using Java., Java JPG to EXCEL saveformat., JPG to EXCEL Converter., Java Save JPG as EXCEL]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Konvertálja a JPG-t EXCEL-re a Java-ben" h2="Nagy sebességű Java könyvtár a JPG EXCEL formátumba konvertálásához. Ez egy professzionális szoftvermegoldás JPG, EXCEL és sok más formátum importálásához és exportálásához a Java használatával." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="EXCEL" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java JPG to EX
 
 {{% blocks/products/pf/agp/content h2="Konvertálja a JPG-t EXCEL-re a Java használatával" %}}
 
- Hogyan konvertálhatom a JPG-t EXCEL-re? A Aspose.Cells for Java könyvtárral egyszerűen konvertálhat JPG-t EXCEL formátumba programozottan néhány sornyi kóddal.[Aspose.Cells for Java](https://products.aspose.com/cells/java) képes többplatformos alkalmazásokat létrehozni, módosítani, konvertálni, renderelni és kinyomtatni az összes Excel fájlt. Java Excel API nem csak a táblázatformátumok között konvertál, hanem Excel fájlokat is képes megjeleníteni képként, PDF, HTML, ODS, CSV, CSV, CSV, CSV, CSV, CSV, SVG, és így tovább, SVG P, 8 PT a választás,3,8 ipari szabvány szerinti dokumentumok cseréjére formátumok. A legújabb verziót közvetlenül a webhelyről töltheti le[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) és telepítse a Maven alapú projekten belül a következő konfigurációk hozzáadásával a pom.xml fájlhoz.
+ Hogyan konvertálhatom a JPG-t EXCEL-re? A Aspose.Cells for Java könyvtárral egyszerűen konvertálhat JPG-t EXCEL formátumba programozottan néhány sornyi kóddal.[Aspose.Cells for Java](https://products.aspose.com/cells/java)képes többplatformos alkalmazásokat létrehozni, módosítani, konvertálni, renderelni és kinyomtatni az összes Excel fájlt. Java Az Excel API nemcsak a táblázatformátumok között konvertál, hanem Excel-fájlokat is képes megjeleníteni képként, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT és egyebekként, így tökéletes választás a szabványos formátumú dokumentumok cseréjéhez. A legújabb verziót közvetlenül a webhelyről töltheti le[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) és telepítse a Maven alapú projekten belül a következő konfigurációk hozzáadásával a pom.xml fájlhoz.
 
 {{% blocks/products/pf/agp/code-block title="Adattár" offSpacer="true" %}}
 
@@ -45,7 +45,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java JPG to EX
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Mentse el a JPG-t EXCEL-be a Java-es számon online ingyen" %}}
+{{% blocks/products/pf/agp/content h2="Mentse el a JPG-t EXCEL-be a Java számon" %}}
 
 A következő példa bemutatja, hogyan lehet JPG-t EXCEL-re konvertálni a Java-ben.
 {{% blocks/products/pf/agp/text %}}
@@ -56,7 +56,7 @@ Kövesse az egyszerű lépéseket a JPG EXCEL formátumba konvertálásához. T�
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Ingyenes alkalmazás és mintakód a JPG EXCEL Online konvertálásához" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="jpg" outformat="xlsx" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Mintakód a JPG EXCEL formátumba konvertálásához" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="jpg" outformat="xlsx" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="Hogyan lehet JPG-t EXCEL via Java-re konvertálni" %}}
 
@@ -70,7 +70,7 @@ Programozottan kell konvertálnia a JPG fájlokat EXCEL formátumba? A Java fejl
 1.  Adjon hozzá egy könyvtári hivatkozást (importálja a könyvtárat) a Java projekthez.
 1.  Töltsön be JPG-fájlt a Workbook osztály egy példányával.
 1.  Konvertálja a JPG-t EXCEL-re a Workbook.save metódus meghívásával.
-1.  Szerezze meg a JPG-ből EXCEL formátumba konvertáló eredményt.
+1. Szerezze meg a JPG-ből EXCEL formátumba konvertáló eredményt.
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -102,7 +102,7 @@ Programozottan kell konvertálnia a JPG fájlokat EXCEL formátumba? A Java fejl
     {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="Egyéb támogatott konverziók" subTitle="A JPG-t számos más fájlformátumra is konvertálhatja, köztük néhány alább felsorolt fájlformátumra." >}}
+{{< blocks/products/pf/agp/other-supported-section title="Egyéb támogatott konverziók" subTitle="A JPG-t sok más fájlformátumra is konvertálhatja, beleértve az alábbiakban felsorolt néhányat." >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/jpg-to-bmp/" name="JPG - BMP" description="Bittérképes kép" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/jpg-to-emf/" name="JPG - EMF" description="Továbbfejlesztett metafájl formátum" >}}
@@ -125,7 +125,7 @@ Programozottan kell konvertálnia a JPG fájlokat EXCEL formátumba? A Java fejl
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/jpg-to-xltm/" name="JPG - XLTM" description="Excel-makró-kompatibilis sablon" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/jpg-to-xltx/" name="JPG - XLTX" description="Office OpenXML Excel sablon" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/jpg-to-xml/" name="JPG-ből XML-be" description="Bővíthető jelölőnyelv" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/jpg-to-xps/" name="JPG - XPS" description="XML papírspecifikációk" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/jpg-to-xps/" name="JPG - XPS" description="XML papír specifikációk" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/jpg-to-json/" name="JPG - JSON" description="JavaScript objektum jelölés" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/jpg-to-jpeg/" name="JPG - JPEG" description="JPEG Kép" >}}
 

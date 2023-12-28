@@ -1,7 +1,8 @@
 ---
 title:  PivotTable beszúrása a Micorsoft Excel XLSM fájlba a C# számon keresztül
 weight: 7690
-description: C# Mintakód a XLSM számú dokumentumok PivotTable segítségével történő előállításához. Ezzel a kóddal hozhat létre Micorsoft Excel XLSM fájlokat a VB.NET, Asp.NET vagy bármely .NET alapú alkalmazáson belüli kimutatással.
+description: C# Mintakód a kimutatás XLSM-hez való hozzáadásához a .NET könyvtár használatával. Használja ezt a kódot a kimutatás beszúrásához a XLSM fájlba VB.NET, Asp.NET vagy bármely .NET alapú alkalmazáson belül.
+keywords: [C# Aspose.Cells., c# add PivotTable in xlsm., c# insert PivotTable in xlsm., c# create PivotTable in xlsm., c# modify PivotTable in xlsm., access PivotTable in xlsm., c# add pivot table in xlsm., c# insert pivot table in xlsm., c# create pivot table in xlsm., c# modify pivot table in xlsm., access pivot table in xlsm]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="PivotTable beszúrása a XLSM dokumentumokba a C#-en keresztül" h2="Natív és nagy teljesítményű Microsoft Excel XLSM táblázat a kimutatástáblázat programozott létrehozásával, kiszolgálóoldali .NET API-k használatával." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSM" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSM" >}}
@@ -11,9 +12,7 @@ description: C# Mintakód a XLSM számú dokumentumok PivotTable segítségével
 
 {{% blocks/products/pf/agp/content h2="" %}}
 
- Az MS Excel XLSM fájl dinamikus előállítása a PivotTable segítségével a futó alkalmazáson belül egyszerű. Annak érdekében, hogy a XLSM számú dokumentumokat a semmiből hozzuk létre a PivotTable segítségével, MS Office használata nélkül,
- [Aspose.Cells for .NET](https://products.aspose.com/cells/net) 
- API, amely különböző funkciókat kínál a táblázatok létrehozásához, kezeléséhez és konvertálásához a .NET platformon. A fejlesztők egyszerűen javíthatják a kódot az adatok írásához, diagramok vagy grafikonok generálásához, valamint táblázatok készítéséhez.
+ Az MS Excel XLSM fájl dinamikus előállítása a PivotTable segítségével a futó alkalmazáson belül egyszerű. Annak érdekében, hogy a XLSM számú dokumentumokat a semmiből hozzuk létre a PivotTable segítségével, MS Office használata nélkül,[Aspose.Cells for .NET](https://products.aspose.com/cells/net) API, amely különböző funkciókat kínál a táblázatok létrehozásához, kezeléséhez és konvertálásához a .NET platformon. A fejlesztők egyszerűen javíthatják a kódot az adatok írásához, diagramok vagy grafikonok generálásához, valamint táblázatok készítéséhez.
 {{% /blocks/products/pf/agp/content %}}
 
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
@@ -22,7 +21,7 @@ description: C# Mintakód a XLSM számú dokumentumok PivotTable segítségével
 
 {{% blocks/products/pf/agp/text %}}
 
- fejlesztők könnyen beilleszthetik a kimutatást a XLSM formátumú táblázatba a különböző jelentéskészítő alkalmazásokba, amelyek adatfeldolgozás céljából mindössze néhány sornyi kóddal.
+ A fejlesztők könnyen beilleszthetik a kimutatást a XLSM formátumú táblázatba a különböző jelentéskészítő alkalmazásokba, amelyek adatfeldolgozás céljából mindössze néhány sornyi kóddal.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -31,7 +30,7 @@ description: C# Mintakód a XLSM számú dokumentumok PivotTable segítségével
 1.  Nyissa meg a munkafüzet első munkalapját.
 1.  Szerezze meg a munkalap kívánt celláit, és írja be az értéket a cellákba.
 1.  Helyezze be a PivotTable-t, és állítsa be a stílust
-1.  Mentés módszerrel mentheti a munkafüzetet XLSM fájlként.
+1.  A Mentés módszerrel mentheti a munkafüzetet XLSM fájlként.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -39,7 +38,7 @@ description: C# Mintakód a XLSM számú dokumentumok PivotTable segítségével
 
 {{% blocks/products/pf/agp/text %}}
 
- Csak győződjön meg arról, hogy a rendszer Microsoft Windows vagy kompatibilis operációs rendszerrel rendelkezik .NET Framework, .NET Core, Windows Azure, Mono vagy Xamarin Platformokkal, valamint Visu71616340-hoz hasonló fejlesztői környezettel.
+Csak győződjön meg arról, hogy a rendszer Microsoft Windows vagy kompatibilis operációs rendszerrel rendelkezik .NET Framework, .NET Core, Windows Azure, Mono vagy Xamarin Platformokkal, valamint Visu71616340-hoz hasonló fejlesztői környezettel.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -68,7 +67,7 @@ Egy Excel táblázatkezelő programkönyvtár, amely képes többplatformos alka
 
 {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLSM" readMoreLink="https://docs.fileformat.com/spreadsheet/xlsm/" >}}
 
-XLSM kiterjesztésű fájlok olyan táblázatkezelő fájlok, amelyek támogatják a makrókat. Alkalmazási szempontból a makró a folyamatok automatizálására használt utasítások halmaza. A makró rögzíti az ismételten végrehajtott lépéseket, és megkönnyíti a műveletek végrehajtását a makró újbóli futtatásával. A makrók a Microsoft Visual Basic for Applications (VBA) programmal programozhatók az Excel-munkafüzetből a Visual Basic Editor segítségével, és onnan közvetlenül futtathatók/hibakereshetők.
+A XLSM kiterjesztésű fájlok olyan táblázatkezelő fájlok, amelyek támogatják a makrókat. Alkalmazási szempontból a makró a folyamatok automatizálására használt utasítások halmaza. A makró rögzíti az ismételten végrehajtott lépéseket, és megkönnyíti a műveletek végrehajtását a makró újbóli futtatásával. A makrók a Microsoft Visual Basic for Applications (VBA) programmal programozhatók az Excel-munkafüzetből a Visual Basic Editor segítségével, és onnan közvetlenül futtathatók/hibakereshetők.
 
 {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 

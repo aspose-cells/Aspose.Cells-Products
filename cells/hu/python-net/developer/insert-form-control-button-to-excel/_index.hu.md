@@ -2,6 +2,7 @@
 title:  Insert Button (Űrlapvezérlő) az Excelbe a Python via .Net használatával
 weight: 200
 description: Python via .Net forráskód a gomb (Űrlapvezérlő) beillesztéséhez az Excelbe.
+keywords: [Python via .Net Aspose.Cells., Python via .Net add button into Excel., Python via .Net insert button into Excel., Python via .Net create button in Excel]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Insert Button (Űrlapvezérlő) az Excelbe a Python via .Net használatával" h2="Szerveroldali API-k használatával szúrjon be objektumokat szoftver nélkül, például Microsoft vagy Open Office, Adobe PDF stb." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="" pfName="Aspose.Cells" subTitlepfName="for Python via .NET" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="XLSX" >}}
@@ -11,9 +12,9 @@ description: Python via .Net forráskód a gomb (Űrlapvezérlő) beillesztésé
 
 {{% blocks/products/pf/agp/content h2="Gomb (űrlapvezérlő) beszúrása Excel fájlba a Python via .Net használatával" %}}
 
- Ahhoz, hogy a Gombot (Űrlapvezérlő) beillesszük az Excel fájlba, használjuk
+Ahhoz, hogy a Gombot (Űrlapvezérlő) beillesszük az Excel fájlba, használjuk
  [Aspose.Cells for Python a .Neten keresztül](https://pypi.org/project/aspose-cells-python/) 
-API, amely funkciókban gazdag, hatékony és könnyen használható dokumentumkezelés API for Python .Net platformon keresztül. A API Excel-fájlok létrehozását, kezelését, konvertálását és megjelenítését biztosítja. Mindezt anélkül, hogy a Microsoft Office- vagy Excel-alkalmazásokra hagyatkozna. A következő paranccsal telepítheti a konzolról.
+ API, amely funkciókban gazdag, hatékony és könnyen használható dokumentumkezelés API for Python .Net platformon keresztül. A API Excel-fájlok létrehozását, kezelését, konvertálását és megjelenítését biztosítja. Mindezt anélkül, hogy a Microsoft Office- vagy Excel-alkalmazásokra hagyatkozna. A következő paranccsal telepítheti a konzolról.
 
 {{% blocks/products/pf/agp/code-block title="Parancs" offSpacer="true" %}}
 
@@ -37,7 +38,7 @@ Szüksége van a Aspose.Cells-es számra a következő munkafolyamat kipróbál�
 
 {{% /blocks/products/pf/agp/text %}}
 
-Munkafüzet objektum példányosítása. (vagy->Töltse be a XLSX fájlt a teljes elérési úttal.)
++ Munkafüzet objektum példányosítása. (vagy->Töltse be a XLSX fájlt a teljes elérési úttal.)
 + Válassza ki a munkalapot az indexén keresztül.
  + Használja az alakgyűjtemény hozzáadását[módszer](https://reference.aspose.com/cells/python-net/aspose.cells.drawing/shapecollection/add_button/#int-int-int-int-int-int) egy Gomb (Űrlapvezérlő) beszúrásához a kiválasztott munkalapba.
 + Mentse a munkafüzetet XLSX formátumban.

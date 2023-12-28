@@ -1,7 +1,8 @@
 ---
 title:  Python Excel-táblázat API - Aspose
 weight: 2820
-description: Python táblázatkönyvtár olvasási írási és -elemzési Excel-fájlok létrehozásához.
+description: Python könyvtár Excel fájlok létrehozásához, javításához, egyesítéséhez, elemzéséhez és konvertálásához. Az Excel konvertálása PDF, JSON, HTML, TXT és más népszerű formátumokká.
+keywords: [Python Aspose.Cells Create parse repair merge convert JSON Excel XML PDF HTML TSV SQL CSV TSV PNG JPEG and more formats]
 ---
 {{< blocks/products/pf/main-wrap-class >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Python Excel-táblázatok elemzési API-k" h2="A Python alkalmazásokon belül táblázatokat generálhat, olvashat, írhat vagy kezelhet, valamint Excel-fájlokat exportálhat több formátumba." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/headers/aspose_cells-for-python-java.svg" pfName="Aspose.Cells" subTitlepfName="for Python via Java" downloadUrl="https://releases.aspose.com/cells/python-java/" >}}
@@ -234,7 +235,7 @@ Gyűjtemények
  <div class="row">
   <div class="container">
    <h2 class="pr-ft">
-Speciális Python Excel API Funkciók
+ Speciális Python Excel API Funkciók
    </h2>
    <p>
    </p>
@@ -305,7 +306,7 @@ Speciális Python Excel API Funkciók
     <em class="fa fa-object-ungroup ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Csoportosítás hozzáadása vagy eltávolítása sorokhoz és oszlopokhoz
+Csoportosítás hozzáadása vagy eltávolítása sorokhoz és oszlopokhoz
     </p>
    </div>
    <div class="col-lg-4">
@@ -488,7 +489,7 @@ wkbk.save(SD_PATH + "houtput.html", SaveFormat.HTML);</code></pre>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
- Diagramok testreszabása
+Diagramok testreszabása
     </h2>
     <p>
 Aspose.Cells for Python via Java teljes mértékben támogatja a diagramkészítést. Könnyen hozzáadhat szabványos és testreszabott diagramokat vagy dinamikusan beállíthatja a diagramadatokat a diagram frissítéséhez vagy ebben a python könyvtárban.

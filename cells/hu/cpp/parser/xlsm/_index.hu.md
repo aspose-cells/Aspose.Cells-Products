@@ -2,6 +2,7 @@
 title:  Szöveg és képek kibontása a XLSM dokumentumból a C++ számon keresztül
 weight: 570
 description: C++ példakód szövegek és képek kinyerésére a C++ C++ C++ számú XLSM fájlból a Windows 32 bites, Windows 64 bites és a 64 bites Linux futásidejű környezethez.
+keywords: [C++ Aspose.Cells., C++ Extract text and images from XLSM file., C++ How to Parse XLSM File., C++ Extract text from XLSM file., Extract images from XLSM file using C++]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="A XLSM formátumok elemzése a C++-ben" h2="Natív és nagy teljesítményű XLSM dokumentumelemzés szerveroldali Aspose.Cells for C++ API-k segítségével, olyan szoftverek használata nélkül, mint a Microsoft vagy az Adobe PDF." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" sourceAdditionalConversionTag="" additionalConversionTag="" pfName="Aspose.Cells" subTitlepfName="for C++" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="XLSM" >}}
@@ -61,9 +62,30 @@ PM> Install-Package Aspose.Cells.Cpp
 {{% blocks/products/pf/agp/code-block title="XLSM fájlok elemzése - C++" offSpacer="" %}}
 
 ```cs
-  
 
-    
+Aspose::Cells::Startup();
+
+// extract images from Worksheets 
+// open a template Excel file
+Workbook workbook(u"sampleExtractImagesFromWorksheets.xlsm");
+
+// get the first worksheet
+Worksheet worksheet = workbook.GetWorksheets().Get(0);
+
+// get the first Picture in the first worksheet
+Picture pic = worksheet.GetPictures().Get(0);
+
+// Note: you may evaluate the image format before specifying the image path
+// define ImageOrPrintOptions
+ImageOrPrintOptions printoption;
+
+// specify the image format
+printoption.SetImageType(ImageType::Jpeg);
+
+// save the image
+pic.ToImage(u"outputExtractImagesFromWorksheets.jpg", printoption);
+
+Aspose::Cells::Cleanup();
 
 ```
 

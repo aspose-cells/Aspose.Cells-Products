@@ -1,6 +1,7 @@
 ---
 title:  Hozzon létre vonaldiagramokat a C# számon keresztül
 description: C# Mintakód vonaldiagramok készítéséhez Excelben a .NET könyvtár használatával. Használja ezt a kódot vonaldiagram létrehozásához az MS Excelhez VB.NET, Asp.NET vagy bármely .NET alapú alkalmazáson belül.
+keywords: [C# Aspose.Cells., c# add Line Chart., c# insert Line Chart., c# create Line Chart]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Hozzon létre vonaldiagramokat a C# számon keresztül" h2="Natív és nagy teljesítményű MS Excel diagramok programozott létrehozása szerveroldali .NET API-k segítségével." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSX" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -10,7 +11,7 @@ description: C# Mintakód vonaldiagramok készítéséhez Excelben a .NET könyv
 
 {{% blocks/products/pf/agp/content h2="" %}}
 
- A vonaldiagramok dinamikus létrehozása a futó alkalmazáson belül egyszerű. Annak érdekében, hogy a semmiből, az MS Office használata nélkül készíthessünk különféle diagramokat táblázatokká,[Aspose.Cells for .NET](https://products.aspose.com/cells/net) API, amely különböző funkciókat kínál a táblázatok létrehozásához, kezeléséhez és konvertálásához a .NET platformon. A Aspose.Cells számos rugalmas diagramobjektumot biztosít.
+ vonaldiagramok dinamikus létrehozása a futó alkalmazáson belül egyszerű. Annak érdekében, hogy a semmiből, az MS Office használata nélkül készíthessünk különféle diagramokat táblázatokká,[Aspose.Cells for .NET](https://products.aspose.com/cells/net) API, amely különböző funkciókat kínál a táblázatok létrehozásához, kezeléséhez és konvertálásához a .NET platformon. A Aspose.Cells számos rugalmas diagramobjektumot biztosít.
 {{% /blocks/products/pf/agp/content %}}
 
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
@@ -26,7 +27,7 @@ description: C# Mintakód vonaldiagramok készítéséhez Excelben a .NET könyv
 1. Tartalmazza a Aspose.Cells névteret
 1.  Teremt[**Munkafüzet**](https://reference.aspose.com/cells/net/aspose.cells/workbook) osztály példány.
 1. Adjon hozzá néhány adatot a munkalaphoz.
-1.  Add hozzá a[**Vonal**](https://reference.aspose.com/cells/net/aspose.cells.charts/charttype)Diagram a munkalaphoz.
+1.  Add hozzá a[**Vonal**](https://reference.aspose.com/cells/net/aspose.cells.charts/charttype) Diagram a munkalaphoz.
 1.  Hozzáférés az újhoz[**Diagram**](https://reference.aspose.com/cells/net/aspose.cells.charts/chart)tárgy.
 1.  Adja meg a diagram adatforrását a következővel:[**Chart.SetChartDataRange**](https://https://reference.aspose.com/cells/net/aspose.cells.charts/chart/methods/setchartdatarange) módszer.
 
@@ -37,7 +38,7 @@ description: C# Mintakód vonaldiagramok készítéséhez Excelben a .NET könyv
 
 {{% blocks/products/pf/agp/text %}}
 
- Csak győződjön meg arról, hogy a rendszer Microsoft Windows vagy kompatibilis operációs rendszerrel rendelkezik .NET Framework, .NET Core, Windows Azure, Mono vagy Xamarin Platformokkal, valamint Visu71616340-hoz hasonló fejlesztői környezettel.
+Csak győződjön meg arról, hogy a rendszer Microsoft Windows vagy kompatibilis operációs rendszerrel rendelkezik .NET Framework, .NET Core, Windows Azure, Mono vagy Xamarin Platformokkal, valamint Visu71616340-hoz hasonló fejlesztői környezettel.
 
 {{% /blocks/products/pf/agp/text %}}
 

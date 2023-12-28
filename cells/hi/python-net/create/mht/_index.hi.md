@@ -1,7 +1,7 @@
 ---
 title: एमएचटी बनाएं - Python में एमएचटी फ़ाइल बनाएं
-description: Aspose एक्सेल। Python एमएचटी फ़ाइल बनाएँ। एमएचटी Python बनाएं। Python एमएचटी क्रिएटर। Python में एमएचटी बनाएं। Python का उपयोग करके एमएचटी फ़ाइल बनाएं।
-keywords: [Aspose Excel., Python Aspose.Cells., Create MHT Python., Python MHT Creater., Create MHT file in Python., Generate MHT file in Python]
+description:  Aspose एक्सेल। Python Aspose.Cells के साथ जल्दी और आसानी से एमएचटी फ़ाइल बनाएं। Python का उपयोग करके एमएचटी फ़ाइल बनाएं। Python में एमएचटी बनाएं। Python एमएचटी क्रिएटर।
+keywords: [Aspose Excel., Python Aspose.Cells., Python Create MHT file., Generate MHT file in Python., Create MHT file using Python., Write data to MHT file via Python., Create a MHT file in Python., Python Generate a MHT file., Python MHT Creater]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Python में एमएचटी फ़ाइल बनाएं" h2="एमएचटी फ़ाइल बनाने के लिए हाई-स्पीड Python लाइब्रेरी। Python में उच्च-स्तरीय, प्लेटफ़ॉर्म स्वतंत्र सॉफ़्टवेयर विकसित करने के लिए हमारे एक्सेल रूपांतरण API का उपयोग करें।" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="MHT" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -11,7 +11,7 @@ keywords: [Aspose Excel., Python Aspose.Cells., Create MHT Python., Python MHT C
 
 {{% blocks/products/pf/agp/content h2="Python का उपयोग करके एमएचटी फ़ाइल बनाएं" %}}
 
- एमएचटी फ़ाइल कैसे बनाएं? NET लाइब्रेरी के माध्यम से Aspose.Cells for Python के साथ, आप कोड की कुछ पंक्तियों के साथ आसानी से प्रोग्रामेटिक रूप से एमएचटी फ़ाइल बना सकते हैं।[Aspose.Cells for Python](https://pypi.org/project/aspose-cells-python/)सभी एक्सेल फ़ाइलों को उत्पन्न करने, संशोधित करने, परिवर्तित करने, प्रस्तुत करने और प्रिंट करने की क्षमता के साथ क्रॉस-प्लेटफ़ॉर्म एप्लिकेशन बनाने में सक्षम है। Python एक्सेल API न केवल स्प्रेडशीट प्रारूपों के बीच कनवर्ट कर सकता है, यह एक्सेल फाइलों को छवियों, PDF, HTML, ODS, CSV, SVG, JSON, वर्ड, पीपीटी और भी बहुत कुछ के रूप में प्रस्तुत कर सकता है, इस प्रकार यह एक्सचेंज के लिए एक आदर्श विकल्प बन जाता है। उद्योग-मानक में दस्तावेज़ प्रारूप.
+ एमएचटी फ़ाइल कैसे बनाएं? NET लाइब्रेरी के माध्यम से Aspose.Cells for Python के साथ, आप कोड की कुछ पंक्तियों के साथ आसानी से प्रोग्रामेटिक रूप से एमएचटी फ़ाइल बना सकते हैं।[Aspose.Cells for Python](https://pypi.org/project/aspose-cells-python/)सभी एक्सेल फ़ाइलों को उत्पन्न करने, संशोधित करने, परिवर्तित करने, प्रस्तुत करने और प्रिंट करने की क्षमता के साथ क्रॉस-प्लेटफ़ॉर्म एप्लिकेशन बनाने में सक्षम है। Python एक्सेल API न केवल स्प्रेडशीट प्रारूपों के बीच परिवर्तित होता है, बल्कि यह एक्सेल फाइलों को छवियों, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT और अधिक के रूप में भी प्रस्तुत कर सकता है, इस प्रकार यह उद्योग-मानक प्रारूपों में दस्तावेजों का आदान-प्रदान करने के लिए एक आदर्श विकल्प बन जाता है।
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -21,7 +21,7 @@ keywords: [Aspose Excel., Python Aspose.Cells., Create MHT Python., Python MHT C
 
 {{% blocks/products/pf/agp/text %}}
 
-डेवलपर्स के लिए कोड की कुछ पंक्तियों में डेटा प्रोसेसिंग के लिए विभिन्न रिपोर्टिंग एप्लिकेशन चलाने के भीतर एमएचटी फ़ाइलों को बनाना, लोड करना, संशोधित करना और परिवर्तित करना आसान है।
+ डेवलपर्स के लिए कोड की कुछ पंक्तियों में डेटा प्रोसेसिंग के लिए विभिन्न रिपोर्टिंग एप्लिकेशन चलाने के भीतर एमएचटी फ़ाइलों को बनाना, लोड करना, संशोधित करना और परिवर्तित करना आसान है।
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -62,7 +62,7 @@ workbook.save("output.mht")
 हम अपने Python पैकेजों को PyPi रिपॉजिटरी में होस्ट करते हैं।
 
 {{% blocks/products/pf/agp/text %}}
-Aspose.Cells for Python से इंस्टॉल करें<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , कमांड का उपयोग इस प्रकार करें:<code>$ pip install aspose-cells-python</code>.
+ Aspose.Cells for Python से इंस्टॉल करें<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , कमांड का उपयोग इस प्रकार करें:<code>$ pip install aspose-cells-python</code>.
 {{% /blocks/products/pf/agp/text %}}
 
 {{% blocks/products/pf/agp/text %}}
@@ -82,7 +82,7 @@ Aspose.Cells for Python से इंस्टॉल करें<a href="https:
 
 <!-- aboutfile Starts -->
     {{< blocks/products/pf/agp/about-file-section >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="MHT" readMoreLink="https://docs.fileformat.com/web/mht/" >}}.mht एक्सटेंशन वाली फ़ाइल एक MIME सक्षम संग्रह फ़ाइल स्वरूप है जिसमें एक ही फ़ाइल में विभिन्न प्रकार के डेटा शामिल होते हैं। यह सीएसएस फाइलों, जावास्क्रिप्ट और अन्य संसाधनों के रूप में पाठ, छवियों, पेज स्टाइल जैसे डेटा को इसमें एम्बेडेड संसाधनों के रूप में संग्रहीत कर सकता है। MIME प्रकार संदेश/rfc822 वाली MHT फ़ाइलें, भंडारण उपकरणों पर संग्रहित करने के लिए HTML फ़ाइल की सभी सामग्री को एकल संग्रह फ़ाइल के रूप में समाहित करती हैं। Microsoft वर्ड जैसे सॉफ़्टवेयर एप्लिकेशन आपको एमएचटी फ़ाइल के रूप में निर्यात करके अपने वर्ड दस्तावेज़ों को एमएचटी में परिवर्तित करने की सुविधा देते हैं। एमएचटी फ़ाइलें Microsoft इंटरनेट एक्सप्लोर और Google क्रोम जैसे लोकप्रिय ब्राउज़रों का उपयोग करके खोली जा सकती हैं।{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="MHT" readMoreLink="https://docs.fileformat.com/web/mht/" >}}.mht एक्सटेंशन वाली फ़ाइल एक MIME सक्षम संग्रह फ़ाइल स्वरूप है जिसमें एक ही फ़ाइल में विभिन्न प्रकार के डेटा शामिल होते हैं। यह सीएसएस फाइलों, जावास्क्रिप्ट और अन्य संसाधनों के रूप में पाठ, छवियों, पेज स्टाइल जैसे डेटा को इसमें एम्बेडेड संसाधनों के रूप में संग्रहीत कर सकता है। MIME प्रकार संदेश/rfc822 वाली MHT फ़ाइलें, भंडारण उपकरणों पर संग्रहित करने के लिए HTML फ़ाइल की सभी सामग्री को एकल संग्रह फ़ाइल के रूप में समाहित करती हैं। Microsoft वर्ड जैसे सॉफ़्टवेयर एप्लिकेशन आपको एमएचटी फ़ाइल के रूप में निर्यात करके अपने WORD दस्तावेज़ों को एमएचटी में बदलने की सुविधा देते हैं। एमएचटी फ़ाइलें Microsoft इंटरनेट एक्सप्लोर और Google क्रोम जैसे लोकप्रिय ब्राउज़रों का उपयोग करके खोली जा सकती हैं।{{< /blocks/products/pf/agp/i18n/about-file-text >}}
     {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->
 

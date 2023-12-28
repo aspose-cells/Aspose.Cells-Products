@@ -1,6 +1,7 @@
 ---
 title: Hozzon létre oszlopdiagramokat a C# számon keresztül
 description: C# Mintakód oszlopdiagramok készítéséhez Excelbe a .NET könyvtár használatával. Használja ezt a kódot oszlopdiagram létrehozásához az MS Excelhez VB.NET, Asp.NET vagy bármely .NET alapú alkalmazáson belül.
+keywords: [C# Aspose.Cells., c# add Column Chart., c# insert Column Chart., c# create Column Chart]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 

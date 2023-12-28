@@ -1,7 +1,7 @@
 ---
-title: Python XML-ből EXCEL-be – Online XML-ből EXCEL-be konvertáló
-description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Ingyenes online Python XML konvertálása EXCEL mentési formátumba. Python XML EXCEL formátumba. XML mentése EXCEL Python-be.
-keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python XML to EXCEL saveformat., Free Online XML to EXCEL Python., Python Convert XML to EXCEL]
+title: Python XML-ből EXCEL-be - XML-ből EXCEL-be konvertáló
+description: Aspose Excel. A Aspose.Cells segítségével gyorsan és egyszerűen konvertálhat XML-t EXCEL-be. Python XML-t EXCEL-be. Python XML mentése EXCEL-be. Mentse az XML-t EXCEL formátumban a Python használatával.
+keywords: [Aspose Excel., Python Aspose.Cells., Convert XML to EXCEL in Python., Save XML to EXCEL using Python., Python XML to EXCEL saveformat., XML to EXCEL Converter., Python Save XML as EXCEL]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Konvertálja az XML-t EXCEL-re a Python-ben" h2="Nagy sebességű Python könyvtár az XML EXCEL formátumba konvertálásához. Használja a API-es excel konverziónkat magas szintű, platformfüggetlen szoftver fejlesztéséhez a Python-ben." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="EXCEL" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,12 +12,12 @@ keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python XML
 
 {{% blocks/products/pf/agp/content h2="Konvertálja az XML-t EXCEL-re a Python-ben" %}}
 
- Hogyan konvertálhatom az XML-t EXCEL-re? A Aspose.Cells for Python segítségével a NET könyvtáron keresztül egyszerűen konvertálhatja az XML-t EXCEL formátumba programozottan néhány sornyi kóddal.[Aspose.Cells for Python a NET számon keresztül](https://pypi.org/project/aspose-cells-python/)képes többplatformos alkalmazásokat létrehozni, módosítani, konvertálni, renderelni és kinyomtatni az összes Excel fájlt. Python Excel API nem csak a táblázatformátumok között konvertál, hanem Excel fájlokat is képes megjeleníteni képként, PDF, HTML, ODS, CSV, CSV, CSV, CSV, CSV, CSV, SVG, és így tovább, SVG P, 8 PT a választás,3,8 ipari szabvány szerinti dokumentumok cseréjére formátumok.
+ Hogyan konvertálhatom az XML-t EXCEL-re? A Aspose.Cells for Python segítségével a NET könyvtáron keresztül egyszerűen konvertálhatja az XML-t EXCEL formátumba programozottan néhány sornyi kóddal.[Aspose.Cells for Python a NET számon keresztül](https://pypi.org/project/aspose-cells-python/)képes többplatformos alkalmazásokat létrehozni, módosítani, konvertálni, renderelni és kinyomtatni az összes Excel fájlt. Python Az Excel API nemcsak a táblázatformátumok között konvertál, hanem Excel-fájlokat is képes megjeleníteni képként, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT és egyebekként, így tökéletes választás a szabványos formátumú dokumentumok cseréjéhez.
 
 {{% /blocks/products/pf/agp/content %}}
 
 
-{{% blocks/products/pf/agp/content h2="Mentse el az XML-t EXCEL-be a Python-es számon online ingyen" %}}
+{{% blocks/products/pf/agp/content h2="Mentse az XML-t EXCEL-be a Python-ben" %}}
 
 A következő példa bemutatja, hogyan lehet XML-t EXCEL-re konvertálni a Python via NET-ben.
 {{% blocks/products/pf/agp/text %}}
@@ -28,7 +28,7 @@ Kövesse az egyszerű lépéseket az XML EXCEL formátumba konvertálásához. T
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Ingyenes alkalmazás és mintakód az XML EXCEL Online konvertálásához" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xml" outformat="xlsx" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Mintakód az XML EXCEL formátumba konvertálásához" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xml" outformat="xlsx" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="Hogyan lehet XML-t EXCEL-re konvertálni" %}}
 
@@ -52,7 +52,7 @@ Az XML-fájlokat programozottan EXCEL-re kell konvertálni? Python A fejlesztők
 A Python-es csomagjainkat PyPi-tárolókban tároljuk.
 
 {{% blocks/products/pf/agp/text %}}
-Telepítés: Aspose.Cells for Python innen<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , használja a parancsot a következőképpen:<code>$ pip install aspose-cells-python</code>.
+ Telepítés: Aspose.Cells for Python innen<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , használja a parancsot a következőképpen:<code>$ pip install aspose-cells-python</code>.
 {{% /blocks/products/pf/agp/text %}}
 
 {{% blocks/products/pf/agp/text %}}
@@ -100,7 +100,7 @@ Telepítés: Aspose.Cells for Python innen<a href="https://pypi.org/project/aspo
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xml-to-xltm/" name="XML a XLTM számra" description="Excel-makró-kompatibilis sablon" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xml-to-xltx/" name="XML a XLTX számra" description="Office OpenXML Excel sablon" >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xml-to-xps/" name="XML a XPS számra" description="XML papírspecifikációk" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xml-to-xps/" name="XML a XPS számra" description="XML papír specifikációk" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xml-to-json/" name="XML a JSON számra" description="JavaScript objektum jelölés" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}

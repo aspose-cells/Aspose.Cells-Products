@@ -2,6 +2,7 @@
 title:  A ODS dokumentum védelme és zárolása a C++ számon keresztül
 weight: 10010
 description: C++ példakód a ODS fájl zárolásához jelszóval a C++ futásidejű környezet Windows 32 bites, Windows 64 bites és 64 bites Linux esetén.
+keywords: [C++ Aspose.Cells., C++ Lock ODS files., C++ How to Protect and lock ODS document., C++ Protect ODS files., Encrypt ODS Files using C++]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="ODS fájlok titkosítása a C++ számon keresztül" h2="Jelszóvédett Excel-táblázatok, beleértve a ODS formátumot a .NET könyvtár használatával." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" sourceAdditionalConversionTag="" additionalConversionTag="ODS" pfName="Aspose.Cells" subTitlepfName="for C++" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="ODS" >}}
@@ -41,7 +42,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/text %}}
 
-1.  Töltse be a ODS fájlt az IWorkbook osztály segítségével
+1.  Töltse be a ODS fájlt a munkafüzet osztály használatával
 1.  Használja a Protect(..) metódust a ProtectionType-val és a jelszóval
 1.  Mentse a védett ODS fájlt a Mentés() metódussal
 
@@ -64,20 +65,24 @@ PM> Install-Package Aspose.Cells.Cpp
 
 ```cs
 
-// Source path.
-StringPtr srcDir = new String("SourcePath\");
+Aspose::Cells::Startup();
 
-// Output path.
-StringPtr outDir = new String("OutputPath\");
+// load the ODS Excel file 
+Workbook book(u"unlocked.ods");
 
-// Load ODS file
-intrusive_ptr<IWorkbook> workbook = Factory::CreateIWorkbook(srcDir->StringAppend(new String("sourceFile.ods")));
+// access the first worksheet
+Worksheet worksheet = book.GetWorksheets().Get(0);
 
-// Protect workbook by specifying protection type
-workbook->Protect(ProtectionType::ProtectionType_All, new String("12345"));
+// protect the worksheet with password
+worksheet.Protect(ProtectionType::All, u"password", nullptr);
 
-// Save the ODS file
-workbook->Save(outDir->StringAppend(new String("output.ods")));
+// protect the whole workbook with password
+book.Protect(ProtectionType::All, u"password");
+
+// save the modified file in default format
+book.Save(u"protected.ods");
+
+Aspose::Cells::Cleanup();
 
 ```
 

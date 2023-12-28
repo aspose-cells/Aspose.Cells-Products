@@ -1,7 +1,8 @@
 ---
 title:  Python एक्सेल स्प्रेडशीट API - Aspose
 weight: 2800
-description: Python एक्सेल फाइलों को पढ़ने, लिखने और पार्स करने के लिए स्प्रेडशीट लाइब्रेरी।
+description: एक्सेल फ़ाइलें बनाने, मरम्मत करने, मर्ज करने, पार्स करने और परिवर्तित करने के लिए Python लाइब्रेरी। एक्सेल को PDF, JSON, HTML, TXT और अन्य लोकप्रिय प्रारूपों में बदलें।
+keywords: [Python Aspose.Cells Create repair merge convert JSON Excel XML PDF HTML TSV SQL ODS CSV TSV PNG JPEG and more formats]
 ---
 {{< blocks/products/pf/main-wrap-class >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Python एक्सेल स्प्रेडशीट पार्सिंग एपीआई" h2="Python अनुप्रयोगों के भीतर कई प्रारूपों में स्प्रेडशीट बनाने, पढ़ने, लिखने या हेरफेर करने के साथ-साथ एक्सेल फ़ाइलों को निर्यात करें।" logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/cells/headers/aspose_cells-for-python-via-net.svg" pfName="Aspose.Cells" subTitlepfName="for Python via .NET" downloadUrl="https://releases.aspose.com/cells/python-net/" >}}
@@ -12,7 +13,7 @@ description: Python एक्सेल फाइलों को पढ़ने
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
- Aspose.Cells for Python .नेट के माध्यम से स्प्रेडशीट प्रसंस्करण कार्यों के लिए एक तेज़ और विश्वसनीय API है। डेवलपर्स सरल या जटिल स्प्रेडशीट बना सकते हैं, हेरफेर कर सकते हैं और साथ ही एक्सेल फ़ाइलों से जानकारी निकाल सकते हैं। API कई एक्सेल प्रारूपों को पढ़ता है और वर्कशीट को XPS, PDF, MHTML, HTML, सादा पाठ, छवियों और अन्य पर प्रस्तुत कर सकता है। यह पायथन का उपयोग करके एक्सेल रिपोर्ट को स्वचालित करने का सबसे अच्छा समाधान है।
+Aspose.Cells for Python .नेट के माध्यम से स्प्रेडशीट प्रसंस्करण कार्यों के लिए एक तेज़ और विश्वसनीय API है। डेवलपर्स सरल या जटिल स्प्रेडशीट बना सकते हैं, हेरफेर कर सकते हैं और साथ ही एक्सेल फ़ाइलों से जानकारी निकाल सकते हैं। API कई एक्सेल प्रारूपों को पढ़ता है और वर्कशीट को XPS, PDF, MHTML, HTML, सादा पाठ, छवियों और अन्य पर प्रस्तुत कर सकता है। यह पायथन का उपयोग करके एक्सेल रिपोर्ट को स्वचालित करने का सबसे अच्छा समाधान है।
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
@@ -234,7 +235,7 @@ description: Python एक्सेल फाइलों को पढ़ने
  <div class="row">
   <div class="container">
    <h2 class="pr-ft">
-उन्नत Python एक्सेल API सुविधाएँ
+ उन्नत Python एक्सेल API सुविधाएँ
    </h2>
    <p>
    </p>
@@ -305,7 +306,7 @@ description: Python एक्सेल फाइलों को पढ़ने
     <em class="fa fa-object-ungroup ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- पंक्तियों और स्तंभों में समूहीकरण जोड़ें या हटाएँ
+पंक्तियों और स्तंभों में समूहीकरण जोड़ें या हटाएँ
     </p>
    </div>
    <div class="col-lg-4">
@@ -492,7 +493,7 @@ wk.save("houtput.html", SaveFormat.HTML);</code></pre>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
- चार्ट अनुकूलन
+चार्ट अनुकूलन
     </h2>
     <p>
 Aspose.Cells for Python via .NET चार्टिंग के लिए पूर्ण समर्थन प्रदान करता है। इस पायथन लाइब्रेरी में चार्ट को ताज़ा करने के लिए कोई भी आसानी से मानक और अनुकूलित चार्ट जोड़ सकता है या गतिशील रूप से चार्ट डेटा सेट कर सकता है।

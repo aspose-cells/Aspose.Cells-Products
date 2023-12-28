@@ -1,6 +1,7 @@
 ---
 title: एक्सेल फ़ाइलें बनाएं via Java
 description: Java स्प्रेडशीट लाइब्रेरी का उपयोग करके टेम्पलेट शीट से Microsoft एक्सेल स्प्रेडशीट जेनरेट करें
+keywords: [Java Aspose.Cells., Java Create Reports Based on Predesigned Excel Template., Java Generate Reports Based on Predesigned Excel Template., Java Create Reports Based on Excel Template., Java Generate Reports Based on Excel Template., Java Create Excel files Based on Excel Template., Java Generate Excel files Based on Excel Template]
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
 {{< blocks/products/pf/i18n/feature-page-header h1="Microsoft<sup>&reg;</sup> एक्सेल टेम्पलेट आधारित रिपोर्ट निर्माण via Java" h2="Java आधारित अनुप्रयोगों के भीतर पूर्वनिर्धारित टेम्पलेट के आधार पर बल्क एक्सेल फ़ाइल रिपोर्ट तैयार करें।" >}}

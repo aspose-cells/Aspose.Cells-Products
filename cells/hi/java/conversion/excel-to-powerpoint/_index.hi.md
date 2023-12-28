@@ -1,7 +1,7 @@
 ---
-title: Java एक्सेल से पावरपॉइंट - ऑनलाइन एक्सेल से पावरपॉइंट कनवर्टर
-description: Aspose एक्सेल। Java Aspose.Cells. Java Aspose Cells. मुफ़्त ऑनलाइन Java एक्सेल को पावरपॉइंट सेवफॉर्मेट में कनवर्ट करें। Java एक्सेल से पावरपॉइंट प्रारूप। एक्सेल को पावरपॉइंट Java पर सेव करें।
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java EXCEL to POWERPOINT saveformat., Free Online EXCEL to POWERPOINT Java., Java Convert EXCEL to POWERPOINT]
+title: Java एक्सेल से पावरपॉइंट - एक्सेल से पावरपॉइंट कनवर्टर
+description: Aspose एक्सेल। Aspose.Cells के साथ एक्सेल को पावरपॉइंट में जल्दी और आसानी से बदलें। Java एक्सेल को पावरपॉइंट में बदलें। Java एक्सेल को पावरपॉइंट में सेव करें। Java का उपयोग करके एक्सेल को पावरपॉइंट के रूप में सहेजें।
+keywords: [Aspose Excel., Java Aspose.Cells., Convert EXCEL to POWERPOINT in Java., Save EXCEL to POWERPOINT using Java., Java EXCEL to POWERPOINT saveformat., EXCEL to POWERPOINT Converter., Java Save EXCEL as POWERPOINT]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Java में एक्सेल को पावरपॉइंट में बदलें" h2="एक्सेल को पावरपॉइंट में परिवर्तित करने के लिए हाई-स्पीड Java लाइब्रेरी। यह Java का उपयोग करके एक्सेल, पावरपॉइंट और कई अन्य प्रारूपों को आयात और निर्यात करने के लिए एक पेशेवर सॉफ्टवेयर समाधान है।" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="POWERPOINT" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java EXCEL to 
 
 {{% blocks/products/pf/agp/content h2="Java का उपयोग करके एक्सेल को पावरपॉइंट में बदलें" %}}
 
- मैं एक्सेल को पावरपॉइंट में कैसे परिवर्तित करूं? Aspose.Cells for Java लाइब्रेरी के साथ, आप कोड की कुछ पंक्तियों के साथ आसानी से EXCEL को POWERPOINT में प्रोग्रामेटिक रूप से परिवर्तित कर सकते हैं।[Aspose.Cells for Java](https://products.aspose.com/cells/java) सभी एक्सेल फ़ाइलों को उत्पन्न करने, संशोधित करने, परिवर्तित करने, प्रस्तुत करने और प्रिंट करने की क्षमता के साथ क्रॉस-प्लेटफ़ॉर्म एप्लिकेशन बनाने में सक्षम है। Java एक्सेल API न केवल स्प्रेडशीट प्रारूपों के बीच कनवर्ट कर सकता है, यह एक्सेल फाइलों को छवियों, PDF, HTML, ODS, CSV, SVG, JSON, वर्ड, पीपीटी और भी बहुत कुछ के रूप में प्रस्तुत कर सकता है, इस प्रकार यह एक्सचेंज के लिए एक आदर्श विकल्प बन जाता है। उद्योग-मानक में दस्तावेज़ प्रारूप. आप इसका नवीनतम संस्करण सीधे यहां से डाउनलोड कर सकते हैं[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) और pom.xml में निम्नलिखित कॉन्फ़िगरेशन जोड़कर इसे अपने Maven-आधारित प्रोजेक्ट में स्थापित करें।
+ मैं एक्सेल को पावरपॉइंट में कैसे परिवर्तित करूं? Aspose.Cells for Java लाइब्रेरी के साथ, आप कोड की कुछ पंक्तियों के साथ आसानी से EXCEL को POWERPOINT में प्रोग्रामेटिक रूप से परिवर्तित कर सकते हैं।[Aspose.Cells for Java](https://products.aspose.com/cells/java)सभी एक्सेल फ़ाइलों को उत्पन्न करने, संशोधित करने, परिवर्तित करने, प्रस्तुत करने और प्रिंट करने की क्षमता के साथ क्रॉस-प्लेटफ़ॉर्म एप्लिकेशन बनाने में सक्षम है। Java एक्सेल API न केवल स्प्रेडशीट प्रारूपों के बीच परिवर्तित होता है, बल्कि यह एक्सेल फाइलों को छवियों, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT और अधिक के रूप में भी प्रस्तुत कर सकता है, इस प्रकार यह उद्योग-मानक प्रारूपों में दस्तावेजों का आदान-प्रदान करने के लिए एक आदर्श विकल्प बन जाता है। आप इसका नवीनतम संस्करण सीधे यहां से डाउनलोड कर सकते हैं[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) और pom.xml में निम्नलिखित कॉन्फ़िगरेशन जोड़कर इसे अपने Maven-आधारित प्रोजेक्ट में स्थापित करें।
 
 {{% blocks/products/pf/agp/code-block title="कोष" offSpacer="true" %}}
 
@@ -45,7 +45,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java EXCEL to 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Java पर ऑनलाइन नि:शुल्क एक्सेल को पॉवरपॉइंट में सेव करें" %}}
+{{% blocks/products/pf/agp/content h2="Java में EXCEL को POWERPOINT में सेव करें" %}}
 
 निम्नलिखित उदाहरण दर्शाता है कि Java में EXCEL को POWERPOINT में कैसे परिवर्तित किया जाए।
 {{% blocks/products/pf/agp/text %}}
@@ -56,7 +56,7 @@ EXCEL को POWERPOINT में बदलने के लिए आसान 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="एक्सेल को ऑनलाइन पावरपॉइंट में बदलने के लिए निःशुल्क ऐप और नमूना कोड" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsx" outformat="pptx" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="एक्सेल को पावरपॉइंट में बदलने के लिए नमूना कोड" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsx" outformat="pptx" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="एक्सेल को पावरपॉइंट में कैसे बदलें via Java" %}}
 
@@ -98,7 +98,7 @@ EXCEL को POWERPOINT में बदलने के लिए आसान 
 <!-- aboutfile Starts -->
     {{< blocks/products/pf/agp/about-file-section >}}
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="EXCEL" readMoreLink="https://docs.fileformat.com/spreadsheet/xlsx/" >}}XLSX Microsoft एक्सेल दस्तावेजों के लिए प्रसिद्ध प्रारूप है जिसे Microsoft द्वारा Microsoft ऑफिस 2007 की रिलीज के साथ पेश किया गया था। ओओएक्सएमएल मानक ईसीएमए-376 के भाग 2 में उल्लिखित ओपन पैकेजिंग कन्वेंशन के अनुसार व्यवस्थित संरचना के आधार पर, नया प्रारूप है एक ज़िप पैकेज जिसमें कई XML फ़ाइलें होती हैं। अंतर्निहित संरचना और फ़ाइलों की जांच केवल .xlsx फ़ाइल को अनज़िप करके की जा सकती है।{{< /blocks/products/pf/agp/i18n/about-file-text >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="POWERPOINT" readMoreLink="https://docs.fileformat.com/presentation/pptx/" >}}PPTX एक्सटेंशन वाली फ़ाइलें लोकप्रिय Microsoft PowerPoint एप्लिकेशन के साथ बनाई गई प्रस्तुति फ़ाइलें हैं। प्रेजेंटेशन फ़ाइल प्रारूप पीपीटी के पिछले संस्करण के विपरीत, जो बाइनरी था, PPTX प्रारूप Microsoft PowerPoint ओपन XML प्रेजेंटेशन फ़ाइल प्रारूप पर आधारित है। प्रेजेंटेशन फ़ाइल स्लाइडों का एक संग्रह है जहां प्रत्येक स्लाइड में टेक्स्ट, चित्र, फ़ॉर्मेटिंग, एनिमेशन और अन्य मीडिया शामिल हो सकते हैं। इन स्लाइडों को कस्टम प्रेजेंटेशन सेटिंग्स के साथ स्लाइड शो के रूप में दर्शकों के सामने प्रस्तुत किया जाता है।{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="POWERPOINT" readMoreLink="https://docs.fileformat.com/presentation/pptx/" >}}PPTX एक्सटेंशन वाली फ़ाइलें लोकप्रिय Microsoft PowerPoint एप्लिकेशन के साथ बनाई गई प्रस्तुति फ़ाइलें हैं। प्रेजेंटेशन फ़ाइल प्रारूप PPT के पिछले संस्करण के विपरीत, जो बाइनरी था, PPTX प्रारूप Microsoft PowerPoint ओपन एक्सएमएल प्रेजेंटेशन फ़ाइल प्रारूप पर आधारित है। प्रेजेंटेशन फ़ाइल स्लाइडों का एक संग्रह है जहां प्रत्येक स्लाइड में टेक्स्ट, चित्र, फ़ॉर्मेटिंग, एनिमेशन और अन्य मीडिया शामिल हो सकते हैं। इन स्लाइडों को कस्टम प्रेजेंटेशन सेटिंग्स के साथ स्लाइड शो के रूप में दर्शकों के सामने प्रस्तुत किया जाता है।{{< /blocks/products/pf/agp/i18n/about-file-text >}}
     {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->
 

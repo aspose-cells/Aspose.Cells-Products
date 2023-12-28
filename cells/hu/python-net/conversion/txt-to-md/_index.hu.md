@@ -1,7 +1,7 @@
 ---
-title: Python TXT MD - Online TXT MD konverter
-description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Ingyenes online Python A TXT konvertálása MD mentési formátumba. Python TXT MD formátumba. Mentse a TXT számot az MD Python számra.
-keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python TXT to MD saveformat., Free Online TXT to MD Python., Python Convert TXT to MD]
+title: Python TXT MD-hez - TXT MD konverterhez
+description: Aspose Excel. A TXT számot gyorsan és egyszerűen konvertálja MD-re a Aspose.Cells-es számmal. Python TXT MD-vé. Python Takarítson meg TXT-et az MD-nek. Mentse el a TXT számot MD-ként a Python használatával.
+keywords: [Aspose Excel., Python Aspose.Cells., Convert TXT to MD in Python., Save TXT to MD using Python., Python TXT to MD saveformat., TXT to MD Converter., Python Save TXT as MD]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Alakítsa át a TXT-et MD-re a Python-ben" h2="Nagy sebességű Python könyvtár a TXT MD formátumba konvertálásához. Használja a API-es excel konverziónkat magas szintű, platformfüggetlen szoftver fejlesztéséhez a Python-ben." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="MD" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,12 +12,12 @@ keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python TXT
 
 {{% blocks/products/pf/agp/content h2="Alakítsa át a TXT-et MD-re a Python-ben" %}}
 
- Hogyan konvertálhatom át a TXT-et MD-re? A Aspose.Cells for Python számmal a NET könyvtáron keresztül könnyedén konvertálhatja a TXT-et MD-vé, néhány soros kóddal programozottan.[Aspose.Cells for Python a NET számon keresztül](https://pypi.org/project/aspose-cells-python/)képes többplatformos alkalmazásokat létrehozni, módosítani, konvertálni, renderelni és kinyomtatni az összes Excel fájlt. Python Excel API nem csak a táblázatformátumok között konvertál, hanem Excel fájlokat is képes megjeleníteni képként, PDF, HTML, ODS, CSV, CSV, CSV, CSV, CSV, CSV, SVG, és így tovább, SVG P, 8 PT a választás,3,8 ipari szabvány szerinti dokumentumok cseréjére formátumok.
+ Hogyan konvertálhatom át a TXT-et MD-re? A Aspose.Cells for Python számmal a NET könyvtáron keresztül könnyedén konvertálhatja a TXT-et MD-vé, néhány soros kóddal programozottan.[Aspose.Cells for Python a NET számon keresztül](https://pypi.org/project/aspose-cells-python/)képes többplatformos alkalmazásokat létrehozni, módosítani, konvertálni, renderelni és kinyomtatni az összes Excel fájlt. Python Az Excel API nemcsak a táblázatformátumok között konvertál, hanem Excel-fájlokat is képes megjeleníteni képként, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT és egyebekként, így tökéletes választás a szabványos formátumú dokumentumok cseréjéhez.
 
 {{% /blocks/products/pf/agp/content %}}
 
 
-{{% blocks/products/pf/agp/content h2="Takarítson meg TXT-et MD-nek a Python számon online ingyen" %}}
+{{% blocks/products/pf/agp/content h2="Mentse el a TXT számot az MD számára a Python számon" %}}
 
 A következő példa bemutatja, hogyan lehet Python via NET-ben MD-vé alakítani a TXT-et.
 {{% blocks/products/pf/agp/text %}}
@@ -28,7 +28,7 @@ Kövesse az egyszerű lépéseket a TXT MD-re konvertálásához. Töltse fel a 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Ingyenes alkalmazás és mintakód a TXT MD Online konvertálásához" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="txt" outformat="md" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Mintakód a TXT MD-vé konvertálásához" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="txt" outformat="md" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="Hogyan lehet TXT-et konvertálni MD-re" %}}
 
@@ -52,7 +52,7 @@ TXT fájlokat programozottan MD-re kell konvertálnia? A Python fejlesztők egys
 A Python-es csomagjainkat PyPi-tárolókban tároljuk.
 
 {{% blocks/products/pf/agp/text %}}
-Telepítés: Aspose.Cells for Python innen<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , használja a parancsot a következőképpen:<code>$ pip install aspose-cells-python</code>.
+ Telepítés: Aspose.Cells for Python innen<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , használja a parancsot a következőképpen:<code>$ pip install aspose-cells-python</code>.
 {{% /blocks/products/pf/agp/text %}}
 
 {{% blocks/products/pf/agp/text %}}
@@ -100,7 +100,7 @@ Telepítés: Aspose.Cells for Python innen<a href="https://pypi.org/project/aspo
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/txt-to-xltm/" name="TXT-XLTM" description="Excel-makró-kompatibilis sablon" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/txt-to-xltx/" name="TXT-XLTX" description="Office OpenXML Excel sablon" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/txt-to-xml/" name="TXT XML-RE" description="Bővíthető jelölőnyelv" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/txt-to-xps/" name="TXT-XPS" description="XML papírspecifikációk" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/txt-to-xps/" name="TXT-XPS" description="XML papír specifikációk" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/txt-to-json/" name="TXT-JSON" description="JavaScript objektum jelölés" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}

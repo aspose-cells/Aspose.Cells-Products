@@ -1,8 +1,8 @@
 ---
-title: C# ओडीएस फ़ाइल की मरम्मत करें - ओडीएस फ़ाइल की ऑनलाइन निःशुल्क मरम्मत करें
+title: C# मरम्मत ओडीएस - दूषित ओडीएस फ़ाइल को पुनर्प्राप्त करें और ठीक करें
 url: /hi/net/recovery/repair-ods/ 
-description: Aspose एक्सेल। C# Aspose.Cells. C# ओडीएस फ़ाइल की मरम्मत करें। निःशुल्क ऑनलाइन ओडीएस मरम्मत उपकरण। दूषित ओडीएस फ़ाइल को सुधारें. .NET एप्लिकेशन के भीतर एक दूषित ओडीएस फ़ाइल पुनर्प्राप्त करें।
-keywords: [Aspose Excel., C# Aspose.Cells., C# Aspose Cells., C# Repair ods file., Free Online Repair a corrupted ods file., C# Recover ods file.]
+description: C# Aspose.Cells. मरम्मत ओडीएस। ओडीएस फ़ाइल ठीक करें. ओडीएस पुनर्प्राप्ति उपकरण। भ्रष्टाचार की आशंका. ओडीएस डेटा पुनर्स्थापित करें. ओडीएस फ़ाइल पुनर्प्राप्ति। दूषित ओडीएस फ़ाइल पुनर्प्राप्त करें।
+keywords: [C# Aspose.Cells., repair ods file., ods repair., recover corrupted ods file., repair corrupted ods., recover ods., fix ods file., ods corruption., restore ods data., ods file recovery., recover corrupted ods file.]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="C# में ODS फ़ाइल की मरम्मत करें" h2=".NET का उपयोग करके ओडीएस फ़ाइलों की मरम्मत के लिए अपना स्वयं का .NET एप्लिकेशन बनाएं।" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="ODS" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="XLS" fileiconsmall2="XLSB" fileiconsmall3="XLSX" fileiconsmall4="XLSM" fileiconsmall5="ODS" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., C# Aspose.Cells., C# Aspose Cells., C# Repair ods file
 
 {{% blocks/products/pf/agp/content h2="C# का उपयोग करके ODS फ़ाइल की मरम्मत करें" %}}
 
- मैं ओडीएस फ़ाइल की मरम्मत कैसे करूँ? Aspose.Cells for .NET लाइब्रेरी के साथ, आप कोड की कुछ पंक्तियों के साथ प्रोग्रामेटिक रूप से ODS फ़ाइल को आसानी से सुधार सकते हैं।[Aspose.Cells for .NET](https://products.aspose.com/cells/net)सभी एक्सेल फ़ाइलों को उत्पन्न करने, संशोधित करने, परिवर्तित करने, प्रस्तुत करने और प्रिंट करने की क्षमता के साथ क्रॉस-प्लेटफ़ॉर्म एप्लिकेशन बनाने में सक्षम है। .NET एक्सेल API न केवल स्प्रेडशीट प्रारूपों के बीच कनवर्ट कर सकता है, यह एक्सेल फाइलों को छवियों, PDF, HTML, ODS, CSV, SVG, JSON, वर्ड, पीपीटी और भी बहुत कुछ के रूप में प्रस्तुत कर सकता है, इस प्रकार यह एक्सचेंज के लिए एक आदर्श विकल्प बन जाता है। उद्योग-मानक में दस्तावेज़ प्रारूप. खुला[NuGet](https://www.nuget.org/packages/aspose.cells) पैकेज मैनेजर, Aspose.Cells खोजें और इंस्टॉल करें। आप पैकेज मैनेजर कंसोल से निम्न कमांड का भी उपयोग कर सकते हैं।
+ मैं ओडीएस फ़ाइल की मरम्मत कैसे करूँ? Aspose.Cells for .NET लाइब्रेरी के साथ, आप कोड की कुछ पंक्तियों के साथ प्रोग्रामेटिक रूप से ODS फ़ाइल को आसानी से सुधार सकते हैं।[Aspose.Cells for .NET](https://products.aspose.com/cells/net)सभी एक्सेल फ़ाइलों को उत्पन्न करने, संशोधित करने, परिवर्तित करने, प्रस्तुत करने और प्रिंट करने की क्षमता के साथ क्रॉस-प्लेटफ़ॉर्म एप्लिकेशन बनाने में सक्षम है। .NET एक्सेल API न केवल स्प्रेडशीट प्रारूपों के बीच परिवर्तित होता है, बल्कि यह एक्सेल फाइलों को छवियों, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT और अधिक के रूप में भी प्रस्तुत कर सकता है, इस प्रकार यह उद्योग-मानक प्रारूपों में दस्तावेजों का आदान-प्रदान करने के लिए एक आदर्श विकल्प बन जाता है। खुला[NuGet](https://www.nuget.org/packages/aspose.cells) पैकेज मैनेजर, Aspose.Cells खोजें और इंस्टॉल करें। आप पैकेज मैनेजर कंसोल से निम्न कमांड का भी उपयोग कर सकते हैं।
 
 {{% blocks/products/pf/agp/code-block title="पैकेज मैनेजर कंसोल कमांड" offSpacer="true" %}}
 
@@ -41,7 +41,7 @@ PM> Install-Package Aspose.Cells
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-recovery title="ODS फ़ाइल को ऑनलाइन सुधारने के लिए निःशुल्क ऐप और नमूना कोड" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et" InputFormat="ods" outformat="ods" IsLandingPage="true" language="net" %}}    
+{{% cells-recovery title="ODS फ़ाइल की मरम्मत के लिए नमूना कोड" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et" InputFormat="ods" outformat="ods" IsLandingPage="true" language="net" %}}    
     
 {{% blocks/products/pf/agp/content h2=".NET लाइब्रेरी ODS फ़ाइल को सुधारने के लिए" %}}
 

@@ -1,7 +1,7 @@
 ---
-title: Java XLTX - HTML - Online XLTX - HTML Átalakító
-description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Ingyenes online Java A XLTX konvertálása HTML mentési formátumra. Java XLTX - HTML formátum. Mentse a XLTX számot a HTML Java számra.
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java XLTX to HTML saveformat., Free Online XLTX to HTML Java., Java Convert XLTX to HTML]
+title: Java XLTX - HTML - XLTX - HTML Átalakító
+description: Aspose Excel. A XLTX-es számot HTML-re gyorsan és egyszerűen a Aspose.Cells-es számmal alakíthatja át. Java XLTX-HTML-re. 13481 a Java számon.
+keywords: [Aspose Excel., Java Aspose.Cells., Convert XLTX to HTML in Java., Save XLTX to HTML using Java., Java XLTX to HTML saveformat., XLTX to HTML Converter., Java Save XLTX as HTML]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Konvertálja a XLTX-et HTML-re Java-ben" h2="Nagysebességű Java könyvtár a XLTX HTML-es számok konvertálásához. Ez egy professzionális szoftvermegoldás a XLTX, HTML és sok más formátum importálásához és exportálásához a Java szám használatával." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="HTML" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java XLTX to H
 
 {{% blocks/products/pf/agp/content h2="A XLTX konvertálása HTML-re a Java használatával" %}}
 
-Hogyan alakíthatom át a XLTX-et HTML-re? A Aspose.Cells for Java könyvtárral egyszerűen konvertálhatja a XLTX-et programozottan HTML-re néhány sor kóddal.[Aspose.Cells for Java](https://products.aspose.com/cells/java) képes többplatformos alkalmazásokat létrehozni, módosítani, konvertálni, renderelni és kinyomtatni az összes Excel fájlt. Java Excel API nem csak a táblázatformátumok között konvertál, hanem Excel fájlokat is képes megjeleníteni képként, PDF, HTML, ODS, CSV, CSV, CSV, CSV, CSV, CSV, SVG, és így tovább, SVG P, 8 PT a választás,3,8 ipari szabvány szerinti dokumentumok cseréjére formátumok. A legújabb verziót közvetlenül a webhelyről töltheti le[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) és telepítse a Maven alapú projekten belül a következő konfigurációk hozzáadásával a pom.xml fájlhoz.
+Hogyan alakíthatom át a XLTX-et HTML-re? A Aspose.Cells for Java könyvtárral egyszerűen konvertálhatja a XLTX-et programozottan HTML-re néhány sor kóddal.[Aspose.Cells for Java](https://products.aspose.com/cells/java)képes többplatformos alkalmazásokat létrehozni, módosítani, konvertálni, renderelni és kinyomtatni az összes Excel fájlt. Java Az Excel API nemcsak a táblázatformátumok között konvertál, hanem Excel-fájlokat is képes megjeleníteni képként, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT és egyebekként, így tökéletes választás a szabványos formátumú dokumentumok cseréjéhez. A legújabb verziót közvetlenül a webhelyről töltheti le[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) és telepítse a Maven alapú projekten belül a következő konfigurációk hozzáadásával a pom.xml fájlhoz.
 
 {{% blocks/products/pf/agp/code-block title="Adattár" offSpacer="true" %}}
 
@@ -45,7 +45,7 @@ Hogyan alakíthatom át a XLTX-et HTML-re? A Aspose.Cells for Java könyvtárral
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Takarítson meg XLTX-HTML számot a Java számon online ingyen" %}}
+{{% blocks/products/pf/agp/content h2="Mentse a XLTX-HTML számot a Java-es számon" %}}
 
 A következő példa bemutatja, hogyan lehet a XLTX-et HTML-re konvertálni a Java-ben.
 {{% blocks/products/pf/agp/text %}}
@@ -56,9 +56,9 @@ Kövesse az egyszerű lépéseket a XLTX HTML-re konvertálásához. Töltse fel
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Ingyenes alkalmazás és mintakód a XLTX HTML online konvertálásához" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xltx" outformat="html" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Mintakód a XLTX HTML-re konvertálásához" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xltx" outformat="html" IsLandingPage="true" language="java" %}}
 
-{{% blocks/products/pf/agp/content h2="XLTX HTML via Java-re konvertálása" %}}
+{{% blocks/products/pf/agp/content h2="A XLTX HTML via Java-re konvertálása" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
@@ -68,7 +68,7 @@ A XLTX fájlt programozottan HTML-re kell konvertálni? A Java fejlesztők könn
 
 1.  Telepítse a „Aspose.Cells for Java” fájlt.
 1.  Adjon hozzá egy könyvtári hivatkozást (importálja a könyvtárat) a Java projekthez.
-1.  Töltse be a XLTX számú fájlt a Workbook osztály egy példányával.
+1. Töltse be a XLTX számú fájlt a Workbook osztály egy példányával.
 1.  Konvertálja a XLTX-et HTML-re a Workbook.save metódus meghívásával.
 1.  Szerezze meg a XLTX-es konverziós eredményt HTML-re.
 
@@ -125,7 +125,7 @@ A XLTX fájlt programozottan HTML-re kell konvertálni? A Java fejlesztők könn
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/xltx-to-xltm/" name="XLTX-XLTM" description="Excel-makró-kompatibilis sablon" >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/xltx-to-xml/" name="XLTX XML-RE" description="Bővíthető jelölőnyelv" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/xltx-to-xps/" name="XLTX-XPS" description="XML papírspecifikációk" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/xltx-to-xps/" name="XLTX-XPS" description="XML papír specifikációk" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/xltx-to-json/" name="XLTX-JSON" description="JavaScript objektum jelölés" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/xltx-to-jpeg/" name="XLTX-JPEG" description="JPEG Kép" >}}
 

@@ -270,14 +270,14 @@ Formázás alkalmazása munkalapon, soron, oszlopon, cellán és tartományon
     <em class="fa fa-superscript ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Létrehozása &amp; diagramokat manipulálni
+ Létrehozás &amp; diagramokat manipulálni
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-comment ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Létrehozása &amp; manipulálni a megjegyzéseket
+ Létrehozás &amp; manipulálni a megjegyzéseket
     </p>
    </div>
    <div class="col-lg-4">
@@ -419,7 +419,7 @@ Formázás alkalmazása munkalapon, soron, oszlopon, cellán és tartományon
     <em class="fa fa-table ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Létrehozása &amp; manipulálni a kimutatástáblákat
+ Létrehozás &amp; manipulálni a kimutatástáblákat
     </p>
    </div>
    <div class="col-lg-4">
@@ -440,7 +440,7 @@ Formázás alkalmazása munkalapon, soron, oszlopon, cellán és tartományon
     <em class="fa fa-edit ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Létrehozása &amp; forgatókönyvek manipulálása
+ Létrehozás &amp; forgatókönyvek manipulálása
     </p>
    </div>
    <div class="col-lg-4">
@@ -493,7 +493,7 @@ wkb.save(SD_PATH + "output.html", SaveFormat.HTML);</code></pre>
  Konvertálja a táblázatobjektumokat különböző formátumokba
     </h2>
     <p>
- Aspose.Cells for Android via Java kínál néhány megkülönböztető funkciót, mint például a munkalapokat a képekhez, a diagramokat a képekhez és a diagramokat; PDF és táblázatok konvertálása PDF dokumentumformátummá. A rugalmas folyamat számos választási lehetőséget kínál az átalakításhoz, mint például a képek újramintavételezése a táblázatokban a PDF-re, vagy az eredményül kapott képméretek beállítása munkalapok és munkalapok renderelésekor; diagramok képformátumokba.
+ Aspose.Cells for Android via Java kínál néhány megkülönböztető funkciót, mint például a munkalapokat a képekhez, a diagramokat a képekhez és a diagramokat; PDF és táblázatok konvertálása PDF dokumentumformátummá. A rugalmas folyamat számos választási lehetőséget kínál az átalakításhoz, például a képek újramintavételezése a táblázatokban a PDF-es számra, vagy az eredményül kapott képméretek beállítása munkalapok &amp; diagramok képformátumokba.
     </p>
    </div>
    <div class="col-lg-12">

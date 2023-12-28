@@ -2,6 +2,7 @@
 title:  Szöveg keresése és cseréje a XLS dokumentumban a C++ számon keresztül
 weight: 380
 description: C++ példakód a XLS fájl érzékeny információinak törlésére a C++ futásidejű környezet Windows 32 bites, Windows 64 bites és 64 bites Linux számára.
+keywords: [C++ Aspose.Cells., C++ Search and replace text in XLS file., C++ redact XLS file., C++ edit XLS file., C++ XLS file redaction., C++ Search and replace string in XLS file]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Szerkesztés XLS Formátumok C++-ben" h2="Natív és nagy teljesítményű XLS dokumentumérzékeny szerkesztési információk szerveroldali Aspose.Cells for C++ API-k használatával, olyan szoftverek használata nélkül, mint a Microsoft vagy az Adobe PDF." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" sourceAdditionalConversionTag="" additionalConversionTag="" pfName="Aspose.Cells" subTitlepfName="for C++" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="XLS" >}}
@@ -48,7 +49,7 @@ PM> Install-Package Aspose.Cells.Cpp
 + Állítsa be a kis- és nagybetűk érzékenységét.
 + Állítsa be a szövegegyeztetési lehetőséget
 + Szöveg cseréje a Csere(...) metódussal
-Mentse el a munkafüzetet.
++ Mentse el a munkafüzetet.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -68,29 +69,25 @@ Mentse el a munkafüzetet.
 {{% blocks/products/pf/agp/code-block title="Szerkesztés XLS Fájlok - C++" offSpacer="" %}}
 
 ```cs
-// Source directory path.
-StringPtr srcDir = new String("SourceFolder\\");
 
-// Output directory path.
-StringPtr outDir = new String("OutputFolder\\");
+Aspose::Cells::Startup();
 
 // Load XLS file
-intrusive_ptr<IWorkbook>  workbook = Factory::CreateIWorkbook(srcDir->StringAppend(new String("book1.xls")));
-
-// Create an instance of the IReplaceOptions class
-intrusive_ptr<IReplaceOptions> replaceOptions = Factory::CreateIReplaceOptions();
-
-// Set case sensitivity option
-replaceOptions->SetCaseSensitive(false);
-
+Workbook wb(u"Input.xls");
+//Create an instance of the ReplaceOptions class
+ReplaceOptions replaceOptions;
 // Set text matching option
-replaceOptions->SetMatchEntireCellContents(false);
-
+replaceOptions.SetRegexKey(true);
+// Set case sensitivity option
+replaceOptions.SetCaseSensitive(false);
+// Set text matching option
+replaceOptions.SetMatchEntireCellContents(false);
 // Replace text
-workbook->Replace(new String("Text to find"), new String("Text replacement"), replaceOptions);
-
+wb.Replace(u"\bKIM\b", u"^^^^^^^^", replaceOptions);
 // Save as XLS file
-workbook->Save(outDir->StringAppend(new String("book1_out.xls")));
+wb.Save("output.xls");
+
+Aspose::Cells::Cleanup();
 
 ```
 
@@ -117,7 +114,7 @@ workbook->Save(outDir->StringAppend(new String("book1_out.xls")));
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Nem kell letölteni a Aspose API számot." >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Nem kell kódot írni." >}}
         {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Csak töltse fel a XLS fájlokat." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-download" text=" Azonnal szerkesztve lesz." >}}
+        {{< blocks/products/pf/agp/democard icon="fa-download" text="Azonnal szerkesztve lesz." >}}
     {{< /blocks/products/pf/agp/demobox >}}
 
     {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLS" readMoreLink="https://docs.fileformat.com/spreadsheet/xls/" >}}

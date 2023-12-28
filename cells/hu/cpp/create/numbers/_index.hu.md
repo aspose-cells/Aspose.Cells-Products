@@ -1,7 +1,7 @@
 ---
 title: "NUMBERS létrehozása – NUMBERS fájl létrehozása itt: C++"
-description: "Aspose Excel. C++ NUMBERS fájl létrehozása. SZÁMOK létrehozása C++. C++ SZÁMOK Létrehozó. NUMBERS létrehozása itt: C++. NUMBERS fájl létrehozása a C++ használatával."
-keywords: [Aspose Excel., C++ Aspose.Cells., Create NUMBERS C++., C++ NUMBERS Creater., Create NUMBERS file in C++., Generate NUMBERS file in C++]
+description:  Aspose Excel. C++ Hozzon létre NUMBERS fájlt gyorsan és egyszerűen a Aspose.Cells segítségével. Létrehoz NUMBERS fájlt a C++ használatával. Hozzon létre SZÁMOKAT a C++-ben. C++ NUMBERS Creater.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ Create NUMBERS file., Generate NUMBERS file in C++., Create NUMBERS file using C++., Write data to NUMBERS file via C++., Create a NUMBERS file in C++., C++ Generate a NUMBERS file., C++ NUMBERS Creater]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Hozzon létre NUMBERS fájlt a C++ címen" h2="Natív és nagy teljesítményű NUMBERS fájl létrehozása programozottan a Micorsoft Office nélkül a C++ könyvtár használatával." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" sourceAdditionalConversionTag="" additionalConversionTag="NUMBERS" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -11,7 +11,7 @@ keywords: [Aspose Excel., C++ Aspose.Cells., Create NUMBERS C++., C++ NUMBERS Cr
 
 {{% blocks/products/pf/agp/content h2="Hozzon létre NUMBERS fájlt a C++ használatával" %}}
 
- Hogyan lehet NUMBERS fájlt létrehozni? A Aspose.Cells for C++ könyvtárral könnyedén létrehozhat NUMBERS fájlt programozottan néhány sornyi kóddal.[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) képes többplatformos alkalmazásokat létrehozni, módosítani, konvertálni, renderelni és kinyomtatni az összes Excel fájlt. C++ Excel API nem csak a táblázatformátumok között konvertál, hanem Excel fájlokat is képes megjeleníteni képként, PDF, HTML, ODS, CSV, CSV, CSV, CSV, CSV, CSV, SVG, és így tovább, SVG P, 8 PT a választás,3,8 ipari szabvány szerinti dokumentumok cseréjére formátumok. A legújabb verziót közvetlenül letöltheti, csak nyissa meg[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) csomagkezelő, keresse meg a Aspose.Cells.Cpp címet, és telepítse. A következő parancsot is használhatja a Package Manager konzolból.
+ Hogyan lehet NUMBERS fájlt létrehozni? A Aspose.Cells for C++ könyvtárral könnyedén létrehozhat NUMBERS fájlt programozottan néhány sornyi kóddal.[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) képes többplatformos alkalmazásokat létrehozni, módosítani, konvertálni, renderelni és kinyomtatni az összes Excel fájlt. C++ Az Excel API nemcsak a táblázatformátumok között konvertál, hanem Excel-fájlokat is képes megjeleníteni képként, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT és egyebekként, így tökéletes választás a szabványos formátumú dokumentumok cseréjéhez. A legújabb verziót közvetlenül letöltheti, csak nyissa meg[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) csomagkezelő, keresse meg a Aspose.Cells.Cpp címet, és telepítse. A következő parancsot is használhatja a Package Manager konzolból.
 
 {{% blocks/products/pf/agp/code-block title="Parancs" offSpacer="true" %}}
 
@@ -34,41 +34,47 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/text %}}
 
-1.  Hozzon létre egy objektumot az IWorkbook osztályból.
-1.  Szerelje be az első lapot egy IWorksheet objektumba.
-1.  Használja az IWorksheet->GetICells() metódust a munkalap celláinak ICells objektummá alakításához.
-1. Az ICells->GetObjectByIndex() metódus használatával elérheti a munkalap kívánt celláját egy ICell objektumba.
-1.  Használja az ICell->PutValue() metódust az érték beviteléhez a cellába.
+1.  Hozzon létre egy objektumot a Munkafüzet osztályból.
+1.  Szerelje be az első lapot egy munkalap objektumba.
+1.  Használja a Worksheet.GetCells() metódust, hogy a munkalap celláit egy Cells objektumba helyezze.
+1. Használja a Cells.Get() metódust a munkalap kívánt cellájának eléréséhez egy Cell objektumban.
+1.  Használja a Cell.PutValue() metódust az érték beviteléhez a cellába.
 1.  Mentse a munkafüzetet .numbers fájlként a Mentés() metódussal.
 
 {{% blocks/products/pf/agp/code-block title="A mintakód megmutatja, hogyan kell NUMBERS fájlt létrehozni a C++-ben." offSpacer="" %}}
 
 ```cs
+Aspose::Cells::Startup();
 
-// Create an object of the IWorkbook class.
-intrusive_ptr<IWorkbook> wkb = Factory::CreateIWorkbook();
+// Create an object of the Workbook class.
+Workbook wkb;
+// Get the first sheet into an Worksheet object.
+WorksheetCollection wsc = wkb.GetWorksheets();
+Worksheet ws = wsc.Get(0);
 
-// Get the first sheet into an IWorksheet object.
-intrusive_ptr<IWorksheetCollection> wsc = wkb->GetIWorksheets();
-intrusive_ptr<IWorksheet> ws = wsc->GetObjectByIndex(0);
 
-// Use IWorksheet->GetICells() method to get the cells of the worksheet into an ICells object.
-intrusive_ptr<ICells> cells = ws->GetICells();
+// Use Worksheet.GetCells() method to get the cells of the worksheet into an Cells object.
+Cells cells = ws.GetCells();
 
-// Use ICells->GetObjectByIndex() method to access the desired cell of the worksheet into an ICell object.
-intrusive_ptr<ICell> cell00 = cells->GetObjectByIndex(0, 0);
-intrusive_ptr<ICell> cell01 = cells->GetObjectByIndex(0, 1);
-intrusive_ptr<ICell> cell10 = cells->GetObjectByIndex(1, 0);
-intrusive_ptr<ICell> cell11 = cells->GetObjectByIndex(1, 1);
 
-// Use ICell->PutValue() method to input value into the cell.
-cell00->PutValue(new String("ColumnA"));
-cell01->PutValue(new String("ColumnB"));
-cell10->PutValue(new String("ValueA"));
-cell11->PutValue(new String("ValueB"));
+// Use Cells.Get() method to access the desired cell of the worksheet into an Cell object.
+Cell cell00 = cells.Get(0, 0);
+Cell cell01 = cells.Get(0, 1);
+Cell cell10 = cells.Get(1, 0);
+Cell cell11 = cells.Get(1, 1);
+
+
+// Use Cell.PutValue() method to input value into the cell.
+cell00.PutValue(u"ColumnA");
+cell01.PutValue(u"ColumnB");
+cell10.PutValue(u"ValueA");
+cell11.PutValue(u"ValueB");
+
 
 // Save workbook to resultFile folder
-wkb->Save(new String("created_one.numbers"));
+wkb.Save(u"created_one.numbers");
+
+Aspose::Cells::Cleanup();
 
 ```
 
@@ -104,7 +110,7 @@ Három lehetőség közül választhat a „Aspose.Cells for C++” telepítés�
 
 <!-- aboutfile Starts -->
     {{< blocks/products/pf/agp/about-file-section >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="NUMBERS" readMoreLink="https://docs.fileformat.com/spreadsheet/numbers/" >}} .numbers kiterjesztésű fájlok a táblázatkezelő fájltípusok közé tartoznak, ezért hasonlítanak az .xlsx fájlokhoz; de a Numbers fájlok az Apple iWork Numbers táblázatkezelő szoftverrel jönnek létre. Az Apple iWork Numbers az iWork Productivity Suite egységszoftvere. Az iWork Productivity Suite megegyezik a Microsoft számú irodai csomaggal, amelyet a Windows számú számítógépeken használnak. Ennélfogva elmondhatjuk, hogy a MacOS számára elérhető Numbers a Microsoft Excel versenytársa is. Hasonlóképpen, Microsoft Excel, a NUMBERS fájl is tartalmazhatja a táblázatokat, diagramokat és képleteket.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="NUMBERS" readMoreLink="https://docs.fileformat.com/spreadsheet/numbers/" >}} A .numbers kiterjesztésű fájlok a táblázatkezelő fájltípusok közé tartoznak, ezért hasonlítanak az .xlsx fájlokhoz; de a Numbers fájlok az Apple iWork Numbers táblázatkezelő szoftverrel jönnek létre. Az Apple iWork Numbers az iWork Productivity Suite egységszoftvere. Az iWork Productivity Suite megegyezik a Microsoft számú irodai csomaggal, amelyet a Windows számú számítógépeken használnak. Ennélfogva elmondhatjuk, hogy a MacOS számára elérhető Numbers a Microsoft Excel versenytársa is. Hasonlóképpen, Microsoft Excel, a NUMBERS fájl is tartalmazhatja a táblázatokat, diagramokat és képleteket.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
     {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->
 

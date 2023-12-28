@@ -1,8 +1,8 @@
 ---
 title: स्प्रेडशीटएमएल को टैबडिलीमिटेड में मिलाएं - C# में स्प्रेडशीटएमएल को टैबडेलीमिटेड में मिलाएं
 url: /hi/net/merger/merge-spreadsheetml-to-tabdelimited/ 
-description: "Aspose एक्सेल। C# Aspose.Cells। नि:शुल्क ऑनलाइन स्प्रेडशीटएमएल को टैबडीलिमिटेड सेवफॉर्मेट में मर्ज करें। C# स्प्रेडशीटएमएल को टैबडीलिमिटेड प्रारूप में संयोजित करें। C# में स्प्रेडशीटएमएल को टैबडिलीमिटेड में मर्ज करें। स्प्रेडशीटएमएल मर्ज।"
-keywords: [Aspose Excel., C# Aspose.Cells., Merge SPREADSHEETML to TABDELIMITED in C#., Free Online C# Merge SPREADSHEETML to tabdelimited., C# Combine SPREADSHEETML to TABDELIMITED Online for Free., SPREADSHEETML Merge]
+description: Aspose एक्सेल। C# Aspose.Cells. स्प्रेडशीटएमएल को टैबडेलीमिटेड सेवफॉर्मेट में मर्ज करें। C# स्प्रेडशीटएमएल को टैबडीलिमिटेड प्रारूप में संयोजित करें। C# में स्प्रेडशीटएमएल को टैबडिलीमिटेड में मर्ज करें। स्प्रेडशीटएमएल मर्ज।
+keywords: [Aspose Excel., C# Aspose.Cells., Merge SPREADSHEETML to TABDELIMITED in C#., C# Merge SPREADSHEETML to tabdelimited., C# Combine SPREADSHEETML to TABDELIMITED., SPREADSHEETML Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="C# के माध्यम से स्प्रेडशीटएमएल को TABDELIMITED में मर्ज करें" h2="स्प्रेडशीटएमएल को TABDELIMITED में मर्ज करने के लिए हाई-स्पीड C# लाइब्रेरी। C# में उच्च-स्तरीय, प्लेटफ़ॉर्म स्वतंत्र सॉफ़्टवेयर विकसित करने के लिए हमारे एक्सेल रूपांतरण API का उपयोग करें। यह Excel, CSV, OpenOffice, PDF, HTML, image और कई अन्य एक्सेल प्रारूपों को आयात और निर्यात करने के लिए एक पेशेवर सॉफ़्टवेयर समाधान है।" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="SPREADSHEETML" additionalConversionTag="TABDELIMITED" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., C# Aspose.Cells., Merge SPREADSHEETML to TABDELIMITED 
 
 {{% blocks/products/pf/agp/content h2="C# का उपयोग करके स्प्रेडशीटएमएल को TABDELIMITED में मर्ज करें" %}}
 
-मैं स्प्रेडशीटएमएल को TABDELIMITED में कैसे मर्ज करूं? Aspose.Cells for .NET लाइब्रेरी के साथ, आप कोड की कुछ पंक्तियों के साथ स्प्रेडशीटएमएल को प्रोग्रामेटिक रूप से TABDELIMITED में आसानी से मर्ज कर सकते हैं।[Aspose.Cells for .NET](https://products.aspose.com/cells/net)सभी एक्सेल फ़ाइलों को उत्पन्न करने, संशोधित करने, परिवर्तित करने, प्रस्तुत करने और प्रिंट करने की क्षमता के साथ क्रॉस-प्लेटफ़ॉर्म एप्लिकेशन बनाने में सक्षम है। .NET एक्सेल API न केवल स्प्रेडशीट प्रारूपों के बीच कनवर्ट कर सकता है, यह एक्सेल फाइलों को छवियों, PDF, HTML, ODS, CSV, SVG, JSON, वर्ड, पीपीटी और भी बहुत कुछ के रूप में प्रस्तुत कर सकता है, इस प्रकार यह एक्सचेंज के लिए एक आदर्श विकल्प बन जाता है। उद्योग-मानक में दस्तावेज़ प्रारूप. खुला[NuGet](https://www.nuget.org/packages/aspose.cells) पैकेज मैनेजर, Aspose.Cells खोजें और इंस्टॉल करें। आप पैकेज मैनेजर कंसोल से निम्न कमांड का भी उपयोग कर सकते हैं।
+मैं स्प्रेडशीटएमएल को TABDELIMITED में कैसे मर्ज करूं? Aspose.Cells for .NET लाइब्रेरी के साथ, आप कोड की कुछ पंक्तियों के साथ स्प्रेडशीटएमएल को प्रोग्रामेटिक रूप से TABDELIMITED में आसानी से मर्ज कर सकते हैं।[Aspose.Cells for .NET](https://products.aspose.com/cells/net)सभी एक्सेल फ़ाइलों को उत्पन्न करने, संशोधित करने, परिवर्तित करने, प्रस्तुत करने और प्रिंट करने की क्षमता के साथ क्रॉस-प्लेटफ़ॉर्म एप्लिकेशन बनाने में सक्षम है। .NET एक्सेल API न केवल स्प्रेडशीट प्रारूपों के बीच परिवर्तित होता है, बल्कि यह एक्सेल फाइलों को छवियों, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT और अधिक के रूप में भी प्रस्तुत कर सकता है, इस प्रकार यह उद्योग-मानक प्रारूपों में दस्तावेजों का आदान-प्रदान करने के लिए एक आदर्श विकल्प बन जाता है। खुला[NuGet](https://www.nuget.org/packages/aspose.cells) पैकेज मैनेजर, Aspose.Cells खोजें और इंस्टॉल करें। आप पैकेज मैनेजर कंसोल से निम्न कमांड का भी उपयोग कर सकते हैं।
 
 {{% blocks/products/pf/agp/code-block title="पैकेज मैनेजर कंसोल कमांड" offSpacer="true" %}}
 
@@ -26,7 +26,7 @@ PM> Install-Package Aspose.Cells
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="C# में स्प्रेडशीटएमएल को TABDELIMITED में निःशुल्क ऑनलाइन मर्ज करें" %}}
+{{% blocks/products/pf/agp/content h2="C# में स्प्रेडशीटएमएल को टैबडिलीमिटेड में मर्ज करें" %}}
 
 निम्नलिखित उदाहरण दर्शाता है कि Aspose.Cells for .NET में SPREADSHEETML को TABDELIMITED में कैसे मर्ज किया जाए।
 {{% blocks/products/pf/agp/text %}}
@@ -37,7 +37,7 @@ PM> Install-Package Aspose.Cells
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="C# में स्प्रेडशीटएमएल को टैबडिलीमिटेड में मर्ज करने के लिए निःशुल्क ऑनलाइन" InputFormat="xml" InputFormat2="tsv" outformat="tsv" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="net" %}}
+{{% cells-merger title="C# में स्प्रेडशीटएमएल को TABDELIMITED में मर्ज करने के लिए नमूना कोड" InputFormat="xml" InputFormat2="tsv" outformat="tsv" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="net" %}}
 
 {{% blocks/products/pf/agp/content h2="C# के माध्यम से स्प्रेडशीटएमएल को TABDELIMITED में कैसे मर्ज करें" %}}
 

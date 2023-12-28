@@ -12,7 +12,7 @@ keywords: [Aspose Excel., Python Aspose.Cells., Python XLAM to PDF saveformat., 
 
 {{% blocks/products/pf/agp/content h2="Python का उपयोग करके XLAM को PDF में बदलें" %}}
 
-मैं XLAM को PDF में कैसे परिवर्तित करूं? Aspose.Cells for Python लाइब्रेरी के साथ, आप कोड की कुछ पंक्तियों के साथ आसानी से XLAM को PDF में प्रोग्रामेटिक रूप से परिवर्तित कर सकते हैं।[Aspose.Cells for Python](https://pypi.org/project/aspose-cells)सभी एक्सेल फ़ाइलों को उत्पन्न करने, संशोधित करने, परिवर्तित करने, प्रस्तुत करने और प्रिंट करने की क्षमता के साथ क्रॉस-प्लेटफ़ॉर्म एप्लिकेशन बनाने में सक्षम है। Python एक्सेल API न केवल स्प्रेडशीट प्रारूपों के बीच कनवर्ट कर सकता है, यह एक्सेल फाइलों को छवियों, PDF, HTML, ODS, CSV, SVG, JSON, वर्ड, पीपीटी और भी बहुत कुछ के रूप में प्रस्तुत कर सकता है, इस प्रकार यह एक्सचेंज के लिए एक आदर्श विकल्प बन जाता है। उद्योग-मानक में दस्तावेज़ प्रारूप.
+मैं XLAM को PDF में कैसे परिवर्तित करूं? Aspose.Cells for Python लाइब्रेरी के साथ, आप कोड की कुछ पंक्तियों के साथ आसानी से XLAM को PDF में प्रोग्रामेटिक रूप से परिवर्तित कर सकते हैं।[Aspose.Cells for Python](https://pypi.org/project/aspose-cells)सभी एक्सेल फ़ाइलों को उत्पन्न करने, संशोधित करने, परिवर्तित करने, प्रस्तुत करने और प्रिंट करने की क्षमता के साथ क्रॉस-प्लेटफ़ॉर्म एप्लिकेशन बनाने में सक्षम है। Python एक्सेल API न केवल स्प्रेडशीट प्रारूपों के बीच परिवर्तित होता है, बल्कि यह एक्सेल फाइलों को छवियों, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT और अधिक के रूप में भी प्रस्तुत कर सकता है, इस प्रकार यह उद्योग-मानक प्रारूपों में दस्तावेजों का आदान-प्रदान करने के लिए एक आदर्श विकल्प बन जाता है।
  
 {{% /blocks/products/pf/agp/content %}}
 
@@ -63,12 +63,12 @@ XLAM फ़ाइलों को प्रोग्रामेटिक रू
 
 {{% blocks/products/pf/agp/text %}}
 
-Aspose.Cells for Python via Java प्लेटफ़ॉर्म-स्वतंत्र API है और इसे किसी भी प्लेटफ़ॉर्म (Windows, लिनक्स और मैकओएस) पर उपयोग किया जा सकता है, बस सुनिश्चित करें कि सिस्टम में Java 1.8 या उच्चतर है,[Python](https://www.python.org/downloads/) 3.5 या उच्चतर.
+ Aspose.Cells for Python via Java प्लेटफ़ॉर्म-स्वतंत्र API है और इसे किसी भी प्लेटफ़ॉर्म (Windows, लिनक्स और मैकओएस) पर उपयोग किया जा सकता है, बस सुनिश्चित करें कि सिस्टम में Java 1.8 या उच्चतर है,[Python](https://www.python.org/downloads/) 3.5 या उच्चतर.
  
 {{% /blocks/products/pf/agp/text %}}
 
 -  Java स्थापित करें और इसे PATH पर्यावरण चर में जोड़ें, उदाहरण के लिए:<code>PATH=C:\Program Files\Java\jdk1.8.0_131;</code>.
-- Aspose.Cells for Python से इंस्टॉल करें<a href="https://pypi.org/project/aspose-cells/">pypi</a> , कमांड का उपयोग इस प्रकार करें:<code>$ pip install aspose-cells</code>.
+-  Aspose.Cells for Python से इंस्टॉल करें<a href="https://pypi.org/project/aspose-cells/">pypi</a> , कमांड का उपयोग इस प्रकार करें:<code>$ pip install aspose-cells</code>.
 
 {{% /blocks/products/pf/agp/content %}}
 

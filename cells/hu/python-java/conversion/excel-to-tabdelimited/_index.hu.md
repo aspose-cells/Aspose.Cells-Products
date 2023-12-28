@@ -1,7 +1,7 @@
 ---
-title: Python EXCEL - TABDELIMITED - Online EXCEL - TABDELIMITED konvertáló
-description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Ingyenes online Python EXCEL konvertálása TABDELIMITED mentési formátumra. Python EXCEL - TABDELIMITED formátum. EXCEL mentése a TABDELIMITED Python-re.
-keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python EXCEL to TABDELIMITED saveformat., Free Online EXCEL to TABDELIMITED Python., Python Convert EXCEL to TABDELIMITED]
+title: Python EXCEL - TABDELIMITED - EXCEL - TABDELIMITED konverter
+description: Aspose Excel. A Aspose.Cells segítségével gyorsan és egyszerűen konvertálja az EXCEL-t TABDELIMITED-re. Python EXCEL-ből TABDELIMITED-re. Python EXCEL mentése a TABLEDELIMITED-re. EXCEL mentése TABDELIMITED néven a Python használatával.
+keywords: [Aspose Excel., Python Aspose.Cells., Convert EXCEL to TABDELIMITED in Python., Save EXCEL to TABDELIMITED using Python., Python EXCEL to TABDELIMITED saveformat., EXCEL to TABDELIMITED Converter., Python Save EXCEL as TABDELIMITED]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Az EXCEL konvertálása TABDELIMITED-re a Python-ben" h2="Nagy sebességű Python-es könyvtár az EXCEL-ből TAB-ra konvertálásáhozDELIMITED. Ez egy professzionális szoftvermegoldás EXCEL, TABDELIMITED és sok más formátum importálásához és exportálásához a Python használatával." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="TABDELIMITED" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,11 +12,11 @@ keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python EXC
 
 {{% blocks/products/pf/agp/content h2="Az EXCEL konvertálása TABDELIMITED-re a Python használatával" %}}
 
-Hogyan konvertálhatom az EXCEL-t TABDELIMITED-re? A Aspose.Cells for Python könyvtárral egyszerűen konvertálhatja az EXCEL-t TABDELIMITED-re programozottan néhány sor kóddal.[Aspose.Cells for Python](https://pypi.org/project/aspose-cells)képes többplatformos alkalmazásokat létrehozni, módosítani, konvertálni, renderelni és kinyomtatni az összes Excel fájlt. Python Excel API nem csak a táblázatformátumok között konvertál, hanem Excel fájlokat is képes megjeleníteni képként, PDF, HTML, ODS, CSV, CSV, CSV, CSV, CSV, CSV, SVG, és így tovább, SVG P, 8 PT a választás,3,8 ipari szabvány szerinti dokumentumok cseréjére formátumok.
+ Hogyan konvertálhatom az EXCEL-t TABDELIMITED-re? A Aspose.Cells for Python könyvtárral egyszerűen konvertálhatja az EXCEL-t TABDELIMITED-re programozottan néhány sor kóddal.[Aspose.Cells for Python](https://pypi.org/project/aspose-cells)képes többplatformos alkalmazásokat létrehozni, módosítani, konvertálni, renderelni és kinyomtatni az összes Excel fájlt. Python Az Excel API nemcsak a táblázatformátumok között konvertál, hanem Excel-fájlokat is képes megjeleníteni képként, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT és egyebekként, így tökéletes választás a szabványos formátumú dokumentumok cseréjéhez.
  
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Mentse el az EXCEL-t a TABDELIMITED-be a Python számon online ingyen" %}}
+{{% blocks/products/pf/agp/content h2="EXCEL mentése a Python-es TABDELIMITED-be" %}}
 
 A következő példa bemutatja, hogyan lehet EXCEL-t TABDELIMITED-re konvertálni a Python-ben.
 {{% blocks/products/pf/agp/text %}}
@@ -27,7 +27,7 @@ Kövesse az egyszerű lépéseket az EXCEL-ből TABDELIMITED-re konvertálásáh
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Ingyenes alkalmazás és mintakód az EXCEL-ből TAB-ra konvertálásáhozDELIMITED online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsx" outformat="tsv" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="Mintakód az EXCEL-ből TAB-ra konvertálásáhozDELIMITED" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsx" outformat="tsv" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="Az EXCEL konvertálása TABDELIMITED-re a Python számon keresztül" %}}
 
@@ -41,7 +41,7 @@ Programozottan kell konvertálnia az EXCEL fájlokat TABDELIMITED formátumba? P
 1.  Adjon hozzá egy könyvtári hivatkozást (importálja a könyvtárat) a Python projekthez.
 1.  Töltse be az EXCEL-fájlt a munkafüzet egy példányával.
 1.  Az EXCEL konvertálása TABDELIMITED-re a Workbook.save metódus meghívásával.
-1. Az EXCEL átalakítási eredményének lekérése TAB-raDELIMITED.
+1.  Az EXCEL átalakítási eredményének lekérése TAB-raDELIMITED.
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -63,12 +63,12 @@ Három lehetőség közül választhat a „Aspose.Cells for Python via Java” 
 
 {{% blocks/products/pf/agp/text %}}
 
-Aspose.Cells for Python via Java platformfüggetlen API, és bármilyen platformon használható (Windows, Linux és MacOS), csak győződjön meg arról, hogy a rendszer Java 1.8 vagy újabb[Python](https://www.python.org/downloads/) 3,5 vagy magasabb.
+ Aspose.Cells for Python via Java platformfüggetlen API, és bármilyen platformon használható (Windows, Linux és MacOS), csak győződjön meg arról, hogy a rendszer Java 1.8 vagy újabb[Python](https://www.python.org/downloads/) 3,5 vagy magasabb.
  
 {{% /blocks/products/pf/agp/text %}}
 
 -  Telepítse a Java-et, és adja hozzá a PATH környezeti változóhoz, például:<code>PATH=C:\Program Files\Java\jdk1.8.0_131;</code>.
-- Telepítés: Aspose.Cells for Python innen<a href="https://pypi.org/project/aspose-cells/">pypi</a> , használja a parancsot a következőképpen:<code>$ pip install aspose-cells</code>.
+-  Telepítés: Aspose.Cells for Python innen<a href="https://pypi.org/project/aspose-cells/">pypi</a> , használja a parancsot a következőképpen:<code>$ pip install aspose-cells</code>.
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -102,7 +102,7 @@ Aspose.Cells for Python via Java platformfüggetlen API, és bármilyen platform
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/excel-to-xltm/" name="EXCEL: XLTM" description="Excel-makró-kompatibilis sablon" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/excel-to-xltx/" name="EXCEL: XLTX" description="Office OpenXML Excel sablon" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/excel-to-xml/" name="EXCEL TO XML" description="Bővíthető jelölőnyelv" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/excel-to-xps/" name="EXCEL: XPS" description="XML papírspecifikációk" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/excel-to-xps/" name="EXCEL: XPS" description="XML papír specifikációk" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/excel-to-json/" name="EXCEL: JSON" description="JavaScript objektum jelölés" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}

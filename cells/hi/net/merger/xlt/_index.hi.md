@@ -31,7 +31,7 @@ PM> Install-Package Aspose.Cells
 
 {{% blocks/products/pf/agp/text %}}
 
-एक बुनियादी दस्तावेज़ जिसका विलय और संयोजन हो रहा है[Aspose.Cells for .NET](https://products.aspose.com/cells/net) एपीआई को कोड की कुछ पंक्तियों के साथ किया जा सकता है।
+ एक बुनियादी दस्तावेज़ जिसका विलय और संयोजन हो रहा है[Aspose.Cells for .NET](https://products.aspose.com/cells/net) एपीआई को कोड की कुछ पंक्तियों के साथ किया जा सकता है।
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -67,7 +67,7 @@ PM> Install-Package Aspose.Cells
             {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Aspose API डाउनलोड करने की आवश्यकता नहीं है।" >}}
             {{< blocks/products/pf/agp/democard icon="fa-edit" text=" कोई कोड लिखने की जरूरत नहीं." >}}
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text="बस अपनी XLT फ़ाइलें अपलोड करें।" >}}
-            {{< blocks/products/pf/agp/democard icon="fa-download" text="इसे तुरंत विलय और संयोजित किया जाएगा।" >}}
+            {{< blocks/products/pf/agp/democard icon="fa-download" text=" इसे तुरंत विलय और संयोजित किया जाएगा।" >}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
 

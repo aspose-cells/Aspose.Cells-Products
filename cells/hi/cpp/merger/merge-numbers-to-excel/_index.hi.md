@@ -1,8 +1,8 @@
 ---
 title: नंबरों को एक्सेल में मिलाएं - C++ में नंबरों को एक्सेल में मिलाएं
 url: /hi/cpp/merger/merge-numbers-to-excel/ 
-description: "Aspose एक्सेल। C++ Aspose.Cells. नि:शुल्क ऑनलाइन नंबरों को एक्सेल सेवफॉर्मेट में मर्ज करें। C++ संख्याओं को एक्सेल प्रारूप में संयोजित करें। C++ में नंबरों को एक्सेल में मर्ज करें। नंबर मर्ज करें।"
-keywords: [Aspose Excel., C++ Aspose.Cells., Merge NUMBERS to EXCEL in C++., Free Online C++ Merge NUMBERS to excel., C++ Combine NUMBERS to EXCEL Online for Free., NUMBERS Merge]
+description: Aspose एक्सेल। C++ Aspose.Cells. नंबरों को एक्सेल सेवफॉर्मेट में मर्ज करें। C++ संख्याओं को एक्सेल प्रारूप में संयोजित करें। C++ में नंबरों को एक्सेल में मर्ज करें। नंबर मर्ज करें।
+keywords: [Aspose Excel., C++ Aspose.Cells., Merge NUMBERS to EXCEL in C++., C++ Merge NUMBERS to excel., C++ Combine NUMBERS to EXCEL., NUMBERS Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="C++ के माध्यम से नंबरों को एक्सेल में मर्ज करें" h2="NUMBERS को EXCEL में मर्ज करने के लिए हाई-स्पीड C++ लाइब्रेरी। C++ में उच्च-स्तरीय, प्लेटफ़ॉर्म स्वतंत्र सॉफ़्टवेयर विकसित करने के लिए हमारे एक्सेल रूपांतरण API का उपयोग करें। यह Excel, CSV, OpenOffice, PDF, HTML, image और कई अन्य एक्सेल प्रारूपों को आयात और निर्यात करने के लिए एक पेशेवर सॉफ़्टवेयर समाधान है।" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" sourceAdditionalConversionTag="NUMBERS" additionalConversionTag="EXCEL" pfName="Aspose.Cells" subTitlepfName="for C++" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., C++ Aspose.Cells., Merge NUMBERS to EXCEL in C++., Fre
 
 {{% blocks/products/pf/agp/content h2="C++ का उपयोग करके नंबरों को एक्सेल में मर्ज करें" %}}
 
- मैं NUMBERS को EXCEL में कैसे मर्ज करूँ? Aspose.Cells for C++ लाइब्रेरी के साथ, आप कोड की कुछ पंक्तियों के साथ प्रोग्रामेटिक रूप से NUMBERS को EXCEL में आसानी से मर्ज कर सकते हैं।[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) सभी एक्सेल फ़ाइलों को उत्पन्न करने, संशोधित करने, परिवर्तित करने, प्रस्तुत करने और प्रिंट करने की क्षमता के साथ क्रॉस-प्लेटफ़ॉर्म एप्लिकेशन बनाने में सक्षम है। C++ एक्सेल API न केवल स्प्रेडशीट प्रारूपों के बीच कनवर्ट कर सकता है, यह एक्सेल फाइलों को छवियों, PDF, HTML, ODS, CSV, SVG, JSON, वर्ड, पीपीटी और भी बहुत कुछ के रूप में प्रस्तुत कर सकता है, इस प्रकार यह एक्सचेंज के लिए एक आदर्श विकल्प बन जाता है। उद्योग-मानक में दस्तावेज़ प्रारूप. आप इसका नवीनतम संस्करण सीधे डाउनलोड कर सकते हैं, बस खोलें[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) पैकेज मैनेजर, Aspose.Cells.सीपीपी खोजें और इंस्टॉल करें। आप पैकेज मैनेजर कंसोल से निम्न कमांड का भी उपयोग कर सकते हैं।
+ मैं NUMBERS को EXCEL में कैसे मर्ज करूँ? Aspose.Cells for C++ लाइब्रेरी के साथ, आप कोड की कुछ पंक्तियों के साथ प्रोग्रामेटिक रूप से NUMBERS को EXCEL में आसानी से मर्ज कर सकते हैं।[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) सभी एक्सेल फ़ाइलों को उत्पन्न करने, संशोधित करने, परिवर्तित करने, प्रस्तुत करने और प्रिंट करने की क्षमता के साथ क्रॉस-प्लेटफ़ॉर्म एप्लिकेशन बनाने में सक्षम है। C++ एक्सेल API न केवल स्प्रेडशीट प्रारूपों के बीच परिवर्तित होता है, बल्कि यह एक्सेल फाइलों को छवियों, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT और अधिक के रूप में भी प्रस्तुत कर सकता है, इस प्रकार यह उद्योग-मानक प्रारूपों में दस्तावेजों का आदान-प्रदान करने के लिए एक आदर्श विकल्प बन जाता है। आप इसका नवीनतम संस्करण सीधे डाउनलोड कर सकते हैं, बस खोलें[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) पैकेज मैनेजर, Aspose.Cells.सीपीपी खोजें और इंस्टॉल करें। आप पैकेज मैनेजर कंसोल से निम्न कमांड का भी उपयोग कर सकते हैं।
 
 {{% blocks/products/pf/agp/code-block title="आज्ञा" offSpacer="true" %}}
 
@@ -26,7 +26,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="C++ में निःशुल्क ऑनलाइन नंबरों को एक्सेल में मर्ज करें" %}}
+{{% blocks/products/pf/agp/content h2="C++ में नंबरों को एक्सेल में मर्ज करें" %}}
 
 निम्नलिखित उदाहरण दर्शाता है कि Aspose.Cells for C++ में NUMBERS को EXCEL में कैसे मर्ज किया जाए।
 {{% blocks/products/pf/agp/text %}}
@@ -37,7 +37,7 @@ NUMBERS को EXCEL में मर्ज करने के लिए आस
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="C++ में नंबरों को एक्सेल में मर्ज करने के लिए निःशुल्क ऑनलाइन" InputFormat="numbers" InputFormat2="xlsx" outformat="xlsx" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="cpp" %}}
+{{% cells-merger title="C++ में नंबरों को एक्सेल में मर्ज करने के लिए नमूना कोड" InputFormat="numbers" InputFormat2="xlsx" outformat="xlsx" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="cpp" %}}
 
 {{% blocks/products/pf/agp/content h2="C++ के माध्यम से नंबरों को एक्सेल में कैसे मर्ज करें" %}}
 
@@ -88,7 +88,7 @@ NUMBERS को EXCEL में मर्ज करने के लिए आस
 
 <!-- aboutfile Starts -->
     {{< blocks/products/pf/agp/about-file-section >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="NUMBERS" readMoreLink="https://docs.fileformat.com/spreadsheet/numbers/" >}}.numbers एक्सटेंशन वाली फ़ाइलों को स्प्रेडशीट फ़ाइल प्रकार के रूप में वर्गीकृत किया जाता है, इसीलिए वे .xlsx फ़ाइलों के समान होती हैं; लेकिन Numbers फ़ाइलें Apple iWork Numbers स्प्रेडशीट सॉफ़्टवेयर का उपयोग करके बनाई गई हैं। Apple iWork Numbers iWork Productivity Suite का एक यूनिट सॉफ्टवेयर है। iWork उत्पादकता सुइट Microsoft ऑफिस सुइट के बराबर है जिसका उपयोग Windows पीसी पर किया जाता है। इसलिए, हम कह सकते हैं कि Numbers जो MacOS के लिए उपलब्ध है, Microsoft Excel का भी प्रतिस्पर्धी है। इसी तरह, Microsoft एक्सेल, NUMBERS फ़ाइल में तालिकाएँ, चार्ट और सूत्र भी हो सकते हैं।{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="NUMBERS" readMoreLink="https://docs.fileformat.com/spreadsheet/numbers/" >}} .numbers एक्सटेंशन वाली फ़ाइलों को स्प्रेडशीट फ़ाइल प्रकार के रूप में वर्गीकृत किया जाता है, इसीलिए वे .xlsx फ़ाइलों के समान होती हैं; लेकिन Numbers फ़ाइलें Apple iWork Numbers स्प्रेडशीट सॉफ़्टवेयर का उपयोग करके बनाई गई हैं। Apple iWork Numbers iWork Productivity Suite का एक यूनिट सॉफ्टवेयर है। iWork उत्पादकता सुइट Microsoft ऑफिस सुइट के बराबर है जिसका उपयोग Windows पीसी पर किया जाता है। इसलिए, हम कह सकते हैं कि Numbers जो MacOS के लिए उपलब्ध है, Microsoft Excel का भी प्रतिस्पर्धी है। इसी तरह, Microsoft एक्सेल, NUMBERS फ़ाइल में तालिकाएँ, चार्ट और सूत्र भी हो सकते हैं।{{< /blocks/products/pf/agp/i18n/about-file-text >}}
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="EXCEL" readMoreLink="https://docs.fileformat.com/spreadsheet/xlsx/" >}}XLSX Microsoft एक्सेल दस्तावेजों के लिए प्रसिद्ध प्रारूप है जिसे Microsoft द्वारा Microsoft ऑफिस 2007 की रिलीज के साथ पेश किया गया था। ओओएक्सएमएल मानक ईसीएमए-376 के भाग 2 में उल्लिखित ओपन पैकेजिंग कन्वेंशन के अनुसार व्यवस्थित संरचना के आधार पर, नया प्रारूप है एक ज़िप पैकेज जिसमें कई XML फ़ाइलें होती हैं। अंतर्निहित संरचना और फ़ाइलों की जांच केवल .xlsx फ़ाइल को अनज़िप करके की जा सकती है।{{< /blocks/products/pf/agp/i18n/about-file-text >}}
     {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->
@@ -107,7 +107,6 @@ NUMBERS को EXCEL में मर्ज करने के लिए आस
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-numbers-to-pdf/" name="नंबरों को PDF में मिलाएं" description="संवहन दस्तावेज़ स्वरूप" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-numbers-to-png/" name="नंबरों को PNG में मिलाएं" description="पोर्टेबल नेटवर्क ग्राफ़िक्स" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-numbers-to-svg/" name="नंबरों को SVG में मिलाएं" description="स्केलेबल वेक्टर ग्राफिक्स" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-numbers-to-tiff/" name="नंबरों को TIFF में मिलाएं" description="टैग किया गया छवि प्रारूप" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-numbers-to-tsv/" name="नंबरों को TSV में मिलाएं" description="टैब-पृथक मान" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-numbers-to-txt/" name="नंबरों को TXT में मिलाएं" description="सामग्री या लेख दस्तावेज़" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-numbers-to-xls/" name="नंबरों को XLS में मिलाएं" description="एक्सेल बाइनरी फॉर्मेट" >}}

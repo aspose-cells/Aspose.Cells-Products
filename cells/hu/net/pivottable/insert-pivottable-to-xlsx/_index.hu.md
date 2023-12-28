@@ -1,7 +1,8 @@
 ---
 title:  PivotTable beszúrása a Micorsoft Excel XLSX fájlba a C# számon keresztül
 weight: 7690
-description: C# Mintakód a XLSX számú dokumentumok PivotTable segítségével történő előállításához. Ezzel a kóddal hozhat létre Micorsoft Excel XLSX fájlokat a VB.NET, Asp.NET vagy bármely .NET alapú alkalmazáson belüli kimutatással.
+description: C# Mintakód a kimutatás XLSX-hez való hozzáadásához a .NET könyvtár használatával. Használja ezt a kódot a kimutatás beszúrásához a XLSX fájlba VB.NET, Asp.NET vagy bármely .NET alapú alkalmazáson belül.
+keywords: [C# Aspose.Cells., c# add PivotTable in xlsx., c# insert PivotTable in xlsx., c# create PivotTable in xlsx., c# modify PivotTable in xlsx., access PivotTable in xlsx., c# add pivot table in xlsx., c# insert pivot table in xlsx., c# create pivot table in xlsx., c# modify pivot table in xlsx., access pivot table in xlsx]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="PivotTable beszúrása a XLSX dokumentumokba a C#-en keresztül" h2="Natív és nagy teljesítményű Microsoft Excel XLSX táblázat a kimutatástáblázat programozott létrehozásával, kiszolgálóoldali .NET API-k használatával." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSX" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -11,9 +12,7 @@ description: C# Mintakód a XLSX számú dokumentumok PivotTable segítségével
 
 {{% blocks/products/pf/agp/content h2="" %}}
 
- Az MS Excel XLSX fájl dinamikus előállítása a PivotTable segítségével a futó alkalmazáson belül egyszerű. Annak érdekében, hogy a XLSX számú dokumentumokat a semmiből hozzuk létre a PivotTable segítségével, MS Office használata nélkül,
- [Aspose.Cells for .NET](https://products.aspose.com/cells/net) 
- API, amely különböző funkciókat kínál a táblázatok létrehozásához, kezeléséhez és konvertálásához a .NET platformon. A fejlesztők egyszerűen javíthatják a kódot az adatok írásához, diagramok vagy grafikonok generálásához, valamint táblázatok készítéséhez.
+ Az MS Excel XLSX fájl dinamikus előállítása a PivotTable segítségével a futó alkalmazáson belül egyszerű. Annak érdekében, hogy a XLSX számú dokumentumokat a semmiből hozzuk létre a PivotTable segítségével, MS Office használata nélkül,[Aspose.Cells for .NET](https://products.aspose.com/cells/net) API, amely különböző funkciókat kínál a táblázatok létrehozásához, kezeléséhez és konvertálásához a .NET platformon. A fejlesztők egyszerűen javíthatják a kódot az adatok írásához, diagramok vagy grafikonok generálásához, valamint táblázatok készítéséhez.
 {{% /blocks/products/pf/agp/content %}}
 
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
@@ -22,7 +21,7 @@ description: C# Mintakód a XLSX számú dokumentumok PivotTable segítségével
 
 {{% blocks/products/pf/agp/text %}}
 
- fejlesztők könnyen beilleszthetik a kimutatást a XLSX formátumú táblázatba a különböző jelentéskészítő alkalmazásokba, amelyek adatfeldolgozás céljából mindössze néhány sornyi kóddal.
+ A fejlesztők könnyen beilleszthetik a kimutatást a XLSX formátumú táblázatba a különböző jelentéskészítő alkalmazásokba, amelyek adatfeldolgozás céljából mindössze néhány sornyi kóddal.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -31,7 +30,7 @@ description: C# Mintakód a XLSX számú dokumentumok PivotTable segítségével
 1.  Nyissa meg a munkafüzet első munkalapját.
 1.  Szerezze meg a munkalap kívánt celláit, és írja be az értéket a cellákba.
 1.  Helyezze be a PivotTable-t, és állítsa be a stílust
-1.  Mentés módszerrel mentheti a munkafüzetet XLSX fájlként.
+1.  A Mentés módszerrel mentheti a munkafüzetet XLSX fájlként.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -39,7 +38,7 @@ description: C# Mintakód a XLSX számú dokumentumok PivotTable segítségével
 
 {{% blocks/products/pf/agp/text %}}
 
- Csak győződjön meg arról, hogy a rendszer Microsoft Windows vagy kompatibilis operációs rendszerrel rendelkezik .NET Framework, .NET Core, Windows Azure, Mono vagy Xamarin Platformokkal, valamint Visu71616340-hoz hasonló fejlesztői környezettel.
+Csak győződjön meg arról, hogy a rendszer Microsoft Windows vagy kompatibilis operációs rendszerrel rendelkezik .NET Framework, .NET Core, Windows Azure, Mono vagy Xamarin Platformokkal, valamint Visu71616340-hoz hasonló fejlesztői környezettel.
 
 {{% /blocks/products/pf/agp/text %}}
 

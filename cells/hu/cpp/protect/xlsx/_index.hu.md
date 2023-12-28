@@ -2,6 +2,7 @@
 title:  A XLSX dokumentum védelme és zárolása a C++ számon keresztül
 weight: 1140
 description: C++ példakód a XLSX fájl zárolásához jelszóval a C++ futásidejű környezet Windows 32 bites, Windows 64 bites és 64 bites Linux esetén.
+keywords: [C++ Aspose.Cells., C++ Lock XLSX files., C++ How to Protect and lock XLSX document., C++ Protect XLSX files., Encrypt XLSX Files using C++]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="XLSX fájlok titkosítása a C++ számon keresztül" h2="Jelszóvédett Excel-táblázatok, beleértve a XLSX formátumot a .NET könyvtár használatával." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSX" pfName="Aspose.Cells" subTitlepfName="for C++" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -41,7 +42,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/text %}}
 
-1.  Töltse be a XLSX fájlt az IWorkbook osztály segítségével
+1.  Töltse be a XLSX fájlt a munkafüzet osztály használatával
 1.  Használja a Protect(..) metódust a ProtectionType-val és a jelszóval
 1.  Mentse a védett XLSX fájlt a Mentés() metódussal
 
@@ -64,20 +65,24 @@ PM> Install-Package Aspose.Cells.Cpp
 
 ```cs
 
-// Source path.
-StringPtr srcDir = new String("SourcePath\");
+Aspose::Cells::Startup();
 
-// Output path.
-StringPtr outDir = new String("OutputPath\");
+// load the ODS Excel file 
+Workbook book(u"unlocked.xlsx");
 
-// Load XLSX file
-intrusive_ptr<IWorkbook> workbook = Factory::CreateIWorkbook(srcDir->StringAppend(new String("sourceFile.xlsx")));
+// access the first worksheet
+Worksheet worksheet = book.GetWorksheets().Get(0);
 
-// Protect workbook by specifying protection type
-workbook->Protect(ProtectionType::ProtectionType_All, new String("12345"));
+// protect the worksheet with password
+worksheet.Protect(ProtectionType::All, u"password", nullptr);
 
-// Save the XLSX file
-workbook->Save(outDir->StringAppend(new String("output.xlsx")));
+// protect the whole workbook with password
+book.Protect(ProtectionType::All, u"password");
+
+// save the modified file in default format
+book.Save(u"protected.xlsx");
+
+Aspose::Cells::Cleanup();
 
 ```
 

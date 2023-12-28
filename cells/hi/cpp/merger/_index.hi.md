@@ -61,7 +61,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{% cells-merger title="एक्सेल फ़ाइलों को ऑनलाइन मर्ज करने के लिए निःशुल्क ऐप" InputFormat="xlsx" InputFormat2="xlsx" outformat="xlsx" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;ods;csv;tsv;html;jpg;bmp;png;svg;tiff;xps;mhtml;md" IsLandingPage="true" language="cpp" %}}
+{{% cells-merger title="एक्सेल फ़ाइलों को ऑनलाइन मर्ज करने के लिए निःशुल्क ऐप" InputFormat="xlsx" InputFormat2="xlsx" outformat="xlsx" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;ods;csv;tsv;html;jpg;bmp;png;svg;xps;mhtml;md" IsLandingPage="true" language="cpp" %}}
  
 <!-- aboutfile Starts -->
 

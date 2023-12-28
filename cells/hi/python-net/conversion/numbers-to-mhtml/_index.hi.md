@@ -1,7 +1,7 @@
 ---
-title: Python नंबर से MHTML - ऑनलाइन नंबर से MHTML कनवर्टर
-description: Aspose एक्सेल। Python Aspose.Cells. Python Aspose Cells. मुफ़्त ऑनलाइन Python नंबरों को MHTML सेव फॉर्मेट में कनवर्ट करें। Python नंबर से MHTML प्रारूप। MHTML Python पर नंबर सेव करें।
-keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python NUMBERS to MHTML saveformat., Free Online NUMBERS to MHTML Python., Python Convert NUMBERS to MHTML]
+title: Python नंबर से MHTML - नंबर से MHTML कनवर्टर
+description: Aspose एक्सेल। Aspose.Cells के साथ जल्दी और आसानी से NUMBERS को MHTML में बदलें। Python NUMBERS को MHTML में बदलें। Python NUMBERS को MHTML में सहेजें। Python का उपयोग करके NUMBERS को MHTML के रूप में सहेजें।
+keywords: [Aspose Excel., Python Aspose.Cells., Convert NUMBERS to MHTML in Python., Save NUMBERS to MHTML using Python., Python NUMBERS to MHTML saveformat., NUMBERS to MHTML Converter., Python Save NUMBERS as MHTML]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Python में NUMBERS को MHTML में बदलें" h2="NUMBERS को MHTML में परिवर्तित करने के लिए हाई-स्पीड Python लाइब्रेरी। Python में उच्च-स्तरीय, प्लेटफ़ॉर्म स्वतंत्र सॉफ़्टवेयर विकसित करने के लिए हमारे एक्सेल रूपांतरण API का उपयोग करें।" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="MHTML" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,12 +12,12 @@ keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python NUM
 
 {{% blocks/products/pf/agp/content h2="Python में NUMBERS को MHTML में बदलें" %}}
 
- मैं NUMBERS को MHTML में कैसे परिवर्तित करूं? NET लाइब्रेरी के माध्यम से Aspose.Cells for Python के साथ, आप कोड की कुछ पंक्तियों के साथ आसानी से NUMBERS को प्रोग्रामेटिक रूप से MHTML में परिवर्तित कर सकते हैं।[Aspose.Cells for Python वाया NET](https://pypi.org/project/aspose-cells-python/)सभी एक्सेल फ़ाइलों को उत्पन्न करने, संशोधित करने, परिवर्तित करने, प्रस्तुत करने और प्रिंट करने की क्षमता के साथ क्रॉस-प्लेटफ़ॉर्म एप्लिकेशन बनाने में सक्षम है। Python एक्सेल API न केवल स्प्रेडशीट प्रारूपों के बीच कनवर्ट कर सकता है, यह एक्सेल फाइलों को छवियों, PDF, HTML, ODS, CSV, SVG, JSON, वर्ड, पीपीटी और भी बहुत कुछ के रूप में प्रस्तुत कर सकता है, इस प्रकार यह एक्सचेंज के लिए एक आदर्श विकल्प बन जाता है। उद्योग-मानक में दस्तावेज़ प्रारूप.
+ मैं NUMBERS को MHTML में कैसे परिवर्तित करूं? NET लाइब्रेरी के माध्यम से Aspose.Cells for Python के साथ, आप कोड की कुछ पंक्तियों के साथ आसानी से NUMBERS को प्रोग्रामेटिक रूप से MHTML में परिवर्तित कर सकते हैं।[Aspose.Cells for Python वाया NET](https://pypi.org/project/aspose-cells-python/)सभी एक्सेल फ़ाइलों को उत्पन्न करने, संशोधित करने, परिवर्तित करने, प्रस्तुत करने और प्रिंट करने की क्षमता के साथ क्रॉस-प्लेटफ़ॉर्म एप्लिकेशन बनाने में सक्षम है। Python एक्सेल API न केवल स्प्रेडशीट प्रारूपों के बीच परिवर्तित होता है, बल्कि यह एक्सेल फाइलों को छवियों, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT और अधिक के रूप में भी प्रस्तुत कर सकता है, इस प्रकार यह उद्योग-मानक प्रारूपों में दस्तावेजों का आदान-प्रदान करने के लिए एक आदर्श विकल्प बन जाता है।
 
 {{% /blocks/products/pf/agp/content %}}
 
 
-{{% blocks/products/pf/agp/content h2="Python में MHTML पर निःशुल्क ऑनलाइन नंबर सेव करें" %}}
+{{% blocks/products/pf/agp/content h2="Python में नंबर को MHTML पर सेव करें" %}}
 
 निम्नलिखित उदाहरण दर्शाता है कि Python via NET में NUMBERS को MHTML में कैसे परिवर्तित किया जाए।
 {{% blocks/products/pf/agp/text %}}
@@ -28,7 +28,7 @@ NUMBERS को MHTML में बदलने के लिए आसान च
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="संख्याओं को MHTML में ऑनलाइन बदलने के लिए निःशुल्क ऐप और नमूना कोड" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="numbers" outformat="mhtml" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="संख्याओं को MHTML में बदलने के लिए नमूना कोड" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="numbers" outformat="mhtml" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="NUMBERS को MHTML में कैसे बदलें" %}}
 
@@ -52,7 +52,7 @@ NUMBERS फ़ाइलों को प्रोग्रामेटिक र
 हम अपने Python पैकेजों को PyPi रिपॉजिटरी में होस्ट करते हैं।
 
 {{% blocks/products/pf/agp/text %}}
-Aspose.Cells for Python से इंस्टॉल करें<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , कमांड का उपयोग इस प्रकार करें:<code>$ pip install aspose-cells-python</code>.
+ Aspose.Cells for Python से इंस्टॉल करें<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , कमांड का उपयोग इस प्रकार करें:<code>$ pip install aspose-cells-python</code>.
 {{% /blocks/products/pf/agp/text %}}
 
 {{% blocks/products/pf/agp/text %}}
@@ -72,7 +72,7 @@ Aspose.Cells for Python से इंस्टॉल करें<a href="https:
 
 <!-- aboutfile Starts -->
     {{< blocks/products/pf/agp/about-file-section >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="NUMBERS" readMoreLink="https://docs.fileformat.com/spreadsheet/numbers/" >}}.numbers एक्सटेंशन वाली फ़ाइलों को स्प्रेडशीट फ़ाइल प्रकार के रूप में वर्गीकृत किया जाता है, इसीलिए वे .xlsx फ़ाइलों के समान होती हैं; लेकिन Numbers फ़ाइलें Apple iWork Numbers स्प्रेडशीट सॉफ़्टवेयर का उपयोग करके बनाई गई हैं। Apple iWork Numbers iWork Productivity Suite का एक यूनिट सॉफ्टवेयर है। iWork उत्पादकता सुइट Microsoft ऑफिस सुइट के बराबर है जिसका उपयोग Windows पीसी पर किया जाता है। इसलिए, हम कह सकते हैं कि Numbers जो MacOS के लिए उपलब्ध है, Microsoft Excel का भी प्रतिस्पर्धी है। इसी तरह, Microsoft एक्सेल, NUMBERS फ़ाइल में तालिकाएँ, चार्ट और सूत्र भी हो सकते हैं।{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="NUMBERS" readMoreLink="https://docs.fileformat.com/spreadsheet/numbers/" >}} .numbers एक्सटेंशन वाली फ़ाइलों को स्प्रेडशीट फ़ाइल प्रकार के रूप में वर्गीकृत किया जाता है, इसीलिए वे .xlsx फ़ाइलों के समान होती हैं; लेकिन Numbers फ़ाइलें Apple iWork Numbers स्प्रेडशीट सॉफ़्टवेयर का उपयोग करके बनाई गई हैं। Apple iWork Numbers iWork Productivity Suite का एक यूनिट सॉफ्टवेयर है। iWork उत्पादकता सुइट Microsoft ऑफिस सुइट के बराबर है जिसका उपयोग Windows पीसी पर किया जाता है। इसलिए, हम कह सकते हैं कि Numbers जो MacOS के लिए उपलब्ध है, Microsoft Excel का भी प्रतिस्पर्धी है। इसी तरह, Microsoft एक्सेल, NUMBERS फ़ाइल में तालिकाएँ, चार्ट और सूत्र भी हो सकते हैं।{{< /blocks/products/pf/agp/i18n/about-file-text >}}
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="MHTML" readMoreLink="https://docs.fileformat.com/web/mhtml/" >}}MHTML एक्सटेंशन वाली फ़ाइलें एक वेब पेज संग्रह प्रारूप का प्रतिनिधित्व करती हैं जिसे कई अलग-अलग अनुप्रयोगों द्वारा बनाया जा सकता है। इस प्रारूप को संग्रह प्रारूप के रूप में जाना जाता है क्योंकि यह वेब HTML कोड और संबंधित संसाधनों को एक ही फ़ाइल में सहेजता है। इन संसाधनों में वेबपेज से जुड़ी कुछ भी चीजें शामिल हैं जैसे कि छवियां, एप्लेट्स, एनिमेशन, ऑडियो फ़ाइलें इत्यादि। MHTML फ़ाइलें इंटरनेट एक्सप्लोरर और Microsoft वर्ड जैसे विभिन्न अनुप्रयोगों में खोली जा सकती हैं। Microsoft Windows Windows पर किसी भी एप्लिकेशन के उपयोग के दौरान देखी गई समस्याओं के परिदृश्यों को रिकॉर्ड करने के लिए MHTML फ़ाइल प्रारूप का उपयोग करता है जो समस्याएं पैदा करता है। MHTML फ़ाइल प्रारूप संदेश/आरएफसी822 में परिभाषित विशिष्टताओं के समान पृष्ठ सामग्री को एनकोड करता है जो कि सादा पाठ ईमेल से संबंधित विशिष्टताएं हैं।{{< /blocks/products/pf/agp/i18n/about-file-text >}}
     {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->

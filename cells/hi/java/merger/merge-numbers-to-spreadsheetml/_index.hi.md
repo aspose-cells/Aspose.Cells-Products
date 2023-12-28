@@ -1,8 +1,8 @@
 ---
 title: संख्याओं को स्प्रेडशीटएमएल में मिलाएं - Java में संख्याओं को स्प्रेडशीटएमएल में मिलाएं
 url: /hi/java/merger/merge-numbers-to-spreadsheetml/ 
-description: Aspose एक्सेल। Java Aspose.Cells. मुफ़्त ऑनलाइन नंबरों को स्प्रेडशीटएमएल सेवफॉर्मेट में मर्ज करें। Java संख्याओं को स्प्रेडशीटएमएल प्रारूप में संयोजित करें। Java में नंबरों को स्प्रेडशीटएमएल में मिलाएं। नंबरों को मिलाएं।
-keywords: [Aspose Excel., Java Aspose.Cells., Merge NUMBERS to SPREADSHEETML in Java., Free Online Java Merge NUMBERS to spreadsheetml., Java Combine NUMBERS to SPREADSHEETML Online for Free., NUMBERS Merge]
+description: Aspose एक्सेल। Java Aspose.Cells. संख्याओं को स्प्रेडशीटएमएल सेवफॉर्मेट में मर्ज करें। Java संख्याओं को स्प्रेडशीटएमएल प्रारूप में संयोजित करें। Java में नंबरों को स्प्रेडशीटएमएल में मिलाएं। नंबरों को मिलाएं।
+keywords: [Aspose Excel., Java Aspose.Cells., Merge NUMBERS to SPREADSHEETML in Java., Java Merge NUMBERS to spreadsheetml., Java Combine NUMBERS to SPREADSHEETML., NUMBERS Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="नंबरों को स्प्रेडशीटएमएल via Java में मिलाएं" h2="नंबरों को स्प्रेडशीटएमएल में मर्ज करने के लिए हाई-स्पीड Java लाइब्रेरी। Java में उच्च-स्तरीय, प्लेटफ़ॉर्म स्वतंत्र सॉफ़्टवेयर विकसित करने के लिए हमारे एक्सेल रूपांतरण API का उपयोग करें। यह Excel, CSV, OpenOffice, PDF, HTML, image और कई अन्य एक्सेल प्रारूपों को आयात और निर्यात करने के लिए एक पेशेवर सॉफ़्टवेयर समाधान है।" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="NUMBERS" additionalConversionTag="SPREADSHEETML" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Merge NUMBERS to SPREADSHEETML in 
 
 {{% blocks/products/pf/agp/content h2="Java का उपयोग करके नंबरों को स्प्रेडशीटएमएल में मिलाएं" %}}
 
- मैं नंबरों को स्प्रेडशीटएमएल में कैसे मर्ज करूं? Aspose.Cells for Java लाइब्रेरी के साथ, आप कोड की कुछ पंक्तियों के साथ प्रोग्रामेटिक रूप से नंबरों को स्प्रेडशीटएमएल में आसानी से मर्ज कर सकते हैं।[Aspose.Cells for Java](https://products.aspose.com/cells/java) सभी एक्सेल फ़ाइलों को उत्पन्न करने, संशोधित करने, परिवर्तित करने, प्रस्तुत करने और प्रिंट करने की क्षमता के साथ क्रॉस-प्लेटफ़ॉर्म एप्लिकेशन बनाने में सक्षम है। Java एक्सेल API न केवल स्प्रेडशीट प्रारूपों के बीच कनवर्ट कर सकता है, यह एक्सेल फाइलों को छवियों, PDF, HTML, ODS, CSV, SVG, JSON, वर्ड, पीपीटी और भी बहुत कुछ के रूप में प्रस्तुत कर सकता है, इस प्रकार यह एक्सचेंज के लिए एक आदर्श विकल्प बन जाता है। उद्योग-मानक में दस्तावेज़ प्रारूप. आप इसका नवीनतम संस्करण सीधे यहां से डाउनलोड कर सकते हैं[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) और pom.xml में निम्नलिखित कॉन्फ़िगरेशन जोड़कर इसे अपने Maven-आधारित प्रोजेक्ट में स्थापित करें।
+ मैं नंबरों को स्प्रेडशीटएमएल में कैसे मर्ज करूं? Aspose.Cells for Java लाइब्रेरी के साथ, आप कोड की कुछ पंक्तियों के साथ प्रोग्रामेटिक रूप से नंबरों को स्प्रेडशीटएमएल में आसानी से मर्ज कर सकते हैं।[Aspose.Cells for Java](https://products.aspose.com/cells/java)सभी एक्सेल फ़ाइलों को उत्पन्न करने, संशोधित करने, परिवर्तित करने, प्रस्तुत करने और प्रिंट करने की क्षमता के साथ क्रॉस-प्लेटफ़ॉर्म एप्लिकेशन बनाने में सक्षम है। Java एक्सेल API न केवल स्प्रेडशीट प्रारूपों के बीच परिवर्तित होता है, बल्कि यह एक्सेल फाइलों को छवियों, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT और अधिक के रूप में भी प्रस्तुत कर सकता है, इस प्रकार यह उद्योग-मानक प्रारूपों में दस्तावेजों का आदान-प्रदान करने के लिए एक आदर्श विकल्प बन जाता है। आप इसका नवीनतम संस्करण सीधे यहां से डाउनलोड कर सकते हैं[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) और pom.xml में निम्नलिखित कॉन्फ़िगरेशन जोड़कर इसे अपने Maven-आधारित प्रोजेक्ट में स्थापित करें।
 
 {{% blocks/products/pf/agp/code-block title="कोष" offSpacer="true" %}}
 
@@ -45,7 +45,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Merge NUMBERS to SPREADSHEETML in 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Java में नंबरों को स्प्रेडशीटएमएल में निःशुल्क ऑनलाइन मर्ज करें" %}}
+{{% blocks/products/pf/agp/content h2="Java में नंबरों को स्प्रेडशीटएमएल में मिलाएं" %}}
 
 निम्नलिखित उदाहरण दर्शाता है कि Aspose.Cells for Java में NUMBERS को SPREADSHEETML में कैसे मर्ज किया जाए।
 {{% blocks/products/pf/agp/text %}}
@@ -56,7 +56,7 @@ NUMBERS को SPREADSHETML में मर्ज करने के लिए
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Java में नंबरों को स्प्रेडशीटएमएल में मर्ज करने के लिए निःशुल्क ऑनलाइन" InputFormat="numbers" InputFormat2="xml" outformat="xml" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="java" %}}
+{{% cells-merger title="Java में नंबरों को स्प्रेडशीटएमएल में मर्ज करने के लिए नमूना कोड" InputFormat="numbers" InputFormat2="xml" outformat="xml" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="स्प्रेडशीटएमएल via Java में नंबरों को कैसे मर्ज करें" %}}
 
@@ -102,7 +102,7 @@ NUMBERS को SPREADSHETML में मर्ज करने के लिए
 
 <!-- aboutfile Starts -->
     {{< blocks/products/pf/agp/about-file-section >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="NUMBERS" readMoreLink="https://docs.fileformat.com/spreadsheet/numbers/" >}}.numbers एक्सटेंशन वाली फ़ाइलों को स्प्रेडशीट फ़ाइल प्रकार के रूप में वर्गीकृत किया जाता है, इसीलिए वे .xlsx फ़ाइलों के समान होती हैं; लेकिन Numbers फ़ाइलें Apple iWork Numbers स्प्रेडशीट सॉफ़्टवेयर का उपयोग करके बनाई गई हैं। Apple iWork Numbers iWork Productivity Suite का एक यूनिट सॉफ्टवेयर है। iWork उत्पादकता सुइट Microsoft ऑफिस सुइट के बराबर है जिसका उपयोग Windows पीसी पर किया जाता है। इसलिए, हम कह सकते हैं कि Numbers जो MacOS के लिए उपलब्ध है, Microsoft Excel का भी प्रतिस्पर्धी है। इसी तरह, Microsoft एक्सेल, NUMBERS फ़ाइल में तालिकाएँ, चार्ट और सूत्र भी हो सकते हैं।{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="NUMBERS" readMoreLink="https://docs.fileformat.com/spreadsheet/numbers/" >}} .numbers एक्सटेंशन वाली फ़ाइलों को स्प्रेडशीट फ़ाइल प्रकार के रूप में वर्गीकृत किया जाता है, इसीलिए वे .xlsx फ़ाइलों के समान होती हैं; लेकिन Numbers फ़ाइलें Apple iWork Numbers स्प्रेडशीट सॉफ़्टवेयर का उपयोग करके बनाई गई हैं। Apple iWork Numbers iWork Productivity Suite का एक यूनिट सॉफ्टवेयर है। iWork उत्पादकता सुइट Microsoft ऑफिस सुइट के बराबर है जिसका उपयोग Windows पीसी पर किया जाता है। इसलिए, हम कह सकते हैं कि Numbers जो MacOS के लिए उपलब्ध है, Microsoft Excel का भी प्रतिस्पर्धी है। इसी तरह, Microsoft एक्सेल, NUMBERS फ़ाइल में तालिकाएँ, चार्ट और सूत्र भी हो सकते हैं।{{< /blocks/products/pf/agp/i18n/about-file-text >}}
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="SPREADSHEETML" readMoreLink="https://docs.fileformat.com/web/xml/" >}}XML का मतलब एक्स्टेंसिबल मार्कअप लैंग्वेज है जो HTML के समान है लेकिन ऑब्जेक्ट को परिभाषित करने के लिए टैग का उपयोग करने में भिन्न है। XML फ़ाइल स्वरूप के निर्माण के पीछे का पूरा विचार सॉफ़्टवेयर या हार्डवेयर टूल पर निर्भर हुए बिना डेटा को संग्रहीत और परिवहन करना था। इसकी लोकप्रियता इसके मानव और मशीन दोनों द्वारा पठनीय होने के कारण है। यह इसे वर्ल्ड वाइड वेब (डब्ल्यूडब्ल्यूडब्ल्यू) जैसे नेटवर्क पर संग्रहीत और साझा किए जाने वाले ऑब्जेक्ट के रूप में सामान्य डेटा प्रोटोकॉल बनाने में सक्षम बनाता है। XML में "X" एक्स्टेंसिबल के लिए है जिसका अर्थ है कि भाषा को उपयोगकर्ता की आवश्यकताओं के अनुसार किसी भी संख्या में प्रतीकों तक बढ़ाया जा सकता है। यह इन सुविधाओं के लिए है कि कई मानक फ़ाइल प्रारूप इसका उपयोग करते हैं जैसे Microsoft ओपन एक्सएमएल, लिबरऑफिस ओपनडॉक्यूमेंट, एक्सएचटीएमएल और SVG।{{< /blocks/products/pf/agp/i18n/about-file-text >}}
     {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->

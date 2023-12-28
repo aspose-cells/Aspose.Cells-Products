@@ -2,6 +2,7 @@
 title:  Keresés a XLSX dokumentumban a via Java megnyitása nélkül
 weight: 6780
 description: Java mintakód a XLSX fájlban a Java futásidejű környezet JSP/JSF-alkalmazásokhoz és asztali alkalmazásokhoz.
+keywords: [Java Aspose.Cells., Java search words with pattern in XLSX file., Java find words with pattern in XLSX file., Java search string with pattern in XLSX file., Java find words with pattern in XLSX file., Java search words in excel file., Java find words in excel file., Java search string in excel file., Java find string in excel file]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Keresés: XLSX Formátumok a Java-ben" h2="Natív és nagy teljesítményű XLSX dokumentumkeresés szerveroldali Aspose.Cells for Java API-kkal, olyan szoftverek használata nélkül, mint a Microsoft vagy az Adobe PDF." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="XLSX" >}}
@@ -62,7 +63,7 @@ description: Java mintakód a XLSX fájlban a Java futásidejű környezet JSP/J
 + Keresse meg a megadott képletet tartalmazó cellát.
 + Példányos keresési opciók.
 + Keresse meg a karakterlánc értéket tartalmazó cellát
-+ Nyomtassa ki a keresési eredmény után talált cellákat
+Nyomtassa ki a keresési eredmény után talált cellákat
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

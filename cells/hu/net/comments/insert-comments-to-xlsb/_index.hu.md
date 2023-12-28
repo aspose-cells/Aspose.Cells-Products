@@ -2,6 +2,7 @@
 title: Megjegyzések beszúrása a XLSB via .NET fájlba
 url: /hu/net/comments/insert-comments-to-xlsb/ 
 description: Megjegyzések beszúrása a XLSB számra a C# használatával. Használja a API példakódot megjegyzések beszúrásához a .NET alkalmazáson belül.
+keywords: [C# Aspose.Cells., add XLSB comments., insert XLSB comments., access XLSB comments., remove XLSB comments., delete XLSB comments., add comments in XLSB., insert comments in XLSB., access comments in XLSB., remove comments in XLSB., delete comments in XLSB]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Megjegyzések beszúrása a XLSB-es fájlba a C#-en keresztül" h2="Készítse el saját .NET alkalmazását a dokumentumfájlok megjegyzéseinek és szerzőinek manipulálásához szerveroldali API-k segítségével." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSB" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="XLS" fileiconsmall2="XLSB" fileiconsmall3="XLSX" fileiconsmall4="XLSM" fileiconsmall5="ODS" >}}
@@ -11,7 +12,7 @@ description: Megjegyzések beszúrása a XLSB számra a C# használatával. Hasz
 
 {{% blocks/products/pf/agp/content h2="Megjegyzések beszúrása a XLSB fájlba a .NET használatával" %}}
 
- A Aspose.Cells for .NET könyvtárral egyszerűen, néhány soros kóddal programozottan illeszthet be megjegyzéseket a XLSB fájlba.[Aspose.Cells for .NET](https://products.aspose.com/cells/net)képes többplatformos alkalmazásokat létrehozni, módosítani, konvertálni, renderelni és kinyomtatni az összes Excel fájlt. .NET Excel API nem csak a táblázatformátumok között konvertál, hanem Excel fájlokat is képes megjeleníteni képként, PDF, HTML, ODS, CSV, CSV, CSV, CSV, CSV, CSV, SVG, és így tovább, SVG P, 8 PT a választás,3,8 ipari szabvány szerinti dokumentumok cseréjére formátumok. Nyisd ki[NuGet](https://www.nuget.org/packages/aspose.cells) csomagkezelő, keresse meg a Aspose.Cells-et, és telepítse. A következő parancsot is használhatja a Package Manager konzolból.
+ A Aspose.Cells for .NET könyvtárral egyszerűen, néhány soros kóddal programozottan illeszthet be megjegyzéseket a XLSB fájlba.[Aspose.Cells for .NET](https://products.aspose.com/cells/net)képes többplatformos alkalmazásokat létrehozni, módosítani, konvertálni, renderelni és kinyomtatni az összes Excel fájlt. .NET Az Excel API nemcsak a táblázatformátumok között konvertál, hanem Excel-fájlokat is képes megjeleníteni képként, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT és egyebekként, így tökéletes választás a szabványos formátumú dokumentumok cseréjéhez. Nyisd ki[NuGet](https://www.nuget.org/packages/aspose.cells) csomagkezelő, keresse meg a Aspose.Cells-et, és telepítse. A következő parancsot is használhatja a Package Manager konzolból.
 
 {{% blocks/products/pf/agp/code-block title="Csomagkezelő konzolparancs" offSpacer="true" %}}
 

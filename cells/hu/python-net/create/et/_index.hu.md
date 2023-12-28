@@ -1,7 +1,7 @@
 ---
 title: ET létrehozása – ET-fájl létrehozása a Python-ben
-description: Aspose Excel. Python ET-fájl létrehozása. ET Python. Python ET Creater létrehozása. Hozzon létre ET-t a Python-ben. Hozzon létre ET-fájlt a Python használatával.
-keywords: [Aspose Excel., Python Aspose.Cells., Create ET Python., Python ET Creater., Create ET file in Python., Generate ET file in Python]
+description:  Aspose Excel. ET
+keywords: [Aspose Excel., Python Aspose.Cells., Python Create ET file., Generate ET file in Python., Create ET file using Python., Write data to ET file via Python., Create a ET file in Python., Python Generate a ET file., Python ET Creater]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Hozzon létre ET-fájlt a Python-ben" h2="Nagy sebességű Python könyvtár ET-fájl létrehozásához. Használja a API-es excel konverziónkat magas szintű, platformfüggetlen szoftver fejlesztéséhez a Python-ben." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="ET" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -11,7 +11,7 @@ keywords: [Aspose Excel., Python Aspose.Cells., Create ET Python., Python ET Cre
 
 {{% blocks/products/pf/agp/content h2="Hozzon létre ET-fájlt a Python használatával" %}}
 
- Hogyan készítsünk ET fájlt? A Aspose.Cells for Python számmal a NET könyvtáron keresztül könnyedén létrehozhat ET-fájlt programozottan néhány sornyi kóddal.[Aspose.Cells for Python](https://pypi.org/project/aspose-cells-python/)képes többplatformos alkalmazásokat létrehozni, módosítani, konvertálni, renderelni és kinyomtatni az összes Excel fájlt. Python Excel API nem csak a táblázatformátumok között konvertál, hanem Excel fájlokat is képes megjeleníteni képként, PDF, HTML, ODS, CSV, CSV, CSV, CSV, CSV, CSV, SVG, és így tovább, SVG P, 8 PT a választás,3,8 ipari szabvány szerinti dokumentumok cseréjére formátumok.
+ Hogyan készítsünk ET fájlt? A Aspose.Cells for Python számmal a NET könyvtáron keresztül könnyedén létrehozhat ET-fájlt programozottan néhány sornyi kóddal.[Aspose.Cells for Python](https://pypi.org/project/aspose-cells-python/)képes többplatformos alkalmazásokat létrehozni, módosítani, konvertálni, renderelni és kinyomtatni az összes Excel fájlt. Python Az Excel API nemcsak a táblázatformátumok között konvertál, hanem Excel-fájlokat is képes megjeleníteni képként, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT és egyebekként, így tökéletes választás a szabványos formátumú dokumentumok cseréjéhez.
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -62,7 +62,7 @@ workbook.save("output.et")
 A Python-es csomagjainkat PyPi-tárolókban tároljuk.
 
 {{% blocks/products/pf/agp/text %}}
-Telepítés: Aspose.Cells for Python innen<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , használja a parancsot a következőképpen:<code>$ pip install aspose-cells-python</code>.
+ Telepítés: Aspose.Cells for Python innen<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , használja a parancsot a következőképpen:<code>$ pip install aspose-cells-python</code>.
 {{% /blocks/products/pf/agp/text %}}
 
 {{% blocks/products/pf/agp/text %}}

@@ -1,7 +1,7 @@
 ---
-title: Java IMAGE to OTS - Online IMAGE to OTS Converter
-description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Ingyenes online Java IMAGE konvertálása OTS mentési formátumba. Java IMAGE OTS formátumba. Az IMAGE mentése az OTS Java számra.
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java IMAGE to OTS saveformat., Free Online IMAGE to OTS Java., Java Convert IMAGE to OTS]
+title: Java IMAGE to OTS - IMAGE to OTS Converter
+description: Aspose Excel. A Aspose.Cells segítségével gyorsan és egyszerűen konvertálja az IMAGE-et OTS-re. Java IMAGE-t OTS-re. Java A KÉP mentése az OTS-be. Mentse az IMAGE-ot OTS-ként a Java számon.
+keywords: [Aspose Excel., Java Aspose.Cells., Convert IMAGE to OTS in Java., Save IMAGE to OTS using Java., Java IMAGE to OTS saveformat., IMAGE to OTS Converter., Java Save IMAGE as OTS]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Konvertálja az IMAGE-ot OTS-re a Java-ben" h2="Nagy sebességű Java könyvtár az IMAGE OTS-re konvertálásához. Ez egy professzionális szoftvermegoldás IMAGE, OTS és sok más formátum importálásához és exportálásához a Java számon." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="OTS" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java IMAGE to 
 
 {{% blocks/products/pf/agp/content h2="Konvertálja az IMAGE-ot OTS-re a Java használatával" %}}
 
- Hogyan konvertálhatom az IMAGE-ot OTS-re? A Aspose.Cells for Java könyvtárral egyszerűen konvertálhatja az IMAGE-ot OTS-vé programozottan néhány sornyi kóddal.[Aspose.Cells for Java](https://products.aspose.com/cells/java) képes többplatformos alkalmazásokat létrehozni, módosítani, konvertálni, renderelni és kinyomtatni az összes Excel fájlt. Java Excel API nem csak a táblázatformátumok között konvertál, hanem Excel fájlokat is képes megjeleníteni képként, PDF, HTML, ODS, CSV, CSV, CSV, CSV, CSV, CSV, SVG, és így tovább, SVG P, 8 PT a választás,3,8 ipari szabvány szerinti dokumentumok cseréjére formátumok. A legújabb verziót közvetlenül a webhelyről töltheti le[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) és telepítse a Maven alapú projekten belül a következő konfigurációk hozzáadásával a pom.xml fájlhoz.
+ Hogyan konvertálhatom az IMAGE-ot OTS-re? A Aspose.Cells for Java könyvtárral egyszerűen konvertálhatja az IMAGE-ot OTS-vé programozottan néhány sornyi kóddal.[Aspose.Cells for Java](https://products.aspose.com/cells/java)képes többplatformos alkalmazásokat létrehozni, módosítani, konvertálni, renderelni és kinyomtatni az összes Excel fájlt. Java Az Excel API nemcsak a táblázatformátumok között konvertál, hanem Excel-fájlokat is képes megjeleníteni képként, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT és egyebekként, így tökéletes választás a szabványos formátumú dokumentumok cseréjéhez. A legújabb verziót közvetlenül a webhelyről töltheti le[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) és telepítse a Maven alapú projekten belül a következő konfigurációk hozzáadásával a pom.xml fájlhoz.
 
 {{% blocks/products/pf/agp/code-block title="Adattár" offSpacer="true" %}}
 
@@ -45,7 +45,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java IMAGE to 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Mentse a KÉPET az OTS-be a Java-es számon online ingyen" %}}
+{{% blocks/products/pf/agp/content h2="Mentse az IMAGE-ot az OTS-be a Java számon" %}}
 
 A következő példa bemutatja, hogyan lehet az IMAGE fájlt OTS-re konvertálni a Java-ben.
 {{% blocks/products/pf/agp/text %}}
@@ -56,7 +56,7 @@ Kövesse az egyszerű lépéseket az IMAGE OTS-re konvertálásához. Töltse fe
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Ingyenes alkalmazás és mintakód az IMAGE OTS Online konvertálásához" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="png" outformat="ots" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Mintakód az IMAGE OTS-vé konvertálásához" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="png" outformat="ots" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="Az IMAGE konvertálása OTS via Java-re" %}}
 
@@ -70,7 +70,7 @@ Programozottan kell konvertálnia az IMAGE fájlokat OTS-re? A Java fejlesztők 
 1.  Adjon hozzá egy könyvtári hivatkozást (importálja a könyvtárat) a Java projekthez.
 1.  Töltse be az IMAGE fájlt a Workbook osztály egy példányával.
 1.  A Workbook.save metódus hívásával konvertálja az IMAGE-ot OTS-re.
-1.  Szerezze meg az IMAGE konvertálási eredményét OTS-re.
+1. Szerezze meg az IMAGE konvertálási eredményét OTS-re.
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -125,7 +125,7 @@ Programozottan kell konvertálnia az IMAGE fájlokat OTS-re? A Java fejlesztők 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/image-to-xltm/" name="KÉP: XLTM" description="Excel-makró-kompatibilis sablon" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/image-to-xltx/" name="KÉP: XLTX" description="Office OpenXML Excel sablon" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/image-to-xml/" name="KÉP XML-BE" description="Bővíthető jelölőnyelv" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/image-to-xps/" name="KÉP: XPS" description="XML papírspecifikációk" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/image-to-xps/" name="KÉP: XPS" description="XML papír specifikációk" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/image-to-json/" name="KÉP: JSON" description="JavaScript objektum jelölés" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/image-to-jpeg/" name="KÉP: JPEG" description="JPEG Kép" >}}
 

@@ -1,7 +1,8 @@
 ---
 title:  Java एक्सेल API - Aspose
 weight: 6830
-description: Java स्प्रेडशीट प्रोसेसिंग के लिए एक्सेल लाइब्रेरी। पढ़ें, लिखें, रेंडर करें और XLS XLSX XLSM ODS CSV TSV और अधिक प्रारूपों में कनवर्ट करें। Windows लिनक्स और यूनिक्स के साथ संगत
+description:  Aspose.Cells for Java लाइब्रेरी एक्सेल फ़ाइलें बनाने, सुधारने, मर्ज करने, पार्स करने और परिवर्तित करने के लिए। एक्सेल को PDF, JSON, CSV, HTML इत्यादि में बदलें।
+keywords: [Java Aspose.Cells Create repair parse merge convert JSON Excel XML PDF HTML TSV MHTML XPS CSV PNG JPEG and more formats]
 ---
 {{< blocks/products/pf/main-wrap-class >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Java एक्सेल स्प्रेडशीट प्रोसेसिंग API" h2="Microsoft एक्सेल पर भरोसा किए बिना स्प्रेडशीट बनाएं, हेरफेर करें, परिवर्तित करें, सुरक्षित रखें या प्रिंट करें।" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/headers/aspose_cells-for-java.svg" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="https://downloads.aspose.com/cells/java" >}}
@@ -450,7 +451,7 @@ chart.toPdf(dir + "output.pdf");</code></pre>
  एक्सेल पंक्तियों में हेरफेर करें &amp; कॉलम
     </h2>
     <p>
- Aspose.Cells for Java आपको विभिन्न तरीकों से पंक्तियों और स्तंभों को संशोधित करने की अनुमति देता है। कोई आसानी से कॉलम की चौड़ाई और पंक्ति की ऊंचाई को समायोजित कर सकता है, सामग्री के अनुसार कोशिकाओं की चौड़ाई/ऊंचाई को स्वचालित रूप से आकार दे सकता है, सम्मिलित कर सकता है और पंक्ति की ऊंचाई को स्वचालित रूप से समायोजित कर सकता है। मिटाएँ, छिपाएँ &amp; अन-हाइड के साथ-साथ समूह और amp; पंक्तियों और स्तंभों को असमूहीकृत करें.
+ Aspose.Cells for Java आपको विभिन्न तरीकों से पंक्तियों और स्तंभों को संशोधित करने की अनुमति देता है। कोई आसानी से कॉलम की चौड़ाई और पंक्ति की ऊंचाई को समायोजित कर सकता है, सामग्री के अनुसार कोशिकाओं की चौड़ाई/ऊंचाई को स्वचालित रूप से आकार दे सकता है, सम्मिलित कर सकता है और पंक्ति की ऊंचाई को स्वचालित रूप से समायोजित कर सकता है। मिटाएँ, छिपाएँ & amp; अन-हाइड के साथ-साथ समूह और amp; पंक्तियों और स्तंभों को असमूहीकृत करें.
     </p>
    </div>
    <div class="col-lg-12">

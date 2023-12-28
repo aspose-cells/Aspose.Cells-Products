@@ -1,8 +1,8 @@
 ---
 title: संख्याओं को छवि में मिलाएं - Java में संख्याओं को छवि में संयोजित करें
 url: /hi/java/merger/merge-numbers-to-image/ 
-description: "Aspose एक्सेल। Java Aspose.Cells. नि:शुल्क ऑनलाइन नंबरों को इमेज सेव फॉर्मेट में मर्ज करें। Java संख्याओं को छवि प्रारूप में संयोजित करें। Java में नंबरों को छवि में मर्ज करें। नंबर मर्ज करें।"
-keywords: [Aspose Excel., Java Aspose.Cells., Merge NUMBERS to IMAGE in Java., Free Online Java Merge NUMBERS to image., Java Combine NUMBERS to IMAGE Online for Free., NUMBERS Merge]
+description: Aspose एक्सेल। Java Aspose.Cells. नंबरों को इमेज सेव फॉर्मेट में मर्ज करें। Java संख्याओं को छवि प्रारूप में संयोजित करें। Java में नंबरों को छवि में मर्ज करें। नंबर मर्ज करें।
+keywords: [Aspose Excel., Java Aspose.Cells., Merge NUMBERS to IMAGE in Java., Java Merge NUMBERS to image., Java Combine NUMBERS to IMAGE., NUMBERS Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="नंबरों को छवि via Java में मिलाएं" h2="NUMBERS को IMAGE में मर्ज करने के लिए हाई-स्पीड Java लाइब्रेरी। Java में उच्च-स्तरीय, प्लेटफ़ॉर्म स्वतंत्र सॉफ़्टवेयर विकसित करने के लिए हमारे एक्सेल रूपांतरण API का उपयोग करें। यह Excel, CSV, OpenOffice, PDF, HTML, image और कई अन्य एक्सेल प्रारूपों को आयात और निर्यात करने के लिए एक पेशेवर सॉफ़्टवेयर समाधान है।" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="NUMBERS" additionalConversionTag="IMAGE" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Merge NUMBERS to IMAGE in Java., F
 
 {{% blocks/products/pf/agp/content h2="Java का उपयोग करके संख्याओं को छवि में मर्ज करें" %}}
 
- मैं NUMBERS को IMAGE में कैसे मर्ज करूं? Aspose.Cells for Java लाइब्रेरी के साथ, आप कोड की कुछ पंक्तियों के साथ आसानी से NUMBERS को IMAGE में प्रोग्रामेटिक रूप से मर्ज कर सकते हैं।[Aspose.Cells for Java](https://products.aspose.com/cells/java) सभी एक्सेल फ़ाइलों को उत्पन्न करने, संशोधित करने, परिवर्तित करने, प्रस्तुत करने और प्रिंट करने की क्षमता के साथ क्रॉस-प्लेटफ़ॉर्म एप्लिकेशन बनाने में सक्षम है। Java एक्सेल API न केवल स्प्रेडशीट प्रारूपों के बीच कनवर्ट कर सकता है, यह एक्सेल फाइलों को छवियों, PDF, HTML, ODS, CSV, SVG, JSON, वर्ड, पीपीटी और भी बहुत कुछ के रूप में प्रस्तुत कर सकता है, इस प्रकार यह एक्सचेंज के लिए एक आदर्श विकल्प बन जाता है। उद्योग-मानक में दस्तावेज़ प्रारूप. आप इसका नवीनतम संस्करण सीधे यहां से डाउनलोड कर सकते हैं[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) और pom.xml में निम्नलिखित कॉन्फ़िगरेशन जोड़कर इसे अपने Maven-आधारित प्रोजेक्ट में स्थापित करें।
+ मैं NUMBERS को IMAGE में कैसे मर्ज करूं? Aspose.Cells for Java लाइब्रेरी के साथ, आप कोड की कुछ पंक्तियों के साथ आसानी से NUMBERS को IMAGE में प्रोग्रामेटिक रूप से मर्ज कर सकते हैं।[Aspose.Cells for Java](https://products.aspose.com/cells/java)सभी एक्सेल फ़ाइलों को उत्पन्न करने, संशोधित करने, परिवर्तित करने, प्रस्तुत करने और प्रिंट करने की क्षमता के साथ क्रॉस-प्लेटफ़ॉर्म एप्लिकेशन बनाने में सक्षम है। Java एक्सेल API न केवल स्प्रेडशीट प्रारूपों के बीच परिवर्तित होता है, बल्कि यह एक्सेल फाइलों को छवियों, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT और अधिक के रूप में भी प्रस्तुत कर सकता है, इस प्रकार यह उद्योग-मानक प्रारूपों में दस्तावेजों का आदान-प्रदान करने के लिए एक आदर्श विकल्प बन जाता है। आप इसका नवीनतम संस्करण सीधे यहां से डाउनलोड कर सकते हैं[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) और pom.xml में निम्नलिखित कॉन्फ़िगरेशन जोड़कर इसे अपने Maven-आधारित प्रोजेक्ट में स्थापित करें।
 
 {{% blocks/products/pf/agp/code-block title="कोष" offSpacer="true" %}}
 
@@ -45,7 +45,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Merge NUMBERS to IMAGE in Java., F
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Java में निःशुल्क ऑनलाइन नंबरों को इमेज में मर्ज करें" %}}
+{{% blocks/products/pf/agp/content h2="Java में नंबरों को छवि में मिलाएं" %}}
 
 निम्नलिखित उदाहरण दर्शाता है कि Aspose.Cells for Java में NUMBERS को IMAGE में कैसे मर्ज किया जाए।
 {{% blocks/products/pf/agp/text %}}
@@ -56,7 +56,7 @@ NUMBERS को IMAGE में मर्ज करने के लिए आस
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Java में नंबरों को छवि में मर्ज करने के लिए निःशुल्क ऑनलाइन" InputFormat="numbers" InputFormat2="png" outformat="png" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="java" %}}
+{{% cells-merger title="Java में नंबरों को छवि में मर्ज करने के लिए नमूना कोड" InputFormat="numbers" InputFormat2="png" outformat="png" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="नंबरों को इमेज via Java में कैसे मर्ज करें" %}}
 
@@ -102,7 +102,7 @@ NUMBERS को IMAGE में मर्ज करने के लिए आस
 
 <!-- aboutfile Starts -->
     {{< blocks/products/pf/agp/about-file-section >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="NUMBERS" readMoreLink="https://docs.fileformat.com/spreadsheet/numbers/" >}}.numbers एक्सटेंशन वाली फ़ाइलों को स्प्रेडशीट फ़ाइल प्रकार के रूप में वर्गीकृत किया जाता है, इसीलिए वे .xlsx फ़ाइलों के समान होती हैं; लेकिन Numbers फ़ाइलें Apple iWork Numbers स्प्रेडशीट सॉफ़्टवेयर का उपयोग करके बनाई गई हैं। Apple iWork Numbers iWork Productivity Suite का एक यूनिट सॉफ्टवेयर है। iWork उत्पादकता सुइट Microsoft ऑफिस सुइट के बराबर है जिसका उपयोग Windows पीसी पर किया जाता है। इसलिए, हम कह सकते हैं कि Numbers जो MacOS के लिए उपलब्ध है, Microsoft Excel का भी प्रतिस्पर्धी है। इसी तरह, Microsoft एक्सेल, NUMBERS फ़ाइल में तालिकाएँ, चार्ट और सूत्र भी हो सकते हैं।{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="NUMBERS" readMoreLink="https://docs.fileformat.com/spreadsheet/numbers/" >}} .numbers एक्सटेंशन वाली फ़ाइलों को स्प्रेडशीट फ़ाइल प्रकार के रूप में वर्गीकृत किया जाता है, इसीलिए वे .xlsx फ़ाइलों के समान होती हैं; लेकिन Numbers फ़ाइलें Apple iWork Numbers स्प्रेडशीट सॉफ़्टवेयर का उपयोग करके बनाई गई हैं। Apple iWork Numbers iWork Productivity Suite का एक यूनिट सॉफ्टवेयर है। iWork उत्पादकता सुइट Microsoft ऑफिस सुइट के बराबर है जिसका उपयोग Windows पीसी पर किया जाता है। इसलिए, हम कह सकते हैं कि Numbers जो MacOS के लिए उपलब्ध है, Microsoft Excel का भी प्रतिस्पर्धी है। इसी तरह, Microsoft एक्सेल, NUMBERS फ़ाइल में तालिकाएँ, चार्ट और सूत्र भी हो सकते हैं।{{< /blocks/products/pf/agp/i18n/about-file-text >}}
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="IMAGE" readMoreLink="https://docs.fileformat.com/image/png/" >}}PNG (पोर्टेबल नेटवर्क ग्राफ़िक्स) फ़ाइल एक रेखापुंज छवि फ़ाइल स्वरूप है जो दोषरहित संपीड़न का उपयोग करती है। यह फ़ाइल प्रारूप ग्राफ़िक्स इंटरचेंज प्रारूप (GIF) के प्रतिस्थापन के रूप में बनाया गया था और इसकी कोई कॉपीराइट सीमा नहीं है। हालाँकि, PNG फ़ाइल स्वरूप एनिमेशन का समर्थन नहीं करता है। PNG फ़ाइल स्वरूप दोषरहित छवि संपीड़न का समर्थन करता है जो इसे अपने उपयोगकर्ताओं के बीच लोकप्रिय बनाता है। समय बीतने के साथ, PNG व्यापक रूप से उपयोग किए जाने वाले छवि फ़ाइल स्वरूपों में से एक के रूप में विकसित हुआ है।{{< /blocks/products/pf/agp/i18n/about-file-text >}}
     {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->

@@ -1,6 +1,7 @@
 ---
 title: Oszd fel az Excel munkalapot a C# számon
 description: C# forráskódok, amelyek elmagyarázzák, hogyan lehet a Microsoft Excel-fájlokat több fájlra felosztani a Visual C#.NET alkalmazásokban
+keywords: [C# Aspose.Cells., C# split excel files., C# how to split excel files into multiple files., C# excel splitter., C# split Cell., Cell splitter using C#]
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
 {{< blocks/products/pf/i18n/feature-page-header h1="Microsoft<sup>&reg;</sup> Excel-fájl felosztása via .NET" h2="Egyetlen Excel dokumentum felosztása különböző fájlokra a C# kód használatával a .NET alapú alkalmazásokon belül" >}}
@@ -9,7 +10,7 @@ description: C# forráskódok, amelyek elmagyarázzák, hogyan lehet a Microsoft
 {{% /blocks/products/pf/feature-page-summary %}}
 
 {{% blocks/products/pf/feature-page-section h2="Ossza fel az Excel-dokumentumot több fájlra" %}}
- Az Excel-fájlok lapos felosztásának legegyszerűbb módja az, hogy az összes munkalapot eléri a következőn keresztül[Munkalapok](https://reference.aspose.com/cells/net/aspose.cells/workbook/properties/worksheets) , Iterálva az egyes lapokat, és meghívja a[Másolat](https://reference.aspose.com/cells/net/aspose.cells/worksheet/methods/copy) módszer. Végül elmenti egy megadott útvonalra.
+Az Excel-fájlok lapos felosztásának legegyszerűbb módja az, hogy az összes munkalapot eléri a következőn keresztül[Munkalapok](https://reference.aspose.com/cells/net/aspose.cells/workbook/properties/worksheets) , Iterálva az egyes lapokat, és meghívja a[Másolat](https://reference.aspose.com/cells/net/aspose.cells/worksheet/methods/copy) módszer. Végül elmenti egy megadott útvonalra.
 
  + Töltse be az Excel fájlt a teljes elérési úttal a használatával[Munkafüzet osztály](https://reference.aspose.com/cells/net/aspose.cells/workbook).
 + Iteráció minden lapon keresztül
@@ -28,7 +29,7 @@ description: C# forráskódok, amelyek elmagyarázzák, hogyan lehet a Microsoft
 
 {{% blocks/products/pf/feature-page-section h2="Ossza fel az Excel munkalapot ablaktáblákra" %}}
 
- A API a API biztosítja a munkalapablak panelekre való felosztását[Split módszer](https://reference.aspose.com/cells/net/aspose.cells/worksheet/methods/split)munkalap osztály, amely a munkalap osztott nézetét biztosítja. A osztott nézet eltávolításához a API szám tartozik[RemoveSplit módszer](https://reference.aspose.com/cells/net/aspose.cells/worksheet/methods/removesplit) . Végül mentse el egy megadott útvonalra.
+ A API a API biztosítja a munkalapablak panelekre való felosztását[Split módszer](https://reference.aspose.com/cells/net/aspose.cells/worksheet/methods/split) munkalap osztály, amely a munkalap osztott nézetét biztosítja. A osztott nézet eltávolításához a API szám tartozik[RemoveSplit módszer](https://reference.aspose.com/cells/net/aspose.cells/worksheet/methods/removesplit) . Végül mentse el egy megadott útvonalra.
 
 {{% blocks/products/pf/feature-page-code h3="C# Kód az Excel munkalapablak felosztásához" %}}
 

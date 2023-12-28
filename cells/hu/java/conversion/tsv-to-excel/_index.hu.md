@@ -1,7 +1,7 @@
 ---
-title: Java TSV EXCEL - Online TSV EXCEL konverter
-description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Ingyenes online Java A TSV konvertálása EXCEL mentési formátumba. Java TSV EXCEL formátumba. Mentse a TSV számot az EXCEL Java számra.
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java TSV to EXCEL saveformat., Free Online TSV to EXCEL Java., Java Convert TSV to EXCEL]
+title: Java TSV EXCEL - TSV EXCEL konverter
+description: Aspose Excel. A TSV gyors és egyszerű konvertálása EXCEL-re a Aspose.Cells-es számmal. Java TSV EXCEL-re. Java Mentse el a TSV számot az EXCEL-be. Mentse el a TSV-et EXCEL-ként a Java használatával.
+keywords: [Aspose Excel., Java Aspose.Cells., Convert TSV to EXCEL in Java., Save TSV to EXCEL using Java., Java TSV to EXCEL saveformat., TSV to EXCEL Converter., Java Save TSV as EXCEL]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Konvertálja a TSV-et EXCEL-re a Java-ben" h2="Nagy sebességű Java könyvtár a TSV EXCEL formátumba való konvertálásához. Ez egy professzionális szoftvermegoldás a TSV, EXCEL és sok más formátum importálásához és exportálásához a Java használatával." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="EXCEL" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java TSV to EX
 
 {{% blocks/products/pf/agp/content h2="A TSV konvertálása EXCEL-re a Java használatával" %}}
 
- Hogyan konvertálhatom át a TSV-et EXCEL-re? A Aspose.Cells for Java könyvtárral könnyedén konvertálhatja a TSV-et programozottan EXCEL-re néhány sornyi kóddal.[Aspose.Cells for Java](https://products.aspose.com/cells/java) képes többplatformos alkalmazásokat létrehozni, módosítani, konvertálni, renderelni és kinyomtatni az összes Excel fájlt. Java Excel API nem csak a táblázatformátumok között konvertál, hanem Excel fájlokat is képes megjeleníteni képként, PDF, HTML, ODS, CSV, CSV, CSV, CSV, CSV, CSV, SVG, és így tovább, SVG P, 8 PT a választás,3,8 ipari szabvány szerinti dokumentumok cseréjére formátumok. A legújabb verziót közvetlenül a webhelyről töltheti le[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) és telepítse a Maven alapú projekten belül a következő konfigurációk hozzáadásával a pom.xml fájlhoz.
+ Hogyan konvertálhatom át a TSV-et EXCEL-re? A Aspose.Cells for Java könyvtárral könnyedén konvertálhatja a TSV-et programozottan EXCEL-re néhány sornyi kóddal.[Aspose.Cells for Java](https://products.aspose.com/cells/java)képes többplatformos alkalmazásokat létrehozni, módosítani, konvertálni, renderelni és kinyomtatni az összes Excel fájlt. Java Az Excel API nemcsak a táblázatformátumok között konvertál, hanem Excel-fájlokat is képes megjeleníteni képként, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT és egyebekként, így tökéletes választás a szabványos formátumú dokumentumok cseréjéhez. A legújabb verziót közvetlenül a webhelyről töltheti le[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) és telepítse a Maven alapú projekten belül a következő konfigurációk hozzáadásával a pom.xml fájlhoz.
 
 {{% blocks/products/pf/agp/code-block title="Adattár" offSpacer="true" %}}
 
@@ -45,7 +45,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java TSV to EX
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Takarítson meg TSV-et az EXCEL-ben a Java-es online ingyen" %}}
+{{% blocks/products/pf/agp/content h2="Mentse el a TSV-et az EXCEL-be a Java-ben" %}}
 
 A következő példa bemutatja, hogyan lehet a TSV-et EXCEL-re konvertálni a Java-ben.
 {{% blocks/products/pf/agp/text %}}
@@ -56,19 +56,19 @@ Kövesse az egyszerű lépéseket a TSV EXCEL-re konvertálásához. Töltse fel
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Ingyenes alkalmazás és mintakód a TSV EXCEL Online konvertálásához" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="tsv" outformat="xlsx" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Mintakód a TSV EXCEL-re konvertálásához" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="tsv" outformat="xlsx" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="A TSV konvertálása EXCEL via Java-re" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
-TSV fájlt programozottan EXCEL-be kell konvertálni? A Java fejlesztők könnyedén konvertálhatják a TSV-et EXCEL-re, mindössze néhány sornyi kóddal.
+A TSV fájlt programozottan EXCEL-be kell konvertálni? A Java fejlesztők könnyedén konvertálhatják a TSV-et EXCEL-re, mindössze néhány sornyi kóddal.
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Telepítse a „Aspose.Cells for Java” fájlt.
 1.  Adjon hozzá egy könyvtári hivatkozást (importálja a könyvtárat) a Java projekthez.
-1.  Töltse be a TSV számú fájlt a Workbook osztály egy példányával.
+1. Töltse be a TSV számú fájlt a Workbook osztály egy példányával.
 1.  Konvertálja a TSV-et EXCEL-re a Workbook.save metódus hívásával.
 1.  Szerezd meg a TSV konverziós eredményt EXCEL-re.
 
@@ -125,7 +125,7 @@ TSV fájlt programozottan EXCEL-be kell konvertálni? A Java fejlesztők könnye
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/tsv-to-xltm/" name="TSV-XLTM" description="Excel-makró-kompatibilis sablon" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/tsv-to-xltx/" name="TSV-XLTX" description="Office OpenXML Excel sablon" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/tsv-to-xml/" name="TSV XML-RE" description="Bővíthető jelölőnyelv" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/tsv-to-xps/" name="TSV-XPS" description="XML papírspecifikációk" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/tsv-to-xps/" name="TSV-XPS" description="XML papír specifikációk" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/tsv-to-json/" name="TSV-JSON" description="JavaScript objektum jelölés" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/tsv-to-jpeg/" name="TSV-JPEG" description="JPEG Kép" >}}
 

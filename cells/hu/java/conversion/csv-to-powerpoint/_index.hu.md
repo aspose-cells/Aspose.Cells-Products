@@ -1,7 +1,7 @@
 ---
-title: Java CSV POWERPOINT - Online CSV POWERPOINT átalakító
-description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Ingyenes online Java A CSV konvertálása POWERPOINT mentési formátumba. Java CSV POWERPOINT formátumba. Mentse a CSV számot a POWERPOINT Java számra.
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java CSV to POWERPOINT saveformat., Free Online CSV to POWERPOINT Java., Java Convert CSV to POWERPOINT]
+title: Java CSV - POWERPOINT - CSV - POWERPOINT konverter
+description: Aspose Excel. A CSV-es számot gyorsan és egyszerűen POWERPOINT-ra alakíthatja át a Aspose.Cells-es számmal. Java-CSV-et POWERPOINT-ra. Java Mentse a CSV-et a POWERPOINT-ba. Mentse el a CSV-et POWERPOINT néven a Java használatával.
+keywords: [Aspose Excel., Java Aspose.Cells., Convert CSV to POWERPOINT in Java., Save CSV to POWERPOINT using Java., Java CSV to POWERPOINT saveformat., CSV to POWERPOINT Converter., Java Save CSV as POWERPOINT]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Konvertálja a CSV-et POWERPOINT-ra a Java-ben" h2="Nagy sebességű Java könyvtár a CSV POWERPOINT-tá konvertálásához. Ez egy professzionális szoftvermegoldás a CSV, POWERPOINT és sok más formátum importálásához és exportálásához a Java használatával." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="POWERPOINT" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java CSV to PO
 
 {{% blocks/products/pf/agp/content h2="A CSV konvertálása POWERPOINT-ra a Java használatával" %}}
 
- Hogyan konvertálhatom a CSV-et POWERPOINT-ra? A Aspose.Cells for Java könyvtárral egyszerűen konvertálhatja a CSV-et POWERPOINT-ra néhány soros kóddal.[Aspose.Cells for Java](https://products.aspose.com/cells/java) képes többplatformos alkalmazásokat létrehozni, módosítani, konvertálni, renderelni és kinyomtatni az összes Excel fájlt. Java Excel API nem csak a táblázatformátumok között konvertál, hanem Excel fájlokat is képes megjeleníteni képként, PDF, HTML, ODS, CSV, CSV, CSV, CSV, CSV, CSV, SVG, és így tovább, SVG P, 8 PT a választás,3,8 ipari szabvány szerinti dokumentumok cseréjére formátumok. A legújabb verziót közvetlenül a webhelyről töltheti le[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) és telepítse a Maven alapú projekten belül a következő konfigurációk hozzáadásával a pom.xml fájlhoz.
+ Hogyan konvertálhatom a CSV-et POWERPOINT-ra? A Aspose.Cells for Java könyvtárral egyszerűen konvertálhatja a CSV-et POWERPOINT-ra néhány soros kóddal.[Aspose.Cells for Java](https://products.aspose.com/cells/java)képes többplatformos alkalmazásokat létrehozni, módosítani, konvertálni, renderelni és kinyomtatni az összes Excel fájlt. Java Az Excel API nemcsak a táblázatformátumok között konvertál, hanem Excel-fájlokat is képes megjeleníteni képként, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT és egyebekként, így tökéletes választás a szabványos formátumú dokumentumok cseréjéhez. A legújabb verziót közvetlenül a webhelyről töltheti le[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) és telepítse a Maven alapú projekten belül a következő konfigurációk hozzáadásával a pom.xml fájlhoz.
 
 {{% blocks/products/pf/agp/code-block title="Adattár" offSpacer="true" %}}
 
@@ -45,7 +45,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java CSV to PO
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Takarítson meg CSV-et a POWERPOINT-ban a Java-es online ingyen" %}}
+{{% blocks/products/pf/agp/content h2="Takarítson meg CSV-et a POWERPOINT-hoz a Java-ben" %}}
 
 A következő példa bemutatja, hogyan lehet a CSV-et POWERPOINT-ra konvertálni a Java-ben.
 {{% blocks/products/pf/agp/text %}}
@@ -56,7 +56,7 @@ Kövesse az egyszerű lépéseket a CSV POWERPOINT-tá konvertálásához. Tölt
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Ingyenes alkalmazás és mintakód a CSV POWERPOINT Online konvertálásához" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="csv" outformat="pptx" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Mintakód a CSV POWERPOINT-tá konvertálásához" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="csv" outformat="pptx" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="A CSV konvertálása POWERPOINT via Java-re" %}}
 
@@ -68,7 +68,7 @@ CSV fájlokat programozottan POWERPOINT-ba kell konvertálni? A Java fejlesztők
 
 1.  Telepítse a „Aspose.Cells for Java” fájlt.
 1.  Adjon hozzá egy könyvtári hivatkozást (importálja a könyvtárat) a Java projekthez.
-1.  Töltse be a CSV számú fájlt a Workbook osztály egy példányával.
+1. Töltse be a CSV számú fájlt a Workbook osztály egy példányával.
 1.  Konvertálja a CSV-et POWERPOINT-ra a Workbook.save metódus meghívásával.
 1.  Szerezze meg a CSV konverziós eredményt POWERPOINT-ra.
 
@@ -125,7 +125,7 @@ CSV fájlokat programozottan POWERPOINT-ba kell konvertálni? A Java fejlesztők
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/csv-to-xltm/" name="CSV-XLTM" description="Excel-makró-kompatibilis sablon" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/csv-to-xltx/" name="CSV-XLTX" description="Office OpenXML Excel sablon" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/csv-to-xml/" name="CSV XML-RE" description="Bővíthető jelölőnyelv" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/csv-to-xps/" name="CSV-XPS" description="XML papírspecifikációk" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/csv-to-xps/" name="CSV-XPS" description="XML papír specifikációk" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/csv-to-json/" name="CSV-JSON" description="JavaScript objektum jelölés" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/csv-to-jpeg/" name="CSV-JPEG" description="JPEG Kép" >}}
 

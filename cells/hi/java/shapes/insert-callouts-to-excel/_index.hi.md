@@ -2,6 +2,7 @@
 title:  एक्सेल via Java में कॉलआउट सम्मिलित करें
 weight: 360
 description: Aspose.Cells' Java API का उपयोग करके ऑब्जेक्ट सम्मिलित करें बिना किसी सॉफ़्टवेयर जैसे Microsoft या ओपन ऑफिस, एडोब PDF इत्यादि के बिना।
+keywords: [Java Aspose.Cells., Java add Callouts shape., Java insert Callouts shape., Java create Callouts shape]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="एक्सेल via Java में कॉलआउट सम्मिलित करें" h2="Microsoft या ओपन ऑफिस, एडोब PDF आदि जैसे किसी सॉफ्टवेयर के बिना Aspose.Cells\' API का उपयोग करके कॉलआउट डालें।" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSX" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="" fileiconsmall1="PPTX" fileiconsmall2="DOCX" fileiconsmall3="XLSX" fileiconsmall4="PDF" fileiconsmall5=" ODP " >}}
@@ -56,9 +57,9 @@ description: Aspose.Cells' Java API का उपयोग करके ऑब�
 
 {{% /blocks/products/pf/agp/text %}}
 
-वर्कबुक ऑब्जेक्ट को इंस्टेंट करना। (या->XLSX फ़ाइल को पूर्ण पथ के साथ लोड करें।)
++ वर्कबुक ऑब्जेक्ट को इंस्टेंट करना। (या->XLSX फ़ाइल को पूर्ण पथ के साथ लोड करें।)
 + इसके सूचकांक के माध्यम से वर्कशीट का चयन करें।
- + का प्रयोग करें[विधि जोड़ें](https://reference.aspose.com/cells/java/com.aspose.cells/shapecollection/#addAutoShape-int-int-int-int-int-int-int-)चयनित वर्कशीट में कॉलआउट सम्मिलित करने के लिए
+ + का प्रयोग करें[विधि जोड़ें](https://reference.aspose.com/cells/java/com.aspose.cells/shapecollection/#addAutoShape-int-int-int-int-int-int-int-) चयनित वर्कशीट में कॉलआउट सम्मिलित करने के लिए
 + कार्यपुस्तिका को XLSX प्रारूप में सहेजें।
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
@@ -90,7 +91,7 @@ description: Aspose.Cells' Java API का उपयोग करके ऑब�
  <div class="row">
   <div class="container">
    <h2 class="pr-ft">
-कॉलआउट प्रकारों का अवलोकन
+ कॉलआउट प्रकारों का अवलोकन
    </h2>
    <div class="col-lg-4">
     <!--em class="fa fa-chrome ico-blue fa-2x col-lg-2">

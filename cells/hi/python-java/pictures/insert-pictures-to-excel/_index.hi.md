@@ -2,6 +2,7 @@
 title:  Python via जावा का उपयोग करके एक्सेल में चित्र डालें
 weight: 200
 description: एक्सेल में चित्र सम्मिलित करने के लिए Python via जावा स्रोत कोड।
+keywords: [Python via Java Aspose.Cells., Python via Java add picture into Excel., Python via Java insert picture into Excel., Python via Java create picture in Excel]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Python via जावा का उपयोग करके एक्सेल में चित्र डालें" h2="Microsoft या ओपन ऑफिस, एडोब PDF आदि जैसे किसी भी सॉफ्टवेयर के बिना Aspose.Cells\' API का उपयोग करके चित्र डालें।" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="" pfName="Aspose.Cells" subTitlepfName="for Python via Java" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="XLSX" >}}
@@ -37,7 +38,7 @@ description: एक्सेल में चित्र सम्मिलि�
 
 {{% /blocks/products/pf/agp/text %}}
 
-वर्कबुक ऑब्जेक्ट को इंस्टेंट करना। (या->XLSX फ़ाइल को पूर्ण पथ के साथ लोड करें।)
++ वर्कबुक ऑब्जेक्ट को इंस्टेंट करना। (या->XLSX फ़ाइल को पूर्ण पथ के साथ लोड करें।)
 + इसके सूचकांक के माध्यम से वर्कशीट का चयन करें।
  + चित्र संग्रह का उपयोग करें[विधि जोड़ें](https://reference.aspose.com/cells/python-java/asposecells.api/picturecollection#add(int,%20int,%20int,%20int,%20java.lang.String)) चयनित वर्कशीट में एक चित्र सम्मिलित करने के लिए।
 + कार्यपुस्तिका को XLSX प्रारूप में सहेजें।
@@ -52,8 +53,8 @@ description: एक्सेल में चित्र सम्मिलि�
  
 {{% /blocks/products/pf/agp/text %}}
 
-- कोई भी ऑपरेटिंग सिस्टम जो Python via जावा स्क्रिप्ट चला सकता है, जैसे Windows, लिनक्स और मैकओएस
--  Java स्थापित करें और इसे PATH पर्यावरण चर में जोड़ें, उदाहरण के लिए:<code>PATH=C:\Program Files\Java\jdk1.8.0_131;</code>.
+-  कोई भी ऑपरेटिंग सिस्टम जो Python via जावा स्क्रिप्ट चला सकता है, जैसे Windows, लिनक्स और मैकओएस
+- Java स्थापित करें और इसे PATH पर्यावरण चर में जोड़ें, उदाहरण के लिए:<code>PATH=C:\Program Files\Java\jdk1.8.0_131;</code>.
 -  जावा से Aspose.Cells for Python स्थापित करें<a href="https://pypi.org/project/aspose-cells/">pypi</a> , कमांड का उपयोग इस प्रकार करें:<code>$ pip install aspose-cells</code>.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
@@ -81,7 +82,7 @@ Aspose.Cells API क्रॉस-प्लेटफॉर्म एप्लि�
 
 <!-- aboutfile Ends -->
 <!--
-{{< blocks/products/pf/agp/other-supported-section title="Other Supported Splitting Formats" subTitle="Using C#, One can also split large file into chunks of many other file formats including." >}}
+{{< blocks/products/pf/agp/other-supported-section title="Other Supported Splitting Formats" subTitle="Using Python via Java, One can also split large file into chunks of many other file formats including." >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/splitter/ods/" name="ODS" description="OpenDocument Spreadsheet File" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/splitter/xls/" name="XLS" description="Excel Binary Format" >}}

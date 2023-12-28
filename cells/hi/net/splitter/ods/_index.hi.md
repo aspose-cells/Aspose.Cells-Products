@@ -2,6 +2,7 @@
 title:  स्प्लिट ODS फ़ाइलें via .NET
 weight: 140
 description: .NET फ्रेमवर्क, .NET कोर, Mono या ज़ामरिन प्लेटफ़ॉर्म पर ODS दस्तावेज़ों को विभाजित करने के लिए C# स्रोत कोड।
+keywords: [C# Aspose.Cells., C# split ods files., C# how to split ods files into multiple files., C# ods splitter., C# split Cell., Cell splitter using C#]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="ODS प्रारूपों को C# में विभाजित करें" h2="Microsoft या ओपन ऑफिस, एडोब PDF जैसे किसी भी सॉफ्टवेयर के उपयोग के बिना, सर्वर-साइड एपीआई का उपयोग करके मूल और उच्च प्रदर्शन ODS स्प्लिटर।" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="ODS" >}}
@@ -48,7 +49,7 @@ PM> Install-Package Aspose.Cells
 + प्रत्येक शीट में पुनरावृति करें
 + एक नई वर्कबुक क्लास ऑब्जेक्ट बनाएं
  + शीट को कॉपी करें[प्रतिलिपि विधि](https://reference.aspose.com/cells/net/aspose.cells/worksheet/methods/copy)
- + Save() विधि को कॉल करें और फ़ाइल नाम (पूर्ण पथ) और SaveFormat.Ods को पैरामीटर के रूप में पास करें।
+ Save() विधि को कॉल करें और फ़ाइल नाम (पूर्ण पथ) और SaveFormat.Ods को पैरामीटर के रूप में पास करें।
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

@@ -1,6 +1,7 @@
 ---
 title: Hozzon létre Column3D diagramokat a C# számon keresztül
 description: C# Mintakód Column3D diagramok készítéséhez Excelbe a .NET Library használatával. Használja ezt a kódot Column3D diagram létrehozásához MS Excelhez VB.NET, Asp.NET vagy bármely .NET alapú alkalmazáson belül.
+keywords: [C# Aspose.Cells., c# add Column3D Chart., c# insert Column3D Chart., c# create Column3D Chart]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
@@ -18,7 +19,7 @@ A Column3D diagramok dinamikus létrehozása futó alkalmazáson belül egyszer�
 
 {{% blocks/products/pf/agp/text %}}
 
-fejlesztők könnyen létrehozhatnak egy Column3D diagramot a különböző adatfeldolgozási alkalmazások futtatásán belül, mindössze néhány sornyi kóddal.
+A fejlesztők könnyen létrehozhatnak egy Column3D diagramot a különböző adatfeldolgozási alkalmazások futtatásán belül, mindössze néhány sornyi kóddal.
 
 {{% /blocks/products/pf/agp/text %}}
 

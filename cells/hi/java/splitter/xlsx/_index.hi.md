@@ -2,6 +2,7 @@
 title:  स्प्लिट XLSX फ़ाइलें via Java
 weight: 3250
 description: जेएसपी/जेएसएफ एप्लिकेशन और डेस्कटॉप एप्लिकेशन के लिए Java रनटाइम एनवायरमेंट पर XLSX दस्तावेजों को विभाजित करने के लिए Java नमूना कोड।
+keywords: [Java Aspose.Cells., Java split xlsx files., Java how to split xlsx files into multiple files., Java xlsx splitter., Java split Cell., Cell splitter using Java]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="स्प्लिट XLSX फ़ाइलें via Java" h2="XLSX सर्वर-साइड Java लाइब्रेरी की मदद से विभाजित हो रहा है।" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="XLSX" >}}
@@ -62,7 +63,7 @@ description: जेएसपी/जेएसएफ एप्लिकेशन �
 + वर्कबुक क्लास का उपयोग करके XLSX फ़ाइल लोड करें।
 + प्रत्येक शीट के माध्यम से पुनरावृत्त करें
 + नई वर्कबुक क्लास ऑब्जेक्ट बनाएं
-+ चयनित शीट को नई वस्तु पर कॉपी करें
+चयनित शीट को नई वस्तु पर कॉपी करें
 + नए XLSX फ़ाइल पथ के साथ सेव विधि को कॉल करें।
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

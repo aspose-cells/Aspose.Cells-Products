@@ -1,7 +1,7 @@
 ---
-title: Java SPREADSHEETML-ből ETT-be – Online SPREADSHEETML-ből ETT-be konvertáló
-description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Ingyenes online Java SPREADSHEETML konvertálása ETT mentési formátumba. Java SPREADSHEETML ETT formátumba. Mentse a SPREADSHEETML fájlt az ETT Java számra.
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java SPREADSHEETML to ETT saveformat., Free Online SPREADSHEETML to ETT Java., Java Convert SPREADSHEETML to ETT]
+title: Java SPREADSHEETML-ből ETT-be – SPREADSHEETML-ből ETT-be konvertáló
+description: Aspose Excel. A SPREADSHEETML-t gyorsan és egyszerűen konvertálja ETT-vé a Aspose.Cells-es számmal. Java SPREADSHEETML-t ETT-vé. Java SPREADSHEETML mentése az ETT-be. Mentse a SPREADSHEETML-t ETT-ként a Java számon.
+keywords: [Aspose Excel., Java Aspose.Cells., Convert SPREADSHEETML to ETT in Java., Save SPREADSHEETML to ETT using Java., Java SPREADSHEETML to ETT saveformat., SPREADSHEETML to ETT Converter., Java Save SPREADSHEETML as ETT]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="A SPREADSHEETML konvertálása ETT-re a Java-ben" h2="Nagy sebességű Java könyvtár a SPREADSHEETML ETT-re konvertálásához. Ez egy professzionális szoftvermegoldás a SPREADSHEETML, ETT és sok más formátum importálásához és exportálásához a Java használatával." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="ETT" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java SPREADSHE
 
 {{% blocks/products/pf/agp/content h2="Konvertálja a SPREADSHEETML-t ETT-re a Java használatával" %}}
 
- Hogyan konvertálhatom a SPREADSHEETML-t ETT-re? A Aspose.Cells for Java könyvtárral könnyedén konvertálhatja a SPREADSHEETML-t ETT-re programozottan, néhány sornyi kóddal.[Aspose.Cells for Java](https://products.aspose.com/cells/java) képes többplatformos alkalmazásokat létrehozni, módosítani, konvertálni, renderelni és kinyomtatni az összes Excel fájlt. Java Excel API nem csak a táblázatformátumok között konvertál, hanem Excel fájlokat is képes megjeleníteni képként, PDF, HTML, ODS, CSV, CSV, CSV, CSV, CSV, CSV, SVG, és így tovább, SVG P, 8 PT a választás,3,8 ipari szabvány szerinti dokumentumok cseréjére formátumok. A legújabb verziót közvetlenül a webhelyről töltheti le[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) és telepítse a Maven alapú projekten belül a következő konfigurációk hozzáadásával a pom.xml fájlhoz.
+ Hogyan konvertálhatom a SPREADSHEETML-t ETT-re? A Aspose.Cells for Java könyvtárral könnyedén konvertálhatja a SPREADSHEETML-t ETT-re programozottan, néhány sornyi kóddal.[Aspose.Cells for Java](https://products.aspose.com/cells/java)képes többplatformos alkalmazásokat létrehozni, módosítani, konvertálni, renderelni és kinyomtatni az összes Excel fájlt. Java Az Excel API nemcsak a táblázatformátumok között konvertál, hanem Excel-fájlokat is képes megjeleníteni képként, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT és egyebekként, így tökéletes választás a szabványos formátumú dokumentumok cseréjéhez. A legújabb verziót közvetlenül a webhelyről töltheti le[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) és telepítse a Maven alapú projekten belül a következő konfigurációk hozzáadásával a pom.xml fájlhoz.
 
 {{% blocks/products/pf/agp/code-block title="Adattár" offSpacer="true" %}}
 
@@ -45,7 +45,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java SPREADSHE
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Mentse el a SPREADSHEETML-t az ETT-be a Java-es számon online ingyen" %}}
+{{% blocks/products/pf/agp/content h2="Mentse a SPREADSHEETML fájlt az ETT-be a Java számon" %}}
 
 A következő példa bemutatja, hogyan lehet a SPREADSHEETML-t ETT-vé konvertálni a Java-ben.
 {{% blocks/products/pf/agp/text %}}
@@ -56,7 +56,7 @@ Kövesse az egyszerű lépéseket a SPREADSHEETML ETT-re konvertálásához. Tö
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Ingyenes alkalmazás és mintakód a SPREADSHEETML ETT Online konvertálásához" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xml" outformat="ett" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Mintakód a SPREADSHEETML ETT-re konvertálásához" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xml" outformat="ett" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="A SPREADSHEETML konvertálása ETT via Java-re" %}}
 
@@ -69,7 +69,7 @@ A SPREADSHEETML fájlokat programozottan ETT-vé kell konvertálnia? A Java fejl
 1.  Telepítse a „Aspose.Cells for Java” fájlt.
 1.  Adjon hozzá egy könyvtári hivatkozást (importálja a könyvtárat) a Java projekthez.
 1.  SPREADSHEETML fájl betöltése a munkafüzet osztály egy példányával.
-1. Konvertálja a SPREADSHEETML-t ETT-re a Workbook.save metódus meghívásával.
+1.  Konvertálja a SPREADSHEETML-t ETT-re a Workbook.save metódus meghívásával.
 1.  Szerezze meg a SPREADSHEETML konvertálási eredményét ETT-vé.
 
 {{% /blocks/products/pf/agp/content %}}
@@ -125,7 +125,7 @@ A SPREADSHEETML fájlokat programozottan ETT-vé kell konvertálnia? A Java fejl
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/spreadsheetml-to-xltm/" name="TÁBLÁZAT A XLTM-ES számra" description="Excel-makró-kompatibilis sablon" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/spreadsheetml-to-xltx/" name="TÁBLÁZAT A XLTX-ES számra" description="Office OpenXML Excel sablon" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/spreadsheetml-to-xml/" name="A SPREADSHEETML-ből XML-be" description="Bővíthető jelölőnyelv" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/spreadsheetml-to-xps/" name="TÁBLÁZAT A XPS-ES számra" description="XML papírspecifikációk" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/spreadsheetml-to-xps/" name="TÁBLÁZAT A XPS-ES számra" description="XML papír specifikációk" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/spreadsheetml-to-json/" name="TÁBLÁZAT A JSON-ES számra" description="JavaScript objektum jelölés" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/spreadsheetml-to-jpeg/" name="TÁBLÁZAT A JPEG-ES számra" description="JPEG Kép" >}}
 

@@ -1,8 +1,8 @@
 ---
 title: A ODS egyesítése XML-be – a ODS egyesítése XML-be a Java-ben
 url: /hu/java/merger/merge-ods-to-xml/ 
-description: Aspose Excel. Java Aspose.Cells. Ingyenes online egyesítés ODS XML mentési formátumba. Java A ODS kombinálása XML formátumba. A ODS egyesítése XML-be a Java-ben. ODS Egyesítés.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge ODS to XML in Java., Free Online Java Merge ODS to xml., Java Combine ODS to XML Online for Free., ODS Merge]
+description: Aspose Excel. Java Aspose.Cells. A ODS egyesítése XML mentési formátumba. Java A ODS kombinálása XML formátumba. A ODS egyesítése XML-be a Java-ben. ODS Egyesítés.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge ODS to XML in Java., Java Merge ODS to xml., Java Combine ODS to XML., ODS Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="A ODS egyesítése XML via Java-gyel" h2="Nagy sebességű Java könyvtár a ODS XML-be olvasztásához. Használja a API-es excel-konverziónkat magas szintű, platformfüggetlen szoftverek fejlesztéséhez a Java-ben. Ez egy professzionális szoftvermegoldás a Excel, CSV, OpenOffice, PDF, HTML, image és sok más excel formátum importálásához és exportálásához." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="ODS" additionalConversionTag="XML" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Merge ODS to XML in Java., Free On
 
 {{% blocks/products/pf/agp/content h2="A ODS egyesítése XML-be a Java használatával" %}}
 
- Hogyan egyesíthetem a ODS-et XML-be? A Aspose.Cells for Java könyvtárral egyszerűen egyesítheti a ODS-et XML-lel, néhány sornyi kóddal programozottan.[Aspose.Cells for Java](https://products.aspose.com/cells/java) képes többplatformos alkalmazásokat létrehozni, módosítani, konvertálni, renderelni és kinyomtatni az összes Excel fájlt. Java Excel API nem csak a táblázatformátumok között konvertál, hanem Excel fájlokat is képes megjeleníteni képként, PDF, HTML, ODS, CSV, CSV, CSV, CSV, CSV, CSV, SVG, és így tovább, SVG P, 8 PT a választás,3,8 ipari szabvány szerinti dokumentumok cseréjére formátumok. A legújabb verziót közvetlenül a webhelyről töltheti le[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) és telepítse a Maven alapú projekten belül a következő konfigurációk hozzáadásával a pom.xml fájlhoz.
+ Hogyan egyesíthetem a ODS-et XML-be? A Aspose.Cells for Java könyvtárral egyszerűen egyesítheti a ODS-et XML-lel, néhány sornyi kóddal programozottan.[Aspose.Cells for Java](https://products.aspose.com/cells/java)képes többplatformos alkalmazásokat létrehozni, módosítani, konvertálni, renderelni és kinyomtatni az összes Excel fájlt. Java Az Excel API nemcsak a táblázatformátumok között konvertál, hanem Excel-fájlokat is képes megjeleníteni képként, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT és egyebekként, így tökéletes választás a szabványos formátumú dokumentumok cseréjéhez. A legújabb verziót közvetlenül a webhelyről töltheti le[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) és telepítse a Maven alapú projekten belül a következő konfigurációk hozzáadásával a pom.xml fájlhoz.
 
 {{% blocks/products/pf/agp/code-block title="Adattár" offSpacer="true" %}}
 
@@ -45,7 +45,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Merge ODS to XML in Java., Free On
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Ingyenesen egyesítse a ODS-et XML-be a Java-ben online" %}}
+{{% blocks/products/pf/agp/content h2="Egyesítse a ODS-et XML-be a Java-ben" %}}
 
 A következő példa bemutatja, hogyan egyesítheti a ODS-et XML-be a Aspose.Cells for Java-ben.
 {{% blocks/products/pf/agp/text %}}
@@ -56,13 +56,13 @@ Kövesse az egyszerű lépéseket a ODS XML-be olvasztásához. Töltse fel fáj
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Ingyenes online a ODS egyesítéséhez XML-be Java-ben" InputFormat="ods" InputFormat2="xml" outformat="xml" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="java" %}}
+{{% cells-merger title="Mintakód a ODS XML-hez való egyesítéséhez a Java-ben" InputFormat="ods" InputFormat2="xml" outformat="xml" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="A ODS és az XML via Java egyesítése" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- Programozottan egyesítenie kell a ODS-et XML-lel? Egy alapdokumentum, amely összeolvad és összefűződik[Aspose.Cells for Java](https://products.aspose.com/cells/java) Az API-k néhány sornyi kóddal elkészíthetők.
+Programozottan egyesítenie kell a ODS-et XML-lel? Egy alapdokumentum, amely összeolvad és összefűződik[Aspose.Cells for Java](https://products.aspose.com/cells/java) Az API-k néhány sornyi kóddal elkészíthetők.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -131,8 +131,8 @@ API-jaink minden nagyobb platformon és operációs rendszeren támogatottak. Mi
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-ods-to-xlt/" name="ODS és a XLT számok egyesítése" description="Microsoft Excel-sablon" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-ods-to-xltm/" name="ODS és a XLTM számok egyesítése" description="Excel-makró-kompatibilis sablon" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-ods-to-xltx/" name="ODS és a XLTX számok egyesítése" description="Office OpenXML Excel sablon" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-ods-to-xml/" name="A ODS egyesítése XML-be" description="Bővíthető jelölőnyelv" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-ods-to-xps/" name="ODS és a XPS számok egyesítése" description="XML papírspecifikációk" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-ods-to-xml/" name="Egyesítse a ODS-et XML-be" description="Bővíthető jelölőnyelv" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-ods-to-xps/" name="ODS és a XPS számok egyesítése" description="XML papír specifikációk" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-ods-to-json/" name="ODS és a JSON számok egyesítése" description="JavaScript objektum jelölés" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-ods-to-jpeg/" name="ODS és a JPEG számok egyesítése" description="JPEG Kép" >}}
 

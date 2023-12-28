@@ -1,7 +1,7 @@
 ---
-title: Java JSON JPG formátumba – Online JSON JPG konverter
-description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Ingyenes online Java A JSON konvertálása JPG mentési formátumba. Java JSON JPG formátumba. Mentse el a JSON-et JPG Java-be.
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java JSON to JPG saveformat., Free Online JSON to JPG Java., Java Convert JSON to JPG]
+title: Java JSON - JPG - JSON - JPG konverter
+description: Aspose Excel. A JSON-et gyorsan és egyszerűen konvertálja JPG formátumba a Aspose.Cells-gyel. Java JSON JPG formátumba. Java Mentse a JSON-et JPG formátumba. Mentse el a JSON-et JPG formátumban a Java használatával.
+keywords: [Aspose Excel., Java Aspose.Cells., Convert JSON to JPG in Java., Save JSON to JPG using Java., Java JSON to JPG saveformat., JSON to JPG Converter., Java Save JSON as JPG]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Konvertálja a JSON-et JPG-re a Java-ben" h2="Nagy sebességű Java könyvtár a JSON JPG formátumba konvertálásához. Ez egy professzionális szoftvermegoldás a JSON, JPG és sok más formátum importálásához és exportálásához a Java használatával." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="JPG" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java JSON to J
 
 {{% blocks/products/pf/agp/content h2="Alakítsa át a JSON-et JPG-be a Java használatával" %}}
 
- Hogyan konvertálhatom a JSON fájlt JPG-re? A Aspose.Cells for Java könyvtárral egyszerűen konvertálhatja a JSON-et programozottan, néhány soros kóddal JPG formátumba.[Aspose.Cells for Java](https://products.aspose.com/cells/java) képes többplatformos alkalmazásokat létrehozni, módosítani, konvertálni, renderelni és kinyomtatni az összes Excel fájlt. Java Excel API nem csak a táblázatformátumok között konvertál, hanem Excel fájlokat is képes megjeleníteni képként, PDF, HTML, ODS, CSV, CSV, CSV, CSV, CSV, CSV, SVG, és így tovább, SVG P, 8 PT a választás,3,8 ipari szabvány szerinti dokumentumok cseréjére formátumok. A legújabb verziót közvetlenül a webhelyről töltheti le[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) és telepítse a Maven alapú projekten belül a következő konfigurációk hozzáadásával a pom.xml fájlhoz.
+ Hogyan konvertálhatom a JSON fájlt JPG-re? A Aspose.Cells for Java könyvtárral egyszerűen konvertálhatja a JSON-et programozottan, néhány soros kóddal JPG formátumba.[Aspose.Cells for Java](https://products.aspose.com/cells/java)képes többplatformos alkalmazásokat létrehozni, módosítani, konvertálni, renderelni és kinyomtatni az összes Excel fájlt. Java Az Excel API nemcsak a táblázatformátumok között konvertál, hanem Excel-fájlokat is képes megjeleníteni képként, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT és egyebekként, így tökéletes választás a szabványos formátumú dokumentumok cseréjéhez. A legújabb verziót közvetlenül a webhelyről töltheti le[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) és telepítse a Maven alapú projekten belül a következő konfigurációk hozzáadásával a pom.xml fájlhoz.
 
 {{% blocks/products/pf/agp/code-block title="Adattár" offSpacer="true" %}}
 
@@ -45,7 +45,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java JSON to J
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Mentse el a JSON-et JPG formátumban Java-ben online ingyen" %}}
+{{% blocks/products/pf/agp/content h2="Mentse el a JSON-et JPG formátumban a Java-ben" %}}
 
 A következő példa bemutatja a JSON konvertálását JPG formátumba a Java-ben.
 {{% blocks/products/pf/agp/text %}}
@@ -56,7 +56,7 @@ Kövesse az egyszerű lépéseket a JSON JPG formátumba konvertálásához. Tö
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Ingyenes alkalmazás és mintakód a JSON JPG online konvertálásához" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="json" outformat="jpg" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Mintakód a JSON JPG formátumba konvertálásához" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="json" outformat="jpg" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="A JSON konvertálása JPG via Java formátumba" %}}
 
@@ -68,7 +68,7 @@ Programozottan kell konvertálnia a JSON fájlokat JPG formátumba? A Java fejle
 
 1.  Telepítse a „Aspose.Cells for Java” fájlt.
 1.  Adjon hozzá egy könyvtári hivatkozást (importálja a könyvtárat) a Java projekthez.
-1.  Töltse be a JSON számú fájlt a Workbook osztály egy példányával.
+1. Töltse be a JSON számú fájlt a Workbook osztály egy példányával.
 1.  Konvertálja a JSON-et JPG-be a Workbook.save metódus meghívásával.
 1.  Szerezze meg a JSON konvertálási eredményt JPG-re.
 
@@ -125,7 +125,7 @@ Programozottan kell konvertálnia a JSON fájlokat JPG formátumba? A Java fejle
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/json-to-xltm/" name="JSON-XLTM" description="Excel-makró-kompatibilis sablon" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/json-to-xltx/" name="JSON-XLTX" description="Office OpenXML Excel sablon" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/json-to-xml/" name="JSON XML-RE" description="Bővíthető jelölőnyelv" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/json-to-xps/" name="JSON-XPS" description="XML papírspecifikációk" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/json-to-xps/" name="JSON-XPS" description="XML papír specifikációk" >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/json-to-jpeg/" name="JSON-JPEG" description="JPEG Kép" >}}
 

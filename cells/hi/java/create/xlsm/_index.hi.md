@@ -1,7 +1,7 @@
 ---
 title: XLSM बनाएँ - Java में XLSM फ़ाइल बनाएँ
-description: Aspose एक्सेल। Java XLSM फ़ाइल बनाएँ। XLSM Java बनाएं। Java XLSM क्रिएटर। Java में XLSM बनाएं। Java का उपयोग करके XLSM फ़ाइल जेनरेट करें।
-keywords: [Aspose Excel., Java Aspose.Cells., Create XLSM Java., Java XLSM Creater., Create XLSM file in Java., Generate XLSM file in Java]
+description: Aspose एक्सेल। Java Aspose.Cells के साथ जल्दी और आसानी से XLSM फ़ाइल बनाएं। Java का उपयोग करके XLSM फ़ाइल बनाएं। Java में XLSM बनाएं। Java XLSM क्रिएटर।
+keywords: [Aspose Excel., Java Aspose.Cells., Java Create XLSM file., Generate XLSM file in Java., Create XLSM file using Java., Write data to XLSM file via Java., Create a XLSM file in Java., Java Generate a XLSM file., Java XLSM Creater]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Java में XLSM फ़ाइल बनाएँ" h2="XLSM फ़ाइल बनाने के लिए हाई-स्पीड Java लाइब्रेरी। यह XLSX, PDF, और Java का उपयोग करके कई अन्य प्रारूपों को आयात और निर्यात करने के लिए एक पेशेवर सॉफ्टवेयर समाधान है।" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSM" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -11,7 +11,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Create XLSM Java., Java XLSM Creat
 
 {{% blocks/products/pf/agp/content h2="Java का उपयोग करके XLSM फ़ाइल बनाएँ" %}}
 
- XLSM फ़ाइल कैसे बनाएं? Aspose.Cells for Java लाइब्रेरी के साथ, आप कोड की कुछ पंक्तियों के साथ आसानी से प्रोग्रामेटिक रूप से XLSM फ़ाइल बना सकते हैं।[Aspose.Cells for Java](https://products.aspose.com/cells/java) सभी एक्सेल फ़ाइलों को उत्पन्न करने, संशोधित करने, परिवर्तित करने, प्रस्तुत करने और प्रिंट करने की क्षमता के साथ क्रॉस-प्लेटफ़ॉर्म एप्लिकेशन बनाने में सक्षम है। Java एक्सेल API न केवल स्प्रेडशीट प्रारूपों के बीच कनवर्ट कर सकता है, यह एक्सेल फाइलों को छवियों, PDF, HTML, ODS, CSV, SVG, JSON, वर्ड, पीपीटी और भी बहुत कुछ के रूप में प्रस्तुत कर सकता है, इस प्रकार यह एक्सचेंज के लिए एक आदर्श विकल्प बन जाता है। उद्योग-मानक में दस्तावेज़ प्रारूप. आप इसका नवीनतम संस्करण सीधे यहां से डाउनलोड कर सकते हैं[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) और pom.xml में निम्नलिखित कॉन्फ़िगरेशन जोड़कर इसे अपने Maven-आधारित प्रोजेक्ट में स्थापित करें।
+ XLSM फ़ाइल कैसे बनाएं? Aspose.Cells for Java लाइब्रेरी के साथ, आप कोड की कुछ पंक्तियों के साथ आसानी से प्रोग्रामेटिक रूप से XLSM फ़ाइल बना सकते हैं।[Aspose.Cells for Java](https://products.aspose.com/cells/java)सभी एक्सेल फ़ाइलों को उत्पन्न करने, संशोधित करने, परिवर्तित करने, प्रस्तुत करने और प्रिंट करने की क्षमता के साथ क्रॉस-प्लेटफ़ॉर्म एप्लिकेशन बनाने में सक्षम है। Java एक्सेल API न केवल स्प्रेडशीट प्रारूपों के बीच परिवर्तित होता है, बल्कि यह एक्सेल फाइलों को छवियों, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT और अधिक के रूप में भी प्रस्तुत कर सकता है, इस प्रकार यह उद्योग-मानक प्रारूपों में दस्तावेजों का आदान-प्रदान करने के लिए एक आदर्श विकल्प बन जाता है। आप इसका नवीनतम संस्करण सीधे यहां से डाउनलोड कर सकते हैं[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) और pom.xml में निम्नलिखित कॉन्फ़िगरेशन जोड़कर इसे अपने Maven-आधारित प्रोजेक्ट में स्थापित करें।
 
 {{% blocks/products/pf/agp/code-block title="कोष" offSpacer="true" %}}
 
@@ -57,7 +57,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Create XLSM Java., Java XLSM Creat
 1.  का एक उदाहरण बनाएं[कार्यपुस्तिका कक्षा](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook).
 1.  getWorkSheets.get() विधि का उपयोग करके प्रासंगिक वर्कशीट तक पहुंचें।
 1.  प्रासंगिक सेल का चयन करें, सेल नाम, जैसे A1, B3, आदि का उपयोग करके वांछित सेल में मान इनपुट करें।
-1.  सेव() विधि का उपयोग करके कार्यपुस्तिका को XLSM प्रारूप के रूप में सहेजें।
+1. सेव() विधि का उपयोग करके कार्यपुस्तिका को XLSM प्रारूप के रूप में सहेजें।
 
 {{% blocks/products/pf/agp/code-block title="नमूना कोड दिखाता है कि Java में XLSM फ़ाइल कैसे बनाएं।" offSpacer="" %}}
 
@@ -101,7 +101,7 @@ wkb.save("Excel.xlsm");
 
 {{% blocks/products/pf/agp/text %}}
 
-Java रूपांतरण नमूना स्रोत कोड चलाने से पहले, सुनिश्चित करें कि आपके पास निम्नलिखित आवश्यकताएँ हैं।
+ Java रूपांतरण नमूना स्रोत कोड चलाने से पहले, सुनिश्चित करें कि आपके पास निम्नलिखित आवश्यकताएँ हैं।
 
 {{% /blocks/products/pf/agp/text %}}
 

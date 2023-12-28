@@ -1,8 +1,8 @@
 ---
 title: IMAGE को PPTX में मिलाएं - Java में IMAGE को PPTX में मिलाएं
 url: /hi/java/merger/merge-image-to-pptx/ 
-description: "Aspose एक्सेल। Java Aspose.Cells। नि:शुल्क ऑनलाइन इमेज को PPTX सेव फॉर्मेट में मर्ज करें। Java छवि को PPTX प्रारूप में संयोजित करें। Java में IMAGE को PPTX में मर्ज करें। IMAGE मर्ज करें।"
-keywords: [Aspose Excel., Java Aspose.Cells., Merge IMAGE to PPTX in Java., Free Online Java Merge IMAGE to pptx., Java Combine IMAGE to PPTX Online for Free., IMAGE Merge]
+description: Aspose एक्सेल। Java Aspose.Cells. इमेज को PPTX सेवफॉर्मेट में मर्ज करें। Java छवि को PPTX प्रारूप में संयोजित करें। Java में IMAGE को PPTX में मर्ज करें। IMAGE मर्ज करें।
+keywords: [Aspose Excel., Java Aspose.Cells., Merge IMAGE to PPTX in Java., Java Merge IMAGE to pptx., Java Combine IMAGE to PPTX., IMAGE Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="IMAGE को PPTX via Java पर मर्ज करें" h2="IMAGE को PPTX में मर्ज करने के लिए हाई-स्पीड Java लाइब्रेरी। Java में उच्च-स्तरीय, प्लेटफ़ॉर्म स्वतंत्र सॉफ़्टवेयर विकसित करने के लिए हमारे एक्सेल रूपांतरण API का उपयोग करें। यह Excel, CSV, OpenOffice, PDF, HTML, image और कई अन्य एक्सेल प्रारूपों को आयात और निर्यात करने के लिए एक पेशेवर सॉफ़्टवेयर समाधान है।" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="IMAGE" additionalConversionTag="PPTX" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Merge IMAGE to PPTX in Java., Free
 
 {{% blocks/products/pf/agp/content h2="Java का उपयोग करके IMAGE को PPTX पर मर्ज करें" %}}
 
- मैं IMAGE को PPTX में कैसे मर्ज करूं? Aspose.Cells for Java लाइब्रेरी के साथ, आप कोड की कुछ पंक्तियों के साथ आसानी से IMAGE को प्रोग्रामेटिक रूप से PPTX में मर्ज कर सकते हैं।[Aspose.Cells for Java](https://products.aspose.com/cells/java) सभी एक्सेल फ़ाइलों को उत्पन्न करने, संशोधित करने, परिवर्तित करने, प्रस्तुत करने और प्रिंट करने की क्षमता के साथ क्रॉस-प्लेटफ़ॉर्म एप्लिकेशन बनाने में सक्षम है। Java एक्सेल API न केवल स्प्रेडशीट प्रारूपों के बीच कनवर्ट कर सकता है, यह एक्सेल फाइलों को छवियों, PDF, HTML, ODS, CSV, SVG, JSON, वर्ड, पीपीटी और भी बहुत कुछ के रूप में प्रस्तुत कर सकता है, इस प्रकार यह एक्सचेंज के लिए एक आदर्श विकल्प बन जाता है। उद्योग-मानक में दस्तावेज़ प्रारूप. आप इसका नवीनतम संस्करण सीधे यहां से डाउनलोड कर सकते हैं[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) और pom.xml में निम्नलिखित कॉन्फ़िगरेशन जोड़कर इसे अपने Maven-आधारित प्रोजेक्ट में स्थापित करें।
+ मैं IMAGE को PPTX में कैसे मर्ज करूं? Aspose.Cells for Java लाइब्रेरी के साथ, आप कोड की कुछ पंक्तियों के साथ आसानी से IMAGE को प्रोग्रामेटिक रूप से PPTX में मर्ज कर सकते हैं।[Aspose.Cells for Java](https://products.aspose.com/cells/java)सभी एक्सेल फ़ाइलों को उत्पन्न करने, संशोधित करने, परिवर्तित करने, प्रस्तुत करने और प्रिंट करने की क्षमता के साथ क्रॉस-प्लेटफ़ॉर्म एप्लिकेशन बनाने में सक्षम है। Java एक्सेल API न केवल स्प्रेडशीट प्रारूपों के बीच परिवर्तित होता है, बल्कि यह एक्सेल फाइलों को छवियों, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT और अधिक के रूप में भी प्रस्तुत कर सकता है, इस प्रकार यह उद्योग-मानक प्रारूपों में दस्तावेजों का आदान-प्रदान करने के लिए एक आदर्श विकल्प बन जाता है। आप इसका नवीनतम संस्करण सीधे यहां से डाउनलोड कर सकते हैं[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) और pom.xml में निम्नलिखित कॉन्फ़िगरेशन जोड़कर इसे अपने Maven-आधारित प्रोजेक्ट में स्थापित करें।
 
 {{% blocks/products/pf/agp/code-block title="कोष" offSpacer="true" %}}
 
@@ -45,7 +45,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Merge IMAGE to PPTX in Java., Free
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Java में IMAGE को PPTX पर निःशुल्क ऑनलाइन मर्ज करें" %}}
+{{% blocks/products/pf/agp/content h2="Java में IMAGE को PPTX पर मर्ज करें" %}}
 
 निम्नलिखित उदाहरण दर्शाता है कि Aspose.Cells for Java में IMAGE को PPTX में कैसे मर्ज किया जाए।
 {{% blocks/products/pf/agp/text %}}
@@ -56,13 +56,13 @@ IMAGE को PPTX पर मर्ज करने के लिए आसान
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Java में IMAGE को PPTX पर मर्ज करने के लिए निःशुल्क ऑनलाइन" InputFormat="png" InputFormat2="pptx" outformat="pptx" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="java" %}}
+{{% cells-merger title="Java में IMAGE को PPTX में मर्ज करने के लिए नमूना कोड" InputFormat="png" InputFormat2="pptx" outformat="pptx" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="IMAGE को PPTX via Java पर कैसे मर्ज करें" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- प्रोग्रामेटिक रूप से IMAGE को PPTX में मर्ज करने की आवश्यकता है? एक बुनियादी दस्तावेज़ जिसका विलय और संयोजन हो रहा है[Aspose.Cells for Java](https://products.aspose.com/cells/java) एपीआई को कोड की कुछ पंक्तियों के साथ किया जा सकता है।
+प्रोग्रामेटिक रूप से IMAGE को PPTX में मर्ज करने की आवश्यकता है? एक बुनियादी दस्तावेज़ जिसका विलय और संयोजन हो रहा है[Aspose.Cells for Java](https://products.aspose.com/cells/java) एपीआई को कोड की कुछ पंक्तियों के साथ किया जा सकता है।
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -103,7 +103,7 @@ IMAGE को PPTX पर मर्ज करने के लिए आसान
 <!-- aboutfile Starts -->
     {{< blocks/products/pf/agp/about-file-section >}}
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="IMAGE" readMoreLink="https://docs.fileformat.com/image/png/" >}}PNG (पोर्टेबल नेटवर्क ग्राफ़िक्स) फ़ाइल एक रेखापुंज छवि फ़ाइल स्वरूप है जो दोषरहित संपीड़न का उपयोग करती है। यह फ़ाइल प्रारूप ग्राफ़िक्स इंटरचेंज प्रारूप (GIF) के प्रतिस्थापन के रूप में बनाया गया था और इसकी कोई कॉपीराइट सीमा नहीं है। हालाँकि, PNG फ़ाइल स्वरूप एनिमेशन का समर्थन नहीं करता है। PNG फ़ाइल स्वरूप दोषरहित छवि संपीड़न का समर्थन करता है जो इसे अपने उपयोगकर्ताओं के बीच लोकप्रिय बनाता है। समय बीतने के साथ, PNG व्यापक रूप से उपयोग किए जाने वाले छवि फ़ाइल स्वरूपों में से एक के रूप में विकसित हुआ है।{{< /blocks/products/pf/agp/i18n/about-file-text >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="PPTX" readMoreLink="https://docs.fileformat.com/presentation/pptx/" >}}PPTX एक्सटेंशन वाली फ़ाइलें लोकप्रिय Microsoft PowerPoint एप्लिकेशन के साथ बनाई गई प्रस्तुति फ़ाइलें हैं। प्रेजेंटेशन फ़ाइल प्रारूप पीपीटी के पिछले संस्करण के विपरीत, जो बाइनरी था, PPTX प्रारूप Microsoft PowerPoint ओपन XML प्रेजेंटेशन फ़ाइल प्रारूप पर आधारित है। प्रेजेंटेशन फ़ाइल स्लाइडों का एक संग्रह है जहां प्रत्येक स्लाइड में टेक्स्ट, चित्र, फ़ॉर्मेटिंग, एनिमेशन और अन्य मीडिया शामिल हो सकते हैं। इन स्लाइडों को कस्टम प्रेजेंटेशन सेटिंग्स के साथ स्लाइड शो के रूप में दर्शकों के सामने प्रस्तुत किया जाता है।{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="PPTX" readMoreLink="https://docs.fileformat.com/presentation/pptx/" >}}PPTX एक्सटेंशन वाली फ़ाइलें लोकप्रिय Microsoft PowerPoint एप्लिकेशन के साथ बनाई गई प्रस्तुति फ़ाइलें हैं। प्रेजेंटेशन फ़ाइल प्रारूप PPT के पिछले संस्करण के विपरीत, जो बाइनरी था, PPTX प्रारूप Microsoft PowerPoint ओपन एक्सएमएल प्रेजेंटेशन फ़ाइल प्रारूप पर आधारित है। प्रेजेंटेशन फ़ाइल स्लाइडों का एक संग्रह है जहां प्रत्येक स्लाइड में टेक्स्ट, चित्र, फ़ॉर्मेटिंग, एनिमेशन और अन्य मीडिया शामिल हो सकते हैं। इन स्लाइडों को कस्टम प्रेजेंटेशन सेटिंग्स के साथ स्लाइड शो के रूप में दर्शकों के सामने प्रस्तुत किया जाता है।{{< /blocks/products/pf/agp/i18n/about-file-text >}}
     {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->
 

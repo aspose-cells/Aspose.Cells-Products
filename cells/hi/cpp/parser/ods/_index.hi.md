@@ -2,6 +2,7 @@
 title:  ODS दस्तावेज़ से C++ के माध्यम से पाठ और छवियाँ निकालें
 weight: 9130
 description: Windows 32 बिट, Windows 64 बिट और लिनक्स 64 बिट के लिए C++ रनटाइम एनवायरनमेंट पर ODS फ़ाइल से पाठ और छवियों को निकालने के लिए उदाहरण कोड।
+keywords: [C++ Aspose.Cells., C++ Extract text and images from ODS file., C++ How to Parse ODS File., C++ Extract text from ODS file., Extract images from ODS file using C++]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="C++ में पार्स ODS प्रारूप" h2="Microsoft या एडोब PDF जैसे किसी भी सॉफ़्टवेयर के उपयोग के बिना, सर्वर-साइड Aspose.Cells for C++ एपीआई का उपयोग करके मूल और उच्च प्रदर्शन ODS दस्तावेज़ पार्सिंग।" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" sourceAdditionalConversionTag="" additionalConversionTag="" pfName="Aspose.Cells" subTitlepfName="for C++" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="ODS" >}}
@@ -61,9 +62,30 @@ PM> Install-Package Aspose.Cells.Cpp
 {{% blocks/products/pf/agp/code-block title="पार्स ODS फ़ाइलें - C++" offSpacer="" %}}
 
 ```cs
-  
 
-    
+Aspose::Cells::Startup();
+
+// extract images from Worksheets 
+// open a template Excel file
+Workbook workbook(u"sampleExtractImagesFromWorksheets.ods");
+
+// get the first worksheet
+Worksheet worksheet = workbook.GetWorksheets().Get(0);
+
+// get the first Picture in the first worksheet
+Picture pic = worksheet.GetPictures().Get(0);
+
+// Note: you may evaluate the image format before specifying the image path
+// define ImageOrPrintOptions
+ImageOrPrintOptions printoption;
+
+// specify the image format
+printoption.SetImageType(ImageType::Jpeg);
+
+// save the image
+pic.ToImage(u"outputExtractImagesFromWorksheets.jpg", printoption);
+
+Aspose::Cells::Cleanup();
 
 ```
 

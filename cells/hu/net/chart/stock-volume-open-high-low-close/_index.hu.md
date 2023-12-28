@@ -1,6 +1,7 @@
 ---
 title: Hozzon létre Volume-Open-Magas-Alacsony zárási készletdiagramokat a C#-es számon keresztül
 description: C# Mintakód a Volume-Open-High-Low-Close Stock diagramok készítéséhez Excelbe a .NET Library használatával. Használja ezt a kódot Volume-Open-High-Low-Close Stock diagram létrehozásához az MS Excelhez a VB.NET, Asp.NET vagy bármely .NET alapú alkalmazáson belül.
+keywords: [C# Aspose.Cells., c# add Volume-Open-High-Low-Close Stock Chart., c# insert Volume-Open-High-Low-Close Stock Chart., c# create Volume-Open-High-Low-Close Stock Chart]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
@@ -18,7 +19,7 @@ A negyedik részvénydiagram, amelyet megvizsgálunk, a Volume Open High Low Clo
 
 {{% blocks/products/pf/agp/text %}}
 
-A fejlesztők könnyen létrehozhatnak egy Volume-Open-Magas-Low-Close Stock diagramot a különböző jelentéskészítő alkalmazások futtatásán belül az adatfeldolgozáshoz, mindössze néhány sornyi kóddal.
+fejlesztők könnyen létrehozhatnak egy Volume-Open-Magas-Low-Close Stock diagramot a különböző jelentéskészítő alkalmazások futtatásán belül az adatfeldolgozáshoz, mindössze néhány sornyi kóddal.
 
 {{% /blocks/products/pf/agp/text %}}
 

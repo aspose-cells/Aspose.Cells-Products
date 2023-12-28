@@ -1,6 +1,7 @@
 ---
-title: Excel-fájl megjegyzések via Java
+title: via Java Excel-fájl megjegyzések hozzáadása vagy eltávolítása
 description: Adja hozzá vagy távolítsa el a Java könyvtárral rendelkező Excel és OpenOffice táblázatok adatannotációit.
+keywords: [Java Aspose.Cells., add excel annotation., insert excel annotation., access excel annotation., remove excel annotation., delete excel annotation., add annotation in excel., insert annotation in excel., access annotation in excel., remove annotation in excel., delete annotation in excel]
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
 {{< blocks/products/pf/i18n/feature-page-header h1="Microsoft<sup>&reg;</sup> Excel-fájl megjegyzéseinek kezelése via Java" h2="Szúrjon be egyszerű megjegyzéseket a megjegyzésekhez, vagy törölje az Excel-táblázat cellaszintű megjegyzéseit a Java alapú alkalmazásokban." >}}

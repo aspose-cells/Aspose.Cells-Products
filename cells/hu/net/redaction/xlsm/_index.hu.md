@@ -2,6 +2,7 @@
 title:  Szöveg keresése és cseréje a XLSM via .NET dokumentumban
 weight: 2370
 description: C# forráskód a XLSM fájl érzékeny információinak törléséhez a .NET Framework, .NET Core, Mono vagy a Xamarin platformokon.
+keywords: [C# Aspose.Cells., c# Search and replace text in XLSM file., c# redact XLSM file., c# edit XLSM file., c# XLSM file redaction., c# Search and replace string in XLSM file]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Szerkesztés XLSM Formátumok C#-ben" h2="Natív és nagy teljesítményű XLSM dokumentumérzékeny szerkesztési információk szerveroldali Aspose.Cells for .NET API-k használatával, olyan szoftverek használata nélkül, mint a Microsoft vagy az Adobe PDF." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="XLSM" >}}
@@ -48,7 +49,7 @@ PM> Install-Package Aspose.Cells
 + FindOptions objektum létrehozása.
 + Keresési beállítások megadása
 + Lapozzon végig minden cellán, és használja a Keresés módszert.
-Mentse el a munkafüzetet.
++ Mentse el a munkafüzetet.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -121,7 +122,7 @@ wb.Save("e:\test2\output.xlsm");
             {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Nem kell letölteni a Aspose API számot." >}}
             {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Nem kell kódot írni." >}}
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Csak töltse fel a XLSM fájlokat." >}}
-            {{< blocks/products/pf/agp/democard icon="fa-download" text=" Azonnal szerkesztve lesz." >}}
+            {{< blocks/products/pf/agp/democard icon="fa-download" text="Azonnal szerkesztve lesz." >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLSM" readMoreLink="https://docs.fileformat.com/spreadsheet/xlsm/" >}}
  XLSM kiterjesztésű fájlok olyan táblázatkezelő fájlok, amelyek támogatják a makrókat. Alkalmazási szempontból a makró a folyamatok automatizálására használt utasítások halmaza. A makró rögzíti az ismételten végrehajtott lépéseket, és megkönnyíti a műveletek végrehajtását a makró újbóli futtatásával. A makrók a Microsoft Visual Basic for Applications (VBA) programmal programozhatók az Excel-munkafüzetből a Visual Basic Editor segítségével, és onnan közvetlenül futtathatók/hibakereshetők.

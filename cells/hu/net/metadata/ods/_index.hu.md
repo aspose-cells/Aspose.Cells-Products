@@ -2,6 +2,7 @@
 title:  ODS Fájlok metaadatainak megtekintése vagy szerkesztése via .NET
 weight: 320
 description: C# forráskód a ODS formátumú metaadatok szerkesztéséhez vagy megtekintéséhez a .NET Framework, .NET Core, Mono vagy Xamarin platformokon.
+keywords: [C# Aspose.Cells., c# view ods metadata., c# add ods metadata., c# insert ods metadata., c# edit ods metadata., c# remove ods metadata., c# extract ods metadata., c# modify ods metadata]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Kivonat ODS Metaadatok via .NET" h2="Készítse el saját .NET-es alkalmazásait a ODS fájlok metaadatok hozzáadásához, szerkesztéséhez, eltávolításához vagy kibontásához szerveroldali API-k segítségével." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="ODS" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="PPTX" fileiconsmall2="DOCX" fileiconsmall3="XLSX" fileiconsmall4="PDF" fileiconsmall5=" ODP " >}}
@@ -106,7 +107,7 @@ foreach (Aspose.Cells.Properties.DocumentProperty property in book.Worksheets.Bu
 
     {{< blocks/products/pf/agp/about-file-section >}}
 
-        {{< blocks/products/pf/agp/demobox sectionTitle="Kivonja a ODS metaadatait online alkalmazáson keresztül" sectionDescription=" Tekintse meg és szerkessze a ODS számú dokumentumok metaadatait a mi használatával[Élő demók](https://products.aspose.app/cells/metadata) a következő előnyökkel." >}}
+        {{< blocks/products/pf/agp/demobox sectionTitle="Kivonja a ODS metaadatait online alkalmazáson keresztül" sectionDescription=" Tekintse meg és szerkessze a ODS számú dokumentumok metaadatait a mi használatával[Élő bemutatók](https://products.aspose.app/cells/metadata) a következő előnyökkel." >}}
             {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Nem kell letölteni vagy beállítani semmit" >}}
             {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Nem kell kódot írni" >}}
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Csak töltse fel a ODS fájlt, és szerkessze a dokumentum tulajdonságait" >}}

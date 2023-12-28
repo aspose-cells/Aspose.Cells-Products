@@ -5,7 +5,7 @@ description: Egyesítse az Excel fájlokat a Java használatával több lapra va
 {{< blocks/products/pf/feature-page-wrap >}}
 {{< blocks/products/pf/i18n/feature-page-header h1="Microsoft<sup>&reg;</sup> Excel-fájl egyesítése via Java" h2="Kombináljon két vagy több Excel-fájlt egyetlen táblázatban a Java kód használatával" >}}
 {{% blocks/products/pf/feature-page-summary %}}
-[Java Excel Library](/cells/hu/java/) többféle lehetőséget biztosít a különféle típusú tartalommal, például képletekkel, képekkel, adatokkal, diagramokkal stb. rendelkező munkafüzetek egyetlen táblázatkezelő dokumentumban való kombinálására. A támogatott fájlformátumok a XLS, XLSX, XLSB, XLT, XLTX, XLTM, ODS, CSV, CSV, 3081 és még sok más.
+[Java Excel Library](/cells/hu/java/)többféle lehetőséget biztosít a különféle típusú tartalommal, például képletekkel, képekkel, adatokkal, diagramokkal stb. rendelkező munkafüzetek egyetlen táblázatkezelő dokumentumban való kombinálására. A támogatott fájlformátumok a XLS, XLSX, XLSB, XLT, XLTX, XLTM, ODS, CSV, CSV, 3081 és még sok más.
 {{% /blocks/products/pf/feature-page-summary %}}
 
 {{% blocks/products/pf/feature-page-section h2="Kombinálja az Excel fájlokat képekkel és diagramokkal" %}}
@@ -27,7 +27,7 @@ book1.save("combined.xlsx");
 {{% /blocks/products/pf/feature-page-section %}}
 
 {{% blocks/products/pf/feature-page-section h2="Egyesítsen több Excel-fájlt" %}}
-[CellsHelper.mergeFiles](https://reference.aspose.com/cells/java/com.aspose.cells/cellshelper#mergeFiles) módszer támogatja az Excel-fájl adatainak, stílusának és képleteinek egyesítését egy új, azonos formátumú táblázattal. Ez egy hatékony módja több fájl egyesítésének gyorsítótár használata közben.
+[CellsHelper.mergeFiles](https://reference.aspose.com/cells/java/com.aspose.cells/cellshelper#mergeFiles) A módszer támogatja az Excel-fájl adatainak, stílusának és képleteinek egyesítését egy új, azonos formátumú táblázattal. Ez egy hatékony módja több fájl egyesítésének gyorsítótár használata közben.
 {{% blocks/products/pf/feature-page-code h3="Java Kód több Excel-fájl egyesítéséhez" %}}
 
 ```cs
@@ -44,7 +44,7 @@ CellsHelper.mergeFiles(files, "cache", "merged.xls");
 {{% /blocks/products/pf/feature-page-section %}}
 
 {{% blocks/products/pf/feature-page-section h2="Excel-fájlok egyesítése munkalapok másolásával" %}}
-[Munkalap.másolat](https://reference.aspose.com/cells/java/com.aspose.cells/worksheet#copy(com.aspose.cells.Worksheet)) használható adatok és formázások másolására egy forrásmunkalapról egy másik munkalapra a munkafüzeteken belül vagy a munkafüzetek között. A metódus a forrás munkalap objektumot veszi paraméterként.
+[Munkalap.másolat](https://reference.aspose.com/cells/java/com.aspose.cells/worksheet#copy(com.aspose.cells.Worksheet)használható adatok és formázások másolására egy forrásmunkalapról egy másik munkalapra a munkafüzeteken belül vagy a munkafüzetek között. A metódus a forrás munkalap objektumot veszi paraméterként.
 {{% blocks/products/pf/feature-page-code h3="Java Kód munkalapok munkafüzetek közötti másolásához" %}}
 
 ```cs

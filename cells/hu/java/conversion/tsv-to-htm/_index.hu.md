@@ -1,7 +1,7 @@
 ---
-title: Java TSV a HTM-hez – Online TSV a HTM konverterhez
-description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Ingyenes online Java A TSV konvertálása HTM mentési formátumba. Java TSV HTM formátumba. Mentse a TSV számot a HTM Java számon.
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java TSV to HTM saveformat., Free Online TSV to HTM Java., Java Convert TSV to HTM]
+title: Java TSV HTM - TSV HTM Converter
+description: Aspose Excel. A TSV számot gyorsan és egyszerűen konvertálja HTM-re a Aspose.Cells. Java TSV számmal HTM-re. Java Mentse a TSV számot a HTM-nél. Mentse el a TSV számot HTM-ként a Java használatával.
+keywords: [Aspose Excel., Java Aspose.Cells., Convert TSV to HTM in Java., Save TSV to HTM using Java., Java TSV to HTM saveformat., TSV to HTM Converter., Java Save TSV as HTM]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Konvertálja a TSV-et HTM-re a Java-ben" h2="Nagy sebességű Java könyvtár a TSV HTM-re való konvertálásához. Ez egy professzionális szoftvermegoldás a TSV, HTM és sok más formátum importálásához és exportálásához a Java használatával." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="HTM" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java TSV to HT
 
 {{% blocks/products/pf/agp/content h2="Konvertálja a TSV-et HTM-re a Java használatával" %}}
 
- Hogyan konvertálhatom át a TSV-et HTM-re? A Aspose.Cells for Java könyvtárral egyszerűen konvertálhatja a TSV-et HTM-re néhány soros kóddal.[Aspose.Cells for Java](https://products.aspose.com/cells/java) képes többplatformos alkalmazásokat létrehozni, módosítani, konvertálni, renderelni és kinyomtatni az összes Excel fájlt. Java Excel API nem csak a táblázatformátumok között konvertál, hanem Excel fájlokat is képes megjeleníteni képként, PDF, HTML, ODS, CSV, CSV, CSV, CSV, CSV, CSV, SVG, és így tovább, SVG P, 8 PT a választás,3,8 ipari szabvány szerinti dokumentumok cseréjére formátumok. A legújabb verziót közvetlenül a webhelyről töltheti le[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) és telepítse a Maven alapú projekten belül a következő konfigurációk hozzáadásával a pom.xml fájlhoz.
+ Hogyan konvertálhatom át a TSV-et HTM-re? A Aspose.Cells for Java könyvtárral egyszerűen konvertálhatja a TSV-et HTM-re néhány soros kóddal.[Aspose.Cells for Java](https://products.aspose.com/cells/java)képes többplatformos alkalmazásokat létrehozni, módosítani, konvertálni, renderelni és kinyomtatni az összes Excel fájlt. Java Az Excel API nemcsak a táblázatformátumok között konvertál, hanem Excel-fájlokat is képes megjeleníteni képként, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT és egyebekként, így tökéletes választás a szabványos formátumú dokumentumok cseréjéhez. A legújabb verziót közvetlenül a webhelyről töltheti le[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) és telepítse a Maven alapú projekten belül a következő konfigurációk hozzáadásával a pom.xml fájlhoz.
 
 {{% blocks/products/pf/agp/code-block title="Adattár" offSpacer="true" %}}
 
@@ -45,7 +45,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java TSV to HT
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Takarítson meg TSV-et a HTM-nél a Java-es számon online ingyen" %}}
+{{% blocks/products/pf/agp/content h2="Mentse a TSV számot a HTM-hez a Java számon" %}}
 
 A következő példa bemutatja, hogyan lehet átalakítani a TSV-et HTM-re a Java-ben.
 {{% blocks/products/pf/agp/text %}}
@@ -56,7 +56,7 @@ Kövesse az egyszerű lépéseket a TSV HTM-re konvertálásához. Töltse fel a
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Ingyenes alkalmazás és mintakód a TSV HTM Online konvertálásához" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="tsv" outformat="htm" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Mintakód a TSV HTM-re konvertálásához" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="tsv" outformat="htm" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="A TSV konvertálása HTM via Java-re" %}}
 
@@ -68,7 +68,7 @@ A TSV fájlokat programozottan HTM-re kell konvertálni? A Java fejlesztők kön
 
 1.  Telepítse a „Aspose.Cells for Java” fájlt.
 1.  Adjon hozzá egy könyvtári hivatkozást (importálja a könyvtárat) a Java projekthez.
-1.  Töltse be a TSV számú fájlt a Workbook osztály egy példányával.
+1. Töltse be a TSV számú fájlt a Workbook osztály egy példányával.
 1.  Konvertálja a TSV-et HTM-re a Workbook.save metódus hívásával.
 1.  Szerezze meg a TSV konverziós eredményt HTM-re.
 
@@ -125,7 +125,7 @@ A TSV fájlokat programozottan HTM-re kell konvertálni? A Java fejlesztők kön
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/tsv-to-xltm/" name="TSV-XLTM" description="Excel-makró-kompatibilis sablon" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/tsv-to-xltx/" name="TSV-XLTX" description="Office OpenXML Excel sablon" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/tsv-to-xml/" name="TSV XML-RE" description="Bővíthető jelölőnyelv" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/tsv-to-xps/" name="TSV-XPS" description="XML papírspecifikációk" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/tsv-to-xps/" name="TSV-XPS" description="XML papír specifikációk" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/tsv-to-json/" name="TSV-JSON" description="JavaScript objektum jelölés" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/tsv-to-jpeg/" name="TSV-JPEG" description="JPEG Kép" >}}
 

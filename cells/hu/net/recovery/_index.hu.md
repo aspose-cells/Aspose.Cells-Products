@@ -1,6 +1,7 @@
 ---
-title: Javítsa meg a via .NET-es excel fájlt
-description: Javítsa ki a sérült Excel-fájlt a C#-es szám használatával. Helyreállító eszköz a .NET-es alkalmazáson belüli sérült Excel-fájlok javítására.
+title: C# Az Excel javítása – A sérült Excel fájl helyreállítása és javítása
+description: C# Aspose.Cells. Javítás excel. Javítsa ki az Excel fájlt. excel helyreállítási eszköz. excel korrupció. Az excel adatok visszaállítása. excel fájl helyreállítás. A sérült excel fájl helyreállítása.
+keywords: [C# Aspose.Cells., repair excel file., excel repair., recover corrupted excel file., repair corrupted excel., recover excel., fix excel file., excel corruption., restore excel data., excel file recovery., recover corrupted excel file.]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Állítsa helyre az EXCEL fájlt a C# számon keresztül" h2="Készítse el saját .NET alkalmazását az Excel fájlok javításához a .NET használatával." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="EXCEL" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="XLS" fileiconsmall2="XLSB" fileiconsmall3="XLSX" fileiconsmall4="XLSM" fileiconsmall5="ODS" >}}
@@ -23,7 +24,7 @@ description: Javítsa ki a sérült Excel-fájlt a C#-es szám használatával. 
 {{% blocks/products/pf/agp/content h2="Az Excel fájl javítása a C# használatával" %}}
 
 + Határozzon meg egy osztályt, amely örökli a Aspose.Cells.IWarningCallback kódot.
-+ Töltse be az EXCEL fájlt a munkafüzet egy példányának létrehozásával, a fenti öröklési osztály használatával, lásd a fenti kódot.
++ Töltse be az EXCEL fájlt a munkafüzet egy példányának létrehozásával a fenti öröklési osztály használatával, lásd a fenti kódot.
 + Mentse el a munkafüzetet, a sérült excel fájl javításra kerül.
 
 {{% /blocks/products/pf/agp/content %}}
@@ -49,7 +50,7 @@ A Aspose.Cells teljes mértékben platformfüggetlen, és támogatja az összes 
 
 Mivel a .NET kód nem függ a mögöttes hardvertől vagy operációs rendszertől, csak egy virtuális gépen, szabadon fejleszthet bármilyen szoftvert a Windows, Linux, macOS, Android és iOS rendszerekhez. Azure és AWS Lambda is támogatott. Csak győződjön meg arról, hogy telepítette a .NET Framework, .NET Core, Windows Azure, Mono vagy Xamarin megfelelő verzióját.
 
-A Microsoft Visual Studio, VSCode használatát javasoljuk C#, F#, VB.NET alkalmazások létrehozásához.
+Microsoft Visual Studio, VSCode használatát javasoljuk C#, F#, VB.NET alkalmazások létrehozásához.
 
 {{% /blocks/products/pf/agp/content %}}
     

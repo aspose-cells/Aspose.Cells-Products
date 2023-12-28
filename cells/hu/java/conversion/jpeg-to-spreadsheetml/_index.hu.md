@@ -1,7 +1,7 @@
 ---
-title: Java JPEG SPREADSHEETML-be – Online JPEG SPREADSHEETML konverterbe
-description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Ingyenes online Java A JPEG konvertálása SPREADSHEETML mentési formátumba. Java JPEG SPREADSHEETML formátumba. Mentse a JPEG számot a SPREADSHEETML Java számra.
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java JPEG to SPREADSHEETML saveformat., Free Online JPEG to SPREADSHEETML Java., Java Convert JPEG to SPREADSHEETML]
+title: Java JPEG SPREADSHEETML - JPEG SPREADSHEETML konverter
+description: Aspose Excel. Java Aspose.Cells. JPEG SPREADSHEETML-be a Java-ben. Java Konvertálja a JPEG-et SPREADSHEETML mentési formátumba. Java JPEG SPREADSHEETML formátumba. Mentse el a JPEG számot a SPREADSHEETML Java számra.
+keywords: [Aspose Excel., Java Aspose.Cells., JPEG to SPREADSHEETML in Java., Java JPEG to SPREADSHEETML saveformat., JPEG to SPREADSHEETML Java., Java Convert JPEG to SPREADSHEETML]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Konvertálja a JPEG-et SPREADSHEETML-re a Java-ben" h2="Nagy sebességű Java könyvtár a JPEG SPREADSHEETML formátumba konvertálásához. Ez egy professzionális szoftvermegoldás a JPEG, SPREADSHEETML és sok más formátum importálásához és exportálásához a Java használatával." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="SPREADSHEETML" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java JPEG to S
 
 {{% blocks/products/pf/agp/content h2="A JPEG konvertálása SPREADSHEETML-re a Java használatával" %}}
 
-Hogyan konvertálhatom a JPEG-et SPREADSHEETML-re? A Aspose.Cells for Java könyvtárral könnyedén konvertálhatja a JPEG-et SPREADSHEETML-re, néhány sornyi kóddal programozottan.[Aspose.Cells for Java](https://products.aspose.com/cells/java) képes többplatformos alkalmazásokat létrehozni, módosítani, konvertálni, renderelni és kinyomtatni az összes Excel fájlt. Java Excel API nem csak a táblázatformátumok között konvertál, hanem Excel fájlokat is képes megjeleníteni képként, PDF, HTML, ODS, CSV, CSV, CSV, CSV, CSV, CSV, SVG, és így tovább, SVG P, 8 PT a választás,3,8 ipari szabvány szerinti dokumentumok cseréjére formátumok. A legújabb verziót közvetlenül a webhelyről töltheti le[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) és telepítse a Maven alapú projekten belül a következő konfigurációk hozzáadásával a pom.xml fájlhoz.
+ Hogyan konvertálhatom a JPEG-et SPREADSHEETML-re? A Aspose.Cells for Java könyvtárral könnyedén konvertálhatja a JPEG-et SPREADSHEETML-re, néhány sornyi kóddal programozottan.[Aspose.Cells for Java](https://products.aspose.com/cells/java)képes többplatformos alkalmazásokat létrehozni, módosítani, konvertálni, renderelni és kinyomtatni az összes Excel fájlt. Java Az Excel API nemcsak a táblázatformátumok között konvertál, hanem Excel-fájlokat is képes megjeleníteni képként, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT és egyebekként, így tökéletes választás a szabványos formátumú dokumentumok cseréjéhez. A legújabb verziót közvetlenül a webhelyről töltheti le[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) és telepítse a Maven alapú projekten belül a következő konfigurációk hozzáadásával a pom.xml fájlhoz.
 
 {{% blocks/products/pf/agp/code-block title="Adattár" offSpacer="true" %}}
 
@@ -45,7 +45,7 @@ Hogyan konvertálhatom a JPEG-et SPREADSHEETML-re? A Aspose.Cells for Java köny
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Mentse el a JPEG-et a SPREADSHEETML-be a Java-ben online ingyen" %}}
+{{% blocks/products/pf/agp/content h2="Mentse a JPEG-et a SPREADSHEETML-be a Java-ben" %}}
 
 A következő példa bemutatja, hogyan lehet a JPEG-et SPREADSHEETML-re konvertálni a Java-ben.
 {{% blocks/products/pf/agp/text %}}
@@ -56,7 +56,7 @@ Kövesse az egyszerű lépéseket a JPEG SPREADSHEETML formátumba konvertálás
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Ingyenes alkalmazás és mintakód a JPEG SPREADSHEETML online konvertálásához" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="jpg" outformat="xml" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Mintakód a JPEG SPREADSHEETML-lé konvertálásához" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="jpg" outformat="xml" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="A JPEG konvertálása SPREADSHEETML via Java-re" %}}
 
@@ -68,7 +68,7 @@ A JPEG fájlokat programozottan SPREADSHEETML-be kell konvertálni? A Java fejle
 
 1.  Telepítse a „Aspose.Cells for Java” fájlt.
 1.  Adjon hozzá egy könyvtári hivatkozást (importálja a könyvtárat) a Java projekthez.
-1.  Töltse be a JPEG számú fájlt a Workbook osztály egy példányával.
+1. Töltse be a JPEG számú fájlt a Workbook osztály egy példányával.
 1.  Konvertálja a JPEG-et SPREADSHEETML-re a Workbook.save metódus meghívásával.
 1.  Szerezze meg a JPEG konverziós eredményt SPREADSHEETML-re.
 
@@ -125,7 +125,7 @@ A JPEG fájlokat programozottan SPREADSHEETML-be kell konvertálni? A Java fejle
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/jpeg-to-xltm/" name="JPEG-XLTM" description="Excel-makró-kompatibilis sablon" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/jpeg-to-xltx/" name="JPEG-XLTX" description="Office OpenXML Excel sablon" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/jpeg-to-xml/" name="JPEG XML-RE" description="Bővíthető jelölőnyelv" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/jpeg-to-xps/" name="JPEG-XPS" description="XML papírspecifikációk" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/jpeg-to-xps/" name="JPEG-XPS" description="XML papír specifikációk" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/jpeg-to-json/" name="JPEG-JSON" description="JavaScript objektum jelölés" >}}
 
 

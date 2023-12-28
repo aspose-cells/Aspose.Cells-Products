@@ -1,7 +1,8 @@
 ---
-title: Hogyan rajzolhatok vagy szúrhatok be dupla egyenes nyilat az Excel via Java-be
+title:  Hogyan rajzolhatok vagy szúrhatok be dupla egyenes nyilat az Excel via Java-be
 weight: 20
-description: Rajzoljon vagy illesszen be dupla egyenes nyíl objektumokat a Aspose.Cells' Java API használatával szoftver nélkül, például Microsoft vagy Open Office, Adobe PDF stb.
+description: Rajzoljon vagy illesszen be dupla egyenes nyíl objektumokat a Aspose.Cells' Java API használatával szoftverek nélkül, például Microsoft vagy Open Office, Adobe PDF stb.
+keywords: [Java Aspose.Cells., Java add double straight arrow., Java insert double straight arrow., Java create double straight arrow]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Szúrjon be dupla egyenes nyilat az Excel via Java-be" h2="Szúrjon be dupla egyenes nyilat a Aspose.Cells\' API használatával, szoftver nélkül, például Microsoft vagy Open Office, Adobe PDF stb." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSX" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="" fileiconsmall1="PPTX" fileiconsmall2="DOCX" fileiconsmall3="XLSX" fileiconsmall4="PDF" fileiconsmall5=" ODP " >}}
@@ -11,7 +12,7 @@ description: Rajzoljon vagy illesszen be dupla egyenes nyíl objektumokat a Aspo
 
 {{% blocks/products/pf/agp/content h2="Dupla egyenes nyíl beszúrása Excel fájlba a Java használatával" %}}
 
- Ahhoz, hogy dupla egyenes nyilat illesszünk be az Excel fájlba, használjuk
+Ahhoz, hogy dupla egyenes nyilat illesszünk be az Excel fájlba, használjuk
  [Aspose.Cells for Java](https://products.aspose.com/cells/java) 
  API, amely funkciókban gazdag, erőteljes és könnyen használható API for Java platform. A legújabb verziót közvetlenül a webhelyről töltheti le
  [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) 
@@ -56,7 +57,7 @@ description: Rajzoljon vagy illesszen be dupla egyenes nyíl objektumokat a Aspo
 
 {{% /blocks/products/pf/agp/text %}}
 
-Munkafüzet objektum példányosítása. (vagy->Töltse be a XLSX fájlt a teljes elérési úttal.)
++ Munkafüzet objektum példányosítása. (vagy->Töltse be a XLSX fájlt a teljes elérési úttal.)
 + Válassza ki a munkalapot az indexén keresztül.
  + Használja a[módszer hozzáadása](https://reference.aspose.com/cells/java/com.aspose.cells/shapecollection/#addLine-int-int-int-int-int-int-) dupla egyenes nyíl beszúrásához a kiválasztott munkalapba
 + Mentse a munkafüzetet XLSX formátumban.

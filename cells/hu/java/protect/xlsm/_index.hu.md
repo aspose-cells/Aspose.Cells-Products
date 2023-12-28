@@ -1,7 +1,8 @@
 ---
-title: Védje és zárja XLSM via Java dokumentumot
+title:  Védje és zárja XLSM via Java dokumentumot
 weight: 9620
 description: Java mintakód a XLSM fájl zárolásához jelszóval a Java futásidejű környezet JSP/JSF alkalmazásokhoz és asztali alkalmazásokhoz.
+keywords: [Java Aspose.Cells., Java Lock XLSM files., Java How to Protect and lock XLSM document., Java Protect XLSM files., Encrypt XLSM Files using Java]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="XLSM via Java fájlok titkosítása" h2="Jelszóvédett Excel-táblázatok, beleértve a XLSM formátumot a .NET könyvtár használatával." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSM" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSM" >}}
@@ -49,7 +50,7 @@ description: Java mintakód a XLSM fájl zárolásához jelszóval a Java futás
 
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
-{{% blocks/products/pf/agp/feature-section-col title="A XLSM via Java számú fájlok védelmének lépései" %}}
+{{% blocks/products/pf/agp/feature-section-col title="XLSM via Java számú fájlok védelmének lépései" %}}
 
 {{% blocks/products/pf/agp/text %}}
 

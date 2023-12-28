@@ -1,7 +1,7 @@
 ---
-title: XLAM से एचटीएम - XLAM को एचटीएम फाइलों में बदलें C++
-description: Aspose एक्सेल। मुफ़्त ऑनलाइन XLAM को एचटीएम सेवफॉर्मेट में कनवर्ट करें। C++ XLAM एचटीएम प्रारूप में। C++ में XLAM को एचटीएम के रूप में सेव करें।
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ XLAM to HTM saveformat., Free Online XLAM to HTM Converter]
+title: C++ XLAM से एचटीएम - XLAM से एचटीएम कन्वर्टर
+description: Aspose एक्सेल। Aspose.Cells के साथ XLAM को जल्दी और आसानी से HTM में बदलें। C++ XLAM को HTM में बदलें। C++ XLAM को एचटीएम में सहेजें। C++ का उपयोग करके XLAM को एचटीएम के रूप में सहेजें।
+keywords: [Aspose Excel., C++ Aspose.Cells., Convert XLAM to HTM in C++., Save XLAM to HTM using C++., C++ XLAM to HTM saveformat., XLAM to HTM Converter., C++ Save XLAM as HTM]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="XLAM को C++ में एचटीएम में बदलें" h2="Microsoft एक्सेल, ओपनऑफिस या एडोब एक्रोबैट इंस्टॉलेशन की आवश्यकता के बिना C++ लाइब्रेरी का उपयोग करके एचटीएम में उच्च प्रदर्शन XLAM रूपांतरण।" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" sourceAdditionalConversionTag="" additionalConversionTag="HTM" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., C++ Aspose.Cells., C++ XLAM to HTM saveformat., Free O
 
 {{% blocks/products/pf/agp/content h2="C++ का उपयोग करके XLAM को एचटीएम में बदलें" %}}
 
- मैं XLAM को एचटीएम में कैसे परिवर्तित करूं? Aspose.Cells for C++ लाइब्रेरी के साथ, आप कोड की कुछ पंक्तियों के साथ आसानी से XLAM को प्रोग्रामेटिक रूप से एचटीएम में परिवर्तित कर सकते हैं।[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) सभी एक्सेल फ़ाइलों को उत्पन्न करने, संशोधित करने, परिवर्तित करने, प्रस्तुत करने और प्रिंट करने की क्षमता के साथ क्रॉस-प्लेटफ़ॉर्म एप्लिकेशन बनाने में सक्षम है। C++ एक्सेल API न केवल स्प्रेडशीट प्रारूपों के बीच कनवर्ट कर सकता है, यह एक्सेल फाइलों को छवियों, PDF, HTML, ODS, CSV, SVG, JSON, वर्ड, पीपीटी और भी बहुत कुछ के रूप में प्रस्तुत कर सकता है, इस प्रकार यह एक्सचेंज के लिए एक आदर्श विकल्प बन जाता है। उद्योग-मानक में दस्तावेज़ प्रारूप. आप इसका नवीनतम संस्करण सीधे डाउनलोड कर सकते हैं, बस खोलें[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) पैकेज मैनेजर, Aspose.Cells.सीपीपी खोजें और इंस्टॉल करें। आप पैकेज मैनेजर कंसोल से निम्न कमांड का भी उपयोग कर सकते हैं।
+ मैं XLAM को एचटीएम में कैसे परिवर्तित करूं? Aspose.Cells for C++ लाइब्रेरी के साथ, आप कोड की कुछ पंक्तियों के साथ आसानी से XLAM को प्रोग्रामेटिक रूप से एचटीएम में परिवर्तित कर सकते हैं।[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) सभी एक्सेल फ़ाइलों को उत्पन्न करने, संशोधित करने, परिवर्तित करने, प्रस्तुत करने और प्रिंट करने की क्षमता के साथ क्रॉस-प्लेटफ़ॉर्म एप्लिकेशन बनाने में सक्षम है। C++ एक्सेल API न केवल स्प्रेडशीट प्रारूपों के बीच परिवर्तित होता है, बल्कि यह एक्सेल फाइलों को छवियों, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT और अधिक के रूप में भी प्रस्तुत कर सकता है, इस प्रकार यह उद्योग-मानक प्रारूपों में दस्तावेजों का आदान-प्रदान करने के लिए एक आदर्श विकल्प बन जाता है। आप इसका नवीनतम संस्करण सीधे डाउनलोड कर सकते हैं, बस खोलें[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) पैकेज मैनेजर, Aspose.Cells.सीपीपी खोजें और इंस्टॉल करें। आप पैकेज मैनेजर कंसोल से निम्न कमांड का भी उपयोग कर सकते हैं।
 
 {{% blocks/products/pf/agp/code-block title="आज्ञा" offSpacer="true" %}}
 
@@ -26,7 +26,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="XLAM को एचटीएम में C++ में निःशुल्क ऑनलाइन सेव करें" %}}
+{{% blocks/products/pf/agp/content h2="XLAM को C++ में एचटीएम में सेव करें" %}}
 
 निम्नलिखित उदाहरण दर्शाता है कि XLAM को C++ में एचटीएम में कैसे परिवर्तित किया जाए।
 {{% blocks/products/pf/agp/text %}}
@@ -37,7 +37,7 @@ XLAM को एचटीएम में बदलने के लिए आस
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="XLAM को एचटीएम ऑनलाइन में बदलने के लिए निःशुल्क ऐप और नमूना कोड" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlam" outformat="htm" IsLandingPage="true" language="cpp" %}}
+{{% cells-convert title="XLAM को एचटीएम में बदलने के लिए नमूना कोड" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlam" outformat="htm" IsLandingPage="true" language="cpp" %}}
 
 {{% blocks/products/pf/agp/content h2="XLAM को C++ के माध्यम से एचटीएम में कैसे परिवर्तित करें" %}}
 
@@ -49,7 +49,7 @@ XLAM फ़ाइलों को प्रोग्रामेटिक रू
 
 1.  'Aspose.Cells for C++' इंस्टॉल करें।
 1.  अपने C++ प्रोजेक्ट में एक लाइब्रेरी संदर्भ जोड़ें (लाइब्रेरी आयात करें)।
-1.  फ़ैक्टरी::CreateIWorkbook का उपयोग करके XLAM फ़ाइल लोड करें।
+1.  वर्कबुक का उपयोग करके XLAM फ़ाइल लोड करें।
 1.  Save() विधि को कॉल करके XLAM को HTM में कनवर्ट करें।
 1.  XLAM का एचटीएम में रूपांतरण परिणाम प्राप्त करें।
 
@@ -82,6 +82,12 @@ XLAM फ़ाइलों को प्रोग्रामेटिक रू
 
 {{% /blocks/products/pf/agp/content %}}
 
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLAM" readMoreLink="https://docs.fileformat.com/spreadsheet/xlam/" >}}XLAM एक मैक्रो-सक्षम ऐड-इन फ़ाइल है जिसका उपयोग स्प्रेडशीट में नए फ़ंक्शन जोड़ने के लिए किया जाता है। ऐड-इन एक पूरक प्रोग्राम है जो अतिरिक्त कोड चलाता है और स्प्रेडशीट के लिए अतिरिक्त कार्यक्षमता प्रदान करता है। XLAM फ़ाइलें .xlam एक्सटेंशन के साथ संग्रहीत हैं। XLAM फ़ाइलें XLSM और XLSX फ़ाइल स्वरूपों के समान XML-आधारित फ़ाइलें हैं और समग्र फ़ाइल आकार को कम करने के लिए ज़िप संपीड़न के साथ सहेजी जाती हैं।{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="HTM" readMoreLink="https://docs.fileformat.com/web/htm/" >}}.htm एक्सटेंशन वाली फ़ाइलें Google क्रोम, इंटरनेट एक्सप्लोरर, फ़ायरफ़ॉक्स और कई अन्य जैसे वेब ब्राउज़र में प्रदर्शन के लिए वेब पेज बनाने के लिए हाइपरटेक्स्ट मार्कअप लैंग्वेज का प्रतिनिधित्व करती हैं। यह दूसरों की पहुंच के लिए वर्ल्ड वाइड वेब (डब्ल्यूडब्ल्यूडब्ल्यू) पर प्रकाशित होने वाले स्थिर पेज बनाने के लिए मार्कअप को परिभाषित करता है। ये मार्कअप ब्राउज़रों को बताते हैं कि वेब पेज की सामग्री को कैसे प्रदर्शित किया जाए। ऐसे पृष्ठों में सादा पाठ, चित्र, अन्य पृष्ठों के हाइपरलिंक, वीडियो और अन्य मीडिया जानकारी हो सकती है। जब कोई वेब पेज प्रकाशित होता है, तो आप उसके पेज स्रोत को देखकर उसके पीछे मार्कअप कोड पर नज़र डाल सकते हैं। आधुनिक ब्राउज़र वेब पेज के प्रत्येक अनुभाग का निरीक्षण करने की अनुमति देते हैं जहां HTM स्रोत में प्रत्येक उप-विभाजन या मार्कअप तत्व विस्तृत है।{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="अन्य समर्थित रूपांतरण" subTitle="आप XLAM को नीचे सूचीबद्ध कुछ सहित कई अन्य फ़ाइल स्वरूपों में भी परिवर्तित कर सकते हैं।" >}}
 
@@ -95,7 +101,6 @@ XLAM फ़ाइलों को प्रोग्रामेटिक रू
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xlam-to-pdf/" name="XLAM से PDF तक" description="संवहन दस्तावेज़ स्वरूप" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xlam-to-png/" name="XLAM से PNG तक" description="पोर्टेबल नेटवर्क ग्राफ़िक्स" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xlam-to-svg/" name="XLAM से SVG तक" description="स्केलेबल वेक्टर ग्राफिक्स" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xlam-to-tiff/" name="XLAM से TIFF तक" description="टैग किया गया छवि प्रारूप" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xlam-to-tsv/" name="XLAM से TSV तक" description="टैब-पृथक मान" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xlam-to-txt/" name="XLAM से TXT तक" description="सामग्री या लेख दस्तावेज़" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xlam-to-xls/" name="XLAM से XLS तक" description="एक्सेल बाइनरी फॉर्मेट" >}}

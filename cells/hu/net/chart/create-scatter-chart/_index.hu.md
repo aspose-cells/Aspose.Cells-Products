@@ -1,6 +1,7 @@
 ---
 title: Hozzon létre szóródási diagramokat a C# számon keresztül
 description: C# Mintakód Szórványdiagramok készítéséhez Excelbe a .NET Library használatával. Ezzel a kóddal szóródiagramot hozhat létre az MS Excelben a VB.NET, Asp.NET vagy bármely .NET alapú alkalmazáson belül.
+keywords: [C# Aspose.Cells., c# add Scatter Chart., c# insert Scatter Chart., c# create Scatter Chart]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
@@ -18,7 +19,7 @@ A szóródási diagramok dinamikus létrehozása futó alkalmazáson belül egys
 
 {{% blocks/products/pf/agp/text %}}
 
-fejlesztők könnyen létrehozhatnak egy Scatter diagramot a különböző jelentéskészítő alkalmazások futtatásán belül, mindössze néhány sornyi kóddal.
+A fejlesztők könnyen létrehozhatnak egy Scatter diagramot a különböző jelentéskészítő alkalmazások futtatásán belül, mindössze néhány sornyi kóddal.
 
 {{% /blocks/products/pf/agp/text %}}
 

@@ -1,8 +1,8 @@
 ---
 title: A TXT egyesítése a POWERPOINT-hoz – a TXT-es szám egyesítése a POWERPOINT-hez a Java-es helyen
 url: /hu/java/merger/merge-txt-to-powerpoint/ 
-description: Aspose Excel. Java Aspose.Cells. Ingyenes online egyesítés TXT POWERPOINT mentési formátumba. Java A TXT kombinálása POWERPOINT formátumba. A TXT egyesítése a Java-es POWERPOINT-tal. TXT Egyesítés.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge TXT to POWERPOINT in Java., Free Online Java Merge TXT to powerpoint., Java Combine TXT to POWERPOINT Online for Free., TXT Merge]
+description: Aspose Excel. Java Aspose.Cells. A TXT egyesítése POWERPOINT mentési formátumba. Java A TXT kombinálása POWERPOINT formátumba. A TXT egyesítése a Java-es POWERPOINT-tal. TXT Egyesítés.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge TXT to POWERPOINT in Java., Java Merge TXT to powerpoint., Java Combine TXT to POWERPOINT., TXT Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="A TXT egyesítése a POWERPOINT via Java-es számmal" h2="Nagy sebességű Java könyvtár a TXT POWERPOINT-hoz való egyesítéséhez. Használja a API-es excel-konverziónkat magas szintű, platformfüggetlen szoftverek fejlesztéséhez a Java-ben. Ez egy professzionális szoftvermegoldás a Excel, CSV, OpenOffice, PDF, HTML, image és sok más excel formátum importálásához és exportálásához." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="TXT" additionalConversionTag="POWERPOINT" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Merge TXT to POWERPOINT in Java., 
 
 {{% blocks/products/pf/agp/content h2="A TXT egyesítése a POWERPOINT-tel a Java használatával" %}}
 
- Hogyan egyesíthetem a TXT-es számot a POWERPOINT-tal? A Aspose.Cells for Java könyvtárral egyszerűen egyesítheti a TXT-et a POWERPOINT-szal, néhány soros kóddal.[Aspose.Cells for Java](https://products.aspose.com/cells/java) képes többplatformos alkalmazásokat létrehozni, módosítani, konvertálni, renderelni és kinyomtatni az összes Excel fájlt. Java Excel API nem csak a táblázatformátumok között konvertál, hanem Excel fájlokat is képes megjeleníteni képként, PDF, HTML, ODS, CSV, CSV, CSV, CSV, CSV, CSV, SVG, és így tovább, SVG P, 8 PT a választás,3,8 ipari szabvány szerinti dokumentumok cseréjére formátumok. A legújabb verziót közvetlenül a webhelyről töltheti le[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) és telepítse a Maven alapú projekten belül a következő konfigurációk hozzáadásával a pom.xml fájlhoz.
+ Hogyan egyesíthetem a TXT-es számot a POWERPOINT-tal? A Aspose.Cells for Java könyvtárral egyszerűen egyesítheti a TXT-et a POWERPOINT-szal, néhány soros kóddal.[Aspose.Cells for Java](https://products.aspose.com/cells/java)képes többplatformos alkalmazásokat létrehozni, módosítani, konvertálni, renderelni és kinyomtatni az összes Excel fájlt. Java Az Excel API nemcsak a táblázatformátumok között konvertál, hanem Excel-fájlokat is képes megjeleníteni képként, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT és egyebekként, így tökéletes választás a szabványos formátumú dokumentumok cseréjéhez. A legújabb verziót közvetlenül a webhelyről töltheti le[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) és telepítse a Maven alapú projekten belül a következő konfigurációk hozzáadásával a pom.xml fájlhoz.
 
 {{% blocks/products/pf/agp/code-block title="Adattár" offSpacer="true" %}}
 
@@ -45,7 +45,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Merge TXT to POWERPOINT in Java., 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Csatlakoztassa a TXT-es számot a POWERPOINT-hoz a Java-es online ingyen" %}}
+{{% blocks/products/pf/agp/content h2="A TXT egyesítése a Java-es POWERPOINT-tal" %}}
 
 A következő példa bemutatja, hogyan egyesítheti a TXT-es számot a POWERPOINT-tal a Aspose.Cells-es for Java-ben.
 {{% blocks/products/pf/agp/text %}}
@@ -56,7 +56,7 @@ Kövesse az egyszerű lépéseket a TXT és a POWERPOINT egyesítéséhez. Tölt
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Ingyenes online a TXT egyesítéséhez POWERPOINT a Java-ben" InputFormat="txt" InputFormat2="pptx" outformat="pptx" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="java" %}}
+{{% cells-merger title="Mintakód a TXT egyesítéséhez a Java-es POWERPOINT-hoz" InputFormat="txt" InputFormat2="pptx" outformat="pptx" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="A TXT és a POWERPOINT via Java egyesítése" %}}
 
@@ -131,8 +131,8 @@ API-jaink minden nagyobb platformon és operációs rendszeren támogatottak. Mi
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-txt-to-xlt/" name="TXT és a XLT számok egyesítése" description="Microsoft Excel-sablon" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-txt-to-xltm/" name="TXT és a XLTM számok egyesítése" description="Excel-makró-kompatibilis sablon" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-txt-to-xltx/" name="TXT és a XLTX számok egyesítése" description="Office OpenXML Excel sablon" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-txt-to-xml/" name="A TXT egyesítése XML-be" description="Bővíthető jelölőnyelv" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-txt-to-xps/" name="TXT és a XPS számok egyesítése" description="XML papírspecifikációk" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-txt-to-xml/" name="Egyesítse a TXT-et XML-be" description="Bővíthető jelölőnyelv" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-txt-to-xps/" name="TXT és a XPS számok egyesítése" description="XML papír specifikációk" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-txt-to-json/" name="TXT és a JSON számok egyesítése" description="JavaScript objektum jelölés" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-txt-to-jpeg/" name="TXT és a JPEG számok egyesítése" description="JPEG Kép" >}}
 

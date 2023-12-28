@@ -1,7 +1,7 @@
 ---
 title: MHT létrehozása – MHT-fájl létrehozása a Java-ben
-description: Aspose Excel. Java MHT-fájl létrehozása. MHT létrehozása Java. Java MHT Creater. Hozzon létre MHT-t a Java-ben. Hozzon létre MHT-fájlt a Java használatával.
-keywords: [Aspose Excel., Java Aspose.Cells., Create MHT Java., Java MHT Creater., Create MHT file in Java., Generate MHT file in Java]
+description:  Aspose Excel. Java Hozzon létre MHT-fájlt gyorsan és egyszerűen a Aspose.Cells-es számmal. Hozzon létre MHT-fájlt a Java-es szám használatával. Hozzon létre MHT-fájlt a Java-ben. Java MHT-készítő.
+keywords: [Aspose Excel., Java Aspose.Cells., Java Create MHT file., Generate MHT file in Java., Create MHT file using Java., Write data to MHT file via Java., Create a MHT file in Java., Java Generate a MHT file., Java MHT Creater]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Hozzon létre MHT-fájlt a Java-ben" h2="Nagy sebességű Java könyvtár MHT-fájl létrehozásához. Ez egy professzionális szoftvermegoldás a XLSX, PDF és sok más formátum importálásához és exportálásához a Java használatával." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="MHT" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -11,7 +11,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Create MHT Java., Java MHT Creater
 
 {{% blocks/products/pf/agp/content h2="Hozzon létre MHT-fájlt a Java használatával" %}}
 
- Hogyan készítsünk MHT fájlt? A Aspose.Cells for Java könyvtárral könnyedén létrehozhat MHT-fájlt programozottan néhány sornyi kóddal.[Aspose.Cells for Java](https://products.aspose.com/cells/java) képes többplatformos alkalmazásokat létrehozni, módosítani, konvertálni, renderelni és kinyomtatni az összes Excel fájlt. Java Excel API nem csak a táblázatformátumok között konvertál, hanem Excel fájlokat is képes megjeleníteni képként, PDF, HTML, ODS, CSV, CSV, CSV, CSV, CSV, CSV, SVG, és így tovább, SVG P, 8 PT a választás,3,8 ipari szabvány szerinti dokumentumok cseréjére formátumok. A legújabb verziót közvetlenül a webhelyről töltheti le[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) és telepítse a Maven alapú projekten belül a következő konfigurációk hozzáadásával a pom.xml fájlhoz.
+ Hogyan készítsünk MHT fájlt? A Aspose.Cells for Java könyvtárral könnyedén létrehozhat MHT-fájlt programozottan néhány sornyi kóddal.[Aspose.Cells for Java](https://products.aspose.com/cells/java)képes többplatformos alkalmazásokat létrehozni, módosítani, konvertálni, renderelni és kinyomtatni az összes Excel fájlt. Java Az Excel API nemcsak a táblázatformátumok között konvertál, hanem Excel-fájlokat is képes megjeleníteni képként, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT és egyebekként, így tökéletes választás a szabványos formátumú dokumentumok cseréjéhez. A legújabb verziót közvetlenül a webhelyről töltheti le[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) és telepítse a Maven alapú projekten belül a következő konfigurációk hozzáadásával a pom.xml fájlhoz.
 
 {{% blocks/products/pf/agp/code-block title="Adattár" offSpacer="true" %}}
 
@@ -50,7 +50,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Create MHT Java., Java MHT Creater
 
 {{% blocks/products/pf/agp/text %}}
 
- fejlesztők egyszerűen hozhatnak létre, tölthetnek be, módosíthatnak és konvertálhatnak MHT-fájlokat a különböző adatfeldolgozási alkalmazásokon belül, mindössze néhány sornyi kóddal.
+ A fejlesztők egyszerűen hozhatnak létre, tölthetnek be, módosíthatnak és konvertálhatnak MHT-fájlokat a különböző adatfeldolgozási alkalmazásokon belül, mindössze néhány sornyi kóddal.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -101,7 +101,7 @@ wkb.save("Excel.mht");
 
 {{% blocks/products/pf/agp/text %}}
 
- Java konverziós mintaforráskód futtatása előtt győződjön meg arról, hogy rendelkezik a következő előfeltételekkel.
+ A Java konverziós mintaforráskód futtatása előtt győződjön meg arról, hogy rendelkezik a következő előfeltételekkel.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -113,7 +113,7 @@ wkb.save("Excel.mht");
 
 <!-- aboutfile Starts -->
     {{< blocks/products/pf/agp/about-file-section >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="MHT" readMoreLink="https://docs.fileformat.com/web/mht/" >}}Az .mht kiterjesztésű fájl egy MIME-kompatibilis archiválási fájlformátum, amely különböző típusú adatokat tartalmaz egyetlen fájlban. Beágyazott erőforrásként képes tárolni olyan adatokat, mint például szöveg, képek, oldalstílus CSS-fájlok, JavaScript és egyéb erőforrások formájában. Az üzenet/rfc822 MIME-típusú MHT-fájlok egyetlen archív fájlba foglalják a HTML-es fájl teljes tartalmát a tárolóeszközökön történő archiváláshoz. Az olyan szoftveralkalmazások, mint a Microsoft Word, lehetővé teszik a WORD-dokumentumok MHT-fájlként történő exportálásával konvertálását. Az MHT fájlok olyan népszerű böngészőkkel nyithatók meg, mint a Microsoft Internet Explore és a Google Chrome.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="MHT" readMoreLink="https://docs.fileformat.com/web/mht/" >}}Az .mht kiterjesztésű fájl egy MIME-kompatibilis archiválási fájlformátum, amely különböző típusú adatokat tartalmaz egyetlen fájlban. Beágyazott erőforrásként képes tárolni olyan adatokat, mint például szöveg, képek, oldalstílus CSS-fájlok, JavaScript és egyéb erőforrások formájában. Az üzenet/rfc822 MIME-típusú MHT-fájlok egyetlen archív fájlba foglalják a HTML-es fájl teljes tartalmát a tárolóeszközökön történő archiváláshoz. Az olyan szoftveralkalmazások, mint a Microsoft Word, lehetővé teszik a WORD-es dokumentumok MHT-fájlként történő exportálásával konvertálását. Az MHT fájlok olyan népszerű böngészőkkel nyithatók meg, mint a Microsoft Internet Explore és a Google Chrome.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
     {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->
 

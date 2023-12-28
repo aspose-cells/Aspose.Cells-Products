@@ -1,7 +1,7 @@
 ---
-title: Java ODS - HTML - Online ODS - HTML Átalakító
-description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Ingyenes online Java A ODS konvertálása HTML mentési formátumra. Java ODS - HTML formátum. Mentse a ODS számot a HTML Java számra.
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java ODS to HTML saveformat., Free Online ODS to HTML Java., Java Convert ODS to HTML]
+title: Java ODS - HTML - ODS - HTML Átalakító
+description: Aspose Excel. A ODS-es számot HTML-re gyorsan és egyszerűen a Aspose.Cells-es számmal alakíthatja át. Java ODS-HTML-re. 13481 a Java számon.
+keywords: [Aspose Excel., Java Aspose.Cells., Convert ODS to HTML in Java., Save ODS to HTML using Java., Java ODS to HTML saveformat., ODS to HTML Converter., Java Save ODS as HTML]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Konvertálja a ODS-et HTML-re Java-ben" h2="Nagysebességű Java könyvtár a ODS HTML-es számok konvertálásához. Ez egy professzionális szoftvermegoldás a ODS, HTML és sok más formátum importálásához és exportálásához a Java szám használatával." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="HTML" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java ODS to HT
 
 {{% blocks/products/pf/agp/content h2="A ODS konvertálása HTML-re a Java használatával" %}}
 
-Hogyan alakíthatom át a ODS-et HTML-re? A Aspose.Cells for Java könyvtárral egyszerűen konvertálhatja a ODS-et programozottan HTML-re néhány sor kóddal.[Aspose.Cells for Java](https://products.aspose.com/cells/java) képes többplatformos alkalmazásokat létrehozni, módosítani, konvertálni, renderelni és kinyomtatni az összes Excel fájlt. Java Excel API nem csak a táblázatformátumok között konvertál, hanem Excel fájlokat is képes megjeleníteni képként, PDF, HTML, ODS, CSV, CSV, CSV, CSV, CSV, CSV, SVG, és így tovább, SVG P, 8 PT a választás,3,8 ipari szabvány szerinti dokumentumok cseréjére formátumok. A legújabb verziót közvetlenül a webhelyről töltheti le[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) és telepítse a Maven alapú projekten belül a következő konfigurációk hozzáadásával a pom.xml fájlhoz.
+Hogyan alakíthatom át a ODS-et HTML-re? A Aspose.Cells for Java könyvtárral egyszerűen konvertálhatja a ODS-et programozottan HTML-re néhány sor kóddal.[Aspose.Cells for Java](https://products.aspose.com/cells/java)képes többplatformos alkalmazásokat létrehozni, módosítani, konvertálni, renderelni és kinyomtatni az összes Excel fájlt. Java Az Excel API nemcsak a táblázatformátumok között konvertál, hanem Excel-fájlokat is képes megjeleníteni képként, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT és egyebekként, így tökéletes választás a szabványos formátumú dokumentumok cseréjéhez. A legújabb verziót közvetlenül a webhelyről töltheti le[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) és telepítse a Maven alapú projekten belül a következő konfigurációk hozzáadásával a pom.xml fájlhoz.
 
 {{% blocks/products/pf/agp/code-block title="Adattár" offSpacer="true" %}}
 
@@ -45,7 +45,7 @@ Hogyan alakíthatom át a ODS-et HTML-re? A Aspose.Cells for Java könyvtárral 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Takarítson meg ODS-HTML számot a Java számon online ingyen" %}}
+{{% blocks/products/pf/agp/content h2="Mentse a ODS-HTML számot a Java-es számon" %}}
 
 A következő példa bemutatja, hogyan lehet a ODS-et HTML-re konvertálni a Java-ben.
 {{% blocks/products/pf/agp/text %}}
@@ -56,9 +56,9 @@ Kövesse az egyszerű lépéseket a ODS HTML-re konvertálásához. Töltse fel 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Ingyenes alkalmazás és mintakód a ODS HTML online konvertálásához" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="ods" outformat="html" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Mintakód a ODS HTML-re konvertálásához" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="ods" outformat="html" IsLandingPage="true" language="java" %}}
 
-{{% blocks/products/pf/agp/content h2="ODS HTML via Java-re konvertálása" %}}
+{{% blocks/products/pf/agp/content h2="A ODS HTML via Java-re konvertálása" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
@@ -68,7 +68,7 @@ A ODS fájlt programozottan HTML-re kell konvertálni? A Java fejlesztők könny
 
 1.  Telepítse a „Aspose.Cells for Java” fájlt.
 1.  Adjon hozzá egy könyvtári hivatkozást (importálja a könyvtárat) a Java projekthez.
-1.  Töltse be a ODS számú fájlt a Workbook osztály egy példányával.
+1. Töltse be a ODS számú fájlt a Workbook osztály egy példányával.
 1.  Konvertálja a ODS-et HTML-re a Workbook.save metódus meghívásával.
 1.  Szerezze meg a ODS-es konverziós eredményt HTML-re.
 
@@ -125,7 +125,7 @@ A ODS fájlt programozottan HTML-re kell konvertálni? A Java fejlesztők könny
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/ods-to-xltm/" name="ODS-XLTM" description="Excel-makró-kompatibilis sablon" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/ods-to-xltx/" name="ODS-XLTX" description="Office OpenXML Excel sablon" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/ods-to-xml/" name="ODS XML-RE" description="Bővíthető jelölőnyelv" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/ods-to-xps/" name="ODS-XPS" description="XML papírspecifikációk" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/ods-to-xps/" name="ODS-XPS" description="XML papír specifikációk" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/ods-to-json/" name="ODS-JSON" description="JavaScript objektum jelölés" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/ods-to-jpeg/" name="ODS-JPEG" description="JPEG Kép" >}}
 

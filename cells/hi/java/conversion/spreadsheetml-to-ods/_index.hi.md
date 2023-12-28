@@ -1,7 +1,7 @@
 ---
-title: Java स्प्रेडशीटएमएल से ODS - ऑनलाइन स्प्रेडशीटएमएल से ODS कन्वर्टर
-description: Aspose एक्सेल। Java Aspose.Cells. Java Aspose Cells. मुफ़्त ऑनलाइन Java स्प्रेडशीटएमएल को ODS सेवफॉर्मेट में कनवर्ट करें। Java स्प्रेडशीटएमएल से ODS प्रारूप। स्प्रेडशीटएमएल को ODS Java पर सहेजें।
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java SPREADSHEETML to ODS saveformat., Free Online SPREADSHEETML to ODS Java., Java Convert SPREADSHEETML to ODS]
+title: Java स्प्रेडशीटएमएल से ODS - स्प्रेडशीटएमएल से ODS कनवर्टर
+description: Aspose एक्सेल। Aspose.Cells के साथ Aspose.Cells के साथ ODS को जल्दी और आसानी से कन्वर्ट करें।
+keywords: [Aspose Excel., Java Aspose.Cells., Convert SPREADSHEETML to ODS in Java., Save SPREADSHEETML to ODS using Java., Java SPREADSHEETML to ODS saveformat., SPREADSHEETML to ODS Converter., Java Save SPREADSHEETML as ODS]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Java में स्प्रेडशीटएमएल को ODS में बदलें" h2="स्प्रेडशीटएमएल को ODS में परिवर्तित करने के लिए हाई-स्पीड Java लाइब्रेरी। यह Java का उपयोग करके स्प्रेडशीटएमएल, ODS और कई अन्य प्रारूपों को आयात और निर्यात करने के लिए एक पेशेवर सॉफ्टवेयर समाधान है।" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="ODS" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java SPREADSHE
 
 {{% blocks/products/pf/agp/content h2="Java का उपयोग करके स्प्रेडशीटएमएल को ODS में बदलें" %}}
 
- मैं स्प्रेडशीटएमएल को ODS में कैसे परिवर्तित करूं? Aspose.Cells for Java लाइब्रेरी के साथ, आप कोड की कुछ पंक्तियों के साथ आसानी से स्प्रेडशीटएमएल को प्रोग्रामेटिक रूप से ODS में परिवर्तित कर सकते हैं।[Aspose.Cells for Java](https://products.aspose.com/cells/java) सभी एक्सेल फ़ाइलों को उत्पन्न करने, संशोधित करने, परिवर्तित करने, प्रस्तुत करने और प्रिंट करने की क्षमता के साथ क्रॉस-प्लेटफ़ॉर्म एप्लिकेशन बनाने में सक्षम है। Java एक्सेल API न केवल स्प्रेडशीट प्रारूपों के बीच कनवर्ट कर सकता है, यह एक्सेल फाइलों को छवियों, PDF, HTML, ODS, CSV, SVG, JSON, वर्ड, पीपीटी और भी बहुत कुछ के रूप में प्रस्तुत कर सकता है, इस प्रकार यह एक्सचेंज के लिए एक आदर्श विकल्प बन जाता है। उद्योग-मानक में दस्तावेज़ प्रारूप. आप इसका नवीनतम संस्करण सीधे यहां से डाउनलोड कर सकते हैं[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) और pom.xml में निम्नलिखित कॉन्फ़िगरेशन जोड़कर इसे अपने Maven-आधारित प्रोजेक्ट में स्थापित करें।
+ मैं स्प्रेडशीटएमएल को ODS में कैसे परिवर्तित करूं? Aspose.Cells for Java लाइब्रेरी के साथ, आप कोड की कुछ पंक्तियों के साथ आसानी से स्प्रेडशीटएमएल को प्रोग्रामेटिक रूप से ODS में परिवर्तित कर सकते हैं।[Aspose.Cells for Java](https://products.aspose.com/cells/java)सभी एक्सेल फ़ाइलों को उत्पन्न करने, संशोधित करने, परिवर्तित करने, प्रस्तुत करने और प्रिंट करने की क्षमता के साथ क्रॉस-प्लेटफ़ॉर्म एप्लिकेशन बनाने में सक्षम है। Java एक्सेल API न केवल स्प्रेडशीट प्रारूपों के बीच परिवर्तित होता है, बल्कि यह एक्सेल फाइलों को छवियों, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT और अधिक के रूप में भी प्रस्तुत कर सकता है, इस प्रकार यह उद्योग-मानक प्रारूपों में दस्तावेजों का आदान-प्रदान करने के लिए एक आदर्श विकल्प बन जाता है। आप इसका नवीनतम संस्करण सीधे यहां से डाउनलोड कर सकते हैं[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) और pom.xml में निम्नलिखित कॉन्फ़िगरेशन जोड़कर इसे अपने Maven-आधारित प्रोजेक्ट में स्थापित करें।
 
 {{% blocks/products/pf/agp/code-block title="कोष" offSpacer="true" %}}
 
@@ -45,7 +45,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java SPREADSHE
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Java में स्प्रेडशीटएमएल को ODS पर निःशुल्क ऑनलाइन सेव करें" %}}
+{{% blocks/products/pf/agp/content h2="Java में स्प्रेडशीटएमएल को ODS पर सेव करें" %}}
 
 निम्नलिखित उदाहरण दर्शाता है कि SPREADSHEETML को Java में ODS में कैसे परिवर्तित किया जाए।
 {{% blocks/products/pf/agp/text %}}
@@ -56,7 +56,7 @@ SPREADSHEETML को ODS में बदलने के लिए आसान
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="स्प्रेडशीटएमएल को ODS में ऑनलाइन कनवर्ट करने के लिए निःशुल्क ऐप और नमूना कोड" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xml" outformat="ods" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="स्प्रेडशीटएमएल को ODS में बदलने के लिए नमूना कोड" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xml" outformat="ods" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="स्प्रेडशीटएमएल को ODS via Java में कैसे बदलें" %}}
 

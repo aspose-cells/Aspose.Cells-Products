@@ -1,7 +1,7 @@
 ---
-title: C++ स्प्रेडशीटएमएल से एमएचटी - ऑनलाइन स्प्रेडशीटएमएल से एमएचटी कनवर्टर
-description: Aspose एक्सेल। C++ Aspose.Cells. C++ Aspose Cells. मुफ़्त ऑनलाइन C++ स्प्रेडशीटएमएल को एमएचटी सेवफॉर्मेट में कनवर्ट करें। C++ स्प्रेडशीटएमएल से एमएचटी प्रारूप। स्प्रेडशीटएमएल को एमएचटी C++ पर सहेजें।
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ SPREADSHEETML to MHT saveformat., Free Online SPREADSHEETML to MHT C++., C++ Convert SPREADSHEETML to MHT]
+title: C++ स्प्रेडशीटएमएल से एमएचटी - स्प्रेडशीटएमएल से एमएचटी कनवर्टर
+description: Aspose एक्सेल। Aspose.Cells के साथ जल्दी और आसानी से स्प्रेडशीटएमएल को एमएचटी में बदलें। C++ स्प्रेडशीटएमएल को एमएचटी में बदलें। C++ स्प्रेडशीटएमएल को एमएचटी में सहेजें। C++ का उपयोग करके स्प्रेडशीटएमएल को एमएचटी के रूप में सहेजें।
+keywords: [Aspose Excel., C++ Aspose.Cells., Convert SPREADSHEETML to MHT in C++., Save SPREADSHEETML to MHT using C++., C++ SPREADSHEETML to MHT saveformat., SPREADSHEETML to MHT Converter., C++ Save SPREADSHEETML as MHT]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="C++ में स्प्रेडशीटएमएल को एमएचटी में बदलें" h2="Microsoft एक्सेल, ओपनऑफिस या एडोब एक्रोबैट इंस्टॉलेशन की आवश्यकता के बिना C++ लाइब्रेरी का उपयोग करके उच्च प्रदर्शन स्प्रेडशीटएमएल से एमएचटी रूपांतरण।" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" sourceAdditionalConversionTag="" additionalConversionTag="MHT" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ SPREADSHEETM
 
 {{% blocks/products/pf/agp/content h2="C++ का उपयोग करके स्प्रेडशीटएमएल को एमएचटी में बदलें" %}}
 
- मैं स्प्रेडशीटएमएल को एमएचटी में कैसे परिवर्तित करूं? Aspose.Cells for C++ लाइब्रेरी के साथ, आप कोड की कुछ पंक्तियों के साथ आसानी से स्प्रेडशीटएमएल को प्रोग्रामेटिक रूप से एमएचटी में परिवर्तित कर सकते हैं।[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) सभी एक्सेल फ़ाइलों को उत्पन्न करने, संशोधित करने, परिवर्तित करने, प्रस्तुत करने और प्रिंट करने की क्षमता के साथ क्रॉस-प्लेटफ़ॉर्म एप्लिकेशन बनाने में सक्षम है। C++ एक्सेल API न केवल स्प्रेडशीट प्रारूपों के बीच कनवर्ट कर सकता है, यह एक्सेल फाइलों को छवियों, PDF, HTML, ODS, CSV, SVG, JSON, वर्ड, पीपीटी और भी बहुत कुछ के रूप में प्रस्तुत कर सकता है, इस प्रकार यह एक्सचेंज के लिए एक आदर्श विकल्प बन जाता है। उद्योग-मानक में दस्तावेज़ प्रारूप. आप इसका नवीनतम संस्करण सीधे डाउनलोड कर सकते हैं, बस खोलें[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) पैकेज मैनेजर, Aspose.Cells.सीपीपी खोजें और इंस्टॉल करें। आप पैकेज मैनेजर कंसोल से निम्न कमांड का भी उपयोग कर सकते हैं।
+ मैं स्प्रेडशीटएमएल को एमएचटी में कैसे परिवर्तित करूं? Aspose.Cells for C++ लाइब्रेरी के साथ, आप कोड की कुछ पंक्तियों के साथ आसानी से स्प्रेडशीटएमएल को प्रोग्रामेटिक रूप से एमएचटी में परिवर्तित कर सकते हैं।[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) सभी एक्सेल फ़ाइलों को उत्पन्न करने, संशोधित करने, परिवर्तित करने, प्रस्तुत करने और प्रिंट करने की क्षमता के साथ क्रॉस-प्लेटफ़ॉर्म एप्लिकेशन बनाने में सक्षम है। C++ एक्सेल API न केवल स्प्रेडशीट प्रारूपों के बीच परिवर्तित होता है, बल्कि यह एक्सेल फाइलों को छवियों, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT और अधिक के रूप में भी प्रस्तुत कर सकता है, इस प्रकार यह उद्योग-मानक प्रारूपों में दस्तावेजों का आदान-प्रदान करने के लिए एक आदर्श विकल्प बन जाता है। आप इसका नवीनतम संस्करण सीधे डाउनलोड कर सकते हैं, बस खोलें[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) पैकेज मैनेजर, Aspose.Cells.सीपीपी खोजें और इंस्टॉल करें। आप पैकेज मैनेजर कंसोल से निम्न कमांड का भी उपयोग कर सकते हैं।
 
 {{% blocks/products/pf/agp/code-block title="आज्ञा" offSpacer="true" %}}
 
@@ -26,7 +26,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="C++ में स्प्रेडशीटएमएल को एमएचटी में निःशुल्क ऑनलाइन सहेजें" %}}
+{{% blocks/products/pf/agp/content h2="C++ में स्प्रेडशीटएमएल को एमएचटी में सहेजें" %}}
 
 निम्नलिखित उदाहरण दर्शाता है कि C++ में SPREADSHEETML को MHT में कैसे परिवर्तित किया जाए।
 {{% blocks/products/pf/agp/text %}}
@@ -37,7 +37,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="स्प्रेडशीटएमएल को एमएचटी ऑनलाइन में बदलने के लिए निःशुल्क ऐप और नमूना कोड" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xml" outformat="mht" IsLandingPage="true" language="cpp" %}}
+{{% cells-convert title="स्प्रेडशीटएमएल को एमएचटी में बदलने के लिए नमूना कोड" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xml" outformat="mht" IsLandingPage="true" language="cpp" %}}
 
 {{% blocks/products/pf/agp/content h2="C++ के माध्यम से स्प्रेडशीटएमएल को एमएचटी में कैसे परिवर्तित करें" %}}
 
@@ -49,7 +49,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 1.  'Aspose.Cells for C++' इंस्टॉल करें।
 1.  अपने C++ प्रोजेक्ट में एक लाइब्रेरी संदर्भ जोड़ें (लाइब्रेरी आयात करें)।
-1.  फ़ैक्टरी::CreateIWorkbook का उपयोग करके स्प्रेडशीटएमएल फ़ाइल लोड करें।
+1.  वर्कबुक का उपयोग करके स्प्रेडशीटएमएल फ़ाइल लोड करें।
 1.  सेव() विधि को कॉल करके स्प्रेडशीटएमएल को एमएचटी में बदलें।
 1.  स्प्रेडशीटएमएल का एमएचटी में रूपांतरण परिणाम प्राप्त करें।
 
@@ -85,7 +85,7 @@ PM> Install-Package Aspose.Cells.Cpp
 <!-- aboutfile Starts -->
     {{< blocks/products/pf/agp/about-file-section >}}
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="SPREADSHEETML" readMoreLink="https://docs.fileformat.com/web/xml/" >}}XML का मतलब एक्स्टेंसिबल मार्कअप लैंग्वेज है जो HTML के समान है लेकिन ऑब्जेक्ट को परिभाषित करने के लिए टैग का उपयोग करने में भिन्न है। XML फ़ाइल स्वरूप के निर्माण के पीछे का पूरा विचार सॉफ़्टवेयर या हार्डवेयर टूल पर निर्भर हुए बिना डेटा को संग्रहीत और परिवहन करना था। इसकी लोकप्रियता इसके मानव और मशीन दोनों द्वारा पठनीय होने के कारण है। यह इसे वर्ल्ड वाइड वेब (डब्ल्यूडब्ल्यूडब्ल्यू) जैसे नेटवर्क पर संग्रहीत और साझा किए जाने वाले ऑब्जेक्ट के रूप में सामान्य डेटा प्रोटोकॉल बनाने में सक्षम बनाता है। XML में "X" एक्स्टेंसिबल के लिए है जिसका अर्थ है कि भाषा को उपयोगकर्ता की आवश्यकताओं के अनुसार किसी भी संख्या में प्रतीकों तक बढ़ाया जा सकता है। यह इन सुविधाओं के लिए है कि कई मानक फ़ाइल प्रारूप इसका उपयोग करते हैं जैसे Microsoft ओपन एक्सएमएल, लिबरऑफिस ओपनडॉक्यूमेंट, एक्सएचटीएमएल और SVG।{{< /blocks/products/pf/agp/i18n/about-file-text >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="MHT" readMoreLink="https://docs.fileformat.com/web/mht/" >}}.mht एक्सटेंशन वाली फ़ाइल एक MIME सक्षम संग्रह फ़ाइल स्वरूप है जिसमें एक ही फ़ाइल में विभिन्न प्रकार के डेटा शामिल होते हैं। यह सीएसएस फाइलों, जावास्क्रिप्ट और अन्य संसाधनों के रूप में पाठ, छवियों, पेज स्टाइल जैसे डेटा को इसमें एम्बेडेड संसाधनों के रूप में संग्रहीत कर सकता है। MIME प्रकार संदेश/rfc822 वाली MHT फ़ाइलें, भंडारण उपकरणों पर संग्रहित करने के लिए HTML फ़ाइल की सभी सामग्री को एकल संग्रह फ़ाइल के रूप में समाहित करती हैं। Microsoft वर्ड जैसे सॉफ़्टवेयर एप्लिकेशन आपको एमएचटी फ़ाइल के रूप में निर्यात करके अपने वर्ड दस्तावेज़ों को एमएचटी में परिवर्तित करने की सुविधा देते हैं। एमएचटी फ़ाइलें Microsoft इंटरनेट एक्सप्लोर और Google क्रोम जैसे लोकप्रिय ब्राउज़रों का उपयोग करके खोली जा सकती हैं।{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="MHT" readMoreLink="https://docs.fileformat.com/web/mht/" >}}.mht एक्सटेंशन वाली फ़ाइल एक MIME सक्षम संग्रह फ़ाइल स्वरूप है जिसमें एक ही फ़ाइल में विभिन्न प्रकार के डेटा शामिल होते हैं। यह सीएसएस फाइलों, जावास्क्रिप्ट और अन्य संसाधनों के रूप में पाठ, छवियों, पेज स्टाइल जैसे डेटा को इसमें एम्बेडेड संसाधनों के रूप में संग्रहीत कर सकता है। MIME प्रकार संदेश/rfc822 वाली MHT फ़ाइलें, भंडारण उपकरणों पर संग्रहित करने के लिए HTML फ़ाइल की सभी सामग्री को एकल संग्रह फ़ाइल के रूप में समाहित करती हैं। Microsoft वर्ड जैसे सॉफ़्टवेयर एप्लिकेशन आपको एमएचटी फ़ाइल के रूप में निर्यात करके अपने WORD दस्तावेज़ों को एमएचटी में बदलने की सुविधा देते हैं। एमएचटी फ़ाइलें Microsoft इंटरनेट एक्सप्लोर और Google क्रोम जैसे लोकप्रिय ब्राउज़रों का उपयोग करके खोली जा सकती हैं।{{< /blocks/products/pf/agp/i18n/about-file-text >}}
     {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->
 
@@ -101,7 +101,6 @@ PM> Install-Package Aspose.Cells.Cpp
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/spreadsheetml-to-pdf/" name="स्प्रेडशीटएमएल PDF पर" description="संवहन दस्तावेज़ स्वरूप" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/spreadsheetml-to-png/" name="स्प्रेडशीटएमएल PNG पर" description="पोर्टेबल नेटवर्क ग्राफ़िक्स" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/spreadsheetml-to-svg/" name="स्प्रेडशीटएमएल SVG पर" description="स्केलेबल वेक्टर ग्राफिक्स" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/spreadsheetml-to-tiff/" name="स्प्रेडशीटएमएल TIFF पर" description="टैग किया गया छवि प्रारूप" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/spreadsheetml-to-tsv/" name="स्प्रेडशीटएमएल TSV पर" description="टैब-पृथक मान" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/spreadsheetml-to-txt/" name="स्प्रेडशीटएमएल TXT पर" description="सामग्री या लेख दस्तावेज़" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/spreadsheetml-to-xls/" name="स्प्रेडशीटएमएल XLS पर" description="एक्सेल बाइनरी फॉर्मेट" >}}

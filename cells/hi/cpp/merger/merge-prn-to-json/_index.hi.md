@@ -1,8 +1,8 @@
 ---
 title: पीआरएन को JSON में मिलाएं - C++ में पीआरएन को JSON में मिलाएं
 url: /hi/cpp/merger/merge-prn-to-json/ 
-description: "Aspose एक्सेल। C++ Aspose.Cells. नि:शुल्क ऑनलाइन पीआरएन को JSON सेव फॉर्मेट में मर्ज करें। C++ पीआरएन को JSON प्रारूप में संयोजित करें। C++ में पीआरएन को JSON में मर्ज करें। पीआरएन मर्ज।"
-keywords: [Aspose Excel., C++ Aspose.Cells., Merge PRN to JSON in C++., Free Online C++ Merge PRN to json., C++ Combine PRN to JSON Online for Free., PRN Merge]
+description: Aspose एक्सेल। C++ Aspose.Cells. पीआरएन को JSON सेवफॉर्मेट में मर्ज करें। C++ पीआरएन को JSON प्रारूप में संयोजित करें। C++ में पीआरएन को JSON में मर्ज करें। पीआरएन मर्ज।
+keywords: [Aspose Excel., C++ Aspose.Cells., Merge PRN to JSON in C++., C++ Merge PRN to json., C++ Combine PRN to JSON., PRN Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="पीआरएन को C++ के माध्यम से JSON पर मर्ज करें" h2="पीआरएन को JSON में विलय करने के लिए हाई-स्पीड C++ लाइब्रेरी। C++ में उच्च-स्तरीय, प्लेटफ़ॉर्म स्वतंत्र सॉफ्टवेयर विकसित करने के लिए हमारे एक्सेल रूपांतरण API का उपयोग करें। यह Excel, CSV, OpenOffice, PDF, HTML, image और कई अन्य एक्सेल प्रारूपों को आयात और निर्यात करने के लिए एक पेशेवर सॉफ्टवेयर समाधान है।" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" sourceAdditionalConversionTag="PRN" additionalConversionTag="JSON" pfName="Aspose.Cells" subTitlepfName="for C++" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., C++ Aspose.Cells., Merge PRN to JSON in C++., Free Onl
 
 {{% blocks/products/pf/agp/content h2="C++ का उपयोग करके पीआरएन को JSON पर मर्ज करें" %}}
 
- मैं पीआरएन को JSON में कैसे मर्ज करूं? Aspose.Cells for C++ लाइब्रेरी के साथ, आप कोड की कुछ पंक्तियों के साथ प्रोग्रामेटिक रूप से पीआरएन को JSON में आसानी से मर्ज कर सकते हैं।[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) सभी एक्सेल फ़ाइलों को उत्पन्न करने, संशोधित करने, परिवर्तित करने, प्रस्तुत करने और प्रिंट करने की क्षमता के साथ क्रॉस-प्लेटफ़ॉर्म एप्लिकेशन बनाने में सक्षम है। C++ एक्सेल API न केवल स्प्रेडशीट प्रारूपों के बीच कनवर्ट कर सकता है, यह एक्सेल फाइलों को छवियों, PDF, HTML, ODS, CSV, SVG, JSON, वर्ड, पीपीटी और भी बहुत कुछ के रूप में प्रस्तुत कर सकता है, इस प्रकार यह एक्सचेंज के लिए एक आदर्श विकल्प बन जाता है। उद्योग-मानक में दस्तावेज़ प्रारूप. आप इसका नवीनतम संस्करण सीधे डाउनलोड कर सकते हैं, बस खोलें[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) पैकेज मैनेजर, Aspose.Cells.सीपीपी खोजें और इंस्टॉल करें। आप पैकेज मैनेजर कंसोल से निम्न कमांड का भी उपयोग कर सकते हैं।
+ मैं पीआरएन को JSON में कैसे मर्ज करूं? Aspose.Cells for C++ लाइब्रेरी के साथ, आप कोड की कुछ पंक्तियों के साथ प्रोग्रामेटिक रूप से पीआरएन को JSON में आसानी से मर्ज कर सकते हैं।[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) सभी एक्सेल फ़ाइलों को उत्पन्न करने, संशोधित करने, परिवर्तित करने, प्रस्तुत करने और प्रिंट करने की क्षमता के साथ क्रॉस-प्लेटफ़ॉर्म एप्लिकेशन बनाने में सक्षम है। C++ एक्सेल API न केवल स्प्रेडशीट प्रारूपों के बीच परिवर्तित होता है, बल्कि यह एक्सेल फाइलों को छवियों, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT और अधिक के रूप में भी प्रस्तुत कर सकता है, इस प्रकार यह उद्योग-मानक प्रारूपों में दस्तावेजों का आदान-प्रदान करने के लिए एक आदर्श विकल्प बन जाता है। आप इसका नवीनतम संस्करण सीधे डाउनलोड कर सकते हैं, बस खोलें[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) पैकेज मैनेजर, Aspose.Cells.सीपीपी खोजें और इंस्टॉल करें। आप पैकेज मैनेजर कंसोल से निम्न कमांड का भी उपयोग कर सकते हैं।
 
 {{% blocks/products/pf/agp/code-block title="आज्ञा" offSpacer="true" %}}
 
@@ -26,7 +26,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="C++ में पीआरएन को JSON में निःशुल्क ऑनलाइन मर्ज करें" %}}
+{{% blocks/products/pf/agp/content h2="पीआरएन को C++ में JSON पर मर्ज करें" %}}
 
 निम्नलिखित उदाहरण दर्शाता है कि Aspose.Cells for C++ में पीआरएन को JSON में कैसे मर्ज किया जाए।
 {{% blocks/products/pf/agp/text %}}
@@ -37,7 +37,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="C++ में पीआरएन को JSON में मर्ज करने के लिए निःशुल्क ऑनलाइन" InputFormat="prn" InputFormat2="json" outformat="json" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="cpp" %}}
+{{% cells-merger title="C++ में पीआरएन को JSON में मर्ज करने के लिए नमूना कोड" InputFormat="prn" InputFormat2="json" outformat="json" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="cpp" %}}
 
 {{% blocks/products/pf/agp/content h2="C++ के माध्यम से पीआरएन को JSON में कैसे मर्ज करें" %}}
 
@@ -107,7 +107,6 @@ PM> Install-Package Aspose.Cells.Cpp
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-prn-to-pdf/" name="पीआरएन को PDF पर मर्ज करें" description="संवहन दस्तावेज़ स्वरूप" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-prn-to-png/" name="पीआरएन को PNG पर मर्ज करें" description="पोर्टेबल नेटवर्क ग्राफ़िक्स" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-prn-to-svg/" name="पीआरएन को SVG पर मर्ज करें" description="स्केलेबल वेक्टर ग्राफिक्स" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-prn-to-tiff/" name="पीआरएन को TIFF पर मर्ज करें" description="टैग किया गया छवि प्रारूप" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-prn-to-tsv/" name="पीआरएन को TSV पर मर्ज करें" description="टैब-पृथक मान" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-prn-to-txt/" name="पीआरएन को TXT पर मर्ज करें" description="सामग्री या लेख दस्तावेज़" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-prn-to-xls/" name="पीआरएन को XLS पर मर्ज करें" description="एक्सेल बाइनरी फॉर्मेट" >}}

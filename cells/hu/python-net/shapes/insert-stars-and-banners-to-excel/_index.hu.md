@@ -2,6 +2,7 @@
 title:  Helyezze be a csillagot/szalaghirdetést az Excelbe a Python via .Net használatával
 weight: 381
 description: Python via .Net forráskód a csillag/szalaghirdetés beszúrásához az Excelbe.
+keywords: [Python Aspose.Cells., Python add Star/Banner., Python insert Star/Banner., Python create Star/Banner]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Helyezze be a csillagot/szalaghirdetést az Excelbe a Python via .Net használatával" h2="Szúrja be a csillagot/szalaghirdetést a Aspose.Cells\' API használatával szoftverek, például Microsoft vagy Open Office, Adobe PDF stb. nélkül." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="" pfName="Aspose.Cells" subTitlepfName="for Python via .NET" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="XLSX" >}}
@@ -13,7 +14,7 @@ description: Python via .Net forráskód a csillag/szalaghirdetés beszúrásáh
 
  A Star/Banner excel fájlba való beillesztéséhez használjuk
  [Aspose.Cells for Python a .Neten keresztül](https://pypi.org/project/aspose-cells-python/) 
-API, amely funkciókban gazdag, hatékony és könnyen használható dokumentumkezelés API for Python .Net platformon keresztül. A API Excel-fájlok létrehozását, kezelését, konvertálását és megjelenítését biztosítja. Mindezt anélkül, hogy a Microsoft Office- vagy Excel-alkalmazásokra hagyatkozna. A következő paranccsal telepítheti a konzolról.
+ API, amely funkciókban gazdag, hatékony és könnyen használható dokumentumkezelés API for Python .Net platformon keresztül. A API Excel-fájlok létrehozását, kezelését, konvertálását és megjelenítését biztosítja. Mindezt anélkül, hogy a Microsoft Office- vagy Excel-alkalmazásokra hagyatkozna. A következő paranccsal telepítheti a konzolról.
 
 {{% blocks/products/pf/agp/code-block title="Parancs" offSpacer="true" %}}
 
@@ -37,7 +38,7 @@ Szüksége van a Aspose.Cells-es számra a következő munkafolyamat kipróbál�
 
 {{% /blocks/products/pf/agp/text %}}
 
-Munkafüzet objektum példányosítása. (vagy->Töltse be a XLSX fájlt a teljes elérési úttal.)
++ Munkafüzet objektum példányosítása. (vagy->Töltse be a XLSX fájlt a teljes elérési úttal.)
 + Válassza ki a munkalapot az indexén keresztül.
  + Használja az alakgyűjtemény hozzáadását[módszer](https://reference.aspose.com/cells/python-net/aspose.cells.drawing/shapecollection/add_auto_shape/#AutoShapeType-int-int-int-int-int-int) Csillag/Szalaghirdetés beszúrásához a kiválasztott munkalapba.
 + Mentse a munkafüzetet XLSX formátumban.
@@ -100,7 +101,7 @@ Az alábbi mintakód bemutatja, hogyan kell beilleszteni a „szalag: ívelt és
    <div class="col-lg-4">
     <img src="/cells/net/shapes/insert-stars-and-banners-to-excel/star_6_points.png" align="left" width="28" height="28">
     <p class="col-lg-10">
-AutoShapeType.STAR6
+ AutoShapeType.STAR6
     </p>
    </div>
    <div class="col-lg-4">
@@ -206,7 +207,7 @@ AutoShapeType.STAR6
 
 {{% blocks/products/pf/agp/content h2="Körülbelül Aspose.Cells for Python via .NET API" %}}
 
- Aspose.Cells API használható Microsoft Excel formátumok létrehozására, szerkesztésére, konvertálására és renderelésére különböző formátumokba. Ezen túlmenően használható átfogó diagramok készítésére, skálázható jelentésekre és megbízható számításokra a szoftveralkalmazásokon belül. A Aspose.Cells egy önálló API, és nem igényel olyan szoftvert, mint a Microsoft vagy az OpenOffice.
+Aspose.Cells API használható Microsoft Excel formátumok létrehozására, szerkesztésére, konvertálására és renderelésére különböző formátumokba. Ezen túlmenően használható átfogó diagramok készítésére, skálázható jelentésekre és megbízható számításokra a szoftveralkalmazásokon belül. A Aspose.Cells egy önálló API, és nem igényel olyan szoftvert, mint a Microsoft vagy az OpenOffice.
 
 {{% /blocks/products/pf/agp/content %}}
 

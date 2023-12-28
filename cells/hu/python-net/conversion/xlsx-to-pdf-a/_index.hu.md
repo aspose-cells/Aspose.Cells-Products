@@ -10,14 +10,14 @@ description: Mintakód az xlsx pdf Python konvertálásához. Használja a API p
 
 {{% blocks/products/pf/agp/content h2="A XLSX konvertálása PDF-re a Python használatával" %}}
 
- A XLSX szám PDF-re konvertálásához használjuk
+ XLSX szám PDF-re konvertálásához használjuk
  [Aspose.Cells for Python](https://pypi.org/project/aspose-cells-python) 
  API, amely funkciókban gazdag, hatékony és könnyen használható dokumentumkezelési és -konvertáló API for Python platform.
 {{% /blocks/products/pf/agp/content %}}
 
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
-{{% blocks/products/pf/agp/feature-section-col title="XLSX PDF-es szám Python-es számon keresztüli átalakításának lépései" %}}
+{{% blocks/products/pf/agp/feature-section-col title="A XLSX PDF-es szám Python-es számon keresztüli átalakításának lépései" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
@@ -41,11 +41,11 @@ description: Mintakód az xlsx pdf Python konvertálásához. Használja a API p
 {{% /blocks/products/pf/agp/text %}}
 
 
-- Telepítés: Aspose.Cells for Python innen<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , használja a parancsot a következőképpen:<code>$ pip install aspose-cells-python</code>.
+-  Telepítés: Aspose.Cells for Python innen<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , használja a parancsot a következőképpen:<code>$ pip install aspose-cells-python</code>.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Convert XLSX to PDF-A - Python" offSpacer="" %}}
+{{% blocks/products/pf/agp/code-block title="XLSX átalakítása PDF-A - Python-re" offSpacer="" %}}
 
 {{< gist "aspose-cells-gists" "7bb30376b4d40cdfd596286870fb9752" "Convert-XLSX-to-PDFA.py" >}}
 
@@ -57,7 +57,7 @@ description: Mintakód az xlsx pdf Python konvertálásához. Használja a API p
 
     {{% blocks/products/pf/agp/content h2="" %}}
 
- Egy Excel táblázatkezelő programkönyvtár, amely képes többplatformos alkalmazások létrehozására, amelyek képesek az összes Excel fájl létrehozására, módosítására, konvertálására, renderelésére és nyomtatására. Python Excel API nem csak a táblázatformátumok között konvertál, hanem Excel fájlokat is képes megjeleníteni képként, PDF, HTML, ODS, CSV, CSV, CSV, CSV, CSV, CSV, SVG, és így tovább, SVG P, 8 PT a választás,3,8 ipari szabvány szerinti dokumentumok cseréjére formátumok.
+Egy Excel táblázatkezelő programkönyvtár, amely képes többplatformos alkalmazások létrehozására, amelyek képesek az összes Excel fájl létrehozására, módosítására, konvertálására, renderelésére és nyomtatására. Python Az Excel API nemcsak a táblázatformátumok között konvertál, hanem Excel-fájlokat is képes megjeleníteni képként, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT és egyebekként, így tökéletes választás a szabványos formátumú dokumentumok cseréjéhez.
 
     {{% /blocks/products/pf/agp/content %}}
 
@@ -98,7 +98,7 @@ Portable Document Format (PDF) az Adobe által az 1990-es években létrehozott 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlsx-to-xltm/" name="XLSX-XLTM" description="Excel-makró-kompatibilis sablon" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlsx-to-xltx/" name="XLSX-XLTX" description="Office OpenXML Excel sablon" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlsx-to-xml/" name="XLSX XML-RE" description="Bővíthető jelölőnyelv" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlsx-to-xps/" name="XLSX-XPS" description="XML papírspecifikációk" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlsx-to-xps/" name="XLSX-XPS" description="XML papír specifikációk" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlsx-to-json/" name="XLSX-JSON" description="JavaScript objektum jelölés" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}

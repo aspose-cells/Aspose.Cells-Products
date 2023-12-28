@@ -1,7 +1,7 @@
 ---
-title: Java XLSM az OTS-hez – Online XLSM az OTS átalakítóhoz
-description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Ingyenes online Java A XLSM konvertálása OTS mentési formátumba. Java XLSM OTS formátumba. Mentse a XLSM számot az OTS Java számra.
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java XLSM to OTS saveformat., Free Online XLSM to OTS Java., Java Convert XLSM to OTS]
+title: Java XLSM az OTS-hez - XLSM az OTS átalakítóhoz
+description: Aspose Excel. A XLSM-es számot gyorsan és egyszerűen konvertálja OTS-re a Aspose.Cells-es számmal. Java XLSM OTS-re. Java Mentse a XLSM számot az OTS-nél. Mentse el a XLSM számot OTS-ként a Java használatával.
+keywords: [Aspose Excel., Java Aspose.Cells., Convert XLSM to OTS in Java., Save XLSM to OTS using Java., Java XLSM to OTS saveformat., XLSM to OTS Converter., Java Save XLSM as OTS]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Konvertálja a XLSM-et OTS-re a Java-ben" h2="Nagy sebességű Java könyvtár a XLSM OTS-re való konvertálásához. Ez egy professzionális szoftvermegoldás a XLSM, OTS és sok más formátum importálásához és exportálásához a Java használatával." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="OTS" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java XLSM to O
 
 {{% blocks/products/pf/agp/content h2="A XLSM konvertálása OTS-re a Java használatával" %}}
 
- Hogyan konvertálhatom át a XLSM-et OTS-re? A Aspose.Cells for Java könyvtárral egyszerűen konvertálhatja a XLSM-et OTS-re néhány soros kóddal, programozottan.[Aspose.Cells for Java](https://products.aspose.com/cells/java) képes többplatformos alkalmazásokat létrehozni, módosítani, konvertálni, renderelni és kinyomtatni az összes Excel fájlt. Java Excel API nem csak a táblázatformátumok között konvertál, hanem Excel fájlokat is képes megjeleníteni képként, PDF, HTML, ODS, CSV, CSV, CSV, CSV, CSV, CSV, SVG, és így tovább, SVG P, 8 PT a választás,3,8 ipari szabvány szerinti dokumentumok cseréjére formátumok. A legújabb verziót közvetlenül a webhelyről töltheti le[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) és telepítse a Maven alapú projekten belül a következő konfigurációk hozzáadásával a pom.xml fájlhoz.
+ Hogyan konvertálhatom át a XLSM-et OTS-re? A Aspose.Cells for Java könyvtárral egyszerűen konvertálhatja a XLSM-et OTS-re néhány soros kóddal, programozottan.[Aspose.Cells for Java](https://products.aspose.com/cells/java)képes többplatformos alkalmazásokat létrehozni, módosítani, konvertálni, renderelni és kinyomtatni az összes Excel fájlt. Java Az Excel API nemcsak a táblázatformátumok között konvertál, hanem Excel-fájlokat is képes megjeleníteni képként, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT és egyebekként, így tökéletes választás a szabványos formátumú dokumentumok cseréjéhez. A legújabb verziót közvetlenül a webhelyről töltheti le[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) és telepítse a Maven alapú projekten belül a következő konfigurációk hozzáadásával a pom.xml fájlhoz.
 
 {{% blocks/products/pf/agp/code-block title="Adattár" offSpacer="true" %}}
 
@@ -45,7 +45,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java XLSM to O
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Takarítson meg XLSM-et az OTS-nél a Java-es online ingyen" %}}
+{{% blocks/products/pf/agp/content h2="Mentse el a XLSM számot az OTS számára a Java számon" %}}
 
 A következő példa bemutatja, hogyan lehet átalakítani a XLSM-et OTS-re a Java-ben.
 {{% blocks/products/pf/agp/text %}}
@@ -56,19 +56,19 @@ Kövesse az egyszerű lépéseket a XLSM OTS-re konvertálásához. Töltse fel 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Ingyenes alkalmazás és mintakód a XLSM OTS Online konvertálásához" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsm" outformat="ots" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Mintakód a XLSM OTS-re konvertálásához" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsm" outformat="ots" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="A XLSM konvertálása OTS via Java-re" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
-XLSM fájlokat programozottan OTS-re kell konvertálnia? A Java fejlesztők könnyedén konvertálhatják a XLSM-et OTS-re, mindössze néhány sornyi kóddal.
+A XLSM fájlokat programozottan OTS-re kell konvertálnia? A Java fejlesztők könnyedén konvertálhatják a XLSM-et OTS-re, mindössze néhány sornyi kóddal.
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Telepítse a „Aspose.Cells for Java” fájlt.
 1.  Adjon hozzá egy könyvtári hivatkozást (importálja a könyvtárat) a Java projekthez.
-1.  Töltse be a XLSM számú fájlt a Workbook osztály egy példányával.
+1. Töltse be a XLSM számú fájlt a Workbook osztály egy példányával.
 1.  Konvertálja a XLSM-et OTS-re a Workbook.save metódus hívásával.
 1.  Szerezze meg a XLSM konverziós eredményt OTS-re.
 
@@ -125,7 +125,7 @@ XLSM fájlokat programozottan OTS-re kell konvertálnia? A Java fejlesztők kön
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/xlsm-to-xltm/" name="XLSM-XLTM" description="Excel-makró-kompatibilis sablon" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/xlsm-to-xltx/" name="XLSM-XLTX" description="Office OpenXML Excel sablon" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/xlsm-to-xml/" name="XLSM XML-RE" description="Bővíthető jelölőnyelv" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/xlsm-to-xps/" name="XLSM-XPS" description="XML papírspecifikációk" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/xlsm-to-xps/" name="XLSM-XPS" description="XML papír specifikációk" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/xlsm-to-json/" name="XLSM-JSON" description="JavaScript objektum jelölés" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/xlsm-to-jpeg/" name="XLSM-JPEG" description="JPEG Kép" >}}
 

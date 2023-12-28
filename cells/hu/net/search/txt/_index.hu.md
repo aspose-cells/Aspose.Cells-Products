@@ -2,6 +2,7 @@
 title:  Keresés a TXT dokumentumban a via .NET megnyitása nélkül
 weight: 8410
 description: C# forráskód a TXT fájlban a .NET Framework, a .NET Core, a Mono vagy a Xamarin Platforms mintájú szavak kereséséhez.
+keywords: [C# Aspose.Cells., c# search words with pattern in txt file., c# find words with pattern in txt file., c# search string with pattern in txt file., c# find words with pattern in txt file., c# search words in txt file., c# find words in txt file., c# search string in txt file., c# find string in txt file]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Keresés: TXT Formátumok a C#-ben" h2="Natív és nagy teljesítményű TXT dokumentumkeresés szerveroldali Aspose.Cells for .NET API-kkal, olyan szoftverek használata nélkül, mint a Microsoft vagy az Adobe PDF." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="TXT" >}}
@@ -13,7 +14,7 @@ description: C# forráskód a TXT fájlban a .NET Framework, a .NET Core, a Mono
 
  A TXT fájl kereséséhez használjuk a
  [Aspose.Cells for .NET](https://products.aspose.com/cells/net) 
-API, amely funkciókban gazdag, hatékony és könnyen használható dokumentumkereső API a C# platformhoz. Nyisd ki
+ API, amely funkciókban gazdag, hatékony és könnyen használható dokumentumkereső API a C# platformhoz. Nyisd ki
  [NuGet](https://www.nuget.org/packages/aspose.cells) 
  csomagkezelő, keressen
  **Aspose.Cells** 

@@ -2,6 +2,7 @@
 title:  Illessze be a blokknyilakat az Excelbe a C++ számon keresztül
 weight: 770
 description: C++ példakód blokknyilak beszúrásához a C++ számú Excel-fájlba a Windows 32 bites, Windows 64 bites és 64 bites Linux futási környezethez.
+keywords: [C++ Aspose.Cells., C++ add block arrows., C++ insert block arrows., C++ create block arrows]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Illessze be a blokknyilakat az Excelbe a C++ számon keresztül" h2="Szúrjon be objektumokat a Aspose.Cells for C++ API szerveroldali natív és nagy teljesítményű szoftverek (például Microsoft vagy Adobe PDF) használata nélkül." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" sourceAdditionalConversionTag="" additionalConversionTag="" pfName="Aspose.Cells" subTitlepfName="for C++" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="XLSX" >}}
@@ -11,7 +12,7 @@ description: C++ példakód blokknyilak beszúrásához a C++ számú Excel-fáj
 
 {{% blocks/products/pf/agp/content h2="Blokknyilak beszúrása Excel-fájlba a C++ használatával" %}}
 
- blokknyilak excel fájlba való beillesztéséhez használjuk
+ A blokknyilak excel fájlba való beillesztéséhez használjuk
  [Aspose.Cells for C++](https://products.aspose.com/cells/cpp) 
 API, amely funkciókban gazdag, hatékony és könnyen használható dokumentumkereső API for C++ platform. A legújabb verziót közvetlenül letöltheti, csak nyissa meg
  [NuGet](https://www.nuget.org/packages/aspose.cells) 
@@ -35,9 +36,9 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% blocks/products/pf/agp/feature-section-col title="A blokknyilak beszúrásának lépései az Excel-fájlba a C++ számon keresztül" %}}
 
-Munkafüzet objektum példányosítása. (vagy->Töltse be a XLSX fájlt a teljes elérési úttal.)
++ Munkafüzet objektum példányosítása. (vagy->Töltse be a XLSX fájlt a teljes elérési úttal.)
 + Válassza ki a munkalapot az indexén keresztül.
- + Használja a[módszer hozzáadása](https://reference.aspose.com/cells/cpp/class/aspose.cells.drawing.i_shape_collection#ab8156e8562724f9a597b7d2bc503cd4d) a Blokknyilak áttekintése beszúrásához a kiválasztott munkalapba
+ + Használja a[módszer hozzáadása](https://reference.aspose.com/cells/cpp/aspose.cells.drawing/shapecollection/addautoshape/) a Blokknyilak áttekintése beszúrásához a kiválasztott munkalapba
 + Mentse a munkafüzetet XLSX formátumban.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
@@ -63,7 +64,7 @@ Az alábbi mintakód bemutatja a „jobbra nyíl” beszúrását. További típ
 
 {{% blocks/products/pf/agp/code-block title="Blokknyilak beszúrása – C++" offSpacer="" %}}
 
-{{< gist "aspose-cells-gists" "6f7d9819d85793c3a3b5d040af42e1a9" "InsertBlockArrowsIntoWorksheet.cpp" >}}
+{{< gist "aspose-cells-gists" "6f7d9819d85793c3a3b5d040af42e1a9" "InsertBlockArrowsIntoWorksheet-new.cpp" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 
@@ -248,7 +249,7 @@ Az alábbi mintakód bemutatja a „jobbra nyíl” beszúrását. További típ
 
 {{% blocks/products/pf/agp/content h2="Körülbelül Aspose.Cells for C++ API" %}}
 
- Aspose.Cells API használható Microsoft Excel formátumok létrehozására, szerkesztésére, konvertálására és renderelésére különböző formátumokba. Ezen túlmenően használható átfogó diagramok készítésére, skálázható jelentésekre és megbízható számításokra a szoftveralkalmazásokon belül. A Aspose.Cells egy önálló API, és nem igényel olyan szoftvert, mint a Microsoft vagy az OpenOffice.
+Aspose.Cells API használható Microsoft Excel formátumok létrehozására, szerkesztésére, konvertálására és renderelésére különböző formátumokba. Ezen túlmenően használható átfogó diagramok készítésére, skálázható jelentésekre és megbízható számításokra a szoftveralkalmazásokon belül. A Aspose.Cells egy önálló API, és nem igényel olyan szoftvert, mint a Microsoft vagy az OpenOffice.
 
 {{% /blocks/products/pf/agp/content %}}
 

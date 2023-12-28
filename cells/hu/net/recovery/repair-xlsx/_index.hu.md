@@ -1,8 +1,8 @@
 ---
-title: C# xlsx fájl javítása – xlsx fájl javítása online ingyen
+title: C# xlsx javítás – A sérült xlsx fájl helyreállítása és javítása
 url: /hu/net/recovery/repair-xlsx/ 
-description: Aspose Excel. C# Aspose.Cells. C# xlsx fájl javítása. Ingyenes online xlsx javítóeszköz. Javítsa meg a sérült xlsx fájlt. Helyezze vissza a sérült xlsx fájlt a .NET alkalmazáson belül.
-keywords: [Aspose Excel., C# Aspose.Cells., C# Aspose Cells., C# Repair xlsx file., Free Online Repair a corrupted xlsx file., C# Recover xlsx file.]
+description: C# Aspose.Cells. Javítás xlsx. Javítsa ki az xlsx fájlt. xlsx helyreállítási eszköz. xlsx korrupció. xlsx adatok visszaállítása. xlsx fájl helyreállítása. A sérült xlsx fájl helyreállítása.
+keywords: [C# Aspose.Cells., repair xlsx file., xlsx repair., recover corrupted xlsx file., repair corrupted xlsx., recover xlsx., fix xlsx file., xlsx corruption., restore xlsx data., xlsx file recovery., recover corrupted xlsx file.]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Javítás XLSX fájl a C#-ben" h2="Készítse el saját .NET alkalmazását az xlsx fájlok javításához a .NET használatával." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSX" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="XLS" fileiconsmall2="XLSB" fileiconsmall3="XLSX" fileiconsmall4="XLSM" fileiconsmall5="ODS" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., C# Aspose.Cells., C# Aspose Cells., C# Repair xlsx fil
 
 {{% blocks/products/pf/agp/content h2="Javítás XLSX fájl a C# használatával" %}}
 
- Hogyan javíthatom ki az xlsx fájlt? A Aspose.Cells for .NET könyvtárral könnyedén kijavíthatja a XLSX fájlt néhány soros kóddal, programozottan.[Aspose.Cells for .NET](https://products.aspose.com/cells/net)képes többplatformos alkalmazásokat létrehozni, módosítani, konvertálni, renderelni és kinyomtatni az összes Excel fájlt. .NET Excel API nem csak a táblázatformátumok között konvertál, hanem Excel fájlokat is képes megjeleníteni képként, PDF, HTML, ODS, CSV, CSV, CSV, CSV, CSV, CSV, SVG, és így tovább, SVG P, 8 PT a választás,3,8 ipari szabvány szerinti dokumentumok cseréjére formátumok. Nyisd ki[NuGet](https://www.nuget.org/packages/aspose.cells) csomagkezelő, keresse meg a Aspose.Cells-et, és telepítse. A következő parancsot is használhatja a Package Manager konzolból.
+ Hogyan javíthatom ki az xlsx fájlt? A Aspose.Cells for .NET könyvtárral könnyedén kijavíthatja a XLSX fájlt néhány soros kóddal, programozottan.[Aspose.Cells for .NET](https://products.aspose.com/cells/net)képes többplatformos alkalmazásokat létrehozni, módosítani, konvertálni, renderelni és kinyomtatni az összes Excel fájlt. .NET Az Excel API nemcsak a táblázatformátumok között konvertál, hanem Excel-fájlokat is képes megjeleníteni képként, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT és egyebekként, így tökéletes választás a szabványos formátumú dokumentumok cseréjéhez. Nyisd ki[NuGet](https://www.nuget.org/packages/aspose.cells) csomagkezelő, keresse meg a Aspose.Cells-et, és telepítse. A következő parancsot is használhatja a Package Manager konzolból.
 
 {{% blocks/products/pf/agp/code-block title="Csomagkezelő konzolparancs" offSpacer="true" %}}
 
@@ -41,7 +41,7 @@ Programozottan kell javítani az xlsx fájlt? A .NET fejlesztők könnyedén bet
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-recovery title="Ingyenes alkalmazás és mintakód a XLSX fájl online javításához" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et" InputFormat="xlsx" outformat="xlsx" IsLandingPage="true" language="net" %}}    
+{{% cells-recovery title="Mintakód a XLSX fájl javításához" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et" InputFormat="xlsx" outformat="xlsx" IsLandingPage="true" language="net" %}}    
     
 {{% blocks/products/pf/agp/content h2=".NET könyvtár a XLSX fájl javításához" %}}
 

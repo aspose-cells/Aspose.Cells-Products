@@ -1,7 +1,8 @@
 ---
-title: XLSX दस्तावेज़ चार्ट C++ के माध्यम से
+title:  XLSX दस्तावेज़ चार्ट C++ के माध्यम से
 weight: 750
 description: C++ Windows 32 बिट, Windows 64 बिट और लिनक्स 64 बिट के लिए C++ रनटाइम एनवायरनमेंट पर XLSX फ़ाइल में चार्ट या आरेख बनाने और परिवर्तित करने के लिए उदाहरण कोड।
+keywords: [C++ Aspose.Cells., C++ Convert chart to image in xlsx., C++ Save chart to image in xlsx., C++ chart to image in xlsx., xlsx convert chart to image in C++., xlsx save chart to imagein C++., xlsx chart to image in C++]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="XLSX C++ में चार्ट प्रारूपित करता है" h2="Microsoft या एडोब PDF जैसे किसी भी सॉफ़्टवेयर के उपयोग के बिना, सर्वर-साइड Aspose.Cells for C++ एपीआई का उपयोग करके मूल और उच्च प्रदर्शन XLSX दस्तावेज़ चार्ट।" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" sourceAdditionalConversionTag="" additionalConversionTag="" pfName="Aspose.Cells" subTitlepfName="for C++" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="XLSX" >}}
@@ -50,7 +51,7 @@ PM> Install-Package Aspose.Cells.Cpp
 + नए जोड़े गए चार्ट के उदाहरण तक पहुंचें
 + चार्ट में सीरीजकलेक्शन (चार्ट डेटा स्रोत) जोड़ें
 + लाइन चार्ट के रूप में प्रदर्शित करने के लिए दूसरी एनसीरीज़ के चार्ट प्रकार को सेट करें
-फ़ाइल सहेजें
++ फ़ाइल सहेजें
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -69,7 +70,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% blocks/products/pf/agp/code-block title="XLSX फ़ाइल चार्ट बनाएँ - C++" offSpacer="" %}}
 
-{{< gist "aspose-com-gists" "da2fd423617bf9013a7673870c81d708" "create-excel-xlsx-column-chart.cpp" >}}
+{{< gist "aspose-cells-gists" "6f7d9819d85793c3a3b5d040af42e1a9" "create-excel-xlsx-column-chart.cpp" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 

@@ -1,8 +1,8 @@
 ---
 title: A SXC-JPEG-es számok egyesítése – a SXC-es és a JPEG-es számok egyesítése a C#-ben
 url: /hu/net/merger/merge-sxc-to-jpeg/ 
-description: Aspose Excel. C# Aspose.Cells. Ingyenes online egyesítés SXC JPEG mentési formátumba. C# A SXC és a JPEG formátum kombinálása. Egyesítse a SXC-JPEG-et a C#-ben. SXC Egyesítse.
-keywords: [Aspose Excel., C# Aspose.Cells., Merge SXC to JPEG in C#., Free Online C# Merge SXC to jpeg., C# Combine SXC to JPEG Online for Free., SXC Merge]
+description: Aspose Excel. C# Aspose.Cells. A SXC és a JPEG mentési formátum egyesítése. C# A SXC és a JPEG formátum kombinálása. Egyesítse a SXC-JPEG-et a C#-ben. SXC Egyesítse.
+keywords: [Aspose Excel., C# Aspose.Cells., Merge SXC to JPEG in C#., C# Merge SXC to jpeg., C# Combine SXC to JPEG., SXC Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="A SXC-es szám egyesítése a JPEG-es számmal a C#-es számon keresztül" h2="Nagysebességű C# könyvtár a SXC és JPEG egyesítéséhez. Használja a API-es excel konverziónkat magas szintű, platformfüggetlen szoftver fejlesztésére a C#-ben. Ez egy professzionális szoftvermegoldás Excel, CSV, OpenOffice, PDF, HTML, image és sok más excel formátum importálásához és exportálásához." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="SXC" additionalConversionTag="JPEG" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., C# Aspose.Cells., Merge SXC to JPEG in C#., Free Onlin
 
 {{% blocks/products/pf/agp/content h2="A SXC és a JPEG egyesítése a C# használatával" %}}
 
- Hogyan egyesíthetem a SXC és a JPEG számokat? A Aspose.Cells for .NET könyvtárral egyszerűen egyesítheti a SXC-et a JPEG-es számokkal programozottan néhány sornyi kóddal.[Aspose.Cells for .NET](https://products.aspose.com/cells/net)képes többplatformos alkalmazásokat létrehozni, módosítani, konvertálni, renderelni és kinyomtatni az összes Excel fájlt. .NET Excel API nem csak a táblázatformátumok között konvertál, hanem Excel fájlokat is képes megjeleníteni képként, PDF, HTML, ODS, CSV, CSV, CSV, CSV, CSV, CSV, SVG, és így tovább, SVG P, 8 PT a választás,3,8 ipari szabvány szerinti dokumentumok cseréjére formátumok. Nyisd ki[NuGet](https://www.nuget.org/packages/aspose.cells) csomagkezelő, keresse meg a Aspose.Cells-et, és telepítse. A következő parancsot is használhatja a Package Manager konzolból.
+ Hogyan egyesíthetem a SXC és a JPEG számokat? A Aspose.Cells for .NET könyvtárral egyszerűen egyesítheti a SXC-et a JPEG-es számokkal programozottan néhány sornyi kóddal.[Aspose.Cells for .NET](https://products.aspose.com/cells/net)képes többplatformos alkalmazásokat létrehozni, módosítani, konvertálni, renderelni és kinyomtatni az összes Excel fájlt. .NET Az Excel API nemcsak a táblázatformátumok között konvertál, hanem Excel-fájlokat is képes megjeleníteni képként, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT és egyebekként, így tökéletes választás a szabványos formátumú dokumentumok cseréjéhez. Nyisd ki[NuGet](https://www.nuget.org/packages/aspose.cells) csomagkezelő, keresse meg a Aspose.Cells-et, és telepítse. A következő parancsot is használhatja a Package Manager konzolból.
 
 {{% blocks/products/pf/agp/code-block title="Csomagkezelő konzolparancs" offSpacer="true" %}}
 
@@ -26,7 +26,7 @@ PM> Install-Package Aspose.Cells
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Csatlakoztassa a SXC-es számokat a JPEG-es számokhoz a C#-ben online ingyen" %}}
+{{% blocks/products/pf/agp/content h2="A SXC és a JPEG egyesítése a C#-ben" %}}
 
 A következő példa bemutatja a SXC és a JPEG egyesítését a Aspose.Cells for .NET számban.
 {{% blocks/products/pf/agp/text %}}
@@ -37,7 +37,7 @@ Kövesse az egyszerű lépéseket a SXC-es és a JPEG-es számok egyesítéséhe
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Ingyenes online a SXC-JPEG-es számok egyesítéséhez a C#-ben" InputFormat="sxc" InputFormat2="jpg" outformat="jpg" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="net" %}}
+{{% cells-merger title="Mintakód a SXC és JPEG közötti egyesítéshez a C#-ben" InputFormat="sxc" InputFormat2="jpg" outformat="jpg" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="net" %}}
 
 {{% blocks/products/pf/agp/content h2="A SXC és a JPEG egyesítése a C# számon keresztül" %}}
 
@@ -116,8 +116,8 @@ API-jaink minden nagyobb platformon és operációs rendszeren támogatottak. Mi
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-sxc-to-xlt/" name="SXC és a XLT számok egyesítése" description="Microsoft Excel-sablon" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-sxc-to-xltm/" name="SXC és a XLTM számok egyesítése" description="Excel-makró-kompatibilis sablon" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-sxc-to-xltx/" name="SXC és a XLTX számok egyesítése" description="Office OpenXML Excel sablon" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-sxc-to-xml/" name="A SXC egyesítése XML-be" description="Bővíthető jelölőnyelv" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-sxc-to-xps/" name="SXC és a XPS számok egyesítése" description="XML papírspecifikációk" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-sxc-to-xml/" name="Egyesítse a SXC-et XML-be" description="Bővíthető jelölőnyelv" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-sxc-to-xps/" name="SXC és a XPS számok egyesítése" description="XML papír specifikációk" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-sxc-to-json/" name="SXC és a JSON számok egyesítése" description="JavaScript objektum jelölés" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-sxc-to-jpeg/" name="SXC és a JPEG számok egyesítése" description="JPEG Kép" >}}
 

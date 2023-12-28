@@ -1,7 +1,7 @@
 ---
-title: Java XLT MD - Online XLT MD konverter
-description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Ingyenes online Java A XLT konvertálása MD mentési formátumba. Java XLT MD formátumba. Mentse a XLT számot az MD Java számra.
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java XLT to MD saveformat., Free Online XLT to MD Java., Java Convert XLT to MD]
+title: Java XLT MD-hez - XLT MD konverterhez
+description: Aspose Excel. A XLT számot gyorsan és egyszerűen konvertálja MD-re a Aspose.Cells-es számmal. Java XLT MD-vé. Java Takarítson meg XLT-et az MD-nek. Mentse el a XLT számot MD-ként a Java használatával.
+keywords: [Aspose Excel., Java Aspose.Cells., Convert XLT to MD in Java., Save XLT to MD using Java., Java XLT to MD saveformat., XLT to MD Converter., Java Save XLT as MD]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Alakítsa át a XLT-et MD-re a Java-ben" h2="Nagy sebességű Java könyvtár a XLT MD formátumba konvertálásához. Ez egy professzionális szoftvermegoldás a XLT, MD és sok más formátum importálásához és exportálásához a Java használatával." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="MD" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java XLT to MD
 
 {{% blocks/products/pf/agp/content h2="Konvertálja a XLT-et MD-re a Java használatával" %}}
 
- Hogyan konvertálhatom át a XLT-et MD-re? A Aspose.Cells for Java könyvtárral egyszerűen konvertálhatja a XLT-et MD-vé, néhány soros kóddal programozottan.[Aspose.Cells for Java](https://products.aspose.com/cells/java) képes többplatformos alkalmazásokat létrehozni, módosítani, konvertálni, renderelni és kinyomtatni az összes Excel fájlt. Java Excel API nem csak a táblázatformátumok között konvertál, hanem Excel fájlokat is képes megjeleníteni képként, PDF, HTML, ODS, CSV, CSV, CSV, CSV, CSV, CSV, SVG, és így tovább, SVG P, 8 PT a választás,3,8 ipari szabvány szerinti dokumentumok cseréjére formátumok. A legújabb verziót közvetlenül a webhelyről töltheti le[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) és telepítse a Maven alapú projekten belül a következő konfigurációk hozzáadásával a pom.xml fájlhoz.
+ Hogyan konvertálhatom át a XLT-et MD-re? A Aspose.Cells for Java könyvtárral egyszerűen konvertálhatja a XLT-et MD-vé, néhány soros kóddal programozottan.[Aspose.Cells for Java](https://products.aspose.com/cells/java)képes többplatformos alkalmazásokat létrehozni, módosítani, konvertálni, renderelni és kinyomtatni az összes Excel fájlt. Java Az Excel API nemcsak a táblázatformátumok között konvertál, hanem Excel-fájlokat is képes megjeleníteni képként, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT és egyebekként, így tökéletes választás a szabványos formátumú dokumentumok cseréjéhez. A legújabb verziót közvetlenül a webhelyről töltheti le[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) és telepítse a Maven alapú projekten belül a következő konfigurációk hozzáadásával a pom.xml fájlhoz.
 
 {{% blocks/products/pf/agp/code-block title="Adattár" offSpacer="true" %}}
 
@@ -45,7 +45,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java XLT to MD
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Takarítson meg XLT-et MD-nek a Java számon online ingyen" %}}
+{{% blocks/products/pf/agp/content h2="Mentse el a XLT számot az MD számára a Java számon" %}}
 
 A következő példa bemutatja, hogyan lehet átalakítani a XLT-et MD-vé a Java-ben.
 {{% blocks/products/pf/agp/text %}}
@@ -56,7 +56,7 @@ Kövesse az egyszerű lépéseket a XLT MD-re konvertálásához. Töltse fel a 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Ingyenes alkalmazás és mintakód a XLT MD Online konvertálásához" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlt" outformat="md" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Mintakód a XLT MD-vé konvertálásához" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlt" outformat="md" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="A XLT konvertálása MD via Java-re" %}}
 
@@ -68,7 +68,7 @@ A XLT fájlokat programozottan MD-re kell konvertálnia? A Java fejlesztők kön
 
 1.  Telepítse a „Aspose.Cells for Java” fájlt.
 1.  Adjon hozzá egy könyvtári hivatkozást (importálja a könyvtárat) a Java projekthez.
-1.  Töltse be a XLT számú fájlt a Workbook osztály egy példányával.
+1. Töltse be a XLT számú fájlt a Workbook osztály egy példányával.
 1.  Konvertálja a XLT-et MD-vé a Workbook.save metódus meghívásával.
 1.  Szerezze meg a XLT konverziós eredményt MD-vé.
 
@@ -125,7 +125,7 @@ A XLT fájlokat programozottan MD-re kell konvertálnia? A Java fejlesztők kön
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/xlt-to-xltm/" name="XLT-XLTM" description="Excel-makró-kompatibilis sablon" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/xlt-to-xltx/" name="XLT-XLTX" description="Office OpenXML Excel sablon" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/xlt-to-xml/" name="XLT XML-RE" description="Bővíthető jelölőnyelv" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/xlt-to-xps/" name="XLT-XPS" description="XML papírspecifikációk" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/xlt-to-xps/" name="XLT-XPS" description="XML papír specifikációk" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/xlt-to-json/" name="XLT-JSON" description="JavaScript objektum jelölés" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/xlt-to-jpeg/" name="XLT-JPEG" description="JPEG Kép" >}}
 

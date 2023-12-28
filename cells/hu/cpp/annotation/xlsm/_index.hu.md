@@ -1,7 +1,8 @@
 ---
-title:  XLSM megjegyzés hozzáadása a C++ számon keresztül
+title:  XLSM Megjegyzés hozzáadása vagy eltávolítása a C++ számon keresztül
 weight: 2860
-description: C++ mintakód a XLSM formátumú megjegyzések törléséhez a C++ Runtime Environment Windows 32 bites, Windows 64 bites és 64 bites Linux rendszeren.
+description: C++ mintakód a XLSM formátumú megjegyzések törléséhez a C++ Runtime Environment Windows 32 bites, Windows 64 bites és 64 bites Linux esetén.
+keywords: [C++ Aspose.Cells., add xlsm annotation., insert xlsm annotation., access xlsm annotation., remove xlsm annotation., delete xlsm annotation., add annotation in xlsm., insert annotation in xlsm., access annotation in xlsm., remove annotation in xlsm., delete annotation in xlsm]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Megjegyzés hozzáadása a XLSM fájlhoz a C++ számon keresztül" h2="Készítse el saját C++-es alkalmazásait a dokumentumfájlok megjegyzéseinek és szerzőinek manipulálásához szerveroldali API-k segítségével." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSM" pfName="Aspose.Cells" subTitlepfName="for C++" downloadUrl="" fileiconsmall1="PPTX" fileiconsmall2="DOCX" fileiconsmall3="XLSX" fileiconsmall4="PDF" fileiconsmall5=" ODP " >}}
@@ -43,7 +44,7 @@ PM> Install-Package Aspose.Cells.Cpp
 1.  Válassza ki a megfelelő lapot
 1.  Adja hozzá a megjegyzést a Hozzáadás módszerrel
 1.  Állítsa be a megjegyzés jegyzetét a SetNote módszerrel.
-1.  Mentse el a munkafüzetet a segítségével[Megment](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook#a77072cfb929787df9ad1f38b02f58349) módszer
+1.  Mentse el a munkafüzetet a segítségével[Megment](https://reference.aspose.com/cells/cpp/aspose.cells/workbook/save/) módszer
 
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
@@ -63,7 +64,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% blocks/products/pf/agp/code-block title="Megjegyzések hozzáadása a XLSM - C++ számon" offSpacer="" %}}
 
-{{< gist "aspose-com-gists" "e144512d2c395c3336f12ce960424686" "add-comment-in-xlsm-file.cpp" >}}
+{{< gist "aspose-cells-gists" "6f7d9819d85793c3a3b5d040af42e1a9" "add-comment-in-xlsm-file.cpp" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 

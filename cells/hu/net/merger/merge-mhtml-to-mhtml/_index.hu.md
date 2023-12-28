@@ -1,8 +1,8 @@
 ---
 title: A MHTML-MHTML-es számok egyesítése – a MHTML-es és a MHTML-es számok egyesítése a C#-ben
 url: /hu/net/merger/merge-mhtml-to-mhtml/ 
-description: Aspose Excel. C# Aspose.Cells. Ingyenes online egyesítés MHTML MHTML mentési formátumba. C# A MHTML és a MHTML formátum kombinálása. Egyesítse a MHTML-MHTML-et a C#-ben. MHTML Egyesítse.
-keywords: [Aspose Excel., C# Aspose.Cells., Merge MHTML to MHTML in C#., Free Online C# Merge MHTML to mhtml., C# Combine MHTML to MHTML Online for Free., MHTML Merge]
+description: Aspose Excel. C# Aspose.Cells. A MHTML és a MHTML mentési formátum egyesítése. C# A MHTML és a MHTML formátum kombinálása. Egyesítse a MHTML-MHTML-et a C#-ben. MHTML Egyesítse.
+keywords: [Aspose Excel., C# Aspose.Cells., Merge MHTML to MHTML in C#., C# Merge MHTML to mhtml., C# Combine MHTML to MHTML., MHTML Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="A MHTML-es szám egyesítése a MHTML-es számmal a C#-es számon keresztül" h2="Nagysebességű C# könyvtár a MHTML és MHTML egyesítéséhez. Használja a API-es excel konverziónkat magas szintű, platformfüggetlen szoftver fejlesztésére a C#-ben. Ez egy professzionális szoftvermegoldás Excel, CSV, OpenOffice, PDF, HTML, image és sok más excel formátum importálásához és exportálásához." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="MHTML" additionalConversionTag="MHTML" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., C# Aspose.Cells., Merge MHTML to MHTML in C#., Free On
 
 {{% blocks/products/pf/agp/content h2="A MHTML és a MHTML egyesítése a C# használatával" %}}
 
- Hogyan egyesíthetem a MHTML és a MHTML számokat? A Aspose.Cells for .NET könyvtárral egyszerűen egyesítheti a MHTML-et a MHTML-es számokkal programozottan néhány sornyi kóddal.[Aspose.Cells for .NET](https://products.aspose.com/cells/net)képes többplatformos alkalmazásokat létrehozni, módosítani, konvertálni, renderelni és kinyomtatni az összes Excel fájlt. .NET Excel API nem csak a táblázatformátumok között konvertál, hanem Excel fájlokat is képes megjeleníteni képként, PDF, HTML, ODS, CSV, CSV, CSV, CSV, CSV, CSV, SVG, és így tovább, SVG P, 8 PT a választás,3,8 ipari szabvány szerinti dokumentumok cseréjére formátumok. Nyisd ki[NuGet](https://www.nuget.org/packages/aspose.cells) csomagkezelő, keresse meg a Aspose.Cells-et, és telepítse. A következő parancsot is használhatja a Package Manager konzolból.
+ Hogyan egyesíthetem a MHTML és a MHTML számokat? A Aspose.Cells for .NET könyvtárral egyszerűen egyesítheti a MHTML-et a MHTML-es számokkal programozottan néhány sornyi kóddal.[Aspose.Cells for .NET](https://products.aspose.com/cells/net)képes többplatformos alkalmazásokat létrehozni, módosítani, konvertálni, renderelni és kinyomtatni az összes Excel fájlt. .NET Az Excel API nemcsak a táblázatformátumok között konvertál, hanem Excel-fájlokat is képes megjeleníteni képként, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT és egyebekként, így tökéletes választás a szabványos formátumú dokumentumok cseréjéhez. Nyisd ki[NuGet](https://www.nuget.org/packages/aspose.cells) csomagkezelő, keresse meg a Aspose.Cells-et, és telepítse. A következő parancsot is használhatja a Package Manager konzolból.
 
 {{% blocks/products/pf/agp/code-block title="Csomagkezelő konzolparancs" offSpacer="true" %}}
 
@@ -26,7 +26,7 @@ PM> Install-Package Aspose.Cells
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Csatlakoztassa a MHTML-es számokat a MHTML-es számokhoz a C#-ben online ingyen" %}}
+{{% blocks/products/pf/agp/content h2="A MHTML és a MHTML egyesítése a C#-ben" %}}
 
 A következő példa bemutatja a MHTML és a MHTML egyesítését a Aspose.Cells for .NET számban.
 {{% blocks/products/pf/agp/text %}}
@@ -37,7 +37,7 @@ Kövesse az egyszerű lépéseket a MHTML-es és a MHTML-es számok egyesítés�
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Ingyenes online a MHTML-MHTML-es számok egyesítéséhez a C#-ben" InputFormat="mhtml" InputFormat2="mhtml" outformat="mhtml" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="net" %}}
+{{% cells-merger title="Mintakód a MHTML és MHTML közötti egyesítéshez a C#-ben" InputFormat="mhtml" InputFormat2="mhtml" outformat="mhtml" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="net" %}}
 
 {{% blocks/products/pf/agp/content h2="A MHTML és a MHTML egyesítése a C# számon keresztül" %}}
 
@@ -116,8 +116,8 @@ API-jaink minden nagyobb platformon és operációs rendszeren támogatottak. Mi
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-mhtml-to-xlt/" name="MHTML és a XLT számok egyesítése" description="Microsoft Excel-sablon" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-mhtml-to-xltm/" name="MHTML és a XLTM számok egyesítése" description="Excel-makró-kompatibilis sablon" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-mhtml-to-xltx/" name="MHTML és a XLTX számok egyesítése" description="Office OpenXML Excel sablon" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-mhtml-to-xml/" name="A MHTML egyesítése XML-be" description="Bővíthető jelölőnyelv" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-mhtml-to-xps/" name="MHTML és a XPS számok egyesítése" description="XML papírspecifikációk" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-mhtml-to-xml/" name="Egyesítse a MHTML-et XML-be" description="Bővíthető jelölőnyelv" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-mhtml-to-xps/" name="MHTML és a XPS számok egyesítése" description="XML papír specifikációk" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-mhtml-to-json/" name="MHTML és a JSON számok egyesítése" description="JavaScript objektum jelölés" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-mhtml-to-jpeg/" name="MHTML és a JPEG számok egyesítése" description="JPEG Kép" >}}
 

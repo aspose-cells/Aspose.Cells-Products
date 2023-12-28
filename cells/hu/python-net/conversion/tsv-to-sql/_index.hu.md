@@ -1,7 +1,7 @@
 ---
-title: Python TSV SQL-hez – Online TSV SQL konverterhez
-description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Ingyenes online Python A TSV konvertálása SQL mentési formátumba. Python TSV SQL formátumba. Mentse a TSV-et SQL Python-be.
-keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python TSV to SQL saveformat., Free Online TSV to SQL Python., Python Convert TSV to SQL]
+title: Python TSV SQL-hez - TSV SQL Converterhez
+description: Aspose Excel. A TSV gyors és egyszerű konvertálása SQL-re a Aspose.Cells. Python TSV számmal SQL-vé. Python Mentse a TSV-et SQL-be. Mentse a TSV-et SQL-ként a Python használatával.
+keywords: [Aspose Excel., Python Aspose.Cells., Convert TSV to SQL in Python., Save TSV to SQL using Python., Python TSV to SQL saveformat., TSV to SQL Converter., Python Save TSV as SQL]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Konvertálja a TSV-et SQL-re a Python-ben" h2="Nagy sebességű Python könyvtár a TSV SQL-vé konvertálásához. Használja a API-es excel konverziónkat magas szintű, platformfüggetlen szoftver fejlesztéséhez a Python-ben." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="SQL" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,12 +12,12 @@ keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python TSV
 
 {{% blocks/products/pf/agp/content h2="Konvertálja a TSV-et SQL-re a Python-ben" %}}
 
- Hogyan konvertálhatom a TSV-et SQL-vé? A Aspose.Cells for Python számmal a NET könyvtáron keresztül könnyedén konvertálhatja a TSV-et programozottan SQL-vé néhány sor kóddal.[Aspose.Cells for Python a NET számon keresztül](https://pypi.org/project/aspose-cells-python/)képes többplatformos alkalmazásokat létrehozni, módosítani, konvertálni, renderelni és kinyomtatni az összes Excel fájlt. Python Excel API nem csak a táblázatformátumok között konvertál, hanem Excel fájlokat is képes megjeleníteni képként, PDF, HTML, ODS, CSV, CSV, CSV, CSV, CSV, CSV, SVG, és így tovább, SVG P, 8 PT a választás,3,8 ipari szabvány szerinti dokumentumok cseréjére formátumok.
+ Hogyan konvertálhatom a TSV-et SQL-vé? A Aspose.Cells for Python számmal a NET könyvtáron keresztül könnyedén konvertálhatja a TSV-et programozottan SQL-vé néhány sor kóddal.[Aspose.Cells for Python a NET számon keresztül](https://pypi.org/project/aspose-cells-python/)képes többplatformos alkalmazásokat létrehozni, módosítani, konvertálni, renderelni és kinyomtatni az összes Excel fájlt. Python Az Excel API nemcsak a táblázatformátumok között konvertál, hanem Excel-fájlokat is képes megjeleníteni képként, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT és egyebekként, így tökéletes választás a szabványos formátumú dokumentumok cseréjéhez.
 
 {{% /blocks/products/pf/agp/content %}}
 
 
-{{% blocks/products/pf/agp/content h2="Mentse el a TSV-et SQL-be a Python-ben online ingyen" %}}
+{{% blocks/products/pf/agp/content h2="Mentse a TSV-et SQL-be a Python-ben" %}}
 
 A következő példa bemutatja, hogyan lehet a TSV-et SQL-vé alakítani a Python via NET-ben.
 {{% blocks/products/pf/agp/text %}}
@@ -28,13 +28,13 @@ Kövesse az egyszerű lépéseket a TSV SQL-vé konvertálásához. Töltse fel 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Ingyenes alkalmazás és mintakód a TSV SQL Online konvertálásához" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="tsv" outformat="sql" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Mintakód a TSV SQL-vé konvertálásához" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="tsv" outformat="sql" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="A TSV konvertálása SQL-vé" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
-A TSV fájlokat programozottan SQL-be kell konvertálnia? A Python fejlesztők egyszerűen betölthetik és néhány sornyi kóddal SQL-vé konvertálhatják a TSV-et.
+TSV fájlokat programozottan SQL-be kell konvertálnia? A Python fejlesztők egyszerűen betölthetik és néhány sornyi kóddal SQL-vé konvertálhatják a TSV-et.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -52,7 +52,7 @@ A TSV fájlokat programozottan SQL-be kell konvertálnia? A Python fejlesztők e
 A Python-es csomagjainkat PyPi-tárolókban tároljuk.
 
 {{% blocks/products/pf/agp/text %}}
-Telepítés: Aspose.Cells for Python innen<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , használja a parancsot a következőképpen:<code>$ pip install aspose-cells-python</code>.
+ Telepítés: Aspose.Cells for Python innen<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , használja a parancsot a következőképpen:<code>$ pip install aspose-cells-python</code>.
 {{% /blocks/products/pf/agp/text %}}
 
 {{% blocks/products/pf/agp/text %}}
@@ -100,7 +100,7 @@ Telepítés: Aspose.Cells for Python innen<a href="https://pypi.org/project/aspo
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/tsv-to-xltm/" name="TSV-XLTM" description="Excel-makró-kompatibilis sablon" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/tsv-to-xltx/" name="TSV-XLTX" description="Office OpenXML Excel sablon" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/tsv-to-xml/" name="TSV XML-RE" description="Bővíthető jelölőnyelv" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/tsv-to-xps/" name="TSV-XPS" description="XML papírspecifikációk" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/tsv-to-xps/" name="TSV-XPS" description="XML papír specifikációk" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/tsv-to-json/" name="TSV-JSON" description="JavaScript objektum jelölés" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}

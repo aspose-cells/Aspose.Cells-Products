@@ -1,6 +1,7 @@
 ---
 title: एक्सेल via .NET में आकृतियाँ सम्मिलित करें
-description:  C# स्रोत कोड बताते हैं कि .NET लाइब्रेरी का उपयोग करके Microsoft एक्सेल फ़ाइलों में एक आकृति कैसे सम्मिलित करें।
+description: C# .NET लाइब्रेरी का उपयोग करके एक्सेल में आकृतियाँ जोड़ने या सम्मिलित करने के लिए नमूना कोड। VB.NET, Asp.NET या किसी .NET आधारित एप्लिकेशन के भीतर MS Excel में आकृतियाँ बनाने के लिए इस कोड का उपयोग करें।
+keywords: [C# Aspose.Cells., c# add shapes., c# insert shapes., c# create shapes]
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
 {{< blocks/products/pf/i18n/feature-page-header h1="Microsoft<sup>&reg;</sup> एक्सेल आकार प्रविष्टि via .NET" h2=".NET-आधारित अनुप्रयोगों में सर्वर-साइड एपीआई का उपयोग करके एक्सेल दस्तावेज़ बनाएं और आकृतियाँ सम्मिलित करें।" >}}
@@ -12,7 +13,7 @@ description:  C# स्रोत कोड बताते हैं कि .NET
 
 {{% blocks/products/pf/feature-page-section h2="Excel फ़ाइल में आकृतियाँ सम्मिलित करें" %}}
 
- इन एपीआई का उपयोग करके आकृतियाँ सम्मिलित करना सरल है। प्रक्रिया है, बनाएँ[कार्यपुस्तिका कक्षा](https://reference.aspose.com/cells/net/aspose.cells/workbook) ऑब्जेक्ट करें और उसकी अनुक्रमणिका प्रदान करके पहली वर्कशीट या संबंधित शीट का चयन करें। का उपयोग करके वर्कशीट में एक आकृति जोड़ें[आकारसंग्रह](https://reference.aspose.com/cells/net/aspose.cells.drawing/shapecollection)की विधि जोड़ें.
+ इन एपीआई का उपयोग करके आकृतियाँ सम्मिलित करना सरल है। प्रक्रिया है, बनाएँ[कार्यपुस्तिका कक्षा](https://reference.aspose.com/cells/net/aspose.cells/workbook)ऑब्जेक्ट करें और उसकी अनुक्रमणिका प्रदान करके पहली वर्कशीट या संबंधित शीट का चयन करें। का उपयोग करके वर्कशीट में एक आकृति जोड़ें[आकारसंग्रह](https://reference.aspose.com/cells/net/aspose.cells.drawing/shapecollection)की विधि जोड़ें.
 
 {{% blocks/products/pf/feature-page-code h3="C# एक्सेल में आकार सम्मिलित करने के लिए कोड" %}}
 

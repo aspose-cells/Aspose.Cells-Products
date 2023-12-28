@@ -1,6 +1,7 @@
 ---
 title: Kördiagramok létrehozása a Python számon keresztül
 description: Python Mintakód kördiagramok készítéséhez Excelbe a Python könyvtár használatával. Ezzel a kóddal kördiagramot hozhat létre MS Excelbe a Python alapú alkalmazáson belül.
+keywords: [Python Aspose.Cells., Python add Pie Chart., Python insert Pie Chart., Python create Pie Chart]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
@@ -18,7 +19,7 @@ description: Python Mintakód kördiagramok készítéséhez Excelbe a Python k�
 
 {{% blocks/products/pf/agp/text %}}
 
-A fejlesztők könnyen létrehozhatnak kördiagramot a különböző jelentéskészítő alkalmazások futtatásán belül az adatfeldolgozáshoz, mindössze néhány sornyi kóddal.
+fejlesztők könnyen létrehozhatnak kördiagramot a különböző jelentéskészítő alkalmazások futtatásán belül az adatfeldolgozáshoz, mindössze néhány sornyi kóddal.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -36,7 +37,7 @@ A fejlesztők könnyen létrehozhatnak kördiagramot a különböző jelentésk�
  A Aspose.Cells for Python platformfüggetlen API, és bármilyen platformon használható (Windows, Linux), csak győződjön meg arról, hogy a rendszer rendelkezik[Python](https://www.python.org/downloads/) 3,7 vagy magasabb.
 {{% /blocks/products/pf/agp/text %}}
 
-- Telepítés: Aspose.Cells for Python innen<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , használja a parancsot a következőképpen:<code>$ pip install aspose-cells-python</code>.
+-  Telepítés: Aspose.Cells for Python innen<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , használja a parancsot a következőképpen:<code>$ pip install aspose-cells-python</code>.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/code-block title="A következő forráskód bemutatja, hogyan hozhat létre kördiagramot MS Excel XLSX fájlba a Python használatával." offSpacer="" %}}

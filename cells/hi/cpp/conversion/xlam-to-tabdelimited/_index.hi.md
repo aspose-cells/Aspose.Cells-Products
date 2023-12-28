@@ -1,7 +1,7 @@
 ---
-title: XLAM से TABDELIMITED - XLAM को TABDELIMITED फ़ाइलों में कनवर्ट करें C++
-description: Aspose एक्सेल। मुफ़्त ऑनलाइन XLAM को TABDELIMITED सेवफॉर्मेट में कनवर्ट करें। C++ XLAM से TABDELIMITED प्रारूप में। C++ में XLAM को TABDELIMITED के रूप में सहेजें।
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ XLAM to TABDELIMITED saveformat., Free Online XLAM to TABDELIMITED Converter]
+title: C++ XLAM से TABDELIMITED - XLAM से TABDELIMITED कनवर्टर
+description: Aspose एक्सेल। Aspose.Cells के साथ XLAM को TABDELIMITED में जल्दी और आसानी से बदलें। C++ XLAM को TABDELIMITED में बदलें। C++ XLAM को TABDELIMITED में सहेजें। C++ का उपयोग करके XLAM को TABDELIMITED के रूप में सहेजें।
+keywords: [Aspose Excel., C++ Aspose.Cells., Convert XLAM to TABDELIMITED in C++., Save XLAM to TABDELIMITED using C++., C++ XLAM to TABDELIMITED saveformat., XLAM to TABDELIMITED Converter., C++ Save XLAM as TABDELIMITED]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="XLAM को C++ में TABDELIMITED में बदलें" h2="Microsoft एक्सेल, ओपनऑफिस या एडोब एक्रोबैट इंस्टॉलेशन की आवश्यकता के बिना C++ लाइब्रेरी का उपयोग करके उच्च प्रदर्शन XLAM से TABDELIMITED रूपांतरण।" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" sourceAdditionalConversionTag="" additionalConversionTag="TABDELIMITED" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., C++ Aspose.Cells., C++ XLAM to TABDELIMITED saveformat
 
 {{% blocks/products/pf/agp/content h2="C++ का उपयोग करके XLAM को TABDELIMITED में बदलें" %}}
 
- मैं XLAM को TABDELIMITED में कैसे परिवर्तित करूं? Aspose.Cells for C++ लाइब्रेरी के साथ, आप कोड की कुछ पंक्तियों के साथ आसानी से XLAM को प्रोग्रामेटिक रूप से TABDELIMITED में परिवर्तित कर सकते हैं।[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) सभी एक्सेल फ़ाइलों को उत्पन्न करने, संशोधित करने, परिवर्तित करने, प्रस्तुत करने और प्रिंट करने की क्षमता के साथ क्रॉस-प्लेटफ़ॉर्म एप्लिकेशन बनाने में सक्षम है। C++ एक्सेल API न केवल स्प्रेडशीट प्रारूपों के बीच कनवर्ट कर सकता है, यह एक्सेल फाइलों को छवियों, PDF, HTML, ODS, CSV, SVG, JSON, वर्ड, पीपीटी और भी बहुत कुछ के रूप में प्रस्तुत कर सकता है, इस प्रकार यह एक्सचेंज के लिए एक आदर्श विकल्प बन जाता है। उद्योग-मानक में दस्तावेज़ प्रारूप. आप इसका नवीनतम संस्करण सीधे डाउनलोड कर सकते हैं, बस खोलें[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) पैकेज मैनेजर, Aspose.Cells.सीपीपी खोजें और इंस्टॉल करें। आप पैकेज मैनेजर कंसोल से निम्न कमांड का भी उपयोग कर सकते हैं।
+ मैं XLAM को TABDELIMITED में कैसे परिवर्तित करूं? Aspose.Cells for C++ लाइब्रेरी के साथ, आप कोड की कुछ पंक्तियों के साथ आसानी से XLAM को प्रोग्रामेटिक रूप से TABDELIMITED में परिवर्तित कर सकते हैं।[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) सभी एक्सेल फ़ाइलों को उत्पन्न करने, संशोधित करने, परिवर्तित करने, प्रस्तुत करने और प्रिंट करने की क्षमता के साथ क्रॉस-प्लेटफ़ॉर्म एप्लिकेशन बनाने में सक्षम है। C++ एक्सेल API न केवल स्प्रेडशीट प्रारूपों के बीच परिवर्तित होता है, बल्कि यह एक्सेल फाइलों को छवियों, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT और अधिक के रूप में भी प्रस्तुत कर सकता है, इस प्रकार यह उद्योग-मानक प्रारूपों में दस्तावेजों का आदान-प्रदान करने के लिए एक आदर्श विकल्प बन जाता है। आप इसका नवीनतम संस्करण सीधे डाउनलोड कर सकते हैं, बस खोलें[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) पैकेज मैनेजर, Aspose.Cells.सीपीपी खोजें और इंस्टॉल करें। आप पैकेज मैनेजर कंसोल से निम्न कमांड का भी उपयोग कर सकते हैं।
 
 {{% blocks/products/pf/agp/code-block title="आज्ञा" offSpacer="true" %}}
 
@@ -26,7 +26,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="C++ में XLAM को TABDELIMITED में निःशुल्क ऑनलाइन सेव करें" %}}
+{{% blocks/products/pf/agp/content h2="XLAM को C++ में TABDELIMITED में सहेजें" %}}
 
 निम्नलिखित उदाहरण दर्शाता है कि C++ में XLAM को TABDELIMITED में कैसे परिवर्तित किया जाए।
 {{% blocks/products/pf/agp/text %}}
@@ -37,7 +37,7 @@ XLAM को TABDELIMITED में बदलने के लिए आसान
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="XLAM को ऑनलाइन TABDELIMITED में बदलने के लिए निःशुल्क ऐप और नमूना कोड" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlam" outformat="tsv" IsLandingPage="true" language="cpp" %}}
+{{% cells-convert title="XLAM को TABDELIMITED में बदलने के लिए नमूना कोड" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlam" outformat="tsv" IsLandingPage="true" language="cpp" %}}
 
 {{% blocks/products/pf/agp/content h2="C++ के माध्यम से XLAM को TABDELIMITED में कैसे परिवर्तित करें" %}}
 
@@ -49,7 +49,7 @@ XLAM फ़ाइलों को प्रोग्रामेटिक रू
 
 1.  'Aspose.Cells for C++' इंस्टॉल करें।
 1.  अपने C++ प्रोजेक्ट में एक लाइब्रेरी संदर्भ जोड़ें (लाइब्रेरी आयात करें)।
-1.  फ़ैक्टरी::CreateIWorkbook का उपयोग करके XLAM फ़ाइल लोड करें।
+1.  वर्कबुक का उपयोग करके XLAM फ़ाइल लोड करें।
 1. Save() विधि को कॉल करके XLAM को TABDELIMITED में कनवर्ट करें।
 1.  XLAM का TABDELIMITED में रूपांतरण परिणाम प्राप्त करें।
 
@@ -82,6 +82,12 @@ XLAM फ़ाइलों को प्रोग्रामेटिक रू
 
 {{% /blocks/products/pf/agp/content %}}
 
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLAM" readMoreLink="https://docs.fileformat.com/spreadsheet/xlam/" >}}XLAM एक मैक्रो-सक्षम ऐड-इन फ़ाइल है जिसका उपयोग स्प्रेडशीट में नए फ़ंक्शन जोड़ने के लिए किया जाता है। ऐड-इन एक पूरक प्रोग्राम है जो अतिरिक्त कोड चलाता है और स्प्रेडशीट के लिए अतिरिक्त कार्यक्षमता प्रदान करता है। XLAM फ़ाइलें .xlam एक्सटेंशन के साथ संग्रहीत हैं। XLAM फ़ाइलें XLSM और XLSX फ़ाइल स्वरूपों के समान XML-आधारित फ़ाइलें हैं और समग्र फ़ाइल आकार को कम करने के लिए ज़िप संपीड़न के साथ सहेजी जाती हैं।{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="TABDELIMITED" readMoreLink="https://docs.fileformat.com/spreadsheet/tsv/" >}}एक टैब-पृथक मान (TSV) फ़ाइल स्वरूप सादे पाठ प्रारूप में टैब से अलग किए गए डेटा का प्रतिनिधित्व करता है। फ़ाइल स्वरूप, CSV के समान, विभिन्न अनुप्रयोगों के बीच आयात और निर्यात करने के लिए संरचित तरीके से डेटा के संगठन के लिए उपयोग किया जाता है। प्रारूप का उपयोग मुख्य रूप से स्प्रेडशीट अनुप्रयोगों और डेटाबेस में डेटा आयात/निर्यात और विनिमय के लिए किया जाता है। TSV फ़ाइल में प्रत्येक रिकॉर्ड टेक्स्ट फ़ाइल की एक पंक्ति में समाहित होता है जहां प्रत्येक फ़ील्ड मान को एक टैब वर्ण द्वारा अलग किया जाता है। TSV फ़ाइल स्वरूप के लिए मीडिया प्रकार टेक्स्ट/टैब-पृथक-मान है।{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="अन्य समर्थित रूपांतरण" subTitle="आप XLAM को नीचे सूचीबद्ध कुछ सहित कई अन्य फ़ाइल स्वरूपों में भी परिवर्तित कर सकते हैं।" >}}
 
@@ -95,7 +101,6 @@ XLAM फ़ाइलों को प्रोग्रामेटिक रू
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xlam-to-pdf/" name="XLAM से PDF तक" description="संवहन दस्तावेज़ स्वरूप" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xlam-to-png/" name="XLAM से PNG तक" description="पोर्टेबल नेटवर्क ग्राफ़िक्स" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xlam-to-svg/" name="XLAM से SVG तक" description="स्केलेबल वेक्टर ग्राफिक्स" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xlam-to-tiff/" name="XLAM से TIFF तक" description="टैग किया गया छवि प्रारूप" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xlam-to-tsv/" name="XLAM से TSV तक" description="टैब-पृथक मान" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xlam-to-txt/" name="XLAM से TXT तक" description="सामग्री या लेख दस्तावेज़" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xlam-to-xls/" name="XLAM से XLS तक" description="एक्सेल बाइनरी फॉर्मेट" >}}

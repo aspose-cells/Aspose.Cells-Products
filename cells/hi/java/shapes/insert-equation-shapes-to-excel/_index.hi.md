@@ -2,6 +2,7 @@
 title:  एक्सेल via Java में समीकरण आकृतियाँ डालें
 weight: 360
 description: Aspose.Cells' Java API का उपयोग करके ऑब्जेक्ट सम्मिलित करें बिना किसी सॉफ़्टवेयर जैसे Microsoft या ओपन ऑफिस, एडोब PDF इत्यादि के बिना।
+keywords: [Java Aspose.Cells., Java add equation shapes., Java insert equation shapes., Java create equation shapes]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="एक्सेल via Java में समीकरण आकृतियाँ डालें" h2="Microsoft या ओपन ऑफिस, एडोब PDF आदि जैसे किसी सॉफ्टवेयर के बिना Aspose.Cells\' API का उपयोग करके समीकरण आकृतियाँ डालें।" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSX" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="" fileiconsmall1="PPTX" fileiconsmall2="DOCX" fileiconsmall3="XLSX" fileiconsmall4="PDF" fileiconsmall5=" ODP " >}}
@@ -56,7 +57,7 @@ description: Aspose.Cells' Java API का उपयोग करके ऑब�
 
 {{% /blocks/products/pf/agp/text %}}
 
-वर्कबुक ऑब्जेक्ट को इंस्टेंट करना। (या->XLSX फ़ाइल को पूर्ण पथ के साथ लोड करें।)
++ वर्कबुक ऑब्जेक्ट को इंस्टेंट करना। (या->XLSX फ़ाइल को पूर्ण पथ के साथ लोड करें।)
 + इसके सूचकांक के माध्यम से वर्कशीट का चयन करें।
  + का प्रयोग करें[विधि जोड़ें](https://reference.aspose.com/cells/java/com.aspose.cells/shapecollection/#addAutoShape-int-int-int-int-int-int-int-) चयनित वर्कशीट में समीकरण आकृतियाँ सम्मिलित करने के लिए
 + कार्यपुस्तिका को XLSX प्रारूप में सहेजें।
@@ -103,7 +104,7 @@ description: Aspose.Cells' Java API का उपयोग करके ऑब�
    <div class="col-lg-4">
     <img src="/cells/net/shapes/insert-equation-shapes-to-excel/minus.png" align="left" width="28" height="28">
     <p class="col-lg-10">
- ऑटोशेपटाइप.MATH_MINUS
+ऑटोशेपटाइप.MATH_MINUS
     </p>
    </div>
    <div class="col-lg-4">

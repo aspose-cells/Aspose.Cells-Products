@@ -1,7 +1,7 @@
 ---
-title: C++ XLT - TABDELIMITED - Online XLT - TABDELIMITED konverter
-description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. Ingyenes online C++ A XLT konvertálása TABDELIMITED mentési formátumra. C++ XLT TABDELIMITED formátumba. Mentse a XLT számot a TABDELIMITED C++ számra.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ XLT to TABDELIMITED saveformat., Free Online XLT to TABDELIMITED C++., C++ Convert XLT to TABDELIMITED]
+title: C++ XLT - TABDELIMITED - XLT - TABDELIMITED konverter
+description: Aspose Excel. A XLT-et gyorsan és egyszerűen konvertálja TABDELIMITED-re a Aspose.Cells-es számmal. C++ XLT-ből TABDELIMITED. C++ Mentse a XLT számot a TABDELIMITED-be. A XLT mentése TABDELIMITED néven a C++ használatával.
+keywords: [Aspose Excel., C++ Aspose.Cells., Convert XLT to TABDELIMITED in C++., Save XLT to TABDELIMITED using C++., C++ XLT to TABDELIMITED saveformat., XLT to TABDELIMITED Converter., C++ Save XLT as TABDELIMITED]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Konvertálja a XLT-et TABDELIMITED-re a C++-ben" h2="Nagy teljesítményű XLT-ből TABDELIMITED konvertálás a C++ könyvtár használatával, anélkül, hogy szükség lenne Microsoft Excel, OpenOffice vagy Adobe Acrobat telepítésére." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" sourceAdditionalConversionTag="" additionalConversionTag="TABDELIMITED" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ XLT to TABDE
 
 {{% blocks/products/pf/agp/content h2="XLT konvertálása TABLEDELIMITED-re a C++ használatával" %}}
 
- Hogyan alakíthatom át a XLT-et TABDELIMITED-re? A Aspose.Cells for C++ könyvtárral egyszerűen konvertálhatja a XLT-et TABDELIMITED-re, néhány soros kóddal.[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) képes többplatformos alkalmazásokat létrehozni, módosítani, konvertálni, renderelni és kinyomtatni az összes Excel fájlt. C++ Excel API nem csak a táblázatformátumok között konvertál, hanem Excel fájlokat is képes megjeleníteni képként, PDF, HTML, ODS, CSV, CSV, CSV, CSV, CSV, CSV, SVG, és így tovább, SVG P, 8 PT a választás,3,8 ipari szabvány szerinti dokumentumok cseréjére formátumok. A legújabb verziót közvetlenül letöltheti, csak nyissa meg[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) csomagkezelő, keresse meg a Aspose.Cells.Cpp címet, és telepítse. A következő parancsot is használhatja a Package Manager konzolból.
+ Hogyan alakíthatom át a XLT-et TABDELIMITED-re? A Aspose.Cells for C++ könyvtárral egyszerűen konvertálhatja a XLT-et TABDELIMITED-re, néhány soros kóddal.[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) képes többplatformos alkalmazásokat létrehozni, módosítani, konvertálni, renderelni és kinyomtatni az összes Excel fájlt. C++ Az Excel API nemcsak a táblázatformátumok között konvertál, hanem Excel-fájlokat is képes megjeleníteni képként, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT és egyebekként, így tökéletes választás a szabványos formátumú dokumentumok cseréjéhez. A legújabb verziót közvetlenül letöltheti, csak nyissa meg[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) csomagkezelő, keresse meg a Aspose.Cells.Cpp címet, és telepítse. A következő parancsot is használhatja a Package Manager konzolból.
 
 {{% blocks/products/pf/agp/code-block title="Parancs" offSpacer="true" %}}
 
@@ -26,7 +26,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Takarítson meg XLT-et a TABDELIMITED-en a C++-ben online ingyen" %}}
+{{% blocks/products/pf/agp/content h2="Mentse el a XLT-et a TABDELIMITED-hez itt: C++" %}}
 
 A következő példa bemutatja, hogyan alakíthatja át a XLT-et TABDELIMITED-re a C++-ben.
 {{% blocks/products/pf/agp/text %}}
@@ -37,7 +37,7 @@ Kövesse az egyszerű lépéseket a XLT TABDELIMITED-re konvertálásához. Töl
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Ingyenes alkalmazás és mintakód a XLT konvertálásához TABDELIMITED online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlt" outformat="tsv" IsLandingPage="true" language="cpp" %}}
+{{% cells-convert title="Mintakód a XLT TAB-ra konvertálásáhozDELIMITED" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlt" outformat="tsv" IsLandingPage="true" language="cpp" %}}
 
 {{% blocks/products/pf/agp/content h2="A XLT konvertálása TABDELIMITED-re a C++-en keresztül" %}}
 
@@ -49,7 +49,7 @@ A XLT fájlt TABDELIMITED-re kell programozottan konvertálni? A C++ fejlesztők
 
 1.  Telepítse a „Aspose.Cells for C++” fájlt.
 1.  Adjon hozzá egy könyvtári hivatkozást (importálja a könyvtárat) a C++ projekthez.
-1.  Töltse be a XLT fájlt a Factory::CreateIWorkbook segítségével.
+1.  Töltse be a XLT fájlt a munkafüzet segítségével.
 1.  XLT konvertálása TABDELIMITED-re a Save() metódus meghívásával.
 1.  A XLT átalakítási eredmény lekérése TABDELIMITED-re.
 
@@ -101,7 +101,6 @@ Három lehetőség közül választhat a „Aspose.Cells for C++” telepítés�
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xlt-to-pdf/" name="XLT-PDF" description="Hordozható dokumentum formátum" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xlt-to-png/" name="XLT-PNG" description="Hordozható hálózati grafika" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xlt-to-svg/" name="XLT-SVG" description="Skálázható vektorgrafika" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xlt-to-tiff/" name="XLT-TIFF" description="Címkézett képformátum" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xlt-to-tsv/" name="XLT-TSV" description="Tabulátorral elválasztott értékek" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xlt-to-txt/" name="XLT-TXT" description="Szöveges dokumentum" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xlt-to-xls/" name="XLT-XLS" description="Excel bináris formátum" >}}
@@ -112,7 +111,7 @@ Három lehetőség közül választhat a „Aspose.Cells for C++” telepítés�
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xlt-to-xltm/" name="XLT-XLTM" description="Excel-makró-kompatibilis sablon" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xlt-to-xltx/" name="XLT-XLTX" description="Office OpenXML Excel sablon" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xlt-to-xml/" name="XLT XML-RE" description="Bővíthető jelölőnyelv" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xlt-to-xps/" name="XLT-XPS" description="XML papírspecifikációk" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xlt-to-xps/" name="XLT-XPS" description="XML papír specifikációk" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xlt-to-json/" name="XLT-JSON" description="JavaScript objektum jelölés" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xlt-to-jpeg/" name="XLT-JPEG" description="JPEG Kép" >}}
 

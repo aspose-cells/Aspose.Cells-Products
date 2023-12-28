@@ -1,8 +1,8 @@
 ---
-title: C++ Repair ods File – Javítási ods fájl online ingyen
+title: C++ Javítás ods – A sérült ods fájl helyreállítása és javítása
 url: /hu/cpp/recovery/repair-ods/ 
-description: Aspose Excel. C++ Aspose.Cells. C++ Javítási ods fájl. Ingyenes online ods-javító eszköz. Javítsa meg a sérült ods fájlt. Helyezze vissza a sérült ods-fájlt a C++ alkalmazáson belül.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ Repair ods file., Free Online Repair a corrupted ods file., C++ Recover ods file.]
+description: C++ Aspose.Cells. Javítási lehetőségek. Fix ods fájl. ods helyreállítási eszköz. ods korrupció. Az ods adatok visszaállítása. ods fájl helyreállítása. A sérült ods fájl helyreállítása.
+keywords: [C++ Aspose.Cells., repair ods file., ods repair., recover corrupted ods file., repair corrupted ods., recover ods., fix ods file., ods corruption., restore ods data., ods file recovery., recover corrupted ods file.]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Javítás ODS fájl a C++-ben" h2="Készítse el saját C++ alkalmazását az ods fájlok javításához a C++ használatával." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" sourceAdditionalConversionTag="" additionalConversionTag="ODS" pfName="Aspose.Cells" subTitlepfName="for C++" downloadUrl="" fileiconsmall1="XLS" fileiconsmall2="XLSB" fileiconsmall3="XLSX" fileiconsmall4="XLSM" fileiconsmall5="ODS" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ Repair ods f
 
 {{% blocks/products/pf/agp/content h2="Javítás ODS fájl a C++ használatával" %}}
 
- Hogyan javíthatom ki az ods fájlt? A Aspose.Cells for C++ könyvtárral könnyedén kijavíthatja a ODS fájlt néhány soros kóddal, programozottan.[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) képes többplatformos alkalmazásokat létrehozni, módosítani, konvertálni, renderelni és kinyomtatni az összes Excel fájlt. C++ Excel API nem csak a táblázatformátumok között konvertál, hanem Excel fájlokat is képes megjeleníteni képként, PDF, HTML, ODS, CSV, CSV, CSV, CSV, CSV, CSV, SVG, és így tovább, SVG P, 8 PT a választás,3,8 ipari szabvány szerinti dokumentumok cseréjére formátumok. A legújabb verziót közvetlenül letöltheti, csak nyissa meg[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) csomagkezelő, keresse meg a Aspose.Cells.Cpp címet, és telepítse. A következő parancsot is használhatja a Package Manager konzolból.
+ Hogyan javíthatom ki az ods fájlt? A Aspose.Cells for C++ könyvtárral könnyedén kijavíthatja a ODS fájlt néhány soros kóddal, programozottan.[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) képes többplatformos alkalmazásokat létrehozni, módosítani, konvertálni, renderelni és kinyomtatni az összes Excel fájlt. C++ Az Excel API nemcsak a táblázatformátumok között konvertál, hanem Excel-fájlokat is képes megjeleníteni képként, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT és egyebekként, így tökéletes választás a szabványos formátumú dokumentumok cseréjéhez. A legújabb verziót közvetlenül letöltheti, csak nyissa meg[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) csomagkezelő, keresse meg a Aspose.Cells.Cpp címet, és telepítse. A következő parancsot is használhatja a Package Manager konzolból.
 
 {{% blocks/products/pf/agp/code-block title="Parancs" offSpacer="true" %}}
 
@@ -41,7 +41,7 @@ Programozottan kell javítania az ods fájlt? A C++ fejlesztők könnyedén bet�
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-recovery title="Ingyenes alkalmazás és mintakód a ODS fájl online javításához" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et" InputFormat="ods" outformat="ods" IsLandingPage="true" language="cpp" %}}    
+{{% cells-recovery title="Mintakód a ODS fájl javításához" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;xps;mhtml;md;json;xml;zip;sql;txt;et" InputFormat="ods" outformat="ods" IsLandingPage="true" language="cpp" %}}    
     
 {{% blocks/products/pf/agp/content h2="C++ könyvtár a ODS fájl javításához" %}}
 

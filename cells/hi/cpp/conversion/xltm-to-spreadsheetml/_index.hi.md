@@ -1,7 +1,7 @@
 ---
-title: C++ XLTM से स्प्रेडशीटएमएल - ऑनलाइन XLTM से स्प्रेडशीटएमएल कन्वर्टर
-description: Aspose एक्सेल। C++ Aspose.Cells. C++ Aspose Cells. मुफ़्त ऑनलाइन C++ XLTM को स्प्रेडशीटएमएल सेवफॉर्मेट में कनवर्ट करें। C++ XLTM स्प्रेडशीटएमएल प्रारूप में। XLTM को स्प्रेडशीटएमएल C++ में सहेजें।
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ XLTM to SPREADSHEETML saveformat., Free Online XLTM to SPREADSHEETML C++., C++ Convert XLTM to SPREADSHEETML]
+title: C++ XLTM से स्प्रेडशीटएमएल - XLTM से स्प्रेडशीटएमएल कन्वर्टर
+description: Aspose एक्सेल। Aspose.Cells के साथ XLTM को जल्दी और आसानी से स्प्रेडशीटएमएल में बदलें। C++ XLTM को स्प्रेडशीटएमएल में बदलें। C++ XLTM को स्प्रेडशीटएमएल में सहेजें। C++ का उपयोग करके XLTM को स्प्रेडशीटएमएल के रूप में सहेजें।
+keywords: [Aspose Excel., C++ Aspose.Cells., Convert XLTM to SPREADSHEETML in C++., Save XLTM to SPREADSHEETML using C++., C++ XLTM to SPREADSHEETML saveformat., XLTM to SPREADSHEETML Converter., C++ Save XLTM as SPREADSHEETML]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="XLTM को C++ में स्प्रेडशीटएमएल में बदलें" h2="Microsoft एक्सेल, ओपनऑफिस या एडोब एक्रोबैट इंस्टॉलेशन की आवश्यकता के बिना C++ लाइब्रेरी का उपयोग करके उच्च प्रदर्शन XLTM से स्प्रेडशीटएमएल रूपांतरण।" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" sourceAdditionalConversionTag="" additionalConversionTag="SPREADSHEETML" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ XLTM to SPRE
 
 {{% blocks/products/pf/agp/content h2="C++ का उपयोग करके XLTM को स्प्रेडशीटएमएल में बदलें" %}}
 
-मैं XLTM को स्प्रेडशीटएमएल में कैसे परिवर्तित करूं? Aspose.Cells for C++ लाइब्रेरी के साथ, आप कोड की कुछ पंक्तियों के साथ आसानी से XLTM को प्रोग्रामेटिक रूप से स्प्रेडशीटएमएल में परिवर्तित कर सकते हैं।[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) सभी एक्सेल फ़ाइलों को उत्पन्न करने, संशोधित करने, परिवर्तित करने, प्रस्तुत करने और प्रिंट करने की क्षमता के साथ क्रॉस-प्लेटफ़ॉर्म एप्लिकेशन बनाने में सक्षम है। C++ एक्सेल API न केवल स्प्रेडशीट प्रारूपों के बीच कनवर्ट कर सकता है, यह एक्सेल फाइलों को छवियों, PDF, HTML, ODS, CSV, SVG, JSON, वर्ड, पीपीटी और भी बहुत कुछ के रूप में प्रस्तुत कर सकता है, इस प्रकार यह एक्सचेंज के लिए एक आदर्श विकल्प बन जाता है। उद्योग-मानक में दस्तावेज़ प्रारूप. आप इसका नवीनतम संस्करण सीधे डाउनलोड कर सकते हैं, बस खोलें[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) पैकेज मैनेजर, Aspose.Cells.सीपीपी खोजें और इंस्टॉल करें। आप पैकेज मैनेजर कंसोल से निम्न कमांड का भी उपयोग कर सकते हैं।
+ मैं XLTM को स्प्रेडशीटएमएल में कैसे परिवर्तित करूं? Aspose.Cells for C++ लाइब्रेरी के साथ, आप कोड की कुछ पंक्तियों के साथ आसानी से XLTM को प्रोग्रामेटिक रूप से स्प्रेडशीटएमएल में परिवर्तित कर सकते हैं।[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) सभी एक्सेल फ़ाइलों को उत्पन्न करने, संशोधित करने, परिवर्तित करने, प्रस्तुत करने और प्रिंट करने की क्षमता के साथ क्रॉस-प्लेटफ़ॉर्म एप्लिकेशन बनाने में सक्षम है। C++ एक्सेल API न केवल स्प्रेडशीट प्रारूपों के बीच परिवर्तित होता है, बल्कि यह एक्सेल फाइलों को छवियों, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT और अधिक के रूप में भी प्रस्तुत कर सकता है, इस प्रकार यह उद्योग-मानक प्रारूपों में दस्तावेजों का आदान-प्रदान करने के लिए एक आदर्श विकल्प बन जाता है। आप इसका नवीनतम संस्करण सीधे डाउनलोड कर सकते हैं, बस खोलें[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) पैकेज मैनेजर, Aspose.Cells.सीपीपी खोजें और इंस्टॉल करें। आप पैकेज मैनेजर कंसोल से निम्न कमांड का भी उपयोग कर सकते हैं।
 
 {{% blocks/products/pf/agp/code-block title="आज्ञा" offSpacer="true" %}}
 
@@ -26,7 +26,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="XLTM को स्प्रेडशीटएमएल में C++ में निःशुल्क ऑनलाइन सेव करें" %}}
+{{% blocks/products/pf/agp/content h2="XLTM को C++ में स्प्रेडशीटएमएल में सहेजें" %}}
 
 निम्नलिखित उदाहरण दर्शाता है कि C++ में XLTM को SPREADSHEETML में कैसे परिवर्तित किया जाए।
 {{% blocks/products/pf/agp/text %}}
@@ -37,7 +37,7 @@ XLTM को स्प्रेडशीटएमएल में बदलने
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="XLTM को स्प्रेडशीटएमएल में ऑनलाइन कनवर्ट करने के लिए निःशुल्क ऐप और नमूना कोड" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xltm" outformat="xml" IsLandingPage="true" language="cpp" %}}
+{{% cells-convert title="XLTM को स्प्रेडशीटएमएल में बदलने के लिए नमूना कोड" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xltm" outformat="xml" IsLandingPage="true" language="cpp" %}}
 
 {{% blocks/products/pf/agp/content h2="XLTM को C++ के माध्यम से स्प्रेडशीटएमएल में कैसे परिवर्तित करें" %}}
 
@@ -49,8 +49,8 @@ XLTM फ़ाइलों को प्रोग्रामेटिक रू
 
 1.  'Aspose.Cells for C++' इंस्टॉल करें।
 1.  अपने C++ प्रोजेक्ट में एक लाइब्रेरी संदर्भ जोड़ें (लाइब्रेरी आयात करें)।
-1.  फ़ैक्टरी::CreateIWorkbook का उपयोग करके XLTM फ़ाइल लोड करें।
-1. Save() विधि को कॉल करके XLTM को स्प्रेडशीटएमएल में कनवर्ट करें।
+1.  वर्कबुक का उपयोग करके XLTM फ़ाइल लोड करें।
+1.  Save() विधि को कॉल करके XLTM को स्प्रेडशीटएमएल में कनवर्ट करें।
 1.  XLTM का स्प्रेडशीटएमएल में रूपांतरण परिणाम प्राप्त करें।
 
 {{% /blocks/products/pf/agp/content %}}
@@ -101,7 +101,6 @@ XLTM फ़ाइलों को प्रोग्रामेटिक रू
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xltm-to-pdf/" name="XLTM से PDF तक" description="संवहन दस्तावेज़ स्वरूप" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xltm-to-png/" name="XLTM से PNG तक" description="पोर्टेबल नेटवर्क ग्राफ़िक्स" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xltm-to-svg/" name="XLTM से SVG तक" description="स्केलेबल वेक्टर ग्राफिक्स" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xltm-to-tiff/" name="XLTM से TIFF तक" description="टैग किया गया छवि प्रारूप" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xltm-to-tsv/" name="XLTM से TSV तक" description="टैब-पृथक मान" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xltm-to-txt/" name="XLTM से TXT तक" description="सामग्री या लेख दस्तावेज़" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xltm-to-xls/" name="XLTM से XLS तक" description="एक्सेल बाइनरी फॉर्मेट" >}}

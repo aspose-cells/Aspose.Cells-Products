@@ -1,7 +1,7 @@
 ---
-title: Python स्प्रेडशीटएमएल से एमएचटी - ऑनलाइन स्प्रेडशीटएमएल से एमएचटी कनवर्टर
-description: Aspose एक्सेल। Python Aspose.Cells. Python Aspose Cells. मुफ़्त ऑनलाइन Python स्प्रेडशीटएमएल को एमएचटी सेवफॉर्मेट में कनवर्ट करें। Python स्प्रेडशीटएमएल से एमएचटी प्रारूप। स्प्रेडशीटएमएल को एमएचटी Python पर सहेजें।
-keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python SPREADSHEETML to MHT saveformat., Free Online SPREADSHEETML to MHT Python., Python Convert SPREADSHEETML to MHT]
+title: Python स्प्रेडशीटएमएल से एमएचटी - स्प्रेडशीटएमएल से एमएचटी कनवर्टर
+description: Aspose एक्सेल। Aspose.Cells के साथ जल्दी और आसानी से स्प्रेडशीटएमएल को एमएचटी में बदलें। Python स्प्रेडशीटएमएल को एमएचटी में बदलें। Python स्प्रेडशीटएमएल को एमएचटी में सहेजें। Python का उपयोग करके स्प्रेडशीटएमएल को एमएचटी के रूप में सहेजें।
+keywords: [Aspose Excel., Python Aspose.Cells., Convert SPREADSHEETML to MHT in Python., Save SPREADSHEETML to MHT using Python., Python SPREADSHEETML to MHT saveformat., SPREADSHEETML to MHT Converter., Python Save SPREADSHEETML as MHT]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Python में स्प्रेडशीटएमएल को एमएचटी में बदलें" h2="स्प्रेडशीटएमएल को एमएचटी में परिवर्तित करने के लिए हाई-स्पीड Python लाइब्रेरी। Python में उच्च-स्तरीय, प्लेटफ़ॉर्म स्वतंत्र सॉफ़्टवेयर विकसित करने के लिए हमारे एक्सेल रूपांतरण API का उपयोग करें।" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="MHT" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,12 +12,12 @@ keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python SPR
 
 {{% blocks/products/pf/agp/content h2="Python में स्प्रेडशीटएमएल को एमएचटी में बदलें" %}}
 
- मैं स्प्रेडशीटएमएल को एमएचटी में कैसे परिवर्तित करूं? NET लाइब्रेरी के माध्यम से Aspose.Cells for Python के साथ, आप कोड की कुछ पंक्तियों के साथ आसानी से स्प्रेडशीटएमएल को प्रोग्रामेटिक रूप से एमएचटी में परिवर्तित कर सकते हैं।[Aspose.Cells for Python वाया NET](https://pypi.org/project/aspose-cells-python/)सभी एक्सेल फ़ाइलों को उत्पन्न करने, संशोधित करने, परिवर्तित करने, प्रस्तुत करने और प्रिंट करने की क्षमता के साथ क्रॉस-प्लेटफ़ॉर्म एप्लिकेशन बनाने में सक्षम है। Python एक्सेल API न केवल स्प्रेडशीट प्रारूपों के बीच कनवर्ट कर सकता है, यह एक्सेल फाइलों को छवियों, PDF, HTML, ODS, CSV, SVG, JSON, वर्ड, पीपीटी और भी बहुत कुछ के रूप में प्रस्तुत कर सकता है, इस प्रकार यह एक्सचेंज के लिए एक आदर्श विकल्प बन जाता है। उद्योग-मानक में दस्तावेज़ प्रारूप.
+ मैं स्प्रेडशीटएमएल को एमएचटी में कैसे परिवर्तित करूं? NET लाइब्रेरी के माध्यम से Aspose.Cells for Python के साथ, आप कोड की कुछ पंक्तियों के साथ आसानी से स्प्रेडशीटएमएल को प्रोग्रामेटिक रूप से एमएचटी में परिवर्तित कर सकते हैं।[Aspose.Cells for Python वाया NET](https://pypi.org/project/aspose-cells-python/)सभी एक्सेल फ़ाइलों को उत्पन्न करने, संशोधित करने, परिवर्तित करने, प्रस्तुत करने और प्रिंट करने की क्षमता के साथ क्रॉस-प्लेटफ़ॉर्म एप्लिकेशन बनाने में सक्षम है। Python एक्सेल API न केवल स्प्रेडशीट प्रारूपों के बीच परिवर्तित होता है, बल्कि यह एक्सेल फाइलों को छवियों, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT और अधिक के रूप में भी प्रस्तुत कर सकता है, इस प्रकार यह उद्योग-मानक प्रारूपों में दस्तावेजों का आदान-प्रदान करने के लिए एक आदर्श विकल्प बन जाता है।
 
 {{% /blocks/products/pf/agp/content %}}
 
 
-{{% blocks/products/pf/agp/content h2="Python में स्प्रेडशीटएमएल को एमएचटी में निःशुल्क ऑनलाइन सहेजें" %}}
+{{% blocks/products/pf/agp/content h2="Python में स्प्रेडशीटएमएल को एमएचटी में सहेजें" %}}
 
 निम्नलिखित उदाहरण दर्शाता है कि Python via NET में SPREADSHEETML को MHT में कैसे परिवर्तित किया जाए।
 {{% blocks/products/pf/agp/text %}}
@@ -28,7 +28,7 @@ keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python SPR
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="स्प्रेडशीटएमएल को एमएचटी ऑनलाइन में बदलने के लिए निःशुल्क ऐप और नमूना कोड" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xml" outformat="mht" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="स्प्रेडशीटएमएल को एमएचटी में बदलने के लिए नमूना कोड" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xml" outformat="mht" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="स्प्रेडशीटएमएल को एमएचटी में कैसे बदलें" %}}
 
@@ -52,7 +52,7 @@ keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python SPR
 हम अपने Python पैकेजों को PyPi रिपॉजिटरी में होस्ट करते हैं।
 
 {{% blocks/products/pf/agp/text %}}
-Aspose.Cells for Python से इंस्टॉल करें<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , कमांड का उपयोग इस प्रकार करें:<code>$ pip install aspose-cells-python</code>.
+ Aspose.Cells for Python से इंस्टॉल करें<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , कमांड का उपयोग इस प्रकार करें:<code>$ pip install aspose-cells-python</code>.
 {{% /blocks/products/pf/agp/text %}}
 
 {{% blocks/products/pf/agp/text %}}
@@ -73,7 +73,7 @@ Aspose.Cells for Python से इंस्टॉल करें<a href="https:
 <!-- aboutfile Starts -->
     {{< blocks/products/pf/agp/about-file-section >}}
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="SPREADSHEETML" readMoreLink="https://docs.fileformat.com/web/xml/" >}}XML का मतलब एक्स्टेंसिबल मार्कअप लैंग्वेज है जो HTML के समान है लेकिन ऑब्जेक्ट को परिभाषित करने के लिए टैग का उपयोग करने में भिन्न है। XML फ़ाइल स्वरूप के निर्माण के पीछे का पूरा विचार सॉफ़्टवेयर या हार्डवेयर टूल पर निर्भर हुए बिना डेटा को संग्रहीत और परिवहन करना था। इसकी लोकप्रियता इसके मानव और मशीन दोनों द्वारा पठनीय होने के कारण है। यह इसे वर्ल्ड वाइड वेब (डब्ल्यूडब्ल्यूडब्ल्यू) जैसे नेटवर्क पर संग्रहीत और साझा किए जाने वाले ऑब्जेक्ट के रूप में सामान्य डेटा प्रोटोकॉल बनाने में सक्षम बनाता है। XML में "X" एक्स्टेंसिबल के लिए है जिसका अर्थ है कि भाषा को उपयोगकर्ता की आवश्यकताओं के अनुसार किसी भी संख्या में प्रतीकों तक बढ़ाया जा सकता है। यह इन सुविधाओं के लिए है कि कई मानक फ़ाइल प्रारूप इसका उपयोग करते हैं जैसे Microsoft ओपन एक्सएमएल, लिबरऑफिस ओपनडॉक्यूमेंट, एक्सएचटीएमएल और SVG।{{< /blocks/products/pf/agp/i18n/about-file-text >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="MHT" readMoreLink="https://docs.fileformat.com/web/mht/" >}}.mht एक्सटेंशन वाली फ़ाइल एक MIME सक्षम संग्रह फ़ाइल स्वरूप है जिसमें एक ही फ़ाइल में विभिन्न प्रकार के डेटा शामिल होते हैं। यह सीएसएस फाइलों, जावास्क्रिप्ट और अन्य संसाधनों के रूप में पाठ, छवियों, पेज स्टाइल जैसे डेटा को इसमें एम्बेडेड संसाधनों के रूप में संग्रहीत कर सकता है। MIME प्रकार संदेश/rfc822 वाली MHT फ़ाइलें, भंडारण उपकरणों पर संग्रहित करने के लिए HTML फ़ाइल की सभी सामग्री को एकल संग्रह फ़ाइल के रूप में समाहित करती हैं। Microsoft वर्ड जैसे सॉफ़्टवेयर एप्लिकेशन आपको एमएचटी फ़ाइल के रूप में निर्यात करके अपने वर्ड दस्तावेज़ों को एमएचटी में परिवर्तित करने की सुविधा देते हैं। एमएचटी फ़ाइलें Microsoft इंटरनेट एक्सप्लोर और Google क्रोम जैसे लोकप्रिय ब्राउज़रों का उपयोग करके खोली जा सकती हैं।{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="MHT" readMoreLink="https://docs.fileformat.com/web/mht/" >}}.mht एक्सटेंशन वाली फ़ाइल एक MIME सक्षम संग्रह फ़ाइल स्वरूप है जिसमें एक ही फ़ाइल में विभिन्न प्रकार के डेटा शामिल होते हैं। यह सीएसएस फाइलों, जावास्क्रिप्ट और अन्य संसाधनों के रूप में पाठ, छवियों, पेज स्टाइल जैसे डेटा को इसमें एम्बेडेड संसाधनों के रूप में संग्रहीत कर सकता है। MIME प्रकार संदेश/rfc822 वाली MHT फ़ाइलें, भंडारण उपकरणों पर संग्रहित करने के लिए HTML फ़ाइल की सभी सामग्री को एकल संग्रह फ़ाइल के रूप में समाहित करती हैं। Microsoft वर्ड जैसे सॉफ़्टवेयर एप्लिकेशन आपको एमएचटी फ़ाइल के रूप में निर्यात करके अपने WORD दस्तावेज़ों को एमएचटी में बदलने की सुविधा देते हैं। एमएचटी फ़ाइलें Microsoft इंटरनेट एक्सप्लोर और Google क्रोम जैसे लोकप्रिय ब्राउज़रों का उपयोग करके खोली जा सकती हैं।{{< /blocks/products/pf/agp/i18n/about-file-text >}}
     {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->
 

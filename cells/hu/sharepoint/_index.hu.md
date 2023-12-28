@@ -50,7 +50,7 @@ description: Aspose.Cells for SharePoint Az alkalmazás egy SharePoint Excel-tá
    </header>
    <ul>
     <li>
-Mentés almappákba
+ Mentés almappákba
     </li>
     <li>
  Fájl összefűzése
@@ -154,7 +154,7 @@ Mentés almappákba
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Támogatott fájlformátumok" description=" Aspose.Cells for SharePoint számos népszerű táblázatformátumot támogat, a PDF, HTML és egyéb[fájlformátumok](https://docs.aspose.com/cells/sharepoint/supported-file-formats/)." >}}
+{{< blocks/products/pf/carousel-item h3="Támogatott fájlformátumok" description="Aspose.Cells for SharePoint számos népszerű táblázatformátumot támogat, a PDF, HTML és egyéb[fájlformátumok](https://docs.aspose.com/cells/sharepoint/supported-file-formats/)." >}}
 <div class="diagram1 d2 d1-sharepoint">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -263,7 +263,7 @@ Mentés almappákba
  Fájlok összefűzése az átalakítás során
     </h2>
     <p>
-Aspose.Cells A for SharePoint lehetővé teszi a különböző formátumú fájlok egyetlen dokumentumban történő kombinálását. Ezenkívül a listában felfelé vagy lefelé mozgathatja a dokumentumokat, és beállíthatja, hogy milyen sorrendben szeretné egyesíteni a dokumentumokat.
+ Aspose.Cells A for SharePoint lehetővé teszi a különböző formátumú fájlok egyetlen dokumentumban történő kombinálását. Ezenkívül a listában felfelé vagy lefelé mozgathatja a dokumentumokat, és beállíthatja, hogy milyen sorrendben szeretné egyesíteni a dokumentumokat.
     </p>
    </div>
    <div class="col-lg-12">
@@ -271,7 +271,7 @@ Aspose.Cells A for SharePoint lehetővé teszi a különböző formátumú fájl
  Fájlok konvertálása az almappákban
     </h2>
     <p>
- Aspose.Cells for SharePoint megkönnyíti az átalakítási folyamatot azáltal, hogy rekurzív módon konvertálja az összes dokumentumot és almappát egy kiválasztott mappa alatt. A meglévő almappa-struktúra a célmappában jön létre.
+Aspose.Cells for SharePoint megkönnyíti az átalakítási folyamatot azáltal, hogy rekurzív módon konvertálja az összes dokumentumot és almappát egy kiválasztott mappa alatt. A meglévő almappa-struktúra a célmappában jön létre.
     </p>
    </div>
    <div class="col-lg-12">
@@ -287,7 +287,7 @@ Aspose.Cells A for SharePoint lehetővé teszi a különböző formátumú fájl
  Lépjen kapcsolatba a API-es számmal
     </h2>
     <p>
- belső SharePoint megoldásokkal rendelkező fejlesztők használhatják a Aspose.Cells for SharePoint dokumentumkonverziós motorját a nyilvános API számon keresztül. Programozott hozzáférést biztosít az összes támogatott formátumhoz és átalakítási lehetőséghez.
+ A belső SharePoint megoldásokkal rendelkező fejlesztők használhatják a Aspose.Cells for SharePoint dokumentumkonverziós motorját a nyilvános API számon keresztül. Programozott hozzáférést biztosít az összes támogatott formátumhoz és átalakítási lehetőséghez.
     </p>
    </div>
    <div class="col-lg-12">
@@ -295,7 +295,7 @@ Aspose.Cells A for SharePoint lehetővé teszi a különböző formátumú fájl
  Microsoft Excel automatizálás – nem szükséges
     </h2>
     <p>
- A Aspose.Cells for SharePoint felügyelt kóddal készült, amelynek soha nem kell telepítenie a Microsoft Excelt a gépre ahhoz, hogy működjön az Excel formátum konvertálása. Ez egy tökéletes Microsoft Excel automatizálási alternatíva a támogatott funkciók, biztonság, stabilitás, méretezhetőség, sebesség és ár szempontjából.
+ Aspose.Cells for SharePoint felügyelt kóddal készült, amelynek soha nem kell telepítenie a Microsoft Excelt a gépre ahhoz, hogy működjön az Excel formátum konvertálása. Ez egy tökéletes Microsoft Excel automatizálási alternatíva a támogatott funkciók, biztonság, stabilitás, méretezhetőség, sebesség és ár szempontjából.
     </p>
    </div>
   </div>

@@ -2,6 +2,7 @@
 title:  Keresés a XLSX dokumentumban megnyitás nélkül a C++ számon keresztül
 weight: 9280
 description: C++ példakód a XLSX fájl C++ futásidejű környezetének XLSX 32 bites, Windows 64 bites, Windows 64 bites és Linux 64 bites XLSX fájljában.
+keywords: [C++ Aspose.Cells., C++ search words with pattern in XLSX file., C++ find words with pattern in XLSX file., C++ search string with pattern in XLSX file., C++ find words with pattern in XLSX file., C++ search words in excel file., C++ find words in excel file., C++ search string in excel file., C++ find string in excel file]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Keresés: XLSX Formátumok a C++-ben" h2="Natív és nagy teljesítményű XLSX dokumentumkeresés szerveroldali Aspose.Cells for C++ API-kkal, olyan szoftverek használata nélkül, mint a Microsoft vagy az Adobe PDF." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" sourceAdditionalConversionTag="" additionalConversionTag="" pfName="Aspose.Cells" subTitlepfName="for C++" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="XLSX" >}}
@@ -41,11 +42,11 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/text %}}
 
-Töltse be a XLSX fájlt egy IWorkbook osztály példányosításával.
-+ IReplaceOptions osztály példányosítása.
++ A XLSX fájl betöltése munkafüzet osztály létrehozásával.
++ Példányos ReplaceOptions osztály.
 + Állítsa be a szükséges mintát, például SetCaseSensitive(bool érték), SetMatchEntireCellContents(bool érték).
-+ Használja az IWorkbook->Replace(..) metódust a megfelelő opciókkal.
-+ Mentse a XLSX fájlt az IWorkbook->Save(.) metódussal.
+Munkafüzet::Csere(...) metódus használata a megfelelő opciókkal.
++ Mentse a XLSX fájlt a Workbook::Save(...) metódussal.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -66,29 +67,33 @@ Töltse be a XLSX fájlt egy IWorkbook osztály példányosításával.
 
 ```cs
 
+Aspose::Cells::Startup();
+
 // Source directory path.
-StringPtr srcDir = new String("SourcePath\\");
+U16String srcDir(u"SourcePath\\");
 
 // Output directory path.
-StringPtr outDir = new String("OutputPath\\");
+U16String outDir(u"OutputPath\\");
 
 // Load XLSX file
-intrusive_ptr<IWorkbook>  wkb = Factory::CreateIWorkbook(srcDir->StringAppend(new String("sourceFile.xlsx")));
+Workbook  wkb(srcDir + u"sourceFile.xlsx");
 
 // Create an instance of the IReplaceOptions class
-intrusive_ptr<IReplaceOptions> replaceOptions = Factory::CreateIReplaceOptions();
+ReplaceOptions replaceOptions;
 
 // Set case sensitivity option
-replaceOptions->SetCaseSensitive(false);
+replaceOptions.SetCaseSensitive(false);
 
 // Set text matching option
-replaceOptions->SetMatchEntireCellContents(false);
+replaceOptions.SetMatchEntireCellContents(false);
 
 // Replace text
-wkb->Replace(new String("Text to find"), new String("Text replacement"), replaceOptions);
+wkb.Replace(u"Text to find", u"Text replacement", replaceOptions);
 
 // Save as XLSX file
-wkb->Save(outDir->StringAppend(new String("outputFile.xlsx")));  
+wkb.Save(outDir + u"outputFile.xlsx");
+
+Aspose::Cells::Cleanup();
 
 ```
 
@@ -119,7 +124,7 @@ wkb->Save(outDir->StringAppend(new String("outputFile.xlsx")));
     {{< /blocks/products/pf/agp/demobox >}}
 
     {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLSX " readMoreLink="https://docs.fileformat.com/spreadsheet/xlsx/" >}}
- XLSX a Microsoft Excel dokumentumok jól ismert formátuma, amelyet a Microsoft vezetett be a Microsoft Office 2007 kiadásával. Az OOXML szabvány 2. részében leírt nyílt csomagolási egyezmények szerint szervezett szerkezet alapján az új ECMA-376 formátum egy zip-csomag, amely számos XML-fájlt tartalmaz. Az alapul szolgáló struktúra és fájlok az .xlsx fájl egyszerű kicsomagolásával vizsgálhatók
+ A XLSX a Microsoft Excel dokumentumok jól ismert formátuma, amelyet a Microsoft vezetett be a Microsoft Office 2007 kiadásával. Az OOXML szabvány 2. részében leírt nyílt csomagolási egyezmények szerint szervezett szerkezet alapján az új ECMA-376 formátum egy zip-csomag, amely számos XML-fájlt tartalmaz. Az alapul szolgáló struktúra és fájlok az .xlsx fájl egyszerű kicsomagolásával vizsgálhatók
 
     {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 

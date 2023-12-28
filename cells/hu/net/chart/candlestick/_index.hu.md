@@ -1,6 +1,7 @@
 ---
 title: Hozzon létre gyertyatartó diagramokat a C# telefonszámon
 description: C# Mintakód Candlestick (Open-High-Low-Close Stock) diagramok készítéséhez Excelben a .NET Library használatával. Ezzel a kóddal készíthet gyertyadiagramot az MS Excelhez a VB.NET, Asp.NET vagy bármely .NET alapú alkalmazáson belül.
+keywords: [C# Aspose.Cells., c# add Candlestick Chart., c# insert Candlestick Chart., c# create Candlestick Chart]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
@@ -18,7 +19,7 @@ Az Open-High-Low-Close (OHLC) diagram öt adatoszlopot használ sorrendben: kate
 
 {{% blocks/products/pf/agp/text %}}
 
-fejlesztők könnyen létrehozhatnak egy gyertyatartó diagramot a különböző adatfeldolgozási alkalmazások futtatásában, mindössze néhány sornyi kóddal.
+A fejlesztők könnyen létrehozhatnak egy gyertyatartó diagramot a különböző adatfeldolgozási alkalmazások futtatásában, mindössze néhány sornyi kóddal.
 
 {{% /blocks/products/pf/agp/text %}}
 

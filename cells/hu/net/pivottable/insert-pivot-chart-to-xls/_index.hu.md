@@ -1,7 +1,8 @@
 ---
 title: Pivot diagram beszúrása a Micorsoft Excel XLS fájlokban a C# számon keresztül
 weight: 7690
-description: C# Mintakód a XLS számú dokumentumok előállításához pivot diagrammal. Használja ezt a kódot a VB.NET, Asp.NET vagy bármely .NET alapú alkalmazáson belüli pivot diagrammal rendelkező Micorsoft Excel XLS fájlok létrehozásához.
+description: C# Mintakód a kimutatásdiagram XLS-hez való hozzáadásához a .NET könyvtár használatával. Használja ezt a kódot a kimutatásdiagram beszúrásához a XLS fájlba VB.NET, Asp.NET vagy bármely .NET alapú alkalmazáson belül.
+keywords: [C# Aspose.Cells., c# add pivot chart in xls., c# insert pivot chart in xls., c# create pivot chart in xls., c# modify pivot chart in xls., access pivot chart in xls]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Pivot diagram beszúrása a XLS dokumentumokba a C#-en keresztül" h2="Natív és nagy teljesítményű Microsoft Excel XLS táblázat Kimutatásdiagram-készítéssel programozottan, szerveroldali .NET API-k használatával." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLS" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLS" >}}
@@ -11,9 +12,7 @@ description: C# Mintakód a XLS számú dokumentumok előállításához pivot d
 
 {{% blocks/products/pf/agp/content h2="" %}}
 
- Az MS Excel XLS fájl dinamikus előállítása a Pivot Chart segítségével a futó alkalmazáson belül egyszerű. A XLS számú dokumentumok Pivot Chart segítségével történő létrehozásához a semmiből, MS Office használata nélkül,
- [Aspose.Cells for .NET](https://products.aspose.com/cells/net) 
- API, amely különböző funkciókat kínál a táblázatok létrehozásához, kezeléséhez és konvertálásához a .NET platformon. A fejlesztők egyszerűen javíthatják a kódot az adatok írásához, diagramok vagy grafikonok generálásához, valamint táblázatok készítéséhez.
+ Az MS Excel XLS fájl dinamikus előállítása a Pivot Chart segítségével a futó alkalmazáson belül egyszerű. A XLS számú dokumentumok Pivot Chart segítségével történő létrehozásához a semmiből, MS Office használata nélkül,[Aspose.Cells for .NET](https://products.aspose.com/cells/net) API, amely különböző funkciókat kínál a táblázatok létrehozásához, kezeléséhez és konvertálásához a .NET platformon. A fejlesztők egyszerűen javíthatják a kódot az adatok írásához, diagramok vagy grafikonok generálásához, valamint táblázatok készítéséhez.
 {{% /blocks/products/pf/agp/content %}}
 
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
@@ -32,7 +31,7 @@ description: C# Mintakód a XLS számú dokumentumok előállításához pivot d
 1.  Szerezze meg a munkalap kívánt celláit, és írja be az értéket a cellákba.
 1.  Helyezze be a PivotTable-t, és állítsa be a stílust
 1.  Szúrjon be Pivot diagramot a kimutatás adataival
-1.  Mentés módszerrel mentheti a munkafüzetet XLS fájlként.
+1.  A Mentés módszerrel mentheti a munkafüzetet XLS fájlként.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -40,7 +39,7 @@ description: C# Mintakód a XLS számú dokumentumok előállításához pivot d
 
 {{% blocks/products/pf/agp/text %}}
 
- Csak győződjön meg arról, hogy a rendszer Microsoft Windows vagy kompatibilis operációs rendszerrel rendelkezik .NET Framework, .NET Core, Windows Azure, Mono vagy Xamarin Platformokkal, valamint Visu71616340-hoz hasonló fejlesztői környezettel.
+Csak győződjön meg arról, hogy a rendszer Microsoft Windows vagy kompatibilis operációs rendszerrel rendelkezik .NET Framework, .NET Core, Windows Azure, Mono vagy Xamarin Platformokkal, valamint Visu71616340-hoz hasonló fejlesztői környezettel.
 
 {{% /blocks/products/pf/agp/text %}}
 

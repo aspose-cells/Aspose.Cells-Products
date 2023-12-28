@@ -2,6 +2,7 @@
 title: Megjegyzések beszúrása a XLSB-es fájlhoz a Python-en keresztül
 url: /hu/python-java/comments/insert-comments-to-xlsb/ 
 description: Megjegyzések beszúrása a XLSB számra a Python használatával. Használja a API példakódot megjegyzések beszúrásához a Python alkalmazáson belül.
+keywords: [Python Aspose.Cells., add XLSB comments., insert XLSB comments., access XLSB comments., remove XLSB comments., delete XLSB comments., add comments in XLSB., insert comments in XLSB., access comments in XLSB., remove comments in XLSB., delete comments in XLSB]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Megjegyzések beszúrása a XLSB-es fájlba a Python-en keresztül" h2="Készítse el saját Python alkalmazását a dokumentumfájlok megjegyzéseinek és szerzőinek manipulálásához szerveroldali API-k segítségével." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSB" pfName="Aspose.Cells" subTitlepfName="for Python" downloadUrl="" fileiconsmall1="XLS" fileiconsmall2="XLSB" fileiconsmall3="XLSX" fileiconsmall4="XLSM" fileiconsmall5="ODS" >}}
@@ -11,7 +12,7 @@ description: Megjegyzések beszúrása a XLSB számra a Python használatával. 
 
 {{% blocks/products/pf/agp/content h2="Megjegyzések beszúrása a XLSB fájlba a Python használatával" %}}
 
- A Aspose.Cells for Python könyvtárral egyszerűen, néhány soros kóddal programozottan illeszthet be megjegyzéseket a XLSB fájlba.[Aspose.Cells for Python](https://pypi.org/project/aspose-cells) képes többplatformos alkalmazásokat létrehozni, módosítani, konvertálni, renderelni és kinyomtatni az összes Excel fájlt. Python Excel API nem csak a táblázatformátumok között konvertál, hanem Excel fájlokat is képes megjeleníteni képként, PDF, HTML, ODS, CSV, CSV, CSV, CSV, CSV, CSV, SVG, és így tovább, SVG P, 8 PT a választás,3,8 ipari szabvány szerinti dokumentumok cseréjére formátumok. A Aspose.Cells for Python címet innen telepítheti<a href="https://pypi.org/project/aspose-cells/">pypi</a> , használja a parancsot a következőképpen:<code>$ pip install aspose-cells</code>.
+ A Aspose.Cells for Python könyvtárral egyszerűen, néhány soros kóddal programozottan illeszthet be megjegyzéseket a XLSB fájlba.[Aspose.Cells for Python](https://pypi.org/project/aspose-cells) képes többplatformos alkalmazásokat létrehozni, módosítani, konvertálni, renderelni és kinyomtatni az összes Excel fájlt. Python Az Excel API nemcsak a táblázatformátumok között konvertál, hanem Excel-fájlokat is képes megjeleníteni képként, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT és egyebekként, így tökéletes választás a szabványos formátumú dokumentumok cseréjéhez. Telepítheti a Aspose.Cells for Python via Java számot innen<a href="https://pypi.org/project/aspose-cells/">pypi</a> , használja a parancsot a következőképpen:<code>$ pip install aspose-cells</code>.
 
 
 {{% /blocks/products/pf/agp/content %}}
@@ -26,7 +27,7 @@ description: Megjegyzések beszúrása a XLSB számra a Python használatával. 
 
 -  Telepítse a Java 1.8-as vagy újabb verziót, és adja hozzá a PATH környezeti változóhoz, például:<code>PATH=C:\Program Files\Java\jdk1.8.0_131;</code>.
 -  Telepítés[Python](https://www.python.org/downloads/) 3,5 vagy magasabb.
-- Telepítés: Aspose.Cells for Python innen<a href="https://pypi.org/project/aspose-cells/">pypi</a> , használja a parancsot a következőképpen:<code>$ pip install aspose-cells</code>.
+-  Telepítés: Aspose.Cells for Python innen<a href="https://pypi.org/project/aspose-cells/">pypi</a> , használja a parancsot a következőképpen:<code>$ pip install aspose-cells</code>.
 
 
 {{% /blocks/products/pf/agp/content %}}

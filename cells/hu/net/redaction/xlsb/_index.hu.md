@@ -2,6 +2,7 @@
 title:  Szöveg keresése és cseréje a XLSB via .NET dokumentumban
 weight: 3890
 description: C# forráskód a XLSB fájl érzékeny információinak törléséhez a .NET Framework, .NET Core, Mono vagy a Xamarin platformokon.
+keywords: [C# Aspose.Cells., c# Search and replace text in XLSB file., c# redact XLSB file., c# edit XLSB file., c# XLSB file redaction., c# Search and replace string in XLSB file]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Szerkesztés XLSB Formátumok C#-ben" h2="Natív és nagy teljesítményű XLSB dokumentumérzékeny szerkesztési információk szerveroldali Aspose.Cells for .NET API-k használatával, olyan szoftverek használata nélkül, mint a Microsoft vagy az Adobe PDF." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="XLSB" >}}
@@ -48,7 +49,7 @@ PM> Install-Package Aspose.Cells
 + FindOptions objektum létrehozása.
 + Keresési beállítások megadása
 + Lapozzon végig minden cellán, és használja a Keresés módszert.
-Mentse el a munkafüzetet.
++ Mentse el a munkafüzetet.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -121,7 +122,7 @@ wb.Save("e:\test2\output.xlsb");
             {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Nem kell letölteni a Aspose API számot." >}}
             {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Nem kell kódot írni." >}}
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Csak töltse fel a XLSB fájlokat." >}}
-            {{< blocks/products/pf/agp/democard icon="fa-download" text=" Azonnal szerkesztve lesz." >}}
+            {{< blocks/products/pf/agp/democard icon="fa-download" text="Azonnal szerkesztve lesz." >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLSB" readMoreLink="https://docs.fileformat.com/spreadsheet/xlsb/" >}}
  XLSB fájlformátum az Excel bináris fájlformátumát határozza meg, amely az Excel-munkafüzet tartalmát meghatározó rekordok és struktúrák gyűjteménye. A tartalom tartalmazhat strukturálatlan vagy félig strukturált számtáblázatokat, szöveget, vagy számokat és szöveget egyaránt, képleteket, külső adatkapcsolatokat, diagramokat és képeket. A XLSX-től eltérően (amely Open XML fájlformátumon alapul), a XLSB bináris Excel-munkafüzetfájlt jelöl. A XLSB fájlok gyorsabban olvashatók és írhatók, ami hasznossá teszi őket a nagy fájlokkal való munka során. A XLSB-et ritkán használják munkafüzetek tárolására, mivel a XLSX (és korábban a XLS) a felhasználók által leggyakrabban kiválasztott fájlformátumok munkafüzetek mentésére. Megnyitható: Microsoft Office 2007 és újabb.

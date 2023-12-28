@@ -2,6 +2,7 @@
 title:  Jelentések generálása XLSB fájlokban via Java
 weight: 3560
 description: Java mintakód a XLSB formátumú jelentések létrehozásához a Java futási környezet JSP/JSF alkalmazásokhoz és asztali alkalmazásokhoz.
+keywords: [Java Aspose.Cells., Java Create XLSB Reports Based on Predesigned Excel Template., Java Generate XLSB Reports Based on Predesigned Excel Template., Java Create XLSB Reports Based on Excel Template., Java Generate XLSB Reports Based on Excel Template., Java Create XLSB files Based on Excel Template., Java Generate XLSB files Based on Excel Template]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Tömeges jelentéskészítés XLSB via Java formátumban" h2="Jelentések létrehozása XLSB formátumban adatforrás és sablon használatával." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSB" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSB" >}}
@@ -75,9 +76,9 @@ description: Java mintakód a XLSB formátumú jelentések létrehozásához a J
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Excel-jelentések létrehozása XLSB formátumban - C#" offSpacer="" %}}
+{{% blocks/products/pf/agp/code-block title="Excel-jelentések létrehozása XLSB formátumban - Java" offSpacer="" %}}
 
-```cs
+```java
 //Create a workbook designer
 WorkbookDesigner designer = new WorkbookDesigner(workbook);
 

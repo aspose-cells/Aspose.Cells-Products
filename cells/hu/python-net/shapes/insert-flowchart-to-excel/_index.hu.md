@@ -2,6 +2,7 @@
 title: Folyamatábra beszúrása/készítése az Excelbe a Python via .Net használatával
 weight: 360
 description: Python via .Net forráskód folyamatábra beszúrásához/létrehozásához Excelbe.
+keywords: [Python Aspose.Cells., Python add FlowChart., Python insert FlowChart., Python create FlowChart]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Folyamatábra beszúrása/készítése az Excelbe a Python via .Net használatával" h2="Folyamatábra beszúrása / létrehozása a Aspose.Cells\' API használatával szoftver nélkül, például Microsoft vagy Open Office, Adobe PDF stb." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="" pfName="Aspose.Cells" subTitlepfName="for Python via .NET" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="XLSX" >}}
@@ -13,7 +14,7 @@ description: Python via .Net forráskód folyamatábra beszúrásához/létrehoz
 
  Folyamatábra excel fájlba történő beszúrásához/létrehozásához használjuk
  [Aspose.Cells for Python a .Neten keresztül](https://pypi.org/project/aspose-cells-python/) 
-API, amely funkciókban gazdag, hatékony és könnyen használható dokumentumkezelés API for Python .Net platformon keresztül. A API Excel-fájlok létrehozását, kezelését, konvertálását és megjelenítését biztosítja. Mindezt anélkül, hogy a Microsoft Office- vagy Excel-alkalmazásokra hagyatkozna. A következő paranccsal telepítheti a konzolról.
+ API, amely funkciókban gazdag, hatékony és könnyen használható dokumentumkezelés API for Python .Net platformon keresztül. A API Excel-fájlok létrehozását, kezelését, konvertálását és megjelenítését biztosítja. Mindezt anélkül, hogy a Microsoft Office- vagy Excel-alkalmazásokra hagyatkozna. A következő paranccsal telepítheti a konzolról.
 
 {{% blocks/products/pf/agp/code-block title="Parancs" offSpacer="true" %}}
 
@@ -37,9 +38,9 @@ Szüksége van a Aspose.Cells-es számra a következő munkafolyamat kipróbál�
 
 {{% /blocks/products/pf/agp/text %}}
 
-Munkafüzet objektum példányosítása. (vagy->Töltse be a XLSX fájlt a teljes elérési úttal.)
++ Munkafüzet objektum példányosítása. (vagy->Töltse be a XLSX fájlt a teljes elérési úttal.)
 + Válassza ki a munkalapot az indexén keresztül.
- + Használja az alakgyűjtemény hozzáadását[módszer](https://reference.aspose.com/cells/python-net/aspose.cells.drawing/shapecollection/add_auto_shape/#AutoShapeType-int-int-int-int-int-int)folyamatábra beszúrásához a kiválasztott munkalapba.
+ + Használja az alakgyűjtemény hozzáadását[módszer](https://reference.aspose.com/cells/python-net/aspose.cells.drawing/shapecollection/add_auto_shape/#AutoShapeType-int-int-int-int-int-int) folyamatábra beszúrásához a kiválasztott munkalapba.
 + Mentse a munkafüzetet XLSX formátumban.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
@@ -256,7 +257,7 @@ Az alábbi mintakód bemutatja, hogyan kell beszúrni egy „többdokumentumot�
 
 {{% blocks/products/pf/agp/content h2="Körülbelül Aspose.Cells for Python via .NET API" %}}
 
- Aspose.Cells API használható Microsoft Excel formátumok létrehozására, szerkesztésére, konvertálására és renderelésére különböző formátumokba. Ezen túlmenően használható átfogó diagramok készítésére, skálázható jelentésekre és megbízható számításokra a szoftveralkalmazásokon belül. A Aspose.Cells egy önálló API, és nem igényel olyan szoftvert, mint a Microsoft vagy az OpenOffice.
+Aspose.Cells API használható Microsoft Excel formátumok létrehozására, szerkesztésére, konvertálására és renderelésére különböző formátumokba. Ezen túlmenően használható átfogó diagramok készítésére, skálázható jelentésekre és megbízható számításokra a szoftveralkalmazásokon belül. A Aspose.Cells egy önálló API, és nem igényel olyan szoftvert, mint a Microsoft vagy az OpenOffice.
 
 {{% /blocks/products/pf/agp/content %}}
 

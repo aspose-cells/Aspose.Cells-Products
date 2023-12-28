@@ -2,6 +2,7 @@
 title: एक्सेल via Java में ब्लॉक एरो डालें
 weight: 338
 description: Aspose.Cells' Java API का उपयोग करके ऑब्जेक्ट सम्मिलित करें बिना किसी सॉफ़्टवेयर जैसे Microsoft या ओपन ऑफिस, एडोब PDF इत्यादि के बिना।
+keywords: [Java Aspose.Cells., Java add block arrows., Java insert block arrows., Java create block arrows]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="एक्सेल via Java में ब्लॉक एरो डालें" h2="Microsoft या ओपन ऑफिस, एडोब PDF आदि जैसे किसी सॉफ्टवेयर के बिना Aspose.Cells\' API का उपयोग करके ब्लॉक एरो डालें।" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSX" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="" fileiconsmall1="PPTX" fileiconsmall2="DOCX" fileiconsmall3="XLSX" fileiconsmall4="PDF" fileiconsmall5=" ODP " >}}
@@ -11,7 +12,7 @@ description: Aspose.Cells' Java API का उपयोग करके ऑब�
 
 {{% blocks/products/pf/agp/content h2="Java का उपयोग करके एक्सेल फ़ाइल में ब्लॉक एरो कैसे डालें" %}}
 
-एक्सेल फ़ाइल में ब्लॉक एरो सम्मिलित करने के लिए, हम इसका उपयोग करेंगे
+ एक्सेल फ़ाइल में ब्लॉक एरो सम्मिलित करने के लिए, हम इसका उपयोग करेंगे
  [Aspose.Cells for Java](https://products.aspose.com/cells/java) 
  API जो एक सुविधा संपन्न, शक्तिशाली और उपयोग में आसान API for Java प्लेटफॉर्म है। आप इसका नवीनतम संस्करण सीधे यहां से डाउनलोड कर सकते हैं
  [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) 
@@ -56,7 +57,7 @@ description: Aspose.Cells' Java API का उपयोग करके ऑब�
 
 {{% /blocks/products/pf/agp/text %}}
 
-वर्कबुक ऑब्जेक्ट को इंस्टेंट करना। (या->XLSX फ़ाइल को पूर्ण पथ के साथ लोड करें।)
++ वर्कबुक ऑब्जेक्ट को इंस्टेंट करना। (या->XLSX फ़ाइल को पूर्ण पथ के साथ लोड करें।)
 + इसके सूचकांक के माध्यम से वर्कशीट का चयन करें।
  + का प्रयोग करें[विधि जोड़ें](https://reference.aspose.com/cells/java/com.aspose.cells/shapecollection/#addAutoShape-int-int-int-int-int-int-int-) चयनित वर्कशीट में ब्लॉक एरो सम्मिलित करने के लिए
 + कार्यपुस्तिका को XLSX प्रारूप में सहेजें।
@@ -151,7 +152,7 @@ description: Aspose.Cells' Java API का उपयोग करके ऑब�
    <div class="col-lg-4">
     <img src="/cells/net/shapes/insert-block-arrows-to-excel/arrow_uturn.png" align="left" width="28" height="28">
     <p class="col-lg-10" style="font-size:0.8rem !important;">
- ऑटोशेपटाइप.U_TURN_ARROW
+ऑटोशेपटाइप.U_TURN_ARROW
     </p>
    </div>
    <div class="col-lg-4">
@@ -217,7 +218,7 @@ description: Aspose.Cells' Java API का उपयोग करके ऑब�
    <div class="col-lg-4">
     <img src="/cells/net/shapes/insert-block-arrows-to-excel/arrow_right_callout.png" align="left" width="28" height="28">
     <p class="col-lg-10" style="font-size:0.8rem !important;">
-ऑटोशेपटाइप.RIGHT_ARROW_CALLOUT
+ ऑटोशेपटाइप.RIGHT_ARROW_CALLOUT
     </p>
    </div>
    <div class="col-lg-4">

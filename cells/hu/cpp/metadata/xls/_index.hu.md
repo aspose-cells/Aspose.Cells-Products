@@ -2,6 +2,7 @@
 title:  Szerkessze vagy tekintse meg a XLS dokumentum metaadatait a C++ számon keresztül
 weight: 2150
 description: C++ példakód a XLS fájl metaadatainak szerkesztéséhez vagy megtekintéséhez a C++ Futókörnyezet Windows 32 bites, Windows 64 bites és 64 bites Linux számára.
+keywords: [C++ Aspose.Cells., C++ view xls metadata., C++ add xls metadata., C++ insert xls metadata., C++ edit xls metadata., C++ remove xls metadata., C++ extract xls metadata., C++ modify xls metadata]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="A XLS metaadatok kibontása a C++ számon keresztül" h2="Készítse el saját C++-es alkalmazásait a XLS fájlok metaadatok hozzáadásához, szerkesztéséhez, eltávolításához vagy kibontásához szerveroldali API-k segítségével." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLS" pfName="Aspose.Cells" subTitlepfName="for C++" downloadUrl="" fileiconsmall1="PPTX" fileiconsmall2="DOCX" fileiconsmall3="XLSX" fileiconsmall4="PDF" fileiconsmall5=" ODP " >}}
@@ -41,9 +42,9 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/text %}}
 
-+ Töltsön be XLS fájlt a CreateIWorkbookMetadata segítségével
-+ Hozzon létre beállításokat a CreateIMetadataOptions segítségével
-+ Új tulajdonságok hozzáadása a GetICustomDocumentProperties() és az AddIDocumentProperty segítségével
++ Hozzon létre beállításokat a MetadataOptions segítségével
++ Töltsön be XLS fájlt a WorkbookMetadata segítségével
++ Új tulajdonságok hozzáadása a GetCustomDocumentProperties() és Add segítségével
 + Mentse a XLS dokumentumot
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
@@ -65,10 +66,17 @@ PM> Install-Package Aspose.Cells.Cpp
 
 ```cs
 
-intrusive_ptr<IMetadataOptions> options = Factory::CreateIMetadataOptions(MetadataType_DocumentProperties);
-intrusive_ptr<IWorkbookMetadata> meta = Factory::CreateIWorkbookMetadata(new String("c:\\book1.xls"), options);
-meta->GetICustomDocumentProperties()->AddIDocumentProperty(new String("test"), (StringPtr)new String("test"));
-meta->Save(new String("c:\\book2.xls"));  
+Aspose::Cells::Startup();
+
+//Load the sample excel file
+MetadataOptions options(MetadataType::Document_Properties);
+WorkbookMetadata meta(u"c:\\book1.xls", options);
+//Add a new custom property
+meta.GetCustomDocumentProperties().Add(u"test", u"test");
+//Save the output excel file
+meta.Save(u"c:\\book2.xls"); 
+
+Aspose::Cells::Cleanup();
 
 ```
 
@@ -91,7 +99,7 @@ meta->Save(new String("c:\\book2.xls"));
 
     {{< blocks/products/pf/agp/about-file-section >}}
 
-        {{< blocks/products/pf/agp/demobox sectionTitle="Kivonja a XLS metaadatait online alkalmazáson keresztül" sectionDescription=" Tekintse meg és szerkessze a XLS számú dokumentumok metaadatait a mi használatával[Élő demók](https://products.aspose.app/cells/metadata) a következő előnyökkel." >}}
+        {{< blocks/products/pf/agp/demobox sectionTitle="Kivonja a XLS metaadatait online alkalmazáson keresztül" sectionDescription=" Tekintse meg és szerkessze a XLS számú dokumentumok metaadatait a mi használatával[Élő bemutatók](https://products.aspose.app/cells/metadata) a következő előnyökkel." >}}
             {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Nem kell letölteni vagy beállítani semmit" >}}
             {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Nem kell kódot írni" >}}
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Csak töltse fel a XLS fájlt, és szerkessze a dokumentum tulajdonságait" >}}

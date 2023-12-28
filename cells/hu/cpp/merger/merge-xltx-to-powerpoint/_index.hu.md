@@ -1,8 +1,8 @@
 ---
 title: A XLTX egyesítése a POWERPOINT-hoz – a XLTX-es szám egyesítése a POWERPOINT-hez a C++-es helyen
 url: /hu/cpp/merger/merge-xltx-to-powerpoint/ 
-description: Aspose Excel. C++ Aspose.Cells. Ingyenes online egyesítés XLTX POWERPOINT mentési formátumba. C++ A XLTX kombinálása POWERPOINT formátumba. A XLTX egyesítése a C++-es POWERPOINT-tal. XLTX Egyesítés.
-keywords: [Aspose Excel., C++ Aspose.Cells., Merge XLTX to POWERPOINT in C++., Free Online C++ Merge XLTX to powerpoint., C++ Combine XLTX to POWERPOINT Online for Free., XLTX Merge]
+description: Aspose Excel. C++ Aspose.Cells. A XLTX egyesítése POWERPOINT mentési formátumba. C++ A XLTX kombinálása POWERPOINT formátumba. A XLTX egyesítése a C++-es POWERPOINT-tal. XLTX Egyesítés.
+keywords: [Aspose Excel., C++ Aspose.Cells., Merge XLTX to POWERPOINT in C++., C++ Merge XLTX to powerpoint., C++ Combine XLTX to POWERPOINT., XLTX Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="A XLTX egyesítése a POWERPOINT-szal a C++ számon keresztül" h2="Nagy sebességű C++ könyvtár a XLTX POWERPOINT-hoz való egyesítéséhez. Használja a API-es excel-konverziónkat magas szintű, platformfüggetlen szoftverek fejlesztéséhez a C++-ben. Ez egy professzionális szoftvermegoldás a Excel, CSV, OpenOffice, PDF, HTML, image és sok más excel formátum importálásához és exportálásához." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" sourceAdditionalConversionTag="XLTX" additionalConversionTag="POWERPOINT" pfName="Aspose.Cells" subTitlepfName="for C++" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., C++ Aspose.Cells., Merge XLTX to POWERPOINT in C++., F
 
 {{% blocks/products/pf/agp/content h2="A XLTX egyesítése a POWERPOINT-tel a C++ használatával" %}}
 
- Hogyan egyesíthetem a XLTX-es számot a POWERPOINT-tal? A Aspose.Cells for C++ könyvtárral egyszerűen egyesítheti a XLTX-et a POWERPOINT-szal, néhány soros kóddal.[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) képes többplatformos alkalmazásokat létrehozni, módosítani, konvertálni, renderelni és kinyomtatni az összes Excel fájlt. C++ Excel API nem csak a táblázatformátumok között konvertál, hanem Excel fájlokat is képes megjeleníteni képként, PDF, HTML, ODS, CSV, CSV, CSV, CSV, CSV, CSV, SVG, és így tovább, SVG P, 8 PT a választás,3,8 ipari szabvány szerinti dokumentumok cseréjére formátumok. A legújabb verziót közvetlenül letöltheti, csak nyissa meg[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) csomagkezelő, keresse meg a Aspose.Cells.Cpp címet, és telepítse. A következő parancsot is használhatja a Package Manager konzolból.
+ Hogyan egyesíthetem a XLTX-es számot a POWERPOINT-tal? A Aspose.Cells for C++ könyvtárral egyszerűen egyesítheti a XLTX-et a POWERPOINT-szal, néhány soros kóddal.[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) képes többplatformos alkalmazásokat létrehozni, módosítani, konvertálni, renderelni és kinyomtatni az összes Excel fájlt. C++ Az Excel API nemcsak a táblázatformátumok között konvertál, hanem Excel-fájlokat is képes megjeleníteni képként, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT és egyebekként, így tökéletes választás a szabványos formátumú dokumentumok cseréjéhez. A legújabb verziót közvetlenül letöltheti, csak nyissa meg[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) csomagkezelő, keresse meg a Aspose.Cells.Cpp címet, és telepítse. A következő parancsot is használhatja a Package Manager konzolból.
 
 {{% blocks/products/pf/agp/code-block title="Parancs" offSpacer="true" %}}
 
@@ -26,7 +26,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Csatlakoztassa a XLTX-es számot a POWERPOINT-hoz a C++-es online ingyen" %}}
+{{% blocks/products/pf/agp/content h2="A XLTX egyesítése a C++-es POWERPOINT-tal" %}}
 
 A következő példa bemutatja, hogyan egyesítheti a XLTX-es számot a POWERPOINT-tal a Aspose.Cells-es for C++-ben.
 {{% blocks/products/pf/agp/text %}}
@@ -37,9 +37,9 @@ Kövesse az egyszerű lépéseket a XLTX és a POWERPOINT egyesítéséhez. Töl
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Ingyenes online a XLTX egyesítéséhez POWERPOINT a C++-ben" InputFormat="xltx" InputFormat2="pptx" outformat="pptx" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="cpp" %}}
+{{% cells-merger title="Mintakód a XLTX egyesítéséhez a C++-es POWERPOINT-hoz" InputFormat="xltx" InputFormat2="pptx" outformat="pptx" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="cpp" %}}
 
-{{% blocks/products/pf/agp/content h2="A XLTX és a POWERPOINT egyesítése a C++ számon keresztül" %}}
+{{% blocks/products/pf/agp/content h2="XLTX és a POWERPOINT egyesítése a C++ számon keresztül" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
@@ -107,7 +107,6 @@ API-jaink minden nagyobb platformon és operációs rendszeren támogatottak. Mi
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xltx-to-pdf/" name="XLTX és a PDF számok egyesítése" description="Hordozható dokumentum formátum" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xltx-to-png/" name="XLTX és a PNG számok egyesítése" description="Hordozható hálózati grafika" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xltx-to-svg/" name="XLTX és a SVG számok egyesítése" description="Skálázható vektorgrafika" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xltx-to-tiff/" name="XLTX és a TIFF számok egyesítése" description="Címkézett képformátum" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xltx-to-tsv/" name="XLTX és a TSV számok egyesítése" description="Tabulátorral elválasztott értékek" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xltx-to-txt/" name="XLTX és a TXT számok egyesítése" description="Szöveges dokumentum" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xltx-to-xls/" name="XLTX és a XLS számok egyesítése" description="Excel bináris formátum" >}}
@@ -117,8 +116,8 @@ API-jaink minden nagyobb platformon és operációs rendszeren támogatottak. Mi
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xltx-to-xlt/" name="XLTX és a XLT számok egyesítése" description="Microsoft Excel-sablon" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xltx-to-xltm/" name="XLTX és a XLTM számok egyesítése" description="Excel-makró-kompatibilis sablon" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xltx-to-xltx/" name="XLTX és a XLTX számok egyesítése" description="Office OpenXML Excel sablon" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xltx-to-xml/" name="A XLTX egyesítése XML-be" description="Bővíthető jelölőnyelv" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xltx-to-xps/" name="XLTX és a XPS számok egyesítése" description="XML papírspecifikációk" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xltx-to-xml/" name="Egyesítse a XLTX-et XML-be" description="Bővíthető jelölőnyelv" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xltx-to-xps/" name="XLTX és a XPS számok egyesítése" description="XML papír specifikációk" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xltx-to-json/" name="XLTX és a JSON számok egyesítése" description="JavaScript objektum jelölés" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xltx-to-jpeg/" name="XLTX és a JPEG számok egyesítése" description="JPEG Kép" >}}
 

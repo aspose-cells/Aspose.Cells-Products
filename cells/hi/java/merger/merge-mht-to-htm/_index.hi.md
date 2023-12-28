@@ -1,8 +1,8 @@
 ---
 title: एमएचटी को एचटीएम में मिलाएं - Java में एमएचटी को एचटीएम में मिलाएं
 url: /hi/java/merger/merge-mht-to-htm/ 
-description: "Aspose एक्सेल। Java Aspose.Cells. नि:शुल्क ऑनलाइन एमएचटी को एचटीएम सेवफॉर्मेट में मर्ज करें। Java एमएचटी को एचटीएम प्रारूप में संयोजित करें। Java में एमएचटी को एचटीएम में मर्ज करें। एमएचटी मर्ज।"
-keywords: [Aspose Excel., Java Aspose.Cells., Merge MHT to HTM in Java., Free Online Java Merge MHT to htm., Java Combine MHT to HTM Online for Free., MHT Merge]
+description: Aspose एक्सेल। Java Aspose.Cells. एमएचटी को एचटीएम सेवफॉर्मेट में मर्ज करें। Java एमएचटी को एचटीएम प्रारूप में संयोजित करें। Java में एमएचटी को एचटीएम में मर्ज करें। एमएचटी मर्ज।
+keywords: [Aspose Excel., Java Aspose.Cells., Merge MHT to HTM in Java., Java Merge MHT to htm., Java Combine MHT to HTM., MHT Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="MHT को HTM via Java में मर्ज करें" h2="एमएचटी को एचटीएम में विलय करने के लिए हाई-स्पीड Java लाइब्रेरी। Java में उच्च-स्तरीय, प्लेटफ़ॉर्म स्वतंत्र सॉफ़्टवेयर विकसित करने के लिए हमारे एक्सेल रूपांतरण API का उपयोग करें। यह Excel, CSV, OpenOffice, PDF, HTML, image और कई अन्य एक्सेल प्रारूपों को आयात और निर्यात करने के लिए एक पेशेवर सॉफ़्टवेयर समाधान है।" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="MHT" additionalConversionTag="HTM" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Merge MHT to HTM in Java., Free On
 
 {{% blocks/products/pf/agp/content h2="Java का उपयोग करके एमएचटी को एचटीएम में मर्ज करें" %}}
 
- मैं एमएचटी को एचटीएम में कैसे मर्ज करूं? Aspose.Cells for Java लाइब्रेरी के साथ, आप कोड की कुछ पंक्तियों के साथ प्रोग्रामेटिक रूप से एमएचटी को एचटीएम में आसानी से मर्ज कर सकते हैं।[Aspose.Cells for Java](https://products.aspose.com/cells/java) सभी एक्सेल फ़ाइलों को उत्पन्न करने, संशोधित करने, परिवर्तित करने, प्रस्तुत करने और प्रिंट करने की क्षमता के साथ क्रॉस-प्लेटफ़ॉर्म एप्लिकेशन बनाने में सक्षम है। Java एक्सेल API न केवल स्प्रेडशीट प्रारूपों के बीच कनवर्ट कर सकता है, यह एक्सेल फाइलों को छवियों, PDF, HTML, ODS, CSV, SVG, JSON, वर्ड, पीपीटी और भी बहुत कुछ के रूप में प्रस्तुत कर सकता है, इस प्रकार यह एक्सचेंज के लिए एक आदर्श विकल्प बन जाता है। उद्योग-मानक में दस्तावेज़ प्रारूप. आप इसका नवीनतम संस्करण सीधे यहां से डाउनलोड कर सकते हैं[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) और pom.xml में निम्नलिखित कॉन्फ़िगरेशन जोड़कर इसे अपने Maven-आधारित प्रोजेक्ट में स्थापित करें।
+ मैं एमएचटी को एचटीएम में कैसे मर्ज करूं? Aspose.Cells for Java लाइब्रेरी के साथ, आप कोड की कुछ पंक्तियों के साथ प्रोग्रामेटिक रूप से एमएचटी को एचटीएम में आसानी से मर्ज कर सकते हैं।[Aspose.Cells for Java](https://products.aspose.com/cells/java)सभी एक्सेल फ़ाइलों को उत्पन्न करने, संशोधित करने, परिवर्तित करने, प्रस्तुत करने और प्रिंट करने की क्षमता के साथ क्रॉस-प्लेटफ़ॉर्म एप्लिकेशन बनाने में सक्षम है। Java एक्सेल API न केवल स्प्रेडशीट प्रारूपों के बीच परिवर्तित होता है, बल्कि यह एक्सेल फाइलों को छवियों, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT और अधिक के रूप में भी प्रस्तुत कर सकता है, इस प्रकार यह उद्योग-मानक प्रारूपों में दस्तावेजों का आदान-प्रदान करने के लिए एक आदर्श विकल्प बन जाता है। आप इसका नवीनतम संस्करण सीधे यहां से डाउनलोड कर सकते हैं[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) और pom.xml में निम्नलिखित कॉन्फ़िगरेशन जोड़कर इसे अपने Maven-आधारित प्रोजेक्ट में स्थापित करें।
 
 {{% blocks/products/pf/agp/code-block title="कोष" offSpacer="true" %}}
 
@@ -45,7 +45,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Merge MHT to HTM in Java., Free On
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Java में एमएचटी को एचटीएम में निःशुल्क ऑनलाइन मर्ज करें" %}}
+{{% blocks/products/pf/agp/content h2="Java में एमएचटी को एचटीएम में मिलाएं" %}}
 
 निम्नलिखित उदाहरण दर्शाता है कि Aspose.Cells for Java में एमएचटी को एचटीएम में कैसे मर्ज किया जाए।
 {{% blocks/products/pf/agp/text %}}
@@ -56,13 +56,13 @@ MHT को HTM में मर्ज करने के लिए आसान
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Java में एमएचटी को एचटीएम में मर्ज करने के लिए निःशुल्क ऑनलाइन" InputFormat="mht" InputFormat2="htm" outformat="htm" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="java" %}}
+{{% cells-merger title="Java में एमएचटी को एचटीएम में मर्ज करने के लिए नमूना कोड" InputFormat="mht" InputFormat2="htm" outformat="htm" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="एमएचटी को एचटीएम via Java में कैसे मर्ज करें" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
-प्रोग्रामेटिक रूप से एमएचटी को एचटीएम में मर्ज करने की आवश्यकता है? एक बुनियादी दस्तावेज़ जिसका विलय और संयोजन हो रहा है[Aspose.Cells for Java](https://products.aspose.com/cells/java) एपीआई को कोड की कुछ पंक्तियों के साथ किया जा सकता है।
+ प्रोग्रामेटिक रूप से एमएचटी को एचटीएम में मर्ज करने की आवश्यकता है? एक बुनियादी दस्तावेज़ जिसका विलय और संयोजन हो रहा है[Aspose.Cells for Java](https://products.aspose.com/cells/java) एपीआई को कोड की कुछ पंक्तियों के साथ किया जा सकता है।
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -102,7 +102,7 @@ MHT को HTM में मर्ज करने के लिए आसान
 
 <!-- aboutfile Starts -->
     {{< blocks/products/pf/agp/about-file-section >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="MHT" readMoreLink="https://docs.fileformat.com/web/mht/" >}}.mht एक्सटेंशन वाली फ़ाइल एक MIME सक्षम संग्रह फ़ाइल स्वरूप है जिसमें एक ही फ़ाइल में विभिन्न प्रकार के डेटा शामिल होते हैं। यह सीएसएस फाइलों, जावास्क्रिप्ट और अन्य संसाधनों के रूप में पाठ, छवियों, पेज स्टाइल जैसे डेटा को इसमें एम्बेडेड संसाधनों के रूप में संग्रहीत कर सकता है। MIME प्रकार संदेश/rfc822 वाली MHT फ़ाइलें, भंडारण उपकरणों पर संग्रहित करने के लिए HTML फ़ाइल की सभी सामग्री को एकल संग्रह फ़ाइल के रूप में समाहित करती हैं। Microsoft वर्ड जैसे सॉफ़्टवेयर एप्लिकेशन आपको एमएचटी फ़ाइल के रूप में निर्यात करके अपने वर्ड दस्तावेज़ों को एमएचटी में परिवर्तित करने की सुविधा देते हैं। एमएचटी फ़ाइलें Microsoft इंटरनेट एक्सप्लोर और Google क्रोम जैसे लोकप्रिय ब्राउज़रों का उपयोग करके खोली जा सकती हैं।{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="MHT" readMoreLink="https://docs.fileformat.com/web/mht/" >}}.mht एक्सटेंशन वाली फ़ाइल एक MIME सक्षम संग्रह फ़ाइल स्वरूप है जिसमें एक ही फ़ाइल में विभिन्न प्रकार के डेटा शामिल होते हैं। यह सीएसएस फाइलों, जावास्क्रिप्ट और अन्य संसाधनों के रूप में पाठ, छवियों, पेज स्टाइल जैसे डेटा को इसमें एम्बेडेड संसाधनों के रूप में संग्रहीत कर सकता है। MIME प्रकार संदेश/rfc822 वाली MHT फ़ाइलें, भंडारण उपकरणों पर संग्रहित करने के लिए HTML फ़ाइल की सभी सामग्री को एकल संग्रह फ़ाइल के रूप में समाहित करती हैं। Microsoft वर्ड जैसे सॉफ़्टवेयर एप्लिकेशन आपको एमएचटी फ़ाइल के रूप में निर्यात करके अपने WORD दस्तावेज़ों को एमएचटी में बदलने की सुविधा देते हैं। एमएचटी फ़ाइलें Microsoft इंटरनेट एक्सप्लोर और Google क्रोम जैसे लोकप्रिय ब्राउज़रों का उपयोग करके खोली जा सकती हैं।{{< /blocks/products/pf/agp/i18n/about-file-text >}}
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="HTM" readMoreLink="https://docs.fileformat.com/web/htm/" >}}.htm एक्सटेंशन वाली फ़ाइलें Google क्रोम, इंटरनेट एक्सप्लोरर, फ़ायरफ़ॉक्स और कई अन्य जैसे वेब ब्राउज़र में प्रदर्शन के लिए वेब पेज बनाने के लिए हाइपरटेक्स्ट मार्कअप लैंग्वेज का प्रतिनिधित्व करती हैं। यह दूसरों की पहुंच के लिए वर्ल्ड वाइड वेब (डब्ल्यूडब्ल्यूडब्ल्यू) पर प्रकाशित होने वाले स्थिर पेज बनाने के लिए मार्कअप को परिभाषित करता है। ये मार्कअप ब्राउज़रों को बताते हैं कि वेब पेज की सामग्री को कैसे प्रदर्शित किया जाए। ऐसे पृष्ठों में सादा पाठ, चित्र, अन्य पृष्ठों के हाइपरलिंक, वीडियो और अन्य मीडिया जानकारी हो सकती है। जब कोई वेब पेज प्रकाशित होता है, तो आप उसके पेज स्रोत को देखकर उसके पीछे मार्कअप कोड पर नज़र डाल सकते हैं। आधुनिक ब्राउज़र वेब पेज के प्रत्येक अनुभाग का निरीक्षण करने की अनुमति देते हैं जहां HTM स्रोत में प्रत्येक उप-विभाजन या मार्कअप तत्व विस्तृत है।{{< /blocks/products/pf/agp/i18n/about-file-text >}}
     {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->

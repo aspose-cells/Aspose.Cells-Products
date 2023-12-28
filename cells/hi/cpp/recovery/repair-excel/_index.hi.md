@@ -1,8 +1,8 @@
 ---
-title: C++ एक्सेल फाइल सुधारें - एक्सेल फाइल ऑनलाइन निःशुल्क सुधारें
+title: C++ एक्सेल सुधारें - दूषित एक्सेल फ़ाइल को पुनर्प्राप्त करें और ठीक करें
 url: /hi/cpp/recovery/repair-excel/ 
-description: Aspose एक्सेल। C++ Aspose.Cells. C++ एक्सेल फ़ाइल की मरम्मत करें। निःशुल्क ऑनलाइन एक्सेल मरम्मत उपकरण। दूषित एक्सेल फ़ाइल को सुधारें. C++ एप्लिकेशन के भीतर एक दूषित एक्सेल फ़ाइल पुनर्प्राप्त करें।
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ Repair excel file., Free Online Repair a corrupted excel file., C++ Recover excel file.]
+description: C++ Aspose.Cells. एक्सेल मरम्मत करें। एक्सेल फ़ाइल ठीक करें. एक्सेल रिकवरी टूल। एक्सेल भ्रष्टाचार. एक्सेल डेटा पुनर्स्थापित करें. एक्सेल फ़ाइल पुनर्प्राप्ति। दूषित एक्सेल फ़ाइल पुनर्प्राप्त करें.
+keywords: [C++ Aspose.Cells., repair excel file., excel repair., recover corrupted excel file., repair corrupted excel., recover excel., fix excel file., excel corruption., restore excel data., excel file recovery., recover corrupted excel file.]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="C++ में एक्सेल फ़ाइल की मरम्मत करें" h2="C++ का उपयोग करके एक्सेल फ़ाइलों को सुधारने के लिए अपना स्वयं का C++ एप्लिकेशन बनाएं।" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" sourceAdditionalConversionTag="" additionalConversionTag="EXCEL" pfName="Aspose.Cells" subTitlepfName="for C++" downloadUrl="" fileiconsmall1="XLS" fileiconsmall2="XLSB" fileiconsmall3="XLSX" fileiconsmall4="XLSM" fileiconsmall5="ODS" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ Repair excel
 
 {{% blocks/products/pf/agp/content h2="C++ का उपयोग करके एक्सेल फ़ाइल की मरम्मत करें" %}}
 
- मैं एक्सेल फ़ाइल की मरम्मत कैसे करूँ? Aspose.Cells for C++ लाइब्रेरी के साथ, आप कोड की कुछ पंक्तियों के साथ प्रोग्रामेटिक रूप से EXCEL फ़ाइल को आसानी से सुधार सकते हैं।[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) सभी एक्सेल फ़ाइलों को उत्पन्न करने, संशोधित करने, परिवर्तित करने, प्रस्तुत करने और प्रिंट करने की क्षमता के साथ क्रॉस-प्लेटफ़ॉर्म एप्लिकेशन बनाने में सक्षम है। C++ एक्सेल API न केवल स्प्रेडशीट प्रारूपों के बीच कनवर्ट कर सकता है, यह एक्सेल फाइलों को छवियों, PDF, HTML, ODS, CSV, SVG, JSON, वर्ड, पीपीटी और भी बहुत कुछ के रूप में प्रस्तुत कर सकता है, इस प्रकार यह एक्सचेंज के लिए एक आदर्श विकल्प बन जाता है। उद्योग-मानक में दस्तावेज़ प्रारूप. आप इसका नवीनतम संस्करण सीधे डाउनलोड कर सकते हैं, बस खोलें[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) पैकेज मैनेजर, Aspose.Cells.सीपीपी खोजें और इंस्टॉल करें। आप पैकेज मैनेजर कंसोल से निम्न कमांड का भी उपयोग कर सकते हैं।
+ मैं एक्सेल फ़ाइल की मरम्मत कैसे करूँ? Aspose.Cells for C++ लाइब्रेरी के साथ, आप कोड की कुछ पंक्तियों के साथ प्रोग्रामेटिक रूप से EXCEL फ़ाइल को आसानी से सुधार सकते हैं।[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) सभी एक्सेल फ़ाइलों को उत्पन्न करने, संशोधित करने, परिवर्तित करने, प्रस्तुत करने और प्रिंट करने की क्षमता के साथ क्रॉस-प्लेटफ़ॉर्म एप्लिकेशन बनाने में सक्षम है। C++ एक्सेल API न केवल स्प्रेडशीट प्रारूपों के बीच परिवर्तित होता है, बल्कि यह एक्सेल फाइलों को छवियों, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT और अधिक के रूप में भी प्रस्तुत कर सकता है, इस प्रकार यह उद्योग-मानक प्रारूपों में दस्तावेजों का आदान-प्रदान करने के लिए एक आदर्श विकल्प बन जाता है। आप इसका नवीनतम संस्करण सीधे डाउनलोड कर सकते हैं, बस खोलें[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) पैकेज मैनेजर, Aspose.Cells.सीपीपी खोजें और इंस्टॉल करें। आप पैकेज मैनेजर कंसोल से निम्न कमांड का भी उपयोग कर सकते हैं।
 
 {{% blocks/products/pf/agp/code-block title="आज्ञा" offSpacer="true" %}}
 
@@ -41,7 +41,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-recovery title="एक्सेल फ़ाइल को ऑनलाइन सुधारने के लिए निःशुल्क ऐप और नमूना कोड" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et" InputFormat="xlsx" outformat="xlsx" IsLandingPage="true" language="cpp" %}}    
+{{% cells-recovery title="एक्सेल फ़ाइल की मरम्मत के लिए नमूना कोड" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;xps;mhtml;md;json;xml;zip;sql;txt;et" InputFormat="xlsx" outformat="xlsx" IsLandingPage="true" language="cpp" %}}    
     
 {{% blocks/products/pf/agp/content h2="EXCEL फ़ाइल को सुधारने के लिए C++ लाइब्रेरी" %}}
 

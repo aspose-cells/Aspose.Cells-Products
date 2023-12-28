@@ -1,6 +1,7 @@
 ---
-title: Excel-fájl megjegyzések NET C#
+title: Excel-fájl megjegyzések hozzáadása vagy eltávolítása NET C#
 description: Adja hozzá vagy távolítsa el az Excel és az OpenOffice táblázatok adatannotációit néhány sornyi C# kóddal.
+keywords: [C# Aspose.Cells., add excel annotation., insert excel annotation., access excel annotation., remove excel annotation., delete excel annotation., add annotation in excel., insert annotation in excel., access annotation in excel., remove annotation in excel., delete annotation in excel]
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
 {{< blocks/products/pf/i18n/feature-page-header h1="Távolítsa el a Microsoft<sup>&reg;</sup> Excel-fájl megjegyzéseit via .NET" h2="Excel-fájlok megjegyzéseinek hozzáadása vagy törlése a C# kód használatával a .NET alapú alkalmazásokban." >}}

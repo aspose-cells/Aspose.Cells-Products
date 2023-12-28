@@ -1,7 +1,8 @@
 ---
-title:  वॉटरमार्क XLSM दस्तावेज़ via Java
+title: वॉटरमार्क XLSM दस्तावेज़ via Java
 weight: 7680
 description: JSP/JSF एप्लिकेशन और डेस्कटॉप एप्लिकेशन के लिए Java रनटाइम एनवायरमेंट पर XLSM फ़ाइल में वॉटरमार्क जोड़ने या हटाने के लिए Java नमूना कोड।
+keywords: [Java Aspose.Cells., Java add watermark to xlsm file., Java insert watermark to xlsm file., Java create watermark in xlsm file., remove watermark from xlsm file using Java., Java operate watermark in xlsm file., Java access watermark in xlsm file]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="XLSM via Java पर टेक्स्ट वॉटरमार्क जोड़ें" h2="सर्वर-साइड एपीआई का उपयोग करके XLSM फ़ाइलों को वॉटरमार्क करने के लिए अपने स्वयं के Java ऐप्स बनाएं।" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSM" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="" fileiconsmall1="PPTX" fileiconsmall2="DOCX" fileiconsmall3="XLSX" fileiconsmall4="PDF" fileiconsmall5=" ODP " >}}

@@ -1,7 +1,8 @@
 ---
 title:  Java Excel API - Aspose
 weight: 6830
-description: Java Excel-könyvtár táblázatkezeléshez. Olvassa el az írási renderelést, és konvertálja a XLS XLSX XLSM ODS CSV TSV és több formátumot. Kompatibilis a Windows Linux és Unix rendszerrel
+description:  Aspose.Cells for Java könyvtár Excel fájlok létrehozásához, javításához, egyesítéséhez, elemzéséhez és konvertálásához. Az Excel konvertálása PDF, JSON, CSV, HTML és így tovább.
+keywords: [Java Aspose.Cells Create repair parse merge convert JSON Excel XML PDF HTML TSV MHTML XPS CSV PNG JPEG and more formats]
 ---
 {{< blocks/products/pf/main-wrap-class >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Java Excel-táblázat feldolgozás API" h2="Hozzon létre, kezeljen, konvertáljon, védjen vagy nyomtasson táblázatokat anélkül, hogy a Microsoft Excelre hagyatkozna." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/headers/aspose_cells-for-java.svg" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="https://downloads.aspose.com/cells/java" >}}
@@ -319,7 +320,7 @@ Aspose.Cells A for Java egy kiforrott és funkciókban gazdag könyvtár, amely 
     <em class="fa fa-commenting ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Létrehozása &amp; manipulálni a megjegyzéseket
+ Létrehozás &amp; manipulálni a megjegyzéseket
     </p>
    </div>
    <div class="col-lg-4">
@@ -333,14 +334,14 @@ Aspose.Cells A for Java egy kiforrott és funkciókban gazdag könyvtár, amely 
     <em class="fa fa-align-center ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Létrehozása &amp; feltételes formázási szabályokat manipulálni
+ Létrehozás &amp; feltételes formázási szabályokat manipulálni
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-sort-amount-desc ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Létrehozása &amp; manipulálni a megnevezett tartományokat
+ Létrehozás &amp; manipulálni a megnevezett tartományokat
     </p>
    </div>
    <div class="col-lg-4">

@@ -1,8 +1,8 @@
 ---
 title: XLTM को TIFF में मिलाएँ - XLTM को TIFF को Python में मिलाएँ
 url: /hi/python-net/merger/merge-xltm-to-tiff/ 
-description: "Aspose एक्सेल। Python Aspose.Cells। नि:शुल्क ऑनलाइन मर्ज XLTM से TIFF सेवफॉर्मेट। Python XLTM को TIFF प्रारूप में संयोजित करें। XLTM को TIFF में Python में मर्ज करें। XLTM मर्ज करें।"
-keywords: [Aspose Excel., Python Aspose.Cells., Merge XLTM to TIFF in Python., Free Online Python Merge XLTM to tiff., Python Combine XLTM to TIFF Online for Free., XLTM Merge]
+description: Aspose एक्सेल। Python Aspose.Cells. XLTM को TIFF सेवफॉर्मेट में मर्ज करें। Python XLTM को TIFF प्रारूप में संयोजित करें। XLTM को TIFF में Python में मर्ज करें। XLTM मर्ज करें।
+keywords: [Aspose Excel., Python Aspose.Cells., Merge XLTM to TIFF in Python., Python Merge XLTM to tiff., Python Combine XLTM to TIFF., XLTM Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Python के माध्यम से XLTM को TIFF में मर्ज करें" h2="XLTM को TIFF में मर्ज करने के लिए हाई-स्पीड Python लाइब्रेरी। Python में उच्च-स्तरीय, प्लेटफॉर्म स्वतंत्र सॉफ्टवेयर विकसित करने के लिए हमारे एक्सेल रूपांतरण API का उपयोग करें। यह Excel, CSV, OpenOffice, PDF, HTML, image और कई अन्य एक्सेल प्रारूपों को आयात और निर्यात करने के लिए एक पेशेवर सॉफ्टवेयर समाधान है।" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="XLTM" additionalConversionTag="TIFF" pfName="Aspose.Cells" subTitlepfName="for Python" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -12,12 +12,12 @@ keywords: [Aspose Excel., Python Aspose.Cells., Merge XLTM to TIFF in Python., F
 
 {{% blocks/products/pf/agp/content h2="Python का उपयोग करके XLTM को TIFF में मर्ज करें" %}}
 
- मैं XLTM को TIFF में कैसे मर्ज करूं? Aspose.Cells for Python via .NET लाइब्रेरी के साथ, आप कोड की कुछ पंक्तियों के साथ आसानी से XLTM से TIFF को प्रोग्रामेटिक रूप से मर्ज कर सकते हैं।[Aspose.Cells for Python via .NET](https://pypi.org/project/aspose-cells-python)सभी एक्सेल फ़ाइलों को उत्पन्न करने, संशोधित करने, परिवर्तित करने, प्रस्तुत करने और प्रिंट करने की क्षमता के साथ क्रॉस-प्लेटफ़ॉर्म एप्लिकेशन बनाने में सक्षम है। Python एक्सेल API न केवल स्प्रेडशीट प्रारूपों के बीच कनवर्ट कर सकता है, यह एक्सेल फाइलों को छवियों, PDF, HTML, ODS, CSV, SVG, JSON, वर्ड, पीपीटी और भी बहुत कुछ के रूप में प्रस्तुत कर सकता है, इस प्रकार यह एक्सचेंज के लिए एक आदर्श विकल्प बन जाता है। उद्योग-मानक में दस्तावेज़ प्रारूप. आप Aspose.Cells for Python via .NET यहां से इंस्टॉल कर सकते हैं<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , कमांड का उपयोग इस प्रकार करें:<code>$ pip install aspose-cells-python</code>.
+मैं XLTM को TIFF में कैसे मर्ज करूं? Aspose.Cells for Python via .NET लाइब्रेरी के साथ, आप कोड की कुछ पंक्तियों के साथ आसानी से XLTM से TIFF को प्रोग्रामेटिक रूप से मर्ज कर सकते हैं।[Aspose.Cells for Python via .NET](https://pypi.org/project/aspose-cells-python) सभी एक्सेल फ़ाइलों को उत्पन्न करने, संशोधित करने, परिवर्तित करने, प्रस्तुत करने और प्रिंट करने की क्षमता के साथ क्रॉस-प्लेटफ़ॉर्म एप्लिकेशन बनाने में सक्षम है। Python एक्सेल API न केवल स्प्रेडशीट प्रारूपों के बीच परिवर्तित होता है, बल्कि यह एक्सेल फाइलों को छवियों, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT और अधिक के रूप में भी प्रस्तुत कर सकता है, इस प्रकार यह उद्योग-मानक प्रारूपों में दस्तावेजों का आदान-प्रदान करने के लिए एक आदर्श विकल्प बन जाता है। आप Aspose.Cells for Python via .NET यहां से इंस्टॉल कर सकते हैं<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , कमांड का उपयोग इस प्रकार करें:<code>$ pip install aspose-cells-python</code>.
 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Python में XLTM से TIFF को निःशुल्क ऑनलाइन मर्ज करें" %}}
+{{% blocks/products/pf/agp/content h2="Python में XLTM को TIFF में मर्ज करें" %}}
 
 निम्नलिखित उदाहरण दर्शाता है कि XLTM को TIFF को Aspose.Cells for Python via .NET में कैसे मर्ज किया जाए।
 {{% blocks/products/pf/agp/text %}}
@@ -28,7 +28,7 @@ XLTM को TIFF में मर्ज करने के लिए आसा�
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="XLTM से TIFF को Python में मर्ज करने के लिए निःशुल्क ऑनलाइन" InputFormat="xltm" InputFormat2="tiff" outformat="tiff" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-merger title="Python में XLTM से TIFF को मर्ज करने के लिए नमूना कोड" InputFormat="xltm" InputFormat2="tiff" outformat="tiff" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="Python के माध्यम से XLTM को TIFF में कैसे मर्ज करें" %}}
 
@@ -52,7 +52,7 @@ XLTM को TIFF में मर्ज करने के लिए आसा�
 हम अपने Python पैकेजों को PyPi रिपॉजिटरी में होस्ट करते हैं।
 
 {{% blocks/products/pf/agp/text %}}
-Aspose.Cells for Python से इंस्टॉल करें<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , कमांड का उपयोग इस प्रकार करें:<code>$ pip install aspose-cells-python</code>.
+ Aspose.Cells for Python से इंस्टॉल करें<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , कमांड का उपयोग इस प्रकार करें:<code>$ pip install aspose-cells-python</code>.
 {{% /blocks/products/pf/agp/text %}}
 
 {{% blocks/products/pf/agp/text %}}
@@ -72,7 +72,7 @@ Aspose.Cells for Python से इंस्टॉल करें<a href="https:
 {{% /blocks/products/pf/agp/text %}}
 
 -  स्थापित करना[Python](https://www.python.org/downloads/) 3.7 या उच्चतर.
-- Aspose.Cells for Python से इंस्टॉल करें<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , कमांड का उपयोग इस प्रकार करें:<code>$ pip install aspose-cells-python</code>.
+-  Aspose.Cells for Python से इंस्टॉल करें<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , कमांड का उपयोग इस प्रकार करें:<code>$ pip install aspose-cells-python</code>.
 
 
 {{% /blocks/products/pf/agp/content %}}

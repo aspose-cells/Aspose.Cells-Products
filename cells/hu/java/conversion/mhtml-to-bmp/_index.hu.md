@@ -1,7 +1,7 @@
 ---
-title: Java MHTML - BMP - Online MHTML - BMP Átalakító
-description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Ingyenes online Java A MHTML konvertálása BMP mentési formátumra. Java MHTML - BMP formátum. Mentse a MHTML számot a BMP Java számra.
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java MHTML to BMP saveformat., Free Online MHTML to BMP Java., Java Convert MHTML to BMP]
+title: Java MHTML - BMP - MHTML - BMP Átalakító
+description: Aspose Excel. A MHTML-es számot BMP-re gyorsan és egyszerűen a Aspose.Cells-es számmal alakíthatja át. Java MHTML-BMP-re. 13481 a Java számon.
+keywords: [Aspose Excel., Java Aspose.Cells., Convert MHTML to BMP in Java., Save MHTML to BMP using Java., Java MHTML to BMP saveformat., MHTML to BMP Converter., Java Save MHTML as BMP]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Konvertálja a MHTML-et BMP-re Java-ben" h2="Nagysebességű Java könyvtár a MHTML BMP-es számok konvertálásához. Ez egy professzionális szoftvermegoldás a MHTML, BMP és sok más formátum importálásához és exportálásához a Java szám használatával." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="BMP" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java MHTML to 
 
 {{% blocks/products/pf/agp/content h2="A MHTML konvertálása BMP-re a Java használatával" %}}
 
-Hogyan alakíthatom át a MHTML-et BMP-re? A Aspose.Cells for Java könyvtárral egyszerűen konvertálhatja a MHTML-et programozottan BMP-re néhány sor kóddal.[Aspose.Cells for Java](https://products.aspose.com/cells/java) képes többplatformos alkalmazásokat létrehozni, módosítani, konvertálni, renderelni és kinyomtatni az összes Excel fájlt. Java Excel API nem csak a táblázatformátumok között konvertál, hanem Excel fájlokat is képes megjeleníteni képként, PDF, HTML, ODS, CSV, CSV, CSV, CSV, CSV, CSV, SVG, és így tovább, SVG P, 8 PT a választás,3,8 ipari szabvány szerinti dokumentumok cseréjére formátumok. A legújabb verziót közvetlenül a webhelyről töltheti le[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) és telepítse a Maven alapú projekten belül a következő konfigurációk hozzáadásával a pom.xml fájlhoz.
+Hogyan alakíthatom át a MHTML-et BMP-re? A Aspose.Cells for Java könyvtárral egyszerűen konvertálhatja a MHTML-et programozottan BMP-re néhány sor kóddal.[Aspose.Cells for Java](https://products.aspose.com/cells/java)képes többplatformos alkalmazásokat létrehozni, módosítani, konvertálni, renderelni és kinyomtatni az összes Excel fájlt. Java Az Excel API nemcsak a táblázatformátumok között konvertál, hanem Excel-fájlokat is képes megjeleníteni képként, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT és egyebekként, így tökéletes választás a szabványos formátumú dokumentumok cseréjéhez. A legújabb verziót közvetlenül a webhelyről töltheti le[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) és telepítse a Maven alapú projekten belül a következő konfigurációk hozzáadásával a pom.xml fájlhoz.
 
 {{% blocks/products/pf/agp/code-block title="Adattár" offSpacer="true" %}}
 
@@ -45,7 +45,7 @@ Hogyan alakíthatom át a MHTML-et BMP-re? A Aspose.Cells for Java könyvtárral
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Takarítson meg MHTML-BMP számot a Java számon online ingyen" %}}
+{{% blocks/products/pf/agp/content h2="Mentse a MHTML-BMP számot a Java-es számon" %}}
 
 A következő példa bemutatja, hogyan lehet a MHTML-et BMP-re konvertálni a Java-ben.
 {{% blocks/products/pf/agp/text %}}
@@ -56,9 +56,9 @@ Kövesse az egyszerű lépéseket a MHTML BMP-re konvertálásához. Töltse fel
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Ingyenes alkalmazás és mintakód a MHTML BMP online konvertálásához" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="mhtml" outformat="bmp" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Mintakód a MHTML BMP-re konvertálásához" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="mhtml" outformat="bmp" IsLandingPage="true" language="java" %}}
 
-{{% blocks/products/pf/agp/content h2="MHTML BMP via Java-re konvertálása" %}}
+{{% blocks/products/pf/agp/content h2="A MHTML BMP via Java-re konvertálása" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
@@ -68,7 +68,7 @@ A MHTML fájlt programozottan BMP-re kell konvertálni? A Java fejlesztők könn
 
 1.  Telepítse a „Aspose.Cells for Java” fájlt.
 1.  Adjon hozzá egy könyvtári hivatkozást (importálja a könyvtárat) a Java projekthez.
-1.  Töltse be a MHTML számú fájlt a Workbook osztály egy példányával.
+1. Töltse be a MHTML számú fájlt a Workbook osztály egy példányával.
 1.  Konvertálja a MHTML-et BMP-re a Workbook.save metódus meghívásával.
 1.  Szerezze meg a MHTML-es konverziós eredményt BMP-re.
 
@@ -125,7 +125,7 @@ A MHTML fájlt programozottan BMP-re kell konvertálni? A Java fejlesztők könn
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/mhtml-to-xltm/" name="MHTML-XLTM" description="Excel-makró-kompatibilis sablon" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/mhtml-to-xltx/" name="MHTML-XLTX" description="Office OpenXML Excel sablon" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/mhtml-to-xml/" name="MHTML XML-RE" description="Bővíthető jelölőnyelv" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/mhtml-to-xps/" name="MHTML-XPS" description="XML papírspecifikációk" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/mhtml-to-xps/" name="MHTML-XPS" description="XML papír specifikációk" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/mhtml-to-json/" name="MHTML-JSON" description="JavaScript objektum jelölés" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/mhtml-to-jpeg/" name="MHTML-JPEG" description="JPEG Kép" >}}
 

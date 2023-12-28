@@ -2,6 +2,7 @@
 title:  Hogyan rajzolhatok vagy szúrhatok be egyenes nyilat az Excel via Java-be
 weight: 10
 description: Rajzoljon vagy illesszen be egyenes nyílobjektumokat a Aspose.Cells' Java API számmal szoftver nélkül, például Microsoft vagy Open Office, Adobe PDF stb.
+keywords: [Java Aspose.Cells., Java add straight arrow., Java insert straight arrow., Java create straight arrow]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Illessze be az egyenes nyilat az Excel via Java-be" h2="Illessze be az egyenes nyilat a Aspose.Cells\' API használatával szoftver nélkül, például Microsoft vagy Open Office, Adobe PDF stb." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSX" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="" fileiconsmall1="PPTX" fileiconsmall2="DOCX" fileiconsmall3="XLSX" fileiconsmall4="PDF" fileiconsmall5=" ODP " >}}
@@ -11,7 +12,7 @@ description: Rajzoljon vagy illesszen be egyenes nyílobjektumokat a Aspose.Cell
 
 {{% blocks/products/pf/agp/content h2="Egyenes nyíl beszúrása Excel fájlba a Java használatával" %}}
 
- Ahhoz, hogy egyenes nyilat beszúrhassunk az Excel fájlba, használjuk
+Ahhoz, hogy egyenes nyilat beszúrhassunk az Excel fájlba, használjuk
  [Aspose.Cells for Java](https://products.aspose.com/cells/java) 
  API, amely funkciókban gazdag, erőteljes és könnyen használható API for Java platform. A legújabb verziót közvetlenül a webhelyről töltheti le
  [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) 
@@ -56,7 +57,7 @@ description: Rajzoljon vagy illesszen be egyenes nyílobjektumokat a Aspose.Cell
 
 {{% /blocks/products/pf/agp/text %}}
 
-Munkafüzet objektum példányosítása. (vagy->Töltse be a XLSX fájlt a teljes elérési úttal.)
++ Munkafüzet objektum példányosítása. (vagy->Töltse be a XLSX fájlt a teljes elérési úttal.)
 + Válassza ki a munkalapot az indexén keresztül.
  + Használja a[módszer hozzáadása](https://reference.aspose.com/cells/java/com.aspose.cells/shapecollection/#addLine-int-int-int-int-int-int-) egyenes nyíl beszúrásához a kiválasztott munkalapba
 + Mentse a munkafüzetet XLSX formátumban.

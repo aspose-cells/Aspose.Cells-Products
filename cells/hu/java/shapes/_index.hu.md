@@ -1,6 +1,7 @@
 ---
 title: Alakzatok beszúrása az Excelbe JAVA-n keresztül
-description:  C# forráskódok arra vonatkozóan, hogyan lehet alakzatot beszúrni Microsoft Excel-fájlokba a JAVA Library segítségével.
+description:  Java forráskódok arra vonatkozóan, hogyan lehet alakzatot beszúrni Microsoft Excel-fájlokba a JAVA Library segítségével.
+keywords: [Java Aspose.Cells., Java add shapes., Java insert shapes., Java create shapes]
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
 {{< blocks/products/pf/i18n/feature-page-header h1="Microsoft<sup>&reg;</sup> Excel alakzatok beillesztése JAVA-n keresztül" h2="Készítsen Excel-dokumentumokat és szúrjon be alakzatokat kiszolgálóoldali API-k segítségével JAVA-alapú alkalmazásokban." >}}
@@ -12,9 +13,9 @@ description:  C# forráskódok arra vonatkozóan, hogyan lehet alakzatot beszúr
 
 {{% blocks/products/pf/feature-page-section h2="Alakzatok beszúrása Excel fájlba" %}}
 
- Az alakzatok beszúrása ezekkel az API-kkal egyszerű. A folyamat a létrehozás[Munkafüzet osztály](https://reference.aspose.com/cells/java/com.aspose.cells/workbook/) objektumot, és az index megadásával válassza ki az első munkalapot vagy a megfelelő lapot. Adjon hozzá egy alakzatot a munkalaphoz a használatával[alakgyűjtemény](https://reference.aspose.com/cells/java/com.aspose.cells/shapecollection/)'s Add metódus.
+ Az alakzatok beszúrása ezekkel az API-kkal egyszerű. A folyamat a létrehozás[Munkafüzet osztály](https://reference.aspose.com/cells/java/com.aspose.cells/workbook/)objektumot, és az index megadásával válassza ki az első munkalapot vagy a megfelelő lapot. Adjon hozzá egy alakzatot a munkalaphoz a használatával[alakgyűjtemény](https://reference.aspose.com/cells/java/com.aspose.cells/shapecollection/)'s Add metódus.
 
-{{% blocks/products/pf/feature-page-code h3="C# Kód az alakzat beszúrásához az Excelben" %}}
+{{% blocks/products/pf/feature-page-code h3="Java Kód az alakzat beszúrásához az Excelben" %}}
 
 {{< gist "aspose-cells-gists" "5876dc77e47649b66bdb5deefb4b5639" "InsertShape.java" >}}
 

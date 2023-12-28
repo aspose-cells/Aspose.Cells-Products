@@ -2,6 +2,7 @@
 title:  XLSX दस्तावेज़ चार्ट से छवियाँ via .NET
 weight: 2630
 description: .NET फ्रेमवर्क, .NET कोर, Mono या ज़ामरिन प्लेटफ़ॉर्म पर XLSX फ़ाइल में चार्ट या आरेख बनाने और परिवर्तित करने के लिए C# स्रोत कोड।
+keywords: [C# Aspose.Cells., c# Convert chart to image in xlsx., c# Save chart to image in xlsx., c# chart to image in xlsx., xlsx convert chart to image in c#., xlsx save chart to imagein c#., xlsx chart to image in c#]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="XLSX C# में छवियों के लिए चार्ट फ़ाइल करें" h2="Microsoft या एडोब PDF जैसे किसी भी सॉफ़्टवेयर के उपयोग के बिना, सर्वर-साइड एपीआई का उपयोग करके छवि रूपांतरण के लिए मूल और उच्च प्रदर्शन XLSX दस्तावेज़ चार्ट।" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="XLSX" >}}
@@ -44,7 +45,7 @@ PM> Install-Package Aspose.Cells
 {{% /blocks/products/pf/agp/text %}}
 
 + XLSX फ़ाइल लोड करें।
-+ चार्ट प्राप्त करें.
+चार्ट प्राप्त करें.
 + चार्ट को छवि में बदलें।
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
@@ -78,7 +79,7 @@ PM> Install-Package Aspose.Cells
 
     {{% blocks/products/pf/agp/content h2="" %}}
 
-Aspose.Cells API का उपयोग Microsoft एक्सेल प्रारूपों को विभिन्न प्रारूपों में बनाने, संपादित करने, परिवर्तित करने और प्रस्तुत करने के लिए किया जा सकता है। इसके अलावा, इसका उपयोग सॉफ्टवेयर अनुप्रयोगों के भीतर व्यापक चार्टिंग, स्केलेबल रिपोर्टिंग और विश्वसनीय गणना के लिए किया जा सकता है। Aspose.Cells एक स्टैंडअलोन API है और इसके लिए Microsoft या ओपनऑफिस जैसे किसी सॉफ़्टवेयर की आवश्यकता नहीं है। एक्सेल चार्ट को PDF, JPG, PNG, EMF, WMF, BMP, SVG, TIFF, XPS में बदलें।
+ Aspose.Cells API का उपयोग Microsoft एक्सेल प्रारूपों को विभिन्न प्रारूपों में बनाने, संपादित करने, परिवर्तित करने और प्रस्तुत करने के लिए किया जा सकता है। इसके अलावा, इसका उपयोग सॉफ्टवेयर अनुप्रयोगों के भीतर व्यापक चार्टिंग, स्केलेबल रिपोर्टिंग और विश्वसनीय गणना के लिए किया जा सकता है। Aspose.Cells एक स्टैंडअलोन API है और इसके लिए Microsoft या ओपनऑफिस जैसे किसी सॉफ़्टवेयर की आवश्यकता नहीं है। एक्सेल चार्ट को PDF, JPG, PNG, EMF, WMF, BMP, SVG, TIFF, XPS में बदलें।
  
 
 

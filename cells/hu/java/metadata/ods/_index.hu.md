@@ -2,6 +2,7 @@
 title:  Szerkesztés vagy megtekintése ODS Fájlok metaadatai via Java
 weight: 2080
 description: Java mintakód a ODS formátumú metaadatok szerkesztéséhez vagy megtekintéséhez a Java Futókörnyezet JSP/JSF alkalmazásokhoz és asztali alkalmazásokhoz.
+keywords: [Java Aspose.Cells., Java view ods metadata., Java add ods metadata., Java insert ods metadata., Java edit ods metadata., Java remove ods metadata., Java extract ods metadata., Java modify ods metadata]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Kivonat ODS Metaadatok via Java" h2="Készítse el saját Java-es alkalmazásait a ODS fájlok metaadatok hozzáadásához, szerkesztéséhez, eltávolításához vagy kibontásához szerveroldali API-k segítségével." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="ODS" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="" fileiconsmall1="PPTX" fileiconsmall2="DOCX" fileiconsmall3="XLSX" fileiconsmall4="PDF" fileiconsmall5=" ODP " >}}
@@ -13,7 +14,7 @@ description: Java mintakód a ODS formátumú metaadatok szerkesztéséhez vagy 
 
  A ODS fájl metaadatainak lekéréséhez használjuk
  [Aspose.Cells for Java](https://products.aspose.com/cells/java) 
-API, amely funkciókban gazdag, hatékony és könnyen használható metaadatok API for Java platform. A legújabb verziót közvetlenül a webhelyről töltheti le
+ API, amely funkciókban gazdag, hatékony és könnyen használható metaadatok API for Java platform. A legújabb verziót közvetlenül a webhelyről töltheti le
  [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) 
  és telepítse a Maven alapú projekten belül a következő konfigurációk hozzáadásával a pom.xml fájlhoz.
 
@@ -119,7 +120,7 @@ System.out.println(w.getCustomDocumentProperties().get("test"));
 
     {{< blocks/products/pf/agp/about-file-section >}}
 
-        {{< blocks/products/pf/agp/demobox sectionTitle="Kivonja a ODS metaadatait online alkalmazáson keresztül" sectionDescription=" Tekintse meg és szerkessze a ODS számú dokumentumok metaadatait a mi használatával[Élő demók](https://products.aspose.app/cells/metadata) a következő előnyökkel." >}}
+        {{< blocks/products/pf/agp/demobox sectionTitle="Kivonja a ODS metaadatait online alkalmazáson keresztül" sectionDescription=" Tekintse meg és szerkessze a ODS számú dokumentumok metaadatait a mi használatával[Élő bemutatók](https://products.aspose.app/cells/metadata) a következő előnyökkel." >}}
             {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Nem kell letölteni vagy beállítani semmit" >}}
             {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Nem kell kódot írni" >}}
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Csak töltse fel a ODS fájlt, és szerkessze a dokumentum tulajdonságait" >}}

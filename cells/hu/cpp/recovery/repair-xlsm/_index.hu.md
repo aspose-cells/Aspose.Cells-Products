@@ -1,8 +1,8 @@
 ---
-title: C++ Xlsm fájl javítása – xlsm fájl javítása online ingyen
+title: C++ xlsm javítása – A sérült xlsm fájl helyreállítása és javítása
 url: /hu/cpp/recovery/repair-xlsm/ 
-description: Aspose Excel. C++ Aspose.Cells. C++ Xlsm fájl javítása. Ingyenes online xlsm javítóeszköz. Javítsa meg a sérült xlsm fájlt. Helyezze vissza a sérült xlsm fájlt a C++ alkalmazáson belül.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ Repair xlsm file., Free Online Repair a corrupted xlsm file., C++ Recover xlsm file.]
+description: C++ Aspose.Cells. Javítás xlsm. Xlsm fájl javítása. xlsm helyreállítási eszköz. xlsm korrupció. xlsm adatok visszaállítása. xlsm fájl helyreállítása. A sérült xlsm fájl helyreállítása.
+keywords: [C++ Aspose.Cells., repair xlsm file., xlsm repair., recover corrupted xlsm file., repair corrupted xlsm., recover xlsm., fix xlsm file., xlsm corruption., restore xlsm data., xlsm file recovery., recover corrupted xlsm file.]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Javítás XLSM fájl a C++-ben" h2="Készítse el saját C++ alkalmazását az xlsm fájlok javításához a C++ használatával." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSM" pfName="Aspose.Cells" subTitlepfName="for C++" downloadUrl="" fileiconsmall1="XLS" fileiconsmall2="XLSB" fileiconsmall3="XLSX" fileiconsmall4="XLSM" fileiconsmall5="ODS" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ Repair xlsm 
 
 {{% blocks/products/pf/agp/content h2="Javítás XLSM fájl a C++ használatával" %}}
 
- Hogyan javíthatom ki az xlsm fájlt? A Aspose.Cells for C++ könyvtárral könnyedén kijavíthatja a XLSM fájlt néhány soros kóddal, programozottan.[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) képes többplatformos alkalmazásokat létrehozni, módosítani, konvertálni, renderelni és kinyomtatni az összes Excel fájlt. C++ Excel API nem csak a táblázatformátumok között konvertál, hanem Excel fájlokat is képes megjeleníteni képként, PDF, HTML, ODS, CSV, CSV, CSV, CSV, CSV, CSV, SVG, és így tovább, SVG P, 8 PT a választás,3,8 ipari szabvány szerinti dokumentumok cseréjére formátumok. A legújabb verziót közvetlenül letöltheti, csak nyissa meg[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) csomagkezelő, keresse meg a Aspose.Cells.Cpp címet, és telepítse. A következő parancsot is használhatja a Package Manager konzolból.
+ Hogyan javíthatom ki az xlsm fájlt? A Aspose.Cells for C++ könyvtárral könnyedén kijavíthatja a XLSM fájlt néhány soros kóddal, programozottan.[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) képes többplatformos alkalmazásokat létrehozni, módosítani, konvertálni, renderelni és kinyomtatni az összes Excel fájlt. C++ Az Excel API nemcsak a táblázatformátumok között konvertál, hanem Excel-fájlokat is képes megjeleníteni képként, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT és egyebekként, így tökéletes választás a szabványos formátumú dokumentumok cseréjéhez. A legújabb verziót közvetlenül letöltheti, csak nyissa meg[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) csomagkezelő, keresse meg a Aspose.Cells.Cpp címet, és telepítse. A következő parancsot is használhatja a Package Manager konzolból.
 
 {{% blocks/products/pf/agp/code-block title="Parancs" offSpacer="true" %}}
 
@@ -41,7 +41,7 @@ Programozottan kell javítani az xlsm fájlt? C++ A fejlesztők könnyedén bet�
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-recovery title="Ingyenes alkalmazás és mintakód a XLSM fájl online javításához" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et" InputFormat="xlsm" outformat="xlsm" IsLandingPage="true" language="cpp" %}}    
+{{% cells-recovery title="Mintakód a XLSM fájl javításához" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;xps;mhtml;md;json;xml;zip;sql;txt;et" InputFormat="xlsm" outformat="xlsm" IsLandingPage="true" language="cpp" %}}    
     
 {{% blocks/products/pf/agp/content h2="C++ könyvtár a XLSM fájl javításához" %}}
 

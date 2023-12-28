@@ -1,7 +1,7 @@
 ---
-title: Java HTM-ből JPG-be – Online HTM-ből JPG-be konvertáló
-description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Ingyenes online Java HTM konvertálása JPG mentési formátumba. Java HTM JPG formátumba. HTM mentése JPG Java formátumba.
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java HTM to JPG saveformat., Free Online HTM to JPG Java., Java Convert HTM to JPG]
+title: Java HTM-ből JPG-be – HTM-ből JPG-be konvertáló
+description: Aspose Excel. A HTM-et gyorsan és egyszerűen konvertálja JPG formátumba a Aspose.Cells. Java HTM-ből JPG formátumba. Java HTM mentése JPG formátumba. Mentse a HTM-et JPG formátumban a Java használatával.
+keywords: [Aspose Excel., Java Aspose.Cells., Convert HTM to JPG in Java., Save HTM to JPG using Java., Java HTM to JPG saveformat., HTM to JPG Converter., Java Save HTM as JPG]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Konvertálja a HTM-et JPG-re a Java-ben" h2="Nagy sebességű Java könyvtár a HTM JPG formátumba konvertálásához. Ez egy professzionális szoftvermegoldás HTM, JPG és sok más formátum importálásához és exportálásához a Java használatával." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="JPG" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java HTM to JP
 
 {{% blocks/products/pf/agp/content h2="HTM konvertálása JPG formátumba a Java használatával" %}}
 
- Hogyan konvertálhatom a HTM-et JPG-be? A Aspose.Cells for Java könyvtárral egyszerűen konvertálhatja a HTM-et JPG formátumba programozottan néhány sornyi kóddal.[Aspose.Cells for Java](https://products.aspose.com/cells/java) képes többplatformos alkalmazásokat létrehozni, módosítani, konvertálni, renderelni és kinyomtatni az összes Excel fájlt. Java Excel API nem csak a táblázatformátumok között konvertál, hanem Excel fájlokat is képes megjeleníteni képként, PDF, HTML, ODS, CSV, CSV, CSV, CSV, CSV, CSV, SVG, és így tovább, SVG P, 8 PT a választás,3,8 ipari szabvány szerinti dokumentumok cseréjére formátumok. A legújabb verziót közvetlenül a webhelyről töltheti le[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) és telepítse a Maven alapú projekten belül a következő konfigurációk hozzáadásával a pom.xml fájlhoz.
+ Hogyan konvertálhatom a HTM-et JPG-be? A Aspose.Cells for Java könyvtárral egyszerűen konvertálhatja a HTM-et JPG formátumba programozottan néhány sornyi kóddal.[Aspose.Cells for Java](https://products.aspose.com/cells/java)képes többplatformos alkalmazásokat létrehozni, módosítani, konvertálni, renderelni és kinyomtatni az összes Excel fájlt. Java Az Excel API nemcsak a táblázatformátumok között konvertál, hanem Excel-fájlokat is képes megjeleníteni képként, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT és egyebekként, így tökéletes választás a szabványos formátumú dokumentumok cseréjéhez. A legújabb verziót közvetlenül a webhelyről töltheti le[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) és telepítse a Maven alapú projekten belül a következő konfigurációk hozzáadásával a pom.xml fájlhoz.
 
 {{% blocks/products/pf/agp/code-block title="Adattár" offSpacer="true" %}}
 
@@ -45,7 +45,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java HTM to JP
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Mentse el a HTM-et JPG formátumban a Java számon online ingyen" %}}
+{{% blocks/products/pf/agp/content h2="Mentse el a HTM-et JPG formátumban a Java számon" %}}
 
 A következő példa bemutatja, hogyan lehet HTM-et konvertálni JPG formátumba a Java-ben.
 {{% blocks/products/pf/agp/text %}}
@@ -56,7 +56,7 @@ Kövesse az egyszerű lépéseket a HTM JPG formátumba konvertálásához. Töl
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Ingyenes alkalmazás és mintakód a HTM JPG online konvertálásához" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="htm" outformat="jpg" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Mintakód a HTM JPG-re konvertálásához" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="htm" outformat="jpg" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="Hogyan lehet HTM-et konvertálni JPG via Java-re" %}}
 
@@ -70,7 +70,7 @@ Programozottan kell konvertálnia a HTM fájlokat JPG formátumba? A Java fejles
 1.  Adjon hozzá egy könyvtári hivatkozást (importálja a könyvtárat) a Java projekthez.
 1.  Töltse be a munkafüzet osztály egy példányát tartalmazó HTM-fájlt.
 1.  A Workbook.save metódus meghívásával konvertálja a HTM-et JPG-be.
-1.  Szerezze meg a HTM konvertálási eredményét JPG-vé.
+1. Szerezze meg a HTM konvertálási eredményét JPG-vé.
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -125,7 +125,7 @@ Programozottan kell konvertálnia a HTM fájlokat JPG formátumba? A Java fejles
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/htm-to-xltm/" name="HTM: XLTM" description="Excel-makró-kompatibilis sablon" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/htm-to-xltx/" name="HTM: XLTX" description="Office OpenXML Excel sablon" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/htm-to-xml/" name="HTM-ből XML-be" description="Bővíthető jelölőnyelv" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/htm-to-xps/" name="HTM: XPS" description="XML papírspecifikációk" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/htm-to-xps/" name="HTM: XPS" description="XML papír specifikációk" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/htm-to-json/" name="HTM: JSON" description="JavaScript objektum jelölés" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/htm-to-jpeg/" name="HTM: JPEG" description="JPEG Kép" >}}
 

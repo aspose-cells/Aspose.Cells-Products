@@ -2,6 +2,7 @@
 title:  एक्सेल via Java में छवियाँ/चित्रों का आकार प्राप्त करें
 weight: 10
 description: Aspose.Cells' Java API का उपयोग करके एक्सेल में छवियों/चित्रों का आकार बिना किसी सॉफ्टवेयर जैसे Microsoft या ओपन ऑफिस, एडोब PDF आदि के बिना प्राप्त करें।
+keywords: [Java Aspose.Cells., Java Get Images/Pictures Size In Excel., Java Obtain Images/Pictures Size In Excel., Java Access Images/Pictures Size In Excel]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="एक्सेल via Java में छवियाँ/चित्रों का आकार प्राप्त करें" h2="Microsoft या ओपन ऑफिस, एडोब PDF आदि जैसे किसी सॉफ्टवेयर के बिना विभिन्न वस्तुओं के साथ काम करने के लिए Aspose.Cells\' API का उपयोग करना।" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSX" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="" fileiconsmall1="PPTX" fileiconsmall2="DOCX" fileiconsmall3="XLSX" fileiconsmall4="PDF" fileiconsmall5=" ODP " >}}
@@ -63,7 +64,7 @@ description: Aspose.Cells' Java API का उपयोग करके एक�
     + [चौड़ाई](https://reference.aspose.com/cells/java/com.aspose.cells/picture/#getWidth--) पिक्सेल की इकाई में, आकार की चौड़ाई का प्रतिनिधित्व करता है।
     + [ऊंचाई](https://reference.aspose.com/cells/java/com.aspose.cells/picture/#getHeight--) पिक्सेल की इकाई में, आकार की ऊंचाई का प्रतिनिधित्व करता है।
     + [मूल चौड़ाई](https://reference.aspose.com/cells/java/com.aspose.cells/picture/#getOriginalWidth--) चित्र की मूल चौड़ाई, पिक्सेल की इकाई में प्राप्त होती है।
-    + [मूल ऊँचाई](https://reference.aspose.com/cells/java/com.aspose.cells/picture/#getOriginalHeight--) पिक्सेल की इकाई में, चित्र की मूल ऊंचाई प्राप्त होती है।
+    + [मूल ऊँचाई](https://reference.aspose.com/cells/java/com.aspose.cells/picture/#getOriginalHeight--)पिक्सेल की इकाई में, चित्र की मूल ऊंचाई प्राप्त होती है।
 
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

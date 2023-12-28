@@ -1,7 +1,8 @@
 ---
 title:  Illessze be a blokknyilakat az Excel via .NET-be
 weight: 338
-description: C# forráskód a blokknyilak beillesztéséhez az Excelbe a .NET Framework, .NET Core, Mono vagy Xamarin platformokon.
+description: C# Mintakód blokknyilak Excelbe való hozzáadásához vagy beszúrásához a .NET Library használatával. Ezzel a kóddal blokknyilakat hozhat létre MS Excelben a VB.NET, Asp.NET vagy bármely .NET alapú alkalmazáson belül.
+keywords: [C# Aspose.Cells., c# add block arrows., c# insert block arrows., c# create block arrows]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Illessze be a blokknyilakat az Excel via .NET-be" h2="Szúrjon be blokknyilakat a Aspose.Cells\' API használatával, szoftverek, például Microsoft vagy Open Office, Adobe PDF stb. nélkül." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="XLSX" >}}
@@ -11,7 +12,7 @@ description: C# forráskód a blokknyilak beillesztéséhez az Excelbe a .NET Fr
 
 {{% blocks/products/pf/agp/content h2="Blokknyilak beszúrása Excel-fájlba a C# használatával" %}}
 
- blokknyilak excel fájlba való beillesztéséhez használjuk
+ A blokknyilak excel fájlba való beillesztéséhez használjuk
  [Aspose.Cells for .NET](https://products.aspose.com/cells/net) 
  API, amely funkciókban gazdag, hatékony és könnyen használható dokumentumkezelési és -osztó API a C# platformhoz. Nyisd ki
  [NuGet](https://www.nuget.org/packages/aspose.cells) 
@@ -41,7 +42,7 @@ Szüksége van az aspose.cells.dll fájlra a következő munkafolyamat kipróbá
 
 {{% /blocks/products/pf/agp/text %}}
 
-Munkafüzet objektum példányosítása. (vagy->Töltse be a XLSX fájlt a teljes elérési úttal.)
++ Munkafüzet objektum példányosítása. (vagy->Töltse be a XLSX fájlt a teljes elérési úttal.)
 + Válassza ki a munkalapot az indexén keresztül.
  + Használja a[módszer hozzáadása](https://reference.aspose.com/cells/net/aspose.cells.drawing/shapecollection/addautoshape) blokknyilak beszúrásához a kiválasztott munkalapba
 + Mentse a munkafüzetet XLSX formátumban.
@@ -87,7 +88,7 @@ Az alábbi mintakód bemutatja a „jobbra nyíl” beszúrását. További típ
    <div class="col-lg-4">
     <img src="/cells/net/shapes/insert-block-arrows-to-excel/arrow_left.png" align="left" width="28" height="28">
     <p class="col-lg-10">
- AutoShapeType.LeftArrow
+ AutoShapeType.Left Arrow
     </p>
    </div>
    <div class="col-lg-4">
@@ -159,7 +160,7 @@ Az alábbi mintakód bemutatja a „jobbra nyíl” beszúrását. További típ
    <div class="col-lg-4">
     <img src="/cells/net/shapes/insert-block-arrows-to-excel/arrow_curved_left.png" align="left" width="28" height="28">
     <p class="col-lg-10">
- AutoShapeType.Curved LeftArrow
+AutoShapeType.Curved LeftArrow
     </p>
    </div>
    <div class="col-lg-4">
@@ -219,7 +220,7 @@ Az alábbi mintakód bemutatja a „jobbra nyíl” beszúrását. További típ
    <div class="col-lg-4">
     <img src="/cells/net/shapes/insert-block-arrows-to-excel/arrow_up_callout.png" align="left" width="28" height="28">
     <p class="col-lg-10">
-AutoShapeType.UpArrowCallout
+ AutoShapeType.UpArrowCallout
     </p>
    </div>
    <div class="col-lg-4">
@@ -253,7 +254,7 @@ AutoShapeType.UpArrowCallout
 
 {{% blocks/products/pf/agp/content h2="Körülbelül Aspose.Cells for .NET API" %}}
 
- Aspose.Cells API használható Microsoft Excel formátumok létrehozására, szerkesztésére, konvertálására és renderelésére különböző formátumokba. Ezen túlmenően használható átfogó diagramok készítésére, skálázható jelentésekre és megbízható számításokra a szoftveralkalmazásokon belül. A Aspose.Cells egy önálló API, és nem igényel olyan szoftvert, mint a Microsoft vagy az OpenOffice.
+Aspose.Cells API használható Microsoft Excel formátumok létrehozására, szerkesztésére, konvertálására és renderelésére különböző formátumokba. Ezen túlmenően használható átfogó diagramok készítésére, skálázható jelentésekre és megbízható számításokra a szoftveralkalmazásokon belül. A Aspose.Cells egy önálló API, és nem igényel olyan szoftvert, mint a Microsoft vagy az OpenOffice.
 
 {{% /blocks/products/pf/agp/content %}}
 

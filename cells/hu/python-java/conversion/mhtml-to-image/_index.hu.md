@@ -1,7 +1,7 @@
 ---
-title: Python MHTML - IMAGE - Online MHTML - IMAGE Converter
-description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Ingyenes online Python A MHTML konvertálása IMAGE mentési formátumba. Python MHTML IMAGE formátumba. Mentse el a MHTML számot az IMAGE Python számon.
-keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python MHTML to IMAGE saveformat., Free Online MHTML to IMAGE Python., Python Convert MHTML to IMAGE]
+title: Python MHTML - IMAGE - MHTML - IMAGE Converter
+description: Aspose Excel. A MHTML számot gyorsan és egyszerűen IMAGE-re alakíthatja át a Aspose.Cells-es számmal. Python MHTML IMAGE-re. Python Mentse el a MHTML számot az IMAGE-ba. Mentse el a MHTML-et KÉP néven a Python használatával.
+keywords: [Aspose Excel., Python Aspose.Cells., Convert MHTML to IMAGE in Python., Save MHTML to IMAGE using Python., Python MHTML to IMAGE saveformat., MHTML to IMAGE Converter., Python Save MHTML as IMAGE]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Konvertálja a MHTML-et IMAGE-re a Python-ben" h2="Nagy sebességű Python könyvtár a MHTML IMAGE formátummá konvertálásához. Ez egy professzionális szoftvermegoldás a MHTML, IMAGE és sok más formátum importálásához és exportálásához a Python használatával." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="IMAGE" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,11 +12,11 @@ keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python MHT
 
 {{% blocks/products/pf/agp/content h2="A MHTML konvertálása IMAGE-re a Python használatával" %}}
 
- Hogyan konvertálhatom át a MHTML-et IMAGE-re? A Aspose.Cells for Python könyvtárral könnyedén konvertálhatja a MHTML-et programozottan IMAGE-re néhány sor kóddal.[Aspose.Cells for Python](https://pypi.org/project/aspose-cells)képes többplatformos alkalmazásokat létrehozni, módosítani, konvertálni, renderelni és kinyomtatni az összes Excel fájlt. Python Excel API nem csak a táblázatformátumok között konvertál, hanem Excel fájlokat is képes megjeleníteni képként, PDF, HTML, ODS, CSV, CSV, CSV, CSV, CSV, CSV, SVG, és így tovább, SVG P, 8 PT a választás,3,8 ipari szabvány szerinti dokumentumok cseréjére formátumok.
+ Hogyan konvertálhatom át a MHTML-et IMAGE-re? A Aspose.Cells for Python könyvtárral könnyedén konvertálhatja a MHTML-et programozottan IMAGE-re néhány sor kóddal.[Aspose.Cells for Python](https://pypi.org/project/aspose-cells)képes többplatformos alkalmazásokat létrehozni, módosítani, konvertálni, renderelni és kinyomtatni az összes Excel fájlt. Python Az Excel API nemcsak a táblázatformátumok között konvertál, hanem Excel-fájlokat is képes megjeleníteni képként, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT és egyebekként, így tökéletes választás a szabványos formátumú dokumentumok cseréjéhez.
  
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Mentse el a MHTML-et az IMAGE-be a Python-ben online ingyen" %}}
+{{% blocks/products/pf/agp/content h2="Mentse el a MHTML számot az IMAGE számára a Python címen" %}}
 
 A következő példa bemutatja, hogyan lehet a MHTML-et IMAGE-vé alakítani a Python-ben.
 {{% blocks/products/pf/agp/text %}}
@@ -27,7 +27,7 @@ Kövesse az egyszerű lépéseket a MHTML IMAGE formátumba konvertálásához. 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Ingyenes alkalmazás és mintakód a MHTML IMAGE Online konvertálásához" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="mhtml" outformat="png" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="Mintakód a MHTML IMAGE formátumú konvertálásához" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="mhtml" outformat="png" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="A MHTML konvertálása IMAGE-re a Python-en keresztül" %}}
 
@@ -63,12 +63,12 @@ Három lehetőség közül választhat a „Aspose.Cells for Python via Java” 
 
 {{% blocks/products/pf/agp/text %}}
 
-Aspose.Cells for Python via Java platformfüggetlen API, és bármilyen platformon használható (Windows, Linux és MacOS), csak győződjön meg arról, hogy a rendszer Java 1.8 vagy újabb[Python](https://www.python.org/downloads/) 3,5 vagy magasabb.
+ Aspose.Cells for Python via Java platformfüggetlen API, és bármilyen platformon használható (Windows, Linux és MacOS), csak győződjön meg arról, hogy a rendszer Java 1.8 vagy újabb[Python](https://www.python.org/downloads/) 3,5 vagy magasabb.
  
 {{% /blocks/products/pf/agp/text %}}
 
 -  Telepítse a Java-et, és adja hozzá a PATH környezeti változóhoz, például:<code>PATH=C:\Program Files\Java\jdk1.8.0_131;</code>.
-- Telepítés: Aspose.Cells for Python innen<a href="https://pypi.org/project/aspose-cells/">pypi</a> , használja a parancsot a következőképpen:<code>$ pip install aspose-cells</code>.
+-  Telepítés: Aspose.Cells for Python innen<a href="https://pypi.org/project/aspose-cells/">pypi</a> , használja a parancsot a következőképpen:<code>$ pip install aspose-cells</code>.
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -102,7 +102,7 @@ Aspose.Cells for Python via Java platformfüggetlen API, és bármilyen platform
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/mhtml-to-xltm/" name="MHTML-XLTM" description="Excel-makró-kompatibilis sablon" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/mhtml-to-xltx/" name="MHTML-XLTX" description="Office OpenXML Excel sablon" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/mhtml-to-xml/" name="MHTML XML-RE" description="Bővíthető jelölőnyelv" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/mhtml-to-xps/" name="MHTML-XPS" description="XML papírspecifikációk" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/mhtml-to-xps/" name="MHTML-XPS" description="XML papír specifikációk" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/mhtml-to-json/" name="MHTML-JSON" description="JavaScript objektum jelölés" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}

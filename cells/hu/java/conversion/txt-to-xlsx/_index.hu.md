@@ -1,7 +1,7 @@
 ---
-title: Java TXT - XLSX - Online TXT - XLSX Átalakító
-description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Ingyenes online Java A TXT konvertálása XLSX mentési formátumra. Java TXT - XLSX formátum. Mentse a TXT számot a XLSX Java számra.
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java TXT to XLSX saveformat., Free Online TXT to XLSX Java., Java Convert TXT to XLSX]
+title: Java TXT - XLSX - TXT - XLSX Átalakító
+description: Aspose Excel. A TXT-es számot XLSX-re gyorsan és egyszerűen a Aspose.Cells-es számmal alakíthatja át. Java TXT-XLSX-re. 13481 a Java számon.
+keywords: [Aspose Excel., Java Aspose.Cells., Convert TXT to XLSX in Java., Save TXT to XLSX using Java., Java TXT to XLSX saveformat., TXT to XLSX Converter., Java Save TXT as XLSX]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Konvertálja a TXT-et XLSX-re Java-ben" h2="Nagysebességű Java könyvtár a TXT XLSX-es számok konvertálásához. Ez egy professzionális szoftvermegoldás a TXT, XLSX és sok más formátum importálásához és exportálásához a Java szám használatával." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSX" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java TXT to XL
 
 {{% blocks/products/pf/agp/content h2="A TXT konvertálása XLSX-re a Java használatával" %}}
 
-Hogyan alakíthatom át a TXT-et XLSX-re? A Aspose.Cells for Java könyvtárral egyszerűen konvertálhatja a TXT-et programozottan XLSX-re néhány sor kóddal.[Aspose.Cells for Java](https://products.aspose.com/cells/java) képes többplatformos alkalmazásokat létrehozni, módosítani, konvertálni, renderelni és kinyomtatni az összes Excel fájlt. Java Excel API nem csak a táblázatformátumok között konvertál, hanem Excel fájlokat is képes megjeleníteni képként, PDF, HTML, ODS, CSV, CSV, CSV, CSV, CSV, CSV, SVG, és így tovább, SVG P, 8 PT a választás,3,8 ipari szabvány szerinti dokumentumok cseréjére formátumok. A legújabb verziót közvetlenül a webhelyről töltheti le[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) és telepítse a Maven alapú projekten belül a következő konfigurációk hozzáadásával a pom.xml fájlhoz.
+Hogyan alakíthatom át a TXT-et XLSX-re? A Aspose.Cells for Java könyvtárral egyszerűen konvertálhatja a TXT-et programozottan XLSX-re néhány sor kóddal.[Aspose.Cells for Java](https://products.aspose.com/cells/java)képes többplatformos alkalmazásokat létrehozni, módosítani, konvertálni, renderelni és kinyomtatni az összes Excel fájlt. Java Az Excel API nemcsak a táblázatformátumok között konvertál, hanem Excel-fájlokat is képes megjeleníteni képként, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT és egyebekként, így tökéletes választás a szabványos formátumú dokumentumok cseréjéhez. A legújabb verziót közvetlenül a webhelyről töltheti le[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) és telepítse a Maven alapú projekten belül a következő konfigurációk hozzáadásával a pom.xml fájlhoz.
 
 {{% blocks/products/pf/agp/code-block title="Adattár" offSpacer="true" %}}
 
@@ -45,7 +45,7 @@ Hogyan alakíthatom át a TXT-et XLSX-re? A Aspose.Cells for Java könyvtárral 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Takarítson meg TXT-XLSX számot a Java számon online ingyen" %}}
+{{% blocks/products/pf/agp/content h2="Mentse a TXT-XLSX számot a Java-es számon" %}}
 
 A következő példa bemutatja, hogyan lehet a TXT-et XLSX-re konvertálni a Java-ben.
 {{% blocks/products/pf/agp/text %}}
@@ -56,9 +56,9 @@ Kövesse az egyszerű lépéseket a TXT XLSX-re konvertálásához. Töltse fel 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Ingyenes alkalmazás és mintakód a TXT XLSX online konvertálásához" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="txt" outformat="xlsx" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Mintakód a TXT XLSX-re konvertálásához" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="txt" outformat="xlsx" IsLandingPage="true" language="java" %}}
 
-{{% blocks/products/pf/agp/content h2="TXT XLSX via Java-re konvertálása" %}}
+{{% blocks/products/pf/agp/content h2="A TXT XLSX via Java-re konvertálása" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
@@ -68,7 +68,7 @@ A TXT fájlt programozottan XLSX-re kell konvertálni? A Java fejlesztők könny
 
 1.  Telepítse a „Aspose.Cells for Java” fájlt.
 1.  Adjon hozzá egy könyvtári hivatkozást (importálja a könyvtárat) a Java projekthez.
-1.  Töltse be a TXT számú fájlt a Workbook osztály egy példányával.
+1. Töltse be a TXT számú fájlt a Workbook osztály egy példányával.
 1.  Konvertálja a TXT-et XLSX-re a Workbook.save metódus meghívásával.
 1.  Szerezze meg a TXT-es konverziós eredményt XLSX-re.
 
@@ -125,7 +125,7 @@ A TXT fájlt programozottan XLSX-re kell konvertálni? A Java fejlesztők könny
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/txt-to-xltm/" name="TXT-XLTM" description="Excel-makró-kompatibilis sablon" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/txt-to-xltx/" name="TXT-XLTX" description="Office OpenXML Excel sablon" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/txt-to-xml/" name="TXT XML-RE" description="Bővíthető jelölőnyelv" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/txt-to-xps/" name="TXT-XPS" description="XML papírspecifikációk" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/txt-to-xps/" name="TXT-XPS" description="XML papír specifikációk" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/txt-to-json/" name="TXT-JSON" description="JavaScript objektum jelölés" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/txt-to-jpeg/" name="TXT-JPEG" description="JPEG Kép" >}}
 

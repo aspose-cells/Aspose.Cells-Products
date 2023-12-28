@@ -1,7 +1,8 @@
 ---
-title: Hogyan rajzolhatok vagy szúrhatok be dupla egyenes nyilat az Excel via .NET-be
+title:  Hogyan rajzolhatok vagy szúrhatok be dupla egyenes nyilat az Excel via .NET-be
 weight: 10
-description: C# forráskód a dupla egyenes nyíl rajzolásához vagy beszúrásához az Excelbe a .NET Framework, .NET Core, Mono vagy Xamarin platformokon.
+description: C# Mintakód dupla egyenes nyíl hozzáadásához vagy beszúrásához az Excelbe a .NET könyvtár használatával. Ezzel a kóddal kettős egyenes nyilat hozhat létre MS Excelben a VB.NET, Asp.NET vagy bármely .NET alapú alkalmazáson belül.
+keywords: [C# Aspose.Cells., c# add double straight arrow., c# insert double straight arrow., c# create double straight arrow]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Szúrjon be dupla egyenes nyilat az Excel via .NET-be" h2="Szúrjon be dupla egyenes nyilat a Aspose.Cells\' API használatával, szoftver nélkül, például Microsoft vagy Open Office, Adobe PDF stb." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="XLSX" >}}
@@ -11,7 +12,7 @@ description: C# forráskód a dupla egyenes nyíl rajzolásához vagy beszúrás
 
 {{% blocks/products/pf/agp/content h2="Dupla egyenes nyíl beszúrása Excel fájlba a C# használatával" %}}
 
- Ahhoz, hogy dupla egyenes nyilat illesszünk be az Excel fájlba, használjuk
+Ahhoz, hogy dupla egyenes nyilat illesszünk be az Excel fájlba, használjuk
  [Aspose.Cells for .NET](https://products.aspose.com/cells/net) 
  API, amely funkciókban gazdag, hatékony és könnyen használható dokumentumkezelési és -osztó API a C# platformhoz. Nyisd ki
  [NuGet](https://www.nuget.org/packages/aspose.cells) 
@@ -41,9 +42,9 @@ Szüksége van az aspose.cells.dll fájlra a következő munkafolyamat kipróbá
 
 {{% /blocks/products/pf/agp/text %}}
 
-Munkafüzet objektum példányosítása. (vagy->Töltse be a XLSX fájlt a teljes elérési úttal.)
++ Munkafüzet objektum példányosítása. (vagy->Töltse be a XLSX fájlt a teljes elérési úttal.)
 + Válassza ki a munkalapot az indexén keresztül.
- + Használja a[módszer hozzáadása](https://reference.aspose.com/cells/net/aspose.cells.drawing/shapecollection/methods/addline) dupla egyenes nyíl beszúrásához a kiválasztott munkalapba
+ + Használja a[módszer hozzáadása](https://reference.aspose.com/cells/net/aspose.cells.drawing/shapecollection/methods/addline)dupla egyenes nyíl beszúrásához a kiválasztott munkalapba
 + Mentse a munkafüzetet XLSX formátumban.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
@@ -77,7 +78,7 @@ Munkafüzet objektum példányosítása. (vagy->Töltse be a XLSX fájlt a telje
 
 {{% blocks/products/pf/agp/content h2="Körülbelül Aspose.Cells for .NET API" %}}
 
- Aspose.Cells API használható Microsoft Excel formátumok létrehozására, szerkesztésére, konvertálására és renderelésére különböző formátumokba. Ezen túlmenően használható átfogó diagramok készítésére, skálázható jelentésekre és megbízható számításokra a szoftveralkalmazásokon belül. A Aspose.Cells egy önálló API, és nem igényel olyan szoftvert, mint a Microsoft vagy az OpenOffice.
+Aspose.Cells API használható Microsoft Excel formátumok létrehozására, szerkesztésére, konvertálására és renderelésére különböző formátumokba. Ezen túlmenően használható átfogó diagramok készítésére, skálázható jelentésekre és megbízható számításokra a szoftveralkalmazásokon belül. A Aspose.Cells egy önálló API, és nem igényel olyan szoftvert, mint a Microsoft vagy az OpenOffice.
 
 {{% /blocks/products/pf/agp/content %}}
 

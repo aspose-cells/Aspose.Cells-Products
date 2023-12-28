@@ -2,6 +2,7 @@
 title:  XLSX फ़ाइलें मेटाडेटा via .NET देखें या संपादित करें
 weight: 3430
 description: .NET फ्रेमवर्क, .NET कोर, Mono या ज़ामरिन प्लेटफ़ॉर्म पर XLSX प्रारूप मेटाडेटा को संपादित करने या देखने के लिए C# स्रोत कोड।
+keywords: [C# Aspose.Cells., c# view xlsx metadata., c# add xlsx metadata., c# insert xlsx metadata., c# edit xlsx metadata., c# remove xlsx metadata., c# extract xlsx metadata., c# modify xlsx metadata]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="XLSX मेटाडेटा via .NET निकालें" h2="सर्वर-साइड एपीआई का उपयोग करके XLSX फ़ाइलों से मेटाडेटा जोड़ने, संपादित करने, हटाने या निकालने के लिए अपने स्वयं के .NET ऐप्स बनाएं।" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSX" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="PPTX" fileiconsmall2="DOCX" fileiconsmall3="XLSX" fileiconsmall4="PDF" fileiconsmall5=" ODP " >}}

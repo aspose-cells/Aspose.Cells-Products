@@ -2,6 +2,7 @@
 title: Illessze be a Gombot (Űrlapvezérlőt) az Excelbe a Python via java használatával
 weight: 200
 description: Python via Java forráskód a gomb (Űrlapvezérlő) beillesztéséhez az Excelbe.
+keywords: [Python via Java Aspose.Cells., Python via Java add button into Excel., Python via Java insert button into Excel., Python via Java create button in Excel]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Illessze be a Gombot (Űrlapvezérlőt) az Excelbe a Python via java használatával" h2="Szerveroldali API-k használatával szúrjon be objektumokat szoftver nélkül, például Microsoft vagy Open Office, Adobe PDF stb." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="" pfName="Aspose.Cells" subTitlepfName="for Python via Java" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="XLSX" >}}
@@ -11,9 +12,9 @@ description: Python via Java forráskód a gomb (Űrlapvezérlő) beillesztésé
 
 {{% blocks/products/pf/agp/content h2="Gomb (űrlapvezérlő) beszúrása Excel fájlba a Python via java használatával" %}}
 
- Ahhoz, hogy a Gombot (Űrlapvezérlő) beillesszük az Excel fájlba, használjuk
+Ahhoz, hogy a Gombot (Űrlapvezérlő) beillesszük az Excel fájlba, használjuk
  [Aspose.Cells for Python java-n keresztül](https://pypi.org/project/aspose-cells/) 
-API, amely funkciókban gazdag, hatékony és könnyen használható dokumentumkezelés API pythonhoz Java platformon keresztül. A API Excel-fájlok létrehozását, kezelését, konvertálását és megjelenítését biztosítja. Mindezt anélkül, hogy a Microsoft Office- vagy Excel-alkalmazásokra hagyatkozna. A következő paranccsal telepítheti a konzolról.
+ API, amely funkciókban gazdag, hatékony és könnyen használható dokumentumkezelés API pythonhoz Java platformon keresztül. A API Excel-fájlok létrehozását, kezelését, konvertálását és megjelenítését biztosítja. Mindezt anélkül, hogy a Microsoft Office- vagy Excel-alkalmazásokra hagyatkozna. A következő paranccsal telepítheti a konzolról.
 
 {{% blocks/products/pf/agp/code-block title="Parancs" offSpacer="true" %}}
 
@@ -37,9 +38,9 @@ Szüksége van a Aspose.Cells-es számra a következő munkafolyamat kipróbál�
 
 {{% /blocks/products/pf/agp/text %}}
 
-Munkafüzet objektum példányosítása. (vagy->Töltse be a XLSX fájlt a teljes elérési úttal.)
++ Munkafüzet objektum példányosítása. (vagy->Töltse be a XLSX fájlt a teljes elérési úttal.)
 + Válassza ki a munkalapot az indexén keresztül.
- + Használja az alakgyűjteményt[módszer hozzáadása](https://reference.aspose.com/cells/python-java/asposecells.api/shapecollection#addButton(int,%20int,%20int,%20int,%20int,%20int)gomb (Űrlapvezérlő) beszúrásához a kiválasztott munkalapba.
+ + Használja az alakgyűjteményt[módszer hozzáadása](https://reference.aspose.com/cells/python-java/asposecells.api/shapecollection#addButton(int,%20int,%20int,%20int,%20int,%20int)) gomb (Űrlapvezérlő) beszúrásához a kiválasztott munkalapba.
 + Mentse a munkafüzetet XLSX formátumban.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
@@ -53,7 +54,7 @@ Munkafüzet objektum példányosítása. (vagy->Töltse be a XLSX fájlt a telje
 {{% /blocks/products/pf/agp/text %}}
 
 -  Bármilyen operációs rendszer, amely képes a python futtatására java szkripteken keresztül, például Windows, Linux és MacOS
--  Telepítse a Java-et, és adja hozzá a PATH környezeti változóhoz, például:<code>PATH=C:\Program Files\Java\jdk1.8.0_131;</code>.
+- Telepítse a Java-et, és adja hozzá a PATH környezeti változóhoz, például:<code>PATH=C:\Program Files\Java\jdk1.8.0_131;</code>.
 -  Telepítse a Aspose.Cells for Python számot javával innen<a href="https://pypi.org/project/aspose-cells/">pypi</a> , használja a parancsot a következőképpen:<code>$ pip install aspose-cells</code>.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

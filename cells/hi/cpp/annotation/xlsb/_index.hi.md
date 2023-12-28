@@ -1,7 +1,8 @@
 ---
-title:  C++ के माध्यम से एक्सेल फ़ाइल XLSB एनोटेशन जोड़ें
+title:  C++ के माध्यम से एक्सेल फ़ाइल XLSB एनोटेशन जोड़ें या हटाएँ
 weight: 860
 description: Windows 32 बिट, Windows 64 बिट और लिनक्स 64 बिट के लिए C++ रनटाइम एनवायरनमेंट पर XLSB प्रारूप एनोटेशन को हटाने के लिए नमूना कोड।
+keywords: [C++ Aspose.Cells., add xlsb annotation., insert xlsb annotation., access xlsb annotation., remove xlsb annotation., delete xlsb annotation., add annotation in xlsb., insert annotation in xlsb., access annotation in xlsb., remove annotation in xlsb., delete annotation in xlsb]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="XLSB फ़ाइल में C++ के माध्यम से एनोटेशन जोड़ें" h2="सर्वर-साइड एपीआई का उपयोग करके दस्तावेज़ फ़ाइलों में टिप्पणियों और लेखकों में हेरफेर करने के लिए अपने स्वयं के C++ ऐप्स बनाएं।" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSB" pfName="Aspose.Cells" subTitlepfName="for C++" downloadUrl="" fileiconsmall1="PPTX" fileiconsmall2="DOCX" fileiconsmall3="XLSX" fileiconsmall4="PDF" fileiconsmall5=" ODP " >}}
@@ -43,7 +44,7 @@ PM> Install-Package Aspose.Cells.Cpp
 1.  प्रासंगिक शीट का चयन करें
 1.  जोड़ें विधि का उपयोग करके टिप्पणी जोड़ें
 1.  SetNote विधि का उपयोग करके टिप्पणी का नोट सेट करें।
-1.  का उपयोग करके कार्यपुस्तिका सहेजें[बचाना](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook#a77072cfb929787df9ad1f38b02f58349) तरीका
+1.  का उपयोग करके कार्यपुस्तिका सहेजें[बचाना](https://reference.aspose.com/cells/cpp/aspose.cells/workbook/save/) तरीका
 
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
@@ -63,7 +64,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% blocks/products/pf/agp/code-block title="XLSB फ़ाइल - C++ में टिप्पणियाँ जोड़ें" offSpacer="" %}}
 
-{{< gist "aspose-com-gists" "e144512d2c395c3336f12ce960424686" "add-comment-in-xlsb-file.cpp" >}}
+{{< gist "aspose-cells-gists" "6f7d9819d85793c3a3b5d040af42e1a9" "add-comment-in-xlsb-file.cpp" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 

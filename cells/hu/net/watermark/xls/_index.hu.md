@@ -1,7 +1,8 @@
 ---
-title:  Vízjel XLS dokumentum via .NET
+title: Vízjel XLS dokumentum via .NET
 weight: 3050
 description: C# forráskód vízjel hozzáadásához vagy eltávolításához a .NET Framework, .NET Core, Mono vagy Xamarin Platforms XLS fájlhoz.
+keywords: [C# Aspose.Cells., C# add watermark to xls file., C# insert watermark to xls file., C# create watermark in xls file., remove watermark from xls file using C#., C# operate watermark in xls file., C# access watermark in xls file]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Szöveges vízjel hozzáadása a XLS számhoz a C# számon keresztül" h2="Szerveroldali API-k segítségével készítse el saját .NET-es alkalmazásait a XLS-es fájlok vízjelezésére." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLS" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="PPTX" fileiconsmall2="DOCX" fileiconsmall3="XLSX" fileiconsmall4="PDF" fileiconsmall5=" ODP " >}}

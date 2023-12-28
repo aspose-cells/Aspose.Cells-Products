@@ -1,7 +1,8 @@
 ---
-title:  XLSM एनोटेशन via .NET हटाएँ
+title:  XLSM एनोटेशन via .NET जोड़ें या हटाएँ
 weight: 9890
 description: .NET फ्रेमवर्क, .NET कोर, Mono या ज़ामरिन प्लेटफ़ॉर्म पर XLSM प्रारूप एनोटेशन जोड़ने और हटाने के लिए C# स्रोत कोड।
+keywords: [C# Aspose.Cells., add xlsm annotation., insert xlsm annotation., access xlsm annotation., remove xlsm annotation., delete xlsm annotation., add annotation in xlsm., insert annotation in xlsm., access annotation in xlsm., remove annotation in xlsm., delete annotation in xlsm]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="XLSM से C# तक एनोटेशन जोड़ें या हटाएं" h2="सर्वर-साइड एपीआई का उपयोग करके दस्तावेज़ फ़ाइलों में टिप्पणियों और लेखकों में हेरफेर करने के लिए अपने स्वयं के .NET ऐप्स बनाएं।" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSM" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="PPTX" fileiconsmall2="DOCX" fileiconsmall3="XLSX" fileiconsmall4="PDF" fileiconsmall5=" ODP " >}}

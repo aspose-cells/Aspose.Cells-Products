@@ -2,6 +2,7 @@
 title:  Könyöknyilak rajzolása vagy beszúrása az Excel via Java-be
 weight: 30
 description: Rajzolja meg vagy illessze be a könyök nyíl alakját a Java Java API számmal szoftver nélkül, például Microsoft vagy Open Office, Adobe PDF stb.
+keywords: [Java Aspose.Cells., Java add elbow arrow shape., Java insert elbow arrow shape., Java create elbow arrow shape]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Illessze be a könyök nyíl alakját az Excel via Java-be" h2="Illessze be a könyök nyíl alakját a Aspose.Cells\' API használatával, szoftver nélkül, például Microsoft vagy Open Office, Adobe PDF stb." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSX" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="" fileiconsmall1="PPTX" fileiconsmall2="DOCX" fileiconsmall3="XLSX" fileiconsmall4="PDF" fileiconsmall5=" ODP " >}}
@@ -50,13 +51,13 @@ description: Rajzolja meg vagy illessze be a könyök nyíl alakját a Java Java
 
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
-{{% blocks/products/pf/agp/feature-section-col title="könyöknyíl alakzatának beszúrásának lépései a via Java-es Excel-fájlba" %}}
+{{% blocks/products/pf/agp/feature-section-col title="A könyöknyíl alakzatának beszúrásának lépései a via Java-es Excel-fájlba" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/text %}}
 
-Munkafüzet objektum példányosítása. (vagy->Töltse be a XLSX fájlt a teljes elérési úttal.)
++ Munkafüzet objektum példányosítása. (vagy->Töltse be a XLSX fájlt a teljes elérési úttal.)
 + Válassza ki a munkalapot az indexén keresztül.
  + Használja a[módszer hozzáadása](https://reference.aspose.com/cells/java/com.aspose.cells/shapecollection/#addAutoShape-int-int-int-int-int-int-int-) könyöknyíl alakzat beszúrásához a kiválasztott munkalapba
 + Mentse a munkafüzetet XLSX formátumban.

@@ -2,6 +2,7 @@
 title:  C++ के माध्यम से XLS दस्तावेज़ को सुरक्षित रखें और लॉक करें
 weight: 8760
 description: Windows 32 बिट, Windows 64 बिट और लिनक्स 64 बिट के लिए C++ रनटाइम एनवायरनमेंट पर पासवर्ड का उपयोग करके XLS फ़ाइल को लॉक करने के लिए उदाहरण कोड।
+keywords: [C++ Aspose.Cells., C++ Lock XLS files., C++ How to Protect and lock XLS document., C++ Protect XLS files., Encrypt XLS Files using C++]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="XLS फ़ाइलों को C++ के माध्यम से एन्क्रिप्ट करें" h2=".NET लाइब्रेरी का उपयोग करके XLS प्रारूप सहित एक्सेल स्प्रेडशीट को पासवर्ड से सुरक्षित करें।" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLS" pfName="Aspose.Cells" subTitlepfName="for C++" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLS" >}}
@@ -41,7 +42,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/text %}}
 
-1.  IWorkbook क्लास का उपयोग करके XLS फ़ाइल लोड करें
+1.  वर्कबुक क्लास का उपयोग करके XLS फ़ाइल लोड करें
 1.  प्रोटेक्शनटाइप और पासवर्ड के साथ प्रोटेक्ट(..) विधि का उपयोग करें
 1.  संरक्षित XLS फ़ाइल को Save() विधि द्वारा सहेजें
 
@@ -64,20 +65,24 @@ PM> Install-Package Aspose.Cells.Cpp
 
 ```cs
 
-// Source path.
-StringPtr srcDir = new String("SourcePath\");
+Aspose::Cells::Startup();
 
-// Output path.
-StringPtr outDir = new String("OutputPath\");
+// load the ODS Excel file 
+Workbook book(u"unlocked.xls");
 
-// Load XLS file
-intrusive_ptr<IWorkbook> workbook = Factory::CreateIWorkbook(srcDir->StringAppend(new String("sourceFile.xls")));
+// access the first worksheet
+Worksheet worksheet = book.GetWorksheets().Get(0);
 
-// Protect workbook by specifying protection type
-workbook->Protect(ProtectionType::ProtectionType_All, new String("12345"));
+// protect the worksheet with password
+worksheet.Protect(ProtectionType::All, u"password", nullptr);
 
-// Save the XLS file
-workbook->Save(outDir->StringAppend(new String("output.xls")));
+// protect the whole workbook with password
+book.Protect(ProtectionType::All, u"password");
+
+// save the modified file in default format
+book.Save(u"protected.xls");
+
+Aspose::Cells::Cleanup();
 
 ```
 

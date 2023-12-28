@@ -2,6 +2,7 @@
 title:  XLS फ़ाइलें मेटाडेटा via .NET देखें या संपादित करें
 weight: 1410
 description: .NET फ्रेमवर्क, .NET कोर, Mono या ज़ामरिन प्लेटफ़ॉर्म पर XLS प्रारूप मेटाडेटा को संपादित करने या देखने के लिए C# स्रोत कोड।
+keywords: [C# Aspose.Cells., c# view xls metadata., c# add xls metadata., c# insert xls metadata., c# edit xls metadata., c# remove xls metadata., c# extract xls metadata., c# modify xls metadata]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="XLS मेटाडेटा via .NET निकालें" h2="सर्वर-साइड एपीआई का उपयोग करके XLS फ़ाइलों से मेटाडेटा जोड़ने, संपादित करने, हटाने या निकालने के लिए अपने स्वयं के .NET ऐप्स बनाएं।" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLS" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="PPTX" fileiconsmall2="DOCX" fileiconsmall3="XLSX" fileiconsmall4="PDF" fileiconsmall5=" ODP " >}}

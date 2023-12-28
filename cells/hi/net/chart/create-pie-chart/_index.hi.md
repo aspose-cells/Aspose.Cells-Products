@@ -1,6 +1,7 @@
 ---
 title: C# के माध्यम से पाई चार्ट बनाएं
 description: C# .NET लाइब्रेरी का उपयोग करके एक्सेल में पाई चार्ट बनाने के लिए नमूना कोड। VB.NET, Asp.NET या किसी .NET आधारित एप्लिकेशन के भीतर MS Excel में पाई चार्ट बनाने के लिए इस कोड का उपयोग करें।
+keywords: [C# Aspose.Cells., c# add Pie Chart., c# insert Pie Chart., c# create Pie Chart]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 

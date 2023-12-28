@@ -1,6 +1,7 @@
 ---
 title: Alakzatok beszúrása az Excel via .NET-be
-description:  C# forráskódok, amelyek segítségével alakzatot lehet beilleszteni Microsoft Excel-fájlokba a .NET könyvtár használatával.
+description: C# Mintakód alakzatok Excelbe való hozzáadásához vagy beszúrásához a .NET Library használatával. Használja ezt a kódot alakzatok létrehozásához MS Excelben a VB.NET, Asp.NET vagy bármely .NET alapú alkalmazáson belül.
+keywords: [C# Aspose.Cells., c# add shapes., c# insert shapes., c# create shapes]
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
 {{< blocks/products/pf/i18n/feature-page-header h1="Microsoft<sup>&reg;</sup> Excel alakzatok beillesztése via .NET" h2="Hozzon létre Excel-dokumentumokat és szúrjon be alakzatokat kiszolgálóoldali API-k segítségével a .NET alapú alkalmazásokban." >}}
@@ -12,7 +13,7 @@ description:  C# forráskódok, amelyek segítségével alakzatot lehet beillesz
 
 {{% blocks/products/pf/feature-page-section h2="Alakzatok beszúrása Excel fájlba" %}}
 
- Az alakzatok beszúrása ezekkel az API-kkal egyszerű. A folyamat a létrehozás[Munkafüzet osztály](https://reference.aspose.com/cells/net/aspose.cells/workbook) objektumot, és az index megadásával válassza ki az első munkalapot vagy a megfelelő lapot. Adjon hozzá egy alakzatot a munkalaphoz a használatával[alakgyűjtemény](https://reference.aspose.com/cells/net/aspose.cells.drawing/shapecollection)'s Add metódus.
+ Az alakzatok beszúrása ezekkel az API-kkal egyszerű. A folyamat a létrehozás[Munkafüzet osztály](https://reference.aspose.com/cells/net/aspose.cells/workbook)objektumot, és az index megadásával válassza ki az első munkalapot vagy a megfelelő lapot. Adjon hozzá egy alakzatot a munkalaphoz a használatával[alakgyűjtemény](https://reference.aspose.com/cells/net/aspose.cells.drawing/shapecollection)'s Add metódus.
 
 {{% blocks/products/pf/feature-page-code h3="C# Kód az alakzat beszúrásához az Excelben" %}}
 

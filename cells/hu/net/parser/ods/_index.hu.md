@@ -2,6 +2,7 @@
 title:  Szöveg és képek kibontása a ODS via .NET számú dokumentumból
 weight: 6970
 description: C# forráskód a ODS fájlból a .NET Framework, .NET Core, Mono vagy Xamarin Platforms ODS fájlból.
+keywords: [C# Aspose.Cells., c# Extract text and images from ODS file., c# How to Parse ODS File., c# Extract text from ODS file., Extract images from ODS file using C#]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="A ODS formátumok elemzése a C#-ben" h2="Natív és nagy teljesítményű ODS dokumentumelemzés szerveroldali Aspose.Cells for .NET API-k segítségével, olyan szoftverek használata nélkül, mint a Microsoft vagy az Adobe PDF." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="ODS" >}}

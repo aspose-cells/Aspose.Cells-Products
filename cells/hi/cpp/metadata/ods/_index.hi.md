@@ -2,6 +2,7 @@
 title:  ODS दस्तावेज़ मेटाडेटा को C++ के माध्यम से संपादित करें या देखें
 weight: 1000
 description: Windows 32 बिट, Windows 64 बिट और लिनक्स 64 बिट के लिए C++ रनटाइम एनवायरनमेंट पर ODS फ़ाइल मेटाडेटा को संपादित करने या देखने के लिए उदाहरण कोड।
+keywords: [C++ Aspose.Cells., C++ view ods metadata., C++ add ods metadata., C++ insert ods metadata., C++ edit ods metadata., C++ remove ods metadata., C++ extract ods metadata., C++ modify ods metadata]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="C++ के माध्यम से ODS मेटाडेटा निकालें" h2="सर्वर-साइड एपीआई का उपयोग करके ODS फ़ाइलों से मेटाडेटा जोड़ने, संपादित करने, हटाने या निकालने के लिए अपने स्वयं के C++ ऐप्स बनाएं।" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" sourceAdditionalConversionTag="" additionalConversionTag="ODS" pfName="Aspose.Cells" subTitlepfName="for C++" downloadUrl="" fileiconsmall1="PPTX" fileiconsmall2="DOCX" fileiconsmall3="XLSX" fileiconsmall4="PDF" fileiconsmall5=" ODP " >}}
@@ -41,9 +42,9 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/text %}}
 
-+ CreateIWorkbookMetadata का उपयोग करके ODS फ़ाइल लोड करें
-+ CreateIMetadataOptions का उपयोग करके विकल्प बनाएं
-+ GetICustomDocumentProperties() और AddIDocumentProperty द्वारा नई संपत्तियां जोड़ें
++ MetadataOptions का उपयोग करके विकल्प बनाएं
++ WorkbookMetadata का उपयोग करके ODS फ़ाइल लोड करें
++ GetCustomDocumentProperties() द्वारा नई प्रॉपर्टी जोड़ें और जोड़ें
 + ODS दस्तावेज़ सहेजें
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
@@ -65,10 +66,17 @@ PM> Install-Package Aspose.Cells.Cpp
 
 ```cs
 
-intrusive_ptr<IMetadataOptions> options = Factory::CreateIMetadataOptions(MetadataType_DocumentProperties);
-intrusive_ptr<IWorkbookMetadata> meta = Factory::CreateIWorkbookMetadata(new String("c:\\book1.ods"), options);
-meta->GetICustomDocumentProperties()->AddIDocumentProperty(new String("test"), (StringPtr)new String("test"));
-meta->Save(new String("c:\\book2.ods"));  
+Aspose::Cells::Startup();
+
+//Load the sample excel file
+MetadataOptions options(MetadataType::Document_Properties);
+WorkbookMetadata meta(u"c:\\book1.ods", options);
+//Add a new custom property
+meta.GetCustomDocumentProperties().Add(u"test", u"test");
+//Save the output excel file
+meta.Save(u"c:\\book2.ods");
+
+Aspose::Cells::Cleanup();
 
 ```
 

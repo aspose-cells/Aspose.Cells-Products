@@ -1,7 +1,7 @@
 ---
-title: Java XLSX SPREADSHEETML-be – Online XLSX SPREADSHEETML konverterbe
-description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Ingyenes online Java A XLSX konvertálása SPREADSHEETML mentési formátumba. Java XLSX SPREADSHEETML formátumba. Mentse a XLSX számot a SPREADSHEETML Java számra.
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java XLSX to SPREADSHEETML saveformat., Free Online XLSX to SPREADSHEETML Java., Java Convert XLSX to SPREADSHEETML]
+title: Java XLSX SPREADSHEETML - XLSX SPREADSHEETML konverter
+description: Aspose Excel. A XLSX-es számot gyorsan és egyszerűen SPREADSHEETML-re alakíthatja át a Aspose.Cells-es számmal. Java Mentse a XLSX számot a SPREADSHEETML-be. Mentse el a XLSX-et SPREADSHEETML-ként a Java használatával.
+keywords: [Aspose Excel., Java Aspose.Cells., Convert XLSX to SPREADSHEETML in Java., Save XLSX to SPREADSHEETML using Java., Java XLSX to SPREADSHEETML saveformat., XLSX to SPREADSHEETML Converter., Java Save XLSX as SPREADSHEETML]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Konvertálja a XLSX-et SPREADSHEETML-re a Java-ben" h2="Nagy sebességű Java könyvtár a XLSX SPREADSHEETML formátumba konvertálásához. Ez egy professzionális szoftvermegoldás a XLSX, SPREADSHEETML és sok más formátum importálásához és exportálásához a Java használatával." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="SPREADSHEETML" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java XLSX to S
 
 {{% blocks/products/pf/agp/content h2="A XLSX konvertálása SPREADSHEETML-re a Java használatával" %}}
 
-Hogyan konvertálhatom a XLSX-et SPREADSHEETML-re? A Aspose.Cells for Java könyvtárral könnyedén konvertálhatja a XLSX-et SPREADSHEETML-re, néhány sornyi kóddal programozottan.[Aspose.Cells for Java](https://products.aspose.com/cells/java) képes többplatformos alkalmazásokat létrehozni, módosítani, konvertálni, renderelni és kinyomtatni az összes Excel fájlt. Java Excel API nem csak a táblázatformátumok között konvertál, hanem Excel fájlokat is képes megjeleníteni képként, PDF, HTML, ODS, CSV, CSV, CSV, CSV, CSV, CSV, SVG, és így tovább, SVG P, 8 PT a választás,3,8 ipari szabvány szerinti dokumentumok cseréjére formátumok. A legújabb verziót közvetlenül a webhelyről töltheti le[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) és telepítse a Maven alapú projekten belül a következő konfigurációk hozzáadásával a pom.xml fájlhoz.
+ Hogyan konvertálhatom a XLSX-et SPREADSHEETML-re? A Aspose.Cells for Java könyvtárral könnyedén konvertálhatja a XLSX-et SPREADSHEETML-re, néhány sornyi kóddal programozottan.[Aspose.Cells for Java](https://products.aspose.com/cells/java)képes többplatformos alkalmazásokat létrehozni, módosítani, konvertálni, renderelni és kinyomtatni az összes Excel fájlt. Java Az Excel API nemcsak a táblázatformátumok között konvertál, hanem Excel-fájlokat is képes megjeleníteni képként, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT és egyebekként, így tökéletes választás a szabványos formátumú dokumentumok cseréjéhez. A legújabb verziót közvetlenül a webhelyről töltheti le[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) és telepítse a Maven alapú projekten belül a következő konfigurációk hozzáadásával a pom.xml fájlhoz.
 
 {{% blocks/products/pf/agp/code-block title="Adattár" offSpacer="true" %}}
 
@@ -45,7 +45,7 @@ Hogyan konvertálhatom a XLSX-et SPREADSHEETML-re? A Aspose.Cells for Java köny
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Mentse el a XLSX-et a SPREADSHEETML-be a Java-ben online ingyen" %}}
+{{% blocks/products/pf/agp/content h2="Mentse a XLSX-et a SPREADSHEETML-be a Java-ben" %}}
 
 A következő példa bemutatja, hogyan lehet a XLSX-et SPREADSHEETML-re konvertálni a Java-ben.
 {{% blocks/products/pf/agp/text %}}
@@ -56,7 +56,7 @@ Kövesse az egyszerű lépéseket a XLSX SPREADSHEETML formátumba konvertálás
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Ingyenes alkalmazás és mintakód a XLSX SPREADSHEETML online konvertálásához" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsx" outformat="xml" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Mintakód a XLSX SPREADSHEETML-lé konvertálásához" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsx" outformat="xml" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="A XLSX konvertálása SPREADSHEETML via Java-re" %}}
 
@@ -68,7 +68,7 @@ A XLSX fájlokat programozottan SPREADSHEETML-be kell konvertálni? A Java fejle
 
 1.  Telepítse a „Aspose.Cells for Java” fájlt.
 1.  Adjon hozzá egy könyvtári hivatkozást (importálja a könyvtárat) a Java projekthez.
-1.  Töltse be a XLSX számú fájlt a Workbook osztály egy példányával.
+1. Töltse be a XLSX számú fájlt a Workbook osztály egy példányával.
 1.  Konvertálja a XLSX-et SPREADSHEETML-re a Workbook.save metódus meghívásával.
 1.  Szerezze meg a XLSX konverziós eredményt SPREADSHEETML-re.
 
@@ -125,7 +125,7 @@ A XLSX fájlokat programozottan SPREADSHEETML-be kell konvertálni? A Java fejle
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/xlsx-to-xltm/" name="XLSX-XLTM" description="Excel-makró-kompatibilis sablon" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/xlsx-to-xltx/" name="XLSX-XLTX" description="Office OpenXML Excel sablon" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/xlsx-to-xml/" name="XLSX XML-RE" description="Bővíthető jelölőnyelv" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/xlsx-to-xps/" name="XLSX-XPS" description="XML papírspecifikációk" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/xlsx-to-xps/" name="XLSX-XPS" description="XML papír specifikációk" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/xlsx-to-json/" name="XLSX-JSON" description="JavaScript objektum jelölés" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/xlsx-to-jpeg/" name="XLSX-JPEG" description="JPEG Kép" >}}
 

@@ -1,8 +1,8 @@
 ---
 title: A XLTX egyesítése az ETT-vel – a XLTX-es szám egyesítése az ETT-vel a C#-ben
 url: /hu/net/merger/merge-xltx-to-ett/ 
-description: Aspose Excel. C# Aspose.Cells. Ingyenes online egyesítés XLTX ETT mentési formátumba. C# A XLTX kombinálása ETT formátumba. A XLTX egyesítése az ETT-vel a C#-es számon. XLTX Egyesítés.
-keywords: [Aspose Excel., C# Aspose.Cells., Merge XLTX to ETT in C#., Free Online C# Merge XLTX to ett., C# Combine XLTX to ETT Online for Free., XLTX Merge]
+description: Aspose Excel. C# Aspose.Cells. A XLTX egyesítése ETT mentési formátumba. C# A XLTX kombinálása ETT formátumba. A XLTX egyesítése az ETT-vel a C#-es számon. XLTX Egyesítés.
+keywords: [Aspose Excel., C# Aspose.Cells., Merge XLTX to ETT in C#., C# Merge XLTX to ett., C# Combine XLTX to ETT., XLTX Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="A XLTX-es szám egyesítése az ETT-vel a C#-es számon keresztül" h2="Nagy sebességű C#-es könyvtár a XLTX-es ETT-hez való egyesítéséhez. Használja a API-es excel-konverziónkat magas szintű, platformfüggetlen szoftverek fejlesztéséhez a C#-ben. Ez egy professzionális szoftvermegoldás a Excel, CSV, OpenOffice, PDF, HTML, image és sok más excel formátum importálásához és exportálásához." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="XLTX" additionalConversionTag="ETT" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., C# Aspose.Cells., Merge XLTX to ETT in C#., Free Onlin
 
 {{% blocks/products/pf/agp/content h2="Egyesítse a XLTX-et az ETT-vel a C#-es szám használatával" %}}
 
- Hogyan egyesíthetem a XLTX-es számot az ETT-vel? A Aspose.Cells for .NET könyvtárral egyszerűen egyesítheti a XLTX-et az ETT-vel, néhány soros kóddal.[Aspose.Cells for .NET](https://products.aspose.com/cells/net)képes többplatformos alkalmazásokat létrehozni, módosítani, konvertálni, renderelni és kinyomtatni az összes Excel fájlt. .NET Excel API nem csak a táblázatformátumok között konvertál, hanem Excel fájlokat is képes megjeleníteni képként, PDF, HTML, ODS, CSV, CSV, CSV, CSV, CSV, CSV, SVG, és így tovább, SVG P, 8 PT a választás,3,8 ipari szabvány szerinti dokumentumok cseréjére formátumok. Nyisd ki[NuGet](https://www.nuget.org/packages/aspose.cells) csomagkezelő, keresse meg a Aspose.Cells-et, és telepítse. A következő parancsot is használhatja a Package Manager konzolból.
+ Hogyan egyesíthetem a XLTX-es számot az ETT-vel? A Aspose.Cells for .NET könyvtárral egyszerűen egyesítheti a XLTX-et az ETT-vel, néhány soros kóddal.[Aspose.Cells for .NET](https://products.aspose.com/cells/net)képes többplatformos alkalmazásokat létrehozni, módosítani, konvertálni, renderelni és kinyomtatni az összes Excel fájlt. .NET Az Excel API nemcsak a táblázatformátumok között konvertál, hanem Excel-fájlokat is képes megjeleníteni képként, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT és egyebekként, így tökéletes választás a szabványos formátumú dokumentumok cseréjéhez. Nyisd ki[NuGet](https://www.nuget.org/packages/aspose.cells) csomagkezelő, keresse meg a Aspose.Cells-et, és telepítse. A következő parancsot is használhatja a Package Manager konzolból.
 
 {{% blocks/products/pf/agp/code-block title="Csomagkezelő konzolparancs" offSpacer="true" %}}
 
@@ -26,7 +26,7 @@ PM> Install-Package Aspose.Cells
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Csatlakoztassa a XLTX-es számot az ETT-hez a C#-es online ingyen" %}}
+{{% blocks/products/pf/agp/content h2="A XLTX egyesítése a C#-es ETT-vel" %}}
 
 A következő példa bemutatja, hogyan lehet egyesíteni a XLTX-es számot az ETT-vel a Aspose.Cells-es for .NET-ben.
 {{% blocks/products/pf/agp/text %}}
@@ -37,7 +37,7 @@ Kövesse az egyszerű lépéseket a XLTX és az ETT egyesítéséhez. Töltse fe
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Ingyenes online a XLTX egyesítéséhez az ETT-hez a C#-ben" InputFormat="xltx" InputFormat2="ett" outformat="ett" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="net" %}}
+{{% cells-merger title="Mintakód a XLTX egyesítéséhez az ETT-hez a C#-ben" InputFormat="xltx" InputFormat2="ett" outformat="ett" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="net" %}}
 
 {{% blocks/products/pf/agp/content h2="A XLTX egyesítése az ETT-vel a C# számon keresztül" %}}
 
@@ -116,8 +116,8 @@ API-jaink minden nagyobb platformon és operációs rendszeren támogatottak. Mi
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xltx-to-xlt/" name="XLTX és a XLT számok egyesítése" description="Microsoft Excel-sablon" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xltx-to-xltm/" name="XLTX és a XLTM számok egyesítése" description="Excel-makró-kompatibilis sablon" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xltx-to-xltx/" name="XLTX és a XLTX számok egyesítése" description="Office OpenXML Excel sablon" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xltx-to-xml/" name="A XLTX egyesítése XML-be" description="Bővíthető jelölőnyelv" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xltx-to-xps/" name="XLTX és a XPS számok egyesítése" description="XML papírspecifikációk" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xltx-to-xml/" name="Egyesítse a XLTX-et XML-be" description="Bővíthető jelölőnyelv" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xltx-to-xps/" name="XLTX és a XPS számok egyesítése" description="XML papír specifikációk" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xltx-to-json/" name="XLTX és a JSON számok egyesítése" description="JavaScript objektum jelölés" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xltx-to-jpeg/" name="XLTX és a JPEG számok egyesítése" description="JPEG Kép" >}}
 

@@ -1,7 +1,7 @@
 ---
-title: C++ JPEG az ETT-nek – Online JPEG az ETT átalakítónak
-description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. Ingyenes online C++ A JPEG konvertálása ETT mentési formátumba. C++ JPEG ETT formátumba. Mentse a JPEG számot az ETT C++ számra.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ JPEG to ETT saveformat., Free Online JPEG to ETT C++., C++ Convert JPEG to ETT]
+title: C++ JPEG az ETT-hez - JPEG az ETT átalakítóhoz
+description: Aspose Excel. A JPEG számot gyorsan és egyszerűen ETT-re alakíthatja át a Aspose.Cells-es számmal. C++ JPEG ETT-vé. C++ Mentse a JPEG számot az ETT-nek. Mentse el a JPEG számot ETT-ként a C++ használatával.
+keywords: [Aspose Excel., C++ Aspose.Cells., Convert JPEG to ETT in C++., Save JPEG to ETT using C++., C++ JPEG to ETT saveformat., JPEG to ETT Converter., C++ Save JPEG as ETT]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Konvertálja a JPEG-et ETT-re a C++-ben" h2="Nagy teljesítményű JPEG konvertálás ETT-vé a C++ könyvtár használatával, Microsoft Excel, OpenOffice vagy Adobe Acrobat telepítés nélkül." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" sourceAdditionalConversionTag="" additionalConversionTag="ETT" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ JPEG to ETT 
 
 {{% blocks/products/pf/agp/content h2="Konvertálja a JPEG-et ETT-re a C++ használatával" %}}
 
- Hogyan konvertálhatom a JPEG-et ETT-re? A Aspose.Cells for C++ könyvtárral könnyedén konvertálhatja a JPEG-et ETT-re néhány soros kóddal programozottan.[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) képes többplatformos alkalmazásokat létrehozni, módosítani, konvertálni, renderelni és kinyomtatni az összes Excel fájlt. C++ Excel API nem csak a táblázatformátumok között konvertál, hanem Excel fájlokat is képes megjeleníteni képként, PDF, HTML, ODS, CSV, CSV, CSV, CSV, CSV, CSV, SVG, és így tovább, SVG P, 8 PT a választás,3,8 ipari szabvány szerinti dokumentumok cseréjére formátumok. A legújabb verziót közvetlenül letöltheti, csak nyissa meg[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) csomagkezelő, keresse meg a Aspose.Cells.Cpp címet, és telepítse. A következő parancsot is használhatja a Package Manager konzolból.
+Hogyan konvertálhatom a JPEG-et ETT-re? A Aspose.Cells for C++ könyvtárral könnyedén konvertálhatja a JPEG-et ETT-re néhány soros kóddal programozottan.[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) képes többplatformos alkalmazásokat létrehozni, módosítani, konvertálni, renderelni és kinyomtatni az összes Excel fájlt. C++ Az Excel API nemcsak a táblázatformátumok között konvertál, hanem Excel-fájlokat is képes megjeleníteni képként, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT és egyebekként, így tökéletes választás a szabványos formátumú dokumentumok cseréjéhez. A legújabb verziót közvetlenül letöltheti, csak nyissa meg[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) csomagkezelő, keresse meg a Aspose.Cells.Cpp címet, és telepítse. A következő parancsot is használhatja a Package Manager konzolból.
 
 {{% blocks/products/pf/agp/code-block title="Parancs" offSpacer="true" %}}
 
@@ -26,7 +26,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Takarítson meg JPEG-et az ETT-nek a C++ számon online ingyen" %}}
+{{% blocks/products/pf/agp/content h2="Mentse el a JPEG számot az ETT számára a C++ számon" %}}
 
 A következő példa bemutatja, hogyan lehet C++-ben a JPEG-et ETT-vé alakítani.
 {{% blocks/products/pf/agp/text %}}
@@ -37,19 +37,19 @@ Kövesse az egyszerű lépéseket a JPEG ETT-re konvertálásához. Töltse fel 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Ingyenes alkalmazás és mintakód a JPEG ETT Online konvertálásához" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="jpg" outformat="ett" IsLandingPage="true" language="cpp" %}}
+{{% cells-convert title="Mintakód a JPEG ETT-re konvertálásához" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="jpg" outformat="ett" IsLandingPage="true" language="cpp" %}}
 
 {{% blocks/products/pf/agp/content h2="A JPEG konvertálása ETT-re a C++-en keresztül" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
-JPEG fájlokat programozottan ETT-re kell konvertálni? A C++ fejlesztők néhány sornyi kóddal könnyedén konvertálhatják a JPEG-et ETT-vé.
+A JPEG fájlokat programozottan ETT-re kell konvertálni? A C++ fejlesztők néhány sornyi kóddal könnyedén konvertálhatják a JPEG-et ETT-vé.
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Telepítse a „Aspose.Cells for C++” fájlt.
 1.  Adjon hozzá egy könyvtári hivatkozást (importálja a könyvtárat) a C++ projekthez.
-1.  Töltse be a JPEG fájlt a Factory::CreateIWorkbook segítségével.
+1.  Töltse be a JPEG fájlt a munkafüzet segítségével.
 1.  Konvertálja a JPEG-et ETT-vé a Save() metódus meghívásával.
 1.  Szerezze meg a JPEG konverziós eredményt ETT-re.
 
@@ -101,7 +101,6 @@ Három lehetőség közül választhat a „Aspose.Cells for C++” telepítés�
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/jpeg-to-pdf/" name="JPEG-PDF" description="Hordozható dokumentum formátum" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/jpeg-to-png/" name="JPEG-PNG" description="Hordozható hálózati grafika" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/jpeg-to-svg/" name="JPEG-SVG" description="Skálázható vektorgrafika" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/jpeg-to-tiff/" name="JPEG-TIFF" description="Címkézett képformátum" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/jpeg-to-tsv/" name="JPEG-TSV" description="Tabulátorral elválasztott értékek" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/jpeg-to-txt/" name="JPEG-TXT" description="Szöveges dokumentum" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/jpeg-to-xls/" name="JPEG-XLS" description="Excel bináris formátum" >}}
@@ -112,7 +111,7 @@ Három lehetőség közül választhat a „Aspose.Cells for C++” telepítés�
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/jpeg-to-xltm/" name="JPEG-XLTM" description="Excel-makró-kompatibilis sablon" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/jpeg-to-xltx/" name="JPEG-XLTX" description="Office OpenXML Excel sablon" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/jpeg-to-xml/" name="JPEG XML-RE" description="Bővíthető jelölőnyelv" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/jpeg-to-xps/" name="JPEG-XPS" description="XML papírspecifikációk" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/jpeg-to-xps/" name="JPEG-XPS" description="XML papír specifikációk" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/jpeg-to-json/" name="JPEG-JSON" description="JavaScript objektum jelölés" >}}
 
 

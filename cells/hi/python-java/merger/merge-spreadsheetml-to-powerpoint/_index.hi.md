@@ -1,8 +1,8 @@
 ---
 title: स्प्रेडशीटएमएल को पावरपॉइंट में मिलाएं - Python में स्प्रेडशीटएमएल को पावरपॉइंट में मिलाएं
 url: /hi/python-java/merger/merge-spreadsheetml-to-powerpoint/ 
-description: Aspose एक्सेल। Python Aspose.Cells. मुफ़्त ऑनलाइन स्प्रेडशीटएमएल को पावरपॉइंट सेवफॉर्मेट में मर्ज करें। Python स्प्रेडशीटएमएल को पावरपॉइंट प्रारूप में संयोजित करें। Python में स्प्रेडशीटएमएल को पावरपॉइंट में मर्ज करें। स्प्रेडशीटएमएल मर्ज।
-keywords: [Aspose Excel., Python Aspose.Cells., Merge SPREADSHEETML to POWERPOINT in Python., Free Online Python Merge SPREADSHEETML to powerpoint., Python Combine SPREADSHEETML to POWERPOINT Online for Free., SPREADSHEETML Merge]
+description: Aspose एक्सेल। Python Aspose.Cells. स्प्रेडशीटएमएल को पावरपॉइंट सेवफॉर्मेट में मर्ज करें। Python स्प्रेडशीटएमएल को पावरपॉइंट प्रारूप में संयोजित करें। Python में स्प्रेडशीटएमएल को पावरपॉइंट में मर्ज करें। स्प्रेडशीटएमएल मर्ज।
+keywords: [Aspose Excel., Python Aspose.Cells., Merge SPREADSHEETML to POWERPOINT in Python., Python Merge SPREADSHEETML to powerpoint., Python Combine SPREADSHEETML to POWERPOINT., SPREADSHEETML Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Python के माध्यम से स्प्रेडशीटएमएल को पावरपॉइंट में मर्ज करें" h2="स्प्रेडशीटएमएल को पावरपॉइंट में मर्ज करने के लिए हाई-स्पीड Python लाइब्रेरी। Python में उच्च-स्तरीय, प्लेटफ़ॉर्म स्वतंत्र सॉफ़्टवेयर विकसित करने के लिए हमारे एक्सेल रूपांतरण API का उपयोग करें। यह Excel, CSV, OpenOffice, PDF, HTML, image और कई अन्य एक्सेल प्रारूपों को आयात और निर्यात करने के लिए एक पेशेवर सॉफ़्टवेयर समाधान है।" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="SPREADSHEETML" additionalConversionTag="POWERPOINT" pfName="Aspose.Cells" subTitlepfName="for Python" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -12,12 +12,12 @@ keywords: [Aspose Excel., Python Aspose.Cells., Merge SPREADSHEETML to POWERPOIN
 
 {{% blocks/products/pf/agp/content h2="Python का उपयोग करके स्प्रेडशीटएमएल को पावरपॉइंट में मर्ज करें" %}}
 
- मैं स्प्रेडशीटएमएल को पावरपॉइंट में कैसे मर्ज करूं? Aspose.Cells for Python via Java लाइब्रेरी के साथ, आप कोड की कुछ पंक्तियों के साथ प्रोग्रामेटिक रूप से स्प्रेडशीटएमएल को पावरपॉइंट में आसानी से मर्ज कर सकते हैं।[Aspose.Cells for Python via Java](https://pypi.org/project/aspose-cells)सभी एक्सेल फ़ाइलों को उत्पन्न करने, संशोधित करने, परिवर्तित करने, प्रस्तुत करने और प्रिंट करने की क्षमता के साथ क्रॉस-प्लेटफ़ॉर्म एप्लिकेशन बनाने में सक्षम है। Python एक्सेल API न केवल स्प्रेडशीट प्रारूपों के बीच कनवर्ट कर सकता है, यह एक्सेल फाइलों को छवियों, PDF, HTML, ODS, CSV, SVG, JSON, वर्ड, पीपीटी और भी बहुत कुछ के रूप में प्रस्तुत कर सकता है, इस प्रकार यह एक्सचेंज के लिए एक आदर्श विकल्प बन जाता है। उद्योग-मानक में दस्तावेज़ प्रारूप. आप Aspose.Cells for Python via Java यहां से इंस्टॉल कर सकते हैं<a href="https://pypi.org/project/aspose-cells/">pypi</a> , कमांड का उपयोग इस प्रकार करें:<code>$ pip install aspose-cells</code>.
+ मैं स्प्रेडशीटएमएल को पावरपॉइंट में कैसे मर्ज करूं? Aspose.Cells for Python via Java लाइब्रेरी के साथ, आप कोड की कुछ पंक्तियों के साथ प्रोग्रामेटिक रूप से स्प्रेडशीटएमएल को पावरपॉइंट में आसानी से मर्ज कर सकते हैं।[Aspose.Cells for Python via Java](https://pypi.org/project/aspose-cells) सभी एक्सेल फ़ाइलों को उत्पन्न करने, संशोधित करने, परिवर्तित करने, प्रस्तुत करने और प्रिंट करने की क्षमता के साथ क्रॉस-प्लेटफ़ॉर्म एप्लिकेशन बनाने में सक्षम है। Python एक्सेल API न केवल स्प्रेडशीट प्रारूपों के बीच परिवर्तित होता है, बल्कि यह एक्सेल फाइलों को छवियों, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT और अधिक के रूप में भी प्रस्तुत कर सकता है, इस प्रकार यह उद्योग-मानक प्रारूपों में दस्तावेजों का आदान-प्रदान करने के लिए एक आदर्श विकल्प बन जाता है। आप Aspose.Cells for Python via Java यहां से इंस्टॉल कर सकते हैं<a href="https://pypi.org/project/aspose-cells/">pypi</a> , कमांड का उपयोग इस प्रकार करें:<code>$ pip install aspose-cells</code>.
 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Python में स्प्रेडशीटएमएल को पावरपॉइंट में निःशुल्क ऑनलाइन मर्ज करें" %}}
+{{% blocks/products/pf/agp/content h2="Python में स्प्रेडशीटएमएल को पावरपॉइंट में मर्ज करें" %}}
 
 निम्नलिखित उदाहरण दर्शाता है कि Aspose.Cells for Python via Java में SPREADSHEETML को POWERPOINT में कैसे मर्ज किया जाए।
 {{% blocks/products/pf/agp/text %}}
@@ -28,7 +28,7 @@ keywords: [Aspose Excel., Python Aspose.Cells., Merge SPREADSHEETML to POWERPOIN
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Python में स्प्रेडशीटएमएल को पावरपॉइंट में मर्ज करने के लिए निःशुल्क ऑनलाइन" InputFormat="xml" InputFormat2="pptx" outformat="pptx" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-merger title="Python में स्प्रेडशीटएमएल को पावरपॉइंट में मर्ज करने के लिए नमूना कोड" InputFormat="xml" InputFormat2="pptx" outformat="pptx" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="Python के माध्यम से स्प्रेडशीटएमएल को पावरपॉइंट में कैसे मर्ज करें" %}}
 
@@ -73,7 +73,7 @@ keywords: [Aspose Excel., Python Aspose.Cells., Merge SPREADSHEETML to POWERPOIN
 
 -  Java 1.8 या उच्चतर स्थापित करें और इसे PATH पर्यावरण चर में जोड़ें, उदाहरण के लिए:<code>PATH=C:\Program Files\Java\jdk1.8.0_131;</code>.
 -  स्थापित करना[Python](https://www.python.org/downloads/) 3.5 या उच्चतर.
-- Aspose.Cells for Python से इंस्टॉल करें<a href="https://pypi.org/project/aspose-cells/">pypi</a> , कमांड का उपयोग इस प्रकार करें:<code>$ pip install aspose-cells</code>.
+-  Aspose.Cells for Python से इंस्टॉल करें<a href="https://pypi.org/project/aspose-cells/">pypi</a> , कमांड का उपयोग इस प्रकार करें:<code>$ pip install aspose-cells</code>.
 
 
 {{% /blocks/products/pf/agp/content %}}
@@ -81,7 +81,7 @@ keywords: [Aspose Excel., Python Aspose.Cells., Merge SPREADSHEETML to POWERPOIN
 <!-- aboutfile Starts -->
     {{< blocks/products/pf/agp/about-file-section >}}
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="SPREADSHEETML" readMoreLink="https://docs.fileformat.com/web/xml/" >}}XML का मतलब एक्स्टेंसिबल मार्कअप लैंग्वेज है जो HTML के समान है लेकिन ऑब्जेक्ट को परिभाषित करने के लिए टैग का उपयोग करने में भिन्न है। XML फ़ाइल स्वरूप के निर्माण के पीछे का पूरा विचार सॉफ़्टवेयर या हार्डवेयर टूल पर निर्भर हुए बिना डेटा को संग्रहीत और परिवहन करना था। इसकी लोकप्रियता इसके मानव और मशीन दोनों द्वारा पठनीय होने के कारण है। यह इसे वर्ल्ड वाइड वेब (डब्ल्यूडब्ल्यूडब्ल्यू) जैसे नेटवर्क पर संग्रहीत और साझा किए जाने वाले ऑब्जेक्ट के रूप में सामान्य डेटा प्रोटोकॉल बनाने में सक्षम बनाता है। XML में "X" एक्स्टेंसिबल के लिए है जिसका अर्थ है कि भाषा को उपयोगकर्ता की आवश्यकताओं के अनुसार किसी भी संख्या में प्रतीकों तक बढ़ाया जा सकता है। यह इन सुविधाओं के लिए है कि कई मानक फ़ाइल प्रारूप इसका उपयोग करते हैं जैसे Microsoft ओपन एक्सएमएल, लिबरऑफिस ओपनडॉक्यूमेंट, एक्सएचटीएमएल और SVG।{{< /blocks/products/pf/agp/i18n/about-file-text >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="POWERPOINT" readMoreLink="https://docs.fileformat.com/presentation/pptx/" >}}PPTX एक्सटेंशन वाली फ़ाइलें लोकप्रिय Microsoft PowerPoint एप्लिकेशन के साथ बनाई गई प्रस्तुति फ़ाइलें हैं। प्रेजेंटेशन फ़ाइल प्रारूप पीपीटी के पिछले संस्करण के विपरीत, जो बाइनरी था, PPTX प्रारूप Microsoft PowerPoint ओपन XML प्रेजेंटेशन फ़ाइल प्रारूप पर आधारित है। प्रेजेंटेशन फ़ाइल स्लाइडों का एक संग्रह है जहां प्रत्येक स्लाइड में टेक्स्ट, चित्र, फ़ॉर्मेटिंग, एनिमेशन और अन्य मीडिया शामिल हो सकते हैं। इन स्लाइडों को कस्टम प्रेजेंटेशन सेटिंग्स के साथ स्लाइड शो के रूप में दर्शकों के सामने प्रस्तुत किया जाता है।{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="POWERPOINT" readMoreLink="https://docs.fileformat.com/presentation/pptx/" >}}PPTX एक्सटेंशन वाली फ़ाइलें लोकप्रिय Microsoft PowerPoint एप्लिकेशन के साथ बनाई गई प्रस्तुति फ़ाइलें हैं। प्रेजेंटेशन फ़ाइल प्रारूप PPT के पिछले संस्करण के विपरीत, जो बाइनरी था, PPTX प्रारूप Microsoft PowerPoint ओपन एक्सएमएल प्रेजेंटेशन फ़ाइल प्रारूप पर आधारित है। प्रेजेंटेशन फ़ाइल स्लाइडों का एक संग्रह है जहां प्रत्येक स्लाइड में टेक्स्ट, चित्र, फ़ॉर्मेटिंग, एनिमेशन और अन्य मीडिया शामिल हो सकते हैं। इन स्लाइडों को कस्टम प्रेजेंटेशन सेटिंग्स के साथ स्लाइड शो के रूप में दर्शकों के सामने प्रस्तुत किया जाता है।{{< /blocks/products/pf/agp/i18n/about-file-text >}}
     {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->
 

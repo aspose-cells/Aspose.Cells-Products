@@ -1,7 +1,7 @@
 ---
-title: Python CSV POWERPOINT - Online CSV POWERPOINT átalakító
-description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Ingyenes online Python A CSV konvertálása POWERPOINT mentési formátumba. Python CSV POWERPOINT formátumba. Mentse a CSV számot a POWERPOINT Python számra.
-keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python CSV to POWERPOINT saveformat., Free Online CSV to POWERPOINT Python., Python Convert CSV to POWERPOINT]
+title: Python CSV - POWERPOINT - CSV - POWERPOINT konverter
+description: Aspose Excel. A CSV-es számot gyorsan és egyszerűen POWERPOINT-ra alakíthatja át a Aspose.Cells-es számmal. Python-CSV-et POWERPOINT-ra. Python Mentse a CSV-et a POWERPOINT-ba. Mentse el a CSV-et POWERPOINT néven a Python használatával.
+keywords: [Aspose Excel., Python Aspose.Cells., Convert CSV to POWERPOINT in Python., Save CSV to POWERPOINT using Python., Python CSV to POWERPOINT saveformat., CSV to POWERPOINT Converter., Python Save CSV as POWERPOINT]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Konvertálja a CSV-et POWERPOINT-ra a Python-ben" h2="Nagy sebességű Python könyvtár a CSV POWERPOINT-tá konvertálásához. Ez egy professzionális szoftvermegoldás a CSV, POWERPOINT és sok más formátum importálásához és exportálásához a Python használatával." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="POWERPOINT" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,11 +12,11 @@ keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python CSV
 
 {{% blocks/products/pf/agp/content h2="A CSV konvertálása POWERPOINT-ra a Python használatával" %}}
 
- Hogyan konvertálhatom a CSV-et POWERPOINT-ra? A Aspose.Cells for Python könyvtárral egyszerűen konvertálhatja a CSV-et POWERPOINT-ra néhány soros kóddal.[Aspose.Cells for Python](https://pypi.org/project/aspose-cells)képes többplatformos alkalmazásokat létrehozni, módosítani, konvertálni, renderelni és kinyomtatni az összes Excel fájlt. Python Excel API nem csak a táblázatformátumok között konvertál, hanem Excel fájlokat is képes megjeleníteni képként, PDF, HTML, ODS, CSV, CSV, CSV, CSV, CSV, CSV, SVG, és így tovább, SVG P, 8 PT a választás,3,8 ipari szabvány szerinti dokumentumok cseréjére formátumok.
+ Hogyan konvertálhatom a CSV-et POWERPOINT-ra? A Aspose.Cells for Python könyvtárral egyszerűen konvertálhatja a CSV-et POWERPOINT-ra néhány soros kóddal.[Aspose.Cells for Python](https://pypi.org/project/aspose-cells)képes többplatformos alkalmazásokat létrehozni, módosítani, konvertálni, renderelni és kinyomtatni az összes Excel fájlt. Python Az Excel API nemcsak a táblázatformátumok között konvertál, hanem Excel-fájlokat is képes megjeleníteni képként, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT és egyebekként, így tökéletes választás a szabványos formátumú dokumentumok cseréjéhez.
  
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Takarítson meg CSV-et a POWERPOINT-ban a Python-es online ingyen" %}}
+{{% blocks/products/pf/agp/content h2="Takarítson meg CSV-et a POWERPOINT-hoz a Python-ben" %}}
 
 A következő példa bemutatja, hogyan lehet a CSV-et POWERPOINT-ra konvertálni a Python-ben.
 {{% blocks/products/pf/agp/text %}}
@@ -27,13 +27,13 @@ Kövesse az egyszerű lépéseket a CSV POWERPOINT-tá konvertálásához. Tölt
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Ingyenes alkalmazás és mintakód a CSV POWERPOINT Online konvertálásához" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="csv" outformat="pptx" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="Mintakód a CSV POWERPOINT-tá konvertálásához" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="csv" outformat="pptx" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="A CSV konvertálása POWERPOINT-ra a Python-en keresztül" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
-CSV fájlokat programozottan POWERPOINT-ba kell konvertálni? A Python fejlesztők egyszerűen betölthetik és néhány sornyi kóddal POWERPOINT-ra konvertálhatják a CSV-et.
+A CSV fájlokat programozottan POWERPOINT-ba kell konvertálni? A Python fejlesztők egyszerűen betölthetik és néhány sornyi kóddal POWERPOINT-ra konvertálhatják a CSV-et.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -63,12 +63,12 @@ Három lehetőség közül választhat a „Aspose.Cells for Python via Java” 
 
 {{% blocks/products/pf/agp/text %}}
 
-Aspose.Cells for Python via Java platformfüggetlen API, és bármilyen platformon használható (Windows, Linux és MacOS), csak győződjön meg arról, hogy a rendszer Java 1.8 vagy újabb[Python](https://www.python.org/downloads/) 3,5 vagy magasabb.
+ Aspose.Cells for Python via Java platformfüggetlen API, és bármilyen platformon használható (Windows, Linux és MacOS), csak győződjön meg arról, hogy a rendszer Java 1.8 vagy újabb[Python](https://www.python.org/downloads/) 3,5 vagy magasabb.
  
 {{% /blocks/products/pf/agp/text %}}
 
 -  Telepítse a Java-et, és adja hozzá a PATH környezeti változóhoz, például:<code>PATH=C:\Program Files\Java\jdk1.8.0_131;</code>.
-- Telepítés: Aspose.Cells for Python innen<a href="https://pypi.org/project/aspose-cells/">pypi</a> , használja a parancsot a következőképpen:<code>$ pip install aspose-cells</code>.
+-  Telepítés: Aspose.Cells for Python innen<a href="https://pypi.org/project/aspose-cells/">pypi</a> , használja a parancsot a következőképpen:<code>$ pip install aspose-cells</code>.
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -102,7 +102,7 @@ Aspose.Cells for Python via Java platformfüggetlen API, és bármilyen platform
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/csv-to-xltm/" name="CSV-XLTM" description="Excel-makró-kompatibilis sablon" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/csv-to-xltx/" name="CSV-XLTX" description="Office OpenXML Excel sablon" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/csv-to-xml/" name="CSV XML-RE" description="Bővíthető jelölőnyelv" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/csv-to-xps/" name="CSV-XPS" description="XML papírspecifikációk" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/csv-to-xps/" name="CSV-XPS" description="XML papír specifikációk" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/csv-to-json/" name="CSV-JSON" description="JavaScript objektum jelölés" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}

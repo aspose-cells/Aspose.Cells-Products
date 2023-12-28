@@ -1,8 +1,8 @@
 ---
-title: Python एक्सएलएस फ़ाइल की मरम्मत करें - एक्सएलएस फ़ाइल की ऑनलाइन निःशुल्क मरम्मत करें
+title: Python मरम्मत xls - दूषित xls फ़ाइल को पुनर्प्राप्त करें और ठीक करें
 url: /hi/python-net/recovery/repair-xls/ 
-description: Aspose एक्सेल। Python Aspose.Cells. Python xls फ़ाइल की मरम्मत करें। निःशुल्क ऑनलाइन एक्सएलएस मरम्मत उपकरण। दूषित xls फ़ाइल को सुधारें. Python एप्लिकेशन के भीतर एक दूषित xls फ़ाइल पुनर्प्राप्त करें।
-keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python Repair xls file., Free Online Repair a corrupted xls file., Python Recover xls file.]
+description: Python Aspose.Cells. एक्सएलएस की मरम्मत करें। xls फ़ाइल ठीक करें. xls पुनर्प्राप्ति उपकरण। एक्सएलएस भ्रष्टाचार. एक्सएलएस डेटा पुनर्स्थापित करें। xls फ़ाइल पुनर्प्राप्ति। दूषित xls फ़ाइल पुनर्प्राप्त करें.
+keywords: [Python Aspose.Cells., repair xls file., xls repair., recover corrupted xls file., repair corrupted xls., recover xls., fix xls file., xls corruption., restore xls data., xls file recovery., recover corrupted xls file.]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Python में XLS फ़ाइल की मरम्मत करें" h2="Python का उपयोग करके xls फ़ाइलों को सुधारने के लिए अपना स्वयं का Python एप्लिकेशन बनाएं।" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLS" pfName="Aspose.Cells" subTitlepfName="for Python" downloadUrl="" fileiconsmall1="XLS" fileiconsmall2="XLSB" fileiconsmall3="XLSX" fileiconsmall4="XLSM" fileiconsmall5="ODS" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python Rep
 
 {{% blocks/products/pf/agp/content h2="Python का उपयोग करके XLS फ़ाइल की मरम्मत करें" %}}
 
- मैं xls फ़ाइल की मरम्मत कैसे करूँ? Aspose.Cells for Python लाइब्रेरी के साथ, आप कोड की कुछ पंक्तियों के साथ प्रोग्रामेटिक रूप से XLS फ़ाइल को आसानी से सुधार सकते हैं।[Aspose.Cells for Python](https://products.aspose.com/cells/python-net)सभी एक्सेल फ़ाइलों को उत्पन्न करने, संशोधित करने, परिवर्तित करने, प्रस्तुत करने और प्रिंट करने की क्षमता के साथ क्रॉस-प्लेटफ़ॉर्म एप्लिकेशन बनाने में सक्षम है। Python एक्सेल API न केवल स्प्रेडशीट प्रारूपों के बीच कनवर्ट कर सकता है, यह एक्सेल फाइलों को छवियों, PDF, HTML, ODS, CSV, SVG, JSON, वर्ड, पीपीटी और भी बहुत कुछ के रूप में प्रस्तुत कर सकता है, इस प्रकार यह एक्सचेंज के लिए एक आदर्श विकल्प बन जाता है। उद्योग-मानक में दस्तावेज़ प्रारूप. आप Aspose.Cells for Python via .NET यहां से इंस्टॉल कर सकते हैं<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , कमांड का उपयोग इस प्रकार करें:<code>$ pip install aspose-cells-python</code>.
+ मैं xls फ़ाइल की मरम्मत कैसे करूँ? Aspose.Cells for Python लाइब्रेरी के साथ, आप कोड की कुछ पंक्तियों के साथ प्रोग्रामेटिक रूप से XLS फ़ाइल को आसानी से सुधार सकते हैं।[Aspose.Cells for Python](https://products.aspose.com/cells/python-net) सभी एक्सेल फ़ाइलों को उत्पन्न करने, संशोधित करने, परिवर्तित करने, प्रस्तुत करने और प्रिंट करने की क्षमता के साथ क्रॉस-प्लेटफ़ॉर्म एप्लिकेशन बनाने में सक्षम है। Python एक्सेल API न केवल स्प्रेडशीट प्रारूपों के बीच परिवर्तित होता है, बल्कि यह एक्सेल फाइलों को छवियों, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT और अधिक के रूप में भी प्रस्तुत कर सकता है, इस प्रकार यह उद्योग-मानक प्रारूपों में दस्तावेजों का आदान-प्रदान करने के लिए एक आदर्श विकल्प बन जाता है। आप Aspose.Cells for Python via .NET यहां से इंस्टॉल कर सकते हैं<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , कमांड का उपयोग इस प्रकार करें:<code>$ pip install aspose-cells-python</code>.
 
 
 {{% /blocks/products/pf/agp/content %}}
@@ -32,14 +32,14 @@ xls फ़ाइल को प्रोग्रामेटिक रूप स
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-recovery title="XLS फ़ाइल को ऑनलाइन सुधारने के लिए निःशुल्क ऐप और नमूना कोड" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et" InputFormat="xls" outformat="xls" IsLandingPage="true" language="pythonnet" %}}    
+{{% cells-recovery title="XLS फ़ाइल की मरम्मत के लिए नमूना कोड" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et" InputFormat="xls" outformat="xls" IsLandingPage="true" language="pythonnet" %}}    
     
 {{% blocks/products/pf/agp/content h2="Python लाइब्रेरी XLS फ़ाइल को सुधारने के लिए" %}}
 
 हम अपने Python पैकेजों को PyPi रिपॉजिटरी में होस्ट करते हैं।
 
 {{% blocks/products/pf/agp/text %}}
-Aspose.Cells for Python से इंस्टॉल करें<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , कमांड का उपयोग इस प्रकार करें:<code>$ pip install aspose-cells-python</code>.
+ Aspose.Cells for Python से इंस्टॉल करें<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , कमांड का उपयोग इस प्रकार करें:<code>$ pip install aspose-cells-python</code>.
 {{% /blocks/products/pf/agp/text %}}
 
 {{% blocks/products/pf/agp/text %}}
@@ -54,7 +54,7 @@ Aspose.Cells for Python से इंस्टॉल करें<a href="https:
  Aspose.Cells for Python सभी प्रमुख ऑपरेटिंग सिस्टम पर समर्थित है। बस यह सुनिश्चित करें कि आपके पास निम्नलिखित आवश्यकताएँ हैं।
  
 -  स्थापित करना[Python](https://www.python.org/downloads/) 3.7 या उच्चतर.
-- Aspose.Cells for Python से इंस्टॉल करें<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , कमांड का उपयोग इस प्रकार करें:<code>$ pip install aspose-cells-python</code>.
+-  Aspose.Cells for Python से इंस्टॉल करें<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , कमांड का उपयोग इस प्रकार करें:<code>$ pip install aspose-cells-python</code>.
 
 
 {{% /blocks/products/pf/agp/content %}}

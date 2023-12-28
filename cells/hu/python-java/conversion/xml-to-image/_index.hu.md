@@ -1,7 +1,7 @@
 ---
-title: Python XML-ből IMAGE-be - Online XML-ből IMAGE konvertáló
-description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Ingyenes online Python XML konvertálása IMAGE mentési formátumba. Python XML-ből IMAGE formátumba. XML mentése az IMAGE Python-es számra.
-keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python XML to IMAGE saveformat., Free Online XML to IMAGE Python., Python Convert XML to IMAGE]
+title: Python XML-ből IMAGE-ba - XML-ből IMAGE konvertáló
+description: Aspose Excel. A Aspose.Cells segítségével gyorsan és egyszerűen konvertálhat XML-t IMAGE formátumba. Python XML-ből IMAGE. Python XML mentése az IMAGE-ba. Mentse az XML-t KÉP formátumban a Python használatával.
+keywords: [Aspose Excel., Python Aspose.Cells., Convert XML to IMAGE in Python., Save XML to IMAGE using Python., Python XML to IMAGE saveformat., XML to IMAGE Converter., Python Save XML as IMAGE]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Konvertálja az XML-t IMAGE-re a Python-ben" h2="Nagy sebességű Python könyvtár az XML IMAGE formátumba konvertálásához. Ez egy professzionális szoftvermegoldás XML, IMAGE és sok más formátum importálásához és exportálásához a Python szám használatával." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="IMAGE" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,11 +12,11 @@ keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python XML
 
 {{% blocks/products/pf/agp/content h2="Konvertálja az XML-t IMAGE-vé a Python használatával" %}}
 
- Hogyan konvertálhatom az XML-t IMAGE-vé? A Aspose.Cells for Python könyvtárral egyszerűen konvertálhatja az XML-t IMAGE formátumba programozottan néhány sornyi kóddal.[Aspose.Cells for Python](https://pypi.org/project/aspose-cells)képes többplatformos alkalmazásokat létrehozni, módosítani, konvertálni, renderelni és kinyomtatni az összes Excel fájlt. Python Excel API nem csak a táblázatformátumok között konvertál, hanem Excel fájlokat is képes megjeleníteni képként, PDF, HTML, ODS, CSV, CSV, CSV, CSV, CSV, CSV, SVG, és így tovább, SVG P, 8 PT a választás,3,8 ipari szabvány szerinti dokumentumok cseréjére formátumok.
+ Hogyan konvertálhatom az XML-t IMAGE-vé? A Aspose.Cells for Python könyvtárral egyszerűen konvertálhatja az XML-t IMAGE formátumba programozottan néhány sornyi kóddal.[Aspose.Cells for Python](https://pypi.org/project/aspose-cells)képes többplatformos alkalmazásokat létrehozni, módosítani, konvertálni, renderelni és kinyomtatni az összes Excel fájlt. Python Az Excel API nemcsak a táblázatformátumok között konvertál, hanem Excel-fájlokat is képes megjeleníteni képként, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT és egyebekként, így tökéletes választás a szabványos formátumú dokumentumok cseréjéhez.
  
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Mentse el az XML-t az IMAGE formátumba a Python-es online ingyen" %}}
+{{% blocks/products/pf/agp/content h2="Mentse az XML-t az IMAGE fájlba a Python címen" %}}
 
 A következő példa bemutatja, hogyan lehet XML-t IMAGE-vé konvertálni a Python-ben.
 {{% blocks/products/pf/agp/text %}}
@@ -27,7 +27,7 @@ Kövesse az egyszerű lépéseket az XML IMAGE formátumba konvertálásához. T
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Ingyenes alkalmazás és mintakód az XML IMAGE Online konvertálásához" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xml" outformat="png" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="Mintakód az XML-ből IMAGE formátumba konvertálására" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xml" outformat="png" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="XML konvertálása IMAGE-vé a Python számon keresztül" %}}
 
@@ -41,7 +41,7 @@ Az XML fájlokat programozottan IMAGE formátumba kell konvertálni? A Python fe
 1.  Adjon hozzá egy könyvtári hivatkozást (importálja a könyvtárat) a Python projekthez.
 1.  Töltse be az XML-fájlt a munkafüzet egy példányával.
 1.  Konvertálja az XML-t IMAGE-vé a Workbook.save metódus meghívásával.
-1.  Szerezze meg az XML konvertálási eredményét IMAGE-vé.
+1. Szerezze meg az XML konvertálási eredményét IMAGE-vé.
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -63,12 +63,12 @@ Három lehetőség közül választhat a „Aspose.Cells for Python via Java” 
 
 {{% blocks/products/pf/agp/text %}}
 
-Aspose.Cells for Python via Java platformfüggetlen API, és bármilyen platformon használható (Windows, Linux és MacOS), csak győződjön meg arról, hogy a rendszer Java 1.8 vagy újabb[Python](https://www.python.org/downloads/) 3,5 vagy magasabb.
+ Aspose.Cells for Python via Java platformfüggetlen API, és bármilyen platformon használható (Windows, Linux és MacOS), csak győződjön meg arról, hogy a rendszer Java 1.8 vagy újabb[Python](https://www.python.org/downloads/) 3,5 vagy magasabb.
  
 {{% /blocks/products/pf/agp/text %}}
 
 -  Telepítse a Java-et, és adja hozzá a PATH környezeti változóhoz, például:<code>PATH=C:\Program Files\Java\jdk1.8.0_131;</code>.
-- Telepítés: Aspose.Cells for Python innen<a href="https://pypi.org/project/aspose-cells/">pypi</a> , használja a parancsot a következőképpen:<code>$ pip install aspose-cells</code>.
+-  Telepítés: Aspose.Cells for Python innen<a href="https://pypi.org/project/aspose-cells/">pypi</a> , használja a parancsot a következőképpen:<code>$ pip install aspose-cells</code>.
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -102,7 +102,7 @@ Aspose.Cells for Python via Java platformfüggetlen API, és bármilyen platform
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xml-to-xltm/" name="XML a XLTM számra" description="Excel-makró-kompatibilis sablon" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xml-to-xltx/" name="XML a XLTX számra" description="Office OpenXML Excel sablon" >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xml-to-xps/" name="XML a XPS számra" description="XML papírspecifikációk" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xml-to-xps/" name="XML a XPS számra" description="XML papír specifikációk" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xml-to-json/" name="XML a JSON számra" description="JavaScript objektum jelölés" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}

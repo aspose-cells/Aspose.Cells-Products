@@ -1,7 +1,7 @@
 ---
-title: Python SXC az ET-hez – Online SXC az ET átalakítóhoz
-description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Ingyenes online Python A SXC konvertálása ET mentési formátumba. Python SXC ET formátumba. Mentse a SXC számot az ET Python számra.
-keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python SXC to ET saveformat., Free Online SXC to ET Python., Python Convert SXC to ET]
+title: Python SXC ET - SXC ET Converter
+description: Aspose Excel. A SXC-es számot gyorsan és egyszerűen konvertálja ET-re a Aspose.Cells-es számmal. Python SXC ET-re. Python Takarítson meg SXC-et az ET-nek. Mentse el a SXC számot ET néven a Python használatával.
+keywords: [Aspose Excel., Python Aspose.Cells., Convert SXC to ET in Python., Save SXC to ET using Python., Python SXC to ET saveformat., SXC to ET Converter., Python Save SXC as ET]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Alakítsa át a SXC-et ET-re a Python-ben" h2="Nagy sebességű Python-es könyvtár a SXC ET-re való konvertálásához. Használja a API-es excel konverziónkat magas szintű, platformfüggetlen szoftver fejlesztéséhez a Python-ben." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="ET" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,12 +12,12 @@ keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python SXC
 
 {{% blocks/products/pf/agp/content h2="Alakítsa át a SXC-et ET-re a Python-ben" %}}
 
- Hogyan konvertálhatom át a SXC-et ET-re? A Aspose.Cells for Python számmal a NET könyvtáron keresztül könnyedén konvertálhatja a SXC-et ET-re programozottan néhány sor kóddal.[Aspose.Cells for Python a NET számon keresztül](https://pypi.org/project/aspose-cells-python/)képes többplatformos alkalmazásokat létrehozni, módosítani, konvertálni, renderelni és kinyomtatni az összes Excel fájlt. Python Excel API nem csak a táblázatformátumok között konvertál, hanem Excel fájlokat is képes megjeleníteni képként, PDF, HTML, ODS, CSV, CSV, CSV, CSV, CSV, CSV, SVG, és így tovább, SVG P, 8 PT a választás,3,8 ipari szabvány szerinti dokumentumok cseréjére formátumok.
+ Hogyan konvertálhatom át a SXC-et ET-re? A Aspose.Cells for Python számmal a NET könyvtáron keresztül könnyedén konvertálhatja a SXC-et ET-re programozottan néhány sor kóddal.[Aspose.Cells for Python a NET számon keresztül](https://pypi.org/project/aspose-cells-python/)képes többplatformos alkalmazásokat létrehozni, módosítani, konvertálni, renderelni és kinyomtatni az összes Excel fájlt. Python Az Excel API nemcsak a táblázatformátumok között konvertál, hanem Excel-fájlokat is képes megjeleníteni képként, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT és egyebekként, így tökéletes választás a szabványos formátumú dokumentumok cseréjéhez.
 
 {{% /blocks/products/pf/agp/content %}}
 
 
-{{% blocks/products/pf/agp/content h2="Takarítson meg SXC-et ET-nek a Python-ben online ingyen" %}}
+{{% blocks/products/pf/agp/content h2="Mentse a SXC számot ET-nek a Python számon" %}}
 
 A következő példa bemutatja, hogyan lehet a Python via NET számon a SXC-et ET-re konvertálni.
 {{% blocks/products/pf/agp/text %}}
@@ -28,7 +28,7 @@ Kövesse az egyszerű lépéseket a SXC ET-re konvertálásához. Töltse fel a 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Ingyenes alkalmazás és mintakód a SXC ET Online-ra való konvertálásához" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="sxc" outformat="et" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Mintakód a SXC ET-re konvertálásához" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="sxc" outformat="et" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="Hogyan lehet átalakítani a SXC-et ET-re" %}}
 
@@ -52,7 +52,7 @@ Programozottan kell konvertálnia a SXC fájlokat ET-re? A Python fejlesztők eg
 A Python-es csomagjainkat PyPi-tárolókban tároljuk.
 
 {{% blocks/products/pf/agp/text %}}
-Telepítés: Aspose.Cells for Python innen<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , használja a parancsot a következőképpen:<code>$ pip install aspose-cells-python</code>.
+ Telepítés: Aspose.Cells for Python innen<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , használja a parancsot a következőképpen:<code>$ pip install aspose-cells-python</code>.
 {{% /blocks/products/pf/agp/text %}}
 
 {{% blocks/products/pf/agp/text %}}
@@ -100,7 +100,7 @@ Telepítés: Aspose.Cells for Python innen<a href="https://pypi.org/project/aspo
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/sxc-to-xltm/" name="SXC-XLTM" description="Excel-makró-kompatibilis sablon" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/sxc-to-xltx/" name="SXC-XLTX" description="Office OpenXML Excel sablon" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/sxc-to-xml/" name="SXC XML-RE" description="Bővíthető jelölőnyelv" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/sxc-to-xps/" name="SXC-XPS" description="XML papírspecifikációk" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/sxc-to-xps/" name="SXC-XPS" description="XML papír specifikációk" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/sxc-to-json/" name="SXC-JSON" description="JavaScript objektum jelölés" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}

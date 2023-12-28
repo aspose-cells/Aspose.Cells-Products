@@ -2,6 +2,7 @@
 title: Jegyzetek beszúrása a XLS fájlba a Python számon keresztül
 url: /hu/python-java/notes/insert-notes-to-xls/ 
 description: Jegyzetek beszúrása a XLS számra a Python használatával. Használja a API példakódot a Python alkalmazáson belüli megjegyzések beszúrásához.
+keywords: [Python Aspose.Cells., add XLS notes., insert XLS notes., access XLS notes., remove XLS notes., delete XLS notes., add notes in XLS., insert notes in XLS., access notes in XLS., remove notes in XLS., delete notes in XLS]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Jegyzetek beszúrása a XLS fájlba a Python számon keresztül" h2="Készítse el saját Python alkalmazását a dokumentumfájlok megjegyzéseinek és szerzőinek manipulálásához szerveroldali API-k segítségével." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLS" pfName="Aspose.Cells" subTitlepfName="for Python" downloadUrl="" fileiconsmall1="XLS" fileiconsmall2="XLSB" fileiconsmall3="XLSX" fileiconsmall4="XLSM" fileiconsmall5="ODS" >}}
@@ -11,7 +12,7 @@ description: Jegyzetek beszúrása a XLS számra a Python használatával. Haszn
 
 {{% blocks/products/pf/agp/content h2="Jegyzetek beszúrása a XLS fájlba a Python használatával" %}}
 
- A Aspose.Cells for Python könyvtárral könnyedén beilleszthet jegyzeteket a XLS fájlba programozottan, néhány sornyi kóddal.[Aspose.Cells for Python](https://pypi.org/project/aspose-cells) képes többplatformos alkalmazásokat létrehozni, módosítani, konvertálni, renderelni és kinyomtatni az összes Excel fájlt. Python Excel API nem csak a táblázatformátumok között konvertál, hanem Excel fájlokat is képes megjeleníteni képként, PDF, HTML, ODS, CSV, CSV, CSV, CSV, CSV, CSV, SVG, és így tovább, SVG P, 8 PT a választás,3,8 ipari szabvány szerinti dokumentumok cseréjére formátumok. A Aspose.Cells for Python címet innen telepítheti<a href="https://pypi.org/project/aspose-cells/">pypi</a> , használja a parancsot a következőképpen:<code>$ pip install aspose-cells</code>.
+ A Aspose.Cells for Python könyvtárral könnyedén beilleszthet jegyzeteket a XLS fájlba programozottan, néhány sornyi kóddal.[Aspose.Cells for Python](https://pypi.org/project/aspose-cells) képes többplatformos alkalmazásokat létrehozni, módosítani, konvertálni, renderelni és kinyomtatni az összes Excel fájlt. Python Az Excel API nemcsak a táblázatformátumok között konvertál, hanem Excel-fájlokat is képes megjeleníteni képként, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT és egyebekként, így tökéletes választás a szabványos formátumú dokumentumok cseréjéhez. Telepítheti a Aspose.Cells for Python via Java számot innen<a href="https://pypi.org/project/aspose-cells/">pypi</a> , használja a parancsot a következőképpen:<code>$ pip install aspose-cells</code>.
 
  
 {{% /blocks/products/pf/agp/content %}}
@@ -26,7 +27,7 @@ description: Jegyzetek beszúrása a XLS számra a Python használatával. Haszn
 
 -  Telepítse a Java 1.8-as vagy újabb verziót, és adja hozzá a PATH környezeti változóhoz, például:<code>PATH=C:\Program Files\Java\jdk1.8.0_131;</code>.
 -  Telepítés[Python](https://www.python.org/downloads/) 3,5 vagy magasabb.
-- Telepítés: Aspose.Cells for Python innen<a href="https://pypi.org/project/aspose-cells/">pypi</a> , használja a parancsot a következőképpen:<code>$ pip install aspose-cells</code>.
+-  Telepítés: Aspose.Cells for Python innen<a href="https://pypi.org/project/aspose-cells/">pypi</a> , használja a parancsot a következőképpen:<code>$ pip install aspose-cells</code>.
 
 
 {{% /blocks/products/pf/agp/content %}}

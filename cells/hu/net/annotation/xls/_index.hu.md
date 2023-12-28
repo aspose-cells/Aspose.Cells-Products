@@ -1,7 +1,8 @@
 ---
-title:  Távolítsa el a XLS A via .NET megjegyzést
+title:  XLS Megjegyzés hozzáadása vagy eltávolítása via .NET
 weight: 9270
 description: C# forráskód a XLS formátumú megjegyzések hozzáadásához és törléséhez a .NET Framework, .NET Core, Mono vagy Xamarin platformokon.
+keywords: [C# Aspose.Cells., add xls annotation., insert xls annotation., access xls annotation., remove xls annotation., delete xls annotation., add annotation in xls., insert annotation in xls., access annotation in xls., remove annotation in xls., delete annotation in xls]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Megjegyzés hozzáadása vagy törlése a XLS-es számról a C#-en keresztül" h2="Készítse el saját .NET-es alkalmazásait a dokumentumfájlok megjegyzéseinek és szerzőinek manipulálásához szerveroldali API-k segítségével." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLS" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="PPTX" fileiconsmall2="DOCX" fileiconsmall3="XLSX" fileiconsmall4="PDF" fileiconsmall5=" ODP " >}}

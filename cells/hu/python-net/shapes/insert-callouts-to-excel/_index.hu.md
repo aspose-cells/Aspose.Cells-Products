@@ -2,6 +2,7 @@
 title: Szúrjon be kiemeléseket az Excelbe a Python via .Net használatával
 weight: 360
 description: Python via .Net forráskód kiemelések beszúrásához az Excelbe.
+keywords: [Python Aspose.Cells., Python add Callouts shape., Python insert Callouts shape., Python create Callouts shape]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Szúrjon be kiemeléseket az Excelbe a Python via .Net használatával" h2="Szúrjon be kiemeléseket a Aspose.Cells\' API használatával, szoftverek, például Microsoft vagy Open Office, Adobe PDF stb. nélkül." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="" pfName="Aspose.Cells" subTitlepfName="for Python via .NET" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="XLSX" >}}
@@ -13,7 +14,7 @@ description: Python via .Net forráskód kiemelések beszúrásához az Excelbe.
 
  A kiemelések excel fájlba történő beszúrásához használjuk
  [Aspose.Cells for Python a .Neten keresztül](https://pypi.org/project/aspose-cells-python/) 
-API, amely funkciókban gazdag, hatékony és könnyen használható dokumentumkezelés API for Python .Net platformon keresztül. A API Excel-fájlok létrehozását, kezelését, konvertálását és megjelenítését biztosítja. Mindezt anélkül, hogy a Microsoft Office- vagy Excel-alkalmazásokra hagyatkozna. A következő paranccsal telepítheti a konzolról.
+ API, amely funkciókban gazdag, hatékony és könnyen használható dokumentumkezelés API for Python .Net platformon keresztül. A API Excel-fájlok létrehozását, kezelését, konvertálását és megjelenítését biztosítja. Mindezt anélkül, hogy a Microsoft Office- vagy Excel-alkalmazásokra hagyatkozna. A következő paranccsal telepítheti a konzolról.
 
 {{% blocks/products/pf/agp/code-block title="Parancs" offSpacer="true" %}}
 
@@ -29,7 +30,7 @@ API, amely funkciókban gazdag, hatékony és könnyen használható dokumentumk
 
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
-{{% blocks/products/pf/agp/feature-section-col title="A kiemelések Excel-fájlba történő beszúrásának lépései a Python via .Net használatával" %}}
+{{% blocks/products/pf/agp/feature-section-col title="kiemelések Excel-fájlba történő beszúrásának lépései a Python via .Net használatával" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
@@ -37,7 +38,7 @@ Szüksége van a Aspose.Cells-es számra a következő munkafolyamat kipróbál�
 
 {{% /blocks/products/pf/agp/text %}}
 
-Munkafüzet objektum példányosítása. (vagy->Töltse be a XLSX fájlt a teljes elérési úttal.)
++ Munkafüzet objektum példányosítása. (vagy->Töltse be a XLSX fájlt a teljes elérési úttal.)
 + Válassza ki a munkalapot az indexén keresztül.
  + Használja az alakgyűjtemény hozzáadását[módszer](https://reference.aspose.com/cells/python-net/aspose.cells.drawing/shapecollection/add_auto_shape/#AutoShapeType-int-int-int-int-int-int) feliratok beszúrásához a kiválasztott munkalapba.
 + Mentse a munkafüzetet XLSX formátumban.
@@ -57,7 +58,7 @@ Munkafüzet objektum példányosítása. (vagy->Töltse be a XLSX fájlt a telje
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-Az alábbi mintakód bemutatja, hogyan kell beszúrni egy „Gondolatbuborék: Felhőt”. További típusokért tekintse meg az alábbi „A kiemeléstípusok áttekintését” című részt.
+Az alábbi mintakód bemutatja, hogyan kell beilleszteni egy „Gondolatbuborék: Felhőt”. További típusokért tekintse meg az alábbi „A kiemeléstípusok áttekintését” című részt.
 
 {{% blocks/products/pf/agp/code-block title="Feliratok beszúrása - Python via .Net" offSpacer="" %}}
 
@@ -71,7 +72,7 @@ Az alábbi mintakód bemutatja, hogyan kell beszúrni egy „Gondolatbuborék: F
  <div class="row">
   <div class="container">
    <h2 class="pr-ft">
- kiemelés típusainak áttekintése
+ A kiemelés típusainak áttekintése
    </h2>
    <div class="col-lg-4">
     <!--em class="fa fa-chrome ico-blue fa-2x col-lg-2">
@@ -184,7 +185,7 @@ Az alábbi mintakód bemutatja, hogyan kell beszúrni egy „Gondolatbuborék: F
 
 {{% blocks/products/pf/agp/content h2="Körülbelül Aspose.Cells for Python via .NET API" %}}
 
- Aspose.Cells API használható Microsoft Excel formátumok létrehozására, szerkesztésére, konvertálására és renderelésére különböző formátumokba. Ezen túlmenően használható átfogó diagramok készítésére, skálázható jelentésekre és megbízható számításokra a szoftveralkalmazásokon belül. A Aspose.Cells egy önálló API, és nem igényel olyan szoftvert, mint a Microsoft vagy az OpenOffice.
+Aspose.Cells API használható Microsoft Excel formátumok létrehozására, szerkesztésére, konvertálására és renderelésére különböző formátumokba. Ezen túlmenően használható átfogó diagramok készítésére, skálázható jelentésekre és megbízható számításokra a szoftveralkalmazásokon belül. A Aspose.Cells egy önálló API, és nem igényel olyan szoftvert, mint a Microsoft vagy az OpenOffice.
 
 {{% /blocks/products/pf/agp/content %}}
 

@@ -1,6 +1,7 @@
 ---
 title: Hozzon létre Excel-fájlokat via Java
 description: Generáljon Microsoft Excel-táblázatokat sablonlapból a Java táblázatkezelő segítségével
+keywords: [Java Aspose.Cells., Java Create Reports Based on Predesigned Excel Template., Java Generate Reports Based on Predesigned Excel Template., Java Create Reports Based on Excel Template., Java Generate Reports Based on Excel Template., Java Create Excel files Based on Excel Template., Java Generate Excel files Based on Excel Template]
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
 {{< blocks/products/pf/i18n/feature-page-header h1="Microsoft<sup>&reg;</sup> Excel-sablon alapú jelentések létrehozása via Java" h2="Tömeges Excel-fájljelentéseket készíthet egy előre meghatározott sablon alapján a Java alapú alkalmazásokon belül." >}}

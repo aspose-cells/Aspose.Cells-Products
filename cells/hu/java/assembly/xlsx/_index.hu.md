@@ -2,6 +2,7 @@
 title:  Jelentések generálása XLSX fájlokban via Java
 weight: 7710
 description: Java mintakód a XLSX formátumú jelentések létrehozásához a Java futási környezet JSP/JSF alkalmazásokhoz és asztali alkalmazásokhoz.
+keywords: [Java Aspose.Cells., Java Create XLSX Reports Based on Predesigned Excel Template., Java Generate XLSX Reports Based on Predesigned Excel Template., Java Create XLSX Reports Based on Excel Template., Java Generate XLSX Reports Based on Excel Template., Java Create xlsx files Based on Excel Template., Java Generate xlsx files Based on Excel Template]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Tömeges jelentéskészítés XLSX via Java formátumban" h2="Jelentések létrehozása XLSX formátumban adatforrás és sablon használatával." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSX" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -75,9 +76,9 @@ description: Java mintakód a XLSX formátumú jelentések létrehozásához a J
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Excel-jelentések létrehozása XLSX formátumban - C#" offSpacer="" %}}
+{{% blocks/products/pf/agp/code-block title="Excel-jelentések létrehozása XLSX formátumban - Java" offSpacer="" %}}
 
-```cs
+```java
 //Create a workbook designer
 WorkbookDesigner designer = new WorkbookDesigner(workbook);
 

@@ -2,6 +2,7 @@
 title: Excel via Java में एक फ़्लोचार्ट डालें/बनाएँ
 weight: 360
 description: Aspose.Cells' Java API का उपयोग करके बिना किसी सॉफ्टवेयर जैसे Microsoft या ओपन ऑफिस, एडोब PDF आदि के बिना एक फ़्लोचार्ट डालें/बनाएँ।
+keywords: [Java Aspose.Cells., Java add FlowChart., Java insert FlowChart., Java create FlowChart]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Excel via Java में एक फ़्लोचार्ट डालें/बनाएँ" h2="Microsoft या ओपन ऑफिस, एडोब PDF आदि जैसे किसी भी सॉफ्टवेयर के बिना Aspose.Cells\' API का उपयोग करके एक फ़्लोचार्ट डालें / बनाएं।" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSX" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="" fileiconsmall1="PPTX" fileiconsmall2="DOCX" fileiconsmall3="XLSX" fileiconsmall4="PDF" fileiconsmall5=" ODP " >}}
@@ -56,7 +57,7 @@ description: Aspose.Cells' Java API का उपयोग करके बि�
 
 {{% /blocks/products/pf/agp/text %}}
 
-वर्कबुक ऑब्जेक्ट को इंस्टेंट करना। (या->XLSX फ़ाइल को पूर्ण पथ के साथ लोड करें।)
++ वर्कबुक ऑब्जेक्ट को इंस्टेंट करना। (या->XLSX फ़ाइल को पूर्ण पथ के साथ लोड करें।)
 + इसके सूचकांक के माध्यम से वर्कशीट का चयन करें।
  + का प्रयोग करें[विधि जोड़ें](https://reference.aspose.com/cells/java/com.aspose.cells/shapecollection/#addAutoShape-int-int-int-int-int-int-int-) चयनित वर्कशीट में फ़्लोचार्ट डालने/बनाने के लिए
 + कार्यपुस्तिका को XLSX प्रारूप में सहेजें।

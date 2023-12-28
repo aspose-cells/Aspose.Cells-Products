@@ -1,8 +1,8 @@
 ---
-title: Java ओडीएस फ़ाइल की मरम्मत करें - ओडीएस फ़ाइल की ऑनलाइन निःशुल्क मरम्मत करें
+title: Java मरम्मत ओडीएस - दूषित ओडीएस फ़ाइल को पुनर्प्राप्त करें और ठीक करें
 url: /hi/java/recovery/repair-ods/ 
-description: Aspose एक्सेल। Java Aspose.Cells. Java ओडीएस फ़ाइल की मरम्मत करें। निःशुल्क ऑनलाइन ओडीएस मरम्मत उपकरण। दूषित ओडीएस फ़ाइल को सुधारें. Java एप्लिकेशन के भीतर एक दूषित ओडीएस फ़ाइल पुनर्प्राप्त करें।
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java Repair ods file., Free Online Repair a corrupted ods file., Java Recover ods file.]
+description: Java Aspose.Cells. मरम्मत ओडीएस। ओडीएस फ़ाइल ठीक करें. ओडीएस पुनर्प्राप्ति उपकरण। भ्रष्टाचार की आशंका. ओडीएस डेटा पुनर्स्थापित करें. ओडीएस फ़ाइल पुनर्प्राप्ति। दूषित ओडीएस फ़ाइल पुनर्प्राप्त करें।
+keywords: [Java Aspose.Cells., repair ods file., ods repair., recover corrupted ods file., repair corrupted ods., recover ods., fix ods file., ods corruption., restore ods data., ods file recovery., recover corrupted ods file.]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Java में ODS फ़ाइल की मरम्मत करें" h2="Java का उपयोग करके ओडीएस फ़ाइलों की मरम्मत के लिए अपना स्वयं का Java एप्लिकेशन बनाएं।" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="ODS" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="" fileiconsmall1="XLS" fileiconsmall2="XLSB" fileiconsmall3="XLSX" fileiconsmall4="XLSM" fileiconsmall5="ODS" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java Repair od
 
 {{% blocks/products/pf/agp/content h2="Java का उपयोग करके ODS फ़ाइल की मरम्मत करें" %}}
 
- मैं ओडीएस फ़ाइल की मरम्मत कैसे करूँ? Aspose.Cells for Java लाइब्रेरी के साथ, आप कोड की कुछ पंक्तियों के साथ प्रोग्रामेटिक रूप से ODS फ़ाइल को आसानी से सुधार सकते हैं।[Aspose.Cells for Java](https://products.aspose.com/cells/java) सभी एक्सेल फ़ाइलों को उत्पन्न करने, संशोधित करने, परिवर्तित करने, प्रस्तुत करने और प्रिंट करने की क्षमता के साथ क्रॉस-प्लेटफ़ॉर्म एप्लिकेशन बनाने में सक्षम है। Java एक्सेल API न केवल स्प्रेडशीट प्रारूपों के बीच कनवर्ट कर सकता है, यह एक्सेल फाइलों को छवियों, PDF, HTML, ODS, CSV, SVG, JSON, वर्ड, पीपीटी और भी बहुत कुछ के रूप में प्रस्तुत कर सकता है, इस प्रकार यह एक्सचेंज के लिए एक आदर्श विकल्प बन जाता है। उद्योग-मानक में दस्तावेज़ प्रारूप. आप इसका नवीनतम संस्करण सीधे यहां से डाउनलोड कर सकते हैं[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) और pom.xml में निम्नलिखित कॉन्फ़िगरेशन जोड़कर इसे अपने Maven-आधारित प्रोजेक्ट में स्थापित करें।
+ मैं ओडीएस फ़ाइल की मरम्मत कैसे करूँ? Aspose.Cells for Java लाइब्रेरी के साथ, आप कोड की कुछ पंक्तियों के साथ प्रोग्रामेटिक रूप से ODS फ़ाइल को आसानी से सुधार सकते हैं।[Aspose.Cells for Java](https://products.aspose.com/cells/java)सभी एक्सेल फ़ाइलों को उत्पन्न करने, संशोधित करने, परिवर्तित करने, प्रस्तुत करने और प्रिंट करने की क्षमता के साथ क्रॉस-प्लेटफ़ॉर्म एप्लिकेशन बनाने में सक्षम है। Java एक्सेल API न केवल स्प्रेडशीट प्रारूपों के बीच परिवर्तित होता है, बल्कि यह एक्सेल फाइलों को छवियों, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT और अधिक के रूप में भी प्रस्तुत कर सकता है, इस प्रकार यह उद्योग-मानक प्रारूपों में दस्तावेजों का आदान-प्रदान करने के लिए एक आदर्श विकल्प बन जाता है। आप इसका नवीनतम संस्करण सीधे यहां से डाउनलोड कर सकते हैं[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) और pom.xml में निम्नलिखित कॉन्फ़िगरेशन जोड़कर इसे अपने Maven-आधारित प्रोजेक्ट में स्थापित करें।
 
 {{% blocks/products/pf/agp/code-block title="कोष" offSpacer="true" %}}
 
@@ -60,7 +60,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java Repair od
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-recovery title="ODS फ़ाइल को ऑनलाइन सुधारने के लिए निःशुल्क ऐप और नमूना कोड" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et" InputFormat="ods" outformat="ods" IsLandingPage="true" language="java" %}}    
+{{% cells-recovery title="ODS फ़ाइल की मरम्मत के लिए नमूना कोड" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et" InputFormat="ods" outformat="ods" IsLandingPage="true" language="java" %}}    
     
 {{% blocks/products/pf/agp/content h2="Java लाइब्रेरी ODS फ़ाइल को सुधारने के लिए" %}}
 

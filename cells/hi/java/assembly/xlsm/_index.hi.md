@@ -2,6 +2,7 @@
 title:  XLSM फ़ाइलें via Java में रिपोर्ट जनरेट करें
 weight: 270
 description: जेएसपी/जेएसएफ एप्लिकेशन और डेस्कटॉप एप्लिकेशन के लिए Java रनटाइम एनवायरमेंट पर XLSM प्रारूप रिपोर्ट बनाने के लिए Java नमूना कोड।
+keywords: [Java Aspose.Cells., Java Create XLSM Reports Based on Predesigned Excel Template., Java Generate XLSM Reports Based on Predesigned Excel Template., Java Create XLSM Reports Based on Excel Template., Java Generate XLSM Reports Based on Excel Template., Java Create XLSM files Based on Excel Template., Java Generate XLSM files Based on Excel Template]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="XLSM प्रारूप via Java में थोक रिपोर्ट जनरेशन" h2="डेटा स्रोत और टेम्पलेट का उपयोग करके XLSM प्रारूप में रिपोर्ट तैयार करें।" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSM" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSM" >}}
@@ -75,9 +76,9 @@ description: जेएसपी/जेएसएफ एप्लिकेशन �
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="XLSM प्रारूप में एक्सेल रिपोर्ट तैयार करें - C#" offSpacer="" %}}
+{{% blocks/products/pf/agp/code-block title="XLSM प्रारूप में एक्सेल रिपोर्ट तैयार करें - Java" offSpacer="" %}}
 
-```cs
+```java
 //Create a workbook designer
 WorkbookDesigner designer = new WorkbookDesigner(workbook);
 

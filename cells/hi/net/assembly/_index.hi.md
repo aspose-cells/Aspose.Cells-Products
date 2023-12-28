@@ -1,6 +1,7 @@
 ---
 title: C# के माध्यम से एक्सेल फ़ाइलें जेनरेट करें
 description: C# कोड का उपयोग करके टेम्पलेट शीट से Microsoft एक्सेल स्प्रेडशीट जेनरेट करें
+keywords: [C# Aspose.Cells., c# Create Reports Based on Predesigned Excel Template., c# Generate Reports Based on Predesigned Excel Template., c# Create Reports Based on Excel Template., C# Generate Reports Based on Excel Template., c# Create Excel files Based on Excel Template., C# Generate Excel files Based on Excel Template]
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
 {{< blocks/products/pf/i18n/feature-page-header h1="Microsoft<sup>&reg;</sup> एक्सेल टेम्पलेट आधारित फ़ाइलें निर्माण via .NET" h2=".NET आधारित अनुप्रयोगों के भीतर पूर्वनिर्धारित टेम्पलेट के आधार पर एक्सेल फ़ाइल रिपोर्ट तैयार करें" >}}

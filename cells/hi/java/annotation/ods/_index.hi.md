@@ -1,7 +1,8 @@
 ---
-title:  ODS एनोटेशन via Java हटाएँ
+title:  ODS एनोटेशन via Java जोड़ें या हटाएँ
 weight: 8840
 description: जेएसपी/जेएसएफ एप्लिकेशन और डेस्कटॉप एप्लिकेशन के लिए Java रनटाइम एनवायरमेंट पर ODS प्रारूप एनोटेशन को हटाने के लिए Java नमूना कोड।
+keywords: [Java Aspose.Cells., add ods annotation., insert ods annotation., access ods annotation., remove ods annotation., delete ods annotation., add annotation in ods., insert annotation in ods., access annotation in ods., remove annotation in ods., delete annotation in ods]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="ODS via Java से एनोटेशन जोड़ें या हटाएं" h2="सर्वर-साइड एपीआई का उपयोग करके दस्तावेज़ फ़ाइलों में टिप्पणियों और लेखकों में हेरफेर करने के लिए अपने स्वयं के Java ऐप्स बनाएं।" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="ODS" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="" fileiconsmall1="PPTX" fileiconsmall2="DOCX" fileiconsmall3="XLSX" fileiconsmall4="PDF" fileiconsmall5=" ODP " >}}

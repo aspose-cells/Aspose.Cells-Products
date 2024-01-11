@@ -230,7 +230,7 @@ keywords: [C++ Aspose.Cells Create repair parse merge convert JSON Excel XML PDF
      <b>
       Images:
      </b>
-     JPEG, PNG, BMP, GIF, EMF, SVG
+     JPEG, PNG, BMP, TIFF, GIF, EMF, SVG
     </li>
    </ul>
   </div>
@@ -452,7 +452,7 @@ keywords: [C++ Aspose.Cells Create repair parse merge convert JSON Excel XML PDF
      Render Worksheets as Images
     </h2>
     <p>
-     The library renders with the highest of fidelity to Microsoft Excel using its own rendering engine. It offers distinctive features such as rendering worksheets to images in popular formats including BMP, PNG, JPEG &amp; EMF. The Sheet2Image process is flexible thus allowing to select options such as controlling the resultant image's resolution.
+     The library renders with the highest of fidelity to Microsoft Excel using its own rendering engine. It offers distinctive features such as rendering worksheets to images in popular formats including BMP, TIFF, PNG, JPEG &amp; EMF. The Sheet2Image process is flexible thus allowing to select options such as controlling the resultant image's resolution.
     </p>
    </div>
    <div class="col-lg-12">

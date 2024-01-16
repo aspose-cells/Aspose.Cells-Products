@@ -15,30 +15,8 @@ keywords: [C++ Aspose.Cells Create repair parse merge convert JSON Excel XML PDF
 
 {{< blocks/products/pf/tab-content >}}
 <p>
- Aspose.Cells for C++ is a native C++ API for Spreadsheet manipulation. Applications can perform functions such as creating, converting and editing spreadsheet's Built-In and Custom Properties, Themes, Styles and Formatting, Data Validation, Conditional Formatting, Reading, Writing and Calculating Formulas, Grouping Rows and Columns and much more without relying on Office Automation or Microsoft Excel. API supports most commonly used spreadsheet formats such as XLS, XLSX, XLSM and XLSB.
+ Aspose.Cells for C++ is a native C++ API for Spreadsheet manipulation. Applications can perform functions such as creating, converting and editing spreadsheet's Built-In and Custom Properties, Themes, Styles and Formatting, Data Validation, Conditional Formatting, Reading, Writing and Calculating Formulas, Grouping Rows and Columns and much more without relying on Office Automation or Microsoft Excel. The API supports the most common spreadsheet formats (such as XLS, XLSX, XLSM, and XLSB) as well as other types of file formats (such PDF, XPS) and the most common image formats (such as JPEG, PNG, BMP, TIFF, GIF, EMF, SVG).
 </p>
-
-Aspose.Cells for C++ supports the following 64-bit or 32-bit operating system and platforms:
-
-<table>  
-	<tr>
-			<td style="font-weight: bold; width:400px">Operating System</td>
-			<td style="font-weight: bold; width:400px">Versions</td>
-		</tr>
-  <tr>
-			<td>Microsoft Windows</td>
-			<!--- <td><ul><li>Windows 2008 Server (x64)</li><li>Windows 2012 Server (x64)</li><li>Windows 2012 R2 Server (x64)</li><li>Windows 2016 Server (x64)</li><li>Windows 2019 Server (x64)</li><li>Windows Vista (x64)</li><li>Windows 7 (x64)</li><li>Windows 8, 8.1 (x64)</li><li>Windows 10 (x64)</li><li>Windows 11 (x64)</li></ul></td> --->
-			<td><ul><li>Windows x86</li><li>Windows x86_64</li></ul></td>
-  </tr>
-  <tr>
-			<td>Linux</td>
-			<td><ul><li>Linux x86_64</li><!---li>Ubuntu 20.04 or later</li><li>Fedora</li><li>OpenSUSE</li><li>CentOS</li---><li>Linux for ARM (aarch64)</li></ul></td>
-		</tr>
-  <tr>
-			<td>macOS</td>
-			<td><ul><li>macOS 11 or later(arm64, x86_64)</li></ul></td>
-		</tr>
-</table>
 
 {{< /blocks/products/pf/tab-content >}}
 
@@ -212,7 +190,7 @@ Aspose.Cells for C++ supports the following 64-bit or 32-bit operating system an
      <b>
       Text:
      </b>
-     CSV, TSV
+     CSV, TSV, JSON
     </li>
     <li>
      <strong>
@@ -241,6 +219,12 @@ Aspose.Cells for C++ supports the following 64-bit or 32-bit operating system an
       Excel:
      </b>
      XLSM, XLTX, XLTM, XLAM
+    </li>
+    <li>
+     <b>
+      Text:
+     </b>
+     CSV, TSV, JSON
     </li>
     <li>
      <b>
@@ -420,6 +404,30 @@ Aspose.Cells for C++ supports the following 64-bit or 32-bit operating system an
     <p class="col-lg-10">
      Convert Chart to Image format
     </p>
+   </div>
+   <div class="col-lg-12">
+    <h2 class="h2title">
+     System Requirements
+    </h2>
+		Aspose.Cells for C++ supports the following 64-bit or 32-bit operating system and platforms:
+		<table>  
+			<tr>
+					<td style="font-weight: bold; width:400px">Operating System</td>
+					<td style="font-weight: bold; width:400px">Versions</td>
+				</tr>
+		  <tr>
+					<td>Microsoft Windows</td>
+					<td><ul><li>Windows x86</li><li>Windows x86_64</li></ul></td>
+		  </tr>
+		  <tr>
+					<td>Linux</td>
+					<td><ul><li>Linux x86_64</li><li>Linux for ARM (aarch64)</li></ul></td>
+				</tr>
+		  <tr>
+					<td>macOS</td>
+					<td><ul><li>macOS 11 or later(arm64, x86_64)</li></ul></td>
+				</tr>
+		</table>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">

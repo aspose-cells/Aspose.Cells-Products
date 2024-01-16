@@ -161,7 +161,7 @@ keywords: [Python Aspose.Cells Create parse repair merge convert JSON Excel XML 
      <b>
       Microsoft Excel:
      </b>
-     XLS, XLSX, XLSB, XLTX, XLTM, XLSM, XML
+     XLS, XLSX, XLSB, XLT, XLTX, XLTM, XLSM, XML, OTS
     </li>
     <li>
      <b>
@@ -173,13 +173,25 @@ keywords: [Python Aspose.Cells Create parse repair merge convert JSON Excel XML 
      <b>
       Text:
      </b>
-     CSV, TSV, TXT
+     CSV, TSV, JSON
     </li>
     <li>
      <b>
       Web:
      </b>
      HTML, MHTML
+    </li>
+    <li>
+     <b>
+      Numbers:
+     </b>
+     Apple's iWork office suite Numbers app documents
+    </li>
+    <li>
+     <b>
+      Others:
+     </b>
+     SXC, FODS, EPUB
     </li>
    </ul>
   </div>
@@ -199,9 +211,21 @@ keywords: [Python Aspose.Cells Create parse repair merge convert JSON Excel XML 
     </li>
     <li>
      <b>
+      Data Interchange:
+     </b>
+     DIF
+    </li>    
+    <li>
+     <b>
       Images:
      </b>
-     JPEG, PNG, BMP, SVG, EMF
+     JPEG, PNG, BMP, SVG, TIFF, EMF, GIF
+    </li>
+    <li>
+     <b>
+      Others:
+     </b>
+     MARKDOWN, SQL, XTHML
     </li>
    </ul>
   </div>

@@ -173,7 +173,7 @@ description: Process Excel file formats via Node.js library. Read write render &
      <b>
       Microsoft Excel:
      </b>
-     XLS, XLSX, XLSB, XLTX, XLTM, XLSM, XML
+     XLS, XLSX, XLSB, XLT, XLTX, XLTM, XLSM, XML, OTS
     </li>
     <li>
      <b>
@@ -185,13 +185,25 @@ description: Process Excel file formats via Node.js library. Read write render &
      <b>
       Text:
      </b>
-     CSV, Tab-Delimited, TXT
+     CSV, TSV, JSON
     </li>
     <li>
      <b>
       Web:
      </b>
      HTML, MHTML
+    </li>
+    <li>
+     <b>
+      Numbers:
+     </b>
+     Apple's iWork office suite Numbers app documents
+    </li>
+    <li>
+     <b>
+      Others:
+     </b>
+     SXC, FODS, EPUB
     </li>
    </ul>
   </div>
@@ -207,13 +219,25 @@ description: Process Excel file formats via Node.js library. Read write render &
      <b>
       Fixed Layout:
      </b>
-     PDF, XPS
+     PDF, PDF/A, XPS
     </li>
+    <li>
+     <b>
+      Data Interchange:
+     </b>
+     DIF
+    </li>    
     <li>
      <b>
       Images:
      </b>
-     JPEG, PNG, BMP, SVG, TIFF, GIF, EMF
+     JPEG, PNG, BMP, SVG, TIFF, EMF, GIF
+    </li>
+    <li>
+     <b>
+      Others:
+     </b>
+     MARKDOWN, SQL, XTHML
     </li>
    </ul>
   </div>

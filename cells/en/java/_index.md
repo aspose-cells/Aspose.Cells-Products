@@ -177,7 +177,7 @@ keywords: [Java Aspose.Cells Create repair parse merge convert JSON Excel XML PD
      <b>
       Microsoft Excel:
      </b>
-     XLS, XLT, XLSX, XLSB, XLTX, XLTM, XLSM, XML
+     XLS, XLSX, XLSB, XLT, XLTX, XLTM, XLSM, XML, OTS
     </li>
     <li>
      <b>
@@ -189,7 +189,7 @@ keywords: [Java Aspose.Cells Create repair parse merge convert JSON Excel XML PD
      <b>
       Text:
      </b>
-     CSV, TSV
+     CSV, TSV, JSON
     </li>
     <li>
      <b>
@@ -204,7 +204,10 @@ keywords: [Java Aspose.Cells Create repair parse merge convert JSON Excel XML PD
      Apple's iWork office suite Numbers app documents
     </li>
     <li>
-     SXC, FODS
+     <b>
+      Others:
+     </b>
+     SXC, FODS, EPUB
     </li>
    </ul>
   </div>
@@ -227,15 +230,18 @@ keywords: [Java Aspose.Cells Create repair parse merge convert JSON Excel XML PD
       Data Interchange:
      </b>
      DIF
-    </li>
+    </li>    
     <li>
      <b>
       Images:
      </b>
-     JPEG, PNG, BMP, SVG, TIFF, GIF, EMF
+     JPEG, PNG, BMP, SVG, TIFF, EMF, GIF
     </li>
     <li>
-     MARKDOWN
+     <b>
+      Others:
+     </b>
+     MARKDOWN, SQL, XTHML
     </li>
    </ul>
   </div>

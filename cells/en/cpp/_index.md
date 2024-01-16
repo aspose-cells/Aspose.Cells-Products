@@ -184,7 +184,13 @@ keywords: [C++ Aspose.Cells Create repair parse merge convert JSON Excel XML PDF
      <b>
       Microsoft Excel:
      </b>
-     XLS, XLSX, XLSB, XLT, XLTX, XLTM, XLSM, XML
+     XLS, XLSX, XLSB, XLT, XLTX, XLTM, XLSM, XML, OTS
+    </li>
+    <li>
+     <b>
+      OpenOffice:
+     </b>
+     ODS
     </li>
     <li>
      <b>
@@ -193,16 +199,22 @@ keywords: [C++ Aspose.Cells Create repair parse merge convert JSON Excel XML PDF
      CSV, TSV, JSON
     </li>
     <li>
-     <strong>
-      Open Document:
-     </strong>
-     ODS
+     <b>
+      Web:
+     </b>
+     HTML, MHTML
     </li>
     <li>
-     <strong>
+     <b>
+      Numbers:
+     </b>
+     Apple's iWork office suite Numbers app documents
+    </li>
+    <li>
+     <b>
       Others:
-     </strong>
-     HTML, MHTML
+     </b>
+     SXC, FODS, EPUB
     </li>
    </ul>
   </div>
@@ -216,27 +228,27 @@ keywords: [C++ Aspose.Cells Create repair parse merge convert JSON Excel XML PDF
    <ul>
     <li>
      <b>
-      Excel:
-     </b>
-     XLSM, XLTX, XLTM, XLAM
-    </li>
-    <li>
-     <b>
-      Text:
-     </b>
-     CSV, TSV, JSON
-    </li>
-    <li>
-     <b>
       Fixed Layout:
      </b>
-     PDF, XPS
+     PDF, PDF/A, XPS
     </li>
+    <li>
+     <b>
+      Data Interchange:
+     </b>
+     DIF
+    </li>    
     <li>
      <b>
       Images:
      </b>
-     JPEG, PNG, BMP, TIFF, GIF, EMF, SVG
+     JPEG, PNG, BMP, SVG, TIFF, EMF, GIF
+    </li>
+    <li>
+     <b>
+      Others:
+     </b>
+     MARKDOWN, SQL, XTHML
     </li>
    </ul>
   </div>

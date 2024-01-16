@@ -229,7 +229,7 @@ keywords: [Aspose.Cells C# Create repair parse merge convert JSON Excel XML PDF 
      <b>
       Microsoft Excel:
      </b>
-     XLS, XLSX, XLSB, XLT, XLTX, XLTM, XLSM, XML
+     XLS, XLSX, XLSB, XLT, XLTX, XLTM, XLSM, XML, OTS
     </li>
     <li>
      <b>
@@ -241,7 +241,7 @@ keywords: [Aspose.Cells C# Create repair parse merge convert JSON Excel XML PDF 
      <b>
       Text:
      </b>
-     CSV, TSV
+     CSV, TSV, JSON
     </li>
     <li>
      <b>
@@ -254,6 +254,12 @@ keywords: [Aspose.Cells C# Create repair parse merge convert JSON Excel XML PDF 
       Numbers:
      </b>
      Apple's iWork office suite Numbers app documents
+    </li>
+    <li>
+     <b>
+      Others:
+     </b>
+     SXC, FODS, EPUB
     </li>
    </ul>
   </div>
@@ -276,12 +282,18 @@ keywords: [Aspose.Cells C# Create repair parse merge convert JSON Excel XML PDF 
       Data Interchange:
      </b>
      DIF
-    </li>
+    </li>    
     <li>
      <b>
       Images:
      </b>
      JPEG, PNG, BMP, SVG, TIFF, EMF, GIF
+    </li>
+    <li>
+     <b>
+      Others:
+     </b>
+     MARKDOWN, SQL, XTHML
     </li>
    </ul>
   </div>

@@ -1,13 +1,13 @@
 ---
-title: C++ Excel Spreadsheet Programming API - Aspose 
+title: C++ library of Excel - Aspose.Cells
 weight: 7140
 
 description: Aspose.Cells for C++ library to create, repair, merge, parse and convert excel files. Convert excel to PDF, JSON, XML, TSV and so on.
-keywords: [C++ Aspose.Cells Create repair parse merge convert JSON Excel XML PDF HTML TSV SQL ODS CSV TXT PNG JPEG and more formats]
+keywords: [C++ library execl Aspose.Cells Create repair parse merge convert JSON Excel XML PDF HTML TSV SQL ODS CSV TXT PNG JPEG and more formats]
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="C++ Excel Spreadsheets APIs" h2="Create, Read, Write and Parse spreadsheets without any Microsoft Excel dependencies within full-functional C++ applications." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/headers/aspose_cells-for-cpp.svg" pfName="Aspose.Cells" subTitlepfName="for C++" downloadUrl="https://downloads.aspose.com/cells/cpp" >}}
+{{< blocks/products/pf/upper-banner h1="C++ library of Excel - Aspose.Cells" h2="Create, Read, Write and Parse spreadsheets without any Microsoft Excel dependencies within full-functional C++ applications." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/headers/aspose_cells-for-cpp.svg" pfName="Aspose.Cells" subTitlepfName="for C++" downloadUrl="https://downloads.aspose.com/cells/cpp" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells" subTitlepfName="for C++" >}}
 
@@ -15,7 +15,7 @@ keywords: [C++ Aspose.Cells Create repair parse merge convert JSON Excel XML PDF
 
 {{< blocks/products/pf/tab-content >}}
 <p>
- Aspose.Cells for C++ is a native C++ API for Spreadsheet manipulation. Applications can perform functions such as creating, converting and editing spreadsheet's Built-In and Custom Properties, Themes, Styles and Formatting, Data Validation, Conditional Formatting, Reading, Writing and Calculating Formulas, Grouping Rows and Columns and much more without relying on Office Automation or Microsoft Excel. The API supports the most common spreadsheet formats (such as XLS, XLSX, XLSM, and XLSB) as well as other types of file formats (such PDF, XPS) and the most common image formats (such as JPEG, PNG, BMP, TIFF, GIF, EMF, SVG).
+ The Aspose.Cells C++ library is a native C++ library for Spreadsheet manipulation. Applications can perform functions such as creating, converting and editing spreadsheet's Built-In and Custom Properties, Themes, Styles and Formatting, Data Validation, Conditional Formatting, Reading, Writing and Calculating Formulas, Grouping Rows and Columns and much more without relying on Office Automation or Microsoft Excel. The API supports the most common spreadsheet formats (such as XLS, XLSX, XLSM, and XLSB) as well as other types of file formats (such PDF, XPS) and the most common image formats (such as JPEG, PNG, BMP, TIFF, GIF, EMF, SVG).
 </p>
 
 {{< /blocks/products/pf/tab-content >}}
@@ -170,7 +170,7 @@ keywords: [C++ Aspose.Cells Create repair parse merge convert JSON Excel XML PDF
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Supported File Formats" description="Aspose.Cells for C++ supports the most commonly used spreadsheet [file formats](https://docs.aspose.com/cells/cpp/supported-file-formats/)." >}}
+{{< blocks/products/pf/carousel-item h3="Supported File Formats" description="The Aspose.Cells C++ library supports the most commonly used spreadsheet [file formats](https://docs.aspose.com/cells/cpp/supported-file-formats/)." >}}
 <div class="diagram1 d2 d1-cplus">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -284,7 +284,7 @@ keywords: [C++ Aspose.Cells Create repair parse merge convert JSON Excel XML PDF
  <div class="row">
   <div class="container">
    <h2 class="pr-ft">
-    Advanced C++ Spreadsheet API Features
+    Advanced features of the C++ library for Excel - Aspose.Cells
    </h2>
    <!-- <p>Unlike similar products from other vendors, Aspose.Cells for C++ not only supports spreadsheet generation and other basic file formatting features, it also supports a number of advanced features. These advanced features make it much easier for developers to manipulate spreadsheet contents and format cells.</p> 
 
@@ -421,11 +421,11 @@ keywords: [C++ Aspose.Cells Create repair parse merge convert JSON Excel XML PDF
     <h2 class="h2title">
      System Requirements
     </h2>
-		Aspose.Cells for C++ supports the following 64-bit or 32-bit operating system and platforms:
+		The Aspose.Cells C++ library for Excel supports the following 64-bit or 32-bit operating systems and platforms:
 		<table>  
 			<tr>
 					<td style="font-weight: bold; width:400px">Operating System</td>
-					<td style="font-weight: bold; width:400px">Versions</td>
+					<td style="font-weight: bold; width:400px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Versions</td>
 				</tr>
 		  <tr>
 					<td>Microsoft Windows</td>
@@ -446,7 +446,7 @@ keywords: [C++ Aspose.Cells Create repair parse merge convert JSON Excel XML PDF
      Zero Dependency on Microsoft Excel
     </h2>
     <p>
-     Aspose APIs are totally independent and are not affiliated with, nor authorized, sponsored, or otherwise approved by Microsoft Corporation. Aspose.Cells for C++ never needs Microsoft Office or Microsoft Excel to be installed on the machine to work with Excel document formats.
+     The Aspose.Cells C++ library for Excel is totally independent and is not affiliated with, nor authorized, sponsored, or otherwise approved by Microsoft Corporation. The Aspose.Cells C++ library never needs Microsoft Office or Microsoft Excel to be installed on the machine to work with Excel document formats.
     </p>
    </div>
    <div class="col-lg-12">
@@ -454,7 +454,7 @@ keywords: [C++ Aspose.Cells Create repair parse merge convert JSON Excel XML PDF
      Simple &amp; Reliable Conversion of Excel Formats
     </h2>
     <p>
-     Aspose.Cells for C++ is a powerful set of APIs that provide the ability to load, edit, write and inter-convert Excel file formats without worrying about the format-specific details. The API allows you to convert spreadsheets from any supported format to any other supported format with just two lines of code. It is that simple!
+     The Aspose.Cells C++ library is a powerful set of APIs that provide the ability to load, edit, write and inter-convert Excel file formats without worrying about the format-specific details. The API allows you to convert spreadsheets from any supported format to any other supported format with just two lines of code. It is that simple!
     </p>
     <div class="codeblock" id="code">
      <h3>
@@ -478,7 +478,7 @@ keywords: [C++ Aspose.Cells Create repair parse merge convert JSON Excel XML PDF
      Comprehensive Spreadsheet Formatting
     </h2>
     <p>
-     Aspose.Cells for C++ gives you complete control over how you wish to present your data onto the worksheet, by offering advanced formatting features. You can apply formatting to individual row, column, cell, or you can create a range of cells and apply formatting to it. You can also add rich text to a cell, apply borders, set background patterns or tweak font related styling aspects.
+     The Aspose.Cells C++ library gives you complete control over how you wish to present your data onto the worksheet, by offering advanced formatting features. You can apply formatting to individual row, column, cell, or you can create a range of cells and apply formatting to it. You can also add rich text to a cell, apply borders, set background patterns or tweak font related styling aspects.
     </p>
    </div>
    <div class="col-lg-12">
@@ -486,7 +486,7 @@ keywords: [C++ Aspose.Cells Create repair parse merge convert JSON Excel XML PDF
      Visualize Data With Charts
     </h2>
     <p>
-     Aspose.Cells for C++ offers a comprehensive set of APIs to dynamically create all of the standard and custom chart types supported by Excel application. The API also provides the ability to update the data source for an existing chart and refresh it.
+     The Aspose.Cells C++ library offers a comprehensive set of APIs to dynamically create all of the standard and custom chart types supported by Excel application. The API also provides the ability to update the data source for an existing chart and refresh it.
     </p>
    </div>
    <div class="col-lg-12">
@@ -494,7 +494,7 @@ keywords: [C++ Aspose.Cells Create repair parse merge convert JSON Excel XML PDF
      Render Worksheets as Images
     </h2>
     <p>
-     The library renders with the highest of fidelity to Microsoft Excel using its own rendering engine. It offers distinctive features such as rendering worksheets to images in popular formats including BMP, TIFF, PNG, JPEG &amp; EMF. The Sheet2Image process is flexible thus allowing to select options such as controlling the resultant image's resolution.
+     The Aspose.Cells C++ library renders with the highest of fidelity to Microsoft Excel using its own rendering engine. It offers distinctive features such as rendering worksheets to images in popular formats including BMP, TIFF, PNG, JPEG &amp; EMF. The Sheet2Image process is flexible thus allowing to select options such as controlling the resultant image's resolution.
     </p>
    </div>
    <div class="col-lg-12">
@@ -502,7 +502,7 @@ keywords: [C++ Aspose.Cells Create repair parse merge convert JSON Excel XML PDF
      Manipulate Columns and Rows
     </h2>
     <p>
-     Aspose.Cells for C++ offers rows and columns manipulation in multiple ways. Adjust row height and column width or auto resize the cell dimensions according to the contents in it, is too easy. The API also offers the means to delete and inset, hide or show as well as rows and columns grouping or un-grouping.
+     The Aspose.Cells C++ library offers rows and columns manipulation in multiple ways. Adjust row height and column width or auto resize the cell dimensions according to the contents in it, is too easy. The API also offers the means to delete and inset, hide or show as well as rows and columns grouping or un-grouping.
     </p>
    </div>
    <div class="col-lg-12">
@@ -510,7 +510,7 @@ keywords: [C++ Aspose.Cells Create repair parse merge convert JSON Excel XML PDF
      Accurately Convert Spreadsheets to PDF
     </h2>
     <p>
-     The Excel C++ library provides the ability to convert spreadsheets to PDF format while retaining the same quality as the original document. This fact makes Aspose.Cells for C++ a perfect choice for the organizations which require to exchange documents in industry-standard formats as PDF.
+     The Aspose.Cells C++ library provides the ability to convert spreadsheets to PDF format while retaining the same quality as the original document. This fact makes the Aspose.Cells C++ library a perfect choice for the organizations which require to exchange documents in industry-standard formats as PDF.
     </p>
    </div>
    <!-- 

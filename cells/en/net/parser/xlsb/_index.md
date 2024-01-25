@@ -14,13 +14,7 @@ keywords: [C# Aspose.Cells., c# Extract text and images from XLSB file., c# How 
 
 {{% blocks/products/pf/agp/content h2="How to Parse XLSB File Using C#" %}}
 
- In order to parse XLSB file, we’ll use
- [Aspose.Cells for .NET](https://products.aspose.com/cells/net) 
- API which is a feature-rich, powerful and easy to use document manipulation API for C# platform. Open
- [NuGet](https://www.nuget.org/packages/aspose.cells) 
- package manager, search for
- **Aspose.Cells** 
- and install. You may also use the following command from the Package Manager Console.
+ In order to parse XLSB file, we’ll use [Aspose.Cells for .NET](https://products.aspose.com/cells/net) API which is a feature-rich, powerful and easy to use document manipulation API for C# platform. Open [NuGet](https://www.nuget.org/packages/aspose.cells) package manager, search for **Aspose.Cells** and install. You may also use the following command from the Package Manager Console.
 
 {{% blocks/products/pf/agp/code-block title="Command" offSpacer="true" %}}
 
@@ -137,6 +131,7 @@ XLSB file format specifies the Excel Binary File Format, which is a collection o
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/parser/ods/" name="ODS" description="OpenDocument Spreadsheet File" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/parser/xls/" name="XLS" description="Excel Binary Format" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/parser/xlsm/" name="XLSM" description="Spreadsheet File" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/parser/xlsx/" name="XLSX" description="OOXML Excel File" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

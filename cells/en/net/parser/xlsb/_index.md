@@ -34,9 +34,7 @@ PM> Install-Package Aspose.Cells
 
 {{% blocks/products/pf/agp/text %}}
 
- A basic document parsing with
- [Aspose.Cells for .NET](https://products.aspose.com/cells/net) 
- APIs can be done with just few lines of code. Parse text & images from Microsoft Excel XLS, XLSX, XLSM, XLSB and OpenDocument ODS files.
+ A basic document parsing with [Aspose.Cells for .NET](https://products.aspose.com/cells/net) APIs can be done with just few lines of code. Parse text & images from Microsoft Excel XLS, XLSX, XLSM, XLSB and OpenDocument ODS files.
 
 {{% /blocks/products/pf/agp/text %}}
 

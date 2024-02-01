@@ -14,11 +14,7 @@ keywords: [Java Aspose.Cells., Java add watermark to xls file., Java insert wate
 
 {{% blocks/products/pf/agp/content h2="How to Watermark XLS File Using Java" %}}
 
- In order to watermark XLS file, we’ll use
- [Aspose.Cells for Java](https://products.aspose.com/cells/java) 
- API which is a feature-rich, powerful and easy to use watermarking API for Java platform. You can download its latest version directly from
- [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) 
- and install it within your Maven-based project by adding the following configurations to the pom.xml.
+ In order to watermark XLS file, we’ll use [Aspose.Cells for Java](https://products.aspose.com/cells/java) API which is a feature-rich, powerful and easy to use watermarking API for Java platform. You can download its latest version directly from [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) and install it within your Maven-based project by adding the following configurations to the pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Repository" offSpacer="true" %}}
 
@@ -150,6 +146,7 @@ Files with XLS extension represent Excel Binary File Format. Such files can be c
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/watermark/ods/" name="ODS" description="OpenDocument Spreadsheet File" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/watermark/xlsb/" name="XLSB" description="Binary Excel Workbook File" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/watermark/xlsm/" name="XLSM" description="Spreadsheet File" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/watermark/xlsx/" name="XLSX" description="OOXML Excel File" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

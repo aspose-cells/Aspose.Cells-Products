@@ -15,11 +15,7 @@ keywords: [Java Aspose.Cells., Java add watermark to xlsm file., Java insert wat
 
 {{% blocks/products/pf/agp/content h2="How to Watermark XLSM File Using Java" %}}
 
- In order to watermark XLSM file, we’ll use
- [Aspose.Cells for Java](https://products.aspose.com/cells/java) 
- API which is a feature-rich, powerful and easy to use watermarking API for Java platform. You can download its latest version directly from
- [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) 
- and install it within your Maven-based project by adding the following configurations to the pom.xml.
+ In order to watermark XLSM file, we’ll use [Aspose.Cells for Java](https://products.aspose.com/cells/java) API which is a feature-rich, powerful and easy to use watermarking API for Java platform. You can download its latest version directly from [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) and install it within your Maven-based project by adding the following configurations to the pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Repository" offSpacer="true" %}}
 
@@ -151,6 +147,7 @@ Files with XLSM extension is a type of Spreadsheet files that support Macros. Fr
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/watermark/ods/" name="ODS" description="OpenDocument Spreadsheet File" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/watermark/xls/" name="XLS" description="Excel Binary Format" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/watermark/xlsb/" name="XLSB" description="Binary Excel Workbook File" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/watermark/xlsx/" name="XLSX" description="OOXML Excel File" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

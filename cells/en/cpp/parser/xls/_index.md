@@ -14,13 +14,7 @@ keywords: [C++ Aspose.Cells., C++ Extract text and images from XLS file., C++ Ho
 
 {{% blocks/products/pf/agp/content h2="How to Parse XLS File Using C++" %}}
 
- In order to parse XLS file, we’ll use
- [Aspose.Cells for C++](https://products.aspose.com/cells/cpp) 
- API which is a feature-rich, powerful and easy to use document parsing API for C++ platform. You can download its latest version directly, just open
- [NuGet](https://www.nuget.org/packages/aspose.cells) 
- package manager, search for
- **Aspose.Cells.Cpp** 
- and install. You may also use the following command from the Package Manager Console.
+ In order to parse XLS file, we’ll use [Aspose.Cells for C++](https://products.aspose.com/cells/cpp) API which is a feature-rich, powerful and easy to use document parsing API for C++ platform. You can download its latest version directly, just open [NuGet](https://www.nuget.org/packages/aspose.cells) package manager, search for **Aspose.Cells.Cpp** and install. You may also use the following command from the Package Manager Console.
 
 {{% blocks/products/pf/agp/code-block title="Command" offSpacer="true" %}}
 
@@ -131,6 +125,7 @@ Files with XLS extension represent Excel Binary File Format. Such files can be c
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/parser/ods/" name="ODS" description="OpenDocument Spreadsheet File" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/parser/xlsb/" name="XLSB" description="Binary Excel Workbook File" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/parser/xlsm/" name="XLSM" description="Spreadsheet File" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/parser/xlsx/" name="XLSX" description="OOXML Excel File" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

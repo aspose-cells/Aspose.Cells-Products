@@ -14,13 +14,7 @@ keywords: [C++ Aspose.Cells., C++ Search and replace text in XLSM file., C++ red
 
 {{% blocks/products/pf/agp/content h2="How to Redact XLSM File Using C++" %}}
 
- In order to redact XLSM file, we’ll use
- [Aspose.Cells for C++](https://products.aspose.com/cells/cpp) 
- API which is a feature-rich, powerful and easy to use document redaction API for C++ platform. You can download its latest version directly, just open
- [NuGet](https://www.nuget.org/packages/aspose.cells) 
- package manager, search for
- **Aspose.Cells.Cpp** 
- and install. You may also use the following command from the Package Manager Console.
+ In order to redact XLSM file, we’ll use [Aspose.Cells for C++](https://products.aspose.com/cells/cpp) API which is a feature-rich, powerful and easy to use document redaction API for C++ platform. You can download its latest version directly, just open [NuGet](https://www.nuget.org/packages/aspose.cells) package manager, search for **Aspose.Cells.Cpp** and install. You may also use the following command from the Package Manager Console.
 
 {{% blocks/products/pf/agp/code-block title="Command" offSpacer="true" %}}
 
@@ -40,9 +34,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% blocks/products/pf/agp/text %}}
 
- A basic document search and replace text in contents, comments or metadata with
- [Aspose.Cells for C++](https://products.aspose.com/cells/cpp) 
- APIs can be done with just few lines of code.
+ A basic document search and replace text in contents, comments or metadata with [Aspose.Cells for C++](https://products.aspose.com/cells/cpp) APIs can be done with just few lines of code.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -133,6 +125,7 @@ Files with XLSM extension is a type of Spreadsheet files that support Macros. Fr
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/redaction/ods/" name="ODS" description="OpenDocument Spreadsheet File" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/redaction/xls/" name="XLS" description="Excel Binary Format" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/redaction/xlsb/" name="XLSB" description="Binary Excel Workbook File" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/redaction/xlsx/" name="XLSX" description="OOXML Excel File" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

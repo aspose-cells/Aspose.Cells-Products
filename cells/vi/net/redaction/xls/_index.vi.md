@@ -12,13 +12,7 @@ keywords: [C# Aspose.Cells., c# Search and replace text in XLS file., c# redact 
 
 {{% blocks/products/pf/agp/content h2="Cách biên tập lại tệp XLS bằng C#" %}}
 
- Để biên tập lại tệp XLS, chúng tôi sẽ sử dụng
- [Aspose.Cells for .NET](https://products.aspose.com/cells/net) 
- API là một ứng dụng thao tác tài liệu API giàu tính năng, mạnh mẽ và dễ sử dụng dành cho nền tảng C#. Mở
- [NuGet](https://www.nuget.org/packages/aspose.cells) 
- quản lý gói, tìm kiếm
- **Aspose.Cells** 
- và cài đặt. Bạn cũng có thể sử dụng lệnh sau từ Bảng điều khiển quản lý gói.
+ Để biên tập lại tệp XLS, chúng tôi sẽ sử dụng[Aspose.Cells for .NET](https://products.aspose.com/cells/net) API là một ứng dụng thao tác tài liệu API giàu tính năng, mạnh mẽ và dễ sử dụng dành cho nền tảng C#. Mở[NuGet](https://www.nuget.org/packages/aspose.cells) quản lý gói, tìm kiếm**Aspose.Cells** và cài đặt. Bạn cũng có thể sử dụng lệnh sau từ Bảng điều khiển quản lý gói.
 
 {{% blocks/products/pf/agp/code-block title="Yêu cầu" offSpacer="true" %}}
 
@@ -38,9 +32,7 @@ PM> Install-Package Aspose.Cells
 
 {{% blocks/products/pf/agp/text %}}
 
- Tìm kiếm tài liệu cơ bản và thay thế văn bản trong nội dung, nhận xét hoặc siêu dữ liệu bằng
- [Aspose.Cells for .NET](https://products.aspose.com/cells/net) 
- API có thể được thực hiện chỉ với vài dòng mã.
+ Tìm kiếm tài liệu cơ bản và thay thế văn bản trong nội dung, nhận xét hoặc siêu dữ liệu bằng[Aspose.Cells for .NET](https://products.aspose.com/cells/net) API có thể được thực hiện chỉ với vài dòng mã.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -57,7 +49,7 @@ PM> Install-Package Aspose.Cells
 
 {{% blocks/products/pf/agp/text %}}
 
- API của chúng tôi được hỗ trợ trên tất cả các nền tảng và Hệ điều hành chính. Trước khi thực thi mã bên dưới, vui lòng đảm bảo rằng bạn có các điều kiện tiên quyết sau trên hệ thống của mình.
+API của chúng tôi được hỗ trợ trên tất cả các nền tảng và Hệ điều hành chính. Trước khi thực thi mã bên dưới, vui lòng đảm bảo rằng bạn có các điều kiện tiên quyết sau trên hệ thống của mình.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -122,10 +114,10 @@ wb.Save("e:\test2\output.xls");
             {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Không cần tải Aspose API." >}}
             {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Không cần phải viết bất kỳ mã nào." >}}
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Chỉ cần tải lên tệp XLS của bạn." >}}
-            {{< blocks/products/pf/agp/democard icon="fa-download" text="Nó sẽ được biên tập lại ngay lập tức." >}}
+            {{< blocks/products/pf/agp/democard icon="fa-download" text=" Nó sẽ được biên tập lại ngay lập tức." >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLS" readMoreLink="https://docs.fileformat.com/spreadsheet/xls/" >}}
-Các tệp có phần mở rộng XLS biểu thị Định dạng tệp nhị phân Excel. Những tệp như vậy có thể được tạo bởi Microsoft Excel cũng như các chương trình bảng tính tương tự khác như OpenOffice Calc hoặc Apple Numbers. Tệp được lưu bởi Excel được gọi là Sổ làm việc trong đó mỗi sổ làm việc có thể có một hoặc nhiều trang tính. Dữ liệu được lưu trữ và hiển thị cho người dùng ở định dạng bảng trong trang tính và có thể bao gồm các giá trị số, dữ liệu văn bản, công thức, kết nối dữ liệu ngoài, hình ảnh và biểu đồ. Các ứng dụng như Microsoft Excel cho phép bạn xuất dữ liệu sổ làm việc sang nhiều định dạng khác nhau bao gồm PDF, CSV, XLSX, TXT, HTML, XPS và một số định dạng khác. Định dạng tệp XLS đã được thay thế bằng định dạng có cấu trúc và mở hơn, XLSX, với bản phát hành Microsoft Excel 2007. Các phiên bản mới nhất vẫn cung cấp hỗ trợ tạo và đọc tệp XLS, mặc dù XLSX hiện là lựa chọn sử dụng đầu tiên.
+Các tệp có phần mở rộng XLS biểu thị Định dạng tệp nhị phân Excel. Những tệp như vậy có thể được tạo bởi Microsoft Excel cũng như các chương trình bảng tính tương tự khác như OpenOffice Calc hoặc Apple Numbers. Tệp được lưu bởi Excel được gọi là Sổ làm việc trong đó mỗi sổ làm việc có thể có một hoặc nhiều trang tính. Dữ liệu được lưu trữ và hiển thị cho người dùng ở định dạng bảng trong trang tính và có thể bao gồm các giá trị số, dữ liệu văn bản, công thức, kết nối dữ liệu ngoài, hình ảnh và biểu đồ. Các ứng dụng như Microsoft Excel cho phép bạn xuất dữ liệu sổ làm việc sang nhiều định dạng khác nhau, bao gồm PDF, CSV, XLSX, TXT, HTML, XPS và một số định dạng khác. Định dạng tệp XLS đã được thay thế bằng định dạng có cấu trúc và mở hơn, XLSX, với bản phát hành Microsoft Excel 2007. Các phiên bản mới nhất vẫn cung cấp hỗ trợ tạo và đọc tệp XLS, mặc dù XLSX hiện là lựa chọn sử dụng đầu tiên.
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
@@ -138,6 +130,7 @@ Các tệp có phần mở rộng XLS biểu thị Định dạng tệp nhị ph
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/redaction/ods/" name="ODS" description="Tệp bảng tính OpenDocument" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/redaction/xlsb/" name="XLSB" description="Tệp sổ làm việc Excel nhị phân" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/redaction/xlsm/" name="XLSM" description="Tệp bảng tính" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/redaction/xlsx/" name="XLSX" description="Tệp Excel OOXML" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

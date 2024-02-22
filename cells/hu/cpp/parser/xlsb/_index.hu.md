@@ -1,5 +1,5 @@
 ---
-title:  Szöveg és képek kibontása a XLSB dokumentumból a C++ számon keresztül
+title: Szöveg és képek kibontása a XLSB dokumentumból a C++ számon keresztül
 weight: 3140
 description: C++ példakód szövegek és képek kinyerésére a C++ C++ C++ számú XLSB fájlból a Windows 32 bites, Windows 64 bites és a 64 bites Linux futásidejű környezethez.
 keywords: [C++ Aspose.Cells., C++ Extract text and images from XLSB file., C++ How to Parse XLSB File., C++ Extract text from XLSB file., Extract images from XLSB file using C++]
@@ -12,13 +12,7 @@ keywords: [C++ Aspose.Cells., C++ Extract text and images from XLSB file., C++ H
 
 {{% blocks/products/pf/agp/content h2="A XLSB fájl elemzése a C++ használatával" %}}
 
- A XLSB fájl elemzéséhez használjuk
- [Aspose.Cells for C++](https://products.aspose.com/cells/cpp) 
- API, amely funkciókban gazdag, hatékony és könnyen használható dokumentumelemző API for C++ platform. A legújabb verziót közvetlenül letöltheti, csak nyissa meg
- [NuGet](https://www.nuget.org/packages/aspose.cells) 
- csomagkezelő, keressen
- **Aspose.Cells.Cpp** 
- és telepítse. A következő parancsot is használhatja a Package Manager konzolból.
+ A XLSB fájl elemzéséhez használjuk[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) API, amely funkciókban gazdag, hatékony és könnyen használható dokumentumelemző API for C++ platform. A legújabb verziót közvetlenül letöltheti, csak nyissa meg[NuGet](https://www.nuget.org/packages/aspose.cells) csomagkezelő, keressen**Aspose.Cells.Cpp** és telepítse. A következő parancsot is használhatja a Package Manager konzolból.
 
 {{% blocks/products/pf/agp/code-block title="Parancs" offSpacer="true" %}}
 
@@ -38,9 +32,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% blocks/products/pf/agp/text %}}
 
- Egy alapvető dokumentum elemzése a következővel
- [Aspose.Cells for C++](https://products.aspose.com/cells/cpp) 
- Az API-k néhány sornyi kóddal elkészíthetők. Szöveg és képek elemzése a Microsoft Excel XLS, XLSX, XLSM, XLSB és OpenDocument ODS fájlokból.
+ Egy alapvető dokumentum elemzése a következővel[Aspose.Cells for C++](https://products.aspose.com/cells/cpp)Az API-k néhány sornyi kóddal elkészíthetők. Szöveg és képek elemzése a Microsoft Excel XLS, XLSX, XLSM, XLSB és OpenDocument ODS fájlokból.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -108,7 +100,7 @@ Aspose::Cells::Cleanup();
 
 {{< blocks/products/pf/agp/about-file-section >}}
 
-    {{< blocks/products/pf/agp/demobox sectionTitle="Online XLSB Parser élő bemutatók" sectionDescription=" Nyerjen ki szöveget és képeket a XLSB dokumentumból, látogasson el honlapunkra[Élő bemutatók weboldala](https://products.aspose.app/cells/parser). Az élő demónak a következő előnyei vannak" >}}
+    {{< blocks/products/pf/agp/demobox sectionTitle="Online XLSB Parser élő bemutatók" sectionDescription="Nyerjen ki szöveget és képeket a XLSB dokumentumból, látogasson el honlapunkra[Élő bemutatók weboldala](https://products.aspose.app/cells/parser). Az élő demónak a következő előnyei vannak" >}}
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Nem kell letölteni a Aspose API számot." >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Nem kell kódot írni." >}}
         {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Csak töltse fel a XLSB fájlokat." >}}
@@ -124,11 +116,12 @@ Aspose::Cells::Cleanup();
 
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="Egyéb támogatott elemzési dokumentumok" subTitle="C++ használatával egyszerűen elemezhet más formátumokat, beleértve." >}}
+{{< blocks/products/pf/agp/other-supported-section title="Egyéb támogatott elemzési dokumentumok" subTitle="A C++ használatával egyszerűen elemezhet más formátumokat, beleértve." >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/parser/ods/" name="ODS" description="OpenDocument táblázatfájl" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/parser/xls/" name="XLS" description="Excel bináris formátum" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/parser/xlsm/" name="XLSM" description="Táblázatfájl" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/parser/xlsx/" name="XLSX" description="OOXML Excel fájl" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

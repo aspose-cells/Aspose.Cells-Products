@@ -12,7 +12,7 @@ description: PHP Excel tabulka API pro čtení zápis a převod XLS XLSX CSV TSV
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
- Aspose.Cells for PHP via Java je škálovatelná a na funkce bohatá správa a zpracování tabulek Excelu API. Aplikace mohou provádět převod formátu tabulky, správu a vykreslování grafů, implementaci vzorců, stylování listů na nejpodrobnější úroveň a mnoho dalšího. API podporuje XLS, XLSX, ODS, SpreadsheetML, CSV, Tab Delimited, HTML/07611136181 a další,12307, 12307. Vývojáři mohou snadno přidat možnost vytvářet, upravovat, převádět a vykreslovat soubory Excel ve svých aplikacích PHP při použití JavaBridge.
+Aspose.Cells for PHP via Java je škálovatelná a na funkce bohatá správa a zpracování tabulek Excelu API. Aplikace mohou provádět převod formátu tabulky, správu a vykreslování grafů, implementaci vzorců, stylování listů na nejpodrobnější úroveň a mnoho dalšího. API podporuje XLS, XLSX, ODS, SpreadsheetML, CSV, Tab Delimited, HTML/07611136181 a další,12307, 12307. Vývojáři mohou snadno přidat možnost vytvářet, upravovat, převádět a vykreslovat soubory Excel ve svých aplikacích PHP při použití JavaBridge.
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
@@ -179,7 +179,7 @@ description: PHP Excel tabulka API pro čtení zápis a převod XLS XLSX CSV TSV
      <b>
  Microsoft Excel:
      </b>
- XLS, XLSX, XLSB, XLTX, XLTM, XLSM, XML
+ XLS, XLSX, XLSB, XLT, XLTX, XLTM, XLSM, XML, OTS
     </li>
     <li>
      <b>
@@ -191,13 +191,25 @@ description: PHP Excel tabulka API pro čtení zápis a převod XLS XLSX CSV TSV
      <b>
  Text:
      </b>
- CSV, odděleno tabulátory, TXT
+     CSV, TSV, JSON
     </li>
     <li>
      <b>
  Web:
      </b>
      HTML, MHTML
+    </li>
+    <li>
+     <b>
+      Numbers:
+     </b>
+ Dokumenty aplikace Apple iWork office suite Numbers
+    </li>
+    <li>
+     <b>
+ ostatní:
+     </b>
+ SXC, FODS, EPUB
     </li>
    </ul>
   </div>
@@ -206,20 +218,32 @@ description: PHP Excel tabulka API pro čtení zápis a převod XLS XLSX CSV TSV
    <header>
     <i class="fa fa-mail-forward">
     </i>
- Pouze výstup
+Pouze výstup
    </header>
    <ul>
     <li>
      <b>
  Pevné rozvržení:
      </b>
-     PDF, XPS
+ PDF, PDF/A, XPS
     </li>
+    <li>
+     <b>
+ Výměna dat:
+     </b>
+     DIF
+    </li>    
     <li>
      <b>
  Snímky:
      </b>
      JPEG, PNG, BMP, SVG, TIFF, EMF, GIF
+    </li>
+    <li>
+     <b>
+ ostatní:
+     </b>
+ MARKDOWN, SQL, XTHML
     </li>
    </ul>
   </div>
@@ -264,7 +288,7 @@ description: PHP Excel tabulka API pro čtení zápis a převod XLS XLSX CSV TSV
     <em class="fa fa-support ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Podpora pro CSV, oddělené tabulátory &amp; HTML formáty
+Podpora pro CSV, oddělené tabulátory &amp; HTML formáty
     </p>
    </div>
    <div class="col-lg-4">
@@ -370,7 +394,7 @@ description: PHP Excel tabulka API pro čtení zápis a převod XLS XLSX CSV TSV
  Převést soubory Excel na XPS, PDF &amp; HTML
     </h2>
     <p>
-Aspose.Cells for PHP via Java API dokáže převádět soubory Excelu do formátů XPS, XPS a HTML a zároveň zachovat nejvyšší vizuální věrnost. Proces převodu je spolehlivý a vývojáři mohou získat požadovaný formát pomocí několika řádků.
+ Aspose.Cells for PHP via Java API dokáže převádět soubory Excelu do formátů XPS, XPS a HTML a zároveň zachovat nejvyšší vizuální věrnost. Proces převodu je spolehlivý a vývojáři mohou získat požadovaný formát pomocí několika řádků.
     </p>
     <div class="codeblock" id="code">
      <h3>
@@ -396,7 +420,7 @@ $wkbk-&gt;save("output.html", SaveFormat::HTML);</code></pre>
  Render Excel Spreadsheets &amp; Objekty na PDF &amp; snímky
     </h2>
     <p>
- Aspose.Cells for PHP via Java má svůj vlastní renderovací engine speciálně navržený pro renderování s nejvyšší věrností Excelu Microsoft. Při používání Aspose.Cells for PHP via Java můžete převádět celé tabulky, jednotlivé listy &amp; grafy k řadě obrázků &amp; formáty s pevným rozložením.
+Aspose.Cells for PHP via Java má svůj vlastní renderovací engine speciálně navržený pro renderování s nejvyšší věrností Excelu Microsoft. Při používání Aspose.Cells for PHP via Java můžete převádět celé tabulky, jednotlivé listy &amp; grafy k řadě obrázků &amp; formáty s pevným rozložením.
     </p>
    </div>
    <div class="col-lg-12">
@@ -404,7 +428,7 @@ $wkbk-&gt;save("output.html", SaveFormat::HTML);</code></pre>
  Flexibilní možnosti zobrazení listu
     </h2>
     <p>
-Aspose.Cells for PHP via Java vám poskytuje úplnou kontrolu nad nastavením stránky listu a umožňuje vám manipulovat s možnostmi zobrazení listu aplikace Excel, jako jsou konce stránek, orientace stránky, měřítko, velikost papíru, záhlaví/zápatí a úroveň přiblížení. Viditelnost dat můžete také ovládat pomocí panelů zmrazení &amp; oblast tisku, aby vyhovovala požadavkům vaší aplikace.
+ Aspose.Cells for PHP via Java vám poskytuje úplnou kontrolu nad nastavením stránky listu a umožňuje vám manipulovat s možnostmi zobrazení listu aplikace Excel, jako jsou konce stránek, orientace stránky, měřítko, velikost papíru, záhlaví/zápatí a úroveň přiblížení. Viditelnost dat můžete také ovládat pomocí panelů zmrazení &amp; oblast tisku, aby vyhovovala požadavkům vaší aplikace.
     </p>
    </div>
    <div class="col-lg-12">
@@ -412,7 +436,7 @@ Aspose.Cells for PHP via Java vám poskytuje úplnou kontrolu nad nastavením st
  Efektivní, robustní & Spolehlivý motor pro výpočet vzorce
     </h2>
     <p>
- Aspose.Cells for PHP via Java je vybaven výkonným modulem pro výpočet vzorců, který podporuje téměř všechny standardní a pokročilé vzorce a funkce Microsoft Excel. Můžete číst, nastavovat a vypočítat výsledky vzorců vestavěného nebo doplňkového typu, pole a R1C1.
+Aspose.Cells for PHP via Java je vybaven výkonným modulem pro výpočet vzorců, který podporuje téměř všechny standardní a pokročilé vzorce a funkce Microsoft Excel. Můžete číst, nastavovat a vypočítat výsledky vzorců vestavěného nebo doplňkového typu, pole a R1C1.
     </p>
    </div>
    <div class="col-lg-12">
@@ -423,7 +447,7 @@ Aspose.Cells for PHP via Java vám poskytuje úplnou kontrolu nad nastavením st
  Knihovna je tak flexibilní, že lze vybavit tabulky všemi druhy vizuálních efektů, stejně jako lze použít formátování na list, řádek, sloupec nebo buňku, nastavit písma s atributy, definovat styl buněk &amp; číselné formáty, přidejte formátovaný text a definujte pravidla podmíněného formátování.
     </p>
     <p>
-Podobně pro profesionální vzhled a snadnou srozumitelnost jsou nedílnou součástí grafy a grafika. Aspose.Cells for PHP via Java Rozhraní API mohou vytvářet a manipulovat se všemi typy standardních a vlastních grafů. Kromě toho lze do buněk snadno přidávat různé typy nakreslených objektů.
+ Podobně pro profesionální vzhled a snadnou srozumitelnost jsou nedílnou součástí grafy a grafika. Aspose.Cells for PHP via Java Rozhraní API mohou vytvářet a manipulovat se všemi typy standardních a vlastních grafů. Kromě toho lze do buněk snadno přidávat různé typy nakreslených objektů.
     </p>
    </div>
   </div>

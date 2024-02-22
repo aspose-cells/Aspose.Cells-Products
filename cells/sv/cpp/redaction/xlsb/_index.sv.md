@@ -1,5 +1,5 @@
 ---
-title:  Sök och ersätt text i XLSB dokument via C++
+title: Sök och ersätt text i XLSB dokument via C++
 weight: 6660
 description: C++ exempelkod för att redigera känslig information i filen XLSB på C++ Runtime Environment för Windows 32 bitar, Windows 64 bitar och Linux 64 bitar.
 keywords: [C++ Aspose.Cells., C++ Search and replace text in XLSB file., C++ redact XLSB file., C++ edit XLSB file., C++ XLSB file redaction., C++ Search and replace string in XLSB file]
@@ -12,13 +12,7 @@ keywords: [C++ Aspose.Cells., C++ Search and replace text in XLSB file., C++ red
 
 {{% blocks/products/pf/agp/content h2="Hur man redigerar XLSB-fil med C++" %}}
 
- För att redigera filen XLSB kommer vi att använda
- [Aspose.Cells for C++](https://products.aspose.com/cells/cpp) 
- API som är en funktionsrik, kraftfull och lättanvänd plattform för dokumentredigering API for C++. Du kan ladda ner den senaste versionen direkt, bara öppna
- [NuGet](https://www.nuget.org/packages/aspose.cells) 
- pakethanterare, sök efter
- **Aspose.Cells.Cpp** 
- och installera. Du kan också använda följande kommando från Package Manager Console.
+ För att redigera filen XLSB kommer vi att använda[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) API som är en funktionsrik, kraftfull och lättanvänd plattform för dokumentredigering API for C++. Du kan ladda ner den senaste versionen direkt, bara öppna[NuGet](https://www.nuget.org/packages/aspose.cells) pakethanterare, sök efter**Aspose.Cells.Cpp** och installera. Du kan också använda följande kommando från Package Manager Console.
 
 {{% blocks/products/pf/agp/code-block title="Kommando" offSpacer="true" %}}
 
@@ -38,15 +32,13 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% blocks/products/pf/agp/text %}}
 
- En grundläggande dokumentsökning och ersätt text i innehåll, kommentarer eller metadata med
- [Aspose.Cells for C++](https://products.aspose.com/cells/cpp) 
- API:er kan göras med bara några rader kod.
+ En grundläggande dokumentsökning och ersätt text i innehåll, kommentarer eller metadata med[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) API:er kan göras med bara några rader kod.
 
 {{% /blocks/products/pf/agp/text %}}
 
 + Ladda XLSB fil.
 + Definiera ersättningsalternativ.
-+ Ställ in skiftlägeskänslighet.
+Ställ in skiftlägeskänslighet.
 + Ställ in textmatchningsalternativ
 + Ersätt text med metoden Ersätt(...).
 + Spara arbetsboken.
@@ -114,7 +106,7 @@ Aspose::Cells::Cleanup();
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Du behöver inte ladda ner Aspose API." >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Du behöver inte skriva någon kod." >}}
         {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Ladda bara upp dina XLSB-filer." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-download" text="Den kommer att redigeras omedelbart." >}}
+        {{< blocks/products/pf/agp/democard icon="fa-download" text=" Den kommer att redigeras omedelbart." >}}
     {{< /blocks/products/pf/agp/demobox >}}
 
     {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLSB" readMoreLink="https://docs.fileformat.com/spreadsheet/xlsb/" >}}
@@ -131,6 +123,7 @@ Filformatet XLSB anger det binära filformatet för Excel, som är en samling po
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/redaction/ods/" name="ODS" description="OpenDocument Spreadsheet File" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/redaction/xls/" name="XLS" description="Excel binärt format" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/redaction/xlsm/" name="XLSM" description="Kalkylbladsfil" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/redaction/xlsx/" name="XLSX" description="OOXML Excel-fil" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

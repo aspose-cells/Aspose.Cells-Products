@@ -12,11 +12,7 @@ keywords: [Java Aspose.Cells., Java Extract text and images from XLSM file., Jav
 
 {{% blocks/products/pf/agp/content h2="Java Kullanılarak XLSM Dosyası Nasıl Ayrıştırılır" %}}
 
- XLSM dosyasını ayrıştırmak için kullanacağız
- [Aspose.Cells for Java](https://products.aspose.com/cells/java) 
- Zengin özelliklere sahip, güçlü ve kullanımı kolay bir API for Java ayrıştırma platformu olan API. En son sürümünü doğrudan adresinden indirebilirsiniz.
- [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) 
- ve aşağıdaki yapılandırmaları pom.xml dosyasına ekleyerek Maven tabanlı projenize kurun.
+ XLSM dosyasını ayrıştırmak için kullanacağız[Aspose.Cells for Java](https://products.aspose.com/cells/java) Zengin özelliklere sahip, güçlü ve kullanımı kolay bir API for Java ayrıştırma platformu olan API. En son sürümünü doğrudan adresinden indirebilirsiniz.[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) ve aşağıdaki yapılandırmaları pom.xml dosyasına ekleyerek Maven tabanlı projenize kurun.
 
 {{% blocks/products/pf/agp/code-block title="Depo" offSpacer="true" %}}
 
@@ -54,9 +50,7 @@ keywords: [Java Aspose.Cells., Java Extract text and images from XLSM file., Jav
 
 {{% blocks/products/pf/agp/text %}}
 
- Temel bir belge ayrıştırma
- [Aspose.Cells for Java](https://products.aspose.com/cells/java) 
- API'ler yalnızca birkaç satır kodla yapılabilir. Microsoft Excel XLS, XLSX, XLSM, XLSB ve OpenDocument ODS dosyalarındaki metinleri ve görüntüleri ayrıştırın.
+ Temel bir belge ayrıştırma[Aspose.Cells for Java](https://products.aspose.com/cells/java)API'ler yalnızca birkaç satır kodla yapılabilir. Microsoft Excel XLS, XLSX, XLSM, XLSB ve OpenDocument ODS dosyalarındaki metinleri ve görüntüleri ayrıştırın.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -76,7 +70,7 @@ keywords: [Java Aspose.Cells., Java Extract text and images from XLSM file., Jav
 
 {{% /blocks/products/pf/agp/text %}}
 
--  Microsoft Windows veya JSP/JSF Uygulaması ve Masaüstü Uygulamaları için Java Çalışma Zamanı Ortamı ile uyumlu bir işletim sistemi.
+- Microsoft Windows veya JSP/JSF Uygulaması ve Masaüstü Uygulamaları için Java Çalışma Zamanı Ortamı ile uyumlu bir işletim sistemi.
 -  Aspose.Cells for Java'in en son sürümünü doğrudan şu adresten edinin:
  [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells)  .
 
@@ -121,7 +115,7 @@ System.out.println(stringBuilder.toString());
 
 {{< blocks/products/pf/agp/about-file-section >}}
 
-    {{< blocks/products/pf/agp/demobox sectionTitle="Çevrimiçi XLSM Ayrıştırıcı Canlı Demoları" sectionDescription=" XLSM belgeden metin ve görselleri hemen şimdi ziyaret ederek çıkarın.[Canlı Demolar web sitesi](https://products.aspose.app/cells/parser). Canlı demo aşağıdaki avantajlara sahiptir" >}}
+    {{< blocks/products/pf/agp/demobox sectionTitle="Çevrimiçi XLSM Ayrıştırıcı Canlı Demoları" sectionDescription="XLSM belgeden metin ve görselleri hemen şimdi ziyaret ederek çıkarın.[Canlı Demolar web sitesi](https://products.aspose.app/cells/parser). Canlı demo aşağıdaki avantajlara sahiptir" >}}
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Aspose API\'i indirmenize gerek yok." >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Herhangi bir kod yazmaya gerek yok." >}}
         {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" XLSM dosyalarınızı yüklemeniz yeterli." >}}
@@ -142,6 +136,7 @@ XLSM uzantılı dosyalar, Makroları destekleyen bir Elektronik Tablo dosyası t
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/parser/ods/" name="ODS" description="OpenDocument Elektronik Tablo Dosyası" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/parser/xls/" name="XLS" description="Excel İkili Formatı" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/parser/xlsb/" name="XLSB" description="İkili Excel Çalışma Kitabı Dosyası" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/parser/xlsx/" name="XLSX" description="OOXML Excel Dosyası" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

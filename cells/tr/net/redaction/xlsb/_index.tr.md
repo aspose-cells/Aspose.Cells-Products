@@ -12,13 +12,7 @@ keywords: [C# Aspose.Cells., c# Search and replace text in XLSB file., c# redact
 
 {{% blocks/products/pf/agp/content h2="XLSB Dosyasını C# Kullanarak Düzenleme" %}}
 
- XLSB dosyasını düzenlemek için şunu kullanacağız:
- [Aspose.Cells for .NET](https://products.aspose.com/cells/net) 
- C# platformu için zengin özelliklere sahip, güçlü ve kullanımı kolay bir belge işleme API olan API. Açık
- [NuGet](https://www.nuget.org/packages/aspose.cells) 
- paket yöneticisi, ara
- **Aspose.Cells** 
- ve yükleyin. Aşağıdaki komutu Paket Yönetici Konsolundan da kullanabilirsiniz.
+ XLSB dosyasını düzenlemek için şunu kullanacağız:[Aspose.Cells for .NET](https://products.aspose.com/cells/net) C# platformu için zengin özelliklere sahip, güçlü ve kullanımı kolay bir belge işleme API olan API. Açık[NuGet](https://www.nuget.org/packages/aspose.cells) paket yöneticisi, ara**Aspose.Cells** ve yükleyin. Aşağıdaki komutu Paket Yönetici Konsolundan da kullanabilirsiniz.
 
 {{% blocks/products/pf/agp/code-block title="Emretmek" offSpacer="true" %}}
 
@@ -38,9 +32,7 @@ PM> Install-Package Aspose.Cells
 
 {{% blocks/products/pf/agp/text %}}
 
- Temel bir belge araması ve içerikteki, yorumlardaki veya meta verilerdeki metni şununla değiştirin:
- [Aspose.Cells for .NET](https://products.aspose.com/cells/net) 
- API'ler yalnızca birkaç satır kodla yapılabilir.
+ Temel bir belge araması ve içerikteki, yorumlardaki veya meta verilerdeki metni şununla değiştirin:[Aspose.Cells for .NET](https://products.aspose.com/cells/net) API'ler yalnızca birkaç satır kodla yapılabilir.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -57,7 +49,7 @@ PM> Install-Package Aspose.Cells
 
 {{% blocks/products/pf/agp/text %}}
 
- API'lerimiz tüm önemli platformlarda ve İşletim Sistemlerinde desteklenir. Aşağıdaki kodu çalıştırmadan önce lütfen sisteminizde aşağıdaki önkoşulların bulunduğundan emin olun.
+API'lerimiz tüm önemli platformlarda ve İşletim Sistemlerinde desteklenir. Aşağıdaki kodu çalıştırmadan önce lütfen sisteminizde aşağıdaki önkoşulların bulunduğundan emin olun.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -118,11 +110,11 @@ wb.Save("e:\test2\output.xlsb");
 
     {{< blocks/products/pf/agp/about-file-section >}}
 
-        {{< blocks/products/pf/agp/demobox sectionTitle="Çevrimiçi XLSB Redaksiyon Canlı Demoları" sectionDescription=" Şu anda sayfamızı ziyaret ederek XLSB belgedeki içerik, yorum veya meta verilerdeki metni arayın ve değiştirin.[Canlı Demolar web sitesi](https://products.aspose.app/cells/redaction). Canlı demo aşağıdaki avantajlara sahiptir" >}}
+        {{< blocks/products/pf/agp/demobox sectionTitle="Çevrimiçi XLSB Redaksiyon Canlı Demoları" sectionDescription=" XLSB belgedeki içerik, yorum veya meta verilerdeki metni hemen şimdi ziyaret ederek arayın ve değiştirin.[Canlı Demolar web sitesi](https://products.aspose.app/cells/redaction). Canlı demo aşağıdaki avantajlara sahiptir" >}}
             {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Aspose API\'i indirmenize gerek yok." >}}
             {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Herhangi bir kod yazmaya gerek yok." >}}
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" XLSB dosyalarınızı yüklemeniz yeterli." >}}
-            {{< blocks/products/pf/agp/democard icon="fa-download" text="Anında düzenlenecektir." >}}
+            {{< blocks/products/pf/agp/democard icon="fa-download" text=" Anında düzenlenecektir." >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLSB" readMoreLink="https://docs.fileformat.com/spreadsheet/xlsb/" >}}
 XLSB dosya biçimi, Excel çalışma kitabı içeriğini belirten kayıtların ve yapıların bir koleksiyonu olan Excel İkili Dosya Biçimini belirtir. İçerik, yapılandırılmamış veya yarı yapılandırılmış sayı tabloları, metin veya hem sayı hem de metin, formüller, dış veri bağlantıları, grafikler ve resimler içerebilir. XLSX'in (Açık XML dosya biçimini temel alan) aksine, XLSB ikili Excel çalışma kitabı dosyasını temsil eder. XLSB dosyaları daha hızlı okunabilir ve yazılabilir, bu da onları büyük dosyalarla çalışırken kullanışlı kılar. XLSB, çalışma kitaplarını depolamak için nadiren kullanılır; çünkü XLSX (ve daha önce XLS), çalışma kitaplarını kaydetmek için kullanıcı tarafından seçilen en yaygın dosya biçimleridir. Microsoft Office 2007 ve üzeri ile açılabilir.
@@ -138,6 +130,7 @@ XLSB dosya biçimi, Excel çalışma kitabı içeriğini belirten kayıtların v
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/redaction/ods/" name="ODS" description="OpenDocument Elektronik Tablo Dosyası" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/redaction/xls/" name="XLS" description="Excel İkili Formatı" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/redaction/xlsm/" name="XLSM" description="Elektronik Tablo Dosyası" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/redaction/xlsx/" name="XLSX" description="OOXML Excel Dosyası" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

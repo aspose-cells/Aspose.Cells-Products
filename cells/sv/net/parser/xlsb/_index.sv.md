@@ -12,13 +12,7 @@ keywords: [C# Aspose.Cells., c# Extract text and images from XLSB file., c# How 
 
 {{% blocks/products/pf/agp/content h2="Hur man analyserar XLSB-fil med C#" %}}
 
- För att tolka filen XLSB kommer vi att använda
- [Aspose.Cells for .NET](https://products.aspose.com/cells/net) 
- API som är en funktionsrik, kraftfull och lättanvänd dokumenthantering API för C# plattform. Öppen
- [NuGet](https://www.nuget.org/packages/aspose.cells) 
- pakethanterare, sök efter
- **Aspose.Cells** 
- och installera. Du kan också använda följande kommando från Package Manager Console.
+ För att tolka filen XLSB kommer vi att använda[Aspose.Cells for .NET](https://products.aspose.com/cells/net) API som är en funktionsrik, kraftfull och lättanvänd dokumenthantering API för C# plattform. Öppen[NuGet](https://www.nuget.org/packages/aspose.cells) pakethanterare, sök efter**Aspose.Cells** och installera. Du kan också använda följande kommando från Package Manager Console.
 
 {{% blocks/products/pf/agp/code-block title="Kommando" offSpacer="true" %}}
 
@@ -38,9 +32,7 @@ PM> Install-Package Aspose.Cells
 
 {{% blocks/products/pf/agp/text %}}
 
- Ett grundläggande dokument som analyseras med
- [Aspose.Cells for .NET](https://products.aspose.com/cells/net) 
- API:er kan göras med bara några rader kod. Analysera text och bilder från Microsoft Excel XLS, XLSX, XLSM, XLSB och OpenDocument ODS filer.
+ Ett grundläggande dokument som analyseras med[Aspose.Cells for .NET](https://products.aspose.com/cells/net)API:er kan göras med bara några rader kod. Analysera text och bilder från Microsoft Excel XLS, XLSX, XLSM, XLSB och OpenDocument ODS filer.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -56,7 +48,7 @@ PM> Install-Package Aspose.Cells
 
 {{% blocks/products/pf/agp/text %}}
 
- Våra API:er stöds på alla större plattformar och operativsystem. Innan du kör koden nedan, se till att du har följande förutsättningar på ditt system.
+Våra API:er stöds på alla större plattformar och operativsystem. Innan du kör koden nedan, se till att du har följande förutsättningar på ditt system.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -115,7 +107,7 @@ PM> Install-Package Aspose.Cells
 
     {{< blocks/products/pf/agp/about-file-section >}}
 
-        {{< blocks/products/pf/agp/demobox sectionTitle="Online XLSB Parser Live Demos" sectionDescription=" Extrahera text och bilder från XLSB dokument just nu genom att besöka vår[Live Demos webbplats](https://products.aspose.app/cells/parser). Livedemon har följande fördelar" >}}
+        {{< blocks/products/pf/agp/demobox sectionTitle="Online XLSB Parser Live Demos" sectionDescription="Extrahera text och bilder från XLSB dokument just nu genom att besöka vår[Live Demos webbplats](https://products.aspose.app/cells/parser). Livedemon har följande fördelar" >}}
             {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Du behöver inte ladda ner Aspose API." >}}
             {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Du behöver inte skriva någon kod." >}}
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Ladda bara upp dina XLSB-filer." >}}
@@ -135,6 +127,7 @@ Filformatet XLSB anger det binära filformatet för Excel, som är en samling po
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/parser/ods/" name="ODS" description="OpenDocument Spreadsheet File" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/parser/xls/" name="XLS" description="Excel binärt format" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/parser/xlsm/" name="XLSM" description="Kalkylbladsfil" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/parser/xlsx/" name="XLSX" description="OOXML Excel-fil" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

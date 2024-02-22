@@ -12,11 +12,7 @@ keywords: [Java Aspose.Cells., Java Search and replace text in XLSM file., Java 
 
 {{% blocks/products/pf/agp/content h2="Java을 사용하여 XLSM 파일을 수정하는 방법" %}}
 
- XLSM 파일을 수정하기 위해 다음을 사용합니다.
- [Aspose.Cells for Java](https://products.aspose.com/cells/java) 
-API은 기능이 풍부하고 강력하며 사용하기 쉬운 편집 API for Java 플랫폼입니다. 최신 버전은 다음에서 직접 다운로드할 수 있습니다.
- [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) 
- pom.xml에 다음 구성을 추가하여 Maven 기반 프로젝트 내에 설치하세요.
+ XLSM 파일을 수정하기 위해 다음을 사용합니다.[Aspose.Cells for Java](https://products.aspose.com/cells/java) API은 기능이 풍부하고 강력하며 사용하기 쉬운 편집 API for Java 플랫폼입니다. 최신 버전은 다음에서 직접 다운로드할 수 있습니다.[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) pom.xml에 다음 구성을 추가하여 Maven 기반 프로젝트 내에 설치하세요.
 
 {{% blocks/products/pf/agp/code-block title="저장소" offSpacer="true" %}}
 
@@ -54,9 +50,7 @@ API은 기능이 풍부하고 강력하며 사용하기 쉬운 편집 API for Ja
 
 {{% blocks/products/pf/agp/text %}}
 
- 기본 문서 검색 및 내용, 댓글, 메타데이터의 텍스트를 다음으로 대체합니다.
- [Aspose.Cells for Java](https://products.aspose.com/cells/java) 
- 단 몇 줄의 코드만으로 API를 구현할 수 있습니다.
+ 기본 문서 검색 및 내용, 댓글, 메타데이터의 텍스트를 다음으로 대체합니다.[Aspose.Cells for Java](https://products.aspose.com/cells/java) 단 몇 줄의 코드만으로 API를 구현할 수 있습니다.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -78,7 +72,7 @@ API은 기능이 풍부하고 강력하며 사용하기 쉬운 편집 API for Ja
 
 {{% /blocks/products/pf/agp/text %}}
 
--  Microsoft Windows 또는 JSP/JSF 애플리케이션 및 데스크탑 애플리케이션용 런타임 환경 Java과 호환되는 OS.
+- Microsoft Windows 또는 JSP/JSF 애플리케이션 및 데스크탑 애플리케이션용 런타임 환경 Java과 호환되는 OS.
 -  Aspose.Cells for Java의 최신 버전을 직접 다운로드하세요.
  [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells)  .
 
@@ -144,7 +138,7 @@ workbook.save(dataDir + "output.xlsm");
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Aspose API을 다운로드할 필요가 없습니다." >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" 코드를 작성할 필요가 없습니다." >}}
         {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" XLSM 파일을 업로드하세요." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-download" text="즉시 수정됩니다." >}}
+        {{< blocks/products/pf/agp/democard icon="fa-download" text=" 즉시 수정됩니다." >}}
     {{< /blocks/products/pf/agp/demobox >}}
 
     {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLSM" readMoreLink="https://docs.fileformat.com/spreadsheet/xlsm/" >}}
@@ -161,6 +155,7 @@ workbook.save(dataDir + "output.xlsm");
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/redaction/ods/" name="ODS" description="OpenDocument 스프레드시트 파일" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/redaction/xls/" name="XLS" description="Excel 바이너리 형식" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/redaction/xlsb/" name="XLSB" description="바이너리 Excel 통합 문서 파일" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/redaction/xlsx/" name="XLSX" description="OOXML 엑셀 파일" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

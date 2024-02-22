@@ -1,5 +1,5 @@
 ---
-title: Vízjel XLSB dokumentum via Java
+title:  Vízjel XLSB dokumentum via Java
 weight: 5900
 description: Java mintakód vízjel hozzáadásához vagy eltávolításához a XLSB fájlhoz a Java Futókörnyezet JSP/JSF alkalmazásokhoz és asztali alkalmazásokhoz.
 keywords: [Java Aspose.Cells., Java add watermark to xlsb file., Java insert watermark to xlsb file., Java create watermark in xlsb file., remove watermark from xlsb file using Java., Java operate watermark in xlsb file., Java access watermark in xlsb file]
@@ -12,11 +12,7 @@ keywords: [Java Aspose.Cells., Java add watermark to xlsb file., Java insert wat
 
 {{% blocks/products/pf/agp/content h2="A XLSB fájl vízjelezése a Java használatával" %}}
 
- A XLSB fájl vízjelezéséhez használjuk
- [Aspose.Cells for Java](https://products.aspose.com/cells/java) 
- API, amely funkciókban gazdag, erőteljes és könnyen használható vízjel API for Java platform. A legújabb verziót közvetlenül a webhelyről töltheti le
- [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) 
- és telepítse a Maven alapú projekten belül a következő konfigurációk hozzáadásával a pom.xml fájlhoz.
+ A XLSB fájl vízjelezéséhez használjuk[Aspose.Cells for Java](https://products.aspose.com/cells/java) API, amely funkciókban gazdag, erőteljes és könnyen használható vízjel API for Java platform. A legújabb verziót közvetlenül a webhelyről töltheti le[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) és telepítse a Maven alapú projekten belül a következő konfigurációk hozzáadásával a pom.xml fájlhoz.
 
 {{% blocks/products/pf/agp/code-block title="Adattár" offSpacer="true" %}}
 
@@ -129,13 +125,13 @@ workbook.save(dataDir + "AWArtWToWorksheet_out.xlsb");
     {{< blocks/products/pf/agp/about-file-section >}}
 
         {{< blocks/products/pf/agp/demobox sectionTitle="Vízjel XLSB az online alkalmazáson keresztül" sectionDescription=" Adjon hozzá vízjelet a XLSB dokumentumokhoz, látogassa meg webhelyünket[Élő bemutatók weboldala](https://products.aspose.app/cells/watermark). Az élő demónak a következő előnyei vannak" >}}
-            {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Nem kell letölteni vagy beállítani semmit" >}}
+            {{< blocks/products/pf/agp/democard icon="fa-cogs" text="Nem kell letölteni vagy beállítani semmit" >}}
             {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Nem kell kódot írni" >}}
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Csak töltse fel a XLSB fájlt, állítsa be a vízjelet, és nyomja meg a \"Hozzáadás\" gombot" >}}
             {{< blocks/products/pf/agp/democard icon="fa-download" text=" Azonnal megkapja a letöltési linket az eredményül kapott fájlhoz" >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLSB" readMoreLink="https://docs.fileformat.com/spreadsheet/xlsb/" >}}
-A XLSB fájlformátum az Excel bináris fájlformátumát határozza meg, amely az Excel-munkafüzet tartalmát meghatározó rekordok és struktúrák gyűjteménye. A tartalom tartalmazhat strukturálatlan vagy félig strukturált számtáblázatokat, szöveget, vagy számokat és szöveget egyaránt, képleteket, külső adatkapcsolatokat, diagramokat és képeket. A XLSX-től eltérően (amely Open XML fájlformátumon alapul), a XLSB bináris Excel-munkafüzetfájlt jelöl. A XLSB fájlok gyorsabban olvashatók és írhatók, ami hasznossá teszi őket a nagy fájlokkal való munka során. A XLSB-et ritkán használják munkafüzetek tárolására, mivel a XLSX (és korábban a XLS) a felhasználók által leggyakrabban kiválasztott fájlformátumok munkafüzetek mentésére. Megnyitható: Microsoft Office 2007 és újabb.
+XLSB fájlformátum az Excel bináris fájlformátumát határozza meg, amely az Excel-munkafüzet tartalmát meghatározó rekordok és struktúrák gyűjteménye. A tartalom tartalmazhat strukturálatlan vagy félig strukturált számtáblázatokat, szöveget, vagy számokat és szöveget egyaránt, képleteket, külső adatkapcsolatokat, diagramokat és képeket. A XLSX-től eltérően (amely Open XML fájlformátumon alapul), a XLSB bináris Excel-munkafüzetfájlt jelöl. A XLSB fájlok gyorsabban olvashatók és írhatók, ami hasznossá teszi őket a nagy fájlokkal való munka során. A XLSB-et ritkán használják munkafüzetek tárolására, mivel a XLSX (és korábban a XLS) a felhasználók által leggyakrabban kiválasztott fájlformátumok munkafüzetek mentésére. Megnyitható: Microsoft Office 2007 és újabb.
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
@@ -143,11 +139,12 @@ A XLSB fájlformátum az Excel bináris fájlformátumát határozza meg, amely 
 
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="Egyéb támogatott vízjelformátumok" subTitle="A Java használatával könnyen megjelölhet vízjelet különböző formátumokhoz, beleértve." >}}
+{{< blocks/products/pf/agp/other-supported-section title="Egyéb támogatott vízjelformátumok" subTitle="Java használatával könnyen megjelölhet vízjelet különböző formátumokhoz, beleértve." >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/watermark/ods/" name="ODS" description="OpenDocument táblázatfájl" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/watermark/xls/" name="XLS" description="Excel bináris formátum" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/watermark/xlsm/" name="XLSM" description="Táblázatfájl" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/watermark/xlsx/" name="XLSX" description="OOXML Excel fájl" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

@@ -1,7 +1,7 @@
 ---
 title:  API Node.js untuk Spreadsheet Excel - Aspose
 weight: 3120
-description: Memproses format file Excel melalui perpustakaan Node.js. Baca tulis render & konversi XLS XLSX XLSB XLTX XLTM XLSM XML ODS CSV dan format lainnya melalui Node.js di Windows, macOS & Linux
+description: Proses format file Excel melalui perpustakaan Node.js. Baca tulis render & konversi XLS XLSX XLSB XLTX XLTM XLSM XML ODS CSV dan format lainnya melalui Node.js di Windows, macOS & Linux
 ---
 {{< blocks/products/pf/main-wrap-class >}}
 {{< blocks/products/pf/i18n/upper-banner h1="API Format File Excel Node.js" h2="Hasilkan, modifikasi, konversi & render spreadsheet Excel menggunakan Node.js tanpa memerlukan Microsoft Excel." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/headers/aspose_cells-for-nodejs-java.svg" pfName="Aspose.Cells" subTitlepfName="for Node.js via Java" downloadUrl="https://downloads.aspose.com/cells/nodejs" >}}
@@ -12,11 +12,11 @@ description: Memproses format file Excel melalui perpustakaan Node.js. Baca tuli
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
- Aspose.Cells for Node.js via Java adalah API yang kaya fitur dan skalabel untuk memproses spreadsheet Excel menggunakan Node.js. API menawarkan konversi format file Excel, penataan lembar kerja ke tingkat paling terperinci, pembuatan bagan &amp; rendering, mesin penghitungan rumus yang andal, dan masih banyak lagi.
+Aspose.Cells for Node.js via Java adalah API yang kaya fitur dan skalabel untuk memproses spreadsheet Excel menggunakan Node.js. API menawarkan konversi format file Excel, penataan lembar kerja ke tingkat paling terperinci, pembuatan bagan &amp; rendering, mesin penghitungan rumus yang andal, dan masih banyak lagi.
 </p>
 
 <p>
-Aspose.Cells for Node.js via Java mendukung format spreadsheet paling populer termasuk XLS, XLSX, ODS, SpreadsheetML, CSV, TSC &amp; HTML.
+ Aspose.Cells for Node.js via Java mendukung format spreadsheet paling populer termasuk XLS, XLSX, ODS, SpreadsheetML, CSV, TSC &amp; HTML.
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
@@ -171,7 +171,7 @@ Aspose.Cells for Node.js via Java mendukung format spreadsheet paling populer te
      <b>
  Microsoft Unggul:
      </b>
- XLS, XLSX, XLSB, XLTX, XLTM, XLSM, XML
+ XLS, XLSX, XLSB, XLT, XLTX, XLTM, XLSM, XML, OTS
     </li>
     <li>
      <b>
@@ -183,13 +183,25 @@ Aspose.Cells for Node.js via Java mendukung format spreadsheet paling populer te
      <b>
  Teks:
      </b>
- CSV, Dibatasi Tab, TXT
+     CSV, TSV, JSON
     </li>
     <li>
      <b>
  jaringan:
      </b>
      HTML, MHTML
+    </li>
+    <li>
+     <b>
+      Numbers:
+     </b>
+ Dokumen aplikasi iWork office suite Numbers Apple
+    </li>
+    <li>
+     <b>
+ Yang lain:
+     </b>
+ SXC, FODS, EPUB
     </li>
    </ul>
   </div>
@@ -198,20 +210,32 @@ Aspose.Cells for Node.js via Java mendukung format spreadsheet paling populer te
    <header>
     <i class="fa fa-mail-forward">
     </i>
- Keluaran Saja
+Keluaran Saja
    </header>
    <ul>
     <li>
      <b>
  Tata Letak Tetap:
      </b>
-     PDF, XPS
+ PDF, PDF/A, XPS
     </li>
+    <li>
+     <b>
+ Pertukaran Data:
+     </b>
+     DIF
+    </li>    
     <li>
      <b>
  Gambar-gambar:
      </b>
-     JPEG, PNG, BMP, SVG, TIFF, GIF, EMF
+     JPEG, PNG, BMP, SVG, TIFF, EMF, GIF
+    </li>
+    <li>
+     <b>
+ Yang lain:
+     </b>
+ MARKDOWN, SQL, XTHML
     </li>
    </ul>
   </div>
@@ -269,7 +293,7 @@ Aspose.Cells for Node.js via Java mendukung format spreadsheet paling populer te
     <em class="fa fa-commenting ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-Buat &amp; memanipulasi komentar &amp; hyperlink
+ Buat &amp; memanipulasi komentar &amp; hyperlink
     </p>
    </div>
    <div class="col-lg-4">
@@ -319,7 +343,7 @@ Buat &amp; memanipulasi komentar &amp; hyperlink
  Merender Excel Spreadsheet
     </h2>
     <p>
- Aspose.Cells for Node.js via Java menggunakan mesin renderingnya untuk merender ke Microsoft Excel dengan fidelitas tertinggi. Saat menggunakan pustaka Pemrosesan Excel Node.js, seseorang dapat mengonversi seluruh lembar, file individual, atau bagan menjadi beberapa gambar dan format tata letak tetap.
+Aspose.Cells for Node.js via Java menggunakan mesin renderingnya untuk merender ke Microsoft Excel dengan fidelitas tertinggi. Saat menggunakan pustaka Pemrosesan Excel Node.js, seseorang dapat mengonversi seluruh lembar, file individual, atau bagan menjadi beberapa gambar dan format tata letak tetap.
     </p>
    </div>
    <div class="col-lg-12">
@@ -327,7 +351,7 @@ Buat &amp; memanipulasi komentar &amp; hyperlink
  Opsi Tampilan Fleksibel
     </h2>
     <p>
-Aspose.Cells for Node.js via Java memberikan kontrol penuh atas pengaturan halaman lembar kerja, seseorang dapat memanipulasi opsi tampilan lembar kerja seperti orientasi halaman, jeda, ukuran, penskalaan, header, footer, dan tingkat zoom. Selain itu, pengembang dapat mengontrol visibilitas data dengan bantuan area cetak dan panel beku agar sesuai dengan spesifikasi aplikasi.
+ Aspose.Cells for Node.js via Java memberikan kontrol penuh atas pengaturan halaman lembar kerja, seseorang dapat memanipulasi opsi tampilan lembar kerja seperti orientasi halaman, jeda, ukuran, penskalaan, header, footer, dan tingkat zoom. Selain itu, pengembang dapat mengontrol visibilitas data dengan bantuan area cetak dan panel beku agar sesuai dengan spesifikasi aplikasi.
     </p>
    </div>
    <div class="col-lg-12">
@@ -343,12 +367,12 @@ Aspose.Cells for Node.js via Java memberikan kontrol penuh atas pengaturan halam
  Memanipulasi Baris &amp; Kolom
     </h2>
     <p>
- Aspose.Cells for Node.js via Java memungkinkan Anda memanipulasi baris dan kolom dengan berbagai cara. Anda dapat dengan mudah menyesuaikan tinggi baris &amp; lebar kolom, ukuran sel otomatis sesuai isinya, masukkan &amp; hapus, sembunyikan &amp; un-hide serta mengelompokkan &amp; batalkan pengelompokan baris &amp; kolom.
+Aspose.Cells for Node.js via Java memungkinkan Anda memanipulasi baris dan kolom dengan berbagai cara. Anda dapat dengan mudah menyesuaikan tinggi baris &amp; lebar kolom, ukuran sel otomatis sesuai isinya, masukkan &amp; hapus, sembunyikan &amp; un-hide serta mengelompokkan &amp; batalkan pengelompokan baris &amp; kolom.
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-Dukungan Komprehensif untuk Pemformatan Lembar Kerja
+ Dukungan Komprehensif untuk Pemformatan Lembar Kerja
     </h2>
     <p>
  Aspose.Cells for Node.js via Java menyediakan fitur pemformatan tingkat lanjut yang memungkinkan Anda mengontrol penyajian data Anda. Anda bisa menerapkan pemformatan ke lembar kerja, kolom, baris, atau sel atau menambahkan Teks Kaya ke satu sel, menerapkan batas, mengatur pola latar belakang, dan gaya font. API juga memungkinkan untuk menambah, memanipulasi &amp; menghitung aturan pemformatan bersyarat dengan cepat.
@@ -359,7 +383,7 @@ Dukungan Komprehensif untuk Pemformatan Lembar Kerja
  Pembuatan Bagan, Manipulasi &amp; Render
     </h2>
     <p>
- Aspose.Cells for Node.js via Java memberikan dukungan penuh untuk pembuatan grafik. Seseorang dapat dengan mudah menambahkan grafik yang disesuaikan atau standar menggunakan API, dan secara dinamis mengatur data untuk menyegarkan grafik.
+Aspose.Cells for Node.js via Java memberikan dukungan penuh untuk pembuatan grafik. Seseorang dapat dengan mudah menambahkan grafik yang disesuaikan atau standar menggunakan API, dan secara dinamis mengatur data untuk menyegarkan grafik.
     </p>
    </div>
   </div>

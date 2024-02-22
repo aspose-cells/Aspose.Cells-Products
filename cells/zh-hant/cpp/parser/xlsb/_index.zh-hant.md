@@ -12,13 +12,7 @@ keywords: [C++ Aspose.Cells., C++ Extract text and images from XLSB file., C++ H
 
 {{% blocks/products/pf/agp/content h2="如何使用 C++ 解析 XLSB 文件" %}}
 
-為了解析 XLSB 文件，我們將使用
- [Aspose.Cells for C++](https://products.aspose.com/cells/cpp) 
-API這是一個功能豐富、功能強大且易於使用的文件解析API for C++平台。您可以直接下載最新版本，打開即可
- [NuGet](https://www.nuget.org/packages/aspose.cells) 
-套件管理器，搜尋
- **Aspose.Cells.Cpp** 
-並安裝。您也可以從套件管理器控制台使用以下命令。
+為了解析 XLSB 文件，我們將使用[Aspose.Cells for C++](https://products.aspose.com/cells/cpp)API這是一個功能豐富、功能強大且易於使用的文件解析API for C++平台。您可以直接下載最新版本，打開即可[NuGet](https://www.nuget.org/packages/aspose.cells)套件管理器，搜尋**Aspose.Cells.Cpp**並安裝。您也可以從套件管理器控制台使用以下命令。
 
 {{% blocks/products/pf/agp/code-block title="命令" offSpacer="true" %}}
 
@@ -38,9 +32,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% blocks/products/pf/agp/text %}}
 
-基本文件解析
- [Aspose.Cells for C++](https://products.aspose.com/cells/cpp) 
-只需幾行程式碼即可完成 API。解析 Microsoft Excel XLS、XLSX、XLSM、XLSB 和 OpenDocument ODS 文件中的文字和圖像。
+基本文件解析[Aspose.Cells for C++](https://products.aspose.com/cells/cpp)只需幾行程式碼即可完成 API。解析 Microsoft Excel XLS、XLSX、XLSM、XLSB 和 OpenDocument ODS 文件中的文字和圖像。
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -50,7 +42,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% blocks/products/pf/agp/text %}}
 
-Aspose.Cells for C++ 支援所有主要平台和作業系統。請確保您具備以下先決條件。
+ Aspose.Cells for C++ 支援所有主要平台和作業系統。請確保您具備以下先決條件。
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -129,6 +121,7 @@ XLSB 檔案格式指定 Excel 二進位檔案格式，它是指定 Excel 工作�
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/parser/ods/" name="ODS" description="OpenDocument 電子表格文件" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/parser/xls/" name="XLS" description="Excel 二進位格式" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/parser/xlsm/" name="XLSM" description="試算表文件" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/parser/xlsx/" name="XLSX" description="OOXML Excel 文件" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

@@ -12,11 +12,7 @@ keywords: [Java Aspose.Cells., Java Extract text and images from XLSM file., Jav
 
 {{% blocks/products/pf/agp/content h2="So analysieren Sie die Datei XLSM mit Java" %}}
 
- Um die Datei XLSM zu analysieren, verwenden wir
- [Aspose.Cells for Java](https://products.aspose.com/cells/java) 
- API ist eine funktionsreiche, leistungsstarke und benutzerfreundliche Parsing-Plattform. Sie können die neueste Version direkt von herunterladen
- [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) 
- und installieren Sie es in Ihrem Maven-basierten Projekt, indem Sie der pom.xml die folgenden Konfigurationen hinzufügen.
+ Um die Datei XLSM zu analysieren, verwenden wir[Aspose.Cells for Java](https://products.aspose.com/cells/java) API ist eine funktionsreiche, leistungsstarke und benutzerfreundliche Parsing-Plattform. Sie können die neueste Version direkt von herunterladen[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) und installieren Sie es in Ihrem Maven-basierten Projekt, indem Sie der pom.xml die folgenden Konfigurationen hinzufügen.
 
 {{% blocks/products/pf/agp/code-block title="Repository" offSpacer="true" %}}
 
@@ -54,9 +50,7 @@ keywords: [Java Aspose.Cells., Java Extract text and images from XLSM file., Jav
 
 {{% blocks/products/pf/agp/text %}}
 
- Ein einfaches Dokument-Parsing mit
- [Aspose.Cells for Java](https://products.aspose.com/cells/java) 
- APIs können mit nur wenigen Codezeilen erstellt werden. Analysieren Sie Text und Bilder aus den Dateien Microsoft, Excel XLS, XLSX, XLSM, XLSB und OpenDocument ODS.
+ Ein einfaches Dokument-Parsing mit[Aspose.Cells for Java](https://products.aspose.com/cells/java)APIs können mit nur wenigen Codezeilen erstellt werden. Analysieren Sie Text und Bilder aus den Dateien Microsoft, Excel XLS, XLSX, XLSM, XLSB und OpenDocument ODS.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -76,7 +70,7 @@ keywords: [Java Aspose.Cells., Java Extract text and images from XLSM file., Jav
 
 {{% /blocks/products/pf/agp/text %}}
 
--  Microsoft Windows oder ein kompatibles Betriebssystem mit Java Laufzeitumgebung für JSP/JSF-Anwendungen und Desktop-Anwendungen.
+- Microsoft Windows oder ein kompatibles Betriebssystem mit Java Laufzeitumgebung für JSP/JSF-Anwendungen und Desktop-Anwendungen.
 -  Holen Sie sich die neueste Version von Aspose.Cells for Java direkt von
  [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells)  .
 
@@ -121,7 +115,7 @@ System.out.println(stringBuilder.toString());
 
 {{< blocks/products/pf/agp/about-file-section >}}
 
-    {{< blocks/products/pf/agp/demobox sectionTitle="Online XLSM Parser-Live-Demos" sectionDescription=" Extrahieren Sie jetzt Text und Bilder aus XLSM-Dokumenten, indem Sie unsere besuchen[Live-Demos-Website](https://products.aspose.app/cells/parser). Die Live-Demo bietet folgende Vorteile" >}}
+    {{< blocks/products/pf/agp/demobox sectionTitle="Online XLSM Parser-Live-Demos" sectionDescription="Extrahieren Sie jetzt Text und Bilder aus XLSM-Dokumenten, indem Sie unsere besuchen[Live-Demos-Website](https://products.aspose.app/cells/parser). Die Live-Demo bietet folgende Vorteile" >}}
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Aspose API muss nicht heruntergeladen werden." >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Es ist nicht nötig, Code zu schreiben." >}}
         {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Laden Sie einfach Ihre XLSM-Dateien hoch." >}}
@@ -142,6 +136,7 @@ Dateien mit der Erweiterung XLSM sind Tabellenkalkulationsdateien, die Makros un
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/parser/ods/" name="ODS" description="OpenDocument-Tabellenkalkulationsdatei" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/parser/xls/" name="XLS" description="Excel-Binärformat" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/parser/xlsb/" name="XLSB" description="Binäre Excel-Arbeitsmappendatei" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/parser/xlsx/" name="XLSX" description="OOXML-Excel-Datei" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

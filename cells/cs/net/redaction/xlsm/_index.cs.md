@@ -12,13 +12,7 @@ keywords: [C# Aspose.Cells., c# Search and replace text in XLSM file., c# redact
 
 {{% blocks/products/pf/agp/content h2="Jak upravit soubor XLSM pomocí C#" %}}
 
- Abychom redigovali soubor XLSM, použijeme
- [Aspose.Cells for .NET](https://products.aspose.com/cells/net) 
- API, což je funkčně bohatá, výkonná a snadno použitelná manipulace s dokumenty API pro platformu C#. OTEVŘENO
- [NuGet](https://www.nuget.org/packages/aspose.cells) 
- správce balíčků, vyhledejte
- **Aspose.Cells** 
- a nainstalovat. Můžete také použít následující příkaz z konzoly Správce balíčků.
+ Abychom redigovali soubor XLSM, použijeme[Aspose.Cells for .NET](https://products.aspose.com/cells/net) API, což je funkčně bohatá, výkonná a snadno použitelná manipulace s dokumenty API pro platformu C#. OTEVŘENO[NuGet](https://www.nuget.org/packages/aspose.cells) správce balíčků, vyhledejte**Aspose.Cells** a nainstalovat. Můžete také použít následující příkaz z konzoly Správce balíčků.
 
 {{% blocks/products/pf/agp/code-block title="Příkaz" offSpacer="true" %}}
 
@@ -38,9 +32,7 @@ PM> Install-Package Aspose.Cells
 
 {{% blocks/products/pf/agp/text %}}
 
- Základní vyhledávání a nahrazování textu v obsahu, komentářích nebo metadatech
- [Aspose.Cells for .NET](https://products.aspose.com/cells/net) 
- Rozhraní API lze vytvořit pomocí několika řádků kódu.
+ Základní vyhledávání a nahrazování textu v obsahu, komentářích nebo metadatech[Aspose.Cells for .NET](https://products.aspose.com/cells/net) Rozhraní API lze vytvořit pomocí několika řádků kódu.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -57,7 +49,7 @@ PM> Install-Package Aspose.Cells
 
 {{% blocks/products/pf/agp/text %}}
 
- Naše API jsou podporována na všech hlavních platformách a operačních systémech. Před spuštěním níže uvedeného kódu se prosím ujistěte, že máte ve svém systému následující předpoklady.
+Naše API jsou podporována na všech hlavních platformách a operačních systémech. Před spuštěním níže uvedeného kódu se prosím ujistěte, že máte ve svém systému následující předpoklady.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -122,7 +114,7 @@ wb.Save("e:\test2\output.xlsm");
             {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Není třeba stahovat Aspose API." >}}
             {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Není třeba psát žádný kód." >}}
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Stačí nahrát své soubory XLSM." >}}
-            {{< blocks/products/pf/agp/democard icon="fa-download" text="Okamžitě bude redigován." >}}
+            {{< blocks/products/pf/agp/democard icon="fa-download" text=" Okamžitě bude redigován." >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLSM" readMoreLink="https://docs.fileformat.com/spreadsheet/xlsm/" >}}
 Soubory s příponou XLSM jsou typem souborů tabulky, které podporují makra. Z aplikačního hlediska je makro sada instrukcí, které se používají pro automatizaci procesů. Makro se používá k zaznamenání kroků, které jsou prováděny opakovaně, a usnadňuje provádění akcí opětovným spuštěním makra. Makra se programují pomocí jazyka Visual Basic for Applications (VBA) Microsoft ze sešitu aplikace Excel pomocí editoru jazyka Visual Basic a lze je spouštět/ladit přímo odtud.
@@ -138,6 +130,7 @@ Soubory s příponou XLSM jsou typem souborů tabulky, které podporují makra. 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/redaction/ods/" name="ODS" description="Soubor tabulkového procesoru OpenDocument" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/redaction/xls/" name="XLS" description="Binární formát Excel" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/redaction/xlsb/" name="XLSB" description="Binární soubor sešitu Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/redaction/xlsx/" name="XLSX" description="Soubor Excel OOXML" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

@@ -1,5 +1,5 @@
 ---
-title:  Extrahieren Sie Text und Bilder aus dem Dokument XLS über C++
+title: Extrahieren Sie Text und Bilder aus dem Dokument XLS über C++
 weight: 7610
 description: C++ Beispielcode zum Extrahieren von Text und Bildern aus der Datei XLS in der Laufzeitumgebung C++ für Windows 32 Bit, Windows 64 Bit und Linux 64 Bit.
 keywords: [C++ Aspose.Cells., C++ Extract text and images from XLS file., C++ How to Parse XLS File., C++ Extract text from XLS file., Extract images from XLS file using C++]
@@ -12,13 +12,7 @@ keywords: [C++ Aspose.Cells., C++ Extract text and images from XLS file., C++ Ho
 
 {{% blocks/products/pf/agp/content h2="So analysieren Sie die Datei XLS mit C++" %}}
 
- Um die Datei XLS zu analysieren, verwenden wir
- [Aspose.Cells for C++](https://products.aspose.com/cells/cpp) 
- API ist eine funktionsreiche, leistungsstarke und benutzerfreundliche Plattform zum Parsen von Dokumenten. Sie können die neueste Version direkt herunterladen, indem Sie sie einfach öffnen
- [NuGet](https://www.nuget.org/packages/aspose.cells) 
- Paketmanager, suchen Sie nach
- **Aspose.Cells.Cpp** 
- und installieren. Sie können auch den folgenden Befehl über die Paket-Manager-Konsole verwenden.
+ Um die Datei XLS zu analysieren, verwenden wir[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) API ist eine funktionsreiche, leistungsstarke und benutzerfreundliche Plattform zum Parsen von Dokumenten. Sie können die neueste Version direkt herunterladen, indem Sie sie einfach öffnen[NuGet](https://www.nuget.org/packages/aspose.cells) Paketmanager, suchen Sie nach**Aspose.Cells.Cpp** und installieren. Sie können auch den folgenden Befehl über die Paket-Manager-Konsole verwenden.
 
 {{% blocks/products/pf/agp/code-block title="Befehl" offSpacer="true" %}}
 
@@ -40,7 +34,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
  Ein einfaches Dokument-Parsing mit
  [Aspose.Cells for C++](https://products.aspose.com/cells/cpp) 
- APIs können mit nur wenigen Codezeilen erstellt werden. Analysieren Sie Text und Bilder aus den Dateien Microsoft, Excel XLS, XLSX, XLSM, XLSB und OpenDocument ODS.
+APIs können mit nur wenigen Codezeilen erstellt werden. Analysieren Sie Text und Bilder aus den Dateien Microsoft, Excel XLS, XLSX, XLSM, XLSB und OpenDocument ODS.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -108,7 +102,7 @@ Aspose::Cells::Cleanup();
 
 {{< blocks/products/pf/agp/about-file-section >}}
 
-    {{< blocks/products/pf/agp/demobox sectionTitle="Online XLS Parser-Live-Demos" sectionDescription=" Extrahieren Sie jetzt Text und Bilder aus XLS-Dokumenten, indem Sie unsere besuchen[Live-Demos-Website](https://products.aspose.app/cells/parser). Die Live-Demo bietet folgende Vorteile" >}}
+    {{< blocks/products/pf/agp/demobox sectionTitle="Online XLS Parser-Live-Demos" sectionDescription="Extrahieren Sie jetzt Text und Bilder aus XLS-Dokumenten, indem Sie unsere besuchen[Live-Demos-Website](https://products.aspose.app/cells/parser). Die Live-Demo bietet folgende Vorteile" >}}
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Aspose API muss nicht heruntergeladen werden." >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Es ist nicht nötig, Code zu schreiben." >}}
         {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Laden Sie einfach Ihre XLS-Dateien hoch." >}}
@@ -129,6 +123,7 @@ Dateien mit der Erweiterung XLS repräsentieren das Excel-Binärdateiformat. Sol
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/parser/ods/" name="ODS" description="OpenDocument-Tabellenkalkulationsdatei" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/parser/xlsb/" name="XLSB" description="Binäre Excel-Arbeitsmappendatei" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/parser/xlsm/" name="XLSM" description="Tabellenkalkulationsdatei" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/parser/xlsx/" name="XLSX" description="OOXML-Excel-Datei" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

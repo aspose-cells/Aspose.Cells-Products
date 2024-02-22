@@ -12,13 +12,7 @@ keywords: [C# Aspose.Cells., c# Search and replace text in XLSM file., c# redact
 
 {{% blocks/products/pf/agp/content h2="Hur man redigerar XLSM-fil med C#" %}}
 
- För att redigera filen XLSM kommer vi att använda
- [Aspose.Cells for .NET](https://products.aspose.com/cells/net) 
- API som är en funktionsrik, kraftfull och lättanvänd dokumenthantering API för C# plattform. Öppen
- [NuGet](https://www.nuget.org/packages/aspose.cells) 
- pakethanterare, sök efter
- **Aspose.Cells** 
- och installera. Du kan också använda följande kommando från Package Manager Console.
+ För att redigera filen XLSM kommer vi att använda[Aspose.Cells for .NET](https://products.aspose.com/cells/net) API som är en funktionsrik, kraftfull och lättanvänd dokumenthantering API för C# plattform. Öppen[NuGet](https://www.nuget.org/packages/aspose.cells) pakethanterare, sök efter**Aspose.Cells** och installera. Du kan också använda följande kommando från Package Manager Console.
 
 {{% blocks/products/pf/agp/code-block title="Kommando" offSpacer="true" %}}
 
@@ -38,9 +32,7 @@ PM> Install-Package Aspose.Cells
 
 {{% blocks/products/pf/agp/text %}}
 
- En grundläggande dokumentsökning och ersätt text i innehåll, kommentarer eller metadata med
- [Aspose.Cells for .NET](https://products.aspose.com/cells/net) 
- API:er kan göras med bara några rader kod.
+ En grundläggande dokumentsökning och ersätt text i innehåll, kommentarer eller metadata med[Aspose.Cells for .NET](https://products.aspose.com/cells/net) API:er kan göras med bara några rader kod.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -57,7 +49,7 @@ PM> Install-Package Aspose.Cells
 
 {{% blocks/products/pf/agp/text %}}
 
- Våra API:er stöds på alla större plattformar och operativsystem. Innan du kör koden nedan, se till att du har följande förutsättningar på ditt system.
+Våra API:er stöds på alla större plattformar och operativsystem. Innan du kör koden nedan, se till att du har följande förutsättningar på ditt system.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -122,7 +114,7 @@ wb.Save("e:\test2\output.xlsm");
             {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Du behöver inte ladda ner Aspose API." >}}
             {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Du behöver inte skriva någon kod." >}}
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Ladda bara upp dina XLSM-filer." >}}
-            {{< blocks/products/pf/agp/democard icon="fa-download" text="Den kommer att redigeras omedelbart." >}}
+            {{< blocks/products/pf/agp/democard icon="fa-download" text=" Den kommer att redigeras omedelbart." >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLSM" readMoreLink="https://docs.fileformat.com/spreadsheet/xlsm/" >}}
 Filer med tillägget XLSM är en typ av kalkylbladsfiler som stöder makron. Ur applikationssynpunkt är ett makro en uppsättning instruktioner som används för att automatisera processer. Ett makro används för att registrera de steg som utförs upprepade gånger och underlättar utförandet av åtgärderna genom att köra makrot igen. Makron programmeras med Microsoft:s Visual Basic for Applications (VBA) från Excel-arbetsboken med hjälp av Visual Basic Editor och kan köras/felsökas direkt därifrån.
@@ -138,6 +130,7 @@ Filer med tillägget XLSM är en typ av kalkylbladsfiler som stöder makron. Ur 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/redaction/ods/" name="ODS" description="OpenDocument Spreadsheet File" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/redaction/xls/" name="XLS" description="Excel binärt format" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/redaction/xlsb/" name="XLSB" description="Binär Excel arbetsbok fil" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/redaction/xlsx/" name="XLSX" description="OOXML Excel-fil" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

@@ -12,11 +12,7 @@ keywords: [Java Aspose.Cells., Java Extract text and images from XLS file., Java
 
 {{% blocks/products/pf/agp/content h2="Java을 사용하여 XLS 파일을 구문 분석하는 방법" %}}
 
- XLS 파일을 구문 분석하기 위해 다음을 사용합니다.
- [Aspose.Cells for Java](https://products.aspose.com/cells/java) 
- API은 기능이 풍부하고 강력하며 사용하기 쉬운 구문 분석 플랫폼입니다. 최신 버전은 다음에서 직접 다운로드할 수 있습니다.
- [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) 
- pom.xml에 다음 구성을 추가하여 Maven 기반 프로젝트 내에 설치하세요.
+ XLS 파일을 구문 분석하기 위해 다음을 사용합니다.[Aspose.Cells for Java](https://products.aspose.com/cells/java) API은 기능이 풍부하고 강력하며 사용하기 쉬운 구문 분석 플랫폼입니다. 최신 버전은 다음에서 직접 다운로드할 수 있습니다.[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) pom.xml에 다음 구성을 추가하여 Maven 기반 프로젝트 내에 설치하세요.
 
 {{% blocks/products/pf/agp/code-block title="저장소" offSpacer="true" %}}
 
@@ -54,9 +50,7 @@ keywords: [Java Aspose.Cells., Java Extract text and images from XLS file., Java
 
 {{% blocks/products/pf/agp/text %}}
 
- 기본 문서를 구문 분석하는 방법
- [Aspose.Cells for Java](https://products.aspose.com/cells/java) 
- 단 몇 줄의 코드만으로 API를 구현할 수 있습니다. Microsoft Excel XLS, XLSX, XLSM, XLSB 및 OpenDocument ODS 파일의 텍스트 및 이미지를 구문 분석합니다.
+ 기본 문서를 구문 분석하는 방법[Aspose.Cells for Java](https://products.aspose.com/cells/java)단 몇 줄의 코드만으로 API를 구현할 수 있습니다. Microsoft Excel XLS, XLSX, XLSM, XLSB 및 OpenDocument ODS 파일의 텍스트 및 이미지를 구문 분석합니다.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -76,7 +70,7 @@ keywords: [Java Aspose.Cells., Java Extract text and images from XLS file., Java
 
 {{% /blocks/products/pf/agp/text %}}
 
--  Microsoft Windows 또는 JSP/JSF 애플리케이션 및 데스크탑 애플리케이션용 런타임 환경 Java과 호환되는 OS.
+- Microsoft Windows 또는 JSP/JSF 애플리케이션 및 데스크탑 애플리케이션용 런타임 환경 Java과 호환되는 OS.
 -  Aspose.Cells for Java의 최신 버전을 직접 다운로드하세요.
  [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells)  .
 
@@ -121,7 +115,7 @@ System.out.println(stringBuilder.toString());
 
 {{< blocks/products/pf/agp/about-file-section >}}
 
-    {{< blocks/products/pf/agp/demobox sectionTitle="온라인 XLS 파서 라이브 데모" sectionDescription=" 지금 바로 당사를 방문하여 XLS 문서에서 텍스트와 이미지를 추출하세요.[라이브 데모 웹사이트](https://products.aspose.app/cells/parser). 라이브 데모에는 다음과 같은 이점이 있습니다." >}}
+    {{< blocks/products/pf/agp/demobox sectionTitle="온라인 XLS 파서 라이브 데모" sectionDescription="지금 바로 당사를 방문하여 XLS 문서에서 텍스트와 이미지를 추출하세요.[라이브 데모 웹사이트](https://products.aspose.app/cells/parser). 라이브 데모에는 다음과 같은 이점이 있습니다." >}}
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Aspose API을 다운로드할 필요가 없습니다." >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" 코드를 작성할 필요가 없습니다." >}}
         {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" XLS 파일을 업로드하세요." >}}
@@ -142,6 +136,7 @@ XLS 확장자를 가진 파일은 Excel 바이너리 파일 형식을 나타냅�
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/parser/ods/" name="ODS" description="OpenDocument 스프레드시트 파일" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/parser/xlsb/" name="XLSB" description="바이너리 Excel 통합 문서 파일" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/parser/xlsm/" name="XLSM" description="스프레드시트 파일" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/parser/xlsx/" name="XLSX" description="OOXML 엑셀 파일" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

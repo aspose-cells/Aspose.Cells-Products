@@ -12,13 +12,7 @@ keywords: [C# Aspose.Cells., c# Search and replace text in XLS file., c# redact 
 
 {{% blocks/products/pf/agp/content h2="Jak upravit soubor XLS pomocí C#" %}}
 
- Abychom redigovali soubor XLS, použijeme
- [Aspose.Cells for .NET](https://products.aspose.com/cells/net) 
- API, což je funkčně bohatá, výkonná a snadno použitelná manipulace s dokumenty API pro platformu C#. OTEVŘENO
- [NuGet](https://www.nuget.org/packages/aspose.cells) 
- správce balíčků, vyhledejte
- **Aspose.Cells** 
- a nainstalovat. Můžete také použít následující příkaz z konzoly Správce balíčků.
+ Abychom redigovali soubor XLS, použijeme[Aspose.Cells for .NET](https://products.aspose.com/cells/net) API, což je funkčně bohatá, výkonná a snadno použitelná manipulace s dokumenty API pro platformu C#. OTEVŘENO[NuGet](https://www.nuget.org/packages/aspose.cells) správce balíčků, vyhledejte**Aspose.Cells** a nainstalovat. Můžete také použít následující příkaz z konzoly Správce balíčků.
 
 {{% blocks/products/pf/agp/code-block title="Příkaz" offSpacer="true" %}}
 
@@ -38,9 +32,7 @@ PM> Install-Package Aspose.Cells
 
 {{% blocks/products/pf/agp/text %}}
 
- Základní vyhledávání a nahrazování textu v obsahu, komentářích nebo metadatech
- [Aspose.Cells for .NET](https://products.aspose.com/cells/net) 
- Rozhraní API lze vytvořit pomocí několika řádků kódu.
+ Základní vyhledávání a nahrazování textu v obsahu, komentářích nebo metadatech[Aspose.Cells for .NET](https://products.aspose.com/cells/net) Rozhraní API lze vytvořit pomocí několika řádků kódu.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -57,7 +49,7 @@ PM> Install-Package Aspose.Cells
 
 {{% blocks/products/pf/agp/text %}}
 
- Naše API jsou podporována na všech hlavních platformách a operačních systémech. Před spuštěním níže uvedeného kódu se prosím ujistěte, že máte ve svém systému následující předpoklady.
+Naše API jsou podporována na všech hlavních platformách a operačních systémech. Před spuštěním níže uvedeného kódu se prosím ujistěte, že máte ve svém systému následující předpoklady.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -122,7 +114,7 @@ wb.Save("e:\test2\output.xls");
             {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Není třeba stahovat Aspose API." >}}
             {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Není třeba psát žádný kód." >}}
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Stačí nahrát své soubory XLS." >}}
-            {{< blocks/products/pf/agp/democard icon="fa-download" text="Okamžitě bude redigován." >}}
+            {{< blocks/products/pf/agp/democard icon="fa-download" text=" Okamžitě bude redigován." >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLS" readMoreLink="https://docs.fileformat.com/spreadsheet/xls/" >}}
 Soubory s příponou XLS představují binární formát souboru Excel. Takové soubory mohou být vytvořeny aplikací Excel Microsoft i jinými podobnými tabulkovými programy, jako je OpenOffice Calc nebo Apple Numbers. Soubor uložený aplikací Excel je známý jako Workbook, kde každý sešit může mít jeden nebo více listů. Data se ukládají a zobrazují uživatelům ve formátu tabulky v listu a mohou zahrnovat číselné hodnoty, textová data, vzorce, externí datová připojení, obrázky a grafy. Aplikace jako Microsoft Excel vám umožňují exportovat data sešitu do několika různých formátů včetně PDF, CSV, XLSX, TXT, HTML, XPS a několika dalších. Formát souboru XLS byl nahrazen otevřenějším a strukturovanějším formátem XLSX s vydáním Microsoft Excel 2007. Nejnovější verze stále poskytují podporu pro vytváření a čtení souborů XLS, i když XLSX je nyní první volbou použití.
@@ -138,6 +130,7 @@ Soubory s příponou XLS představují binární formát souboru Excel. Takové 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/redaction/ods/" name="ODS" description="Soubor tabulkového procesoru OpenDocument" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/redaction/xlsb/" name="XLSB" description="Binární soubor sešitu Excel" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/redaction/xlsm/" name="XLSM" description="Soubor tabulky" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/redaction/xlsx/" name="XLSX" description="Soubor Excel OOXML" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

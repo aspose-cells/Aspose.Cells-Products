@@ -12,13 +12,7 @@ keywords: [C# Aspose.Cells., c# Search and replace text in XLS file., c# redact 
 
 {{% blocks/products/pf/agp/content h2="XLS Dosyasını C# Kullanarak Düzenleme" %}}
 
- XLS dosyasını düzenlemek için şunu kullanacağız:
- [Aspose.Cells for .NET](https://products.aspose.com/cells/net) 
- C# platformu için zengin özelliklere sahip, güçlü ve kullanımı kolay bir belge işleme API olan API. Açık
- [NuGet](https://www.nuget.org/packages/aspose.cells) 
- paket yöneticisi, ara
- **Aspose.Cells** 
- ve yükleyin. Aşağıdaki komutu Paket Yönetici Konsolundan da kullanabilirsiniz.
+ XLS dosyasını düzenlemek için şunu kullanacağız:[Aspose.Cells for .NET](https://products.aspose.com/cells/net) C# platformu için zengin özelliklere sahip, güçlü ve kullanımı kolay bir belge işleme API olan API. Açık[NuGet](https://www.nuget.org/packages/aspose.cells) paket yöneticisi, ara**Aspose.Cells** ve yükleyin. Aşağıdaki komutu Paket Yönetici Konsolundan da kullanabilirsiniz.
 
 {{% blocks/products/pf/agp/code-block title="Emretmek" offSpacer="true" %}}
 
@@ -38,9 +32,7 @@ PM> Install-Package Aspose.Cells
 
 {{% blocks/products/pf/agp/text %}}
 
- Temel bir belge araması ve içerikteki, yorumlardaki veya meta verilerdeki metni şununla değiştirin:
- [Aspose.Cells for .NET](https://products.aspose.com/cells/net) 
- API'ler yalnızca birkaç satır kodla yapılabilir.
+ Temel bir belge araması ve içerikteki, yorumlardaki veya meta verilerdeki metni şununla değiştirin:[Aspose.Cells for .NET](https://products.aspose.com/cells/net) API'ler yalnızca birkaç satır kodla yapılabilir.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -57,7 +49,7 @@ PM> Install-Package Aspose.Cells
 
 {{% blocks/products/pf/agp/text %}}
 
- API'lerimiz tüm önemli platformlarda ve İşletim Sistemlerinde desteklenir. Aşağıdaki kodu çalıştırmadan önce lütfen sisteminizde aşağıdaki önkoşulların bulunduğundan emin olun.
+API'lerimiz tüm önemli platformlarda ve İşletim Sistemlerinde desteklenir. Aşağıdaki kodu çalıştırmadan önce lütfen sisteminizde aşağıdaki önkoşulların bulunduğundan emin olun.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -118,11 +110,11 @@ wb.Save("e:\test2\output.xls");
 
     {{< blocks/products/pf/agp/about-file-section >}}
 
-        {{< blocks/products/pf/agp/demobox sectionTitle="Çevrimiçi XLS Redaksiyon Canlı Demoları" sectionDescription=" Şu anda sayfamızı ziyaret ederek XLS belgedeki içerik, yorum veya meta verilerdeki metni arayın ve değiştirin.[Canlı Demolar web sitesi](https://products.aspose.app/cells/redaction). Canlı demo aşağıdaki avantajlara sahiptir" >}}
+        {{< blocks/products/pf/agp/demobox sectionTitle="Çevrimiçi XLS Redaksiyon Canlı Demoları" sectionDescription=" XLS belgedeki içerik, yorum veya meta verilerdeki metni hemen şimdi ziyaret ederek arayın ve değiştirin.[Canlı Demolar web sitesi](https://products.aspose.app/cells/redaction). Canlı demo aşağıdaki avantajlara sahiptir" >}}
             {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Aspose API\'i indirmenize gerek yok." >}}
             {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Herhangi bir kod yazmaya gerek yok." >}}
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" XLS dosyalarınızı yüklemeniz yeterli." >}}
-            {{< blocks/products/pf/agp/democard icon="fa-download" text="Anında düzenlenecektir." >}}
+            {{< blocks/products/pf/agp/democard icon="fa-download" text=" Anında düzenlenecektir." >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLS" readMoreLink="https://docs.fileformat.com/spreadsheet/xls/" >}}
 XLS uzantılı dosyalar Excel İkili Dosya Formatını temsil eder. Bu tür dosyalar Microsoft Excel'in yanı sıra OpenOffice Calc veya Apple Numbers gibi diğer benzer elektronik tablo programları tarafından oluşturulabilir. Excel tarafından kaydedilen dosya, her çalışma kitabının bir veya daha fazla çalışma sayfasına sahip olabileceği Çalışma Kitabı olarak bilinir. Veriler, çalışma sayfasında tablo biçiminde depolanır ve kullanıcılara görüntülenir ve sayısal değerleri, metin verilerini, formülleri, dış veri bağlantılarını, görüntüleri ve grafikleri kapsayabilir. Microsoft Excel gibi uygulamalar, çalışma kitabı verilerini PDF, CSV, XLSX, TXT, HTML, XPS ve diğer birkaç farklı formata aktarmanıza olanak tanır. XLS dosya formatı, Microsoft Excel 2007 sürümüyle birlikte daha açık ve yapılandırılmış bir format olan XLSX ile değiştirildi. En son sürümler, XLS dosyalarının oluşturulması ve okunması için hala destek sağlıyor, ancak artık XLSX ilk kullanım seçeneği.
@@ -138,6 +130,7 @@ XLS uzantılı dosyalar Excel İkili Dosya Formatını temsil eder. Bu tür dosy
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/redaction/ods/" name="ODS" description="OpenDocument Elektronik Tablo Dosyası" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/redaction/xlsb/" name="XLSB" description="İkili Excel Çalışma Kitabı Dosyası" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/redaction/xlsm/" name="XLSM" description="Elektronik Tablo Dosyası" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/redaction/xlsx/" name="XLSX" description="OOXML Excel Dosyası" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

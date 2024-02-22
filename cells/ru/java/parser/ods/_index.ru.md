@@ -12,11 +12,7 @@ keywords: [Java Aspose.Cells., Java Extract text and images from ODS file., Java
 
 {{% blocks/products/pf/agp/content h2="Как разобрать файл ODS с помощью Java" %}}
 
- Чтобы проанализировать файл ODS, мы будем использовать
- [Aspose.Cells for Java](https://products.aspose.com/cells/java) 
- API — многофункциональная, мощная и простая в использовании платформа для анализа API for Java. Вы можете скачать его последнюю версию прямо с
- [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) 
- и установите его в свой проект на основе Maven, добавив следующие конфигурации в pom.xml.
+ Чтобы проанализировать файл ODS, мы будем использовать[Aspose.Cells for Java](https://products.aspose.com/cells/java) API — многофункциональная, мощная и простая в использовании платформа для анализа API for Java. Вы можете скачать его последнюю версию прямо с[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) и установите его в свой проект на основе Maven, добавив следующие конфигурации в pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Репозиторий" offSpacer="true" %}}
 
@@ -54,9 +50,7 @@ keywords: [Java Aspose.Cells., Java Extract text and images from ODS file., Java
 
 {{% blocks/products/pf/agp/text %}}
 
- Базовый анализ документа с помощью
- [Aspose.Cells for Java](https://products.aspose.com/cells/java) 
- API можно создать с помощью всего нескольких строк кода. Анализируйте текст и изображения из файлов Excel Microsoft, XLS, XLSX, XLSM, XLSB и OpenDocument ODS.
+ Базовый анализ документа с помощью[Aspose.Cells for Java](https://products.aspose.com/cells/java)API можно создать с помощью всего нескольких строк кода. Анализируйте текст и изображения из файлов Excel Microsoft, XLS, XLSX, XLSM, XLSB и OpenDocument ODS.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -76,7 +70,7 @@ keywords: [Java Aspose.Cells., Java Extract text and images from ODS file., Java
 
 {{% /blocks/products/pf/agp/text %}}
 
--  Microsoft Windows или совместимая ОС с Java Среда выполнения для приложений JSP/JSF и настольных приложений.
+- Microsoft Windows или совместимая ОС с Java Среда выполнения для приложений JSP/JSF и настольных приложений.
 -  Загрузите последнюю версию Aspose.Cells for Java прямо с сайта
  [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells)  .
 
@@ -121,7 +115,7 @@ System.out.println(stringBuilder.toString());
 
 {{< blocks/products/pf/agp/about-file-section >}}
 
-    {{< blocks/products/pf/agp/demobox sectionTitle="Онлайн ODS Живые демо-версии парсера" sectionDescription=" Извлеките текст и изображения из документов ODS прямо сейчас, посетив наш[Веб-сайт живых демонстраций](https://products.aspose.app/cells/parser). Живая демонстрация имеет следующие преимущества" >}}
+    {{< blocks/products/pf/agp/demobox sectionTitle="Онлайн ODS Живые демо-версии парсера" sectionDescription="Извлеките текст и изображения из документов ODS прямо сейчас, посетив наш[Веб-сайт живых демонстраций](https://products.aspose.app/cells/parser). Живая демонстрация имеет следующие преимущества" >}}
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Не нужно скачивать Aspose API." >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Нет необходимости писать какой-либо код." >}}
         {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Просто загрузите файлы ODS." >}}
@@ -129,7 +123,7 @@ System.out.println(stringBuilder.toString());
     {{< /blocks/products/pf/agp/demobox >}}
 
     {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="ODS" readMoreLink="https://docs.fileformat.com/spreadsheet/ods/" >}}
-Файлы с расширением ODS обозначают формат документа электронной таблицы OpenDocument, который может редактировать пользователь. Данные хранятся внутри файла ODF в строках и столбцах. Это формат на основе XML, который является одним из нескольких подтипов семейства форматов открытых документов (ODF). Формат указан как часть спецификаций ODF 1.2, опубликованных и поддерживаемых OASIS. Ряд приложений в Windows, а также в других операционных системах могут открывать файлы ODS для редактирования и манипулирования, включая Microsoft Excel, NeoOffice и LibreOffice. Файлы ODS также можно конвертировать в другие форматы электронных таблиц, например XLS, XLSX и другие, с помощью различных приложений.
+ Файлы с расширением ODS обозначают формат документа электронной таблицы OpenDocument, который может редактировать пользователь. Данные хранятся внутри файла ODF в строках и столбцах. Это формат на основе XML, который является одним из нескольких подтипов семейства форматов открытых документов (ODF). Формат указан как часть спецификаций ODF 1.2, опубликованных и поддерживаемых OASIS. Ряд приложений в Windows, а также в других операционных системах могут открывать файлы ODS для редактирования и манипулирования, включая Microsoft Excel, NeoOffice и LibreOffice. Файлы ODS также можно конвертировать в другие форматы электронных таблиц, например XLS, XLSX и другие, с помощью различных приложений.
 
     {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
@@ -142,6 +136,7 @@ System.out.println(stringBuilder.toString());
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/parser/xls/" name="XLS" description="Двоичный формат Excel" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/parser/xlsb/" name="XLSB" description="Двоичный файл книги Excel" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/parser/xlsm/" name="XLSM" description="Файл электронной таблицы" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/parser/xlsx/" name="XLSX" description="OOXML-файл Excel" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

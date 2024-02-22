@@ -1,7 +1,7 @@
 ---
 title:  Cari dan ganti teks di dokumen ODS via .NET
 weight: 6100
-description: Kode sumber C# untuk menyunting informasi sensitif dalam file ODS di Kerangka .NET, .NET Core, Mono atau Platform Xamarin.
+description: Kode sumber C# untuk menyunting informasi sensitif dalam file ODS di Kerangka .NET, Inti .NET, Mono atau Platform Xamarin.
 keywords: [C# Aspose.Cells., c# Search and replace text in ODS file., c# redact ODS file., c# edit ODS file., c# ODS file redaction., c# Search and replace string in ODS file]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -12,13 +12,7 @@ keywords: [C# Aspose.Cells., c# Search and replace text in ODS file., c# redact 
 
 {{% blocks/products/pf/agp/content h2="Cara Redaksi File ODS Menggunakan C#" %}}
 
- Untuk menyunting file ODS, kami akan menggunakan
- [Aspose.Cells for .NET](https://products.aspose.com/cells/net) 
- API yang merupakan manipulasi dokumen yang kaya fitur, kuat dan mudah digunakan API untuk platform C#. Membuka
- [NuGet](https://www.nuget.org/packages/aspose.cells) 
- manajer paket, cari
- **Aspose.Cells** 
- dan instal. Anda juga dapat menggunakan perintah berikut dari Package Manager Console.
+ Untuk menyunting file ODS, kami akan menggunakan[Aspose.Cells for .NET](https://products.aspose.com/cells/net) API yang merupakan manipulasi dokumen yang kaya fitur, kuat dan mudah digunakan API untuk platform C#. Membuka[NuGet](https://www.nuget.org/packages/aspose.cells) manajer paket, cari**Aspose.Cells** dan instal. Anda juga dapat menggunakan perintah berikut dari Package Manager Console.
 
 {{% blocks/products/pf/agp/code-block title="Memerintah" offSpacer="true" %}}
 
@@ -38,9 +32,7 @@ PM> Install-Package Aspose.Cells
 
 {{% blocks/products/pf/agp/text %}}
 
- Pencarian dokumen dasar dan mengganti teks dalam konten, komentar atau metadata dengan
- [Aspose.Cells for .NET](https://products.aspose.com/cells/net) 
- API dapat dilakukan hanya dengan beberapa baris kode.
+ Pencarian dokumen dasar dan mengganti teks dalam konten, komentar atau metadata dengan[Aspose.Cells for .NET](https://products.aspose.com/cells/net) API dapat dilakukan hanya dengan beberapa baris kode.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -57,7 +49,7 @@ PM> Install-Package Aspose.Cells
 
 {{% blocks/products/pf/agp/text %}}
 
- API kami didukung di semua platform dan Sistem Operasi utama. Sebelum menjalankan kode di bawah ini, pastikan Anda memiliki prasyarat berikut di sistem Anda.
+API kami didukung di semua platform dan Sistem Operasi utama. Sebelum menjalankan kode di bawah ini, pastikan Anda memiliki prasyarat berikut di sistem Anda.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -122,10 +114,10 @@ wb.Save("e:\test2\output.ods");
             {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Tidak perlu download Aspose API." >}}
             {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Tidak perlu menulis kode apa pun." >}}
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Cukup unggah file ODS Anda." >}}
-            {{< blocks/products/pf/agp/democard icon="fa-download" text="Itu akan segera disunting." >}}
+            {{< blocks/products/pf/agp/democard icon="fa-download" text=" Itu akan segera disunting." >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="ODS" readMoreLink="https://docs.fileformat.com/spreadsheet/ods/" >}}
-File dengan ekstensi ODS merupakan singkatan dari format Dokumen OpenDocument Spreadsheet yang dapat diedit oleh pengguna. Data disimpan di dalam file ODF ke dalam baris dan kolom. Ini adalah format berbasis XML dan merupakan salah satu dari beberapa subtipe dalam keluarga Open Document Format (ODF). Format ini ditentukan sebagai bagian dari spesifikasi ODF 1.2 yang diterbitkan dan dikelola oleh OASIS. Sejumlah aplikasi di Windows serta sistem operasi lain dapat membuka file ODS untuk diedit dan dimanipulasi termasuk Microsoft Excel, NeoOffice dan LibreOffice. File ODS juga dapat dikonversi ke format spreadsheet lain seperti XLS, XLSX dan lainnya dengan aplikasi berbeda.
+ File dengan ekstensi ODS merupakan singkatan dari format Dokumen OpenDocument Spreadsheet yang dapat diedit oleh pengguna. Data disimpan di dalam file ODF ke dalam baris dan kolom. Ini adalah format berbasis XML dan merupakan salah satu dari beberapa subtipe dalam keluarga Open Document Format (ODF). Format ini ditentukan sebagai bagian dari spesifikasi ODF 1.2 yang diterbitkan dan dikelola oleh OASIS. Sejumlah aplikasi di Windows serta sistem operasi lain dapat membuka file ODS untuk diedit dan dimanipulasi termasuk Microsoft Excel, NeoOffice dan LibreOffice. File ODS juga dapat dikonversi ke format spreadsheet lain seperti XLS, XLSX dan lainnya dengan aplikasi berbeda.
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
@@ -138,6 +130,7 @@ File dengan ekstensi ODS merupakan singkatan dari format Dokumen OpenDocument Sp
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/redaction/xls/" name="XLS" description="Format Biner Excel" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/redaction/xlsb/" name="XLSB" description="File Buku Kerja Excel Biner" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/redaction/xlsm/" name="XLSM" description="Berkas Lembar Bentang" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/redaction/xlsx/" name="XLSX" description="Berkas OOXML Excel" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

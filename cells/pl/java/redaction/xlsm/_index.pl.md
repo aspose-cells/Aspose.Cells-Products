@@ -12,11 +12,7 @@ keywords: [Java Aspose.Cells., Java Search and replace text in XLSM file., Java 
 
 {{% blocks/products/pf/agp/content h2="Jak zredagować plik XLSM przy użyciu Java" %}}
 
- Aby zredagować plik XLSM, użyjemy
- [Aspose.Cells for Java](https://products.aspose.com/cells/java) 
-API, która jest bogatą w funkcje, wydajną i łatwą w użyciu platformą redakcyjną API for Java. Możesz pobrać jego najnowszą wersję bezpośrednio ze strony
- [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) 
- i zainstaluj go w projekcie opartym na Maven, dodając następujące konfiguracje do pliku pom.xml.
+ Aby zredagować plik XLSM, użyjemy[Aspose.Cells for Java](https://products.aspose.com/cells/java) API, która jest bogatą w funkcje, wydajną i łatwą w użyciu platformą redakcyjną API for Java. Możesz pobrać jego najnowszą wersję bezpośrednio ze strony[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) i zainstaluj go w projekcie opartym na Maven, dodając następujące konfiguracje do pliku pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Magazyn" offSpacer="true" %}}
 
@@ -54,9 +50,7 @@ API, która jest bogatą w funkcje, wydajną i łatwą w użyciu platformą reda
 
 {{% blocks/products/pf/agp/text %}}
 
- Podstawowe wyszukiwanie dokumentów i zastępowanie tekstu w treści, komentarzach lub metadanych za pomocą
- [Aspose.Cells for Java](https://products.aspose.com/cells/java) 
- Interfejsy API można wykonać za pomocą zaledwie kilku linii kodu.
+ Podstawowe wyszukiwanie dokumentów i zastępowanie tekstu w treści, komentarzach lub metadanych za pomocą[Aspose.Cells for Java](https://products.aspose.com/cells/java) Interfejsy API można wykonać za pomocą zaledwie kilku linii kodu.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -78,7 +72,7 @@ API, która jest bogatą w funkcje, wydajną i łatwą w użyciu platformą reda
 
 {{% /blocks/products/pf/agp/text %}}
 
--  Microsoft Windows lub zgodny system operacyjny ze środowiskiem wykonawczym Java dla aplikacji JSP/JSF i aplikacji komputerowych.
+- Microsoft Windows lub zgodny system operacyjny ze środowiskiem wykonawczym Java dla aplikacji JSP/JSF i aplikacji komputerowych.
 -  Pobierz najnowszą wersję Aspose.Cells for Java bezpośrednio z
  [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells)  .
 
@@ -144,7 +138,7 @@ workbook.save(dataDir + "output.xlsm");
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Nie ma potrzeby pobierania Aspose API." >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Nie trzeba pisać żadnego kodu." >}}
         {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Po prostu prześlij swoje pliki XLSM." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-download" text="Zostanie natychmiast zredagowany." >}}
+        {{< blocks/products/pf/agp/democard icon="fa-download" text=" Zostanie natychmiast zredagowany." >}}
     {{< /blocks/products/pf/agp/demobox >}}
 
     {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLSM" readMoreLink="https://docs.fileformat.com/spreadsheet/xlsm/" >}}
@@ -161,6 +155,7 @@ Pliki z rozszerzeniem XLSM to rodzaj plików arkuszy kalkulacyjnych obsługując
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/redaction/ods/" name="ODS" description="Plik arkusza kalkulacyjnego OpenDocument" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/redaction/xls/" name="XLS" description="Format binarny Excela" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/redaction/xlsb/" name="XLSB" description="Binarny plik skoroszytu programu Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/redaction/xlsx/" name="XLSX" description="Plik Excela OOXML" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

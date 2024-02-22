@@ -13,11 +13,11 @@ keywords: [Java Aspose.Cells Create repair parse merge convert JSON Excel XML PD
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
- Aspose.Cells for Java är en prisbelönt Excel-kalkylbladsbehandling API som låter utvecklarna bädda in funktionen för att läsa, skriva, manipulera, konvertera &amp; skriva ut kalkylblad i sina egna applikationer, utan att behöva Microsoft Excel-applikation.
+Aspose.Cells for Java är en prisbelönt Excel-kalkylbladsbehandling API som låter utvecklarna bädda in funktionen för att läsa, skriva, manipulera, konvertera &amp; skriva ut kalkylblad i sina egna applikationer, utan att behöva Microsoft Excel-applikation.
 </p>
 
 <p>
-Aspose.Cells for Java är ett moget och funktionsrikt bibliotek som erbjuder många funktioner som är långt utöver de enkla dataexportmöjligheterna hos andra komponenter som finns på marknaden. API ger möjlighet att exportera data, formatera kalkylblad till den mest detaljerade nivån, importera &amp; exportera bilder, skapa diagram &amp; Pivottabeller, tillämpa &amp; beräkna komplexa formler med hjälp av formelberäkningsmotorn, streama Excel-data &amp; spara resultatet i olika format.
+ Aspose.Cells for Java är ett moget och funktionsrikt bibliotek som erbjuder många funktioner som är långt utöver de enkla dataexportmöjligheterna hos andra komponenter som finns på marknaden. API ger möjlighet att exportera data, formatera kalkylblad till den mest detaljerade nivån, importera &amp; exportera bilder, skapa diagram &amp; Pivottabeller, tillämpa &amp; beräkna komplexa formler med hjälp av formelberäkningsmotorn, streama Excel-data &amp; spara resultatet i olika format.
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
@@ -64,7 +64,7 @@ Aspose.Cells for Java är ett moget och funktionsrikt bibliotek som erbjuder må
  Tillämpa formler
     </li>
     <li>
- Sammanfatta
+Sammanfatta
     </li>
     <li>
  Smarta markörer
@@ -161,7 +161,7 @@ Aspose.Cells for Java är ett moget och funktionsrikt bibliotek som erbjuder må
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Filformat som stöds" description="Aspose.Cells for Java stöder de populära kalkylbladsformaten, vanliga bilder, fast layout och[fler format](https://docs.aspose.com/cells/java/supported-file-formats/)." >}}
+{{< blocks/products/pf/carousel-item h3="Filformat som stöds" description=" Aspose.Cells for Java stöder de populära kalkylbladsformaten, vanliga bilder, fast layout och[fler format](https://docs.aspose.com/cells/java/supported-file-formats/)." >}}
 <div class="diagram1 d2 d1-java">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -175,7 +175,7 @@ Aspose.Cells for Java är ett moget och funktionsrikt bibliotek som erbjuder må
      <b>
  Microsoft Excel:
      </b>
- XLS, XLT, XLSX, XLSB, XLTX, XLTM, XLSM, XML
+ XLS, XLSX, XLSB, XLT, XLTX, XLTM, XLSM, XML, OTS
     </li>
     <li>
      <b>
@@ -187,7 +187,7 @@ Aspose.Cells for Java är ett moget och funktionsrikt bibliotek som erbjuder må
      <b>
  Text:
      </b>
-     CSV, TSV
+     CSV, TSV, JSON
     </li>
     <li>
      <b>
@@ -202,7 +202,10 @@ Aspose.Cells for Java är ett moget och funktionsrikt bibliotek som erbjuder må
  Apples iWork office suite Numbers appdokument
     </li>
     <li>
-     SXC, FODS
+     <b>
+ Övriga:
+     </b>
+ SXC, FODS, EPUB
     </li>
    </ul>
   </div>
@@ -211,7 +214,7 @@ Aspose.Cells for Java är ett moget och funktionsrikt bibliotek som erbjuder må
    <header>
     <i class="fa fa-mail-forward">
     </i>
- Endast utgång
+Endast utgång
    </header>
    <ul>
     <li>
@@ -225,15 +228,18 @@ Aspose.Cells for Java är ett moget och funktionsrikt bibliotek som erbjuder må
  Datautbyte:
      </b>
      DIF
-    </li>
+    </li>    
     <li>
      <b>
  Bilder:
      </b>
-     JPEG, PNG, BMP, SVG, TIFF, GIF, EMF
+     JPEG, PNG, BMP, SVG, TIFF, EMF, GIF
     </li>
     <li>
-     MARKDOWN
+     <b>
+ Övriga:
+     </b>
+ MARKDOWN, SQL, XTHML
     </li>
    </ul>
   </div>
@@ -320,7 +326,7 @@ Aspose.Cells for Java är ett moget och funktionsrikt bibliotek som erbjuder må
     <em class="fa fa-commenting ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Skapa &amp; manipulera kommentarer
+Skapa &amp; manipulera kommentarer
     </p>
    </div>
    <div class="col-lg-4">
@@ -369,7 +375,7 @@ Aspose.Cells for Java är ett moget och funktionsrikt bibliotek som erbjuder må
     <em class="fa fa-image ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-Sampla om bilder i Excel till PDF konvertering
+ Sampla om bilder i Excel till PDF konvertering
     </p>
    </div>
    <div class="col-lg-4">
@@ -405,10 +411,10 @@ wbk.save(dir + "output.html", SaveFormat.HTML);</code></pre>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
- Formatera arbetsblad till den mest detaljerade nivån
+Formatera arbetsblad till den mest detaljerade nivån
     </h2>
     <p>
-Bibliotek tillhandahåller kalkylbladsformatering inklusive men inte begränsat till kalkylbladsformatering på rad-, kolumn- och cellnivå, lägga till regler för villkorlig formatering, definiera talformat och ställa in teckensnitt med attribut. På samma sätt stöder API manipulering och skapande av alla typer av anpassade och standarddiagram samt olika ritobjekt som OLE-objekt, bilder, kommentarer, former och kontroller till cellerna.
+ Bibliotek tillhandahåller kalkylbladsformatering inklusive men inte begränsat till kalkylbladsformatering på rad-, kolumn- och cellnivå, lägga till regler för villkorlig formatering, definiera talformat och ställa in teckensnitt med attribut. På samma sätt stöder API manipulering och skapande av alla typer av anpassade och standarddiagram samt olika ritobjekt som OLE-objekt, bilder, kommentarer, former och kontroller till cellerna.
     </p>
    </div>
    <!--<div class="col-lg-12">
@@ -420,14 +426,14 @@ Bibliotek tillhandahåller kalkylbladsformatering inklusive men inte begränsat 
 </div>-->
    <div class="col-lg-12">
     <h2 class="h2title">
- Konvertera diagram &amp; Kalkylark till bild &amp; PDF Format
+ Konvertera diagram &amp; Ark till bild &amp; PDF Format
     </h2>
     <p>
- Aspose.Cells for Java erbjuder speciella konverteringsfunktioner som diagram till bilder och PDF, kalkylblad till bilder, utskrift av kalkylblad och konvertering av kalkylblad till filformatet PDF. Konverteringsprocessen är mycket flexibel och enkel, vilket gör det möjligt att välja ett antal sätt för konverteringen, såsom omsampling av bilder under kalkylblad till PDF-transformation eller justering av de resulterande bilddimensionerna samtidigt som kalkylblad och diagram renderas till bilder.
+Aspose.Cells for Java erbjuder speciella konverteringsfunktioner som diagram till bilder och PDF, kalkylblad till bilder, utskrift av kalkylblad och konvertering av kalkylblad till filformatet PDF. Konverteringsprocessen är mycket flexibel och enkel, vilket gör det möjligt att välja ett antal sätt för konverteringen, såsom omsampling av bilder under kalkylblad till PDF-transformation eller justering av de resulterande bilddimensionerna samtidigt som kalkylblad och diagram renderas till bilder.
     </p>
     <div class="codeblock" id="code">
      <h3>
-Återge Excel-diagram som bild &amp; PDF - Java
+ Återge Excel-diagram som bild &amp; PDF - Java
      </h3>
      <pre><code class="java">// load spreadsheet containing the chart
 
@@ -459,7 +465,7 @@ chart.toPdf(dir + "output.pdf");</code></pre>
  Sammanfatta data med diagram &amp; Pivottabeller
     </h2>
     <p>
- Det kan vara svårt att få sammanfattad information med mycket stora kalkylblad. En pivottabell finns där för att snabbt beskriva den platta datan och för att få relevant information efter behov. API skapar dynamiskt pivottabeller och diagram. Det är möjligt att dynamiskt ändra pivottabellens källdata. Dessutom Smart Markers, en annan toppfunktion i detta bibliotek för att fylla kalkylblad genom datakällor och för att generera visuellt effektiva rapporter.
+Det kan vara svårt att få sammanfattad information med mycket stora kalkylblad. En pivottabell finns där för att snabbt beskriva den platta datan och för att få relevant information efter behov. API skapar dynamiskt pivottabeller och diagram. Det är möjligt att dynamiskt ändra pivottabellens källdata. Dessutom Smart Markers, en annan toppfunktion i detta bibliotek för att fylla kalkylblad genom datakällor och för att generera visuellt effektiva rapporter.
     </p>
    </div>
    <!--
@@ -488,7 +494,7 @@ chart.toPdf(dir + "output.pdf");</code></pre>
  Webbaserad visuell kontroll för kalkylblad
     </h2>
     <p>
-Aspose.Cells for Java tillhandahåller också en UI-kontroll som kan bäddas in i JSP-webbapplikationer och är kompatibel med alla moderna webbläsare som Chrome, Firefox, Internet Explorer och Opera. Slutanvändare kan använda den för att ladda, redigera och spara Excel-filer från din webbapplikations front-end.
+ Aspose.Cells for Java tillhandahåller också en UI-kontroll som kan bäddas in i JSP-webbapplikationer och är kompatibel med alla moderna webbläsare som Chrome, Firefox, Internet Explorer och Opera. Slutanvändare kan använda den för att ladda, redigera och spara Excel-filer från din webbapplikations front-end.
     </p>
    </div>
   </div>
@@ -502,7 +508,7 @@ Aspose.Cells for Java tillhandahåller också en UI-kontroll som kan bäddas in 
 
 {{< blocks/products/pf/testimonials-quote >}}
 <p class="first">
- Vi rekommenderar att du använder Aspose.cells for Java eftersom det är lätt att implementera och API är enkelt att förstå och mycket flytande.
+Vi rekommenderar att du använder Aspose.cells for Java eftersom det är lätt att implementera och API är enkelt att förstå och mycket flytande.
  <em>
  Pierre-Eric Oudin | Advizeo av Setec, Frankrike
  </em>

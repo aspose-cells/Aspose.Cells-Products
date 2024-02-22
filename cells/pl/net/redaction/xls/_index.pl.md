@@ -12,13 +12,7 @@ keywords: [C# Aspose.Cells., c# Search and replace text in XLS file., c# redact 
 
 {{% blocks/products/pf/agp/content h2="Jak zredagować plik XLS przy użyciu C#" %}}
 
- Aby zredagować plik XLS, użyjemy
- [Aspose.Cells for .NET](https://products.aspose.com/cells/net) 
- API, który jest bogatym w funkcje, wydajnym i łatwym w użyciu narzędziem do manipulacji dokumentami API dla platformy C#. otwarty
- [NuGet](https://www.nuget.org/packages/aspose.cells) 
- menedżer pakietów, wyszukaj
- **Aspose.Cells** 
- i zainstaluj. Możesz także użyć następującego polecenia z konsoli Menedżera pakietów.
+ Aby zredagować plik XLS, użyjemy[Aspose.Cells for .NET](https://products.aspose.com/cells/net) API, który jest bogatym w funkcje, wydajnym i łatwym w użyciu narzędziem do manipulacji dokumentami API dla platformy C#. otwarty[NuGet](https://www.nuget.org/packages/aspose.cells) menedżer pakietów, wyszukaj**Aspose.Cells** i zainstaluj. Możesz także użyć następującego polecenia z konsoli Menedżera pakietów.
 
 {{% blocks/products/pf/agp/code-block title="Komenda" offSpacer="true" %}}
 
@@ -38,9 +32,7 @@ PM> Install-Package Aspose.Cells
 
 {{% blocks/products/pf/agp/text %}}
 
- Podstawowe wyszukiwanie dokumentów i zastępowanie tekstu w treści, komentarzach lub metadanych za pomocą
- [Aspose.Cells for .NET](https://products.aspose.com/cells/net) 
- Interfejsy API można wykonać za pomocą zaledwie kilku linii kodu.
+ Podstawowe wyszukiwanie dokumentów i zastępowanie tekstu w treści, komentarzach lub metadanych za pomocą[Aspose.Cells for .NET](https://products.aspose.com/cells/net) Interfejsy API można wykonać za pomocą zaledwie kilku linii kodu.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -57,7 +49,7 @@ PM> Install-Package Aspose.Cells
 
 {{% blocks/products/pf/agp/text %}}
 
- Nasze interfejsy API są obsługiwane na wszystkich głównych platformach i systemach operacyjnych. Przed wykonaniem poniższego kodu upewnij się, że w Twoim systemie znajdują się następujące wymagania wstępne.
+Nasze interfejsy API są obsługiwane na wszystkich głównych platformach i systemach operacyjnych. Przed wykonaniem poniższego kodu upewnij się, że w Twoim systemie znajdują się następujące wymagania wstępne.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -122,7 +114,7 @@ wb.Save("e:\test2\output.xls");
             {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Nie ma potrzeby pobierania Aspose API." >}}
             {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Nie trzeba pisać żadnego kodu." >}}
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Po prostu prześlij swoje pliki XLS." >}}
-            {{< blocks/products/pf/agp/democard icon="fa-download" text="Zostanie natychmiast zredagowany." >}}
+            {{< blocks/products/pf/agp/democard icon="fa-download" text=" Zostanie natychmiast zredagowany." >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLS" readMoreLink="https://docs.fileformat.com/spreadsheet/xls/" >}}
 Pliki z rozszerzeniem XLS reprezentują format pliku binarnego programu Excel. Takie pliki można utworzyć za pomocą Microsoft Excel, a także innych podobnych programów do obsługi arkuszy kalkulacyjnych, takich jak OpenOffice Calc lub Apple Numbers. Plik zapisany w programie Excel jest znany jako skoroszyt, gdzie każdy skoroszyt może zawierać jeden lub więcej arkuszy. Dane są przechowywane i wyświetlane użytkownikom w formie tabeli w arkuszu i mogą obejmować wartości liczbowe, dane tekstowe, formuły, zewnętrzne połączenia danych, obrazy i wykresy. Aplikacje takie jak Microsoft Excel umożliwiają eksportowanie danych skoroszytu do kilku różnych formatów, w tym PDF, CSV, XLSX, TXT, HTML, XPS i kilku innych. Format pliku XLS został zastąpiony bardziej otwartym i ustrukturyzowanym formatem XLSX wraz z wydaniem Microsoft Excel 2007. Najnowsze wersje nadal zapewniają obsługę tworzenia i odczytywania plików XLS, chociaż XLSX jest obecnie pierwszym wyborem.
@@ -138,6 +130,7 @@ Pliki z rozszerzeniem XLS reprezentują format pliku binarnego programu Excel. T
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/redaction/ods/" name="ODS" description="Plik arkusza kalkulacyjnego OpenDocument" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/redaction/xlsb/" name="XLSB" description="Binarny plik skoroszytu programu Excel" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/redaction/xlsm/" name="XLSM" description="Plik arkusza kalkulacyjnego" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/redaction/xlsx/" name="XLSX" description="Plik Excela OOXML" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

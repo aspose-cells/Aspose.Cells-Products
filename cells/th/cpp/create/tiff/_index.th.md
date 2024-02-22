@@ -1,6 +1,6 @@
 ---
 title: สร้าง TIFF - สร้างไฟล์ TIFF ใน C++
-description: Aspose เอ็กเซล. C++ สร้างไฟล์ TIFF อย่างรวดเร็วและง่ายดายด้วย Aspose.Cells สร้างไฟล์ TIFF โดยใช้ C++ สร้าง TIFF ใน C++ C++ TIFF Creater
+description:  Aspose เอ็กเซล. C++ สร้างไฟล์ TIFF อย่างรวดเร็วและง่ายดายด้วย Aspose.Cells สร้างไฟล์ TIFF โดยใช้ C++ สร้าง TIFF ใน C++ C++ TIFF Creater
 keywords: [Aspose Excel., C++ Aspose.Cells., C++ Create TIFF file., Generate TIFF file in C++., Create TIFF file using C++., Write data to TIFF file via C++., Create a TIFF file in C++., C++ Generate a TIFF file., C++ TIFF Creater]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -11,7 +11,7 @@ keywords: [Aspose Excel., C++ Aspose.Cells., C++ Create TIFF file., Generate TIF
 
 {{% blocks/products/pf/agp/content h2="สร้างไฟล์ TIFF โดยใช้ C++" %}}
 
- จะสร้างไฟล์ TIFF ได้อย่างไร? ด้วยไลบรารี Aspose.Cells for C++ คุณสามารถสร้างไฟล์ TIFF โดยทางโปรแกรมได้อย่างง่ายดายด้วยโค้ดเพียงไม่กี่บรรทัด[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) สามารถสร้างแอปพลิเคชันข้ามแพลตฟอร์มด้วยความสามารถในการสร้าง แก้ไข แปลง เรนเดอร์ และพิมพ์ไฟล์ Excel ทั้งหมด C++ Excel API ไม่เพียงแต่แปลงระหว่างรูปแบบสเปรดชีตเท่านั้น แต่ยังสามารถเรนเดอร์ไฟล์ Excel เป็นรูปภาพ, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT และอื่นๆ อีกมากมาย จึงเป็นตัวเลือกที่สมบูรณ์แบบในการแลกเปลี่ยนเอกสารในรูปแบบมาตรฐานอุตสาหกรรม คุณสามารถดาวน์โหลดเวอร์ชันล่าสุดได้โดยตรง เพียงแค่เปิดขึ้นมา[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) ตัวจัดการแพ็คเกจค้นหา Aspose.Cells.Cpp และติดตั้ง คุณอาจใช้คำสั่งต่อไปนี้จาก Package Manager Console
+ จะสร้างไฟล์ TIFF ได้อย่างไร? ด้วยไลบรารี Aspose.Cells for C++ คุณสามารถสร้างไฟล์ TIFF โดยทางโปรแกรมได้อย่างง่ายดายด้วยโค้ดไม่กี่บรรทัด[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) สามารถสร้างแอปพลิเคชันข้ามแพลตฟอร์มด้วยความสามารถในการสร้าง แก้ไข แปลง เรนเดอร์ และพิมพ์ไฟล์ Excel ทั้งหมด C++ Excel API ไม่เพียงแต่แปลงระหว่างรูปแบบสเปรดชีตเท่านั้น แต่ยังสามารถเรนเดอร์ไฟล์ Excel เป็นรูปภาพ, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT และอื่นๆ อีกมากมาย จึงเป็นตัวเลือกที่สมบูรณ์แบบในการแลกเปลี่ยนเอกสารในรูปแบบมาตรฐานอุตสาหกรรม คุณสามารถดาวน์โหลดเวอร์ชันล่าสุดได้โดยตรง เพียงแค่เปิดขึ้นมา[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/)ตัวจัดการแพ็คเกจค้นหา Aspose.Cells.Cpp และติดตั้ง คุณอาจใช้คำสั่งต่อไปนี้จาก Package Manager Console
 
 {{% blocks/products/pf/agp/code-block title="สั่งการ" offSpacer="true" %}}
 
@@ -37,9 +37,9 @@ PM> Install-Package Aspose.Cells.Cpp
 1.  สร้างวัตถุของคลาสสมุดงาน
 1.  รับแผ่นงานแรกลงในวัตถุแผ่นงาน
 1.  ใช้เมธอด Worksheet.GetCells() เพื่อนำเซลล์ของเวิร์กชีตไปไว้ในวัตถุ Cells
-1. ใช้เมธอด Cells.Get() เพื่อเข้าถึงเซลล์ที่ต้องการของเวิร์กชีตลงในวัตถุ Cell
+1.  ใช้เมธอด Cells.Get() เพื่อเข้าถึงเซลล์ที่ต้องการของเวิร์กชีตลงในวัตถุ Cell
 1.  ใช้เมธอด Cell.PutValue() เพื่อป้อนค่าลงในเซลล์
-1. บันทึกสมุดงานเป็นไฟล์ .tiff โดยใช้เมธอด Save()
+1.  บันทึกสมุดงานเป็นไฟล์ .tiff โดยใช้เมธอด Save()
 
 {{% blocks/products/pf/agp/code-block title="โค้ดตัวอย่างแสดงวิธีสร้างไฟล์ TIFF ใน C++" offSpacer="" %}}
 
@@ -70,7 +70,6 @@ cell01.PutValue(u"ColumnB");
 cell10.PutValue(u"ValueA");
 cell11.PutValue(u"ValueB");
 
-//TIFF format is not supported
 // Save workbook to resultFile folder
 wkb.Save(u"created_one.tiff");
 

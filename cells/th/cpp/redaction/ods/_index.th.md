@@ -1,5 +1,5 @@
 ---
-title:  ค้นหาและแทนที่ข้อความในเอกสาร ODS ผ่าน C++
+title: ค้นหาและแทนที่ข้อความในเอกสาร ODS ผ่าน C++
 weight: 1610
 description: โค้ดตัวอย่าง C++ เพื่อตรวจทานข้อมูลที่ละเอียดอ่อนในไฟล์ ODS บน C++ Runtime Environment สำหรับ Windows 32 บิต, Windows 64 บิต และ Linux 64 บิต
 keywords: [C++ Aspose.Cells., C++ Search and replace text in ODS file., C++ redact ODS file., C++ edit ODS file., C++ ODS file redaction., C++ Search and replace string in ODS file]
@@ -12,13 +12,7 @@ keywords: [C++ Aspose.Cells., C++ Search and replace text in ODS file., C++ reda
 
 {{% blocks/products/pf/agp/content h2="วิธีแก้ไขไฟล์ ODS โดยใช้ C++" %}}
 
- เพื่อทำการปกปิดไฟล์ ODS เราจะใช้
- [Aspose.Cells for C++](https://products.aspose.com/cells/cpp) 
- API ซึ่งเป็นแพลตฟอร์มตรวจทานเอกสารที่มีคุณสมบัติหลากหลาย ทรงพลัง และใช้งานง่าย API for C++ คุณสามารถดาวน์โหลดเวอร์ชันล่าสุดได้โดยตรง เพียงแค่เปิดขึ้นมา
- [NuGet](https://www.nuget.org/packages/aspose.cells) 
- ผู้จัดการแพ็คเกจ ค้นหา
- **Aspose.Cells.Cpp** 
- และติดตั้ง คุณอาจใช้คำสั่งต่อไปนี้จาก Package Manager Console
+ เพื่อทำการปกปิดไฟล์ ODS เราจะใช้[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) API ซึ่งเป็นแพลตฟอร์มตรวจทานเอกสารที่มีคุณสมบัติหลากหลาย ทรงพลัง และใช้งานง่าย API for C++ คุณสามารถดาวน์โหลดเวอร์ชันล่าสุดได้โดยตรง เพียงแค่เปิดขึ้นมา[NuGet](https://www.nuget.org/packages/aspose.cells) ผู้จัดการแพ็คเกจ ค้นหา**Aspose.Cells.Cpp** และติดตั้ง คุณอาจใช้คำสั่งต่อไปนี้จาก Package Manager Console
 
 {{% blocks/products/pf/agp/code-block title="สั่งการ" offSpacer="true" %}}
 
@@ -38,15 +32,13 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% blocks/products/pf/agp/text %}}
 
- การค้นหาเอกสารขั้นพื้นฐานและแทนที่ข้อความในเนื้อหา ความคิดเห็น หรือข้อมูลเมตาด้วย
- [Aspose.Cells for C++](https://products.aspose.com/cells/cpp) 
- API สามารถทำได้โดยใช้โค้ดเพียงไม่กี่บรรทัด
+ การค้นหาเอกสารขั้นพื้นฐานและแทนที่ข้อความในเนื้อหา ความคิดเห็น หรือข้อมูลเมตาด้วย[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) API สามารถทำได้โดยใช้โค้ดเพียงไม่กี่บรรทัด
 
 {{% /blocks/products/pf/agp/text %}}
 
 +โหลดไฟล์ODS.
 + กำหนดตัวเลือกการแทนที่
-+ ตั้งค่าตัวเลือกความไวของตัวพิมพ์เล็กและตัวพิมพ์ใหญ่
+ตั้งค่าตัวเลือกความไวของตัวพิมพ์เล็กและตัวพิมพ์ใหญ่
 + ตั้งค่าตัวเลือกการจับคู่ข้อความ
 + แทนที่ข้อความโดยใช้วิธีแทนที่ (...)
 + บันทึกสมุดงาน
@@ -114,11 +106,11 @@ Aspose::Cells::Cleanup();
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" ไม่ต้องดาวน์ Aspose API." >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" ไม่จำเป็นต้องเขียนโค้ดใดๆ" >}}
         {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" เพียงอัพโหลดไฟล์ ODS ของคุณ" >}}
-        {{< blocks/products/pf/agp/democard icon="fa-download" text="มันจะถูกแก้ไขทันที" >}}
+        {{< blocks/products/pf/agp/democard icon="fa-download" text=" มันจะถูกแก้ไขทันที" >}}
     {{< /blocks/products/pf/agp/demobox >}}
 
     {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="ODS" readMoreLink="https://docs.fileformat.com/spreadsheet/ods/" >}}
-ไฟล์ที่มีนามสกุล ODS ย่อมาจากรูปแบบเอกสาร OpenDocument Spreadsheet ที่ผู้ใช้สามารถแก้ไขได้ ข้อมูลจะถูกเก็บไว้ในไฟล์ ODF เป็นแถวและคอลัมน์ มันเป็นรูปแบบที่ใช้ XML และเป็นหนึ่งในประเภทย่อยหลายประเภทในตระกูล Open Document Formats (ODF) รูปแบบนี้ระบุเป็นส่วนหนึ่งของข้อกำหนด ODF 1.2 ที่เผยแพร่และดูแลโดย OASIS แอปพลิเคชั่นจำนวนหนึ่งบน Windows รวมถึงระบบปฏิบัติการอื่นสามารถเปิดไฟล์ ODS เพื่อแก้ไขและจัดการรวมถึง Microsoft Excel, NeoOffice และ LibreOffice ไฟล์ ODS ยังสามารถแปลงเป็นรูปแบบสเปรดชีตอื่นๆ ได้ เช่นเดียวกับ XLS, XLSX และอื่นๆ โดยใช้แอปพลิเคชันต่างๆ
+ ไฟล์ที่มีนามสกุล ODS ย่อมาจากรูปแบบเอกสาร OpenDocument Spreadsheet ที่ผู้ใช้สามารถแก้ไขได้ ข้อมูลจะถูกเก็บไว้ในไฟล์ ODF เป็นแถวและคอลัมน์ มันเป็นรูปแบบที่ใช้ XML และเป็นหนึ่งในประเภทย่อยหลายประเภทในตระกูล Open Document Formats (ODF) รูปแบบนี้ระบุเป็นส่วนหนึ่งของข้อกำหนด ODF 1.2 ที่เผยแพร่และดูแลโดย OASIS แอปพลิเคชั่นจำนวนหนึ่งบน Windows รวมถึงระบบปฏิบัติการอื่นสามารถเปิดไฟล์ ODS เพื่อแก้ไขและจัดการรวมถึง Microsoft Excel, NeoOffice และ LibreOffice ไฟล์ ODS ยังสามารถแปลงเป็นรูปแบบสเปรดชีตอื่นๆ ได้ เช่นเดียวกับ XLS, XLSX และอื่นๆ โดยใช้แอปพลิเคชันต่างๆ
 
     {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
@@ -131,6 +123,7 @@ Aspose::Cells::Cleanup();
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/redaction/xls/" name="XLS" description="รูปแบบไบนารีของ Excel" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/redaction/xlsb/" name="XLSB" description="ไฟล์สมุดงาน Excel ไบนารี" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/redaction/xlsm/" name="XLSM" description="ไฟล์สเปรดชีต" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/redaction/xlsx/" name="XLSX" description="ไฟล์ OOXML Excel" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

@@ -1,7 +1,7 @@
 ---
-title:  بحث واستبدال النص في مستند ODS عبر C++
+title: بحث واستبدال النص في مستند ODS عبر C++
 weight: 1610
-description: C++ رمز المثال لتنقيح المعلومات الحساسة في ملف ODS على C++ بيئة التشغيل لـ Windows 32 بت وWindows 64 بت ولينكس 64 بت.
+description: C++ رمز المثال لتنقيح المعلومات الحساسة في ملف ODS على C++ بيئة التشغيل لـ Windows 32 بت، Windows 64 بت وLinux 64 بت.
 keywords: [C++ Aspose.Cells., C++ Search and replace text in ODS file., C++ redact ODS file., C++ edit ODS file., C++ ODS file redaction., C++ Search and replace string in ODS file]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -12,13 +12,7 @@ keywords: [C++ Aspose.Cells., C++ Search and replace text in ODS file., C++ reda
 
 {{% blocks/products/pf/agp/content h2="كيفية تنقيح ملف ODS باستخدام C++" %}}
 
- من أجل تنقيح ملف ODS، سنستخدم
- [Aspose.Cells for C++](https://products.aspose.com/cells/cpp) 
- API وهي منصة غنية بالميزات وقوية وسهلة الاستخدام لتنقيح المستندات API for C++. يمكنك تنزيل أحدث إصدار له مباشرة، فقط قم بفتحه
- [NuGet](https://www.nuget.org/packages/aspose.cells) 
- مدير الحزم، ابحث عن
- **Aspose.Cells.Cpp** 
- وتثبيت. يمكنك أيضًا استخدام الأمر التالي من وحدة تحكم إدارة الحزم.
+ من أجل تنقيح ملف ODS، سنستخدم[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) API وهي منصة غنية بالميزات وقوية وسهلة الاستخدام لتنقيح المستندات API for C++. يمكنك تنزيل أحدث إصدار له مباشرة، فقط قم بفتحه[NuGet](https://www.nuget.org/packages/aspose.cells) مدير الحزم، ابحث عن**Aspose.Cells.Cpp** وتثبيت. يمكنك أيضًا استخدام الأمر التالي من وحدة تحكم إدارة الحزم.
 
 {{% blocks/products/pf/agp/code-block title="يأمر" offSpacer="true" %}}
 
@@ -38,15 +32,13 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% blocks/products/pf/agp/text %}}
 
- بحث أساسي عن المستندات واستبدال النص في المحتويات أو التعليقات أو البيانات الوصفية
- [Aspose.Cells for C++](https://products.aspose.com/cells/cpp) 
- يمكن إنشاء واجهات برمجة التطبيقات باستخدام بضعة أسطر من التعليمات البرمجية.
+ بحث أساسي عن المستندات واستبدال النص في المحتويات أو التعليقات أو البيانات الوصفية[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) يمكن إنشاء واجهات برمجة التطبيقات باستخدام بضعة أسطر من التعليمات البرمجية.
 
 {{% /blocks/products/pf/agp/text %}}
 
 + تحميل ملف ODS.
 + تحديد خيارات الاستبدال.
-+ ضبط خيار حساسية الحالة.
+ضبط خيار حساسية الحالة.
 + تعيين خيار مطابقة النص
 + استبدال النص باستخدام طريقة الاستبدال (...).
 + احفظ المصنف.
@@ -114,11 +106,11 @@ Aspose::Cells::Cleanup();
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" لا داعي للتحميل Aspose API." >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" لا حاجة لكتابة أي رمز." >}}
         {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" فقط قم بتحميل ملفات ODS الخاصة بك." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-download" text="سيتم تنقيحه على الفور." >}}
+        {{< blocks/products/pf/agp/democard icon="fa-download" text=" سيتم تنقيحه على الفور." >}}
     {{< /blocks/products/pf/agp/demobox >}}
 
     {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="ODS" readMoreLink="https://docs.fileformat.com/spreadsheet/ods/" >}}
-تمثل الملفات ذات الامتداد ODS تنسيق مستند جدول بيانات OpenDocument الذي يمكن للمستخدم تحريره. يتم تخزين البيانات داخل ملف ODF في صفوف وأعمدة. وهو تنسيق يستند إلى XML وهو أحد الأنواع الفرعية المتعددة في عائلة تنسيقات المستندات المفتوحة (ODF). تم تحديد التنسيق كجزء من مواصفات ODF 1.2 المنشورة والتي تحتفظ بها OASIS. يمكن لعدد من التطبيقات الموجودة على Windows بالإضافة إلى أنظمة التشغيل الأخرى فتح ملفات ODS للتحرير والمعالجة بما في ذلك Microsoft Excel وNeoOffice وLibreOffice. يمكن أيضًا تحويل ملفات ODS إلى تنسيقات جداول بيانات أخرى مثل XLS وXLSX وغيرها بواسطة تطبيقات مختلفة.
+ تمثل الملفات ذات الامتداد ODS تنسيق مستند جدول بيانات OpenDocument الذي يمكن للمستخدم تحريره. يتم تخزين البيانات داخل ملف ODF في صفوف وأعمدة. وهو تنسيق يستند إلى XML وهو أحد الأنواع الفرعية المتعددة في عائلة تنسيقات المستندات المفتوحة (ODF). تم تحديد التنسيق كجزء من مواصفات ODF 1.2 المنشورة والتي تحتفظ بها OASIS. يمكن لعدد من التطبيقات الموجودة على Windows بالإضافة إلى أنظمة التشغيل الأخرى فتح ملفات ODS للتحرير والمعالجة بما في ذلك Microsoft Excel وNeoOffice وLibreOffice. يمكن أيضًا تحويل ملفات ODS إلى تنسيقات جداول بيانات أخرى مثل XLS وXLSX وغيرها بواسطة تطبيقات مختلفة.
 
     {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
@@ -131,6 +123,7 @@ Aspose::Cells::Cleanup();
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/redaction/xls/" name="XLS" description="تنسيق ثنائي إكسل" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/redaction/xlsb/" name="XLSB" description="ملف مصنف Excel الثنائي" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/redaction/xlsm/" name="XLSM" description="ملف جدول البيانات" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/redaction/xlsx/" name="XLSX" description="ملف اكسيل OOXML" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

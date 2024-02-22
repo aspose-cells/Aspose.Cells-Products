@@ -13,7 +13,7 @@ keywords: [Python Aspose.Cells Create parse repair merge convert JSON Excel XML 
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
-Aspose.Cells for Python via Java je rychlý a spolehlivý API pro úlohy zpracování tabulek. Vývojáři mohou vytvářet jednoduché nebo složité tabulky, manipulovat a extrahovat informace ze souborů aplikace Excel. API čte více formátů aplikace Excel a dokáže vykreslovat listy na XPS, PDF, MHTML, HTML, prostý text, obrázky a další. Je to nejlepší řešení pro automatizaci zpráv Excel pomocí pythonu.
+ Aspose.Cells for Python via Java je rychlý a spolehlivý API pro úlohy zpracování tabulek. Vývojáři mohou vytvářet jednoduché nebo složité tabulky, manipulovat a extrahovat informace ze souborů aplikace Excel. API čte více formátů aplikace Excel a dokáže vykreslovat listy na XPS, PDF, MHTML, HTML, prostý text, obrázky a další. Je to nejlepší řešení pro automatizaci zpráv Excel pomocí pythonu.
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
@@ -38,7 +38,7 @@ Aspose.Cells for Python via Java je rychlý a spolehlivý API pro úlohy zpracov
  Sada výsledků
     </li>
     <li>
-Sbírky
+ Sbírky
     </li>
    </ul>
    <header>
@@ -76,7 +76,7 @@ Sbírky
  Vytvářejte grafy
     </li>
     <li>
- Shrnout
+Shrnout
     </li>
     <li>
  Chytré značky
@@ -159,7 +159,7 @@ Sbírky
      <b>
  Microsoft Excel:
      </b>
- XLS, XLSX, XLSB, XLTX, XLTM, XLSM, XML
+ XLS, XLSX, XLSB, XLT, XLTX, XLTM, XLSM, XML, OTS
     </li>
     <li>
      <b>
@@ -171,13 +171,25 @@ Sbírky
      <b>
  Text:
      </b>
-     CSV, TSV, TXT
+     CSV, TSV, JSON
     </li>
     <li>
      <b>
  Web:
      </b>
      HTML, MHTML
+    </li>
+    <li>
+     <b>
+      Numbers:
+     </b>
+ Dokumenty aplikace Apple iWork office suite Numbers
+    </li>
+    <li>
+     <b>
+ ostatní:
+     </b>
+ SXC, FODS, EPUB
     </li>
    </ul>
   </div>
@@ -186,7 +198,7 @@ Sbírky
    <header>
     <i class="fa fa-mail-forward">
     </i>
- Pouze výstup
+Pouze výstup
    </header>
    <ul>
     <li>
@@ -197,9 +209,21 @@ Sbírky
     </li>
     <li>
      <b>
+ Výměna dat:
+     </b>
+     DIF
+    </li>    
+    <li>
+     <b>
  Snímky:
      </b>
-     JPEG, PNG, BMP, SVG, EMF
+     JPEG, PNG, BMP, SVG, TIFF, EMF, GIF
+    </li>
+    <li>
+     <b>
+ ostatní:
+     </b>
+ MARKDOWN, SQL, XTHML
     </li>
    </ul>
   </div>
@@ -306,7 +330,7 @@ Sbírky
     <em class="fa fa-object-ungroup ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-Přidejte nebo odeberte seskupení do řádků a sloupců
+ Přidejte nebo odeberte seskupení do řádků a sloupců
     </p>
    </div>
    <div class="col-lg-4">
@@ -416,11 +440,11 @@ Přidejte nebo odeberte seskupení do řádků a sloupců
  Konverze více formátů
     </h2>
     <p>
- Python Knihovna Excel poskytuje převod souborů Excel na PDF, XPS &amp; HTML formáty. Spolehlivý převod API z něj dělá perfektní řešení pro společnosti, které vyžadují výměnu souborů ve standardních průmyslových formátech.
+Python Knihovna Excel poskytuje převod souborů Excel na PDF, XPS &amp; HTML formáty. Spolehlivý převod API z něj dělá perfektní řešení pro společnosti, které vyžadují výměnu souborů ve standardních průmyslových formátech.
     </p>
     <div class="codeblock" id="code">
      <h3>
-Uložte tabulku v různých formátech - Java
+ Uložte tabulku v různých formátech - Java
      </h3>
      <pre><code class="java">
 // load file to be converted
@@ -489,7 +513,7 @@ wkbk.save(SD_PATH + "houtput.html", SaveFormat.HTML);</code></pre>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-Přizpůsobení grafů
+ Přizpůsobení grafů
     </h2>
     <p>
 Aspose.Cells for Python via Java poskytuje plnou podporu pro vytváření grafů. Je možné snadno přidat standardní a přizpůsobené grafy nebo dynamicky nastavit data grafu, aby bylo možné graf aktualizovat pomocí této knihovny pythonu.

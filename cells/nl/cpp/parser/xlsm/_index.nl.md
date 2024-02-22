@@ -1,5 +1,5 @@
 ---
-title:  Extraheer tekst en afbeeldingen uit document XLSM via C++
+title: Extraheer tekst en afbeeldingen uit document XLSM via C++
 weight: 570
 description: C++ voorbeeldcode om tekst en afbeeldingen te extraheren uit bestand XLSM op C++ Runtime Environment voor Windows 32 bit, Windows 64 bit en Linux 64 bit.
 keywords: [C++ Aspose.Cells., C++ Extract text and images from XLSM file., C++ How to Parse XLSM File., C++ Extract text from XLSM file., Extract images from XLSM file using C++]
@@ -12,13 +12,7 @@ keywords: [C++ Aspose.Cells., C++ Extract text and images from XLSM file., C++ H
 
 {{% blocks/products/pf/agp/content h2="Hoe het bestand XLSM te parseren met behulp van C++" %}}
 
- Om het bestand XLSM te parseren, gebruiken we
- [Aspose.Cells for C++](https://products.aspose.com/cells/cpp) 
- API, een functierijk, krachtig en gebruiksvriendelijk platform voor het parseren van documenten API for C++. U kunt de nieuwste versie direct downloaden, gewoon openen
- [NuGet](https://www.nuget.org/packages/aspose.cells) 
- pakketbeheerder, zoek naar
- **Aspose.Cells.Cpp** 
- en installeren. U kunt ook de volgende opdracht gebruiken vanuit de Package Manager Console.
+ Om het bestand XLSM te parseren, gebruiken we[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) API, een functierijk, krachtig en gebruiksvriendelijk platform voor het parseren van documenten API for C++. U kunt de nieuwste versie direct downloaden, gewoon openen[NuGet](https://www.nuget.org/packages/aspose.cells) pakketbeheerder, zoek naar**Aspose.Cells.Cpp** en installeren. U kunt ook de volgende opdracht gebruiken vanuit de Package Manager Console.
 
 {{% blocks/products/pf/agp/code-block title="Commando" offSpacer="true" %}}
 
@@ -38,9 +32,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% blocks/products/pf/agp/text %}}
 
- Een basisdocument dat parseert met
- [Aspose.Cells for C++](https://products.aspose.com/cells/cpp) 
- API's kunnen met slechts enkele regels code worden uitgevoerd. Parseer tekst en afbeeldingen uit de bestanden Microsoft Excel XLS, XLSX, XLSM, XLSB en OpenDocument ODS.
+ Een basisdocument dat parseert met[Aspose.Cells for C++](https://products.aspose.com/cells/cpp)API's kunnen met slechts enkele regels code worden uitgevoerd. Parseer tekst en afbeeldingen uit de bestanden Microsoft Excel XLS, XLSX, XLSM, XLSB en OpenDocument ODS.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -108,7 +100,7 @@ Aspose::Cells::Cleanup();
 
 {{< blocks/products/pf/agp/about-file-section >}}
 
-    {{< blocks/products/pf/agp/demobox sectionTitle="Online XLSM Parser Live-demo\'s" sectionDescription=" Extraheer nu tekst en afbeeldingen uit XLSM-documenten door naar onze[Live demo-website](https://products.aspose.app/cells/parser). De live demo heeft de volgende voordelen" >}}
+    {{< blocks/products/pf/agp/demobox sectionTitle="Online XLSM Parser Live-demo\'s" sectionDescription="Extraheer nu tekst en afbeeldingen uit XLSM-documenten door naar onze[Live demo-website](https://products.aspose.app/cells/parser). De live demo heeft de volgende voordelen" >}}
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" U hoeft Aspose API niet te downloaden." >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" U hoeft geen code te schrijven." >}}
         {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Upload gewoon uw XLSM-bestanden." >}}
@@ -129,6 +121,7 @@ Bestanden met de extensie XLSM zijn een soort spreadsheetbestanden die macro's o
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/parser/ods/" name="ODS" description="OpenDocument-spreadsheetbestand" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/parser/xls/" name="XLS" description="Excel binair formaat" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/parser/xlsb/" name="XLSB" description="Binair Excel-werkmapbestand" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/parser/xlsx/" name="XLSX" description="OOXML Excel-bestand" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

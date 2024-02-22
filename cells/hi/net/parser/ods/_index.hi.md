@@ -12,13 +12,7 @@ keywords: [C# Aspose.Cells., c# Extract text and images from ODS file., c# How t
 
 {{% blocks/products/pf/agp/content h2="C# का उपयोग करके ODS फ़ाइल को कैसे पार्स करें" %}}
 
- ODS फ़ाइल को पार्स करने के लिए, हम इसका उपयोग करेंगे
- [Aspose.Cells for .NET](https://products.aspose.com/cells/net) 
- API जो C# प्लेटफॉर्म के लिए एक सुविधा संपन्न, शक्तिशाली और उपयोग में आसान दस्तावेज़ हेरफेर API है। खुला
- [NuGet](https://www.nuget.org/packages/aspose.cells) 
- पैकेज मैनेजर, खोजें
- **Aspose.Cells** 
- और इंस्टॉल करें. आप पैकेज मैनेजर कंसोल से निम्न कमांड का भी उपयोग कर सकते हैं।
+ ODS फ़ाइल को पार्स करने के लिए, हम इसका उपयोग करेंगे[Aspose.Cells for .NET](https://products.aspose.com/cells/net) API जो C# प्लेटफॉर्म के लिए एक सुविधा संपन्न, शक्तिशाली और उपयोग में आसान दस्तावेज़ हेरफेर API है। खुला[NuGet](https://www.nuget.org/packages/aspose.cells) पैकेज मैनेजर, खोजें**Aspose.Cells** और इंस्टॉल करें. आप पैकेज मैनेजर कंसोल से निम्न कमांड का भी उपयोग कर सकते हैं।
 
 {{% blocks/products/pf/agp/code-block title="आज्ञा" offSpacer="true" %}}
 
@@ -38,9 +32,7 @@ PM> Install-Package Aspose.Cells
 
 {{% blocks/products/pf/agp/text %}}
 
- एक बुनियादी दस्तावेज़ पार्सिंग के साथ
- [Aspose.Cells for .NET](https://products.aspose.com/cells/net) 
- एपीआई को कोड की कुछ पंक्तियों के साथ किया जा सकता है। Microsoft Excel XLS, XLSX, XLSM, XLSB और OpenDocument ODS फ़ाइलों से पाठ और छवियों को पार्स करें।
+ एक बुनियादी दस्तावेज़ पार्सिंग के साथ[Aspose.Cells for .NET](https://products.aspose.com/cells/net)एपीआई को कोड की कुछ पंक्तियों के साथ किया जा सकता है। Microsoft Excel XLS, XLSX, XLSM, XLSB और OpenDocument ODS फ़ाइलों से पाठ और छवियों को पार्स करें।
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -56,7 +48,7 @@ PM> Install-Package Aspose.Cells
 
 {{% blocks/products/pf/agp/text %}}
 
- हमारे एपीआई सभी प्रमुख प्लेटफार्मों और ऑपरेटिंग सिस्टम पर समर्थित हैं। नीचे दिए गए कोड को निष्पादित करने से पहले, कृपया सुनिश्चित करें कि आपके सिस्टम पर निम्नलिखित आवश्यकताएँ हैं।
+हमारे एपीआई सभी प्रमुख प्लेटफार्मों और ऑपरेटिंग सिस्टम पर समर्थित हैं। नीचे दिए गए कोड को निष्पादित करने से पहले, कृपया सुनिश्चित करें कि आपके सिस्टम पर निम्नलिखित आवश्यकताएँ हैं।
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -115,14 +107,14 @@ PM> Install-Package Aspose.Cells
 
     {{< blocks/products/pf/agp/about-file-section >}}
 
-        {{< blocks/products/pf/agp/demobox sectionTitle="ऑनलाइन ODS पार्सर लाइव डेमो" sectionDescription=" अभी हमारे यहां जाकर ODS दस्तावेज़ों से पाठ और छवियाँ निकालें[लाइव डेमो वेबसाइट](https://products.aspose.app/cells/parser). लाइव डेमो के निम्नलिखित लाभ हैं" >}}
+        {{< blocks/products/pf/agp/demobox sectionTitle="ऑनलाइन ODS पार्सर लाइव डेमो" sectionDescription="अभी हमारे यहां जाकर ODS दस्तावेज़ों से पाठ और छवियाँ निकालें[लाइव डेमो वेबसाइट](https://products.aspose.app/cells/parser). लाइव डेमो के निम्नलिखित लाभ हैं" >}}
             {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Aspose API डाउनलोड करने की आवश्यकता नहीं है।" >}}
             {{< blocks/products/pf/agp/democard icon="fa-edit" text=" कोई कोड लिखने की जरूरत नहीं." >}}
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" बस अपनी ODS फ़ाइलें अपलोड करें।" >}}
             {{< blocks/products/pf/agp/democard icon="fa-download" text=" इसे तुरंत पार्स किया जाएगा." >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="ODS" readMoreLink="https://docs.fileformat.com/spreadsheet/ods/" >}}
-ODS एक्सटेंशन वाली फ़ाइलें ओपन डॉक्यूमेंट स्प्रेडशीट दस्तावेज़ प्रारूप के लिए हैं जो उपयोगकर्ता द्वारा संपादन योग्य हैं। डेटा को ODF फ़ाइल के अंदर पंक्तियों और स्तंभों में संग्रहीत किया जाता है। यह XML-आधारित प्रारूप है और ओपन दस्तावेज़ प्रारूप (ODF) परिवार में कई उपप्रकारों में से एक है। प्रारूप OASIS द्वारा प्रकाशित और अनुरक्षित ODF 1.2 विनिर्देशों के भाग के रूप में निर्दिष्ट है। Windows के साथ-साथ अन्य ऑपरेटिंग सिस्टम पर कई एप्लिकेशन संपादन और हेरफेर के लिए Microsoft एक्सेल, नियोऑफिस और लिबरऑफिस सहित ODS फाइलें खोल सकते हैं। ODS फ़ाइलों को विभिन्न अनुप्रयोगों द्वारा अन्य स्प्रेडशीट प्रारूपों जैसे XLS, XLSX और अन्य में भी परिवर्तित किया जा सकता है।
+ ODS एक्सटेंशन वाली फ़ाइलें ओपन डॉक्यूमेंट स्प्रेडशीट दस्तावेज़ प्रारूप के लिए हैं जो उपयोगकर्ता द्वारा संपादन योग्य हैं। डेटा को ODF फ़ाइल के अंदर पंक्तियों और स्तंभों में संग्रहीत किया जाता है। यह XML-आधारित प्रारूप है और ओपन दस्तावेज़ प्रारूप (ODF) परिवार में कई उपप्रकारों में से एक है। प्रारूप OASIS द्वारा प्रकाशित और अनुरक्षित ODF 1.2 विनिर्देशों के भाग के रूप में निर्दिष्ट है। Windows के साथ-साथ अन्य ऑपरेटिंग सिस्टम पर कई एप्लिकेशन संपादन और हेरफेर के लिए Microsoft एक्सेल, नियोऑफिस और लिबरऑफिस सहित ODS फाइलें खोल सकते हैं। ODS फ़ाइलों को विभिन्न अनुप्रयोगों द्वारा अन्य स्प्रेडशीट प्रारूपों जैसे XLS, XLSX और अन्य में भी परिवर्तित किया जा सकता है।
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
@@ -135,6 +127,7 @@ ODS एक्सटेंशन वाली फ़ाइलें ओपन ड
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/parser/xls/" name="XLS" description="एक्सेल बाइनरी फॉर्मेट" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/parser/xlsb/" name="XLSB" description="बाइनरी एक्सेल वर्कबुक फ़ाइल" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/parser/xlsm/" name="XLSM" description="स्प्रेडशीट फ़ाइल" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/parser/xlsx/" name="XLSX" description="ओओएक्सएमएल एक्सेल फ़ाइल" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

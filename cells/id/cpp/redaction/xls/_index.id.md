@@ -1,5 +1,5 @@
 ---
-title:  Cari dan ganti teks pada dokumen XLS melalui C++
+title: Cari dan ganti teks pada dokumen XLS melalui C++
 weight: 380
 description: Contoh kode C++ untuk menyunting informasi sensitif dalam file XLS pada C++ Runtime Environment untuk Windows 32 bit, Windows 64 bit dan Linux 64 bit.
 keywords: [C++ Aspose.Cells., C++ Search and replace text in XLS file., C++ redact XLS file., C++ edit XLS file., C++ XLS file redaction., C++ Search and replace string in XLS file]
@@ -12,13 +12,7 @@ keywords: [C++ Aspose.Cells., C++ Search and replace text in XLS file., C++ reda
 
 {{% blocks/products/pf/agp/content h2="Cara Redaksi File XLS Menggunakan C++" %}}
 
- Untuk menyunting file XLS, kami akan menggunakan
- [Aspose.Cells for C++](https://products.aspose.com/cells/cpp) 
- API yang merupakan platform redaksi dokumen yang kaya fitur, kuat, dan mudah digunakan API for C++. Anda bisa langsung mendownload versi terbarunya, buka saja
- [NuGet](https://www.nuget.org/packages/aspose.cells) 
- manajer paket, cari
- **Aspose.Cells.Cpp** 
- dan instal. Anda juga dapat menggunakan perintah berikut dari Package Manager Console.
+ Untuk menyunting file XLS, kami akan menggunakan[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) API yang merupakan platform redaksi dokumen yang kaya fitur, kuat, dan mudah digunakan API for C++. Anda bisa langsung mendownload versi terbarunya, buka saja[NuGet](https://www.nuget.org/packages/aspose.cells) manajer paket, cari**Aspose.Cells.Cpp** dan instal. Anda juga dapat menggunakan perintah berikut dari Package Manager Console.
 
 {{% blocks/products/pf/agp/code-block title="Memerintah" offSpacer="true" %}}
 
@@ -38,15 +32,13 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% blocks/products/pf/agp/text %}}
 
- Pencarian dokumen dasar dan mengganti teks dalam konten, komentar atau metadata dengan
- [Aspose.Cells for C++](https://products.aspose.com/cells/cpp) 
- API dapat dilakukan hanya dengan beberapa baris kode.
+ Pencarian dokumen dasar dan mengganti teks dalam konten, komentar atau metadata dengan[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) API dapat dilakukan hanya dengan beberapa baris kode.
 
 {{% /blocks/products/pf/agp/text %}}
 
 + Muat file XLS.
 + Tentukan Opsi Ganti.
-+ Atur opsi sensitivitas huruf besar-kecil.
+Atur opsi sensitivitas huruf besar-kecil.
 + Atur opsi pencocokan teks
 + Ganti teks menggunakan metode Ganti(...).
 + Simpan buku kerja.
@@ -114,7 +106,7 @@ Aspose::Cells::Cleanup();
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Tidak perlu download Aspose API." >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Tidak perlu menulis kode apa pun." >}}
         {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Cukup unggah file XLS Anda." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-download" text="Itu akan segera disunting." >}}
+        {{< blocks/products/pf/agp/democard icon="fa-download" text=" Itu akan segera disunting." >}}
     {{< /blocks/products/pf/agp/demobox >}}
 
     {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLS" readMoreLink="https://docs.fileformat.com/spreadsheet/xls/" >}}
@@ -131,6 +123,7 @@ File dengan ekstensi XLS mewakili Format File Biner Excel. File tersebut dapat d
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/redaction/ods/" name="ODS" description="File Lembar Bentang OpenDocument" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/redaction/xlsb/" name="XLSB" description="File Buku Kerja Excel Biner" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/redaction/xlsm/" name="XLSM" description="Berkas Lembar Bentang" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/redaction/xlsx/" name="XLSX" description="Berkas OOXML Excel" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

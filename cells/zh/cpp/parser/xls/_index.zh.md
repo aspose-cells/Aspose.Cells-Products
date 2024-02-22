@@ -12,13 +12,7 @@ keywords: [C++ Aspose.Cells., C++ Extract text and images from XLS file., C++ Ho
 
 {{% blocks/products/pf/agp/content h2="如何使用 C++ 解析 XLS 文件" %}}
 
-为了解析 XLS 文件，我们将使用
- [Aspose.Cells for C++](https://products.aspose.com/cells/cpp) 
-API这是一个功能丰富、功能强大且易于使用的文档解析API for C++平台。您可以直接下载最新版本，打开即可
- [NuGet](https://www.nuget.org/packages/aspose.cells) 
-包管理器，搜索
- **Aspose.Cells.Cpp** 
-并安装。您还可以从包管理器控制台使用以下命令。
+为了解析 XLS 文件，我们将使用[Aspose.Cells for C++](https://products.aspose.com/cells/cpp)API这是一个功能丰富、功能强大且易于使用的文档解析API for C++平台。您可以直接下载最新版本，打开即可[NuGet](https://www.nuget.org/packages/aspose.cells)包管理器，搜索**Aspose.Cells.Cpp**并安装。您还可以从包管理器控制台使用以下命令。
 
 {{% blocks/products/pf/agp/code-block title="命令" offSpacer="true" %}}
 
@@ -50,7 +44,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% blocks/products/pf/agp/text %}}
 
-Aspose.Cells for C++ 支持所有主要平台和操作系统。请确保您具备以下先决条件。
+ Aspose.Cells for C++ 支持所有主要平台和操作系统。请确保您具备以下先决条件。
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -129,6 +123,7 @@ Aspose::Cells::Cleanup();
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/parser/ods/" name="ODS" description="OpenDocument 电子表格文件" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/parser/xlsb/" name="XLSB" description="二进制 Excel 工作簿文件" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/parser/xlsm/" name="XLSM" description="电子表格文件" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/parser/xlsx/" name="XLSX" description="OOXML Excel 文件" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

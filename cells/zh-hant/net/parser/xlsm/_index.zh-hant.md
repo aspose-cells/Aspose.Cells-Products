@@ -12,13 +12,8 @@ keywords: [C# Aspose.Cells., c# Extract text and images from XLSM file., c# How 
 
 {{% blocks/products/pf/agp/content h2="如何使用 C# 解析 XLSM 文件" %}}
 
-為了解析 XLSM 文件，我們將使用
- [Aspose.Cells for .NET](https://products.aspose.com/cells/net) 
-API這是一個功能豐富、強大且易於使用的文件操作API，適用於C#平台。打開
- [NuGet](https://www.nuget.org/packages/aspose.cells) 
-套件管理器，搜尋
- **Aspose.Cells** 
-並安裝。您也可以從套件管理器控制台使用以下命令。
+為了解析 XLSM 文件，我們將使用[Aspose.Cells for .NET](https://products.aspose.com/cells/net)API這是一個功能豐富、強大且易於使用的文件操作API，適用於C#平台。打開[NuGet](https://www.nuget.org/packages/aspose.cells)套件管理器，搜尋
+ **Aspose.Cells**並安裝。您也可以從套件管理器控制台使用以下命令。
 
 {{% blocks/products/pf/agp/code-block title="命令" offSpacer="true" %}}
 
@@ -38,13 +33,11 @@ PM> Install-Package Aspose.Cells
 
 {{% blocks/products/pf/agp/text %}}
 
-基本文件解析
- [Aspose.Cells for .NET](https://products.aspose.com/cells/net) 
-只需幾行程式碼即可完成 API。解析 Microsoft Excel XLS、XLSX、XLSM、XLSB 和 OpenDocument ODS 文件中的文字和圖像。
+基本文件解析[Aspose.Cells for .NET](https://products.aspose.com/cells/net)只需幾行程式碼即可完成 API。解析 Microsoft Excel XLS、XLSX、XLSM、XLSB 和 OpenDocument ODS 文件中的文字和圖像。
 
 {{% /blocks/products/pf/agp/text %}}
 
-+ 載入XLSM文檔。
+載入XLSM文檔。
 + 選擇工作表。
 + 取得圖片和影像類型。
 + 儲存影像。
@@ -60,7 +53,7 @@ PM> Install-Package Aspose.Cells
 
 {{% /blocks/products/pf/agp/text %}}
 
-- Microsoft Windows 或具有 .NET Framework、.NET Core、Mono 或 Xamarin 平台的相容作業系統
+-  Microsoft Windows 或具有 .NET Framework、.NET Core、Mono 或 Xamarin 平台的相容作業系統
 - 開發環境如Microsoft Visual Studio
 - 在專案中新增對 Aspose.Cells for .NET DLL 的引用 - 使用上面的下載按鈕從 NuGet 安裝
 
@@ -135,6 +128,7 @@ PM> Install-Package Aspose.Cells
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/parser/ods/" name="ODS" description="OpenDocument 電子表格文件" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/parser/xls/" name="XLS" description="Excel 二進位格式" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/parser/xlsb/" name="XLSB" description="二進位 Excel 工作簿文件" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/parser/xlsx/" name="XLSX" description="OOXML Excel 文件" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

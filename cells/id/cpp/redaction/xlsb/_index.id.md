@@ -1,5 +1,5 @@
 ---
-title:  Cari dan ganti teks pada dokumen XLSB melalui C++
+title: Cari dan ganti teks pada dokumen XLSB melalui C++
 weight: 6660
 description: Contoh kode C++ untuk menyunting informasi sensitif dalam file XLSB pada C++ Runtime Environment untuk Windows 32 bit, Windows 64 bit dan Linux 64 bit.
 keywords: [C++ Aspose.Cells., C++ Search and replace text in XLSB file., C++ redact XLSB file., C++ edit XLSB file., C++ XLSB file redaction., C++ Search and replace string in XLSB file]
@@ -12,13 +12,7 @@ keywords: [C++ Aspose.Cells., C++ Search and replace text in XLSB file., C++ red
 
 {{% blocks/products/pf/agp/content h2="Cara Redaksi File XLSB Menggunakan C++" %}}
 
- Untuk menyunting file XLSB, kami akan menggunakan
- [Aspose.Cells for C++](https://products.aspose.com/cells/cpp) 
- API yang merupakan platform redaksi dokumen yang kaya fitur, kuat, dan mudah digunakan API for C++. Anda bisa langsung mendownload versi terbarunya, buka saja
- [NuGet](https://www.nuget.org/packages/aspose.cells) 
- manajer paket, cari
- **Aspose.Cells.Cpp** 
- dan instal. Anda juga dapat menggunakan perintah berikut dari Package Manager Console.
+ Untuk menyunting file XLSB, kami akan menggunakan[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) API yang merupakan platform redaksi dokumen yang kaya fitur, kuat, dan mudah digunakan API for C++. Anda bisa langsung mendownload versi terbarunya, buka saja[NuGet](https://www.nuget.org/packages/aspose.cells) manajer paket, cari**Aspose.Cells.Cpp** dan instal. Anda juga dapat menggunakan perintah berikut dari Package Manager Console.
 
 {{% blocks/products/pf/agp/code-block title="Memerintah" offSpacer="true" %}}
 
@@ -38,15 +32,13 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% blocks/products/pf/agp/text %}}
 
- Pencarian dokumen dasar dan mengganti teks dalam konten, komentar atau metadata dengan
- [Aspose.Cells for C++](https://products.aspose.com/cells/cpp) 
- API dapat dilakukan hanya dengan beberapa baris kode.
+ Pencarian dokumen dasar dan mengganti teks dalam konten, komentar atau metadata dengan[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) API dapat dilakukan hanya dengan beberapa baris kode.
 
 {{% /blocks/products/pf/agp/text %}}
 
 + Muat file XLSB.
 + Tentukan Opsi Ganti.
-+ Atur opsi sensitivitas huruf besar-kecil.
+Atur opsi sensitivitas huruf besar-kecil.
 + Atur opsi pencocokan teks
 + Ganti teks menggunakan metode Ganti(...).
 + Simpan buku kerja.
@@ -114,7 +106,7 @@ Aspose::Cells::Cleanup();
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Tidak perlu download Aspose API." >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Tidak perlu menulis kode apa pun." >}}
         {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Cukup unggah file XLSB Anda." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-download" text="Itu akan segera disunting." >}}
+        {{< blocks/products/pf/agp/democard icon="fa-download" text=" Itu akan segera disunting." >}}
     {{< /blocks/products/pf/agp/demobox >}}
 
     {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLSB" readMoreLink="https://docs.fileformat.com/spreadsheet/xlsb/" >}}
@@ -131,6 +123,7 @@ Format file XLSB menentukan Format File Biner Excel, yang merupakan kumpulan rek
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/redaction/ods/" name="ODS" description="File Lembar Bentang OpenDocument" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/redaction/xls/" name="XLS" description="Format Biner Excel" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/redaction/xlsm/" name="XLSM" description="Berkas Lembar Bentang" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/redaction/xlsx/" name="XLSX" description="Berkas OOXML Excel" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

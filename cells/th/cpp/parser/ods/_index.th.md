@@ -1,5 +1,5 @@
 ---
-title:  แยกข้อความและรูปภาพจากเอกสาร ODS ทาง C++
+title: แยกข้อความและรูปภาพจากเอกสาร ODS ทาง C++
 weight: 9130
 description: โค้ดตัวอย่าง C++ เพื่อแยกข้อความและรูปภาพจากไฟล์ ODS บน C++ Runtime Environment สำหรับ Windows 32 บิต, Windows 64 บิตและ Linux 64 บิต
 keywords: [C++ Aspose.Cells., C++ Extract text and images from ODS file., C++ How to Parse ODS File., C++ Extract text from ODS file., Extract images from ODS file using C++]
@@ -12,13 +12,7 @@ keywords: [C++ Aspose.Cells., C++ Extract text and images from ODS file., C++ Ho
 
 {{% blocks/products/pf/agp/content h2="วิธีแยกวิเคราะห์ไฟล์ ODS โดยใช้ C++" %}}
 
- เพื่อที่จะแยกวิเคราะห์ไฟล์ ODS เราจะใช้
- [Aspose.Cells for C++](https://products.aspose.com/cells/cpp) 
- API ซึ่งเป็นแพลตฟอร์มแยกวิเคราะห์เอกสารที่มีคุณสมบัติหลากหลาย ทรงพลัง และใช้งานง่าย API for C++ คุณสามารถดาวน์โหลดเวอร์ชันล่าสุดได้โดยตรง เพียงแค่เปิดขึ้นมา
- [NuGet](https://www.nuget.org/packages/aspose.cells) 
- ผู้จัดการแพ็คเกจ ค้นหา
- **Aspose.Cells.Cpp** 
- และติดตั้ง คุณอาจใช้คำสั่งต่อไปนี้จาก Package Manager Console
+ เพื่อที่จะแยกวิเคราะห์ไฟล์ ODS เราจะใช้[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) API ซึ่งเป็นแพลตฟอร์มแยกวิเคราะห์เอกสารที่มีคุณสมบัติหลากหลาย ทรงพลัง และใช้งานง่าย API for C++ คุณสามารถดาวน์โหลดเวอร์ชันล่าสุดได้โดยตรง เพียงแค่เปิดขึ้นมา[NuGet](https://www.nuget.org/packages/aspose.cells) ผู้จัดการแพ็คเกจ ค้นหา**Aspose.Cells.Cpp** และติดตั้ง คุณอาจใช้คำสั่งต่อไปนี้จาก Package Manager Console
 
 {{% blocks/products/pf/agp/code-block title="สั่งการ" offSpacer="true" %}}
 
@@ -38,9 +32,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% blocks/products/pf/agp/text %}}
 
- เอกสารพื้นฐานแยกวิเคราะห์ด้วย
- [Aspose.Cells for C++](https://products.aspose.com/cells/cpp) 
- API สามารถทำได้โดยใช้โค้ดเพียงไม่กี่บรรทัด แยกวิเคราะห์ข้อความและรูปภาพจากไฟล์ Microsoft Excel XLS, XLSX, XLSM, XLSB และ OpenDocument ODS
+ เอกสารพื้นฐานแยกวิเคราะห์ด้วย[Aspose.Cells for C++](https://products.aspose.com/cells/cpp)API สามารถทำได้โดยใช้โค้ดเพียงไม่กี่บรรทัด แยกวิเคราะห์ข้อความและรูปภาพจากไฟล์ Microsoft Excel XLS, XLSX, XLSM, XLSB และ OpenDocument ODS
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -108,7 +100,7 @@ Aspose::Cells::Cleanup();
 
 {{< blocks/products/pf/agp/about-file-section >}}
 
-    {{< blocks/products/pf/agp/demobox sectionTitle="ออนไลน์ ODS Parser สาธิตสด" sectionDescription=" แยกข้อความและรูปภาพจากเอกสาร ODS ได้เลยโดยเข้าไปที่[เว็บไซต์สาธิตสด](https://products.aspose.app/cells/parser). การสาธิตสดมีข้อดีดังต่อไปนี้" >}}
+    {{< blocks/products/pf/agp/demobox sectionTitle="ออนไลน์ ODS Parser สาธิตสด" sectionDescription="แยกข้อความและรูปภาพจากเอกสาร ODS ได้เลยโดยเข้าไปที่[เว็บไซต์สาธิตสด](https://products.aspose.app/cells/parser). การสาธิตสดมีข้อดีดังต่อไปนี้" >}}
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" ไม่ต้องดาวน์ Aspose API." >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" ไม่จำเป็นต้องเขียนโค้ดใดๆ" >}}
         {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" เพียงอัพโหลดไฟล์ ODS ของคุณ" >}}
@@ -116,7 +108,7 @@ Aspose::Cells::Cleanup();
     {{< /blocks/products/pf/agp/demobox >}}
 
     {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="ODS" readMoreLink="https://docs.fileformat.com/spreadsheet/ods/" >}}
-ไฟล์ที่มีนามสกุล ODS ย่อมาจากรูปแบบเอกสาร OpenDocument Spreadsheet ที่ผู้ใช้สามารถแก้ไขได้ ข้อมูลจะถูกเก็บไว้ในไฟล์ ODF เป็นแถวและคอลัมน์ มันเป็นรูปแบบที่ใช้ XML และเป็นหนึ่งในประเภทย่อยหลายประเภทในตระกูล Open Document Formats (ODF) รูปแบบนี้ระบุเป็นส่วนหนึ่งของข้อกำหนด ODF 1.2 ที่เผยแพร่และดูแลโดย OASIS แอปพลิเคชั่นจำนวนหนึ่งบน Windows รวมถึงระบบปฏิบัติการอื่นสามารถเปิดไฟล์ ODS เพื่อแก้ไขและจัดการรวมถึง Microsoft Excel, NeoOffice และ LibreOffice ไฟล์ ODS ยังสามารถแปลงเป็นรูปแบบสเปรดชีตอื่นๆ ได้ เช่นเดียวกับ XLS, XLSX และอื่นๆ โดยใช้แอปพลิเคชันต่างๆ
+ ไฟล์ที่มีนามสกุล ODS ย่อมาจากรูปแบบเอกสาร OpenDocument Spreadsheet ที่ผู้ใช้สามารถแก้ไขได้ ข้อมูลจะถูกเก็บไว้ในไฟล์ ODF เป็นแถวและคอลัมน์ มันเป็นรูปแบบที่ใช้ XML และเป็นหนึ่งในประเภทย่อยหลายประเภทในตระกูล Open Document Formats (ODF) รูปแบบนี้ระบุเป็นส่วนหนึ่งของข้อกำหนด ODF 1.2 ที่เผยแพร่และดูแลโดย OASIS แอปพลิเคชั่นจำนวนหนึ่งบน Windows รวมถึงระบบปฏิบัติการอื่นสามารถเปิดไฟล์ ODS เพื่อแก้ไขและจัดการรวมถึง Microsoft Excel, NeoOffice และ LibreOffice ไฟล์ ODS ยังสามารถแปลงเป็นรูปแบบสเปรดชีตอื่นๆ ได้ เช่นเดียวกับ XLS, XLSX และอื่นๆ โดยใช้แอปพลิเคชันต่างๆ
 
     {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
@@ -129,6 +121,7 @@ Aspose::Cells::Cleanup();
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/parser/xls/" name="XLS" description="รูปแบบไบนารีของ Excel" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/parser/xlsb/" name="XLSB" description="ไฟล์สมุดงาน Excel ไบนารี" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/parser/xlsm/" name="XLSM" description="ไฟล์สเปรดชีต" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/parser/xlsx/" name="XLSX" description="ไฟล์ OOXML Excel" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

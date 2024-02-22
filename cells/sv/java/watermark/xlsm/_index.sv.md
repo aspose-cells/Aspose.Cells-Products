@@ -1,5 +1,5 @@
 ---
-title: Vattenstämpel XLSM dokument via Java
+title:  Vattenstämpel XLSM dokument via Java
 weight: 7680
 description: Java exempelkod för att lägga till eller ta bort vattenstämpel till XLSM-filen på Java Runtime Environment för JSP/JSF Application och Desktop Applications.
 keywords: [Java Aspose.Cells., Java add watermark to xlsm file., Java insert watermark to xlsm file., Java create watermark in xlsm file., remove watermark from xlsm file using Java., Java operate watermark in xlsm file., Java access watermark in xlsm file]
@@ -12,11 +12,7 @@ keywords: [Java Aspose.Cells., Java add watermark to xlsm file., Java insert wat
 
 {{% blocks/products/pf/agp/content h2="Hur man vattenstämplar XLSM-fil med Java" %}}
 
- För att vattenmärka filen XLSM kommer vi att använda
- [Aspose.Cells for Java](https://products.aspose.com/cells/java) 
- API som är en funktionsrik, kraftfull och lättanvänd plattform för vattenmärkning API for Java. Du kan ladda ner den senaste versionen direkt från
- [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) 
- och installera det i ditt Maven-baserade projekt genom att lägga till följande konfigurationer till pom.xml.
+ För att vattenmärka filen XLSM kommer vi att använda[Aspose.Cells for Java](https://products.aspose.com/cells/java) API som är en funktionsrik, kraftfull och lättanvänd plattform för vattenmärkning API for Java. Du kan ladda ner den senaste versionen direkt från[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) och installera det i ditt Maven-baserade projekt genom att lägga till följande konfigurationer till pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Förvar" offSpacer="true" %}}
 
@@ -129,7 +125,7 @@ workbook.save(dataDir + "AWArtWToWorksheet_out.xlsm");
     {{< blocks/products/pf/agp/about-file-section >}}
 
         {{< blocks/products/pf/agp/demobox sectionTitle="Vattenstämpel XLSM via onlineapp" sectionDescription=" Lägg till vattenstämpel till XLSM dokument genom att besöka vår[Live Demos webbplats](https://products.aspose.app/cells/watermark). Livedemon har följande fördelar" >}}
-            {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Du behöver inte ladda ner eller ställa in någonting" >}}
+            {{< blocks/products/pf/agp/democard icon="fa-cogs" text="Du behöver inte ladda ner eller ställa in någonting" >}}
             {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Du behöver inte skriva någon kod" >}}
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Ladda bara upp din XLSM-fil, ställ in din vattenstämpel och tryck på knappen \"Lägg till\"." >}}
             {{< blocks/products/pf/agp/democard icon="fa-download" text=" Skaffa omedelbart nedladdningslänken för den resulterande filen" >}}
@@ -148,6 +144,7 @@ Filer med tillägget XLSM är en typ av kalkylbladsfiler som stöder makron. Ur 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/watermark/ods/" name="ODS" description="OpenDocument Spreadsheet File" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/watermark/xls/" name="XLS" description="Excel binärt format" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/watermark/xlsb/" name="XLSB" description="Binär Excel arbetsbok fil" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/watermark/xlsx/" name="XLSX" description="OOXML Excel-fil" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

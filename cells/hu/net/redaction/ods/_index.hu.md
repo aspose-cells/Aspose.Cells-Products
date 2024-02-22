@@ -12,13 +12,7 @@ keywords: [C# Aspose.Cells., c# Search and replace text in ODS file., c# redact 
 
 {{% blocks/products/pf/agp/content h2="A ODS fájl szerkesztése a C# használatával" %}}
 
- A ODS fájl szerkesztéséhez a következőt használjuk:
- [Aspose.Cells for .NET](https://products.aspose.com/cells/net) 
- API, amely funkciókban gazdag, hatékony és könnyen használható dokumentumkezelés API a C# platformhoz. Nyisd ki
- [NuGet](https://www.nuget.org/packages/aspose.cells) 
- csomagkezelő, keressen
- **Aspose.Cells** 
- és telepítse. A következő parancsot is használhatja a Package Manager konzolból.
+ A ODS fájl szerkesztéséhez a következőt használjuk:[Aspose.Cells for .NET](https://products.aspose.com/cells/net) API, amely funkciókban gazdag, hatékony és könnyen használható dokumentumkezelés API a C# platformhoz. Nyisd ki[NuGet](https://www.nuget.org/packages/aspose.cells) csomagkezelő, keressen**Aspose.Cells** és telepítse. A következő parancsot is használhatja a Package Manager konzolból.
 
 {{% blocks/products/pf/agp/code-block title="Parancs" offSpacer="true" %}}
 
@@ -38,9 +32,7 @@ PM> Install-Package Aspose.Cells
 
 {{% blocks/products/pf/agp/text %}}
 
- Alapvető dokumentum keresés és szöveg cseréje a tartalomban, a megjegyzésekben vagy a metaadatokban
- [Aspose.Cells for .NET](https://products.aspose.com/cells/net) 
- Az API-k néhány sornyi kóddal elkészíthetők.
+ Alapvető dokumentum keresés és szöveg cseréje a tartalomban, a megjegyzésekben vagy a metaadatokban[Aspose.Cells for .NET](https://products.aspose.com/cells/net) Az API-k néhány sornyi kóddal elkészíthetők.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -57,7 +49,7 @@ PM> Install-Package Aspose.Cells
 
 {{% blocks/products/pf/agp/text %}}
 
- API-jaink minden nagyobb platformon és operációs rendszeren támogatottak. Mielőtt végrehajtaná az alábbi kódot, győződjön meg arról, hogy a következő előfeltételek vannak a rendszeren.
+API-jaink minden nagyobb platformon és operációs rendszeren támogatottak. Mielőtt végrehajtaná az alábbi kódot, győződjön meg arról, hogy a következő előfeltételek vannak a rendszeren.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -122,10 +114,10 @@ wb.Save("e:\test2\output.ods");
             {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Nem kell letölteni a Aspose API számot." >}}
             {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Nem kell kódot írni." >}}
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Csak töltse fel a ODS fájlokat." >}}
-            {{< blocks/products/pf/agp/democard icon="fa-download" text="Azonnal szerkesztve lesz." >}}
+            {{< blocks/products/pf/agp/democard icon="fa-download" text=" Azonnal szerkesztve lesz." >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="ODS" readMoreLink="https://docs.fileformat.com/spreadsheet/ods/" >}}
- ODS kiterjesztésű fájlok az OpenDocument Spreadsheet Document formátumot jelentik, amelyeket a felhasználó szerkeszthet. Az adatok az ODF fájlban sorokba és oszlopokba kerülnek. Ez XML-alapú formátum, és egyike az Open Document Formats (ODF) család számos altípusának. A formátumot az OASIS által közzétett és karbantartott ODF 1.2 specifikáció részeként határozták meg. Számos alkalmazás a Windows-en, valamint más operációs rendszerek ODS fájlokat nyithat meg szerkesztésre és manipulációra, beleértve a Microsoft Excel, NeoOffice és LibreOffice. A ODS fájlok más táblázatformátumokba, például XLS, XLSX és más formátumokba is konvertálhatók különböző alkalmazásokkal.
+ A ODS kiterjesztésű fájlok az OpenDocument Spreadsheet Document formátumot jelentik, amelyeket a felhasználó szerkeszthet. Az adatok az ODF fájlban sorokba és oszlopokba kerülnek. Ez XML-alapú formátum, és egyike az Open Document Formats (ODF) család számos altípusának. A formátumot az OASIS által közzétett és karbantartott ODF 1.2 specifikáció részeként határozták meg. Számos alkalmazás a Windows-en, valamint más operációs rendszerek ODS fájlokat nyithat meg szerkesztésre és manipulációra, beleértve a Microsoft Excel, NeoOffice és LibreOffice. A ODS fájlok más táblázatformátumokba, például XLS, XLSX és más formátumokba is konvertálhatók különböző alkalmazásokkal.
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
@@ -138,6 +130,7 @@ wb.Save("e:\test2\output.ods");
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/redaction/xls/" name="XLS" description="Excel bináris formátum" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/redaction/xlsb/" name="XLSB" description="Bináris Excel munkafüzet fájl" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/redaction/xlsm/" name="XLSM" description="Táblázatfájl" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/redaction/xlsx/" name="XLSX" description="OOXML Excel fájl" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

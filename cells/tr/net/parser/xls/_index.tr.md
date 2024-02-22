@@ -12,13 +12,8 @@ keywords: [C# Aspose.Cells., c# Extract text and images from XLS file., c# How t
 
 {{% blocks/products/pf/agp/content h2="C# Kullanılarak XLS Dosyası Nasıl Ayrıştırılır" %}}
 
- XLS dosyasını ayrıştırmak için kullanacağız
- [Aspose.Cells for .NET](https://products.aspose.com/cells/net) 
- C# platformu için zengin özelliklere sahip, güçlü ve kullanımı kolay bir belge işleme API olan API. Açık
- [NuGet](https://www.nuget.org/packages/aspose.cells) 
- paket yöneticisi, ara
- **Aspose.Cells** 
- ve yükleyin. Aşağıdaki komutu Paket Yönetici Konsolundan da kullanabilirsiniz.
+ XLS dosyasını ayrıştırmak için kullanacağız[Aspose.Cells for .NET](https://products.aspose.com/cells/net) C# platformu için zengin özelliklere sahip, güçlü ve kullanımı kolay bir belge işleme API olan API. Açık[NuGet](https://www.nuget.org/packages/aspose.cells) paket yöneticisi, ara
+ **Aspose.Cells** ve yükleyin. Aşağıdaki komutu Paket Yönetici Konsolundan da kullanabilirsiniz.
 
 {{% blocks/products/pf/agp/code-block title="Emretmek" offSpacer="true" %}}
 
@@ -38,9 +33,7 @@ PM> Install-Package Aspose.Cells
 
 {{% blocks/products/pf/agp/text %}}
 
- Temel bir belge ayrıştırma
- [Aspose.Cells for .NET](https://products.aspose.com/cells/net) 
- API'ler yalnızca birkaç satır kodla yapılabilir. Microsoft Excel XLS, XLSX, XLSM, XLSB ve OpenDocument ODS dosyalarındaki metinleri ve görüntüleri ayrıştırın.
+ Temel bir belge ayrıştırma[Aspose.Cells for .NET](https://products.aspose.com/cells/net)API'ler yalnızca birkaç satır kodla yapılabilir. Microsoft Excel XLS, XLSX, XLSM, XLSB ve OpenDocument ODS dosyalarındaki metinleri ve görüntüleri ayrıştırın.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -56,7 +49,7 @@ PM> Install-Package Aspose.Cells
 
 {{% blocks/products/pf/agp/text %}}
 
- API'lerimiz tüm önemli platformlarda ve İşletim Sistemlerinde desteklenir. Aşağıdaki kodu çalıştırmadan önce lütfen sisteminizde aşağıdaki önkoşulların bulunduğundan emin olun.
+API'lerimiz tüm önemli platformlarda ve İşletim Sistemlerinde desteklenir. Aşağıdaki kodu çalıştırmadan önce lütfen sisteminizde aşağıdaki önkoşulların bulunduğundan emin olun.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -115,7 +108,7 @@ PM> Install-Package Aspose.Cells
 
     {{< blocks/products/pf/agp/about-file-section >}}
 
-        {{< blocks/products/pf/agp/demobox sectionTitle="Çevrimiçi XLS Ayrıştırıcı Canlı Demoları" sectionDescription=" XLS belgeden metin ve görselleri hemen şimdi ziyaret ederek çıkarın.[Canlı Demolar web sitesi](https://products.aspose.app/cells/parser). Canlı demo aşağıdaki avantajlara sahiptir" >}}
+        {{< blocks/products/pf/agp/demobox sectionTitle="Çevrimiçi XLS Ayrıştırıcı Canlı Demoları" sectionDescription="XLS belgeden metin ve görselleri hemen şimdi ziyaret ederek çıkarın.[Canlı Demolar web sitesi](https://products.aspose.app/cells/parser). Canlı demo aşağıdaki avantajlara sahiptir" >}}
             {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Aspose API\'i indirmenize gerek yok." >}}
             {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Herhangi bir kod yazmaya gerek yok." >}}
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" XLS dosyalarınızı yüklemeniz yeterli." >}}
@@ -135,6 +128,7 @@ XLS uzantılı dosyalar Excel İkili Dosya Formatını temsil eder. Bu tür dosy
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/parser/ods/" name="ODS" description="OpenDocument Elektronik Tablo Dosyası" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/parser/xlsb/" name="XLSB" description="İkili Excel Çalışma Kitabı Dosyası" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/parser/xlsm/" name="XLSM" description="Elektronik Tablo Dosyası" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/parser/xlsx/" name="XLSX" description="OOXML Excel Dosyası" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

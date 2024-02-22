@@ -1,11 +1,11 @@
 ---
-title: C++ Excel Elektronik Tablo Programlama API - Aspose
+title: C++ Excel kütüphanesi - Aspose.Cells
 weight: 7140
 description: Aspose.Cells for C++ excel dosyalarını oluşturmak, onarmak, birleştirmek, ayrıştırmak ve dönüştürmek için kütüphane. Excel'i PDF, JSON, XML, TSV vb.'ye dönüştürün.
-keywords: [C++ Aspose.Cells Create repair parse merge convert JSON Excel XML PDF HTML TSV SQL ODS CSV TXT PNG JPEG and more formats]
+keywords: [C++ library execl Aspose.Cells Create repair parse merge convert JSON Excel XML PDF HTML TSV SQL ODS CSV TXT PNG JPEG and more formats]
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="C++ Excel Elektronik Tablo API\'leri" h2="Tam işlevli C++ uygulamalarında herhangi bir Microsoft Excel bağımlılığı olmadan elektronik tablolar oluşturun, okuyun, yazın ve ayrıştırın." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/headers/aspose_cells-for-cpp.svg" pfName="Aspose.Cells" subTitlepfName="for C++" downloadUrl="https://downloads.aspose.com/cells/cpp" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="C++ Excel kütüphanesi - Aspose.Cells" h2="Tam işlevli C++ uygulamalarında herhangi bir Microsoft Excel bağımlılığı olmadan elektronik tablolar oluşturun, okuyun, yazın ve ayrıştırın." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/headers/aspose_cells-for-cpp.svg" pfName="Aspose.Cells" subTitlepfName="for C++" downloadUrl="https://downloads.aspose.com/cells/cpp" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells" subTitlepfName="for C++" >}}
 
@@ -13,7 +13,7 @@ keywords: [C++ Aspose.Cells Create repair parse merge convert JSON Excel XML PDF
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
- Aspose.Cells for C++, Elektronik Tablo manipülasyonu için yerel bir C++ API'dir. Uygulamalar, elektronik tablonun Yerleşik ve Özel Özellikleri, Temalar, Stiller ve Biçimlendirme, Veri Doğrulama, Koşullu Biçimlendirme, Formülleri Okuma, Yazma ve Hesaplama, Satırları ve Sütunları Gruplandırma ve çok daha fazlasını Ofis Otomasyonuna güvenmeden oluşturma, dönüştürme ve düzenleme gibi işlevleri gerçekleştirebilir. veya Microsoft Excel. API, XLS, XLSX, XLSM ve XLSB gibi en sık kullanılan elektronik tablo formatlarını destekler.
+Aspose.Cells C++ kitaplığı, Elektronik Tablo manipülasyonuna yönelik yerel bir C++ kitaplığıdır. Uygulamalar, elektronik tablonun Yerleşik ve Özel Özellikleri, Temalar, Stiller ve Biçimlendirme, Veri Doğrulama, Koşullu Biçimlendirme, Formülleri Okuma, Yazma ve Hesaplama, Satırları ve Sütunları Gruplandırma ve çok daha fazlasını Ofis Otomasyonuna güvenmeden oluşturma, dönüştürme ve düzenleme gibi işlevleri gerçekleştirebilir. veya Microsoft Excel. API, en yaygın elektronik tablo formatlarını (örneğin XLS, XLSX, XLSM ve XLSB) ve diğer dosya formatı türlerini (örneğin PDF, XPS) ve en yaygın görüntü formatlarını (örneğin JPEG, PNG, BMP, TIFF , GIF, EMF, SVG).
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
@@ -41,7 +41,7 @@ keywords: [C++ Aspose.Cells Create repair parse merge convert JSON Excel XML PDF
  Pivot tablo
     </li>
     <li>
-Tablolar
+ Tablolar
     </li>
     <li>
  Grafikler
@@ -66,7 +66,7 @@ Tablolar
    </header>
    <ul>
     <li>
- Elektronik Tabloları Yükle/Kaydet
+Elektronik Tabloları Yükle/Kaydet
     </li>
     <li>
  Veri Manipülasyonu
@@ -168,7 +168,7 @@ Tablolar
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Desteklenen Dosya Formatları" description=" Aspose.Cells for C++ en sık kullanılan elektronik tabloyu destekler[dosya formatları](https://docs.aspose.com/cells/cpp/supported-file-formats/)." >}}
+{{< blocks/products/pf/carousel-item h3="Desteklenen Dosya Formatları" description=" Aspose.Cells C++ kitaplığı en sık kullanılan e-tabloyu destekler[dosya formatları](https://docs.aspose.com/cells/cpp/supported-file-formats/)." >}}
 <div class="diagram1 d2 d1-cplus">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -182,25 +182,37 @@ Tablolar
      <b>
  Microsoft Excel:
      </b>
- XLS, XLSX, XLSB, XLT, XLTX, XLTM, XLSM, XML
+ XLS, XLSX, XLSB, XLT, XLTX, XLTM, XLSM, XML, OTS
+    </li>
+    <li>
+     <b>
+ Açık ofis:
+     </b>
+     ODS
     </li>
     <li>
      <b>
  Metin:
      </b>
-     CSV, TSV
+     CSV, TSV, JSON
     </li>
     <li>
-     <strong>
- Belgeyi Aç:
-     </strong>
-     ODS
-    </li>
-    <li>
-     <strong>
- Diğerleri:
-     </strong>
+     <b>
+ Ağ:
+     </b>
      HTML, MHTML
+    </li>
+    <li>
+     <b>
+      Numbers:
+     </b>
+ Apple'ın iWork ofis paketi Numbers uygulama belgeleri
+    </li>
+    <li>
+     <b>
+ Diğerleri:
+     </b>
+ SXC, FODS, EPUB
     </li>
    </ul>
   </div>
@@ -209,26 +221,32 @@ Tablolar
    <header>
     <i class="fa fa-mail-forward">
     </i>
- Yalnızca Çıkış
+Yalnızca Çıkış
    </header>
    <ul>
     <li>
      <b>
- Excel:
+ Sabit Düzen:
      </b>
-     XLSM, XLTX, XLTM, XLAM
+ PDF, PDF/A, XPS
     </li>
     <li>
      <b>
- Sabit Düzen:
+ Veri Değişimi:
      </b>
-     PDF, XPS
-    </li>
+     DIF
+    </li>    
     <li>
      <b>
  Görüntüler:
      </b>
-     JPEG, PNG, BMP, GIF, EMF, SVG
+     JPEG, PNG, BMP, SVG, TIFF, EMF, GIF
+    </li>
+    <li>
+     <b>
+ Diğerleri:
+     </b>
+ MARKDOWN, SQL, XTHML
     </li>
    </ul>
   </div>
@@ -264,7 +282,7 @@ Tablolar
  <div class="row">
   <div class="container">
    <h2 class="pr-ft">
- Gelişmiş C++ Elektronik Tablo API Özellikler
+ Excel için C++ kitaplığının gelişmiş özellikleri - Aspose.Cells
    </h2>
    <!-- <p>Unlike similar products from other vendors, Aspose.Cells for C++ not only supports spreadsheet generation and other basic file formatting features, it also supports a number of advanced features. These advanced features make it much easier for developers to manipulate spreadsheet contents and format cells.</p> 
 
@@ -275,7 +293,7 @@ Tablolar
     <em class="fa fa-save ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-Yükle ve yükle akışları kullanarak Excel dosyalarını kaydetme
+ Yükle ve yükle akışları kullanarak Excel dosyalarını kaydetme
     </p>
    </div>
    <div class="col-lg-4">
@@ -373,7 +391,7 @@ Yükle ve yükle akışları kullanarak Excel dosyalarını kaydetme
     <em class="fa fa-tags ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Koşullu biçimlendirme kuralları oluşturma
+Koşullu biçimlendirme kuralları oluşturma
     </p>
    </div>
    <div class="col-lg-4">
@@ -399,10 +417,34 @@ Yükle ve yükle akışları kullanarak Excel dosyalarını kaydetme
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
+ sistem gereksinimleri
+    </h2>
+ Excel için Aspose.Cells C++ kitaplığı aşağıdaki 64 bit veya 32 bit işletim sistemlerini ve platformlarını destekler:
+		<table>  
+			<tr>
+					<td style="font-weight: bold; width:400px">İşletim sistemi</td>
+					<td style="font-weight: bold; width:400px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sürümler</td>
+				</tr>
+		  <tr>
+					<td>Microsoft Windows</td>
+					<td><ul><li>Windowsx86</li><li>Windowsx86_64</li></ul></td>
+		  </tr>
+		  <tr>
+					<td>Linux</td>
+					<td><ul><li>Linuxx86_64</li><li>ARM için Linux (aarch64)</li></ul></td>
+				</tr>
+		  <tr>
+					<td>Mac os işletim sistemi</td>
+					<td><ul><li>macOS 11 veya üzeri(arm64, x86_64)</li></ul></td>
+				</tr>
+		</table>
+   </div>
+   <div class="col-lg-12">
+    <h2 class="h2title">
  Microsoft Excel'e Sıfır Bağımlılık
     </h2>
     <p>
-Aspose API'ler tamamen bağımsızdır ve Microsoft Corporation'a bağlı değildir, yetkilendirilmez, desteklenmez veya başka şekilde onaylanmaz. Aspose.Cells for C++'in Excel belge formatlarıyla çalışması için makineye hiçbir zaman Microsoft Office veya Microsoft Excel'in yüklenmesine gerek yoktur.
+ Excel için Aspose.Cells C++ kitaplığı tamamen bağımsızdır ve Microsoft Corporation'a bağlı değildir, yetkilendirilmez, desteklenmez veya başka bir şekilde onaylanmaz. Aspose.Cells C++ kitaplığının, Excel belge formatlarıyla çalışması için makineye hiçbir zaman Microsoft Office veya Microsoft Excel'in yüklenmesine gerek yoktur.
     </p>
    </div>
    <div class="col-lg-12">
@@ -410,7 +452,7 @@ Aspose API'ler tamamen bağımsızdır ve Microsoft Corporation'a bağlı değil
  Basit ve Excel Formatlarının Güvenilir Dönüşümü
     </h2>
     <p>
- Aspose.Cells for C++, formata özgü ayrıntılar konusunda endişelenmeden Excel dosya formatlarını yükleme, düzenleme, yazma ve dönüştürme yeteneği sağlayan güçlü bir API kümesidir. API, yalnızca iki satır kodla e-tabloları desteklenen herhangi bir formattan desteklenen herhangi bir formata dönüştürmenize olanak tanır. Bu kadar basit!
+Aspose.Cells C++ kitaplığı, formata özgü ayrıntılar konusunda endişelenmeden Excel dosya formatlarını yükleme, düzenleme, yazma ve bunlar arasında dönüştürme olanağı sağlayan güçlü bir API kümesidir. API, yalnızca iki satır kodla e-tabloları desteklenen herhangi bir formattan desteklenen herhangi bir formata dönüştürmenize olanak tanır. Bu kadar basit!
     </p>
     <div class="codeblock" id="code">
      <h3>
@@ -434,7 +476,7 @@ Aspose API'ler tamamen bağımsızdır ve Microsoft Corporation'a bağlı değil
  Kapsamlı Elektronik Tablo Biçimlendirmesi
     </h2>
     <p>
-Aspose.Cells for C++, gelişmiş biçimlendirme özellikleri sunarak verilerinizi çalışma sayfasında nasıl sunmak istediğiniz konusunda size tam kontrol sağlar. Biçimlendirmeyi tek tek satır, sütun veya hücreye uygulayabilir veya bir hücre aralığı oluşturup buna biçimlendirme uygulayabilirsiniz. Ayrıca bir hücreye zengin metin ekleyebilir, kenarlıklar uygulayabilir, arka plan desenleri ayarlayabilir veya yazı tipiyle ilgili stil özelliklerini ayarlayabilirsiniz.
+ Aspose.Cells C++ kitaplığı, gelişmiş biçimlendirme özellikleri sunarak verilerinizi çalışma sayfasında nasıl sunmak istediğiniz konusunda size tam kontrol sağlar. Biçimlendirmeyi tek tek satır, sütun veya hücreye uygulayabilir veya bir hücre aralığı oluşturup buna biçimlendirme uygulayabilirsiniz. Ayrıca bir hücreye zengin metin ekleyebilir, kenarlıklar uygulayabilir, arka plan desenleri ayarlayabilir veya yazı tipiyle ilgili stil özelliklerini ayarlayabilirsiniz.
     </p>
    </div>
    <div class="col-lg-12">
@@ -442,7 +484,7 @@ Aspose.Cells for C++, gelişmiş biçimlendirme özellikleri sunarak verileriniz
  Verileri Grafiklerle Görselleştirin
     </h2>
     <p>
- Aspose.Cells for C++, Excel uygulamasının desteklediği tüm standart ve özel grafik türlerini dinamik olarak oluşturmak için kapsamlı bir API seti sunar. API ayrıca mevcut bir grafiğin veri kaynağını güncelleme ve yenileme olanağı da sağlar.
+Aspose.Cells C++ kitaplığı, Excel uygulamasının desteklediği tüm standart ve özel grafik türlerini dinamik olarak oluşturmak için kapsamlı bir API seti sunar. API ayrıca mevcut bir grafiğin veri kaynağını güncelleme ve yenileme olanağı da sağlar.
     </p>
    </div>
    <div class="col-lg-12">
@@ -450,7 +492,7 @@ Aspose.Cells for C++, gelişmiş biçimlendirme özellikleri sunarak verileriniz
  Çalışma Sayfalarını Görüntü Olarak Oluştur
     </h2>
     <p>
-Kitaplık, kendi işleme motorunu kullanarak Microsoft Excel'e en yüksek sadakatle işleme yapar. BMP, PNG, JPEG ve JPEG gibi popüler formatlardaki görüntülere çalışma sayfaları oluşturma gibi ayırt edici özellikler sunar. EMF. Sheet2Image işlemi esnektir, dolayısıyla ortaya çıkan görüntünün çözünürlüğünün kontrol edilmesi gibi seçeneklerin seçilmesine olanak tanır.
+ Aspose.Cells C++ kitaplığı, kendi işleme motorunu kullanarak Microsoft Excel'e en yüksek doğrulukla işler. BMP, TIFF, PNG, JPEG ve JPEG gibi popüler formatlardaki görüntülere çalışma sayfaları oluşturma gibi ayırt edici özellikler sunar. EMF. Sheet2Image işlemi esnektir, dolayısıyla ortaya çıkan görüntünün çözünürlüğünün kontrol edilmesi gibi seçeneklerin seçilmesine olanak tanır.
     </p>
    </div>
    <div class="col-lg-12">
@@ -458,7 +500,7 @@ Kitaplık, kendi işleme motorunu kullanarak Microsoft Excel'e en yüksek sadaka
  Sütunları ve Satırları Yönetme
     </h2>
     <p>
- Aspose.Cells for C++, satır ve sütun işlemlerini birçok yolla sunar. Satır yüksekliğini ve sütun genişliğini ayarlamak veya hücre boyutlarını içindeki içeriğe göre otomatik olarak yeniden boyutlandırmak çok kolaydır. API ayrıca satırları ve sütunları gruplandırma veya gruplandırmanın yanı sıra silme ve ekleme, gizleme veya gösterme araçlarını da sunar.
+Aspose.Cells C++ kitaplığı, satır ve sütunların çeşitli şekillerde işlenmesini sağlar. Satır yüksekliğini ve sütun genişliğini ayarlamak veya hücre boyutlarını içindeki içeriğe göre otomatik olarak yeniden boyutlandırmak çok kolaydır. API ayrıca satırları ve sütunları gruplandırma veya gruplandırmanın yanı sıra silme ve ekleme, gizleme veya gösterme araçlarını da sunar.
     </p>
    </div>
    <div class="col-lg-12">
@@ -466,7 +508,7 @@ Kitaplık, kendi işleme motorunu kullanarak Microsoft Excel'e en yüksek sadaka
  E-Tabloları Doğru Bir Şekilde PDF'e Dönüştürün
     </h2>
     <p>
-Excel C++ kitaplığı, orijinal belgeyle aynı kaliteyi korurken elektronik tabloları PDF biçimine dönüştürme olanağı sağlar. Bu gerçek, Aspose.Cells for C++'i, PDF gibi endüstri standardı formatlarda belge alışverişi yapmak isteyen kuruluşlar için mükemmel bir seçim haline getiriyor.
+ Aspose.Cells C++ kitaplığı, orijinal belgeyle aynı kaliteyi korurken elektronik tabloları PDF biçimine dönüştürme olanağı sağlar. Bu gerçek, Aspose.Cells C++ kütüphanesini, PDF gibi endüstri standardı formatlarda belge alışverişi yapmak isteyen kuruluşlar için mükemmel bir seçim haline getirir.
     </p>
    </div>
    <!-- 

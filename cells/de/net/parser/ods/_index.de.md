@@ -12,13 +12,7 @@ keywords: [C# Aspose.Cells., c# Extract text and images from ODS file., c# How t
 
 {{% blocks/products/pf/agp/content h2="So analysieren Sie die Datei ODS mit C#" %}}
 
- Um die Datei ODS zu analysieren, verwenden wir
- [Aspose.Cells for .NET](https://products.aspose.com/cells/net) 
- API, eine funktionsreiche, leistungsstarke und benutzerfreundliche Plattform zur Dokumentbearbeitung API für C#. Offen
- [NuGet](https://www.nuget.org/packages/aspose.cells) 
- Paketmanager, suchen Sie nach
- **Aspose.Cells** 
- und installieren. Sie können auch den folgenden Befehl über die Paket-Manager-Konsole verwenden.
+ Um die Datei ODS zu analysieren, verwenden wir[Aspose.Cells for .NET](https://products.aspose.com/cells/net) API, eine funktionsreiche, leistungsstarke und benutzerfreundliche Plattform zur Dokumentbearbeitung API für C#. Offen[NuGet](https://www.nuget.org/packages/aspose.cells) Paketmanager, suchen Sie nach**Aspose.Cells** und installieren. Sie können auch den folgenden Befehl über die Paket-Manager-Konsole verwenden.
 
 {{% blocks/products/pf/agp/code-block title="Befehl" offSpacer="true" %}}
 
@@ -38,9 +32,7 @@ PM> Install-Package Aspose.Cells
 
 {{% blocks/products/pf/agp/text %}}
 
- Ein einfaches Dokument-Parsing mit
- [Aspose.Cells for .NET](https://products.aspose.com/cells/net) 
- APIs können mit nur wenigen Codezeilen erstellt werden. Analysieren Sie Text und Bilder aus den Dateien Microsoft, Excel XLS, XLSX, XLSM, XLSB und OpenDocument ODS.
+ Ein einfaches Dokument-Parsing mit[Aspose.Cells for .NET](https://products.aspose.com/cells/net)APIs können mit nur wenigen Codezeilen erstellt werden. Analysieren Sie Text und Bilder aus den Dateien Microsoft, Excel XLS, XLSX, XLSM, XLSB und OpenDocument ODS.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -56,7 +48,7 @@ PM> Install-Package Aspose.Cells
 
 {{% blocks/products/pf/agp/text %}}
 
- Unsere APIs werden auf allen wichtigen Plattformen und Betriebssystemen unterstützt. Bevor Sie den folgenden Code ausführen, stellen Sie bitte sicher, dass auf Ihrem System die folgenden Voraussetzungen erfüllt sind.
+Unsere APIs werden auf allen wichtigen Plattformen und Betriebssystemen unterstützt. Bevor Sie den folgenden Code ausführen, stellen Sie bitte sicher, dass auf Ihrem System die folgenden Voraussetzungen erfüllt sind.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -115,14 +107,14 @@ PM> Install-Package Aspose.Cells
 
     {{< blocks/products/pf/agp/about-file-section >}}
 
-        {{< blocks/products/pf/agp/demobox sectionTitle="Online ODS Parser-Live-Demos" sectionDescription=" Extrahieren Sie jetzt Text und Bilder aus ODS-Dokumenten, indem Sie unsere besuchen[Live-Demos-Website](https://products.aspose.app/cells/parser). Die Live-Demo bietet folgende Vorteile" >}}
+        {{< blocks/products/pf/agp/demobox sectionTitle="Online ODS Parser-Live-Demos" sectionDescription="Extrahieren Sie jetzt Text und Bilder aus ODS-Dokumenten, indem Sie unsere besuchen[Live-Demos-Website](https://products.aspose.app/cells/parser). Die Live-Demo bietet folgende Vorteile" >}}
             {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Aspose API muss nicht heruntergeladen werden." >}}
             {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Es ist nicht nötig, Code zu schreiben." >}}
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Laden Sie einfach Ihre ODS-Dateien hoch." >}}
             {{< blocks/products/pf/agp/democard icon="fa-download" text=" Es wird sofort analysiert." >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="ODS" readMoreLink="https://docs.fileformat.com/spreadsheet/ods/" >}}
-Dateien mit der Erweiterung ODS stehen für das OpenDocument Spreadsheet Document-Format, das vom Benutzer bearbeitet werden kann. Daten werden in der ODF-Datei in Zeilen und Spalten gespeichert. Es ist ein XML-basiertes Format und einer von mehreren Untertypen in der Familie der Open Document Formats (ODF). Das Format ist als Teil der von OASIS veröffentlichten und verwalteten ODF 1.2-Spezifikationen spezifiziert. Eine Reihe von Anwendungen auf Windows sowie anderen Betriebssystemen können ODS-Dateien zum Bearbeiten und Bearbeiten öffnen, darunter Microsoft Excel, NeoOffice und LibreOffice. ODS-Dateien können von verschiedenen Anwendungen auch in andere Tabellenformate wie XLS, XLSX und andere konvertiert werden.
+ Dateien mit der Erweiterung ODS stehen für das OpenDocument Spreadsheet Document-Format, das vom Benutzer bearbeitet werden kann. Daten werden in der ODF-Datei in Zeilen und Spalten gespeichert. Es ist ein XML-basiertes Format und einer von mehreren Untertypen in der Familie der Open Document Formats (ODF). Das Format ist Teil der von OASIS veröffentlichten und gepflegten ODF 1.2-Spezifikationen. Eine Reihe von Anwendungen auf Windows sowie anderen Betriebssystemen können ODS-Dateien zum Bearbeiten und Bearbeiten öffnen, darunter Microsoft Excel, NeoOffice und LibreOffice. ODS-Dateien können von verschiedenen Anwendungen auch in andere Tabellenformate wie XLS, XLSX und andere konvertiert werden.
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
@@ -135,6 +127,7 @@ Dateien mit der Erweiterung ODS stehen für das OpenDocument Spreadsheet Documen
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/parser/xls/" name="XLS" description="Excel-Binärformat" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/parser/xlsb/" name="XLSB" description="Binäre Excel-Arbeitsmappendatei" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/parser/xlsm/" name="XLSM" description="Tabellenkalkulationsdatei" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/parser/xlsx/" name="XLSX" description="OOXML-Excel-Datei" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

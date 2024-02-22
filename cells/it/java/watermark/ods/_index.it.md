@@ -1,5 +1,5 @@
 ---
-title: Filigrana ODS documento via Java
+title:  Filigrana ODS documento via Java
 weight: 1040
 description: Codice di esempio Java per aggiungere o rimuovere la filigrana nel file ODS nell'ambiente runtime Java per applicazioni JSP/JSF e applicazioni desktop.
 keywords: [Java Aspose.Cells., Java add watermark to ods file., Java insert watermark to ods file., Java create watermark in ods file., remove watermark from ods file using Java., Java operate watermark in ods file., Java access watermark in ods file]
@@ -12,11 +12,7 @@ keywords: [Java Aspose.Cells., Java add watermark to ods file., Java insert wate
 
 {{% blocks/products/pf/agp/content h2="Come filigranare il file ODS utilizzando Java" %}}
 
- Per filigranare il file ODS, utilizzeremo
- [Aspose.Cells for Java](https://products.aspose.com/cells/java) 
- API che è una piattaforma di filigrana API for Java ricca di funzionalità, potente e facile da usare. Puoi scaricare la versione più recente direttamente da
- [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) 
- e installalo nel tuo progetto basato su Maven aggiungendo le seguenti configurazioni a pom.xml.
+ Per filigranare il file ODS, utilizzeremo[Aspose.Cells for Java](https://products.aspose.com/cells/java) API che è una piattaforma di filigrana API for Java ricca di funzionalità, potente e facile da usare. Puoi scaricare la versione più recente direttamente da[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) e installalo nel tuo progetto basato su Maven aggiungendo le seguenti configurazioni a pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Deposito" offSpacer="true" %}}
 
@@ -129,13 +125,13 @@ workbook.save(dataDir + "AWArtWToWorksheet_out.ods");
     {{< blocks/products/pf/agp/about-file-section >}}
 
         {{< blocks/products/pf/agp/demobox sectionTitle="Filigrana ODS tramite app online" sectionDescription=" Aggiungi la filigrana ai documenti ODS visitando il nostro[Sito web delle demo dal vivo](https://products.aspose.app/cells/watermark). La demo live presenta i seguenti vantaggi" >}}
-            {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Non è necessario scaricare o configurare nulla" >}}
+            {{< blocks/products/pf/agp/democard icon="fa-cogs" text="Non è necessario scaricare o configurare nulla" >}}
             {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Non è necessario scrivere alcun codice" >}}
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Basta caricare il file ODS, impostare la filigrana e premere il pulsante \"Aggiungi\"." >}}
             {{< blocks/products/pf/agp/democard icon="fa-download" text=" Ottieni immediatamente il collegamento per il download del file risultante" >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="ODS" readMoreLink="https://docs.fileformat.com/spreadsheet/ods/" >}}
-file con estensione ODS indicano il formato del documento OpenDocument Spreadsheet modificabile dall'utente. I dati vengono archiviati nel file ODF in righe e colonne. È un formato basato su XML ed è uno dei numerosi sottotipi della famiglia Open Document Formats (ODF). Il formato è specificato come parte delle specifiche ODF 1.2 pubblicate e mantenute da OASIS. Numerose applicazioni su Windows e altri sistemi operativi possono aprire file ODS per la modifica e la manipolazione, inclusi Microsoft Excel, NeoOffice e LibreOffice. I file ODS possono anche essere convertiti in altri formati di fogli di calcolo come XLS, XLSX e altri da diverse applicazioni.
+I file con estensione ODS indicano il formato del documento OpenDocument Spreadsheet modificabile dall'utente. I dati vengono archiviati nel file ODF in righe e colonne. È un formato basato su XML ed è uno dei numerosi sottotipi della famiglia Open Document Formats (ODF). Il formato è specificato come parte delle specifiche ODF 1.2 pubblicate e mantenute da OASIS. Numerose applicazioni su Windows e altri sistemi operativi possono aprire file ODS per la modifica e la manipolazione, inclusi Microsoft Excel, NeoOffice e LibreOffice. I file ODS possono anche essere convertiti in altri formati di fogli di calcolo come XLS, XLSX e altri da diverse applicazioni.
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
@@ -148,6 +144,7 @@ file con estensione ODS indicano il formato del documento OpenDocument Spreadshe
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/watermark/xls/" name="XLS" description="Formato binario Excel" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/watermark/xlsb/" name="XLSB" description="File binario della cartella di lavoro Excel" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/watermark/xlsm/" name="XLSM" description="File di foglio di calcolo" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/watermark/xlsx/" name="XLSX" description="File Excel OOXML" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

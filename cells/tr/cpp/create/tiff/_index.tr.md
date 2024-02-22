@@ -1,6 +1,6 @@
 ---
 title: TIFF oluştur - C++'de TIFF dosyası oluştur
-description: Aspose Excel'de. C++ Aspose.Cells ile hızlı ve kolay bir şekilde TIFF Dosyası oluşturun. C++'i kullanarak TIFF dosyası oluşturun. C++'de TIFF oluşturun. C++ TIFF Oluşturucu.
+description:  Aspose Excel'de. C++ Aspose.Cells ile hızlı ve kolay bir şekilde TIFF Dosyası oluşturun. C++'i kullanarak TIFF dosyası oluşturun. C++'de TIFF oluşturun. C++ TIFF Oluşturucu.
 keywords: [Aspose Excel., C++ Aspose.Cells., C++ Create TIFF file., Generate TIFF file in C++., Create TIFF file using C++., Write data to TIFF file via C++., Create a TIFF file in C++., C++ Generate a TIFF file., C++ TIFF Creater]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -11,7 +11,7 @@ keywords: [Aspose Excel., C++ Aspose.Cells., C++ Create TIFF file., Generate TIF
 
 {{% blocks/products/pf/agp/content h2="C++ Kullanarak TIFF Dosyası Oluşturun" %}}
 
- TIFF dosyası nasıl oluşturulur? Aspose.Cells for C++ kütüphanesi ile birkaç satır kodla programlı olarak TIFF dosyasını kolayca oluşturabilirsiniz.[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) tüm Excel dosyalarını oluşturma, değiştirme, dönüştürme, işleme ve yazdırma becerisine sahip çapraz platform uygulamaları oluşturma yeteneğine sahiptir. C++ Excel API yalnızca elektronik tablo formatları arasında dönüştürme yapmakla kalmaz, aynı zamanda Excel dosyalarını, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT ve daha fazlasını görüntü olarak işleyebilir, böylece endüstri standardı formatlarda belge alışverişi yapmak için mükemmel bir seçim haline gelir. En son sürümünü doğrudan indirebilirsiniz, sadece açın[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) paket yöneticisi, Aspose.Cells.Cpp'yi arayın ve yükleyin. Aşağıdaki komutu Paket Yönetici Konsolundan da kullanabilirsiniz.
+ TIFF dosyası nasıl oluşturulur? Aspose.Cells for C++ kütüphanesi ile birkaç satır kodla programlı olarak TIFF dosyasını kolayca oluşturabilirsiniz.[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) tüm Excel dosyalarını oluşturma, değiştirme, dönüştürme, işleme ve yazdırma becerisine sahip çapraz platform uygulamaları oluşturma yeteneğine sahiptir. C++ Excel API yalnızca elektronik tablo formatları arasında dönüştürme yapmakla kalmaz, aynı zamanda Excel dosyalarını, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT ve daha fazlasını görüntü olarak işleyebilir, böylece endüstri standardı formatlarda belge alışverişi yapmak için mükemmel bir seçim haline gelir. En son sürümünü doğrudan indirebilirsiniz, sadece açın[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/)paket yöneticisi, Aspose.Cells.Cpp'yi arayın ve yükleyin. Aşağıdaki komutu Paket Yönetici Konsolundan da kullanabilirsiniz.
 
 {{% blocks/products/pf/agp/code-block title="Emretmek" offSpacer="true" %}}
 
@@ -30,16 +30,16 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% blocks/products/pf/agp/text %}}
 
- Geliştiricilerin, yalnızca birkaç satır kodla veri işlemeye yönelik çalışan raporlama uygulamaları içinde TIFF dosyalarını oluşturması, yüklemesi, değiştirmesi ve dönüştürmesi kolaydır.
+ Geliştiricilerin yalnızca birkaç satır kodla veri işlemeye yönelik çalışan raporlama uygulamaları içinde TIFF dosyalarını oluşturması, yüklemesi, değiştirmesi ve dönüştürmesi kolaydır.
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Workbook sınıfının bir nesnesini oluşturun.
 1.  İlk sayfayı bir Çalışma Sayfası nesnesine alın.
 1.  Çalışma sayfasının hücrelerini Cells nesnesine almak için Worksheet.GetCells() yöntemini kullanın.
-1. Çalışma sayfasının istenen hücresine Cell nesnesine erişmek için Cells.Get() yöntemini kullanın.
+1.  Çalışma sayfasının istenen hücresine Cell nesnesine erişmek için Cells.Get() yöntemini kullanın.
 1.  Hücreye değer girmek için Cell.PutValue() yöntemini kullanın.
-1. Save() yöntemini kullanarak çalışma kitabını .tiff dosyası olarak kaydedin.
+1.  Save() yöntemini kullanarak çalışma kitabını .tiff dosyası olarak kaydedin.
 
 {{% blocks/products/pf/agp/code-block title="Örnek kod, C++\'de TIFF dosyasının nasıl oluşturulacağını gösterir." offSpacer="" %}}
 
@@ -70,7 +70,6 @@ cell01.PutValue(u"ColumnB");
 cell10.PutValue(u"ValueA");
 cell11.PutValue(u"ValueB");
 
-//TIFF format is not supported
 // Save workbook to resultFile folder
 wkb.Save(u"created_one.tiff");
 

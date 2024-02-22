@@ -12,7 +12,7 @@ description: PHP Excel 스프레드시트 API 읽기 쓰기 및 변환 XLS XLSX 
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
- Aspose.Cells for PHP via Java은 확장 가능하고 기능이 풍부한 Excel 스프레드시트 관리 및 처리 API입니다. 응용 프로그램은 스프레드시트 형식 변환, 차트 관리 및 렌더링, 수식 구현, 가장 세부적인 수준의 워크시트 스타일 지정 등을 수행할 수 있습니다. API은 XLS, XLSX, ODS, SpreadsheetML, CSV, Tab Delimited, HTML/MHTML, PDF, XPS 및 기타 형식을 지원합니다. 개발자는 JavaBridge를 사용하는 동안 PHP 애플리케이션에서 Excel 파일을 생성, 편집, 변환 및 렌더링하는 기능을 쉽게 추가할 수 있습니다.
+Aspose.Cells for PHP via Java은 확장 가능하고 기능이 풍부한 Excel 스프레드시트 관리 및 처리 API입니다. 응용 프로그램은 스프레드시트 형식 변환, 차트 관리 및 렌더링, 수식 구현, 가장 세부적인 수준의 워크시트 스타일 지정 등을 수행할 수 있습니다. API은 XLS, XLSX, ODS, SpreadsheetML, CSV, Tab Delimited, HTML/MHTML, PDF, XPS 및 기타 형식을 지원합니다. 개발자는 JavaBridge를 사용하는 동안 PHP 애플리케이션에서 Excel 파일을 생성, 편집, 변환 및 렌더링하는 기능을 쉽게 추가할 수 있습니다.
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
@@ -179,7 +179,7 @@ description: PHP Excel 스프레드시트 API 읽기 쓰기 및 변환 XLS XLSX 
      <b>
  Microsoft 엑셀:
      </b>
- XLS, XLSX, XLSB, XLTX, XLTM, XLSM, XML
+ XLS, XLSX, XLSB, XLT, XLTX, XLTM, XLSM, XML, OTS
     </li>
     <li>
      <b>
@@ -191,13 +191,25 @@ description: PHP Excel 스프레드시트 API 읽기 쓰기 및 변환 XLS XLSX 
      <b>
  텍스트:
      </b>
- CSV, 탭으로 구분, TXT
+     CSV, TSV, JSON
     </li>
     <li>
      <b>
  편물:
      </b>
      HTML, MHTML
+    </li>
+    <li>
+     <b>
+      Numbers:
+     </b>
+ Apple의 iWork 오피스 제품군 Numbers 앱 문서
+    </li>
+    <li>
+     <b>
+ 기타:
+     </b>
+ SXC, FODS, EPUB
     </li>
    </ul>
   </div>
@@ -206,20 +218,32 @@ description: PHP Excel 스프레드시트 API 읽기 쓰기 및 변환 XLS XLSX 
    <header>
     <i class="fa fa-mail-forward">
     </i>
- 출력만
+출력만
    </header>
    <ul>
     <li>
      <b>
  고정 레이아웃:
      </b>
-     PDF, XPS
+ PDF, PDF/A, XPS
     </li>
+    <li>
+     <b>
+ 데이터 교환:
+     </b>
+     DIF
+    </li>    
     <li>
      <b>
  이미지:
      </b>
      JPEG, PNG, BMP, SVG, TIFF, EMF, GIF
+    </li>
+    <li>
+     <b>
+ 기타:
+     </b>
+ MARKDOWN, SQL, XTHML
     </li>
    </ul>
   </div>
@@ -264,7 +288,7 @@ description: PHP Excel 스프레드시트 API 읽기 쓰기 및 변환 XLS XLSX 
     <em class="fa fa-support ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- CSV, 탭으로 구분된 &amp; HTML 형식
+CSV, 탭으로 구분된 &amp; HTML 형식
     </p>
    </div>
    <div class="col-lg-4">
@@ -370,7 +394,7 @@ description: PHP Excel 스프레드시트 API 읽기 쓰기 및 변환 XLS XLSX 
  Excel 파일을 XPS, PDF &amp; HTML
     </h2>
     <p>
-Aspose.Cells for PHP via Java API은 Excel 파일을 XPS, XPS 및 HTML 형식으로 변환하고 최고의 시각적 충실도를 유지할 수 있습니다. 변환 프로세스는 안정적이며 개발자는 단 몇 줄만으로 필요한 형식을 얻을 수 있습니다.
+ Aspose.Cells for PHP via Java API은 Excel 파일을 XPS, XPS 및 HTML 형식으로 변환하고 최고의 시각적 충실도를 유지할 수 있습니다. 변환 프로세스는 안정적이며 개발자는 단 몇 줄만으로 필요한 형식을 얻을 수 있습니다.
     </p>
     <div class="codeblock" id="code">
      <h3>
@@ -396,7 +420,7 @@ $wkbk-&gt;save("output.html", SaveFormat::HTML);</code></pre>
  Excel 스프레드시트 렌더링 &amp; PDF &amp; 이미지
     </h2>
     <p>
- Aspose.Cells for PHP via Java에는 Microsoft Excel에 가장 충실하게 렌더링하도록 특별히 설계된 자체 렌더링 엔진이 있습니다. Aspose.Cells for PHP via Java을 사용하면서 전체 스프레드시트, 개별 워크시트 &amp; 차트를 여러 이미지 및 amp; 고정 레이아웃 형식.
+Aspose.Cells for PHP via Java에는 Microsoft Excel에 가장 충실하게 렌더링하도록 특별히 설계된 자체 렌더링 엔진이 있습니다. Aspose.Cells for PHP via Java을 사용하면서 전체 스프레드시트, 개별 워크시트 &amp; 차트를 여러 이미지 및 amp; 고정 레이아웃 형식.
     </p>
    </div>
    <div class="col-lg-12">
@@ -404,7 +428,7 @@ $wkbk-&gt;save("output.html", SaveFormat::HTML);</code></pre>
  유연한 워크시트 표시 옵션
     </h2>
     <p>
-Aspose.Cells for PHP via Java은 워크시트의 페이지 설정을 완벽하게 제어할 수 있으므로 페이지 나누기, 페이지 방향, 크기 조정, 용지 크기, 머리글/바닥글 및 amp; 확대/축소 수준. 고정 창 &amp;을 사용하여 데이터 가시성을 제어할 수도 있습니다. 귀하의 응용 프로그램 요구 사항에 맞게 인쇄 영역을 선택하십시오.
+ Aspose.Cells for PHP via Java은 워크시트의 페이지 설정을 완벽하게 제어할 수 있으므로 페이지 나누기, 페이지 방향, 크기 조정, 용지 크기, 머리글/바닥글 및 amp; 확대/축소 수준. 고정 창 &amp;을 사용하여 데이터 가시성을 제어할 수도 있습니다. 귀하의 응용 프로그램 요구 사항에 맞게 인쇄 영역을 선택하십시오.
     </p>
    </div>
    <div class="col-lg-12">
@@ -412,7 +436,7 @@ Aspose.Cells for PHP via Java은 워크시트의 페이지 설정을 완벽하�
  효율적이고 견고하며 신뢰할 수 있는 수식 계산 엔진
     </h2>
     <p>
- Aspose.Cells for PHP via Java에는 거의 모든 표준 및 고급 Microsoft Excel 수식 및 기능을 지원하는 강력한 수식 계산 엔진이 장착되어 있습니다. 내장 또는 추가 유형, 배열 및 R1C1 참조 스타일 수식의 결과를 읽고 설정하고 계산할 수 있습니다.
+Aspose.Cells for PHP via Java에는 거의 모든 표준 및 고급 Microsoft Excel 수식 및 기능을 지원하는 강력한 수식 계산 엔진이 장착되어 있습니다. 내장 또는 추가 유형, 배열 및 R1C1 참조 스타일 수식의 결과를 읽고 설정하고 계산할 수 있습니다.
     </p>
    </div>
    <div class="col-lg-12">
@@ -423,7 +447,7 @@ Aspose.Cells for PHP via Java은 워크시트의 페이지 설정을 완벽하�
  라이브러리는 매우 유연하여 스프레드시트에 모든 종류의 시각적 효과를 제공할 수 있을 뿐만 아니라 워크시트, 행, 열 또는 셀에 서식을 적용하고, 속성으로 글꼴을 설정하고, 셀 스타일을 정의하고 &amp; 숫자 형식, 서식 있는 텍스트를 추가하고 조건부 서식 규칙을 정의합니다.
     </p>
     <p>
-마찬가지로, 전문적인 모양과 이해하기 쉬운 차트와 그래픽은 필수적인 부분입니다. Aspose.Cells for PHP via Java API는 모든 유형의 표준 및 사용자 정의 차트를 생성하고 조작할 수 있습니다. 또한 셀에 다양한 유형의 그리기 개체를 쉽게 추가할 수 있습니다.
+ 마찬가지로, 전문적인 모양과 이해하기 쉬운 차트와 그래픽은 필수적인 부분입니다. Aspose.Cells for PHP via Java API는 모든 유형의 표준 및 사용자 정의 차트를 생성하고 조작할 수 있습니다. 또한 셀에 다양한 유형의 그리기 개체를 쉽게 추가할 수 있습니다.
     </p>
    </div>
   </div>

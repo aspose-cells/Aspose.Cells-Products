@@ -13,11 +13,11 @@ keywords: [Java Aspose.Cells Create repair parse merge convert JSON Excel XML PD
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
- Aspose.Cells for Java は、受賞歴のある Excel スプレッドシート処理 API で、開発者が読み取り、書き込み、操作、変換および変換を行う機能を組み込むことができます。 Microsoft Excel アプリケーションを必要とせずに、独自のアプリケーションでスプレッドシートを印刷します。
+Aspose.Cells for Java は、受賞歴のある Excel スプレッドシート処理 API で、開発者が読み取り、書き込み、操作、変換および変換を行う機能を組み込むことができます。 Microsoft Excel アプリケーションを必要とせずに、独自のアプリケーションでスプレッドシートを印刷します。
 </p>
 
 <p>
-Aspose.Cells for Java は成熟した機能豊富なライブラリであり、市販されている他のコンポーネントの単純なデータ エクスポート機能をはるかに超えた多くの機能を提供します。 API は、データのエクスポート、最も詳細なレベルでのスプレッドシートのフォーマット、インポートおよびデータのエクスポートを行う機能を提供します。画像のエクスポート、グラフの作成、ピボットテーブル、適用と数式計算エンジンを使用して複雑な数式を計算し、Excel データをストリーミングし、結果をさまざまな形式で保存します。
+ Aspose.Cells for Java は成熟した機能豊富なライブラリであり、市販されている他のコンポーネントの単純なデータ エクスポート機能をはるかに超えた多くの機能を提供します。 API は、データのエクスポート、最も詳細なレベルでのスプレッドシートのフォーマット、インポートおよびデータのエクスポートを行う機能を提供します。画像のエクスポート、グラフの作成、ピボットテーブル、適用と数式計算エンジンを使用して複雑な数式を計算し、Excel データをストリーミングし、結果をさまざまな形式で保存します。
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
@@ -175,7 +175,7 @@ JSP/JSFアプリケーション
      <b>
 Microsoft エクセル:
      </b>
-XLS、XLT、XLSX、XLSB、XLTX、XLTM、XLSM、XML
+ XLS、XLSX、XLSB、XLT、XLTX、XLTM、XLSM、XML、OTS
     </li>
     <li>
      <b>
@@ -187,7 +187,7 @@ XLS、XLT、XLSX、XLSB、XLTX、XLTM、XLSM、XML
      <b>
 文章：
      </b>
-     CSV, TSV
+     CSV, TSV, JSON
     </li>
     <li>
      <b>
@@ -199,10 +199,13 @@ XLS、XLT、XLSX、XLSB、XLTX、XLTM、XLSM、XML
      <b>
       Numbers:
      </b>
-Apple の iWork オフィス スイート Numbers アプリのドキュメント
+ Apple の iWork オフィス スイート Numbers アプリのドキュメント
     </li>
     <li>
-     SXC, FODS
+     <b>
+その他:
+     </b>
+ SXC、FODS、EPUB
     </li>
    </ul>
   </div>
@@ -225,15 +228,18 @@ Apple の iWork オフィス スイート Numbers アプリのドキュメント
 データ交換:
      </b>
      DIF
-    </li>
+    </li>    
     <li>
      <b>
 画像:
      </b>
-     JPEG, PNG, BMP, SVG, TIFF, GIF, EMF
+     JPEG, PNG, BMP, SVG, TIFF, EMF, GIF
     </li>
     <li>
-     MARKDOWN
+     <b>
+その他:
+     </b>
+ MARKDOWN、SQL、XTHML
     </li>
    </ul>
   </div>
@@ -427,7 +433,7 @@ Aspose.Cells for Java は、グラフから画像、PDF、ワークシートか�
     </p>
     <div class="codeblock" id="code">
      <h3>
-Excel グラフを画像としてレンダリングし、 PDF - Java
+ Excel グラフを画像としてレンダリングし、 PDF - Java
      </h3>
      <pre><code class="java">// load spreadsheet containing the chart
 

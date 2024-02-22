@@ -1,7 +1,7 @@
 ---
 title:  XLSB ドキュメント via Java 内のテキストを検索して置換します
 weight: 4590
-description: JSP/JSF アプリケーションおよびデスクトップ アプリケーション用の Java ランタイム環境上の XLSB ファイル内の機密情報を編集するための Java サンプル コード。
+description: JSP/JSF アプリケーションおよびデスクトップ アプリケーション用の Java ランタイム環境の XLSB ファイル内の機密情報を編集するための Java サンプル コード。
 keywords: [Java Aspose.Cells., Java Search and replace text in XLSB file., Java redact XLSB file., Java edit XLSB file., Java XLSB file redaction., Java Search and replace string in XLSB file]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -12,11 +12,7 @@ keywords: [Java Aspose.Cells., Java Search and replace text in XLSB file., Java 
 
 {{% blocks/products/pf/agp/content h2="Javaを使用してXLSBファイルを編集する方法" %}}
 
-XLSB ファイルを編集するには、次を使用します。
- [Aspose.Cells for Java](https://products.aspose.com/cells/java) 
-API は、機能が豊富で強力で使いやすい編集プラットフォームです API for Java。最新バージョンはから直接ダウンロードできます。
- [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) 
-次の構成を pom.xml に追加して、Maven ベースのプロジェクト内にインストールします。
+XLSB ファイルを編集するには、次を使用します。[Aspose.Cells for Java](https://products.aspose.com/cells/java) API は、機能が豊富で強力で使いやすい編集プラットフォームです API for Java。最新バージョンはから直接ダウンロードできます。[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells)次の構成を pom.xml に追加して、Maven ベースのプロジェクト内にインストールします。
 
 {{% blocks/products/pf/agp/code-block title="リポジトリ" offSpacer="true" %}}
 
@@ -54,13 +50,11 @@ API は、機能が豊富で強力で使いやすい編集プラットフォー�
 
 {{% blocks/products/pf/agp/text %}}
 
-基本的なドキュメントの検索と、コンテンツ、コメント、メタデータ内のテキストの置換
- [Aspose.Cells for Java](https://products.aspose.com/cells/java) 
-API はわずか数行のコードで実行できます。
+基本的なドキュメントの検索と、コンテンツ、コメント、メタデータ内のテキストの置換[Aspose.Cells for Java](https://products.aspose.com/cells/java)API はわずか数行のコードで実行できます。
 
 {{% /blocks/products/pf/agp/text %}}
 
-XLSB ファイルをロードします。
++ XLSB ファイルをロードします。
 + 関連するシートを選択します。
 + FindOptions を定義して指定します。
 + 検索したい範囲を指定
@@ -74,11 +68,11 @@ XLSB ファイルをロードします。
 
 {{% blocks/products/pf/agp/text %}}
 
-Aspose.Cells for Java は、すべての主要なプラットフォームとオペレーティング システムでサポートされています。次の前提条件を満たしていることを確認してください。
+ Aspose.Cells for Java は、すべての主要なプラットフォームとオペレーティング システムでサポートされています。次の前提条件を満たしていることを確認してください。
 
 {{% /blocks/products/pf/agp/text %}}
 
--  Microsoft Windows、または JSP/JSF アプリケーションおよびデスクトップ アプリケーション用の Java ランタイム環境と互換性のある OS。
+- Microsoft Windows、または JSP/JSF アプリケーションおよびデスクトップ アプリケーション用の Java ランタイム環境と互換性のある OS。
 -  Aspose.Cells for Java の最新バージョンを次から直接入手します。
  [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells)  .
 
@@ -141,7 +135,7 @@ workbook.save(dataDir + "output.xlsb");
 {{< blocks/products/pf/agp/about-file-section >}}
 
     {{< blocks/products/pf/agp/demobox sectionTitle="オンライン XLSB 編集ライブデモ" sectionDescription="XLSB ドキュメントのコンテンツ、コメント、またはメタデータのテキストを今すぐ検索して置換するには、次のサイトにアクセスしてください。[ライブデモ Web サイト](https://products.aspose.app/cells/redaction)。ライブデモには次の利点があります" >}}
-        {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Aspose API をダウンロードする必要はありません。" >}}
+        {{< blocks/products/pf/agp/democard icon="fa-cogs" text="Aspose API をダウンロードする必要はありません。" >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text="コードを記述する必要はありません。" >}}
         {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" XLSB ファイルをアップロードするだけです。" >}}
         {{< blocks/products/pf/agp/democard icon="fa-download" text="即座に編集されます。" >}}
@@ -161,6 +155,7 @@ XLSB ファイル形式は、Excel ワークブックのコンテンツを指定
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/redaction/ods/" name="ODS" description="OpenDocument スプレッドシート ファイル" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/redaction/xls/" name="XLS" description="Excel バイナリ形式" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/redaction/xlsm/" name="XLSM" description="スプレッドシート ファイル" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/redaction/xlsx/" name="XLSX" description="OOXML Excel ファイル" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

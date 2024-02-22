@@ -12,13 +12,7 @@ keywords: [C# Aspose.Cells., c# Search and replace text in XLSM file., c# redact
 
 {{% blocks/products/pf/agp/content h2="如何使用 C# 编辑 XLSM 文件" %}}
 
-为了编辑 XLSM 文件，我们将使用
- [Aspose.Cells for .NET](https://products.aspose.com/cells/net) 
-API这是一个功能丰富、强大且易于使用的文档操作API，适用于C#平台。打开
- [NuGet](https://www.nuget.org/packages/aspose.cells) 
-包管理器，搜索
- **Aspose.Cells** 
-并安装。您还可以从包管理器控制台使用以下命令。
+为了编辑 XLSM 文件，我们将使用[Aspose.Cells for .NET](https://products.aspose.com/cells/net)API这是一个功能丰富、强大且易于使用的文档操作API，适用于C#平台。打开[NuGet](https://www.nuget.org/packages/aspose.cells)包管理器，搜索**Aspose.Cells**并安装。您还可以从包管理器控制台使用以下命令。
 
 {{% blocks/products/pf/agp/code-block title="命令" offSpacer="true" %}}
 
@@ -38,9 +32,7 @@ PM> Install-Package Aspose.Cells
 
 {{% blocks/products/pf/agp/text %}}
 
-基本文档搜索并将内容、评论或元数据中的文本替换为
- [Aspose.Cells for .NET](https://products.aspose.com/cells/net) 
-只需几行代码即可完成 API。
+基本文档搜索并将内容、评论或元数据中的文本替换为[Aspose.Cells for .NET](https://products.aspose.com/cells/net)只需几行代码即可完成 API。
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -61,7 +53,7 @@ PM> Install-Package Aspose.Cells
 
 {{% /blocks/products/pf/agp/text %}}
 
-- Microsoft Windows 或具有 .NET Framework、.NET Core、Mono 或 Xamarin 平台的兼容操作系统
+-  Microsoft Windows 或具有 .NET Framework、.NET Core、Mono 或 Xamarin 平台的兼容操作系统
 - 开发环境如Microsoft Visual Studio
 - 在项目中添加对 Aspose.Cells for .NET DLL 的引用 - 使用上面的下载按钮从 NuGet 安装
 
@@ -138,6 +130,7 @@ wb.Save("e:\test2\output.xlsm");
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/redaction/ods/" name="ODS" description="OpenDocument 电子表格文件" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/redaction/xls/" name="XLS" description="Excel 二进制格式" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/redaction/xlsb/" name="XLSB" description="二进制 Excel 工作簿文件" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/redaction/xlsx/" name="XLSX" description="OOXML Excel 文件" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

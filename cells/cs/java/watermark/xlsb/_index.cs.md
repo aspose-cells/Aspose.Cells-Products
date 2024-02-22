@@ -1,5 +1,5 @@
 ---
-title: Vodoznak XLSB dokument via Java
+title:  Vodoznak XLSB dokument via Java
 weight: 5900
 description: Java ukázkový kód pro přidání nebo odstranění vodoznaku do souboru XLSB v Java Runtime Environment pro JSP/JSF aplikace a desktopové aplikace.
 keywords: [Java Aspose.Cells., Java add watermark to xlsb file., Java insert watermark to xlsb file., Java create watermark in xlsb file., remove watermark from xlsb file using Java., Java operate watermark in xlsb file., Java access watermark in xlsb file]
@@ -12,11 +12,7 @@ keywords: [Java Aspose.Cells., Java add watermark to xlsb file., Java insert wat
 
 {{% blocks/products/pf/agp/content h2="Jak vytvořit vodoznak XLSB pomocí souboru Java" %}}
 
- Abychom mohli vodoznak XLSB souboru, použijeme
- [Aspose.Cells for Java](https://products.aspose.com/cells/java) 
- API, což je funkčně bohatá, výkonná a snadno použitelná platforma pro vodoznaky API for Java. Jeho nejnovější verzi si můžete stáhnout přímo z
- [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) 
- a nainstalujte jej do svého projektu založeného na Maven přidáním následujících konfigurací do souboru pom.xml.
+ Abychom mohli vodoznak XLSB souboru, použijeme[Aspose.Cells for Java](https://products.aspose.com/cells/java) API, což je funkčně bohatá, výkonná a snadno použitelná platforma pro vodoznaky API for Java. Jeho nejnovější verzi si můžete stáhnout přímo z[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) a nainstalujte jej do svého projektu založeného na Maven přidáním následujících konfigurací do souboru pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Úložiště" offSpacer="true" %}}
 
@@ -129,7 +125,7 @@ workbook.save(dataDir + "AWArtWToWorksheet_out.xlsb");
     {{< blocks/products/pf/agp/about-file-section >}}
 
         {{< blocks/products/pf/agp/demobox sectionTitle="Vodoznak XLSB prostřednictvím online aplikace" sectionDescription=" Přidejte vodoznak do dokumentů XLSB návštěvou našeho webu[Webová stránka živé ukázky](https://products.aspose.app/cells/watermark). Živé demo má následující výhody" >}}
-            {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Není třeba nic stahovat ani nastavovat" >}}
+            {{< blocks/products/pf/agp/democard icon="fa-cogs" text="Není třeba nic stahovat ani nastavovat" >}}
             {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Není třeba psát žádný kód" >}}
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Stačí nahrát svůj soubor XLSB, nastavit vodoznak a stisknout tlačítko \"Přidat\"." >}}
             {{< blocks/products/pf/agp/democard icon="fa-download" text=" Okamžitě získejte odkaz ke stažení výsledného souboru" >}}
@@ -148,6 +144,7 @@ Formát souboru XLSB určuje formát binárního souboru aplikace Excel, což je
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/watermark/ods/" name="ODS" description="Soubor tabulkového procesoru OpenDocument" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/watermark/xls/" name="XLS" description="Binární formát Excel" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/watermark/xlsm/" name="XLSM" description="Soubor tabulky" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/watermark/xlsx/" name="XLSX" description="Soubor Excel OOXML" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

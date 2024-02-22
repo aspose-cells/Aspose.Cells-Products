@@ -12,13 +12,7 @@ keywords: [C# Aspose.Cells., c# Search and replace text in XLSB file., c# redact
 
 {{% blocks/products/pf/agp/content h2="Πώς να διορθώσετε το αρχείο XLSB χρησιμοποιώντας το C#" %}}
 
- Για να επεξεργαστούμε το αρχείο XLSB, θα χρησιμοποιήσουμε
- [Aspose.Cells for .NET](https://products.aspose.com/cells/net) 
- API που είναι μια πλούσια σε χαρακτηριστικά, ισχυρή και εύκολη στη χρήση πλατφόρμα χειρισμού εγγράφων API για C#. Ανοιξε
- [NuGet](https://www.nuget.org/packages/aspose.cells) 
- διαχειριστής πακέτων, αναζητήστε
- **Aspose.Cells** 
- και εγκαταστήστε. Μπορείτε επίσης να χρησιμοποιήσετε την ακόλουθη εντολή από την Κονσόλα Package Manager.
+ Για να επεξεργαστούμε το αρχείο XLSB, θα χρησιμοποιήσουμε[Aspose.Cells for .NET](https://products.aspose.com/cells/net) API που είναι μια πλούσια σε χαρακτηριστικά, ισχυρή και εύκολη στη χρήση πλατφόρμα χειρισμού εγγράφων API για C#. Ανοιξε[NuGet](https://www.nuget.org/packages/aspose.cells) διαχειριστής πακέτων, αναζητήστε**Aspose.Cells** και εγκαταστήστε. Μπορείτε επίσης να χρησιμοποιήσετε την ακόλουθη εντολή από την Κονσόλα Package Manager.
 
 {{% blocks/products/pf/agp/code-block title="Εντολή" offSpacer="true" %}}
 
@@ -38,9 +32,7 @@ PM> Install-Package Aspose.Cells
 
 {{% blocks/products/pf/agp/text %}}
 
- Μια βασική αναζήτηση εγγράφων και αντικατάσταση κειμένου σε περιεχόμενα, σχόλια ή μεταδεδομένα με
- [Aspose.Cells for .NET](https://products.aspose.com/cells/net) 
- Τα API μπορούν να γίνουν με λίγες μόνο γραμμές κώδικα.
+ Μια βασική αναζήτηση εγγράφων και αντικατάσταση κειμένου σε περιεχόμενα, σχόλια ή μεταδεδομένα με[Aspose.Cells for .NET](https://products.aspose.com/cells/net) Τα API μπορούν να γίνουν με λίγες μόνο γραμμές κώδικα.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -57,7 +49,7 @@ PM> Install-Package Aspose.Cells
 
 {{% blocks/products/pf/agp/text %}}
 
- Τα API μας υποστηρίζονται σε όλες τις μεγάλες πλατφόρμες και λειτουργικά συστήματα. Πριν εκτελέσετε τον παρακάτω κώδικα, βεβαιωθείτε ότι έχετε τις ακόλουθες προϋποθέσεις στο σύστημά σας.
+Τα API μας υποστηρίζονται σε όλες τις μεγάλες πλατφόρμες και λειτουργικά συστήματα. Πριν εκτελέσετε τον παρακάτω κώδικα, βεβαιωθείτε ότι έχετε τις ακόλουθες προϋποθέσεις στο σύστημά σας.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -122,7 +114,7 @@ wb.Save("e:\test2\output.xlsb");
             {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Δεν χρειάζεται να κατεβάσετε το Aspose API." >}}
             {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Δεν χρειάζεται να γράψετε κανέναν κώδικα." >}}
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Απλώς ανεβάστε τα XLSB αρχεία σας." >}}
-            {{< blocks/products/pf/agp/democard icon="fa-download" text="Θα διορθωθεί αμέσως." >}}
+            {{< blocks/products/pf/agp/democard icon="fa-download" text=" Θα διορθωθεί αμέσως." >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLSB" readMoreLink="https://docs.fileformat.com/spreadsheet/xlsb/" >}}
 Η μορφή αρχείου XLSB καθορίζει τη μορφή δυαδικού αρχείου του Excel, η οποία είναι μια συλλογή εγγραφών και δομών που καθορίζουν το περιεχόμενο του βιβλίου εργασίας του Excel. Το περιεχόμενο μπορεί να περιλαμβάνει αδόμητους ή ημι-δομημένους πίνακες αριθμών, κείμενο ή και αριθμούς και κείμενο, τύπους, εξωτερικές συνδέσεις δεδομένων, γραφήματα και εικόνες. Σε αντίθεση με το XLSX (το οποίο βασίζεται σε μορφή αρχείου Open XML), το XLSB αντιπροσωπεύει το δυαδικό αρχείο βιβλίου εργασίας του Excel. Τα αρχεία XLSB μπορούν να διαβαστούν και να γραφτούν ταχύτερα, γεγονός που τα καθιστά χρήσιμα για εργασία με μεγάλα αρχεία. Το XLSB χρησιμοποιείται σπάνια για την αποθήκευση βιβλίων εργασίας, καθώς το XLSX (και παλαιότερα το XLS) είναι οι πιο συνηθισμένες μορφές αρχείων που επιλέγονται από τον χρήστη για την αποθήκευση βιβλίων εργασίας. Μπορεί να ανοίξει από το Microsoft Office 2007 και άνω.
@@ -138,6 +130,7 @@ wb.Save("e:\test2\output.xlsb");
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/redaction/ods/" name="ODS" description="Αρχείο Υπολογιστικού Φύλλου OpenDocument" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/redaction/xls/" name="XLS" description="Δυαδική μορφή Excel" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/redaction/xlsm/" name="XLSM" description="Αρχείο υπολογιστικού φύλλου" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/redaction/xlsx/" name="XLSX" description="Αρχείο Excel OOXML" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

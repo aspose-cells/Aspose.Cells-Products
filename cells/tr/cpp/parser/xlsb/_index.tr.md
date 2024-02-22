@@ -1,5 +1,5 @@
 ---
-title:  XLSB belgesinden metin ve görselleri C++ aracılığıyla çıkarın
+title: XLSB belgesinden metin ve görselleri C++ aracılığıyla çıkarın
 weight: 3140
 description: Windows 32 bit, Windows 64 bit ve Linux 64 bit için C++ Çalışma Zamanı Ortamı'ndaki XLSB dosyasından metin ve görüntüleri çıkarmak için C++ örnek kod.
 keywords: [C++ Aspose.Cells., C++ Extract text and images from XLSB file., C++ How to Parse XLSB File., C++ Extract text from XLSB file., Extract images from XLSB file using C++]
@@ -12,13 +12,7 @@ keywords: [C++ Aspose.Cells., C++ Extract text and images from XLSB file., C++ H
 
 {{% blocks/products/pf/agp/content h2="C++ Kullanılarak XLSB Dosyası Nasıl Ayrıştırılır" %}}
 
- XLSB dosyasını ayrıştırmak için kullanacağız
- [Aspose.Cells for C++](https://products.aspose.com/cells/cpp) 
- Zengin özelliklere sahip, güçlü ve kullanımı kolay bir belge ayrıştırma platformu olan API API for C++ platformu. En son sürümünü doğrudan indirebilirsiniz, sadece açın
- [NuGet](https://www.nuget.org/packages/aspose.cells) 
- paket yöneticisi, ara
- **Aspose.Cells.Cpp** 
- ve yükleyin. Aşağıdaki komutu Paket Yönetici Konsolundan da kullanabilirsiniz.
+ XLSB dosyasını ayrıştırmak için kullanacağız[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) Zengin özelliklere sahip, güçlü ve kullanımı kolay bir belge ayrıştırma platformu olan API API for C++ platformu. En son sürümünü doğrudan indirebilirsiniz, sadece açın[NuGet](https://www.nuget.org/packages/aspose.cells) paket yöneticisi, ara**Aspose.Cells.Cpp** ve yükleyin. Aşağıdaki komutu Paket Yönetici Konsolundan da kullanabilirsiniz.
 
 {{% blocks/products/pf/agp/code-block title="Emretmek" offSpacer="true" %}}
 
@@ -38,9 +32,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% blocks/products/pf/agp/text %}}
 
- Temel bir belge ayrıştırma
- [Aspose.Cells for C++](https://products.aspose.com/cells/cpp) 
- API'ler yalnızca birkaç satır kodla yapılabilir. Microsoft Excel XLS, XLSX, XLSM, XLSB ve OpenDocument ODS dosyalarındaki metinleri ve görüntüleri ayrıştırın.
+ Temel bir belge ayrıştırma[Aspose.Cells for C++](https://products.aspose.com/cells/cpp)API'ler yalnızca birkaç satır kodla yapılabilir. Microsoft Excel XLS, XLSX, XLSM, XLSB ve OpenDocument ODS dosyalarındaki metinleri ve görüntüleri ayrıştırın.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -108,7 +100,7 @@ Aspose::Cells::Cleanup();
 
 {{< blocks/products/pf/agp/about-file-section >}}
 
-    {{< blocks/products/pf/agp/demobox sectionTitle="Çevrimiçi XLSB Ayrıştırıcı Canlı Demoları" sectionDescription=" XLSB belgeden metin ve görselleri hemen şimdi ziyaret ederek çıkarın.[Canlı Demolar web sitesi](https://products.aspose.app/cells/parser). Canlı demo aşağıdaki avantajlara sahiptir" >}}
+    {{< blocks/products/pf/agp/demobox sectionTitle="Çevrimiçi XLSB Ayrıştırıcı Canlı Demoları" sectionDescription="XLSB belgeden metin ve görselleri hemen şimdi ziyaret ederek çıkarın.[Canlı Demolar web sitesi](https://products.aspose.app/cells/parser). Canlı demo aşağıdaki avantajlara sahiptir" >}}
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Aspose API\'i indirmenize gerek yok." >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Herhangi bir kod yazmaya gerek yok." >}}
         {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" XLSB dosyalarınızı yüklemeniz yeterli." >}}
@@ -129,6 +121,7 @@ XLSB dosya biçimi, Excel çalışma kitabı içeriğini belirten kayıtların v
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/parser/ods/" name="ODS" description="OpenDocument Elektronik Tablo Dosyası" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/parser/xls/" name="XLS" description="Excel İkili Formatı" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/parser/xlsm/" name="XLSM" description="Elektronik Tablo Dosyası" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/parser/xlsx/" name="XLSX" description="OOXML Excel Dosyası" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

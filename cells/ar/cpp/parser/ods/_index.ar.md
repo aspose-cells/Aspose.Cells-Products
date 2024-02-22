@@ -1,5 +1,5 @@
 ---
-title:  استخراج النص والصور من مستند ODS عبر C++
+title: استخراج النص والصور من مستند ODS عبر C++
 weight: 9130
 description: C++ رمز المثال لاستخراج النص والصور من ملف ODS على C++ Runtime Environment لـ Windows 32 بت وWindows 64 بت ولينكس 64 بت.
 keywords: [C++ Aspose.Cells., C++ Extract text and images from ODS file., C++ How to Parse ODS File., C++ Extract text from ODS file., Extract images from ODS file using C++]
@@ -12,13 +12,7 @@ keywords: [C++ Aspose.Cells., C++ Extract text and images from ODS file., C++ Ho
 
 {{% blocks/products/pf/agp/content h2="كيفية تحليل ملف ODS باستخدام C++" %}}
 
- من أجل تحليل الملف ODS، سنستخدم
- [Aspose.Cells for C++](https://products.aspose.com/cells/cpp) 
- API وهي منصة تحليل مستندات غنية بالميزات وقوية وسهلة الاستخدام API for C++. يمكنك تنزيل أحدث إصدار له مباشرة، فقط قم بفتحه
- [NuGet](https://www.nuget.org/packages/aspose.cells) 
- مدير الحزم، ابحث عن
- **Aspose.Cells.Cpp** 
- وتثبيت. يمكنك أيضًا استخدام الأمر التالي من وحدة تحكم إدارة الحزم.
+ من أجل تحليل الملف ODS، سنستخدم[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) API وهي منصة تحليل مستندات غنية بالميزات وقوية وسهلة الاستخدام API for C++. يمكنك تنزيل أحدث إصدار له مباشرة، فقط قم بفتحه[NuGet](https://www.nuget.org/packages/aspose.cells) مدير الحزم، ابحث عن**Aspose.Cells.Cpp** وتثبيت. يمكنك أيضًا استخدام الأمر التالي من وحدة تحكم إدارة الحزم.
 
 {{% blocks/products/pf/agp/code-block title="يأمر" offSpacer="true" %}}
 
@@ -38,9 +32,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% blocks/products/pf/agp/text %}}
 
- تحليل الوثيقة الأساسية مع
- [Aspose.Cells for C++](https://products.aspose.com/cells/cpp) 
- يمكن إنشاء واجهات برمجة التطبيقات باستخدام بضعة أسطر من التعليمات البرمجية. تحليل النصوص والصور من Microsoft ملفات Excel XLS وXLSX وXLSM وXLSB وOpenDocument ODS.
+ تحليل الوثيقة الأساسية مع[Aspose.Cells for C++](https://products.aspose.com/cells/cpp)يمكن إنشاء واجهات برمجة التطبيقات باستخدام بضعة أسطر من التعليمات البرمجية. تحليل النصوص والصور من Microsoft ملفات Excel XLS وXLSX وXLSM وXLSB وOpenDocument ODS.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -108,7 +100,7 @@ Aspose::Cells::Cleanup();
 
 {{< blocks/products/pf/agp/about-file-section >}}
 
-    {{< blocks/products/pf/agp/demobox sectionTitle="العروض التوضيحية المباشرة للمحلل عبر الإنترنت ODS" sectionDescription=" قم باستخراج النصوص والصور من مستندات ODS الآن من خلال زيارة موقعنا[موقع العروض الحية](https://products.aspose.app/cells/parser). يتمتع العرض التجريبي المباشر بالمزايا التالية" >}}
+    {{< blocks/products/pf/agp/demobox sectionTitle="العروض التوضيحية المباشرة للمحلل عبر الإنترنت ODS" sectionDescription="قم باستخراج النصوص والصور من مستندات ODS الآن من خلال زيارة موقعنا[موقع العروض الحية](https://products.aspose.app/cells/parser). يتمتع العرض التجريبي المباشر بالمزايا التالية" >}}
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" لا داعي للتحميل Aspose API." >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" لا حاجة لكتابة أي رمز." >}}
         {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" فقط قم بتحميل ملفات ODS الخاصة بك." >}}
@@ -116,7 +108,7 @@ Aspose::Cells::Cleanup();
     {{< /blocks/products/pf/agp/demobox >}}
 
     {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="ODS" readMoreLink="https://docs.fileformat.com/spreadsheet/ods/" >}}
-تمثل الملفات ذات الامتداد ODS تنسيق مستند جدول بيانات OpenDocument الذي يمكن للمستخدم تحريره. يتم تخزين البيانات داخل ملف ODF في صفوف وأعمدة. وهو تنسيق يستند إلى XML وهو أحد الأنواع الفرعية المتعددة في عائلة تنسيقات المستندات المفتوحة (ODF). تم تحديد التنسيق كجزء من مواصفات ODF 1.2 المنشورة والتي تحتفظ بها OASIS. يمكن لعدد من التطبيقات الموجودة على Windows بالإضافة إلى أنظمة التشغيل الأخرى فتح ملفات ODS للتحرير والمعالجة بما في ذلك Microsoft Excel وNeoOffice وLibreOffice. يمكن أيضًا تحويل ملفات ODS إلى تنسيقات جداول بيانات أخرى مثل XLS وXLSX وغيرها بواسطة تطبيقات مختلفة.
+ تمثل الملفات ذات الامتداد ODS تنسيق مستند جدول بيانات OpenDocument الذي يمكن للمستخدم تحريره. يتم تخزين البيانات داخل ملف ODF في صفوف وأعمدة. وهو تنسيق يستند إلى XML وهو أحد الأنواع الفرعية المتعددة في عائلة تنسيقات المستندات المفتوحة (ODF). تم تحديد التنسيق كجزء من مواصفات ODF 1.2 المنشورة والتي تحتفظ بها OASIS. يمكن لعدد من التطبيقات الموجودة على Windows بالإضافة إلى أنظمة التشغيل الأخرى فتح ملفات ODS للتحرير والمعالجة بما في ذلك Microsoft Excel وNeoOffice وLibreOffice. يمكن أيضًا تحويل ملفات ODS إلى تنسيقات جداول بيانات أخرى مثل XLS وXLSX وغيرها بواسطة تطبيقات مختلفة.
 
     {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
@@ -129,6 +121,7 @@ Aspose::Cells::Cleanup();
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/parser/xls/" name="XLS" description="تنسيق ثنائي إكسل" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/parser/xlsb/" name="XLSB" description="ملف مصنف Excel الثنائي" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/parser/xlsm/" name="XLSM" description="ملف جدول البيانات" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/parser/xlsx/" name="XLSX" description="ملف اكسيل OOXML" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

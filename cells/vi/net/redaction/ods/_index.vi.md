@@ -12,13 +12,7 @@ keywords: [C# Aspose.Cells., c# Search and replace text in ODS file., c# redact 
 
 {{% blocks/products/pf/agp/content h2="Cách biên tập lại tệp ODS bằng C#" %}}
 
- Để biên tập lại tệp ODS, chúng tôi sẽ sử dụng
- [Aspose.Cells for .NET](https://products.aspose.com/cells/net) 
- API là một ứng dụng thao tác tài liệu API giàu tính năng, mạnh mẽ và dễ sử dụng dành cho nền tảng C#. Mở
- [NuGet](https://www.nuget.org/packages/aspose.cells) 
- quản lý gói, tìm kiếm
- **Aspose.Cells** 
- và cài đặt. Bạn cũng có thể sử dụng lệnh sau từ Bảng điều khiển quản lý gói.
+ Để biên tập lại tệp ODS, chúng tôi sẽ sử dụng[Aspose.Cells for .NET](https://products.aspose.com/cells/net) API là một ứng dụng thao tác tài liệu API giàu tính năng, mạnh mẽ và dễ sử dụng dành cho nền tảng C#. Mở[NuGet](https://www.nuget.org/packages/aspose.cells) quản lý gói, tìm kiếm**Aspose.Cells** và cài đặt. Bạn cũng có thể sử dụng lệnh sau từ Bảng điều khiển quản lý gói.
 
 {{% blocks/products/pf/agp/code-block title="Yêu cầu" offSpacer="true" %}}
 
@@ -38,9 +32,7 @@ PM> Install-Package Aspose.Cells
 
 {{% blocks/products/pf/agp/text %}}
 
- Tìm kiếm tài liệu cơ bản và thay thế văn bản trong nội dung, nhận xét hoặc siêu dữ liệu bằng
- [Aspose.Cells for .NET](https://products.aspose.com/cells/net) 
- API có thể được thực hiện chỉ với vài dòng mã.
+ Tìm kiếm tài liệu cơ bản và thay thế văn bản trong nội dung, nhận xét hoặc siêu dữ liệu bằng[Aspose.Cells for .NET](https://products.aspose.com/cells/net) API có thể được thực hiện chỉ với vài dòng mã.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -57,7 +49,7 @@ PM> Install-Package Aspose.Cells
 
 {{% blocks/products/pf/agp/text %}}
 
- API của chúng tôi được hỗ trợ trên tất cả các nền tảng và Hệ điều hành chính. Trước khi thực thi mã bên dưới, vui lòng đảm bảo rằng bạn có các điều kiện tiên quyết sau trên hệ thống của mình.
+API của chúng tôi được hỗ trợ trên tất cả các nền tảng và Hệ điều hành chính. Trước khi thực thi mã bên dưới, vui lòng đảm bảo rằng bạn có các điều kiện tiên quyết sau trên hệ thống của mình.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -122,10 +114,10 @@ wb.Save("e:\test2\output.ods");
             {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Không cần tải Aspose API." >}}
             {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Không cần phải viết bất kỳ mã nào." >}}
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Chỉ cần tải lên tệp ODS của bạn." >}}
-            {{< blocks/products/pf/agp/democard icon="fa-download" text="Nó sẽ được biên tập lại ngay lập tức." >}}
+            {{< blocks/products/pf/agp/democard icon="fa-download" text=" Nó sẽ được biên tập lại ngay lập tức." >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="ODS" readMoreLink="https://docs.fileformat.com/spreadsheet/ods/" >}}
-Các tệp có phần mở rộng ODS là viết tắt của định dạng Tài liệu Bảng tính OpenDocument mà người dùng có thể chỉnh sửa. Dữ liệu được lưu trữ bên trong tệp ODF thành hàng và cột. Đây là định dạng dựa trên XML và là một trong một số kiểu con trong họ Định dạng Tài liệu Mở (ODF). Định dạng được chỉ định như một phần của thông số kỹ thuật ODF 1.2 do OASIS xuất bản và duy trì. Một số ứng dụng trên Windows cũng như các hệ điều hành khác có thể mở file ODS để chỉnh sửa và thao tác bao gồm Microsoft Excel, NeoOffice và LibreOffice. Các tệp ODS cũng có thể được chuyển đổi sang các định dạng bảng tính khác như XLS, XLSX và các định dạng khác bằng các ứng dụng khác nhau.
+ Các tệp có phần mở rộng ODS là viết tắt của định dạng Tài liệu Bảng tính OpenDocument mà người dùng có thể chỉnh sửa. Dữ liệu được lưu trữ bên trong tệp ODF thành hàng và cột. Đây là định dạng dựa trên XML và là một trong một số kiểu con trong họ Định dạng Tài liệu Mở (ODF). Định dạng được chỉ định như một phần của thông số kỹ thuật ODF 1.2 do OASIS xuất bản và duy trì. Một số ứng dụng trên Windows cũng như các hệ điều hành khác có thể mở file ODS để chỉnh sửa và thao tác bao gồm Microsoft Excel, NeoOffice và LibreOffice. Các tệp ODS cũng có thể được chuyển đổi sang các định dạng bảng tính khác, chẳng hạn như XLS, XLSX và các định dạng khác bằng các ứng dụng khác nhau.
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
@@ -138,6 +130,7 @@ Các tệp có phần mở rộng ODS là viết tắt của định dạng Tài
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/redaction/xls/" name="XLS" description="Định dạng nhị phân Excel" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/redaction/xlsb/" name="XLSB" description="Tệp sổ làm việc Excel nhị phân" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/redaction/xlsm/" name="XLSM" description="Tệp bảng tính" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/redaction/xlsx/" name="XLSX" description="Tệp Excel OOXML" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

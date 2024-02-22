@@ -1,5 +1,5 @@
 ---
-title: Filigrane XLS document via Java
+title:  Filigrane XLS document via Java
 weight: 2210
 description: Exemple de code Java pour ajouter ou supprimer un filigrane au fichier XLS sur l'environnement d'exécution Java pour les applications JSP/JSF et les applications de bureau.
 keywords: [Java Aspose.Cells., Java add watermark to xls file., Java insert watermark to xls file., Java create watermark in xls file., remove watermark from xls file using Java., Java operate watermark in xls file., Java access watermark in xls file]
@@ -12,11 +12,7 @@ keywords: [Java Aspose.Cells., Java add watermark to xls file., Java insert wate
 
 {{% blocks/products/pf/agp/content h2="Comment filigraner un fichier XLS à l\'aide de Java" %}}
 
- Afin de filigraner le fichier XLS, nous utiliserons
- [Aspose.Cells for Java](https://products.aspose.com/cells/java) 
- API qui est une plateforme de filigrane API for Java riche en fonctionnalités, puissante et facile à utiliser. Vous pouvez télécharger sa dernière version directement depuis
- [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) 
- et installez-le dans votre projet basé sur Maven en ajoutant les configurations suivantes au pom.xml.
+ Afin de filigraner le fichier XLS, nous utiliserons[Aspose.Cells for Java](https://products.aspose.com/cells/java) API qui est une plateforme de filigrane API for Java riche en fonctionnalités, puissante et facile à utiliser. Vous pouvez télécharger sa dernière version directement depuis[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) et installez-le dans votre projet basé sur Maven en ajoutant les configurations suivantes au pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Dépôt" offSpacer="true" %}}
 
@@ -68,7 +64,7 @@ keywords: [Java Aspose.Cells., Java add watermark to xls file., Java insert wate
 
 {{% blocks/products/pf/agp/text %}}
 
- Aspose.Cells for Java prend en charge toutes les principales plates-formes et systèmes d'exploitation. Veuillez vous assurer que vous disposez des prérequis suivants.
+ Aspose.Cells for Java prend en charge sur toutes les principales plates-formes et systèmes d'exploitation. Veuillez vous assurer que vous disposez des prérequis suivants.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -129,7 +125,7 @@ workbook.save(dataDir + "AWArtWToWorksheet_out.xls");
     {{< blocks/products/pf/agp/about-file-section >}}
 
         {{< blocks/products/pf/agp/demobox sectionTitle="Filigrane XLS via l\'application en ligne" sectionDescription=" Ajoutez un filigrane aux documents XLS en visitant notre[Site Web de démonstrations en direct](https://products.aspose.app/cells/watermark). La démo en direct présente les avantages suivants" >}}
-            {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Pas besoin de télécharger ou de configurer quoi que ce soit" >}}
+            {{< blocks/products/pf/agp/democard icon="fa-cogs" text="Pas besoin de télécharger ou de configurer quoi que ce soit" >}}
             {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Pas besoin d\'écrire de code" >}}
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Téléchargez simplement votre fichier XLS, définissez votre filigrane et cliquez sur le bouton \"Ajouter\"." >}}
             {{< blocks/products/pf/agp/democard icon="fa-download" text=" Obtenez instantanément le lien de téléchargement du fichier résultant" >}}
@@ -148,6 +144,7 @@ Les fichiers avec l'extension XLS représentent le format de fichier binaire Exc
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/watermark/ods/" name="ODS" description="Fichier de feuille de calcul OpenDocument" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/watermark/xlsb/" name="XLSB" description="Fichier de classeur Excel binaire" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/watermark/xlsm/" name="XLSM" description="Fichier de feuille de calcul" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/watermark/xlsx/" name="XLSX" description="Fichier Excel OOXML" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

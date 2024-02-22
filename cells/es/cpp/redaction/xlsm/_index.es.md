@@ -1,5 +1,5 @@
 ---
-title:  Busque y reemplace texto en el documento XLSM a través de C++
+title: Busque y reemplace texto en el documento XLSM a través de C++
 weight: 9570
 description: Código de ejemplo C++ para redactar información confidencial en el archivo XLSM en el entorno de ejecución C++ para Windows de 32 bits, Windows de 64 bits y Linux de 64 bits.
 keywords: [C++ Aspose.Cells., C++ Search and replace text in XLSM file., C++ redact XLSM file., C++ edit XLSM file., C++ XLSM file redaction., C++ Search and replace string in XLSM file]
@@ -12,13 +12,7 @@ keywords: [C++ Aspose.Cells., C++ Search and replace text in XLSM file., C++ red
 
 {{% blocks/products/pf/agp/content h2="Cómo redactar el archivo XLSM usando C++" %}}
 
- Para redactar el archivo XLSM, usaremos
- [Aspose.Cells for C++](https://products.aspose.com/cells/cpp) 
- API, que es una plataforma de redacción de documentos API for C++ rica en funciones, potente y fácil de usar. Puede descargar su última versión directamente, simplemente abra
- [NuGet](https://www.nuget.org/packages/aspose.cells) 
- administrador de paquetes, buscar
- **Aspose.Cells.Cpp** 
- e instalar. También puede utilizar el siguiente comando desde la Consola del Administrador de paquetes.
+ Para redactar el archivo XLSM, usaremos[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) API, que es una plataforma de redacción de documentos API for C++ rica en funciones, potente y fácil de usar. Puede descargar su última versión directamente, simplemente abra[NuGet](https://www.nuget.org/packages/aspose.cells) administrador de paquetes, buscar**Aspose.Cells.Cpp** e instalar. También puede utilizar el siguiente comando desde la Consola del Administrador de paquetes.
 
 {{% blocks/products/pf/agp/code-block title="Dominio" offSpacer="true" %}}
 
@@ -38,15 +32,13 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% blocks/products/pf/agp/text %}}
 
- Un documento básico para buscar y reemplazar texto en contenidos, comentarios o metadatos con
- [Aspose.Cells for C++](https://products.aspose.com/cells/cpp) 
- Las API se pueden crear con solo unas pocas líneas de código.
+ Un documento básico para buscar y reemplazar texto en contenidos, comentarios o metadatos con[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) Las API se pueden crear con solo unas pocas líneas de código.
 
 {{% /blocks/products/pf/agp/text %}}
 
 + Cargar archivo XLSM.
 + Definir opciones de reemplazo.
-+ Establecer la opción de distinción entre mayúsculas y minúsculas.
+Establecer la opción de distinción entre mayúsculas y minúsculas.
 + Establecer opción de coincidencia de texto
 + Reemplazar texto usando el método Reemplazar (...)
 + Guarde el libro de trabajo.
@@ -114,7 +106,7 @@ Aspose::Cells::Cleanup();
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" No es necesario descargar Aspose API." >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" No es necesario escribir ningún código." >}}
         {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Simplemente cargue sus archivos XLSM." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-download" text="Será redactado al instante." >}}
+        {{< blocks/products/pf/agp/democard icon="fa-download" text=" Será redactado al instante." >}}
     {{< /blocks/products/pf/agp/demobox >}}
 
     {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLSM" readMoreLink="https://docs.fileformat.com/spreadsheet/xlsm/" >}}
@@ -131,6 +123,7 @@ Los archivos con extensión XLSM son un tipo de archivos de hoja de cálculo que
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/redaction/ods/" name="ODS" description="Archivo de hoja de cálculo OpenDocument" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/redaction/xls/" name="XLS" description="Formato binario de Excel" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/redaction/xlsb/" name="XLSB" description="Archivo de libro de Excel binario" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/redaction/xlsx/" name="XLSX" description="Archivo Excel OOXML" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

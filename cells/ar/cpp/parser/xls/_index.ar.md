@@ -1,5 +1,5 @@
 ---
-title:  استخراج النص والصور من مستند XLS عبر C++
+title: استخراج النص والصور من مستند XLS عبر C++
 weight: 7610
 description: C++ رمز المثال لاستخراج النص والصور من ملف XLS على C++ Runtime Environment لـ Windows 32 بت وWindows 64 بت ولينكس 64 بت.
 keywords: [C++ Aspose.Cells., C++ Extract text and images from XLS file., C++ How to Parse XLS File., C++ Extract text from XLS file., Extract images from XLS file using C++]
@@ -12,13 +12,7 @@ keywords: [C++ Aspose.Cells., C++ Extract text and images from XLS file., C++ Ho
 
 {{% blocks/products/pf/agp/content h2="كيفية تحليل ملف XLS باستخدام C++" %}}
 
- من أجل تحليل الملف XLS، سنستخدم
- [Aspose.Cells for C++](https://products.aspose.com/cells/cpp) 
- API وهي منصة تحليل مستندات غنية بالميزات وقوية وسهلة الاستخدام API for C++. يمكنك تنزيل أحدث إصدار له مباشرة، فقط قم بفتحه
- [NuGet](https://www.nuget.org/packages/aspose.cells) 
- مدير الحزم، ابحث عن
- **Aspose.Cells.Cpp** 
- وتثبيت. يمكنك أيضًا استخدام الأمر التالي من وحدة تحكم إدارة الحزم.
+ من أجل تحليل الملف XLS، سنستخدم[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) API وهي منصة تحليل مستندات غنية بالميزات وقوية وسهلة الاستخدام API for C++. يمكنك تنزيل أحدث إصدار له مباشرة، فقط قم بفتحه[NuGet](https://www.nuget.org/packages/aspose.cells) مدير الحزم، ابحث عن**Aspose.Cells.Cpp** وتثبيت. يمكنك أيضًا استخدام الأمر التالي من وحدة تحكم إدارة الحزم.
 
 {{% blocks/products/pf/agp/code-block title="يأمر" offSpacer="true" %}}
 
@@ -40,7 +34,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
  تحليل الوثيقة الأساسية مع
  [Aspose.Cells for C++](https://products.aspose.com/cells/cpp) 
- يمكن إنشاء واجهات برمجة التطبيقات باستخدام بضعة أسطر من التعليمات البرمجية. تحليل النصوص والصور من Microsoft ملفات Excel XLS وXLSX وXLSM وXLSB وOpenDocument ODS.
+يمكن إنشاء واجهات برمجة التطبيقات باستخدام بضعة أسطر من التعليمات البرمجية. تحليل النصوص والصور من Microsoft ملفات Excel XLS وXLSX وXLSM وXLSB وOpenDocument ODS.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -108,7 +102,7 @@ Aspose::Cells::Cleanup();
 
 {{< blocks/products/pf/agp/about-file-section >}}
 
-    {{< blocks/products/pf/agp/demobox sectionTitle="العروض التوضيحية المباشرة للمحلل عبر الإنترنت XLS" sectionDescription=" قم باستخراج النصوص والصور من مستندات XLS الآن من خلال زيارة موقعنا[موقع العروض الحية](https://products.aspose.app/cells/parser). يتمتع العرض التجريبي المباشر بالمزايا التالية" >}}
+    {{< blocks/products/pf/agp/demobox sectionTitle="العروض التوضيحية المباشرة للمحلل عبر الإنترنت XLS" sectionDescription="قم باستخراج النصوص والصور من مستندات XLS الآن من خلال زيارة موقعنا[موقع العروض الحية](https://products.aspose.app/cells/parser). يتمتع العرض التجريبي المباشر بالمزايا التالية" >}}
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" لا داعي للتحميل Aspose API." >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" لا حاجة لكتابة أي رمز." >}}
         {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" فقط قم بتحميل ملفات XLS الخاصة بك." >}}
@@ -129,6 +123,7 @@ Aspose::Cells::Cleanup();
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/parser/ods/" name="ODS" description="ملف جدول بيانات OpenDocument" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/parser/xlsb/" name="XLSB" description="ملف مصنف Excel الثنائي" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/parser/xlsm/" name="XLSM" description="ملف جدول البيانات" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/parser/xlsx/" name="XLSX" description="ملف اكسيل OOXML" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

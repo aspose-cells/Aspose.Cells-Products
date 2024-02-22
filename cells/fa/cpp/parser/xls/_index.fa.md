@@ -1,5 +1,5 @@
 ---
-title:  استخراج متن و تصاویر از سند XLS از طریق C++
+title: استخراج متن و تصاویر از سند XLS از طریق C++
 weight: 7610
 description: C++ کد نمونه برای استخراج متن و تصاویر از فایل XLS در C++ Runtime Environment برای Windows 32 بیتی، Windows 64 بیتی و لینوکس 64 بیتی.
 keywords: [C++ Aspose.Cells., C++ Extract text and images from XLS file., C++ How to Parse XLS File., C++ Extract text from XLS file., Extract images from XLS file using C++]
@@ -12,13 +12,7 @@ keywords: [C++ Aspose.Cells., C++ Extract text and images from XLS file., C++ Ho
 
 {{% blocks/products/pf/agp/content h2="نحوه تجزیه فایل XLS با استفاده از C++" %}}
 
- به منظور تجزیه فایل XLS، از آن استفاده می کنیم
- [Aspose.Cells for C++](https://products.aspose.com/cells/cpp) 
- API که یک پلتفرم تجزیه اسناد API for C++ با ویژگی های غنی، قدرتمند و آسان برای استفاده است. شما می توانید آخرین نسخه آن را مستقیما دانلود کنید، فقط باز کنید
- [NuGet](https://www.nuget.org/packages/aspose.cells) 
- مدیر بسته، جستجو کنید
- **Aspose.Cells.Cpp** 
- و نصب کنید. همچنین می توانید از دستور زیر در کنسول Package Manager استفاده کنید.
+ به منظور تجزیه فایل XLS، از آن استفاده می کنیم[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) API که یک پلتفرم تجزیه اسناد API for C++ با ویژگی های غنی، قدرتمند و آسان برای استفاده است. شما می توانید آخرین نسخه آن را مستقیما دانلود کنید، فقط باز کنید[NuGet](https://www.nuget.org/packages/aspose.cells) مدیر بسته، جستجو کنید**Aspose.Cells.Cpp** و نصب کنید. همچنین می توانید از دستور زیر در کنسول Package Manager استفاده کنید.
 
 {{% blocks/products/pf/agp/code-block title="فرمان" offSpacer="true" %}}
 
@@ -40,7 +34,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
  تجزیه سند پایه با
  [Aspose.Cells for C++](https://products.aspose.com/cells/cpp) 
- API ها را می توان تنها با چند خط کد انجام داد. متن و تصاویر را از فایل های Microsoft Excel XLS، XLSX، XLSM، XLSB و OpenDocument ODS تجزیه کنید.
+API ها را می توان تنها با چند خط کد انجام داد. متن و تصاویر را از فایل های Microsoft Excel XLS، XLSX، XLSM، XLSB و OpenDocument ODS تجزیه کنید.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -108,7 +102,7 @@ Aspose::Cells::Cleanup();
 
 {{< blocks/products/pf/agp/about-file-section >}}
 
-    {{< blocks/products/pf/agp/demobox sectionTitle="آنلاین XLS Parser Live Demos" sectionDescription=" همین حالا با مراجعه به ما، متن و تصاویر را از اسناد XLS استخراج کنید[وب سایت Live Demos](https://products.aspose.app/cells/parser). نسخه ی نمایشی زنده دارای مزایای زیر است" >}}
+    {{< blocks/products/pf/agp/demobox sectionTitle="آنلاین XLS Parser Live Demos" sectionDescription="همین حالا با مراجعه به ما، متن و تصاویر را از اسناد XLS استخراج کنید[وب سایت Live Demos](https://products.aspose.app/cells/parser). نسخه ی نمایشی زنده دارای مزایای زیر است" >}}
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" بدون نیاز به دانلود Aspose API." >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" نیازی به نوشتن هیچ کدی نیست." >}}
         {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" فقط فایل های XLS خود را آپلود کنید." >}}
@@ -129,6 +123,7 @@ Aspose::Cells::Cleanup();
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/parser/ods/" name="ODS" description="فایل صفحه گسترده OpenDocument" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/parser/xlsb/" name="XLSB" description="فایل باینری کتاب کار اکسل" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/parser/xlsm/" name="XLSM" description="فایل صفحه گسترده" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/parser/xlsx/" name="XLSX" description="فایل OOXML اکسل" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

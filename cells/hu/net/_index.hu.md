@@ -1,5 +1,5 @@
 ---
-title:  .NET Excel API | Process Spreadsheet Formats via .NET Core
+title: .NET Excel API | Process Spreadsheet Formats via .NET Core
 weight: 2030
 description: C# ASP.NET VB.NET könyvtár Excel-fájlok létrehozásához, javításához, egyesítéséhez, elemzéséhez és konvertálásához. Az Excel konvertálása PDF, JSON, XML, TSV, HTML és így tovább.
 keywords: [Aspose.Cells C# Create repair parse merge convert JSON Excel XML PDF HTML TSV SQL TXT PNG JPEG and more formats]
@@ -13,11 +13,11 @@ keywords: [Aspose.Cells C# Create repair parse merge convert JSON Excel XML PDF 
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
- Aspose.Cells for .NET egy Excel táblázatkezelő program API, amely felgyorsítja a táblázatkezelési és -feldolgozási feladatokat. A API támogatja a többplatformos alkalmazások létrehozását, amelyek képesek táblázatokat generálni, módosítani, konvertálni, renderelni és nyomtatni. Ezenkívül nem a Microsoft Excel vagy bármely Microsoft Office Interop telepítendő összetevőjére támaszkodik, hanem egy robusztus API-készletre, amely az összes Excel formátumot, valamint a CSV és SpreadsheetML formátumokat kezeli.
+ A Aspose.Cells for .NET egy Excel táblázatkezelő program API, amely felgyorsítja a táblázatkezelési és -feldolgozási feladatokat. A API támogatja a többplatformos alkalmazások létrehozását, amelyek képesek táblázatokat generálni, módosítani, konvertálni, renderelni és nyomtatni. Ezenkívül nem a Microsoft Excel vagy bármely Microsoft Office Interop telepítendő összetevőjére támaszkodik, hanem egy robusztus API-készletre, amely az összes Excel formátumot, valamint a CSV és SpreadsheetML formátumokat kezeli.
 </p>
 
 <p>
- A API integrálásával a fejlesztők olyan alapvető feladatokat hajthatnak végre, mint például több munkalap kezelése, táblázatok tartalmának és stílusainak létrehozása a semmiből, adatok importálása a munkalapokra különböző adatforrásokból, általános és összetett matematikai, pénzügyi és szöveges képletek hozzáadása, diagramok kezelése, képek, megjegyzések, rajztárgyak és még sok más.
+ API integrálásával a fejlesztők olyan alapvető feladatokat hajthatnak végre, mint például több munkalap kezelése, táblázatok tartalmának és stílusainak létrehozása a semmiből, adatok importálása a munkalapokra különböző adatforrásokból, általános és összetett matematikai, pénzügyi és szöveges képletek hozzáadása, diagramok kezelése, képek, megjegyzések, rajztárgyak és még sok más.
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
@@ -64,7 +64,7 @@ keywords: [Aspose.Cells C# Create repair parse merge convert JSON Excel XML PDF 
  Képletek alkalmazása
     </li>
     <li>
- Összesít
+Összesít
     </li>
     <li>
  Intelligens jelölők
@@ -118,7 +118,7 @@ keywords: [Aspose.Cells C# Create repair parse merge convert JSON Excel XML PDF 
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Platformfüggetlenség" description="API támogatja a .NET keretrendszert, a .NET Core & Xamarin platformot. Ezenkívül a Mono számmal és számos más platformmal is használható a COM Interop segítségével." >}}
+{{< blocks/products/pf/carousel-item h3="Platformfüggetlenség" description="A API támogatja a .NET keretrendszert, a .NET Core & Xamarin platformot. Ezenkívül a Mono számmal és számos más platformmal is használható a COM Interop segítségével." >}}
 <div class="diagram1 d1-net">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -213,7 +213,7 @@ keywords: [Aspose.Cells C# Create repair parse merge convert JSON Excel XML PDF 
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Támogatott fájlformátumok" description=" Aspose.Cells for .NET támogatja a népszerű táblázatot[fájlformátumok](https://docs.aspose.com/cells/net/supported-file-formats/) valamint a leggyakrabban használt kép- és rögzített elrendezésű formátumok." >}}
+{{< blocks/products/pf/carousel-item h3="Támogatott fájlformátumok" description=" Aspose.Cells for .NET támogatja a népszerű táblázatot[fájlformátumok](https://docs.aspose.com/cells/net/supported-file-formats/)valamint a leggyakrabban használt kép- és rögzített elrendezésű formátumok." >}}
 <div class="diagram1 d2 d1-net">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -227,7 +227,7 @@ keywords: [Aspose.Cells C# Create repair parse merge convert JSON Excel XML PDF 
      <b>
  Microsoft Excel:
      </b>
- XLS, XLSX, XLSB, XLT, XLTX, XLTM, XLSM, XML
+ XLS, XLSX, XLSB, XLT, XLTX, XLTM, XLSM, XML, OTS
     </li>
     <li>
      <b>
@@ -239,7 +239,7 @@ keywords: [Aspose.Cells C# Create repair parse merge convert JSON Excel XML PDF 
      <b>
  Szöveg:
      </b>
-     CSV, TSV
+     CSV, TSV, JSON
     </li>
     <li>
      <b>
@@ -253,6 +253,12 @@ keywords: [Aspose.Cells C# Create repair parse merge convert JSON Excel XML PDF 
      </b>
  Az Apple iWork irodai csomagja Numbers alkalmazásdokumentumok
     </li>
+    <li>
+     <b>
+ Egyéb:
+     </b>
+ SXC, FODS, EPUB
+    </li>
    </ul>
   </div>
   <!--/left-->
@@ -260,7 +266,7 @@ keywords: [Aspose.Cells C# Create repair parse merge convert JSON Excel XML PDF 
    <header>
     <i class="fa fa-mail-forward">
     </i>
- Csak kimenet
+Csak kimenet
    </header>
    <ul>
     <li>
@@ -274,12 +280,18 @@ keywords: [Aspose.Cells C# Create repair parse merge convert JSON Excel XML PDF 
  Adatcsere:
      </b>
      DIF
-    </li>
+    </li>    
     <li>
      <b>
  Képek:
      </b>
      JPEG, PNG, BMP, SVG, TIFF, EMF, GIF
+    </li>
+    <li>
+     <b>
+ Egyéb:
+     </b>
+ MARKDOWN, SQL, XTHML
     </li>
    </ul>
   </div>
@@ -375,14 +387,14 @@ keywords: [Aspose.Cells C# Create repair parse merge convert JSON Excel XML PDF 
     <em class="fa fa-support ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- CSV támogatása (vesszővel elválasztott értékek) &amp; TSV (tabulátorral elválasztott értékek)
+ A CSV támogatása (vesszővel elválasztott értékek) &amp; TSV (tabulátorral elválasztott értékek)
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-commenting ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Létrehozás &amp; manipulálni a megjegyzéseket
+Létrehozás &amp; manipulálni a megjegyzéseket
     </p>
    </div>
    <div class="col-lg-4">
@@ -403,14 +415,14 @@ keywords: [Aspose.Cells C# Create repair parse merge convert JSON Excel XML PDF 
     <em class="fa fa-sort-amount-desc ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Létrehozás &amp; manipulálni a megnevezett tartományokat
+ Létrehozása &amp; manipulálni a megnevezett tartományokat
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-line-chart ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Létrehozás &amp; csillogó fényeket készít
+ Létrehozása &amp; csillogó fényeket készít
     </p>
    </div>
    <div class="col-lg-4">
@@ -438,7 +450,7 @@ keywords: [Aspose.Cells C# Create repair parse merge convert JSON Excel XML PDF 
     <em class="fa fa-file-code-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Módosítsa a VBA-kódot vagy a makrókat a sablonfájlban
+Módosítsa a VBA-kódot vagy a makrókat a sablonfájlban
     </p>
    </div>
    <div class="col-lg-4">
@@ -453,11 +465,11 @@ keywords: [Aspose.Cells C# Create repair parse merge convert JSON Excel XML PDF 
  Táblázatok átalakítása PDF, XPS &amp; HTML Formátumok
     </h2>
     <p>
- Aspose.Cells for .NET képes táblázatokat PDF, XPS és XPS számokra konvertálni. HTML formátumokat, miközben megőrzi a legmagasabb vizuális hűséget. Az átalakítási folyamat egyszerű, de megbízható, így a API-es szám tökéletes választás azoknak a szervezeteknek, amelyek az ipari szabvány formátumok bármelyikében kívánnak dokumentumokat cserélni.
+ Aspose.Cells for .NET képes táblázatokat PDF, XPS és XPS számokra konvertálni. HTML formátumokat, miközben megőrzi a legmagasabb vizuális hűséget. Az átalakítási folyamat egyszerű, de megbízható, így a API tökéletes választás azoknak a szervezeteknek, amelyek az iparági szabványos formátumok bármelyikében kívánnak dokumentumokat cserélni.
     </p>
     <div class="codeblock" id="code">
      <h3>
-Táblázat mentése különböző formátumokban - C#
+ Táblázat mentése különböző formátumokban - C#
      </h3>
      <pre><code class="cs">// load file to be converted
 
@@ -479,7 +491,7 @@ workbook.Save(dir + "output.html", Aspose.Cells.SaveFormat.Html);</code></pre>
  Vizualizálja az adatokat formázás, diagramok és amp; Grafika
     </h2>
     <p>
- Aspose.Cells A for .NET teljes szabadságot és rugalmasságot biztosít a táblázatok mindenféle vizuális effektussal való felszereléséhez. A API lehetővé teszi különböző betűtípusok attribútumokkal, cellastílusokkal (igazítás, behúzás, elforgatás, szegélyek, árnyékolás és színezés, védelem, szöveg tördelése és zsugorítása) és minden típusú számformátum alkalmazását.
+Aspose.Cells A for .NET teljes szabadságot és rugalmasságot biztosít a táblázatok mindenféle vizuális effektussal való felszereléséhez. A API lehetővé teszi különböző betűtípusok attribútumokkal, cellastílusokkal (igazítás, behúzás, elforgatás, szegélyek, árnyékolás és színezés, védelem, szöveg tördelése és zsugorítása) és minden típusú számformátum alkalmazását.
     </p>
     <p>
  Hasonlóképpen, a diagramok és grafikák vizuálisan tetszetősek, és professzionális megjelenést kölcsönözhetnek a táblázatnak. Aspose.Cells A for .NET API-k átfogó készletét kínálja az összes szabványos és egyéni diagramtípus létrehozásához és kezeléséhez. Ezenkívül különféle típusú rajzobjektumokat, például megjegyzéseket, képeket, OLE-objektumokat, alakzatokat és vezérlőelemeket adhat a cellákhoz.
@@ -487,7 +499,7 @@ workbook.Save(dir + "output.html", Aspose.Cells.SaveFormat.Html);</code></pre>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
- Hatékony, robusztus és Megbízható képletszámító motor
+ Hatékony, robusztus és amp; Megbízható képletszámító motor
     </h2>
     <p>
  Aspose.Cells for .NET hatékony képletszámító motorral rendelkezik, amely szinte az összes szabványos és fejlett Microsoft Excel képletet és függvényt támogatja. Elolvashatja, beállíthatja és kiszámíthatja a beépített, bővítmény, tömb &amp; R1C1 hivatkozási stílus képletek.
@@ -570,11 +582,11 @@ Aspose.Cells for .NET grafikus felhasználói felület vezérlőket biztosít a 
 
 {{< /blocks/products/pf/main-container >}}
 
-{{< blocks/products/pf/i18n/testimonials title="Mit mondanak az emberek" subTitle="Ne csak szót fogadjon. Nézze meg, mit mondanak a felhasználók erről." caseStudiesLink="https://downloads.aspose.com/corporate/case-studies/aspose.cells/" >}}
+{{< blocks/products/pf/i18n/testimonials title="Mit mondanak az emberek" subTitle="Ne csak a szavunkat fogadja. Nézze meg, mit mondanak a felhasználók erről." caseStudiesLink="https://downloads.aspose.com/corporate/case-studies/aspose.cells/" >}}
 
 {{< blocks/products/pf/testimonials-quote >}}
 <p class="first">
- Szoftverszolgáltató cégként tisztában vagyunk azzal, milyen fontos az ügyfélszolgálat az ügyfelekkel való munka során. Örülök, hogy Aspose megosztja velünk ezt az értéket. A Aspose.Cells kiváló eszköz, jelentős sebességelőnnyel rendelkezik a VBA-val szemben.
+Szoftverszolgáltató cégként tisztában vagyunk azzal, milyen fontos az ügyfélszolgálat az ügyfelekkel való munka során. Örülök, hogy Aspose megosztja velünk ezt az értéket. A Aspose.Cells kiváló eszköz, jelentős sebességelőnnyel rendelkezik a VBA-val szemben.
  <em>
  Paul Katz | Intersoft, USA
  </em>
@@ -583,7 +595,7 @@ Aspose.Cells for .NET grafikus felhasználói felület vezérlőket biztosít a 
 
 {{< blocks/products/pf/testimonials-quote >}}
 <p class="second">
- Aspose számú termékcsomag és támogatás felülmúlhatatlan. E megoldás nélkül nem tudtuk volna megtenni, amit tettünk.
+ A Aspose számú termékcsomag és támogatás felülmúlhatatlan. E megoldás nélkül nem tudtuk volna megtenni, amit tettünk.
  <em>
  Dr. Dan Patterson | Acumen, Egyesült Királyság
  </em>
@@ -616,7 +628,7 @@ Aspose.Cells for .NET grafikus felhasználói felület vezérlőket biztosít a 
 
 {{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://downloads.aspose.com/cells/net" pricingInformationLink="https://purchase.aspose.com/pricing/cells/net" >}}
 
-{{< blocks/products/pf/offers-section pfName="Aspose.Cells" description="A Aspose.Cells egyedi Excel API-kat kínál más népszerű fejlesztői környezetekhez, az alábbiak szerint:" >}}
+{{< blocks/products/pf/offers-section pfName="Aspose.Cells" description="Aspose.Cells egyedi Excel API-kat kínál más népszerű fejlesztői környezetekhez, az alábbiak szerint:" >}}
 
     {{< blocks/products/pf/offers-section-item link="/cells/java/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sdkName="Java" >}}
     {{< blocks/products/pf/offers-section-item link="/cells/cpp/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" sdkName="C++" >}}

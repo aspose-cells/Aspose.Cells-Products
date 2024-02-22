@@ -12,11 +12,7 @@ keywords: [Java Aspose.Cells., Java Extract text and images from XLS file., Java
 
 {{% blocks/products/pf/agp/content h2="Jak analyzovat soubor XLS pomocí Java" %}}
 
- Abychom mohli analyzovat soubor XLS, použijeme
- [Aspose.Cells for Java](https://products.aspose.com/cells/java) 
- API, což je funkčně bohatá, výkonná a snadno použitelná platforma pro analýzu API for Java. Jeho nejnovější verzi si můžete stáhnout přímo z
- [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) 
- a nainstalujte jej do svého projektu založeného na Maven přidáním následujících konfigurací do souboru pom.xml.
+ Abychom mohli analyzovat soubor XLS, použijeme[Aspose.Cells for Java](https://products.aspose.com/cells/java) API, což je funkčně bohatá, výkonná a snadno použitelná platforma pro analýzu API for Java. Jeho nejnovější verzi si můžete stáhnout přímo z[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) a nainstalujte jej do svého projektu založeného na Maven přidáním následujících konfigurací do souboru pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Úložiště" offSpacer="true" %}}
 
@@ -54,9 +50,7 @@ keywords: [Java Aspose.Cells., Java Extract text and images from XLS file., Java
 
 {{% blocks/products/pf/agp/text %}}
 
- Základní analýza dokumentu s
- [Aspose.Cells for Java](https://products.aspose.com/cells/java) 
- Rozhraní API lze vytvořit pomocí několika řádků kódu. Analyzujte text a obrázky ze souborů Microsoft Excel XLS, XLSX, XLSM, XLSB a OpenDocument ODS.
+ Základní analýza dokumentu s[Aspose.Cells for Java](https://products.aspose.com/cells/java)Rozhraní API lze vytvořit pomocí několika řádků kódu. Analyzujte text a obrázky ze souborů Microsoft Excel XLS, XLSX, XLSM, XLSB a OpenDocument ODS.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -76,7 +70,7 @@ keywords: [Java Aspose.Cells., Java Extract text and images from XLS file., Java
 
 {{% /blocks/products/pf/agp/text %}}
 
--  Microsoft Windows nebo kompatibilní OS s Java Runtime Environment pro JSP/JSF aplikace a desktopové aplikace.
+- Microsoft Windows nebo kompatibilní OS s Java Runtime Environment pro JSP/JSF aplikace a desktopové aplikace.
 -  Získejte nejnovější verzi Aspose.Cells for Java přímo od
  [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells)  .
 
@@ -121,7 +115,7 @@ System.out.println(stringBuilder.toString());
 
 {{< blocks/products/pf/agp/about-file-section >}}
 
-    {{< blocks/products/pf/agp/demobox sectionTitle="Online XLS Živá ukázka parseru" sectionDescription=" Extrahujte text a obrázky z XLS dokumentů právě teď tím, že navštívíte naše[Webová stránka živé ukázky](https://products.aspose.app/cells/parser). Živé demo má následující výhody" >}}
+    {{< blocks/products/pf/agp/demobox sectionTitle="Online XLS Živá ukázka parseru" sectionDescription="Extrahujte text a obrázky z XLS dokumentů právě teď tím, že navštívíte naše[Webová stránka živé ukázky](https://products.aspose.app/cells/parser). Živé demo má následující výhody" >}}
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Není třeba stahovat Aspose API." >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Není třeba psát žádný kód." >}}
         {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Stačí nahrát své soubory XLS." >}}
@@ -142,6 +136,7 @@ Soubory s příponou XLS představují binární formát souboru Excel. Takové 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/parser/ods/" name="ODS" description="Soubor tabulkového procesoru OpenDocument" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/parser/xlsb/" name="XLSB" description="Binární soubor sešitu Excel" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/parser/xlsm/" name="XLSM" description="Soubor tabulky" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/parser/xlsx/" name="XLSX" description="Soubor Excel OOXML" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

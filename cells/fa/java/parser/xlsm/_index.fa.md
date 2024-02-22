@@ -12,11 +12,7 @@ keywords: [Java Aspose.Cells., Java Extract text and images from XLSM file., Jav
 
 {{% blocks/products/pf/agp/content h2="نحوه تجزیه فایل XLSM با استفاده از Java" %}}
 
- به منظور تجزیه فایل XLSM، از آن استفاده می کنیم
- [Aspose.Cells for Java](https://products.aspose.com/cells/java) 
- API که یک پلت فرم غنی از ویژگی، قدرتمند و آسان برای استفاده است API for Java. آخرین نسخه آن را می توانید مستقیماً از اینجا دانلود کنید
- [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) 
- و با افزودن تنظیمات زیر به pom.xml آن را در پروژه مبتنی بر Maven خود نصب کنید.
+ به منظور تجزیه فایل XLSM، از آن استفاده می کنیم[Aspose.Cells for Java](https://products.aspose.com/cells/java) API که یک پلت فرم غنی از ویژگی، قدرتمند و آسان برای استفاده است API for Java. آخرین نسخه آن را می توانید مستقیماً از اینجا دانلود کنید[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) و با افزودن تنظیمات زیر به pom.xml آن را در پروژه مبتنی بر Maven خود نصب کنید.
 
 {{% blocks/products/pf/agp/code-block title="مخزن" offSpacer="true" %}}
 
@@ -54,9 +50,7 @@ keywords: [Java Aspose.Cells., Java Extract text and images from XLSM file., Jav
 
 {{% blocks/products/pf/agp/text %}}
 
- تجزیه سند پایه با
- [Aspose.Cells for Java](https://products.aspose.com/cells/java) 
- API ها را می توان تنها با چند خط کد انجام داد. متن و تصاویر را از فایل های Microsoft Excel XLS، XLSX، XLSM، XLSB و OpenDocument ODS تجزیه کنید.
+ تجزیه سند پایه با[Aspose.Cells for Java](https://products.aspose.com/cells/java)API ها را می توان تنها با چند خط کد انجام داد. متن و تصاویر را از فایل های Microsoft Excel XLS، XLSX، XLSM، XLSB و OpenDocument ODS تجزیه کنید.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -76,7 +70,7 @@ keywords: [Java Aspose.Cells., Java Extract text and images from XLSM file., Jav
 
 {{% /blocks/products/pf/agp/text %}}
 
--  Microsoft Windows یا یک سیستم عامل سازگار با Java Runtime Environment برای برنامه های کاربردی JSP/JSF و برنامه های دسکتاپ.
+- Microsoft Windows یا یک سیستم عامل سازگار با Java Runtime Environment برای برنامه های کاربردی JSP/JSF و برنامه های دسکتاپ.
 -  آخرین نسخه Aspose.Cells for Java را مستقیماً از
  [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells)  .
 
@@ -121,7 +115,7 @@ System.out.println(stringBuilder.toString());
 
 {{< blocks/products/pf/agp/about-file-section >}}
 
-    {{< blocks/products/pf/agp/demobox sectionTitle="آنلاین XLSM Parser Live Demos" sectionDescription=" همین حالا با مراجعه به ما، متن و تصاویر را از اسناد XLSM استخراج کنید[وب سایت Live Demos](https://products.aspose.app/cells/parser). نسخه ی نمایشی زنده دارای مزایای زیر است" >}}
+    {{< blocks/products/pf/agp/demobox sectionTitle="آنلاین XLSM Parser Live Demos" sectionDescription="همین حالا با مراجعه به ما، متن و تصاویر را از اسناد XLSM استخراج کنید[وب سایت Live Demos](https://products.aspose.app/cells/parser). نسخه ی نمایشی زنده دارای مزایای زیر است" >}}
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" بدون نیاز به دانلود Aspose API." >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" نیازی به نوشتن هیچ کدی نیست." >}}
         {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" فقط فایل های XLSM خود را آپلود کنید." >}}
@@ -142,6 +136,7 @@ System.out.println(stringBuilder.toString());
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/parser/ods/" name="ODS" description="فایل صفحه گسترده OpenDocument" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/parser/xls/" name="XLS" description="فرمت باینری اکسل" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/parser/xlsb/" name="XLSB" description="فایل باینری کتاب کار اکسل" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/parser/xlsx/" name="XLSX" description="فایل OOXML اکسل" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

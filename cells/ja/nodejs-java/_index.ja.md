@@ -12,11 +12,11 @@ description: Node.js ライブラリを介して Excel ファイル形式を処�
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
- Aspose.Cells for Node.js via Java は、Node.js を使用して Excel スプレッドシートを処理するための機能が豊富でスケーラブルな API です。 API は、Excel ファイル形式の変換、最も詳細なレベルでのワークシートのスタイル設定、グラフの作成、およびグラフの作成を提供します。レンダリング、信頼性の高い数式計算エンジンなど。
+Aspose.Cells for Node.js via Java は、Node.js を使用して Excel スプレッドシートを処理するための機能が豊富でスケーラブルな API です。 API は、Excel ファイル形式の変換、最も詳細なレベルでのワークシートのスタイル設定、グラフの作成、およびグラフの作成を提供します。レンダリング、信頼性の高い数式計算エンジンなど。
 </p>
 
 <p>
-Aspose.Cells for Node.js via Java は、XLS、XLSX、ODS、SpreadsheetML、CSV、TSC、TSC などの最も一般的なスプレッドシート形式をサポートしています。 HTML。
+ Aspose.Cells for Node.js via Java は、XLS、XLSX、ODS、SpreadsheetML、CSV、TSC、TSC などの最も一般的なスプレッドシート形式をサポートしています。 HTML。
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
@@ -171,7 +171,7 @@ Node.js via Java
      <b>
 Microsoft エクセル:
      </b>
- XLS、XLSX、XLSB、XLTX、XLTM、XLSM、XML
+ XLS、XLSX、XLSB、XLT、XLTX、XLTM、XLSM、XML、OTS
     </li>
     <li>
      <b>
@@ -183,13 +183,25 @@ Microsoft エクセル:
      <b>
 文章：
      </b>
- CSV、タブ区切り、TXT
+     CSV, TSV, JSON
     </li>
     <li>
      <b>
 ウェブ：
      </b>
      HTML, MHTML
+    </li>
+    <li>
+     <b>
+      Numbers:
+     </b>
+ Apple の iWork オフィス スイート Numbers アプリのドキュメント
+    </li>
+    <li>
+     <b>
+その他:
+     </b>
+ SXC、FODS、EPUB
     </li>
    </ul>
   </div>
@@ -205,13 +217,25 @@ Microsoft エクセル:
      <b>
 固定レイアウト:
      </b>
-     PDF, XPS
+ PDF、PDF/A、XPS
     </li>
+    <li>
+     <b>
+データ交換:
+     </b>
+     DIF
+    </li>    
     <li>
      <b>
 画像:
      </b>
-     JPEG, PNG, BMP, SVG, TIFF, GIF, EMF
+     JPEG, PNG, BMP, SVG, TIFF, EMF, GIF
+    </li>
+    <li>
+     <b>
+その他:
+     </b>
+ MARKDOWN、SQL、XTHML
     </li>
    </ul>
   </div>

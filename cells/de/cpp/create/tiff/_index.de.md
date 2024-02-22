@@ -1,6 +1,6 @@
 ---
 title: Erstellen Sie TIFF – Erstellen Sie die Datei TIFF in C++
-description: Aspose Excel. C++ Erstellen Sie schnell und einfach eine TIFF-Datei mit Aspose.Cells. Erstellen Sie eine TIFF-Datei mit C++. Erstellen Sie TIFF in C++. C++ TIFF Creater.
+description:  Aspose Excel. C++ Erstellen Sie schnell und einfach eine TIFF-Datei mit Aspose.Cells. Erstellen Sie eine TIFF-Datei mit C++. Erstellen Sie TIFF in C++. C++ TIFF Creater.
 keywords: [Aspose Excel., C++ Aspose.Cells., C++ Create TIFF file., Generate TIFF file in C++., Create TIFF file using C++., Write data to TIFF file via C++., Create a TIFF file in C++., C++ Generate a TIFF file., C++ TIFF Creater]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -11,7 +11,7 @@ keywords: [Aspose Excel., C++ Aspose.Cells., C++ Create TIFF file., Generate TIF
 
 {{% blocks/products/pf/agp/content h2="Erstellen Sie die Datei TIFF mit C++" %}}
 
- Wie erstelle ich die Datei TIFF? Mit der Bibliothek Aspose.Cells for C++ können Sie die Datei TIFF ganz einfach programmgesteuert mit wenigen Codezeilen erstellen.[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) ist in der Lage, plattformübergreifende Anwendungen zu erstellen und alle Excel-Dateien zu generieren, zu ändern, zu konvertieren, zu rendern und zu drucken. C++ Excel API konvertiert nicht nur zwischen Tabellenkalkulationsformaten, sondern kann auch Excel-Dateien als Bilder, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT und mehr rendern, was es zur perfekten Wahl für den Austausch von Dokumenten in branchenüblichen Formaten macht. Sie können die neueste Version direkt herunterladen, indem Sie sie einfach öffnen[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) Paketmanager, suchen Sie nach Aspose.Cells.Cpp und installieren Sie es. Sie können auch den folgenden Befehl über die Paket-Manager-Konsole verwenden.
+ Wie erstelle ich die Datei TIFF? Mit der Bibliothek Aspose.Cells for C++ können Sie die Datei TIFF ganz einfach programmgesteuert mit wenigen Codezeilen erstellen.[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) ist in der Lage, plattformübergreifende Anwendungen zu erstellen und alle Excel-Dateien zu generieren, zu ändern, zu konvertieren, zu rendern und zu drucken. C++ Excel API konvertiert nicht nur zwischen Tabellenkalkulationsformaten, sondern kann auch Excel-Dateien als Bilder, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT und mehr rendern, was es zur perfekten Wahl für den Austausch von Dokumenten in branchenüblichen Formaten macht. Sie können die neueste Version direkt herunterladen, indem Sie sie einfach öffnen[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/)Paketmanager, suchen Sie nach Aspose.Cells.Cpp und installieren Sie es. Sie können auch den folgenden Befehl über die Paket-Manager-Konsole verwenden.
 
 {{% blocks/products/pf/agp/code-block title="Befehl" offSpacer="true" %}}
 
@@ -37,9 +37,9 @@ PM> Install-Package Aspose.Cells.Cpp
 1.  Erstellen Sie ein Objekt der Workbook-Klasse.
 1.  Holen Sie sich das erste Blatt in ein Worksheet-Objekt.
 1.  Verwenden Sie die Methode Worksheet.GetCells(), um die Zellen des Arbeitsblatts in ein Cells-Objekt abzurufen.
-1. Verwenden Sie die Methode Cells.Get(), um auf die gewünschte Zelle des Arbeitsblatts in einem Cell-Objekt zuzugreifen.
+1.  Verwenden Sie die Methode Cells.Get(), um auf die gewünschte Zelle des Arbeitsblatts in einem Cell-Objekt zuzugreifen.
 1.  Verwenden Sie die Methode Cell.PutValue(), um einen Wert in die Zelle einzugeben.
-1. Speichern Sie die Arbeitsmappe mit der Save()-Methode als TIFF-Datei.
+1.  Speichern Sie die Arbeitsmappe mit der Save()-Methode als TIFF-Datei.
 
 {{% blocks/products/pf/agp/code-block title="Der Beispielcode zeigt, wie die Datei TIFF in C++ erstellt wird." offSpacer="" %}}
 
@@ -70,7 +70,6 @@ cell01.PutValue(u"ColumnB");
 cell10.PutValue(u"ValueA");
 cell11.PutValue(u"ValueB");
 
-//TIFF format is not supported
 // Save workbook to resultFile folder
 wkb.Save(u"created_one.tiff");
 

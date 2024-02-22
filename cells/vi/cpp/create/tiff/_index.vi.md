@@ -1,6 +1,6 @@
 ---
 title: Tạo TIFF - Tạo file TIFF trong C++
-description: Aspose Excel. C++ Tạo file TIFF nhanh chóng và dễ dàng với Aspose.Cells. Tạo file TIFF bằng C++. Tạo TIFF trong C++. C++ TIFF Creator.
+description:  Aspose Excel. C++ Tạo file TIFF nhanh chóng và dễ dàng với Aspose.Cells. Tạo file TIFF bằng C++. Tạo TIFF trong C++. C++ TIFF Creator.
 keywords: [Aspose Excel., C++ Aspose.Cells., C++ Create TIFF file., Generate TIFF file in C++., Create TIFF file using C++., Write data to TIFF file via C++., Create a TIFF file in C++., C++ Generate a TIFF file., C++ TIFF Creater]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -11,7 +11,7 @@ keywords: [Aspose Excel., C++ Aspose.Cells., C++ Create TIFF file., Generate TIF
 
 {{% blocks/products/pf/agp/content h2="Tạo tệp TIFF bằng C++" %}}
 
- Làm cách nào để tạo tệp TIFF? Với thư viện Aspose.Cells for C++, bạn có thể dễ dàng Tạo tệp TIFF theo chương trình với một vài dòng mã.[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) có khả năng xây dựng các ứng dụng đa nền tảng với khả năng tạo, sửa đổi, chuyển đổi, hiển thị và in tất cả các tệp Excel. C++ Excel API không chỉ chuyển đổi giữa các định dạng bảng tính mà còn có thể hiển thị các tệp Excel dưới dạng hình ảnh, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT và hơn thế nữa, do đó biến nó thành một lựa chọn hoàn hảo để trao đổi tài liệu ở các định dạng tiêu chuẩn ngành. Bạn có thể tải trực tiếp phiên bản mới nhất của nó, chỉ cần mở[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) quản lý gói, tìm kiếm Aspose.Cells.Cpp và cài đặt. Bạn cũng có thể sử dụng lệnh sau từ Bảng điều khiển quản lý gói.
+ Làm cách nào để tạo tệp TIFF? Với thư viện Aspose.Cells for C++, bạn có thể dễ dàng Tạo tệp TIFF theo chương trình với một vài dòng mã.[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) có khả năng xây dựng các ứng dụng đa nền tảng với khả năng tạo, sửa đổi, chuyển đổi, hiển thị và in tất cả các tệp Excel. C++ Excel API không chỉ chuyển đổi giữa các định dạng bảng tính mà còn có thể hiển thị các tệp Excel dưới dạng hình ảnh, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT và hơn thế nữa, do đó biến nó thành một lựa chọn hoàn hảo để trao đổi tài liệu ở các định dạng tiêu chuẩn ngành. Bạn có thể tải trực tiếp phiên bản mới nhất của nó, chỉ cần mở[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/)quản lý gói, tìm kiếm Aspose.Cells.Cpp và cài đặt. Bạn cũng có thể sử dụng lệnh sau từ Bảng điều khiển quản lý gói.
 
 {{% blocks/products/pf/agp/code-block title="Yêu cầu" offSpacer="true" %}}
 
@@ -37,9 +37,9 @@ PM> Install-Package Aspose.Cells.Cpp
 1.  Tạo một đối tượng của lớp Workbook.
 1.  Đưa trang tính đầu tiên vào đối tượng Worksheet.
 1.  Sử dụng phương thức Worksheet.GetCells() để đưa các ô của bảng tính vào đối tượng Cells.
-1. Sử dụng phương thức Cells.Get() để truy cập ô mong muốn của bảng tính vào đối tượng Cell.
+1.  Sử dụng phương thức Cells.Get() để truy cập ô mong muốn của bảng tính vào đối tượng Cell.
 1.  Sử dụng phương thức Cell.PutValue() để nhập giá trị vào ô.
-1. Lưu sổ làm việc dưới dạng tệp .tiff bằng phương thức Save().
+1.  Lưu sổ làm việc dưới dạng tệp .tiff bằng phương thức Save().
 
 {{% blocks/products/pf/agp/code-block title="Mã mẫu hiển thị cách tạo tệp TIFF trong C++." offSpacer="" %}}
 
@@ -70,7 +70,6 @@ cell01.PutValue(u"ColumnB");
 cell10.PutValue(u"ValueA");
 cell11.PutValue(u"ValueB");
 
-//TIFF format is not supported
 // Save workbook to resultFile folder
 wkb.Save(u"created_one.tiff");
 

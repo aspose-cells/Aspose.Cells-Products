@@ -1,5 +1,5 @@
 ---
-title: Filigran XLSM belge via Java
+title:  Filigran XLSM belge via Java
 weight: 7680
 description: JSP/JSF Uygulaması ve Masaüstü Uygulamaları için Java Çalışma Zamanı Ortamı'ndaki XLSM dosyasına filigran eklemek veya kaldırmak için Java örnek kodu.
 keywords: [Java Aspose.Cells., Java add watermark to xlsm file., Java insert watermark to xlsm file., Java create watermark in xlsm file., remove watermark from xlsm file using Java., Java operate watermark in xlsm file., Java access watermark in xlsm file]
@@ -12,11 +12,7 @@ keywords: [Java Aspose.Cells., Java add watermark to xlsm file., Java insert wat
 
 {{% blocks/products/pf/agp/content h2="Java Kullanılarak XLSM Dosyasına Filigran Nasıl Yapılır?" %}}
 
- XLSM dosyasını filigranlamak için kullanacağız
- [Aspose.Cells for Java](https://products.aspose.com/cells/java) 
- Zengin özelliklere sahip, güçlü ve kullanımı kolay bir filigranlama platformu olan API API for Java. En son sürümünü doğrudan adresinden indirebilirsiniz.
- [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) 
- ve aşağıdaki yapılandırmaları pom.xml dosyasına ekleyerek Maven tabanlı projenize kurun.
+ XLSM dosyasını filigranlamak için kullanacağız[Aspose.Cells for Java](https://products.aspose.com/cells/java) Zengin özelliklere sahip, güçlü ve kullanımı kolay bir filigranlama platformu olan API API for Java. En son sürümünü doğrudan adresinden indirebilirsiniz.[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) ve aşağıdaki yapılandırmaları pom.xml dosyasına ekleyerek Maven tabanlı projenize kurun.
 
 {{% blocks/products/pf/agp/code-block title="Depo" offSpacer="true" %}}
 
@@ -129,13 +125,13 @@ workbook.save(dataDir + "AWArtWToWorksheet_out.xlsm");
     {{< blocks/products/pf/agp/about-file-section >}}
 
         {{< blocks/products/pf/agp/demobox sectionTitle="Filigran XLSM Çevrimiçi Uygulama aracılığıyla" sectionDescription=" XLSM belgemize filigran ekleyin.[Canlı Demolar web sitesi](https://products.aspose.app/cells/watermark). Canlı demo aşağıdaki avantajlara sahiptir" >}}
-            {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Hiçbir şey indirmenize veya kurmanıza gerek yok" >}}
+            {{< blocks/products/pf/agp/democard icon="fa-cogs" text="Hiçbir şey indirmenize veya kurmanıza gerek yok" >}}
             {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Herhangi bir kod yazmaya gerek yok" >}}
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Sadece XLSM dosyanızı yükleyin, filigranınızı ayarlayın ve \"Ekle\" düğmesine basın" >}}
             {{< blocks/products/pf/agp/democard icon="fa-download" text=" Ortaya çıkan dosyanın indirme bağlantısını anında alın" >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLSM" readMoreLink="https://docs.fileformat.com/spreadsheet/xlsm/" >}}
-XLSM uzantılı dosyalar, Makroları destekleyen bir Elektronik Tablo dosyası türüdür. Uygulama açısından bakıldığında, Makro, süreçleri otomatikleştirmek için kullanılan talimatlar kümesidir. Makro, tekrar tekrar gerçekleştirilen adımları kaydetmek için kullanılır ve makronun tekrar çalıştırılmasıyla eylemlerin gerçekleştirilmesini kolaylaştırır. Makrolar, Visual Basic Düzenleyicisi kullanılarak Excel Çalışma Kitabı içinden Microsoft'in Visual Basic for Applications (VBA) programıyla programlanır ve buradan doğrudan çalıştırılabilir/hata ayıklanabilir.
+XLSM uzantılı dosyalar, Makroları destekleyen bir Elektronik Tablo dosyası türüdür. Uygulama açısından bakıldığında, Makro, süreçleri otomatikleştirmek için kullanılan talimatlar kümesidir. Makro, tekrar tekrar gerçekleştirilen adımları kaydetmek için kullanılır ve makroyu tekrar çalıştırarak eylemlerin gerçekleştirilmesini kolaylaştırır. Makrolar, Visual Basic Düzenleyicisi kullanılarak Excel Çalışma Kitabı içinden Microsoft'in Visual Basic for Applications (VBA) programıyla programlanır ve buradan doğrudan çalıştırılabilir/hata ayıklanabilir.
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
@@ -148,6 +144,7 @@ XLSM uzantılı dosyalar, Makroları destekleyen bir Elektronik Tablo dosyası t
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/watermark/ods/" name="ODS" description="OpenDocument Elektronik Tablo Dosyası" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/watermark/xls/" name="XLS" description="Excel İkili Formatı" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/watermark/xlsb/" name="XLSB" description="İkili Excel Çalışma Kitabı Dosyası" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/watermark/xlsx/" name="XLSX" description="OOXML Excel Dosyası" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

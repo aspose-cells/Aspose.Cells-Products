@@ -13,7 +13,7 @@ keywords: [Python Aspose.Cells Create parse repair merge convert JSON Excel XML 
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
-Aspose.Cells for Python via Java là số API nhanh chóng và đáng tin cậy cho các tác vụ xử lý bảng tính. Nhà phát triển có thể tạo bảng tính đơn giản hoặc phức tạp, thao tác cũng như trích xuất thông tin từ tệp excel. API đọc nhiều định dạng excel và có thể hiển thị trang tính thành XPS, PDF, MHTML, HTML, Văn bản thuần túy, hình ảnh, v.v. Đây là giải pháp tốt nhất để tự động hóa báo cáo excel bằng python.
+ Aspose.Cells for Python via Java là số API nhanh chóng và đáng tin cậy cho các tác vụ xử lý bảng tính. Nhà phát triển có thể tạo bảng tính đơn giản hoặc phức tạp, thao tác cũng như trích xuất thông tin từ tệp excel. API đọc nhiều định dạng excel và có thể hiển thị trang tính thành XPS, PDF, MHTML, HTML, Văn bản thuần túy, hình ảnh, v.v. Đây là giải pháp tốt nhất để tự động hóa báo cáo excel bằng python.
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
@@ -38,7 +38,7 @@ Aspose.Cells for Python via Java là số API nhanh chóng và đáng tin cậy 
  Bộ kết quả
     </li>
     <li>
-Bộ sưu tập
+ Bộ sưu tập
     </li>
    </ul>
    <header>
@@ -76,7 +76,7 @@ Bộ sưu tập
  Tạo biểu đồ
     </li>
     <li>
- Tóm tắt
+Tóm tắt
     </li>
     <li>
  Điểm đánh dấu thông minh
@@ -159,7 +159,7 @@ Bộ sưu tập
      <b>
  Microsoft Excel:
      </b>
- XLS, XLSX, XLSB, XLTX, XLTM, XLSM, XML
+ XLS, XLSX, XLSB, XLT, XLTX, XLTM, XLSM, XML, OTS
     </li>
     <li>
      <b>
@@ -171,13 +171,25 @@ Bộ sưu tập
      <b>
  Chữ:
      </b>
-     CSV, TSV, TXT
+     CSV, TSV, JSON
     </li>
     <li>
      <b>
  Web:
      </b>
      HTML, MHTML
+    </li>
+    <li>
+     <b>
+      Numbers:
+     </b>
+ Tài liệu ứng dụng iWork office suite Numbers của Apple
+    </li>
+    <li>
+     <b>
+ Người khác:
+     </b>
+ SXC, FODS, EPUB
     </li>
    </ul>
   </div>
@@ -186,7 +198,7 @@ Bộ sưu tập
    <header>
     <i class="fa fa-mail-forward">
     </i>
- Chỉ đầu ra
+Chỉ đầu ra
    </header>
    <ul>
     <li>
@@ -197,9 +209,21 @@ Bộ sưu tập
     </li>
     <li>
      <b>
+ Trao đổi dữ liệu:
+     </b>
+     DIF
+    </li>    
+    <li>
+     <b>
  Hình ảnh:
      </b>
-     JPEG, PNG, BMP, SVG, EMF
+     JPEG, PNG, BMP, SVG, TIFF, EMF, GIF
+    </li>
+    <li>
+     <b>
+ Người khác:
+     </b>
+ MARKDOWN, SQL, XTHML
     </li>
    </ul>
   </div>
@@ -278,14 +302,14 @@ Bộ sưu tập
     <em class="fa fa-table ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Tạo bảng trụ và biểu đồ trụ
+ Tạo bảng trụ và biểu đồ trục
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-comment ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Thêm và chỉnh sửa nhận xét ở cấp ô
+ Thêm và chỉnh sửa nhận xét ở cấp độ ô
     </p>
    </div>
    <div class="col-lg-4">
@@ -306,7 +330,7 @@ Bộ sưu tập
     <em class="fa fa-object-ungroup ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-Thêm hoặc xóa nhóm theo hàng và cột
+ Thêm hoặc xóa nhóm theo hàng và cột
     </p>
    </div>
    <div class="col-lg-4">
@@ -416,11 +440,11 @@ Thêm hoặc xóa nhóm theo hàng và cột
  Chuyển đổi nhiều định dạng
     </h2>
     <p>
- Python Thư viện Excel cung cấp tính năng chuyển đổi file Excel thành PDF, XPS &amp; Định dạng HTML. Khả năng chuyển đổi đáng tin cậy của API khiến nó trở thành giải pháp hoàn hảo cho các công ty cần trao đổi tệp ở định dạng tiêu chuẩn ngành.
+Python Thư viện Excel cung cấp tính năng chuyển đổi file Excel thành PDF, XPS &amp; Định dạng HTML. Khả năng chuyển đổi đáng tin cậy của API khiến nó trở thành giải pháp hoàn hảo cho các công ty cần trao đổi tệp ở định dạng tiêu chuẩn ngành.
     </p>
     <div class="codeblock" id="code">
      <h3>
-Lưu bảng tính ở nhiều định dạng khác nhau - Java
+ Lưu bảng tính ở nhiều định dạng khác nhau - Java
      </h3>
      <pre><code class="java">
 // load file to be converted
@@ -489,7 +513,7 @@ wkbk.save(SD_PATH + "houtput.html", SaveFormat.HTML);</code></pre>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-Tùy chỉnh biểu đồ
+ Tùy chỉnh biểu đồ
     </h2>
     <p>
 Aspose.Cells for Python via Java hỗ trợ đầy đủ về biểu đồ. Người ta có thể dễ dàng thêm các biểu đồ tiêu chuẩn và tùy chỉnh hoặc tự động đặt dữ liệu biểu đồ để làm mới biểu đồ trong thư viện python này.

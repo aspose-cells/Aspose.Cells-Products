@@ -1,5 +1,5 @@
 ---
-title: واترمارک XLSM سند via Java
+title:  واترمارک XLSM سند via Java
 weight: 7680
 description: Java کد نمونه برای افزودن یا حذف واترمارک به فایل XLSM در Java Runtime Environment برای برنامه های کاربردی JSP/JSF و برنامه های دسکتاپ.
 keywords: [Java Aspose.Cells., Java add watermark to xlsm file., Java insert watermark to xlsm file., Java create watermark in xlsm file., remove watermark from xlsm file using Java., Java operate watermark in xlsm file., Java access watermark in xlsm file]
@@ -12,11 +12,7 @@ keywords: [Java Aspose.Cells., Java add watermark to xlsm file., Java insert wat
 
 {{% blocks/products/pf/agp/content h2="نحوه واترمارک کردن فایل XLSM با استفاده از Java" %}}
 
- به منظور واترمارک کردن فایل XLSM، از آن استفاده خواهیم کرد
- [Aspose.Cells for Java](https://products.aspose.com/cells/java) 
- API که یک پلتفرم واترمارکینگ غنی، قدرتمند و آسان برای استفاده است API for Java. آخرین نسخه آن را می توانید مستقیماً از اینجا دانلود کنید
- [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) 
- و با افزودن تنظیمات زیر به pom.xml آن را در پروژه مبتنی بر Maven خود نصب کنید.
+ به منظور واترمارک کردن فایل XLSM، از آن استفاده خواهیم کرد[Aspose.Cells for Java](https://products.aspose.com/cells/java) API که یک پلتفرم واترمارکینگ غنی، قدرتمند و آسان برای استفاده است API for Java. آخرین نسخه آن را می توانید مستقیماً از اینجا دانلود کنید[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) و با افزودن تنظیمات زیر به pom.xml آن را در پروژه مبتنی بر Maven خود نصب کنید.
 
 {{% blocks/products/pf/agp/code-block title="مخزن" offSpacer="true" %}}
 
@@ -129,7 +125,7 @@ workbook.save(dataDir + "AWArtWToWorksheet_out.xlsm");
     {{< blocks/products/pf/agp/about-file-section >}}
 
         {{< blocks/products/pf/agp/demobox sectionTitle="واترمارک XLSM از طریق برنامه آنلاین" sectionDescription=" با مراجعه به ما، به اسناد XLSM واترمارک اضافه کنید[وب سایت Live Demos](https://products.aspose.app/cells/watermark). نسخه ی نمایشی زنده دارای مزایای زیر است" >}}
-            {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" نیازی به دانلود یا تنظیم چیزی نیست" >}}
+            {{< blocks/products/pf/agp/democard icon="fa-cogs" text="نیازی به دانلود یا تنظیم چیزی نیست" >}}
             {{< blocks/products/pf/agp/democard icon="fa-edit" text=" نیازی به نوشتن هیچ کدی نیست" >}}
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text="فقط فایل XLSM خود را آپلود کنید، واترمارک خود را تنظیم کنید و دکمه \"افزودن\" را فشار دهید." >}}
             {{< blocks/products/pf/agp/democard icon="fa-download" text=" بلافاصله لینک دانلود فایل حاصل را دریافت کنید" >}}
@@ -148,6 +144,7 @@ workbook.save(dataDir + "AWArtWToWorksheet_out.xlsm");
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/watermark/ods/" name="ODS" description="فایل صفحه گسترده OpenDocument" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/watermark/xls/" name="XLS" description="فرمت باینری اکسل" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/watermark/xlsb/" name="XLSB" description="فایل باینری کتاب کار اکسل" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/watermark/xlsx/" name="XLSX" description="فایل OOXML اکسل" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

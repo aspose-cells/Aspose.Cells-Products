@@ -1,5 +1,5 @@
 ---
-title: Vattenstämpel XLS dokument via Java
+title:  Vattenstämpel XLS dokument via Java
 weight: 2210
 description: Java exempelkod för att lägga till eller ta bort vattenstämpel till XLS-filen på Java Runtime Environment för JSP/JSF Application och Desktop Applications.
 keywords: [Java Aspose.Cells., Java add watermark to xls file., Java insert watermark to xls file., Java create watermark in xls file., remove watermark from xls file using Java., Java operate watermark in xls file., Java access watermark in xls file]
@@ -12,11 +12,7 @@ keywords: [Java Aspose.Cells., Java add watermark to xls file., Java insert wate
 
 {{% blocks/products/pf/agp/content h2="Hur man vattenstämplar XLS-fil med Java" %}}
 
- För att vattenmärka filen XLS kommer vi att använda
- [Aspose.Cells for Java](https://products.aspose.com/cells/java) 
- API som är en funktionsrik, kraftfull och lättanvänd plattform för vattenmärkning API for Java. Du kan ladda ner den senaste versionen direkt från
- [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) 
- och installera det i ditt Maven-baserade projekt genom att lägga till följande konfigurationer till pom.xml.
+ För att vattenmärka filen XLS kommer vi att använda[Aspose.Cells for Java](https://products.aspose.com/cells/java) API som är en funktionsrik, kraftfull och lättanvänd plattform för vattenmärkning API for Java. Du kan ladda ner den senaste versionen direkt från[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) och installera det i ditt Maven-baserade projekt genom att lägga till följande konfigurationer till pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Förvar" offSpacer="true" %}}
 
@@ -129,7 +125,7 @@ workbook.save(dataDir + "AWArtWToWorksheet_out.xls");
     {{< blocks/products/pf/agp/about-file-section >}}
 
         {{< blocks/products/pf/agp/demobox sectionTitle="Vattenstämpel XLS via onlineapp" sectionDescription=" Lägg till vattenstämpel till XLS dokument genom att besöka vår[Live Demos webbplats](https://products.aspose.app/cells/watermark). Livedemon har följande fördelar" >}}
-            {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Du behöver inte ladda ner eller ställa in någonting" >}}
+            {{< blocks/products/pf/agp/democard icon="fa-cogs" text="Du behöver inte ladda ner eller ställa in någonting" >}}
             {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Du behöver inte skriva någon kod" >}}
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Ladda bara upp din XLS-fil, ställ in din vattenstämpel och tryck på knappen \"Lägg till\"." >}}
             {{< blocks/products/pf/agp/democard icon="fa-download" text=" Skaffa omedelbart nedladdningslänken för den resulterande filen" >}}
@@ -148,6 +144,7 @@ Filer med tillägget XLS representerar det binära filformatet i Excel. Sådana 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/watermark/ods/" name="ODS" description="OpenDocument Spreadsheet File" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/watermark/xlsb/" name="XLSB" description="Binär Excel arbetsbok fil" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/watermark/xlsm/" name="XLSM" description="Kalkylbladsfil" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/watermark/xlsx/" name="XLSX" description="OOXML Excel-fil" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

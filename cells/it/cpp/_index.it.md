@@ -1,11 +1,11 @@
 ---
-title: C++ Programmazione fogli di calcolo Excel API - Aspose
+title: C++ libreria Excel - Aspose.Cells
 weight: 7140
 description: Aspose.Cells for C++ libreria per creare, riparare, unire, analizzare e convertire file Excel. Converti Excel in PDF, JSON, XML, TSV e così via.
-keywords: [C++ Aspose.Cells Create repair parse merge convert JSON Excel XML PDF HTML TSV SQL ODS CSV TXT PNG JPEG and more formats]
+keywords: [C++ library execl Aspose.Cells Create repair parse merge convert JSON Excel XML PDF HTML TSV SQL ODS CSV TXT PNG JPEG and more formats]
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="C++ API per fogli di calcolo Excel" h2="Crea, leggi, scrivi e analizza fogli di calcolo senza dipendenze da Microsoft Excel all\'interno di applicazioni C++ completamente funzionali." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/headers/aspose_cells-for-cpp.svg" pfName="Aspose.Cells" subTitlepfName="for C++" downloadUrl="https://downloads.aspose.com/cells/cpp" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="C++ libreria Excel - Aspose.Cells" h2="Crea, leggi, scrivi e analizza fogli di calcolo senza dipendenze da Microsoft Excel all\'interno di applicazioni C++ completamente funzionali." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/headers/aspose_cells-for-cpp.svg" pfName="Aspose.Cells" subTitlepfName="for C++" downloadUrl="https://downloads.aspose.com/cells/cpp" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells" subTitlepfName="for C++" >}}
 
@@ -13,7 +13,7 @@ keywords: [C++ Aspose.Cells Create repair parse merge convert JSON Excel XML PDF
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
- Aspose.Cells for C++ è un C++ API nativo per la manipolazione dei fogli di calcolo. Le applicazioni possono eseguire funzioni come la creazione, la conversione e la modifica di proprietà integrate e personalizzate del foglio di calcolo, temi, stili e formattazione, convalida dei dati, formattazione condizionale, lettura, scrittura e calcolo di formule, raggruppamento di righe e colonne e molto altro senza fare affidamento sull'automazione di Office. oppure MicrosoftExcel. API supporta i formati di fogli di calcolo più comunemente utilizzati come XLS, XLSX, XLSM e XLSB.
+La libreria Aspose.Cells C++ è una libreria nativa C++ per la manipolazione dei fogli di calcolo. Le applicazioni possono eseguire funzioni come la creazione, la conversione e la modifica di proprietà integrate e personalizzate del foglio di calcolo, temi, stili e formattazione, convalida dei dati, formattazione condizionale, lettura, scrittura e calcolo di formule, raggruppamento di righe e colonne e molto altro senza fare affidamento sull'automazione di Office. oppure MicrosoftExcel. API supporta i formati di fogli di calcolo più comuni (come XLS, XLSX, XLSM e XLSB) nonché altri tipi di formati di file (come PDF, XPS) e i formati di immagine più comuni (come JPEG, 076 1123481, BMP, TIFF , GIF, EMF, SVG).
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
@@ -41,7 +41,7 @@ keywords: [C++ Aspose.Cells Create repair parse merge convert JSON Excel XML PDF
  Tabella pivot
     </li>
     <li>
-Tabelle
+ Tabelle
     </li>
     <li>
  Grafici
@@ -66,7 +66,7 @@ Tabelle
    </header>
    <ul>
     <li>
- Carica/salva fogli di calcolo
+Carica/salva fogli di calcolo
     </li>
     <li>
  Manipolazione di dati
@@ -135,7 +135,7 @@ Tabelle
    <header>
     <i class="fa fa-cubes">
     </i>
- Windows 64bit
+ Windows 64 bit
    </header>
   </div>
   <!--/left-->
@@ -168,7 +168,7 @@ Tabelle
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Formati di file supportati" description=" Aspose.Cells for C++ supporta il foglio di calcolo più comunemente utilizzato[formati di file](https://docs.aspose.com/cells/cpp/supported-file-formats/)." >}}
+{{< blocks/products/pf/carousel-item h3="Formati di file supportati" description=" La libreria Aspose.Cells C++ supporta i fogli di calcolo più comunemente utilizzati[formati di file](https://docs.aspose.com/cells/cpp/supported-file-formats/)." >}}
 <div class="diagram1 d2 d1-cplus">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -182,25 +182,37 @@ Tabelle
      <b>
  MicrosoftExcel:
      </b>
- XLS, XLSX, XLSB, XLT, XLTX, XLTM, XLSM, XML
+ XLS, XLSX, XLSB, XLT, XLTX, XLTM, XLSM, XML, OTS
+    </li>
+    <li>
+     <b>
+ Ufficio aperto:
+     </b>
+     ODS
     </li>
     <li>
      <b>
  Testo:
      </b>
-     CSV, TSV
+     CSV, TSV, JSON
     </li>
     <li>
-     <strong>
- Apri documento:
-     </strong>
-     ODS
-    </li>
-    <li>
-     <strong>
- Altri:
-     </strong>
+     <b>
+ Ragnatela:
+     </b>
      HTML, MHTML
+    </li>
+    <li>
+     <b>
+      Numbers:
+     </b>
+ Documenti dell'app iWork suite Numbers di Apple
+    </li>
+    <li>
+     <b>
+ Altri:
+     </b>
+ SXC, FODS, EPUB
     </li>
    </ul>
   </div>
@@ -209,26 +221,32 @@ Tabelle
    <header>
     <i class="fa fa-mail-forward">
     </i>
- Solo uscita
+Solo uscita
    </header>
    <ul>
     <li>
      <b>
- Eccellere:
+ Disposizione fissa:
      </b>
-     XLSM, XLTX, XLTM, XLAM
+ PDF, PDF/A, XPS
     </li>
     <li>
      <b>
- Disposizione fissa:
+ Scambio di dati:
      </b>
-     PDF, XPS
-    </li>
+     DIF
+    </li>    
     <li>
      <b>
  Immagini:
      </b>
-     JPEG, PNG, BMP, GIF, EMF, SVG
+     JPEG, PNG, BMP, SVG, TIFF, EMF, GIF
+    </li>
+    <li>
+     <b>
+ Altri:
+     </b>
+ MARKDOWN, SQL, XTHML
     </li>
    </ul>
   </div>
@@ -264,7 +282,7 @@ Tabelle
  <div class="row">
   <div class="container">
    <h2 class="pr-ft">
- Avanzato C++ Foglio di calcolo API Caratteristiche
+ Funzionalità avanzate della libreria C++ per Excel - Aspose.Cells
    </h2>
    <!-- <p>Unlike similar products from other vendors, Aspose.Cells for C++ not only supports spreadsheet generation and other basic file formatting features, it also supports a number of advanced features. These advanced features make it much easier for developers to manipulate spreadsheet contents and format cells.</p> 
 
@@ -275,7 +293,7 @@ Tabelle
     <em class="fa fa-save ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-Carica e salvare file Excel utilizzando i flussi
+ Carica e salvare file Excel utilizzando i flussi
     </p>
    </div>
    <div class="col-lg-4">
@@ -373,7 +391,7 @@ Carica e salvare file Excel utilizzando i flussi
     <em class="fa fa-tags ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Crea regole di formattazione condizionale
+Crea regole di formattazione condizionale
     </p>
    </div>
    <div class="col-lg-4">
@@ -399,10 +417,34 @@ Carica e salvare file Excel utilizzando i flussi
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
+ Requisiti di sistema
+    </h2>
+ La libreria Aspose.Cells C++ per Excel supporta i seguenti sistemi operativi e piattaforme a 64 bit o 32 bit:
+		<table>  
+			<tr>
+					<td style="font-weight: bold; width:400px">Sistema operativo</td>
+					<td style="font-weight: bold; width:400px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Versioni</td>
+				</tr>
+		  <tr>
+					<td>Microsoft Windows</td>
+					<td><ul><li>Windowsx86</li><li>Windowsx86_64</li></ul></td>
+		  </tr>
+		  <tr>
+					<td>Linux</td>
+					<td><ul><li>Linuxx86_64</li><li>Linux per ARM (aarch64)</li></ul></td>
+				</tr>
+		  <tr>
+					<td>Mac OS</td>
+					<td><ul><li>macOS 11 o successivo (arm64, x86_64)</li></ul></td>
+				</tr>
+		</table>
+   </div>
+   <div class="col-lg-12">
+    <h2 class="h2title">
  Dipendenza zero da Microsoft Excel
     </h2>
     <p>
-Le API Aspose sono totalmente indipendenti e non sono affiliate, né autorizzate, sponsorizzate o altrimenti approvate da Microsoft Corporation. Aspose.Cells for C++ non necessita mai che Microsoft Office o Microsoft Excel siano installati sulla macchina per lavorare con i formati di documenti Excel.
+ La libreria Aspose.Cells C++ per Excel è totalmente indipendente e non è affiliata, né autorizzata, sponsorizzata o altrimenti approvata da Microsoft Corporation. La libreria Aspose.Cells C++ non ha mai bisogno che Microsoft Office o Microsoft Excel siano installati sulla macchina per funzionare con i formati di documenti Excel.
     </p>
    </div>
    <div class="col-lg-12">
@@ -410,7 +452,7 @@ Le API Aspose sono totalmente indipendenti e non sono affiliate, né autorizzate
  Semplice e semplice Conversione affidabile di formati Excel
     </h2>
     <p>
- Aspose.Cells for C++ è un potente set di API che offre la possibilità di caricare, modificare, scrivere e convertire tra loro formati di file Excel senza preoccuparsi dei dettagli specifici del formato. Lo API ti consente di convertire fogli di calcolo da qualsiasi formato supportato a qualsiasi altro formato supportato con solo due righe di codice. È così semplice!
+La libreria Aspose.Cells C++ è un potente set di API che offre la possibilità di caricare, modificare, scrivere e convertire tra loro formati di file Excel senza preoccuparsi dei dettagli specifici del formato. Lo API ti consente di convertire fogli di calcolo da qualsiasi formato supportato a qualsiasi altro formato supportato con solo due righe di codice. È così semplice!
     </p>
     <div class="codeblock" id="code">
      <h3>
@@ -434,7 +476,7 @@ Le API Aspose sono totalmente indipendenti e non sono affiliate, né autorizzate
  Formattazione completa del foglio di calcolo
     </h2>
     <p>
-Aspose.Cells for C++ ti dà il controllo completo su come desideri presentare i tuoi dati nel foglio di lavoro, offrendo funzionalità di formattazione avanzate. Puoi applicare la formattazione a singole righe, colonne o celle oppure puoi creare un intervallo di celle e applicarvi la formattazione. Puoi anche aggiungere testo RTF a una cella, applicare bordi, impostare motivi di sfondo o modificare aspetti di stile relativi ai caratteri.
+ La libreria Aspose.Cells C++ ti dà il controllo completo su come desideri presentare i tuoi dati nel foglio di lavoro, offrendo funzionalità di formattazione avanzate. Puoi applicare la formattazione a singole righe, colonne o celle oppure puoi creare un intervallo di celle e applicarvi la formattazione. Puoi anche aggiungere testo RTF a una cella, applicare bordi, impostare motivi di sfondo o modificare aspetti di stile relativi ai caratteri.
     </p>
    </div>
    <div class="col-lg-12">
@@ -442,7 +484,7 @@ Aspose.Cells for C++ ti dà il controllo completo su come desideri presentare i 
  Visualizza i dati con i grafici
     </h2>
     <p>
- Aspose.Cells for C++ offre un set completo di API per creare dinamicamente tutti i tipi di grafici standard e personalizzati supportati dall'applicazione Excel. Lo API offre anche la possibilità di aggiornare l'origine dati per un grafico esistente e aggiornarlo.
+La libreria Aspose.Cells C++ offre un set completo di API per creare dinamicamente tutti i tipi di grafici standard e personalizzati supportati dall'applicazione Excel. Lo API offre anche la possibilità di aggiornare l'origine dati per un grafico esistente e aggiornarlo.
     </p>
    </div>
    <div class="col-lg-12">
@@ -450,7 +492,7 @@ Aspose.Cells for C++ ti dà il controllo completo su come desideri presentare i 
  Rendering dei fogli di lavoro come immagini
     </h2>
     <p>
-La libreria esegue il rendering con la massima fedeltà su Microsoft Excel utilizzando il proprio motore di rendering. Offre funzionalità distintive come il rendering di fogli di lavoro in immagini nei formati più diffusi tra cui BMP, PNG, JPEG e amp; EMF. Il processo Sheet2Image è flessibile e consente quindi di selezionare opzioni come il controllo della risoluzione dell'immagine risultante.
+ La libreria Aspose.Cells C++ esegue il rendering con la massima fedeltà rispetto a Microsoft Excel utilizzando il proprio motore di rendering. Offre funzionalità distintive come il rendering di fogli di lavoro in immagini nei formati più diffusi tra cui BMP, TIFF, PNG, JPEG e amp; EMF. Il processo Sheet2Image è flessibile e consente quindi di selezionare opzioni come il controllo della risoluzione dell'immagine risultante.
     </p>
    </div>
    <div class="col-lg-12">
@@ -458,7 +500,7 @@ La libreria esegue il rendering con la massima fedeltà su Microsoft Excel utili
  Manipolare colonne e righe
     </h2>
     <p>
- Aspose.Cells for C++ offre la manipolazione di righe e colonne in diversi modi. Regolare l'altezza della riga e la larghezza della colonna o ridimensionare automaticamente le dimensioni della cella in base al contenuto in essa contenuto è troppo semplice. Lo API offre anche i mezzi per eliminare e inserire, nascondere o mostrare, nonché raggruppare o separare righe e colonne.
+La libreria Aspose.Cells C++ offre la manipolazione di righe e colonne in diversi modi. Regolare l'altezza della riga e la larghezza della colonna o ridimensionare automaticamente le dimensioni della cella in base al contenuto in essa contenuto è troppo semplice. Lo API offre anche i mezzi per eliminare e inserire, nascondere o mostrare, nonché raggruppare o separare righe e colonne.
     </p>
    </div>
    <div class="col-lg-12">
@@ -466,7 +508,7 @@ La libreria esegue il rendering con la massima fedeltà su Microsoft Excel utili
  Converti accuratamente i fogli di calcolo in PDF
     </h2>
     <p>
-La libreria Excel C++ offre la possibilità di convertire i fogli di calcolo nel formato PDF mantenendo la stessa qualità del documento originale. Questo fatto rende Aspose.Cells for C++ una scelta perfetta per le organizzazioni che richiedono di scambiare documenti in formati standard del settore come PDF.
+ La libreria Aspose.Cells C++ offre la possibilità di convertire fogli di calcolo nel formato PDF mantenendo la stessa qualità del documento originale. Questo fatto rende la libreria Aspose.Cells C++ una scelta perfetta per le organizzazioni che necessitano di scambiare documenti in formati standard del settore come PDF.
     </p>
    </div>
    <!-- 

@@ -1,5 +1,5 @@
 ---
-title:  Ekstrak teks dan gambar dari dokumen XLSB melalui C++
+title: Ekstrak teks dan gambar dari dokumen XLSB melalui C++
 weight: 3140
 description: Contoh kode C++ untuk mengekstrak teks dan gambar dari file XLSB di C++ Runtime Environment untuk Windows 32 bit, Windows 64 bit dan Linux 64 bit.
 keywords: [C++ Aspose.Cells., C++ Extract text and images from XLSB file., C++ How to Parse XLSB File., C++ Extract text from XLSB file., Extract images from XLSB file using C++]
@@ -12,13 +12,7 @@ keywords: [C++ Aspose.Cells., C++ Extract text and images from XLSB file., C++ H
 
 {{% blocks/products/pf/agp/content h2="Cara Parsing File XLSB Menggunakan C++" %}}
 
- Untuk mengurai file XLSB, kami akan menggunakan
- [Aspose.Cells for C++](https://products.aspose.com/cells/cpp) 
- API yang merupakan platform penguraian dokumen yang kaya fitur, kuat, dan mudah digunakan API for C++. Anda bisa langsung mendownload versi terbarunya, buka saja
- [NuGet](https://www.nuget.org/packages/aspose.cells) 
- manajer paket, cari
- **Aspose.Cells.Cpp** 
- dan instal. Anda juga dapat menggunakan perintah berikut dari Package Manager Console.
+ Untuk mengurai file XLSB, kami akan menggunakan[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) API yang merupakan platform penguraian dokumen yang kaya fitur, kuat, dan mudah digunakan API for C++. Anda bisa langsung mendownload versi terbarunya, buka saja[NuGet](https://www.nuget.org/packages/aspose.cells) manajer paket, cari**Aspose.Cells.Cpp** dan instal. Anda juga dapat menggunakan perintah berikut dari Package Manager Console.
 
 {{% blocks/products/pf/agp/code-block title="Memerintah" offSpacer="true" %}}
 
@@ -38,9 +32,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% blocks/products/pf/agp/text %}}
 
- Penguraian dokumen dasar dengan
- [Aspose.Cells for C++](https://products.aspose.com/cells/cpp) 
- API dapat dilakukan hanya dengan beberapa baris kode. Parsing teks & gambar dari file Microsoft Excel XLS, XLSX, XLSM, XLSB dan OpenDocument ODS.
+ Penguraian dokumen dasar dengan[Aspose.Cells for C++](https://products.aspose.com/cells/cpp)API dapat dilakukan hanya dengan beberapa baris kode. Parsing teks & gambar dari file Microsoft Excel XLS, XLSX, XLSM, XLSB dan OpenDocument ODS.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -108,7 +100,7 @@ Aspose::Cells::Cleanup();
 
 {{< blocks/products/pf/agp/about-file-section >}}
 
-    {{< blocks/products/pf/agp/demobox sectionTitle="Demo Langsung Parser Online XLSB" sectionDescription=" Ekstrak teks dan gambar dari dokumen XLSB sekarang juga dengan mengunjungi kami[Situs web Demo Langsung](https://products.aspose.app/cells/parser). Demo langsung memiliki manfaat sebagai berikut" >}}
+    {{< blocks/products/pf/agp/demobox sectionTitle="Demo Langsung Parser Online XLSB" sectionDescription="Ekstrak teks dan gambar dari dokumen XLSB sekarang juga dengan mengunjungi kami[Situs web Demo Langsung](https://products.aspose.app/cells/parser). Demo langsung memiliki manfaat sebagai berikut" >}}
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Tidak perlu download Aspose API." >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Tidak perlu menulis kode apa pun." >}}
         {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Cukup unggah file XLSB Anda." >}}
@@ -129,6 +121,7 @@ Format file XLSB menentukan Format File Biner Excel, yang merupakan kumpulan rek
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/parser/ods/" name="ODS" description="File Lembar Bentang OpenDocument" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/parser/xls/" name="XLS" description="Format Biner Excel" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/parser/xlsm/" name="XLSM" description="Berkas Lembar Bentang" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/parser/xlsx/" name="XLSX" description="Berkas OOXML Excel" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

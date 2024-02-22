@@ -12,13 +12,8 @@ keywords: [C# Aspose.Cells., c# Extract text and images from XLSM file., c# How 
 
 {{% blocks/products/pf/agp/content h2="วิธีแยกวิเคราะห์ไฟล์ XLSM โดยใช้ C#" %}}
 
- เพื่อที่จะแยกวิเคราะห์ไฟล์ XLSM เราจะใช้
- [Aspose.Cells for .NET](https://products.aspose.com/cells/net) 
- API ซึ่งเป็นโปรแกรมจัดการเอกสารที่มีคุณสมบัติหลากหลาย ทรงพลัง และใช้งานง่าย API สำหรับแพลตฟอร์ม C# เปิด
- [NuGet](https://www.nuget.org/packages/aspose.cells) 
- ผู้จัดการแพ็คเกจ ค้นหา
- **Aspose.Cells** 
- และติดตั้ง คุณอาจใช้คำสั่งต่อไปนี้จาก Package Manager Console
+ เพื่อที่จะแยกวิเคราะห์ไฟล์ XLSM เราจะใช้[Aspose.Cells for .NET](https://products.aspose.com/cells/net) API ซึ่งเป็นโปรแกรมจัดการเอกสารที่มีคุณสมบัติหลากหลาย ทรงพลัง และใช้งานง่าย API สำหรับแพลตฟอร์ม C# เปิด[NuGet](https://www.nuget.org/packages/aspose.cells) ผู้จัดการแพ็คเกจ ค้นหา
+ **Aspose.Cells** และติดตั้ง คุณอาจใช้คำสั่งต่อไปนี้จาก Package Manager Console
 
 {{% blocks/products/pf/agp/code-block title="สั่งการ" offSpacer="true" %}}
 
@@ -38,9 +33,7 @@ PM> Install-Package Aspose.Cells
 
 {{% blocks/products/pf/agp/text %}}
 
- เอกสารพื้นฐานแยกวิเคราะห์ด้วย
- [Aspose.Cells for .NET](https://products.aspose.com/cells/net) 
- API สามารถทำได้โดยใช้โค้ดเพียงไม่กี่บรรทัด แยกวิเคราะห์ข้อความและรูปภาพจากไฟล์ Microsoft Excel XLS, XLSX, XLSM, XLSB และ OpenDocument ODS
+ เอกสารพื้นฐานแยกวิเคราะห์ด้วย[Aspose.Cells for .NET](https://products.aspose.com/cells/net)API สามารถทำได้โดยใช้โค้ดเพียงไม่กี่บรรทัด แยกวิเคราะห์ข้อความและรูปภาพจากไฟล์ Microsoft Excel XLS, XLSX, XLSM, XLSB และ OpenDocument ODS
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -56,7 +49,7 @@ PM> Install-Package Aspose.Cells
 
 {{% blocks/products/pf/agp/text %}}
 
- API ของเราได้รับการสนับสนุนบนแพลตฟอร์มและระบบปฏิบัติการหลักทั้งหมด ก่อนที่จะรันโค้ดด้านล่าง โปรดตรวจสอบให้แน่ใจว่าคุณมีข้อกำหนดเบื้องต้นต่อไปนี้ในระบบของคุณ
+API ของเราได้รับการสนับสนุนบนแพลตฟอร์มและระบบปฏิบัติการหลักทั้งหมด ก่อนที่จะรันโค้ดด้านล่าง โปรดตรวจสอบให้แน่ใจว่าคุณมีข้อกำหนดเบื้องต้นต่อไปนี้ในระบบของคุณ
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -115,7 +108,7 @@ PM> Install-Package Aspose.Cells
 
     {{< blocks/products/pf/agp/about-file-section >}}
 
-        {{< blocks/products/pf/agp/demobox sectionTitle="ออนไลน์ XLSM Parser สาธิตสด" sectionDescription=" แยกข้อความและรูปภาพจากเอกสาร XLSM ได้เลยโดยเข้าไปที่[เว็บไซต์สาธิตสด](https://products.aspose.app/cells/parser). การสาธิตสดมีข้อดีดังต่อไปนี้" >}}
+        {{< blocks/products/pf/agp/demobox sectionTitle="ออนไลน์ XLSM Parser สาธิตสด" sectionDescription="แยกข้อความและรูปภาพจากเอกสาร XLSM ได้เลยโดยเข้าไปที่[เว็บไซต์สาธิตสด](https://products.aspose.app/cells/parser). การสาธิตสดมีข้อดีดังต่อไปนี้" >}}
             {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" ไม่ต้องดาวน์ Aspose API." >}}
             {{< blocks/products/pf/agp/democard icon="fa-edit" text=" ไม่จำเป็นต้องเขียนโค้ดใดๆ" >}}
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" เพียงอัพโหลดไฟล์ XLSM ของคุณ" >}}
@@ -135,6 +128,7 @@ PM> Install-Package Aspose.Cells
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/parser/ods/" name="ODS" description="ไฟล์สเปรดชีต OpenDocument" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/parser/xls/" name="XLS" description="รูปแบบไบนารีของ Excel" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/parser/xlsb/" name="XLSB" description="ไฟล์สมุดงาน Excel ไบนารี" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/parser/xlsx/" name="XLSX" description="ไฟล์ OOXML Excel" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

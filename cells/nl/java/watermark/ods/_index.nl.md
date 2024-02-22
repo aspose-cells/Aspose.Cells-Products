@@ -1,5 +1,5 @@
 ---
-title: Watermerk ODS document via Java
+title:  Watermerk ODS document via Java
 weight: 1040
 description: Java voorbeeldcode voor het toevoegen of verwijderen van een watermerk aan het ODS-bestand op Java Runtime Environment voor JSP/JSF-applicaties en desktopapplicaties.
 keywords: [Java Aspose.Cells., Java add watermark to ods file., Java insert watermark to ods file., Java create watermark in ods file., remove watermark from ods file using Java., Java operate watermark in ods file., Java access watermark in ods file]
@@ -12,11 +12,7 @@ keywords: [Java Aspose.Cells., Java add watermark to ods file., Java insert wate
 
 {{% blocks/products/pf/agp/content h2="Hoe u het ODS-bestand van een watermerk kunt voorzien met behulp van Java" %}}
 
- Om het bestand ODS van een watermerk te voorzien, gebruiken we
- [Aspose.Cells for Java](https://products.aspose.com/cells/java) 
- API, een rijk, krachtig en gebruiksvriendelijk watermerkplatform API for Java. U kunt de nieuwste versie rechtstreeks downloaden van
- [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) 
- en installeer het binnen uw op Maven gebaseerde project door de volgende configuraties toe te voegen aan pom.xml.
+ Om het bestand ODS van een watermerk te voorzien, gebruiken we[Aspose.Cells for Java](https://products.aspose.com/cells/java) API, een rijk, krachtig en gebruiksvriendelijk watermerkplatform API for Java. U kunt de nieuwste versie rechtstreeks downloaden van[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) en installeer het binnen uw op Maven gebaseerde project door de volgende configuraties toe te voegen aan pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Opslagplaats" offSpacer="true" %}}
 
@@ -129,7 +125,7 @@ workbook.save(dataDir + "AWArtWToWorksheet_out.ods");
     {{< blocks/products/pf/agp/about-file-section >}}
 
         {{< blocks/products/pf/agp/demobox sectionTitle="Watermerk ODS via online app" sectionDescription=" Voeg een watermerk toe aan ODS-documenten door naar onze[Live demo-website](https://products.aspose.app/cells/watermark). De live demo heeft de volgende voordelen" >}}
-            {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" U hoeft niets te downloaden of in te stellen" >}}
+            {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" hoeft niets te downloaden of in te stellen" >}}
             {{< blocks/products/pf/agp/democard icon="fa-edit" text=" U hoeft geen code te schrijven" >}}
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Upload gewoon uw ODS-bestand, stel uw watermerk in en klik op de knop \"Toevoegen\"." >}}
             {{< blocks/products/pf/agp/democard icon="fa-download" text=" Ontvang direct de downloadlink voor het resulterende bestand" >}}
@@ -148,6 +144,7 @@ Bestanden met de extensie ODS staan voor het OpenDocument Spreadsheet Document-f
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/watermark/xls/" name="XLS" description="Excel binair formaat" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/watermark/xlsb/" name="XLSB" description="Binair Excel-werkmapbestand" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/watermark/xlsm/" name="XLSM" description="Spreadsheet-bestand" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/watermark/xlsx/" name="XLSX" description="OOXML Excel-bestand" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

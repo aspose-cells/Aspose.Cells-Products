@@ -1,5 +1,5 @@
 ---
-title: Водяной знак ODS документ via Java
+title:  Водяной знак ODS документ via Java
 weight: 1040
 description: Пример кода Java для добавления или удаления водяного знака в файле ODS в среде выполнения Java для приложений JSP/JSF и настольных приложений.
 keywords: [Java Aspose.Cells., Java add watermark to ods file., Java insert watermark to ods file., Java create watermark in ods file., remove watermark from ods file using Java., Java operate watermark in ods file., Java access watermark in ods file]
@@ -12,11 +12,7 @@ keywords: [Java Aspose.Cells., Java add watermark to ods file., Java insert wate
 
 {{% blocks/products/pf/agp/content h2="Как поставить водяной знак ODS на файле с помощью Java" %}}
 
- Чтобы поставить водяной знак на файл ODS, мы будем использовать
- [Aspose.Cells for Java](https://products.aspose.com/cells/java) 
- API — многофункциональная, мощная и простая в использовании платформа для нанесения водяных знаков. API for Java. Вы можете скачать его последнюю версию прямо с
- [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) 
- и установите его в свой проект на основе Maven, добавив следующие конфигурации в pom.xml.
+ Чтобы поставить водяной знак на файл ODS, мы будем использовать[Aspose.Cells for Java](https://products.aspose.com/cells/java) API — многофункциональная, мощная и простая в использовании платформа для нанесения водяных знаков. API for Java. Вы можете скачать его последнюю версию прямо с[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) и установите его в свой проект на основе Maven, добавив следующие конфигурации в pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Репозиторий" offSpacer="true" %}}
 
@@ -129,7 +125,7 @@ workbook.save(dataDir + "AWArtWToWorksheet_out.ods");
     {{< blocks/products/pf/agp/about-file-section >}}
 
         {{< blocks/products/pf/agp/demobox sectionTitle="Водяной знак ODS через онлайн-приложение" sectionDescription=" Добавьте водяной знак в документы ODS, посетив наш[Веб-сайт живых демонстраций](https://products.aspose.app/cells/watermark). Живая демонстрация имеет следующие преимущества" >}}
-            {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Не нужно ничего скачивать или настраивать" >}}
+            {{< blocks/products/pf/agp/democard icon="fa-cogs" text="Не нужно ничего скачивать или настраивать" >}}
             {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Нет необходимости писать какой-либо код" >}}
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Просто загрузите файл ODS, установите водяной знак и нажмите кнопку «Добавить»." >}}
             {{< blocks/products/pf/agp/democard icon="fa-download" text=" Мгновенно получите ссылку для скачивания полученного файла." >}}
@@ -148,6 +144,7 @@ workbook.save(dataDir + "AWArtWToWorksheet_out.ods");
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/watermark/xls/" name="XLS" description="Двоичный формат Excel" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/watermark/xlsb/" name="XLSB" description="Двоичный файл книги Excel" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/watermark/xlsm/" name="XLSM" description="Файл электронной таблицы" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/watermark/xlsx/" name="XLSX" description="OOXML-файл Excel" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

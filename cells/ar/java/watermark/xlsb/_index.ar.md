@@ -1,5 +1,5 @@
 ---
-title: العلامة المائية XLSB الوثيقة via Java
+title:  العلامة المائية XLSB الوثيقة via Java
 weight: 5900
 description: نموذج التعليمات البرمجية Java لإضافة أو إزالة العلامة المائية إلى ملف XLSB على Java بيئة التشغيل لتطبيقات JSP/JSF وتطبيقات سطح المكتب.
 keywords: [Java Aspose.Cells., Java add watermark to xlsb file., Java insert watermark to xlsb file., Java create watermark in xlsb file., remove watermark from xlsb file using Java., Java operate watermark in xlsb file., Java access watermark in xlsb file]
@@ -12,11 +12,7 @@ keywords: [Java Aspose.Cells., Java add watermark to xlsb file., Java insert wat
 
 {{% blocks/products/pf/agp/content h2="كيفية وضع علامة مائية على الملف XLSB باستخدام Java" %}}
 
- من أجل وضع علامة مائية على الملف XLSB، سنستخدم
- [Aspose.Cells for Java](https://products.aspose.com/cells/java) 
- API وهي منصة غنية بالميزات وقوية وسهلة الاستخدام للعلامة المائية API for Java. يمكنك تنزيل أحدث إصدار مباشرة من
- [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) 
- وقم بتثبيته ضمن مشروعك المستند إلى Maven عن طريق إضافة التكوينات التالية إلى ملف pom.xml.
+ من أجل وضع علامة مائية على الملف XLSB، سنستخدم[Aspose.Cells for Java](https://products.aspose.com/cells/java) API وهي منصة غنية بالميزات وقوية وسهلة الاستخدام للعلامة المائية API for Java. يمكنك تنزيل أحدث إصدار مباشرة من[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) وقم بتثبيته ضمن مشروعك المستند إلى Maven عن طريق إضافة التكوينات التالية إلى ملف pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="مخزن" offSpacer="true" %}}
 
@@ -129,13 +125,13 @@ workbook.save(dataDir + "AWArtWToWorksheet_out.xlsb");
     {{< blocks/products/pf/agp/about-file-section >}}
 
         {{< blocks/products/pf/agp/demobox sectionTitle="العلامة المائية XLSB عبر التطبيق عبر الإنترنت" sectionDescription=" أضف علامة مائية إلى مستندات XLSB من خلال زيارة موقعنا[موقع العروض الحية](https://products.aspose.app/cells/watermark). يتمتع العرض التجريبي المباشر بالمزايا التالية" >}}
-            {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" لا حاجة لتنزيل أو إعداد أي شيء" >}}
+            {{< blocks/products/pf/agp/democard icon="fa-cogs" text="لا حاجة لتنزيل أو إعداد أي شيء" >}}
             {{< blocks/products/pf/agp/democard icon="fa-edit" text=" لا حاجة لكتابة أي رمز" >}}
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text="ما عليك سوى تحميل ملف XLSB الخاص بك، وتعيين العلامة المائية الخاصة بك والضغط على زر \"إضافة\"." >}}
             {{< blocks/products/pf/agp/democard icon="fa-download" text=" احصل على رابط التنزيل للملف الناتج على الفور" >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLSB" readMoreLink="https://docs.fileformat.com/spreadsheet/xlsb/" >}}
-يحدد تنسيق الملف XLSB تنسيق ملف Excel الثنائي، وهو عبارة عن مجموعة من السجلات والهياكل التي تحدد محتوى مصنف Excel. يمكن أن يتضمن المحتوى جداول غير منظمة أو شبه منظمة من الأرقام أو النصوص أو كل من الأرقام والنصوص والصيغ واتصالات البيانات الخارجية والمخططات والصور. على عكس XLSX (الذي يعتمد على تنسيق ملف XML المفتوح)، يمثل XLSB ملف مصنف Excel الثنائي. يمكن قراءة وكتابة ملفات XLSB بشكل أسرع مما يجعلها مفيدة للعمل مع الملفات الكبيرة. نادرًا ما يتم استخدام XLSB لتخزين المصنفات حيث أن XLSX (وسابقًا XLS) هي تنسيقات الملفات المحددة الأكثر شيوعًا من قبل المستخدم لحفظ المصنفات. يمكن فتحه بواسطة Microsoft Office 2007 وما فوق.
+يحدد تنسيق الملف XLSB تنسيق ملف Excel الثنائي، وهو عبارة عن مجموعة من السجلات والهياكل التي تحدد محتوى مصنف Excel. يمكن أن يشتمل المحتوى على جداول أرقام غير منظمة أو شبه منظمة، أو نصوص، أو كل من الأرقام والنصوص، والصيغ، واتصالات البيانات الخارجية، والمخططات والصور. على عكس XLSX (الذي يعتمد على تنسيق ملف XML المفتوح)، يمثل XLSB ملف مصنف Excel الثنائي. يمكن قراءة وكتابة ملفات XLSB بشكل أسرع مما يجعلها مفيدة للعمل مع الملفات الكبيرة. نادرًا ما يتم استخدام XLSB لتخزين المصنفات حيث أن XLSX (وسابقًا XLS) هي تنسيقات الملفات المحددة الأكثر شيوعًا من قبل المستخدم لحفظ المصنفات. يمكن فتحه بواسطة Microsoft Office 2007 وما فوق.
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
@@ -148,6 +144,7 @@ workbook.save(dataDir + "AWArtWToWorksheet_out.xlsb");
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/watermark/ods/" name="ODS" description="ملف جدول بيانات OpenDocument" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/watermark/xls/" name="XLS" description="تنسيق ثنائي إكسل" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/watermark/xlsm/" name="XLSM" description="ملف جدول البيانات" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/watermark/xlsx/" name="XLSX" description="ملف اكسيل OOXML" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

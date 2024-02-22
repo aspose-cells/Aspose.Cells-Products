@@ -1,5 +1,5 @@
 ---
-title: Excel 电子表格 PHP API - Aspose
+title:  Excel 电子表格 PHP API - Aspose
 weight: 3660
 description: PHP Excel电子表格API读取写入和转换XLS XLSX CSV TSV HTML ODS SpreadsheetML和所有Excel 97-2016格式。将电子表格导出为多种格式
 ---
@@ -12,7 +12,7 @@ description: PHP Excel电子表格API读取写入和转换XLS XLSX CSV TSV HTML 
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
- Aspose.Cells for PHP via Java 是一个可扩展且功能丰富的 Excel 电子表格管理和处理 API。应用程序可以执行电子表格格式转换、图表管理和渲染、实施公式、将工作表样式设置到最精细的级别等等。 API支持XLS、XLSX、ODS、SpreadsheetML、CSV、制表符分隔、HTML/MHTML、PDF、XPS等格式。使用 JavaBridge 时，开发人员可以轻松地在其 PHP 应用程序中添加创建、编辑、转换和呈现 Excel 文件的功能。
+Aspose.Cells for PHP via Java 是一个可扩展且功能丰富的 Excel 电子表格管理和处理 API。应用程序可以执行电子表格格式转换、图表管理和渲染、实施公式、将工作表样式设置到最精细的级别等等。 API支持XLS、XLSX、ODS、SpreadsheetML、CSV、制表符分隔、HTML/MHTML、PDF、XPS等格式。使用 JavaBridge 时，开发人员可以轻松地在其 PHP 应用程序中添加创建、编辑、转换和呈现 Excel 文件的功能。
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
@@ -179,7 +179,7 @@ description: PHP Excel电子表格API读取写入和转换XLS XLSX CSV TSV HTML 
      <b>
 Microsoft Excel：
      </b>
- XLS、XLSX、XLSB、XLTX、XLTM、XLSM、XML
+ XLS、XLSX、XLSB、XLT、XLTX、XLTM、XLSM、XML、OTS
     </li>
     <li>
      <b>
@@ -191,13 +191,25 @@ Microsoft Excel：
      <b>
 文本：
      </b>
- CSV，制表符分隔，TXT
+     CSV, TSV, JSON
     </li>
     <li>
      <b>
 网址：
      </b>
      HTML, MHTML
+    </li>
+    <li>
+     <b>
+      Numbers:
+     </b>
+苹果iWork办公套件Numbers应用文档
+    </li>
+    <li>
+     <b>
+其他的：
+     </b>
+ SXC, FODS, EPUB
     </li>
    </ul>
   </div>
@@ -213,13 +225,25 @@ Microsoft Excel：
      <b>
 固定布局：
      </b>
-     PDF, XPS
+ PDF, PDF/A, XPS
     </li>
+    <li>
+     <b>
+数据交换：
+     </b>
+     DIF
+    </li>    
     <li>
      <b>
 图片：
      </b>
      JPEG, PNG, BMP, SVG, TIFF, EMF, GIF
+    </li>
+    <li>
+     <b>
+其他的：
+     </b>
+ MARKDOWN，SQL，XTHML
     </li>
    </ul>
   </div>
@@ -370,7 +394,7 @@ Microsoft Excel：
 将 Excel 文件转换为 XPS、PDF 和 PDF HTML
     </h2>
     <p>
-Aspose.Cells for PHP via Java API 能够将 Excel 文件转换为 XPS、XPS 和 HTML 格式，并保持最高的视觉保真度。转换过程可靠，开发人员只需几行即可获得所需的格式。
+ Aspose.Cells for PHP via Java API 能够将 Excel 文件转换为 XPS、XPS 和 HTML 格式，并保持最高的视觉保真度。转换过程可靠，开发人员只需几行即可获得所需的格式。
     </p>
     <div class="codeblock" id="code">
      <h3>
@@ -412,7 +436,7 @@ Aspose.Cells for PHP via Java 使您可以完全控制工作表的页面设置�
 高效、稳健、稳定可靠的公式计算引擎
     </h2>
     <p>
- Aspose.Cells for PHP via Java配备了强大的公式计算引擎，支持几乎所有标准和高级Microsoft Excel公式和函数。您可以读取、设置和计算内置或附加类型、数组和 R1C1 参考样式公式的结果。
+Aspose.Cells for PHP via Java配备了强大的公式计算引擎，支持几乎所有标准和高级Microsoft Excel公式和函数。您可以读取、设置和计算内置或附加类型、数组和 R1C1 参考样式公式的结果。
     </p>
    </div>
    <div class="col-lg-12">

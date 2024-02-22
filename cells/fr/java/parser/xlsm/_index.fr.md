@@ -12,11 +12,7 @@ keywords: [Java Aspose.Cells., Java Extract text and images from XLSM file., Jav
 
 {{% blocks/products/pf/agp/content h2="Comment analyser le fichier XLSM à l\'aide de Java" %}}
 
- Afin d'analyser le fichier XLSM, nous utiliserons
- [Aspose.Cells for Java](https://products.aspose.com/cells/java) 
- API qui est une plate-forme d'analyse API for Java riche en fonctionnalités, puissante et facile à utiliser. Vous pouvez télécharger sa dernière version directement depuis
- [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) 
- et installez-le dans votre projet basé sur Maven en ajoutant les configurations suivantes au pom.xml.
+ Afin d'analyser le fichier XLSM, nous utiliserons[Aspose.Cells for Java](https://products.aspose.com/cells/java) API qui est une plate-forme d'analyse API for Java riche en fonctionnalités, puissante et facile à utiliser. Vous pouvez télécharger sa dernière version directement depuis[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) et installez-le dans votre projet basé sur Maven en ajoutant les configurations suivantes au pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Dépôt" offSpacer="true" %}}
 
@@ -54,9 +50,7 @@ keywords: [Java Aspose.Cells., Java Extract text and images from XLSM file., Jav
 
 {{% blocks/products/pf/agp/text %}}
 
- Un document de base analysé avec
- [Aspose.Cells for Java](https://products.aspose.com/cells/java) 
- Les API peuvent être réalisées avec seulement quelques lignes de code. Analyser le texte et les images des fichiers Excel Microsoft, XLS, XLSX, XLSM, XLSB et OpenDocument ODS.
+ Un document de base analysé avec[Aspose.Cells for Java](https://products.aspose.com/cells/java)Les API peuvent être réalisées avec seulement quelques lignes de code. Analyser le texte et les images des fichiers Excel Microsoft, XLS, XLSX, XLSM, XLSB et OpenDocument ODS.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -72,11 +66,11 @@ keywords: [Java Aspose.Cells., Java Extract text and images from XLSM file., Jav
 
 {{% blocks/products/pf/agp/text %}}
 
- Aspose.Cells for Java prend en charge toutes les principales plates-formes et systèmes d'exploitation. Veuillez vous assurer que vous disposez des prérequis suivants.
+ Aspose.Cells for Java prend en charge sur toutes les principales plates-formes et systèmes d'exploitation. Veuillez vous assurer que vous disposez des prérequis suivants.
 
 {{% /blocks/products/pf/agp/text %}}
 
--  Microsoft Windows ou un système d'exploitation compatible avec l'environnement d'exécution Java pour les applications JSP/JSF et les applications de bureau.
+- Microsoft Windows ou un système d'exploitation compatible avec l'environnement d'exécution Java pour les applications JSP/JSF et les applications de bureau.
 -  Obtenez la dernière version de Aspose.Cells for Java directement à partir de
  [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells)  .
 
@@ -121,7 +115,7 @@ System.out.println(stringBuilder.toString());
 
 {{< blocks/products/pf/agp/about-file-section >}}
 
-    {{< blocks/products/pf/agp/demobox sectionTitle="Démos en direct de l\'analyseur XLSM en ligne" sectionDescription=" Extrayez dès maintenant le texte et les images des documents XLSM en visitant notre[Site Web de démonstrations en direct](https://products.aspose.app/cells/parser). La démo en direct présente les avantages suivants" >}}
+    {{< blocks/products/pf/agp/demobox sectionTitle="Démos en direct de l\'analyseur XLSM en ligne" sectionDescription="Extrayez dès maintenant le texte et les images des documents XLSM en visitant notre[Site Web de démonstrations en direct](https://products.aspose.app/cells/parser). La démo en direct présente les avantages suivants" >}}
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Pas besoin de télécharger le Aspose API." >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Pas besoin d\'écrire de code." >}}
         {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Téléchargez simplement vos fichiers XLSM." >}}
@@ -142,6 +136,7 @@ Les fichiers avec l'extension XLSM sont un type de fichier de feuille de calcul 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/parser/ods/" name="ODS" description="Fichier de feuille de calcul OpenDocument" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/parser/xls/" name="XLS" description="Format binaire Excel" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/parser/xlsb/" name="XLSB" description="Fichier de classeur Excel binaire" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/parser/xlsx/" name="XLSX" description="Fichier Excel OOXML" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

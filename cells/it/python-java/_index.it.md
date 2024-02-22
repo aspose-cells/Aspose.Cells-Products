@@ -13,7 +13,7 @@ keywords: [Python Aspose.Cells Create parse repair merge convert JSON Excel XML 
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
-Aspose.Cells for Python via Java è un numero API veloce e affidabile per attività di elaborazione di fogli di calcolo. Gli sviluppatori possono creare fogli di calcolo semplici o complessi, manipolare ed estrarre informazioni da file Excel. API legge più formati Excel e può eseguire il rendering dei fogli di lavoro in XPS, PDF, MHTML, HTML, testo semplice, immagini e altro. È la soluzione migliore per automatizzare i report Excel utilizzando Python.
+ Aspose.Cells for Python via Java è un numero API veloce e affidabile per attività di elaborazione di fogli di calcolo. Gli sviluppatori possono creare fogli di calcolo semplici o complessi, manipolare ed estrarre informazioni da file Excel. API legge più formati Excel e può eseguire il rendering dei fogli di lavoro in XPS, PDF, MHTML, HTML, testo semplice, immagini e altro. È la soluzione migliore per automatizzare i report Excel utilizzando Python.
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
@@ -38,7 +38,7 @@ Aspose.Cells for Python via Java è un numero API veloce e affidabile per attivi
  Set di risultati
     </li>
     <li>
-Collezioni
+ Collezioni
     </li>
    </ul>
    <header>
@@ -76,7 +76,7 @@ Collezioni
  Crea grafici
     </li>
     <li>
- Riassumere
+Riassumere
     </li>
     <li>
  Marcatori intelligenti
@@ -159,7 +159,7 @@ Collezioni
      <b>
  MicrosoftExcel:
      </b>
- XLS, XLSX, XLSB, XLTX, XLTM, XLSM, XML
+ XLS, XLSX, XLSB, XLT, XLTX, XLTM, XLSM, XML, OTS
     </li>
     <li>
      <b>
@@ -171,13 +171,25 @@ Collezioni
      <b>
  Testo:
      </b>
-     CSV, TSV, TXT
+     CSV, TSV, JSON
     </li>
     <li>
      <b>
  Ragnatela:
      </b>
      HTML, MHTML
+    </li>
+    <li>
+     <b>
+      Numbers:
+     </b>
+ Documenti dell'app iWork suite Numbers di Apple
+    </li>
+    <li>
+     <b>
+ Altri:
+     </b>
+ SXC, FODS, EPUB
     </li>
    </ul>
   </div>
@@ -186,7 +198,7 @@ Collezioni
    <header>
     <i class="fa fa-mail-forward">
     </i>
- Solo uscita
+Solo uscita
    </header>
    <ul>
     <li>
@@ -197,9 +209,21 @@ Collezioni
     </li>
     <li>
      <b>
+ Scambio di dati:
+     </b>
+     DIF
+    </li>    
+    <li>
+     <b>
  Immagini:
      </b>
-     JPEG, PNG, BMP, SVG, EMF
+     JPEG, PNG, BMP, SVG, TIFF, EMF, GIF
+    </li>
+    <li>
+     <b>
+ Altri:
+     </b>
+ MARKDOWN, SQL, XTHML
     </li>
    </ul>
   </div>
@@ -306,7 +330,7 @@ Collezioni
     <em class="fa fa-object-ungroup ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-Aggiungi o rimuovi il raggruppamento in righe e colonne
+ Aggiungi o rimuovi il raggruppamento in righe e colonne
     </p>
    </div>
    <div class="col-lg-4">
@@ -416,11 +440,11 @@ Aggiungi o rimuovi il raggruppamento in righe e colonne
  Conversione di più formati
     </h2>
     <p>
- Python La libreria Excel fornisce la conversione dei file Excel in PDF, XPS &amp; formati HTML. La conversione affidabile di API lo rende una soluzione perfetta per le aziende che necessitano di scambiare file in formati standard del settore.
+Python La libreria Excel fornisce la conversione dei file Excel in PDF, XPS &amp; formati HTML. La conversione affidabile di API lo rende una soluzione perfetta per le aziende che necessitano di scambiare file in formati standard del settore.
     </p>
     <div class="codeblock" id="code">
      <h3>
-Salva foglio di calcolo in diversi formati - Java
+ Salva foglio di calcolo in diversi formati - Java
      </h3>
      <pre><code class="java">
 // load file to be converted
@@ -489,7 +513,7 @@ wkbk.save(SD_PATH + "houtput.html", SaveFormat.HTML);</code></pre>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-Personalizzazione dei grafici
+ Personalizzazione dei grafici
     </h2>
     <p>
 Aspose.Cells for Python via Java fornisce pieno supporto per la creazione di grafici. È possibile aggiungere facilmente grafici standard e personalizzati o impostare dinamicamente i dati del grafico per aggiornare il grafico in questa libreria Python.

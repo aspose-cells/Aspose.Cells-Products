@@ -12,13 +12,7 @@ keywords: [C# Aspose.Cells., c# Search and replace text in ODS file., c# redact 
 
 {{% blocks/products/pf/agp/content h2="نحوه ویرایش فایل ODS با استفاده از C#" %}}
 
- به منظور ویرایش فایل ODS، ما از
- [Aspose.Cells for .NET](https://products.aspose.com/cells/net) 
- API که دارای ویژگی های غنی، قدرتمند و آسان برای دستکاری اسناد است API برای پلت فرم C#. باز کن
- [NuGet](https://www.nuget.org/packages/aspose.cells) 
- مدیر بسته، جستجو کنید
- **Aspose.Cells** 
- و نصب کنید. همچنین می توانید از دستور زیر در کنسول Package Manager استفاده کنید.
+ به منظور ویرایش فایل ODS، ما از[Aspose.Cells for .NET](https://products.aspose.com/cells/net) API که دارای ویژگی های غنی، قدرتمند و آسان برای دستکاری اسناد است API برای پلت فرم C#. باز کن[NuGet](https://www.nuget.org/packages/aspose.cells) مدیر بسته، جستجو کنید**Aspose.Cells** و نصب کنید. همچنین می توانید از دستور زیر در کنسول Package Manager استفاده کنید.
 
 {{% blocks/products/pf/agp/code-block title="فرمان" offSpacer="true" %}}
 
@@ -38,9 +32,7 @@ PM> Install-Package Aspose.Cells
 
 {{% blocks/products/pf/agp/text %}}
 
- یک سند اساسی جستجو کنید و متن را در محتوا، نظرات یا ابرداده جایگزین کنید
- [Aspose.Cells for .NET](https://products.aspose.com/cells/net) 
- API ها را می توان تنها با چند خط کد انجام داد.
+ یک سند اساسی جستجو کنید و متن را در محتوا، نظرات یا ابرداده جایگزین کنید[Aspose.Cells for .NET](https://products.aspose.com/cells/net) API ها را می توان تنها با چند خط کد انجام داد.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -57,7 +49,7 @@ PM> Install-Package Aspose.Cells
 
 {{% blocks/products/pf/agp/text %}}
 
- API های ما در تمام سیستم عامل ها و سیستم عامل های اصلی پشتیبانی می شوند. لطفا قبل از اجرای کد زیر، از داشتن پیش نیازهای زیر در سیستم خود اطمینان حاصل کنید.
+API های ما در تمام سیستم عامل ها و سیستم عامل های اصلی پشتیبانی می شوند. لطفا قبل از اجرای کد زیر، از داشتن پیش نیازهای زیر در سیستم خود اطمینان حاصل کنید.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -122,10 +114,10 @@ wb.Save("e:\test2\output.ods");
             {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" بدون نیاز به دانلود Aspose API." >}}
             {{< blocks/products/pf/agp/democard icon="fa-edit" text=" نیازی به نوشتن هیچ کدی نیست." >}}
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" فقط فایل های ODS خود را آپلود کنید." >}}
-            {{< blocks/products/pf/agp/democard icon="fa-download" text="فورا ویرایش خواهد شد." >}}
+            {{< blocks/products/pf/agp/democard icon="fa-download" text=" فورا ویرایش خواهد شد." >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="ODS" readMoreLink="https://docs.fileformat.com/spreadsheet/ods/" >}}
-فایل هایی با پسوند ODS مخفف فرمت OpenDocument Spreadsheet Document هستند که توسط کاربر قابل ویرایش هستند. داده ها در فایل ODF در ردیف ها و ستون ها ذخیره می شوند. این فرمت مبتنی بر XML است و یکی از چندین زیرگروه در خانواده فرمت‌های سند باز (ODF) است. این قالب به عنوان بخشی از مشخصات ODF 1.2 منتشر شده و نگهداری شده توسط OASIS مشخص شده است. تعدادی از برنامه ها در Windows و همچنین سایر سیستم عامل ها می توانند فایل های ODS را برای ویرایش و دستکاری باز کنند، از جمله Microsoft Excel، NeoOffice و LibreOffice. فایل‌های ODS همچنین می‌توانند توسط برنامه‌های مختلف به فرمت‌های صفحه‌گسترده دیگر و همچنین مانند XLS، XLSX و موارد دیگر تبدیل شوند.
+ فایل هایی با پسوند ODS مخفف فرمت OpenDocument Spreadsheet Document هستند که توسط کاربر قابل ویرایش هستند. داده ها در فایل ODF در ردیف ها و ستون ها ذخیره می شوند. این فرمت مبتنی بر XML است و یکی از چندین زیرگروه در خانواده فرمت‌های سند باز (ODF) است. این قالب به عنوان بخشی از مشخصات ODF 1.2 منتشر شده و نگهداری شده توسط OASIS مشخص شده است. تعدادی از برنامه ها در Windows و همچنین سایر سیستم عامل ها می توانند فایل های ODS را برای ویرایش و دستکاری باز کنند، از جمله Microsoft Excel، NeoOffice و LibreOffice. فایل‌های ODS همچنین می‌توانند توسط برنامه‌های مختلف به فرمت‌های صفحه‌گسترده دیگر و همچنین مانند XLS، XLSX و موارد دیگر تبدیل شوند.
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
@@ -138,6 +130,7 @@ wb.Save("e:\test2\output.ods");
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/redaction/xls/" name="XLS" description="فرمت باینری اکسل" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/redaction/xlsb/" name="XLSB" description="فایل باینری کتاب کار اکسل" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/redaction/xlsm/" name="XLSM" description="فایل صفحه گسترده" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/redaction/xlsx/" name="XLSX" description="فایل OOXML اکسل" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

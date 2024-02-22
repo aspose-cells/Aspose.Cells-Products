@@ -1,6 +1,6 @@
 ---
 title: TIFF létrehozása – TIFF fájl létrehozása a C++-ben
-description: Aspose Excel. C++ Hozzon létre TIFF fájlt gyorsan és egyszerűen a Aspose.Cells segítségével. Hozzon létre TIFF fájlt a C++ használatával. Hozzon létre TIFF-et a C++-ben. C++3481 Létrehozása.
+description:  Aspose Excel. C++ Hozzon létre TIFF fájlt gyorsan és egyszerűen a Aspose.Cells segítségével. Hozzon létre TIFF fájlt a C++ használatával. Hozzon létre TIFF-et a C++-ben. C++3481 Létrehozása.
 keywords: [Aspose Excel., C++ Aspose.Cells., C++ Create TIFF file., Generate TIFF file in C++., Create TIFF file using C++., Write data to TIFF file via C++., Create a TIFF file in C++., C++ Generate a TIFF file., C++ TIFF Creater]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -11,7 +11,7 @@ keywords: [Aspose Excel., C++ Aspose.Cells., C++ Create TIFF file., Generate TIF
 
 {{% blocks/products/pf/agp/content h2="Hozzon létre TIFF fájlt a C++ használatával" %}}
 
- Hogyan lehet létrehozni a TIFF fájlt? A Aspose.Cells for C++ könyvtárral könnyedén létrehozhat TIFF fájlt programozottan néhány sornyi kóddal.[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) képes többplatformos alkalmazásokat létrehozni, módosítani, konvertálni, renderelni és kinyomtatni az összes Excel fájlt. C++ Az Excel API nemcsak a táblázatformátumok között konvertál, hanem Excel-fájlokat is képes megjeleníteni képként, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT és egyebekként, így tökéletes választás a szabványos formátumú dokumentumok cseréjéhez. A legújabb verziót közvetlenül letöltheti, csak nyissa meg[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) csomagkezelő, keresse meg a Aspose.Cells.Cpp címet, és telepítse. A következő parancsot is használhatja a Package Manager konzolból.
+ Hogyan lehet létrehozni a TIFF fájlt? A Aspose.Cells for C++ könyvtárral könnyedén létrehozhat TIFF fájlt programozottan néhány sornyi kóddal.[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) képes többplatformos alkalmazásokat létrehozni, módosítani, konvertálni, renderelni és kinyomtatni az összes Excel fájlt. C++ Az Excel API nemcsak a táblázatformátumok között konvertál, hanem Excel-fájlokat is képes megjeleníteni képként, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT és egyebekként, így tökéletes választás a szabványos formátumú dokumentumok cseréjéhez. A legújabb verziót közvetlenül letöltheti, csak nyissa meg[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/)csomagkezelő, keresse meg a Aspose.Cells.Cpp címet, és telepítse. A következő parancsot is használhatja a Package Manager konzolból.
 
 {{% blocks/products/pf/agp/code-block title="Parancs" offSpacer="true" %}}
 
@@ -37,9 +37,9 @@ PM> Install-Package Aspose.Cells.Cpp
 1.  Hozzon létre egy objektumot a Munkafüzet osztályból.
 1.  Szerelje be az első lapot egy munkalap objektumba.
 1.  Használja a Worksheet.GetCells() metódust, hogy a munkalap celláit egy Cells objektumba helyezze.
-1. Használja a Cells.Get() metódust a munkalap kívánt cellájának eléréséhez egy Cell objektumban.
+1.  Használja a Cells.Get() metódust a munkalap kívánt cellájának eléréséhez egy Cell objektumban.
 1.  Használja a Cell.PutValue() metódust az érték beviteléhez a cellába.
-1. Mentse a munkafüzetet .tiff fájlként a Mentés() metódussal.
+1.  Mentse a munkafüzetet .tiff fájlként a Mentés() metódussal.
 
 {{% blocks/products/pf/agp/code-block title="A mintakód megmutatja, hogyan kell létrehozni a TIFF fájlt a C++-ben." offSpacer="" %}}
 
@@ -70,7 +70,6 @@ cell01.PutValue(u"ColumnB");
 cell10.PutValue(u"ValueA");
 cell11.PutValue(u"ValueB");
 
-//TIFF format is not supported
 // Save workbook to resultFile folder
 wkb.Save(u"created_one.tiff");
 

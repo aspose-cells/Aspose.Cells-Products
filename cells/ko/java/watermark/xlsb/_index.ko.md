@@ -1,5 +1,5 @@
 ---
-title: 워터마크 XLSB 문서 via Java
+title:  워터마크 XLSB 문서 via Java
 weight: 5900
 description: Java JSP/JSF 응용 프로그램 및 데스크톱 응용 프로그램용 Java 런타임 환경의 XLSB 파일에 워터마크를 추가하거나 제거하는 샘플 코드입니다.
 keywords: [Java Aspose.Cells., Java add watermark to xlsb file., Java insert watermark to xlsb file., Java create watermark in xlsb file., remove watermark from xlsb file using Java., Java operate watermark in xlsb file., Java access watermark in xlsb file]
@@ -12,11 +12,7 @@ keywords: [Java Aspose.Cells., Java add watermark to xlsb file., Java insert wat
 
 {{% blocks/products/pf/agp/content h2="Java을 사용하여 XLSB 파일에 워터마킹하는 방법" %}}
 
- XLSB 파일을 워터마크하기 위해 다음을 사용하겠습니다.
- [Aspose.Cells for Java](https://products.aspose.com/cells/java) 
- API은 기능이 풍부하고 강력하며 사용하기 쉬운 워터마킹 API for Java 플랫폼입니다. 최신 버전은 다음에서 직접 다운로드할 수 있습니다.
- [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) 
- pom.xml에 다음 구성을 추가하여 Maven 기반 프로젝트 내에 설치하세요.
+ XLSB 파일을 워터마크하기 위해 다음을 사용하겠습니다.[Aspose.Cells for Java](https://products.aspose.com/cells/java) API은 기능이 풍부하고 강력하며 사용하기 쉬운 워터마킹 API for Java 플랫폼입니다. 최신 버전은 다음에서 직접 다운로드할 수 있습니다.[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) pom.xml에 다음 구성을 추가하여 Maven 기반 프로젝트 내에 설치하세요.
 
 {{% blocks/products/pf/agp/code-block title="저장소" offSpacer="true" %}}
 
@@ -129,7 +125,7 @@ workbook.save(dataDir + "AWArtWToWorksheet_out.xlsb");
     {{< blocks/products/pf/agp/about-file-section >}}
 
         {{< blocks/products/pf/agp/demobox sectionTitle="온라인 앱을 통한 워터마크 XLSB" sectionDescription=" 당사를 방문하여 XLSB 문서에 워터마크를 추가하세요.[라이브 데모 웹사이트](https://products.aspose.app/cells/watermark). 라이브 데모에는 다음과 같은 이점이 있습니다." >}}
-            {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" 아무것도 다운로드하거나 설정할 필요가 없습니다." >}}
+            {{< blocks/products/pf/agp/democard icon="fa-cogs" text="아무것도 다운로드하거나 설정할 필요가 없습니다." >}}
             {{< blocks/products/pf/agp/democard icon="fa-edit" text=" 코드를 작성할 필요가 없습니다." >}}
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text="XLSB 파일을 업로드하고 워터마크를 설정한 후 \"추가\" 버튼을 누르세요." >}}
             {{< blocks/products/pf/agp/democard icon="fa-download" text=" 결과 파일에 대한 다운로드 링크를 즉시 가져옵니다." >}}
@@ -148,6 +144,7 @@ XLSB 파일 형식은 Excel 통합 문서 콘텐츠를 지정하는 레코드 �
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/watermark/ods/" name="ODS" description="OpenDocument 스프레드시트 파일" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/watermark/xls/" name="XLS" description="Excel 바이너리 형식" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/watermark/xlsm/" name="XLSM" description="스프레드시트 파일" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/watermark/xlsx/" name="XLSX" description="OOXML 엑셀 파일" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

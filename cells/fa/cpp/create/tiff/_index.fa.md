@@ -1,6 +1,6 @@
 ---
 title: ایجاد TIFF - ایجاد فایل TIFF در C++
-description: Aspose اکسل. C++ ایجاد فایل TIFF به سرعت و به راحتی با Aspose.Cells. ایجاد فایل TIFF با استفاده از C++. ایجاد TIFF در C++. 07134813
+description:  Aspose اکسل. C++ ایجاد فایل TIFF به سرعت و به راحتی با Aspose.Cells. ایجاد فایل TIFF با استفاده از C++. ایجاد TIFF در C++. 07134813
 keywords: [Aspose Excel., C++ Aspose.Cells., C++ Create TIFF file., Generate TIFF file in C++., Create TIFF file using C++., Write data to TIFF file via C++., Create a TIFF file in C++., C++ Generate a TIFF file., C++ TIFF Creater]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -11,7 +11,7 @@ keywords: [Aspose Excel., C++ Aspose.Cells., C++ Create TIFF file., Generate TIF
 
 {{% blocks/products/pf/agp/content h2="با استفاده از C++ فایل TIFF ایجاد کنید" %}}
 
- چگونه فایل TIFF ایجاد کنیم؟ با کتابخانه Aspose.Cells for C++ به راحتی می توانید فایل TIFF را به صورت برنامه نویسی با چند خط کد ایجاد کنید.[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) قادر به ساخت برنامه های چند پلتفرمی با قابلیت تولید، تغییر، تبدیل، رندر و چاپ تمام فایل های اکسل است. C++ اکسل API نه تنها بین فرمت های صفحه گسترده تبدیل می شود، بلکه می تواند فایل های اکسل را به صورت تصویر، PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT و موارد دیگر ارائه دهد، بنابراین آن را به گزینه ای عالی برای تبادل اسناد در قالب های استاندارد صنعتی تبدیل می کند. شما می توانید آخرین نسخه آن را مستقیما دانلود کنید، فقط باز کنید[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) Package Manager Aspose.Cells.Cpp را جستجو کرده و نصب کنید. همچنین می توانید از دستور زیر در کنسول Package Manager استفاده کنید.
+ چگونه فایل TIFF ایجاد کنیم؟ با کتابخانه Aspose.Cells for C++ به راحتی می توانید فایل TIFF را به صورت برنامه نویسی با چند خط کد ایجاد کنید.[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) قادر به ساخت برنامه های چند پلتفرمی با قابلیت تولید، تغییر، تبدیل، رندر و چاپ تمام فایل های اکسل است. C++ اکسل API نه تنها بین فرمت های صفحه گسترده تبدیل می شود، بلکه می تواند فایل های اکسل را به صورت تصویر، PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT و موارد دیگر ارائه دهد، بنابراین آن را به گزینه ای عالی برای تبادل اسناد در قالب های استاندارد صنعتی تبدیل می کند. شما می توانید آخرین نسخه آن را مستقیما دانلود کنید، فقط باز کنید[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/)Package Manager Aspose.Cells.Cpp را جستجو کرده و نصب کنید. همچنین می توانید از دستور زیر در کنسول Package Manager استفاده کنید.
 
 {{% blocks/products/pf/agp/code-block title="فرمان" offSpacer="true" %}}
 
@@ -37,9 +37,9 @@ PM> Install-Package Aspose.Cells.Cpp
 1.  یک شی از کلاس Workbook ایجاد کنید.
 1.  اولین ورق را در یک شیء Worksheet دریافت کنید.
 1.  از متد Worksheet.GetCells() برای وارد کردن سلول های کاربرگ به یک شی Cells استفاده کنید.
-1. از متد Cells.Get() برای دسترسی به سلول مورد نظر کاربرگ در یک شی Cell استفاده کنید.
+1.  از متد Cells.Get() برای دسترسی به سلول مورد نظر کاربرگ در یک شی Cell استفاده کنید.
 1.  از متد Cell.PutValue() برای وارد کردن مقدار به سلول استفاده کنید.
-1. با استفاده از متد Save() Workbook را به صورت فایل .tiff ذخیره کنید.
+1.  با استفاده از متد Save() Workbook را به صورت فایل .tiff ذخیره کنید.
 
 {{% blocks/products/pf/agp/code-block title="کد نمونه نحوه ایجاد فایل TIFF را در C++ نشان می دهد." offSpacer="" %}}
 
@@ -70,7 +70,6 @@ cell01.PutValue(u"ColumnB");
 cell10.PutValue(u"ValueA");
 cell11.PutValue(u"ValueB");
 
-//TIFF format is not supported
 // Save workbook to resultFile folder
 wkb.Save(u"created_one.tiff");
 

@@ -1,11 +1,11 @@
 ---
-title: C++ Προγραμματισμός υπολογιστικών φύλλων Excel API - Aspose
+title: C++ βιβλιοθήκη του Excel - Aspose.Cells
 weight: 7140
 description: Aspose.Cells for C++ βιβλιοθήκη για δημιουργία, επιδιόρθωση, συγχώνευση, ανάλυση και μετατροπή αρχείων excel. Μετατρέψτε το excel σε PDF, JSON, XML, TSV και ούτω καθεξής.
-keywords: [C++ Aspose.Cells Create repair parse merge convert JSON Excel XML PDF HTML TSV SQL ODS CSV TXT PNG JPEG and more formats]
+keywords: [C++ library execl Aspose.Cells Create repair parse merge convert JSON Excel XML PDF HTML TSV SQL ODS CSV TXT PNG JPEG and more formats]
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="C++ API υπολογιστικών φύλλων Excel" h2="Δημιουργήστε, διαβάστε, γράψτε και αναλύστε υπολογιστικά φύλλα χωρίς εξαρτήσεις Microsoft Excel σε πλήρως λειτουργικές εφαρμογές C++." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/headers/aspose_cells-for-cpp.svg" pfName="Aspose.Cells" subTitlepfName="for C++" downloadUrl="https://downloads.aspose.com/cells/cpp" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="C++ βιβλιοθήκη του Excel - Aspose.Cells" h2="Δημιουργήστε, διαβάστε, γράψτε και αναλύστε υπολογιστικά φύλλα χωρίς εξαρτήσεις Microsoft Excel σε πλήρως λειτουργικές εφαρμογές C++." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/headers/aspose_cells-for-cpp.svg" pfName="Aspose.Cells" subTitlepfName="for C++" downloadUrl="https://downloads.aspose.com/cells/cpp" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells" subTitlepfName="for C++" >}}
 
@@ -13,7 +13,7 @@ keywords: [C++ Aspose.Cells Create repair parse merge convert JSON Excel XML PDF
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
- Το Aspose.Cells for C++ είναι εγγενές C++ API για χειρισμό υπολογιστικών φύλλων. Οι εφαρμογές μπορούν να εκτελούν λειτουργίες όπως δημιουργία, μετατροπή και επεξεργασία ενσωματωμένων και προσαρμοσμένων ιδιοτήτων, θεμάτων, στυλ και μορφοποίησης, επικύρωση δεδομένων, μορφοποίηση υπό όρους, ανάγνωση, γραφή και υπολογισμός τύπων, ομαδοποίηση γραμμών και στηλών και πολλά άλλα χωρίς να βασίζονται στον αυτοματισμό του Office ή Microsoft Excel. Το API υποστηρίζει τις πιο συχνά χρησιμοποιούμενες μορφές υπολογιστικών φύλλων, όπως XLS, XLSX, XLSM και XLSB.
+Η βιβλιοθήκη Aspose.Cells C++ είναι μια εγγενής βιβλιοθήκη C++ για χειρισμό υπολογιστικών φύλλων. Οι εφαρμογές μπορούν να εκτελούν λειτουργίες όπως δημιουργία, μετατροπή και επεξεργασία ενσωματωμένων και προσαρμοσμένων ιδιοτήτων, θεμάτων, στυλ και μορφοποίησης, επικύρωση δεδομένων, μορφοποίηση υπό όρους, ανάγνωση, γραφή και υπολογισμός τύπων, ομαδοποίηση γραμμών και στηλών και πολλά άλλα χωρίς να βασίζονται στον αυτοματισμό του Office ή Microsoft Excel. Το API υποστηρίζει τις πιο κοινές μορφές υπολογιστικών φύλλων (όπως XLS, XLSX, XLSM και XLSB) καθώς και άλλους τύπους μορφών αρχείων (όπως PDF και 07 07 συνηθέστερες μορφές εικόνας PDF και 07 07 481, PNG, BMP, TIFF , GIF, EMF, SVG).
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
@@ -41,7 +41,7 @@ keywords: [C++ Aspose.Cells Create repair parse merge convert JSON Excel XML PDF
  Συγκεντρωτικός πίνακας
     </li>
     <li>
-Πίνακες
+ Πίνακες
     </li>
     <li>
  Διαγράμματα
@@ -66,13 +66,13 @@ keywords: [C++ Aspose.Cells Create repair parse merge convert JSON Excel XML PDF
    </header>
    <ul>
     <li>
- Φόρτωση/Αποθήκευση υπολογιστικών φύλλων
+Φόρτωση/Αποθήκευση υπολογιστικών φύλλων
     </li>
     <li>
  ΧΕΙΡΑΓΩΓΗΣΗ ΔΕΔΟΜΕΝΩΝ
     </li>
     <li>
- Εντοιχισμένες Ιδιότητες
+ Εντοιχισμένες ιδιότητες
     </li>
     <li>
  Προσαρμοσμένες ιδιότητες
@@ -168,7 +168,7 @@ keywords: [C++ Aspose.Cells Create repair parse merge convert JSON Excel XML PDF
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Υποστηριζόμενες μορφές αρχείων" description=" Aspose.Cells for C++ υποστηρίζει το πιο συχνά χρησιμοποιούμενο υπολογιστικό φύλλο[μορφές αρχείων](https://docs.aspose.com/cells/cpp/supported-file-formats/)." >}}
+{{< blocks/products/pf/carousel-item h3="Υποστηριζόμενες μορφές αρχείων" description=" Η βιβλιοθήκη Aspose.Cells C++ υποστηρίζει το πιο συχνά χρησιμοποιούμενο υπολογιστικό φύλλο[μορφές αρχείων](https://docs.aspose.com/cells/cpp/supported-file-formats/)." >}}
 <div class="diagram1 d2 d1-cplus">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -182,25 +182,37 @@ keywords: [C++ Aspose.Cells Create repair parse merge convert JSON Excel XML PDF
      <b>
  Microsoft Excel:
      </b>
- XLS, XLSX, XLSB, XLT, XLTX, XLTM, XLSM, XML
+ XLS, XLSX, XLSB, XLT, XLTX, XLTM, XLSM, XML, OTS
+    </li>
+    <li>
+     <b>
+ Ανοιχτό γραφείο:
+     </b>
+     ODS
     </li>
     <li>
      <b>
  Κείμενο:
      </b>
-     CSV, TSV
+     CSV, TSV, JSON
     </li>
     <li>
-     <strong>
- Άνοιγμα εγγράφου:
-     </strong>
-     ODS
-    </li>
-    <li>
-     <strong>
- Οι υπολοιποι:
-     </strong>
+     <b>
+ Ιστός:
+     </b>
      HTML, MHTML
+    </li>
+    <li>
+     <b>
+      Numbers:
+     </b>
+ Έγγραφα εφαρμογής iWork office suite Numbers της Apple
+    </li>
+    <li>
+     <b>
+ Οι υπολοιποι:
+     </b>
+ SXC, FODS, EPUB
     </li>
    </ul>
   </div>
@@ -209,26 +221,32 @@ keywords: [C++ Aspose.Cells Create repair parse merge convert JSON Excel XML PDF
    <header>
     <i class="fa fa-mail-forward">
     </i>
- Μόνο έξοδος
+Μόνο έξοδος
    </header>
    <ul>
     <li>
      <b>
- Προέχω:
+ Διορθωμένη διάταξη:
      </b>
-     XLSM, XLTX, XLTM, XLAM
+ PDF, PDF/A, XPS
     </li>
     <li>
      <b>
- Διορθωμένη διάταξη:
+ Ανταλλαγή δεδομένων:
      </b>
-     PDF, XPS
-    </li>
+     DIF
+    </li>    
     <li>
      <b>
  Εικόνες:
      </b>
-     JPEG, PNG, BMP, GIF, EMF, SVG
+     JPEG, PNG, BMP, SVG, TIFF, EMF, GIF
+    </li>
+    <li>
+     <b>
+ Οι υπολοιποι:
+     </b>
+ MARKDOWN, SQL, XTHML
     </li>
    </ul>
   </div>
@@ -264,7 +282,7 @@ keywords: [C++ Aspose.Cells Create repair parse merge convert JSON Excel XML PDF
  <div class="row">
   <div class="container">
    <h2 class="pr-ft">
- Προηγμένες C++ Υπολογιστικό φύλλο API Χαρακτηριστικά
+ Προηγμένες δυνατότητες της βιβλιοθήκης C++ για Excel - Aspose.Cells
    </h2>
    <!-- <p>Unlike similar products from other vendors, Aspose.Cells for C++ not only supports spreadsheet generation and other basic file formatting features, it also supports a number of advanced features. These advanced features make it much easier for developers to manipulate spreadsheet contents and format cells.</p> 
 
@@ -275,14 +293,14 @@ keywords: [C++ Aspose.Cells Create repair parse merge convert JSON Excel XML PDF
     <em class="fa fa-save ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-Φόρτωση &amp; αποθηκεύστε αρχεία Excel χρησιμοποιώντας ροές
+ Φόρτωση &amp; αποθηκεύστε αρχεία Excel χρησιμοποιώντας ροές
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-bar-chart ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Δημιουργία &amp; χειραγώγηση γραφημάτων
+ Δημιουργία &amp; χειριστείτε τα γραφήματα
     </p>
    </div>
    <div class="col-lg-4">
@@ -373,7 +391,7 @@ keywords: [C++ Aspose.Cells Create repair parse merge convert JSON Excel XML PDF
     <em class="fa fa-tags ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Δημιουργήστε κανόνες μορφοποίησης υπό όρους
+Δημιουργήστε κανόνες μορφοποίησης υπό όρους
     </p>
    </div>
    <div class="col-lg-4">
@@ -399,10 +417,34 @@ keywords: [C++ Aspose.Cells Create repair parse merge convert JSON Excel XML PDF
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
+ Απαιτήσεις συστήματος
+    </h2>
+ Η βιβλιοθήκη Aspose.Cells C++ για το Excel υποστηρίζει τα ακόλουθα λειτουργικά συστήματα και πλατφόρμες 64-bit ή 32-bit:
+		<table>  
+			<tr>
+					<td style="font-weight: bold; width:400px">Λειτουργικό σύστημα</td>
+					<td style="font-weight: bold; width:400px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Εκδόσεις</td>
+				</tr>
+		  <tr>
+					<td>Microsoft Windows</td>
+					<td><ul><li>Windows x86</li><li>Windows x86_64</li></ul></td>
+		  </tr>
+		  <tr>
+					<td>Linux</td>
+					<td><ul><li>Linux x86_64</li><li>Linux για ARM (aarch64)</li></ul></td>
+				</tr>
+		  <tr>
+					<td>macOS</td>
+					<td><ul><li>macOS 11 ή μεταγενέστερη έκδοση (arm64, x86_64)</li></ul></td>
+				</tr>
+		</table>
+   </div>
+   <div class="col-lg-12">
+    <h2 class="h2title">
  Μηδενική εξάρτηση στο Microsoft Excel
     </h2>
     <p>
-Τα API Aspose είναι εντελώς ανεξάρτητα και δεν συνδέονται, ούτε εξουσιοδοτούνται, χορηγούνται ή εγκρίνονται με άλλο τρόπο από την Microsoft Corporation. Το Aspose.Cells for C++ δεν χρειάζεται ποτέ να εγκατασταθεί στο μηχάνημα Microsoft Office ή Microsoft Excel για να λειτουργήσει με μορφές εγγράφων Excel.
+ Η βιβλιοθήκη Aspose.Cells C++ για το Excel είναι εντελώς ανεξάρτητη και δεν είναι συνδεδεμένη, ούτε εξουσιοδοτημένη, χορηγούμενη ή άλλως εγκεκριμένη από την Microsoft Corporation. Η βιβλιοθήκη Aspose.Cells C++ δεν χρειάζεται ποτέ να εγκατασταθεί στο μηχάνημα Microsoft Office ή Microsoft Excel για να λειτουργήσει με μορφές εγγράφων Excel.
     </p>
    </div>
    <div class="col-lg-12">
@@ -410,7 +452,7 @@ keywords: [C++ Aspose.Cells Create repair parse merge convert JSON Excel XML PDF
  Απλό &amp; Αξιόπιστη μετατροπή μορφών Excel
     </h2>
     <p>
- Aspose.Cells for C++ είναι ένα ισχυρό σύνολο API που παρέχουν τη δυνατότητα φόρτωσης, επεξεργασίας, εγγραφής και αλληλομετατροπής μορφών αρχείων Excel χωρίς να ανησυχείτε για τις λεπτομέρειες της συγκεκριμένης μορφής. Το API σάς επιτρέπει να μετατρέπετε υπολογιστικά φύλλα από οποιαδήποτε υποστηριζόμενη μορφή σε οποιαδήποτε άλλη υποστηριζόμενη μορφή με δύο μόνο γραμμές κώδικα. Είναι τόσο απλό!
+Η βιβλιοθήκη Aspose.Cells C++ είναι ένα ισχυρό σύνολο API που παρέχει τη δυνατότητα φόρτωσης, επεξεργασίας, εγγραφής και αλληλομετατροπής μορφών αρχείων Excel χωρίς να ανησυχείτε για τις λεπτομέρειες που αφορούν τη συγκεκριμένη μορφή. Το API σάς επιτρέπει να μετατρέπετε υπολογιστικά φύλλα από οποιαδήποτε υποστηριζόμενη μορφή σε οποιαδήποτε άλλη υποστηριζόμενη μορφή με δύο μόνο γραμμές κώδικα. Είναι τόσο απλό!
     </p>
     <div class="codeblock" id="code">
      <h3>
@@ -434,7 +476,7 @@ keywords: [C++ Aspose.Cells Create repair parse merge convert JSON Excel XML PDF
  Ολοκληρωμένη Μορφοποίηση Υπολογιστικών Φύλλων
     </h2>
     <p>
-Το Aspose.Cells for C++ σάς δίνει πλήρη έλεγχο του τρόπου με τον οποίο θέλετε να παρουσιάσετε τα δεδομένα σας στο φύλλο εργασίας, προσφέροντας προηγμένες δυνατότητες μορφοποίησης. Μπορείτε να εφαρμόσετε μορφοποίηση σε μεμονωμένες γραμμές, στήλη, κελί ή μπορείτε να δημιουργήσετε μια σειρά κελιών και να εφαρμόσετε μορφοποίηση σε αυτήν. Μπορείτε επίσης να προσθέσετε εμπλουτισμένο κείμενο σε ένα κελί, να εφαρμόσετε περιγράμματα, να ορίσετε μοτίβα φόντου ή να τροποποιήσετε πτυχές στυλ που σχετίζονται με τη γραμματοσειρά.
+ Η βιβλιοθήκη Aspose.Cells C++ σάς δίνει πλήρη έλεγχο του τρόπου με τον οποίο θέλετε να παρουσιάσετε τα δεδομένα σας στο φύλλο εργασίας, προσφέροντας προηγμένες δυνατότητες μορφοποίησης. Μπορείτε να εφαρμόσετε μορφοποίηση σε μεμονωμένες γραμμές, στήλη, κελί ή μπορείτε να δημιουργήσετε μια σειρά κελιών και να εφαρμόσετε μορφοποίηση σε αυτήν. Μπορείτε επίσης να προσθέσετε εμπλουτισμένο κείμενο σε ένα κελί, να εφαρμόσετε περιγράμματα, να ορίσετε μοτίβα φόντου ή να τροποποιήσετε πτυχές στυλ που σχετίζονται με τη γραμματοσειρά.
     </p>
    </div>
    <div class="col-lg-12">
@@ -442,7 +484,7 @@ keywords: [C++ Aspose.Cells Create repair parse merge convert JSON Excel XML PDF
  Οπτικοποίηση δεδομένων με γραφήματα
     </h2>
     <p>
- Το Aspose.Cells for C++ προσφέρει ένα ολοκληρωμένο σύνολο API για τη δυναμική δημιουργία όλων των τυπικών και προσαρμοσμένων τύπων γραφημάτων που υποστηρίζονται από την εφαρμογή Excel. Το API παρέχει επίσης τη δυνατότητα ενημέρωσης της προέλευσης δεδομένων για ένα υπάρχον γράφημα και ανανέωσής του.
+Η βιβλιοθήκη Aspose.Cells C++ προσφέρει ένα ολοκληρωμένο σύνολο API για τη δυναμική δημιουργία όλων των τυπικών και προσαρμοσμένων τύπων γραφημάτων που υποστηρίζονται από την εφαρμογή Excel. Το API παρέχει επίσης τη δυνατότητα ενημέρωσης της προέλευσης δεδομένων για ένα υπάρχον γράφημα και ανανέωσής του.
     </p>
    </div>
    <div class="col-lg-12">
@@ -450,7 +492,7 @@ keywords: [C++ Aspose.Cells Create repair parse merge convert JSON Excel XML PDF
  Αποδώστε τα φύλλα εργασίας ως εικόνες
     </h2>
     <p>
-Η βιβλιοθήκη αποδίδει με την υψηλότερη πιστότητα στο Microsoft Excel χρησιμοποιώντας τη δική της μηχανή απόδοσης. Προσφέρει διακριτικά χαρακτηριστικά, όπως η απόδοση φύλλων εργασίας σε εικόνες σε δημοφιλείς μορφές, όπως BMP, PNG, JPEG &amp; EMF. Η διαδικασία Sheet2Image είναι ευέλικτη, επιτρέποντας έτσι την επιλογή επιλογών όπως ο έλεγχος της ανάλυσης της εικόνας που προκύπτει.
+ Η βιβλιοθήκη Aspose.Cells C++ αποδίδει με την υψηλότερη πιστότητα στο Microsoft Excel χρησιμοποιώντας τη δική της μηχανή απόδοσης. Προσφέρει διακριτικά χαρακτηριστικά, όπως η απόδοση φύλλων εργασίας σε εικόνες σε δημοφιλείς μορφές, όπως BMP, TIFF, PNG, JPEG &amp; EMF. Η διαδικασία Sheet2Image είναι ευέλικτη, επιτρέποντας έτσι την επιλογή επιλογών όπως ο έλεγχος της ανάλυσης της εικόνας που προκύπτει.
     </p>
    </div>
    <div class="col-lg-12">
@@ -458,7 +500,7 @@ keywords: [C++ Aspose.Cells Create repair parse merge convert JSON Excel XML PDF
  Χειρισμός στηλών και γραμμών
     </h2>
     <p>
- Το Aspose.Cells for C++ προσφέρει χειρισμό γραμμών και στηλών με πολλούς τρόπους. Η προσαρμογή του ύψους της σειράς και του πλάτους της στήλης ή η αυτόματη αλλαγή μεγέθους των διαστάσεων του κελιού σύμφωνα με τα περιεχόμενα σε αυτό, είναι πολύ εύκολη. Το API προσφέρει επίσης τα μέσα διαγραφής και εισαγωγής, απόκρυψης ή εμφάνισης καθώς και ομαδοποίησης ή κατάργησης ομαδοποίησης γραμμών και στηλών.
+Η βιβλιοθήκη Aspose.Cells C++ προσφέρει χειρισμό γραμμών και στηλών με πολλούς τρόπους. Η προσαρμογή του ύψους της σειράς και του πλάτους της στήλης ή η αυτόματη αλλαγή μεγέθους των διαστάσεων του κελιού σύμφωνα με τα περιεχόμενα σε αυτό, είναι πολύ εύκολη. Το API προσφέρει επίσης τα μέσα διαγραφής και εισαγωγής, απόκρυψης ή εμφάνισης καθώς και ομαδοποίησης ή κατάργησης ομαδοποίησης γραμμών και στηλών.
     </p>
    </div>
    <div class="col-lg-12">
@@ -466,7 +508,7 @@ keywords: [C++ Aspose.Cells Create repair parse merge convert JSON Excel XML PDF
  Μετατρέψτε με ακρίβεια υπολογιστικά φύλλα σε PDF
     </h2>
     <p>
-Η βιβλιοθήκη Excel C++ παρέχει τη δυνατότητα μετατροπής υπολογιστικών φύλλων σε μορφή PDF διατηρώντας την ίδια ποιότητα με το αρχικό έγγραφο. Αυτό το γεγονός καθιστά το Aspose.Cells for C++ μια τέλεια επιλογή για τους οργανισμούς που απαιτούν την ανταλλαγή εγγράφων σε τυποποιημένες μορφές του κλάδου ως PDF.
+ Η βιβλιοθήκη Aspose.Cells C++ παρέχει τη δυνατότητα μετατροπής υπολογιστικών φύλλων σε μορφή PDF διατηρώντας την ίδια ποιότητα με το αρχικό έγγραφο. Αυτό το γεγονός καθιστά τη βιβλιοθήκη Aspose.Cells C++ μια τέλεια επιλογή για τους οργανισμούς που απαιτούν την ανταλλαγή εγγράφων σε τυποποιημένες μορφές του κλάδου όπως PDF.
     </p>
    </div>
    <!-- 

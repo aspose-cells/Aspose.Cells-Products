@@ -1,11 +1,11 @@
 ---
-title: C++ Programování tabulkových procesorů Excel API - Aspose
+title: C++ knihovna Excelu - Aspose.Cells
 weight: 7140
 description: Aspose.Cells for C++ knihovna pro vytváření, opravy, slučování, analýzu a převod souborů aplikace Excel. Převeďte excel na PDF, JSON, XML, TSV a tak dále.
-keywords: [C++ Aspose.Cells Create repair parse merge convert JSON Excel XML PDF HTML TSV SQL ODS CSV TXT PNG JPEG and more formats]
+keywords: [C++ library execl Aspose.Cells Create repair parse merge convert JSON Excel XML PDF HTML TSV SQL ODS CSV TXT PNG JPEG and more formats]
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="C++ Rozhraní API pro tabulky Excel" h2="Vytvářejte, čtěte, zapisujte a analyzujte tabulky bez jakýchkoli závislostí aplikace Excel v rámci plně funkčních aplikací C++." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/headers/aspose_cells-for-cpp.svg" pfName="Aspose.Cells" subTitlepfName="for C++" downloadUrl="https://downloads.aspose.com/cells/cpp" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="C++ knihovna Excelu - Aspose.Cells" h2="Vytvářejte, čtěte, zapisujte a analyzujte tabulky bez jakýchkoli závislostí aplikace Excel v rámci plně funkčních aplikací C++." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/headers/aspose_cells-for-cpp.svg" pfName="Aspose.Cells" subTitlepfName="for C++" downloadUrl="https://downloads.aspose.com/cells/cpp" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells" subTitlepfName="for C++" >}}
 
@@ -13,7 +13,7 @@ keywords: [C++ Aspose.Cells Create repair parse merge convert JSON Excel XML PDF
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
- Aspose.Cells for C++ je nativní C++ API pro manipulaci s tabulkovým procesorem. Aplikace mohou provádět funkce, jako je vytváření, převod a úpravy vestavěných a uživatelských vlastností tabulky, motivů, stylů a formátování, ověřování dat, podmíněného formátování, čtení, psaní a počítání vzorců, seskupování řádků a sloupců a mnoho dalšího, aniž by se spoléhaly na automatizaci Office. nebo Microsoft Excel. API podporuje nejběžněji používané formáty tabulek, jako jsou XLS, XLSX, XLSM a XLSB.
+Knihovna Aspose.Cells C++ je nativní knihovna C++ pro manipulaci s tabulkovým procesorem. Aplikace mohou provádět funkce, jako je vytváření, převod a úpravy vestavěných a uživatelských vlastností tabulky, motivů, stylů a formátování, ověřování dat, podmíněného formátování, čtení, psaní a počítání vzorců, seskupování řádků a sloupců a mnoho dalšího, aniž by se spoléhaly na automatizaci Office. nebo Microsoft Excel. API podporuje nejběžnější formáty tabulek (například XLS, XLSX, XLSM a XLSB) a také další typy formátů souborů (například PDF, 1 nejběžnější formát PDF, 1 jako8617103) a1 PNG, BMP, TIFF , GIF, EMF, SVG).
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
@@ -41,7 +41,7 @@ keywords: [C++ Aspose.Cells Create repair parse merge convert JSON Excel XML PDF
  Kontingenční tabulka
     </li>
     <li>
-Tabulky
+ Tabulky
     </li>
     <li>
  Grafy
@@ -66,7 +66,7 @@ Tabulky
    </header>
    <ul>
     <li>
- Načíst/uložit tabulky
+Načíst/uložit tabulky
     </li>
     <li>
  Manipulace s daty
@@ -168,7 +168,7 @@ Tabulky
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Podporované formáty souborů" description=" Aspose.Cells for C++ podporuje nejběžněji používaný tabulkový procesor[formáty souborů](https://docs.aspose.com/cells/cpp/supported-file-formats/)." >}}
+{{< blocks/products/pf/carousel-item h3="Podporované formáty souborů" description=" Knihovna Aspose.Cells C++ podporuje nejběžněji používané tabulky[formáty souborů](https://docs.aspose.com/cells/cpp/supported-file-formats/)." >}}
 <div class="diagram1 d2 d1-cplus">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -182,25 +182,37 @@ Tabulky
      <b>
  Microsoft Excel:
      </b>
- XLS, XLSX, XLSB, XLT, XLTX, XLTM, XLSM, XML
+ XLS, XLSX, XLSB, XLT, XLTX, XLTM, XLSM, XML, OTS
+    </li>
+    <li>
+     <b>
+ OpenOffice:
+     </b>
+     ODS
     </li>
     <li>
      <b>
  Text:
      </b>
-     CSV, TSV
+     CSV, TSV, JSON
     </li>
     <li>
-     <strong>
- Otevřít dokument:
-     </strong>
-     ODS
-    </li>
-    <li>
-     <strong>
- ostatní:
-     </strong>
+     <b>
+ Web:
+     </b>
      HTML, MHTML
+    </li>
+    <li>
+     <b>
+      Numbers:
+     </b>
+ Dokumenty aplikace Apple iWork office suite Numbers
+    </li>
+    <li>
+     <b>
+ ostatní:
+     </b>
+ SXC, FODS, EPUB
     </li>
    </ul>
   </div>
@@ -209,26 +221,32 @@ Tabulky
    <header>
     <i class="fa fa-mail-forward">
     </i>
- Pouze výstup
+Pouze výstup
    </header>
    <ul>
     <li>
      <b>
- Vynikat:
+ Pevné rozvržení:
      </b>
-     XLSM, XLTX, XLTM, XLAM
+ PDF, PDF/A, XPS
     </li>
     <li>
      <b>
- Pevné rozvržení:
+ Výměna dat:
      </b>
-     PDF, XPS
-    </li>
+     DIF
+    </li>    
     <li>
      <b>
  Snímky:
      </b>
-     JPEG, PNG, BMP, GIF, EMF, SVG
+     JPEG, PNG, BMP, SVG, TIFF, EMF, GIF
+    </li>
+    <li>
+     <b>
+ ostatní:
+     </b>
+ MARKDOWN, SQL, XTHML
     </li>
    </ul>
   </div>
@@ -264,7 +282,7 @@ Tabulky
  <div class="row">
   <div class="container">
    <h2 class="pr-ft">
- Pokročilé C++ Tabulka API Vlastnosti
+ Pokročilé funkce knihovny C++ pro Excel - Aspose.Cells
    </h2>
    <!-- <p>Unlike similar products from other vendors, Aspose.Cells for C++ not only supports spreadsheet generation and other basic file formatting features, it also supports a number of advanced features. These advanced features make it much easier for developers to manipulate spreadsheet contents and format cells.</p> 
 
@@ -275,7 +293,7 @@ Tabulky
     <em class="fa fa-save ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-Načíst &amp; ukládat soubory Excel pomocí streamů
+ Načíst &amp; ukládat soubory Excel pomocí streamů
     </p>
    </div>
    <div class="col-lg-4">
@@ -373,7 +391,7 @@ Načíst &amp; ukládat soubory Excel pomocí streamů
     <em class="fa fa-tags ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Vytvořte pravidla podmíněného formátování
+Vytvořte pravidla podmíněného formátování
     </p>
    </div>
    <div class="col-lg-4">
@@ -399,10 +417,34 @@ Načíst &amp; ukládat soubory Excel pomocí streamů
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
+ Požadavky na systém
+    </h2>
+ Knihovna Aspose.Cells C++ pro Excel podporuje následující 64bitové nebo 32bitové operační systémy a platformy:
+		<table>  
+			<tr>
+					<td style="font-weight: bold; width:400px">Operační systém</td>
+					<td style="font-weight: bold; width:400px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Verze</td>
+				</tr>
+		  <tr>
+					<td>Microsoft Windows</td>
+					<td><ul><li>Windows x86</li><li>Windows x86_64</li></ul></td>
+		  </tr>
+		  <tr>
+					<td>Linux</td>
+					<td><ul><li>Linux x86_64</li><li>Linux pro ARM (aarch64)</li></ul></td>
+				</tr>
+		  <tr>
+					<td>Operační Systém Mac</td>
+					<td><ul><li>macOS 11 nebo novější (arm64, x86_64)</li></ul></td>
+				</tr>
+		</table>
+   </div>
+   <div class="col-lg-12">
+    <h2 class="h2title">
  Nulová závislost na Microsoft Excel
     </h2>
     <p>
-Aspose API jsou zcela nezávislá a nejsou přidružena ani autorizována, sponzorována nebo jinak schválena společností Microsoft Corporation. Aspose.Cells for C++ nikdy nepotřebuje Microsoft Office nebo Microsoft, aby byl na stroji nainstalován, aby mohl pracovat s formáty dokumentů Excel.
+ Knihovna Aspose.Cells C++ pro Excel je zcela nezávislá a není přidružena ani autorizována, sponzorována ani jinak schválena společností Microsoft Corporation. Knihovna Aspose.Cells C++ pro práci s formáty dokumentů Excel nikdy nepotřebuje mít na počítači nainstalovánu Microsoft Office nebo Microsoft Excel.
     </p>
    </div>
    <div class="col-lg-12">
@@ -410,7 +452,7 @@ Aspose API jsou zcela nezávislá a nejsou přidružena ani autorizována, sponz
  Jednoduché &amp; Spolehlivá konverze formátů Excel
     </h2>
     <p>
- Aspose.Cells for C++ je výkonná sada rozhraní API, která umožňují načítat, upravovat, zapisovat a vzájemně převádět formáty souborů aplikace Excel bez obav o podrobnosti specifické pro daný formát. API vám umožňuje převádět tabulky z libovolného podporovaného formátu do jiného podporovaného formátu pomocí pouhých dvou řádků kódu. Je to tak jednoduché!
+Knihovna Aspose.Cells C++ je výkonná sada rozhraní API, která poskytují možnost načítat, upravovat, zapisovat a vzájemně převádět formáty souborů aplikace Excel bez obav o podrobnosti specifické pro daný formát. API vám umožňuje převádět tabulky z libovolného podporovaného formátu do jiného podporovaného formátu pomocí pouhých dvou řádků kódu. Je to tak jednoduché!
     </p>
     <div class="codeblock" id="code">
      <h3>
@@ -434,7 +476,7 @@ Aspose API jsou zcela nezávislá a nejsou přidružena ani autorizována, sponz
  Komplexní formátování tabulky
     </h2>
     <p>
-Aspose.Cells for C++ vám poskytuje úplnou kontrolu nad tím, jak chcete svá data prezentovat na listu, tím, že nabízí pokročilé funkce formátování. Formátování můžete použít na jednotlivé řádky, sloupce, buňky nebo můžete vytvořit oblast buněk a použít na ně formátování. Do buňky můžete také přidat formátovaný text, použít ohraničení, nastavit vzory pozadí nebo vyladit aspekty stylu související s písmem.
+ Knihovna Aspose.Cells C++ vám poskytuje úplnou kontrolu nad tím, jak chcete prezentovat data na listu, tím, že nabízí pokročilé funkce formátování. Formátování můžete použít na jednotlivé řádky, sloupce, buňky nebo můžete vytvořit oblast buněk a použít na ně formátování. Do buňky můžete také přidat formátovaný text, použít ohraničení, nastavit vzory pozadí nebo vyladit aspekty stylu související s písmem.
     </p>
    </div>
    <div class="col-lg-12">
@@ -442,7 +484,7 @@ Aspose.Cells for C++ vám poskytuje úplnou kontrolu nad tím, jak chcete svá d
  Vizualizujte data pomocí grafů
     </h2>
     <p>
- Aspose.Cells for C++ nabízí komplexní sadu rozhraní API pro dynamické vytváření všech standardních a vlastních typů grafů podporovaných aplikací Excel. API také poskytuje možnost aktualizovat zdroj dat pro existující graf a aktualizovat jej.
+Knihovna Aspose.Cells C++ nabízí komplexní sadu rozhraní API pro dynamické vytváření všech standardních a vlastních typů grafů podporovaných aplikací Excel. API také poskytuje možnost aktualizovat zdroj dat pro existující graf a aktualizovat jej.
     </p>
    </div>
    <div class="col-lg-12">
@@ -450,7 +492,7 @@ Aspose.Cells for C++ vám poskytuje úplnou kontrolu nad tím, jak chcete svá d
  Vykreslit listy jako obrázky
     </h2>
     <p>
-Knihovna vykresluje s nejvyšší věrností Microsoft Excel pomocí vlastního vykreslovacího jádra. Nabízí výrazné funkce, jako je vykreslování pracovních listů na obrázky v oblíbených formátech včetně BMP, PNG, JPEG &amp; EMF. Proces Sheet2Image je flexibilní, takže umožňuje vybrat možnosti, jako je ovládání rozlišení výsledného obrázku.
+ Knihovna Aspose.Cells C++ vykresluje s nejvyšší věrností Excelu Microsoft pomocí vlastního vykreslovacího jádra. Nabízí výrazné funkce, jako je vykreslování pracovních listů na obrázky v oblíbených formátech včetně BMP, TIFF, PNG, JPEG &amp; EMF. Proces Sheet2Image je flexibilní, takže umožňuje vybrat možnosti, jako je ovládání rozlišení výsledného obrázku.
     </p>
    </div>
    <div class="col-lg-12">
@@ -458,7 +500,7 @@ Knihovna vykresluje s nejvyšší věrností Microsoft Excel pomocí vlastního 
  Manipulujte se sloupci a řádky
     </h2>
     <p>
- Aspose.Cells for C++ nabízí manipulaci s řádky a sloupci několika způsoby. Upravit výšku řádku a šířku sloupce nebo automaticky změnit velikost rozměrů buňky podle obsahu v ní je příliš snadné. API také nabízí prostředky pro odstranění a vložení, skrytí nebo zobrazení, stejně jako seskupování řádků a sloupců nebo seskupování.
+Knihovna Aspose.Cells C++ nabízí manipulaci s řádky a sloupci několika způsoby. Upravit výšku řádku a šířku sloupce nebo automaticky změnit velikost rozměrů buňky podle obsahu v ní je příliš snadné. API také nabízí prostředky pro odstranění a vložení, skrytí nebo zobrazení, stejně jako seskupování řádků a sloupců nebo seskupování.
     </p>
    </div>
    <div class="col-lg-12">
@@ -466,7 +508,7 @@ Knihovna vykresluje s nejvyšší věrností Microsoft Excel pomocí vlastního 
  Přesně převeďte tabulky na PDF
     </h2>
     <p>
-Knihovna Excel C++ poskytuje možnost převádět tabulky do formátu PDF při zachování stejné kvality jako původní dokument. Tato skutečnost činí Aspose.Cells for C++ perfektní volbou pro organizace, které vyžadují výměnu dokumentů ve standardních průmyslových formátech jako PDF.
+ Knihovna Aspose.Cells C++ poskytuje možnost převádět tabulky do formátu PDF při zachování stejné kvality jako původní dokument. Díky této skutečnosti je knihovna Aspose.Cells C++ perfektní volbou pro organizace, které vyžadují výměnu dokumentů v průmyslových standardních formátech jako PDF.
     </p>
    </div>
    <!-- 

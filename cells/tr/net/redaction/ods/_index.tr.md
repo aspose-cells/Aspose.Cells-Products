@@ -12,13 +12,7 @@ keywords: [C# Aspose.Cells., c# Search and replace text in ODS file., c# redact 
 
 {{% blocks/products/pf/agp/content h2="ODS Dosyasını C# Kullanarak Düzenleme" %}}
 
- ODS dosyasını düzenlemek için şunu kullanacağız:
- [Aspose.Cells for .NET](https://products.aspose.com/cells/net) 
- C# platformu için zengin özelliklere sahip, güçlü ve kullanımı kolay bir belge işleme API olan API. Açık
- [NuGet](https://www.nuget.org/packages/aspose.cells) 
- paket yöneticisi, ara
- **Aspose.Cells** 
- ve yükleyin. Aşağıdaki komutu Paket Yönetici Konsolundan da kullanabilirsiniz.
+ ODS dosyasını düzenlemek için şunu kullanacağız:[Aspose.Cells for .NET](https://products.aspose.com/cells/net) C# platformu için zengin özelliklere sahip, güçlü ve kullanımı kolay bir belge işleme API olan API. Açık[NuGet](https://www.nuget.org/packages/aspose.cells) paket yöneticisi, ara**Aspose.Cells** ve yükleyin. Aşağıdaki komutu Paket Yönetici Konsolundan da kullanabilirsiniz.
 
 {{% blocks/products/pf/agp/code-block title="Emretmek" offSpacer="true" %}}
 
@@ -38,9 +32,7 @@ PM> Install-Package Aspose.Cells
 
 {{% blocks/products/pf/agp/text %}}
 
- Temel bir belge araması ve içerikteki, yorumlardaki veya meta verilerdeki metni şununla değiştirin:
- [Aspose.Cells for .NET](https://products.aspose.com/cells/net) 
- API'ler yalnızca birkaç satır kodla yapılabilir.
+ Temel bir belge araması ve içerikteki, yorumlardaki veya meta verilerdeki metni şununla değiştirin:[Aspose.Cells for .NET](https://products.aspose.com/cells/net) API'ler yalnızca birkaç satır kodla yapılabilir.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -57,7 +49,7 @@ PM> Install-Package Aspose.Cells
 
 {{% blocks/products/pf/agp/text %}}
 
- API'lerimiz tüm önemli platformlarda ve İşletim Sistemlerinde desteklenir. Aşağıdaki kodu çalıştırmadan önce lütfen sisteminizde aşağıdaki önkoşulların bulunduğundan emin olun.
+API'lerimiz tüm önemli platformlarda ve İşletim Sistemlerinde desteklenir. Aşağıdaki kodu çalıştırmadan önce lütfen sisteminizde aşağıdaki önkoşulların bulunduğundan emin olun.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -118,14 +110,14 @@ wb.Save("e:\test2\output.ods");
 
     {{< blocks/products/pf/agp/about-file-section >}}
 
-        {{< blocks/products/pf/agp/demobox sectionTitle="Çevrimiçi ODS Redaksiyon Canlı Demoları" sectionDescription=" Şu anda sayfamızı ziyaret ederek ODS belgedeki içerik, yorum veya meta verilerdeki metni arayın ve değiştirin.[Canlı Demolar web sitesi](https://products.aspose.app/cells/redaction). Canlı demo aşağıdaki avantajlara sahiptir" >}}
+        {{< blocks/products/pf/agp/demobox sectionTitle="Çevrimiçi ODS Redaksiyon Canlı Demoları" sectionDescription=" ODS belgedeki içerik, yorum veya meta verilerdeki metni hemen şimdi ziyaret ederek arayın ve değiştirin.[Canlı Demolar web sitesi](https://products.aspose.app/cells/redaction). Canlı demo aşağıdaki avantajlara sahiptir" >}}
             {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Aspose API\'i indirmenize gerek yok." >}}
             {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Herhangi bir kod yazmaya gerek yok." >}}
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" ODS dosyalarınızı yüklemeniz yeterli." >}}
-            {{< blocks/products/pf/agp/democard icon="fa-download" text="Anında düzenlenecektir." >}}
+            {{< blocks/products/pf/agp/democard icon="fa-download" text=" Anında düzenlenecektir." >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="ODS" readMoreLink="https://docs.fileformat.com/spreadsheet/ods/" >}}
-ODS uzantılı dosyalar, kullanıcı tarafından düzenlenebilen OpenDocument Elektronik Tablo Belgesi biçimini ifade eder. Veriler ODF dosyasında satırlar ve sütunlar halinde saklanır. XML tabanlı formattır ve Açık Belge Formatları (ODF) ailesindeki çeşitli alt türlerden biridir. Format, OASIS tarafından yayınlanan ve sürdürülen ODF 1.2 spesifikasyonlarının bir parçası olarak belirtilmiştir. Windows'deki bir dizi uygulamanın yanı sıra diğer işletim sistemleri, Microsoft Excel, NeoOffice ve LibreOffice dahil olmak üzere ODS dosyalarını düzenleme ve manipülasyon için açabilir. ODS dosyaları ayrıca farklı uygulamalarla XLS, XLSX ve diğerleri gibi diğer elektronik tablo formatlarına da dönüştürülebilir.
+ ODS uzantılı dosyalar, kullanıcı tarafından düzenlenebilen OpenDocument Elektronik Tablo Belgesi biçimini ifade eder. Veriler ODF dosyasında satırlar ve sütunlar halinde saklanır. XML tabanlı formattır ve Açık Belge Formatları (ODF) ailesindeki çeşitli alt türlerden biridir. Format, OASIS tarafından yayınlanan ve sürdürülen ODF 1.2 spesifikasyonlarının bir parçası olarak belirtilmiştir. Windows'deki bir dizi uygulamanın yanı sıra diğer işletim sistemleri, Microsoft Excel, NeoOffice ve LibreOffice dahil olmak üzere ODS dosyalarını düzenleme ve manipülasyon için açabilir. ODS dosyaları ayrıca farklı uygulamalarla XLS, XLSX ve diğerleri gibi diğer elektronik tablo formatlarına da dönüştürülebilir.
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
@@ -138,6 +130,7 @@ ODS uzantılı dosyalar, kullanıcı tarafından düzenlenebilen OpenDocument El
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/redaction/xls/" name="XLS" description="Excel İkili Formatı" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/redaction/xlsb/" name="XLSB" description="İkili Excel Çalışma Kitabı Dosyası" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/redaction/xlsm/" name="XLSM" description="Elektronik Tablo Dosyası" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/redaction/xlsx/" name="XLSX" description="OOXML Excel Dosyası" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

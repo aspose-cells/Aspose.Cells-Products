@@ -12,13 +12,7 @@ keywords: [C# Aspose.Cells., c# Search and replace text in ODS file., c# redact 
 
 {{% blocks/products/pf/agp/content h2="C#을 사용하여 ODS 파일을 수정하는 방법" %}}
 
- ODS 파일을 수정하기 위해 다음을 사용합니다.
- [Aspose.Cells for .NET](https://products.aspose.com/cells/net) 
- API은 기능이 풍부하고 강력하며 사용하기 쉬운 C# 플랫폼용 문서 조작 API입니다. 열려 있는
- [NuGet](https://www.nuget.org/packages/aspose.cells) 
- 패키지 관리자, 검색
- **Aspose.Cells** 
- 그리고 설치하세요. 패키지 관리자 콘솔에서 다음 명령을 사용할 수도 있습니다.
+ ODS 파일을 수정하기 위해 다음을 사용합니다.[Aspose.Cells for .NET](https://products.aspose.com/cells/net) API은 기능이 풍부하고 강력하며 사용하기 쉬운 C# 플랫폼용 문서 조작 API입니다. 열려 있는[NuGet](https://www.nuget.org/packages/aspose.cells) 패키지 관리자, 검색**Aspose.Cells** 그리고 설치하세요. 패키지 관리자 콘솔에서 다음 명령을 사용할 수도 있습니다.
 
 {{% blocks/products/pf/agp/code-block title="명령" offSpacer="true" %}}
 
@@ -38,9 +32,7 @@ PM> Install-Package Aspose.Cells
 
 {{% blocks/products/pf/agp/text %}}
 
- 기본 문서 검색 및 내용, 댓글, 메타데이터의 텍스트를 다음으로 대체합니다.
- [Aspose.Cells for .NET](https://products.aspose.com/cells/net) 
- 단 몇 줄의 코드만으로 API를 구현할 수 있습니다.
+ 기본 문서 검색 및 내용, 댓글, 메타데이터의 텍스트를 다음으로 대체합니다.[Aspose.Cells for .NET](https://products.aspose.com/cells/net) 단 몇 줄의 코드만으로 API를 구현할 수 있습니다.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -57,7 +49,7 @@ PM> Install-Package Aspose.Cells
 
 {{% blocks/products/pf/agp/text %}}
 
- 우리의 API는 모든 주요 플랫폼과 운영 체제에서 지원됩니다. 아래 코드를 실행하기 전에 시스템에 다음 전제 조건이 있는지 확인하십시오.
+우리의 API는 모든 주요 플랫폼과 운영 체제에서 지원됩니다. 아래 코드를 실행하기 전에 시스템에 다음 전제 조건이 있는지 확인하십시오.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -122,10 +114,10 @@ wb.Save("e:\test2\output.ods");
             {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Aspose API을 다운로드할 필요가 없습니다." >}}
             {{< blocks/products/pf/agp/democard icon="fa-edit" text=" 코드를 작성할 필요가 없습니다." >}}
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" ODS 파일을 업로드하세요." >}}
-            {{< blocks/products/pf/agp/democard icon="fa-download" text="즉시 수정됩니다." >}}
+            {{< blocks/products/pf/agp/democard icon="fa-download" text=" 즉시 수정됩니다." >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="ODS" readMoreLink="https://docs.fileformat.com/spreadsheet/ods/" >}}
-확장자가 ODS인 파일은 사용자가 편집할 수 있는 OpenDocument 스프레드시트 문서 형식을 나타냅니다. 데이터는 ODF 파일 내에 행과 열로 저장됩니다. 이는 XML 기반 형식이며 ODF(Open Document Formats) 계열의 여러 하위 유형 중 하나입니다. 형식은 OASIS에서 게시하고 유지 관리하는 ODF 1.2 사양의 일부로 지정됩니다. Windows 및 기타 운영 체제의 여러 응용 프로그램은 Microsoft Excel, NeoOffice 및 LibreOffice를 포함하여 편집 및 조작을 위해 ODS 파일을 열 수 있습니다. ODS 파일은 다른 응용 프로그램을 통해 XLS, XLSX 및 기타 스프레드시트 형식으로 변환할 수도 있습니다.
+ 확장자가 ODS인 파일은 사용자가 편집할 수 있는 OpenDocument 스프레드시트 문서 형식을 나타냅니다. 데이터는 ODF 파일 내에 행과 열로 저장됩니다. 이는 XML 기반 형식이며 ODF(Open Document Formats) 계열의 여러 하위 유형 중 하나입니다. 형식은 OASIS에서 게시하고 유지 관리하는 ODF 1.2 사양의 일부로 지정됩니다. Windows 및 기타 운영 체제의 여러 응용 프로그램은 Microsoft Excel, NeoOffice 및 LibreOffice를 포함하여 편집 및 조작을 위해 ODS 파일을 열 수 있습니다. ODS 파일은 다른 응용 프로그램을 통해 XLS, XLSX 및 기타 스프레드시트 형식으로 변환할 수도 있습니다.
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
@@ -138,6 +130,7 @@ wb.Save("e:\test2\output.ods");
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/redaction/xls/" name="XLS" description="Excel 바이너리 형식" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/redaction/xlsb/" name="XLSB" description="바이너리 Excel 통합 문서 파일" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/redaction/xlsm/" name="XLSM" description="스프레드시트 파일" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/redaction/xlsx/" name="XLSX" description="OOXML 엑셀 파일" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

@@ -12,11 +12,11 @@ description: Przetwarzaj formaty plików Excel za pośrednictwem biblioteki Node
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
- Aspose.Cells for Node.js via Java to bogaty w funkcje i skalowalny API do przetwarzania arkuszy kalkulacyjnych Excel przy użyciu Node.js. API oferuje konwersję formatu pliku Excel, stylizację arkuszy kalkulacyjnych na najbardziej szczegółowym poziomie, tworzenie wykresów i &amp; renderowanie, niezawodny silnik obliczania formuł i wiele więcej.
+Aspose.Cells for Node.js via Java to bogaty w funkcje i skalowalny API do przetwarzania arkuszy kalkulacyjnych Excel przy użyciu Node.js. API oferuje konwersję formatu pliku Excel, stylizację arkuszy kalkulacyjnych na najbardziej szczegółowym poziomie, tworzenie wykresów i &amp; renderowanie, niezawodny silnik obliczania formuł i wiele więcej.
 </p>
 
 <p>
-Aspose.Cells for Node.js via Java obsługuje najpopularniejsze formaty arkuszy kalkulacyjnych, w tym XLS, XLSX, ODS, SpreadsheetML, CSV, TSC &amp; HTML.
+ Aspose.Cells for Node.js via Java obsługuje najpopularniejsze formaty arkuszy kalkulacyjnych, w tym XLS, XLSX, ODS, SpreadsheetML, CSV, TSC &amp; HTML.
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
@@ -171,7 +171,7 @@ Aspose.Cells for Node.js via Java obsługuje najpopularniejsze formaty arkuszy k
      <b>
  Microsoft Excel:
      </b>
- XLS, XLSX, XLSB, XLTX, XLTM, XLSM, XML
+ XLS, XLSX, XLSB, XLT, XLTX, XLTM, XLSM, XML, OTS
     </li>
     <li>
      <b>
@@ -183,13 +183,25 @@ Aspose.Cells for Node.js via Java obsługuje najpopularniejsze formaty arkuszy k
      <b>
  Tekst:
      </b>
- CSV, rozdzielany tabulatorami, TXT
+     CSV, TSV, JSON
     </li>
     <li>
      <b>
  Sieć:
      </b>
      HTML, MHTML
+    </li>
+    <li>
+     <b>
+      Numbers:
+     </b>
+ Dokumenty aplikacji pakietu biurowego Apple iWork Numbers
+    </li>
+    <li>
+     <b>
+ Inni:
+     </b>
+ SXC, FODS, EPUB
     </li>
    </ul>
   </div>
@@ -198,20 +210,32 @@ Aspose.Cells for Node.js via Java obsługuje najpopularniejsze formaty arkuszy k
    <header>
     <i class="fa fa-mail-forward">
     </i>
- Tylko wyjście
+Tylko wyjście
    </header>
    <ul>
     <li>
      <b>
  Naprawiono układ:
      </b>
-     PDF, XPS
+ PDF, PDF/A, XPS
     </li>
+    <li>
+     <b>
+ Wymiana danych:
+     </b>
+     DIF
+    </li>    
     <li>
      <b>
  Obrazy:
      </b>
-     JPEG, PNG, BMP, SVG, TIFF, GIF, EMF
+     JPEG, PNG, BMP, SVG, TIFF, EMF, GIF
+    </li>
+    <li>
+     <b>
+ Inni:
+     </b>
+ MARKDOWN, SQL, XTHML
     </li>
    </ul>
   </div>
@@ -269,7 +293,7 @@ Aspose.Cells for Node.js via Java obsługuje najpopularniejsze formaty arkuszy k
     <em class="fa fa-commenting ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-Utwórz &amp; manipulować komentarzami &amp; hiperłącza
+ Utwórz &amp; manipulować komentarzami &amp; hiperłącza
     </p>
    </div>
    <div class="col-lg-4">
@@ -319,7 +343,7 @@ Utwórz &amp; manipulować komentarzami &amp; hiperłącza
  Renderowanie arkuszy kalkulacyjnych Excel
     </h2>
     <p>
- Aspose.Cells for Node.js via Java wykorzystuje swój silnik renderujący do renderowania do Microsoft Excel z najwyższą wiernością. Korzystając z biblioteki Node.js Excel Processing, można konwertować całe arkusze, pojedyncze pliki lub wykresy na wiele obrazów i formatów o stałym układzie.
+Aspose.Cells for Node.js via Java wykorzystuje swój silnik renderujący do renderowania do Microsoft Excel z najwyższą wiernością. Korzystając z biblioteki Node.js Excel Processing, można konwertować całe arkusze, pojedyncze pliki lub wykresy na wiele obrazów i formatów o stałym układzie.
     </p>
    </div>
    <div class="col-lg-12">
@@ -327,7 +351,7 @@ Utwórz &amp; manipulować komentarzami &amp; hiperłącza
  Elastyczne opcje wyświetlania
     </h2>
     <p>
-Aspose.Cells for Node.js via Java zapewnia pełną kontrolę nad ustawieniami strony arkusza, można manipulować opcjami wyświetlania arkusza, takimi jak orientacja strony, podziały, rozmiar, skalowanie, nagłówki, stopki i poziom powiększenia. Co więcej, programiści mogą kontrolować widoczność danych za pomocą obszaru drukowania i blokować okienka, aby dopasować je do specyfikacji aplikacji.
+ Aspose.Cells for Node.js via Java zapewnia pełną kontrolę nad ustawieniami strony arkusza, można manipulować opcjami wyświetlania arkusza, takimi jak orientacja strony, podziały, rozmiar, skalowanie, nagłówki, stopki i poziom powiększenia. Co więcej, programiści mogą kontrolować widoczność danych za pomocą obszaru drukowania i blokować okienka, aby dopasować je do specyfikacji aplikacji.
     </p>
    </div>
    <div class="col-lg-12">
@@ -343,12 +367,12 @@ Aspose.Cells for Node.js via Java zapewnia pełną kontrolę nad ustawieniami st
  Manipuluj wierszami &amp; Kolumny
     </h2>
     <p>
- Aspose.Cells for Node.js via Java umożliwia manipulowanie wierszami i kolumnami na wiele różnych sposobów. Możesz łatwo dostosować wysokość rzędów &amp; szerokość kolumny, automatycznie dostosuj rozmiar komórek zgodnie z zawartością, wstaw &amp; usuń, ukryj &amp; odkryj i grupuj &amp; rozgrupuj wiersze &amp; kolumny.
+Aspose.Cells for Node.js via Java umożliwia manipulowanie wierszami i kolumnami na wiele różnych sposobów. Możesz łatwo dostosować wysokość rzędów &amp; szerokość kolumny, automatycznie dostosuj rozmiar komórek zgodnie z zawartością, wstaw &amp; usuń, ukryj &amp; odkryj i grupuj &amp; rozgrupuj wiersze &amp; kolumny.
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-Kompleksowe wsparcie dla formatowania arkusza
+ Kompleksowe wsparcie dla formatowania arkusza
     </h2>
     <p>
  Aspose.Cells for Node.js via Java zapewnia zaawansowane funkcje formatowania, które pozwalają kontrolować prezentację danych. Możesz zastosować formatowanie do arkusza, kolumny, wiersza lub komórki lub dodać tekst sformatowany do pojedynczej komórki, zastosować obramowania, ustawić wzory tła i styl czcionki. Numer API umożliwia także dodawanie, manipulowanie i &amp; obliczaj reguły formatowania warunkowego na bieżąco.
@@ -359,7 +383,7 @@ Kompleksowe wsparcie dla formatowania arkusza
  Tworzenie wykresów, manipulowanie i amp; Wykonanie
     </h2>
     <p>
- Aspose.Cells for Node.js via Java zapewnia pełną obsługę wykresów. Za pomocą numeru API można łatwo dodawać niestandardowe lub standardowe wykresy i dynamicznie ustawiać dane w celu odświeżania wykresów.
+Aspose.Cells for Node.js via Java zapewnia pełną obsługę wykresów. Za pomocą numeru API można łatwo dodawać niestandardowe lub standardowe wykresy i dynamicznie ustawiać dane w celu odświeżania wykresów.
     </p>
    </div>
   </div>
@@ -381,7 +405,7 @@ Kompleksowe wsparcie dla formatowania arkusza
 {{< blocks/products/pf/slr-tab tabTitle="Wsparcie produktu" tabId="support" >}}
 {{< blocks/products/pf/slr-element name="Bezpłatne wsparcie" href="https://forum.aspose.com/c/cells/9" >}}
 {{< blocks/products/pf/slr-element name="Płatne wsparcie" href="https://helpdesk.aspose.com/" >}}
-{{< blocks/products/pf/slr-element name="Blog" href="https://blog.aspose.com/category/cells/" >}}
+{{< blocks/products/pf/slr-element name="Bloga" href="https://blog.aspose.com/category/cells/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="Dlaczego Aspose.Cells for Node.js via Java?" tabId="success-stories" >}}

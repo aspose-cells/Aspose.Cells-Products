@@ -1,5 +1,5 @@
 ---
-title:  Εξαγωγή κειμένου και εικόνων από το έγγραφο ODS μέσω του C++
+title: Εξαγωγή κειμένου και εικόνων από το έγγραφο ODS μέσω του C++
 weight: 9130
 description: C++ παράδειγμα κώδικα για εξαγωγή κειμένου και εικόνων από το αρχείο ODS στο C++ Runtime Environment για Windows 32 bit, Windows 64 bit και Linux 64 bit.
 keywords: [C++ Aspose.Cells., C++ Extract text and images from ODS file., C++ How to Parse ODS File., C++ Extract text from ODS file., Extract images from ODS file using C++]
@@ -12,13 +12,7 @@ keywords: [C++ Aspose.Cells., C++ Extract text and images from ODS file., C++ Ho
 
 {{% blocks/products/pf/agp/content h2="Πώς να αναλύσετε το αρχείο ODS χρησιμοποιώντας το C++" %}}
 
- Για να αναλύσουμε το αρχείο ODS, θα χρησιμοποιήσουμε
- [Aspose.Cells for C++](https://products.aspose.com/cells/cpp) 
- API το οποίο είναι μια πλούσια σε χαρακτηριστικά, ισχυρή και εύκολη στη χρήση πλατφόρμα ανάλυσης εγγράφων API for C++. Μπορείτε να κατεβάσετε την τελευταία του έκδοση απευθείας, απλά ανοίξτε
- [NuGet](https://www.nuget.org/packages/aspose.cells) 
- διαχειριστής πακέτων, αναζητήστε
- **Aspose.Cells.Cpp** 
- και εγκαταστήστε. Μπορείτε επίσης να χρησιμοποιήσετε την ακόλουθη εντολή από την Κονσόλα Package Manager.
+ Για να αναλύσουμε το αρχείο ODS, θα χρησιμοποιήσουμε[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) API το οποίο είναι μια πλούσια σε χαρακτηριστικά, ισχυρή και εύκολη στη χρήση πλατφόρμα ανάλυσης εγγράφων API for C++. Μπορείτε να κατεβάσετε την τελευταία του έκδοση απευθείας, απλά ανοίξτε[NuGet](https://www.nuget.org/packages/aspose.cells) διαχειριστής πακέτων, αναζητήστε**Aspose.Cells.Cpp** και εγκαταστήστε. Μπορείτε επίσης να χρησιμοποιήσετε την ακόλουθη εντολή από την Κονσόλα Package Manager.
 
 {{% blocks/products/pf/agp/code-block title="Εντολή" offSpacer="true" %}}
 
@@ -38,9 +32,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% blocks/products/pf/agp/text %}}
 
- Ένα βασικό έγγραφο ανάλυσης με
- [Aspose.Cells for C++](https://products.aspose.com/cells/cpp) 
- Τα API μπορούν να γίνουν με λίγες μόνο γραμμές κώδικα. Ανάλυση κειμένου και εικόνων από Microsoft Excel XLS, XLSX, XLSM, XLSB και OpenDocument ODS.
+ Ένα βασικό έγγραφο ανάλυσης με[Aspose.Cells for C++](https://products.aspose.com/cells/cpp)Τα API μπορούν να γίνουν με λίγες μόνο γραμμές κώδικα. Ανάλυση κειμένου και εικόνων από Microsoft Excel XLS, XLSX, XLSM, XLSB και OpenDocument ODS.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -108,7 +100,7 @@ Aspose::Cells::Cleanup();
 
 {{< blocks/products/pf/agp/about-file-section >}}
 
-    {{< blocks/products/pf/agp/demobox sectionTitle="Online ODS Parser Live Demos" sectionDescription=" Εξάγετε κείμενο και εικόνες από έγγραφα ODS τώρα, επισκεπτόμενοι το δικό μας[Ζωντανή ιστοσελίδα Demos](https://products.aspose.app/cells/parser). Η ζωντανή επίδειξη έχει τα ακόλουθα πλεονεκτήματα" >}}
+    {{< blocks/products/pf/agp/demobox sectionTitle="Online ODS Parser Live Demos" sectionDescription="Εξάγετε κείμενο και εικόνες από έγγραφα ODS τώρα, επισκεπτόμενοι το δικό μας[Ζωντανή ιστοσελίδα Demos](https://products.aspose.app/cells/parser). Η ζωντανή επίδειξη έχει τα ακόλουθα πλεονεκτήματα" >}}
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Δεν χρειάζεται να κατεβάσετε το Aspose API." >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Δεν χρειάζεται να γράψετε κανέναν κώδικα." >}}
         {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Απλώς ανεβάστε τα ODS αρχεία σας." >}}
@@ -116,7 +108,7 @@ Aspose::Cells::Cleanup();
     {{< /blocks/products/pf/agp/demobox >}}
 
     {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="ODS" readMoreLink="https://docs.fileformat.com/spreadsheet/ods/" >}}
-Τα αρχεία με επέκταση ODS αντιπροσωπεύουν τη μορφή εγγράφου υπολογιστικού φύλλου OpenDocument που είναι επεξεργάσιμα από τον χρήστη. Τα δεδομένα αποθηκεύονται μέσα στο αρχείο ODF σε γραμμές και στήλες. Είναι μορφή που βασίζεται σε XML και είναι ένας από τους διάφορους υποτύπους της οικογένειας Μορφές Ανοιχτών Εγγράφων (ODF). Η μορφή καθορίζεται ως μέρος των προδιαγραφών ODF 1.2 που δημοσιεύει και διατηρεί το OASIS. Ένας αριθμός εφαρμογών στο Windows καθώς και σε άλλα λειτουργικά συστήματα μπορούν να ανοίξουν αρχεία ODS για επεξεργασία και χειρισμό, συμπεριλαμβανομένων των Microsoft Excel, NeoOffice και LibreOffice. Τα αρχεία ODS μπορούν επίσης να μετατραπούν σε άλλες μορφές υπολογιστικών φύλλων, όπως XLS, XLSX και άλλα από διαφορετικές εφαρμογές.
+ Τα αρχεία με επέκταση ODS αντιπροσωπεύουν τη μορφή εγγράφου υπολογιστικού φύλλου OpenDocument που είναι επεξεργάσιμα από τον χρήστη. Τα δεδομένα αποθηκεύονται μέσα στο αρχείο ODF σε γραμμές και στήλες. Είναι μορφή που βασίζεται σε XML και είναι ένας από τους διάφορους υποτύπους της οικογένειας Μορφές Ανοιχτών Εγγράφων (ODF). Η μορφή καθορίζεται ως μέρος των προδιαγραφών ODF 1.2 που δημοσιεύει και διατηρεί το OASIS. Ένας αριθμός εφαρμογών στο Windows καθώς και σε άλλα λειτουργικά συστήματα μπορούν να ανοίξουν αρχεία ODS για επεξεργασία και χειρισμό, συμπεριλαμβανομένων των Microsoft Excel, NeoOffice και LibreOffice. Τα αρχεία ODS μπορούν επίσης να μετατραπούν σε άλλες μορφές υπολογιστικών φύλλων, όπως XLS, XLSX και άλλα από διαφορετικές εφαρμογές.
 
     {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
@@ -129,6 +121,7 @@ Aspose::Cells::Cleanup();
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/parser/xls/" name="XLS" description="Δυαδική μορφή Excel" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/parser/xlsb/" name="XLSB" description="Δυαδικό αρχείο βιβλίου εργασίας Excel" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/parser/xlsm/" name="XLSM" description="Αρχείο υπολογιστικού φύλλου" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/parser/xlsx/" name="XLSX" description="Αρχείο Excel OOXML" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

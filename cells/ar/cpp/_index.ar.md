@@ -1,11 +1,11 @@
 ---
-title: C++ برمجة جداول البيانات إكسل API - Aspose
+title: C++ مكتبة الاكسل - Aspose.Cells
 weight: 7140
 description: Aspose.Cells for C++ مكتبة لإنشاء وإصلاح ودمج وتحليل وتحويل ملفات الاكسل. تحويل Excel إلى PDF، JSON، XML، TSV وهكذا.
-keywords: [C++ Aspose.Cells Create repair parse merge convert JSON Excel XML PDF HTML TSV SQL ODS CSV TXT PNG JPEG and more formats]
+keywords: [C++ library execl Aspose.Cells Create repair parse merge convert JSON Excel XML PDF HTML TSV SQL ODS CSV TXT PNG JPEG and more formats]
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="C++ واجهات برمجة تطبيقات جداول بيانات Excel" h2="قم بإنشاء جداول البيانات وقراءتها وكتابتها وتحليلها دون أي تبعيات Microsoft Excel ضمن تطبيقات C++ كاملة الوظائف." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/headers/aspose_cells-for-cpp.svg" pfName="Aspose.Cells" subTitlepfName="for C++" downloadUrl="https://downloads.aspose.com/cells/cpp" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="C++ مكتبة الاكسل - Aspose.Cells" h2="قم بإنشاء جداول البيانات وقراءتها وكتابتها وتحليلها دون أي تبعيات Microsoft Excel ضمن تطبيقات C++ كاملة الوظائف." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/headers/aspose_cells-for-cpp.svg" pfName="Aspose.Cells" subTitlepfName="for C++" downloadUrl="https://downloads.aspose.com/cells/cpp" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells" subTitlepfName="for C++" >}}
 
@@ -13,7 +13,7 @@ keywords: [C++ Aspose.Cells Create repair parse merge convert JSON Excel XML PDF
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
- Aspose.Cells for C++ أصلي C++ API لمعالجة جداول البيانات. يمكن للتطبيقات تنفيذ وظائف مثل إنشاء وتحويل وتحرير الخصائص المضمنة والمخصصة لجداول البيانات، والسمات، والأنماط والتنسيق، والتحقق من صحة البيانات، والتنسيق الشرطي، وقراءة الصيغ وكتابتها وحسابها، وتجميع الصفوف والأعمدة وغير ذلك الكثير دون الاعتماد على أتمتة Office أو Microsoft اكسل. يدعم API تنسيقات جداول البيانات الأكثر استخدامًا مثل XLS وXLSX وXLSM وXLSB.
+مكتبة Aspose.Cells C++ هي مكتبة C++ أصلية لمعالجة جداول البيانات. يمكن للتطبيقات تنفيذ وظائف مثل إنشاء وتحويل وتحرير الخصائص المضمنة والمخصصة لجداول البيانات، والسمات، والأنماط والتنسيق، والتحقق من صحة البيانات، والتنسيق الشرطي، وقراءة الصيغ وكتابتها وحسابها، وتجميع الصفوف والأعمدة وغير ذلك الكثير دون الاعتماد على أتمتة Office أو Microsoft اكسل. يدعم API تنسيقات جداول البيانات الأكثر شيوعًا (مثل XLS وXLSX وXLSM وXLSB) بالإضافة إلى أنواع أخرى من تنسيقات الملفات (مثل PDF وXPS) وتنسيقات الصور الأكثر شيوعًا (مثل JPEG، PNG, BMP, TIFF ، GIF، EMF، SVG).
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
@@ -41,7 +41,7 @@ keywords: [C++ Aspose.Cells Create repair parse merge convert JSON Excel XML PDF
  جدول محوري
     </li>
     <li>
-الجداول
+ الجداول
     </li>
     <li>
  الرسوم البيانية
@@ -66,7 +66,7 @@ keywords: [C++ Aspose.Cells Create repair parse merge convert JSON Excel XML PDF
    </header>
    <ul>
     <li>
- تحميل/حفظ جداول البيانات
+تحميل/حفظ جداول البيانات
     </li>
     <li>
  معالجة البيانات
@@ -168,7 +168,7 @@ keywords: [C++ Aspose.Cells Create repair parse merge convert JSON Excel XML PDF
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="تنسيقات الملفات المدعومة" description=" Aspose.Cells for C++ يدعم جداول البيانات الأكثر استخدامًا[تنسيقات الملفات](https://docs.aspose.com/cells/cpp/supported-file-formats/)." >}}
+{{< blocks/products/pf/carousel-item h3="تنسيقات الملفات المدعومة" description=" تدعم مكتبة Aspose.Cells C++ جداول البيانات الأكثر استخدامًا[تنسيقات الملفات](https://docs.aspose.com/cells/cpp/supported-file-formats/)." >}}
 <div class="diagram1 d2 d1-cplus">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -182,25 +182,37 @@ keywords: [C++ Aspose.Cells Create repair parse merge convert JSON Excel XML PDF
      <b>
  Microsoft اكسل:
      </b>
- XLS, XLSX, XLSB, XLT, XLTX, XLTM, XLSM, XML
+ XLS، XLSX، XLSB، XLT، XLTX، XLTM، XLSM، XML، OTS
+    </li>
+    <li>
+     <b>
+ مكتب مفتوح:
+     </b>
+     ODS
     </li>
     <li>
      <b>
  نص:
      </b>
-     CSV, TSV
+     CSV, TSV, JSON
     </li>
     <li>
-     <strong>
- فتح المستند:
-     </strong>
-     ODS
-    </li>
-    <li>
-     <strong>
- آحرون:
-     </strong>
+     <b>
+ الويب:
+     </b>
      HTML, MHTML
+    </li>
+    <li>
+     <b>
+      Numbers:
+     </b>
+ وثائق تطبيق مجموعة مكتب iWork من Apple Numbers
+    </li>
+    <li>
+     <b>
+ آحرون:
+     </b>
+ SXC، FODS، النشر الإلكتروني
     </li>
    </ul>
   </div>
@@ -209,26 +221,32 @@ keywords: [C++ Aspose.Cells Create repair parse merge convert JSON Excel XML PDF
    <header>
     <i class="fa fa-mail-forward">
     </i>
- الإخراج فقط
+الإخراج فقط
    </header>
    <ul>
     <li>
      <b>
- اكسل:
+ تخطيط ثابت:
      </b>
-     XLSM, XLTX, XLTM, XLAM
+ PDF, PDF/أ, XPS
     </li>
     <li>
      <b>
- تخطيط ثابت:
+ تبادل البيانات:
      </b>
-     PDF, XPS
-    </li>
+     DIF
+    </li>    
     <li>
      <b>
  الصور:
      </b>
-     JPEG, PNG, BMP, GIF, EMF, SVG
+     JPEG, PNG, BMP, SVG, TIFF, EMF, GIF
+    </li>
+    <li>
+     <b>
+ آحرون:
+     </b>
+ MARKDOWN، SQL، XTHML
     </li>
    </ul>
   </div>
@@ -264,7 +282,7 @@ keywords: [C++ Aspose.Cells Create repair parse merge convert JSON Excel XML PDF
  <div class="row">
   <div class="container">
    <h2 class="pr-ft">
- مميزات جدول البيانات المتقدم C++ API
+ الميزات المتقدمة لمكتبة C++ للإكسل - Aspose.Cells
    </h2>
    <!-- <p>Unlike similar products from other vendors, Aspose.Cells for C++ not only supports spreadsheet generation and other basic file formatting features, it also supports a number of advanced features. These advanced features make it much easier for developers to manipulate spreadsheet contents and format cells.</p> 
 
@@ -275,7 +293,7 @@ keywords: [C++ Aspose.Cells Create repair parse merge convert JSON Excel XML PDF
     <em class="fa fa-save ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-تحميل وأمبير. حفظ ملفات Excel باستخدام التدفقات
+ تحميل وأمبير. حفظ ملفات Excel باستخدام التدفقات
     </p>
    </div>
    <div class="col-lg-4">
@@ -373,7 +391,7 @@ keywords: [C++ Aspose.Cells Create repair parse merge convert JSON Excel XML PDF
     <em class="fa fa-tags ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- إنشاء قواعد التنسيق الشرطي
+إنشاء قواعد التنسيق الشرطي
     </p>
    </div>
    <div class="col-lg-4">
@@ -399,10 +417,34 @@ keywords: [C++ Aspose.Cells Create repair parse merge convert JSON Excel XML PDF
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
+ متطلبات النظام
+    </h2>
+ تدعم مكتبة Aspose.Cells C++ لبرنامج Excel أنظمة التشغيل والأنظمة الأساسية التالية 64 بت أو 32 بت:
+		<table>  
+			<tr>
+					<td style="font-weight: bold; width:400px">نظام التشغيل</td>
+					<td style="font-weight: bold; width:400px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;الإصدارات</td>
+				</tr>
+		  <tr>
+					<td>Microsoft Windows</td>
+					<td><ul><li>Windowsx86</li><li>Windowsx86_64</li></ul></td>
+		  </tr>
+		  <tr>
+					<td>لينكس</td>
+					<td><ul><li>لينكس x86_64</li><li>لينكس لـ ARM (aarch64)</li></ul></td>
+				</tr>
+		  <tr>
+					<td>ماك</td>
+					<td><ul><li>نظام التشغيل MacOS 11 أو الأحدث (arm64، x86_64)</li></ul></td>
+				</tr>
+		</table>
+   </div>
+   <div class="col-lg-12">
+    <h2 class="h2title">
  اعتماد صفر على Microsoft إكسل
     </h2>
     <p>
-تعتبر واجهات برمجة التطبيقات Aspose مستقلة تمامًا وليست تابعة لشركة Microsoft أو غير مصرح بها أو ترعاها أو معتمدة بأي شكل آخر. Aspose.Cells for C++ لا يحتاج أبدًا إلى تثبيت Microsoft Office أو Microsoft Excel على الجهاز للعمل مع تنسيقات مستندات Excel.
+ مكتبة Aspose.Cells C++ لبرنامج Excel مستقلة تمامًا وليست تابعة لشركة Microsoft أو غير مصرح بها أو ترعاها أو معتمدة بأي شكل آخر. لا تحتاج مكتبة Aspose.Cells C++ أبدًا إلى تثبيت Microsoft Office أو Microsoft Excel على الجهاز للعمل مع تنسيقات مستندات Excel.
     </p>
    </div>
    <div class="col-lg-12">
@@ -410,7 +452,7 @@ keywords: [C++ Aspose.Cells Create repair parse merge convert JSON Excel XML PDF
  بسيطة وأمبير. تحويل موثوق لتنسيقات Excel
     </h2>
     <p>
- Aspose.Cells for C++ عبارة عن مجموعة قوية من واجهات برمجة التطبيقات التي توفر القدرة على تحميل تنسيقات ملفات Excel وتحريرها وكتابتها وتحويلها دون القلق بشأن التفاصيل الخاصة بالتنسيق. يتيح لك API تحويل جداول البيانات من أي تنسيق مدعوم إلى أي تنسيق آخر مدعوم باستخدام سطرين فقط من التعليمات البرمجية. الأمر بهذه البساطة!
+مكتبة Aspose.Cells C++ عبارة عن مجموعة قوية من واجهات برمجة التطبيقات التي توفر القدرة على تحميل تنسيقات ملفات Excel وتحريرها وكتابتها وتحويلها دون القلق بشأن التفاصيل الخاصة بالتنسيق. يتيح لك API تحويل جداول البيانات من أي تنسيق مدعوم إلى أي تنسيق آخر مدعوم باستخدام سطرين فقط من التعليمات البرمجية. الأمر بهذه البساطة!
     </p>
     <div class="codeblock" id="code">
      <h3>
@@ -434,7 +476,7 @@ keywords: [C++ Aspose.Cells Create repair parse merge convert JSON Excel XML PDF
  التنسيق الشامل لجداول البيانات
     </h2>
     <p>
-Aspose.Cells for C++ يمنحك التحكم الكامل في الطريقة التي تريد بها عرض بياناتك في ورقة العمل، من خلال تقديم ميزات التنسيق المتقدمة. يمكنك تطبيق التنسيق على صف أو عمود أو خلية فردية، أو يمكنك إنشاء نطاق من الخلايا وتطبيق التنسيق عليها. يمكنك أيضًا إضافة نص منسق إلى خلية، أو تطبيق الحدود، أو تعيين أنماط الخلفية، أو تعديل جوانب التصميم المتعلقة بالخط.
+ تمنحك مكتبة Aspose.Cells C++ تحكمًا كاملاً في الطريقة التي تريد بها تقديم بياناتك في ورقة العمل، من خلال تقديم ميزات التنسيق المتقدمة. يمكنك تطبيق التنسيق على صف أو عمود أو خلية فردية، أو يمكنك إنشاء نطاق من الخلايا وتطبيق التنسيق عليها. يمكنك أيضًا إضافة نص منسق إلى خلية، أو تطبيق الحدود، أو تعيين أنماط الخلفية، أو تعديل جوانب التصميم المتعلقة بالخط.
     </p>
    </div>
    <div class="col-lg-12">
@@ -442,7 +484,7 @@ Aspose.Cells for C++ يمنحك التحكم الكامل في الطريقة ا
  تصور البيانات مع الرسوم البيانية
     </h2>
     <p>
- Aspose.Cells for C++ يقدم مجموعة شاملة من واجهات برمجة التطبيقات لإنشاء كافة أنواع المخططات القياسية والمخصصة التي يدعمها تطبيق Excel بشكل ديناميكي. يوفر API أيضًا القدرة على تحديث مصدر البيانات لمخطط موجود وتحديثه.
+توفر مكتبة Aspose.Cells C++ مجموعة شاملة من واجهات برمجة التطبيقات لإنشاء جميع أنواع المخططات القياسية والمخصصة التي يدعمها تطبيق Excel ديناميكيًا. يوفر API أيضًا القدرة على تحديث مصدر البيانات لمخطط موجود وتحديثه.
     </p>
    </div>
    <div class="col-lg-12">
@@ -450,7 +492,7 @@ Aspose.Cells for C++ يمنحك التحكم الكامل في الطريقة ا
  تقديم أوراق العمل كصور
     </h2>
     <p>
-تعرض المكتبة بأعلى دقة إلى Microsoft Excel باستخدام محرك العرض الخاص بها. يوفر ميزات مميزة مثل عرض أوراق العمل على الصور بالتنسيقات الشائعة بما في ذلك BMP وPNG وJPEG &amp; EMF. تتميز عملية Sheet2Image بالمرونة مما يسمح بتحديد خيارات مثل التحكم في دقة الصورة الناتجة.
+ تعرض مكتبة Aspose.Cells C++ بأعلى دقة إلى Microsoft Excel باستخدام محرك العرض الخاص بها. يوفر ميزات مميزة مثل عرض أوراق العمل على الصور بتنسيقات شائعة بما في ذلك BMP وTIFF وPNG وJPEG &amp; EMF. تتميز عملية Sheet2Image بالمرونة مما يسمح بتحديد خيارات مثل التحكم في دقة الصورة الناتجة.
     </p>
    </div>
    <div class="col-lg-12">
@@ -458,7 +500,7 @@ Aspose.Cells for C++ يمنحك التحكم الكامل في الطريقة ا
  التعامل مع الأعمدة والصفوف
     </h2>
     <p>
- Aspose.Cells for C++ يقدم معالجة الصفوف والأعمدة بطرق متعددة. يعد ضبط ارتفاع الصف وعرض العمود أو تغيير حجم أبعاد الخلية تلقائيًا وفقًا للمحتويات الموجودة فيها أمرًا سهلاً للغاية. يوفر API أيضًا وسيلة للحذف والإدراج والإخفاء والإظهار بالإضافة إلى تجميع الصفوف والأعمدة أو إلغاء التجميع.
+توفر مكتبة Aspose.Cells C++ معالجة الصفوف والأعمدة بطرق متعددة. يعد ضبط ارتفاع الصف وعرض العمود أو تغيير حجم أبعاد الخلية تلقائيًا وفقًا للمحتويات الموجودة فيها أمرًا سهلاً للغاية. يوفر API أيضًا وسيلة للحذف والإدراج والإخفاء والإظهار بالإضافة إلى تجميع الصفوف والأعمدة أو إلغاء التجميع.
     </p>
    </div>
    <div class="col-lg-12">
@@ -466,7 +508,7 @@ Aspose.Cells for C++ يمنحك التحكم الكامل في الطريقة ا
  تحويل جداول البيانات بدقة إلى PDF
     </h2>
     <p>
-توفر مكتبة Excel C++ القدرة على تحويل جداول البيانات إلى تنسيق PDF مع الاحتفاظ بنفس جودة المستند الأصلي. هذه الحقيقة تجعل Aspose.Cells for C++ خيارًا مثاليًا للمؤسسات التي تحتاج إلى تبادل المستندات بتنسيقات متوافقة مع معايير الصناعة مثل PDF.
+ توفر مكتبة Aspose.Cells C++ القدرة على تحويل جداول البيانات إلى تنسيق PDF مع الاحتفاظ بنفس جودة المستند الأصلي. هذه الحقيقة تجعل مكتبة Aspose.Cells C++ خيارًا مثاليًا للمؤسسات التي تحتاج إلى تبادل المستندات بتنسيقات متوافقة مع معايير الصناعة مثل PDF.
     </p>
    </div>
    <!-- 

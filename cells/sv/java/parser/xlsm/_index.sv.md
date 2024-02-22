@@ -12,11 +12,7 @@ keywords: [Java Aspose.Cells., Java Extract text and images from XLSM file., Jav
 
 {{% blocks/products/pf/agp/content h2="Hur man analyserar XLSM-fil med Java" %}}
 
- För att tolka filen XLSM kommer vi att använda
- [Aspose.Cells for Java](https://products.aspose.com/cells/java) 
- API som är en funktionsrik, kraftfull och lättanvänd API for Java plattform för parsning. Du kan ladda ner den senaste versionen direkt från
- [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) 
- och installera det i ditt Maven-baserade projekt genom att lägga till följande konfigurationer till pom.xml.
+ För att tolka filen XLSM kommer vi att använda[Aspose.Cells for Java](https://products.aspose.com/cells/java) API som är en funktionsrik, kraftfull och lättanvänd API for Java plattform för parsning. Du kan ladda ner den senaste versionen direkt från[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) och installera det i ditt Maven-baserade projekt genom att lägga till följande konfigurationer till pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Förvar" offSpacer="true" %}}
 
@@ -54,9 +50,7 @@ keywords: [Java Aspose.Cells., Java Extract text and images from XLSM file., Jav
 
 {{% blocks/products/pf/agp/text %}}
 
- Ett grundläggande dokument som analyseras med
- [Aspose.Cells for Java](https://products.aspose.com/cells/java) 
- API:er kan göras med bara några rader kod. Analysera text och bilder från Microsoft Excel XLS, XLSX, XLSM, XLSB och OpenDocument ODS filer.
+ Ett grundläggande dokument som analyseras med[Aspose.Cells for Java](https://products.aspose.com/cells/java)API:er kan göras med bara några rader kod. Analysera text och bilder från Microsoft Excel XLS, XLSX, XLSM, XLSB och OpenDocument ODS filer.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -76,7 +70,7 @@ keywords: [Java Aspose.Cells., Java Extract text and images from XLSM file., Jav
 
 {{% /blocks/products/pf/agp/text %}}
 
--  Microsoft Windows eller ett kompatibelt operativsystem med Java Runtime Environment för JSP/JSF Application och Desktop Applications.
+- Microsoft Windows eller ett kompatibelt operativsystem med Java Runtime Environment för JSP/JSF Application och Desktop Applications.
 -  Hämta senaste versionen av Aspose.Cells for Java direkt från
  [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells)  .
 
@@ -121,7 +115,7 @@ System.out.println(stringBuilder.toString());
 
 {{< blocks/products/pf/agp/about-file-section >}}
 
-    {{< blocks/products/pf/agp/demobox sectionTitle="Online XLSM Parser Live Demos" sectionDescription=" Extrahera text och bilder från XLSM dokument just nu genom att besöka vår[Live Demos webbplats](https://products.aspose.app/cells/parser). Livedemon har följande fördelar" >}}
+    {{< blocks/products/pf/agp/demobox sectionTitle="Online XLSM Parser Live Demos" sectionDescription="Extrahera text och bilder från XLSM dokument just nu genom att besöka vår[Live Demos webbplats](https://products.aspose.app/cells/parser). Livedemon har följande fördelar" >}}
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Du behöver inte ladda ner Aspose API." >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Du behöver inte skriva någon kod." >}}
         {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Ladda bara upp dina XLSM-filer." >}}
@@ -142,6 +136,7 @@ Filer med tillägget XLSM är en typ av kalkylbladsfiler som stöder makron. Ur 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/parser/ods/" name="ODS" description="OpenDocument Spreadsheet File" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/parser/xls/" name="XLS" description="Excel binärt format" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/parser/xlsb/" name="XLSB" description="Binär Excel arbetsbok fil" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/parser/xlsx/" name="XLSX" description="OOXML Excel-fil" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

@@ -12,13 +12,8 @@ keywords: [C# Aspose.Cells., c# Extract text and images from XLS file., c# How t
 
 {{% blocks/products/pf/agp/content h2="Come analizzare il file XLS utilizzando C#" %}}
 
- Per analizzare il file XLS, utilizzeremo
- [Aspose.Cells for .NET](https://products.aspose.com/cells/net) 
- API che è una manipolazione di documenti ricca di funzionalità, potente e facile da usare API per la piattaforma C#. Aprire
- [NuGet](https://www.nuget.org/packages/aspose.cells) 
- gestore pacchetti, cerca
- **Aspose.Cells** 
- e installare. Puoi anche utilizzare il seguente comando dalla Console di gestione pacchetti.
+ Per analizzare il file XLS, utilizzeremo[Aspose.Cells for .NET](https://products.aspose.com/cells/net) API che è una manipolazione di documenti ricca di funzionalità, potente e facile da usare API per la piattaforma C#. Aprire[NuGet](https://www.nuget.org/packages/aspose.cells) gestore pacchetti, cerca
+ **Aspose.Cells** e installare. Puoi anche utilizzare il seguente comando dalla Console di gestione pacchetti.
 
 {{% blocks/products/pf/agp/code-block title="Comando" offSpacer="true" %}}
 
@@ -38,9 +33,7 @@ PM> Install-Package Aspose.Cells
 
 {{% blocks/products/pf/agp/text %}}
 
- Un documento di base con cui eseguire l'analisi
- [Aspose.Cells for .NET](https://products.aspose.com/cells/net) 
- Le API possono essere eseguite con poche righe di codice. Analizza testo e immagini dai file Microsoft Excel XLS, XLSX, XLSM, XLSB e OpenDocument ODS.
+ Un documento di base con cui eseguire l'analisi[Aspose.Cells for .NET](https://products.aspose.com/cells/net)Le API possono essere eseguite con poche righe di codice. Analizza testo e immagini dai file Microsoft Excel XLS, XLSX, XLSM, XLSB e OpenDocument ODS.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -56,7 +49,7 @@ PM> Install-Package Aspose.Cells
 
 {{% blocks/products/pf/agp/text %}}
 
- Le nostre API sono supportate su tutte le principali piattaforme e sistemi operativi. Prima di eseguire il codice seguente, assicurati di avere i seguenti prerequisiti sul tuo sistema.
+Le nostre API sono supportate su tutte le principali piattaforme e sistemi operativi. Prima di eseguire il codice seguente, assicurati di avere i seguenti prerequisiti sul tuo sistema.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -115,7 +108,7 @@ PM> Install-Package Aspose.Cells
 
     {{< blocks/products/pf/agp/about-file-section >}}
 
-        {{< blocks/products/pf/agp/demobox sectionTitle="Online XLS Demo live del parser" sectionDescription=" Estrai testo e immagini dai documenti XLS adesso visitando il nostro[Sito web delle demo dal vivo](https://products.aspose.app/cells/parser). La demo live presenta i seguenti vantaggi" >}}
+        {{< blocks/products/pf/agp/demobox sectionTitle="Online XLS Demo live del parser" sectionDescription="Estrai testo e immagini dai documenti XLS adesso visitando il nostro[Sito web delle demo dal vivo](https://products.aspose.app/cells/parser). La demo live presenta i seguenti vantaggi" >}}
             {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Non è necessario scaricare Aspose API." >}}
             {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Non è necessario scrivere alcun codice." >}}
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Basta caricare i tuoi file XLS." >}}
@@ -135,6 +128,7 @@ PM> Install-Package Aspose.Cells
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/parser/ods/" name="ODS" description="File di foglio di calcolo OpenDocument" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/parser/xlsb/" name="XLSB" description="File binario della cartella di lavoro Excel" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/parser/xlsm/" name="XLSM" description="File di foglio di calcolo" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/parser/xlsx/" name="XLSX" description="File Excel OOXML" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

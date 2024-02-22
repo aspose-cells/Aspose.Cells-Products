@@ -1,5 +1,5 @@
 ---
-title: Marca de agua XLSM documento via Java
+title:  Marca de agua XLSM documento via Java
 weight: 7680
 description: Código de muestra Java para agregar o eliminar marcas de agua al archivo XLSM en el entorno de ejecución Java para aplicaciones JSP/JSF y aplicaciones de escritorio.
 keywords: [Java Aspose.Cells., Java add watermark to xlsm file., Java insert watermark to xlsm file., Java create watermark in xlsm file., remove watermark from xlsm file using Java., Java operate watermark in xlsm file., Java access watermark in xlsm file]
@@ -12,11 +12,7 @@ keywords: [Java Aspose.Cells., Java add watermark to xlsm file., Java insert wat
 
 {{% blocks/products/pf/agp/content h2="Cómo poner una marca de agua en el archivo XLSM usando Java" %}}
 
- Para poner una marca de agua en el archivo XLSM, usaremos
- [Aspose.Cells for Java](https://products.aspose.com/cells/java) 
- API, que es una plataforma de marca de agua API for Java rica en funciones, potente y fácil de usar. Puede descargar su última versión directamente desde
- [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) 
- e instálelo dentro de su proyecto basado en Maven agregando las siguientes configuraciones a pom.xml.
+ Para poner una marca de agua en el archivo XLSM, usaremos[Aspose.Cells for Java](https://products.aspose.com/cells/java) API, que es una plataforma de marca de agua API for Java rica en funciones, potente y fácil de usar. Puede descargar su última versión directamente desde[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) e instálelo dentro de su proyecto basado en Maven agregando las siguientes configuraciones a pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Repositorio" offSpacer="true" %}}
 
@@ -129,7 +125,7 @@ workbook.save(dataDir + "AWArtWToWorksheet_out.xlsm");
     {{< blocks/products/pf/agp/about-file-section >}}
 
         {{< blocks/products/pf/agp/demobox sectionTitle="Marca de agua XLSM a través de la aplicación en línea" sectionDescription=" Agregue una marca de agua a los documentos XLSM visitando nuestro[Sitio web de demostraciones en vivo](https://products.aspose.app/cells/watermark). La demostración en vivo tiene los siguientes beneficios" >}}
-            {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" No es necesario descargar ni configurar nada" >}}
+            {{< blocks/products/pf/agp/democard icon="fa-cogs" text="No es necesario descargar ni configurar nada" >}}
             {{< blocks/products/pf/agp/democard icon="fa-edit" text=" No es necesario escribir ningún código." >}}
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Simplemente cargue su archivo XLSM, configure su marca de agua y presione el botón \"Agregar\"" >}}
             {{< blocks/products/pf/agp/democard icon="fa-download" text=" Obtenga instantáneamente el enlace de descarga del archivo resultante" >}}
@@ -148,6 +144,7 @@ Los archivos con extensión XLSM son un tipo de archivos de hoja de cálculo que
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/watermark/ods/" name="ODS" description="Archivo de hoja de cálculo OpenDocument" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/watermark/xls/" name="XLS" description="Formato binario de Excel" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/watermark/xlsb/" name="XLSB" description="Archivo de libro de Excel binario" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/watermark/xlsx/" name="XLSX" description="Archivo Excel OOXML" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

@@ -13,7 +13,7 @@ keywords: [Python Aspose.Cells Create parse repair merge convert JSON Excel XML 
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
-Aspose.Cells for Python via Java is een snelle en betrouwbare API voor spreadsheetverwerkingstaken. Ontwikkelaars kunnen eenvoudige of complexe spreadsheets maken en informatie uit Excel-bestanden manipuleren en extraheren. API leest meerdere Excel-formaten en kan werkbladen weergeven in XPS, PDF, MHTML, HTML, platte tekst, afbeeldingen en meer. Het is de beste oplossing om Excel-rapporten te automatiseren met behulp van Python.
+ Aspose.Cells for Python via Java is een snelle en betrouwbare API voor spreadsheetverwerkingstaken. Ontwikkelaars kunnen eenvoudige of complexe spreadsheets maken en informatie uit Excel-bestanden manipuleren en extraheren. API leest meerdere Excel-formaten en kan werkbladen weergeven in XPS, PDF, MHTML, HTML, platte tekst, afbeeldingen en meer. Het is de beste oplossing om Excel-rapporten te automatiseren met behulp van Python.
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
@@ -38,7 +38,7 @@ Aspose.Cells for Python via Java is een snelle en betrouwbare API voor spreadshe
  ResultaatSet
     </li>
     <li>
-Collecties
+ Collecties
     </li>
    </ul>
    <header>
@@ -76,7 +76,7 @@ Collecties
  Maak grafieken
     </li>
     <li>
- Samenvatten
+Samenvatten
     </li>
     <li>
  Slimme markeringen
@@ -159,7 +159,7 @@ Collecties
      <b>
  Microsoft Excel:
      </b>
- XLS, XLSX, XLSB, XLTX, XLTM, XLSM, XML
+ XLS, XLSX, XLSB, XLT, XLTX, XLTM, XLSM, XML, OTS
     </li>
     <li>
      <b>
@@ -171,13 +171,25 @@ Collecties
      <b>
  Tekst:
      </b>
-     CSV, TSV, TXT
+     CSV, TSV, JSON
     </li>
     <li>
      <b>
  Web:
      </b>
      HTML, MHTML
+    </li>
+    <li>
+     <b>
+      Numbers:
+     </b>
+ Apple's iWork office suite Numbers app-documenten
+    </li>
+    <li>
+     <b>
+ Anderen:
+     </b>
+ SXC, FODS, EPUB
     </li>
    </ul>
   </div>
@@ -186,7 +198,7 @@ Collecties
    <header>
     <i class="fa fa-mail-forward">
     </i>
- Alleen uitvoer
+Alleen uitvoer
    </header>
    <ul>
     <li>
@@ -197,9 +209,21 @@ Collecties
     </li>
     <li>
      <b>
+ Gegevensuitwisseling:
+     </b>
+     DIF
+    </li>    
+    <li>
+     <b>
  Afbeeldingen:
      </b>
-     JPEG, PNG, BMP, SVG, EMF
+     JPEG, PNG, BMP, SVG, TIFF, EMF, GIF
+    </li>
+    <li>
+     <b>
+ Anderen:
+     </b>
+ MARKDOWN, SQL, XTHML
     </li>
    </ul>
   </div>
@@ -306,7 +330,7 @@ Collecties
     <em class="fa fa-object-ungroup ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-Groepering aan rijen en kolommen toevoegen of verwijderen
+ Groepering aan rijen en kolommen toevoegen of verwijderen
     </p>
    </div>
    <div class="col-lg-4">
@@ -416,11 +440,11 @@ Groepering aan rijen en kolommen toevoegen of verwijderen
  Conversie van meerdere formaten
     </h2>
     <p>
- Python Excel-bibliotheek biedt conversie van Excel-bestanden naar PDF, XPS &amp; HTML-formaten. De betrouwbare conversie van API maakt het een perfecte oplossing voor bedrijven die bestanden moeten uitwisselen in industriestandaardformaten.
+Python Excel-bibliotheek biedt conversie van Excel-bestanden naar PDF, XPS &amp; HTML-formaten. De betrouwbare conversie van API maakt het een perfecte oplossing voor bedrijven die bestanden moeten uitwisselen in industriestandaardformaten.
     </p>
     <div class="codeblock" id="code">
      <h3>
-Sla spreadsheet op in verschillende formaten - Java
+ Sla spreadsheet op in verschillende formaten - Java
      </h3>
      <pre><code class="java">
 // load file to be converted
@@ -489,7 +513,7 @@ wkbk.save(SD_PATH + "houtput.html", SaveFormat.HTML);</code></pre>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-Grafieken aanpassen
+ Grafieken aanpassen
     </h2>
     <p>
 Aspose.Cells for Python via Java biedt volledige ondersteuning voor het in kaart brengen. U kunt eenvoudig standaard- en aangepaste grafieken toevoegen of dynamisch kaartgegevens instellen om de kaart via deze Python-bibliotheek te vernieuwen.

@@ -1,5 +1,5 @@
 ---
-title: Vodoznak XLSM dokument via Java
+title:  Vodoznak XLSM dokument via Java
 weight: 7680
 description: Java ukázkový kód pro přidání nebo odstranění vodoznaku do souboru XLSM v Java Runtime Environment pro JSP/JSF aplikace a desktopové aplikace.
 keywords: [Java Aspose.Cells., Java add watermark to xlsm file., Java insert watermark to xlsm file., Java create watermark in xlsm file., remove watermark from xlsm file using Java., Java operate watermark in xlsm file., Java access watermark in xlsm file]
@@ -12,11 +12,7 @@ keywords: [Java Aspose.Cells., Java add watermark to xlsm file., Java insert wat
 
 {{% blocks/products/pf/agp/content h2="Jak vytvořit vodoznak XLSM pomocí souboru Java" %}}
 
- Abychom mohli vodoznak XLSM souboru, použijeme
- [Aspose.Cells for Java](https://products.aspose.com/cells/java) 
- API, což je funkčně bohatá, výkonná a snadno použitelná platforma pro vodoznaky API for Java. Jeho nejnovější verzi si můžete stáhnout přímo z
- [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) 
- a nainstalujte jej do svého projektu založeného na Maven přidáním následujících konfigurací do souboru pom.xml.
+ Abychom mohli vodoznak XLSM souboru, použijeme[Aspose.Cells for Java](https://products.aspose.com/cells/java) API, což je funkčně bohatá, výkonná a snadno použitelná platforma pro vodoznaky API for Java. Jeho nejnovější verzi si můžete stáhnout přímo z[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) a nainstalujte jej do svého projektu založeného na Maven přidáním následujících konfigurací do souboru pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Úložiště" offSpacer="true" %}}
 
@@ -129,7 +125,7 @@ workbook.save(dataDir + "AWArtWToWorksheet_out.xlsm");
     {{< blocks/products/pf/agp/about-file-section >}}
 
         {{< blocks/products/pf/agp/demobox sectionTitle="Vodoznak XLSM prostřednictvím online aplikace" sectionDescription=" Přidejte vodoznak do dokumentů XLSM návštěvou našeho webu[Webová stránka živé ukázky](https://products.aspose.app/cells/watermark). Živé demo má následující výhody" >}}
-            {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Není třeba nic stahovat ani nastavovat" >}}
+            {{< blocks/products/pf/agp/democard icon="fa-cogs" text="Není třeba nic stahovat ani nastavovat" >}}
             {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Není třeba psát žádný kód" >}}
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Stačí nahrát svůj soubor XLSM, nastavit vodoznak a stisknout tlačítko \"Přidat\"." >}}
             {{< blocks/products/pf/agp/democard icon="fa-download" text=" Okamžitě získejte odkaz ke stažení výsledného souboru" >}}
@@ -148,6 +144,7 @@ Soubory s příponou XLSM jsou typem souborů tabulky, které podporují makra. 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/watermark/ods/" name="ODS" description="Soubor tabulkového procesoru OpenDocument" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/watermark/xls/" name="XLS" description="Binární formát Excel" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/watermark/xlsb/" name="XLSB" description="Binární soubor sešitu Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/watermark/xlsx/" name="XLSX" description="Soubor Excel OOXML" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

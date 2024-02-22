@@ -12,13 +12,7 @@ keywords: [C++ Aspose.Cells., C++ Search and replace text in XLSB file., C++ red
 
 {{% blocks/products/pf/agp/content h2="如何使用 C++ 编辑 XLSB 文件" %}}
 
-为了编辑 XLSB 文件，我们将使用
- [Aspose.Cells for C++](https://products.aspose.com/cells/cpp) 
-API这是一个功能丰富、功能强大且易于使用的文档编辑API for C++平台。您可以直接下载最新版本，打开即可
- [NuGet](https://www.nuget.org/packages/aspose.cells) 
-包管理器，搜索
- **Aspose.Cells.Cpp** 
-并安装。您还可以从包管理器控制台使用以下命令。
+为了编辑 XLSB 文件，我们将使用[Aspose.Cells for C++](https://products.aspose.com/cells/cpp)API这是一个功能丰富、功能强大且易于使用的文档编辑API for C++平台。您可以直接下载最新版本，打开即可[NuGet](https://www.nuget.org/packages/aspose.cells)包管理器，搜索**Aspose.Cells.Cpp**并安装。您还可以从包管理器控制台使用以下命令。
 
 {{% blocks/products/pf/agp/code-block title="命令" offSpacer="true" %}}
 
@@ -38,15 +32,13 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% blocks/products/pf/agp/text %}}
 
-基本文档搜索并将内容、评论或元数据中的文本替换为
- [Aspose.Cells for C++](https://products.aspose.com/cells/cpp) 
-只需几行代码即可完成 API。
+基本文档搜索并将内容、评论或元数据中的文本替换为[Aspose.Cells for C++](https://products.aspose.com/cells/cpp)只需几行代码即可完成 API。
 
 {{% /blocks/products/pf/agp/text %}}
 
 +加载XLSB文件。
 + 定义替换选项。
-+ 设置区分大小写选项。
+设置区分大小写选项。
 + 设置文本匹配选项
 使用 Replace(...) 方法替换文本
 保存工作簿。
@@ -57,7 +49,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% blocks/products/pf/agp/text %}}
 
-Aspose.Cells for C++ 支持所有主要平台和操作系统。请确保您具备以下先决条件。
+ Aspose.Cells for C++ 支持所有主要平台和操作系统。请确保您具备以下先决条件。
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -131,6 +123,7 @@ XLSB 文件格式指定 Excel 二进制文件格式，它是指定 Excel 工作�
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/redaction/ods/" name="ODS" description="OpenDocument 电子表格文件" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/redaction/xls/" name="XLS" description="Excel 二进制格式" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/redaction/xlsm/" name="XLSM" description="电子表格文件" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/redaction/xlsx/" name="XLSX" description="OOXML Excel 文件" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

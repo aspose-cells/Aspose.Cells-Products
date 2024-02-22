@@ -1,5 +1,5 @@
 ---
-title: Znak wodny XLSB, dokument via Java
+title:  Znak wodny XLSB, dokument via Java
 weight: 5900
 description: Java przykładowy kod umożliwiający dodanie lub usunięcie znaku wodnego do pliku XLSB w środowisku wykonawczym Java dla aplikacji JSP/JSF i aplikacji komputerowych.
 keywords: [Java Aspose.Cells., Java add watermark to xlsb file., Java insert watermark to xlsb file., Java create watermark in xlsb file., remove watermark from xlsb file using Java., Java operate watermark in xlsb file., Java access watermark in xlsb file]
@@ -12,11 +12,7 @@ keywords: [Java Aspose.Cells., Java add watermark to xlsb file., Java insert wat
 
 {{% blocks/products/pf/agp/content h2="Jak dodać znak wodny do pliku XLSB przy użyciu Java" %}}
 
- Aby oznaczyć plik XLSB znakiem wodnym, użyjemy
- [Aspose.Cells for Java](https://products.aspose.com/cells/java) 
- API, która jest bogatą w funkcje, wydajną i łatwą w użyciu platformą do znakowania wodnego API for Java. Możesz pobrać jego najnowszą wersję bezpośrednio ze strony
- [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) 
- i zainstaluj go w projekcie opartym na Maven, dodając następujące konfiguracje do pliku pom.xml.
+ Aby oznaczyć plik XLSB znakiem wodnym, użyjemy[Aspose.Cells for Java](https://products.aspose.com/cells/java) API, która jest bogatą w funkcje, wydajną i łatwą w użyciu platformą do znakowania wodnego API for Java. Możesz pobrać jego najnowszą wersję bezpośrednio ze strony[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) i zainstaluj go w projekcie opartym na Maven, dodając następujące konfiguracje do pliku pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Magazyn" offSpacer="true" %}}
 
@@ -129,7 +125,7 @@ workbook.save(dataDir + "AWArtWToWorksheet_out.xlsb");
     {{< blocks/products/pf/agp/about-file-section >}}
 
         {{< blocks/products/pf/agp/demobox sectionTitle="Znak wodny XLSB za pośrednictwem aplikacji internetowej" sectionDescription=" Dodaj znak wodny do dokumentów XLSB odwiedzając naszą stronę[Witryna internetowa z prezentacjami na żywo](https://products.aspose.app/cells/watermark). Demo na żywo ma następujące zalety" >}}
-            {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Nie trzeba niczego pobierać ani konfigurować" >}}
+            {{< blocks/products/pf/agp/democard icon="fa-cogs" text="Nie trzeba niczego pobierać ani konfigurować" >}}
             {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Nie trzeba pisać żadnego kodu" >}}
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Po prostu prześlij plik XLSB, ustaw znak wodny i naciśnij przycisk „Dodaj”." >}}
             {{< blocks/products/pf/agp/democard icon="fa-download" text=" Natychmiast uzyskaj łącze do pobrania pliku wynikowego" >}}
@@ -148,6 +144,7 @@ Format pliku XLSB określa format pliku binarnego programu Excel, który jest zb
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/watermark/ods/" name="ODS" description="Plik arkusza kalkulacyjnego OpenDocument" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/watermark/xls/" name="XLS" description="Format binarny Excela" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/watermark/xlsm/" name="XLSM" description="Plik arkusza kalkulacyjnego" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/watermark/xlsx/" name="XLSX" description="Plik Excela OOXML" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

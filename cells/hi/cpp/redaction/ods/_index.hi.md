@@ -1,5 +1,5 @@
 ---
-title:  ODS दस्तावेज़ में टेक्स्ट को C++ के माध्यम से खोजें और बदलें
+title: ODS दस्तावेज़ में टेक्स्ट को C++ के माध्यम से खोजें और बदलें
 weight: 1610
 description: Windows 32 बिट, Windows 64 बिट और लिनक्स 64 बिट के लिए C++ रनटाइम एनवायरनमेंट पर ODS फ़ाइल में संवेदनशील जानकारी को संशोधित करने के लिए C++ उदाहरण कोड।
 keywords: [C++ Aspose.Cells., C++ Search and replace text in ODS file., C++ redact ODS file., C++ edit ODS file., C++ ODS file redaction., C++ Search and replace string in ODS file]
@@ -12,13 +12,7 @@ keywords: [C++ Aspose.Cells., C++ Search and replace text in ODS file., C++ reda
 
 {{% blocks/products/pf/agp/content h2="C++ का उपयोग करके ODS फ़ाइल को कैसे संशोधित करें" %}}
 
- ODS फ़ाइल को पुनः संपादित करने के लिए, हम इसका उपयोग करेंगे
- [Aspose.Cells for C++](https://products.aspose.com/cells/cpp) 
- API जो एक सुविधा संपन्न, शक्तिशाली और उपयोग में आसान दस्तावेज़ संशोधन API for C++ प्लेटफ़ॉर्म है। आप इसका नवीनतम संस्करण सीधे डाउनलोड कर सकते हैं, बस खोलें
- [NuGet](https://www.nuget.org/packages/aspose.cells) 
- पैकेज मैनेजर, खोजें
- **Aspose.Cells.Cpp** 
- और इंस्टॉल करें. आप पैकेज मैनेजर कंसोल से निम्न कमांड का भी उपयोग कर सकते हैं।
+ ODS फ़ाइल को पुनः संपादित करने के लिए, हम इसका उपयोग करेंगे[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) API जो एक सुविधा संपन्न, शक्तिशाली और उपयोग में आसान दस्तावेज़ संशोधन API for C++ प्लेटफ़ॉर्म है। आप इसका नवीनतम संस्करण सीधे डाउनलोड कर सकते हैं, बस खोलें[NuGet](https://www.nuget.org/packages/aspose.cells) पैकेज मैनेजर, खोजें**Aspose.Cells.Cpp** और इंस्टॉल करें. आप पैकेज मैनेजर कंसोल से निम्न कमांड का भी उपयोग कर सकते हैं।
 
 {{% blocks/products/pf/agp/code-block title="आज्ञा" offSpacer="true" %}}
 
@@ -38,15 +32,13 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% blocks/products/pf/agp/text %}}
 
- एक मूल दस्तावेज़ सामग्री, टिप्पणियों या मेटाडेटा में टेक्स्ट को खोजता है और प्रतिस्थापित करता है
- [Aspose.Cells for C++](https://products.aspose.com/cells/cpp) 
- एपीआई को कोड की कुछ पंक्तियों के साथ किया जा सकता है।
+ एक मूल दस्तावेज़ सामग्री, टिप्पणियों या मेटाडेटा में टेक्स्ट को खोजता है और प्रतिस्थापित करता है[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) एपीआई को कोड की कुछ पंक्तियों के साथ किया जा सकता है।
 
 {{% /blocks/products/pf/agp/text %}}
 
 + ODS फ़ाइल लोड करें।
 + बदलें विकल्प परिभाषित करें।
-+ केस संवेदनशीलता विकल्प सेट करें।
+केस संवेदनशीलता विकल्प सेट करें।
 + टेक्स्ट मिलान विकल्प सेट करें
 + Replace(...) विधि का उपयोग करके टेक्स्ट बदलें
 + कार्यपुस्तिका सहेजें.
@@ -114,11 +106,11 @@ Aspose::Cells::Cleanup();
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Aspose API डाउनलोड करने की आवश्यकता नहीं है।" >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" कोई कोड लिखने की जरूरत नहीं." >}}
         {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" बस अपनी ODS फ़ाइलें अपलोड करें।" >}}
-        {{< blocks/products/pf/agp/democard icon="fa-download" text="इसे तुरंत संशोधित कर दिया जाएगा." >}}
+        {{< blocks/products/pf/agp/democard icon="fa-download" text=" इसे तुरंत संशोधित कर दिया जाएगा." >}}
     {{< /blocks/products/pf/agp/demobox >}}
 
     {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="ODS" readMoreLink="https://docs.fileformat.com/spreadsheet/ods/" >}}
-ODS एक्सटेंशन वाली फ़ाइलें ओपन डॉक्यूमेंट स्प्रेडशीट दस्तावेज़ प्रारूप के लिए हैं जो उपयोगकर्ता द्वारा संपादन योग्य हैं। डेटा को ODF फ़ाइल के अंदर पंक्तियों और स्तंभों में संग्रहीत किया जाता है। यह XML-आधारित प्रारूप है और ओपन दस्तावेज़ प्रारूप (ODF) परिवार में कई उपप्रकारों में से एक है। प्रारूप OASIS द्वारा प्रकाशित और अनुरक्षित ODF 1.2 विनिर्देशों के भाग के रूप में निर्दिष्ट है। Windows के साथ-साथ अन्य ऑपरेटिंग सिस्टम पर कई एप्लिकेशन संपादन और हेरफेर के लिए Microsoft एक्सेल, नियोऑफिस और लिबरऑफिस सहित ODS फाइलें खोल सकते हैं। ODS फ़ाइलों को विभिन्न अनुप्रयोगों द्वारा अन्य स्प्रेडशीट प्रारूपों जैसे XLS, XLSX और अन्य में भी परिवर्तित किया जा सकता है।
+ ODS एक्सटेंशन वाली फ़ाइलें ओपन डॉक्यूमेंट स्प्रेडशीट दस्तावेज़ प्रारूप के लिए हैं जो उपयोगकर्ता द्वारा संपादन योग्य हैं। डेटा को ODF फ़ाइल के अंदर पंक्तियों और स्तंभों में संग्रहीत किया जाता है। यह XML-आधारित प्रारूप है और ओपन दस्तावेज़ प्रारूप (ODF) परिवार में कई उपप्रकारों में से एक है। प्रारूप OASIS द्वारा प्रकाशित और अनुरक्षित ODF 1.2 विनिर्देशों के भाग के रूप में निर्दिष्ट है। Windows के साथ-साथ अन्य ऑपरेटिंग सिस्टम पर कई एप्लिकेशन संपादन और हेरफेर के लिए Microsoft एक्सेल, नियोऑफिस और लिबरऑफिस सहित ODS फाइलें खोल सकते हैं। ODS फ़ाइलों को विभिन्न अनुप्रयोगों द्वारा अन्य स्प्रेडशीट प्रारूपों जैसे XLS, XLSX और अन्य में भी परिवर्तित किया जा सकता है।
 
     {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
@@ -126,11 +118,12 @@ ODS एक्सटेंशन वाली फ़ाइलें ओपन ड
 
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="अन्य समर्थित सुधार दस्तावेज़" subTitle="C++ का उपयोग करके, कोई भी आसानी से विभिन्न प्रारूपों को संशोधित कर सकता है।" >}}
+{{< blocks/products/pf/agp/other-supported-section title="अन्य समर्थित सुधार दस्तावेज़" subTitle="C++ का उपयोग करके, कोई भी आसानी से विभिन्न प्रारूपों को संपादित कर सकता है।" >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/redaction/xls/" name="XLS" description="एक्सेल बाइनरी फॉर्मेट" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/redaction/xlsb/" name="XLSB" description="बाइनरी एक्सेल वर्कबुक फ़ाइल" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/redaction/xlsm/" name="XLSM" description="स्प्रेडशीट फ़ाइल" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/redaction/xlsx/" name="XLSX" description="ओओएक्सएमएल एक्सेल फ़ाइल" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

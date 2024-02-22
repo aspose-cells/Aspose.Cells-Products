@@ -12,11 +12,7 @@ keywords: [Java Aspose.Cells., Java Extract text and images from XLSM file., Jav
 
 {{% blocks/products/pf/agp/content h2="Cách phân tích tệp XLSM bằng Java" %}}
 
- Để phân tích tệp XLSM, chúng tôi sẽ sử dụng
- [Aspose.Cells for Java](https://products.aspose.com/cells/java) 
- API là một nền tảng phân tích cú pháp API for Java giàu tính năng, mạnh mẽ và dễ sử dụng. Bạn có thể tải xuống phiên bản mới nhất của nó trực tiếp từ
- [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) 
- và cài đặt nó trong dự án dựa trên Maven của bạn bằng cách thêm các cấu hình sau vào pom.xml.
+ Để phân tích tệp XLSM, chúng tôi sẽ sử dụng[Aspose.Cells for Java](https://products.aspose.com/cells/java) API là một nền tảng phân tích cú pháp API for Java giàu tính năng, mạnh mẽ và dễ sử dụng. Bạn có thể tải xuống phiên bản mới nhất của nó trực tiếp từ[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) và cài đặt nó trong dự án dựa trên Maven của bạn bằng cách thêm các cấu hình sau vào pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Kho" offSpacer="true" %}}
 
@@ -54,9 +50,7 @@ keywords: [Java Aspose.Cells., Java Extract text and images from XLSM file., Jav
 
 {{% blocks/products/pf/agp/text %}}
 
- Phân tích tài liệu cơ bản với
- [Aspose.Cells for Java](https://products.aspose.com/cells/java) 
- API có thể được thực hiện chỉ với vài dòng mã. Phân tích văn bản & hình ảnh từ các tệp Microsoft Excel XLS, XLSX, XLSM, XLSB và OpenDocument ODS.
+ Phân tích tài liệu cơ bản với[Aspose.Cells for Java](https://products.aspose.com/cells/java)API có thể được thực hiện chỉ với vài dòng mã. Phân tích văn bản & hình ảnh từ các tệp Microsoft Excel XLS, XLSX, XLSM, XLSB và OpenDocument ODS.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -76,7 +70,7 @@ keywords: [Java Aspose.Cells., Java Extract text and images from XLSM file., Jav
 
 {{% /blocks/products/pf/agp/text %}}
 
--  Microsoft Windows hoặc hệ điều hành tương thích với Java Môi trường thời gian chạy cho ứng dụng JSP/JSF và ứng dụng máy tính để bàn.
+- Microsoft Windows hoặc hệ điều hành tương thích với Java Môi trường thời gian chạy cho ứng dụng JSP/JSF và ứng dụng máy tính để bàn.
 -  Nhận phiên bản mới nhất của Aspose.Cells for Java trực tiếp từ
  [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells)  .
 
@@ -121,7 +115,7 @@ System.out.println(stringBuilder.toString());
 
 {{< blocks/products/pf/agp/about-file-section >}}
 
-    {{< blocks/products/pf/agp/demobox sectionTitle="Trực tuyến XLSM Trình phân tích cú pháp trực tiếp" sectionDescription=" Trích xuất văn bản và hình ảnh từ tài liệu XLSM ngay bây giờ bằng cách truy cập của chúng tôi[Trang web demo trực tiếp](https://products.aspose.app/cells/parser). Bản demo trực tiếp có những lợi ích sau" >}}
+    {{< blocks/products/pf/agp/demobox sectionTitle="Trực tuyến XLSM Trình phân tích cú pháp trực tiếp" sectionDescription="Trích xuất văn bản và hình ảnh từ tài liệu XLSM ngay bây giờ bằng cách truy cập của chúng tôi[Trang web demo trực tiếp](https://products.aspose.app/cells/parser). Bản demo trực tiếp có những lợi ích sau" >}}
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Không cần tải Aspose API." >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Không cần phải viết bất kỳ mã nào." >}}
         {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Chỉ cần tải lên tệp XLSM của bạn." >}}
@@ -142,6 +136,7 @@ Các tệp có phần mở rộng XLSM là một loại tệp Bảng tính hỗ 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/parser/ods/" name="ODS" description="Tệp bảng tính OpenDocument" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/parser/xls/" name="XLS" description="Định dạng nhị phân Excel" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/parser/xlsb/" name="XLSB" description="Tệp sổ làm việc Excel nhị phân" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/parser/xlsx/" name="XLSX" description="Tệp Excel OOXML" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

@@ -1,5 +1,5 @@
 ---
-title:  Trích xuất văn bản và hình ảnh từ tài liệu ODS qua C++
+title: Trích xuất văn bản và hình ảnh từ tài liệu ODS qua C++
 weight: 9130
 description: Mã ví dụ C++ để trích xuất văn bản và hình ảnh từ tệp ODS trên C++ Môi trường thời gian chạy cho Windows 32 bit, Windows 64 bit và Linux 64 bit.
 keywords: [C++ Aspose.Cells., C++ Extract text and images from ODS file., C++ How to Parse ODS File., C++ Extract text from ODS file., Extract images from ODS file using C++]
@@ -12,13 +12,7 @@ keywords: [C++ Aspose.Cells., C++ Extract text and images from ODS file., C++ Ho
 
 {{% blocks/products/pf/agp/content h2="Cách phân tích tệp ODS bằng C++" %}}
 
- Để phân tích tệp ODS, chúng tôi sẽ sử dụng
- [Aspose.Cells for C++](https://products.aspose.com/cells/cpp) 
- API là nền tảng phân tích tài liệu giàu tính năng, mạnh mẽ và dễ sử dụng API for C++. Bạn có thể tải trực tiếp phiên bản mới nhất của nó, chỉ cần mở
- [NuGet](https://www.nuget.org/packages/aspose.cells) 
- quản lý gói, tìm kiếm
- **Aspose.Cells.Cpp** 
- và cài đặt. Bạn cũng có thể sử dụng lệnh sau từ Bảng điều khiển quản lý gói.
+ Để phân tích tệp ODS, chúng tôi sẽ sử dụng[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) API là nền tảng phân tích tài liệu giàu tính năng, mạnh mẽ và dễ sử dụng API for C++. Bạn có thể tải trực tiếp phiên bản mới nhất của nó, chỉ cần mở[NuGet](https://www.nuget.org/packages/aspose.cells) quản lý gói, tìm kiếm**Aspose.Cells.Cpp** và cài đặt. Bạn cũng có thể sử dụng lệnh sau từ Bảng điều khiển quản lý gói.
 
 {{% blocks/products/pf/agp/code-block title="Yêu cầu" offSpacer="true" %}}
 
@@ -38,9 +32,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% blocks/products/pf/agp/text %}}
 
- Phân tích tài liệu cơ bản với
- [Aspose.Cells for C++](https://products.aspose.com/cells/cpp) 
- API có thể được thực hiện chỉ với vài dòng mã. Phân tích văn bản & hình ảnh từ các tệp Microsoft Excel XLS, XLSX, XLSM, XLSB và OpenDocument ODS.
+ Phân tích tài liệu cơ bản với[Aspose.Cells for C++](https://products.aspose.com/cells/cpp)API có thể được thực hiện chỉ với vài dòng mã. Phân tích văn bản & hình ảnh từ các tệp Microsoft Excel XLS, XLSX, XLSM, XLSB và OpenDocument ODS.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -108,7 +100,7 @@ Aspose::Cells::Cleanup();
 
 {{< blocks/products/pf/agp/about-file-section >}}
 
-    {{< blocks/products/pf/agp/demobox sectionTitle="Trực tuyến ODS Trình phân tích cú pháp trực tiếp" sectionDescription=" Trích xuất văn bản và hình ảnh từ tài liệu ODS ngay bây giờ bằng cách truy cập của chúng tôi[Trang web demo trực tiếp](https://products.aspose.app/cells/parser). Bản demo trực tiếp có những lợi ích sau" >}}
+    {{< blocks/products/pf/agp/demobox sectionTitle="Trực tuyến ODS Trình phân tích cú pháp trực tiếp" sectionDescription="Trích xuất văn bản và hình ảnh từ tài liệu ODS ngay bây giờ bằng cách truy cập của chúng tôi[Trang web demo trực tiếp](https://products.aspose.app/cells/parser). Bản demo trực tiếp có những lợi ích sau" >}}
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Không cần tải Aspose API." >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Không cần phải viết bất kỳ mã nào." >}}
         {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Chỉ cần tải lên tệp ODS của bạn." >}}
@@ -116,7 +108,7 @@ Aspose::Cells::Cleanup();
     {{< /blocks/products/pf/agp/demobox >}}
 
     {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="ODS" readMoreLink="https://docs.fileformat.com/spreadsheet/ods/" >}}
-Các tệp có phần mở rộng ODS là viết tắt của định dạng Tài liệu Bảng tính OpenDocument mà người dùng có thể chỉnh sửa. Dữ liệu được lưu trữ bên trong tệp ODF thành hàng và cột. Đây là định dạng dựa trên XML và là một trong một số kiểu con trong họ Định dạng Tài liệu Mở (ODF). Định dạng được chỉ định như một phần của thông số kỹ thuật ODF 1.2 do OASIS xuất bản và duy trì. Một số ứng dụng trên Windows cũng như các hệ điều hành khác có thể mở file ODS để chỉnh sửa và thao tác bao gồm Microsoft Excel, NeoOffice và LibreOffice. Các tệp ODS cũng có thể được chuyển đổi sang các định dạng bảng tính khác như XLS, XLSX và các định dạng khác bằng các ứng dụng khác nhau.
+ Các tệp có phần mở rộng ODS là viết tắt của định dạng Tài liệu Bảng tính OpenDocument mà người dùng có thể chỉnh sửa. Dữ liệu được lưu trữ bên trong tệp ODF thành hàng và cột. Đây là định dạng dựa trên XML và là một trong một số kiểu con trong họ Định dạng Tài liệu Mở (ODF). Định dạng được chỉ định như một phần của thông số kỹ thuật ODF 1.2 do OASIS xuất bản và duy trì. Một số ứng dụng trên Windows cũng như các hệ điều hành khác có thể mở file ODS để chỉnh sửa và thao tác bao gồm Microsoft Excel, NeoOffice và LibreOffice. Các tệp ODS cũng có thể được chuyển đổi sang các định dạng bảng tính khác, chẳng hạn như XLS, XLSX và các định dạng khác bằng các ứng dụng khác nhau.
 
     {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
@@ -129,6 +121,7 @@ Các tệp có phần mở rộng ODS là viết tắt của định dạng Tài
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/parser/xls/" name="XLS" description="Định dạng nhị phân Excel" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/parser/xlsb/" name="XLSB" description="Tệp sổ làm việc Excel nhị phân" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/parser/xlsm/" name="XLSM" description="Tệp bảng tính" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/parser/xlsx/" name="XLSX" description="Tệp Excel OOXML" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

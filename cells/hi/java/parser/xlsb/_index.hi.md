@@ -12,11 +12,7 @@ keywords: [Java Aspose.Cells., Java Extract text and images from XLSB file., Jav
 
 {{% blocks/products/pf/agp/content h2="Java का उपयोग करके XLSB फ़ाइल को कैसे पार्स करें" %}}
 
- XLSB फ़ाइल को पार्स करने के लिए, हम इसका उपयोग करेंगे
- [Aspose.Cells for Java](https://products.aspose.com/cells/java) 
- API जो एक सुविधा संपन्न, शक्तिशाली और उपयोग में आसान पार्सिंग API for Java प्लेटफॉर्म है। आप इसका नवीनतम संस्करण सीधे यहां से डाउनलोड कर सकते हैं
- [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) 
- और pom.xml में निम्नलिखित कॉन्फ़िगरेशन जोड़कर इसे अपने Maven-आधारित प्रोजेक्ट में स्थापित करें।
+ XLSB फ़ाइल को पार्स करने के लिए, हम इसका उपयोग करेंगे[Aspose.Cells for Java](https://products.aspose.com/cells/java) API जो एक सुविधा संपन्न, शक्तिशाली और उपयोग में आसान पार्सिंग API for Java प्लेटफॉर्म है। आप इसका नवीनतम संस्करण सीधे यहां से डाउनलोड कर सकते हैं[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) और pom.xml में निम्नलिखित कॉन्फ़िगरेशन जोड़कर इसे अपने Maven-आधारित प्रोजेक्ट में स्थापित करें।
 
 {{% blocks/products/pf/agp/code-block title="कोष" offSpacer="true" %}}
 
@@ -54,9 +50,7 @@ keywords: [Java Aspose.Cells., Java Extract text and images from XLSB file., Jav
 
 {{% blocks/products/pf/agp/text %}}
 
- एक बुनियादी दस्तावेज़ पार्सिंग के साथ
- [Aspose.Cells for Java](https://products.aspose.com/cells/java) 
- एपीआई को कोड की कुछ पंक्तियों के साथ किया जा सकता है। Microsoft Excel XLS, XLSX, XLSM, XLSB और OpenDocument ODS फ़ाइलों से पाठ और छवियों को पार्स करें।
+ एक बुनियादी दस्तावेज़ पार्सिंग के साथ[Aspose.Cells for Java](https://products.aspose.com/cells/java)एपीआई को कोड की कुछ पंक्तियों के साथ किया जा सकता है। Microsoft Excel XLS, XLSX, XLSM, XLSB और OpenDocument ODS फ़ाइलों से पाठ और छवियों को पार्स करें।
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -76,7 +70,7 @@ keywords: [Java Aspose.Cells., Java Extract text and images from XLSB file., Jav
 
 {{% /blocks/products/pf/agp/text %}}
 
--  Microsoft Windows या जेएसपी/जेएसएफ एप्लिकेशन और डेस्कटॉप एप्लिकेशन के लिए Java रनटाइम एनवायरमेंट के साथ एक संगत ओएस।
+- Microsoft Windows या जेएसपी/जेएसएफ एप्लिकेशन और डेस्कटॉप एप्लिकेशन के लिए Java रनटाइम एनवायरमेंट के साथ एक संगत ओएस।
 -  Aspose.Cells for Java का नवीनतम संस्करण सीधे प्राप्त करें
  [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells)  .
 
@@ -121,7 +115,7 @@ System.out.println(stringBuilder.toString());
 
 {{< blocks/products/pf/agp/about-file-section >}}
 
-    {{< blocks/products/pf/agp/demobox sectionTitle="ऑनलाइन XLSB पार्सर लाइव डेमो" sectionDescription=" अभी हमारे यहां जाकर XLSB दस्तावेज़ों से पाठ और छवियाँ निकालें[लाइव डेमो वेबसाइट](https://products.aspose.app/cells/parser). लाइव डेमो के निम्नलिखित लाभ हैं" >}}
+    {{< blocks/products/pf/agp/demobox sectionTitle="ऑनलाइन XLSB पार्सर लाइव डेमो" sectionDescription="अभी हमारे यहां जाकर XLSB दस्तावेज़ों से पाठ और छवियाँ निकालें[लाइव डेमो वेबसाइट](https://products.aspose.app/cells/parser). लाइव डेमो के निम्नलिखित लाभ हैं" >}}
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Aspose API डाउनलोड करने की आवश्यकता नहीं है।" >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" कोई कोड लिखने की जरूरत नहीं." >}}
         {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" बस अपनी XLSB फ़ाइलें अपलोड करें।" >}}
@@ -142,6 +136,7 @@ XLSB फ़ाइल स्वरूप एक्सेल बाइनरी �
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/parser/ods/" name="ODS" description="ओपनडॉक्यूमेंट स्प्रेडशीट फ़ाइल" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/parser/xls/" name="XLS" description="एक्सेल बाइनरी फॉर्मेट" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/parser/xlsm/" name="XLSM" description="स्प्रेडशीट फ़ाइल" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/parser/xlsx/" name="XLSX" description="ओओएक्सएमएल एक्सेल फ़ाइल" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

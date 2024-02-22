@@ -13,7 +13,7 @@ keywords: [Python Aspose.Cells Create parse repair merge convert JSON Excel XML 
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
-Aspose.Cells for Python via Java είναι ένα γρήγορο και αξιόπιστο API για εργασίες επεξεργασίας υπολογιστικών φύλλων. Οι προγραμματιστές μπορούν να δημιουργήσουν απλά ή σύνθετα υπολογιστικά φύλλα, να χειριστούν καθώς και να εξάγουν πληροφορίες από αρχεία excel. Το API διαβάζει πολλές μορφές excel και μπορεί να αποδώσει φύλλα εργασίας στα XPS, PDF, MHTML, HTML, Απλό κείμενο, εικόνες και άλλα. Είναι η καλύτερη λύση για την αυτοματοποίηση αναφορών excel χρησιμοποιώντας python.
+ Aspose.Cells for Python via Java είναι ένα γρήγορο και αξιόπιστο API για εργασίες επεξεργασίας υπολογιστικών φύλλων. Οι προγραμματιστές μπορούν να δημιουργήσουν απλά ή σύνθετα υπολογιστικά φύλλα, να χειριστούν καθώς και να εξάγουν πληροφορίες από αρχεία excel. Το API διαβάζει πολλές μορφές excel και μπορεί να αποδώσει φύλλα εργασίας στα XPS, PDF, MHTML, HTML, Απλό κείμενο, εικόνες και άλλα. Είναι η καλύτερη λύση για την αυτοματοποίηση αναφορών excel χρησιμοποιώντας python.
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
@@ -38,7 +38,7 @@ Aspose.Cells for Python via Java είναι ένα γρήγορο και αξι�
  ResultSet
     </li>
     <li>
-Συλλογές
+ Συλλογές
     </li>
    </ul>
    <header>
@@ -76,7 +76,7 @@ Aspose.Cells for Python via Java είναι ένα γρήγορο και αξι�
  Δημιουργία γραφημάτων
     </li>
     <li>
- Συνοψίζω
+Συνοψίζω
     </li>
     <li>
  Έξυπνοι δείκτες
@@ -159,7 +159,7 @@ Aspose.Cells for Python via Java είναι ένα γρήγορο και αξι�
      <b>
  Microsoft Excel:
      </b>
- XLS, XLSX, XLSB, XLTX, XLTM, XLSM, XML
+ XLS, XLSX, XLSB, XLT, XLTX, XLTM, XLSM, XML, OTS
     </li>
     <li>
      <b>
@@ -171,13 +171,25 @@ Aspose.Cells for Python via Java είναι ένα γρήγορο και αξι�
      <b>
  Κείμενο:
      </b>
-     CSV, TSV, TXT
+     CSV, TSV, JSON
     </li>
     <li>
      <b>
  Ιστός:
      </b>
      HTML, MHTML
+    </li>
+    <li>
+     <b>
+      Numbers:
+     </b>
+ Έγγραφα εφαρμογής iWork office suite Numbers της Apple
+    </li>
+    <li>
+     <b>
+ Οι υπολοιποι:
+     </b>
+ SXC, FODS, EPUB
     </li>
    </ul>
   </div>
@@ -186,7 +198,7 @@ Aspose.Cells for Python via Java είναι ένα γρήγορο και αξι�
    <header>
     <i class="fa fa-mail-forward">
     </i>
- Μόνο έξοδος
+Μόνο έξοδος
    </header>
    <ul>
     <li>
@@ -197,9 +209,21 @@ Aspose.Cells for Python via Java είναι ένα γρήγορο και αξι�
     </li>
     <li>
      <b>
+ Ανταλλαγή δεδομένων:
+     </b>
+     DIF
+    </li>    
+    <li>
+     <b>
  Εικόνες:
      </b>
-     JPEG, PNG, BMP, SVG, EMF
+     JPEG, PNG, BMP, SVG, TIFF, EMF, GIF
+    </li>
+    <li>
+     <b>
+ Οι υπολοιποι:
+     </b>
+ MARKDOWN, SQL, XTHML
     </li>
    </ul>
   </div>
@@ -306,7 +330,7 @@ Aspose.Cells for Python via Java είναι ένα γρήγορο και αξι�
     <em class="fa fa-object-ungroup ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-Προσθήκη ή κατάργηση ομαδοποίησης σε γραμμές και στήλες
+ Προσθήκη ή κατάργηση ομαδοποίησης σε γραμμές και στήλες
     </p>
    </div>
    <div class="col-lg-4">
@@ -416,11 +440,11 @@ Aspose.Cells for Python via Java είναι ένα γρήγορο και αξι�
  Μετατροπή πολλαπλών μορφών
     </h2>
     <p>
- Python Η βιβλιοθήκη Excel παρέχει μετατροπή αρχείων Excel σε PDF, XPS &amp; HTML μορφές. Η αξιόπιστη μετατροπή του API το καθιστά τέλεια λύση για τις εταιρείες που θέλουν να ανταλλάσσουν αρχεία σε τυποποιημένες μορφές του κλάδου.
+Python Η βιβλιοθήκη Excel παρέχει μετατροπή αρχείων Excel σε PDF, XPS &amp; HTML μορφές. Η αξιόπιστη μετατροπή του API το καθιστά τέλεια λύση για τις εταιρείες που θέλουν να ανταλλάσσουν αρχεία σε τυποποιημένες μορφές του κλάδου.
     </p>
     <div class="codeblock" id="code">
      <h3>
-Αποθήκευση υπολογιστικού φύλλου σε διαφορετικές μορφές - Java
+ Αποθήκευση υπολογιστικού φύλλου σε διαφορετικές μορφές - Java
      </h3>
      <pre><code class="java">
 // load file to be converted
@@ -489,7 +513,7 @@ wkbk.save(SD_PATH + "houtput.html", SaveFormat.HTML);</code></pre>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-Προσαρμογή γραφημάτων
+ Προσαρμογή γραφημάτων
     </h2>
     <p>
 Aspose.Cells for Python via Java παρέχει πλήρη υποστήριξη για χαρτογράφηση. Κάποιος μπορεί εύκολα να προσθέσει τυπικά και προσαρμοσμένα γραφήματα ή να ορίσει δυναμικά δεδομένα γραφήματος για να ανανεώσει το γράφημα σε αυτήν τη βιβλιοθήκη python.

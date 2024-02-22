@@ -1,5 +1,5 @@
 ---
-title:  C++ 経由で XLSB ドキュメント内のテキストを検索して置換します
+title: C++ 経由で XLSB ドキュメント内のテキストを検索して置換します
 weight: 6660
 description: Windows 32 ビット、Windows 64 ビットおよび Linux 64 ビットの C++ ランタイム環境上の XLSB ファイル内の機密情報を編集するための C++ サンプル コード。
 keywords: [C++ Aspose.Cells., C++ Search and replace text in XLSB file., C++ redact XLSB file., C++ edit XLSB file., C++ XLSB file redaction., C++ Search and replace string in XLSB file]
@@ -12,13 +12,7 @@ keywords: [C++ Aspose.Cells., C++ Search and replace text in XLSB file., C++ red
 
 {{% blocks/products/pf/agp/content h2="C++を使用してXLSBファイルを編集する方法" %}}
 
-XLSB ファイルを編集するには、次を使用します。
- [Aspose.Cells for C++](https://products.aspose.com/cells/cpp) 
- API は、機能が豊富で強力で使いやすい文書編集プラットフォームです。最新バージョンを直接ダウンロードできます。開くだけです。
- [NuGet](https://www.nuget.org/packages/aspose.cells) 
-パッケージマネージャー、検索
- **Aspose.Cells.Cpp** 
-そしてインストールします。パッケージ マネージャー コンソールから次のコマンドを使用することもできます。
+XLSB ファイルを編集するには、次を使用します。[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) API は、機能が豊富で強力で使いやすい文書編集プラットフォームです。最新バージョンを直接ダウンロードできます。開くだけです。[NuGet](https://www.nuget.org/packages/aspose.cells)パッケージマネージャー、検索**Aspose.Cells.Cpp**そしてインストールします。パッケージ マネージャー コンソールから次のコマンドを使用することもできます。
 
 {{% blocks/products/pf/agp/code-block title="指示" offSpacer="true" %}}
 
@@ -38,15 +32,13 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% blocks/products/pf/agp/text %}}
 
-基本的なドキュメントの検索と、コンテンツ、コメント、メタデータ内のテキストの置換
- [Aspose.Cells for C++](https://products.aspose.com/cells/cpp) 
-API はわずか数行のコードで実行できます。
+基本的なドキュメントの検索と、コンテンツ、コメント、メタデータ内のテキストの置換[Aspose.Cells for C++](https://products.aspose.com/cells/cpp)API はわずか数行のコードで実行できます。
 
 {{% /blocks/products/pf/agp/text %}}
 
-XLSB ファイルをロードします。
++ XLSB ファイルをロードします。
 + 置換オプションを定義します。
-+ 大文字と小文字を区別するオプションを設定します。
+大文字と小文字を区別するオプションを設定します。
 + テキストマッチングオプションを設定する
 Replace(...) メソッドを使用してテキストを置換します
 ワークブックを保存します。
@@ -57,7 +49,7 @@ Replace(...) メソッドを使用してテキストを置換します
 
 {{% blocks/products/pf/agp/text %}}
 
-Aspose.Cells for C++ は、すべての主要なプラットフォームとオペレーティング システムでサポートされています。次の前提条件を満たしていることを確認してください。
+ Aspose.Cells for C++ は、すべての主要なプラットフォームとオペレーティング システムでサポートされています。次の前提条件を満たしていることを確認してください。
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -111,7 +103,7 @@ Aspose::Cells::Cleanup();
 {{< blocks/products/pf/agp/about-file-section >}}
 
     {{< blocks/products/pf/agp/demobox sectionTitle="オンライン XLSB 編集ライブデモ" sectionDescription="XLSB ドキュメントのコンテンツ、コメント、またはメタデータのテキストを今すぐ検索して置換するには、次のサイトにアクセスしてください。[ライブデモ Web サイト](https://products.aspose.app/cells/redaction)。ライブデモには次の利点があります" >}}
-        {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Aspose API をダウンロードする必要はありません。" >}}
+        {{< blocks/products/pf/agp/democard icon="fa-cogs" text="Aspose API をダウンロードする必要はありません。" >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text="コードを記述する必要はありません。" >}}
         {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" XLSB ファイルをアップロードするだけです。" >}}
         {{< blocks/products/pf/agp/democard icon="fa-download" text="即座に編集されます。" >}}
@@ -131,6 +123,7 @@ XLSB ファイル形式は、Excel ワークブックのコンテンツを指定
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/redaction/ods/" name="ODS" description="OpenDocument スプレッドシート ファイル" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/redaction/xls/" name="XLS" description="Excel バイナリ形式" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/redaction/xlsm/" name="XLSM" description="スプレッドシート ファイル" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/redaction/xlsx/" name="XLSX" description="OOXML Excel ファイル" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

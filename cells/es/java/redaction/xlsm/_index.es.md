@@ -12,11 +12,7 @@ keywords: [Java Aspose.Cells., Java Search and replace text in XLSM file., Java 
 
 {{% blocks/products/pf/agp/content h2="Cómo redactar el archivo XLSM usando Java" %}}
 
- Para redactar el archivo XLSM, usaremos
- [Aspose.Cells for Java](https://products.aspose.com/cells/java) 
-API, que es una plataforma de redacción API for Java rica en funciones, potente y fácil de usar. Puede descargar su última versión directamente desde
- [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) 
- e instálelo dentro de su proyecto basado en Maven agregando las siguientes configuraciones a pom.xml.
+ Para redactar el archivo XLSM, usaremos[Aspose.Cells for Java](https://products.aspose.com/cells/java) API, que es una plataforma de redacción API for Java rica en funciones, potente y fácil de usar. Puede descargar su última versión directamente desde[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) e instálelo dentro de su proyecto basado en Maven agregando las siguientes configuraciones a pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Repositorio" offSpacer="true" %}}
 
@@ -54,9 +50,7 @@ API, que es una plataforma de redacción API for Java rica en funciones, potente
 
 {{% blocks/products/pf/agp/text %}}
 
- Un documento básico para buscar y reemplazar texto en contenidos, comentarios o metadatos con
- [Aspose.Cells for Java](https://products.aspose.com/cells/java) 
- Las API se pueden crear con solo unas pocas líneas de código.
+ Un documento básico para buscar y reemplazar texto en contenidos, comentarios o metadatos con[Aspose.Cells for Java](https://products.aspose.com/cells/java) Las API se pueden crear con solo unas pocas líneas de código.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -78,7 +72,7 @@ API, que es una plataforma de redacción API for Java rica en funciones, potente
 
 {{% /blocks/products/pf/agp/text %}}
 
--  Microsoft Windows o un sistema operativo compatible con Java Runtime Environment para aplicaciones JSP/JSF y aplicaciones de escritorio.
+- Microsoft Windows o un sistema operativo compatible con Java Runtime Environment para aplicaciones JSP/JSF y aplicaciones de escritorio.
 -  Obtenga la última versión de Aspose.Cells for Java directamente desde
  [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells)  .
 
@@ -144,7 +138,7 @@ workbook.save(dataDir + "output.xlsm");
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" No es necesario descargar Aspose API." >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" No es necesario escribir ningún código." >}}
         {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Simplemente cargue sus archivos XLSM." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-download" text="Será redactado al instante." >}}
+        {{< blocks/products/pf/agp/democard icon="fa-download" text=" Será redactado al instante." >}}
     {{< /blocks/products/pf/agp/demobox >}}
 
     {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLSM" readMoreLink="https://docs.fileformat.com/spreadsheet/xlsm/" >}}
@@ -161,6 +155,7 @@ Los archivos con extensión XLSM son un tipo de archivos de hoja de cálculo que
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/redaction/ods/" name="ODS" description="Archivo de hoja de cálculo OpenDocument" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/redaction/xls/" name="XLS" description="Formato binario de Excel" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/redaction/xlsb/" name="XLSB" description="Archivo de libro de Excel binario" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/redaction/xlsx/" name="XLSX" description="Archivo Excel OOXML" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

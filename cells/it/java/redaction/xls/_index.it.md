@@ -12,11 +12,7 @@ keywords: [Java Aspose.Cells., Java Search and replace text in XLS file., Java r
 
 {{% blocks/products/pf/agp/content h2="Come oscurare il file XLS utilizzando Java" %}}
 
- Per redigere il file XLS, utilizzeremo
- [Aspose.Cells for Java](https://products.aspose.com/cells/java) 
-API che è una piattaforma di redazione API for Java ricca di funzionalità, potente e facile da usare. Puoi scaricare la versione più recente direttamente da
- [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) 
- e installalo nel tuo progetto basato su Maven aggiungendo le seguenti configurazioni a pom.xml.
+ Per redigere il file XLS, utilizzeremo[Aspose.Cells for Java](https://products.aspose.com/cells/java) API che è una piattaforma di redazione API for Java ricca di funzionalità, potente e facile da usare. Puoi scaricare la versione più recente direttamente da[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) e installalo nel tuo progetto basato su Maven aggiungendo le seguenti configurazioni a pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Deposito" offSpacer="true" %}}
 
@@ -54,9 +50,7 @@ API che è una piattaforma di redazione API for Java ricca di funzionalità, pot
 
 {{% blocks/products/pf/agp/text %}}
 
- Una ricerca di documenti di base e sostituzione del testo nei contenuti, nei commenti o nei metadati con
- [Aspose.Cells for Java](https://products.aspose.com/cells/java) 
- Le API possono essere eseguite con poche righe di codice.
+ Una ricerca di documenti di base e sostituzione del testo nei contenuti, nei commenti o nei metadati con[Aspose.Cells for Java](https://products.aspose.com/cells/java) Le API possono essere eseguite con poche righe di codice.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -78,7 +72,7 @@ API che è una piattaforma di redazione API for Java ricca di funzionalità, pot
 
 {{% /blocks/products/pf/agp/text %}}
 
--  Microsoft Windows o un sistema operativo compatibile con Java Ambiente runtime per applicazioni JSP/JSF e applicazioni desktop.
+- Microsoft Windows o un sistema operativo compatibile con Java Ambiente runtime per applicazioni JSP/JSF e applicazioni desktop.
 -  Ottieni l'ultima versione di Aspose.Cells for Java direttamente da
  [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells)  .
 
@@ -144,7 +138,7 @@ workbook.save(dataDir + "output.xls");
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Non è necessario scaricare Aspose API." >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Non è necessario scrivere alcun codice." >}}
         {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Basta caricare i tuoi file XLS." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-download" text="Verrà redatto immediatamente." >}}
+        {{< blocks/products/pf/agp/democard icon="fa-download" text=" Verrà redatto immediatamente." >}}
     {{< /blocks/products/pf/agp/demobox >}}
 
     {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLS" readMoreLink="https://docs.fileformat.com/spreadsheet/xls/" >}}
@@ -161,6 +155,7 @@ workbook.save(dataDir + "output.xls");
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/redaction/ods/" name="ODS" description="File di foglio di calcolo OpenDocument" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/redaction/xlsb/" name="XLSB" description="File binario della cartella di lavoro Excel" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/redaction/xlsm/" name="XLSM" description="File di foglio di calcolo" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/redaction/xlsx/" name="XLSX" description="File Excel OOXML" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

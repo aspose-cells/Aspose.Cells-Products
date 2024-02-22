@@ -1,5 +1,5 @@
 ---
-title: Υδατογράφημα ODS έγγραφο via Java
+title:  Υδατογράφημα ODS έγγραφο via Java
 weight: 1040
 description: Java δείγμα κώδικα για προσθήκη ή αφαίρεση υδατογραφήματος στο αρχείο ODS στο Java Runtime Environment για εφαρμογές JSP/JSF και εφαρμογές επιφάνειας εργασίας.
 keywords: [Java Aspose.Cells., Java add watermark to ods file., Java insert watermark to ods file., Java create watermark in ods file., remove watermark from ods file using Java., Java operate watermark in ods file., Java access watermark in ods file]
@@ -12,11 +12,7 @@ keywords: [Java Aspose.Cells., Java add watermark to ods file., Java insert wate
 
 {{% blocks/products/pf/agp/content h2="Πώς να υδατογραφήσετε το αρχείο ODS χρησιμοποιώντας το Java" %}}
 
- Για να υδατογραφήσουμε το αρχείο ODS, θα χρησιμοποιήσουμε
- [Aspose.Cells for Java](https://products.aspose.com/cells/java) 
- API που είναι μια πλούσια σε χαρακτηριστικά, ισχυρή και εύχρηστη πλατφόρμα υδατογραφήματος API for Java. Μπορείτε να κατεβάσετε την τελευταία του έκδοση απευθείας από
- [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) 
- και εγκαταστήστε το στο έργο σας που βασίζεται στο Maven προσθέτοντας τις ακόλουθες διαμορφώσεις στο pom.xml.
+ Για να υδατογραφήσουμε το αρχείο ODS, θα χρησιμοποιήσουμε[Aspose.Cells for Java](https://products.aspose.com/cells/java) API που είναι μια πλούσια σε χαρακτηριστικά, ισχυρή και εύχρηστη πλατφόρμα υδατογραφήματος API for Java. Μπορείτε να κατεβάσετε την τελευταία του έκδοση απευθείας από[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) και εγκαταστήστε το στο έργο σας που βασίζεται στο Maven προσθέτοντας τις ακόλουθες διαμορφώσεις στο pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Αποθήκη" offSpacer="true" %}}
 
@@ -129,7 +125,7 @@ workbook.save(dataDir + "AWArtWToWorksheet_out.ods");
     {{< blocks/products/pf/agp/about-file-section >}}
 
         {{< blocks/products/pf/agp/demobox sectionTitle="Υδατογράφημα ODS μέσω της διαδικτυακής εφαρμογής" sectionDescription=" Προσθέστε υδατογράφημα στα έγγραφα ODS επισκεπτόμενοι το δικό μας[Ζωντανή ιστοσελίδα Demos](https://products.aspose.app/cells/watermark). Η ζωντανή επίδειξη έχει τα ακόλουθα πλεονεκτήματα" >}}
-            {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Δεν χρειάζεται να κατεβάσετε ή να ρυθμίσετε τίποτα" >}}
+            {{< blocks/products/pf/agp/democard icon="fa-cogs" text="Δεν χρειάζεται να κατεβάσετε ή να ρυθμίσετε τίποτα" >}}
             {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Δεν χρειάζεται να γράψετε κανέναν κώδικα" >}}
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Απλώς ανεβάστε το αρχείο ODS, ορίστε το υδατογράφημά σας και πατήστε το κουμπί \"Προσθήκη\"" >}}
             {{< blocks/products/pf/agp/democard icon="fa-download" text=" Λάβετε αμέσως τον σύνδεσμο λήψης για το αρχείο που προκύπτει" >}}
@@ -148,6 +144,7 @@ workbook.save(dataDir + "AWArtWToWorksheet_out.ods");
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/watermark/xls/" name="XLS" description="Δυαδική μορφή Excel" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/watermark/xlsb/" name="XLSB" description="Δυαδικό αρχείο βιβλίου εργασίας Excel" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/watermark/xlsm/" name="XLSM" description="Αρχείο υπολογιστικού φύλλου" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/watermark/xlsx/" name="XLSX" description="Αρχείο Excel OOXML" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

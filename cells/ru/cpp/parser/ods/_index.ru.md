@@ -1,5 +1,5 @@
 ---
-title:  Извлеките текст и изображения из документа ODS с помощью C++.
+title: Извлеките текст и изображения из документа ODS с помощью C++.
 weight: 9130
 description: C++ пример кода для извлечения текста и изображений из файла ODS в среде выполнения C++ для 32-разрядной версии Windows, 64-разрядной версии Windows и 64-разрядной версии Linux.
 keywords: [C++ Aspose.Cells., C++ Extract text and images from ODS file., C++ How to Parse ODS File., C++ Extract text from ODS file., Extract images from ODS file using C++]
@@ -12,13 +12,7 @@ keywords: [C++ Aspose.Cells., C++ Extract text and images from ODS file., C++ Ho
 
 {{% blocks/products/pf/agp/content h2="Как разобрать файл ODS с помощью C++" %}}
 
- Чтобы проанализировать файл ODS, мы будем использовать
- [Aspose.Cells for C++](https://products.aspose.com/cells/cpp) 
- API — многофункциональная, мощная и простая в использовании платформа для анализа документов. API for C++. Вы можете скачать последнюю версию напрямую, просто откройте
- [NuGet](https://www.nuget.org/packages/aspose.cells) 
- менеджер пакетов, найдите
- **Aspose.Cells.Cpp** 
- и установить. Вы также можете использовать следующую команду из консоли диспетчера пакетов.
+ Чтобы проанализировать файл ODS, мы будем использовать[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) API — многофункциональная, мощная и простая в использовании платформа для анализа документов. API for C++. Вы можете скачать последнюю версию напрямую, просто откройте[NuGet](https://www.nuget.org/packages/aspose.cells) менеджер пакетов, найдите**Aspose.Cells.Cpp** и установить. Вы также можете использовать следующую команду из консоли диспетчера пакетов.
 
 {{% blocks/products/pf/agp/code-block title="Команда" offSpacer="true" %}}
 
@@ -38,9 +32,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% blocks/products/pf/agp/text %}}
 
- Базовый анализ документа с помощью
- [Aspose.Cells for C++](https://products.aspose.com/cells/cpp) 
- API можно создать с помощью всего нескольких строк кода. Анализируйте текст и изображения из файлов Excel Microsoft, XLS, XLSX, XLSM, XLSB и OpenDocument ODS.
+ Базовый анализ документа с помощью[Aspose.Cells for C++](https://products.aspose.com/cells/cpp)API можно создать с помощью всего нескольких строк кода. Анализируйте текст и изображения из файлов Excel Microsoft, XLS, XLSX, XLSM, XLSB и OpenDocument ODS.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -108,7 +100,7 @@ Aspose::Cells::Cleanup();
 
 {{< blocks/products/pf/agp/about-file-section >}}
 
-    {{< blocks/products/pf/agp/demobox sectionTitle="Онлайн ODS Живые демо-версии парсера" sectionDescription=" Извлеките текст и изображения из документов ODS прямо сейчас, посетив наш[Веб-сайт живых демонстраций](https://products.aspose.app/cells/parser). Живая демонстрация имеет следующие преимущества" >}}
+    {{< blocks/products/pf/agp/demobox sectionTitle="Онлайн ODS Живые демо-версии парсера" sectionDescription="Извлеките текст и изображения из документов ODS прямо сейчас, посетив наш[Веб-сайт живых демонстраций](https://products.aspose.app/cells/parser). Живая демонстрация имеет следующие преимущества" >}}
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Не нужно скачивать Aspose API." >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Нет необходимости писать какой-либо код." >}}
         {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Просто загрузите файлы ODS." >}}
@@ -116,7 +108,7 @@ Aspose::Cells::Cleanup();
     {{< /blocks/products/pf/agp/demobox >}}
 
     {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="ODS" readMoreLink="https://docs.fileformat.com/spreadsheet/ods/" >}}
-Файлы с расширением ODS обозначают формат документа электронной таблицы OpenDocument, который может редактировать пользователь. Данные хранятся внутри файла ODF в строках и столбцах. Это формат на основе XML, который является одним из нескольких подтипов семейства форматов открытых документов (ODF). Формат указан как часть спецификаций ODF 1.2, опубликованных и поддерживаемых OASIS. Ряд приложений в Windows, а также в других операционных системах могут открывать файлы ODS для редактирования и манипулирования, включая Microsoft Excel, NeoOffice и LibreOffice. Файлы ODS также можно конвертировать в другие форматы электронных таблиц, например XLS, XLSX и другие, с помощью различных приложений.
+ Файлы с расширением ODS обозначают формат документа электронной таблицы OpenDocument, который может редактировать пользователь. Данные хранятся внутри файла ODF в строках и столбцах. Это формат на основе XML, который является одним из нескольких подтипов семейства форматов открытых документов (ODF). Формат указан как часть спецификаций ODF 1.2, опубликованных и поддерживаемых OASIS. Ряд приложений в Windows, а также в других операционных системах могут открывать файлы ODS для редактирования и манипулирования, включая Microsoft Excel, NeoOffice и LibreOffice. Файлы ODS также можно конвертировать в другие форматы электронных таблиц, например XLS, XLSX и другие, с помощью различных приложений.
 
     {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
@@ -129,6 +121,7 @@ Aspose::Cells::Cleanup();
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/parser/xls/" name="XLS" description="Двоичный формат Excel" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/parser/xlsb/" name="XLSB" description="Двоичный файл книги Excel" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/parser/xlsm/" name="XLSM" description="Файл электронной таблицы" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/parser/xlsx/" name="XLSX" description="OOXML-файл Excel" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

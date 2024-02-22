@@ -1,5 +1,5 @@
 ---
-title:  جستجو و جایگزینی متن در سند ODS از طریق C++
+title: جستجو و جایگزینی متن در سند ODS از طریق C++
 weight: 1610
 description: C++ کد نمونه برای ویرایش اطلاعات حساس در فایل ODS در C++ Runtime Environment برای Windows 32 بیتی، Windows 64 بیتی و لینوکس 64 بیتی.
 keywords: [C++ Aspose.Cells., C++ Search and replace text in ODS file., C++ redact ODS file., C++ edit ODS file., C++ ODS file redaction., C++ Search and replace string in ODS file]
@@ -12,13 +12,7 @@ keywords: [C++ Aspose.Cells., C++ Search and replace text in ODS file., C++ reda
 
 {{% blocks/products/pf/agp/content h2="نحوه ویرایش فایل ODS با استفاده از C++" %}}
 
- به منظور ویرایش فایل ODS، ما از
- [Aspose.Cells for C++](https://products.aspose.com/cells/cpp) 
- API که یک پلتفرم ویرایش اسناد با ویژگی های غنی، قدرتمند و آسان برای استفاده است API for C++. شما می توانید آخرین نسخه آن را مستقیما دانلود کنید، فقط باز کنید
- [NuGet](https://www.nuget.org/packages/aspose.cells) 
- مدیر بسته، جستجو کنید
- **Aspose.Cells.Cpp** 
- و نصب کنید. همچنین می توانید از دستور زیر در کنسول Package Manager استفاده کنید.
+ به منظور ویرایش فایل ODS، ما از[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) API که یک پلتفرم ویرایش اسناد با ویژگی های غنی، قدرتمند و آسان برای استفاده است API for C++. شما می توانید آخرین نسخه آن را مستقیما دانلود کنید، فقط باز کنید[NuGet](https://www.nuget.org/packages/aspose.cells) مدیر بسته، جستجو کنید**Aspose.Cells.Cpp** و نصب کنید. همچنین می توانید از دستور زیر در کنسول Package Manager استفاده کنید.
 
 {{% blocks/products/pf/agp/code-block title="فرمان" offSpacer="true" %}}
 
@@ -38,15 +32,13 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% blocks/products/pf/agp/text %}}
 
- یک سند اساسی جستجو کنید و متن را در محتوا، نظرات یا ابرداده جایگزین کنید
- [Aspose.Cells for C++](https://products.aspose.com/cells/cpp) 
- API ها را می توان تنها با چند خط کد انجام داد.
+ یک سند اساسی جستجو کنید و متن را در محتوا، نظرات یا ابرداده جایگزین کنید[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) API ها را می توان تنها با چند خط کد انجام داد.
 
 {{% /blocks/products/pf/agp/text %}}
 
 + بارگذاری فایل ODS.
 + گزینه های جایگزین را تعریف کنید.
-+ گزینه حساسیت کوچک را تنظیم کنید.
+گزینه حساسیت کوچک را تنظیم کنید.
 + گزینه تطبیق متن را تنظیم کنید
 + با استفاده از روش Replace(...) متن را جایگزین کنید
 + کتاب کار را ذخیره کنید.
@@ -114,11 +106,11 @@ Aspose::Cells::Cleanup();
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" بدون نیاز به دانلود Aspose API." >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" نیازی به نوشتن هیچ کدی نیست." >}}
         {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" فقط فایل های ODS خود را آپلود کنید." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-download" text="فورا ویرایش خواهد شد." >}}
+        {{< blocks/products/pf/agp/democard icon="fa-download" text=" فورا ویرایش خواهد شد." >}}
     {{< /blocks/products/pf/agp/demobox >}}
 
     {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="ODS" readMoreLink="https://docs.fileformat.com/spreadsheet/ods/" >}}
-فایل هایی با پسوند ODS مخفف فرمت OpenDocument Spreadsheet Document هستند که توسط کاربر قابل ویرایش هستند. داده ها در فایل ODF در ردیف ها و ستون ها ذخیره می شوند. این فرمت مبتنی بر XML است و یکی از چندین زیرگروه در خانواده فرمت‌های سند باز (ODF) است. این قالب به عنوان بخشی از مشخصات ODF 1.2 منتشر شده و نگهداری شده توسط OASIS مشخص شده است. تعدادی از برنامه ها در Windows و همچنین سایر سیستم عامل ها می توانند فایل های ODS را برای ویرایش و دستکاری باز کنند، از جمله Microsoft Excel، NeoOffice و LibreOffice. فایل‌های ODS همچنین می‌توانند توسط برنامه‌های مختلف به فرمت‌های صفحه‌گسترده دیگر و همچنین مانند XLS، XLSX و موارد دیگر تبدیل شوند.
+ فایل هایی با پسوند ODS مخفف فرمت OpenDocument Spreadsheet Document هستند که توسط کاربر قابل ویرایش هستند. داده ها در فایل ODF در ردیف ها و ستون ها ذخیره می شوند. این فرمت مبتنی بر XML است و یکی از چندین زیرگروه در خانواده فرمت‌های سند باز (ODF) است. این قالب به عنوان بخشی از مشخصات ODF 1.2 منتشر شده و نگهداری شده توسط OASIS مشخص شده است. تعدادی از برنامه ها در Windows و همچنین سایر سیستم عامل ها می توانند فایل های ODS را برای ویرایش و دستکاری باز کنند، از جمله Microsoft Excel، NeoOffice و LibreOffice. فایل‌های ODS همچنین می‌توانند توسط برنامه‌های مختلف به فرمت‌های صفحه‌گسترده دیگر و همچنین مانند XLS، XLSX و موارد دیگر تبدیل شوند.
 
     {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
@@ -131,6 +123,7 @@ Aspose::Cells::Cleanup();
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/redaction/xls/" name="XLS" description="فرمت باینری اکسل" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/redaction/xlsb/" name="XLSB" description="فایل باینری کتاب کار اکسل" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/redaction/xlsm/" name="XLSM" description="فایل صفحه گسترده" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/redaction/xlsx/" name="XLSX" description="فایل OOXML اکسل" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

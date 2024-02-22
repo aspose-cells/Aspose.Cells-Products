@@ -12,11 +12,11 @@ description: Bearbeta Excel-filformat via Node.js-biblioteket. Läs skriv render
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
- Aspose.Cells for Node.js via Java är en funktionsrik och skalbar API för att bearbeta Excel-kalkylblad med Node.js. API erbjuder konvertering av Excel-filformat, formatering av kalkylblad till den mest detaljerade nivån, skapande av diagram &amp; rendering, pålitlig formelberäkningsmotor och mycket mer.
+Aspose.Cells for Node.js via Java är en funktionsrik och skalbar API för att bearbeta Excel-kalkylblad med Node.js. API erbjuder konvertering av Excel-filformat, formatering av kalkylblad till den mest detaljerade nivån, skapande av diagram &amp; rendering, pålitlig formelberäkningsmotor och mycket mer.
 </p>
 
 <p>
-Aspose.Cells for Node.js via Java stöder de flesta populära kalkylarksformat inklusive XLS, XLSX, ODS, SpreadsheetML, CSV, TSC &amp; HTML.
+ Aspose.Cells for Node.js via Java stöder de flesta populära kalkylarksformat inklusive XLS, XLSX, ODS, SpreadsheetML, CSV, TSC &amp; HTML.
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
@@ -171,7 +171,7 @@ Aspose.Cells for Node.js via Java stöder de flesta populära kalkylarksformat i
      <b>
  Microsoft Excel:
      </b>
- XLS, XLSX, XLSB, XLTX, XLTM, XLSM, XML
+ XLS, XLSX, XLSB, XLT, XLTX, XLTM, XLSM, XML, OTS
     </li>
     <li>
      <b>
@@ -183,13 +183,25 @@ Aspose.Cells for Node.js via Java stöder de flesta populära kalkylarksformat i
      <b>
  Text:
      </b>
- CSV, tabbavgränsad, TXT
+     CSV, TSV, JSON
     </li>
     <li>
      <b>
  Webb:
      </b>
      HTML, MHTML
+    </li>
+    <li>
+     <b>
+      Numbers:
+     </b>
+ Apples iWork office suite Numbers appdokument
+    </li>
+    <li>
+     <b>
+ Övriga:
+     </b>
+ SXC, FODS, EPUB
     </li>
    </ul>
   </div>
@@ -198,20 +210,32 @@ Aspose.Cells for Node.js via Java stöder de flesta populära kalkylarksformat i
    <header>
     <i class="fa fa-mail-forward">
     </i>
- Endast utgång
+Endast utgång
    </header>
    <ul>
     <li>
      <b>
  Fast layout:
      </b>
-     PDF, XPS
+ PDF, PDF/A, XPS
     </li>
+    <li>
+     <b>
+ Datautbyte:
+     </b>
+     DIF
+    </li>    
     <li>
      <b>
  Bilder:
      </b>
-     JPEG, PNG, BMP, SVG, TIFF, GIF, EMF
+     JPEG, PNG, BMP, SVG, TIFF, EMF, GIF
+    </li>
+    <li>
+     <b>
+ Övriga:
+     </b>
+ MARKDOWN, SQL, XTHML
     </li>
    </ul>
   </div>
@@ -269,7 +293,7 @@ Aspose.Cells for Node.js via Java stöder de flesta populära kalkylarksformat i
     <em class="fa fa-commenting ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-Skapa &amp; manipulera kommentarer &amp; hyperlänkar
+ Skapa &amp; manipulera kommentarer &amp; hyperlänkar
     </p>
    </div>
    <div class="col-lg-4">
@@ -319,7 +343,7 @@ Skapa &amp; manipulera kommentarer &amp; hyperlänkar
  Rendering av Excel-kalkylblad
     </h2>
     <p>
- Aspose.Cells for Node.js via Java använder sin renderingsmotor för att rendera till Microsoft Excel med högsta kvalitet. Medan du använder Node.js Excel Processing-bibliotek kan man konvertera hela ark, enskilda filer eller diagram till flera bilder och format med fast layout.
+Aspose.Cells for Node.js via Java använder sin renderingsmotor för att rendera till Microsoft Excel med högsta kvalitet. Medan du använder Node.js Excel Processing-bibliotek kan man konvertera hela ark, enskilda filer eller diagram till flera bilder och format med fast layout.
     </p>
    </div>
    <div class="col-lg-12">
@@ -327,7 +351,7 @@ Skapa &amp; manipulera kommentarer &amp; hyperlänkar
  Flexibla visningsalternativ
     </h2>
     <p>
-Aspose.Cells for Node.js via Java ger full kontroll över kalkylbladets sidinställningar man kan manipulera kalkylbladets visningsalternativ som sidorientering, brytningar, storlek, skalning, sidhuvuden, sidfötter och zoomnivå. Dessutom kan utvecklare kontrollera datasynligheten med hjälp av utskriftsområde och frysa rutor för att passa applikationsspecifikationer.
+ Aspose.Cells for Node.js via Java ger full kontroll över kalkylbladets sidinställningar man kan manipulera kalkylbladets visningsalternativ som sidorientering, brytningar, storlek, skalning, sidhuvuden, sidfötter och zoomnivå. Dessutom kan utvecklare kontrollera datasynligheten med hjälp av utskriftsområde och frysa rutor för att passa applikationsspecifikationer.
     </p>
    </div>
    <div class="col-lg-12">
@@ -343,12 +367,12 @@ Aspose.Cells for Node.js via Java ger full kontroll över kalkylbladets sidinst�
  Manipulera rader &amp; Kolumner
     </h2>
     <p>
- Aspose.Cells for Node.js via Java låter dig manipulera rader och kolumner på många olika sätt. Du kan enkelt justera radhöjden &amp; kolumnbredd, anpassa cellerna automatiskt efter innehållet, infoga &amp; ta bort, dölj &amp; av-gömma samt gruppera &amp; avgruppera rader &amp; kolumner.
+Aspose.Cells for Node.js via Java låter dig manipulera rader och kolumner på många olika sätt. Du kan enkelt justera radhöjden &amp; kolumnbredd, anpassa cellerna automatiskt efter innehållet, infoga &amp; ta bort, dölj &amp; av-gömma såväl som grupp &amp; avgruppera rader &amp; kolumner.
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-Omfattande stöd för formatering av arbetsblad
+ Omfattande stöd för formatering av arbetsblad
     </h2>
     <p>
  Aspose.Cells for Node.js via Java tillhandahåller avancerade formateringsfunktioner som låter dig styra presentationen av dina data. Du kan tillämpa formatering på ett kalkylblad, kolumn, rad eller en cell eller lägga till Rich Text i en enskild cell, tillämpa kanter, ange bakgrundsmönster och teckensnittsstil. API tillåter också att lägga till, manipulera &amp; beräkna regler för villkorlig formatering i farten.
@@ -359,7 +383,7 @@ Omfattande stöd för formatering av arbetsblad
  Skapa diagram, manipulering &amp; Tolkning
     </h2>
     <p>
- Aspose.Cells for Node.js via Java ger fullt stöd för kartläggning. Man kan enkelt lägga till anpassade eller standarddiagram med hjälp av API, och dynamiskt ställa in data för att uppdatera diagrammen.
+Aspose.Cells for Node.js via Java ger fullt stöd för kartläggning. Man kan enkelt lägga till anpassade eller standarddiagram med hjälp av API, och dynamiskt ställa in data för att uppdatera diagrammen.
     </p>
    </div>
   </div>

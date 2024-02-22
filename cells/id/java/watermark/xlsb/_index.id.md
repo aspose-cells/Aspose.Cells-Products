@@ -1,5 +1,5 @@
 ---
-title: Tanda air XLSB dokumen via Java
+title:  Tanda air XLSB dokumen via Java
 weight: 5900
 description: Contoh kode Java untuk menambah atau menghapus watermark pada file XLSB di Runtime Environment Java untuk Aplikasi JSP/JSF dan Aplikasi Desktop.
 keywords: [Java Aspose.Cells., Java add watermark to xlsb file., Java insert watermark to xlsb file., Java create watermark in xlsb file., remove watermark from xlsb file using Java., Java operate watermark in xlsb file., Java access watermark in xlsb file]
@@ -12,11 +12,7 @@ keywords: [Java Aspose.Cells., Java add watermark to xlsb file., Java insert wat
 
 {{% blocks/products/pf/agp/content h2="Cara Memberi Watermark pada File XLSB Menggunakan Java" %}}
 
- Untuk memberi watermark pada file XLSB, kami akan menggunakan
- [Aspose.Cells for Java](https://products.aspose.com/cells/java) 
- API yang merupakan platform watermarking yang kaya fitur, kuat, dan mudah digunakan API for Java. Anda dapat mendownload versi terbarunya langsung dari
- [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) 
- dan instal dalam proyek berbasis Maven Anda dengan menambahkan konfigurasi berikut ke pom.xml.
+ Untuk memberi watermark pada file XLSB, kami akan menggunakan[Aspose.Cells for Java](https://products.aspose.com/cells/java) API yang merupakan platform watermarking yang kaya fitur, kuat, dan mudah digunakan API for Java. Anda dapat mendownload versi terbarunya langsung dari[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) dan instal dalam proyek berbasis Maven Anda dengan menambahkan konfigurasi berikut ke pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Gudang" offSpacer="true" %}}
 
@@ -129,7 +125,7 @@ workbook.save(dataDir + "AWArtWToWorksheet_out.xlsb");
     {{< blocks/products/pf/agp/about-file-section >}}
 
         {{< blocks/products/pf/agp/demobox sectionTitle="Tanda Air XLSB melalui Aplikasi Online" sectionDescription=" Tambahkan tanda air ke dokumen XLSB dengan mengunjungi kami[Situs web Demo Langsung](https://products.aspose.app/cells/watermark). Demo langsung memiliki manfaat sebagai berikut" >}}
-            {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Tidak perlu mengunduh atau mengatur apa pun" >}}
+            {{< blocks/products/pf/agp/democard icon="fa-cogs" text="Tidak perlu mengunduh atau mengatur apa pun" >}}
             {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Tidak perlu menulis kode apa pun" >}}
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Cukup unggah file XLSB Anda, atur tanda air Anda dan tekan tombol \"Tambah\"." >}}
             {{< blocks/products/pf/agp/democard icon="fa-download" text=" Segera dapatkan tautan unduhan untuk file yang dihasilkan" >}}
@@ -148,6 +144,7 @@ Format file XLSB menentukan Format File Biner Excel, yang merupakan kumpulan rek
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/watermark/ods/" name="ODS" description="File Lembar Bentang OpenDocument" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/watermark/xls/" name="XLS" description="Format Biner Excel" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/watermark/xlsm/" name="XLSM" description="Berkas Lembar Bentang" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/watermark/xlsx/" name="XLSX" description="Berkas OOXML Excel" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

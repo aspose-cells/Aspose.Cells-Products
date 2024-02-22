@@ -12,11 +12,7 @@ keywords: [Java Aspose.Cells., Java Search and replace text in XLS file., Java r
 
 {{% blocks/products/pf/agp/content h2="So schwärzen Sie die Datei XLS mit Java" %}}
 
- Um die Datei XLS zu redigieren, verwenden wir
- [Aspose.Cells for Java](https://products.aspose.com/cells/java) 
-API, eine funktionsreiche, leistungsstarke und benutzerfreundliche Redaktionsplattform. Sie können die neueste Version direkt von herunterladen
- [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) 
- und installieren Sie es in Ihrem Maven-basierten Projekt, indem Sie der pom.xml die folgenden Konfigurationen hinzufügen.
+ Um die Datei XLS zu redigieren, verwenden wir[Aspose.Cells for Java](https://products.aspose.com/cells/java) API, eine funktionsreiche, leistungsstarke und benutzerfreundliche Redaktionsplattform. Sie können die neueste Version direkt von herunterladen[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) und installieren Sie es in Ihrem Maven-basierten Projekt, indem Sie der pom.xml die folgenden Konfigurationen hinzufügen.
 
 {{% blocks/products/pf/agp/code-block title="Repository" offSpacer="true" %}}
 
@@ -54,9 +50,7 @@ API, eine funktionsreiche, leistungsstarke und benutzerfreundliche Redaktionspla
 
 {{% blocks/products/pf/agp/text %}}
 
- Eine einfache Dokumentsuche und das Ersetzen von Text in Inhalten, Kommentaren oder Metadaten mit
- [Aspose.Cells for Java](https://products.aspose.com/cells/java) 
- APIs können mit nur wenigen Codezeilen erstellt werden.
+ Eine einfache Dokumentsuche und das Ersetzen von Text in Inhalten, Kommentaren oder Metadaten mit[Aspose.Cells for Java](https://products.aspose.com/cells/java) APIs können mit nur wenigen Codezeilen erstellt werden.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -78,7 +72,7 @@ API, eine funktionsreiche, leistungsstarke und benutzerfreundliche Redaktionspla
 
 {{% /blocks/products/pf/agp/text %}}
 
--  Microsoft Windows oder ein kompatibles Betriebssystem mit Java Laufzeitumgebung für JSP/JSF-Anwendungen und Desktop-Anwendungen.
+- Microsoft Windows oder ein kompatibles Betriebssystem mit Java Laufzeitumgebung für JSP/JSF-Anwendungen und Desktop-Anwendungen.
 -  Holen Sie sich die neueste Version von Aspose.Cells for Java direkt von
  [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells)  .
 
@@ -144,7 +138,7 @@ workbook.save(dataDir + "output.xls");
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Aspose API muss nicht heruntergeladen werden." >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Es ist nicht nötig, Code zu schreiben." >}}
         {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Laden Sie einfach Ihre XLS-Dateien hoch." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-download" text="Es wird sofort geschwärzt." >}}
+        {{< blocks/products/pf/agp/democard icon="fa-download" text=" Es wird sofort geschwärzt." >}}
     {{< /blocks/products/pf/agp/demobox >}}
 
     {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLS" readMoreLink="https://docs.fileformat.com/spreadsheet/xls/" >}}
@@ -161,6 +155,7 @@ Dateien mit der Erweiterung XLS repräsentieren das Excel-Binärdateiformat. Sol
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/redaction/ods/" name="ODS" description="OpenDocument-Tabellenkalkulationsdatei" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/redaction/xlsb/" name="XLSB" description="Binäre Excel-Arbeitsmappendatei" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/redaction/xlsm/" name="XLSM" description="Tabellenkalkulationsdatei" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/redaction/xlsx/" name="XLSX" description="OOXML-Excel-Datei" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

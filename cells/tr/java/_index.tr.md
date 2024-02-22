@@ -13,11 +13,11 @@ keywords: [Java Aspose.Cells Create repair parse merge convert JSON Excel XML PD
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
- Aspose.Cells for Java, geliştiricilerin okuma, yazma, işleme, dönüştürme ve dönüştürme işlevlerini yerleştirmesine olanak tanıyan ödüllü bir Excel Elektronik Tablo İşleme API'dir. Microsoft Excel uygulamasına ihtiyaç duymadan elektronik tabloları kendi uygulamalarında yazdırın.
+Aspose.Cells for Java, geliştiricilerin okuma, yazma, işleme, dönüştürme ve dönüştürme işlevlerini yerleştirmesine olanak tanıyan ödüllü bir Excel Elektronik Tablo İşleme API'dir. Microsoft Excel uygulamasına ihtiyaç duymadan elektronik tabloları kendi uygulamalarında yazdırın.
 </p>
 
 <p>
-Aspose.Cells for Java, piyasada bulunan diğer bileşenlerin basit veri aktarma özelliklerinin çok ötesinde birçok işlev sunan, olgun ve zengin özelliklere sahip bir kitaplıktır. API, verileri dışa aktarma, e-tabloları en ayrıntılı düzeyde biçimlendirme, içe aktarma ve veri aktarma yetenekleri sağlar. görüntüleri dışa aktarın, grafikler oluşturun ve Pivot Tablolar, uygula ve uygula Formül hesaplama motorunu kullanarak karmaşık formülleri hesaplayın, Excel verilerini aktarın ve; sonucu çeşitli formatlarda kaydedin.
+ Aspose.Cells for Java, piyasada bulunan diğer bileşenlerin basit veri aktarma özelliklerinin çok ötesinde birçok işlev sunan, olgun ve zengin özelliklere sahip bir kitaplıktır. API, verileri dışa aktarma, e-tabloları en ayrıntılı düzeyde biçimlendirme, içe aktarma ve veri aktarma yetenekleri sağlar. görüntüleri dışa aktarın, grafikler oluşturun ve Pivot Tablolar, uygula ve uygula Formül hesaplama motorunu kullanarak karmaşık formülleri hesaplayın, Excel verilerini aktarın ve; sonucu çeşitli formatlarda kaydedin.
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
@@ -64,7 +64,7 @@ Aspose.Cells for Java, piyasada bulunan diğer bileşenlerin basit veri aktarma 
  Formülleri Uygula
     </li>
     <li>
- Özetle
+Özetle
     </li>
     <li>
  Akıllı İşaretleyiciler
@@ -161,7 +161,7 @@ Aspose.Cells for Java, piyasada bulunan diğer bileşenlerin basit veri aktarma 
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Desteklenen Dosya Formatları" description="Aspose.Cells for Java popüler elektronik tablo formatlarını, yaygın olarak kullanılan görselleri, sabit düzeni ve[daha fazla format](https://docs.aspose.com/cells/java/supported-file-formats/)." >}}
+{{< blocks/products/pf/carousel-item h3="Desteklenen Dosya Formatları" description=" Aspose.Cells for Java popüler elektronik tablo formatlarını, yaygın olarak kullanılan görselleri, sabit düzeni ve[daha fazla format](https://docs.aspose.com/cells/java/supported-file-formats/)." >}}
 <div class="diagram1 d2 d1-java">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -175,7 +175,7 @@ Aspose.Cells for Java, piyasada bulunan diğer bileşenlerin basit veri aktarma 
      <b>
  Microsoft Excel:
      </b>
- XLS, XLT, XLSX, XLSB, XLTX, XLTM, XLSM, XML
+ XLS, XLSX, XLSB, XLT, XLTX, XLTM, XLSM, XML, OTS
     </li>
     <li>
      <b>
@@ -187,7 +187,7 @@ Aspose.Cells for Java, piyasada bulunan diğer bileşenlerin basit veri aktarma 
      <b>
  Metin:
      </b>
-     CSV, TSV
+     CSV, TSV, JSON
     </li>
     <li>
      <b>
@@ -202,7 +202,10 @@ Aspose.Cells for Java, piyasada bulunan diğer bileşenlerin basit veri aktarma 
  Apple'ın iWork ofis paketi Numbers uygulama belgeleri
     </li>
     <li>
-     SXC, FODS
+     <b>
+ Diğerleri:
+     </b>
+ SXC, FODS, EPUB
     </li>
    </ul>
   </div>
@@ -211,7 +214,7 @@ Aspose.Cells for Java, piyasada bulunan diğer bileşenlerin basit veri aktarma 
    <header>
     <i class="fa fa-mail-forward">
     </i>
- Yalnızca Çıkış
+Yalnızca Çıkış
    </header>
    <ul>
     <li>
@@ -225,15 +228,18 @@ Aspose.Cells for Java, piyasada bulunan diğer bileşenlerin basit veri aktarma 
  Veri Değişimi:
      </b>
      DIF
-    </li>
+    </li>    
     <li>
      <b>
  Görüntüler:
      </b>
-     JPEG, PNG, BMP, SVG, TIFF, GIF, EMF
+     JPEG, PNG, BMP, SVG, TIFF, EMF, GIF
     </li>
     <li>
-     MARKDOWN
+     <b>
+ Diğerleri:
+     </b>
+ MARKDOWN, SQL, XTHML
     </li>
    </ul>
   </div>
@@ -320,7 +326,7 @@ Aspose.Cells for Java, piyasada bulunan diğer bileşenlerin basit veri aktarma 
     <em class="fa fa-commenting ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Oluştur ve oluştur yorumları değiştirmek
+Oluştur ve oluştur yorumları değiştirmek
     </p>
    </div>
    <div class="col-lg-4">
@@ -369,7 +375,7 @@ Aspose.Cells for Java, piyasada bulunan diğer bileşenlerin basit veri aktarma 
     <em class="fa fa-image ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-Excel'deki görüntüleri PDF dönüşümüne yeniden örnekleyin
+ Excel'deki görüntüleri PDF dönüşümüne yeniden örnekleyin
     </p>
    </div>
    <div class="col-lg-4">
@@ -405,10 +411,10 @@ wbk.save(dir + "output.html", SaveFormat.HTML);</code></pre>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
- Çalışma Sayfalarını En Ayrıntılı Düzeyde Biçimlendir
+Çalışma Sayfalarını En Ayrıntılı Düzeyde Biçimlendir
     </h2>
     <p>
-Kitaplık, satır, sütun ve hücre düzeyinde çalışma sayfası biçimlendirmesi, koşullu biçimlendirme kuralları ekleme, sayı biçimlerini tanımlama ve nitelikleri olan yazı tiplerini ayarlama dahil ancak bunlarla sınırlı olmamak üzere e-tablo stili sağlar. Benzer şekilde, API, hücrelere yönelik OLE nesneleri, resimler, yorumlar, şekiller ve kontroller gibi çeşitli çizim nesnelerinin yanı sıra her tür özel ve standart grafiğin işlenmesini ve oluşturulmasını destekler.
+ Kitaplık, satır, sütun ve hücre düzeyinde çalışma sayfası biçimlendirmesi, koşullu biçimlendirme kuralları ekleme, sayı biçimlerini tanımlama ve nitelikleri olan yazı tiplerini ayarlama dahil ancak bunlarla sınırlı olmamak üzere e-tablo stili sağlar. Benzer şekilde, API, hücrelere yönelik OLE nesneleri, resimler, yorumlar, şekiller ve kontroller gibi çeşitli çizim nesnelerinin yanı sıra her tür özel ve standart grafiğin işlenmesini ve oluşturulmasını destekler.
     </p>
    </div>
    <!--<div class="col-lg-12">
@@ -423,11 +429,11 @@ Kitaplık, satır, sütun ve hücre düzeyinde çalışma sayfası biçimlendirm
  Grafikleri Dönüştür &amp; Görüntü ve Görüntülenecek Sayfalar PDF Formatlar
     </h2>
     <p>
- Aspose.Cells for Java, grafiklerden görüntülere ve PDF, çalışma sayfalarından görüntülere, çalışma sayfalarını yazdırma ve elektronik tabloları PDF dosya biçimine dönüştürme gibi özel dönüştürme özellikleri sunar. Dönüştürme işlemi son derece esnek ve kolaydır; örneğin e-tablolar sırasında görüntülerin PDF dönüşümüne yeniden örneklenmesi veya çalışma sayfalarını ve grafikleri görüntülere dönüştürürken ortaya çıkan görüntü boyutlarını ayarlaması gibi dönüştürme için çeşitli yolların seçilmesine olanak tanır.
+Aspose.Cells for Java, grafiklerden görüntülere ve PDF, çalışma sayfalarından görüntülere, çalışma sayfalarını yazdırma ve elektronik tabloları PDF dosya biçimine dönüştürme gibi özel dönüştürme özellikleri sunar. Dönüştürme işlemi son derece esnek ve kolaydır; örneğin e-tablolar sırasında görüntülerin PDF dönüşümüne yeniden örneklenmesi veya çalışma sayfalarını ve grafikleri görüntülere dönüştürürken ortaya çıkan görüntü boyutlarını ayarlaması gibi dönüştürme için çeşitli yolların seçilmesine olanak tanır.
     </p>
     <div class="codeblock" id="code">
      <h3>
-Excel grafiğini resim olarak işle ve PDF - Java
+ Excel grafiğini resim olarak işle ve PDF - Java
      </h3>
      <pre><code class="java">// load spreadsheet containing the chart
 
@@ -459,7 +465,7 @@ chart.toPdf(dir + "output.pdf");</code></pre>
  Verileri Grafiklerle Özetleyin ve Verileri Grafiklerle Özetleyin Pivot Tablolar
     </h2>
     <p>
- Çok büyük elektronik tablolarla özet bilgi elde etmek zor olabilir. Düz verileri hızlı bir şekilde tanımlamak ve ihtiyaçlara göre ilgili bilgileri elde etmek için bir Pivot Tablo mevcuttur. API dinamik olarak Pivot Tablolar ve Grafikler oluşturur. Pivot Tablo kaynak verilerini dinamik olarak değiştirmek mümkündür. Ayrıca, bu kitaplığın bir diğer önemli özelliği olan Akıllı İşaretleyiciler, çalışma sayfalarını veri kaynakları aracılığıyla doldurmak ve görsel olarak etkili raporlar oluşturmak için kullanılır.
+Çok büyük elektronik tablolarla özet bilgi elde etmek zor olabilir. Düz verileri hızlı bir şekilde tanımlamak ve ihtiyaçlara göre ilgili bilgileri elde etmek için bir Pivot Tablo mevcuttur. API dinamik olarak Pivot Tablolar ve Grafikler oluşturur. Pivot Tablo kaynak verilerini dinamik olarak değiştirmek mümkündür. Ayrıca, bu kitaplığın bir diğer önemli özelliği olan Akıllı İşaretleyiciler, çalışma sayfalarını veri kaynakları aracılığıyla doldurmak ve görsel olarak etkili raporlar oluşturmak için kullanılır.
     </p>
    </div>
    <!--
@@ -488,7 +494,7 @@ chart.toPdf(dir + "output.pdf");</code></pre>
  Elektronik Tablolar için Web Tabanlı Görsel Kontrol
     </h2>
     <p>
-Aspose.Cells for Java ayrıca JSP web uygulamalarına yerleştirilebilen ve Chrome, Firefox, Internet Explorer ve Opera gibi tüm modern web tarayıcılarıyla uyumlu bir kullanıcı arayüzü kontrolü de sağlar. Son kullanıcı, Excel dosyalarını web uygulamanızın ön ucundan yüklemek, düzenlemek ve kaydetmek için kullanabilir.
+ Aspose.Cells for Java ayrıca JSP web uygulamalarına yerleştirilebilen ve Chrome, Firefox, Internet Explorer ve Opera gibi tüm modern web tarayıcılarıyla uyumlu bir kullanıcı arayüzü kontrolü de sağlar. Son kullanıcı, Excel dosyalarını web uygulamanızın ön ucundan yüklemek, düzenlemek ve kaydetmek için kullanabilir.
     </p>
    </div>
   </div>
@@ -502,7 +508,7 @@ Aspose.Cells for Java ayrıca JSP web uygulamalarına yerleştirilebilen ve Chro
 
 {{< blocks/products/pf/testimonials-quote >}}
 <p class="first">
- Aspose.cells for Java'in kullanılmasını öneriyoruz çünkü uygulaması kolay ve API'in anlaşılması basit ve çok akıcı.
+Aspose.cells for Java'in kullanılmasını öneriyoruz çünkü uygulaması kolay ve API'in anlaşılması basit ve çok akıcı.
  <em>
  Pierre-Eric Oudin | Advizeo, Setec, Fransa
  </em>

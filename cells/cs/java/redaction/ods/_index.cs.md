@@ -12,11 +12,7 @@ keywords: [Java Aspose.Cells., Java Search and replace text in ODS file., Java r
 
 {{% blocks/products/pf/agp/content h2="Jak upravit soubor ODS pomocí Java" %}}
 
- Abychom redigovali soubor ODS, použijeme
- [Aspose.Cells for Java](https://products.aspose.com/cells/java) 
-API, což je funkčně bohatá, výkonná a snadno použitelná platforma redakce API for Java. Jeho nejnovější verzi si můžete stáhnout přímo z
- [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) 
- a nainstalujte jej do svého projektu založeného na Maven přidáním následujících konfigurací do souboru pom.xml.
+ Abychom redigovali soubor ODS, použijeme[Aspose.Cells for Java](https://products.aspose.com/cells/java) API, což je funkčně bohatá, výkonná a snadno použitelná platforma redakce API for Java. Jeho nejnovější verzi si můžete stáhnout přímo z[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) a nainstalujte jej do svého projektu založeného na Maven přidáním následujících konfigurací do souboru pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Úložiště" offSpacer="true" %}}
 
@@ -54,9 +50,7 @@ API, což je funkčně bohatá, výkonná a snadno použitelná platforma redakc
 
 {{% blocks/products/pf/agp/text %}}
 
- Základní vyhledávání a nahrazování textu v obsahu, komentářích nebo metadatech
- [Aspose.Cells for Java](https://products.aspose.com/cells/java) 
- Rozhraní API lze vytvořit pomocí několika řádků kódu.
+ Základní vyhledávání a nahrazování textu v obsahu, komentářích nebo metadatech[Aspose.Cells for Java](https://products.aspose.com/cells/java) Rozhraní API lze vytvořit pomocí několika řádků kódu.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -78,7 +72,7 @@ API, což je funkčně bohatá, výkonná a snadno použitelná platforma redakc
 
 {{% /blocks/products/pf/agp/text %}}
 
--  Microsoft Windows nebo kompatibilní OS s Java Runtime Environment pro JSP/JSF aplikace a desktopové aplikace.
+- Microsoft Windows nebo kompatibilní OS s Java Runtime Environment pro JSP/JSF aplikace a desktopové aplikace.
 -  Získejte nejnovější verzi Aspose.Cells for Java přímo od
  [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells)  .
 
@@ -144,11 +138,11 @@ workbook.save(dataDir + "output.ods");
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Není třeba stahovat Aspose API." >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Není třeba psát žádný kód." >}}
         {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Stačí nahrát své soubory ODS." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-download" text="Okamžitě bude redigován." >}}
+        {{< blocks/products/pf/agp/democard icon="fa-download" text=" Okamžitě bude redigován." >}}
     {{< /blocks/products/pf/agp/demobox >}}
 
     {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="ODS" readMoreLink="https://docs.fileformat.com/spreadsheet/ods/" >}}
-Soubory s příponou ODS představují formát OpenDocument Spreadsheet Document, který může uživatel upravovat. Data jsou uložena v souboru ODF do řádků a sloupců. Je to formát založený na XML a je jedním z několika podtypů v rodině Open Document Formats (ODF). Formát je specifikován jako součást specifikací ODF 1.2 publikovaných a spravovaných OASIS. Řada aplikací na Windows i jiných operačních systémech může otevřít soubory ODS pro úpravy a manipulaci, včetně Microsoft Excel, NeoOffice a LibreOffice. Soubory ODS lze také různými aplikacemi převést do jiných tabulkových formátů, stejně jako XLS, XLSX a dalších.
+ Soubory s příponou ODS představují formát OpenDocument Spreadsheet Document, který může uživatel upravovat. Data jsou uložena v souboru ODF do řádků a sloupců. Je to formát založený na XML a je jedním z několika podtypů v rodině Open Document Formats (ODF). Formát je specifikován jako součást specifikací ODF 1.2 publikovaných a spravovaných OASIS. Řada aplikací na Windows i jiných operačních systémech může otevřít soubory ODS pro úpravy a manipulaci, včetně Microsoft Excel, NeoOffice a LibreOffice. Soubory ODS lze také různými aplikacemi převést do jiných tabulkových formátů, stejně jako XLS, XLSX a další.
 
     {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
@@ -161,6 +155,7 @@ Soubory s příponou ODS představují formát OpenDocument Spreadsheet Document
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/redaction/xls/" name="XLS" description="Binární formát Excel" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/redaction/xlsb/" name="XLSB" description="Binární soubor sešitu Excel" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/redaction/xlsm/" name="XLSM" description="Soubor tabulky" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/redaction/xlsx/" name="XLSX" description="Soubor Excel OOXML" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

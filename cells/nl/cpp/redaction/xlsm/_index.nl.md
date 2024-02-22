@@ -1,5 +1,5 @@
 ---
-title:  Zoek en vervang tekst in document XLSM via C++
+title: Zoek en vervang tekst in document XLSM via C++
 weight: 9570
 description: C++ voorbeeldcode om gevoelige informatie te redigeren in bestand XLSM op C++ Runtime Environment voor Windows 32 bit, Windows 64 bit en Linux 64 bit.
 keywords: [C++ Aspose.Cells., C++ Search and replace text in XLSM file., C++ redact XLSM file., C++ edit XLSM file., C++ XLSM file redaction., C++ Search and replace string in XLSM file]
@@ -12,13 +12,7 @@ keywords: [C++ Aspose.Cells., C++ Search and replace text in XLSM file., C++ red
 
 {{% blocks/products/pf/agp/content h2="Hoe u een XLSM-bestand kunt redigeren met behulp van C++" %}}
 
- Om het bestand XLSM te redigeren, gebruiken we
- [Aspose.Cells for C++](https://products.aspose.com/cells/cpp) 
- API, een functierijk, krachtig en gebruiksvriendelijk platform voor documentredactie API for C++. U kunt de nieuwste versie direct downloaden, gewoon openen
- [NuGet](https://www.nuget.org/packages/aspose.cells) 
- pakketbeheerder, zoek naar
- **Aspose.Cells.Cpp** 
- en installeren. U kunt ook de volgende opdracht gebruiken vanuit de Package Manager Console.
+ Om het bestand XLSM te redigeren, gebruiken we[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) API, een functierijk, krachtig en gebruiksvriendelijk platform voor documentredactie API for C++. U kunt de nieuwste versie direct downloaden, gewoon openen[NuGet](https://www.nuget.org/packages/aspose.cells) pakketbeheerder, zoek naar**Aspose.Cells.Cpp** en installeren. U kunt ook de volgende opdracht gebruiken vanuit de Package Manager Console.
 
 {{% blocks/products/pf/agp/code-block title="Commando" offSpacer="true" %}}
 
@@ -38,15 +32,13 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% blocks/products/pf/agp/text %}}
 
- Een basisdocument zoeken en tekst in inhoud, opmerkingen of metagegevens vervangen
- [Aspose.Cells for C++](https://products.aspose.com/cells/cpp) 
- API's kunnen met slechts enkele regels code worden uitgevoerd.
+ Een basisdocument zoeken en tekst in inhoud, opmerkingen of metagegevens vervangen[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) API's kunnen met slechts enkele regels code worden uitgevoerd.
 
 {{% /blocks/products/pf/agp/text %}}
 
 + Laad XLSM-bestand.
 + Definieer vervangingsopties.
-+ Stel hoofdlettergevoeligheid in.
+Stel hoofdlettergevoeligheid in.
 + Stel de optie voor tekstmatching in
 + Vervang tekst met de methode Replace(...).
 + Bewaar de werkmap.
@@ -114,7 +106,7 @@ Aspose::Cells::Cleanup();
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" U hoeft Aspose API niet te downloaden." >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" U hoeft geen code te schrijven." >}}
         {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Upload gewoon uw XLSM-bestanden." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-download" text="Het wordt onmiddellijk geredigeerd." >}}
+        {{< blocks/products/pf/agp/democard icon="fa-download" text=" Het wordt onmiddellijk geredigeerd." >}}
     {{< /blocks/products/pf/agp/demobox >}}
 
     {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLSM" readMoreLink="https://docs.fileformat.com/spreadsheet/xlsm/" >}}
@@ -131,6 +123,7 @@ Bestanden met de extensie XLSM zijn een soort spreadsheetbestanden die macro's o
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/redaction/ods/" name="ODS" description="OpenDocument-spreadsheetbestand" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/redaction/xls/" name="XLS" description="Excel binair formaat" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/redaction/xlsb/" name="XLSB" description="Binair Excel-werkmapbestand" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/redaction/xlsx/" name="XLSX" description="OOXML Excel-bestand" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

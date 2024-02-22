@@ -12,11 +12,7 @@ keywords: [Java Aspose.Cells., Java Extract text and images from XLSM file., Jav
 
 {{% blocks/products/pf/agp/content h2="Cara Parsing File XLSM Menggunakan Java" %}}
 
- Untuk mengurai file XLSM, kami akan menggunakan
- [Aspose.Cells for Java](https://products.aspose.com/cells/java) 
- API yang merupakan platform parsing API for Java yang kaya fitur, kuat, dan mudah digunakan. Anda dapat mendownload versi terbarunya langsung dari
- [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) 
- dan instal dalam proyek berbasis Maven Anda dengan menambahkan konfigurasi berikut ke pom.xml.
+ Untuk mengurai file XLSM, kami akan menggunakan[Aspose.Cells for Java](https://products.aspose.com/cells/java) API yang merupakan platform parsing API for Java yang kaya fitur, kuat, dan mudah digunakan. Anda dapat mendownload versi terbarunya langsung dari[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) dan instal dalam proyek berbasis Maven Anda dengan menambahkan konfigurasi berikut ke pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Gudang" offSpacer="true" %}}
 
@@ -54,9 +50,7 @@ keywords: [Java Aspose.Cells., Java Extract text and images from XLSM file., Jav
 
 {{% blocks/products/pf/agp/text %}}
 
- Penguraian dokumen dasar dengan
- [Aspose.Cells for Java](https://products.aspose.com/cells/java) 
- API dapat dilakukan hanya dengan beberapa baris kode. Parsing teks & gambar dari file Microsoft Excel XLS, XLSX, XLSM, XLSB dan OpenDocument ODS.
+ Penguraian dokumen dasar dengan[Aspose.Cells for Java](https://products.aspose.com/cells/java)API dapat dilakukan hanya dengan beberapa baris kode. Parsing teks & gambar dari file Microsoft Excel XLS, XLSX, XLSM, XLSB dan OpenDocument ODS.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -76,7 +70,7 @@ keywords: [Java Aspose.Cells., Java Extract text and images from XLSM file., Jav
 
 {{% /blocks/products/pf/agp/text %}}
 
--  Microsoft Windows atau OS yang kompatibel dengan Java Runtime Environment untuk Aplikasi JSP/JSF dan Aplikasi Desktop.
+- Microsoft Windows atau OS yang kompatibel dengan Java Runtime Environment untuk Aplikasi JSP/JSF dan Aplikasi Desktop.
 -  Dapatkan versi terbaru Aspose.Cells for Java langsung dari
  [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells)  .
 
@@ -121,7 +115,7 @@ System.out.println(stringBuilder.toString());
 
 {{< blocks/products/pf/agp/about-file-section >}}
 
-    {{< blocks/products/pf/agp/demobox sectionTitle="Demo Langsung Parser Online XLSM" sectionDescription=" Ekstrak teks dan gambar dari dokumen XLSM sekarang juga dengan mengunjungi kami[Situs web Demo Langsung](https://products.aspose.app/cells/parser). Demo langsung memiliki manfaat sebagai berikut" >}}
+    {{< blocks/products/pf/agp/demobox sectionTitle="Demo Langsung Parser Online XLSM" sectionDescription="Ekstrak teks dan gambar dari dokumen XLSM sekarang juga dengan mengunjungi kami[Situs web Demo Langsung](https://products.aspose.app/cells/parser). Demo langsung memiliki manfaat sebagai berikut" >}}
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Tidak perlu download Aspose API." >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Tidak perlu menulis kode apa pun." >}}
         {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Cukup unggah file XLSM Anda." >}}
@@ -142,6 +136,7 @@ File dengan ekstensi XLSM merupakan jenis file Spreadsheet yang mendukung Makro.
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/parser/ods/" name="ODS" description="File Lembar Bentang OpenDocument" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/parser/xls/" name="XLS" description="Format Biner Excel" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/parser/xlsb/" name="XLSB" description="File Buku Kerja Excel Biner" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/parser/xlsx/" name="XLSX" description="Berkas OOXML Excel" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

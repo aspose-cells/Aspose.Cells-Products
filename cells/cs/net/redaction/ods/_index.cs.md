@@ -12,13 +12,7 @@ keywords: [C# Aspose.Cells., c# Search and replace text in ODS file., c# redact 
 
 {{% blocks/products/pf/agp/content h2="Jak upravit soubor ODS pomocí C#" %}}
 
- Abychom redigovali soubor ODS, použijeme
- [Aspose.Cells for .NET](https://products.aspose.com/cells/net) 
- API, což je funkčně bohatá, výkonná a snadno použitelná manipulace s dokumenty API pro platformu C#. OTEVŘENO
- [NuGet](https://www.nuget.org/packages/aspose.cells) 
- správce balíčků, vyhledejte
- **Aspose.Cells** 
- a nainstalovat. Můžete také použít následující příkaz z konzoly Správce balíčků.
+ Abychom redigovali soubor ODS, použijeme[Aspose.Cells for .NET](https://products.aspose.com/cells/net) API, což je funkčně bohatá, výkonná a snadno použitelná manipulace s dokumenty API pro platformu C#. OTEVŘENO[NuGet](https://www.nuget.org/packages/aspose.cells) správce balíčků, vyhledejte**Aspose.Cells** a nainstalovat. Můžete také použít následující příkaz z konzoly Správce balíčků.
 
 {{% blocks/products/pf/agp/code-block title="Příkaz" offSpacer="true" %}}
 
@@ -38,9 +32,7 @@ PM> Install-Package Aspose.Cells
 
 {{% blocks/products/pf/agp/text %}}
 
- Základní vyhledávání a nahrazování textu v obsahu, komentářích nebo metadatech
- [Aspose.Cells for .NET](https://products.aspose.com/cells/net) 
- Rozhraní API lze vytvořit pomocí několika řádků kódu.
+ Základní vyhledávání a nahrazování textu v obsahu, komentářích nebo metadatech[Aspose.Cells for .NET](https://products.aspose.com/cells/net) Rozhraní API lze vytvořit pomocí několika řádků kódu.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -57,7 +49,7 @@ PM> Install-Package Aspose.Cells
 
 {{% blocks/products/pf/agp/text %}}
 
- Naše API jsou podporována na všech hlavních platformách a operačních systémech. Před spuštěním níže uvedeného kódu se prosím ujistěte, že máte ve svém systému následující předpoklady.
+Naše API jsou podporována na všech hlavních platformách a operačních systémech. Před spuštěním níže uvedeného kódu se prosím ujistěte, že máte ve svém systému následující předpoklady.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -122,10 +114,10 @@ wb.Save("e:\test2\output.ods");
             {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Není třeba stahovat Aspose API." >}}
             {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Není třeba psát žádný kód." >}}
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Stačí nahrát své soubory ODS." >}}
-            {{< blocks/products/pf/agp/democard icon="fa-download" text="Okamžitě bude redigován." >}}
+            {{< blocks/products/pf/agp/democard icon="fa-download" text=" Okamžitě bude redigován." >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="ODS" readMoreLink="https://docs.fileformat.com/spreadsheet/ods/" >}}
-Soubory s příponou ODS představují formát OpenDocument Spreadsheet Document, který může uživatel upravovat. Data jsou uložena v souboru ODF do řádků a sloupců. Je to formát založený na XML a je jedním z několika podtypů v rodině Open Document Formats (ODF). Formát je specifikován jako součást specifikací ODF 1.2 publikovaných a spravovaných OASIS. Řada aplikací na Windows i jiných operačních systémech může otevřít soubory ODS pro úpravy a manipulaci, včetně Microsoft Excel, NeoOffice a LibreOffice. Soubory ODS lze také různými aplikacemi převést do jiných tabulkových formátů, stejně jako XLS, XLSX a dalších.
+ Soubory s příponou ODS představují formát OpenDocument Spreadsheet Document, který může uživatel upravovat. Data jsou uložena v souboru ODF do řádků a sloupců. Je to formát založený na XML a je jedním z několika podtypů v rodině Open Document Formats (ODF). Formát je specifikován jako součást specifikací ODF 1.2 publikovaných a spravovaných OASIS. Řada aplikací na Windows i jiných operačních systémech může otevřít soubory ODS pro úpravy a manipulaci, včetně Microsoft Excel, NeoOffice a LibreOffice. Soubory ODS lze také různými aplikacemi převést do jiných tabulkových formátů, stejně jako XLS, XLSX a další.
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
@@ -138,6 +130,7 @@ Soubory s příponou ODS představují formát OpenDocument Spreadsheet Document
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/redaction/xls/" name="XLS" description="Binární formát Excel" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/redaction/xlsb/" name="XLSB" description="Binární soubor sešitu Excel" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/redaction/xlsm/" name="XLSM" description="Soubor tabulky" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/redaction/xlsx/" name="XLSX" description="Soubor Excel OOXML" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

@@ -12,7 +12,7 @@ description: Bảng tính PHP Excel API để đọc ghi và chuyển đổi XLS
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
- Aspose.Cells for PHP via Java là phần mềm quản lý và xử lý bảng tính Excel có khả năng mở rộng và giàu tính năng API. Các ứng dụng có thể thực hiện chuyển đổi định dạng bảng tính, quản lý và hiển thị biểu đồ, triển khai công thức, tạo kiểu cho bảng tính đến mức chi tiết nhất và hơn thế nữa. API hỗ trợ XLS, XLSX, ODS, SpreadsheetML, CSV, Phân cách bằng tab, HTML/MHTML, PDF, XPS và các định dạng khác. Các nhà phát triển có thể dễ dàng thêm khả năng tạo, chỉnh sửa, chuyển đổi và hiển thị các tệp Excel trong ứng dụng PHP của họ khi sử dụng JavaBridge.
+Aspose.Cells for PHP via Java là phần mềm quản lý và xử lý bảng tính Excel có khả năng mở rộng và giàu tính năng API. Các ứng dụng có thể thực hiện chuyển đổi định dạng bảng tính, quản lý và hiển thị biểu đồ, triển khai công thức, tạo kiểu cho bảng tính đến mức chi tiết nhất và hơn thế nữa. API hỗ trợ XLS, XLSX, ODS, SpreadsheetML, CSV, Phân cách bằng tab, HTML/MHTML, PDF, XPS và các định dạng khác. Các nhà phát triển có thể dễ dàng thêm khả năng tạo, chỉnh sửa, chuyển đổi và hiển thị các tệp Excel trong ứng dụng PHP của họ khi sử dụng JavaBridge.
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
@@ -179,7 +179,7 @@ description: Bảng tính PHP Excel API để đọc ghi và chuyển đổi XLS
      <b>
  Microsoft Excel:
      </b>
- XLS, XLSX, XLSB, XLTX, XLTM, XLSM, XML
+ XLS, XLSX, XLSB, XLT, XLTX, XLTM, XLSM, XML, OTS
     </li>
     <li>
      <b>
@@ -191,13 +191,25 @@ description: Bảng tính PHP Excel API để đọc ghi và chuyển đổi XLS
      <b>
  Chữ:
      </b>
- CSV, Phân cách bằng tab, TXT
+     CSV, TSV, JSON
     </li>
     <li>
      <b>
  Web:
      </b>
      HTML, MHTML
+    </li>
+    <li>
+     <b>
+      Numbers:
+     </b>
+ Tài liệu ứng dụng iWork office suite Numbers của Apple
+    </li>
+    <li>
+     <b>
+ Người khác:
+     </b>
+ SXC, FODS, EPUB
     </li>
    </ul>
   </div>
@@ -206,20 +218,32 @@ description: Bảng tính PHP Excel API để đọc ghi và chuyển đổi XLS
    <header>
     <i class="fa fa-mail-forward">
     </i>
- Chỉ đầu ra
+Chỉ đầu ra
    </header>
    <ul>
     <li>
      <b>
  Bố cục cố định:
      </b>
-     PDF, XPS
+ PDF, PDF/A, XPS
     </li>
+    <li>
+     <b>
+ Trao đổi dữ liệu:
+     </b>
+     DIF
+    </li>    
     <li>
      <b>
  Hình ảnh:
      </b>
      JPEG, PNG, BMP, SVG, TIFF, EMF, GIF
+    </li>
+    <li>
+     <b>
+ Người khác:
+     </b>
+ MARKDOWN, SQL, XTHML
     </li>
    </ul>
   </div>
@@ -264,7 +288,7 @@ description: Bảng tính PHP Excel API để đọc ghi và chuyển đổi XLS
     <em class="fa fa-support ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Hỗ trợ cho CSV, được phân cách bằng tab &amp; Định dạng HTML
+Hỗ trợ cho CSV, được phân cách bằng tab &amp; Định dạng HTML
     </p>
    </div>
    <div class="col-lg-4">
@@ -370,7 +394,7 @@ description: Bảng tính PHP Excel API để đọc ghi và chuyển đổi XLS
  Chuyển đổi tệp Excel thành XPS, PDF &amp; HTML
     </h2>
     <p>
-Aspose.Cells for PHP via Java API có khả năng chuyển đổi file Excel sang định dạng XPS, XPS và HTML cũng như giữ được độ trung thực hình ảnh cao nhất. Quá trình chuyển đổi đáng tin cậy và các nhà phát triển có thể nhận được định dạng được yêu cầu chỉ bằng một vài dòng.
+ Aspose.Cells for PHP via Java API có khả năng chuyển đổi file Excel sang định dạng XPS, XPS và HTML cũng như giữ được độ trung thực hình ảnh cao nhất. Quá trình chuyển đổi đáng tin cậy và các nhà phát triển có thể nhận được định dạng được yêu cầu chỉ bằng một vài dòng.
     </p>
     <div class="codeblock" id="code">
      <h3>
@@ -396,7 +420,7 @@ $wkbk-&gt;save("output.html", SaveFormat::HTML);</code></pre>
  Kết xuất Bảng tính Excel &amp; Phản đối PDF &amp; Hình ảnh
     </h2>
     <p>
- Aspose.Cells for PHP via Java có công cụ kết xuất riêng được thiết kế đặc biệt để kết xuất với độ trung thực cao nhất đối với Microsoft Excel. Khi sử dụng Aspose.Cells for PHP via Java, bạn có thể chuyển đổi toàn bộ bảng tính, bảng tính riêng lẻ &amp; biểu đồ cho một số hình ảnh &amp; định dạng bố cục cố định.
+Aspose.Cells for PHP via Java có công cụ kết xuất riêng được thiết kế đặc biệt để kết xuất với độ trung thực cao nhất đối với Microsoft Excel. Khi sử dụng Aspose.Cells for PHP via Java, bạn có thể chuyển đổi toàn bộ bảng tính, bảng tính riêng lẻ &amp; biểu đồ cho một số hình ảnh &amp; định dạng bố cục cố định.
     </p>
    </div>
    <div class="col-lg-12">
@@ -404,7 +428,7 @@ $wkbk-&gt;save("output.html", SaveFormat::HTML);</code></pre>
  Tùy chọn hiển thị bảng tính linh hoạt
     </h2>
     <p>
-Aspose.Cells for PHP via Java cung cấp cho bạn toàn quyền kiểm soát thiết lập trang của bảng tính, do đó cho phép bạn thao tác các tùy chọn hiển thị của bảng tính Excel như ngắt trang, hướng trang, chia tỷ lệ, kích thước giấy, đầu trang/chân trang &amp; Mức độ phóng to. Bạn cũng có thể kiểm soát khả năng hiển thị dữ liệu bằng cách sử dụng ngăn đóng băng &amp; khu vực in phù hợp với yêu cầu ứng dụng của bạn.
+ Aspose.Cells for PHP via Java cung cấp cho bạn toàn quyền kiểm soát thiết lập trang của bảng tính, do đó cho phép bạn thao tác các tùy chọn hiển thị của bảng tính Excel như ngắt trang, hướng trang, chia tỷ lệ, kích thước giấy, đầu trang/chân trang &amp; Mức độ phóng to. Bạn cũng có thể kiểm soát khả năng hiển thị dữ liệu bằng cách sử dụng ngăn đóng băng &amp; khu vực in phù hợp với yêu cầu ứng dụng của bạn.
     </p>
    </div>
    <div class="col-lg-12">
@@ -412,7 +436,7 @@ Aspose.Cells for PHP via Java cung cấp cho bạn toàn quyền kiểm soát th
  Hiệu quả, mạnh mẽ &amp; Công cụ tính toán công thức đáng tin cậy
     </h2>
     <p>
- Aspose.Cells for PHP via Java được trang bị Công cụ tính toán công thức mạnh mẽ hỗ trợ hầu hết tất cả các công thức và chức năng Microsoft Excel tiêu chuẩn và nâng cao. Bạn có thể đọc, đặt và tính toán kết quả của các công thức kiểu tham chiếu, mảng và kiểu tham chiếu R1C1 được tích hợp sẵn hoặc bổ sung.
+Aspose.Cells for PHP via Java được trang bị Công cụ tính toán công thức mạnh mẽ hỗ trợ hầu hết tất cả các công thức và chức năng Microsoft Excel tiêu chuẩn và nâng cao. Bạn có thể đọc, đặt và tính toán kết quả của các công thức kiểu tham chiếu, mảng và kiểu tham chiếu R1C1 được tích hợp sẵn hoặc bổ sung.
     </p>
    </div>
    <div class="col-lg-12">
@@ -423,7 +447,7 @@ Aspose.Cells for PHP via Java cung cấp cho bạn toàn quyền kiểm soát th
  Thư viện linh hoạt đến mức người ta có thể cung cấp cho bảng tính tất cả các loại hiệu ứng hình ảnh cũng như có thể áp dụng định dạng cho trang tính, hàng, cột hoặc ô, đặt phông chữ với các thuộc tính, xác định kiểu &amp; định dạng số, thêm Rich Text và xác định các quy tắc định dạng có điều kiện.
     </p>
     <p>
-Tương tự, để có một cái nhìn chuyên nghiệp và dễ hiểu, các biểu đồ và đồ họa là những phần không thể thiếu. Aspose.Cells for PHP via Java API có thể tạo và thao tác tất cả các loại biểu đồ tiêu chuẩn và tùy chỉnh. Hơn nữa, có thể dễ dàng thêm các loại đối tượng vẽ khác nhau vào các ô.
+ Tương tự, để có một cái nhìn chuyên nghiệp và dễ hiểu, các biểu đồ và đồ họa là những phần không thể thiếu. Aspose.Cells for PHP via Java API có thể tạo và thao tác tất cả các loại biểu đồ tiêu chuẩn và tùy chỉnh. Hơn nữa, có thể dễ dàng thêm các loại đối tượng vẽ khác nhau vào các ô.
     </p>
    </div>
   </div>

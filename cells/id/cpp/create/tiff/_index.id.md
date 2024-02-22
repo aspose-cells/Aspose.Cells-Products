@@ -1,6 +1,6 @@
 ---
 title: Buat TIFF - Buat file TIFF di C++
-description: Aspose Unggul. C++ Buat file TIFF dengan cepat dan mudah dengan Aspose.Cells. Hasilkan file TIFF menggunakan C++. Buat TIFF di C++. C++ TIFF Creater.
+description:  Aspose Unggul. C++ Buat file TIFF dengan cepat dan mudah dengan Aspose.Cells. Hasilkan file TIFF menggunakan C++. Buat TIFF di C++. C++ TIFF Creater.
 keywords: [Aspose Excel., C++ Aspose.Cells., C++ Create TIFF file., Generate TIFF file in C++., Create TIFF file using C++., Write data to TIFF file via C++., Create a TIFF file in C++., C++ Generate a TIFF file., C++ TIFF Creater]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -11,7 +11,7 @@ keywords: [Aspose Excel., C++ Aspose.Cells., C++ Create TIFF file., Generate TIF
 
 {{% blocks/products/pf/agp/content h2="Buat File TIFF Menggunakan C++" %}}
 
- Bagaimana cara membuat file TIFF? Dengan pustaka Aspose.Cells for C++, Anda dapat dengan mudah membuat file TIFF secara terprogram dengan beberapa baris kode.[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) mampu membangun aplikasi lintas platform dengan kemampuan untuk menghasilkan, memodifikasi, mengkonversi, merender dan mencetak semua file Excel. C++ Excel API tidak hanya mengkonversi antar format spreadsheet, tetapi juga dapat merender file Excel sebagai gambar, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT dan banyak lagi, sehingga menjadikannya pilihan sempurna untuk bertukar dokumen dalam format standar industri. Anda bisa langsung mendownload versi terbarunya, buka saja[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) manajer paket, cari Aspose.Cells.Cpp dan instal. Anda juga dapat menggunakan perintah berikut dari Package Manager Console.
+ Bagaimana cara membuat file TIFF? Dengan pustaka Aspose.Cells for C++, Anda dapat dengan mudah membuat file TIFF secara terprogram dengan beberapa baris kode.[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) mampu membangun aplikasi lintas platform dengan kemampuan untuk menghasilkan, memodifikasi, mengkonversi, merender dan mencetak semua file Excel. C++ Excel API tidak hanya mengkonversi antar format spreadsheet, tetapi juga dapat merender file Excel sebagai gambar, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT dan banyak lagi, sehingga menjadikannya pilihan sempurna untuk bertukar dokumen dalam format standar industri. Anda bisa langsung mendownload versi terbarunya, buka saja[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/)manajer paket, cari Aspose.Cells.Cpp dan instal. Anda juga dapat menggunakan perintah berikut dari Package Manager Console.
 
 {{% blocks/products/pf/agp/code-block title="Memerintah" offSpacer="true" %}}
 
@@ -37,9 +37,9 @@ PM> Install-Package Aspose.Cells.Cpp
 1.  Buat objek kelas Buku Kerja.
 1.  Masukkan lembar pertama ke dalam objek Lembar Kerja.
 1.  Gunakan metode Worksheet.GetCells() untuk memasukkan sel lembar kerja menjadi objek Cells.
-1. Gunakan metode Cells.Get() untuk mengakses sel lembar kerja yang diinginkan menjadi objek Cell.
+1.  Gunakan metode Cells.Get() untuk mengakses sel lembar kerja yang diinginkan menjadi objek Cell.
 1.  Gunakan metode Cell.PutValue() untuk memasukkan nilai ke dalam sel.
-1. Simpan buku kerja sebagai file .tiff menggunakan metode Save().
+1.  Simpan buku kerja sebagai file .tiff menggunakan metode Save().
 
 {{% blocks/products/pf/agp/code-block title="Kode contoh menunjukkan cara membuat file TIFF di C++." offSpacer="" %}}
 
@@ -70,7 +70,6 @@ cell01.PutValue(u"ColumnB");
 cell10.PutValue(u"ValueA");
 cell11.PutValue(u"ValueB");
 
-//TIFF format is not supported
 // Save workbook to resultFile folder
 wkb.Save(u"created_one.tiff");
 

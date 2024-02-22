@@ -12,11 +12,7 @@ keywords: [Java Aspose.Cells., Java Search and replace text in ODS file., Java r
 
 {{% blocks/products/pf/agp/content h2="วิธีแก้ไขไฟล์ ODS โดยใช้ Java" %}}
 
- เพื่อทำการปกปิดไฟล์ ODS เราจะใช้
- [Aspose.Cells for Java](https://products.aspose.com/cells/java) 
-API ซึ่งเป็นแพลตฟอร์มการแก้ไข API for Java ที่มีคุณสมบัติหลากหลาย ทรงพลัง และใช้งานง่าย คุณสามารถดาวน์โหลดเวอร์ชันล่าสุดได้โดยตรงจาก
- [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) 
- และติดตั้งภายในโปรเจ็กต์ที่ใช้ Maven ของคุณโดยเพิ่มการกำหนดค่าต่อไปนี้ใน pom.xml
+ เพื่อทำการปกปิดไฟล์ ODS เราจะใช้[Aspose.Cells for Java](https://products.aspose.com/cells/java) API ซึ่งเป็นแพลตฟอร์มการแก้ไข API for Java ที่มีคุณสมบัติหลากหลาย ทรงพลัง และใช้งานง่าย คุณสามารถดาวน์โหลดเวอร์ชันล่าสุดได้โดยตรงจาก[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) และติดตั้งภายในโปรเจ็กต์ที่ใช้ Maven ของคุณโดยเพิ่มการกำหนดค่าต่อไปนี้ใน pom.xml
 
 {{% blocks/products/pf/agp/code-block title="พื้นที่เก็บข้อมูล" offSpacer="true" %}}
 
@@ -54,9 +50,7 @@ API ซึ่งเป็นแพลตฟอร์มการแก้ไข 
 
 {{% blocks/products/pf/agp/text %}}
 
- การค้นหาเอกสารขั้นพื้นฐานและแทนที่ข้อความในเนื้อหา ความคิดเห็น หรือข้อมูลเมตาด้วย
- [Aspose.Cells for Java](https://products.aspose.com/cells/java) 
- API สามารถทำได้โดยใช้โค้ดเพียงไม่กี่บรรทัด
+ การค้นหาเอกสารขั้นพื้นฐานและแทนที่ข้อความในเนื้อหา ความคิดเห็น หรือข้อมูลเมตาด้วย[Aspose.Cells for Java](https://products.aspose.com/cells/java) API สามารถทำได้โดยใช้โค้ดเพียงไม่กี่บรรทัด
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -78,7 +72,7 @@ API ซึ่งเป็นแพลตฟอร์มการแก้ไข 
 
 {{% /blocks/products/pf/agp/text %}}
 
--  Microsoft Windows หรือระบบปฏิบัติการที่เข้ากันได้กับ Java Runtime Environment สำหรับแอปพลิเคชัน JSP/JSF และแอปพลิเคชันเดสก์ท็อป
+- Microsoft Windows หรือระบบปฏิบัติการที่เข้ากันได้กับ Java Runtime Environment สำหรับแอปพลิเคชัน JSP/JSF และแอปพลิเคชันเดสก์ท็อป
 -  รับเวอร์ชั่นล่าสุด Aspose.Cells for Java ส่งตรงจาก
  [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells)  .
 
@@ -144,11 +138,11 @@ workbook.save(dataDir + "output.ods");
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" ไม่ต้องดาวน์ Aspose API." >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" ไม่จำเป็นต้องเขียนโค้ดใดๆ" >}}
         {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" เพียงอัพโหลดไฟล์ ODS ของคุณ" >}}
-        {{< blocks/products/pf/agp/democard icon="fa-download" text="มันจะถูกแก้ไขทันที" >}}
+        {{< blocks/products/pf/agp/democard icon="fa-download" text=" มันจะถูกแก้ไขทันที" >}}
     {{< /blocks/products/pf/agp/demobox >}}
 
     {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="ODS" readMoreLink="https://docs.fileformat.com/spreadsheet/ods/" >}}
-ไฟล์ที่มีนามสกุล ODS ย่อมาจากรูปแบบเอกสาร OpenDocument Spreadsheet ที่ผู้ใช้สามารถแก้ไขได้ ข้อมูลจะถูกเก็บไว้ในไฟล์ ODF เป็นแถวและคอลัมน์ มันเป็นรูปแบบที่ใช้ XML และเป็นหนึ่งในประเภทย่อยหลายประเภทในตระกูล Open Document Formats (ODF) รูปแบบนี้ระบุเป็นส่วนหนึ่งของข้อกำหนด ODF 1.2 ที่เผยแพร่และดูแลโดย OASIS แอปพลิเคชั่นจำนวนหนึ่งบน Windows รวมถึงระบบปฏิบัติการอื่นสามารถเปิดไฟล์ ODS เพื่อแก้ไขและจัดการรวมถึง Microsoft Excel, NeoOffice และ LibreOffice ไฟล์ ODS ยังสามารถแปลงเป็นรูปแบบสเปรดชีตอื่นๆ ได้ เช่นเดียวกับ XLS, XLSX และอื่นๆ โดยใช้แอปพลิเคชันต่างๆ
+ ไฟล์ที่มีนามสกุล ODS ย่อมาจากรูปแบบเอกสาร OpenDocument Spreadsheet ที่ผู้ใช้สามารถแก้ไขได้ ข้อมูลจะถูกเก็บไว้ในไฟล์ ODF เป็นแถวและคอลัมน์ มันเป็นรูปแบบที่ใช้ XML และเป็นหนึ่งในประเภทย่อยหลายประเภทในตระกูล Open Document Formats (ODF) รูปแบบนี้ระบุเป็นส่วนหนึ่งของข้อกำหนด ODF 1.2 ที่เผยแพร่และดูแลโดย OASIS แอปพลิเคชั่นจำนวนหนึ่งบน Windows รวมถึงระบบปฏิบัติการอื่นสามารถเปิดไฟล์ ODS เพื่อแก้ไขและจัดการรวมถึง Microsoft Excel, NeoOffice และ LibreOffice ไฟล์ ODS ยังสามารถแปลงเป็นรูปแบบสเปรดชีตอื่นๆ ได้ เช่นเดียวกับ XLS, XLSX และอื่นๆ โดยใช้แอปพลิเคชันต่างๆ
 
     {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
@@ -161,6 +155,7 @@ workbook.save(dataDir + "output.ods");
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/redaction/xls/" name="XLS" description="รูปแบบไบนารีของ Excel" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/redaction/xlsb/" name="XLSB" description="ไฟล์สมุดงาน Excel ไบนารี" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/redaction/xlsm/" name="XLSM" description="ไฟล์สเปรดชีต" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/redaction/xlsx/" name="XLSX" description="ไฟล์ OOXML Excel" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

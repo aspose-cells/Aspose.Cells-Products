@@ -1,6 +1,6 @@
 ---
 title: TIFF 생성 - C++에 TIFF 파일 생성
-description: Aspose 엑셀. C++ Aspose.Cells을 사용하여 빠르고 쉽게 TIFF 파일을 생성합니다. C++을 사용하여 TIFF 파일을 생성합니다. C++에서 TIFF을 생성합니다. C++ TIFF 생성자.
+description:  Aspose 엑셀. C++ Aspose.Cells을 사용하여 빠르고 쉽게 TIFF 파일을 생성합니다. C++을 사용하여 TIFF 파일을 생성합니다. C++에서 TIFF을 생성합니다. C++ TIFF 생성자.
 keywords: [Aspose Excel., C++ Aspose.Cells., C++ Create TIFF file., Generate TIFF file in C++., Create TIFF file using C++., Write data to TIFF file via C++., Create a TIFF file in C++., C++ Generate a TIFF file., C++ TIFF Creater]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -11,7 +11,7 @@ keywords: [Aspose Excel., C++ Aspose.Cells., C++ Create TIFF file., Generate TIF
 
 {{% blocks/products/pf/agp/content h2="C++을 사용하여 TIFF 파일 생성" %}}
 
- TIFF 파일을 만드는 방법은 무엇입니까? Aspose.Cells for C++ 라이브러리를 사용하면 몇 줄의 코드로 프로그래밍 방식으로 TIFF 파일을 쉽게 만들 수 있습니다.[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) 모든 Excel 파일을 생성, 수정, 변환, 렌더링 및 인쇄할 수 있는 기능을 갖춘 크로스 플랫폼 애플리케이션을 구축할 수 있습니다. C++ Excel API 스프레드시트 형식 간에 변환할 뿐만 아니라 Excel 파일을 이미지(PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT 등)로 렌더링할 수도 있으므로 업계 표준 형식으로 문서를 교환하는 데 완벽한 선택입니다. 최신 버전을 직접 다운로드할 수 있습니다. 열기만 하면 됩니다.[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) 패키지 관리자에서 Aspose.Cells.Cpp를 검색하여 설치하세요. 패키지 관리자 콘솔에서 다음 명령을 사용할 수도 있습니다.
+ TIFF 파일을 만드는 방법은 무엇입니까? Aspose.Cells for C++ 라이브러리를 사용하면 몇 줄의 코드로 프로그래밍 방식으로 TIFF 파일을 쉽게 만들 수 있습니다.[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) 모든 Excel 파일을 생성, 수정, 변환, 렌더링 및 인쇄할 수 있는 기능을 갖춘 크로스 플랫폼 애플리케이션을 구축할 수 있습니다. C++ Excel API 스프레드시트 형식 간에 변환할 뿐만 아니라 Excel 파일을 이미지(PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT 등)로 렌더링할 수도 있으므로 업계 표준 형식으로 문서를 교환하는 데 완벽한 선택입니다. 최신 버전을 직접 다운로드할 수 있습니다. 열기만 하면 됩니다.[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/)패키지 관리자에서 Aspose.Cells.Cpp를 검색하여 설치하세요. 패키지 관리자 콘솔에서 다음 명령을 사용할 수도 있습니다.
 
 {{% blocks/products/pf/agp/code-block title="명령" offSpacer="true" %}}
 
@@ -37,9 +37,9 @@ PM> Install-Package Aspose.Cells.Cpp
 1.  Workbook 클래스의 개체를 만듭니다.
 1.  첫 번째 시트를 Worksheet 개체로 가져옵니다.
 1.  Worksheet.GetCells() 메서드를 사용하여 워크시트의 셀을 Cells 개체로 가져옵니다.
-1. Cells.Get() 메서드를 사용하여 워크시트의 원하는 셀에 Cell 개체에 액세스합니다.
+1.  Cells.Get() 메서드를 사용하여 워크시트의 원하는 셀에 Cell 개체에 액세스합니다.
 1.  Cell.PutValue() 메소드를 사용하여 셀에 값을 입력합니다.
-1. Save() 메서드를 사용하여 통합 문서를 .tiff 파일로 저장합니다.
+1.  Save() 메서드를 사용하여 통합 문서를 .tiff 파일로 저장합니다.
 
 {{% blocks/products/pf/agp/code-block title="샘플 코드는 C++에서 TIFF 파일을 생성하는 방법을 보여줍니다." offSpacer="" %}}
 
@@ -70,7 +70,6 @@ cell01.PutValue(u"ColumnB");
 cell10.PutValue(u"ValueA");
 cell11.PutValue(u"ValueB");
 
-//TIFF format is not supported
 // Save workbook to resultFile folder
 wkb.Save(u"created_one.tiff");
 

@@ -1,5 +1,5 @@
 ---
-title: Wasserzeichen ODS Dokument via Java
+title:  Wasserzeichen ODS Dokument via Java
 weight: 1040
 description: Java Beispielcode zum Hinzufügen oder Entfernen von Wasserzeichen zur Datei ODS in der Laufzeitumgebung Java für JSP/JSF-Anwendungen und Desktop-Anwendungen.
 keywords: [Java Aspose.Cells., Java add watermark to ods file., Java insert watermark to ods file., Java create watermark in ods file., remove watermark from ods file using Java., Java operate watermark in ods file., Java access watermark in ods file]
@@ -12,11 +12,7 @@ keywords: [Java Aspose.Cells., Java add watermark to ods file., Java insert wate
 
 {{% blocks/products/pf/agp/content h2="So versehen Sie die Datei ODS mit einem Wasserzeichen mit Java" %}}
 
- Um die Datei ODS mit einem Wasserzeichen zu versehen, verwenden wir
- [Aspose.Cells for Java](https://products.aspose.com/cells/java) 
- API, eine funktionsreiche, leistungsstarke und einfach zu verwendende Wasserzeichen-Plattform. Sie können die neueste Version direkt von herunterladen
- [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) 
- und installieren Sie es in Ihrem Maven-basierten Projekt, indem Sie der pom.xml die folgenden Konfigurationen hinzufügen.
+ Um die Datei ODS mit einem Wasserzeichen zu versehen, verwenden wir[Aspose.Cells for Java](https://products.aspose.com/cells/java) API, eine funktionsreiche, leistungsstarke und einfach zu verwendende Wasserzeichen-Plattform. Sie können die neueste Version direkt von herunterladen[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) und installieren Sie es in Ihrem Maven-basierten Projekt, indem Sie der pom.xml die folgenden Konfigurationen hinzufügen.
 
 {{% blocks/products/pf/agp/code-block title="Repository" offSpacer="true" %}}
 
@@ -129,7 +125,7 @@ workbook.save(dataDir + "AWArtWToWorksheet_out.ods");
     {{< blocks/products/pf/agp/about-file-section >}}
 
         {{< blocks/products/pf/agp/demobox sectionTitle="Wasserzeichen ODS über Online-App" sectionDescription=" Fügen Sie Wasserzeichen zu ODS-Dokumenten hinzu, indem Sie unsere besuchen[Live-Demos-Website](https://products.aspose.app/cells/watermark). Die Live-Demo bietet folgende Vorteile" >}}
-            {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Sie müssen nichts herunterladen oder einrichten" >}}
+            {{< blocks/products/pf/agp/democard icon="fa-cogs" text="Sie müssen nichts herunterladen oder einrichten" >}}
             {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Es ist nicht nötig, Code zu schreiben" >}}
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Laden Sie einfach Ihre ODS-Datei hoch, setzen Sie Ihr Wasserzeichen und klicken Sie auf die Schaltfläche „Hinzufügen“." >}}
             {{< blocks/products/pf/agp/democard icon="fa-download" text=" Erhalten Sie sofort den Download-Link für die resultierende Datei" >}}
@@ -148,6 +144,7 @@ Dateien mit der Erweiterung ODS stehen für das OpenDocument Spreadsheet Documen
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/watermark/xls/" name="XLS" description="Excel-Binärformat" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/watermark/xlsb/" name="XLSB" description="Binäre Excel-Arbeitsmappendatei" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/watermark/xlsm/" name="XLSM" description="Tabellenkalkulationsdatei" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/watermark/xlsx/" name="XLSX" description="OOXML-Excel-Datei" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

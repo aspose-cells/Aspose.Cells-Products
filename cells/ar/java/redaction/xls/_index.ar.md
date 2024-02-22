@@ -12,11 +12,7 @@ keywords: [Java Aspose.Cells., Java Search and replace text in XLS file., Java r
 
 {{% blocks/products/pf/agp/content h2="كيفية تنقيح ملف XLS باستخدام Java" %}}
 
- من أجل تنقيح ملف XLS، سنستخدم
- [Aspose.Cells for Java](https://products.aspose.com/cells/java) 
-API وهي منصة تنقيح غنية بالميزات وقوية وسهلة الاستخدام API for Java. يمكنك تنزيل أحدث إصدار مباشرة من
- [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) 
- وقم بتثبيته ضمن مشروعك المستند إلى Maven عن طريق إضافة التكوينات التالية إلى ملف pom.xml.
+ من أجل تنقيح ملف XLS، سنستخدم[Aspose.Cells for Java](https://products.aspose.com/cells/java) API وهي منصة تنقيح غنية بالميزات وقوية وسهلة الاستخدام API for Java. يمكنك تنزيل أحدث إصدار مباشرة من[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) وقم بتثبيته ضمن مشروعك المستند إلى Maven عن طريق إضافة التكوينات التالية إلى ملف pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="مخزن" offSpacer="true" %}}
 
@@ -54,9 +50,7 @@ API وهي منصة تنقيح غنية بالميزات وقوية وسهلة �
 
 {{% blocks/products/pf/agp/text %}}
 
- بحث أساسي عن المستندات واستبدال النص في المحتويات أو التعليقات أو البيانات الوصفية
- [Aspose.Cells for Java](https://products.aspose.com/cells/java) 
- يمكن إنشاء واجهات برمجة التطبيقات باستخدام بضعة أسطر من التعليمات البرمجية.
+ بحث أساسي عن المستندات واستبدال النص في المحتويات أو التعليقات أو البيانات الوصفية[Aspose.Cells for Java](https://products.aspose.com/cells/java) يمكن إنشاء واجهات برمجة التطبيقات باستخدام بضعة أسطر من التعليمات البرمجية.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -78,7 +72,7 @@ API وهي منصة تنقيح غنية بالميزات وقوية وسهلة �
 
 {{% /blocks/products/pf/agp/text %}}
 
--  Microsoft Windows أو نظام تشغيل متوافق مع Java Runtime Environment لتطبيقات JSP/JSF وتطبيقات سطح المكتب.
+- Microsoft Windows أو نظام تشغيل متوافق مع Java Runtime Environment لتطبيقات JSP/JSF وتطبيقات سطح المكتب.
 -  احصل على أحدث إصدار من Aspose.Cells for Java مباشرة من
  [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells)  .
 
@@ -144,7 +138,7 @@ workbook.save(dataDir + "output.xls");
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" لا داعي للتحميل Aspose API." >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" لا حاجة لكتابة أي رمز." >}}
         {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" فقط قم بتحميل ملفات XLS الخاصة بك." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-download" text="سيتم تنقيحه على الفور." >}}
+        {{< blocks/products/pf/agp/democard icon="fa-download" text=" سيتم تنقيحه على الفور." >}}
     {{< /blocks/products/pf/agp/demobox >}}
 
     {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLS" readMoreLink="https://docs.fileformat.com/spreadsheet/xls/" >}}
@@ -161,6 +155,7 @@ workbook.save(dataDir + "output.xls");
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/redaction/ods/" name="ODS" description="ملف جدول بيانات OpenDocument" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/redaction/xlsb/" name="XLSB" description="ملف مصنف Excel الثنائي" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/redaction/xlsm/" name="XLSM" description="ملف جدول البيانات" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/redaction/xlsx/" name="XLSX" description="ملف اكسيل OOXML" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

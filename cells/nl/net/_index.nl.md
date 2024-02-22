@@ -1,5 +1,5 @@
 ---
-title:  .NET Excel-API | Spreadsheetformaten verwerken via .NET Kern
+title: .NET Excel-API | Spreadsheetformaten verwerken via .NET Kern
 weight: 2030
 description: C# ASP.NET VB.NET bibliotheek voor het maken, repareren, samenvoegen, parseren en converteren van Excel-bestanden. Converteer Excel naar PDF, JSON, XML, TSV, HTML enzovoort.
 keywords: [Aspose.Cells C# Create repair parse merge convert JSON Excel XML PDF HTML TSV SQL TXT PNG JPEG and more formats]
@@ -13,11 +13,11 @@ keywords: [Aspose.Cells C# Create repair parse merge convert JSON Excel XML PDF 
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
-Aspose.Cells for .NET is een Excel Spreadsheet-programmering API om het spreadsheetbeheer en de verwerkingstaken te versnellen. API ondersteunt het bouwen van platformonafhankelijke applicaties met de mogelijkheid om spreadsheets te genereren, wijzigen, converteren, weergeven en afdrukken. Bovendien is het niet afhankelijk van Microsoft Excel of andere Microsoft Office Interop-componenten die moeten worden geïnstalleerd, maar van een robuuste set API's die met alle Excel-formaten omgaan, evenals met de formaten CSV en SpreadsheetML.
+ Aspose.Cells for .NET is een Excel Spreadsheet-programmering API om het spreadsheetbeheer en de verwerkingstaken te versnellen. API ondersteunt het bouwen van platformonafhankelijke applicaties met de mogelijkheid om spreadsheets te genereren, wijzigen, converteren, weergeven en afdrukken. Bovendien is het niet afhankelijk van Microsoft Excel of andere Microsoft Office Interop-componenten die moeten worden geïnstalleerd, maar van een robuuste set API's die met alle Excel-formaten omgaan, evenals met de formaten CSV en SpreadsheetML.
 </p>
 
 <p>
- Door API te integreren, kunnen enkele van de basistaken die ontwikkelaars kunnen uitvoeren, zoals het beheren van meerdere werkbladen, het geheel opnieuw creëren van de inhoud en stijlen van spreadsheets, het importeren van gegevens op de werkbladen vanuit verschillende gegevensbronnen, het toevoegen van algemene en complexe wiskundige, financiële en tekstformules, het manipuleren van grafieken, afbeeldingen, opmerkingen, tekenobjecten en nog veel meer.
+Door API te integreren, kunnen enkele van de basistaken die ontwikkelaars kunnen uitvoeren, zoals het beheren van meerdere werkbladen, het geheel opnieuw creëren van de inhoud en stijlen van spreadsheets, het importeren van gegevens op de werkbladen vanuit verschillende gegevensbronnen, het toevoegen van algemene en complexe wiskundige, financiële en tekstformules, het manipuleren van grafieken, afbeeldingen, opmerkingen, tekenobjecten en nog veel meer.
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
@@ -64,7 +64,7 @@ Aspose.Cells for .NET is een Excel Spreadsheet-programmering API om het spreadsh
  Formules toepassen
     </li>
     <li>
- Samenvatten
+Samenvatten
     </li>
     <li>
  Slimme markeringen
@@ -213,7 +213,7 @@ Aspose.Cells for .NET is een Excel Spreadsheet-programmering API om het spreadsh
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Ondersteunde bestandsformaten" description=" Aspose.Cells for .NET ondersteunt de populaire spreadsheet[bestandsformaten](https://docs.aspose.com/cells/net/supported-file-formats/) evenals de meest gebruikte formaten voor afbeeldingen en een vaste lay-out." >}}
+{{< blocks/products/pf/carousel-item h3="Ondersteunde bestandsformaten" description=" Aspose.Cells for .NET ondersteunt de populaire spreadsheet[bestandsformaten](https://docs.aspose.com/cells/net/supported-file-formats/)evenals de meest gebruikte formaten voor afbeeldingen en een vaste lay-out." >}}
 <div class="diagram1 d2 d1-net">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -227,7 +227,7 @@ Aspose.Cells for .NET is een Excel Spreadsheet-programmering API om het spreadsh
      <b>
  Microsoft Excel:
      </b>
- XLS, XLSX, XLSB, XLT, XLTX, XLTM, XLSM, XML
+ XLS, XLSX, XLSB, XLT, XLTX, XLTM, XLSM, XML, OTS
     </li>
     <li>
      <b>
@@ -239,7 +239,7 @@ Aspose.Cells for .NET is een Excel Spreadsheet-programmering API om het spreadsh
      <b>
  Tekst:
      </b>
-     CSV, TSV
+     CSV, TSV, JSON
     </li>
     <li>
      <b>
@@ -253,6 +253,12 @@ Aspose.Cells for .NET is een Excel Spreadsheet-programmering API om het spreadsh
      </b>
  Apple's iWork office suite Numbers app-documenten
     </li>
+    <li>
+     <b>
+ Anderen:
+     </b>
+ SXC, FODS, EPUB
+    </li>
    </ul>
   </div>
   <!--/left-->
@@ -260,7 +266,7 @@ Aspose.Cells for .NET is een Excel Spreadsheet-programmering API om het spreadsh
    <header>
     <i class="fa fa-mail-forward">
     </i>
- Alleen uitvoer
+Alleen uitvoer
    </header>
    <ul>
     <li>
@@ -274,12 +280,18 @@ Aspose.Cells for .NET is een Excel Spreadsheet-programmering API om het spreadsh
  Gegevensuitwisseling:
      </b>
      DIF
-    </li>
+    </li>    
     <li>
      <b>
  Afbeeldingen:
      </b>
      JPEG, PNG, BMP, SVG, TIFF, EMF, GIF
+    </li>
+    <li>
+     <b>
+ Anderen:
+     </b>
+ MARKDOWN, SQL, XTHML
     </li>
    </ul>
   </div>
@@ -375,14 +387,14 @@ Aspose.Cells for .NET is een Excel Spreadsheet-programmering API om het spreadsh
     <em class="fa fa-support ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-Ondersteuning voor CSV (door komma's gescheiden waarden) &amp; TSV (door tabs gescheiden waarden)
+ Ondersteuning voor CSV (door komma's gescheiden waarden) &amp; TSV (door tabs gescheiden waarden)
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-commenting ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Creëer &amp; opmerkingen manipuleren
+Creëer &amp; opmerkingen manipuleren
     </p>
    </div>
    <div class="col-lg-4">
@@ -438,7 +450,7 @@ Ondersteuning voor CSV (door komma's gescheiden waarden) &amp; TSV (door tabs ge
     <em class="fa fa-file-code-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Wijzig VBA-code of macro's in het sjabloonbestand
+Wijzig VBA-code of macro's in het sjabloonbestand
     </p>
    </div>
    <div class="col-lg-4">
@@ -457,7 +469,7 @@ Ondersteuning voor CSV (door komma's gescheiden waarden) &amp; TSV (door tabs ge
     </p>
     <div class="codeblock" id="code">
      <h3>
-Sla spreadsheet op in verschillende formaten - C#
+ Sla spreadsheet op in verschillende formaten - C#
      </h3>
      <pre><code class="cs">// load file to be converted
 
@@ -479,7 +491,7 @@ workbook.Save(dir + "output.html", Aspose.Cells.SaveFormat.Html);</code></pre>
  Visualiseer gegevens met opmaak, grafieken enamp; Grafisch
     </h2>
     <p>
- Aspose.Cells for .NET geeft u alle vrijheid en flexibiliteit om uw spreadsheets te voorzien van allerlei visuele effecten. Met de API kunt u verschillende lettertypen toepassen met attributen, celstijlen (uitlijning, inspringing, rotatie, randen, arcering en kleur, bescherming, tekstterugloop en verkleinen) en alle soorten getalformaten.
+Aspose.Cells for .NET geeft u alle vrijheid en flexibiliteit om uw spreadsheets te voorzien van allerlei visuele effecten. Met de API kunt u verschillende lettertypen toepassen met attributen, celstijlen (uitlijning, inspringing, rotatie, randen, arcering en kleur, bescherming, tekstterugloop en verkleinen) en alle soorten getalformaten.
     </p>
     <p>
  Op dezelfde manier zijn diagrammen en afbeeldingen visueel aantrekkelijk en kunnen ze uw spreadsheet een professionele uitstraling geven. Aspose.Cells for .NET biedt een uitgebreide set API's voor het maken en manipuleren van alle standaard- en aangepaste diagramtypen. Bovendien kunt u verschillende soorten tekenobjecten, zoals opmerkingen, afbeeldingen, OLE-objecten, vormen en besturingselementen, aan de cellen toevoegen
@@ -574,7 +586,7 @@ Aspose.Cells for .NET biedt GUI-besturingselementen voor web- enamp; desktop-app
 
 {{< blocks/products/pf/testimonials-quote >}}
 <p class="first">
- Als softwareservicebedrijf begrijpen we hoe belangrijk klantenservice is bij het werken met klanten. Ik ben blij om te zien dat Aspose deze waarde met ons deelt. Aspose.Cells is een uitstekend hulpmiddel en heeft een aanzienlijk snelheidsvoordeel ten opzichte van VBA.
+Als softwareservicebedrijf begrijpen we hoe belangrijk klantenservice is bij het werken met klanten. Ik ben blij om te zien dat Aspose deze waarde met ons deelt. Aspose.Cells is een uitstekend hulpmiddel en heeft een aanzienlijk snelheidsvoordeel ten opzichte van VBA.
  <em>
  Paul Katz | Intersoft, VS
  </em>
@@ -583,7 +595,7 @@ Aspose.Cells for .NET biedt GUI-besturingselementen voor web- enamp; desktop-app
 
 {{< blocks/products/pf/testimonials-quote >}}
 <p class="second">
-De productsuite en ondersteuning van Aspose zijn ongeëvenaard. Zonder deze oplossing hadden we niet kunnen doen wat we deden.
+ De productsuite en ondersteuning van Aspose zijn ongeëvenaard. Zonder deze oplossing hadden we niet kunnen doen wat we deden.
  <em>
  Dr. Dan Patterson | Acumen, VK
  </em>

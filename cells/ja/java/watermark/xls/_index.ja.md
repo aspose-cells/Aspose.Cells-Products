@@ -12,11 +12,7 @@ keywords: [Java Aspose.Cells., Java add watermark to xls file., Java insert wate
 
 {{% blocks/products/pf/agp/content h2="Javaを使用してXLSファイルに透かしを入れる方法" %}}
 
-XLS ファイルに透かしを入れるには、次を使用します。
- [Aspose.Cells for Java](https://products.aspose.com/cells/java) 
- API は、機能が豊富で強力で使いやすい透かし API for Java プラットフォームです。最新バージョンはから直接ダウンロードできます。
- [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) 
-次の構成を pom.xml に追加して、Maven ベースのプロジェクト内にインストールします。
+XLS ファイルに透かしを入れるには、次を使用します。[Aspose.Cells for Java](https://products.aspose.com/cells/java) API は、機能が豊富で強力で使いやすい透かし API for Java プラットフォームです。最新バージョンはから直接ダウンロードできます。[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells)次の構成を pom.xml に追加して、Maven ベースのプロジェクト内にインストールします。
 
 {{% blocks/products/pf/agp/code-block title="リポジトリ" offSpacer="true" %}}
 
@@ -68,7 +64,7 @@ XLS ファイルに透かしを入れるには、次を使用します。
 
 {{% blocks/products/pf/agp/text %}}
 
-Aspose.Cells for Java は、すべての主要なプラットフォームとオペレーティング システムでサポートされています。次の前提条件を満たしていることを確認してください。
+ Aspose.Cells for Java は、すべての主要なプラットフォームとオペレーティング システムでサポートされています。次の前提条件を満たしていることを確認してください。
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -148,6 +144,7 @@ workbook.save(dataDir + "AWArtWToWorksheet_out.xls");
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/watermark/ods/" name="ODS" description="OpenDocument スプレッドシート ファイル" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/watermark/xlsb/" name="XLSB" description="バイナリ Excel ワークブック ファイル" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/watermark/xlsm/" name="XLSM" description="スプレッドシート ファイル" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/watermark/xlsx/" name="XLSX" description="OOXML Excel ファイル" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

@@ -12,13 +12,8 @@ keywords: [C# Aspose.Cells., c# Extract text and images from XLS file., c# How t
 
 {{% blocks/products/pf/agp/content h2="Jak analyzovat soubor XLS pomocí C#" %}}
 
- Abychom mohli analyzovat soubor XLS, použijeme
- [Aspose.Cells for .NET](https://products.aspose.com/cells/net) 
- API, což je funkčně bohatá, výkonná a snadno použitelná manipulace s dokumenty API pro platformu C#. OTEVŘENO
- [NuGet](https://www.nuget.org/packages/aspose.cells) 
- správce balíčků, vyhledejte
- **Aspose.Cells** 
- a nainstalovat. Můžete také použít následující příkaz z konzoly Správce balíčků.
+ Abychom mohli analyzovat soubor XLS, použijeme[Aspose.Cells for .NET](https://products.aspose.com/cells/net) API, což je funkčně bohatá, výkonná a snadno použitelná manipulace s dokumenty API pro platformu C#. OTEVŘENO[NuGet](https://www.nuget.org/packages/aspose.cells) správce balíčků, vyhledejte
+ **Aspose.Cells** a nainstalovat. Můžete také použít následující příkaz z konzoly Správce balíčků.
 
 {{% blocks/products/pf/agp/code-block title="Příkaz" offSpacer="true" %}}
 
@@ -38,9 +33,7 @@ PM> Install-Package Aspose.Cells
 
 {{% blocks/products/pf/agp/text %}}
 
- Základní analýza dokumentu s
- [Aspose.Cells for .NET](https://products.aspose.com/cells/net) 
- Rozhraní API lze vytvořit pomocí několika řádků kódu. Analyzujte text a obrázky ze souborů Microsoft Excel XLS, XLSX, XLSM, XLSB a OpenDocument ODS.
+ Základní analýza dokumentu s[Aspose.Cells for .NET](https://products.aspose.com/cells/net)Rozhraní API lze vytvořit pomocí několika řádků kódu. Analyzujte text a obrázky ze souborů Microsoft Excel XLS, XLSX, XLSM, XLSB a OpenDocument ODS.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -56,7 +49,7 @@ PM> Install-Package Aspose.Cells
 
 {{% blocks/products/pf/agp/text %}}
 
- Naše API jsou podporována na všech hlavních platformách a operačních systémech. Před spuštěním níže uvedeného kódu se prosím ujistěte, že máte ve svém systému následující předpoklady.
+Naše API jsou podporována na všech hlavních platformách a operačních systémech. Před spuštěním níže uvedeného kódu se prosím ujistěte, že máte ve svém systému následující předpoklady.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -115,7 +108,7 @@ PM> Install-Package Aspose.Cells
 
     {{< blocks/products/pf/agp/about-file-section >}}
 
-        {{< blocks/products/pf/agp/demobox sectionTitle="Online XLS Živá ukázka parseru" sectionDescription=" Extrahujte text a obrázky z XLS dokumentů právě teď tím, že navštívíte naše[Webová stránka živé ukázky](https://products.aspose.app/cells/parser). Živé demo má následující výhody" >}}
+        {{< blocks/products/pf/agp/demobox sectionTitle="Online XLS Živá ukázka parseru" sectionDescription="Extrahujte text a obrázky z XLS dokumentů právě teď tím, že navštívíte naše[Webová stránka živé ukázky](https://products.aspose.app/cells/parser). Živé demo má následující výhody" >}}
             {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Není třeba stahovat Aspose API." >}}
             {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Není třeba psát žádný kód." >}}
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Stačí nahrát své soubory XLS." >}}
@@ -135,6 +128,7 @@ Soubory s příponou XLS představují binární formát souboru Excel. Takové 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/parser/ods/" name="ODS" description="Soubor tabulkového procesoru OpenDocument" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/parser/xlsb/" name="XLSB" description="Binární soubor sešitu Excel" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/parser/xlsm/" name="XLSM" description="Soubor tabulky" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/parser/xlsx/" name="XLSX" description="Soubor Excel OOXML" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

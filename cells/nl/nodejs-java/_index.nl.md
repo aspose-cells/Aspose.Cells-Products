@@ -4,7 +4,7 @@ weight: 3120
 description: Verwerk Excel-bestandsformaten via de Node.js-bibliotheek. Lezen, schrijven, renderen en converteren XLS XLSX XLSB XLTX XLTM XLSM XML ODS CSV en meer formaten via Node.js op Windows, macOS en Linux
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="Node.js Excel-bestandsindeling-API\'s" h2="Genereer, wijzig, converteer en render Excel-spreadsheets met Node.js zonder dat u Microsoft Excel nodig hebt." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/headers/aspose_cells-for-nodejs-java.svg" pfName="Aspose.Cells" subTitlepfName="for Node.js via Java" downloadUrl="https://downloads.aspose.com/cells/nodejs" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="Node.js Excel-bestandsindeling-API\'s" h2="Genereer, wijzig, converteer en render Excel-spreadsheets met Node.js zonder dat u Microsoft Excel nodig heeft." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/headers/aspose_cells-for-nodejs-java.svg" pfName="Aspose.Cells" subTitlepfName="for Node.js via Java" downloadUrl="https://downloads.aspose.com/cells/nodejs" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells" subTitlepfName="for Node.js via Java" >}}
 
@@ -12,11 +12,11 @@ description: Verwerk Excel-bestandsformaten via de Node.js-bibliotheek. Lezen, s
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
- Aspose.Cells for Node.js via Java is een veelzijdige en schaalbare API om Excel-spreadsheets te verwerken met Node.js. API biedt conversie van Excel-bestandsindelingen, styling van werkbladen tot het meest gedetailleerde niveau, het maken van grafieken en het maken van grafieken. weergave, betrouwbare formuleberekeningsengine en nog veel meer.
+Aspose.Cells for Node.js via Java is een veelzijdige en schaalbare API om Excel-spreadsheets te verwerken met Node.js. API biedt conversie van Excel-bestandsindelingen, styling van werkbladen tot het meest gedetailleerde niveau, het maken van grafieken en het maken van grafieken. weergave, betrouwbare formuleberekeningsengine en nog veel meer.
 </p>
 
 <p>
-Aspose.Cells for Node.js via Java ondersteunt de meeste populaire spreadsheetformaten, waaronder XLS, XLSX, ODS, SpreadsheetML, CSV, TSC &amp; HTML.
+ Aspose.Cells for Node.js via Java ondersteunt de meeste populaire spreadsheetformaten, waaronder XLS, XLSX, ODS, SpreadsheetML, CSV, TSC &amp; HTML.
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
@@ -171,7 +171,7 @@ Aspose.Cells for Node.js via Java ondersteunt de meeste populaire spreadsheetfor
      <b>
  Microsoft Excel:
      </b>
- XLS, XLSX, XLSB, XLTX, XLTM, XLSM, XML
+ XLS, XLSX, XLSB, XLT, XLTX, XLTM, XLSM, XML, OTS
     </li>
     <li>
      <b>
@@ -183,13 +183,25 @@ Aspose.Cells for Node.js via Java ondersteunt de meeste populaire spreadsheetfor
      <b>
  Tekst:
      </b>
- CSV, door tabs gescheiden, TXT
+     CSV, TSV, JSON
     </li>
     <li>
      <b>
  Web:
      </b>
      HTML, MHTML
+    </li>
+    <li>
+     <b>
+      Numbers:
+     </b>
+ Apple's iWork office suite Numbers app-documenten
+    </li>
+    <li>
+     <b>
+ Anderen:
+     </b>
+ SXC, FODS, EPUB
     </li>
    </ul>
   </div>
@@ -198,20 +210,32 @@ Aspose.Cells for Node.js via Java ondersteunt de meeste populaire spreadsheetfor
    <header>
     <i class="fa fa-mail-forward">
     </i>
- Alleen uitvoer
+Alleen uitvoer
    </header>
    <ul>
     <li>
      <b>
  Vaste indeling:
      </b>
-     PDF, XPS
+ PDF, PDF/A, XPS
     </li>
+    <li>
+     <b>
+ Gegevensuitwisseling:
+     </b>
+     DIF
+    </li>    
     <li>
      <b>
  Afbeeldingen:
      </b>
-     JPEG, PNG, BMP, SVG, TIFF, GIF, EMF
+     JPEG, PNG, BMP, SVG, TIFF, EMF, GIF
+    </li>
+    <li>
+     <b>
+ Anderen:
+     </b>
+ MARKDOWN, SQL, XTHML
     </li>
    </ul>
   </div>
@@ -269,7 +293,7 @@ Aspose.Cells for Node.js via Java ondersteunt de meeste populaire spreadsheetfor
     <em class="fa fa-commenting ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-Creëer &amp; manipuleer opmerkingen &amp; hyperlinks
+ Creëer &amp; manipuleer opmerkingen &amp; hyperlinks
     </p>
    </div>
    <div class="col-lg-4">
@@ -319,7 +343,7 @@ Creëer &amp; manipuleer opmerkingen &amp; hyperlinks
  Excel-spreadsheets renderen
     </h2>
     <p>
- Aspose.Cells for Node.js via Java gebruikt de rendering-engine voor weergave naar de Microsoft Excel met de hoogste betrouwbaarheid. Terwijl u de Excel Processing-bibliotheek van Node.js gebruikt, kunt u hele werkbladen, individuele bestanden of grafieken converteren naar meerdere afbeeldingen en formaten met een vaste lay-out.
+Aspose.Cells for Node.js via Java gebruikt de rendering-engine voor weergave naar de Microsoft Excel met de hoogste betrouwbaarheid. Terwijl u de Excel Processing-bibliotheek van Node.js gebruikt, kunt u hele werkbladen, individuele bestanden of grafieken converteren naar meerdere afbeeldingen en formaten met een vaste lay-out.
     </p>
    </div>
    <div class="col-lg-12">
@@ -327,7 +351,7 @@ Creëer &amp; manipuleer opmerkingen &amp; hyperlinks
  Flexibele weergaveopties
     </h2>
     <p>
-Aspose.Cells for Node.js via Java biedt volledige controle over de pagina-instellingen van het werkblad. U kunt de weergaveopties van het werkblad manipuleren, zoals paginaoriëntatie, pauzes, grootte, schaal, kopteksten, voetteksten en zoomniveau. Bovendien kunnen ontwikkelaars de zichtbaarheid van de gegevens controleren met behulp van printgebieden en vastgezette vensters, zodat ze aan de toepassingsspecificaties voldoen.
+ Aspose.Cells for Node.js via Java biedt volledige controle over de pagina-instellingen van het werkblad. U kunt de weergaveopties van het werkblad manipuleren, zoals paginaoriëntatie, pauzes, grootte, schaal, kopteksten, voetteksten en zoomniveau. Bovendien kunnen ontwikkelaars de zichtbaarheid van de gegevens controleren met behulp van printgebieden en vastgezette vensters, zodat ze aan de toepassingsspecificaties voldoen.
     </p>
    </div>
    <div class="col-lg-12">
@@ -343,12 +367,12 @@ Aspose.Cells for Node.js via Java biedt volledige controle over de pagina-instel
  Manipuleer rijen en Kolommen
     </h2>
     <p>
- Met Aspose.Cells for Node.js via Java kunt u rijen en kolommen op veel verschillende manieren manipuleren. U kunt de rijhoogte eenvoudig aanpassen &amp; kolombreedte, de cellen automatisch aanpassen aan de inhoud, invoegen &amp; verwijderen, verbergen &amp; zowel verbergen als groeperen &amp; rijen degroeperen &amp; kolommen.
+Met Aspose.Cells for Node.js via Java kunt u rijen en kolommen op veel verschillende manieren manipuleren. U kunt de rijhoogte eenvoudig aanpassen &amp; kolombreedte, de cellen automatisch aanpassen aan de inhoud, invoegen &amp; verwijderen, verbergen &amp; zowel verbergen als groeperen &amp; rijen degroeperen &amp; kolommen.
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-Uitgebreide ondersteuning voor werkbladopmaak
+ Uitgebreide ondersteuning voor werkbladopmaak
     </h2>
     <p>
  Aspose.Cells for Node.js via Java biedt geavanceerde opmaakfuncties waarmee u de presentatie van uw gegevens kunt beheren. U kunt opmaak toepassen op een werkblad, kolom, rij of cel of Rich Text aan een enkele cel toevoegen, randen toepassen, achtergrondpatronen en lettertypestyling instellen. De API maakt het ook mogelijk om toe te voegen, te manipuleren &amp; bereken voorwaardelijke opmaakregels direct.
@@ -359,7 +383,7 @@ Uitgebreide ondersteuning voor werkbladopmaak
  Grafieken maken, manipulatie &amp; Weergave
     </h2>
     <p>
- Aspose.Cells for Node.js via Java biedt volledige ondersteuning voor het in kaart brengen. U kunt eenvoudig aangepaste of standaardgrafieken toevoegen met behulp van API en de gegevens dynamisch instellen om de grafieken te vernieuwen.
+Aspose.Cells for Node.js via Java biedt volledige ondersteuning voor het in kaart brengen. U kunt eenvoudig aangepaste of standaardgrafieken toevoegen met behulp van API en de gegevens dynamisch instellen om de grafieken te vernieuwen.
     </p>
    </div>
   </div>

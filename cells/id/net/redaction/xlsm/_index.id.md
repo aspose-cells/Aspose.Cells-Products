@@ -1,7 +1,7 @@
 ---
 title:  Cari dan ganti teks di dokumen XLSM via .NET
 weight: 2370
-description: Kode sumber C# untuk menyunting informasi sensitif dalam file XLSM di Kerangka .NET, .NET Core, Mono atau Platform Xamarin.
+description: Kode sumber C# untuk menyunting informasi sensitif dalam file XLSM di Kerangka .NET, Inti .NET, Mono atau Platform Xamarin.
 keywords: [C# Aspose.Cells., c# Search and replace text in XLSM file., c# redact XLSM file., c# edit XLSM file., c# XLSM file redaction., c# Search and replace string in XLSM file]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -12,13 +12,7 @@ keywords: [C# Aspose.Cells., c# Search and replace text in XLSM file., c# redact
 
 {{% blocks/products/pf/agp/content h2="Cara Redaksi File XLSM Menggunakan C#" %}}
 
- Untuk menyunting file XLSM, kami akan menggunakan
- [Aspose.Cells for .NET](https://products.aspose.com/cells/net) 
- API yang merupakan manipulasi dokumen yang kaya fitur, kuat dan mudah digunakan API untuk platform C#. Membuka
- [NuGet](https://www.nuget.org/packages/aspose.cells) 
- manajer paket, cari
- **Aspose.Cells** 
- dan instal. Anda juga dapat menggunakan perintah berikut dari Package Manager Console.
+ Untuk menyunting file XLSM, kami akan menggunakan[Aspose.Cells for .NET](https://products.aspose.com/cells/net) API yang merupakan manipulasi dokumen yang kaya fitur, kuat dan mudah digunakan API untuk platform C#. Membuka[NuGet](https://www.nuget.org/packages/aspose.cells) manajer paket, cari**Aspose.Cells** dan instal. Anda juga dapat menggunakan perintah berikut dari Package Manager Console.
 
 {{% blocks/products/pf/agp/code-block title="Memerintah" offSpacer="true" %}}
 
@@ -38,9 +32,7 @@ PM> Install-Package Aspose.Cells
 
 {{% blocks/products/pf/agp/text %}}
 
- Pencarian dokumen dasar dan mengganti teks dalam konten, komentar atau metadata dengan
- [Aspose.Cells for .NET](https://products.aspose.com/cells/net) 
- API dapat dilakukan hanya dengan beberapa baris kode.
+ Pencarian dokumen dasar dan mengganti teks dalam konten, komentar atau metadata dengan[Aspose.Cells for .NET](https://products.aspose.com/cells/net) API dapat dilakukan hanya dengan beberapa baris kode.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -57,7 +49,7 @@ PM> Install-Package Aspose.Cells
 
 {{% blocks/products/pf/agp/text %}}
 
- API kami didukung di semua platform dan Sistem Operasi utama. Sebelum menjalankan kode di bawah ini, pastikan Anda memiliki prasyarat berikut di sistem Anda.
+API kami didukung di semua platform dan Sistem Operasi utama. Sebelum menjalankan kode di bawah ini, pastikan Anda memiliki prasyarat berikut di sistem Anda.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -122,7 +114,7 @@ wb.Save("e:\test2\output.xlsm");
             {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Tidak perlu download Aspose API." >}}
             {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Tidak perlu menulis kode apa pun." >}}
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Cukup unggah file XLSM Anda." >}}
-            {{< blocks/products/pf/agp/democard icon="fa-download" text="Itu akan segera disunting." >}}
+            {{< blocks/products/pf/agp/democard icon="fa-download" text=" Itu akan segera disunting." >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLSM" readMoreLink="https://docs.fileformat.com/spreadsheet/xlsm/" >}}
 File dengan ekstensi XLSM merupakan jenis file Spreadsheet yang mendukung Makro. Dari sudut pandang aplikasi, Makro adalah kumpulan instruksi yang digunakan untuk mengotomatisasi proses. Makro digunakan untuk mencatat langkah-langkah yang dilakukan berulang kali dan memfasilitasi pelaksanaan tindakan dengan menjalankan kembali makro. Makro diprogram dengan Visual Basic for Applications (VBA) Microsoft dari dalam Buku Kerja Excel menggunakan Editor Visual Basic dan dapat dijalankan/debug langsung dari sana.
@@ -138,6 +130,7 @@ File dengan ekstensi XLSM merupakan jenis file Spreadsheet yang mendukung Makro.
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/redaction/ods/" name="ODS" description="File Lembar Bentang OpenDocument" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/redaction/xls/" name="XLS" description="Format Biner Excel" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/redaction/xlsb/" name="XLSB" description="File Buku Kerja Excel Biner" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/redaction/xlsx/" name="XLSX" description="Berkas OOXML Excel" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

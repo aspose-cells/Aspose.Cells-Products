@@ -12,13 +12,7 @@ keywords: [C# Aspose.Cells., c# Search and replace text in XLS file., c# redact 
 
 {{% blocks/products/pf/agp/content h2="So schwärzen Sie die Datei XLS mit C#" %}}
 
- Um die Datei XLS zu redigieren, verwenden wir
- [Aspose.Cells for .NET](https://products.aspose.com/cells/net) 
- API, eine funktionsreiche, leistungsstarke und benutzerfreundliche Plattform zur Dokumentbearbeitung API für C#. Offen
- [NuGet](https://www.nuget.org/packages/aspose.cells) 
- Paketmanager, suchen Sie nach
- **Aspose.Cells** 
- und installieren. Sie können auch den folgenden Befehl über die Paket-Manager-Konsole verwenden.
+ Um die Datei XLS zu redigieren, verwenden wir[Aspose.Cells for .NET](https://products.aspose.com/cells/net) API, eine funktionsreiche, leistungsstarke und benutzerfreundliche Plattform zur Dokumentbearbeitung API für C#. Offen[NuGet](https://www.nuget.org/packages/aspose.cells) Paketmanager, suchen Sie nach**Aspose.Cells** und installieren. Sie können auch den folgenden Befehl über die Paket-Manager-Konsole verwenden.
 
 {{% blocks/products/pf/agp/code-block title="Befehl" offSpacer="true" %}}
 
@@ -38,9 +32,7 @@ PM> Install-Package Aspose.Cells
 
 {{% blocks/products/pf/agp/text %}}
 
- Eine einfache Dokumentsuche und das Ersetzen von Text in Inhalten, Kommentaren oder Metadaten mit
- [Aspose.Cells for .NET](https://products.aspose.com/cells/net) 
- APIs können mit nur wenigen Codezeilen erstellt werden.
+ Eine einfache Dokumentsuche und das Ersetzen von Text in Inhalten, Kommentaren oder Metadaten mit[Aspose.Cells for .NET](https://products.aspose.com/cells/net) APIs können mit nur wenigen Codezeilen erstellt werden.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -57,7 +49,7 @@ PM> Install-Package Aspose.Cells
 
 {{% blocks/products/pf/agp/text %}}
 
- Unsere APIs werden auf allen wichtigen Plattformen und Betriebssystemen unterstützt. Bevor Sie den folgenden Code ausführen, stellen Sie bitte sicher, dass auf Ihrem System die folgenden Voraussetzungen erfüllt sind.
+Unsere APIs werden auf allen wichtigen Plattformen und Betriebssystemen unterstützt. Bevor Sie den folgenden Code ausführen, stellen Sie bitte sicher, dass auf Ihrem System die folgenden Voraussetzungen erfüllt sind.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -122,7 +114,7 @@ wb.Save("e:\test2\output.xls");
             {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Aspose API muss nicht heruntergeladen werden." >}}
             {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Es ist nicht nötig, Code zu schreiben." >}}
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Laden Sie einfach Ihre XLS-Dateien hoch." >}}
-            {{< blocks/products/pf/agp/democard icon="fa-download" text="Es wird sofort geschwärzt." >}}
+            {{< blocks/products/pf/agp/democard icon="fa-download" text=" Es wird sofort geschwärzt." >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLS" readMoreLink="https://docs.fileformat.com/spreadsheet/xls/" >}}
 Dateien mit der Erweiterung XLS repräsentieren das Excel-Binärdateiformat. Solche Dateien können mit Microsoft Excel sowie anderen ähnlichen Tabellenkalkulationsprogrammen wie OpenOffice Calc oder Apple Numbers erstellt werden. Die von Excel gespeicherte Datei wird als Arbeitsmappe bezeichnet, wobei jede Arbeitsmappe ein oder mehrere Arbeitsblätter enthalten kann. Daten werden im Tabellenformat im Arbeitsblatt gespeichert und den Benutzern angezeigt und können numerische Werte, Textdaten, Formeln, externe Datenverbindungen, Bilder und Diagramme umfassen. Mit Anwendungen wie Microsoft Excel können Sie Arbeitsmappendaten in verschiedene Formate exportieren, darunter PDF, CSV, XLSX, TXT, HTML, XPS und mehrere andere. Das Dateiformat XLS wurde mit der Veröffentlichung von Microsoft Excel 2007 durch ein offeneres und strukturierteres Format, XLSX, ersetzt. Die neuesten Versionen unterstützen weiterhin das Erstellen und Lesen von XLS-Dateien, obwohl XLSX jetzt die erste Wahl ist.
@@ -138,6 +130,7 @@ Dateien mit der Erweiterung XLS repräsentieren das Excel-Binärdateiformat. Sol
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/redaction/ods/" name="ODS" description="OpenDocument-Tabellenkalkulationsdatei" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/redaction/xlsb/" name="XLSB" description="Binäre Excel-Arbeitsmappendatei" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/redaction/xlsm/" name="XLSM" description="Tabellenkalkulationsdatei" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/redaction/xlsx/" name="XLSX" description="OOXML-Excel-Datei" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

@@ -13,7 +13,7 @@ keywords: [Python Aspose.Cells Create parse repair merge convert JSON Excel XML 
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
-Aspose.Cells for Python via Java یک API سریع و قابل اعتماد برای وظایف پردازش صفحه گسترده است. توسعه دهندگان می توانند صفحات گسترده ساده یا پیچیده ایجاد کنند، اطلاعات را از فایل های اکسل دستکاری و استخراج کنند. API چندین فرمت اکسل را می خواند و می تواند کاربرگ ها را به XPS، PDF، MHTML، HTML، متن ساده، تصاویر و موارد دیگر ارائه دهد. این بهترین راه حل برای خودکار کردن گزارش های اکسل با استفاده از پایتون است.
+ Aspose.Cells for Python via Java یک API سریع و قابل اعتماد برای وظایف پردازش صفحه گسترده است. توسعه دهندگان می توانند صفحات گسترده ساده یا پیچیده ایجاد کنند، اطلاعات را از فایل های اکسل دستکاری و استخراج کنند. API چندین فرمت اکسل را می خواند و می تواند کاربرگ ها را به XPS، PDF، MHTML، HTML، متن ساده، تصاویر و موارد دیگر ارائه دهد. این بهترین راه حل برای خودکار کردن گزارش های اکسل با استفاده از پایتون است.
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
@@ -38,7 +38,7 @@ Aspose.Cells for Python via Java یک API سریع و قابل اعتماد بر
  مجموعه نتیجه
     </li>
     <li>
-مجموعه ها
+ مجموعه ها
     </li>
    </ul>
    <header>
@@ -76,7 +76,7 @@ Aspose.Cells for Python via Java یک API سریع و قابل اعتماد بر
  نمودارها را ایجاد کنید
     </li>
     <li>
- خلاصه کنید
+خلاصه کنید
     </li>
     <li>
  نشانگرهای هوشمند
@@ -159,7 +159,7 @@ Aspose.Cells for Python via Java یک API سریع و قابل اعتماد بر
      <b>
  Microsoft اکسل:
      </b>
- XLS, XLSX, XLSB, XLTX, XLTM, XLSM, XML
+ XLS, XLSX, XLSB, XLT, XLTX, XLTM, XLSM, XML, OTS
     </li>
     <li>
      <b>
@@ -171,13 +171,25 @@ Aspose.Cells for Python via Java یک API سریع و قابل اعتماد بر
      <b>
  متن:
      </b>
-     CSV, TSV, TXT
+     CSV, TSV, JSON
     </li>
     <li>
      <b>
  وب:
      </b>
      HTML, MHTML
+    </li>
+    <li>
+     <b>
+      Numbers:
+     </b>
+ اسناد برنامه Numbers مجموعه اداری iWork اپل
+    </li>
+    <li>
+     <b>
+ دیگران:
+     </b>
+ SXC, FODS, EPUB
     </li>
    </ul>
   </div>
@@ -186,7 +198,7 @@ Aspose.Cells for Python via Java یک API سریع و قابل اعتماد بر
    <header>
     <i class="fa fa-mail-forward">
     </i>
- فقط خروجی
+فقط خروجی
    </header>
    <ul>
     <li>
@@ -197,9 +209,21 @@ Aspose.Cells for Python via Java یک API سریع و قابل اعتماد بر
     </li>
     <li>
      <b>
+ تبادل داده ها:
+     </b>
+     DIF
+    </li>    
+    <li>
+     <b>
  تصاویر:
      </b>
-     JPEG, PNG, BMP, SVG, EMF
+     JPEG, PNG, BMP, SVG, TIFF, EMF, GIF
+    </li>
+    <li>
+     <b>
+ دیگران:
+     </b>
+ MARKDOWN، SQL، XTHML
     </li>
    </ul>
   </div>
@@ -306,7 +330,7 @@ Aspose.Cells for Python via Java یک API سریع و قابل اعتماد بر
     <em class="fa fa-object-ungroup ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-گروه بندی را به سطرها و ستون ها اضافه یا حذف کنید
+ گروه بندی را به سطرها و ستون ها اضافه یا حذف کنید
     </p>
    </div>
    <div class="col-lg-4">
@@ -416,11 +440,11 @@ Aspose.Cells for Python via Java یک API سریع و قابل اعتماد بر
  تبدیل فرمت های چندگانه
     </h2>
     <p>
- Python کتابخانه اکسل تبدیل فایل های اکسل به PDF، XPS و amp; فرمت های HTML. تبدیل قابل اعتماد API آن را به یک راه حل عالی برای شرکت هایی تبدیل می کند که نیاز به تبادل فایل ها در فرمت های استاندارد صنعتی دارند.
+Python کتابخانه اکسل تبدیل فایل های اکسل به PDF، XPS و amp; فرمت های HTML. تبدیل قابل اعتماد API آن را به یک راه حل عالی برای شرکت هایی تبدیل می کند که نیاز به تبادل فایل ها در فرمت های استاندارد صنعتی دارند.
     </p>
     <div class="codeblock" id="code">
      <h3>
-ذخیره صفحه گسترده در فرمت های مختلف - Java
+ ذخیره صفحه گسترده در فرمت های مختلف - Java
      </h3>
      <pre><code class="java">
 // load file to be converted
@@ -489,7 +513,7 @@ wkbk.save(SD_PATH + "houtput.html", SaveFormat.HTML);</code></pre>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-سفارشی سازی نمودارها
+ سفارشی سازی نمودارها
     </h2>
     <p>
 Aspose.Cells for Python via Java پشتیبانی کامل از نمودار را فراهم می کند. می توان به راحتی نمودارهای استاندارد و سفارشی شده را اضافه کرد یا داده های نمودار را به صورت پویا تنظیم کرد تا نمودار را در این کتابخانه پایتون به روز کند.

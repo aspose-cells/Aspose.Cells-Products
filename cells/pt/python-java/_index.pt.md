@@ -13,7 +13,7 @@ keywords: [Python Aspose.Cells Create parse repair merge convert JSON Excel XML 
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
-Aspose.Cells for Python via Java é um API rápido e confiável para tarefas de processamento de planilhas. Os desenvolvedores podem criar planilhas simples ou complexas, manipular e extrair informações de arquivos Excel. API lê vários formatos Excel e pode renderizar planilhas para XPS, PDF, MHTML, HTML, texto simples, imagens e muito mais. É a melhor solução para automatizar relatórios Excel usando python.
+ Aspose.Cells for Python via Java é um API rápido e confiável para tarefas de processamento de planilhas. Os desenvolvedores podem criar planilhas simples ou complexas, manipular e extrair informações de arquivos Excel. API lê vários formatos Excel e pode renderizar planilhas para XPS, PDF, MHTML, HTML, texto simples, imagens e muito mais. É a melhor solução para automatizar relatórios Excel usando python.
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
@@ -38,7 +38,7 @@ Aspose.Cells for Python via Java é um API rápido e confiável para tarefas de 
  Conjunto de resultados
     </li>
     <li>
-Coleções
+ Coleções
     </li>
    </ul>
    <header>
@@ -76,7 +76,7 @@ Coleções
  Criar gráficos
     </li>
     <li>
- Resumir
+Resumir
     </li>
     <li>
  Marcadores inteligentes
@@ -145,7 +145,7 @@ Coleções
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Formatos de arquivo suportados" description="A biblioteca Python Excel suporta os populares formatos Microsoft Excel, formatos de layout fixo e imagens." >}}
+{{< blocks/products/pf/carousel-item h3="Formatos de arquivo suportados" description="biblioteca Python Excel suporta os populares formatos Microsoft Excel, formatos de layout fixo e imagens." >}}
 <div class="diagram1 d2 d1-python">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -159,7 +159,7 @@ Coleções
      <b>
  Microsoft Excel:
      </b>
- XLS, XLSX, XLSB, XLTX, XLTM, XLSM, XML
+ XLS, XLSX, XLSB, XLT, XLTX, XLTM, XLSM, XML, OTS
     </li>
     <li>
      <b>
@@ -171,13 +171,25 @@ Coleções
      <b>
  Texto:
      </b>
-     CSV, TSV, TXT
+     CSV, TSV, JSON
     </li>
     <li>
      <b>
  Rede:
      </b>
      HTML, MHTML
+    </li>
+    <li>
+     <b>
+      Numbers:
+     </b>
+ Documentos do aplicativo iWork office suite Numbers da Apple
+    </li>
+    <li>
+     <b>
+ Outros:
+     </b>
+ SXC, FODS, EPUB
     </li>
    </ul>
   </div>
@@ -186,7 +198,7 @@ Coleções
    <header>
     <i class="fa fa-mail-forward">
     </i>
- Somente saída
+Somente saída
    </header>
    <ul>
     <li>
@@ -197,9 +209,21 @@ Coleções
     </li>
     <li>
      <b>
+ Intercâmbio de dados:
+     </b>
+     DIF
+    </li>    
+    <li>
+     <b>
  Imagens:
      </b>
-     JPEG, PNG, BMP, SVG, EMF
+     JPEG, PNG, BMP, SVG, TIFF, EMF, GIF
+    </li>
+    <li>
+     <b>
+ Outros:
+     </b>
+ MARKDOWN,SQL,XTHML
     </li>
    </ul>
   </div>
@@ -306,7 +330,7 @@ Coleções
     <em class="fa fa-object-ungroup ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-Adicionar ou remover agrupamento de linhas e colunas
+ Adicionar ou remover agrupamento de linhas e colunas
     </p>
    </div>
    <div class="col-lg-4">
@@ -416,11 +440,11 @@ Adicionar ou remover agrupamento de linhas e colunas
  Conversão de vários formatos
     </h2>
     <p>
- Python A biblioteca Excel fornece conversão de arquivos Excel para PDF, XPS e XPS. HTML formatos. A conversão confiável de API o torna uma solução perfeita para empresas que precisam trocar arquivos em formatos padrão da indústria.
+Python A biblioteca Excel fornece conversão de arquivos Excel para PDF, XPS e XPS. HTML formatos. A conversão confiável de API o torna uma solução perfeita para empresas que precisam trocar arquivos em formatos padrão da indústria.
     </p>
     <div class="codeblock" id="code">
      <h3>
-Salvar planilha em diferentes formatos - Java
+ Salvar planilha em diferentes formatos - Java
      </h3>
      <pre><code class="java">
 // load file to be converted
@@ -489,7 +513,7 @@ wkbk.save(SD_PATH + "houtput.html", SaveFormat.HTML);</code></pre>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-Personalização de gráficos
+ Personalização de gráficos
     </h2>
     <p>
 Aspose.Cells for Python via Java fornece suporte completo para gráficos. É possível adicionar facilmente gráficos padrão e personalizados ou definir dados de gráfico dinamicamente para atualizar o gráfico nesta biblioteca python.

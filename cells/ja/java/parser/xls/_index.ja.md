@@ -1,5 +1,5 @@
 ---
-title: XLS ドキュメント via Java からテキストと画像を抽出します
+title:  XLS ドキュメント via Java からテキストと画像を抽出します
 weight: 3700
 description: JSP/JSF アプリケーションおよびデスクトップ アプリケーション用の Java ランタイム環境の XLS ファイルからテキストと画像を抽出する Java サンプル コード。
 keywords: [Java Aspose.Cells., Java Extract text and images from XLS file., Java How to Parse XLS File., Java Extract text from XLS file., Extract images from XLS file using Java]
@@ -12,11 +12,7 @@ keywords: [Java Aspose.Cells., Java Extract text and images from XLS file., Java
 
 {{% blocks/products/pf/agp/content h2="Javaを使用してXLSファイルを解析する方法" %}}
 
-XLS ファイルを解析するには、次を使用します。
- [Aspose.Cells for Java](https://products.aspose.com/cells/java) 
- API は、機能が豊富で強力で使いやすい、API for Java 解析プラットフォームです。最新バージョンはから直接ダウンロードできます。
- [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) 
-次の構成を pom.xml に追加して、Maven ベースのプロジェクト内にインストールします。
+XLS ファイルを解析するには、次を使用します。[Aspose.Cells for Java](https://products.aspose.com/cells/java) API は、機能が豊富で強力で使いやすい、API for Java 解析プラットフォームです。最新バージョンはから直接ダウンロードできます。[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells)次の構成を pom.xml に追加して、Maven ベースのプロジェクト内にインストールします。
 
 {{% blocks/products/pf/agp/code-block title="リポジトリ" offSpacer="true" %}}
 
@@ -54,13 +50,11 @@ XLS ファイルを解析するには、次を使用します。
 
 {{% blocks/products/pf/agp/text %}}
 
-基本的な文書解析
- [Aspose.Cells for Java](https://products.aspose.com/cells/java) 
-API はわずか数行のコードで実行できます。 Microsoft Excel XLS、XLSX、XLSM、XLSB、OpenDocument ODS ファイルのテキストと画像を解析します。
+基本的な文書解析[Aspose.Cells for Java](https://products.aspose.com/cells/java)API はわずか数行のコードで実行できます。 Microsoft Excel XLS、XLSX、XLSM、XLSB、OpenDocument ODS ファイルのテキストと画像を解析します。
 
 {{% /blocks/products/pf/agp/text %}}
 
-+ Workbook クラスを使用して XLS ドキュメントを読み込みます。
+Workbook クラスを使用して XLS ドキュメントを読み込みます。
 + getWorksheets().get メソッドを使用して必要なシートを選択します。
 + getCells() を使用して、選択したシートのすべてのセルを取得します。
 + 各セルを反復処理し、そのテキストを取得します。
@@ -72,11 +66,11 @@ API はわずか数行のコードで実行できます。 Microsoft Excel XLS�
 
 {{% blocks/products/pf/agp/text %}}
 
-Aspose.Cells for Java は、すべての主要なプラットフォームとオペレーティング システムでサポートされています。次の前提条件を満たしていることを確認してください。
+ Aspose.Cells for Java は、すべての主要なプラットフォームとオペレーティング システムでサポートされています。次の前提条件を満たしていることを確認してください。
 
 {{% /blocks/products/pf/agp/text %}}
 
--  Microsoft Windows、または JSP/JSF アプリケーションおよびデスクトップ アプリケーション用の Java ランタイム環境と互換性のある OS。
+- Microsoft Windows、または JSP/JSF アプリケーションおよびデスクトップ アプリケーション用の Java ランタイム環境と互換性のある OS。
 -  Aspose.Cells for Java の最新バージョンを次から直接入手します。
  [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells)  .
 
@@ -122,7 +116,7 @@ System.out.println(stringBuilder.toString());
 {{< blocks/products/pf/agp/about-file-section >}}
 
     {{< blocks/products/pf/agp/demobox sectionTitle="オンライン XLS パーサー ライブ デモ" sectionDescription="今すぐ XLS ドキュメントからテキストと画像を抽出してください。[ライブデモ Web サイト](https://products.aspose.app/cells/parser)。ライブデモには次の利点があります" >}}
-        {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Aspose API をダウンロードする必要はありません。" >}}
+        {{< blocks/products/pf/agp/democard icon="fa-cogs" text="Aspose API をダウンロードする必要はありません。" >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text="コードを記述する必要はありません。" >}}
         {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" XLS ファイルをアップロードするだけです。" >}}
         {{< blocks/products/pf/agp/democard icon="fa-download" text="即座に解析されます。" >}}
@@ -142,6 +136,7 @@ System.out.println(stringBuilder.toString());
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/parser/ods/" name="ODS" description="OpenDocument スプレッドシート ファイル" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/parser/xlsb/" name="XLSB" description="バイナリ Excel ワークブック ファイル" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/parser/xlsm/" name="XLSM" description="スプレッドシート ファイル" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/parser/xlsx/" name="XLSX" description="OOXML Excel ファイル" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

@@ -1,5 +1,5 @@
 ---
-title:  Vyhledejte a nahraďte text v dokumentu ODS prostřednictvím čísla C++
+title: Vyhledejte a nahraďte text v dokumentu ODS prostřednictvím čísla C++
 weight: 1610
 description: C++ ukázkový kód pro redigování citlivých informací v souboru ODS v C++ Runtime Environment pro Windows 32 bit, Windows 64 bit a Linux 64 bit.
 keywords: [C++ Aspose.Cells., C++ Search and replace text in ODS file., C++ redact ODS file., C++ edit ODS file., C++ ODS file redaction., C++ Search and replace string in ODS file]
@@ -12,13 +12,7 @@ keywords: [C++ Aspose.Cells., C++ Search and replace text in ODS file., C++ reda
 
 {{% blocks/products/pf/agp/content h2="Jak upravit soubor ODS pomocí C++" %}}
 
- Abychom redigovali soubor ODS, použijeme
- [Aspose.Cells for C++](https://products.aspose.com/cells/cpp) 
- API, což je funkčně bohatá, výkonná a snadno použitelná platforma pro úpravu dokumentů API for C++. Jeho nejnovější verzi si můžete stáhnout přímo, stačí otevřít
- [NuGet](https://www.nuget.org/packages/aspose.cells) 
- správce balíčků, vyhledejte
- **Aspose.Cells.Cpp** 
- a nainstalovat. Můžete také použít následující příkaz z konzoly Správce balíčků.
+ Abychom redigovali soubor ODS, použijeme[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) API, což je funkčně bohatá, výkonná a snadno použitelná platforma pro úpravu dokumentů API for C++. Jeho nejnovější verzi si můžete stáhnout přímo, stačí otevřít[NuGet](https://www.nuget.org/packages/aspose.cells) správce balíčků, vyhledejte**Aspose.Cells.Cpp** a nainstalovat. Můžete také použít následující příkaz z konzoly Správce balíčků.
 
 {{% blocks/products/pf/agp/code-block title="Příkaz" offSpacer="true" %}}
 
@@ -38,15 +32,13 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% blocks/products/pf/agp/text %}}
 
- Základní vyhledávání a nahrazování textu v obsahu, komentářích nebo metadatech
- [Aspose.Cells for C++](https://products.aspose.com/cells/cpp) 
- Rozhraní API lze vytvořit pomocí několika řádků kódu.
+ Základní vyhledávání a nahrazování textu v obsahu, komentářích nebo metadatech[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) Rozhraní API lze vytvořit pomocí několika řádků kódu.
 
 {{% /blocks/products/pf/agp/text %}}
 
 + Načíst soubor ODS.
 + Definujte možnosti nahrazení.
-+ Nastavte možnost rozlišování malých a velkých písmen.
+Nastavte možnost rozlišování malých a velkých písmen.
 + Nastavit možnost shody textu
 + Nahraďte text pomocí metody Nahradit(...).
 + Uložte sešit.
@@ -114,11 +106,11 @@ Aspose::Cells::Cleanup();
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Není třeba stahovat Aspose API." >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Není třeba psát žádný kód." >}}
         {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Stačí nahrát své soubory ODS." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-download" text="Okamžitě bude redigován." >}}
+        {{< blocks/products/pf/agp/democard icon="fa-download" text=" Okamžitě bude redigován." >}}
     {{< /blocks/products/pf/agp/demobox >}}
 
     {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="ODS" readMoreLink="https://docs.fileformat.com/spreadsheet/ods/" >}}
-Soubory s příponou ODS představují formát OpenDocument Spreadsheet Document, který může uživatel upravovat. Data jsou uložena v souboru ODF do řádků a sloupců. Je to formát založený na XML a je jedním z několika podtypů v rodině Open Document Formats (ODF). Formát je specifikován jako součást specifikací ODF 1.2 publikovaných a spravovaných OASIS. Řada aplikací na Windows i jiných operačních systémech může otevřít soubory ODS pro úpravy a manipulaci, včetně Microsoft Excel, NeoOffice a LibreOffice. Soubory ODS lze také různými aplikacemi převést do jiných tabulkových formátů, stejně jako XLS, XLSX a dalších.
+ Soubory s příponou ODS představují formát OpenDocument Spreadsheet Document, který může uživatel upravovat. Data jsou uložena v souboru ODF do řádků a sloupců. Je to formát založený na XML a je jedním z několika podtypů v rodině Open Document Formats (ODF). Formát je specifikován jako součást specifikací ODF 1.2 publikovaných a spravovaných OASIS. Řada aplikací na Windows i jiných operačních systémech může otevřít soubory ODS pro úpravy a manipulaci, včetně Microsoft Excel, NeoOffice a LibreOffice. Soubory ODS lze také různými aplikacemi převést do jiných tabulkových formátů, stejně jako XLS, XLSX a další.
 
     {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
@@ -131,6 +123,7 @@ Soubory s příponou ODS představují formát OpenDocument Spreadsheet Document
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/redaction/xls/" name="XLS" description="Binární formát Excel" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/redaction/xlsb/" name="XLSB" description="Binární soubor sešitu Excel" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/redaction/xlsm/" name="XLSM" description="Soubor tabulky" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/redaction/xlsx/" name="XLSX" description="Soubor Excel OOXML" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

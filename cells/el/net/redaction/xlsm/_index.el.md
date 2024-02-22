@@ -12,13 +12,7 @@ keywords: [C# Aspose.Cells., c# Search and replace text in XLSM file., c# redact
 
 {{% blocks/products/pf/agp/content h2="Πώς να διορθώσετε το αρχείο XLSM χρησιμοποιώντας το C#" %}}
 
- Για να επεξεργαστούμε το αρχείο XLSM, θα χρησιμοποιήσουμε
- [Aspose.Cells for .NET](https://products.aspose.com/cells/net) 
- API που είναι μια πλούσια σε χαρακτηριστικά, ισχυρή και εύκολη στη χρήση πλατφόρμα χειρισμού εγγράφων API για C#. Ανοιξε
- [NuGet](https://www.nuget.org/packages/aspose.cells) 
- διαχειριστής πακέτων, αναζητήστε
- **Aspose.Cells** 
- και εγκαταστήστε. Μπορείτε επίσης να χρησιμοποιήσετε την ακόλουθη εντολή από την Κονσόλα Package Manager.
+ Για να επεξεργαστούμε το αρχείο XLSM, θα χρησιμοποιήσουμε[Aspose.Cells for .NET](https://products.aspose.com/cells/net) API που είναι μια πλούσια σε χαρακτηριστικά, ισχυρή και εύκολη στη χρήση πλατφόρμα χειρισμού εγγράφων API για C#. Ανοιξε[NuGet](https://www.nuget.org/packages/aspose.cells) διαχειριστής πακέτων, αναζητήστε**Aspose.Cells** και εγκαταστήστε. Μπορείτε επίσης να χρησιμοποιήσετε την ακόλουθη εντολή από την Κονσόλα Package Manager.
 
 {{% blocks/products/pf/agp/code-block title="Εντολή" offSpacer="true" %}}
 
@@ -38,9 +32,7 @@ PM> Install-Package Aspose.Cells
 
 {{% blocks/products/pf/agp/text %}}
 
- Μια βασική αναζήτηση εγγράφων και αντικατάσταση κειμένου σε περιεχόμενα, σχόλια ή μεταδεδομένα με
- [Aspose.Cells for .NET](https://products.aspose.com/cells/net) 
- Τα API μπορούν να γίνουν με λίγες μόνο γραμμές κώδικα.
+ Μια βασική αναζήτηση εγγράφων και αντικατάσταση κειμένου σε περιεχόμενα, σχόλια ή μεταδεδομένα με[Aspose.Cells for .NET](https://products.aspose.com/cells/net) Τα API μπορούν να γίνουν με λίγες μόνο γραμμές κώδικα.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -57,7 +49,7 @@ PM> Install-Package Aspose.Cells
 
 {{% blocks/products/pf/agp/text %}}
 
- Τα API μας υποστηρίζονται σε όλες τις μεγάλες πλατφόρμες και λειτουργικά συστήματα. Πριν εκτελέσετε τον παρακάτω κώδικα, βεβαιωθείτε ότι έχετε τις ακόλουθες προϋποθέσεις στο σύστημά σας.
+Τα API μας υποστηρίζονται σε όλες τις μεγάλες πλατφόρμες και λειτουργικά συστήματα. Πριν εκτελέσετε τον παρακάτω κώδικα, βεβαιωθείτε ότι έχετε τις ακόλουθες προϋποθέσεις στο σύστημά σας.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -122,7 +114,7 @@ wb.Save("e:\test2\output.xlsm");
             {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Δεν χρειάζεται να κατεβάσετε το Aspose API." >}}
             {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Δεν χρειάζεται να γράψετε κανέναν κώδικα." >}}
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Απλώς ανεβάστε τα XLSM αρχεία σας." >}}
-            {{< blocks/products/pf/agp/democard icon="fa-download" text="Θα διορθωθεί αμέσως." >}}
+            {{< blocks/products/pf/agp/democard icon="fa-download" text=" Θα διορθωθεί αμέσως." >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLSM" readMoreLink="https://docs.fileformat.com/spreadsheet/xlsm/" >}}
 Τα αρχεία με επέκταση XLSM είναι ένας τύπος αρχείων υπολογιστικών φύλλων που υποστηρίζουν μακροεντολές. Από την άποψη της εφαρμογής, μια Μακροεντολή είναι ένα σύνολο οδηγιών που χρησιμοποιούνται για την αυτοματοποίηση των διαδικασιών. Μια μακροεντολή χρησιμοποιείται για την καταγραφή των βημάτων που εκτελούνται επανειλημμένα και διευκολύνει την εκτέλεση των ενεργειών εκτελώντας ξανά τη μακροεντολή. Οι μακροεντολές προγραμματίζονται με το Visual Basic for Applications (VBA) του Microsoft μέσα από το Βιβλίο εργασίας του Excel χρησιμοποιώντας τον Επεξεργαστή Visual Basic και μπορούν να εκτελεστούν/εντοπιστούν σφάλματα απευθείας από εκεί.
@@ -138,6 +130,7 @@ wb.Save("e:\test2\output.xlsm");
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/redaction/ods/" name="ODS" description="Αρχείο Υπολογιστικού Φύλλου OpenDocument" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/redaction/xls/" name="XLS" description="Δυαδική μορφή Excel" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/redaction/xlsb/" name="XLSB" description="Δυαδικό αρχείο βιβλίου εργασίας Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/redaction/xlsx/" name="XLSX" description="Αρχείο Excel OOXML" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

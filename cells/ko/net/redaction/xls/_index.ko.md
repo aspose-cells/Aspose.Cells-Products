@@ -12,13 +12,7 @@ keywords: [C# Aspose.Cells., c# Search and replace text in XLS file., c# redact 
 
 {{% blocks/products/pf/agp/content h2="C#을 사용하여 XLS 파일을 수정하는 방법" %}}
 
- XLS 파일을 수정하기 위해 다음을 사용합니다.
- [Aspose.Cells for .NET](https://products.aspose.com/cells/net) 
- API은 기능이 풍부하고 강력하며 사용하기 쉬운 C# 플랫폼용 문서 조작 API입니다. 열려 있는
- [NuGet](https://www.nuget.org/packages/aspose.cells) 
- 패키지 관리자, 검색
- **Aspose.Cells** 
- 그리고 설치하세요. 패키지 관리자 콘솔에서 다음 명령을 사용할 수도 있습니다.
+ XLS 파일을 수정하기 위해 다음을 사용합니다.[Aspose.Cells for .NET](https://products.aspose.com/cells/net) API은 기능이 풍부하고 강력하며 사용하기 쉬운 C# 플랫폼용 문서 조작 API입니다. 열려 있는[NuGet](https://www.nuget.org/packages/aspose.cells) 패키지 관리자, 검색**Aspose.Cells** 그리고 설치하세요. 패키지 관리자 콘솔에서 다음 명령을 사용할 수도 있습니다.
 
 {{% blocks/products/pf/agp/code-block title="명령" offSpacer="true" %}}
 
@@ -38,9 +32,7 @@ PM> Install-Package Aspose.Cells
 
 {{% blocks/products/pf/agp/text %}}
 
- 기본 문서 검색 및 내용, 댓글, 메타데이터의 텍스트를 다음으로 대체합니다.
- [Aspose.Cells for .NET](https://products.aspose.com/cells/net) 
- 단 몇 줄의 코드만으로 API를 구현할 수 있습니다.
+ 기본 문서 검색 및 내용, 댓글, 메타데이터의 텍스트를 다음으로 대체합니다.[Aspose.Cells for .NET](https://products.aspose.com/cells/net) 단 몇 줄의 코드만으로 API를 구현할 수 있습니다.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -57,7 +49,7 @@ PM> Install-Package Aspose.Cells
 
 {{% blocks/products/pf/agp/text %}}
 
- 우리의 API는 모든 주요 플랫폼과 운영 체제에서 지원됩니다. 아래 코드를 실행하기 전에 시스템에 다음 전제 조건이 있는지 확인하십시오.
+우리의 API는 모든 주요 플랫폼과 운영 체제에서 지원됩니다. 아래 코드를 실행하기 전에 시스템에 다음 전제 조건이 있는지 확인하십시오.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -122,7 +114,7 @@ wb.Save("e:\test2\output.xls");
             {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Aspose API을 다운로드할 필요가 없습니다." >}}
             {{< blocks/products/pf/agp/democard icon="fa-edit" text=" 코드를 작성할 필요가 없습니다." >}}
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" XLS 파일을 업로드하세요." >}}
-            {{< blocks/products/pf/agp/democard icon="fa-download" text="즉시 수정됩니다." >}}
+            {{< blocks/products/pf/agp/democard icon="fa-download" text=" 즉시 수정됩니다." >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLS" readMoreLink="https://docs.fileformat.com/spreadsheet/xls/" >}}
 XLS 확장자를 가진 파일은 Excel 바이너리 파일 형식을 나타냅니다. 이러한 파일은 Microsoft Excel뿐만 아니라 OpenOffice Calc 또는 Apple Numbers과 같은 기타 유사한 스프레드시트 프로그램으로 생성할 수 있습니다. Excel에서 저장한 파일은 각 통합 문서가 하나 이상의 워크시트를 가질 수 있는 통합 문서라고 합니다. 데이터는 워크시트의 테이블 형식으로 사용자에게 저장되고 표시되며 숫자 값, 텍스트 데이터, 수식, 외부 데이터 연결, 이미지 및 차트를 포괄할 수 있습니다. Microsoft Excel과 같은 응용 프로그램을 사용하면 통합 문서 데이터를 PDF, CSV, XLSX, TXT, HTML, XPS 등 여러 가지 형식으로 내보낼 수 있습니다. XLS 파일 형식은 Microsoft Excel 2007 릴리스와 함께 보다 개방적이고 구조화된 형식인 XLSX로 대체되었습니다. 현재는 XLSX이 가장 먼저 사용되지만 최신 버전에서는 여전히 XLS 파일을 만들고 읽는 기능을 지원합니다.
@@ -138,6 +130,7 @@ XLS 확장자를 가진 파일은 Excel 바이너리 파일 형식을 나타냅�
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/redaction/ods/" name="ODS" description="OpenDocument 스프레드시트 파일" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/redaction/xlsb/" name="XLSB" description="바이너리 Excel 통합 문서 파일" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/redaction/xlsm/" name="XLSM" description="스프레드시트 파일" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/redaction/xlsx/" name="XLSX" description="OOXML 엑셀 파일" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

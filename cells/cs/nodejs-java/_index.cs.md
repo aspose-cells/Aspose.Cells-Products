@@ -12,11 +12,11 @@ description: Zpracujte formáty souborů Excel prostřednictvím knihovny Node.j
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
- Aspose.Cells for Node.js via Java je funkčně bohatý a škálovatelný API pro zpracování tabulek Excelu pomocí Node.js. API nabízí převod formátu souboru aplikace Excel, stylování listů na nejpodrobnější úroveň, vytváření grafů &amp; vykreslování, spolehlivý motor pro výpočet vzorců a mnoho dalšího.
+Aspose.Cells for Node.js via Java je funkčně bohatý a škálovatelný API pro zpracování tabulek Excelu pomocí Node.js. API nabízí převod formátu souboru aplikace Excel, stylování listů na nejpodrobnější úroveň, vytváření grafů &amp; vykreslování, spolehlivý motor pro výpočet vzorců a mnoho dalšího.
 </p>
 
 <p>
-Aspose.Cells for Node.js via Java podporuje nejoblíbenější formáty tabulek včetně XLS, XLSX, ODS, SpreadsheetML, CSV, TSC; HTML.
+ Aspose.Cells for Node.js via Java podporuje nejoblíbenější formáty tabulek včetně XLS, XLSX, ODS, SpreadsheetML, CSV, TSC; HTML.
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
@@ -171,7 +171,7 @@ Aspose.Cells for Node.js via Java podporuje nejoblíbenější formáty tabulek 
      <b>
  Microsoft Excel:
      </b>
- XLS, XLSX, XLSB, XLTX, XLTM, XLSM, XML
+ XLS, XLSX, XLSB, XLT, XLTX, XLTM, XLSM, XML, OTS
     </li>
     <li>
      <b>
@@ -183,13 +183,25 @@ Aspose.Cells for Node.js via Java podporuje nejoblíbenější formáty tabulek 
      <b>
  Text:
      </b>
- CSV, odděleno tabulátory, TXT
+     CSV, TSV, JSON
     </li>
     <li>
      <b>
  Web:
      </b>
      HTML, MHTML
+    </li>
+    <li>
+     <b>
+      Numbers:
+     </b>
+ Dokumenty aplikace Apple iWork office suite Numbers
+    </li>
+    <li>
+     <b>
+ ostatní:
+     </b>
+ SXC, FODS, EPUB
     </li>
    </ul>
   </div>
@@ -198,20 +210,32 @@ Aspose.Cells for Node.js via Java podporuje nejoblíbenější formáty tabulek 
    <header>
     <i class="fa fa-mail-forward">
     </i>
- Pouze výstup
+Pouze výstup
    </header>
    <ul>
     <li>
      <b>
  Pevné rozvržení:
      </b>
-     PDF, XPS
+ PDF, PDF/A, XPS
     </li>
+    <li>
+     <b>
+ Výměna dat:
+     </b>
+     DIF
+    </li>    
     <li>
      <b>
  Snímky:
      </b>
-     JPEG, PNG, BMP, SVG, TIFF, GIF, EMF
+     JPEG, PNG, BMP, SVG, TIFF, EMF, GIF
+    </li>
+    <li>
+     <b>
+ ostatní:
+     </b>
+ MARKDOWN, SQL, XTHML
     </li>
    </ul>
   </div>
@@ -269,7 +293,7 @@ Aspose.Cells for Node.js via Java podporuje nejoblíbenější formáty tabulek 
     <em class="fa fa-commenting ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-Vytvořit &amp; manipulovat s komentáři &amp; hypertextové odkazy
+ Vytvořit &amp; manipulovat s komentáři &amp; hypertextové odkazy
     </p>
    </div>
    <div class="col-lg-4">
@@ -319,7 +343,7 @@ Vytvořit &amp; manipulovat s komentáři &amp; hypertextové odkazy
  Vykreslování Excelových tabulek
     </h2>
     <p>
- Aspose.Cells for Node.js via Java používá svůj vykreslovací modul pro vykreslování do Excelu Microsoft s nejvyšší věrností. Při používání knihovny Excel Processing Node.js lze převádět celé listy, jednotlivé soubory nebo grafy na více obrázků a formátů s pevným rozvržením.
+Aspose.Cells for Node.js via Java používá svůj vykreslovací modul pro vykreslování do Excelu Microsoft s nejvyšší věrností. Při používání knihovny Excel Processing Node.js lze převádět celé listy, jednotlivé soubory nebo grafy na více obrázků a formátů s pevným rozvržením.
     </p>
    </div>
    <div class="col-lg-12">
@@ -327,7 +351,7 @@ Vytvořit &amp; manipulovat s komentáři &amp; hypertextové odkazy
  Flexibilní možnosti zobrazení
     </h2>
     <p>
-Aspose.Cells for Node.js via Java poskytuje plnou kontrolu nad nastavením stránky listu, lze manipulovat s možnostmi zobrazení listu, jako je orientace stránky, konce, velikost, měřítko, záhlaví, zápatí a úroveň přiblížení. Kromě toho mohou vývojáři ovládat viditelnost dat pomocí oblasti tisku a panelů zmrazení podle specifikací aplikace.
+ Aspose.Cells for Node.js via Java poskytuje plnou kontrolu nad nastavením stránky listu, lze manipulovat s možnostmi zobrazení listu, jako je orientace stránky, konce, velikost, měřítko, záhlaví, zápatí a úroveň přiblížení. Kromě toho mohou vývojáři ovládat viditelnost dat pomocí oblasti tisku a panelů zmrazení podle specifikací aplikace.
     </p>
    </div>
    <div class="col-lg-12">
@@ -343,12 +367,12 @@ Aspose.Cells for Node.js via Java poskytuje plnou kontrolu nad nastavením strá
  Manipulovat řádky &amp; Sloupce
     </h2>
     <p>
- Aspose.Cells for Node.js via Java umožňuje manipulovat s řádky a sloupci mnoha různými způsoby. Můžete snadno upravit výšku řádku &amp; šířka sloupce, automatická velikost buněk podle obsahu, vložení &amp; smazat, skrýt &amp; un-hide a group &amp; zrušit seskupení řádků &amp; sloupců.
+Aspose.Cells for Node.js via Java umožňuje manipulovat s řádky a sloupci mnoha různými způsoby. Můžete snadno upravit výšku řádku &amp; šířka sloupce, automatická velikost buněk podle obsahu, vložení &amp; smazat, skrýt &amp; un-hide a group &amp; zrušit seskupení řádků &amp; sloupců.
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-Komplexní podpora pro formátování pracovních listů
+ Komplexní podpora pro formátování pracovních listů
     </h2>
     <p>
  Aspose.Cells for Node.js via Java poskytuje pokročilé funkce formátování, které vám umožní řídit prezentaci vašich dat. Můžete použít formátování na list, sloupec, řádek nebo buňku nebo přidat formátovaný text do jedné buňky, použít ohraničení, nastavit vzory pozadí a styl písma. Číslo API také umožňuje přidávat, manipulovat &amp; vypočítat pravidla podmíněného formátování za běhu.
@@ -359,7 +383,7 @@ Komplexní podpora pro formátování pracovních listů
  Tvorba grafů, manipulace &amp; Vykreslování
     </h2>
     <p>
- Aspose.Cells for Node.js via Java poskytuje plnou podporu pro vytváření grafů. Pomocí čísla API lze snadno přidávat přizpůsobené nebo standardní grafy a dynamicky nastavovat data, aby se grafy obnovovaly.
+Aspose.Cells for Node.js via Java poskytuje plnou podporu pro vytváření grafů. Pomocí čísla API lze snadno přidávat přizpůsobené nebo standardní grafy a dynamicky nastavovat data, aby se grafy obnovovaly.
     </p>
    </div>
   </div>

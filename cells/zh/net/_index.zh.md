@@ -1,5 +1,5 @@
 ---
-title:  .NET Excel API |处理电子表格格式 via .NET 核心
+title: .NET Excel API |处理电子表格格式 via .NET 核心
 weight: 2030
 description: C# ASP.NET VB.NET 用于创建、修复、合并、解析和转换 Excel 文件的库。将excel转换为PDF、JSON、XML、TSV、HTML等。
 keywords: [Aspose.Cells C# Create repair parse merge convert JSON Excel XML PDF HTML TSV SQL TXT PNG JPEG and more formats]
@@ -13,7 +13,7 @@ keywords: [Aspose.Cells C# Create repair parse merge convert JSON Excel XML PDF 
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
-Aspose.Cells for .NET是一个Excel电子表格编程API，以加快电子表格管理和处理任务。 API 支持构建能够生成、修改、转换、渲染和打印电子表格的跨平台应用程序。此外，它不依赖于 Microsoft Excel 或任何要安装的 Microsoft Office Interop 组件，而是依赖于一组强大的 API，可处理所有 Excel 格式以及 CSV 和 SpreadsheetML 格式。
+ Aspose.Cells for .NET是一个Excel电子表格编程API，以加快电子表格管理和处理任务。 API 支持构建能够生成、修改、转换、渲染和打印电子表格的跨平台应用程序。此外，它不依赖于 Microsoft Excel 或任何要安装的 Microsoft Office Interop 组件，而是依赖于一组强大的 API，可处理所有 Excel 格式以及 CSV 和 SpreadsheetML 格式。
 </p>
 
 <p>
@@ -227,7 +227,7 @@ Xamarin.Android
      <b>
 Microsoft Excel：
      </b>
-XLS、XLSX、XLSB、XLT、XLTX、XLTM、XLSM、XML
+ XLS、XLSX、XLSB、XLT、XLTX、XLTM、XLSM、XML、OTS
     </li>
     <li>
      <b>
@@ -239,7 +239,7 @@ XLS、XLSX、XLSB、XLT、XLTX、XLTM、XLSM、XML
      <b>
 文本：
      </b>
-     CSV, TSV
+     CSV, TSV, JSON
     </li>
     <li>
      <b>
@@ -252,6 +252,12 @@ XLS、XLSX、XLSB、XLT、XLTX、XLTM、XLSM、XML
       Numbers:
      </b>
 苹果iWork办公套件Numbers应用文档
+    </li>
+    <li>
+     <b>
+其他的：
+     </b>
+ SXC, FODS, EPUB
     </li>
    </ul>
   </div>
@@ -274,12 +280,18 @@ XLS、XLSX、XLSB、XLT、XLTX、XLTM、XLSM、XML
 数据交换：
      </b>
      DIF
-    </li>
+    </li>    
     <li>
      <b>
 图片：
      </b>
      JPEG, PNG, BMP, SVG, TIFF, EMF, GIF
+    </li>
+    <li>
+     <b>
+其他的：
+     </b>
+ MARKDOWN，SQL，XTHML
     </li>
    </ul>
   </div>
@@ -560,7 +572,7 @@ Aspose.Cells for .NET 提供用于 Web 和应用程序的 GUI 控件桌面应用
  Microsoft 办公自动化 – 不需要
     </h2>
     <p>
- Aspose.Cells for .NET 使用托管代码构建，无需在计算机上安装 Microsoft Office 或 Microsoft Excel 即可使用 Excel 文档格式。就支持的功能、安全性、稳定性、可扩展性、速度和价格而言，它是完美的 Microsoft 办公自动化替代方案。
+Aspose.Cells for .NET 使用托管代码构建，无需在计算机上安装 Microsoft Office 或 Microsoft Excel 即可使用 Excel 文档格式。就支持的功能、安全性、稳定性、可扩展性、速度和价格而言，它是完美的 Microsoft 办公自动化替代方案。
     </p>
    </div>
   </div>

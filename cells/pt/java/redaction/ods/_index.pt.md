@@ -12,11 +12,7 @@ keywords: [Java Aspose.Cells., Java Search and replace text in ODS file., Java r
 
 {{% blocks/products/pf/agp/content h2="Como redigir o arquivo ODS usando Java" %}}
 
- Para redigir o arquivo ODS, usaremos
- [Aspose.Cells for Java](https://products.aspose.com/cells/java) 
-API, que é uma plataforma de redação API for Java rica em recursos, poderosa e fácil de usar. Você pode baixar sua versão mais recente diretamente de
- [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) 
- e instale-o em seu projeto baseado em Maven adicionando as seguintes configurações ao pom.xml.
+ Para redigir o arquivo ODS, usaremos[Aspose.Cells for Java](https://products.aspose.com/cells/java) API, que é uma plataforma de redação API for Java rica em recursos, poderosa e fácil de usar. Você pode baixar sua versão mais recente diretamente de[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) e instale-o em seu projeto baseado em Maven adicionando as seguintes configurações ao pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Repositório" offSpacer="true" %}}
 
@@ -54,9 +50,7 @@ API, que é uma plataforma de redação API for Java rica em recursos, poderosa 
 
 {{% blocks/products/pf/agp/text %}}
 
- Uma pesquisa básica de documentos e substituição de texto em conteúdos, comentários ou metadados por
- [Aspose.Cells for Java](https://products.aspose.com/cells/java) 
- APIs podem ser feitas com apenas algumas linhas de código.
+ Uma pesquisa básica de documentos e substituição de texto em conteúdos, comentários ou metadados por[Aspose.Cells for Java](https://products.aspose.com/cells/java) APIs podem ser feitas com apenas algumas linhas de código.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -78,7 +72,7 @@ API, que é uma plataforma de redação API for Java rica em recursos, poderosa 
 
 {{% /blocks/products/pf/agp/text %}}
 
--  Microsoft Windows ou um sistema operacional compatível com Java Runtime Environment para aplicativos JSP/JSF e aplicativos de desktop.
+- Microsoft Windows ou um sistema operacional compatível com Java Runtime Environment para aplicativos JSP/JSF e aplicativos de desktop.
 -  Obtenha a versão mais recente de Aspose.Cells for Java diretamente de
  [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells)  .
 
@@ -144,11 +138,11 @@ workbook.save(dataDir + "output.ods");
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Não há necessidade de baixar Aspose API." >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Não há necessidade de escrever nenhum código." >}}
         {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Basta enviar seus arquivos ODS." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-download" text="Ele será redigido instantaneamente." >}}
+        {{< blocks/products/pf/agp/democard icon="fa-download" text=" Ele será redigido instantaneamente." >}}
     {{< /blocks/products/pf/agp/demobox >}}
 
     {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="ODS" readMoreLink="https://docs.fileformat.com/spreadsheet/ods/" >}}
-Arquivos com extensão ODS representam o formato de documento de planilha OpenDocument que pode ser editado pelo usuário. Os dados são armazenados dentro do arquivo ODF em linhas e colunas. É um formato baseado em XML e é um dos vários subtipos da família Open Document Formats (ODF). O formato é especificado como parte das especificações ODF 1.2 publicadas e mantidas pelo OASIS. Vários aplicativos no Windows, bem como em outros sistemas operacionais, podem abrir arquivos ODS para edição e manipulação, incluindo Microsoft Excel, NeoOffice e LibreOffice. Os arquivos ODS também podem ser convertidos em outros formatos de planilha, como XLS, XLSX e outros por diferentes aplicativos.
+ Arquivos com extensão ODS representam o formato de documento de planilha OpenDocument que pode ser editado pelo usuário. Os dados são armazenados dentro do arquivo ODF em linhas e colunas. É um formato baseado em XML e é um dos vários subtipos da família Open Document Formats (ODF). O formato é especificado como parte das especificações ODF 1.2 publicadas e mantidas pelo OASIS. Vários aplicativos no Windows, bem como em outros sistemas operacionais, podem abrir arquivos ODS para edição e manipulação, incluindo Microsoft Excel, NeoOffice e LibreOffice. Os arquivos ODS também podem ser convertidos em outros formatos de planilha, como XLS, XLSX e outros por diferentes aplicativos.
 
     {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
@@ -161,6 +155,7 @@ Arquivos com extensão ODS representam o formato de documento de planilha OpenDo
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/redaction/xls/" name="XLS" description="Formato binário do Excel" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/redaction/xlsb/" name="XLSB" description="Arquivo binário da pasta de trabalho do Excel" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/redaction/xlsm/" name="XLSM" description="Arquivo de planilha" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/redaction/xlsx/" name="XLSX" description="Arquivo Excel OOXML" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

@@ -12,13 +12,7 @@ keywords: [C++ Aspose.Cells., C++ Extract text and images from ODS file., C++ Ho
 
 {{% blocks/products/pf/agp/content h2="C++を使用してODSファイルを解析する方法" %}}
 
-ODS ファイルを解析するには、次を使用します。
- [Aspose.Cells for C++](https://products.aspose.com/cells/cpp) 
- API は、機能が豊富で強力で使いやすい文書解析プラットフォームです。最新バージョンを直接ダウンロードできます。開くだけです。
- [NuGet](https://www.nuget.org/packages/aspose.cells) 
-パッケージマネージャー、検索
- **Aspose.Cells.Cpp** 
-そしてインストールします。パッケージ マネージャー コンソールから次のコマンドを使用することもできます。
+ODS ファイルを解析するには、次を使用します。[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) API は、機能が豊富で強力で使いやすい文書解析プラットフォームです。最新バージョンを直接ダウンロードできます。開くだけです。[NuGet](https://www.nuget.org/packages/aspose.cells)パッケージマネージャー、検索**Aspose.Cells.Cpp**そしてインストールします。パッケージ マネージャー コンソールから次のコマンドを使用することもできます。
 
 {{% blocks/products/pf/agp/code-block title="指示" offSpacer="true" %}}
 
@@ -38,9 +32,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% blocks/products/pf/agp/text %}}
 
-基本的な文書解析
- [Aspose.Cells for C++](https://products.aspose.com/cells/cpp) 
-API はわずか数行のコードで実行できます。 Microsoft Excel XLS、XLSX、XLSM、XLSB、OpenDocument ODS ファイルのテキストと画像を解析します。
+基本的な文書解析[Aspose.Cells for C++](https://products.aspose.com/cells/cpp)API はわずか数行のコードで実行できます。 Microsoft Excel XLS、XLSX、XLSM、XLSB、OpenDocument ODS ファイルのテキストと画像を解析します。
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -50,7 +42,7 @@ API はわずか数行のコードで実行できます。 Microsoft Excel XLS�
 
 {{% blocks/products/pf/agp/text %}}
 
-Aspose.Cells for C++ は、すべての主要なプラットフォームとオペレーティング システムでサポートされています。次の前提条件を満たしていることを確認してください。
+ Aspose.Cells for C++ は、すべての主要なプラットフォームとオペレーティング システムでサポートされています。次の前提条件を満たしていることを確認してください。
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -109,7 +101,7 @@ Aspose::Cells::Cleanup();
 {{< blocks/products/pf/agp/about-file-section >}}
 
     {{< blocks/products/pf/agp/demobox sectionTitle="オンライン ODS パーサー ライブ デモ" sectionDescription="今すぐ ODS ドキュメントからテキストと画像を抽出してください。[ライブデモ Web サイト](https://products.aspose.app/cells/parser)。ライブデモには次の利点があります" >}}
-        {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Aspose API をダウンロードする必要はありません。" >}}
+        {{< blocks/products/pf/agp/democard icon="fa-cogs" text="Aspose API をダウンロードする必要はありません。" >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text="コードを記述する必要はありません。" >}}
         {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" ODS ファイルをアップロードするだけです。" >}}
         {{< blocks/products/pf/agp/democard icon="fa-download" text="即座に解析されます。" >}}
@@ -129,6 +121,7 @@ Aspose::Cells::Cleanup();
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/parser/xls/" name="XLS" description="Excel バイナリ形式" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/parser/xlsb/" name="XLSB" description="バイナリ Excel ワークブック ファイル" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/parser/xlsm/" name="XLSM" description="スプレッドシート ファイル" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/parser/xlsx/" name="XLSX" description="OOXML Excel ファイル" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

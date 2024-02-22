@@ -12,13 +12,7 @@ keywords: [C# Aspose.Cells., c# Search and replace text in XLS file., c# redact 
 
 {{% blocks/products/pf/agp/content h2="Come oscurare il file XLS utilizzando C#" %}}
 
- Per redigere il file XLS, utilizzeremo
- [Aspose.Cells for .NET](https://products.aspose.com/cells/net) 
- API che è una manipolazione di documenti ricca di funzionalità, potente e facile da usare API per la piattaforma C#. Aprire
- [NuGet](https://www.nuget.org/packages/aspose.cells) 
- gestore pacchetti, cerca
- **Aspose.Cells** 
- e installare. Puoi anche utilizzare il seguente comando dalla Console di gestione pacchetti.
+ Per redigere il file XLS, utilizzeremo[Aspose.Cells for .NET](https://products.aspose.com/cells/net) API che è una manipolazione di documenti ricca di funzionalità, potente e facile da usare API per la piattaforma C#. Aprire[NuGet](https://www.nuget.org/packages/aspose.cells) gestore pacchetti, cerca**Aspose.Cells** e installare. Puoi anche utilizzare il seguente comando dalla Console di gestione pacchetti.
 
 {{% blocks/products/pf/agp/code-block title="Comando" offSpacer="true" %}}
 
@@ -38,9 +32,7 @@ PM> Install-Package Aspose.Cells
 
 {{% blocks/products/pf/agp/text %}}
 
- Una ricerca di documenti di base e sostituzione del testo nei contenuti, nei commenti o nei metadati con
- [Aspose.Cells for .NET](https://products.aspose.com/cells/net) 
- Le API possono essere eseguite con poche righe di codice.
+ Una ricerca di documenti di base e sostituzione del testo nei contenuti, nei commenti o nei metadati con[Aspose.Cells for .NET](https://products.aspose.com/cells/net) Le API possono essere eseguite con poche righe di codice.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -57,7 +49,7 @@ PM> Install-Package Aspose.Cells
 
 {{% blocks/products/pf/agp/text %}}
 
- Le nostre API sono supportate su tutte le principali piattaforme e sistemi operativi. Prima di eseguire il codice seguente, assicurati di avere i seguenti prerequisiti sul tuo sistema.
+Le nostre API sono supportate su tutte le principali piattaforme e sistemi operativi. Prima di eseguire il codice seguente, assicurati di avere i seguenti prerequisiti sul tuo sistema.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -122,7 +114,7 @@ wb.Save("e:\test2\output.xls");
             {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Non è necessario scaricare Aspose API." >}}
             {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Non è necessario scrivere alcun codice." >}}
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Basta caricare i tuoi file XLS." >}}
-            {{< blocks/products/pf/agp/democard icon="fa-download" text="Verrà redatto immediatamente." >}}
+            {{< blocks/products/pf/agp/democard icon="fa-download" text=" Verrà redatto immediatamente." >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLS" readMoreLink="https://docs.fileformat.com/spreadsheet/xls/" >}}
  file con estensione XLS rappresentano il formato file binario di Excel. Tali file possono essere creati da Microsoft Excel così come altri programmi di fogli di calcolo simili come OpenOffice Calc o Apple Numbers. Il file salvato da Excel è noto come cartella di lavoro in cui ciascuna cartella di lavoro può avere uno o più fogli di lavoro. I dati vengono archiviati e visualizzati agli utenti in formato tabella nel foglio di lavoro e possono comprendere valori numerici, dati di testo, formule, connessioni dati esterne, immagini e grafici. Applicazioni come Microsoft Excel ti consentono di esportare i dati della cartella di lavoro in diversi formati tra cui PDF, CSV, XLSX, TXT, HTML, XPS e molti altri. Il formato file XLS è stato sostituito con un formato più aperto e strutturato, XLSX, con il rilascio di Microsoft Excel 2007. Le ultime versioni forniscono ancora supporto per la creazione e la lettura dei file XLS, sebbene XLSX sia ora la prima scelta di utilizzo.
@@ -138,6 +130,7 @@ wb.Save("e:\test2\output.xls");
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/redaction/ods/" name="ODS" description="File di foglio di calcolo OpenDocument" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/redaction/xlsb/" name="XLSB" description="File binario della cartella di lavoro Excel" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/redaction/xlsm/" name="XLSM" description="File di foglio di calcolo" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/redaction/xlsx/" name="XLSX" description="File Excel OOXML" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

@@ -12,7 +12,7 @@ description: PHP Excel-Tabelle API zum Lesen, Schreiben und Konvertieren von XLS
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
- Aspose.Cells for PHP via Java ist eine skalierbare und funktionsreiche Excel-Tabellenverwaltung und -verarbeitung API. Anwendungen können die Konvertierung von Tabellenformaten, die Verwaltung und Darstellung von Diagrammen, die Implementierung von Formeln, die Formatierung von Arbeitsblättern bis zur detailliertesten Ebene und vieles mehr durchführen. API unterstützt XLS, XLSX, ODS, SpreadsheetML, CSV, Tabulatorgetrennt, HTML/MHTML, PDF, XPS und andere Formate. Entwickler können ganz einfach die Möglichkeit hinzufügen, Excel-Dateien in ihren PHP-Anwendungen zu erstellen, zu bearbeiten, zu konvertieren und zu rendern, während sie die JavaBridge verwenden.
+Aspose.Cells for PHP via Java ist eine skalierbare und funktionsreiche Excel-Tabellenverwaltung und -verarbeitung API. Anwendungen können die Konvertierung von Tabellenformaten, die Verwaltung und Darstellung von Diagrammen, die Implementierung von Formeln, die Formatierung von Arbeitsblättern bis zur detailliertesten Ebene und vieles mehr durchführen. API unterstützt XLS, XLSX, ODS, SpreadsheetML, CSV, Tabulatorgetrennt, HTML/MHTML, PDF, XPS und andere Formate. Entwickler können ganz einfach die Möglichkeit hinzufügen, Excel-Dateien in ihren PHP-Anwendungen zu erstellen, zu bearbeiten, zu konvertieren und zu rendern, während sie die JavaBridge verwenden.
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
@@ -179,7 +179,7 @@ description: PHP Excel-Tabelle API zum Lesen, Schreiben und Konvertieren von XLS
      <b>
  Microsoft Excel:
      </b>
- XLS, XLSX, XLSB, XLTX, XLTM, XLSM, XML
+ XLS, XLSX, XLSB, XLT, XLTX, XLTM, XLSM, XML, OTS
     </li>
     <li>
      <b>
@@ -191,13 +191,25 @@ description: PHP Excel-Tabelle API zum Lesen, Schreiben und Konvertieren von XLS
      <b>
  Text:
      </b>
- CSV, Tabulatorgetrennt, TXT
+     CSV, TSV, JSON
     </li>
     <li>
      <b>
  Netz:
      </b>
      HTML, MHTML
+    </li>
+    <li>
+     <b>
+      Numbers:
+     </b>
+ App-Dokumente der iWork-Office-Suite Numbers von Apple
+    </li>
+    <li>
+     <b>
+ Andere:
+     </b>
+ SXC, FODS, EPUB
     </li>
    </ul>
   </div>
@@ -206,20 +218,32 @@ description: PHP Excel-Tabelle API zum Lesen, Schreiben und Konvertieren von XLS
    <header>
     <i class="fa fa-mail-forward">
     </i>
- Nur Ausgabe
+Nur Ausgabe
    </header>
    <ul>
     <li>
      <b>
  Festes Layout:
      </b>
-     PDF, XPS
+ PDF, PDF/A, XPS
     </li>
+    <li>
+     <b>
+ Datenaustausch:
+     </b>
+     DIF
+    </li>    
     <li>
      <b>
  Bilder:
      </b>
      JPEG, PNG, BMP, SVG, TIFF, EMF, GIF
+    </li>
+    <li>
+     <b>
+ Andere:
+     </b>
+ MARKDOWN, SQL, XTHML
     </li>
    </ul>
   </div>
@@ -264,7 +288,7 @@ description: PHP Excel-Tabelle API zum Lesen, Schreiben und Konvertieren von XLS
     <em class="fa fa-support ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Unterstützung für CSV, tabulatorgetrennt und HTML-Formate
+Unterstützung für CSV, tabulatorgetrennt und HTML-Formate
     </p>
    </div>
    <div class="col-lg-4">
@@ -370,7 +394,7 @@ description: PHP Excel-Tabelle API zum Lesen, Schreiben und Konvertieren von XLS
  Konvertieren Sie Excel-Dateien in XPS, PDF &amp; HTML
     </h2>
     <p>
-Aspose.Cells for PHP via Java API ist in der Lage, Excel-Dateien in die Formate XPS, XPS und HTML zu konvertieren und dabei die höchste visuelle Wiedergabetreue beizubehalten. Der Konvertierungsprozess ist zuverlässig und Entwickler können das erforderliche Format mit nur wenigen Zeilen erhalten.
+ Aspose.Cells for PHP via Java API ist in der Lage, Excel-Dateien in die Formate XPS, XPS und HTML zu konvertieren und dabei die höchste visuelle Wiedergabetreue beizubehalten. Der Konvertierungsprozess ist zuverlässig und Entwickler können das erforderliche Format mit nur wenigen Zeilen erhalten.
     </p>
     <div class="codeblock" id="code">
      <h3>
@@ -396,7 +420,7 @@ $wkbk-&gt;save("output.html", SaveFormat::HTML);</code></pre>
  Rendern Sie Excel-Tabellen und -Dateien. Objekte zu PDF &amp; Bilder
     </h2>
     <p>
- Aspose.Cells for PHP via Java verfügt über eine eigene Rendering-Engine, die speziell für das Rendern mit höchster Wiedergabetreue zu Microsoft Excel entwickelt wurde. Wenn Sie Aspose.Cells for PHP via Java verwenden, können Sie ganze Tabellenkalkulationen, einzelne Arbeitsblätter und mehr konvertieren. Diagramme zu einer Reihe von Bildern &amp; Formate mit festem Layout.
+Aspose.Cells for PHP via Java verfügt über eine eigene Rendering-Engine, die speziell für das Rendern mit höchster Wiedergabetreue zu Microsoft Excel entwickelt wurde. Wenn Sie Aspose.Cells for PHP via Java verwenden, können Sie ganze Tabellenkalkulationen, einzelne Arbeitsblätter und mehr konvertieren. Diagramme zu einer Reihe von Bildern &amp; Formate mit festem Layout.
     </p>
    </div>
    <div class="col-lg-12">
@@ -404,7 +428,7 @@ $wkbk-&gt;save("output.html", SaveFormat::HTML);</code></pre>
  Flexible Anzeigeoptionen für Arbeitsblätter
     </h2>
     <p>
-Aspose.Cells for PHP via Java gibt Ihnen die vollständige Kontrolle über die Seiteneinrichtung des Arbeitsblatts und ermöglicht Ihnen so, die Anzeigeoptionen des Excel-Arbeitsblatts wie Seitenumbrüche, Seitenausrichtung, Skalierung, Papiergröße, Kopf-/Fußzeilen und andere Einstellungen zu ändern. Zoomstufe. Sie können die Datensichtbarkeit auch durch Fixieren von Fenstern und Fenstern steuern. Passen Sie den Druckbereich an Ihre Anwendungsanforderungen an.
+ Aspose.Cells for PHP via Java gibt Ihnen die vollständige Kontrolle über die Seiteneinrichtung des Arbeitsblatts und ermöglicht Ihnen so, die Anzeigeoptionen des Excel-Arbeitsblatts wie Seitenumbrüche, Seitenausrichtung, Skalierung, Papiergröße, Kopf-/Fußzeilen und andere Einstellungen zu ändern. Zoomstufe. Sie können die Datensichtbarkeit auch durch Fixieren von Fenstern und Fenstern steuern. Passen Sie den Druckbereich an Ihre Anwendungsanforderungen an.
     </p>
    </div>
    <div class="col-lg-12">
@@ -412,7 +436,7 @@ Aspose.Cells for PHP via Java gibt Ihnen die vollständige Kontrolle über die S
  Effizient, robust &amp; Zuverlässige Formelberechnungsmaschine
     </h2>
     <p>
- Aspose.Cells for PHP via Java ist mit einer leistungsstarken Formelberechnungs-Engine ausgestattet, die fast alle standardmäßigen und erweiterten Excel-Formeln und -Funktionen unterstützt. Sie können die Ergebnisse integrierter oder add-in-Typ-, Array- und R1C1-Referenzstilformeln lesen, festlegen und berechnen.
+Aspose.Cells for PHP via Java ist mit einer leistungsstarken Formelberechnungs-Engine ausgestattet, die fast alle standardmäßigen und erweiterten Excel-Formeln und -Funktionen unterstützt. Sie können die Ergebnisse integrierter oder add-in-Typ-, Array- und R1C1-Referenzstilformeln lesen, festlegen und berechnen.
     </p>
    </div>
    <div class="col-lg-12">
@@ -423,7 +447,7 @@ Aspose.Cells for PHP via Java gibt Ihnen die vollständige Kontrolle über die S
  Die Bibliothek ist so flexibel, dass man Tabellenkalkulationen mit allen möglichen visuellen Effekten ausstatten und Formatierungen auf ein Arbeitsblatt, eine Zeile, eine Spalte oder eine Zelle anwenden, Schriftarten mit Attributen festlegen, Zellenstile und -funktionen definieren kann. Zahlenformate, fügen Sie Rich Text hinzu und definieren Sie Regeln für die bedingte Formatierung.
     </p>
     <p>
-Ebenso sind für ein professionelles Erscheinungsbild und eine einfache Verständlichkeit Diagramme und Grafiken unverzichtbare Bestandteile. Aspose.Cells for PHP via Java APIs können alle Arten von Standard- und benutzerdefinierten Diagrammen erstellen und bearbeiten. Darüber hinaus können den Zellen problemlos verschiedene Arten von Zeichenobjekten hinzugefügt werden.
+ Ebenso sind für ein professionelles Erscheinungsbild und eine einfache Verständlichkeit Diagramme und Grafiken unverzichtbare Bestandteile. Aspose.Cells for PHP via Java APIs können alle Arten von Standard- und benutzerdefinierten Diagrammen erstellen und bearbeiten. Darüber hinaus können den Zellen problemlos verschiedene Arten von Zeichenobjekten hinzugefügt werden.
     </p>
    </div>
   </div>

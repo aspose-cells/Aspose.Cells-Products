@@ -1,5 +1,5 @@
 ---
-title:  Extrahera text och bilder från ODS dokument via C++
+title: Extrahera text och bilder från ODS dokument via C++
 weight: 9130
 description: C++ exempelkod för att extrahera text och bilder från ODS fil på C++ Runtime Environment för Windows 32 bitar, Windows 64 bitar och Linux 64 bitar.
 keywords: [C++ Aspose.Cells., C++ Extract text and images from ODS file., C++ How to Parse ODS File., C++ Extract text from ODS file., Extract images from ODS file using C++]
@@ -12,13 +12,7 @@ keywords: [C++ Aspose.Cells., C++ Extract text and images from ODS file., C++ Ho
 
 {{% blocks/products/pf/agp/content h2="Hur man analyserar ODS-fil med C++" %}}
 
- För att tolka filen ODS kommer vi att använda
- [Aspose.Cells for C++](https://products.aspose.com/cells/cpp) 
- API som är en funktionsrik, kraftfull och lättanvänd plattform för dokumentanalys API for C++. Du kan ladda ner den senaste versionen direkt, bara öppna
- [NuGet](https://www.nuget.org/packages/aspose.cells) 
- pakethanterare, sök efter
- **Aspose.Cells.Cpp** 
- och installera. Du kan också använda följande kommando från Package Manager Console.
+ För att tolka filen ODS kommer vi att använda[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) API som är en funktionsrik, kraftfull och lättanvänd plattform för dokumentanalys API for C++. Du kan ladda ner den senaste versionen direkt, bara öppna[NuGet](https://www.nuget.org/packages/aspose.cells) pakethanterare, sök efter**Aspose.Cells.Cpp** och installera. Du kan också använda följande kommando från Package Manager Console.
 
 {{% blocks/products/pf/agp/code-block title="Kommando" offSpacer="true" %}}
 
@@ -38,9 +32,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% blocks/products/pf/agp/text %}}
 
- Ett grundläggande dokument som analyseras med
- [Aspose.Cells for C++](https://products.aspose.com/cells/cpp) 
- API:er kan göras med bara några rader kod. Analysera text och bilder från Microsoft Excel XLS, XLSX, XLSM, XLSB och OpenDocument ODS filer.
+ Ett grundläggande dokument som analyseras med[Aspose.Cells for C++](https://products.aspose.com/cells/cpp)API:er kan göras med bara några rader kod. Analysera text och bilder från Microsoft Excel XLS, XLSX, XLSM, XLSB och OpenDocument ODS filer.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -108,7 +100,7 @@ Aspose::Cells::Cleanup();
 
 {{< blocks/products/pf/agp/about-file-section >}}
 
-    {{< blocks/products/pf/agp/demobox sectionTitle="Online ODS Parser Live Demos" sectionDescription=" Extrahera text och bilder från ODS dokument just nu genom att besöka vår[Live Demos webbplats](https://products.aspose.app/cells/parser). Livedemon har följande fördelar" >}}
+    {{< blocks/products/pf/agp/demobox sectionTitle="Online ODS Parser Live Demos" sectionDescription="Extrahera text och bilder från ODS dokument just nu genom att besöka vår[Live Demos webbplats](https://products.aspose.app/cells/parser). Livedemon har följande fördelar" >}}
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Du behöver inte ladda ner Aspose API." >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Du behöver inte skriva någon kod." >}}
         {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Ladda bara upp dina ODS-filer." >}}
@@ -116,7 +108,7 @@ Aspose::Cells::Cleanup();
     {{< /blocks/products/pf/agp/demobox >}}
 
     {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="ODS" readMoreLink="https://docs.fileformat.com/spreadsheet/ods/" >}}
-Filer med tillägget ODS står för OpenDocument Spreadsheet Document-format som kan redigeras av användaren. Data lagras i ODF-filen i rader och kolumner. Det är XML-baserat format och är en av flera undertyper i familjen Open Document Formats (ODF). Formatet specificeras som en del av ODF 1.2-specifikationerna som publiceras och underhålls av OASIS. Ett antal applikationer på Windows såväl som andra operativsystem kan öppna ODS-filer för redigering och manipulering, inklusive Microsoft Excel, NeoOffice och LibreOffice. ODS-filer kan också konverteras till andra kalkylbladsformat, liksom XLS, XLSX och andra av olika applikationer.
+ Filer med tillägget ODS står för OpenDocument Spreadsheet Document-format som kan redigeras av användaren. Data lagras i ODF-filen i rader och kolumner. Det är XML-baserat format och är en av flera undertyper i familjen Open Document Formats (ODF). Formatet specificeras som en del av ODF 1.2-specifikationerna som publiceras och underhålls av OASIS. Ett antal applikationer på Windows såväl som andra operativsystem kan öppna ODS-filer för redigering och manipulering, inklusive Microsoft Excel, NeoOffice och LibreOffice. ODS-filer kan också konverteras till andra kalkylbladsformat, liksom XLS, XLSX och andra av olika applikationer.
 
     {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
@@ -129,6 +121,7 @@ Filer med tillägget ODS står för OpenDocument Spreadsheet Document-format som
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/parser/xls/" name="XLS" description="Excel binärt format" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/parser/xlsb/" name="XLSB" description="Binär Excel arbetsbok fil" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/parser/xlsm/" name="XLSM" description="Kalkylbladsfil" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/parser/xlsx/" name="XLSX" description="OOXML Excel-fil" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

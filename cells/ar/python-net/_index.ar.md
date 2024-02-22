@@ -13,7 +13,7 @@ keywords: [Python Aspose.Cells Create repair merge convert JSON Excel XML PDF HT
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
-Aspose.Cells for Python عبر .Net هو API سريع وموثوق لمهام معالجة جداول البيانات. يمكن للمطورين إنشاء جداول بيانات بسيطة أو معقدة، ومعالجة المعلومات واستخراجها من ملفات Excel. يقرأ API تنسيقات Excel متعددة ويمكنه تقديم أوراق العمل إلى XPS وPDF وMHTML وHTML ونص عادي وصور والمزيد. هذا هو الحل الأفضل لأتمتة تقارير Excel باستخدام بايثون.
+ Aspose.Cells for Python عبر .Net هو API سريع وموثوق لمهام معالجة جداول البيانات. يمكن للمطورين إنشاء جداول بيانات بسيطة أو معقدة، ومعالجة المعلومات واستخراجها من ملفات Excel. يقرأ API تنسيقات Excel متعددة ويمكنه تقديم أوراق العمل إلى XPS وPDF وMHTML وHTML ونص عادي وصور والمزيد. هذا هو الحل الأفضل لأتمتة تقارير Excel باستخدام بايثون.
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
@@ -38,7 +38,7 @@ Aspose.Cells for Python عبر .Net هو API سريع وموثوق لمهام م
  مجموعة النتائج
     </li>
     <li>
-المجموعات
+ المجموعات
     </li>
    </ul>
    <header>
@@ -76,7 +76,7 @@ Aspose.Cells for Python عبر .Net هو API سريع وموثوق لمهام م
  إنشاء الرسوم البيانية
     </li>
     <li>
- لخص
+لخص
     </li>
     <li>
  العلامات الذكية
@@ -159,7 +159,7 @@ Aspose.Cells for Python عبر .Net هو API سريع وموثوق لمهام م
      <b>
  Microsoft اكسل:
      </b>
- XLS, XLSX, XLSB, XLTX, XLTM, XLSM, XML
+ XLS، XLSX، XLSB، XLT، XLTX، XLTM، XLSM، XML، OTS
     </li>
     <li>
      <b>
@@ -171,13 +171,25 @@ Aspose.Cells for Python عبر .Net هو API سريع وموثوق لمهام م
      <b>
  نص:
      </b>
-     CSV, TSV, TXT
+     CSV, TSV, JSON
     </li>
     <li>
      <b>
  الويب:
      </b>
      HTML, MHTML
+    </li>
+    <li>
+     <b>
+      Numbers:
+     </b>
+ وثائق تطبيق مجموعة مكتب iWork من Apple Numbers
+    </li>
+    <li>
+     <b>
+ آحرون:
+     </b>
+ SXC، FODS، النشر الإلكتروني
     </li>
    </ul>
   </div>
@@ -186,7 +198,7 @@ Aspose.Cells for Python عبر .Net هو API سريع وموثوق لمهام م
    <header>
     <i class="fa fa-mail-forward">
     </i>
- الإخراج فقط
+الإخراج فقط
    </header>
    <ul>
     <li>
@@ -197,9 +209,21 @@ Aspose.Cells for Python عبر .Net هو API سريع وموثوق لمهام م
     </li>
     <li>
      <b>
+ تبادل البيانات:
+     </b>
+     DIF
+    </li>    
+    <li>
+     <b>
  الصور:
      </b>
-     JPEG, PNG, BMP, SVG, EMF
+     JPEG, PNG, BMP, SVG, TIFF, EMF, GIF
+    </li>
+    <li>
+     <b>
+ آحرون:
+     </b>
+ MARKDOWN، SQL، XTHML
     </li>
    </ul>
   </div>
@@ -306,7 +330,7 @@ Aspose.Cells for Python عبر .Net هو API سريع وموثوق لمهام م
     <em class="fa fa-object-ungroup ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-إضافة أو إزالة التجميع إلى الصفوف والأعمدة
+ إضافة أو إزالة التجميع إلى الصفوف والأعمدة
     </p>
    </div>
    <div class="col-lg-4">
@@ -416,7 +440,7 @@ Aspose.Cells for Python عبر .Net هو API سريع وموثوق لمهام م
  تحويل صيغ متعددة
     </h2>
     <p>
- Python توفر مكتبة Excel إمكانية تحويل ملفات Excel إلى PDF وXPS &amp; HTML تنسيقات. التحويل الموثوق لـ API يجعله حلاً مثاليًا للشركات التي تحتاج إلى تبادل الملفات بتنسيقات متوافقة مع معايير الصناعة.
+Python توفر مكتبة Excel إمكانية تحويل ملفات Excel إلى PDF وXPS &amp; HTML تنسيقات. التحويل الموثوق لـ API يجعله حلاً مثاليًا للشركات التي تحتاج إلى تبادل الملفات بتنسيقات متوافقة مع معايير الصناعة.
     </p>
     <div class="codeblock" id="code">
      <h3>
@@ -493,7 +517,7 @@ wk.save("houtput.html", SaveFormat.HTML);</code></pre>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-تخصيص الرسوم البيانية
+ تخصيص الرسوم البيانية
     </h2>
     <p>
 Aspose.Cells for Python via .NET يوفر الدعم الكامل للرسوم البيانية. يمكن للمرء بسهولة إضافة مخططات قياسية ومخصصة أو تعيين بيانات المخطط ديناميكيًا من أجل تحديث المخطط في مكتبة python هذه.

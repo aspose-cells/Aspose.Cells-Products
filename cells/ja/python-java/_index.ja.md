@@ -13,7 +13,7 @@ keywords: [Python Aspose.Cells Create parse repair merge convert JSON Excel XML 
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
-Aspose.Cells for Python via Java は、スプレッドシート処理タスク用の高速で信頼性の高い API です。開発者は、単純または複雑なスプレッドシートを作成し、Excel ファイルから情報を操作したり抽出したりできます。 API は複数の Excel 形式を読み取り、ワークシートを XPS、PDF、MHTML、HTML、プレーン テキスト、画像などにレンダリングできます。 Python を使用して Excel レポートを自動化するための最良のソリューションです。
+ Aspose.Cells for Python via Java は、スプレッドシート処理タスク用の高速で信頼性の高い API です。開発者は、単純または複雑なスプレッドシートを作成し、Excel ファイルから情報を操作したり抽出したりできます。 API は複数の Excel 形式を読み取り、ワークシートを XPS、PDF、MHTML、HTML、プレーン テキスト、画像などにレンダリングできます。 Python を使用して Excel レポートを自動化するための最良のソリューションです。
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
@@ -159,7 +159,7 @@ Aspose.Cells for Python via Java は、スプレッドシート処理タスク�
      <b>
 Microsoft エクセル:
      </b>
- XLS、XLSX、XLSB、XLTX、XLTM、XLSM、XML
+ XLS、XLSX、XLSB、XLT、XLTX、XLTM、XLSM、XML、OTS
     </li>
     <li>
      <b>
@@ -171,13 +171,25 @@ Microsoft エクセル:
      <b>
 文章：
      </b>
-     CSV, TSV, TXT
+     CSV, TSV, JSON
     </li>
     <li>
      <b>
 ウェブ：
      </b>
      HTML, MHTML
+    </li>
+    <li>
+     <b>
+      Numbers:
+     </b>
+ Apple の iWork オフィス スイート Numbers アプリのドキュメント
+    </li>
+    <li>
+     <b>
+その他:
+     </b>
+ SXC、FODS、EPUB
     </li>
    </ul>
   </div>
@@ -197,9 +209,21 @@ Microsoft エクセル:
     </li>
     <li>
      <b>
+データ交換:
+     </b>
+     DIF
+    </li>    
+    <li>
+     <b>
 画像:
      </b>
-     JPEG, PNG, BMP, SVG, EMF
+     JPEG, PNG, BMP, SVG, TIFF, EMF, GIF
+    </li>
+    <li>
+     <b>
+その他:
+     </b>
+ MARKDOWN、SQL、XTHML
     </li>
    </ul>
   </div>
@@ -484,7 +508,7 @@ wkbk.save(SD_PATH + "houtput.html", SaveFormat.HTML);</code></pre>
  Excelシートデータ管理
     </h2>
     <p>
- Aspose.Cells for Python via Java API は、ワークシート データ管理に対する広範なサポートを提供します。実行時にワークシート内の任意のセルを簡単に操作したり、さまざまなデータ ソースからワークシートにデータをインポートしたりできます。
+Aspose.Cells for Python via Java API は、ワークシート データ管理に対する広範なサポートを提供します。実行時にワークシート内の任意のセルを簡単に操作したり、さまざまなデータ ソースからワークシートにデータをインポートしたりできます。
     </p>
    </div>
    <div class="col-lg-12">

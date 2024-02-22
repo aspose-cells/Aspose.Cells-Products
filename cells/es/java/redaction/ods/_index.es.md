@@ -12,11 +12,7 @@ keywords: [Java Aspose.Cells., Java Search and replace text in ODS file., Java r
 
 {{% blocks/products/pf/agp/content h2="Cómo redactar el archivo ODS usando Java" %}}
 
- Para redactar el archivo ODS, usaremos
- [Aspose.Cells for Java](https://products.aspose.com/cells/java) 
-API, que es una plataforma de redacción API for Java rica en funciones, potente y fácil de usar. Puede descargar su última versión directamente desde
- [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) 
- e instálelo dentro de su proyecto basado en Maven agregando las siguientes configuraciones a pom.xml.
+ Para redactar el archivo ODS, usaremos[Aspose.Cells for Java](https://products.aspose.com/cells/java) API, que es una plataforma de redacción API for Java rica en funciones, potente y fácil de usar. Puede descargar su última versión directamente desde[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) e instálelo dentro de su proyecto basado en Maven agregando las siguientes configuraciones a pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Repositorio" offSpacer="true" %}}
 
@@ -54,9 +50,7 @@ API, que es una plataforma de redacción API for Java rica en funciones, potente
 
 {{% blocks/products/pf/agp/text %}}
 
- Un documento básico para buscar y reemplazar texto en contenidos, comentarios o metadatos con
- [Aspose.Cells for Java](https://products.aspose.com/cells/java) 
- Las API se pueden crear con solo unas pocas líneas de código.
+ Un documento básico para buscar y reemplazar texto en contenidos, comentarios o metadatos con[Aspose.Cells for Java](https://products.aspose.com/cells/java) Las API se pueden crear con solo unas pocas líneas de código.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -78,7 +72,7 @@ API, que es una plataforma de redacción API for Java rica en funciones, potente
 
 {{% /blocks/products/pf/agp/text %}}
 
--  Microsoft Windows o un sistema operativo compatible con Java Runtime Environment para aplicaciones JSP/JSF y aplicaciones de escritorio.
+- Microsoft Windows o un sistema operativo compatible con Java Runtime Environment para aplicaciones JSP/JSF y aplicaciones de escritorio.
 -  Obtenga la última versión de Aspose.Cells for Java directamente desde
  [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells)  .
 
@@ -144,11 +138,11 @@ workbook.save(dataDir + "output.ods");
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" No es necesario descargar Aspose API." >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" No es necesario escribir ningún código." >}}
         {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Simplemente cargue sus archivos ODS." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-download" text="Será redactado al instante." >}}
+        {{< blocks/products/pf/agp/democard icon="fa-download" text=" Será redactado al instante." >}}
     {{< /blocks/products/pf/agp/demobox >}}
 
     {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="ODS" readMoreLink="https://docs.fileformat.com/spreadsheet/ods/" >}}
-Los archivos con extensión ODS representan el formato de documento de hoja de cálculo OpenDocument que el usuario puede editar. Los datos se almacenan dentro del archivo ODF en filas y columnas. Es un formato basado en XML y es uno de los varios subtipos de la familia de formatos de documentos abiertos (ODF). El formato se especifica como parte de las especificaciones ODF 1.2 publicadas y mantenidas por OASIS. Varias aplicaciones en Windows, así como otros sistemas operativos, pueden abrir archivos ODS para editarlos y manipularlos, incluidos Microsoft Excel, NeoOffice y LibreOffice. Los archivos ODS también se pueden convertir a otros formatos de hojas de cálculo, como XLS, XLSX y otros, mediante diferentes aplicaciones.
+ Los archivos con extensión ODS representan el formato de documento de hoja de cálculo OpenDocument que el usuario puede editar. Los datos se almacenan dentro del archivo ODF en filas y columnas. Es un formato basado en XML y es uno de los varios subtipos de la familia de formatos de documentos abiertos (ODF). El formato se especifica como parte de las especificaciones ODF 1.2 publicadas y mantenidas por OASIS. Varias aplicaciones en Windows, así como otros sistemas operativos, pueden abrir archivos ODS para editarlos y manipularlos, incluidos Microsoft Excel, NeoOffice y LibreOffice. Los archivos ODS también se pueden convertir a otros formatos de hojas de cálculo, como XLS, XLSX y otros, mediante diferentes aplicaciones.
 
     {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
@@ -161,6 +155,7 @@ Los archivos con extensión ODS representan el formato de documento de hoja de c
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/redaction/xls/" name="XLS" description="Formato binario de Excel" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/redaction/xlsb/" name="XLSB" description="Archivo de libro de Excel binario" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/redaction/xlsm/" name="XLSM" description="Archivo de hoja de cálculo" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/redaction/xlsx/" name="XLSX" description="Archivo Excel OOXML" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

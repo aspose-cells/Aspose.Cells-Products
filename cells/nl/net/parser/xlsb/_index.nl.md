@@ -12,13 +12,7 @@ keywords: [C# Aspose.Cells., c# Extract text and images from XLSB file., c# How 
 
 {{% blocks/products/pf/agp/content h2="Hoe het bestand XLSB te parseren met behulp van C#" %}}
 
- Om het bestand XLSB te parseren, gebruiken we
- [Aspose.Cells for .NET](https://products.aspose.com/cells/net) 
- API, een veelzijdige, krachtige en gebruiksvriendelijke documentmanipulatie API voor het C#-platform. Open
- [NuGet](https://www.nuget.org/packages/aspose.cells) 
- pakketbeheerder, zoek naar
- **Aspose.Cells** 
- en installeren. U kunt ook de volgende opdracht gebruiken vanuit de Package Manager Console.
+ Om het bestand XLSB te parseren, gebruiken we[Aspose.Cells for .NET](https://products.aspose.com/cells/net) API, een veelzijdige, krachtige en gebruiksvriendelijke documentmanipulatie API voor het C#-platform. Open[NuGet](https://www.nuget.org/packages/aspose.cells) pakketbeheerder, zoek naar**Aspose.Cells** en installeren. U kunt ook de volgende opdracht gebruiken vanuit de Package Manager Console.
 
 {{% blocks/products/pf/agp/code-block title="Commando" offSpacer="true" %}}
 
@@ -38,9 +32,7 @@ PM> Install-Package Aspose.Cells
 
 {{% blocks/products/pf/agp/text %}}
 
- Een basisdocument dat parseert met
- [Aspose.Cells for .NET](https://products.aspose.com/cells/net) 
- API's kunnen met slechts enkele regels code worden uitgevoerd. Parseer tekst en afbeeldingen uit de bestanden Microsoft Excel XLS, XLSX, XLSM, XLSB en OpenDocument ODS.
+ Een basisdocument dat parseert met[Aspose.Cells for .NET](https://products.aspose.com/cells/net)API's kunnen met slechts enkele regels code worden uitgevoerd. Parseer tekst en afbeeldingen uit de bestanden Microsoft Excel XLS, XLSX, XLSM, XLSB en OpenDocument ODS.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -56,7 +48,7 @@ PM> Install-Package Aspose.Cells
 
 {{% blocks/products/pf/agp/text %}}
 
- Onze API's worden ondersteund op alle belangrijke platforms en besturingssystemen. Voordat u de onderstaande code uitvoert, moet u ervoor zorgen dat uw systeem aan de volgende vereisten voldoet.
+Onze API's worden ondersteund op alle belangrijke platforms en besturingssystemen. Voordat u de onderstaande code uitvoert, moet u ervoor zorgen dat uw systeem aan de volgende vereisten voldoet.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -115,7 +107,7 @@ PM> Install-Package Aspose.Cells
 
     {{< blocks/products/pf/agp/about-file-section >}}
 
-        {{< blocks/products/pf/agp/demobox sectionTitle="Online XLSB Parser Live-demo\'s" sectionDescription=" Extraheer nu tekst en afbeeldingen uit XLSB-documenten door naar onze[Live demo-website](https://products.aspose.app/cells/parser). De live demo heeft de volgende voordelen" >}}
+        {{< blocks/products/pf/agp/demobox sectionTitle="Online XLSB Parser Live-demo\'s" sectionDescription="Extraheer nu tekst en afbeeldingen uit XLSB-documenten door naar onze[Live demo-website](https://products.aspose.app/cells/parser). De live demo heeft de volgende voordelen" >}}
             {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" U hoeft Aspose API niet te downloaden." >}}
             {{< blocks/products/pf/agp/democard icon="fa-edit" text=" U hoeft geen code te schrijven." >}}
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Upload gewoon uw XLSB-bestanden." >}}
@@ -135,6 +127,7 @@ De bestandsindeling XLSB specificeert de binaire bestandsindeling van Excel, een
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/parser/ods/" name="ODS" description="OpenDocument-spreadsheetbestand" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/parser/xls/" name="XLS" description="Excel binair formaat" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/parser/xlsm/" name="XLSM" description="Spreadsheet-bestand" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/parser/xlsx/" name="XLSX" description="OOXML Excel-bestand" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

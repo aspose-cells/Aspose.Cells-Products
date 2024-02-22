@@ -1,6 +1,6 @@
 ---
 title: TIFF बनाएँ - C++ में TIFF फ़ाइल बनाएँ
-description: Aspose एक्सेल। C++ Aspose.Cells के साथ जल्दी और आसानी से TIFF फ़ाइल बनाएं। C++ का उपयोग करके TIFF फ़ाइल बनाएं। C++ में TIFF बनाएं। C++ TIFF क्रिएटर।
+description:  Aspose एक्सेल। C++ Aspose.Cells के साथ जल्दी और आसानी से TIFF फ़ाइल बनाएं। C++ का उपयोग करके TIFF फ़ाइल बनाएं। C++ में TIFF बनाएं। C++ TIFF क्रिएटर।
 keywords: [Aspose Excel., C++ Aspose.Cells., C++ Create TIFF file., Generate TIFF file in C++., Create TIFF file using C++., Write data to TIFF file via C++., Create a TIFF file in C++., C++ Generate a TIFF file., C++ TIFF Creater]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -11,7 +11,7 @@ keywords: [Aspose Excel., C++ Aspose.Cells., C++ Create TIFF file., Generate TIF
 
 {{% blocks/products/pf/agp/content h2="C++ का उपयोग करके TIFF फ़ाइल बनाएँ" %}}
 
- TIFF फ़ाइल कैसे बनाएं? Aspose.Cells for C++ लाइब्रेरी के साथ, आप आसानी से कोड की कुछ पंक्तियों के साथ प्रोग्रामेटिक रूप से TIFF फ़ाइल बना सकते हैं।[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) सभी एक्सेल फ़ाइलों को उत्पन्न करने, संशोधित करने, परिवर्तित करने, प्रस्तुत करने और प्रिंट करने की क्षमता के साथ क्रॉस-प्लेटफ़ॉर्म एप्लिकेशन बनाने में सक्षम है। C++ एक्सेल API न केवल स्प्रेडशीट प्रारूपों के बीच परिवर्तित होता है, बल्कि यह एक्सेल फाइलों को छवियों, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT और अधिक के रूप में भी प्रस्तुत कर सकता है, इस प्रकार यह उद्योग-मानक प्रारूपों में दस्तावेजों का आदान-प्रदान करने के लिए एक आदर्श विकल्प बन जाता है। आप इसका नवीनतम संस्करण सीधे डाउनलोड कर सकते हैं, बस खोलें[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) पैकेज मैनेजर, Aspose.Cells.सीपीपी खोजें और इंस्टॉल करें। आप पैकेज मैनेजर कंसोल से निम्न कमांड का भी उपयोग कर सकते हैं।
+ TIFF फ़ाइल कैसे बनाएं? Aspose.Cells for C++ लाइब्रेरी के साथ, आप आसानी से कोड की कुछ पंक्तियों के साथ प्रोग्रामेटिक रूप से TIFF फ़ाइल बना सकते हैं।[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) सभी एक्सेल फ़ाइलों को उत्पन्न करने, संशोधित करने, परिवर्तित करने, प्रस्तुत करने और प्रिंट करने की क्षमता के साथ क्रॉस-प्लेटफ़ॉर्म एप्लिकेशन बनाने में सक्षम है। C++ एक्सेल API न केवल स्प्रेडशीट प्रारूपों के बीच परिवर्तित होता है, बल्कि यह एक्सेल फाइलों को छवियों, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT और अधिक के रूप में भी प्रस्तुत कर सकता है, इस प्रकार यह उद्योग-मानक प्रारूपों में दस्तावेजों का आदान-प्रदान करने के लिए एक आदर्श विकल्प बन जाता है। आप इसका नवीनतम संस्करण सीधे डाउनलोड कर सकते हैं, बस खोलें[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/)पैकेज मैनेजर, Aspose.Cells.सीपीपी खोजें और इंस्टॉल करें। आप पैकेज मैनेजर कंसोल से निम्न कमांड का भी उपयोग कर सकते हैं।
 
 {{% blocks/products/pf/agp/code-block title="आज्ञा" offSpacer="true" %}}
 
@@ -37,9 +37,9 @@ PM> Install-Package Aspose.Cells.Cpp
 1.  वर्कबुक क्लास का एक ऑब्जेक्ट बनाएं।
 1.  वर्कशीट ऑब्जेक्ट में पहली शीट प्राप्त करें।
 1.  वर्कशीट की कोशिकाओं को Cells ऑब्जेक्ट में लाने के लिए वर्कशीट.गेटसेल्स() विधि का उपयोग करें।
-1. वर्कशीट के वांछित सेल को Cell ऑब्जेक्ट में एक्सेस करने के लिए Cells.गेट() विधि का उपयोग करें।
+1.  वर्कशीट के वांछित सेल को Cell ऑब्जेक्ट में एक्सेस करने के लिए Cells.गेट() विधि का उपयोग करें।
 1.  सेल में मान इनपुट करने के लिए Cell.PutValue() विधि का उपयोग करें।
-1. Save() विधि का उपयोग करके कार्यपुस्तिका को .tiff फ़ाइल के रूप में सहेजें।
+1.  Save() विधि का उपयोग करके कार्यपुस्तिका को .tiff फ़ाइल के रूप में सहेजें।
 
 {{% blocks/products/pf/agp/code-block title="नमूना कोड दिखाता है कि C++ में TIFF फ़ाइल कैसे बनाएं।" offSpacer="" %}}
 
@@ -70,7 +70,6 @@ cell01.PutValue(u"ColumnB");
 cell10.PutValue(u"ValueA");
 cell11.PutValue(u"ValueB");
 
-//TIFF format is not supported
 // Save workbook to resultFile folder
 wkb.Save(u"created_one.tiff");
 

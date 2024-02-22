@@ -13,7 +13,7 @@ keywords: [Python Aspose.Cells Create repair merge convert JSON Excel XML PDF HT
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
-Aspose.Cells for Python über .Net ist eine schnelle und zuverlässige API für Tabellenkalkulationsaufgaben. Entwickler können einfache oder komplexe Tabellenkalkulationen erstellen, Informationen aus Excel-Dateien bearbeiten und extrahieren. API liest mehrere Excel-Formate und kann Arbeitsblätter in XPS, PDF, MHTML, HTML, einfachen Text, Bilder und mehr rendern. Es ist die beste Lösung, um Excel-Berichte mithilfe von Python zu automatisieren.
+ Aspose.Cells for Python über .Net ist eine schnelle und zuverlässige API für Tabellenkalkulationsaufgaben. Entwickler können einfache oder komplexe Tabellenkalkulationen erstellen, Informationen aus Excel-Dateien bearbeiten und extrahieren. API liest mehrere Excel-Formate und kann Arbeitsblätter in XPS, PDF, MHTML, HTML, einfachen Text, Bilder und mehr rendern. Es ist die beste Lösung, um Excel-Berichte mithilfe von Python zu automatisieren.
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
@@ -38,7 +38,7 @@ Aspose.Cells for Python über .Net ist eine schnelle und zuverlässige API für 
  ResultSet
     </li>
     <li>
-Sammlungen
+ Sammlungen
     </li>
    </ul>
    <header>
@@ -76,7 +76,7 @@ Sammlungen
  Erstellen Sie Diagramme
     </li>
     <li>
- Zusammenfassen
+Zusammenfassen
     </li>
     <li>
  Intelligente Marker
@@ -159,7 +159,7 @@ Sammlungen
      <b>
  Microsoft Excel:
      </b>
- XLS, XLSX, XLSB, XLTX, XLTM, XLSM, XML
+ XLS, XLSX, XLSB, XLT, XLTX, XLTM, XLSM, XML, OTS
     </li>
     <li>
      <b>
@@ -171,13 +171,25 @@ Sammlungen
      <b>
  Text:
      </b>
-     CSV, TSV, TXT
+     CSV, TSV, JSON
     </li>
     <li>
      <b>
  Netz:
      </b>
      HTML, MHTML
+    </li>
+    <li>
+     <b>
+      Numbers:
+     </b>
+ App-Dokumente der iWork-Office-Suite Numbers von Apple
+    </li>
+    <li>
+     <b>
+ Andere:
+     </b>
+ SXC, FODS, EPUB
     </li>
    </ul>
   </div>
@@ -186,7 +198,7 @@ Sammlungen
    <header>
     <i class="fa fa-mail-forward">
     </i>
- Nur Ausgabe
+Nur Ausgabe
    </header>
    <ul>
     <li>
@@ -197,9 +209,21 @@ Sammlungen
     </li>
     <li>
      <b>
+ Datenaustausch:
+     </b>
+     DIF
+    </li>    
+    <li>
+     <b>
  Bilder:
      </b>
-     JPEG, PNG, BMP, SVG, EMF
+     JPEG, PNG, BMP, SVG, TIFF, EMF, GIF
+    </li>
+    <li>
+     <b>
+ Andere:
+     </b>
+ MARKDOWN, SQL, XTHML
     </li>
    </ul>
   </div>
@@ -306,7 +330,7 @@ Sammlungen
     <em class="fa fa-object-ungroup ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-Gruppierung zu Zeilen und Spalten hinzufügen oder entfernen
+ Gruppierung zu Zeilen und Spalten hinzufügen oder entfernen
     </p>
    </div>
    <div class="col-lg-4">
@@ -416,7 +440,7 @@ Gruppierung zu Zeilen und Spalten hinzufügen oder entfernen
  Konvertierung mehrerer Formate
     </h2>
     <p>
- Python Excel-Bibliothek ermöglicht die Konvertierung von Excel-Dateien in PDF, XPS &amp; HTML Formate. Die zuverlässige Konvertierung von API macht es zu einer perfekten Lösung für Unternehmen, die Dateien in branchenüblichen Formaten austauschen müssen.
+Python Excel-Bibliothek ermöglicht die Konvertierung von Excel-Dateien in PDF, XPS &amp; HTML Formate. Die zuverlässige Konvertierung von API macht es zu einer perfekten Lösung für Unternehmen, die Dateien in branchenüblichen Formaten austauschen müssen.
     </p>
     <div class="codeblock" id="code">
      <h3>
@@ -493,7 +517,7 @@ wk.save("houtput.html", SaveFormat.HTML);</code></pre>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-Diagrammanpassung
+ Diagrammanpassung
     </h2>
     <p>
 Aspose.Cells for Python via .NET bietet volle Unterstützung für Diagramme. Mit dieser Python-Bibliothek können Sie problemlos Standard- und benutzerdefinierte Diagramme hinzufügen oder Diagrammdaten dynamisch festlegen, um das Diagramm zu aktualisieren.

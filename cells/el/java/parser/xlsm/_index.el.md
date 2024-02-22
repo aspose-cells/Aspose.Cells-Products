@@ -12,11 +12,7 @@ keywords: [Java Aspose.Cells., Java Extract text and images from XLSM file., Jav
 
 {{% blocks/products/pf/agp/content h2="Πώς να αναλύσετε το αρχείο XLSM χρησιμοποιώντας το Java" %}}
 
- Για να αναλύσουμε το αρχείο XLSM, θα χρησιμοποιήσουμε
- [Aspose.Cells for Java](https://products.aspose.com/cells/java) 
- API που είναι μια πλούσια σε χαρακτηριστικά, ισχυρή και εύκολη στη χρήση πλατφόρμα ανάλυσης API for Java. Μπορείτε να κατεβάσετε την τελευταία του έκδοση απευθείας από
- [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) 
- και εγκαταστήστε το στο έργο σας που βασίζεται στο Maven προσθέτοντας τις ακόλουθες διαμορφώσεις στο pom.xml.
+ Για να αναλύσουμε το αρχείο XLSM, θα χρησιμοποιήσουμε[Aspose.Cells for Java](https://products.aspose.com/cells/java) API που είναι μια πλούσια σε χαρακτηριστικά, ισχυρή και εύκολη στη χρήση πλατφόρμα ανάλυσης API for Java. Μπορείτε να κατεβάσετε την τελευταία του έκδοση απευθείας από[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) και εγκαταστήστε το στο έργο σας που βασίζεται στο Maven προσθέτοντας τις ακόλουθες διαμορφώσεις στο pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Αποθήκη" offSpacer="true" %}}
 
@@ -54,9 +50,7 @@ keywords: [Java Aspose.Cells., Java Extract text and images from XLSM file., Jav
 
 {{% blocks/products/pf/agp/text %}}
 
- Ένα βασικό έγγραφο ανάλυσης με
- [Aspose.Cells for Java](https://products.aspose.com/cells/java) 
- Τα API μπορούν να γίνουν με λίγες μόνο γραμμές κώδικα. Ανάλυση κειμένου και εικόνων από Microsoft Excel XLS, XLSX, XLSM, XLSB και OpenDocument ODS.
+ Ένα βασικό έγγραφο ανάλυσης με[Aspose.Cells for Java](https://products.aspose.com/cells/java)Τα API μπορούν να γίνουν με λίγες μόνο γραμμές κώδικα. Ανάλυση κειμένου και εικόνων από Microsoft Excel XLS, XLSX, XLSM, XLSB και OpenDocument ODS.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -76,7 +70,7 @@ keywords: [Java Aspose.Cells., Java Extract text and images from XLSM file., Jav
 
 {{% /blocks/products/pf/agp/text %}}
 
--  Microsoft Windows ή συμβατό λειτουργικό σύστημα με Java Runtime Environment για εφαρμογές JSP/JSF και εφαρμογές επιφάνειας εργασίας.
+- Microsoft Windows ή συμβατό λειτουργικό σύστημα με Java Runtime Environment για εφαρμογές JSP/JSF και εφαρμογές επιφάνειας εργασίας.
 -  Λάβετε την τελευταία έκδοση του Aspose.Cells for Java απευθείας από
  [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells)  .
 
@@ -121,7 +115,7 @@ System.out.println(stringBuilder.toString());
 
 {{< blocks/products/pf/agp/about-file-section >}}
 
-    {{< blocks/products/pf/agp/demobox sectionTitle="Online XLSM Parser Live Demos" sectionDescription=" Εξάγετε κείμενο και εικόνες από έγγραφα XLSM τώρα, επισκεπτόμενοι το δικό μας[Ζωντανή ιστοσελίδα Demos](https://products.aspose.app/cells/parser). Η ζωντανή επίδειξη έχει τα ακόλουθα πλεονεκτήματα" >}}
+    {{< blocks/products/pf/agp/demobox sectionTitle="Online XLSM Parser Live Demos" sectionDescription="Εξάγετε κείμενο και εικόνες από έγγραφα XLSM τώρα, επισκεπτόμενοι το δικό μας[Ζωντανή ιστοσελίδα Demos](https://products.aspose.app/cells/parser). Η ζωντανή επίδειξη έχει τα ακόλουθα πλεονεκτήματα" >}}
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Δεν χρειάζεται να κατεβάσετε το Aspose API." >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Δεν χρειάζεται να γράψετε κανέναν κώδικα." >}}
         {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Απλώς ανεβάστε τα XLSM αρχεία σας." >}}
@@ -142,6 +136,7 @@ System.out.println(stringBuilder.toString());
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/parser/ods/" name="ODS" description="Αρχείο Υπολογιστικού Φύλλου OpenDocument" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/parser/xls/" name="XLS" description="Δυαδική μορφή Excel" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/parser/xlsb/" name="XLSB" description="Δυαδικό αρχείο βιβλίου εργασίας Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/parser/xlsx/" name="XLSX" description="Αρχείο Excel OOXML" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

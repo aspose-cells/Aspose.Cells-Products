@@ -1,5 +1,5 @@
 ---
-title: Marca d'água ODS documento via Java
+title:  Marca d'água ODS documento via Java
 weight: 1040
 description: Código de amostra Java para adicionar ou remover marca d’água do arquivo ODS no Java Runtime Environment para aplicativos JSP/JSF e aplicativos de desktop.
 keywords: [Java Aspose.Cells., Java add watermark to ods file., Java insert watermark to ods file., Java create watermark in ods file., remove watermark from ods file using Java., Java operate watermark in ods file., Java access watermark in ods file]
@@ -12,11 +12,7 @@ keywords: [Java Aspose.Cells., Java add watermark to ods file., Java insert wate
 
 {{% blocks/products/pf/agp/content h2="Como colocar marca d\'água no arquivo ODS usando Java" %}}
 
- Para colocar marca d'água no arquivo ODS, usaremos
- [Aspose.Cells for Java](https://products.aspose.com/cells/java) 
- API, que é uma plataforma de marca d'água API for Java rica em recursos, poderosa e fácil de usar. Você pode baixar sua versão mais recente diretamente de
- [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) 
- e instale-o em seu projeto baseado em Maven adicionando as seguintes configurações ao pom.xml.
+ Para colocar marca d'água no arquivo ODS, usaremos[Aspose.Cells for Java](https://products.aspose.com/cells/java) API, que é uma plataforma de marca d'água API for Java rica em recursos, poderosa e fácil de usar. Você pode baixar sua versão mais recente diretamente de[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) e instale-o em seu projeto baseado em Maven adicionando as seguintes configurações ao pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Repositório" offSpacer="true" %}}
 
@@ -129,7 +125,7 @@ workbook.save(dataDir + "AWArtWToWorksheet_out.ods");
     {{< blocks/products/pf/agp/about-file-section >}}
 
         {{< blocks/products/pf/agp/demobox sectionTitle="Marca d\'água ODS via aplicativo online" sectionDescription=" Adicione marca d\'água aos documentos ODS visitando nosso[Site de demonstrações ao vivo](https://products.aspose.app/cells/watermark). A demonstração ao vivo tem os seguintes benefícios" >}}
-            {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Não há necessidade de baixar ou configurar nada" >}}
+            {{< blocks/products/pf/agp/democard icon="fa-cogs" text="Não há necessidade de baixar ou configurar nada" >}}
             {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Não há necessidade de escrever nenhum código" >}}
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Basta enviar seu arquivo ODS, definir sua marca d\'água e clicar no botão \"Adicionar\"" >}}
             {{< blocks/products/pf/agp/democard icon="fa-download" text=" Obtenha instantaneamente o link de download do arquivo resultante" >}}
@@ -148,6 +144,7 @@ Arquivos com extensão ODS representam o formato de documento de planilha OpenDo
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/watermark/xls/" name="XLS" description="Formato binário do Excel" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/watermark/xlsb/" name="XLSB" description="Arquivo binário da pasta de trabalho do Excel" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/watermark/xlsm/" name="XLSM" description="Arquivo de planilha" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/watermark/xlsx/" name="XLSX" description="Arquivo Excel OOXML" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

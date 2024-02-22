@@ -1,5 +1,5 @@
 ---
-title:  Wyszukaj i zamień tekst w dokumencie XLSM pod numerem C++
+title: Wyszukaj i zamień tekst w dokumencie XLSM pod numerem C++
 weight: 9570
 description: C++ przykładowy kod do redagowania poufnych informacji w pliku XLSM w środowisku wykonawczym C++ dla Windows 32-bitowego, Windows 64-bitowego i 64-bitowego systemu Linux.
 keywords: [C++ Aspose.Cells., C++ Search and replace text in XLSM file., C++ redact XLSM file., C++ edit XLSM file., C++ XLSM file redaction., C++ Search and replace string in XLSM file]
@@ -12,13 +12,7 @@ keywords: [C++ Aspose.Cells., C++ Search and replace text in XLSM file., C++ red
 
 {{% blocks/products/pf/agp/content h2="Jak zredagować plik XLSM przy użyciu C++" %}}
 
- Aby zredagować plik XLSM, użyjemy
- [Aspose.Cells for C++](https://products.aspose.com/cells/cpp) 
- API, która jest bogatą w funkcje, wydajną i łatwą w obsłudze platformą do redakcji dokumentów API for C++. Możesz pobrać jego najnowszą wersję bezpośrednio, po prostu otwórz
- [NuGet](https://www.nuget.org/packages/aspose.cells) 
- menedżer pakietów, wyszukaj
- **Aspose.Cells.Cpp** 
- i zainstaluj. Możesz także użyć następującego polecenia z konsoli Menedżera pakietów.
+ Aby zredagować plik XLSM, użyjemy[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) API, która jest bogatą w funkcje, wydajną i łatwą w obsłudze platformą do redakcji dokumentów API for C++. Możesz pobrać jego najnowszą wersję bezpośrednio, po prostu otwórz[NuGet](https://www.nuget.org/packages/aspose.cells) menedżer pakietów, wyszukaj**Aspose.Cells.Cpp** i zainstaluj. Możesz także użyć następującego polecenia z konsoli Menedżera pakietów.
 
 {{% blocks/products/pf/agp/code-block title="Komenda" offSpacer="true" %}}
 
@@ -38,15 +32,13 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% blocks/products/pf/agp/text %}}
 
- Podstawowe wyszukiwanie dokumentów i zastępowanie tekstu w treści, komentarzach lub metadanych za pomocą
- [Aspose.Cells for C++](https://products.aspose.com/cells/cpp) 
- Interfejsy API można wykonać za pomocą zaledwie kilku linii kodu.
+ Podstawowe wyszukiwanie dokumentów i zastępowanie tekstu w treści, komentarzach lub metadanych za pomocą[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) Interfejsy API można wykonać za pomocą zaledwie kilku linii kodu.
 
 {{% /blocks/products/pf/agp/text %}}
 
 + Załaduj plik XLSM.
 + Zdefiniuj opcje zamiany.
-+ Ustaw opcję uwzględniania wielkości liter.
+Ustaw opcję uwzględniania wielkości liter.
 + Ustaw opcję dopasowywania tekstu
 + Zastąp tekst metodą Zamień(...).
 + Zapisz skoroszyt.
@@ -114,7 +106,7 @@ Aspose::Cells::Cleanup();
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Nie ma potrzeby pobierania Aspose API." >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Nie trzeba pisać żadnego kodu." >}}
         {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Po prostu prześlij swoje pliki XLSM." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-download" text="Zostanie natychmiast zredagowany." >}}
+        {{< blocks/products/pf/agp/democard icon="fa-download" text=" Zostanie natychmiast zredagowany." >}}
     {{< /blocks/products/pf/agp/demobox >}}
 
     {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLSM" readMoreLink="https://docs.fileformat.com/spreadsheet/xlsm/" >}}
@@ -131,6 +123,7 @@ Pliki z rozszerzeniem XLSM to rodzaj plików arkuszy kalkulacyjnych obsługując
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/redaction/ods/" name="ODS" description="Plik arkusza kalkulacyjnego OpenDocument" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/redaction/xls/" name="XLS" description="Format binarny Excela" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/redaction/xlsb/" name="XLSB" description="Binarny plik skoroszytu programu Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/redaction/xlsx/" name="XLSX" description="Plik Excela OOXML" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

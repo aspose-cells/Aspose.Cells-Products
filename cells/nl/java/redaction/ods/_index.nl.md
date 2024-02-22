@@ -12,11 +12,7 @@ keywords: [Java Aspose.Cells., Java Search and replace text in ODS file., Java r
 
 {{% blocks/products/pf/agp/content h2="Hoe u een ODS-bestand kunt redigeren met behulp van Java" %}}
 
- Om het bestand ODS te redigeren, gebruiken we
- [Aspose.Cells for Java](https://products.aspose.com/cells/java) 
-API, een rijk, krachtig en gebruiksvriendelijk redactieplatform API for Java. U kunt de nieuwste versie rechtstreeks downloaden van
- [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) 
- en installeer het binnen uw op Maven gebaseerde project door de volgende configuraties toe te voegen aan pom.xml.
+ Om het bestand ODS te redigeren, gebruiken we[Aspose.Cells for Java](https://products.aspose.com/cells/java) API, een rijk, krachtig en gebruiksvriendelijk redactieplatform API for Java. U kunt de nieuwste versie rechtstreeks downloaden van[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) en installeer het binnen uw op Maven gebaseerde project door de volgende configuraties toe te voegen aan pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Opslagplaats" offSpacer="true" %}}
 
@@ -54,9 +50,7 @@ API, een rijk, krachtig en gebruiksvriendelijk redactieplatform API for Java. U 
 
 {{% blocks/products/pf/agp/text %}}
 
- Een basisdocument zoeken en tekst in inhoud, opmerkingen of metagegevens vervangen
- [Aspose.Cells for Java](https://products.aspose.com/cells/java) 
- API's kunnen met slechts enkele regels code worden uitgevoerd.
+ Een basisdocument zoeken en tekst in inhoud, opmerkingen of metagegevens vervangen[Aspose.Cells for Java](https://products.aspose.com/cells/java) API's kunnen met slechts enkele regels code worden uitgevoerd.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -78,7 +72,7 @@ API, een rijk, krachtig en gebruiksvriendelijk redactieplatform API for Java. U 
 
 {{% /blocks/products/pf/agp/text %}}
 
--  Microsoft Windows of een compatibel besturingssysteem met Java Runtime Environment voor JSP/JSF-applicatie en desktopapplicaties.
+- Microsoft Windows of een compatibel besturingssysteem met Java Runtime Environment voor JSP/JSF-applicatie en desktopapplicaties.
 -  Ontvang de nieuwste versie van Aspose.Cells for Java rechtstreeks van
  [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells)  .
 
@@ -144,11 +138,11 @@ workbook.save(dataDir + "output.ods");
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" U hoeft Aspose API niet te downloaden." >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" U hoeft geen code te schrijven." >}}
         {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Upload gewoon uw ODS-bestanden." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-download" text="Het wordt onmiddellijk geredigeerd." >}}
+        {{< blocks/products/pf/agp/democard icon="fa-download" text=" Het wordt onmiddellijk geredigeerd." >}}
     {{< /blocks/products/pf/agp/demobox >}}
 
     {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="ODS" readMoreLink="https://docs.fileformat.com/spreadsheet/ods/" >}}
-Bestanden met de extensie ODS staan voor het OpenDocument Spreadsheet Document-formaat dat door de gebruiker kan worden bewerkt. Gegevens worden in het ODF-bestand opgeslagen in rijen en kolommen. Het is een op XML gebaseerd formaat en is een van de verschillende subtypen in de Open Document Formats (ODF)-familie. Het formaat is gespecificeerd als onderdeel van de ODF 1.2-specificaties die zijn gepubliceerd en onderhouden door OASIS. Een aantal toepassingen op Windows en andere besturingssystemen kunnen ODS-bestanden openen voor bewerking en manipulatie, waaronder Microsoft Excel, NeoOffice en LibreOffice. ODS-bestanden kunnen ook door verschillende toepassingen worden geconverteerd naar andere spreadsheetformaten, zoals XLS, XLSX en andere.
+ Bestanden met de extensie ODS staan voor het OpenDocument Spreadsheet Document-formaat dat door de gebruiker kan worden bewerkt. Gegevens worden in het ODF-bestand opgeslagen in rijen en kolommen. Het is een op XML gebaseerd formaat en is een van de verschillende subtypen in de Open Document Formats (ODF)-familie. Het formaat is gespecificeerd als onderdeel van de ODF 1.2-specificaties die zijn gepubliceerd en onderhouden door OASIS. Een aantal toepassingen op Windows en andere besturingssystemen kunnen ODS-bestanden openen voor bewerking en manipulatie, waaronder Microsoft Excel, NeoOffice en LibreOffice. ODS-bestanden kunnen ook door verschillende toepassingen worden geconverteerd naar andere spreadsheetformaten, zoals XLS, XLSX en andere.
 
     {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
@@ -161,6 +155,7 @@ Bestanden met de extensie ODS staan voor het OpenDocument Spreadsheet Document-f
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/redaction/xls/" name="XLS" description="Excel binair formaat" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/redaction/xlsb/" name="XLSB" description="Binair Excel-werkmapbestand" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/redaction/xlsm/" name="XLSM" description="Spreadsheet-bestand" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/redaction/xlsx/" name="XLSX" description="OOXML Excel-bestand" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

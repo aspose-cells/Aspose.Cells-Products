@@ -1,11 +1,11 @@
 ---
-title: C++ Excel-kalkylbladsprogrammering API - Aspose
+title: C++ bibliotek i Excel - Aspose.Cells
 weight: 7140
 description: Aspose.Cells for C++ bibliotek för att skapa, reparera, slå samman, analysera och konvertera Excel-filer. Konvertera excel till PDF, JSON, XML, TSV och så vidare.
-keywords: [C++ Aspose.Cells Create repair parse merge convert JSON Excel XML PDF HTML TSV SQL ODS CSV TXT PNG JPEG and more formats]
+keywords: [C++ library execl Aspose.Cells Create repair parse merge convert JSON Excel XML PDF HTML TSV SQL ODS CSV TXT PNG JPEG and more formats]
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="C++ Excel Spreadsheets API:er" h2="Skapa, läs, skriv och analysera kalkylblad utan några Microsoft Excel-beroenden inom fullfunktionella C++-applikationer." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/headers/aspose_cells-for-cpp.svg" pfName="Aspose.Cells" subTitlepfName="for C++" downloadUrl="https://downloads.aspose.com/cells/cpp" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="C++ bibliotek i Excel - Aspose.Cells" h2="Skapa, läs, skriv och analysera kalkylblad utan några Microsoft Excel-beroenden inom fullfunktionella C++-applikationer." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/headers/aspose_cells-for-cpp.svg" pfName="Aspose.Cells" subTitlepfName="for C++" downloadUrl="https://downloads.aspose.com/cells/cpp" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells" subTitlepfName="for C++" >}}
 
@@ -13,7 +13,7 @@ keywords: [C++ Aspose.Cells Create repair parse merge convert JSON Excel XML PDF
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
- Aspose.Cells for C++ är en inbyggd C++ API för kalkylarksmanipulering. Applikationer kan utföra funktioner som att skapa, konvertera och redigera kalkylbladens inbyggda och anpassade egenskaper, teman, stilar och formatering, datavalidering, villkorlig formatering, läsa, skriva och beräkna formler, gruppera rader och kolumner och mycket mer utan att förlita sig på Office Automation eller Microsoft Excel. API stöder de vanligaste kalkylbladsformaten som XLS, XLSX, XLSM och XLSB.
+Aspose.Cells C++-biblioteket är ett inbyggt C++-bibliotek för kalkylarksmanipulering. Applikationer kan utföra funktioner som att skapa, konvertera och redigera kalkylbladens inbyggda och anpassade egenskaper, teman, stilar och formatering, datavalidering, villkorlig formatering, läsa, skriva och beräkna formler, gruppera rader och kolumner och mycket mer utan att förlita sig på Office Automation eller Microsoft Excel. API stöder de vanligaste kalkylarksformaten (som XLS, XLSX, XLSM och XLSB) såväl som andra typer av filformat (som PDF, 3031, de vanligaste bildformaten och 30411 bildformaten) 481, PNG, BMP, TIFF , GIF, EMF, SVG).
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
@@ -41,7 +41,7 @@ keywords: [C++ Aspose.Cells Create repair parse merge convert JSON Excel XML PDF
  Pivottabell
     </li>
     <li>
-Tabeller
+ Tabeller
     </li>
     <li>
  Diagram
@@ -66,7 +66,7 @@ Tabeller
    </header>
    <ul>
     <li>
- Ladda/spara kalkylblad
+Ladda/spara kalkylblad
     </li>
     <li>
  Manipulation av data
@@ -168,7 +168,7 @@ Tabeller
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Filformat som stöds" description=" Aspose.Cells for C++ stöder det mest använda kalkylarket[filformat](https://docs.aspose.com/cells/cpp/supported-file-formats/)." >}}
+{{< blocks/products/pf/carousel-item h3="Filformat som stöds" description=" Biblioteket Aspose.Cells C++ stöder det mest använda kalkylarket[filformat](https://docs.aspose.com/cells/cpp/supported-file-formats/)." >}}
 <div class="diagram1 d2 d1-cplus">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -182,25 +182,37 @@ Tabeller
      <b>
  Microsoft Excel:
      </b>
- XLS, XLSX, XLSB, XLT, XLTX, XLTM, XLSM, XML
+ XLS, XLSX, XLSB, XLT, XLTX, XLTM, XLSM, XML, OTS
+    </li>
+    <li>
+     <b>
+ Öppet kontor:
+     </b>
+     ODS
     </li>
     <li>
      <b>
  Text:
      </b>
-     CSV, TSV
+     CSV, TSV, JSON
     </li>
     <li>
-     <strong>
- Öppna dokument:
-     </strong>
-     ODS
-    </li>
-    <li>
-     <strong>
- Övriga:
-     </strong>
+     <b>
+ Webb:
+     </b>
      HTML, MHTML
+    </li>
+    <li>
+     <b>
+      Numbers:
+     </b>
+ Apples iWork office suite Numbers appdokument
+    </li>
+    <li>
+     <b>
+ Övriga:
+     </b>
+ SXC, FODS, EPUB
     </li>
    </ul>
   </div>
@@ -209,26 +221,32 @@ Tabeller
    <header>
     <i class="fa fa-mail-forward">
     </i>
- Endast utgång
+Endast utgång
    </header>
    <ul>
     <li>
      <b>
- Excel:
+ Fast layout:
      </b>
-     XLSM, XLTX, XLTM, XLAM
+ PDF, PDF/A, XPS
     </li>
     <li>
      <b>
- Fast layout:
+ Datautbyte:
      </b>
-     PDF, XPS
-    </li>
+     DIF
+    </li>    
     <li>
      <b>
  Bilder:
      </b>
-     JPEG, PNG, BMP, GIF, EMF, SVG
+     JPEG, PNG, BMP, SVG, TIFF, EMF, GIF
+    </li>
+    <li>
+     <b>
+ Övriga:
+     </b>
+ MARKDOWN, SQL, XTHML
     </li>
    </ul>
   </div>
@@ -264,7 +282,7 @@ Tabeller
  <div class="row">
   <div class="container">
    <h2 class="pr-ft">
- Avancerade C++ Kalkylblad API Funktioner
+ Avancerade funktioner i C++-biblioteket för Excel - Aspose.Cells
    </h2>
    <!-- <p>Unlike similar products from other vendors, Aspose.Cells for C++ not only supports spreadsheet generation and other basic file formatting features, it also supports a number of advanced features. These advanced features make it much easier for developers to manipulate spreadsheet contents and format cells.</p> 
 
@@ -275,7 +293,7 @@ Tabeller
     <em class="fa fa-save ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-Ladda &amp; spara Excel-filer med strömmar
+ Ladda &amp; spara Excel-filer med strömmar
     </p>
    </div>
    <div class="col-lg-4">
@@ -373,7 +391,7 @@ Ladda &amp; spara Excel-filer med strömmar
     <em class="fa fa-tags ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Skapa regler för villkorlig formatering
+Skapa regler för villkorlig formatering
     </p>
    </div>
    <div class="col-lg-4">
@@ -399,10 +417,34 @@ Ladda &amp; spara Excel-filer med strömmar
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
+ Systemkrav
+    </h2>
+ Aspose.Cells C++-biblioteket för Excel stöder följande 64-bitars eller 32-bitars operativsystem och plattformar:
+		<table>  
+			<tr>
+					<td style="font-weight: bold; width:400px">Operativ system</td>
+					<td style="font-weight: bold; width:400px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;versioner</td>
+				</tr>
+		  <tr>
+					<td>Microsoft Windows</td>
+					<td><ul><li>Windows x86</li><li>Windows x86_64</li></ul></td>
+		  </tr>
+		  <tr>
+					<td>Linux</td>
+					<td><ul><li>Linux x86_64</li><li>Linux för ARM (aarch64)</li></ul></td>
+				</tr>
+		  <tr>
+					<td>Mac OS</td>
+					<td><ul><li>macOS 11 eller senare (arm64, x86_64)</li></ul></td>
+				</tr>
+		</table>
+   </div>
+   <div class="col-lg-12">
+    <h2 class="h2title">
  Noll beroende av Microsoft Excel
     </h2>
     <p>
-Aspose API:er är helt oberoende och är inte anslutna till, inte heller auktoriserade, sponsrade eller på annat sätt godkända av Microsoft Corporation. Aspose.Cells for C++ behöver aldrig Microsoft Office eller Microsoft Excel installeras på maskinen för att fungera med Excel-dokumentformat.
+ Aspose.Cells C++-biblioteket för Excel är helt oberoende och är inte anslutet till, inte heller auktoriserat, sponsrat eller på annat sätt godkänt av Microsoft Corporation. Aspose.Cells C++-biblioteket behöver aldrig Microsoft Office eller Microsoft Excel installeras på maskinen för att fungera med Excel-dokumentformat.
     </p>
    </div>
    <div class="col-lg-12">
@@ -410,7 +452,7 @@ Aspose API:er är helt oberoende och är inte anslutna till, inte heller auktori
  Enkel &amp; Tillförlitlig konvertering av Excel-format
     </h2>
     <p>
- Aspose.Cells for C++ är en kraftfull uppsättning API:er som ger möjlighet att ladda, redigera, skriva och inter-konvertera Excel-filformat utan att oroa dig för de formatspecifika detaljerna. Med API kan du konvertera kalkylblad från vilket format som helst till vilket format som helst med bara två rader kod. Så enkelt är det!
+Biblioteket Aspose.Cells C++ är en kraftfull uppsättning API:er som ger möjlighet att ladda, redigera, skriva och interkonvertera Excel-filformat utan att oroa dig för de formatspecifika detaljerna. Med API kan du konvertera kalkylblad från vilket format som helst till vilket format som helst med bara två rader kod. Så enkelt är det!
     </p>
     <div class="codeblock" id="code">
      <h3>
@@ -434,7 +476,7 @@ Aspose API:er är helt oberoende och är inte anslutna till, inte heller auktori
  Omfattande formatering av kalkylblad
     </h2>
     <p>
-Aspose.Cells for C++ ger dig fullständig kontroll över hur du vill presentera dina data på kalkylbladet, genom att erbjuda avancerade formateringsfunktioner. Du kan tillämpa formatering på enskilda rader, kolumner, celler eller så kan du skapa ett cellintervall och tillämpa formatering på det. Du kan också lägga till rik text i en cell, tillämpa ramar, ställa in bakgrundsmönster eller justera teckensnittsrelaterade stilaspekter.
+ Biblioteket Aspose.Cells C++ ger dig fullständig kontroll över hur du vill presentera dina data på kalkylbladet, genom att erbjuda avancerade formateringsfunktioner. Du kan tillämpa formatering på enskilda rader, kolumner, celler eller så kan du skapa ett cellintervall och tillämpa formatering på det. Du kan också lägga till rik text i en cell, tillämpa ramar, ställa in bakgrundsmönster eller justera teckensnittsrelaterade stilaspekter.
     </p>
    </div>
    <div class="col-lg-12">
@@ -442,7 +484,7 @@ Aspose.Cells for C++ ger dig fullständig kontroll över hur du vill presentera 
  Visualisera data med diagram
     </h2>
     <p>
- Aspose.Cells for C++ erbjuder en omfattande uppsättning API:er för att dynamiskt skapa alla standard- och anpassade diagramtyper som stöds av Excel-applikationen. API ger också möjlighet att uppdatera datakällan för ett befintligt diagram och uppdatera det.
+Biblioteket Aspose.Cells C++ erbjuder en omfattande uppsättning API:er för att dynamiskt skapa alla standard- och anpassade diagramtyper som stöds av Excel-applikationen. API ger också möjlighet att uppdatera datakällan för ett befintligt diagram och uppdatera det.
     </p>
    </div>
    <div class="col-lg-12">
@@ -450,7 +492,7 @@ Aspose.Cells for C++ ger dig fullständig kontroll över hur du vill presentera 
  Gör arbetsblad som bilder
     </h2>
     <p>
-Biblioteket renderar med högsta kvalitet till Microsoft Excel med sin egen renderingsmotor. Den erbjuder distinkta funktioner som att rendera kalkylblad till bilder i populära format inklusive BMP, PNG, JPEG &amp; EMF. Sheet2Image-processen är flexibel, vilket gör det möjligt att välja alternativ som att kontrollera den resulterande bildens upplösning.
+ Biblioteket Aspose.Cells C++ renderar med högsta kvalitet till Microsoft Excel med sin egen renderingsmotor. Den erbjuder distinkta funktioner som att rendera kalkylblad till bilder i populära format inklusive BMP, TIFF, PNG, JPEG &amp; EMF. Sheet2Image-processen är flexibel, vilket gör det möjligt att välja alternativ som att kontrollera den resulterande bildens upplösning.
     </p>
    </div>
    <div class="col-lg-12">
@@ -458,7 +500,7 @@ Biblioteket renderar med högsta kvalitet till Microsoft Excel med sin egen rend
  Manipulera kolumner och rader
     </h2>
     <p>
- Aspose.Cells for C++ erbjuder rad- och kolumnmanipulation på flera sätt. Justera radhöjd och kolumnbredd eller ändra storlek på celldimensionerna automatiskt enligt innehållet i den, är för lätt. API erbjuder också möjligheten att ta bort och infoga, dölja eller visa samt rader och kolumner att gruppera eller avgruppera.
+Biblioteket Aspose.Cells C++ erbjuder rad- och kolumnmanipulation på flera sätt. Justera radhöjd och kolumnbredd eller ändra storlek på celldimensionerna automatiskt enligt innehållet i den, är för lätt. API erbjuder också möjligheten att ta bort och infoga, dölja eller visa samt rader och kolumner att gruppera eller avgruppera.
     </p>
    </div>
    <div class="col-lg-12">
@@ -466,7 +508,7 @@ Biblioteket renderar med högsta kvalitet till Microsoft Excel med sin egen rend
  Konvertera kalkylblad exakt till PDF
     </h2>
     <p>
-Excel C++-biblioteket ger möjlighet att konvertera kalkylblad till PDF-format samtidigt som det behåller samma kvalitet som originaldokumentet. Detta faktum gör Aspose.Cells for C++ till ett perfekt val för organisationer som behöver utbyta dokument i industristandardformat som PDF.
+ Biblioteket Aspose.Cells C++ ger möjlighet att konvertera kalkylblad till formatet PDF samtidigt som det behåller samma kvalitet som originaldokumentet. Detta faktum gör Aspose.Cells C++-biblioteket till ett perfekt val för organisationer som behöver utbyta dokument i industristandardformat som PDF.
     </p>
    </div>
    <!-- 

@@ -1,5 +1,5 @@
 ---
-title: Vízjel XLS dokumentum via Java
+title:  Vízjel XLS dokumentum via Java
 weight: 2210
 description: Java mintakód vízjel hozzáadásához vagy eltávolításához a XLS fájlhoz a Java Futókörnyezet JSP/JSF alkalmazásokhoz és asztali alkalmazásokhoz.
 keywords: [Java Aspose.Cells., Java add watermark to xls file., Java insert watermark to xls file., Java create watermark in xls file., remove watermark from xls file using Java., Java operate watermark in xls file., Java access watermark in xls file]
@@ -12,11 +12,7 @@ keywords: [Java Aspose.Cells., Java add watermark to xls file., Java insert wate
 
 {{% blocks/products/pf/agp/content h2="A XLS fájl vízjelezése a Java használatával" %}}
 
- A XLS fájl vízjelezéséhez használjuk
- [Aspose.Cells for Java](https://products.aspose.com/cells/java) 
- API, amely funkciókban gazdag, erőteljes és könnyen használható vízjel API for Java platform. A legújabb verziót közvetlenül a webhelyről töltheti le
- [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) 
- és telepítse a Maven alapú projekten belül a következő konfigurációk hozzáadásával a pom.xml fájlhoz.
+ A XLS fájl vízjelezéséhez használjuk[Aspose.Cells for Java](https://products.aspose.com/cells/java) API, amely funkciókban gazdag, erőteljes és könnyen használható vízjel API for Java platform. A legújabb verziót közvetlenül a webhelyről töltheti le[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) és telepítse a Maven alapú projekten belül a következő konfigurációk hozzáadásával a pom.xml fájlhoz.
 
 {{% blocks/products/pf/agp/code-block title="Adattár" offSpacer="true" %}}
 
@@ -129,13 +125,13 @@ workbook.save(dataDir + "AWArtWToWorksheet_out.xls");
     {{< blocks/products/pf/agp/about-file-section >}}
 
         {{< blocks/products/pf/agp/demobox sectionTitle="Vízjel XLS az online alkalmazáson keresztül" sectionDescription=" Adjon hozzá vízjelet a XLS dokumentumokhoz, látogassa meg webhelyünket[Élő bemutatók weboldala](https://products.aspose.app/cells/watermark). Az élő demónak a következő előnyei vannak" >}}
-            {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Nem kell letölteni vagy beállítani semmit" >}}
+            {{< blocks/products/pf/agp/democard icon="fa-cogs" text="Nem kell letölteni vagy beállítani semmit" >}}
             {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Nem kell kódot írni" >}}
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Csak töltse fel a XLS fájlt, állítsa be a vízjelet, és nyomja meg a \"Hozzáadás\" gombot" >}}
             {{< blocks/products/pf/agp/democard icon="fa-download" text=" Azonnal megkapja a letöltési linket az eredményül kapott fájlhoz" >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLS" readMoreLink="https://docs.fileformat.com/spreadsheet/xls/" >}}
-XLS kiterjesztésű fájlok Excel bináris fájlformátumot képviselnek. Az ilyen fájlokat a Microsoft Excel, valamint más hasonló táblázatkezelő programok, például az OpenOffice Calc vagy az Apple Numbers is létrehozhatják. Az Excel által mentett fájlokat munkafüzetnek nevezik, ahol minden munkafüzetnek egy vagy több munkalapja lehet. Az adatok tárolása és megjelenítése táblázatos formában, munkalapon történik a felhasználók számára, és átfoghatnak számértékeket, szöveges adatokat, képleteket, külső adatkapcsolatokat, képeket és diagramokat. Az olyan alkalmazások, mint a Microsoft Excel, lehetővé teszik a munkafüzet adatainak több különböző formátumba történő exportálását, beleértve a PDF, CSV, XLSX, TXT, HTML, XPS és sok más formátumot. A XLS fájlformátumot egy nyitottabb és strukturáltabb formátum, a XLSX váltotta fel a Microsoft Excel 2007 kiadásával. A legújabb verziók továbbra is támogatják a XLS fájlok létrehozását és olvasását, bár most a XLSX az első számú választás.
+A XLS kiterjesztésű fájlok Excel bináris fájlformátumot képviselnek. Az ilyen fájlokat a Microsoft Excel, valamint más hasonló táblázatkezelő programok, például az OpenOffice Calc vagy az Apple Numbers is létrehozhatják. Az Excel által mentett fájlokat munkafüzetnek nevezik, ahol minden munkafüzetnek egy vagy több munkalapja lehet. Az adatok tárolása és megjelenítése táblázatos formában, munkalapon történik a felhasználók számára, és átfoghatnak számértékeket, szöveges adatokat, képleteket, külső adatkapcsolatokat, képeket és diagramokat. Az olyan alkalmazások, mint a Microsoft Excel, lehetővé teszik a munkafüzet adatainak több különböző formátumba történő exportálását, beleértve a PDF, CSV, XLSX, TXT, HTML, XPS és sok más formátumot. A XLS fájlformátumot egy nyitottabb és strukturáltabb formátum, a XLSX váltotta fel a Microsoft Excel 2007 kiadásával. A legújabb verziók továbbra is támogatják a XLS fájlok létrehozását és olvasását, bár most a XLSX az első számú választás.
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
@@ -143,11 +139,12 @@ XLS kiterjesztésű fájlok Excel bináris fájlformátumot képviselnek. Az ily
 
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="Egyéb támogatott vízjelformátumok" subTitle="A Java használatával könnyen megjelölhet vízjelet különböző formátumokhoz, beleértve." >}}
+{{< blocks/products/pf/agp/other-supported-section title="Egyéb támogatott vízjelformátumok" subTitle="Java használatával könnyen megjelölhet vízjelet különböző formátumokhoz, beleértve." >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/watermark/ods/" name="ODS" description="OpenDocument táblázatfájl" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/watermark/xlsb/" name="XLSB" description="Bináris Excel munkafüzet fájl" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/watermark/xlsm/" name="XLSM" description="Táblázatfájl" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/watermark/xlsx/" name="XLSX" description="OOXML Excel fájl" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

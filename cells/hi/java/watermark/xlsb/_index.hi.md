@@ -1,5 +1,5 @@
 ---
-title: वॉटरमार्क XLSB दस्तावेज़ via Java
+title:  वॉटरमार्क XLSB दस्तावेज़ via Java
 weight: 5900
 description: JSP/JSF एप्लिकेशन और डेस्कटॉप एप्लिकेशन के लिए Java रनटाइम एनवायरमेंट पर XLSB फ़ाइल में वॉटरमार्क जोड़ने या हटाने के लिए Java नमूना कोड।
 keywords: [Java Aspose.Cells., Java add watermark to xlsb file., Java insert watermark to xlsb file., Java create watermark in xlsb file., remove watermark from xlsb file using Java., Java operate watermark in xlsb file., Java access watermark in xlsb file]
@@ -12,11 +12,7 @@ keywords: [Java Aspose.Cells., Java add watermark to xlsb file., Java insert wat
 
 {{% blocks/products/pf/agp/content h2="Java का उपयोग करके XLSB फ़ाइल को वॉटरमार्क कैसे करें" %}}
 
- XLSB फ़ाइल को वॉटरमार्क करने के लिए, हम इसका उपयोग करेंगे
- [Aspose.Cells for Java](https://products.aspose.com/cells/java) 
- API जो एक सुविधा संपन्न, शक्तिशाली और उपयोग में आसान वॉटरमार्किंग API for Java प्लेटफॉर्म है। आप इसका नवीनतम संस्करण सीधे यहां से डाउनलोड कर सकते हैं
- [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) 
- और pom.xml में निम्नलिखित कॉन्फ़िगरेशन जोड़कर इसे अपने Maven-आधारित प्रोजेक्ट में स्थापित करें।
+ XLSB फ़ाइल को वॉटरमार्क करने के लिए, हम इसका उपयोग करेंगे[Aspose.Cells for Java](https://products.aspose.com/cells/java) API जो एक सुविधा संपन्न, शक्तिशाली और उपयोग में आसान वॉटरमार्किंग API for Java प्लेटफॉर्म है। आप इसका नवीनतम संस्करण सीधे यहां से डाउनलोड कर सकते हैं[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) और pom.xml में निम्नलिखित कॉन्फ़िगरेशन जोड़कर इसे अपने Maven-आधारित प्रोजेक्ट में स्थापित करें।
 
 {{% blocks/products/pf/agp/code-block title="कोष" offSpacer="true" %}}
 
@@ -129,7 +125,7 @@ workbook.save(dataDir + "AWArtWToWorksheet_out.xlsb");
     {{< blocks/products/pf/agp/about-file-section >}}
 
         {{< blocks/products/pf/agp/demobox sectionTitle="वॉटरमार्क XLSB ऑनलाइन ऐप के माध्यम से" sectionDescription=" हमारे यहां जाकर XLSB दस्तावेज़ों में वॉटरमार्क जोड़ें[लाइव डेमो वेबसाइट](https://products.aspose.app/cells/watermark). लाइव डेमो के निम्नलिखित लाभ हैं" >}}
-            {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" कुछ भी डाउनलोड या सेटअप करने की आवश्यकता नहीं है" >}}
+            {{< blocks/products/pf/agp/democard icon="fa-cogs" text="कुछ भी डाउनलोड या सेटअप करने की आवश्यकता नहीं है" >}}
             {{< blocks/products/pf/agp/democard icon="fa-edit" text=" कोई कोड लिखने की जरूरत नहीं" >}}
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text="बस अपनी XLSB फ़ाइल अपलोड करें, अपना वॉटरमार्क सेट करें और \"जोड़ें\" बटन दबाएँ" >}}
             {{< blocks/products/pf/agp/democard icon="fa-download" text=" परिणामी फ़ाइल के लिए तुरंत डाउनलोड लिंक प्राप्त करें" >}}
@@ -148,6 +144,7 @@ XLSB फ़ाइल स्वरूप एक्सेल बाइनरी �
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/watermark/ods/" name="ODS" description="ओपनडॉक्यूमेंट स्प्रेडशीट फ़ाइल" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/watermark/xls/" name="XLS" description="एक्सेल बाइनरी फॉर्मेट" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/watermark/xlsm/" name="XLSM" description="स्प्रेडशीट फ़ाइल" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/watermark/xlsx/" name="XLSX" description="ओओएक्सएमएल एक्सेल फ़ाइल" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

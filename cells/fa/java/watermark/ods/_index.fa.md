@@ -1,5 +1,5 @@
 ---
-title: واترمارک ODS سند via Java
+title:  واترمارک ODS سند via Java
 weight: 1040
 description: Java کد نمونه برای افزودن یا حذف واترمارک به فایل ODS در Java Runtime Environment برای برنامه های کاربردی JSP/JSF و برنامه های دسکتاپ.
 keywords: [Java Aspose.Cells., Java add watermark to ods file., Java insert watermark to ods file., Java create watermark in ods file., remove watermark from ods file using Java., Java operate watermark in ods file., Java access watermark in ods file]
@@ -12,11 +12,7 @@ keywords: [Java Aspose.Cells., Java add watermark to ods file., Java insert wate
 
 {{% blocks/products/pf/agp/content h2="نحوه واترمارک کردن فایل ODS با استفاده از Java" %}}
 
- به منظور واترمارک کردن فایل ODS، از آن استفاده خواهیم کرد
- [Aspose.Cells for Java](https://products.aspose.com/cells/java) 
- API که یک پلتفرم واترمارکینگ غنی، قدرتمند و آسان برای استفاده است API for Java. آخرین نسخه آن را می توانید مستقیماً از اینجا دانلود کنید
- [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) 
- و با افزودن تنظیمات زیر به pom.xml آن را در پروژه مبتنی بر Maven خود نصب کنید.
+ به منظور واترمارک کردن فایل ODS، از آن استفاده خواهیم کرد[Aspose.Cells for Java](https://products.aspose.com/cells/java) API که یک پلتفرم واترمارکینگ غنی، قدرتمند و آسان برای استفاده است API for Java. آخرین نسخه آن را می توانید مستقیماً از اینجا دانلود کنید[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) و با افزودن تنظیمات زیر به pom.xml آن را در پروژه مبتنی بر Maven خود نصب کنید.
 
 {{% blocks/products/pf/agp/code-block title="مخزن" offSpacer="true" %}}
 
@@ -129,7 +125,7 @@ workbook.save(dataDir + "AWArtWToWorksheet_out.ods");
     {{< blocks/products/pf/agp/about-file-section >}}
 
         {{< blocks/products/pf/agp/demobox sectionTitle="واترمارک ODS از طریق برنامه آنلاین" sectionDescription=" با مراجعه به ما، به اسناد ODS واترمارک اضافه کنید[وب سایت Live Demos](https://products.aspose.app/cells/watermark). نسخه ی نمایشی زنده دارای مزایای زیر است" >}}
-            {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" نیازی به دانلود یا تنظیم چیزی نیست" >}}
+            {{< blocks/products/pf/agp/democard icon="fa-cogs" text="نیازی به دانلود یا تنظیم چیزی نیست" >}}
             {{< blocks/products/pf/agp/democard icon="fa-edit" text=" نیازی به نوشتن هیچ کدی نیست" >}}
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text="فقط فایل ODS خود را آپلود کنید، واترمارک خود را تنظیم کنید و دکمه \"افزودن\" را فشار دهید." >}}
             {{< blocks/products/pf/agp/democard icon="fa-download" text=" بلافاصله لینک دانلود فایل حاصل را دریافت کنید" >}}
@@ -148,6 +144,7 @@ workbook.save(dataDir + "AWArtWToWorksheet_out.ods");
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/watermark/xls/" name="XLS" description="فرمت باینری اکسل" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/watermark/xlsb/" name="XLSB" description="فایل باینری کتاب کار اکسل" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/watermark/xlsm/" name="XLSM" description="فایل صفحه گسترده" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/watermark/xlsx/" name="XLSX" description="فایل OOXML اکسل" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

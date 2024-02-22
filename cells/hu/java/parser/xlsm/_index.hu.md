@@ -1,7 +1,7 @@
 ---
 title:  Szöveg és képek kibontása a XLSM via Java számú dokumentumból
 weight: 3260
-description: Java mintakód szövegek és képek kinyeréséhez a Java Java számú XLSM fájlból a JSP/JSF alkalmazásokhoz és asztali alkalmazásokhoz.
+description: Java mintakód a XLSM fájl XLSM futásidejű környezetének XLSM fájlból való kinyeréséhez JSP/JSF alkalmazásokhoz és asztali alkalmazásokhoz.
 keywords: [Java Aspose.Cells., Java Extract text and images from XLSM file., Java How to Parse XLSM File., Java Extract text from XLSM file., Extract images from XLSM file using Java]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -12,11 +12,7 @@ keywords: [Java Aspose.Cells., Java Extract text and images from XLSM file., Jav
 
 {{% blocks/products/pf/agp/content h2="A XLSM fájl elemzése a Java használatával" %}}
 
- A XLSM fájl elemzéséhez használjuk
- [Aspose.Cells for Java](https://products.aspose.com/cells/java) 
- API, amely funkciókban gazdag, hatékony és könnyen használható API for Java elemző platform. A legújabb verziót közvetlenül a webhelyről töltheti le
- [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) 
- és telepítse a Maven alapú projekten belül a következő konfigurációk hozzáadásával a pom.xml fájlhoz.
+ A XLSM fájl elemzéséhez használjuk[Aspose.Cells for Java](https://products.aspose.com/cells/java) API, amely funkciókban gazdag, hatékony és könnyen használható API for Java elemző platform. A legújabb verziót közvetlenül a webhelyről töltheti le[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) és telepítse a Maven alapú projekten belül a következő konfigurációk hozzáadásával a pom.xml fájlhoz.
 
 {{% blocks/products/pf/agp/code-block title="Adattár" offSpacer="true" %}}
 
@@ -54,9 +50,7 @@ keywords: [Java Aspose.Cells., Java Extract text and images from XLSM file., Jav
 
 {{% blocks/products/pf/agp/text %}}
 
- Egy alapvető dokumentum elemzése a következővel
- [Aspose.Cells for Java](https://products.aspose.com/cells/java) 
- Az API-k néhány sornyi kóddal elkészíthetők. Szöveg és képek elemzése a Microsoft Excel XLS, XLSX, XLSM, XLSB és OpenDocument ODS fájlokból.
+ Egy alapvető dokumentum elemzése a következővel[Aspose.Cells for Java](https://products.aspose.com/cells/java)Az API-k néhány sornyi kóddal elkészíthetők. Szöveg és képek elemzése a Microsoft Excel XLS, XLSX, XLSM, XLSB és OpenDocument ODS fájlokból.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -76,7 +70,7 @@ keywords: [Java Aspose.Cells., Java Extract text and images from XLSM file., Jav
 
 {{% /blocks/products/pf/agp/text %}}
 
--  Microsoft Windows vagy kompatibilis operációs rendszer Java futásidejű környezettel JSP/JSF alkalmazásokhoz és asztali alkalmazásokhoz.
+- Microsoft Windows vagy kompatibilis operációs rendszer Java futásidejű környezettel JSP/JSF alkalmazásokhoz és asztali alkalmazásokhoz.
 -  Szerezze be a Aspose.Cells for Java legújabb verzióját közvetlenül innen
  [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells)  .
 
@@ -121,7 +115,7 @@ System.out.println(stringBuilder.toString());
 
 {{< blocks/products/pf/agp/about-file-section >}}
 
-    {{< blocks/products/pf/agp/demobox sectionTitle="Online XLSM Parser élő bemutatók" sectionDescription=" Nyerjen ki szöveget és képeket a XLSM dokumentumból, látogasson el honlapunkra[Élő bemutatók weboldala](https://products.aspose.app/cells/parser). Az élő demónak a következő előnyei vannak" >}}
+    {{< blocks/products/pf/agp/demobox sectionTitle="Online XLSM Parser élő bemutatók" sectionDescription="Nyerjen ki szöveget és képeket a XLSM dokumentumból, látogasson el honlapunkra[Élő bemutatók weboldala](https://products.aspose.app/cells/parser). Az élő demónak a következő előnyei vannak" >}}
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Nem kell letölteni a Aspose API számot." >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Nem kell kódot írni." >}}
         {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Csak töltse fel a XLSM fájlokat." >}}
@@ -137,11 +131,12 @@ System.out.println(stringBuilder.toString());
 
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="Egyéb támogatott elemzési dokumentumok" subTitle="Java használatával egyszerűen elemezhet más formátumokat, beleértve." >}}
+{{< blocks/products/pf/agp/other-supported-section title="Egyéb támogatott elemzési dokumentumok" subTitle="A Java használatával egyszerűen elemezhet más formátumokat, beleértve." >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/parser/ods/" name="ODS" description="OpenDocument táblázatfájl" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/parser/xls/" name="XLS" description="Excel bináris formátum" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/parser/xlsb/" name="XLSB" description="Bináris Excel munkafüzet fájl" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/parser/xlsx/" name="XLSX" description="OOXML Excel fájl" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

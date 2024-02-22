@@ -12,11 +12,7 @@ keywords: [Java Aspose.Cells., Java add watermark to xls file., Java insert wate
 
 {{% blocks/products/pf/agp/content h2="如何使用 Java 為 XLS 檔案新增浮水印" %}}
 
-為了給 XLS 檔案添加浮水印，我們將使用
- [Aspose.Cells for Java](https://products.aspose.com/cells/java) 
-API 這是一個功能豐富、功能強大且易於使用的水印平台 API for Java。您可以直接從以下位置下載其最新版本
- [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) 
-並透過將以下配置新增至 pom.xml 將其安裝在基於 Maven 的專案中。
+為了給 XLS 檔案添加浮水印，我們將使用[Aspose.Cells for Java](https://products.aspose.com/cells/java)API 這是一個功能豐富、功能強大且易於使用的水印平台 API for Java。您可以直接從以下位置下載其最新版本[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells)並透過將以下配置新增至 pom.xml 將其安裝在基於 Maven 的專案中。
 
 {{% blocks/products/pf/agp/code-block title="儲存庫" offSpacer="true" %}}
 
@@ -68,7 +64,7 @@ API 這是一個功能豐富、功能強大且易於使用的水印平台 API fo
 
 {{% blocks/products/pf/agp/text %}}
 
-Aspose.Cells for Java 支援所有主要平台和作業系統。請確保您具備以下先決條件。
+ Aspose.Cells for Java 支援所有主要平台和作業系統。請確保您具備以下先決條件。
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -148,6 +144,7 @@ workbook.save(dataDir + "AWArtWToWorksheet_out.xls");
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/watermark/ods/" name="ODS" description="OpenDocument 電子表格文件" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/watermark/xlsb/" name="XLSB" description="二進位 Excel 工作簿文件" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/watermark/xlsm/" name="XLSM" description="試算表文件" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/watermark/xlsx/" name="XLSX" description="OOXML Excel 文件" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

@@ -1,5 +1,5 @@
 ---
-title:  Estrai testo e immagini dal documento XLS tramite C++
+title: Estrai testo e immagini dal documento XLS tramite C++
 weight: 7610
 description: C++ codice di esempio per estrarre testo e immagini dal file XLS su C++ Runtime Environment per Windows 32 bit, Windows 64 bit e Linux 64 bit.
 keywords: [C++ Aspose.Cells., C++ Extract text and images from XLS file., C++ How to Parse XLS File., C++ Extract text from XLS file., Extract images from XLS file using C++]
@@ -12,13 +12,7 @@ keywords: [C++ Aspose.Cells., C++ Extract text and images from XLS file., C++ Ho
 
 {{% blocks/products/pf/agp/content h2="Come analizzare il file XLS utilizzando C++" %}}
 
- Per analizzare il file XLS, utilizzeremo
- [Aspose.Cells for C++](https://products.aspose.com/cells/cpp) 
- API che è una piattaforma di analisi dei documenti API for C++ ricca di funzionalità, potente e facile da usare. Puoi scaricare direttamente la sua ultima versione, basta aprirla
- [NuGet](https://www.nuget.org/packages/aspose.cells) 
- gestore pacchetti, cerca
- **Aspose.Cells.Cpp** 
- e installare. Puoi anche utilizzare il seguente comando dalla Console di gestione pacchetti.
+ Per analizzare il file XLS, utilizzeremo[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) API che è una piattaforma di analisi dei documenti API for C++ ricca di funzionalità, potente e facile da usare. Puoi scaricare direttamente la sua ultima versione, basta aprirla[NuGet](https://www.nuget.org/packages/aspose.cells) gestore pacchetti, cerca**Aspose.Cells.Cpp** e installare. Puoi anche utilizzare il seguente comando dalla Console di gestione pacchetti.
 
 {{% blocks/products/pf/agp/code-block title="Comando" offSpacer="true" %}}
 
@@ -40,7 +34,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
  Un documento di base con cui eseguire l'analisi
  [Aspose.Cells for C++](https://products.aspose.com/cells/cpp) 
- Le API possono essere eseguite con poche righe di codice. Analizza testo e immagini dai file Microsoft Excel XLS, XLSX, XLSM, XLSB e OpenDocument ODS.
+Le API possono essere eseguite con poche righe di codice. Analizza testo e immagini dai file Microsoft Excel XLS, XLSX, XLSM, XLSB e OpenDocument ODS.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -108,7 +102,7 @@ Aspose::Cells::Cleanup();
 
 {{< blocks/products/pf/agp/about-file-section >}}
 
-    {{< blocks/products/pf/agp/demobox sectionTitle="Online XLS Demo live del parser" sectionDescription=" Estrai testo e immagini dai documenti XLS adesso visitando il nostro[Sito web delle demo dal vivo](https://products.aspose.app/cells/parser). La demo live presenta i seguenti vantaggi" >}}
+    {{< blocks/products/pf/agp/demobox sectionTitle="Online XLS Demo live del parser" sectionDescription="Estrai testo e immagini dai documenti XLS adesso visitando il nostro[Sito web delle demo dal vivo](https://products.aspose.app/cells/parser). La demo live presenta i seguenti vantaggi" >}}
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Non è necessario scaricare Aspose API." >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Non è necessario scrivere alcun codice." >}}
         {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Basta caricare i tuoi file XLS." >}}
@@ -129,6 +123,7 @@ Aspose::Cells::Cleanup();
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/parser/ods/" name="ODS" description="File di foglio di calcolo OpenDocument" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/parser/xlsb/" name="XLSB" description="File binario della cartella di lavoro Excel" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/parser/xlsm/" name="XLSM" description="File di foglio di calcolo" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/parser/xlsx/" name="XLSX" description="File Excel OOXML" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

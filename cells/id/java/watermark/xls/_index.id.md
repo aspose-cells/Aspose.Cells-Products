@@ -1,5 +1,5 @@
 ---
-title: Tanda air XLS dokumen via Java
+title:  Tanda air XLS dokumen via Java
 weight: 2210
 description: Contoh kode Java untuk menambah atau menghapus watermark pada file XLS di Runtime Environment Java untuk Aplikasi JSP/JSF dan Aplikasi Desktop.
 keywords: [Java Aspose.Cells., Java add watermark to xls file., Java insert watermark to xls file., Java create watermark in xls file., remove watermark from xls file using Java., Java operate watermark in xls file., Java access watermark in xls file]
@@ -12,11 +12,7 @@ keywords: [Java Aspose.Cells., Java add watermark to xls file., Java insert wate
 
 {{% blocks/products/pf/agp/content h2="Cara Memberi Watermark pada File XLS Menggunakan Java" %}}
 
- Untuk memberi watermark pada file XLS, kami akan menggunakan
- [Aspose.Cells for Java](https://products.aspose.com/cells/java) 
- API yang merupakan platform watermarking yang kaya fitur, kuat, dan mudah digunakan API for Java. Anda dapat mendownload versi terbarunya langsung dari
- [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) 
- dan instal dalam proyek berbasis Maven Anda dengan menambahkan konfigurasi berikut ke pom.xml.
+ Untuk memberi watermark pada file XLS, kami akan menggunakan[Aspose.Cells for Java](https://products.aspose.com/cells/java) API yang merupakan platform watermarking yang kaya fitur, kuat, dan mudah digunakan API for Java. Anda dapat mendownload versi terbarunya langsung dari[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) dan instal dalam proyek berbasis Maven Anda dengan menambahkan konfigurasi berikut ke pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Gudang" offSpacer="true" %}}
 
@@ -129,7 +125,7 @@ workbook.save(dataDir + "AWArtWToWorksheet_out.xls");
     {{< blocks/products/pf/agp/about-file-section >}}
 
         {{< blocks/products/pf/agp/demobox sectionTitle="Tanda Air XLS melalui Aplikasi Online" sectionDescription=" Tambahkan tanda air ke dokumen XLS dengan mengunjungi kami[Situs web Demo Langsung](https://products.aspose.app/cells/watermark). Demo langsung memiliki manfaat sebagai berikut" >}}
-            {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Tidak perlu mengunduh atau mengatur apa pun" >}}
+            {{< blocks/products/pf/agp/democard icon="fa-cogs" text="Tidak perlu mengunduh atau mengatur apa pun" >}}
             {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Tidak perlu menulis kode apa pun" >}}
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Cukup unggah file XLS Anda, atur tanda air Anda dan tekan tombol \"Tambah\"." >}}
             {{< blocks/products/pf/agp/democard icon="fa-download" text=" Segera dapatkan tautan unduhan untuk file yang dihasilkan" >}}
@@ -148,6 +144,7 @@ File dengan ekstensi XLS mewakili Format File Biner Excel. File tersebut dapat d
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/watermark/ods/" name="ODS" description="File Lembar Bentang OpenDocument" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/watermark/xlsb/" name="XLSB" description="File Buku Kerja Excel Biner" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/watermark/xlsm/" name="XLSM" description="Berkas Lembar Bentang" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/watermark/xlsx/" name="XLSX" description="Berkas OOXML Excel" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

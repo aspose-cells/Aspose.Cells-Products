@@ -1,5 +1,5 @@
 ---
-title:  Extrahujte text a obrázky z dokumentu XLSM přes C++
+title: Extrahujte text a obrázky z dokumentu XLSM přes C++
 weight: 570
 description: C++ ukázkový kód pro extrahování textu a obrázků ze souboru XLSM na C++ Runtime Environment pro Windows 32 bit, Windows 64 bit a Linux 64 bit.
 keywords: [C++ Aspose.Cells., C++ Extract text and images from XLSM file., C++ How to Parse XLSM File., C++ Extract text from XLSM file., Extract images from XLSM file using C++]
@@ -12,13 +12,7 @@ keywords: [C++ Aspose.Cells., C++ Extract text and images from XLSM file., C++ H
 
 {{% blocks/products/pf/agp/content h2="Jak analyzovat soubor XLSM pomocí C++" %}}
 
- Abychom mohli analyzovat soubor XLSM, použijeme
- [Aspose.Cells for C++](https://products.aspose.com/cells/cpp) 
- API, což je funkčně bohatá, výkonná a snadno použitelná platforma pro analýzu dokumentů API for C++. Jeho nejnovější verzi si můžete stáhnout přímo, stačí otevřít
- [NuGet](https://www.nuget.org/packages/aspose.cells) 
- správce balíčků, vyhledejte
- **Aspose.Cells.Cpp** 
- a nainstalovat. Můžete také použít následující příkaz z konzoly Správce balíčků.
+ Abychom mohli analyzovat soubor XLSM, použijeme[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) API, což je funkčně bohatá, výkonná a snadno použitelná platforma pro analýzu dokumentů API for C++. Jeho nejnovější verzi si můžete stáhnout přímo, stačí otevřít[NuGet](https://www.nuget.org/packages/aspose.cells) správce balíčků, vyhledejte**Aspose.Cells.Cpp** a nainstalovat. Můžete také použít následující příkaz z konzoly Správce balíčků.
 
 {{% blocks/products/pf/agp/code-block title="Příkaz" offSpacer="true" %}}
 
@@ -38,9 +32,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% blocks/products/pf/agp/text %}}
 
- Základní analýza dokumentu s
- [Aspose.Cells for C++](https://products.aspose.com/cells/cpp) 
- Rozhraní API lze vytvořit pomocí několika řádků kódu. Analyzujte text a obrázky ze souborů Microsoft Excel XLS, XLSX, XLSM, XLSB a OpenDocument ODS.
+ Základní analýza dokumentu s[Aspose.Cells for C++](https://products.aspose.com/cells/cpp)Rozhraní API lze vytvořit pomocí několika řádků kódu. Analyzujte text a obrázky ze souborů Microsoft Excel XLS, XLSX, XLSM, XLSB a OpenDocument ODS.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -108,7 +100,7 @@ Aspose::Cells::Cleanup();
 
 {{< blocks/products/pf/agp/about-file-section >}}
 
-    {{< blocks/products/pf/agp/demobox sectionTitle="Online XLSM Živá ukázka parseru" sectionDescription=" Extrahujte text a obrázky z XLSM dokumentů právě teď tím, že navštívíte naše[Webová stránka živé ukázky](https://products.aspose.app/cells/parser). Živé demo má následující výhody" >}}
+    {{< blocks/products/pf/agp/demobox sectionTitle="Online XLSM Živá ukázka parseru" sectionDescription="Extrahujte text a obrázky z XLSM dokumentů právě teď tím, že navštívíte naše[Webová stránka živé ukázky](https://products.aspose.app/cells/parser). Živé demo má následující výhody" >}}
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Není třeba stahovat Aspose API." >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Není třeba psát žádný kód." >}}
         {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Stačí nahrát své soubory XLSM." >}}
@@ -129,6 +121,7 @@ Soubory s příponou XLSM jsou typem souborů tabulky, které podporují makra. 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/parser/ods/" name="ODS" description="Soubor tabulkového procesoru OpenDocument" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/parser/xls/" name="XLS" description="Binární formát Excel" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/parser/xlsb/" name="XLSB" description="Binární soubor sešitu Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/parser/xlsx/" name="XLSX" description="Soubor Excel OOXML" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

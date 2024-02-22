@@ -12,13 +12,7 @@ keywords: [C# Aspose.Cells., c# Search and replace text in XLS file., c# redact 
 
 {{% blocks/products/pf/agp/content h2="Comment expurger le fichier XLS à l\'aide de C#" %}}
 
- Afin de rédiger le fichier XLS, nous utiliserons
- [Aspose.Cells for .NET](https://products.aspose.com/cells/net) 
- API qui est un outil de manipulation de documents API riche en fonctionnalités, puissant et facile à utiliser pour la plate-forme C#. Ouvrir
- [NuGet](https://www.nuget.org/packages/aspose.cells) 
- gestionnaire de paquets, recherchez
- **Aspose.Cells** 
- et installer. Vous pouvez également utiliser la commande suivante à partir de la console Package Manager.
+ Afin de rédiger le fichier XLS, nous utiliserons[Aspose.Cells for .NET](https://products.aspose.com/cells/net) API qui est un outil de manipulation de documents API riche en fonctionnalités, puissant et facile à utiliser pour la plate-forme C#. Ouvrir[NuGet](https://www.nuget.org/packages/aspose.cells) gestionnaire de paquets, recherchez**Aspose.Cells** et installer. Vous pouvez également utiliser la commande suivante à partir de la console Package Manager.
 
 {{% blocks/products/pf/agp/code-block title="Commande" offSpacer="true" %}}
 
@@ -38,9 +32,7 @@ PM> Install-Package Aspose.Cells
 
 {{% blocks/products/pf/agp/text %}}
 
- Un document de base recherche et remplace le texte dans le contenu, les commentaires ou les métadonnées par
- [Aspose.Cells for .NET](https://products.aspose.com/cells/net) 
- Les API peuvent être réalisées avec seulement quelques lignes de code.
+ Un document de base recherche et remplace le texte dans le contenu, les commentaires ou les métadonnées par[Aspose.Cells for .NET](https://products.aspose.com/cells/net) Les API peuvent être réalisées avec seulement quelques lignes de code.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -57,7 +49,7 @@ PM> Install-Package Aspose.Cells
 
 {{% blocks/products/pf/agp/text %}}
 
- Nos API sont prises en charge sur toutes les principales plates-formes et systèmes d'exploitation. Avant d'exécuter le code ci-dessous, assurez-vous que vous disposez des conditions préalables suivantes sur votre système.
+Nos API sont prises en charge sur toutes les principales plates-formes et systèmes d'exploitation. Avant d'exécuter le code ci-dessous, assurez-vous que vous disposez des conditions préalables suivantes sur votre système.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -122,7 +114,7 @@ wb.Save("e:\test2\output.xls");
             {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Pas besoin de télécharger le Aspose API." >}}
             {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Pas besoin d\'écrire de code." >}}
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Téléchargez simplement vos fichiers XLS." >}}
-            {{< blocks/products/pf/agp/democard icon="fa-download" text="Il sera expurgé instantanément." >}}
+            {{< blocks/products/pf/agp/democard icon="fa-download" text=" Il sera expurgé instantanément." >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLS" readMoreLink="https://docs.fileformat.com/spreadsheet/xls/" >}}
 Les fichiers avec l'extension XLS représentent le format de fichier binaire Excel. De tels fichiers peuvent être créés par Microsoft Excel ainsi que d'autres tableurs similaires tels que OpenOffice Calc ou Apple Numbers. Le fichier enregistré par Excel est connu sous le nom de Workbook où chaque classeur peut avoir une ou plusieurs feuilles de calcul. Les données sont stockées et affichées aux utilisateurs sous forme de tableau dans une feuille de calcul et peuvent couvrir des valeurs numériques, des données textuelles, des formules, des connexions de données externes, des images et des graphiques. Des applications telles que Microsoft Excel vous permettent d'exporter des données de classeur vers plusieurs formats différents, notamment PDF, CSV, XLSX, TXT, HTML, XPS et plusieurs autres. Le format de fichier XLS a été remplacé par un format plus ouvert et structuré, XLSX, avec la sortie de Microsoft Excel 2007. Les dernières versions prennent toujours en charge la création et la lecture de fichiers XLS, bien que XLSX soit désormais le premier choix d'utilisation.
@@ -138,6 +130,7 @@ Les fichiers avec l'extension XLS représentent le format de fichier binaire Exc
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/redaction/ods/" name="ODS" description="Fichier de feuille de calcul OpenDocument" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/redaction/xlsb/" name="XLSB" description="Fichier de classeur Excel binaire" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/redaction/xlsm/" name="XLSM" description="Fichier de feuille de calcul" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/redaction/xlsx/" name="XLSX" description="Fichier Excel OOXML" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

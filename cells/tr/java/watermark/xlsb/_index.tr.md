@@ -1,5 +1,5 @@
 ---
-title: Filigran XLSB belge via Java
+title:  Filigran XLSB belge via Java
 weight: 5900
 description: JSP/JSF Uygulaması ve Masaüstü Uygulamaları için Java Çalışma Zamanı Ortamı'ndaki XLSB dosyasına filigran eklemek veya kaldırmak için Java örnek kodu.
 keywords: [Java Aspose.Cells., Java add watermark to xlsb file., Java insert watermark to xlsb file., Java create watermark in xlsb file., remove watermark from xlsb file using Java., Java operate watermark in xlsb file., Java access watermark in xlsb file]
@@ -12,11 +12,7 @@ keywords: [Java Aspose.Cells., Java add watermark to xlsb file., Java insert wat
 
 {{% blocks/products/pf/agp/content h2="Java Kullanılarak XLSB Dosyasına Filigran Nasıl Yapılır?" %}}
 
- XLSB dosyasını filigranlamak için kullanacağız
- [Aspose.Cells for Java](https://products.aspose.com/cells/java) 
- Zengin özelliklere sahip, güçlü ve kullanımı kolay bir filigranlama platformu olan API API for Java. En son sürümünü doğrudan adresinden indirebilirsiniz.
- [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) 
- ve aşağıdaki yapılandırmaları pom.xml dosyasına ekleyerek Maven tabanlı projenize kurun.
+ XLSB dosyasını filigranlamak için kullanacağız[Aspose.Cells for Java](https://products.aspose.com/cells/java) Zengin özelliklere sahip, güçlü ve kullanımı kolay bir filigranlama platformu olan API API for Java. En son sürümünü doğrudan adresinden indirebilirsiniz.[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) ve aşağıdaki yapılandırmaları pom.xml dosyasına ekleyerek Maven tabanlı projenize kurun.
 
 {{% blocks/products/pf/agp/code-block title="Depo" offSpacer="true" %}}
 
@@ -129,7 +125,7 @@ workbook.save(dataDir + "AWArtWToWorksheet_out.xlsb");
     {{< blocks/products/pf/agp/about-file-section >}}
 
         {{< blocks/products/pf/agp/demobox sectionTitle="Filigran XLSB Çevrimiçi Uygulama aracılığıyla" sectionDescription=" XLSB belgemize filigran ekleyin.[Canlı Demolar web sitesi](https://products.aspose.app/cells/watermark). Canlı demo aşağıdaki avantajlara sahiptir" >}}
-            {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Hiçbir şey indirmenize veya kurmanıza gerek yok" >}}
+            {{< blocks/products/pf/agp/democard icon="fa-cogs" text="Hiçbir şey indirmenize veya kurmanıza gerek yok" >}}
             {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Herhangi bir kod yazmaya gerek yok" >}}
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Sadece XLSB dosyanızı yükleyin, filigranınızı ayarlayın ve \"Ekle\" düğmesine basın" >}}
             {{< blocks/products/pf/agp/democard icon="fa-download" text=" Ortaya çıkan dosyanın indirme bağlantısını anında alın" >}}
@@ -148,6 +144,7 @@ XLSB dosya biçimi, Excel çalışma kitabı içeriğini belirten kayıtların v
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/watermark/ods/" name="ODS" description="OpenDocument Elektronik Tablo Dosyası" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/watermark/xls/" name="XLS" description="Excel İkili Formatı" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/watermark/xlsm/" name="XLSM" description="Elektronik Tablo Dosyası" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/watermark/xlsx/" name="XLSX" description="OOXML Excel Dosyası" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

@@ -12,13 +12,7 @@ keywords: [C# Aspose.Cells., c# Search and replace text in XLSM file., c# redact
 
 {{% blocks/products/pf/agp/content h2="كيفية تنقيح ملف XLSM باستخدام C#" %}}
 
- من أجل تنقيح ملف XLSM، سنستخدم
- [Aspose.Cells for .NET](https://products.aspose.com/cells/net) 
- API وهي منصة غنية بالميزات وقوية وسهلة الاستخدام لمعالجة المستندات API لمنصة C#. يفتح
- [NuGet](https://www.nuget.org/packages/aspose.cells) 
- مدير الحزم، ابحث عن
- **Aspose.Cells** 
- وتثبيت. يمكنك أيضًا استخدام الأمر التالي من وحدة تحكم إدارة الحزم.
+ من أجل تنقيح ملف XLSM، سنستخدم[Aspose.Cells for .NET](https://products.aspose.com/cells/net) API وهي منصة غنية بالميزات وقوية وسهلة الاستخدام لمعالجة المستندات API لمنصة C#. يفتح[NuGet](https://www.nuget.org/packages/aspose.cells) مدير الحزم، ابحث عن**Aspose.Cells** وتثبيت. يمكنك أيضًا استخدام الأمر التالي من وحدة تحكم إدارة الحزم.
 
 {{% blocks/products/pf/agp/code-block title="يأمر" offSpacer="true" %}}
 
@@ -38,9 +32,7 @@ PM> Install-Package Aspose.Cells
 
 {{% blocks/products/pf/agp/text %}}
 
- بحث أساسي عن المستندات واستبدال النص في المحتويات أو التعليقات أو البيانات الوصفية
- [Aspose.Cells for .NET](https://products.aspose.com/cells/net) 
- يمكن إنشاء واجهات برمجة التطبيقات باستخدام بضعة أسطر من التعليمات البرمجية.
+ بحث أساسي عن المستندات واستبدال النص في المحتويات أو التعليقات أو البيانات الوصفية[Aspose.Cells for .NET](https://products.aspose.com/cells/net) يمكن إنشاء واجهات برمجة التطبيقات باستخدام بضعة أسطر من التعليمات البرمجية.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -57,7 +49,7 @@ PM> Install-Package Aspose.Cells
 
 {{% blocks/products/pf/agp/text %}}
 
- يتم دعم واجهات برمجة التطبيقات الخاصة بنا على جميع المنصات وأنظمة التشغيل الرئيسية. قبل تنفيذ التعليمات البرمجية أدناه، يرجى التأكد من توفر المتطلبات الأساسية التالية على نظامك.
+يتم دعم واجهات برمجة التطبيقات الخاصة بنا على جميع المنصات وأنظمة التشغيل الرئيسية. قبل تنفيذ التعليمات البرمجية أدناه، يرجى التأكد من توفر المتطلبات الأساسية التالية على نظامك.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -122,7 +114,7 @@ wb.Save("e:\test2\output.xlsm");
             {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" لا داعي للتحميل Aspose API." >}}
             {{< blocks/products/pf/agp/democard icon="fa-edit" text=" لا حاجة لكتابة أي رمز." >}}
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" فقط قم بتحميل ملفات XLSM الخاصة بك." >}}
-            {{< blocks/products/pf/agp/democard icon="fa-download" text="سيتم تنقيحه على الفور." >}}
+            {{< blocks/products/pf/agp/democard icon="fa-download" text=" سيتم تنقيحه على الفور." >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLSM" readMoreLink="https://docs.fileformat.com/spreadsheet/xlsm/" >}}
 الملفات ذات الامتداد XLSM هي نوع من ملفات جداول البيانات التي تدعم وحدات الماكرو. من وجهة نظر التطبيق، الماكرو عبارة عن مجموعة من التعليمات التي يتم استخدامها لأتمتة العمليات. يتم استخدام الماكرو لتسجيل الخطوات التي يتم تنفيذها بشكل متكرر وتسهيل تنفيذ الإجراءات عن طريق تشغيل الماكرو مرة أخرى. تتم برمجة وحدات الماكرو باستخدام Visual Basic for Applications (VBA) الخاص بـ Microsoft من داخل مصنف Excel باستخدام محرر Visual Basic ويمكن تشغيلها/تصحيح الأخطاء مباشرة من هناك.
@@ -138,6 +130,7 @@ wb.Save("e:\test2\output.xlsm");
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/redaction/ods/" name="ODS" description="ملف جدول بيانات OpenDocument" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/redaction/xls/" name="XLS" description="تنسيق ثنائي إكسل" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/redaction/xlsb/" name="XLSB" description="ملف مصنف Excel الثنائي" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/redaction/xlsx/" name="XLSX" description="ملف اكسيل OOXML" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

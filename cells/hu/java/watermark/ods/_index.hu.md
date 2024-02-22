@@ -1,5 +1,5 @@
 ---
-title: Vízjel ODS dokumentum via Java
+title:  Vízjel ODS dokumentum via Java
 weight: 1040
 description: Java mintakód vízjel hozzáadásához vagy eltávolításához a ODS fájlhoz a Java Futókörnyezet JSP/JSF alkalmazásokhoz és asztali alkalmazásokhoz.
 keywords: [Java Aspose.Cells., Java add watermark to ods file., Java insert watermark to ods file., Java create watermark in ods file., remove watermark from ods file using Java., Java operate watermark in ods file., Java access watermark in ods file]
@@ -12,11 +12,7 @@ keywords: [Java Aspose.Cells., Java add watermark to ods file., Java insert wate
 
 {{% blocks/products/pf/agp/content h2="A ODS fájl vízjelezése a Java használatával" %}}
 
- A ODS fájl vízjelezéséhez használjuk
- [Aspose.Cells for Java](https://products.aspose.com/cells/java) 
- API, amely funkciókban gazdag, erőteljes és könnyen használható vízjel API for Java platform. A legújabb verziót közvetlenül a webhelyről töltheti le
- [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) 
- és telepítse a Maven alapú projekten belül a következő konfigurációk hozzáadásával a pom.xml fájlhoz.
+ A ODS fájl vízjelezéséhez használjuk[Aspose.Cells for Java](https://products.aspose.com/cells/java) API, amely funkciókban gazdag, erőteljes és könnyen használható vízjel API for Java platform. A legújabb verziót közvetlenül a webhelyről töltheti le[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) és telepítse a Maven alapú projekten belül a következő konfigurációk hozzáadásával a pom.xml fájlhoz.
 
 {{% blocks/products/pf/agp/code-block title="Adattár" offSpacer="true" %}}
 
@@ -129,13 +125,13 @@ workbook.save(dataDir + "AWArtWToWorksheet_out.ods");
     {{< blocks/products/pf/agp/about-file-section >}}
 
         {{< blocks/products/pf/agp/demobox sectionTitle="Vízjel ODS az online alkalmazáson keresztül" sectionDescription=" Adjon hozzá vízjelet a ODS dokumentumokhoz, látogassa meg webhelyünket[Élő bemutatók weboldala](https://products.aspose.app/cells/watermark). Az élő demónak a következő előnyei vannak" >}}
-            {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Nem kell letölteni vagy beállítani semmit" >}}
+            {{< blocks/products/pf/agp/democard icon="fa-cogs" text="Nem kell letölteni vagy beállítani semmit" >}}
             {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Nem kell kódot írni" >}}
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Csak töltse fel a ODS fájlt, állítsa be a vízjelet, és nyomja meg a \"Hozzáadás\" gombot" >}}
             {{< blocks/products/pf/agp/democard icon="fa-download" text=" Azonnal megkapja a letöltési linket az eredményül kapott fájlhoz" >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="ODS" readMoreLink="https://docs.fileformat.com/spreadsheet/ods/" >}}
-ODS kiterjesztésű fájlok az OpenDocument Spreadsheet Document formátumot jelentik, amelyeket a felhasználó szerkeszthet. Az adatok az ODF fájlban sorokba és oszlopokba kerülnek. Ez XML-alapú formátum, és egyike az Open Document Formats (ODF) család számos altípusának. A formátumot az OASIS által közzétett és karbantartott ODF 1.2 specifikáció részeként határozták meg. Számos alkalmazás a Windows-en, valamint más operációs rendszerek ODS fájlokat nyithat meg szerkesztésre és manipulációra, beleértve a Microsoft Excel, NeoOffice és LibreOffice. A ODS fájlok más táblázatformátumokba, például XLS, XLSX és más formátumokba is konvertálhatók különböző alkalmazásokkal.
+A ODS kiterjesztésű fájlok az OpenDocument Spreadsheet Document formátumot jelentik, amelyeket a felhasználó szerkeszthet. Az adatok az ODF fájlban sorokba és oszlopokba kerülnek. Ez XML-alapú formátum, és egyike az Open Document Formats (ODF) család számos altípusának. A formátumot az OASIS által közzétett és karbantartott ODF 1.2 specifikáció részeként határozták meg. Számos alkalmazás a Windows-en, valamint más operációs rendszerek ODS fájlokat nyithat meg szerkesztésre és manipulációra, beleértve a Microsoft Excel, NeoOffice és LibreOffice. A ODS fájlok más táblázatformátumokba, például XLS, XLSX és más formátumokba is konvertálhatók különböző alkalmazásokkal.
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
@@ -143,11 +139,12 @@ ODS kiterjesztésű fájlok az OpenDocument Spreadsheet Document formátumot jel
 
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="Egyéb támogatott vízjelformátumok" subTitle="A Java használatával könnyen megjelölhet vízjelet különböző formátumokhoz, beleértve." >}}
+{{< blocks/products/pf/agp/other-supported-section title="Egyéb támogatott vízjelformátumok" subTitle="Java használatával könnyen megjelölhet vízjelet különböző formátumokhoz, beleértve." >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/watermark/xls/" name="XLS" description="Excel bináris formátum" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/watermark/xlsb/" name="XLSB" description="Bináris Excel munkafüzet fájl" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/watermark/xlsm/" name="XLSM" description="Táblázatfájl" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/watermark/xlsx/" name="XLSX" description="OOXML Excel fájl" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

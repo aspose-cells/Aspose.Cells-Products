@@ -1,5 +1,5 @@
 ---
-title: العلامة المائية XLS الوثيقة via Java
+title:  العلامة المائية XLS الوثيقة via Java
 weight: 2210
 description: نموذج التعليمات البرمجية Java لإضافة أو إزالة العلامة المائية إلى ملف XLS على Java بيئة التشغيل لتطبيقات JSP/JSF وتطبيقات سطح المكتب.
 keywords: [Java Aspose.Cells., Java add watermark to xls file., Java insert watermark to xls file., Java create watermark in xls file., remove watermark from xls file using Java., Java operate watermark in xls file., Java access watermark in xls file]
@@ -12,11 +12,7 @@ keywords: [Java Aspose.Cells., Java add watermark to xls file., Java insert wate
 
 {{% blocks/products/pf/agp/content h2="كيفية وضع علامة مائية على الملف XLS باستخدام Java" %}}
 
- من أجل وضع علامة مائية على الملف XLS، سنستخدم
- [Aspose.Cells for Java](https://products.aspose.com/cells/java) 
- API وهي منصة غنية بالميزات وقوية وسهلة الاستخدام للعلامة المائية API for Java. يمكنك تنزيل أحدث إصدار مباشرة من
- [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) 
- وقم بتثبيته ضمن مشروعك المستند إلى Maven عن طريق إضافة التكوينات التالية إلى ملف pom.xml.
+ من أجل وضع علامة مائية على الملف XLS، سنستخدم[Aspose.Cells for Java](https://products.aspose.com/cells/java) API وهي منصة غنية بالميزات وقوية وسهلة الاستخدام للعلامة المائية API for Java. يمكنك تنزيل أحدث إصدار مباشرة من[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) وقم بتثبيته ضمن مشروعك المستند إلى Maven عن طريق إضافة التكوينات التالية إلى ملف pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="مخزن" offSpacer="true" %}}
 
@@ -129,7 +125,7 @@ workbook.save(dataDir + "AWArtWToWorksheet_out.xls");
     {{< blocks/products/pf/agp/about-file-section >}}
 
         {{< blocks/products/pf/agp/demobox sectionTitle="العلامة المائية XLS عبر التطبيق عبر الإنترنت" sectionDescription=" أضف علامة مائية إلى مستندات XLS من خلال زيارة موقعنا[موقع العروض الحية](https://products.aspose.app/cells/watermark). يتمتع العرض التجريبي المباشر بالمزايا التالية" >}}
-            {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" لا حاجة لتنزيل أو إعداد أي شيء" >}}
+            {{< blocks/products/pf/agp/democard icon="fa-cogs" text="لا حاجة لتنزيل أو إعداد أي شيء" >}}
             {{< blocks/products/pf/agp/democard icon="fa-edit" text=" لا حاجة لكتابة أي رمز" >}}
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text="ما عليك سوى تحميل ملف XLS الخاص بك، وتعيين العلامة المائية الخاصة بك والضغط على زر \"إضافة\"." >}}
             {{< blocks/products/pf/agp/democard icon="fa-download" text=" احصل على رابط التنزيل للملف الناتج على الفور" >}}
@@ -148,6 +144,7 @@ workbook.save(dataDir + "AWArtWToWorksheet_out.xls");
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/watermark/ods/" name="ODS" description="ملف جدول بيانات OpenDocument" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/watermark/xlsb/" name="XLSB" description="ملف مصنف Excel الثنائي" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/watermark/xlsm/" name="XLSM" description="ملف جدول البيانات" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/watermark/xlsx/" name="XLSX" description="ملف اكسيل OOXML" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

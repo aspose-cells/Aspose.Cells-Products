@@ -13,7 +13,7 @@ keywords: [Python Aspose.Cells Create repair merge convert JSON Excel XML PDF HT
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
-Aspose.Cells for Python via .Net adalah API yang cepat dan andal untuk tugas pemrosesan spreadsheet. Pengembang dapat membuat spreadsheet sederhana atau kompleks, memanipulasi serta mengekstrak informasi dari file excel. API membaca berbagai format excel dan dapat merender lembar kerja menjadi XPS, PDF, MHTML, HTML, Teks Biasa, gambar, dan lainnya. Ini adalah solusi terbaik untuk mengotomatisasi laporan excel menggunakan python.
+ Aspose.Cells for Python via .Net adalah API yang cepat dan andal untuk tugas pemrosesan spreadsheet. Pengembang dapat membuat spreadsheet sederhana atau kompleks, memanipulasi serta mengekstrak informasi dari file excel. API membaca berbagai format excel dan dapat merender lembar kerja menjadi XPS, PDF, MHTML, HTML, Teks Biasa, gambar, dan lainnya. Ini adalah solusi terbaik untuk mengotomatisasi laporan excel menggunakan python.
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
@@ -38,7 +38,7 @@ Aspose.Cells for Python via .Net adalah API yang cepat dan andal untuk tugas pem
  Kumpulan Hasil
     </li>
     <li>
-Koleksi
+ Koleksi
     </li>
    </ul>
    <header>
@@ -76,7 +76,7 @@ Koleksi
  Buat Bagan
     </li>
     <li>
- Meringkaskan
+Meringkaskan
     </li>
     <li>
  Penanda Cerdas
@@ -159,7 +159,7 @@ Koleksi
      <b>
  Microsoft Unggul:
      </b>
- XLS, XLSX, XLSB, XLTX, XLTM, XLSM, XML
+ XLS, XLSX, XLSB, XLT, XLTX, XLTM, XLSM, XML, OTS
     </li>
     <li>
      <b>
@@ -171,13 +171,25 @@ Koleksi
      <b>
  Teks:
      </b>
-     CSV, TSV, TXT
+     CSV, TSV, JSON
     </li>
     <li>
      <b>
  jaringan:
      </b>
      HTML, MHTML
+    </li>
+    <li>
+     <b>
+      Numbers:
+     </b>
+ Dokumen aplikasi iWork office suite Numbers Apple
+    </li>
+    <li>
+     <b>
+ Yang lain:
+     </b>
+ SXC, FODS, EPUB
     </li>
    </ul>
   </div>
@@ -186,7 +198,7 @@ Koleksi
    <header>
     <i class="fa fa-mail-forward">
     </i>
- Keluaran Saja
+Keluaran Saja
    </header>
    <ul>
     <li>
@@ -197,9 +209,21 @@ Koleksi
     </li>
     <li>
      <b>
+ Pertukaran Data:
+     </b>
+     DIF
+    </li>    
+    <li>
+     <b>
  Gambar-gambar:
      </b>
-     JPEG, PNG, BMP, SVG, EMF
+     JPEG, PNG, BMP, SVG, TIFF, EMF, GIF
+    </li>
+    <li>
+     <b>
+ Yang lain:
+     </b>
+ MARKDOWN, SQL, XTHML
     </li>
    </ul>
   </div>
@@ -306,7 +330,7 @@ Koleksi
     <em class="fa fa-object-ungroup ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-Tambahkan atau hapus pengelompokan ke baris dan kolom
+ Tambahkan atau hapus pengelompokan ke baris dan kolom
     </p>
    </div>
    <div class="col-lg-4">
@@ -416,7 +440,7 @@ Tambahkan atau hapus pengelompokan ke baris dan kolom
  Konversi Berbagai Format
     </h2>
     <p>
- Pustaka Excel Python menyediakan konversi file Excel ke PDF, XPS &amp; HTML format. Konversi API yang andal menjadikannya solusi sempurna bagi perusahaan yang perlu bertukar file dalam format standar industri.
+Pustaka Excel Python menyediakan konversi file Excel ke PDF, XPS &amp; HTML format. Konversi API yang andal menjadikannya solusi sempurna bagi perusahaan yang perlu bertukar file dalam format standar industri.
     </p>
     <div class="codeblock" id="code">
      <h3>
@@ -493,7 +517,7 @@ wk.save("houtput.html", SaveFormat.HTML);</code></pre>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-Kustomisasi Grafik
+ Kustomisasi Grafik
     </h2>
     <p>
 Aspose.Cells for Python via .NET memberikan dukungan penuh untuk pembuatan grafik. Seseorang dapat dengan mudah menambahkan bagan standar dan khusus atau mengatur data bagan secara dinamis untuk menyegarkan bagan melalui perpustakaan python ini.

@@ -13,7 +13,7 @@ keywords: [Python Aspose.Cells Create parse repair merge convert JSON Excel XML 
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
-Aspose.Cells for Python via Java — это быстрый и надежный API для задач обработки электронных таблиц. Разработчики могут создавать простые или сложные электронные таблицы, манипулировать ими и извлекать информацию из файлов Excel. API читает несколько форматов Excel и может отображать рабочие листы в XPS, PDF, MHTML, HTML, обычный текст, изображения и многое другое. Это лучшее решение для автоматизации отчетов Excel с использованием Python.
+ Aspose.Cells for Python via Java — это быстрый и надежный API для задач обработки электронных таблиц. Разработчики могут создавать простые или сложные электронные таблицы, манипулировать ими и извлекать информацию из файлов Excel. API читает несколько форматов Excel и может отображать рабочие листы в XPS, PDF, MHTML, HTML, обычный текст, изображения и многое другое. Это лучшее решение для автоматизации отчетов Excel с использованием Python.
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
@@ -38,7 +38,7 @@ Aspose.Cells for Python via Java — это быстрый и надежный A
  Набор результатов
     </li>
     <li>
-Коллекции
+ Коллекции
     </li>
    </ul>
    <header>
@@ -76,7 +76,7 @@ Aspose.Cells for Python via Java — это быстрый и надежный A
  Создание диаграмм
     </li>
     <li>
- Подведем итог
+Подведем итог
     </li>
     <li>
  Умные маркеры
@@ -145,7 +145,7 @@ Aspose.Cells for Python via Java — это быстрый и надежный A
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Поддерживаемые форматы файлов" description="Python Библиотека Excel поддерживает популярные Microsoft форматы Excel, форматы с фиксированным макетом и изображения." >}}
+{{< blocks/products/pf/carousel-item h3="Поддерживаемые форматы файлов" description="Python Библиотека Excel поддерживает популярные форматы Microsoft Excel, форматы с фиксированным макетом и изображения." >}}
 <div class="diagram1 d2 d1-python">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -159,7 +159,7 @@ Aspose.Cells for Python via Java — это быстрый и надежный A
      <b>
  Microsoft Эксель:
      </b>
- XLS, XLSX, XLSB, XLTX, XLTM, XLSM, XML
+ XLS, XLSX, XLSB, XLT, XLTX, XLTM, XLSM, XML, OTS
     </li>
     <li>
      <b>
@@ -171,13 +171,25 @@ Aspose.Cells for Python via Java — это быстрый и надежный A
      <b>
  Текст:
      </b>
-     CSV, TSV, TXT
+     CSV, TSV, JSON
     </li>
     <li>
      <b>
  Интернет:
      </b>
      HTML, MHTML
+    </li>
+    <li>
+     <b>
+      Numbers:
+     </b>
+ Документы приложения офисного пакета Apple iWork Numbers
+    </li>
+    <li>
+     <b>
+ Другие:
+     </b>
+ SXC, FODS, EPUB
     </li>
    </ul>
   </div>
@@ -186,7 +198,7 @@ Aspose.Cells for Python via Java — это быстрый и надежный A
    <header>
     <i class="fa fa-mail-forward">
     </i>
- Только вывод
+Только вывод
    </header>
    <ul>
     <li>
@@ -197,9 +209,21 @@ Aspose.Cells for Python via Java — это быстрый и надежный A
     </li>
     <li>
      <b>
+ Обмен данными:
+     </b>
+     DIF
+    </li>    
+    <li>
+     <b>
  Изображений:
      </b>
-     JPEG, PNG, BMP, SVG, EMF
+     JPEG, PNG, BMP, SVG, TIFF, EMF, GIF
+    </li>
+    <li>
+     <b>
+ Другие:
+     </b>
+ MARKDOWN, SQL, XTHML
     </li>
    </ul>
   </div>
@@ -306,7 +330,7 @@ Aspose.Cells for Python via Java — это быстрый и надежный A
     <em class="fa fa-object-ungroup ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-Добавить или удалить группировку в строках и столбцах
+ Добавить или удалить группировку в строках и столбцах
     </p>
    </div>
    <div class="col-lg-4">
@@ -416,11 +440,11 @@ Aspose.Cells for Python via Java — это быстрый и надежный A
  Преобразование нескольких форматов
     </h2>
     <p>
- Python Библиотека Excel обеспечивает преобразование файлов Excel в PDF, XPS и amp; Форматы HTML. Надежное преобразование API делает его идеальным решением для компаний, которым требуется обмениваться файлами в стандартных отраслевых форматах.
+Python Библиотека Excel обеспечивает преобразование файлов Excel в PDF, XPS и amp; Форматы HTML. Надежное преобразование API делает его идеальным решением для компаний, которым требуется обмениваться файлами в стандартных отраслевых форматах.
     </p>
     <div class="codeblock" id="code">
      <h3>
-Сохранение таблицы в разных форматах — Java.
+ Сохранение таблицы в разных форматах — Java.
      </h3>
      <pre><code class="java">
 // load file to be converted
@@ -489,7 +513,7 @@ wkbk.save(SD_PATH + "houtput.html", SaveFormat.HTML);</code></pre>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-Настройка графиков
+ Настройка графиков
     </h2>
     <p>
 Aspose.Cells for Python via Java обеспечивает полную поддержку построения графиков. Можно легко добавлять стандартные и настраиваемые диаграммы или динамически устанавливать данные диаграммы, чтобы обновить диаграмму с помощью этой библиотеки Python.

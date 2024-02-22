@@ -1,5 +1,5 @@
 ---
-title: Hình mờ XLS tài liệu via Java
+title:  Hình mờ XLS tài liệu via Java
 weight: 2210
 description: Mã mẫu Java để thêm hoặc xóa hình mờ vào tệp XLS trên Java Môi trường thời gian chạy cho ứng dụng JSP/JSF và ứng dụng máy tính để bàn.
 keywords: [Java Aspose.Cells., Java add watermark to xls file., Java insert watermark to xls file., Java create watermark in xls file., remove watermark from xls file using Java., Java operate watermark in xls file., Java access watermark in xls file]
@@ -12,11 +12,7 @@ keywords: [Java Aspose.Cells., Java add watermark to xls file., Java insert wate
 
 {{% blocks/products/pf/agp/content h2="Cách tạo hình mờ cho tệp XLS bằng Java" %}}
 
- Để tạo hình mờ cho tệp XLS, chúng tôi sẽ sử dụng
- [Aspose.Cells for Java](https://products.aspose.com/cells/java) 
- API là một nền tảng tạo hình mờ giàu tính năng, mạnh mẽ và dễ sử dụng API for Java. Bạn có thể tải xuống phiên bản mới nhất của nó trực tiếp từ
- [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) 
- và cài đặt nó trong dự án dựa trên Maven của bạn bằng cách thêm các cấu hình sau vào pom.xml.
+ Để tạo hình mờ cho tệp XLS, chúng tôi sẽ sử dụng[Aspose.Cells for Java](https://products.aspose.com/cells/java) API là một nền tảng tạo hình mờ giàu tính năng, mạnh mẽ và dễ sử dụng API for Java. Bạn có thể tải xuống phiên bản mới nhất của nó trực tiếp từ[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) và cài đặt nó trong dự án dựa trên Maven của bạn bằng cách thêm các cấu hình sau vào pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Kho" offSpacer="true" %}}
 
@@ -129,13 +125,13 @@ workbook.save(dataDir + "AWArtWToWorksheet_out.xls");
     {{< blocks/products/pf/agp/about-file-section >}}
 
         {{< blocks/products/pf/agp/demobox sectionTitle="Hình mờ XLS qua ứng dụng trực tuyến" sectionDescription=" Thêm hình mờ vào tài liệu XLS bằng cách truy cập của chúng tôi[Trang web demo trực tiếp](https://products.aspose.app/cells/watermark). Bản demo trực tiếp có những lợi ích sau" >}}
-            {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Không cần tải xuống hay thiết lập bất cứ thứ gì" >}}
+            {{< blocks/products/pf/agp/democard icon="fa-cogs" text="Không cần tải xuống hay thiết lập bất cứ thứ gì" >}}
             {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Không cần phải viết bất kỳ mã nào" >}}
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Chỉ cần tải lên tệp XLS của bạn, đặt hình mờ của bạn và nhấn nút \"Thêm\"" >}}
             {{< blocks/products/pf/agp/democard icon="fa-download" text=" Nhận ngay link tải file kết quả" >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLS" readMoreLink="https://docs.fileformat.com/spreadsheet/xls/" >}}
-Các tệp có phần mở rộng XLS biểu thị Định dạng tệp nhị phân Excel. Những tệp như vậy có thể được tạo bởi Microsoft Excel cũng như các chương trình bảng tính tương tự khác như OpenOffice Calc hoặc Apple Numbers. Tệp được lưu bởi Excel được gọi là Sổ làm việc trong đó mỗi sổ làm việc có thể có một hoặc nhiều trang tính. Dữ liệu được lưu trữ và hiển thị cho người dùng ở định dạng bảng trong trang tính và có thể bao gồm các giá trị số, dữ liệu văn bản, công thức, kết nối dữ liệu ngoài, hình ảnh và biểu đồ. Các ứng dụng như Microsoft Excel cho phép bạn xuất dữ liệu sổ làm việc sang nhiều định dạng khác nhau bao gồm PDF, CSV, XLSX, TXT, HTML, XPS và một số định dạng khác. Định dạng tệp XLS đã được thay thế bằng định dạng có cấu trúc và mở hơn, XLSX, với bản phát hành Microsoft Excel 2007. Các phiên bản mới nhất vẫn cung cấp hỗ trợ tạo và đọc tệp XLS, mặc dù XLSX hiện là lựa chọn sử dụng đầu tiên.
+Các tệp có phần mở rộng XLS biểu thị Định dạng tệp nhị phân Excel. Những tệp như vậy có thể được tạo bởi Microsoft Excel cũng như các chương trình bảng tính tương tự khác như OpenOffice Calc hoặc Apple Numbers. Tệp được lưu bởi Excel được gọi là Sổ làm việc trong đó mỗi sổ làm việc có thể có một hoặc nhiều trang tính. Dữ liệu được lưu trữ và hiển thị cho người dùng ở định dạng bảng trong trang tính và có thể bao gồm các giá trị số, dữ liệu văn bản, công thức, kết nối dữ liệu ngoài, hình ảnh và biểu đồ. Các ứng dụng như Microsoft Excel cho phép bạn xuất dữ liệu sổ làm việc sang nhiều định dạng khác nhau, bao gồm PDF, CSV, XLSX, TXT, HTML, XPS và một số định dạng khác. Định dạng tệp XLS đã được thay thế bằng định dạng có cấu trúc và mở hơn, XLSX, với bản phát hành Microsoft Excel 2007. Các phiên bản mới nhất vẫn cung cấp hỗ trợ tạo và đọc tệp XLS, mặc dù XLSX hiện là lựa chọn sử dụng đầu tiên.
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
@@ -148,6 +144,7 @@ Các tệp có phần mở rộng XLS biểu thị Định dạng tệp nhị ph
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/watermark/ods/" name="ODS" description="Tệp bảng tính OpenDocument" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/watermark/xlsb/" name="XLSB" description="Tệp sổ làm việc Excel nhị phân" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/watermark/xlsm/" name="XLSM" description="Tệp bảng tính" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/watermark/xlsx/" name="XLSX" description="Tệp Excel OOXML" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

@@ -12,11 +12,7 @@ keywords: [Java Aspose.Cells., Java Search and replace text in XLSB file., Java 
 
 {{% blocks/products/pf/agp/content h2="A XLSB fájl szerkesztése a Java használatával" %}}
 
- A XLSB fájl szerkesztéséhez a következőt használjuk:
- [Aspose.Cells for Java](https://products.aspose.com/cells/java) 
-API, amely egy funkciókban gazdag, hatékony és könnyen használható szerkesztési API for Java platform. A legújabb verziót közvetlenül a webhelyről töltheti le
- [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) 
- és telepítse a Maven alapú projekten belül a következő konfigurációk hozzáadásával a pom.xml fájlhoz.
+ A XLSB fájl szerkesztéséhez a következőt használjuk:[Aspose.Cells for Java](https://products.aspose.com/cells/java) API, amely egy funkciókban gazdag, hatékony és könnyen használható szerkesztési API for Java platform. A legújabb verziót közvetlenül a webhelyről töltheti le[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) és telepítse a Maven alapú projekten belül a következő konfigurációk hozzáadásával a pom.xml fájlhoz.
 
 {{% blocks/products/pf/agp/code-block title="Adattár" offSpacer="true" %}}
 
@@ -54,9 +50,7 @@ API, amely egy funkciókban gazdag, hatékony és könnyen használható szerkes
 
 {{% blocks/products/pf/agp/text %}}
 
- Alapvető dokumentum keresés és szöveg cseréje a tartalomban, a megjegyzésekben vagy a metaadatokban
- [Aspose.Cells for Java](https://products.aspose.com/cells/java) 
- Az API-k néhány sornyi kóddal elkészíthetők.
+ Alapvető dokumentum keresés és szöveg cseréje a tartalomban, a megjegyzésekben vagy a metaadatokban[Aspose.Cells for Java](https://products.aspose.com/cells/java) Az API-k néhány sornyi kóddal elkészíthetők.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -78,7 +72,7 @@ API, amely egy funkciókban gazdag, hatékony és könnyen használható szerkes
 
 {{% /blocks/products/pf/agp/text %}}
 
--  Microsoft Windows vagy kompatibilis operációs rendszer Java futásidejű környezettel JSP/JSF alkalmazásokhoz és asztali alkalmazásokhoz.
+- Microsoft Windows vagy kompatibilis operációs rendszer Java futásidejű környezettel JSP/JSF alkalmazásokhoz és asztali alkalmazásokhoz.
 -  Szerezze be a Aspose.Cells for Java legújabb verzióját közvetlenül innen
  [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells)  .
 
@@ -144,7 +138,7 @@ workbook.save(dataDir + "output.xlsb");
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Nem kell letölteni a Aspose API számot." >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Nem kell kódot írni." >}}
         {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Csak töltse fel a XLSB fájlokat." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-download" text="Azonnal szerkesztve lesz." >}}
+        {{< blocks/products/pf/agp/democard icon="fa-download" text=" Azonnal szerkesztve lesz." >}}
     {{< /blocks/products/pf/agp/demobox >}}
 
     {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLSB" readMoreLink="https://docs.fileformat.com/spreadsheet/xlsb/" >}}
@@ -161,6 +155,7 @@ workbook.save(dataDir + "output.xlsb");
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/redaction/ods/" name="ODS" description="OpenDocument táblázatfájl" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/redaction/xls/" name="XLS" description="Excel bináris formátum" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/redaction/xlsm/" name="XLSM" description="Táblázatfájl" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/redaction/xlsx/" name="XLSX" description="OOXML Excel fájl" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

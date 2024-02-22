@@ -1,6 +1,6 @@
 ---
 title: إنشاء TIFF - إنشاء ملف TIFF في C++
-description: Aspose اكسل. C++ أنشئ ملف TIFF بسرعة وسهولة باستخدام Aspose.Cells. أنشئ ملف TIFF باستخدام C++. أنشئ TIFF في C++. C++ TIFF Creator.
+description:  Aspose اكسل. C++ أنشئ ملف TIFF بسرعة وسهولة باستخدام Aspose.Cells. أنشئ ملف TIFF باستخدام C++. أنشئ TIFF في C++. C++ TIFF Creator.
 keywords: [Aspose Excel., C++ Aspose.Cells., C++ Create TIFF file., Generate TIFF file in C++., Create TIFF file using C++., Write data to TIFF file via C++., Create a TIFF file in C++., C++ Generate a TIFF file., C++ TIFF Creater]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -11,7 +11,7 @@ keywords: [Aspose Excel., C++ Aspose.Cells., C++ Create TIFF file., Generate TIF
 
 {{% blocks/products/pf/agp/content h2="إنشاء ملف TIFF باستخدام C++" %}}
 
- كيفية إنشاء ملف TIFF؟ باستخدام مكتبة Aspose.Cells for C++، يمكنك بسهولة إنشاء ملف TIFF برمجيًا باستخدام بضعة أسطر من التعليمات البرمجية.[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) قادر على إنشاء تطبيقات مشتركة بين الأنظمة الأساسية مع القدرة على إنشاء جميع ملفات Excel وتعديلها وتحويلها وعرضها وطباعتها. C++ Excel API لا يقوم فقط بالتحويل بين تنسيقات جداول البيانات، بل يمكنه أيضًا عرض ملفات Excel كصور، وPDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT والمزيد، مما يجعله خيارًا مثاليًا لتبادل المستندات بتنسيقات متوافقة مع معايير الصناعة. يمكنك تنزيل أحدث إصدار له مباشرة، فقط قم بفتحه[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) مدير الحزم، ابحث عن Aspose.Cells.Cpp وقم بتثبيته. يمكنك أيضًا استخدام الأمر التالي من وحدة تحكم إدارة الحزم.
+ كيفية إنشاء ملف TIFF؟ باستخدام مكتبة Aspose.Cells for C++، يمكنك بسهولة إنشاء ملف TIFF برمجيًا باستخدام بضعة أسطر من التعليمات البرمجية.[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) قادر على إنشاء تطبيقات مشتركة بين الأنظمة الأساسية مع القدرة على إنشاء جميع ملفات Excel وتعديلها وتحويلها وعرضها وطباعتها. C++ Excel API لا يقوم فقط بالتحويل بين تنسيقات جداول البيانات، بل يمكنه أيضًا عرض ملفات Excel كصور، وPDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT والمزيد، مما يجعله خيارًا مثاليًا لتبادل المستندات بتنسيقات متوافقة مع معايير الصناعة. يمكنك تنزيل أحدث إصدار له مباشرة، فقط قم بفتحه[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/)مدير الحزم، ابحث عن Aspose.Cells.Cpp وقم بتثبيته. يمكنك أيضًا استخدام الأمر التالي من وحدة تحكم إدارة الحزم.
 
 {{% blocks/products/pf/agp/code-block title="يأمر" offSpacer="true" %}}
 
@@ -37,9 +37,9 @@ PM> Install-Package Aspose.Cells.Cpp
 1.  إنشاء كائن من فئة المصنف.
 1.  احصل على الورقة الأولى في كائن ورقة العمل.
 1.  استخدم أسلوب Worksheet.GetCells() لتحويل خلايا ورقة العمل إلى كائن Cells.
-1. استخدم طريقة Cells.Get() للوصول إلى الخلية المطلوبة في ورقة العمل وتحويلها إلى كائن Cell.
+1.  استخدم طريقة Cells.Get() للوصول إلى الخلية المطلوبة في ورقة العمل وتحويلها إلى كائن Cell.
 1.  استخدم طريقة Cell.PutValue() لإدخال القيمة في الخلية.
-1. احفظ المصنف كملف .tiff باستخدام طريقة Save().
+1.  احفظ المصنف كملف .tiff باستخدام طريقة Save().
 
 {{% blocks/products/pf/agp/code-block title="يوضح نموذج التعليمات البرمجية كيفية إنشاء ملف TIFF في C++." offSpacer="" %}}
 
@@ -70,7 +70,6 @@ cell01.PutValue(u"ColumnB");
 cell10.PutValue(u"ValueA");
 cell11.PutValue(u"ValueB");
 
-//TIFF format is not supported
 // Save workbook to resultFile folder
 wkb.Save(u"created_one.tiff");
 

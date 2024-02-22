@@ -1,5 +1,5 @@
 ---
-title:  Suchen und ersetzen Sie Text im Dokument XLSB über C++
+title: Suchen und ersetzen Sie Text im Dokument XLSB über C++
 weight: 6660
 description: C++ Beispielcode zum Schwärzen vertraulicher Informationen in der Datei XLSB in der Laufzeitumgebung C++ für Windows 32 Bit, Windows 64 Bit und Linux 64 Bit.
 keywords: [C++ Aspose.Cells., C++ Search and replace text in XLSB file., C++ redact XLSB file., C++ edit XLSB file., C++ XLSB file redaction., C++ Search and replace string in XLSB file]
@@ -12,13 +12,7 @@ keywords: [C++ Aspose.Cells., C++ Search and replace text in XLSB file., C++ red
 
 {{% blocks/products/pf/agp/content h2="So schwärzen Sie die Datei XLSB mit C++" %}}
 
- Um die Datei XLSB zu redigieren, verwenden wir
- [Aspose.Cells for C++](https://products.aspose.com/cells/cpp) 
- API, eine funktionsreiche, leistungsstarke und benutzerfreundliche Plattform zur Dokumentbearbeitung. Sie können die neueste Version direkt herunterladen, indem Sie sie einfach öffnen
- [NuGet](https://www.nuget.org/packages/aspose.cells) 
- Paketmanager, suchen Sie nach
- **Aspose.Cells.Cpp** 
- und installieren. Sie können auch den folgenden Befehl über die Paket-Manager-Konsole verwenden.
+ Um die Datei XLSB zu redigieren, verwenden wir[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) API, eine funktionsreiche, leistungsstarke und benutzerfreundliche Plattform zur Dokumentbearbeitung. Sie können die neueste Version direkt herunterladen, indem Sie sie einfach öffnen[NuGet](https://www.nuget.org/packages/aspose.cells) Paketmanager, suchen Sie nach**Aspose.Cells.Cpp** und installieren. Sie können auch den folgenden Befehl über die Paket-Manager-Konsole verwenden.
 
 {{% blocks/products/pf/agp/code-block title="Befehl" offSpacer="true" %}}
 
@@ -38,15 +32,13 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% blocks/products/pf/agp/text %}}
 
- Eine einfache Dokumentsuche und das Ersetzen von Text in Inhalten, Kommentaren oder Metadaten mit
- [Aspose.Cells for C++](https://products.aspose.com/cells/cpp) 
- APIs können mit nur wenigen Codezeilen erstellt werden.
+ Eine einfache Dokumentsuche und das Ersetzen von Text in Inhalten, Kommentaren oder Metadaten mit[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) APIs können mit nur wenigen Codezeilen erstellt werden.
 
 {{% /blocks/products/pf/agp/text %}}
 
 + Datei XLSB laden.
 + Definieren Sie Ersetzungsoptionen.
-+ Legen Sie die Option zur Groß-/Kleinschreibung fest.
+Legen Sie die Option zur Groß-/Kleinschreibung fest.
 + Legen Sie die Option für die Textübereinstimmung fest
 + Ersetzen Sie Text mit der Methode „Replace(...)“.
 + Speichern Sie die Arbeitsmappe.
@@ -114,7 +106,7 @@ Aspose::Cells::Cleanup();
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Aspose API muss nicht heruntergeladen werden." >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Es ist nicht nötig, Code zu schreiben." >}}
         {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Laden Sie einfach Ihre XLSB-Dateien hoch." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-download" text="Es wird sofort geschwärzt." >}}
+        {{< blocks/products/pf/agp/democard icon="fa-download" text=" Es wird sofort geschwärzt." >}}
     {{< /blocks/products/pf/agp/demobox >}}
 
     {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLSB" readMoreLink="https://docs.fileformat.com/spreadsheet/xlsb/" >}}
@@ -131,6 +123,7 @@ Das Dateiformat XLSB gibt das Excel-Binärdateiformat an, eine Sammlung von Date
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/redaction/ods/" name="ODS" description="OpenDocument-Tabellenkalkulationsdatei" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/redaction/xls/" name="XLS" description="Excel-Binärformat" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/redaction/xlsm/" name="XLSM" description="Tabellenkalkulationsdatei" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/redaction/xlsx/" name="XLSX" description="OOXML-Excel-Datei" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

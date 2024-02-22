@@ -12,11 +12,11 @@ description: 通过 Node.js 库处理 Excel 文件格式。在 Windows、macOS �
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
- Aspose.Cells for Node.js via Java 是一个功能丰富且可扩展的 API，用于使用 Node.js 处理 Excel 电子表格。 API 提供 Excel 文件格式转换、最精细的工作表样式、图表创建和编辑。渲染、可靠的公式计算引擎等等。
+Aspose.Cells for Node.js via Java 是一个功能丰富且可扩展的 API，用于使用 Node.js 处理 Excel 电子表格。 API 提供 Excel 文件格式转换、最精细的工作表样式、图表创建和编辑。渲染、可靠的公式计算引擎等等。
 </p>
 
 <p>
-Aspose.Cells for Node.js via Java 支持最流行的电子表格格式，包括 XLS、XLSX、ODS、SpreadsheetML、CSV、TSC 和HTML。
+ Aspose.Cells for Node.js via Java 支持最流行的电子表格格式，包括 XLS、XLSX、ODS、SpreadsheetML、CSV、TSC 和HTML。
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
@@ -171,7 +171,7 @@ Node.js via Java
      <b>
 Microsoft Excel：
      </b>
- XLS、XLSX、XLSB、XLTX、XLTM、XLSM、XML
+ XLS、XLSX、XLSB、XLT、XLTX、XLTM、XLSM、XML、OTS
     </li>
     <li>
      <b>
@@ -183,13 +183,25 @@ Microsoft Excel：
      <b>
 文本：
      </b>
- CSV，制表符分隔，TXT
+     CSV, TSV, JSON
     </li>
     <li>
      <b>
 网址：
      </b>
      HTML, MHTML
+    </li>
+    <li>
+     <b>
+      Numbers:
+     </b>
+苹果iWork办公套件Numbers应用文档
+    </li>
+    <li>
+     <b>
+其他的：
+     </b>
+ SXC, FODS, EPUB
     </li>
    </ul>
   </div>
@@ -205,13 +217,25 @@ Microsoft Excel：
      <b>
 固定布局：
      </b>
-     PDF, XPS
+ PDF, PDF/A, XPS
     </li>
+    <li>
+     <b>
+数据交换：
+     </b>
+     DIF
+    </li>    
     <li>
      <b>
 图片：
      </b>
-     JPEG, PNG, BMP, SVG, TIFF, GIF, EMF
+     JPEG, PNG, BMP, SVG, TIFF, EMF, GIF
+    </li>
+    <li>
+     <b>
+其他的：
+     </b>
+ MARKDOWN，SQL，XTHML
     </li>
    </ul>
   </div>

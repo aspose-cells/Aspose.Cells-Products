@@ -1,5 +1,5 @@
 ---
-title: Python Excel 电子表格 API - Aspose
+title:  Python Excel 电子表格 API - Aspose
 weight: 2820
 description: Python 用于创建、修复、合并、解析和转换 Excel 文件的库。将excel转换为PDF、JSON、HTML、TXT和其他流行格式。
 keywords: [Python Aspose.Cells Create parse repair merge convert JSON Excel XML PDF HTML TSV SQL CSV TSV PNG JPEG and more formats]
@@ -13,7 +13,7 @@ keywords: [Python Aspose.Cells Create parse repair merge convert JSON Excel XML 
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
-Aspose.Cells for Python via Java 是一款快速可靠的 API，用于电子表格处理任务。开发人员可以创建简单或复杂的电子表格、操作 Excel 文件以及从 Excel 文件中提取信息。 API 读取多种 Excel 格式，并可以将工作表渲染为 XPS、PDF、MHTML、HTML、纯文本、图像等。它是使用 python 自动化 excel 报告的最佳解决方案。
+ Aspose.Cells for Python via Java 是一款快速可靠的 API，用于电子表格处理任务。开发人员可以创建简单或复杂的电子表格、操作 Excel 文件以及从 Excel 文件中提取信息。 API 读取多种 Excel 格式，并可以将工作表渲染为 XPS、PDF、MHTML、HTML、纯文本、图像等。它是使用 python 自动化 excel 报告的最佳解决方案。
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
@@ -159,7 +159,7 @@ Aspose.Cells for Python via Java 是一款快速可靠的 API，用于电子表�
      <b>
 Microsoft Excel：
      </b>
- XLS、XLSX、XLSB、XLTX、XLTM、XLSM、XML
+ XLS、XLSX、XLSB、XLT、XLTX、XLTM、XLSM、XML、OTS
     </li>
     <li>
      <b>
@@ -171,13 +171,25 @@ Microsoft Excel：
      <b>
 文本：
      </b>
-     CSV, TSV, TXT
+     CSV, TSV, JSON
     </li>
     <li>
      <b>
 网址：
      </b>
      HTML, MHTML
+    </li>
+    <li>
+     <b>
+      Numbers:
+     </b>
+苹果iWork办公套件Numbers应用文档
+    </li>
+    <li>
+     <b>
+其他的：
+     </b>
+ SXC, FODS, EPUB
     </li>
    </ul>
   </div>
@@ -197,9 +209,21 @@ Microsoft Excel：
     </li>
     <li>
      <b>
+数据交换：
+     </b>
+     DIF
+    </li>    
+    <li>
+     <b>
 图片：
      </b>
-     JPEG, PNG, BMP, SVG, EMF
+     JPEG, PNG, BMP, SVG, TIFF, EMF, GIF
+    </li>
+    <li>
+     <b>
+其他的：
+     </b>
+ MARKDOWN，SQL，XTHML
     </li>
    </ul>
   </div>
@@ -461,7 +485,7 @@ wkbk.save(SD_PATH + "houtput.html", SaveFormat.HTML);</code></pre>
 灵活的显示选项
     </h2>
     <p>
- Aspose.Cells for Python via Java 提供对页面设置的完全控制，允许操作多个显示选项，如预览分页符、设置缩放级别、设置页面方向、通过冻结窗格控制数据可见性、纸张大小、缩放、标题和标题。页脚和打印区域。
+ Aspose.Cells for Python via Java 提供对页面设置的完全控制，允许操作多个显示选项，例如预览分页符、设置缩放级别、设置页面方向、通过冻结窗格控制数据可见性、纸张大小、缩放、标题和标题。页脚和打印区域。
     </p>
    </div>
    <!--<div class="col-lg-12">
@@ -484,7 +508,7 @@ wkbk.save(SD_PATH + "houtput.html", SaveFormat.HTML);</code></pre>
  Excel 表格数据管理
     </h2>
     <p>
- Aspose.Cells for Python via Java API 为工作表数据管理提供广泛的支持。人们可以在运行时轻松地操作工作表中的任何单元格，或者将数据从各种数据源导入到工作表中。
+Aspose.Cells for Python via Java API 为工作表数据管理提供广泛的支持。人们可以在运行时轻松地操作工作表中的任何单元格，或者将数据从各种数据源导入到工作表中。
     </p>
    </div>
    <div class="col-lg-12">

@@ -12,13 +12,7 @@ keywords: [C# Aspose.Cells., c# Extract text and images from XLSB file., c# How 
 
 {{% blocks/products/pf/agp/content h2="Como analisar o arquivo XLSB usando C#" %}}
 
- Para analisar o arquivo XLSB, usaremos
- [Aspose.Cells for .NET](https://products.aspose.com/cells/net) 
- API, que é um API de manipulação de documentos rico em recursos, poderoso e fácil de usar para a plataforma C#. Abrir
- [NuGet](https://www.nuget.org/packages/aspose.cells) 
- gerenciador de pacotes, procure por
- **Aspose.Cells** 
- e instale. Você também pode usar o seguinte comando do Console do Gerenciador de Pacotes.
+ Para analisar o arquivo XLSB, usaremos[Aspose.Cells for .NET](https://products.aspose.com/cells/net) API, que é um API de manipulação de documentos rico em recursos, poderoso e fácil de usar para a plataforma C#. Abrir[NuGet](https://www.nuget.org/packages/aspose.cells) gerenciador de pacotes, procure por**Aspose.Cells** e instale. Você também pode usar o seguinte comando do Console do Gerenciador de Pacotes.
 
 {{% blocks/products/pf/agp/code-block title="Comando" offSpacer="true" %}}
 
@@ -38,9 +32,7 @@ PM> Install-Package Aspose.Cells
 
 {{% blocks/products/pf/agp/text %}}
 
- Uma análise básica de documentos com
- [Aspose.Cells for .NET](https://products.aspose.com/cells/net) 
- APIs podem ser feitas com apenas algumas linhas de código. Analise texto e imagens de arquivos Microsoft Excel XLS, XLSX, XLSM, XLSB e OpenDocument ODS.
+ Uma análise básica de documentos com[Aspose.Cells for .NET](https://products.aspose.com/cells/net)APIs podem ser feitas com apenas algumas linhas de código. Analise texto e imagens de arquivos Microsoft Excel XLS, XLSX, XLSM, XLSB e OpenDocument ODS.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -56,7 +48,7 @@ PM> Install-Package Aspose.Cells
 
 {{% blocks/products/pf/agp/text %}}
 
- Nossas APIs são suportadas em todas as principais plataformas e sistemas operacionais. Antes de executar o código abaixo, certifique-se de ter os seguintes pré-requisitos em seu sistema.
+Nossas APIs são suportadas em todas as principais plataformas e sistemas operacionais. Antes de executar o código abaixo, certifique-se de ter os seguintes pré-requisitos em seu sistema.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -115,7 +107,7 @@ PM> Install-Package Aspose.Cells
 
     {{< blocks/products/pf/agp/about-file-section >}}
 
-        {{< blocks/products/pf/agp/demobox sectionTitle="Demonstrações ao vivo do analisador on-line XLSB" sectionDescription=" Extraia texto e imagens de documentos XLSB agora mesmo visitando nosso[Site de demonstrações ao vivo](https://products.aspose.app/cells/parser). A demonstração ao vivo tem os seguintes benefícios" >}}
+        {{< blocks/products/pf/agp/demobox sectionTitle="Demonstrações ao vivo do analisador on-line XLSB" sectionDescription="Extraia texto e imagens de documentos XLSB agora mesmo visitando nosso[Site de demonstrações ao vivo](https://products.aspose.app/cells/parser). A demonstração ao vivo tem os seguintes benefícios" >}}
             {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Não há necessidade de baixar Aspose API." >}}
             {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Não há necessidade de escrever nenhum código." >}}
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Basta enviar seus arquivos XLSB." >}}
@@ -135,6 +127,7 @@ PM> Install-Package Aspose.Cells
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/parser/ods/" name="ODS" description="Arquivo de planilha OpenDocument" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/parser/xls/" name="XLS" description="Formato binário do Excel" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/parser/xlsm/" name="XLSM" description="Arquivo de planilha" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/parser/xlsx/" name="XLSX" description="Arquivo Excel OOXML" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

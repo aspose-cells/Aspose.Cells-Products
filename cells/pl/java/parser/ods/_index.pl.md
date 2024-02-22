@@ -12,11 +12,7 @@ keywords: [Java Aspose.Cells., Java Extract text and images from ODS file., Java
 
 {{% blocks/products/pf/agp/content h2="Jak przeanalizować plik ODS przy użyciu Java" %}}
 
- Aby przeanalizować plik ODS, użyjemy
- [Aspose.Cells for Java](https://products.aspose.com/cells/java) 
- API, która jest bogatą w funkcje, wydajną i łatwą w użyciu platformą analizującą API for Java. Możesz pobrać jego najnowszą wersję bezpośrednio ze strony
- [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) 
- i zainstaluj go w projekcie opartym na Maven, dodając następujące konfiguracje do pliku pom.xml.
+ Aby przeanalizować plik ODS, użyjemy[Aspose.Cells for Java](https://products.aspose.com/cells/java) API, która jest bogatą w funkcje, wydajną i łatwą w użyciu platformą analizującą API for Java. Możesz pobrać jego najnowszą wersję bezpośrednio ze strony[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) i zainstaluj go w projekcie opartym na Maven, dodając następujące konfiguracje do pliku pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Magazyn" offSpacer="true" %}}
 
@@ -54,9 +50,7 @@ keywords: [Java Aspose.Cells., Java Extract text and images from ODS file., Java
 
 {{% blocks/products/pf/agp/text %}}
 
- Podstawowa analiza dokumentów za pomocą
- [Aspose.Cells for Java](https://products.aspose.com/cells/java) 
- Interfejsy API można wykonać za pomocą zaledwie kilku linii kodu. Analizuj tekst i obrazy z plików Microsoft Excel XLS, XLSX, XLSM, XLSB i OpenDocument ODS.
+ Podstawowa analiza dokumentów za pomocą[Aspose.Cells for Java](https://products.aspose.com/cells/java)Interfejsy API można wykonać za pomocą zaledwie kilku linii kodu. Analizuj tekst i obrazy z plików Microsoft Excel XLS, XLSX, XLSM, XLSB i OpenDocument ODS.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -76,7 +70,7 @@ keywords: [Java Aspose.Cells., Java Extract text and images from ODS file., Java
 
 {{% /blocks/products/pf/agp/text %}}
 
--  Microsoft Windows lub zgodny system operacyjny ze środowiskiem wykonawczym Java dla aplikacji JSP/JSF i aplikacji komputerowych.
+- Microsoft Windows lub zgodny system operacyjny ze środowiskiem wykonawczym Java dla aplikacji JSP/JSF i aplikacji komputerowych.
 -  Pobierz najnowszą wersję Aspose.Cells for Java bezpośrednio z
  [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells)  .
 
@@ -121,7 +115,7 @@ System.out.println(stringBuilder.toString());
 
 {{< blocks/products/pf/agp/about-file-section >}}
 
-    {{< blocks/products/pf/agp/demobox sectionTitle="Demo online ODS Parsera na żywo" sectionDescription=" Wyodrębnij tekst i obrazy z dokumentów ODS, odwiedzając naszą stronę[Witryna internetowa z prezentacjami na żywo](https://products.aspose.app/cells/parser). Demo na żywo ma następujące zalety" >}}
+    {{< blocks/products/pf/agp/demobox sectionTitle="Demo online ODS Parsera na żywo" sectionDescription="Wyodrębnij tekst i obrazy z dokumentów ODS, odwiedzając naszą stronę[Witryna internetowa z prezentacjami na żywo](https://products.aspose.app/cells/parser). Demo na żywo ma następujące zalety" >}}
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Nie ma potrzeby pobierania Aspose API." >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Nie trzeba pisać żadnego kodu." >}}
         {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Po prostu prześlij swoje pliki ODS." >}}
@@ -129,7 +123,7 @@ System.out.println(stringBuilder.toString());
     {{< /blocks/products/pf/agp/demobox >}}
 
     {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="ODS" readMoreLink="https://docs.fileformat.com/spreadsheet/ods/" >}}
-Pliki z rozszerzeniem ODS dla formatu dokumentu arkusza kalkulacyjnego OpenDocument, które mogą być edytowane przez użytkownika. Dane są przechowywane w pliku ODF w wierszach i kolumnach. Jest to format oparty na języku XML i jest jednym z kilku podtypów rodziny formatów dokumentów otwartych (ODF). Format jest określony jako część specyfikacji ODF 1.2 opublikowanej i utrzymywanej przez firmę OASIS. Wiele aplikacji na Windows, a także na innych systemach operacyjnych może otwierać pliki ODS do edycji i manipulacji, w tym Microsoft Excel, NeoOffice i LibreOffice. Pliki ODS można również konwertować na inne formaty arkuszy kalkulacyjnych, takie jak XLS, XLSX i inne, za pomocą różnych aplikacji.
+ Pliki z rozszerzeniem ODS dla formatu dokumentu arkusza kalkulacyjnego OpenDocument, które mogą być edytowane przez użytkownika. Dane są przechowywane w pliku ODF w wierszach i kolumnach. Jest to format oparty na języku XML i jest jednym z kilku podtypów rodziny formatów dokumentów otwartych (ODF). Format jest określony jako część specyfikacji ODF 1.2 opublikowanej i utrzymywanej przez firmę OASIS. Wiele aplikacji na Windows, a także na innych systemach operacyjnych, może otwierać pliki ODS do edycji i manipulacji, w tym Microsoft Excel, NeoOffice i LibreOffice. Pliki ODS można również konwertować na inne formaty arkuszy kalkulacyjnych, takie jak XLS, XLSX i inne, za pomocą różnych aplikacji.
 
     {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
@@ -142,6 +136,7 @@ Pliki z rozszerzeniem ODS dla formatu dokumentu arkusza kalkulacyjnego OpenDocum
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/parser/xls/" name="XLS" description="Format binarny Excela" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/parser/xlsb/" name="XLSB" description="Binarny plik skoroszytu programu Excel" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/parser/xlsm/" name="XLSM" description="Plik arkusza kalkulacyjnego" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/parser/xlsx/" name="XLSX" description="Plik Excela OOXML" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

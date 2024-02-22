@@ -1,5 +1,5 @@
 ---
-title:  Tìm kiếm và thay thế văn bản trong văn bản ODS qua C++
+title: Tìm kiếm và thay thế văn bản trong văn bản ODS qua C++
 weight: 1610
 description: Mã ví dụ C++ để loại bỏ thông tin nhạy cảm trong tệp ODS trên C++ Môi trường thời gian chạy cho Windows 32 bit, Windows 64 bit và Linux 64 bit.
 keywords: [C++ Aspose.Cells., C++ Search and replace text in ODS file., C++ redact ODS file., C++ edit ODS file., C++ ODS file redaction., C++ Search and replace string in ODS file]
@@ -12,13 +12,7 @@ keywords: [C++ Aspose.Cells., C++ Search and replace text in ODS file., C++ reda
 
 {{% blocks/products/pf/agp/content h2="Cách biên tập lại tệp ODS bằng C++" %}}
 
- Để biên tập lại tệp ODS, chúng tôi sẽ sử dụng
- [Aspose.Cells for C++](https://products.aspose.com/cells/cpp) 
- API là nền tảng soạn thảo tài liệu giàu tính năng, mạnh mẽ và dễ sử dụng API for C++. Bạn có thể tải trực tiếp phiên bản mới nhất của nó, chỉ cần mở
- [NuGet](https://www.nuget.org/packages/aspose.cells) 
- quản lý gói, tìm kiếm
- **Aspose.Cells.Cpp** 
- và cài đặt. Bạn cũng có thể sử dụng lệnh sau từ Bảng điều khiển quản lý gói.
+ Để biên tập lại tệp ODS, chúng tôi sẽ sử dụng[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) API là nền tảng soạn thảo tài liệu giàu tính năng, mạnh mẽ và dễ sử dụng API for C++. Bạn có thể tải trực tiếp phiên bản mới nhất của nó, chỉ cần mở[NuGet](https://www.nuget.org/packages/aspose.cells) quản lý gói, tìm kiếm**Aspose.Cells.Cpp** và cài đặt. Bạn cũng có thể sử dụng lệnh sau từ Bảng điều khiển quản lý gói.
 
 {{% blocks/products/pf/agp/code-block title="Yêu cầu" offSpacer="true" %}}
 
@@ -38,15 +32,13 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% blocks/products/pf/agp/text %}}
 
- Tìm kiếm tài liệu cơ bản và thay thế văn bản trong nội dung, nhận xét hoặc siêu dữ liệu bằng
- [Aspose.Cells for C++](https://products.aspose.com/cells/cpp) 
- API có thể được thực hiện chỉ với vài dòng mã.
+ Tìm kiếm tài liệu cơ bản và thay thế văn bản trong nội dung, nhận xét hoặc siêu dữ liệu bằng[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) API có thể được thực hiện chỉ với vài dòng mã.
 
 {{% /blocks/products/pf/agp/text %}}
 
 + Nạp file ODS.
 + Xác định các tùy chọn thay thế.
-+ Đặt tùy chọn phân biệt chữ hoa chữ thường.
+Đặt tùy chọn phân biệt chữ hoa chữ thường.
 + Đặt tùy chọn khớp văn bản
 + Thay thế văn bản bằng phương thức Thay thế (...)
 + Lưu sổ làm việc.
@@ -114,11 +106,11 @@ Aspose::Cells::Cleanup();
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Không cần tải Aspose API." >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Không cần phải viết bất kỳ mã nào." >}}
         {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Chỉ cần tải lên tệp ODS của bạn." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-download" text="Nó sẽ được biên tập lại ngay lập tức." >}}
+        {{< blocks/products/pf/agp/democard icon="fa-download" text=" Nó sẽ được biên tập lại ngay lập tức." >}}
     {{< /blocks/products/pf/agp/demobox >}}
 
     {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="ODS" readMoreLink="https://docs.fileformat.com/spreadsheet/ods/" >}}
-Các tệp có phần mở rộng ODS là viết tắt của định dạng Tài liệu Bảng tính OpenDocument mà người dùng có thể chỉnh sửa. Dữ liệu được lưu trữ bên trong tệp ODF thành hàng và cột. Đây là định dạng dựa trên XML và là một trong một số kiểu con trong họ Định dạng Tài liệu Mở (ODF). Định dạng được chỉ định như một phần của thông số kỹ thuật ODF 1.2 do OASIS xuất bản và duy trì. Một số ứng dụng trên Windows cũng như các hệ điều hành khác có thể mở file ODS để chỉnh sửa và thao tác bao gồm Microsoft Excel, NeoOffice và LibreOffice. Các tệp ODS cũng có thể được chuyển đổi sang các định dạng bảng tính khác như XLS, XLSX và các định dạng khác bằng các ứng dụng khác nhau.
+ Các tệp có phần mở rộng ODS là viết tắt của định dạng Tài liệu Bảng tính OpenDocument mà người dùng có thể chỉnh sửa. Dữ liệu được lưu trữ bên trong tệp ODF thành hàng và cột. Đây là định dạng dựa trên XML và là một trong một số kiểu con trong họ Định dạng Tài liệu Mở (ODF). Định dạng được chỉ định như một phần của thông số kỹ thuật ODF 1.2 do OASIS xuất bản và duy trì. Một số ứng dụng trên Windows cũng như các hệ điều hành khác có thể mở file ODS để chỉnh sửa và thao tác bao gồm Microsoft Excel, NeoOffice và LibreOffice. Các tệp ODS cũng có thể được chuyển đổi sang các định dạng bảng tính khác, chẳng hạn như XLS, XLSX và các định dạng khác bằng các ứng dụng khác nhau.
 
     {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
@@ -131,6 +123,7 @@ Các tệp có phần mở rộng ODS là viết tắt của định dạng Tài
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/redaction/xls/" name="XLS" description="Định dạng nhị phân Excel" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/redaction/xlsb/" name="XLSB" description="Tệp sổ làm việc Excel nhị phân" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/redaction/xlsm/" name="XLSM" description="Tệp bảng tính" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/redaction/xlsx/" name="XLSX" description="Tệp Excel OOXML" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

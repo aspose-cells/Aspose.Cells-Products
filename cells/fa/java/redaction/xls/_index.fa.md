@@ -12,11 +12,7 @@ keywords: [Java Aspose.Cells., Java Search and replace text in XLS file., Java r
 
 {{% blocks/products/pf/agp/content h2="نحوه ویرایش فایل XLS با استفاده از Java" %}}
 
- به منظور ویرایش فایل XLS، ما از
- [Aspose.Cells for Java](https://products.aspose.com/cells/java) 
-API که یک پلتفرم ویرایش API for Java با ویژگی های غنی، قدرتمند و آسان برای استفاده است. آخرین نسخه آن را می توانید مستقیماً از اینجا دانلود کنید
- [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) 
- و با افزودن تنظیمات زیر به pom.xml آن را در پروژه مبتنی بر Maven خود نصب کنید.
+ به منظور ویرایش فایل XLS، ما از[Aspose.Cells for Java](https://products.aspose.com/cells/java) API که یک پلتفرم ویرایش API for Java با ویژگی های غنی، قدرتمند و آسان برای استفاده است. آخرین نسخه آن را می توانید مستقیماً از اینجا دانلود کنید[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) و با افزودن تنظیمات زیر به pom.xml آن را در پروژه مبتنی بر Maven خود نصب کنید.
 
 {{% blocks/products/pf/agp/code-block title="مخزن" offSpacer="true" %}}
 
@@ -54,9 +50,7 @@ API که یک پلتفرم ویرایش API for Java با ویژگی های غن
 
 {{% blocks/products/pf/agp/text %}}
 
- یک سند اساسی جستجو کنید و متن را در محتوا، نظرات یا ابرداده جایگزین کنید
- [Aspose.Cells for Java](https://products.aspose.com/cells/java) 
- API ها را می توان تنها با چند خط کد انجام داد.
+ یک سند اساسی جستجو کنید و متن را در محتوا، نظرات یا ابرداده جایگزین کنید[Aspose.Cells for Java](https://products.aspose.com/cells/java) API ها را می توان تنها با چند خط کد انجام داد.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -78,7 +72,7 @@ API که یک پلتفرم ویرایش API for Java با ویژگی های غن
 
 {{% /blocks/products/pf/agp/text %}}
 
--  Microsoft Windows یا یک سیستم عامل سازگار با Java Runtime Environment برای برنامه های کاربردی JSP/JSF و برنامه های دسکتاپ.
+- Microsoft Windows یا یک سیستم عامل سازگار با Java Runtime Environment برای برنامه های کاربردی JSP/JSF و برنامه های دسکتاپ.
 -  آخرین نسخه Aspose.Cells for Java را مستقیماً از
  [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells)  .
 
@@ -144,7 +138,7 @@ workbook.save(dataDir + "output.xls");
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" بدون نیاز به دانلود Aspose API." >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" نیازی به نوشتن هیچ کدی نیست." >}}
         {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" فقط فایل های XLS خود را آپلود کنید." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-download" text="فورا ویرایش خواهد شد." >}}
+        {{< blocks/products/pf/agp/democard icon="fa-download" text=" فورا ویرایش خواهد شد." >}}
     {{< /blocks/products/pf/agp/demobox >}}
 
     {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLS" readMoreLink="https://docs.fileformat.com/spreadsheet/xls/" >}}
@@ -161,6 +155,7 @@ workbook.save(dataDir + "output.xls");
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/redaction/ods/" name="ODS" description="فایل صفحه گسترده OpenDocument" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/redaction/xlsb/" name="XLSB" description="فایل باینری کتاب کار اکسل" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/redaction/xlsm/" name="XLSM" description="فایل صفحه گسترده" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/redaction/xlsx/" name="XLSX" description="فایل OOXML اکسل" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

@@ -12,11 +12,7 @@ keywords: [Java Aspose.Cells., Java Extract text and images from ODS file., Java
 
 {{% blocks/products/pf/agp/content h2="วิธีแยกวิเคราะห์ไฟล์ ODS โดยใช้ Java" %}}
 
- เพื่อที่จะแยกวิเคราะห์ไฟล์ ODS เราจะใช้
- [Aspose.Cells for Java](https://products.aspose.com/cells/java) 
- API ซึ่งเป็นแพลตฟอร์มการแยกวิเคราะห์ API for Java ที่มีคุณสมบัติหลากหลาย ทรงพลัง และใช้งานง่าย คุณสามารถดาวน์โหลดเวอร์ชันล่าสุดได้โดยตรงจาก
- [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) 
- และติดตั้งภายในโปรเจ็กต์ที่ใช้ Maven ของคุณโดยเพิ่มการกำหนดค่าต่อไปนี้ใน pom.xml
+ เพื่อที่จะแยกวิเคราะห์ไฟล์ ODS เราจะใช้[Aspose.Cells for Java](https://products.aspose.com/cells/java) API ซึ่งเป็นแพลตฟอร์มการแยกวิเคราะห์ API for Java ที่มีคุณสมบัติหลากหลาย ทรงพลัง และใช้งานง่าย คุณสามารถดาวน์โหลดเวอร์ชันล่าสุดได้โดยตรงจาก[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) และติดตั้งภายในโปรเจ็กต์ที่ใช้ Maven ของคุณโดยเพิ่มการกำหนดค่าต่อไปนี้ใน pom.xml
 
 {{% blocks/products/pf/agp/code-block title="พื้นที่เก็บข้อมูล" offSpacer="true" %}}
 
@@ -54,9 +50,7 @@ keywords: [Java Aspose.Cells., Java Extract text and images from ODS file., Java
 
 {{% blocks/products/pf/agp/text %}}
 
- เอกสารพื้นฐานแยกวิเคราะห์ด้วย
- [Aspose.Cells for Java](https://products.aspose.com/cells/java) 
- API สามารถทำได้โดยใช้โค้ดเพียงไม่กี่บรรทัด แยกวิเคราะห์ข้อความและรูปภาพจากไฟล์ Microsoft Excel XLS, XLSX, XLSM, XLSB และ OpenDocument ODS
+ เอกสารพื้นฐานแยกวิเคราะห์ด้วย[Aspose.Cells for Java](https://products.aspose.com/cells/java)API สามารถทำได้โดยใช้โค้ดเพียงไม่กี่บรรทัด แยกวิเคราะห์ข้อความและรูปภาพจากไฟล์ Microsoft Excel XLS, XLSX, XLSM, XLSB และ OpenDocument ODS
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -76,7 +70,7 @@ keywords: [Java Aspose.Cells., Java Extract text and images from ODS file., Java
 
 {{% /blocks/products/pf/agp/text %}}
 
--  Microsoft Windows หรือระบบปฏิบัติการที่เข้ากันได้กับ Java Runtime Environment สำหรับแอปพลิเคชัน JSP/JSF และแอปพลิเคชันเดสก์ท็อป
+- Microsoft Windows หรือระบบปฏิบัติการที่เข้ากันได้กับ Java Runtime Environment สำหรับแอปพลิเคชัน JSP/JSF และแอปพลิเคชันเดสก์ท็อป
 -  รับเวอร์ชั่นล่าสุด Aspose.Cells for Java ส่งตรงจาก
  [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells)  .
 
@@ -121,7 +115,7 @@ System.out.println(stringBuilder.toString());
 
 {{< blocks/products/pf/agp/about-file-section >}}
 
-    {{< blocks/products/pf/agp/demobox sectionTitle="ออนไลน์ ODS Parser สาธิตสด" sectionDescription=" แยกข้อความและรูปภาพจากเอกสาร ODS ได้เลยโดยเข้าไปที่[เว็บไซต์สาธิตสด](https://products.aspose.app/cells/parser). การสาธิตสดมีข้อดีดังต่อไปนี้" >}}
+    {{< blocks/products/pf/agp/demobox sectionTitle="ออนไลน์ ODS Parser สาธิตสด" sectionDescription="แยกข้อความและรูปภาพจากเอกสาร ODS ได้เลยโดยเข้าไปที่[เว็บไซต์สาธิตสด](https://products.aspose.app/cells/parser). การสาธิตสดมีข้อดีดังต่อไปนี้" >}}
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" ไม่ต้องดาวน์ Aspose API." >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" ไม่จำเป็นต้องเขียนโค้ดใดๆ" >}}
         {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" เพียงอัพโหลดไฟล์ ODS ของคุณ" >}}
@@ -129,7 +123,7 @@ System.out.println(stringBuilder.toString());
     {{< /blocks/products/pf/agp/demobox >}}
 
     {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="ODS" readMoreLink="https://docs.fileformat.com/spreadsheet/ods/" >}}
-ไฟล์ที่มีนามสกุล ODS ย่อมาจากรูปแบบเอกสาร OpenDocument Spreadsheet ที่ผู้ใช้สามารถแก้ไขได้ ข้อมูลจะถูกเก็บไว้ในไฟล์ ODF เป็นแถวและคอลัมน์ มันเป็นรูปแบบที่ใช้ XML และเป็นหนึ่งในประเภทย่อยหลายประเภทในตระกูล Open Document Formats (ODF) รูปแบบนี้ระบุเป็นส่วนหนึ่งของข้อกำหนด ODF 1.2 ที่เผยแพร่และดูแลโดย OASIS แอปพลิเคชั่นจำนวนหนึ่งบน Windows รวมถึงระบบปฏิบัติการอื่นสามารถเปิดไฟล์ ODS เพื่อแก้ไขและจัดการรวมถึง Microsoft Excel, NeoOffice และ LibreOffice ไฟล์ ODS ยังสามารถแปลงเป็นรูปแบบสเปรดชีตอื่นๆ ได้ เช่นเดียวกับ XLS, XLSX และอื่นๆ โดยใช้แอปพลิเคชันต่างๆ
+ ไฟล์ที่มีนามสกุล ODS ย่อมาจากรูปแบบเอกสาร OpenDocument Spreadsheet ที่ผู้ใช้สามารถแก้ไขได้ ข้อมูลจะถูกเก็บไว้ในไฟล์ ODF เป็นแถวและคอลัมน์ มันเป็นรูปแบบที่ใช้ XML และเป็นหนึ่งในประเภทย่อยหลายประเภทในตระกูล Open Document Formats (ODF) รูปแบบนี้ระบุเป็นส่วนหนึ่งของข้อกำหนด ODF 1.2 ที่เผยแพร่และดูแลโดย OASIS แอปพลิเคชั่นจำนวนหนึ่งบน Windows รวมถึงระบบปฏิบัติการอื่นสามารถเปิดไฟล์ ODS เพื่อแก้ไขและจัดการรวมถึง Microsoft Excel, NeoOffice และ LibreOffice ไฟล์ ODS ยังสามารถแปลงเป็นรูปแบบสเปรดชีตอื่นๆ ได้ เช่นเดียวกับ XLS, XLSX และอื่นๆ โดยใช้แอปพลิเคชันต่างๆ
 
     {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
@@ -142,6 +136,7 @@ System.out.println(stringBuilder.toString());
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/parser/xls/" name="XLS" description="รูปแบบไบนารีของ Excel" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/parser/xlsb/" name="XLSB" description="ไฟล์สมุดงาน Excel ไบนารี" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/parser/xlsm/" name="XLSM" description="ไฟล์สเปรดชีต" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/parser/xlsx/" name="XLSX" description="ไฟล์ OOXML Excel" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

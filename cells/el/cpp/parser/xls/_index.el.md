@@ -1,5 +1,5 @@
 ---
-title:  Εξαγωγή κειμένου και εικόνων από το έγγραφο XLS μέσω του C++
+title: Εξαγωγή κειμένου και εικόνων από το έγγραφο XLS μέσω του C++
 weight: 7610
 description: C++ παράδειγμα κώδικα για εξαγωγή κειμένου και εικόνων από το αρχείο XLS στο C++ Runtime Environment για Windows 32 bit, Windows 64 bit και Linux 64 bit.
 keywords: [C++ Aspose.Cells., C++ Extract text and images from XLS file., C++ How to Parse XLS File., C++ Extract text from XLS file., Extract images from XLS file using C++]
@@ -12,13 +12,7 @@ keywords: [C++ Aspose.Cells., C++ Extract text and images from XLS file., C++ Ho
 
 {{% blocks/products/pf/agp/content h2="Πώς να αναλύσετε το αρχείο XLS χρησιμοποιώντας το C++" %}}
 
- Για να αναλύσουμε το αρχείο XLS, θα χρησιμοποιήσουμε
- [Aspose.Cells for C++](https://products.aspose.com/cells/cpp) 
- API το οποίο είναι μια πλούσια σε χαρακτηριστικά, ισχυρή και εύκολη στη χρήση πλατφόρμα ανάλυσης εγγράφων API for C++. Μπορείτε να κατεβάσετε την τελευταία του έκδοση απευθείας, απλά ανοίξτε
- [NuGet](https://www.nuget.org/packages/aspose.cells) 
- διαχειριστής πακέτων, αναζητήστε
- **Aspose.Cells.Cpp** 
- και εγκαταστήστε. Μπορείτε επίσης να χρησιμοποιήσετε την ακόλουθη εντολή από την Κονσόλα Package Manager.
+ Για να αναλύσουμε το αρχείο XLS, θα χρησιμοποιήσουμε[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) API το οποίο είναι μια πλούσια σε χαρακτηριστικά, ισχυρή και εύκολη στη χρήση πλατφόρμα ανάλυσης εγγράφων API for C++. Μπορείτε να κατεβάσετε την τελευταία του έκδοση απευθείας, απλά ανοίξτε[NuGet](https://www.nuget.org/packages/aspose.cells) διαχειριστής πακέτων, αναζητήστε**Aspose.Cells.Cpp** και εγκαταστήστε. Μπορείτε επίσης να χρησιμοποιήσετε την ακόλουθη εντολή από την Κονσόλα Package Manager.
 
 {{% blocks/products/pf/agp/code-block title="Εντολή" offSpacer="true" %}}
 
@@ -40,7 +34,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
  Ένα βασικό έγγραφο ανάλυσης με
  [Aspose.Cells for C++](https://products.aspose.com/cells/cpp) 
- Τα API μπορούν να γίνουν με λίγες μόνο γραμμές κώδικα. Ανάλυση κειμένου και εικόνων από Microsoft Excel XLS, XLSX, XLSM, XLSB και OpenDocument ODS.
+Τα API μπορούν να γίνουν με λίγες μόνο γραμμές κώδικα. Ανάλυση κειμένου και εικόνων από Microsoft Excel XLS, XLSX, XLSM, XLSB και OpenDocument ODS.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -108,7 +102,7 @@ Aspose::Cells::Cleanup();
 
 {{< blocks/products/pf/agp/about-file-section >}}
 
-    {{< blocks/products/pf/agp/demobox sectionTitle="Online XLS Parser Live Demos" sectionDescription=" Εξάγετε κείμενο και εικόνες από έγγραφα XLS τώρα, επισκεπτόμενοι το δικό μας[Ζωντανή ιστοσελίδα Demos](https://products.aspose.app/cells/parser). Η ζωντανή επίδειξη έχει τα ακόλουθα πλεονεκτήματα" >}}
+    {{< blocks/products/pf/agp/demobox sectionTitle="Online XLS Parser Live Demos" sectionDescription="Εξάγετε κείμενο και εικόνες από έγγραφα XLS τώρα, επισκεπτόμενοι το δικό μας[Ζωντανή ιστοσελίδα Demos](https://products.aspose.app/cells/parser). Η ζωντανή επίδειξη έχει τα ακόλουθα πλεονεκτήματα" >}}
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Δεν χρειάζεται να κατεβάσετε το Aspose API." >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Δεν χρειάζεται να γράψετε κανέναν κώδικα." >}}
         {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Απλώς ανεβάστε τα XLS αρχεία σας." >}}
@@ -129,6 +123,7 @@ Aspose::Cells::Cleanup();
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/parser/ods/" name="ODS" description="Αρχείο Υπολογιστικού Φύλλου OpenDocument" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/parser/xlsb/" name="XLSB" description="Δυαδικό αρχείο βιβλίου εργασίας Excel" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/parser/xlsm/" name="XLSM" description="Αρχείο υπολογιστικού φύλλου" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/parser/xlsx/" name="XLSX" description="Αρχείο Excel OOXML" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

@@ -37,9 +37,9 @@ PM> Install-Package Aspose.Cells.Cpp
 1.  Workbookクラスのオブジェクトを作成します。
 1. 最初のシートを Worksheet オブジェクトに取得します。
 1.  Worksheet.GetCells() メソッドを使用して、ワークシートのセルを Cells オブジェクトに取得します。
-1. Cells.Get() メソッドを使用して、ワークシートの目的のセルにアクセスして Cell オブジェクトにアクセスします。
+1.  Cells.Get() メソッドを使用して、ワークシートの目的のセルにアクセスして Cell オブジェクトにアクセスします。
 1.  Cell.PutValue() メソッドを使用してセルに値を入力します。
-1. Save() メソッドを使用して、ワークブックを .tiff ファイルとして保存します。
+1.  Save() メソッドを使用して、ワークブックを .tiff ファイルとして保存します。
 
 {{% blocks/products/pf/agp/code-block title="サンプルコードは、C++にTIFFファイルを作成する方法を示しています。" offSpacer="" %}}
 
@@ -70,7 +70,6 @@ cell01.PutValue(u"ColumnB");
 cell10.PutValue(u"ValueA");
 cell11.PutValue(u"ValueB");
 
-//TIFF format is not supported
 // Save workbook to resultFile folder
 wkb.Save(u"created_one.tiff");
 

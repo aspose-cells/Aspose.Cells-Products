@@ -12,11 +12,11 @@ description: Az Excel fájlformátumok feldolgozása a Node.js könyvtáron kere
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
- A Aspose.Cells for Node.js via Java funkciókban gazdag és méretezhető API Excel-táblázatok Node.js használatával történő feldolgozásához. A API Excel fájlformátum-konverziót, munkalapok stílusát a legrészletesebb szintre, diagramkészítést és diagramkészítést kínál; renderelés, megbízható képletszámító motor és még sok más.
+ Aspose.Cells for Node.js via Java funkciókban gazdag és méretezhető API Excel-táblázatok Node.js használatával történő feldolgozásához. A API Excel fájlformátum-konverziót, munkalapok stílusát a legrészletesebb szintre, diagramkészítést és diagramkészítést kínál; renderelés, megbízható képletszámító motor és még sok más.
 </p>
 
 <p>
-Aspose.Cells for Node.js via Java támogatja a legtöbb népszerű táblázatformátumot, beleértve a XLS, XLSX, ODS, SpreadsheetML, CSV, TSC & TSC HTML.
+ Aspose.Cells for Node.js via Java támogatja a legtöbb népszerű táblázatformátumot, beleértve a XLS, XLSX, ODS, SpreadsheetML, CSV, TSC & TSC HTML.
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
@@ -171,7 +171,7 @@ Aspose.Cells for Node.js via Java támogatja a legtöbb népszerű táblázatfor
      <b>
  Microsoft Excel:
      </b>
- XLS, XLSX, XLSB, XLTX, XLTM, XLSM, XML
+ XLS, XLSX, XLSB, XLT, XLTX, XLTM, XLSM, XML, OTS
     </li>
     <li>
      <b>
@@ -183,13 +183,25 @@ Aspose.Cells for Node.js via Java támogatja a legtöbb népszerű táblázatfor
      <b>
  Szöveg:
      </b>
- CSV, Tabulátorral tagolt, TXT
+     CSV, TSV, JSON
     </li>
     <li>
      <b>
  Web:
      </b>
      HTML, MHTML
+    </li>
+    <li>
+     <b>
+      Numbers:
+     </b>
+ Az Apple iWork irodai csomagja Numbers alkalmazásdokumentumok
+    </li>
+    <li>
+     <b>
+ Egyéb:
+     </b>
+ SXC, FODS, EPUB
     </li>
    </ul>
   </div>
@@ -198,20 +210,32 @@ Aspose.Cells for Node.js via Java támogatja a legtöbb népszerű táblázatfor
    <header>
     <i class="fa fa-mail-forward">
     </i>
- Csak kimenet
+Csak kimenet
    </header>
    <ul>
     <li>
      <b>
  Rögzített elrendezés:
      </b>
-     PDF, XPS
+ PDF, PDF/A, XPS
     </li>
+    <li>
+     <b>
+ Adatcsere:
+     </b>
+     DIF
+    </li>    
     <li>
      <b>
  Képek:
      </b>
-     JPEG, PNG, BMP, SVG, TIFF, GIF, EMF
+     JPEG, PNG, BMP, SVG, TIFF, EMF, GIF
+    </li>
+    <li>
+     <b>
+ Egyéb:
+     </b>
+ MARKDOWN, SQL, XTHML
     </li>
    </ul>
   </div>
@@ -269,7 +293,7 @@ Aspose.Cells for Node.js via Java támogatja a legtöbb népszerű táblázatfor
     <em class="fa fa-commenting ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-Létrehozás &amp; megjegyzések manipulálása &amp; hiperhivatkozások
+ Létrehozása &amp; megjegyzések manipulálása &amp; hiperhivatkozások
     </p>
    </div>
    <div class="col-lg-4">
@@ -290,7 +314,7 @@ Létrehozás &amp; megjegyzések manipulálása &amp; hiperhivatkozások
     <em class="fa fa-sort-amount-desc ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Létrehozás &amp; manipulálni a megnevezett tartományokat
+ Létrehozása &amp; manipulálni a megnevezett tartományokat
     </p>
    </div>
    <div class="col-lg-4">
@@ -319,7 +343,7 @@ Létrehozás &amp; megjegyzések manipulálása &amp; hiperhivatkozások
  Excel-táblázatok renderelése
     </h2>
     <p>
- Aspose.Cells for Node.js via Java a renderelő motorját használja a Microsoft Excelbe való rendereléshez a lehető legnagyobb pontossággal. A Node.js Excel Processing könyvtár használata közben teljes lapokat, egyedi fájlokat vagy diagramokat konvertálhat több képpé és rögzített elrendezésű formátummá.
+Aspose.Cells for Node.js via Java a renderelő motorját használja a Microsoft Excelbe való rendereléshez a lehető legnagyobb pontossággal. A Node.js Excel Processing könyvtár használata közben teljes lapokat, egyedi fájlokat vagy diagramokat konvertálhat több képpé és rögzített elrendezésű formátummá.
     </p>
    </div>
    <div class="col-lg-12">
@@ -327,7 +351,7 @@ Létrehozás &amp; megjegyzések manipulálása &amp; hiperhivatkozások
  Rugalmas megjelenítési lehetőségek
     </h2>
     <p>
-Aspose.Cells for Node.js via Java teljes körű ellenőrzést biztosít a munkalap oldalbeállításai felett, módosítható a munkalap megjelenítési beállításai, például az oldal tájolása, törések, méret, méretezés, fejlécek, láblécek és nagyítási szint. Ezenkívül a fejlesztők a nyomtatási terület és a kimerevítő ablaktáblák segítségével szabályozhatják az adatok láthatóságát az alkalmazás specifikációinak megfelelően.
+ Aspose.Cells for Node.js via Java teljes körű ellenőrzést biztosít a munkalap oldalbeállításai felett, módosítható a munkalap megjelenítési beállításai, például az oldal tájolása, törések, méret, méretezés, fejlécek, láblécek és nagyítási szint. Ezenkívül a fejlesztők a nyomtatási terület és a kimerevítő ablaktáblák segítségével szabályozhatják az adatok láthatóságát az alkalmazás specifikációinak megfelelően.
     </p>
    </div>
    <div class="col-lg-12">
@@ -343,12 +367,12 @@ Aspose.Cells for Node.js via Java teljes körű ellenőrzést biztosít a munkal
  Sorok kezelése &amp; Oszlopok
     </h2>
     <p>
- Aspose.Cells for Node.js via Java lehetővé teszi a sorok és oszlopok sokféle módon történő kezelését. Könnyen beállíthatja a sormagasságot &amp; oszlopszélesség, a cellák automatikus méretezése a tartalomnak megfelelően, beszúrás &amp; törlés, elrejtés &amp; elrejtésének feloldása és csoportosítása &amp; sorok csoportosításának megszüntetése &amp; oszlopok.
+Aspose.Cells for Node.js via Java lehetővé teszi a sorok és oszlopok sokféle módon történő kezelését. Könnyen beállíthatja a sormagasságot &amp; oszlopszélesség, a cellák automatikus méretezése a tartalomnak megfelelően, beszúrás &amp; törlés, elrejtés &amp; elrejtésének feloldása és csoportosítása &amp; sorok csoportosításának megszüntetése &amp; oszlopok.
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-Átfogó támogatás a munkalap formázáshoz
+ Átfogó támogatás a munkalap formázáshoz
     </h2>
     <p>
  Aspose.Cells for Node.js via Java fejlett formázási funkciókat kínál, amelyek lehetővé teszik az adatok megjelenítésének szabályozását. Alkalmazhat formázást egy munkalapra, oszlopra, sorra vagy cellára, vagy Rich Textet adhat egyetlen cellához, alkalmazhat szegélyeket, beállíthat háttérmintákat és betűstílusokat. A API lehetővé teszi a hozzáadást, manipulálást és kiszámítja a feltételes formázási szabályokat menet közben.
@@ -359,7 +383,7 @@ Aspose.Cells for Node.js via Java teljes körű ellenőrzést biztosít a munkal
  Diagram létrehozása, manipulálása és amp; Renderelés
     </h2>
     <p>
- Aspose.Cells for Node.js via Java teljes mértékben támogatja a diagramkészítést. A API szám segítségével egyszerűen hozzáadhat testreszabott vagy szabványos diagramokat, és dinamikusan beállíthatja az adatokat a diagramok frissítéséhez.
+Aspose.Cells for Node.js via Java teljes mértékben támogatja a diagramkészítést. A API szám segítségével egyszerűen hozzáadhat testreszabott vagy szabványos diagramokat, és dinamikusan beállíthatja az adatokat a diagramok frissítéséhez.
     </p>
    </div>
   </div>
@@ -393,7 +417,7 @@ Aspose.Cells for Node.js via Java teljes körű ellenőrzést biztosít a munkal
 
 {{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://downloads.aspose.com/cells/nodejs" pricingInformationLink="https://purchase.aspose.com/pricing/cells/nodejs-java" >}}
 
-{{< blocks/products/pf/offers-section pfName="Aspose.Cells" description="A Aspose.Cells egyedi Excel API-kat kínál más népszerű fejlesztői környezetekhez, az alábbiak szerint:" >}}
+{{< blocks/products/pf/offers-section pfName="Aspose.Cells" description="Aspose.Cells egyedi Excel API-kat kínál más népszerű fejlesztői környezetekhez, az alábbiak szerint:" >}}
 
     {{< blocks/products/pf/offers-section-item link="/cells/net/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sdkName=".NET" >}}
     {{< blocks/products/pf/offers-section-item link="/cells/java/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sdkName="Java" >}}

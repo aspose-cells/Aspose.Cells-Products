@@ -1,5 +1,5 @@
 ---
-title:  Extrahera text och bilder från XLS dokument via C++
+title: Extrahera text och bilder från XLS dokument via C++
 weight: 7610
 description: C++ exempelkod för att extrahera text och bilder från XLS fil på C++ Runtime Environment för Windows 32 bitar, Windows 64 bitar och Linux 64 bitar.
 keywords: [C++ Aspose.Cells., C++ Extract text and images from XLS file., C++ How to Parse XLS File., C++ Extract text from XLS file., Extract images from XLS file using C++]
@@ -12,13 +12,7 @@ keywords: [C++ Aspose.Cells., C++ Extract text and images from XLS file., C++ Ho
 
 {{% blocks/products/pf/agp/content h2="Hur man analyserar XLS-fil med C++" %}}
 
- För att tolka filen XLS kommer vi att använda
- [Aspose.Cells for C++](https://products.aspose.com/cells/cpp) 
- API som är en funktionsrik, kraftfull och lättanvänd plattform för dokumentanalys API for C++. Du kan ladda ner den senaste versionen direkt, bara öppna
- [NuGet](https://www.nuget.org/packages/aspose.cells) 
- pakethanterare, sök efter
- **Aspose.Cells.Cpp** 
- och installera. Du kan också använda följande kommando från Package Manager Console.
+ För att tolka filen XLS kommer vi att använda[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) API som är en funktionsrik, kraftfull och lättanvänd plattform för dokumentanalys API for C++. Du kan ladda ner den senaste versionen direkt, bara öppna[NuGet](https://www.nuget.org/packages/aspose.cells) pakethanterare, sök efter**Aspose.Cells.Cpp** och installera. Du kan också använda följande kommando från Package Manager Console.
 
 {{% blocks/products/pf/agp/code-block title="Kommando" offSpacer="true" %}}
 
@@ -40,7 +34,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
  Ett grundläggande dokument som analyseras med
  [Aspose.Cells for C++](https://products.aspose.com/cells/cpp) 
- API:er kan göras med bara några rader kod. Analysera text och bilder från Microsoft Excel XLS, XLSX, XLSM, XLSB och OpenDocument ODS filer.
+API:er kan göras med bara några rader kod. Analysera text och bilder från Microsoft Excel XLS, XLSX, XLSM, XLSB och OpenDocument ODS filer.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -108,7 +102,7 @@ Aspose::Cells::Cleanup();
 
 {{< blocks/products/pf/agp/about-file-section >}}
 
-    {{< blocks/products/pf/agp/demobox sectionTitle="Online XLS Parser Live Demos" sectionDescription=" Extrahera text och bilder från XLS dokument just nu genom att besöka vår[Live Demos webbplats](https://products.aspose.app/cells/parser). Livedemon har följande fördelar" >}}
+    {{< blocks/products/pf/agp/demobox sectionTitle="Online XLS Parser Live Demos" sectionDescription="Extrahera text och bilder från XLS dokument just nu genom att besöka vår[Live Demos webbplats](https://products.aspose.app/cells/parser). Livedemon har följande fördelar" >}}
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Du behöver inte ladda ner Aspose API." >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Du behöver inte skriva någon kod." >}}
         {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Ladda bara upp dina XLS-filer." >}}
@@ -129,6 +123,7 @@ Filer med tillägget XLS representerar det binära filformatet i Excel. Sådana 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/parser/ods/" name="ODS" description="OpenDocument Spreadsheet File" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/parser/xlsb/" name="XLSB" description="Binär Excel arbetsbok fil" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/parser/xlsm/" name="XLSM" description="Kalkylbladsfil" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/parser/xlsx/" name="XLSX" description="OOXML Excel-fil" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

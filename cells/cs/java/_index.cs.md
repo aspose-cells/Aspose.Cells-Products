@@ -13,11 +13,11 @@ keywords: [Java Aspose.Cells Create repair parse merge convert JSON Excel XML PD
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
- Aspose.Cells for Java je oceněné Excelové tabulkové zpracování API, které umožňuje vývojářům začlenit funkcionalitu pro čtení, zápis, manipulaci, konverzi &amp; tisknout tabulky ve vlastních aplikacích, aniž byste potřebovali aplikaci Excel Microsoft.
+Aspose.Cells for Java je oceněné Excelové tabulkové zpracování API, které umožňuje vývojářům začlenit funkcionalitu pro čtení, zápis, manipulaci, konverzi &amp; tisknout tabulky ve vlastních aplikacích, aniž byste potřebovali aplikaci Excel Microsoft.
 </p>
 
 <p>
-Aspose.Cells for Java je vyspělá knihovna s bohatými funkcemi, která nabízí mnoho funkcí, které daleko přesahují možnosti jednoduchého exportu dat jiných komponent dostupných na trhu. API poskytuje funkce pro export dat, formátování tabulek na nejpodrobnější úroveň, import &amp; exportovat obrázky, vytvářet grafy &amp; Kontingenční tabulky, použít &amp; vypočítat složité vzorce pomocí nástroje pro výpočet vzorců, streamovat data Excelu &amp; uložit výsledek v různých formátech.
+ Aspose.Cells for Java je vyspělá knihovna s bohatými funkcemi, která nabízí mnoho funkcí, které daleko přesahují možnosti jednoduchého exportu dat jiných komponent dostupných na trhu. API poskytuje funkce pro export dat, formátování tabulek na nejpodrobnější úroveň, import &amp; exportovat obrázky, vytvářet grafy &amp; Kontingenční tabulky, použít &amp; vypočítat složité vzorce pomocí nástroje pro výpočet vzorců, streamovat data Excelu &amp; uložit výsledek v různých formátech.
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
@@ -64,7 +64,7 @@ Aspose.Cells for Java je vyspělá knihovna s bohatými funkcemi, která nabíz�
  Použít vzorce
     </li>
     <li>
- Shrnout
+Shrnout
     </li>
     <li>
  Chytré značky
@@ -161,7 +161,7 @@ Aspose.Cells for Java je vyspělá knihovna s bohatými funkcemi, která nabíz�
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Podporované formáty souborů" description="Aspose.Cells for Java podporuje oblíbené tabulkové formáty, běžně používané obrázky, pevné rozvržení a[více formátů](https://docs.aspose.com/cells/java/supported-file-formats/)." >}}
+{{< blocks/products/pf/carousel-item h3="Podporované formáty souborů" description=" Aspose.Cells for Java podporuje oblíbené tabulkové formáty, běžně používané obrázky, pevné rozvržení a[více formátů](https://docs.aspose.com/cells/java/supported-file-formats/)." >}}
 <div class="diagram1 d2 d1-java">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -175,7 +175,7 @@ Aspose.Cells for Java je vyspělá knihovna s bohatými funkcemi, která nabíz�
      <b>
  Microsoft Excel:
      </b>
- XLS, XLT, XLSX, XLSB, XLTX, XLTM, XLSM, XML
+ XLS, XLSX, XLSB, XLT, XLTX, XLTM, XLSM, XML, OTS
     </li>
     <li>
      <b>
@@ -187,7 +187,7 @@ Aspose.Cells for Java je vyspělá knihovna s bohatými funkcemi, která nabíz�
      <b>
  Text:
      </b>
-     CSV, TSV
+     CSV, TSV, JSON
     </li>
     <li>
      <b>
@@ -202,7 +202,10 @@ Aspose.Cells for Java je vyspělá knihovna s bohatými funkcemi, která nabíz�
  Dokumenty aplikace Apple iWork office suite Numbers
     </li>
     <li>
-     SXC, FODS
+     <b>
+ ostatní:
+     </b>
+ SXC, FODS, EPUB
     </li>
    </ul>
   </div>
@@ -211,7 +214,7 @@ Aspose.Cells for Java je vyspělá knihovna s bohatými funkcemi, která nabíz�
    <header>
     <i class="fa fa-mail-forward">
     </i>
- Pouze výstup
+Pouze výstup
    </header>
    <ul>
     <li>
@@ -225,15 +228,18 @@ Aspose.Cells for Java je vyspělá knihovna s bohatými funkcemi, která nabíz�
  Výměna dat:
      </b>
      DIF
-    </li>
+    </li>    
     <li>
      <b>
  Snímky:
      </b>
-     JPEG, PNG, BMP, SVG, TIFF, GIF, EMF
+     JPEG, PNG, BMP, SVG, TIFF, EMF, GIF
     </li>
     <li>
-     MARKDOWN
+     <b>
+ ostatní:
+     </b>
+ MARKDOWN, SQL, XTHML
     </li>
    </ul>
   </div>
@@ -320,7 +326,7 @@ Aspose.Cells for Java je vyspělá knihovna s bohatými funkcemi, která nabíz�
     <em class="fa fa-commenting ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Vytvořit &amp; manipulovat s komentáři
+Vytvořit &amp; manipulovat s komentáři
     </p>
    </div>
    <div class="col-lg-4">
@@ -369,7 +375,7 @@ Aspose.Cells for Java je vyspělá knihovna s bohatými funkcemi, která nabíz�
     <em class="fa fa-image ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-Převzorkujte obrázky v Excelu na převod PDF
+ Převzorkujte obrázky v Excelu na převod PDF
     </p>
    </div>
    <div class="col-lg-4">
@@ -405,10 +411,10 @@ wbk.save(dir + "output.html", SaveFormat.HTML);</code></pre>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
- Formátujte pracovní listy na nejvyšší úroveň granulí
+Formátujte pracovní listy na nejvyšší úroveň granulí
     </h2>
     <p>
-Knihovna poskytuje styly tabulek včetně, ale bez omezení na formátování listu na úrovni řádků, sloupců a buněk, přidávání pravidel podmíněného formátování, definování formátů čísel a nastavení písem s atributy. Podobně API podporuje manipulaci a vytváření všech typů vlastních a standardních grafů a také různých objektů kreslení, jako jsou objekty OLE, obrázky, komentáře, tvary a ovládací prvky buněk.
+ Knihovna poskytuje styly tabulek včetně, ale bez omezení na formátování listu na úrovni řádků, sloupců a buněk, přidávání pravidel podmíněného formátování, definování formátů čísel a nastavení písem s atributy. Podobně API podporuje manipulaci a vytváření všech typů vlastních a standardních grafů a také různých objektů kreslení, jako jsou objekty OLE, obrázky, komentáře, tvary a ovládací prvky buněk.
     </p>
    </div>
    <!--<div class="col-lg-12">
@@ -423,11 +429,11 @@ Knihovna poskytuje styly tabulek včetně, ale bez omezení na formátování li
  Převést grafy &amp; Listy k obrázku &amp; PDF Formáty
     </h2>
     <p>
- Aspose.Cells for Java nabízí speciální funkce převodu, jako jsou grafy na obrázky a PDF, pracovní listy na obrázky, tisk pracovních listů a převod tabulek do formátu souboru PDF. Proces převodu je velmi flexibilní a snadný a umožňuje vybrat řadu způsobů převodu, jako je převzorkování obrázků během tabulkového procesoru na transformaci PDF nebo úprava výsledných rozměrů obrázku při vykreslování pracovních listů a grafů na obrázky.
+Aspose.Cells for Java nabízí speciální funkce převodu, jako jsou grafy na obrázky a PDF, pracovní listy na obrázky, tisk pracovních listů a převod tabulek do formátu souboru PDF. Proces převodu je velmi flexibilní a snadný a umožňuje vybrat řadu způsobů převodu, jako je převzorkování obrázků během tabulkového procesoru na transformaci PDF nebo úprava výsledných rozměrů obrázku při vykreslování pracovních listů a grafů na obrázky.
     </p>
     <div class="codeblock" id="code">
      <h3>
-Vykreslit graf Excel jako obrázek &amp; PDF – Java
+ Vykreslit graf Excel jako obrázek &amp; PDF – Java
      </h3>
      <pre><code class="java">// load spreadsheet containing the chart
 
@@ -459,7 +465,7 @@ chart.toPdf(dir + "output.pdf");</code></pre>
  Shrnutí dat pomocí grafů &amp; Kontingenční tabulky
     </h2>
     <p>
- S velmi velkými tabulkami může být obtížné získat souhrnné informace. Kontingenční tabulka slouží k rychlému popisu plochých dat a získávání relevantních informací podle potřeby. API dynamicky vytváří kontingenční tabulky a grafy. Je možné dynamicky měnit zdrojová data kontingenční tabulky. Kromě toho Smart Markers, další špičková funkce této knihovny pro vyplňování pracovních listů prostřednictvím zdrojů dat a vytváření vizuálně účinných sestav.
+ velmi velkými tabulkami může být obtížné získat souhrnné informace. Kontingenční tabulka slouží k rychlému popisu plochých dat a získávání relevantních informací podle potřeby. API dynamicky vytváří kontingenční tabulky a grafy. Je možné dynamicky měnit zdrojová data kontingenční tabulky. Kromě toho Smart Markers, další špičková funkce této knihovny pro vyplňování pracovních listů prostřednictvím zdrojů dat a vytváření vizuálně účinných sestav.
     </p>
    </div>
    <!--
@@ -488,7 +494,7 @@ chart.toPdf(dir + "output.pdf");</code></pre>
  Webová vizuální kontrola pro tabulky
     </h2>
     <p>
-Aspose.Cells for Java také poskytuje ovládání uživatelského rozhraní, které lze zabudovat do webových aplikací JSP a je kompatibilní se všemi moderními webovými prohlížeči, jako je Chrome, Firefox, Internet Explorer a Opera. Koncový uživatel jej může použít k načítání, úpravě a ukládání souborů aplikace Excel z front-endu vaší webové aplikace.
+ Aspose.Cells for Java také poskytuje ovládání uživatelského rozhraní, které lze zabudovat do webových aplikací JSP a je kompatibilní se všemi moderními webovými prohlížeči, jako je Chrome, Firefox, Internet Explorer a Opera. Koncový uživatel jej může použít k načítání, úpravě a ukládání souborů aplikace Excel z front-endu vaší webové aplikace.
     </p>
    </div>
   </div>
@@ -502,7 +508,7 @@ Aspose.Cells for Java také poskytuje ovládání uživatelského rozhraní, kte
 
 {{< blocks/products/pf/testimonials-quote >}}
 <p class="first">
- Doporučujeme použití Aspose.cells for Java, protože se snadno implementuje a API je snadno pochopitelné a velmi plynulé.
+Doporučujeme použití Aspose.cells for Java, protože se snadno implementuje a API je snadno pochopitelné a velmi plynulé.
  <em>
  Pierre-Eric Oudin | Advizeo od Setec, Francie
  </em>

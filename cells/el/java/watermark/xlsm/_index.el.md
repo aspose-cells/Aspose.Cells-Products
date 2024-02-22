@@ -1,5 +1,5 @@
 ---
-title: Υδατογράφημα XLSM έγγραφο via Java
+title:  Υδατογράφημα XLSM έγγραφο via Java
 weight: 7680
 description: Java δείγμα κώδικα για προσθήκη ή αφαίρεση υδατογραφήματος στο αρχείο XLSM στο Java Runtime Environment για εφαρμογές JSP/JSF και εφαρμογές επιφάνειας εργασίας.
 keywords: [Java Aspose.Cells., Java add watermark to xlsm file., Java insert watermark to xlsm file., Java create watermark in xlsm file., remove watermark from xlsm file using Java., Java operate watermark in xlsm file., Java access watermark in xlsm file]
@@ -12,11 +12,7 @@ keywords: [Java Aspose.Cells., Java add watermark to xlsm file., Java insert wat
 
 {{% blocks/products/pf/agp/content h2="Πώς να υδατογραφήσετε το αρχείο XLSM χρησιμοποιώντας το Java" %}}
 
- Για να υδατογραφήσουμε το αρχείο XLSM, θα χρησιμοποιήσουμε
- [Aspose.Cells for Java](https://products.aspose.com/cells/java) 
- API που είναι μια πλούσια σε χαρακτηριστικά, ισχυρή και εύχρηστη πλατφόρμα υδατογραφήματος API for Java. Μπορείτε να κατεβάσετε την τελευταία του έκδοση απευθείας από
- [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) 
- και εγκαταστήστε το στο έργο σας που βασίζεται στο Maven προσθέτοντας τις ακόλουθες διαμορφώσεις στο pom.xml.
+ Για να υδατογραφήσουμε το αρχείο XLSM, θα χρησιμοποιήσουμε[Aspose.Cells for Java](https://products.aspose.com/cells/java) API που είναι μια πλούσια σε χαρακτηριστικά, ισχυρή και εύχρηστη πλατφόρμα υδατογραφήματος API for Java. Μπορείτε να κατεβάσετε την τελευταία του έκδοση απευθείας από[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) και εγκαταστήστε το στο έργο σας που βασίζεται στο Maven προσθέτοντας τις ακόλουθες διαμορφώσεις στο pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Αποθήκη" offSpacer="true" %}}
 
@@ -129,7 +125,7 @@ workbook.save(dataDir + "AWArtWToWorksheet_out.xlsm");
     {{< blocks/products/pf/agp/about-file-section >}}
 
         {{< blocks/products/pf/agp/demobox sectionTitle="Υδατογράφημα XLSM μέσω της διαδικτυακής εφαρμογής" sectionDescription=" Προσθέστε υδατογράφημα στα έγγραφα XLSM επισκεπτόμενοι το δικό μας[Ζωντανή ιστοσελίδα Demos](https://products.aspose.app/cells/watermark). Η ζωντανή επίδειξη έχει τα ακόλουθα πλεονεκτήματα" >}}
-            {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Δεν χρειάζεται να κατεβάσετε ή να ρυθμίσετε τίποτα" >}}
+            {{< blocks/products/pf/agp/democard icon="fa-cogs" text="Δεν χρειάζεται να κατεβάσετε ή να ρυθμίσετε τίποτα" >}}
             {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Δεν χρειάζεται να γράψετε κανέναν κώδικα" >}}
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Απλώς ανεβάστε το αρχείο XLSM, ορίστε το υδατογράφημά σας και πατήστε το κουμπί \"Προσθήκη\"" >}}
             {{< blocks/products/pf/agp/democard icon="fa-download" text=" Λάβετε αμέσως τον σύνδεσμο λήψης για το αρχείο που προκύπτει" >}}
@@ -148,6 +144,7 @@ workbook.save(dataDir + "AWArtWToWorksheet_out.xlsm");
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/watermark/ods/" name="ODS" description="Αρχείο Υπολογιστικού Φύλλου OpenDocument" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/watermark/xls/" name="XLS" description="Δυαδική μορφή Excel" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/watermark/xlsb/" name="XLSB" description="Δυαδικό αρχείο βιβλίου εργασίας Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/watermark/xlsx/" name="XLSX" description="Αρχείο Excel OOXML" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

@@ -12,13 +12,7 @@ keywords: [C# Aspose.Cells., c# Search and replace text in XLSB file., c# redact
 
 {{% blocks/products/pf/agp/content h2="So schwärzen Sie die Datei XLSB mit C#" %}}
 
- Um die Datei XLSB zu redigieren, verwenden wir
- [Aspose.Cells for .NET](https://products.aspose.com/cells/net) 
- API, eine funktionsreiche, leistungsstarke und benutzerfreundliche Plattform zur Dokumentbearbeitung API für C#. Offen
- [NuGet](https://www.nuget.org/packages/aspose.cells) 
- Paketmanager, suchen Sie nach
- **Aspose.Cells** 
- und installieren. Sie können auch den folgenden Befehl über die Paket-Manager-Konsole verwenden.
+ Um die Datei XLSB zu redigieren, verwenden wir[Aspose.Cells for .NET](https://products.aspose.com/cells/net) API, eine funktionsreiche, leistungsstarke und benutzerfreundliche Plattform zur Dokumentbearbeitung API für C#. Offen[NuGet](https://www.nuget.org/packages/aspose.cells) Paketmanager, suchen Sie nach**Aspose.Cells** und installieren. Sie können auch den folgenden Befehl über die Paket-Manager-Konsole verwenden.
 
 {{% blocks/products/pf/agp/code-block title="Befehl" offSpacer="true" %}}
 
@@ -38,9 +32,7 @@ PM> Install-Package Aspose.Cells
 
 {{% blocks/products/pf/agp/text %}}
 
- Eine einfache Dokumentsuche und das Ersetzen von Text in Inhalten, Kommentaren oder Metadaten mit
- [Aspose.Cells for .NET](https://products.aspose.com/cells/net) 
- APIs können mit nur wenigen Codezeilen erstellt werden.
+ Eine einfache Dokumentsuche und das Ersetzen von Text in Inhalten, Kommentaren oder Metadaten mit[Aspose.Cells for .NET](https://products.aspose.com/cells/net) APIs können mit nur wenigen Codezeilen erstellt werden.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -57,7 +49,7 @@ PM> Install-Package Aspose.Cells
 
 {{% blocks/products/pf/agp/text %}}
 
- Unsere APIs werden auf allen wichtigen Plattformen und Betriebssystemen unterstützt. Bevor Sie den folgenden Code ausführen, stellen Sie bitte sicher, dass auf Ihrem System die folgenden Voraussetzungen erfüllt sind.
+Unsere APIs werden auf allen wichtigen Plattformen und Betriebssystemen unterstützt. Bevor Sie den folgenden Code ausführen, stellen Sie bitte sicher, dass auf Ihrem System die folgenden Voraussetzungen erfüllt sind.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -122,7 +114,7 @@ wb.Save("e:\test2\output.xlsb");
             {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Aspose API muss nicht heruntergeladen werden." >}}
             {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Es ist nicht nötig, Code zu schreiben." >}}
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Laden Sie einfach Ihre XLSB-Dateien hoch." >}}
-            {{< blocks/products/pf/agp/democard icon="fa-download" text="Es wird sofort geschwärzt." >}}
+            {{< blocks/products/pf/agp/democard icon="fa-download" text=" Es wird sofort geschwärzt." >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLSB" readMoreLink="https://docs.fileformat.com/spreadsheet/xlsb/" >}}
 Das Dateiformat XLSB gibt das Excel-Binärdateiformat an, eine Sammlung von Datensätzen und Strukturen, die den Inhalt einer Excel-Arbeitsmappe angeben. Der Inhalt kann unstrukturierte oder halbstrukturierte Zahlentabellen, Text oder sowohl Zahlen als auch Text, Formeln, externe Datenverbindungen, Diagramme und Bilder umfassen. Im Gegensatz zu XLSX (das auf dem Open XML-Dateiformat basiert) stellt XLSB eine binäre Excel-Arbeitsmappendatei dar. XLSB-Dateien können schneller gelesen und geschrieben werden, was sie für die Arbeit mit großen Dateien nützlich macht. XLSB wird selten zum Speichern von Arbeitsmappen verwendet, da XLSX (und früher XLS) die am häufigsten vom Benutzer ausgewählten Dateiformate zum Speichern von Arbeitsmappen sind. Es kann mit Microsoft Office 2007 und höher geöffnet werden.
@@ -138,6 +130,7 @@ Das Dateiformat XLSB gibt das Excel-Binärdateiformat an, eine Sammlung von Date
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/redaction/ods/" name="ODS" description="OpenDocument-Tabellenkalkulationsdatei" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/redaction/xls/" name="XLS" description="Excel-Binärformat" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/redaction/xlsm/" name="XLSM" description="Tabellenkalkulationsdatei" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/redaction/xlsx/" name="XLSX" description="OOXML-Excel-Datei" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

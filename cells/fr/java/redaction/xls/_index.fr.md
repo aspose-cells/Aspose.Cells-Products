@@ -12,11 +12,7 @@ keywords: [Java Aspose.Cells., Java Search and replace text in XLS file., Java r
 
 {{% blocks/products/pf/agp/content h2="Comment expurger le fichier XLS à l\'aide de Java" %}}
 
- Afin de rédiger le fichier XLS, nous utiliserons
- [Aspose.Cells for Java](https://products.aspose.com/cells/java) 
-API qui est une plateforme de rédaction API for Java riche en fonctionnalités, puissante et facile à utiliser. Vous pouvez télécharger sa dernière version directement depuis
- [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) 
- et installez-le dans votre projet basé sur Maven en ajoutant les configurations suivantes au pom.xml.
+ Afin de rédiger le fichier XLS, nous utiliserons[Aspose.Cells for Java](https://products.aspose.com/cells/java) API qui est une plateforme de rédaction API for Java riche en fonctionnalités, puissante et facile à utiliser. Vous pouvez télécharger sa dernière version directement depuis[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) et installez-le dans votre projet basé sur Maven en ajoutant les configurations suivantes au pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Dépôt" offSpacer="true" %}}
 
@@ -54,9 +50,7 @@ API qui est une plateforme de rédaction API for Java riche en fonctionnalités,
 
 {{% blocks/products/pf/agp/text %}}
 
- Un document de base recherche et remplace le texte dans le contenu, les commentaires ou les métadonnées par
- [Aspose.Cells for Java](https://products.aspose.com/cells/java) 
- Les API peuvent être réalisées avec seulement quelques lignes de code.
+ Un document de base recherche et remplace le texte dans le contenu, les commentaires ou les métadonnées par[Aspose.Cells for Java](https://products.aspose.com/cells/java) Les API peuvent être réalisées avec seulement quelques lignes de code.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -74,11 +68,11 @@ API qui est une plateforme de rédaction API for Java riche en fonctionnalités,
 
 {{% blocks/products/pf/agp/text %}}
 
- Aspose.Cells for Java prend en charge toutes les principales plates-formes et systèmes d'exploitation. Veuillez vous assurer que vous disposez des prérequis suivants.
+ Aspose.Cells for Java prend en charge sur toutes les principales plates-formes et systèmes d'exploitation. Veuillez vous assurer que vous disposez des prérequis suivants.
 
 {{% /blocks/products/pf/agp/text %}}
 
--  Microsoft Windows ou un système d'exploitation compatible avec l'environnement d'exécution Java pour les applications JSP/JSF et les applications de bureau.
+- Microsoft Windows ou un système d'exploitation compatible avec l'environnement d'exécution Java pour les applications JSP/JSF et les applications de bureau.
 -  Obtenez la dernière version de Aspose.Cells for Java directement à partir de
  [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells)  .
 
@@ -144,7 +138,7 @@ workbook.save(dataDir + "output.xls");
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Pas besoin de télécharger le Aspose API." >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Pas besoin d\'écrire de code." >}}
         {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Téléchargez simplement vos fichiers XLS." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-download" text="Il sera expurgé instantanément." >}}
+        {{< blocks/products/pf/agp/democard icon="fa-download" text=" Il sera expurgé instantanément." >}}
     {{< /blocks/products/pf/agp/demobox >}}
 
     {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLS" readMoreLink="https://docs.fileformat.com/spreadsheet/xls/" >}}
@@ -161,6 +155,7 @@ Les fichiers avec l'extension XLS représentent le format de fichier binaire Exc
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/redaction/ods/" name="ODS" description="Fichier de feuille de calcul OpenDocument" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/redaction/xlsb/" name="XLSB" description="Fichier de classeur Excel binaire" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/redaction/xlsm/" name="XLSM" description="Fichier de feuille de calcul" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/redaction/xlsx/" name="XLSX" description="Fichier Excel OOXML" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

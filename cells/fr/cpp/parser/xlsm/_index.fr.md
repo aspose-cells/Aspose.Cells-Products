@@ -1,5 +1,5 @@
 ---
-title:  Extraire le texte et les images du document XLSM via C++
+title: Extraire le texte et les images du document XLSM via C++
 weight: 570
 description: Exemple de code C++ pour extraire le texte et les images du fichier XLSM sur l'environnement d'exécution C++ pour Windows 32 bits, Windows 64 bits et Linux 64 bits.
 keywords: [C++ Aspose.Cells., C++ Extract text and images from XLSM file., C++ How to Parse XLSM File., C++ Extract text from XLSM file., Extract images from XLSM file using C++]
@@ -12,13 +12,7 @@ keywords: [C++ Aspose.Cells., C++ Extract text and images from XLSM file., C++ H
 
 {{% blocks/products/pf/agp/content h2="Comment analyser le fichier XLSM à l\'aide de C++" %}}
 
- Afin d'analyser le fichier XLSM, nous utiliserons
- [Aspose.Cells for C++](https://products.aspose.com/cells/cpp) 
- API qui est une plate-forme d'analyse de documents API for C++ riche en fonctionnalités, puissante et facile à utiliser. Vous pouvez télécharger sa dernière version directement, ouvrez simplement
- [NuGet](https://www.nuget.org/packages/aspose.cells) 
- gestionnaire de paquets, recherchez
- **Aspose.Cells.Cpp** 
- et installer. Vous pouvez également utiliser la commande suivante à partir de la console Package Manager.
+ Afin d'analyser le fichier XLSM, nous utiliserons[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) API qui est une plate-forme d'analyse de documents API for C++ riche en fonctionnalités, puissante et facile à utiliser. Vous pouvez télécharger sa dernière version directement, ouvrez simplement[NuGet](https://www.nuget.org/packages/aspose.cells) gestionnaire de paquets, recherchez**Aspose.Cells.Cpp** et installer. Vous pouvez également utiliser la commande suivante à partir de la console Package Manager.
 
 {{% blocks/products/pf/agp/code-block title="Commande" offSpacer="true" %}}
 
@@ -38,9 +32,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% blocks/products/pf/agp/text %}}
 
- Un document de base analysé avec
- [Aspose.Cells for C++](https://products.aspose.com/cells/cpp) 
- Les API peuvent être réalisées avec seulement quelques lignes de code. Analyser le texte et les images des fichiers Excel Microsoft, XLS, XLSX, XLSM, XLSB et OpenDocument ODS.
+ Un document de base analysé avec[Aspose.Cells for C++](https://products.aspose.com/cells/cpp)Les API peuvent être réalisées avec seulement quelques lignes de code. Analyser le texte et les images des fichiers Excel Microsoft, XLS, XLSX, XLSM, XLSB et OpenDocument ODS.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -50,7 +42,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% blocks/products/pf/agp/text %}}
 
- Aspose.Cells for C++ prend en charge toutes les principales plates-formes et systèmes d'exploitation. Veuillez vous assurer que vous disposez des prérequis suivants.
+ Aspose.Cells for C++ prend en charge sur toutes les principales plates-formes et systèmes d'exploitation. Veuillez vous assurer que vous disposez des prérequis suivants.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -108,7 +100,7 @@ Aspose::Cells::Cleanup();
 
 {{< blocks/products/pf/agp/about-file-section >}}
 
-    {{< blocks/products/pf/agp/demobox sectionTitle="Démos en direct de l\'analyseur XLSM en ligne" sectionDescription=" Extrayez dès maintenant le texte et les images des documents XLSM en visitant notre[Site Web de démonstrations en direct](https://products.aspose.app/cells/parser). La démo en direct présente les avantages suivants" >}}
+    {{< blocks/products/pf/agp/demobox sectionTitle="Démos en direct de l\'analyseur XLSM en ligne" sectionDescription="Extrayez dès maintenant le texte et les images des documents XLSM en visitant notre[Site Web de démonstrations en direct](https://products.aspose.app/cells/parser). La démo en direct présente les avantages suivants" >}}
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Pas besoin de télécharger le Aspose API." >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Pas besoin d\'écrire de code." >}}
         {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Téléchargez simplement vos fichiers XLSM." >}}
@@ -129,6 +121,7 @@ Les fichiers avec l'extension XLSM sont un type de fichier de feuille de calcul 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/parser/ods/" name="ODS" description="Fichier de feuille de calcul OpenDocument" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/parser/xls/" name="XLS" description="Format binaire Excel" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/parser/xlsb/" name="XLSB" description="Fichier de classeur Excel binaire" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/parser/xlsx/" name="XLSX" description="Fichier Excel OOXML" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

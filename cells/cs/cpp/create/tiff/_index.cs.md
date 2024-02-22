@@ -1,6 +1,6 @@
 ---
 title: Vytvořit TIFF - Vytvořit soubor TIFF v C++
-description: Aspose Excel. C++ Vytvořte TIFF Soubor rychle a snadno pomocí Aspose.Cells. Vygenerujte soubor TIFF pomocí C++. Vytvořte TIFF v C++. 0761831981 0761831983
+description:  Aspose Excel. C++ Vytvořte TIFF Soubor rychle a snadno pomocí Aspose.Cells. Vygenerujte soubor TIFF pomocí C++. Vytvořte TIFF v C++. 0761831981 0761831983
 keywords: [Aspose Excel., C++ Aspose.Cells., C++ Create TIFF file., Generate TIFF file in C++., Create TIFF file using C++., Write data to TIFF file via C++., Create a TIFF file in C++., C++ Generate a TIFF file., C++ TIFF Creater]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -11,7 +11,7 @@ keywords: [Aspose Excel., C++ Aspose.Cells., C++ Create TIFF file., Generate TIF
 
 {{% blocks/products/pf/agp/content h2="Vytvořte soubor TIFF pomocí C++" %}}
 
- Jak vytvořit soubor TIFF? S knihovnou Aspose.Cells for C++ můžete snadno vytvořit soubor TIFF programově pomocí několika řádků kódu.[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) je schopen vytvářet multiplatformní aplikace se schopností generovat, upravovat, konvertovat, vykreslovat a tisknout všechny soubory aplikace Excel. C++ Excel API nejen převádí mezi tabulkovými formáty, ale umí také vykreslovat soubory Excel jako obrázky, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT a další, takže je perfektní volbou pro výměnu dokumentů ve standardních průmyslových formátech. Jeho nejnovější verzi si můžete stáhnout přímo, stačí otevřít[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) správce balíčků, vyhledejte Aspose.Cells.Cpp a nainstalujte. Můžete také použít následující příkaz z konzoly Správce balíčků.
+ Jak vytvořit soubor TIFF? S knihovnou Aspose.Cells for C++ můžete snadno vytvořit soubor TIFF programově pomocí několika řádků kódu.[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) je schopen vytvářet multiplatformní aplikace se schopností generovat, upravovat, konvertovat, vykreslovat a tisknout všechny soubory aplikace Excel. C++ Excel API nejen převádí mezi tabulkovými formáty, ale umí také vykreslovat soubory Excel jako obrázky, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT a další, takže je perfektní volbou pro výměnu dokumentů ve standardních průmyslových formátech. Jeho nejnovější verzi si můžete stáhnout přímo, stačí otevřít[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/)správce balíčků, vyhledejte Aspose.Cells.Cpp a nainstalujte. Můžete také použít následující příkaz z konzoly Správce balíčků.
 
 {{% blocks/products/pf/agp/code-block title="Příkaz" offSpacer="true" %}}
 
@@ -37,9 +37,9 @@ PM> Install-Package Aspose.Cells.Cpp
 1.  Vytvořte objekt třídy Workbook.
 1.  Získejte první list do objektu Worksheet.
 1.  Použijte metodu Worksheet.GetCells() k získání buněk listu do objektu Cells.
-1. Použijte metodu Cells.Get() pro přístup k požadované buňce listu do objektu Cell.
+1.  Použijte metodu Cells.Get() pro přístup k požadované buňce listu do objektu Cell.
 1.  Pomocí metody Cell.PutValue() zadejte hodnotu do buňky.
-1. Uložte sešit jako soubor .tiff pomocí metody Save().
+1.  Uložte sešit jako soubor .tiff pomocí metody Save().
 
 {{% blocks/products/pf/agp/code-block title="Ukázkový kód ukazuje, jak vytvořit soubor TIFF v C++." offSpacer="" %}}
 
@@ -70,7 +70,6 @@ cell01.PutValue(u"ColumnB");
 cell10.PutValue(u"ValueA");
 cell11.PutValue(u"ValueB");
 
-//TIFF format is not supported
 // Save workbook to resultFile folder
 wkb.Save(u"created_one.tiff");
 

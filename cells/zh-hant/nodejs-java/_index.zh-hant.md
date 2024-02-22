@@ -1,7 +1,7 @@
 ---
 title: 用於 Excel 電子表格的 Node.js API - Aspose
 weight: 3120
-description: 透過 Node.js 函式庫處理 Excel 檔案格式。在 Windows、macOS 和 Linux 上透過 Node.js 讀寫渲染和轉換 XLS XLSX XLSB XLTX XLTM XLSM333481 XLTM XLSM333481 XLTM XLSM33348163 07615381300702
+description: 透過 Node.js 函式庫處理 Excel 檔案格式。在 Windows、macOS 和 Linux 上透過 Node.js 讀寫渲染和轉換 XLS XLSX XLSB XLTX XLTM XLSM333481 XLTM XLSM333481 XLTM XLSM33348163 076153813007 格式以及更多 XML
 ---
 {{< blocks/products/pf/main-wrap-class >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Node.js Excel 檔案格式 API" h2="使用 Node.js 產生、修改、轉換和渲染 Excel 電子表格，無需 Microsoft Excel。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/headers/aspose_cells-for-nodejs-java.svg" pfName="Aspose.Cells" subTitlepfName="for Node.js via Java" downloadUrl="https://downloads.aspose.com/cells/nodejs" >}}
@@ -12,11 +12,11 @@ description: 透過 Node.js 函式庫處理 Excel 檔案格式。在 Windows、m
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
- Aspose.Cells for Node.js via Java 是一個功能豐富且可擴展的 API，用於使用 Node.js 處理 Excel 電子表格。 API 提供 Excel 檔案格式轉換、最精細的工作表樣式、圖表建立和編輯。渲染、可靠的公式計算引擎等等。
+Aspose.Cells for Node.js via Java 是一個功能豐富且可擴展的 API，用於使用 Node.js 處理 Excel 電子表格。 API 提供 Excel 檔案格式轉換、最精細的工作表樣式、圖表建立和編輯。渲染、可靠的公式計算引擎等等。
 </p>
 
 <p>
-Aspose.Cells for Node.js via Java 支援最受歡迎的電子表格格式，包括 XLS、XLSX、ODS、SpreadsheetML、CSV、TSC HTML。
+ Aspose.Cells for Node.js via Java 支援最受歡迎的電子表格格式，包括 XLS、XLSX、ODS、SpreadsheetML、CSV、TSC HTML。
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
@@ -171,7 +171,7 @@ Node.js via Java
      <b>
 Microsoft Excel：
      </b>
- XLS、XLSX、XLSB、XLTX、XLTM、XLSM、XML
+ XLS、XLSX、XLSB、XLT、XLTX、XLTM、XLSM、XML、OTS
     </li>
     <li>
      <b>
@@ -183,13 +183,25 @@ Microsoft Excel：
      <b>
 文字:
      </b>
- CSV，製表符分隔，TXT
+     CSV, TSV, JSON
     </li>
     <li>
      <b>
 網址：
      </b>
      HTML, MHTML
+    </li>
+    <li>
+     <b>
+      Numbers:
+     </b>
+蘋果iWork辦公室套件Numbers應用文檔
+    </li>
+    <li>
+     <b>
+其他的：
+     </b>
+ SXC, FODS, EPUB
     </li>
    </ul>
   </div>
@@ -205,13 +217,25 @@ Microsoft Excel：
      <b>
 固定佈局：
      </b>
-     PDF, XPS
+ PDF, PDF/A, XPS
     </li>
+    <li>
+     <b>
+資料交換：
+     </b>
+     DIF
+    </li>    
     <li>
      <b>
 圖片：
      </b>
-     JPEG, PNG, BMP, SVG, TIFF, GIF, EMF
+     JPEG, PNG, BMP, SVG, TIFF, EMF, GIF
+    </li>
+    <li>
+     <b>
+其他的：
+     </b>
+ MARKDOWN，SQL，XTHML
     </li>
    </ul>
   </div>

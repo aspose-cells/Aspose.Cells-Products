@@ -1,5 +1,5 @@
 ---
-title:  Wyodrębnij tekst i obrazy z dokumentu XLSB pod numerem C++
+title: Wyodrębnij tekst i obrazy z dokumentu XLSB pod numerem C++
 weight: 3140
 description: C++ przykładowy kod do wyodrębnienia tekstu i obrazów z pliku XLSB w C++ Środowisko wykonawcze dla Windows 32-bitowego, Windows 64-bitowego i 64-bitowego systemu Linux.
 keywords: [C++ Aspose.Cells., C++ Extract text and images from XLSB file., C++ How to Parse XLSB File., C++ Extract text from XLSB file., Extract images from XLSB file using C++]
@@ -12,13 +12,7 @@ keywords: [C++ Aspose.Cells., C++ Extract text and images from XLSB file., C++ H
 
 {{% blocks/products/pf/agp/content h2="Jak przeanalizować plik XLSB przy użyciu C++" %}}
 
- Aby przeanalizować plik XLSB, użyjemy
- [Aspose.Cells for C++](https://products.aspose.com/cells/cpp) 
- API, która jest bogatą w funkcje, wydajną i łatwą w użyciu platformą do analizowania dokumentów API for C++. Możesz pobrać jego najnowszą wersję bezpośrednio, po prostu otwórz
- [NuGet](https://www.nuget.org/packages/aspose.cells) 
- menedżer pakietów, wyszukaj
- **Aspose.Cells.Cpp** 
- i zainstaluj. Możesz także użyć następującego polecenia z konsoli Menedżera pakietów.
+ Aby przeanalizować plik XLSB, użyjemy[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) API, która jest bogatą w funkcje, wydajną i łatwą w użyciu platformą do analizowania dokumentów API for C++. Możesz pobrać jego najnowszą wersję bezpośrednio, po prostu otwórz[NuGet](https://www.nuget.org/packages/aspose.cells) menedżer pakietów, wyszukaj**Aspose.Cells.Cpp** i zainstaluj. Możesz także użyć następującego polecenia z konsoli Menedżera pakietów.
 
 {{% blocks/products/pf/agp/code-block title="Komenda" offSpacer="true" %}}
 
@@ -38,9 +32,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% blocks/products/pf/agp/text %}}
 
- Podstawowa analiza dokumentów za pomocą
- [Aspose.Cells for C++](https://products.aspose.com/cells/cpp) 
- Interfejsy API można wykonać za pomocą zaledwie kilku linii kodu. Analizuj tekst i obrazy z plików Microsoft Excel XLS, XLSX, XLSM, XLSB i OpenDocument ODS.
+ Podstawowa analiza dokumentów za pomocą[Aspose.Cells for C++](https://products.aspose.com/cells/cpp)Interfejsy API można wykonać za pomocą zaledwie kilku linii kodu. Analizuj tekst i obrazy z plików Microsoft Excel XLS, XLSX, XLSM, XLSB i OpenDocument ODS.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -108,7 +100,7 @@ Aspose::Cells::Cleanup();
 
 {{< blocks/products/pf/agp/about-file-section >}}
 
-    {{< blocks/products/pf/agp/demobox sectionTitle="Demo online XLSB Parsera na żywo" sectionDescription=" Wyodrębnij tekst i obrazy z dokumentów XLSB, odwiedzając naszą stronę[Witryna internetowa z prezentacjami na żywo](https://products.aspose.app/cells/parser). Demo na żywo ma następujące zalety" >}}
+    {{< blocks/products/pf/agp/demobox sectionTitle="Demo online XLSB Parsera na żywo" sectionDescription="Wyodrębnij tekst i obrazy z dokumentów XLSB, odwiedzając naszą stronę[Witryna internetowa z prezentacjami na żywo](https://products.aspose.app/cells/parser). Demo na żywo ma następujące zalety" >}}
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Nie ma potrzeby pobierania Aspose API." >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Nie trzeba pisać żadnego kodu." >}}
         {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Po prostu prześlij swoje pliki XLSB." >}}
@@ -129,6 +121,7 @@ Format pliku XLSB określa format pliku binarnego programu Excel, który jest zb
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/parser/ods/" name="ODS" description="Plik arkusza kalkulacyjnego OpenDocument" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/parser/xls/" name="XLS" description="Format binarny Excela" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/parser/xlsm/" name="XLSM" description="Plik arkusza kalkulacyjnego" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/parser/xlsx/" name="XLSX" description="Plik Excela OOXML" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

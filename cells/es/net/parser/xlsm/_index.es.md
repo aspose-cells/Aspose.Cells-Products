@@ -12,13 +12,8 @@ keywords: [C# Aspose.Cells., c# Extract text and images from XLSM file., c# How 
 
 {{% blocks/products/pf/agp/content h2="Cómo analizar el archivo XLSM usando C#" %}}
 
- Para analizar el archivo XLSM, usaremos
- [Aspose.Cells for .NET](https://products.aspose.com/cells/net) 
- API, que es una manipulación de documentos API rica en funciones, potente y fácil de usar para la plataforma C#. Abierto
- [NuGet](https://www.nuget.org/packages/aspose.cells) 
- administrador de paquetes, buscar
- **Aspose.Cells** 
- e instalar. También puede utilizar el siguiente comando desde la Consola del Administrador de paquetes.
+ Para analizar el archivo XLSM, usaremos[Aspose.Cells for .NET](https://products.aspose.com/cells/net) API, que es una manipulación de documentos API rica en funciones, potente y fácil de usar para la plataforma C#. Abierto[NuGet](https://www.nuget.org/packages/aspose.cells) administrador de paquetes, buscar
+ **Aspose.Cells** e instalar. También puede utilizar el siguiente comando desde la Consola del Administrador de paquetes.
 
 {{% blocks/products/pf/agp/code-block title="Dominio" offSpacer="true" %}}
 
@@ -38,9 +33,7 @@ PM> Install-Package Aspose.Cells
 
 {{% blocks/products/pf/agp/text %}}
 
- Un documento básico que analiza con
- [Aspose.Cells for .NET](https://products.aspose.com/cells/net) 
- Las API se pueden crear con solo unas pocas líneas de código. Analice texto e imágenes de archivos Microsoft Excel XLS, XLSX, XLSM, XLSB y OpenDocument ODS.
+ Un documento básico que analiza con[Aspose.Cells for .NET](https://products.aspose.com/cells/net)Las API se pueden crear con solo unas pocas líneas de código. Analice texto e imágenes de archivos Microsoft Excel XLS, XLSX, XLSM, XLSB y OpenDocument ODS.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -56,7 +49,7 @@ PM> Install-Package Aspose.Cells
 
 {{% blocks/products/pf/agp/text %}}
 
- Nuestras API son compatibles con todas las plataformas y sistemas operativos principales. Antes de ejecutar el código siguiente, asegúrese de tener los siguientes requisitos previos en su sistema.
+Nuestras API son compatibles con todas las plataformas y sistemas operativos principales. Antes de ejecutar el código siguiente, asegúrese de tener los siguientes requisitos previos en su sistema.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -115,11 +108,11 @@ PM> Install-Package Aspose.Cells
 
     {{< blocks/products/pf/agp/about-file-section >}}
 
-        {{< blocks/products/pf/agp/demobox sectionTitle="Demostraciones en vivo del analizador en línea XLSM" sectionDescription=" Extraiga texto e imágenes de XLSM documentos ahora mismo visitando nuestro[Sitio web de demostraciones en vivo](https://products.aspose.app/cells/parser). La demostración en vivo tiene los siguientes beneficios" >}}
+        {{< blocks/products/pf/agp/demobox sectionTitle="Demostraciones en vivo del analizador en línea XLSM" sectionDescription="Extraiga texto e imágenes de XLSM documentos ahora mismo visitando nuestro[Sitio web de demostraciones en vivo](https://products.aspose.app/cells/parser). La demostración en vivo tiene los siguientes beneficios" >}}
             {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" No es necesario descargar Aspose API." >}}
             {{< blocks/products/pf/agp/democard icon="fa-edit" text=" No es necesario escribir ningún código." >}}
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Simplemente cargue sus archivos XLSM." >}}
-            {{< blocks/products/pf/agp/democard icon="fa-download" text=" Se analizará instantáneamente." >}}
+            {{< blocks/products/pf/agp/democard icon="fa-download" text=" Se analizará al instante." >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLSM" readMoreLink="https://docs.fileformat.com/spreadsheet/xlsm/" >}}
 Los archivos con extensión XLSM son un tipo de archivos de hoja de cálculo que admiten macros. Desde el punto de vista de la aplicación, una macro es un conjunto de instrucciones que se utilizan para automatizar procesos. Una macro se utiliza para registrar los pasos que se realizan repetidamente y facilita la realización de las acciones ejecutando la macro nuevamente. Las macros se programan con Visual Basic para Aplicaciones (VBA) de Microsoft desde el libro de Excel utilizando el Editor de Visual Basic y se pueden ejecutar/depurar directamente desde allí.
@@ -135,6 +128,7 @@ Los archivos con extensión XLSM son un tipo de archivos de hoja de cálculo que
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/parser/ods/" name="ODS" description="Archivo de hoja de cálculo OpenDocument" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/parser/xls/" name="XLS" description="Formato binario de Excel" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/parser/xlsb/" name="XLSB" description="Archivo de libro de Excel binario" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/parser/xlsx/" name="XLSX" description="Archivo Excel OOXML" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

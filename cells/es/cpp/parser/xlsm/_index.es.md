@@ -1,5 +1,5 @@
 ---
-title:  Extraiga texto e imágenes del documento XLSM a través de C++
+title: Extraiga texto e imágenes del documento XLSM a través de C++
 weight: 570
 description: Código de ejemplo C++ para extraer texto e imágenes del archivo XLSM en el entorno de ejecución C++ para Windows de 32 bits, Windows de 64 bits y Linux de 64 bits.
 keywords: [C++ Aspose.Cells., C++ Extract text and images from XLSM file., C++ How to Parse XLSM File., C++ Extract text from XLSM file., Extract images from XLSM file using C++]
@@ -12,13 +12,7 @@ keywords: [C++ Aspose.Cells., C++ Extract text and images from XLSM file., C++ H
 
 {{% blocks/products/pf/agp/content h2="Cómo analizar el archivo XLSM usando C++" %}}
 
- Para analizar el archivo XLSM, usaremos
- [Aspose.Cells for C++](https://products.aspose.com/cells/cpp) 
- API, que es una plataforma de análisis de documentos API for C++ rica en funciones, potente y fácil de usar. Puede descargar su última versión directamente, simplemente abra
- [NuGet](https://www.nuget.org/packages/aspose.cells) 
- administrador de paquetes, buscar
- **Aspose.Cells.Cpp** 
- e instalar. También puede utilizar el siguiente comando desde la Consola del Administrador de paquetes.
+ Para analizar el archivo XLSM, usaremos[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) API, que es una plataforma de análisis de documentos API for C++ rica en funciones, potente y fácil de usar. Puede descargar su última versión directamente, simplemente abra[NuGet](https://www.nuget.org/packages/aspose.cells) administrador de paquetes, buscar**Aspose.Cells.Cpp** e instalar. También puede utilizar el siguiente comando desde la Consola del Administrador de paquetes.
 
 {{% blocks/products/pf/agp/code-block title="Dominio" offSpacer="true" %}}
 
@@ -38,9 +32,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% blocks/products/pf/agp/text %}}
 
- Un documento básico que analiza con
- [Aspose.Cells for C++](https://products.aspose.com/cells/cpp) 
- Las API se pueden crear con solo unas pocas líneas de código. Analice texto e imágenes de archivos Microsoft Excel XLS, XLSX, XLSM, XLSB y OpenDocument ODS.
+ Un documento básico que analiza con[Aspose.Cells for C++](https://products.aspose.com/cells/cpp)Las API se pueden crear con solo unas pocas líneas de código. Analice texto e imágenes de archivos Microsoft Excel XLS, XLSX, XLSM, XLSB y OpenDocument ODS.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -108,11 +100,11 @@ Aspose::Cells::Cleanup();
 
 {{< blocks/products/pf/agp/about-file-section >}}
 
-    {{< blocks/products/pf/agp/demobox sectionTitle="Demostraciones en vivo del analizador en línea XLSM" sectionDescription=" Extraiga texto e imágenes de XLSM documentos ahora mismo visitando nuestro[Sitio web de demostraciones en vivo](https://products.aspose.app/cells/parser). La demostración en vivo tiene los siguientes beneficios" >}}
+    {{< blocks/products/pf/agp/demobox sectionTitle="Demostraciones en vivo del analizador en línea XLSM" sectionDescription="Extraiga texto e imágenes de XLSM documentos ahora mismo visitando nuestro[Sitio web de demostraciones en vivo](https://products.aspose.app/cells/parser). La demostración en vivo tiene los siguientes beneficios" >}}
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" No es necesario descargar Aspose API." >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" No es necesario escribir ningún código." >}}
         {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Simplemente cargue sus archivos XLSM." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-download" text=" Se analizará instantáneamente." >}}
+        {{< blocks/products/pf/agp/democard icon="fa-download" text=" Se analizará al instante." >}}
     {{< /blocks/products/pf/agp/demobox >}}
 
     {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLSM" readMoreLink="https://docs.fileformat.com/spreadsheet/xlsm/" >}}
@@ -129,6 +121,7 @@ Los archivos con extensión XLSM son un tipo de archivos de hoja de cálculo que
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/parser/ods/" name="ODS" description="Archivo de hoja de cálculo OpenDocument" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/parser/xls/" name="XLS" description="Formato binario de Excel" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/parser/xlsb/" name="XLSB" description="Archivo de libro de Excel binario" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/parser/xlsx/" name="XLSX" description="Archivo Excel OOXML" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

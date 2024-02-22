@@ -12,11 +12,7 @@ keywords: [Java Aspose.Cells., Java Search and replace text in XLSM file., Java 
 
 {{% blocks/products/pf/agp/content h2="XLSM Dosyasını Java Kullanarak Düzenleme" %}}
 
- XLSM dosyasını düzenlemek için şunu kullanacağız:
- [Aspose.Cells for Java](https://products.aspose.com/cells/java) 
-Zengin özelliklere sahip, güçlü ve kullanımı kolay bir redaksiyon API for Java platformu olan API. En son sürümünü doğrudan adresinden indirebilirsiniz.
- [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) 
- ve aşağıdaki yapılandırmaları pom.xml dosyasına ekleyerek Maven tabanlı projenize kurun.
+ XLSM dosyasını düzenlemek için şunu kullanacağız:[Aspose.Cells for Java](https://products.aspose.com/cells/java) Zengin özelliklere sahip, güçlü ve kullanımı kolay bir redaksiyon API for Java platformu olan API. En son sürümünü doğrudan adresinden indirebilirsiniz.[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) ve aşağıdaki yapılandırmaları pom.xml dosyasına ekleyerek Maven tabanlı projenize kurun.
 
 {{% blocks/products/pf/agp/code-block title="Depo" offSpacer="true" %}}
 
@@ -54,9 +50,7 @@ Zengin özelliklere sahip, güçlü ve kullanımı kolay bir redaksiyon API for 
 
 {{% blocks/products/pf/agp/text %}}
 
- Temel bir belge araması ve içerikteki, yorumlardaki veya meta verilerdeki metni şununla değiştirin:
- [Aspose.Cells for Java](https://products.aspose.com/cells/java) 
- API'ler yalnızca birkaç satır kodla yapılabilir.
+ Temel bir belge araması ve içerikteki, yorumlardaki veya meta verilerdeki metni şununla değiştirin:[Aspose.Cells for Java](https://products.aspose.com/cells/java) API'ler yalnızca birkaç satır kodla yapılabilir.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -78,7 +72,7 @@ Zengin özelliklere sahip, güçlü ve kullanımı kolay bir redaksiyon API for 
 
 {{% /blocks/products/pf/agp/text %}}
 
--  Microsoft Windows veya JSP/JSF Uygulaması ve Masaüstü Uygulamaları için Java Çalışma Zamanı Ortamı ile uyumlu bir işletim sistemi.
+- Microsoft Windows veya JSP/JSF Uygulaması ve Masaüstü Uygulamaları için Java Çalışma Zamanı Ortamı ile uyumlu bir işletim sistemi.
 -  Aspose.Cells for Java'in en son sürümünü doğrudan şu adresten edinin:
  [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells)  .
 
@@ -140,11 +134,11 @@ workbook.save(dataDir + "output.xlsm");
 
 {{< blocks/products/pf/agp/about-file-section >}}
 
-    {{< blocks/products/pf/agp/demobox sectionTitle="Çevrimiçi XLSM Redaksiyon Canlı Demoları" sectionDescription=" Şu anda sayfamızı ziyaret ederek XLSM belgedeki içerik, yorum veya meta verilerdeki metni arayın ve değiştirin.[Canlı Demolar web sitesi](https://products.aspose.app/cells/redaction). Canlı demo aşağıdaki avantajlara sahiptir" >}}
+    {{< blocks/products/pf/agp/demobox sectionTitle="Çevrimiçi XLSM Redaksiyon Canlı Demoları" sectionDescription=" XLSM belgedeki içerik, yorum veya meta verilerdeki metni hemen şimdi ziyaret ederek arayın ve değiştirin.[Canlı Demolar web sitesi](https://products.aspose.app/cells/redaction). Canlı demo aşağıdaki avantajlara sahiptir" >}}
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Aspose API\'i indirmenize gerek yok." >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Herhangi bir kod yazmaya gerek yok." >}}
         {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" XLSM dosyalarınızı yüklemeniz yeterli." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-download" text="Anında düzenlenecektir." >}}
+        {{< blocks/products/pf/agp/democard icon="fa-download" text=" Anında düzenlenecektir." >}}
     {{< /blocks/products/pf/agp/demobox >}}
 
     {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLSM" readMoreLink="https://docs.fileformat.com/spreadsheet/xlsm/" >}}
@@ -161,6 +155,7 @@ XLSM uzantılı dosyalar, Makroları destekleyen bir Elektronik Tablo dosyası t
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/redaction/ods/" name="ODS" description="OpenDocument Elektronik Tablo Dosyası" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/redaction/xls/" name="XLS" description="Excel İkili Formatı" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/redaction/xlsb/" name="XLSB" description="İkili Excel Çalışma Kitabı Dosyası" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/redaction/xlsx/" name="XLSX" description="OOXML Excel Dosyası" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

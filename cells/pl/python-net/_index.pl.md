@@ -13,7 +13,7 @@ keywords: [Python Aspose.Cells Create repair merge convert JSON Excel XML PDF HT
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
-Aspose.Cells for Python przez .Net to szybki i niezawodny numer API do zadań związanych z przetwarzaniem arkuszy kalkulacyjnych. Programiści mogą tworzyć proste lub złożone arkusze kalkulacyjne, manipulować i wyodrębniać informacje z plików Excel. API odczytuje wiele formatów Excela i może renderować arkusze do XPS, PDF, MHTML, HTML, zwykłego tekstu, obrazów i innych. Jest to najlepsze rozwiązanie do automatyzacji raportów Excela przy użyciu Pythona.
+ Aspose.Cells for Python przez .Net to szybki i niezawodny numer API do zadań związanych z przetwarzaniem arkuszy kalkulacyjnych. Programiści mogą tworzyć proste lub złożone arkusze kalkulacyjne, manipulować i wyodrębniać informacje z plików Excel. API odczytuje wiele formatów Excela i może renderować arkusze do XPS, PDF, MHTML, HTML, zwykłego tekstu, obrazów i innych. Jest to najlepsze rozwiązanie do automatyzacji raportów Excela przy użyciu Pythona.
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
@@ -38,7 +38,7 @@ Aspose.Cells for Python przez .Net to szybki i niezawodny numer API do zadań zw
  Zestaw wyników
     </li>
     <li>
-Kolekcje
+ Kolekcje
     </li>
    </ul>
    <header>
@@ -76,7 +76,7 @@ Kolekcje
  Utwórz wykresy
     </li>
     <li>
- Podsumować
+Podsumować
     </li>
     <li>
  Inteligentne znaczniki
@@ -159,7 +159,7 @@ Kolekcje
      <b>
  Microsoft Excel:
      </b>
- XLS, XLSX, XLSB, XLTX, XLTM, XLSM, XML
+ XLS, XLSX, XLSB, XLT, XLTX, XLTM, XLSM, XML, OTS
     </li>
     <li>
      <b>
@@ -171,13 +171,25 @@ Kolekcje
      <b>
  Tekst:
      </b>
-     CSV, TSV, TXT
+     CSV, TSV, JSON
     </li>
     <li>
      <b>
  Sieć:
      </b>
      HTML, MHTML
+    </li>
+    <li>
+     <b>
+      Numbers:
+     </b>
+ Dokumenty aplikacji pakietu biurowego Apple iWork Numbers
+    </li>
+    <li>
+     <b>
+ Inni:
+     </b>
+ SXC, FODS, EPUB
     </li>
    </ul>
   </div>
@@ -186,7 +198,7 @@ Kolekcje
    <header>
     <i class="fa fa-mail-forward">
     </i>
- Tylko wyjście
+Tylko wyjście
    </header>
    <ul>
     <li>
@@ -197,9 +209,21 @@ Kolekcje
     </li>
     <li>
      <b>
+ Wymiana danych:
+     </b>
+     DIF
+    </li>    
+    <li>
+     <b>
  Obrazy:
      </b>
-     JPEG, PNG, BMP, SVG, EMF
+     JPEG, PNG, BMP, SVG, TIFF, EMF, GIF
+    </li>
+    <li>
+     <b>
+ Inni:
+     </b>
+ MARKDOWN, SQL, XTHML
     </li>
    </ul>
   </div>
@@ -306,7 +330,7 @@ Kolekcje
     <em class="fa fa-object-ungroup ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-Dodaj lub usuń grupowanie wierszy i kolumn
+ Dodaj lub usuń grupowanie wierszy i kolumn
     </p>
    </div>
    <div class="col-lg-4">
@@ -416,7 +440,7 @@ Dodaj lub usuń grupowanie wierszy i kolumn
  Konwersja wielu formatów
     </h2>
     <p>
- Python Biblioteka Excel umożliwia konwersję plików Excel do PDF, XPS &amp; HTML formatów. Niezawodna konwersja numeru API sprawia, że jest to idealne rozwiązanie dla firm, które potrzebują wymiany plików w standardowych formatach branżowych.
+Python Biblioteka Excel umożliwia konwersję plików Excel do PDF, XPS &amp; HTML formatów. Niezawodna konwersja numeru API sprawia, że jest to idealne rozwiązanie dla firm, które potrzebują wymiany plików w standardowych formatach branżowych.
     </p>
     <div class="codeblock" id="code">
      <h3>
@@ -493,7 +517,7 @@ wk.save("houtput.html", SaveFormat.HTML);</code></pre>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-Dostosowywanie wykresów
+ Dostosowywanie wykresów
     </h2>
     <p>
 Aspose.Cells for Python via .NET zapewnia pełną obsługę wykresów. Można łatwo dodawać standardowe i niestandardowe wykresy lub dynamicznie ustawiać dane wykresów, aby odświeżyć wykres za pomocą tej biblioteki Pythona.
@@ -527,7 +551,7 @@ Aspose.Cells for Python via .NET zapewnia pełną obsługę wykresów. Można ł
 {{< blocks/products/pf/slr-tab tabTitle="Wsparcie produktu" tabId="support" >}}
 {{< blocks/products/pf/slr-element name="Bezpłatne wsparcie" href="https://forum.aspose.com/c/cells/9" >}}
 {{< blocks/products/pf/slr-element name="Płatne wsparcie" href="https://helpdesk.aspose.com/" >}}
-{{< blocks/products/pf/slr-element name="Blog" href="https://blog.aspose.com/category/cells/" >}}
+{{< blocks/products/pf/slr-element name="Bloga" href="https://blog.aspose.com/category/cells/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="Dlaczego Aspose.Cells for Python via .NET?" tabId="success-stories" >}}

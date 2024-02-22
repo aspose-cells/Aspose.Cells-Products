@@ -12,13 +12,7 @@ keywords: [C# Aspose.Cells., c# Search and replace text in XLSM file., c# redact
 
 {{% blocks/products/pf/agp/content h2="Hoe u een XLSM-bestand kunt redigeren met behulp van C#" %}}
 
- Om het bestand XLSM te redigeren, gebruiken we
- [Aspose.Cells for .NET](https://products.aspose.com/cells/net) 
- API, een veelzijdige, krachtige en gebruiksvriendelijke documentmanipulatie API voor het C#-platform. Open
- [NuGet](https://www.nuget.org/packages/aspose.cells) 
- pakketbeheerder, zoek naar
- **Aspose.Cells** 
- en installeren. U kunt ook de volgende opdracht gebruiken vanuit de Package Manager Console.
+ Om het bestand XLSM te redigeren, gebruiken we[Aspose.Cells for .NET](https://products.aspose.com/cells/net) API, een veelzijdige, krachtige en gebruiksvriendelijke documentmanipulatie API voor het C#-platform. Open[NuGet](https://www.nuget.org/packages/aspose.cells) pakketbeheerder, zoek naar**Aspose.Cells** en installeren. U kunt ook de volgende opdracht gebruiken vanuit de Package Manager Console.
 
 {{% blocks/products/pf/agp/code-block title="Commando" offSpacer="true" %}}
 
@@ -38,9 +32,7 @@ PM> Install-Package Aspose.Cells
 
 {{% blocks/products/pf/agp/text %}}
 
- Een basisdocument zoeken en tekst in inhoud, opmerkingen of metagegevens vervangen
- [Aspose.Cells for .NET](https://products.aspose.com/cells/net) 
- API's kunnen met slechts enkele regels code worden uitgevoerd.
+ Een basisdocument zoeken en tekst in inhoud, opmerkingen of metagegevens vervangen[Aspose.Cells for .NET](https://products.aspose.com/cells/net) API's kunnen met slechts enkele regels code worden uitgevoerd.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -57,7 +49,7 @@ PM> Install-Package Aspose.Cells
 
 {{% blocks/products/pf/agp/text %}}
 
- Onze API's worden ondersteund op alle belangrijke platforms en besturingssystemen. Voordat u de onderstaande code uitvoert, moet u ervoor zorgen dat uw systeem aan de volgende vereisten voldoet.
+Onze API's worden ondersteund op alle belangrijke platforms en besturingssystemen. Voordat u de onderstaande code uitvoert, moet u ervoor zorgen dat uw systeem aan de volgende vereisten voldoet.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -122,7 +114,7 @@ wb.Save("e:\test2\output.xlsm");
             {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" U hoeft Aspose API niet te downloaden." >}}
             {{< blocks/products/pf/agp/democard icon="fa-edit" text=" U hoeft geen code te schrijven." >}}
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Upload gewoon uw XLSM-bestanden." >}}
-            {{< blocks/products/pf/agp/democard icon="fa-download" text="Het wordt onmiddellijk geredigeerd." >}}
+            {{< blocks/products/pf/agp/democard icon="fa-download" text=" Het wordt onmiddellijk geredigeerd." >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLSM" readMoreLink="https://docs.fileformat.com/spreadsheet/xlsm/" >}}
 Bestanden met de extensie XLSM zijn een soort spreadsheetbestanden die macro's ondersteunen. Vanuit toepassingsoogpunt is een macro een reeks instructies die worden gebruikt voor het automatiseren van processen. Een macro wordt gebruikt om de stappen vast te leggen die herhaaldelijk worden uitgevoerd en vergemakkelijkt het uitvoeren van de acties door de macro opnieuw uit te voeren. Macro's worden geprogrammeerd met Visual Basic for Applications (VBA) van Microsoft vanuit de Excel-werkmap met behulp van de Visual Basic Editor en kunnen vanaf daar rechtstreeks worden uitgevoerd/debuggen.
@@ -138,6 +130,7 @@ Bestanden met de extensie XLSM zijn een soort spreadsheetbestanden die macro's o
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/redaction/ods/" name="ODS" description="OpenDocument-spreadsheetbestand" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/redaction/xls/" name="XLS" description="Excel binair formaat" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/redaction/xlsb/" name="XLSB" description="Binair Excel-werkmapbestand" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/redaction/xlsx/" name="XLSX" description="OOXML Excel-bestand" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

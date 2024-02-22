@@ -12,13 +12,7 @@ keywords: [C# Aspose.Cells., c# Search and replace text in XLSB file., c# redact
 
 {{% blocks/products/pf/agp/content h2="Comment expurger le fichier XLSB à l\'aide de C#" %}}
 
- Afin de rédiger le fichier XLSB, nous utiliserons
- [Aspose.Cells for .NET](https://products.aspose.com/cells/net) 
- API qui est un outil de manipulation de documents API riche en fonctionnalités, puissant et facile à utiliser pour la plate-forme C#. Ouvrir
- [NuGet](https://www.nuget.org/packages/aspose.cells) 
- gestionnaire de paquets, recherchez
- **Aspose.Cells** 
- et installer. Vous pouvez également utiliser la commande suivante à partir de la console Package Manager.
+ Afin de rédiger le fichier XLSB, nous utiliserons[Aspose.Cells for .NET](https://products.aspose.com/cells/net) API qui est un outil de manipulation de documents API riche en fonctionnalités, puissant et facile à utiliser pour la plate-forme C#. Ouvrir[NuGet](https://www.nuget.org/packages/aspose.cells) gestionnaire de paquets, recherchez**Aspose.Cells** et installer. Vous pouvez également utiliser la commande suivante à partir de la console Package Manager.
 
 {{% blocks/products/pf/agp/code-block title="Commande" offSpacer="true" %}}
 
@@ -38,9 +32,7 @@ PM> Install-Package Aspose.Cells
 
 {{% blocks/products/pf/agp/text %}}
 
- Un document de base recherche et remplace le texte dans le contenu, les commentaires ou les métadonnées par
- [Aspose.Cells for .NET](https://products.aspose.com/cells/net) 
- Les API peuvent être réalisées avec seulement quelques lignes de code.
+ Un document de base recherche et remplace le texte dans le contenu, les commentaires ou les métadonnées par[Aspose.Cells for .NET](https://products.aspose.com/cells/net) Les API peuvent être réalisées avec seulement quelques lignes de code.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -57,7 +49,7 @@ PM> Install-Package Aspose.Cells
 
 {{% blocks/products/pf/agp/text %}}
 
- Nos API sont prises en charge sur toutes les principales plates-formes et systèmes d'exploitation. Avant d'exécuter le code ci-dessous, assurez-vous que vous disposez des conditions préalables suivantes sur votre système.
+Nos API sont prises en charge sur toutes les principales plates-formes et systèmes d'exploitation. Avant d'exécuter le code ci-dessous, assurez-vous que vous disposez des conditions préalables suivantes sur votre système.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -122,7 +114,7 @@ wb.Save("e:\test2\output.xlsb");
             {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Pas besoin de télécharger le Aspose API." >}}
             {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Pas besoin d\'écrire de code." >}}
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Téléchargez simplement vos fichiers XLSB." >}}
-            {{< blocks/products/pf/agp/democard icon="fa-download" text="Il sera expurgé instantanément." >}}
+            {{< blocks/products/pf/agp/democard icon="fa-download" text=" Il sera expurgé instantanément." >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLSB" readMoreLink="https://docs.fileformat.com/spreadsheet/xlsb/" >}}
 Le format de fichier XLSB spécifie le format de fichier binaire Excel, qui est un ensemble d'enregistrements et de structures spécifiant le contenu du classeur Excel. Le contenu peut inclure des tableaux de nombres non structurés ou semi-structurés, du texte, ou à la fois des nombres et du texte, des formules, des connexions de données externes, des graphiques et des images. Contrairement à XLSX (qui est basé sur le format de fichier Open XML), le XLSB représente un fichier de classeur Excel binaire. Les fichiers XLSB peuvent être lus et écrits plus rapidement, ce qui les rend utiles pour travailler avec des fichiers volumineux. XLSB est rarement utilisé pour stocker des classeurs, car XLSX (et auparavant XLS) sont les formats de fichiers sélectionnés par les utilisateurs les plus courants pour enregistrer des classeurs. Il peut être ouvert par Microsoft Office 2007 et supérieur.
@@ -138,6 +130,7 @@ Le format de fichier XLSB spécifie le format de fichier binaire Excel, qui est 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/redaction/ods/" name="ODS" description="Fichier de feuille de calcul OpenDocument" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/redaction/xls/" name="XLS" description="Format binaire Excel" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/redaction/xlsm/" name="XLSM" description="Fichier de feuille de calcul" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/redaction/xlsx/" name="XLSX" description="Fichier Excel OOXML" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

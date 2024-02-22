@@ -12,13 +12,8 @@ keywords: [C# Aspose.Cells., c# Extract text and images from XLSM file., c# How 
 
 {{% blocks/products/pf/agp/content h2="Как разобрать файл XLSM с помощью C#" %}}
 
- Чтобы проанализировать файл XLSM, мы будем использовать
- [Aspose.Cells for .NET](https://products.aspose.com/cells/net) 
- API — многофункциональное, мощное и простое в использовании средство для работы с документами API для платформы C#. Открыть
- [NuGet](https://www.nuget.org/packages/aspose.cells) 
- менеджер пакетов, найдите
- **Aspose.Cells** 
- и установить. Вы также можете использовать следующую команду из консоли диспетчера пакетов.
+ Чтобы проанализировать файл XLSM, мы будем использовать[Aspose.Cells for .NET](https://products.aspose.com/cells/net) API — многофункциональное, мощное и простое в использовании средство для работы с документами API для платформы C#. Открыть[NuGet](https://www.nuget.org/packages/aspose.cells) менеджер пакетов, найдите
+ **Aspose.Cells** и установить. Вы также можете использовать следующую команду из консоли диспетчера пакетов.
 
 {{% blocks/products/pf/agp/code-block title="Команда" offSpacer="true" %}}
 
@@ -38,9 +33,7 @@ PM> Install-Package Aspose.Cells
 
 {{% blocks/products/pf/agp/text %}}
 
- Базовый анализ документа с помощью
- [Aspose.Cells for .NET](https://products.aspose.com/cells/net) 
- API можно создать с помощью всего нескольких строк кода. Анализируйте текст и изображения из файлов Excel Microsoft, XLS, XLSX, XLSM, XLSB и OpenDocument ODS.
+ Базовый анализ документа с помощью[Aspose.Cells for .NET](https://products.aspose.com/cells/net)API можно создать с помощью всего нескольких строк кода. Анализируйте текст и изображения из файлов Excel Microsoft, XLS, XLSX, XLSM, XLSB и OpenDocument ODS.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -56,7 +49,7 @@ PM> Install-Package Aspose.Cells
 
 {{% blocks/products/pf/agp/text %}}
 
- Наши API поддерживаются на всех основных платформах и операционных системах. Прежде чем выполнять приведенный ниже код, убедитесь, что в вашей системе имеются следующие необходимые условия.
+Наши API поддерживаются на всех основных платформах и операционных системах. Прежде чем выполнять приведенный ниже код, убедитесь, что в вашей системе имеются следующие необходимые условия.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -115,7 +108,7 @@ PM> Install-Package Aspose.Cells
 
     {{< blocks/products/pf/agp/about-file-section >}}
 
-        {{< blocks/products/pf/agp/demobox sectionTitle="Онлайн XLSM Живые демо-версии парсера" sectionDescription=" Извлеките текст и изображения из документов XLSM прямо сейчас, посетив наш[Веб-сайт живых демонстраций](https://products.aspose.app/cells/parser). Живая демонстрация имеет следующие преимущества" >}}
+        {{< blocks/products/pf/agp/demobox sectionTitle="Онлайн XLSM Живые демо-версии парсера" sectionDescription="Извлеките текст и изображения из документов XLSM прямо сейчас, посетив наш[Веб-сайт живых демонстраций](https://products.aspose.app/cells/parser). Живая демонстрация имеет следующие преимущества" >}}
             {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Не нужно скачивать Aspose API." >}}
             {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Нет необходимости писать какой-либо код." >}}
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Просто загрузите файлы XLSM." >}}
@@ -135,6 +128,7 @@ PM> Install-Package Aspose.Cells
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/parser/ods/" name="ODS" description="Файл электронной таблицы OpenDocument" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/parser/xls/" name="XLS" description="Двоичный формат Excel" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/parser/xlsb/" name="XLSB" description="Двоичный файл книги Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/parser/xlsx/" name="XLSX" description="OOXML-файл Excel" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

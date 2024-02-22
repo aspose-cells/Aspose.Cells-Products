@@ -1,11 +1,11 @@
 ---
-title: C++ Pemrograman Lembar Bentang Excel API - Aspose
+title: C++ perpustakaan Excel - Aspose.Cells
 weight: 7140
 description: Pustaka Aspose.Cells for C++ untuk membuat, memperbaiki, menggabungkan, mengurai, dan mengonversi file excel. Ubah excel menjadi PDF, JSON, XML, TSV dan seterusnya.
-keywords: [C++ Aspose.Cells Create repair parse merge convert JSON Excel XML PDF HTML TSV SQL ODS CSV TXT PNG JPEG and more formats]
+keywords: [C++ library execl Aspose.Cells Create repair parse merge convert JSON Excel XML PDF HTML TSV SQL ODS CSV TXT PNG JPEG and more formats]
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="C++ API Lembar Bentang Excel" h2="Membuat, Membaca, Menulis, dan Mengurai spreadsheet tanpa ketergantungan Microsoft Excel apa pun dalam aplikasi C++ yang berfungsi penuh." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/headers/aspose_cells-for-cpp.svg" pfName="Aspose.Cells" subTitlepfName="for C++" downloadUrl="https://downloads.aspose.com/cells/cpp" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="C++ perpustakaan Excel - Aspose.Cells" h2="Membuat, Membaca, Menulis, dan Mengurai spreadsheet tanpa ketergantungan Microsoft Excel apa pun dalam aplikasi C++ yang berfungsi penuh." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/headers/aspose_cells-for-cpp.svg" pfName="Aspose.Cells" subTitlepfName="for C++" downloadUrl="https://downloads.aspose.com/cells/cpp" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells" subTitlepfName="for C++" >}}
 
@@ -13,7 +13,7 @@ keywords: [C++ Aspose.Cells Create repair parse merge convert JSON Excel XML PDF
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
- Aspose.Cells for C++ adalah C++ API asli untuk manipulasi Spreadsheet. Aplikasi dapat melakukan fungsi seperti membuat, mengonversi, dan mengedit Properti Bawaan dan Kustom, Tema, Gaya dan Pemformatan, Validasi Data, Pemformatan Bersyarat, Membaca, Menulis dan Menghitung Rumus, Mengelompokkan Baris dan Kolom, dan banyak lagi pada spreadsheet, tanpa bergantung pada Otomatisasi Office atau Microsoft Unggul. API mendukung format spreadsheet yang paling umum digunakan seperti XLS, XLSX, XLSM dan XLSB.
+Pustaka Aspose.Cells C++ adalah pustaka C++ asli untuk manipulasi Spreadsheet. Aplikasi dapat melakukan fungsi seperti membuat, mengonversi, dan mengedit Properti Bawaan dan Kustom, Tema, Gaya dan Pemformatan, Validasi Data, Pemformatan Bersyarat, Membaca, Menulis dan Menghitung Rumus, Mengelompokkan Baris dan Kolom, dan banyak lagi pada spreadsheet, tanpa bergantung pada Otomatisasi Office atau Microsoft Unggul. API mendukung format spreadsheet yang paling umum (seperti XLS, XLSX, XLSM, dan XLSB) serta jenis format file lainnya (seperti PDF, XPS) dan format gambar yang paling umum (seperti JPEG, 0761 123481, BMP, TIFF , GIF, EMF, SVG).
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
@@ -41,7 +41,7 @@ keywords: [C++ Aspose.Cells Create repair parse merge convert JSON Excel XML PDF
  Tabel pivot
     </li>
     <li>
-Tabel
+ Tabel
     </li>
     <li>
  Grafik
@@ -66,7 +66,7 @@ Tabel
    </header>
    <ul>
     <li>
- Muat/Simpan Spreadsheet
+Muat/Simpan Spreadsheet
     </li>
     <li>
  Manipulasi data
@@ -168,7 +168,7 @@ Tabel
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Format File yang Didukung" description=" Aspose.Cells for C++ mendukung spreadsheet yang paling umum digunakan[format file](https://docs.aspose.com/cells/cpp/supported-file-formats/)." >}}
+{{< blocks/products/pf/carousel-item h3="Format File yang Didukung" description=" Pustaka Aspose.Cells C++ mendukung spreadsheet yang paling umum digunakan[format file](https://docs.aspose.com/cells/cpp/supported-file-formats/)." >}}
 <div class="diagram1 d2 d1-cplus">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -182,25 +182,37 @@ Tabel
      <b>
  Microsoft Unggul:
      </b>
- XLS, XLSX, XLSB, XLT, XLTX, XLTM, XLSM, XML
+ XLS, XLSX, XLSB, XLT, XLTX, XLTM, XLSM, XML, OTS
+    </li>
+    <li>
+     <b>
+ Kantor terbuka:
+     </b>
+     ODS
     </li>
     <li>
      <b>
  Teks:
      </b>
-     CSV, TSV
+     CSV, TSV, JSON
     </li>
     <li>
-     <strong>
- Buka Dokumen:
-     </strong>
-     ODS
-    </li>
-    <li>
-     <strong>
- Yang lain:
-     </strong>
+     <b>
+ jaringan:
+     </b>
      HTML, MHTML
+    </li>
+    <li>
+     <b>
+      Numbers:
+     </b>
+ Dokumen aplikasi iWork office suite Numbers Apple
+    </li>
+    <li>
+     <b>
+ Yang lain:
+     </b>
+ SXC, FODS, EPUB
     </li>
    </ul>
   </div>
@@ -209,26 +221,32 @@ Tabel
    <header>
     <i class="fa fa-mail-forward">
     </i>
- Keluaran Saja
+Keluaran Saja
    </header>
    <ul>
     <li>
      <b>
- Unggul:
+ Tata Letak Tetap:
      </b>
-     XLSM, XLTX, XLTM, XLAM
+ PDF, PDF/A, XPS
     </li>
     <li>
      <b>
- Tata Letak Tetap:
+ Pertukaran Data:
      </b>
-     PDF, XPS
-    </li>
+     DIF
+    </li>    
     <li>
      <b>
  Gambar-gambar:
      </b>
-     JPEG, PNG, BMP, GIF, EMF, SVG
+     JPEG, PNG, BMP, SVG, TIFF, EMF, GIF
+    </li>
+    <li>
+     <b>
+ Yang lain:
+     </b>
+ MARKDOWN, SQL, XTHML
     </li>
    </ul>
   </div>
@@ -264,7 +282,7 @@ Tabel
  <div class="row">
   <div class="container">
    <h2 class="pr-ft">
- Fitur Lanjutan C++ Spreadsheet API
+ Fitur lanjutan perpustakaan C++ untuk Excel - Aspose.Cells
    </h2>
    <!-- <p>Unlike similar products from other vendors, Aspose.Cells for C++ not only supports spreadsheet generation and other basic file formatting features, it also supports a number of advanced features. These advanced features make it much easier for developers to manipulate spreadsheet contents and format cells.</p> 
 
@@ -275,7 +293,7 @@ Tabel
     <em class="fa fa-save ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-Muat &amp; menyimpan file Excel menggunakan stream
+ Muat &amp; menyimpan file Excel menggunakan stream
     </p>
    </div>
    <div class="col-lg-4">
@@ -373,7 +391,7 @@ Muat &amp; menyimpan file Excel menggunakan stream
     <em class="fa fa-tags ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Buat aturan pemformatan bersyarat
+Buat aturan pemformatan bersyarat
     </p>
    </div>
    <div class="col-lg-4">
@@ -399,10 +417,34 @@ Muat &amp; menyimpan file Excel menggunakan stream
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
+ Persyaratan sistem
+    </h2>
+ Pustaka Aspose.Cells C++ untuk Excel mendukung sistem operasi dan platform 64-bit atau 32-bit berikut:
+		<table>  
+			<tr>
+					<td style="font-weight: bold; width:400px">Sistem operasi</td>
+					<td style="font-weight: bold; width:400px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Versi</td>
+				</tr>
+		  <tr>
+					<td>Microsoft Windows</td>
+					<td><ul><li>Windowsx86</li><li>Windowsx86_64</li></ul></td>
+		  </tr>
+		  <tr>
+					<td>Linux</td>
+					<td><ul><li>Linuxx86_64</li><li>Linux untuk ARM (aarch64)</li></ul></td>
+				</tr>
+		  <tr>
+					<td>macOS</td>
+					<td><ul><li>macOS 11 atau lebih baru (arm64, x86_64)</li></ul></td>
+				</tr>
+		</table>
+   </div>
+   <div class="col-lg-12">
+    <h2 class="h2title">
  Nol Ketergantungan pada Microsoft Excel
     </h2>
     <p>
-Aspose API sepenuhnya independen dan tidak berafiliasi dengan, atau diizinkan, disponsori, atau disetujui oleh Microsoft Corporation. Aspose.Cells for C++ tidak memerlukan Microsoft Office atau Microsoft Excel untuk diinstal pada mesin agar dapat bekerja dengan format dokumen Excel.
+ Pustaka Aspose.Cells C++ untuk Excel sepenuhnya independen dan tidak berafiliasi dengan, atau diizinkan, disponsori, atau disetujui oleh Microsoft Corporation. Pustaka Aspose.Cells C++ tidak memerlukan Microsoft Office atau Microsoft Excel untuk diinstal pada mesin agar dapat bekerja dengan format dokumen Excel.
     </p>
    </div>
    <div class="col-lg-12">
@@ -410,7 +452,7 @@ Aspose API sepenuhnya independen dan tidak berafiliasi dengan, atau diizinkan, d
  Sederhana &amp; Konversi Format Excel yang Andal
     </h2>
     <p>
- Aspose.Cells for C++ adalah serangkaian API canggih yang menyediakan kemampuan untuk memuat, mengedit, menulis, dan mengonversi format file Excel tanpa mengkhawatirkan detail spesifik format. API memungkinkan Anda mengonversi spreadsheet dari format apa pun yang didukung ke format lain yang didukung hanya dengan dua baris kode. Sesederhana itu!
+Pustaka Aspose.Cells C++ adalah seperangkat API canggih yang menyediakan kemampuan untuk memuat, mengedit, menulis, dan mengonversi format file Excel tanpa mengkhawatirkan detail spesifik format. API memungkinkan Anda mengonversi spreadsheet dari format apa pun yang didukung ke format lain yang didukung hanya dengan dua baris kode. Sesederhana itu!
     </p>
     <div class="codeblock" id="code">
      <h3>
@@ -434,7 +476,7 @@ Aspose API sepenuhnya independen dan tidak berafiliasi dengan, atau diizinkan, d
  Pemformatan Spreadsheet Komprehensif
     </h2>
     <p>
-Aspose.Cells for C++ memberi Anda kendali penuh atas bagaimana Anda ingin menyajikan data Anda ke lembar kerja, dengan menawarkan fitur pemformatan tingkat lanjut. Anda bisa menerapkan pemformatan ke setiap baris, kolom, sel, atau Anda bisa membuat rentang sel dan menerapkan pemformatan ke dalamnya. Anda juga dapat menambahkan teks kaya ke sel, menerapkan batas, mengatur pola latar belakang, atau mengubah aspek gaya terkait font.
+ Pustaka Aspose.Cells C++ memberi Anda kendali penuh atas bagaimana Anda ingin menyajikan data Anda ke lembar kerja, dengan menawarkan fitur pemformatan tingkat lanjut. Anda bisa menerapkan pemformatan ke setiap baris, kolom, sel, atau Anda bisa membuat rentang sel dan menerapkan pemformatan ke dalamnya. Anda juga dapat menambahkan teks kaya ke sel, menerapkan batas, mengatur pola latar belakang, atau mengubah aspek gaya terkait font.
     </p>
    </div>
    <div class="col-lg-12">
@@ -442,7 +484,7 @@ Aspose.Cells for C++ memberi Anda kendali penuh atas bagaimana Anda ingin menyaj
  Visualisasikan Data Dengan Grafik
     </h2>
     <p>
- Aspose.Cells for C++ menawarkan serangkaian API komprehensif untuk secara dinamis membuat semua tipe bagan standar dan kustom yang didukung oleh aplikasi Excel. API juga menyediakan kemampuan untuk memperbarui sumber data untuk bagan yang ada dan menyegarkannya.
+Pustaka Aspose.Cells C++ menawarkan serangkaian API komprehensif untuk secara dinamis membuat semua tipe bagan standar dan kustom yang didukung oleh aplikasi Excel. API juga menyediakan kemampuan untuk memperbarui sumber data untuk bagan yang ada dan menyegarkannya.
     </p>
    </div>
    <div class="col-lg-12">
@@ -450,7 +492,7 @@ Aspose.Cells for C++ memberi Anda kendali penuh atas bagaimana Anda ingin menyaj
  Render Lembar Kerja sebagai Gambar
     </h2>
     <p>
-Pustaka merender dengan fidelitas tertinggi ke Microsoft Excel menggunakan mesin renderingnya sendiri. Ini menawarkan fitur khas seperti merender lembar kerja ke gambar dalam format populer termasuk BMP, PNG, JPEG &amp; EMF. Proses Sheet2Image fleksibel sehingga memungkinkan untuk memilih opsi seperti mengontrol resolusi gambar yang dihasilkan.
+ Pustaka Aspose.Cells C++ dirender dengan fidelitas tertinggi ke Microsoft Excel menggunakan mesin renderingnya sendiri. Ini menawarkan fitur khas seperti merender lembar kerja ke gambar dalam format populer termasuk BMP, TIFF, PNG, JPEG &amp; EMF. Proses Sheet2Image fleksibel sehingga memungkinkan untuk memilih opsi seperti mengontrol resolusi gambar yang dihasilkan.
     </p>
    </div>
    <div class="col-lg-12">
@@ -458,7 +500,7 @@ Pustaka merender dengan fidelitas tertinggi ke Microsoft Excel menggunakan mesin
  Memanipulasi Kolom dan Baris
     </h2>
     <p>
- Aspose.Cells for C++ menawarkan manipulasi baris dan kolom dalam berbagai cara. Mengatur tinggi baris dan lebar kolom atau auto resize dimensi sel sesuai isi di dalamnya, terlalu mudah. API juga menawarkan sarana untuk menghapus dan menyisipkan, menyembunyikan atau menampilkan serta mengelompokkan atau membatalkan pengelompokan baris dan kolom.
+Pustaka Aspose.Cells C++ menawarkan manipulasi baris dan kolom dalam berbagai cara. Mengatur tinggi baris dan lebar kolom atau auto resize dimensi sel sesuai isi di dalamnya, terlalu mudah. API juga menawarkan sarana untuk menghapus dan menyisipkan, menyembunyikan atau menampilkan serta mengelompokkan atau membatalkan pengelompokan baris dan kolom.
     </p>
    </div>
    <div class="col-lg-12">
@@ -466,7 +508,7 @@ Pustaka merender dengan fidelitas tertinggi ke Microsoft Excel menggunakan mesin
  Konversi Spreadsheet secara Akurat ke PDF
     </h2>
     <p>
-Pustaka Excel C++ menyediakan kemampuan untuk mengonversi spreadsheet ke format PDF dengan tetap mempertahankan kualitas yang sama seperti dokumen aslinya. Fakta ini menjadikan Aspose.Cells for C++ pilihan sempurna bagi organisasi yang perlu bertukar dokumen dalam format standar industri seperti PDF.
+ Pustaka Aspose.Cells C++ menyediakan kemampuan untuk mengonversi spreadsheet ke format PDF dengan tetap mempertahankan kualitas yang sama seperti dokumen aslinya. Fakta ini menjadikan perpustakaan Aspose.Cells C++ pilihan sempurna bagi organisasi yang perlu bertukar dokumen dalam format standar industri seperti PDF.
     </p>
    </div>
    <!-- 

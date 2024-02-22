@@ -1,5 +1,5 @@
 ---
-title:  Αναζήτηση και αντικατάσταση κειμένου στο έγγραφο XLS μέσω του C++
+title: Αναζήτηση και αντικατάσταση κειμένου στο έγγραφο XLS μέσω του C++
 weight: 380
 description: C++ παράδειγμα κώδικα για τη διόρθωση ευαίσθητων πληροφοριών στο αρχείο XLS στο C++ Runtime Environment για Windows 32 bit, Windows 64 bit και Linux 64 bit.
 keywords: [C++ Aspose.Cells., C++ Search and replace text in XLS file., C++ redact XLS file., C++ edit XLS file., C++ XLS file redaction., C++ Search and replace string in XLS file]
@@ -12,13 +12,7 @@ keywords: [C++ Aspose.Cells., C++ Search and replace text in XLS file., C++ reda
 
 {{% blocks/products/pf/agp/content h2="Πώς να διορθώσετε το αρχείο XLS χρησιμοποιώντας το C++" %}}
 
- Για να επεξεργαστούμε το αρχείο XLS, θα χρησιμοποιήσουμε
- [Aspose.Cells for C++](https://products.aspose.com/cells/cpp) 
- API που είναι μια πλατφόρμα με πλούσια χαρακτηριστικά, ισχυρή και εύκολη στη χρήση έκδοση εγγράφων API for C++. Μπορείτε να κατεβάσετε την τελευταία του έκδοση απευθείας, απλά ανοίξτε
- [NuGet](https://www.nuget.org/packages/aspose.cells) 
- διαχειριστής πακέτων, αναζητήστε
- **Aspose.Cells.Cpp** 
- και εγκαταστήστε. Μπορείτε επίσης να χρησιμοποιήσετε την ακόλουθη εντολή από την Κονσόλα Package Manager.
+ Για να επεξεργαστούμε το αρχείο XLS, θα χρησιμοποιήσουμε[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) API που είναι μια πλατφόρμα με πλούσια χαρακτηριστικά, ισχυρή και εύκολη στη χρήση έκδοση εγγράφων API for C++. Μπορείτε να κατεβάσετε την τελευταία του έκδοση απευθείας, απλά ανοίξτε[NuGet](https://www.nuget.org/packages/aspose.cells) διαχειριστής πακέτων, αναζητήστε**Aspose.Cells.Cpp** και εγκαταστήστε. Μπορείτε επίσης να χρησιμοποιήσετε την ακόλουθη εντολή από την Κονσόλα Package Manager.
 
 {{% blocks/products/pf/agp/code-block title="Εντολή" offSpacer="true" %}}
 
@@ -38,15 +32,13 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% blocks/products/pf/agp/text %}}
 
- Μια βασική αναζήτηση εγγράφων και αντικατάσταση κειμένου σε περιεχόμενα, σχόλια ή μεταδεδομένα με
- [Aspose.Cells for C++](https://products.aspose.com/cells/cpp) 
- Τα API μπορούν να γίνουν με λίγες μόνο γραμμές κώδικα.
+ Μια βασική αναζήτηση εγγράφων και αντικατάσταση κειμένου σε περιεχόμενα, σχόλια ή μεταδεδομένα με[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) Τα API μπορούν να γίνουν με λίγες μόνο γραμμές κώδικα.
 
 {{% /blocks/products/pf/agp/text %}}
 
 + Φόρτωση αρχείου XLS.
 + Ορισμός επιλογών αντικατάστασης.
-+ Ορισμός επιλογής ευαισθησίας πεζών-κεφαλαίων.
+Ορισμός επιλογής ευαισθησίας πεζών-κεφαλαίων.
 + Ορισμός επιλογής αντιστοίχισης κειμένου
 + Αντικατάσταση κειμένου χρησιμοποιώντας τη μέθοδο Replace(...).
 + Αποθηκεύστε το βιβλίο εργασίας.
@@ -114,7 +106,7 @@ Aspose::Cells::Cleanup();
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Δεν χρειάζεται να κατεβάσετε το Aspose API." >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Δεν χρειάζεται να γράψετε κανέναν κώδικα." >}}
         {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Απλώς ανεβάστε τα XLS αρχεία σας." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-download" text="Θα διορθωθεί αμέσως." >}}
+        {{< blocks/products/pf/agp/democard icon="fa-download" text=" Θα διορθωθεί αμέσως." >}}
     {{< /blocks/products/pf/agp/demobox >}}
 
     {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLS" readMoreLink="https://docs.fileformat.com/spreadsheet/xls/" >}}
@@ -131,6 +123,7 @@ Aspose::Cells::Cleanup();
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/redaction/ods/" name="ODS" description="Αρχείο Υπολογιστικού Φύλλου OpenDocument" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/redaction/xlsb/" name="XLSB" description="Δυαδικό αρχείο βιβλίου εργασίας Excel" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/redaction/xlsm/" name="XLSM" description="Αρχείο υπολογιστικού φύλλου" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/redaction/xlsx/" name="XLSX" description="Αρχείο Excel OOXML" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

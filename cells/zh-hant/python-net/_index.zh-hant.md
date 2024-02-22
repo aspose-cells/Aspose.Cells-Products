@@ -1,5 +1,5 @@
 ---
-title: Python Excel 電子表格 API - Aspose
+title:  Python Excel 電子表格 API - Aspose
 weight: 2800
 description: Python 用於建立、修復、合併、解析和轉換 Excel 檔案的程式庫。將excel轉換為PDF、JSON、HTML、TXT和其他流行格式。
 keywords: [Python Aspose.Cells Create repair merge convert JSON Excel XML PDF HTML TSV SQL ODS CSV TSV PNG JPEG and more formats]
@@ -159,7 +159,7 @@ Aspose.Cells for Python via .Net 是一個快速可靠的 API，用於電子表�
      <b>
 Microsoft Excel：
      </b>
- XLS、XLSX、XLSB、XLTX、XLTM、XLSM、XML
+ XLS、XLSX、XLSB、XLT、XLTX、XLTM、XLSM、XML、OTS
     </li>
     <li>
      <b>
@@ -171,13 +171,25 @@ Microsoft Excel：
      <b>
 文字:
      </b>
-     CSV, TSV, TXT
+     CSV, TSV, JSON
     </li>
     <li>
      <b>
 網址：
      </b>
      HTML, MHTML
+    </li>
+    <li>
+     <b>
+      Numbers:
+     </b>
+蘋果iWork辦公室套件Numbers應用文檔
+    </li>
+    <li>
+     <b>
+其他的：
+     </b>
+ SXC, FODS, EPUB
     </li>
    </ul>
   </div>
@@ -197,9 +209,21 @@ Microsoft Excel：
     </li>
     <li>
      <b>
+資料交換：
+     </b>
+     DIF
+    </li>    
+    <li>
+     <b>
 圖片：
      </b>
-     JPEG, PNG, BMP, SVG, EMF
+     JPEG, PNG, BMP, SVG, TIFF, EMF, GIF
+    </li>
+    <li>
+     <b>
+其他的：
+     </b>
+ MARKDOWN，SQL，XTHML
     </li>
    </ul>
   </div>
@@ -465,7 +489,7 @@ wk.save("houtput.html", SaveFormat.HTML);</code></pre>
 靈活的顯示選項
     </h2>
     <p>
- Aspose.Cells for Python via .NET 提供對頁面設定的完全控制，允許操作多個顯示選項，如預覽分頁符號、設定縮放等級、設定頁面方向、透過凍結窗格控制資料可見性、紙張大小、縮放、標題和標題。頁尾和列印區域。
+ Aspose.Cells for Python via .NET 提供對頁面設定的完全控制，允許操作多個顯示選項，例如預覽分頁符號、設定縮放等級、設定頁面方向、透過凍結窗格控制資料可見性、紙張大小、縮放、標題和標題。頁尾和列印區域。
     </p>
    </div>
    <!--<div class="col-lg-12">
@@ -488,7 +512,7 @@ wk.save("houtput.html", SaveFormat.HTML);</code></pre>
  Excel 表格資料管理
     </h2>
     <p>
- Aspose.Cells for Python via .NET API 為工作表資料管理提供廣泛的支援。人們可以在運行時輕鬆地操作工作表中的任何單元格，或將資料從各種資料來源匯入工作表中。
+Aspose.Cells for Python via .NET API 為工作表資料管理提供廣泛的支援。人們可以在運行時輕鬆地操作工作表中的任何單元格，或將資料從各種資料來源匯入工作表中。
     </p>
    </div>
    <div class="col-lg-12">

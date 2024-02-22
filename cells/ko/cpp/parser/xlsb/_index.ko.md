@@ -1,5 +1,5 @@
 ---
-title:  C++을 통해 XLSB 문서에서 텍스트 및 이미지 추출
+title: C++을 통해 XLSB 문서에서 텍스트 및 이미지 추출
 weight: 3140
 description: C++ C++ 32비트, Windows 64비트 및 Linux 64비트용 C++ 런타임 환경의 XLSB 파일에서 텍스트와 이미지를 추출하는 예제 코드입니다.
 keywords: [C++ Aspose.Cells., C++ Extract text and images from XLSB file., C++ How to Parse XLSB File., C++ Extract text from XLSB file., Extract images from XLSB file using C++]
@@ -12,13 +12,7 @@ keywords: [C++ Aspose.Cells., C++ Extract text and images from XLSB file., C++ H
 
 {{% blocks/products/pf/agp/content h2="C++을 사용하여 XLSB 파일을 구문 분석하는 방법" %}}
 
- XLSB 파일을 구문 분석하기 위해 다음을 사용합니다.
- [Aspose.Cells for C++](https://products.aspose.com/cells/cpp) 
- API은 기능이 풍부하고 강력하며 사용하기 쉬운 문서 구문 분석 API for C++ 플랫폼입니다. 최신 버전을 직접 다운로드할 수 있습니다. 열기만 하면 됩니다.
- [NuGet](https://www.nuget.org/packages/aspose.cells) 
- 패키지 관리자, 검색
- **Aspose.Cells.Cpp** 
- 그리고 설치하세요. 패키지 관리자 콘솔에서 다음 명령을 사용할 수도 있습니다.
+ XLSB 파일을 구문 분석하기 위해 다음을 사용합니다.[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) API은 기능이 풍부하고 강력하며 사용하기 쉬운 문서 구문 분석 API for C++ 플랫폼입니다. 최신 버전을 직접 다운로드할 수 있습니다. 열기만 하면 됩니다.[NuGet](https://www.nuget.org/packages/aspose.cells) 패키지 관리자, 검색**Aspose.Cells.Cpp** 그리고 설치하세요. 패키지 관리자 콘솔에서 다음 명령을 사용할 수도 있습니다.
 
 {{% blocks/products/pf/agp/code-block title="명령" offSpacer="true" %}}
 
@@ -38,9 +32,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% blocks/products/pf/agp/text %}}
 
- 기본 문서를 구문 분석하는 방법
- [Aspose.Cells for C++](https://products.aspose.com/cells/cpp) 
- 단 몇 줄의 코드만으로 API를 구현할 수 있습니다. Microsoft Excel XLS, XLSX, XLSM, XLSB 및 OpenDocument ODS 파일의 텍스트 및 이미지를 구문 분석합니다.
+ 기본 문서를 구문 분석하는 방법[Aspose.Cells for C++](https://products.aspose.com/cells/cpp)단 몇 줄의 코드만으로 API를 구현할 수 있습니다. Microsoft Excel XLS, XLSX, XLSM, XLSB 및 OpenDocument ODS 파일의 텍스트 및 이미지를 구문 분석합니다.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -108,7 +100,7 @@ Aspose::Cells::Cleanup();
 
 {{< blocks/products/pf/agp/about-file-section >}}
 
-    {{< blocks/products/pf/agp/demobox sectionTitle="온라인 XLSB 파서 라이브 데모" sectionDescription=" 지금 바로 당사를 방문하여 XLSB 문서에서 텍스트와 이미지를 추출하세요.[라이브 데모 웹사이트](https://products.aspose.app/cells/parser). 라이브 데모에는 다음과 같은 이점이 있습니다." >}}
+    {{< blocks/products/pf/agp/demobox sectionTitle="온라인 XLSB 파서 라이브 데모" sectionDescription="지금 바로 당사를 방문하여 XLSB 문서에서 텍스트와 이미지를 추출하세요.[라이브 데모 웹사이트](https://products.aspose.app/cells/parser). 라이브 데모에는 다음과 같은 이점이 있습니다." >}}
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Aspose API을 다운로드할 필요가 없습니다." >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" 코드를 작성할 필요가 없습니다." >}}
         {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" XLSB 파일을 업로드하세요." >}}
@@ -129,6 +121,7 @@ XLSB 파일 형식은 Excel 통합 문서 콘텐츠를 지정하는 레코드 �
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/parser/ods/" name="ODS" description="OpenDocument 스프레드시트 파일" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/parser/xls/" name="XLS" description="Excel 바이너리 형식" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/parser/xlsm/" name="XLSM" description="스프레드시트 파일" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/parser/xlsx/" name="XLSX" description="OOXML 엑셀 파일" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

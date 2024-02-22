@@ -12,13 +12,7 @@ keywords: [C# Aspose.Cells., c# Extract text and images from ODS file., c# How t
 
 {{% blocks/products/pf/agp/content h2="Comment analyser le fichier ODS à l\'aide de C#" %}}
 
- Afin d'analyser le fichier ODS, nous utiliserons
- [Aspose.Cells for .NET](https://products.aspose.com/cells/net) 
- API qui est un outil de manipulation de documents API riche en fonctionnalités, puissant et facile à utiliser pour la plate-forme C#. Ouvrir
- [NuGet](https://www.nuget.org/packages/aspose.cells) 
- gestionnaire de paquets, recherchez
- **Aspose.Cells** 
- et installer. Vous pouvez également utiliser la commande suivante à partir de la console Package Manager.
+ Afin d'analyser le fichier ODS, nous utiliserons[Aspose.Cells for .NET](https://products.aspose.com/cells/net) API qui est un outil de manipulation de documents API riche en fonctionnalités, puissant et facile à utiliser pour la plate-forme C#. Ouvrir[NuGet](https://www.nuget.org/packages/aspose.cells) gestionnaire de paquets, recherchez**Aspose.Cells** et installer. Vous pouvez également utiliser la commande suivante à partir de la console Package Manager.
 
 {{% blocks/products/pf/agp/code-block title="Commande" offSpacer="true" %}}
 
@@ -38,9 +32,7 @@ PM> Install-Package Aspose.Cells
 
 {{% blocks/products/pf/agp/text %}}
 
- Un document de base analysé avec
- [Aspose.Cells for .NET](https://products.aspose.com/cells/net) 
- Les API peuvent être réalisées avec seulement quelques lignes de code. Analyser le texte et les images des fichiers Excel Microsoft, XLS, XLSX, XLSM, XLSB et OpenDocument ODS.
+ Un document de base analysé avec[Aspose.Cells for .NET](https://products.aspose.com/cells/net)Les API peuvent être réalisées avec seulement quelques lignes de code. Analyser le texte et les images des fichiers Excel Microsoft, XLS, XLSX, XLSM, XLSB et OpenDocument ODS.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -56,7 +48,7 @@ PM> Install-Package Aspose.Cells
 
 {{% blocks/products/pf/agp/text %}}
 
- Nos API sont prises en charge sur toutes les principales plates-formes et systèmes d'exploitation. Avant d'exécuter le code ci-dessous, assurez-vous que vous disposez des conditions préalables suivantes sur votre système.
+Nos API sont prises en charge sur toutes les principales plates-formes et systèmes d'exploitation. Avant d'exécuter le code ci-dessous, assurez-vous que vous disposez des conditions préalables suivantes sur votre système.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -115,14 +107,14 @@ PM> Install-Package Aspose.Cells
 
     {{< blocks/products/pf/agp/about-file-section >}}
 
-        {{< blocks/products/pf/agp/demobox sectionTitle="Démos en direct de l\'analyseur ODS en ligne" sectionDescription=" Extrayez dès maintenant le texte et les images des documents ODS en visitant notre[Site Web de démonstrations en direct](https://products.aspose.app/cells/parser). La démo en direct présente les avantages suivants" >}}
+        {{< blocks/products/pf/agp/demobox sectionTitle="Démos en direct de l\'analyseur ODS en ligne" sectionDescription="Extrayez dès maintenant le texte et les images des documents ODS en visitant notre[Site Web de démonstrations en direct](https://products.aspose.app/cells/parser). La démo en direct présente les avantages suivants" >}}
             {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Pas besoin de télécharger le Aspose API." >}}
             {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Pas besoin d\'écrire de code." >}}
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Téléchargez simplement vos fichiers ODS." >}}
             {{< blocks/products/pf/agp/democard icon="fa-download" text=" Il sera analysé instantanément." >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="ODS" readMoreLink="https://docs.fileformat.com/spreadsheet/ods/" >}}
-Les fichiers avec l'extension ODS représentent le format de document OpenDocument Spreadsheet qui sont modifiables par l'utilisateur. Les données sont stockées dans le fichier ODF en lignes et colonnes. Il s'agit d'un format basé sur XML et l'un des nombreux sous-types de la famille Open Document Formats (ODF). Le format est spécifié dans le cadre des spécifications ODF 1.2 publiées et maintenues par OASIS. Un certain nombre d'applications sur Windows ainsi que d'autres systèmes d'exploitation peuvent ouvrir des fichiers ODS pour les éditer et les manipuler, notamment Microsoft Excel, NeoOffice et LibreOffice. Les fichiers ODS peuvent également être convertis dans d'autres formats de feuilles de calcul, comme XLS, XLSX et autres par différentes applications.
+ Les fichiers avec l'extension ODS représentent le format de document OpenDocument Spreadsheet qui sont modifiables par l'utilisateur. Les données sont stockées dans le fichier ODF en lignes et colonnes. Il s'agit d'un format basé sur XML et l'un des nombreux sous-types de la famille Open Document Formats (ODF). Le format est spécifié dans le cadre des spécifications ODF 1.2 publiées et maintenues par OASIS. Un certain nombre d'applications sur Windows ainsi que d'autres systèmes d'exploitation peuvent ouvrir des fichiers ODS pour les éditer et les manipuler, notamment Microsoft Excel, NeoOffice et LibreOffice. Les fichiers ODS peuvent également être convertis dans d'autres formats de feuilles de calcul, comme XLS, XLSX et autres par différentes applications.
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
@@ -135,6 +127,7 @@ Les fichiers avec l'extension ODS représentent le format de document OpenDocume
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/parser/xls/" name="XLS" description="Format binaire Excel" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/parser/xlsb/" name="XLSB" description="Fichier de classeur Excel binaire" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/parser/xlsm/" name="XLSM" description="Fichier de feuille de calcul" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/parser/xlsx/" name="XLSX" description="Fichier Excel OOXML" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

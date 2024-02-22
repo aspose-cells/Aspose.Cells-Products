@@ -12,13 +12,7 @@ keywords: [C# Aspose.Cells., c# Search and replace text in XLSM file., c# redact
 
 {{% blocks/products/pf/agp/content h2="XLSM Dosyasını C# Kullanarak Düzenleme" %}}
 
- XLSM dosyasını düzenlemek için şunu kullanacağız:
- [Aspose.Cells for .NET](https://products.aspose.com/cells/net) 
- C# platformu için zengin özelliklere sahip, güçlü ve kullanımı kolay bir belge işleme API olan API. Açık
- [NuGet](https://www.nuget.org/packages/aspose.cells) 
- paket yöneticisi, ara
- **Aspose.Cells** 
- ve yükleyin. Aşağıdaki komutu Paket Yönetici Konsolundan da kullanabilirsiniz.
+ XLSM dosyasını düzenlemek için şunu kullanacağız:[Aspose.Cells for .NET](https://products.aspose.com/cells/net) C# platformu için zengin özelliklere sahip, güçlü ve kullanımı kolay bir belge işleme API olan API. Açık[NuGet](https://www.nuget.org/packages/aspose.cells) paket yöneticisi, ara**Aspose.Cells** ve yükleyin. Aşağıdaki komutu Paket Yönetici Konsolundan da kullanabilirsiniz.
 
 {{% blocks/products/pf/agp/code-block title="Emretmek" offSpacer="true" %}}
 
@@ -38,9 +32,7 @@ PM> Install-Package Aspose.Cells
 
 {{% blocks/products/pf/agp/text %}}
 
- Temel bir belge araması ve içerikteki, yorumlardaki veya meta verilerdeki metni şununla değiştirin:
- [Aspose.Cells for .NET](https://products.aspose.com/cells/net) 
- API'ler yalnızca birkaç satır kodla yapılabilir.
+ Temel bir belge araması ve içerikteki, yorumlardaki veya meta verilerdeki metni şununla değiştirin:[Aspose.Cells for .NET](https://products.aspose.com/cells/net) API'ler yalnızca birkaç satır kodla yapılabilir.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -57,7 +49,7 @@ PM> Install-Package Aspose.Cells
 
 {{% blocks/products/pf/agp/text %}}
 
- API'lerimiz tüm önemli platformlarda ve İşletim Sistemlerinde desteklenir. Aşağıdaki kodu çalıştırmadan önce lütfen sisteminizde aşağıdaki önkoşulların bulunduğundan emin olun.
+API'lerimiz tüm önemli platformlarda ve İşletim Sistemlerinde desteklenir. Aşağıdaki kodu çalıştırmadan önce lütfen sisteminizde aşağıdaki önkoşulların bulunduğundan emin olun.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -118,11 +110,11 @@ wb.Save("e:\test2\output.xlsm");
 
     {{< blocks/products/pf/agp/about-file-section >}}
 
-        {{< blocks/products/pf/agp/demobox sectionTitle="Çevrimiçi XLSM Redaksiyon Canlı Demoları" sectionDescription=" Şu anda sayfamızı ziyaret ederek XLSM belgedeki içerik, yorum veya meta verilerdeki metni arayın ve değiştirin.[Canlı Demolar web sitesi](https://products.aspose.app/cells/redaction). Canlı demo aşağıdaki avantajlara sahiptir" >}}
+        {{< blocks/products/pf/agp/demobox sectionTitle="Çevrimiçi XLSM Redaksiyon Canlı Demoları" sectionDescription=" XLSM belgedeki içerik, yorum veya meta verilerdeki metni hemen şimdi ziyaret ederek arayın ve değiştirin.[Canlı Demolar web sitesi](https://products.aspose.app/cells/redaction). Canlı demo aşağıdaki avantajlara sahiptir" >}}
             {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Aspose API\'i indirmenize gerek yok." >}}
             {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Herhangi bir kod yazmaya gerek yok." >}}
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" XLSM dosyalarınızı yüklemeniz yeterli." >}}
-            {{< blocks/products/pf/agp/democard icon="fa-download" text="Anında düzenlenecektir." >}}
+            {{< blocks/products/pf/agp/democard icon="fa-download" text=" Anında düzenlenecektir." >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLSM" readMoreLink="https://docs.fileformat.com/spreadsheet/xlsm/" >}}
 XLSM uzantılı dosyalar, Makroları destekleyen bir Elektronik Tablo dosyası türüdür. Uygulama açısından bakıldığında, Makro, süreçleri otomatikleştirmek için kullanılan talimatlar kümesidir. Makro, tekrar tekrar gerçekleştirilen adımları kaydetmek için kullanılır ve makronun tekrar çalıştırılmasıyla eylemlerin gerçekleştirilmesini kolaylaştırır. Makrolar, Visual Basic Düzenleyicisi kullanılarak Excel Çalışma Kitabı içinden Microsoft'in Visual Basic for Applications (VBA) programıyla programlanır ve buradan doğrudan çalıştırılabilir/hata ayıklanabilir.
@@ -138,6 +130,7 @@ XLSM uzantılı dosyalar, Makroları destekleyen bir Elektronik Tablo dosyası t
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/redaction/ods/" name="ODS" description="OpenDocument Elektronik Tablo Dosyası" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/redaction/xls/" name="XLS" description="Excel İkili Formatı" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/redaction/xlsb/" name="XLSB" description="İkili Excel Çalışma Kitabı Dosyası" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/redaction/xlsx/" name="XLSX" description="OOXML Excel Dosyası" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

@@ -1,6 +1,6 @@
 ---
 title: Δημιουργία TIFF - Δημιουργία αρχείου TIFF στο C++
-description: Aspose Excel. C++ Δημιουργία TIFF Αρχειοθέτηση γρήγορα και εύκολα με το Aspose.Cells. Δημιουργήστε το αρχείο TIFF χρησιμοποιώντας το C++. Δημιουργήστε το TIFF στο C++. 0714074.
+description:  Aspose Excel. C++ Δημιουργία TIFF Αρχειοθέτηση γρήγορα και εύκολα με το Aspose.Cells. Δημιουργήστε το αρχείο TIFF χρησιμοποιώντας το C++. Δημιουργήστε το TIFF στο C++. 0714074.
 keywords: [Aspose Excel., C++ Aspose.Cells., C++ Create TIFF file., Generate TIFF file in C++., Create TIFF file using C++., Write data to TIFF file via C++., Create a TIFF file in C++., C++ Generate a TIFF file., C++ TIFF Creater]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -11,7 +11,7 @@ keywords: [Aspose Excel., C++ Aspose.Cells., C++ Create TIFF file., Generate TIF
 
 {{% blocks/products/pf/agp/content h2="Δημιουργήστε το αρχείο TIFF χρησιμοποιώντας το C++" %}}
 
- Πώς να δημιουργήσετε το αρχείο TIFF; Με τη βιβλιοθήκη Aspose.Cells for C++, μπορείτε εύκολα να δημιουργήσετε το αρχείο TIFF μέσω προγραμματισμού με λίγες γραμμές κώδικα.[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) έχει τη δυνατότητα δημιουργίας εφαρμογών πολλαπλών πλατφορμών με δυνατότητα δημιουργίας, τροποποίησης, μετατροπής, απόδοσης και εκτύπωσης όλων των αρχείων Excel. C++ Το Excel API όχι μόνο μετατρέπει μεταξύ μορφών υπολογιστικών φύλλων, αλλά μπορεί επίσης να αποδώσει αρχεία Excel ως εικόνες, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT και άλλα, καθιστώντας έτσι την τέλεια επιλογή για την ανταλλαγή εγγράφων σε βιομηχανικές τυποποιημένες μορφές. Μπορείτε να κατεβάσετε την τελευταία του έκδοση απευθείας, απλά ανοίξτε[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) διαχειριστής πακέτων, αναζητήστε Aspose.Cells.Cpp και εγκαταστήστε. Μπορείτε επίσης να χρησιμοποιήσετε την ακόλουθη εντολή από την Κονσόλα Package Manager.
+ Πώς να δημιουργήσετε το αρχείο TIFF; Με τη βιβλιοθήκη Aspose.Cells for C++, μπορείτε εύκολα να δημιουργήσετε το αρχείο TIFF μέσω προγραμματισμού με λίγες γραμμές κώδικα.[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) έχει τη δυνατότητα δημιουργίας εφαρμογών πολλαπλών πλατφορμών με δυνατότητα δημιουργίας, τροποποίησης, μετατροπής, απόδοσης και εκτύπωσης όλων των αρχείων Excel. C++ Το Excel API όχι μόνο μετατρέπει μεταξύ μορφών υπολογιστικών φύλλων, αλλά μπορεί επίσης να αποδώσει αρχεία Excel ως εικόνες, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT και άλλα, καθιστώντας έτσι την τέλεια επιλογή για την ανταλλαγή εγγράφων σε βιομηχανικές τυποποιημένες μορφές. Μπορείτε να κατεβάσετε την τελευταία του έκδοση απευθείας, απλά ανοίξτε[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/)διαχειριστής πακέτων, αναζητήστε Aspose.Cells.Cpp και εγκαταστήστε. Μπορείτε επίσης να χρησιμοποιήσετε την ακόλουθη εντολή από την Κονσόλα Package Manager.
 
 {{% blocks/products/pf/agp/code-block title="Εντολή" offSpacer="true" %}}
 
@@ -37,9 +37,9 @@ PM> Install-Package Aspose.Cells.Cpp
 1.  Δημιουργήστε ένα αντικείμενο της κλάσης Βιβλίο εργασίας.
 1.  Αποκτήστε το πρώτο φύλλο σε ένα αντικείμενο φύλλου εργασίας.
 1.  Χρησιμοποιήστε τη μέθοδο Worksheet.GetCells() για να μεταφέρετε τα κελιά του φύλλου εργασίας σε ένα αντικείμενο Cells.
-1. Χρησιμοποιήστε τη μέθοδο Cells.Get() για πρόσβαση στο επιθυμητό κελί του φύλλου εργασίας σε ένα αντικείμενο Cell.
+1.  Χρησιμοποιήστε τη μέθοδο Cells.Get() για πρόσβαση στο επιθυμητό κελί του φύλλου εργασίας σε ένα αντικείμενο Cell.
 1.  Χρησιμοποιήστε τη μέθοδο Cell.PutValue() για να εισαγάγετε τιμή στο κελί.
-1. Αποθηκεύστε το βιβλίο εργασίας ως αρχείο .tiff χρησιμοποιώντας τη μέθοδο Save().
+1.  Αποθηκεύστε το βιβλίο εργασίας ως αρχείο .tiff χρησιμοποιώντας τη μέθοδο Save().
 
 {{% blocks/products/pf/agp/code-block title="Το δείγμα κώδικα δείχνει πώς να δημιουργήσετε το αρχείο TIFF στο C++." offSpacer="" %}}
 
@@ -70,7 +70,6 @@ cell01.PutValue(u"ColumnB");
 cell10.PutValue(u"ValueA");
 cell11.PutValue(u"ValueB");
 
-//TIFF format is not supported
 // Save workbook to resultFile folder
 wkb.Save(u"created_one.tiff");
 

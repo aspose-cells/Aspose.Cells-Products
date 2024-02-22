@@ -12,11 +12,7 @@ keywords: [Java Aspose.Cells., Java Extract text and images from XLSB file., Jav
 
 {{% blocks/products/pf/agp/content h2="วิธีแยกวิเคราะห์ไฟล์ XLSB โดยใช้ Java" %}}
 
- เพื่อที่จะแยกวิเคราะห์ไฟล์ XLSB เราจะใช้
- [Aspose.Cells for Java](https://products.aspose.com/cells/java) 
- API ซึ่งเป็นแพลตฟอร์มการแยกวิเคราะห์ API for Java ที่มีคุณสมบัติหลากหลาย ทรงพลัง และใช้งานง่าย คุณสามารถดาวน์โหลดเวอร์ชันล่าสุดได้โดยตรงจาก
- [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) 
- และติดตั้งภายในโปรเจ็กต์ที่ใช้ Maven ของคุณโดยเพิ่มการกำหนดค่าต่อไปนี้ใน pom.xml
+ เพื่อที่จะแยกวิเคราะห์ไฟล์ XLSB เราจะใช้[Aspose.Cells for Java](https://products.aspose.com/cells/java) API ซึ่งเป็นแพลตฟอร์มการแยกวิเคราะห์ API for Java ที่มีคุณสมบัติหลากหลาย ทรงพลัง และใช้งานง่าย คุณสามารถดาวน์โหลดเวอร์ชันล่าสุดได้โดยตรงจาก[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) และติดตั้งภายในโปรเจ็กต์ที่ใช้ Maven ของคุณโดยเพิ่มการกำหนดค่าต่อไปนี้ใน pom.xml
 
 {{% blocks/products/pf/agp/code-block title="พื้นที่เก็บข้อมูล" offSpacer="true" %}}
 
@@ -54,9 +50,7 @@ keywords: [Java Aspose.Cells., Java Extract text and images from XLSB file., Jav
 
 {{% blocks/products/pf/agp/text %}}
 
- เอกสารพื้นฐานแยกวิเคราะห์ด้วย
- [Aspose.Cells for Java](https://products.aspose.com/cells/java) 
- API สามารถทำได้โดยใช้โค้ดเพียงไม่กี่บรรทัด แยกวิเคราะห์ข้อความและรูปภาพจากไฟล์ Microsoft Excel XLS, XLSX, XLSM, XLSB และ OpenDocument ODS
+ เอกสารพื้นฐานแยกวิเคราะห์ด้วย[Aspose.Cells for Java](https://products.aspose.com/cells/java)API สามารถทำได้โดยใช้โค้ดเพียงไม่กี่บรรทัด แยกวิเคราะห์ข้อความและรูปภาพจากไฟล์ Microsoft Excel XLS, XLSX, XLSM, XLSB และ OpenDocument ODS
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -76,7 +70,7 @@ keywords: [Java Aspose.Cells., Java Extract text and images from XLSB file., Jav
 
 {{% /blocks/products/pf/agp/text %}}
 
--  Microsoft Windows หรือระบบปฏิบัติการที่เข้ากันได้กับ Java Runtime Environment สำหรับแอปพลิเคชัน JSP/JSF และแอปพลิเคชันเดสก์ท็อป
+- Microsoft Windows หรือระบบปฏิบัติการที่เข้ากันได้กับ Java Runtime Environment สำหรับแอปพลิเคชัน JSP/JSF และแอปพลิเคชันเดสก์ท็อป
 -  รับเวอร์ชั่นล่าสุด Aspose.Cells for Java ส่งตรงจาก
  [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells)  .
 
@@ -121,7 +115,7 @@ System.out.println(stringBuilder.toString());
 
 {{< blocks/products/pf/agp/about-file-section >}}
 
-    {{< blocks/products/pf/agp/demobox sectionTitle="ออนไลน์ XLSB Parser สาธิตสด" sectionDescription=" แยกข้อความและรูปภาพจากเอกสาร XLSB ได้เลยโดยเข้าไปที่[เว็บไซต์สาธิตสด](https://products.aspose.app/cells/parser). การสาธิตสดมีข้อดีดังต่อไปนี้" >}}
+    {{< blocks/products/pf/agp/demobox sectionTitle="ออนไลน์ XLSB Parser สาธิตสด" sectionDescription="แยกข้อความและรูปภาพจากเอกสาร XLSB ได้เลยโดยเข้าไปที่[เว็บไซต์สาธิตสด](https://products.aspose.app/cells/parser). การสาธิตสดมีข้อดีดังต่อไปนี้" >}}
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" ไม่ต้องดาวน์ Aspose API." >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" ไม่จำเป็นต้องเขียนโค้ดใดๆ" >}}
         {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" เพียงอัพโหลดไฟล์ XLSB ของคุณ" >}}
@@ -142,6 +136,7 @@ System.out.println(stringBuilder.toString());
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/parser/ods/" name="ODS" description="ไฟล์สเปรดชีต OpenDocument" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/parser/xls/" name="XLS" description="รูปแบบไบนารีของ Excel" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/parser/xlsm/" name="XLSM" description="ไฟล์สเปรดชีต" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/parser/xlsx/" name="XLSX" description="ไฟล์ OOXML Excel" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

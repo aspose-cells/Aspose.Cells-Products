@@ -1,5 +1,5 @@
 ---
-title:  Extraire le texte et les images du document ODS via C++
+title: Extraire le texte et les images du document ODS via C++
 weight: 9130
 description: Exemple de code C++ pour extraire le texte et les images du fichier ODS sur l'environnement d'exécution C++ pour Windows 32 bits, Windows 64 bits et Linux 64 bits.
 keywords: [C++ Aspose.Cells., C++ Extract text and images from ODS file., C++ How to Parse ODS File., C++ Extract text from ODS file., Extract images from ODS file using C++]
@@ -12,13 +12,7 @@ keywords: [C++ Aspose.Cells., C++ Extract text and images from ODS file., C++ Ho
 
 {{% blocks/products/pf/agp/content h2="Comment analyser le fichier ODS à l\'aide de C++" %}}
 
- Afin d'analyser le fichier ODS, nous utiliserons
- [Aspose.Cells for C++](https://products.aspose.com/cells/cpp) 
- API qui est une plate-forme d'analyse de documents API for C++ riche en fonctionnalités, puissante et facile à utiliser. Vous pouvez télécharger sa dernière version directement, ouvrez simplement
- [NuGet](https://www.nuget.org/packages/aspose.cells) 
- gestionnaire de paquets, recherchez
- **Aspose.Cells.Cpp** 
- et installer. Vous pouvez également utiliser la commande suivante à partir de la console Package Manager.
+ Afin d'analyser le fichier ODS, nous utiliserons[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) API qui est une plate-forme d'analyse de documents API for C++ riche en fonctionnalités, puissante et facile à utiliser. Vous pouvez télécharger sa dernière version directement, ouvrez simplement[NuGet](https://www.nuget.org/packages/aspose.cells) gestionnaire de paquets, recherchez**Aspose.Cells.Cpp** et installer. Vous pouvez également utiliser la commande suivante à partir de la console Package Manager.
 
 {{% blocks/products/pf/agp/code-block title="Commande" offSpacer="true" %}}
 
@@ -38,9 +32,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% blocks/products/pf/agp/text %}}
 
- Un document de base analysé avec
- [Aspose.Cells for C++](https://products.aspose.com/cells/cpp) 
- Les API peuvent être réalisées avec seulement quelques lignes de code. Analyser le texte et les images des fichiers Excel Microsoft, XLS, XLSX, XLSM, XLSB et OpenDocument ODS.
+ Un document de base analysé avec[Aspose.Cells for C++](https://products.aspose.com/cells/cpp)Les API peuvent être réalisées avec seulement quelques lignes de code. Analyser le texte et les images des fichiers Excel Microsoft, XLS, XLSX, XLSM, XLSB et OpenDocument ODS.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -50,7 +42,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% blocks/products/pf/agp/text %}}
 
- Aspose.Cells for C++ prend en charge toutes les principales plates-formes et systèmes d'exploitation. Veuillez vous assurer que vous disposez des prérequis suivants.
+ Aspose.Cells for C++ prend en charge sur toutes les principales plates-formes et systèmes d'exploitation. Veuillez vous assurer que vous disposez des prérequis suivants.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -108,7 +100,7 @@ Aspose::Cells::Cleanup();
 
 {{< blocks/products/pf/agp/about-file-section >}}
 
-    {{< blocks/products/pf/agp/demobox sectionTitle="Démos en direct de l\'analyseur ODS en ligne" sectionDescription=" Extrayez dès maintenant le texte et les images des documents ODS en visitant notre[Site Web de démonstrations en direct](https://products.aspose.app/cells/parser). La démo en direct présente les avantages suivants" >}}
+    {{< blocks/products/pf/agp/demobox sectionTitle="Démos en direct de l\'analyseur ODS en ligne" sectionDescription="Extrayez dès maintenant le texte et les images des documents ODS en visitant notre[Site Web de démonstrations en direct](https://products.aspose.app/cells/parser). La démo en direct présente les avantages suivants" >}}
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Pas besoin de télécharger le Aspose API." >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Pas besoin d\'écrire de code." >}}
         {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Téléchargez simplement vos fichiers ODS." >}}
@@ -116,7 +108,7 @@ Aspose::Cells::Cleanup();
     {{< /blocks/products/pf/agp/demobox >}}
 
     {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="ODS" readMoreLink="https://docs.fileformat.com/spreadsheet/ods/" >}}
-Les fichiers avec l'extension ODS représentent le format de document OpenDocument Spreadsheet qui sont modifiables par l'utilisateur. Les données sont stockées dans le fichier ODF en lignes et colonnes. Il s'agit d'un format basé sur XML et l'un des nombreux sous-types de la famille Open Document Formats (ODF). Le format est spécifié dans le cadre des spécifications ODF 1.2 publiées et maintenues par OASIS. Un certain nombre d'applications sur Windows ainsi que d'autres systèmes d'exploitation peuvent ouvrir des fichiers ODS pour les éditer et les manipuler, notamment Microsoft Excel, NeoOffice et LibreOffice. Les fichiers ODS peuvent également être convertis dans d'autres formats de feuilles de calcul, comme XLS, XLSX et autres par différentes applications.
+ Les fichiers avec l'extension ODS représentent le format de document OpenDocument Spreadsheet qui sont modifiables par l'utilisateur. Les données sont stockées dans le fichier ODF en lignes et colonnes. Il s'agit d'un format basé sur XML et l'un des nombreux sous-types de la famille Open Document Formats (ODF). Le format est spécifié dans le cadre des spécifications ODF 1.2 publiées et maintenues par OASIS. Un certain nombre d'applications sur Windows ainsi que d'autres systèmes d'exploitation peuvent ouvrir des fichiers ODS pour les éditer et les manipuler, notamment Microsoft Excel, NeoOffice et LibreOffice. Les fichiers ODS peuvent également être convertis dans d'autres formats de feuilles de calcul, comme XLS, XLSX et autres par différentes applications.
 
     {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
@@ -129,6 +121,7 @@ Les fichiers avec l'extension ODS représentent le format de document OpenDocume
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/parser/xls/" name="XLS" description="Format binaire Excel" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/parser/xlsb/" name="XLSB" description="Fichier de classeur Excel binaire" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/parser/xlsm/" name="XLSM" description="Fichier de feuille de calcul" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/parser/xlsx/" name="XLSX" description="Fichier Excel OOXML" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

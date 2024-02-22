@@ -1,5 +1,5 @@
 ---
-title: XLS ドキュメント via .NET からテキストと画像を抽出します
+title:  XLS ドキュメント via .NET からテキストと画像を抽出します
 weight: 5600
 description: C# フレームワーク、.NET コア、Mono または Xamarin プラットフォーム上の XLS ファイルからテキストと画像を抽出するための C# ソース コード。
 keywords: [C# Aspose.Cells., c# Extract text and images from XLS file., c# How to Parse XLS File., c# Extract text from XLS file., Extract images from XLS file using C#]
@@ -12,13 +12,8 @@ keywords: [C# Aspose.Cells., c# Extract text and images from XLS file., c# How t
 
 {{% blocks/products/pf/agp/content h2="C#を使用してXLSファイルを解析する方法" %}}
 
-XLS ファイルを解析するには、次を使用します。
- [Aspose.Cells for .NET](https://products.aspose.com/cells/net) 
-API は、機能が豊富で強力で使いやすい、C# プラットフォーム用の文書操作 API です。開ける
- [NuGet](https://www.nuget.org/packages/aspose.cells) 
-パッケージマネージャー、検索
- **Aspose.Cells** 
-そしてインストールします。パッケージ マネージャー コンソールから次のコマンドを使用することもできます。
+XLS ファイルを解析するには、次を使用します。[Aspose.Cells for .NET](https://products.aspose.com/cells/net)API は、機能が豊富で強力で使いやすい、C# プラットフォーム用の文書操作 API です。開ける[NuGet](https://www.nuget.org/packages/aspose.cells)パッケージマネージャー、検索
+ **Aspose.Cells**そしてインストールします。パッケージ マネージャー コンソールから次のコマンドを使用することもできます。
 
 {{% blocks/products/pf/agp/code-block title="指示" offSpacer="true" %}}
 
@@ -38,13 +33,11 @@ PM> Install-Package Aspose.Cells
 
 {{% blocks/products/pf/agp/text %}}
 
-基本的な文書解析
- [Aspose.Cells for .NET](https://products.aspose.com/cells/net) 
-API はわずか数行のコードで実行できます。 Microsoft Excel XLS、XLSX、XLSM、XLSB、OpenDocument ODS ファイルのテキストと画像を解析します。
+基本的な文書解析[Aspose.Cells for .NET](https://products.aspose.com/cells/net)API はわずか数行のコードで実行できます。 Microsoft Excel XLS、XLSX、XLSM、XLSB、OpenDocument ODS ファイルのテキストと画像を解析します。
 
 {{% /blocks/products/pf/agp/text %}}
 
-+ XLS ドキュメントをロードします。
+XLS ドキュメントをロードします。
 + シートを選択します。
 + 画像と画像の種類を取得します。
 + 画像を保存します。
@@ -60,7 +53,7 @@ API はわずか数行のコードで実行できます。 Microsoft Excel XLS�
 
 {{% /blocks/products/pf/agp/text %}}
 
-- Microsoft Windows、または .NET フレームワーク、.NET コア、Mono または Xamarin プラットフォームと互換性のある OS
+-  Microsoft Windows、または .NET フレームワーク、.NET コア、Mono または Xamarin プラットフォームと互換性のある OS
 -  Microsoft Visual Studio のような開発環境
 - プロジェクトに Aspose.Cells for .NET DLL への参照を追加します - 上の [ダウンロード] ボタンを使用して NuGet からインストールします
 
@@ -116,7 +109,7 @@ API はわずか数行のコードで実行できます。 Microsoft Excel XLS�
     {{< blocks/products/pf/agp/about-file-section >}}
 
         {{< blocks/products/pf/agp/demobox sectionTitle="オンライン XLS パーサー ライブ デモ" sectionDescription="今すぐ XLS ドキュメントからテキストと画像を抽出してください。[ライブデモ Web サイト](https://products.aspose.app/cells/parser)。ライブデモには次の利点があります" >}}
-            {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Aspose API をダウンロードする必要はありません。" >}}
+            {{< blocks/products/pf/agp/democard icon="fa-cogs" text="Aspose API をダウンロードする必要はありません。" >}}
             {{< blocks/products/pf/agp/democard icon="fa-edit" text="コードを記述する必要はありません。" >}}
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" XLS ファイルをアップロードするだけです。" >}}
             {{< blocks/products/pf/agp/democard icon="fa-download" text="即座に解析されます。" >}}
@@ -135,6 +128,7 @@ API はわずか数行のコードで実行できます。 Microsoft Excel XLS�
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/parser/ods/" name="ODS" description="OpenDocument スプレッドシート ファイル" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/parser/xlsb/" name="XLSB" description="バイナリ Excel ワークブック ファイル" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/parser/xlsm/" name="XLSM" description="スプレッドシート ファイル" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/parser/xlsx/" name="XLSX" description="OOXML Excel ファイル" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

@@ -1,5 +1,5 @@
 ---
-title: Filigrana XLS documento via Java
+title:  Filigrana XLS documento via Java
 weight: 2210
 description: Codice di esempio Java per aggiungere o rimuovere la filigrana nel file XLS nell'ambiente runtime Java per applicazioni JSP/JSF e applicazioni desktop.
 keywords: [Java Aspose.Cells., Java add watermark to xls file., Java insert watermark to xls file., Java create watermark in xls file., remove watermark from xls file using Java., Java operate watermark in xls file., Java access watermark in xls file]
@@ -12,11 +12,7 @@ keywords: [Java Aspose.Cells., Java add watermark to xls file., Java insert wate
 
 {{% blocks/products/pf/agp/content h2="Come filigranare il file XLS utilizzando Java" %}}
 
- Per filigranare il file XLS, utilizzeremo
- [Aspose.Cells for Java](https://products.aspose.com/cells/java) 
- API che è una piattaforma di filigrana API for Java ricca di funzionalità, potente e facile da usare. Puoi scaricare la versione più recente direttamente da
- [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) 
- e installalo nel tuo progetto basato su Maven aggiungendo le seguenti configurazioni a pom.xml.
+ Per filigranare il file XLS, utilizzeremo[Aspose.Cells for Java](https://products.aspose.com/cells/java) API che è una piattaforma di filigrana API for Java ricca di funzionalità, potente e facile da usare. Puoi scaricare la versione più recente direttamente da[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) e installalo nel tuo progetto basato su Maven aggiungendo le seguenti configurazioni a pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Deposito" offSpacer="true" %}}
 
@@ -129,13 +125,13 @@ workbook.save(dataDir + "AWArtWToWorksheet_out.xls");
     {{< blocks/products/pf/agp/about-file-section >}}
 
         {{< blocks/products/pf/agp/demobox sectionTitle="Filigrana XLS tramite app online" sectionDescription=" Aggiungi la filigrana ai documenti XLS visitando il nostro[Sito web delle demo dal vivo](https://products.aspose.app/cells/watermark). La demo live presenta i seguenti vantaggi" >}}
-            {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Non è necessario scaricare o configurare nulla" >}}
+            {{< blocks/products/pf/agp/democard icon="fa-cogs" text="Non è necessario scaricare o configurare nulla" >}}
             {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Non è necessario scrivere alcun codice" >}}
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Basta caricare il file XLS, impostare la filigrana e premere il pulsante \"Aggiungi\"." >}}
             {{< blocks/products/pf/agp/democard icon="fa-download" text=" Ottieni immediatamente il collegamento per il download del file risultante" >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLS" readMoreLink="https://docs.fileformat.com/spreadsheet/xls/" >}}
-file con estensione XLS rappresentano il formato file binario di Excel. Tali file possono essere creati da Microsoft Excel così come altri programmi di fogli di calcolo simili come OpenOffice Calc o Apple Numbers. Il file salvato da Excel è noto come cartella di lavoro in cui ciascuna cartella di lavoro può avere uno o più fogli di lavoro. I dati vengono archiviati e visualizzati agli utenti in formato tabella nel foglio di lavoro e possono comprendere valori numerici, dati di testo, formule, connessioni dati esterne, immagini e grafici. Applicazioni come Microsoft Excel ti consentono di esportare i dati della cartella di lavoro in diversi formati tra cui PDF, CSV, XLSX, TXT, HTML, XPS e molti altri. Il formato file XLS è stato sostituito con un formato più aperto e strutturato, XLSX, con il rilascio di Microsoft Excel 2007. Le ultime versioni forniscono ancora supporto per la creazione e la lettura dei file XLS, sebbene XLSX sia ora la prima scelta di utilizzo.
+I file con estensione XLS rappresentano il formato file binario di Excel. Tali file possono essere creati da Microsoft Excel così come altri programmi di fogli di calcolo simili come OpenOffice Calc o Apple Numbers. Il file salvato da Excel è noto come cartella di lavoro in cui ciascuna cartella di lavoro può avere uno o più fogli di lavoro. I dati vengono archiviati e visualizzati agli utenti in formato tabella nel foglio di lavoro e possono comprendere valori numerici, dati di testo, formule, connessioni dati esterne, immagini e grafici. Applicazioni come Microsoft Excel ti consentono di esportare i dati della cartella di lavoro in diversi formati tra cui PDF, CSV, XLSX, TXT, HTML, XPS e molti altri. Il formato file XLS è stato sostituito con un formato più aperto e strutturato, XLSX, con il rilascio di Microsoft Excel 2007. Le ultime versioni forniscono ancora supporto per la creazione e la lettura dei file XLS, sebbene XLSX sia ora la prima scelta di utilizzo.
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
@@ -148,6 +144,7 @@ file con estensione XLS rappresentano il formato file binario di Excel. Tali fil
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/watermark/ods/" name="ODS" description="File di foglio di calcolo OpenDocument" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/watermark/xlsb/" name="XLSB" description="File binario della cartella di lavoro Excel" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/watermark/xlsm/" name="XLSM" description="File di foglio di calcolo" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/watermark/xlsx/" name="XLSX" description="File Excel OOXML" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

@@ -12,11 +12,11 @@ description: Node.js kitaplığı aracılığıyla Excel dosya formatlarını i�
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
- Aspose.Cells for Node.js via Java, Node.js kullanarak Excel elektronik tablolarını işlemek için zengin özelliklere sahip ve ölçeklenebilir bir API'dir. API, Excel dosya formatı dönüştürme, en ayrıntılı düzeyde çalışma sayfası stili oluşturma, grafik oluşturma ve uygulama olanağı sunar. oluşturma, güvenilir formül hesaplama motoru ve çok daha fazlası.
+Aspose.Cells for Node.js via Java, Node.js kullanarak Excel elektronik tablolarını işlemek için zengin özelliklere sahip ve ölçeklenebilir bir API'dir. API, Excel dosya formatı dönüştürme, en ayrıntılı düzeyde çalışma sayfası stili oluşturma, grafik oluşturma ve uygulama olanağı sunar. oluşturma, güvenilir formül hesaplama motoru ve çok daha fazlası.
 </p>
 
 <p>
-Aspose.Cells for Node.js via Java, XLS, XLSX, ODS, SpreadsheetML, CSV, TSC &amp; HTML.
+ Aspose.Cells for Node.js via Java, XLS, XLSX, ODS, SpreadsheetML, CSV, TSC &amp; HTML.
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
@@ -171,7 +171,7 @@ Aspose.Cells for Node.js via Java, XLS, XLSX, ODS, SpreadsheetML, CSV, TSC &amp;
      <b>
  Microsoft Excel:
      </b>
- XLS, XLSX, XLSB, XLTX, XLTM, XLSM, XML
+ XLS, XLSX, XLSB, XLT, XLTX, XLTM, XLSM, XML, OTS
     </li>
     <li>
      <b>
@@ -183,13 +183,25 @@ Aspose.Cells for Node.js via Java, XLS, XLSX, ODS, SpreadsheetML, CSV, TSC &amp;
      <b>
  Metin:
      </b>
- CSV, Sekmeyle Ayrılmış, TXT
+     CSV, TSV, JSON
     </li>
     <li>
      <b>
  Ağ:
      </b>
      HTML, MHTML
+    </li>
+    <li>
+     <b>
+      Numbers:
+     </b>
+ Apple'ın iWork ofis paketi Numbers uygulama belgeleri
+    </li>
+    <li>
+     <b>
+ Diğerleri:
+     </b>
+ SXC, FODS, EPUB
     </li>
    </ul>
   </div>
@@ -198,20 +210,32 @@ Aspose.Cells for Node.js via Java, XLS, XLSX, ODS, SpreadsheetML, CSV, TSC &amp;
    <header>
     <i class="fa fa-mail-forward">
     </i>
- Yalnızca Çıkış
+Yalnızca Çıkış
    </header>
    <ul>
     <li>
      <b>
  Sabit Düzen:
      </b>
-     PDF, XPS
+ PDF, PDF/A, XPS
     </li>
+    <li>
+     <b>
+ Veri Değişimi:
+     </b>
+     DIF
+    </li>    
     <li>
      <b>
  Görüntüler:
      </b>
-     JPEG, PNG, BMP, SVG, TIFF, GIF, EMF
+     JPEG, PNG, BMP, SVG, TIFF, EMF, GIF
+    </li>
+    <li>
+     <b>
+ Diğerleri:
+     </b>
+ MARKDOWN, SQL, XTHML
     </li>
    </ul>
   </div>
@@ -269,7 +293,7 @@ Aspose.Cells for Node.js via Java, XLS, XLSX, ODS, SpreadsheetML, CSV, TSC &amp;
     <em class="fa fa-commenting ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-Oluştur ve oluştur yorumları değiştir &amp; köprüler
+ Oluştur ve oluştur yorumları değiştir &amp; köprüler
     </p>
    </div>
    <div class="col-lg-4">
@@ -319,7 +343,7 @@ Oluştur ve oluştur yorumları değiştir &amp; köprüler
  Excel Elektronik Tablolarını Oluşturma
     </h2>
     <p>
- Aspose.Cells for Node.js via Java, Microsoft Excel'e en yüksek doğrulukla işlemek için işleme motorunu kullanır. Node.js Excel İşleme kitaplığını kullanırken, tüm sayfaları, tek tek dosyaları veya grafikleri birden çok görüntüye ve sabit düzen formatına dönüştürebilirsiniz.
+Aspose.Cells for Node.js via Java, Microsoft Excel'e en yüksek doğrulukla işlemek için işleme motorunu kullanır. Node.js Excel İşleme kitaplığını kullanırken, tüm sayfaları, tek tek dosyaları veya grafikleri birden çok görüntüye ve sabit düzen formatına dönüştürebilirsiniz.
     </p>
    </div>
    <div class="col-lg-12">
@@ -327,7 +351,7 @@ Oluştur ve oluştur yorumları değiştir &amp; köprüler
  Esnek Ekran Seçenekleri
     </h2>
     <p>
-Aspose.Cells for Node.js via Java çalışma sayfasının sayfa düzeni üzerinde tam kontrol sağlar; sayfa yönü, sonlar, boyut, ölçekleme, üstbilgiler, altbilgiler ve yakınlaştırma düzeyi gibi çalışma sayfasının görüntüleme seçeneklerini değiştirebilirsiniz. Ayrıca geliştiriciler, uygulama özelliklerine uyacak şekilde yazdırma alanı ve dondurma bölmeleri yardımıyla veri görünürlüğünü kontrol edebilir.
+ Aspose.Cells for Node.js via Java çalışma sayfasının sayfa düzeni üzerinde tam kontrol sağlar; sayfa yönü, sonlar, boyut, ölçekleme, üstbilgiler, altbilgiler ve yakınlaştırma düzeyi gibi çalışma sayfasının görüntüleme seçeneklerini değiştirebilirsiniz. Ayrıca geliştiriciler, uygulama özelliklerine uyacak şekilde yazdırma alanı ve dondurma bölmeleri yardımıyla veri görünürlüğünü kontrol edebilir.
     </p>
    </div>
    <div class="col-lg-12">
@@ -343,12 +367,12 @@ Aspose.Cells for Node.js via Java çalışma sayfasının sayfa düzeni üzerind
  Satırları Yönet &amp; Sütunlar
     </h2>
     <p>
- Aspose.Cells for Node.js via Java, satırları ve sütunları birçok farklı şekilde değiştirmenize olanak tanır. Satır yüksekliğini ve satır yüksekliğini kolayca ayarlayabilirsiniz. sütun genişliği, içeriğe göre hücreleri otomatik olarak boyutlandırın, ekleyin ve ekleyin sil, gizle ve gizlemenin yanı sıra gruplama ve gizlemeyi kaldırma satırların grubunu çöz &amp; sütunlar.
+Aspose.Cells for Node.js via Java, satırları ve sütunları birçok farklı şekilde değiştirmenize olanak tanır. Satır yüksekliğini ve satır yüksekliğini kolayca ayarlayabilirsiniz. sütun genişliği, içeriğe göre hücreleri otomatik olarak boyutlandırın, ekleyin ve ekleyin sil, gizle ve gizlemenin yanı sıra gruplama ve gizlemeyi kaldırma satırların grubunu çöz &amp; sütunlar.
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-Çalışma Sayfası Biçimlendirmesi için Kapsamlı Destek
+ Çalışma Sayfası Biçimlendirmesi için Kapsamlı Destek
     </h2>
     <p>
  Aspose.Cells for Node.js via Java, verilerinizin sunumunu kontrol etmenize olanak tanıyan gelişmiş biçimlendirme özellikleri sağlar. Biçimlendirmeyi bir çalışma sayfasına, sütuna, satıra veya hücreye uygulayabilir veya tek bir hücreye Zengin Metin ekleyebilir, kenarlıklar uygulayabilir, arka plan desenlerini ve yazı tipi stilini ayarlayabilirsiniz. API ayrıca eklemeye, değiştirmeye ve değiştirmeye de olanak tanır. Koşullu biçimlendirme kurallarını anında hesaplayın.
@@ -359,7 +383,7 @@ Aspose.Cells for Node.js via Java çalışma sayfasının sayfa düzeni üzerind
  Grafik Oluşturma, Manipülasyon ve amp; İşleme
     </h2>
     <p>
- Aspose.Cells for Node.js via Java grafik konusunda tam destek sağlar. API'i kullanarak kolayca özelleştirilmiş veya standart grafikler ekleyebilir ve grafikleri yenilemek için verileri dinamik olarak ayarlayabilirsiniz.
+Aspose.Cells for Node.js via Java grafik konusunda tam destek sağlar. API'i kullanarak kolayca özelleştirilmiş veya standart grafikler ekleyebilir ve grafikleri yenilemek için verileri dinamik olarak ayarlayabilirsiniz.
     </p>
    </div>
   </div>

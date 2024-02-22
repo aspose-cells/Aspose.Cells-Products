@@ -12,11 +12,7 @@ keywords: [Java Aspose.Cells., Java Search and replace text in XLS file., Java r
 
 {{% blocks/products/pf/agp/content h2="Como redigir o arquivo XLS usando Java" %}}
 
- Para redigir o arquivo XLS, usaremos
- [Aspose.Cells for Java](https://products.aspose.com/cells/java) 
-API, que é uma plataforma de redação API for Java rica em recursos, poderosa e fácil de usar. Você pode baixar sua versão mais recente diretamente de
- [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) 
- e instale-o em seu projeto baseado em Maven adicionando as seguintes configurações ao pom.xml.
+ Para redigir o arquivo XLS, usaremos[Aspose.Cells for Java](https://products.aspose.com/cells/java) API, que é uma plataforma de redação API for Java rica em recursos, poderosa e fácil de usar. Você pode baixar sua versão mais recente diretamente de[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) e instale-o em seu projeto baseado em Maven adicionando as seguintes configurações ao pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Repositório" offSpacer="true" %}}
 
@@ -54,9 +50,7 @@ API, que é uma plataforma de redação API for Java rica em recursos, poderosa 
 
 {{% blocks/products/pf/agp/text %}}
 
- Uma pesquisa básica de documentos e substituição de texto em conteúdos, comentários ou metadados por
- [Aspose.Cells for Java](https://products.aspose.com/cells/java) 
- APIs podem ser feitas com apenas algumas linhas de código.
+ Uma pesquisa básica de documentos e substituição de texto em conteúdos, comentários ou metadados por[Aspose.Cells for Java](https://products.aspose.com/cells/java) APIs podem ser feitas com apenas algumas linhas de código.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -78,7 +72,7 @@ API, que é uma plataforma de redação API for Java rica em recursos, poderosa 
 
 {{% /blocks/products/pf/agp/text %}}
 
--  Microsoft Windows ou um sistema operacional compatível com Java Runtime Environment para aplicativos JSP/JSF e aplicativos de desktop.
+- Microsoft Windows ou um sistema operacional compatível com Java Runtime Environment para aplicativos JSP/JSF e aplicativos de desktop.
 -  Obtenha a versão mais recente de Aspose.Cells for Java diretamente de
  [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells)  .
 
@@ -144,7 +138,7 @@ workbook.save(dataDir + "output.xls");
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Não há necessidade de baixar Aspose API." >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Não há necessidade de escrever nenhum código." >}}
         {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Basta enviar seus arquivos XLS." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-download" text="Ele será redigido instantaneamente." >}}
+        {{< blocks/products/pf/agp/democard icon="fa-download" text=" Ele será redigido instantaneamente." >}}
     {{< /blocks/products/pf/agp/demobox >}}
 
     {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLS" readMoreLink="https://docs.fileformat.com/spreadsheet/xls/" >}}
@@ -161,6 +155,7 @@ Arquivos com extensão XLS representam o formato de arquivo binário do Excel. E
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/redaction/ods/" name="ODS" description="Arquivo de planilha OpenDocument" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/redaction/xlsb/" name="XLSB" description="Arquivo binário da pasta de trabalho do Excel" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/redaction/xlsm/" name="XLSM" description="Arquivo de planilha" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/redaction/xlsx/" name="XLSX" description="Arquivo Excel OOXML" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

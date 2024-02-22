@@ -1,5 +1,5 @@
 ---
-title:  Sök och ersätt text i ODS dokument via C++
+title: Sök och ersätt text i ODS dokument via C++
 weight: 1610
 description: C++ exempelkod för att redigera känslig information i filen ODS på C++ Runtime Environment för Windows 32 bitar, Windows 64 bitar och Linux 64 bitar.
 keywords: [C++ Aspose.Cells., C++ Search and replace text in ODS file., C++ redact ODS file., C++ edit ODS file., C++ ODS file redaction., C++ Search and replace string in ODS file]
@@ -12,13 +12,7 @@ keywords: [C++ Aspose.Cells., C++ Search and replace text in ODS file., C++ reda
 
 {{% blocks/products/pf/agp/content h2="Hur man redigerar ODS-fil med C++" %}}
 
- För att redigera filen ODS kommer vi att använda
- [Aspose.Cells for C++](https://products.aspose.com/cells/cpp) 
- API som är en funktionsrik, kraftfull och lättanvänd plattform för dokumentredigering API for C++. Du kan ladda ner den senaste versionen direkt, bara öppna
- [NuGet](https://www.nuget.org/packages/aspose.cells) 
- pakethanterare, sök efter
- **Aspose.Cells.Cpp** 
- och installera. Du kan också använda följande kommando från Package Manager Console.
+ För att redigera filen ODS kommer vi att använda[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) API som är en funktionsrik, kraftfull och lättanvänd plattform för dokumentredigering API for C++. Du kan ladda ner den senaste versionen direkt, bara öppna[NuGet](https://www.nuget.org/packages/aspose.cells) pakethanterare, sök efter**Aspose.Cells.Cpp** och installera. Du kan också använda följande kommando från Package Manager Console.
 
 {{% blocks/products/pf/agp/code-block title="Kommando" offSpacer="true" %}}
 
@@ -38,15 +32,13 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% blocks/products/pf/agp/text %}}
 
- En grundläggande dokumentsökning och ersätt text i innehåll, kommentarer eller metadata med
- [Aspose.Cells for C++](https://products.aspose.com/cells/cpp) 
- API:er kan göras med bara några rader kod.
+ En grundläggande dokumentsökning och ersätt text i innehåll, kommentarer eller metadata med[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) API:er kan göras med bara några rader kod.
 
 {{% /blocks/products/pf/agp/text %}}
 
 + Ladda ODS fil.
 + Definiera ersättningsalternativ.
-+ Ställ in skiftlägeskänslighet.
+Ställ in skiftlägeskänslighet.
 + Ställ in textmatchningsalternativ
 + Ersätt text med metoden Ersätt(...).
 + Spara arbetsboken.
@@ -114,11 +106,11 @@ Aspose::Cells::Cleanup();
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Du behöver inte ladda ner Aspose API." >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Du behöver inte skriva någon kod." >}}
         {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Ladda bara upp dina ODS-filer." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-download" text="Den kommer att redigeras omedelbart." >}}
+        {{< blocks/products/pf/agp/democard icon="fa-download" text=" Den kommer att redigeras omedelbart." >}}
     {{< /blocks/products/pf/agp/demobox >}}
 
     {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="ODS" readMoreLink="https://docs.fileformat.com/spreadsheet/ods/" >}}
-Filer med tillägget ODS står för OpenDocument Spreadsheet Document-format som kan redigeras av användaren. Data lagras i ODF-filen i rader och kolumner. Det är XML-baserat format och är en av flera undertyper i familjen Open Document Formats (ODF). Formatet specificeras som en del av ODF 1.2-specifikationerna som publiceras och underhålls av OASIS. Ett antal applikationer på Windows såväl som andra operativsystem kan öppna ODS-filer för redigering och manipulering, inklusive Microsoft Excel, NeoOffice och LibreOffice. ODS-filer kan också konverteras till andra kalkylbladsformat, liksom XLS, XLSX och andra av olika applikationer.
+ Filer med tillägget ODS står för OpenDocument Spreadsheet Document-format som kan redigeras av användaren. Data lagras i ODF-filen i rader och kolumner. Det är XML-baserat format och är en av flera undertyper i familjen Open Document Formats (ODF). Formatet specificeras som en del av ODF 1.2-specifikationerna som publiceras och underhålls av OASIS. Ett antal applikationer på Windows såväl som andra operativsystem kan öppna ODS-filer för redigering och manipulering, inklusive Microsoft Excel, NeoOffice och LibreOffice. ODS-filer kan också konverteras till andra kalkylbladsformat, liksom XLS, XLSX och andra av olika applikationer.
 
     {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
@@ -131,6 +123,7 @@ Filer med tillägget ODS står för OpenDocument Spreadsheet Document-format som
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/redaction/xls/" name="XLS" description="Excel binärt format" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/redaction/xlsb/" name="XLSB" description="Binär Excel arbetsbok fil" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/redaction/xlsm/" name="XLSM" description="Kalkylbladsfil" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/redaction/xlsx/" name="XLSX" description="OOXML Excel-fil" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

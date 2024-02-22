@@ -12,13 +12,7 @@ keywords: [C# Aspose.Cells., c# Search and replace text in XLSB file., c# redact
 
 {{% blocks/products/pf/agp/content h2="วิธีแก้ไขไฟล์ XLSB โดยใช้ C#" %}}
 
- เพื่อทำการปกปิดไฟล์ XLSB เราจะใช้
- [Aspose.Cells for .NET](https://products.aspose.com/cells/net) 
- API ซึ่งเป็นโปรแกรมจัดการเอกสารที่มีคุณสมบัติหลากหลาย ทรงพลัง และใช้งานง่าย API สำหรับแพลตฟอร์ม C# เปิด
- [NuGet](https://www.nuget.org/packages/aspose.cells) 
- ผู้จัดการแพ็คเกจ ค้นหา
- **Aspose.Cells** 
- และติดตั้ง คุณอาจใช้คำสั่งต่อไปนี้จาก Package Manager Console
+ เพื่อทำการปกปิดไฟล์ XLSB เราจะใช้[Aspose.Cells for .NET](https://products.aspose.com/cells/net) API ซึ่งเป็นโปรแกรมจัดการเอกสารที่มีคุณสมบัติหลากหลาย ทรงพลัง และใช้งานง่าย API สำหรับแพลตฟอร์ม C# เปิด[NuGet](https://www.nuget.org/packages/aspose.cells) ผู้จัดการแพ็คเกจ ค้นหา**Aspose.Cells** และติดตั้ง คุณอาจใช้คำสั่งต่อไปนี้จาก Package Manager Console
 
 {{% blocks/products/pf/agp/code-block title="สั่งการ" offSpacer="true" %}}
 
@@ -38,9 +32,7 @@ PM> Install-Package Aspose.Cells
 
 {{% blocks/products/pf/agp/text %}}
 
- การค้นหาเอกสารขั้นพื้นฐานและแทนที่ข้อความในเนื้อหา ความคิดเห็น หรือข้อมูลเมตาด้วย
- [Aspose.Cells for .NET](https://products.aspose.com/cells/net) 
- API สามารถทำได้โดยใช้โค้ดเพียงไม่กี่บรรทัด
+ การค้นหาเอกสารขั้นพื้นฐานและแทนที่ข้อความในเนื้อหา ความคิดเห็น หรือข้อมูลเมตาด้วย[Aspose.Cells for .NET](https://products.aspose.com/cells/net) API สามารถทำได้โดยใช้โค้ดเพียงไม่กี่บรรทัด
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -57,7 +49,7 @@ PM> Install-Package Aspose.Cells
 
 {{% blocks/products/pf/agp/text %}}
 
- API ของเราได้รับการสนับสนุนบนแพลตฟอร์มและระบบปฏิบัติการหลักทั้งหมด ก่อนที่จะรันโค้ดด้านล่าง โปรดตรวจสอบให้แน่ใจว่าคุณมีข้อกำหนดเบื้องต้นต่อไปนี้ในระบบของคุณ
+API ของเราได้รับการสนับสนุนบนแพลตฟอร์มและระบบปฏิบัติการหลักทั้งหมด ก่อนที่จะรันโค้ดด้านล่าง โปรดตรวจสอบให้แน่ใจว่าคุณมีข้อกำหนดเบื้องต้นต่อไปนี้ในระบบของคุณ
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -122,7 +114,7 @@ wb.Save("e:\test2\output.xlsb");
             {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" ไม่ต้องดาวน์ Aspose API." >}}
             {{< blocks/products/pf/agp/democard icon="fa-edit" text=" ไม่จำเป็นต้องเขียนโค้ดใดๆ" >}}
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" เพียงอัพโหลดไฟล์ XLSB ของคุณ" >}}
-            {{< blocks/products/pf/agp/democard icon="fa-download" text="มันจะถูกแก้ไขทันที" >}}
+            {{< blocks/products/pf/agp/democard icon="fa-download" text=" มันจะถูกแก้ไขทันที" >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLSB" readMoreLink="https://docs.fileformat.com/spreadsheet/xlsb/" >}}
 รูปแบบไฟล์ XLSB ระบุรูปแบบไฟล์ไบนารีของ Excel ซึ่งเป็นคอลเลกชันของระเบียนและโครงสร้างที่ระบุเนื้อหาสมุดงาน Excel เนื้อหาอาจรวมถึงตารางตัวเลข ข้อความ หรือทั้งตัวเลขและข้อความ สูตร การเชื่อมต่อข้อมูลภายนอก แผนภูมิ และรูปภาพที่ไม่มีโครงสร้างหรือกึ่งโครงสร้าง ต่างจาก XLSX (ซึ่งยึดตามรูปแบบไฟล์ Open XML) XLSB แสดงถึงไฟล์เวิร์กบุ๊ก Excel ไบนารี ไฟล์ XLSB สามารถอ่านและเขียนได้รวดเร็วยิ่งขึ้น ซึ่งมีประโยชน์สำหรับการทำงานกับไฟล์ขนาดใหญ่ XLSB ไม่ค่อยได้ใช้เพื่อจัดเก็บสมุดงาน เนื่องจาก XLSX (และก่อนหน้านี้ XLS) เป็นรูปแบบไฟล์ที่ผู้ใช้เลือกบ่อยที่สุดสำหรับการบันทึกสมุดงาน สามารถเปิดได้ภายใน Microsoft Office 2007 ขึ้นไป
@@ -138,6 +130,7 @@ wb.Save("e:\test2\output.xlsb");
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/redaction/ods/" name="ODS" description="ไฟล์สเปรดชีต OpenDocument" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/redaction/xls/" name="XLS" description="รูปแบบไบนารีของ Excel" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/redaction/xlsm/" name="XLSM" description="ไฟล์สเปรดชีต" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/redaction/xlsx/" name="XLSX" description="ไฟล์ OOXML Excel" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

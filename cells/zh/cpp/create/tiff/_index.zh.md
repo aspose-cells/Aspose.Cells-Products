@@ -11,7 +11,7 @@ keywords: [Aspose Excel., C++ Aspose.Cells., C++ Create TIFF file., Generate TIF
 
 {{% blocks/products/pf/agp/content h2="使用 C++ 创建 TIFF 文件" %}}
 
-如何创建TIFF文件？使用 Aspose.Cells for C++ 库，您可以通过几行代码以编程方式轻松创建 TIFF 文件。[Aspose.Cells for C++](https://products.aspose.com/cells/cpp)能够构建跨平台应用程序，能够生成、修改、转换、渲染和打印所有 Excel 文件。 C++ Excel API 不仅可以在电子表格格式之间进行转换，还可以将 Excel 文件呈现为图像, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT等等，从而使其成为以行业标准交换文档的完美选择格式。您可以直接下载最新版本，打开即可[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/)包管理器，搜索Aspose.Cells.cpp并安装。您还可以从包管理器控制台使用以下命令。
+如何创建TIFF文件？使用 Aspose.Cells for C++ 库，您可以通过几行代码以编程方式轻松创建 TIFF 文件。[Aspose.Cells for C++](https://products.aspose.com/cells/cpp)能够构建跨平台应用程序，能够生成、修改、转换、渲染和打印所有 Excel 文件。 C++ Excel API 不仅可以在电子表格格式之间进行转换，还可以将 Excel 文件呈现为图像、PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT 等，从而使其成为以行业标准格式交换文档的完美选择。您可以直接下载最新版本，打开即可[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/)包管理器，搜索Aspose.Cells.cpp并安装。您还可以从包管理器控制台使用以下命令。
 
 {{% blocks/products/pf/agp/code-block title="命令" offSpacer="true" %}}
 
@@ -70,7 +70,6 @@ cell01.PutValue(u"ColumnB");
 cell10.PutValue(u"ValueA");
 cell11.PutValue(u"ValueB");
 
-//TIFF format is not supported
 // Save workbook to resultFile folder
 wkb.Save(u"created_one.tiff");
 

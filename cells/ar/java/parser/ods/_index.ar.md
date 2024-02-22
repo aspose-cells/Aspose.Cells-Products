@@ -12,11 +12,7 @@ keywords: [Java Aspose.Cells., Java Extract text and images from ODS file., Java
 
 {{% blocks/products/pf/agp/content h2="كيفية تحليل ملف ODS باستخدام Java" %}}
 
- من أجل تحليل الملف ODS، سنستخدم
- [Aspose.Cells for Java](https://products.aspose.com/cells/java) 
- API وهي منصة تحليلية غنية بالميزات وقوية وسهلة الاستخدام API for Java. يمكنك تنزيل أحدث إصدار مباشرة من
- [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) 
- وقم بتثبيته ضمن مشروعك المستند إلى Maven عن طريق إضافة التكوينات التالية إلى ملف pom.xml.
+ من أجل تحليل الملف ODS، سنستخدم[Aspose.Cells for Java](https://products.aspose.com/cells/java) API وهي منصة تحليلية غنية بالميزات وقوية وسهلة الاستخدام API for Java. يمكنك تنزيل أحدث إصدار مباشرة من[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) وقم بتثبيته ضمن مشروعك المستند إلى Maven عن طريق إضافة التكوينات التالية إلى ملف pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="مخزن" offSpacer="true" %}}
 
@@ -54,9 +50,7 @@ keywords: [Java Aspose.Cells., Java Extract text and images from ODS file., Java
 
 {{% blocks/products/pf/agp/text %}}
 
- تحليل الوثيقة الأساسية مع
- [Aspose.Cells for Java](https://products.aspose.com/cells/java) 
- يمكن إنشاء واجهات برمجة التطبيقات باستخدام بضعة أسطر من التعليمات البرمجية. تحليل النصوص والصور من Microsoft ملفات Excel XLS وXLSX وXLSM وXLSB وOpenDocument ODS.
+ تحليل الوثيقة الأساسية مع[Aspose.Cells for Java](https://products.aspose.com/cells/java)يمكن إنشاء واجهات برمجة التطبيقات باستخدام بضعة أسطر من التعليمات البرمجية. تحليل النصوص والصور من Microsoft ملفات Excel XLS وXLSX وXLSM وXLSB وOpenDocument ODS.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -76,7 +70,7 @@ keywords: [Java Aspose.Cells., Java Extract text and images from ODS file., Java
 
 {{% /blocks/products/pf/agp/text %}}
 
--  Microsoft Windows أو نظام تشغيل متوافق مع Java Runtime Environment لتطبيقات JSP/JSF وتطبيقات سطح المكتب.
+- Microsoft Windows أو نظام تشغيل متوافق مع Java Runtime Environment لتطبيقات JSP/JSF وتطبيقات سطح المكتب.
 -  احصل على أحدث إصدار من Aspose.Cells for Java مباشرة من
  [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells)  .
 
@@ -121,7 +115,7 @@ System.out.println(stringBuilder.toString());
 
 {{< blocks/products/pf/agp/about-file-section >}}
 
-    {{< blocks/products/pf/agp/demobox sectionTitle="العروض التوضيحية المباشرة للمحلل عبر الإنترنت ODS" sectionDescription=" قم باستخراج النصوص والصور من مستندات ODS الآن من خلال زيارة موقعنا[موقع العروض الحية](https://products.aspose.app/cells/parser). يتمتع العرض التجريبي المباشر بالمزايا التالية" >}}
+    {{< blocks/products/pf/agp/demobox sectionTitle="العروض التوضيحية المباشرة للمحلل عبر الإنترنت ODS" sectionDescription="قم باستخراج النصوص والصور من مستندات ODS الآن من خلال زيارة موقعنا[موقع العروض الحية](https://products.aspose.app/cells/parser). يتمتع العرض التجريبي المباشر بالمزايا التالية" >}}
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" لا داعي للتحميل Aspose API." >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" لا حاجة لكتابة أي رمز." >}}
         {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" فقط قم بتحميل ملفات ODS الخاصة بك." >}}
@@ -129,7 +123,7 @@ System.out.println(stringBuilder.toString());
     {{< /blocks/products/pf/agp/demobox >}}
 
     {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="ODS" readMoreLink="https://docs.fileformat.com/spreadsheet/ods/" >}}
-تمثل الملفات ذات الامتداد ODS تنسيق مستند جدول بيانات OpenDocument الذي يمكن للمستخدم تحريره. يتم تخزين البيانات داخل ملف ODF في صفوف وأعمدة. وهو تنسيق يستند إلى XML وهو أحد الأنواع الفرعية المتعددة في عائلة تنسيقات المستندات المفتوحة (ODF). تم تحديد التنسيق كجزء من مواصفات ODF 1.2 المنشورة والتي تحتفظ بها OASIS. يمكن لعدد من التطبيقات الموجودة على Windows بالإضافة إلى أنظمة التشغيل الأخرى فتح ملفات ODS للتحرير والمعالجة بما في ذلك Microsoft Excel وNeoOffice وLibreOffice. يمكن أيضًا تحويل ملفات ODS إلى تنسيقات جداول بيانات أخرى مثل XLS وXLSX وغيرها بواسطة تطبيقات مختلفة.
+ تمثل الملفات ذات الامتداد ODS تنسيق مستند جدول بيانات OpenDocument الذي يمكن للمستخدم تحريره. يتم تخزين البيانات داخل ملف ODF في صفوف وأعمدة. وهو تنسيق يستند إلى XML وهو أحد الأنواع الفرعية المتعددة في عائلة تنسيقات المستندات المفتوحة (ODF). تم تحديد التنسيق كجزء من مواصفات ODF 1.2 المنشورة والتي تحتفظ بها OASIS. يمكن لعدد من التطبيقات الموجودة على Windows بالإضافة إلى أنظمة التشغيل الأخرى فتح ملفات ODS للتحرير والمعالجة بما في ذلك Microsoft Excel وNeoOffice وLibreOffice. يمكن أيضًا تحويل ملفات ODS إلى تنسيقات جداول بيانات أخرى مثل XLS وXLSX وغيرها بواسطة تطبيقات مختلفة.
 
     {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
@@ -142,6 +136,7 @@ System.out.println(stringBuilder.toString());
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/parser/xls/" name="XLS" description="تنسيق ثنائي إكسل" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/parser/xlsb/" name="XLSB" description="ملف مصنف Excel الثنائي" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/parser/xlsm/" name="XLSM" description="ملف جدول البيانات" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/parser/xlsx/" name="XLSX" description="ملف اكسيل OOXML" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

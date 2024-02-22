@@ -12,13 +12,7 @@ keywords: [C# Aspose.Cells., c# Search and replace text in XLS file., c# redact 
 
 {{% blocks/products/pf/agp/content h2="A XLS fájl szerkesztése a C# használatával" %}}
 
- A XLS fájl szerkesztéséhez a következőt használjuk:
- [Aspose.Cells for .NET](https://products.aspose.com/cells/net) 
- API, amely funkciókban gazdag, hatékony és könnyen használható dokumentumkezelés API a C# platformhoz. Nyisd ki
- [NuGet](https://www.nuget.org/packages/aspose.cells) 
- csomagkezelő, keressen
- **Aspose.Cells** 
- és telepítse. A következő parancsot is használhatja a Package Manager konzolból.
+ A XLS fájl szerkesztéséhez a következőt használjuk:[Aspose.Cells for .NET](https://products.aspose.com/cells/net) API, amely funkciókban gazdag, hatékony és könnyen használható dokumentumkezelés API a C# platformhoz. Nyisd ki[NuGet](https://www.nuget.org/packages/aspose.cells) csomagkezelő, keressen**Aspose.Cells** és telepítse. A következő parancsot is használhatja a Package Manager konzolból.
 
 {{% blocks/products/pf/agp/code-block title="Parancs" offSpacer="true" %}}
 
@@ -38,9 +32,7 @@ PM> Install-Package Aspose.Cells
 
 {{% blocks/products/pf/agp/text %}}
 
- Alapvető dokumentum keresés és szöveg cseréje a tartalomban, a megjegyzésekben vagy a metaadatokban
- [Aspose.Cells for .NET](https://products.aspose.com/cells/net) 
- Az API-k néhány sornyi kóddal elkészíthetők.
+ Alapvető dokumentum keresés és szöveg cseréje a tartalomban, a megjegyzésekben vagy a metaadatokban[Aspose.Cells for .NET](https://products.aspose.com/cells/net) Az API-k néhány sornyi kóddal elkészíthetők.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -57,7 +49,7 @@ PM> Install-Package Aspose.Cells
 
 {{% blocks/products/pf/agp/text %}}
 
- API-jaink minden nagyobb platformon és operációs rendszeren támogatottak. Mielőtt végrehajtaná az alábbi kódot, győződjön meg arról, hogy a következő előfeltételek vannak a rendszeren.
+API-jaink minden nagyobb platformon és operációs rendszeren támogatottak. Mielőtt végrehajtaná az alábbi kódot, győződjön meg arról, hogy a következő előfeltételek vannak a rendszeren.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -122,7 +114,7 @@ wb.Save("e:\test2\output.xls");
             {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Nem kell letölteni a Aspose API számot." >}}
             {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Nem kell kódot írni." >}}
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Csak töltse fel a XLS fájlokat." >}}
-            {{< blocks/products/pf/agp/democard icon="fa-download" text="Azonnal szerkesztve lesz." >}}
+            {{< blocks/products/pf/agp/democard icon="fa-download" text=" Azonnal szerkesztve lesz." >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLS" readMoreLink="https://docs.fileformat.com/spreadsheet/xls/" >}}
  XLS kiterjesztésű fájlok Excel bináris fájlformátumot képviselnek. Az ilyen fájlokat a Microsoft Excel, valamint más hasonló táblázatkezelő programok, például az OpenOffice Calc vagy az Apple Numbers is létrehozhatják. Az Excel által mentett fájlokat munkafüzetnek nevezik, ahol minden munkafüzetnek egy vagy több munkalapja lehet. Az adatok tárolása és megjelenítése táblázatos formában, munkalapon történik a felhasználók számára, és átfoghatnak számértékeket, szöveges adatokat, képleteket, külső adatkapcsolatokat, képeket és diagramokat. Az olyan alkalmazások, mint a Microsoft Excel, lehetővé teszik a munkafüzet adatainak több különböző formátumba történő exportálását, beleértve a PDF, CSV, XLSX, TXT, HTML, XPS és sok más formátumot. A XLS fájlformátumot egy nyitottabb és strukturáltabb formátum, a XLSX váltotta fel a Microsoft Excel 2007 kiadásával. A legújabb verziók továbbra is támogatják a XLS fájlok létrehozását és olvasását, bár most a XLSX az első számú választás.
@@ -138,6 +130,7 @@ wb.Save("e:\test2\output.xls");
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/redaction/ods/" name="ODS" description="OpenDocument táblázatfájl" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/redaction/xlsb/" name="XLSB" description="Bináris Excel munkafüzet fájl" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/redaction/xlsm/" name="XLSM" description="Táblázatfájl" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/redaction/xlsx/" name="XLSX" description="OOXML Excel fájl" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

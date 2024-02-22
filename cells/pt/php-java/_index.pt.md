@@ -12,7 +12,7 @@ description: Planilha PHP Excel API para ler, escrever e converter XLS XLSX CSV 
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
- Aspose.Cells for PHP via Java é um gerenciamento e processamento de planilhas Excel escalonável e rico em recursos API. Os aplicativos podem realizar conversão de formato de planilha, gerenciamento e renderização de gráficos, implementação de fórmulas, estilo de planilhas no nível mais granular e muito mais. API suporta XLS, XLSX, ODS, SpreadsheetML, CSV, delimitado por tabulação, HTML/MHTML, PDF, XPS e outros formatos. Os desenvolvedores podem adicionar facilmente a capacidade de criar, editar, converter e renderizar arquivos Excel em seus aplicativos PHP enquanto usam o JavaBridge.
+Aspose.Cells for PHP via Java é um gerenciamento e processamento de planilhas Excel escalonável e rico em recursos API. Os aplicativos podem realizar conversão de formato de planilha, gerenciamento e renderização de gráficos, implementação de fórmulas, estilo de planilhas no nível mais granular e muito mais. API suporta XLS, XLSX, ODS, SpreadsheetML, CSV, delimitado por tabulação, HTML/MHTML, PDF, XPS e outros formatos. Os desenvolvedores podem adicionar facilmente a capacidade de criar, editar, converter e renderizar arquivos Excel em seus aplicativos PHP enquanto usam o JavaBridge.
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
@@ -179,7 +179,7 @@ description: Planilha PHP Excel API para ler, escrever e converter XLS XLSX CSV 
      <b>
  Microsoft Excel:
      </b>
- XLS, XLSX, XLSB, XLTX, XLTM, XLSM, XML
+ XLS, XLSX, XLSB, XLT, XLTX, XLTM, XLSM, XML, OTS
     </li>
     <li>
      <b>
@@ -191,13 +191,25 @@ description: Planilha PHP Excel API para ler, escrever e converter XLS XLSX CSV 
      <b>
  Texto:
      </b>
- CSV, delimitado por tabulação, TXT
+     CSV, TSV, JSON
     </li>
     <li>
      <b>
  Rede:
      </b>
      HTML, MHTML
+    </li>
+    <li>
+     <b>
+      Numbers:
+     </b>
+ Documentos do aplicativo iWork office suite Numbers da Apple
+    </li>
+    <li>
+     <b>
+ Outros:
+     </b>
+ SXC, FODS, EPUB
     </li>
    </ul>
   </div>
@@ -206,20 +218,32 @@ description: Planilha PHP Excel API para ler, escrever e converter XLS XLSX CSV 
    <header>
     <i class="fa fa-mail-forward">
     </i>
- Somente saída
+Somente saída
    </header>
    <ul>
     <li>
      <b>
  Layout Fixo:
      </b>
-     PDF, XPS
+ PDF, PDF/A, XPS
     </li>
+    <li>
+     <b>
+ Intercâmbio de dados:
+     </b>
+     DIF
+    </li>    
     <li>
      <b>
  Imagens:
      </b>
      JPEG, PNG, BMP, SVG, TIFF, EMF, GIF
+    </li>
+    <li>
+     <b>
+ Outros:
+     </b>
+ MARKDOWN,SQL,XTHML
     </li>
    </ul>
   </div>
@@ -264,7 +288,7 @@ description: Planilha PHP Excel API para ler, escrever e converter XLS XLSX CSV 
     <em class="fa fa-support ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Suporte para CSV, delimitado por tabulação e HTML formatos
+Suporte para CSV, delimitado por tabulação e HTML formatos
     </p>
    </div>
    <div class="col-lg-4">
@@ -370,7 +394,7 @@ description: Planilha PHP Excel API para ler, escrever e converter XLS XLSX CSV 
  Converta arquivos Excel para XPS, PDF e PDF. HTML
     </h2>
     <p>
-Aspose.Cells for PHP via Java API é capaz de converter arquivos Excel para os formatos XPS, XPS e HTML, além de manter a mais alta fidelidade visual. O processo de conversão é confiável e os desenvolvedores podem obter o formato necessário com apenas algumas linhas.
+ Aspose.Cells for PHP via Java API é capaz de converter arquivos Excel para os formatos XPS, XPS e HTML, além de manter a mais alta fidelidade visual. O processo de conversão é confiável e os desenvolvedores podem obter o formato necessário com apenas algumas linhas.
     </p>
     <div class="codeblock" id="code">
      <h3>
@@ -396,7 +420,7 @@ $wkbk-&gt;save("output.html", SaveFormat::HTML);</code></pre>
  Renderizar planilhas do Excel e Objetos para PDF &amp; Imagens
     </h2>
     <p>
- Aspose.Cells for PHP via Java possui seu próprio mecanismo de renderização especialmente projetado para renderizar com a mais alta fidelidade ao Excel Microsoft. Ao usar Aspose.Cells for PHP via Java, você pode converter planilhas inteiras, planilhas individuais e arquivos individuais. gráficos para uma série de imagens e gráficos. formatos de layout fixo.
+Aspose.Cells for PHP via Java possui seu próprio mecanismo de renderização especialmente projetado para renderizar com a mais alta fidelidade ao Excel Microsoft. Ao usar Aspose.Cells for PHP via Java, você pode converter planilhas inteiras, planilhas individuais e arquivos individuais. gráficos para uma série de imagens e gráficos. formatos de layout fixo.
     </p>
    </div>
    <div class="col-lg-12">
@@ -404,7 +428,7 @@ $wkbk-&gt;save("output.html", SaveFormat::HTML);</code></pre>
  Opções flexíveis de exibição de planilhas
     </h2>
     <p>
-Aspose.Cells for PHP via Java oferece controle completo sobre a configuração da página da planilha, permitindo manipular as opções de exibição da planilha do Excel, como quebras de página, orientação da página, dimensionamento, tamanho do papel, cabeçalhos/rodapés e cabeçalhos. nível de zoom. Você também pode controlar a visibilidade dos dados usando painéis congelados e controles remotos. área de impressão para atender aos requisitos da sua aplicação.
+ Aspose.Cells for PHP via Java oferece controle completo sobre a configuração da página da planilha, permitindo manipular as opções de exibição da planilha do Excel, como quebras de página, orientação da página, dimensionamento, tamanho do papel, cabeçalhos/rodapés e cabeçalhos. nível de zoom. Você também pode controlar a visibilidade dos dados usando painéis congelados e controles remotos. área de impressão para atender aos requisitos da sua aplicação.
     </p>
    </div>
    <div class="col-lg-12">
@@ -412,7 +436,7 @@ Aspose.Cells for PHP via Java oferece controle completo sobre a configuração d
  Eficiente, robusto e eficiente Mecanismo confiável de cálculo de fórmulas
     </h2>
     <p>
- Aspose.Cells for PHP via Java está equipado com um poderoso mecanismo de cálculo de fórmulas que suporta quase todas as fórmulas e funções padrão e avançadas do Excel Microsoft. Você pode ler, definir e calcular os resultados de fórmulas de tipo, matriz e estilo de referência R1C1 integradas ou complementares.
+Aspose.Cells for PHP via Java está equipado com um poderoso mecanismo de cálculo de fórmulas que suporta quase todas as fórmulas e funções padrão e avançadas do Excel Microsoft. Você pode ler, definir e calcular os resultados de fórmulas de tipo, matriz e estilo de referência R1C1 integradas ou complementares.
     </p>
    </div>
    <div class="col-lg-12">
@@ -423,7 +447,7 @@ Aspose.Cells for PHP via Java oferece controle completo sobre a configuração d
  A biblioteca é tão flexível que é possível fornecer planilhas com todos os tipos de efeitos visuais, bem como aplicar formatação a uma planilha, linha, coluna ou célula, definir fontes com atributos, definir estilos e configurações de células. formatos numéricos, adicione Rich Text e defina regras de formatação condicional.
     </p>
     <p>
-Da mesma forma, para uma aparência profissional e fácil compreensão, tabelas e gráficos são partes integrantes. Aspose.Cells for PHP via Java APIs podem criar e manipular todos os tipos de gráficos padrão e personalizados. Além disso, diferentes tipos de objetos de desenho às células podem ser facilmente adicionados.
+ Da mesma forma, para uma aparência profissional e fácil compreensão, tabelas e gráficos são partes integrantes. Aspose.Cells for PHP via Java APIs podem criar e manipular todos os tipos de gráficos padrão e personalizados. Além disso, diferentes tipos de objetos de desenho às células podem ser facilmente adicionados.
     </p>
    </div>
   </div>

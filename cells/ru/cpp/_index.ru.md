@@ -1,11 +1,11 @@
 ---
-title: C++ Программирование электронных таблиц Excel API - Aspose
+title: C++ библиотека Excel - Aspose.Cells
 weight: 7140
 description: Aspose.Cells for C++ библиотека для создания, восстановления, объединения, анализа и преобразования файлов Excel. Конвертируйте Excel в PDF, JSON, XML, TSV и так далее.
-keywords: [C++ Aspose.Cells Create repair parse merge convert JSON Excel XML PDF HTML TSV SQL ODS CSV TXT PNG JPEG and more formats]
+keywords: [C++ library execl Aspose.Cells Create repair parse merge convert JSON Excel XML PDF HTML TSV SQL ODS CSV TXT PNG JPEG and more formats]
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="C++ API-интерфейсы таблиц Excel" h2="Создавайте, читайте, записывайте и анализируйте электронные таблицы без каких-либо зависимостей Microsoft Excel в полнофункциональных приложениях C++." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/headers/aspose_cells-for-cpp.svg" pfName="Aspose.Cells" subTitlepfName="for C++" downloadUrl="https://downloads.aspose.com/cells/cpp" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="C++ библиотека Excel - Aspose.Cells" h2="Создавайте, читайте, записывайте и анализируйте электронные таблицы без каких-либо зависимостей Microsoft Excel в полнофункциональных приложениях C++." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/headers/aspose_cells-for-cpp.svg" pfName="Aspose.Cells" subTitlepfName="for C++" downloadUrl="https://downloads.aspose.com/cells/cpp" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells" subTitlepfName="for C++" >}}
 
@@ -13,7 +13,7 @@ keywords: [C++ Aspose.Cells Create repair parse merge convert JSON Excel XML PDF
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
- Aspose.Cells for C++ — это собственный номер C++ API для манипуляций с электронными таблицами. Приложения могут выполнять такие функции, как создание, преобразование и редактирование встроенных и настраиваемых свойств электронных таблиц, тем, стилей и форматирования, проверки данных, условного форматирования, чтения, написания и расчета формул, группировки строк и столбцов и многое другое, не полагаясь на автоматизацию офиса. или Microsoft Excel. API поддерживает наиболее часто используемые форматы электронных таблиц, такие как XLS, XLSX, XLSM и XLSB.
+Библиотека Aspose.Cells C++ — это собственная библиотека C++ для работы с электронными таблицами. Приложения могут выполнять такие функции, как создание, преобразование и редактирование встроенных и настраиваемых свойств электронных таблиц, тем, стилей и форматирования, проверки данных, условного форматирования, чтения, написания и расчета формул, группировки строк и столбцов и многое другое, не полагаясь на автоматизацию офиса. или Microsoft Excel. API поддерживает наиболее распространенные форматы электронных таблиц (например, XLS, XLSX, XLSM и XLSB), а также другие типы форматов файлов (например, PDF, XPS) и наиболее распространенные форматы изображений (например, JPEG, PNG, BMP, TIFF , GIF, EMF, SVG).
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
@@ -41,7 +41,7 @@ keywords: [C++ Aspose.Cells Create repair parse merge convert JSON Excel XML PDF
  Сводная таблица
     </li>
     <li>
-Таблицы
+ Таблицы
     </li>
     <li>
  Графики
@@ -66,7 +66,7 @@ keywords: [C++ Aspose.Cells Create repair parse merge convert JSON Excel XML PDF
    </header>
    <ul>
     <li>
- Загрузить/сохранить таблицы
+Загрузить/сохранить таблицы
     </li>
     <li>
  Манипуляция данными
@@ -168,7 +168,7 @@ keywords: [C++ Aspose.Cells Create repair parse merge convert JSON Excel XML PDF
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Поддерживаемые форматы файлов" description=" Aspose.Cells for C++ поддерживает наиболее часто используемые электронные таблицы.[форматы файлов](https://docs.aspose.com/cells/cpp/supported-file-formats/)." >}}
+{{< blocks/products/pf/carousel-item h3="Поддерживаемые форматы файлов" description=" Библиотека Aspose.Cells C++ поддерживает наиболее часто используемые электронные таблицы.[форматы файлов](https://docs.aspose.com/cells/cpp/supported-file-formats/)." >}}
 <div class="diagram1 d2 d1-cplus">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -182,25 +182,37 @@ keywords: [C++ Aspose.Cells Create repair parse merge convert JSON Excel XML PDF
      <b>
  Microsoft Эксель:
      </b>
- XLS, XLSX, XLSB, XLT, XLTX, XLTM, XLSM, XML
+ XLS, XLSX, XLSB, XLT, XLTX, XLTM, XLSM, XML, OTS
+    </li>
+    <li>
+     <b>
+ ОпенОфис:
+     </b>
+     ODS
     </li>
     <li>
      <b>
  Текст:
      </b>
-     CSV, TSV
+     CSV, TSV, JSON
     </li>
     <li>
-     <strong>
- Открыть документ:
-     </strong>
-     ODS
-    </li>
-    <li>
-     <strong>
- Другие:
-     </strong>
+     <b>
+ Интернет:
+     </b>
      HTML, MHTML
+    </li>
+    <li>
+     <b>
+      Numbers:
+     </b>
+ Документы приложения офисного пакета Apple iWork Numbers
+    </li>
+    <li>
+     <b>
+ Другие:
+     </b>
+ SXC, FODS, EPUB
     </li>
    </ul>
   </div>
@@ -209,26 +221,32 @@ keywords: [C++ Aspose.Cells Create repair parse merge convert JSON Excel XML PDF
    <header>
     <i class="fa fa-mail-forward">
     </i>
- Только вывод
+Только вывод
    </header>
    <ul>
     <li>
      <b>
- Эксель:
+ Фиксированная планировка:
      </b>
-     XLSM, XLTX, XLTM, XLAM
+ PDF, PDF/А, XPS
     </li>
     <li>
      <b>
- Фиксированная планировка:
+ Обмен данными:
      </b>
-     PDF, XPS
-    </li>
+     DIF
+    </li>    
     <li>
      <b>
  Изображений:
      </b>
-     JPEG, PNG, BMP, GIF, EMF, SVG
+     JPEG, PNG, BMP, SVG, TIFF, EMF, GIF
+    </li>
+    <li>
+     <b>
+ Другие:
+     </b>
+ MARKDOWN, SQL, XTHML
     </li>
    </ul>
   </div>
@@ -264,7 +282,7 @@ keywords: [C++ Aspose.Cells Create repair parse merge convert JSON Excel XML PDF
  <div class="row">
   <div class="container">
    <h2 class="pr-ft">
- Расширенные возможности C++ Электронная таблица API
+ Расширенные возможности библиотеки C++ для Excel — Aspose.Cells
    </h2>
    <!-- <p>Unlike similar products from other vendors, Aspose.Cells for C++ not only supports spreadsheet generation and other basic file formatting features, it also supports a number of advanced features. These advanced features make it much easier for developers to manipulate spreadsheet contents and format cells.</p> 
 
@@ -275,7 +293,7 @@ keywords: [C++ Aspose.Cells Create repair parse merge convert JSON Excel XML PDF
     <em class="fa fa-save ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-Загрузить и усилить; сохранять файлы Excel с помощью потоков
+ Загрузить и усилить; сохранять файлы Excel с помощью потоков
     </p>
    </div>
    <div class="col-lg-4">
@@ -373,7 +391,7 @@ keywords: [C++ Aspose.Cells Create repair parse merge convert JSON Excel XML PDF
     <em class="fa fa-tags ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Создание правил условного форматирования
+Создание правил условного форматирования
     </p>
    </div>
    <div class="col-lg-4">
@@ -399,10 +417,34 @@ keywords: [C++ Aspose.Cells Create repair parse merge convert JSON Excel XML PDF
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
+ Системные Требования
+    </h2>
+ Библиотека Aspose.Cells C++ для Excel поддерживает следующие 64- или 32-разрядные операционные системы и платформы:
+		<table>  
+			<tr>
+					<td style="font-weight: bold; width:400px">Операционная система</td>
+					<td style="font-weight: bold; width:400px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Версии</td>
+				</tr>
+		  <tr>
+					<td>Microsoft Windows</td>
+					<td><ul><li>Windows х86</li><li>Windows x86_64</li></ul></td>
+		  </tr>
+		  <tr>
+					<td>Линукс</td>
+					<td><ul><li>Linux x86_64</li><li>Linux для ARM (aarch64)</li></ul></td>
+				</tr>
+		  <tr>
+					<td>macOS</td>
+					<td><ul><li>macOS 11 или новее (arm64, x86_64)</li></ul></td>
+				</tr>
+		</table>
+   </div>
+   <div class="col-lg-12">
+    <h2 class="h2title">
  Нулевая зависимость от Microsoft Excel
     </h2>
     <p>
-Aspose API полностью независимы и не связаны, не авторизованы, не спонсируются и не одобрены иным образом Microsoft Corporation. Aspose.Cells for C++ никогда не требует установки Microsoft Office или Microsoft Excel на компьютере для работы с форматами документов Excel.
+ Библиотека Aspose.Cells C++ для Excel является полностью независимой и не связана, не авторизована, не спонсируется и не одобрена иным образом Microsoft Corporation. Библиотеке Aspose.Cells C++ никогда не требуется установка Microsoft Office или Microsoft Excel на компьютере для работы с форматами документов Excel.
     </p>
    </div>
    <div class="col-lg-12">
@@ -410,7 +452,7 @@ Aspose API полностью независимы и не связаны, не 
  Простой и усилитель; Надежное преобразование форматов Excel
     </h2>
     <p>
- Aspose.Cells for C++ — это мощный набор API-интерфейсов, которые обеспечивают возможность загрузки, редактирования, записи и взаимного преобразования форматов файлов Excel, не беспокоясь о деталях формата. API позволяет конвертировать электронные таблицы из любого поддерживаемого формата в любой другой поддерживаемый формат с помощью всего двух строк кода. Это так просто!
+Библиотека Aspose.Cells C++ представляет собой мощный набор API-интерфейсов, которые обеспечивают возможность загрузки, редактирования, записи и взаимного преобразования форматов файлов Excel, не беспокоясь о деталях формата. API позволяет конвертировать электронные таблицы из любого поддерживаемого формата в любой другой поддерживаемый формат с помощью всего двух строк кода. Это так просто!
     </p>
     <div class="codeblock" id="code">
      <h3>
@@ -434,7 +476,7 @@ Aspose API полностью независимы и не связаны, не 
  Комплексное форматирование электронных таблиц
     </h2>
     <p>
-Aspose.Cells for C++ дает вам полный контроль над тем, как вы хотите представить свои данные на листе, предлагая расширенные функции форматирования. Вы можете применить форматирование к отдельной строке, столбцу, ячейке или создать диапазон ячеек и применить к нему форматирование. Вы также можете добавить в ячейку форматированный текст, применить границы, установить фоновые узоры или настроить аспекты стиля, связанные со шрифтом.
+ Библиотека Aspose.Cells C++ дает вам полный контроль над тем, как вы хотите представить свои данные на листе, предлагая расширенные функции форматирования. Вы можете применить форматирование к отдельной строке, столбцу, ячейке или создать диапазон ячеек и применить к нему форматирование. Вы также можете добавить в ячейку форматированный текст, применить границы, установить фоновые узоры или настроить аспекты стиля, связанные со шрифтом.
     </p>
    </div>
    <div class="col-lg-12">
@@ -442,7 +484,7 @@ Aspose.Cells for C++ дает вам полный контроль над тем
  Визуализация данных с помощью диаграмм
     </h2>
     <p>
- Aspose.Cells for C++ предлагает полный набор API для динамического создания всех стандартных и пользовательских типов диаграмм, поддерживаемых приложением Excel. API также предоставляет возможность обновить источник данных для существующей диаграммы и обновить его.
+Библиотека Aspose.Cells C++ предлагает полный набор API-интерфейсов для динамического создания всех стандартных и пользовательских типов диаграмм, поддерживаемых приложением Excel. API также предоставляет возможность обновить источник данных для существующей диаграммы и обновить его.
     </p>
    </div>
    <div class="col-lg-12">
@@ -450,7 +492,7 @@ Aspose.Cells for C++ дает вам полный контроль над тем
  Рендеринг рабочих листов в виде изображений
     </h2>
     <p>
-Библиотека выполняет рендеринг с высочайшей точностью в формате Microsoft Excel, используя собственный механизм рендеринга. Он предлагает такие отличительные функции, как преобразование рабочих листов в изображения в популярных форматах, включая BMP, PNG, JPEG и amp; EMF. Процесс Sheet2Image является гибким, что позволяет выбирать такие параметры, как управление разрешением результирующего изображения.
+ Библиотека Aspose.Cells C++ выполняет рендеринг с высочайшей точностью в формате Microsoft Excel, используя собственный механизм рендеринга. Он предлагает такие отличительные функции, как преобразование рабочих листов в изображения в популярных форматах, включая BMP, TIFF, PNG, JPEG и amp; EMF. Процесс Sheet2Image является гибким, что позволяет выбирать такие параметры, как управление разрешением результирующего изображения.
     </p>
    </div>
    <div class="col-lg-12">
@@ -458,7 +500,7 @@ Aspose.Cells for C++ дает вам полный контроль над тем
  Манипулирование столбцами и строками
     </h2>
     <p>
- Aspose.Cells for C++ предлагает манипулирование строками и столбцами несколькими способами. Отрегулировать высоту строки и ширину столбца или автоматически изменить размеры ячейки в соответствии с ее содержимым — слишком просто. API также предлагает средства для удаления и вставки, скрытия или отображения, а также группировки или разгруппировки строк и столбцов.
+Библиотека Aspose.Cells C++ предлагает различные способы манипулирования строками и столбцами. Отрегулировать высоту строки и ширину столбца или автоматически изменить размеры ячейки в соответствии с ее содержимым — слишком просто. API также предлагает средства для удаления и вставки, скрытия или отображения, а также группировки или разгруппировки строк и столбцов.
     </p>
    </div>
    <div class="col-lg-12">
@@ -466,7 +508,7 @@ Aspose.Cells for C++ дает вам полный контроль над тем
  Точно конвертируйте электронные таблицы в PDF
     </h2>
     <p>
-Библиотека Excel C++ предоставляет возможность конвертировать электронные таблицы в формат PDF, сохраняя при этом то же качество, что и исходный документ. Этот факт делает номер Aspose.Cells for C++ идеальным выбором для организаций, которым требуется обмен документами в стандартных отраслевых форматах, таких как PDF.
+ Библиотека Aspose.Cells C++ предоставляет возможность конвертировать электронные таблицы в формат PDF, сохраняя при этом то же качество, что и исходный документ. Этот факт делает библиотеку Aspose.Cells C++ идеальным выбором для организаций, которым требуется обмениваться документами в стандартных отраслевых форматах, таких как PDF.
     </p>
    </div>
    <!-- 

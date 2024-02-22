@@ -1,5 +1,5 @@
 ---
-title: Filigran ODS belge via Java
+title:  Filigran ODS belge via Java
 weight: 1040
 description: JSP/JSF Uygulaması ve Masaüstü Uygulamaları için Java Çalışma Zamanı Ortamı'ndaki ODS dosyasına filigran eklemek veya kaldırmak için Java örnek kodu.
 keywords: [Java Aspose.Cells., Java add watermark to ods file., Java insert watermark to ods file., Java create watermark in ods file., remove watermark from ods file using Java., Java operate watermark in ods file., Java access watermark in ods file]
@@ -12,11 +12,7 @@ keywords: [Java Aspose.Cells., Java add watermark to ods file., Java insert wate
 
 {{% blocks/products/pf/agp/content h2="Java Kullanılarak ODS Dosyasına Filigran Nasıl Yapılır?" %}}
 
- ODS dosyasını filigranlamak için kullanacağız
- [Aspose.Cells for Java](https://products.aspose.com/cells/java) 
- Zengin özelliklere sahip, güçlü ve kullanımı kolay bir filigranlama platformu olan API API for Java. En son sürümünü doğrudan adresinden indirebilirsiniz.
- [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) 
- ve aşağıdaki yapılandırmaları pom.xml dosyasına ekleyerek Maven tabanlı projenize kurun.
+ ODS dosyasını filigranlamak için kullanacağız[Aspose.Cells for Java](https://products.aspose.com/cells/java) Zengin özelliklere sahip, güçlü ve kullanımı kolay bir filigranlama platformu olan API API for Java. En son sürümünü doğrudan adresinden indirebilirsiniz.[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) ve aşağıdaki yapılandırmaları pom.xml dosyasına ekleyerek Maven tabanlı projenize kurun.
 
 {{% blocks/products/pf/agp/code-block title="Depo" offSpacer="true" %}}
 
@@ -129,7 +125,7 @@ workbook.save(dataDir + "AWArtWToWorksheet_out.ods");
     {{< blocks/products/pf/agp/about-file-section >}}
 
         {{< blocks/products/pf/agp/demobox sectionTitle="Filigran ODS Çevrimiçi Uygulama aracılığıyla" sectionDescription=" ODS belgemize filigran ekleyin.[Canlı Demolar web sitesi](https://products.aspose.app/cells/watermark). Canlı demo aşağıdaki avantajlara sahiptir" >}}
-            {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Hiçbir şey indirmenize veya kurmanıza gerek yok" >}}
+            {{< blocks/products/pf/agp/democard icon="fa-cogs" text="Hiçbir şey indirmenize veya kurmanıza gerek yok" >}}
             {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Herhangi bir kod yazmaya gerek yok" >}}
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Sadece ODS dosyanızı yükleyin, filigranınızı ayarlayın ve \"Ekle\" düğmesine basın" >}}
             {{< blocks/products/pf/agp/democard icon="fa-download" text=" Ortaya çıkan dosyanın indirme bağlantısını anında alın" >}}
@@ -148,6 +144,7 @@ ODS uzantılı dosyalar, kullanıcı tarafından düzenlenebilen OpenDocument El
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/watermark/xls/" name="XLS" description="Excel İkili Formatı" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/watermark/xlsb/" name="XLSB" description="İkili Excel Çalışma Kitabı Dosyası" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/watermark/xlsm/" name="XLSM" description="Elektronik Tablo Dosyası" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/watermark/xlsx/" name="XLSX" description="OOXML Excel Dosyası" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

@@ -1,5 +1,5 @@
 ---
-title: Filigrana XLSB documento via Java
+title:  Filigrana XLSB documento via Java
 weight: 5900
 description: Codice di esempio Java per aggiungere o rimuovere la filigrana nel file XLSB nell'ambiente runtime Java per applicazioni JSP/JSF e applicazioni desktop.
 keywords: [Java Aspose.Cells., Java add watermark to xlsb file., Java insert watermark to xlsb file., Java create watermark in xlsb file., remove watermark from xlsb file using Java., Java operate watermark in xlsb file., Java access watermark in xlsb file]
@@ -12,11 +12,7 @@ keywords: [Java Aspose.Cells., Java add watermark to xlsb file., Java insert wat
 
 {{% blocks/products/pf/agp/content h2="Come filigranare il file XLSB utilizzando Java" %}}
 
- Per filigranare il file XLSB, utilizzeremo
- [Aspose.Cells for Java](https://products.aspose.com/cells/java) 
- API che è una piattaforma di filigrana API for Java ricca di funzionalità, potente e facile da usare. Puoi scaricare la versione più recente direttamente da
- [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) 
- e installalo nel tuo progetto basato su Maven aggiungendo le seguenti configurazioni a pom.xml.
+ Per filigranare il file XLSB, utilizzeremo[Aspose.Cells for Java](https://products.aspose.com/cells/java) API che è una piattaforma di filigrana API for Java ricca di funzionalità, potente e facile da usare. Puoi scaricare la versione più recente direttamente da[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) e installalo nel tuo progetto basato su Maven aggiungendo le seguenti configurazioni a pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Deposito" offSpacer="true" %}}
 
@@ -129,7 +125,7 @@ workbook.save(dataDir + "AWArtWToWorksheet_out.xlsb");
     {{< blocks/products/pf/agp/about-file-section >}}
 
         {{< blocks/products/pf/agp/demobox sectionTitle="Filigrana XLSB tramite app online" sectionDescription=" Aggiungi la filigrana ai documenti XLSB visitando il nostro[Sito web delle demo dal vivo](https://products.aspose.app/cells/watermark). La demo live presenta i seguenti vantaggi" >}}
-            {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Non è necessario scaricare o configurare nulla" >}}
+            {{< blocks/products/pf/agp/democard icon="fa-cogs" text="Non è necessario scaricare o configurare nulla" >}}
             {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Non è necessario scrivere alcun codice" >}}
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Basta caricare il file XLSB, impostare la filigrana e premere il pulsante \"Aggiungi\"." >}}
             {{< blocks/products/pf/agp/democard icon="fa-download" text=" Ottieni immediatamente il collegamento per il download del file risultante" >}}
@@ -148,6 +144,7 @@ Il formato file XLSB specifica il formato file binario di Excel, ovvero una racc
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/watermark/ods/" name="ODS" description="File di foglio di calcolo OpenDocument" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/watermark/xls/" name="XLS" description="Formato binario Excel" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/watermark/xlsm/" name="XLSM" description="File di foglio di calcolo" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/watermark/xlsx/" name="XLSX" description="File Excel OOXML" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

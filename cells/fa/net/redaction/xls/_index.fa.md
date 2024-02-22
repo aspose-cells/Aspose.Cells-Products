@@ -12,13 +12,7 @@ keywords: [C# Aspose.Cells., c# Search and replace text in XLS file., c# redact 
 
 {{% blocks/products/pf/agp/content h2="نحوه ویرایش فایل XLS با استفاده از C#" %}}
 
- به منظور ویرایش فایل XLS، ما از
- [Aspose.Cells for .NET](https://products.aspose.com/cells/net) 
- API که دارای ویژگی های غنی، قدرتمند و آسان برای دستکاری اسناد است API برای پلت فرم C#. باز کن
- [NuGet](https://www.nuget.org/packages/aspose.cells) 
- مدیر بسته، جستجو کنید
- **Aspose.Cells** 
- و نصب کنید. همچنین می توانید از دستور زیر در کنسول Package Manager استفاده کنید.
+ به منظور ویرایش فایل XLS، ما از[Aspose.Cells for .NET](https://products.aspose.com/cells/net) API که دارای ویژگی های غنی، قدرتمند و آسان برای دستکاری اسناد است API برای پلت فرم C#. باز کن[NuGet](https://www.nuget.org/packages/aspose.cells) مدیر بسته، جستجو کنید**Aspose.Cells** و نصب کنید. همچنین می توانید از دستور زیر در کنسول Package Manager استفاده کنید.
 
 {{% blocks/products/pf/agp/code-block title="فرمان" offSpacer="true" %}}
 
@@ -38,9 +32,7 @@ PM> Install-Package Aspose.Cells
 
 {{% blocks/products/pf/agp/text %}}
 
- یک سند اساسی جستجو کنید و متن را در محتوا، نظرات یا ابرداده جایگزین کنید
- [Aspose.Cells for .NET](https://products.aspose.com/cells/net) 
- API ها را می توان تنها با چند خط کد انجام داد.
+ یک سند اساسی جستجو کنید و متن را در محتوا، نظرات یا ابرداده جایگزین کنید[Aspose.Cells for .NET](https://products.aspose.com/cells/net) API ها را می توان تنها با چند خط کد انجام داد.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -57,7 +49,7 @@ PM> Install-Package Aspose.Cells
 
 {{% blocks/products/pf/agp/text %}}
 
- API های ما در تمام سیستم عامل ها و سیستم عامل های اصلی پشتیبانی می شوند. لطفا قبل از اجرای کد زیر، از داشتن پیش نیازهای زیر در سیستم خود اطمینان حاصل کنید.
+API های ما در تمام سیستم عامل ها و سیستم عامل های اصلی پشتیبانی می شوند. لطفا قبل از اجرای کد زیر، از داشتن پیش نیازهای زیر در سیستم خود اطمینان حاصل کنید.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -122,7 +114,7 @@ wb.Save("e:\test2\output.xls");
             {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" بدون نیاز به دانلود Aspose API." >}}
             {{< blocks/products/pf/agp/democard icon="fa-edit" text=" نیازی به نوشتن هیچ کدی نیست." >}}
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" فقط فایل های XLS خود را آپلود کنید." >}}
-            {{< blocks/products/pf/agp/democard icon="fa-download" text="فورا ویرایش خواهد شد." >}}
+            {{< blocks/products/pf/agp/democard icon="fa-download" text=" فورا ویرایش خواهد شد." >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLS" readMoreLink="https://docs.fileformat.com/spreadsheet/xls/" >}}
 فایل‌های با پسوند XLS فرمت فایل باینری اکسل را نشان می‌دهند. چنین فایل هایی را می توان توسط Microsoft Excel و همچنین سایر برنامه های صفحه گسترده مشابه مانند OpenOffice Calc یا Apple Numbers ایجاد کرد. فایل ذخیره شده توسط اکسل به عنوان Workbook شناخته می شود که در آن هر کتاب کار می تواند یک یا چند کاربرگ داشته باشد. داده‌ها در قالب جدول در کاربرگ ذخیره و به کاربران نمایش داده می‌شوند و می‌توانند مقادیر عددی، داده‌های متنی، فرمول‌ها، اتصالات داده‌های خارجی، تصاویر و نمودارها را پوشش دهند. برنامه هایی مانند Microsoft Excel به شما امکان می دهد داده های کتاب کار را به چندین فرمت مختلف از جمله PDF، CSV، XLSX، TXT، HTML، XPS، و چندین فرمت دیگر صادر کنید. با انتشار Microsoft اکسل 2007، فرمت فایل XLS با فرمت بازتر و ساختار یافته تر، XLSX جایگزین شد. آخرین نسخه ها هنوز از ایجاد و خواندن فایل های XLS پشتیبانی می کنند، اگرچه 0761114348 اولین انتخابی است که اکنون استفاده می شود.
@@ -138,6 +130,7 @@ wb.Save("e:\test2\output.xls");
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/redaction/ods/" name="ODS" description="فایل صفحه گسترده OpenDocument" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/redaction/xlsb/" name="XLSB" description="فایل باینری کتاب کار اکسل" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/redaction/xlsm/" name="XLSM" description="فایل صفحه گسترده" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/redaction/xlsx/" name="XLSX" description="فایل OOXML اکسل" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

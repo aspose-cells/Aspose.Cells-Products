@@ -12,13 +12,7 @@ keywords: [C# Aspose.Cells., c# Search and replace text in XLSB file., c# redact
 
 {{% blocks/products/pf/agp/content h2="Cách biên tập lại tệp XLSB bằng C#" %}}
 
- Để biên tập lại tệp XLSB, chúng tôi sẽ sử dụng
- [Aspose.Cells for .NET](https://products.aspose.com/cells/net) 
- API là một ứng dụng thao tác tài liệu API giàu tính năng, mạnh mẽ và dễ sử dụng dành cho nền tảng C#. Mở
- [NuGet](https://www.nuget.org/packages/aspose.cells) 
- quản lý gói, tìm kiếm
- **Aspose.Cells** 
- và cài đặt. Bạn cũng có thể sử dụng lệnh sau từ Bảng điều khiển quản lý gói.
+ Để biên tập lại tệp XLSB, chúng tôi sẽ sử dụng[Aspose.Cells for .NET](https://products.aspose.com/cells/net) API là một ứng dụng thao tác tài liệu API giàu tính năng, mạnh mẽ và dễ sử dụng dành cho nền tảng C#. Mở[NuGet](https://www.nuget.org/packages/aspose.cells) quản lý gói, tìm kiếm**Aspose.Cells** và cài đặt. Bạn cũng có thể sử dụng lệnh sau từ Bảng điều khiển quản lý gói.
 
 {{% blocks/products/pf/agp/code-block title="Yêu cầu" offSpacer="true" %}}
 
@@ -38,9 +32,7 @@ PM> Install-Package Aspose.Cells
 
 {{% blocks/products/pf/agp/text %}}
 
- Tìm kiếm tài liệu cơ bản và thay thế văn bản trong nội dung, nhận xét hoặc siêu dữ liệu bằng
- [Aspose.Cells for .NET](https://products.aspose.com/cells/net) 
- API có thể được thực hiện chỉ với vài dòng mã.
+ Tìm kiếm tài liệu cơ bản và thay thế văn bản trong nội dung, nhận xét hoặc siêu dữ liệu bằng[Aspose.Cells for .NET](https://products.aspose.com/cells/net) API có thể được thực hiện chỉ với vài dòng mã.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -57,7 +49,7 @@ PM> Install-Package Aspose.Cells
 
 {{% blocks/products/pf/agp/text %}}
 
- API của chúng tôi được hỗ trợ trên tất cả các nền tảng và Hệ điều hành chính. Trước khi thực thi mã bên dưới, vui lòng đảm bảo rằng bạn có các điều kiện tiên quyết sau trên hệ thống của mình.
+API của chúng tôi được hỗ trợ trên tất cả các nền tảng và Hệ điều hành chính. Trước khi thực thi mã bên dưới, vui lòng đảm bảo rằng bạn có các điều kiện tiên quyết sau trên hệ thống của mình.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -122,7 +114,7 @@ wb.Save("e:\test2\output.xlsb");
             {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Không cần tải Aspose API." >}}
             {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Không cần phải viết bất kỳ mã nào." >}}
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Chỉ cần tải lên tệp XLSB của bạn." >}}
-            {{< blocks/products/pf/agp/democard icon="fa-download" text="Nó sẽ được biên tập lại ngay lập tức." >}}
+            {{< blocks/products/pf/agp/democard icon="fa-download" text=" Nó sẽ được biên tập lại ngay lập tức." >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLSB" readMoreLink="https://docs.fileformat.com/spreadsheet/xlsb/" >}}
 Định dạng tệp XLSB chỉ định Định dạng tệp nhị phân Excel, là tập hợp các bản ghi và cấu trúc chỉ định nội dung sổ làm việc Excel. Nội dung có thể bao gồm các bảng số, văn bản không có cấu trúc hoặc bán cấu trúc hoặc cả số và văn bản, công thức, kết nối dữ liệu ngoài, biểu đồ và hình ảnh. Không giống như XLSX (dựa trên định dạng tệp Open XML), XLSB đại diện cho tệp sổ làm việc Excel nhị phân. Các tệp XLSB có thể được đọc và ghi nhanh hơn, điều này giúp chúng hữu ích khi làm việc với các tệp lớn. XLSB hiếm khi được sử dụng để lưu trữ sổ làm việc vì XLSX (và trước đây là XLS) là các định dạng tệp được người dùng phổ biến nhất chọn để lưu sổ làm việc. Có thể mở bằng Microsoft Office 2007 trở lên.
@@ -138,6 +130,7 @@ wb.Save("e:\test2\output.xlsb");
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/redaction/ods/" name="ODS" description="Tệp bảng tính OpenDocument" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/redaction/xls/" name="XLS" description="Định dạng nhị phân Excel" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/redaction/xlsm/" name="XLSM" description="Tệp bảng tính" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/redaction/xlsx/" name="XLSX" description="Tệp Excel OOXML" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

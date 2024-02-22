@@ -12,13 +12,7 @@ keywords: [C# Aspose.Cells., c# Extract text and images from XLSB file., c# How 
 
 {{% blocks/products/pf/agp/content h2="Comment analyser le fichier XLSB à l\'aide de C#" %}}
 
- Afin d'analyser le fichier XLSB, nous utiliserons
- [Aspose.Cells for .NET](https://products.aspose.com/cells/net) 
- API qui est un outil de manipulation de documents API riche en fonctionnalités, puissant et facile à utiliser pour la plate-forme C#. Ouvrir
- [NuGet](https://www.nuget.org/packages/aspose.cells) 
- gestionnaire de paquets, recherchez
- **Aspose.Cells** 
- et installer. Vous pouvez également utiliser la commande suivante à partir de la console Package Manager.
+ Afin d'analyser le fichier XLSB, nous utiliserons[Aspose.Cells for .NET](https://products.aspose.com/cells/net) API qui est un outil de manipulation de documents API riche en fonctionnalités, puissant et facile à utiliser pour la plate-forme C#. Ouvrir[NuGet](https://www.nuget.org/packages/aspose.cells) gestionnaire de paquets, recherchez**Aspose.Cells** et installer. Vous pouvez également utiliser la commande suivante à partir de la console Package Manager.
 
 {{% blocks/products/pf/agp/code-block title="Commande" offSpacer="true" %}}
 
@@ -38,9 +32,7 @@ PM> Install-Package Aspose.Cells
 
 {{% blocks/products/pf/agp/text %}}
 
- Un document de base analysé avec
- [Aspose.Cells for .NET](https://products.aspose.com/cells/net) 
- Les API peuvent être réalisées avec seulement quelques lignes de code. Analyser le texte et les images des fichiers Excel Microsoft, XLS, XLSX, XLSM, XLSB et OpenDocument ODS.
+ Un document de base analysé avec[Aspose.Cells for .NET](https://products.aspose.com/cells/net)Les API peuvent être réalisées avec seulement quelques lignes de code. Analyser le texte et les images des fichiers Excel Microsoft, XLS, XLSX, XLSM, XLSB et OpenDocument ODS.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -56,7 +48,7 @@ PM> Install-Package Aspose.Cells
 
 {{% blocks/products/pf/agp/text %}}
 
- Nos API sont prises en charge sur toutes les principales plates-formes et systèmes d'exploitation. Avant d'exécuter le code ci-dessous, assurez-vous que vous disposez des conditions préalables suivantes sur votre système.
+Nos API sont prises en charge sur toutes les principales plates-formes et systèmes d'exploitation. Avant d'exécuter le code ci-dessous, assurez-vous que vous disposez des conditions préalables suivantes sur votre système.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -115,7 +107,7 @@ PM> Install-Package Aspose.Cells
 
     {{< blocks/products/pf/agp/about-file-section >}}
 
-        {{< blocks/products/pf/agp/demobox sectionTitle="Démos en direct de l\'analyseur XLSB en ligne" sectionDescription=" Extrayez dès maintenant le texte et les images des documents XLSB en visitant notre[Site Web de démonstrations en direct](https://products.aspose.app/cells/parser). La démo en direct présente les avantages suivants" >}}
+        {{< blocks/products/pf/agp/demobox sectionTitle="Démos en direct de l\'analyseur XLSB en ligne" sectionDescription="Extrayez dès maintenant le texte et les images des documents XLSB en visitant notre[Site Web de démonstrations en direct](https://products.aspose.app/cells/parser). La démo en direct présente les avantages suivants" >}}
             {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Pas besoin de télécharger le Aspose API." >}}
             {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Pas besoin d\'écrire de code." >}}
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Téléchargez simplement vos fichiers XLSB." >}}
@@ -135,6 +127,7 @@ Le format de fichier XLSB spécifie le format de fichier binaire Excel, qui est 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/parser/ods/" name="ODS" description="Fichier de feuille de calcul OpenDocument" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/parser/xls/" name="XLS" description="Format binaire Excel" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/parser/xlsm/" name="XLSM" description="Fichier de feuille de calcul" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/parser/xlsx/" name="XLSX" description="Fichier Excel OOXML" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

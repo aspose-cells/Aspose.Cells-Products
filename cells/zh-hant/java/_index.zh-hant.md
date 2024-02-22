@@ -13,11 +13,11 @@ keywords: [Java Aspose.Cells Create repair parse merge convert JSON Excel XML PD
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
- Aspose.Cells for Java 是一款屢獲殊榮的 Excel 電子表格處理 API，它允許開發人員嵌入讀取、寫入、操作、轉換和轉換的功能。在自己的應用程式中列印電子表格，無需 Microsoft Excel 應用程式。
+Aspose.Cells for Java 是一款屢獲殊榮的 Excel 電子表格處理 API，它允許開發人員嵌入讀取、寫入、操作、轉換和轉換的功能。在自己的應用程式中列印電子表格，無需 Microsoft Excel 應用程式。
 </p>
 
 <p>
-Aspose.Cells for Java 是一個成熟且功能豐富的函式庫，提供的許多功能遠遠超出了市場上其他元件的簡單資料匯出功能。 API 提供匯出資料、將電子表格格式化為最精細的等級、匯入和匯出的功能。匯出圖像、建立圖表和數據透視表、應用和使用公式計算引擎、串流 Excel 資料和資料流計算複雜的公式以各種格式儲存結果。
+ Aspose.Cells for Java 是一個成熟且功能豐富的函式庫，提供的許多功能遠遠超出了市場上其他元件的簡單資料匯出功能。 API 提供匯出資料、將電子表格格式化為最精細的等級、匯入和匯出的功能。匯出圖像、建立圖表和數據透視表、應用和使用公式計算引擎、串流 Excel 資料和資料流計算複雜的公式以各種格式儲存結果。
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
@@ -175,7 +175,7 @@ JSP/JSF 應用
      <b>
 Microsoft Excel：
      </b>
-XLS、XLT、XLSX、XLSB、XLTX、XLTM、XLSM、XML
+ XLS、XLSX、XLSB、XLT、XLTX、XLTM、XLSM、XML、OTS
     </li>
     <li>
      <b>
@@ -187,7 +187,7 @@ XLS、XLT、XLSX、XLSB、XLTX、XLTM、XLSM、XML
      <b>
 文字:
      </b>
-     CSV, TSV
+     CSV, TSV, JSON
     </li>
     <li>
      <b>
@@ -202,7 +202,10 @@ XLS、XLT、XLSX、XLSB、XLTX、XLTM、XLSM、XML
 蘋果iWork辦公室套件Numbers應用文檔
     </li>
     <li>
-     SXC, FODS
+     <b>
+其他的：
+     </b>
+ SXC, FODS, EPUB
     </li>
    </ul>
   </div>
@@ -225,15 +228,18 @@ XLS、XLT、XLSX、XLSB、XLTX、XLTM、XLSM、XML
 資料交換：
      </b>
      DIF
-    </li>
+    </li>    
     <li>
      <b>
 圖片：
      </b>
-     JPEG, PNG, BMP, SVG, TIFF, GIF, EMF
+     JPEG, PNG, BMP, SVG, TIFF, EMF, GIF
     </li>
     <li>
-     MARKDOWN
+     <b>
+其他的：
+     </b>
+ MARKDOWN，SQL，XTHML
     </li>
    </ul>
   </div>
@@ -384,7 +390,7 @@ XLS、XLT、XLSX、XLSB、XLTX、XLTM、XLSM、XML
 將 Excel 檔案儲存為不同格式
     </h2>
     <p>
-Excel API 可以將電子表格轉換為 PDF、XPS、HTML 和更多格式，同時保持最高的視覺保真度。可靠且靈活的轉換過程使 Aspose.Cells 成為主要以行業標準格式交換文件的組織的完美選擇。
+Excel API 提供電子表格到 PDF、XPS、HTML 和更多格式的轉換，同時保持最高的視覺保真度。可靠且靈活的轉換過程使 Aspose.Cells 成為主要以行業標準格式交換文件的組織的完美選擇。
     </p>
     <div class="codeblock" id="code">
      <h3>

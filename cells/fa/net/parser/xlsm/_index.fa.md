@@ -12,13 +12,8 @@ keywords: [C# Aspose.Cells., c# Extract text and images from XLSM file., c# How 
 
 {{% blocks/products/pf/agp/content h2="نحوه تجزیه فایل XLSM با استفاده از C#" %}}
 
- به منظور تجزیه فایل XLSM، از آن استفاده می کنیم
- [Aspose.Cells for .NET](https://products.aspose.com/cells/net) 
- API که دارای ویژگی های غنی، قدرتمند و آسان برای دستکاری اسناد است API برای پلت فرم C#. باز کن
- [NuGet](https://www.nuget.org/packages/aspose.cells) 
- مدیر بسته، جستجو کنید
- **Aspose.Cells** 
- و نصب کنید. همچنین می توانید از دستور زیر در کنسول Package Manager استفاده کنید.
+ به منظور تجزیه فایل XLSM، از آن استفاده می کنیم[Aspose.Cells for .NET](https://products.aspose.com/cells/net) API که دارای ویژگی های غنی، قدرتمند و آسان برای دستکاری اسناد است API برای پلت فرم C#. باز کن[NuGet](https://www.nuget.org/packages/aspose.cells) مدیر بسته، جستجو کنید
+ **Aspose.Cells** و نصب کنید. همچنین می توانید از دستور زیر در کنسول Package Manager استفاده کنید.
 
 {{% blocks/products/pf/agp/code-block title="فرمان" offSpacer="true" %}}
 
@@ -38,9 +33,7 @@ PM> Install-Package Aspose.Cells
 
 {{% blocks/products/pf/agp/text %}}
 
- تجزیه سند پایه با
- [Aspose.Cells for .NET](https://products.aspose.com/cells/net) 
- API ها را می توان تنها با چند خط کد انجام داد. متن و تصاویر را از فایل های Microsoft Excel XLS، XLSX، XLSM، XLSB و OpenDocument ODS تجزیه کنید.
+ تجزیه سند پایه با[Aspose.Cells for .NET](https://products.aspose.com/cells/net)API ها را می توان تنها با چند خط کد انجام داد. متن و تصاویر را از فایل های Microsoft Excel XLS، XLSX، XLSM، XLSB و OpenDocument ODS تجزیه کنید.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -56,7 +49,7 @@ PM> Install-Package Aspose.Cells
 
 {{% blocks/products/pf/agp/text %}}
 
- API های ما در تمام سیستم عامل ها و سیستم عامل های اصلی پشتیبانی می شوند. لطفا قبل از اجرای کد زیر، از داشتن پیش نیازهای زیر در سیستم خود اطمینان حاصل کنید.
+API های ما در تمام سیستم عامل ها و سیستم عامل های اصلی پشتیبانی می شوند. لطفا قبل از اجرای کد زیر، از داشتن پیش نیازهای زیر در سیستم خود اطمینان حاصل کنید.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -115,7 +108,7 @@ PM> Install-Package Aspose.Cells
 
     {{< blocks/products/pf/agp/about-file-section >}}
 
-        {{< blocks/products/pf/agp/demobox sectionTitle="آنلاین XLSM Parser Live Demos" sectionDescription=" همین حالا با مراجعه به ما، متن و تصاویر را از اسناد XLSM استخراج کنید[وب سایت Live Demos](https://products.aspose.app/cells/parser). نسخه ی نمایشی زنده دارای مزایای زیر است" >}}
+        {{< blocks/products/pf/agp/demobox sectionTitle="آنلاین XLSM Parser Live Demos" sectionDescription="همین حالا با مراجعه به ما، متن و تصاویر را از اسناد XLSM استخراج کنید[وب سایت Live Demos](https://products.aspose.app/cells/parser). نسخه ی نمایشی زنده دارای مزایای زیر است" >}}
             {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" بدون نیاز به دانلود Aspose API." >}}
             {{< blocks/products/pf/agp/democard icon="fa-edit" text=" نیازی به نوشتن هیچ کدی نیست." >}}
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" فقط فایل های XLSM خود را آپلود کنید." >}}
@@ -135,6 +128,7 @@ PM> Install-Package Aspose.Cells
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/parser/ods/" name="ODS" description="فایل صفحه گسترده OpenDocument" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/parser/xls/" name="XLS" description="فرمت باینری اکسل" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/parser/xlsb/" name="XLSB" description="فایل باینری کتاب کار اکسل" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/parser/xlsx/" name="XLSX" description="فایل OOXML اکسل" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

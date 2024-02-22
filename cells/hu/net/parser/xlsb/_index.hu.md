@@ -12,13 +12,7 @@ keywords: [C# Aspose.Cells., c# Extract text and images from XLSB file., c# How 
 
 {{% blocks/products/pf/agp/content h2="A XLSB fájl elemzése a C# használatával" %}}
 
- A XLSB fájl elemzéséhez használjuk
- [Aspose.Cells for .NET](https://products.aspose.com/cells/net) 
- API, amely funkciókban gazdag, hatékony és könnyen használható dokumentumkezelés API a C# platformhoz. Nyisd ki
- [NuGet](https://www.nuget.org/packages/aspose.cells) 
- csomagkezelő, keressen
- **Aspose.Cells** 
- és telepítse. A következő parancsot is használhatja a Package Manager konzolból.
+ A XLSB fájl elemzéséhez használjuk[Aspose.Cells for .NET](https://products.aspose.com/cells/net) API, amely funkciókban gazdag, hatékony és könnyen használható dokumentumkezelés API a C# platformhoz. Nyisd ki[NuGet](https://www.nuget.org/packages/aspose.cells) csomagkezelő, keressen**Aspose.Cells** és telepítse. A következő parancsot is használhatja a Package Manager konzolból.
 
 {{% blocks/products/pf/agp/code-block title="Parancs" offSpacer="true" %}}
 
@@ -38,9 +32,7 @@ PM> Install-Package Aspose.Cells
 
 {{% blocks/products/pf/agp/text %}}
 
- Egy alapvető dokumentum elemzése a következővel
- [Aspose.Cells for .NET](https://products.aspose.com/cells/net) 
- Az API-k néhány sornyi kóddal elkészíthetők. Szöveg és képek elemzése a Microsoft Excel XLS, XLSX, XLSM, XLSB és OpenDocument ODS fájlokból.
+ Egy alapvető dokumentum elemzése a következővel[Aspose.Cells for .NET](https://products.aspose.com/cells/net)Az API-k néhány sornyi kóddal elkészíthetők. Szöveg és képek elemzése a Microsoft Excel XLS, XLSX, XLSM, XLSB és OpenDocument ODS fájlokból.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -56,7 +48,7 @@ PM> Install-Package Aspose.Cells
 
 {{% blocks/products/pf/agp/text %}}
 
- API-jaink minden nagyobb platformon és operációs rendszeren támogatottak. Mielőtt végrehajtaná az alábbi kódot, győződjön meg arról, hogy a következő előfeltételek vannak a rendszeren.
+API-jaink minden nagyobb platformon és operációs rendszeren támogatottak. Mielőtt végrehajtaná az alábbi kódot, győződjön meg arról, hogy a következő előfeltételek vannak a rendszeren.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -115,7 +107,7 @@ PM> Install-Package Aspose.Cells
 
     {{< blocks/products/pf/agp/about-file-section >}}
 
-        {{< blocks/products/pf/agp/demobox sectionTitle="Online XLSB Parser élő bemutatók" sectionDescription=" Nyerjen ki szöveget és képeket a XLSB dokumentumból, látogasson el honlapunkra[Élő bemutatók weboldala](https://products.aspose.app/cells/parser). Az élő demónak a következő előnyei vannak" >}}
+        {{< blocks/products/pf/agp/demobox sectionTitle="Online XLSB Parser élő bemutatók" sectionDescription="Nyerjen ki szöveget és képeket a XLSB dokumentumból, látogasson el honlapunkra[Élő bemutatók weboldala](https://products.aspose.app/cells/parser). Az élő demónak a következő előnyei vannak" >}}
             {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Nem kell letölteni a Aspose API számot." >}}
             {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Nem kell kódot írni." >}}
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Csak töltse fel a XLSB fájlokat." >}}
@@ -130,11 +122,12 @@ PM> Install-Package Aspose.Cells
 
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="Egyéb támogatott elemzési formátumok" subTitle="C# használatával egyszerűen elemezhet más formátumokat, beleértve." >}}
+{{< blocks/products/pf/agp/other-supported-section title="Egyéb támogatott elemzési formátumok" subTitle="A C# használatával egyszerűen elemezhet más formátumokat, beleértve." >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/parser/ods/" name="ODS" description="OpenDocument táblázatfájl" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/parser/xls/" name="XLS" description="Excel bináris formátum" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/parser/xlsm/" name="XLSM" description="Táblázatfájl" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/parser/xlsx/" name="XLSX" description="OOXML Excel fájl" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

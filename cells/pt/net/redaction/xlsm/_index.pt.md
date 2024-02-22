@@ -12,13 +12,7 @@ keywords: [C# Aspose.Cells., c# Search and replace text in XLSM file., c# redact
 
 {{% blocks/products/pf/agp/content h2="Como redigir o arquivo XLSM usando C#" %}}
 
- Para redigir o arquivo XLSM, usaremos
- [Aspose.Cells for .NET](https://products.aspose.com/cells/net) 
- API, que é um API de manipulação de documentos rico em recursos, poderoso e fácil de usar para a plataforma C#. Abrir
- [NuGet](https://www.nuget.org/packages/aspose.cells) 
- gerenciador de pacotes, procure por
- **Aspose.Cells** 
- e instale. Você também pode usar o seguinte comando do Console do Gerenciador de Pacotes.
+ Para redigir o arquivo XLSM, usaremos[Aspose.Cells for .NET](https://products.aspose.com/cells/net) API, que é um API de manipulação de documentos rico em recursos, poderoso e fácil de usar para a plataforma C#. Abrir[NuGet](https://www.nuget.org/packages/aspose.cells) gerenciador de pacotes, procure por**Aspose.Cells** e instale. Você também pode usar o seguinte comando do Console do Gerenciador de Pacotes.
 
 {{% blocks/products/pf/agp/code-block title="Comando" offSpacer="true" %}}
 
@@ -38,9 +32,7 @@ PM> Install-Package Aspose.Cells
 
 {{% blocks/products/pf/agp/text %}}
 
- Uma pesquisa básica de documentos e substituição de texto em conteúdos, comentários ou metadados por
- [Aspose.Cells for .NET](https://products.aspose.com/cells/net) 
- APIs podem ser feitas com apenas algumas linhas de código.
+ Uma pesquisa básica de documentos e substituição de texto em conteúdos, comentários ou metadados por[Aspose.Cells for .NET](https://products.aspose.com/cells/net) APIs podem ser feitas com apenas algumas linhas de código.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -57,7 +49,7 @@ PM> Install-Package Aspose.Cells
 
 {{% blocks/products/pf/agp/text %}}
 
- Nossas APIs são suportadas em todas as principais plataformas e sistemas operacionais. Antes de executar o código abaixo, certifique-se de ter os seguintes pré-requisitos em seu sistema.
+Nossas APIs são suportadas em todas as principais plataformas e sistemas operacionais. Antes de executar o código abaixo, certifique-se de ter os seguintes pré-requisitos em seu sistema.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -122,7 +114,7 @@ wb.Save("e:\test2\output.xlsm");
             {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Não há necessidade de baixar Aspose API." >}}
             {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Não há necessidade de escrever nenhum código." >}}
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Basta enviar seus arquivos XLSM." >}}
-            {{< blocks/products/pf/agp/democard icon="fa-download" text="Ele será redigido instantaneamente." >}}
+            {{< blocks/products/pf/agp/democard icon="fa-download" text=" Ele será redigido instantaneamente." >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLSM" readMoreLink="https://docs.fileformat.com/spreadsheet/xlsm/" >}}
 Arquivos com extensão XLSM são um tipo de arquivo de planilha que suporta macros. Do ponto de vista da aplicação, uma Macro é um conjunto de instruções utilizadas para automatizar processos. Uma macro é usada para registrar as etapas executadas repetidamente e facilita a execução das ações executando a macro novamente. As macros são programadas com o Visual Basic for Applications (VBA) do Microsoft a partir da pasta de trabalho do Excel usando o Editor do Visual Basic e podem ser executadas/depuradas diretamente a partir daí.
@@ -138,6 +130,7 @@ Arquivos com extensão XLSM são um tipo de arquivo de planilha que suporta macr
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/redaction/ods/" name="ODS" description="Arquivo de planilha OpenDocument" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/redaction/xls/" name="XLS" description="Formato binário do Excel" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/redaction/xlsb/" name="XLSB" description="Arquivo binário da pasta de trabalho do Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/redaction/xlsx/" name="XLSX" description="Arquivo Excel OOXML" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

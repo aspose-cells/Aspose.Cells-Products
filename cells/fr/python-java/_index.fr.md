@@ -13,7 +13,7 @@ keywords: [Python Aspose.Cells Create parse repair merge convert JSON Excel XML 
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
-Aspose.Cells for Python via Java est un API rapide et fiable pour les tâches de traitement de feuilles de calcul. Les développeurs peuvent créer des feuilles de calcul simples ou complexes, manipuler et extraire des informations à partir de fichiers Excel. API lit plusieurs formats Excel et peut restituer des feuilles de calcul en XPS, PDF, MHTML, HTML, en texte brut, en images et plus encore. C'est la meilleure solution pour automatiser les rapports Excel à l'aide de Python.
+ Aspose.Cells for Python via Java est un API rapide et fiable pour les tâches de traitement de feuilles de calcul. Les développeurs peuvent créer des feuilles de calcul simples ou complexes, manipuler et extraire des informations à partir de fichiers Excel. API lit plusieurs formats Excel et peut restituer des feuilles de calcul en XPS, PDF, MHTML, HTML, en texte brut, en images et plus encore. C'est la meilleure solution pour automatiser les rapports Excel à l'aide de Python.
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
@@ -38,7 +38,7 @@ Aspose.Cells for Python via Java est un API rapide et fiable pour les tâches de
  Ensemble de résultats
     </li>
     <li>
-Collections
+ Collections
     </li>
    </ul>
    <header>
@@ -76,7 +76,7 @@ Collections
  Créer des graphiques
     </li>
     <li>
- Résumer
+Résumer
     </li>
     <li>
  Marqueurs intelligents
@@ -159,7 +159,7 @@ Collections
      <b>
  Microsoft Exceller :
      </b>
- XLS, XLSX, XLSB, XLTX, XLTM, XLSM, XML
+ XLS, XLSX, XLSB, XLT, XLTX, XLTM, XLSM, XML, OTS
     </li>
     <li>
      <b>
@@ -171,13 +171,25 @@ Collections
      <b>
  Texte:
      </b>
-     CSV, TSV, TXT
+     CSV, TSV, JSON
     </li>
     <li>
      <b>
  La toile:
      </b>
      HTML, MHTML
+    </li>
+    <li>
+     <b>
+      Numbers:
+     </b>
+ Documents de l'application iWork suite bureautique d'Apple Numbers
+    </li>
+    <li>
+     <b>
+ Autres:
+     </b>
+ SXC, FODS, EPUB
     </li>
    </ul>
   </div>
@@ -186,7 +198,7 @@ Collections
    <header>
     <i class="fa fa-mail-forward">
     </i>
- Sortie uniquement
+Sortie uniquement
    </header>
    <ul>
     <li>
@@ -197,9 +209,21 @@ Collections
     </li>
     <li>
      <b>
+ Échange de données :
+     </b>
+     DIF
+    </li>    
+    <li>
+     <b>
  Images:
      </b>
-     JPEG, PNG, BMP, SVG, EMF
+     JPEG, PNG, BMP, SVG, TIFF, EMF, GIF
+    </li>
+    <li>
+     <b>
+ Autres:
+     </b>
+ MARKDOWN, SQL, XTHML
     </li>
    </ul>
   </div>
@@ -306,7 +330,7 @@ Collections
     <em class="fa fa-object-ungroup ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-Ajouter ou supprimer un regroupement de lignes et de colonnes
+ Ajouter ou supprimer un regroupement de lignes et de colonnes
     </p>
    </div>
    <div class="col-lg-4">
@@ -416,11 +440,11 @@ Ajouter ou supprimer un regroupement de lignes et de colonnes
  Conversion de formats multiples
     </h2>
     <p>
- La bibliothèque Excel Python permet la conversion des fichiers Excel en PDF, XPS et XPS. Format HTML. La conversion fiable de API en fait une solution parfaite pour les entreprises qui ont besoin d'échanger des fichiers dans des formats standard de l'industrie.
+La bibliothèque Excel Python permet la conversion des fichiers Excel en PDF, XPS et XPS. Format HTML. La conversion fiable de API en fait une solution parfaite pour les entreprises qui ont besoin d'échanger des fichiers dans des formats standard de l'industrie.
     </p>
     <div class="codeblock" id="code">
      <h3>
-Enregistrer la feuille de calcul dans différents formats - Java
+ Enregistrer la feuille de calcul dans différents formats - Java
      </h3>
      <pre><code class="java">
 // load file to be converted
@@ -489,7 +513,7 @@ wkbk.save(SD_PATH + "houtput.html", SaveFormat.HTML);</code></pre>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-Personnalisation des graphiques
+ Personnalisation des graphiques
     </h2>
     <p>
 Aspose.Cells for Python via Java offre une prise en charge complète pour la création de graphiques. On peut facilement ajouter des graphiques standard et personnalisés ou définir dynamiquement des données graphiques afin d'actualiser le graphique dans cette bibliothèque Python.

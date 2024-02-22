@@ -12,13 +12,7 @@ keywords: [C# Aspose.Cells., c# Search and replace text in XLS file., c# redact 
 
 {{% blocks/products/pf/agp/content h2="วิธีแก้ไขไฟล์ XLS โดยใช้ C#" %}}
 
- เพื่อทำการปกปิดไฟล์ XLS เราจะใช้
- [Aspose.Cells for .NET](https://products.aspose.com/cells/net) 
- API ซึ่งเป็นโปรแกรมจัดการเอกสารที่มีคุณสมบัติหลากหลาย ทรงพลัง และใช้งานง่าย API สำหรับแพลตฟอร์ม C# เปิด
- [NuGet](https://www.nuget.org/packages/aspose.cells) 
- ผู้จัดการแพ็คเกจ ค้นหา
- **Aspose.Cells** 
- และติดตั้ง คุณอาจใช้คำสั่งต่อไปนี้จาก Package Manager Console
+ เพื่อทำการปกปิดไฟล์ XLS เราจะใช้[Aspose.Cells for .NET](https://products.aspose.com/cells/net) API ซึ่งเป็นโปรแกรมจัดการเอกสารที่มีคุณสมบัติหลากหลาย ทรงพลัง และใช้งานง่าย API สำหรับแพลตฟอร์ม C# เปิด[NuGet](https://www.nuget.org/packages/aspose.cells) ผู้จัดการแพ็คเกจ ค้นหา**Aspose.Cells** และติดตั้ง คุณอาจใช้คำสั่งต่อไปนี้จาก Package Manager Console
 
 {{% blocks/products/pf/agp/code-block title="สั่งการ" offSpacer="true" %}}
 
@@ -38,9 +32,7 @@ PM> Install-Package Aspose.Cells
 
 {{% blocks/products/pf/agp/text %}}
 
- การค้นหาเอกสารขั้นพื้นฐานและแทนที่ข้อความในเนื้อหา ความคิดเห็น หรือข้อมูลเมตาด้วย
- [Aspose.Cells for .NET](https://products.aspose.com/cells/net) 
- API สามารถทำได้โดยใช้โค้ดเพียงไม่กี่บรรทัด
+ การค้นหาเอกสารขั้นพื้นฐานและแทนที่ข้อความในเนื้อหา ความคิดเห็น หรือข้อมูลเมตาด้วย[Aspose.Cells for .NET](https://products.aspose.com/cells/net) API สามารถทำได้โดยใช้โค้ดเพียงไม่กี่บรรทัด
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -57,7 +49,7 @@ PM> Install-Package Aspose.Cells
 
 {{% blocks/products/pf/agp/text %}}
 
- API ของเราได้รับการสนับสนุนบนแพลตฟอร์มและระบบปฏิบัติการหลักทั้งหมด ก่อนที่จะรันโค้ดด้านล่าง โปรดตรวจสอบให้แน่ใจว่าคุณมีข้อกำหนดเบื้องต้นต่อไปนี้ในระบบของคุณ
+API ของเราได้รับการสนับสนุนบนแพลตฟอร์มและระบบปฏิบัติการหลักทั้งหมด ก่อนที่จะรันโค้ดด้านล่าง โปรดตรวจสอบให้แน่ใจว่าคุณมีข้อกำหนดเบื้องต้นต่อไปนี้ในระบบของคุณ
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -122,7 +114,7 @@ wb.Save("e:\test2\output.xls");
             {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" ไม่ต้องดาวน์ Aspose API." >}}
             {{< blocks/products/pf/agp/democard icon="fa-edit" text=" ไม่จำเป็นต้องเขียนโค้ดใดๆ" >}}
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" เพียงอัพโหลดไฟล์ XLS ของคุณ" >}}
-            {{< blocks/products/pf/agp/democard icon="fa-download" text="มันจะถูกแก้ไขทันที" >}}
+            {{< blocks/products/pf/agp/democard icon="fa-download" text=" มันจะถูกแก้ไขทันที" >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLS" readMoreLink="https://docs.fileformat.com/spreadsheet/xls/" >}}
 ไฟล์ที่มีนามสกุล XLS แสดงถึงรูปแบบไฟล์ Excel Binary ไฟล์ดังกล่าวสามารถสร้างได้โดย Microsoft Excel รวมถึงโปรแกรมสเปรดชีตอื่นที่คล้ายคลึงกัน เช่น OpenOffice Calc หรือ Apple Numbers ไฟล์ที่บันทึกโดย Excel เรียกว่าสมุดงาน โดยแต่ละสมุดงานสามารถมีแผ่นงานได้หนึ่งแผ่นขึ้นไป ข้อมูลจะถูกจัดเก็บและแสดงต่อผู้ใช้ในรูปแบบตารางในเวิร์กชีตและสามารถขยายค่าตัวเลข ข้อมูลข้อความ สูตร การเชื่อมต่อข้อมูลภายนอก รูปภาพ และแผนภูมิได้ แอปพลิเคชันเช่น Microsoft Excel ช่วยให้คุณสามารถส่งออกข้อมูลเวิร์กบุ๊กเป็นรูปแบบต่างๆ ได้หลากหลาย รวมถึง PDF, CSV, XLSX, TXT, HTML, XPS และอื่นๆ อีกมากมาย รูปแบบไฟล์ XLS ถูกแทนที่ด้วยรูปแบบที่เปิดกว้างและมีโครงสร้างมากขึ้น คือ XLSX ด้วยการเปิดตัว Microsoft Excel 2007 เวอร์ชันล่าสุดยังคงให้การสนับสนุนสำหรับการสร้างและการอ่านไฟล์ XLS แม้ว่า XLSX จะเป็นตัวเลือกแรกสำหรับการใช้งานในขณะนี้
@@ -138,6 +130,7 @@ wb.Save("e:\test2\output.xls");
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/redaction/ods/" name="ODS" description="ไฟล์สเปรดชีต OpenDocument" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/redaction/xlsb/" name="XLSB" description="ไฟล์สมุดงาน Excel ไบนารี" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/redaction/xlsm/" name="XLSM" description="ไฟล์สเปรดชีต" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/redaction/xlsx/" name="XLSX" description="ไฟล์ OOXML Excel" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

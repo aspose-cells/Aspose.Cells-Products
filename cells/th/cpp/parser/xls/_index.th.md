@@ -1,5 +1,5 @@
 ---
-title:  แยกข้อความและรูปภาพจากเอกสาร XLS ทาง C++
+title: แยกข้อความและรูปภาพจากเอกสาร XLS ทาง C++
 weight: 7610
 description: โค้ดตัวอย่าง C++ เพื่อแยกข้อความและรูปภาพจากไฟล์ XLS บน C++ Runtime Environment สำหรับ Windows 32 บิต, Windows 64 บิตและ Linux 64 บิต
 keywords: [C++ Aspose.Cells., C++ Extract text and images from XLS file., C++ How to Parse XLS File., C++ Extract text from XLS file., Extract images from XLS file using C++]
@@ -12,13 +12,7 @@ keywords: [C++ Aspose.Cells., C++ Extract text and images from XLS file., C++ Ho
 
 {{% blocks/products/pf/agp/content h2="วิธีแยกวิเคราะห์ไฟล์ XLS โดยใช้ C++" %}}
 
- เพื่อที่จะแยกวิเคราะห์ไฟล์ XLS เราจะใช้
- [Aspose.Cells for C++](https://products.aspose.com/cells/cpp) 
- API ซึ่งเป็นแพลตฟอร์มแยกวิเคราะห์เอกสารที่มีคุณสมบัติหลากหลาย ทรงพลัง และใช้งานง่าย API for C++ คุณสามารถดาวน์โหลดเวอร์ชันล่าสุดได้โดยตรง เพียงแค่เปิดขึ้นมา
- [NuGet](https://www.nuget.org/packages/aspose.cells) 
- ผู้จัดการแพ็คเกจ ค้นหา
- **Aspose.Cells.Cpp** 
- และติดตั้ง คุณอาจใช้คำสั่งต่อไปนี้จาก Package Manager Console
+ เพื่อที่จะแยกวิเคราะห์ไฟล์ XLS เราจะใช้[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) API ซึ่งเป็นแพลตฟอร์มแยกวิเคราะห์เอกสารที่มีคุณสมบัติหลากหลาย ทรงพลัง และใช้งานง่าย API for C++ คุณสามารถดาวน์โหลดเวอร์ชันล่าสุดได้โดยตรง เพียงแค่เปิดขึ้นมา[NuGet](https://www.nuget.org/packages/aspose.cells) ผู้จัดการแพ็คเกจ ค้นหา**Aspose.Cells.Cpp** และติดตั้ง คุณอาจใช้คำสั่งต่อไปนี้จาก Package Manager Console
 
 {{% blocks/products/pf/agp/code-block title="สั่งการ" offSpacer="true" %}}
 
@@ -40,7 +34,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
  เอกสารพื้นฐานแยกวิเคราะห์ด้วย
  [Aspose.Cells for C++](https://products.aspose.com/cells/cpp) 
- API สามารถทำได้โดยใช้โค้ดเพียงไม่กี่บรรทัด แยกวิเคราะห์ข้อความและรูปภาพจากไฟล์ Microsoft Excel XLS, XLSX, XLSM, XLSB และ OpenDocument ODS
+API สามารถทำได้โดยใช้โค้ดเพียงไม่กี่บรรทัด แยกวิเคราะห์ข้อความและรูปภาพจากไฟล์ Microsoft Excel XLS, XLSX, XLSM, XLSB และ OpenDocument ODS
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -108,7 +102,7 @@ Aspose::Cells::Cleanup();
 
 {{< blocks/products/pf/agp/about-file-section >}}
 
-    {{< blocks/products/pf/agp/demobox sectionTitle="ออนไลน์ XLS Parser สาธิตสด" sectionDescription=" แยกข้อความและรูปภาพจากเอกสาร XLS ได้เลยโดยเข้าไปที่[เว็บไซต์สาธิตสด](https://products.aspose.app/cells/parser). การสาธิตสดมีข้อดีดังต่อไปนี้" >}}
+    {{< blocks/products/pf/agp/demobox sectionTitle="ออนไลน์ XLS Parser สาธิตสด" sectionDescription="แยกข้อความและรูปภาพจากเอกสาร XLS ได้เลยโดยเข้าไปที่[เว็บไซต์สาธิตสด](https://products.aspose.app/cells/parser). การสาธิตสดมีข้อดีดังต่อไปนี้" >}}
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" ไม่ต้องดาวน์ Aspose API." >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" ไม่จำเป็นต้องเขียนโค้ดใดๆ" >}}
         {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" เพียงอัพโหลดไฟล์ XLS ของคุณ" >}}
@@ -129,6 +123,7 @@ Aspose::Cells::Cleanup();
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/parser/ods/" name="ODS" description="ไฟล์สเปรดชีต OpenDocument" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/parser/xlsb/" name="XLSB" description="ไฟล์สมุดงาน Excel ไบนารี" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/parser/xlsm/" name="XLSM" description="ไฟล์สเปรดชีต" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/parser/xlsx/" name="XLSX" description="ไฟล์ OOXML Excel" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

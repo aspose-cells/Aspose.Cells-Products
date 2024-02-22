@@ -13,7 +13,7 @@ keywords: [Python Aspose.Cells Create parse repair merge convert JSON Excel XML 
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
-Aspose.Cells for Python via Java คือ API ที่รวดเร็วและเชื่อถือได้สำหรับงานประมวลผลสเปรดชีต นักพัฒนาสามารถสร้างสเปรดชีตแบบง่ายหรือซับซ้อน จัดการและแยกข้อมูลจากไฟล์ Excel ได้ API อ่านรูปแบบ Excel ได้หลายรูปแบบและสามารถเรนเดอร์เวิร์กชีตเป็น XPS, PDF, MHTML, HTML, ข้อความธรรมดา, รูปภาพ และอื่นๆ เป็นทางออกที่ดีที่สุดในการทำรายงาน Excel อัตโนมัติโดยใช้ Python
+ Aspose.Cells for Python via Java คือ API ที่รวดเร็วและเชื่อถือได้สำหรับงานประมวลผลสเปรดชีต นักพัฒนาสามารถสร้างสเปรดชีตแบบง่ายหรือซับซ้อน จัดการและแยกข้อมูลจากไฟล์ Excel ได้ API อ่านรูปแบบ Excel ได้หลายรูปแบบและสามารถเรนเดอร์เวิร์กชีตเป็น XPS, PDF, MHTML, HTML, ข้อความธรรมดา, รูปภาพ และอื่นๆ เป็นทางออกที่ดีที่สุดในการทำรายงาน Excel อัตโนมัติโดยใช้ Python
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
@@ -38,7 +38,7 @@ Aspose.Cells for Python via Java คือ API ที่รวดเร็วแ
  ชุดผลลัพธ์
     </li>
     <li>
-คอลเลกชัน
+ คอลเลกชัน
     </li>
    </ul>
    <header>
@@ -76,7 +76,7 @@ Aspose.Cells for Python via Java คือ API ที่รวดเร็วแ
  สร้างแผนภูมิ
     </li>
     <li>
- สรุป
+สรุป
     </li>
     <li>
  มาร์กเกอร์อัจฉริยะ
@@ -159,7 +159,7 @@ Aspose.Cells for Python via Java คือ API ที่รวดเร็วแ
      <b>
  Microsoft เอ็กเซล:
      </b>
- XLS, XLSX, XLSB, XLTX, XLTM, XLSM, เอ็กซ์เอ็มแอล
+ XLS, XLSX, XLSB, XLT, XLTX, XLTM, XLSM, XML, OTS
     </li>
     <li>
      <b>
@@ -171,13 +171,25 @@ Aspose.Cells for Python via Java คือ API ที่รวดเร็วแ
      <b>
  ข้อความ:
      </b>
-     CSV, TSV, TXT
+     CSV, TSV, JSON
     </li>
     <li>
      <b>
  เว็บ:
      </b>
      HTML, MHTML
+    </li>
+    <li>
+     <b>
+      Numbers:
+     </b>
+ เอกสารแอพชุดโปรแกรม iWork office ของ Apple Numbers
+    </li>
+    <li>
+     <b>
+ คนอื่น:
+     </b>
+ SXC, FODS, EPUB
     </li>
    </ul>
   </div>
@@ -186,7 +198,7 @@ Aspose.Cells for Python via Java คือ API ที่รวดเร็วแ
    <header>
     <i class="fa fa-mail-forward">
     </i>
- เอาท์พุทเท่านั้น
+เอาท์พุทเท่านั้น
    </header>
    <ul>
     <li>
@@ -197,9 +209,21 @@ Aspose.Cells for Python via Java คือ API ที่รวดเร็วแ
     </li>
     <li>
      <b>
+ การแลกเปลี่ยนข้อมูล:
+     </b>
+     DIF
+    </li>    
+    <li>
+     <b>
  รูปภาพ:
      </b>
-     JPEG, PNG, BMP, SVG, EMF
+     JPEG, PNG, BMP, SVG, TIFF, EMF, GIF
+    </li>
+    <li>
+     <b>
+ คนอื่น:
+     </b>
+ MARKDOWN, SQL, XTHML
     </li>
    </ul>
   </div>
@@ -306,7 +330,7 @@ Aspose.Cells for Python via Java คือ API ที่รวดเร็วแ
     <em class="fa fa-object-ungroup ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-เพิ่มหรือลบการจัดกลุ่มในแถวและคอลัมน์
+ เพิ่มหรือลบการจัดกลุ่มในแถวและคอลัมน์
     </p>
    </div>
    <div class="col-lg-4">
@@ -416,11 +440,11 @@ Aspose.Cells for Python via Java คือ API ที่รวดเร็วแ
  การแปลงหลายรูปแบบ
     </h2>
     <p>
- Python ไลบรารี Excel ให้การแปลงไฟล์ Excel เป็น PDF, XPS &amp; HTMLรูปแบบ. การแปลงที่เชื่อถือได้ของ API ทำให้เป็นโซลูชั่นที่สมบูรณ์แบบสำหรับบริษัทที่ต้องการแลกเปลี่ยนไฟล์ในรูปแบบมาตรฐานอุตสาหกรรม
+Python ไลบรารี Excel ให้การแปลงไฟล์ Excel เป็น PDF, XPS &amp; HTMLรูปแบบ. การแปลงที่เชื่อถือได้ของ API ทำให้เป็นโซลูชั่นที่สมบูรณ์แบบสำหรับบริษัทที่ต้องการแลกเปลี่ยนไฟล์ในรูปแบบมาตรฐานอุตสาหกรรม
     </p>
     <div class="codeblock" id="code">
      <h3>
-บันทึกสเปรดชีตในรูปแบบต่างๆ - Java
+ บันทึกสเปรดชีตในรูปแบบต่างๆ - Java
      </h3>
      <pre><code class="java">
 // load file to be converted
@@ -489,7 +513,7 @@ wkbk.save(SD_PATH + "houtput.html", SaveFormat.HTML);</code></pre>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-การปรับแต่งแผนภูมิ
+ การปรับแต่งแผนภูมิ
     </h2>
     <p>
 Aspose.Cells for Python via Java รองรับการทำกราฟอย่างเต็มรูปแบบ คุณสามารถเพิ่มแผนภูมิมาตรฐานและแผนภูมิที่กำหนดเองหรือตั้งค่าข้อมูลแผนภูมิแบบไดนามิกได้อย่างง่ายดายเพื่อรีเฟรชแผนภูมิในไลบรารีหลามนี้

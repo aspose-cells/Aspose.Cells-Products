@@ -12,11 +12,7 @@ keywords: [Java Aspose.Cells., Java Search and replace text in XLS file., Java r
 
 {{% blocks/products/pf/agp/content h2="Πώς να διορθώσετε το αρχείο XLS χρησιμοποιώντας το Java" %}}
 
- Για να επεξεργαστούμε το αρχείο XLS, θα χρησιμοποιήσουμε
- [Aspose.Cells for Java](https://products.aspose.com/cells/java) 
-API, η οποία είναι μια πλατφόρμα με πλούσια χαρακτηριστικά, ισχυρή και εύκολη στη χρήση έκδοση API for Java. Μπορείτε να κατεβάσετε την τελευταία του έκδοση απευθείας από
- [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) 
- και εγκαταστήστε το στο έργο σας που βασίζεται στο Maven προσθέτοντας τις ακόλουθες διαμορφώσεις στο pom.xml.
+ Για να επεξεργαστούμε το αρχείο XLS, θα χρησιμοποιήσουμε[Aspose.Cells for Java](https://products.aspose.com/cells/java) API, η οποία είναι μια πλατφόρμα με πλούσια χαρακτηριστικά, ισχυρή και εύκολη στη χρήση έκδοση API for Java. Μπορείτε να κατεβάσετε την τελευταία του έκδοση απευθείας από[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) και εγκαταστήστε το στο έργο σας που βασίζεται στο Maven προσθέτοντας τις ακόλουθες διαμορφώσεις στο pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Αποθήκη" offSpacer="true" %}}
 
@@ -54,9 +50,7 @@ API, η οποία είναι μια πλατφόρμα με πλούσια χα
 
 {{% blocks/products/pf/agp/text %}}
 
- Μια βασική αναζήτηση εγγράφων και αντικατάσταση κειμένου σε περιεχόμενα, σχόλια ή μεταδεδομένα με
- [Aspose.Cells for Java](https://products.aspose.com/cells/java) 
- Τα API μπορούν να γίνουν με λίγες μόνο γραμμές κώδικα.
+ Μια βασική αναζήτηση εγγράφων και αντικατάσταση κειμένου σε περιεχόμενα, σχόλια ή μεταδεδομένα με[Aspose.Cells for Java](https://products.aspose.com/cells/java) Τα API μπορούν να γίνουν με λίγες μόνο γραμμές κώδικα.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -78,7 +72,7 @@ API, η οποία είναι μια πλατφόρμα με πλούσια χα
 
 {{% /blocks/products/pf/agp/text %}}
 
--  Microsoft Windows ή συμβατό λειτουργικό σύστημα με Java Runtime Environment για εφαρμογές JSP/JSF και εφαρμογές επιφάνειας εργασίας.
+- Microsoft Windows ή συμβατό λειτουργικό σύστημα με Java Runtime Environment για εφαρμογές JSP/JSF και εφαρμογές επιφάνειας εργασίας.
 -  Λάβετε την τελευταία έκδοση του Aspose.Cells for Java απευθείας από
  [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells)  .
 
@@ -144,7 +138,7 @@ workbook.save(dataDir + "output.xls");
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Δεν χρειάζεται να κατεβάσετε το Aspose API." >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Δεν χρειάζεται να γράψετε κανέναν κώδικα." >}}
         {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Απλώς ανεβάστε τα XLS αρχεία σας." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-download" text="Θα διορθωθεί αμέσως." >}}
+        {{< blocks/products/pf/agp/democard icon="fa-download" text=" Θα διορθωθεί αμέσως." >}}
     {{< /blocks/products/pf/agp/demobox >}}
 
     {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLS" readMoreLink="https://docs.fileformat.com/spreadsheet/xls/" >}}
@@ -161,6 +155,7 @@ workbook.save(dataDir + "output.xls");
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/redaction/ods/" name="ODS" description="Αρχείο Υπολογιστικού Φύλλου OpenDocument" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/redaction/xlsb/" name="XLSB" description="Δυαδικό αρχείο βιβλίου εργασίας Excel" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/redaction/xlsm/" name="XLSM" description="Αρχείο υπολογιστικού φύλλου" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/redaction/xlsx/" name="XLSX" description="Αρχείο Excel OOXML" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

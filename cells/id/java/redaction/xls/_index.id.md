@@ -12,11 +12,7 @@ keywords: [Java Aspose.Cells., Java Search and replace text in XLS file., Java r
 
 {{% blocks/products/pf/agp/content h2="Cara Redaksi File XLS Menggunakan Java" %}}
 
- Untuk menyunting file XLS, kami akan menggunakan
- [Aspose.Cells for Java](https://products.aspose.com/cells/java) 
-API yang merupakan platform redaksi API for Java yang kaya fitur, kuat, dan mudah digunakan. Anda dapat mendownload versi terbarunya langsung dari
- [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) 
- dan instal dalam proyek berbasis Maven Anda dengan menambahkan konfigurasi berikut ke pom.xml.
+ Untuk menyunting file XLS, kami akan menggunakan[Aspose.Cells for Java](https://products.aspose.com/cells/java) API yang merupakan platform redaksi API for Java yang kaya fitur, kuat, dan mudah digunakan. Anda dapat mendownload versi terbarunya langsung dari[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) dan instal dalam proyek berbasis Maven Anda dengan menambahkan konfigurasi berikut ke pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Gudang" offSpacer="true" %}}
 
@@ -54,9 +50,7 @@ API yang merupakan platform redaksi API for Java yang kaya fitur, kuat, dan muda
 
 {{% blocks/products/pf/agp/text %}}
 
- Pencarian dokumen dasar dan mengganti teks dalam konten, komentar atau metadata dengan
- [Aspose.Cells for Java](https://products.aspose.com/cells/java) 
- API dapat dilakukan hanya dengan beberapa baris kode.
+ Pencarian dokumen dasar dan mengganti teks dalam konten, komentar atau metadata dengan[Aspose.Cells for Java](https://products.aspose.com/cells/java) API dapat dilakukan hanya dengan beberapa baris kode.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -78,7 +72,7 @@ API yang merupakan platform redaksi API for Java yang kaya fitur, kuat, dan muda
 
 {{% /blocks/products/pf/agp/text %}}
 
--  Microsoft Windows atau OS yang kompatibel dengan Java Runtime Environment untuk Aplikasi JSP/JSF dan Aplikasi Desktop.
+- Microsoft Windows atau OS yang kompatibel dengan Java Runtime Environment untuk Aplikasi JSP/JSF dan Aplikasi Desktop.
 -  Dapatkan versi terbaru Aspose.Cells for Java langsung dari
  [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells)  .
 
@@ -144,7 +138,7 @@ workbook.save(dataDir + "output.xls");
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Tidak perlu download Aspose API." >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Tidak perlu menulis kode apa pun." >}}
         {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Cukup unggah file XLS Anda." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-download" text="Itu akan segera disunting." >}}
+        {{< blocks/products/pf/agp/democard icon="fa-download" text=" Itu akan segera disunting." >}}
     {{< /blocks/products/pf/agp/demobox >}}
 
     {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLS" readMoreLink="https://docs.fileformat.com/spreadsheet/xls/" >}}
@@ -161,6 +155,7 @@ File dengan ekstensi XLS mewakili Format File Biner Excel. File tersebut dapat d
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/redaction/ods/" name="ODS" description="File Lembar Bentang OpenDocument" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/redaction/xlsb/" name="XLSB" description="File Buku Kerja Excel Biner" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/redaction/xlsm/" name="XLSM" description="Berkas Lembar Bentang" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/redaction/xlsx/" name="XLSX" description="Berkas OOXML Excel" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

@@ -1,5 +1,5 @@
 ---
-title:  Αναζήτηση και αντικατάσταση κειμένου στο έγγραφο ODS μέσω του C++
+title: Αναζήτηση και αντικατάσταση κειμένου στο έγγραφο ODS μέσω του C++
 weight: 1610
 description: C++ παράδειγμα κώδικα για τη διόρθωση ευαίσθητων πληροφοριών στο αρχείο ODS στο C++ Runtime Environment για Windows 32 bit, Windows 64 bit και Linux 64 bit.
 keywords: [C++ Aspose.Cells., C++ Search and replace text in ODS file., C++ redact ODS file., C++ edit ODS file., C++ ODS file redaction., C++ Search and replace string in ODS file]
@@ -12,13 +12,7 @@ keywords: [C++ Aspose.Cells., C++ Search and replace text in ODS file., C++ reda
 
 {{% blocks/products/pf/agp/content h2="Πώς να διορθώσετε το αρχείο ODS χρησιμοποιώντας το C++" %}}
 
- Για να επεξεργαστούμε το αρχείο ODS, θα χρησιμοποιήσουμε
- [Aspose.Cells for C++](https://products.aspose.com/cells/cpp) 
- API που είναι μια πλατφόρμα με πλούσια χαρακτηριστικά, ισχυρή και εύκολη στη χρήση έκδοση εγγράφων API for C++. Μπορείτε να κατεβάσετε την τελευταία του έκδοση απευθείας, απλά ανοίξτε
- [NuGet](https://www.nuget.org/packages/aspose.cells) 
- διαχειριστής πακέτων, αναζητήστε
- **Aspose.Cells.Cpp** 
- και εγκαταστήστε. Μπορείτε επίσης να χρησιμοποιήσετε την ακόλουθη εντολή από την Κονσόλα Package Manager.
+ Για να επεξεργαστούμε το αρχείο ODS, θα χρησιμοποιήσουμε[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) API που είναι μια πλατφόρμα με πλούσια χαρακτηριστικά, ισχυρή και εύκολη στη χρήση έκδοση εγγράφων API for C++. Μπορείτε να κατεβάσετε την τελευταία του έκδοση απευθείας, απλά ανοίξτε[NuGet](https://www.nuget.org/packages/aspose.cells) διαχειριστής πακέτων, αναζητήστε**Aspose.Cells.Cpp** και εγκαταστήστε. Μπορείτε επίσης να χρησιμοποιήσετε την ακόλουθη εντολή από την Κονσόλα Package Manager.
 
 {{% blocks/products/pf/agp/code-block title="Εντολή" offSpacer="true" %}}
 
@@ -38,15 +32,13 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% blocks/products/pf/agp/text %}}
 
- Μια βασική αναζήτηση εγγράφων και αντικατάσταση κειμένου σε περιεχόμενα, σχόλια ή μεταδεδομένα με
- [Aspose.Cells for C++](https://products.aspose.com/cells/cpp) 
- Τα API μπορούν να γίνουν με λίγες μόνο γραμμές κώδικα.
+ Μια βασική αναζήτηση εγγράφων και αντικατάσταση κειμένου σε περιεχόμενα, σχόλια ή μεταδεδομένα με[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) Τα API μπορούν να γίνουν με λίγες μόνο γραμμές κώδικα.
 
 {{% /blocks/products/pf/agp/text %}}
 
 + Φόρτωση αρχείου ODS.
 + Ορισμός επιλογών αντικατάστασης.
-+ Ορισμός επιλογής ευαισθησίας πεζών-κεφαλαίων.
+Ορισμός επιλογής ευαισθησίας πεζών-κεφαλαίων.
 + Ορισμός επιλογής αντιστοίχισης κειμένου
 + Αντικατάσταση κειμένου χρησιμοποιώντας τη μέθοδο Replace(...).
 + Αποθηκεύστε το βιβλίο εργασίας.
@@ -114,11 +106,11 @@ Aspose::Cells::Cleanup();
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Δεν χρειάζεται να κατεβάσετε το Aspose API." >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Δεν χρειάζεται να γράψετε κανέναν κώδικα." >}}
         {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Απλώς ανεβάστε τα ODS αρχεία σας." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-download" text="Θα διορθωθεί αμέσως." >}}
+        {{< blocks/products/pf/agp/democard icon="fa-download" text=" Θα διορθωθεί αμέσως." >}}
     {{< /blocks/products/pf/agp/demobox >}}
 
     {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="ODS" readMoreLink="https://docs.fileformat.com/spreadsheet/ods/" >}}
-Τα αρχεία με επέκταση ODS αντιπροσωπεύουν τη μορφή εγγράφου υπολογιστικού φύλλου OpenDocument που είναι επεξεργάσιμα από τον χρήστη. Τα δεδομένα αποθηκεύονται μέσα στο αρχείο ODF σε γραμμές και στήλες. Είναι μορφή που βασίζεται σε XML και είναι ένας από τους διάφορους υποτύπους της οικογένειας Μορφές Ανοιχτών Εγγράφων (ODF). Η μορφή καθορίζεται ως μέρος των προδιαγραφών ODF 1.2 που δημοσιεύει και διατηρεί το OASIS. Ένας αριθμός εφαρμογών στο Windows καθώς και σε άλλα λειτουργικά συστήματα μπορούν να ανοίξουν αρχεία ODS για επεξεργασία και χειρισμό, συμπεριλαμβανομένων των Microsoft Excel, NeoOffice και LibreOffice. Τα αρχεία ODS μπορούν επίσης να μετατραπούν σε άλλες μορφές υπολογιστικών φύλλων, όπως XLS, XLSX και άλλα από διαφορετικές εφαρμογές.
+ Τα αρχεία με επέκταση ODS αντιπροσωπεύουν τη μορφή εγγράφου υπολογιστικού φύλλου OpenDocument που είναι επεξεργάσιμα από τον χρήστη. Τα δεδομένα αποθηκεύονται μέσα στο αρχείο ODF σε γραμμές και στήλες. Είναι μορφή που βασίζεται σε XML και είναι ένας από τους διάφορους υποτύπους της οικογένειας Μορφές Ανοιχτών Εγγράφων (ODF). Η μορφή καθορίζεται ως μέρος των προδιαγραφών ODF 1.2 που δημοσιεύει και διατηρεί το OASIS. Ένας αριθμός εφαρμογών στο Windows καθώς και σε άλλα λειτουργικά συστήματα μπορούν να ανοίξουν αρχεία ODS για επεξεργασία και χειρισμό, συμπεριλαμβανομένων των Microsoft Excel, NeoOffice και LibreOffice. Τα αρχεία ODS μπορούν επίσης να μετατραπούν σε άλλες μορφές υπολογιστικών φύλλων, όπως XLS, XLSX και άλλα από διαφορετικές εφαρμογές.
 
     {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
@@ -131,6 +123,7 @@ Aspose::Cells::Cleanup();
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/redaction/xls/" name="XLS" description="Δυαδική μορφή Excel" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/redaction/xlsb/" name="XLSB" description="Δυαδικό αρχείο βιβλίου εργασίας Excel" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/redaction/xlsm/" name="XLSM" description="Αρχείο υπολογιστικού φύλλου" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/redaction/xlsx/" name="XLSX" description="Αρχείο Excel OOXML" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

@@ -12,13 +12,7 @@ keywords: [C# Aspose.Cells., c# Search and replace text in XLSM file., c# redact
 
 {{% blocks/products/pf/agp/content h2="C#을 사용하여 XLSM 파일을 수정하는 방법" %}}
 
- XLSM 파일을 수정하기 위해 다음을 사용합니다.
- [Aspose.Cells for .NET](https://products.aspose.com/cells/net) 
- API은 기능이 풍부하고 강력하며 사용하기 쉬운 C# 플랫폼용 문서 조작 API입니다. 열려 있는
- [NuGet](https://www.nuget.org/packages/aspose.cells) 
- 패키지 관리자, 검색
- **Aspose.Cells** 
- 그리고 설치하세요. 패키지 관리자 콘솔에서 다음 명령을 사용할 수도 있습니다.
+ XLSM 파일을 수정하기 위해 다음을 사용합니다.[Aspose.Cells for .NET](https://products.aspose.com/cells/net) API은 기능이 풍부하고 강력하며 사용하기 쉬운 C# 플랫폼용 문서 조작 API입니다. 열려 있는[NuGet](https://www.nuget.org/packages/aspose.cells) 패키지 관리자, 검색**Aspose.Cells** 그리고 설치하세요. 패키지 관리자 콘솔에서 다음 명령을 사용할 수도 있습니다.
 
 {{% blocks/products/pf/agp/code-block title="명령" offSpacer="true" %}}
 
@@ -38,9 +32,7 @@ PM> Install-Package Aspose.Cells
 
 {{% blocks/products/pf/agp/text %}}
 
- 기본 문서 검색 및 내용, 댓글, 메타데이터의 텍스트를 다음으로 대체합니다.
- [Aspose.Cells for .NET](https://products.aspose.com/cells/net) 
- 단 몇 줄의 코드만으로 API를 구현할 수 있습니다.
+ 기본 문서 검색 및 내용, 댓글, 메타데이터의 텍스트를 다음으로 대체합니다.[Aspose.Cells for .NET](https://products.aspose.com/cells/net) 단 몇 줄의 코드만으로 API를 구현할 수 있습니다.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -57,7 +49,7 @@ PM> Install-Package Aspose.Cells
 
 {{% blocks/products/pf/agp/text %}}
 
- 우리의 API는 모든 주요 플랫폼과 운영 체제에서 지원됩니다. 아래 코드를 실행하기 전에 시스템에 다음 전제 조건이 있는지 확인하십시오.
+우리의 API는 모든 주요 플랫폼과 운영 체제에서 지원됩니다. 아래 코드를 실행하기 전에 시스템에 다음 전제 조건이 있는지 확인하십시오.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -122,7 +114,7 @@ wb.Save("e:\test2\output.xlsm");
             {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Aspose API을 다운로드할 필요가 없습니다." >}}
             {{< blocks/products/pf/agp/democard icon="fa-edit" text=" 코드를 작성할 필요가 없습니다." >}}
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" XLSM 파일을 업로드하세요." >}}
-            {{< blocks/products/pf/agp/democard icon="fa-download" text="즉시 수정됩니다." >}}
+            {{< blocks/products/pf/agp/democard icon="fa-download" text=" 즉시 수정됩니다." >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLSM" readMoreLink="https://docs.fileformat.com/spreadsheet/xlsm/" >}}
 확장자가 XLSM인 파일은 매크로를 지원하는 스프레드시트 파일 유형입니다. 응용 프로그램의 관점에서 매크로는 프로세스 자동화에 사용되는 명령 집합입니다. 매크로는 반복적으로 수행되는 단계를 기록하는 데 사용되며 매크로를 다시 실행하여 작업 수행을 용이하게 합니다. 매크로는 Visual Basic Editor를 사용하여 Excel 통합 문서 내에서 Microsoft의 VBA(Visual Basic for Application)로 프로그래밍되며 거기에서 직접 실행/디버그할 수 있습니다.
@@ -138,6 +130,7 @@ wb.Save("e:\test2\output.xlsm");
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/redaction/ods/" name="ODS" description="OpenDocument 스프레드시트 파일" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/redaction/xls/" name="XLS" description="Excel 바이너리 형식" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/redaction/xlsb/" name="XLSB" description="바이너리 Excel 통합 문서 파일" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/redaction/xlsx/" name="XLSX" description="OOXML 엑셀 파일" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

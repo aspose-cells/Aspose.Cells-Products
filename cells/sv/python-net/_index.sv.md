@@ -13,7 +13,7 @@ keywords: [Python Aspose.Cells Create repair merge convert JSON Excel XML PDF HT
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
-Aspose.Cells for Python via .Net är en snabb och pålitlig API för bearbetningsuppgifter för kalkylblad. Utvecklare kan skapa enkla eller komplexa kalkylblad, manipulera och extrahera information från Excel-filer. API läser flera Excel-format och kan rendera kalkylblad till XPS, PDF, MHTML, HTML, vanlig text, bilder och mer. Det är den bästa lösningen för att automatisera Excel-rapporter med python.
+ Aspose.Cells for Python via .Net är en snabb och pålitlig API för bearbetningsuppgifter för kalkylblad. Utvecklare kan skapa enkla eller komplexa kalkylblad, manipulera och extrahera information från Excel-filer. API läser flera Excel-format och kan rendera kalkylblad till XPS, PDF, MHTML, HTML, vanlig text, bilder och mer. Det är den bästa lösningen för att automatisera Excel-rapporter med python.
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
@@ -38,7 +38,7 @@ Aspose.Cells for Python via .Net är en snabb och pålitlig API för bearbetning
  Resultatet satt
     </li>
     <li>
-Samlingar
+ Samlingar
     </li>
    </ul>
    <header>
@@ -76,7 +76,7 @@ Samlingar
  Skapa diagram
     </li>
     <li>
- Sammanfatta
+Sammanfatta
     </li>
     <li>
  Smarta markörer
@@ -159,7 +159,7 @@ Samlingar
      <b>
  Microsoft Excel:
      </b>
- XLS, XLSX, XLSB, XLTX, XLTM, XLSM, XML
+ XLS, XLSX, XLSB, XLT, XLTX, XLTM, XLSM, XML, OTS
     </li>
     <li>
      <b>
@@ -171,13 +171,25 @@ Samlingar
      <b>
  Text:
      </b>
-     CSV, TSV, TXT
+     CSV, TSV, JSON
     </li>
     <li>
      <b>
  Webb:
      </b>
      HTML, MHTML
+    </li>
+    <li>
+     <b>
+      Numbers:
+     </b>
+ Apples iWork office suite Numbers appdokument
+    </li>
+    <li>
+     <b>
+ Övriga:
+     </b>
+ SXC, FODS, EPUB
     </li>
    </ul>
   </div>
@@ -186,7 +198,7 @@ Samlingar
    <header>
     <i class="fa fa-mail-forward">
     </i>
- Endast utgång
+Endast utgång
    </header>
    <ul>
     <li>
@@ -197,9 +209,21 @@ Samlingar
     </li>
     <li>
      <b>
+ Datautbyte:
+     </b>
+     DIF
+    </li>    
+    <li>
+     <b>
  Bilder:
      </b>
-     JPEG, PNG, BMP, SVG, EMF
+     JPEG, PNG, BMP, SVG, TIFF, EMF, GIF
+    </li>
+    <li>
+     <b>
+ Övriga:
+     </b>
+ MARKDOWN, SQL, XTHML
     </li>
    </ul>
   </div>
@@ -306,7 +330,7 @@ Samlingar
     <em class="fa fa-object-ungroup ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-Lägg till eller ta bort gruppering i rader och kolumner
+ Lägg till eller ta bort gruppering i rader och kolumner
     </p>
    </div>
    <div class="col-lg-4">
@@ -416,7 +440,7 @@ Lägg till eller ta bort gruppering i rader och kolumner
  Konvertering av flera format
     </h2>
     <p>
- Python Excel-bibliotek ger konvertering av Excel-filer till PDF, XPS &amp; HTML format. Den pålitliga konverteringen av API gör det till en perfekt lösning för företag som behöver utbyta filer i industristandardformat.
+Python Excel-bibliotek ger konvertering av Excel-filer till PDF, XPS &amp; HTML format. Den pålitliga konverteringen av API gör det till en perfekt lösning för företag som behöver utbyta filer i industristandardformat.
     </p>
     <div class="codeblock" id="code">
      <h3>
@@ -493,7 +517,7 @@ wk.save("houtput.html", SaveFormat.HTML);</code></pre>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-Anpassning av diagram
+ Anpassning av diagram
     </h2>
     <p>
 Aspose.Cells for Python via .NET ger fullt stöd för kartläggning. Man kan enkelt lägga till standard och anpassade diagram eller dynamiskt ställa in diagramdata för att uppdatera diagrammet via detta pythonbibliotek.

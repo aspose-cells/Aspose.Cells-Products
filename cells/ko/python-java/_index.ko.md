@@ -13,7 +13,7 @@ keywords: [Python Aspose.Cells Create parse repair merge convert JSON Excel XML 
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
-Aspose.Cells for Python via Java은 스프레드시트 처리 작업을 위한 빠르고 안정적인 API입니다. 개발자는 간단하거나 복잡한 스프레드시트를 만들고 Excel 파일에서 정보를 조작 및 추출할 수 있습니다. API은 여러 Excel 형식을 읽고 워크시트를 XPS, PDF, MHTML, HTML, 일반 텍스트, 이미지 등으로 렌더링할 수 있습니다. Python을 사용하여 Excel 보고서를 자동화하는 최고의 솔루션입니다.
+ Aspose.Cells for Python via Java은 스프레드시트 처리 작업을 위한 빠르고 안정적인 API입니다. 개발자는 간단하거나 복잡한 스프레드시트를 만들고 Excel 파일에서 정보를 조작 및 추출할 수 있습니다. API은 여러 Excel 형식을 읽고 워크시트를 XPS, PDF, MHTML, HTML, 일반 텍스트, 이미지 등으로 렌더링할 수 있습니다. Python을 사용하여 Excel 보고서를 자동화하는 최고의 솔루션입니다.
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
@@ -38,7 +38,7 @@ Aspose.Cells for Python via Java은 스프레드시트 처리 작업을 위한 �
  결과세트
     </li>
     <li>
-컬렉션
+ 컬렉션
     </li>
    </ul>
    <header>
@@ -76,7 +76,7 @@ Aspose.Cells for Python via Java은 스프레드시트 처리 작업을 위한 �
  차트 만들기
     </li>
     <li>
- 요약하다
+요약하다
     </li>
     <li>
  스마트 마커
@@ -159,7 +159,7 @@ Aspose.Cells for Python via Java은 스프레드시트 처리 작업을 위한 �
      <b>
  Microsoft 엑셀:
      </b>
- XLS, XLSX, XLSB, XLTX, XLTM, XLSM, XML
+ XLS, XLSX, XLSB, XLT, XLTX, XLTM, XLSM, XML, OTS
     </li>
     <li>
      <b>
@@ -171,13 +171,25 @@ Aspose.Cells for Python via Java은 스프레드시트 처리 작업을 위한 �
      <b>
  텍스트:
      </b>
-     CSV, TSV, TXT
+     CSV, TSV, JSON
     </li>
     <li>
      <b>
  편물:
      </b>
      HTML, MHTML
+    </li>
+    <li>
+     <b>
+      Numbers:
+     </b>
+ Apple의 iWork 오피스 제품군 Numbers 앱 문서
+    </li>
+    <li>
+     <b>
+ 기타:
+     </b>
+ SXC, FODS, EPUB
     </li>
    </ul>
   </div>
@@ -186,7 +198,7 @@ Aspose.Cells for Python via Java은 스프레드시트 처리 작업을 위한 �
    <header>
     <i class="fa fa-mail-forward">
     </i>
- 출력만
+출력만
    </header>
    <ul>
     <li>
@@ -197,9 +209,21 @@ Aspose.Cells for Python via Java은 스프레드시트 처리 작업을 위한 �
     </li>
     <li>
      <b>
+ 데이터 교환:
+     </b>
+     DIF
+    </li>    
+    <li>
+     <b>
  이미지:
      </b>
-     JPEG, PNG, BMP, SVG, EMF
+     JPEG, PNG, BMP, SVG, TIFF, EMF, GIF
+    </li>
+    <li>
+     <b>
+ 기타:
+     </b>
+ MARKDOWN, SQL, XTHML
     </li>
    </ul>
   </div>
@@ -306,7 +330,7 @@ Aspose.Cells for Python via Java은 스프레드시트 처리 작업을 위한 �
     <em class="fa fa-object-ungroup ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-행과 열에 그룹화 추가 또는 제거
+ 행과 열에 그룹화 추가 또는 제거
     </p>
    </div>
    <div class="col-lg-4">
@@ -416,11 +440,11 @@ Aspose.Cells for Python via Java은 스프레드시트 처리 작업을 위한 �
  여러 형식 변환
     </h2>
     <p>
- Python Excel 라이브러리는 Excel 파일을 PDF, XPS &amp; HTML 형식. API의 안정적인 변환을 통해 업계 표준 형식으로 파일을 교환해야 하는 기업에 완벽한 솔루션이 됩니다.
+Python Excel 라이브러리는 Excel 파일을 PDF, XPS &amp; HTML 형식. API의 안정적인 변환을 통해 업계 표준 형식으로 파일을 교환해야 하는 기업에 완벽한 솔루션이 됩니다.
     </p>
     <div class="codeblock" id="code">
      <h3>
-스프레드시트를 다양한 형식으로 저장 - Java
+ 스프레드시트를 다양한 형식으로 저장 - Java
      </h3>
      <pre><code class="java">
 // load file to be converted
@@ -489,7 +513,7 @@ wkbk.save(SD_PATH + "houtput.html", SaveFormat.HTML);</code></pre>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-차트 사용자 정의
+ 차트 사용자 정의
     </h2>
     <p>
 Aspose.Cells for Python via Java은 차트 작성을 완벽하게 지원합니다. 이 Python 라이브러리를 통해 차트를 새로 고치기 위해 표준 및 사용자 정의 차트를 쉽게 추가하거나 차트 데이터를 동적으로 설정할 수 있습니다.

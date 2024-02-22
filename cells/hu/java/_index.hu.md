@@ -13,11 +13,11 @@ keywords: [Java Aspose.Cells Create repair parse merge convert JSON Excel XML PD
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
- Aspose.Cells for Java egy díjnyertes Excel táblázatkezelő API, amely lehetővé teszi a fejlesztők számára az olvasási, írási, manipulálási, konvertálási és átalakítási funkciók beágyazását; táblázatokat nyomtathat saját alkalmazásaikban anélkül, hogy Microsoft Excel alkalmazásra lenne szüksége.
+Aspose.Cells for Java egy díjnyertes Excel táblázatkezelő API, amely lehetővé teszi a fejlesztők számára az olvasási, írási, manipulálási, konvertálási és átalakítási funkciók beágyazását; táblázatokat nyomtathat saját alkalmazásaikban anélkül, hogy Microsoft Excel alkalmazásra lenne szüksége.
 </p>
 
 <p>
-Aspose.Cells A for Java egy kiforrott és funkciókban gazdag könyvtár, amely számos olyan funkciót kínál, amelyek messze túlmutatnak a piacon elérhető egyéb összetevők egyszerű adatexportálási képességein. A API lehetőséget biztosít az adatok exportálására, a táblázatok legrészletesebb szintre formázására, valamint az importálásra és az importálásra; képek exportálása, diagramok létrehozása &amp; Pivot Tables, alkalmazza &amp; összetett képletek kiszámítása képletszámító motor segítségével, Excel adatok streamelése &amp; mentse az eredményt különböző formátumokban.
+ Aspose.Cells A for Java egy kiforrott és funkciókban gazdag könyvtár, amely számos olyan funkciót kínál, amelyek messze túlmutatnak a piacon elérhető egyéb összetevők egyszerű adatexportálási képességein. A API lehetőséget biztosít az adatok exportálására, a táblázatok legrészletesebb szintre formázására, valamint az importálásra és az importálásra; képek exportálása, diagramok létrehozása &amp; Pivot Tables, alkalmazza &amp; összetett képletek kiszámítása képletszámító motor segítségével, Excel adatok streamelése &amp; mentse az eredményt különböző formátumokban.
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
@@ -64,7 +64,7 @@ Aspose.Cells A for Java egy kiforrott és funkciókban gazdag könyvtár, amely 
  Képletek alkalmazása
     </li>
     <li>
- Összesít
+Összesít
     </li>
     <li>
  Intelligens jelölők
@@ -161,7 +161,7 @@ Aspose.Cells A for Java egy kiforrott és funkciókban gazdag könyvtár, amely 
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Támogatott fájlformátumok" description="Aspose.Cells for Java támogatja a népszerű táblázatformátumokat, a gyakran használt képeket, a rögzített elrendezést és[több formátum](https://docs.aspose.com/cells/java/supported-file-formats/)." >}}
+{{< blocks/products/pf/carousel-item h3="Támogatott fájlformátumok" description=" Aspose.Cells for Java támogatja a népszerű táblázatformátumokat, a gyakran használt képeket, a rögzített elrendezést és[több formátum](https://docs.aspose.com/cells/java/supported-file-formats/)." >}}
 <div class="diagram1 d2 d1-java">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -175,7 +175,7 @@ Aspose.Cells A for Java egy kiforrott és funkciókban gazdag könyvtár, amely 
      <b>
  Microsoft Excel:
      </b>
- XLS, XLT, XLSX, XLSB, XLTX, XLTM, XLSM, XML
+ XLS, XLSX, XLSB, XLT, XLTX, XLTM, XLSM, XML, OTS
     </li>
     <li>
      <b>
@@ -187,7 +187,7 @@ Aspose.Cells A for Java egy kiforrott és funkciókban gazdag könyvtár, amely 
      <b>
  Szöveg:
      </b>
-     CSV, TSV
+     CSV, TSV, JSON
     </li>
     <li>
      <b>
@@ -202,7 +202,10 @@ Aspose.Cells A for Java egy kiforrott és funkciókban gazdag könyvtár, amely 
  Az Apple iWork irodai csomagja Numbers alkalmazásdokumentumok
     </li>
     <li>
-     SXC, FODS
+     <b>
+ Egyéb:
+     </b>
+ SXC, FODS, EPUB
     </li>
    </ul>
   </div>
@@ -211,7 +214,7 @@ Aspose.Cells A for Java egy kiforrott és funkciókban gazdag könyvtár, amely 
    <header>
     <i class="fa fa-mail-forward">
     </i>
- Csak kimenet
+Csak kimenet
    </header>
    <ul>
     <li>
@@ -225,15 +228,18 @@ Aspose.Cells A for Java egy kiforrott és funkciókban gazdag könyvtár, amely 
  Adatcsere:
      </b>
      DIF
-    </li>
+    </li>    
     <li>
      <b>
  Képek:
      </b>
-     JPEG, PNG, BMP, SVG, TIFF, GIF, EMF
+     JPEG, PNG, BMP, SVG, TIFF, EMF, GIF
     </li>
     <li>
-     MARKDOWN
+     <b>
+ Egyéb:
+     </b>
+ MARKDOWN, SQL, XTHML
     </li>
    </ul>
   </div>
@@ -320,7 +326,7 @@ Aspose.Cells A for Java egy kiforrott és funkciókban gazdag könyvtár, amely 
     <em class="fa fa-commenting ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Létrehozás &amp; manipulálni a megjegyzéseket
+Létrehozás &amp; manipulálni a megjegyzéseket
     </p>
    </div>
    <div class="col-lg-4">
@@ -334,14 +340,14 @@ Aspose.Cells A for Java egy kiforrott és funkciókban gazdag könyvtár, amely 
     <em class="fa fa-align-center ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Létrehozás &amp; feltételes formázási szabályokat manipulálni
+ Létrehozása &amp; feltételes formázási szabályokat manipulálni
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-sort-amount-desc ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Létrehozás &amp; manipulálni a megnevezett tartományokat
+ Létrehozása &amp; manipulálni a megnevezett tartományokat
     </p>
    </div>
    <div class="col-lg-4">
@@ -369,7 +375,7 @@ Aspose.Cells A for Java egy kiforrott és funkciókban gazdag könyvtár, amely 
     <em class="fa fa-image ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-Vegyen újra mintát a képekből az Excelben a PDF-es konverzióvá
+ Vegyen újra mintát a képekből az Excelben a PDF-es konverzióvá
     </p>
    </div>
    <div class="col-lg-4">
@@ -405,10 +411,10 @@ wbk.save(dir + "output.html", SaveFormat.HTML);</code></pre>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
- Formázza a munkalapokat a legrészletesebb szintre
+Formázza a munkalapokat a legrészletesebb szintre
     </h2>
     <p>
- Library lehetővé teszi a táblázatok stílusát, beleértve, de nem kizárólagosan a munkalap formázását sor-, oszlop- és cellaszinten, feltételes formázási szabályok hozzáadását, számformátumok meghatározását és betűtípusok beállítását attribútumokkal. Hasonlóképpen, a API támogatja az összes típusú egyéni és szabványos diagramok, valamint különféle rajzobjektumok, például OLE-objektumok, képek, megjegyzések, alakzatok és a cellák vezérlőinek kezelését és létrehozását.
+ A Library lehetővé teszi a táblázatok stílusát, beleértve, de nem kizárólagosan a munkalap formázását sor-, oszlop- és cellaszinten, feltételes formázási szabályok hozzáadását, számformátumok meghatározását és betűtípusok beállítását attribútumokkal. Hasonlóképpen, a API támogatja az összes típusú egyéni és szabványos diagramok, valamint különféle rajzobjektumok, például OLE-objektumok, képek, megjegyzések, alakzatok és a cellák vezérlőinek kezelését és létrehozását.
     </p>
    </div>
    <!--<div class="col-lg-12">
@@ -423,11 +429,11 @@ wbk.save(dir + "output.html", SaveFormat.HTML);</code></pre>
  Diagramok konvertálása &amp; Munkalapok képhez és képhez; PDF Formátumok
     </h2>
     <p>
- A Aspose.Cells for Java speciális átalakítási szolgáltatásokat kínál, például diagramokat képekké és PDF-et, munkalapokat képekké, munkalapok nyomtatását és táblázatok konvertálását PDF fájlformátumba. Az átalakítási folyamat rendkívül rugalmas és egyszerű, lehetővé téve az átalakítás számos módjának kiválasztását, például a táblázatok PDF-es átalakítása során a képek újramintavételét vagy az eredményül kapott képméretek beállítását a munkalapok és diagramok képekké való renderelése közben.
+ Aspose.Cells for Java speciális átalakítási szolgáltatásokat kínál, például diagramokat képekké és PDF-et, munkalapokat képekké, munkalapok nyomtatását és táblázatok konvertálását PDF fájlformátumba. Az átalakítási folyamat rendkívül rugalmas és egyszerű, lehetővé téve az átalakítás számos módjának kiválasztását, például a táblázatok PDF-es átalakítása során a képek újramintavételét vagy az eredményül kapott képméretek beállítását a munkalapok és diagramok képekké való renderelése közben.
     </p>
     <div class="codeblock" id="code">
      <h3>
-Az Excel diagram megjelenítése képként &amp; PDF - Java
+ Az Excel diagram megjelenítése képként &amp; PDF - Java
      </h3>
      <pre><code class="java">// load spreadsheet containing the chart
 
@@ -459,7 +465,7 @@ chart.toPdf(dir + "output.pdf");</code></pre>
  Adatok összegzése diagramok és amp; Pivot táblák
     </h2>
     <p>
- Nagyon nagy táblázatokkal nehéz lehet összefoglaló információkat szerezni. A Pivot Table segítségével gyorsan leírhatja a lapos adatokat és megszerezheti a szükséges információkat. A API dinamikusan hoz létre kimutatásokat és diagramokat. A kimutatástábla forrásadatainak dinamikus módosítása lehetséges. Ezen túlmenően az Intelligens jelölők, a könyvtár másik legfontosabb funkciója, amely adatforrásokon keresztül tölti ki a munkalapokat, és vizuálisan hatékony jelentéseket készít.
+Nagyon nagy táblázatokkal nehéz lehet összefoglaló információkat szerezni. A Pivot Table segítségével gyorsan leírhatja a lapos adatokat és megszerezheti a szükséges információkat. A API dinamikusan hoz létre kimutatásokat és diagramokat. A kimutatástábla forrásadatainak dinamikus módosítása lehetséges. Ezen túlmenően az Intelligens jelölők, a könyvtár másik legfontosabb funkciója, amely adatforrásokon keresztül tölti ki a munkalapokat, és vizuálisan hatékony jelentéseket készít.
     </p>
    </div>
    <!--
@@ -488,7 +494,7 @@ chart.toPdf(dir + "output.pdf");</code></pre>
  Web alapú vizuális vezérlés a táblázatokhoz
     </h2>
     <p>
- Aspose.Cells for Java olyan felhasználói felület vezérlőt is biztosít, amely beágyazható a JSP webalkalmazásokba, és kompatibilis az összes modern webböngészővel, mint például a Chrome, a Firefox, az Internet Explorer és az Opera. A végfelhasználók Excel-fájlok betöltésére, szerkesztésére és mentésére használhatják webalkalmazása kezelőfelületéről.
+ A Aspose.Cells for Java olyan felhasználói felület vezérlőt is biztosít, amely beágyazható a JSP webalkalmazásokba, és kompatibilis az összes modern webböngészővel, mint például a Chrome, a Firefox, az Internet Explorer és az Opera. A végfelhasználók Excel-fájlok betöltésére, szerkesztésére és mentésére használhatják webalkalmazása kezelőfelületéről.
     </p>
    </div>
   </div>
@@ -498,11 +504,11 @@ chart.toPdf(dir + "output.pdf");</code></pre>
 
 {{< /blocks/products/pf/main-container >}}
 
-{{< blocks/products/pf/i18n/testimonials title="Mit mondanak az emberek" subTitle="Ne csak szót fogadjon. Tekintse meg, mit mondanak a felhasználók a táblázatkezelő API-król." caseStudiesLink="https://downloads.aspose.com/corporate/case-studies/aspose.cells/" >}}
+{{< blocks/products/pf/i18n/testimonials title="Mit mondanak az emberek" subTitle="Ne csak a szavunkat fogadja. Tekintse meg, mit mondanak a felhasználók a táblázatkezelő API-król." caseStudiesLink="https://downloads.aspose.com/corporate/case-studies/aspose.cells/" >}}
 
 {{< blocks/products/pf/testimonials-quote >}}
 <p class="first">
- Javasoljuk a Aspose.cells for Java használatát, mert könnyen megvalósítható, a API pedig egyszerűen érthető és nagyon folyékonyan használható.
+Javasoljuk a Aspose.cells for Java használatát, mert könnyen megvalósítható, a API pedig egyszerűen érthető és nagyon folyékonyan használható.
  <em>
  Pierre-Eric Oudin | Advizeo, Setec, Franciaország
  </em>
@@ -511,7 +517,7 @@ chart.toPdf(dir + "output.pdf");</code></pre>
 
 {{< blocks/products/pf/testimonials-quote >}}
 <p class="second">
- A Aspose termékkel kapcsolatos általános tapasztalatunk nagyon pozitív volt. Ez az összetevő növelte az Xpand IT termék – Xporter Plugin for JIRA – üzleti értékét, lehetővé téve számunkra, hogy referenciamegoldást fejlesszünk ki az adatexportáláshoz.
+ A Aspose termékkel kapcsolatos általános tapasztalatunk nagyon pozitív volt. Ez a komponens növelte az Xpand IT termék – Xporter Plugin for JIRA – üzleti értékét, lehetővé téve számunkra, hogy referenciamegoldást fejlesszünk ki az adatexportáláshoz.
  <em>
  Paulo Lopes | Xpand IT, Egyesült Királyság
  </em>
@@ -544,7 +550,7 @@ chart.toPdf(dir + "output.pdf");</code></pre>
 
 {{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://downloads.aspose.com/cells/java" pricingInformationLink="https://purchase.aspose.com/pricing/cells/java" >}}
 
-{{< blocks/products/pf/offers-section pfName="Aspose.Cells" description="A Aspose.Cells egyedi Excel API-kat kínál más népszerű fejlesztői környezetekhez, az alábbiak szerint:" >}}
+{{< blocks/products/pf/offers-section pfName="Aspose.Cells" description="Aspose.Cells egyedi Excel API-kat kínál más népszerű fejlesztői környezetekhez, az alábbiak szerint:" >}}
 
     {{< blocks/products/pf/offers-section-item link="/cells/net/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sdkName=".NET" >}}
     {{< blocks/products/pf/offers-section-item link="/cells/cpp/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" sdkName="C++" >}}

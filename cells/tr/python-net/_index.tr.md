@@ -13,7 +13,7 @@ keywords: [Python Aspose.Cells Create repair merge convert JSON Excel XML PDF HT
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
-.Net aracılığıyla Aspose.Cells for Python, elektronik tablo işleme görevleri için hızlı ve güvenilir bir API'dir. Geliştiriciler basit veya karmaşık elektronik tablolar oluşturabilir, bunları değiştirebilir ve excel dosyalarından bilgi çıkarabilir. API birden fazla excel formatını okur ve çalışma sayfalarını XPS, PDF, MHTML, HTML, Düz Metin, resimler ve daha fazlasına dönüştürebilir. Python kullanarak excel raporlarını otomatikleştirmek için en iyi çözümdür.
+ .Net aracılığıyla Aspose.Cells for Python, elektronik tablo işleme görevleri için hızlı ve güvenilir bir API'dir. Geliştiriciler basit veya karmaşık elektronik tablolar oluşturabilir, bunları değiştirebilir ve excel dosyalarından bilgi çıkarabilir. API birden fazla excel formatını okur ve çalışma sayfalarını XPS, PDF, MHTML, HTML, Düz Metin, resimler ve daha fazlasına dönüştürebilir. Python kullanarak excel raporlarını otomatikleştirmek için en iyi çözümdür.
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
@@ -38,7 +38,7 @@ keywords: [Python Aspose.Cells Create repair merge convert JSON Excel XML PDF HT
  Sonuç kümesi
     </li>
     <li>
-Koleksiyonlar
+ Koleksiyonlar
     </li>
    </ul>
    <header>
@@ -76,7 +76,7 @@ Koleksiyonlar
  Grafikler Oluşturun
     </li>
     <li>
- Özetle
+Özetle
     </li>
     <li>
  Akıllı İşaretleyiciler
@@ -159,7 +159,7 @@ Koleksiyonlar
      <b>
  Microsoft Excel:
      </b>
- XLS, XLSX, XLSB, XLTX, XLTM, XLSM, XML
+ XLS, XLSX, XLSB, XLT, XLTX, XLTM, XLSM, XML, OTS
     </li>
     <li>
      <b>
@@ -171,13 +171,25 @@ Koleksiyonlar
      <b>
  Metin:
      </b>
-     CSV, TSV, TXT
+     CSV, TSV, JSON
     </li>
     <li>
      <b>
  Ağ:
      </b>
      HTML, MHTML
+    </li>
+    <li>
+     <b>
+      Numbers:
+     </b>
+ Apple'ın iWork ofis paketi Numbers uygulama belgeleri
+    </li>
+    <li>
+     <b>
+ Diğerleri:
+     </b>
+ SXC, FODS, EPUB
     </li>
    </ul>
   </div>
@@ -186,7 +198,7 @@ Koleksiyonlar
    <header>
     <i class="fa fa-mail-forward">
     </i>
- Yalnızca Çıkış
+Yalnızca Çıkış
    </header>
    <ul>
     <li>
@@ -197,9 +209,21 @@ Koleksiyonlar
     </li>
     <li>
      <b>
+ Veri Değişimi:
+     </b>
+     DIF
+    </li>    
+    <li>
+     <b>
  Görüntüler:
      </b>
-     JPEG, PNG, BMP, SVG, EMF
+     JPEG, PNG, BMP, SVG, TIFF, EMF, GIF
+    </li>
+    <li>
+     <b>
+ Diğerleri:
+     </b>
+ MARKDOWN, SQL, XTHML
     </li>
    </ul>
   </div>
@@ -306,7 +330,7 @@ Koleksiyonlar
     <em class="fa fa-object-ungroup ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-Satırlara ve sütunlara gruplandırma ekleme veya kaldırma
+ Satırlara ve sütunlara gruplandırma ekleme veya kaldırma
     </p>
    </div>
    <div class="col-lg-4">
@@ -416,7 +440,7 @@ Satırlara ve sütunlara gruplandırma ekleme veya kaldırma
  Çoklu Format Dönüşümü
     </h2>
     <p>
- Python Excel kitaplığı, Excel dosyalarının PDF, XPS ve XPS'e dönüştürülmesini sağlar. HTML formatları. API'in güvenilir şekilde dönüştürülmesi, onu endüstri standardı formatlarda dosya alışverişi yapmak isteyen şirketler için mükemmel bir çözüm haline getirir.
+Python Excel kitaplığı, Excel dosyalarının PDF, XPS ve XPS'e dönüştürülmesini sağlar. HTML formatları. API'in güvenilir şekilde dönüştürülmesi, onu endüstri standardı formatlarda dosya alışverişi yapmak isteyen şirketler için mükemmel bir çözüm haline getirir.
     </p>
     <div class="codeblock" id="code">
      <h3>
@@ -493,7 +517,7 @@ wk.save("houtput.html", SaveFormat.HTML);</code></pre>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-Grafikleri Özelleştirme
+ Grafikleri Özelleştirme
     </h2>
     <p>
 Aspose.Cells for Python via .NET grafik konusunda tam destek sağlar. Bu python kütüphanesi aracılığıyla grafiği yenilemek için kolayca standart ve özelleştirilmiş grafikler eklenebilir veya grafik verileri dinamik olarak ayarlanabilir.

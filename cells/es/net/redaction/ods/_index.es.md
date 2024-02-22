@@ -12,13 +12,7 @@ keywords: [C# Aspose.Cells., c# Search and replace text in ODS file., c# redact 
 
 {{% blocks/products/pf/agp/content h2="Cómo redactar el archivo ODS usando C#" %}}
 
- Para redactar el archivo ODS, usaremos
- [Aspose.Cells for .NET](https://products.aspose.com/cells/net) 
- API, que es una manipulación de documentos API rica en funciones, potente y fácil de usar para la plataforma C#. Abierto
- [NuGet](https://www.nuget.org/packages/aspose.cells) 
- administrador de paquetes, buscar
- **Aspose.Cells** 
- e instalar. También puede utilizar el siguiente comando desde la Consola del Administrador de paquetes.
+ Para redactar el archivo ODS, usaremos[Aspose.Cells for .NET](https://products.aspose.com/cells/net) API, que es una manipulación de documentos API rica en funciones, potente y fácil de usar para la plataforma C#. Abierto[NuGet](https://www.nuget.org/packages/aspose.cells) administrador de paquetes, buscar**Aspose.Cells** e instalar. También puede utilizar el siguiente comando desde la Consola del Administrador de paquetes.
 
 {{% blocks/products/pf/agp/code-block title="Dominio" offSpacer="true" %}}
 
@@ -38,9 +32,7 @@ PM> Install-Package Aspose.Cells
 
 {{% blocks/products/pf/agp/text %}}
 
- Un documento básico para buscar y reemplazar texto en contenidos, comentarios o metadatos con
- [Aspose.Cells for .NET](https://products.aspose.com/cells/net) 
- Las API se pueden crear con solo unas pocas líneas de código.
+ Un documento básico para buscar y reemplazar texto en contenidos, comentarios o metadatos con[Aspose.Cells for .NET](https://products.aspose.com/cells/net) Las API se pueden crear con solo unas pocas líneas de código.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -57,7 +49,7 @@ PM> Install-Package Aspose.Cells
 
 {{% blocks/products/pf/agp/text %}}
 
- Nuestras API son compatibles con todas las plataformas y sistemas operativos principales. Antes de ejecutar el código siguiente, asegúrese de tener los siguientes requisitos previos en su sistema.
+Nuestras API son compatibles con todas las plataformas y sistemas operativos principales. Antes de ejecutar el código siguiente, asegúrese de tener los siguientes requisitos previos en su sistema.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -122,10 +114,10 @@ wb.Save("e:\test2\output.ods");
             {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" No es necesario descargar Aspose API." >}}
             {{< blocks/products/pf/agp/democard icon="fa-edit" text=" No es necesario escribir ningún código." >}}
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Simplemente cargue sus archivos ODS." >}}
-            {{< blocks/products/pf/agp/democard icon="fa-download" text="Será redactado al instante." >}}
+            {{< blocks/products/pf/agp/democard icon="fa-download" text=" Será redactado al instante." >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="ODS" readMoreLink="https://docs.fileformat.com/spreadsheet/ods/" >}}
-Los archivos con extensión ODS representan el formato de documento de hoja de cálculo OpenDocument que el usuario puede editar. Los datos se almacenan dentro del archivo ODF en filas y columnas. Es un formato basado en XML y es uno de los varios subtipos de la familia de formatos de documentos abiertos (ODF). El formato se especifica como parte de las especificaciones ODF 1.2 publicadas y mantenidas por OASIS. Varias aplicaciones en Windows, así como otros sistemas operativos, pueden abrir archivos ODS para editarlos y manipularlos, incluidos Microsoft Excel, NeoOffice y LibreOffice. Los archivos ODS también se pueden convertir a otros formatos de hojas de cálculo, como XLS, XLSX y otros, mediante diferentes aplicaciones.
+ Los archivos con extensión ODS representan el formato de documento de hoja de cálculo OpenDocument que el usuario puede editar. Los datos se almacenan dentro del archivo ODF en filas y columnas. Es un formato basado en XML y es uno de los varios subtipos de la familia de formatos de documentos abiertos (ODF). El formato se especifica como parte de las especificaciones ODF 1.2 publicadas y mantenidas por OASIS. Varias aplicaciones en Windows, así como otros sistemas operativos, pueden abrir archivos ODS para editarlos y manipularlos, incluidos Microsoft Excel, NeoOffice y LibreOffice. Los archivos ODS también se pueden convertir a otros formatos de hojas de cálculo, como XLS, XLSX y otros, mediante diferentes aplicaciones.
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
@@ -138,6 +130,7 @@ Los archivos con extensión ODS representan el formato de documento de hoja de c
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/redaction/xls/" name="XLS" description="Formato binario de Excel" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/redaction/xlsb/" name="XLSB" description="Archivo de libro de Excel binario" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/redaction/xlsm/" name="XLSM" description="Archivo de hoja de cálculo" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/redaction/xlsx/" name="XLSX" description="Archivo Excel OOXML" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

@@ -1,5 +1,5 @@
 ---
-title:  ค้นหาและแทนที่ข้อความในเอกสาร XLSB ผ่าน C++
+title: ค้นหาและแทนที่ข้อความในเอกสาร XLSB ผ่าน C++
 weight: 6660
 description: โค้ดตัวอย่าง C++ เพื่อตรวจทานข้อมูลที่ละเอียดอ่อนในไฟล์ XLSB บน C++ Runtime Environment สำหรับ Windows 32 บิต, Windows 64 บิต และ Linux 64 บิต
 keywords: [C++ Aspose.Cells., C++ Search and replace text in XLSB file., C++ redact XLSB file., C++ edit XLSB file., C++ XLSB file redaction., C++ Search and replace string in XLSB file]
@@ -12,13 +12,7 @@ keywords: [C++ Aspose.Cells., C++ Search and replace text in XLSB file., C++ red
 
 {{% blocks/products/pf/agp/content h2="วิธีแก้ไขไฟล์ XLSB โดยใช้ C++" %}}
 
- เพื่อทำการปกปิดไฟล์ XLSB เราจะใช้
- [Aspose.Cells for C++](https://products.aspose.com/cells/cpp) 
- API ซึ่งเป็นแพลตฟอร์มตรวจทานเอกสารที่มีคุณสมบัติหลากหลาย ทรงพลัง และใช้งานง่าย API for C++ คุณสามารถดาวน์โหลดเวอร์ชันล่าสุดได้โดยตรง เพียงแค่เปิดขึ้นมา
- [NuGet](https://www.nuget.org/packages/aspose.cells) 
- ผู้จัดการแพ็คเกจ ค้นหา
- **Aspose.Cells.Cpp** 
- และติดตั้ง คุณอาจใช้คำสั่งต่อไปนี้จาก Package Manager Console
+ เพื่อทำการปกปิดไฟล์ XLSB เราจะใช้[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) API ซึ่งเป็นแพลตฟอร์มตรวจทานเอกสารที่มีคุณสมบัติหลากหลาย ทรงพลัง และใช้งานง่าย API for C++ คุณสามารถดาวน์โหลดเวอร์ชันล่าสุดได้โดยตรง เพียงแค่เปิดขึ้นมา[NuGet](https://www.nuget.org/packages/aspose.cells) ผู้จัดการแพ็คเกจ ค้นหา**Aspose.Cells.Cpp** และติดตั้ง คุณอาจใช้คำสั่งต่อไปนี้จาก Package Manager Console
 
 {{% blocks/products/pf/agp/code-block title="สั่งการ" offSpacer="true" %}}
 
@@ -38,15 +32,13 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% blocks/products/pf/agp/text %}}
 
- การค้นหาเอกสารขั้นพื้นฐานและแทนที่ข้อความในเนื้อหา ความคิดเห็น หรือข้อมูลเมตาด้วย
- [Aspose.Cells for C++](https://products.aspose.com/cells/cpp) 
- API สามารถทำได้โดยใช้โค้ดเพียงไม่กี่บรรทัด
+ การค้นหาเอกสารขั้นพื้นฐานและแทนที่ข้อความในเนื้อหา ความคิดเห็น หรือข้อมูลเมตาด้วย[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) API สามารถทำได้โดยใช้โค้ดเพียงไม่กี่บรรทัด
 
 {{% /blocks/products/pf/agp/text %}}
 
 +โหลดไฟล์XLSB.
 + กำหนดตัวเลือกการแทนที่
-+ ตั้งค่าตัวเลือกความไวของตัวพิมพ์เล็กและตัวพิมพ์ใหญ่
+ตั้งค่าตัวเลือกความไวของตัวพิมพ์เล็กและตัวพิมพ์ใหญ่
 + ตั้งค่าตัวเลือกการจับคู่ข้อความ
 + แทนที่ข้อความโดยใช้วิธีแทนที่ (...)
 + บันทึกสมุดงาน
@@ -114,7 +106,7 @@ Aspose::Cells::Cleanup();
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" ไม่ต้องดาวน์ Aspose API." >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" ไม่จำเป็นต้องเขียนโค้ดใดๆ" >}}
         {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" เพียงอัพโหลดไฟล์ XLSB ของคุณ" >}}
-        {{< blocks/products/pf/agp/democard icon="fa-download" text="มันจะถูกแก้ไขทันที" >}}
+        {{< blocks/products/pf/agp/democard icon="fa-download" text=" มันจะถูกแก้ไขทันที" >}}
     {{< /blocks/products/pf/agp/demobox >}}
 
     {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLSB" readMoreLink="https://docs.fileformat.com/spreadsheet/xlsb/" >}}
@@ -131,6 +123,7 @@ Aspose::Cells::Cleanup();
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/redaction/ods/" name="ODS" description="ไฟล์สเปรดชีต OpenDocument" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/redaction/xls/" name="XLS" description="รูปแบบไบนารีของ Excel" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/redaction/xlsm/" name="XLSM" description="ไฟล์สเปรดชีต" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/redaction/xlsx/" name="XLSX" description="ไฟล์ OOXML Excel" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

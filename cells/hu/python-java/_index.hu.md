@@ -13,7 +13,7 @@ keywords: [Python Aspose.Cells Create parse repair merge convert JSON Excel XML 
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
-Aspose.Cells for Python via Java egy gyors és megbízható API táblázatkezelési feladatokhoz. A fejlesztők egyszerű vagy összetett táblázatokat hozhatnak létre, manipulálhatnak, valamint információkat nyerhetnek ki Excel-fájlokból. A API több Excel formátumot olvas, és munkalapokat tud renderelni a XPS, PDF, MHTML, HTML, egyszerű szöveg, képek és egyebek számára. Ez a legjobb megoldás az Excel-jelentések python segítségével történő automatizálására.
+ Aspose.Cells for Python via Java egy gyors és megbízható API táblázatkezelési feladatokhoz. A fejlesztők egyszerű vagy összetett táblázatokat hozhatnak létre, manipulálhatnak, valamint információkat nyerhetnek ki Excel-fájlokból. A API több Excel formátumot olvas, és munkalapokat tud renderelni a XPS, PDF, MHTML, HTML, egyszerű szöveg, képek és egyebek számára. Ez a legjobb megoldás az Excel-jelentések python segítségével történő automatizálására.
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
@@ -38,7 +38,7 @@ Aspose.Cells for Python via Java egy gyors és megbízható API táblázatkezel�
  ResultSet
     </li>
     <li>
-Gyűjtemények
+ Gyűjtemények
     </li>
    </ul>
    <header>
@@ -76,7 +76,7 @@ Gyűjtemények
  Hozzon létre diagramokat
     </li>
     <li>
- Összesít
+Összesít
     </li>
     <li>
  Intelligens jelölők
@@ -145,7 +145,7 @@ Gyűjtemények
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Támogatott fájlformátumok" description="A Python Excel könyvtár támogatja a népszerű Microsoft Excel formátumokat, rögzített elrendezésű formátumokat és képeket." >}}
+{{< blocks/products/pf/carousel-item h3="Támogatott fájlformátumok" description="Python Excel könyvtár támogatja a népszerű Microsoft Excel formátumokat, rögzített elrendezésű formátumokat és képeket." >}}
 <div class="diagram1 d2 d1-python">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -159,7 +159,7 @@ Gyűjtemények
      <b>
  Microsoft Excel:
      </b>
- XLS, XLSX, XLSB, XLTX, XLTM, XLSM, XML
+ XLS, XLSX, XLSB, XLT, XLTX, XLTM, XLSM, XML, OTS
     </li>
     <li>
      <b>
@@ -171,13 +171,25 @@ Gyűjtemények
      <b>
  Szöveg:
      </b>
-     CSV, TSV, TXT
+     CSV, TSV, JSON
     </li>
     <li>
      <b>
  Web:
      </b>
      HTML, MHTML
+    </li>
+    <li>
+     <b>
+      Numbers:
+     </b>
+ Az Apple iWork irodai csomagja Numbers alkalmazásdokumentumok
+    </li>
+    <li>
+     <b>
+ Egyéb:
+     </b>
+ SXC, FODS, EPUB
     </li>
    </ul>
   </div>
@@ -186,7 +198,7 @@ Gyűjtemények
    <header>
     <i class="fa fa-mail-forward">
     </i>
- Csak kimenet
+Csak kimenet
    </header>
    <ul>
     <li>
@@ -197,9 +209,21 @@ Gyűjtemények
     </li>
     <li>
      <b>
+ Adatcsere:
+     </b>
+     DIF
+    </li>    
+    <li>
+     <b>
  Képek:
      </b>
-     JPEG, PNG, BMP, SVG, EMF
+     JPEG, PNG, BMP, SVG, TIFF, EMF, GIF
+    </li>
+    <li>
+     <b>
+ Egyéb:
+     </b>
+ MARKDOWN, SQL, XTHML
     </li>
    </ul>
   </div>
@@ -306,7 +330,7 @@ Gyűjtemények
     <em class="fa fa-object-ungroup ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-Csoportosítás hozzáadása vagy eltávolítása sorokhoz és oszlopokhoz
+ Csoportosítás hozzáadása vagy eltávolítása sorokhoz és oszlopokhoz
     </p>
    </div>
    <div class="col-lg-4">
@@ -416,11 +440,11 @@ Csoportosítás hozzáadása vagy eltávolítása sorokhoz és oszlopokhoz
  Több formátum konvertálása
     </h2>
     <p>
- Python Az Excel könyvtár az Excel fájlok PDF, XPS &amp; HTML formátumban. A API megbízható átalakítása tökéletes megoldássá teszi azokat a cégeket, amelyek ipari szabvány formátumú fájlcserét igényelnek.
+Python Az Excel könyvtár az Excel fájlok PDF, XPS &amp; HTML formátumban. A API megbízható átalakítása tökéletes megoldássá teszi azokat a cégeket, amelyek ipari szabvány formátumú fájlcserét igényelnek.
     </p>
     <div class="codeblock" id="code">
      <h3>
-Táblázat mentése különböző formátumokban - Java
+ Táblázat mentése különböző formátumokban - Java
      </h3>
      <pre><code class="java">
 // load file to be converted
@@ -489,7 +513,7 @@ wkbk.save(SD_PATH + "houtput.html", SaveFormat.HTML);</code></pre>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-Diagramok testreszabása
+ Diagramok testreszabása
     </h2>
     <p>
 Aspose.Cells for Python via Java teljes mértékben támogatja a diagramkészítést. Könnyen hozzáadhat szabványos és testreszabott diagramokat vagy dinamikusan beállíthatja a diagramadatokat a diagram frissítéséhez vagy ebben a python könyvtárban.
@@ -537,7 +561,7 @@ Aspose.Cells for Python via Java teljes mértékben támogatja a diagramkészít
 
 {{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://releases.aspose.com/cells/python-java/" pricingInformationLink="https://purchase.aspose.com/pricing/cells/python-java" >}}
 
-{{< blocks/products/pf/offers-section pfName="Aspose.Cells" description="A Aspose.Cells egyedi Excel API-kat kínál más népszerű fejlesztői környezetekhez, az alábbiak szerint:" >}}
+{{< blocks/products/pf/offers-section pfName="Aspose.Cells" description="Aspose.Cells egyedi Excel API-kat kínál más népszerű fejlesztői környezetekhez, az alábbiak szerint:" >}}
 
     {{< blocks/products/pf/offers-section-item link="/cells/net/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sdkName=".NET" >}}
     {{< blocks/products/pf/offers-section-item link="/cells/java/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sdkName="Java" >}}

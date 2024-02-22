@@ -12,11 +12,7 @@ keywords: [Java Aspose.Cells., Java Extract text and images from XLSM file., Jav
 
 {{% blocks/products/pf/agp/content h2="如何使用 Java 解析 XLSM 文件" %}}
 
-為了解析 XLSM 文件，我們將使用
- [Aspose.Cells for Java](https://products.aspose.com/cells/java) 
- API這是一個功能豐富、功能強大且易於使用的解析API for Java平台。您可以直接從以下位置下載其最新版本
- [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) 
-並透過將以下配置新增至 pom.xml 將其安裝在基於 Maven 的專案中。
+為了解析 XLSM 文件，我們將使用[Aspose.Cells for Java](https://products.aspose.com/cells/java) API這是一個功能豐富、功能強大且易於使用的解析API for Java平台。您可以直接從以下位置下載其最新版本[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells)並透過將以下配置新增至 pom.xml 將其安裝在基於 Maven 的專案中。
 
 {{% blocks/products/pf/agp/code-block title="儲存庫" offSpacer="true" %}}
 
@@ -54,9 +50,7 @@ keywords: [Java Aspose.Cells., Java Extract text and images from XLSM file., Jav
 
 {{% blocks/products/pf/agp/text %}}
 
-基本文件解析
- [Aspose.Cells for Java](https://products.aspose.com/cells/java) 
-只需幾行程式碼即可完成 API。解析 Microsoft Excel XLS、XLSX、XLSM、XLSB 和 OpenDocument ODS 文件中的文字和圖像。
+基本文件解析[Aspose.Cells for Java](https://products.aspose.com/cells/java)只需幾行程式碼即可完成 API。解析 Microsoft Excel XLS、XLSX、XLSM、XLSB 和 OpenDocument ODS 文件中的文字和圖像。
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -72,11 +66,11 @@ keywords: [Java Aspose.Cells., Java Extract text and images from XLSM file., Jav
 
 {{% blocks/products/pf/agp/text %}}
 
-Aspose.Cells for Java 支援所有主要平台和作業系統。請確保您具備以下先決條件。
+ Aspose.Cells for Java 支援所有主要平台和作業系統。請確保您具備以下先決條件。
 
 {{% /blocks/products/pf/agp/text %}}
 
--  Microsoft Windows 或具有 Java JSP/JSF 應用程式和桌面應用程式運行時環境的相容作業系統。
+- Microsoft Windows 或具有 Java JSP/JSF 應用程式和桌面應用程式運行時環境的相容作業系統。
 - 直接從 Aspose.Cells for Java 取得最新版本
  [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells)  .
 
@@ -142,6 +136,7 @@ System.out.println(stringBuilder.toString());
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/parser/ods/" name="ODS" description="OpenDocument 電子表格文件" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/parser/xls/" name="XLS" description="Excel 二進位格式" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/parser/xlsb/" name="XLSB" description="二進位 Excel 工作簿文件" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/parser/xlsx/" name="XLSX" description="OOXML Excel 文件" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

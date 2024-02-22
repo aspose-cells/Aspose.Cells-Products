@@ -12,13 +12,8 @@ keywords: [C# Aspose.Cells., c# Extract text and images from XLS file., c# How t
 
 {{% blocks/products/pf/agp/content h2="Cómo analizar el archivo XLS usando C#" %}}
 
- Para analizar el archivo XLS, usaremos
- [Aspose.Cells for .NET](https://products.aspose.com/cells/net) 
- API, que es una manipulación de documentos API rica en funciones, potente y fácil de usar para la plataforma C#. Abierto
- [NuGet](https://www.nuget.org/packages/aspose.cells) 
- administrador de paquetes, buscar
- **Aspose.Cells** 
- e instalar. También puede utilizar el siguiente comando desde la Consola del Administrador de paquetes.
+ Para analizar el archivo XLS, usaremos[Aspose.Cells for .NET](https://products.aspose.com/cells/net) API, que es una manipulación de documentos API rica en funciones, potente y fácil de usar para la plataforma C#. Abierto[NuGet](https://www.nuget.org/packages/aspose.cells) administrador de paquetes, buscar
+ **Aspose.Cells** e instalar. También puede utilizar el siguiente comando desde la Consola del Administrador de paquetes.
 
 {{% blocks/products/pf/agp/code-block title="Dominio" offSpacer="true" %}}
 
@@ -38,9 +33,7 @@ PM> Install-Package Aspose.Cells
 
 {{% blocks/products/pf/agp/text %}}
 
- Un documento básico que analiza con
- [Aspose.Cells for .NET](https://products.aspose.com/cells/net) 
- Las API se pueden crear con solo unas pocas líneas de código. Analice texto e imágenes de archivos Microsoft Excel XLS, XLSX, XLSM, XLSB y OpenDocument ODS.
+ Un documento básico que analiza con[Aspose.Cells for .NET](https://products.aspose.com/cells/net)Las API se pueden crear con solo unas pocas líneas de código. Analice texto e imágenes de archivos Microsoft Excel XLS, XLSX, XLSM, XLSB y OpenDocument ODS.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -56,7 +49,7 @@ PM> Install-Package Aspose.Cells
 
 {{% blocks/products/pf/agp/text %}}
 
- Nuestras API son compatibles con todas las plataformas y sistemas operativos principales. Antes de ejecutar el código siguiente, asegúrese de tener los siguientes requisitos previos en su sistema.
+Nuestras API son compatibles con todas las plataformas y sistemas operativos principales. Antes de ejecutar el código siguiente, asegúrese de tener los siguientes requisitos previos en su sistema.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -115,11 +108,11 @@ PM> Install-Package Aspose.Cells
 
     {{< blocks/products/pf/agp/about-file-section >}}
 
-        {{< blocks/products/pf/agp/demobox sectionTitle="Demostraciones en vivo del analizador en línea XLS" sectionDescription=" Extraiga texto e imágenes de XLS documentos ahora mismo visitando nuestro[Sitio web de demostraciones en vivo](https://products.aspose.app/cells/parser). La demostración en vivo tiene los siguientes beneficios" >}}
+        {{< blocks/products/pf/agp/demobox sectionTitle="Demostraciones en vivo del analizador en línea XLS" sectionDescription="Extraiga texto e imágenes de XLS documentos ahora mismo visitando nuestro[Sitio web de demostraciones en vivo](https://products.aspose.app/cells/parser). La demostración en vivo tiene los siguientes beneficios" >}}
             {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" No es necesario descargar Aspose API." >}}
             {{< blocks/products/pf/agp/democard icon="fa-edit" text=" No es necesario escribir ningún código." >}}
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Simplemente cargue sus archivos XLS." >}}
-            {{< blocks/products/pf/agp/democard icon="fa-download" text=" Se analizará instantáneamente." >}}
+            {{< blocks/products/pf/agp/democard icon="fa-download" text=" Se analizará al instante." >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLS" readMoreLink="https://docs.fileformat.com/spreadsheet/xls/" >}}
 Los archivos con extensión XLS representan el formato de archivo binario de Excel. Estos archivos se pueden crear con Microsoft Excel y con otros programas de hojas de cálculo similares, como OpenOffice Calc o Apple Numbers. El archivo guardado con Excel se conoce como Libro de trabajo, donde cada libro puede tener una o más hojas de trabajo. Los datos se almacenan y se muestran a los usuarios en formato de tabla en una hoja de trabajo y pueden abarcar valores numéricos, datos de texto, fórmulas, conexiones de datos externos, imágenes y gráficos. Aplicaciones como Microsoft Excel le permiten exportar datos del libro a varios formatos diferentes, incluidos PDF, CSV, XLSX, TXT, HTML, XPS y varios otros. El formato de archivo XLS fue reemplazado por un formato más abierto y estructurado, XLSX, con el lanzamiento de Microsoft Excel 2007. Las últimas versiones aún brindan soporte para crear y leer archivos XLS, aunque XLSX es la primera opción de uso ahora.
@@ -135,6 +128,7 @@ Los archivos con extensión XLS representan el formato de archivo binario de Exc
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/parser/ods/" name="ODS" description="Archivo de hoja de cálculo OpenDocument" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/parser/xlsb/" name="XLSB" description="Archivo de libro de Excel binario" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/parser/xlsm/" name="XLSM" description="Archivo de hoja de cálculo" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/parser/xlsx/" name="XLSX" description="Archivo Excel OOXML" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

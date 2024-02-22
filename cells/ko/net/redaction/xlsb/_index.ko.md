@@ -12,13 +12,7 @@ keywords: [C# Aspose.Cells., c# Search and replace text in XLSB file., c# redact
 
 {{% blocks/products/pf/agp/content h2="C#을 사용하여 XLSB 파일을 수정하는 방법" %}}
 
- XLSB 파일을 수정하기 위해 다음을 사용합니다.
- [Aspose.Cells for .NET](https://products.aspose.com/cells/net) 
- API은 기능이 풍부하고 강력하며 사용하기 쉬운 C# 플랫폼용 문서 조작 API입니다. 열려 있는
- [NuGet](https://www.nuget.org/packages/aspose.cells) 
- 패키지 관리자, 검색
- **Aspose.Cells** 
- 그리고 설치하세요. 패키지 관리자 콘솔에서 다음 명령을 사용할 수도 있습니다.
+ XLSB 파일을 수정하기 위해 다음을 사용합니다.[Aspose.Cells for .NET](https://products.aspose.com/cells/net) API은 기능이 풍부하고 강력하며 사용하기 쉬운 C# 플랫폼용 문서 조작 API입니다. 열려 있는[NuGet](https://www.nuget.org/packages/aspose.cells) 패키지 관리자, 검색**Aspose.Cells** 그리고 설치하세요. 패키지 관리자 콘솔에서 다음 명령을 사용할 수도 있습니다.
 
 {{% blocks/products/pf/agp/code-block title="명령" offSpacer="true" %}}
 
@@ -38,9 +32,7 @@ PM> Install-Package Aspose.Cells
 
 {{% blocks/products/pf/agp/text %}}
 
- 기본 문서 검색 및 내용, 댓글, 메타데이터의 텍스트를 다음으로 대체합니다.
- [Aspose.Cells for .NET](https://products.aspose.com/cells/net) 
- 단 몇 줄의 코드만으로 API를 구현할 수 있습니다.
+ 기본 문서 검색 및 내용, 댓글, 메타데이터의 텍스트를 다음으로 대체합니다.[Aspose.Cells for .NET](https://products.aspose.com/cells/net) 단 몇 줄의 코드만으로 API를 구현할 수 있습니다.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -57,7 +49,7 @@ PM> Install-Package Aspose.Cells
 
 {{% blocks/products/pf/agp/text %}}
 
- 우리의 API는 모든 주요 플랫폼과 운영 체제에서 지원됩니다. 아래 코드를 실행하기 전에 시스템에 다음 전제 조건이 있는지 확인하십시오.
+우리의 API는 모든 주요 플랫폼과 운영 체제에서 지원됩니다. 아래 코드를 실행하기 전에 시스템에 다음 전제 조건이 있는지 확인하십시오.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -122,7 +114,7 @@ wb.Save("e:\test2\output.xlsb");
             {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Aspose API을 다운로드할 필요가 없습니다." >}}
             {{< blocks/products/pf/agp/democard icon="fa-edit" text=" 코드를 작성할 필요가 없습니다." >}}
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" XLSB 파일을 업로드하세요." >}}
-            {{< blocks/products/pf/agp/democard icon="fa-download" text="즉시 수정됩니다." >}}
+            {{< blocks/products/pf/agp/democard icon="fa-download" text=" 즉시 수정됩니다." >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLSB" readMoreLink="https://docs.fileformat.com/spreadsheet/xlsb/" >}}
 XLSB 파일 형식은 Excel 통합 문서 콘텐츠를 지정하는 레코드 및 구조의 모음인 Excel 이진 파일 형식을 지정합니다. 콘텐츠에는 숫자, 텍스트 또는 숫자와 텍스트 모두, 수식, 외부 데이터 연결, 차트 및 이미지로 구성된 구조화되지 않거나 반구조화된 표가 포함될 수 있습니다. XLSX(Open XML 파일 형식 기반)과 달리 XLSB은 바이너리 Excel 통합 문서 파일을 나타냅니다. XLSB 파일을 더 빠르게 읽고 쓸 수 있으므로 대용량 파일 작업에 유용합니다. XLSB은 통합 문서를 저장하는 데 거의 사용되지 않습니다. XLSX(및 이전 XLS)은 통합 문서를 저장하기 위해 사용자가 선택하는 가장 일반적인 파일 형식이기 때문입니다. Microsoft Office 2007 이상에서 열 수 있습니다.
@@ -138,6 +130,7 @@ XLSB 파일 형식은 Excel 통합 문서 콘텐츠를 지정하는 레코드 �
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/redaction/ods/" name="ODS" description="OpenDocument 스프레드시트 파일" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/redaction/xls/" name="XLS" description="Excel 바이너리 형식" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/redaction/xlsm/" name="XLSM" description="스프레드시트 파일" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/redaction/xlsx/" name="XLSX" description="OOXML 엑셀 파일" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

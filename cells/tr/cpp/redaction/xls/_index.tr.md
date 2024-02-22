@@ -1,5 +1,5 @@
 ---
-title:  XLS belgesindeki metni C++ aracılığıyla arayın ve değiştirin
+title: XLS belgesindeki metni C++ aracılığıyla arayın ve değiştirin
 weight: 380
 description: Windows 32 bit, Windows 64 bit ve Linux 64 bit için C++ Çalışma Zamanı Ortamı'ndaki XLS dosyasındaki hassas bilgileri düzenlemek için C++ örnek kod.
 keywords: [C++ Aspose.Cells., C++ Search and replace text in XLS file., C++ redact XLS file., C++ edit XLS file., C++ XLS file redaction., C++ Search and replace string in XLS file]
@@ -12,13 +12,7 @@ keywords: [C++ Aspose.Cells., C++ Search and replace text in XLS file., C++ reda
 
 {{% blocks/products/pf/agp/content h2="XLS Dosyasını C++ Kullanarak Düzenleme" %}}
 
- XLS dosyasını düzenlemek için şunu kullanacağız:
- [Aspose.Cells for C++](https://products.aspose.com/cells/cpp) 
- Zengin özelliklere sahip, güçlü ve kullanımı kolay bir belge redaksiyon platformu olan API API for C++. En son sürümünü doğrudan indirebilirsiniz, sadece açın
- [NuGet](https://www.nuget.org/packages/aspose.cells) 
- paket yöneticisi, ara
- **Aspose.Cells.Cpp** 
- ve yükleyin. Aşağıdaki komutu Paket Yönetici Konsolundan da kullanabilirsiniz.
+ XLS dosyasını düzenlemek için şunu kullanacağız:[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) Zengin özelliklere sahip, güçlü ve kullanımı kolay bir belge redaksiyon platformu olan API API for C++. En son sürümünü doğrudan indirebilirsiniz, sadece açın[NuGet](https://www.nuget.org/packages/aspose.cells) paket yöneticisi, ara**Aspose.Cells.Cpp** ve yükleyin. Aşağıdaki komutu Paket Yönetici Konsolundan da kullanabilirsiniz.
 
 {{% blocks/products/pf/agp/code-block title="Emretmek" offSpacer="true" %}}
 
@@ -38,15 +32,13 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% blocks/products/pf/agp/text %}}
 
- Temel bir belge araması ve içerikteki, yorumlardaki veya meta verilerdeki metni şununla değiştirin:
- [Aspose.Cells for C++](https://products.aspose.com/cells/cpp) 
- API'ler yalnızca birkaç satır kodla yapılabilir.
+ Temel bir belge araması ve içerikteki, yorumlardaki veya meta verilerdeki metni şununla değiştirin:[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) API'ler yalnızca birkaç satır kodla yapılabilir.
 
 {{% /blocks/products/pf/agp/text %}}
 
 + XLS dosyasını yükleyin.
 + Değiştirme Seçeneklerini tanımlayın.
-+ Büyük/küçük harf duyarlılığı seçeneğini ayarlayın.
+Büyük/küçük harf duyarlılığı seçeneğini ayarlayın.
 + Metin eşleştirme seçeneğini ayarla
 + Değiştir(...) yöntemini kullanarak metni değiştirin
 + Çalışma kitabını kaydedin.
@@ -110,11 +102,11 @@ Aspose::Cells::Cleanup();
 
 {{< blocks/products/pf/agp/about-file-section >}}
 
-    {{< blocks/products/pf/agp/demobox sectionTitle="Çevrimiçi XLS Redaksiyon Canlı Demoları" sectionDescription=" Şu anda sayfamızı ziyaret ederek XLS belgedeki içerik, yorum veya meta verilerdeki metni arayın ve değiştirin.[Canlı Demolar web sitesi](https://products.aspose.app/cells/redaction). Canlı demo aşağıdaki avantajlara sahiptir" >}}
+    {{< blocks/products/pf/agp/demobox sectionTitle="Çevrimiçi XLS Redaksiyon Canlı Demoları" sectionDescription=" XLS belgedeki içerik, yorum veya meta verilerdeki metni hemen şimdi ziyaret ederek arayın ve değiştirin.[Canlı Demolar web sitesi](https://products.aspose.app/cells/redaction). Canlı demo aşağıdaki avantajlara sahiptir" >}}
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Aspose API\'i indirmenize gerek yok." >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Herhangi bir kod yazmaya gerek yok." >}}
         {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" XLS dosyalarınızı yüklemeniz yeterli." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-download" text="Anında düzenlenecektir." >}}
+        {{< blocks/products/pf/agp/democard icon="fa-download" text=" Anında düzenlenecektir." >}}
     {{< /blocks/products/pf/agp/demobox >}}
 
     {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLS" readMoreLink="https://docs.fileformat.com/spreadsheet/xls/" >}}
@@ -131,6 +123,7 @@ XLS uzantılı dosyalar Excel İkili Dosya Formatını temsil eder. Bu tür dosy
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/redaction/ods/" name="ODS" description="OpenDocument Elektronik Tablo Dosyası" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/redaction/xlsb/" name="XLSB" description="İkili Excel Çalışma Kitabı Dosyası" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/redaction/xlsm/" name="XLSM" description="Elektronik Tablo Dosyası" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/redaction/xlsx/" name="XLSX" description="OOXML Excel Dosyası" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

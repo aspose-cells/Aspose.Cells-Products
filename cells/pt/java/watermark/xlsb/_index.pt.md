@@ -1,5 +1,5 @@
 ---
-title: Marca d'água XLSB documento via Java
+title:  Marca d'água XLSB documento via Java
 weight: 5900
 description: Código de amostra Java para adicionar ou remover marca d’água do arquivo XLSB no Java Runtime Environment para aplicativos JSP/JSF e aplicativos de desktop.
 keywords: [Java Aspose.Cells., Java add watermark to xlsb file., Java insert watermark to xlsb file., Java create watermark in xlsb file., remove watermark from xlsb file using Java., Java operate watermark in xlsb file., Java access watermark in xlsb file]
@@ -12,11 +12,7 @@ keywords: [Java Aspose.Cells., Java add watermark to xlsb file., Java insert wat
 
 {{% blocks/products/pf/agp/content h2="Como colocar marca d\'água no arquivo XLSB usando Java" %}}
 
- Para colocar marca d'água no arquivo XLSB, usaremos
- [Aspose.Cells for Java](https://products.aspose.com/cells/java) 
- API, que é uma plataforma de marca d'água API for Java rica em recursos, poderosa e fácil de usar. Você pode baixar sua versão mais recente diretamente de
- [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) 
- e instale-o em seu projeto baseado em Maven adicionando as seguintes configurações ao pom.xml.
+ Para colocar marca d'água no arquivo XLSB, usaremos[Aspose.Cells for Java](https://products.aspose.com/cells/java) API, que é uma plataforma de marca d'água API for Java rica em recursos, poderosa e fácil de usar. Você pode baixar sua versão mais recente diretamente de[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) e instale-o em seu projeto baseado em Maven adicionando as seguintes configurações ao pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Repositório" offSpacer="true" %}}
 
@@ -129,13 +125,13 @@ workbook.save(dataDir + "AWArtWToWorksheet_out.xlsb");
     {{< blocks/products/pf/agp/about-file-section >}}
 
         {{< blocks/products/pf/agp/demobox sectionTitle="Marca d\'água XLSB via aplicativo online" sectionDescription=" Adicione marca d\'água aos documentos XLSB visitando nosso[Site de demonstrações ao vivo](https://products.aspose.app/cells/watermark). A demonstração ao vivo tem os seguintes benefícios" >}}
-            {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Não há necessidade de baixar ou configurar nada" >}}
+            {{< blocks/products/pf/agp/democard icon="fa-cogs" text="Não há necessidade de baixar ou configurar nada" >}}
             {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Não há necessidade de escrever nenhum código" >}}
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Basta enviar seu arquivo XLSB, definir sua marca d\'água e clicar no botão \"Adicionar\"" >}}
             {{< blocks/products/pf/agp/democard icon="fa-download" text=" Obtenha instantaneamente o link de download do arquivo resultante" >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLSB" readMoreLink="https://docs.fileformat.com/spreadsheet/xlsb/" >}}
-O formato de arquivo XLSB especifica o formato de arquivo binário do Excel, que é uma coleção de registros e estruturas que especificam o conteúdo da pasta de trabalho do Excel. O conteúdo pode incluir tabelas de números não estruturadas ou semiestruturadas, texto ou números e texto, fórmulas, conexões de dados externos, gráficos e imagens. Ao contrário de XLSX (que é baseado no formato de arquivo Open XML), XLSB representa um arquivo binário da pasta de trabalho do Excel. Os arquivos XLSB podem ser lidos e gravados mais rapidamente, o que os torna úteis para trabalhar com arquivos grandes. XLSB raramente é usado para armazenar pastas de trabalho, pois XLSX (e anteriormente XLS) são os formatos de arquivo mais comuns selecionados pelo usuário para salvar pastas de trabalho. Ele pode ser aberto pelo Microsoft Office 2007 e superior.
+formato de arquivo XLSB especifica o formato de arquivo binário do Excel, que é uma coleção de registros e estruturas que especificam o conteúdo da pasta de trabalho do Excel. O conteúdo pode incluir tabelas de números não estruturadas ou semiestruturadas, texto ou números e texto, fórmulas, conexões de dados externos, gráficos e imagens. Ao contrário de XLSX (que é baseado no formato de arquivo Open XML), XLSB representa um arquivo binário da pasta de trabalho do Excel. Os arquivos XLSB podem ser lidos e gravados mais rapidamente, o que os torna úteis para trabalhar com arquivos grandes. XLSB raramente é usado para armazenar pastas de trabalho, pois XLSX (e anteriormente XLS) são os formatos de arquivo mais comuns selecionados pelo usuário para salvar pastas de trabalho. Ele pode ser aberto pelo Microsoft Office 2007 e superior.
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
@@ -148,6 +144,7 @@ O formato de arquivo XLSB especifica o formato de arquivo binário do Excel, que
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/watermark/ods/" name="ODS" description="Arquivo de planilha OpenDocument" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/watermark/xls/" name="XLS" description="Formato binário do Excel" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/watermark/xlsm/" name="XLSM" description="Arquivo de planilha" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/watermark/xlsx/" name="XLSX" description="Arquivo Excel OOXML" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

@@ -1,5 +1,5 @@
 ---
-title: Hình mờ XLSB tài liệu via Java
+title:  Hình mờ XLSB tài liệu via Java
 weight: 5900
 description: Mã mẫu Java để thêm hoặc xóa hình mờ vào tệp XLSB trên Java Môi trường thời gian chạy cho ứng dụng JSP/JSF và ứng dụng máy tính để bàn.
 keywords: [Java Aspose.Cells., Java add watermark to xlsb file., Java insert watermark to xlsb file., Java create watermark in xlsb file., remove watermark from xlsb file using Java., Java operate watermark in xlsb file., Java access watermark in xlsb file]
@@ -12,11 +12,7 @@ keywords: [Java Aspose.Cells., Java add watermark to xlsb file., Java insert wat
 
 {{% blocks/products/pf/agp/content h2="Cách tạo hình mờ cho tệp XLSB bằng Java" %}}
 
- Để tạo hình mờ cho tệp XLSB, chúng tôi sẽ sử dụng
- [Aspose.Cells for Java](https://products.aspose.com/cells/java) 
- API là một nền tảng tạo hình mờ giàu tính năng, mạnh mẽ và dễ sử dụng API for Java. Bạn có thể tải xuống phiên bản mới nhất của nó trực tiếp từ
- [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) 
- và cài đặt nó trong dự án dựa trên Maven của bạn bằng cách thêm các cấu hình sau vào pom.xml.
+ Để tạo hình mờ cho tệp XLSB, chúng tôi sẽ sử dụng[Aspose.Cells for Java](https://products.aspose.com/cells/java) API là một nền tảng tạo hình mờ giàu tính năng, mạnh mẽ và dễ sử dụng API for Java. Bạn có thể tải xuống phiên bản mới nhất của nó trực tiếp từ[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) và cài đặt nó trong dự án dựa trên Maven của bạn bằng cách thêm các cấu hình sau vào pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Kho" offSpacer="true" %}}
 
@@ -129,7 +125,7 @@ workbook.save(dataDir + "AWArtWToWorksheet_out.xlsb");
     {{< blocks/products/pf/agp/about-file-section >}}
 
         {{< blocks/products/pf/agp/demobox sectionTitle="Hình mờ XLSB qua ứng dụng trực tuyến" sectionDescription=" Thêm hình mờ vào tài liệu XLSB bằng cách truy cập của chúng tôi[Trang web demo trực tiếp](https://products.aspose.app/cells/watermark). Bản demo trực tiếp có những lợi ích sau" >}}
-            {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Không cần tải xuống hay thiết lập bất cứ thứ gì" >}}
+            {{< blocks/products/pf/agp/democard icon="fa-cogs" text="Không cần tải xuống hay thiết lập bất cứ thứ gì" >}}
             {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Không cần phải viết bất kỳ mã nào" >}}
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Chỉ cần tải lên tệp XLSB của bạn, đặt hình mờ của bạn và nhấn nút \"Thêm\"" >}}
             {{< blocks/products/pf/agp/democard icon="fa-download" text=" Nhận ngay link tải file kết quả" >}}
@@ -148,6 +144,7 @@ workbook.save(dataDir + "AWArtWToWorksheet_out.xlsb");
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/watermark/ods/" name="ODS" description="Tệp bảng tính OpenDocument" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/watermark/xls/" name="XLS" description="Định dạng nhị phân Excel" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/watermark/xlsm/" name="XLSM" description="Tệp bảng tính" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/watermark/xlsx/" name="XLSX" description="Tệp Excel OOXML" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

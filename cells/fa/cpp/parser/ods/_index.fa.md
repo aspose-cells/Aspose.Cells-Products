@@ -1,5 +1,5 @@
 ---
-title:  استخراج متن و تصاویر از سند ODS از طریق C++
+title: استخراج متن و تصاویر از سند ODS از طریق C++
 weight: 9130
 description: C++ کد نمونه برای استخراج متن و تصاویر از فایل ODS در C++ Runtime Environment برای Windows 32 بیتی، Windows 64 بیتی و لینوکس 64 بیتی.
 keywords: [C++ Aspose.Cells., C++ Extract text and images from ODS file., C++ How to Parse ODS File., C++ Extract text from ODS file., Extract images from ODS file using C++]
@@ -12,13 +12,7 @@ keywords: [C++ Aspose.Cells., C++ Extract text and images from ODS file., C++ Ho
 
 {{% blocks/products/pf/agp/content h2="نحوه تجزیه فایل ODS با استفاده از C++" %}}
 
- به منظور تجزیه فایل ODS، از آن استفاده می کنیم
- [Aspose.Cells for C++](https://products.aspose.com/cells/cpp) 
- API که یک پلتفرم تجزیه اسناد API for C++ با ویژگی های غنی، قدرتمند و آسان برای استفاده است. شما می توانید آخرین نسخه آن را مستقیما دانلود کنید، فقط باز کنید
- [NuGet](https://www.nuget.org/packages/aspose.cells) 
- مدیر بسته، جستجو کنید
- **Aspose.Cells.Cpp** 
- و نصب کنید. همچنین می توانید از دستور زیر در کنسول Package Manager استفاده کنید.
+ به منظور تجزیه فایل ODS، از آن استفاده می کنیم[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) API که یک پلتفرم تجزیه اسناد API for C++ با ویژگی های غنی، قدرتمند و آسان برای استفاده است. شما می توانید آخرین نسخه آن را مستقیما دانلود کنید، فقط باز کنید[NuGet](https://www.nuget.org/packages/aspose.cells) مدیر بسته، جستجو کنید**Aspose.Cells.Cpp** و نصب کنید. همچنین می توانید از دستور زیر در کنسول Package Manager استفاده کنید.
 
 {{% blocks/products/pf/agp/code-block title="فرمان" offSpacer="true" %}}
 
@@ -38,9 +32,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% blocks/products/pf/agp/text %}}
 
- تجزیه سند پایه با
- [Aspose.Cells for C++](https://products.aspose.com/cells/cpp) 
- API ها را می توان تنها با چند خط کد انجام داد. متن و تصاویر را از فایل های Microsoft Excel XLS، XLSX، XLSM، XLSB و OpenDocument ODS تجزیه کنید.
+ تجزیه سند پایه با[Aspose.Cells for C++](https://products.aspose.com/cells/cpp)API ها را می توان تنها با چند خط کد انجام داد. متن و تصاویر را از فایل های Microsoft Excel XLS، XLSX، XLSM، XLSB و OpenDocument ODS تجزیه کنید.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -108,7 +100,7 @@ Aspose::Cells::Cleanup();
 
 {{< blocks/products/pf/agp/about-file-section >}}
 
-    {{< blocks/products/pf/agp/demobox sectionTitle="آنلاین ODS Parser Live Demos" sectionDescription=" همین حالا با مراجعه به ما، متن و تصاویر را از اسناد ODS استخراج کنید[وب سایت Live Demos](https://products.aspose.app/cells/parser). نسخه ی نمایشی زنده دارای مزایای زیر است" >}}
+    {{< blocks/products/pf/agp/demobox sectionTitle="آنلاین ODS Parser Live Demos" sectionDescription="همین حالا با مراجعه به ما، متن و تصاویر را از اسناد ODS استخراج کنید[وب سایت Live Demos](https://products.aspose.app/cells/parser). نسخه ی نمایشی زنده دارای مزایای زیر است" >}}
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" بدون نیاز به دانلود Aspose API." >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" نیازی به نوشتن هیچ کدی نیست." >}}
         {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" فقط فایل های ODS خود را آپلود کنید." >}}
@@ -116,7 +108,7 @@ Aspose::Cells::Cleanup();
     {{< /blocks/products/pf/agp/demobox >}}
 
     {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="ODS" readMoreLink="https://docs.fileformat.com/spreadsheet/ods/" >}}
-فایل هایی با پسوند ODS مخفف فرمت OpenDocument Spreadsheet Document هستند که توسط کاربر قابل ویرایش هستند. داده ها در فایل ODF در ردیف ها و ستون ها ذخیره می شوند. این فرمت مبتنی بر XML است و یکی از چندین زیرگروه در خانواده فرمت‌های سند باز (ODF) است. این قالب به عنوان بخشی از مشخصات ODF 1.2 منتشر شده و نگهداری شده توسط OASIS مشخص شده است. تعدادی از برنامه ها در Windows و همچنین سایر سیستم عامل ها می توانند فایل های ODS را برای ویرایش و دستکاری باز کنند، از جمله Microsoft Excel، NeoOffice و LibreOffice. فایل‌های ODS همچنین می‌توانند توسط برنامه‌های مختلف به فرمت‌های صفحه‌گسترده دیگر و همچنین مانند XLS، XLSX و موارد دیگر تبدیل شوند.
+ فایل هایی با پسوند ODS مخفف فرمت OpenDocument Spreadsheet Document هستند که توسط کاربر قابل ویرایش هستند. داده ها در فایل ODF در ردیف ها و ستون ها ذخیره می شوند. این فرمت مبتنی بر XML است و یکی از چندین زیرگروه در خانواده فرمت‌های سند باز (ODF) است. این قالب به عنوان بخشی از مشخصات ODF 1.2 منتشر شده و نگهداری شده توسط OASIS مشخص شده است. تعدادی از برنامه ها در Windows و همچنین سایر سیستم عامل ها می توانند فایل های ODS را برای ویرایش و دستکاری باز کنند، از جمله Microsoft Excel، NeoOffice و LibreOffice. فایل‌های ODS همچنین می‌توانند توسط برنامه‌های مختلف به فرمت‌های صفحه‌گسترده دیگر و همچنین مانند XLS، XLSX و موارد دیگر تبدیل شوند.
 
     {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
@@ -129,6 +121,7 @@ Aspose::Cells::Cleanup();
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/parser/xls/" name="XLS" description="فرمت باینری اکسل" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/parser/xlsb/" name="XLSB" description="فایل باینری کتاب کار اکسل" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/parser/xlsm/" name="XLSM" description="فایل صفحه گسترده" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/parser/xlsx/" name="XLSX" description="فایل OOXML اکسل" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

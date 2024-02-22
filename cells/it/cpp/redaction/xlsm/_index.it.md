@@ -1,5 +1,5 @@
 ---
-title:  Cerca e sostituisci il testo nel documento XLSM tramite C++
+title: Cerca e sostituisci il testo nel documento XLSM tramite C++
 weight: 9570
 description: Codice di esempio C++ per oscurare informazioni sensibili nel file XLSM su C++ Runtime Environment per Windows 32 bit, Windows 64 bit e Linux 64 bit.
 keywords: [C++ Aspose.Cells., C++ Search and replace text in XLSM file., C++ redact XLSM file., C++ edit XLSM file., C++ XLSM file redaction., C++ Search and replace string in XLSM file]
@@ -12,13 +12,7 @@ keywords: [C++ Aspose.Cells., C++ Search and replace text in XLSM file., C++ red
 
 {{% blocks/products/pf/agp/content h2="Come oscurare il file XLSM utilizzando C++" %}}
 
- Per redigere il file XLSM, utilizzeremo
- [Aspose.Cells for C++](https://products.aspose.com/cells/cpp) 
- API che è una piattaforma di redazione di documenti ricca di funzionalità, potente e facile da usare API for C++. Puoi scaricare direttamente la sua ultima versione, basta aprirla
- [NuGet](https://www.nuget.org/packages/aspose.cells) 
- gestore pacchetti, cerca
- **Aspose.Cells.Cpp** 
- e installare. Puoi anche utilizzare il seguente comando dalla Console di gestione pacchetti.
+ Per redigere il file XLSM, utilizzeremo[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) API che è una piattaforma di redazione di documenti ricca di funzionalità, potente e facile da usare API for C++. Puoi scaricare direttamente la sua ultima versione, basta aprirla[NuGet](https://www.nuget.org/packages/aspose.cells) gestore pacchetti, cerca**Aspose.Cells.Cpp** e installare. Puoi anche utilizzare il seguente comando dalla Console di gestione pacchetti.
 
 {{% blocks/products/pf/agp/code-block title="Comando" offSpacer="true" %}}
 
@@ -38,15 +32,13 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% blocks/products/pf/agp/text %}}
 
- Una ricerca di documenti di base e sostituzione del testo nei contenuti, nei commenti o nei metadati con
- [Aspose.Cells for C++](https://products.aspose.com/cells/cpp) 
- Le API possono essere eseguite con poche righe di codice.
+ Una ricerca di documenti di base e sostituzione del testo nei contenuti, nei commenti o nei metadati con[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) Le API possono essere eseguite con poche righe di codice.
 
 {{% /blocks/products/pf/agp/text %}}
 
 + Carica il file XLSM.
 + Definisci le opzioni di sostituzione.
-+ Imposta l'opzione di distinzione tra maiuscole e minuscole.
+Imposta l'opzione di distinzione tra maiuscole e minuscole.
 + Imposta l'opzione di corrispondenza del testo
 + Sostituisci il testo utilizzando il metodo Sostituisci(...).
 + Salva la cartella di lavoro.
@@ -114,7 +106,7 @@ Aspose::Cells::Cleanup();
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Non è necessario scaricare Aspose API." >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Non è necessario scrivere alcun codice." >}}
         {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Basta caricare i tuoi file XLSM." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-download" text="Verrà redatto immediatamente." >}}
+        {{< blocks/products/pf/agp/democard icon="fa-download" text=" Verrà redatto immediatamente." >}}
     {{< /blocks/products/pf/agp/demobox >}}
 
     {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLSM" readMoreLink="https://docs.fileformat.com/spreadsheet/xlsm/" >}}
@@ -131,6 +123,7 @@ Aspose::Cells::Cleanup();
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/redaction/ods/" name="ODS" description="File di foglio di calcolo OpenDocument" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/redaction/xls/" name="XLS" description="Formato binario Excel" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/redaction/xlsb/" name="XLSB" description="File binario della cartella di lavoro Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/redaction/xlsx/" name="XLSX" description="File Excel OOXML" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

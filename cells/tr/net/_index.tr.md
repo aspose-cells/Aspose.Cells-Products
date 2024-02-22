@@ -1,5 +1,5 @@
 ---
-title:  .NET Excel API | İşlem Elektronik Tablosu Formatları via .NET Çekirdek
+title: .NET Excel API | İşlem Elektronik Tablosu Formatları via .NET Çekirdek
 weight: 2030
 description: C# ASP.NET VB.NET excel dosyalarını oluşturmak, onarmak, birleştirmek, ayrıştırmak ve dönüştürmek için kütüphane. Excel'i PDF, JSON, XML, TSV, HTML vb.'ye dönüştürün.
 keywords: [Aspose.Cells C# Create repair parse merge convert JSON Excel XML PDF HTML TSV SQL TXT PNG JPEG and more formats]
@@ -13,11 +13,11 @@ keywords: [Aspose.Cells C# Create repair parse merge convert JSON Excel XML PDF 
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
-Aspose.Cells for .NET, elektronik tablo yönetimini ve işleme görevlerini hızlandırmaya yönelik bir Excel Elektronik Tablo Programlamasıdır API. API, elektronik tablolar oluşturma, değiştirme, dönüştürme, işleme ve yazdırma becerisine sahip platformlar arası uygulamalar oluşturmayı destekler. Ayrıca, yüklenecek Microsoft Excel'e veya herhangi bir Microsoft Office Interop bileşenine değil, tüm Excel formatlarının yanı sıra CSV ve SpreadsheetML formatlarıyla ilgilenen güçlü bir API kümesine dayanır.
+ Aspose.Cells for .NET, elektronik tablo yönetimini ve işleme görevlerini hızlandırmaya yönelik bir Excel Elektronik Tablo Programlamasıdır API. API, elektronik tablolar oluşturma, değiştirme, dönüştürme, işleme ve yazdırma becerisine sahip platformlar arası uygulamalar oluşturmayı destekler. Ayrıca, yüklenecek Microsoft Excel'e veya herhangi bir Microsoft Office Interop bileşenine değil, tüm Excel formatlarının yanı sıra CSV ve SpreadsheetML formatlarıyla ilgilenen güçlü bir API kümesine dayanır.
 </p>
 
 <p>
- API'i entegre ederek, geliştiricilerin birden fazla çalışma sayfasını yönetmek, sıfırdan elektronik tablo içerikleri ve stilleri oluşturmak, farklı veri kaynaklarından çalışma sayfalarına veri aktarmak, ortak ve karmaşık Matematiksel, Mali ve Metin formülleri eklemek, grafikleri değiştirmek gibi temel görevlerden bazılarını gerçekleştirebilir. resimler, yorumlar, çizim nesneleri ve çok daha fazlası.
+API'i entegre ederek, geliştiricilerin birden fazla çalışma sayfasını yönetmek, sıfırdan elektronik tablo içerikleri ve stilleri oluşturmak, farklı veri kaynaklarından çalışma sayfalarına veri aktarmak, ortak ve karmaşık Matematiksel, Mali ve Metin formülleri eklemek, grafikleri değiştirmek gibi temel görevlerden bazılarını gerçekleştirebilir. resimler, yorumlar, çizim nesneleri ve çok daha fazlası.
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
@@ -64,7 +64,7 @@ Aspose.Cells for .NET, elektronik tablo yönetimini ve işleme görevlerini hız
  Formülleri Uygula
     </li>
     <li>
- Özetle
+Özetle
     </li>
     <li>
  Akıllı İşaretleyiciler
@@ -213,7 +213,7 @@ Aspose.Cells for .NET, elektronik tablo yönetimini ve işleme görevlerini hız
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Desteklenen Dosya Formatları" description=" Aspose.Cells for .NET popüler elektronik tabloyu destekliyor[dosya formatları](https://docs.aspose.com/cells/net/supported-file-formats/) en sık kullanılan görüntü ve sabit düzen formatlarının yanı sıra." >}}
+{{< blocks/products/pf/carousel-item h3="Desteklenen Dosya Formatları" description=" Aspose.Cells for .NET popüler elektronik tabloyu destekliyor[dosya formatları](https://docs.aspose.com/cells/net/supported-file-formats/)en sık kullanılan görüntü ve sabit düzen formatlarının yanı sıra." >}}
 <div class="diagram1 d2 d1-net">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -227,7 +227,7 @@ Aspose.Cells for .NET, elektronik tablo yönetimini ve işleme görevlerini hız
      <b>
  Microsoft Excel:
      </b>
- XLS, XLSX, XLSB, XLT, XLTX, XLTM, XLSM, XML
+ XLS, XLSX, XLSB, XLT, XLTX, XLTM, XLSM, XML, OTS
     </li>
     <li>
      <b>
@@ -239,7 +239,7 @@ Aspose.Cells for .NET, elektronik tablo yönetimini ve işleme görevlerini hız
      <b>
  Metin:
      </b>
-     CSV, TSV
+     CSV, TSV, JSON
     </li>
     <li>
      <b>
@@ -253,6 +253,12 @@ Aspose.Cells for .NET, elektronik tablo yönetimini ve işleme görevlerini hız
      </b>
  Apple'ın iWork ofis paketi Numbers uygulama belgeleri
     </li>
+    <li>
+     <b>
+ Diğerleri:
+     </b>
+ SXC, FODS, EPUB
+    </li>
    </ul>
   </div>
   <!--/left-->
@@ -260,7 +266,7 @@ Aspose.Cells for .NET, elektronik tablo yönetimini ve işleme görevlerini hız
    <header>
     <i class="fa fa-mail-forward">
     </i>
- Yalnızca Çıkış
+Yalnızca Çıkış
    </header>
    <ul>
     <li>
@@ -274,12 +280,18 @@ Aspose.Cells for .NET, elektronik tablo yönetimini ve işleme görevlerini hız
  Veri Değişimi:
      </b>
      DIF
-    </li>
+    </li>    
     <li>
      <b>
  Görüntüler:
      </b>
      JPEG, PNG, BMP, SVG, TIFF, EMF, GIF
+    </li>
+    <li>
+     <b>
+ Diğerleri:
+     </b>
+ MARKDOWN, SQL, XTHML
     </li>
    </ul>
   </div>
@@ -375,14 +387,14 @@ Aspose.Cells for .NET, elektronik tablo yönetimini ve işleme görevlerini hız
     <em class="fa fa-support ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-CSV (virgülle ayrılmış değerler) ve amp; desteği TSV (sekmeyle ayrılmış değerler)
+ CSV (virgülle ayrılmış değerler) ve amp; desteği TSV (sekmeyle ayrılmış değerler)
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-commenting ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Oluştur ve oluştur yorumları değiştirmek
+Oluştur ve oluştur yorumları değiştirmek
     </p>
    </div>
    <div class="col-lg-4">
@@ -438,7 +450,7 @@ CSV (virgülle ayrılmış değerler) ve amp; desteği TSV (sekmeyle ayrılmış
     <em class="fa fa-file-code-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Şablon dosyasındaki VBA kodunu veya Makroları değiştirin
+Şablon dosyasındaki VBA kodunu veya Makroları değiştirin
     </p>
    </div>
    <div class="col-lg-4">
@@ -457,7 +469,7 @@ CSV (virgülle ayrılmış değerler) ve amp; desteği TSV (sekmeyle ayrılmış
     </p>
     <div class="codeblock" id="code">
      <h3>
-E-tabloyu farklı formatlarda kaydedin - C#
+ E-tabloyu farklı formatlarda kaydedin - C#
      </h3>
      <pre><code class="cs">// load file to be converted
 
@@ -479,7 +491,7 @@ workbook.Save(dir + "output.html", Aspose.Cells.SaveFormat.Html);</code></pre>
  Verileri Biçimlendirme, Grafikler ve Verilerle Görselleştirin Grafik
     </h2>
     <p>
- Aspose.Cells for .NET, elektronik tablolarınızı her türlü görsel efektle donatmanız için size tam bir özgürlük ve esneklik sağlar. API, niteliklere, hücre stillerine (hizalama, girinti, döndürme, kenarlıklar, gölgeleme ve renklendirme, koruma, metin sarma ve daraltma) ve her türlü sayı biçimine sahip farklı yazı tipleri uygulamanıza olanak tanır.
+Aspose.Cells for .NET, elektronik tablolarınızı her türlü görsel efektle donatmanız için size tam bir özgürlük ve esneklik sağlar. API, niteliklere, hücre stillerine (hizalama, girinti, döndürme, kenarlıklar, gölgeleme ve renklendirme, koruma, metin sarma ve daraltma) ve her türlü sayı biçimine sahip farklı yazı tipleri uygulamanıza olanak tanır.
     </p>
     <p>
  Benzer şekilde, grafikler ve grafikler görsel olarak çekicidir ve e-tablonuza profesyonel bir görünüm kazandırabilir. Aspose.Cells for .NET, tüm standart ve özel grafik türlerini oluşturmak ve değiştirmek için kapsamlı bir API seti sağlar. Ayrıca hücrelere yorumlar, resimler, OLE nesneleri, şekiller ve kontroller gibi farklı türde çizim nesneleri ekleyebilirsiniz.
@@ -574,7 +586,7 @@ Aspose.Cells for .NET, web ve web için GUI kontrolleri sağlar. masaüstü uygu
 
 {{< blocks/products/pf/testimonials-quote >}}
 <p class="first">
- Bir yazılım hizmetleri şirketi olarak, müşterilerle çalışırken müşteri hizmetlerinin ne kadar önemli olduğunu anlıyoruz. Aspose'in bu değeri bizimle paylaştığını görmekten mutluluk duyuyorum. Aspose.Cells mükemmel bir araçtır, VBA'ya göre önemli bir hız avantajına sahiptir.
+Bir yazılım hizmetleri şirketi olarak, müşterilerle çalışırken müşteri hizmetlerinin ne kadar önemli olduğunu anlıyoruz. Aspose'in bu değeri bizimle paylaştığını görmekten mutluluk duyuyorum. Aspose.Cells mükemmel bir araçtır, VBA'ya göre önemli bir hız avantajına sahiptir.
  <em>
  Paul Katz | Intersoft, ABD
  </em>
@@ -583,7 +595,7 @@ Aspose.Cells for .NET, web ve web için GUI kontrolleri sağlar. masaüstü uygu
 
 {{< blocks/products/pf/testimonials-quote >}}
 <p class="second">
-Aspose ürün paketi ve desteği rakipsizdir. Bu çözüm olmasaydı yaptıklarımızı yapamazdık.
+ Aspose ürün paketi ve desteği rakipsizdir. Bu çözüm olmasaydı yaptıklarımızı yapamazdık.
  <em>
  Dr. Dan Patterson | Acumen, Birleşik Krallık
  </em>

@@ -1,5 +1,5 @@
 ---
-title: वॉटरमार्क ODS दस्तावेज़ via Java
+title:  वॉटरमार्क ODS दस्तावेज़ via Java
 weight: 1040
 description: JSP/JSF एप्लिकेशन और डेस्कटॉप एप्लिकेशन के लिए Java रनटाइम एनवायरमेंट पर ODS फ़ाइल में वॉटरमार्क जोड़ने या हटाने के लिए Java नमूना कोड।
 keywords: [Java Aspose.Cells., Java add watermark to ods file., Java insert watermark to ods file., Java create watermark in ods file., remove watermark from ods file using Java., Java operate watermark in ods file., Java access watermark in ods file]
@@ -12,11 +12,7 @@ keywords: [Java Aspose.Cells., Java add watermark to ods file., Java insert wate
 
 {{% blocks/products/pf/agp/content h2="Java का उपयोग करके ODS फ़ाइल को वॉटरमार्क कैसे करें" %}}
 
- ODS फ़ाइल को वॉटरमार्क करने के लिए, हम इसका उपयोग करेंगे
- [Aspose.Cells for Java](https://products.aspose.com/cells/java) 
- API जो एक सुविधा संपन्न, शक्तिशाली और उपयोग में आसान वॉटरमार्किंग API for Java प्लेटफॉर्म है। आप इसका नवीनतम संस्करण सीधे यहां से डाउनलोड कर सकते हैं
- [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) 
- और pom.xml में निम्नलिखित कॉन्फ़िगरेशन जोड़कर इसे अपने Maven-आधारित प्रोजेक्ट में स्थापित करें।
+ ODS फ़ाइल को वॉटरमार्क करने के लिए, हम इसका उपयोग करेंगे[Aspose.Cells for Java](https://products.aspose.com/cells/java) API जो एक सुविधा संपन्न, शक्तिशाली और उपयोग में आसान वॉटरमार्किंग API for Java प्लेटफॉर्म है। आप इसका नवीनतम संस्करण सीधे यहां से डाउनलोड कर सकते हैं[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) और pom.xml में निम्नलिखित कॉन्फ़िगरेशन जोड़कर इसे अपने Maven-आधारित प्रोजेक्ट में स्थापित करें।
 
 {{% blocks/products/pf/agp/code-block title="कोष" offSpacer="true" %}}
 
@@ -129,7 +125,7 @@ workbook.save(dataDir + "AWArtWToWorksheet_out.ods");
     {{< blocks/products/pf/agp/about-file-section >}}
 
         {{< blocks/products/pf/agp/demobox sectionTitle="वॉटरमार्क ODS ऑनलाइन ऐप के माध्यम से" sectionDescription=" हमारे यहां जाकर ODS दस्तावेज़ों में वॉटरमार्क जोड़ें[लाइव डेमो वेबसाइट](https://products.aspose.app/cells/watermark). लाइव डेमो के निम्नलिखित लाभ हैं" >}}
-            {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" कुछ भी डाउनलोड या सेटअप करने की आवश्यकता नहीं है" >}}
+            {{< blocks/products/pf/agp/democard icon="fa-cogs" text="कुछ भी डाउनलोड या सेटअप करने की आवश्यकता नहीं है" >}}
             {{< blocks/products/pf/agp/democard icon="fa-edit" text=" कोई कोड लिखने की जरूरत नहीं" >}}
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text="बस अपनी ODS फ़ाइल अपलोड करें, अपना वॉटरमार्क सेट करें और \"जोड़ें\" बटन दबाएँ" >}}
             {{< blocks/products/pf/agp/democard icon="fa-download" text=" परिणामी फ़ाइल के लिए तुरंत डाउनलोड लिंक प्राप्त करें" >}}
@@ -148,6 +144,7 @@ ODS एक्सटेंशन वाली फ़ाइलें ओपन ड
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/watermark/xls/" name="XLS" description="एक्सेल बाइनरी फॉर्मेट" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/watermark/xlsb/" name="XLSB" description="बाइनरी एक्सेल वर्कबुक फ़ाइल" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/watermark/xlsm/" name="XLSM" description="स्प्रेडशीट फ़ाइल" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/watermark/xlsx/" name="XLSX" description="ओओएक्सएमएल एक्सेल फ़ाइल" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

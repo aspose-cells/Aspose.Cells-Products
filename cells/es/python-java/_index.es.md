@@ -13,7 +13,7 @@ keywords: [Python Aspose.Cells Create parse repair merge convert JSON Excel XML 
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
-Aspose.Cells for Python via Java es un API rápido y confiable para tareas de procesamiento de hojas de cálculo. Los desarrolladores pueden crear hojas de cálculo simples o complejas, manipular y extraer información de archivos de Excel. API lee múltiples formatos de Excel y puede representar hojas de trabajo en XPS, PDF, MHTML, HTML, texto sin formato, imágenes y más. Es la mejor solución para automatizar informes de Excel usando Python.
+ Aspose.Cells for Python via Java es un API rápido y confiable para tareas de procesamiento de hojas de cálculo. Los desarrolladores pueden crear hojas de cálculo simples o complejas, manipular y extraer información de archivos de Excel. API lee múltiples formatos de Excel y puede representar hojas de trabajo en XPS, PDF, MHTML, HTML, texto sin formato, imágenes y más. Es la mejor solución para automatizar informes de Excel usando Python.
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
@@ -38,7 +38,7 @@ Aspose.Cells for Python via Java es un API rápido y confiable para tareas de pr
  Conjunto resultante
     </li>
     <li>
-Colecciones
+ Colecciones
     </li>
    </ul>
    <header>
@@ -76,7 +76,7 @@ Colecciones
  Crear gráficos
     </li>
     <li>
- Resumir
+Resumir
     </li>
     <li>
  Marcadores inteligentes
@@ -159,7 +159,7 @@ Colecciones
      <b>
  Microsoft Excel:
      </b>
- XLS, XLSX, XLSB, XLTX, XLTM, XLSM, XML
+ XLS, XLSX, XLSB, XLT, XLTX, XLTM, XLSM, XML, OTS
     </li>
     <li>
      <b>
@@ -171,13 +171,25 @@ Colecciones
      <b>
  Texto:
      </b>
-     CSV, TSV, TXT
+     CSV, TSV, JSON
     </li>
     <li>
      <b>
  Web:
      </b>
      HTML, MHTML
+    </li>
+    <li>
+     <b>
+      Numbers:
+     </b>
+ Documentos de la aplicación iWork office suite Numbers de Apple
+    </li>
+    <li>
+     <b>
+ Otros:
+     </b>
+ SXC, FODS, EPUB
     </li>
    </ul>
   </div>
@@ -186,7 +198,7 @@ Colecciones
    <header>
     <i class="fa fa-mail-forward">
     </i>
- Sólo salida
+Sólo salida
    </header>
    <ul>
     <li>
@@ -197,9 +209,21 @@ Colecciones
     </li>
     <li>
      <b>
+ Intercambio de datos:
+     </b>
+     DIF
+    </li>    
+    <li>
+     <b>
  Imágenes:
      </b>
-     JPEG, PNG, BMP, SVG, EMF
+     JPEG, PNG, BMP, SVG, TIFF, EMF, GIF
+    </li>
+    <li>
+     <b>
+ Otros:
+     </b>
+ MARKDOWN, SQL, XTHML
     </li>
    </ul>
   </div>
@@ -306,7 +330,7 @@ Colecciones
     <em class="fa fa-object-ungroup ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-Agregar o eliminar agrupaciones en filas y columnas
+ Agregar o eliminar agrupaciones en filas y columnas
     </p>
    </div>
    <div class="col-lg-4">
@@ -416,11 +440,11 @@ Agregar o eliminar agrupaciones en filas y columnas
  Conversión de múltiples formatos
     </h2>
     <p>
- Python La biblioteca de Excel proporciona conversión de archivos de Excel a PDF, XPS y XPS. HTML formatos. La conversión confiable de API lo convierte en una solución perfecta para las empresas que requieren intercambiar archivos en formatos estándar de la industria.
+Python La biblioteca de Excel proporciona conversión de archivos de Excel a PDF, XPS y XPS. HTML formatos. La conversión confiable de API lo convierte en una solución perfecta para las empresas que requieren intercambiar archivos en formatos estándar de la industria.
     </p>
     <div class="codeblock" id="code">
      <h3>
-Guardar hoja de cálculo en diferentes formatos - Java
+ Guardar hoja de cálculo en diferentes formatos - Java
      </h3>
      <pre><code class="java">
 // load file to be converted
@@ -489,7 +513,7 @@ wkbk.save(SD_PATH + "houtput.html", SaveFormat.HTML);</code></pre>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-Personalización de gráficos
+ Personalización de gráficos
     </h2>
     <p>
 Aspose.Cells for Python via Java proporciona soporte completo para gráficos. Se pueden agregar fácilmente gráficos estándar y personalizados o configurar datos de gráficos dinámicamente para actualizar el gráfico en esta biblioteca de Python.

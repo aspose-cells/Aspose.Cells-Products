@@ -12,13 +12,7 @@ keywords: [C# Aspose.Cells., c# Search and replace text in XLS file., c# redact 
 
 {{% blocks/products/pf/agp/content h2="كيفية تنقيح ملف XLS باستخدام C#" %}}
 
- من أجل تنقيح ملف XLS، سنستخدم
- [Aspose.Cells for .NET](https://products.aspose.com/cells/net) 
- API وهي منصة غنية بالميزات وقوية وسهلة الاستخدام لمعالجة المستندات API لمنصة C#. يفتح
- [NuGet](https://www.nuget.org/packages/aspose.cells) 
- مدير الحزم، ابحث عن
- **Aspose.Cells** 
- وتثبيت. يمكنك أيضًا استخدام الأمر التالي من وحدة تحكم إدارة الحزم.
+ من أجل تنقيح ملف XLS، سنستخدم[Aspose.Cells for .NET](https://products.aspose.com/cells/net) API وهي منصة غنية بالميزات وقوية وسهلة الاستخدام لمعالجة المستندات API لمنصة C#. يفتح[NuGet](https://www.nuget.org/packages/aspose.cells) مدير الحزم، ابحث عن**Aspose.Cells** وتثبيت. يمكنك أيضًا استخدام الأمر التالي من وحدة تحكم إدارة الحزم.
 
 {{% blocks/products/pf/agp/code-block title="يأمر" offSpacer="true" %}}
 
@@ -38,9 +32,7 @@ PM> Install-Package Aspose.Cells
 
 {{% blocks/products/pf/agp/text %}}
 
- بحث أساسي عن المستندات واستبدال النص في المحتويات أو التعليقات أو البيانات الوصفية
- [Aspose.Cells for .NET](https://products.aspose.com/cells/net) 
- يمكن إنشاء واجهات برمجة التطبيقات باستخدام بضعة أسطر من التعليمات البرمجية.
+ بحث أساسي عن المستندات واستبدال النص في المحتويات أو التعليقات أو البيانات الوصفية[Aspose.Cells for .NET](https://products.aspose.com/cells/net) يمكن إنشاء واجهات برمجة التطبيقات باستخدام بضعة أسطر من التعليمات البرمجية.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -57,7 +49,7 @@ PM> Install-Package Aspose.Cells
 
 {{% blocks/products/pf/agp/text %}}
 
- يتم دعم واجهات برمجة التطبيقات الخاصة بنا على جميع المنصات وأنظمة التشغيل الرئيسية. قبل تنفيذ التعليمات البرمجية أدناه، يرجى التأكد من توفر المتطلبات الأساسية التالية على نظامك.
+يتم دعم واجهات برمجة التطبيقات الخاصة بنا على جميع المنصات وأنظمة التشغيل الرئيسية. قبل تنفيذ التعليمات البرمجية أدناه، يرجى التأكد من توفر المتطلبات الأساسية التالية على نظامك.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -122,7 +114,7 @@ wb.Save("e:\test2\output.xls");
             {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" لا داعي للتحميل Aspose API." >}}
             {{< blocks/products/pf/agp/democard icon="fa-edit" text=" لا حاجة لكتابة أي رمز." >}}
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" فقط قم بتحميل ملفات XLS الخاصة بك." >}}
-            {{< blocks/products/pf/agp/democard icon="fa-download" text="سيتم تنقيحه على الفور." >}}
+            {{< blocks/products/pf/agp/democard icon="fa-download" text=" سيتم تنقيحه على الفور." >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLS" readMoreLink="https://docs.fileformat.com/spreadsheet/xls/" >}}
 تمثل الملفات ذات الامتداد XLS تنسيق ملف Excel الثنائي. يمكن إنشاء مثل هذه الملفات بواسطة Microsoft Excel بالإضافة إلى برامج جداول البيانات المماثلة الأخرى مثل OpenOffice Calc أو Apple Numbers. يُعرف الملف المحفوظ بواسطة Excel باسم Workbook حيث يمكن أن يحتوي كل مصنف على ورقة عمل واحدة أو أكثر. يتم تخزين البيانات وعرضها للمستخدمين بتنسيق جدول في ورقة العمل ويمكن أن تشمل القيم الرقمية والبيانات النصية والصيغ واتصالات البيانات الخارجية والصور والمخططات. تتيح لك تطبيقات مثل Microsoft Excel تصدير بيانات المصنف إلى عدة تنسيقات مختلفة بما في ذلك PDF وCSV وXLSX وTXT وHTML وXPS والعديد من التنسيقات الأخرى. تم استبدال تنسيق الملف XLS بتنسيق أكثر انفتاحًا وتنظيمًا، XLSX، مع إصدار Microsoft Excel 2007. ولا تزال أحدث الإصدارات توفر دعمًا لإنشاء وقراءة ملفات XLS، على الرغم من أن XLSX هو الخيار الأول للاستخدام الآن.
@@ -138,6 +130,7 @@ wb.Save("e:\test2\output.xls");
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/redaction/ods/" name="ODS" description="ملف جدول بيانات OpenDocument" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/redaction/xlsb/" name="XLSB" description="ملف مصنف Excel الثنائي" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/redaction/xlsm/" name="XLSM" description="ملف جدول البيانات" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/redaction/xlsx/" name="XLSX" description="ملف اكسيل OOXML" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

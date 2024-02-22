@@ -12,13 +12,7 @@ keywords: [C# Aspose.Cells., c# Search and replace text in XLSM file., c# redact
 
 {{% blocks/products/pf/agp/content h2="C#を使用してXLSMファイルを編集する方法" %}}
 
-XLSM ファイルを編集するには、次を使用します。
- [Aspose.Cells for .NET](https://products.aspose.com/cells/net) 
-API は、機能が豊富で強力で使いやすい、C# プラットフォーム用の文書操作 API です。開ける
- [NuGet](https://www.nuget.org/packages/aspose.cells) 
-パッケージマネージャー、検索
- **Aspose.Cells** 
-そしてインストールします。パッケージ マネージャー コンソールから次のコマンドを使用することもできます。
+XLSM ファイルを編集するには、次を使用します。[Aspose.Cells for .NET](https://products.aspose.com/cells/net)API は、機能が豊富で強力で使いやすい、C# プラットフォーム用の文書操作 API です。開ける[NuGet](https://www.nuget.org/packages/aspose.cells)パッケージマネージャー、検索**Aspose.Cells**そしてインストールします。パッケージ マネージャー コンソールから次のコマンドを使用することもできます。
 
 {{% blocks/products/pf/agp/code-block title="指示" offSpacer="true" %}}
 
@@ -38,13 +32,11 @@ PM> Install-Package Aspose.Cells
 
 {{% blocks/products/pf/agp/text %}}
 
-基本的なドキュメントの検索と、コンテンツ、コメント、メタデータ内のテキストの置換
- [Aspose.Cells for .NET](https://products.aspose.com/cells/net) 
-API はわずか数行のコードで実行できます。
+基本的なドキュメントの検索と、コンテンツ、コメント、メタデータ内のテキストの置換[Aspose.Cells for .NET](https://products.aspose.com/cells/net)API はわずか数行のコードで実行できます。
 
 {{% /blocks/products/pf/agp/text %}}
 
-XLSM ファイルをロードします。
++ XLSM ファイルをロードします。
 + シートを選択します。
 + FindOptions オブジェクトを作成します。
 + 検索オプションを設定する
@@ -61,7 +53,7 @@ XLSM ファイルをロードします。
 
 {{% /blocks/products/pf/agp/text %}}
 
-- Microsoft Windows、または .NET フレームワーク、.NET コア、Mono または Xamarin プラットフォームと互換性のある OS
+-  Microsoft Windows、または .NET フレームワーク、.NET コア、Mono または Xamarin プラットフォームと互換性のある OS
 -  Microsoft Visual Studio のような開発環境
 - プロジェクトに Aspose.Cells for .NET DLL への参照を追加します - 上の [ダウンロード] ボタンを使用して NuGet からインストールします
 
@@ -119,7 +111,7 @@ wb.Save("e:\test2\output.xlsm");
     {{< blocks/products/pf/agp/about-file-section >}}
 
         {{< blocks/products/pf/agp/demobox sectionTitle="オンライン XLSM 編集ライブデモ" sectionDescription="XLSM ドキュメントのコンテンツ、コメント、またはメタデータのテキストを今すぐ検索して置換するには、次のサイトにアクセスしてください。[ライブデモ Web サイト](https://products.aspose.app/cells/redaction)。ライブデモには次の利点があります" >}}
-            {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Aspose API をダウンロードする必要はありません。" >}}
+            {{< blocks/products/pf/agp/democard icon="fa-cogs" text="Aspose API をダウンロードする必要はありません。" >}}
             {{< blocks/products/pf/agp/democard icon="fa-edit" text="コードを記述する必要はありません。" >}}
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" XLSM ファイルをアップロードするだけです。" >}}
             {{< blocks/products/pf/agp/democard icon="fa-download" text="即座に編集されます。" >}}
@@ -138,6 +130,7 @@ XLSM拡張子を持つファイルは、マクロをサポートするスプレ�
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/redaction/ods/" name="ODS" description="OpenDocument スプレッドシート ファイル" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/redaction/xls/" name="XLS" description="Excel バイナリ形式" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/redaction/xlsb/" name="XLSB" description="バイナリ Excel ワークブック ファイル" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/redaction/xlsx/" name="XLSX" description="OOXML Excel ファイル" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

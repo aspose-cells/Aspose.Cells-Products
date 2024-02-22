@@ -12,7 +12,7 @@ description: Spreadsheet PHP Excel API untuk membaca tulis dan mengonversi XLS X
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
- Aspose.Cells for PHP via Java adalah manajemen dan pemrosesan spreadsheet Excel yang skalabel dan kaya fitur API. Aplikasi dapat melakukan konversi format spreadsheet, pengelolaan dan rendering bagan, penerapan rumus, penataan gaya lembar kerja ke tingkat paling terperinci, dan banyak lagi. API mendukung XLS, XLSX, ODS, SpreadsheetML, CSV, Tab Delimited, HTML/MHTML, PDF, XPS dan format lainnya. Pengembang dapat dengan mudah menambahkan kemampuan untuk membuat, mengedit, mengkonversi dan merender file Excel dalam aplikasi PHP mereka saat menggunakan JavaBridge.
+Aspose.Cells for PHP via Java adalah manajemen dan pemrosesan spreadsheet Excel yang skalabel dan kaya fitur API. Aplikasi dapat melakukan konversi format spreadsheet, pengelolaan dan rendering bagan, penerapan rumus, penataan gaya lembar kerja ke tingkat paling terperinci, dan banyak lagi. API mendukung XLS, XLSX, ODS, SpreadsheetML, CSV, Tab Delimited, HTML/MHTML, PDF, XPS dan format lainnya. Pengembang dapat dengan mudah menambahkan kemampuan untuk membuat, mengedit, mengkonversi dan merender file Excel dalam aplikasi PHP mereka saat menggunakan JavaBridge.
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
@@ -179,7 +179,7 @@ description: Spreadsheet PHP Excel API untuk membaca tulis dan mengonversi XLS X
      <b>
  Microsoft Unggul:
      </b>
- XLS, XLSX, XLSB, XLTX, XLTM, XLSM, XML
+ XLS, XLSX, XLSB, XLT, XLTX, XLTM, XLSM, XML, OTS
     </li>
     <li>
      <b>
@@ -191,13 +191,25 @@ description: Spreadsheet PHP Excel API untuk membaca tulis dan mengonversi XLS X
      <b>
  Teks:
      </b>
- CSV, Dibatasi Tab, TXT
+     CSV, TSV, JSON
     </li>
     <li>
      <b>
  jaringan:
      </b>
      HTML, MHTML
+    </li>
+    <li>
+     <b>
+      Numbers:
+     </b>
+ Dokumen aplikasi iWork office suite Numbers Apple
+    </li>
+    <li>
+     <b>
+ Yang lain:
+     </b>
+ SXC, FODS, EPUB
     </li>
    </ul>
   </div>
@@ -206,20 +218,32 @@ description: Spreadsheet PHP Excel API untuk membaca tulis dan mengonversi XLS X
    <header>
     <i class="fa fa-mail-forward">
     </i>
- Keluaran Saja
+Keluaran Saja
    </header>
    <ul>
     <li>
      <b>
  Tata Letak Tetap:
      </b>
-     PDF, XPS
+ PDF, PDF/A, XPS
     </li>
+    <li>
+     <b>
+ Pertukaran Data:
+     </b>
+     DIF
+    </li>    
     <li>
      <b>
  Gambar-gambar:
      </b>
      JPEG, PNG, BMP, SVG, TIFF, EMF, GIF
+    </li>
+    <li>
+     <b>
+ Yang lain:
+     </b>
+ MARKDOWN, SQL, XTHML
     </li>
    </ul>
   </div>
@@ -264,7 +288,7 @@ description: Spreadsheet PHP Excel API untuk membaca tulis dan mengonversi XLS X
     <em class="fa fa-support ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Dukungan untuk CSV, Dibatasi Tab &amp; format HTML
+Dukungan untuk CSV, Dibatasi Tab &amp; format HTML
     </p>
    </div>
    <div class="col-lg-4">
@@ -370,7 +394,7 @@ description: Spreadsheet PHP Excel API untuk membaca tulis dan mengonversi XLS X
  Konversi File Excel ke XPS, PDF &amp; HTML
     </h2>
     <p>
-Aspose.Cells for PHP via Java API mampu mengkonversi file Excel ke format XPS, XPS dan HTML serta menjaga fidelitas visual tertinggi. Proses konversinya dapat diandalkan dan pengembang bisa mendapatkan format yang diperlukan hanya dengan beberapa baris.
+ Aspose.Cells for PHP via Java API mampu mengkonversi file Excel ke format XPS, XPS dan HTML serta menjaga fidelitas visual tertinggi. Proses konversinya dapat diandalkan dan pengembang bisa mendapatkan format yang diperlukan hanya dengan beberapa baris.
     </p>
     <div class="codeblock" id="code">
      <h3>
@@ -396,7 +420,7 @@ $wkbk-&gt;save("output.html", SaveFormat::HTML);</code></pre>
  Render Excel Spreadsheet &amp; Keberatan ke PDF &amp; Gambar-gambar
     </h2>
     <p>
- Aspose.Cells for PHP via Java memiliki mesin rendering sendiri yang dirancang khusus untuk rendering dengan fidelitas tertinggi pada Microsoft Excel. Saat menggunakan Aspose.Cells for PHP via Java, Anda dapat mengonversi seluruh spreadsheet, lembar kerja individual &amp; bagan ke sejumlah gambar &amp; format tata letak tetap.
+Aspose.Cells for PHP via Java memiliki mesin rendering sendiri yang dirancang khusus untuk rendering dengan fidelitas tertinggi pada Microsoft Excel. Saat menggunakan Aspose.Cells for PHP via Java, Anda dapat mengonversi seluruh spreadsheet, lembar kerja individual &amp; bagan ke sejumlah gambar &amp; format tata letak tetap.
     </p>
    </div>
    <div class="col-lg-12">
@@ -404,7 +428,7 @@ $wkbk-&gt;save("output.html", SaveFormat::HTML);</code></pre>
  Opsi Tampilan Lembar Kerja Fleksibel
     </h2>
     <p>
-Aspose.Cells for PHP via Java memberi Anda kontrol penuh atas pengaturan halaman lembar kerja sehingga memungkinkan Anda memanipulasi opsi tampilan lembar kerja Excel seperti hentian halaman, orientasi halaman, penskalaan, ukuran kertas, header/footer &amp; tingkat pembesaran. Anda juga dapat mengontrol visibilitas data menggunakan panel beku &amp; area cetak untuk memenuhi kebutuhan aplikasi Anda.
+ Aspose.Cells for PHP via Java memberi Anda kontrol penuh atas pengaturan halaman lembar kerja sehingga memungkinkan Anda memanipulasi opsi tampilan lembar kerja Excel seperti hentian halaman, orientasi halaman, penskalaan, ukuran kertas, header/footer &amp; tingkat pembesaran. Anda juga dapat mengontrol visibilitas data menggunakan panel beku &amp; area cetak untuk memenuhi kebutuhan aplikasi Anda.
     </p>
    </div>
    <div class="col-lg-12">
@@ -412,7 +436,7 @@ Aspose.Cells for PHP via Java memberi Anda kontrol penuh atas pengaturan halaman
  Efisien, Kuat &amp; Mesin Perhitungan Formula yang Andal
     </h2>
     <p>
- Aspose.Cells for PHP via Java dilengkapi dengan Mesin Penghitungan Rumus yang kuat yang mendukung hampir semua rumus dan fungsi Excel Microsoft standar dan lanjutan. Anda dapat membaca, mengatur, dan menghitung hasil rumus gaya referensi tipe bawaan atau tambahan, larik, dan R1C1.
+Aspose.Cells for PHP via Java dilengkapi dengan Mesin Penghitungan Rumus yang kuat yang mendukung hampir semua rumus dan fungsi Excel Microsoft standar dan lanjutan. Anda dapat membaca, mengatur, dan menghitung hasil rumus gaya referensi tipe bawaan atau tambahan, larik, dan R1C1.
     </p>
    </div>
    <div class="col-lg-12">
@@ -423,7 +447,7 @@ Aspose.Cells for PHP via Java memberi Anda kontrol penuh atas pengaturan halaman
  Pustaka ini sangat fleksibel sehingga seseorang dapat melengkapi spreadsheet dengan segala jenis efek visual serta dapat menerapkan pemformatan pada lembar kerja, baris, kolom atau sel, mengatur font dengan atribut, menentukan gaya sel &amp; format angka, tambahkan Teks Kaya dan tentukan aturan pemformatan bersyarat.
     </p>
     <p>
-Demikian pula, untuk tampilan profesional dan pemahaman yang mudah, grafik dan grafik adalah bagian integral. Aspose.Cells for PHP via Java API dapat membuat dan memanipulasi semua jenis bagan standar dan khusus. Selain itu, berbagai jenis objek gambar ke sel dapat dengan mudah ditambahkan.
+ Demikian pula, untuk tampilan profesional dan pemahaman yang mudah, grafik dan grafik adalah bagian integral. Aspose.Cells for PHP via Java API dapat membuat dan memanipulasi semua jenis bagan standar dan khusus. Selain itu, berbagai jenis objek gambar ke sel dapat dengan mudah ditambahkan.
     </p>
    </div>
   </div>

@@ -1,5 +1,5 @@
 ---
-title:  Extrahujte text a obrázky z dokumentu XLSB přes C++
+title: Extrahujte text a obrázky z dokumentu XLSB přes C++
 weight: 3140
 description: C++ ukázkový kód pro extrahování textu a obrázků ze souboru XLSB na C++ Runtime Environment pro Windows 32 bit, Windows 64 bit a Linux 64 bit.
 keywords: [C++ Aspose.Cells., C++ Extract text and images from XLSB file., C++ How to Parse XLSB File., C++ Extract text from XLSB file., Extract images from XLSB file using C++]
@@ -12,13 +12,7 @@ keywords: [C++ Aspose.Cells., C++ Extract text and images from XLSB file., C++ H
 
 {{% blocks/products/pf/agp/content h2="Jak analyzovat soubor XLSB pomocí C++" %}}
 
- Abychom mohli analyzovat soubor XLSB, použijeme
- [Aspose.Cells for C++](https://products.aspose.com/cells/cpp) 
- API, což je funkčně bohatá, výkonná a snadno použitelná platforma pro analýzu dokumentů API for C++. Jeho nejnovější verzi si můžete stáhnout přímo, stačí otevřít
- [NuGet](https://www.nuget.org/packages/aspose.cells) 
- správce balíčků, vyhledejte
- **Aspose.Cells.Cpp** 
- a nainstalovat. Můžete také použít následující příkaz z konzoly Správce balíčků.
+ Abychom mohli analyzovat soubor XLSB, použijeme[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) API, což je funkčně bohatá, výkonná a snadno použitelná platforma pro analýzu dokumentů API for C++. Jeho nejnovější verzi si můžete stáhnout přímo, stačí otevřít[NuGet](https://www.nuget.org/packages/aspose.cells) správce balíčků, vyhledejte**Aspose.Cells.Cpp** a nainstalovat. Můžete také použít následující příkaz z konzoly Správce balíčků.
 
 {{% blocks/products/pf/agp/code-block title="Příkaz" offSpacer="true" %}}
 
@@ -38,9 +32,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% blocks/products/pf/agp/text %}}
 
- Základní analýza dokumentu s
- [Aspose.Cells for C++](https://products.aspose.com/cells/cpp) 
- Rozhraní API lze vytvořit pomocí několika řádků kódu. Analyzujte text a obrázky ze souborů Microsoft Excel XLS, XLSX, XLSM, XLSB a OpenDocument ODS.
+ Základní analýza dokumentu s[Aspose.Cells for C++](https://products.aspose.com/cells/cpp)Rozhraní API lze vytvořit pomocí několika řádků kódu. Analyzujte text a obrázky ze souborů Microsoft Excel XLS, XLSX, XLSM, XLSB a OpenDocument ODS.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -108,7 +100,7 @@ Aspose::Cells::Cleanup();
 
 {{< blocks/products/pf/agp/about-file-section >}}
 
-    {{< blocks/products/pf/agp/demobox sectionTitle="Online XLSB Živá ukázka parseru" sectionDescription=" Extrahujte text a obrázky z XLSB dokumentů právě teď tím, že navštívíte naše[Webová stránka živé ukázky](https://products.aspose.app/cells/parser). Živé demo má následující výhody" >}}
+    {{< blocks/products/pf/agp/demobox sectionTitle="Online XLSB Živá ukázka parseru" sectionDescription="Extrahujte text a obrázky z XLSB dokumentů právě teď tím, že navštívíte naše[Webová stránka živé ukázky](https://products.aspose.app/cells/parser). Živé demo má následující výhody" >}}
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Není třeba stahovat Aspose API." >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Není třeba psát žádný kód." >}}
         {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Stačí nahrát své soubory XLSB." >}}
@@ -129,6 +121,7 @@ Formát souboru XLSB určuje formát binárního souboru aplikace Excel, což je
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/parser/ods/" name="ODS" description="Soubor tabulkového procesoru OpenDocument" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/parser/xls/" name="XLS" description="Binární formát Excel" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/parser/xlsm/" name="XLSM" description="Soubor tabulky" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/parser/xlsx/" name="XLSX" description="Soubor Excel OOXML" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

@@ -125,7 +125,7 @@ workbook.save(dataDir + "AWArtWToWorksheet_out.xlsb");
     {{< blocks/products/pf/agp/about-file-section >}}
 
         {{< blocks/products/pf/agp/demobox sectionTitle="Υδατογράφημα XLSB μέσω της διαδικτυακής εφαρμογής" sectionDescription=" Προσθέστε υδατογράφημα στα έγγραφα XLSB επισκεπτόμενοι το δικό μας[Ζωντανή ιστοσελίδα Demos](https://products.aspose.app/cells/watermark). Η ζωντανή επίδειξη έχει τα ακόλουθα πλεονεκτήματα" >}}
-            {{< blocks/products/pf/agp/democard icon="fa-cogs" text="Δεν χρειάζεται να κατεβάσετε ή να ρυθμίσετε τίποτα" >}}
+            {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Δεν χρειάζεται να κατεβάσετε ή να ρυθμίσετε τίποτα" >}}
             {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Δεν χρειάζεται να γράψετε κανέναν κώδικα" >}}
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Απλώς ανεβάστε το αρχείο XLSB, ορίστε το υδατογράφημά σας και πατήστε το κουμπί \"Προσθήκη\"" >}}
             {{< blocks/products/pf/agp/democard icon="fa-download" text=" Λάβετε αμέσως τον σύνδεσμο λήψης για το αρχείο που προκύπτει" >}}

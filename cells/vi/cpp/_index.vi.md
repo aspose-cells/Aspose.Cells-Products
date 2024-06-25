@@ -13,7 +13,7 @@ keywords: [C++ library execl Aspose.Cells Create repair parse merge convert JSON
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
-Thư viện Aspose.Cells C++ là thư viện gốc C++ để thao tác với Bảng tính. Các ứng dụng có thể thực hiện các chức năng như tạo, chuyển đổi và chỉnh sửa Thuộc tính tùy chỉnh và tích hợp của bảng tính, Chủ đề, Kiểu và Định dạng, Xác thực dữ liệu, Định dạng có điều kiện, Đọc, Viết và tính toán công thức, Nhóm hàng và cột, v.v. mà không cần dựa vào Tự động hóa Office hoặc Microsoft Excel. API hỗ trợ các định dạng bảng tính phổ biến nhất (chẳng hạn như XLS, XLSX, XLSM và XLSB) cũng như các loại định dạng tệp khác (như PDF, XPS) và các định dạng hình ảnh phổ biến nhất (chẳng hạn như JPEG, 0761 123481, BMP, TIFF , GIF, EMF, SVG).
+Thư viện Aspose.Cells C++ là thư viện gốc C++ để thao tác với Bảng tính. Các ứng dụng có thể thực hiện các chức năng như tạo, chuyển đổi và chỉnh sửa Thuộc tính tùy chỉnh và tích hợp của bảng tính, Chủ đề, Kiểu và Định dạng, Xác thực dữ liệu, Định dạng có điều kiện, Đọc, Viết và tính toán công thức, Nhóm hàng và cột, v.v. mà không cần dựa vào Tự động hóa Office hoặc Microsoft Excel. API hỗ trợ các định dạng bảng tính phổ biến nhất (chẳng hạn như XLS, XLSX, XLSM và XLSB) cũng như các loại định dạng tệp khác (như PDF, XPS) và các định dạng hình ảnh phổ biến nhất (chẳng hạn như JPEG, 076 1123481, BMP, TIFF , GIF, EMF, SVG).
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
@@ -377,7 +377,7 @@ Chỉ đầu ra
     <em class="fa fa-superscript ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Đọc, viết &amp; tính toán các công thức phức tạp
+ Đọc, viết & amp; tính toán các công thức phức tạp
     </p>
    </div>
    <div class="col-lg-4">

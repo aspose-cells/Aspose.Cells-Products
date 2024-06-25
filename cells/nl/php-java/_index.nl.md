@@ -309,7 +309,7 @@ Ondersteuning voor CSV, door tabs gescheiden &amp; HTML-formaten
     <em class="fa fa-superscript ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Formules importeren vanuit een ontwerperspreadsheet
+ Importeer formules uit een ontwerperspreadsheet
     </p>
    </div>
    <div class="col-lg-4">
@@ -398,7 +398,7 @@ Ondersteuning voor CSV, door tabs gescheiden &amp; HTML-formaten
     </p>
     <div class="codeblock" id="code">
      <h3>
- Bewaar spreadsheet in meerdere formaten - PHP
+ Sla spreadsheet op in meerdere formaten - PHP
      </h3>
      <pre><code class="php">// load document to be converted
 
@@ -436,7 +436,7 @@ Aspose.Cells for PHP via Java heeft een eigen rendering-engine die speciaal is o
  Efficiënt, robuust en Betrouwbare formuleberekeningsengine
     </h2>
     <p>
-Aspose.Cells for PHP via Java is uitgerust met een krachtige formuleberekeningsengine die bijna alle standaard en geavanceerde Microsoft Excel-formules en -functies ondersteunt. U kunt de resultaten van ingebouwde of ingevoegde formules voor type-, array- en R1C1-referentiestijlen lezen, instellen en berekenen.
+Aspose.Cells for PHP via Java is uitgerust met een krachtige formuleberekeningsengine die bijna alle standaard en geavanceerde Microsoft Excel-formules en -functies ondersteunt. U kunt de resultaten van ingebouwde of invoegtoepassingsformules voor typen, arrays en R1C1-referentiestijlen lezen, instellen en berekenen.
     </p>
    </div>
    <div class="col-lg-12">

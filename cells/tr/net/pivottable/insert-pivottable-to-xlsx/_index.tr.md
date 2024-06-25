@@ -1,7 +1,7 @@
 ---
 title:  PivotTable'ı Micorsoft Excel XLSX dosyalarına C# aracılığıyla ekleyin
 weight: 7690
-description: C# .NET Kitaplığını kullanarak XLSX'e Özet Tablo eklemek için örnek kod. VB.NET, Asp.NET veya herhangi bir .NET tabanlı uygulama içindeki XLSX dosyasına PivotTable eklemek için bu kodu kullanın.
+description: C# .NET Kitaplığı'nı kullanarak XLSX'e Özet Tablo eklemek için örnek kod. VB.NET, Asp.NET veya herhangi bir .NET tabanlı uygulama içindeki XLSX dosyasına PivotTable eklemek için bu kodu kullanın.
 keywords: [C# Aspose.Cells., c# add PivotTable in xlsx., c# insert PivotTable in xlsx., c# create PivotTable in xlsx., c# modify PivotTable in xlsx., access PivotTable in xlsx., c# add pivot table in xlsx., c# insert pivot table in xlsx., c# create pivot table in xlsx., c# modify pivot table in xlsx., access pivot table in xlsx]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -77,10 +77,10 @@ XLSX, Microsoft tarafından Microsoft Office 2007 sürümüyle tanıtılan Micro
 
 {{< blocks/products/pf/agp/other-supported-section title="Desteklenen Diğer Özet Tablo Formatları" subTitle="PivotTable ile aşağıda listelenenlerden birkaçı dahil diğer Microsoft Excel formatlarını da oluşturabilirsiniz." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/insert-pivottable-to-xls/" name="XLS" description="Microsoft Excel Elektronik Tablosu (Eski)" >}} 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/insert-pivottable-to-xlsx/" name="XLSX" description="XML Çalışma Kitabını Aç" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/insert-pivottable-to-xlsb/" name="XLSB" description="Excel İkili Çalışma Kitabı" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/insert-pivottable-to-xlsm/" name="XLSM" description="Makro-etkin Elektronik Tablo" >}} 
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/pivottable/insert-pivottable-to-xls/" name="XLS" description="Microsoft Excel Elektronik Tablosu (Eski)" >}} 
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/pivottable/insert-pivottable-to-xlsx/" name="XLSX" description="XML Çalışma Kitabını Aç" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/pivottable/insert-pivottable-to-xlsb/" name="XLSB" description="Excel İkili Çalışma Kitabı" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/pivottable/insert-pivottable-to-xlsm/" name="XLSM" description="Makro-etkin Elektronik Tablo" >}} 
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

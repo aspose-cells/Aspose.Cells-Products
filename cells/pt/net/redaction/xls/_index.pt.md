@@ -39,7 +39,7 @@ PM> Install-Package Aspose.Cells
 + Carregue o arquivo XLS.
 + Selecione a planilha.
 + Crie o objeto FindOptions.
-+ Definir opções de pesquisa
+Definir opções de pesquisa
 + Percorra cada célula e use o método Find.
 + Salve a pasta de trabalho.
 
@@ -49,11 +49,11 @@ PM> Install-Package Aspose.Cells
 
 {{% blocks/products/pf/agp/text %}}
 
-Nossas APIs são suportadas em todas as principais plataformas e sistemas operacionais. Antes de executar o código abaixo, certifique-se de ter os seguintes pré-requisitos em seu sistema.
+ Nossas APIs são suportadas em todas as principais plataformas e sistemas operacionais. Antes de executar o código abaixo, certifique-se de ter os seguintes pré-requisitos em seu sistema.
 
 {{% /blocks/products/pf/agp/text %}}
 
--  Microsoft Windows ou um sistema operacional compatível com .NET Framework, .NET Core, Mono ou plataformas Xamarin
+- Microsoft Windows ou um sistema operacional compatível com .NET Framework, .NET Core, Mono ou plataformas Xamarin
 -  Ambiente de desenvolvimento como Microsoft Visual Studio
 -  Adicione referência à DLL Aspose.Cells for .NET em seu projeto - Instale a partir de NuGet usando o botão Download acima
 

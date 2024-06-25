@@ -53,7 +53,7 @@ PM> Install-Package Aspose.Cells
 
 {{% /blocks/products/pf/agp/text %}}
 
--  Microsoft Windows 或具有 .NET Framework、.NET Core、Mono 或 Xamarin 平台的相容作業系統
+- Microsoft Windows 或具有 .NET Framework、.NET Core、Mono 或 Xamarin 平台的相容作業系統
 - 開發環境如Microsoft Visual Studio
 - 在專案中新增對 Aspose.Cells for .NET DLL 的引用 - 使用上面的下載按鈕從 NuGet 安裝
 
@@ -115,7 +115,7 @@ PM> Install-Package Aspose.Cells
             {{< blocks/products/pf/agp/democard icon="fa-download" text="它將立即被解析。" >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLSX" readMoreLink="https://docs.fileformat.com/spreadsheet/xlsx/" >}}
-XLSX 是 Microsoft Excel 文件的眾所周知的格式，由 Microsoft 在 Microsoft Office 2007 版本中引入。基於根據 OOXML 標準 ECMA-376 第 2 部分中概述的開放性打包約定組織的結構，新套件為許多。只需解壓縮 .xlsx 檔案即可檢查底層結構和檔案。
+XLSX 是 Microsoft Excel 文件的眾所周知的格式，由 Microsoft 在 Microsoft Office 2007 版本中引入。 。只需解壓縮 .xlsx 檔案即可檢查底層結構和檔案。
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 

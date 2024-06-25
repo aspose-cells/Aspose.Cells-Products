@@ -13,7 +13,7 @@ keywords: [C++ library execl Aspose.Cells Create repair parse merge convert JSON
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
-Aspose.Cells C++-biblioteket är ett inbyggt C++-bibliotek för kalkylarksmanipulering. Applikationer kan utföra funktioner som att skapa, konvertera och redigera kalkylbladens inbyggda och anpassade egenskaper, teman, stilar och formatering, datavalidering, villkorlig formatering, läsa, skriva och beräkna formler, gruppera rader och kolumner och mycket mer utan att förlita sig på Office Automation eller Microsoft Excel. API stöder de vanligaste kalkylarksformaten (som XLS, XLSX, XLSM och XLSB) såväl som andra typer av filformat (som PDF, 3031, de vanligaste bildformaten och 30411 bildformaten) 481, PNG, BMP, TIFF , GIF, EMF, SVG).
+Aspose.Cells C++-biblioteket är ett inbyggt C++-bibliotek för kalkylarksmanipulering. Applikationer kan utföra funktioner som att skapa, konvertera och redigera kalkylbladens inbyggda och anpassade egenskaper, teman, stilar och formatering, datavalidering, villkorlig formatering, läsa, skriva och beräkna formler, gruppera rader och kolumner och mycket mer utan att förlita sig på Office Automation eller Microsoft Excel. API stöder de vanligaste kalkylarksformaten (t.ex. XLS, XLSX, XLSM och XLSB) samt andra typer av filformat (t.ex 3481, PNG, BMP, TIFF , GIF, EMF, SVG).
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}

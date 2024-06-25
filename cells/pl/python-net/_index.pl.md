@@ -13,7 +13,7 @@ keywords: [Python Aspose.Cells Create repair merge convert JSON Excel XML PDF HT
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
- Aspose.Cells for Python przez .Net to szybki i niezawodny numer API do zadań związanych z przetwarzaniem arkuszy kalkulacyjnych. Programiści mogą tworzyć proste lub złożone arkusze kalkulacyjne, manipulować i wyodrębniać informacje z plików Excel. API odczytuje wiele formatów Excela i może renderować arkusze do XPS, PDF, MHTML, HTML, zwykłego tekstu, obrazów i innych. Jest to najlepsze rozwiązanie do automatyzacji raportów Excela przy użyciu Pythona.
+Aspose.Cells for Python przez .Net to szybki i niezawodny numer API do zadań związanych z przetwarzaniem arkuszy kalkulacyjnych. Programiści mogą tworzyć proste lub złożone arkusze kalkulacyjne, manipulować i wyodrębniać informacje z plików Excel. API odczytuje wiele formatów Excela i może renderować arkusze do XPS, PDF, MHTML, HTML, zwykłego tekstu, obrazów i innych. Jest to najlepsze rozwiązanie do automatyzacji raportów Excela przy użyciu Pythona.
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}

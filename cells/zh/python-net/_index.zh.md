@@ -1,11 +1,11 @@
 ---
 title:  Python Excel 电子表格 API - Aspose
 weight: 2800
-description: Python 用于创建、修复、合并、解析和转换 Excel 文件的库。将excel转换为PDF、JSON、HTML、TXT和其他流行格式。
+description: Python 库用于创建、修复、合并、解析和转换 excel 文件。将 excel 转换为 PDF、JSON、HTML、TXT 和其他流行格式。
 keywords: [Python Aspose.Cells Create repair merge convert JSON Excel XML PDF HTML TSV SQL ODS CSV TSV PNG JPEG and more formats]
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="Python Excel电子表格解析API" h2="在 Python 应用程序中生成、读取、写入或操作电子表格以及将 Excel 文件导出为多种格式。" logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/cells/headers/aspose_cells-for-python-via-net.svg" pfName="Aspose.Cells" subTitlepfName="for Python via .NET" downloadUrl="https://releases.aspose.com/cells/python-net/" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="Python Excel 电子表格解析 API" h2="在 Python 应用程序内生成、读取、写入或操作电子表格以及将 Excel 文件导出为多种格式。" logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/cells/headers/aspose_cells-for-python-via-net.svg" pfName="Aspose.Cells" subTitlepfName="for Python via .NET" downloadUrl="https://releases.aspose.com/cells/python-net/" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells" subTitlepfName="for Python via .NET" >}}
 
@@ -13,7 +13,7 @@ keywords: [Python Aspose.Cells Create repair merge convert JSON Excel XML PDF HT
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
-Aspose.Cells for Python via .Net 是一个快速可靠的 API，用于电子表格处理任务。开发人员可以创建简单或复杂的电子表格、操作 Excel 文件以及从 Excel 文件中提取信息。 API 读取多种 Excel 格式，并可以将工作表渲染为 XPS、PDF、MHTML、HTML、纯文本、图像等。它是使用 python 自动化 excel 报告的最佳解决方案。
+Aspose.Cells for Python via .Net 是一种快速可靠的 API，用于电子表格处理任务。开发人员可以创建简单或复杂的电子表格，操作以及从 excel 文件中提取信息。API 读取多种 excel 格式，并可以将工作表呈现为 XPS、PDF、MHTML、HTML、纯文本、图像等。它是使用 python 自动生成 excel 报告的最佳解决方案。
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
@@ -28,7 +28,7 @@ Aspose.Cells for Python via .Net 是一个快速可靠的 API，用于电子表�
    <header>
     <i class="fa fa-refresh">
     </i>
-进口及出口
+进出口
    </header>
    <ul>
     <li>
@@ -48,13 +48,13 @@ Aspose.Cells for Python via .Net 是一个快速可靠的 API，用于电子表�
    </header>
    <ul>
     <li>
-图表到图像
+图表转图像
     </li>
     <li>
-工作表到图像
+工作表至图像
     </li>
     <li>
-电子表格至 PDF
+电子表格发送至 PDF
     </li>
    </ul>
   </div>
@@ -67,7 +67,7 @@ Aspose.Cells for Python via .Net 是一个快速可靠的 API，用于电子表�
    </header>
    <ul>
     <li>
-应用格式设置
+应用格式
     </li>
     <li>
 应用公式
@@ -105,7 +105,7 @@ Aspose.Cells for Python via .Net 是一个快速可靠的 API，用于电子表�
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="平台独立性" description="Aspose.Cells for Python via .NET 可用。" >}}
+{{< blocks/products/pf/carousel-item h3="平台独立性" description="Aspose.Cells for Python via .NET 可供使用。" >}}
 <div class="diagram1 d1-python">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -115,7 +115,7 @@ Aspose.Cells for Python via .Net 是一个快速可靠的 API，用于电子表�
    <header style="padding-left: 0px;">
     <i class="fa fa-cogs">
     </i>
- Python 运行环境
+ Python 运行时环境
    </header>
    <!--<ul>
 
@@ -145,7 +145,7 @@ Aspose.Cells for Python via .Net 是一个快速可靠的 API，用于电子表�
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="支持的文件格式" description="Python Excel 库支持流行的 Microsoft Excel 格式、固定布局格式和图像。" >}}
+{{< blocks/products/pf/carousel-item h3="支持的文件格式" description="Python excel 库支持流行的 Microsoft Excel 格式、固定布局格式和图像。" >}}
 <div class="diagram1 d2 d1-python">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -159,7 +159,7 @@ Aspose.Cells for Python via .Net 是一个快速可靠的 API，用于电子表�
      <b>
 Microsoft Excel：
      </b>
- XLS、XLSX、XLSB、XLT、XLTX、XLTM、XLSM、XML、OTS
+ XLS, XLSX, XLSB, XLT, XLTX, XLTM, XLSM, XML, OTS
     </li>
     <li>
      <b>
@@ -175,7 +175,7 @@ Microsoft Excel：
     </li>
     <li>
      <b>
-网址：
+网站：
      </b>
      HTML, MHTML
     </li>
@@ -183,7 +183,7 @@ Microsoft Excel：
      <b>
       Numbers:
      </b>
-苹果iWork办公套件Numbers应用文档
+苹果 iWork 办公套件 Numbers 应用程序文档
     </li>
     <li>
      <b>
@@ -267,7 +267,7 @@ Microsoft Excel：
     <em class="fa fa-file-text-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-读取 Excel 电子表格
+阅读 Excel 电子表格
     </p>
    </div>
    <div class="col-lg-4">
@@ -344,7 +344,7 @@ Microsoft Excel：
     <em class="fa fa-calculator ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-读取并设置公式
+读取和设置公式
     </p>
    </div>
    <div class="col-lg-4">
@@ -365,7 +365,7 @@ Microsoft Excel：
     <em class="fa fa-edit ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-阅读&amp;编写条件格式
+读取和写入条件格式
     </p>
    </div>
    <!--
@@ -440,11 +440,11 @@ Microsoft Excel：
 多种格式转换
     </h2>
     <p>
-Python Excel 库提供 Excel 文件到 PDF、XPS 和 PDF 的转换。 HTML 格式。 API 的可靠转换使其成为需要以行业标准格式交换文件的公司的完美解决方案。
+Python Excel 库提供将 Excel 文件转换为 PDF、XPS 和 HTML 格式的功能。API 的可靠转换使其成为需要以行业标准格式交换文件的公司的完美解决方案。
     </p>
     <div class="codeblock" id="code">
      <h3>
-以不同格式保存电子表格
+以不同的格式保存电子表格
      </h3>
      <pre><code class="net">
 
@@ -489,7 +489,7 @@ wk.save("houtput.html", SaveFormat.HTML);</code></pre>
 灵活的显示选项
     </h2>
     <p>
- Aspose.Cells for Python via .NET 提供对页面设置的完全控制，允许操作多个显示选项，例如预览分页符、设置缩放级别、设置页面方向、通过冻结窗格控制数据可见性、纸张大小、缩放、标题和标题。页脚和打印区域。
+ Aspose.Cells for Python via .NET 提供对页面设置的完全控制，允许操作多个显示选项，如预览分页符、设置缩放级别、设置页面方向、使用冻结窗格控制数据可见性、纸张尺寸、缩放、页眉和页脚以及打印区域。
     </p>
    </div>
    <!--<div class="col-lg-12">
@@ -512,7 +512,7 @@ wk.save("houtput.html", SaveFormat.HTML);</code></pre>
  Excel 表格数据管理
     </h2>
     <p>
-Aspose.Cells for Python via .NET API 为工作表数据管理提供广泛的支持。人们可以在运行时轻松地操作工作表中的任何单元格，或者将数据从各种数据源导入到工作表中。
+Aspose.Cells for Python via .NET API 为工作表数据管理提供广泛的支持。用户可在运行时轻松操作工作表中的任何单元格，或将数据从各种数据源导入工作表。
     </p>
    </div>
    <div class="col-lg-12">
@@ -520,7 +520,7 @@ Aspose.Cells for Python via .NET API 为工作表数据管理提供广泛的支�
 图表定制
     </h2>
     <p>
-Aspose.Cells for Python via .NET 提供对图表的全面支持。人们可以轻松地添加标准和自定义图表或动态设置图表数据，以便通过这个 python 库刷新图表。
+Aspose.Cells for Python via .NET 提供对图表的全面支持。可以轻松添加标准和自定义图表或动态设置图表数据，以便通过此 Python 库刷新图表。
     </p>
    </div>
    <!--
@@ -554,7 +554,7 @@ Aspose.Cells for Python via .NET 提供对图表的全面支持。人们可以�
 {{< blocks/products/pf/slr-element name="博客" href="https://blog.aspose.com/category/cells/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
-{{< blocks/products/pf/slr-tab tabTitle="为什么是Aspose.Cells for Python via .NET？" tabId="success-stories" >}}
+{{< blocks/products/pf/slr-tab tabTitle="为什么是 Aspose.Cells for Python via .NET？" tabId="success-stories" >}}
 {{< blocks/products/pf/slr-element name="客户名单" href="https://company.aspose.com/customers" >}}
 {{< blocks/products/pf/slr-element name="成功的故事" href="https://company.aspose.com/customers/success-stories/aspose-cells" >}}
 {{< /blocks/products/pf/slr-tab >}}
@@ -563,7 +563,7 @@ Aspose.Cells for Python via .NET 提供对图表的全面支持。人们可以�
 
 {{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://releases.aspose.com/cells/python-net/" pricingInformationLink="https://purchase.aspose.com/pricing/cells/python-net" >}}
 
-{{< blocks/products/pf/offers-section pfName="Aspose.Cells" description="Aspose.Cells 为其他流行的开发环境提供单独的 Excel API，如下所列：" >}}
+{{< blocks/products/pf/offers-section pfName="Aspose.Cells" description="Aspose.Cells 为其他流行的开发环境提供了单独的 Excel API，如下所示：" >}}
 
     {{< blocks/products/pf/offers-section-item link="/cells/net/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sdkName=".NET" >}}
     {{< blocks/products/pf/offers-section-item link="/cells/java/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sdkName="Java" >}}

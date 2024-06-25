@@ -13,7 +13,7 @@ keywords: [C++ library execl Aspose.Cells Create repair parse merge convert JSON
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
-Biblioteka Aspose.Cells C++ jest natywną biblioteką C++ do manipulacji arkuszami kalkulacyjnymi. Aplikacje mogą wykonywać takie funkcje, jak tworzenie, konwertowanie i edycja wbudowanych i niestandardowych właściwości arkusza kalkulacyjnego, motywów, stylów i formatowania, sprawdzania poprawności danych, formatowania warunkowego, odczytywania, pisania i obliczania formuł, grupowania wierszy i kolumn oraz wielu innych bez polegania na automatyzacji pakietu Office lub Microsoft Excel. API obsługuje najpopularniejsze formaty arkuszy kalkulacyjnych (takie jak XLS, XLSX, XLSM i XLSB), a także inne typy formatów plików (takie jak PDF, XPS) i najpopularniejsze formaty obrazów (takie jak JPEG, PNG, BMP, TIFF , GIF, EMF, SVG).
+Biblioteka Aspose.Cells C++ jest natywną biblioteką C++ do manipulacji arkuszami kalkulacyjnymi. Aplikacje mogą wykonywać takie funkcje, jak tworzenie, konwertowanie i edytowanie wbudowanych i niestandardowych właściwości arkusza kalkulacyjnego, motywów, stylów i formatowania, sprawdzanie poprawności danych, formatowanie warunkowe, odczytywanie, pisanie i obliczanie formuł, grupowanie wierszy i kolumn oraz wiele więcej bez polegania na automatyzacji pakietu Office lub Microsoft Excel. API obsługuje najpopularniejsze formaty arkuszy kalkulacyjnych (takie jak XLS, XLSX, XLSM i XLSB), a także inne typy formatów plików (takie jak PDF, XPS) i najpopularniejsze formaty obrazów (takie jak JPEG, PNG, BMP, TIFF , GIF, EMF, SVG).
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
@@ -444,7 +444,7 @@ Utwórz reguły formatowania warunkowego
  Zerowa zależność od Microsoft Excel
     </h2>
     <p>
- Biblioteka Aspose.Cells C++ dla programu Excel jest całkowicie niezależna i nie jest powiązana z korporacją Microsoft, nie jest autoryzowana, sponsorowana ani w żaden inny sposób przez nią zatwierdzona. Biblioteka Aspose.Cells C++ nigdy nie wymaga instalowania na komputerze pakietu Microsoft Office ani Microsoft Excel, aby pracować z formatami dokumentów Excel.
+ Biblioteka Aspose.Cells C++ dla programu Excel jest całkowicie niezależna i nie jest powiązana z firmą Microsoft Corporation, nie jest autoryzowana, sponsorowana ani w inny sposób zatwierdzona przez nią. Biblioteka Aspose.Cells C++ nigdy nie wymaga instalowania na komputerze pakietu Microsoft Office ani Microsoft Excel, aby pracować z formatami dokumentów Excel.
     </p>
    </div>
    <div class="col-lg-12">

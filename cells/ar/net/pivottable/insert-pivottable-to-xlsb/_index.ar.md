@@ -68,7 +68,7 @@ keywords: [C# Aspose.Cells., c# add PivotTable in xlsb., c# insert PivotTable in
 
 {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLSB" readMoreLink="https://docs.fileformat.com/spreadsheet/xlsb/" >}}
 
-يحدد تنسيق الملف XLSB تنسيق ملف Excel الثنائي، وهو عبارة عن مجموعة من السجلات والهياكل التي تحدد محتوى مصنف Excel. يمكن أن يتضمن المحتوى جداول غير منظمة أو شبه منظمة من الأرقام أو النصوص أو كل من الأرقام والنصوص والصيغ واتصالات البيانات الخارجية والمخططات والصور. على عكس XLSX (الذي يعتمد على تنسيق ملف XML المفتوح)، يمثل XLSB ملف مصنف Excel الثنائي. يمكن قراءة وكتابة ملفات XLSB بشكل أسرع مما يجعلها مفيدة للعمل مع الملفات الكبيرة. نادرًا ما يتم استخدام XLSB لتخزين المصنفات حيث أن XLSX (وسابقًا XLS) هي تنسيقات الملفات المحددة الأكثر شيوعًا من قبل المستخدم لحفظ المصنفات. يمكن فتحه بواسطة Microsoft Office 2007 وما فوق.
+يحدد تنسيق الملف XLSB تنسيق ملف Excel الثنائي، وهو عبارة عن مجموعة من السجلات والهياكل التي تحدد محتوى مصنف Excel. يمكن أن يشتمل المحتوى على جداول أرقام غير منظمة أو شبه منظمة، أو نصوص، أو كل من الأرقام والنصوص، والصيغ، واتصالات البيانات الخارجية، والمخططات والصور. على عكس XLSX (الذي يعتمد على تنسيق ملف XML المفتوح)، يمثل XLSB ملف مصنف Excel الثنائي. يمكن قراءة وكتابة ملفات XLSB بشكل أسرع مما يجعلها مفيدة للعمل مع الملفات الكبيرة. نادرًا ما يتم استخدام XLSB لتخزين المصنفات حيث أن XLSX (وسابقًا XLS) هي تنسيقات الملفات المحددة الأكثر شيوعًا من قبل المستخدم لحفظ المصنفات. يمكن فتحه بواسطة Microsoft Office 2007 وما فوق.
 
 {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
@@ -77,10 +77,10 @@ keywords: [C# Aspose.Cells., c# add PivotTable in xlsb., c# insert PivotTable in
 
 {{< blocks/products/pf/agp/other-supported-section title="تنسيقات PivotTable المدعومة الأخرى" subTitle="يمكنك أيضًا إنشاء تنسيقات Excel Microsoft أخرى باستخدام PivotTable بما في ذلك القليل منها المدرج أدناه." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/insert-pivottable-to-xls/" name="XLS" description="Microsoft جدول بيانات Excel (قديم)" >}} 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/insert-pivottable-to-xlsx/" name="XLSX" description="افتح مصنف XML" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/insert-pivottable-to-xlsb/" name="XLSB" description="مصنف Excel الثنائي" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/insert-pivottable-to-xlsm/" name="XLSM" description="جدول بيانات مزود بتقنية الماكرو" >}} 
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/pivottable/insert-pivottable-to-xls/" name="XLS" description="Microsoft جدول بيانات Excel (قديم)" >}} 
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/pivottable/insert-pivottable-to-xlsx/" name="XLSX" description="افتح مصنف XML" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/pivottable/insert-pivottable-to-xlsb/" name="XLSB" description="مصنف Excel الثنائي" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/pivottable/insert-pivottable-to-xlsm/" name="XLSM" description="جدول بيانات مزود بتقنية الماكرو" >}} 
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

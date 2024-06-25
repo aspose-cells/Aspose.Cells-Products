@@ -1,7 +1,7 @@
 ---
 title: Wyodrębnij tekst i obrazy z dokumentu XLSX pod numerem C++
 weight: 570
-description: C++ przykładowy kod do wyodrębnienia tekstu i obrazów z pliku XLSX w C++ Środowisko wykonawcze dla Windows 32-bitowego, Windows 64-bitowego i 64-bitowego systemu Linux.
+description: C++ przykładowy kod do wyodrębnienia tekstu i obrazów z pliku XLSX w C++ Środowisko wykonawcze dla Windows 32-bitowy, Windows 64-bitowy i Linux 64-bitowy.
 keywords: [C++ Aspose.Cells., C++ Extract text and images from XLSX file., C++ How to Parse XLSX File., C++ Extract text from XLSX file., Extract images from XLSX file using C++]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

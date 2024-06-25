@@ -1,5 +1,5 @@
 ---
-title: Inserisci il grafico pivot nei file Micorsoft Excel XLSB tramite C#
+title:  Inserisci il grafico pivot nei file Micorsoft Excel XLSB tramite C#
 weight: 7690
 description: C# Codice di esempio per aggiungere il grafico pivot a XLSB utilizzando la libreria .NET. Utilizzare questo codice per inserire il grafico pivot nel file XLSB all'interno di VB.NET, Asp.NET o qualsiasi applicazione basata su .NET.
 keywords: [C# Aspose.Cells., c# add pivot chart in xlsb., c# insert pivot chart in xlsb., c# create pivot chart in xlsb., c# modify pivot chart in xlsb., access pivot chart in xlsb]
@@ -12,7 +12,7 @@ keywords: [C# Aspose.Cells., c# add pivot chart in xlsb., c# insert pivot chart 
 
 {{% blocks/products/pf/agp/content h2="" %}}
 
- Generare dinamicamente il file MS Excel XLSB con il grafico pivot all'interno dell'applicazione in esecuzione è semplice. Per creare da zero i documenti XLSB con Grafico pivot senza richiedere MS Office, utilizzeremo[Aspose.Cells for .NET](https://products.aspose.com/cells/net) API che offre diverse funzionalità per la creazione, manipolazione e conversione di fogli di calcolo utilizzando la piattaforma .NET. Gli sviluppatori possono facilmente migliorare il codice per scrivere dati, generare diagrammi o grafici nonché creare tabelle in fogli di calcolo.
+Generare il file MS Excel XLSB con il grafico pivot in modo dinamico all'interno dell'applicazione in esecuzione è semplice. Per creare da zero i documenti XLSB con Grafico pivot senza richiedere MS Office, utilizzeremo[Aspose.Cells for .NET](https://products.aspose.com/cells/net) API che offre diverse funzionalità per la creazione, manipolazione e conversione di fogli di calcolo utilizzando la piattaforma .NET. Gli sviluppatori possono facilmente migliorare il codice per scrivere dati, generare diagrammi o grafici nonché creare tabelle in fogli di calcolo.
 {{% /blocks/products/pf/agp/content %}}
 
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
@@ -77,10 +77,10 @@ Il formato file XLSB specifica il formato file binario di Excel, ovvero una racc
 
 {{< blocks/products/pf/agp/other-supported-section title="Altri formati di grafici pivot supportati" subTitle="Puoi anche creare altri formati Excel Microsoft con il grafico pivot, inclusi alcuni elencati di seguito." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/insert-pivot-chart-to-xls/" name="XLS" description="Microsoft Foglio di calcolo Excel (precedente)" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/insert-pivot-chart-to-xlsx/" name="XLSX" description="Apri la cartella di lavoro XML" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/insert-pivot-chart-to-xlsb/" name="XLSB" description="Cartella di lavoro binaria di Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/insert-pivot-chart-to-xlsm/" name="XLSM" description="Foglio di calcolo abilitato per le macro" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/pivottable/insert-pivot-chart-to-xls/" name="XLS" description="Microsoft Foglio di calcolo Excel (precedente)" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/pivottable/insert-pivot-chart-to-xlsx/" name="XLSX" description="Apri la cartella di lavoro XML" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/pivottable/insert-pivot-chart-to-xlsb/" name="XLSB" description="Cartella di lavoro binaria di Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/pivottable/insert-pivot-chart-to-xlsm/" name="XLSM" description="Foglio di calcolo abilitato per le macro" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

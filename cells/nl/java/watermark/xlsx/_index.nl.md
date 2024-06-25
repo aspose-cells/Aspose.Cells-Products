@@ -52,7 +52,7 @@ keywords: [Java Aspose.Cells., Java add watermark to XLSX file., Java insert wat
 
 {{% /blocks/products/pf/agp/text %}}
 
-1.  Maak een nieuw werkboekobject
+1.  Maak een nieuw werkmapobject
 1.  Selecteer Werkblad via de index
 1.  Maak een vorm en gebruik de functie addTextEffect
 1.  Kleuren, transparantie en meer instellen
@@ -125,7 +125,7 @@ workbook.save(dataDir + "AWArtWToWorksheet_out.xlsx");
     {{< blocks/products/pf/agp/about-file-section >}}
 
         {{< blocks/products/pf/agp/demobox sectionTitle="Watermerk XLSX via online app" sectionDescription=" Voeg een watermerk toe aan XLSX-documenten door naar onze[Live demo-website](https://products.aspose.app/cells/watermark). De live demo heeft de volgende voordelen" >}}
-            {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" hoeft niets te downloaden of in te stellen" >}}
+            {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" U hoeft niets te downloaden of in te stellen" >}}
             {{< blocks/products/pf/agp/democard icon="fa-edit" text=" U hoeft geen code te schrijven" >}}
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Upload gewoon uw XLSX-bestand, stel uw watermerk in en klik op de knop \"Toevoegen\"." >}}
             {{< blocks/products/pf/agp/democard icon="fa-download" text=" Ontvang direct de downloadlink voor het resulterende bestand" >}}

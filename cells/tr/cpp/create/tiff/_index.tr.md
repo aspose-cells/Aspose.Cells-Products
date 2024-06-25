@@ -109,7 +109,7 @@ Sisteminize "Aspose.Cells for C++" kurulumu için üç seçenek bulunmaktadır. 
 
 <!-- aboutfile Starts -->
     {{< blocks/products/pf/agp/about-file-section >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="TIFF" readMoreLink="https://docs.fileformat.com/image/tiff/" >}}TIFF veya TIF, Etiketli Görüntü Dosyası Formatı, bu dosya formatı standardına uygun çeşitli cihazlarda kullanılması amaçlanan taramalı görüntüleri temsil eder. Çeşitli renk uzaylarında iki seviyeli, gri tonlamalı, palet renkli ve tam renkli görüntü verilerini tanımlama yeteneğine sahiptir. Formatı kullanan uygulamalar için uzay ve zaman arasında seçim yapmak üzere kayıplı ve kayıpsız sıkıştırma düzenlerini destekler. Format makineye bağlı değildir ve işlemci, işletim sistemi veya dosya sistemi gibi sınırlamalardan muaftır.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="TIFF" readMoreLink="https://docs.fileformat.com/image/tiff/" >}}TIFF veya TIF, Etiketli Görüntü Dosyası Formatı, bu dosya formatı standardına uygun çeşitli cihazlarda kullanılması amaçlanan taramalı görüntüleri temsil eder. Çeşitli renk uzaylarında iki düzeyli, gri tonlamalı, palet renkli ve tam renkli görüntü verilerini tanımlama yeteneğine sahiptir. Formatı kullanan uygulamalar için uzay ve zaman arasında seçim yapmak üzere kayıplı ve kayıpsız sıkıştırma düzenlerini destekler. Format makineye bağlı değildir ve işlemci, işletim sistemi veya dosya sistemi gibi sınırlamalardan muaftır.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
     {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->
 

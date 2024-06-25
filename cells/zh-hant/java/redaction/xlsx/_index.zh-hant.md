@@ -134,7 +134,7 @@ workbook.save(dataDir + "output.xlsx");
 
 {{< blocks/products/pf/agp/about-file-section >}}
 
-    {{< blocks/products/pf/agp/demobox sectionTitle="線上 XLSX 密文現場演示" sectionDescription="立即透過造訪我們的網站搜尋並取代 XLSX 文件中的內容、評論或元資料中的文本[現場示範網站](https://products.aspose.app/cells/redaction)。現場演示有以下好處" >}}
+    {{< blocks/products/pf/agp/demobox sectionTitle="線上 XLSX 編輯現場演示" sectionDescription="立即透過造訪我們的網站搜尋並取代 XLSX 文件中的內容、評論或元資料中的文本[現場示範網站](https://products.aspose.app/cells/redaction)。現場演示有以下好處" >}}
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text="無需下載Aspose API。" >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text="無需編寫任何程式碼。" >}}
         {{< blocks/products/pf/agp/democard icon="fa-file-text" text="只需上傳您的 XLSX 文件即可。" >}}
@@ -142,7 +142,7 @@ workbook.save(dataDir + "output.xlsx");
     {{< /blocks/products/pf/agp/demobox >}}
 
     {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLSX" readMoreLink="https://docs.fileformat.com/spreadsheet/xlsx/" >}}
-XLSX 是 Microsoft Excel 文件的眾所周知的格式，由 Microsoft 在 Microsoft Office 2007 版本中引入。基於根據 OOXML 標準 ECMA-376 第 2 部分中概述的開放性打包約定組織的結構，新套件為許多。只需解壓縮 .xlsx 檔案即可檢查底層結構和檔案。
+XLSX 是 Microsoft Excel 文件的眾所周知的格式，由 Microsoft 在 Microsoft Office 2007 版本中引入。 。只需解壓縮 .xlsx 檔案即可檢查底層結構和檔案。
 
     {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 

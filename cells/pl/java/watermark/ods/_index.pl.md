@@ -125,13 +125,13 @@ workbook.save(dataDir + "AWArtWToWorksheet_out.ods");
     {{< blocks/products/pf/agp/about-file-section >}}
 
         {{< blocks/products/pf/agp/demobox sectionTitle="Znak wodny ODS za pośrednictwem aplikacji internetowej" sectionDescription=" Dodaj znak wodny do dokumentów ODS odwiedzając naszą stronę[Witryna internetowa z prezentacjami na żywo](https://products.aspose.app/cells/watermark). Demo na żywo ma następujące zalety" >}}
-            {{< blocks/products/pf/agp/democard icon="fa-cogs" text="Nie trzeba niczego pobierać ani konfigurować" >}}
+            {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Nie trzeba niczego pobierać ani konfigurować" >}}
             {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Nie trzeba pisać żadnego kodu" >}}
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Po prostu prześlij plik ODS, ustaw znak wodny i naciśnij przycisk „Dodaj”." >}}
             {{< blocks/products/pf/agp/democard icon="fa-download" text=" Natychmiast uzyskaj łącze do pobrania pliku wynikowego" >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="ODS" readMoreLink="https://docs.fileformat.com/spreadsheet/ods/" >}}
-Pliki z rozszerzeniem ODS dla formatu dokumentu arkusza kalkulacyjnego OpenDocument, które mogą być edytowane przez użytkownika. Dane są przechowywane w pliku ODF w wierszach i kolumnach. Jest to format oparty na języku XML i jest jednym z kilku podtypów rodziny formatów dokumentów otwartych (ODF). Format jest określony jako część specyfikacji ODF 1.2 opublikowanej i utrzymywanej przez firmę OASIS. Wiele aplikacji na Windows, a także na innych systemach operacyjnych, może otwierać pliki ODS do edycji i manipulacji, w tym Microsoft Excel, NeoOffice i LibreOffice. Pliki ODS można również konwertować na inne formaty arkuszy kalkulacyjnych, takie jak XLS, XLSX i inne, za pomocą różnych aplikacji.
+Pliki z rozszerzeniem ODS dla formatu dokumentu arkusza kalkulacyjnego OpenDocument, które mogą być edytowane przez użytkownika. Dane są przechowywane w pliku ODF w wierszach i kolumnach. Jest to format oparty na języku XML i jest jednym z kilku podtypów rodziny formatów dokumentów otwartych (ODF). Format jest określony jako część specyfikacji ODF 1.2 opublikowanej i utrzymywanej przez firmę OASIS. Wiele aplikacji na Windows, a także na innych systemach operacyjnych może otwierać pliki ODS do edycji i manipulacji, w tym Microsoft Excel, NeoOffice i LibreOffice. Pliki ODS można również konwertować na inne formaty arkuszy kalkulacyjnych, takie jak XLS, XLSX i inne, za pomocą różnych aplikacji.
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 

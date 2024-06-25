@@ -1,7 +1,7 @@
 ---
 title:  Java Excel API - Aspose
 weight: 6830
-description:  Aspose.Cells for Java könyvtár Excel fájlok létrehozásához, javításához, egyesítéséhez, elemzéséhez és konvertálásához. Az Excel konvertálása PDF, JSON, CSV, HTML és így tovább.
+description:  Aspose.Cells for Java könyvtár Excel fájlok létrehozásához, javításához, egyesítéséhez, elemzéséhez és konvertálásához. Konvertálja az Excelt PDF, JSON, CSV, HTML és így tovább.
 keywords: [Java Aspose.Cells Create repair parse merge convert JSON Excel XML PDF HTML TSV MHTML XPS CSV PNG JPEG and more formats]
 ---
 {{< blocks/products/pf/main-wrap-class >}}
@@ -340,14 +340,14 @@ Létrehozás &amp; manipulálni a megjegyzéseket
     <em class="fa fa-align-center ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Létrehozása &amp; feltételes formázási szabályokat manipulálni
+ Létrehozás &amp; feltételes formázási szabályokat manipulálni
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-sort-amount-desc ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Létrehozása &amp; manipulálni a megnevezett tartományokat
+ Létrehozás &amp; manipulálni a megnevezett tartományokat
     </p>
    </div>
    <div class="col-lg-4">
@@ -504,7 +504,7 @@ Nagyon nagy táblázatokkal nehéz lehet összefoglaló információkat szerezni
 
 {{< /blocks/products/pf/main-container >}}
 
-{{< blocks/products/pf/i18n/testimonials title="Mit mondanak az emberek" subTitle="Ne csak a szavunkat fogadja. Tekintse meg, mit mondanak a felhasználók a táblázatkezelő API-król." caseStudiesLink="https://downloads.aspose.com/corporate/case-studies/aspose.cells/" >}}
+{{< blocks/products/pf/i18n/testimonials title="Mit mondanak az emberek" subTitle="Ne csak szót fogadjon. Tekintse meg, mit mondanak a felhasználók a táblázatkezelő API-król." caseStudiesLink="https://downloads.aspose.com/corporate/case-studies/aspose.cells/" >}}
 
 {{< blocks/products/pf/testimonials-quote >}}
 <p class="first">

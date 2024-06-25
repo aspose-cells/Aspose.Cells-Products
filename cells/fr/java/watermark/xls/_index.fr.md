@@ -64,7 +64,7 @@ keywords: [Java Aspose.Cells., Java add watermark to xls file., Java insert wate
 
 {{% blocks/products/pf/agp/text %}}
 
- Aspose.Cells for Java prend en charge sur toutes les principales plates-formes et systèmes d'exploitation. Veuillez vous assurer que vous disposez des prérequis suivants.
+ Aspose.Cells for Java prend en charge toutes les principales plates-formes et systèmes d'exploitation. Veuillez vous assurer que vous disposez des prérequis suivants.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -125,7 +125,7 @@ workbook.save(dataDir + "AWArtWToWorksheet_out.xls");
     {{< blocks/products/pf/agp/about-file-section >}}
 
         {{< blocks/products/pf/agp/demobox sectionTitle="Filigrane XLS via l\'application en ligne" sectionDescription=" Ajoutez un filigrane aux documents XLS en visitant notre[Site Web de démonstrations en direct](https://products.aspose.app/cells/watermark). La démo en direct présente les avantages suivants" >}}
-            {{< blocks/products/pf/agp/democard icon="fa-cogs" text="Pas besoin de télécharger ou de configurer quoi que ce soit" >}}
+            {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Pas besoin de télécharger ou de configurer quoi que ce soit" >}}
             {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Pas besoin d\'écrire de code" >}}
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Téléchargez simplement votre fichier XLS, définissez votre filigrane et cliquez sur le bouton \"Ajouter\"." >}}
             {{< blocks/products/pf/agp/democard icon="fa-download" text=" Obtenez instantanément le lien de téléchargement du fichier résultant" >}}

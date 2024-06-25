@@ -1,5 +1,5 @@
 ---
-title: درج Pivot Chart در فایل های Micorsoft Excel XLS از طریق C#
+title:  درج Pivot Chart در فایل های Micorsoft Excel XLS از طریق C#
 weight: 7690
 description: C# نمونه کد افزودن Pivot Chart به XLS با استفاده از کتابخانه .NET. از این کد برای درج Pivot Chart به فایل XLS در VB.NET، Asp.NET یا هر برنامه مبتنی بر .NET استفاده کنید.
 keywords: [C# Aspose.Cells., c# add pivot chart in xls., c# insert pivot chart in xls., c# create pivot chart in xls., c# modify pivot chart in xls., access pivot chart in xls]
@@ -12,7 +12,7 @@ keywords: [C# Aspose.Cells., c# add pivot chart in xls., c# insert pivot chart i
 
 {{% blocks/products/pf/agp/content h2="" %}}
 
- تولید فایل MS Excel XLS با نمودار Pivot به صورت پویا در برنامه در حال اجرا آسان است. به منظور ایجاد اسناد XLS با نمودار Pivot از ابتدا بدون نیاز به MS Office، ما از[Aspose.Cells for .NET](https://products.aspose.com/cells/net) API که ویژگی های مختلفی را برای ایجاد، دستکاری و تبدیل صفحات گسترده با استفاده از پلت فرم .NET ارائه می دهد. توسعه دهندگان می توانند به راحتی کد را برای نوشتن داده ها، تولید نمودارها یا نمودارها و همچنین ایجاد جدول در صفحات گسترده افزایش دهند.
+تولید فایل MS Excel XLS با نمودار Pivot به صورت پویا در برنامه در حال اجرا آسان است. به منظور ایجاد اسناد XLS با نمودار Pivot از ابتدا بدون نیاز به MS Office، ما از[Aspose.Cells for .NET](https://products.aspose.com/cells/net) API که ویژگی های مختلفی را برای ایجاد، دستکاری و تبدیل صفحات گسترده با استفاده از پلت فرم .NET ارائه می دهد. توسعه دهندگان می توانند به راحتی کد را برای نوشتن داده ها، تولید نمودارها یا نمودارها و همچنین ایجاد جدول در صفحات گسترده افزایش دهند.
 {{% /blocks/products/pf/agp/content %}}
 
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
@@ -76,10 +76,10 @@ keywords: [C# Aspose.Cells., c# add pivot chart in xls., c# insert pivot chart i
 
 {{< blocks/products/pf/agp/other-supported-section title="سایر قالب‌های نمودار محوری پشتیبانی شده" subTitle="همچنین می‌توانید سایر قالب‌های اکسل Microsoft را با نمودار محوری ایجاد کنید که تعدادی از آنها در زیر فهرست شده‌اند." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/insert-pivot-chart-to-xls/" name="XLS" description="Microsoft صفحه گسترده اکسل (قدیمی)" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/insert-pivot-chart-to-xlsx/" name="XLSX" description="XML Workbook را باز کنید" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/insert-pivot-chart-to-xlsb/" name="XLSB" description="کتاب کار باینری اکسل" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/insert-pivot-chart-to-xlsm/" name="XLSM" description="صفحه گسترده ماکرو فعال" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/pivottable/insert-pivot-chart-to-xls/" name="XLS" description="Microsoft صفحه گسترده اکسل (قدیمی)" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/pivottable/insert-pivot-chart-to-xlsx/" name="XLSX" description="XML Workbook را باز کنید" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/pivottable/insert-pivot-chart-to-xlsb/" name="XLSB" description="کتاب کار باینری اکسل" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/pivottable/insert-pivot-chart-to-xlsm/" name="XLSM" description="صفحه گسترده ماکرو فعال" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

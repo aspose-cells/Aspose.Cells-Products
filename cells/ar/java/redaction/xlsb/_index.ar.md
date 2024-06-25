@@ -58,7 +58,7 @@ keywords: [Java Aspose.Cells., Java Search and replace text in XLSB file., Java 
 + حدد الورقة ذات الصلة.
 + تحديد وتحديد FindOptions.
 + حدد النطاق الذي تريد البحث فيه
-+ قم بالتكرار خلال كل خلية واستخدم getCells().find(...).
+قم بالتكرار خلال كل خلية واستخدم getCells().find(...).
 + استبدال القيمة.
 + احفظ المصنف.
 
@@ -72,7 +72,7 @@ keywords: [Java Aspose.Cells., Java Search and replace text in XLSB file., Java 
 
 {{% /blocks/products/pf/agp/text %}}
 
-- Microsoft Windows أو نظام تشغيل متوافق مع Java Runtime Environment لتطبيقات JSP/JSF وتطبيقات سطح المكتب.
+-  Microsoft Windows أو نظام تشغيل متوافق مع Java Runtime Environment لتطبيقات JSP/JSF وتطبيقات سطح المكتب.
 -  احصل على أحدث إصدار من Aspose.Cells for Java مباشرة من
  [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells)  .
 
@@ -142,7 +142,7 @@ workbook.save(dataDir + "output.xlsb");
     {{< /blocks/products/pf/agp/demobox >}}
 
     {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLSB" readMoreLink="https://docs.fileformat.com/spreadsheet/xlsb/" >}}
-يحدد تنسيق الملف XLSB تنسيق ملف Excel الثنائي، وهو عبارة عن مجموعة من السجلات والهياكل التي تحدد محتوى مصنف Excel. يمكن أن يتضمن المحتوى جداول غير منظمة أو شبه منظمة من الأرقام أو النصوص أو كل من الأرقام والنصوص والصيغ واتصالات البيانات الخارجية والمخططات والصور. على عكس XLSX (الذي يعتمد على تنسيق ملف XML المفتوح)، يمثل XLSB ملف مصنف Excel الثنائي. يمكن قراءة وكتابة ملفات XLSB بشكل أسرع مما يجعلها مفيدة للعمل مع الملفات الكبيرة. نادرًا ما يتم استخدام XLSB لتخزين المصنفات حيث أن XLSX (وسابقًا XLS) هي تنسيقات الملفات المحددة الأكثر شيوعًا من قبل المستخدم لحفظ المصنفات. يمكن فتحه بواسطة Microsoft Office 2007 وما فوق.
+يحدد تنسيق الملف XLSB تنسيق ملف Excel الثنائي، وهو عبارة عن مجموعة من السجلات والهياكل التي تحدد محتوى مصنف Excel. يمكن أن يشتمل المحتوى على جداول أرقام غير منظمة أو شبه منظمة، أو نصوص، أو كل من الأرقام والنصوص، والصيغ، واتصالات البيانات الخارجية، والمخططات والصور. على عكس XLSX (الذي يعتمد على تنسيق ملف XML المفتوح)، يمثل XLSB ملف مصنف Excel الثنائي. يمكن قراءة وكتابة ملفات XLSB بشكل أسرع مما يجعلها مفيدة للعمل مع الملفات الكبيرة. نادرًا ما يتم استخدام XLSB لتخزين المصنفات حيث أن XLSX (وسابقًا XLS) هي تنسيقات الملفات المحددة الأكثر شيوعًا من قبل المستخدم لحفظ المصنفات. يمكن فتحه بواسطة Microsoft Office 2007 وما فوق.
 
     {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 

@@ -1,7 +1,7 @@
 ---
 title: C++ Excel 庫 - Aspose.Cells
 weight: 7140
-description: Aspose.Cells for C++ 建立、修復、合併、解析和轉換 Excel 檔案的程式庫。將excel轉換為PDF、JSON、XML、TSV等。
+description: Aspose.Cells for C++ 用於建立、修復、合併、解析和轉換 Excel 檔案的程式庫。將excel轉換為PDF、JSON、XML、TSV等。
 keywords: [C++ library execl Aspose.Cells Create repair parse merge convert JSON Excel XML PDF HTML TSV SQL ODS CSV TXT PNG JPEG and more formats]
 ---
 {{< blocks/products/pf/main-wrap-class >}}
@@ -13,7 +13,7 @@ keywords: [C++ library execl Aspose.Cells Create repair parse merge convert JSON
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
-Aspose.Cells C++ 庫是用於電子表格操作的本機 C++ 庫。應用程式可以執行諸如創建、轉換和編輯電子表格的內建和自訂屬性、主題、樣式和格式、資料驗證、條件格式、讀取、編寫和計算公式、對行和列進行分組等功能，而無需依賴辦公室自動化或 Microsoft Excel。 API支援最常見的電子表格格式（例如XLS、XLSX、XLSM和XLSB）以及其他類型的檔案格式（例如PDF、XPS）和最常見的圖像格式（例如107611,103481 1031761311371371137133）、13681131761313711333）。 1133481, TIFF 、GIF、 EMF、SVG）。
+Aspose.Cells C++ 庫是用於電子表格操作的本機 C++ 庫。應用程式可以執行諸如創建、轉換和編輯電子表格的內建和自訂屬性、主題、樣式和格式、資料驗證、條件格式、讀取、編寫和計算公式、對行和列進行分組等功能，而無需依賴辦公室自動化或 Microsoft Excel。 API支援最常見的電子表格格式（例如XLS、XLSX、XLSM和XLSB）以及其他類型的檔案格式（例如PDF、XPS）和最常見的圖像格式（例如107611,101,101,1071,10713713211333） 61133481, TIFF 、GIF、 EMF、SVG）。
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
@@ -135,7 +135,7 @@ Windows 32位
    <header>
     <i class="fa fa-cubes">
     </i>
-Windows 64位
+Windows 64 位
    </header>
   </div>
   <!--/left-->
@@ -492,7 +492,7 @@ Aspose.Cells C++ 庫提供了一套全面的 API，可動態建立 Excel 應用�
 將工作表渲染為圖像
     </h2>
     <p>
-Aspose.Cells C++ 庫使用自己的渲染引擎以最高保真度渲染 Microsoft Excel。它提供了獨特的功能，例如將工作表渲染為流行格式的圖像，包括 BMP、TIFF、PNG、JPEG 和 JPEG。 EMF。Sheet2Image 過程非常靈活，因此允許選擇選項，例如控制結果影像的解析度。
+Aspose.Cells C++ 庫使用自己的渲染引擎以最高保真度渲染 Microsoft Excel。它提供了獨特的功能，例如將工作表渲染為流行格式的圖像，包括 BMP、TIFF、PNG、JPEG 和 JPEG。 EMF。
     </p>
    </div>
    <div class="col-lg-12">

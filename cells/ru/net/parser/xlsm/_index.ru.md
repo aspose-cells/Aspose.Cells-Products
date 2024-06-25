@@ -33,7 +33,7 @@ PM> Install-Package Aspose.Cells
 
 {{% blocks/products/pf/agp/text %}}
 
- Базовый анализ документа с помощью[Aspose.Cells for .NET](https://products.aspose.com/cells/net)API можно создать с помощью всего нескольких строк кода. Анализируйте текст и изображения из файлов Excel Microsoft, XLS, XLSX, XLSM, XLSB и OpenDocument ODS.
+ Базовый анализ документа с помощью[Aspose.Cells for .NET](https://products.aspose.com/cells/net)API можно создать с помощью всего нескольких строк кода. Анализируйте текст и изображения из файлов Microsoft Excel XLS, XLSX, XLSM, XLSB и OpenDocument ODS.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -49,11 +49,11 @@ PM> Install-Package Aspose.Cells
 
 {{% blocks/products/pf/agp/text %}}
 
-Наши API поддерживаются на всех основных платформах и операционных системах. Прежде чем выполнять приведенный ниже код, убедитесь, что в вашей системе имеются следующие необходимые условия.
+ Наши API поддерживаются на всех основных платформах и операционных системах. Прежде чем выполнять приведенный ниже код, убедитесь, что в вашей системе имеются следующие необходимые условия.
 
 {{% /blocks/products/pf/agp/text %}}
 
--  Microsoft Windows или совместимая ОС с .NET Framework, .NET Core, Mono или платформами Xamarin
+- Microsoft Windows или совместимая ОС с .NET Framework, .NET Core, Mono или платформами Xamarin
 -  Среда разработки, например Microsoft Visual Studio.
 -  Добавьте ссылку на DLL Aspose.Cells for .NET в свой проект. Установите из NuGet, используя кнопку «Загрузить» выше.
 

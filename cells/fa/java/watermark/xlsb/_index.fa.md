@@ -125,7 +125,7 @@ workbook.save(dataDir + "AWArtWToWorksheet_out.xlsb");
     {{< blocks/products/pf/agp/about-file-section >}}
 
         {{< blocks/products/pf/agp/demobox sectionTitle="واترمارک XLSB از طریق برنامه آنلاین" sectionDescription=" با مراجعه به ما، به اسناد XLSB واترمارک اضافه کنید[وب سایت Live Demos](https://products.aspose.app/cells/watermark). نسخه ی نمایشی زنده دارای مزایای زیر است" >}}
-            {{< blocks/products/pf/agp/democard icon="fa-cogs" text="نیازی به دانلود یا تنظیم چیزی نیست" >}}
+            {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" نیازی به دانلود یا تنظیم چیزی نیست" >}}
             {{< blocks/products/pf/agp/democard icon="fa-edit" text=" نیازی به نوشتن هیچ کدی نیست" >}}
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text="فقط فایل XLSB خود را آپلود کنید، واترمارک خود را تنظیم کنید و دکمه \"افزودن\" را فشار دهید." >}}
             {{< blocks/products/pf/agp/democard icon="fa-download" text=" بلافاصله لینک دانلود فایل حاصل را دریافت کنید" >}}

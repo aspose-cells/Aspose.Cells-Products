@@ -1,7 +1,7 @@
 ---
 title:  PivotTable'ı Micorsoft Excel XLS dosyalarına C# aracılığıyla ekleyin
 weight: 7690
-description: C# .NET Kitaplığını kullanarak XLS'e Özet Tablo eklemek için örnek kod. VB.NET, Asp.NET veya herhangi bir .NET tabanlı uygulama içindeki XLS dosyasına PivotTable eklemek için bu kodu kullanın.
+description: C# .NET Kitaplığı'nı kullanarak XLS'e Özet Tablo eklemek için örnek kod. VB.NET, Asp.NET veya herhangi bir .NET tabanlı uygulama içindeki XLS dosyasına PivotTable eklemek için bu kodu kullanın.
 keywords: [C# Aspose.Cells., c# add PivotTable in xls., c# insert PivotTable in xls., c# create PivotTable in xls., c# modify PivotTable in xls., access PivotTable in xls., c# add pivot table in xls., c# insert pivot table in xls., c# create pivot table in xls., c# modify pivot table in xls., access pivot table in xls]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -66,7 +66,7 @@ Excel XLS dosyalarını oluşturma, değiştirme, dönüştürme, işleme ve yaz
 {{< blocks/products/pf/agp/about-file-section >}}
 
 {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLS" readMoreLink="https://docs.fileformat.com/spreadsheet/xls/" >}}
-XLS uzantılı dosyalar Excel İkili Dosya Formatını temsil eder. Bu tür dosyalar Microsoft Excel'in yanı sıra OpenOffice Calc veya Apple Numbers gibi diğer benzer elektronik tablo programları tarafından oluşturulabilir. Excel tarafından kaydedilen dosya, her çalışma kitabının bir veya daha fazla çalışma sayfasına sahip olabileceği Çalışma Kitabı olarak bilinir. Veriler, çalışma sayfasında tablo biçiminde depolanır ve kullanıcılara görüntülenir ve sayısal değerleri, metin verilerini, formülleri, dış veri bağlantılarını, görüntüleri ve grafikleri kapsayabilir. Microsoft Excel gibi uygulamalar, çalışma kitabı verilerini PDF, CSV, XLSX, TXT, HTML, XPS ve diğer birkaç farklı formata aktarmanıza olanak tanır. XLS dosya formatı, Microsoft Excel 2007 sürümüyle birlikte daha açık ve yapılandırılmış bir format olan XLSX ile değiştirildi. En son sürümler, XLS dosyalarının oluşturulması ve okunması için hala destek sağlıyor, ancak artık XLSX ilk kullanım seçeneği.
+XLS uzantılı dosyalar Excel İkili Dosya Formatını temsil eder. Bu tür dosyalar Microsoft Excel'in yanı sıra OpenOffice Calc veya Apple Numbers gibi diğer benzer elektronik tablo programları tarafından oluşturulabilir. Excel tarafından kaydedilen dosya, her çalışma kitabının bir veya daha fazla çalışma sayfasına sahip olabileceği Çalışma Kitabı olarak bilinir. Veriler, çalışma sayfasında tablo biçiminde depolanır ve kullanıcılara görüntülenir ve sayısal değerleri, metin verilerini, formülleri, dış veri bağlantılarını, görüntüleri ve grafikleri kapsayabilir. Microsoft Excel gibi uygulamalar, çalışma kitabı verilerini PDF, CSV, XLSX, TXT, HTML, XPS ve diğer birkaç farklı formata aktarmanıza olanak tanır. XLS dosya formatı, Microsoft Excel 2007 sürümüyle birlikte daha açık ve yapılandırılmış bir format olan XLSX ile değiştirildi. En son sürümler, XLS dosyalarının oluşturulması ve okunması için hala destek sağlıyor, ancak şu anda ilk kullanım seçeneği XLSX.
 
 {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
@@ -75,10 +75,10 @@ XLS uzantılı dosyalar Excel İkili Dosya Formatını temsil eder. Bu tür dosy
 
 {{< blocks/products/pf/agp/other-supported-section title="Desteklenen Diğer Özet Tablo Formatları" subTitle="PivotTable ile aşağıda listelenenlerden birkaçı dahil diğer Microsoft Excel formatlarını da oluşturabilirsiniz." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/insert-pivottable-to-xls/" name="XLS" description="Microsoft Excel Elektronik Tablosu (Eski)" >}} 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/insert-pivottable-to-xlsx/" name="XLSX" description="XML Çalışma Kitabını Aç" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/insert-pivottable-to-xlsb/" name="XLSB" description="Excel İkili Çalışma Kitabı" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/insert-pivottable-to-xlsm/" name="XLSM" description="Makro-etkin Elektronik Tablo" >}} 
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/pivottable/insert-pivottable-to-xls/" name="XLS" description="Microsoft Excel Elektronik Tablosu (Eski)" >}} 
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/pivottable/insert-pivottable-to-xlsx/" name="XLSX" description="XML Çalışma Kitabını Aç" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/pivottable/insert-pivottable-to-xlsb/" name="XLSB" description="Excel İkili Çalışma Kitabı" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/pivottable/insert-pivottable-to-xlsm/" name="XLSM" description="Makro-etkin Elektronik Tablo" >}} 
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

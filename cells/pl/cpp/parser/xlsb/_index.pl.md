@@ -1,7 +1,7 @@
 ---
 title: Wyodrębnij tekst i obrazy z dokumentu XLSB pod numerem C++
 weight: 3140
-description: C++ przykładowy kod do wyodrębnienia tekstu i obrazów z pliku XLSB w C++ Środowisko wykonawcze dla Windows 32-bitowego, Windows 64-bitowego i 64-bitowego systemu Linux.
+description: C++ przykładowy kod do wyodrębnienia tekstu i obrazów z pliku XLSB w C++ Środowisko wykonawcze dla Windows 32-bitowy, Windows 64-bitowy i Linux 64-bitowy.
 keywords: [C++ Aspose.Cells., C++ Extract text and images from XLSB file., C++ How to Parse XLSB File., C++ Extract text from XLSB file., Extract images from XLSB file using C++]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,5 +1,5 @@
 ---
-title: Infoga pivotdiagram i Micorsoft Excel XLSM-filer via C#
+title:  Infoga pivotdiagram i Micorsoft Excel XLSM-filer via C#
 weight: 7690
 description: C# Exempelkod för att lägga till pivotdiagram till XLSM med hjälp av .NET Library. Använd den här koden för att infoga pivotdiagram till XLSM-filen i VB.NET, Asp.NET eller någon .NET-baserad applikation.
 keywords: [C# Aspose.Cells., c# add pivot chart in xlsm., c# insert pivot chart in xlsm., c# create pivot chart in xlsm., c# modify pivot chart in xlsm., access pivot chart in xlsm]
@@ -12,7 +12,7 @@ keywords: [C# Aspose.Cells., c# add pivot chart in xlsm., c# insert pivot chart 
 
 {{% blocks/products/pf/agp/content h2="" %}}
 
- Det är enkelt att generera MS Excel XLSM-filen med pivotdiagram dynamiskt i ett program som körs. För att skapa XLSM-dokument med pivotdiagram från början utan att behöva MS Office använder vi[Aspose.Cells for .NET](https://products.aspose.com/cells/net) API som erbjuder olika funktioner för att skapa, manipulera och konvertera kalkylark med .NET-plattformen. Utvecklare kan enkelt förbättra kod för att skriva data, generera diagram eller grafer samt skapa tabeller i kalkylblad.
+Det är enkelt att generera MS Excel XLSM-filen med pivotdiagram dynamiskt i ett program som körs. För att skapa XLSM-dokument med pivotdiagram från början utan att behöva MS Office använder vi[Aspose.Cells for .NET](https://products.aspose.com/cells/net) API som erbjuder olika funktioner för att skapa, manipulera och konvertera kalkylark med .NET-plattformen. Utvecklare kan enkelt förbättra kod för att skriva data, generera diagram eller grafer samt skapa tabeller i kalkylblad.
 {{% /blocks/products/pf/agp/content %}}
 
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
@@ -78,10 +78,10 @@ Filer med tillägget XLSM är en typ av kalkylbladsfiler som stöder makron. Ur 
 
 {{< blocks/products/pf/agp/other-supported-section title="Andra pivotdiagramformat som stöds" subTitle="Du kan också skapa andra Microsoft Excel-format med pivotdiagram inklusive några listade nedan." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/insert-pivot-chart-to-xls/" name="XLS" description="Microsoft Excel-kalkylblad (legacy)" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/insert-pivot-chart-to-xlsx/" name="XLSX" description="Öppna XML-arbetsbok" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/insert-pivot-chart-to-xlsb/" name="XLSB" description="Excel binär arbetsbok" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/insert-pivot-chart-to-xlsm/" name="XLSM" description="Makroaktiverat kalkylblad" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/pivottable/insert-pivot-chart-to-xls/" name="XLS" description="Microsoft Excel-kalkylblad (legacy)" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/pivottable/insert-pivot-chart-to-xlsx/" name="XLSX" description="Öppna XML-arbetsbok" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/pivottable/insert-pivot-chart-to-xlsb/" name="XLSB" description="Excel binär arbetsbok" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/pivottable/insert-pivot-chart-to-xlsm/" name="XLSM" description="Makroaktiverat kalkylblad" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

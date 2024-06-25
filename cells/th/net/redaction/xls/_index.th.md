@@ -39,7 +39,7 @@ PM> Install-Package Aspose.Cells
 +โหลดไฟล์XLS.
 + เลือกแผ่นงาน
 + สร้างวัตถุ FindOptions
-+ ตั้งค่าตัวเลือกการค้นหา
+ตั้งค่าตัวเลือกการค้นหา
 + วนซ้ำแต่ละเซลล์แล้วใช้วิธีค้นหา
 + บันทึกสมุดงาน
 
@@ -49,11 +49,11 @@ PM> Install-Package Aspose.Cells
 
 {{% blocks/products/pf/agp/text %}}
 
-API ของเราได้รับการสนับสนุนบนแพลตฟอร์มและระบบปฏิบัติการหลักทั้งหมด ก่อนที่จะรันโค้ดด้านล่าง โปรดตรวจสอบให้แน่ใจว่าคุณมีข้อกำหนดเบื้องต้นต่อไปนี้ในระบบของคุณ
+ API ของเราได้รับการสนับสนุนบนแพลตฟอร์มและระบบปฏิบัติการหลักทั้งหมด ก่อนที่จะรันโค้ดด้านล่าง โปรดตรวจสอบให้แน่ใจว่าคุณมีข้อกำหนดเบื้องต้นต่อไปนี้ในระบบของคุณ
 
 {{% /blocks/products/pf/agp/text %}}
 
--  Microsoft Windows หรือระบบปฏิบัติการที่เข้ากันได้กับ .NET Framework, .NET Core, Mono หรือแพลตฟอร์ม Xamarin
+- Microsoft Windows หรือระบบปฏิบัติการที่เข้ากันได้กับ .NET Framework, .NET Core, Mono หรือแพลตฟอร์ม Xamarin
 -  สภาพแวดล้อมการพัฒนาเช่น Microsoft Visual Studio
 -  เพิ่มการอ้างอิงถึง Aspose.Cells for .NET DLL ในโครงการของคุณ - ติดตั้งจาก NuGet โดยใช้ปุ่มดาวน์โหลดด้านบน
 
@@ -110,7 +110,7 @@ wb.Save("e:\test2\output.xls");
 
     {{< blocks/products/pf/agp/about-file-section >}}
 
-        {{< blocks/products/pf/agp/demobox sectionTitle="ออนไลน์ XLS Redaction สาธิตสด" sectionDescription=" ค้นหาและแทนที่ข้อความในเนื้อหา ความคิดเห็น หรือข้อมูลเมตาในเอกสาร XLS ทันทีโดยไปที่[เว็บไซต์สาธิตสด](https://products.aspose.app/cells/redaction). การสาธิตสดมีข้อดีดังต่อไปนี้" >}}
+        {{< blocks/products/pf/agp/demobox sectionTitle="ออนไลน์ XLS Redaction สาธิตสด" sectionDescription=" ค้นหาและแทนที่ข้อความในเนื้อหา ความคิดเห็น หรือข้อมูลเมตาในเอกสาร XLS ทันทีโดยไปที่[เว็บไซต์สาธิตสด](https://products.aspose.app/cells/redaction)- การสาธิตสดมีข้อดีดังต่อไปนี้" >}}
             {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" ไม่ต้องดาวน์ Aspose API." >}}
             {{< blocks/products/pf/agp/democard icon="fa-edit" text=" ไม่จำเป็นต้องเขียนโค้ดใดๆ" >}}
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" เพียงอัพโหลดไฟล์ XLS ของคุณ" >}}

@@ -49,11 +49,11 @@ PM> Install-Package Aspose.Cells
 
 {{% blocks/products/pf/agp/text %}}
 
-API của chúng tôi được hỗ trợ trên tất cả các nền tảng và Hệ điều hành chính. Trước khi thực thi mã bên dưới, vui lòng đảm bảo rằng bạn có các điều kiện tiên quyết sau trên hệ thống của mình.
+ API của chúng tôi được hỗ trợ trên tất cả các nền tảng và Hệ điều hành chính. Trước khi thực thi mã bên dưới, vui lòng đảm bảo rằng bạn có các điều kiện tiên quyết sau trên hệ thống của mình.
 
 {{% /blocks/products/pf/agp/text %}}
 
--  Microsoft Windows hoặc hệ điều hành tương thích với .NET Framework, .NET Core, Mono hoặc Nền tảng Xamarin
+- Microsoft Windows hoặc hệ điều hành tương thích với .NET Framework, .NET Core, Mono hoặc Nền tảng Xamarin
 -  Môi trường phát triển như Microsoft Visual Studio
 -  Thêm tham chiếu đến Aspose.Cells for .NET DLL trong dự án của bạn - Cài đặt từ NuGet bằng nút Tải xuống ở trên
 

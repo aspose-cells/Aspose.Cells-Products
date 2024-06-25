@@ -1,7 +1,7 @@
 ---
 title:  PivotTable'ı Micorsoft Excel XLSM dosyalarına C# aracılığıyla ekleyin
 weight: 7690
-description: C# .NET Kitaplığını kullanarak XLSM'e Özet Tablo eklemek için örnek kod. VB.NET, Asp.NET veya herhangi bir .NET tabanlı uygulama içindeki XLSM dosyasına PivotTable eklemek için bu kodu kullanın.
+description: C# .NET Kitaplığı'nı kullanarak XLSM'e Özet Tablo eklemek için örnek kod. VB.NET, Asp.NET veya herhangi bir .NET tabanlı uygulama içindeki XLSM dosyasına PivotTable eklemek için bu kodu kullanın.
 keywords: [C# Aspose.Cells., c# add PivotTable in xlsm., c# insert PivotTable in xlsm., c# create PivotTable in xlsm., c# modify PivotTable in xlsm., access PivotTable in xlsm., c# add pivot table in xlsm., c# insert pivot table in xlsm., c# create pivot table in xlsm., c# modify pivot table in xlsm., access pivot table in xlsm]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -67,7 +67,7 @@ Excel XLSM dosyalarını oluşturma, değiştirme, dönüştürme, işleme ve ya
 
 {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLSM" readMoreLink="https://docs.fileformat.com/spreadsheet/xlsm/" >}}
 
-XLSM uzantılı dosyalar, Makroları destekleyen bir Elektronik Tablo dosyası türüdür. Uygulama açısından bakıldığında, Makro, süreçleri otomatikleştirmek için kullanılan talimatlar kümesidir. Makro, tekrar tekrar gerçekleştirilen adımları kaydetmek için kullanılır ve makronun tekrar çalıştırılmasıyla eylemlerin gerçekleştirilmesini kolaylaştırır. Makrolar, Visual Basic Düzenleyicisi kullanılarak Excel Çalışma Kitabı içinden Microsoft'in Visual Basic for Applications (VBA) programıyla programlanır ve buradan doğrudan çalıştırılabilir/hata ayıklanabilir.
+XLSM uzantılı dosyalar, Makroları destekleyen bir Elektronik Tablo dosyası türüdür. Uygulama açısından bakıldığında, Makro, süreçleri otomatikleştirmek için kullanılan talimatlar kümesidir. Makro, tekrar tekrar gerçekleştirilen adımları kaydetmek için kullanılır ve makroyu tekrar çalıştırarak eylemlerin gerçekleştirilmesini kolaylaştırır. Makrolar, Visual Basic Düzenleyicisi kullanılarak Excel Çalışma Kitabı içinden Microsoft'in Visual Basic for Applications (VBA) programıyla programlanır ve buradan doğrudan çalıştırılabilir/hata ayıklanabilir.
 
 {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
@@ -76,10 +76,10 @@ XLSM uzantılı dosyalar, Makroları destekleyen bir Elektronik Tablo dosyası t
 
 {{< blocks/products/pf/agp/other-supported-section title="Desteklenen Diğer Özet Tablo Formatları" subTitle="PivotTable ile aşağıda listelenenlerden birkaçı dahil diğer Microsoft Excel formatlarını da oluşturabilirsiniz." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/insert-pivottable-to-xls/" name="XLS" description="Microsoft Excel Elektronik Tablosu (Eski)" >}} 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/insert-pivottable-to-xlsx/" name="XLSX" description="XML Çalışma Kitabını Aç" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/insert-pivottable-to-xlsb/" name="XLSB" description="Excel İkili Çalışma Kitabı" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/insert-pivottable-to-xlsm/" name="XLSM" description="Makro-etkin Elektronik Tablo" >}} 
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/pivottable/insert-pivottable-to-xls/" name="XLS" description="Microsoft Excel Elektronik Tablosu (Eski)" >}} 
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/pivottable/insert-pivottable-to-xlsx/" name="XLSX" description="XML Çalışma Kitabını Aç" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/pivottable/insert-pivottable-to-xlsb/" name="XLSB" description="Excel İkili Çalışma Kitabı" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/pivottable/insert-pivottable-to-xlsm/" name="XLSM" description="Makro-etkin Elektronik Tablo" >}} 
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

@@ -1,5 +1,5 @@
 ---
-title: .NET Excel API | Przetwarzaj formaty arkuszy kalkulacyjnych via .NET Rdzeń
+title:  .NET Excel API | Przetwarzaj formaty arkuszy kalkulacyjnych via .NET Rdzeń
 weight: 2030
 description: C# ASP.NET VB.NET Biblioteka do tworzenia, naprawy, scalania, analizowania i konwertowania plików Excel. Konwertuj Excel na PDF, JSON, XML, TSV, HTML i tak dalej.
 keywords: [Aspose.Cells C# Create repair parse merge convert JSON Excel XML PDF HTML TSV SQL TXT PNG JPEG and more formats]
@@ -13,11 +13,11 @@ keywords: [Aspose.Cells C# Create repair parse merge convert JSON Excel XML PDF 
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
- Aspose.Cells for .NET to programowanie arkuszy kalkulacyjnych Excel API przyspieszające zarządzanie arkuszami kalkulacyjnymi i zadania przetwarzania. API umożliwia tworzenie aplikacji wieloplatformowych z możliwością generowania, modyfikowania, konwertowania, renderowania i drukowania arkuszy kalkulacyjnych. Co więcej, nie opiera się on na instalacji programu Excel Microsoft ani żadnych komponentów Office Interop Microsoft, ale na solidnym zestawie interfejsów API obsługujących wszystkie formaty programu Excel, a także formaty CSV i SpreadsheetML.
+Aspose.Cells for .NET to programowanie arkuszy kalkulacyjnych Excel API przyspieszające zarządzanie arkuszami kalkulacyjnymi i zadania przetwarzania. API umożliwia tworzenie aplikacji wieloplatformowych z możliwością generowania, modyfikowania, konwertowania, renderowania i drukowania arkuszy kalkulacyjnych. Co więcej, nie opiera się on na instalacji programu Excel Microsoft ani żadnych komponentów Office Interop Microsoft, ale na solidnym zestawie interfejsów API obsługujących wszystkie formaty programu Excel, a także formaty CSV i SpreadsheetML.
 </p>
 
 <p>
-Dzięki integracji API programiści mogą wykonywać niektóre podstawowe zadania, takie jak zarządzanie wieloma arkuszami kalkulacyjnymi, tworzenie zawartości i stylów arkuszy kalkulacyjnych od podstaw, importowanie danych do arkuszy z różnych źródeł danych, dodawanie typowych i złożonych formuł matematycznych, finansowych i tekstowych, manipulowanie wykresami, zdjęcia, komentarze, obiekty rysunkowe i wiele więcej.
+ Dzięki integracji API programiści mogą wykonywać niektóre podstawowe zadania, takie jak zarządzanie wieloma arkuszami kalkulacyjnymi, tworzenie zawartości i stylów arkuszy kalkulacyjnych od podstaw, importowanie danych do arkuszy z różnych źródeł danych, dodawanie typowych i złożonych formuł matematycznych, finansowych i tekstowych, manipulowanie wykresami, zdjęcia, komentarze, obiekty rysunkowe i wiele więcej.
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
@@ -92,7 +92,7 @@ Podsumować
  Zastosuj formuły
     </li>
     <li>
- Importuj/eksportuj dane
+Importuj/eksportuj dane
     </li>
    </ul>
   </div>
@@ -213,7 +213,7 @@ Podsumować
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Obsługiwane formaty plików" description=" Aspose.Cells for .NET obsługuje popularny arkusz kalkulacyjny[formaty plików](https://docs.aspose.com/cells/net/supported-file-formats/) także najczęściej używane formaty obrazów i formatów o stałym układzie." >}}
+{{< blocks/products/pf/carousel-item h3="Obsługiwane formaty plików" description=" Aspose.Cells for .NET obsługuje popularny arkusz kalkulacyjny[formaty plików](https://docs.aspose.com/cells/net/supported-file-formats/) a także najczęściej używane formaty obrazów i formatów o stałym układzie." >}}
 <div class="diagram1 d2 d1-net">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -387,7 +387,7 @@ Tylko wyjście
     <em class="fa fa-support ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Obsługa numeru CSV (wartości oddzielone przecinkami) &amp; TSV (wartości oddzielone tabulatorami)
+Obsługa numeru CSV (wartości oddzielone przecinkami) &amp; TSV (wartości oddzielone tabulatorami)
     </p>
    </div>
    <div class="col-lg-4">
@@ -450,7 +450,7 @@ Utwórz &amp; manipulować komentarzami
     <em class="fa fa-file-code-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-Zmodyfikuj kod VBA lub makra w pliku szablonu
+ Zmodyfikuj kod VBA lub makra w pliku szablonu
     </p>
    </div>
    <div class="col-lg-4">
@@ -469,7 +469,7 @@ Zmodyfikuj kod VBA lub makra w pliku szablonu
     </p>
     <div class="codeblock" id="code">
      <h3>
- Zapisz arkusz kalkulacyjny w różnych formatach - C#
+Zapisz arkusz kalkulacyjny w różnych formatach - C#
      </h3>
      <pre><code class="cs">// load file to be converted
 
@@ -491,7 +491,7 @@ workbook.Save(dir + "output.html", Aspose.Cells.SaveFormat.Html);</code></pre>
  Wizualizuj dane za pomocą formatowania, wykresów i amp; Grafika
     </h2>
     <p>
-Aspose.Cells for .NET zapewnia pełną swobodę i elastyczność w dostarczaniu arkuszy kalkulacyjnych wszelkiego rodzaju efektami wizualnymi. Numer API umożliwia stosowanie różnych czcionek z atrybutami, stylami komórek (wyrównanie, wcięcie, obrót, obramowanie, cieniowanie i kolorowanie, ochrona, zawijanie i zmniejszanie tekstu) oraz wszystkich typów formatów liczb.
+ Aspose.Cells for .NET zapewnia pełną swobodę i elastyczność w dostarczaniu arkuszy kalkulacyjnych wszelkiego rodzaju efektami wizualnymi. Numer API umożliwia stosowanie różnych czcionek z atrybutami, stylami komórek (wyrównanie, wcięcie, obrót, obramowanie, cieniowanie i kolorowanie, ochrona, zawijanie i zmniejszanie tekstu) oraz wszystkich typów formatów liczb.
     </p>
     <p>
  Podobnie wykresy i grafika są atrakcyjne wizualnie i mogą nadać arkuszowi kalkulacyjnemu profesjonalny wygląd. Aspose.Cells for .NET zapewnia kompleksowy zestaw interfejsów API do tworzenia i manipulowania wszystkimi standardowymi i niestandardowymi typami wykresów. Co więcej, możesz dodawać do komórek różne typy obiektów rysunkowych, takie jak komentarze, obrazy, obiekty OLE, kształty i kontrolki

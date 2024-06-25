@@ -54,7 +54,7 @@ keywords: [Java Aspose.Cells., Java Extract text and images from XLS file., Java
 
 {{% /blocks/products/pf/agp/text %}}
 
-+ Load tài liệu XLS sử dụng lớp Workbook.
+Load tài liệu XLS sử dụng lớp Workbook.
 + Chọn sheet cần sử dụng phương thức getWorksheets().get.
 + Lấy tất cả các ô của sheet đã chọn bằng getCells().
 + Lặp lại từng ô, lấy văn bản của ô đó.
@@ -70,7 +70,7 @@ keywords: [Java Aspose.Cells., Java Extract text and images from XLS file., Java
 
 {{% /blocks/products/pf/agp/text %}}
 
-- Microsoft Windows hoặc hệ điều hành tương thích với Java Môi trường thời gian chạy cho ứng dụng JSP/JSF và ứng dụng máy tính để bàn.
+-  Microsoft Windows hoặc hệ điều hành tương thích với Java Môi trường thời gian chạy cho ứng dụng JSP/JSF và ứng dụng máy tính để bàn.
 -  Nhận phiên bản mới nhất của Aspose.Cells for Java trực tiếp từ
  [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells)  .
 

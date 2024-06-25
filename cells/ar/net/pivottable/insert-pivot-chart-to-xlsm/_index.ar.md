@@ -1,5 +1,5 @@
 ---
-title: إدراج مخطط محوري في ملفات Micorsoft Excel XLSM عبر C#
+title:  إدراج مخطط محوري في ملفات Micorsoft Excel XLSM عبر C#
 weight: 7690
 description: C# نموذج التعليمات البرمجية لإضافة مخطط محوري إلى XLSM باستخدام مكتبة .NET. استخدم هذا الرمز لإدراج مخطط محوري في ملف XLSM داخل VB.NET أو Asp.NET أو أي تطبيق يستند إلى .NET.
 keywords: [C# Aspose.Cells., c# add pivot chart in xlsm., c# insert pivot chart in xlsm., c# create pivot chart in xlsm., c# modify pivot chart in xlsm., access pivot chart in xlsm]
@@ -12,7 +12,7 @@ keywords: [C# Aspose.Cells., c# add pivot chart in xlsm., c# insert pivot chart 
 
 {{% blocks/products/pf/agp/content h2="" %}}
 
- من السهل إنشاء ملف MS Excel XLSM باستخدام Pivot Chart ديناميكيًا داخل التطبيق قيد التشغيل. من أجل إنشاء مستند XLSM باستخدام Pivot Chart من البداية دون الحاجة إلى MS Office، سنستخدم[Aspose.Cells for .NET](https://products.aspose.com/cells/net) API الذي يقدم ميزات مختلفة لإنشاء جداول البيانات ومعالجتها وتحويلها باستخدام منصة .NET. يمكن للمطورين بسهولة تحسين التعليمات البرمجية لكتابة البيانات وإنشاء المخططات أو الرسوم البيانية بالإضافة إلى إنشاء جدول في جداول البيانات.
+من السهل إنشاء ملف MS Excel XLSM باستخدام Pivot Chart ديناميكيًا داخل التطبيق قيد التشغيل. من أجل إنشاء مستند XLSM باستخدام Pivot Chart من البداية دون الحاجة إلى MS Office، سنستخدم[Aspose.Cells for .NET](https://products.aspose.com/cells/net) API الذي يقدم ميزات مختلفة لإنشاء جداول البيانات ومعالجتها وتحويلها باستخدام منصة .NET. يمكن للمطورين بسهولة تحسين التعليمات البرمجية لكتابة البيانات وإنشاء المخططات أو الرسوم البيانية بالإضافة إلى إنشاء جدول في جداول البيانات.
 {{% /blocks/products/pf/agp/content %}}
 
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
@@ -78,10 +78,10 @@ keywords: [C# Aspose.Cells., c# add pivot chart in xlsm., c# insert pivot chart 
 
 {{< blocks/products/pf/agp/other-supported-section title="تنسيقات المخططات المحورية المدعومة الأخرى" subTitle="يمكنك أيضًا إنشاء تنسيقات Excel Microsoft أخرى باستخدام Pivot Chart بما في ذلك القليل منها المدرج أدناه." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/insert-pivot-chart-to-xls/" name="XLS" description="Microsoft جدول بيانات Excel (قديم)" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/insert-pivot-chart-to-xlsx/" name="XLSX" description="افتح مصنف XML" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/insert-pivot-chart-to-xlsb/" name="XLSB" description="مصنف Excel الثنائي" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/insert-pivot-chart-to-xlsm/" name="XLSM" description="جدول بيانات مزود بتقنية الماكرو" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/pivottable/insert-pivot-chart-to-xls/" name="XLS" description="Microsoft جدول بيانات Excel (قديم)" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/pivottable/insert-pivot-chart-to-xlsx/" name="XLSX" description="افتح مصنف XML" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/pivottable/insert-pivot-chart-to-xlsb/" name="XLSB" description="مصنف Excel الثنائي" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/pivottable/insert-pivot-chart-to-xlsm/" name="XLSM" description="جدول بيانات مزود بتقنية الماكرو" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

@@ -77,10 +77,10 @@ keywords: [C# Aspose.Cells., c# add PivotTable in xlsx., c# insert PivotTable in
 
 {{< blocks/products/pf/agp/other-supported-section title="Άλλες υποστηριζόμενες μορφές Συγκεντρωτικού Πίνακα" subTitle="Μπορείτε επίσης να δημιουργήσετε άλλες μορφές Excel Microsoft με τον Συγκεντρωτικό Πίνακα, συμπεριλαμβανομένων μερικών που αναφέρονται παρακάτω." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/insert-pivottable-to-xls/" name="XLS" description="Microsoft Υπολογιστικό φύλλο Excel (παλαιού τύπου)" >}} 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/insert-pivottable-to-xlsx/" name="XLSX" description="Ανοίξτε το βιβλίο εργασίας XML" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/insert-pivottable-to-xlsb/" name="XLSB" description="Δυαδικό βιβλίο εργασίας του Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/insert-pivottable-to-xlsm/" name="XLSM" description="Υπολογιστικό φύλλο με δυνατότητα μακροεντολής" >}} 
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/pivottable/insert-pivottable-to-xls/" name="XLS" description="Microsoft Υπολογιστικό φύλλο Excel (παλαιού τύπου)" >}} 
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/pivottable/insert-pivottable-to-xlsx/" name="XLSX" description="Ανοίξτε το βιβλίο εργασίας XML" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/pivottable/insert-pivottable-to-xlsb/" name="XLSB" description="Δυαδικό βιβλίο εργασίας του Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/pivottable/insert-pivottable-to-xlsm/" name="XLSM" description="Υπολογιστικό φύλλο με δυνατότητα μακροεντολής" >}} 
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

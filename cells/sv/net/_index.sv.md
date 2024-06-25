@@ -1,5 +1,5 @@
 ---
-title: .NET Excel API | Processkalkylbladsformat via .NET Kärna
+title:  .NET Excel API | Processkalkylbladsformat via .NET Kärna
 weight: 2030
 description: C# ASP.NET VB.NET-bibliotek för att skapa, reparera, slå samman, analysera och konvertera Excel-filer. Konvertera excel till PDF, JSON, XML, TSV, HTML och så vidare.
 keywords: [Aspose.Cells C# Create repair parse merge convert JSON Excel XML PDF HTML TSV SQL TXT PNG JPEG and more formats]
@@ -13,11 +13,11 @@ keywords: [Aspose.Cells C# Create repair parse merge convert JSON Excel XML PDF 
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
- Aspose.Cells for .NET är en Excel-kalkylbladsprogrammering API för att påskynda hanteringen och bearbetningen av kalkylblad. API stöder för att bygga plattformsoberoende applikationer med förmågan att generera, modifiera, konvertera, rendera och skriva ut kalkylblad. Dessutom förlitar den sig inte på att Microsoft Excel eller några Microsoft Office Interop-komponenter ska installeras utan en robust uppsättning API:er som hanterar alla Excel-format såväl som CSV och SpreadsheetML-format.
+Aspose.Cells for .NET är en Excel-kalkylbladsprogrammering API för att påskynda hanteringen och bearbetningen av kalkylblad. API stöder för att bygga plattformsoberoende applikationer med förmågan att generera, modifiera, konvertera, rendera och skriva ut kalkylblad. Dessutom förlitar den sig inte på att Microsoft Excel eller några Microsoft Office Interop-komponenter ska installeras utan en robust uppsättning API:er som hanterar alla Excel-format såväl som CSV och SpreadsheetML-format.
 </p>
 
 <p>
-Genom att integrera API kan några av de grundläggande uppgifterna utvecklare utföra som att hantera flera kalkylblad, skapa kalkylbladsinnehåll och stilar från grunden, importera data till kalkylbladen från olika datakällor, lägga till vanliga och komplexa matematiska, finansiella och textformler, manipulera diagram, bilder, kommentarer, ritobjekt och mycket mer.
+ Genom att integrera API kan några av de grundläggande uppgifterna utvecklare utföra som att hantera flera kalkylblad, skapa kalkylbladsinnehåll och stilar från grunden, importera data till kalkylbladen från olika datakällor, lägga till vanliga och komplexa matematiska, finansiella och textformler, manipulera diagram, bilder, kommentarer, ritobjekt och mycket mer.
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
@@ -92,7 +92,7 @@ Sammanfatta
  Tillämpa formler
     </li>
     <li>
- Importera/exportera data
+Importera/exportera data
     </li>
    </ul>
   </div>
@@ -213,7 +213,7 @@ Sammanfatta
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Filformat som stöds" description=" Aspose.Cells for .NET stöder det populära kalkylarket[filformat](https://docs.aspose.com/cells/net/supported-file-formats/)samt de vanligaste bild- och formaten med fast layout." >}}
+{{< blocks/products/pf/carousel-item h3="Filformat som stöds" description=" Aspose.Cells for .NET stöder det populära kalkylarket[filformat](https://docs.aspose.com/cells/net/supported-file-formats/) samt de vanligaste bild- och formaten med fast layout." >}}
 <div class="diagram1 d2 d1-net">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -387,7 +387,7 @@ Endast utgång
     <em class="fa fa-support ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Stöd för CSV (kommaseparerade värden) &amp; TSV (tabbseparerade värden)
+Stöd för CSV (kommaseparerade värden) &amp; TSV (tabbseparerade värden)
     </p>
    </div>
    <div class="col-lg-4">
@@ -422,7 +422,7 @@ Skapa &amp; manipulera kommentarer
     <em class="fa fa-line-chart ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Skapa &amp; rendera sparklines
+ Skapa &amp; återge sparklines
     </p>
    </div>
    <div class="col-lg-4">
@@ -450,7 +450,7 @@ Skapa &amp; manipulera kommentarer
     <em class="fa fa-file-code-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-Ändra VBA-kod eller makron i mallfilen
+ Ändra VBA-kod eller makron i mallfilen
     </p>
    </div>
    <div class="col-lg-4">
@@ -469,7 +469,7 @@ Skapa &amp; manipulera kommentarer
     </p>
     <div class="codeblock" id="code">
      <h3>
- Spara kalkylblad i olika format - C#
+Spara kalkylblad i olika format - C#
      </h3>
      <pre><code class="cs">// load file to be converted
 
@@ -491,7 +491,7 @@ workbook.Save(dir + "output.html", Aspose.Cells.SaveFormat.Html);</code></pre>
  Visualisera data med formatering, diagram &amp; Grafik
     </h2>
     <p>
-Aspose.Cells for .NET ger dig fullständig frihet och flexibilitet att förse dina kalkylblad med alla typer av visuella effekter. Med API kan du använda olika typsnitt med attribut, cellstilar (justering, indrag, rotation, ramar, skuggning och färgläggning, skydd, textlindning och krympning) och alla typer av talformat.
+ Aspose.Cells for .NET ger dig fullständig frihet och flexibilitet att förse dina kalkylblad med alla typer av visuella effekter. Med API kan du använda olika typsnitt med attribut, cellstilar (justering, indrag, rotation, ramar, skuggning och färgläggning, skydd, textlindning och krympning) och alla typer av talformat.
     </p>
     <p>
  På samma sätt är diagram och grafik visuellt tilltalande och kan ge ditt kalkylblad ett professionellt utseende. Aspose.Cells for .NET tillhandahåller en omfattande uppsättning API:er för att skapa och manipulera alla standard- och anpassade diagramtyper. Dessutom kan du lägga till olika typer av ritobjekt, såsom kommentarer, bilder, OLE-objekt, former och kontroller till cellerna

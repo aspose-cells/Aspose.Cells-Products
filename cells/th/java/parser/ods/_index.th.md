@@ -54,7 +54,7 @@ keywords: [Java Aspose.Cells., Java Extract text and images from ODS file., Java
 
 {{% /blocks/products/pf/agp/text %}}
 
-+ โหลดเอกสาร ODS โดยใช้คลาส Workbook
+โหลดเอกสาร ODS โดยใช้คลาส Workbook
 + เลือกชีตที่ต้องการโดยใช้เมธอด getWorksheets().get
 + รับเซลล์ทั้งหมดของแผ่นงานที่เลือกโดยใช้ getCells()
 + วนซ้ำแต่ละเซลล์เพื่อรับข้อความ
@@ -70,7 +70,7 @@ keywords: [Java Aspose.Cells., Java Extract text and images from ODS file., Java
 
 {{% /blocks/products/pf/agp/text %}}
 
-- Microsoft Windows หรือระบบปฏิบัติการที่เข้ากันได้กับ Java Runtime Environment สำหรับแอปพลิเคชัน JSP/JSF และแอปพลิเคชันเดสก์ท็อป
+-  Microsoft Windows หรือระบบปฏิบัติการที่เข้ากันได้กับ Java Runtime Environment สำหรับแอปพลิเคชัน JSP/JSF และแอปพลิเคชันเดสก์ท็อป
 -  รับเวอร์ชั่นล่าสุด Aspose.Cells for Java ส่งตรงจาก
  [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells)  .
 
@@ -115,7 +115,7 @@ System.out.println(stringBuilder.toString());
 
 {{< blocks/products/pf/agp/about-file-section >}}
 
-    {{< blocks/products/pf/agp/demobox sectionTitle="ออนไลน์ ODS Parser สาธิตสด" sectionDescription="แยกข้อความและรูปภาพจากเอกสาร ODS ได้เลยโดยเข้าไปที่[เว็บไซต์สาธิตสด](https://products.aspose.app/cells/parser). การสาธิตสดมีข้อดีดังต่อไปนี้" >}}
+    {{< blocks/products/pf/agp/demobox sectionTitle="ออนไลน์ ODS Parser สาธิตสด" sectionDescription="แยกข้อความและรูปภาพจากเอกสาร ODS ได้เลยโดยเข้าไปที่[เว็บไซต์สาธิตสด](https://products.aspose.app/cells/parser)- การสาธิตสดมีข้อดีดังต่อไปนี้" >}}
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" ไม่ต้องดาวน์ Aspose API." >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" ไม่จำเป็นต้องเขียนโค้ดใดๆ" >}}
         {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" เพียงอัพโหลดไฟล์ ODS ของคุณ" >}}

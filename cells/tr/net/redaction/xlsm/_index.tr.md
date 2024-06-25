@@ -39,7 +39,7 @@ PM> Install-Package Aspose.Cells
 + XLSM dosyasını yükleyin.
 + Sayfayı seçin.
 + FindOptions nesnesi oluşturun.
-+ Arama Seçeneklerini Ayarlayın
+Arama Seçeneklerini Ayarlayın
 + Her hücrede döngü yapın ve Bul yöntemini kullanın.
 + Çalışma kitabını kaydedin.
 
@@ -49,11 +49,11 @@ PM> Install-Package Aspose.Cells
 
 {{% blocks/products/pf/agp/text %}}
 
-API'lerimiz tüm önemli platformlarda ve İşletim Sistemlerinde desteklenir. Aşağıdaki kodu çalıştırmadan önce lütfen sisteminizde aşağıdaki önkoşulların bulunduğundan emin olun.
+ API'lerimiz tüm önemli platformlarda ve İşletim Sistemlerinde desteklenir. Aşağıdaki kodu çalıştırmadan önce lütfen sisteminizde aşağıdaki önkoşulların bulunduğundan emin olun.
 
 {{% /blocks/products/pf/agp/text %}}
 
--  Microsoft Windows veya .NET Framework, .NET Core, Mono veya Xamarin Platformlarına sahip uyumlu bir işletim sistemi
+- Microsoft Windows veya .NET Framework, .NET Core, Mono veya Xamarin Platformlarına sahip uyumlu bir işletim sistemi
 -  Microsoft Visual Studio gibi geliştirme ortamı
 -  Projenizdeki Aspose.Cells for .NET DLL'sine referans ekleyin - Yukarıdaki İndir düğmesini kullanarak NuGet'den yükleyin
 
@@ -117,7 +117,7 @@ wb.Save("e:\test2\output.xlsm");
             {{< blocks/products/pf/agp/democard icon="fa-download" text=" Anında düzenlenecektir." >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLSM" readMoreLink="https://docs.fileformat.com/spreadsheet/xlsm/" >}}
-XLSM uzantılı dosyalar, Makroları destekleyen bir Elektronik Tablo dosyası türüdür. Uygulama açısından bakıldığında, Makro, süreçleri otomatikleştirmek için kullanılan talimatlar kümesidir. Makro, tekrar tekrar gerçekleştirilen adımları kaydetmek için kullanılır ve makronun tekrar çalıştırılmasıyla eylemlerin gerçekleştirilmesini kolaylaştırır. Makrolar, Visual Basic Düzenleyicisi kullanılarak Excel Çalışma Kitabı içinden Microsoft'in Visual Basic for Applications (VBA) programıyla programlanır ve buradan doğrudan çalıştırılabilir/hata ayıklanabilir.
+XLSM uzantılı dosyalar, Makroları destekleyen bir Elektronik Tablo dosyası türüdür. Uygulama açısından bakıldığında, Makro, süreçleri otomatikleştirmek için kullanılan talimatlar kümesidir. Makro, tekrar tekrar gerçekleştirilen adımları kaydetmek için kullanılır ve makroyu tekrar çalıştırarak eylemlerin gerçekleştirilmesini kolaylaştırır. Makrolar, Visual Basic Düzenleyicisi kullanılarak Excel Çalışma Kitabı içinden Microsoft'in Visual Basic for Applications (VBA) programıyla programlanır ve buradan doğrudan çalıştırılabilir/hata ayıklanabilir.
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 

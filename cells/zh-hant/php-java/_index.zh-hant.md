@@ -1,7 +1,7 @@
 ---
-title:  Excel 電子表格 PHP API - Aspose
+title: Excel 電子表格 PHP API - Aspose
 weight: 3660
-description: PHP Excel電子表格API讀取寫入和轉換XLS XLSX CSV TSV HTML ODS SpreadsheetML和所有Excel 976173481和所有Excel 格式。將電子表格匯出為多種格式
+description: PHP Excel電子表格API讀取寫入和轉換XLS XLSX CSV TSV HTML ODS SpreadsheetML和所有Excel 976173481和所有Excel69 格式。將電子表格匯出為多種格式
 ---
 {{< blocks/products/pf/main-wrap-class >}}
 {{< blocks/products/pf/i18n/upper-banner h1="PHP Excel 電子表格 API" h2="執行電子表格操作任務以及將 Excel 檔案匯出為多種格式，無需任何 Microsoft Excel 依賴項。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/headers/aspose_cells-for-php-java.svg" pfName="Aspose.Cells" subTitlepfName="for PHP via Java" downloadUrl="https://downloads.aspose.com/cells/php" >}}
@@ -12,7 +12,7 @@ description: PHP Excel電子表格API讀取寫入和轉換XLS XLSX CSV TSV HTML 
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
-Aspose.Cells for PHP via Java 是一個可擴展且功能豐富的 Excel 電子表格管理和處理 API。應用程式可以執行電子表格格式轉換、圖表管理和渲染、實施公式、將工作表樣式設定到最精細的層級等等。 API支援XLS、XLSX、ODS、SpreadsheetML、CSV、製表符分隔、HTML/MHTML、製表符分隔、HTML/MHTML、07611076110761381107613812。使用 JavaBridge 時，開發人員可以輕鬆地在其 PHP 應用程式中新增建立、編輯、轉換和呈現 Excel 檔案的功能。
+Aspose.Cells for PHP via Java 是一個可擴展且功能豐富的 Excel 電子表格管理和處理 API。 應用程式可以執行電子表格格式轉換、圖表管理和渲染、實施公式、將工作表設定到最精細的樣式等級等等。 API支援XLS、XLSX、ODS、SpreadsheetML、CSV、製表符分隔、HTML/MHTML、製表符分隔、HTML/MHTML、0761213811076138110761381107。使用 JavaBridge 時，開發人員可以輕鬆地在其 PHP 應用程式中新增建立、編輯、轉換和呈現 Excel 檔案的功能。
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
@@ -444,7 +444,7 @@ Aspose.Cells for PHP via Java配備了強大的公式計算引擎，支援幾乎
 透過格式、圖表和圖表可視化數據圖形
     </h2>
     <p>
-函式庫非常靈活，可以為電子表格提供各種視覺效果，還可以將格式套用到工作表、行、列或儲存格，設定帶有屬性的字體，定義儲存格樣式和樣式。數字格式、新增富文本並定義條件格式規則。
+該庫非常靈活，可以為電子表格提供各種視覺效果，還可以將格式套用到工作表、行、列或單元格，設定具有屬性的字體，定義單元格樣式和樣式。數字格式、新增富文本並定義條件格式規則。
     </p>
     <p>
 同樣，為了獲得專業的外觀和易於理解的圖表和圖形是不可或缺的部分。 Aspose.Cells for PHP via Java API 可以建立和操作所有類型的標準和自訂圖表。此外，可以輕鬆地將不同類型的繪圖物件新增至儲存格。

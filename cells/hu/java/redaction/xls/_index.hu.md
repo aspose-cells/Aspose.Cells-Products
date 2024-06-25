@@ -58,7 +58,7 @@ keywords: [Java Aspose.Cells., Java Search and replace text in XLS file., Java r
 + Válassza ki a megfelelő lapot.
 + Határozza meg és határozza meg a keresési opciókat.
 + Adja meg a tartományt, ahol keresni szeretne
-+ Lapozzon végig minden cellán, és használja a getCells().find(...) parancsot.
+Lapozzon végig minden cellán, és használja a getCells().find(...) parancsot.
 + Cserélje ki az értéket.
 + Mentse el a munkafüzetet.
 
@@ -72,7 +72,7 @@ keywords: [Java Aspose.Cells., Java Search and replace text in XLS file., Java r
 
 {{% /blocks/products/pf/agp/text %}}
 
-- Microsoft Windows vagy kompatibilis operációs rendszer Java futásidejű környezettel JSP/JSF alkalmazásokhoz és asztali alkalmazásokhoz.
+-  Microsoft Windows vagy kompatibilis operációs rendszer Java futásidejű környezettel JSP/JSF alkalmazásokhoz és asztali alkalmazásokhoz.
 -  Szerezze be a Aspose.Cells for Java legújabb verzióját közvetlenül innen
  [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells)  .
 

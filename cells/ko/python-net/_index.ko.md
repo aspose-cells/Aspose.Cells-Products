@@ -13,7 +13,7 @@ keywords: [Python Aspose.Cells Create repair merge convert JSON Excel XML PDF HT
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
- .Net을 통한 Aspose.Cells for Python은 스프레드시트 처리 작업을 위한 빠르고 안정적인 API입니다. 개발자는 간단하거나 복잡한 스프레드시트를 만들고 Excel 파일에서 정보를 조작 및 추출할 수 있습니다. API은 여러 Excel 형식을 읽고 워크시트를 XPS, PDF, MHTML, HTML, 일반 텍스트, 이미지 등으로 렌더링할 수 있습니다. Python을 사용하여 Excel 보고서를 자동화하는 최고의 솔루션입니다.
+.Net을 통한 Aspose.Cells for Python은 스프레드시트 처리 작업을 위한 빠르고 안정적인 API입니다. 개발자는 간단하거나 복잡한 스프레드시트를 만들고 Excel 파일에서 정보를 조작 및 추출할 수 있습니다. API은 여러 Excel 형식을 읽고 워크시트를 XPS, PDF, MHTML, HTML, 일반 텍스트, 이미지 등으로 렌더링할 수 있습니다. Python을 사용하여 Excel 보고서를 자동화하는 최고의 솔루션입니다.
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}

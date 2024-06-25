@@ -291,7 +291,7 @@ Solo uscita
     <em class="fa fa-image ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Creazione di grafici e amp; manipolazione tramite le API
+ Creazione di grafici e analisi manipolazione tramite le API
     </p>
    </div>
    <div class="col-lg-4">

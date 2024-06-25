@@ -54,7 +54,7 @@ keywords: [Java Aspose.Cells., Java Extract text and images from XLS file., Java
 
 {{% /blocks/products/pf/agp/text %}}
 
-+ Załaduj dokument XLS przy użyciu klasy Workbook.
+Załaduj dokument XLS przy użyciu klasy Workbook.
 + Wybierz żądany arkusz za pomocą metody getWorksheets().get.
 + Pobierz wszystkie komórki wybranego arkusza za pomocą getCells().
 + Iteruj po każdej komórce, uzyskaj jej tekst.
@@ -70,7 +70,7 @@ keywords: [Java Aspose.Cells., Java Extract text and images from XLS file., Java
 
 {{% /blocks/products/pf/agp/text %}}
 
-- Microsoft Windows lub zgodny system operacyjny ze środowiskiem wykonawczym Java dla aplikacji JSP/JSF i aplikacji komputerowych.
+-  Microsoft Windows lub zgodny system operacyjny ze środowiskiem wykonawczym Java dla aplikacji JSP/JSF i aplikacji komputerowych.
 -  Pobierz najnowszą wersję Aspose.Cells for Java bezpośrednio z
  [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells)  .
 

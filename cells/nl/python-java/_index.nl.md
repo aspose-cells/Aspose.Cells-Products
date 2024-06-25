@@ -444,7 +444,7 @@ Python Excel-bibliotheek biedt conversie van Excel-bestanden naar PDF, XPS &amp;
     </p>
     <div class="codeblock" id="code">
      <h3>
- Sla spreadsheet op in verschillende formaten - Java
+Sla spreadsheet op in verschillende formaten - Java
      </h3>
      <pre><code class="java">
 // load file to be converted

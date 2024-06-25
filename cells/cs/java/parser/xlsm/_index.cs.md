@@ -54,7 +54,7 @@ keywords: [Java Aspose.Cells., Java Extract text and images from XLSM file., Jav
 
 {{% /blocks/products/pf/agp/text %}}
 
-+ Načtěte dokument XLSM pomocí třídy Workbook.
+Načtěte dokument XLSM pomocí třídy Workbook.
 + Vyberte požadovaný list pomocí metody getWorksheets().get.
 + Získejte všechny buňky vybraného listu pomocí getCells().
 + Iterujte každou buňku, získejte její text.
@@ -70,7 +70,7 @@ keywords: [Java Aspose.Cells., Java Extract text and images from XLSM file., Jav
 
 {{% /blocks/products/pf/agp/text %}}
 
-- Microsoft Windows nebo kompatibilní OS s Java Runtime Environment pro JSP/JSF aplikace a desktopové aplikace.
+-  Microsoft Windows nebo kompatibilní OS s Java Runtime Environment pro JSP/JSF aplikace a desktopové aplikace.
 -  Získejte nejnovější verzi Aspose.Cells for Java přímo od
  [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells)  .
 

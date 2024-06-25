@@ -39,7 +39,7 @@ PM> Install-Package Aspose.Cells
 + XLSB fájl betöltése.
 + Válassza ki a lapot.
 + FindOptions objektum létrehozása.
-+ Keresési beállítások megadása
+Keresési beállítások megadása
 + Lapozzon végig minden cellán, és használja a Keresés módszert.
 + Mentse el a munkafüzetet.
 
@@ -49,11 +49,11 @@ PM> Install-Package Aspose.Cells
 
 {{% blocks/products/pf/agp/text %}}
 
-API-jaink minden nagyobb platformon és operációs rendszeren támogatottak. Mielőtt végrehajtaná az alábbi kódot, győződjön meg arról, hogy a következő előfeltételek vannak a rendszeren.
+ API-jaink minden nagyobb platformon és operációs rendszeren támogatottak. Mielőtt végrehajtaná az alábbi kódot, győződjön meg arról, hogy a következő előfeltételek vannak a rendszeren.
 
 {{% /blocks/products/pf/agp/text %}}
 
--  Microsoft Windows vagy kompatibilis operációs rendszer .NET Framework, .NET Core, Mono vagy Xamarin platformokkal
+- Microsoft Windows vagy kompatibilis operációs rendszer .NET Framework, .NET Core, Mono vagy Xamarin platformokkal
 -  Fejlesztői környezet, például Microsoft Visual Studio
 -  Adjon hivatkozást a Aspose.Cells for .NET DLL-re a projektben - Telepítse a NuGet-es számról a fenti Letöltés gomb segítségével
 

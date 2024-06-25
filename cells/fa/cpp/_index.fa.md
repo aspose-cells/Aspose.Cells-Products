@@ -13,7 +13,7 @@ keywords: [C++ library execl Aspose.Cells Create repair parse merge convert JSON
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
-کتابخانه Aspose.Cells C++ یک کتابخانه بومی C++ برای دستکاری صفحه گسترده است. برنامه‌ها می‌توانند عملکردهایی مانند ایجاد، تبدیل و ویرایش ویژگی‌های داخلی و سفارشی صفحه‌گسترده، تم‌ها، سبک‌ها و قالب‌بندی، اعتبارسنجی داده‌ها، قالب‌بندی شرطی، خواندن، نوشتن و محاسبه فرمول‌ها، گروه‌بندی سطرها و ستون‌ها و موارد دیگر را بدون تکیه بر اتوماسیون اداری انجام دهند. یا Microsoft اکسل. API از رایج ترین فرمت های صفحه گسترده (مانند XLS، XLSX، XLSM، و XLSB) و همچنین انواع دیگر فرمت های فایل (مانند PDF، PDF، PDF، PDF، PDF، PDF، 301، 076) پشتیبانی می کند. 481, PNG, BMP, TIFF , GIF, EMF, SVG).
+کتابخانه Aspose.Cells C++ یک کتابخانه بومی C++ برای دستکاری صفحه گسترده است. برنامه‌ها می‌توانند عملکردهایی مانند ایجاد، تبدیل و ویرایش ویژگی‌های داخلی و سفارشی صفحه‌گسترده، تم‌ها، سبک‌ها و قالب‌بندی، اعتبارسنجی داده‌ها، قالب‌بندی شرطی، خواندن، نوشتن و محاسبه فرمول‌ها، گروه‌بندی سطرها و ستون‌ها و موارد دیگر را بدون تکیه بر اتوماسیون اداری انجام دهند. یا Microsoft اکسل. API از رایج ترین فرمت های صفحه گسترده (مانند XLS، XLSX، XLSM، و XLSB) و همچنین انواع دیگر فرمت های فایل (مانند PDF، 701 فرمت معمولی، 07 07) پشتیبانی می کند 3481, PNG, BMP, TIFF , GIF, EMF, SVG).
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
@@ -81,7 +81,7 @@ keywords: [C++ library execl Aspose.Cells Create repair parse merge convert JSON
  تم ها
     </li>
     <li>
- سبک ها و آمپر؛ قالب بندی
+ سبک ها و آمپر; قالب بندی
     </li>
     <li>
  هایپرلینک ها
@@ -391,7 +391,7 @@ keywords: [C++ library execl Aspose.Cells Create repair parse merge convert JSON
     <em class="fa fa-tags ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-قوانین قالب بندی شرطی ایجاد کنید
+قوانین قالب بندی مشروط را ایجاد کنید
     </p>
    </div>
    <div class="col-lg-4">

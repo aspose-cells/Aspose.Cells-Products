@@ -390,7 +390,7 @@ Crear &amp; manipular comentarios
  Guarde archivos de Excel en diferentes formatos
     </h2>
     <p>
- Excel API ofrece conversión de hojas de cálculo a PDF, XPS, HTML y más formatos manteniendo la máxima fidelidad visual. El proceso de conversión confiable y flexible hace que Aspose.Cells sea una opción perfecta para organizaciones que intercambian principalmente archivos dentro de formatos estándar de la industria.
+ Excel API ofrece conversión de hojas de cálculo a PDF, XPS, HTML y más formatos manteniendo la máxima fidelidad visual. El proceso de conversión confiable y flexible hace de Aspose.Cells una opción perfecta para organizaciones que principalmente intercambian archivos dentro de formatos estándar de la industria.
     </p>
     <div class="codeblock" id="code">
      <h3>

@@ -1,5 +1,5 @@
 ---
-title: Vložení kontingenčního grafu do souborů Microsoft Excel XLSX přes C#
+title:  Vložení kontingenčního grafu do souborů Microsoft Excel XLSX přes C#
 weight: 7690
 description: C# Ukázkový kód pro přidání kontingenčního grafu do XLSX pomocí knihovny .NET. Tento kód použijte pro vložení kontingenčního grafu do souboru XLSX v rámci VB.NET, Asp.NET nebo jakékoli aplikace založené na .NET.
 keywords: [C# Aspose.Cells., c# add pivot chart in xlsx., c# insert pivot chart in xlsx., c# create pivot chart in xlsx., c# modify pivot chart in xlsx., access pivot chart in xlsx]
@@ -12,7 +12,7 @@ keywords: [C# Aspose.Cells., c# add pivot chart in xlsx., c# insert pivot chart 
 
 {{% blocks/products/pf/agp/content h2="" %}}
 
- Generování souboru MS Excel XLSX s kontingenčním grafem dynamicky v rámci běžící aplikace je snadné. Abychom mohli vytvořit XLSX dokumentů s kontingenčním grafem od nuly bez nutnosti MS Office, použijeme[Aspose.Cells for .NET](https://products.aspose.com/cells/net) API, který nabízí různé funkce pro vytváření, manipulaci a konverzi tabulek pomocí platformy .NET. Vývojáři mohou snadno vylepšit kód pro zápis dat, generování tabulek nebo grafů a také vytváření tabulek v tabulkách.
+Generování souboru MS Excel XLSX s kontingenčním grafem dynamicky v rámci běžící aplikace je snadné. Abychom mohli vytvořit XLSX dokumentů s kontingenčním grafem od nuly bez nutnosti MS Office, použijeme[Aspose.Cells for .NET](https://products.aspose.com/cells/net) API, který nabízí různé funkce pro vytváření, manipulaci a konverzi tabulek pomocí platformy .NET. Vývojáři mohou snadno vylepšit kód pro zápis dat, generování tabulek nebo grafů a také vytváření tabulek v tabulkách.
 {{% /blocks/products/pf/agp/content %}}
 
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
@@ -78,10 +78,10 @@ XLSX je dobře známý formát pro dokumenty Excel Microsoft, který byl předst
 
 {{< blocks/products/pf/agp/other-supported-section title="Další podporované formáty kontingenčních grafů" subTitle="Pomocí kontingenčního grafu můžete také vytvořit další Microsoft formáty Excelu, včetně několika níže uvedených." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/insert-pivot-chart-to-xls/" name="XLS" description="Microsoft Excelová tabulka (starší)" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/insert-pivot-chart-to-xlsx/" name="XLSX" description="Otevřete sešit XML" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/insert-pivot-chart-to-xlsb/" name="XLSB" description="Binární sešit Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/insert-pivot-chart-to-xlsm/" name="XLSM" description="Tabulka s podporou maker" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/pivottable/insert-pivot-chart-to-xls/" name="XLS" description="Microsoft Excelová tabulka (starší)" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/pivottable/insert-pivot-chart-to-xlsx/" name="XLSX" description="Otevřete sešit XML" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/pivottable/insert-pivot-chart-to-xlsb/" name="XLSB" description="Binární sešit Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/pivottable/insert-pivot-chart-to-xlsm/" name="XLSM" description="Tabulka s podporou maker" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

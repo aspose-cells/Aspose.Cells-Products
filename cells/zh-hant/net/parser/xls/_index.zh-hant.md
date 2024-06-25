@@ -53,7 +53,7 @@ PM> Install-Package Aspose.Cells
 
 {{% /blocks/products/pf/agp/text %}}
 
--  Microsoft Windows 或具有 .NET Framework、.NET Core、Mono 或 Xamarin 平台的相容作業系統
+- Microsoft Windows 或具有 .NET Framework、.NET Core、Mono 或 Xamarin 平台的相容作業系統
 - 開發環境如Microsoft Visual Studio
 - 在專案中新增對 Aspose.Cells for .NET DLL 的引用 - 使用上面的下載按鈕從 NuGet 安裝
 
@@ -115,7 +115,7 @@ PM> Install-Package Aspose.Cells
             {{< blocks/products/pf/agp/democard icon="fa-download" text="它將立即被解析。" >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLS" readMoreLink="https://docs.fileformat.com/spreadsheet/xls/" >}}
-副檔名為 XLS 的檔案代表 Excel 二進位檔案格式。此類文件可以由 Microsoft Excel 以及其他類似的電子表格程式（例如 OpenOffice Calc 或 Apple Numbers）建立。Excel 儲存的檔案稱為工作簿，其中每個工作簿可以有一個或多個工作表。資料以工作表中的表格格式儲存並顯示給用戶，可以涵蓋數值、文字資料、公式、外部資料連接、圖像和圖表。 Microsoft Excel 等應用程式可讓您將工作簿資料匯出為多種不同的格式，包括 PDF、CSV、XLSX、TXT、HTML、XPS 等。隨著 Microsoft Excel 2007 的發布，XLS 文件格式被更開放和結構化的格式 XLSX 所取代。最新版本仍然支援創建和讀取 XLS 文件，儘管 XLSX 是現在使用的首選。
+副檔名為 XLS 的檔案代表 Excel 二進位檔案格式。此類文件可以由 Microsoft Excel 以及其他類似的電子表格程式（例如 OpenOffice Calc 或 Apple Numbers）建立。資料以工作表中的表格格式儲存並顯示給用戶，可以涵蓋數值、文字資料、公式、外部資料連接、圖像和圖表。 Microsoft Excel 等應用程式可讓您將工作簿資料匯出為多種不同的格式，包括 PDF、CSV、XLSX、TXT、HTML、XPS 等。隨著 Microsoft Excel 2007 的發布，XLS 文件格式被更開放和結構化的格式 XLSX 所取代。
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 

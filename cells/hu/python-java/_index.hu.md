@@ -444,7 +444,7 @@ Python Az Excel könyvtár az Excel fájlok PDF, XPS &amp; HTML formátumban. A 
     </p>
     <div class="codeblock" id="code">
      <h3>
- Táblázat mentése különböző formátumokban - Java
+Táblázat mentése különböző formátumokban - Java
      </h3>
      <pre><code class="java">
 // load file to be converted

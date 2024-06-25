@@ -1,7 +1,7 @@
 ---
 title: Wyodrębnij tekst i obrazy z dokumentu ODS pod numerem C++
 weight: 9130
-description: C++ przykładowy kod do wyodrębnienia tekstu i obrazów z pliku ODS w C++ Środowisko wykonawcze dla Windows 32-bitowego, Windows 64-bitowego i 64-bitowego systemu Linux.
+description: C++ przykładowy kod do wyodrębnienia tekstu i obrazów z pliku ODS w C++ Środowisko wykonawcze dla Windows 32-bitowy, Windows 64-bitowy i Linux 64-bitowy.
 keywords: [C++ Aspose.Cells., C++ Extract text and images from ODS file., C++ How to Parse ODS File., C++ Extract text from ODS file., Extract images from ODS file using C++]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -108,7 +108,7 @@ Aspose::Cells::Cleanup();
     {{< /blocks/products/pf/agp/demobox >}}
 
     {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="ODS" readMoreLink="https://docs.fileformat.com/spreadsheet/ods/" >}}
- Pliki z rozszerzeniem ODS dla formatu dokumentu arkusza kalkulacyjnego OpenDocument, które mogą być edytowane przez użytkownika. Dane są przechowywane w pliku ODF w wierszach i kolumnach. Jest to format oparty na języku XML i jest jednym z kilku podtypów rodziny formatów dokumentów otwartych (ODF). Format jest określony jako część specyfikacji ODF 1.2 opublikowanej i utrzymywanej przez firmę OASIS. Wiele aplikacji na Windows, a także na innych systemach operacyjnych, może otwierać pliki ODS do edycji i manipulacji, w tym Microsoft Excel, NeoOffice i LibreOffice. Pliki ODS można również konwertować na inne formaty arkuszy kalkulacyjnych, takie jak XLS, XLSX i inne, za pomocą różnych aplikacji.
+ Pliki z rozszerzeniem ODS dla formatu dokumentu arkusza kalkulacyjnego OpenDocument, które mogą być edytowane przez użytkownika. Dane są przechowywane w pliku ODF w wierszach i kolumnach. Jest to format oparty na języku XML i jest jednym z kilku podtypów rodziny formatów dokumentów otwartych (ODF). Format jest określony jako część specyfikacji ODF 1.2 opublikowanej i utrzymywanej przez firmę OASIS. Wiele aplikacji na Windows, a także na innych systemach operacyjnych może otwierać pliki ODS do edycji i manipulacji, w tym Microsoft Excel, NeoOffice i LibreOffice. Pliki ODS można również konwertować na inne formaty arkuszy kalkulacyjnych, takie jak XLS, XLSX i inne, za pomocą różnych aplikacji.
 
     {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 

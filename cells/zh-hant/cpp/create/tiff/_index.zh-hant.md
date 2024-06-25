@@ -1,6 +1,6 @@
 ---
 title: 建立TIFF - 在C++中建立TIFF文件
-description: Aspose Excel。 C++ 使用 Aspose.Cells 快速輕鬆地建立 TIFF 檔案。使用 C++ 產生 TIFF 檔案。在 C++ 中建立 TIFF。在 C++ 中建立 TIFF。
+description: Aspose Excel。 C++ 使用 Aspose.Cells 快速輕鬆地建立 TIFF 檔案。
 keywords: [Aspose Excel., C++ Aspose.Cells., C++ Create TIFF file., Generate TIFF file in C++., Create TIFF file using C++., Write data to TIFF file via C++., Create a TIFF file in C++., C++ Generate a TIFF file., C++ TIFF Creater]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

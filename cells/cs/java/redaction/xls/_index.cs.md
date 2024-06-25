@@ -58,7 +58,7 @@ keywords: [Java Aspose.Cells., Java Search and replace text in XLS file., Java r
 + Vyberte příslušný list.
 + Definovat a určit možnosti hledání.
 + Určete rozsah, ve kterém chcete hledat
-+ Projděte každou buňku a použijte getCells().find(...).
+Projděte každou buňku a použijte getCells().find(...).
 + Nahraďte hodnotu.
 + Uložte sešit.
 
@@ -72,7 +72,7 @@ keywords: [Java Aspose.Cells., Java Search and replace text in XLS file., Java r
 
 {{% /blocks/products/pf/agp/text %}}
 
-- Microsoft Windows nebo kompatibilní OS s Java Runtime Environment pro JSP/JSF aplikace a desktopové aplikace.
+-  Microsoft Windows nebo kompatibilní OS s Java Runtime Environment pro JSP/JSF aplikace a desktopové aplikace.
 -  Získejte nejnovější verzi Aspose.Cells for Java přímo od
  [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells)  .
 

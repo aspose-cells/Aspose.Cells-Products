@@ -125,7 +125,7 @@ workbook.save(dataDir + "AWArtWToWorksheet_out.ods");
     {{< blocks/products/pf/agp/about-file-section >}}
 
         {{< blocks/products/pf/agp/demobox sectionTitle="Vízjel ODS az online alkalmazáson keresztül" sectionDescription=" Adjon hozzá vízjelet a ODS dokumentumokhoz, látogassa meg webhelyünket[Élő bemutatók weboldala](https://products.aspose.app/cells/watermark). Az élő demónak a következő előnyei vannak" >}}
-            {{< blocks/products/pf/agp/democard icon="fa-cogs" text="Nem kell letölteni vagy beállítani semmit" >}}
+            {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Nem kell letölteni vagy beállítani semmit" >}}
             {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Nem kell kódot írni" >}}
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Csak töltse fel a ODS fájlt, állítsa be a vízjelet, és nyomja meg a \"Hozzáadás\" gombot" >}}
             {{< blocks/products/pf/agp/democard icon="fa-download" text=" Azonnal megkapja a letöltési linket az eredményül kapott fájlhoz" >}}

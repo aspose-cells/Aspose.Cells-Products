@@ -12,7 +12,7 @@ keywords: [C# Aspose.Cells., c# add PivotTable in xlsx., c# insert PivotTable in
 
 {{% blocks/products/pf/agp/content h2="" %}}
 
- É fácil gerar o arquivo MS Excel XLSX com tabela dinâmica dinamicamente no aplicativo em execução. Para criar documentos XLSX com Tabela Dinâmica do zero sem precisar do MS Office, usaremos[Aspose.Cells for .NET](https://products.aspose.com/cells/net) API que oferece diversas funcionalidades para criação, manipulação e conversão de planilhas utilizando a plataforma .NET. Os desenvolvedores podem aprimorar facilmente o código para escrever dados, gerar tabelas ou gráficos, bem como criar tabelas em planilhas.
+ É fácil gerar o arquivo MS Excel XLSX com tabela dinâmica dinamicamente no aplicativo em execução. Para criar documentos XLSX com Tabela Dinâmica do zero sem precisar do MS Office, usaremos[Aspose.Cells for .NET](https://products.aspose.com/cells/net) API que oferece diversas funcionalidades para criação, manipulação e conversão de planilhas utilizando a plataforma .NET. Os desenvolvedores podem facilmente aprimorar o código para escrever dados, gerar tabelas ou gráficos, bem como criar tabelas em planilhas.
 {{% /blocks/products/pf/agp/content %}}
 
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
@@ -77,10 +77,10 @@ XLSX é um formato bem conhecido para documentos Excel Microsoft que foi introdu
 
 {{< blocks/products/pf/agp/other-supported-section title="Outros formatos de tabela dinâmica suportados" subTitle="Você também pode criar outros formatos Excel Microsoft com Tabela Dinâmica, incluindo alguns listados abaixo." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/insert-pivottable-to-xls/" name="XLS" description="Microsoft Planilha Excel (Legado)" >}} 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/insert-pivottable-to-xlsx/" name="XLSX" description="Abra a pasta de trabalho XML" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/insert-pivottable-to-xlsb/" name="XLSB" description="Pasta de trabalho binária do Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/insert-pivottable-to-xlsm/" name="XLSM" description="Planilha habilitada para macro" >}} 
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/pivottable/insert-pivottable-to-xls/" name="XLS" description="Microsoft Planilha Excel (Legado)" >}} 
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/pivottable/insert-pivottable-to-xlsx/" name="XLSX" description="Abra a pasta de trabalho XML" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/pivottable/insert-pivottable-to-xlsb/" name="XLSB" description="Pasta de trabalho binária do Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/pivottable/insert-pivottable-to-xlsm/" name="XLSM" description="Planilha habilitada para macro" >}} 
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

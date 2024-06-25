@@ -1,7 +1,7 @@
 ---
 title: " API de Node.js para hojas de cálculo de Excel: Aspose"
 weight: 3120
-description: Procese formatos de archivos de Excel a través de la biblioteca Node.js. Leer escribir renderizar y convertir XLS XLSX XLSB XLTX XLTM XLSM XML ODS CSV y más formatos a través de Node.js en Windows, macOS y Linux
+description: Procese formatos de archivos de Excel a través de la biblioteca Node.js. Leer, escribir, renderizar y convertir XLS XLSX XLSB XLTX XLTM XLSM XML ODS CSV y más formatos a través de Node.js en Windows, macOS y Linux
 ---
 {{< blocks/products/pf/main-wrap-class >}}
 {{< blocks/products/pf/i18n/upper-banner h1="API de formato de archivo Excel de Node.js" h2="Genere, modifique, convierta y renderice hojas de cálculo de Excel utilizando Node.js sin necesidad de Microsoft Excel." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/headers/aspose_cells-for-nodejs-java.svg" pfName="Aspose.Cells" subTitlepfName="for Node.js via Java" downloadUrl="https://downloads.aspose.com/cells/nodejs" >}}

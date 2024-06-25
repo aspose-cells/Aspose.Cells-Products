@@ -39,7 +39,7 @@ PM> Install-Package Aspose.Cells
 + Načíst soubor ODS.
 + Vyberte list.
 + Vytvořit objekt FindOptions.
-+ Nastavte možnosti vyhledávání
+Nastavte možnosti vyhledávání
 + Projděte každou buňku a použijte metodu Najít.
 + Uložte sešit.
 
@@ -49,11 +49,11 @@ PM> Install-Package Aspose.Cells
 
 {{% blocks/products/pf/agp/text %}}
 
-Naše API jsou podporována na všech hlavních platformách a operačních systémech. Před spuštěním níže uvedeného kódu se prosím ujistěte, že máte ve svém systému následující předpoklady.
+ Naše API jsou podporována na všech hlavních platformách a operačních systémech. Před spuštěním níže uvedeného kódu se prosím ujistěte, že máte ve svém systému následující předpoklady.
 
 {{% /blocks/products/pf/agp/text %}}
 
--  Microsoft Windows nebo kompatibilní OS s .NET Framework, .NET Core, Mono nebo Xamarin Platforms
+- Microsoft Windows nebo kompatibilní OS s .NET Framework, .NET Core, Mono nebo Xamarin Platforms
 -  Vývojové prostředí jako Microsoft Visual Studio
 -  Přidejte odkaz na Aspose.Cells for .NET DLL do vašeho projektu – Nainstalujte z NuGet pomocí tlačítka Stáhnout výše
 
@@ -117,7 +117,7 @@ wb.Save("e:\test2\output.ods");
             {{< blocks/products/pf/agp/democard icon="fa-download" text=" Okamžitě bude redigován." >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="ODS" readMoreLink="https://docs.fileformat.com/spreadsheet/ods/" >}}
- Soubory s příponou ODS představují formát OpenDocument Spreadsheet Document, který může uživatel upravovat. Data jsou uložena v souboru ODF do řádků a sloupců. Je to formát založený na XML a je jedním z několika podtypů v rodině Open Document Formats (ODF). Formát je specifikován jako součást specifikací ODF 1.2 publikovaných a spravovaných OASIS. Řada aplikací na Windows i jiných operačních systémech může otevřít soubory ODS pro úpravy a manipulaci, včetně Microsoft Excel, NeoOffice a LibreOffice. Soubory ODS lze také různými aplikacemi převést do jiných tabulkových formátů, stejně jako XLS, XLSX a další.
+ Soubory s příponou ODS představují formát OpenDocument Spreadsheet Document, který může uživatel upravovat. Data jsou uložena v souboru ODF do řádků a sloupců. Je to formát založený na XML a je jedním z několika podtypů v rodině Open Document Formats (ODF). Formát je specifikován jako součást specifikací ODF 1.2 publikovaných a spravovaných OASIS. Řada aplikací na Windows i jiných operačních systémech může otevřít soubory ODS pro úpravy a manipulaci, včetně Microsoft Excel, NeoOffice a LibreOffice. Soubory ODS lze také různými aplikacemi převést do jiných tabulkových formátů, stejně jako XLS, XLSX a dalších.
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 

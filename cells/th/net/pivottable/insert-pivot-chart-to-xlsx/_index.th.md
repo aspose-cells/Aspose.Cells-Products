@@ -1,5 +1,5 @@
 ---
-title: แทรก Pivot Chart ในไฟล์ Micorsoft Excel XLSX ผ่าน C#
+title:  แทรก Pivot Chart ในไฟล์ Micorsoft Excel XLSX ผ่าน C#
 weight: 7690
 description: C# ตัวอย่างโค้ดสำหรับเพิ่ม Pivot Chart ไปที่ XLSX โดยใช้ .NET Library ใช้โค้ดนี้เพื่อแทรก Pivot Chart ไปยังไฟล์ XLSX ภายใน VB.NET, Asp.NET หรือแอปพลิเคชันที่ใช้ .NET ใดๆ
 keywords: [C# Aspose.Cells., c# add pivot chart in xlsx., c# insert pivot chart in xlsx., c# create pivot chart in xlsx., c# modify pivot chart in xlsx., access pivot chart in xlsx]
@@ -12,7 +12,7 @@ keywords: [C# Aspose.Cells., c# add pivot chart in xlsx., c# insert pivot chart 
 
 {{% blocks/products/pf/agp/content h2="" %}}
 
- การสร้างไฟล์ MS Excel XLSX ด้วย Pivot Chart แบบไดนามิกภายในแอปพลิเคชันที่รันอยู่นั้นเป็นเรื่องง่าย ในการสร้างเอกสาร XLSX ด้วย Pivot Chart ตั้งแต่เริ่มต้นโดยไม่ต้องใช้ MS Office เราจะใช้[Aspose.Cells for .NET](https://products.aspose.com/cells/net) API ที่นำเสนอคุณสมบัติที่แตกต่างกันสำหรับการสร้าง สเปรดชีต การจัดการ และการแปลงโดยใช้แพลตฟอร์ม .NET นักพัฒนาสามารถปรับปรุงโค้ดสำหรับการเขียนข้อมูล การสร้างแผนภูมิหรือกราฟ รวมถึงการสร้างตารางในสเปรดชีตได้อย่างง่ายดาย
+การสร้างไฟล์ MS Excel XLSX ด้วย Pivot Chart แบบไดนามิกภายในแอปพลิเคชันที่รันอยู่นั้นเป็นเรื่องง่าย ในการสร้างเอกสาร XLSX ด้วย Pivot Chart ตั้งแต่เริ่มต้นโดยไม่ต้องใช้ MS Office เราจะใช้[Aspose.Cells for .NET](https://products.aspose.com/cells/net) API ที่นำเสนอคุณสมบัติที่แตกต่างกันสำหรับการสร้าง สเปรดชีต การจัดการ และการแปลงโดยใช้แพลตฟอร์ม .NET นักพัฒนาสามารถปรับปรุงโค้ดสำหรับการเขียนข้อมูล การสร้างแผนภูมิหรือกราฟ รวมถึงการสร้างตารางในสเปรดชีตได้อย่างง่ายดาย
 {{% /blocks/products/pf/agp/content %}}
 
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
@@ -78,10 +78,10 @@ XLSX เป็นรูปแบบที่รู้จักกันดีส
 
 {{< blocks/products/pf/agp/other-supported-section title="รูปแบบแผนภูมิ Pivot อื่นๆ ที่รองรับ" subTitle="คุณยังสามารถสร้างรูปแบบ Excel Microsoft อื่นๆ ด้วย Pivot Chart ได้ รวมถึงบางรูปแบบที่แสดงด้านล่าง" >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/insert-pivot-chart-to-xls/" name="XLS" description="Microsoft สเปรดชีต Excel (ดั้งเดิม)" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/insert-pivot-chart-to-xlsx/" name="XLSX" description="เปิดสมุดงาน XML" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/insert-pivot-chart-to-xlsb/" name="XLSB" description="สมุดงาน Excel ไบนารี" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/insert-pivot-chart-to-xlsm/" name="XLSM" description="สเปรดชีตที่เปิดใช้งานมาโคร" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/pivottable/insert-pivot-chart-to-xls/" name="XLS" description="Microsoft สเปรดชีต Excel (ดั้งเดิม)" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/pivottable/insert-pivot-chart-to-xlsx/" name="XLSX" description="เปิดสมุดงาน XML" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/pivottable/insert-pivot-chart-to-xlsb/" name="XLSB" description="สมุดงาน Excel ไบนารี" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/pivottable/insert-pivot-chart-to-xlsm/" name="XLSM" description="สเปรดชีตที่เปิดใช้งานมาโคร" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

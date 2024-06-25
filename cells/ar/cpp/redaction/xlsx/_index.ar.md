@@ -1,7 +1,7 @@
 ---
 title: بحث واستبدال النص في مستند XLSX عبر C++
 weight: 9570
-description: C++ رمز المثال لتنقيح المعلومات الحساسة في ملف XLSX على C++ بيئة التشغيل لـ Windows 32 بت، Windows 64 بت وLinux 64 بت.
+description: C++ رمز المثال لتنقيح المعلومات الحساسة في ملف XLSX على C++ بيئة التشغيل لـ Windows 32 بت وWindows 64 بت ولينكس 64 بت.
 keywords: [C++ Aspose.Cells., C++ Search and replace text in XLSX file., C++ redact XLSX file., C++ edit XLSX file., C++ XLSX file redaction., C++ Search and replace string in XLSX file]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

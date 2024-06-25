@@ -1,5 +1,5 @@
 ---
-title: .NET Exceller API | Formats de feuilles de calcul de processus via .NET Core
+title:  .NET Exceller API | Formats de feuilles de calcul de processus via .NET Core
 weight: 2030
 description: C# ASP.NET Bibliothèque VB.NET pour créer, réparer, fusionner, analyser et convertir des fichiers Excel. Convertissez Excel en PDF, JSON, XML, TSV, HTML et ainsi de suite.
 keywords: [Aspose.Cells C# Create repair parse merge convert JSON Excel XML PDF HTML TSV SQL TXT PNG JPEG and more formats]
@@ -13,11 +13,11 @@ keywords: [Aspose.Cells C# Create repair parse merge convert JSON Excel XML PDF 
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
- Aspose.Cells for .NET est une programmation de feuille de calcul Excel API pour accélérer les tâches de gestion et de traitement des feuilles de calcul. API prend en charge la création d'applications multiplateformes ayant la capacité de générer, modifier, convertir, restituer et imprimer des feuilles de calcul. De plus, il ne repose pas sur Microsoft Excel ou sur des composants Microsoft Office Interop à installer, mais sur un ensemble robuste d'API qui traitent tous les formats Excel ainsi que les formats CSV et SpreadsheetML.
+Aspose.Cells for .NET est une programmation de feuille de calcul Excel API pour accélérer les tâches de gestion et de traitement des feuilles de calcul. API prend en charge la création d'applications multiplateformes ayant la capacité de générer, modifier, convertir, restituer et imprimer des feuilles de calcul. De plus, il ne repose pas sur Microsoft Excel ou sur des composants Microsoft Office Interop à installer, mais sur un ensemble robuste d'API qui traitent tous les formats Excel ainsi que les formats CSV et SpreadsheetML.
 </p>
 
 <p>
-En intégrant API, certaines des tâches de base que les développeurs peuvent effectuer, comme la gestion de plusieurs feuilles de calcul, la création de contenus et de styles de feuilles de calcul à partir de zéro, l'importation de données sur les feuilles de calcul à partir de différentes sources de données, l'ajout de formules mathématiques, financières et textuelles communes et complexes, la manipulation de graphiques, des images, des commentaires, des objets dessinés et bien plus encore.
+ En intégrant API, certaines des tâches de base que les développeurs peuvent effectuer, comme la gestion de plusieurs feuilles de calcul, la création de contenus et de styles de feuilles de calcul à partir de zéro, l'importation de données sur les feuilles de calcul à partir de différentes sources de données, l'ajout de formules mathématiques, financières et textuelles communes et complexes, la manipulation de graphiques, des images, des commentaires, des objets dessinés et bien plus encore.
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
@@ -92,7 +92,7 @@ Résumer
  Appliquer des formules
     </li>
     <li>
- Importer/Exporter des données
+Importer/Exporter des données
     </li>
    </ul>
   </div>
@@ -213,7 +213,7 @@ Résumer
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Formats de fichiers pris en charge" description=" Aspose.Cells for .NET prend en charge la feuille de calcul populaire[formats de fichiers](https://docs.aspose.com/cells/net/supported-file-formats/)ainsi que les formats d\'image et de mise en page fixe les plus couramment utilisés." >}}
+{{< blocks/products/pf/carousel-item h3="Formats de fichiers pris en charge" description=" Aspose.Cells for .NET prend en charge la feuille de calcul populaire[formats de fichiers](https://docs.aspose.com/cells/net/supported-file-formats/) ainsi que les formats d\'image et de mise en page fixe les plus couramment utilisés." >}}
 <div class="diagram1 d2 d1-net">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -387,7 +387,7 @@ Sortie uniquement
     <em class="fa fa-support ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Prise en charge de CSV (valeurs séparées par des virgules) et amp; TSV (valeurs séparées par des tabulations)
+Prise en charge de CSV (valeurs séparées par des virgules) et amp; TSV (valeurs séparées par des tabulations)
     </p>
    </div>
    <div class="col-lg-4">
@@ -450,7 +450,7 @@ Créer et amp; manipuler les commentaires
     <em class="fa fa-file-code-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-Modifier le code VBA ou les macros dans le fichier modèle
+ Modifier le code VBA ou les macros dans le fichier modèle
     </p>
    </div>
    <div class="col-lg-4">
@@ -469,7 +469,7 @@ Modifier le code VBA ou les macros dans le fichier modèle
     </p>
     <div class="codeblock" id="code">
      <h3>
- Enregistrer la feuille de calcul dans différents formats - C#
+Enregistrer la feuille de calcul dans différents formats - C#
      </h3>
      <pre><code class="cs">// load file to be converted
 
@@ -491,7 +491,7 @@ workbook.Save(dir + "output.html", Aspose.Cells.SaveFormat.Html);</code></pre>
  Visualisez les données avec le formatage, les graphiques et les graphiques. Graphique
     </h2>
     <p>
-Aspose.Cells for .NET vous offre une liberté et une flexibilité totales pour fournir à vos feuilles de calcul toutes sortes d'effets visuels. Le API vous permet d'appliquer différentes polices avec des attributs, des styles de cellules (alignement, indentation, rotation, bordures, ombrage et coloration, protection, habillage et réduction du texte) et tous types de formats de nombres.
+ Aspose.Cells for .NET vous offre une liberté et une flexibilité totales pour fournir à vos feuilles de calcul toutes sortes d'effets visuels. Le API vous permet d'appliquer différentes polices avec des attributs, des styles de cellules (alignement, indentation, rotation, bordures, ombrage et coloration, protection, habillage et réduction du texte) et tous types de formats de nombres.
     </p>
     <p>
  De même, les tableaux et graphiques sont visuellement attrayants et peuvent donner à votre feuille de calcul un aspect professionnel. Aspose.Cells for .NET fournit un ensemble complet d'API pour créer et manipuler tous les types de graphiques standard et personnalisés. De plus, vous pouvez ajouter différents types d'objets de dessin, tels que des commentaires, des images, des objets OLE, des formes et des contrôles aux cellules.

@@ -5,7 +5,7 @@ description:  Aspose.Cells for Java Bibliothek zum Erstellen, Reparieren, Zusamm
 keywords: [Java Aspose.Cells Create repair parse merge convert JSON Excel XML PDF HTML TSV MHTML XPS CSV PNG JPEG and more formats]
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="Java Excel-Tabellenverarbeitung API" h2="Erstellen, bearbeiten, konvertieren, schützen oder drucken Sie Tabellenkalkulationen, ohne sich auf Microsoft Excel verlassen zu müssen." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/headers/aspose_cells-for-java.svg" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="https://downloads.aspose.com/cells/java" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="Java Excel-Tabellenverarbeitung API" h2="Erstellen, bearbeiten, konvertieren, schützen oder drucken Sie Tabellen, ohne auf Microsoft Excel angewiesen zu sein." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/headers/aspose_cells-for-java.svg" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="https://downloads.aspose.com/cells/java" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells" subTitlepfName="for Java" >}}
 
@@ -13,11 +13,11 @@ keywords: [Java Aspose.Cells Create repair parse merge convert JSON Excel XML PD
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
-Aspose.Cells for Java ist eine preisgekrönte Excel-Tabellenverarbeitung API, die es den Entwicklern ermöglicht, die Funktionalität zum Lesen, Schreiben, Bearbeiten, Konvertieren &amp; Drucken Sie Tabellenkalkulationen in Ihren eigenen Anwendungen, ohne dass Sie eine Excel-Anwendung benötigen.
+Aspose.Cells for Java ist eine preisgekrönte Excel-Tabellenverarbeitung API, die es Entwicklern ermöglicht, die Funktionalität zum Lesen, Schreiben, Bearbeiten, Konvertieren und Drucken von Tabellen in ihre eigenen Anwendungen einzubetten, ohne die Excel-Anwendung Microsoft zu benötigen.
 </p>
 
 <p>
- Aspose.Cells for Java ist eine ausgereifte und funktionsreiche Bibliothek, die viele Funktionen bietet, die weit über die einfachen Datenexportfunktionen anderer auf dem Markt erhältlicher Komponenten hinausgehen. API bietet die Möglichkeit, Daten zu exportieren, Tabellenkalkulationen bis zur detailliertesten Ebene zu formatieren, Daten zu importieren und zu importieren. Bilder exportieren, Diagramme erstellen &amp; Pivot-Tabellen, anwenden &amp; Berechnen Sie komplexe Formeln mit der Formelberechnungs-Engine, streamen Sie Excel-Daten und binden Sie sie ein. Speichern Sie das Ergebnis in verschiedenen Formaten.
+ Aspose.Cells for Java ist eine ausgereifte und funktionsreiche Bibliothek, die viele Funktionen bietet, die weit über die einfachen Datenexportfunktionen anderer auf dem Markt erhältlicher Komponenten hinausgehen. API bietet die Möglichkeit, Daten zu exportieren, Tabellenkalkulationen bis ins kleinste Detail zu formatieren, Bilder zu importieren und zu exportieren, Diagramme und Pivot-Tabellen zu erstellen, komplexe Formeln mithilfe einer Formelberechnungs-Engine anzuwenden und zu berechnen, Excel-Daten zu streamen und das Ergebnis in verschiedenen Formaten zu speichern.
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
@@ -36,13 +36,13 @@ Aspose.Cells for Java ist eine preisgekrönte Excel-Tabellenverarbeitung API, di
    </header>
    <ul>
     <li>
- Vom Diagramm zum Bild
+ Diagramm zu Bild
     </li>
     <li>
- Arbeitsblatt zum Bild
+ Arbeitsblatt zu Bild
     </li>
     <li>
- Tabelle an PDF
+ Tabellenkalkulation an PDF
     </li>
     <li>
  Drucken
@@ -58,16 +58,16 @@ Aspose.Cells for Java ist eine preisgekrönte Excel-Tabellenverarbeitung API, di
  Formatierung anwenden
     </li>
     <li>
- Erstellen Sie Diagramme
+ Erstellen von Diagrammen
     </li>
     <li>
- Wenden Sie Formeln an
+ Formeln anwenden
     </li>
     <li>
 Zusammenfassen
     </li>
     <li>
- Intelligente Marker
+ Intelligente Markierungen
     </li>
    </ul>
   </div>
@@ -76,17 +76,17 @@ Zusammenfassen
    <header>
     <i class="fa fa-table">
     </i>
- GridWeb-Steuerelement
+ GridWeb-Steuerung
    </header>
    <ul>
     <li>
- Unterstützt JSP-Webanwendung
+ Unterstützt JSP-Webanwendungen
     </li>
     <li>
  Excel-Dateien laden
     </li>
     <li>
- Speichern Sie Excel-Dokumente
+ Excel-Dokumente speichern
     </li>
     <li>
  Bietet Bearbeitungsfunktionen
@@ -118,7 +118,7 @@ Zusammenfassen
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Plattformunabhängigkeit" description="Die auf der Bibliothek for Java basierenden Anwendungen wurden auf Windows Unix/Linux- und Mac-Plattformen entwickelt." >}}
+{{< blocks/products/pf/carousel-item h3="Plattformunabhängigkeit" description="Die Bibliothek for Java-basierte Anwendungen wurden auf Windows Unix/Linux- und Mac-Plattformen entwickelt." >}}
 <div class="diagram1 d1-java">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -161,7 +161,7 @@ Zusammenfassen
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Unterstützte Dateiformate" description=" Aspose.Cells for Java unterstützt die gängigen Tabellenkalkulationsformate, häufig verwendete Bilder, festes Layout und[weitere Formate](https://docs.aspose.com/cells/java/supported-file-formats/)." >}}
+{{< blocks/products/pf/carousel-item h3="Unterstützte Dateiformate" description=" Aspose.Cells for Java unterstützt die gängigen Tabellenformate, häufig verwendete Bilder, feste Layouts und[Weitere Formate](https://docs.aspose.com/cells/java/supported-file-formats/)." >}}
 <div class="diagram1 d2 d1-java">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -199,7 +199,7 @@ Zusammenfassen
      <b>
       Numbers:
      </b>
- App-Dokumente der iWork-Office-Suite Numbers von Apple
+ App-Dokumente für Apples iWork Office-Suite Numbers
     </li>
     <li>
      <b>
@@ -284,28 +284,28 @@ Nur Ausgabe
     <em class="fa fa-exchange ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Importieren und exportieren Sie Daten aus ArrayList, Array &amp; Datensatzsatz
+ Importieren und Exportieren von Daten aus ArrayList, Array und Recordset
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-image ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Diagrammerstellung &amp; Manipulation durch die APIs
+ Diagrammerstellung und -bearbeitung über die APIs
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-superscript ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Importieren Sie Formeln aus einer Designer-Tabelle
+ Importieren von Formeln aus einer Designer-Tabelle
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-cogs ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Generieren und bearbeiten Sie benannte Bereiche
+ Generieren und Bearbeiten benannter Bereiche
     </p>
    </div>
    <div class="col-lg-4">
@@ -319,70 +319,70 @@ Nur Ausgabe
     <em class="fa fa-file-text-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Füllen Sie Arbeitsblätter mit Smart Markers
+ Arbeitsblätter mit Smart Markern füllen
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-commenting ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-Erstellen &amp; Kommentare manipulieren
+Kommentare erstellen und bearbeiten
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-subscript ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Festlegen &amp; Berechnen Sie Excel &amp; benutzerdefinierte Formeln
+ Festlegen und Berechnen von Excel- und benutzerdefinierten Formeln
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-align-center ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Erstellen &amp; Manipulieren Sie Regeln für die bedingte Formatierung
+ Erstellen und Bearbeiten von Regeln für bedingte Formatierung
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-sort-amount-desc ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Erstellen &amp; Benannte Bereiche manipulieren
+ Erstellen und Bearbeiten benannter Bereiche
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-table ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Erstellen, manipulieren &amp; Pivot-Tabellen &amp; aktualisieren Pivot-Diagramme
+ Erstellen, Bearbeiten und Aktualisieren von Pivot-Tabellen und Pivot-Diagrammen
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-bar-chart ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Rendering von Diagrammen &amp; Arbeitsblätter
+ Darstellung von Diagrammen und Arbeitsblättern
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-table ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Lesen und schreiben Sie große Dateien im Light-Weight-Modus
+ Lesen und Schreiben großer Dateien im Light-Weight-Modus
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-image ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Erneutes Abtasten von Bildern in Excel zur Konvertierung PDF
+ Bilder in Excel erneut abtasten, um sie in PDF umzuwandeln
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-file-code-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Ändern Sie VBA-Code oder Makros im Vorlagendokument
+ VBA-Code oder Makros im Vorlagendokument ändern
     </p>
    </div>
    <div class="col-lg-12">
@@ -390,11 +390,11 @@ Erstellen &amp; Kommentare manipulieren
  Speichern Sie Excel-Dateien in verschiedenen Formaten
     </h2>
     <p>
- Excel API bietet die Konvertierung von Tabellenkalkulationen in die Formate PDF, XPS, HTML und weitere und sorgt dabei für höchste visuelle Wiedergabetreue. Der zuverlässige und flexible Konvertierungsprozess macht Aspose.Cells zur perfekten Wahl für Organisationen, die Dateien hauptsächlich in branchenüblichen Formaten austauschen.
+ Excel API bietet die Konvertierung von Tabellenkalkulationen in die Formate PDF, XPS, HTML und weitere bei gleichzeitig höchster visueller Wiedergabetreue. Der zuverlässige und flexible Konvertierungsprozess macht Aspose.Cells zur perfekten Wahl für Organisationen, die hauptsächlich Dateien in branchenüblichen Formaten austauschen.
     </p>
     <div class="codeblock" id="code">
      <h3>
- Tabellenkonvertierung in mehrere Formate – Java
+ Tabellenkalkulationskonvertierung in mehrere Formate - Java
      </h3>
      <pre><code class="java">// load file to be converted
 
@@ -411,10 +411,10 @@ wbk.save(dir + "output.html", SaveFormat.HTML);</code></pre>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-Formatieren Sie Arbeitsblätter auf höchst detaillierte Ebene
+Formatieren Sie Arbeitsblätter auf der granularsten Ebene
     </h2>
     <p>
- Die Bibliothek bietet Tabellenkalkulationsformatierung, einschließlich, aber nicht beschränkt auf, Arbeitsblattformatierung auf Zeilen-, Spalten- und Zellenebene, das Hinzufügen bedingter Formatierungsregeln, das Definieren von Zahlenformaten und das Festlegen von Schriftarten mit Attributen. Ebenso unterstützt API die Bearbeitung und Erstellung aller Arten von benutzerdefinierten und Standarddiagrammen sowie verschiedener Zeichenobjekte wie OLE-Objekte, Bilder, Kommentare, Formen und Steuerelemente für die Zellen.
+ Die Bibliothek bietet Formatierung für Tabellenkalkulationen, einschließlich, aber nicht beschränkt auf die Formatierung von Arbeitsblättern auf Zeilen-, Spalten- und Zellenebene, das Hinzufügen von Regeln für bedingte Formatierung, das Definieren von Zahlenformaten und das Festlegen von Schriftarten mit Attributen. Ebenso unterstützt API das Bearbeiten und Erstellen aller Arten von benutzerdefinierten und Standarddiagrammen sowie verschiedener Zeichenobjekte wie OLE-Objekte, Bilder, Kommentare, Formen und Steuerelemente für die Zellen.
     </p>
    </div>
    <!--<div class="col-lg-12">
@@ -426,14 +426,14 @@ Formatieren Sie Arbeitsblätter auf höchst detaillierte Ebene
 </div>-->
    <div class="col-lg-12">
     <h2 class="h2title">
- Konvertieren Sie Diagramme &amp; Blätter zu Bild &amp; PDF Formate
+ Konvertieren Sie Diagramme und Tabellen in Bild- und PDF-Formate
     </h2>
     <p>
-Aspose.Cells for Java bietet spezielle Konvertierungsfunktionen wie Diagramme in Bilder und PDF, Arbeitsblätter in Bilder, Drucken von Arbeitsblättern und Konvertieren von Tabellenkalkulationen in das Dateiformat PDF. Der Konvertierungsprozess ist äußerst flexibel und einfach und ermöglicht die Auswahl verschiedener Möglichkeiten für die Konvertierung, z. B. das erneute Sampling von Bildern während der Tabellenkalkulation in PDF-Transformation oder die Anpassung der resultierenden Bildabmessungen beim Rendern von Arbeitsblättern und Diagrammen in Bilder.
+Aspose.Cells for Java bietet spezielle Konvertierungsfunktionen wie Diagramme in Bilder und PDF, Arbeitsblätter in Bilder, Drucken von Arbeitsblättern und Konvertieren von Tabellenkalkulationen in das Dateiformat PDF. Der Konvertierungsprozess ist äußerst flexibel und einfach und ermöglicht die Auswahl mehrerer Konvertierungsmethoden, wie z. B. Neuabtastung von Bildern während der Transformation von Tabellenkalkulationen in PDF oder Anpassen der resultierenden Bildabmessungen beim Rendern von Arbeitsblättern und Diagrammen in Bilder.
     </p>
     <div class="codeblock" id="code">
      <h3>
- Excel-Diagramm als Bild rendern &amp; PDF - Java
+ Excel-Diagramm als Bild rendern & PDF - Java
      </h3>
      <pre><code class="java">// load spreadsheet containing the chart
 
@@ -454,18 +454,18 @@ chart.toPdf(dir + "output.pdf");</code></pre>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
- Bearbeiten Sie Excel-Zeilen und -Daten. Säulen
+ Bearbeiten von Excel-Zeilen und -Spalten
     </h2>
     <p>
- Aspose.Cells for Java ermöglicht Ihnen, Zeilen und Spalten auf verschiedene Weise zu ändern. Man kann ganz einfach die Spaltenbreite und Zeilenhöhe anpassen, die Breite/Höhe der Zellen je nach Inhalt automatisch anpassen, einfügen und einfügen. löschen, ausblenden &amp; Einblenden sowie Gruppieren &amp; Gruppierung von Zeilen und Spalten aufheben.
+ Aspose.Cells for Java ermöglicht Ihnen, Zeilen und Spalten auf verschiedene Weise zu ändern. Sie können Spaltenbreite und Zeilenhöhe einfach anpassen, die Breite/Höhe von Zellen automatisch ab Inhalt anpassen, Zeilen und Spalten einfügen und löschen, ausblenden und sichtbar machen sowie gruppieren und die Gruppierung aufheben.
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
- Fassen Sie Daten mit Diagrammen und Diagrammen zusammen. Pivot-Tabellen
+ Daten mit Diagrammen und Pivot-Tabellen zusammenfassen
     </h2>
     <p>
-Bei sehr großen Tabellenkalkulationen kann es schwierig sein, zusammengefasste Informationen zu erhalten. Eine Pivot-Tabelle dient dazu, die flachen Daten schnell zu beschreiben und je nach Bedarf die relevanten Informationen zu erhalten. API erstellt dynamisch Pivot-Tabellen und Diagramme. Eine dynamische Änderung der Pivot-Table-Quelldaten ist möglich. Darüber hinaus sind Smart Markers ein weiteres Top-Feature dieser Bibliothek, um Arbeitsblätter anhand von Datenquellen zu füllen und visuell wirkungsvolle Berichte zu erstellen.
+Bei sehr großen Tabellen kann es schwierig sein, zusammengefasste Informationen zu erhalten. Eine Pivot-Tabelle ist dazu da, die flachen Daten schnell zu beschreiben und die relevanten Informationen je nach Bedarf abzurufen. API erstellt dynamisch Pivot-Tabellen und Diagramme. Eine dynamische Änderung der Pivot-Tabellen-Quelldaten ist möglich. Darüber hinaus gibt es Smart Markers, ein weiteres Top-Feature dieser Bibliothek, um Arbeitsblätter durch Datenquellen zu füllen und visuell ansprechende Berichte zu erstellen.
     </p>
    </div>
    <!--
@@ -494,7 +494,7 @@ Bei sehr großen Tabellenkalkulationen kann es schwierig sein, zusammengefasste 
  Webbasierte visuelle Kontrolle für Tabellenkalkulationen
     </h2>
     <p>
- Aspose.Cells for Java bieten außerdem ein UI-Steuerelement, das in JSP-Webanwendungen eingebettet werden kann und mit allen modernen Webbrowsern wie Chrome, Firefox, Internet Explorer und Opera kompatibel ist. Endbenutzer können damit Excel-Dateien vom Frontend Ihrer Webanwendung laden, bearbeiten und speichern.
+ Aspose.Cells for Java bietet auch ein UI-Steuerelement, das in JSP-Webanwendungen eingebettet werden kann und mit allen modernen Webbrowsern wie Chrome, Firefox, Internet Explorer und Opera kompatibel ist. Endbenutzer können damit Excel-Dateien vom Frontend Ihrer Webanwendung laden, bearbeiten und speichern.
     </p>
    </div>
   </div>
@@ -504,20 +504,20 @@ Bei sehr großen Tabellenkalkulationen kann es schwierig sein, zusammengefasste 
 
 {{< /blocks/products/pf/main-container >}}
 
-{{< blocks/products/pf/i18n/testimonials title="Was sagen die Leute" subTitle="Verlassen Sie sich nicht nur auf unser Wort. Sehen Sie, was Benutzer über Tabellenkalkulations-APIs sagen." caseStudiesLink="https://downloads.aspose.com/corporate/case-studies/aspose.cells/" >}}
+{{< blocks/products/pf/i18n/testimonials title="Was sagen die Leute" subTitle="Verlassen Sie sich nicht bloß auf unser Wort. Sehen Sie, was Benutzer über Tabellenkalkulations-APIs zu sagen haben." caseStudiesLink="https://downloads.aspose.com/corporate/case-studies/aspose.cells/" >}}
 
 {{< blocks/products/pf/testimonials-quote >}}
 <p class="first">
-Wir würden die Verwendung von Aspose.cells for Java empfehlen, da diese einfach zu implementieren ist und API einfach zu verstehen und sehr flüssig ist.
+Wir empfehlen die Verwendung von Aspose.cells for Java, da diese leicht umzusetzen ist und die Nummer API leicht zu verstehen und sehr flüssig ist.
  <em>
- Pierre-Eric Oudin | Adviseo von Setec, Frankreich
+ Advizeo von Setec, Frankreich
  </em>
 </p>
 {{< /blocks/products/pf/testimonials-quote >}}
 
 {{< blocks/products/pf/testimonials-quote >}}
 <p class="second">
- Unsere Gesamterfahrung mit den Produkten von Aspose war sehr positiv. Diese Komponente steigerte den Geschäftswert des Xpand IT-Produkts – Xporter Plugin für JIRA – und ermöglichte uns die Entwicklung einer Referenzlösung für den Datenexport.
+ Unsere Gesamterfahrung mit Aspose-Produkten war sehr positiv. Diese Komponente steigerte den Geschäftswert des Xpand IT-Produkts – Xporter Plugin für JIRA – und ermöglichte uns die Entwicklung einer Referenzlösung für den Datenexport.
  <em>
  Paulo Lopes | Xpand IT, Großbritannien
  </em>
@@ -531,13 +531,13 @@ Wir würden die Verwendung von Aspose.cells for Java empfehlen, da diese einfach
 {{< blocks/products/pf/slr-element name="Dokumentation" href="https://docs.aspose.com/cells/java" >}}
 {{< blocks/products/pf/slr-element name="Quellcode" href="https://github.com/aspose-cells/Aspose.Cells-for-Java" >}}
 {{< blocks/products/pf/slr-element name="API Referenzen" href="https://reference.aspose.com/cells/java" >}}
-{{< blocks/products/pf/slr-element name="Tutorial-Videos" href="https://www.youtube.com/user/asposevideo" >}}
+{{< blocks/products/pf/slr-element name="Anleitungsvideos" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="Produkt Support" tabId="support" >}}
 {{< blocks/products/pf/slr-element name="Kostenloser Support" href="https://forum.aspose.com/c/cells/9" >}}
-{{< blocks/products/pf/slr-element name="Bezahlter Support" href="https://helpdesk.aspose.com/" >}}
-{{< blocks/products/pf/slr-element name="Blog" href="https://blog.aspose.com/category/cells/" >}}
+{{< blocks/products/pf/slr-element name="Kostenpflichtiger Support" href="https://helpdesk.aspose.com/" >}}
+{{< blocks/products/pf/slr-element name="Der Blog" href="https://blog.aspose.com/category/cells/" >}}
 {{< blocks/products/pf/slr-element name="Versionshinweise" href="https://docs.aspose.com/cells/java/release-notes/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
@@ -550,7 +550,7 @@ Wir würden die Verwendung von Aspose.cells for Java empfehlen, da diese einfach
 
 {{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://downloads.aspose.com/cells/java" pricingInformationLink="https://purchase.aspose.com/pricing/cells/java" >}}
 
-{{< blocks/products/pf/offers-section pfName="Aspose.Cells" description="Aspose.Cells bietet individuelle Excel-APIs für andere gängige Entwicklungsumgebungen, wie unten aufgeführt:" >}}
+{{< blocks/products/pf/offers-section pfName="Aspose.Cells" description="Aspose.Cells bietet einzelne Excel-APIs für andere beliebte Entwicklungsumgebungen, wie unten aufgeführt:" >}}
 
     {{< blocks/products/pf/offers-section-item link="/cells/net/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sdkName=".NET" >}}
     {{< blocks/products/pf/offers-section-item link="/cells/cpp/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" sdkName="C++" >}}

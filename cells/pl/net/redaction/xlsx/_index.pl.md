@@ -39,7 +39,7 @@ PM> Install-Package Aspose.Cells
 + Załaduj plik XLSX.
 + Wybierz arkusz.
 + Utwórz obiekt FindOptions.
-+ Ustaw opcje wyszukiwania
+Ustaw opcje wyszukiwania
 + Przejdź przez każdą komórkę i użyj metody Znajdź.
 + Zapisz skoroszyt.
 
@@ -49,11 +49,11 @@ PM> Install-Package Aspose.Cells
 
 {{% blocks/products/pf/agp/text %}}
 
-Nasze interfejsy API są obsługiwane na wszystkich głównych platformach i systemach operacyjnych. Przed wykonaniem poniższego kodu upewnij się, że w Twoim systemie znajdują się następujące wymagania wstępne.
+ Nasze interfejsy API są obsługiwane na wszystkich głównych platformach i systemach operacyjnych. Przed wykonaniem poniższego kodu upewnij się, że w Twoim systemie znajdują się następujące wymagania wstępne.
 
 {{% /blocks/products/pf/agp/text %}}
 
--  Microsoft Windows lub kompatybilny system operacyjny z .NET Framework, .NET Core, Mono lub platformami Xamarin
+- Microsoft Windows lub kompatybilny system operacyjny z .NET Framework, .NET Core, Mono lub platformami Xamarin
 -  Środowisko programistyczne, takie jak Microsoft Visual Studio
 -  Dodaj odniesienie do biblioteki DLL Aspose.Cells for .NET w swoim projekcie — zainstaluj od NuGet, korzystając z przycisku Pobierz powyżej
 

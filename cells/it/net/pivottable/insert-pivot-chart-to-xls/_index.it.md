@@ -1,5 +1,5 @@
 ---
-title: Inserisci il grafico pivot nei file Micorsoft Excel XLS tramite C#
+title:  Inserisci il grafico pivot nei file Micorsoft Excel XLS tramite C#
 weight: 7690
 description: C# Codice di esempio per aggiungere il grafico pivot a XLS utilizzando la libreria .NET. Utilizzare questo codice per inserire il grafico pivot nel file XLS all'interno di VB.NET, Asp.NET o qualsiasi applicazione basata su .NET.
 keywords: [C# Aspose.Cells., c# add pivot chart in xls., c# insert pivot chart in xls., c# create pivot chart in xls., c# modify pivot chart in xls., access pivot chart in xls]
@@ -12,7 +12,7 @@ keywords: [C# Aspose.Cells., c# add pivot chart in xls., c# insert pivot chart i
 
 {{% blocks/products/pf/agp/content h2="" %}}
 
- Generare dinamicamente il file MS Excel XLS con il grafico pivot all'interno dell'applicazione in esecuzione è semplice. Per creare da zero i documenti XLS con Grafico pivot senza richiedere MS Office, utilizzeremo[Aspose.Cells for .NET](https://products.aspose.com/cells/net) API che offre diverse funzionalità per la creazione, manipolazione e conversione di fogli di calcolo utilizzando la piattaforma .NET. Gli sviluppatori possono facilmente migliorare il codice per scrivere dati, generare diagrammi o grafici nonché creare tabelle in fogli di calcolo.
+Generare il file MS Excel XLS con il grafico pivot in modo dinamico all'interno dell'applicazione in esecuzione è semplice. Per creare da zero i documenti XLS con Grafico pivot senza richiedere MS Office, utilizzeremo[Aspose.Cells for .NET](https://products.aspose.com/cells/net) API che offre diverse funzionalità per la creazione, manipolazione e conversione di fogli di calcolo utilizzando la piattaforma .NET. Gli sviluppatori possono facilmente migliorare il codice per scrivere dati, generare diagrammi o grafici nonché creare tabelle in fogli di calcolo.
 {{% /blocks/products/pf/agp/content %}}
 
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
@@ -67,7 +67,7 @@ Una libreria di programmazione di fogli di calcolo Excel in grado di creare appl
 {{< blocks/products/pf/agp/about-file-section >}}
 
 {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLS" readMoreLink="https://docs.fileformat.com/spreadsheet/xls/" >}}
-file con estensione XLS rappresentano il formato file binario di Excel. Tali file possono essere creati da Microsoft Excel così come altri programmi di fogli di calcolo simili come OpenOffice Calc o Apple Numbers. Il file salvato da Excel è noto come cartella di lavoro in cui ciascuna cartella di lavoro può avere uno o più fogli di lavoro. I dati vengono archiviati e visualizzati agli utenti in formato tabella nel foglio di lavoro e possono comprendere valori numerici, dati di testo, formule, connessioni dati esterne, immagini e grafici. Applicazioni come Microsoft Excel ti consentono di esportare i dati della cartella di lavoro in diversi formati tra cui PDF, CSV, XLSX, TXT, HTML, XPS e molti altri. Il formato file XLS è stato sostituito con un formato più aperto e strutturato, XLSX, con il rilascio di Microsoft Excel 2007. Le ultime versioni forniscono ancora supporto per la creazione e la lettura dei file XLS, sebbene XLSX sia ora la prima scelta di utilizzo.
+I file con estensione XLS rappresentano il formato file binario di Excel. Tali file possono essere creati da Microsoft Excel così come altri programmi di fogli di calcolo simili come OpenOffice Calc o Apple Numbers. Il file salvato da Excel è noto come cartella di lavoro in cui ciascuna cartella di lavoro può avere uno o più fogli di lavoro. I dati vengono archiviati e visualizzati agli utenti in formato tabella nel foglio di lavoro e possono comprendere valori numerici, dati di testo, formule, connessioni dati esterne, immagini e grafici. Applicazioni come Microsoft Excel ti consentono di esportare i dati della cartella di lavoro in diversi formati tra cui PDF, CSV, XLSX, TXT, HTML, XPS e molti altri. Il formato file XLS è stato sostituito con un formato più aperto e strutturato, XLSX, con il rilascio di Microsoft Excel 2007. Le ultime versioni forniscono ancora supporto per la creazione e la lettura dei file XLS, sebbene XLSX sia ora la prima scelta di utilizzo.
 
 {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
@@ -76,10 +76,10 @@ file con estensione XLS rappresentano il formato file binario di Excel. Tali fil
 
 {{< blocks/products/pf/agp/other-supported-section title="Altri formati di grafici pivot supportati" subTitle="Puoi anche creare altri formati Excel Microsoft con il grafico pivot, inclusi alcuni elencati di seguito." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/insert-pivot-chart-to-xls/" name="XLS" description="Microsoft Foglio di calcolo Excel (precedente)" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/insert-pivot-chart-to-xlsx/" name="XLSX" description="Apri la cartella di lavoro XML" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/insert-pivot-chart-to-xlsb/" name="XLSB" description="Cartella di lavoro binaria di Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/insert-pivot-chart-to-xlsm/" name="XLSM" description="Foglio di calcolo abilitato per le macro" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/pivottable/insert-pivot-chart-to-xls/" name="XLS" description="Microsoft Foglio di calcolo Excel (precedente)" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/pivottable/insert-pivot-chart-to-xlsx/" name="XLSX" description="Apri la cartella di lavoro XML" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/pivottable/insert-pivot-chart-to-xlsb/" name="XLSB" description="Cartella di lavoro binaria di Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/pivottable/insert-pivot-chart-to-xlsm/" name="XLSM" description="Foglio di calcolo abilitato per le macro" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

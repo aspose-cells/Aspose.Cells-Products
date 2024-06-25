@@ -1,5 +1,5 @@
 ---
-title: Chèn biểu đồ Pivot vào tệp Micorsoft Excel XLSB qua C#
+title:  Chèn biểu đồ Pivot vào tệp Micorsoft Excel XLSB qua C#
 weight: 7690
 description: C# Mã mẫu thêm Pivot Chart vào XLSB sử dụng Thư viện .NET. Sử dụng mã này để chèn Biểu đồ Pivot vào tệp XLSB trong VB.NET, Asp.NET hoặc bất kỳ ứng dụng dựa trên .NET nào.
 keywords: [C# Aspose.Cells., c# add pivot chart in xlsb., c# insert pivot chart in xlsb., c# create pivot chart in xlsb., c# modify pivot chart in xlsb., access pivot chart in xlsb]
@@ -12,7 +12,7 @@ keywords: [C# Aspose.Cells., c# add pivot chart in xlsb., c# insert pivot chart 
 
 {{% blocks/products/pf/agp/content h2="" %}}
 
- Việc tạo tệp MS Excel XLSB với Biểu đồ Pivot một cách linh hoạt trong ứng dụng đang chạy thật dễ dàng. Để tạo tài liệu XLSB bằng Pivot Chart từ đầu mà không cần đến MS Office, chúng ta sẽ sử dụng[Aspose.Cells for .NET](https://products.aspose.com/cells/net) API cung cấp các tính năng khác nhau để tạo, thao tác và chuyển đổi bảng tính bằng nền tảng .NET. Các nhà phát triển có thể dễ dàng nâng cao mã để ghi dữ liệu, tạo biểu đồ hoặc đồ thị cũng như tạo bảng trong bảng tính.
+Việc tạo tệp MS Excel XLSB với Biểu đồ Pivot một cách linh hoạt trong ứng dụng đang chạy thật dễ dàng. Để tạo tài liệu XLSB bằng Pivot Chart từ đầu mà không cần đến MS Office, chúng ta sẽ sử dụng[Aspose.Cells for .NET](https://products.aspose.com/cells/net) API cung cấp các tính năng khác nhau để tạo, thao tác và chuyển đổi bảng tính bằng nền tảng .NET. Các nhà phát triển có thể dễ dàng nâng cao mã để ghi dữ liệu, tạo biểu đồ hoặc đồ thị cũng như tạo bảng trong bảng tính.
 {{% /blocks/products/pf/agp/content %}}
 
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
@@ -77,10 +77,10 @@ Thư viện lập trình bảng tính Excel có khả năng xây dựng các ứ
 
 {{< blocks/products/pf/agp/other-supported-section title="Các định dạng biểu đồ Pivot được hỗ trợ khác" subTitle="Bạn cũng có thể tạo các định dạng Excel Microsoft khác bằng Biểu đồ Pivot, bao gồm một số định dạng được liệt kê bên dưới." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/insert-pivot-chart-to-xls/" name="XLS" description="Microsoft Bảng tính Excel (Cũ)" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/insert-pivot-chart-to-xlsx/" name="XLSX" description="Mở sổ làm việc XML" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/insert-pivot-chart-to-xlsb/" name="XLSB" description="Sổ làm việc nhị phân Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/insert-pivot-chart-to-xlsm/" name="XLSM" description="Bảng tính hỗ trợ macro" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/pivottable/insert-pivot-chart-to-xls/" name="XLS" description="Microsoft Bảng tính Excel (Cũ)" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/pivottable/insert-pivot-chart-to-xlsx/" name="XLSX" description="Mở sổ làm việc XML" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/pivottable/insert-pivot-chart-to-xlsb/" name="XLSB" description="Sổ làm việc nhị phân Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/pivottable/insert-pivot-chart-to-xlsm/" name="XLSM" description="Bảng tính hỗ trợ macro" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

@@ -1,5 +1,5 @@
 ---
-title: .NET เอ็กเซล API | ประมวลผลรูปแบบสเปรดชีต via .NET Core
+title:  .NET เอ็กเซล API | ประมวลผลรูปแบบสเปรดชีต via .NET Core
 weight: 2030
 description: C# ไลบรารี ASP.NET VB.NET เพื่อสร้าง ซ่อมแซม ผสาน แยกวิเคราะห์ และแปลงไฟล์ Excel แปลง Excel เป็น PDF, JSON, XML, TSV, HTML และอื่นๆ
 keywords: [Aspose.Cells C# Create repair parse merge convert JSON Excel XML PDF HTML TSV SQL TXT PNG JPEG and more formats]
@@ -13,11 +13,11 @@ keywords: [Aspose.Cells C# Create repair parse merge convert JSON Excel XML PDF 
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
- Aspose.Cells for .NET คือการเขียนโปรแกรมสเปรดชีต Excel API เพื่อเพิ่มความเร็วในการจัดการสเปรดชีตและงานประมวลผล API รองรับการสร้างแอปพลิเคชันข้ามแพลตฟอร์มที่มีความสามารถในการสร้าง แก้ไข แปลง แสดงผล และพิมพ์สเปรดชีต ยิ่งไปกว่านั้น มันไม่ได้ขึ้นอยู่กับ Microsoft Excel หรือส่วนประกอบ Microsoft Office Interop ใดๆ ที่จะติดตั้ง แต่เป็นชุด API ที่มีประสิทธิภาพซึ่งจัดการกับรูปแบบ Excel ทั้งหมด รวมถึงรูปแบบ CSV และ SpreadsheetML
+Aspose.Cells for .NET คือการเขียนโปรแกรมสเปรดชีต Excel API เพื่อเพิ่มความเร็วในการจัดการสเปรดชีตและงานประมวลผล API รองรับการสร้างแอปพลิเคชันข้ามแพลตฟอร์มที่มีความสามารถในการสร้าง แก้ไข แปลง แสดงผล และพิมพ์สเปรดชีต ยิ่งไปกว่านั้น มันไม่ได้ขึ้นอยู่กับ Microsoft Excel หรือส่วนประกอบ Microsoft Office Interop ใดๆ ที่จะติดตั้ง แต่เป็นชุด API ที่มีประสิทธิภาพซึ่งจัดการกับรูปแบบ Excel ทั้งหมด รวมถึงรูปแบบ CSV และ SpreadsheetML
 </p>
 
 <p>
-ด้วยการรวม API งานพื้นฐานบางอย่างที่นักพัฒนาสามารถทำได้ เช่น การจัดการแผ่นงานหลายแผ่น การสร้างเนื้อหาและสไตล์ของสเปรดชีตตั้งแต่เริ่มต้น การนำเข้าข้อมูลลงในแผ่นงานจากแหล่งข้อมูลที่แตกต่างกัน การเพิ่มสูตรทางคณิตศาสตร์ การเงิน และข้อความทั่วไปและซับซ้อน การจัดการแผนภูมิ รูปภาพ ความคิดเห็น วัตถุรูปวาด และอื่นๆ อีกมากมาย
+ ด้วยการรวม API งานพื้นฐานบางอย่างที่นักพัฒนาสามารถทำได้ เช่น การจัดการแผ่นงานหลายแผ่น การสร้างเนื้อหาและสไตล์ของสเปรดชีตตั้งแต่เริ่มต้น การนำเข้าข้อมูลลงในแผ่นงานจากแหล่งข้อมูลที่แตกต่างกัน การเพิ่มสูตรทางคณิตศาสตร์ การเงิน และข้อความทั่วไปและซับซ้อน การจัดการแผนภูมิ รูปภาพ ความคิดเห็น วัตถุรูปวาด และอื่นๆ อีกมากมาย
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
@@ -92,7 +92,7 @@ keywords: [Aspose.Cells C# Create repair parse merge convert JSON Excel XML PDF 
  ใช้สูตร
     </li>
     <li>
- นำเข้า/ส่งออกข้อมูล
+นำเข้า/ส่งออกข้อมูล
     </li>
    </ul>
   </div>
@@ -213,7 +213,7 @@ keywords: [Aspose.Cells C# Create repair parse merge convert JSON Excel XML PDF 
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="รูปแบบไฟล์ที่รองรับ" description=" Aspose.Cells for .NET รองรับสเปรดชีตยอดนิยม[รูปแบบไฟล์](https://docs.aspose.com/cells/net/supported-file-formats/)รวมถึงรูปภาพและรูปแบบเค้าโครงคงที่ที่ใช้บ่อยที่สุด" >}}
+{{< blocks/products/pf/carousel-item h3="รูปแบบไฟล์ที่รองรับ" description=" Aspose.Cells for .NET รองรับสเปรดชีตยอดนิยม[รูปแบบไฟล์](https://docs.aspose.com/cells/net/supported-file-formats/) รวมถึงรูปภาพและรูปแบบเค้าโครงคงที่ที่ใช้บ่อยที่สุด" >}}
 <div class="diagram1 d2 d1-net">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -387,7 +387,7 @@ keywords: [Aspose.Cells C# Create repair parse merge convert JSON Excel XML PDF 
     <em class="fa fa-support ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- รองรับ CSV (ค่าที่คั่นด้วยเครื่องหมายจุลภาค) &amp; TSV (ค่าที่คั่นด้วยแท็บ)
+รองรับ CSV (ค่าที่คั่นด้วยเครื่องหมายจุลภาค) &amp; TSV (ค่าที่คั่นด้วยแท็บ)
     </p>
    </div>
    <div class="col-lg-4">
@@ -450,7 +450,7 @@ keywords: [Aspose.Cells C# Create repair parse merge convert JSON Excel XML PDF 
     <em class="fa fa-file-code-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-แก้ไขโค้ด VBA หรือมาโครในไฟล์เทมเพลต
+ แก้ไขโค้ด VBA หรือมาโครในไฟล์เทมเพลต
     </p>
    </div>
    <div class="col-lg-4">
@@ -469,7 +469,7 @@ keywords: [Aspose.Cells C# Create repair parse merge convert JSON Excel XML PDF 
     </p>
     <div class="codeblock" id="code">
      <h3>
- บันทึกสเปรดชีตในรูปแบบต่างๆ - C#
+บันทึกสเปรดชีตในรูปแบบต่างๆ - C#
      </h3>
      <pre><code class="cs">// load file to be converted
 
@@ -491,7 +491,7 @@ workbook.Save(dir + "output.html", Aspose.Cells.SaveFormat.Html);</code></pre>
  แสดงภาพข้อมูลด้วยการจัดรูปแบบ แผนภูมิ &amp; กราฟิก
     </h2>
     <p>
-Aspose.Cells for .NET มอบอิสระและความยืดหยุ่นอย่างเต็มที่ในการตกแต่งสเปรดชีตของคุณด้วยเอฟเฟกต์ภาพทุกประเภท API ช่วยให้คุณสามารถใช้แบบอักษรต่างๆ กับคุณลักษณะ ลักษณะของเซลล์ (การจัดตำแหน่ง การเยื้อง การหมุน เส้นขอบ การแรเงาและการระบายสี การป้องกัน การตัดข้อความและการย่อขนาด) และรูปแบบตัวเลขทุกประเภท
+ Aspose.Cells for .NET มอบอิสระและความยืดหยุ่นอย่างเต็มที่ในการตกแต่งสเปรดชีตของคุณด้วยเอฟเฟกต์ภาพทุกประเภท API ช่วยให้คุณสามารถใช้แบบอักษรต่างๆ กับคุณลักษณะ ลักษณะของเซลล์ (การจัดตำแหน่ง การเยื้อง การหมุน เส้นขอบ การแรเงาและการระบายสี การป้องกัน การตัดข้อความและการย่อขนาด) และรูปแบบตัวเลขทุกประเภท
     </p>
     <p>
  ในทำนองเดียวกัน แผนภูมิและกราฟิกก็ดูน่าดึงดูดและทำให้สเปรดชีตของคุณดูเป็นมืออาชีพได้ Aspose.Cells for .NET มีชุด API ที่ครอบคลุมสำหรับการสร้างและจัดการประเภทแผนภูมิมาตรฐานและแบบกำหนดเองทั้งหมด นอกจากนี้ คุณสามารถเพิ่มวัตถุรูปวาดประเภทต่างๆ ได้ เช่น ความคิดเห็น รูปภาพ วัตถุ OLE รูปร่าง และตัวควบคุมลงในเซลล์

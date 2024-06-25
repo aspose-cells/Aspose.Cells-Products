@@ -1,5 +1,5 @@
 ---
-title: .NET Excel API | Elabora i formati dei fogli di calcolo via .NET Core
+title:  .NET Excel API | Elabora i formati dei fogli di calcolo via .NET Core
 weight: 2030
 description: C# ASP.NET Libreria VB.NET per creare, riparare, unire, analizzare e convertire file Excel. Converti Excel in PDF, JSON, XML, TSV, HTML e così via.
 keywords: [Aspose.Cells C# Create repair parse merge convert JSON Excel XML PDF HTML TSV SQL TXT PNG JPEG and more formats]
@@ -13,11 +13,11 @@ keywords: [Aspose.Cells C# Create repair parse merge convert JSON Excel XML PDF 
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
- Aspose.Cells for .NET è un foglio di calcolo Excel di programmazione API per velocizzare le attività di gestione ed elaborazione dei fogli di calcolo. API supporta la creazione di applicazioni multipiattaforma con la capacità di generare, modificare, convertire, eseguire il rendering e stampare fogli di calcolo. Inoltre, non si basa sull'installazione di Microsoft Excel o di alcun componente Office Interop Microsoft, ma su un robusto set di API che gestiscono tutti i formati Excel, nonché i formati CSV e SpreadsheetML.
+Aspose.Cells for .NET è un foglio di calcolo Excel di programmazione API per velocizzare le attività di gestione ed elaborazione dei fogli di calcolo. API supporta la creazione di applicazioni multipiattaforma con la capacità di generare, modificare, convertire, eseguire il rendering e stampare fogli di calcolo. Inoltre, non si basa sull'installazione di Microsoft Excel o di alcun componente Office Interop Microsoft, ma su un robusto set di API che gestiscono tutti i formati Excel, nonché i formati CSV e SpreadsheetML.
 </p>
 
 <p>
-Integrando API, alcune delle attività di base che gli sviluppatori possono eseguire come gestire più fogli di lavoro, creare contenuti e stili di fogli di calcolo da zero, importare dati sui fogli di lavoro da diverse origini dati, aggiungere formule matematiche, finanziarie e di testo comuni e complesse, manipolazione di grafici, immagini, commenti, oggetti da disegno e molto altro ancora.
+ Integrando API, alcune delle attività di base che gli sviluppatori possono eseguire come gestire più fogli di lavoro, creare contenuti e stili di fogli di calcolo da zero, importare dati sui fogli di lavoro da diverse origini dati, aggiungere formule matematiche, finanziarie e di testo comuni e complesse, manipolazione di grafici, immagini, commenti, oggetti da disegno e molto altro ancora.
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
@@ -92,7 +92,7 @@ Riassumere
  Applicare formule
     </li>
     <li>
- Importa/Esporta dati
+Importa/Esporta dati
     </li>
    </ul>
   </div>
@@ -213,7 +213,7 @@ Riassumere
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Formati di file supportati" description=" Aspose.Cells for .NET supporta il popolare foglio di calcolo[formati di file](https://docs.aspose.com/cells/net/supported-file-formats/)nonché i formati immagine e a layout fisso più comunemente utilizzati." >}}
+{{< blocks/products/pf/carousel-item h3="Formati di file supportati" description=" Aspose.Cells for .NET supporta il popolare foglio di calcolo[formati di file](https://docs.aspose.com/cells/net/supported-file-formats/) nonché i formati di immagine e layout fisso più comunemente utilizzati." >}}
 <div class="diagram1 d2 d1-net">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -387,7 +387,7 @@ Solo uscita
     <em class="fa fa-support ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Supporto per CSV (valori separati da virgole) e amp; TSV (valori separati da tabulazioni)
+Supporto per CSV (valori separati da virgole) e amp; TSV (valori separati da tabulazioni)
     </p>
    </div>
    <div class="col-lg-4">
@@ -450,7 +450,7 @@ Crea e crea manipolare i commenti
     <em class="fa fa-file-code-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-Modifica il codice VBA o le macro nel file modello
+ Modifica il codice VBA o le macro nel file modello
     </p>
    </div>
    <div class="col-lg-4">
@@ -469,7 +469,7 @@ Modifica il codice VBA o le macro nel file modello
     </p>
     <div class="codeblock" id="code">
      <h3>
- Salva foglio di calcolo in diversi formati - C#
+Salva foglio di calcolo in diversi formati - C#
      </h3>
      <pre><code class="cs">// load file to be converted
 
@@ -491,7 +491,7 @@ workbook.Save(dir + "output.html", Aspose.Cells.SaveFormat.Html);</code></pre>
  Visualizza i dati con formattazione, grafici e amp; Grafica
     </h2>
     <p>
-Aspose.Cells for .NET ti dà completa libertà e flessibilità per arredare i tuoi fogli di calcolo con tutti i tipi di effetti visivi. Lo API ti consente di applicare diversi caratteri con attributi, stili di cella (allineamento, rientro, rotazione, bordi, ombreggiatura e colorazione, protezione, avvolgimento e restringimento del testo) e tutti i tipi di formati numerici.
+ Aspose.Cells for .NET ti dà completa libertà e flessibilità per arredare i tuoi fogli di calcolo con tutti i tipi di effetti visivi. Lo API ti consente di applicare diversi caratteri con attributi, stili di cella (allineamento, rientro, rotazione, bordi, ombreggiatura e colorazione, protezione, avvolgimento e restringimento del testo) e tutti i tipi di formati numerici.
     </p>
     <p>
  Allo stesso modo, i grafici e la grafica sono visivamente accattivanti e possono conferire al tuo foglio di calcolo un aspetto professionale. Aspose.Cells for .NET fornisce un set completo di API per la creazione e la manipolazione di tutti i tipi di grafici standard e personalizzati. Inoltre, puoi aggiungere alle celle diversi tipi di oggetti di disegno, come commenti, immagini, oggetti OLE, forme e controlli

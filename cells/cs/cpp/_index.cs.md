@@ -5,7 +5,7 @@ description: Aspose.Cells for C++ knihovna pro vytváření, opravy, slučován�
 keywords: [C++ library execl Aspose.Cells Create repair parse merge convert JSON Excel XML PDF HTML TSV SQL ODS CSV TXT PNG JPEG and more formats]
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="C++ knihovna Excelu - Aspose.Cells" h2="Vytvářejte, čtěte, zapisujte a analyzujte tabulky bez jakýchkoli závislostí aplikace Excel v rámci plně funkčních aplikací C++." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/headers/aspose_cells-for-cpp.svg" pfName="Aspose.Cells" subTitlepfName="for C++" downloadUrl="https://downloads.aspose.com/cells/cpp" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="C++ knihovna Excelu - Aspose.Cells" h2="Vytvářejte, čtěte, zapisujte a analyzujte tabulky bez jakýchkoli závislostí Microsoft Excelu v rámci plně funkčních aplikací C++." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/headers/aspose_cells-for-cpp.svg" pfName="Aspose.Cells" subTitlepfName="for C++" downloadUrl="https://downloads.aspose.com/cells/cpp" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells" subTitlepfName="for C++" >}}
 
@@ -13,7 +13,7 @@ keywords: [C++ library execl Aspose.Cells Create repair parse merge convert JSON
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
-Knihovna Aspose.Cells C++ je nativní knihovna C++ pro manipulaci s tabulkovým procesorem. Aplikace mohou provádět funkce, jako je vytváření, převod a úpravy vestavěných a uživatelských vlastností tabulky, motivů, stylů a formátování, ověřování dat, podmíněného formátování, čtení, psaní a počítání vzorců, seskupování řádků a sloupců a mnoho dalšího, aniž by se spoléhaly na automatizaci Office. nebo Microsoft Excel. API podporuje nejběžnější formáty tabulek (například XLS, XLSX, XLSM a XLSB) a také další typy formátů souborů (například PDF, 1 nejběžnější formát PDF, 1 jako8617103) a1 PNG, BMP, TIFF , GIF, EMF, SVG).
+Knihovna Aspose.Cells C++ je nativní knihovna C++ pro manipulaci s tabulkovým procesorem. Aplikace mohou provádět funkce, jako je vytváření, převod a úpravy vestavěných a uživatelských vlastností tabulky, motivů, stylů a formátování, ověřování dat, podmíněného formátování, čtení, psaní a počítání vzorců, seskupování řádků a sloupců a mnoho dalšího, aniž by se spoléhaly na automatizaci Office. nebo Microsoft Excel. API podporuje nejběžnější formáty tabulek (například XLS, XLSX, XLSM a XLSB) a také další typy formátů souborů (například PDF, PDF, PDF, PDF, PDF, PDF, PDF) a 17 PNG, BMP, TIFF , GIF, EMF, SVG).
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
@@ -489,7 +489,7 @@ Knihovna Aspose.Cells C++ nabízí komplexní sadu rozhraní API pro dynamické 
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
- Vykreslit listy jako obrázky
+ Vykreslování pracovních listů jako obrázků
     </h2>
     <p>
  Knihovna Aspose.Cells C++ vykresluje s nejvyšší věrností Excelu Microsoft pomocí vlastního vykreslovacího jádra. Nabízí výrazné funkce, jako je vykreslování pracovních listů na obrázky v oblíbených formátech včetně BMP, TIFF, PNG, JPEG &amp; EMF. Proces Sheet2Image je flexibilní, takže umožňuje vybrat možnosti, jako je ovládání rozlišení výsledného obrázku.
@@ -508,7 +508,7 @@ Knihovna Aspose.Cells C++ nabízí manipulaci s řádky a sloupci několika způ
  Přesně převeďte tabulky na PDF
     </h2>
     <p>
- Knihovna Aspose.Cells C++ poskytuje možnost převádět tabulky do formátu PDF při zachování stejné kvality jako původní dokument. Díky této skutečnosti je knihovna Aspose.Cells C++ perfektní volbou pro organizace, které vyžadují výměnu dokumentů v průmyslových standardních formátech jako PDF.
+ Knihovna Aspose.Cells C++ poskytuje možnost převádět tabulky do formátu PDF při zachování stejné kvality jako původní dokument. Tato skutečnost dělá z knihovny Aspose.Cells C++ perfektní volbu pro organizace, které vyžadují výměnu dokumentů ve standardních průmyslových formátech jako PDF.
     </p>
    </div>
    <!-- 

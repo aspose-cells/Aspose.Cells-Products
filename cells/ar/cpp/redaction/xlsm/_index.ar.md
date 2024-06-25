@@ -1,7 +1,7 @@
 ---
 title: بحث واستبدال النص في مستند XLSM عبر C++
 weight: 9570
-description: C++ رمز المثال لتنقيح المعلومات الحساسة في ملف XLSM على C++ بيئة التشغيل لـ Windows 32 بت، Windows 64 بت وLinux 64 بت.
+description: C++ رمز المثال لتنقيح المعلومات الحساسة في ملف XLSM على C++ بيئة التشغيل لـ Windows 32 بت وWindows 64 بت ولينكس 64 بت.
 keywords: [C++ Aspose.Cells., C++ Search and replace text in XLSM file., C++ redact XLSM file., C++ edit XLSM file., C++ XLSM file redaction., C++ Search and replace string in XLSM file]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

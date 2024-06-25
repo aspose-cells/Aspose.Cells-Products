@@ -1,5 +1,5 @@
 ---
-title: .NET Excel API | Zpracovat tabulkové formáty via .NET Core
+title:  .NET Excel API | Zpracovat tabulkové formáty via .NET Core
 weight: 2030
 description: C# ASP.NET Knihovna VB.NET pro vytváření, opravy, slučování, analýzu a převod souborů aplikace Excel. Převeďte excel na PDF, JSON, XML, TSV, HTML a tak dále.
 keywords: [Aspose.Cells C# Create repair parse merge convert JSON Excel XML PDF HTML TSV SQL TXT PNG JPEG and more formats]
@@ -13,11 +13,11 @@ keywords: [Aspose.Cells C# Create repair parse merge convert JSON Excel XML PDF 
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
- Aspose.Cells for .NET je programování tabulkového procesoru Excel API pro urychlení správy a zpracování tabulek. API podporuje vytváření aplikací pro různé platformy, které mají schopnost generovat, upravovat, převádět, vykreslovat a tisknout tabulky. Kromě toho se nespoléhá na instalaci Microsoft Excel nebo jakékoli Microsoft Office Interop komponenty, ale na robustní sadu rozhraní API, která se zabývají všemi formáty aplikace Excel a také formáty CSV a SpreadsheetML.
+Aspose.Cells for .NET je programování tabulkového procesoru Excel API pro urychlení správy a zpracování tabulek. API podporuje vytváření aplikací pro různé platformy, které mají schopnost generovat, upravovat, převádět, vykreslovat a tisknout tabulky. Kromě toho se nespoléhá na instalaci Microsoft Excel nebo jakékoli Microsoft Office Interop komponenty, ale na robustní sadu rozhraní API, která se zabývají všemi formáty aplikace Excel a také formáty CSV a SpreadsheetML.
 </p>
 
 <p>
-Díky integraci API mohou vývojáři provádět některé základní úkoly, jako je správa více listů, vytváření obsahu a stylů tabulek od začátku, import dat do listů z různých zdrojů dat, přidávání běžných a složitých matematických, finančních a textových vzorců, manipulace s grafy, obrázky, komentáře, kreslení objektů a mnoho dalšího.
+ Díky integraci API mohou vývojáři provádět některé základní úkoly, jako je správa více listů, vytváření obsahu a stylů tabulek od začátku, import dat do listů z různých zdrojů dat, přidávání běžných a složitých matematických, finančních a textových vzorců, manipulace s grafy, obrázky, komentáře, kreslení objektů a mnoho dalšího.
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
@@ -92,7 +92,7 @@ Shrnout
  Použít vzorce
     </li>
     <li>
- Import/Export dat
+Import/Export dat
     </li>
    </ul>
   </div>
@@ -213,7 +213,7 @@ Shrnout
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Podporované formáty souborů" description=" Aspose.Cells for .NET podporuje populární tabulku[formáty souborů](https://docs.aspose.com/cells/net/supported-file-formats/)stejně jako nejčastěji používané formáty obrázků a formátů s pevným rozvržením." >}}
+{{< blocks/products/pf/carousel-item h3="Podporované formáty souborů" description=" Aspose.Cells for .NET podporuje populární tabulku[formáty souborů](https://docs.aspose.com/cells/net/supported-file-formats/) stejně jako nejčastěji používané formáty obrázků a formátů s pevným rozvržením." >}}
 <div class="diagram1 d2 d1-net">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -387,7 +387,7 @@ Pouze výstup
     <em class="fa fa-support ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Podpora pro CSV (hodnoty oddělené čárkou) &amp; TSV (hodnoty oddělené tabulátorem)
+Podpora pro CSV (hodnoty oddělené čárkou) &amp; TSV (hodnoty oddělené tabulátorem)
     </p>
    </div>
    <div class="col-lg-4">
@@ -450,7 +450,7 @@ Vytvořit &amp; manipulovat s komentáři
     <em class="fa fa-file-code-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-Upravte kód VBA nebo makra v souboru šablony
+ Upravte kód VBA nebo makra v souboru šablony
     </p>
    </div>
    <div class="col-lg-4">
@@ -469,7 +469,7 @@ Upravte kód VBA nebo makra v souboru šablony
     </p>
     <div class="codeblock" id="code">
      <h3>
- Uložte tabulku v různých formátech - C#
+Uložte tabulku v různých formátech - C#
      </h3>
      <pre><code class="cs">// load file to be converted
 
@@ -491,7 +491,7 @@ workbook.Save(dir + "output.html", Aspose.Cells.SaveFormat.Html);</code></pre>
  Vizualizujte data pomocí formátování, grafů &amp; Grafika
     </h2>
     <p>
-Aspose.Cells for .NET vám poskytuje naprostou svobodu a flexibilitu při vybavování vašich tabulek všemi druhy vizuálních efektů. API vám umožňuje používat různá písma s atributy, styly buněk (zarovnání, odsazení, otočení, okraje, stínování a barvení, ochrana, zalamování a zmenšování textu) a všechny typy formátů čísel.
+ Aspose.Cells for .NET vám poskytuje naprostou svobodu a flexibilitu při vybavování vašich tabulek všemi druhy vizuálních efektů. API vám umožňuje používat různá písma s atributy, styly buněk (zarovnání, odsazení, otočení, okraje, stínování a barvení, ochrana, zalamování a zmenšování textu) a všechny typy formátů čísel.
     </p>
     <p>
  Podobně jsou grafy a grafiky vizuálně přitažlivé a mohou vaší tabulce dodat profesionální vzhled. Aspose.Cells for .NET poskytuje komplexní sadu rozhraní API pro vytváření a manipulaci se všemi standardními a vlastními typy grafů. Kromě toho můžete do buněk přidávat různé typy nakreslených objektů, jako jsou komentáře, obrázky, objekty OLE, tvary a ovládací prvky
@@ -564,7 +564,7 @@ renderer.ToImage(0, dir + "output.jpeg");</code></pre>
  Grafická rozhraní pro web &amp; Desktopové aplikace
     </h2>
     <p>
-Aspose.Cells for .NET poskytuje ovládací prvky GUI pro web &amp; desktopové aplikace. Koncový uživatel může tyto ovládací prvky použít k otevření, uložení &amp; upravovat soubory Excel, importovat &amp; exportovat data, spravovat formátování &amp; vzorce a převádět mezi několika podporovanými formáty tabulek přímo z front-endu vaší aplikace.
+Aspose.Cells for .NET poskytuje ovládací prvky GUI pro web &amp; desktopové aplikace. Koncový uživatel může tyto ovládací prvky používat k otevírání, ukládání &amp; upravovat soubory Excel, importovat &amp; exportovat data, spravovat formátování &amp; vzorce a převádět mezi několika podporovanými formáty tabulek přímo z front-endu vaší aplikace.
     </p>
    </div>
    <div class="col-lg-12">

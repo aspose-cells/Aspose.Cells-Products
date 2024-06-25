@@ -1,5 +1,5 @@
 ---
-title: Insérer un graphique croisé dynamique dans les fichiers Microsoft Excel XLSB via C#
+title:  Insérer un graphique croisé dynamique dans les fichiers Microsoft Excel XLSB via C#
 weight: 7690
 description: C# Exemple de code pour ajouter un graphique croisé dynamique à XLSB à l’aide de la bibliothèque .NET. Utilisez ce code pour insérer un graphique croisé dynamique dans le fichier XLSB dans VB.NET, Asp.NET ou toute application basée sur .NET.
 keywords: [C# Aspose.Cells., c# add pivot chart in xlsb., c# insert pivot chart in xlsb., c# create pivot chart in xlsb., c# modify pivot chart in xlsb., access pivot chart in xlsb]
@@ -12,7 +12,7 @@ keywords: [C# Aspose.Cells., c# add pivot chart in xlsb., c# insert pivot chart 
 
 {{% blocks/products/pf/agp/content h2="" %}}
 
- Il est facile de générer dynamiquement un fichier MS Excel XLSB avec un graphique croisé dynamique dans l'application en cours d'exécution. Afin de créer des documents XLSB avec un graphique croisé dynamique à partir de zéro sans nécessiter MS Office, nous utiliserons[Aspose.Cells for .NET](https://products.aspose.com/cells/net) API qui offre différentes fonctionnalités pour la création, la manipulation et la conversion de feuilles de calcul à l'aide de la plateforme .NET. Les développeurs peuvent facilement améliorer le code pour écrire des données, générer des tableaux ou des graphiques ainsi que créer des tableaux dans des feuilles de calcul.
+Il est facile de générer dynamiquement un fichier MS Excel XLSB avec un graphique croisé dynamique dans l'application en cours d'exécution. Afin de créer des documents XLSB avec un graphique croisé dynamique à partir de zéro sans nécessiter MS Office, nous utiliserons[Aspose.Cells for .NET](https://products.aspose.com/cells/net) API qui offre différentes fonctionnalités pour la création, la manipulation et la conversion de feuilles de calcul à l'aide de la plateforme .NET. Les développeurs peuvent facilement améliorer le code pour écrire des données, générer des tableaux ou des graphiques ainsi que créer des tableaux dans des feuilles de calcul.
 {{% /blocks/products/pf/agp/content %}}
 
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
@@ -77,10 +77,10 @@ Le format de fichier XLSB spécifie le format de fichier binaire Excel, qui est 
 
 {{< blocks/products/pf/agp/other-supported-section title="Autres formats de graphiques croisés pris en charge" subTitle="Vous pouvez également créer d\'autres formats Excel Microsoft avec un graphique croisé dynamique, dont quelques-uns sont répertoriés ci-dessous." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/insert-pivot-chart-to-xls/" name="XLS" description="Microsoft Feuille de calcul Excel (ancienne version)" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/insert-pivot-chart-to-xlsx/" name="XLSX" description="Classeur XML ouvert" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/insert-pivot-chart-to-xlsb/" name="XLSB" description="Classeur binaire Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/insert-pivot-chart-to-xlsm/" name="XLSM" description="Feuille de calcul prenant en charge les macros" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/pivottable/insert-pivot-chart-to-xls/" name="XLS" description="Microsoft Feuille de calcul Excel (ancienne version)" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/pivottable/insert-pivot-chart-to-xlsx/" name="XLSX" description="Classeur XML ouvert" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/pivottable/insert-pivot-chart-to-xlsb/" name="XLSB" description="Classeur binaire Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/pivottable/insert-pivot-chart-to-xlsm/" name="XLSM" description="Feuille de calcul prenant en charge les macros" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

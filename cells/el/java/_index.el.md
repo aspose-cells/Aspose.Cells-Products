@@ -284,7 +284,7 @@ keywords: [Java Aspose.Cells Create repair parse merge convert JSON Excel XML PD
     <em class="fa fa-exchange ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Εισαγωγή και εξαγωγή δεδομένων από ArrayList, Array &amp; Ρεκόρ σετ
+ Εισαγωγή και εξαγωγή δεδομένων από ArrayList, Array &amp; Ρεκόρ
     </p>
    </div>
    <div class="col-lg-4">

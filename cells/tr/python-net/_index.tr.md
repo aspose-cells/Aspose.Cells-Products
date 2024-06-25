@@ -13,7 +13,7 @@ keywords: [Python Aspose.Cells Create repair merge convert JSON Excel XML PDF HT
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
- .Net aracılığıyla Aspose.Cells for Python, elektronik tablo işleme görevleri için hızlı ve güvenilir bir API'dir. Geliştiriciler basit veya karmaşık elektronik tablolar oluşturabilir, bunları değiştirebilir ve excel dosyalarından bilgi çıkarabilir. API birden fazla excel formatını okur ve çalışma sayfalarını XPS, PDF, MHTML, HTML, Düz Metin, resimler ve daha fazlasına dönüştürebilir. Python kullanarak excel raporlarını otomatikleştirmek için en iyi çözümdür.
+.Net aracılığıyla Aspose.Cells for Python, elektronik tablo işleme görevleri için hızlı ve güvenilir bir API'dir. Geliştiriciler basit veya karmaşık elektronik tablolar oluşturabilir, bunları değiştirebilir ve excel dosyalarından bilgi çıkarabilir. API birden fazla excel formatını okur ve çalışma sayfalarını XPS, PDF, MHTML, HTML, Düz Metin, resimler ve daha fazlasına dönüştürebilir. Python kullanarak excel raporlarını otomatikleştirmek için en iyi çözümdür.
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
@@ -440,7 +440,7 @@ Yalnızca Çıkış
  Çoklu Format Dönüşümü
     </h2>
     <p>
-Python Excel kitaplığı, Excel dosyalarının PDF, XPS ve XPS'e dönüştürülmesini sağlar. HTML formatları. API'in güvenilir şekilde dönüştürülmesi, onu endüstri standardı formatlarda dosya alışverişi yapmak isteyen şirketler için mükemmel bir çözüm haline getirir.
+Python Excel kitaplığı, Excel dosyalarının PDF, XPS ve XPS'e dönüştürülmesini sağlar. HTML formatları. API'in güvenilir dönüşümü, onu endüstri standardı formatlarda dosya alışverişi yapmak isteyen şirketler için mükemmel bir çözüm haline getiriyor.
     </p>
     <div class="codeblock" id="code">
      <h3>

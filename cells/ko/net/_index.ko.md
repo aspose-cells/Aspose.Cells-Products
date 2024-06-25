@@ -1,5 +1,5 @@
 ---
-title: .NET 엑셀 API | 프로세스 스프레드시트 형식 via .NET Core
+title:  .NET 엑셀 API | 프로세스 스프레드시트 형식 via .NET Core
 weight: 2030
 description: C# ASP.NET VB.NET Excel 파일을 생성, 복구, 병합, 구문 분석 및 변환하는 라이브러리입니다. Excel을 PDF, JSON, XML, TSV, HTML 등으로 변환합니다.
 keywords: [Aspose.Cells C# Create repair parse merge convert JSON Excel XML PDF HTML TSV SQL TXT PNG JPEG and more formats]
@@ -13,11 +13,11 @@ keywords: [Aspose.Cells C# Create repair parse merge convert JSON Excel XML PDF 
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
- Aspose.Cells for .NET은 스프레드시트 관리 및 처리 작업 속도를 높이는 Excel 스프레드시트 프로그래밍 API입니다. API은 스프레드시트를 생성, 수정, 변환, 렌더링 및 인쇄할 수 있는 기능을 갖춘 크로스 플랫폼 애플리케이션 구축을 지원합니다. 또한 설치되는 Microsoft Excel 또는 Microsoft Office Interop 구성 요소에 의존하지 않고 모든 Excel 형식과 CSV 및 SpreadsheetML 형식을 처리하는 강력한 API 세트를 사용합니다.
+Aspose.Cells for .NET은 스프레드시트 관리 및 처리 작업 속도를 높이는 Excel 스프레드시트 프로그래밍 API입니다. API은 스프레드시트를 생성, 수정, 변환, 렌더링 및 인쇄할 수 있는 기능을 갖춘 크로스 플랫폼 애플리케이션 구축을 지원합니다. 또한 설치되는 Microsoft Excel 또는 Microsoft Office Interop 구성 요소에 의존하지 않고 모든 Excel 형식과 CSV 및 SpreadsheetML 형식을 처리하는 강력한 API 세트를 사용합니다.
 </p>
 
 <p>
-API을 통합함으로써 개발자는 여러 워크시트 관리, 처음부터 스프레드시트 내용 및 스타일 생성, 다양한 데이터 소스에서 워크시트로 데이터 가져오기, 일반적이고 복잡한 수학, 금융 및 텍스트 수식 추가, 차트 조작 등 개발자가 수행할 수 있는 기본 작업 중 일부를 수행할 수 있습니다. 사진, 댓글, 그리기 개체 등이 있습니다.
+ API을 통합함으로써 개발자는 여러 워크시트 관리, 처음부터 스프레드시트 내용 및 스타일 생성, 다양한 데이터 소스에서 워크시트로 데이터 가져오기, 일반적이고 복잡한 수학, 금융 및 텍스트 수식 추가, 차트 조작 등 개발자가 수행할 수 있는 기본 작업 중 일부를 수행할 수 있습니다. 사진, 댓글, 그리기 개체 등이 있습니다.
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
@@ -92,7 +92,7 @@ API을 통합함으로써 개발자는 여러 워크시트 관리, 처음부터 
  수식 적용
     </li>
     <li>
- 데이터 가져오기/내보내기
+데이터 가져오기/내보내기
     </li>
    </ul>
   </div>
@@ -213,7 +213,7 @@ API을 통합함으로써 개발자는 여러 워크시트 관리, 처음부터 
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="지원되는 파일 형식" description=" Aspose.Cells for .NET은 널리 사용되는 스프레드시트를 지원합니다.[파일 형식](https://docs.aspose.com/cells/net/supported-file-formats/)가장 일반적으로 사용되는 이미지 및 고정 레이아웃 형식도 포함됩니다." >}}
+{{< blocks/products/pf/carousel-item h3="지원되는 파일 형식" description=" Aspose.Cells for .NET은 널리 사용되는 스프레드시트를 지원합니다.[파일 형식](https://docs.aspose.com/cells/net/supported-file-formats/) 가장 일반적으로 사용되는 이미지 및 고정 레이아웃 형식도 포함됩니다." >}}
 <div class="diagram1 d2 d1-net">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -387,7 +387,7 @@ API을 통합함으로써 개발자는 여러 워크시트 관리, 처음부터 
     <em class="fa fa-support ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- CSV(쉼표로 구분된 값) &amp; TSV(탭으로 구분된 값)
+CSV(쉼표로 구분된 값) &amp; TSV(탭으로 구분된 값)
     </p>
    </div>
    <div class="col-lg-4">
@@ -450,7 +450,7 @@ API을 통합함으로써 개발자는 여러 워크시트 관리, 처음부터 
     <em class="fa fa-file-code-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-템플릿 파일에서 VBA 코드 또는 매크로 수정
+ 템플릿 파일에서 VBA 코드 또는 매크로 수정
     </p>
    </div>
    <div class="col-lg-4">
@@ -469,7 +469,7 @@ API을 통합함으로써 개발자는 여러 워크시트 관리, 처음부터 
     </p>
     <div class="codeblock" id="code">
      <h3>
- 스프레드시트를 다양한 형식으로 저장 - C#
+스프레드시트를 다양한 형식으로 저장 - C#
      </h3>
      <pre><code class="cs">// load file to be converted
 
@@ -491,7 +491,7 @@ workbook.Save(dir + "output.html", Aspose.Cells.SaveFormat.Html);</code></pre>
  형식 지정, 차트 및 앰프를 사용하여 데이터 시각화 제도법
     </h2>
     <p>
-Aspose.Cells for .NET은 스프레드시트에 모든 종류의 시각 효과를 제공할 수 있는 완전한 자유와 유연성을 제공합니다. API을 사용하면 속성, 셀 스타일(정렬, 들여쓰기, 회전, 테두리, 음영 및 색상 지정, 보호, 텍스트 줄 바꿈 및 축소) 및 모든 유형의 숫자 형식을 사용하여 다양한 글꼴을 적용할 수 있습니다.
+ Aspose.Cells for .NET은 스프레드시트에 모든 종류의 시각 효과를 제공할 수 있는 완전한 자유와 유연성을 제공합니다. API을 사용하면 속성, 셀 스타일(정렬, 들여쓰기, 회전, 테두리, 음영 및 색상 지정, 보호, 텍스트 줄 바꿈 및 축소) 및 모든 유형의 숫자 형식을 사용하여 다양한 글꼴을 적용할 수 있습니다.
     </p>
     <p>
  마찬가지로 차트와 그래픽은 시각적으로 매력적이며 스프레드시트에 전문적인 느낌을 줄 수 있습니다. Aspose.Cells for .NET은 모든 표준 및 사용자 정의 차트 유형을 생성하고 조작하기 위한 포괄적인 API 세트를 제공합니다. 또한 주석, 그림, OLE 개체, 모양 및 컨트롤과 같은 다양한 유형의 그리기 개체를 셀에 추가할 수 있습니다.
@@ -597,7 +597,7 @@ Aspose.Cells for .NET은 웹 &amp; 데스크탑 애플리케이션. 최종 사�
 <p class="second">
  Aspose 제품군 및 지원은 누구에게도 뒤지지 않습니다. 이 솔루션이 없었다면 우리가 했던 일을 할 수 없었을 것입니다.
  <em>
- 댄 패터슨 박사 | 영국 애큐멘
+ 댄 패터슨 박사 | 영국 애큐먼
  </em>
 </p>
 {{< /blocks/products/pf/testimonials-quote >}}

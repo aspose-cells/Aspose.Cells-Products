@@ -504,7 +504,7 @@ Sulit untuk mendapatkan informasi yang diringkas dengan spreadsheet yang sangat 
 
 {{< /blocks/products/pf/main-container >}}
 
-{{< blocks/products/pf/i18n/testimonials title="Apa Kata Orang" subTitle="Jangan hanya percaya kata-kata kami begitu saja. Lihat apa yang dikatakan pengguna tentang API spreadsheet." caseStudiesLink="https://downloads.aspose.com/corporate/case-studies/aspose.cells/" >}}
+{{< blocks/products/pf/i18n/testimonials title="Apa Kata Orang" subTitle="Jangan hanya percaya kata-kata kami begitu saja. Lihat pendapat pengguna tentang API spreadsheet." caseStudiesLink="https://downloads.aspose.com/corporate/case-studies/aspose.cells/" >}}
 
 {{< blocks/products/pf/testimonials-quote >}}
 <p class="first">

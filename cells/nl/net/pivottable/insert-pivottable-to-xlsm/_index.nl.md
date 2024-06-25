@@ -74,12 +74,12 @@ Bestanden met de extensie XLSM zijn een soort spreadsheetbestanden die macro's o
 {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="Andere ondersteunde draaitabelformaten" subTitle="kunt ook andere Microsoft Excel-formaten maken met draaitabel, waaronder enkele hieronder vermeld." >}}
+{{< blocks/products/pf/agp/other-supported-section title="Andere ondersteunde draaitabelformaten" subTitle="U kunt ook andere Microsoft Excel-formaten maken met draaitabel, waaronder enkele hieronder vermeld." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/insert-pivottable-to-xls/" name="XLS" description="Microsoft Excel-spreadsheet (verouderd)" >}} 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/insert-pivottable-to-xlsx/" name="XLSX" description="Open XML-werkmap" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/insert-pivottable-to-xlsb/" name="XLSB" description="Excel binaire werkmap" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/insert-pivottable-to-xlsm/" name="XLSM" description="Spreadsheet met ingeschakelde macro\'s" >}} 
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/pivottable/insert-pivottable-to-xls/" name="XLS" description="Microsoft Excel-spreadsheet (verouderd)" >}} 
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/pivottable/insert-pivottable-to-xlsx/" name="XLSX" description="Open XML-werkmap" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/pivottable/insert-pivottable-to-xlsb/" name="XLSB" description="Excel binaire werkmap" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/pivottable/insert-pivottable-to-xlsm/" name="XLSM" description="Spreadsheet met ingeschakelde macro\'s" >}} 
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

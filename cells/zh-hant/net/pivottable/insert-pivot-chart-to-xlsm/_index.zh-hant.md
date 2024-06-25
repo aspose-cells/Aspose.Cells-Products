@@ -39,7 +39,7 @@ keywords: [C# Aspose.Cells., c# add pivot chart in xlsm., c# insert pivot chart 
 
 {{% blocks/products/pf/agp/text %}}
 
-只需確保系統具有 Microsoft Windows 或與 .NET Framework、.NET Core、Windows Azure、Mono 或 Xamar Visual Studio 平台相容的作業系統以及 Microsoft1
+只需確保系統具有 Microsoft Windows 或相容 .NET Framework、.NET Core、Windows Azure、Mono 或 Xamarin 平台的作業系統以及 Microsoft Visual Studio Studio 等開發環境。
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -78,10 +78,10 @@ Excel 電子表格程式庫，能夠建立跨平台應用程序，能夠產生�
 
 {{< blocks/products/pf/agp/other-supported-section title="其他支援的資料透視圖格式" subTitle="您也可以使用資料透視圖建立其他 Microsoft Excel 格式，包括下面列出的幾種。" >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/insert-pivot-chart-to-xls/" name="XLS" description="Microsoft Excel 電子表格（舊版）" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/insert-pivot-chart-to-xlsx/" name="XLSX" description="開啟 XML 工作簿" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/insert-pivot-chart-to-xlsb/" name="XLSB" description="Excel 二進位工作簿" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/insert-pivot-chart-to-xlsm/" name="XLSM" description="啟用巨集的電子表格" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/pivottable/insert-pivot-chart-to-xls/" name="XLS" description="Microsoft Excel 電子表格（舊版）" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/pivottable/insert-pivot-chart-to-xlsx/" name="XLSX" description="開啟 XML 工作簿" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/pivottable/insert-pivot-chart-to-xlsb/" name="XLSB" description="Excel 二進位工作簿" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/pivottable/insert-pivot-chart-to-xlsm/" name="XLSM" description="啟用巨集的電子表格" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

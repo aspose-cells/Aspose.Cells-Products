@@ -1,7 +1,7 @@
 ---
 title: Wyodrębnij tekst i obrazy z dokumentu XLSM pod numerem C++
 weight: 570
-description: C++ przykładowy kod do wyodrębnienia tekstu i obrazów z pliku XLSM w C++ Środowisko wykonawcze dla Windows 32-bitowego, Windows 64-bitowego i 64-bitowego systemu Linux.
+description: C++ przykładowy kod do wyodrębnienia tekstu i obrazów z pliku XLSM w C++ Środowisko wykonawcze dla Windows 32-bitowy, Windows 64-bitowy i Linux 64-bitowy.
 keywords: [C++ Aspose.Cells., C++ Extract text and images from XLSM file., C++ How to Parse XLSM File., C++ Extract text from XLSM file., Extract images from XLSM file using C++]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -108,7 +108,7 @@ Aspose::Cells::Cleanup();
     {{< /blocks/products/pf/agp/demobox >}}
 
     {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLSM" readMoreLink="https://docs.fileformat.com/spreadsheet/xlsm/" >}}
-Pliki z rozszerzeniem XLSM to rodzaj plików arkuszy kalkulacyjnych obsługujących makra. Z aplikacyjnego punktu widzenia Makro to zestaw instrukcji służących do automatyzacji procesów. Makro służy do rejestrowania powtarzających się kroków i ułatwia wykonanie czynności poprzez ponowne uruchomienie makra. Makra są programowane w języku Visual Basic for Applications (VBA) Microsoft z poziomu skoroszytu programu Excel za pomocą edytora Visual Basic i można je bezpośrednio z niego uruchamiać/debugować.
+Pliki z rozszerzeniem XLSM to rodzaj plików arkuszy kalkulacyjnych obsługujących makra. Z punktu widzenia aplikacji Makro to zestaw instrukcji służących do automatyzacji procesów. Makro służy do rejestrowania powtarzających się kroków i ułatwia wykonanie czynności poprzez ponowne uruchomienie makra. Makra są programowane w języku Visual Basic for Applications (VBA) Microsoft z poziomu skoroszytu programu Excel przy użyciu edytora Visual Basic i można je bezpośrednio z niego uruchamiać/debugować.
 
     {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 

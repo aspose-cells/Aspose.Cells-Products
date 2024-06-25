@@ -125,13 +125,13 @@ workbook.save(dataDir + "AWArtWToWorksheet_out.xlsx");
     {{< blocks/products/pf/agp/about-file-section >}}
 
         {{< blocks/products/pf/agp/demobox sectionTitle="Tanda Air XLSX melalui Aplikasi Online" sectionDescription=" Tambahkan tanda air ke dokumen XLSX dengan mengunjungi kami[Situs web Demo Langsung](https://products.aspose.app/cells/watermark). Demo langsung memiliki manfaat sebagai berikut" >}}
-            {{< blocks/products/pf/agp/democard icon="fa-cogs" text="Tidak perlu mengunduh atau mengatur apa pun" >}}
+            {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Tidak perlu mengunduh atau mengatur apa pun" >}}
             {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Tidak perlu menulis kode apa pun" >}}
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Cukup unggah file XLSX Anda, atur tanda air Anda dan tekan tombol \"Tambah\"." >}}
             {{< blocks/products/pf/agp/democard icon="fa-download" text=" Segera dapatkan tautan unduhan untuk file yang dihasilkan" >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLSX" readMoreLink="https://docs.fileformat.com/spreadsheet/xlsx/" >}}
-XLSX adalah format terkenal untuk dokumen Excel Microsoft yang diperkenalkan oleh Microsoft dengan rilis Microsoft Office 2007. Berdasarkan struktur yang diatur menurut Konvensi Pengemasan Terbuka sebagaimana diuraikan dalam Bagian 2 standar OOXML ECMA-376, format barunya adalah paket zip yang berisi sejumlah file XML. Struktur dan file yang mendasarinya dapat diperiksa hanya dengan membuka ritsleting file .xlsx.
+XLSX adalah format terkenal untuk dokumen Excel Microsoft yang diperkenalkan oleh Microsoft dengan rilis Microsoft Office 2007. Berdasarkan struktur yang diatur menurut Konvensi Pengemasan Terbuka sebagaimana diuraikan dalam Bagian 2 standar OOXML ECMA-376, format baru adalah paket zip yang berisi sejumlah file XML. Struktur dan file yang mendasarinya dapat diperiksa hanya dengan membuka ritsleting file .xlsx.
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 

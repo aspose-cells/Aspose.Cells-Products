@@ -20,7 +20,7 @@ Aspose.Cells for PHP via Java è un programma di gestione ed elaborazione di fog
 <!--Diagrams Start-->
 {{< blocks/products/pf/i18n/carousel >}}
 
-{{< blocks/products/pf/carousel-item h3="A prima vista" description="Una panoramica delle funzionalità Aspose.Cells for PHP via Java." >}}
+{{< blocks/products/pf/carousel-item h3="A prima vista" description="Una panoramica delle funzionalità di Aspose.Cells for PHP via Java." >}}
 <div class="diagram1 d1-php-java">
  <div class="d1-row">
   <div class="d1-col d1-left">

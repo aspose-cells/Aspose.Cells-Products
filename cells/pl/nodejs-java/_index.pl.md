@@ -359,7 +359,7 @@ Aspose.Cells for Node.js via Java wykorzystuje swój silnik renderujący do rend
  Opcje ochrony
     </h2>
     <p>
- Aspose.Cells for Node.js via Java oferuje szeroką gamę funkcji bezpieczeństwa, w tym szyfrowanie/deszyfrowanie arkuszy kalkulacyjnych, zawartość, obiekt i amp; ochrona scenariuszy oraz możliwość ukrywania i odkrywania wierszy, kolumn i &amp; arkusze ćwiczeń.
+ Aspose.Cells for Node.js via Java oferuje szeroką gamę funkcji bezpieczeństwa, w tym szyfrowanie/deszyfrowanie arkuszy kalkulacyjnych, zawartość, obiekt &amp; ochrona scenariuszy oraz możliwość ukrywania i odkrywania wierszy, kolumn i &amp; arkusze ćwiczeń.
     </p>
    </div>
    <div class="col-lg-12">

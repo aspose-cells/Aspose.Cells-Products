@@ -39,7 +39,7 @@ PM> Install-Package Aspose.Cells
 + Ladda ODS fil.
 + Välj arket.
 + Skapa FindOptions-objekt.
-+ Ställ in sökalternativ
+Ställ in sökalternativ
 + Gå igenom varje cell och använd sökmetoden.
 + Spara arbetsboken.
 
@@ -49,13 +49,13 @@ PM> Install-Package Aspose.Cells
 
 {{% blocks/products/pf/agp/text %}}
 
-Våra API:er stöds på alla större plattformar och operativsystem. Innan du kör koden nedan, se till att du har följande förutsättningar på ditt system.
+ Våra API:er stöds på alla större plattformar och operativsystem. Innan du kör koden nedan, se till att du har följande förutsättningar på ditt system.
 
 {{% /blocks/products/pf/agp/text %}}
 
--  Microsoft Windows eller ett kompatibelt operativsystem med .NET Framework, .NET Core, Mono eller Xamarin Platforms
+- Microsoft Windows eller ett kompatibelt operativsystem med .NET Framework, .NET Core, Mono eller Xamarin Platforms
 -  Utvecklingsmiljö som Microsoft Visual Studio
--  Lägg till referens till Aspose.Cells for .NET DLL i ditt projekt - Installera från NuGet med hjälp av nedladdningsknappen ovan
+-  Lägg till referens till Aspose.Cells for .NET DLL i ditt projekt - Installera från NuGet med hjälp av knappen Ladda ner ovan
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

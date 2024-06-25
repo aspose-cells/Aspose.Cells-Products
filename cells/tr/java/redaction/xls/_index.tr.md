@@ -12,7 +12,7 @@ keywords: [Java Aspose.Cells., Java Search and replace text in XLS file., Java r
 
 {{% blocks/products/pf/agp/content h2="XLS Dosyasını Java Kullanarak Düzenleme" %}}
 
- XLS dosyasını düzenlemek için şunu kullanacağız:[Aspose.Cells for Java](https://products.aspose.com/cells/java) Zengin özelliklere sahip, güçlü ve kullanımı kolay bir redaksiyon API for Java platformu olan API. En son sürümünü doğrudan adresinden indirebilirsiniz.[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) ve aşağıdaki yapılandırmaları pom.xml dosyasına ekleyerek Maven tabanlı projenize kurun.
+ XLS dosyasını düzenlemek için şunu kullanacağız:[Aspose.Cells for Java](https://products.aspose.com/cells/java) Zengin özelliklere sahip, güçlü ve kullanımı kolay bir redaksiyon platformu olan API API for Java. En son sürümünü doğrudan adresinden indirebilirsiniz.[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) ve aşağıdaki yapılandırmaları pom.xml dosyasına ekleyerek Maven tabanlı projenize kurun.
 
 {{% blocks/products/pf/agp/code-block title="Depo" offSpacer="true" %}}
 
@@ -58,7 +58,7 @@ keywords: [Java Aspose.Cells., Java Search and replace text in XLS file., Java r
 + İlgili sayfayı seçin.
 + FindOptions'ı Tanımlayın ve Belirleyin.
 + Aramak istediğiniz aralığı belirtin
-+ Her hücrede döngü yapın ve getCells().find(...) öğesini kullanın.
+Her hücrede döngü yapın ve getCells().find(...) öğesini kullanın.
 + Değeri değiştirin.
 + Çalışma kitabını kaydedin.
 
@@ -72,7 +72,7 @@ keywords: [Java Aspose.Cells., Java Search and replace text in XLS file., Java r
 
 {{% /blocks/products/pf/agp/text %}}
 
-- Microsoft Windows veya JSP/JSF Uygulaması ve Masaüstü Uygulamaları için Java Çalışma Zamanı Ortamı ile uyumlu bir işletim sistemi.
+-  Microsoft Windows veya JSP/JSF Uygulaması ve Masaüstü Uygulamaları için Java Çalışma Zamanı Ortamı ile uyumlu bir işletim sistemi.
 -  Aspose.Cells for Java'in en son sürümünü doğrudan şu adresten edinin:
  [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells)  .
 
@@ -142,7 +142,7 @@ workbook.save(dataDir + "output.xls");
     {{< /blocks/products/pf/agp/demobox >}}
 
     {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLS" readMoreLink="https://docs.fileformat.com/spreadsheet/xls/" >}}
-XLS uzantılı dosyalar Excel İkili Dosya Formatını temsil eder. Bu tür dosyalar Microsoft Excel'in yanı sıra OpenOffice Calc veya Apple Numbers gibi diğer benzer elektronik tablo programları tarafından oluşturulabilir. Excel tarafından kaydedilen dosya, her çalışma kitabının bir veya daha fazla çalışma sayfasına sahip olabileceği Çalışma Kitabı olarak bilinir. Veriler, çalışma sayfasında tablo biçiminde depolanır ve kullanıcılara görüntülenir ve sayısal değerleri, metin verilerini, formülleri, dış veri bağlantılarını, görüntüleri ve grafikleri kapsayabilir. Microsoft Excel gibi uygulamalar, çalışma kitabı verilerini PDF, CSV, XLSX, TXT, HTML, XPS ve diğer birkaç farklı formata aktarmanıza olanak tanır. XLS dosya formatı, Microsoft Excel 2007 sürümüyle birlikte daha açık ve yapılandırılmış bir format olan XLSX ile değiştirildi. En son sürümler, XLS dosyalarının oluşturulması ve okunması için hala destek sağlıyor, ancak artık XLSX ilk kullanım seçeneği.
+XLS uzantılı dosyalar Excel İkili Dosya Formatını temsil eder. Bu tür dosyalar Microsoft Excel'in yanı sıra OpenOffice Calc veya Apple Numbers gibi diğer benzer elektronik tablo programları tarafından oluşturulabilir. Excel tarafından kaydedilen dosya, her çalışma kitabının bir veya daha fazla çalışma sayfasına sahip olabileceği Çalışma Kitabı olarak bilinir. Veriler, çalışma sayfasında tablo biçiminde depolanır ve kullanıcılara görüntülenir ve sayısal değerleri, metin verilerini, formülleri, dış veri bağlantılarını, görüntüleri ve grafikleri kapsayabilir. Microsoft Excel gibi uygulamalar, çalışma kitabı verilerini PDF, CSV, XLSX, TXT, HTML, XPS ve diğer birkaç farklı formata aktarmanıza olanak tanır. XLS dosya formatı, Microsoft Excel 2007 sürümüyle birlikte daha açık ve yapılandırılmış bir format olan XLSX ile değiştirildi. En son sürümler, XLS dosyalarının oluşturulması ve okunması için hala destek sağlıyor, ancak şu anda ilk kullanım seçeneği XLSX.
 
     {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 

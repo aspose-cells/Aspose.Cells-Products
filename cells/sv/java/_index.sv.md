@@ -390,7 +390,7 @@ Skapa &amp; manipulera kommentarer
  Spara Excel-filer till olika format
     </h2>
     <p>
- Excel API erbjuder konvertering av kalkylblad till PDF, XPS, HTML och fler format samtidigt som den behåller högsta visuella trohet. Den pålitliga och flexibla konverteringsprocessen gör Aspose.Cells till ett perfekt val för organisationer som mestadels utbyter filer inom branschstandardformat.
+ Excel API erbjuder konvertering av kalkylblad till PDF, XPS, HTML och fler format samtidigt som högsta visuella kvalitet behålls. Den pålitliga och flexibla konverteringsprocessen gör Aspose.Cells till ett perfekt val för organisationer som mestadels utbyter filer inom branschstandardformat.
     </p>
     <div class="codeblock" id="code">
      <h3>
@@ -457,7 +457,7 @@ chart.toPdf(dir + "output.pdf");</code></pre>
  Manipulera Excel-rader &amp; Kolumner
     </h2>
     <p>
- Aspose.Cells for Java låter dig ändra rader och kolumner på en mängd olika sätt. Man kan enkelt justera kolumnbredd och radhöjd, automatiskt anpassa bredden/höjden på celler efter innehåll, infoga &amp; ta bort, dölj &amp; av-gömma samt gruppera &amp; avgruppera rader och kolumner.
+ Aspose.Cells for Java låter dig ändra rader och kolumner på en mängd olika sätt. Man kan enkelt justera kolumnbredd och radhöjd, automatiskt anpassa bredden/höjden på celler efter innehåll, infoga &amp; ta bort, dölj &amp; av-gömma såväl som grupp &amp; avgruppera rader och kolumner.
     </p>
    </div>
    <div class="col-lg-12">

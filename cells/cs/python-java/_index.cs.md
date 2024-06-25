@@ -13,7 +13,7 @@ keywords: [Python Aspose.Cells Create parse repair merge convert JSON Excel XML 
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
- Aspose.Cells for Python via Java je rychlý a spolehlivý API pro úlohy zpracování tabulek. Vývojáři mohou vytvářet jednoduché nebo složité tabulky, manipulovat a extrahovat informace ze souborů aplikace Excel. API čte více formátů aplikace Excel a dokáže vykreslovat listy na XPS, PDF, MHTML, HTML, prostý text, obrázky a další. Je to nejlepší řešení pro automatizaci zpráv Excel pomocí pythonu.
+ Aspose.Cells for Python via Java je rychlý a spolehlivý API pro úlohy zpracování tabulek. Vývojáři mohou vytvářet jednoduché nebo složité tabulky, manipulovat a extrahovat informace ze souborů aplikace Excel. API čte více formátů aplikace Excel a může vykreslovat listy na XPS, PDF, MHTML, HTML, prostý text, obrázky a další. Je to nejlepší řešení pro automatizaci zpráv Excel pomocí pythonu.
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
@@ -444,7 +444,7 @@ Python Knihovna Excel poskytuje převod souborů Excel na PDF, XPS &amp; HTML fo
     </p>
     <div class="codeblock" id="code">
      <h3>
- Uložte tabulku v různých formátech - Java
+Uložte tabulku v různých formátech - Java
      </h3>
      <pre><code class="java">
 // load file to be converted

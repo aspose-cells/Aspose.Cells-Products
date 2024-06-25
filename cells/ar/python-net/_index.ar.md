@@ -13,7 +13,7 @@ keywords: [Python Aspose.Cells Create repair merge convert JSON Excel XML PDF HT
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
- Aspose.Cells for Python عبر .Net هو API سريع وموثوق لمهام معالجة جداول البيانات. يمكن للمطورين إنشاء جداول بيانات بسيطة أو معقدة، ومعالجة المعلومات واستخراجها من ملفات Excel. يقرأ API تنسيقات Excel متعددة ويمكنه تقديم أوراق العمل إلى XPS وPDF وMHTML وHTML ونص عادي وصور والمزيد. هذا هو الحل الأفضل لأتمتة تقارير Excel باستخدام بايثون.
+Aspose.Cells for Python عبر .Net هو API سريع وموثوق لمهام معالجة جداول البيانات. يمكن للمطورين إنشاء جداول بيانات بسيطة أو معقدة، ومعالجة المعلومات واستخراجها من ملفات Excel. يقرأ API تنسيقات Excel متعددة ويمكنه تقديم أوراق العمل إلى XPS وPDF وMHTML وHTML ونص عادي وصور والمزيد. هذا هو الحل الأفضل لأتمتة تقارير Excel باستخدام بايثون.
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}

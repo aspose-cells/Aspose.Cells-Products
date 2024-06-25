@@ -13,7 +13,7 @@ keywords: [C++ library execl Aspose.Cells Create repair parse merge convert JSON
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
-La libreria Aspose.Cells C++ è una libreria nativa C++ per la manipolazione dei fogli di calcolo. Le applicazioni possono eseguire funzioni come la creazione, la conversione e la modifica di proprietà integrate e personalizzate del foglio di calcolo, temi, stili e formattazione, convalida dei dati, formattazione condizionale, lettura, scrittura e calcolo di formule, raggruppamento di righe e colonne e molto altro senza fare affidamento sull'automazione di Office. oppure MicrosoftExcel. API supporta i formati di fogli di calcolo più comuni (come XLS, XLSX, XLSM e XLSB) nonché altri tipi di formati di file (come PDF, XPS) e i formati di immagine più comuni (come JPEG, 076 1123481, BMP, TIFF , GIF, EMF, SVG).
+La libreria Aspose.Cells C++ è una libreria nativa C++ per la manipolazione dei fogli di calcolo. Le applicazioni possono eseguire funzioni come la creazione, la conversione e la modifica di proprietà integrate e personalizzate del foglio di calcolo, temi, stili e formattazione, convalida dei dati, formattazione condizionale, lettura, scrittura e calcolo di formule, raggruppamento di righe e colonne e molto altro senza fare affidamento sull'automazione di Office. oppure MicrosoftExcel. API supporta i formati di fogli di calcolo più comuni (come XLS, XLSX, XLSM e XLSB) nonché altri tipi di formati di file (come PDF, XPS) e i formati di immagine più comuni (come JPEG, 07 61123481, BMP, TIFF , GIF, EMF, SVG).
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
@@ -129,13 +129,13 @@ Carica/salva fogli di calcolo
    <header>
     <i class="fa fa-cubes">
     </i>
- Windows 32bit
+ Windows 32 bit
    </header>
    <br/>
    <header>
     <i class="fa fa-cubes">
     </i>
- Windows 64 bit
+ Windows 64bit
    </header>
   </div>
   <!--/left-->

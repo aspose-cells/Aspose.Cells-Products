@@ -113,7 +113,7 @@ Er zijn drie opties om "Aspose.Cells for C++" op uw systeem te installeren. Kies
     {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="Andere ondersteunde werkbladen genereren" subTitle="U kunt ook andere Microsoft Excel-bestanden maken, waaronder enkele hieronder vermeld." >}}
+{{< blocks/products/pf/agp/other-supported-section title="Andere ondersteunde werkbladen genereren" subTitle="U kunt ook andere Excel-bestanden Microsoft maken, waaronder enkele hieronder vermeld." >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/create/xls/" name="XLS" description="Microsoft Excel-spreadsheet (verouderd)" >}} 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/create/xlsx/" name="XLSX" description="Open XML-werkmap" >}} 

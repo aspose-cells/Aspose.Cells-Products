@@ -436,7 +436,7 @@ Aspose.Cells for PHP via Java ma własny silnik renderujący specjalnie zaprojek
  Wydajny, solidny i amp; Niezawodny silnik obliczający formuły
     </h2>
     <p>
-Aspose.Cells for PHP via Java jest wyposażony w potężny silnik obliczania formuł, który obsługuje prawie wszystkie standardowe i zaawansowane formuły i funkcje Excela Microsoft. Można odczytywać, ustawiać i obliczać wyniki formuł typu wbudowanego lub dodatkowego, tablicowego i stylu referencyjnego R1C1.
+Aspose.Cells for PHP via Java jest wyposażony w potężny silnik obliczania formuł, który obsługuje prawie wszystkie standardowe i zaawansowane formuły i funkcje Excela Microsoft. Można odczytywać, ustawiać i obliczać wyniki formuł wbudowanych lub dodatkowych, tablicowych i stylów referencyjnych R1C1.
     </p>
    </div>
    <div class="col-lg-12">

@@ -58,7 +58,7 @@ keywords: [Java Aspose.Cells., Java Search and replace text in XLSB file., Java 
 + เลือกแผ่นงานที่เกี่ยวข้อง
 + กำหนดและระบุ FindOptions
 + ระบุช่วงที่คุณต้องการค้นหา
-+ วนซ้ำแต่ละเซลล์แล้วใช้ getCells().find(...)
+วนซ้ำแต่ละเซลล์แล้วใช้ getCells().find(...)
 + แทนที่ค่า
 + บันทึกสมุดงาน
 
@@ -72,7 +72,7 @@ keywords: [Java Aspose.Cells., Java Search and replace text in XLSB file., Java 
 
 {{% /blocks/products/pf/agp/text %}}
 
-- Microsoft Windows หรือระบบปฏิบัติการที่เข้ากันได้กับ Java Runtime Environment สำหรับแอปพลิเคชัน JSP/JSF และแอปพลิเคชันเดสก์ท็อป
+-  Microsoft Windows หรือระบบปฏิบัติการที่เข้ากันได้กับ Java Runtime Environment สำหรับแอปพลิเคชัน JSP/JSF และแอปพลิเคชันเดสก์ท็อป
 -  รับเวอร์ชั่นล่าสุด Aspose.Cells for Java ส่งตรงจาก
  [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells)  .
 
@@ -134,7 +134,7 @@ workbook.save(dataDir + "output.xlsb");
 
 {{< blocks/products/pf/agp/about-file-section >}}
 
-    {{< blocks/products/pf/agp/demobox sectionTitle="ออนไลน์ XLSB Redaction สาธิตสด" sectionDescription=" ค้นหาและแทนที่ข้อความในเนื้อหา ความคิดเห็น หรือข้อมูลเมตาในเอกสาร XLSB ทันทีโดยไปที่[เว็บไซต์สาธิตสด](https://products.aspose.app/cells/redaction). การสาธิตสดมีข้อดีดังต่อไปนี้" >}}
+    {{< blocks/products/pf/agp/demobox sectionTitle="ออนไลน์ XLSB Redaction สาธิตสด" sectionDescription=" ค้นหาและแทนที่ข้อความในเนื้อหา ความคิดเห็น หรือข้อมูลเมตาในเอกสาร XLSB ทันทีโดยไปที่[เว็บไซต์สาธิตสด](https://products.aspose.app/cells/redaction)- การสาธิตสดมีข้อดีดังต่อไปนี้" >}}
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" ไม่ต้องดาวน์ Aspose API." >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" ไม่จำเป็นต้องเขียนโค้ดใดๆ" >}}
         {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" เพียงอัพโหลดไฟล์ XLSB ของคุณ" >}}

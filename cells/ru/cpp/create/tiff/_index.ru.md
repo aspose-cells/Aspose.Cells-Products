@@ -102,7 +102,7 @@ Aspose::Cells::Cleanup();
 
 {{% /blocks/products/pf/agp/text %}}
 
-- Microsoft Windows или совместимая ОС с C++ Runtime Environment для Windows 32-разрядной версии, Windows 64-разрядной версии и 64-разрядной версии Linux.
+- Microsoft Windows или совместимая ОС со средой выполнения C++ для 32-разрядной версии Windows, 64-разрядной версии Windows и 64-разрядной версии Linux.
 - Добавьте ссылку на DLL Aspose.Cells for C++ в свой проект.
 
 {{% /blocks/products/pf/agp/content %}}

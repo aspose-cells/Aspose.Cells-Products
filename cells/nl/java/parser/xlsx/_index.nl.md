@@ -54,7 +54,7 @@ keywords: [Java Aspose.Cells., Java Extract text and images from XLSX file., Jav
 
 {{% /blocks/products/pf/agp/text %}}
 
-+ Laad XLSX-document met behulp van de werkmapklasse.
+Laad XLSX-document met behulp van de werkmapklasse.
 + Selecteer het vereiste blad met behulp van de getWorksheets().get-methode.
 + Haal alle cellen van het geselecteerde blad op met getCells().
 + Herhaal elke cel en haal de tekst ervan op.
@@ -70,7 +70,7 @@ keywords: [Java Aspose.Cells., Java Extract text and images from XLSX file., Jav
 
 {{% /blocks/products/pf/agp/text %}}
 
-- Microsoft Windows of een compatibel besturingssysteem met Java Runtime Environment voor JSP/JSF-applicatie en desktopapplicaties.
+-  Microsoft Windows of een compatibel besturingssysteem met Java Runtime Environment voor JSP/JSF-applicatie en desktopapplicaties.
 -  Ontvang de nieuwste versie van Aspose.Cells for Java rechtstreeks van
  [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells)  .
 

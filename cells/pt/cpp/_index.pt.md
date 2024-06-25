@@ -13,7 +13,7 @@ keywords: [C++ library execl Aspose.Cells Create repair parse merge convert JSON
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
- biblioteca Aspose.Cells C++ é uma biblioteca nativa C++ para manipulação de planilhas. Os aplicativos podem executar funções como criar, converter e editar propriedades integradas e personalizadas de planilhas, temas, estilos e formatação, validação de dados, formatação condicional, leitura, escrita e cálculo de fórmulas, agrupamento de linhas e colunas e muito mais, sem depender da automação de escritório. ou Microsoft Excel. O API suporta os formatos de planilha mais comuns (como XLS, XLSX, XLSM e XLSB), bem como outros tipos de formatos de arquivo (como PDF, XPS) e os formatos de imagem mais comuns (como JPEG, 0761). 123481, BMP, TIFF , GIF, EMF, SVG).
+ biblioteca Aspose.Cells C++ é uma biblioteca nativa C++ para manipulação de planilhas. Os aplicativos podem executar funções como criar, converter e editar propriedades integradas e personalizadas de planilhas, temas, estilos e formatação, validação de dados, formatação condicional, leitura, escrita e cálculo de fórmulas, agrupamento de linhas e colunas e muito mais, sem depender da automação de escritório. ou Microsoft Excel. O API suporta os formatos de planilha mais comuns (como XLS, XLSX, XLSM e XLSB), bem como outros tipos de formatos de arquivo (como PDF, XPS) e os formatos de imagem mais comuns (como JPEG, 1123481, BMP, TIFF , GIF, EMF, SVG).
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
@@ -246,7 +246,7 @@ Somente saída
      <b>
  Outros:
      </b>
- MARKDOWN,SQL,XTHML
+ MARKDOWN, SQL, XTHML
     </li>
    </ul>
   </div>

@@ -12,7 +12,7 @@ keywords: [Java Aspose.Cells., Java Search and replace text in XLSB file., Java 
 
 {{% blocks/products/pf/agp/content h2="XLSB Dosyasını Java Kullanarak Düzenleme" %}}
 
- XLSB dosyasını düzenlemek için şunu kullanacağız:[Aspose.Cells for Java](https://products.aspose.com/cells/java) Zengin özelliklere sahip, güçlü ve kullanımı kolay bir redaksiyon API for Java platformu olan API. En son sürümünü doğrudan adresinden indirebilirsiniz.[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) ve aşağıdaki yapılandırmaları pom.xml dosyasına ekleyerek Maven tabanlı projenize kurun.
+ XLSB dosyasını düzenlemek için şunu kullanacağız:[Aspose.Cells for Java](https://products.aspose.com/cells/java) Zengin özelliklere sahip, güçlü ve kullanımı kolay bir redaksiyon platformu olan API API for Java. En son sürümünü doğrudan adresinden indirebilirsiniz.[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) ve aşağıdaki yapılandırmaları pom.xml dosyasına ekleyerek Maven tabanlı projenize kurun.
 
 {{% blocks/products/pf/agp/code-block title="Depo" offSpacer="true" %}}
 
@@ -58,7 +58,7 @@ keywords: [Java Aspose.Cells., Java Search and replace text in XLSB file., Java 
 + İlgili sayfayı seçin.
 + FindOptions'ı Tanımlayın ve Belirleyin.
 + Aramak istediğiniz aralığı belirtin
-+ Her hücrede döngü yapın ve getCells().find(...) öğesini kullanın.
+Her hücrede döngü yapın ve getCells().find(...) öğesini kullanın.
 + Değeri değiştirin.
 + Çalışma kitabını kaydedin.
 
@@ -72,7 +72,7 @@ keywords: [Java Aspose.Cells., Java Search and replace text in XLSB file., Java 
 
 {{% /blocks/products/pf/agp/text %}}
 
-- Microsoft Windows veya JSP/JSF Uygulaması ve Masaüstü Uygulamaları için Java Çalışma Zamanı Ortamı ile uyumlu bir işletim sistemi.
+-  Microsoft Windows veya JSP/JSF Uygulaması ve Masaüstü Uygulamaları için Java Çalışma Zamanı Ortamı ile uyumlu bir işletim sistemi.
 -  Aspose.Cells for Java'in en son sürümünü doğrudan şu adresten edinin:
  [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells)  .
 

@@ -1,5 +1,5 @@
 ---
-title: .NET Excel API | Định dạng bảng tính quy trình via .NET Core
+title:  .NET Excel API | Định dạng bảng tính quy trình via .NET Core
 weight: 2030
 description: C# ASP.NET Thư viện VB.NET tạo, sửa chữa, gộp, phân tích và chuyển đổi file excel. Chuyển đổi excel thành PDF, JSON, XML, TSV, HTML, v.v.
 keywords: [Aspose.Cells C# Create repair parse merge convert JSON Excel XML PDF HTML TSV SQL TXT PNG JPEG and more formats]
@@ -13,11 +13,11 @@ keywords: [Aspose.Cells C# Create repair parse merge convert JSON Excel XML PDF 
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
- Aspose.Cells for .NET là Lập trình bảng tính Excel API để tăng tốc các tác vụ quản lý và xử lý bảng tính. API hỗ trợ xây dựng các ứng dụng đa nền tảng có khả năng tạo, sửa đổi, chuyển đổi, kết xuất và in bảng tính. Hơn nữa, Nó không dựa vào Microsoft Excel hoặc bất kỳ thành phần Office Interop Microsoft nào được cài đặt mà là một bộ API mạnh mẽ xử lý tất cả các định dạng Excel cũng như các định dạng CSV và SpreadsheetML.
+Aspose.Cells for .NET là Lập trình bảng tính Excel API để tăng tốc các tác vụ quản lý và xử lý bảng tính. API hỗ trợ xây dựng các ứng dụng đa nền tảng có khả năng tạo, sửa đổi, chuyển đổi, kết xuất và in bảng tính. Hơn nữa, Nó không dựa vào Microsoft Excel hoặc bất kỳ thành phần Office Interop Microsoft nào được cài đặt mà là một bộ API mạnh mẽ xử lý tất cả các định dạng Excel cũng như các định dạng CSV và SpreadsheetML.
 </p>
 
 <p>
-Bằng cách tích hợp API, một số tác vụ cơ bản mà nhà phát triển có thể thực hiện như quản lý nhiều trang tính, tạo nội dung và kiểu bảng tính từ đầu, nhập dữ liệu vào trang tính từ các nguồn dữ liệu khác nhau, thêm các công thức Toán học, Tài chính và Văn bản phổ biến và phức tạp, thao tác trên biểu đồ, hình ảnh, bình luận, đồ vật vẽ và nhiều hơn nữa.
+ Bằng cách tích hợp API, một số tác vụ cơ bản mà nhà phát triển có thể thực hiện như quản lý nhiều trang tính, tạo nội dung và kiểu bảng tính từ đầu, nhập dữ liệu vào trang tính từ các nguồn dữ liệu khác nhau, thêm các công thức Toán học, Tài chính và Văn bản phổ biến và phức tạp, thao tác trên biểu đồ, hình ảnh, bình luận, đồ vật vẽ và nhiều hơn nữa.
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
@@ -92,7 +92,7 @@ Tóm tắt
  Áp dụng công thức
     </li>
     <li>
- Nhập/Xuất dữ liệu
+Nhập/Xuất dữ liệu
     </li>
    </ul>
   </div>
@@ -213,7 +213,7 @@ Tóm tắt
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Định dạng tệp được hỗ trợ" description=" Aspose.Cells for .NET hỗ trợ bảng tính thông dụng[định dạng tập tin](https://docs.aspose.com/cells/net/supported-file-formats/)cũng như các định dạng hình ảnh và bố cục cố định được sử dụng phổ biến nhất." >}}
+{{< blocks/products/pf/carousel-item h3="Định dạng tệp được hỗ trợ" description=" Aspose.Cells for .NET hỗ trợ bảng tính thông dụng[định dạng tập tin](https://docs.aspose.com/cells/net/supported-file-formats/) cũng như các định dạng hình ảnh và bố cục cố định được sử dụng phổ biến nhất." >}}
 <div class="diagram1 d2 d1-net">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -387,7 +387,7 @@ Chỉ đầu ra
     <em class="fa fa-support ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Hỗ trợ CSV (giá trị được phân tách bằng dấu phẩy) &amp; TSV (giá trị được phân tách bằng tab)
+Hỗ trợ CSV (giá trị được phân tách bằng dấu phẩy) &amp; TSV (giá trị được phân tách bằng tab)
     </p>
    </div>
    <div class="col-lg-4">
@@ -450,7 +450,7 @@ Tạo &amp; thao túng bình luận
     <em class="fa fa-file-code-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-Sửa đổi mã VBA hoặc Macro trong tệp mẫu
+ Sửa đổi mã VBA hoặc Macro trong tệp mẫu
     </p>
    </div>
    <div class="col-lg-4">
@@ -469,7 +469,7 @@ Sửa đổi mã VBA hoặc Macro trong tệp mẫu
     </p>
     <div class="codeblock" id="code">
      <h3>
- Lưu bảng tính ở nhiều định dạng khác nhau - C#
+Lưu bảng tính ở nhiều định dạng khác nhau - C#
      </h3>
      <pre><code class="cs">// load file to be converted
 
@@ -491,7 +491,7 @@ workbook.Save(dir + "output.html", Aspose.Cells.SaveFormat.Html);</code></pre>
  Trực quan hóa dữ liệu bằng định dạng, biểu đồ &amp; đồ họa
     </h2>
     <p>
-Aspose.Cells for .NET mang đến cho bạn sự tự do và linh hoạt hoàn toàn để trang bị cho bảng tính của mình tất cả các loại hiệu ứng hình ảnh. API cho phép bạn áp dụng các phông chữ khác nhau với các thuộc tính, kiểu ô (căn chỉnh, thụt lề, xoay, viền, tô bóng và tô màu, bảo vệ, gói và thu nhỏ văn bản) và tất cả các loại định dạng số.
+ Aspose.Cells for .NET mang đến cho bạn sự tự do và linh hoạt hoàn toàn để trang bị cho bảng tính của mình tất cả các loại hiệu ứng hình ảnh. API cho phép bạn áp dụng các phông chữ khác nhau với các thuộc tính, kiểu ô (căn chỉnh, thụt lề, xoay, viền, tô bóng và tô màu, bảo vệ, gói và thu nhỏ văn bản) và tất cả các loại định dạng số.
     </p>
     <p>
  Tương tự, biểu đồ và đồ họa hấp dẫn về mặt hình ảnh và có thể mang lại cho bảng tính của bạn một diện mạo chuyên nghiệp. Aspose.Cells for .NET cung cấp bộ API toàn diện để tạo và thao tác tất cả các loại biểu đồ tiêu chuẩn và tùy chỉnh. Hơn nữa, bạn có thể thêm các loại đối tượng vẽ khác nhau, chẳng hạn như nhận xét, hình ảnh, đối tượng OLE, hình dạng và điều khiển vào các ô

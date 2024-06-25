@@ -77,10 +77,10 @@ XLSX은 Microsoft Office 2007 릴리스와 함께 Microsoft에 의해 도입된 
 
 {{< blocks/products/pf/agp/other-supported-section title="기타 지원되는 피벗 테이블 형식" subTitle="아래 나열된 몇 가지를 포함하여 피벗 테이블을 사용하여 다른 Microsoft Excel 형식을 만들 수도 있습니다." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/insert-pivottable-to-xls/" name="XLS" description="Microsoft Excel 스프레드시트(레거시)" >}} 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/insert-pivottable-to-xlsx/" name="XLSX" description="XML 통합 문서 열기" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/insert-pivottable-to-xlsb/" name="XLSB" description="Excel 바이너리 통합 문서" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/insert-pivottable-to-xlsm/" name="XLSM" description="매크로 지원 스프레드시트" >}} 
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/pivottable/insert-pivottable-to-xls/" name="XLS" description="Microsoft Excel 스프레드시트(레거시)" >}} 
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/pivottable/insert-pivottable-to-xlsx/" name="XLSX" description="XML 통합 문서 열기" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/pivottable/insert-pivottable-to-xlsb/" name="XLSB" description="Excel 바이너리 통합 문서" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/pivottable/insert-pivottable-to-xlsm/" name="XLSM" description="매크로 지원 스프레드시트" >}} 
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

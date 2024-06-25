@@ -16,7 +16,7 @@ Aspose.Cells for Node.js via Java là một API giàu tính năng và có thể 
 </p>
 
 <p>
- Aspose.Cells for Node.js via Java hỗ trợ hầu hết các định dạng bảng tính phổ biến bao gồm XLS, XLSX, ODS, SpreadsheetML, CSV, TSC &amp; HTML.
+ Aspose.Cells for Node.js via Java hỗ trợ hầu hết các định dạng bảng tính phổ biến bao gồm XLS, XLSX, ODS, SpreadsheetML, CSV, TSC & amp; HTML.
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}

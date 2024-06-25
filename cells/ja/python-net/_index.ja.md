@@ -1,11 +1,11 @@
 ---
 title:  Python Excel スプレッドシート API - Aspose
 weight: 2800
-description: Python Excel ファイルを作成、修復、マージ、解析、変換するためのライブラリ。 Excel を PDF、JSON、HTML、TXT およびその他の一般的な形式に変換します。
+description: Python ライブラリは、Excel ファイルを作成、修復、結合、解析、変換します。Excel を PDF、JSON、HTML、TXT などの一般的な形式に変換します。
 keywords: [Python Aspose.Cells Create repair merge convert JSON Excel XML PDF HTML TSV SQL ODS CSV TSV PNG JPEG and more formats]
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="Python Excel スプレッドシート解析 API" h2="Python アプリケーション内でスプレッドシートを生成、読み取り、書き込み、操作するだけでなく、Excel ファイルを複数の形式にエクスポートします。" logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/cells/headers/aspose_cells-for-python-via-net.svg" pfName="Aspose.Cells" subTitlepfName="for Python via .NET" downloadUrl="https://releases.aspose.com/cells/python-net/" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="Python Excel スプレッドシート解析 API" h2="Python アプリケーション内でスプレッドシートを生成、読み取り、書き込み、または操作したり、Excel ファイルを複数の形式にエクスポートしたりできます。" logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/cells/headers/aspose_cells-for-python-via-net.svg" pfName="Aspose.Cells" subTitlepfName="for Python via .NET" downloadUrl="https://releases.aspose.com/cells/python-net/" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells" subTitlepfName="for Python via .NET" >}}
 
@@ -13,7 +13,7 @@ keywords: [Python Aspose.Cells Create repair merge convert JSON Excel XML PDF HT
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
- Aspose.Cells for Python via .Net は、スプレッドシート処理タスク用の高速で信頼性の高い API です。開発者は、単純または複雑なスプレッドシートを作成し、Excel ファイルから情報を操作したり抽出したりできます。 API は複数の Excel 形式を読み取り、ワークシートを XPS、PDF、MHTML、HTML、プレーン テキスト、画像などにレンダリングできます。 Python を使用して Excel レポートを自動化するための最良のソリューションです。
+Aspose.Cells for Python via .Net は、スプレッドシート処理タスク用の高速で信頼性の高い API です。開発者は、単純なスプレッドシートや複雑なスプレッドシートを作成したり、Excel ファイルから情報を操作したり抽出したりできます。API は複数の Excel 形式を読み取り、ワークシートを XPS、PDF、MHTML、HTML、プレーン テキスト、画像などにレンダリングできます。これは、Python を使用して Excel レポートを自動化するための最適なソリューションです。
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
@@ -28,7 +28,7 @@ keywords: [Python Aspose.Cells Create repair merge convert JSON Excel XML PDF HT
    <header>
     <i class="fa fa-refresh">
     </i>
-インポートと輸出
+輸入と輸出
    </header>
    <ul>
     <li>
@@ -54,7 +54,7 @@ keywords: [Python Aspose.Cells Create repair merge convert JSON Excel XML PDF HT
 ワークシートから画像へ
     </li>
     <li>
-スプレッドシートから PDF
+スプレッドシート PDF
     </li>
    </ul>
   </div>
@@ -70,10 +70,10 @@ keywords: [Python Aspose.Cells Create repair merge convert JSON Excel XML PDF HT
 書式設定を適用する
     </li>
     <li>
-式を適用する
+数式を適用する
     </li>
     <li>
-グラフの作成
+チャートを作成する
     </li>
     <li>
 要約する
@@ -105,7 +105,7 @@ keywords: [Python Aspose.Cells Create repair merge convert JSON Excel XML PDF HT
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="プラットフォームの独立性" description="Aspose.Cells for Python via .NETでご利用いただけます。" >}}
+{{< blocks/products/pf/carousel-item h3="プラットフォームの独立性" description="Aspose.Cells for Python via .NET が利用可能です。" >}}
 <div class="diagram1 d1-python">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -145,7 +145,7 @@ keywords: [Python Aspose.Cells Create repair merge convert JSON Excel XML PDF HT
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="サポートされているファイル形式" description="Python Excel ライブラリは、一般的な Microsoft Excel 形式、固定レイアウト形式、および画像をサポートしています。" >}}
+{{< blocks/products/pf/carousel-item h3="サポートされているファイル形式" description="Python Excel ライブラリは、一般的な Microsoft Excel 形式、固定レイアウト形式、および画像をサポートします。" >}}
 <div class="diagram1 d2 d1-python">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -183,13 +183,13 @@ Microsoft エクセル:
      <b>
       Numbers:
      </b>
- Apple の iWork オフィス スイート Numbers アプリのドキュメント
+ AppleのiWorkオフィススイートNumbersアプリドキュメント
     </li>
     <li>
      <b>
 その他:
      </b>
- SXC、FODS、EPUB
+ SXC, FODS, EPUB
     </li>
    </ul>
   </div>
@@ -259,7 +259,7 @@ Microsoft エクセル:
  <div class="row">
   <div class="container">
    <h2 class="pr-ft">
-高度な Python Excel API の機能
+高度な Python Excel API 機能
    </h2>
    <p>
    </p>
@@ -267,7 +267,7 @@ Microsoft エクセル:
     <em class="fa fa-file-text-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-Excel スプレッドシートを読む
+Excel スプレッドシートの読み取り
     </p>
    </div>
    <div class="col-lg-4">
@@ -295,14 +295,14 @@ Excel スプレッドシートを読む
     <em class="fa fa-bar-chart ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-画像の追加とグラフの作成
+画像を追加したりグラフを作成したり
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-table ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-ピボットテーブルとピボットチャートを作成する
+ピボットテーブルとピボットグラフを作成する
     </p>
    </div>
    <div class="col-lg-4">
@@ -337,7 +337,7 @@ Excel スプレッドシートを読む
     <em class="fa fa-sort-numeric-asc ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-数値の書式設定を設定する
+数値の書式を設定する
     </p>
    </div>
    <div class="col-lg-4">
@@ -365,7 +365,7 @@ Excel スプレッドシートを読む
     <em class="fa fa-edit ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-読んで、条件付き書式の書き込み
+条件付き書式の読み取りと書き込み
     </p>
    </div>
    <!--
@@ -437,10 +437,10 @@ Excel スプレッドシートを読む
 -->
    <div class="col-lg-12">
     <h2 class="h2title">
-複数のフォーマットの変換
+複数のフォーマット変換
     </h2>
     <p>
-Python Excel ライブラリは、Excel ファイルを PDF、XPS および XPS に変換します。 HTML形式。 API の信頼性の高い変換により、業界標準形式でファイルを交換する必要がある企業にとって完璧なソリューションになります。
+Python Excel ライブラリは、Excel ファイルを PDF、XPS、HTML 形式に変換します。API の変換は信頼性が高く、業界標準形式でファイルを交換する必要がある企業に最適なソリューションです。
     </p>
     <div class="codeblock" id="code">
      <h3>
@@ -489,7 +489,7 @@ wk.save("houtput.html", SaveFormat.HTML);</code></pre>
 柔軟な表示オプション
     </h2>
     <p>
- Aspose.Cells for Python via .NET は、ページ設定の完全な制御を提供し、改ページのプレビュー、ズーム レベルの設定、ページの方向の設定、フリーズ ペインによるデータ表示の制御、用紙サイズ、拡大縮小、ヘッダーなどの複数の表示オプションを操作できるようにします。フッターと印刷領域。
+ Aspose.Cells for Python via .NET はページ設定を完全に制御し、ページ区切りのプレビュー、ズーム レベルの設定、ページの向きの設定、ペインの固定によるデータの表示の制御、用紙サイズ、拡大縮小、ヘッダーとフッター、印刷領域など、複数の表示オプションを操作できます。
     </p>
    </div>
    <!--<div class="col-lg-12">
@@ -509,10 +509,10 @@ wk.save("houtput.html", SaveFormat.HTML);</code></pre>
 </div> -->
    <div class="col-lg-12">
     <h2 class="h2title">
- Excelシートデータ管理
+ Excel シート データ管理
     </h2>
     <p>
-Aspose.Cells for Python via .NET API は、ワークシート データ管理に対する広範なサポートを提供します。実行時にワークシート内の任意のセルを簡単に操作したり、さまざまなデータ ソースからワークシートにデータをインポートしたりできます。
+Aspose.Cells for Python via .NET API は、ワークシート データ管理を幅広くサポートします。実行時にワークシート内の任意のセルを簡単に操作したり、さまざまなデータ ソースからワークシートにデータをインポートしたりできます。
     </p>
    </div>
    <div class="col-lg-12">
@@ -520,7 +520,7 @@ Aspose.Cells for Python via .NET API は、ワークシート データ管理に
 チャートのカスタマイズ
     </h2>
     <p>
-Aspose.Cells for Python via .NET はグラフ作成を完全にサポートします。この Python ライブラリを使用すると、標準チャートやカスタマイズされたチャートを簡単に追加したり、チャート データを動的に設定してチャートを更新したりできます。
+Aspose.Cells for Python via .NET はチャート作成を完全にサポートします。この Python ライブラリを使用すると、標準チャートやカスタマイズされたチャートを簡単に追加したり、チャート データを動的に設定してチャートを更新したりできます。
     </p>
    </div>
    <!--
@@ -554,7 +554,7 @@ Aspose.Cells for Python via .NET はグラフ作成を完全にサポートし�
 {{< blocks/products/pf/slr-element name="ブログ" href="https://blog.aspose.com/category/cells/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
-{{< blocks/products/pf/slr-tab tabTitle="なぜ Aspose.Cells for Python via .NET?" tabId="success-stories" >}}
+{{< blocks/products/pf/slr-tab tabTitle="なぜ Aspose.Cells for Python via .NET なのでしょうか?" tabId="success-stories" >}}
 {{< blocks/products/pf/slr-element name="顧客リスト" href="https://company.aspose.com/customers" >}}
 {{< blocks/products/pf/slr-element name="成功事例" href="https://company.aspose.com/customers/success-stories/aspose-cells" >}}
 {{< /blocks/products/pf/slr-tab >}}
@@ -563,7 +563,7 @@ Aspose.Cells for Python via .NET はグラフ作成を完全にサポートし�
 
 {{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://releases.aspose.com/cells/python-net/" pricingInformationLink="https://purchase.aspose.com/pricing/cells/python-net" >}}
 
-{{< blocks/products/pf/offers-section pfName="Aspose.Cells" description="Aspose.Cells は、以下に示す他の一般的な開発環境向けに個別の Excel API を提供します。" >}}
+{{< blocks/products/pf/offers-section pfName="Aspose.Cells" description="Aspose.Cells は、以下にリストされている他の一般的な開発環境向けに個別の Excel API を提供しています。" >}}
 
     {{< blocks/products/pf/offers-section-item link="/cells/net/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sdkName=".NET" >}}
     {{< blocks/products/pf/offers-section-item link="/cells/java/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sdkName="Java" >}}

@@ -1,5 +1,5 @@
 ---
-title: Pivot diagram beszúrása a Micorsoft Excel XLS fájlokban a C# számon keresztül
+title:  Pivot diagram beszúrása a Micorsoft Excel XLS fájlokban a C# számon keresztül
 weight: 7690
 description: C# Mintakód a kimutatásdiagram XLS-hez való hozzáadásához a .NET könyvtár használatával. Használja ezt a kódot a kimutatásdiagram beszúrásához a XLS fájlba VB.NET, Asp.NET vagy bármely .NET alapú alkalmazáson belül.
 keywords: [C# Aspose.Cells., c# add pivot chart in xls., c# insert pivot chart in xls., c# create pivot chart in xls., c# modify pivot chart in xls., access pivot chart in xls]
@@ -12,7 +12,7 @@ keywords: [C# Aspose.Cells., c# add pivot chart in xls., c# insert pivot chart i
 
 {{% blocks/products/pf/agp/content h2="" %}}
 
- Az MS Excel XLS fájl dinamikus előállítása a Pivot Chart segítségével a futó alkalmazáson belül egyszerű. A XLS számú dokumentumok Pivot Chart segítségével történő létrehozásához a semmiből, MS Office használata nélkül,[Aspose.Cells for .NET](https://products.aspose.com/cells/net) API, amely különböző funkciókat kínál a táblázatok létrehozásához, kezeléséhez és konvertálásához a .NET platformon. A fejlesztők egyszerűen javíthatják a kódot az adatok írásához, diagramok vagy grafikonok generálásához, valamint táblázatok készítéséhez.
+Az MS Excel XLS fájl dinamikus előállítása a Pivot Chart segítségével a futó alkalmazáson belül egyszerű. A XLS számú dokumentumok Pivot Chart segítségével történő létrehozásához a semmiből, MS Office használata nélkül,[Aspose.Cells for .NET](https://products.aspose.com/cells/net) API, amely különböző funkciókat kínál a táblázatok létrehozásához, kezeléséhez és konvertálásához a .NET platformon. A fejlesztők egyszerűen javíthatják a kódot az adatok írásához, diagramok vagy grafikonok generálásához, valamint táblázatok készítéséhez.
 {{% /blocks/products/pf/agp/content %}}
 
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
@@ -67,7 +67,7 @@ Egy Excel táblázatkezelő programkönyvtár, amely képes többplatformos alka
 {{< blocks/products/pf/agp/about-file-section >}}
 
 {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLS" readMoreLink="https://docs.fileformat.com/spreadsheet/xls/" >}}
-XLS kiterjesztésű fájlok Excel bináris fájlformátumot képviselnek. Az ilyen fájlokat a Microsoft Excel, valamint más hasonló táblázatkezelő programok, például az OpenOffice Calc vagy az Apple Numbers is létrehozhatják. Az Excel által mentett fájlokat munkafüzetnek nevezik, ahol minden munkafüzetnek egy vagy több munkalapja lehet. Az adatok tárolása és megjelenítése táblázatos formában, munkalapon történik a felhasználók számára, és átfoghatnak számértékeket, szöveges adatokat, képleteket, külső adatkapcsolatokat, képeket és diagramokat. Az olyan alkalmazások, mint a Microsoft Excel, lehetővé teszik a munkafüzet adatainak több különböző formátumba történő exportálását, beleértve a PDF, CSV, XLSX, TXT, HTML, XPS és sok más formátumot. A XLS fájlformátumot egy nyitottabb és strukturáltabb formátum, a XLSX váltotta fel a Microsoft Excel 2007 kiadásával. A legújabb verziók továbbra is támogatják a XLS fájlok létrehozását és olvasását, bár most a XLSX az első számú választás.
+A XLS kiterjesztésű fájlok Excel bináris fájlformátumot képviselnek. Az ilyen fájlokat a Microsoft Excel, valamint más hasonló táblázatkezelő programok, például az OpenOffice Calc vagy az Apple Numbers is létrehozhatják. Az Excel által mentett fájlokat munkafüzetnek nevezik, ahol minden munkafüzetnek egy vagy több munkalapja lehet. Az adatok tárolása és megjelenítése táblázatos formában, munkalapon történik a felhasználók számára, és átfoghatnak számértékeket, szöveges adatokat, képleteket, külső adatkapcsolatokat, képeket és diagramokat. Az olyan alkalmazások, mint a Microsoft Excel, lehetővé teszik a munkafüzet adatainak több különböző formátumba történő exportálását, beleértve a PDF, CSV, XLSX, TXT, HTML, XPS és sok más formátumot. A XLS fájlformátumot egy nyitottabb és strukturáltabb formátum, a XLSX váltotta fel a Microsoft Excel 2007 kiadásával. A legújabb verziók továbbra is támogatják a XLS fájlok létrehozását és olvasását, bár most a XLSX az első számú választás.
 
 {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
@@ -76,10 +76,10 @@ XLS kiterjesztésű fájlok Excel bináris fájlformátumot képviselnek. Az ily
 
 {{< blocks/products/pf/agp/other-supported-section title="Egyéb támogatott pivot diagram formátumok" subTitle="Más Microsoft Excel-formátumokat is létrehozhat a Pivot Chart segítségével, beleértve néhányat az alábbiakban." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/insert-pivot-chart-to-xls/" name="XLS" description="Microsoft Excel-táblázat (örökölt)" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/insert-pivot-chart-to-xlsx/" name="XLSX" description="Nyissa meg az XML-munkafüzetet" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/insert-pivot-chart-to-xlsb/" name="XLSB" description="Excel bináris munkafüzet" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/insert-pivot-chart-to-xlsm/" name="XLSM" description="Makró-kompatibilis táblázat" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/pivottable/insert-pivot-chart-to-xls/" name="XLS" description="Microsoft Excel-táblázat (örökölt)" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/pivottable/insert-pivot-chart-to-xlsx/" name="XLSX" description="Nyissa meg az XML-munkafüzetet" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/pivottable/insert-pivot-chart-to-xlsb/" name="XLSB" description="Excel bináris munkafüzet" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/pivottable/insert-pivot-chart-to-xlsm/" name="XLSM" description="Makró-kompatibilis táblázat" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

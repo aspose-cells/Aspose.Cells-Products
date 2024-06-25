@@ -54,7 +54,7 @@ keywords: [Java Aspose.Cells., Java Extract text and images from XLSX file., Jav
 
 {{% /blocks/products/pf/agp/text %}}
 
-+ Ladda XLSX dokument med Workbook-klassen.
+Ladda XLSX dokument med Workbook-klassen.
 + Välj det begärda arket med metoden getWorksheets().get.
 + Hämta alla celler i det valda arket med getCells().
 + Iterera över varje cell, hämta dess text .
@@ -70,7 +70,7 @@ keywords: [Java Aspose.Cells., Java Extract text and images from XLSX file., Jav
 
 {{% /blocks/products/pf/agp/text %}}
 
-- Microsoft Windows eller ett kompatibelt operativsystem med Java Runtime Environment för JSP/JSF Application och Desktop Applications.
+-  Microsoft Windows eller ett kompatibelt operativsystem med Java Runtime Environment för JSP/JSF Application och Desktop Applications.
 -  Hämta senaste versionen av Aspose.Cells for Java direkt från
  [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells)  .
 

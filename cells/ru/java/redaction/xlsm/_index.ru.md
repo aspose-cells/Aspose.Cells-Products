@@ -58,7 +58,7 @@ keywords: [Java Aspose.Cells., Java Search and replace text in XLSM file., Java 
 + Выберите соответствующий лист.
 + Определить и указать FindOptions.
 + Укажите диапазон, в котором вы хотите искать
-+ Пройдите по каждой ячейке и используйте getCells().find(...).
+Пройдите по каждой ячейке и используйте getCells().find(...).
 + Заменить значение.
 + Сохраните книгу.
 
@@ -72,7 +72,7 @@ keywords: [Java Aspose.Cells., Java Search and replace text in XLSM file., Java 
 
 {{% /blocks/products/pf/agp/text %}}
 
-- Microsoft Windows или совместимая ОС с Java Среда выполнения для приложений JSP/JSF и настольных приложений.
+-  Microsoft Windows или совместимая ОС с Java Среда выполнения для приложений JSP/JSF и настольных приложений.
 -  Загрузите последнюю версию Aspose.Cells for Java прямо с сайта
  [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells)  .
 

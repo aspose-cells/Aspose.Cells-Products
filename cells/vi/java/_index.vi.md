@@ -390,7 +390,7 @@ Tạo &amp; thao túng bình luận
  Lưu tệp Excel sang các định dạng khác nhau
     </h2>
     <p>
- Excel API cung cấp tính năng chuyển đổi bảng tính sang PDF, XPS, HTML và nhiều định dạng khác trong khi vẫn giữ được độ trung thực hình ảnh cao nhất. Quá trình chuyển đổi linh hoạt và đáng tin cậy khiến Aspose.Cells trở thành sự lựa chọn hoàn hảo cho các tổ chức chủ yếu trao đổi tệp ở định dạng tiêu chuẩn ngành.
+ Excel API cung cấp khả năng chuyển đổi bảng tính sang PDF, XPS, HTML và nhiều định dạng khác trong khi vẫn giữ được độ trung thực hình ảnh cao nhất. Quá trình chuyển đổi linh hoạt và đáng tin cậy khiến Aspose.Cells trở thành sự lựa chọn hoàn hảo cho các tổ chức chủ yếu trao đổi tệp ở định dạng tiêu chuẩn ngành.
     </p>
     <div class="codeblock" id="code">
      <h3>
@@ -414,7 +414,7 @@ wbk.save(dir + "output.html", SaveFormat.HTML);</code></pre>
 Định dạng bảng tính ở cấp độ chi tiết nhất
     </h2>
     <p>
- Thư viện cung cấp kiểu dáng bảng tính bao gồm nhưng không giới hạn ở định dạng trang tính ở cấp hàng, cột và ô, thêm quy tắc định dạng có điều kiện, xác định định dạng số và đặt phông chữ bằng các thuộc tính. Tương tự, API hỗ trợ thao tác và tạo tất cả các loại biểu đồ tùy chỉnh và tiêu chuẩn cũng như các đối tượng vẽ khác nhau như đối tượng OLE, hình ảnh, nhận xét, hình dạng và điều khiển cho các ô.
+ Thư viện cung cấp kiểu dáng bảng tính bao gồm nhưng không giới hạn ở định dạng bảng tính ở cấp hàng, cột và ô, thêm quy tắc định dạng có điều kiện, xác định định dạng số và đặt phông chữ bằng các thuộc tính. Tương tự, API hỗ trợ thao tác và tạo tất cả các loại biểu đồ tùy chỉnh và tiêu chuẩn cũng như các đối tượng vẽ khác nhau như đối tượng OLE, hình ảnh, nhận xét, hình dạng và điều khiển cho các ô.
     </p>
    </div>
    <!--<div class="col-lg-12">

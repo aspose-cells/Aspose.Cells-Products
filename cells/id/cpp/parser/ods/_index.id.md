@@ -1,7 +1,7 @@
 ---
 title: Ekstrak teks dan gambar dari dokumen ODS melalui C++
 weight: 9130
-description: Contoh kode C++ untuk mengekstrak teks dan gambar dari file ODS di C++ Runtime Environment untuk Windows 32 bit, Windows 64 bit dan Linux 64 bit.
+description: Contoh kode C++ untuk mengekstrak teks dan gambar dari file ODS di Runtime Environment C++ untuk Windows 32 bit, Windows 64 bit dan Linux 64 bit.
 keywords: [C++ Aspose.Cells., C++ Extract text and images from ODS file., C++ How to Parse ODS File., C++ Extract text from ODS file., Extract images from ODS file using C++]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -116,7 +116,7 @@ Aspose::Cells::Cleanup();
 
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="Dokumen Parsing yang Didukung Lainnya" subTitle="Dengan menggunakan C++, seseorang dapat dengan mudah mengurai format lain termasuk." >}}
+{{< blocks/products/pf/agp/other-supported-section title="Dokumen Parsing yang Didukung Lainnya" subTitle="Menggunakan C++, seseorang dapat dengan mudah mengurai format lain termasuk." >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/parser/xls/" name="XLS" description="Format Biner Excel" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/parser/xlsb/" name="XLSB" description="File Buku Kerja Excel Biner" >}}

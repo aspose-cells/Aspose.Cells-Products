@@ -54,7 +54,7 @@ keywords: [Java Aspose.Cells., Java Extract text and images from XLSB file., Jav
 
 {{% /blocks/products/pf/agp/text %}}
 
-+ Töltsön be XLSB dokumentumot a munkafüzet osztály használatával.
+Töltsön be XLSB dokumentumot a munkafüzet osztály használatával.
 + Válassza ki a szükséges lapot a getWorksheets().get metódussal.
 + A kiválasztott lap összes cellájának lekérése a getCells() segítségével.
 + Iteráljon minden cellát, és kapja meg a szövegét.
@@ -70,7 +70,7 @@ keywords: [Java Aspose.Cells., Java Extract text and images from XLSB file., Jav
 
 {{% /blocks/products/pf/agp/text %}}
 
-- Microsoft Windows vagy kompatibilis operációs rendszer Java futásidejű környezettel JSP/JSF alkalmazásokhoz és asztali alkalmazásokhoz.
+-  Microsoft Windows vagy kompatibilis operációs rendszer Java futásidejű környezettel JSP/JSF alkalmazásokhoz és asztali alkalmazásokhoz.
 -  Szerezze be a Aspose.Cells for Java legújabb verzióját közvetlenül innen
  [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells)  .
 

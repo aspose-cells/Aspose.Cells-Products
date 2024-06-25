@@ -12,7 +12,7 @@ description: API PHP Excel táblázat az írás olvasásához és konvertálás�
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
-Aspose.Cells for PHP via Java egy méretezhető és funkciókban gazdag Excel táblázatkezelő és -feldolgozás API. Az alkalmazások táblázatos formátum konvertálást, diagramkezelést és megjelenítést, képletek implementálását, munkalapok stílusát a legrészletesebb szintre és sokkal részletesebb API támogatja a XLS, XLSX, ODS, SpreadsheetML, CSV, lapot, Delimited, HTML és más format. A fejlesztők könnyedén hozzáadhatják az Excel-fájlok létrehozásának, szerkesztésének, konvertálásának és renderelésének lehetőségét PHP-alkalmazásaikban a JavaBridge használata közben.
+Aspose.Cells for PHP via Java egy méretezhető és funkciókban gazdag Excel táblázatkezelő és -feldolgozás API. Az alkalmazások táblázatos formátum konvertálást, diagramkezelést és megjelenítést, képletek implementálását, munkalapok stílusát a legrészletesebb szintre és sokkal részletesebb API támogatja a XLS, XLSX, ODS, SpreadsheetML, CSV, tabulátorral tagolt, HTML/0761113461, 36113481 és 381 egyéb formátumokat . A fejlesztők könnyedén hozzáadhatják az Excel-fájlok létrehozásának, szerkesztésének, konvertálásának és renderelésének lehetőségét PHP-alkalmazásaikban a JavaBridge használata közben.
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
@@ -344,7 +344,7 @@ Támogatás a CSV, tabulátorral tagolt &amp; HTML formátumban
     <em class="fa fa-align-center ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Létrehozása &amp; feltételes formázási szabályokat manipulálni
+ Létrehozás &amp; feltételes formázási szabályokat manipulálni
     </p>
    </div>
    <div class="col-lg-4">
@@ -358,7 +358,7 @@ Támogatás a CSV, tabulátorral tagolt &amp; HTML formátumban
     <em class="fa fa-sort-amount-desc ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Létrehozása &amp; manipulálni a megnevezett tartományokat
+ Létrehozás &amp; manipulálni a megnevezett tartományokat
     </p>
    </div>
    <div class="col-lg-4">
@@ -433,7 +433,7 @@ Aspose.Cells for PHP via Java saját renderelő motorral rendelkezik, amelyet ki
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
- Hatékony, robusztus és amp; Megbízható képletszámító motor
+ Hatékony, robusztus &amp; Megbízható képletszámító motor
     </h2>
     <p>
 Aspose.Cells for PHP via Java egy nagy teljesítményű Formula Calculation Engine-rel van felszerelve, amely szinte az összes szabványos és fejlett Microsoft Excel képletet és függvényt támogatja. Olvashatja, beállíthatja és kiszámíthatja a beépített vagy kiegészítő típusú, tömb- és R1C1 referenciastílus-képletek eredményeit.

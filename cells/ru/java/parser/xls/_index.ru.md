@@ -50,11 +50,11 @@ keywords: [Java Aspose.Cells., Java Extract text and images from XLS file., Java
 
 {{% blocks/products/pf/agp/text %}}
 
- Базовый анализ документа с помощью[Aspose.Cells for Java](https://products.aspose.com/cells/java)API можно создать с помощью всего нескольких строк кода. Анализируйте текст и изображения из файлов Excel Microsoft, XLS, XLSX, XLSM, XLSB и OpenDocument ODS.
+ Базовый анализ документа с помощью[Aspose.Cells for Java](https://products.aspose.com/cells/java)API можно создать с помощью всего нескольких строк кода. Анализируйте текст и изображения из файлов Microsoft Excel XLS, XLSX, XLSM, XLSB и OpenDocument ODS.
 
 {{% /blocks/products/pf/agp/text %}}
 
-+ Загрузите документ XLS, используя класс Workbook.
+Загрузите документ XLS, используя класс Workbook.
 + Выберите нужный лист с помощью метода getWorksheets().get.
 + Получить все ячейки выбранного листа с помощью getCells().
 + Перебрать каждую ячейку, получить ее текст.
@@ -70,7 +70,7 @@ keywords: [Java Aspose.Cells., Java Extract text and images from XLS file., Java
 
 {{% /blocks/products/pf/agp/text %}}
 
-- Microsoft Windows или совместимая ОС с Java Среда выполнения для приложений JSP/JSF и настольных приложений.
+-  Microsoft Windows или совместимая ОС с Java Среда выполнения для приложений JSP/JSF и настольных приложений.
 -  Загрузите последнюю версию Aspose.Cells for Java прямо с сайта
  [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells)  .
 

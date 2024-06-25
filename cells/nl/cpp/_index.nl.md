@@ -13,7 +13,7 @@ keywords: [C++ library execl Aspose.Cells Create repair parse merge convert JSON
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
-De bibliotheek Aspose.Cells C++ is een native bibliotheek C++ voor spreadsheetmanipulatie. Toepassingen kunnen functies uitvoeren zoals het maken, converteren en bewerken van de ingebouwde en aangepaste eigenschappen van spreadsheets, thema's, stijlen en opmaak, gegevensvalidatie, voorwaardelijke opmaak, formules lezen, schrijven en berekenen, rijen en kolommen groeperen en nog veel meer zonder afhankelijk te zijn van kantoorautomatisering of Microsoft Excel. De API ondersteunt de meest voorkomende spreadsheetformaten (zoals XLS, XLSX, XLSM en XLSB), evenals andere soorten bestandsformaten (zoals PDF, XPS) en de meest voorkomende afbeeldingsformaten (zoals JPEG, 0 761123481, BMP, TIFF , GIF, EMF, SVG).
+De bibliotheek Aspose.Cells C++ is een native bibliotheek C++ voor spreadsheetmanipulatie. Toepassingen kunnen functies uitvoeren zoals het maken, converteren en bewerken van de ingebouwde en aangepaste eigenschappen van spreadsheets, thema's, stijlen en opmaak, gegevensvalidatie, voorwaardelijke opmaak, formules lezen, schrijven en berekenen, rijen en kolommen groeperen en nog veel meer zonder afhankelijk te zijn van kantoorautomatisering of Microsoft Excel. De API ondersteunt de meest voorkomende spreadsheetformaten (zoals XLS, XLSX, XLSM en XLSB) en andere soorten bestandsformaten (zoals PDF, XPS) en de meest voorkomende afbeeldingsformaten (zoals JPEG, PNG, BMP, TIFF , GIF, EMF, SVG).
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
@@ -484,7 +484,7 @@ De bibliotheek Aspose.Cells C++ is een krachtige set API's die de mogelijkheid b
  Visualiseer gegevens met grafieken
     </h2>
     <p>
-De bibliotheek Aspose.Cells C++ biedt een uitgebreide set API's om op dynamische wijze alle standaard- en aangepaste diagramtypen te maken die door de Excel-toepassing worden ondersteund. De API biedt ook de mogelijkheid om de gegevensbron voor een bestaand diagram bij te werken en te vernieuwen.
+De bibliotheek Aspose.Cells C++ biedt een uitgebreide set API's om op dynamische wijze alle standaard- en aangepaste grafiektypen te maken die door de Excel-applicatie worden ondersteund. De API biedt ook de mogelijkheid om de gegevensbron voor een bestaand diagram bij te werken en te vernieuwen.
     </p>
    </div>
    <div class="col-lg-12">

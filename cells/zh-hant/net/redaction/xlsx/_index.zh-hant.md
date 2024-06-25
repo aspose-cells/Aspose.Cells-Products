@@ -39,7 +39,7 @@ PM> Install-Package Aspose.Cells
 +載入XLSX檔。
 + 選擇工作表。
 + 建立 FindOptions 物件。
-+ 設定搜尋選項
+設定搜尋選項
 循環遍歷每個單元格並使用 Find 方法。
 儲存工作簿。
 
@@ -53,7 +53,7 @@ PM> Install-Package Aspose.Cells
 
 {{% /blocks/products/pf/agp/text %}}
 
--  Microsoft Windows 或具有 .NET Framework、.NET Core、Mono 或 Xamarin 平台的相容作業系統
+- Microsoft Windows 或具有 .NET Framework、.NET Core、Mono 或 Xamarin 平台的相容作業系統
 - 開發環境如Microsoft Visual Studio
 - 在專案中新增對 Aspose.Cells for .NET DLL 的引用 - 使用上面的下載按鈕從 NuGet 安裝
 
@@ -110,14 +110,14 @@ wb.Save("e:\test2\output.xlsx");
 
     {{< blocks/products/pf/agp/about-file-section >}}
 
-        {{< blocks/products/pf/agp/demobox sectionTitle="線上 XLSX 密文現場演示" sectionDescription="立即透過造訪我們的網站搜尋並取代 XLSX 文件中的內容、評論或元資料中的文本[現場示範網站](https://products.aspose.app/cells/redaction)。現場演示有以下好處" >}}
+        {{< blocks/products/pf/agp/demobox sectionTitle="線上 XLSX 編輯現場演示" sectionDescription="立即透過造訪我們的網站搜尋並取代 XLSX 文件中的內容、評論或元資料中的文本[現場示範網站](https://products.aspose.app/cells/redaction)。現場演示有以下好處" >}}
             {{< blocks/products/pf/agp/democard icon="fa-cogs" text="無需下載Aspose API。" >}}
             {{< blocks/products/pf/agp/democard icon="fa-edit" text="無需編寫任何程式碼。" >}}
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text="只需上傳您的 XLSX 文件即可。" >}}
             {{< blocks/products/pf/agp/democard icon="fa-download" text="它將立即被編輯。" >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLSX" readMoreLink="https://docs.fileformat.com/spreadsheet/xlsx/" >}}
-XLSX 是 Microsoft Excel 文件的眾所周知的格式，由 Microsoft 在 Microsoft Office 2007 版本中引入。基於根據 OOXML 標準 ECMA-376 第 2 部分中概述的開放性打包約定組織的結構，新套件為許多。只需解壓縮 .xlsx 檔案即可檢查底層結構和檔案。
+XLSX 是 Microsoft Excel 文件的眾所周知的格式，由 Microsoft 在 Microsoft Office 2007 版本中引入。 。只需解壓縮 .xlsx 檔案即可檢查底層結構和檔案。
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 

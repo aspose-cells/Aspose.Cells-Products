@@ -1,7 +1,7 @@
 ---
 title: بحث واستبدال النص في مستند XLS عبر C++
 weight: 380
-description: C++ رمز المثال لتنقيح المعلومات الحساسة في ملف XLS على C++ بيئة التشغيل لـ Windows 32 بت، Windows 64 بت وLinux 64 بت.
+description: C++ رمز المثال لتنقيح المعلومات الحساسة في ملف XLS على C++ بيئة التشغيل لـ Windows 32 بت وWindows 64 بت ولينكس 64 بت.
 keywords: [C++ Aspose.Cells., C++ Search and replace text in XLS file., C++ redact XLS file., C++ edit XLS file., C++ XLS file redaction., C++ Search and replace string in XLS file]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

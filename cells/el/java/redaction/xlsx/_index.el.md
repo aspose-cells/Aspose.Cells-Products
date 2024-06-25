@@ -58,7 +58,7 @@ keywords: [Java Aspose.Cells., Java Search and replace text in XLSX file., Java 
 + Επιλέξτε το σχετικό φύλλο.
 + Ορισμός και Specity FindOptions.
 + Καθορίστε το εύρος στο οποίο θέλετε να πραγματοποιήσετε αναζήτηση
-+ Κάντε βρόχο σε κάθε κελί και χρησιμοποιήστε το getCells().find(...).
+Κάντε βρόχο σε κάθε κελί και χρησιμοποιήστε το getCells().find(...).
 + Αντικαταστήστε την τιμή.
 + Αποθηκεύστε το βιβλίο εργασίας.
 
@@ -72,7 +72,7 @@ keywords: [Java Aspose.Cells., Java Search and replace text in XLSX file., Java 
 
 {{% /blocks/products/pf/agp/text %}}
 
-- Microsoft Windows ή συμβατό λειτουργικό σύστημα με Java Runtime Environment για εφαρμογές JSP/JSF και εφαρμογές επιφάνειας εργασίας.
+-  Microsoft Windows ή συμβατό λειτουργικό σύστημα με Java Runtime Environment για εφαρμογές JSP/JSF και εφαρμογές επιφάνειας εργασίας.
 -  Λάβετε την τελευταία έκδοση του Aspose.Cells for Java απευθείας από
  [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells)  .
 

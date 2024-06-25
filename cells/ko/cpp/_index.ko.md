@@ -13,7 +13,7 @@ keywords: [C++ library execl Aspose.Cells Create repair parse merge convert JSON
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
-Aspose.Cells C++ 라이브러리는 스프레드시트 조작을 위한 기본 C++ 라이브러리입니다. 응용 프로그램은 Office 자동화에 의존하지 않고도 스프레드시트의 기본 제공 및 사용자 정의 속성, 테마, 스타일 및 서식 지정, 데이터 유효성 검사, 조건부 서식 지정, 수식 읽기, 쓰기 및 계산, 행 및 열 그룹화 등의 생성, 변환 및 편집과 같은 기능을 수행할 수 있습니다. 또는 Microsoft 엑셀. API은 가장 일반적인 스프레드시트 형식(예: XLS, XLSX, XLSM 및 XLSB)뿐만 아니라 기타 유형의 파일 형식(예: PDF, XPS) 및 가장 일반적인 이미지 형식(예: JPEG, 0761)을 지원합니다. 123481, BMP, TIFF , GIF, EMF, SVG).
+Aspose.Cells C++ 라이브러리는 스프레드시트 조작을 위한 기본 C++ 라이브러리입니다. 응용 프로그램은 Office 자동화에 의존하지 않고도 스프레드시트의 기본 제공 및 사용자 정의 속성, 테마, 스타일 및 서식 지정, 데이터 유효성 검사, 조건부 서식 지정, 수식 읽기, 쓰기 및 계산, 행 및 열 그룹화 등의 생성, 변환 및 편집과 같은 기능을 수행할 수 있습니다. 또는 Microsoft 엑셀. API은 가장 일반적인 스프레드시트 형식(예: XLS, XLSX, XLSM 및 XLSB)과 기타 유형의 파일 형식(예: PDF, XPS) 및 가장 일반적인 이미지 형식(예: JPEG, 076)을 지원합니다. 1123481, BMP, TIFF , GIF, EMF, SVG).
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}

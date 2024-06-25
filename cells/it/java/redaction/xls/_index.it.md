@@ -58,7 +58,7 @@ keywords: [Java Aspose.Cells., Java Search and replace text in XLS file., Java r
 + Seleziona il foglio interessato.
 + Definisci e specifica le opzioni di ricerca.
 + Specifica l'intervallo in cui desideri cercare
-+ Passa attraverso ogni cella e usa getCells().find(...).
+Passa attraverso ogni cella e usa getCells().find(...).
 + Sostituisci il valore.
 + Salva la cartella di lavoro.
 
@@ -72,7 +72,7 @@ keywords: [Java Aspose.Cells., Java Search and replace text in XLS file., Java r
 
 {{% /blocks/products/pf/agp/text %}}
 
-- Microsoft Windows o un sistema operativo compatibile con Java Ambiente runtime per applicazioni JSP/JSF e applicazioni desktop.
+-  Microsoft Windows o un sistema operativo compatibile con Java Ambiente runtime per applicazioni JSP/JSF e applicazioni desktop.
 -  Ottieni l'ultima versione di Aspose.Cells for Java direttamente da
  [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells)  .
 

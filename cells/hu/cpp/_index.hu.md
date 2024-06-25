@@ -13,7 +13,7 @@ keywords: [C++ library execl Aspose.Cells Create repair parse merge convert JSON
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
- Aspose.Cells C++ könyvtár egy natív C++ könyvtár a táblázatkezeléshez. Az alkalmazások olyan funkciókat hajthatnak végre, mint például a táblázatok beépített és egyéni tulajdonságainak létrehozása, konvertálása és szerkesztése, témák, stílusok és formázások, adatellenőrzés, feltételes formázás, képletek olvasása, írása és kiszámítása, sorok és oszlopok csoportosítása és még sok más anélkül, hogy az Office Automation szolgáltatásra támaszkodna. vagy Microsoft Excel. A API támogatja a legelterjedtebb táblázatformátumokat (például XLS, XLSX, XLSM és XLSB), valamint más típusú fájlformátumokat (például PDF, 30193481, 30193481 és 3011 legelterjedtebb képformátum) 3481, PNG, BMP, TIFF , GIF, EMF, SVG).
+ Aspose.Cells C++ könyvtár egy natív C++ könyvtár a táblázatkezeléshez. Az alkalmazások olyan funkciókat hajthatnak végre, mint például a táblázatok beépített és egyéni tulajdonságainak létrehozása, konvertálása és szerkesztése, témák, stílusok és formázások, adatellenőrzés, feltételes formázás, képletek olvasása, írása és kiszámítása, sorok és oszlopok csoportosítása és még sok más anélkül, hogy az Office Automation szolgáltatásra támaszkodna. vagy Microsoft Excel. A API támogatja a legáltalánosabb táblázatformátumokat (például XLS, XLSX, XLSM és XLSB), valamint más típusú fájlformátumokat (például PDF, 30193481 és 348110, a leggyakoribb képformátum). 13481, PNG, BMP, TIFF , GIF, EMF, SVG).
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
@@ -300,7 +300,7 @@ Csak kimenet
     <em class="fa fa-bar-chart ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Létrehozás &amp; diagramok manipulálása
+ Létrehozás &amp; diagramokat manipulálni
     </p>
    </div>
    <div class="col-lg-4">
@@ -342,7 +342,7 @@ Csak kimenet
     <em class="fa fa-magic ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Módosítsa a munkafüzet megjelenését témák segítségével
+ Módosítsa a munkafüzet megjelenését témák használatával
     </p>
    </div>
    <div class="col-lg-4">
@@ -370,7 +370,7 @@ Csak kimenet
     <em class="fa fa-list-ol ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Előzmények nyomon követése &amp; Eltartottak
+ Trace Precedents &amp; Eltartottak
     </p>
    </div>
    <div class="col-lg-4">
@@ -508,7 +508,7 @@ Hozzon létre feltételes formázási szabályokat
  A táblázatok pontos konvertálása PDF-re
     </h2>
     <p>
- A Aspose.Cells C++ könyvtár lehetővé teszi a táblázatok konvertálását PDF formátumba, miközben megőrzi az eredeti dokumentum minőségét. Ez a tény teszi a Aspose.Cells C++ könyvtárat tökéletes választássá azoknak a szervezeteknek, amelyek szabványos, PDF-es formátumú dokumentumokat kívánnak cserélni.
+ A Aspose.Cells C++ könyvtár lehetővé teszi a táblázatok konvertálását PDF formátumba, miközben megőrzi az eredeti dokumentum minőségét. Ez a tény teszi a Aspose.Cells C++ könyvtárat tökéletes választássá azoknak a szervezeteknek, amelyek szabványos, PDF-es formátumú dokumentumokat cserélnek.
     </p>
    </div>
    <!-- 

@@ -5,7 +5,7 @@ description: Python-Bibliothek zum Erstellen, Reparieren, Zusammenführen, Analy
 keywords: [Python Aspose.Cells Create repair merge convert JSON Excel XML PDF HTML TSV SQL ODS CSV TSV PNG JPEG and more formats]
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="Python Excel-Tabellen-Parsing-APIs" h2="Erstellen, lesen, schreiben oder bearbeiten Sie Tabellenkalkulationen und exportieren Sie Excel-Dateien in mehrere Formate innerhalb von Python-Anwendungen." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/cells/headers/aspose_cells-for-python-via-net.svg" pfName="Aspose.Cells" subTitlepfName="for Python via .NET" downloadUrl="https://releases.aspose.com/cells/python-net/" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="Python APIs zum Parsen von Excel-Tabellen" h2="Erstellen, lesen, schreiben oder bearbeiten Sie Tabellen und exportieren Sie Excel-Dateien in mehrere Formate innerhalb von Python-Anwendungen." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/cells/headers/aspose_cells-for-python-via-net.svg" pfName="Aspose.Cells" subTitlepfName="for Python via .NET" downloadUrl="https://releases.aspose.com/cells/python-net/" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells" subTitlepfName="for Python via .NET" >}}
 
@@ -13,7 +13,7 @@ keywords: [Python Aspose.Cells Create repair merge convert JSON Excel XML PDF HT
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
- Aspose.Cells for Python über .Net ist eine schnelle und zuverlässige API für Tabellenkalkulationsaufgaben. Entwickler können einfache oder komplexe Tabellenkalkulationen erstellen, Informationen aus Excel-Dateien bearbeiten und extrahieren. API liest mehrere Excel-Formate und kann Arbeitsblätter in XPS, PDF, MHTML, HTML, einfachen Text, Bilder und mehr rendern. Es ist die beste Lösung, um Excel-Berichte mithilfe von Python zu automatisieren.
+Aspose.Cells for Python über .Net ist eine schnelle und zuverlässige API für Tabellenkalkulationsaufgaben. Entwickler können einfache oder komplexe Tabellenkalkulationen erstellen, Excel-Dateien bearbeiten und Informationen aus ihnen extrahieren. API liest mehrere Excel-Formate und kann Arbeitsblätter in XPS, PDF, MHTML, HTML, Klartext, Bilder und mehr rendern. Es ist die beste Lösung, um Excel-Berichte mit Python zu automatisieren.
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
@@ -28,14 +28,14 @@ keywords: [Python Aspose.Cells Create repair merge convert JSON Excel XML PDF HT
    <header>
     <i class="fa fa-refresh">
     </i>
- Importieren &amp; Export
+ Import und Export
    </header>
    <ul>
     <li>
  Arrays
     </li>
     <li>
- ResultSet
+ Ergebnismenge
     </li>
     <li>
  Sammlungen
@@ -48,13 +48,13 @@ keywords: [Python Aspose.Cells Create repair merge convert JSON Excel XML PDF HT
    </header>
    <ul>
     <li>
- Vom Diagramm zum Bild
+ Diagramm zu Bild
     </li>
     <li>
- Arbeitsblatt zum Bild
+ Arbeitsblatt zu Bild
     </li>
     <li>
- Tabelle an PDF
+ Tabellenkalkulation an PDF
     </li>
    </ul>
   </div>
@@ -73,13 +73,13 @@ keywords: [Python Aspose.Cells Create repair merge convert JSON Excel XML PDF HT
  Formel anwenden
     </li>
     <li>
- Erstellen Sie Diagramme
+ Erstellen von Diagrammen
     </li>
     <li>
 Zusammenfassen
     </li>
     <li>
- Intelligente Marker
+ Intelligente Markierungen
     </li>
    </ul>
   </div>
@@ -105,7 +105,7 @@ Zusammenfassen
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Plattformunabhängigkeit" description="Aspose.Cells for Python via .NET ist verfügbar für." >}}
+{{< blocks/products/pf/carousel-item h3="Plattformunabhängigkeit" description="Aspose.Cells for Python via .NET steht zur Verfügung." >}}
 <div class="diagram1 d1-python">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -183,7 +183,7 @@ Zusammenfassen
      <b>
       Numbers:
      </b>
- App-Dokumente der iWork-Office-Suite Numbers von Apple
+ App-Dokumente für Apples iWork Office-Suite Numbers
     </li>
     <li>
      <b>
@@ -259,7 +259,7 @@ Nur Ausgabe
  <div class="row">
   <div class="container">
    <h2 class="pr-ft">
- Erweiterte Python Excel API Funktionen
+ Erweitert Python Excel API Funktionen
    </h2>
    <p>
    </p>
@@ -267,63 +267,63 @@ Nur Ausgabe
     <em class="fa fa-file-text-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Lesen Sie Excel-Tabellen
+ Lesen von Excel-Tabellen
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-share ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Rendern Sie Tabellen in PDF, EMF und Bilder
+ Rendern Sie Tabellenkalkulationen in PDF, EMF und Bilder
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-th ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Passen Sie Arbeitsblätter in Arbeitsmappen an
+ Anpassen von Arbeitsblättern innerhalb von Arbeitsmappen
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-lock ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Arbeitsblätter schützen/Schutz aufheben
+ Arbeitsblätter schützen / Schutz aufheben
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-bar-chart ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Fügen Sie Bilder hinzu und erstellen Sie Diagramme
+ Bilder hinzufügen und Diagramme erstellen
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-table ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Erstellen Sie Pivot-Tabellen und Pivot-Diagramme
+ Erstellen von Pivot-Tabellen und Pivot-Diagrammen
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-comment ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Fügen Sie Kommentare auf Zellenebene hinzu und bearbeiten Sie sie
+ Hinzufügen und Bearbeiten von Kommentaren auf Zellenebene
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-search ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Daten suchen und ersetzen
+ Suchen und Ersetzen von Daten
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-exchange ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Zellen teilen und zusammenführen
+ Teilen und Zusammenführen von Zellen
     </p>
    </div>
    <div class="col-lg-4">
@@ -351,21 +351,21 @@ Nur Ausgabe
     <em class="fa fa-cogs ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Konfigurieren Sie die Seiteneinrichtung
+ Konfigurieren des Seiten-Setups
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-filter ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Passen Sie Seitenausrichtung, Skalierung und Papiergröße an
+ Seitenausrichtung, Skalierung und Papiergröße anpassen
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-edit ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Lesen &amp; Bedingte Formatierung schreiben
+ Bedingte Formatierung lesen und schreiben
     </p>
    </div>
    <!--
@@ -440,11 +440,11 @@ Nur Ausgabe
  Konvertierung mehrerer Formate
     </h2>
     <p>
-Python Excel-Bibliothek ermöglicht die Konvertierung von Excel-Dateien in PDF, XPS &amp; HTML Formate. Die zuverlässige Konvertierung von API macht es zu einer perfekten Lösung für Unternehmen, die Dateien in branchenüblichen Formaten austauschen müssen.
+Die Excel-Bibliothek Python ermöglicht die Konvertierung von Excel-Dateien in die Formate PDF, XPS und HTML. Die zuverlässige Konvertierung von API macht es zu einer perfekten Lösung für Unternehmen, die Dateien in Industriestandardformaten austauschen müssen.
     </p>
     <div class="codeblock" id="code">
      <h3>
- Speichern Sie Tabellen in verschiedenen Formaten
+ Tabellenkalkulation in verschiedenen Formaten speichern
      </h3>
      <pre><code class="net">
 
@@ -489,7 +489,7 @@ wk.save("houtput.html", SaveFormat.HTML);</code></pre>
  Flexible Anzeigeoptionen
     </h2>
     <p>
- Aspose.Cells for Python via .NET bietet vollständige Kontrolle über die Seiteneinrichtung und ermöglicht die Manipulation mehrerer Anzeigeoptionen wie Seitenumbrüche in der Vorschau, Festlegen der Zoomstufe, Festlegen der Seitenausrichtung, Steuern der Datensichtbarkeit mit Standbildern, Papiergröße, Skalierung, Kopfzeilen und Seitenausrichtung. Fußzeilen und Druckbereich.
+ Aspose.Cells for Python via .NET bietet vollständige Kontrolle über die Seiteneinrichtung und ermöglicht die Bearbeitung mehrerer Anzeigeoptionen wie Seitenumbrüche in der Vorschau, Festlegen der Zoomstufe, Festlegen der Seitenausrichtung, Steuern der Datensichtbarkeit mit fixierten Bereichen, Papiergröße, Skalierung, Kopf- und Fußzeilen und Druckbereich.
     </p>
    </div>
    <!--<div class="col-lg-12">
@@ -512,7 +512,7 @@ wk.save("houtput.html", SaveFormat.HTML);</code></pre>
  Excel-Tabellen-Datenverwaltung
     </h2>
     <p>
- Aspose.Cells for Python via .NET API bietet umfassende Unterstützung für die Datenverwaltung in Arbeitsblättern. Man kann jede Zelle im Arbeitsblatt zur Laufzeit einfach manipulieren oder Daten aus verschiedenen Datenquellen in die Arbeitsblätter importieren.
+ Aspose.Cells for Python via .NET API bietet umfassende Unterstützung für die Verwaltung von Arbeitsblattdaten. Man kann jede Zelle im Arbeitsblatt zur Laufzeit problemlos bearbeiten oder Daten aus verschiedenen Datenquellen in die Arbeitsblätter importieren.
     </p>
    </div>
    <div class="col-lg-12">
@@ -520,7 +520,7 @@ wk.save("houtput.html", SaveFormat.HTML);</code></pre>
  Diagrammanpassung
     </h2>
     <p>
-Aspose.Cells for Python via .NET bietet volle Unterstützung für Diagramme. Mit dieser Python-Bibliothek können Sie problemlos Standard- und benutzerdefinierte Diagramme hinzufügen oder Diagrammdaten dynamisch festlegen, um das Diagramm zu aktualisieren.
+Aspose.Cells for Python via .NET bietet vollständige Unterstützung für die Diagrammerstellung. Man kann problemlos Standard- und benutzerdefinierte Diagramme hinzufügen oder Diagrammdaten dynamisch festlegen, um das Diagramm über diese Python-Bibliothek zu aktualisieren.
     </p>
    </div>
    <!--
@@ -545,13 +545,13 @@ Aspose.Cells for Python via .NET bietet volle Unterstützung für Diagramme. Mit
 {{< blocks/products/pf/i18n/support-learning-resources >}}
 {{< blocks/products/pf/slr-tab tabTitle="Lernmittel" tabId="resources" >}}
 {{< blocks/products/pf/slr-element name="Dokumentation" href="https://docs.aspose.com/cells/python-net/" >}}
-{{< blocks/products/pf/slr-element name="Tutorial-Videos" href="https://www.youtube.com/user/asposevideo" >}}
+{{< blocks/products/pf/slr-element name="Anleitungsvideos" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="Produkt Support" tabId="support" >}}
 {{< blocks/products/pf/slr-element name="Kostenloser Support" href="https://forum.aspose.com/c/cells/9" >}}
-{{< blocks/products/pf/slr-element name="Bezahlter Support" href="https://helpdesk.aspose.com/" >}}
-{{< blocks/products/pf/slr-element name="Blog" href="https://blog.aspose.com/category/cells/" >}}
+{{< blocks/products/pf/slr-element name="Kostenpflichtiger Support" href="https://helpdesk.aspose.com/" >}}
+{{< blocks/products/pf/slr-element name="Der Blog" href="https://blog.aspose.com/category/cells/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="Warum Aspose.Cells for Python via .NET?" tabId="success-stories" >}}
@@ -563,7 +563,7 @@ Aspose.Cells for Python via .NET bietet volle Unterstützung für Diagramme. Mit
 
 {{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://releases.aspose.com/cells/python-net/" pricingInformationLink="https://purchase.aspose.com/pricing/cells/python-net" >}}
 
-{{< blocks/products/pf/offers-section pfName="Aspose.Cells" description="Aspose.Cells bietet individuelle Excel-APIs für andere gängige Entwicklungsumgebungen, wie unten aufgeführt:" >}}
+{{< blocks/products/pf/offers-section pfName="Aspose.Cells" description="Aspose.Cells bietet einzelne Excel-APIs für andere beliebte Entwicklungsumgebungen, wie unten aufgeführt:" >}}
 
     {{< blocks/products/pf/offers-section-item link="/cells/net/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sdkName=".NET" >}}
     {{< blocks/products/pf/offers-section-item link="/cells/java/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sdkName="Java" >}}

@@ -1,5 +1,5 @@
 ---
-title: Pivot diagram beszúrása a Micorsoft Excel XLSM fájlokban a C# számon keresztül
+title:  Pivot diagram beszúrása a Micorsoft Excel XLSM fájlokban a C# számon keresztül
 weight: 7690
 description: C# Mintakód a kimutatásdiagram XLSM-hez való hozzáadásához a .NET könyvtár használatával. Használja ezt a kódot a kimutatásdiagram beszúrásához a XLSM fájlba VB.NET, Asp.NET vagy bármely .NET alapú alkalmazáson belül.
 keywords: [C# Aspose.Cells., c# add pivot chart in xlsm., c# insert pivot chart in xlsm., c# create pivot chart in xlsm., c# modify pivot chart in xlsm., access pivot chart in xlsm]
@@ -12,7 +12,7 @@ keywords: [C# Aspose.Cells., c# add pivot chart in xlsm., c# insert pivot chart 
 
 {{% blocks/products/pf/agp/content h2="" %}}
 
- Az MS Excel XLSM fájl dinamikus előállítása a Pivot Chart segítségével a futó alkalmazáson belül egyszerű. A XLSM számú dokumentumok Pivot Chart segítségével történő létrehozásához a semmiből, MS Office használata nélkül,[Aspose.Cells for .NET](https://products.aspose.com/cells/net) API, amely különböző funkciókat kínál a táblázatok létrehozásához, kezeléséhez és konvertálásához a .NET platformon. A fejlesztők egyszerűen javíthatják a kódot az adatok írásához, diagramok vagy grafikonok generálásához, valamint táblázatok készítéséhez.
+Az MS Excel XLSM fájl dinamikus előállítása a Pivot Chart segítségével a futó alkalmazáson belül egyszerű. A XLSM számú dokumentumok Pivot Chart segítségével történő létrehozásához a semmiből, MS Office használata nélkül,[Aspose.Cells for .NET](https://products.aspose.com/cells/net) API, amely különböző funkciókat kínál a táblázatok létrehozásához, kezeléséhez és konvertálásához a .NET platformon. A fejlesztők egyszerűen javíthatják a kódot az adatok írásához, diagramok vagy grafikonok generálásához, valamint táblázatok készítéséhez.
 {{% /blocks/products/pf/agp/content %}}
 
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
@@ -78,10 +78,10 @@ A XLSM kiterjesztésű fájlok olyan táblázatkezelő fájlok, amelyek támogat
 
 {{< blocks/products/pf/agp/other-supported-section title="Egyéb támogatott pivot diagram formátumok" subTitle="Más Microsoft Excel-formátumokat is létrehozhat a Pivot Chart segítségével, beleértve néhányat az alábbiakban." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/insert-pivot-chart-to-xls/" name="XLS" description="Microsoft Excel-táblázat (örökölt)" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/insert-pivot-chart-to-xlsx/" name="XLSX" description="Nyissa meg az XML-munkafüzetet" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/insert-pivot-chart-to-xlsb/" name="XLSB" description="Excel bináris munkafüzet" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/insert-pivot-chart-to-xlsm/" name="XLSM" description="Makró-kompatibilis táblázat" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/pivottable/insert-pivot-chart-to-xls/" name="XLS" description="Microsoft Excel-táblázat (örökölt)" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/pivottable/insert-pivot-chart-to-xlsx/" name="XLSX" description="Nyissa meg az XML-munkafüzetet" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/pivottable/insert-pivot-chart-to-xlsb/" name="XLSB" description="Excel bináris munkafüzet" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/pivottable/insert-pivot-chart-to-xlsm/" name="XLSM" description="Makró-kompatibilis táblázat" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

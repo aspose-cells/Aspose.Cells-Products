@@ -57,7 +57,7 @@ Aspose.Cells for Node.js via Java é um API escalonável e rico em recursos para
  Gráficos
     </li>
     <li>
- Cálculo de Fórmula
+ Cálculo de fórmula
     </li>
     <li>
  Marcadores inteligentes
@@ -235,7 +235,7 @@ Somente saída
      <b>
  Outros:
      </b>
- MARKDOWN,SQL,XTHML
+ MARKDOWN, SQL, XTHML
     </li>
    </ul>
   </div>

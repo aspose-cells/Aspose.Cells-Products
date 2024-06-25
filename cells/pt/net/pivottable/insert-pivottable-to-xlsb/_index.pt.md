@@ -12,7 +12,7 @@ keywords: [C# Aspose.Cells., c# add PivotTable in xlsb., c# insert PivotTable in
 
 {{% blocks/products/pf/agp/content h2="" %}}
 
- É fácil gerar o arquivo MS Excel XLSB com tabela dinâmica dinamicamente no aplicativo em execução. Para criar documentos XLSB com Tabela Dinâmica do zero sem precisar do MS Office, usaremos[Aspose.Cells for .NET](https://products.aspose.com/cells/net) API que oferece diversas funcionalidades para criação, manipulação e conversão de planilhas utilizando a plataforma .NET. Os desenvolvedores podem aprimorar facilmente o código para escrever dados, gerar tabelas ou gráficos, bem como criar tabelas em planilhas.
+ É fácil gerar o arquivo MS Excel XLSB com tabela dinâmica dinamicamente no aplicativo em execução. Para criar documentos XLSB com Tabela Dinâmica do zero sem precisar do MS Office, usaremos[Aspose.Cells for .NET](https://products.aspose.com/cells/net) API que oferece diversas funcionalidades para criação, manipulação e conversão de planilhas utilizando a plataforma .NET. Os desenvolvedores podem facilmente aprimorar o código para escrever dados, gerar tabelas ou gráficos, bem como criar tabelas em planilhas.
 {{% /blocks/products/pf/agp/content %}}
 
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
@@ -68,7 +68,7 @@ Uma biblioteca de programação de planilhas Excel capaz de construir aplicativo
 
 {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLSB" readMoreLink="https://docs.fileformat.com/spreadsheet/xlsb/" >}}
 
-O formato de arquivo XLSB especifica o formato de arquivo binário do Excel, que é uma coleção de registros e estruturas que especificam o conteúdo da pasta de trabalho do Excel. O conteúdo pode incluir tabelas de números não estruturadas ou semiestruturadas, texto ou números e texto, fórmulas, conexões de dados externos, gráficos e imagens. Ao contrário de XLSX (que é baseado no formato de arquivo Open XML), XLSB representa um arquivo binário da pasta de trabalho do Excel. Os arquivos XLSB podem ser lidos e gravados mais rapidamente, o que os torna úteis para trabalhar com arquivos grandes. XLSB raramente é usado para armazenar pastas de trabalho, pois XLSX (e anteriormente XLS) são os formatos de arquivo mais comuns selecionados pelo usuário para salvar pastas de trabalho. Ele pode ser aberto pelo Microsoft Office 2007 e superior.
+formato de arquivo XLSB especifica o formato de arquivo binário do Excel, que é uma coleção de registros e estruturas que especificam o conteúdo da pasta de trabalho do Excel. O conteúdo pode incluir tabelas de números não estruturadas ou semiestruturadas, texto ou números e texto, fórmulas, conexões de dados externos, gráficos e imagens. Ao contrário de XLSX (que é baseado no formato de arquivo Open XML), XLSB representa um arquivo binário da pasta de trabalho do Excel. Os arquivos XLSB podem ser lidos e gravados com mais rapidez, o que os torna úteis para trabalhar com arquivos grandes. XLSB raramente é usado para armazenar pastas de trabalho, pois XLSX (e anteriormente XLS) são os formatos de arquivo mais comuns selecionados pelo usuário para salvar pastas de trabalho. Ele pode ser aberto pelo Microsoft Office 2007 e superior.
 
 {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
@@ -77,10 +77,10 @@ O formato de arquivo XLSB especifica o formato de arquivo binário do Excel, que
 
 {{< blocks/products/pf/agp/other-supported-section title="Outros formatos de tabela dinâmica suportados" subTitle="Você também pode criar outros formatos Excel Microsoft com Tabela Dinâmica, incluindo alguns listados abaixo." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/insert-pivottable-to-xls/" name="XLS" description="Microsoft Planilha Excel (Legado)" >}} 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/insert-pivottable-to-xlsx/" name="XLSX" description="Abra a pasta de trabalho XML" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/insert-pivottable-to-xlsb/" name="XLSB" description="Pasta de trabalho binária do Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/insert-pivottable-to-xlsm/" name="XLSM" description="Planilha habilitada para macro" >}} 
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/pivottable/insert-pivottable-to-xls/" name="XLS" description="Microsoft Planilha Excel (Legado)" >}} 
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/pivottable/insert-pivottable-to-xlsx/" name="XLSX" description="Abra a pasta de trabalho XML" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/pivottable/insert-pivottable-to-xlsb/" name="XLSB" description="Pasta de trabalho binária do Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/pivottable/insert-pivottable-to-xlsm/" name="XLSM" description="Planilha habilitada para macro" >}} 
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

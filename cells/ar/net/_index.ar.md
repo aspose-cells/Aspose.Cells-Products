@@ -1,5 +1,5 @@
 ---
-title: .NET اكسل API | تنسيقات جداول البيانات العملية via .NET الأساسية
+title:  .NET اكسل API | تنسيقات جداول البيانات العملية via .NET الأساسية
 weight: 2030
 description: C# ASP.NET مكتبة VB.NET لإنشاء وإصلاح ودمج وتحليل وتحويل ملفات Excel. تحويل Excel إلى PDF، JSON، XML، TSV، HTML وهكذا.
 keywords: [Aspose.Cells C# Create repair parse merge convert JSON Excel XML PDF HTML TSV SQL TXT PNG JPEG and more formats]
@@ -13,11 +13,11 @@ keywords: [Aspose.Cells C# Create repair parse merge convert JSON Excel XML PDF 
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
- Aspose.Cells for .NET هي برمجة جداول بيانات إكسل API لتسريع إدارة جداول البيانات ومهام المعالجة. يدعم API إنشاء تطبيقات عبر الأنظمة الأساسية تتمتع بالقدرة على إنشاء جداول البيانات وتعديلها وتحويلها وعرضها وطباعتها. علاوة على ذلك، فهو لا يعتمد على Microsoft Excel أو أي مكونات Microsoft Office Interop المراد تثبيتها، بل يعتمد على مجموعة قوية من واجهات برمجة التطبيقات التي تتعامل مع جميع تنسيقات Excel بالإضافة إلى تنسيقات CSV وSpreadsheetML.
+Aspose.Cells for .NET هي برمجة جداول بيانات إكسل API لتسريع إدارة جداول البيانات ومهام المعالجة. يدعم API إنشاء تطبيقات عبر الأنظمة الأساسية تتمتع بالقدرة على إنشاء جداول البيانات وتعديلها وتحويلها وعرضها وطباعتها. علاوة على ذلك، فهو لا يعتمد على Microsoft Excel أو أي مكونات Microsoft Office Interop المراد تثبيتها، بل يعتمد على مجموعة قوية من واجهات برمجة التطبيقات التي تتعامل مع جميع تنسيقات Excel بالإضافة إلى تنسيقات CSV وSpreadsheetML.
 </p>
 
 <p>
-من خلال دمج API، يمكن للمطورين تنفيذ بعض المهام الأساسية مثل إدارة أوراق عمل متعددة، وإنشاء محتويات وأنماط جدول البيانات من الصفر، واستيراد البيانات إلى أوراق العمل من مصادر بيانات مختلفة، وإضافة صيغ رياضية ومالية ونصية مشتركة ومعقدة، ومعالجة الرسوم البيانية، الصور والتعليقات والأشياء الرسومية وأكثر من ذلك بكثير.
+ من خلال دمج API، يمكن للمطورين تنفيذ بعض المهام الأساسية مثل إدارة أوراق عمل متعددة، وإنشاء محتويات وأنماط جدول البيانات من الصفر، واستيراد البيانات إلى أوراق العمل من مصادر بيانات مختلفة، وإضافة صيغ رياضية ومالية ونصية مشتركة ومعقدة، ومعالجة الرسوم البيانية، الصور والتعليقات والأشياء الرسومية وأكثر من ذلك بكثير.
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
@@ -92,7 +92,7 @@ keywords: [Aspose.Cells C# Create repair parse merge convert JSON Excel XML PDF 
  تطبيق الصيغ
     </li>
     <li>
- استيراد/تصدير البيانات
+استيراد/تصدير البيانات
     </li>
    </ul>
   </div>
@@ -213,7 +213,7 @@ keywords: [Aspose.Cells C# Create repair parse merge convert JSON Excel XML PDF 
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="تنسيقات الملفات المدعومة" description=" Aspose.Cells for .NET يدعم جدول البيانات الشهير[تنسيقات الملفات](https://docs.aspose.com/cells/net/supported-file-formats/)بالإضافة إلى تنسيقات الصور والتخطيطات الثابتة الأكثر استخدامًا." >}}
+{{< blocks/products/pf/carousel-item h3="تنسيقات الملفات المدعومة" description=" Aspose.Cells for .NET يدعم جدول البيانات الشهير[تنسيقات الملفات](https://docs.aspose.com/cells/net/supported-file-formats/) بالإضافة إلى تنسيقات الصور والتخطيطات الثابتة الأكثر استخدامًا." >}}
 <div class="diagram1 d2 d1-net">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -387,7 +387,7 @@ keywords: [Aspose.Cells C# Create repair parse merge convert JSON Excel XML PDF 
     <em class="fa fa-support ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- دعم CSV (قيم مفصولة بفواصل) &amp; TSV (قيم مفصولة بعلامات جدولة)
+دعم CSV (قيم مفصولة بفواصل) &amp; TSV (قيم مفصولة بعلامات جدولة)
     </p>
    </div>
    <div class="col-lg-4">
@@ -450,7 +450,7 @@ keywords: [Aspose.Cells C# Create repair parse merge convert JSON Excel XML PDF 
     <em class="fa fa-file-code-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-تعديل كود VBA أو وحدات الماكرو في ملف القالب
+ تعديل كود VBA أو وحدات الماكرو في ملف القالب
     </p>
    </div>
    <div class="col-lg-4">
@@ -469,7 +469,7 @@ keywords: [Aspose.Cells C# Create repair parse merge convert JSON Excel XML PDF 
     </p>
     <div class="codeblock" id="code">
      <h3>
- حفظ جدول البيانات بتنسيقات مختلفة - C#
+حفظ جدول البيانات بتنسيقات مختلفة - C#
      </h3>
      <pre><code class="cs">// load file to be converted
 
@@ -491,7 +491,7 @@ workbook.Save(dir + "output.html", Aspose.Cells.SaveFormat.Html);</code></pre>
  تصور البيانات بالتنسيق والمخططات والبيانات الرسومات
     </h2>
     <p>
-Aspose.Cells for .NET يمنحك الحرية الكاملة والمرونة لتزويد جداول البيانات الخاصة بك بجميع أنواع المؤثرات البصرية. يتيح لك API تطبيق خطوط مختلفة مع السمات وأنماط الخلايا (المحاذاة، المسافة البادئة، التدوير، الحدود، التظليل والتلوين، الحماية، التفاف النص وتقليصه) وجميع أنواع تنسيقات الأرقام.
+ Aspose.Cells for .NET يمنحك الحرية الكاملة والمرونة لتزويد جداول البيانات الخاصة بك بجميع أنواع المؤثرات البصرية. يتيح لك API تطبيق خطوط مختلفة مع السمات وأنماط الخلايا (المحاذاة، المسافة البادئة، التدوير، الحدود، التظليل والتلوين، الحماية، التفاف النص وتقليصه) وجميع أنواع تنسيقات الأرقام.
     </p>
     <p>
  وبالمثل، تعد المخططات والرسومات جذابة بصريًا ويمكن أن تضفي على جدول البيانات الخاص بك مظهرًا احترافيًا. Aspose.Cells for .NET يوفر مجموعة شاملة من واجهات برمجة التطبيقات لإنشاء ومعالجة جميع أنواع المخططات القياسية والمخصصة. علاوة على ذلك، يمكنك إضافة أنواع مختلفة من الكائنات الرسومية، مثل التعليقات والصور وكائنات OLE والأشكال وعناصر التحكم إلى الخلايا

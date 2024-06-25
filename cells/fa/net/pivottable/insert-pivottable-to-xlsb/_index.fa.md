@@ -77,10 +77,10 @@ keywords: [C# Aspose.Cells., c# add PivotTable in xlsb., c# insert PivotTable in
 
 {{< blocks/products/pf/agp/other-supported-section title="سایر فرمت های PivotTable پشتیبانی شده" subTitle="همچنین می‌توانید سایر قالب‌های اکسل Microsoft را با PivotTable ایجاد کنید که تعدادی از آنها در زیر فهرست شده‌اند." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/insert-pivottable-to-xls/" name="XLS" description="Microsoft صفحه گسترده اکسل (قدیمی)" >}} 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/insert-pivottable-to-xlsx/" name="XLSX" description="XML Workbook را باز کنید" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/insert-pivottable-to-xlsb/" name="XLSB" description="کتاب کار باینری اکسل" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/insert-pivottable-to-xlsm/" name="XLSM" description="صفحه گسترده ماکرو فعال" >}} 
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/pivottable/insert-pivottable-to-xls/" name="XLS" description="Microsoft صفحه گسترده اکسل (قدیمی)" >}} 
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/pivottable/insert-pivottable-to-xlsx/" name="XLSX" description="XML Workbook را باز کنید" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/pivottable/insert-pivottable-to-xlsb/" name="XLSB" description="کتاب کار باینری اکسل" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/pivottable/insert-pivottable-to-xlsm/" name="XLSM" description="صفحه گسترده ماکرو فعال" >}} 
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

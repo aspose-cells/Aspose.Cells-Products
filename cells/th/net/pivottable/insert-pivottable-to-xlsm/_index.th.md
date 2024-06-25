@@ -76,10 +76,10 @@ keywords: [C# Aspose.Cells., c# add PivotTable in xlsm., c# insert PivotTable in
 
 {{< blocks/products/pf/agp/other-supported-section title="รูปแบบ PivotTable อื่นๆ ที่รองรับ" subTitle="คุณยังสามารถสร้างรูปแบบ Excel Microsoft อื่นๆ ด้วย PivotTable ได้ รวมถึงบางรูปแบบที่แสดงด้านล่าง" >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/insert-pivottable-to-xls/" name="XLS" description="Microsoft สเปรดชีต Excel (ดั้งเดิม)" >}} 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/insert-pivottable-to-xlsx/" name="XLSX" description="เปิดสมุดงาน XML" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/insert-pivottable-to-xlsb/" name="XLSB" description="สมุดงาน Excel ไบนารี" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/insert-pivottable-to-xlsm/" name="XLSM" description="สเปรดชีตที่เปิดใช้งานมาโคร" >}} 
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/pivottable/insert-pivottable-to-xls/" name="XLS" description="Microsoft สเปรดชีต Excel (ดั้งเดิม)" >}} 
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/pivottable/insert-pivottable-to-xlsx/" name="XLSX" description="เปิดสมุดงาน XML" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/pivottable/insert-pivottable-to-xlsb/" name="XLSB" description="สมุดงาน Excel ไบนารี" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/pivottable/insert-pivottable-to-xlsm/" name="XLSM" description="สเปรดชีตที่เปิดใช้งานมาโคร" >}} 
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

@@ -1,5 +1,5 @@
 ---
-title: Insira o gráfico dinâmico em arquivos do Micorsoft Excel XLSM por meio de C#
+title:  Insira o gráfico dinâmico em arquivos do Micorsoft Excel XLSM por meio de C#
 weight: 7690
 description: C# Código de exemplo para adicionar gráfico dinâmico a XLSM usando a biblioteca .NET. Use este código para inserir o gráfico dinâmico no arquivo XLSM em VB.NET, Asp.NET ou qualquer aplicativo baseado em .NET.
 keywords: [C# Aspose.Cells., c# add pivot chart in xlsm., c# insert pivot chart in xlsm., c# create pivot chart in xlsm., c# modify pivot chart in xlsm., access pivot chart in xlsm]
@@ -12,7 +12,7 @@ keywords: [C# Aspose.Cells., c# add pivot chart in xlsm., c# insert pivot chart 
 
 {{% blocks/products/pf/agp/content h2="" %}}
 
- É fácil gerar o arquivo MS Excel XLSM com gráfico dinâmico dinamicamente no aplicativo em execução. Para criar documentos XLSM com gráfico dinâmico do zero, sem a necessidade do MS Office, usaremos[Aspose.Cells for .NET](https://products.aspose.com/cells/net) API que oferece diversas funcionalidades para criação, manipulação e conversão de planilhas utilizando a plataforma .NET. Os desenvolvedores podem aprimorar facilmente o código para escrever dados, gerar tabelas ou gráficos, bem como criar tabelas em planilhas.
+É fácil gerar o arquivo MS Excel XLSM com gráfico dinâmico dinamicamente no aplicativo em execução. Para criar documentos XLSM com gráfico dinâmico do zero, sem a necessidade do MS Office, usaremos[Aspose.Cells for .NET](https://products.aspose.com/cells/net) API que oferece diversas funcionalidades para criação, manipulação e conversão de planilhas utilizando a plataforma .NET. Os desenvolvedores podem facilmente aprimorar o código para escrever dados, gerar tabelas ou gráficos, bem como criar tabelas em planilhas.
 {{% /blocks/products/pf/agp/content %}}
 
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
@@ -78,10 +78,10 @@ Arquivos com extensão XLSM são um tipo de arquivo de planilha que suporta macr
 
 {{< blocks/products/pf/agp/other-supported-section title="Outros formatos de gráfico dinâmico suportados" subTitle="Você também pode criar outros formatos Excel Microsoft com gráfico dinâmico, incluindo alguns listados abaixo." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/insert-pivot-chart-to-xls/" name="XLS" description="Microsoft Planilha Excel (Legado)" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/insert-pivot-chart-to-xlsx/" name="XLSX" description="Abra a pasta de trabalho XML" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/insert-pivot-chart-to-xlsb/" name="XLSB" description="Pasta de trabalho binária do Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/insert-pivot-chart-to-xlsm/" name="XLSM" description="Planilha habilitada para macro" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/pivottable/insert-pivot-chart-to-xls/" name="XLS" description="Microsoft Planilha Excel (Legado)" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/pivottable/insert-pivot-chart-to-xlsx/" name="XLSX" description="Abra a pasta de trabalho XML" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/pivottable/insert-pivot-chart-to-xlsb/" name="XLSB" description="Pasta de trabalho binária do Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/pivottable/insert-pivot-chart-to-xlsm/" name="XLSM" description="Planilha habilitada para macro" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

@@ -1,5 +1,5 @@
 ---
-title: C#을 통해 Micorsoft Excel XLSM 파일에 피벗 차트 삽입
+title:  C#을 통해 Micorsoft Excel XLSM 파일에 피벗 차트 삽입
 weight: 7690
 description: C# .NET 라이브러리를 사용하여 .NET에 피벗 차트를 추가하기 위한 샘플 코드입니다. VB.NET, Asp.NET 또는 .NET 기반 응용 프로그램 내의 XLSM 파일에 피벗 차트를 삽입하려면 이 코드를 사용하세요.
 keywords: [C# Aspose.Cells., c# add pivot chart in xlsm., c# insert pivot chart in xlsm., c# create pivot chart in xlsm., c# modify pivot chart in xlsm., access pivot chart in xlsm]
@@ -12,7 +12,7 @@ keywords: [C# Aspose.Cells., c# add pivot chart in xlsm., c# insert pivot chart 
 
 {{% blocks/products/pf/agp/content h2="" %}}
 
- 실행 중인 애플리케이션 내에서 피벗 차트를 사용하여 MS Excel XLSM 파일을 동적으로 생성하는 것은 쉽습니다. MS Office 없이 처음부터 피벗 차트를 사용하여 XLSM 문서를 생성하려면 다음을 사용합니다.[Aspose.Cells for .NET](https://products.aspose.com/cells/net) API은 .NET 플랫폼을 사용하여 스프레드시트 생성, 조작 및 변환을 위한 다양한 기능을 제공합니다. 개발자는 데이터 작성, 차트 또는 그래프 생성, 스프레드시트에 테이블 생성을 위한 코드를 쉽게 향상시킬 수 있습니다.
+실행 중인 애플리케이션 내에서 피벗 차트를 사용하여 MS Excel XLSM 파일을 동적으로 생성하는 것은 쉽습니다. MS Office 없이 처음부터 피벗 차트를 사용하여 XLSM 문서를 생성하려면 다음을 사용합니다.[Aspose.Cells for .NET](https://products.aspose.com/cells/net) API은 .NET 플랫폼을 사용하여 스프레드시트 생성, 조작 및 변환을 위한 다양한 기능을 제공합니다. 개발자는 데이터 작성, 차트 또는 그래프 생성, 스프레드시트에 테이블 생성을 위한 코드를 쉽게 향상시킬 수 있습니다.
 {{% /blocks/products/pf/agp/content %}}
 
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
@@ -78,10 +78,10 @@ Excel XLSM 파일을 생성, 수정, 변환, 렌더링 및 인쇄할 수 있는 
 
 {{< blocks/products/pf/agp/other-supported-section title="기타 지원되는 피벗 차트 형식" subTitle="아래 나열된 몇 가지를 포함하여 피벗 차트를 사용하여 다른 Microsoft Excel 형식을 만들 수도 있습니다." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/insert-pivot-chart-to-xls/" name="XLS" description="Microsoft Excel 스프레드시트(레거시)" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/insert-pivot-chart-to-xlsx/" name="XLSX" description="XML 통합 문서 열기" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/insert-pivot-chart-to-xlsb/" name="XLSB" description="Excel 바이너리 통합 문서" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/insert-pivot-chart-to-xlsm/" name="XLSM" description="매크로 지원 스프레드시트" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/pivottable/insert-pivot-chart-to-xls/" name="XLS" description="Microsoft Excel 스프레드시트(레거시)" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/pivottable/insert-pivot-chart-to-xlsx/" name="XLSX" description="XML 통합 문서 열기" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/pivottable/insert-pivot-chart-to-xlsb/" name="XLSB" description="Excel 바이너리 통합 문서" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/pivottable/insert-pivot-chart-to-xlsm/" name="XLSM" description="매크로 지원 스프레드시트" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

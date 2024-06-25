@@ -394,7 +394,7 @@ Soporte para CSV, delimitado por tabulaciones y amp; HTML formatos
  Convierta archivos de Excel a XPS, PDF y PDF. HTML
     </h2>
     <p>
- Aspose.Cells for PHP via Java API es capaz de convertir archivos de Excel a los formatos XPS, XPS y HTML, además de mantener la más alta fidelidad visual. El proceso de conversión es confiable y los desarrolladores pueden obtener el formato requerido con solo unas pocas líneas.
+ Aspose.Cells for PHP via Java API es capaz de convertir archivos de Excel a los formatos XPS, XPS y HTML, además de mantener la máxima fidelidad visual. El proceso de conversión es confiable y los desarrolladores pueden obtener el formato requerido con solo unas pocas líneas.
     </p>
     <div class="codeblock" id="code">
      <h3>

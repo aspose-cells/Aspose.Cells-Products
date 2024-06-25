@@ -343,7 +343,7 @@ Alleen uitvoer
  Excel-spreadsheets renderen
     </h2>
     <p>
-Aspose.Cells for Node.js via Java gebruikt de rendering-engine voor weergave naar de Microsoft Excel met de hoogste betrouwbaarheid. Terwijl u de Excel Processing-bibliotheek van Node.js gebruikt, kunt u hele werkbladen, individuele bestanden of grafieken converteren naar meerdere afbeeldingen en formaten met een vaste lay-out.
+Aspose.Cells for Node.js via Java gebruikt de rendering-engine voor weergave naar de Microsoft Excel met de hoogste betrouwbaarheid. Wanneer u de Excel Processing-bibliotheek van Node.js gebruikt, kunt u hele werkbladen, individuele bestanden of grafieken converteren naar meerdere afbeeldingen en formaten met een vaste lay-out.
     </p>
    </div>
    <div class="col-lg-12">

@@ -13,7 +13,7 @@ keywords: [C++ library execl Aspose.Cells Create repair parse merge convert JSON
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
-La biblioteca Aspose.Cells C++ es una biblioteca nativa C++ para manipulación de hojas de cálculo. Las aplicaciones pueden realizar funciones como crear, convertir y editar propiedades, temas, estilos y formatos integrados y personalizados de hojas de cálculo, validación de datos, formato condicional, lectura, escritura y cálculo de fórmulas, agrupación de filas y columnas y mucho más sin depender de la automatización de Office. o Microsoft Excel. El API admite los formatos de hojas de cálculo más comunes (como XLS, XLSX, XLSM y XLSB), así como otros tipos de formatos de archivos (como PDF, XPS) y los formatos de imagen más comunes (como JPEG, PNG, BMP, TIFF , GIF, EMF, SVG).
+La biblioteca Aspose.Cells C++ es una biblioteca nativa C++ para manipulación de hojas de cálculo. Las aplicaciones pueden realizar funciones como crear, convertir y editar propiedades, temas, estilos y formatos integrados y personalizados de hojas de cálculo, validación de datos, formato condicional, lectura, escritura y cálculo de fórmulas, agrupación de filas y columnas y mucho más sin depender de la automatización de Office. o Microsoft Excel. El API admite los formatos de hoja de cálculo más comunes (como XLS, XLSX, XLSM y XLSB), así como otros tipos de formatos de archivo (como PDF, XPS) y los formatos de imagen más comunes (como JPEG, PNG, BMP, TIFF , GIF, EMF, SVG).
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
@@ -492,7 +492,7 @@ La biblioteca Aspose.Cells C++ ofrece un conjunto completo de API para crear din
  Representar hojas de trabajo como imágenes
     </h2>
     <p>
- La biblioteca Aspose.Cells C++ renderiza con la más alta fidelidad Microsoft Excel utilizando su propio motor de renderizado. Ofrece características distintivas, como la representación de hojas de trabajo en imágenes en formatos populares, incluidos BMP, TIFF, PNG, JPEG y otros. EMF. El proceso Sheet2Image es flexible, lo que permite seleccionar opciones como controlar la resolución de la imagen resultante.
+ La biblioteca Aspose.Cells C++ renderiza con la más alta fidelidad Microsoft Excel utilizando su propio motor de renderizado. Ofrece características distintivas, como renderizar hojas de trabajo en imágenes en formatos populares, incluidos BMP, TIFF, PNG, JPEG y otros. EMF. El proceso Sheet2Image es flexible, lo que permite seleccionar opciones como controlar la resolución de la imagen resultante.
     </p>
    </div>
    <div class="col-lg-12">
@@ -508,7 +508,7 @@ La biblioteca Aspose.Cells C++ ofrece manipulación de filas y columnas de múlt
  Convierta con precisión hojas de cálculo a PDF
     </h2>
     <p>
- La biblioteca Aspose.Cells C++ brinda la capacidad de convertir hojas de cálculo al formato PDF conservando la misma calidad que el documento original. Este hecho hace que la biblioteca Aspose.Cells C++ sea una opción perfecta para las organizaciones que requieren intercambiar documentos en formatos estándar de la industria como PDF.
+ La biblioteca Aspose.Cells C++ ofrece la posibilidad de convertir hojas de cálculo al formato PDF conservando la misma calidad que el documento original. Este hecho hace que la biblioteca Aspose.Cells C++ sea una opción perfecta para las organizaciones que requieren intercambiar documentos en formatos estándar de la industria como PDF.
     </p>
    </div>
    <!-- 

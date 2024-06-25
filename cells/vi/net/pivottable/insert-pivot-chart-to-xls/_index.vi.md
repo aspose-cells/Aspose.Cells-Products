@@ -1,5 +1,5 @@
 ---
-title: Chèn biểu đồ Pivot vào tệp Micorsoft Excel XLS qua C#
+title:  Chèn biểu đồ Pivot vào tệp Micorsoft Excel XLS qua C#
 weight: 7690
 description: C# Mã mẫu thêm Pivot Chart vào XLS sử dụng Thư viện .NET. Sử dụng mã này để chèn Biểu đồ Pivot vào tệp XLS trong VB.NET, Asp.NET hoặc bất kỳ ứng dụng dựa trên .NET nào.
 keywords: [C# Aspose.Cells., c# add pivot chart in xls., c# insert pivot chart in xls., c# create pivot chart in xls., c# modify pivot chart in xls., access pivot chart in xls]
@@ -12,7 +12,7 @@ keywords: [C# Aspose.Cells., c# add pivot chart in xls., c# insert pivot chart i
 
 {{% blocks/products/pf/agp/content h2="" %}}
 
- Việc tạo tệp MS Excel XLS với Biểu đồ Pivot một cách linh hoạt trong ứng dụng đang chạy thật dễ dàng. Để tạo tài liệu XLS bằng Pivot Chart từ đầu mà không cần đến MS Office, chúng ta sẽ sử dụng[Aspose.Cells for .NET](https://products.aspose.com/cells/net) API cung cấp các tính năng khác nhau để tạo, thao tác và chuyển đổi bảng tính bằng nền tảng .NET. Các nhà phát triển có thể dễ dàng nâng cao mã để ghi dữ liệu, tạo biểu đồ hoặc đồ thị cũng như tạo bảng trong bảng tính.
+Việc tạo tệp MS Excel XLS với Biểu đồ Pivot một cách linh hoạt trong ứng dụng đang chạy thật dễ dàng. Để tạo tài liệu XLS bằng Pivot Chart từ đầu mà không cần đến MS Office, chúng ta sẽ sử dụng[Aspose.Cells for .NET](https://products.aspose.com/cells/net) API cung cấp các tính năng khác nhau để tạo, thao tác và chuyển đổi bảng tính bằng nền tảng .NET. Các nhà phát triển có thể dễ dàng nâng cao mã để ghi dữ liệu, tạo biểu đồ hoặc đồ thị cũng như tạo bảng trong bảng tính.
 {{% /blocks/products/pf/agp/content %}}
 
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
@@ -67,7 +67,7 @@ Thư viện lập trình bảng tính Excel có khả năng xây dựng các ứ
 {{< blocks/products/pf/agp/about-file-section >}}
 
 {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLS" readMoreLink="https://docs.fileformat.com/spreadsheet/xls/" >}}
-Các tệp có phần mở rộng XLS biểu thị Định dạng tệp nhị phân Excel. Những tệp như vậy có thể được tạo bởi Microsoft Excel cũng như các chương trình bảng tính tương tự khác như OpenOffice Calc hoặc Apple Numbers. Tệp được lưu bởi Excel được gọi là Sổ làm việc trong đó mỗi sổ làm việc có thể có một hoặc nhiều trang tính. Dữ liệu được lưu trữ và hiển thị cho người dùng ở định dạng bảng trong trang tính và có thể bao gồm các giá trị số, dữ liệu văn bản, công thức, kết nối dữ liệu ngoài, hình ảnh và biểu đồ. Các ứng dụng như Microsoft Excel cho phép bạn xuất dữ liệu sổ làm việc sang nhiều định dạng khác nhau bao gồm PDF, CSV, XLSX, TXT, HTML, XPS và một số định dạng khác. Định dạng tệp XLS đã được thay thế bằng định dạng có cấu trúc và mở hơn, XLSX, với bản phát hành Microsoft Excel 2007. Các phiên bản mới nhất vẫn cung cấp hỗ trợ tạo và đọc tệp XLS, mặc dù XLSX hiện là lựa chọn sử dụng đầu tiên.
+Các tệp có phần mở rộng XLS biểu thị Định dạng tệp nhị phân Excel. Những tệp như vậy có thể được tạo bởi Microsoft Excel cũng như các chương trình bảng tính tương tự khác như OpenOffice Calc hoặc Apple Numbers. Tệp được lưu bởi Excel được gọi là Sổ làm việc trong đó mỗi sổ làm việc có thể có một hoặc nhiều trang tính. Dữ liệu được lưu trữ và hiển thị cho người dùng ở định dạng bảng trong trang tính và có thể bao gồm các giá trị số, dữ liệu văn bản, công thức, kết nối dữ liệu ngoài, hình ảnh và biểu đồ. Các ứng dụng như Microsoft Excel cho phép bạn xuất dữ liệu sổ làm việc sang nhiều định dạng khác nhau, bao gồm PDF, CSV, XLSX, TXT, HTML, XPS và một số định dạng khác. Định dạng tệp XLS đã được thay thế bằng định dạng có cấu trúc và mở hơn, XLSX, với bản phát hành Microsoft Excel 2007. Các phiên bản mới nhất vẫn cung cấp hỗ trợ tạo và đọc tệp XLS, mặc dù XLSX hiện là lựa chọn sử dụng đầu tiên.
 
 {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
@@ -76,10 +76,10 @@ Các tệp có phần mở rộng XLS biểu thị Định dạng tệp nhị ph
 
 {{< blocks/products/pf/agp/other-supported-section title="Các định dạng biểu đồ Pivot được hỗ trợ khác" subTitle="Bạn cũng có thể tạo các định dạng Excel Microsoft khác bằng Biểu đồ Pivot, bao gồm một số định dạng được liệt kê bên dưới." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/insert-pivot-chart-to-xls/" name="XLS" description="Microsoft Bảng tính Excel (Cũ)" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/insert-pivot-chart-to-xlsx/" name="XLSX" description="Mở sổ làm việc XML" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/insert-pivot-chart-to-xlsb/" name="XLSB" description="Sổ làm việc nhị phân Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/insert-pivot-chart-to-xlsm/" name="XLSM" description="Bảng tính hỗ trợ macro" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/pivottable/insert-pivot-chart-to-xls/" name="XLS" description="Microsoft Bảng tính Excel (Cũ)" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/pivottable/insert-pivot-chart-to-xlsx/" name="XLSX" description="Mở sổ làm việc XML" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/pivottable/insert-pivot-chart-to-xlsb/" name="XLSB" description="Sổ làm việc nhị phân Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/pivottable/insert-pivot-chart-to-xlsm/" name="XLSM" description="Bảng tính hỗ trợ macro" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

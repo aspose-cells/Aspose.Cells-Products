@@ -12,7 +12,7 @@ keywords: [C# Aspose.Cells., c# add PivotTable in xlsm., c# insert PivotTable in
 
 {{% blocks/products/pf/agp/content h2="" %}}
 
- Az MS Excel XLSM fájl dinamikus előállítása a PivotTable segítségével a futó alkalmazáson belül egyszerű. Annak érdekében, hogy a XLSM számú dokumentumokat a semmiből hozzuk létre a PivotTable segítségével, MS Office használata nélkül,[Aspose.Cells for .NET](https://products.aspose.com/cells/net) API, amely különböző funkciókat kínál a táblázatok létrehozásához, kezeléséhez és konvertálásához a .NET platformon. A fejlesztők egyszerűen javíthatják a kódot az adatok írásához, diagramok vagy grafikonok generálásához, valamint táblázatok készítéséhez.
+ Az MS Excel XLSM fájl dinamikus előállítása a PivotTable segítségével a futó alkalmazáson belül egyszerű. A XLSM számú dokumentumok PivotTable-lel történő létrehozásához a semmiből, MS Office használata nélkül,[Aspose.Cells for .NET](https://products.aspose.com/cells/net) API, amely különböző funkciókat kínál a táblázatok létrehozásához, kezeléséhez és konvertálásához a .NET platformon. A fejlesztők egyszerűen javíthatják a kódot az adatok írásához, diagramok vagy grafikonok generálásához, valamint táblázatok készítéséhez.
 {{% /blocks/products/pf/agp/content %}}
 
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
@@ -76,10 +76,10 @@ A XLSM kiterjesztésű fájlok olyan táblázatkezelő fájlok, amelyek támogat
 
 {{< blocks/products/pf/agp/other-supported-section title="Egyéb támogatott kimutatás-formátumok" subTitle="Más Microsoft Excel-formátumokat is létrehozhat a kimutatással, köztük néhány alább felsorolt formátumot." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/insert-pivottable-to-xls/" name="XLS" description="Microsoft Excel-táblázat (örökölt)" >}} 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/insert-pivottable-to-xlsx/" name="XLSX" description="Nyissa meg az XML-munkafüzetet" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/insert-pivottable-to-xlsb/" name="XLSB" description="Excel bináris munkafüzet" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/insert-pivottable-to-xlsm/" name="XLSM" description="Makró-kompatibilis táblázat" >}} 
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/pivottable/insert-pivottable-to-xls/" name="XLS" description="Microsoft Excel-táblázat (örökölt)" >}} 
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/pivottable/insert-pivottable-to-xlsx/" name="XLSX" description="Nyissa meg az XML-munkafüzetet" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/pivottable/insert-pivottable-to-xlsb/" name="XLSB" description="Excel bináris munkafüzet" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/pivottable/insert-pivottable-to-xlsm/" name="XLSM" description="Makró-kompatibilis táblázat" >}} 
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

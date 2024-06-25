@@ -223,7 +223,7 @@ Somente saída
      <b>
  Outros:
      </b>
- MARKDOWN,SQL,XTHML
+ MARKDOWN, SQL, XTHML
     </li>
    </ul>
   </div>
@@ -444,7 +444,7 @@ Python A biblioteca Excel fornece conversão de arquivos Excel para PDF, XPS e X
     </p>
     <div class="codeblock" id="code">
      <h3>
- Salvar planilha em diferentes formatos - Java
+Salvar planilha em diferentes formatos - Java
      </h3>
      <pre><code class="java">
 // load file to be converted
@@ -485,7 +485,7 @@ wkbk.save(SD_PATH + "houtput.html", SaveFormat.HTML);</code></pre>
  Opções de exibição flexíveis
     </h2>
     <p>
- Aspose.Cells for Python via Java fornece controle total sobre a configuração da página, permitindo manipular várias opções de exibição, como visualizar quebras de página, definir nível de zoom, definir orientação de página, controlar visibilidade de dados com painéis congelados, tamanho de papel, escala, cabeçalhos e configurações. rodapés e área de impressão.
+ Aspose.Cells for Python via Java fornece controle total sobre a configuração da página, permitindo manipular várias opções de exibição, como visualizar quebras de página, definir nível de zoom, definir orientação da página, controlar a visibilidade dos dados com painéis congelados, tamanho do papel, dimensionamento, cabeçalhos e configurações. rodapés e área de impressão.
     </p>
    </div>
    <!--<div class="col-lg-12">

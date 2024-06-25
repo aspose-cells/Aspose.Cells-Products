@@ -54,7 +54,7 @@ keywords: [Java Aspose.Cells., Java Extract text and images from XLS file., Java
 
 {{% /blocks/products/pf/agp/text %}}
 
-+ Workbook 클래스를 사용하여 XLS 문서를 로드합니다.
+Workbook 클래스를 사용하여 XLS 문서를 로드합니다.
 + getWorksheets().get 메소드를 사용하여 필요한 시트를 선택합니다.
 + getCells()를 사용하여 선택한 시트의 모든 셀을 가져옵니다.
 + 각 셀을 반복하여 해당 텍스트를 가져옵니다.
@@ -70,7 +70,7 @@ keywords: [Java Aspose.Cells., Java Extract text and images from XLS file., Java
 
 {{% /blocks/products/pf/agp/text %}}
 
-- Microsoft Windows 또는 JSP/JSF 애플리케이션 및 데스크탑 애플리케이션용 런타임 환경 Java과 호환되는 OS.
+-  Microsoft Windows 또는 JSP/JSF 애플리케이션 및 데스크탑 애플리케이션용 런타임 환경 Java과 호환되는 OS.
 -  Aspose.Cells for Java의 최신 버전을 직접 다운로드하세요.
  [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells)  .
 

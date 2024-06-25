@@ -49,13 +49,13 @@ PM> Install-Package Aspose.Cells
 
 {{% blocks/products/pf/agp/text %}}
 
-Onze API's worden ondersteund op alle belangrijke platforms en besturingssystemen. Voordat u de onderstaande code uitvoert, moet u ervoor zorgen dat uw systeem aan de volgende vereisten voldoet.
+ Onze API's worden ondersteund op alle belangrijke platforms en besturingssystemen. Voordat u de onderstaande code uitvoert, moet u ervoor zorgen dat uw systeem aan de volgende vereisten voldoet.
 
 {{% /blocks/products/pf/agp/text %}}
 
--  Microsoft Windows of een compatibel besturingssysteem met .NET Framework, .NET Core, Mono of Xamarin-platforms
+- Microsoft Windows of een compatibel besturingssysteem met .NET Framework, .NET Core, Mono of Xamarin-platforms
 -  Ontwikkelomgeving zoals Microsoft Visual Studio
--  Voeg een verwijzing toe naar de Aspose.Cells for .NET DLL in uw project - Installeer vanaf NuGet met behulp van de downloadknop hierboven
+-  Voeg een verwijzing toe naar de Aspose.Cells for .NET DLL in uw project - Installeer vanaf NuGet met behulp van de knop Downloaden hierboven
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -115,7 +115,7 @@ Onze API's worden ondersteund op alle belangrijke platforms en besturingssysteme
             {{< blocks/products/pf/agp/democard icon="fa-download" text=" Het wordt onmiddellijk geparseerd." >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLS" readMoreLink="https://docs.fileformat.com/spreadsheet/xls/" >}}
-Bestanden met de extensie XLS vertegenwoordigen het binaire bestandsformaat van Excel. Dergelijke bestanden kunnen worden gemaakt door Microsoft Excel en andere soortgelijke spreadsheetprogramma's zoals OpenOffice Calc of Apple Numbers. Bestand dat door Excel wordt opgeslagen, staat bekend als Werkmap, waarbij elke werkmap een of meer werkbladen kan hebben. Gegevens worden opgeslagen en weergegeven aan gebruikers in tabelindeling op een werkblad en kunnen numerieke waarden, tekstgegevens, formules, externe gegevensverbindingen, afbeeldingen en grafieken omvatten. Met toepassingen zoals Microsoft Excel kunt u werkmapgegevens naar verschillende formaten exporteren, waaronder PDF, CSV, XLSX, TXT, HTML, XPS en verschillende andere. Het bestandsformaat XLS werd vervangen door een meer open en gestructureerd formaat, XLSX, met de release van Microsoft Excel 2007. De nieuwste versies bieden nog steeds ondersteuning voor het maken en lezen van XLS-bestanden, hoewel XLSX nu de eerste gebruikskeuze is.
+Bestanden met de extensie XLS vertegenwoordigen het binaire bestandsformaat van Excel. Dergelijke bestanden kunnen worden gemaakt door Microsoft Excel en andere soortgelijke spreadsheetprogramma's zoals OpenOffice Calc of Apple Numbers. Bestand opgeslagen door Excel staat bekend als Werkmap, waarbij elke werkmap een of meer werkbladen kan hebben. Gegevens worden opgeslagen en weergegeven aan gebruikers in tabelindeling op een werkblad en kunnen numerieke waarden, tekstgegevens, formules, externe gegevensverbindingen, afbeeldingen en grafieken omvatten. Met toepassingen zoals Microsoft Excel kunt u werkmapgegevens naar verschillende formaten exporteren, waaronder PDF, CSV, XLSX, TXT, HTML, XPS en verschillende andere. Het bestandsformaat XLS werd vervangen door een meer open en gestructureerd formaat, XLSX, met de release van Microsoft Excel 2007. De nieuwste versies bieden nog steeds ondersteuning voor het maken en lezen van XLS-bestanden, hoewel XLSX nu de eerste gebruikskeuze is.
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 

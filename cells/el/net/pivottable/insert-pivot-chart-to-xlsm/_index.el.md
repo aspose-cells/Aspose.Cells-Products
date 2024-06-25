@@ -1,5 +1,5 @@
 ---
-title: Εισαγωγή συγκεντρωτικού γραφήματος σε αρχεία Micorsoft Excel XLSM μέσω C#
+title:  Εισαγωγή συγκεντρωτικού γραφήματος σε αρχεία Micorsoft Excel XLSM μέσω C#
 weight: 7690
 description: C# Δείγμα κώδικα για την προσθήκη Συγκεντρωτικού γραφήματος στο XLSM χρησιμοποιώντας τη Βιβλιοθήκη .NET. Χρησιμοποιήστε αυτόν τον κωδικό για την εισαγωγή του Συγκεντρωτικού γραφήματος στο αρχείο XLSM σε VB.NET, Asp.NET ή σε οποιαδήποτε εφαρμογή που βασίζεται στο .NET.
 keywords: [C# Aspose.Cells., c# add pivot chart in xlsm., c# insert pivot chart in xlsm., c# create pivot chart in xlsm., c# modify pivot chart in xlsm., access pivot chart in xlsm]
@@ -12,7 +12,7 @@ keywords: [C# Aspose.Cells., c# add pivot chart in xlsm., c# insert pivot chart 
 
 {{% blocks/products/pf/agp/content h2="" %}}
 
- Η δυναμική δημιουργία αρχείου MS Excel XLSM με το Pivot Chart εντός της εκτελούμενης εφαρμογής είναι εύκολη. Για να δημιουργήσουμε XLSM έγγραφα με το Pivot Chart από την αρχή χωρίς να απαιτείται MS Office, θα χρησιμοποιήσουμε[Aspose.Cells for .NET](https://products.aspose.com/cells/net) API που προσφέρει διαφορετικές δυνατότητες για δημιουργία υπολογιστικών φύλλων, χειρισμό και μετατροπή χρησιμοποιώντας την πλατφόρμα .NET. Οι προγραμματιστές μπορούν εύκολα να βελτιώσουν τον κώδικα για τη σύνταξη δεδομένων, τη δημιουργία γραφημάτων ή γραφημάτων, καθώς και τη δημιουργία πινάκων σε υπολογιστικά φύλλα.
+Η δυναμική δημιουργία αρχείου MS Excel XLSM με το Pivot Chart εντός της εκτελούμενης εφαρμογής είναι εύκολη. Για να δημιουργήσουμε XLSM έγγραφα με το Pivot Chart από την αρχή χωρίς να απαιτείται MS Office, θα χρησιμοποιήσουμε[Aspose.Cells for .NET](https://products.aspose.com/cells/net) API που προσφέρει διαφορετικές δυνατότητες για δημιουργία υπολογιστικών φύλλων, χειρισμό και μετατροπή χρησιμοποιώντας την πλατφόρμα .NET. Οι προγραμματιστές μπορούν εύκολα να βελτιώσουν τον κώδικα για τη σύνταξη δεδομένων, τη δημιουργία γραφημάτων ή γραφημάτων, καθώς και τη δημιουργία πινάκων σε υπολογιστικά φύλλα.
 {{% /blocks/products/pf/agp/content %}}
 
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
@@ -78,10 +78,10 @@ keywords: [C# Aspose.Cells., c# add pivot chart in xlsm., c# insert pivot chart 
 
 {{< blocks/products/pf/agp/other-supported-section title="Άλλες υποστηριζόμενες μορφές συγκεντρωτικού γραφήματος" subTitle="Μπορείτε επίσης να δημιουργήσετε άλλες μορφές Excel Microsoft με το Συγκεντρωτικό γράφημα, συμπεριλαμβανομένων μερικών που αναφέρονται παρακάτω." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/insert-pivot-chart-to-xls/" name="XLS" description="Microsoft Υπολογιστικό φύλλο Excel (παλαιού τύπου)" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/insert-pivot-chart-to-xlsx/" name="XLSX" description="Ανοίξτε το βιβλίο εργασίας XML" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/insert-pivot-chart-to-xlsb/" name="XLSB" description="Δυαδικό βιβλίο εργασίας του Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/insert-pivot-chart-to-xlsm/" name="XLSM" description="Υπολογιστικό φύλλο με δυνατότητα μακροεντολής" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/pivottable/insert-pivot-chart-to-xls/" name="XLS" description="Microsoft Υπολογιστικό φύλλο Excel (παλαιού τύπου)" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/pivottable/insert-pivot-chart-to-xlsx/" name="XLSX" description="Ανοίξτε το βιβλίο εργασίας XML" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/pivottable/insert-pivot-chart-to-xlsb/" name="XLSB" description="Δυαδικό βιβλίο εργασίας του Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/pivottable/insert-pivot-chart-to-xlsm/" name="XLSM" description="Υπολογιστικό φύλλο με δυνατότητα μακροεντολής" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

@@ -1,7 +1,7 @@
 ---
 title: Ekstrak teks dan gambar dari dokumen XLSB melalui C++
 weight: 3140
-description: Contoh kode C++ untuk mengekstrak teks dan gambar dari file XLSB di C++ Runtime Environment untuk Windows 32 bit, Windows 64 bit dan Linux 64 bit.
+description: Contoh kode C++ untuk mengekstrak teks dan gambar dari file XLSB di Runtime Environment C++ untuk Windows 32 bit, Windows 64 bit dan Linux 64 bit.
 keywords: [C++ Aspose.Cells., C++ Extract text and images from XLSB file., C++ How to Parse XLSB File., C++ Extract text from XLSB file., Extract images from XLSB file using C++]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -116,7 +116,7 @@ Format file XLSB menentukan Format File Biner Excel, yang merupakan kumpulan rek
 
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="Dokumen Parsing yang Didukung Lainnya" subTitle="Dengan menggunakan C++, seseorang dapat dengan mudah mengurai format lain termasuk." >}}
+{{< blocks/products/pf/agp/other-supported-section title="Dokumen Parsing yang Didukung Lainnya" subTitle="Menggunakan C++, seseorang dapat dengan mudah mengurai format lain termasuk." >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/parser/ods/" name="ODS" description="File Lembar Bentang OpenDocument" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/parser/xls/" name="XLS" description="Format Biner Excel" >}}

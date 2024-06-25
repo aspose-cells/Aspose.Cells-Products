@@ -54,11 +54,11 @@ keywords: [Java Aspose.Cells., Java Extract text and images from XLSB file., Jav
 
 {{% /blocks/products/pf/agp/text %}}
 
-+ Carica il documento XLSB utilizzando la classe Workbook.
+Carica il documento XLSB utilizzando la classe Workbook.
 + Seleziona il foglio richiesto utilizzando il metodo getWorksheets().get.
 + Ottieni tutte le celle del foglio selezionato utilizzando getCells().
 + Itera su ogni cella, ottieni il suo testo.
-+ Stampa il valore di ogni cella o usa il metodo StringBuilder append() per visualizzarlo nel suo complesso
++ Stampa il valore di ogni cella o usa il metodo StringBuilder append() per visualizzarlo nel suo insieme
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -70,7 +70,7 @@ keywords: [Java Aspose.Cells., Java Extract text and images from XLSB file., Jav
 
 {{% /blocks/products/pf/agp/text %}}
 
-- Microsoft Windows o un sistema operativo compatibile con Java Ambiente runtime per applicazioni JSP/JSF e applicazioni desktop.
+-  Microsoft Windows o un sistema operativo compatibile con Java Ambiente runtime per applicazioni JSP/JSF e applicazioni desktop.
 -  Ottieni l'ultima versione di Aspose.Cells for Java direttamente da
  [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells)  .
 

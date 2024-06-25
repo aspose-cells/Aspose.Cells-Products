@@ -13,7 +13,7 @@ keywords: [C++ library execl Aspose.Cells Create repair parse merge convert JSON
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
-La bibliothèque Aspose.Cells C++ est une bibliothèque native C++ pour la manipulation de feuilles de calcul. Les applications peuvent exécuter des fonctions telles que la création, la conversion et la modification des propriétés intégrées et personnalisées, des thèmes, des styles et du formatage d'une feuille de calcul, la validation des données, le formatage conditionnel, la lecture, l'écriture et le calcul de formules, le regroupement de lignes et de colonnes et bien plus encore sans recourir à la bureautique. ou Microsoft Excel. Le API prend en charge les formats de feuilles de calcul les plus courants (tels que XLS, XLSX, XLSM et XLSB), ainsi que d'autres types de formats de fichiers (tels que PDF, XPS) et les formats d'image les plus courants (tels que JPEG, 076). 1123481, BMP, TIFF , GIF, EMF, SVG).
+La bibliothèque Aspose.Cells C++ est une bibliothèque native C++ pour la manipulation de feuilles de calcul. Les applications peuvent exécuter des fonctions telles que la création, la conversion et la modification des propriétés intégrées et personnalisées, des thèmes, des styles et du formatage d'une feuille de calcul, la validation des données, le formatage conditionnel, la lecture, l'écriture et le calcul de formules, le regroupement de lignes et de colonnes et bien plus encore sans recourir à la bureautique. ou Microsoft Excel. Le API prend en charge les formats de feuilles de calcul les plus courants (tels que XLS, XLSX, XLSM et XLSB) ainsi que d'autres types de formats de fichiers (tels que PDF, XPS) et les formats d'image les plus courants (tels que JPEG, 61123481, BMP, TIFF , GIF, EMF, SVG).
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
@@ -427,7 +427,7 @@ Créer des règles de mise en forme conditionnelle
 				</tr>
 		  <tr>
 					<td>Microsoft Windows</td>
-					<td><ul><li>Windows x86</li><li>Windows x86_64</li></ul></td>
+					<td><ul><li>Windows x86</li><li>Windowsx86_64</li></ul></td>
 		  </tr>
 		  <tr>
 					<td>Linux</td>

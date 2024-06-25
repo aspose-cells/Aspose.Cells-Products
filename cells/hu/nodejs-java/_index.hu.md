@@ -314,7 +314,7 @@ Csak kimenet
     <em class="fa fa-sort-amount-desc ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Létrehozása &amp; manipulálni a megnevezett tartományokat
+ Létrehozás &amp; manipulálni a megnevezett tartományokat
     </p>
    </div>
    <div class="col-lg-4">
@@ -380,7 +380,7 @@ Aspose.Cells for Node.js via Java lehetővé teszi a sorok és oszlopok sokféle
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
- Diagram létrehozása, manipulálása és amp; Renderelés
+ Diagram létrehozása, manipulálása és amp; Rendering
     </h2>
     <p>
 Aspose.Cells for Node.js via Java teljes mértékben támogatja a diagramkészítést. A API szám segítségével egyszerűen hozzáadhat testreszabott vagy szabványos diagramokat, és dinamikusan beállíthatja az adatokat a diagramok frissítéséhez.

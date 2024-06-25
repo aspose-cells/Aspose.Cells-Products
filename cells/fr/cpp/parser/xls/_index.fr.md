@@ -44,7 +44,7 @@ Les API peuvent être réalisées avec seulement quelques lignes de code. Analys
 
 {{% blocks/products/pf/agp/text %}}
 
- Aspose.Cells for C++ prend en charge sur toutes les principales plates-formes et systèmes d'exploitation. Veuillez vous assurer que vous disposez des prérequis suivants.
+ Aspose.Cells for C++ prend en charge toutes les principales plates-formes et systèmes d'exploitation. Veuillez vous assurer que vous disposez des prérequis suivants.
 
 {{% /blocks/products/pf/agp/text %}}
 

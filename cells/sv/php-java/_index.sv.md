@@ -12,7 +12,7 @@ description: PHP Excel-kalkylblad API för att läsa skriv och konvertera XLS XL
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
-Aspose.Cells for PHP via Java är en skalbar och funktionsrik hantering och bearbetning av Excel-kalkylblad API. Applikationer kan utföra konvertering av kalkylbladsformat, diagramhantering och rendering, implementera formler, utforma kalkylblad till den mest detaljerade nivån och mycket mer. API stöder XLS, XLSX, ODS, SpreadsheetML, CSV, Tab Delimited, HTML/MHTML, 3471s andra och 3407. Utvecklare kan enkelt lägga till möjligheten att skapa, redigera, konvertera och rendera Excel-filer i sina PHP-applikationer medan de använder JavaBridge.
+Aspose.Cells for PHP via Java är en skalbar och funktionsrik hantering och bearbetning av Excel-kalkylblad API. Applikationer kan utföra konvertering av kalkylbladsformat, diagramhantering och rendering, implementera formler, utforma kalkylblad till den mest detaljerade nivån och mycket mer. API Supports XLS, XLSX, ODS, SpreadsheetML, CSV, Tab Delimited, HTML/for PHP, PDF, 076133333481 och ANDRA ANDAN. Utvecklare kan enkelt lägga till möjligheten att skapa, redigera, konvertera och rendera Excel-filer i sina PHP-applikationer medan de använder JavaBridge.
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
@@ -386,7 +386,7 @@ Stöd för CSV, tabbavgränsad &amp; HTML format
     <em class="fa fa-line-chart ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Skapa &amp; rendera sparklines
+ Skapa &amp; återge sparklines
     </p>
    </div>
    <div class="col-lg-12">

@@ -444,7 +444,7 @@ La bibliothèque Excel Python permet la conversion des fichiers Excel en PDF, XP
     </p>
     <div class="codeblock" id="code">
      <h3>
- Enregistrer la feuille de calcul dans différents formats - Java
+Enregistrer la feuille de calcul dans différents formats - Java
      </h3>
      <pre><code class="java">
 // load file to be converted

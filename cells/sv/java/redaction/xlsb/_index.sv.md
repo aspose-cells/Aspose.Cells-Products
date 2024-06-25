@@ -58,7 +58,7 @@ keywords: [Java Aspose.Cells., Java Search and replace text in XLSB file., Java 
 + Välj relevant blad.
 + Definiera och specificera Sökalternativ.
 + Ange intervallet där du vill söka
-+ Gå igenom varje cell och använd getCells().find(...).
+Gå igenom varje cell och använd getCells().find(...).
 + Byt ut värdet.
 + Spara arbetsboken.
 
@@ -72,7 +72,7 @@ keywords: [Java Aspose.Cells., Java Search and replace text in XLSB file., Java 
 
 {{% /blocks/products/pf/agp/text %}}
 
-- Microsoft Windows eller ett kompatibelt operativsystem med Java Runtime Environment för JSP/JSF Application och Desktop Applications.
+-  Microsoft Windows eller ett kompatibelt operativsystem med Java Runtime Environment för JSP/JSF Application och Desktop Applications.
 -  Hämta senaste versionen av Aspose.Cells for Java direkt från
  [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells)  .
 

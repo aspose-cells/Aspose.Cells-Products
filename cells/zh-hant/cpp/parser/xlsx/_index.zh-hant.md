@@ -108,7 +108,7 @@ Aspose::Cells::Cleanup();
     {{< /blocks/products/pf/agp/demobox >}}
 
     {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLSX" readMoreLink="https://docs.fileformat.com/spreadsheet/xlsx/" >}}
-XLSX 是 Microsoft Excel 文件的眾所周知的格式，由 Microsoft 在 Microsoft Office 2007 版本中引入。基於根據 OOXML 標準 ECMA-376 第 2 部分中概述的開放性打包約定組織的結構，新套件為許多。只需解壓縮 .xlsx 檔案即可檢查底層結構和檔案。
+XLSX 是 Microsoft Excel 文件的眾所周知的格式，由 Microsoft 在 Microsoft Office 2007 版本中引入。 。只需解壓縮 .xlsx 檔案即可檢查底層結構和檔案。
 
     {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 

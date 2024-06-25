@@ -58,7 +58,7 @@ keywords: [Java Aspose.Cells., Java Search and replace text in ODS file., Java r
 + Wybierz odpowiedni arkusz.
 + Zdefiniuj i określ opcje FindOptions.
 + Określ zakres, w którym chcesz szukać
-+ Przejdź przez każdą komórkę i użyj getCells().find(...).
+Przejdź przez każdą komórkę i użyj getCells().find(...).
 + Zastąp wartość.
 + Zapisz skoroszyt.
 
@@ -72,7 +72,7 @@ keywords: [Java Aspose.Cells., Java Search and replace text in ODS file., Java r
 
 {{% /blocks/products/pf/agp/text %}}
 
-- Microsoft Windows lub zgodny system operacyjny ze środowiskiem wykonawczym Java dla aplikacji JSP/JSF i aplikacji komputerowych.
+-  Microsoft Windows lub zgodny system operacyjny ze środowiskiem wykonawczym Java dla aplikacji JSP/JSF i aplikacji komputerowych.
 -  Pobierz najnowszą wersję Aspose.Cells for Java bezpośrednio z
  [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells)  .
 
@@ -142,7 +142,7 @@ workbook.save(dataDir + "output.ods");
     {{< /blocks/products/pf/agp/demobox >}}
 
     {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="ODS" readMoreLink="https://docs.fileformat.com/spreadsheet/ods/" >}}
- Pliki z rozszerzeniem ODS dla formatu dokumentu arkusza kalkulacyjnego OpenDocument, które mogą być edytowane przez użytkownika. Dane są przechowywane w pliku ODF w wierszach i kolumnach. Jest to format oparty na języku XML i jest jednym z kilku podtypów rodziny formatów dokumentów otwartych (ODF). Format jest określony jako część specyfikacji ODF 1.2 opublikowanej i utrzymywanej przez firmę OASIS. Wiele aplikacji na Windows, a także na innych systemach operacyjnych, może otwierać pliki ODS do edycji i manipulacji, w tym Microsoft Excel, NeoOffice i LibreOffice. Pliki ODS można również konwertować na inne formaty arkuszy kalkulacyjnych, takie jak XLS, XLSX i inne, za pomocą różnych aplikacji.
+ Pliki z rozszerzeniem ODS dla formatu dokumentu arkusza kalkulacyjnego OpenDocument, które mogą być edytowane przez użytkownika. Dane są przechowywane w pliku ODF w wierszach i kolumnach. Jest to format oparty na języku XML i jest jednym z kilku podtypów rodziny formatów dokumentów otwartych (ODF). Format jest określony jako część specyfikacji ODF 1.2 opublikowanej i utrzymywanej przez firmę OASIS. Wiele aplikacji na Windows, a także na innych systemach operacyjnych może otwierać pliki ODS do edycji i manipulacji, w tym Microsoft Excel, NeoOffice i LibreOffice. Pliki ODS można również konwertować na inne formaty arkuszy kalkulacyjnych, takie jak XLS, XLSX i inne, za pomocą różnych aplikacji.
 
     {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 

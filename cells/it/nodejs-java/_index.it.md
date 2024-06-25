@@ -24,7 +24,7 @@ Aspose.Cells for Node.js via Java è un API ricco di funzionalità e scalabile p
 <!--Diagrams Start-->
 {{< blocks/products/pf/i18n/carousel >}}
 
-{{< blocks/products/pf/carousel-item h3="A prima vista" description="Una panoramica delle funzionalità Aspose.Cells for Node.js via Java." >}}
+{{< blocks/products/pf/carousel-item h3="A prima vista" description="Una panoramica delle funzionalità di Aspose.Cells for Node.js via Java." >}}
 <div class="diagram1 d1-nodejs">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -364,7 +364,7 @@ Aspose.Cells for Node.js via Java utilizza il suo motore di rendering per esegui
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
- Manipolare righe e amp; Colonne
+ Manipola righe e amp; Colonne
     </h2>
     <p>
 Aspose.Cells for Node.js via Java ti consente di manipolare righe e colonne in molti modi diversi. Puoi regolare facilmente l'altezza e l'altezza della fila. larghezza della colonna, ridimensiona automaticamente le celle in base al contenuto, inserisci e amp; elimina, nascondi e amp; scopri e raggruppa &amp; separa righe e amp; colonne.

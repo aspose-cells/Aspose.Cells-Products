@@ -48,11 +48,11 @@ PM> Install-Package Aspose.Cells
 
 {{% blocks/products/pf/agp/text %}}
 
-يتم دعم واجهات برمجة التطبيقات الخاصة بنا على جميع المنصات وأنظمة التشغيل الرئيسية. قبل تنفيذ التعليمات البرمجية أدناه، يرجى التأكد من توفر المتطلبات الأساسية التالية على نظامك.
+ يتم دعم واجهات برمجة التطبيقات الخاصة بنا على جميع المنصات وأنظمة التشغيل الرئيسية. قبل تنفيذ التعليمات البرمجية أدناه، يرجى التأكد من توفر المتطلبات الأساسية التالية على نظامك.
 
 {{% /blocks/products/pf/agp/text %}}
 
--  Microsoft Windows أو نظام تشغيل متوافق مع .NET Framework أو .NET Core أو Mono أو Xamarin Platforms
+- Microsoft Windows أو نظام تشغيل متوافق مع .NET Framework أو .NET Core أو Mono أو Xamarin Platforms
 -  بيئة التطوير مثل Microsoft Visual Studio
 -  أضف إشارة إلى Aspose.Cells for .NET DLL في مشروعك - قم بالتثبيت من NuGet باستخدام زر التنزيل أعلاه
 

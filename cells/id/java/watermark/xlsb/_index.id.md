@@ -125,7 +125,7 @@ workbook.save(dataDir + "AWArtWToWorksheet_out.xlsb");
     {{< blocks/products/pf/agp/about-file-section >}}
 
         {{< blocks/products/pf/agp/demobox sectionTitle="Tanda Air XLSB melalui Aplikasi Online" sectionDescription=" Tambahkan tanda air ke dokumen XLSB dengan mengunjungi kami[Situs web Demo Langsung](https://products.aspose.app/cells/watermark). Demo langsung memiliki manfaat sebagai berikut" >}}
-            {{< blocks/products/pf/agp/democard icon="fa-cogs" text="Tidak perlu mengunduh atau mengatur apa pun" >}}
+            {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Tidak perlu mengunduh atau mengatur apa pun" >}}
             {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Tidak perlu menulis kode apa pun" >}}
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Cukup unggah file XLSB Anda, atur tanda air Anda dan tekan tombol \"Tambah\"." >}}
             {{< blocks/products/pf/agp/democard icon="fa-download" text=" Segera dapatkan tautan unduhan untuk file yang dihasilkan" >}}

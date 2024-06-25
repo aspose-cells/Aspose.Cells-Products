@@ -54,7 +54,7 @@ keywords: [Java Aspose.Cells., Java Extract text and images from XLSM file., Jav
 
 {{% /blocks/products/pf/agp/text %}}
 
-+ Φόρτωση εγγράφου XLSM χρησιμοποιώντας την κλάση Βιβλίο εργασίας.
+Φόρτωση εγγράφου XLSM χρησιμοποιώντας την κλάση Βιβλίο εργασίας.
 + Επιλέξτε το απαιτούμενο φύλλο χρησιμοποιώντας τη μέθοδο getWorksheets().get.
 + Λάβετε όλα τα κελιά του επιλεγμένου φύλλου χρησιμοποιώντας το getCells().
 + Επαναλάβετε σε κάθε κελί, λάβετε το κείμενό του .
@@ -70,7 +70,7 @@ keywords: [Java Aspose.Cells., Java Extract text and images from XLSM file., Jav
 
 {{% /blocks/products/pf/agp/text %}}
 
-- Microsoft Windows ή συμβατό λειτουργικό σύστημα με Java Runtime Environment για εφαρμογές JSP/JSF και εφαρμογές επιφάνειας εργασίας.
+-  Microsoft Windows ή συμβατό λειτουργικό σύστημα με Java Runtime Environment για εφαρμογές JSP/JSF και εφαρμογές επιφάνειας εργασίας.
 -  Λάβετε την τελευταία έκδοση του Aspose.Cells for Java απευθείας από
  [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells)  .
 

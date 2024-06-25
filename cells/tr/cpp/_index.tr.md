@@ -13,7 +13,7 @@ keywords: [C++ library execl Aspose.Cells Create repair parse merge convert JSON
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
-Aspose.Cells C++ kitaplığı, Elektronik Tablo manipülasyonuna yönelik yerel bir C++ kitaplığıdır. Uygulamalar, elektronik tablonun Yerleşik ve Özel Özellikleri, Temalar, Stiller ve Biçimlendirme, Veri Doğrulama, Koşullu Biçimlendirme, Formülleri Okuma, Yazma ve Hesaplama, Satırları ve Sütunları Gruplandırma ve çok daha fazlasını Ofis Otomasyonuna güvenmeden oluşturma, dönüştürme ve düzenleme gibi işlevleri gerçekleştirebilir. veya Microsoft Excel. API, en yaygın elektronik tablo formatlarını (örneğin XLS, XLSX, XLSM ve XLSB) ve diğer dosya formatı türlerini (örneğin PDF, XPS) ve en yaygın görüntü formatlarını (örneğin JPEG, PNG, BMP, TIFF , GIF, EMF, SVG).
+Aspose.Cells C++ kitaplığı, Elektronik Tablo manipülasyonuna yönelik yerel bir C++ kitaplığıdır. Uygulamalar, elektronik tablonun Yerleşik ve Özel Özellikleri, Temalar, Stiller ve Biçimlendirme, Veri Doğrulama, Koşullu Biçimlendirme, Formülleri Okuma, Yazma ve Hesaplama, Satırları ve Sütunları Gruplandırma ve çok daha fazlasını Ofis Otomasyonuna güvenmeden oluşturma, dönüştürme ve düzenleme gibi işlevleri gerçekleştirebilir. veya Microsoft Excel. API, en yaygın elektronik tablo formatlarını (örneğin XLS, XLSX, XLSM ve XLSB) ve diğer dosya formatlarını (örneğin PDF, XPS) ve en yaygın görüntü formatlarını (örneğin JPEG, PNG, BMP, TIFF , GIF, EMF, SVG).
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
@@ -431,7 +431,7 @@ Koşullu biçimlendirme kuralları oluşturma
 		  </tr>
 		  <tr>
 					<td>Linux</td>
-					<td><ul><li>Linuxx86_64</li><li>ARM için Linux (aarch64)</li></ul></td>
+					<td><ul><li>Linux x86_64</li><li>ARM için Linux (aarch64)</li></ul></td>
 				</tr>
 		  <tr>
 					<td>Mac os işletim sistemi</td>
@@ -444,7 +444,7 @@ Koşullu biçimlendirme kuralları oluşturma
  Microsoft Excel'e Sıfır Bağımlılık
     </h2>
     <p>
- Excel için Aspose.Cells C++ kitaplığı tamamen bağımsızdır ve Microsoft Corporation'a bağlı değildir, yetkilendirilmez, desteklenmez veya başka bir şekilde onaylanmaz. Aspose.Cells C++ kitaplığının, Excel belge formatlarıyla çalışması için makineye hiçbir zaman Microsoft Office veya Microsoft Excel'in yüklenmesine gerek yoktur.
+ Excel için Aspose.Cells C++ kitaplığı tamamen bağımsızdır ve Microsoft Corporation'a bağlı değildir, yetkilendirilmez, desteklenmez veya başka şekilde onaylanmaz. Aspose.Cells C++ kitaplığının, Excel belge formatlarıyla çalışması için makineye hiçbir zaman Microsoft Office veya Microsoft Excel'in yüklenmesine gerek yoktur.
     </p>
    </div>
    <div class="col-lg-12">

@@ -13,7 +13,7 @@ keywords: [Python Aspose.Cells Create repair merge convert JSON Excel XML PDF HT
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
- Aspose.Cells for Python qua .Net là số API nhanh chóng và đáng tin cậy cho các tác vụ xử lý bảng tính. Nhà phát triển có thể tạo bảng tính đơn giản hoặc phức tạp, thao tác cũng như trích xuất thông tin từ tệp excel. API đọc nhiều định dạng excel và có thể hiển thị trang tính thành XPS, PDF, MHTML, HTML, Văn bản thuần túy, hình ảnh, v.v. Đây là giải pháp tốt nhất để tự động hóa báo cáo excel bằng python.
+Aspose.Cells for Python qua .Net là số API nhanh chóng và đáng tin cậy cho các tác vụ xử lý bảng tính. Nhà phát triển có thể tạo bảng tính đơn giản hoặc phức tạp, thao tác cũng như trích xuất thông tin từ tệp excel. API đọc nhiều định dạng excel và có thể hiển thị trang tính thành XPS, PDF, MHTML, HTML, Văn bản thuần túy, hình ảnh, v.v. Đây là giải pháp tốt nhất để tự động hóa báo cáo excel bằng python.
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}

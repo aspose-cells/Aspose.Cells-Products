@@ -58,7 +58,7 @@ keywords: [Java Aspose.Cells., Java Search and replace text in ODS file., Java r
 + Selecione a planilha relevante.
 + Definir e especificar FindOptions.
 + Especifique o intervalo onde deseja pesquisar
-+ Percorra cada célula e use getCells().find(...).
+Percorra cada célula e use getCells().find(...).
 + Substitua o valor.
 + Salve a pasta de trabalho.
 
@@ -72,7 +72,7 @@ keywords: [Java Aspose.Cells., Java Search and replace text in ODS file., Java r
 
 {{% /blocks/products/pf/agp/text %}}
 
-- Microsoft Windows ou um sistema operacional compatível com Java Runtime Environment para aplicativos JSP/JSF e aplicativos de desktop.
+-  Microsoft Windows ou um sistema operacional compatível com Java Runtime Environment para aplicativos JSP/JSF e aplicativos de desktop.
 -  Obtenha a versão mais recente de Aspose.Cells for Java diretamente de
  [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells)  .
 

@@ -86,7 +86,7 @@ Samenvatten
  Excel-bestanden laden
     </li>
     <li>
- Excel-documenten opslaan
+ Bewaar Excel-documenten
     </li>
     <li>
  Biedt bewerkingsmogelijkheden
@@ -298,7 +298,7 @@ Alleen uitvoer
     <em class="fa fa-superscript ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Formules importeren vanuit een ontwerperspreadsheet
+ Importeer formules uit een ontwerperspreadsheet
     </p>
    </div>
    <div class="col-lg-4">

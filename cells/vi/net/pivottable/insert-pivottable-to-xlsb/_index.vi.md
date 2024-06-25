@@ -21,7 +21,7 @@ keywords: [C# Aspose.Cells., c# add PivotTable in xlsb., c# insert PivotTable in
 
 {{% blocks/products/pf/agp/text %}}
 
- Các nhà phát triển có thể dễ dàng chèn bảng tính PivotTable ở định dạng XLSB trong khi chạy các ứng dụng báo cáo khác nhau để xử lý dữ liệu chỉ bằng một vài dòng mã.
+ Các nhà phát triển có thể dễ dàng chèn bảng tính PivotTable ở định dạng XLSB khi chạy các ứng dụng báo cáo khác nhau để xử lý dữ liệu chỉ bằng một vài dòng mã.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -77,10 +77,10 @@ Thư viện lập trình bảng tính Excel có khả năng xây dựng các ứ
 
 {{< blocks/products/pf/agp/other-supported-section title="Các định dạng PivotTable được hỗ trợ khác" subTitle="Bạn cũng có thể tạo các định dạng Excel Microsoft khác bằng PivotTable, bao gồm một số định dạng được liệt kê bên dưới." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/insert-pivottable-to-xls/" name="XLS" description="Microsoft Bảng tính Excel (Cũ)" >}} 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/insert-pivottable-to-xlsx/" name="XLSX" description="Mở sổ làm việc XML" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/insert-pivottable-to-xlsb/" name="XLSB" description="Sổ làm việc nhị phân Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/insert-pivottable-to-xlsm/" name="XLSM" description="Bảng tính hỗ trợ macro" >}} 
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/pivottable/insert-pivottable-to-xls/" name="XLS" description="Microsoft Bảng tính Excel (Cũ)" >}} 
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/pivottable/insert-pivottable-to-xlsx/" name="XLSX" description="Mở sổ làm việc XML" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/pivottable/insert-pivottable-to-xlsb/" name="XLSB" description="Sổ làm việc nhị phân Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/pivottable/insert-pivottable-to-xlsm/" name="XLSM" description="Bảng tính hỗ trợ macro" >}} 
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

@@ -49,7 +49,7 @@ Définir l'option de sensibilité à la casse.
 
 {{% blocks/products/pf/agp/text %}}
 
- Aspose.Cells for C++ prend en charge sur toutes les principales plates-formes et systèmes d'exploitation. Veuillez vous assurer que vous disposez des prérequis suivants.
+ Aspose.Cells for C++ prend en charge toutes les principales plates-formes et systèmes d'exploitation. Veuillez vous assurer que vous disposez des prérequis suivants.
 
 {{% /blocks/products/pf/agp/text %}}
 

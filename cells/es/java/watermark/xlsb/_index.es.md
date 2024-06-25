@@ -64,7 +64,7 @@ keywords: [Java Aspose.Cells., Java add watermark to xlsb file., Java insert wat
 
 {{% blocks/products/pf/agp/text %}}
 
- Aspose.Cells for Java es compatible con todas las principales plataformas y sistemas operativos. Asegúrese de tener los siguientes requisitos previos.
+ Aspose.Cells for Java es compatible con todas las plataformas y sistemas operativos principales. Asegúrese de tener los siguientes requisitos previos.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -125,7 +125,7 @@ workbook.save(dataDir + "AWArtWToWorksheet_out.xlsb");
     {{< blocks/products/pf/agp/about-file-section >}}
 
         {{< blocks/products/pf/agp/demobox sectionTitle="Marca de agua XLSB a través de la aplicación en línea" sectionDescription=" Agregue una marca de agua a los documentos XLSB visitando nuestro[Sitio web de demostraciones en vivo](https://products.aspose.app/cells/watermark). La demostración en vivo tiene los siguientes beneficios" >}}
-            {{< blocks/products/pf/agp/democard icon="fa-cogs" text="No es necesario descargar ni configurar nada" >}}
+            {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" No es necesario descargar ni configurar nada" >}}
             {{< blocks/products/pf/agp/democard icon="fa-edit" text=" No es necesario escribir ningún código." >}}
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Simplemente cargue su archivo XLSB, configure su marca de agua y presione el botón \"Agregar\"" >}}
             {{< blocks/products/pf/agp/democard icon="fa-download" text=" Obtenga instantáneamente el enlace de descarga del archivo resultante" >}}

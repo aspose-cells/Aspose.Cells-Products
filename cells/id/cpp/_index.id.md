@@ -13,7 +13,7 @@ keywords: [C++ library execl Aspose.Cells Create repair parse merge convert JSON
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
-Pustaka Aspose.Cells C++ adalah pustaka C++ asli untuk manipulasi Spreadsheet. Aplikasi dapat melakukan fungsi seperti membuat, mengonversi, dan mengedit Properti Bawaan dan Kustom, Tema, Gaya dan Pemformatan, Validasi Data, Pemformatan Bersyarat, Membaca, Menulis dan Menghitung Rumus, Mengelompokkan Baris dan Kolom, dan banyak lagi pada spreadsheet, tanpa bergantung pada Otomatisasi Office atau Microsoft Unggul. API mendukung format spreadsheet yang paling umum (seperti XLS, XLSX, XLSM, dan XLSB) serta jenis format file lainnya (seperti PDF, XPS) dan format gambar yang paling umum (seperti JPEG, 0761 123481, BMP, TIFF , GIF, EMF, SVG).
+Pustaka Aspose.Cells C++ adalah pustaka C++ asli untuk manipulasi Spreadsheet. Aplikasi dapat melakukan fungsi seperti membuat, mengonversi, dan mengedit Properti Bawaan dan Kustom, Tema, Gaya dan Pemformatan, Validasi Data, Pemformatan Bersyarat, Membaca, Menulis dan Menghitung Rumus, Mengelompokkan Baris dan Kolom, dan banyak lagi pada spreadsheet, tanpa bergantung pada Otomatisasi Office atau Microsoft Unggul. API mendukung format spreadsheet yang paling umum (seperti XLS, XLSX, XLSM, dan XLSB) serta jenis format file lainnya (seperti PDF, XPS) dan format gambar yang paling umum (seperti JPEG, 076 1123481, BMP, TIFF , GIF, EMF, SVG).
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}

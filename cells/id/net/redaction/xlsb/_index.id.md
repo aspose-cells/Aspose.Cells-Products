@@ -39,7 +39,7 @@ PM> Install-Package Aspose.Cells
 + Muat file XLSB.
 + Pilih lembar.
 + Buat objek FindOptions.
-+ Atur Opsi Pencarian
+Atur Opsi Pencarian
 + Ulangi setiap sel dan gunakan metode Temukan.
 + Simpan buku kerja.
 
@@ -49,11 +49,11 @@ PM> Install-Package Aspose.Cells
 
 {{% blocks/products/pf/agp/text %}}
 
-API kami didukung di semua platform dan Sistem Operasi utama. Sebelum menjalankan kode di bawah ini, pastikan Anda memiliki prasyarat berikut di sistem Anda.
+ API kami didukung di semua platform dan Sistem Operasi utama. Sebelum menjalankan kode di bawah ini, pastikan Anda memiliki prasyarat berikut di sistem Anda.
 
 {{% /blocks/products/pf/agp/text %}}
 
--  Microsoft Windows atau OS yang kompatibel dengan .NET Framework, .NET Core, Mono atau Platform Xamarin
+- Microsoft Windows atau OS yang kompatibel dengan .NET Framework, .NET Core, Mono atau Platform Xamarin
 -  Lingkungan pengembangan seperti Microsoft Visual Studio
 -  Tambahkan referensi ke DLL Aspose.Cells for .NET di proyek Anda - Instal dari NuGet menggunakan tombol Unduh di atas
 

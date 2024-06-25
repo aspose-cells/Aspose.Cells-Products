@@ -125,7 +125,7 @@ workbook.save(dataDir + "AWArtWToWorksheet_out.xlsx");
     {{< blocks/products/pf/agp/about-file-section >}}
 
         {{< blocks/products/pf/agp/demobox sectionTitle="Vodoznak XLSX prostřednictvím online aplikace" sectionDescription=" Přidejte vodoznak do dokumentů XLSX návštěvou našeho webu[Webová stránka živé ukázky](https://products.aspose.app/cells/watermark). Živé demo má následující výhody" >}}
-            {{< blocks/products/pf/agp/democard icon="fa-cogs" text="Není třeba nic stahovat ani nastavovat" >}}
+            {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Není třeba nic stahovat ani nastavovat" >}}
             {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Není třeba psát žádný kód" >}}
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Stačí nahrát svůj soubor XLSX, nastavit vodoznak a stisknout tlačítko \"Přidat\"." >}}
             {{< blocks/products/pf/agp/democard icon="fa-download" text=" Okamžitě získejte odkaz ke stažení výsledného souboru" >}}

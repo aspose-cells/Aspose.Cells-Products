@@ -50,11 +50,11 @@ keywords: [Java Aspose.Cells., Java Extract text and images from ODS file., Java
 
 {{% blocks/products/pf/agp/text %}}
 
- Базовый анализ документа с помощью[Aspose.Cells for Java](https://products.aspose.com/cells/java)API можно создать с помощью всего нескольких строк кода. Анализируйте текст и изображения из файлов Excel Microsoft, XLS, XLSX, XLSM, XLSB и OpenDocument ODS.
+ Базовый анализ документа с помощью[Aspose.Cells for Java](https://products.aspose.com/cells/java)API можно создать с помощью всего нескольких строк кода. Анализируйте текст и изображения из файлов Microsoft Excel XLS, XLSX, XLSM, XLSB и OpenDocument ODS.
 
 {{% /blocks/products/pf/agp/text %}}
 
-+ Загрузите документ ODS, используя класс Workbook.
+Загрузите документ ODS, используя класс Workbook.
 + Выберите нужный лист с помощью метода getWorksheets().get.
 + Получить все ячейки выбранного листа с помощью getCells().
 + Перебрать каждую ячейку, получить ее текст.
@@ -70,7 +70,7 @@ keywords: [Java Aspose.Cells., Java Extract text and images from ODS file., Java
 
 {{% /blocks/products/pf/agp/text %}}
 
-- Microsoft Windows или совместимая ОС с Java Среда выполнения для приложений JSP/JSF и настольных приложений.
+-  Microsoft Windows или совместимая ОС с Java Среда выполнения для приложений JSP/JSF и настольных приложений.
 -  Загрузите последнюю версию Aspose.Cells for Java прямо с сайта
  [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells)  .
 
@@ -123,7 +123,7 @@ System.out.println(stringBuilder.toString());
     {{< /blocks/products/pf/agp/demobox >}}
 
     {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="ODS" readMoreLink="https://docs.fileformat.com/spreadsheet/ods/" >}}
- Файлы с расширением ODS обозначают формат документа электронной таблицы OpenDocument, который может редактировать пользователь. Данные хранятся внутри файла ODF в строках и столбцах. Это формат на основе XML, который является одним из нескольких подтипов семейства форматов открытых документов (ODF). Формат указан как часть спецификаций ODF 1.2, опубликованных и поддерживаемых OASIS. Ряд приложений в Windows, а также в других операционных системах могут открывать файлы ODS для редактирования и манипулирования, включая Microsoft Excel, NeoOffice и LibreOffice. Файлы ODS также можно конвертировать в другие форматы электронных таблиц, например XLS, XLSX и другие, с помощью различных приложений.
+ Файлы с расширением ODS обозначают формат документа электронной таблицы OpenDocument, который может редактироваться пользователем. Данные хранятся внутри файла ODF в строках и столбцах. Это формат на основе XML, который является одним из нескольких подтипов семейства форматов открытых документов (ODF). Формат указан как часть спецификаций ODF 1.2, опубликованных и поддерживаемых OASIS. Ряд приложений в Windows, а также в других операционных системах могут открывать файлы ODS для редактирования и манипулирования, включая Microsoft Excel, NeoOffice и LibreOffice. Файлы ODS также можно конвертировать в другие форматы электронных таблиц, например XLS, XLSX и другие, с помощью различных приложений.
 
     {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 

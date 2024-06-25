@@ -444,7 +444,7 @@ Python La libreria Excel fornisce la conversione dei file Excel in PDF, XPS &amp
     </p>
     <div class="codeblock" id="code">
      <h3>
- Salva foglio di calcolo in diversi formati - Java
+Salva foglio di calcolo in diversi formati - Java
      </h3>
      <pre><code class="java">
 // load file to be converted

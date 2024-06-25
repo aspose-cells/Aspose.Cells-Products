@@ -86,7 +86,7 @@ Aspose.Cells for Java یک پردازشگر صفحه گسترده اکسل API �
  فایل های اکسل را بارگیری کنید
     </li>
     <li>
- اسناد اکسل را ذخیره کنید
+ ذخیره اسناد اکسل
     </li>
     <li>
  قابلیت های ویرایش را ارائه می دهد
@@ -504,7 +504,7 @@ chart.toPdf(dir + "output.pdf");</code></pre>
 
 {{< /blocks/products/pf/main-container >}}
 
-{{< blocks/products/pf/i18n/testimonials title="مردم چه می گویند" subTitle="فقط حرف ما را قبول نکنید. ببینید کاربران در مورد APIهای صفحه گسترده چه می گویند." caseStudiesLink="https://downloads.aspose.com/corporate/case-studies/aspose.cells/" >}}
+{{< blocks/products/pf/i18n/testimonials title="آنچه مردم می گویند" subTitle="فقط حرف ما را قبول نکنید. ببینید کاربران در مورد APIهای صفحه گسترده چه می گویند." caseStudiesLink="https://downloads.aspose.com/corporate/case-studies/aspose.cells/" >}}
 
 {{< blocks/products/pf/testimonials-quote >}}
 <p class="first">

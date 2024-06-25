@@ -54,7 +54,7 @@ keywords: [Java Aspose.Cells., Java Extract text and images from XLSM file., Jav
 
 {{% /blocks/products/pf/agp/text %}}
 
-+ Muat dokumen XLSM menggunakan kelas Buku Kerja.
+Muat dokumen XLSM menggunakan kelas Buku Kerja.
 + Pilih lembar yang diperlukan menggunakan metode getWorksheets().get.
 + Dapatkan semua sel pada lembar yang dipilih menggunakan getCells().
 + Ulangi setiap sel, dapatkan teksnya.
@@ -70,7 +70,7 @@ keywords: [Java Aspose.Cells., Java Extract text and images from XLSM file., Jav
 
 {{% /blocks/products/pf/agp/text %}}
 
-- Microsoft Windows atau OS yang kompatibel dengan Java Runtime Environment untuk Aplikasi JSP/JSF dan Aplikasi Desktop.
+-  Microsoft Windows atau OS yang kompatibel dengan Java Runtime Environment untuk Aplikasi JSP/JSF dan Aplikasi Desktop.
 -  Dapatkan versi terbaru Aspose.Cells for Java langsung dari
  [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells)  .
 
@@ -131,7 +131,7 @@ File dengan ekstensi XLSM merupakan jenis file Spreadsheet yang mendukung Makro.
 
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="Dokumen Parsing yang Didukung Lainnya" subTitle="Dengan menggunakan Java, seseorang dapat dengan mudah mengurai format lain termasuk." >}}
+{{< blocks/products/pf/agp/other-supported-section title="Dokumen Parsing yang Didukung Lainnya" subTitle="Menggunakan Java, seseorang dapat dengan mudah mengurai format lain termasuk." >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/parser/ods/" name="ODS" description="File Lembar Bentang OpenDocument" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/parser/xls/" name="XLS" description="Format Biner Excel" >}}

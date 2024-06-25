@@ -54,7 +54,7 @@ keywords: [Java Aspose.Cells., Java Extract text and images from XLSX file., Jav
 
 {{% /blocks/products/pf/agp/text %}}
 
-+ تحميل مستند XLSX باستخدام فئة المصنف.
+تحميل مستند XLSX باستخدام فئة المصنف.
 + حدد الورقة المطلوبة باستخدام طريقة getWorksheets().get.
 + احصل على كافة خلايا الورقة المحددة باستخدام getCells().
 + كرر على كل خلية، واحصل على النص الخاص بها.
@@ -70,7 +70,7 @@ keywords: [Java Aspose.Cells., Java Extract text and images from XLSX file., Jav
 
 {{% /blocks/products/pf/agp/text %}}
 
-- Microsoft Windows أو نظام تشغيل متوافق مع Java Runtime Environment لتطبيقات JSP/JSF وتطبيقات سطح المكتب.
+-  Microsoft Windows أو نظام تشغيل متوافق مع Java Runtime Environment لتطبيقات JSP/JSF وتطبيقات سطح المكتب.
 -  احصل على أحدث إصدار من Aspose.Cells for Java مباشرة من
  [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells)  .
 

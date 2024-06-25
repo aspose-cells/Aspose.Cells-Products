@@ -49,11 +49,11 @@ PM> Install-Package Aspose.Cells
 
 {{% blocks/products/pf/agp/text %}}
 
-API'lerimiz tüm önemli platformlarda ve İşletim Sistemlerinde desteklenir. Aşağıdaki kodu çalıştırmadan önce lütfen sisteminizde aşağıdaki önkoşulların bulunduğundan emin olun.
+ API'lerimiz tüm önemli platformlarda ve İşletim Sistemlerinde desteklenir. Aşağıdaki kodu çalıştırmadan önce lütfen sisteminizde aşağıdaki önkoşulların bulunduğundan emin olun.
 
 {{% /blocks/products/pf/agp/text %}}
 
--  Microsoft Windows veya .NET Framework, .NET Core, Mono veya Xamarin Platformlarına sahip uyumlu bir işletim sistemi
+- Microsoft Windows veya .NET Framework, .NET Core, Mono veya Xamarin Platformlarına sahip uyumlu bir işletim sistemi
 -  Microsoft Visual Studio gibi geliştirme ortamı
 -  Projenizdeki Aspose.Cells for .NET DLL'sine referans ekleyin - Yukarıdaki İndir düğmesini kullanarak NuGet'den yükleyin
 
@@ -115,7 +115,7 @@ API'lerimiz tüm önemli platformlarda ve İşletim Sistemlerinde desteklenir. A
             {{< blocks/products/pf/agp/democard icon="fa-download" text=" Anında ayrıştırılacaktır." >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLS" readMoreLink="https://docs.fileformat.com/spreadsheet/xls/" >}}
-XLS uzantılı dosyalar Excel İkili Dosya Formatını temsil eder. Bu tür dosyalar Microsoft Excel'in yanı sıra OpenOffice Calc veya Apple Numbers gibi diğer benzer elektronik tablo programları tarafından oluşturulabilir. Excel tarafından kaydedilen dosya, her çalışma kitabının bir veya daha fazla çalışma sayfasına sahip olabileceği Çalışma Kitabı olarak bilinir. Veriler, çalışma sayfasında tablo biçiminde depolanır ve kullanıcılara görüntülenir ve sayısal değerleri, metin verilerini, formülleri, dış veri bağlantılarını, görüntüleri ve grafikleri kapsayabilir. Microsoft Excel gibi uygulamalar, çalışma kitabı verilerini PDF, CSV, XLSX, TXT, HTML, XPS ve diğer birkaç farklı formata aktarmanıza olanak tanır. XLS dosya formatı, Microsoft Excel 2007 sürümüyle birlikte daha açık ve yapılandırılmış bir format olan XLSX ile değiştirildi. En son sürümler, XLS dosyalarının oluşturulması ve okunması için hala destek sağlıyor, ancak artık XLSX ilk kullanım seçeneği.
+XLS uzantılı dosyalar Excel İkili Dosya Formatını temsil eder. Bu tür dosyalar Microsoft Excel'in yanı sıra OpenOffice Calc veya Apple Numbers gibi diğer benzer elektronik tablo programları tarafından oluşturulabilir. Excel tarafından kaydedilen dosya, her çalışma kitabının bir veya daha fazla çalışma sayfasına sahip olabileceği Çalışma Kitabı olarak bilinir. Veriler, çalışma sayfasında tablo biçiminde depolanır ve kullanıcılara görüntülenir ve sayısal değerleri, metin verilerini, formülleri, dış veri bağlantılarını, görüntüleri ve grafikleri kapsayabilir. Microsoft Excel gibi uygulamalar, çalışma kitabı verilerini PDF, CSV, XLSX, TXT, HTML, XPS ve diğer birkaç farklı formata aktarmanıza olanak tanır. XLS dosya formatı, Microsoft Excel 2007 sürümüyle birlikte daha açık ve yapılandırılmış bir format olan XLSX ile değiştirildi. En son sürümler, XLS dosyalarının oluşturulması ve okunması için hala destek sağlıyor, ancak şu anda ilk kullanım seçeneği XLSX.
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 

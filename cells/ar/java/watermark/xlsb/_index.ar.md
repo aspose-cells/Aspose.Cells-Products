@@ -125,7 +125,7 @@ workbook.save(dataDir + "AWArtWToWorksheet_out.xlsb");
     {{< blocks/products/pf/agp/about-file-section >}}
 
         {{< blocks/products/pf/agp/demobox sectionTitle="العلامة المائية XLSB عبر التطبيق عبر الإنترنت" sectionDescription=" أضف علامة مائية إلى مستندات XLSB من خلال زيارة موقعنا[موقع العروض الحية](https://products.aspose.app/cells/watermark). يتمتع العرض التجريبي المباشر بالمزايا التالية" >}}
-            {{< blocks/products/pf/agp/democard icon="fa-cogs" text="لا حاجة لتنزيل أو إعداد أي شيء" >}}
+            {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" لا حاجة لتنزيل أو إعداد أي شيء" >}}
             {{< blocks/products/pf/agp/democard icon="fa-edit" text=" لا حاجة لكتابة أي رمز" >}}
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text="ما عليك سوى تحميل ملف XLSB الخاص بك، وتعيين العلامة المائية الخاصة بك والضغط على زر \"إضافة\"." >}}
             {{< blocks/products/pf/agp/democard icon="fa-download" text=" احصل على رابط التنزيل للملف الناتج على الفور" >}}

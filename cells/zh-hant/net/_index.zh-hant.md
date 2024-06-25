@@ -13,7 +13,7 @@ keywords: [Aspose.Cells C# Create repair parse merge convert JSON Excel XML PDF 
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
- Aspose.Cells for .NET是一個Excel電子表格程式設計API，以加快電子表格管理和處理任務。 API 支援建立能夠產生、修改、轉換、渲染和列印電子表格的跨平台應用程式。此外，它不依賴 Microsoft Excel 或任何要安裝的 Microsoft Office Interop 元件，而是依賴一組強大的 API，可處理所有 Excel 格式以及 CSV 和 SpreadsheetML 格式。
+Aspose.Cells for .NET是一個Excel電子表格程式設計API，以加快電子表格管理和處理任務。 API 支援建立能夠產生、修改、轉換、渲染和列印電子表格的跨平台應用程式。此外，它不依賴 Microsoft Excel 或任何要安裝的 Microsoft Office Interop 元件，而是依賴一組強大的 API，可處理所有 Excel 格式以及 CSV 和 SpreadsheetML 格式。
 </p>
 
 <p>

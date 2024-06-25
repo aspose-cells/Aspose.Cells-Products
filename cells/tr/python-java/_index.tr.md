@@ -440,11 +440,11 @@ Yalnızca Çıkış
  Çoklu Format Dönüşümü
     </h2>
     <p>
-Python Excel kitaplığı, Excel dosyalarının PDF, XPS ve XPS'e dönüştürülmesini sağlar. HTML formatları. API'in güvenilir şekilde dönüştürülmesi, onu endüstri standardı formatlarda dosya alışverişi yapmak isteyen şirketler için mükemmel bir çözüm haline getirir.
+Python Excel kitaplığı, Excel dosyalarının PDF, XPS ve XPS'e dönüştürülmesini sağlar. HTML formatları. API'in güvenilir dönüşümü, onu endüstri standardı formatlarda dosya alışverişi yapmak isteyen şirketler için mükemmel bir çözüm haline getiriyor.
     </p>
     <div class="codeblock" id="code">
      <h3>
- E-tabloyu farklı formatlarda kaydedin - Java
+E-tabloyu farklı formatlarda kaydedin - Java
      </h3>
      <pre><code class="java">
 // load file to be converted

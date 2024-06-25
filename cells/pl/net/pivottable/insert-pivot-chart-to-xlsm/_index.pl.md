@@ -1,7 +1,7 @@
 ---
-title: Wstaw wykres przestawny w plikach Micorsoft Excel XLSM za pośrednictwem C#
+title:  Wstaw wykres przestawny w plikach Micorsoft Excel XLSM za pośrednictwem C#
 weight: 7690
-description: C# Przykładowy kod dodawania wykresu przestawnego do XLSM przy użyciu biblioteki .NET. Użyj tego kodu, aby wstawić wykres przestawny do pliku XLSM w VB.NET, Asp.NET lub dowolnej aplikacji opartej na .NET.
+description: C# Przykładowy kod umożliwiający dodanie wykresu przestawnego do XLSM przy użyciu biblioteki .NET. Użyj tego kodu, aby wstawić wykres przestawny do pliku XLSM w VB.NET, Asp.NET lub dowolnej aplikacji opartej na .NET.
 keywords: [C# Aspose.Cells., c# add pivot chart in xlsm., c# insert pivot chart in xlsm., c# create pivot chart in xlsm., c# modify pivot chart in xlsm., access pivot chart in xlsm]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -12,7 +12,7 @@ keywords: [C# Aspose.Cells., c# add pivot chart in xlsm., c# insert pivot chart 
 
 {{% blocks/products/pf/agp/content h2="" %}}
 
- Dynamiczne generowanie pliku MS Excel XLSM z wykresem przestawnym w uruchomionej aplikacji jest łatwe. Aby utworzyć od podstaw dokumenty XLSM za pomocą wykresu przestawnego bez konieczności korzystania z pakietu MS Office, użyjemy[Aspose.Cells for .NET](https://products.aspose.com/cells/net) API, który oferuje różne funkcje tworzenia, manipulacji i konwersji arkuszy kalkulacyjnych przy użyciu platformy .NET. Programiści mogą łatwo ulepszyć kod do zapisywania danych, generowania wykresów lub wykresów, a także tworzenia tabel w arkuszach kalkulacyjnych.
+Dynamiczne generowanie pliku MS Excel XLSM z wykresem przestawnym w uruchomionej aplikacji jest łatwe. Aby utworzyć od podstaw dokumenty XLSM za pomocą wykresu przestawnego bez konieczności korzystania z pakietu MS Office, użyjemy[Aspose.Cells for .NET](https://products.aspose.com/cells/net) API, który oferuje różne funkcje tworzenia, manipulacji i konwersji arkuszy kalkulacyjnych przy użyciu platformy .NET. Programiści mogą łatwo ulepszyć kod do zapisywania danych, generowania wykresów lub wykresów, a także tworzenia tabel w arkuszach kalkulacyjnych.
 {{% /blocks/products/pf/agp/content %}}
 
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
@@ -78,10 +78,10 @@ Pliki z rozszerzeniem XLSM to rodzaj plików arkuszy kalkulacyjnych obsługując
 
 {{< blocks/products/pf/agp/other-supported-section title="Inne obsługiwane formaty wykresów przestawnych" subTitle="Możesz także utworzyć inne formaty programu Excel Microsoft za pomocą wykresu przestawnego, w tym kilka wymienionych poniżej." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/insert-pivot-chart-to-xls/" name="XLS" description="Microsoft Arkusz kalkulacyjny Excel (starsza wersja)" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/insert-pivot-chart-to-xlsx/" name="XLSX" description="Otwórz skoroszyt XML" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/insert-pivot-chart-to-xlsb/" name="XLSB" description="Skoroszyt binarny programu Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/insert-pivot-chart-to-xlsm/" name="XLSM" description="Arkusz kalkulacyjny z obsługą makr" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/pivottable/insert-pivot-chart-to-xls/" name="XLS" description="Microsoft Arkusz kalkulacyjny Excel (starsza wersja)" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/pivottable/insert-pivot-chart-to-xlsx/" name="XLSX" description="Otwórz skoroszyt XML" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/pivottable/insert-pivot-chart-to-xlsb/" name="XLSB" description="Skoroszyt binarny programu Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/pivottable/insert-pivot-chart-to-xlsm/" name="XLSM" description="Arkusz kalkulacyjny z obsługą makr" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

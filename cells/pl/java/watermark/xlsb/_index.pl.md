@@ -125,7 +125,7 @@ workbook.save(dataDir + "AWArtWToWorksheet_out.xlsb");
     {{< blocks/products/pf/agp/about-file-section >}}
 
         {{< blocks/products/pf/agp/demobox sectionTitle="Znak wodny XLSB za pośrednictwem aplikacji internetowej" sectionDescription=" Dodaj znak wodny do dokumentów XLSB odwiedzając naszą stronę[Witryna internetowa z prezentacjami na żywo](https://products.aspose.app/cells/watermark). Demo na żywo ma następujące zalety" >}}
-            {{< blocks/products/pf/agp/democard icon="fa-cogs" text="Nie trzeba niczego pobierać ani konfigurować" >}}
+            {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Nie trzeba niczego pobierać ani konfigurować" >}}
             {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Nie trzeba pisać żadnego kodu" >}}
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Po prostu prześlij plik XLSB, ustaw znak wodny i naciśnij przycisk „Dodaj”." >}}
             {{< blocks/products/pf/agp/democard icon="fa-download" text=" Natychmiast uzyskaj łącze do pobrania pliku wynikowego" >}}

@@ -1,7 +1,7 @@
 ---
 title: Ekstrak teks dan gambar dari dokumen XLS melalui C++
 weight: 7610
-description: Contoh kode C++ untuk mengekstrak teks dan gambar dari file XLS di C++ Runtime Environment untuk Windows 32 bit, Windows 64 bit dan Linux 64 bit.
+description: Contoh kode C++ untuk mengekstrak teks dan gambar dari file XLS di Runtime Environment C++ untuk Windows 32 bit, Windows 64 bit dan Linux 64 bit.
 keywords: [C++ Aspose.Cells., C++ Extract text and images from XLS file., C++ How to Parse XLS File., C++ Extract text from XLS file., Extract images from XLS file using C++]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -118,7 +118,7 @@ File dengan ekstensi XLS mewakili Format File Biner Excel. File tersebut dapat d
 
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="Dokumen Parsing yang Didukung Lainnya" subTitle="Dengan menggunakan C++, seseorang dapat dengan mudah mengurai format lain termasuk." >}}
+{{< blocks/products/pf/agp/other-supported-section title="Dokumen Parsing yang Didukung Lainnya" subTitle="Menggunakan C++, seseorang dapat dengan mudah mengurai format lain termasuk." >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/parser/ods/" name="ODS" description="File Lembar Bentang OpenDocument" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/parser/xlsb/" name="XLSB" description="File Buku Kerja Excel Biner" >}}

@@ -77,10 +77,10 @@ XLSX to dobrze znany format dokumentów Excel Microsoft, który został wprowadz
 
 {{< blocks/products/pf/agp/other-supported-section title="Inne obsługiwane formaty tabel przestawnych" subTitle="Za pomocą tabeli przestawnej możesz także tworzyć inne formaty programu Excel Microsoft, w tym kilka wymienionych poniżej." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/insert-pivottable-to-xls/" name="XLS" description="Microsoft Arkusz kalkulacyjny Excel (starsza wersja)" >}} 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/insert-pivottable-to-xlsx/" name="XLSX" description="Otwórz skoroszyt XML" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/insert-pivottable-to-xlsb/" name="XLSB" description="Skoroszyt binarny programu Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/insert-pivottable-to-xlsm/" name="XLSM" description="Arkusz kalkulacyjny z obsługą makr" >}} 
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/pivottable/insert-pivottable-to-xls/" name="XLS" description="Microsoft Arkusz kalkulacyjny Excel (starsza wersja)" >}} 
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/pivottable/insert-pivottable-to-xlsx/" name="XLSX" description="Otwórz skoroszyt XML" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/pivottable/insert-pivottable-to-xlsb/" name="XLSB" description="Skoroszyt binarny programu Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/pivottable/insert-pivottable-to-xlsm/" name="XLSM" description="Arkusz kalkulacyjny z obsługą makr" >}} 
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

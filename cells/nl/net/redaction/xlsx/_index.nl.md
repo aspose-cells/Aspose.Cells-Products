@@ -39,7 +39,7 @@ PM> Install-Package Aspose.Cells
 + Laad XLSX-bestand.
 + Selecteer het blad.
 + Maak FindOptions-object.
-+ Zoekopties instellen
+Zoekopties instellen
 + Loop door elke cel en gebruik de Find-methode.
 + Bewaar de werkmap.
 
@@ -49,13 +49,13 @@ PM> Install-Package Aspose.Cells
 
 {{% blocks/products/pf/agp/text %}}
 
-Onze API's worden ondersteund op alle belangrijke platforms en besturingssystemen. Voordat u de onderstaande code uitvoert, moet u ervoor zorgen dat uw systeem aan de volgende vereisten voldoet.
+ Onze API's worden ondersteund op alle belangrijke platforms en besturingssystemen. Voordat u de onderstaande code uitvoert, moet u ervoor zorgen dat uw systeem aan de volgende vereisten voldoet.
 
 {{% /blocks/products/pf/agp/text %}}
 
--  Microsoft Windows of een compatibel besturingssysteem met .NET Framework, .NET Core, Mono of Xamarin-platforms
+- Microsoft Windows of een compatibel besturingssysteem met .NET Framework, .NET Core, Mono of Xamarin-platforms
 -  Ontwikkelomgeving zoals Microsoft Visual Studio
--  Voeg een verwijzing toe naar de Aspose.Cells for .NET DLL in uw project - Installeer vanaf NuGet met behulp van de downloadknop hierboven
+-  Voeg een verwijzing toe naar de Aspose.Cells for .NET DLL in uw project - Installeer vanaf NuGet met behulp van de knop Downloaden hierboven
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

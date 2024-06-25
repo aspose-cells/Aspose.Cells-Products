@@ -13,7 +13,7 @@ keywords: [Python Aspose.Cells Create repair merge convert JSON Excel XML PDF HT
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
- Aspose.Cells for Python via .Net é um API rápido e confiável para tarefas de processamento de planilhas. Os desenvolvedores podem criar planilhas simples ou complexas, manipular e extrair informações de arquivos Excel. API lê vários formatos Excel e pode renderizar planilhas para XPS, PDF, MHTML, HTML, texto simples, imagens e muito mais. É a melhor solução para automatizar relatórios Excel usando python.
+Aspose.Cells for Python via .Net é um API rápido e confiável para tarefas de processamento de planilhas. Os desenvolvedores podem criar planilhas simples ou complexas, manipular e extrair informações de arquivos Excel. API lê vários formatos Excel e pode renderizar planilhas para XPS, PDF, MHTML, HTML, texto simples, imagens e muito mais. É a melhor solução para automatizar relatórios Excel usando python.
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
@@ -223,7 +223,7 @@ Somente saída
      <b>
  Outros:
      </b>
- MARKDOWN,SQL,XTHML
+ MARKDOWN, SQL, XTHML
     </li>
    </ul>
   </div>
@@ -489,7 +489,7 @@ wk.save("houtput.html", SaveFormat.HTML);</code></pre>
  Opções de exibição flexíveis
     </h2>
     <p>
- Aspose.Cells for Python via .NET fornece controle total sobre a configuração da página, permitindo manipular várias opções de exibição, como visualizar quebras de página, definir nível de zoom, definir orientação de página, controlar visibilidade de dados com painéis congelados, tamanho de papel, escala, cabeçalhos e configurações. rodapés e área de impressão.
+ Aspose.Cells for Python via .NET fornece controle total sobre a configuração da página, permitindo manipular várias opções de exibição, como visualizar quebras de página, definir nível de zoom, definir orientação da página, controlar a visibilidade dos dados com painéis congelados, tamanho do papel, dimensionamento, cabeçalhos e configurações. rodapés e área de impressão.
     </p>
    </div>
    <!--<div class="col-lg-12">

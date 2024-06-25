@@ -111,7 +111,7 @@ Aspose.Cells for Node.js via Java est un API riche en fonctionnalités et évolu
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Indépendance de la plateforme" description="Aspose.Cells for Node.js via Java est JavaScript API côté serveur basé sur Node.js. Il peut fonctionner sur les plateformes Windows, Unix/Linux et Mac avec JDK 1.7 ou supérieur." >}}
+{{< blocks/products/pf/carousel-item h3="Indépendance de la plateforme" description="Aspose.Cells for Node.js via Java est JavaScript côté serveur API basé sur Node.js. Il peut fonctionner sur les plateformes Windows, Unix/Linux et Mac avec JDK 1.7 ou supérieur." >}}
 <div class="diagram1 d1-nodejs">
  <div class="d1-row">
   <div class="d1-col d1-left">

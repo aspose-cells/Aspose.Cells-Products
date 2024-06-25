@@ -1,11 +1,11 @@
 ---
 title: C++ Excel ライブラリ - Aspose.Cells
 weight: 7140
-description: Aspose.Cells for C++ Excel ファイルを作成、修復、マージ、解析、変換するためのライブラリ。 Excel を PDF、JSON、XML、TSV などに変換します。
+description: Aspose.Cells for C++ ライブラリは、Excel ファイルを作成、修復、結合、解析、変換します。Excel を PDF、JSON、XML、TSV などに変換します。
 keywords: [C++ library execl Aspose.Cells Create repair parse merge convert JSON Excel XML PDF HTML TSV SQL ODS CSV TXT PNG JPEG and more formats]
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="C++ Excel ライブラリ - Aspose.Cells" h2="フル機能の C++ アプリケーション内で、Microsoft Excel の依存関係を持たずにスプレッドシートを作成、読み取り、書き込み、解析できます。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/headers/aspose_cells-for-cpp.svg" pfName="Aspose.Cells" subTitlepfName="for C++" downloadUrl="https://downloads.aspose.com/cells/cpp" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="C++ Excel ライブラリ - Aspose.Cells" h2="フル機能の C++ アプリケーション内で、Microsoft Excel に依存せずにスプレッドシートを作成、読み取り、書き込み、解析します。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/headers/aspose_cells-for-cpp.svg" pfName="Aspose.Cells" subTitlepfName="for C++" downloadUrl="https://downloads.aspose.com/cells/cpp" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells" subTitlepfName="for C++" >}}
 
@@ -13,7 +13,7 @@ keywords: [C++ library execl Aspose.Cells Create repair parse merge convert JSON
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
-Aspose.Cells C++ ライブラリは、スプレッドシート操作用のネイティブ C++ ライブラリです。アプリケーションは、オフィス オートメーションに依存せずに、スプレッドシートの組み込みおよびカスタム プロパティ、テーマ、スタイルと書式設定、データ検証、条件付き書式設定、数式の読み取り、書き込み、計算、行と列のグループ化などの作成、変換、編集などの機能を実行できます。または Microsoft Excel。 API は、最も一般的なスプレッドシート形式 (XLS、XLSX、XLSM、XLSB など) のほか、他のタイプのファイル形式 (PDF、XPS など)、最も一般的な画像形式 (JPEG、JPEG など) をサポートしています。 PNG、BMP、TIFF 、GIF、EMF、SVG）。
+Aspose.Cells C++ ライブラリは、スプレッドシート操作用のネイティブ C++ ライブラリです。アプリケーションは、Office オートメーションや Microsoft Excel に依存せずに、スプレッドシートの組み込みおよびカスタム プロパティ、テーマ、スタイルと書式設定、データ検証、条件付き書式設定、数式の読み取り、書き込み、計算、行と列のグループ化など、さまざまな機能を作成、変換、編集できます。 API は、最も一般的なスプレッドシート形式 (XLS、XLSX、XLSM、XLSB など) に加えて、その他の種類のファイル形式 (PDF、XPS など) と最も一般的な画像形式 (JPEG、PNG、BMP、TIFF、GIF、EMF、SVG など) もサポートしています。
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
@@ -47,7 +47,7 @@ Aspose.Cells C++ ライブラリは、スプレッドシート操作用のネイ
 チャート
     </li>
     <li>
-数式の計算
+数式計算
     </li>
     <li>
 データ検証
@@ -66,7 +66,7 @@ Aspose.Cells C++ ライブラリは、スプレッドシート操作用のネイ
    </header>
    <ul>
     <li>
-スプレッドシートのロード/保存
+スプレッドシートの読み込み/保存
     </li>
     <li>
 データ操作
@@ -93,10 +93,10 @@ Aspose.Cells C++ ライブラリは、スプレッドシート操作用のネイ
 ページ設定
     </li>
     <li>
-数式の読み取り、書き込み
+数式の読み書き
     </li>
     <li>
-行と行のグループ化コラム
+行と列のグループ化
     </li>
    </ul>
   </div>
@@ -122,20 +122,20 @@ Aspose.Cells C++ ライブラリは、スプレッドシート操作用のネイ
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="プラットフォームの独立性" description="API は、次のプラットフォーム上の C++ アプリケーションを完全にサポートしています。[システム要求](https://docs.aspose.com/cells/cpp/system-requirements/)." >}}
+{{< blocks/products/pf/carousel-item h3="プラットフォームの独立性" description="APIは、以下のプラットフォームでC++アプリケーションを完全にサポートします。[システム要求](https://docs.aspose.com/cells/cpp/system-requirements/)." >}}
 <div class="diagram1 d1-cplus">
  <div class="d1-row">
   <div class="d1-col d1-left">
    <header>
     <i class="fa fa-cubes">
     </i>
-Windows 32ビット
+Windows 32 ビット
    </header>
    <br/>
    <header>
     <i class="fa fa-cubes">
     </i>
-Windows 64ビット
+Windows 64 ビット
    </header>
   </div>
   <!--/left-->
@@ -168,7 +168,7 @@ Linux 64 ビット
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="サポートされているファイル形式" description="Aspose.Cells C++ ライブラリは、最も一般的に使用されるスプレッドシートをサポートしています[ファイル形式](https://docs.aspose.com/cells/cpp/supported-file-formats/)." >}}
+{{< blocks/products/pf/carousel-item h3="サポートされているファイル形式" description="Aspose.Cells C++ライブラリは、最も一般的に使用されるスプレッドシートをサポートしています[ファイル形式](https://docs.aspose.com/cells/cpp/supported-file-formats/)." >}}
 <div class="diagram1 d2 d1-cplus">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -206,13 +206,13 @@ Microsoft エクセル:
      <b>
       Numbers:
      </b>
- Apple の iWork オフィス スイート Numbers アプリのドキュメント
+ AppleのiWorkオフィススイートNumbersアプリドキュメント
     </li>
     <li>
      <b>
 その他:
      </b>
- SXC、FODS、EPUB
+ SXC, FODS, EPUB
     </li>
    </ul>
   </div>
@@ -282,7 +282,7 @@ Microsoft エクセル:
  <div class="row">
   <div class="container">
    <h2 class="pr-ft">
- Excel 用 C++ ライブラリの高度な機能 - Aspose.Cells
+ Excel の C++ ライブラリの高度な機能 - Aspose.Cells
    </h2>
    <!-- <p>Unlike similar products from other vendors, Aspose.Cells for C++ not only supports spreadsheet generation and other basic file formatting features, it also supports a number of advanced features. These advanced features make it much easier for developers to manipulate spreadsheet contents and format cells.</p> 
 
@@ -293,49 +293,49 @@ Microsoft エクセル:
     <em class="fa fa-save ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-ロード＆アンプ;ストリームを使用して Excel ファイルを保存する
+ストリームを使用して Excel ファイルを読み込み、保存する
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-bar-chart ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-作成とチャートを操作する
+チャートの作成と操作
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-check-square-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-データ検証を設定して入力を制限する
+入力を制限するためにデータ検証を設定する
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-table ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-行とデータをグループ化してデータを整理します。列
+行と列をグループ化してデータを整理する
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-object-ungroup ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-組み込みおよび組み込みの操作カスタムプロパティ
+組み込みプロパティとカスタムプロパティを操作する
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-link ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-追加してハイパーリンクを操作する
+ハイパーリンクの追加と操作
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-list-alt ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-作成とピボットテーブルを操作する
+ピボットテーブルの作成と操作
     </p>
    </div>
    <div class="col-lg-4">
@@ -349,7 +349,7 @@ Microsoft エクセル:
     <em class="fa fa-tasks ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-テーブルの作成とリストオブジェクト
+テーブルとリストオブジェクトを作成する
     </p>
    </div>
    <div class="col-lg-4">
@@ -363,21 +363,21 @@ Microsoft エクセル:
     <em class="fa fa-file-excel-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-セル、行、列、または範囲にスタイルと書式設定を適用する
+セル、行、列、範囲にスタイルと書式を適用する
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-list-ol ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-トレース先例と扶養家族
+先例と従属関係の追跡
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-superscript ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-読み取り、書き込み、および複雑な数式を計算する
+複雑な数式を読み、書き、計算する
     </p>
    </div>
    <div class="col-lg-4">
@@ -405,14 +405,14 @@ OLE オブジェクトの追加または抽出
     <em class="fa fa-line-chart ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-チャートを PDF 形式に変換
+チャートをPDF形式に変換する
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-pie-chart ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-チャートを画像形式に変換
+チャートを画像形式に変換する
     </p>
    </div>
    <div class="col-lg-12">
@@ -430,7 +430,7 @@ Excel の Aspose.Cells C++ ライブラリは、次の 64 ビットまたは 32 
 					<td><ul><li>Windows x86</li><li>Windows x86_64</li></ul></td>
 		  </tr>
 		  <tr>
-					<td>Linux</td>
+					<td>リナックス</td>
 					<td><ul><li>Linux x86_64</li><li>ARM 用 Linux (aarch64)</li></ul></td>
 				</tr>
 		  <tr>
@@ -441,22 +441,22 @@ Excel の Aspose.Cells C++ ライブラリは、次の 64 ビットまたは 32 
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
- Microsoft Excel への依存性ゼロ
+ Microsoft Excelへの依存ゼロ
     </h2>
     <p>
-Excel 用の Aspose.Cells C++ ライブラリは完全に独立しており、Microsoft Corporation と提携、認可、スポンサー、その他の承認を受けていません。 Aspose.Cells C++ ライブラリでは、Excel ドキュメント形式を使用するために Microsoft Office または Microsoft Excel をマシンにインストールする必要はありません。
+Excel 用の Aspose.Cells C++ ライブラリは完全に独立しており、Microsoft Corporation と提携しておらず、また同社から認可、後援、承認も受けていません。Aspose.Cells C++ ライブラリでは、Excel ドキュメント形式で動作するために、マシンに Microsoft Office または Microsoft Excel がインストールされている必要はありません。
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-シンプル＆シンプルExcel 形式の信頼性の高い変換
+シンプルで信頼性の高い Excel 形式の変換
     </h2>
     <p>
-Aspose.Cells C++ ライブラリは、形式固有の詳細を気にせずに Excel ファイル形式の読み込み、編集、書き込み、相互変換を行う機能を提供する強力な API セットです。 API を使用すると、わずか 2 行のコードでスプレッドシートをサポートされている形式から他のサポートされている形式に変換できます。それはとても簡単です！
+Aspose.Cells C++ ライブラリは、形式固有の詳細を気にすることなく、Excel ファイル形式の読み込み、編集、書き込み、相互変換を行う機能を提供する強力な API セットです。API を使用すると、わずか 2 行のコードで、サポートされている任意の形式から他のサポートされている形式にスプレッドシートを変換できます。とても簡単です。
     </p>
     <div class="codeblock" id="code">
      <h3>
- Excel ファイルを複数の形式に変換 - C++
+ Excel ファイルを複数の形式に変換する - C++
      </h3>
      <pre><code class="cpp">	// load the document for conversion
 
@@ -476,15 +476,15 @@ Aspose.Cells C++ ライブラリは、形式固有の詳細を気にせずに Ex
 包括的なスプレッドシートの書式設定
     </h2>
     <p>
-Aspose.Cells C++ ライブラリでは、高度な書式設定機能を提供することで、ワークシート上でのデータの表示方法を完全に制御できます。個々の行、列、セルに書式設定を適用することも、セル範囲を作成してそれに書式設定を適用することもできます。また、セルにリッチ テキストを追加したり、枠線を適用したり、背景パターンを設定したり、フォント関連のスタイルを調整したりすることもできます。
+Aspose.Cells C++ ライブラリは、高度な書式設定機能を提供することで、ワークシートにデータを表示する方法を完全に制御できます。個々の行、列、セルに書式設定を適用したり、セルの範囲を作成してそれに書式設定を適用したりできます。また、セルにリッチ テキストを追加したり、境界線を適用したり、背景パターンを設定したり、フォント関連のスタイルの側面を微調整したりすることもできます。
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-グラフを使用してデータを視覚化する
+チャートでデータを視覚化する
     </h2>
     <p>
-Aspose.Cells C++ ライブラリは、Excel アプリケーションでサポートされるすべての標準グラフ タイプとカスタム グラフ タイプを動的に作成するための包括的な API セットを提供します。 API は、既存のグラフのデータ ソースを更新してリフレッシュする機能も提供します。
+Aspose.Cells C++ ライブラリは、Excel アプリケーションでサポートされているすべての標準およびカスタム グラフの種類を動的に作成するための包括的な API セットを提供します。API は、既存のグラフのデータ ソースを更新してリフレッシュする機能も提供します。
     </p>
    </div>
    <div class="col-lg-12">
@@ -492,7 +492,7 @@ Aspose.Cells C++ ライブラリは、Excel アプリケーションでサポー
 ワークシートを画像としてレンダリングする
     </h2>
     <p>
-Aspose.Cells C++ ライブラリは、独自のレンダリング エンジンを使用して、最高の忠実度で Microsoft Excel をレンダリングします。 BMP、TIFF、PNG、JPEG、および BMP、TIFF、JPEG などの一般的な形式の画像にワークシートをレンダリングするなど、独特の機能を提供します。 Sheet2Image プロセスは柔軟なので、結果の画像の解像度の制御などのオプションを選択できます。
+Aspose.Cells C++ ライブラリは、独自のレンダリング エンジンを使用して、Microsoft Excel に最高の忠実度でレンダリングします。このライブラリは、BMP、TIFF、PNG、JPEG、EMF などの一般的な形式の画像にワークシートをレンダリングするなど、独自の機能を提供します。Sheet2Image プロセスは柔軟性が高く、結果の画像の解像度を制御するなどのオプションを選択できます。
     </p>
    </div>
    <div class="col-lg-12">
@@ -500,12 +500,12 @@ Aspose.Cells C++ ライブラリは、独自のレンダリング エンジン�
 列と行を操作する
     </h2>
     <p>
-Aspose.Cells C++ ライブラリは、複数の方法で行と列の操作を提供します。行の高さと列の幅を調整したり、内容に応じてセルのサイズを自動変更したりするのは非常に簡単です。 API は、行と列のグループ化またはグループ解除だけでなく、削除と挿入、非表示または表示を行う手段も提供します。
+Aspose.Cells C++ ライブラリは、複数の方法で行と列を操作します。行の高さと列の幅を調整したり、セルの内容に応じてセルのサイズを自動的に変更したりするのは簡単です。API は、行と列のグループ化やグループ化解除だけでなく、削除やインセット、非表示や表示を行う手段も提供します。
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-スプレッドシートを PDF に正確に変換
+スプレッドシートをPDFに正確に変換する
     </h2>
     <p>
 Aspose.Cells C++ ライブラリは、元のドキュメントと同じ品質を維持しながら、スプレッドシートを PDF 形式に変換する機能を提供します。このため、Aspose.Cells C++ ライブラリは、PDF などの業界標準形式でドキュメントを交換する必要がある組織にとって最適な選択肢となります。
@@ -544,7 +544,7 @@ Aspose.Cells C++ ライブラリは、元のドキュメントと同じ品質を
 {{< blocks/products/pf/slr-tab tabTitle="学習リソース" tabId="resources" >}}
 {{< blocks/products/pf/slr-element name="ドキュメンテーション" href="https://docs.aspose.com/cells/cpp/" >}}
 {{< blocks/products/pf/slr-element name="ソースコード" href="https://github.com/aspose-cells/Aspose.Cells-for-C" >}}
-{{< blocks/products/pf/slr-element name="API 参照先" href="https://reference.aspose.com/cpp/cells" >}}
+{{< blocks/products/pf/slr-element name="API 参照" href="https://reference.aspose.com/cpp/cells" >}}
 {{< blocks/products/pf/slr-element name="チュートリアルビデオ" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
@@ -555,7 +555,7 @@ Aspose.Cells C++ ライブラリは、元のドキュメントと同じ品質を
 {{< blocks/products/pf/slr-element name="リリースノート" href="https://docs.aspose.com/cells/cpp/release-notes/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
-{{< blocks/products/pf/slr-tab tabTitle="なぜ Aspose.Cells for C++?" tabId="success-stories" >}}
+{{< blocks/products/pf/slr-tab tabTitle="なぜAspose.Cells for C++なのでしょうか?" tabId="success-stories" >}}
 {{< blocks/products/pf/slr-element name="顧客リスト" href="https://company.aspose.com/customers" >}}
 {{< blocks/products/pf/slr-element name="成功事例" href="https://company.aspose.com/customers/success-stories/aspose-cells" >}}
 {{< /blocks/products/pf/slr-tab >}}
@@ -564,7 +564,7 @@ Aspose.Cells C++ ライブラリは、元のドキュメントと同じ品質を
 
 {{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://downloads.aspose.com/cells/cpp" pricingInformationLink="https://purchase.aspose.com/pricing/cells/cpp" >}}
 
-{{< blocks/products/pf/offers-section pfName="Aspose.Cells" description="Aspose.Cells は、以下に示す他の一般的な開発環境向けに個別の Excel API を提供します。" >}}
+{{< blocks/products/pf/offers-section pfName="Aspose.Cells" description="Aspose.Cells は、以下にリストされている他の一般的な開発環境向けに個別の Excel API を提供しています。" >}}
 
     {{< blocks/products/pf/offers-section-item link="/cells/net/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sdkName=".NET" >}}
     {{< blocks/products/pf/offers-section-item link="/cells/java/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sdkName="Java" >}}

@@ -75,12 +75,12 @@ keywords: [C# Aspose.Cells., c# add PivotTable in xlsb., c# insert PivotTable in
 {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="Другие поддерживаемые форматы сводных таблиц" subTitle="С помощью сводной таблицы вы также можете создавать другие форматы Excel Microsoft, включая некоторые из них, перечисленные ниже." >}}
+{{< blocks/products/pf/agp/other-supported-section title="Другие поддерживаемые форматы сводных таблиц" subTitle="Вы также можете создавать другие форматы Excel Microsoft с помощью сводной таблицы, включая некоторые из них, перечисленные ниже." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/insert-pivottable-to-xls/" name="XLS" description="Microsoft Таблица Excel (устаревшая версия)" >}} 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/insert-pivottable-to-xlsx/" name="XLSX" description="Открытая XML-книга" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/insert-pivottable-to-xlsb/" name="XLSB" description="Двоичная книга Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/insert-pivottable-to-xlsm/" name="XLSM" description="Электронная таблица с поддержкой макросов" >}} 
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/pivottable/insert-pivottable-to-xls/" name="XLS" description="Microsoft Таблица Excel (устаревшая версия)" >}} 
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/pivottable/insert-pivottable-to-xlsx/" name="XLSX" description="Открытая XML-книга" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/pivottable/insert-pivottable-to-xlsb/" name="XLSB" description="Двоичная книга Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/pivottable/insert-pivottable-to-xlsm/" name="XLSM" description="Электронная таблица с поддержкой макросов" >}} 
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

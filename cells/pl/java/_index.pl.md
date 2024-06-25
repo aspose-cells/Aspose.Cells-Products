@@ -390,7 +390,7 @@ Utwórz &amp; manipulować komentarzami
  Zapisuj pliki Excel w różnych formatach
     </h2>
     <p>
- Excel API oferuje konwersję arkuszy kalkulacyjnych do formatów PDF, XPS, HTML i innych, przy zachowaniu najwyższej wierności wizualnej. Niezawodny i elastyczny proces konwersji sprawia, że Aspose.Cells jest idealnym wyborem dla organizacji, które głównie wymieniają pliki w standardowych formatach branżowych.
+ Excel API oferuje konwersję arkuszy kalkulacyjnych do formatów PDF, XPS, HTML i innych przy zachowaniu najwyższej wierności wizualnej. Niezawodny i elastyczny proces konwersji sprawia, że Aspose.Cells jest idealnym wyborem dla organizacji, które głównie wymieniają pliki w standardowych formatach branżowych.
     </p>
     <div class="codeblock" id="code">
      <h3>

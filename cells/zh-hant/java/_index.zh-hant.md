@@ -13,7 +13,7 @@ keywords: [Java Aspose.Cells Create repair parse merge convert JSON Excel XML PD
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
-Aspose.Cells for Java 是一款屢獲殊榮的 Excel 電子表格處理 API，它允許開發人員嵌入讀取、寫入、操作、轉換和轉換的功能。在自己的應用程式中列印電子表格，無需 Microsoft Excel 應用程式。
+Aspose.Cells for Java 是一個屢獲殊榮的 Excel 電子表格處理 API，它允許開發人員嵌入讀取、寫入、操作、轉換和轉換的功能。在自己的應用程式中列印電子表格，無需 Microsoft Excel 應用程式。
 </p>
 
 <p>

@@ -1,24 +1,24 @@
 ---
-title: Node.js via Java APIs for Excel Spreadsheets - Aspose 
+title: Node.js via C++ APIs for Excel Spreadsheets - Aspose 
 weight: 3120
 
-description: Process Excel file formats using Node.js via Java library. Read write render & convert XLS XLSX XLSB XLTX XLTM XLSM XML ODS CSV and more formats using Node.js via Java on Windows, macOS & Linux
+description: Process Excel file formats using Node.js via C++ library. Read write render & convert XLS XLSX XLSB XLTX XLTM XLSM XML ODS CSV and more formats using Node.js via C++ on Windows, macOS & Linux
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="Node.js via Java Excel File Format APIs" h2="Generate, modify, convert & render Excel spreadsheets using Node.js via Java without requiring Microsoft Excel." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/headers/aspose_cells-for-nodejs-java.svg" pfName="Aspose.Cells" subTitlepfName="for Node.js via Java" downloadUrl="https://downloads.aspose.com/cells/nodejs" >}}
+{{< blocks/products/pf/upper-banner h1="Node.js via C++ Excel File Format APIs" h2="Generate, modify, convert & render Excel spreadsheets using Node.js via C++ without requiring Microsoft Excel." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/headers/aspose_cells-for-nodejs-java.svg" pfName="Aspose.Cells" subTitlepfName="for Node.js via C++" downloadUrl="https://downloads.aspose.com/cells/nodejs-cpp" >}}
 
-{{< blocks/products/pf/main-container pfName="Aspose.Cells" subTitlepfName="for Node.js via Java" >}}
+{{< blocks/products/pf/main-container pfName="Aspose.Cells" subTitlepfName="for Node.js via C++" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-nodejs-java.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/cells/nodejs-java" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/cells/java/aspose-cells-for-node-js-via-java/" installationsDocsLink="" nugetLink="" nugetPackageName="Microsoft Excel:" mavenRepoLink="" directDownloadLink="https://downloads.aspose.com/cells/nodejs" >}}
+{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/cells/" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/cells/nodejs-cpp/" installationsDocsLink="" nugetLink="" nugetPackageName="Microsoft Excel:" mavenRepoLink="" directDownloadLink="https://releases.aspose.com/cells/nodejs-cpp/" >}}
 
 {{< blocks/products/pf/tab-content >}}
 <p>
- Aspose.Cells for Node.js via Java is a feature-rich and scalable API to process Excel spreadsheets using Node.js via Java. API offers Excel file format conversion, worksheets styling to the most granular level, chart creation &amp; rendering, reliable formula calculation engine and much more.
+ Aspose.Cells for Node.js via C++ is a feature-rich and scalable API to process Excel spreadsheets using Node.js. API offers Excel file format conversion, worksheets styling to the most granular level, chart creation &amp; rendering, reliable formula calculation engine and much more.
 </p>
 
 <p>
- Aspose.Cells for Node.js via Java supports most popular spreadsheet formats including XLS, XLSX, ODS, SpreadsheetML, CSV, TSC &amp; HTML.
+ Aspose.Cells for Node.js via C++ supports most popular spreadsheet formats including XLS, XLSX, ODS, SpreadsheetML, CSV, TSC &amp; HTML.
 </p>
 
 {{< /blocks/products/pf/tab-content >}}
@@ -26,7 +26,7 @@ description: Process Excel file formats using Node.js via Java library. Read wri
 <!--Diagrams Start-->
 {{< blocks/products/pf/carousel >}}
 
-{{< blocks/products/pf/carousel-item h3="At a Glance" description="An overview of Aspose.Cells for Node.js via Java capabilities." >}}
+{{< blocks/products/pf/carousel-item h3="At a Glance" description="An overview of Aspose.Cells for Node.js via C++ capabilities." >}}
 <div class="diagram1 d1-nodejs">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -95,7 +95,7 @@ description: Process Excel file formats using Node.js via Java library. Read wri
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img width="70" height="75" alt="Spreadsheet API JavaScript" src="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-nodejs-java.svg"/>
+  <img width="70" height="75" alt="Spreadsheet API JavaScript" src="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg"/>
   <header>
    Aspose.Cells
   </header>
@@ -104,7 +104,7 @@ description: Process Excel file formats using Node.js via Java library. Read wri
     <em>
      for
     </em>
-    Node.js via Java
+    Node.js via C++
    </small>
   </footer>
  </div>
@@ -113,7 +113,7 @@ description: Process Excel file formats using Node.js via Java library. Read wri
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Platform Independence" description="Aspose.Cells for Node.js via Java is server-side JavaScript API based on Node.js. It can run on Windows, Unix/Linux & Mac platforms with JDK 1.7 or above." >}}
+{{< blocks/products/pf/carousel-item h3="Platform Independence" description="Aspose.Cells for Node.js via C++ is server-side JavaScript API based on Node.js. It can run on Windows, Unix/Linux & Mac platforms." >}}
 <div class="diagram1 d1-nodejs">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -121,9 +121,6 @@ description: Process Excel file formats using Node.js via Java library. Read wri
   <!--/left-->
   <div class="d1-col d1-right">
    <header>
-    <i class="fa fa-cubes">
-    </i>
-    Java Runtime Environment
    </header>
    <!--
 
@@ -141,7 +138,7 @@ description: Process Excel file formats using Node.js via Java library. Read wri
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img width="70" height="75" alt="Excel API JavaScript" src="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-nodejs-java.svg"/>
+  <img width="70" height="75" alt="Excel API JavaScript" src="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg"/>
   <header>
    Aspose.Cells
   </header>
@@ -150,7 +147,7 @@ description: Process Excel file formats using Node.js via Java library. Read wri
     <em>
      for
     </em>
-    Node.js via Java
+    Node.js via C++
    </small>
   </footer>
  </div>
@@ -159,7 +156,7 @@ description: Process Excel file formats using Node.js via Java library. Read wri
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Supported File Formats" description="Aspose.Cells for Node.js via Java supports popular spreadsheet file formats along with the most commonly used image & fixed-layout formats." >}}
+{{< blocks/products/pf/carousel-item h3="Supported File Formats" description="Aspose.Cells for Node.js via C++ supports popular spreadsheet file formats along with the most commonly used image & fixed-layout formats." >}}
 <div class="diagram1 d2 d1-nodejs">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -245,7 +242,7 @@ description: Process Excel file formats using Node.js via Java library. Read wri
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img width="70" height="75" alt="Node.js Excel Spreadsheet Library" src="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-nodejs-java.svg"/>
+  <img width="70" height="75" alt="Node.js Excel Spreadsheet Library" src="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg"/>
   <header>
    Aspose.Cells
   </header>
@@ -254,7 +251,7 @@ description: Process Excel file formats using Node.js via Java library. Read wri
     <em>
      for
     </em>
-    Node.js via Java
+    Node.js via C++
    </small>
   </footer>
  </div>
@@ -273,7 +270,7 @@ description: Process Excel file formats using Node.js via Java library. Read wri
  <div class="row">
   <div class="container">
    <h2 class="pr-ft">
-    Advanced Node.js via Java Excel Spreadsheet API Features
+    Advanced Node.js via C++ Excel Spreadsheet API Features
    </h2>
    <p>
    </p>
@@ -345,7 +342,7 @@ description: Process Excel file formats using Node.js via Java library. Read wri
      Rendering Excel Spreadsheets
     </h2>
     <p>
-     Aspose.Cells for Node.js via Java uses its rendering engine for rendering to the Microsoft Excel with the highest of fidelity. While using Node.js via Java Excel Processing library, one can convert whole sheets, individual files or charts to multiple images and fixed-layout formats.
+     Aspose.Cells for Node.js via C++ uses its rendering engine for rendering to the Microsoft Excel with the highest of fidelity. While using Node.js Excel Processing library, one can convert whole sheets, individual files or charts to multiple images and fixed-layout formats.
     </p>
    </div>
    <div class="col-lg-12">
@@ -353,7 +350,7 @@ description: Process Excel file formats using Node.js via Java library. Read wri
      Flexible Display Options
     </h2>
     <p>
-     Aspose.Cells for Node.js via Java provides full control of the worksheet's page setup one can manipulate worksheet's display options like page orientation, breaks, size, scaling, headers, footers, and zoom level. Furthermore, developers can control the data visibility with the help of print area and freeze panes to suit application specifications.
+     Aspose.Cells for Node.js via C++ provides full control of the worksheet's page setup one can manipulate worksheet's display options like page orientation, breaks, size, scaling, headers, footers, and zoom level. Furthermore, developers can control the data visibility with the help of print area and freeze panes to suit application specifications.
     </p>
    </div>
    <div class="col-lg-12">
@@ -361,7 +358,7 @@ description: Process Excel file formats using Node.js via Java library. Read wri
      Security Options
     </h2>
     <p>
-     Aspose.Cells for Node.js via Java offers a wide range of security features including spreadsheet encryption/decryption, content, object &amp; scenario protection as well as the ability to hide and unhide rows, columns &amp; worksheets.
+     Aspose.Cells for Node.js via C++ offers a wide range of security features including spreadsheet encryption/decryption, content, object &amp; scenario protection as well as the ability to hide and unhide rows, columns &amp; worksheets.
     </p>
    </div>
    <div class="col-lg-12">
@@ -369,7 +366,7 @@ description: Process Excel file formats using Node.js via Java library. Read wri
      Manipulate Rows &amp; Columns
     </h2>
     <p>
-     Aspose.Cells for Node.js via Java allows you to manipulate rows and columns in many different ways. You can easily adjust row height &amp; column width, auto-size the cells according to the contents, insert &amp; delete, hide &amp; un-hide as well as group &amp; un-group rows &amp; columns.
+     Aspose.Cells for Node.js via C++ allows you to manipulate rows and columns in many different ways. You can easily adjust row height &amp; column width, auto-size the cells according to the contents, insert &amp; delete, hide &amp; un-hide as well as group &amp; un-group rows &amp; columns.
     </p>
    </div>
    <div class="col-lg-12">
@@ -377,7 +374,7 @@ description: Process Excel file formats using Node.js via Java library. Read wri
      Comprehensive Support for Worksheet Formatting
     </h2>
     <p>
-     Aspose.Cells for Node.js via Java provides advanced formatting features that allow you to control the presentation of your data. You can apply formatting to a worksheet, column, row or a cell or add Rich Text to a single cell, apply borders, set background patterns and font styling. The API also allows to add, manipulate &amp; calculate conditional formatting rules on the fly.
+     Aspose.Cells for Node.js via C++ provides advanced formatting features that allow you to control the presentation of your data. You can apply formatting to a worksheet, column, row or a cell or add Rich Text to a single cell, apply borders, set background patterns and font styling. The API also allows to add, manipulate &amp; calculate conditional formatting rules on the fly.
     </p>
    </div>
    <div class="col-lg-12">
@@ -385,7 +382,7 @@ description: Process Excel file formats using Node.js via Java library. Read wri
      Chart Creation, Manipulation &amp; Rendering
     </h2>
     <p>
-     Aspose.Cells for Node.js via Java provides full support for charting. One can easily add customized or standard charts using the API, and dynamically set the data in order to refresh the charts.
+     Aspose.Cells for Node.js via C++ provides full support for charting. One can easily add customized or standard charts using the API, and dynamically set the data in order to refresh the charts.
     </p>
    </div>
   </div>
@@ -398,9 +395,9 @@ description: Process Excel file formats using Node.js via Java library. Read wri
 
 {{< blocks/products/pf/support-learning-resources >}}
 {{< blocks/products/pf/slr-tab tabTitle="Learning Resources" tabId="resources" >}}
-{{< blocks/products/pf/slr-element name="Documentation" href="https://docs.aspose.com/cells/nodejsjava/" >}}
-{{< blocks/products/pf/slr-element name="Source Code" href="https://github.com/aspose-cells/Aspose.Cells-for-Java" >}}
-{{< blocks/products/pf/slr-element name="API References" href="https://reference.aspose.com/nodejs/cells" >}}
+{{< blocks/products/pf/slr-element name="Documentation" href="https://docs.aspose.com/cells/nodejs-cpp/" >}}
+{{< blocks/products/pf/slr-element name="Source Code" href="https://github.com/aspose-cells/aspose.cells-for-nodejs/" >}}
+{{< blocks/products/pf/slr-element name="API References" href="https://reference.aspose.com/cells/nodejs-cpp/" >}}
 {{< blocks/products/pf/slr-element name="Tutorial Videos" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
@@ -410,14 +407,14 @@ description: Process Excel file formats using Node.js via Java library. Read wri
 {{< blocks/products/pf/slr-element name="Blog" href="https://blog.aspose.com/category/cells/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
-{{< blocks/products/pf/slr-tab tabTitle="Why Aspose.Cells for Node.js via Java?" tabId="success-stories" >}}
+{{< blocks/products/pf/slr-tab tabTitle="Why Aspose.Cells for Node.js via C++?" tabId="success-stories" >}}
 {{< blocks/products/pf/slr-element name="Customers List" href="https://company.aspose.com/customers" >}}
 {{< blocks/products/pf/slr-element name="Success Stories" href="https://company.aspose.com/customers/success-stories/aspose-cells" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< /blocks/products/pf/support-learning-resources >}}
 
-{{< blocks/products/pf/download-section downloadFreeTrialLink="https://releases.aspose.com/cells/nodejs/" pricingInformationLink="https://purchase.aspose.com/pricing/cells/nodejs-java" >}}
+{{< blocks/products/pf/download-section downloadFreeTrialLink="https://releases.aspose.com/cells/nodejs-cpp/" pricingInformationLink="https://purchase.aspose.com/pricing/cells/" >}}
 
 {{< blocks/products/pf/offers-section pfName="Aspose.Cells" description="Aspose.Cells offers individual Excel APIs for other popular development environments as listed below:" >}}
 

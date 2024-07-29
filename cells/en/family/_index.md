@@ -55,6 +55,10 @@ Load, create, manipulate & render Excel documents using Python.
 Load, create, manipulate & render Excel documents using Python.
 {{< /blocks/products/pf/product >}}
 
+{{< blocks/products/pf/product pfName="Aspose.Cells for" title="Node.js via C++" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" productLink="/cells/nodejs-cpp/" >}}
+Create, manipulate, convert & render Excel spreadsheets via Node.js.
+{{< /blocks/products/pf/product >}}
+
 {{< /blocks/products/pf/product-card-row >}}
 {{< /blocks/products/pf/main-container >}}
 

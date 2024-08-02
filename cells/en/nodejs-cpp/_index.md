@@ -10,7 +10,7 @@ description: Process Excel file formats using Node.js via C++ library. Read writ
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells" subTitlepfName="for Node.js via C++" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/cells/" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/cells/nodejs-cpp/" installationsDocsLink="" nugetLink="" nugetPackageName="Microsoft Excel:" mavenRepoLink="" directDownloadLink="https://releases.aspose.com/cells/nodejs-cpp/" >}}
+{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/cells/nodejs-cpp" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/cells/nodejs-cpp/" installationsDocsLink="" nugetLink="" nugetPackageName="Microsoft Excel:" mavenRepoLink="" directDownloadLink="https://releases.aspose.com/cells/nodejs-cpp/" >}}
 
 {{< blocks/products/pf/tab-content >}}
 <p>
@@ -414,7 +414,8 @@ description: Process Excel file formats using Node.js via C++ library. Read writ
 
 {{< /blocks/products/pf/support-learning-resources >}}
 
-{{< blocks/products/pf/download-section downloadFreeTrialLink="https://releases.aspose.com/cells/nodejs-cpp/" pricingInformationLink="https://purchase.aspose.com/pricing/cells/" >}}
+
+{{< blocks/products/pf/download-section downloadFreeTrialLink="https://releases.aspose.com/cells/nodejs-cpp/" pricingInformationLink="https://purchase.aspose.com/pricing/cells/nodejs-cpp" >}}
 
 {{< blocks/products/pf/offers-section pfName="Aspose.Cells" description="Aspose.Cells offers individual Excel APIs for other popular development environments as listed below:" >}}
 

@@ -44,11 +44,9 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/text %}}
 
-+  Load ODS file by instantiating a Workbook class.
-+  Instantiate ReplaceOptions class.
-+  Set required Pattern like SetCaseSensitive(bool value), SetMatchEntireCellContents(bool value) .
-+  Use Workbook::Replace(...) method with relevant options.
-+  Save ODS file using Workbook::Save(...) method.
++  Load ODS file using Workbook class.
++  Get the cells in relevant sheet.
++  Search Numbers, Date and Text using Find method
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -71,29 +69,46 @@ PM> Install-Package Aspose.Cells.Cpp
 
 Aspose::Cells::Startup();
 
-// Source directory path.
-U16String srcDir(u"SourcePath\\");
+// searching cells containing specified string value or number
+Workbook workbook("book1.ods");
 
-// Output directory path.
-U16String outDir(u"OutputPath\\");
+// get cells collection
+Cells cells = workbook.GetWorksheets().Get(0).GetCells();
 
-// Load ODS file
-Workbook  wkb(srcDir + u"sourceFile.ods");
+FindOptions opts;
+opts.SetLookInType(LookInType::Values);
+opts.SetLookAtType(LookAtType::EntireContent);
 
-// Create an instance of the IReplaceOptions class
-ReplaceOptions replaceOptions;
+// find the cell with the input integer or double
+Cell cell1 = cells.Find(205, nullptr, opts);
 
-// Set case sensitivity option
-replaceOptions.SetCaseSensitive(false);
+if (!cell1.IsNull()) {
+	std::cout << "Name of the cell containing the value: " << cell1.GetName().ToUtf8() << std::endl;
+}
+else {
+	std::cout << "Record not found " << std::endl;
+}
 
-// Set text matching option
-replaceOptions.SetMatchEntireCellContents(false);
+// find the cell with the input string
+Cell cell2 = cells.Find(u"Items A", nullptr, opts);
 
-// Replace text
-wkb.Replace(u"Text to find", u"Text replacement", replaceOptions);
+if (!cell2.IsNull()) {
+	std::cout << "Name of the cell containing the value: " + cell2.GetName().ToUtf8() << std::endl;
+}
+else {
+	std::cout << "Record not found " << std::endl;
+}
 
-// Save as ODS file
-wkb.Save(outDir + u"outputFile.ods");
+// find the cell containing with the input string
+opts.SetLookAtType(LookAtType::Contains);
+Cell cell3 = cells.Find(u"Data", nullptr, opts);
+
+if (!cell3.IsNull()) {
+	std::cout << "Name of the cell containing the value: " + cell3.GetName().ToUtf8() << std::endl;
+}
+else {
+	std::cout << "Record not found " << std::endl;
+}
 
 Aspose::Cells::Cleanup();
 

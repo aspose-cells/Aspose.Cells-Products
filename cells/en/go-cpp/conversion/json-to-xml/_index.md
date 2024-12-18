@@ -82,7 +82,7 @@ There are three options to install "Aspose.Cells for Go via C++" onto your syste
 
 {{% /blocks/products/pf/agp/text %}}
 
-- Microsoft Windows or a compatible OS with Go via C++ Runtime Environment for Windows 32 bit, Windows 64 bit and Linux 64 bit.
+- Microsoft Windows or a compatible OS with Go via C++ Runtime Environment for Windows 64 bit and Linux 64 bit.
 - Add reference to the Aspose.Cells for Go via C++ DLL in your project.
 
 {{% /blocks/products/pf/agp/content %}}
@@ -96,41 +96,41 @@ There are three options to install "Aspose.Cells for Go via C++" onto your syste
 
 {{< blocks/products/pf/agp/other-supported-section title="Other Supported Conversions" subTitle="You can also convert JSON to many other file formats including few listed below." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/go-cpp/conversion/JSON-to-Xml/" name="JSON to Xml" description="Excel 95/5.0 - 2003 Workbook." >}} 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/go-cpp/conversion/JSON-to-Xml/" name="JSON to Xml" description="The Office Open XML SpreadsheetML File Format." >}} 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/go-cpp/conversion/JSON-to-Xml/" name="JSON to Xml" description="Excel Binary Workbook." >}} 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/go-cpp/conversion/JSON-to-Xml/" name="JSON to Xml" description="Excel Macro-Enabled Workbook." >}} 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/go-cpp/conversion/JSON-to-Xml/" name="JSON to Xml" description="Excel 97 - Excel 2003 Template." >}} 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/go-cpp/conversion/JSON-to-Xml/" name="JSON to Xml" description="Excel Template." >}} 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/go-cpp/conversion/JSON-to-Xml/" name="JSON to Xml" description="Excel Macro-Enabled Template." >}} 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/go-cpp/conversion/JSON-to-Xml/" name="JSON to Xml" description="An Excel Macro-Enabled Add-In file that’s used to add new functions to Excel." >}} 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/go-cpp/conversion/JSON-to-Xml/" name="JSON to Xml" description="CSV (Comma Separated Value) file." >}} 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/go-cpp/conversion/JSON-to-Xml/" name="JSON to Xml" description="TSV (Tab-separated values) file." >}} 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/go-cpp/conversion/JSON-to-Xml/" name="JSON to Xml" description="Delimited plain text file." >}} 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/go-cpp/conversion/JSON-to-Xml/" name="JSON to Xml" description="HTML format." >}} 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/go-cpp/conversion/JSON-to-Xml/" name="JSON to Xml" description="MHTML file." >}} 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/go-cpp/conversion/JSON-to-Xml/" name="JSON to Xml" description="ODS (OpenDocument Spreadsheet)." >}} 
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/go-cpp/conversion/XLS-to-Xml/" name="XLS to Xml" description="Excel 95/5.0 - 2003 Workbook." >}} 
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/go-cpp/conversion/XLSX-to-Xml/" name="XLSX to Xml" description="The Office Open XML SpreadsheetML File Format." >}} 
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/go-cpp/conversion/XLSB-to-Xml/" name="XLSB to Xml" description="Excel Binary Workbook." >}} 
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/go-cpp/conversion/XLSM-to-Xml/" name="XLSM to Xml" description="Excel Macro-Enabled Workbook." >}} 
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/go-cpp/conversion/XLT-to-Xml/" name="XLT to Xml" description="Excel 97 - Excel 2003 Template." >}} 
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/go-cpp/conversion/XLTX-to-Xml/" name="XLTX to Xml" description="Excel Template." >}} 
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/go-cpp/conversion/XLTM-to-Xml/" name="XLTM to Xml" description="Excel Macro-Enabled Template." >}} 
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/go-cpp/conversion/XLAM-to-Xml/" name="XLAM to Xml" description="An Excel Macro-Enabled Add-In file that’s used to add new functions to Excel." >}} 
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/go-cpp/conversion/CSV-to-Xml/" name="CSV to Xml" description="CSV (Comma Separated Value) file." >}} 
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/go-cpp/conversion/TSV-to-Xml/" name="TSV to Xml" description="TSV (Tab-separated values) file." >}} 
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/go-cpp/conversion/TXT-to-Xml/" name="TXT to Xml" description="Delimited plain text file." >}} 
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/go-cpp/conversion/HTML-to-Xml/" name="HTML to Xml" description="HTML format." >}} 
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/go-cpp/conversion/MHTML-to-Xml/" name="MHTML to Xml" description="MHTML file." >}} 
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/go-cpp/conversion/ODS-to-Xml/" name="ODS to Xml" description="ODS (OpenDocument Spreadsheet)." >}} 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/go-cpp/conversion/JSON-to-Xml/" name="JSON to Xml" description="JavaScript Object Notation" >}} 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/go-cpp/conversion/JSON-to-Xml/" name="JSON to Xml" description="Data Interchange Format." >}} 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/go-cpp/conversion/JSON-to-Xml/" name="JSON to Xml" description="Adobe Portable Document Format." >}} 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/go-cpp/conversion/JSON-to-Xml/" name="JSON to Xml" description="XML Paper Specification Format." >}} 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/go-cpp/conversion/JSON-to-Xml/" name="JSON to Xml" description="Scalable Vector Graphics Format." >}} 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/go-cpp/conversion/JSON-to-Xml/" name="JSON to Xml" description="Tagged Image File Format" >}} 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/go-cpp/conversion/JSON-to-Xml/" name="JSON to Xml" description="Portable Network Graphics Format" >}} 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/go-cpp/conversion/JSON-to-Xml/" name="JSON to Xml" description="Bitmap Image Format" >}} 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/go-cpp/conversion/JSON-to-Xml/" name="JSON to Xml" description="Enhanced metafile Format" >}} 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/go-cpp/conversion/JSON-to-Xml/" name="JSON to Xml" description="JPEG is a type of image format that is saved using the method of lossy compression." >}} 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/go-cpp/conversion/JSON-to-Xml/" name="JSON to Xml" description="Graphical Interchange Format" >}} 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/go-cpp/conversion/JSON-to-Xml/" name="JSON to Xml" description="Represents a markdown document." >}} 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/go-cpp/conversion/JSON-to-Xml/" name="JSON to Xml" description="An XML based format used by OpenOffice and StarOffice" >}} 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/go-cpp/conversion/JSON-to-Xml/" name="JSON to Xml" description="This is an Open Document format stored as flat XML." >}} 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/go-cpp/conversion/JSON-to-Xml/" name="JSON to Xml" description="A well-known format for Microsoft Word documents that is a combination of XML and binary files." >}} 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/go-cpp/conversion/JSON-to-Xml/" name="JSON to Xml" description="The PPTX format is based on the Microsoft PowerPoint open XML presentation file format." >}} 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/go-cpp/conversion/JSON-to-Xml/" name="JSON to Xml" description="" >}} 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/go-cpp/conversion/JSON-to-Xml/" name="JSON to Xml" description="" >}} 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/go-cpp/conversion/JSON-to-Xml/" name="JSON to Xml" description="" >}} 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/go-cpp/conversion/JSON-to-Xml/" name="JSON to Xml" description="" >}} 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/go-cpp/conversion/JSON-to-Xml/" name="JSON to Xml" description="AZW is a digital ebook file format developed by Amazon for its Kindle devices. AZW3, also known as Kindle Format 8 (KF8)." >}} 
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/go-cpp/conversion/DIF-to-Xml/" name="DIF to Xml" description="Data Interchange Format." >}} 
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/go-cpp/conversion/PDF-to-Xml/" name="PDF to Xml" description="Adobe Portable Document Format." >}} 
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/go-cpp/conversion/XPS-to-Xml/" name="XPS to Xml" description="XML Paper Specification Format." >}} 
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/go-cpp/conversion/SVG-to-Xml/" name="SVG to Xml" description="Scalable Vector Graphics Format." >}} 
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/go-cpp/conversion/TIFF-to-Xml/" name="TIFF to Xml" description="Tagged Image File Format" >}} 
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/go-cpp/conversion/PNG-to-Xml/" name="PNG to Xml" description="Portable Network Graphics Format" >}} 
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/go-cpp/conversion/BMP-to-Xml/" name="BMP to Xml" description="Bitmap Image Format" >}} 
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/go-cpp/conversion/EMF-to-Xml/" name="EMF to Xml" description="Enhanced metafile Format" >}} 
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/go-cpp/conversion/JPEG-to-Xml/" name="JPEG to Xml" description="JPEG is a type of image format that is saved using the method of lossy compression." >}} 
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/go-cpp/conversion/GIF-to-Xml/" name="GIF to Xml" description="Graphical Interchange Format" >}} 
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/go-cpp/conversion/MARKDOWN-to-Xml/" name="MARKDOWN to Xml" description="Represents a markdown document." >}} 
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/go-cpp/conversion/SXC-to-Xml/" name="SXC to Xml" description="An XML based format used by OpenOffice and StarOffice" >}} 
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/go-cpp/conversion/FODS-to-Xml/" name="FODS to Xml" description="This is an Open Document format stored as flat XML." >}} 
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/go-cpp/conversion/DOCX-to-Xml/" name="DOCX to Xml" description="A well-known format for Microsoft Word documents that is a combination of XML and binary files." >}} 
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/go-cpp/conversion/PPTX-to-Xml/" name="PPTX to Xml" description="The PPTX format is based on the Microsoft PowerPoint open XML presentation file format." >}} 
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/go-cpp/conversion/SqlScript-to-Xml/" name="SqlScript to Xml" description="" >}} 
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/go-cpp/conversion/XHtml-to-Xml/" name="XHtml to Xml" description="" >}} 
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/go-cpp/conversion/Epub-to-Xml/" name="Epub to Xml" description="" >}} 
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/go-cpp/conversion/Ots-to-Xml/" name="Ots to Xml" description="" >}} 
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/go-cpp/conversion/AZW3-to-Xml/" name="AZW3 to Xml" description="AZW is a digital ebook file format developed by Amazon for its Kindle devices. AZW3, also known as Kindle Format 8 (KF8)." >}} 
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

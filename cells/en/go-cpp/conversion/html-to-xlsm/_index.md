@@ -82,7 +82,7 @@ There are three options to install "Aspose.Cells for Go via C++" onto your syste
 
 {{% /blocks/products/pf/agp/text %}}
 
-- Microsoft Windows or a compatible OS with Go via C++ Runtime Environment for Windows 32 bit, Windows 64 bit and Linux 64 bit.
+- Microsoft Windows or a compatible OS with Go via C++ Runtime Environment for Windows 64 bit and Linux 64 bit.
 - Add reference to the Aspose.Cells for Go via C++ DLL in your project.
 
 {{% /blocks/products/pf/agp/content %}}
@@ -96,41 +96,41 @@ There are three options to install "Aspose.Cells for Go via C++" onto your syste
 
 {{< blocks/products/pf/agp/other-supported-section title="Other Supported Conversions" subTitle="You can also convert HTML to many other file formats including few listed below." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/go-cpp/conversion/HTML-to-XLSM/" name="HTML to XLSM" description="Excel 95/5.0 - 2003 Workbook." >}} 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/go-cpp/conversion/HTML-to-XLSM/" name="HTML to XLSM" description="The Office Open XML SpreadsheetML File Format." >}} 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/go-cpp/conversion/HTML-to-XLSM/" name="HTML to XLSM" description="Excel Binary Workbook." >}} 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/go-cpp/conversion/HTML-to-XLSM/" name="HTML to XLSM" description="Excel 97 - Excel 2003 Template." >}} 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/go-cpp/conversion/HTML-to-XLSM/" name="HTML to XLSM" description="Excel Template." >}} 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/go-cpp/conversion/HTML-to-XLSM/" name="HTML to XLSM" description="Excel Macro-Enabled Template." >}} 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/go-cpp/conversion/HTML-to-XLSM/" name="HTML to XLSM" description="An Excel Macro-Enabled Add-In file that’s used to add new functions to Excel." >}} 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/go-cpp/conversion/HTML-to-XLSM/" name="HTML to XLSM" description="CSV (Comma Separated Value) file." >}} 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/go-cpp/conversion/HTML-to-XLSM/" name="HTML to XLSM" description="TSV (Tab-separated values) file." >}} 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/go-cpp/conversion/HTML-to-XLSM/" name="HTML to XLSM" description="Delimited plain text file." >}} 
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/go-cpp/conversion/XLS-to-XLSM/" name="XLS to XLSM" description="Excel 95/5.0 - 2003 Workbook." >}} 
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/go-cpp/conversion/XLSX-to-XLSM/" name="XLSX to XLSM" description="The Office Open XML SpreadsheetML File Format." >}} 
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/go-cpp/conversion/XLSB-to-XLSM/" name="XLSB to XLSM" description="Excel Binary Workbook." >}} 
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/go-cpp/conversion/XLT-to-XLSM/" name="XLT to XLSM" description="Excel 97 - Excel 2003 Template." >}} 
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/go-cpp/conversion/XLTX-to-XLSM/" name="XLTX to XLSM" description="Excel Template." >}} 
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/go-cpp/conversion/XLTM-to-XLSM/" name="XLTM to XLSM" description="Excel Macro-Enabled Template." >}} 
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/go-cpp/conversion/XLAM-to-XLSM/" name="XLAM to XLSM" description="An Excel Macro-Enabled Add-In file that’s used to add new functions to Excel." >}} 
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/go-cpp/conversion/CSV-to-XLSM/" name="CSV to XLSM" description="CSV (Comma Separated Value) file." >}} 
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/go-cpp/conversion/TSV-to-XLSM/" name="TSV to XLSM" description="TSV (Tab-separated values) file." >}} 
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/go-cpp/conversion/TXT-to-XLSM/" name="TXT to XLSM" description="Delimited plain text file." >}} 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/go-cpp/conversion/HTML-to-XLSM/" name="HTML to XLSM" description="HTML format." >}} 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/go-cpp/conversion/HTML-to-XLSM/" name="HTML to XLSM" description="MHTML file." >}} 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/go-cpp/conversion/HTML-to-XLSM/" name="HTML to XLSM" description="ODS (OpenDocument Spreadsheet)." >}} 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/go-cpp/conversion/HTML-to-XLSM/" name="HTML to XLSM" description="JavaScript Object Notation" >}} 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/go-cpp/conversion/HTML-to-XLSM/" name="HTML to XLSM" description="Data Interchange Format." >}} 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/go-cpp/conversion/HTML-to-XLSM/" name="HTML to XLSM" description="Adobe Portable Document Format." >}} 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/go-cpp/conversion/HTML-to-XLSM/" name="HTML to XLSM" description="XML Paper Specification Format." >}} 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/go-cpp/conversion/HTML-to-XLSM/" name="HTML to XLSM" description="Scalable Vector Graphics Format." >}} 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/go-cpp/conversion/HTML-to-XLSM/" name="HTML to XLSM" description="Tagged Image File Format" >}} 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/go-cpp/conversion/HTML-to-XLSM/" name="HTML to XLSM" description="Portable Network Graphics Format" >}} 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/go-cpp/conversion/HTML-to-XLSM/" name="HTML to XLSM" description="Bitmap Image Format" >}} 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/go-cpp/conversion/HTML-to-XLSM/" name="HTML to XLSM" description="Enhanced metafile Format" >}} 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/go-cpp/conversion/HTML-to-XLSM/" name="HTML to XLSM" description="JPEG is a type of image format that is saved using the method of lossy compression." >}} 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/go-cpp/conversion/HTML-to-XLSM/" name="HTML to XLSM" description="Graphical Interchange Format" >}} 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/go-cpp/conversion/HTML-to-XLSM/" name="HTML to XLSM" description="Represents a markdown document." >}} 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/go-cpp/conversion/HTML-to-XLSM/" name="HTML to XLSM" description="An XML based format used by OpenOffice and StarOffice" >}} 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/go-cpp/conversion/HTML-to-XLSM/" name="HTML to XLSM" description="This is an Open Document format stored as flat XML." >}} 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/go-cpp/conversion/HTML-to-XLSM/" name="HTML to XLSM" description="A well-known format for Microsoft Word documents that is a combination of XML and binary files." >}} 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/go-cpp/conversion/HTML-to-XLSM/" name="HTML to XLSM" description="The PPTX format is based on the Microsoft PowerPoint open XML presentation file format." >}} 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/go-cpp/conversion/HTML-to-XLSM/" name="HTML to XLSM" description="" >}} 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/go-cpp/conversion/HTML-to-XLSM/" name="HTML to XLSM" description="" >}} 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/go-cpp/conversion/HTML-to-XLSM/" name="HTML to XLSM" description="" >}} 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/go-cpp/conversion/HTML-to-XLSM/" name="HTML to XLSM" description="" >}} 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/go-cpp/conversion/HTML-to-XLSM/" name="HTML to XLSM" description="" >}} 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/go-cpp/conversion/HTML-to-XLSM/" name="HTML to XLSM" description="AZW is a digital ebook file format developed by Amazon for its Kindle devices. AZW3, also known as Kindle Format 8 (KF8)." >}} 
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/go-cpp/conversion/MHTML-to-XLSM/" name="MHTML to XLSM" description="MHTML file." >}} 
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/go-cpp/conversion/ODS-to-XLSM/" name="ODS to XLSM" description="ODS (OpenDocument Spreadsheet)." >}} 
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/go-cpp/conversion/JSON-to-XLSM/" name="JSON to XLSM" description="JavaScript Object Notation" >}} 
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/go-cpp/conversion/DIF-to-XLSM/" name="DIF to XLSM" description="Data Interchange Format." >}} 
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/go-cpp/conversion/PDF-to-XLSM/" name="PDF to XLSM" description="Adobe Portable Document Format." >}} 
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/go-cpp/conversion/XPS-to-XLSM/" name="XPS to XLSM" description="XML Paper Specification Format." >}} 
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/go-cpp/conversion/SVG-to-XLSM/" name="SVG to XLSM" description="Scalable Vector Graphics Format." >}} 
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/go-cpp/conversion/TIFF-to-XLSM/" name="TIFF to XLSM" description="Tagged Image File Format" >}} 
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/go-cpp/conversion/PNG-to-XLSM/" name="PNG to XLSM" description="Portable Network Graphics Format" >}} 
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/go-cpp/conversion/BMP-to-XLSM/" name="BMP to XLSM" description="Bitmap Image Format" >}} 
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/go-cpp/conversion/EMF-to-XLSM/" name="EMF to XLSM" description="Enhanced metafile Format" >}} 
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/go-cpp/conversion/JPEG-to-XLSM/" name="JPEG to XLSM" description="JPEG is a type of image format that is saved using the method of lossy compression." >}} 
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/go-cpp/conversion/GIF-to-XLSM/" name="GIF to XLSM" description="Graphical Interchange Format" >}} 
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/go-cpp/conversion/MARKDOWN-to-XLSM/" name="MARKDOWN to XLSM" description="Represents a markdown document." >}} 
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/go-cpp/conversion/SXC-to-XLSM/" name="SXC to XLSM" description="An XML based format used by OpenOffice and StarOffice" >}} 
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/go-cpp/conversion/FODS-to-XLSM/" name="FODS to XLSM" description="This is an Open Document format stored as flat XML." >}} 
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/go-cpp/conversion/DOCX-to-XLSM/" name="DOCX to XLSM" description="A well-known format for Microsoft Word documents that is a combination of XML and binary files." >}} 
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/go-cpp/conversion/PPTX-to-XLSM/" name="PPTX to XLSM" description="The PPTX format is based on the Microsoft PowerPoint open XML presentation file format." >}} 
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/go-cpp/conversion/SqlScript-to-XLSM/" name="SqlScript to XLSM" description="" >}} 
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/go-cpp/conversion/XHtml-to-XLSM/" name="XHtml to XLSM" description="" >}} 
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/go-cpp/conversion/Epub-to-XLSM/" name="Epub to XLSM" description="" >}} 
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/go-cpp/conversion/Xml-to-XLSM/" name="Xml to XLSM" description="" >}} 
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/go-cpp/conversion/Ots-to-XLSM/" name="Ots to XLSM" description="" >}} 
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/go-cpp/conversion/AZW3-to-XLSM/" name="AZW3 to XLSM" description="AZW is a digital ebook file format developed by Amazon for its Kindle devices. AZW3, also known as Kindle Format 8 (KF8)." >}} 
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

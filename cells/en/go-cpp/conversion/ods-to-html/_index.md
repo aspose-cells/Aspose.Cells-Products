@@ -82,7 +82,7 @@ There are three options to install "Aspose.Cells for Go via C++" onto your syste
 
 {{% /blocks/products/pf/agp/text %}}
 
-- Microsoft Windows or a compatible OS with Go via C++ Runtime Environment for Windows 32 bit, Windows 64 bit and Linux 64 bit.
+- Microsoft Windows or a compatible OS with Go via C++ Runtime Environment for Windows 64 bit and Linux 64 bit.
 - Add reference to the Aspose.Cells for Go via C++ DLL in your project.
 
 {{% /blocks/products/pf/agp/content %}}
@@ -96,41 +96,41 @@ There are three options to install "Aspose.Cells for Go via C++" onto your syste
 
 {{< blocks/products/pf/agp/other-supported-section title="Other Supported Conversions" subTitle="You can also convert ODS to many other file formats including few listed below." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/go-cpp/conversion/ODS-to-HTML/" name="ODS to HTML" description="Excel 95/5.0 - 2003 Workbook." >}} 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/go-cpp/conversion/ODS-to-HTML/" name="ODS to HTML" description="The Office Open XML SpreadsheetML File Format." >}} 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/go-cpp/conversion/ODS-to-HTML/" name="ODS to HTML" description="Excel Binary Workbook." >}} 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/go-cpp/conversion/ODS-to-HTML/" name="ODS to HTML" description="Excel Macro-Enabled Workbook." >}} 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/go-cpp/conversion/ODS-to-HTML/" name="ODS to HTML" description="Excel 97 - Excel 2003 Template." >}} 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/go-cpp/conversion/ODS-to-HTML/" name="ODS to HTML" description="Excel Template." >}} 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/go-cpp/conversion/ODS-to-HTML/" name="ODS to HTML" description="Excel Macro-Enabled Template." >}} 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/go-cpp/conversion/ODS-to-HTML/" name="ODS to HTML" description="An Excel Macro-Enabled Add-In file that’s used to add new functions to Excel." >}} 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/go-cpp/conversion/ODS-to-HTML/" name="ODS to HTML" description="CSV (Comma Separated Value) file." >}} 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/go-cpp/conversion/ODS-to-HTML/" name="ODS to HTML" description="TSV (Tab-separated values) file." >}} 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/go-cpp/conversion/ODS-to-HTML/" name="ODS to HTML" description="Delimited plain text file." >}} 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/go-cpp/conversion/ODS-to-HTML/" name="ODS to HTML" description="MHTML file." >}} 
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/go-cpp/conversion/XLS-to-HTML/" name="XLS to HTML" description="Excel 95/5.0 - 2003 Workbook." >}} 
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/go-cpp/conversion/XLSX-to-HTML/" name="XLSX to HTML" description="The Office Open XML SpreadsheetML File Format." >}} 
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/go-cpp/conversion/XLSB-to-HTML/" name="XLSB to HTML" description="Excel Binary Workbook." >}} 
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/go-cpp/conversion/XLSM-to-HTML/" name="XLSM to HTML" description="Excel Macro-Enabled Workbook." >}} 
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/go-cpp/conversion/XLT-to-HTML/" name="XLT to HTML" description="Excel 97 - Excel 2003 Template." >}} 
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/go-cpp/conversion/XLTX-to-HTML/" name="XLTX to HTML" description="Excel Template." >}} 
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/go-cpp/conversion/XLTM-to-HTML/" name="XLTM to HTML" description="Excel Macro-Enabled Template." >}} 
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/go-cpp/conversion/XLAM-to-HTML/" name="XLAM to HTML" description="An Excel Macro-Enabled Add-In file that’s used to add new functions to Excel." >}} 
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/go-cpp/conversion/CSV-to-HTML/" name="CSV to HTML" description="CSV (Comma Separated Value) file." >}} 
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/go-cpp/conversion/TSV-to-HTML/" name="TSV to HTML" description="TSV (Tab-separated values) file." >}} 
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/go-cpp/conversion/TXT-to-HTML/" name="TXT to HTML" description="Delimited plain text file." >}} 
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/go-cpp/conversion/MHTML-to-HTML/" name="MHTML to HTML" description="MHTML file." >}} 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/go-cpp/conversion/ODS-to-HTML/" name="ODS to HTML" description="ODS (OpenDocument Spreadsheet)." >}} 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/go-cpp/conversion/ODS-to-HTML/" name="ODS to HTML" description="JavaScript Object Notation" >}} 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/go-cpp/conversion/ODS-to-HTML/" name="ODS to HTML" description="Data Interchange Format." >}} 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/go-cpp/conversion/ODS-to-HTML/" name="ODS to HTML" description="Adobe Portable Document Format." >}} 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/go-cpp/conversion/ODS-to-HTML/" name="ODS to HTML" description="XML Paper Specification Format." >}} 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/go-cpp/conversion/ODS-to-HTML/" name="ODS to HTML" description="Scalable Vector Graphics Format." >}} 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/go-cpp/conversion/ODS-to-HTML/" name="ODS to HTML" description="Tagged Image File Format" >}} 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/go-cpp/conversion/ODS-to-HTML/" name="ODS to HTML" description="Portable Network Graphics Format" >}} 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/go-cpp/conversion/ODS-to-HTML/" name="ODS to HTML" description="Bitmap Image Format" >}} 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/go-cpp/conversion/ODS-to-HTML/" name="ODS to HTML" description="Enhanced metafile Format" >}} 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/go-cpp/conversion/ODS-to-HTML/" name="ODS to HTML" description="JPEG is a type of image format that is saved using the method of lossy compression." >}} 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/go-cpp/conversion/ODS-to-HTML/" name="ODS to HTML" description="Graphical Interchange Format" >}} 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/go-cpp/conversion/ODS-to-HTML/" name="ODS to HTML" description="Represents a markdown document." >}} 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/go-cpp/conversion/ODS-to-HTML/" name="ODS to HTML" description="An XML based format used by OpenOffice and StarOffice" >}} 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/go-cpp/conversion/ODS-to-HTML/" name="ODS to HTML" description="This is an Open Document format stored as flat XML." >}} 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/go-cpp/conversion/ODS-to-HTML/" name="ODS to HTML" description="A well-known format for Microsoft Word documents that is a combination of XML and binary files." >}} 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/go-cpp/conversion/ODS-to-HTML/" name="ODS to HTML" description="The PPTX format is based on the Microsoft PowerPoint open XML presentation file format." >}} 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/go-cpp/conversion/ODS-to-HTML/" name="ODS to HTML" description="" >}} 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/go-cpp/conversion/ODS-to-HTML/" name="ODS to HTML" description="" >}} 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/go-cpp/conversion/ODS-to-HTML/" name="ODS to HTML" description="" >}} 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/go-cpp/conversion/ODS-to-HTML/" name="ODS to HTML" description="" >}} 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/go-cpp/conversion/ODS-to-HTML/" name="ODS to HTML" description="" >}} 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/go-cpp/conversion/ODS-to-HTML/" name="ODS to HTML" description="AZW is a digital ebook file format developed by Amazon for its Kindle devices. AZW3, also known as Kindle Format 8 (KF8)." >}} 
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/go-cpp/conversion/JSON-to-HTML/" name="JSON to HTML" description="JavaScript Object Notation" >}} 
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/go-cpp/conversion/DIF-to-HTML/" name="DIF to HTML" description="Data Interchange Format." >}} 
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/go-cpp/conversion/PDF-to-HTML/" name="PDF to HTML" description="Adobe Portable Document Format." >}} 
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/go-cpp/conversion/XPS-to-HTML/" name="XPS to HTML" description="XML Paper Specification Format." >}} 
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/go-cpp/conversion/SVG-to-HTML/" name="SVG to HTML" description="Scalable Vector Graphics Format." >}} 
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/go-cpp/conversion/TIFF-to-HTML/" name="TIFF to HTML" description="Tagged Image File Format" >}} 
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/go-cpp/conversion/PNG-to-HTML/" name="PNG to HTML" description="Portable Network Graphics Format" >}} 
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/go-cpp/conversion/BMP-to-HTML/" name="BMP to HTML" description="Bitmap Image Format" >}} 
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/go-cpp/conversion/EMF-to-HTML/" name="EMF to HTML" description="Enhanced metafile Format" >}} 
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/go-cpp/conversion/JPEG-to-HTML/" name="JPEG to HTML" description="JPEG is a type of image format that is saved using the method of lossy compression." >}} 
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/go-cpp/conversion/GIF-to-HTML/" name="GIF to HTML" description="Graphical Interchange Format" >}} 
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/go-cpp/conversion/MARKDOWN-to-HTML/" name="MARKDOWN to HTML" description="Represents a markdown document." >}} 
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/go-cpp/conversion/SXC-to-HTML/" name="SXC to HTML" description="An XML based format used by OpenOffice and StarOffice" >}} 
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/go-cpp/conversion/FODS-to-HTML/" name="FODS to HTML" description="This is an Open Document format stored as flat XML." >}} 
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/go-cpp/conversion/DOCX-to-HTML/" name="DOCX to HTML" description="A well-known format for Microsoft Word documents that is a combination of XML and binary files." >}} 
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/go-cpp/conversion/PPTX-to-HTML/" name="PPTX to HTML" description="The PPTX format is based on the Microsoft PowerPoint open XML presentation file format." >}} 
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/go-cpp/conversion/SqlScript-to-HTML/" name="SqlScript to HTML" description="" >}} 
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/go-cpp/conversion/XHtml-to-HTML/" name="XHtml to HTML" description="" >}} 
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/go-cpp/conversion/Epub-to-HTML/" name="Epub to HTML" description="" >}} 
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/go-cpp/conversion/Xml-to-HTML/" name="Xml to HTML" description="" >}} 
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/go-cpp/conversion/Ots-to-HTML/" name="Ots to HTML" description="" >}} 
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/go-cpp/conversion/AZW3-to-HTML/" name="AZW3 to HTML" description="AZW is a digital ebook file format developed by Amazon for its Kindle devices. AZW3, also known as Kindle Format 8 (KF8)." >}} 
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

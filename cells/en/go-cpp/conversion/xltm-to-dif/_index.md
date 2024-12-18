@@ -82,7 +82,7 @@ There are three options to install "Aspose.Cells for Go via C++" onto your syste
 
 {{% /blocks/products/pf/agp/text %}}
 
-- Microsoft Windows or a compatible OS with Go via C++ Runtime Environment for Windows 32 bit, Windows 64 bit and Linux 64 bit.
+- Microsoft Windows or a compatible OS with Go via C++ Runtime Environment for Windows 64 bit and Linux 64 bit.
 - Add reference to the Aspose.Cells for Go via C++ DLL in your project.
 
 {{% /blocks/products/pf/agp/content %}}
@@ -96,41 +96,41 @@ There are three options to install "Aspose.Cells for Go via C++" onto your syste
 
 {{< blocks/products/pf/agp/other-supported-section title="Other Supported Conversions" subTitle="You can also convert XLTM to many other file formats including few listed below." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/go-cpp/conversion/XLTM-to-DIF/" name="XLTM to DIF" description="Excel 95/5.0 - 2003 Workbook." >}} 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/go-cpp/conversion/XLTM-to-DIF/" name="XLTM to DIF" description="The Office Open XML SpreadsheetML File Format." >}} 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/go-cpp/conversion/XLTM-to-DIF/" name="XLTM to DIF" description="Excel Binary Workbook." >}} 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/go-cpp/conversion/XLTM-to-DIF/" name="XLTM to DIF" description="Excel Macro-Enabled Workbook." >}} 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/go-cpp/conversion/XLTM-to-DIF/" name="XLTM to DIF" description="Excel 97 - Excel 2003 Template." >}} 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/go-cpp/conversion/XLTM-to-DIF/" name="XLTM to DIF" description="Excel Template." >}} 
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/go-cpp/conversion/XLS-to-DIF/" name="XLS to DIF" description="Excel 95/5.0 - 2003 Workbook." >}} 
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/go-cpp/conversion/XLSX-to-DIF/" name="XLSX to DIF" description="The Office Open XML SpreadsheetML File Format." >}} 
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/go-cpp/conversion/XLSB-to-DIF/" name="XLSB to DIF" description="Excel Binary Workbook." >}} 
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/go-cpp/conversion/XLSM-to-DIF/" name="XLSM to DIF" description="Excel Macro-Enabled Workbook." >}} 
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/go-cpp/conversion/XLT-to-DIF/" name="XLT to DIF" description="Excel 97 - Excel 2003 Template." >}} 
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/go-cpp/conversion/XLTX-to-DIF/" name="XLTX to DIF" description="Excel Template." >}} 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/go-cpp/conversion/XLTM-to-DIF/" name="XLTM to DIF" description="Excel Macro-Enabled Template." >}} 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/go-cpp/conversion/XLTM-to-DIF/" name="XLTM to DIF" description="An Excel Macro-Enabled Add-In file that’s used to add new functions to Excel." >}} 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/go-cpp/conversion/XLTM-to-DIF/" name="XLTM to DIF" description="CSV (Comma Separated Value) file." >}} 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/go-cpp/conversion/XLTM-to-DIF/" name="XLTM to DIF" description="TSV (Tab-separated values) file." >}} 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/go-cpp/conversion/XLTM-to-DIF/" name="XLTM to DIF" description="Delimited plain text file." >}} 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/go-cpp/conversion/XLTM-to-DIF/" name="XLTM to DIF" description="HTML format." >}} 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/go-cpp/conversion/XLTM-to-DIF/" name="XLTM to DIF" description="MHTML file." >}} 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/go-cpp/conversion/XLTM-to-DIF/" name="XLTM to DIF" description="ODS (OpenDocument Spreadsheet)." >}} 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/go-cpp/conversion/XLTM-to-DIF/" name="XLTM to DIF" description="JavaScript Object Notation" >}} 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/go-cpp/conversion/XLTM-to-DIF/" name="XLTM to DIF" description="Adobe Portable Document Format." >}} 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/go-cpp/conversion/XLTM-to-DIF/" name="XLTM to DIF" description="XML Paper Specification Format." >}} 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/go-cpp/conversion/XLTM-to-DIF/" name="XLTM to DIF" description="Scalable Vector Graphics Format." >}} 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/go-cpp/conversion/XLTM-to-DIF/" name="XLTM to DIF" description="Tagged Image File Format" >}} 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/go-cpp/conversion/XLTM-to-DIF/" name="XLTM to DIF" description="Portable Network Graphics Format" >}} 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/go-cpp/conversion/XLTM-to-DIF/" name="XLTM to DIF" description="Bitmap Image Format" >}} 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/go-cpp/conversion/XLTM-to-DIF/" name="XLTM to DIF" description="Enhanced metafile Format" >}} 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/go-cpp/conversion/XLTM-to-DIF/" name="XLTM to DIF" description="JPEG is a type of image format that is saved using the method of lossy compression." >}} 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/go-cpp/conversion/XLTM-to-DIF/" name="XLTM to DIF" description="Graphical Interchange Format" >}} 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/go-cpp/conversion/XLTM-to-DIF/" name="XLTM to DIF" description="Represents a markdown document." >}} 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/go-cpp/conversion/XLTM-to-DIF/" name="XLTM to DIF" description="An XML based format used by OpenOffice and StarOffice" >}} 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/go-cpp/conversion/XLTM-to-DIF/" name="XLTM to DIF" description="This is an Open Document format stored as flat XML." >}} 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/go-cpp/conversion/XLTM-to-DIF/" name="XLTM to DIF" description="A well-known format for Microsoft Word documents that is a combination of XML and binary files." >}} 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/go-cpp/conversion/XLTM-to-DIF/" name="XLTM to DIF" description="The PPTX format is based on the Microsoft PowerPoint open XML presentation file format." >}} 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/go-cpp/conversion/XLTM-to-DIF/" name="XLTM to DIF" description="" >}} 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/go-cpp/conversion/XLTM-to-DIF/" name="XLTM to DIF" description="" >}} 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/go-cpp/conversion/XLTM-to-DIF/" name="XLTM to DIF" description="" >}} 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/go-cpp/conversion/XLTM-to-DIF/" name="XLTM to DIF" description="" >}} 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/go-cpp/conversion/XLTM-to-DIF/" name="XLTM to DIF" description="" >}} 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/go-cpp/conversion/XLTM-to-DIF/" name="XLTM to DIF" description="AZW is a digital ebook file format developed by Amazon for its Kindle devices. AZW3, also known as Kindle Format 8 (KF8)." >}} 
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/go-cpp/conversion/XLAM-to-DIF/" name="XLAM to DIF" description="An Excel Macro-Enabled Add-In file that’s used to add new functions to Excel." >}} 
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/go-cpp/conversion/CSV-to-DIF/" name="CSV to DIF" description="CSV (Comma Separated Value) file." >}} 
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/go-cpp/conversion/TSV-to-DIF/" name="TSV to DIF" description="TSV (Tab-separated values) file." >}} 
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/go-cpp/conversion/TXT-to-DIF/" name="TXT to DIF" description="Delimited plain text file." >}} 
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/go-cpp/conversion/HTML-to-DIF/" name="HTML to DIF" description="HTML format." >}} 
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/go-cpp/conversion/MHTML-to-DIF/" name="MHTML to DIF" description="MHTML file." >}} 
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/go-cpp/conversion/ODS-to-DIF/" name="ODS to DIF" description="ODS (OpenDocument Spreadsheet)." >}} 
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/go-cpp/conversion/JSON-to-DIF/" name="JSON to DIF" description="JavaScript Object Notation" >}} 
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/go-cpp/conversion/PDF-to-DIF/" name="PDF to DIF" description="Adobe Portable Document Format." >}} 
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/go-cpp/conversion/XPS-to-DIF/" name="XPS to DIF" description="XML Paper Specification Format." >}} 
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/go-cpp/conversion/SVG-to-DIF/" name="SVG to DIF" description="Scalable Vector Graphics Format." >}} 
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/go-cpp/conversion/TIFF-to-DIF/" name="TIFF to DIF" description="Tagged Image File Format" >}} 
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/go-cpp/conversion/PNG-to-DIF/" name="PNG to DIF" description="Portable Network Graphics Format" >}} 
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/go-cpp/conversion/BMP-to-DIF/" name="BMP to DIF" description="Bitmap Image Format" >}} 
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/go-cpp/conversion/EMF-to-DIF/" name="EMF to DIF" description="Enhanced metafile Format" >}} 
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/go-cpp/conversion/JPEG-to-DIF/" name="JPEG to DIF" description="JPEG is a type of image format that is saved using the method of lossy compression." >}} 
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/go-cpp/conversion/GIF-to-DIF/" name="GIF to DIF" description="Graphical Interchange Format" >}} 
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/go-cpp/conversion/MARKDOWN-to-DIF/" name="MARKDOWN to DIF" description="Represents a markdown document." >}} 
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/go-cpp/conversion/SXC-to-DIF/" name="SXC to DIF" description="An XML based format used by OpenOffice and StarOffice" >}} 
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/go-cpp/conversion/FODS-to-DIF/" name="FODS to DIF" description="This is an Open Document format stored as flat XML." >}} 
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/go-cpp/conversion/DOCX-to-DIF/" name="DOCX to DIF" description="A well-known format for Microsoft Word documents that is a combination of XML and binary files." >}} 
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/go-cpp/conversion/PPTX-to-DIF/" name="PPTX to DIF" description="The PPTX format is based on the Microsoft PowerPoint open XML presentation file format." >}} 
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/go-cpp/conversion/SqlScript-to-DIF/" name="SqlScript to DIF" description="" >}} 
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/go-cpp/conversion/XHtml-to-DIF/" name="XHtml to DIF" description="" >}} 
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/go-cpp/conversion/Epub-to-DIF/" name="Epub to DIF" description="" >}} 
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/go-cpp/conversion/Xml-to-DIF/" name="Xml to DIF" description="" >}} 
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/go-cpp/conversion/Ots-to-DIF/" name="Ots to DIF" description="" >}} 
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/go-cpp/conversion/AZW3-to-DIF/" name="AZW3 to DIF" description="AZW is a digital ebook file format developed by Amazon for its Kindle devices. AZW3, also known as Kindle Format 8 (KF8)." >}} 
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

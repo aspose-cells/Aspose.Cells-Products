@@ -2,7 +2,7 @@
 title: Edit or View ODS Document Metadata with Go via C++
 weight: 8970
 
-description: Go via C++ example code to edit or view ODS file metadata on Go via C++ Runtime Environment for Windows 32 bit, Windows 64 bit and Linux 64 bit.
+description: Go via C++ example code to edit or view ODS file metadata on Go via C++ Runtime Environment for Windows 64 bit and Linux 64 bit.
 keywords: [Go via C++ Aspose.Cells., Go via C++ view ods metadata., Go via C++ add ods metadata., Go via C++ insert ods metadata., Go via C++ edit ods metadata., Go via C++ remove ods metadata., Go via C++ extract ods metadata., Go via C++ modify ods metadata]
 ---
 
@@ -61,7 +61,7 @@ import (
 
 {{% /blocks/products/pf/agp/text %}}
 
--  Microsoft Windows or a compatible OS with Go via C++ Runtime Environment for Windows 32 bit, Windows 64 bit and Linux 64 bit.
+-  Microsoft Windows or a compatible OS with Go via C++ Runtime Environment for Windows 64 bit and Linux 64 bit.
 -  Add reference to the Aspose.Cells for Go via C++ DLL in your project.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

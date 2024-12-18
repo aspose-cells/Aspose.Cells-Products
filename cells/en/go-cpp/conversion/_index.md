@@ -13,7 +13,7 @@ For any spreadsheet converter application or solution, **Go via C++ Excel Librar
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{% blocks/products/pf/feature-page-section  h2="Inter-conversion of Microsoft Excel Formats" %}}
-Converting between spreadsheet formats only requires loading the spreadsheet using the [Workbook](https://reference.aspose.com/cells/go-cpp/aspose.cells/workbook/) class and re-saving it in the required format using the [Save](https://reference.aspose.com/cells/go-cpp/aspose.cells/workbook/save/) method of the [Workbook](https://reference.aspose.com/cells/go-cpp/aspose.cells/workbook/) class.
+Converting between spreadsheet formats only requires loading the spreadsheet using the [Workbook](https://reference.aspose.com/cells/go-cpp/workbook/) class and re-saving it in the required format using the [Save](https://reference.aspose.com/cells/go-cpp/workbook/save_string/) method of the [Workbook](https://reference.aspose.com/cells/go-cpp//workbook/) class.
 {{% blocks/products/pf/feature-page-code h3="Go via C++ Example Code for Excel File Format Conversion" %}}
 
 ```go
@@ -35,7 +35,7 @@ workbook.Save_String("output_excel_format.xlsx")
 
 
 {{% blocks/products/pf/feature-page-section  h2="Convert Excel Formats to PDF with Compliance Level Settings" %}}
-Go via C++ Excel Automation API supports conversion of Workbooks to PDF as well as support setting of compliance level and creation date. Developers can use [PdfSaveOptions](https://reference.aspose.com/cells/go-cpp/aspose.cells/pdfsaveoptions/) to set the PDF compliance.  For conversion, API save method having PdfSaveOptions as parameter and speicified output file path.
+Go via C++ Excel Automation API supports conversion of Workbooks to PDF as well as support setting of compliance level and creation date. Developers can use [PdfSaveOptions](https://reference.aspose.com/cells/go-cpp/pdfsaveoptions/) to set the PDF compliance.  For conversion, API save method having PdfSaveOptions as parameter and speicified output file path.
 {{% blocks/products/pf/feature-page-code h3="Go via C++ Sample Code for Excel to PDF Conversion" %}}
 
 ```go
@@ -67,7 +67,7 @@ println("Finish to convert to PDF , check .pdf file in output folder.")
 {{< blocks/products/pf/feature-page-options formats="PDF">}}
 
 {{% blocks/products/pf/feature-page-section  h2="Save Excel to Images" %}}
-**Go via C++ Excel Parser** has the ability to export data in the form of images. Each worksheet can be converted to different image formats including BMP, JPEG, PNG and GIF, set by the [Rendering::ImageOrPrintOptions](https://reference.aspose.com/cells/go-cpp/aspose.cells.rendering/imageorprintoptions/). For any **Convert Excel to Images** case, select the relevant case from links.
+**Go via C++ Excel Parser** has the ability to export data in the form of images. Each worksheet can be converted to different image formats including BMP, JPEG, PNG and GIF, set by the [Rendering::ImageOrPrintOptions](https://reference.aspose.com/cells/go-cpp/sheetrender/toimage_int_string/). For any **Convert Excel to Images** case, select the relevant case from links.
 {{% blocks/products/pf/feature-page-code h3="Go via C++ Code for Excel to Image Conversion" %}}
 
 ```go

@@ -1,5 +1,5 @@
 ---
-title: Go via C++ library of Excel - Aspose.Cells
+title: Go via C++ library of Excel - Aspose
 weight: 7140
 
 description: Aspose.Cells for Go via C++ library to create, repair, merge, parse and convert excel files. Convert excel to PDF, JSON, XML, TSV and so on.
@@ -421,7 +421,7 @@ keywords: [Go via C++ library execl Aspose.Cells Create repair parse merge conve
     <h2 class="h2title">
      System Requirements
     </h2>
-		The Aspose.Cells Go via C++ library for Excel supports the following 64-bit or 32-bit operating systems and platforms:
+		The Aspose.Cells Go via C++ library for Excel supports the following 64-bit operating systems and platforms:
 		<table>
 			<tr>
 					<td style="font-weight: bold; width:400px">Operating System</td>
@@ -429,15 +429,11 @@ keywords: [Go via C++ library execl Aspose.Cells Create repair parse merge conve
 				</tr>
 		  <tr>
 					<td>Microsoft Windows</td>
-					<td><ul><li>Windows x86</li><li>Windows x86_64</li></ul></td>
+					<td><ul><li>Windows x86_64</li></ul></td>
 		  </tr>
 		  <tr>
 					<td>Linux</td>
-					<td><ul><li>Linux x86_64</li><li>Linux for ARM (aarch64)</li></ul></td>
-				</tr>
-		  <tr>
-					<td>macOS</td>
-					<td><ul><li>macOS 11 or later(arm64, x86_64)</li></ul></td>
+					<td><ul><li>Linux x86_64</li></ul></td>
 				</tr>
 		</table>
    </div>

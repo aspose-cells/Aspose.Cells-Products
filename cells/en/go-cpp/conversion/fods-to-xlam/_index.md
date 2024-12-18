@@ -82,7 +82,7 @@ There are three options to install "Aspose.Cells for Go via C++" onto your syste
 
 {{% /blocks/products/pf/agp/text %}}
 
-- Microsoft Windows or a compatible OS with Go via C++ Runtime Environment for Windows 32 bit, Windows 64 bit and Linux 64 bit.
+- Microsoft Windows or a compatible OS with Go via C++ Runtime Environment for Windows 64 bit and Linux 64 bit.
 - Add reference to the Aspose.Cells for Go via C++ DLL in your project.
 
 {{% /blocks/products/pf/agp/content %}}
@@ -96,41 +96,41 @@ There are three options to install "Aspose.Cells for Go via C++" onto your syste
 
 {{< blocks/products/pf/agp/other-supported-section title="Other Supported Conversions" subTitle="You can also convert FODS to many other file formats including few listed below." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/go-cpp/conversion/FODS-to-XLAM/" name="FODS to XLAM" description="Excel 95/5.0 - 2003 Workbook." >}} 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/go-cpp/conversion/FODS-to-XLAM/" name="FODS to XLAM" description="The Office Open XML SpreadsheetML File Format." >}} 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/go-cpp/conversion/FODS-to-XLAM/" name="FODS to XLAM" description="Excel Binary Workbook." >}} 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/go-cpp/conversion/FODS-to-XLAM/" name="FODS to XLAM" description="Excel Macro-Enabled Workbook." >}} 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/go-cpp/conversion/FODS-to-XLAM/" name="FODS to XLAM" description="Excel 97 - Excel 2003 Template." >}} 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/go-cpp/conversion/FODS-to-XLAM/" name="FODS to XLAM" description="Excel Template." >}} 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/go-cpp/conversion/FODS-to-XLAM/" name="FODS to XLAM" description="Excel Macro-Enabled Template." >}} 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/go-cpp/conversion/FODS-to-XLAM/" name="FODS to XLAM" description="CSV (Comma Separated Value) file." >}} 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/go-cpp/conversion/FODS-to-XLAM/" name="FODS to XLAM" description="TSV (Tab-separated values) file." >}} 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/go-cpp/conversion/FODS-to-XLAM/" name="FODS to XLAM" description="Delimited plain text file." >}} 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/go-cpp/conversion/FODS-to-XLAM/" name="FODS to XLAM" description="HTML format." >}} 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/go-cpp/conversion/FODS-to-XLAM/" name="FODS to XLAM" description="MHTML file." >}} 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/go-cpp/conversion/FODS-to-XLAM/" name="FODS to XLAM" description="ODS (OpenDocument Spreadsheet)." >}} 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/go-cpp/conversion/FODS-to-XLAM/" name="FODS to XLAM" description="JavaScript Object Notation" >}} 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/go-cpp/conversion/FODS-to-XLAM/" name="FODS to XLAM" description="Data Interchange Format." >}} 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/go-cpp/conversion/FODS-to-XLAM/" name="FODS to XLAM" description="Adobe Portable Document Format." >}} 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/go-cpp/conversion/FODS-to-XLAM/" name="FODS to XLAM" description="XML Paper Specification Format." >}} 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/go-cpp/conversion/FODS-to-XLAM/" name="FODS to XLAM" description="Scalable Vector Graphics Format." >}} 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/go-cpp/conversion/FODS-to-XLAM/" name="FODS to XLAM" description="Tagged Image File Format" >}} 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/go-cpp/conversion/FODS-to-XLAM/" name="FODS to XLAM" description="Portable Network Graphics Format" >}} 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/go-cpp/conversion/FODS-to-XLAM/" name="FODS to XLAM" description="Bitmap Image Format" >}} 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/go-cpp/conversion/FODS-to-XLAM/" name="FODS to XLAM" description="Enhanced metafile Format" >}} 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/go-cpp/conversion/FODS-to-XLAM/" name="FODS to XLAM" description="JPEG is a type of image format that is saved using the method of lossy compression." >}} 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/go-cpp/conversion/FODS-to-XLAM/" name="FODS to XLAM" description="Graphical Interchange Format" >}} 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/go-cpp/conversion/FODS-to-XLAM/" name="FODS to XLAM" description="Represents a markdown document." >}} 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/go-cpp/conversion/FODS-to-XLAM/" name="FODS to XLAM" description="An XML based format used by OpenOffice and StarOffice" >}} 
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/go-cpp/conversion/XLS-to-XLAM/" name="XLS to XLAM" description="Excel 95/5.0 - 2003 Workbook." >}} 
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/go-cpp/conversion/XLSX-to-XLAM/" name="XLSX to XLAM" description="The Office Open XML SpreadsheetML File Format." >}} 
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/go-cpp/conversion/XLSB-to-XLAM/" name="XLSB to XLAM" description="Excel Binary Workbook." >}} 
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/go-cpp/conversion/XLSM-to-XLAM/" name="XLSM to XLAM" description="Excel Macro-Enabled Workbook." >}} 
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/go-cpp/conversion/XLT-to-XLAM/" name="XLT to XLAM" description="Excel 97 - Excel 2003 Template." >}} 
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/go-cpp/conversion/XLTX-to-XLAM/" name="XLTX to XLAM" description="Excel Template." >}} 
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/go-cpp/conversion/XLTM-to-XLAM/" name="XLTM to XLAM" description="Excel Macro-Enabled Template." >}} 
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/go-cpp/conversion/CSV-to-XLAM/" name="CSV to XLAM" description="CSV (Comma Separated Value) file." >}} 
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/go-cpp/conversion/TSV-to-XLAM/" name="TSV to XLAM" description="TSV (Tab-separated values) file." >}} 
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/go-cpp/conversion/TXT-to-XLAM/" name="TXT to XLAM" description="Delimited plain text file." >}} 
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/go-cpp/conversion/HTML-to-XLAM/" name="HTML to XLAM" description="HTML format." >}} 
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/go-cpp/conversion/MHTML-to-XLAM/" name="MHTML to XLAM" description="MHTML file." >}} 
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/go-cpp/conversion/ODS-to-XLAM/" name="ODS to XLAM" description="ODS (OpenDocument Spreadsheet)." >}} 
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/go-cpp/conversion/JSON-to-XLAM/" name="JSON to XLAM" description="JavaScript Object Notation" >}} 
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/go-cpp/conversion/DIF-to-XLAM/" name="DIF to XLAM" description="Data Interchange Format." >}} 
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/go-cpp/conversion/PDF-to-XLAM/" name="PDF to XLAM" description="Adobe Portable Document Format." >}} 
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/go-cpp/conversion/XPS-to-XLAM/" name="XPS to XLAM" description="XML Paper Specification Format." >}} 
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/go-cpp/conversion/SVG-to-XLAM/" name="SVG to XLAM" description="Scalable Vector Graphics Format." >}} 
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/go-cpp/conversion/TIFF-to-XLAM/" name="TIFF to XLAM" description="Tagged Image File Format" >}} 
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/go-cpp/conversion/PNG-to-XLAM/" name="PNG to XLAM" description="Portable Network Graphics Format" >}} 
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/go-cpp/conversion/BMP-to-XLAM/" name="BMP to XLAM" description="Bitmap Image Format" >}} 
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/go-cpp/conversion/EMF-to-XLAM/" name="EMF to XLAM" description="Enhanced metafile Format" >}} 
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/go-cpp/conversion/JPEG-to-XLAM/" name="JPEG to XLAM" description="JPEG is a type of image format that is saved using the method of lossy compression." >}} 
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/go-cpp/conversion/GIF-to-XLAM/" name="GIF to XLAM" description="Graphical Interchange Format" >}} 
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/go-cpp/conversion/MARKDOWN-to-XLAM/" name="MARKDOWN to XLAM" description="Represents a markdown document." >}} 
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/go-cpp/conversion/SXC-to-XLAM/" name="SXC to XLAM" description="An XML based format used by OpenOffice and StarOffice" >}} 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/go-cpp/conversion/FODS-to-XLAM/" name="FODS to XLAM" description="This is an Open Document format stored as flat XML." >}} 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/go-cpp/conversion/FODS-to-XLAM/" name="FODS to XLAM" description="A well-known format for Microsoft Word documents that is a combination of XML and binary files." >}} 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/go-cpp/conversion/FODS-to-XLAM/" name="FODS to XLAM" description="The PPTX format is based on the Microsoft PowerPoint open XML presentation file format." >}} 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/go-cpp/conversion/FODS-to-XLAM/" name="FODS to XLAM" description="" >}} 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/go-cpp/conversion/FODS-to-XLAM/" name="FODS to XLAM" description="" >}} 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/go-cpp/conversion/FODS-to-XLAM/" name="FODS to XLAM" description="" >}} 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/go-cpp/conversion/FODS-to-XLAM/" name="FODS to XLAM" description="" >}} 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/go-cpp/conversion/FODS-to-XLAM/" name="FODS to XLAM" description="" >}} 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/go-cpp/conversion/FODS-to-XLAM/" name="FODS to XLAM" description="AZW is a digital ebook file format developed by Amazon for its Kindle devices. AZW3, also known as Kindle Format 8 (KF8)." >}} 
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/go-cpp/conversion/DOCX-to-XLAM/" name="DOCX to XLAM" description="A well-known format for Microsoft Word documents that is a combination of XML and binary files." >}} 
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/go-cpp/conversion/PPTX-to-XLAM/" name="PPTX to XLAM" description="The PPTX format is based on the Microsoft PowerPoint open XML presentation file format." >}} 
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/go-cpp/conversion/SqlScript-to-XLAM/" name="SqlScript to XLAM" description="" >}} 
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/go-cpp/conversion/XHtml-to-XLAM/" name="XHtml to XLAM" description="" >}} 
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/go-cpp/conversion/Epub-to-XLAM/" name="Epub to XLAM" description="" >}} 
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/go-cpp/conversion/Xml-to-XLAM/" name="Xml to XLAM" description="" >}} 
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/go-cpp/conversion/Ots-to-XLAM/" name="Ots to XLAM" description="" >}} 
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/go-cpp/conversion/AZW3-to-XLAM/" name="AZW3 to XLAM" description="AZW is a digital ebook file format developed by Amazon for its Kindle devices. AZW3, also known as Kindle Format 8 (KF8)." >}} 
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

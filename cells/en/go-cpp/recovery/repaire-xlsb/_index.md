@@ -67,7 +67,7 @@ There are three options to install "Aspose.Cells for Go via C++" onto your syste
 
  Aspose.Cells for Go via C++ is supported on all major operating systems. Just make sure that you have the following prerequisites.
 
-- Microsoft Windows or a compatible OS with Go via C++ Runtime Environment for Windows 32 bit, Windows 64 bit and Linux 64 bit.
+- Microsoft Windows or a compatible OS with Go via C++ Runtime Environment for Windows 64 bit and Linux 64 bit.
 - Add reference to the Aspose.Cells for Go via C++ DLL in your project.
 
 

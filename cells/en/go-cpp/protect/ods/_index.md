@@ -2,7 +2,7 @@
 title: Protect and lock ODS document with Go via C++
 weight: 1140
 
-description: Go via C++ example code to lock ODS file using password on Go via C++ Runtime Environment for Windows 32 bit, Windows 64 bit and Linux 64 bit.
+description: Go via C++ example code to lock ODS file using password on Go via C++ Runtime Environment for Windows 64 bit and Linux 64 bit.
 keywords: [Go via C++ Aspose.Cells., Go via C++ Lock ODS files., Go via C++ How to Protect and lock ODS document., Go via C++ Protect ODS files., Encrypt ODS Files using Go via C++]
 ---
 
@@ -60,7 +60,7 @@ import (
 
 {{% /blocks/products/pf/agp/text %}}
 
--  Microsoft Windows or a compatible OS with Go via C++ Runtime Environment for Windows 32 bit, Windows 64 bit and Linux 64 bit.
+-  Microsoft Windows or a compatible OS with Go via C++ Runtime Environment for Windows 64 bit and Linux 64 bit.
 -  Add reference to the Aspose.Cells for Go via C++ DLL in your project.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

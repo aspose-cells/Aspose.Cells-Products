@@ -2,7 +2,7 @@
 title: Extract text and images from XLTM document with Go via C++
 weight: 570
 
-description: Go via C++ example code to extract text and images from XLTM file on Go via C++ Runtime Environment for Windows 32 bit, Windows 64 bit and Linux 64 bit.
+description: Go via C++ example code to extract text and images from XLTM file on Go via C++ Runtime Environment for Windows 64 bit and Linux 64 bit.
 keywords: [Go via C++ Aspose.Cells., Go via C++ Extract text and images from XLTM file., Go via C++ How to Parse XLTM File., Go via C++ Extract text from XLTM file., Extract images from XLTM file using Go via C++]
 ---
 
@@ -52,7 +52,7 @@ import (
 
 {{% /blocks/products/pf/agp/text %}}
 
--  Microsoft Windows or a compatible OS with Go via C++ Runtime Environment for Windows 32 bit, Windows 64 bit and Linux 64 bit.
+-  Microsoft Windows or a compatible OS with Go via C++ Runtime Environment for Windows 64 bit and Linux 64 bit.
 -  Add reference to the Aspose.Cells for Go via C++ DLL in your project.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

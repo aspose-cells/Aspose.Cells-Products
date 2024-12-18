@@ -2,7 +2,7 @@
 title: Search and replace text in ODS document via Go via C++
 weight: 9570
 
-description: Go via C++ example code to redact sensitive information in ODS file on Go via C++ Runtime Environment for Windows 32 bit, Windows 64 bit and Linux 64 bit.
+description: Go via C++ example code to redact sensitive information in ODS file on Go via C++ Runtime Environment for Windows 64 bit and Linux 64 bit.
 keywords: [Go via C++ Aspose.Cells., Go via C++ Search and replace text in ODS file., Go via C++ redact ODS file., Go via C++ edit ODS file., Go via C++ ODS file redaction., Go via C++ Search and replace string in ODS file]
 ---
 
@@ -59,7 +59,7 @@ import (
 
 {{% /blocks/products/pf/agp/text %}}
 
--  Microsoft Windows or a compatible OS with Go via C++ Runtime Environment for Windows 32 bit, Windows 64 bit and Linux 64 bit.
+-  Microsoft Windows or a compatible OS with Go via C++ Runtime Environment for Windows 64 bit and Linux 64 bit.
 -  Add reference to the Aspose.Cells for Go via C++ DLL in your project.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

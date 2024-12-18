@@ -2,7 +2,7 @@
 title: XLS document chart with Go via C++
 weight: 750
 
-description: Go via C++ example code to draw and convert chart or diagram in XLS file on Go via C++ Runtime Environment for Windows 32 bit, Windows 64 bit and Linux 64 bit.
+description: Go via C++ example code to draw and convert chart or diagram in XLS file on Go via C++ Runtime Environment for Windows 64 bit and Linux 64 bit.
 keywords: [Go via C++ Aspose.Cells., Go via C++ Convert chart to image in xls., Go via C++ Save chart to image in xls., Go via C++ chart to image in xls., xls convert chart to image in Go via C++., xls save chart to imagein Go via C++., xls chart to image in Go via C++]
 ---
 

@@ -12,12 +12,12 @@ keywords: [Go via C++ Aspose.Cells., Go via C++ Convert chart to image., Go via 
 {{% blocks/products/pf/feature-page-summary %}}
 
 Using Excel charts, one can get the bigger picture and analyse data easily for taking right decisions. [Go via C++ Excel Library](/cells/go-cpp/) supports creating different charts listed by [enum Aspose::Cells::Charts::ChartType
-](https://reference.aspose.com/cells/go-cpp/aspose.cells.charts/charttype/) including area, bar, pie, pyramid, line and bubble charts. Moreover, For conversion of charts to images, API provides a [ToImage](https://reference.aspose.com/cells/go-cpp/aspose.cells.charts/chart/toimage/) mehtod into required image format.
+](https://reference.aspose.com/cells/go-cpp/charttype/) including area, bar, pie, pyramid, line and bubble charts. Moreover, For conversion of charts to images, API provides a [ToImage](https://reference.aspose.com/cells/go-cpp/chart/toimage_string/) mehtod into required image format.
 
 {{% /blocks/products/pf/feature-page-summary  %}}
 {{% blocks/products/pf/feature-page-section  h2="Create Excel Charts" %}}
 
-Process of creating Excel chart is, create an instance of the [Workbook class](https://reference.aspose.com/cells/go-cpp/aspose.cells/workbook/) and select the desired [Worksheet](https://reference.aspose.com/cells/go-cpp/aspose.cells/worksheet/). Add the chart using [Add method](https://reference.aspose.com/cells/go-cpp/aspose.cells.charts/chartcollection/add/) with relevant parameters including chart type. Access the chart via index and [Add](https://reference.aspose.com/cells/go-cpp/aspose.cells.charts/seriescollection/add/) the data source for chart.
+Process of creating Excel chart is, create an instance of the [Workbook class](https://reference.aspose.com/cells/go-cpp/workbook/) and select the desired [Worksheet](https://reference.aspose.com/cells/go-cpp/worksheet/). Add the chart using [Add method](https://reference.aspose.com/cells/go-cpp/chartcollection/addfloatingchart/) with relevant parameters including chart type. Access the chart via index and [Add](https://reference.aspose.com/cells/go-cpp/seriescollection/add_string_bool_bool/) the data source for chart.
 
 {{% blocks/products/pf/feature-page-code h3="Go via C++ Code to Create Excel Charts" %}}
 

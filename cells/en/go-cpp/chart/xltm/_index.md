@@ -2,7 +2,7 @@
 title: XLTM document chart with Go via C++
 weight: 750
 
-description: Go via C++ example code to draw and convert chart or diagram in XLTM file on Go via C++ Runtime Environment for Windows 32 bit, Windows 64 bit and Linux 64 bit.
+description: Go via C++ example code to draw and convert chart or diagram in XLTM file on Go via C++ Runtime Environment for Windows 64 bit and Linux 64 bit.
 keywords: [Go via C++ Aspose.Cells., Go via C++ Convert chart to image in xltm., Go via C++ Save chart to image in xltm., Go via C++ chart to image in xltm., xltm convert chart to image in Go via C++., xltm save chart to imagein Go via C++., xltm chart to image in Go via C++]
 ---
 

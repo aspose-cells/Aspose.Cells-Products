@@ -2,7 +2,7 @@
 title: Search and replace text in XLSX document via Go via C++
 weight: 9570
 
-description: Go via C++ example code to redact sensitive information in XLSX file on Go via C++ Runtime Environment for Windows 32 bit, Windows 64 bit and Linux 64 bit.
+description: Go via C++ example code to redact sensitive information in XLSX file on Go via C++ Runtime Environment for Windows 64 bit and Linux 64 bit.
 keywords: [Go via C++ Aspose.Cells., Go via C++ Search and replace text in XLSX file., Go via C++ redact XLSX file., Go via C++ edit XLSX file., Go via C++ XLSX file redaction., Go via C++ Search and replace string in XLSX file]
 ---
 
@@ -59,7 +59,7 @@ import (
 
 {{% /blocks/products/pf/agp/text %}}
 
--  Microsoft Windows or a compatible OS with Go via C++ Runtime Environment for Windows 32 bit, Windows 64 bit and Linux 64 bit.
+-  Microsoft Windows or a compatible OS with Go via C++ Runtime Environment for Windows 64 bit and Linux 64 bit.
 -  Add reference to the Aspose.Cells for Go via C++ DLL in your project.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

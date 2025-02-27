@@ -60,7 +60,7 @@ If you encounter any problems during the installation process, please refer to h
 
 {{% blocks/products/pf/agp/text %}}
 
- Aspose.Cells for Node.js via C++ is a feature-rich and scalable API to process Excel spreadsheets using Node.js. API offers Excel file format conversion, worksheets styling to the most granular level, chart creation & rendering, reliable formula calculation engine and much more. Aspose.Cells for Node.js via C++ is platform independent API and can be used on any platform (Windows, Linux, MacOS etc.) where Node.js is installed.
+ Aspose.Cells for Node.js via C++ is a feature-rich and scalable API to process Excel spreadsheets. Node.js API offers Excel file format conversion, worksheets styling to the most granular level, chart creation & rendering, reliable formula calculation engine and much more. Aspose.Cells for Node.js via C++ is platform independent API and can be used on any platform (Windows, Linux, MacOS etc.) where Node.js is installed.
  
 {{% /blocks/products/pf/agp/text %}}
 

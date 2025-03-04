@@ -22,7 +22,7 @@ How do I convert Xml to XLSB? With Aspose.Cells for Go via C++ library, you can 
 package main
 
 import (
-     . "github.com/Aspose-Cells/aspose-cells-go-cpp/v24"
+     . "github.com/Aspose-Cells/aspose-cells-go-cpp/v25"
 )
 
 ```
@@ -42,7 +42,7 @@ Follow the easy steps to convert Xml to XLSB. Upload your Xml file, then simply 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert Xml to XLSB" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="csv" outformat="bmp" IsLandingPage="true" language="go" %}}
+{{% cells-convert title="Sample Code to Convert Xml to XLSB" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="Xml" outformat="XLSB" IsLandingPage="true" language="go" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert Xml to XLSB via Go via C++" %}}
 
@@ -70,7 +70,6 @@ There are three options to install "Aspose.Cells for Go via C++" onto your syste
 
 1.  Install a [GO Package](https://releases.aspose.com/cells/go-cpp/). See [Documentation](https://docs.aspose.com/cells/go-cpp/)
 1.  Install the library using Include and lib Folders. See [Documentation](https://docs.aspose.com/cells/go-cpp/installation/#using-include-and-lib-folders)
-1.  Install Aspose.Cells for Go via C++ in Linux. See [Documentation](https://docs.aspose.com/cells/go-cpp/installation/#installing-asposecells-for-c-in-linux)
 
 {{% /blocks/products/pf/agp/content %}}
 

@@ -27,7 +27,7 @@ In order to annotate ODS file, we’ll use
 package main
 
 import (
-     . "github.com/Aspose-Cells/aspose-cells-go-cpp/v24"
+     . "github.com/Aspose-Cells/aspose-cells-go-cpp/v25"
 )
 
 ```

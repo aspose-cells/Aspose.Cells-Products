@@ -23,7 +23,7 @@ keywords: [Go via C++ Aspose.Cells., Go via C++ Search and replace text in XLS f
 package main
 
 import (
-    . "github.com/Aspose-Cells/aspose-cells-go-cpp/v24"
+    . "github.com/Aspose-Cells/aspose-cells-go-cpp/v25"
 )
 
 ```
@@ -60,7 +60,7 @@ import (
 {{% /blocks/products/pf/agp/text %}}
 
 -  Microsoft Windows or a compatible OS with Go via C++ Runtime Environment for Windows 64 bit and Linux 64 bit.
--  Add reference to the Aspose.Cells for Go via C++ DLL in your project.
+-  Add a reference to the Aspose.Cells for Go package or library in your project.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -70,12 +70,12 @@ import (
 package main
 
 import (
-	. "github.com/Aspose-Cells/aspose-cells-go-cpp/v24"
+	. "github.com/Aspose-Cells/aspose-cells-go-cpp/v25"
 )
 
 func main() {
 
-	workbook, _ := NewWorkbook_String("Book1.xlsx")
+	workbook, _ := NewWorkbook_String("Book1.XLS")
 	replaceOption, _ := NewReplaceOptions()
 	replaceOption.SetCaseSensitive(false)
 	replaceOption.SetRegexKey(true)

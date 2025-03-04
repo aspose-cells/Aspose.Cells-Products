@@ -14,11 +14,7 @@ keywords: [Go via C++ Aspose.Cells., Go via C++ view ods metadata., Go via C++ a
 
 {{% blocks/products/pf/agp/content h2="How to Get ODS Metadata Using Go via C++" %}}
 
- In order to extract ODS metadata, we’ll use
- [Aspose.Cells for Go via C++](https://products.aspose.com/cells/go-cpp)
- API which is a feature-rich, powerful and easy to use document metadata extraction API for Go via C++ platform. You can download its latest version directly, just open
- [GO](https://releases.aspose.com/cells/go-cpp/)
- install. You may also use the following command from the Console.
+ In order to extract ODS metadata, we’ll use[Aspose.Cells for Go via C++](https://products.aspose.com/cells/go-cpp)API which is a feature-rich, powerful and easy to use document metadata extraction API for Go via C++ platform. You can download its latest version directly, just open[GO](https://releases.aspose.com/cells/go-cpp/)install. You may also use the following command from the Console.
 
 {{% blocks/products/pf/agp/code-block title="Command" offSpacer="true" %}}
 
@@ -27,7 +23,7 @@ keywords: [Go via C++ Aspose.Cells., Go via C++ view ods metadata., Go via C++ a
 package main
 
 import (
-    . "github.com/Aspose-Cells/aspose-cells-go-cpp/v24"
+    . "github.com/Aspose-Cells/aspose-cells-go-cpp/v25"
 )
 
 ```
@@ -73,14 +69,14 @@ import (
 package main
 
 import (
-    . "github.com/Aspose-Cells/aspose-cells-go-cpp/v24"
+    . "github.com/Aspose-Cells/aspose-cells-go-cpp/v25"
 )
 
 func AddCustomProperty() {
     workbook, _ := NewWorkbook()
     customDocumentProperties, _ := workbook.GetCustomDocumentProperties()
     customDocumentProperties.Add_String_String("MyCustom5", "This is my custom five.")
-    workbook.Save_String("../Data/Output/HELLO_CustomDocumentPropertie.ods")
+    workbook.Save_String("HELLO_CustomDocumentPropertie.ods")
     println("Finish to add custom properties, check HELLO_CustomDocumentPropertie.ods file in output folder.")
 }
 

@@ -23,7 +23,7 @@ keywords: [Go via C++ Aspose.Cells., Go via C++ Extract text and images from ODS
 package main
 
 import (
-     . "github.com/Aspose-Cells/aspose-cells-go-cpp/v24"
+     . "github.com/Aspose-Cells/aspose-cells-go-cpp/v25"
 )
 
 ```
@@ -69,7 +69,15 @@ worksheet, _ := worksheets.Get_Int(0)
 
 pictures, _ := worksheet.GetPictures()
 
-pictures.ToImage("outputExtractImagesFromWorksheets.jpg","Jpeg")
+picture, _ := pictures.Get(0)
+
+data, _ := picture.ToImage_ImageType(ImageType_Jpeg)
+
+file, _ := os.OpenFile("filename.jpg", os.O_WRONLY|os.O_CREATE|os.O_APPEND, 0644)
+
+defer file.Close()
+
+file.Write(data)
 
 ```
 

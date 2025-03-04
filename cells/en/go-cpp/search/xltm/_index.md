@@ -14,11 +14,7 @@ keywords: [Go via C++ Aspose.Cells., Go via C++ search words with pattern in XLT
 
 {{% blocks/products/pf/agp/content h2="How to Search XLTM File Using Go via C++" %}}
 
- In order to search XLTM file, we’ll use
- [Aspose.Cells for Go via C++](https://products.aspose.com/cells/go-cpp)
- API which is a feature-rich, powerful and easy to use document searching API for Go via C++ platform. You can download its latest version directly, just open
- [GO](https://releases.aspose.com/cells/go-cpp/)
- install. You may also use the following command from the Console.
+ In order to search XLTM file, we’ll use[Aspose.Cells for Go via C++](https://products.aspose.com/cells/go-cpp)API which is a feature-rich, powerful and easy to use document searching API for Go via C++ platform. You can download its latest version directly, just open[GO](https://releases.aspose.com/cells/go-cpp/)install. You may also use the following command from the Console.
 
 {{% blocks/products/pf/agp/code-block title="Command" offSpacer="true" %}}
 
@@ -27,7 +23,7 @@ keywords: [Go via C++ Aspose.Cells., Go via C++ search words with pattern in XLT
 package main
 
 import (
-    . "github.com/Aspose-Cells/aspose-cells-go-cpp/v24"
+    . "github.com/Aspose-Cells/aspose-cells-go-cpp/v25"
 )
 
 ```
@@ -63,7 +59,7 @@ import (
 {{% /blocks/products/pf/agp/text %}}
 
 -  Microsoft Windows or a compatible OS with Go via C++ Runtime Environment for Windows 64 bit and Linux 64 bit.
--  Add reference to the Aspose.Cells for Go via C++ DLL in your project.
+-  Add a reference to the Aspose.Cells for Go package or library in your project.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -74,12 +70,12 @@ import (
 package main
 
 import (
-	. "github.com/Aspose-Cells/aspose-cells-go-cpp/v24"
+	. "github.com/Aspose-Cells/aspose-cells-go-cpp/v25"
 )
 
 func main() {
 
-	workbook, _ := NewWorkbook_String("Book1.xlsx")
+	workbook, _ := NewWorkbook_String("Book1.XLTM")
 	println("NewWorkbook_String")
 	worksheets, _ := workbook.GetWorksheets()
 	worksheet, _ := worksheets.Get_Int(0)

@@ -27,7 +27,7 @@ keywords: [Go via C++ Aspose.Cells., Go via C++ unlock XLTM files., Go via C++ h
 package main
 
 import (
-    . "github.com/Aspose-Cells/aspose-cells-go-cpp/v24"
+    . "github.com/Aspose-Cells/aspose-cells-go-cpp/v25"
 )
 
 ```
@@ -76,7 +76,7 @@ import (
 package main
 
 import (
-	. "github.com/Aspose-Cells/aspose-cells-go-cpp/v24"
+	. "github.com/Aspose-Cells/aspose-cells-go-cpp/v25"
 )
 
 func GetStyle() {

@@ -22,7 +22,7 @@ How do I repair xlsb file? With Aspose.Cells for Go via C++ library, you can eas
 package main
 
 import (
-    . "github.com/Aspose-Cells/aspose-cells-go-cpp/v24"
+    . "github.com/Aspose-Cells/aspose-cells-go-cpp/v25"
 )
 
 ```
@@ -58,7 +58,6 @@ There are three options to install "Aspose.Cells for Go via C++" onto your syste
 
 1.  Install a [GO Package](https://releases.aspose.com/cells/go-cpp/). See [Documentation](https://docs.aspose.com/cells/go-cpp/installation/#using-go-cpp-package-manager)
 1.  Install the library using Include and lib Folders. See [Documentation](https://docs.aspose.com/cells/go-cpp/installation/#using-include-and-lib-folders)
-1.  Install Aspose.Cells for Go via C++ in Linux. See [Documentation](https://docs.aspose.com/cells/go-cpp/installation/#installing-asposecells-for-c-in-linux)
 
 
 {{% /blocks/products/pf/agp/content %}}

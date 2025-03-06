@@ -14,11 +14,7 @@ keywords: [Go via C++ Aspose.Cells., Go via C++ Lock XLTM files., Go via C++ How
 
 {{% blocks/products/pf/agp/content h2="How to Secure XLTM File Using Go via C++" %}}
 
- In order to protect XLTM file, we’ll use
- [Aspose.Cells for Go via C++](https://products.aspose.com/cells/go-cpp)
- API which is a feature-rich, powerful and easy to use document encryption API for Go via C++ platform. You can download its latest version directly, just open
- [GO](https://releases.aspose.com/cells/go-cpp/)
- install. You may also use the following command from the Console.
+ In order to protect XLTM file, we’ll use[Aspose.Cells for Go via C++](https://products.aspose.com/cells/go-cpp)API which is a feature-rich, powerful and easy to use document encryption API for Go via C++ platform. You can download its latest version directly, just open[GO](https://releases.aspose.com/cells/go-cpp/)install. You may also use the following command from the Console.
 
 {{% blocks/products/pf/agp/code-block title="Aspose.Cells" offSpacer="true" %}}
 
@@ -27,7 +23,7 @@ keywords: [Go via C++ Aspose.Cells., Go via C++ Lock XLTM files., Go via C++ How
 package main
 
 import (
-    . "github.com/Aspose-Cells/aspose-cells-go-cpp/v24"
+    . "github.com/Aspose-Cells/aspose-cells-go-cpp/v25"
 )
 
 ```

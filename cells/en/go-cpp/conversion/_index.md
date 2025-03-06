@@ -21,10 +21,10 @@ Converting between spreadsheet formats only requires loading the spreadsheet usi
 package main
 
 import (
-    . "github.com/Aspose-Cells/aspose-cells-go-cpp/v24"
+    . "github.com/Aspose-Cells/aspose-cells-go-cpp/v25"
 )
 // Load the source excel format.
-workbook, := NewWorkbook("src_excel_file.xlsx")
+workbook,_:= NewWorkbook("src_excel_file.xlsx")
 // Save in required output format.
 workbook.Save_String("output_excel_format.xlsx")
 
@@ -43,7 +43,7 @@ Go via C++ Excel Automation API supports conversion of Workbooks to PDF as well 
 package main
 
 import (
-    . "github.com/Aspose-Cells/aspose-cells-go-cpp/v24"
+    . "github.com/Aspose-Cells/aspose-cells-go-cpp/v25"
 )
 
 workbook, _ := NewWorkbook()
@@ -56,7 +56,7 @@ cell, _ = cells.Get_String("A2")
 cell.PutValue_Int(15)
 cell, _ = cells.Get_String("A3")
 cell.PutValue_Int(25)
-workbook.Save_String("../Data/Output/HELLO_Convert.pdf")
+workbook.Save_String("HELLO_Convert.pdf")
 println("Finish to convert to PDF , check .pdf file in output folder.")
 
 
@@ -75,46 +75,40 @@ println("Finish to convert to PDF , check .pdf file in output folder.")
 package main
 
 import (
-    . "github.com/Aspose-Cells/aspose-cells-go-cpp/v24"
+    . "github.com/Aspose-Cells/aspose-cells-go-cpp/v25"
 )
 
-// Load the XLSX.
-workbook, := NewWorkbook("source-excel-file.xlsx")
+ // Load the XLSX.
+    workbook, _ := NewWorkbook("source-excel-file.xlsx")
 
 // Access first worksheet.
-worksheets, _ := workbook.GetWorksheets()
-worksheet, _ := worksheets.Get_Int(0)
+    worksheets, _ := workbook.GetWorksheets()
+    worksheet, _ := worksheets.Get_Int(0)
 
 // Create image or print options object.
-imgOptions := NewImageOrPrintOptions()
+    imgOptions, _ := NewImageOrPrintOptions()
 
 // Specify the image format. Below code is for JPEG
-imgOptions.SetImageType(ImageType::Jpeg)
+    imgOptions.SetImageType(ImageType_Jpeg)
 
 // Specify horizontal and vertical resolution
-imgOptions.SetHorizontalResolution(200);
-imgOptions.SetVerticalResolution(200);
+    imgOptions.SetHorizontalResolution(200)
+    imgOptions.SetVerticalResolution(200)
 
 // Render the sheet with respect to specified image or print options.
-Aspose::Cells::Rendering::SheetRender sr(wks, imgOptions);
+    sheetRender, _ := NewSheetRender(worksheet, imgOptions)
 
 // Get page count.
-int pageCount = sr.GetPageCount();
+    pageCount, _ := sheetRender.GetPageCount()
 
-std::string sb = "";
 // Render each page to jpeg image one by one.
-for (int i = 0; i < pageCount; i++) {
-	sb = "";
-	sb += "ImagesOutputDirectoryPath/";
-	sb += "outputConvertingWorksheetToImageJPEG_";
-	sb += std::to_string(i);
-	sb += ".jpeg";
-	// Get the output image path.
-	U16String outputJPEG(sb.c_str());
-	// Convert worksheet to image.
-	sr.ToImage(i, outputJPEG);
-}
-
+    for i := int32(0); i < pageCount; i++ {
+        data, _ := sheetRender.ToImage_Int(i)
+        filename := "Image" + string(i) + ".jpg"
+        file, _ := os.OpenFile(filename, os.O_WRONLY|os.O_CREATE|os.O_APPEND, 0644)
+        defer file.Close()
+        file.Write(data)
+    }
 
 ```
 {{% /blocks/products/pf/feature-page-code %}}

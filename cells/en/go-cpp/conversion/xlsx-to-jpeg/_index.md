@@ -122,8 +122,6 @@ There are three options to install "Aspose.Cells for Go via C++" onto your syste
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/go-cpp/conversion/MARKDOWN-to-JPEG/" name="MARKDOWN to JPEG" description="Represents a markdown document." >}} 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/go-cpp/conversion/SXC-to-JPEG/" name="SXC to JPEG" description="An XML based format used by OpenOffice and StarOffice" >}} 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/go-cpp/conversion/FODS-to-JPEG/" name="FODS to JPEG" description="This is an Open Document format stored as flat XML." >}} 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/go-cpp/conversion/DOCX-to-JPEG/" name="DOCX to JPEG" description="A well-known format for Microsoft Word documents that is a combination of XML and binary files." >}} 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/go-cpp/conversion/PPTX-to-JPEG/" name="PPTX to JPEG" description="The PPTX format is based on the Microsoft PowerPoint open XML presentation file format." >}} 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/go-cpp/conversion/SqlScript-to-JPEG/" name="SqlScript to JPEG" description="" >}} 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/go-cpp/conversion/XHtml-to-JPEG/" name="XHtml to JPEG" description="" >}} 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/go-cpp/conversion/Epub-to-JPEG/" name="Epub to JPEG" description="" >}} 

@@ -122,8 +122,6 @@ There are three options to install "Aspose.Cells for Go via C++" onto your syste
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/go-cpp/conversion/MARKDOWN-to-BMP/" name="MARKDOWN to BMP" description="Represents a markdown document." >}} 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/go-cpp/conversion/SXC-to-BMP/" name="SXC to BMP" description="An XML based format used by OpenOffice and StarOffice" >}} 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/go-cpp/conversion/FODS-to-BMP/" name="FODS to BMP" description="This is an Open Document format stored as flat XML." >}} 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/go-cpp/conversion/DOCX-to-BMP/" name="DOCX to BMP" description="A well-known format for Microsoft Word documents that is a combination of XML and binary files." >}} 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/go-cpp/conversion/PPTX-to-BMP/" name="PPTX to BMP" description="The PPTX format is based on the Microsoft PowerPoint open XML presentation file format." >}} 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/go-cpp/conversion/SqlScript-to-BMP/" name="SqlScript to BMP" description="" >}} 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/go-cpp/conversion/XHtml-to-BMP/" name="XHtml to BMP" description="" >}} 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/go-cpp/conversion/Epub-to-BMP/" name="Epub to BMP" description="" >}} 

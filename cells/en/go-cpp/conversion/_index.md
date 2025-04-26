@@ -24,7 +24,7 @@ import (
     . "github.com/Aspose-Cells/aspose-cells-go-cpp/v25"
 )
 // Load the source excel format.
-workbook,_:= NewWorkbook("src_excel_file.xlsx")
+workbook,_:= NewWorkbook_String("src_excel_file.xlsx")
 // Save in required output format.
 workbook.Save_String("output_excel_format.xlsx")
 

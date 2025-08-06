@@ -63,6 +63,10 @@ Create, manipulate, convert & render Excel spreadsheets via Node.js.
 Create, manipulate, convert & render Excel spreadsheets via Go.
 {{< /blocks/products/pf/product >}}
 
+{{< blocks/products/pf/product pfName="Aspose.Cells for" title="JavaScript via C++" imgSrc="/cells/images/aspose_cells-for-javascript-cpp.svg"  productLink="/cells/javascript-cpp/">}}
+Create, manipulate, convert & render Excel spreadsheets in Browser or Node.js.
+{{< /blocks/products/pf/product >}}
+
 {{< /blocks/products/pf/product-card-row >}}
 {{< /blocks/products/pf/main-container >}}
 

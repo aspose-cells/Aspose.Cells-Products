@@ -1,5 +1,5 @@
 ---
-title: JavaScript via C++ APIs for Excel Spreadsheets | products.aspose.com
+title: JavaScript via C++ APIs for Excel Spreadsheets
 weight: 7140
 
 description: Process Excel file formats using JavaScript via C++ library. Read write render &amp; convert XLS XLSX XLSB XLTX XLTM XLSM XML ODS CSV and more formats in both browser and Node.js environments.
@@ -11,7 +11,7 @@ keywords: [JavaScript via C++ library execl Aspose.Cells Create repair parse mer
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells" subTitlepfName="for JavaScript via C++" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="/cells/images/aspose_cells-for-javascript-cpp.svg" liveDemosLink="https://products.aspose.app/cells/family" PricingLink="https://purchase.aspose.com/pricing/" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/cells/js-cpp/" installationsDocsLink="https://docs.aspose.com/cells/js-cpp/installation" nugetLink="https://pkg.js.dev/" nugetPackageName="Aspose.Cells.Js.Cpp" mavenRepoLink="" directDownloadLink="https://downloads.aspose.com/cells/js-cpp" >}}
+{{< blocks/products/pf/sub-menu logoImageSrc="/cells/images/aspose_cells-for-javascript-cpp.svg" liveDemosLink="https://products.aspose.app/cells/family" PricingLink="https://purchase.aspose.com/pricing/" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/cells/javascript-cpp/" installationsDocsLink="https://docs.aspose.com/cells/javascript-cpp/installation" nugetLink="https://pkg.js.dev/" nugetPackageName="Aspose.Cells.Js.Cpp" mavenRepoLink="" directDownloadLink="https://downloads.aspose.com/cells/javascript-cpp" >}}
 
 {{< blocks/products/pf/tab-content >}}
 <p>
@@ -173,7 +173,7 @@ keywords: [JavaScript via C++ library execl Aspose.Cells Create repair parse mer
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Supported File Formats" description="The Aspose.Cells JavaScript via C++ library supports the most commonly used spreadsheet [file formats](https://docs.aspose.com/cells/js-cpp/supported-file-formats/)." >}}
+{{< blocks/products/pf/carousel-item h3="Supported File Formats" description="The Aspose.Cells JavaScript via C++ library supports the most commonly used spreadsheet [file formats](https://docs.aspose.com/cells/javascript-cpp/supported-file-formats/)." >}}
 <div class="diagram1 d2 d1-cplus">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -521,9 +521,9 @@ keywords: [JavaScript via C++ library execl Aspose.Cells Create repair parse mer
 
 {{< blocks/products/pf/support-learning-resources >}}
 {{< blocks/products/pf/slr-tab tabTitle="Learning Resources" tabId="resources" >}}
-{{< blocks/products/pf/slr-element name="Documentation" href="https://docs.aspose.com/cells/js-cpp/" >}}
+{{< blocks/products/pf/slr-element name="Documentation" href="https://docs.aspose.com/cells/javascript-cpp/" >}}
 {{< blocks/products/pf/slr-element name="Source Code" href="https://github.com/aspose-cells/Aspose.Cells-for-C" >}}
-{{< blocks/products/pf/slr-element name="API References" href="https://reference.aspose.com/js-cpp/cells" >}}
+{{< blocks/products/pf/slr-element name="API References" href="https://reference.aspose.com/javascript-cpp/cells" >}}
 {{< blocks/products/pf/slr-element name="Tutorial Videos" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
@@ -531,7 +531,7 @@ keywords: [JavaScript via C++ library execl Aspose.Cells Create repair parse mer
 {{< blocks/products/pf/slr-element name="Free Support" href="https://forum.aspose.com/c/cells/9" >}}
 {{< blocks/products/pf/slr-element name="Paid Support" href="https://helpdesk.aspose.com/" >}}
 {{< blocks/products/pf/slr-element name="Blog" href="https://blog.aspose.com/category/cells/" >}}
-{{< blocks/products/pf/slr-element name="Release Notes" href="https://docs.aspose.com/cells/js-cpp/release-notes/" >}}
+{{< blocks/products/pf/slr-element name="Release Notes" href="https://docs.aspose.com/cells/javascript-cpp/release-notes/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="Why Aspose.Cells for JavaScript via C++?" tabId="success-stories" >}}
@@ -541,7 +541,7 @@ keywords: [JavaScript via C++ library execl Aspose.Cells Create repair parse mer
 
 {{< /blocks/products/pf/support-learning-resources >}}
 
-{{< blocks/products/pf/download-section downloadFreeTrialLink="https://downloads.aspose.com/cells/js-cpp" pricingInformationLink="https://purchase.aspose.com/pricing/cells/js-cpp" >}}
+{{< blocks/products/pf/download-section downloadFreeTrialLink="https://downloads.aspose.com/cells/javascript-cpp" pricingInformationLink="https://purchase.aspose.com/pricing/cells/javascript-cpp" >}}
 
 {{< blocks/products/pf/offers-section pfName="Aspose.Cells" description="Aspose.Cells offers individual Excel APIs for other popular development environments as listed below:" >}}
 

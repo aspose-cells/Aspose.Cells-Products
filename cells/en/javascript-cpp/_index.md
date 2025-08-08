@@ -7,13 +7,13 @@ keywords: [JavaScript via C++ library execl Aspose.Cells Create repair parse mer
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="JavaScript via C++ Excel File Format APIs" h2="Generate, modify, transform, and render Excel spreadsheets using JavaScript via C++ in the browser or Node.js without Microsoft Excel." logoImageSrc="/cells/images/aspose_cells-for-javascript-cpp.svg" pfName="Aspose.Cells" subTitlepfName="for JavaScript via C++" downloadUrl="https://downloads.aspose.com/cells/" >}}
+{{< blocks/products/pf/upper-banner h1="JavaScript via C++ Excel File Format APIs" h2="Generate, modify, transform, and render Excel spreadsheets using JavaScript via C++ in the browser or Node.js without Microsoft Excel." logoImageSrc="/cells/images/aspose_cells-for-javascript-cpp.svg" pfName="Aspose.Cells" subTitlepfName="for JavaScript via C++" downloadUrl="https://releases.aspose.com/cells/javascript-cpp/" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells" subTitlepfName="for JavaScript via C++" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="/cells/images/aspose_cells-for-javascript-cpp.svg" liveDemosLink="https://products.aspose.app/cells/family" PricingLink="https://purchase.aspose.com/pricing/" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/cells/javascript-cpp/" installationsDocsLink="https://docs.aspose.com/cells/javascript-cpp/installation" nugetLink="https://pkg.js.dev/" nugetPackageName="Aspose.Cells.Js.Cpp" mavenRepoLink="" directDownloadLink="https://downloads.aspose.com/cells/javascript-cpp" >}}
+{{< blocks/products/pf/sub-menu logoImageSrc="/cells/images/aspose_cells-for-javascript-cpp.svg" liveDemosLink="https://products.aspose.app/cells/family" PricingLink="https://purchase.aspose.com/pricing/" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/cells/javascript-cpp/" installationsDocsLink="https://docs.aspose.com/cells/javascript-cpp/installation" nugetPackageName="Aspose.Cells.Js.Cpp" mavenRepoLink="" directDownloadLink="https://releases.aspose.com/cells/javascript-cpp/" >}}
 
-{{< blocks/products/pf/tab-content >}}
+{{< blocks/products/pf/tab-content carousel2Text1="Support" carousel2Text2="Browser and Node.js">}}
 <p>
  Aspose.Cells for JavaScript via C++ is a high-performance, feature-rich library for manipulating and converting spreadsheet files, including Excel (XLS, XLSX, XLSB, XLSM), ODS, CSV, and HTML formats. It provides a comprehensive set of features for creating, editing, converting, and rendering spreadsheets in both browser and Node.js environments. With full support for all major Excel formats, Aspose.Cells for JavaScript via C++ ensures maximum compatibility and flexibility across diverse use cases.
 </p>
@@ -26,7 +26,7 @@ keywords: [JavaScript via C++ library execl Aspose.Cells Create repair parse mer
 <!--Diagrams Start-->
 {{< blocks/products/pf/carousel >}}
 
-{{< blocks/products/pf/carousel-item h3="At a Glance" description="An overview of API." >}}
+{{< blocks/products/pf/carousel-item h3="At A Glance" description="An overview of API." >}}
 <div class="diagram1 d1-cplus">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -127,8 +127,8 @@ keywords: [JavaScript via C++ library execl Aspose.Cells Create repair parse mer
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Support Browser and Node.js" description="<b>Browser and Node.js Support</b><br>Fully compatible with modern browsers (Chrome, Firefox, Edge, Safari) and Node.js runtimes.<br>Ensures consistent behavior across both client-side and server-side applications for seamless integration and execution." >}}
-<div class="diagram1 d1-cplus">
+{{< blocks/products/pf/carousel-item h3="At a Glance" description="Fully compatible with modern browsers (Chrome, Firefox, Edge, Safari) and Node.js runtimes.<br>Ensures consistent behavior across both client-side and server-side applications for seamless integration and execution." >}}
+<div class="diagram1 d1-cplus" style="visibility: hidden;">
  <div class="d1-row">
   <div class="d1-col d1-left">
    <header>

@@ -11,7 +11,7 @@ keywords: [Go via C++ library execl Aspose.Cells Create repair parse merge conve
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells" subTitlepfName="for Go via C++" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="/cells/images/aspose_cells-for-go-cpp.svg" liveDemosLink="https://products.aspose.app/cells/family" PricingLink="https://purchase.aspose.com/pricing/cells/go-cpp" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/cells/go-cpp/" installationsDocsLink="https://docs.aspose.com/cells/go-cpp/installation" nugetLink="https://pkg.go.dev/" nugetPackageName="Aspose.Cells.Go.Cpp" mavenRepoLink="" directDownloadLink="https://downloads.aspose.com/cells/go-cpp" >}}
+{{< blocks/products/pf/sub-menu logoImageSrc="/cells/images/aspose_cells-for-go-cpp.svg" liveDemosLink="https://products.aspose.app/cells/family" PricingLink="https://purchase.aspose.com/pricing/cells/go-cpp" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/cells/go-cpp/" installationsDocsLink="https://docs.aspose.com/cells/go-cpp/installation" nugetPackageName="Aspose.Cells.Go.Cpp" mavenRepoLink="" directDownloadLink="https://downloads.aspose.com/cells/go-cpp" >}}
 
 {{< blocks/products/pf/tab-content >}}
 <p>

@@ -1,7 +1,7 @@
 ---
 title: PHP SXC to EXCEL - SXC to EXCEL Converter
-description: Aspose Excel. Convert SXC to EXCEL quickly and easily with Aspose.Cells. PHP SXC to EXCEL. PHP Save SXC to EXCEL. Save SXC as EXCEL using PHP.
-keywords: [Aspose Excel., PHP Aspose.Cells., Convert SXC to EXCEL in PHP., Save SXC to EXCEL using PHP., PHP SXC to EXCEL saveformat., SXC to EXCEL Converter., PHP Save SXC as EXCEL]
+description: Aspose Excel. This comprehensive solution provides PHP developers with a fully integrated approach to convert SXC to EXCEL format, enabling seamless saving of SXC data into EXCEL format using the Aspose.Cells library, all through efficient and customizable PHP code.
+keywords: [Aspose Excel., PHP Aspose.Cells., Smart SXC files to EXCEL Converter for PHP., Convert SXC to EXCEL in PHP., SXC files to EXCEL Conversion in PHP., Leverage intelligent data processing to automatically parse and save SXC into EXCEL format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -28,7 +28,7 @@ Follow the easy steps to convert SXC to EXCEL. Upload your SXC file, then simply
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert SXC to EXCEL" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="sxc" outformat="xlsx" IsLandingPage="true" language="phpjava" %}}
+{{% cells-convert title="Sample Code to Convert SXC to EXCEL" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="sxc" outformat="xlsx" IsLandingPage="true" language="phpjava" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert SXC to EXCEL via PHP" %}}
 

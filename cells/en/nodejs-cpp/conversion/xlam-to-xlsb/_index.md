@@ -1,7 +1,7 @@
 ---
 title: Node.js XLAM to XLSB - XLAM to XLSB Converter
-description: Aspose Excel. Convert XLAM to XLSB quickly and easily with Aspose.Cells. Node.js XLAM to XLSB. Node.js Save XLAM to XLSB. Save XLAM as XLSB using Node.js.
-keywords: [Aspose Excel., Node.js Aspose.Cells., Convert XLAM to XLSB in Node.js., Save XLAM to XLSB using Node.js., Node.js XLAM to XLSB saveformat., XLAM to XLSB Converter., Node.js Save XLAM as XLSB]
+description: Aspose Excel. This comprehensive solution provides Node.js developers with a fully integrated approach to convert XLAM to XLSB format, enabling seamless saving of XLAM data into XLSB format using the Aspose.Cells library, all through efficient and customizable Node.js code.
+keywords: [Aspose Excel., Node.js Aspose.Cells., Smart XLAM files to XLSB Converter for Node.js., Convert XLAM to XLSB in Node.js., XLAM files to XLSB Conversion in Node.js., Leverage intelligent data processing to automatically parse and save XLAM into XLSB format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -28,7 +28,7 @@ Follow the easy steps to convert XLAM to XLSB. Upload your XLAM file, then simpl
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert XLAM to XLSB" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlam" outformat="xlsb" IsLandingPage="true" language="nodejscpp" %}}
+{{% cells-convert title="Sample Code to Convert XLAM to XLSB" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="xlam" outformat="xlsb" IsLandingPage="true" language="nodejscpp" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert XLAM to XLSB via Node.js" %}}
 

@@ -1,7 +1,7 @@
 ---
 title: PHP XLS to MHT - XLS to MHT Converter
-description: Aspose Excel. Convert XLS to MHT quickly and easily with Aspose.Cells. PHP XLS to MHT. PHP Save XLS to MHT. Save XLS as MHT using PHP.
-keywords: [Aspose Excel., PHP Aspose.Cells., Convert XLS to MHT in PHP., Save XLS to MHT using PHP., PHP XLS to MHT saveformat., XLS to MHT Converter., PHP Save XLS as MHT]
+description: Aspose Excel. This comprehensive solution provides PHP developers with a fully integrated approach to convert XLS to MHT format, enabling seamless saving of XLS data into MHT format using the Aspose.Cells library, all through efficient and customizable PHP code.
+keywords: [Aspose Excel., PHP Aspose.Cells., Smart XLS files to MHT Converter for PHP., Convert XLS to MHT in PHP., XLS files to MHT Conversion in PHP., Leverage intelligent data processing to automatically parse and save XLS into MHT format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -28,7 +28,7 @@ Follow the easy steps to convert XLS to MHT. Upload your XLS file, then simply s
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert XLS to MHT" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xls" outformat="mht" IsLandingPage="true" language="phpjava" %}}
+{{% cells-convert title="Sample Code to Convert XLS to MHT" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="xls" outformat="mht" IsLandingPage="true" language="phpjava" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert XLS to MHT via PHP" %}}
 

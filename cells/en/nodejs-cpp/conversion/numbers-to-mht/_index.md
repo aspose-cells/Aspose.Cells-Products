@@ -1,7 +1,7 @@
 ---
 title: Node.js NUMBERS to MHT - NUMBERS to MHT Converter
-description: Aspose Excel. Convert NUMBERS to MHT quickly and easily with Aspose.Cells. Node.js NUMBERS to MHT. Node.js Save NUMBERS to MHT. Save NUMBERS as MHT using Node.js.
-keywords: [Aspose Excel., Node.js Aspose.Cells., Convert NUMBERS to MHT in Node.js., Save NUMBERS to MHT using Node.js., Node.js NUMBERS to MHT saveformat., NUMBERS to MHT Converter., Node.js Save NUMBERS as MHT]
+description: Aspose Excel. This comprehensive solution provides Node.js developers with a fully integrated approach to convert NUMBERS to MHT format, enabling seamless saving of NUMBERS data into MHT format using the Aspose.Cells library, all through efficient and customizable Node.js code.
+keywords: [Aspose Excel., Node.js Aspose.Cells., Smart NUMBERS files to MHT Converter for Node.js., Convert NUMBERS to MHT in Node.js., NUMBERS files to MHT Conversion in Node.js., Leverage intelligent data processing to automatically parse and save NUMBERS into MHT format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -28,7 +28,7 @@ Follow the easy steps to convert NUMBERS to MHT. Upload your NUMBERS file, then 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert NUMBERS to MHT" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="numbers" outformat="mht" IsLandingPage="true" language="nodejscpp" %}}
+{{% cells-convert title="Sample Code to Convert NUMBERS to MHT" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="numbers" outformat="mht" IsLandingPage="true" language="nodejscpp" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert NUMBERS to MHT via Node.js" %}}
 

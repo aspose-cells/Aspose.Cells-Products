@@ -1,7 +1,7 @@
 ---
 title: Java NUMBERS to MHTML - NUMBERS to MHTML Converter
-description: Aspose Excel. Convert NUMBERS to MHTML quickly and easily with Aspose.Cells. Java NUMBERS to MHTML. Java Save NUMBERS to MHTML. Save NUMBERS as MHTML using Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Convert NUMBERS to MHTML in Java., Save NUMBERS to MHTML using Java., Java NUMBERS to MHTML saveformat., NUMBERS to MHTML Converter., Java Save NUMBERS as MHTML]
+description: Aspose Excel. This comprehensive solution provides Java developers with a fully integrated approach to convert NUMBERS to MHTML format, enabling seamless saving of NUMBERS data into MHTML format using the Aspose.Cells library, all through efficient and customizable Java code.
+keywords: [Aspose Excel., Java Aspose.Cells., Smart NUMBERS files to MHTML Converter for Java., Convert NUMBERS to MHTML in Java., NUMBERS files to MHTML Conversion in Java., Leverage intelligent data processing to automatically parse and save NUMBERS into MHTML format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -57,7 +57,7 @@ Follow the easy steps to convert NUMBERS to MHTML. Upload your NUMBERS file, the
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert NUMBERS to MHTML" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="numbers" outformat="mhtml" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Sample Code to Convert NUMBERS to MHTML" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="numbers" outformat="mhtml" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert NUMBERS to MHTML via Java" %}}
 

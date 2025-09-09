@@ -1,7 +1,7 @@
 ---
 title: Python DBF to OTS - DBF to OTS Converter
-description: Aspose Excel. Python Excel. Convert DBF to OTS quickly and easily with Aspose.Cells. Python DBF to OTS. Python Save DBF to OTS. Save DBF as OTS using Python Excel Library.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert DBF to OTS in Python Excel Library., Save DBF to OTS using Python Excel Library., Python DBF to OTS saveformat., DBF to OTS Converter., Python Save DBF as OTS]
+description: Aspose Excel. This comprehensive solution provides Python developers with a fully integrated approach to convert DBF to OTS format, enabling seamless saving of DBF data into OTS format using the Aspose.Cells library, all through efficient and customizable Python code.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart DBF files to OTS Converter for Python., Convert DBF to OTS in Python., DBF files to OTS Conversion in Python., Leverage intelligent data processing to automatically parse and save DBF into OTS format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -28,7 +28,7 @@ Follow the easy steps to convert DBF to OTS. Upload your DBF file, then simply s
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert DBF to OTS via Python Excel Library" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="dbf" outformat="ots" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="Sample Code to Convert DBF to OTS via Python Excel Library" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="dbf" outformat="ots" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert DBF to OTS via Python" %}}
 

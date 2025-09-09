@@ -1,7 +1,7 @@
 ---
 title: C# XLSB to TSV - XLSB to TSV Converter
-description: Aspose Excel. Convert XLSB to TSV quickly and easily with Aspose.Cells. C# XLSB to TSV. C# Save XLSB to TSV. Save XLSB as TSV using C#.
-keywords: [Aspose Excel., C# Aspose.Cells., Convert XLSB to TSV in C#., Save XLSB to TSV using C#., C# XLSB to TSV saveformat., XLSB to TSV Converter., C# Save XLSB as TSV]
+description: Aspose Excel. This comprehensive solution provides C# developers with a fully integrated approach to convert XLSB to TSV format, enabling seamless saving of XLSB data into TSV format using the Aspose.Cells library, all through efficient and customizable C# code.
+keywords: [Aspose Excel., C# Aspose.Cells., Smart XLSB files to TSV Converter for C#., Convert XLSB to TSV in C#., XLSB files to TSV Conversion in C#., Leverage intelligent data processing to automatically parse and save XLSB into TSV format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -36,7 +36,7 @@ Follow the easy steps to convert XLSB to TSV. Upload your XLSB file, then simply
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert XLSB to TSV" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsb" outformat="tsv" IsLandingPage="true" %}}
+{{% cells-convert title="Sample Code to Convert XLSB to TSV" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="xlsb" outformat="tsv" IsLandingPage="true" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert XLSB to TSV via C#" %}}
 

@@ -1,7 +1,7 @@
 ---
 title: PHP OTS to HTML - OTS to HTML Converter
-description: Aspose Excel. Convert OTS to HTML quickly and easily with Aspose.Cells. PHP OTS to HTML. PHP Save OTS to HTML. Save OTS as HTML using PHP.
-keywords: [Aspose Excel., PHP Aspose.Cells., Convert OTS to HTML in PHP., Save OTS to HTML using PHP., PHP OTS to HTML saveformat., OTS to HTML Converter., PHP Save OTS as HTML]
+description: Aspose Excel. This comprehensive solution provides PHP developers with a fully integrated approach to convert OTS to HTML format, enabling seamless saving of OTS data into HTML format using the Aspose.Cells library, all through efficient and customizable PHP code.
+keywords: [Aspose Excel., PHP Aspose.Cells., Smart OTS files to HTML Converter for PHP., Convert OTS to HTML in PHP., OTS files to HTML Conversion in PHP., Leverage intelligent data processing to automatically parse and save OTS into HTML format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -28,7 +28,7 @@ Follow the easy steps to convert OTS to HTML. Upload your OTS file, then simply 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert OTS to HTML" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="ots" outformat="html" IsLandingPage="true" language="phpjava" %}}
+{{% cells-convert title="Sample Code to Convert OTS to HTML" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="ots" outformat="html" IsLandingPage="true" language="phpjava" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert OTS to HTML via PHP" %}}
 

@@ -1,7 +1,7 @@
 ---
 title: Python XLT to XLTX - XLT to XLTX Converter
-description: Aspose Excel. Python Excel. Convert XLT to XLTX quickly and easily with Aspose.Cells. Python XLT to XLTX. Python Save XLT to XLTX. Save XLT as XLTX using Python Excel Library.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert XLT to XLTX in Python Excel Library., Save XLT to XLTX using Python Excel Library., Python XLT to XLTX saveformat., XLT to XLTX Converter., Python Save XLT as XLTX]
+description: Aspose Excel. This comprehensive solution provides Python developers with a fully integrated approach to convert XLT to XLTX format, enabling seamless saving of XLT data into XLTX format using the Aspose.Cells library, all through efficient and customizable Python code.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart XLT files to XLTX Converter for Python., Convert XLT to XLTX in Python., XLT files to XLTX Conversion in Python., Leverage intelligent data processing to automatically parse and save XLT into XLTX format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -28,7 +28,7 @@ Follow the easy steps to convert XLT to XLTX. Upload your XLT file, then simply 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert XLT to XLTX via Python Excel Library" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlt" outformat="xltx" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="Sample Code to Convert XLT to XLTX via Python Excel Library" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="xlt" outformat="xltx" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert XLT to XLTX via Python" %}}
 

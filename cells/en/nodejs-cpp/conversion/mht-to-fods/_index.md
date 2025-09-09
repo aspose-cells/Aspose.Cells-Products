@@ -1,7 +1,7 @@
 ---
 title: Node.js MHT to FODS - MHT to FODS Converter
-description: Aspose Excel. Convert MHT to FODS quickly and easily with Aspose.Cells. Node.js MHT to FODS. Node.js Save MHT to FODS. Save MHT as FODS using Node.js.
-keywords: [Aspose Excel., Node.js Aspose.Cells., Convert MHT to FODS in Node.js., Save MHT to FODS using Node.js., Node.js MHT to FODS saveformat., MHT to FODS Converter., Node.js Save MHT as FODS]
+description: Aspose Excel. This comprehensive solution provides Node.js developers with a fully integrated approach to convert MHT to FODS format, enabling seamless saving of MHT data into FODS format using the Aspose.Cells library, all through efficient and customizable Node.js code.
+keywords: [Aspose Excel., Node.js Aspose.Cells., Smart MHT files to FODS Converter for Node.js., Convert MHT to FODS in Node.js., MHT files to FODS Conversion in Node.js., Leverage intelligent data processing to automatically parse and save MHT into FODS format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -28,7 +28,7 @@ Follow the easy steps to convert MHT to FODS. Upload your MHT file, then simply 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert MHT to FODS" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="mht" outformat="fods" IsLandingPage="true" language="nodejscpp" %}}
+{{% cells-convert title="Sample Code to Convert MHT to FODS" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="mht" outformat="fods" IsLandingPage="true" language="nodejscpp" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert MHT to FODS via Node.js" %}}
 

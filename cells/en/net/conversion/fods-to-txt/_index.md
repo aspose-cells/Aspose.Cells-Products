@@ -1,7 +1,7 @@
 ---
 title: C# FODS to TXT - FODS to TXT Converter
-description: Aspose Excel. Convert FODS to TXT quickly and easily with Aspose.Cells. C# FODS to TXT. C# Save FODS to TXT. Save FODS as TXT using C#.
-keywords: [Aspose Excel., C# Aspose.Cells., Convert FODS to TXT in C#., Save FODS to TXT using C#., C# FODS to TXT saveformat., FODS to TXT Converter., C# Save FODS as TXT]
+description: Aspose Excel. This comprehensive solution provides C# developers with a fully integrated approach to convert FODS to TXT format, enabling seamless saving of FODS data into TXT format using the Aspose.Cells library, all through efficient and customizable C# code.
+keywords: [Aspose Excel., C# Aspose.Cells., Smart FODS files to TXT Converter for C#., Convert FODS to TXT in C#., FODS files to TXT Conversion in C#., Leverage intelligent data processing to automatically parse and save FODS into TXT format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -36,7 +36,7 @@ Follow the easy steps to convert FODS to TXT. Upload your FODS file, then simply
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert FODS to TXT" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="fods" outformat="txt" IsLandingPage="true" %}}
+{{% cells-convert title="Sample Code to Convert FODS to TXT" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="fods" outformat="txt" IsLandingPage="true" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert FODS to TXT via C#" %}}
 

@@ -1,7 +1,7 @@
 ---
 title: Python CSV to SXC - CSV to SXC Converter
-description: Aspose Excel. Python Excel. Convert CSV to SXC quickly and easily with Aspose.Cells. Python CSV to SXC. Python Save CSV to SXC. Save CSV as SXC using Python Excel Library.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert CSV to SXC in Python Excel Library., Save CSV to SXC using Python Excel Library., Python CSV to SXC saveformat., CSV to SXC Converter., Python Save CSV as SXC]
+description: Aspose Excel. This comprehensive solution provides Python developers with a fully integrated approach to convert CSV to SXC format, enabling seamless saving of CSV data into SXC format using the Aspose.Cells library, all through efficient and customizable Python code.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart CSV files to SXC Converter for Python., Convert CSV to SXC in Python., CSV files to SXC Conversion in Python., Leverage intelligent data processing to automatically parse and save CSV into SXC format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -28,7 +28,7 @@ Follow the easy steps to convert CSV to SXC. Upload your CSV file, then simply s
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert CSV to SXC via Python Excel Library" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="csv" outformat="sxc" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="Sample Code to Convert CSV to SXC via Python Excel Library" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="csv" outformat="sxc" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert CSV to SXC via Python" %}}
 

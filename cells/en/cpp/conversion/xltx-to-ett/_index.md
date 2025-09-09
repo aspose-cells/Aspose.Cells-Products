@@ -1,7 +1,7 @@
 ---
 title: C++ XLTX to ETT - XLTX to ETT Converter
-description: Aspose Excel. Convert XLTX to ETT quickly and easily with Aspose.Cells. C++ XLTX to ETT. C++ Save XLTX to ETT. Save XLTX as ETT using C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., Convert XLTX to ETT in C++., Save XLTX to ETT using C++., C++ XLTX to ETT saveformat., XLTX to ETT Converter., C++ Save XLTX as ETT]
+description: Aspose Excel. This comprehensive solution provides C++ developers with a fully integrated approach to convert XLTX to ETT format, enabling seamless saving of XLTX data into ETT format using the Aspose.Cells library, all through efficient and customizable C++ code.
+keywords: [Aspose Excel., C++ Aspose.Cells., Smart XLTX files to ETT Converter for C++., Convert XLTX to ETT in C++., XLTX files to ETT Conversion in C++., Leverage intelligent data processing to automatically parse and save XLTX into ETT format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -38,7 +38,7 @@ Follow the easy steps to convert XLTX to ETT. Upload your XLTX file, then simply
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert XLTX to ETT" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xltx" outformat="ett" IsLandingPage="true" language="cpp" %}}
+{{% cells-convert title="Sample Code to Convert XLTX to ETT" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="xltx" outformat="ett" IsLandingPage="true" language="cpp" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert XLTX to ETT via C++" %}}
 
@@ -102,6 +102,7 @@ There are three options to install "Aspose.Cells for C++" onto your system. Plea
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xltx-to-pdf/" name="XLTX TO PDF" description="Portable Document Format" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xltx-to-png/" name="XLTX TO PNG" description="Portable Network Graphics" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xltx-to-svg/" name="XLTX TO SVG" description="Scalable Vector Graphics" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xltx-to-tiff/" name="XLTX TO TIFF" description="Tagged Image Format" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xltx-to-tsv/" name="XLTX TO TSV" description="Tab-Separated Values" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xltx-to-txt/" name="XLTX TO TXT" description="Text Document" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xltx-to-xls/" name="XLTX TO XLS" description="Excel Binary Format" >}}

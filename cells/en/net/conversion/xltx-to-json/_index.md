@@ -1,7 +1,7 @@
 ---
 title: C# XLTX to JSON - XLTX to JSON Converter
-description: Aspose Excel. Convert XLTX to JSON quickly and easily with Aspose.Cells. C# XLTX to JSON. C# Save XLTX to JSON. Save XLTX as JSON using C#.
-keywords: [Aspose Excel., C# Aspose.Cells., Convert XLTX to JSON in C#., Save XLTX to JSON using C#., C# XLTX to JSON saveformat., XLTX to JSON Converter., C# Save XLTX as JSON]
+description: Aspose Excel. This comprehensive solution provides C# developers with a fully integrated approach to convert XLTX to JSON format, enabling seamless saving of XLTX data into JSON format using the Aspose.Cells library, all through efficient and customizable C# code.
+keywords: [Aspose Excel., C# Aspose.Cells., Smart XLTX files to JSON Converter for C#., Convert XLTX to JSON in C#., XLTX files to JSON Conversion in C#., Leverage intelligent data processing to automatically parse and save XLTX into JSON format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -36,7 +36,7 @@ Follow the easy steps to convert XLTX to JSON. Upload your XLTX file, then simpl
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert XLTX to JSON" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xltx" outformat="json" IsLandingPage="true" %}}
+{{% cells-convert title="Sample Code to Convert XLTX to JSON" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="xltx" outformat="json" IsLandingPage="true" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert XLTX to JSON via C#" %}}
 

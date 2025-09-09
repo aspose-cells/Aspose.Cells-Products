@@ -1,7 +1,7 @@
 ---
 title: Java XLTM to PPTX - XLTM to PPTX Converter
-description: Aspose Excel. Convert XLTM to PPTX quickly and easily with Aspose.Cells. Java XLTM to PPTX. Java Save XLTM to PPTX. Save XLTM as PPTX using Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Convert XLTM to PPTX in Java., Save XLTM to PPTX using Java., Java XLTM to PPTX saveformat., XLTM to PPTX Converter., Java Save XLTM as PPTX]
+description: Aspose Excel. This comprehensive solution provides Java developers with a fully integrated approach to convert XLTM to PPTX format, enabling seamless saving of XLTM data into PPTX format using the Aspose.Cells library, all through efficient and customizable Java code.
+keywords: [Aspose Excel., Java Aspose.Cells., Smart XLTM files to PPTX Converter for Java., Convert XLTM to PPTX in Java., XLTM files to PPTX Conversion in Java., Leverage intelligent data processing to automatically parse and save XLTM into PPTX format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -57,7 +57,7 @@ Follow the easy steps to convert XLTM to PPTX. Upload your XLTM file, then simpl
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert XLTM to PPTX" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xltm" outformat="pptx" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Sample Code to Convert XLTM to PPTX" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="xltm" outformat="pptx" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert XLTM to PPTX via Java" %}}
 

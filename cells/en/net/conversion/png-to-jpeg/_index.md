@@ -1,7 +1,7 @@
 ---
 title: C# PNG to JPEG - PNG to JPEG Converter
-description: Aspose Excel. Convert PNG to JPEG quickly and easily with Aspose.Cells. C# PNG to JPEG. C# Save PNG to JPEG. Save PNG as JPEG using C#.
-keywords: [Aspose Excel., C# Aspose.Cells., Convert PNG to JPEG in C#., Save PNG to JPEG using C#., C# PNG to JPEG saveformat., PNG to JPEG Converter., C# Save PNG as JPEG]
+description: Aspose Excel. This comprehensive solution provides C# developers with a fully integrated approach to convert PNG to JPEG format, enabling seamless saving of PNG data into JPEG format using the Aspose.Cells library, all through efficient and customizable C# code.
+keywords: [Aspose Excel., C# Aspose.Cells., Smart PNG files to JPEG Converter for C#., Convert PNG to JPEG in C#., PNG files to JPEG Conversion in C#., Leverage intelligent data processing to automatically parse and save PNG into JPEG format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -36,7 +36,7 @@ Follow the easy steps to convert PNG to JPEG. Upload your PNG file, then simply 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert PNG to JPEG" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="png" outformat="jpg" IsLandingPage="true" %}}
+{{% cells-convert title="Sample Code to Convert PNG to JPEG" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="png" outformat="jpg" IsLandingPage="true" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert PNG to JPEG via C#" %}}
 

@@ -1,7 +1,7 @@
 ---
 title: Java MHT to EXCEL - MHT to EXCEL Converter
-description: Aspose Excel. Convert MHT to EXCEL quickly and easily with Aspose.Cells. Java MHT to EXCEL. Java Save MHT to EXCEL. Save MHT as EXCEL using Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Convert MHT to EXCEL in Java., Save MHT to EXCEL using Java., Java MHT to EXCEL saveformat., MHT to EXCEL Converter., Java Save MHT as EXCEL]
+description: Aspose Excel. This comprehensive solution provides Java developers with a fully integrated approach to convert MHT to EXCEL format, enabling seamless saving of MHT data into EXCEL format using the Aspose.Cells library, all through efficient and customizable Java code.
+keywords: [Aspose Excel., Java Aspose.Cells., Smart MHT files to EXCEL Converter for Java., Convert MHT to EXCEL in Java., MHT files to EXCEL Conversion in Java., Leverage intelligent data processing to automatically parse and save MHT into EXCEL format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -57,7 +57,7 @@ Follow the easy steps to convert MHT to EXCEL. Upload your MHT file, then simply
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert MHT to EXCEL" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="mht" outformat="xlsx" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Sample Code to Convert MHT to EXCEL" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="mht" outformat="xlsx" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert MHT to EXCEL via Java" %}}
 

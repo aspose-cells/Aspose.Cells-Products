@@ -1,7 +1,7 @@
 ---
 title: Python TABDELIMITED to DIF - TABDELIMITED to DIF Converter
-description: Aspose Excel. Python Excel. Convert TABDELIMITED to DIF quickly and easily with Aspose.Cells. Python TABDELIMITED to DIF. Python Save TABDELIMITED to DIF. Save TABDELIMITED as DIF using Python Excel Library.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert TABDELIMITED to DIF in Python Excel Library., Save TABDELIMITED to DIF using Python Excel Library., Python TABDELIMITED to DIF saveformat., TABDELIMITED to DIF Converter., Python Save TABDELIMITED as DIF]
+description: Aspose Excel. This comprehensive solution provides Python developers with a fully integrated approach to convert TABDELIMITED to DIF format, enabling seamless saving of TABDELIMITED data into DIF format using the Aspose.Cells library, all through efficient and customizable Python code.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart TABDELIMITED files to DIF Converter for Python., Convert TABDELIMITED to DIF in Python., TABDELIMITED files to DIF Conversion in Python., Leverage intelligent data processing to automatically parse and save TABDELIMITED into DIF format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -29,7 +29,7 @@ Follow the easy steps to convert TABDELIMITED to DIF. Upload your TABDELIMITED f
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert TABDELIMITED to DIF via Python Excel Library" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="tsv" outformat="dif" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Sample Code to Convert TABDELIMITED to DIF via Python Excel Library" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="tsv" outformat="dif" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert TABDELIMITED to DIF" %}}
 

@@ -1,7 +1,7 @@
 ---
 title: Java XLT to DIF - XLT to DIF Converter
-description: Aspose Excel. Convert XLT to DIF quickly and easily with Aspose.Cells. Java XLT to DIF. Java Save XLT to DIF. Save XLT as DIF using Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Convert XLT to DIF in Java., Save XLT to DIF using Java., Java XLT to DIF saveformat., XLT to DIF Converter., Java Save XLT as DIF]
+description: Aspose Excel. This comprehensive solution provides Java developers with a fully integrated approach to convert XLT to DIF format, enabling seamless saving of XLT data into DIF format using the Aspose.Cells library, all through efficient and customizable Java code.
+keywords: [Aspose Excel., Java Aspose.Cells., Smart XLT files to DIF Converter for Java., Convert XLT to DIF in Java., XLT files to DIF Conversion in Java., Leverage intelligent data processing to automatically parse and save XLT into DIF format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -57,7 +57,7 @@ Follow the easy steps to convert XLT to DIF. Upload your XLT file, then simply s
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert XLT to DIF" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlt" outformat="dif" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Sample Code to Convert XLT to DIF" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="xlt" outformat="dif" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert XLT to DIF via Java" %}}
 

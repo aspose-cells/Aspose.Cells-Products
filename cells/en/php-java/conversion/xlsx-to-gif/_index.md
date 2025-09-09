@@ -1,7 +1,7 @@
 ---
 title: PHP XLSX to GIF - XLSX to GIF Converter
-description: Aspose Excel. Convert XLSX to GIF quickly and easily with Aspose.Cells. PHP XLSX to GIF. PHP Save XLSX to GIF. Save XLSX as GIF using PHP.
-keywords: [Aspose Excel., PHP Aspose.Cells., Convert XLSX to GIF in PHP., Save XLSX to GIF using PHP., PHP XLSX to GIF saveformat., XLSX to GIF Converter., PHP Save XLSX as GIF]
+description: Aspose Excel. This comprehensive solution provides PHP developers with a fully integrated approach to convert XLSX to GIF format, enabling seamless saving of XLSX data into GIF format using the Aspose.Cells library, all through efficient and customizable PHP code.
+keywords: [Aspose Excel., PHP Aspose.Cells., Smart XLSX files to GIF Converter for PHP., Convert XLSX to GIF in PHP., XLSX files to GIF Conversion in PHP., Leverage intelligent data processing to automatically parse and save XLSX into GIF format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -28,7 +28,7 @@ Follow the easy steps to convert XLSX to GIF. Upload your XLSX file, then simply
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert XLSX to GIF" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsx" outformat="gif" IsLandingPage="true" language="phpjava" %}}
+{{% cells-convert title="Sample Code to Convert XLSX to GIF" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="xlsx" outformat="gif" IsLandingPage="true" language="phpjava" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert XLSX to GIF via PHP" %}}
 

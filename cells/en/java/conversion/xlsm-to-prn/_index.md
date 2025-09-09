@@ -1,7 +1,7 @@
 ---
 title: Java XLSM to PRN - XLSM to PRN Converter
-description: Aspose Excel. Convert XLSM to PRN quickly and easily with Aspose.Cells. Java XLSM to PRN. Java Save XLSM to PRN. Save XLSM as PRN using Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Convert XLSM to PRN in Java., Save XLSM to PRN using Java., Java XLSM to PRN saveformat., XLSM to PRN Converter., Java Save XLSM as PRN]
+description: Aspose Excel. This comprehensive solution provides Java developers with a fully integrated approach to convert XLSM to PRN format, enabling seamless saving of XLSM data into PRN format using the Aspose.Cells library, all through efficient and customizable Java code.
+keywords: [Aspose Excel., Java Aspose.Cells., Smart XLSM files to PRN Converter for Java., Convert XLSM to PRN in Java., XLSM files to PRN Conversion in Java., Leverage intelligent data processing to automatically parse and save XLSM into PRN format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -57,7 +57,7 @@ Follow the easy steps to convert XLSM to PRN. Upload your XLSM file, then simply
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert XLSM to PRN" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsm" outformat="prn" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Sample Code to Convert XLSM to PRN" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="xlsm" outformat="prn" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert XLSM to PRN via Java" %}}
 

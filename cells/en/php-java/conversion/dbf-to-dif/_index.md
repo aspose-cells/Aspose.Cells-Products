@@ -1,7 +1,7 @@
 ---
 title: PHP DBF to DIF - DBF to DIF Converter
-description: Aspose Excel. Convert DBF to DIF quickly and easily with Aspose.Cells. PHP DBF to DIF. PHP Save DBF to DIF. Save DBF as DIF using PHP.
-keywords: [Aspose Excel., PHP Aspose.Cells., Convert DBF to DIF in PHP., Save DBF to DIF using PHP., PHP DBF to DIF saveformat., DBF to DIF Converter., PHP Save DBF as DIF]
+description: Aspose Excel. This comprehensive solution provides PHP developers with a fully integrated approach to convert DBF to DIF format, enabling seamless saving of DBF data into DIF format using the Aspose.Cells library, all through efficient and customizable PHP code.
+keywords: [Aspose Excel., PHP Aspose.Cells., Smart DBF files to DIF Converter for PHP., Convert DBF to DIF in PHP., DBF files to DIF Conversion in PHP., Leverage intelligent data processing to automatically parse and save DBF into DIF format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -28,7 +28,7 @@ Follow the easy steps to convert DBF to DIF. Upload your DBF file, then simply s
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert DBF to DIF" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="dbf" outformat="dif" IsLandingPage="true" language="phpjava" %}}
+{{% cells-convert title="Sample Code to Convert DBF to DIF" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="dbf" outformat="dif" IsLandingPage="true" language="phpjava" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert DBF to DIF via PHP" %}}
 

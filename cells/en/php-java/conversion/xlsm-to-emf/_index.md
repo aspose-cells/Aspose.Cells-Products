@@ -1,7 +1,7 @@
 ---
 title: PHP XLSM to EMF - XLSM to EMF Converter
-description: Aspose Excel. Convert XLSM to EMF quickly and easily with Aspose.Cells. PHP XLSM to EMF. PHP Save XLSM to EMF. Save XLSM as EMF using PHP.
-keywords: [Aspose Excel., PHP Aspose.Cells., Convert XLSM to EMF in PHP., Save XLSM to EMF using PHP., PHP XLSM to EMF saveformat., XLSM to EMF Converter., PHP Save XLSM as EMF]
+description: Aspose Excel. This comprehensive solution provides PHP developers with a fully integrated approach to convert XLSM to EMF format, enabling seamless saving of XLSM data into EMF format using the Aspose.Cells library, all through efficient and customizable PHP code.
+keywords: [Aspose Excel., PHP Aspose.Cells., Smart XLSM files to EMF Converter for PHP., Convert XLSM to EMF in PHP., XLSM files to EMF Conversion in PHP., Leverage intelligent data processing to automatically parse and save XLSM into EMF format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -28,7 +28,7 @@ Follow the easy steps to convert XLSM to EMF. Upload your XLSM file, then simply
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert XLSM to EMF" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsm" outformat="emf" IsLandingPage="true" language="phpjava" %}}
+{{% cells-convert title="Sample Code to Convert XLSM to EMF" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="xlsm" outformat="emf" IsLandingPage="true" language="phpjava" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert XLSM to EMF via PHP" %}}
 

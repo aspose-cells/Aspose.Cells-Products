@@ -1,7 +1,7 @@
 ---
 title: C++ XLSM to EXCEL - XLSM to EXCEL Converter
-description: Aspose Excel. Convert XLSM to EXCEL quickly and easily with Aspose.Cells. C++ XLSM to EXCEL. C++ Save XLSM to EXCEL. Save XLSM as EXCEL using C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., Convert XLSM to EXCEL in C++., Save XLSM to EXCEL using C++., C++ XLSM to EXCEL saveformat., XLSM to EXCEL Converter., C++ Save XLSM as EXCEL]
+description: Aspose Excel. This comprehensive solution provides C++ developers with a fully integrated approach to convert XLSM to EXCEL format, enabling seamless saving of XLSM data into EXCEL format using the Aspose.Cells library, all through efficient and customizable C++ code.
+keywords: [Aspose Excel., C++ Aspose.Cells., Smart XLSM files to EXCEL Converter for C++., Convert XLSM to EXCEL in C++., XLSM files to EXCEL Conversion in C++., Leverage intelligent data processing to automatically parse and save XLSM into EXCEL format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -38,7 +38,7 @@ Follow the easy steps to convert XLSM to EXCEL. Upload your XLSM file, then simp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert XLSM to EXCEL" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsm" outformat="xlsx" IsLandingPage="true" language="cpp" %}}
+{{% cells-convert title="Sample Code to Convert XLSM to EXCEL" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="xlsm" outformat="xlsx" IsLandingPage="true" language="cpp" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert XLSM to EXCEL via C++" %}}
 
@@ -102,6 +102,7 @@ There are three options to install "Aspose.Cells for C++" onto your system. Plea
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xlsm-to-pdf/" name="XLSM TO PDF" description="Portable Document Format" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xlsm-to-png/" name="XLSM TO PNG" description="Portable Network Graphics" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xlsm-to-svg/" name="XLSM TO SVG" description="Scalable Vector Graphics" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xlsm-to-tiff/" name="XLSM TO TIFF" description="Tagged Image Format" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xlsm-to-tsv/" name="XLSM TO TSV" description="Tab-Separated Values" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xlsm-to-txt/" name="XLSM TO TXT" description="Text Document" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xlsm-to-xls/" name="XLSM TO XLS" description="Excel Binary Format" >}}

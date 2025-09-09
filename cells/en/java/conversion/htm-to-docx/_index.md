@@ -1,7 +1,7 @@
 ---
 title: Java HTM to DOCX - HTM to DOCX Converter
-description: Aspose Excel. Convert HTM to DOCX quickly and easily with Aspose.Cells. Java HTM to DOCX. Java Save HTM to DOCX. Save HTM as DOCX using Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Convert HTM to DOCX in Java., Save HTM to DOCX using Java., Java HTM to DOCX saveformat., HTM to DOCX Converter., Java Save HTM as DOCX]
+description: Aspose Excel. This comprehensive solution provides Java developers with a fully integrated approach to convert HTM to DOCX format, enabling seamless saving of HTM data into DOCX format using the Aspose.Cells library, all through efficient and customizable Java code.
+keywords: [Aspose Excel., Java Aspose.Cells., Smart HTM files to DOCX Converter for Java., Convert HTM to DOCX in Java., HTM files to DOCX Conversion in Java., Leverage intelligent data processing to automatically parse and save HTM into DOCX format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -57,7 +57,7 @@ Follow the easy steps to convert HTM to DOCX. Upload your HTM file, then simply 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert HTM to DOCX" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="htm" outformat="docx" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Sample Code to Convert HTM to DOCX" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="htm" outformat="docx" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert HTM to DOCX via Java" %}}
 

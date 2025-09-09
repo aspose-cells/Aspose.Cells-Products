@@ -1,7 +1,7 @@
 ---
 title: Python XLSB to PPTX - XLSB to PPTX Converter
-description: Aspose Excel. Python Excel. Convert XLSB to PPTX quickly and easily with Aspose.Cells. Python XLSB to PPTX. Python Save XLSB to PPTX. Save XLSB as PPTX using Python Excel Library.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert XLSB to PPTX in Python Excel Library., Save XLSB to PPTX using Python Excel Library., Python XLSB to PPTX saveformat., XLSB to PPTX Converter., Python Save XLSB as PPTX]
+description: Aspose Excel. This comprehensive solution provides Python developers with a fully integrated approach to convert XLSB to PPTX format, enabling seamless saving of XLSB data into PPTX format using the Aspose.Cells library, all through efficient and customizable Python code.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart XLSB files to PPTX Converter for Python., Convert XLSB to PPTX in Python., XLSB files to PPTX Conversion in Python., Leverage intelligent data processing to automatically parse and save XLSB into PPTX format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -29,7 +29,7 @@ Follow the easy steps to convert XLSB to PPTX. Upload your XLSB file, then simpl
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert XLSB to PPTX via Python Excel Library" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsb" outformat="pptx" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Sample Code to Convert XLSB to PPTX via Python Excel Library" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="xlsb" outformat="pptx" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert XLSB to PPTX" %}}
 

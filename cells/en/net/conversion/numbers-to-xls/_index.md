@@ -1,7 +1,7 @@
 ---
 title: C# NUMBERS to XLS - NUMBERS to XLS Converter
-description: Aspose Excel. Convert NUMBERS to XLS quickly and easily with Aspose.Cells. C# NUMBERS to XLS. C# Save NUMBERS to XLS. Save NUMBERS as XLS using C#.
-keywords: [Aspose Excel., C# Aspose.Cells., Convert NUMBERS to XLS in C#., Save NUMBERS to XLS using C#., C# NUMBERS to XLS saveformat., NUMBERS to XLS Converter., C# Save NUMBERS as XLS]
+description: Aspose Excel. This comprehensive solution provides C# developers with a fully integrated approach to convert NUMBERS to XLS format, enabling seamless saving of NUMBERS data into XLS format using the Aspose.Cells library, all through efficient and customizable C# code.
+keywords: [Aspose Excel., C# Aspose.Cells., Smart NUMBERS files to XLS Converter for C#., Convert NUMBERS to XLS in C#., NUMBERS files to XLS Conversion in C#., Leverage intelligent data processing to automatically parse and save NUMBERS into XLS format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -36,7 +36,7 @@ Follow the easy steps to convert NUMBERS to XLS. Upload your NUMBERS file, then 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert NUMBERS to XLS" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="numbers" outformat="xls" IsLandingPage="true" %}}
+{{% cells-convert title="Sample Code to Convert NUMBERS to XLS" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="numbers" outformat="xls" IsLandingPage="true" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert NUMBERS to XLS via C#" %}}
 

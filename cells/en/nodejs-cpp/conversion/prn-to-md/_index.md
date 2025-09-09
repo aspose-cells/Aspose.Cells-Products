@@ -1,7 +1,7 @@
 ---
 title: Node.js PRN to MD - PRN to MD Converter
-description: Aspose Excel. Convert PRN to MD quickly and easily with Aspose.Cells. Node.js PRN to MD. Node.js Save PRN to MD. Save PRN as MD using Node.js.
-keywords: [Aspose Excel., Node.js Aspose.Cells., Convert PRN to MD in Node.js., Save PRN to MD using Node.js., Node.js PRN to MD saveformat., PRN to MD Converter., Node.js Save PRN as MD]
+description: Aspose Excel. This comprehensive solution provides Node.js developers with a fully integrated approach to convert PRN to MD format, enabling seamless saving of PRN data into MD format using the Aspose.Cells library, all through efficient and customizable Node.js code.
+keywords: [Aspose Excel., Node.js Aspose.Cells., Smart PRN files to MD Converter for Node.js., Convert PRN to MD in Node.js., PRN files to MD Conversion in Node.js., Leverage intelligent data processing to automatically parse and save PRN into MD format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -28,7 +28,7 @@ Follow the easy steps to convert PRN to MD. Upload your PRN file, then simply sa
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert PRN to MD" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="prn" outformat="md" IsLandingPage="true" language="nodejscpp" %}}
+{{% cells-convert title="Sample Code to Convert PRN to MD" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="prn" outformat="md" IsLandingPage="true" language="nodejscpp" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert PRN to MD via Node.js" %}}
 

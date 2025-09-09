@@ -1,7 +1,7 @@
 ---
 title: Java EXCEL to HTML - EXCEL to HTML Converter
-description: Aspose Excel. Convert EXCEL to HTML quickly and easily with Aspose.Cells. Java EXCEL to HTML. Java Save EXCEL to HTML. Save EXCEL as HTML using Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Convert EXCEL to HTML in Java., Save EXCEL to HTML using Java., Java EXCEL to HTML saveformat., EXCEL to HTML Converter., Java Save EXCEL as HTML]
+description: Aspose Excel. This comprehensive solution provides Java developers with a fully integrated approach to convert EXCEL to HTML format, enabling seamless saving of EXCEL data into HTML format using the Aspose.Cells library, all through efficient and customizable Java code.
+keywords: [Aspose Excel., Java Aspose.Cells., Smart EXCEL files to HTML Converter for Java., Convert EXCEL to HTML in Java., EXCEL files to HTML Conversion in Java., Leverage intelligent data processing to automatically parse and save EXCEL into HTML format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -57,7 +57,7 @@ Follow the easy steps to convert EXCEL to HTML. Upload your EXCEL file, then sim
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert EXCEL to HTML" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsx" outformat="html" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Sample Code to Convert EXCEL to HTML" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="xlsx" outformat="html" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert EXCEL to HTML via Java" %}}
 

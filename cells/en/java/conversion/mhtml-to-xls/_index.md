@@ -1,7 +1,7 @@
 ---
 title: Java MHTML to XLS - MHTML to XLS Converter
-description: Aspose Excel. Convert MHTML to XLS quickly and easily with Aspose.Cells. Java MHTML to XLS. Java Save MHTML to XLS. Save MHTML as XLS using Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Convert MHTML to XLS in Java., Save MHTML to XLS using Java., Java MHTML to XLS saveformat., MHTML to XLS Converter., Java Save MHTML as XLS]
+description: Aspose Excel. This comprehensive solution provides Java developers with a fully integrated approach to convert MHTML to XLS format, enabling seamless saving of MHTML data into XLS format using the Aspose.Cells library, all through efficient and customizable Java code.
+keywords: [Aspose Excel., Java Aspose.Cells., Smart MHTML files to XLS Converter for Java., Convert MHTML to XLS in Java., MHTML files to XLS Conversion in Java., Leverage intelligent data processing to automatically parse and save MHTML into XLS format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -57,7 +57,7 @@ Follow the easy steps to convert MHTML to XLS. Upload your MHTML file, then simp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert MHTML to XLS" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="mhtml" outformat="xls" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Sample Code to Convert MHTML to XLS" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="mhtml" outformat="xls" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert MHTML to XLS via Java" %}}
 

@@ -1,7 +1,7 @@
 ---
 title: PHP TABDELIMITED to DOCX - TABDELIMITED to DOCX Converter
-description: Aspose Excel. Convert TABDELIMITED to DOCX quickly and easily with Aspose.Cells. PHP TABDELIMITED to DOCX. PHP Save TABDELIMITED to DOCX. Save TABDELIMITED as DOCX using PHP.
-keywords: [Aspose Excel., PHP Aspose.Cells., Convert TABDELIMITED to DOCX in PHP., Save TABDELIMITED to DOCX using PHP., PHP TABDELIMITED to DOCX saveformat., TABDELIMITED to DOCX Converter., PHP Save TABDELIMITED as DOCX]
+description: Aspose Excel. This comprehensive solution provides PHP developers with a fully integrated approach to convert TABDELIMITED to DOCX format, enabling seamless saving of TABDELIMITED data into DOCX format using the Aspose.Cells library, all through efficient and customizable PHP code.
+keywords: [Aspose Excel., PHP Aspose.Cells., Smart TABDELIMITED files to DOCX Converter for PHP., Convert TABDELIMITED to DOCX in PHP., TABDELIMITED files to DOCX Conversion in PHP., Leverage intelligent data processing to automatically parse and save TABDELIMITED into DOCX format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -28,7 +28,7 @@ Follow the easy steps to convert TABDELIMITED to DOCX. Upload your TABDELIMITED 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert TABDELIMITED to DOCX" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="tsv" outformat="docx" IsLandingPage="true" language="phpjava" %}}
+{{% cells-convert title="Sample Code to Convert TABDELIMITED to DOCX" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="tsv" outformat="docx" IsLandingPage="true" language="phpjava" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert TABDELIMITED to DOCX via PHP" %}}
 

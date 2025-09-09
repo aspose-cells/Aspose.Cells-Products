@@ -1,7 +1,7 @@
 ---
 title: PHP MHT to MD - MHT to MD Converter
-description: Aspose Excel. Convert MHT to MD quickly and easily with Aspose.Cells. PHP MHT to MD. PHP Save MHT to MD. Save MHT as MD using PHP.
-keywords: [Aspose Excel., PHP Aspose.Cells., Convert MHT to MD in PHP., Save MHT to MD using PHP., PHP MHT to MD saveformat., MHT to MD Converter., PHP Save MHT as MD]
+description: Aspose Excel. This comprehensive solution provides PHP developers with a fully integrated approach to convert MHT to MD format, enabling seamless saving of MHT data into MD format using the Aspose.Cells library, all through efficient and customizable PHP code.
+keywords: [Aspose Excel., PHP Aspose.Cells., Smart MHT files to MD Converter for PHP., Convert MHT to MD in PHP., MHT files to MD Conversion in PHP., Leverage intelligent data processing to automatically parse and save MHT into MD format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -28,7 +28,7 @@ Follow the easy steps to convert MHT to MD. Upload your MHT file, then simply sa
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert MHT to MD" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="mht" outformat="md" IsLandingPage="true" language="phpjava" %}}
+{{% cells-convert title="Sample Code to Convert MHT to MD" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="mht" outformat="md" IsLandingPage="true" language="phpjava" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert MHT to MD via PHP" %}}
 

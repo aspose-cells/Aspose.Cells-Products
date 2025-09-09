@@ -1,7 +1,7 @@
 ---
 title: PHP NUMBERS to XLS - NUMBERS to XLS Converter
-description: Aspose Excel. Convert NUMBERS to XLS quickly and easily with Aspose.Cells. PHP NUMBERS to XLS. PHP Save NUMBERS to XLS. Save NUMBERS as XLS using PHP.
-keywords: [Aspose Excel., PHP Aspose.Cells., Convert NUMBERS to XLS in PHP., Save NUMBERS to XLS using PHP., PHP NUMBERS to XLS saveformat., NUMBERS to XLS Converter., PHP Save NUMBERS as XLS]
+description: Aspose Excel. This comprehensive solution provides PHP developers with a fully integrated approach to convert NUMBERS to XLS format, enabling seamless saving of NUMBERS data into XLS format using the Aspose.Cells library, all through efficient and customizable PHP code.
+keywords: [Aspose Excel., PHP Aspose.Cells., Smart NUMBERS files to XLS Converter for PHP., Convert NUMBERS to XLS in PHP., NUMBERS files to XLS Conversion in PHP., Leverage intelligent data processing to automatically parse and save NUMBERS into XLS format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -28,7 +28,7 @@ Follow the easy steps to convert NUMBERS to XLS. Upload your NUMBERS file, then 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert NUMBERS to XLS" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="numbers" outformat="xls" IsLandingPage="true" language="phpjava" %}}
+{{% cells-convert title="Sample Code to Convert NUMBERS to XLS" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="numbers" outformat="xls" IsLandingPage="true" language="phpjava" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert NUMBERS to XLS via PHP" %}}
 

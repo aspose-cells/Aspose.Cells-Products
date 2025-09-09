@@ -1,7 +1,7 @@
 ---
 title: Python SXC to HTML - SXC to HTML Converter
-description: Aspose Excel. Python Excel. Convert SXC to HTML quickly and easily with Aspose.Cells. Python SXC to HTML. Python Save SXC to HTML. Save SXC as HTML using Python Excel Library.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert SXC to HTML in Python Excel Library., Save SXC to HTML using Python Excel Library., Python SXC to HTML saveformat., SXC to HTML Converter., Python Save SXC as HTML]
+description: Aspose Excel. This comprehensive solution provides Python developers with a fully integrated approach to convert SXC to HTML format, enabling seamless saving of SXC data into HTML format using the Aspose.Cells library, all through efficient and customizable Python code.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart SXC files to HTML Converter for Python., Convert SXC to HTML in Python., SXC files to HTML Conversion in Python., Leverage intelligent data processing to automatically parse and save SXC into HTML format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -28,7 +28,7 @@ Follow the easy steps to convert SXC to HTML. Upload your SXC file, then simply 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert SXC to HTML via Python Excel Library" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="sxc" outformat="html" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="Sample Code to Convert SXC to HTML via Python Excel Library" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="sxc" outformat="html" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert SXC to HTML via Python" %}}
 

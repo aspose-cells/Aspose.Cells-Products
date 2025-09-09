@@ -1,7 +1,7 @@
 ---
 title: PHP JSON to PDF - JSON to PDF Converter
-description: Aspose Excel. Convert JSON to PDF quickly and easily with Aspose.Cells. PHP JSON to PDF. PHP Save JSON to PDF. Save JSON as PDF using PHP.
-keywords: [Aspose Excel., PHP Aspose.Cells., Convert JSON to PDF in PHP., Save JSON to PDF using PHP., PHP JSON to PDF saveformat., JSON to PDF Converter., PHP Save JSON as PDF]
+description: Aspose Excel. This comprehensive solution provides PHP developers with a fully integrated approach to convert JSON to PDF format, enabling seamless saving of JSON data into PDF format using the Aspose.Cells library, all through efficient and customizable PHP code.
+keywords: [Aspose Excel., PHP Aspose.Cells., Smart JSON files to PDF Converter for PHP., Convert JSON to PDF in PHP., JSON files to PDF Conversion in PHP., Leverage intelligent data processing to automatically parse and save JSON into PDF format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -28,7 +28,7 @@ Follow the easy steps to convert JSON to PDF. Upload your JSON file, then simply
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert JSON to PDF" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="json" outformat="pdf" IsLandingPage="true" language="phpjava" %}}
+{{% cells-convert title="Sample Code to Convert JSON to PDF" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="json" outformat="pdf" IsLandingPage="true" language="phpjava" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert JSON to PDF via PHP" %}}
 

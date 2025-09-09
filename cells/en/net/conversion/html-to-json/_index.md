@@ -1,7 +1,7 @@
 ---
 title: C# HTML to JSON - HTML to JSON Converter
-description: Aspose Excel. Convert HTML to JSON quickly and easily with Aspose.Cells. C# HTML to JSON. C# Save HTML to JSON. Save HTML as JSON using C#.
-keywords: [Aspose Excel., C# Aspose.Cells., Convert HTML to JSON in C#., Save HTML to JSON using C#., C# HTML to JSON saveformat., HTML to JSON Converter., C# Save HTML as JSON]
+description: Aspose Excel. This comprehensive solution provides C# developers with a fully integrated approach to convert HTML to JSON format, enabling seamless saving of HTML data into JSON format using the Aspose.Cells library, all through efficient and customizable C# code.
+keywords: [Aspose Excel., C# Aspose.Cells., Smart HTML files to JSON Converter for C#., Convert HTML to JSON in C#., HTML files to JSON Conversion in C#., Leverage intelligent data processing to automatically parse and save HTML into JSON format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -36,7 +36,7 @@ Follow the easy steps to convert HTML to JSON. Upload your HTML file, then simpl
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert HTML to JSON" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="html" outformat="json" IsLandingPage="true" %}}
+{{% cells-convert title="Sample Code to Convert HTML to JSON" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="html" outformat="json" IsLandingPage="true" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert HTML to JSON via C#" %}}
 

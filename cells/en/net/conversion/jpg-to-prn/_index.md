@@ -1,7 +1,7 @@
 ---
 title: C# JPG to PRN - JPG to PRN Converter
-description: Aspose Excel. Convert JPG to PRN quickly and easily with Aspose.Cells. C# JPG to PRN. C# Save JPG to PRN. Save JPG as PRN using C#.
-keywords: [Aspose Excel., C# Aspose.Cells., Convert JPG to PRN in C#., Save JPG to PRN using C#., C# JPG to PRN saveformat., JPG to PRN Converter., C# Save JPG as PRN]
+description: Aspose Excel. This comprehensive solution provides C# developers with a fully integrated approach to convert JPG to PRN format, enabling seamless saving of JPG data into PRN format using the Aspose.Cells library, all through efficient and customizable C# code.
+keywords: [Aspose Excel., C# Aspose.Cells., Smart JPG files to PRN Converter for C#., Convert JPG to PRN in C#., JPG files to PRN Conversion in C#., Leverage intelligent data processing to automatically parse and save JPG into PRN format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -36,7 +36,7 @@ Follow the easy steps to convert JPG to PRN. Upload your JPG file, then simply s
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert JPG to PRN" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="jpg" outformat="prn" IsLandingPage="true" %}}
+{{% cells-convert title="Sample Code to Convert JPG to PRN" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="jpg" outformat="prn" IsLandingPage="true" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert JPG to PRN via C#" %}}
 

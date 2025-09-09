@@ -1,7 +1,7 @@
 ---
 title: C# XLSB to XPS - XLSB to XPS Converter
-description: Aspose Excel. Convert XLSB to XPS quickly and easily with Aspose.Cells. C# XLSB to XPS. C# Save XLSB to XPS. Save XLSB as XPS using C#.
-keywords: [Aspose Excel., C# Aspose.Cells., Convert XLSB to XPS in C#., Save XLSB to XPS using C#., C# XLSB to XPS saveformat., XLSB to XPS Converter., C# Save XLSB as XPS]
+description: Aspose Excel. This comprehensive solution provides C# developers with a fully integrated approach to convert XLSB to XPS format, enabling seamless saving of XLSB data into XPS format using the Aspose.Cells library, all through efficient and customizable C# code.
+keywords: [Aspose Excel., C# Aspose.Cells., Smart XLSB files to XPS Converter for C#., Convert XLSB to XPS in C#., XLSB files to XPS Conversion in C#., Leverage intelligent data processing to automatically parse and save XLSB into XPS format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -36,7 +36,7 @@ Follow the easy steps to convert XLSB to XPS. Upload your XLSB file, then simply
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert XLSB to XPS" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsb" outformat="xps" IsLandingPage="true" %}}
+{{% cells-convert title="Sample Code to Convert XLSB to XPS" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="xlsb" outformat="xps" IsLandingPage="true" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert XLSB to XPS via C#" %}}
 

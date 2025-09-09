@@ -1,7 +1,7 @@
 ---
 title: Java HTM to XLAM - HTM to XLAM Converter
-description: Aspose Excel. Convert HTM to XLAM quickly and easily with Aspose.Cells. Java HTM to XLAM. Java Save HTM to XLAM. Save HTM as XLAM using Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Convert HTM to XLAM in Java., Save HTM to XLAM using Java., Java HTM to XLAM saveformat., HTM to XLAM Converter., Java Save HTM as XLAM]
+description: Aspose Excel. This comprehensive solution provides Java developers with a fully integrated approach to convert HTM to XLAM format, enabling seamless saving of HTM data into XLAM format using the Aspose.Cells library, all through efficient and customizable Java code.
+keywords: [Aspose Excel., Java Aspose.Cells., Smart HTM files to XLAM Converter for Java., Convert HTM to XLAM in Java., HTM files to XLAM Conversion in Java., Leverage intelligent data processing to automatically parse and save HTM into XLAM format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -57,7 +57,7 @@ Follow the easy steps to convert HTM to XLAM. Upload your HTM file, then simply 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert HTM to XLAM" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="htm" outformat="xlam" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Sample Code to Convert HTM to XLAM" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="htm" outformat="xlam" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert HTM to XLAM via Java" %}}
 

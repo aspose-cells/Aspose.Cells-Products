@@ -1,7 +1,7 @@
 ---
 title: C# XLS to XLSB - XLS to XLSB Converter
-description: Aspose Excel. Convert XLS to XLSB quickly and easily with Aspose.Cells. C# XLS to XLSB. C# Save XLS to XLSB. Save XLS as XLSB using C#.
-keywords: [Aspose Excel., C# Aspose.Cells., Convert XLS to XLSB in C#., Save XLS to XLSB using C#., C# XLS to XLSB saveformat., XLS to XLSB Converter., C# Save XLS as XLSB]
+description: Aspose Excel. This comprehensive solution provides C# developers with a fully integrated approach to convert XLS to XLSB format, enabling seamless saving of XLS data into XLSB format using the Aspose.Cells library, all through efficient and customizable C# code.
+keywords: [Aspose Excel., C# Aspose.Cells., Smart XLS files to XLSB Converter for C#., Convert XLS to XLSB in C#., XLS files to XLSB Conversion in C#., Leverage intelligent data processing to automatically parse and save XLS into XLSB format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -36,7 +36,7 @@ Follow the easy steps to convert XLS to XLSB. Upload your XLS file, then simply 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert XLS to XLSB" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xls" outformat="xlsb" IsLandingPage="true" %}}
+{{% cells-convert title="Sample Code to Convert XLS to XLSB" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="xls" outformat="xlsb" IsLandingPage="true" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert XLS to XLSB via C#" %}}
 

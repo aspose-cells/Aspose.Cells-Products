@@ -1,7 +1,7 @@
 ---
 title: PHP MARKDOWN to TXT - MARKDOWN to TXT Converter
-description: Aspose Excel. Convert MARKDOWN to TXT quickly and easily with Aspose.Cells. PHP MARKDOWN to TXT. PHP Save MARKDOWN to TXT. Save MARKDOWN as TXT using PHP.
-keywords: [Aspose Excel., PHP Aspose.Cells., Convert MARKDOWN to TXT in PHP., Save MARKDOWN to TXT using PHP., PHP MARKDOWN to TXT saveformat., MARKDOWN to TXT Converter., PHP Save MARKDOWN as TXT]
+description: Aspose Excel. This comprehensive solution provides PHP developers with a fully integrated approach to convert MARKDOWN to TXT format, enabling seamless saving of MARKDOWN data into TXT format using the Aspose.Cells library, all through efficient and customizable PHP code.
+keywords: [Aspose Excel., PHP Aspose.Cells., Smart MARKDOWN files to TXT Converter for PHP., Convert MARKDOWN to TXT in PHP., MARKDOWN files to TXT Conversion in PHP., Leverage intelligent data processing to automatically parse and save MARKDOWN into TXT format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -28,7 +28,7 @@ Follow the easy steps to convert MARKDOWN to TXT. Upload your MARKDOWN file, the
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert MARKDOWN to TXT" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="md" outformat="txt" IsLandingPage="true" language="phpjava" %}}
+{{% cells-convert title="Sample Code to Convert MARKDOWN to TXT" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="md" outformat="txt" IsLandingPage="true" language="phpjava" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert MARKDOWN to TXT via PHP" %}}
 

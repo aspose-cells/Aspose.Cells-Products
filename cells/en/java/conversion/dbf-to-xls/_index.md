@@ -1,7 +1,7 @@
 ---
 title: Java DBF to XLS - DBF to XLS Converter
-description: Aspose Excel. Convert DBF to XLS quickly and easily with Aspose.Cells. Java DBF to XLS. Java Save DBF to XLS. Save DBF as XLS using Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Convert DBF to XLS in Java., Save DBF to XLS using Java., Java DBF to XLS saveformat., DBF to XLS Converter., Java Save DBF as XLS]
+description: Aspose Excel. This comprehensive solution provides Java developers with a fully integrated approach to convert DBF to XLS format, enabling seamless saving of DBF data into XLS format using the Aspose.Cells library, all through efficient and customizable Java code.
+keywords: [Aspose Excel., Java Aspose.Cells., Smart DBF files to XLS Converter for Java., Convert DBF to XLS in Java., DBF files to XLS Conversion in Java., Leverage intelligent data processing to automatically parse and save DBF into XLS format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -57,7 +57,7 @@ Follow the easy steps to convert DBF to XLS. Upload your DBF file, then simply s
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert DBF to XLS" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="dbf" outformat="xls" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Sample Code to Convert DBF to XLS" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="dbf" outformat="xls" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert DBF to XLS via Java" %}}
 

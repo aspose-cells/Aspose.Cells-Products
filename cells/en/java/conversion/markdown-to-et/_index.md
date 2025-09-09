@@ -1,7 +1,7 @@
 ---
 title: Java MARKDOWN to ET - MARKDOWN to ET Converter
-description: Aspose Excel. Convert MARKDOWN to ET quickly and easily with Aspose.Cells. Java MARKDOWN to ET. Java Save MARKDOWN to ET. Save MARKDOWN as ET using Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Convert MARKDOWN to ET in Java., Save MARKDOWN to ET using Java., Java MARKDOWN to ET saveformat., MARKDOWN to ET Converter., Java Save MARKDOWN as ET]
+description: Aspose Excel. This comprehensive solution provides Java developers with a fully integrated approach to convert MARKDOWN to ET format, enabling seamless saving of MARKDOWN data into ET format using the Aspose.Cells library, all through efficient and customizable Java code.
+keywords: [Aspose Excel., Java Aspose.Cells., Smart MARKDOWN files to ET Converter for Java., Convert MARKDOWN to ET in Java., MARKDOWN files to ET Conversion in Java., Leverage intelligent data processing to automatically parse and save MARKDOWN into ET format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -57,7 +57,7 @@ Follow the easy steps to convert MARKDOWN to ET. Upload your MARKDOWN file, then
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert MARKDOWN to ET" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="md" outformat="et" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Sample Code to Convert MARKDOWN to ET" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="md" outformat="et" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert MARKDOWN to ET via Java" %}}
 

@@ -1,7 +1,7 @@
 ---
 title: C# TABDELIMITED to XLS - TABDELIMITED to XLS Converter
-description: Aspose Excel. Convert TABDELIMITED to XLS quickly and easily with Aspose.Cells. C# TABDELIMITED to XLS. C# Save TABDELIMITED to XLS. Save TABDELIMITED as XLS using C#.
-keywords: [Aspose Excel., C# Aspose.Cells., Convert TABDELIMITED to XLS in C#., Save TABDELIMITED to XLS using C#., C# TABDELIMITED to XLS saveformat., TABDELIMITED to XLS Converter., C# Save TABDELIMITED as XLS]
+description: Aspose Excel. This comprehensive solution provides C# developers with a fully integrated approach to convert TABDELIMITED to XLS format, enabling seamless saving of TABDELIMITED data into XLS format using the Aspose.Cells library, all through efficient and customizable C# code.
+keywords: [Aspose Excel., C# Aspose.Cells., Smart TABDELIMITED files to XLS Converter for C#., Convert TABDELIMITED to XLS in C#., TABDELIMITED files to XLS Conversion in C#., Leverage intelligent data processing to automatically parse and save TABDELIMITED into XLS format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -36,7 +36,7 @@ Follow the easy steps to convert TABDELIMITED to XLS. Upload your TABDELIMITED f
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert TABDELIMITED to XLS" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="tsv" outformat="xls" IsLandingPage="true" %}}
+{{% cells-convert title="Sample Code to Convert TABDELIMITED to XLS" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="tsv" outformat="xls" IsLandingPage="true" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert TABDELIMITED to XLS via C#" %}}
 

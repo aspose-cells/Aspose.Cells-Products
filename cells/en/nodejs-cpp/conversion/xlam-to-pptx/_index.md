@@ -1,7 +1,7 @@
 ---
 title: Node.js XLAM to PPTX - XLAM to PPTX Converter
-description: Aspose Excel. Convert XLAM to PPTX quickly and easily with Aspose.Cells. Node.js XLAM to PPTX. Node.js Save XLAM to PPTX. Save XLAM as PPTX using Node.js.
-keywords: [Aspose Excel., Node.js Aspose.Cells., Convert XLAM to PPTX in Node.js., Save XLAM to PPTX using Node.js., Node.js XLAM to PPTX saveformat., XLAM to PPTX Converter., Node.js Save XLAM as PPTX]
+description: Aspose Excel. This comprehensive solution provides Node.js developers with a fully integrated approach to convert XLAM to PPTX format, enabling seamless saving of XLAM data into PPTX format using the Aspose.Cells library, all through efficient and customizable Node.js code.
+keywords: [Aspose Excel., Node.js Aspose.Cells., Smart XLAM files to PPTX Converter for Node.js., Convert XLAM to PPTX in Node.js., XLAM files to PPTX Conversion in Node.js., Leverage intelligent data processing to automatically parse and save XLAM into PPTX format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -28,7 +28,7 @@ Follow the easy steps to convert XLAM to PPTX. Upload your XLAM file, then simpl
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert XLAM to PPTX" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlam" outformat="pptx" IsLandingPage="true" language="nodejscpp" %}}
+{{% cells-convert title="Sample Code to Convert XLAM to PPTX" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="xlam" outformat="pptx" IsLandingPage="true" language="nodejscpp" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert XLAM to PPTX via Node.js" %}}
 

@@ -1,7 +1,7 @@
 ---
 title: PHP PNG to ETT - PNG to ETT Converter
-description: Aspose Excel. Convert PNG to ETT quickly and easily with Aspose.Cells. PHP PNG to ETT. PHP Save PNG to ETT. Save PNG as ETT using PHP.
-keywords: [Aspose Excel., PHP Aspose.Cells., Convert PNG to ETT in PHP., Save PNG to ETT using PHP., PHP PNG to ETT saveformat., PNG to ETT Converter., PHP Save PNG as ETT]
+description: Aspose Excel. This comprehensive solution provides PHP developers with a fully integrated approach to convert PNG to ETT format, enabling seamless saving of PNG data into ETT format using the Aspose.Cells library, all through efficient and customizable PHP code.
+keywords: [Aspose Excel., PHP Aspose.Cells., Smart PNG files to ETT Converter for PHP., Convert PNG to ETT in PHP., PNG files to ETT Conversion in PHP., Leverage intelligent data processing to automatically parse and save PNG into ETT format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -28,7 +28,7 @@ Follow the easy steps to convert PNG to ETT. Upload your PNG file, then simply s
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert PNG to ETT" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="png" outformat="ett" IsLandingPage="true" language="phpjava" %}}
+{{% cells-convert title="Sample Code to Convert PNG to ETT" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="png" outformat="ett" IsLandingPage="true" language="phpjava" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert PNG to ETT via PHP" %}}
 

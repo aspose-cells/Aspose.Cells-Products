@@ -1,7 +1,7 @@
 ---
 title: PHP MARKDOWN to JPG - MARKDOWN to JPG Converter
-description: Aspose Excel. Convert MARKDOWN to JPG quickly and easily with Aspose.Cells. PHP MARKDOWN to JPG. PHP Save MARKDOWN to JPG. Save MARKDOWN as JPG using PHP.
-keywords: [Aspose Excel., PHP Aspose.Cells., Convert MARKDOWN to JPG in PHP., Save MARKDOWN to JPG using PHP., PHP MARKDOWN to JPG saveformat., MARKDOWN to JPG Converter., PHP Save MARKDOWN as JPG]
+description: Aspose Excel. This comprehensive solution provides PHP developers with a fully integrated approach to convert MARKDOWN to JPG format, enabling seamless saving of MARKDOWN data into JPG format using the Aspose.Cells library, all through efficient and customizable PHP code.
+keywords: [Aspose Excel., PHP Aspose.Cells., Smart MARKDOWN files to JPG Converter for PHP., Convert MARKDOWN to JPG in PHP., MARKDOWN files to JPG Conversion in PHP., Leverage intelligent data processing to automatically parse and save MARKDOWN into JPG format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -28,7 +28,7 @@ Follow the easy steps to convert MARKDOWN to JPG. Upload your MARKDOWN file, the
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert MARKDOWN to JPG" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="md" outformat="jpg" IsLandingPage="true" language="phpjava" %}}
+{{% cells-convert title="Sample Code to Convert MARKDOWN to JPG" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="md" outformat="jpg" IsLandingPage="true" language="phpjava" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert MARKDOWN to JPG via PHP" %}}
 

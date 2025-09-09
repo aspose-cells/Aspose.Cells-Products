@@ -1,7 +1,7 @@
 ---
 title: Python EXCEL to ET - EXCEL to ET Converter
-description: Aspose Excel. Python Excel. Convert EXCEL to ET quickly and easily with Aspose.Cells. Python EXCEL to ET. Python Save EXCEL to ET. Save EXCEL as ET using Python Excel Library.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert EXCEL to ET in Python Excel Library., Save EXCEL to ET using Python Excel Library., Python EXCEL to ET saveformat., EXCEL to ET Converter., Python Save EXCEL as ET]
+description: Aspose Excel. This comprehensive solution provides Python developers with a fully integrated approach to convert EXCEL to ET format, enabling seamless saving of EXCEL data into ET format using the Aspose.Cells library, all through efficient and customizable Python code.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart EXCEL files to ET Converter for Python., Convert EXCEL to ET in Python., EXCEL files to ET Conversion in Python., Leverage intelligent data processing to automatically parse and save EXCEL into ET format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -29,7 +29,7 @@ Follow the easy steps to convert EXCEL to ET. Upload your EXCEL file, then simpl
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert EXCEL to ET via Python Excel Library" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsx" outformat="et" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Sample Code to Convert EXCEL to ET via Python Excel Library" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="xlsx" outformat="et" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert EXCEL to ET" %}}
 

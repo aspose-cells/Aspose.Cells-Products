@@ -1,7 +1,7 @@
 ---
 title: Java JPEG to MARKDOWN - JPEG to MARKDOWN Converter
-description: Aspose Excel. Convert JPEG to MARKDOWN quickly and easily with Aspose.Cells. Java JPEG to MARKDOWN. Java Save JPEG to MARKDOWN. Save JPEG as MARKDOWN using Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Convert JPEG to MARKDOWN in Java., Save JPEG to MARKDOWN using Java., Java JPEG to MARKDOWN saveformat., JPEG to MARKDOWN Converter., Java Save JPEG as MARKDOWN]
+description: Aspose Excel. This comprehensive solution provides Java developers with a fully integrated approach to convert JPEG to MARKDOWN format, enabling seamless saving of JPEG data into MARKDOWN format using the Aspose.Cells library, all through efficient and customizable Java code.
+keywords: [Aspose Excel., Java Aspose.Cells., Smart JPEG files to MARKDOWN Converter for Java., Convert JPEG to MARKDOWN in Java., JPEG files to MARKDOWN Conversion in Java., Leverage intelligent data processing to automatically parse and save JPEG into MARKDOWN format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -57,7 +57,7 @@ Follow the easy steps to convert JPEG to MARKDOWN. Upload your JPEG file, then s
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert JPEG to MARKDOWN" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="jpg" outformat="md" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Sample Code to Convert JPEG to MARKDOWN" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="jpg" outformat="md" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert JPEG to MARKDOWN via Java" %}}
 

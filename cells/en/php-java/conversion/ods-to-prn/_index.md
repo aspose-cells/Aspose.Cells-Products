@@ -1,7 +1,7 @@
 ---
 title: PHP ODS to PRN - ODS to PRN Converter
-description: Aspose Excel. Convert ODS to PRN quickly and easily with Aspose.Cells. PHP ODS to PRN. PHP Save ODS to PRN. Save ODS as PRN using PHP.
-keywords: [Aspose Excel., PHP Aspose.Cells., Convert ODS to PRN in PHP., Save ODS to PRN using PHP., PHP ODS to PRN saveformat., ODS to PRN Converter., PHP Save ODS as PRN]
+description: Aspose Excel. This comprehensive solution provides PHP developers with a fully integrated approach to convert ODS to PRN format, enabling seamless saving of ODS data into PRN format using the Aspose.Cells library, all through efficient and customizable PHP code.
+keywords: [Aspose Excel., PHP Aspose.Cells., Smart ODS files to PRN Converter for PHP., Convert ODS to PRN in PHP., ODS files to PRN Conversion in PHP., Leverage intelligent data processing to automatically parse and save ODS into PRN format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -28,7 +28,7 @@ Follow the easy steps to convert ODS to PRN. Upload your ODS file, then simply s
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert ODS to PRN" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="ods" outformat="prn" IsLandingPage="true" language="phpjava" %}}
+{{% cells-convert title="Sample Code to Convert ODS to PRN" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="ods" outformat="prn" IsLandingPage="true" language="phpjava" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert ODS to PRN via PHP" %}}
 

@@ -1,7 +1,7 @@
 ---
 title: C# XLSB to IMAGE - XLSB to IMAGE Converter
-description: Aspose Excel. Convert XLSB to IMAGE quickly and easily with Aspose.Cells. C# XLSB to IMAGE. C# Save XLSB to IMAGE. Save XLSB as IMAGE using C#.
-keywords: [Aspose Excel., C# Aspose.Cells., Convert XLSB to IMAGE in C#., Save XLSB to IMAGE using C#., C# XLSB to IMAGE saveformat., XLSB to IMAGE Converter., C# Save XLSB as IMAGE]
+description: Aspose Excel. This comprehensive solution provides C# developers with a fully integrated approach to convert XLSB to IMAGE format, enabling seamless saving of XLSB data into IMAGE format using the Aspose.Cells library, all through efficient and customizable C# code.
+keywords: [Aspose Excel., C# Aspose.Cells., Smart XLSB files to IMAGE Converter for C#., Convert XLSB to IMAGE in C#., XLSB files to IMAGE Conversion in C#., Leverage intelligent data processing to automatically parse and save XLSB into IMAGE format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -36,7 +36,7 @@ Follow the easy steps to convert XLSB to IMAGE. Upload your XLSB file, then simp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert XLSB to IMAGE" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsb" outformat="png" IsLandingPage="true" %}}
+{{% cells-convert title="Sample Code to Convert XLSB to IMAGE" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="xlsb" outformat="png" IsLandingPage="true" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert XLSB to IMAGE via C#" %}}
 

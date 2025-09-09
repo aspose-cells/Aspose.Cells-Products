@@ -1,7 +1,7 @@
 ---
 title: Node.js SXC to FODS - SXC to FODS Converter
-description: Aspose Excel. Convert SXC to FODS quickly and easily with Aspose.Cells. Node.js SXC to FODS. Node.js Save SXC to FODS. Save SXC as FODS using Node.js.
-keywords: [Aspose Excel., Node.js Aspose.Cells., Convert SXC to FODS in Node.js., Save SXC to FODS using Node.js., Node.js SXC to FODS saveformat., SXC to FODS Converter., Node.js Save SXC as FODS]
+description: Aspose Excel. This comprehensive solution provides Node.js developers with a fully integrated approach to convert SXC to FODS format, enabling seamless saving of SXC data into FODS format using the Aspose.Cells library, all through efficient and customizable Node.js code.
+keywords: [Aspose Excel., Node.js Aspose.Cells., Smart SXC files to FODS Converter for Node.js., Convert SXC to FODS in Node.js., SXC files to FODS Conversion in Node.js., Leverage intelligent data processing to automatically parse and save SXC into FODS format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -28,7 +28,7 @@ Follow the easy steps to convert SXC to FODS. Upload your SXC file, then simply 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert SXC to FODS" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="sxc" outformat="fods" IsLandingPage="true" language="nodejscpp" %}}
+{{% cells-convert title="Sample Code to Convert SXC to FODS" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="sxc" outformat="fods" IsLandingPage="true" language="nodejscpp" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert SXC to FODS via Node.js" %}}
 

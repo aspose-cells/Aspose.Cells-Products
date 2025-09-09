@@ -1,7 +1,7 @@
 ---
 title: PHP DBF to JPEG - DBF to JPEG Converter
-description: Aspose Excel. Convert DBF to JPEG quickly and easily with Aspose.Cells. PHP DBF to JPEG. PHP Save DBF to JPEG. Save DBF as JPEG using PHP.
-keywords: [Aspose Excel., PHP Aspose.Cells., Convert DBF to JPEG in PHP., Save DBF to JPEG using PHP., PHP DBF to JPEG saveformat., DBF to JPEG Converter., PHP Save DBF as JPEG]
+description: Aspose Excel. This comprehensive solution provides PHP developers with a fully integrated approach to convert DBF to JPEG format, enabling seamless saving of DBF data into JPEG format using the Aspose.Cells library, all through efficient and customizable PHP code.
+keywords: [Aspose Excel., PHP Aspose.Cells., Smart DBF files to JPEG Converter for PHP., Convert DBF to JPEG in PHP., DBF files to JPEG Conversion in PHP., Leverage intelligent data processing to automatically parse and save DBF into JPEG format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -28,7 +28,7 @@ Follow the easy steps to convert DBF to JPEG. Upload your DBF file, then simply 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert DBF to JPEG" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="dbf" outformat="jpg" IsLandingPage="true" language="phpjava" %}}
+{{% cells-convert title="Sample Code to Convert DBF to JPEG" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="dbf" outformat="jpg" IsLandingPage="true" language="phpjava" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert DBF to JPEG via PHP" %}}
 

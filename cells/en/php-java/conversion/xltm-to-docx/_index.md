@@ -1,7 +1,7 @@
 ---
 title: PHP XLTM to DOCX - XLTM to DOCX Converter
-description: Aspose Excel. Convert XLTM to DOCX quickly and easily with Aspose.Cells. PHP XLTM to DOCX. PHP Save XLTM to DOCX. Save XLTM as DOCX using PHP.
-keywords: [Aspose Excel., PHP Aspose.Cells., Convert XLTM to DOCX in PHP., Save XLTM to DOCX using PHP., PHP XLTM to DOCX saveformat., XLTM to DOCX Converter., PHP Save XLTM as DOCX]
+description: Aspose Excel. This comprehensive solution provides PHP developers with a fully integrated approach to convert XLTM to DOCX format, enabling seamless saving of XLTM data into DOCX format using the Aspose.Cells library, all through efficient and customizable PHP code.
+keywords: [Aspose Excel., PHP Aspose.Cells., Smart XLTM files to DOCX Converter for PHP., Convert XLTM to DOCX in PHP., XLTM files to DOCX Conversion in PHP., Leverage intelligent data processing to automatically parse and save XLTM into DOCX format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -28,7 +28,7 @@ Follow the easy steps to convert XLTM to DOCX. Upload your XLTM file, then simpl
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert XLTM to DOCX" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xltm" outformat="docx" IsLandingPage="true" language="phpjava" %}}
+{{% cells-convert title="Sample Code to Convert XLTM to DOCX" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="xltm" outformat="docx" IsLandingPage="true" language="phpjava" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert XLTM to DOCX via PHP" %}}
 

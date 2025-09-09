@@ -1,7 +1,7 @@
 ---
 title: Node.js XLSB to PDF - XLSB to PDF Converter
-description: Aspose Excel. Convert XLSB to PDF quickly and easily with Aspose.Cells. Node.js XLSB to PDF. Node.js Save XLSB to PDF. Save XLSB as PDF using Node.js.
-keywords: [Aspose Excel., Node.js Aspose.Cells., Convert XLSB to PDF in Node.js., Save XLSB to PDF using Node.js., Node.js XLSB to PDF saveformat., XLSB to PDF Converter., Node.js Save XLSB as PDF]
+description: Aspose Excel. This comprehensive solution provides Node.js developers with a fully integrated approach to convert XLSB to PDF format, enabling seamless saving of XLSB data into PDF format using the Aspose.Cells library, all through efficient and customizable Node.js code.
+keywords: [Aspose Excel., Node.js Aspose.Cells., Smart XLSB files to PDF Converter for Node.js., Convert XLSB to PDF in Node.js., XLSB files to PDF Conversion in Node.js., Leverage intelligent data processing to automatically parse and save XLSB into PDF format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -28,7 +28,7 @@ Follow the easy steps to convert XLSB to PDF. Upload your XLSB file, then simply
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert XLSB to PDF" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsb" outformat="pdf" IsLandingPage="true" language="nodejscpp" %}}
+{{% cells-convert title="Sample Code to Convert XLSB to PDF" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="xlsb" outformat="pdf" IsLandingPage="true" language="nodejscpp" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert XLSB to PDF via Node.js" %}}
 

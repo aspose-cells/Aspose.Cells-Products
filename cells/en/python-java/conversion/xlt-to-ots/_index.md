@@ -1,7 +1,7 @@
 ---
 title: Python XLT to OTS - XLT to OTS Converter
-description: Aspose Excel. Python Excel. Convert XLT to OTS quickly and easily with Aspose.Cells. Python XLT to OTS. Python Save XLT to OTS. Save XLT as OTS using Python Excel Library.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert XLT to OTS in Python Excel Library., Save XLT to OTS using Python Excel Library., Python XLT to OTS saveformat., XLT to OTS Converter., Python Save XLT as OTS]
+description: Aspose Excel. This comprehensive solution provides Python developers with a fully integrated approach to convert XLT to OTS format, enabling seamless saving of XLT data into OTS format using the Aspose.Cells library, all through efficient and customizable Python code.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart XLT files to OTS Converter for Python., Convert XLT to OTS in Python., XLT files to OTS Conversion in Python., Leverage intelligent data processing to automatically parse and save XLT into OTS format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -28,7 +28,7 @@ Follow the easy steps to convert XLT to OTS. Upload your XLT file, then simply s
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert XLT to OTS via Python Excel Library" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlt" outformat="ots" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="Sample Code to Convert XLT to OTS via Python Excel Library" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="xlt" outformat="ots" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert XLT to OTS via Python" %}}
 

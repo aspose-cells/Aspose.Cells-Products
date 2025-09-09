@@ -1,7 +1,7 @@
 ---
 title: PHP FODS to POWERPOINT - FODS to POWERPOINT Converter
-description: Aspose Excel. Convert FODS to POWERPOINT quickly and easily with Aspose.Cells. PHP FODS to POWERPOINT. PHP Save FODS to POWERPOINT. Save FODS as POWERPOINT using PHP.
-keywords: [Aspose Excel., PHP Aspose.Cells., Convert FODS to POWERPOINT in PHP., Save FODS to POWERPOINT using PHP., PHP FODS to POWERPOINT saveformat., FODS to POWERPOINT Converter., PHP Save FODS as POWERPOINT]
+description: Aspose Excel. This comprehensive solution provides PHP developers with a fully integrated approach to convert FODS to POWERPOINT format, enabling seamless saving of FODS data into POWERPOINT format using the Aspose.Cells library, all through efficient and customizable PHP code.
+keywords: [Aspose Excel., PHP Aspose.Cells., Smart FODS files to POWERPOINT Converter for PHP., Convert FODS to POWERPOINT in PHP., FODS files to POWERPOINT Conversion in PHP., Leverage intelligent data processing to automatically parse and save FODS into POWERPOINT format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -28,7 +28,7 @@ Follow the easy steps to convert FODS to POWERPOINT. Upload your FODS file, then
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert FODS to POWERPOINT" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="fods" outformat="pptx" IsLandingPage="true" language="phpjava" %}}
+{{% cells-convert title="Sample Code to Convert FODS to POWERPOINT" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="fods" outformat="pptx" IsLandingPage="true" language="phpjava" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert FODS to POWERPOINT via PHP" %}}
 

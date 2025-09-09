@@ -1,7 +1,7 @@
 ---
 title: C++ EXCEL to XPS - EXCEL to XPS Converter
-description: Aspose Excel. Convert EXCEL to XPS quickly and easily with Aspose.Cells. C++ EXCEL to XPS. C++ Save EXCEL to XPS. Save EXCEL as XPS using C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., Convert EXCEL to XPS in C++., Save EXCEL to XPS using C++., C++ EXCEL to XPS saveformat., EXCEL to XPS Converter., C++ Save EXCEL as XPS]
+description: Aspose Excel. This comprehensive solution provides C++ developers with a fully integrated approach to convert EXCEL to XPS format, enabling seamless saving of EXCEL data into XPS format using the Aspose.Cells library, all through efficient and customizable C++ code.
+keywords: [Aspose Excel., C++ Aspose.Cells., Smart EXCEL files to XPS Converter for C++., Convert EXCEL to XPS in C++., EXCEL files to XPS Conversion in C++., Leverage intelligent data processing to automatically parse and save EXCEL into XPS format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -38,7 +38,7 @@ Follow the easy steps to convert EXCEL to XPS. Upload your EXCEL file, then simp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert EXCEL to XPS" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsx" outformat="xps" IsLandingPage="true" language="cpp" %}}
+{{% cells-convert title="Sample Code to Convert EXCEL to XPS" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="xlsx" outformat="xps" IsLandingPage="true" language="cpp" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert EXCEL to XPS via C++" %}}
 
@@ -102,6 +102,7 @@ There are three options to install "Aspose.Cells for C++" onto your system. Plea
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/excel-to-pdf/" name="EXCEL TO PDF" description="Portable Document Format" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/excel-to-png/" name="EXCEL TO PNG" description="Portable Network Graphics" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/excel-to-svg/" name="EXCEL TO SVG" description="Scalable Vector Graphics" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/excel-to-tiff/" name="EXCEL TO TIFF" description="Tagged Image Format" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/excel-to-tsv/" name="EXCEL TO TSV" description="Tab-Separated Values" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/excel-to-txt/" name="EXCEL TO TXT" description="Text Document" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/excel-to-xls/" name="EXCEL TO XLS" description="Excel Binary Format" >}}

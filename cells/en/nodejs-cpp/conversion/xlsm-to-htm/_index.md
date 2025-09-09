@@ -1,7 +1,7 @@
 ---
 title: Node.js XLSM to HTM - XLSM to HTM Converter
-description: Aspose Excel. Convert XLSM to HTM quickly and easily with Aspose.Cells. Node.js XLSM to HTM. Node.js Save XLSM to HTM. Save XLSM as HTM using Node.js.
-keywords: [Aspose Excel., Node.js Aspose.Cells., Convert XLSM to HTM in Node.js., Save XLSM to HTM using Node.js., Node.js XLSM to HTM saveformat., XLSM to HTM Converter., Node.js Save XLSM as HTM]
+description: Aspose Excel. This comprehensive solution provides Node.js developers with a fully integrated approach to convert XLSM to HTM format, enabling seamless saving of XLSM data into HTM format using the Aspose.Cells library, all through efficient and customizable Node.js code.
+keywords: [Aspose Excel., Node.js Aspose.Cells., Smart XLSM files to HTM Converter for Node.js., Convert XLSM to HTM in Node.js., XLSM files to HTM Conversion in Node.js., Leverage intelligent data processing to automatically parse and save XLSM into HTM format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -28,7 +28,7 @@ Follow the easy steps to convert XLSM to HTM. Upload your XLSM file, then simply
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert XLSM to HTM" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsm" outformat="htm" IsLandingPage="true" language="nodejscpp" %}}
+{{% cells-convert title="Sample Code to Convert XLSM to HTM" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="xlsm" outformat="htm" IsLandingPage="true" language="nodejscpp" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert XLSM to HTM via Node.js" %}}
 

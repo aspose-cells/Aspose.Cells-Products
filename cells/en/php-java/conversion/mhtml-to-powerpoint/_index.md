@@ -1,7 +1,7 @@
 ---
 title: PHP MHTML to POWERPOINT - MHTML to POWERPOINT Converter
-description: Aspose Excel. Convert MHTML to POWERPOINT quickly and easily with Aspose.Cells. PHP MHTML to POWERPOINT. PHP Save MHTML to POWERPOINT. Save MHTML as POWERPOINT using PHP.
-keywords: [Aspose Excel., PHP Aspose.Cells., Convert MHTML to POWERPOINT in PHP., Save MHTML to POWERPOINT using PHP., PHP MHTML to POWERPOINT saveformat., MHTML to POWERPOINT Converter., PHP Save MHTML as POWERPOINT]
+description: Aspose Excel. This comprehensive solution provides PHP developers with a fully integrated approach to convert MHTML to POWERPOINT format, enabling seamless saving of MHTML data into POWERPOINT format using the Aspose.Cells library, all through efficient and customizable PHP code.
+keywords: [Aspose Excel., PHP Aspose.Cells., Smart MHTML files to POWERPOINT Converter for PHP., Convert MHTML to POWERPOINT in PHP., MHTML files to POWERPOINT Conversion in PHP., Leverage intelligent data processing to automatically parse and save MHTML into POWERPOINT format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -28,7 +28,7 @@ Follow the easy steps to convert MHTML to POWERPOINT. Upload your MHTML file, th
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert MHTML to POWERPOINT" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="mhtml" outformat="pptx" IsLandingPage="true" language="phpjava" %}}
+{{% cells-convert title="Sample Code to Convert MHTML to POWERPOINT" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="mhtml" outformat="pptx" IsLandingPage="true" language="phpjava" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert MHTML to POWERPOINT via PHP" %}}
 

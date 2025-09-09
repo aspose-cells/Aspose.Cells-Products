@@ -1,7 +1,7 @@
 ---
 title: PHP PNG to WORD - PNG to WORD Converter
-description: Aspose Excel. Convert PNG to WORD quickly and easily with Aspose.Cells. PHP PNG to WORD. PHP Save PNG to WORD. Save PNG as WORD using PHP.
-keywords: [Aspose Excel., PHP Aspose.Cells., Convert PNG to WORD in PHP., Save PNG to WORD using PHP., PHP PNG to WORD saveformat., PNG to WORD Converter., PHP Save PNG as WORD]
+description: Aspose Excel. This comprehensive solution provides PHP developers with a fully integrated approach to convert PNG to WORD format, enabling seamless saving of PNG data into WORD format using the Aspose.Cells library, all through efficient and customizable PHP code.
+keywords: [Aspose Excel., PHP Aspose.Cells., Smart PNG files to WORD Converter for PHP., Convert PNG to WORD in PHP., PNG files to WORD Conversion in PHP., Leverage intelligent data processing to automatically parse and save PNG into WORD format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -28,7 +28,7 @@ Follow the easy steps to convert PNG to WORD. Upload your PNG file, then simply 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert PNG to WORD" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="png" outformat="docx" IsLandingPage="true" language="phpjava" %}}
+{{% cells-convert title="Sample Code to Convert PNG to WORD" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="png" outformat="docx" IsLandingPage="true" language="phpjava" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert PNG to WORD via PHP" %}}
 

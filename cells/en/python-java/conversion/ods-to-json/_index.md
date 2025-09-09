@@ -1,7 +1,7 @@
 ---
 title: Python ODS to JSON - ODS to JSON Converter
-description: Aspose Excel. Python Excel. Convert ODS to JSON quickly and easily with Aspose.Cells. Python ODS to JSON. Python Save ODS to JSON. Save ODS as JSON using Python Excel Library.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert ODS to JSON in Python Excel Library., Save ODS to JSON using Python Excel Library., Python ODS to JSON saveformat., ODS to JSON Converter., Python Save ODS as JSON]
+description: Aspose Excel. This comprehensive solution provides Python developers with a fully integrated approach to convert ODS to JSON format, enabling seamless saving of ODS data into JSON format using the Aspose.Cells library, all through efficient and customizable Python code.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart ODS files to JSON Converter for Python., Convert ODS to JSON in Python., ODS files to JSON Conversion in Python., Leverage intelligent data processing to automatically parse and save ODS into JSON format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -28,7 +28,7 @@ Follow the easy steps to convert ODS to JSON. Upload your ODS file, then simply 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert ODS to JSON via Python Excel Library" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="ods" outformat="json" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="Sample Code to Convert ODS to JSON via Python Excel Library" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="ods" outformat="json" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert ODS to JSON via Python" %}}
 

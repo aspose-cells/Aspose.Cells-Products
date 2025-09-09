@@ -1,7 +1,7 @@
 ---
 title: PHP ODS to MARKDOWN - ODS to MARKDOWN Converter
-description: Aspose Excel. Convert ODS to MARKDOWN quickly and easily with Aspose.Cells. PHP ODS to MARKDOWN. PHP Save ODS to MARKDOWN. Save ODS as MARKDOWN using PHP.
-keywords: [Aspose Excel., PHP Aspose.Cells., Convert ODS to MARKDOWN in PHP., Save ODS to MARKDOWN using PHP., PHP ODS to MARKDOWN saveformat., ODS to MARKDOWN Converter., PHP Save ODS as MARKDOWN]
+description: Aspose Excel. This comprehensive solution provides PHP developers with a fully integrated approach to convert ODS to MARKDOWN format, enabling seamless saving of ODS data into MARKDOWN format using the Aspose.Cells library, all through efficient and customizable PHP code.
+keywords: [Aspose Excel., PHP Aspose.Cells., Smart ODS files to MARKDOWN Converter for PHP., Convert ODS to MARKDOWN in PHP., ODS files to MARKDOWN Conversion in PHP., Leverage intelligent data processing to automatically parse and save ODS into MARKDOWN format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -28,7 +28,7 @@ Follow the easy steps to convert ODS to MARKDOWN. Upload your ODS file, then sim
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert ODS to MARKDOWN" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="ods" outformat="md" IsLandingPage="true" language="phpjava" %}}
+{{% cells-convert title="Sample Code to Convert ODS to MARKDOWN" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="ods" outformat="md" IsLandingPage="true" language="phpjava" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert ODS to MARKDOWN via PHP" %}}
 

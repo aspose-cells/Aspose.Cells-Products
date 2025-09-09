@@ -1,7 +1,7 @@
 ---
 title: PHP MARKDOWN to CSV - MARKDOWN to CSV Converter
-description: Aspose Excel. Convert MARKDOWN to CSV quickly and easily with Aspose.Cells. PHP MARKDOWN to CSV. PHP Save MARKDOWN to CSV. Save MARKDOWN as CSV using PHP.
-keywords: [Aspose Excel., PHP Aspose.Cells., Convert MARKDOWN to CSV in PHP., Save MARKDOWN to CSV using PHP., PHP MARKDOWN to CSV saveformat., MARKDOWN to CSV Converter., PHP Save MARKDOWN as CSV]
+description: Aspose Excel. This comprehensive solution provides PHP developers with a fully integrated approach to convert MARKDOWN to CSV format, enabling seamless saving of MARKDOWN data into CSV format using the Aspose.Cells library, all through efficient and customizable PHP code.
+keywords: [Aspose Excel., PHP Aspose.Cells., Smart MARKDOWN files to CSV Converter for PHP., Convert MARKDOWN to CSV in PHP., MARKDOWN files to CSV Conversion in PHP., Leverage intelligent data processing to automatically parse and save MARKDOWN into CSV format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -28,7 +28,7 @@ Follow the easy steps to convert MARKDOWN to CSV. Upload your MARKDOWN file, the
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert MARKDOWN to CSV" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="md" outformat="csv" IsLandingPage="true" language="phpjava" %}}
+{{% cells-convert title="Sample Code to Convert MARKDOWN to CSV" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="md" outformat="csv" IsLandingPage="true" language="phpjava" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert MARKDOWN to CSV via PHP" %}}
 

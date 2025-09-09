@@ -1,7 +1,7 @@
 ---
 title: Python MHTML to XLSB - MHTML to XLSB Converter
-description: Aspose Excel. Python Excel. Convert MHTML to XLSB quickly and easily with Aspose.Cells. Python MHTML to XLSB. Python Save MHTML to XLSB. Save MHTML as XLSB using Python Excel Library.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert MHTML to XLSB in Python Excel Library., Save MHTML to XLSB using Python Excel Library., Python MHTML to XLSB saveformat., MHTML to XLSB Converter., Python Save MHTML as XLSB]
+description: Aspose Excel. This comprehensive solution provides Python developers with a fully integrated approach to convert MHTML to XLSB format, enabling seamless saving of MHTML data into XLSB format using the Aspose.Cells library, all through efficient and customizable Python code.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart MHTML files to XLSB Converter for Python., Convert MHTML to XLSB in Python., MHTML files to XLSB Conversion in Python., Leverage intelligent data processing to automatically parse and save MHTML into XLSB format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -29,7 +29,7 @@ Follow the easy steps to convert MHTML to XLSB. Upload your MHTML file, then sim
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert MHTML to XLSB via Python Excel Library" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="mhtml" outformat="xlsb" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Sample Code to Convert MHTML to XLSB via Python Excel Library" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="mhtml" outformat="xlsb" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert MHTML to XLSB" %}}
 

@@ -1,7 +1,7 @@
 ---
 title: C# HTML to ODS - HTML to ODS Converter
-description: Aspose Excel. Convert HTML to ODS quickly and easily with Aspose.Cells. C# HTML to ODS. C# Save HTML to ODS. Save HTML as ODS using C#.
-keywords: [Aspose Excel., C# Aspose.Cells., Convert HTML to ODS in C#., Save HTML to ODS using C#., C# HTML to ODS saveformat., HTML to ODS Converter., C# Save HTML as ODS]
+description: Aspose Excel. This comprehensive solution provides C# developers with a fully integrated approach to convert HTML to ODS format, enabling seamless saving of HTML data into ODS format using the Aspose.Cells library, all through efficient and customizable C# code.
+keywords: [Aspose Excel., C# Aspose.Cells., Smart HTML files to ODS Converter for C#., Convert HTML to ODS in C#., HTML files to ODS Conversion in C#., Leverage intelligent data processing to automatically parse and save HTML into ODS format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -36,7 +36,7 @@ Follow the easy steps to convert HTML to ODS. Upload your HTML file, then simply
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert HTML to ODS" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="html" outformat="ods" IsLandingPage="true" %}}
+{{% cells-convert title="Sample Code to Convert HTML to ODS" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="html" outformat="ods" IsLandingPage="true" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert HTML to ODS via C#" %}}
 

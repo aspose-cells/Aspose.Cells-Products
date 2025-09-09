@@ -1,7 +1,7 @@
 ---
 title: C# JPEG to BMP - JPEG to BMP Converter
-description: Aspose Excel. Convert JPEG to BMP quickly and easily with Aspose.Cells. C# JPEG to BMP. C# Save JPEG to BMP. Save JPEG as BMP using C#.
-keywords: [Aspose Excel., C# Aspose.Cells., Convert JPEG to BMP in C#., Save JPEG to BMP using C#., C# JPEG to BMP saveformat., JPEG to BMP Converter., C# Save JPEG as BMP]
+description: Aspose Excel. This comprehensive solution provides C# developers with a fully integrated approach to convert JPEG to BMP format, enabling seamless saving of JPEG data into BMP format using the Aspose.Cells library, all through efficient and customizable C# code.
+keywords: [Aspose Excel., C# Aspose.Cells., Smart JPEG files to BMP Converter for C#., Convert JPEG to BMP in C#., JPEG files to BMP Conversion in C#., Leverage intelligent data processing to automatically parse and save JPEG into BMP format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -36,7 +36,7 @@ Follow the easy steps to convert JPEG to BMP. Upload your JPEG file, then simply
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert JPEG to BMP" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="jpg" outformat="bmp" IsLandingPage="true" %}}
+{{% cells-convert title="Sample Code to Convert JPEG to BMP" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="jpg" outformat="bmp" IsLandingPage="true" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert JPEG to BMP via C#" %}}
 

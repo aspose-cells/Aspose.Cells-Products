@@ -1,7 +1,7 @@
 ---
 title: C# XLS to IMAGE - XLS to IMAGE Converter
-description: Aspose Excel. Convert XLS to IMAGE quickly and easily with Aspose.Cells. C# XLS to IMAGE. C# Save XLS to IMAGE. Save XLS as IMAGE using C#.
-keywords: [Aspose Excel., C# Aspose.Cells., Convert XLS to IMAGE in C#., Save XLS to IMAGE using C#., C# XLS to IMAGE saveformat., XLS to IMAGE Converter., C# Save XLS as IMAGE]
+description: Aspose Excel. This comprehensive solution provides C# developers with a fully integrated approach to convert XLS to IMAGE format, enabling seamless saving of XLS data into IMAGE format using the Aspose.Cells library, all through efficient and customizable C# code.
+keywords: [Aspose Excel., C# Aspose.Cells., Smart XLS files to IMAGE Converter for C#., Convert XLS to IMAGE in C#., XLS files to IMAGE Conversion in C#., Leverage intelligent data processing to automatically parse and save XLS into IMAGE format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -36,7 +36,7 @@ Follow the easy steps to convert XLS to IMAGE. Upload your XLS file, then simply
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert XLS to IMAGE" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xls" outformat="png" IsLandingPage="true" %}}
+{{% cells-convert title="Sample Code to Convert XLS to IMAGE" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="xls" outformat="png" IsLandingPage="true" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert XLS to IMAGE via C#" %}}
 

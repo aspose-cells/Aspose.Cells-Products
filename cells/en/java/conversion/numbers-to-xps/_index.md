@@ -1,7 +1,7 @@
 ---
 title: Java NUMBERS to XPS - NUMBERS to XPS Converter
-description: Aspose Excel. Convert NUMBERS to XPS quickly and easily with Aspose.Cells. Java NUMBERS to XPS. Java Save NUMBERS to XPS. Save NUMBERS as XPS using Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Convert NUMBERS to XPS in Java., Save NUMBERS to XPS using Java., Java NUMBERS to XPS saveformat., NUMBERS to XPS Converter., Java Save NUMBERS as XPS]
+description: Aspose Excel. This comprehensive solution provides Java developers with a fully integrated approach to convert NUMBERS to XPS format, enabling seamless saving of NUMBERS data into XPS format using the Aspose.Cells library, all through efficient and customizable Java code.
+keywords: [Aspose Excel., Java Aspose.Cells., Smart NUMBERS files to XPS Converter for Java., Convert NUMBERS to XPS in Java., NUMBERS files to XPS Conversion in Java., Leverage intelligent data processing to automatically parse and save NUMBERS into XPS format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -57,7 +57,7 @@ Follow the easy steps to convert NUMBERS to XPS. Upload your NUMBERS file, then 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert NUMBERS to XPS" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="numbers" outformat="xps" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Sample Code to Convert NUMBERS to XPS" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="numbers" outformat="xps" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert NUMBERS to XPS via Java" %}}
 

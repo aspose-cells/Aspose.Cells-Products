@@ -1,7 +1,7 @@
 ---
 title: PHP MARKDOWN to PPTX - MARKDOWN to PPTX Converter
-description: Aspose Excel. Convert MARKDOWN to PPTX quickly and easily with Aspose.Cells. PHP MARKDOWN to PPTX. PHP Save MARKDOWN to PPTX. Save MARKDOWN as PPTX using PHP.
-keywords: [Aspose Excel., PHP Aspose.Cells., Convert MARKDOWN to PPTX in PHP., Save MARKDOWN to PPTX using PHP., PHP MARKDOWN to PPTX saveformat., MARKDOWN to PPTX Converter., PHP Save MARKDOWN as PPTX]
+description: Aspose Excel. This comprehensive solution provides PHP developers with a fully integrated approach to convert MARKDOWN to PPTX format, enabling seamless saving of MARKDOWN data into PPTX format using the Aspose.Cells library, all through efficient and customizable PHP code.
+keywords: [Aspose Excel., PHP Aspose.Cells., Smart MARKDOWN files to PPTX Converter for PHP., Convert MARKDOWN to PPTX in PHP., MARKDOWN files to PPTX Conversion in PHP., Leverage intelligent data processing to automatically parse and save MARKDOWN into PPTX format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -28,7 +28,7 @@ Follow the easy steps to convert MARKDOWN to PPTX. Upload your MARKDOWN file, th
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert MARKDOWN to PPTX" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="md" outformat="pptx" IsLandingPage="true" language="phpjava" %}}
+{{% cells-convert title="Sample Code to Convert MARKDOWN to PPTX" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="md" outformat="pptx" IsLandingPage="true" language="phpjava" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert MARKDOWN to PPTX via PHP" %}}
 

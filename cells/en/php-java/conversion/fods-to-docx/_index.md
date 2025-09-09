@@ -1,7 +1,7 @@
 ---
 title: PHP FODS to DOCX - FODS to DOCX Converter
-description: Aspose Excel. Convert FODS to DOCX quickly and easily with Aspose.Cells. PHP FODS to DOCX. PHP Save FODS to DOCX. Save FODS as DOCX using PHP.
-keywords: [Aspose Excel., PHP Aspose.Cells., Convert FODS to DOCX in PHP., Save FODS to DOCX using PHP., PHP FODS to DOCX saveformat., FODS to DOCX Converter., PHP Save FODS as DOCX]
+description: Aspose Excel. This comprehensive solution provides PHP developers with a fully integrated approach to convert FODS to DOCX format, enabling seamless saving of FODS data into DOCX format using the Aspose.Cells library, all through efficient and customizable PHP code.
+keywords: [Aspose Excel., PHP Aspose.Cells., Smart FODS files to DOCX Converter for PHP., Convert FODS to DOCX in PHP., FODS files to DOCX Conversion in PHP., Leverage intelligent data processing to automatically parse and save FODS into DOCX format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -28,7 +28,7 @@ Follow the easy steps to convert FODS to DOCX. Upload your FODS file, then simpl
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert FODS to DOCX" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="fods" outformat="docx" IsLandingPage="true" language="phpjava" %}}
+{{% cells-convert title="Sample Code to Convert FODS to DOCX" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="fods" outformat="docx" IsLandingPage="true" language="phpjava" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert FODS to DOCX via PHP" %}}
 

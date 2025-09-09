@@ -1,7 +1,7 @@
 ---
 title: Python MHT to EXCEL - MHT to EXCEL Converter
-description: Aspose Excel. Python Excel. Convert MHT to EXCEL quickly and easily with Aspose.Cells. Python MHT to EXCEL. Python Save MHT to EXCEL. Save MHT as EXCEL using Python Excel Library.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert MHT to EXCEL in Python Excel Library., Save MHT to EXCEL using Python Excel Library., Python MHT to EXCEL saveformat., MHT to EXCEL Converter., Python Save MHT as EXCEL]
+description: Aspose Excel. This comprehensive solution provides Python developers with a fully integrated approach to convert MHT to EXCEL format, enabling seamless saving of MHT data into EXCEL format using the Aspose.Cells library, all through efficient and customizable Python code.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart MHT files to EXCEL Converter for Python., Convert MHT to EXCEL in Python., MHT files to EXCEL Conversion in Python., Leverage intelligent data processing to automatically parse and save MHT into EXCEL format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -28,7 +28,7 @@ Follow the easy steps to convert MHT to EXCEL. Upload your MHT file, then simply
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert MHT to EXCEL via Python Excel Library" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="mht" outformat="xlsx" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="Sample Code to Convert MHT to EXCEL via Python Excel Library" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="mht" outformat="xlsx" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert MHT to EXCEL via Python" %}}
 

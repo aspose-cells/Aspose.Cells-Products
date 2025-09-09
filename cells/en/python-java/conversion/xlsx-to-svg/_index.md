@@ -1,7 +1,7 @@
 ---
 title: Python XLSX to SVG - XLSX to SVG Converter
-description: Aspose Excel. Python Excel. Convert XLSX to SVG quickly and easily with Aspose.Cells. Python XLSX to SVG. Python Save XLSX to SVG. Save XLSX as SVG using Python Excel Library.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert XLSX to SVG in Python Excel Library., Save XLSX to SVG using Python Excel Library., Python XLSX to SVG saveformat., XLSX to SVG Converter., Python Save XLSX as SVG]
+description: Aspose Excel. This comprehensive solution provides Python developers with a fully integrated approach to convert XLSX to SVG format, enabling seamless saving of XLSX data into SVG format using the Aspose.Cells library, all through efficient and customizable Python code.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart XLSX files to SVG Converter for Python., Convert XLSX to SVG in Python., XLSX files to SVG Conversion in Python., Leverage intelligent data processing to automatically parse and save XLSX into SVG format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -28,7 +28,7 @@ Follow the easy steps to convert XLSX to SVG. Upload your XLSX file, then simply
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert XLSX to SVG via Python Excel Library" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsx" outformat="svg" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="Sample Code to Convert XLSX to SVG via Python Excel Library" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="xlsx" outformat="svg" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert XLSX to SVG via Python" %}}
 

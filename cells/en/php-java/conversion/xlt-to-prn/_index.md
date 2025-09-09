@@ -1,7 +1,7 @@
 ---
 title: PHP XLT to PRN - XLT to PRN Converter
-description: Aspose Excel. Convert XLT to PRN quickly and easily with Aspose.Cells. PHP XLT to PRN. PHP Save XLT to PRN. Save XLT as PRN using PHP.
-keywords: [Aspose Excel., PHP Aspose.Cells., Convert XLT to PRN in PHP., Save XLT to PRN using PHP., PHP XLT to PRN saveformat., XLT to PRN Converter., PHP Save XLT as PRN]
+description: Aspose Excel. This comprehensive solution provides PHP developers with a fully integrated approach to convert XLT to PRN format, enabling seamless saving of XLT data into PRN format using the Aspose.Cells library, all through efficient and customizable PHP code.
+keywords: [Aspose Excel., PHP Aspose.Cells., Smart XLT files to PRN Converter for PHP., Convert XLT to PRN in PHP., XLT files to PRN Conversion in PHP., Leverage intelligent data processing to automatically parse and save XLT into PRN format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -28,7 +28,7 @@ Follow the easy steps to convert XLT to PRN. Upload your XLT file, then simply s
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert XLT to PRN" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlt" outformat="prn" IsLandingPage="true" language="phpjava" %}}
+{{% cells-convert title="Sample Code to Convert XLT to PRN" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="xlt" outformat="prn" IsLandingPage="true" language="phpjava" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert XLT to PRN via PHP" %}}
 

@@ -1,7 +1,7 @@
 ---
 title: C# TXT to XLTM - TXT to XLTM Converter
-description: Aspose Excel. Convert TXT to XLTM quickly and easily with Aspose.Cells. C# TXT to XLTM. C# Save TXT to XLTM. Save TXT as XLTM using C#.
-keywords: [Aspose Excel., C# Aspose.Cells., Convert TXT to XLTM in C#., Save TXT to XLTM using C#., C# TXT to XLTM saveformat., TXT to XLTM Converter., C# Save TXT as XLTM]
+description: Aspose Excel. This comprehensive solution provides C# developers with a fully integrated approach to convert TXT to XLTM format, enabling seamless saving of TXT data into XLTM format using the Aspose.Cells library, all through efficient and customizable C# code.
+keywords: [Aspose Excel., C# Aspose.Cells., Smart TXT files to XLTM Converter for C#., Convert TXT to XLTM in C#., TXT files to XLTM Conversion in C#., Leverage intelligent data processing to automatically parse and save TXT into XLTM format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -36,7 +36,7 @@ Follow the easy steps to convert TXT to XLTM. Upload your TXT file, then simply 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert TXT to XLTM" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="txt" outformat="xltm" IsLandingPage="true" %}}
+{{% cells-convert title="Sample Code to Convert TXT to XLTM" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="txt" outformat="xltm" IsLandingPage="true" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert TXT to XLTM via C#" %}}
 

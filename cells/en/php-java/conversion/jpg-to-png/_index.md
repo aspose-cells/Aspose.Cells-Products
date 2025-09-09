@@ -1,7 +1,7 @@
 ---
 title: PHP JPG to PNG - JPG to PNG Converter
-description: Aspose Excel. Convert JPG to PNG quickly and easily with Aspose.Cells. PHP JPG to PNG. PHP Save JPG to PNG. Save JPG as PNG using PHP.
-keywords: [Aspose Excel., PHP Aspose.Cells., Convert JPG to PNG in PHP., Save JPG to PNG using PHP., PHP JPG to PNG saveformat., JPG to PNG Converter., PHP Save JPG as PNG]
+description: Aspose Excel. This comprehensive solution provides PHP developers with a fully integrated approach to convert JPG to PNG format, enabling seamless saving of JPG data into PNG format using the Aspose.Cells library, all through efficient and customizable PHP code.
+keywords: [Aspose Excel., PHP Aspose.Cells., Smart JPG files to PNG Converter for PHP., Convert JPG to PNG in PHP., JPG files to PNG Conversion in PHP., Leverage intelligent data processing to automatically parse and save JPG into PNG format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -28,7 +28,7 @@ Follow the easy steps to convert JPG to PNG. Upload your JPG file, then simply s
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert JPG to PNG" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="jpg" outformat="png" IsLandingPage="true" language="phpjava" %}}
+{{% cells-convert title="Sample Code to Convert JPG to PNG" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="jpg" outformat="png" IsLandingPage="true" language="phpjava" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert JPG to PNG via PHP" %}}
 

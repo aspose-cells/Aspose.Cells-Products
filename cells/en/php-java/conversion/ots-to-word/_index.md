@@ -1,7 +1,7 @@
 ---
 title: PHP OTS to WORD - OTS to WORD Converter
-description: Aspose Excel. Convert OTS to WORD quickly and easily with Aspose.Cells. PHP OTS to WORD. PHP Save OTS to WORD. Save OTS as WORD using PHP.
-keywords: [Aspose Excel., PHP Aspose.Cells., Convert OTS to WORD in PHP., Save OTS to WORD using PHP., PHP OTS to WORD saveformat., OTS to WORD Converter., PHP Save OTS as WORD]
+description: Aspose Excel. This comprehensive solution provides PHP developers with a fully integrated approach to convert OTS to WORD format, enabling seamless saving of OTS data into WORD format using the Aspose.Cells library, all through efficient and customizable PHP code.
+keywords: [Aspose Excel., PHP Aspose.Cells., Smart OTS files to WORD Converter for PHP., Convert OTS to WORD in PHP., OTS files to WORD Conversion in PHP., Leverage intelligent data processing to automatically parse and save OTS into WORD format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -28,7 +28,7 @@ Follow the easy steps to convert OTS to WORD. Upload your OTS file, then simply 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert OTS to WORD" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="ots" outformat="docx" IsLandingPage="true" language="phpjava" %}}
+{{% cells-convert title="Sample Code to Convert OTS to WORD" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="ots" outformat="docx" IsLandingPage="true" language="phpjava" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert OTS to WORD via PHP" %}}
 

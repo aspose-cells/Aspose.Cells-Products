@@ -1,7 +1,7 @@
 ---
 title: PHP OTS to ODS - OTS to ODS Converter
-description: Aspose Excel. Convert OTS to ODS quickly and easily with Aspose.Cells. PHP OTS to ODS. PHP Save OTS to ODS. Save OTS as ODS using PHP.
-keywords: [Aspose Excel., PHP Aspose.Cells., Convert OTS to ODS in PHP., Save OTS to ODS using PHP., PHP OTS to ODS saveformat., OTS to ODS Converter., PHP Save OTS as ODS]
+description: Aspose Excel. This comprehensive solution provides PHP developers with a fully integrated approach to convert OTS to ODS format, enabling seamless saving of OTS data into ODS format using the Aspose.Cells library, all through efficient and customizable PHP code.
+keywords: [Aspose Excel., PHP Aspose.Cells., Smart OTS files to ODS Converter for PHP., Convert OTS to ODS in PHP., OTS files to ODS Conversion in PHP., Leverage intelligent data processing to automatically parse and save OTS into ODS format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -28,7 +28,7 @@ Follow the easy steps to convert OTS to ODS. Upload your OTS file, then simply s
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert OTS to ODS" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="ots" outformat="ods" IsLandingPage="true" language="phpjava" %}}
+{{% cells-convert title="Sample Code to Convert OTS to ODS" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="ots" outformat="ods" IsLandingPage="true" language="phpjava" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert OTS to ODS via PHP" %}}
 

@@ -1,7 +1,7 @@
 ---
 title: Python JPG to PDF - JPG to PDF Converter
-description: Aspose Excel. Python Excel. Convert JPG to PDF quickly and easily with Aspose.Cells. Python JPG to PDF. Python Save JPG to PDF. Save JPG as PDF using Python Excel Library.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert JPG to PDF in Python Excel Library., Save JPG to PDF using Python Excel Library., Python JPG to PDF saveformat., JPG to PDF Converter., Python Save JPG as PDF]
+description: Aspose Excel. This comprehensive solution provides Python developers with a fully integrated approach to convert JPG to PDF format, enabling seamless saving of JPG data into PDF format using the Aspose.Cells library, all through efficient and customizable Python code.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart JPG files to PDF Converter for Python., Convert JPG to PDF in Python., JPG files to PDF Conversion in Python., Leverage intelligent data processing to automatically parse and save JPG into PDF format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -29,7 +29,7 @@ Follow the easy steps to convert JPG to PDF. Upload your JPG file, then simply s
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert JPG to PDF via Python Excel Library" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="jpg" outformat="pdf" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Sample Code to Convert JPG to PDF via Python Excel Library" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="jpg" outformat="pdf" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert JPG to PDF" %}}
 

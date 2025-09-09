@@ -1,7 +1,7 @@
 ---
 title: Node.js PRN to BMP - PRN to BMP Converter
-description: Aspose Excel. Convert PRN to BMP quickly and easily with Aspose.Cells. Node.js PRN to BMP. Node.js Save PRN to BMP. Save PRN as BMP using Node.js.
-keywords: [Aspose Excel., Node.js Aspose.Cells., Convert PRN to BMP in Node.js., Save PRN to BMP using Node.js., Node.js PRN to BMP saveformat., PRN to BMP Converter., Node.js Save PRN as BMP]
+description: Aspose Excel. This comprehensive solution provides Node.js developers with a fully integrated approach to convert PRN to BMP format, enabling seamless saving of PRN data into BMP format using the Aspose.Cells library, all through efficient and customizable Node.js code.
+keywords: [Aspose Excel., Node.js Aspose.Cells., Smart PRN files to BMP Converter for Node.js., Convert PRN to BMP in Node.js., PRN files to BMP Conversion in Node.js., Leverage intelligent data processing to automatically parse and save PRN into BMP format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -28,7 +28,7 @@ Follow the easy steps to convert PRN to BMP. Upload your PRN file, then simply s
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert PRN to BMP" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="prn" outformat="bmp" IsLandingPage="true" language="nodejscpp" %}}
+{{% cells-convert title="Sample Code to Convert PRN to BMP" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="prn" outformat="bmp" IsLandingPage="true" language="nodejscpp" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert PRN to BMP via Node.js" %}}
 

@@ -1,7 +1,7 @@
 ---
 title: Node.js XLSB to PRN - XLSB to PRN Converter
-description: Aspose Excel. Convert XLSB to PRN quickly and easily with Aspose.Cells. Node.js XLSB to PRN. Node.js Save XLSB to PRN. Save XLSB as PRN using Node.js.
-keywords: [Aspose Excel., Node.js Aspose.Cells., Convert XLSB to PRN in Node.js., Save XLSB to PRN using Node.js., Node.js XLSB to PRN saveformat., XLSB to PRN Converter., Node.js Save XLSB as PRN]
+description: Aspose Excel. This comprehensive solution provides Node.js developers with a fully integrated approach to convert XLSB to PRN format, enabling seamless saving of XLSB data into PRN format using the Aspose.Cells library, all through efficient and customizable Node.js code.
+keywords: [Aspose Excel., Node.js Aspose.Cells., Smart XLSB files to PRN Converter for Node.js., Convert XLSB to PRN in Node.js., XLSB files to PRN Conversion in Node.js., Leverage intelligent data processing to automatically parse and save XLSB into PRN format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -28,7 +28,7 @@ Follow the easy steps to convert XLSB to PRN. Upload your XLSB file, then simply
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert XLSB to PRN" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsb" outformat="prn" IsLandingPage="true" language="nodejscpp" %}}
+{{% cells-convert title="Sample Code to Convert XLSB to PRN" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="xlsb" outformat="prn" IsLandingPage="true" language="nodejscpp" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert XLSB to PRN via Node.js" %}}
 

@@ -1,7 +1,7 @@
 ---
 title: PHP XLT to PNG - XLT to PNG Converter
-description: Aspose Excel. Convert XLT to PNG quickly and easily with Aspose.Cells. PHP XLT to PNG. PHP Save XLT to PNG. Save XLT as PNG using PHP.
-keywords: [Aspose Excel., PHP Aspose.Cells., Convert XLT to PNG in PHP., Save XLT to PNG using PHP., PHP XLT to PNG saveformat., XLT to PNG Converter., PHP Save XLT as PNG]
+description: Aspose Excel. This comprehensive solution provides PHP developers with a fully integrated approach to convert XLT to PNG format, enabling seamless saving of XLT data into PNG format using the Aspose.Cells library, all through efficient and customizable PHP code.
+keywords: [Aspose Excel., PHP Aspose.Cells., Smart XLT files to PNG Converter for PHP., Convert XLT to PNG in PHP., XLT files to PNG Conversion in PHP., Leverage intelligent data processing to automatically parse and save XLT into PNG format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -28,7 +28,7 @@ Follow the easy steps to convert XLT to PNG. Upload your XLT file, then simply s
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert XLT to PNG" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlt" outformat="png" IsLandingPage="true" language="phpjava" %}}
+{{% cells-convert title="Sample Code to Convert XLT to PNG" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="xlt" outformat="png" IsLandingPage="true" language="phpjava" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert XLT to PNG via PHP" %}}
 

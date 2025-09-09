@@ -1,7 +1,7 @@
 ---
 title: Python XLT to DIF - XLT to DIF Converter
-description: Aspose Excel. Python Excel. Convert XLT to DIF quickly and easily with Aspose.Cells. Python XLT to DIF. Python Save XLT to DIF. Save XLT as DIF using Python Excel Library.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert XLT to DIF in Python Excel Library., Save XLT to DIF using Python Excel Library., Python XLT to DIF saveformat., XLT to DIF Converter., Python Save XLT as DIF]
+description: Aspose Excel. This comprehensive solution provides Python developers with a fully integrated approach to convert XLT to DIF format, enabling seamless saving of XLT data into DIF format using the Aspose.Cells library, all through efficient and customizable Python code.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart XLT files to DIF Converter for Python., Convert XLT to DIF in Python., XLT files to DIF Conversion in Python., Leverage intelligent data processing to automatically parse and save XLT into DIF format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -29,7 +29,7 @@ Follow the easy steps to convert XLT to DIF. Upload your XLT file, then simply s
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert XLT to DIF via Python Excel Library" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlt" outformat="dif" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Sample Code to Convert XLT to DIF via Python Excel Library" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="xlt" outformat="dif" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert XLT to DIF" %}}
 

@@ -1,7 +1,7 @@
 ---
 title: PHP OTS to XLAM - OTS to XLAM Converter
-description: Aspose Excel. Convert OTS to XLAM quickly and easily with Aspose.Cells. PHP OTS to XLAM. PHP Save OTS to XLAM. Save OTS as XLAM using PHP.
-keywords: [Aspose Excel., PHP Aspose.Cells., Convert OTS to XLAM in PHP., Save OTS to XLAM using PHP., PHP OTS to XLAM saveformat., OTS to XLAM Converter., PHP Save OTS as XLAM]
+description: Aspose Excel. This comprehensive solution provides PHP developers with a fully integrated approach to convert OTS to XLAM format, enabling seamless saving of OTS data into XLAM format using the Aspose.Cells library, all through efficient and customizable PHP code.
+keywords: [Aspose Excel., PHP Aspose.Cells., Smart OTS files to XLAM Converter for PHP., Convert OTS to XLAM in PHP., OTS files to XLAM Conversion in PHP., Leverage intelligent data processing to automatically parse and save OTS into XLAM format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -28,7 +28,7 @@ Follow the easy steps to convert OTS to XLAM. Upload your OTS file, then simply 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert OTS to XLAM" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="ots" outformat="xlam" IsLandingPage="true" language="phpjava" %}}
+{{% cells-convert title="Sample Code to Convert OTS to XLAM" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="ots" outformat="xlam" IsLandingPage="true" language="phpjava" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert OTS to XLAM via PHP" %}}
 

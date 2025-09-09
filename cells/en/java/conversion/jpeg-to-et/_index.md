@@ -1,7 +1,7 @@
 ---
 title: Java JPEG to ET - JPEG to ET Converter
-description: Aspose Excel. Convert JPEG to ET quickly and easily with Aspose.Cells. Java JPEG to ET. Java Save JPEG to ET. Save JPEG as ET using Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Convert JPEG to ET in Java., Save JPEG to ET using Java., Java JPEG to ET saveformat., JPEG to ET Converter., Java Save JPEG as ET]
+description: Aspose Excel. This comprehensive solution provides Java developers with a fully integrated approach to convert JPEG to ET format, enabling seamless saving of JPEG data into ET format using the Aspose.Cells library, all through efficient and customizable Java code.
+keywords: [Aspose Excel., Java Aspose.Cells., Smart JPEG files to ET Converter for Java., Convert JPEG to ET in Java., JPEG files to ET Conversion in Java., Leverage intelligent data processing to automatically parse and save JPEG into ET format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -57,7 +57,7 @@ Follow the easy steps to convert JPEG to ET. Upload your JPEG file, then simply 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert JPEG to ET" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="jpg" outformat="et" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Sample Code to Convert JPEG to ET" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="jpg" outformat="et" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert JPEG to ET via Java" %}}
 

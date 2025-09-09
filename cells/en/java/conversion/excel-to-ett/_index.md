@@ -1,7 +1,7 @@
 ---
 title: Java EXCEL to ETT - EXCEL to ETT Converter
-description: Aspose Excel. Convert EXCEL to ETT quickly and easily with Aspose.Cells. Java EXCEL to ETT. Java Save EXCEL to ETT. Save EXCEL as ETT using Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Convert EXCEL to ETT in Java., Save EXCEL to ETT using Java., Java EXCEL to ETT saveformat., EXCEL to ETT Converter., Java Save EXCEL as ETT]
+description: Aspose Excel. This comprehensive solution provides Java developers with a fully integrated approach to convert EXCEL to ETT format, enabling seamless saving of EXCEL data into ETT format using the Aspose.Cells library, all through efficient and customizable Java code.
+keywords: [Aspose Excel., Java Aspose.Cells., Smart EXCEL files to ETT Converter for Java., Convert EXCEL to ETT in Java., EXCEL files to ETT Conversion in Java., Leverage intelligent data processing to automatically parse and save EXCEL into ETT format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -57,7 +57,7 @@ Follow the easy steps to convert EXCEL to ETT. Upload your EXCEL file, then simp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert EXCEL to ETT" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsx" outformat="ett" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Sample Code to Convert EXCEL to ETT" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="xlsx" outformat="ett" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert EXCEL to ETT via Java" %}}
 

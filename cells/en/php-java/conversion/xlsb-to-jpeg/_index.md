@@ -1,7 +1,7 @@
 ---
 title: PHP XLSB to JPEG - XLSB to JPEG Converter
-description: Aspose Excel. Convert XLSB to JPEG quickly and easily with Aspose.Cells. PHP XLSB to JPEG. PHP Save XLSB to JPEG. Save XLSB as JPEG using PHP.
-keywords: [Aspose Excel., PHP Aspose.Cells., Convert XLSB to JPEG in PHP., Save XLSB to JPEG using PHP., PHP XLSB to JPEG saveformat., XLSB to JPEG Converter., PHP Save XLSB as JPEG]
+description: Aspose Excel. This comprehensive solution provides PHP developers with a fully integrated approach to convert XLSB to JPEG format, enabling seamless saving of XLSB data into JPEG format using the Aspose.Cells library, all through efficient and customizable PHP code.
+keywords: [Aspose Excel., PHP Aspose.Cells., Smart XLSB files to JPEG Converter for PHP., Convert XLSB to JPEG in PHP., XLSB files to JPEG Conversion in PHP., Leverage intelligent data processing to automatically parse and save XLSB into JPEG format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -28,7 +28,7 @@ Follow the easy steps to convert XLSB to JPEG. Upload your XLSB file, then simpl
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert XLSB to JPEG" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsb" outformat="jpg" IsLandingPage="true" language="phpjava" %}}
+{{% cells-convert title="Sample Code to Convert XLSB to JPEG" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="xlsb" outformat="jpg" IsLandingPage="true" language="phpjava" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert XLSB to JPEG via PHP" %}}
 

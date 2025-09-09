@@ -1,7 +1,7 @@
 ---
 title: Node.js XLT to XLTX - XLT to XLTX Converter
-description: Aspose Excel. Convert XLT to XLTX quickly and easily with Aspose.Cells. Node.js XLT to XLTX. Node.js Save XLT to XLTX. Save XLT as XLTX using Node.js.
-keywords: [Aspose Excel., Node.js Aspose.Cells., Convert XLT to XLTX in Node.js., Save XLT to XLTX using Node.js., Node.js XLT to XLTX saveformat., XLT to XLTX Converter., Node.js Save XLT as XLTX]
+description: Aspose Excel. This comprehensive solution provides Node.js developers with a fully integrated approach to convert XLT to XLTX format, enabling seamless saving of XLT data into XLTX format using the Aspose.Cells library, all through efficient and customizable Node.js code.
+keywords: [Aspose Excel., Node.js Aspose.Cells., Smart XLT files to XLTX Converter for Node.js., Convert XLT to XLTX in Node.js., XLT files to XLTX Conversion in Node.js., Leverage intelligent data processing to automatically parse and save XLT into XLTX format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -28,7 +28,7 @@ Follow the easy steps to convert XLT to XLTX. Upload your XLT file, then simply 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert XLT to XLTX" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlt" outformat="xltx" IsLandingPage="true" language="nodejscpp" %}}
+{{% cells-convert title="Sample Code to Convert XLT to XLTX" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="xlt" outformat="xltx" IsLandingPage="true" language="nodejscpp" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert XLT to XLTX via Node.js" %}}
 

@@ -1,7 +1,7 @@
 ---
 title: Python ODS to XLTM - ODS to XLTM Converter
-description: Aspose Excel. Python Excel. Convert ODS to XLTM quickly and easily with Aspose.Cells. Python ODS to XLTM. Python Save ODS to XLTM. Save ODS as XLTM using Python Excel Library.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert ODS to XLTM in Python Excel Library., Save ODS to XLTM using Python Excel Library., Python ODS to XLTM saveformat., ODS to XLTM Converter., Python Save ODS as XLTM]
+description: Aspose Excel. This comprehensive solution provides Python developers with a fully integrated approach to convert ODS to XLTM format, enabling seamless saving of ODS data into XLTM format using the Aspose.Cells library, all through efficient and customizable Python code.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart ODS files to XLTM Converter for Python., Convert ODS to XLTM in Python., ODS files to XLTM Conversion in Python., Leverage intelligent data processing to automatically parse and save ODS into XLTM format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -28,7 +28,7 @@ Follow the easy steps to convert ODS to XLTM. Upload your ODS file, then simply 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert ODS to XLTM via Python Excel Library" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="ods" outformat="xltm" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="Sample Code to Convert ODS to XLTM via Python Excel Library" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="ods" outformat="xltm" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert ODS to XLTM via Python" %}}
 

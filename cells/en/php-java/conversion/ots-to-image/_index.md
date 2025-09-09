@@ -1,7 +1,7 @@
 ---
 title: PHP OTS to IMAGE - OTS to IMAGE Converter
-description: Aspose Excel. Convert OTS to IMAGE quickly and easily with Aspose.Cells. PHP OTS to IMAGE. PHP Save OTS to IMAGE. Save OTS as IMAGE using PHP.
-keywords: [Aspose Excel., PHP Aspose.Cells., Convert OTS to IMAGE in PHP., Save OTS to IMAGE using PHP., PHP OTS to IMAGE saveformat., OTS to IMAGE Converter., PHP Save OTS as IMAGE]
+description: Aspose Excel. This comprehensive solution provides PHP developers with a fully integrated approach to convert OTS to IMAGE format, enabling seamless saving of OTS data into IMAGE format using the Aspose.Cells library, all through efficient and customizable PHP code.
+keywords: [Aspose Excel., PHP Aspose.Cells., Smart OTS files to IMAGE Converter for PHP., Convert OTS to IMAGE in PHP., OTS files to IMAGE Conversion in PHP., Leverage intelligent data processing to automatically parse and save OTS into IMAGE format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -28,7 +28,7 @@ Follow the easy steps to convert OTS to IMAGE. Upload your OTS file, then simply
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert OTS to IMAGE" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="ots" outformat="png" IsLandingPage="true" language="phpjava" %}}
+{{% cells-convert title="Sample Code to Convert OTS to IMAGE" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="ots" outformat="png" IsLandingPage="true" language="phpjava" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert OTS to IMAGE via PHP" %}}
 

@@ -1,7 +1,7 @@
 ---
 title: Java SXC to MARKDOWN - SXC to MARKDOWN Converter
-description: Aspose Excel. Convert SXC to MARKDOWN quickly and easily with Aspose.Cells. Java SXC to MARKDOWN. Java Save SXC to MARKDOWN. Save SXC as MARKDOWN using Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Convert SXC to MARKDOWN in Java., Save SXC to MARKDOWN using Java., Java SXC to MARKDOWN saveformat., SXC to MARKDOWN Converter., Java Save SXC as MARKDOWN]
+description: Aspose Excel. This comprehensive solution provides Java developers with a fully integrated approach to convert SXC to MARKDOWN format, enabling seamless saving of SXC data into MARKDOWN format using the Aspose.Cells library, all through efficient and customizable Java code.
+keywords: [Aspose Excel., Java Aspose.Cells., Smart SXC files to MARKDOWN Converter for Java., Convert SXC to MARKDOWN in Java., SXC files to MARKDOWN Conversion in Java., Leverage intelligent data processing to automatically parse and save SXC into MARKDOWN format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -57,7 +57,7 @@ Follow the easy steps to convert SXC to MARKDOWN. Upload your SXC file, then sim
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert SXC to MARKDOWN" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="sxc" outformat="md" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Sample Code to Convert SXC to MARKDOWN" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="sxc" outformat="md" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert SXC to MARKDOWN via Java" %}}
 

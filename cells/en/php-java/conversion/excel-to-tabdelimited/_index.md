@@ -1,7 +1,7 @@
 ---
 title: PHP EXCEL to TABDELIMITED - EXCEL to TABDELIMITED Converter
-description: Aspose Excel. Convert EXCEL to TABDELIMITED quickly and easily with Aspose.Cells. PHP EXCEL to TABDELIMITED. PHP Save EXCEL to TABDELIMITED. Save EXCEL as TABDELIMITED using PHP.
-keywords: [Aspose Excel., PHP Aspose.Cells., Convert EXCEL to TABDELIMITED in PHP., Save EXCEL to TABDELIMITED using PHP., PHP EXCEL to TABDELIMITED saveformat., EXCEL to TABDELIMITED Converter., PHP Save EXCEL as TABDELIMITED]
+description: Aspose Excel. This comprehensive solution provides PHP developers with a fully integrated approach to convert EXCEL to TABDELIMITED format, enabling seamless saving of EXCEL data into TABDELIMITED format using the Aspose.Cells library, all through efficient and customizable PHP code.
+keywords: [Aspose Excel., PHP Aspose.Cells., Smart EXCEL files to TABDELIMITED Converter for PHP., Convert EXCEL to TABDELIMITED in PHP., EXCEL files to TABDELIMITED Conversion in PHP., Leverage intelligent data processing to automatically parse and save EXCEL into TABDELIMITED format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -28,7 +28,7 @@ Follow the easy steps to convert EXCEL to TABDELIMITED. Upload your EXCEL file, 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert EXCEL to TABDELIMITED" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsx" outformat="tsv" IsLandingPage="true" language="phpjava" %}}
+{{% cells-convert title="Sample Code to Convert EXCEL to TABDELIMITED" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="xlsx" outformat="tsv" IsLandingPage="true" language="phpjava" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert EXCEL to TABDELIMITED via PHP" %}}
 

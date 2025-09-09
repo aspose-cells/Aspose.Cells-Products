@@ -1,7 +1,7 @@
 ---
 title: Node.js JPEG to MARKDOWN - JPEG to MARKDOWN Converter
-description: Aspose Excel. Convert JPEG to MARKDOWN quickly and easily with Aspose.Cells. Node.js JPEG to MARKDOWN. Node.js Save JPEG to MARKDOWN. Save JPEG as MARKDOWN using Node.js.
-keywords: [Aspose Excel., Node.js Aspose.Cells., Convert JPEG to MARKDOWN in Node.js., Save JPEG to MARKDOWN using Node.js., Node.js JPEG to MARKDOWN saveformat., JPEG to MARKDOWN Converter., Node.js Save JPEG as MARKDOWN]
+description: Aspose Excel. This comprehensive solution provides Node.js developers with a fully integrated approach to convert JPEG to MARKDOWN format, enabling seamless saving of JPEG data into MARKDOWN format using the Aspose.Cells library, all through efficient and customizable Node.js code.
+keywords: [Aspose Excel., Node.js Aspose.Cells., Smart JPEG files to MARKDOWN Converter for Node.js., Convert JPEG to MARKDOWN in Node.js., JPEG files to MARKDOWN Conversion in Node.js., Leverage intelligent data processing to automatically parse and save JPEG into MARKDOWN format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -28,7 +28,7 @@ Follow the easy steps to convert JPEG to MARKDOWN. Upload your JPEG file, then s
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert JPEG to MARKDOWN" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="jpg" outformat="md" IsLandingPage="true" language="nodejscpp" %}}
+{{% cells-convert title="Sample Code to Convert JPEG to MARKDOWN" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="jpg" outformat="md" IsLandingPage="true" language="nodejscpp" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert JPEG to MARKDOWN via Node.js" %}}
 

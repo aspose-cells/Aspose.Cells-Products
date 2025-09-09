@@ -1,7 +1,7 @@
 ---
 title: Python JPEG to FODS - JPEG to FODS Converter
-description: Aspose Excel. Python Excel. Convert JPEG to FODS quickly and easily with Aspose.Cells. Python JPEG to FODS. Python Save JPEG to FODS. Save JPEG as FODS using Python Excel Library.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert JPEG to FODS in Python Excel Library., Save JPEG to FODS using Python Excel Library., Python JPEG to FODS saveformat., JPEG to FODS Converter., Python Save JPEG as FODS]
+description: Aspose Excel. This comprehensive solution provides Python developers with a fully integrated approach to convert JPEG to FODS format, enabling seamless saving of JPEG data into FODS format using the Aspose.Cells library, all through efficient and customizable Python code.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart JPEG files to FODS Converter for Python., Convert JPEG to FODS in Python., JPEG files to FODS Conversion in Python., Leverage intelligent data processing to automatically parse and save JPEG into FODS format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -28,7 +28,7 @@ Follow the easy steps to convert JPEG to FODS. Upload your JPEG file, then simpl
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert JPEG to FODS via Python Excel Library" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="jpg" outformat="fods" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="Sample Code to Convert JPEG to FODS via Python Excel Library" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="jpg" outformat="fods" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert JPEG to FODS via Python" %}}
 

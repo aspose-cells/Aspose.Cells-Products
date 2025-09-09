@@ -1,7 +1,7 @@
 ---
 title: C++ MHT to ET - MHT to ET Converter
-description: Aspose Excel. Convert MHT to ET quickly and easily with Aspose.Cells. C++ MHT to ET. C++ Save MHT to ET. Save MHT as ET using C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., Convert MHT to ET in C++., Save MHT to ET using C++., C++ MHT to ET saveformat., MHT to ET Converter., C++ Save MHT as ET]
+description: Aspose Excel. This comprehensive solution provides C++ developers with a fully integrated approach to convert MHT to ET format, enabling seamless saving of MHT data into ET format using the Aspose.Cells library, all through efficient and customizable C++ code.
+keywords: [Aspose Excel., C++ Aspose.Cells., Smart MHT files to ET Converter for C++., Convert MHT to ET in C++., MHT files to ET Conversion in C++., Leverage intelligent data processing to automatically parse and save MHT into ET format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -38,7 +38,7 @@ Follow the easy steps to convert MHT to ET. Upload your MHT file, then simply sa
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert MHT to ET" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="mht" outformat="et" IsLandingPage="true" language="cpp" %}}
+{{% cells-convert title="Sample Code to Convert MHT to ET" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="mht" outformat="et" IsLandingPage="true" language="cpp" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert MHT to ET via C++" %}}
 
@@ -102,6 +102,7 @@ There are three options to install "Aspose.Cells for C++" onto your system. Plea
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/mht-to-pdf/" name="MHT TO PDF" description="Portable Document Format" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/mht-to-png/" name="MHT TO PNG" description="Portable Network Graphics" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/mht-to-svg/" name="MHT TO SVG" description="Scalable Vector Graphics" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/mht-to-tiff/" name="MHT TO TIFF" description="Tagged Image Format" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/mht-to-tsv/" name="MHT TO TSV" description="Tab-Separated Values" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/mht-to-txt/" name="MHT TO TXT" description="Text Document" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/mht-to-xls/" name="MHT TO XLS" description="Excel Binary Format" >}}

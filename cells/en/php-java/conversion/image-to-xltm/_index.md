@@ -1,7 +1,7 @@
 ---
 title: PHP IMAGE to XLTM - IMAGE to XLTM Converter
-description: Aspose Excel. Convert IMAGE to XLTM quickly and easily with Aspose.Cells. PHP IMAGE to XLTM. PHP Save IMAGE to XLTM. Save IMAGE as XLTM using PHP.
-keywords: [Aspose Excel., PHP Aspose.Cells., Convert IMAGE to XLTM in PHP., Save IMAGE to XLTM using PHP., PHP IMAGE to XLTM saveformat., IMAGE to XLTM Converter., PHP Save IMAGE as XLTM]
+description: Aspose Excel. This comprehensive solution provides PHP developers with a fully integrated approach to convert IMAGE to XLTM format, enabling seamless saving of IMAGE data into XLTM format using the Aspose.Cells library, all through efficient and customizable PHP code.
+keywords: [Aspose Excel., PHP Aspose.Cells., Smart IMAGE files to XLTM Converter for PHP., Convert IMAGE to XLTM in PHP., IMAGE files to XLTM Conversion in PHP., Leverage intelligent data processing to automatically parse and save IMAGE into XLTM format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -28,7 +28,7 @@ Follow the easy steps to convert IMAGE to XLTM. Upload your IMAGE file, then sim
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert IMAGE to XLTM" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="png" outformat="xltm" IsLandingPage="true" language="phpjava" %}}
+{{% cells-convert title="Sample Code to Convert IMAGE to XLTM" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="png" outformat="xltm" IsLandingPage="true" language="phpjava" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert IMAGE to XLTM via PHP" %}}
 

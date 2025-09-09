@@ -1,7 +1,7 @@
 ---
 title: PHP JSON to XLTX - JSON to XLTX Converter
-description: Aspose Excel. Convert JSON to XLTX quickly and easily with Aspose.Cells. PHP JSON to XLTX. PHP Save JSON to XLTX. Save JSON as XLTX using PHP.
-keywords: [Aspose Excel., PHP Aspose.Cells., Convert JSON to XLTX in PHP., Save JSON to XLTX using PHP., PHP JSON to XLTX saveformat., JSON to XLTX Converter., PHP Save JSON as XLTX]
+description: Aspose Excel. This comprehensive solution provides PHP developers with a fully integrated approach to convert JSON to XLTX format, enabling seamless saving of JSON data into XLTX format using the Aspose.Cells library, all through efficient and customizable PHP code.
+keywords: [Aspose Excel., PHP Aspose.Cells., Smart JSON files to XLTX Converter for PHP., Convert JSON to XLTX in PHP., JSON files to XLTX Conversion in PHP., Leverage intelligent data processing to automatically parse and save JSON into XLTX format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -28,7 +28,7 @@ Follow the easy steps to convert JSON to XLTX. Upload your JSON file, then simpl
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert JSON to XLTX" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="json" outformat="xltx" IsLandingPage="true" language="phpjava" %}}
+{{% cells-convert title="Sample Code to Convert JSON to XLTX" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="json" outformat="xltx" IsLandingPage="true" language="phpjava" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert JSON to XLTX via PHP" %}}
 

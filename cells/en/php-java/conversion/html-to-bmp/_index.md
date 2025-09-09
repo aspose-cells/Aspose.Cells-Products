@@ -1,7 +1,7 @@
 ---
 title: PHP HTML to BMP - HTML to BMP Converter
-description: Aspose Excel. Convert HTML to BMP quickly and easily with Aspose.Cells. PHP HTML to BMP. PHP Save HTML to BMP. Save HTML as BMP using PHP.
-keywords: [Aspose Excel., PHP Aspose.Cells., Convert HTML to BMP in PHP., Save HTML to BMP using PHP., PHP HTML to BMP saveformat., HTML to BMP Converter., PHP Save HTML as BMP]
+description: Aspose Excel. This comprehensive solution provides PHP developers with a fully integrated approach to convert HTML to BMP format, enabling seamless saving of HTML data into BMP format using the Aspose.Cells library, all through efficient and customizable PHP code.
+keywords: [Aspose Excel., PHP Aspose.Cells., Smart HTML files to BMP Converter for PHP., Convert HTML to BMP in PHP., HTML files to BMP Conversion in PHP., Leverage intelligent data processing to automatically parse and save HTML into BMP format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -28,7 +28,7 @@ Follow the easy steps to convert HTML to BMP. Upload your HTML file, then simply
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert HTML to BMP" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="html" outformat="bmp" IsLandingPage="true" language="phpjava" %}}
+{{% cells-convert title="Sample Code to Convert HTML to BMP" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="html" outformat="bmp" IsLandingPage="true" language="phpjava" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert HTML to BMP via PHP" %}}
 

@@ -1,7 +1,7 @@
 ---
 title: C++ JSON to IMAGE - JSON to IMAGE Converter
-description: Aspose Excel. Convert JSON to IMAGE quickly and easily with Aspose.Cells. C++ JSON to IMAGE. C++ Save JSON to IMAGE. Save JSON as IMAGE using C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., Convert JSON to IMAGE in C++., Save JSON to IMAGE using C++., C++ JSON to IMAGE saveformat., JSON to IMAGE Converter., C++ Save JSON as IMAGE]
+description: Aspose Excel. This comprehensive solution provides C++ developers with a fully integrated approach to convert JSON to IMAGE format, enabling seamless saving of JSON data into IMAGE format using the Aspose.Cells library, all through efficient and customizable C++ code.
+keywords: [Aspose Excel., C++ Aspose.Cells., Smart JSON files to IMAGE Converter for C++., Convert JSON to IMAGE in C++., JSON files to IMAGE Conversion in C++., Leverage intelligent data processing to automatically parse and save JSON into IMAGE format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -38,7 +38,7 @@ Follow the easy steps to convert JSON to IMAGE. Upload your JSON file, then simp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert JSON to IMAGE" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="json" outformat="png" IsLandingPage="true" language="cpp" %}}
+{{% cells-convert title="Sample Code to Convert JSON to IMAGE" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="json" outformat="png" IsLandingPage="true" language="cpp" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert JSON to IMAGE via C++" %}}
 
@@ -102,6 +102,7 @@ There are three options to install "Aspose.Cells for C++" onto your system. Plea
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/json-to-pdf/" name="JSON TO PDF" description="Portable Document Format" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/json-to-png/" name="JSON TO PNG" description="Portable Network Graphics" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/json-to-svg/" name="JSON TO SVG" description="Scalable Vector Graphics" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/json-to-tiff/" name="JSON TO TIFF" description="Tagged Image Format" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/json-to-tsv/" name="JSON TO TSV" description="Tab-Separated Values" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/json-to-txt/" name="JSON TO TXT" description="Text Document" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/json-to-xls/" name="JSON TO XLS" description="Excel Binary Format" >}}

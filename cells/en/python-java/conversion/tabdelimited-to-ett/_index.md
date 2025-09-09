@@ -1,7 +1,7 @@
 ---
 title: Python TABDELIMITED to ETT - TABDELIMITED to ETT Converter
-description: Aspose Excel. Python Excel. Convert TABDELIMITED to ETT quickly and easily with Aspose.Cells. Python TABDELIMITED to ETT. Python Save TABDELIMITED to ETT. Save TABDELIMITED as ETT using Python Excel Library.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert TABDELIMITED to ETT in Python Excel Library., Save TABDELIMITED to ETT using Python Excel Library., Python TABDELIMITED to ETT saveformat., TABDELIMITED to ETT Converter., Python Save TABDELIMITED as ETT]
+description: Aspose Excel. This comprehensive solution provides Python developers with a fully integrated approach to convert TABDELIMITED to ETT format, enabling seamless saving of TABDELIMITED data into ETT format using the Aspose.Cells library, all through efficient and customizable Python code.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart TABDELIMITED files to ETT Converter for Python., Convert TABDELIMITED to ETT in Python., TABDELIMITED files to ETT Conversion in Python., Leverage intelligent data processing to automatically parse and save TABDELIMITED into ETT format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -28,7 +28,7 @@ Follow the easy steps to convert TABDELIMITED to ETT. Upload your TABDELIMITED f
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert TABDELIMITED to ETT via Python Excel Library" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="tsv" outformat="ett" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="Sample Code to Convert TABDELIMITED to ETT via Python Excel Library" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="tsv" outformat="ett" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert TABDELIMITED to ETT via Python" %}}
 

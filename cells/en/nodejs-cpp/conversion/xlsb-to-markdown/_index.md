@@ -1,7 +1,7 @@
 ---
 title: Node.js XLSB to MARKDOWN - XLSB to MARKDOWN Converter
-description: Aspose Excel. Convert XLSB to MARKDOWN quickly and easily with Aspose.Cells. Node.js XLSB to MARKDOWN. Node.js Save XLSB to MARKDOWN. Save XLSB as MARKDOWN using Node.js.
-keywords: [Aspose Excel., Node.js Aspose.Cells., Convert XLSB to MARKDOWN in Node.js., Save XLSB to MARKDOWN using Node.js., Node.js XLSB to MARKDOWN saveformat., XLSB to MARKDOWN Converter., Node.js Save XLSB as MARKDOWN]
+description: Aspose Excel. This comprehensive solution provides Node.js developers with a fully integrated approach to convert XLSB to MARKDOWN format, enabling seamless saving of XLSB data into MARKDOWN format using the Aspose.Cells library, all through efficient and customizable Node.js code.
+keywords: [Aspose Excel., Node.js Aspose.Cells., Smart XLSB files to MARKDOWN Converter for Node.js., Convert XLSB to MARKDOWN in Node.js., XLSB files to MARKDOWN Conversion in Node.js., Leverage intelligent data processing to automatically parse and save XLSB into MARKDOWN format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -28,7 +28,7 @@ Follow the easy steps to convert XLSB to MARKDOWN. Upload your XLSB file, then s
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert XLSB to MARKDOWN" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsb" outformat="md" IsLandingPage="true" language="nodejscpp" %}}
+{{% cells-convert title="Sample Code to Convert XLSB to MARKDOWN" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="xlsb" outformat="md" IsLandingPage="true" language="nodejscpp" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert XLSB to MARKDOWN via Node.js" %}}
 

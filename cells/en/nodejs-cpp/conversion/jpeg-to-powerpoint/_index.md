@@ -1,7 +1,7 @@
 ---
 title: Node.js JPEG to POWERPOINT - JPEG to POWERPOINT Converter
-description: Aspose Excel. Convert JPEG to POWERPOINT quickly and easily with Aspose.Cells. Node.js JPEG to POWERPOINT. Node.js Save JPEG to POWERPOINT. Save JPEG as POWERPOINT using Node.js.
-keywords: [Aspose Excel., Node.js Aspose.Cells., Convert JPEG to POWERPOINT in Node.js., Save JPEG to POWERPOINT using Node.js., Node.js JPEG to POWERPOINT saveformat., JPEG to POWERPOINT Converter., Node.js Save JPEG as POWERPOINT]
+description: Aspose Excel. This comprehensive solution provides Node.js developers with a fully integrated approach to convert JPEG to POWERPOINT format, enabling seamless saving of JPEG data into POWERPOINT format using the Aspose.Cells library, all through efficient and customizable Node.js code.
+keywords: [Aspose Excel., Node.js Aspose.Cells., Smart JPEG files to POWERPOINT Converter for Node.js., Convert JPEG to POWERPOINT in Node.js., JPEG files to POWERPOINT Conversion in Node.js., Leverage intelligent data processing to automatically parse and save JPEG into POWERPOINT format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -28,7 +28,7 @@ Follow the easy steps to convert JPEG to POWERPOINT. Upload your JPEG file, then
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert JPEG to POWERPOINT" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="jpg" outformat="pptx" IsLandingPage="true" language="nodejscpp" %}}
+{{% cells-convert title="Sample Code to Convert JPEG to POWERPOINT" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="jpg" outformat="pptx" IsLandingPage="true" language="nodejscpp" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert JPEG to POWERPOINT via Node.js" %}}
 

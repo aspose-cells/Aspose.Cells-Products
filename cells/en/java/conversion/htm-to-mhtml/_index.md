@@ -1,7 +1,7 @@
 ---
 title: Java HTM to MHTML - HTM to MHTML Converter
-description: Aspose Excel. Convert HTM to MHTML quickly and easily with Aspose.Cells. Java HTM to MHTML. Java Save HTM to MHTML. Save HTM as MHTML using Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Convert HTM to MHTML in Java., Save HTM to MHTML using Java., Java HTM to MHTML saveformat., HTM to MHTML Converter., Java Save HTM as MHTML]
+description: Aspose Excel. This comprehensive solution provides Java developers with a fully integrated approach to convert HTM to MHTML format, enabling seamless saving of HTM data into MHTML format using the Aspose.Cells library, all through efficient and customizable Java code.
+keywords: [Aspose Excel., Java Aspose.Cells., Smart HTM files to MHTML Converter for Java., Convert HTM to MHTML in Java., HTM files to MHTML Conversion in Java., Leverage intelligent data processing to automatically parse and save HTM into MHTML format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -57,7 +57,7 @@ Follow the easy steps to convert HTM to MHTML. Upload your HTM file, then simply
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert HTM to MHTML" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="htm" outformat="mhtml" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Sample Code to Convert HTM to MHTML" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="htm" outformat="mhtml" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert HTM to MHTML via Java" %}}
 

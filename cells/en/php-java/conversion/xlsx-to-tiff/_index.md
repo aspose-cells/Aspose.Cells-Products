@@ -1,7 +1,7 @@
 ---
 title: PHP XLSX to TIFF - XLSX to TIFF Converter
-description: Aspose Excel. Convert XLSX to TIFF quickly and easily with Aspose.Cells. PHP XLSX to TIFF. PHP Save XLSX to TIFF. Save XLSX as TIFF using PHP.
-keywords: [Aspose Excel., PHP Aspose.Cells., Convert XLSX to TIFF in PHP., Save XLSX to TIFF using PHP., PHP XLSX to TIFF saveformat., XLSX to TIFF Converter., PHP Save XLSX as TIFF]
+description: Aspose Excel. This comprehensive solution provides PHP developers with a fully integrated approach to convert XLSX to TIFF format, enabling seamless saving of XLSX data into TIFF format using the Aspose.Cells library, all through efficient and customizable PHP code.
+keywords: [Aspose Excel., PHP Aspose.Cells., Smart XLSX files to TIFF Converter for PHP., Convert XLSX to TIFF in PHP., XLSX files to TIFF Conversion in PHP., Leverage intelligent data processing to automatically parse and save XLSX into TIFF format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -28,7 +28,7 @@ Follow the easy steps to convert XLSX to TIFF. Upload your XLSX file, then simpl
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert XLSX to TIFF" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsx" outformat="tiff" IsLandingPage="true" language="phpjava" %}}
+{{% cells-convert title="Sample Code to Convert XLSX to TIFF" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="xlsx" outformat="tiff" IsLandingPage="true" language="phpjava" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert XLSX to TIFF via PHP" %}}
 

@@ -1,7 +1,7 @@
 ---
 title: Python DBF to XLTM - DBF to XLTM Converter
-description: Aspose Excel. Python Excel. Convert DBF to XLTM quickly and easily with Aspose.Cells. Python DBF to XLTM. Python Save DBF to XLTM. Save DBF as XLTM using Python Excel Library.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert DBF to XLTM in Python Excel Library., Save DBF to XLTM using Python Excel Library., Python DBF to XLTM saveformat., DBF to XLTM Converter., Python Save DBF as XLTM]
+description: Aspose Excel. This comprehensive solution provides Python developers with a fully integrated approach to convert DBF to XLTM format, enabling seamless saving of DBF data into XLTM format using the Aspose.Cells library, all through efficient and customizable Python code.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart DBF files to XLTM Converter for Python., Convert DBF to XLTM in Python., DBF files to XLTM Conversion in Python., Leverage intelligent data processing to automatically parse and save DBF into XLTM format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -29,7 +29,7 @@ Follow the easy steps to convert DBF to XLTM. Upload your DBF file, then simply 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert DBF to XLTM via Python Excel Library" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="dbf" outformat="xltm" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Sample Code to Convert DBF to XLTM via Python Excel Library" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="dbf" outformat="xltm" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert DBF to XLTM" %}}
 

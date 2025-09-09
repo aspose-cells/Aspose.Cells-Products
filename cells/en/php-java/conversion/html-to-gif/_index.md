@@ -1,7 +1,7 @@
 ---
 title: PHP HTML to GIF - HTML to GIF Converter
-description: Aspose Excel. Convert HTML to GIF quickly and easily with Aspose.Cells. PHP HTML to GIF. PHP Save HTML to GIF. Save HTML as GIF using PHP.
-keywords: [Aspose Excel., PHP Aspose.Cells., Convert HTML to GIF in PHP., Save HTML to GIF using PHP., PHP HTML to GIF saveformat., HTML to GIF Converter., PHP Save HTML as GIF]
+description: Aspose Excel. This comprehensive solution provides PHP developers with a fully integrated approach to convert HTML to GIF format, enabling seamless saving of HTML data into GIF format using the Aspose.Cells library, all through efficient and customizable PHP code.
+keywords: [Aspose Excel., PHP Aspose.Cells., Smart HTML files to GIF Converter for PHP., Convert HTML to GIF in PHP., HTML files to GIF Conversion in PHP., Leverage intelligent data processing to automatically parse and save HTML into GIF format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -28,7 +28,7 @@ Follow the easy steps to convert HTML to GIF. Upload your HTML file, then simply
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert HTML to GIF" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="html" outformat="gif" IsLandingPage="true" language="phpjava" %}}
+{{% cells-convert title="Sample Code to Convert HTML to GIF" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="html" outformat="gif" IsLandingPage="true" language="phpjava" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert HTML to GIF via PHP" %}}
 

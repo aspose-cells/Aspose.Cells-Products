@@ -1,7 +1,7 @@
 ---
 title: PHP XLSX to ETT - XLSX to ETT Converter
-description: Aspose Excel. Convert XLSX to ETT quickly and easily with Aspose.Cells. PHP XLSX to ETT. PHP Save XLSX to ETT. Save XLSX as ETT using PHP.
-keywords: [Aspose Excel., PHP Aspose.Cells., Convert XLSX to ETT in PHP., Save XLSX to ETT using PHP., PHP XLSX to ETT saveformat., XLSX to ETT Converter., PHP Save XLSX as ETT]
+description: Aspose Excel. This comprehensive solution provides PHP developers with a fully integrated approach to convert XLSX to ETT format, enabling seamless saving of XLSX data into ETT format using the Aspose.Cells library, all through efficient and customizable PHP code.
+keywords: [Aspose Excel., PHP Aspose.Cells., Smart XLSX files to ETT Converter for PHP., Convert XLSX to ETT in PHP., XLSX files to ETT Conversion in PHP., Leverage intelligent data processing to automatically parse and save XLSX into ETT format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -28,7 +28,7 @@ Follow the easy steps to convert XLSX to ETT. Upload your XLSX file, then simply
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert XLSX to ETT" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsx" outformat="ett" IsLandingPage="true" language="phpjava" %}}
+{{% cells-convert title="Sample Code to Convert XLSX to ETT" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="xlsx" outformat="ett" IsLandingPage="true" language="phpjava" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert XLSX to ETT via PHP" %}}
 

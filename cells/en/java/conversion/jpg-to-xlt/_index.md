@@ -1,7 +1,7 @@
 ---
 title: Java JPG to XLT - JPG to XLT Converter
-description: Aspose Excel. Convert JPG to XLT quickly and easily with Aspose.Cells. Java JPG to XLT. Java Save JPG to XLT. Save JPG as XLT using Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Convert JPG to XLT in Java., Save JPG to XLT using Java., Java JPG to XLT saveformat., JPG to XLT Converter., Java Save JPG as XLT]
+description: Aspose Excel. This comprehensive solution provides Java developers with a fully integrated approach to convert JPG to XLT format, enabling seamless saving of JPG data into XLT format using the Aspose.Cells library, all through efficient and customizable Java code.
+keywords: [Aspose Excel., Java Aspose.Cells., Smart JPG files to XLT Converter for Java., Convert JPG to XLT in Java., JPG files to XLT Conversion in Java., Leverage intelligent data processing to automatically parse and save JPG into XLT format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -57,7 +57,7 @@ Follow the easy steps to convert JPG to XLT. Upload your JPG file, then simply s
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert JPG to XLT" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="jpg" outformat="xlt" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Sample Code to Convert JPG to XLT" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="jpg" outformat="xlt" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert JPG to XLT via Java" %}}
 

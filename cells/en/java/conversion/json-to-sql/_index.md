@@ -1,7 +1,7 @@
 ---
 title: Java JSON to SQL - JSON to SQL Converter
-description: Aspose Excel. Convert JSON to SQL quickly and easily with Aspose.Cells. Java JSON to SQL. Java Save JSON to SQL. Save JSON as SQL using Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Convert JSON to SQL in Java., Save JSON to SQL using Java., Java JSON to SQL saveformat., JSON to SQL Converter., Java Save JSON as SQL]
+description: Aspose Excel. This comprehensive solution provides Java developers with a fully integrated approach to convert JSON to SQL format, enabling seamless saving of JSON data into SQL format using the Aspose.Cells library, all through efficient and customizable Java code.
+keywords: [Aspose Excel., Java Aspose.Cells., Smart JSON files to SQL Converter for Java., Convert JSON to SQL in Java., JSON files to SQL Conversion in Java., Leverage intelligent data processing to automatically parse and save JSON into SQL format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -57,7 +57,7 @@ Follow the easy steps to convert JSON to SQL. Upload your JSON file, then simply
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert JSON to SQL" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="json" outformat="sql" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Sample Code to Convert JSON to SQL" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="json" outformat="sql" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert JSON to SQL via Java" %}}
 

@@ -1,7 +1,7 @@
 ---
 title: Python JPEG to PRN - JPEG to PRN Converter
-description: Aspose Excel. Python Excel. Convert JPEG to PRN quickly and easily with Aspose.Cells. Python JPEG to PRN. Python Save JPEG to PRN. Save JPEG as PRN using Python Excel Library.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert JPEG to PRN in Python Excel Library., Save JPEG to PRN using Python Excel Library., Python JPEG to PRN saveformat., JPEG to PRN Converter., Python Save JPEG as PRN]
+description: Aspose Excel. This comprehensive solution provides Python developers with a fully integrated approach to convert JPEG to PRN format, enabling seamless saving of JPEG data into PRN format using the Aspose.Cells library, all through efficient and customizable Python code.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart JPEG files to PRN Converter for Python., Convert JPEG to PRN in Python., JPEG files to PRN Conversion in Python., Leverage intelligent data processing to automatically parse and save JPEG into PRN format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -28,7 +28,7 @@ Follow the easy steps to convert JPEG to PRN. Upload your JPEG file, then simply
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert JPEG to PRN via Python Excel Library" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="jpg" outformat="prn" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="Sample Code to Convert JPEG to PRN via Python Excel Library" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="jpg" outformat="prn" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert JPEG to PRN via Python" %}}
 

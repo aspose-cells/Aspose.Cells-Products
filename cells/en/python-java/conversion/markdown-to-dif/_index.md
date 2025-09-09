@@ -1,7 +1,7 @@
 ---
 title: Python MARKDOWN to DIF - MARKDOWN to DIF Converter
-description: Aspose Excel. Python Excel. Convert MARKDOWN to DIF quickly and easily with Aspose.Cells. Python MARKDOWN to DIF. Python Save MARKDOWN to DIF. Save MARKDOWN as DIF using Python Excel Library.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert MARKDOWN to DIF in Python Excel Library., Save MARKDOWN to DIF using Python Excel Library., Python MARKDOWN to DIF saveformat., MARKDOWN to DIF Converter., Python Save MARKDOWN as DIF]
+description: Aspose Excel. This comprehensive solution provides Python developers with a fully integrated approach to convert MARKDOWN to DIF format, enabling seamless saving of MARKDOWN data into DIF format using the Aspose.Cells library, all through efficient and customizable Python code.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart MARKDOWN files to DIF Converter for Python., Convert MARKDOWN to DIF in Python., MARKDOWN files to DIF Conversion in Python., Leverage intelligent data processing to automatically parse and save MARKDOWN into DIF format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -28,7 +28,7 @@ Follow the easy steps to convert MARKDOWN to DIF. Upload your MARKDOWN file, the
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert MARKDOWN to DIF via Python Excel Library" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="md" outformat="dif" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="Sample Code to Convert MARKDOWN to DIF via Python Excel Library" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="md" outformat="dif" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert MARKDOWN to DIF via Python" %}}
 

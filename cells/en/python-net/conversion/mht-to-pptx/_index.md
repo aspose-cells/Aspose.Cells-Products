@@ -1,7 +1,7 @@
 ---
 title: Python MHT to PPTX - MHT to PPTX Converter
-description: Aspose Excel. Python Excel. Convert MHT to PPTX quickly and easily with Aspose.Cells. Python MHT to PPTX. Python Save MHT to PPTX. Save MHT as PPTX using Python Excel Library.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert MHT to PPTX in Python Excel Library., Save MHT to PPTX using Python Excel Library., Python MHT to PPTX saveformat., MHT to PPTX Converter., Python Save MHT as PPTX]
+description: Aspose Excel. This comprehensive solution provides Python developers with a fully integrated approach to convert MHT to PPTX format, enabling seamless saving of MHT data into PPTX format using the Aspose.Cells library, all through efficient and customizable Python code.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart MHT files to PPTX Converter for Python., Convert MHT to PPTX in Python., MHT files to PPTX Conversion in Python., Leverage intelligent data processing to automatically parse and save MHT into PPTX format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -29,7 +29,7 @@ Follow the easy steps to convert MHT to PPTX. Upload your MHT file, then simply 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert MHT to PPTX via Python Excel Library" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="mht" outformat="pptx" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Sample Code to Convert MHT to PPTX via Python Excel Library" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="mht" outformat="pptx" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert MHT to PPTX" %}}
 

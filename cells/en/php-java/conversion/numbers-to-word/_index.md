@@ -1,7 +1,7 @@
 ---
 title: PHP NUMBERS to WORD - NUMBERS to WORD Converter
-description: Aspose Excel. Convert NUMBERS to WORD quickly and easily with Aspose.Cells. PHP NUMBERS to WORD. PHP Save NUMBERS to WORD. Save NUMBERS as WORD using PHP.
-keywords: [Aspose Excel., PHP Aspose.Cells., Convert NUMBERS to WORD in PHP., Save NUMBERS to WORD using PHP., PHP NUMBERS to WORD saveformat., NUMBERS to WORD Converter., PHP Save NUMBERS as WORD]
+description: Aspose Excel. This comprehensive solution provides PHP developers with a fully integrated approach to convert NUMBERS to WORD format, enabling seamless saving of NUMBERS data into WORD format using the Aspose.Cells library, all through efficient and customizable PHP code.
+keywords: [Aspose Excel., PHP Aspose.Cells., Smart NUMBERS files to WORD Converter for PHP., Convert NUMBERS to WORD in PHP., NUMBERS files to WORD Conversion in PHP., Leverage intelligent data processing to automatically parse and save NUMBERS into WORD format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -28,7 +28,7 @@ Follow the easy steps to convert NUMBERS to WORD. Upload your NUMBERS file, then
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert NUMBERS to WORD" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="numbers" outformat="docx" IsLandingPage="true" language="phpjava" %}}
+{{% cells-convert title="Sample Code to Convert NUMBERS to WORD" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="numbers" outformat="docx" IsLandingPage="true" language="phpjava" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert NUMBERS to WORD via PHP" %}}
 

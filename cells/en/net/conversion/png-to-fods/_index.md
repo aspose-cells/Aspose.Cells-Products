@@ -1,7 +1,7 @@
 ---
 title: C# PNG to FODS - PNG to FODS Converter
-description: Aspose Excel. Convert PNG to FODS quickly and easily with Aspose.Cells. C# PNG to FODS. C# Save PNG to FODS. Save PNG as FODS using C#.
-keywords: [Aspose Excel., C# Aspose.Cells., Convert PNG to FODS in C#., Save PNG to FODS using C#., C# PNG to FODS saveformat., PNG to FODS Converter., C# Save PNG as FODS]
+description: Aspose Excel. This comprehensive solution provides C# developers with a fully integrated approach to convert PNG to FODS format, enabling seamless saving of PNG data into FODS format using the Aspose.Cells library, all through efficient and customizable C# code.
+keywords: [Aspose Excel., C# Aspose.Cells., Smart PNG files to FODS Converter for C#., Convert PNG to FODS in C#., PNG files to FODS Conversion in C#., Leverage intelligent data processing to automatically parse and save PNG into FODS format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -36,7 +36,7 @@ Follow the easy steps to convert PNG to FODS. Upload your PNG file, then simply 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert PNG to FODS" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="png" outformat="fods" IsLandingPage="true" %}}
+{{% cells-convert title="Sample Code to Convert PNG to FODS" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="png" outformat="fods" IsLandingPage="true" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert PNG to FODS via C#" %}}
 

@@ -1,7 +1,7 @@
 ---
 title: PHP JPG to MHT - JPG to MHT Converter
-description: Aspose Excel. Convert JPG to MHT quickly and easily with Aspose.Cells. PHP JPG to MHT. PHP Save JPG to MHT. Save JPG as MHT using PHP.
-keywords: [Aspose Excel., PHP Aspose.Cells., Convert JPG to MHT in PHP., Save JPG to MHT using PHP., PHP JPG to MHT saveformat., JPG to MHT Converter., PHP Save JPG as MHT]
+description: Aspose Excel. This comprehensive solution provides PHP developers with a fully integrated approach to convert JPG to MHT format, enabling seamless saving of JPG data into MHT format using the Aspose.Cells library, all through efficient and customizable PHP code.
+keywords: [Aspose Excel., PHP Aspose.Cells., Smart JPG files to MHT Converter for PHP., Convert JPG to MHT in PHP., JPG files to MHT Conversion in PHP., Leverage intelligent data processing to automatically parse and save JPG into MHT format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -28,7 +28,7 @@ Follow the easy steps to convert JPG to MHT. Upload your JPG file, then simply s
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert JPG to MHT" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="jpg" outformat="mht" IsLandingPage="true" language="phpjava" %}}
+{{% cells-convert title="Sample Code to Convert JPG to MHT" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="jpg" outformat="mht" IsLandingPage="true" language="phpjava" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert JPG to MHT via PHP" %}}
 

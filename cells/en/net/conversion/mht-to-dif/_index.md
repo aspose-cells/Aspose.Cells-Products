@@ -1,7 +1,7 @@
 ---
 title: C# MHT to DIF - MHT to DIF Converter
-description: Aspose Excel. Convert MHT to DIF quickly and easily with Aspose.Cells. C# MHT to DIF. C# Save MHT to DIF. Save MHT as DIF using C#.
-keywords: [Aspose Excel., C# Aspose.Cells., Convert MHT to DIF in C#., Save MHT to DIF using C#., C# MHT to DIF saveformat., MHT to DIF Converter., C# Save MHT as DIF]
+description: Aspose Excel. This comprehensive solution provides C# developers with a fully integrated approach to convert MHT to DIF format, enabling seamless saving of MHT data into DIF format using the Aspose.Cells library, all through efficient and customizable C# code.
+keywords: [Aspose Excel., C# Aspose.Cells., Smart MHT files to DIF Converter for C#., Convert MHT to DIF in C#., MHT files to DIF Conversion in C#., Leverage intelligent data processing to automatically parse and save MHT into DIF format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -36,7 +36,7 @@ Follow the easy steps to convert MHT to DIF. Upload your MHT file, then simply s
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert MHT to DIF" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="mht" outformat="dif" IsLandingPage="true" %}}
+{{% cells-convert title="Sample Code to Convert MHT to DIF" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="mht" outformat="dif" IsLandingPage="true" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert MHT to DIF via C#" %}}
 

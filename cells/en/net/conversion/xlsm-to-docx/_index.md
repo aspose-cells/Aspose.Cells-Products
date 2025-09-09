@@ -1,7 +1,7 @@
 ---
 title: C# XLSM to DOCX - XLSM to DOCX Converter
-description: Aspose Excel. Convert XLSM to DOCX quickly and easily with Aspose.Cells. C# XLSM to DOCX. C# Save XLSM to DOCX. Save XLSM as DOCX using C#.
-keywords: [Aspose Excel., C# Aspose.Cells., Convert XLSM to DOCX in C#., Save XLSM to DOCX using C#., C# XLSM to DOCX saveformat., XLSM to DOCX Converter., C# Save XLSM as DOCX]
+description: Aspose Excel. This comprehensive solution provides C# developers with a fully integrated approach to convert XLSM to DOCX format, enabling seamless saving of XLSM data into DOCX format using the Aspose.Cells library, all through efficient and customizable C# code.
+keywords: [Aspose Excel., C# Aspose.Cells., Smart XLSM files to DOCX Converter for C#., Convert XLSM to DOCX in C#., XLSM files to DOCX Conversion in C#., Leverage intelligent data processing to automatically parse and save XLSM into DOCX format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -36,7 +36,7 @@ Follow the easy steps to convert XLSM to DOCX. Upload your XLSM file, then simpl
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert XLSM to DOCX" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsm" outformat="docx" IsLandingPage="true" %}}
+{{% cells-convert title="Sample Code to Convert XLSM to DOCX" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="xlsm" outformat="docx" IsLandingPage="true" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert XLSM to DOCX via C#" %}}
 

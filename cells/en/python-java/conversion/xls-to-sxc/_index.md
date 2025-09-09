@@ -1,7 +1,7 @@
 ---
 title: Python XLS to SXC - XLS to SXC Converter
-description: Aspose Excel. Python Excel. Convert XLS to SXC quickly and easily with Aspose.Cells. Python XLS to SXC. Python Save XLS to SXC. Save XLS as SXC using Python Excel Library.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert XLS to SXC in Python Excel Library., Save XLS to SXC using Python Excel Library., Python XLS to SXC saveformat., XLS to SXC Converter., Python Save XLS as SXC]
+description: Aspose Excel. This comprehensive solution provides Python developers with a fully integrated approach to convert XLS to SXC format, enabling seamless saving of XLS data into SXC format using the Aspose.Cells library, all through efficient and customizable Python code.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart XLS files to SXC Converter for Python., Convert XLS to SXC in Python., XLS files to SXC Conversion in Python., Leverage intelligent data processing to automatically parse and save XLS into SXC format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -28,7 +28,7 @@ Follow the easy steps to convert XLS to SXC. Upload your XLS file, then simply s
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert XLS to SXC via Python Excel Library" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xls" outformat="sxc" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="Sample Code to Convert XLS to SXC via Python Excel Library" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="xls" outformat="sxc" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert XLS to SXC via Python" %}}
 

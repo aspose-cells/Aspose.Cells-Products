@@ -1,7 +1,7 @@
 ---
 title: C++ MARKDOWN to MARKDOWN - MARKDOWN to MARKDOWN Converter
-description: Aspose Excel. Convert MARKDOWN to MARKDOWN quickly and easily with Aspose.Cells. C++ MARKDOWN to MARKDOWN. C++ Save MARKDOWN to MARKDOWN. Save MARKDOWN as MARKDOWN using C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., Convert MARKDOWN to MARKDOWN in C++., Save MARKDOWN to MARKDOWN using C++., C++ MARKDOWN to MARKDOWN saveformat., MARKDOWN to MARKDOWN Converter., C++ Save MARKDOWN as MARKDOWN]
+description: Aspose Excel. This comprehensive solution provides C++ developers with a fully integrated approach to convert MARKDOWN to MARKDOWN format, enabling seamless saving of MARKDOWN data into MARKDOWN format using the Aspose.Cells library, all through efficient and customizable C++ code.
+keywords: [Aspose Excel., C++ Aspose.Cells., Smart MARKDOWN files to MARKDOWN Converter for C++., Convert MARKDOWN to MARKDOWN in C++., MARKDOWN files to MARKDOWN Conversion in C++., Leverage intelligent data processing to automatically parse and save MARKDOWN into MARKDOWN format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -38,7 +38,7 @@ Follow the easy steps to convert MARKDOWN to MARKDOWN. Upload your MARKDOWN file
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert MARKDOWN to MARKDOWN" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="md" outformat="md" IsLandingPage="true" language="cpp" %}}
+{{% cells-convert title="Sample Code to Convert MARKDOWN to MARKDOWN" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="md" outformat="md" IsLandingPage="true" language="cpp" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert MARKDOWN to MARKDOWN via C++" %}}
 

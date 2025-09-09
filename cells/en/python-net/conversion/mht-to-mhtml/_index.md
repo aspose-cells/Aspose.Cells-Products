@@ -1,7 +1,7 @@
 ---
 title: Python MHT to MHTML - MHT to MHTML Converter
-description: Aspose Excel. Python Excel. Convert MHT to MHTML quickly and easily with Aspose.Cells. Python MHT to MHTML. Python Save MHT to MHTML. Save MHT as MHTML using Python Excel Library.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert MHT to MHTML in Python Excel Library., Save MHT to MHTML using Python Excel Library., Python MHT to MHTML saveformat., MHT to MHTML Converter., Python Save MHT as MHTML]
+description: Aspose Excel. This comprehensive solution provides Python developers with a fully integrated approach to convert MHT to MHTML format, enabling seamless saving of MHT data into MHTML format using the Aspose.Cells library, all through efficient and customizable Python code.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart MHT files to MHTML Converter for Python., Convert MHT to MHTML in Python., MHT files to MHTML Conversion in Python., Leverage intelligent data processing to automatically parse and save MHT into MHTML format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -29,7 +29,7 @@ Follow the easy steps to convert MHT to MHTML. Upload your MHT file, then simply
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert MHT to MHTML via Python Excel Library" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="mht" outformat="mhtml" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Sample Code to Convert MHT to MHTML via Python Excel Library" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="mht" outformat="mhtml" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert MHT to MHTML" %}}
 

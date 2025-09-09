@@ -1,7 +1,7 @@
 ---
 title: PHP HTML to MHT - HTML to MHT Converter
-description: Aspose Excel. Convert HTML to MHT quickly and easily with Aspose.Cells. PHP HTML to MHT. PHP Save HTML to MHT. Save HTML as MHT using PHP.
-keywords: [Aspose Excel., PHP Aspose.Cells., Convert HTML to MHT in PHP., Save HTML to MHT using PHP., PHP HTML to MHT saveformat., HTML to MHT Converter., PHP Save HTML as MHT]
+description: Aspose Excel. This comprehensive solution provides PHP developers with a fully integrated approach to convert HTML to MHT format, enabling seamless saving of HTML data into MHT format using the Aspose.Cells library, all through efficient and customizable PHP code.
+keywords: [Aspose Excel., PHP Aspose.Cells., Smart HTML files to MHT Converter for PHP., Convert HTML to MHT in PHP., HTML files to MHT Conversion in PHP., Leverage intelligent data processing to automatically parse and save HTML into MHT format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -28,7 +28,7 @@ Follow the easy steps to convert HTML to MHT. Upload your HTML file, then simply
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert HTML to MHT" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="html" outformat="mht" IsLandingPage="true" language="phpjava" %}}
+{{% cells-convert title="Sample Code to Convert HTML to MHT" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="html" outformat="mht" IsLandingPage="true" language="phpjava" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert HTML to MHT via PHP" %}}
 

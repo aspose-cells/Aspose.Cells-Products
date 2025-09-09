@@ -1,7 +1,7 @@
 ---
 title: Java TXT to JPEG - TXT to JPEG Converter
-description: Aspose Excel. Convert TXT to JPEG quickly and easily with Aspose.Cells. Java TXT to JPEG. Java Save TXT to JPEG. Save TXT as JPEG using Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Convert TXT to JPEG in Java., Save TXT to JPEG using Java., Java TXT to JPEG saveformat., TXT to JPEG Converter., Java Save TXT as JPEG]
+description: Aspose Excel. This comprehensive solution provides Java developers with a fully integrated approach to convert TXT to JPEG format, enabling seamless saving of TXT data into JPEG format using the Aspose.Cells library, all through efficient and customizable Java code.
+keywords: [Aspose Excel., Java Aspose.Cells., Smart TXT files to JPEG Converter for Java., Convert TXT to JPEG in Java., TXT files to JPEG Conversion in Java., Leverage intelligent data processing to automatically parse and save TXT into JPEG format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -57,7 +57,7 @@ Follow the easy steps to convert TXT to JPEG. Upload your TXT file, then simply 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert TXT to JPEG" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="txt" outformat="jpg" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Sample Code to Convert TXT to JPEG" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="txt" outformat="jpg" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert TXT to JPEG via Java" %}}
 

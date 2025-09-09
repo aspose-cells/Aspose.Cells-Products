@@ -1,7 +1,7 @@
 ---
 title: Java OTS to HTML - OTS to HTML Converter
-description: Aspose Excel. Convert OTS to HTML quickly and easily with Aspose.Cells. Java OTS to HTML. Java Save OTS to HTML. Save OTS as HTML using Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Convert OTS to HTML in Java., Save OTS to HTML using Java., Java OTS to HTML saveformat., OTS to HTML Converter., Java Save OTS as HTML]
+description: Aspose Excel. This comprehensive solution provides Java developers with a fully integrated approach to convert OTS to HTML format, enabling seamless saving of OTS data into HTML format using the Aspose.Cells library, all through efficient and customizable Java code.
+keywords: [Aspose Excel., Java Aspose.Cells., Smart OTS files to HTML Converter for Java., Convert OTS to HTML in Java., OTS files to HTML Conversion in Java., Leverage intelligent data processing to automatically parse and save OTS into HTML format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -57,7 +57,7 @@ Follow the easy steps to convert OTS to HTML. Upload your OTS file, then simply 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert OTS to HTML" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="ots" outformat="html" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Sample Code to Convert OTS to HTML" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="ots" outformat="html" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert OTS to HTML via Java" %}}
 

@@ -1,7 +1,7 @@
 ---
 title: Node.js IMAGE to MHT - IMAGE to MHT Converter
-description: Aspose Excel. Convert IMAGE to MHT quickly and easily with Aspose.Cells. Node.js IMAGE to MHT. Node.js Save IMAGE to MHT. Save IMAGE as MHT using Node.js.
-keywords: [Aspose Excel., Node.js Aspose.Cells., Convert IMAGE to MHT in Node.js., Save IMAGE to MHT using Node.js., Node.js IMAGE to MHT saveformat., IMAGE to MHT Converter., Node.js Save IMAGE as MHT]
+description: Aspose Excel. This comprehensive solution provides Node.js developers with a fully integrated approach to convert IMAGE to MHT format, enabling seamless saving of IMAGE data into MHT format using the Aspose.Cells library, all through efficient and customizable Node.js code.
+keywords: [Aspose Excel., Node.js Aspose.Cells., Smart IMAGE files to MHT Converter for Node.js., Convert IMAGE to MHT in Node.js., IMAGE files to MHT Conversion in Node.js., Leverage intelligent data processing to automatically parse and save IMAGE into MHT format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -28,7 +28,7 @@ Follow the easy steps to convert IMAGE to MHT. Upload your IMAGE file, then simp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert IMAGE to MHT" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="png" outformat="mht" IsLandingPage="true" language="nodejscpp" %}}
+{{% cells-convert title="Sample Code to Convert IMAGE to MHT" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="png" outformat="mht" IsLandingPage="true" language="nodejscpp" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert IMAGE to MHT via Node.js" %}}
 

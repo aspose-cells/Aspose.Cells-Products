@@ -1,7 +1,7 @@
 ---
 title: Java XLS to EMF - XLS to EMF Converter
-description: Aspose Excel. Convert XLS to EMF quickly and easily with Aspose.Cells. Java XLS to EMF. Java Save XLS to EMF. Save XLS as EMF using Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Convert XLS to EMF in Java., Save XLS to EMF using Java., Java XLS to EMF saveformat., XLS to EMF Converter., Java Save XLS as EMF]
+description: Aspose Excel. This comprehensive solution provides Java developers with a fully integrated approach to convert XLS to EMF format, enabling seamless saving of XLS data into EMF format using the Aspose.Cells library, all through efficient and customizable Java code.
+keywords: [Aspose Excel., Java Aspose.Cells., Smart XLS files to EMF Converter for Java., Convert XLS to EMF in Java., XLS files to EMF Conversion in Java., Leverage intelligent data processing to automatically parse and save XLS into EMF format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -57,7 +57,7 @@ Follow the easy steps to convert XLS to EMF. Upload your XLS file, then simply s
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert XLS to EMF" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xls" outformat="emf" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Sample Code to Convert XLS to EMF" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="xls" outformat="emf" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert XLS to EMF via Java" %}}
 

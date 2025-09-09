@@ -1,7 +1,7 @@
 ---
 title: Java EXCEL to XPS - EXCEL to XPS Converter
-description: Aspose Excel. Convert EXCEL to XPS quickly and easily with Aspose.Cells. Java EXCEL to XPS. Java Save EXCEL to XPS. Save EXCEL as XPS using Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Convert EXCEL to XPS in Java., Save EXCEL to XPS using Java., Java EXCEL to XPS saveformat., EXCEL to XPS Converter., Java Save EXCEL as XPS]
+description: Aspose Excel. This comprehensive solution provides Java developers with a fully integrated approach to convert EXCEL to XPS format, enabling seamless saving of EXCEL data into XPS format using the Aspose.Cells library, all through efficient and customizable Java code.
+keywords: [Aspose Excel., Java Aspose.Cells., Smart EXCEL files to XPS Converter for Java., Convert EXCEL to XPS in Java., EXCEL files to XPS Conversion in Java., Leverage intelligent data processing to automatically parse and save EXCEL into XPS format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -57,7 +57,7 @@ Follow the easy steps to convert EXCEL to XPS. Upload your EXCEL file, then simp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert EXCEL to XPS" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsx" outformat="xps" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Sample Code to Convert EXCEL to XPS" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="xlsx" outformat="xps" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert EXCEL to XPS via Java" %}}
 

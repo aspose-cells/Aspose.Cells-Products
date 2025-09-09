@@ -1,7 +1,7 @@
 ---
 title: C# XLTX to MARKDOWN - XLTX to MARKDOWN Converter
-description: Aspose Excel. Convert XLTX to MARKDOWN quickly and easily with Aspose.Cells. C# XLTX to MARKDOWN. C# Save XLTX to MARKDOWN. Save XLTX as MARKDOWN using C#.
-keywords: [Aspose Excel., C# Aspose.Cells., Convert XLTX to MARKDOWN in C#., Save XLTX to MARKDOWN using C#., C# XLTX to MARKDOWN saveformat., XLTX to MARKDOWN Converter., C# Save XLTX as MARKDOWN]
+description: Aspose Excel. This comprehensive solution provides C# developers with a fully integrated approach to convert XLTX to MARKDOWN format, enabling seamless saving of XLTX data into MARKDOWN format using the Aspose.Cells library, all through efficient and customizable C# code.
+keywords: [Aspose Excel., C# Aspose.Cells., Smart XLTX files to MARKDOWN Converter for C#., Convert XLTX to MARKDOWN in C#., XLTX files to MARKDOWN Conversion in C#., Leverage intelligent data processing to automatically parse and save XLTX into MARKDOWN format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -36,7 +36,7 @@ Follow the easy steps to convert XLTX to MARKDOWN. Upload your XLTX file, then s
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert XLTX to MARKDOWN" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xltx" outformat="md" IsLandingPage="true" %}}
+{{% cells-convert title="Sample Code to Convert XLTX to MARKDOWN" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="xltx" outformat="md" IsLandingPage="true" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert XLTX to MARKDOWN via C#" %}}
 

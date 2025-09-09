@@ -1,7 +1,7 @@
 ---
 title: PHP HTML to XPS - HTML to XPS Converter
-description: Aspose Excel. Convert HTML to XPS quickly and easily with Aspose.Cells. PHP HTML to XPS. PHP Save HTML to XPS. Save HTML as XPS using PHP.
-keywords: [Aspose Excel., PHP Aspose.Cells., Convert HTML to XPS in PHP., Save HTML to XPS using PHP., PHP HTML to XPS saveformat., HTML to XPS Converter., PHP Save HTML as XPS]
+description: Aspose Excel. This comprehensive solution provides PHP developers with a fully integrated approach to convert HTML to XPS format, enabling seamless saving of HTML data into XPS format using the Aspose.Cells library, all through efficient and customizable PHP code.
+keywords: [Aspose Excel., PHP Aspose.Cells., Smart HTML files to XPS Converter for PHP., Convert HTML to XPS in PHP., HTML files to XPS Conversion in PHP., Leverage intelligent data processing to automatically parse and save HTML into XPS format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -28,7 +28,7 @@ Follow the easy steps to convert HTML to XPS. Upload your HTML file, then simply
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert HTML to XPS" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="html" outformat="xps" IsLandingPage="true" language="phpjava" %}}
+{{% cells-convert title="Sample Code to Convert HTML to XPS" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="html" outformat="xps" IsLandingPage="true" language="phpjava" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert HTML to XPS via PHP" %}}
 

@@ -1,7 +1,7 @@
 ---
 title: Java XLSB to BMP - XLSB to BMP Converter
-description: Aspose Excel. Convert XLSB to BMP quickly and easily with Aspose.Cells. Java XLSB to BMP. Java Save XLSB to BMP. Save XLSB as BMP using Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Convert XLSB to BMP in Java., Save XLSB to BMP using Java., Java XLSB to BMP saveformat., XLSB to BMP Converter., Java Save XLSB as BMP]
+description: Aspose Excel. This comprehensive solution provides Java developers with a fully integrated approach to convert XLSB to BMP format, enabling seamless saving of XLSB data into BMP format using the Aspose.Cells library, all through efficient and customizable Java code.
+keywords: [Aspose Excel., Java Aspose.Cells., Smart XLSB files to BMP Converter for Java., Convert XLSB to BMP in Java., XLSB files to BMP Conversion in Java., Leverage intelligent data processing to automatically parse and save XLSB into BMP format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -57,7 +57,7 @@ Follow the easy steps to convert XLSB to BMP. Upload your XLSB file, then simply
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert XLSB to BMP" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsb" outformat="bmp" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Sample Code to Convert XLSB to BMP" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="xlsb" outformat="bmp" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert XLSB to BMP via Java" %}}
 

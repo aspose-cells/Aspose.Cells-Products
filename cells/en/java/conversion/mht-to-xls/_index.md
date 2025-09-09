@@ -1,7 +1,7 @@
 ---
 title: Java MHT to XLS - MHT to XLS Converter
-description: Aspose Excel. Convert MHT to XLS quickly and easily with Aspose.Cells. Java MHT to XLS. Java Save MHT to XLS. Save MHT as XLS using Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Convert MHT to XLS in Java., Save MHT to XLS using Java., Java MHT to XLS saveformat., MHT to XLS Converter., Java Save MHT as XLS]
+description: Aspose Excel. This comprehensive solution provides Java developers with a fully integrated approach to convert MHT to XLS format, enabling seamless saving of MHT data into XLS format using the Aspose.Cells library, all through efficient and customizable Java code.
+keywords: [Aspose Excel., Java Aspose.Cells., Smart MHT files to XLS Converter for Java., Convert MHT to XLS in Java., MHT files to XLS Conversion in Java., Leverage intelligent data processing to automatically parse and save MHT into XLS format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -57,7 +57,7 @@ Follow the easy steps to convert MHT to XLS. Upload your MHT file, then simply s
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert MHT to XLS" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="mht" outformat="xls" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Sample Code to Convert MHT to XLS" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="mht" outformat="xls" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert MHT to XLS via Java" %}}
 

@@ -1,7 +1,7 @@
 ---
 title: Node.js XLAM to JPEG - XLAM to JPEG Converter
-description: Aspose Excel. Convert XLAM to JPEG quickly and easily with Aspose.Cells. Node.js XLAM to JPEG. Node.js Save XLAM to JPEG. Save XLAM as JPEG using Node.js.
-keywords: [Aspose Excel., Node.js Aspose.Cells., Convert XLAM to JPEG in Node.js., Save XLAM to JPEG using Node.js., Node.js XLAM to JPEG saveformat., XLAM to JPEG Converter., Node.js Save XLAM as JPEG]
+description: Aspose Excel. This comprehensive solution provides Node.js developers with a fully integrated approach to convert XLAM to JPEG format, enabling seamless saving of XLAM data into JPEG format using the Aspose.Cells library, all through efficient and customizable Node.js code.
+keywords: [Aspose Excel., Node.js Aspose.Cells., Smart XLAM files to JPEG Converter for Node.js., Convert XLAM to JPEG in Node.js., XLAM files to JPEG Conversion in Node.js., Leverage intelligent data processing to automatically parse and save XLAM into JPEG format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -28,7 +28,7 @@ Follow the easy steps to convert XLAM to JPEG. Upload your XLAM file, then simpl
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert XLAM to JPEG" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlam" outformat="jpg" IsLandingPage="true" language="nodejscpp" %}}
+{{% cells-convert title="Sample Code to Convert XLAM to JPEG" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="xlam" outformat="jpg" IsLandingPage="true" language="nodejscpp" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert XLAM to JPEG via Node.js" %}}
 

@@ -1,7 +1,7 @@
 ---
 title: PHP DBF to HTML - DBF to HTML Converter
-description: Aspose Excel. Convert DBF to HTML quickly and easily with Aspose.Cells. PHP DBF to HTML. PHP Save DBF to HTML. Save DBF as HTML using PHP.
-keywords: [Aspose Excel., PHP Aspose.Cells., Convert DBF to HTML in PHP., Save DBF to HTML using PHP., PHP DBF to HTML saveformat., DBF to HTML Converter., PHP Save DBF as HTML]
+description: Aspose Excel. This comprehensive solution provides PHP developers with a fully integrated approach to convert DBF to HTML format, enabling seamless saving of DBF data into HTML format using the Aspose.Cells library, all through efficient and customizable PHP code.
+keywords: [Aspose Excel., PHP Aspose.Cells., Smart DBF files to HTML Converter for PHP., Convert DBF to HTML in PHP., DBF files to HTML Conversion in PHP., Leverage intelligent data processing to automatically parse and save DBF into HTML format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -28,7 +28,7 @@ Follow the easy steps to convert DBF to HTML. Upload your DBF file, then simply 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert DBF to HTML" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="dbf" outformat="html" IsLandingPage="true" language="phpjava" %}}
+{{% cells-convert title="Sample Code to Convert DBF to HTML" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="dbf" outformat="html" IsLandingPage="true" language="phpjava" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert DBF to HTML via PHP" %}}
 

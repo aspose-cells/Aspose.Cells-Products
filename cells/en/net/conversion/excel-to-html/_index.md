@@ -1,7 +1,7 @@
 ---
 title: C# EXCEL to HTML - EXCEL to HTML Converter
-description: Aspose Excel. Convert EXCEL to HTML quickly and easily with Aspose.Cells. C# EXCEL to HTML. C# Save EXCEL to HTML. Save EXCEL as HTML using C#.
-keywords: [Aspose Excel., C# Aspose.Cells., Convert EXCEL to HTML in C#., Save EXCEL to HTML using C#., C# EXCEL to HTML saveformat., EXCEL to HTML Converter., C# Save EXCEL as HTML]
+description: Aspose Excel. This comprehensive solution provides C# developers with a fully integrated approach to convert EXCEL to HTML format, enabling seamless saving of EXCEL data into HTML format using the Aspose.Cells library, all through efficient and customizable C# code.
+keywords: [Aspose Excel., C# Aspose.Cells., Smart EXCEL files to HTML Converter for C#., Convert EXCEL to HTML in C#., EXCEL files to HTML Conversion in C#., Leverage intelligent data processing to automatically parse and save EXCEL into HTML format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -36,7 +36,7 @@ Follow the easy steps to convert EXCEL to HTML. Upload your EXCEL file, then sim
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert EXCEL to HTML" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsx" outformat="html" IsLandingPage="true" %}}
+{{% cells-convert title="Sample Code to Convert EXCEL to HTML" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="xlsx" outformat="html" IsLandingPage="true" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert EXCEL to HTML via C#" %}}
 

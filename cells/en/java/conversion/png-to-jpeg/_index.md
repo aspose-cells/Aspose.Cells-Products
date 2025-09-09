@@ -1,7 +1,7 @@
 ---
 title: Java PNG to JPEG - PNG to JPEG Converter
-description: Aspose Excel. Convert PNG to JPEG quickly and easily with Aspose.Cells. Java PNG to JPEG. Java Save PNG to JPEG. Save PNG as JPEG using Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Convert PNG to JPEG in Java., Save PNG to JPEG using Java., Java PNG to JPEG saveformat., PNG to JPEG Converter., Java Save PNG as JPEG]
+description: Aspose Excel. This comprehensive solution provides Java developers with a fully integrated approach to convert PNG to JPEG format, enabling seamless saving of PNG data into JPEG format using the Aspose.Cells library, all through efficient and customizable Java code.
+keywords: [Aspose Excel., Java Aspose.Cells., Smart PNG files to JPEG Converter for Java., Convert PNG to JPEG in Java., PNG files to JPEG Conversion in Java., Leverage intelligent data processing to automatically parse and save PNG into JPEG format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -57,7 +57,7 @@ Follow the easy steps to convert PNG to JPEG. Upload your PNG file, then simply 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert PNG to JPEG" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="png" outformat="jpg" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Sample Code to Convert PNG to JPEG" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="png" outformat="jpg" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert PNG to JPEG via Java" %}}
 

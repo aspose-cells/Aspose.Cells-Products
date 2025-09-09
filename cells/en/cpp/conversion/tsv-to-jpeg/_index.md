@@ -1,7 +1,7 @@
 ---
 title: C++ TSV to JPEG - TSV to JPEG Converter
-description: Aspose Excel. Convert TSV to JPEG quickly and easily with Aspose.Cells. C++ TSV to JPEG. C++ Save TSV to JPEG. Save TSV as JPEG using C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., Convert TSV to JPEG in C++., Save TSV to JPEG using C++., C++ TSV to JPEG saveformat., TSV to JPEG Converter., C++ Save TSV as JPEG]
+description: Aspose Excel. This comprehensive solution provides C++ developers with a fully integrated approach to convert TSV to JPEG format, enabling seamless saving of TSV data into JPEG format using the Aspose.Cells library, all through efficient and customizable C++ code.
+keywords: [Aspose Excel., C++ Aspose.Cells., Smart TSV files to JPEG Converter for C++., Convert TSV to JPEG in C++., TSV files to JPEG Conversion in C++., Leverage intelligent data processing to automatically parse and save TSV into JPEG format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -38,7 +38,7 @@ Follow the easy steps to convert TSV to JPEG. Upload your TSV file, then simply 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert TSV to JPEG" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="tsv" outformat="jpg" IsLandingPage="true" language="cpp" %}}
+{{% cells-convert title="Sample Code to Convert TSV to JPEG" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="tsv" outformat="jpg" IsLandingPage="true" language="cpp" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert TSV to JPEG via C++" %}}
 
@@ -102,6 +102,7 @@ There are three options to install "Aspose.Cells for C++" onto your system. Plea
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/tsv-to-pdf/" name="TSV TO PDF" description="Portable Document Format" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/tsv-to-png/" name="TSV TO PNG" description="Portable Network Graphics" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/tsv-to-svg/" name="TSV TO SVG" description="Scalable Vector Graphics" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/tsv-to-tiff/" name="TSV TO TIFF" description="Tagged Image Format" >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/tsv-to-txt/" name="TSV TO TXT" description="Text Document" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/tsv-to-xls/" name="TSV TO XLS" description="Excel Binary Format" >}}

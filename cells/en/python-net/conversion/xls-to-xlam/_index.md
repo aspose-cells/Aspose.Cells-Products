@@ -1,7 +1,7 @@
 ---
 title: Python XLS to XLAM - XLS to XLAM Converter
-description: Aspose Excel. Python Excel. Convert XLS to XLAM quickly and easily with Aspose.Cells. Python XLS to XLAM. Python Save XLS to XLAM. Save XLS as XLAM using Python Excel Library.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert XLS to XLAM in Python Excel Library., Save XLS to XLAM using Python Excel Library., Python XLS to XLAM saveformat., XLS to XLAM Converter., Python Save XLS as XLAM]
+description: Aspose Excel. This comprehensive solution provides Python developers with a fully integrated approach to convert XLS to XLAM format, enabling seamless saving of XLS data into XLAM format using the Aspose.Cells library, all through efficient and customizable Python code.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart XLS files to XLAM Converter for Python., Convert XLS to XLAM in Python., XLS files to XLAM Conversion in Python., Leverage intelligent data processing to automatically parse and save XLS into XLAM format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -29,7 +29,7 @@ Follow the easy steps to convert XLS to XLAM. Upload your XLS file, then simply 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert XLS to XLAM via Python Excel Library" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xls" outformat="xlam" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Sample Code to Convert XLS to XLAM via Python Excel Library" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="xls" outformat="xlam" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert XLS to XLAM" %}}
 

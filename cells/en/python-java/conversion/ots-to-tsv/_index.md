@@ -1,7 +1,7 @@
 ---
 title: Python OTS to TSV - OTS to TSV Converter
-description: Aspose Excel. Python Excel. Convert OTS to TSV quickly and easily with Aspose.Cells. Python OTS to TSV. Python Save OTS to TSV. Save OTS as TSV using Python Excel Library.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert OTS to TSV in Python Excel Library., Save OTS to TSV using Python Excel Library., Python OTS to TSV saveformat., OTS to TSV Converter., Python Save OTS as TSV]
+description: Aspose Excel. This comprehensive solution provides Python developers with a fully integrated approach to convert OTS to TSV format, enabling seamless saving of OTS data into TSV format using the Aspose.Cells library, all through efficient and customizable Python code.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart OTS files to TSV Converter for Python., Convert OTS to TSV in Python., OTS files to TSV Conversion in Python., Leverage intelligent data processing to automatically parse and save OTS into TSV format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -28,7 +28,7 @@ Follow the easy steps to convert OTS to TSV. Upload your OTS file, then simply s
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert OTS to TSV via Python Excel Library" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="ots" outformat="tsv" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="Sample Code to Convert OTS to TSV via Python Excel Library" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="ots" outformat="tsv" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert OTS to TSV via Python" %}}
 

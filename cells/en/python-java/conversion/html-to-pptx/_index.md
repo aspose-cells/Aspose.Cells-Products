@@ -1,7 +1,7 @@
 ---
 title: Python HTML to PPTX - HTML to PPTX Converter
-description: Aspose Excel. Python Excel. Convert HTML to PPTX quickly and easily with Aspose.Cells. Python HTML to PPTX. Python Save HTML to PPTX. Save HTML as PPTX using Python Excel Library.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert HTML to PPTX in Python Excel Library., Save HTML to PPTX using Python Excel Library., Python HTML to PPTX saveformat., HTML to PPTX Converter., Python Save HTML as PPTX]
+description: Aspose Excel. This comprehensive solution provides Python developers with a fully integrated approach to convert HTML to PPTX format, enabling seamless saving of HTML data into PPTX format using the Aspose.Cells library, all through efficient and customizable Python code.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart HTML files to PPTX Converter for Python., Convert HTML to PPTX in Python., HTML files to PPTX Conversion in Python., Leverage intelligent data processing to automatically parse and save HTML into PPTX format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -28,7 +28,7 @@ Follow the easy steps to convert HTML to PPTX. Upload your HTML file, then simpl
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert HTML to PPTX via Python Excel Library" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="html" outformat="pptx" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="Sample Code to Convert HTML to PPTX via Python Excel Library" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="html" outformat="pptx" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert HTML to PPTX via Python" %}}
 

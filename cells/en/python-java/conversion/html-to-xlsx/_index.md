@@ -1,7 +1,7 @@
 ---
 title: Python HTML to XLSX - HTML to XLSX Converter
-description: Aspose Excel. Python Excel. Convert HTML to XLSX quickly and easily with Aspose.Cells. Python HTML to XLSX. Python Save HTML to XLSX. Save HTML as XLSX using Python Excel Library.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert HTML to XLSX in Python Excel Library., Save HTML to XLSX using Python Excel Library., Python HTML to XLSX saveformat., HTML to XLSX Converter., Python Save HTML as XLSX]
+description: Aspose Excel. This comprehensive solution provides Python developers with a fully integrated approach to convert HTML to XLSX format, enabling seamless saving of HTML data into XLSX format using the Aspose.Cells library, all through efficient and customizable Python code.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart HTML files to XLSX Converter for Python., Convert HTML to XLSX in Python., HTML files to XLSX Conversion in Python., Leverage intelligent data processing to automatically parse and save HTML into XLSX format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -28,7 +28,7 @@ Follow the easy steps to convert HTML to XLSX. Upload your HTML file, then simpl
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert HTML to XLSX via Python Excel Library" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="html" outformat="xlsx" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="Sample Code to Convert HTML to XLSX via Python Excel Library" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="html" outformat="xlsx" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert HTML to XLSX via Python" %}}
 

@@ -1,7 +1,7 @@
 ---
 title: Node.js XLSX to JPEG - XLSX to JPEG Converter
-description: Aspose Excel. Convert XLSX to JPEG quickly and easily with Aspose.Cells. Node.js XLSX to JPEG. Node.js Save XLSX to JPEG. Save XLSX as JPEG using Node.js.
-keywords: [Aspose Excel., Node.js Aspose.Cells., Convert XLSX to JPEG in Node.js., Save XLSX to JPEG using Node.js., Node.js XLSX to JPEG saveformat., XLSX to JPEG Converter., Node.js Save XLSX as JPEG]
+description: Aspose Excel. This comprehensive solution provides Node.js developers with a fully integrated approach to convert XLSX to JPEG format, enabling seamless saving of XLSX data into JPEG format using the Aspose.Cells library, all through efficient and customizable Node.js code.
+keywords: [Aspose Excel., Node.js Aspose.Cells., Smart XLSX files to JPEG Converter for Node.js., Convert XLSX to JPEG in Node.js., XLSX files to JPEG Conversion in Node.js., Leverage intelligent data processing to automatically parse and save XLSX into JPEG format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -28,7 +28,7 @@ Follow the easy steps to convert XLSX to JPEG. Upload your XLSX file, then simpl
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert XLSX to JPEG" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsx" outformat="jpg" IsLandingPage="true" language="nodejscpp" %}}
+{{% cells-convert title="Sample Code to Convert XLSX to JPEG" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="xlsx" outformat="jpg" IsLandingPage="true" language="nodejscpp" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert XLSX to JPEG via Node.js" %}}
 

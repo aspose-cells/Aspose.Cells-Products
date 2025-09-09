@@ -1,7 +1,7 @@
 ---
 title: C++ TABDELIMITED to SXC - TABDELIMITED to SXC Converter
-description: Aspose Excel. Convert TABDELIMITED to SXC quickly and easily with Aspose.Cells. C++ TABDELIMITED to SXC. C++ Save TABDELIMITED to SXC. Save TABDELIMITED as SXC using C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., Convert TABDELIMITED to SXC in C++., Save TABDELIMITED to SXC using C++., C++ TABDELIMITED to SXC saveformat., TABDELIMITED to SXC Converter., C++ Save TABDELIMITED as SXC]
+description: Aspose Excel. This comprehensive solution provides C++ developers with a fully integrated approach to convert TABDELIMITED to SXC format, enabling seamless saving of TABDELIMITED data into SXC format using the Aspose.Cells library, all through efficient and customizable C++ code.
+keywords: [Aspose Excel., C++ Aspose.Cells., Smart TABDELIMITED files to SXC Converter for C++., Convert TABDELIMITED to SXC in C++., TABDELIMITED files to SXC Conversion in C++., Leverage intelligent data processing to automatically parse and save TABDELIMITED into SXC format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -38,7 +38,7 @@ Follow the easy steps to convert TABDELIMITED to SXC. Upload your TABDELIMITED f
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert TABDELIMITED to SXC" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="tsv" outformat="sxc" IsLandingPage="true" language="cpp" %}}
+{{% cells-convert title="Sample Code to Convert TABDELIMITED to SXC" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="tsv" outformat="sxc" IsLandingPage="true" language="cpp" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert TABDELIMITED to SXC via C++" %}}
 
@@ -102,6 +102,7 @@ There are three options to install "Aspose.Cells for C++" onto your system. Plea
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/tabdelimited-to-pdf/" name="TABDELIMITED TO PDF" description="Portable Document Format" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/tabdelimited-to-png/" name="TABDELIMITED TO PNG" description="Portable Network Graphics" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/tabdelimited-to-svg/" name="TABDELIMITED TO SVG" description="Scalable Vector Graphics" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/tabdelimited-to-tiff/" name="TABDELIMITED TO TIFF" description="Tagged Image Format" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/tabdelimited-to-tsv/" name="TABDELIMITED TO TSV" description="Tab-Separated Values" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/tabdelimited-to-txt/" name="TABDELIMITED TO TXT" description="Text Document" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/tabdelimited-to-xls/" name="TABDELIMITED TO XLS" description="Excel Binary Format" >}}

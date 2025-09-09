@@ -1,7 +1,7 @@
 ---
 title: PHP MHTML to XLAM - MHTML to XLAM Converter
-description: Aspose Excel. Convert MHTML to XLAM quickly and easily with Aspose.Cells. PHP MHTML to XLAM. PHP Save MHTML to XLAM. Save MHTML as XLAM using PHP.
-keywords: [Aspose Excel., PHP Aspose.Cells., Convert MHTML to XLAM in PHP., Save MHTML to XLAM using PHP., PHP MHTML to XLAM saveformat., MHTML to XLAM Converter., PHP Save MHTML as XLAM]
+description: Aspose Excel. This comprehensive solution provides PHP developers with a fully integrated approach to convert MHTML to XLAM format, enabling seamless saving of MHTML data into XLAM format using the Aspose.Cells library, all through efficient and customizable PHP code.
+keywords: [Aspose Excel., PHP Aspose.Cells., Smart MHTML files to XLAM Converter for PHP., Convert MHTML to XLAM in PHP., MHTML files to XLAM Conversion in PHP., Leverage intelligent data processing to automatically parse and save MHTML into XLAM format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -28,7 +28,7 @@ Follow the easy steps to convert MHTML to XLAM. Upload your MHTML file, then sim
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert MHTML to XLAM" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="mhtml" outformat="xlam" IsLandingPage="true" language="phpjava" %}}
+{{% cells-convert title="Sample Code to Convert MHTML to XLAM" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="mhtml" outformat="xlam" IsLandingPage="true" language="phpjava" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert MHTML to XLAM via PHP" %}}
 

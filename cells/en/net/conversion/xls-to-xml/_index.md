@@ -1,7 +1,7 @@
 ---
 title: C# XLS to XML - XLS to XML Converter
-description: Aspose Excel. Convert XLS to XML quickly and easily with Aspose.Cells. C# XLS to XML. C# Save XLS to XML. Save XLS as XML using C#.
-keywords: [Aspose Excel., C# Aspose.Cells., Convert XLS to XML in C#., Save XLS to XML using C#., C# XLS to XML saveformat., XLS to XML Converter., C# Save XLS as XML]
+description: Aspose Excel. This comprehensive solution provides C# developers with a fully integrated approach to convert XLS to XML format, enabling seamless saving of XLS data into XML format using the Aspose.Cells library, all through efficient and customizable C# code.
+keywords: [Aspose Excel., C# Aspose.Cells., Smart XLS files to XML Converter for C#., Convert XLS to XML in C#., XLS files to XML Conversion in C#., Leverage intelligent data processing to automatically parse and save XLS into XML format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -36,7 +36,7 @@ Follow the easy steps to convert XLS to XML. Upload your XLS file, then simply s
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert XLS to XML" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xls" outformat="xml" IsLandingPage="true" %}}
+{{% cells-convert title="Sample Code to Convert XLS to XML" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="xls" outformat="xml" IsLandingPage="true" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert XLS to XML via C#" %}}
 

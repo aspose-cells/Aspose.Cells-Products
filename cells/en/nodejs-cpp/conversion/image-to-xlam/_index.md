@@ -1,7 +1,7 @@
 ---
 title: Node.js IMAGE to XLAM - IMAGE to XLAM Converter
-description: Aspose Excel. Convert IMAGE to XLAM quickly and easily with Aspose.Cells. Node.js IMAGE to XLAM. Node.js Save IMAGE to XLAM. Save IMAGE as XLAM using Node.js.
-keywords: [Aspose Excel., Node.js Aspose.Cells., Convert IMAGE to XLAM in Node.js., Save IMAGE to XLAM using Node.js., Node.js IMAGE to XLAM saveformat., IMAGE to XLAM Converter., Node.js Save IMAGE as XLAM]
+description: Aspose Excel. This comprehensive solution provides Node.js developers with a fully integrated approach to convert IMAGE to XLAM format, enabling seamless saving of IMAGE data into XLAM format using the Aspose.Cells library, all through efficient and customizable Node.js code.
+keywords: [Aspose Excel., Node.js Aspose.Cells., Smart IMAGE files to XLAM Converter for Node.js., Convert IMAGE to XLAM in Node.js., IMAGE files to XLAM Conversion in Node.js., Leverage intelligent data processing to automatically parse and save IMAGE into XLAM format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -28,7 +28,7 @@ Follow the easy steps to convert IMAGE to XLAM. Upload your IMAGE file, then sim
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert IMAGE to XLAM" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="png" outformat="xlam" IsLandingPage="true" language="nodejscpp" %}}
+{{% cells-convert title="Sample Code to Convert IMAGE to XLAM" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="png" outformat="xlam" IsLandingPage="true" language="nodejscpp" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert IMAGE to XLAM via Node.js" %}}
 

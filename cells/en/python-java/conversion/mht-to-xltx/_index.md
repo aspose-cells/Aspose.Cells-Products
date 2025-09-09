@@ -1,7 +1,7 @@
 ---
 title: Python MHT to XLTX - MHT to XLTX Converter
-description: Aspose Excel. Python Excel. Convert MHT to XLTX quickly and easily with Aspose.Cells. Python MHT to XLTX. Python Save MHT to XLTX. Save MHT as XLTX using Python Excel Library.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert MHT to XLTX in Python Excel Library., Save MHT to XLTX using Python Excel Library., Python MHT to XLTX saveformat., MHT to XLTX Converter., Python Save MHT as XLTX]
+description: Aspose Excel. This comprehensive solution provides Python developers with a fully integrated approach to convert MHT to XLTX format, enabling seamless saving of MHT data into XLTX format using the Aspose.Cells library, all through efficient and customizable Python code.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart MHT files to XLTX Converter for Python., Convert MHT to XLTX in Python., MHT files to XLTX Conversion in Python., Leverage intelligent data processing to automatically parse and save MHT into XLTX format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -28,7 +28,7 @@ Follow the easy steps to convert MHT to XLTX. Upload your MHT file, then simply 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert MHT to XLTX via Python Excel Library" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="mht" outformat="xltx" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="Sample Code to Convert MHT to XLTX via Python Excel Library" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="mht" outformat="xltx" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert MHT to XLTX via Python" %}}
 

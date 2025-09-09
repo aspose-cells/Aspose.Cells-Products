@@ -1,7 +1,7 @@
 ---
 title: Node.js XLTX to WORD - XLTX to WORD Converter
-description: Aspose Excel. Convert XLTX to WORD quickly and easily with Aspose.Cells. Node.js XLTX to WORD. Node.js Save XLTX to WORD. Save XLTX as WORD using Node.js.
-keywords: [Aspose Excel., Node.js Aspose.Cells., Convert XLTX to WORD in Node.js., Save XLTX to WORD using Node.js., Node.js XLTX to WORD saveformat., XLTX to WORD Converter., Node.js Save XLTX as WORD]
+description: Aspose Excel. This comprehensive solution provides Node.js developers with a fully integrated approach to convert XLTX to WORD format, enabling seamless saving of XLTX data into WORD format using the Aspose.Cells library, all through efficient and customizable Node.js code.
+keywords: [Aspose Excel., Node.js Aspose.Cells., Smart XLTX files to WORD Converter for Node.js., Convert XLTX to WORD in Node.js., XLTX files to WORD Conversion in Node.js., Leverage intelligent data processing to automatically parse and save XLTX into WORD format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -28,7 +28,7 @@ Follow the easy steps to convert XLTX to WORD. Upload your XLTX file, then simpl
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert XLTX to WORD" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xltx" outformat="docx" IsLandingPage="true" language="nodejscpp" %}}
+{{% cells-convert title="Sample Code to Convert XLTX to WORD" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="xltx" outformat="docx" IsLandingPage="true" language="nodejscpp" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert XLTX to WORD via Node.js" %}}
 

@@ -1,7 +1,7 @@
 ---
 title: Java JPG to SVG - JPG to SVG Converter
-description: Aspose Excel. Convert JPG to SVG quickly and easily with Aspose.Cells. Java JPG to SVG. Java Save JPG to SVG. Save JPG as SVG using Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Convert JPG to SVG in Java., Save JPG to SVG using Java., Java JPG to SVG saveformat., JPG to SVG Converter., Java Save JPG as SVG]
+description: Aspose Excel. This comprehensive solution provides Java developers with a fully integrated approach to convert JPG to SVG format, enabling seamless saving of JPG data into SVG format using the Aspose.Cells library, all through efficient and customizable Java code.
+keywords: [Aspose Excel., Java Aspose.Cells., Smart JPG files to SVG Converter for Java., Convert JPG to SVG in Java., JPG files to SVG Conversion in Java., Leverage intelligent data processing to automatically parse and save JPG into SVG format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -57,7 +57,7 @@ Follow the easy steps to convert JPG to SVG. Upload your JPG file, then simply s
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert JPG to SVG" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="jpg" outformat="svg" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Sample Code to Convert JPG to SVG" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="jpg" outformat="svg" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert JPG to SVG via Java" %}}
 

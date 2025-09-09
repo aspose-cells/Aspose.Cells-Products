@@ -1,7 +1,7 @@
 ---
 title: Python FODS to TABDELIMITED - FODS to TABDELIMITED Converter
-description: Aspose Excel. Python Excel. Convert FODS to TABDELIMITED quickly and easily with Aspose.Cells. Python FODS to TABDELIMITED. Python Save FODS to TABDELIMITED. Save FODS as TABDELIMITED using Python Excel Library.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert FODS to TABDELIMITED in Python Excel Library., Save FODS to TABDELIMITED using Python Excel Library., Python FODS to TABDELIMITED saveformat., FODS to TABDELIMITED Converter., Python Save FODS as TABDELIMITED]
+description: Aspose Excel. This comprehensive solution provides Python developers with a fully integrated approach to convert FODS to TABDELIMITED format, enabling seamless saving of FODS data into TABDELIMITED format using the Aspose.Cells library, all through efficient and customizable Python code.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart FODS files to TABDELIMITED Converter for Python., Convert FODS to TABDELIMITED in Python., FODS files to TABDELIMITED Conversion in Python., Leverage intelligent data processing to automatically parse and save FODS into TABDELIMITED format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -28,7 +28,7 @@ Follow the easy steps to convert FODS to TABDELIMITED. Upload your FODS file, th
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert FODS to TABDELIMITED via Python Excel Library" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="fods" outformat="tsv" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="Sample Code to Convert FODS to TABDELIMITED via Python Excel Library" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="fods" outformat="tsv" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert FODS to TABDELIMITED via Python" %}}
 

@@ -1,7 +1,7 @@
 ---
 title: C# MHTML to GIF - MHTML to GIF Converter
-description: Aspose Excel. Convert MHTML to GIF quickly and easily with Aspose.Cells. C# MHTML to GIF. C# Save MHTML to GIF. Save MHTML as GIF using C#.
-keywords: [Aspose Excel., C# Aspose.Cells., Convert MHTML to GIF in C#., Save MHTML to GIF using C#., C# MHTML to GIF saveformat., MHTML to GIF Converter., C# Save MHTML as GIF]
+description: Aspose Excel. This comprehensive solution provides C# developers with a fully integrated approach to convert MHTML to GIF format, enabling seamless saving of MHTML data into GIF format using the Aspose.Cells library, all through efficient and customizable C# code.
+keywords: [Aspose Excel., C# Aspose.Cells., Smart MHTML files to GIF Converter for C#., Convert MHTML to GIF in C#., MHTML files to GIF Conversion in C#., Leverage intelligent data processing to automatically parse and save MHTML into GIF format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -36,7 +36,7 @@ Follow the easy steps to convert MHTML to GIF. Upload your MHTML file, then simp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert MHTML to GIF" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="mhtml" outformat="gif" IsLandingPage="true" %}}
+{{% cells-convert title="Sample Code to Convert MHTML to GIF" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="mhtml" outformat="gif" IsLandingPage="true" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert MHTML to GIF via C#" %}}
 

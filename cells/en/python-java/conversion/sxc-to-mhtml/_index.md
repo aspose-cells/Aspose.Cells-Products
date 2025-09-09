@@ -1,7 +1,7 @@
 ---
 title: Python SXC to MHTML - SXC to MHTML Converter
-description: Aspose Excel. Python Excel. Convert SXC to MHTML quickly and easily with Aspose.Cells. Python SXC to MHTML. Python Save SXC to MHTML. Save SXC as MHTML using Python Excel Library.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert SXC to MHTML in Python Excel Library., Save SXC to MHTML using Python Excel Library., Python SXC to MHTML saveformat., SXC to MHTML Converter., Python Save SXC as MHTML]
+description: Aspose Excel. This comprehensive solution provides Python developers with a fully integrated approach to convert SXC to MHTML format, enabling seamless saving of SXC data into MHTML format using the Aspose.Cells library, all through efficient and customizable Python code.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart SXC files to MHTML Converter for Python., Convert SXC to MHTML in Python., SXC files to MHTML Conversion in Python., Leverage intelligent data processing to automatically parse and save SXC into MHTML format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -28,7 +28,7 @@ Follow the easy steps to convert SXC to MHTML. Upload your SXC file, then simply
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert SXC to MHTML via Python Excel Library" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="sxc" outformat="mhtml" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="Sample Code to Convert SXC to MHTML via Python Excel Library" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="sxc" outformat="mhtml" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert SXC to MHTML via Python" %}}
 

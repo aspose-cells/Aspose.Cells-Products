@@ -1,7 +1,7 @@
 ---
 title: PHP PNG to XLSX - PNG to XLSX Converter
-description: Aspose Excel. Convert PNG to XLSX quickly and easily with Aspose.Cells. PHP PNG to XLSX. PHP Save PNG to XLSX. Save PNG as XLSX using PHP.
-keywords: [Aspose Excel., PHP Aspose.Cells., Convert PNG to XLSX in PHP., Save PNG to XLSX using PHP., PHP PNG to XLSX saveformat., PNG to XLSX Converter., PHP Save PNG as XLSX]
+description: Aspose Excel. This comprehensive solution provides PHP developers with a fully integrated approach to convert PNG to XLSX format, enabling seamless saving of PNG data into XLSX format using the Aspose.Cells library, all through efficient and customizable PHP code.
+keywords: [Aspose Excel., PHP Aspose.Cells., Smart PNG files to XLSX Converter for PHP., Convert PNG to XLSX in PHP., PNG files to XLSX Conversion in PHP., Leverage intelligent data processing to automatically parse and save PNG into XLSX format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -28,7 +28,7 @@ Follow the easy steps to convert PNG to XLSX. Upload your PNG file, then simply 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert PNG to XLSX" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="png" outformat="xlsx" IsLandingPage="true" language="phpjava" %}}
+{{% cells-convert title="Sample Code to Convert PNG to XLSX" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="png" outformat="xlsx" IsLandingPage="true" language="phpjava" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert PNG to XLSX via PHP" %}}
 

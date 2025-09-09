@@ -1,7 +1,7 @@
 ---
 title: PHP XLSB to EXCEL - XLSB to EXCEL Converter
-description: Aspose Excel. Convert XLSB to EXCEL quickly and easily with Aspose.Cells. PHP XLSB to EXCEL. PHP Save XLSB to EXCEL. Save XLSB as EXCEL using PHP.
-keywords: [Aspose Excel., PHP Aspose.Cells., Convert XLSB to EXCEL in PHP., Save XLSB to EXCEL using PHP., PHP XLSB to EXCEL saveformat., XLSB to EXCEL Converter., PHP Save XLSB as EXCEL]
+description: Aspose Excel. This comprehensive solution provides PHP developers with a fully integrated approach to convert XLSB to EXCEL format, enabling seamless saving of XLSB data into EXCEL format using the Aspose.Cells library, all through efficient and customizable PHP code.
+keywords: [Aspose Excel., PHP Aspose.Cells., Smart XLSB files to EXCEL Converter for PHP., Convert XLSB to EXCEL in PHP., XLSB files to EXCEL Conversion in PHP., Leverage intelligent data processing to automatically parse and save XLSB into EXCEL format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -28,7 +28,7 @@ Follow the easy steps to convert XLSB to EXCEL. Upload your XLSB file, then simp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert XLSB to EXCEL" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsb" outformat="xlsx" IsLandingPage="true" language="phpjava" %}}
+{{% cells-convert title="Sample Code to Convert XLSB to EXCEL" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="xlsb" outformat="xlsx" IsLandingPage="true" language="phpjava" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert XLSB to EXCEL via PHP" %}}
 

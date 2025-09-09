@@ -1,7 +1,7 @@
 ---
 title: PHP XLTX to SXC - XLTX to SXC Converter
-description: Aspose Excel. Convert XLTX to SXC quickly and easily with Aspose.Cells. PHP XLTX to SXC. PHP Save XLTX to SXC. Save XLTX as SXC using PHP.
-keywords: [Aspose Excel., PHP Aspose.Cells., Convert XLTX to SXC in PHP., Save XLTX to SXC using PHP., PHP XLTX to SXC saveformat., XLTX to SXC Converter., PHP Save XLTX as SXC]
+description: Aspose Excel. This comprehensive solution provides PHP developers with a fully integrated approach to convert XLTX to SXC format, enabling seamless saving of XLTX data into SXC format using the Aspose.Cells library, all through efficient and customizable PHP code.
+keywords: [Aspose Excel., PHP Aspose.Cells., Smart XLTX files to SXC Converter for PHP., Convert XLTX to SXC in PHP., XLTX files to SXC Conversion in PHP., Leverage intelligent data processing to automatically parse and save XLTX into SXC format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -28,7 +28,7 @@ Follow the easy steps to convert XLTX to SXC. Upload your XLTX file, then simply
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert XLTX to SXC" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xltx" outformat="sxc" IsLandingPage="true" language="phpjava" %}}
+{{% cells-convert title="Sample Code to Convert XLTX to SXC" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="xltx" outformat="sxc" IsLandingPage="true" language="phpjava" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert XLTX to SXC via PHP" %}}
 

@@ -1,7 +1,7 @@
 ---
 title: PHP PRN to TSV - PRN to TSV Converter
-description: Aspose Excel. Convert PRN to TSV quickly and easily with Aspose.Cells. PHP PRN to TSV. PHP Save PRN to TSV. Save PRN as TSV using PHP.
-keywords: [Aspose Excel., PHP Aspose.Cells., Convert PRN to TSV in PHP., Save PRN to TSV using PHP., PHP PRN to TSV saveformat., PRN to TSV Converter., PHP Save PRN as TSV]
+description: Aspose Excel. This comprehensive solution provides PHP developers with a fully integrated approach to convert PRN to TSV format, enabling seamless saving of PRN data into TSV format using the Aspose.Cells library, all through efficient and customizable PHP code.
+keywords: [Aspose Excel., PHP Aspose.Cells., Smart PRN files to TSV Converter for PHP., Convert PRN to TSV in PHP., PRN files to TSV Conversion in PHP., Leverage intelligent data processing to automatically parse and save PRN into TSV format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -28,7 +28,7 @@ Follow the easy steps to convert PRN to TSV. Upload your PRN file, then simply s
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert PRN to TSV" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="prn" outformat="tsv" IsLandingPage="true" language="phpjava" %}}
+{{% cells-convert title="Sample Code to Convert PRN to TSV" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="prn" outformat="tsv" IsLandingPage="true" language="phpjava" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert PRN to TSV via PHP" %}}
 

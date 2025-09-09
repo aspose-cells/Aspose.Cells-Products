@@ -1,7 +1,7 @@
 ---
 title: Java PNG to XPS - PNG to XPS Converter
-description: Aspose Excel. Convert PNG to XPS quickly and easily with Aspose.Cells. Java PNG to XPS. Java Save PNG to XPS. Save PNG as XPS using Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Convert PNG to XPS in Java., Save PNG to XPS using Java., Java PNG to XPS saveformat., PNG to XPS Converter., Java Save PNG as XPS]
+description: Aspose Excel. This comprehensive solution provides Java developers with a fully integrated approach to convert PNG to XPS format, enabling seamless saving of PNG data into XPS format using the Aspose.Cells library, all through efficient and customizable Java code.
+keywords: [Aspose Excel., Java Aspose.Cells., Smart PNG files to XPS Converter for Java., Convert PNG to XPS in Java., PNG files to XPS Conversion in Java., Leverage intelligent data processing to automatically parse and save PNG into XPS format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -57,7 +57,7 @@ Follow the easy steps to convert PNG to XPS. Upload your PNG file, then simply s
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert PNG to XPS" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="png" outformat="xps" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Sample Code to Convert PNG to XPS" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="png" outformat="xps" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert PNG to XPS via Java" %}}
 

@@ -1,7 +1,7 @@
 ---
 title: C# XLTM to IMAGE - XLTM to IMAGE Converter
-description: Aspose Excel. Convert XLTM to IMAGE quickly and easily with Aspose.Cells. C# XLTM to IMAGE. C# Save XLTM to IMAGE. Save XLTM as IMAGE using C#.
-keywords: [Aspose Excel., C# Aspose.Cells., Convert XLTM to IMAGE in C#., Save XLTM to IMAGE using C#., C# XLTM to IMAGE saveformat., XLTM to IMAGE Converter., C# Save XLTM as IMAGE]
+description: Aspose Excel. This comprehensive solution provides C# developers with a fully integrated approach to convert XLTM to IMAGE format, enabling seamless saving of XLTM data into IMAGE format using the Aspose.Cells library, all through efficient and customizable C# code.
+keywords: [Aspose Excel., C# Aspose.Cells., Smart XLTM files to IMAGE Converter for C#., Convert XLTM to IMAGE in C#., XLTM files to IMAGE Conversion in C#., Leverage intelligent data processing to automatically parse and save XLTM into IMAGE format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -36,7 +36,7 @@ Follow the easy steps to convert XLTM to IMAGE. Upload your XLTM file, then simp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert XLTM to IMAGE" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xltm" outformat="png" IsLandingPage="true" %}}
+{{% cells-convert title="Sample Code to Convert XLTM to IMAGE" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="xltm" outformat="png" IsLandingPage="true" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert XLTM to IMAGE via C#" %}}
 

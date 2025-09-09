@@ -1,7 +1,7 @@
 ---
 title: Java ODS to XLAM - ODS to XLAM Converter
-description: Aspose Excel. Convert ODS to XLAM quickly and easily with Aspose.Cells. Java ODS to XLAM. Java Save ODS to XLAM. Save ODS as XLAM using Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Convert ODS to XLAM in Java., Save ODS to XLAM using Java., Java ODS to XLAM saveformat., ODS to XLAM Converter., Java Save ODS as XLAM]
+description: Aspose Excel. This comprehensive solution provides Java developers with a fully integrated approach to convert ODS to XLAM format, enabling seamless saving of ODS data into XLAM format using the Aspose.Cells library, all through efficient and customizable Java code.
+keywords: [Aspose Excel., Java Aspose.Cells., Smart ODS files to XLAM Converter for Java., Convert ODS to XLAM in Java., ODS files to XLAM Conversion in Java., Leverage intelligent data processing to automatically parse and save ODS into XLAM format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -57,7 +57,7 @@ Follow the easy steps to convert ODS to XLAM. Upload your ODS file, then simply 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert ODS to XLAM" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="ods" outformat="xlam" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Sample Code to Convert ODS to XLAM" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="ods" outformat="xlam" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert ODS to XLAM via Java" %}}
 

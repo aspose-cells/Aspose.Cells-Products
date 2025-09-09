@@ -1,7 +1,7 @@
 ---
 title: C# HTM to SQL - HTM to SQL Converter
-description: Aspose Excel. Convert HTM to SQL quickly and easily with Aspose.Cells. C# HTM to SQL. C# Save HTM to SQL. Save HTM as SQL using C#.
-keywords: [Aspose Excel., C# Aspose.Cells., Convert HTM to SQL in C#., Save HTM to SQL using C#., C# HTM to SQL saveformat., HTM to SQL Converter., C# Save HTM as SQL]
+description: Aspose Excel. This comprehensive solution provides C# developers with a fully integrated approach to convert HTM to SQL format, enabling seamless saving of HTM data into SQL format using the Aspose.Cells library, all through efficient and customizable C# code.
+keywords: [Aspose Excel., C# Aspose.Cells., Smart HTM files to SQL Converter for C#., Convert HTM to SQL in C#., HTM files to SQL Conversion in C#., Leverage intelligent data processing to automatically parse and save HTM into SQL format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -36,7 +36,7 @@ Follow the easy steps to convert HTM to SQL. Upload your HTM file, then simply s
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert HTM to SQL" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="htm" outformat="sql" IsLandingPage="true" %}}
+{{% cells-convert title="Sample Code to Convert HTM to SQL" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="htm" outformat="sql" IsLandingPage="true" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert HTM to SQL via C#" %}}
 

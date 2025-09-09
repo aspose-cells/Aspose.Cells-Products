@@ -1,7 +1,7 @@
 ---
 title: PHP XML to PDF - XML to PDF Converter
-description: Aspose Excel. Convert XML to PDF quickly and easily with Aspose.Cells. PHP XML to PDF. PHP Save XML to PDF. Save XML as PDF using PHP.
-keywords: [Aspose Excel., PHP Aspose.Cells., Convert XML to PDF in PHP., Save XML to PDF using PHP., PHP XML to PDF saveformat., XML to PDF Converter., PHP Save XML as PDF]
+description: Aspose Excel. This comprehensive solution provides PHP developers with a fully integrated approach to convert XML to PDF format, enabling seamless saving of XML data into PDF format using the Aspose.Cells library, all through efficient and customizable PHP code.
+keywords: [Aspose Excel., PHP Aspose.Cells., Smart XML files to PDF Converter for PHP., Convert XML to PDF in PHP., XML files to PDF Conversion in PHP., Leverage intelligent data processing to automatically parse and save XML into PDF format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -28,7 +28,7 @@ Follow the easy steps to convert XML to PDF. Upload your XML file, then simply s
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert XML to PDF" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xml" outformat="pdf" IsLandingPage="true" language="phpjava" %}}
+{{% cells-convert title="Sample Code to Convert XML to PDF" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="xml" outformat="pdf" IsLandingPage="true" language="phpjava" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert XML to PDF via PHP" %}}
 

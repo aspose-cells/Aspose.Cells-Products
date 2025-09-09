@@ -1,7 +1,7 @@
 ---
 title: PHP DBF to FODS - DBF to FODS Converter
-description: Aspose Excel. Convert DBF to FODS quickly and easily with Aspose.Cells. PHP DBF to FODS. PHP Save DBF to FODS. Save DBF as FODS using PHP.
-keywords: [Aspose Excel., PHP Aspose.Cells., Convert DBF to FODS in PHP., Save DBF to FODS using PHP., PHP DBF to FODS saveformat., DBF to FODS Converter., PHP Save DBF as FODS]
+description: Aspose Excel. This comprehensive solution provides PHP developers with a fully integrated approach to convert DBF to FODS format, enabling seamless saving of DBF data into FODS format using the Aspose.Cells library, all through efficient and customizable PHP code.
+keywords: [Aspose Excel., PHP Aspose.Cells., Smart DBF files to FODS Converter for PHP., Convert DBF to FODS in PHP., DBF files to FODS Conversion in PHP., Leverage intelligent data processing to automatically parse and save DBF into FODS format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -28,7 +28,7 @@ Follow the easy steps to convert DBF to FODS. Upload your DBF file, then simply 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert DBF to FODS" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="dbf" outformat="fods" IsLandingPage="true" language="phpjava" %}}
+{{% cells-convert title="Sample Code to Convert DBF to FODS" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="dbf" outformat="fods" IsLandingPage="true" language="phpjava" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert DBF to FODS via PHP" %}}
 

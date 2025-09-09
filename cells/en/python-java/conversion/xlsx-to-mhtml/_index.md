@@ -1,7 +1,7 @@
 ---
 title: Python XLSX to MHTML - XLSX to MHTML Converter
-description: Aspose Excel. Python Excel. Convert XLSX to MHTML quickly and easily with Aspose.Cells. Python XLSX to MHTML. Python Save XLSX to MHTML. Save XLSX as MHTML using Python Excel Library.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert XLSX to MHTML in Python Excel Library., Save XLSX to MHTML using Python Excel Library., Python XLSX to MHTML saveformat., XLSX to MHTML Converter., Python Save XLSX as MHTML]
+description: Aspose Excel. This comprehensive solution provides Python developers with a fully integrated approach to convert XLSX to MHTML format, enabling seamless saving of XLSX data into MHTML format using the Aspose.Cells library, all through efficient and customizable Python code.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart XLSX files to MHTML Converter for Python., Convert XLSX to MHTML in Python., XLSX files to MHTML Conversion in Python., Leverage intelligent data processing to automatically parse and save XLSX into MHTML format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -28,7 +28,7 @@ Follow the easy steps to convert XLSX to MHTML. Upload your XLSX file, then simp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert XLSX to MHTML via Python Excel Library" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsx" outformat="mhtml" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="Sample Code to Convert XLSX to MHTML via Python Excel Library" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="xlsx" outformat="mhtml" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert XLSX to MHTML via Python" %}}
 

@@ -1,7 +1,7 @@
 ---
 title: Node.js MHTML to XLT - MHTML to XLT Converter
-description: Aspose Excel. Convert MHTML to XLT quickly and easily with Aspose.Cells. Node.js MHTML to XLT. Node.js Save MHTML to XLT. Save MHTML as XLT using Node.js.
-keywords: [Aspose Excel., Node.js Aspose.Cells., Convert MHTML to XLT in Node.js., Save MHTML to XLT using Node.js., Node.js MHTML to XLT saveformat., MHTML to XLT Converter., Node.js Save MHTML as XLT]
+description: Aspose Excel. This comprehensive solution provides Node.js developers with a fully integrated approach to convert MHTML to XLT format, enabling seamless saving of MHTML data into XLT format using the Aspose.Cells library, all through efficient and customizable Node.js code.
+keywords: [Aspose Excel., Node.js Aspose.Cells., Smart MHTML files to XLT Converter for Node.js., Convert MHTML to XLT in Node.js., MHTML files to XLT Conversion in Node.js., Leverage intelligent data processing to automatically parse and save MHTML into XLT format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -28,7 +28,7 @@ Follow the easy steps to convert MHTML to XLT. Upload your MHTML file, then simp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert MHTML to XLT" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="mhtml" outformat="xlt" IsLandingPage="true" language="nodejscpp" %}}
+{{% cells-convert title="Sample Code to Convert MHTML to XLT" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="mhtml" outformat="xlt" IsLandingPage="true" language="nodejscpp" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert MHTML to XLT via Node.js" %}}
 

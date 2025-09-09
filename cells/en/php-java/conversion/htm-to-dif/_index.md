@@ -1,7 +1,7 @@
 ---
 title: PHP HTM to DIF - HTM to DIF Converter
-description: Aspose Excel. Convert HTM to DIF quickly and easily with Aspose.Cells. PHP HTM to DIF. PHP Save HTM to DIF. Save HTM as DIF using PHP.
-keywords: [Aspose Excel., PHP Aspose.Cells., Convert HTM to DIF in PHP., Save HTM to DIF using PHP., PHP HTM to DIF saveformat., HTM to DIF Converter., PHP Save HTM as DIF]
+description: Aspose Excel. This comprehensive solution provides PHP developers with a fully integrated approach to convert HTM to DIF format, enabling seamless saving of HTM data into DIF format using the Aspose.Cells library, all through efficient and customizable PHP code.
+keywords: [Aspose Excel., PHP Aspose.Cells., Smart HTM files to DIF Converter for PHP., Convert HTM to DIF in PHP., HTM files to DIF Conversion in PHP., Leverage intelligent data processing to automatically parse and save HTM into DIF format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -28,7 +28,7 @@ Follow the easy steps to convert HTM to DIF. Upload your HTM file, then simply s
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert HTM to DIF" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="htm" outformat="dif" IsLandingPage="true" language="phpjava" %}}
+{{% cells-convert title="Sample Code to Convert HTM to DIF" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="htm" outformat="dif" IsLandingPage="true" language="phpjava" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert HTM to DIF via PHP" %}}
 

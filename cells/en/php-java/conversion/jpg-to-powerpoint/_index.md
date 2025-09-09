@@ -1,7 +1,7 @@
 ---
 title: PHP JPG to POWERPOINT - JPG to POWERPOINT Converter
-description: Aspose Excel. Convert JPG to POWERPOINT quickly and easily with Aspose.Cells. PHP JPG to POWERPOINT. PHP Save JPG to POWERPOINT. Save JPG as POWERPOINT using PHP.
-keywords: [Aspose Excel., PHP Aspose.Cells., Convert JPG to POWERPOINT in PHP., Save JPG to POWERPOINT using PHP., PHP JPG to POWERPOINT saveformat., JPG to POWERPOINT Converter., PHP Save JPG as POWERPOINT]
+description: Aspose Excel. This comprehensive solution provides PHP developers with a fully integrated approach to convert JPG to POWERPOINT format, enabling seamless saving of JPG data into POWERPOINT format using the Aspose.Cells library, all through efficient and customizable PHP code.
+keywords: [Aspose Excel., PHP Aspose.Cells., Smart JPG files to POWERPOINT Converter for PHP., Convert JPG to POWERPOINT in PHP., JPG files to POWERPOINT Conversion in PHP., Leverage intelligent data processing to automatically parse and save JPG into POWERPOINT format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -28,7 +28,7 @@ Follow the easy steps to convert JPG to POWERPOINT. Upload your JPG file, then s
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert JPG to POWERPOINT" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="jpg" outformat="pptx" IsLandingPage="true" language="phpjava" %}}
+{{% cells-convert title="Sample Code to Convert JPG to POWERPOINT" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="jpg" outformat="pptx" IsLandingPage="true" language="phpjava" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert JPG to POWERPOINT via PHP" %}}
 

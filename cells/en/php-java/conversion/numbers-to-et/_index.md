@@ -1,7 +1,7 @@
 ---
 title: PHP NUMBERS to ET - NUMBERS to ET Converter
-description: Aspose Excel. Convert NUMBERS to ET quickly and easily with Aspose.Cells. PHP NUMBERS to ET. PHP Save NUMBERS to ET. Save NUMBERS as ET using PHP.
-keywords: [Aspose Excel., PHP Aspose.Cells., Convert NUMBERS to ET in PHP., Save NUMBERS to ET using PHP., PHP NUMBERS to ET saveformat., NUMBERS to ET Converter., PHP Save NUMBERS as ET]
+description: Aspose Excel. This comprehensive solution provides PHP developers with a fully integrated approach to convert NUMBERS to ET format, enabling seamless saving of NUMBERS data into ET format using the Aspose.Cells library, all through efficient and customizable PHP code.
+keywords: [Aspose Excel., PHP Aspose.Cells., Smart NUMBERS files to ET Converter for PHP., Convert NUMBERS to ET in PHP., NUMBERS files to ET Conversion in PHP., Leverage intelligent data processing to automatically parse and save NUMBERS into ET format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -28,7 +28,7 @@ Follow the easy steps to convert NUMBERS to ET. Upload your NUMBERS file, then s
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert NUMBERS to ET" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="numbers" outformat="et" IsLandingPage="true" language="phpjava" %}}
+{{% cells-convert title="Sample Code to Convert NUMBERS to ET" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="numbers" outformat="et" IsLandingPage="true" language="phpjava" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert NUMBERS to ET via PHP" %}}
 

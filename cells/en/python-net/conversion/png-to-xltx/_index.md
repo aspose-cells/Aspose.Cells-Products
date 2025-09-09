@@ -1,7 +1,7 @@
 ---
 title: Python PNG to XLTX - PNG to XLTX Converter
-description: Aspose Excel. Python Excel. Convert PNG to XLTX quickly and easily with Aspose.Cells. Python PNG to XLTX. Python Save PNG to XLTX. Save PNG as XLTX using Python Excel Library.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert PNG to XLTX in Python Excel Library., Save PNG to XLTX using Python Excel Library., Python PNG to XLTX saveformat., PNG to XLTX Converter., Python Save PNG as XLTX]
+description: Aspose Excel. This comprehensive solution provides Python developers with a fully integrated approach to convert PNG to XLTX format, enabling seamless saving of PNG data into XLTX format using the Aspose.Cells library, all through efficient and customizable Python code.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart PNG files to XLTX Converter for Python., Convert PNG to XLTX in Python., PNG files to XLTX Conversion in Python., Leverage intelligent data processing to automatically parse and save PNG into XLTX format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -29,7 +29,7 @@ Follow the easy steps to convert PNG to XLTX. Upload your PNG file, then simply 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert PNG to XLTX via Python Excel Library" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="png" outformat="xltx" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Sample Code to Convert PNG to XLTX via Python Excel Library" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="png" outformat="xltx" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert PNG to XLTX" %}}
 

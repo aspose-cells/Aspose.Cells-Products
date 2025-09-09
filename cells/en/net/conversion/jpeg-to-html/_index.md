@@ -1,7 +1,7 @@
 ---
 title: C# JPEG to HTML - JPEG to HTML Converter
-description: Aspose Excel. Convert JPEG to HTML quickly and easily with Aspose.Cells. C# JPEG to HTML. C# Save JPEG to HTML. Save JPEG as HTML using C#.
-keywords: [Aspose Excel., C# Aspose.Cells., Convert JPEG to HTML in C#., Save JPEG to HTML using C#., C# JPEG to HTML saveformat., JPEG to HTML Converter., C# Save JPEG as HTML]
+description: Aspose Excel. This comprehensive solution provides C# developers with a fully integrated approach to convert JPEG to HTML format, enabling seamless saving of JPEG data into HTML format using the Aspose.Cells library, all through efficient and customizable C# code.
+keywords: [Aspose Excel., C# Aspose.Cells., Smart JPEG files to HTML Converter for C#., Convert JPEG to HTML in C#., JPEG files to HTML Conversion in C#., Leverage intelligent data processing to automatically parse and save JPEG into HTML format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -36,7 +36,7 @@ Follow the easy steps to convert JPEG to HTML. Upload your JPEG file, then simpl
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert JPEG to HTML" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="jpg" outformat="html" IsLandingPage="true" %}}
+{{% cells-convert title="Sample Code to Convert JPEG to HTML" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="jpg" outformat="html" IsLandingPage="true" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert JPEG to HTML via C#" %}}
 

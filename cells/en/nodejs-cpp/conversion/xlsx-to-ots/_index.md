@@ -1,7 +1,7 @@
 ---
 title: Node.js XLSX to OTS - XLSX to OTS Converter
-description: Aspose Excel. Convert XLSX to OTS quickly and easily with Aspose.Cells. Node.js XLSX to OTS. Node.js Save XLSX to OTS. Save XLSX as OTS using Node.js.
-keywords: [Aspose Excel., Node.js Aspose.Cells., Convert XLSX to OTS in Node.js., Save XLSX to OTS using Node.js., Node.js XLSX to OTS saveformat., XLSX to OTS Converter., Node.js Save XLSX as OTS]
+description: Aspose Excel. This comprehensive solution provides Node.js developers with a fully integrated approach to convert XLSX to OTS format, enabling seamless saving of XLSX data into OTS format using the Aspose.Cells library, all through efficient and customizable Node.js code.
+keywords: [Aspose Excel., Node.js Aspose.Cells., Smart XLSX files to OTS Converter for Node.js., Convert XLSX to OTS in Node.js., XLSX files to OTS Conversion in Node.js., Leverage intelligent data processing to automatically parse and save XLSX into OTS format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -28,7 +28,7 @@ Follow the easy steps to convert XLSX to OTS. Upload your XLSX file, then simply
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert XLSX to OTS" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsx" outformat="ots" IsLandingPage="true" language="nodejscpp" %}}
+{{% cells-convert title="Sample Code to Convert XLSX to OTS" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="xlsx" outformat="ots" IsLandingPage="true" language="nodejscpp" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert XLSX to OTS via Node.js" %}}
 

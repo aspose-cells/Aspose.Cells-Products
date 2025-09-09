@@ -1,7 +1,7 @@
 ---
 title: PHP TABDELIMITED to MARKDOWN - TABDELIMITED to MARKDOWN Converter
-description: Aspose Excel. Convert TABDELIMITED to MARKDOWN quickly and easily with Aspose.Cells. PHP TABDELIMITED to MARKDOWN. PHP Save TABDELIMITED to MARKDOWN. Save TABDELIMITED as MARKDOWN using PHP.
-keywords: [Aspose Excel., PHP Aspose.Cells., Convert TABDELIMITED to MARKDOWN in PHP., Save TABDELIMITED to MARKDOWN using PHP., PHP TABDELIMITED to MARKDOWN saveformat., TABDELIMITED to MARKDOWN Converter., PHP Save TABDELIMITED as MARKDOWN]
+description: Aspose Excel. This comprehensive solution provides PHP developers with a fully integrated approach to convert TABDELIMITED to MARKDOWN format, enabling seamless saving of TABDELIMITED data into MARKDOWN format using the Aspose.Cells library, all through efficient and customizable PHP code.
+keywords: [Aspose Excel., PHP Aspose.Cells., Smart TABDELIMITED files to MARKDOWN Converter for PHP., Convert TABDELIMITED to MARKDOWN in PHP., TABDELIMITED files to MARKDOWN Conversion in PHP., Leverage intelligent data processing to automatically parse and save TABDELIMITED into MARKDOWN format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -28,7 +28,7 @@ Follow the easy steps to convert TABDELIMITED to MARKDOWN. Upload your TABDELIMI
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert TABDELIMITED to MARKDOWN" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="tsv" outformat="md" IsLandingPage="true" language="phpjava" %}}
+{{% cells-convert title="Sample Code to Convert TABDELIMITED to MARKDOWN" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="tsv" outformat="md" IsLandingPage="true" language="phpjava" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert TABDELIMITED to MARKDOWN via PHP" %}}
 

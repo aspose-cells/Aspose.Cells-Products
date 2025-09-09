@@ -1,7 +1,7 @@
 ---
-title: XLAM to JSON - Convert XLAM to JSON files C#
-description: Aspose Excel. Free Online Convert XLAM to JSON saveformat. C# XLAM to JSON format. Save XLAM as JSON in C#.
-keywords: [Aspose Excel., C# Aspose.Cells., C# XLAM to JSON saveformat., Free Online XLAM to JSON Converter]
+title: C# XLAM to JSON - XLAM to JSON Converter
+description: Aspose Excel. This comprehensive solution provides C# developers with a fully integrated approach to convert XLAM to JSON format, enabling seamless saving of XLAM data into JSON format using the Aspose.Cells library, all through efficient and customizable C# code.
+keywords: [Aspose Excel., C# Aspose.Cells., Smart XLAM files to JSON Converter for C#., Convert XLAM to JSON in C#., XLAM files to JSON Conversion in C#., Leverage intelligent data processing to automatically parse and save XLAM into JSON format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -25,7 +25,7 @@ PM> Install-Package Aspose.Cells
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Save XLAM to JSON in C# Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Save XLAM to JSON in C#" %}}
 
 The following example demonstrates how to convert XLAM to JSON in C#.
 {{% blocks/products/pf/agp/text %}}
@@ -36,7 +36,7 @@ Follow the easy steps to convert XLAM to JSON. Upload your XLAM file, then simpl
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Free App and Sample Code to Convert XLAM to JSON Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlam" outformat="json" IsLandingPage="true" %}}
+{{% cells-convert title="Sample Code to Convert XLAM to JSON" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="xlam" outformat="json" IsLandingPage="true" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert XLAM to JSON via C#" %}}
 

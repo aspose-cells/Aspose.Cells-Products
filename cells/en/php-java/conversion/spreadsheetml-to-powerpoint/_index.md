@@ -1,7 +1,7 @@
 ---
 title: PHP SPREADSHEETML to POWERPOINT - SPREADSHEETML to POWERPOINT Converter
-description: Aspose Excel. Convert SPREADSHEETML to POWERPOINT quickly and easily with Aspose.Cells. PHP SPREADSHEETML to POWERPOINT. PHP Save SPREADSHEETML to POWERPOINT. Save SPREADSHEETML as POWERPOINT using PHP.
-keywords: [Aspose Excel., PHP Aspose.Cells., Convert SPREADSHEETML to POWERPOINT in PHP., Save SPREADSHEETML to POWERPOINT using PHP., PHP SPREADSHEETML to POWERPOINT saveformat., SPREADSHEETML to POWERPOINT Converter., PHP Save SPREADSHEETML as POWERPOINT]
+description: Aspose Excel. This comprehensive solution provides PHP developers with a fully integrated approach to convert SPREADSHEETML to POWERPOINT format, enabling seamless saving of SPREADSHEETML data into POWERPOINT format using the Aspose.Cells library, all through efficient and customizable PHP code.
+keywords: [Aspose Excel., PHP Aspose.Cells., Smart SPREADSHEETML files to POWERPOINT Converter for PHP., Convert SPREADSHEETML to POWERPOINT in PHP., SPREADSHEETML files to POWERPOINT Conversion in PHP., Leverage intelligent data processing to automatically parse and save SPREADSHEETML into POWERPOINT format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -28,7 +28,7 @@ Follow the easy steps to convert SPREADSHEETML to POWERPOINT. Upload your SPREAD
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert SPREADSHEETML to POWERPOINT" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xml" outformat="pptx" IsLandingPage="true" language="phpjava" %}}
+{{% cells-convert title="Sample Code to Convert SPREADSHEETML to POWERPOINT" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="xml" outformat="pptx" IsLandingPage="true" language="phpjava" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert SPREADSHEETML to POWERPOINT via PHP" %}}
 

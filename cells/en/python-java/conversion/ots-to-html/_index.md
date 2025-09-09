@@ -1,7 +1,7 @@
 ---
 title: Python OTS to HTML - OTS to HTML Converter
-description: Aspose Excel. Python Excel. Convert OTS to HTML quickly and easily with Aspose.Cells. Python OTS to HTML. Python Save OTS to HTML. Save OTS as HTML using Python Excel Library.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert OTS to HTML in Python Excel Library., Save OTS to HTML using Python Excel Library., Python OTS to HTML saveformat., OTS to HTML Converter., Python Save OTS as HTML]
+description: Aspose Excel. This comprehensive solution provides Python developers with a fully integrated approach to convert OTS to HTML format, enabling seamless saving of OTS data into HTML format using the Aspose.Cells library, all through efficient and customizable Python code.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart OTS files to HTML Converter for Python., Convert OTS to HTML in Python., OTS files to HTML Conversion in Python., Leverage intelligent data processing to automatically parse and save OTS into HTML format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -28,7 +28,7 @@ Follow the easy steps to convert OTS to HTML. Upload your OTS file, then simply 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert OTS to HTML via Python Excel Library" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="ots" outformat="html" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="Sample Code to Convert OTS to HTML via Python Excel Library" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="ots" outformat="html" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert OTS to HTML via Python" %}}
 

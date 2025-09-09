@@ -1,7 +1,7 @@
 ---
 title: Java TXT to DOCX - TXT to DOCX Converter
-description: Aspose Excel. Convert TXT to DOCX quickly and easily with Aspose.Cells. Java TXT to DOCX. Java Save TXT to DOCX. Save TXT as DOCX using Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Convert TXT to DOCX in Java., Save TXT to DOCX using Java., Java TXT to DOCX saveformat., TXT to DOCX Converter., Java Save TXT as DOCX]
+description: Aspose Excel. This comprehensive solution provides Java developers with a fully integrated approach to convert TXT to DOCX format, enabling seamless saving of TXT data into DOCX format using the Aspose.Cells library, all through efficient and customizable Java code.
+keywords: [Aspose Excel., Java Aspose.Cells., Smart TXT files to DOCX Converter for Java., Convert TXT to DOCX in Java., TXT files to DOCX Conversion in Java., Leverage intelligent data processing to automatically parse and save TXT into DOCX format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -57,7 +57,7 @@ Follow the easy steps to convert TXT to DOCX. Upload your TXT file, then simply 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert TXT to DOCX" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="txt" outformat="docx" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Sample Code to Convert TXT to DOCX" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="txt" outformat="docx" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert TXT to DOCX via Java" %}}
 

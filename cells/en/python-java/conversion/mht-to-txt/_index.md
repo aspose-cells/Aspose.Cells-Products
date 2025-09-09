@@ -1,7 +1,7 @@
 ---
 title: Python MHT to TXT - MHT to TXT Converter
-description: Aspose Excel. Python Excel. Convert MHT to TXT quickly and easily with Aspose.Cells. Python MHT to TXT. Python Save MHT to TXT. Save MHT as TXT using Python Excel Library.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert MHT to TXT in Python Excel Library., Save MHT to TXT using Python Excel Library., Python MHT to TXT saveformat., MHT to TXT Converter., Python Save MHT as TXT]
+description: Aspose Excel. This comprehensive solution provides Python developers with a fully integrated approach to convert MHT to TXT format, enabling seamless saving of MHT data into TXT format using the Aspose.Cells library, all through efficient and customizable Python code.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart MHT files to TXT Converter for Python., Convert MHT to TXT in Python., MHT files to TXT Conversion in Python., Leverage intelligent data processing to automatically parse and save MHT into TXT format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -28,7 +28,7 @@ Follow the easy steps to convert MHT to TXT. Upload your MHT file, then simply s
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert MHT to TXT via Python Excel Library" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="mht" outformat="txt" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="Sample Code to Convert MHT to TXT via Python Excel Library" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="mht" outformat="txt" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert MHT to TXT via Python" %}}
 

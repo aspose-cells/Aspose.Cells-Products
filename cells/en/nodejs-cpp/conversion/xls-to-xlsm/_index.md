@@ -1,7 +1,7 @@
 ---
 title: Node.js XLS to XLSM - XLS to XLSM Converter
-description: Aspose Excel. Convert XLS to XLSM quickly and easily with Aspose.Cells. Node.js XLS to XLSM. Node.js Save XLS to XLSM. Save XLS as XLSM using Node.js.
-keywords: [Aspose Excel., Node.js Aspose.Cells., Convert XLS to XLSM in Node.js., Save XLS to XLSM using Node.js., Node.js XLS to XLSM saveformat., XLS to XLSM Converter., Node.js Save XLS as XLSM]
+description: Aspose Excel. This comprehensive solution provides Node.js developers with a fully integrated approach to convert XLS to XLSM format, enabling seamless saving of XLS data into XLSM format using the Aspose.Cells library, all through efficient and customizable Node.js code.
+keywords: [Aspose Excel., Node.js Aspose.Cells., Smart XLS files to XLSM Converter for Node.js., Convert XLS to XLSM in Node.js., XLS files to XLSM Conversion in Node.js., Leverage intelligent data processing to automatically parse and save XLS into XLSM format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -28,7 +28,7 @@ Follow the easy steps to convert XLS to XLSM. Upload your XLS file, then simply 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert XLS to XLSM" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xls" outformat="xlsm" IsLandingPage="true" language="nodejscpp" %}}
+{{% cells-convert title="Sample Code to Convert XLS to XLSM" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="xls" outformat="xlsm" IsLandingPage="true" language="nodejscpp" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert XLS to XLSM via Node.js" %}}
 

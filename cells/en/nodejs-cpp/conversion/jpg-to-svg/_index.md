@@ -1,7 +1,7 @@
 ---
 title: Node.js JPG to SVG - JPG to SVG Converter
-description: Aspose Excel. Convert JPG to SVG quickly and easily with Aspose.Cells. Node.js JPG to SVG. Node.js Save JPG to SVG. Save JPG as SVG using Node.js.
-keywords: [Aspose Excel., Node.js Aspose.Cells., Convert JPG to SVG in Node.js., Save JPG to SVG using Node.js., Node.js JPG to SVG saveformat., JPG to SVG Converter., Node.js Save JPG as SVG]
+description: Aspose Excel. This comprehensive solution provides Node.js developers with a fully integrated approach to convert JPG to SVG format, enabling seamless saving of JPG data into SVG format using the Aspose.Cells library, all through efficient and customizable Node.js code.
+keywords: [Aspose Excel., Node.js Aspose.Cells., Smart JPG files to SVG Converter for Node.js., Convert JPG to SVG in Node.js., JPG files to SVG Conversion in Node.js., Leverage intelligent data processing to automatically parse and save JPG into SVG format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -28,7 +28,7 @@ Follow the easy steps to convert JPG to SVG. Upload your JPG file, then simply s
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert JPG to SVG" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="jpg" outformat="svg" IsLandingPage="true" language="nodejscpp" %}}
+{{% cells-convert title="Sample Code to Convert JPG to SVG" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="jpg" outformat="svg" IsLandingPage="true" language="nodejscpp" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert JPG to SVG via Node.js" %}}
 

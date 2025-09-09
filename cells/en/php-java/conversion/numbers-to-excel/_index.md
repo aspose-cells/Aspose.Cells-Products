@@ -1,7 +1,7 @@
 ---
 title: PHP NUMBERS to EXCEL - NUMBERS to EXCEL Converter
-description: Aspose Excel. Convert NUMBERS to EXCEL quickly and easily with Aspose.Cells. PHP NUMBERS to EXCEL. PHP Save NUMBERS to EXCEL. Save NUMBERS as EXCEL using PHP.
-keywords: [Aspose Excel., PHP Aspose.Cells., Convert NUMBERS to EXCEL in PHP., Save NUMBERS to EXCEL using PHP., PHP NUMBERS to EXCEL saveformat., NUMBERS to EXCEL Converter., PHP Save NUMBERS as EXCEL]
+description: Aspose Excel. This comprehensive solution provides PHP developers with a fully integrated approach to convert NUMBERS to EXCEL format, enabling seamless saving of NUMBERS data into EXCEL format using the Aspose.Cells library, all through efficient and customizable PHP code.
+keywords: [Aspose Excel., PHP Aspose.Cells., Smart NUMBERS files to EXCEL Converter for PHP., Convert NUMBERS to EXCEL in PHP., NUMBERS files to EXCEL Conversion in PHP., Leverage intelligent data processing to automatically parse and save NUMBERS into EXCEL format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -28,7 +28,7 @@ Follow the easy steps to convert NUMBERS to EXCEL. Upload your NUMBERS file, the
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert NUMBERS to EXCEL" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="numbers" outformat="xlsx" IsLandingPage="true" language="phpjava" %}}
+{{% cells-convert title="Sample Code to Convert NUMBERS to EXCEL" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="numbers" outformat="xlsx" IsLandingPage="true" language="phpjava" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert NUMBERS to EXCEL via PHP" %}}
 

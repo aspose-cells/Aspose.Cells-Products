@@ -1,7 +1,7 @@
 ---
 title: C# XLT to FODS - XLT to FODS Converter
-description: Aspose Excel. Convert XLT to FODS quickly and easily with Aspose.Cells. C# XLT to FODS. C# Save XLT to FODS. Save XLT as FODS using C#.
-keywords: [Aspose Excel., C# Aspose.Cells., Convert XLT to FODS in C#., Save XLT to FODS using C#., C# XLT to FODS saveformat., XLT to FODS Converter., C# Save XLT as FODS]
+description: Aspose Excel. This comprehensive solution provides C# developers with a fully integrated approach to convert XLT to FODS format, enabling seamless saving of XLT data into FODS format using the Aspose.Cells library, all through efficient and customizable C# code.
+keywords: [Aspose Excel., C# Aspose.Cells., Smart XLT files to FODS Converter for C#., Convert XLT to FODS in C#., XLT files to FODS Conversion in C#., Leverage intelligent data processing to automatically parse and save XLT into FODS format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -36,7 +36,7 @@ Follow the easy steps to convert XLT to FODS. Upload your XLT file, then simply 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert XLT to FODS" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlt" outformat="fods" IsLandingPage="true" %}}
+{{% cells-convert title="Sample Code to Convert XLT to FODS" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="xlt" outformat="fods" IsLandingPage="true" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert XLT to FODS via C#" %}}
 

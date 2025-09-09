@@ -1,7 +1,7 @@
 ---
 title: Python HTML to SQL - HTML to SQL Converter
-description: Aspose Excel. Python Excel. Convert HTML to SQL quickly and easily with Aspose.Cells. Python HTML to SQL. Python Save HTML to SQL. Save HTML as SQL using Python Excel Library.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert HTML to SQL in Python Excel Library., Save HTML to SQL using Python Excel Library., Python HTML to SQL saveformat., HTML to SQL Converter., Python Save HTML as SQL]
+description: Aspose Excel. This comprehensive solution provides Python developers with a fully integrated approach to convert HTML to SQL format, enabling seamless saving of HTML data into SQL format using the Aspose.Cells library, all through efficient and customizable Python code.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart HTML files to SQL Converter for Python., Convert HTML to SQL in Python., HTML files to SQL Conversion in Python., Leverage intelligent data processing to automatically parse and save HTML into SQL format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -28,7 +28,7 @@ Follow the easy steps to convert HTML to SQL. Upload your HTML file, then simply
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert HTML to SQL via Python Excel Library" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="html" outformat="sql" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="Sample Code to Convert HTML to SQL via Python Excel Library" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="html" outformat="sql" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert HTML to SQL via Python" %}}
 

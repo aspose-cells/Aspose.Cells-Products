@@ -1,7 +1,7 @@
 ---
 title: Node.js MHT to DOCX - MHT to DOCX Converter
-description: Aspose Excel. Convert MHT to DOCX quickly and easily with Aspose.Cells. Node.js MHT to DOCX. Node.js Save MHT to DOCX. Save MHT as DOCX using Node.js.
-keywords: [Aspose Excel., Node.js Aspose.Cells., Convert MHT to DOCX in Node.js., Save MHT to DOCX using Node.js., Node.js MHT to DOCX saveformat., MHT to DOCX Converter., Node.js Save MHT as DOCX]
+description: Aspose Excel. This comprehensive solution provides Node.js developers with a fully integrated approach to convert MHT to DOCX format, enabling seamless saving of MHT data into DOCX format using the Aspose.Cells library, all through efficient and customizable Node.js code.
+keywords: [Aspose Excel., Node.js Aspose.Cells., Smart MHT files to DOCX Converter for Node.js., Convert MHT to DOCX in Node.js., MHT files to DOCX Conversion in Node.js., Leverage intelligent data processing to automatically parse and save MHT into DOCX format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -28,7 +28,7 @@ Follow the easy steps to convert MHT to DOCX. Upload your MHT file, then simply 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert MHT to DOCX" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="mht" outformat="docx" IsLandingPage="true" language="nodejscpp" %}}
+{{% cells-convert title="Sample Code to Convert MHT to DOCX" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="mht" outformat="docx" IsLandingPage="true" language="nodejscpp" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert MHT to DOCX via Node.js" %}}
 

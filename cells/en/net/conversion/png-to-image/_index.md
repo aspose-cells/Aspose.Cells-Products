@@ -1,7 +1,7 @@
 ---
 title: C# PNG to IMAGE - PNG to IMAGE Converter
-description: Aspose Excel. Convert PNG to IMAGE quickly and easily with Aspose.Cells. C# PNG to IMAGE. C# Save PNG to IMAGE. Save PNG as IMAGE using C#.
-keywords: [Aspose Excel., C# Aspose.Cells., Convert PNG to IMAGE in C#., Save PNG to IMAGE using C#., C# PNG to IMAGE saveformat., PNG to IMAGE Converter., C# Save PNG as IMAGE]
+description: Aspose Excel. This comprehensive solution provides C# developers with a fully integrated approach to convert PNG to IMAGE format, enabling seamless saving of PNG data into IMAGE format using the Aspose.Cells library, all through efficient and customizable C# code.
+keywords: [Aspose Excel., C# Aspose.Cells., Smart PNG files to IMAGE Converter for C#., Convert PNG to IMAGE in C#., PNG files to IMAGE Conversion in C#., Leverage intelligent data processing to automatically parse and save PNG into IMAGE format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -36,7 +36,7 @@ Follow the easy steps to convert PNG to IMAGE. Upload your PNG file, then simply
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert PNG to IMAGE" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="png" outformat="png" IsLandingPage="true" %}}
+{{% cells-convert title="Sample Code to Convert PNG to IMAGE" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="png" outformat="png" IsLandingPage="true" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert PNG to IMAGE via C#" %}}
 

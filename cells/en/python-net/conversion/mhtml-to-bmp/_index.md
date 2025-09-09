@@ -1,7 +1,7 @@
 ---
 title: Python MHTML to BMP - MHTML to BMP Converter
-description: Aspose Excel. Python Excel. Convert MHTML to BMP quickly and easily with Aspose.Cells. Python MHTML to BMP. Python Save MHTML to BMP. Save MHTML as BMP using Python Excel Library.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert MHTML to BMP in Python Excel Library., Save MHTML to BMP using Python Excel Library., Python MHTML to BMP saveformat., MHTML to BMP Converter., Python Save MHTML as BMP]
+description: Aspose Excel. This comprehensive solution provides Python developers with a fully integrated approach to convert MHTML to BMP format, enabling seamless saving of MHTML data into BMP format using the Aspose.Cells library, all through efficient and customizable Python code.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart MHTML files to BMP Converter for Python., Convert MHTML to BMP in Python., MHTML files to BMP Conversion in Python., Leverage intelligent data processing to automatically parse and save MHTML into BMP format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -29,7 +29,7 @@ Follow the easy steps to convert MHTML to BMP. Upload your MHTML file, then simp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert MHTML to BMP via Python Excel Library" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="mhtml" outformat="bmp" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Sample Code to Convert MHTML to BMP via Python Excel Library" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="mhtml" outformat="bmp" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert MHTML to BMP" %}}
 

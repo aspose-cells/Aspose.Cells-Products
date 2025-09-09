@@ -1,7 +1,7 @@
 ---
 title: Python XLSB to DIF - XLSB to DIF Converter
-description: Aspose Excel. Python Excel. Convert XLSB to DIF quickly and easily with Aspose.Cells. Python XLSB to DIF. Python Save XLSB to DIF. Save XLSB as DIF using Python Excel Library.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert XLSB to DIF in Python Excel Library., Save XLSB to DIF using Python Excel Library., Python XLSB to DIF saveformat., XLSB to DIF Converter., Python Save XLSB as DIF]
+description: Aspose Excel. This comprehensive solution provides Python developers with a fully integrated approach to convert XLSB to DIF format, enabling seamless saving of XLSB data into DIF format using the Aspose.Cells library, all through efficient and customizable Python code.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart XLSB files to DIF Converter for Python., Convert XLSB to DIF in Python., XLSB files to DIF Conversion in Python., Leverage intelligent data processing to automatically parse and save XLSB into DIF format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -29,7 +29,7 @@ Follow the easy steps to convert XLSB to DIF. Upload your XLSB file, then simply
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert XLSB to DIF via Python Excel Library" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsb" outformat="dif" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Sample Code to Convert XLSB to DIF via Python Excel Library" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="xlsb" outformat="dif" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert XLSB to DIF" %}}
 

@@ -1,7 +1,7 @@
 ---
 title: PHP MARKDOWN to SQL - MARKDOWN to SQL Converter
-description: Aspose Excel. Convert MARKDOWN to SQL quickly and easily with Aspose.Cells. PHP MARKDOWN to SQL. PHP Save MARKDOWN to SQL. Save MARKDOWN as SQL using PHP.
-keywords: [Aspose Excel., PHP Aspose.Cells., Convert MARKDOWN to SQL in PHP., Save MARKDOWN to SQL using PHP., PHP MARKDOWN to SQL saveformat., MARKDOWN to SQL Converter., PHP Save MARKDOWN as SQL]
+description: Aspose Excel. This comprehensive solution provides PHP developers with a fully integrated approach to convert MARKDOWN to SQL format, enabling seamless saving of MARKDOWN data into SQL format using the Aspose.Cells library, all through efficient and customizable PHP code.
+keywords: [Aspose Excel., PHP Aspose.Cells., Smart MARKDOWN files to SQL Converter for PHP., Convert MARKDOWN to SQL in PHP., MARKDOWN files to SQL Conversion in PHP., Leverage intelligent data processing to automatically parse and save MARKDOWN into SQL format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -28,7 +28,7 @@ Follow the easy steps to convert MARKDOWN to SQL. Upload your MARKDOWN file, the
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert MARKDOWN to SQL" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="md" outformat="sql" IsLandingPage="true" language="phpjava" %}}
+{{% cells-convert title="Sample Code to Convert MARKDOWN to SQL" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="md" outformat="sql" IsLandingPage="true" language="phpjava" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert MARKDOWN to SQL via PHP" %}}
 

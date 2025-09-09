@@ -1,7 +1,7 @@
 ---
 title: Java SPREADSHEETML to XLS - SPREADSHEETML to XLS Converter
-description: Aspose Excel. Convert SPREADSHEETML to XLS quickly and easily with Aspose.Cells. Java SPREADSHEETML to XLS. Java Save SPREADSHEETML to XLS. Save SPREADSHEETML as XLS using Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Convert SPREADSHEETML to XLS in Java., Save SPREADSHEETML to XLS using Java., Java SPREADSHEETML to XLS saveformat., SPREADSHEETML to XLS Converter., Java Save SPREADSHEETML as XLS]
+description: Aspose Excel. This comprehensive solution provides Java developers with a fully integrated approach to convert SPREADSHEETML to XLS format, enabling seamless saving of SPREADSHEETML data into XLS format using the Aspose.Cells library, all through efficient and customizable Java code.
+keywords: [Aspose Excel., Java Aspose.Cells., Smart SPREADSHEETML files to XLS Converter for Java., Convert SPREADSHEETML to XLS in Java., SPREADSHEETML files to XLS Conversion in Java., Leverage intelligent data processing to automatically parse and save SPREADSHEETML into XLS format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -57,7 +57,7 @@ Follow the easy steps to convert SPREADSHEETML to XLS. Upload your SPREADSHEETML
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert SPREADSHEETML to XLS" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xml" outformat="xls" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Sample Code to Convert SPREADSHEETML to XLS" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="xml" outformat="xls" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert SPREADSHEETML to XLS via Java" %}}
 

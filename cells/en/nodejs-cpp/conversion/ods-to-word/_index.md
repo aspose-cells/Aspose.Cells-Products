@@ -1,7 +1,7 @@
 ---
 title: Node.js ODS to WORD - ODS to WORD Converter
-description: Aspose Excel. Convert ODS to WORD quickly and easily with Aspose.Cells. Node.js ODS to WORD. Node.js Save ODS to WORD. Save ODS as WORD using Node.js.
-keywords: [Aspose Excel., Node.js Aspose.Cells., Convert ODS to WORD in Node.js., Save ODS to WORD using Node.js., Node.js ODS to WORD saveformat., ODS to WORD Converter., Node.js Save ODS as WORD]
+description: Aspose Excel. This comprehensive solution provides Node.js developers with a fully integrated approach to convert ODS to WORD format, enabling seamless saving of ODS data into WORD format using the Aspose.Cells library, all through efficient and customizable Node.js code.
+keywords: [Aspose Excel., Node.js Aspose.Cells., Smart ODS files to WORD Converter for Node.js., Convert ODS to WORD in Node.js., ODS files to WORD Conversion in Node.js., Leverage intelligent data processing to automatically parse and save ODS into WORD format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -28,7 +28,7 @@ Follow the easy steps to convert ODS to WORD. Upload your ODS file, then simply 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert ODS to WORD" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="ods" outformat="docx" IsLandingPage="true" language="nodejscpp" %}}
+{{% cells-convert title="Sample Code to Convert ODS to WORD" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="ods" outformat="docx" IsLandingPage="true" language="nodejscpp" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert ODS to WORD via Node.js" %}}
 

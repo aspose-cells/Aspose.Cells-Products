@@ -1,7 +1,7 @@
 ---
 title: PHP FODS to XLS - FODS to XLS Converter
-description: Aspose Excel. Convert FODS to XLS quickly and easily with Aspose.Cells. PHP FODS to XLS. PHP Save FODS to XLS. Save FODS as XLS using PHP.
-keywords: [Aspose Excel., PHP Aspose.Cells., Convert FODS to XLS in PHP., Save FODS to XLS using PHP., PHP FODS to XLS saveformat., FODS to XLS Converter., PHP Save FODS as XLS]
+description: Aspose Excel. This comprehensive solution provides PHP developers with a fully integrated approach to convert FODS to XLS format, enabling seamless saving of FODS data into XLS format using the Aspose.Cells library, all through efficient and customizable PHP code.
+keywords: [Aspose Excel., PHP Aspose.Cells., Smart FODS files to XLS Converter for PHP., Convert FODS to XLS in PHP., FODS files to XLS Conversion in PHP., Leverage intelligent data processing to automatically parse and save FODS into XLS format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -28,7 +28,7 @@ Follow the easy steps to convert FODS to XLS. Upload your FODS file, then simply
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert FODS to XLS" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="fods" outformat="xls" IsLandingPage="true" language="phpjava" %}}
+{{% cells-convert title="Sample Code to Convert FODS to XLS" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="fods" outformat="xls" IsLandingPage="true" language="phpjava" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert FODS to XLS via PHP" %}}
 

@@ -1,7 +1,7 @@
 ---
 title: Node.js XLTX to POWERPOINT - XLTX to POWERPOINT Converter
-description: Aspose Excel. Convert XLTX to POWERPOINT quickly and easily with Aspose.Cells. Node.js XLTX to POWERPOINT. Node.js Save XLTX to POWERPOINT. Save XLTX as POWERPOINT using Node.js.
-keywords: [Aspose Excel., Node.js Aspose.Cells., Convert XLTX to POWERPOINT in Node.js., Save XLTX to POWERPOINT using Node.js., Node.js XLTX to POWERPOINT saveformat., XLTX to POWERPOINT Converter., Node.js Save XLTX as POWERPOINT]
+description: Aspose Excel. This comprehensive solution provides Node.js developers with a fully integrated approach to convert XLTX to POWERPOINT format, enabling seamless saving of XLTX data into POWERPOINT format using the Aspose.Cells library, all through efficient and customizable Node.js code.
+keywords: [Aspose Excel., Node.js Aspose.Cells., Smart XLTX files to POWERPOINT Converter for Node.js., Convert XLTX to POWERPOINT in Node.js., XLTX files to POWERPOINT Conversion in Node.js., Leverage intelligent data processing to automatically parse and save XLTX into POWERPOINT format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -28,7 +28,7 @@ Follow the easy steps to convert XLTX to POWERPOINT. Upload your XLTX file, then
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert XLTX to POWERPOINT" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xltx" outformat="pptx" IsLandingPage="true" language="nodejscpp" %}}
+{{% cells-convert title="Sample Code to Convert XLTX to POWERPOINT" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="xltx" outformat="pptx" IsLandingPage="true" language="nodejscpp" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert XLTX to POWERPOINT via Node.js" %}}
 

@@ -1,7 +1,7 @@
 ---
 title: Node.js SXC to XLTM - SXC to XLTM Converter
-description: Aspose Excel. Convert SXC to XLTM quickly and easily with Aspose.Cells. Node.js SXC to XLTM. Node.js Save SXC to XLTM. Save SXC as XLTM using Node.js.
-keywords: [Aspose Excel., Node.js Aspose.Cells., Convert SXC to XLTM in Node.js., Save SXC to XLTM using Node.js., Node.js SXC to XLTM saveformat., SXC to XLTM Converter., Node.js Save SXC as XLTM]
+description: Aspose Excel. This comprehensive solution provides Node.js developers with a fully integrated approach to convert SXC to XLTM format, enabling seamless saving of SXC data into XLTM format using the Aspose.Cells library, all through efficient and customizable Node.js code.
+keywords: [Aspose Excel., Node.js Aspose.Cells., Smart SXC files to XLTM Converter for Node.js., Convert SXC to XLTM in Node.js., SXC files to XLTM Conversion in Node.js., Leverage intelligent data processing to automatically parse and save SXC into XLTM format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -28,7 +28,7 @@ Follow the easy steps to convert SXC to XLTM. Upload your SXC file, then simply 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert SXC to XLTM" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="sxc" outformat="xltm" IsLandingPage="true" language="nodejscpp" %}}
+{{% cells-convert title="Sample Code to Convert SXC to XLTM" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="sxc" outformat="xltm" IsLandingPage="true" language="nodejscpp" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert SXC to XLTM via Node.js" %}}
 

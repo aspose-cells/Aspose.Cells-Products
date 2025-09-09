@@ -1,7 +1,7 @@
 ---
 title: PHP OTS to TSV - OTS to TSV Converter
-description: Aspose Excel. Convert OTS to TSV quickly and easily with Aspose.Cells. PHP OTS to TSV. PHP Save OTS to TSV. Save OTS as TSV using PHP.
-keywords: [Aspose Excel., PHP Aspose.Cells., Convert OTS to TSV in PHP., Save OTS to TSV using PHP., PHP OTS to TSV saveformat., OTS to TSV Converter., PHP Save OTS as TSV]
+description: Aspose Excel. This comprehensive solution provides PHP developers with a fully integrated approach to convert OTS to TSV format, enabling seamless saving of OTS data into TSV format using the Aspose.Cells library, all through efficient and customizable PHP code.
+keywords: [Aspose Excel., PHP Aspose.Cells., Smart OTS files to TSV Converter for PHP., Convert OTS to TSV in PHP., OTS files to TSV Conversion in PHP., Leverage intelligent data processing to automatically parse and save OTS into TSV format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -28,7 +28,7 @@ Follow the easy steps to convert OTS to TSV. Upload your OTS file, then simply s
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert OTS to TSV" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="ots" outformat="tsv" IsLandingPage="true" language="phpjava" %}}
+{{% cells-convert title="Sample Code to Convert OTS to TSV" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="ots" outformat="tsv" IsLandingPage="true" language="phpjava" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert OTS to TSV via PHP" %}}
 

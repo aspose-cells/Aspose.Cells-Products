@@ -1,7 +1,7 @@
 ---
 title: C# IMAGE to GIF - IMAGE to GIF Converter
-description: Aspose Excel. Convert IMAGE to GIF quickly and easily with Aspose.Cells. C# IMAGE to GIF. C# Save IMAGE to GIF. Save IMAGE as GIF using C#.
-keywords: [Aspose Excel., C# Aspose.Cells., Convert IMAGE to GIF in C#., Save IMAGE to GIF using C#., C# IMAGE to GIF saveformat., IMAGE to GIF Converter., C# Save IMAGE as GIF]
+description: Aspose Excel. This comprehensive solution provides C# developers with a fully integrated approach to convert IMAGE to GIF format, enabling seamless saving of IMAGE data into GIF format using the Aspose.Cells library, all through efficient and customizable C# code.
+keywords: [Aspose Excel., C# Aspose.Cells., Smart IMAGE files to GIF Converter for C#., Convert IMAGE to GIF in C#., IMAGE files to GIF Conversion in C#., Leverage intelligent data processing to automatically parse and save IMAGE into GIF format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -36,7 +36,7 @@ Follow the easy steps to convert IMAGE to GIF. Upload your IMAGE file, then simp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert IMAGE to GIF" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="png" outformat="gif" IsLandingPage="true" %}}
+{{% cells-convert title="Sample Code to Convert IMAGE to GIF" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="png" outformat="gif" IsLandingPage="true" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert IMAGE to GIF via C#" %}}
 

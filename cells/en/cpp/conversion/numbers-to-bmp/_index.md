@@ -1,7 +1,7 @@
 ---
 title: C++ NUMBERS to BMP - NUMBERS to BMP Converter
-description: Aspose Excel. Convert NUMBERS to BMP quickly and easily with Aspose.Cells. C++ NUMBERS to BMP. C++ Save NUMBERS to BMP. Save NUMBERS as BMP using C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., Convert NUMBERS to BMP in C++., Save NUMBERS to BMP using C++., C++ NUMBERS to BMP saveformat., NUMBERS to BMP Converter., C++ Save NUMBERS as BMP]
+description: Aspose Excel. This comprehensive solution provides C++ developers with a fully integrated approach to convert NUMBERS to BMP format, enabling seamless saving of NUMBERS data into BMP format using the Aspose.Cells library, all through efficient and customizable C++ code.
+keywords: [Aspose Excel., C++ Aspose.Cells., Smart NUMBERS files to BMP Converter for C++., Convert NUMBERS to BMP in C++., NUMBERS files to BMP Conversion in C++., Leverage intelligent data processing to automatically parse and save NUMBERS into BMP format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -38,7 +38,7 @@ Follow the easy steps to convert NUMBERS to BMP. Upload your NUMBERS file, then 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert NUMBERS to BMP" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="numbers" outformat="bmp" IsLandingPage="true" language="cpp" %}}
+{{% cells-convert title="Sample Code to Convert NUMBERS to BMP" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="numbers" outformat="bmp" IsLandingPage="true" language="cpp" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert NUMBERS to BMP via C++" %}}
 
@@ -102,6 +102,7 @@ There are three options to install "Aspose.Cells for C++" onto your system. Plea
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/numbers-to-pdf/" name="NUMBERS TO PDF" description="Portable Document Format" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/numbers-to-png/" name="NUMBERS TO PNG" description="Portable Network Graphics" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/numbers-to-svg/" name="NUMBERS TO SVG" description="Scalable Vector Graphics" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/numbers-to-tiff/" name="NUMBERS TO TIFF" description="Tagged Image Format" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/numbers-to-tsv/" name="NUMBERS TO TSV" description="Tab-Separated Values" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/numbers-to-txt/" name="NUMBERS TO TXT" description="Text Document" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/numbers-to-xls/" name="NUMBERS TO XLS" description="Excel Binary Format" >}}

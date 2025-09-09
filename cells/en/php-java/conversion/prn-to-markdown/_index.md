@@ -1,7 +1,7 @@
 ---
 title: PHP PRN to MARKDOWN - PRN to MARKDOWN Converter
-description: Aspose Excel. Convert PRN to MARKDOWN quickly and easily with Aspose.Cells. PHP PRN to MARKDOWN. PHP Save PRN to MARKDOWN. Save PRN as MARKDOWN using PHP.
-keywords: [Aspose Excel., PHP Aspose.Cells., Convert PRN to MARKDOWN in PHP., Save PRN to MARKDOWN using PHP., PHP PRN to MARKDOWN saveformat., PRN to MARKDOWN Converter., PHP Save PRN as MARKDOWN]
+description: Aspose Excel. This comprehensive solution provides PHP developers with a fully integrated approach to convert PRN to MARKDOWN format, enabling seamless saving of PRN data into MARKDOWN format using the Aspose.Cells library, all through efficient and customizable PHP code.
+keywords: [Aspose Excel., PHP Aspose.Cells., Smart PRN files to MARKDOWN Converter for PHP., Convert PRN to MARKDOWN in PHP., PRN files to MARKDOWN Conversion in PHP., Leverage intelligent data processing to automatically parse and save PRN into MARKDOWN format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -28,7 +28,7 @@ Follow the easy steps to convert PRN to MARKDOWN. Upload your PRN file, then sim
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert PRN to MARKDOWN" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="prn" outformat="md" IsLandingPage="true" language="phpjava" %}}
+{{% cells-convert title="Sample Code to Convert PRN to MARKDOWN" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="prn" outformat="md" IsLandingPage="true" language="phpjava" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert PRN to MARKDOWN via PHP" %}}
 

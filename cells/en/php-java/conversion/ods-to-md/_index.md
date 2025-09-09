@@ -1,7 +1,7 @@
 ---
 title: PHP ODS to MD - ODS to MD Converter
-description: Aspose Excel. Convert ODS to MD quickly and easily with Aspose.Cells. PHP ODS to MD. PHP Save ODS to MD. Save ODS as MD using PHP.
-keywords: [Aspose Excel., PHP Aspose.Cells., Convert ODS to MD in PHP., Save ODS to MD using PHP., PHP ODS to MD saveformat., ODS to MD Converter., PHP Save ODS as MD]
+description: Aspose Excel. This comprehensive solution provides PHP developers with a fully integrated approach to convert ODS to MD format, enabling seamless saving of ODS data into MD format using the Aspose.Cells library, all through efficient and customizable PHP code.
+keywords: [Aspose Excel., PHP Aspose.Cells., Smart ODS files to MD Converter for PHP., Convert ODS to MD in PHP., ODS files to MD Conversion in PHP., Leverage intelligent data processing to automatically parse and save ODS into MD format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -28,7 +28,7 @@ Follow the easy steps to convert ODS to MD. Upload your ODS file, then simply sa
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert ODS to MD" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="ods" outformat="md" IsLandingPage="true" language="phpjava" %}}
+{{% cells-convert title="Sample Code to Convert ODS to MD" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="ods" outformat="md" IsLandingPage="true" language="phpjava" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert ODS to MD via PHP" %}}
 

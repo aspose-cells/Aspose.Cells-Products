@@ -1,7 +1,7 @@
 ---
 title: C++ TABDELIMITED to JPEG - TABDELIMITED to JPEG Converter
-description: Aspose Excel. Convert TABDELIMITED to JPEG quickly and easily with Aspose.Cells. C++ TABDELIMITED to JPEG. C++ Save TABDELIMITED to JPEG. Save TABDELIMITED as JPEG using C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., Convert TABDELIMITED to JPEG in C++., Save TABDELIMITED to JPEG using C++., C++ TABDELIMITED to JPEG saveformat., TABDELIMITED to JPEG Converter., C++ Save TABDELIMITED as JPEG]
+description: Aspose Excel. This comprehensive solution provides C++ developers with a fully integrated approach to convert TABDELIMITED to JPEG format, enabling seamless saving of TABDELIMITED data into JPEG format using the Aspose.Cells library, all through efficient and customizable C++ code.
+keywords: [Aspose Excel., C++ Aspose.Cells., Smart TABDELIMITED files to JPEG Converter for C++., Convert TABDELIMITED to JPEG in C++., TABDELIMITED files to JPEG Conversion in C++., Leverage intelligent data processing to automatically parse and save TABDELIMITED into JPEG format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -38,7 +38,7 @@ Follow the easy steps to convert TABDELIMITED to JPEG. Upload your TABDELIMITED 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert TABDELIMITED to JPEG" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="tsv" outformat="jpg" IsLandingPage="true" language="cpp" %}}
+{{% cells-convert title="Sample Code to Convert TABDELIMITED to JPEG" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="tsv" outformat="jpg" IsLandingPage="true" language="cpp" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert TABDELIMITED to JPEG via C++" %}}
 
@@ -102,6 +102,7 @@ There are three options to install "Aspose.Cells for C++" onto your system. Plea
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/tabdelimited-to-pdf/" name="TABDELIMITED TO PDF" description="Portable Document Format" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/tabdelimited-to-png/" name="TABDELIMITED TO PNG" description="Portable Network Graphics" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/tabdelimited-to-svg/" name="TABDELIMITED TO SVG" description="Scalable Vector Graphics" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/tabdelimited-to-tiff/" name="TABDELIMITED TO TIFF" description="Tagged Image Format" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/tabdelimited-to-tsv/" name="TABDELIMITED TO TSV" description="Tab-Separated Values" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/tabdelimited-to-txt/" name="TABDELIMITED TO TXT" description="Text Document" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/tabdelimited-to-xls/" name="TABDELIMITED TO XLS" description="Excel Binary Format" >}}

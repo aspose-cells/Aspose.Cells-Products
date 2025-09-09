@@ -1,7 +1,7 @@
 ---
 title: Python XLSX to MARKDOWN - XLSX to MARKDOWN Converter
-description: Aspose Excel. Python Excel. Convert XLSX to MARKDOWN quickly and easily with Aspose.Cells. Python XLSX to MARKDOWN. Python Save XLSX to MARKDOWN. Save XLSX as MARKDOWN using Python Excel Library.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert XLSX to MARKDOWN in Python Excel Library., Save XLSX to MARKDOWN using Python Excel Library., Python XLSX to MARKDOWN saveformat., XLSX to MARKDOWN Converter., Python Save XLSX as MARKDOWN]
+description: Aspose Excel. This comprehensive solution provides Python developers with a fully integrated approach to convert XLSX to MARKDOWN format, enabling seamless saving of XLSX data into MARKDOWN format using the Aspose.Cells library, all through efficient and customizable Python code.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart XLSX files to MARKDOWN Converter for Python., Convert XLSX to MARKDOWN in Python., XLSX files to MARKDOWN Conversion in Python., Leverage intelligent data processing to automatically parse and save XLSX into MARKDOWN format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -28,7 +28,7 @@ Follow the easy steps to convert XLSX to MARKDOWN. Upload your XLSX file, then s
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert XLSX to MARKDOWN via Python Excel Library" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsx" outformat="md" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="Sample Code to Convert XLSX to MARKDOWN via Python Excel Library" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="xlsx" outformat="md" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert XLSX to MARKDOWN via Python" %}}
 

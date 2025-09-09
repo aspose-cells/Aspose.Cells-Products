@@ -1,7 +1,7 @@
 ---
 title: Python HTML to SXC - HTML to SXC Converter
-description: Aspose Excel. Python Excel. Convert HTML to SXC quickly and easily with Aspose.Cells. Python HTML to SXC. Python Save HTML to SXC. Save HTML as SXC using Python Excel Library.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert HTML to SXC in Python Excel Library., Save HTML to SXC using Python Excel Library., Python HTML to SXC saveformat., HTML to SXC Converter., Python Save HTML as SXC]
+description: Aspose Excel. This comprehensive solution provides Python developers with a fully integrated approach to convert HTML to SXC format, enabling seamless saving of HTML data into SXC format using the Aspose.Cells library, all through efficient and customizable Python code.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart HTML files to SXC Converter for Python., Convert HTML to SXC in Python., HTML files to SXC Conversion in Python., Leverage intelligent data processing to automatically parse and save HTML into SXC format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -29,7 +29,7 @@ Follow the easy steps to convert HTML to SXC. Upload your HTML file, then simply
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert HTML to SXC via Python Excel Library" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="html" outformat="sxc" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Sample Code to Convert HTML to SXC via Python Excel Library" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="html" outformat="sxc" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert HTML to SXC" %}}
 

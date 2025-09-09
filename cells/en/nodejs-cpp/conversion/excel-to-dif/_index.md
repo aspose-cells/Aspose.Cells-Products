@@ -1,7 +1,7 @@
 ---
 title: Node.js EXCEL to DIF - EXCEL to DIF Converter
-description: Aspose Excel. Convert EXCEL to DIF quickly and easily with Aspose.Cells. Node.js EXCEL to DIF. Node.js Save EXCEL to DIF. Save EXCEL as DIF using Node.js.
-keywords: [Aspose Excel., Node.js Aspose.Cells., Convert EXCEL to DIF in Node.js., Save EXCEL to DIF using Node.js., Node.js EXCEL to DIF saveformat., EXCEL to DIF Converter., Node.js Save EXCEL as DIF]
+description: Aspose Excel. This comprehensive solution provides Node.js developers with a fully integrated approach to convert EXCEL to DIF format, enabling seamless saving of EXCEL data into DIF format using the Aspose.Cells library, all through efficient and customizable Node.js code.
+keywords: [Aspose Excel., Node.js Aspose.Cells., Smart EXCEL files to DIF Converter for Node.js., Convert EXCEL to DIF in Node.js., EXCEL files to DIF Conversion in Node.js., Leverage intelligent data processing to automatically parse and save EXCEL into DIF format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -28,7 +28,7 @@ Follow the easy steps to convert EXCEL to DIF. Upload your EXCEL file, then simp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert EXCEL to DIF" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsx" outformat="dif" IsLandingPage="true" language="nodejscpp" %}}
+{{% cells-convert title="Sample Code to Convert EXCEL to DIF" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="xlsx" outformat="dif" IsLandingPage="true" language="nodejscpp" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert EXCEL to DIF via Node.js" %}}
 

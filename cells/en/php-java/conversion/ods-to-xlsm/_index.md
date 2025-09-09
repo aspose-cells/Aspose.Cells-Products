@@ -1,7 +1,7 @@
 ---
 title: PHP ODS to XLSM - ODS to XLSM Converter
-description: Aspose Excel. Convert ODS to XLSM quickly and easily with Aspose.Cells. PHP ODS to XLSM. PHP Save ODS to XLSM. Save ODS as XLSM using PHP.
-keywords: [Aspose Excel., PHP Aspose.Cells., Convert ODS to XLSM in PHP., Save ODS to XLSM using PHP., PHP ODS to XLSM saveformat., ODS to XLSM Converter., PHP Save ODS as XLSM]
+description: Aspose Excel. This comprehensive solution provides PHP developers with a fully integrated approach to convert ODS to XLSM format, enabling seamless saving of ODS data into XLSM format using the Aspose.Cells library, all through efficient and customizable PHP code.
+keywords: [Aspose Excel., PHP Aspose.Cells., Smart ODS files to XLSM Converter for PHP., Convert ODS to XLSM in PHP., ODS files to XLSM Conversion in PHP., Leverage intelligent data processing to automatically parse and save ODS into XLSM format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -28,7 +28,7 @@ Follow the easy steps to convert ODS to XLSM. Upload your ODS file, then simply 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert ODS to XLSM" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="ods" outformat="xlsm" IsLandingPage="true" language="phpjava" %}}
+{{% cells-convert title="Sample Code to Convert ODS to XLSM" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="ods" outformat="xlsm" IsLandingPage="true" language="phpjava" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert ODS to XLSM via PHP" %}}
 

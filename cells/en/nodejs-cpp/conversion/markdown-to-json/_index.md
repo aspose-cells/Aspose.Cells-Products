@@ -1,7 +1,7 @@
 ---
 title: Node.js MARKDOWN to JSON - MARKDOWN to JSON Converter
-description: Aspose Excel. Convert MARKDOWN to JSON quickly and easily with Aspose.Cells. Node.js MARKDOWN to JSON. Node.js Save MARKDOWN to JSON. Save MARKDOWN as JSON using Node.js.
-keywords: [Aspose Excel., Node.js Aspose.Cells., Convert MARKDOWN to JSON in Node.js., Save MARKDOWN to JSON using Node.js., Node.js MARKDOWN to JSON saveformat., MARKDOWN to JSON Converter., Node.js Save MARKDOWN as JSON]
+description: Aspose Excel. This comprehensive solution provides Node.js developers with a fully integrated approach to convert MARKDOWN to JSON format, enabling seamless saving of MARKDOWN data into JSON format using the Aspose.Cells library, all through efficient and customizable Node.js code.
+keywords: [Aspose Excel., Node.js Aspose.Cells., Smart MARKDOWN files to JSON Converter for Node.js., Convert MARKDOWN to JSON in Node.js., MARKDOWN files to JSON Conversion in Node.js., Leverage intelligent data processing to automatically parse and save MARKDOWN into JSON format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -28,7 +28,7 @@ Follow the easy steps to convert MARKDOWN to JSON. Upload your MARKDOWN file, th
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert MARKDOWN to JSON" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="md" outformat="json" IsLandingPage="true" language="nodejscpp" %}}
+{{% cells-convert title="Sample Code to Convert MARKDOWN to JSON" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="md" outformat="json" IsLandingPage="true" language="nodejscpp" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert MARKDOWN to JSON via Node.js" %}}
 

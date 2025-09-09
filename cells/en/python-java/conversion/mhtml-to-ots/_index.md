@@ -1,7 +1,7 @@
 ---
 title: Python MHTML to OTS - MHTML to OTS Converter
-description: Aspose Excel. Python Excel. Convert MHTML to OTS quickly and easily with Aspose.Cells. Python MHTML to OTS. Python Save MHTML to OTS. Save MHTML as OTS using Python Excel Library.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert MHTML to OTS in Python Excel Library., Save MHTML to OTS using Python Excel Library., Python MHTML to OTS saveformat., MHTML to OTS Converter., Python Save MHTML as OTS]
+description: Aspose Excel. This comprehensive solution provides Python developers with a fully integrated approach to convert MHTML to OTS format, enabling seamless saving of MHTML data into OTS format using the Aspose.Cells library, all through efficient and customizable Python code.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart MHTML files to OTS Converter for Python., Convert MHTML to OTS in Python., MHTML files to OTS Conversion in Python., Leverage intelligent data processing to automatically parse and save MHTML into OTS format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -28,7 +28,7 @@ Follow the easy steps to convert MHTML to OTS. Upload your MHTML file, then simp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert MHTML to OTS via Python Excel Library" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="mhtml" outformat="ots" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="Sample Code to Convert MHTML to OTS via Python Excel Library" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="mhtml" outformat="ots" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert MHTML to OTS via Python" %}}
 

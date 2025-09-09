@@ -1,7 +1,7 @@
 ---
 title: Node.js JPG to MD - JPG to MD Converter
-description: Aspose Excel. Convert JPG to MD quickly and easily with Aspose.Cells. Node.js JPG to MD. Node.js Save JPG to MD. Save JPG as MD using Node.js.
-keywords: [Aspose Excel., Node.js Aspose.Cells., Convert JPG to MD in Node.js., Save JPG to MD using Node.js., Node.js JPG to MD saveformat., JPG to MD Converter., Node.js Save JPG as MD]
+description: Aspose Excel. This comprehensive solution provides Node.js developers with a fully integrated approach to convert JPG to MD format, enabling seamless saving of JPG data into MD format using the Aspose.Cells library, all through efficient and customizable Node.js code.
+keywords: [Aspose Excel., Node.js Aspose.Cells., Smart JPG files to MD Converter for Node.js., Convert JPG to MD in Node.js., JPG files to MD Conversion in Node.js., Leverage intelligent data processing to automatically parse and save JPG into MD format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -28,7 +28,7 @@ Follow the easy steps to convert JPG to MD. Upload your JPG file, then simply sa
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert JPG to MD" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="jpg" outformat="md" IsLandingPage="true" language="nodejscpp" %}}
+{{% cells-convert title="Sample Code to Convert JPG to MD" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="jpg" outformat="md" IsLandingPage="true" language="nodejscpp" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert JPG to MD via Node.js" %}}
 

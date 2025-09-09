@@ -1,7 +1,7 @@
 ---
 title: PHP XLTM to XML - XLTM to XML Converter
-description: Aspose Excel. Convert XLTM to XML quickly and easily with Aspose.Cells. PHP XLTM to XML. PHP Save XLTM to XML. Save XLTM as XML using PHP.
-keywords: [Aspose Excel., PHP Aspose.Cells., Convert XLTM to XML in PHP., Save XLTM to XML using PHP., PHP XLTM to XML saveformat., XLTM to XML Converter., PHP Save XLTM as XML]
+description: Aspose Excel. This comprehensive solution provides PHP developers with a fully integrated approach to convert XLTM to XML format, enabling seamless saving of XLTM data into XML format using the Aspose.Cells library, all through efficient and customizable PHP code.
+keywords: [Aspose Excel., PHP Aspose.Cells., Smart XLTM files to XML Converter for PHP., Convert XLTM to XML in PHP., XLTM files to XML Conversion in PHP., Leverage intelligent data processing to automatically parse and save XLTM into XML format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -28,7 +28,7 @@ Follow the easy steps to convert XLTM to XML. Upload your XLTM file, then simply
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert XLTM to XML" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xltm" outformat="xml" IsLandingPage="true" language="phpjava" %}}
+{{% cells-convert title="Sample Code to Convert XLTM to XML" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="xltm" outformat="xml" IsLandingPage="true" language="phpjava" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert XLTM to XML via PHP" %}}
 

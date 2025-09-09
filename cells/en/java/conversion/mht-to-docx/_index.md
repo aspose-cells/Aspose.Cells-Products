@@ -1,7 +1,7 @@
 ---
 title: Java MHT to DOCX - MHT to DOCX Converter
-description: Aspose Excel. Convert MHT to DOCX quickly and easily with Aspose.Cells. Java MHT to DOCX. Java Save MHT to DOCX. Save MHT as DOCX using Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Convert MHT to DOCX in Java., Save MHT to DOCX using Java., Java MHT to DOCX saveformat., MHT to DOCX Converter., Java Save MHT as DOCX]
+description: Aspose Excel. This comprehensive solution provides Java developers with a fully integrated approach to convert MHT to DOCX format, enabling seamless saving of MHT data into DOCX format using the Aspose.Cells library, all through efficient and customizable Java code.
+keywords: [Aspose Excel., Java Aspose.Cells., Smart MHT files to DOCX Converter for Java., Convert MHT to DOCX in Java., MHT files to DOCX Conversion in Java., Leverage intelligent data processing to automatically parse and save MHT into DOCX format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -57,7 +57,7 @@ Follow the easy steps to convert MHT to DOCX. Upload your MHT file, then simply 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert MHT to DOCX" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="mht" outformat="docx" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Sample Code to Convert MHT to DOCX" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="mht" outformat="docx" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert MHT to DOCX via Java" %}}
 

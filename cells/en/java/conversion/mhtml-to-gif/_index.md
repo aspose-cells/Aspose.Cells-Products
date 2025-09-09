@@ -1,7 +1,7 @@
 ---
 title: Java MHTML to GIF - MHTML to GIF Converter
-description: Aspose Excel. Convert MHTML to GIF quickly and easily with Aspose.Cells. Java MHTML to GIF. Java Save MHTML to GIF. Save MHTML as GIF using Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Convert MHTML to GIF in Java., Save MHTML to GIF using Java., Java MHTML to GIF saveformat., MHTML to GIF Converter., Java Save MHTML as GIF]
+description: Aspose Excel. This comprehensive solution provides Java developers with a fully integrated approach to convert MHTML to GIF format, enabling seamless saving of MHTML data into GIF format using the Aspose.Cells library, all through efficient and customizable Java code.
+keywords: [Aspose Excel., Java Aspose.Cells., Smart MHTML files to GIF Converter for Java., Convert MHTML to GIF in Java., MHTML files to GIF Conversion in Java., Leverage intelligent data processing to automatically parse and save MHTML into GIF format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -57,7 +57,7 @@ Follow the easy steps to convert MHTML to GIF. Upload your MHTML file, then simp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert MHTML to GIF" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="mhtml" outformat="gif" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Sample Code to Convert MHTML to GIF" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="mhtml" outformat="gif" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert MHTML to GIF via Java" %}}
 

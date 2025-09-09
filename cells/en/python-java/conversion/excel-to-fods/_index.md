@@ -1,7 +1,7 @@
 ---
 title: Python EXCEL to FODS - EXCEL to FODS Converter
-description: Aspose Excel. Python Excel. Convert EXCEL to FODS quickly and easily with Aspose.Cells. Python EXCEL to FODS. Python Save EXCEL to FODS. Save EXCEL as FODS using Python Excel Library.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert EXCEL to FODS in Python Excel Library., Save EXCEL to FODS using Python Excel Library., Python EXCEL to FODS saveformat., EXCEL to FODS Converter., Python Save EXCEL as FODS]
+description: Aspose Excel. This comprehensive solution provides Python developers with a fully integrated approach to convert EXCEL to FODS format, enabling seamless saving of EXCEL data into FODS format using the Aspose.Cells library, all through efficient and customizable Python code.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart EXCEL files to FODS Converter for Python., Convert EXCEL to FODS in Python., EXCEL files to FODS Conversion in Python., Leverage intelligent data processing to automatically parse and save EXCEL into FODS format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -28,7 +28,7 @@ Follow the easy steps to convert EXCEL to FODS. Upload your EXCEL file, then sim
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert EXCEL to FODS via Python Excel Library" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsx" outformat="fods" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="Sample Code to Convert EXCEL to FODS via Python Excel Library" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="xlsx" outformat="fods" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert EXCEL to FODS via Python" %}}
 

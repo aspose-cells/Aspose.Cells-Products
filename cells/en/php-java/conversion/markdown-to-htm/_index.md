@@ -1,7 +1,7 @@
 ---
 title: PHP MARKDOWN to HTM - MARKDOWN to HTM Converter
-description: Aspose Excel. Convert MARKDOWN to HTM quickly and easily with Aspose.Cells. PHP MARKDOWN to HTM. PHP Save MARKDOWN to HTM. Save MARKDOWN as HTM using PHP.
-keywords: [Aspose Excel., PHP Aspose.Cells., Convert MARKDOWN to HTM in PHP., Save MARKDOWN to HTM using PHP., PHP MARKDOWN to HTM saveformat., MARKDOWN to HTM Converter., PHP Save MARKDOWN as HTM]
+description: Aspose Excel. This comprehensive solution provides PHP developers with a fully integrated approach to convert MARKDOWN to HTM format, enabling seamless saving of MARKDOWN data into HTM format using the Aspose.Cells library, all through efficient and customizable PHP code.
+keywords: [Aspose Excel., PHP Aspose.Cells., Smart MARKDOWN files to HTM Converter for PHP., Convert MARKDOWN to HTM in PHP., MARKDOWN files to HTM Conversion in PHP., Leverage intelligent data processing to automatically parse and save MARKDOWN into HTM format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -28,7 +28,7 @@ Follow the easy steps to convert MARKDOWN to HTM. Upload your MARKDOWN file, the
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert MARKDOWN to HTM" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="md" outformat="htm" IsLandingPage="true" language="phpjava" %}}
+{{% cells-convert title="Sample Code to Convert MARKDOWN to HTM" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="md" outformat="htm" IsLandingPage="true" language="phpjava" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert MARKDOWN to HTM via PHP" %}}
 

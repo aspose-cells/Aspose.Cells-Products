@@ -1,7 +1,7 @@
 ---
 title: C++ DBF to ET - DBF to ET Converter
-description: Aspose Excel. Convert DBF to ET quickly and easily with Aspose.Cells. C++ DBF to ET. C++ Save DBF to ET. Save DBF as ET using C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., Convert DBF to ET in C++., Save DBF to ET using C++., C++ DBF to ET saveformat., DBF to ET Converter., C++ Save DBF as ET]
+description: Aspose Excel. This comprehensive solution provides C++ developers with a fully integrated approach to convert DBF to ET format, enabling seamless saving of DBF data into ET format using the Aspose.Cells library, all through efficient and customizable C++ code.
+keywords: [Aspose Excel., C++ Aspose.Cells., Smart DBF files to ET Converter for C++., Convert DBF to ET in C++., DBF files to ET Conversion in C++., Leverage intelligent data processing to automatically parse and save DBF into ET format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -38,7 +38,7 @@ Follow the easy steps to convert DBF to ET. Upload your DBF file, then simply sa
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert DBF to ET" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="dbf" outformat="et" IsLandingPage="true" language="cpp" %}}
+{{% cells-convert title="Sample Code to Convert DBF to ET" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="dbf" outformat="et" IsLandingPage="true" language="cpp" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert DBF to ET via C++" %}}
 

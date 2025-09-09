@@ -1,7 +1,7 @@
 ---
 title: Node.js HTML to JPG - HTML to JPG Converter
-description: Aspose Excel. Convert HTML to JPG quickly and easily with Aspose.Cells. Node.js HTML to JPG. Node.js Save HTML to JPG. Save HTML as JPG using Node.js.
-keywords: [Aspose Excel., Node.js Aspose.Cells., Convert HTML to JPG in Node.js., Save HTML to JPG using Node.js., Node.js HTML to JPG saveformat., HTML to JPG Converter., Node.js Save HTML as JPG]
+description: Aspose Excel. This comprehensive solution provides Node.js developers with a fully integrated approach to convert HTML to JPG format, enabling seamless saving of HTML data into JPG format using the Aspose.Cells library, all through efficient and customizable Node.js code.
+keywords: [Aspose Excel., Node.js Aspose.Cells., Smart HTML files to JPG Converter for Node.js., Convert HTML to JPG in Node.js., HTML files to JPG Conversion in Node.js., Leverage intelligent data processing to automatically parse and save HTML into JPG format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -28,7 +28,7 @@ Follow the easy steps to convert HTML to JPG. Upload your HTML file, then simply
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert HTML to JPG" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="html" outformat="jpg" IsLandingPage="true" language="nodejscpp" %}}
+{{% cells-convert title="Sample Code to Convert HTML to JPG" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="html" outformat="jpg" IsLandingPage="true" language="nodejscpp" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert HTML to JPG via Node.js" %}}
 

@@ -1,7 +1,7 @@
 ---
 title: C# TABDELIMITED to FODS - TABDELIMITED to FODS Converter
-description: Aspose Excel. Convert TABDELIMITED to FODS quickly and easily with Aspose.Cells. C# TABDELIMITED to FODS. C# Save TABDELIMITED to FODS. Save TABDELIMITED as FODS using C#.
-keywords: [Aspose Excel., C# Aspose.Cells., Convert TABDELIMITED to FODS in C#., Save TABDELIMITED to FODS using C#., C# TABDELIMITED to FODS saveformat., TABDELIMITED to FODS Converter., C# Save TABDELIMITED as FODS]
+description: Aspose Excel. This comprehensive solution provides C# developers with a fully integrated approach to convert TABDELIMITED to FODS format, enabling seamless saving of TABDELIMITED data into FODS format using the Aspose.Cells library, all through efficient and customizable C# code.
+keywords: [Aspose Excel., C# Aspose.Cells., Smart TABDELIMITED files to FODS Converter for C#., Convert TABDELIMITED to FODS in C#., TABDELIMITED files to FODS Conversion in C#., Leverage intelligent data processing to automatically parse and save TABDELIMITED into FODS format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -36,7 +36,7 @@ Follow the easy steps to convert TABDELIMITED to FODS. Upload your TABDELIMITED 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert TABDELIMITED to FODS" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="tsv" outformat="fods" IsLandingPage="true" %}}
+{{% cells-convert title="Sample Code to Convert TABDELIMITED to FODS" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="tsv" outformat="fods" IsLandingPage="true" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert TABDELIMITED to FODS via C#" %}}
 

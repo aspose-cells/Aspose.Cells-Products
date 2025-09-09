@@ -1,7 +1,7 @@
 ---
 title: Node.js MHTML to SPREADSHEETML - MHTML to SPREADSHEETML Converter
-description: Aspose Excel. Convert MHTML to SPREADSHEETML quickly and easily with Aspose.Cells. Node.js MHTML to SPREADSHEETML. Node.js Save MHTML to SPREADSHEETML. Save MHTML as SPREADSHEETML using Node.js.
-keywords: [Aspose Excel., Node.js Aspose.Cells., Convert MHTML to SPREADSHEETML in Node.js., Save MHTML to SPREADSHEETML using Node.js., Node.js MHTML to SPREADSHEETML saveformat., MHTML to SPREADSHEETML Converter., Node.js Save MHTML as SPREADSHEETML]
+description: Aspose Excel. This comprehensive solution provides Node.js developers with a fully integrated approach to convert MHTML to SPREADSHEETML format, enabling seamless saving of MHTML data into SPREADSHEETML format using the Aspose.Cells library, all through efficient and customizable Node.js code.
+keywords: [Aspose Excel., Node.js Aspose.Cells., Smart MHTML files to SPREADSHEETML Converter for Node.js., Convert MHTML to SPREADSHEETML in Node.js., MHTML files to SPREADSHEETML Conversion in Node.js., Leverage intelligent data processing to automatically parse and save MHTML into SPREADSHEETML format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -28,7 +28,7 @@ Follow the easy steps to convert MHTML to SPREADSHEETML. Upload your MHTML file,
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert MHTML to SPREADSHEETML" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="mhtml" outformat="xml" IsLandingPage="true" language="nodejscpp" %}}
+{{% cells-convert title="Sample Code to Convert MHTML to SPREADSHEETML" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="mhtml" outformat="xml" IsLandingPage="true" language="nodejscpp" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert MHTML to SPREADSHEETML via Node.js" %}}
 

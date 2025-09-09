@@ -1,7 +1,7 @@
 ---
 title: PHP NUMBERS to TSV - NUMBERS to TSV Converter
-description: Aspose Excel. Convert NUMBERS to TSV quickly and easily with Aspose.Cells. PHP NUMBERS to TSV. PHP Save NUMBERS to TSV. Save NUMBERS as TSV using PHP.
-keywords: [Aspose Excel., PHP Aspose.Cells., Convert NUMBERS to TSV in PHP., Save NUMBERS to TSV using PHP., PHP NUMBERS to TSV saveformat., NUMBERS to TSV Converter., PHP Save NUMBERS as TSV]
+description: Aspose Excel. This comprehensive solution provides PHP developers with a fully integrated approach to convert NUMBERS to TSV format, enabling seamless saving of NUMBERS data into TSV format using the Aspose.Cells library, all through efficient and customizable PHP code.
+keywords: [Aspose Excel., PHP Aspose.Cells., Smart NUMBERS files to TSV Converter for PHP., Convert NUMBERS to TSV in PHP., NUMBERS files to TSV Conversion in PHP., Leverage intelligent data processing to automatically parse and save NUMBERS into TSV format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -28,7 +28,7 @@ Follow the easy steps to convert NUMBERS to TSV. Upload your NUMBERS file, then 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert NUMBERS to TSV" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="numbers" outformat="tsv" IsLandingPage="true" language="phpjava" %}}
+{{% cells-convert title="Sample Code to Convert NUMBERS to TSV" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="numbers" outformat="tsv" IsLandingPage="true" language="phpjava" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert NUMBERS to TSV via PHP" %}}
 

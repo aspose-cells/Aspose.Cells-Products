@@ -1,7 +1,7 @@
 ---
 title: Java PNG to FODS - PNG to FODS Converter
-description: Aspose Excel. Convert PNG to FODS quickly and easily with Aspose.Cells. Java PNG to FODS. Java Save PNG to FODS. Save PNG as FODS using Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Convert PNG to FODS in Java., Save PNG to FODS using Java., Java PNG to FODS saveformat., PNG to FODS Converter., Java Save PNG as FODS]
+description: Aspose Excel. This comprehensive solution provides Java developers with a fully integrated approach to convert PNG to FODS format, enabling seamless saving of PNG data into FODS format using the Aspose.Cells library, all through efficient and customizable Java code.
+keywords: [Aspose Excel., Java Aspose.Cells., Smart PNG files to FODS Converter for Java., Convert PNG to FODS in Java., PNG files to FODS Conversion in Java., Leverage intelligent data processing to automatically parse and save PNG into FODS format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -57,7 +57,7 @@ Follow the easy steps to convert PNG to FODS. Upload your PNG file, then simply 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert PNG to FODS" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="png" outformat="fods" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Sample Code to Convert PNG to FODS" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="png" outformat="fods" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert PNG to FODS via Java" %}}
 

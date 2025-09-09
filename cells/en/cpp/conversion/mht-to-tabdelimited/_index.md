@@ -1,7 +1,7 @@
 ---
 title: C++ MHT to TABDELIMITED - MHT to TABDELIMITED Converter
-description: Aspose Excel. Convert MHT to TABDELIMITED quickly and easily with Aspose.Cells. C++ MHT to TABDELIMITED. C++ Save MHT to TABDELIMITED. Save MHT as TABDELIMITED using C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., Convert MHT to TABDELIMITED in C++., Save MHT to TABDELIMITED using C++., C++ MHT to TABDELIMITED saveformat., MHT to TABDELIMITED Converter., C++ Save MHT as TABDELIMITED]
+description: Aspose Excel. This comprehensive solution provides C++ developers with a fully integrated approach to convert MHT to TABDELIMITED format, enabling seamless saving of MHT data into TABDELIMITED format using the Aspose.Cells library, all through efficient and customizable C++ code.
+keywords: [Aspose Excel., C++ Aspose.Cells., Smart MHT files to TABDELIMITED Converter for C++., Convert MHT to TABDELIMITED in C++., MHT files to TABDELIMITED Conversion in C++., Leverage intelligent data processing to automatically parse and save MHT into TABDELIMITED format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -38,7 +38,7 @@ Follow the easy steps to convert MHT to TABDELIMITED. Upload your MHT file, then
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert MHT to TABDELIMITED" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="mht" outformat="tsv" IsLandingPage="true" language="cpp" %}}
+{{% cells-convert title="Sample Code to Convert MHT to TABDELIMITED" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="mht" outformat="tsv" IsLandingPage="true" language="cpp" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert MHT to TABDELIMITED via C++" %}}
 
@@ -102,6 +102,7 @@ There are three options to install "Aspose.Cells for C++" onto your system. Plea
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/mht-to-pdf/" name="MHT TO PDF" description="Portable Document Format" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/mht-to-png/" name="MHT TO PNG" description="Portable Network Graphics" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/mht-to-svg/" name="MHT TO SVG" description="Scalable Vector Graphics" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/mht-to-tiff/" name="MHT TO TIFF" description="Tagged Image Format" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/mht-to-tsv/" name="MHT TO TSV" description="Tab-Separated Values" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/mht-to-txt/" name="MHT TO TXT" description="Text Document" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/mht-to-xls/" name="MHT TO XLS" description="Excel Binary Format" >}}

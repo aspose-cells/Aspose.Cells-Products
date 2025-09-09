@@ -1,7 +1,7 @@
 ---
 title: C# SXC to XLSX - SXC to XLSX Converter
-description: Aspose Excel. Convert SXC to XLSX quickly and easily with Aspose.Cells. C# SXC to XLSX. C# Save SXC to XLSX. Save SXC as XLSX using C#.
-keywords: [Aspose Excel., C# Aspose.Cells., Convert SXC to XLSX in C#., Save SXC to XLSX using C#., C# SXC to XLSX saveformat., SXC to XLSX Converter., C# Save SXC as XLSX]
+description: Aspose Excel. This comprehensive solution provides C# developers with a fully integrated approach to convert SXC to XLSX format, enabling seamless saving of SXC data into XLSX format using the Aspose.Cells library, all through efficient and customizable C# code.
+keywords: [Aspose Excel., C# Aspose.Cells., Smart SXC files to XLSX Converter for C#., Convert SXC to XLSX in C#., SXC files to XLSX Conversion in C#., Leverage intelligent data processing to automatically parse and save SXC into XLSX format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -36,7 +36,7 @@ Follow the easy steps to convert SXC to XLSX. Upload your SXC file, then simply 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert SXC to XLSX" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="sxc" outformat="xlsx" IsLandingPage="true" %}}
+{{% cells-convert title="Sample Code to Convert SXC to XLSX" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="sxc" outformat="xlsx" IsLandingPage="true" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert SXC to XLSX via C#" %}}
 

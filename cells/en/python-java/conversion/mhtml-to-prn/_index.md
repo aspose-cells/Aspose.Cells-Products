@@ -1,7 +1,7 @@
 ---
 title: Python MHTML to PRN - MHTML to PRN Converter
-description: Aspose Excel. Python Excel. Convert MHTML to PRN quickly and easily with Aspose.Cells. Python MHTML to PRN. Python Save MHTML to PRN. Save MHTML as PRN using Python Excel Library.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert MHTML to PRN in Python Excel Library., Save MHTML to PRN using Python Excel Library., Python MHTML to PRN saveformat., MHTML to PRN Converter., Python Save MHTML as PRN]
+description: Aspose Excel. This comprehensive solution provides Python developers with a fully integrated approach to convert MHTML to PRN format, enabling seamless saving of MHTML data into PRN format using the Aspose.Cells library, all through efficient and customizable Python code.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart MHTML files to PRN Converter for Python., Convert MHTML to PRN in Python., MHTML files to PRN Conversion in Python., Leverage intelligent data processing to automatically parse and save MHTML into PRN format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -28,7 +28,7 @@ Follow the easy steps to convert MHTML to PRN. Upload your MHTML file, then simp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert MHTML to PRN via Python Excel Library" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="mhtml" outformat="prn" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="Sample Code to Convert MHTML to PRN via Python Excel Library" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="mhtml" outformat="prn" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert MHTML to PRN via Python" %}}
 

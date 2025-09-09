@@ -1,7 +1,7 @@
 ---
 title: Java HTM to XLTX - HTM to XLTX Converter
-description: Aspose Excel. Convert HTM to XLTX quickly and easily with Aspose.Cells. Java HTM to XLTX. Java Save HTM to XLTX. Save HTM as XLTX using Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Convert HTM to XLTX in Java., Save HTM to XLTX using Java., Java HTM to XLTX saveformat., HTM to XLTX Converter., Java Save HTM as XLTX]
+description: Aspose Excel. This comprehensive solution provides Java developers with a fully integrated approach to convert HTM to XLTX format, enabling seamless saving of HTM data into XLTX format using the Aspose.Cells library, all through efficient and customizable Java code.
+keywords: [Aspose Excel., Java Aspose.Cells., Smart HTM files to XLTX Converter for Java., Convert HTM to XLTX in Java., HTM files to XLTX Conversion in Java., Leverage intelligent data processing to automatically parse and save HTM into XLTX format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -57,7 +57,7 @@ Follow the easy steps to convert HTM to XLTX. Upload your HTM file, then simply 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert HTM to XLTX" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="htm" outformat="xltx" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Sample Code to Convert HTM to XLTX" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="htm" outformat="xltx" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert HTM to XLTX via Java" %}}
 

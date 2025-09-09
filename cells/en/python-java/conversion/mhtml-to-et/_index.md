@@ -1,7 +1,7 @@
 ---
 title: Python MHTML to ET - MHTML to ET Converter
-description: Aspose Excel. Python Excel. Convert MHTML to ET quickly and easily with Aspose.Cells. Python MHTML to ET. Python Save MHTML to ET. Save MHTML as ET using Python Excel Library.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert MHTML to ET in Python Excel Library., Save MHTML to ET using Python Excel Library., Python MHTML to ET saveformat., MHTML to ET Converter., Python Save MHTML as ET]
+description: Aspose Excel. This comprehensive solution provides Python developers with a fully integrated approach to convert MHTML to ET format, enabling seamless saving of MHTML data into ET format using the Aspose.Cells library, all through efficient and customizable Python code.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart MHTML files to ET Converter for Python., Convert MHTML to ET in Python., MHTML files to ET Conversion in Python., Leverage intelligent data processing to automatically parse and save MHTML into ET format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -28,7 +28,7 @@ Follow the easy steps to convert MHTML to ET. Upload your MHTML file, then simpl
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert MHTML to ET via Python Excel Library" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="mhtml" outformat="et" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="Sample Code to Convert MHTML to ET via Python Excel Library" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="mhtml" outformat="et" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert MHTML to ET via Python" %}}
 

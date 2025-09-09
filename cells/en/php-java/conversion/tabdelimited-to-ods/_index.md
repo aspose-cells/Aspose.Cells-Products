@@ -1,7 +1,7 @@
 ---
 title: PHP TABDELIMITED to ODS - TABDELIMITED to ODS Converter
-description: Aspose Excel. Convert TABDELIMITED to ODS quickly and easily with Aspose.Cells. PHP TABDELIMITED to ODS. PHP Save TABDELIMITED to ODS. Save TABDELIMITED as ODS using PHP.
-keywords: [Aspose Excel., PHP Aspose.Cells., Convert TABDELIMITED to ODS in PHP., Save TABDELIMITED to ODS using PHP., PHP TABDELIMITED to ODS saveformat., TABDELIMITED to ODS Converter., PHP Save TABDELIMITED as ODS]
+description: Aspose Excel. This comprehensive solution provides PHP developers with a fully integrated approach to convert TABDELIMITED to ODS format, enabling seamless saving of TABDELIMITED data into ODS format using the Aspose.Cells library, all through efficient and customizable PHP code.
+keywords: [Aspose Excel., PHP Aspose.Cells., Smart TABDELIMITED files to ODS Converter for PHP., Convert TABDELIMITED to ODS in PHP., TABDELIMITED files to ODS Conversion in PHP., Leverage intelligent data processing to automatically parse and save TABDELIMITED into ODS format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -28,7 +28,7 @@ Follow the easy steps to convert TABDELIMITED to ODS. Upload your TABDELIMITED f
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert TABDELIMITED to ODS" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="tsv" outformat="ods" IsLandingPage="true" language="phpjava" %}}
+{{% cells-convert title="Sample Code to Convert TABDELIMITED to ODS" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="tsv" outformat="ods" IsLandingPage="true" language="phpjava" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert TABDELIMITED to ODS via PHP" %}}
 

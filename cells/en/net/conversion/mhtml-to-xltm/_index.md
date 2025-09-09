@@ -1,7 +1,7 @@
 ---
 title: C# MHTML to XLTM - MHTML to XLTM Converter
-description: Aspose Excel. Convert MHTML to XLTM quickly and easily with Aspose.Cells. C# MHTML to XLTM. C# Save MHTML to XLTM. Save MHTML as XLTM using C#.
-keywords: [Aspose Excel., C# Aspose.Cells., Convert MHTML to XLTM in C#., Save MHTML to XLTM using C#., C# MHTML to XLTM saveformat., MHTML to XLTM Converter., C# Save MHTML as XLTM]
+description: Aspose Excel. This comprehensive solution provides C# developers with a fully integrated approach to convert MHTML to XLTM format, enabling seamless saving of MHTML data into XLTM format using the Aspose.Cells library, all through efficient and customizable C# code.
+keywords: [Aspose Excel., C# Aspose.Cells., Smart MHTML files to XLTM Converter for C#., Convert MHTML to XLTM in C#., MHTML files to XLTM Conversion in C#., Leverage intelligent data processing to automatically parse and save MHTML into XLTM format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -36,7 +36,7 @@ Follow the easy steps to convert MHTML to XLTM. Upload your MHTML file, then sim
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert MHTML to XLTM" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="mhtml" outformat="xltm" IsLandingPage="true" %}}
+{{% cells-convert title="Sample Code to Convert MHTML to XLTM" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="mhtml" outformat="xltm" IsLandingPage="true" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert MHTML to XLTM via C#" %}}
 

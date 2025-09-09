@@ -1,7 +1,7 @@
 ---
 title: Java JSON to XLS - JSON to XLS Converter
-description: Aspose Excel. Convert JSON to XLS quickly and easily with Aspose.Cells. Java JSON to XLS. Java Save JSON to XLS. Save JSON as XLS using Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Convert JSON to XLS in Java., Save JSON to XLS using Java., Java JSON to XLS saveformat., JSON to XLS Converter., Java Save JSON as XLS]
+description: Aspose Excel. This comprehensive solution provides Java developers with a fully integrated approach to convert JSON to XLS format, enabling seamless saving of JSON data into XLS format using the Aspose.Cells library, all through efficient and customizable Java code.
+keywords: [Aspose Excel., Java Aspose.Cells., Smart JSON files to XLS Converter for Java., Convert JSON to XLS in Java., JSON files to XLS Conversion in Java., Leverage intelligent data processing to automatically parse and save JSON into XLS format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -57,7 +57,7 @@ Follow the easy steps to convert JSON to XLS. Upload your JSON file, then simply
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert JSON to XLS" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="json" outformat="xls" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Sample Code to Convert JSON to XLS" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="json" outformat="xls" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert JSON to XLS via Java" %}}
 

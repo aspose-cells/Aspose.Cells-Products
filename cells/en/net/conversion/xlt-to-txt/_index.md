@@ -1,7 +1,7 @@
 ---
 title: C# XLT to TXT - XLT to TXT Converter
-description: Aspose Excel. Convert XLT to TXT quickly and easily with Aspose.Cells. C# XLT to TXT. C# Save XLT to TXT. Save XLT as TXT using C#.
-keywords: [Aspose Excel., C# Aspose.Cells., Convert XLT to TXT in C#., Save XLT to TXT using C#., C# XLT to TXT saveformat., XLT to TXT Converter., C# Save XLT as TXT]
+description: Aspose Excel. This comprehensive solution provides C# developers with a fully integrated approach to convert XLT to TXT format, enabling seamless saving of XLT data into TXT format using the Aspose.Cells library, all through efficient and customizable C# code.
+keywords: [Aspose Excel., C# Aspose.Cells., Smart XLT files to TXT Converter for C#., Convert XLT to TXT in C#., XLT files to TXT Conversion in C#., Leverage intelligent data processing to automatically parse and save XLT into TXT format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -36,7 +36,7 @@ Follow the easy steps to convert XLT to TXT. Upload your XLT file, then simply s
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert XLT to TXT" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlt" outformat="txt" IsLandingPage="true" %}}
+{{% cells-convert title="Sample Code to Convert XLT to TXT" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="xlt" outformat="txt" IsLandingPage="true" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert XLT to TXT via C#" %}}
 

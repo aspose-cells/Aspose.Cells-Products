@@ -1,7 +1,7 @@
 ---
 title: PHP HTM to HTM - HTM to HTM Converter
-description: Aspose Excel. Convert HTM to HTM quickly and easily with Aspose.Cells. PHP HTM to HTM. PHP Save HTM to HTM. Save HTM as HTM using PHP.
-keywords: [Aspose Excel., PHP Aspose.Cells., Convert HTM to HTM in PHP., Save HTM to HTM using PHP., PHP HTM to HTM saveformat., HTM to HTM Converter., PHP Save HTM as HTM]
+description: Aspose Excel. This comprehensive solution provides PHP developers with a fully integrated approach to convert HTM to HTM format, enabling seamless saving of HTM data into HTM format using the Aspose.Cells library, all through efficient and customizable PHP code.
+keywords: [Aspose Excel., PHP Aspose.Cells., Smart HTM files to HTM Converter for PHP., Convert HTM to HTM in PHP., HTM files to HTM Conversion in PHP., Leverage intelligent data processing to automatically parse and save HTM into HTM format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -28,7 +28,7 @@ Follow the easy steps to convert HTM to HTM. Upload your HTM file, then simply s
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert HTM to HTM" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="htm" outformat="htm" IsLandingPage="true" language="phpjava" %}}
+{{% cells-convert title="Sample Code to Convert HTM to HTM" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="htm" outformat="htm" IsLandingPage="true" language="phpjava" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert HTM to HTM via PHP" %}}
 

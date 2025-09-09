@@ -1,7 +1,7 @@
 ---
 title: PHP SPREADSHEETML to MD - SPREADSHEETML to MD Converter
-description: Aspose Excel. Convert SPREADSHEETML to MD quickly and easily with Aspose.Cells. PHP SPREADSHEETML to MD. PHP Save SPREADSHEETML to MD. Save SPREADSHEETML as MD using PHP.
-keywords: [Aspose Excel., PHP Aspose.Cells., Convert SPREADSHEETML to MD in PHP., Save SPREADSHEETML to MD using PHP., PHP SPREADSHEETML to MD saveformat., SPREADSHEETML to MD Converter., PHP Save SPREADSHEETML as MD]
+description: Aspose Excel. This comprehensive solution provides PHP developers with a fully integrated approach to convert SPREADSHEETML to MD format, enabling seamless saving of SPREADSHEETML data into MD format using the Aspose.Cells library, all through efficient and customizable PHP code.
+keywords: [Aspose Excel., PHP Aspose.Cells., Smart SPREADSHEETML files to MD Converter for PHP., Convert SPREADSHEETML to MD in PHP., SPREADSHEETML files to MD Conversion in PHP., Leverage intelligent data processing to automatically parse and save SPREADSHEETML into MD format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -28,7 +28,7 @@ Follow the easy steps to convert SPREADSHEETML to MD. Upload your SPREADSHEETML 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert SPREADSHEETML to MD" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xml" outformat="md" IsLandingPage="true" language="phpjava" %}}
+{{% cells-convert title="Sample Code to Convert SPREADSHEETML to MD" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="xml" outformat="md" IsLandingPage="true" language="phpjava" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert SPREADSHEETML to MD via PHP" %}}
 

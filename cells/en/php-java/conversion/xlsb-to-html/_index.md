@@ -1,7 +1,7 @@
 ---
 title: PHP XLSB to HTML - XLSB to HTML Converter
-description: Aspose Excel. Convert XLSB to HTML quickly and easily with Aspose.Cells. PHP XLSB to HTML. PHP Save XLSB to HTML. Save XLSB as HTML using PHP.
-keywords: [Aspose Excel., PHP Aspose.Cells., Convert XLSB to HTML in PHP., Save XLSB to HTML using PHP., PHP XLSB to HTML saveformat., XLSB to HTML Converter., PHP Save XLSB as HTML]
+description: Aspose Excel. This comprehensive solution provides PHP developers with a fully integrated approach to convert XLSB to HTML format, enabling seamless saving of XLSB data into HTML format using the Aspose.Cells library, all through efficient and customizable PHP code.
+keywords: [Aspose Excel., PHP Aspose.Cells., Smart XLSB files to HTML Converter for PHP., Convert XLSB to HTML in PHP., XLSB files to HTML Conversion in PHP., Leverage intelligent data processing to automatically parse and save XLSB into HTML format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -28,7 +28,7 @@ Follow the easy steps to convert XLSB to HTML. Upload your XLSB file, then simpl
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert XLSB to HTML" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsb" outformat="html" IsLandingPage="true" language="phpjava" %}}
+{{% cells-convert title="Sample Code to Convert XLSB to HTML" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="xlsb" outformat="html" IsLandingPage="true" language="phpjava" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert XLSB to HTML via PHP" %}}
 

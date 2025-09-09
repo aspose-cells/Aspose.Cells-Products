@@ -1,7 +1,7 @@
 ---
 title: Python EXCEL to XPS - EXCEL to XPS Converter
-description: Aspose Excel. Python Excel. Convert EXCEL to XPS quickly and easily with Aspose.Cells. Python EXCEL to XPS. Python Save EXCEL to XPS. Save EXCEL as XPS using Python Excel Library.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert EXCEL to XPS in Python Excel Library., Save EXCEL to XPS using Python Excel Library., Python EXCEL to XPS saveformat., EXCEL to XPS Converter., Python Save EXCEL as XPS]
+description: Aspose Excel. This comprehensive solution provides Python developers with a fully integrated approach to convert EXCEL to XPS format, enabling seamless saving of EXCEL data into XPS format using the Aspose.Cells library, all through efficient and customizable Python code.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart EXCEL files to XPS Converter for Python., Convert EXCEL to XPS in Python., EXCEL files to XPS Conversion in Python., Leverage intelligent data processing to automatically parse and save EXCEL into XPS format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -28,7 +28,7 @@ Follow the easy steps to convert EXCEL to XPS. Upload your EXCEL file, then simp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert EXCEL to XPS via Python Excel Library" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsx" outformat="xps" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="Sample Code to Convert EXCEL to XPS via Python Excel Library" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="xlsx" outformat="xps" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert EXCEL to XPS via Python" %}}
 

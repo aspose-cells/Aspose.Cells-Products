@@ -1,7 +1,7 @@
 ---
 title: C# MHT to SPREADSHEETML - MHT to SPREADSHEETML Converter
-description: Aspose Excel. Convert MHT to SPREADSHEETML quickly and easily with Aspose.Cells. C# MHT to SPREADSHEETML. C# Save MHT to SPREADSHEETML. Save MHT as SPREADSHEETML using C#.
-keywords: [Aspose Excel., C# Aspose.Cells., Convert MHT to SPREADSHEETML in C#., Save MHT to SPREADSHEETML using C#., C# MHT to SPREADSHEETML saveformat., MHT to SPREADSHEETML Converter., C# Save MHT as SPREADSHEETML]
+description: Aspose Excel. This comprehensive solution provides C# developers with a fully integrated approach to convert MHT to SPREADSHEETML format, enabling seamless saving of MHT data into SPREADSHEETML format using the Aspose.Cells library, all through efficient and customizable C# code.
+keywords: [Aspose Excel., C# Aspose.Cells., Smart MHT files to SPREADSHEETML Converter for C#., Convert MHT to SPREADSHEETML in C#., MHT files to SPREADSHEETML Conversion in C#., Leverage intelligent data processing to automatically parse and save MHT into SPREADSHEETML format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -36,7 +36,7 @@ Follow the easy steps to convert MHT to SPREADSHEETML. Upload your MHT file, the
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert MHT to SPREADSHEETML" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="mht" outformat="xml" IsLandingPage="true" %}}
+{{% cells-convert title="Sample Code to Convert MHT to SPREADSHEETML" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="mht" outformat="xml" IsLandingPage="true" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert MHT to SPREADSHEETML via C#" %}}
 

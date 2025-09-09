@@ -1,7 +1,7 @@
 ---
 title: Java XLT to XLS - XLT to XLS Converter
-description: Aspose Excel. Convert XLT to XLS quickly and easily with Aspose.Cells. Java XLT to XLS. Java Save XLT to XLS. Save XLT as XLS using Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Convert XLT to XLS in Java., Save XLT to XLS using Java., Java XLT to XLS saveformat., XLT to XLS Converter., Java Save XLT as XLS]
+description: Aspose Excel. This comprehensive solution provides Java developers with a fully integrated approach to convert XLT to XLS format, enabling seamless saving of XLT data into XLS format using the Aspose.Cells library, all through efficient and customizable Java code.
+keywords: [Aspose Excel., Java Aspose.Cells., Smart XLT files to XLS Converter for Java., Convert XLT to XLS in Java., XLT files to XLS Conversion in Java., Leverage intelligent data processing to automatically parse and save XLT into XLS format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -57,7 +57,7 @@ Follow the easy steps to convert XLT to XLS. Upload your XLT file, then simply s
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert XLT to XLS" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlt" outformat="xls" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Sample Code to Convert XLT to XLS" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="xlt" outformat="xls" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert XLT to XLS via Java" %}}
 

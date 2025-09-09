@@ -1,7 +1,7 @@
 ---
 title: PHP TABDELIMITED to EMF - TABDELIMITED to EMF Converter
-description: Aspose Excel. Convert TABDELIMITED to EMF quickly and easily with Aspose.Cells. PHP TABDELIMITED to EMF. PHP Save TABDELIMITED to EMF. Save TABDELIMITED as EMF using PHP.
-keywords: [Aspose Excel., PHP Aspose.Cells., Convert TABDELIMITED to EMF in PHP., Save TABDELIMITED to EMF using PHP., PHP TABDELIMITED to EMF saveformat., TABDELIMITED to EMF Converter., PHP Save TABDELIMITED as EMF]
+description: Aspose Excel. This comprehensive solution provides PHP developers with a fully integrated approach to convert TABDELIMITED to EMF format, enabling seamless saving of TABDELIMITED data into EMF format using the Aspose.Cells library, all through efficient and customizable PHP code.
+keywords: [Aspose Excel., PHP Aspose.Cells., Smart TABDELIMITED files to EMF Converter for PHP., Convert TABDELIMITED to EMF in PHP., TABDELIMITED files to EMF Conversion in PHP., Leverage intelligent data processing to automatically parse and save TABDELIMITED into EMF format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -28,7 +28,7 @@ Follow the easy steps to convert TABDELIMITED to EMF. Upload your TABDELIMITED f
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert TABDELIMITED to EMF" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="tsv" outformat="emf" IsLandingPage="true" language="phpjava" %}}
+{{% cells-convert title="Sample Code to Convert TABDELIMITED to EMF" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="tsv" outformat="emf" IsLandingPage="true" language="phpjava" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert TABDELIMITED to EMF via PHP" %}}
 

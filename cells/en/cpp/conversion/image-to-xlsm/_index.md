@@ -1,7 +1,7 @@
 ---
 title: C++ IMAGE to XLSM - IMAGE to XLSM Converter
-description: Aspose Excel. Convert IMAGE to XLSM quickly and easily with Aspose.Cells. C++ IMAGE to XLSM. C++ Save IMAGE to XLSM. Save IMAGE as XLSM using C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., Convert IMAGE to XLSM in C++., Save IMAGE to XLSM using C++., C++ IMAGE to XLSM saveformat., IMAGE to XLSM Converter., C++ Save IMAGE as XLSM]
+description: Aspose Excel. This comprehensive solution provides C++ developers with a fully integrated approach to convert IMAGE to XLSM format, enabling seamless saving of IMAGE data into XLSM format using the Aspose.Cells library, all through efficient and customizable C++ code.
+keywords: [Aspose Excel., C++ Aspose.Cells., Smart IMAGE files to XLSM Converter for C++., Convert IMAGE to XLSM in C++., IMAGE files to XLSM Conversion in C++., Leverage intelligent data processing to automatically parse and save IMAGE into XLSM format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -38,7 +38,7 @@ Follow the easy steps to convert IMAGE to XLSM. Upload your IMAGE file, then sim
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert IMAGE to XLSM" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="png" outformat="xlsm" IsLandingPage="true" language="cpp" %}}
+{{% cells-convert title="Sample Code to Convert IMAGE to XLSM" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="png" outformat="xlsm" IsLandingPage="true" language="cpp" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert IMAGE to XLSM via C++" %}}
 
@@ -102,6 +102,7 @@ There are three options to install "Aspose.Cells for C++" onto your system. Plea
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/image-to-pdf/" name="IMAGE TO PDF" description="Portable Document Format" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/image-to-png/" name="IMAGE TO PNG" description="Portable Network Graphics" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/image-to-svg/" name="IMAGE TO SVG" description="Scalable Vector Graphics" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/image-to-tiff/" name="IMAGE TO TIFF" description="Tagged Image Format" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/image-to-tsv/" name="IMAGE TO TSV" description="Tab-Separated Values" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/image-to-txt/" name="IMAGE TO TXT" description="Text Document" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/image-to-xls/" name="IMAGE TO XLS" description="Excel Binary Format" >}}

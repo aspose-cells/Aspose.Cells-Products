@@ -1,7 +1,7 @@
 ---
 title: Python TSV to XLAM - TSV to XLAM Converter
-description: Aspose Excel. Python Excel. Convert TSV to XLAM quickly and easily with Aspose.Cells. Python TSV to XLAM. Python Save TSV to XLAM. Save TSV as XLAM using Python Excel Library.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert TSV to XLAM in Python Excel Library., Save TSV to XLAM using Python Excel Library., Python TSV to XLAM saveformat., TSV to XLAM Converter., Python Save TSV as XLAM]
+description: Aspose Excel. This comprehensive solution provides Python developers with a fully integrated approach to convert TSV to XLAM format, enabling seamless saving of TSV data into XLAM format using the Aspose.Cells library, all through efficient and customizable Python code.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart TSV files to XLAM Converter for Python., Convert TSV to XLAM in Python., TSV files to XLAM Conversion in Python., Leverage intelligent data processing to automatically parse and save TSV into XLAM format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -28,7 +28,7 @@ Follow the easy steps to convert TSV to XLAM. Upload your TSV file, then simply 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert TSV to XLAM via Python Excel Library" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="tsv" outformat="xlam" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="Sample Code to Convert TSV to XLAM via Python Excel Library" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="tsv" outformat="xlam" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert TSV to XLAM via Python" %}}
 

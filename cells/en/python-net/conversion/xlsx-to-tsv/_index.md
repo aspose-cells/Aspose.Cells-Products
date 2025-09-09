@@ -1,7 +1,7 @@
 ---
 title: Python XLSX to TSV - XLSX to TSV Converter
-description: Aspose Excel. Python Excel. Convert XLSX to TSV quickly and easily with Aspose.Cells. Python XLSX to TSV. Python Save XLSX to TSV. Save XLSX as TSV using Python Excel Library.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert XLSX to TSV in Python Excel Library., Save XLSX to TSV using Python Excel Library., Python XLSX to TSV saveformat., XLSX to TSV Converter., Python Save XLSX as TSV]
+description: Aspose Excel. This comprehensive solution provides Python developers with a fully integrated approach to convert XLSX to TSV format, enabling seamless saving of XLSX data into TSV format using the Aspose.Cells library, all through efficient and customizable Python code.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart XLSX files to TSV Converter for Python., Convert XLSX to TSV in Python., XLSX files to TSV Conversion in Python., Leverage intelligent data processing to automatically parse and save XLSX into TSV format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -29,7 +29,7 @@ Follow the easy steps to convert XLSX to TSV. Upload your XLSX file, then simply
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert XLSX to TSV via Python Excel Library" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsx" outformat="tsv" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Sample Code to Convert XLSX to TSV via Python Excel Library" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="xlsx" outformat="tsv" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert XLSX to TSV" %}}
 

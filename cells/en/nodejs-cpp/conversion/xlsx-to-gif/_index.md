@@ -1,7 +1,7 @@
 ---
 title: Node.js XLSX to GIF - XLSX to GIF Converter
-description: Aspose Excel. Convert XLSX to GIF quickly and easily with Aspose.Cells. Node.js XLSX to GIF. Node.js Save XLSX to GIF. Save XLSX as GIF using Node.js.
-keywords: [Aspose Excel., Node.js Aspose.Cells., Convert XLSX to GIF in Node.js., Save XLSX to GIF using Node.js., Node.js XLSX to GIF saveformat., XLSX to GIF Converter., Node.js Save XLSX as GIF]
+description: Aspose Excel. This comprehensive solution provides Node.js developers with a fully integrated approach to convert XLSX to GIF format, enabling seamless saving of XLSX data into GIF format using the Aspose.Cells library, all through efficient and customizable Node.js code.
+keywords: [Aspose Excel., Node.js Aspose.Cells., Smart XLSX files to GIF Converter for Node.js., Convert XLSX to GIF in Node.js., XLSX files to GIF Conversion in Node.js., Leverage intelligent data processing to automatically parse and save XLSX into GIF format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -28,7 +28,7 @@ Follow the easy steps to convert XLSX to GIF. Upload your XLSX file, then simply
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert XLSX to GIF" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsx" outformat="gif" IsLandingPage="true" language="nodejscpp" %}}
+{{% cells-convert title="Sample Code to Convert XLSX to GIF" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="xlsx" outformat="gif" IsLandingPage="true" language="nodejscpp" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert XLSX to GIF via Node.js" %}}
 

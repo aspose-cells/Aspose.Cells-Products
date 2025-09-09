@@ -1,7 +1,7 @@
 ---
 title: C# FODS to DIF - FODS to DIF Converter
-description: Aspose Excel. Convert FODS to DIF quickly and easily with Aspose.Cells. C# FODS to DIF. C# Save FODS to DIF. Save FODS as DIF using C#.
-keywords: [Aspose Excel., C# Aspose.Cells., Convert FODS to DIF in C#., Save FODS to DIF using C#., C# FODS to DIF saveformat., FODS to DIF Converter., C# Save FODS as DIF]
+description: Aspose Excel. This comprehensive solution provides C# developers with a fully integrated approach to convert FODS to DIF format, enabling seamless saving of FODS data into DIF format using the Aspose.Cells library, all through efficient and customizable C# code.
+keywords: [Aspose Excel., C# Aspose.Cells., Smart FODS files to DIF Converter for C#., Convert FODS to DIF in C#., FODS files to DIF Conversion in C#., Leverage intelligent data processing to automatically parse and save FODS into DIF format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -36,7 +36,7 @@ Follow the easy steps to convert FODS to DIF. Upload your FODS file, then simply
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert FODS to DIF" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="fods" outformat="dif" IsLandingPage="true" %}}
+{{% cells-convert title="Sample Code to Convert FODS to DIF" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="fods" outformat="dif" IsLandingPage="true" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert FODS to DIF via C#" %}}
 

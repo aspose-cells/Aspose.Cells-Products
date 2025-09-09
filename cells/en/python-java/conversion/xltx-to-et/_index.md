@@ -1,7 +1,7 @@
 ---
 title: Python XLTX to ET - XLTX to ET Converter
-description: Aspose Excel. Python Excel. Convert XLTX to ET quickly and easily with Aspose.Cells. Python XLTX to ET. Python Save XLTX to ET. Save XLTX as ET using Python Excel Library.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert XLTX to ET in Python Excel Library., Save XLTX to ET using Python Excel Library., Python XLTX to ET saveformat., XLTX to ET Converter., Python Save XLTX as ET]
+description: Aspose Excel. This comprehensive solution provides Python developers with a fully integrated approach to convert XLTX to ET format, enabling seamless saving of XLTX data into ET format using the Aspose.Cells library, all through efficient and customizable Python code.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart XLTX files to ET Converter for Python., Convert XLTX to ET in Python., XLTX files to ET Conversion in Python., Leverage intelligent data processing to automatically parse and save XLTX into ET format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -28,7 +28,7 @@ Follow the easy steps to convert XLTX to ET. Upload your XLTX file, then simply 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert XLTX to ET via Python Excel Library" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xltx" outformat="et" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="Sample Code to Convert XLTX to ET via Python Excel Library" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="xltx" outformat="et" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert XLTX to ET via Python" %}}
 

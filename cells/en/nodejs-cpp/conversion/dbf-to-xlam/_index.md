@@ -1,7 +1,7 @@
 ---
 title: Node.js DBF to XLAM - DBF to XLAM Converter
-description: Aspose Excel. Convert DBF to XLAM quickly and easily with Aspose.Cells. Node.js DBF to XLAM. Node.js Save DBF to XLAM. Save DBF as XLAM using Node.js.
-keywords: [Aspose Excel., Node.js Aspose.Cells., Convert DBF to XLAM in Node.js., Save DBF to XLAM using Node.js., Node.js DBF to XLAM saveformat., DBF to XLAM Converter., Node.js Save DBF as XLAM]
+description: Aspose Excel. This comprehensive solution provides Node.js developers with a fully integrated approach to convert DBF to XLAM format, enabling seamless saving of DBF data into XLAM format using the Aspose.Cells library, all through efficient and customizable Node.js code.
+keywords: [Aspose Excel., Node.js Aspose.Cells., Smart DBF files to XLAM Converter for Node.js., Convert DBF to XLAM in Node.js., DBF files to XLAM Conversion in Node.js., Leverage intelligent data processing to automatically parse and save DBF into XLAM format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -28,7 +28,7 @@ Follow the easy steps to convert DBF to XLAM. Upload your DBF file, then simply 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert DBF to XLAM" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="dbf" outformat="xlam" IsLandingPage="true" language="nodejscpp" %}}
+{{% cells-convert title="Sample Code to Convert DBF to XLAM" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="dbf" outformat="xlam" IsLandingPage="true" language="nodejscpp" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert DBF to XLAM via Node.js" %}}
 

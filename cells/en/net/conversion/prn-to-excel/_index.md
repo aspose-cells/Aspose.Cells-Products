@@ -1,7 +1,7 @@
 ---
 title: C# PRN to EXCEL - PRN to EXCEL Converter
-description: Aspose Excel. Convert PRN to EXCEL quickly and easily with Aspose.Cells. C# PRN to EXCEL. C# Save PRN to EXCEL. Save PRN as EXCEL using C#.
-keywords: [Aspose Excel., C# Aspose.Cells., Convert PRN to EXCEL in C#., Save PRN to EXCEL using C#., C# PRN to EXCEL saveformat., PRN to EXCEL Converter., C# Save PRN as EXCEL]
+description: Aspose Excel. This comprehensive solution provides C# developers with a fully integrated approach to convert PRN to EXCEL format, enabling seamless saving of PRN data into EXCEL format using the Aspose.Cells library, all through efficient and customizable C# code.
+keywords: [Aspose Excel., C# Aspose.Cells., Smart PRN files to EXCEL Converter for C#., Convert PRN to EXCEL in C#., PRN files to EXCEL Conversion in C#., Leverage intelligent data processing to automatically parse and save PRN into EXCEL format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -36,7 +36,7 @@ Follow the easy steps to convert PRN to EXCEL. Upload your PRN file, then simply
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert PRN to EXCEL" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="prn" outformat="xlsx" IsLandingPage="true" %}}
+{{% cells-convert title="Sample Code to Convert PRN to EXCEL" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="prn" outformat="xlsx" IsLandingPage="true" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert PRN to EXCEL via C#" %}}
 

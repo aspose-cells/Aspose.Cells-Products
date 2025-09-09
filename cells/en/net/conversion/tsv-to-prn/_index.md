@@ -1,7 +1,7 @@
 ---
 title: C# TSV to PRN - TSV to PRN Converter
-description: Aspose Excel. Convert TSV to PRN quickly and easily with Aspose.Cells. C# TSV to PRN. C# Save TSV to PRN. Save TSV as PRN using C#.
-keywords: [Aspose Excel., C# Aspose.Cells., Convert TSV to PRN in C#., Save TSV to PRN using C#., C# TSV to PRN saveformat., TSV to PRN Converter., C# Save TSV as PRN]
+description: Aspose Excel. This comprehensive solution provides C# developers with a fully integrated approach to convert TSV to PRN format, enabling seamless saving of TSV data into PRN format using the Aspose.Cells library, all through efficient and customizable C# code.
+keywords: [Aspose Excel., C# Aspose.Cells., Smart TSV files to PRN Converter for C#., Convert TSV to PRN in C#., TSV files to PRN Conversion in C#., Leverage intelligent data processing to automatically parse and save TSV into PRN format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -36,7 +36,7 @@ Follow the easy steps to convert TSV to PRN. Upload your TSV file, then simply s
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert TSV to PRN" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="tsv" outformat="prn" IsLandingPage="true" %}}
+{{% cells-convert title="Sample Code to Convert TSV to PRN" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="tsv" outformat="prn" IsLandingPage="true" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert TSV to PRN via C#" %}}
 

@@ -1,7 +1,7 @@
 ---
 title: Python OTS to JSON - OTS to JSON Converter
-description: Aspose Excel. Python Excel. Convert OTS to JSON quickly and easily with Aspose.Cells. Python OTS to JSON. Python Save OTS to JSON. Save OTS as JSON using Python Excel Library.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert OTS to JSON in Python Excel Library., Save OTS to JSON using Python Excel Library., Python OTS to JSON saveformat., OTS to JSON Converter., Python Save OTS as JSON]
+description: Aspose Excel. This comprehensive solution provides Python developers with a fully integrated approach to convert OTS to JSON format, enabling seamless saving of OTS data into JSON format using the Aspose.Cells library, all through efficient and customizable Python code.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart OTS files to JSON Converter for Python., Convert OTS to JSON in Python., OTS files to JSON Conversion in Python., Leverage intelligent data processing to automatically parse and save OTS into JSON format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -29,7 +29,7 @@ Follow the easy steps to convert OTS to JSON. Upload your OTS file, then simply 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert OTS to JSON via Python Excel Library" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="ots" outformat="json" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Sample Code to Convert OTS to JSON via Python Excel Library" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="ots" outformat="json" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert OTS to JSON" %}}
 

@@ -1,7 +1,7 @@
 ---
 title: C# XLT to XLSX - XLT to XLSX Converter
-description: Aspose Excel. Convert XLT to XLSX quickly and easily with Aspose.Cells. C# XLT to XLSX. C# Save XLT to XLSX. Save XLT as XLSX using C#.
-keywords: [Aspose Excel., C# Aspose.Cells., Convert XLT to XLSX in C#., Save XLT to XLSX using C#., C# XLT to XLSX saveformat., XLT to XLSX Converter., C# Save XLT as XLSX]
+description: Aspose Excel. This comprehensive solution provides C# developers with a fully integrated approach to convert XLT to XLSX format, enabling seamless saving of XLT data into XLSX format using the Aspose.Cells library, all through efficient and customizable C# code.
+keywords: [Aspose Excel., C# Aspose.Cells., Smart XLT files to XLSX Converter for C#., Convert XLT to XLSX in C#., XLT files to XLSX Conversion in C#., Leverage intelligent data processing to automatically parse and save XLT into XLSX format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -36,7 +36,7 @@ Follow the easy steps to convert XLT to XLSX. Upload your XLT file, then simply 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert XLT to XLSX" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlt" outformat="xlsx" IsLandingPage="true" %}}
+{{% cells-convert title="Sample Code to Convert XLT to XLSX" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="xlt" outformat="xlsx" IsLandingPage="true" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert XLT to XLSX via C#" %}}
 

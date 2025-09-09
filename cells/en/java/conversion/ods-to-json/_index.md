@@ -1,7 +1,7 @@
 ---
 title: Java ODS to JSON - ODS to JSON Converter
-description: Aspose Excel. Convert ODS to JSON quickly and easily with Aspose.Cells. Java ODS to JSON. Java Save ODS to JSON. Save ODS as JSON using Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Convert ODS to JSON in Java., Save ODS to JSON using Java., Java ODS to JSON saveformat., ODS to JSON Converter., Java Save ODS as JSON]
+description: Aspose Excel. This comprehensive solution provides Java developers with a fully integrated approach to convert ODS to JSON format, enabling seamless saving of ODS data into JSON format using the Aspose.Cells library, all through efficient and customizable Java code.
+keywords: [Aspose Excel., Java Aspose.Cells., Smart ODS files to JSON Converter for Java., Convert ODS to JSON in Java., ODS files to JSON Conversion in Java., Leverage intelligent data processing to automatically parse and save ODS into JSON format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -57,7 +57,7 @@ Follow the easy steps to convert ODS to JSON. Upload your ODS file, then simply 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert ODS to JSON" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="ods" outformat="json" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Sample Code to Convert ODS to JSON" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="ods" outformat="json" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert ODS to JSON via Java" %}}
 

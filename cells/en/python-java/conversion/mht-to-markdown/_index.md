@@ -1,7 +1,7 @@
 ---
 title: Python MHT to MARKDOWN - MHT to MARKDOWN Converter
-description: Aspose Excel. Python Excel. Convert MHT to MARKDOWN quickly and easily with Aspose.Cells. Python MHT to MARKDOWN. Python Save MHT to MARKDOWN. Save MHT as MARKDOWN using Python Excel Library.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert MHT to MARKDOWN in Python Excel Library., Save MHT to MARKDOWN using Python Excel Library., Python MHT to MARKDOWN saveformat., MHT to MARKDOWN Converter., Python Save MHT as MARKDOWN]
+description: Aspose Excel. This comprehensive solution provides Python developers with a fully integrated approach to convert MHT to MARKDOWN format, enabling seamless saving of MHT data into MARKDOWN format using the Aspose.Cells library, all through efficient and customizable Python code.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart MHT files to MARKDOWN Converter for Python., Convert MHT to MARKDOWN in Python., MHT files to MARKDOWN Conversion in Python., Leverage intelligent data processing to automatically parse and save MHT into MARKDOWN format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -28,7 +28,7 @@ Follow the easy steps to convert MHT to MARKDOWN. Upload your MHT file, then sim
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert MHT to MARKDOWN via Python Excel Library" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="mht" outformat="md" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="Sample Code to Convert MHT to MARKDOWN via Python Excel Library" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="mht" outformat="md" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert MHT to MARKDOWN via Python" %}}
 

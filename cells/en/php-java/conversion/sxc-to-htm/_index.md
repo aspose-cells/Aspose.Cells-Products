@@ -1,7 +1,7 @@
 ---
 title: PHP SXC to HTM - SXC to HTM Converter
-description: Aspose Excel. Convert SXC to HTM quickly and easily with Aspose.Cells. PHP SXC to HTM. PHP Save SXC to HTM. Save SXC as HTM using PHP.
-keywords: [Aspose Excel., PHP Aspose.Cells., Convert SXC to HTM in PHP., Save SXC to HTM using PHP., PHP SXC to HTM saveformat., SXC to HTM Converter., PHP Save SXC as HTM]
+description: Aspose Excel. This comprehensive solution provides PHP developers with a fully integrated approach to convert SXC to HTM format, enabling seamless saving of SXC data into HTM format using the Aspose.Cells library, all through efficient and customizable PHP code.
+keywords: [Aspose Excel., PHP Aspose.Cells., Smart SXC files to HTM Converter for PHP., Convert SXC to HTM in PHP., SXC files to HTM Conversion in PHP., Leverage intelligent data processing to automatically parse and save SXC into HTM format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -28,7 +28,7 @@ Follow the easy steps to convert SXC to HTM. Upload your SXC file, then simply s
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert SXC to HTM" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="sxc" outformat="htm" IsLandingPage="true" language="phpjava" %}}
+{{% cells-convert title="Sample Code to Convert SXC to HTM" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="sxc" outformat="htm" IsLandingPage="true" language="phpjava" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert SXC to HTM via PHP" %}}
 

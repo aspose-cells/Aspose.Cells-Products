@@ -1,7 +1,7 @@
 ---
 title: C# DBF to XLS - DBF to XLS Converter
-description: Aspose Excel. Convert DBF to XLS quickly and easily with Aspose.Cells. C# DBF to XLS. C# Save DBF to XLS. Save DBF as XLS using C#.
-keywords: [Aspose Excel., C# Aspose.Cells., Convert DBF to XLS in C#., Save DBF to XLS using C#., C# DBF to XLS saveformat., DBF to XLS Converter., C# Save DBF as XLS]
+description: Aspose Excel. This comprehensive solution provides C# developers with a fully integrated approach to convert DBF to XLS format, enabling seamless saving of DBF data into XLS format using the Aspose.Cells library, all through efficient and customizable C# code.
+keywords: [Aspose Excel., C# Aspose.Cells., Smart DBF files to XLS Converter for C#., Convert DBF to XLS in C#., DBF files to XLS Conversion in C#., Leverage intelligent data processing to automatically parse and save DBF into XLS format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -36,7 +36,7 @@ Follow the easy steps to convert DBF to XLS. Upload your DBF file, then simply s
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert DBF to XLS" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="dbf" outformat="xls" IsLandingPage="true" %}}
+{{% cells-convert title="Sample Code to Convert DBF to XLS" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="dbf" outformat="xls" IsLandingPage="true" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert DBF to XLS via C#" %}}
 

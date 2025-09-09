@@ -1,7 +1,7 @@
 ---
 title: PHP MHTML to JSON - MHTML to JSON Converter
-description: Aspose Excel. Convert MHTML to JSON quickly and easily with Aspose.Cells. PHP MHTML to JSON. PHP Save MHTML to JSON. Save MHTML as JSON using PHP.
-keywords: [Aspose Excel., PHP Aspose.Cells., Convert MHTML to JSON in PHP., Save MHTML to JSON using PHP., PHP MHTML to JSON saveformat., MHTML to JSON Converter., PHP Save MHTML as JSON]
+description: Aspose Excel. This comprehensive solution provides PHP developers with a fully integrated approach to convert MHTML to JSON format, enabling seamless saving of MHTML data into JSON format using the Aspose.Cells library, all through efficient and customizable PHP code.
+keywords: [Aspose Excel., PHP Aspose.Cells., Smart MHTML files to JSON Converter for PHP., Convert MHTML to JSON in PHP., MHTML files to JSON Conversion in PHP., Leverage intelligent data processing to automatically parse and save MHTML into JSON format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -28,7 +28,7 @@ Follow the easy steps to convert MHTML to JSON. Upload your MHTML file, then sim
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert MHTML to JSON" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="mhtml" outformat="json" IsLandingPage="true" language="phpjava" %}}
+{{% cells-convert title="Sample Code to Convert MHTML to JSON" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="mhtml" outformat="json" IsLandingPage="true" language="phpjava" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert MHTML to JSON via PHP" %}}
 

@@ -1,7 +1,7 @@
 ---
 title: Python XML to ET - XML to ET Converter
-description: Aspose Excel. Python Excel. Convert XML to ET quickly and easily with Aspose.Cells. Python XML to ET. Python Save XML to ET. Save XML as ET using Python Excel Library.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert XML to ET in Python Excel Library., Save XML to ET using Python Excel Library., Python XML to ET saveformat., XML to ET Converter., Python Save XML as ET]
+description: Aspose Excel. This comprehensive solution provides Python developers with a fully integrated approach to convert XML to ET format, enabling seamless saving of XML data into ET format using the Aspose.Cells library, all through efficient and customizable Python code.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart XML files to ET Converter for Python., Convert XML to ET in Python., XML files to ET Conversion in Python., Leverage intelligent data processing to automatically parse and save XML into ET format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -29,7 +29,7 @@ Follow the easy steps to convert XML to ET. Upload your XML file, then simply sa
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert XML to ET via Python Excel Library" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xml" outformat="et" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Sample Code to Convert XML to ET via Python Excel Library" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="xml" outformat="et" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert XML to ET" %}}
 

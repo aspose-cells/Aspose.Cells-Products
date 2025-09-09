@@ -1,7 +1,7 @@
 ---
 title: PHP PRN to DOCX - PRN to DOCX Converter
-description: Aspose Excel. Convert PRN to DOCX quickly and easily with Aspose.Cells. PHP PRN to DOCX. PHP Save PRN to DOCX. Save PRN as DOCX using PHP.
-keywords: [Aspose Excel., PHP Aspose.Cells., Convert PRN to DOCX in PHP., Save PRN to DOCX using PHP., PHP PRN to DOCX saveformat., PRN to DOCX Converter., PHP Save PRN as DOCX]
+description: Aspose Excel. This comprehensive solution provides PHP developers with a fully integrated approach to convert PRN to DOCX format, enabling seamless saving of PRN data into DOCX format using the Aspose.Cells library, all through efficient and customizable PHP code.
+keywords: [Aspose Excel., PHP Aspose.Cells., Smart PRN files to DOCX Converter for PHP., Convert PRN to DOCX in PHP., PRN files to DOCX Conversion in PHP., Leverage intelligent data processing to automatically parse and save PRN into DOCX format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -28,7 +28,7 @@ Follow the easy steps to convert PRN to DOCX. Upload your PRN file, then simply 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert PRN to DOCX" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="prn" outformat="docx" IsLandingPage="true" language="phpjava" %}}
+{{% cells-convert title="Sample Code to Convert PRN to DOCX" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="prn" outformat="docx" IsLandingPage="true" language="phpjava" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert PRN to DOCX via PHP" %}}
 

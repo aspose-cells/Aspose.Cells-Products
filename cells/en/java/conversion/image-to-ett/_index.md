@@ -1,7 +1,7 @@
 ---
 title: Java IMAGE to ETT - IMAGE to ETT Converter
-description: Aspose Excel. Convert IMAGE to ETT quickly and easily with Aspose.Cells. Java IMAGE to ETT. Java Save IMAGE to ETT. Save IMAGE as ETT using Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Convert IMAGE to ETT in Java., Save IMAGE to ETT using Java., Java IMAGE to ETT saveformat., IMAGE to ETT Converter., Java Save IMAGE as ETT]
+description: Aspose Excel. This comprehensive solution provides Java developers with a fully integrated approach to convert IMAGE to ETT format, enabling seamless saving of IMAGE data into ETT format using the Aspose.Cells library, all through efficient and customizable Java code.
+keywords: [Aspose Excel., Java Aspose.Cells., Smart IMAGE files to ETT Converter for Java., Convert IMAGE to ETT in Java., IMAGE files to ETT Conversion in Java., Leverage intelligent data processing to automatically parse and save IMAGE into ETT format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -57,7 +57,7 @@ Follow the easy steps to convert IMAGE to ETT. Upload your IMAGE file, then simp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert IMAGE to ETT" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="png" outformat="ett" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Sample Code to Convert IMAGE to ETT" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="png" outformat="ett" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert IMAGE to ETT via Java" %}}
 

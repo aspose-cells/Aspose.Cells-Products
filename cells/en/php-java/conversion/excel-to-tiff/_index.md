@@ -1,7 +1,7 @@
 ---
 title: PHP EXCEL to TIFF - EXCEL to TIFF Converter
-description: Aspose Excel. Convert EXCEL to TIFF quickly and easily with Aspose.Cells. PHP EXCEL to TIFF. PHP Save EXCEL to TIFF. Save EXCEL as TIFF using PHP.
-keywords: [Aspose Excel., PHP Aspose.Cells., Convert EXCEL to TIFF in PHP., Save EXCEL to TIFF using PHP., PHP EXCEL to TIFF saveformat., EXCEL to TIFF Converter., PHP Save EXCEL as TIFF]
+description: Aspose Excel. This comprehensive solution provides PHP developers with a fully integrated approach to convert EXCEL to TIFF format, enabling seamless saving of EXCEL data into TIFF format using the Aspose.Cells library, all through efficient and customizable PHP code.
+keywords: [Aspose Excel., PHP Aspose.Cells., Smart EXCEL files to TIFF Converter for PHP., Convert EXCEL to TIFF in PHP., EXCEL files to TIFF Conversion in PHP., Leverage intelligent data processing to automatically parse and save EXCEL into TIFF format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -28,7 +28,7 @@ Follow the easy steps to convert EXCEL to TIFF. Upload your EXCEL file, then sim
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert EXCEL to TIFF" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsx" outformat="tiff" IsLandingPage="true" language="phpjava" %}}
+{{% cells-convert title="Sample Code to Convert EXCEL to TIFF" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="xlsx" outformat="tiff" IsLandingPage="true" language="phpjava" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert EXCEL to TIFF via PHP" %}}
 

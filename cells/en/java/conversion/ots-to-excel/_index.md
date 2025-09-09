@@ -1,7 +1,7 @@
 ---
 title: Java OTS to EXCEL - OTS to EXCEL Converter
-description: Aspose Excel. Convert OTS to EXCEL quickly and easily with Aspose.Cells. Java OTS to EXCEL. Java Save OTS to EXCEL. Save OTS as EXCEL using Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Convert OTS to EXCEL in Java., Save OTS to EXCEL using Java., Java OTS to EXCEL saveformat., OTS to EXCEL Converter., Java Save OTS as EXCEL]
+description: Aspose Excel. This comprehensive solution provides Java developers with a fully integrated approach to convert OTS to EXCEL format, enabling seamless saving of OTS data into EXCEL format using the Aspose.Cells library, all through efficient and customizable Java code.
+keywords: [Aspose Excel., Java Aspose.Cells., Smart OTS files to EXCEL Converter for Java., Convert OTS to EXCEL in Java., OTS files to EXCEL Conversion in Java., Leverage intelligent data processing to automatically parse and save OTS into EXCEL format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -57,7 +57,7 @@ Follow the easy steps to convert OTS to EXCEL. Upload your OTS file, then simply
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert OTS to EXCEL" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="ots" outformat="xlsx" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Sample Code to Convert OTS to EXCEL" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="ots" outformat="xlsx" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert OTS to EXCEL via Java" %}}
 

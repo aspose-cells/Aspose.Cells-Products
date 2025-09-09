@@ -1,7 +1,7 @@
 ---
 title: Java FODS to EXCEL - FODS to EXCEL Converter
-description: Aspose Excel. Convert FODS to EXCEL quickly and easily with Aspose.Cells. Java FODS to EXCEL. Java Save FODS to EXCEL. Save FODS as EXCEL using Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Convert FODS to EXCEL in Java., Save FODS to EXCEL using Java., Java FODS to EXCEL saveformat., FODS to EXCEL Converter., Java Save FODS as EXCEL]
+description: Aspose Excel. This comprehensive solution provides Java developers with a fully integrated approach to convert FODS to EXCEL format, enabling seamless saving of FODS data into EXCEL format using the Aspose.Cells library, all through efficient and customizable Java code.
+keywords: [Aspose Excel., Java Aspose.Cells., Smart FODS files to EXCEL Converter for Java., Convert FODS to EXCEL in Java., FODS files to EXCEL Conversion in Java., Leverage intelligent data processing to automatically parse and save FODS into EXCEL format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -57,7 +57,7 @@ Follow the easy steps to convert FODS to EXCEL. Upload your FODS file, then simp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert FODS to EXCEL" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="fods" outformat="xlsx" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Sample Code to Convert FODS to EXCEL" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="fods" outformat="xlsx" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert FODS to EXCEL via Java" %}}
 

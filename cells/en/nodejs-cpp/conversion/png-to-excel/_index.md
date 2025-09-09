@@ -1,7 +1,7 @@
 ---
 title: Node.js PNG to EXCEL - PNG to EXCEL Converter
-description: Aspose Excel. Convert PNG to EXCEL quickly and easily with Aspose.Cells. Node.js PNG to EXCEL. Node.js Save PNG to EXCEL. Save PNG as EXCEL using Node.js.
-keywords: [Aspose Excel., Node.js Aspose.Cells., Convert PNG to EXCEL in Node.js., Save PNG to EXCEL using Node.js., Node.js PNG to EXCEL saveformat., PNG to EXCEL Converter., Node.js Save PNG as EXCEL]
+description: Aspose Excel. This comprehensive solution provides Node.js developers with a fully integrated approach to convert PNG to EXCEL format, enabling seamless saving of PNG data into EXCEL format using the Aspose.Cells library, all through efficient and customizable Node.js code.
+keywords: [Aspose Excel., Node.js Aspose.Cells., Smart PNG files to EXCEL Converter for Node.js., Convert PNG to EXCEL in Node.js., PNG files to EXCEL Conversion in Node.js., Leverage intelligent data processing to automatically parse and save PNG into EXCEL format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -28,7 +28,7 @@ Follow the easy steps to convert PNG to EXCEL. Upload your PNG file, then simply
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert PNG to EXCEL" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="png" outformat="xlsx" IsLandingPage="true" language="nodejscpp" %}}
+{{% cells-convert title="Sample Code to Convert PNG to EXCEL" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="png" outformat="xlsx" IsLandingPage="true" language="nodejscpp" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert PNG to EXCEL via Node.js" %}}
 

@@ -1,7 +1,7 @@
 ---
 title: Node.js JPG to EXCEL - JPG to EXCEL Converter
-description: Aspose Excel. Convert JPG to EXCEL quickly and easily with Aspose.Cells. Node.js JPG to EXCEL. Node.js Save JPG to EXCEL. Save JPG as EXCEL using Node.js.
-keywords: [Aspose Excel., Node.js Aspose.Cells., Convert JPG to EXCEL in Node.js., Save JPG to EXCEL using Node.js., Node.js JPG to EXCEL saveformat., JPG to EXCEL Converter., Node.js Save JPG as EXCEL]
+description: Aspose Excel. This comprehensive solution provides Node.js developers with a fully integrated approach to convert JPG to EXCEL format, enabling seamless saving of JPG data into EXCEL format using the Aspose.Cells library, all through efficient and customizable Node.js code.
+keywords: [Aspose Excel., Node.js Aspose.Cells., Smart JPG files to EXCEL Converter for Node.js., Convert JPG to EXCEL in Node.js., JPG files to EXCEL Conversion in Node.js., Leverage intelligent data processing to automatically parse and save JPG into EXCEL format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -28,7 +28,7 @@ Follow the easy steps to convert JPG to EXCEL. Upload your JPG file, then simply
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert JPG to EXCEL" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="jpg" outformat="xlsx" IsLandingPage="true" language="nodejscpp" %}}
+{{% cells-convert title="Sample Code to Convert JPG to EXCEL" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="jpg" outformat="xlsx" IsLandingPage="true" language="nodejscpp" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert JPG to EXCEL via Node.js" %}}
 

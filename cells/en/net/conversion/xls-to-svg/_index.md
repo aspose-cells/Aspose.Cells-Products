@@ -1,7 +1,7 @@
 ---
 title: C# XLS to SVG - XLS to SVG Converter
-description: Aspose Excel. Convert XLS to SVG quickly and easily with Aspose.Cells. C# XLS to SVG. C# Save XLS to SVG. Save XLS as SVG using C#.
-keywords: [Aspose Excel., C# Aspose.Cells., Convert XLS to SVG in C#., Save XLS to SVG using C#., C# XLS to SVG saveformat., XLS to SVG Converter., C# Save XLS as SVG]
+description: Aspose Excel. This comprehensive solution provides C# developers with a fully integrated approach to convert XLS to SVG format, enabling seamless saving of XLS data into SVG format using the Aspose.Cells library, all through efficient and customizable C# code.
+keywords: [Aspose Excel., C# Aspose.Cells., Smart XLS files to SVG Converter for C#., Convert XLS to SVG in C#., XLS files to SVG Conversion in C#., Leverage intelligent data processing to automatically parse and save XLS into SVG format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -36,7 +36,7 @@ Follow the easy steps to convert XLS to SVG. Upload your XLS file, then simply s
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert XLS to SVG" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xls" outformat="svg" IsLandingPage="true" %}}
+{{% cells-convert title="Sample Code to Convert XLS to SVG" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="xls" outformat="svg" IsLandingPage="true" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert XLS to SVG via C#" %}}
 

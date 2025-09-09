@@ -1,7 +1,7 @@
 ---
 title: PHP XLAM to XLS - XLAM to XLS Converter
-description: Aspose Excel. Convert XLAM to XLS quickly and easily with Aspose.Cells. PHP XLAM to XLS. PHP Save XLAM to XLS. Save XLAM as XLS using PHP.
-keywords: [Aspose Excel., PHP Aspose.Cells., Convert XLAM to XLS in PHP., Save XLAM to XLS using PHP., PHP XLAM to XLS saveformat., XLAM to XLS Converter., PHP Save XLAM as XLS]
+description: Aspose Excel. This comprehensive solution provides PHP developers with a fully integrated approach to convert XLAM to XLS format, enabling seamless saving of XLAM data into XLS format using the Aspose.Cells library, all through efficient and customizable PHP code.
+keywords: [Aspose Excel., PHP Aspose.Cells., Smart XLAM files to XLS Converter for PHP., Convert XLAM to XLS in PHP., XLAM files to XLS Conversion in PHP., Leverage intelligent data processing to automatically parse and save XLAM into XLS format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -28,7 +28,7 @@ Follow the easy steps to convert XLAM to XLS. Upload your XLAM file, then simply
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert XLAM to XLS" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlam" outformat="xls" IsLandingPage="true" language="phpjava" %}}
+{{% cells-convert title="Sample Code to Convert XLAM to XLS" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="xlam" outformat="xls" IsLandingPage="true" language="phpjava" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert XLAM to XLS via PHP" %}}
 

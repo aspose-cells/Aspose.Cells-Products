@@ -1,7 +1,7 @@
 ---
 title: Node.js ODS to POWERPOINT - ODS to POWERPOINT Converter
-description: Aspose Excel. Convert ODS to POWERPOINT quickly and easily with Aspose.Cells. Node.js ODS to POWERPOINT. Node.js Save ODS to POWERPOINT. Save ODS as POWERPOINT using Node.js.
-keywords: [Aspose Excel., Node.js Aspose.Cells., Convert ODS to POWERPOINT in Node.js., Save ODS to POWERPOINT using Node.js., Node.js ODS to POWERPOINT saveformat., ODS to POWERPOINT Converter., Node.js Save ODS as POWERPOINT]
+description: Aspose Excel. This comprehensive solution provides Node.js developers with a fully integrated approach to convert ODS to POWERPOINT format, enabling seamless saving of ODS data into POWERPOINT format using the Aspose.Cells library, all through efficient and customizable Node.js code.
+keywords: [Aspose Excel., Node.js Aspose.Cells., Smart ODS files to POWERPOINT Converter for Node.js., Convert ODS to POWERPOINT in Node.js., ODS files to POWERPOINT Conversion in Node.js., Leverage intelligent data processing to automatically parse and save ODS into POWERPOINT format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -28,7 +28,7 @@ Follow the easy steps to convert ODS to POWERPOINT. Upload your ODS file, then s
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert ODS to POWERPOINT" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="ods" outformat="pptx" IsLandingPage="true" language="nodejscpp" %}}
+{{% cells-convert title="Sample Code to Convert ODS to POWERPOINT" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="ods" outformat="pptx" IsLandingPage="true" language="nodejscpp" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert ODS to POWERPOINT via Node.js" %}}
 

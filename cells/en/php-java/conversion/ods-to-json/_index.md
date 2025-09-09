@@ -1,7 +1,7 @@
 ---
 title: PHP ODS to JSON - ODS to JSON Converter
-description: Aspose Excel. Convert ODS to JSON quickly and easily with Aspose.Cells. PHP ODS to JSON. PHP Save ODS to JSON. Save ODS as JSON using PHP.
-keywords: [Aspose Excel., PHP Aspose.Cells., Convert ODS to JSON in PHP., Save ODS to JSON using PHP., PHP ODS to JSON saveformat., ODS to JSON Converter., PHP Save ODS as JSON]
+description: Aspose Excel. This comprehensive solution provides PHP developers with a fully integrated approach to convert ODS to JSON format, enabling seamless saving of ODS data into JSON format using the Aspose.Cells library, all through efficient and customizable PHP code.
+keywords: [Aspose Excel., PHP Aspose.Cells., Smart ODS files to JSON Converter for PHP., Convert ODS to JSON in PHP., ODS files to JSON Conversion in PHP., Leverage intelligent data processing to automatically parse and save ODS into JSON format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -28,7 +28,7 @@ Follow the easy steps to convert ODS to JSON. Upload your ODS file, then simply 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert ODS to JSON" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="ods" outformat="json" IsLandingPage="true" language="phpjava" %}}
+{{% cells-convert title="Sample Code to Convert ODS to JSON" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="ods" outformat="json" IsLandingPage="true" language="phpjava" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert ODS to JSON via PHP" %}}
 

@@ -1,7 +1,7 @@
 ---
 title: Node.js IMAGE to OTS - IMAGE to OTS Converter
-description: Aspose Excel. Convert IMAGE to OTS quickly and easily with Aspose.Cells. Node.js IMAGE to OTS. Node.js Save IMAGE to OTS. Save IMAGE as OTS using Node.js.
-keywords: [Aspose Excel., Node.js Aspose.Cells., Convert IMAGE to OTS in Node.js., Save IMAGE to OTS using Node.js., Node.js IMAGE to OTS saveformat., IMAGE to OTS Converter., Node.js Save IMAGE as OTS]
+description: Aspose Excel. This comprehensive solution provides Node.js developers with a fully integrated approach to convert IMAGE to OTS format, enabling seamless saving of IMAGE data into OTS format using the Aspose.Cells library, all through efficient and customizable Node.js code.
+keywords: [Aspose Excel., Node.js Aspose.Cells., Smart IMAGE files to OTS Converter for Node.js., Convert IMAGE to OTS in Node.js., IMAGE files to OTS Conversion in Node.js., Leverage intelligent data processing to automatically parse and save IMAGE into OTS format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -28,7 +28,7 @@ Follow the easy steps to convert IMAGE to OTS. Upload your IMAGE file, then simp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert IMAGE to OTS" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="png" outformat="ots" IsLandingPage="true" language="nodejscpp" %}}
+{{% cells-convert title="Sample Code to Convert IMAGE to OTS" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="png" outformat="ots" IsLandingPage="true" language="nodejscpp" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert IMAGE to OTS via Node.js" %}}
 

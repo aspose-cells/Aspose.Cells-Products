@@ -1,7 +1,7 @@
 ---
 title: Node.js HTM to ETT - HTM to ETT Converter
-description: Aspose Excel. Convert HTM to ETT quickly and easily with Aspose.Cells. Node.js HTM to ETT. Node.js Save HTM to ETT. Save HTM as ETT using Node.js.
-keywords: [Aspose Excel., Node.js Aspose.Cells., Convert HTM to ETT in Node.js., Save HTM to ETT using Node.js., Node.js HTM to ETT saveformat., HTM to ETT Converter., Node.js Save HTM as ETT]
+description: Aspose Excel. This comprehensive solution provides Node.js developers with a fully integrated approach to convert HTM to ETT format, enabling seamless saving of HTM data into ETT format using the Aspose.Cells library, all through efficient and customizable Node.js code.
+keywords: [Aspose Excel., Node.js Aspose.Cells., Smart HTM files to ETT Converter for Node.js., Convert HTM to ETT in Node.js., HTM files to ETT Conversion in Node.js., Leverage intelligent data processing to automatically parse and save HTM into ETT format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -28,7 +28,7 @@ Follow the easy steps to convert HTM to ETT. Upload your HTM file, then simply s
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert HTM to ETT" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="htm" outformat="ett" IsLandingPage="true" language="nodejscpp" %}}
+{{% cells-convert title="Sample Code to Convert HTM to ETT" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="htm" outformat="ett" IsLandingPage="true" language="nodejscpp" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert HTM to ETT via Node.js" %}}
 

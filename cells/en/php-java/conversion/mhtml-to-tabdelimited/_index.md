@@ -1,7 +1,7 @@
 ---
 title: PHP MHTML to TABDELIMITED - MHTML to TABDELIMITED Converter
-description: Aspose Excel. Convert MHTML to TABDELIMITED quickly and easily with Aspose.Cells. PHP MHTML to TABDELIMITED. PHP Save MHTML to TABDELIMITED. Save MHTML as TABDELIMITED using PHP.
-keywords: [Aspose Excel., PHP Aspose.Cells., Convert MHTML to TABDELIMITED in PHP., Save MHTML to TABDELIMITED using PHP., PHP MHTML to TABDELIMITED saveformat., MHTML to TABDELIMITED Converter., PHP Save MHTML as TABDELIMITED]
+description: Aspose Excel. This comprehensive solution provides PHP developers with a fully integrated approach to convert MHTML to TABDELIMITED format, enabling seamless saving of MHTML data into TABDELIMITED format using the Aspose.Cells library, all through efficient and customizable PHP code.
+keywords: [Aspose Excel., PHP Aspose.Cells., Smart MHTML files to TABDELIMITED Converter for PHP., Convert MHTML to TABDELIMITED in PHP., MHTML files to TABDELIMITED Conversion in PHP., Leverage intelligent data processing to automatically parse and save MHTML into TABDELIMITED format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -28,7 +28,7 @@ Follow the easy steps to convert MHTML to TABDELIMITED. Upload your MHTML file, 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert MHTML to TABDELIMITED" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="mhtml" outformat="tsv" IsLandingPage="true" language="phpjava" %}}
+{{% cells-convert title="Sample Code to Convert MHTML to TABDELIMITED" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="mhtml" outformat="tsv" IsLandingPage="true" language="phpjava" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert MHTML to TABDELIMITED via PHP" %}}
 

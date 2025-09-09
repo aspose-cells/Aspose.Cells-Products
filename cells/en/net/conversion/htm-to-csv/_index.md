@@ -1,7 +1,7 @@
 ---
 title: C# HTM to CSV - HTM to CSV Converter
-description: Aspose Excel. Convert HTM to CSV quickly and easily with Aspose.Cells. C# HTM to CSV. C# Save HTM to CSV. Save HTM as CSV using C#.
-keywords: [Aspose Excel., C# Aspose.Cells., Convert HTM to CSV in C#., Save HTM to CSV using C#., C# HTM to CSV saveformat., HTM to CSV Converter., C# Save HTM as CSV]
+description: Aspose Excel. This comprehensive solution provides C# developers with a fully integrated approach to convert HTM to CSV format, enabling seamless saving of HTM data into CSV format using the Aspose.Cells library, all through efficient and customizable C# code.
+keywords: [Aspose Excel., C# Aspose.Cells., Smart HTM files to CSV Converter for C#., Convert HTM to CSV in C#., HTM files to CSV Conversion in C#., Leverage intelligent data processing to automatically parse and save HTM into CSV format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -36,7 +36,7 @@ Follow the easy steps to convert HTM to CSV. Upload your HTM file, then simply s
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert HTM to CSV" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="htm" outformat="csv" IsLandingPage="true" %}}
+{{% cells-convert title="Sample Code to Convert HTM to CSV" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="htm" outformat="csv" IsLandingPage="true" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert HTM to CSV via C#" %}}
 

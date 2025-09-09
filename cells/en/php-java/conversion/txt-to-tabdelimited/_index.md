@@ -1,7 +1,7 @@
 ---
 title: PHP TXT to TABDELIMITED - TXT to TABDELIMITED Converter
-description: Aspose Excel. Convert TXT to TABDELIMITED quickly and easily with Aspose.Cells. PHP TXT to TABDELIMITED. PHP Save TXT to TABDELIMITED. Save TXT as TABDELIMITED using PHP.
-keywords: [Aspose Excel., PHP Aspose.Cells., Convert TXT to TABDELIMITED in PHP., Save TXT to TABDELIMITED using PHP., PHP TXT to TABDELIMITED saveformat., TXT to TABDELIMITED Converter., PHP Save TXT as TABDELIMITED]
+description: Aspose Excel. This comprehensive solution provides PHP developers with a fully integrated approach to convert TXT to TABDELIMITED format, enabling seamless saving of TXT data into TABDELIMITED format using the Aspose.Cells library, all through efficient and customizable PHP code.
+keywords: [Aspose Excel., PHP Aspose.Cells., Smart TXT files to TABDELIMITED Converter for PHP., Convert TXT to TABDELIMITED in PHP., TXT files to TABDELIMITED Conversion in PHP., Leverage intelligent data processing to automatically parse and save TXT into TABDELIMITED format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -28,7 +28,7 @@ Follow the easy steps to convert TXT to TABDELIMITED. Upload your TXT file, then
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert TXT to TABDELIMITED" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="txt" outformat="tsv" IsLandingPage="true" language="phpjava" %}}
+{{% cells-convert title="Sample Code to Convert TXT to TABDELIMITED" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="txt" outformat="tsv" IsLandingPage="true" language="phpjava" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert TXT to TABDELIMITED via PHP" %}}
 

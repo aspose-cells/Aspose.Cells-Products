@@ -1,7 +1,7 @@
 ---
 title: Python XLSX to ET - XLSX to ET Converter
-description: Aspose Excel. Python Excel. Convert XLSX to ET quickly and easily with Aspose.Cells. Python XLSX to ET. Python Save XLSX to ET. Save XLSX as ET using Python Excel Library.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert XLSX to ET in Python Excel Library., Save XLSX to ET using Python Excel Library., Python XLSX to ET saveformat., XLSX to ET Converter., Python Save XLSX as ET]
+description: Aspose Excel. This comprehensive solution provides Python developers with a fully integrated approach to convert XLSX to ET format, enabling seamless saving of XLSX data into ET format using the Aspose.Cells library, all through efficient and customizable Python code.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart XLSX files to ET Converter for Python., Convert XLSX to ET in Python., XLSX files to ET Conversion in Python., Leverage intelligent data processing to automatically parse and save XLSX into ET format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -28,7 +28,7 @@ Follow the easy steps to convert XLSX to ET. Upload your XLSX file, then simply 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert XLSX to ET via Python Excel Library" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsx" outformat="et" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="Sample Code to Convert XLSX to ET via Python Excel Library" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="xlsx" outformat="et" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert XLSX to ET via Python" %}}
 

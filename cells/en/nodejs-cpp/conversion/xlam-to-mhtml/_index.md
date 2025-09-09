@@ -1,7 +1,7 @@
 ---
 title: Node.js XLAM to MHTML - XLAM to MHTML Converter
-description: Aspose Excel. Convert XLAM to MHTML quickly and easily with Aspose.Cells. Node.js XLAM to MHTML. Node.js Save XLAM to MHTML. Save XLAM as MHTML using Node.js.
-keywords: [Aspose Excel., Node.js Aspose.Cells., Convert XLAM to MHTML in Node.js., Save XLAM to MHTML using Node.js., Node.js XLAM to MHTML saveformat., XLAM to MHTML Converter., Node.js Save XLAM as MHTML]
+description: Aspose Excel. This comprehensive solution provides Node.js developers with a fully integrated approach to convert XLAM to MHTML format, enabling seamless saving of XLAM data into MHTML format using the Aspose.Cells library, all through efficient and customizable Node.js code.
+keywords: [Aspose Excel., Node.js Aspose.Cells., Smart XLAM files to MHTML Converter for Node.js., Convert XLAM to MHTML in Node.js., XLAM files to MHTML Conversion in Node.js., Leverage intelligent data processing to automatically parse and save XLAM into MHTML format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -28,7 +28,7 @@ Follow the easy steps to convert XLAM to MHTML. Upload your XLAM file, then simp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert XLAM to MHTML" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlam" outformat="mhtml" IsLandingPage="true" language="nodejscpp" %}}
+{{% cells-convert title="Sample Code to Convert XLAM to MHTML" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="xlam" outformat="mhtml" IsLandingPage="true" language="nodejscpp" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert XLAM to MHTML via Node.js" %}}
 

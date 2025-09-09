@@ -1,7 +1,7 @@
 ---
 title: C# MHT to CSV - MHT to CSV Converter
-description: Aspose Excel. Convert MHT to CSV quickly and easily with Aspose.Cells. C# MHT to CSV. C# Save MHT to CSV. Save MHT as CSV using C#.
-keywords: [Aspose Excel., C# Aspose.Cells., Convert MHT to CSV in C#., Save MHT to CSV using C#., C# MHT to CSV saveformat., MHT to CSV Converter., C# Save MHT as CSV]
+description: Aspose Excel. This comprehensive solution provides C# developers with a fully integrated approach to convert MHT to CSV format, enabling seamless saving of MHT data into CSV format using the Aspose.Cells library, all through efficient and customizable C# code.
+keywords: [Aspose Excel., C# Aspose.Cells., Smart MHT files to CSV Converter for C#., Convert MHT to CSV in C#., MHT files to CSV Conversion in C#., Leverage intelligent data processing to automatically parse and save MHT into CSV format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -36,7 +36,7 @@ Follow the easy steps to convert MHT to CSV. Upload your MHT file, then simply s
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert MHT to CSV" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="mht" outformat="csv" IsLandingPage="true" %}}
+{{% cells-convert title="Sample Code to Convert MHT to CSV" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="mht" outformat="csv" IsLandingPage="true" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert MHT to CSV via C#" %}}
 

@@ -1,7 +1,7 @@
 ---
 title: Python JPG to XLSX - JPG to XLSX Converter
-description: Aspose Excel. Python Excel. Convert JPG to XLSX quickly and easily with Aspose.Cells. Python JPG to XLSX. Python Save JPG to XLSX. Save JPG as XLSX using Python Excel Library.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert JPG to XLSX in Python Excel Library., Save JPG to XLSX using Python Excel Library., Python JPG to XLSX saveformat., JPG to XLSX Converter., Python Save JPG as XLSX]
+description: Aspose Excel. This comprehensive solution provides Python developers with a fully integrated approach to convert JPG to XLSX format, enabling seamless saving of JPG data into XLSX format using the Aspose.Cells library, all through efficient and customizable Python code.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart JPG files to XLSX Converter for Python., Convert JPG to XLSX in Python., JPG files to XLSX Conversion in Python., Leverage intelligent data processing to automatically parse and save JPG into XLSX format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -29,7 +29,7 @@ Follow the easy steps to convert JPG to XLSX. Upload your JPG file, then simply 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert JPG to XLSX via Python Excel Library" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="jpg" outformat="xlsx" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Sample Code to Convert JPG to XLSX via Python Excel Library" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="jpg" outformat="xlsx" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert JPG to XLSX" %}}
 

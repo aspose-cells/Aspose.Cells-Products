@@ -1,7 +1,7 @@
 ---
 title: PHP TXT to TXT - TXT to TXT Converter
-description: Aspose Excel. Convert TXT to TXT quickly and easily with Aspose.Cells. PHP TXT to TXT. PHP Save TXT to TXT. Save TXT as TXT using PHP.
-keywords: [Aspose Excel., PHP Aspose.Cells., Convert TXT to TXT in PHP., Save TXT to TXT using PHP., PHP TXT to TXT saveformat., TXT to TXT Converter., PHP Save TXT as TXT]
+description: Aspose Excel. This comprehensive solution provides PHP developers with a fully integrated approach to convert TXT to TXT format, enabling seamless saving of TXT data into TXT format using the Aspose.Cells library, all through efficient and customizable PHP code.
+keywords: [Aspose Excel., PHP Aspose.Cells., Smart TXT files to TXT Converter for PHP., Convert TXT to TXT in PHP., TXT files to TXT Conversion in PHP., Leverage intelligent data processing to automatically parse and save TXT into TXT format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -28,7 +28,7 @@ Follow the easy steps to convert TXT to TXT. Upload your TXT file, then simply s
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert TXT to TXT" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="txt" outformat="txt" IsLandingPage="true" language="phpjava" %}}
+{{% cells-convert title="Sample Code to Convert TXT to TXT" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="txt" outformat="txt" IsLandingPage="true" language="phpjava" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert TXT to TXT via PHP" %}}
 

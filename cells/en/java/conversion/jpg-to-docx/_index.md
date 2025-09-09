@@ -1,7 +1,7 @@
 ---
 title: Java JPG to DOCX - JPG to DOCX Converter
-description: Aspose Excel. Convert JPG to DOCX quickly and easily with Aspose.Cells. Java JPG to DOCX. Java Save JPG to DOCX. Save JPG as DOCX using Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Convert JPG to DOCX in Java., Save JPG to DOCX using Java., Java JPG to DOCX saveformat., JPG to DOCX Converter., Java Save JPG as DOCX]
+description: Aspose Excel. This comprehensive solution provides Java developers with a fully integrated approach to convert JPG to DOCX format, enabling seamless saving of JPG data into DOCX format using the Aspose.Cells library, all through efficient and customizable Java code.
+keywords: [Aspose Excel., Java Aspose.Cells., Smart JPG files to DOCX Converter for Java., Convert JPG to DOCX in Java., JPG files to DOCX Conversion in Java., Leverage intelligent data processing to automatically parse and save JPG into DOCX format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -57,7 +57,7 @@ Follow the easy steps to convert JPG to DOCX. Upload your JPG file, then simply 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert JPG to DOCX" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="jpg" outformat="docx" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Sample Code to Convert JPG to DOCX" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="jpg" outformat="docx" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert JPG to DOCX via Java" %}}
 

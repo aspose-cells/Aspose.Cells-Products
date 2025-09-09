@@ -1,7 +1,7 @@
 ---
 title: PHP SXC to IMAGE - SXC to IMAGE Converter
-description: Aspose Excel. Convert SXC to IMAGE quickly and easily with Aspose.Cells. PHP SXC to IMAGE. PHP Save SXC to IMAGE. Save SXC as IMAGE using PHP.
-keywords: [Aspose Excel., PHP Aspose.Cells., Convert SXC to IMAGE in PHP., Save SXC to IMAGE using PHP., PHP SXC to IMAGE saveformat., SXC to IMAGE Converter., PHP Save SXC as IMAGE]
+description: Aspose Excel. This comprehensive solution provides PHP developers with a fully integrated approach to convert SXC to IMAGE format, enabling seamless saving of SXC data into IMAGE format using the Aspose.Cells library, all through efficient and customizable PHP code.
+keywords: [Aspose Excel., PHP Aspose.Cells., Smart SXC files to IMAGE Converter for PHP., Convert SXC to IMAGE in PHP., SXC files to IMAGE Conversion in PHP., Leverage intelligent data processing to automatically parse and save SXC into IMAGE format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -28,7 +28,7 @@ Follow the easy steps to convert SXC to IMAGE. Upload your SXC file, then simply
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert SXC to IMAGE" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="sxc" outformat="png" IsLandingPage="true" language="phpjava" %}}
+{{% cells-convert title="Sample Code to Convert SXC to IMAGE" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="sxc" outformat="png" IsLandingPage="true" language="phpjava" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert SXC to IMAGE via PHP" %}}
 

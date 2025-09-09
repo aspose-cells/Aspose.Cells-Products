@@ -1,7 +1,7 @@
 ---
 title: C# NUMBERS to MHTML - NUMBERS to MHTML Converter
-description: Aspose Excel. Convert NUMBERS to MHTML quickly and easily with Aspose.Cells. C# NUMBERS to MHTML. C# Save NUMBERS to MHTML. Save NUMBERS as MHTML using C#.
-keywords: [Aspose Excel., C# Aspose.Cells., Convert NUMBERS to MHTML in C#., Save NUMBERS to MHTML using C#., C# NUMBERS to MHTML saveformat., NUMBERS to MHTML Converter., C# Save NUMBERS as MHTML]
+description: Aspose Excel. This comprehensive solution provides C# developers with a fully integrated approach to convert NUMBERS to MHTML format, enabling seamless saving of NUMBERS data into MHTML format using the Aspose.Cells library, all through efficient and customizable C# code.
+keywords: [Aspose Excel., C# Aspose.Cells., Smart NUMBERS files to MHTML Converter for C#., Convert NUMBERS to MHTML in C#., NUMBERS files to MHTML Conversion in C#., Leverage intelligent data processing to automatically parse and save NUMBERS into MHTML format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -36,7 +36,7 @@ Follow the easy steps to convert NUMBERS to MHTML. Upload your NUMBERS file, the
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert NUMBERS to MHTML" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="numbers" outformat="mhtml" IsLandingPage="true" %}}
+{{% cells-convert title="Sample Code to Convert NUMBERS to MHTML" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="numbers" outformat="mhtml" IsLandingPage="true" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert NUMBERS to MHTML via C#" %}}
 

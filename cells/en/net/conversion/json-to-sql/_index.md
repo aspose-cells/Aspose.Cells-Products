@@ -1,7 +1,7 @@
 ---
 title: C# JSON to SQL - JSON to SQL Converter
-description: Aspose Excel. Convert JSON to SQL quickly and easily with Aspose.Cells. C# JSON to SQL. C# Save JSON to SQL. Save JSON as SQL using C#.
-keywords: [Aspose Excel., C# Aspose.Cells., Convert JSON to SQL in C#., Save JSON to SQL using C#., C# JSON to SQL saveformat., JSON to SQL Converter., C# Save JSON as SQL]
+description: Aspose Excel. This comprehensive solution provides C# developers with a fully integrated approach to convert JSON to SQL format, enabling seamless saving of JSON data into SQL format using the Aspose.Cells library, all through efficient and customizable C# code.
+keywords: [Aspose Excel., C# Aspose.Cells., Smart JSON files to SQL Converter for C#., Convert JSON to SQL in C#., JSON files to SQL Conversion in C#., Leverage intelligent data processing to automatically parse and save JSON into SQL format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -36,7 +36,7 @@ Follow the easy steps to convert JSON to SQL. Upload your JSON file, then simply
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert JSON to SQL" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="json" outformat="sql" IsLandingPage="true" %}}
+{{% cells-convert title="Sample Code to Convert JSON to SQL" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="json" outformat="sql" IsLandingPage="true" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert JSON to SQL via C#" %}}
 

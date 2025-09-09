@@ -1,7 +1,7 @@
 ---
 title: PHP DBF to HTM - DBF to HTM Converter
-description: Aspose Excel. Convert DBF to HTM quickly and easily with Aspose.Cells. PHP DBF to HTM. PHP Save DBF to HTM. Save DBF as HTM using PHP.
-keywords: [Aspose Excel., PHP Aspose.Cells., Convert DBF to HTM in PHP., Save DBF to HTM using PHP., PHP DBF to HTM saveformat., DBF to HTM Converter., PHP Save DBF as HTM]
+description: Aspose Excel. This comprehensive solution provides PHP developers with a fully integrated approach to convert DBF to HTM format, enabling seamless saving of DBF data into HTM format using the Aspose.Cells library, all through efficient and customizable PHP code.
+keywords: [Aspose Excel., PHP Aspose.Cells., Smart DBF files to HTM Converter for PHP., Convert DBF to HTM in PHP., DBF files to HTM Conversion in PHP., Leverage intelligent data processing to automatically parse and save DBF into HTM format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -28,7 +28,7 @@ Follow the easy steps to convert DBF to HTM. Upload your DBF file, then simply s
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert DBF to HTM" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="dbf" outformat="htm" IsLandingPage="true" language="phpjava" %}}
+{{% cells-convert title="Sample Code to Convert DBF to HTM" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="dbf" outformat="htm" IsLandingPage="true" language="phpjava" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert DBF to HTM via PHP" %}}
 

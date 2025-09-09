@@ -1,7 +1,7 @@
 ---
 title: PHP NUMBERS to XLSB - NUMBERS to XLSB Converter
-description: Aspose Excel. Convert NUMBERS to XLSB quickly and easily with Aspose.Cells. PHP NUMBERS to XLSB. PHP Save NUMBERS to XLSB. Save NUMBERS as XLSB using PHP.
-keywords: [Aspose Excel., PHP Aspose.Cells., Convert NUMBERS to XLSB in PHP., Save NUMBERS to XLSB using PHP., PHP NUMBERS to XLSB saveformat., NUMBERS to XLSB Converter., PHP Save NUMBERS as XLSB]
+description: Aspose Excel. This comprehensive solution provides PHP developers with a fully integrated approach to convert NUMBERS to XLSB format, enabling seamless saving of NUMBERS data into XLSB format using the Aspose.Cells library, all through efficient and customizable PHP code.
+keywords: [Aspose Excel., PHP Aspose.Cells., Smart NUMBERS files to XLSB Converter for PHP., Convert NUMBERS to XLSB in PHP., NUMBERS files to XLSB Conversion in PHP., Leverage intelligent data processing to automatically parse and save NUMBERS into XLSB format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -28,7 +28,7 @@ Follow the easy steps to convert NUMBERS to XLSB. Upload your NUMBERS file, then
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert NUMBERS to XLSB" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="numbers" outformat="xlsb" IsLandingPage="true" language="phpjava" %}}
+{{% cells-convert title="Sample Code to Convert NUMBERS to XLSB" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="numbers" outformat="xlsb" IsLandingPage="true" language="phpjava" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert NUMBERS to XLSB via PHP" %}}
 

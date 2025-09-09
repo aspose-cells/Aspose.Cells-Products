@@ -1,7 +1,7 @@
 ---
 title: Node.js HTM to GIF - HTM to GIF Converter
-description: Aspose Excel. Convert HTM to GIF quickly and easily with Aspose.Cells. Node.js HTM to GIF. Node.js Save HTM to GIF. Save HTM as GIF using Node.js.
-keywords: [Aspose Excel., Node.js Aspose.Cells., Convert HTM to GIF in Node.js., Save HTM to GIF using Node.js., Node.js HTM to GIF saveformat., HTM to GIF Converter., Node.js Save HTM as GIF]
+description: Aspose Excel. This comprehensive solution provides Node.js developers with a fully integrated approach to convert HTM to GIF format, enabling seamless saving of HTM data into GIF format using the Aspose.Cells library, all through efficient and customizable Node.js code.
+keywords: [Aspose Excel., Node.js Aspose.Cells., Smart HTM files to GIF Converter for Node.js., Convert HTM to GIF in Node.js., HTM files to GIF Conversion in Node.js., Leverage intelligent data processing to automatically parse and save HTM into GIF format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -28,7 +28,7 @@ Follow the easy steps to convert HTM to GIF. Upload your HTM file, then simply s
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert HTM to GIF" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="htm" outformat="gif" IsLandingPage="true" language="nodejscpp" %}}
+{{% cells-convert title="Sample Code to Convert HTM to GIF" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="htm" outformat="gif" IsLandingPage="true" language="nodejscpp" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert HTM to GIF via Node.js" %}}
 

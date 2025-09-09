@@ -1,7 +1,7 @@
 ---
 title: PHP JPEG to IMAGE - JPEG to IMAGE Converter
-description: Aspose Excel. Convert JPEG to IMAGE quickly and easily with Aspose.Cells. PHP JPEG to IMAGE. PHP Save JPEG to IMAGE. Save JPEG as IMAGE using PHP.
-keywords: [Aspose Excel., PHP Aspose.Cells., Convert JPEG to IMAGE in PHP., Save JPEG to IMAGE using PHP., PHP JPEG to IMAGE saveformat., JPEG to IMAGE Converter., PHP Save JPEG as IMAGE]
+description: Aspose Excel. This comprehensive solution provides PHP developers with a fully integrated approach to convert JPEG to IMAGE format, enabling seamless saving of JPEG data into IMAGE format using the Aspose.Cells library, all through efficient and customizable PHP code.
+keywords: [Aspose Excel., PHP Aspose.Cells., Smart JPEG files to IMAGE Converter for PHP., Convert JPEG to IMAGE in PHP., JPEG files to IMAGE Conversion in PHP., Leverage intelligent data processing to automatically parse and save JPEG into IMAGE format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -28,7 +28,7 @@ Follow the easy steps to convert JPEG to IMAGE. Upload your JPEG file, then simp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert JPEG to IMAGE" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="jpg" outformat="png" IsLandingPage="true" language="phpjava" %}}
+{{% cells-convert title="Sample Code to Convert JPEG to IMAGE" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="jpg" outformat="png" IsLandingPage="true" language="phpjava" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert JPEG to IMAGE via PHP" %}}
 

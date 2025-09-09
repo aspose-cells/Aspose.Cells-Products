@@ -1,7 +1,7 @@
 ---
 title: Java TXT to XML - TXT to XML Converter
-description: Aspose Excel. Convert TXT to XML quickly and easily with Aspose.Cells. Java TXT to XML. Java Save TXT to XML. Save TXT as XML using Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Convert TXT to XML in Java., Save TXT to XML using Java., Java TXT to XML saveformat., TXT to XML Converter., Java Save TXT as XML]
+description: Aspose Excel. This comprehensive solution provides Java developers with a fully integrated approach to convert TXT to XML format, enabling seamless saving of TXT data into XML format using the Aspose.Cells library, all through efficient and customizable Java code.
+keywords: [Aspose Excel., Java Aspose.Cells., Smart TXT files to XML Converter for Java., Convert TXT to XML in Java., TXT files to XML Conversion in Java., Leverage intelligent data processing to automatically parse and save TXT into XML format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -57,7 +57,7 @@ Follow the easy steps to convert TXT to XML. Upload your TXT file, then simply s
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert TXT to XML" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="txt" outformat="xml" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Sample Code to Convert TXT to XML" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="txt" outformat="xml" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert TXT to XML via Java" %}}
 

@@ -1,7 +1,7 @@
 ---
 title: Node.js JSON to MHT - JSON to MHT Converter
-description: Aspose Excel. Convert JSON to MHT quickly and easily with Aspose.Cells. Node.js JSON to MHT. Node.js Save JSON to MHT. Save JSON as MHT using Node.js.
-keywords: [Aspose Excel., Node.js Aspose.Cells., Convert JSON to MHT in Node.js., Save JSON to MHT using Node.js., Node.js JSON to MHT saveformat., JSON to MHT Converter., Node.js Save JSON as MHT]
+description: Aspose Excel. This comprehensive solution provides Node.js developers with a fully integrated approach to convert JSON to MHT format, enabling seamless saving of JSON data into MHT format using the Aspose.Cells library, all through efficient and customizable Node.js code.
+keywords: [Aspose Excel., Node.js Aspose.Cells., Smart JSON files to MHT Converter for Node.js., Convert JSON to MHT in Node.js., JSON files to MHT Conversion in Node.js., Leverage intelligent data processing to automatically parse and save JSON into MHT format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -28,7 +28,7 @@ Follow the easy steps to convert JSON to MHT. Upload your JSON file, then simply
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert JSON to MHT" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="json" outformat="mht" IsLandingPage="true" language="nodejscpp" %}}
+{{% cells-convert title="Sample Code to Convert JSON to MHT" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="json" outformat="mht" IsLandingPage="true" language="nodejscpp" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert JSON to MHT via Node.js" %}}
 

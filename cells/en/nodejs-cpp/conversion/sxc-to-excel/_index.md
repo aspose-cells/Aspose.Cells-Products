@@ -1,7 +1,7 @@
 ---
 title: Node.js SXC to EXCEL - SXC to EXCEL Converter
-description: Aspose Excel. Convert SXC to EXCEL quickly and easily with Aspose.Cells. Node.js SXC to EXCEL. Node.js Save SXC to EXCEL. Save SXC as EXCEL using Node.js.
-keywords: [Aspose Excel., Node.js Aspose.Cells., Convert SXC to EXCEL in Node.js., Save SXC to EXCEL using Node.js., Node.js SXC to EXCEL saveformat., SXC to EXCEL Converter., Node.js Save SXC as EXCEL]
+description: Aspose Excel. This comprehensive solution provides Node.js developers with a fully integrated approach to convert SXC to EXCEL format, enabling seamless saving of SXC data into EXCEL format using the Aspose.Cells library, all through efficient and customizable Node.js code.
+keywords: [Aspose Excel., Node.js Aspose.Cells., Smart SXC files to EXCEL Converter for Node.js., Convert SXC to EXCEL in Node.js., SXC files to EXCEL Conversion in Node.js., Leverage intelligent data processing to automatically parse and save SXC into EXCEL format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -28,7 +28,7 @@ Follow the easy steps to convert SXC to EXCEL. Upload your SXC file, then simply
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert SXC to EXCEL" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="sxc" outformat="xlsx" IsLandingPage="true" language="nodejscpp" %}}
+{{% cells-convert title="Sample Code to Convert SXC to EXCEL" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="sxc" outformat="xlsx" IsLandingPage="true" language="nodejscpp" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert SXC to EXCEL via Node.js" %}}
 

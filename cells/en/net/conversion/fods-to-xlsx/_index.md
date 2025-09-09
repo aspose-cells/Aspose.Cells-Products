@@ -1,7 +1,7 @@
 ---
 title: C# FODS to XLSX - FODS to XLSX Converter
-description: Aspose Excel. Convert FODS to XLSX quickly and easily with Aspose.Cells. C# FODS to XLSX. C# Save FODS to XLSX. Save FODS as XLSX using C#.
-keywords: [Aspose Excel., C# Aspose.Cells., Convert FODS to XLSX in C#., Save FODS to XLSX using C#., C# FODS to XLSX saveformat., FODS to XLSX Converter., C# Save FODS as XLSX]
+description: Aspose Excel. This comprehensive solution provides C# developers with a fully integrated approach to convert FODS to XLSX format, enabling seamless saving of FODS data into XLSX format using the Aspose.Cells library, all through efficient and customizable C# code.
+keywords: [Aspose Excel., C# Aspose.Cells., Smart FODS files to XLSX Converter for C#., Convert FODS to XLSX in C#., FODS files to XLSX Conversion in C#., Leverage intelligent data processing to automatically parse and save FODS into XLSX format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -36,7 +36,7 @@ Follow the easy steps to convert FODS to XLSX. Upload your FODS file, then simpl
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert FODS to XLSX" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="fods" outformat="xlsx" IsLandingPage="true" %}}
+{{% cells-convert title="Sample Code to Convert FODS to XLSX" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="fods" outformat="xlsx" IsLandingPage="true" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert FODS to XLSX via C#" %}}
 

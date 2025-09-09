@@ -1,7 +1,7 @@
 ---
 title: Python HTML to XLS - HTML to XLS Converter
-description: Aspose Excel. Python Excel. Convert HTML to XLS quickly and easily with Aspose.Cells. Python HTML to XLS. Python Save HTML to XLS. Save HTML as XLS using Python Excel Library.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert HTML to XLS in Python Excel Library., Save HTML to XLS using Python Excel Library., Python HTML to XLS saveformat., HTML to XLS Converter., Python Save HTML as XLS]
+description: Aspose Excel. This comprehensive solution provides Python developers with a fully integrated approach to convert HTML to XLS format, enabling seamless saving of HTML data into XLS format using the Aspose.Cells library, all through efficient and customizable Python code.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart HTML files to XLS Converter for Python., Convert HTML to XLS in Python., HTML files to XLS Conversion in Python., Leverage intelligent data processing to automatically parse and save HTML into XLS format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -28,7 +28,7 @@ Follow the easy steps to convert HTML to XLS. Upload your HTML file, then simply
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert HTML to XLS via Python Excel Library" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="html" outformat="xls" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="Sample Code to Convert HTML to XLS via Python Excel Library" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="html" outformat="xls" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert HTML to XLS via Python" %}}
 

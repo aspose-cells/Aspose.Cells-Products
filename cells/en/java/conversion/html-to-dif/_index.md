@@ -1,7 +1,7 @@
 ---
 title: Java HTML to DIF - HTML to DIF Converter
-description: Aspose Excel. Convert HTML to DIF quickly and easily with Aspose.Cells. Java HTML to DIF. Java Save HTML to DIF. Save HTML as DIF using Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Convert HTML to DIF in Java., Save HTML to DIF using Java., Java HTML to DIF saveformat., HTML to DIF Converter., Java Save HTML as DIF]
+description: Aspose Excel. This comprehensive solution provides Java developers with a fully integrated approach to convert HTML to DIF format, enabling seamless saving of HTML data into DIF format using the Aspose.Cells library, all through efficient and customizable Java code.
+keywords: [Aspose Excel., Java Aspose.Cells., Smart HTML files to DIF Converter for Java., Convert HTML to DIF in Java., HTML files to DIF Conversion in Java., Leverage intelligent data processing to automatically parse and save HTML into DIF format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -57,7 +57,7 @@ Follow the easy steps to convert HTML to DIF. Upload your HTML file, then simply
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert HTML to DIF" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="html" outformat="dif" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Sample Code to Convert HTML to DIF" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="html" outformat="dif" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert HTML to DIF via Java" %}}
 

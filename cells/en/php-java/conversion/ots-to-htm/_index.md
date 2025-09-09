@@ -1,7 +1,7 @@
 ---
 title: PHP OTS to HTM - OTS to HTM Converter
-description: Aspose Excel. Convert OTS to HTM quickly and easily with Aspose.Cells. PHP OTS to HTM. PHP Save OTS to HTM. Save OTS as HTM using PHP.
-keywords: [Aspose Excel., PHP Aspose.Cells., Convert OTS to HTM in PHP., Save OTS to HTM using PHP., PHP OTS to HTM saveformat., OTS to HTM Converter., PHP Save OTS as HTM]
+description: Aspose Excel. This comprehensive solution provides PHP developers with a fully integrated approach to convert OTS to HTM format, enabling seamless saving of OTS data into HTM format using the Aspose.Cells library, all through efficient and customizable PHP code.
+keywords: [Aspose Excel., PHP Aspose.Cells., Smart OTS files to HTM Converter for PHP., Convert OTS to HTM in PHP., OTS files to HTM Conversion in PHP., Leverage intelligent data processing to automatically parse and save OTS into HTM format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -28,7 +28,7 @@ Follow the easy steps to convert OTS to HTM. Upload your OTS file, then simply s
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert OTS to HTM" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="ots" outformat="htm" IsLandingPage="true" language="phpjava" %}}
+{{% cells-convert title="Sample Code to Convert OTS to HTM" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="ots" outformat="htm" IsLandingPage="true" language="phpjava" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert OTS to HTM via PHP" %}}
 

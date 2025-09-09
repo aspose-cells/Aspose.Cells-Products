@@ -1,7 +1,7 @@
 ---
 title: C# OTS to DOCX - OTS to DOCX Converter
-description: Aspose Excel. Convert OTS to DOCX quickly and easily with Aspose.Cells. C# OTS to DOCX. C# Save OTS to DOCX. Save OTS as DOCX using C#.
-keywords: [Aspose Excel., C# Aspose.Cells., Convert OTS to DOCX in C#., Save OTS to DOCX using C#., C# OTS to DOCX saveformat., OTS to DOCX Converter., C# Save OTS as DOCX]
+description: Aspose Excel. This comprehensive solution provides C# developers with a fully integrated approach to convert OTS to DOCX format, enabling seamless saving of OTS data into DOCX format using the Aspose.Cells library, all through efficient and customizable C# code.
+keywords: [Aspose Excel., C# Aspose.Cells., Smart OTS files to DOCX Converter for C#., Convert OTS to DOCX in C#., OTS files to DOCX Conversion in C#., Leverage intelligent data processing to automatically parse and save OTS into DOCX format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -36,7 +36,7 @@ Follow the easy steps to convert OTS to DOCX. Upload your OTS file, then simply 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert OTS to DOCX" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="ots" outformat="docx" IsLandingPage="true" %}}
+{{% cells-convert title="Sample Code to Convert OTS to DOCX" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="ots" outformat="docx" IsLandingPage="true" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert OTS to DOCX via C#" %}}
 

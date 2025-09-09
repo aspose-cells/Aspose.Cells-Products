@@ -1,7 +1,7 @@
 ---
 title: Node.js IMAGE to DIF - IMAGE to DIF Converter
-description: Aspose Excel. Convert IMAGE to DIF quickly and easily with Aspose.Cells. Node.js IMAGE to DIF. Node.js Save IMAGE to DIF. Save IMAGE as DIF using Node.js.
-keywords: [Aspose Excel., Node.js Aspose.Cells., Convert IMAGE to DIF in Node.js., Save IMAGE to DIF using Node.js., Node.js IMAGE to DIF saveformat., IMAGE to DIF Converter., Node.js Save IMAGE as DIF]
+description: Aspose Excel. This comprehensive solution provides Node.js developers with a fully integrated approach to convert IMAGE to DIF format, enabling seamless saving of IMAGE data into DIF format using the Aspose.Cells library, all through efficient and customizable Node.js code.
+keywords: [Aspose Excel., Node.js Aspose.Cells., Smart IMAGE files to DIF Converter for Node.js., Convert IMAGE to DIF in Node.js., IMAGE files to DIF Conversion in Node.js., Leverage intelligent data processing to automatically parse and save IMAGE into DIF format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -28,7 +28,7 @@ Follow the easy steps to convert IMAGE to DIF. Upload your IMAGE file, then simp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert IMAGE to DIF" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="png" outformat="dif" IsLandingPage="true" language="nodejscpp" %}}
+{{% cells-convert title="Sample Code to Convert IMAGE to DIF" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="png" outformat="dif" IsLandingPage="true" language="nodejscpp" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert IMAGE to DIF via Node.js" %}}
 

@@ -1,7 +1,7 @@
 ---
 title: Java PNG to TIFF - PNG to TIFF Converter
-description: Aspose Excel. Convert PNG to TIFF quickly and easily with Aspose.Cells. Java PNG to TIFF. Java Save PNG to TIFF. Save PNG as TIFF using Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Convert PNG to TIFF in Java., Save PNG to TIFF using Java., Java PNG to TIFF saveformat., PNG to TIFF Converter., Java Save PNG as TIFF]
+description: Aspose Excel. This comprehensive solution provides Java developers with a fully integrated approach to convert PNG to TIFF format, enabling seamless saving of PNG data into TIFF format using the Aspose.Cells library, all through efficient and customizable Java code.
+keywords: [Aspose Excel., Java Aspose.Cells., Smart PNG files to TIFF Converter for Java., Convert PNG to TIFF in Java., PNG files to TIFF Conversion in Java., Leverage intelligent data processing to automatically parse and save PNG into TIFF format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -57,7 +57,7 @@ Follow the easy steps to convert PNG to TIFF. Upload your PNG file, then simply 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert PNG to TIFF" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="png" outformat="tiff" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Sample Code to Convert PNG to TIFF" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="png" outformat="tiff" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert PNG to TIFF via Java" %}}
 

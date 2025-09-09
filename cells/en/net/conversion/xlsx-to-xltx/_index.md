@@ -1,7 +1,7 @@
 ---
 title: C# XLSX to XLTX - XLSX to XLTX Converter
-description: Aspose Excel. Convert XLSX to XLTX quickly and easily with Aspose.Cells. C# XLSX to XLTX. C# Save XLSX to XLTX. Save XLSX as XLTX using C#.
-keywords: [Aspose Excel., C# Aspose.Cells., Convert XLSX to XLTX in C#., Save XLSX to XLTX using C#., C# XLSX to XLTX saveformat., XLSX to XLTX Converter., C# Save XLSX as XLTX]
+description: Aspose Excel. This comprehensive solution provides C# developers with a fully integrated approach to convert XLSX to XLTX format, enabling seamless saving of XLSX data into XLTX format using the Aspose.Cells library, all through efficient and customizable C# code.
+keywords: [Aspose Excel., C# Aspose.Cells., Smart XLSX files to XLTX Converter for C#., Convert XLSX to XLTX in C#., XLSX files to XLTX Conversion in C#., Leverage intelligent data processing to automatically parse and save XLSX into XLTX format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -36,7 +36,7 @@ Follow the easy steps to convert XLSX to XLTX. Upload your XLSX file, then simpl
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert XLSX to XLTX" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsx" outformat="xltx" IsLandingPage="true" %}}
+{{% cells-convert title="Sample Code to Convert XLSX to XLTX" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="xlsx" outformat="xltx" IsLandingPage="true" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert XLSX to XLTX via C#" %}}
 

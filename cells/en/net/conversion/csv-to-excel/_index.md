@@ -1,7 +1,7 @@
 ---
 title: C# CSV to EXCEL - CSV to EXCEL Converter
-description: Aspose Excel. Convert CSV to EXCEL quickly and easily with Aspose.Cells. C# CSV to EXCEL. C# Save CSV to EXCEL. Save CSV as EXCEL using C#.
-keywords: [Aspose Excel., C# Aspose.Cells., Convert CSV to EXCEL in C#., Save CSV to EXCEL using C#., C# CSV to EXCEL saveformat., CSV to EXCEL Converter., C# Save CSV as EXCEL]
+description: Aspose Excel. This comprehensive solution provides C# developers with a fully integrated approach to convert CSV to EXCEL format, enabling seamless saving of CSV data into EXCEL format using the Aspose.Cells library, all through efficient and customizable C# code.
+keywords: [Aspose Excel., C# Aspose.Cells., Smart CSV files to EXCEL Converter for C#., Convert CSV to EXCEL in C#., CSV files to EXCEL Conversion in C#., Leverage intelligent data processing to automatically parse and save CSV into EXCEL format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -36,7 +36,7 @@ Follow the easy steps to convert CSV to EXCEL. Upload your CSV file, then simply
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert CSV to EXCEL" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="csv" outformat="xlsx" IsLandingPage="true" %}}
+{{% cells-convert title="Sample Code to Convert CSV to EXCEL" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="csv" outformat="xlsx" IsLandingPage="true" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert CSV to EXCEL via C#" %}}
 

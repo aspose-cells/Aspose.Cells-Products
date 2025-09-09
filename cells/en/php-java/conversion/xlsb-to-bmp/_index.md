@@ -1,7 +1,7 @@
 ---
 title: PHP XLSB to BMP - XLSB to BMP Converter
-description: Aspose Excel. Convert XLSB to BMP quickly and easily with Aspose.Cells. PHP XLSB to BMP. PHP Save XLSB to BMP. Save XLSB as BMP using PHP.
-keywords: [Aspose Excel., PHP Aspose.Cells., Convert XLSB to BMP in PHP., Save XLSB to BMP using PHP., PHP XLSB to BMP saveformat., XLSB to BMP Converter., PHP Save XLSB as BMP]
+description: Aspose Excel. This comprehensive solution provides PHP developers with a fully integrated approach to convert XLSB to BMP format, enabling seamless saving of XLSB data into BMP format using the Aspose.Cells library, all through efficient and customizable PHP code.
+keywords: [Aspose Excel., PHP Aspose.Cells., Smart XLSB files to BMP Converter for PHP., Convert XLSB to BMP in PHP., XLSB files to BMP Conversion in PHP., Leverage intelligent data processing to automatically parse and save XLSB into BMP format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -28,7 +28,7 @@ Follow the easy steps to convert XLSB to BMP. Upload your XLSB file, then simply
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert XLSB to BMP" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsb" outformat="bmp" IsLandingPage="true" language="phpjava" %}}
+{{% cells-convert title="Sample Code to Convert XLSB to BMP" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="xlsb" outformat="bmp" IsLandingPage="true" language="phpjava" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert XLSB to BMP via PHP" %}}
 

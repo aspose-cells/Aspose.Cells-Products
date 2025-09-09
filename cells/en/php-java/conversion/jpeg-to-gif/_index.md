@@ -1,7 +1,7 @@
 ---
 title: PHP JPEG to GIF - JPEG to GIF Converter
-description: Aspose Excel. Convert JPEG to GIF quickly and easily with Aspose.Cells. PHP JPEG to GIF. PHP Save JPEG to GIF. Save JPEG as GIF using PHP.
-keywords: [Aspose Excel., PHP Aspose.Cells., Convert JPEG to GIF in PHP., Save JPEG to GIF using PHP., PHP JPEG to GIF saveformat., JPEG to GIF Converter., PHP Save JPEG as GIF]
+description: Aspose Excel. This comprehensive solution provides PHP developers with a fully integrated approach to convert JPEG to GIF format, enabling seamless saving of JPEG data into GIF format using the Aspose.Cells library, all through efficient and customizable PHP code.
+keywords: [Aspose Excel., PHP Aspose.Cells., Smart JPEG files to GIF Converter for PHP., Convert JPEG to GIF in PHP., JPEG files to GIF Conversion in PHP., Leverage intelligent data processing to automatically parse and save JPEG into GIF format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -28,7 +28,7 @@ Follow the easy steps to convert JPEG to GIF. Upload your JPEG file, then simply
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert JPEG to GIF" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="jpg" outformat="gif" IsLandingPage="true" language="phpjava" %}}
+{{% cells-convert title="Sample Code to Convert JPEG to GIF" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="jpg" outformat="gif" IsLandingPage="true" language="phpjava" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert JPEG to GIF via PHP" %}}
 

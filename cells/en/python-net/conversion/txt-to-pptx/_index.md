@@ -1,7 +1,7 @@
 ---
 title: Python TXT to PPTX - TXT to PPTX Converter
-description: Aspose Excel. Python Excel. Convert TXT to PPTX quickly and easily with Aspose.Cells. Python TXT to PPTX. Python Save TXT to PPTX. Save TXT as PPTX using Python Excel Library.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert TXT to PPTX in Python Excel Library., Save TXT to PPTX using Python Excel Library., Python TXT to PPTX saveformat., TXT to PPTX Converter., Python Save TXT as PPTX]
+description: Aspose Excel. This comprehensive solution provides Python developers with a fully integrated approach to convert TXT to PPTX format, enabling seamless saving of TXT data into PPTX format using the Aspose.Cells library, all through efficient and customizable Python code.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart TXT files to PPTX Converter for Python., Convert TXT to PPTX in Python., TXT files to PPTX Conversion in Python., Leverage intelligent data processing to automatically parse and save TXT into PPTX format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -29,7 +29,7 @@ Follow the easy steps to convert TXT to PPTX. Upload your TXT file, then simply 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert TXT to PPTX via Python Excel Library" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="txt" outformat="pptx" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Sample Code to Convert TXT to PPTX via Python Excel Library" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="txt" outformat="pptx" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert TXT to PPTX" %}}
 

@@ -1,7 +1,7 @@
 ---
 title: PHP NUMBERS to DOCX - NUMBERS to DOCX Converter
-description: Aspose Excel. Convert NUMBERS to DOCX quickly and easily with Aspose.Cells. PHP NUMBERS to DOCX. PHP Save NUMBERS to DOCX. Save NUMBERS as DOCX using PHP.
-keywords: [Aspose Excel., PHP Aspose.Cells., Convert NUMBERS to DOCX in PHP., Save NUMBERS to DOCX using PHP., PHP NUMBERS to DOCX saveformat., NUMBERS to DOCX Converter., PHP Save NUMBERS as DOCX]
+description: Aspose Excel. This comprehensive solution provides PHP developers with a fully integrated approach to convert NUMBERS to DOCX format, enabling seamless saving of NUMBERS data into DOCX format using the Aspose.Cells library, all through efficient and customizable PHP code.
+keywords: [Aspose Excel., PHP Aspose.Cells., Smart NUMBERS files to DOCX Converter for PHP., Convert NUMBERS to DOCX in PHP., NUMBERS files to DOCX Conversion in PHP., Leverage intelligent data processing to automatically parse and save NUMBERS into DOCX format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -28,7 +28,7 @@ Follow the easy steps to convert NUMBERS to DOCX. Upload your NUMBERS file, then
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert NUMBERS to DOCX" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="numbers" outformat="docx" IsLandingPage="true" language="phpjava" %}}
+{{% cells-convert title="Sample Code to Convert NUMBERS to DOCX" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="numbers" outformat="docx" IsLandingPage="true" language="phpjava" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert NUMBERS to DOCX via PHP" %}}
 

@@ -1,7 +1,7 @@
 ---
 title: Node.js OTS to PNG - OTS to PNG Converter
-description: Aspose Excel. Convert OTS to PNG quickly and easily with Aspose.Cells. Node.js OTS to PNG. Node.js Save OTS to PNG. Save OTS as PNG using Node.js.
-keywords: [Aspose Excel., Node.js Aspose.Cells., Convert OTS to PNG in Node.js., Save OTS to PNG using Node.js., Node.js OTS to PNG saveformat., OTS to PNG Converter., Node.js Save OTS as PNG]
+description: Aspose Excel. This comprehensive solution provides Node.js developers with a fully integrated approach to convert OTS to PNG format, enabling seamless saving of OTS data into PNG format using the Aspose.Cells library, all through efficient and customizable Node.js code.
+keywords: [Aspose Excel., Node.js Aspose.Cells., Smart OTS files to PNG Converter for Node.js., Convert OTS to PNG in Node.js., OTS files to PNG Conversion in Node.js., Leverage intelligent data processing to automatically parse and save OTS into PNG format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -28,7 +28,7 @@ Follow the easy steps to convert OTS to PNG. Upload your OTS file, then simply s
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert OTS to PNG" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="ots" outformat="png" IsLandingPage="true" language="nodejscpp" %}}
+{{% cells-convert title="Sample Code to Convert OTS to PNG" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="ots" outformat="png" IsLandingPage="true" language="nodejscpp" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert OTS to PNG via Node.js" %}}
 

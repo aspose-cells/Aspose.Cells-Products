@@ -1,7 +1,7 @@
 ---
 title: Java TABDELIMITED to XLAM - TABDELIMITED to XLAM Converter
-description: Aspose Excel. Convert TABDELIMITED to XLAM quickly and easily with Aspose.Cells. Java TABDELIMITED to XLAM. Java Save TABDELIMITED to XLAM. Save TABDELIMITED as XLAM using Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Convert TABDELIMITED to XLAM in Java., Save TABDELIMITED to XLAM using Java., Java TABDELIMITED to XLAM saveformat., TABDELIMITED to XLAM Converter., Java Save TABDELIMITED as XLAM]
+description: Aspose Excel. This comprehensive solution provides Java developers with a fully integrated approach to convert TABDELIMITED to XLAM format, enabling seamless saving of TABDELIMITED data into XLAM format using the Aspose.Cells library, all through efficient and customizable Java code.
+keywords: [Aspose Excel., Java Aspose.Cells., Smart TABDELIMITED files to XLAM Converter for Java., Convert TABDELIMITED to XLAM in Java., TABDELIMITED files to XLAM Conversion in Java., Leverage intelligent data processing to automatically parse and save TABDELIMITED into XLAM format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -57,7 +57,7 @@ Follow the easy steps to convert TABDELIMITED to XLAM. Upload your TABDELIMITED 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert TABDELIMITED to XLAM" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="tsv" outformat="xlam" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Sample Code to Convert TABDELIMITED to XLAM" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="tsv" outformat="xlam" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert TABDELIMITED to XLAM via Java" %}}
 

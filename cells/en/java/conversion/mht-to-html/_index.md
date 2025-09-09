@@ -1,7 +1,7 @@
 ---
 title: Java MHT to HTML - MHT to HTML Converter
-description: Aspose Excel. Convert MHT to HTML quickly and easily with Aspose.Cells. Java MHT to HTML. Java Save MHT to HTML. Save MHT as HTML using Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Convert MHT to HTML in Java., Save MHT to HTML using Java., Java MHT to HTML saveformat., MHT to HTML Converter., Java Save MHT as HTML]
+description: Aspose Excel. This comprehensive solution provides Java developers with a fully integrated approach to convert MHT to HTML format, enabling seamless saving of MHT data into HTML format using the Aspose.Cells library, all through efficient and customizable Java code.
+keywords: [Aspose Excel., Java Aspose.Cells., Smart MHT files to HTML Converter for Java., Convert MHT to HTML in Java., MHT files to HTML Conversion in Java., Leverage intelligent data processing to automatically parse and save MHT into HTML format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -57,7 +57,7 @@ Follow the easy steps to convert MHT to HTML. Upload your MHT file, then simply 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert MHT to HTML" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="mht" outformat="html" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Sample Code to Convert MHT to HTML" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="mht" outformat="html" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert MHT to HTML via Java" %}}
 

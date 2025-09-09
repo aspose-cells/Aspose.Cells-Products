@@ -1,7 +1,7 @@
 ---
 title: PHP MARKDOWN to ETT - MARKDOWN to ETT Converter
-description: Aspose Excel. Convert MARKDOWN to ETT quickly and easily with Aspose.Cells. PHP MARKDOWN to ETT. PHP Save MARKDOWN to ETT. Save MARKDOWN as ETT using PHP.
-keywords: [Aspose Excel., PHP Aspose.Cells., Convert MARKDOWN to ETT in PHP., Save MARKDOWN to ETT using PHP., PHP MARKDOWN to ETT saveformat., MARKDOWN to ETT Converter., PHP Save MARKDOWN as ETT]
+description: Aspose Excel. This comprehensive solution provides PHP developers with a fully integrated approach to convert MARKDOWN to ETT format, enabling seamless saving of MARKDOWN data into ETT format using the Aspose.Cells library, all through efficient and customizable PHP code.
+keywords: [Aspose Excel., PHP Aspose.Cells., Smart MARKDOWN files to ETT Converter for PHP., Convert MARKDOWN to ETT in PHP., MARKDOWN files to ETT Conversion in PHP., Leverage intelligent data processing to automatically parse and save MARKDOWN into ETT format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -28,7 +28,7 @@ Follow the easy steps to convert MARKDOWN to ETT. Upload your MARKDOWN file, the
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert MARKDOWN to ETT" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="md" outformat="ett" IsLandingPage="true" language="phpjava" %}}
+{{% cells-convert title="Sample Code to Convert MARKDOWN to ETT" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="md" outformat="ett" IsLandingPage="true" language="phpjava" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert MARKDOWN to ETT via PHP" %}}
 

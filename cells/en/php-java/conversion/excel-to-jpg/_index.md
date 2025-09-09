@@ -1,7 +1,7 @@
 ---
 title: PHP EXCEL to JPG - EXCEL to JPG Converter
-description: Aspose Excel. Convert EXCEL to JPG quickly and easily with Aspose.Cells. PHP EXCEL to JPG. PHP Save EXCEL to JPG. Save EXCEL as JPG using PHP.
-keywords: [Aspose Excel., PHP Aspose.Cells., Convert EXCEL to JPG in PHP., Save EXCEL to JPG using PHP., PHP EXCEL to JPG saveformat., EXCEL to JPG Converter., PHP Save EXCEL as JPG]
+description: Aspose Excel. This comprehensive solution provides PHP developers with a fully integrated approach to convert EXCEL to JPG format, enabling seamless saving of EXCEL data into JPG format using the Aspose.Cells library, all through efficient and customizable PHP code.
+keywords: [Aspose Excel., PHP Aspose.Cells., Smart EXCEL files to JPG Converter for PHP., Convert EXCEL to JPG in PHP., EXCEL files to JPG Conversion in PHP., Leverage intelligent data processing to automatically parse and save EXCEL into JPG format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -28,7 +28,7 @@ Follow the easy steps to convert EXCEL to JPG. Upload your EXCEL file, then simp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert EXCEL to JPG" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsx" outformat="jpg" IsLandingPage="true" language="phpjava" %}}
+{{% cells-convert title="Sample Code to Convert EXCEL to JPG" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="xlsx" outformat="jpg" IsLandingPage="true" language="phpjava" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert EXCEL to JPG via PHP" %}}
 

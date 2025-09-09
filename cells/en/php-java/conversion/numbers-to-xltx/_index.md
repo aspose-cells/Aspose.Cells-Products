@@ -1,7 +1,7 @@
 ---
 title: PHP NUMBERS to XLTX - NUMBERS to XLTX Converter
-description: Aspose Excel. Convert NUMBERS to XLTX quickly and easily with Aspose.Cells. PHP NUMBERS to XLTX. PHP Save NUMBERS to XLTX. Save NUMBERS as XLTX using PHP.
-keywords: [Aspose Excel., PHP Aspose.Cells., Convert NUMBERS to XLTX in PHP., Save NUMBERS to XLTX using PHP., PHP NUMBERS to XLTX saveformat., NUMBERS to XLTX Converter., PHP Save NUMBERS as XLTX]
+description: Aspose Excel. This comprehensive solution provides PHP developers with a fully integrated approach to convert NUMBERS to XLTX format, enabling seamless saving of NUMBERS data into XLTX format using the Aspose.Cells library, all through efficient and customizable PHP code.
+keywords: [Aspose Excel., PHP Aspose.Cells., Smart NUMBERS files to XLTX Converter for PHP., Convert NUMBERS to XLTX in PHP., NUMBERS files to XLTX Conversion in PHP., Leverage intelligent data processing to automatically parse and save NUMBERS into XLTX format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -28,7 +28,7 @@ Follow the easy steps to convert NUMBERS to XLTX. Upload your NUMBERS file, then
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert NUMBERS to XLTX" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="numbers" outformat="xltx" IsLandingPage="true" language="phpjava" %}}
+{{% cells-convert title="Sample Code to Convert NUMBERS to XLTX" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="numbers" outformat="xltx" IsLandingPage="true" language="phpjava" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert NUMBERS to XLTX via PHP" %}}
 

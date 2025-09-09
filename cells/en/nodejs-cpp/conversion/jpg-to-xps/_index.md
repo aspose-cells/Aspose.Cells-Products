@@ -1,7 +1,7 @@
 ---
 title: Node.js JPG to XPS - JPG to XPS Converter
-description: Aspose Excel. Convert JPG to XPS quickly and easily with Aspose.Cells. Node.js JPG to XPS. Node.js Save JPG to XPS. Save JPG as XPS using Node.js.
-keywords: [Aspose Excel., Node.js Aspose.Cells., Convert JPG to XPS in Node.js., Save JPG to XPS using Node.js., Node.js JPG to XPS saveformat., JPG to XPS Converter., Node.js Save JPG as XPS]
+description: Aspose Excel. This comprehensive solution provides Node.js developers with a fully integrated approach to convert JPG to XPS format, enabling seamless saving of JPG data into XPS format using the Aspose.Cells library, all through efficient and customizable Node.js code.
+keywords: [Aspose Excel., Node.js Aspose.Cells., Smart JPG files to XPS Converter for Node.js., Convert JPG to XPS in Node.js., JPG files to XPS Conversion in Node.js., Leverage intelligent data processing to automatically parse and save JPG into XPS format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -28,7 +28,7 @@ Follow the easy steps to convert JPG to XPS. Upload your JPG file, then simply s
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert JPG to XPS" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="jpg" outformat="xps" IsLandingPage="true" language="nodejscpp" %}}
+{{% cells-convert title="Sample Code to Convert JPG to XPS" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="jpg" outformat="xps" IsLandingPage="true" language="nodejscpp" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert JPG to XPS via Node.js" %}}
 

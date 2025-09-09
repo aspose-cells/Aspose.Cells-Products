@@ -1,7 +1,7 @@
 ---
 title: Node.js NUMBERS to XLT - NUMBERS to XLT Converter
-description: Aspose Excel. Convert NUMBERS to XLT quickly and easily with Aspose.Cells. Node.js NUMBERS to XLT. Node.js Save NUMBERS to XLT. Save NUMBERS as XLT using Node.js.
-keywords: [Aspose Excel., Node.js Aspose.Cells., Convert NUMBERS to XLT in Node.js., Save NUMBERS to XLT using Node.js., Node.js NUMBERS to XLT saveformat., NUMBERS to XLT Converter., Node.js Save NUMBERS as XLT]
+description: Aspose Excel. This comprehensive solution provides Node.js developers with a fully integrated approach to convert NUMBERS to XLT format, enabling seamless saving of NUMBERS data into XLT format using the Aspose.Cells library, all through efficient and customizable Node.js code.
+keywords: [Aspose Excel., Node.js Aspose.Cells., Smart NUMBERS files to XLT Converter for Node.js., Convert NUMBERS to XLT in Node.js., NUMBERS files to XLT Conversion in Node.js., Leverage intelligent data processing to automatically parse and save NUMBERS into XLT format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -28,7 +28,7 @@ Follow the easy steps to convert NUMBERS to XLT. Upload your NUMBERS file, then 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert NUMBERS to XLT" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="numbers" outformat="xlt" IsLandingPage="true" language="nodejscpp" %}}
+{{% cells-convert title="Sample Code to Convert NUMBERS to XLT" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="numbers" outformat="xlt" IsLandingPage="true" language="nodejscpp" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert NUMBERS to XLT via Node.js" %}}
 

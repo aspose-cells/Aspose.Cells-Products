@@ -1,7 +1,7 @@
 ---
 title: C++ XLS to SPREADSHEETML - XLS to SPREADSHEETML Converter
-description: Aspose Excel. Convert XLS to SPREADSHEETML quickly and easily with Aspose.Cells. C++ XLS to SPREADSHEETML. C++ Save XLS to SPREADSHEETML. Save XLS as SPREADSHEETML using C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., Convert XLS to SPREADSHEETML in C++., Save XLS to SPREADSHEETML using C++., C++ XLS to SPREADSHEETML saveformat., XLS to SPREADSHEETML Converter., C++ Save XLS as SPREADSHEETML]
+description: Aspose Excel. This comprehensive solution provides C++ developers with a fully integrated approach to convert XLS to SPREADSHEETML format, enabling seamless saving of XLS data into SPREADSHEETML format using the Aspose.Cells library, all through efficient and customizable C++ code.
+keywords: [Aspose Excel., C++ Aspose.Cells., Smart XLS files to SPREADSHEETML Converter for C++., Convert XLS to SPREADSHEETML in C++., XLS files to SPREADSHEETML Conversion in C++., Leverage intelligent data processing to automatically parse and save XLS into SPREADSHEETML format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -38,7 +38,7 @@ Follow the easy steps to convert XLS to SPREADSHEETML. Upload your XLS file, the
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert XLS to SPREADSHEETML" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xls" outformat="xml" IsLandingPage="true" language="cpp" %}}
+{{% cells-convert title="Sample Code to Convert XLS to SPREADSHEETML" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="xls" outformat="xml" IsLandingPage="true" language="cpp" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert XLS to SPREADSHEETML via C++" %}}
 
@@ -102,6 +102,7 @@ There are three options to install "Aspose.Cells for C++" onto your system. Plea
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xls-to-pdf/" name="XLS TO PDF" description="Portable Document Format" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xls-to-png/" name="XLS TO PNG" description="Portable Network Graphics" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xls-to-svg/" name="XLS TO SVG" description="Scalable Vector Graphics" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xls-to-tiff/" name="XLS TO TIFF" description="Tagged Image Format" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xls-to-tsv/" name="XLS TO TSV" description="Tab-Separated Values" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xls-to-txt/" name="XLS TO TXT" description="Text Document" >}}
 

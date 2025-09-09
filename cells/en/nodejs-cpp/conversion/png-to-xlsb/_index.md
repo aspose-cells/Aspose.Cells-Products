@@ -1,7 +1,7 @@
 ---
 title: Node.js PNG to XLSB - PNG to XLSB Converter
-description: Aspose Excel. Convert PNG to XLSB quickly and easily with Aspose.Cells. Node.js PNG to XLSB. Node.js Save PNG to XLSB. Save PNG as XLSB using Node.js.
-keywords: [Aspose Excel., Node.js Aspose.Cells., Convert PNG to XLSB in Node.js., Save PNG to XLSB using Node.js., Node.js PNG to XLSB saveformat., PNG to XLSB Converter., Node.js Save PNG as XLSB]
+description: Aspose Excel. This comprehensive solution provides Node.js developers with a fully integrated approach to convert PNG to XLSB format, enabling seamless saving of PNG data into XLSB format using the Aspose.Cells library, all through efficient and customizable Node.js code.
+keywords: [Aspose Excel., Node.js Aspose.Cells., Smart PNG files to XLSB Converter for Node.js., Convert PNG to XLSB in Node.js., PNG files to XLSB Conversion in Node.js., Leverage intelligent data processing to automatically parse and save PNG into XLSB format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -28,7 +28,7 @@ Follow the easy steps to convert PNG to XLSB. Upload your PNG file, then simply 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert PNG to XLSB" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="png" outformat="xlsb" IsLandingPage="true" language="nodejscpp" %}}
+{{% cells-convert title="Sample Code to Convert PNG to XLSB" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="png" outformat="xlsb" IsLandingPage="true" language="nodejscpp" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert PNG to XLSB via Node.js" %}}
 

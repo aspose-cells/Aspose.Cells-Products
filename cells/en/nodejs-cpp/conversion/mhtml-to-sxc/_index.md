@@ -1,7 +1,7 @@
 ---
 title: Node.js MHTML to SXC - MHTML to SXC Converter
-description: Aspose Excel. Convert MHTML to SXC quickly and easily with Aspose.Cells. Node.js MHTML to SXC. Node.js Save MHTML to SXC. Save MHTML as SXC using Node.js.
-keywords: [Aspose Excel., Node.js Aspose.Cells., Convert MHTML to SXC in Node.js., Save MHTML to SXC using Node.js., Node.js MHTML to SXC saveformat., MHTML to SXC Converter., Node.js Save MHTML as SXC]
+description: Aspose Excel. This comprehensive solution provides Node.js developers with a fully integrated approach to convert MHTML to SXC format, enabling seamless saving of MHTML data into SXC format using the Aspose.Cells library, all through efficient and customizable Node.js code.
+keywords: [Aspose Excel., Node.js Aspose.Cells., Smart MHTML files to SXC Converter for Node.js., Convert MHTML to SXC in Node.js., MHTML files to SXC Conversion in Node.js., Leverage intelligent data processing to automatically parse and save MHTML into SXC format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -28,7 +28,7 @@ Follow the easy steps to convert MHTML to SXC. Upload your MHTML file, then simp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert MHTML to SXC" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="mhtml" outformat="sxc" IsLandingPage="true" language="nodejscpp" %}}
+{{% cells-convert title="Sample Code to Convert MHTML to SXC" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="mhtml" outformat="sxc" IsLandingPage="true" language="nodejscpp" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert MHTML to SXC via Node.js" %}}
 

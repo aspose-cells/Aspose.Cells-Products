@@ -1,7 +1,7 @@
 ---
 title: Java PNG to DIF - PNG to DIF Converter
-description: Aspose Excel. Convert PNG to DIF quickly and easily with Aspose.Cells. Java PNG to DIF. Java Save PNG to DIF. Save PNG as DIF using Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Convert PNG to DIF in Java., Save PNG to DIF using Java., Java PNG to DIF saveformat., PNG to DIF Converter., Java Save PNG as DIF]
+description: Aspose Excel. This comprehensive solution provides Java developers with a fully integrated approach to convert PNG to DIF format, enabling seamless saving of PNG data into DIF format using the Aspose.Cells library, all through efficient and customizable Java code.
+keywords: [Aspose Excel., Java Aspose.Cells., Smart PNG files to DIF Converter for Java., Convert PNG to DIF in Java., PNG files to DIF Conversion in Java., Leverage intelligent data processing to automatically parse and save PNG into DIF format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -57,7 +57,7 @@ Follow the easy steps to convert PNG to DIF. Upload your PNG file, then simply s
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert PNG to DIF" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="png" outformat="dif" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Sample Code to Convert PNG to DIF" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="png" outformat="dif" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert PNG to DIF via Java" %}}
 

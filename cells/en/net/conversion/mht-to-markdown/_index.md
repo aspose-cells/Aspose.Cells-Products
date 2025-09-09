@@ -1,7 +1,7 @@
 ---
 title: C# MHT to MARKDOWN - MHT to MARKDOWN Converter
-description: Aspose Excel. Convert MHT to MARKDOWN quickly and easily with Aspose.Cells. C# MHT to MARKDOWN. C# Save MHT to MARKDOWN. Save MHT as MARKDOWN using C#.
-keywords: [Aspose Excel., C# Aspose.Cells., Convert MHT to MARKDOWN in C#., Save MHT to MARKDOWN using C#., C# MHT to MARKDOWN saveformat., MHT to MARKDOWN Converter., C# Save MHT as MARKDOWN]
+description: Aspose Excel. This comprehensive solution provides C# developers with a fully integrated approach to convert MHT to MARKDOWN format, enabling seamless saving of MHT data into MARKDOWN format using the Aspose.Cells library, all through efficient and customizable C# code.
+keywords: [Aspose Excel., C# Aspose.Cells., Smart MHT files to MARKDOWN Converter for C#., Convert MHT to MARKDOWN in C#., MHT files to MARKDOWN Conversion in C#., Leverage intelligent data processing to automatically parse and save MHT into MARKDOWN format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -36,7 +36,7 @@ Follow the easy steps to convert MHT to MARKDOWN. Upload your MHT file, then sim
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert MHT to MARKDOWN" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="mht" outformat="md" IsLandingPage="true" %}}
+{{% cells-convert title="Sample Code to Convert MHT to MARKDOWN" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="mht" outformat="md" IsLandingPage="true" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert MHT to MARKDOWN via C#" %}}
 

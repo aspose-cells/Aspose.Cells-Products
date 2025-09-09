@@ -1,7 +1,7 @@
 ---
 title: Node.js DBF to XLSB - DBF to XLSB Converter
-description: Aspose Excel. Convert DBF to XLSB quickly and easily with Aspose.Cells. Node.js DBF to XLSB. Node.js Save DBF to XLSB. Save DBF as XLSB using Node.js.
-keywords: [Aspose Excel., Node.js Aspose.Cells., Convert DBF to XLSB in Node.js., Save DBF to XLSB using Node.js., Node.js DBF to XLSB saveformat., DBF to XLSB Converter., Node.js Save DBF as XLSB]
+description: Aspose Excel. This comprehensive solution provides Node.js developers with a fully integrated approach to convert DBF to XLSB format, enabling seamless saving of DBF data into XLSB format using the Aspose.Cells library, all through efficient and customizable Node.js code.
+keywords: [Aspose Excel., Node.js Aspose.Cells., Smart DBF files to XLSB Converter for Node.js., Convert DBF to XLSB in Node.js., DBF files to XLSB Conversion in Node.js., Leverage intelligent data processing to automatically parse and save DBF into XLSB format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -28,7 +28,7 @@ Follow the easy steps to convert DBF to XLSB. Upload your DBF file, then simply 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert DBF to XLSB" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="dbf" outformat="xlsb" IsLandingPage="true" language="nodejscpp" %}}
+{{% cells-convert title="Sample Code to Convert DBF to XLSB" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="dbf" outformat="xlsb" IsLandingPage="true" language="nodejscpp" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert DBF to XLSB via Node.js" %}}
 

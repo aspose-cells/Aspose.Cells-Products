@@ -1,7 +1,7 @@
 ---
 title: Java XLS to XLAM - XLS to XLAM Converter
-description: Aspose Excel. Convert XLS to XLAM quickly and easily with Aspose.Cells. Java XLS to XLAM. Java Save XLS to XLAM. Save XLS as XLAM using Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Convert XLS to XLAM in Java., Save XLS to XLAM using Java., Java XLS to XLAM saveformat., XLS to XLAM Converter., Java Save XLS as XLAM]
+description: Aspose Excel. This comprehensive solution provides Java developers with a fully integrated approach to convert XLS to XLAM format, enabling seamless saving of XLS data into XLAM format using the Aspose.Cells library, all through efficient and customizable Java code.
+keywords: [Aspose Excel., Java Aspose.Cells., Smart XLS files to XLAM Converter for Java., Convert XLS to XLAM in Java., XLS files to XLAM Conversion in Java., Leverage intelligent data processing to automatically parse and save XLS into XLAM format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -57,7 +57,7 @@ Follow the easy steps to convert XLS to XLAM. Upload your XLS file, then simply 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert XLS to XLAM" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xls" outformat="xlam" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Sample Code to Convert XLS to XLAM" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="xls" outformat="xlam" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert XLS to XLAM via Java" %}}
 

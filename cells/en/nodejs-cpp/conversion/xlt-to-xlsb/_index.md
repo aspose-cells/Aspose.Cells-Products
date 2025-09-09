@@ -1,7 +1,7 @@
 ---
 title: Node.js XLT to XLSB - XLT to XLSB Converter
-description: Aspose Excel. Convert XLT to XLSB quickly and easily with Aspose.Cells. Node.js XLT to XLSB. Node.js Save XLT to XLSB. Save XLT as XLSB using Node.js.
-keywords: [Aspose Excel., Node.js Aspose.Cells., Convert XLT to XLSB in Node.js., Save XLT to XLSB using Node.js., Node.js XLT to XLSB saveformat., XLT to XLSB Converter., Node.js Save XLT as XLSB]
+description: Aspose Excel. This comprehensive solution provides Node.js developers with a fully integrated approach to convert XLT to XLSB format, enabling seamless saving of XLT data into XLSB format using the Aspose.Cells library, all through efficient and customizable Node.js code.
+keywords: [Aspose Excel., Node.js Aspose.Cells., Smart XLT files to XLSB Converter for Node.js., Convert XLT to XLSB in Node.js., XLT files to XLSB Conversion in Node.js., Leverage intelligent data processing to automatically parse and save XLT into XLSB format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -28,7 +28,7 @@ Follow the easy steps to convert XLT to XLSB. Upload your XLT file, then simply 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert XLT to XLSB" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlt" outformat="xlsb" IsLandingPage="true" language="nodejscpp" %}}
+{{% cells-convert title="Sample Code to Convert XLT to XLSB" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="xlt" outformat="xlsb" IsLandingPage="true" language="nodejscpp" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert XLT to XLSB via Node.js" %}}
 

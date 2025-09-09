@@ -1,7 +1,7 @@
 ---
 title: Java HTML to XLSX - HTML to XLSX Converter
-description: Aspose Excel. Convert HTML to XLSX quickly and easily with Aspose.Cells. Java HTML to XLSX. Java Save HTML to XLSX. Save HTML as XLSX using Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Convert HTML to XLSX in Java., Save HTML to XLSX using Java., Java HTML to XLSX saveformat., HTML to XLSX Converter., Java Save HTML as XLSX]
+description: Aspose Excel. This comprehensive solution provides Java developers with a fully integrated approach to convert HTML to XLSX format, enabling seamless saving of HTML data into XLSX format using the Aspose.Cells library, all through efficient and customizable Java code.
+keywords: [Aspose Excel., Java Aspose.Cells., Smart HTML files to XLSX Converter for Java., Convert HTML to XLSX in Java., HTML files to XLSX Conversion in Java., Leverage intelligent data processing to automatically parse and save HTML into XLSX format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -57,7 +57,7 @@ Follow the easy steps to convert HTML to XLSX. Upload your HTML file, then simpl
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert HTML to XLSX" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="html" outformat="xlsx" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Sample Code to Convert HTML to XLSX" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="html" outformat="xlsx" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert HTML to XLSX via Java" %}}
 

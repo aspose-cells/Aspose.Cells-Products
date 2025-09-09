@@ -1,7 +1,7 @@
 ---
 title: PHP TXT to BMP - TXT to BMP Converter
-description: Aspose Excel. Convert TXT to BMP quickly and easily with Aspose.Cells. PHP TXT to BMP. PHP Save TXT to BMP. Save TXT as BMP using PHP.
-keywords: [Aspose Excel., PHP Aspose.Cells., Convert TXT to BMP in PHP., Save TXT to BMP using PHP., PHP TXT to BMP saveformat., TXT to BMP Converter., PHP Save TXT as BMP]
+description: Aspose Excel. This comprehensive solution provides PHP developers with a fully integrated approach to convert TXT to BMP format, enabling seamless saving of TXT data into BMP format using the Aspose.Cells library, all through efficient and customizable PHP code.
+keywords: [Aspose Excel., PHP Aspose.Cells., Smart TXT files to BMP Converter for PHP., Convert TXT to BMP in PHP., TXT files to BMP Conversion in PHP., Leverage intelligent data processing to automatically parse and save TXT into BMP format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -28,7 +28,7 @@ Follow the easy steps to convert TXT to BMP. Upload your TXT file, then simply s
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert TXT to BMP" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="txt" outformat="bmp" IsLandingPage="true" language="phpjava" %}}
+{{% cells-convert title="Sample Code to Convert TXT to BMP" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="txt" outformat="bmp" IsLandingPage="true" language="phpjava" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert TXT to BMP via PHP" %}}
 

@@ -1,7 +1,7 @@
 ---
 title: PHP CSV to PRN - CSV to PRN Converter
-description: Aspose Excel. Convert CSV to PRN quickly and easily with Aspose.Cells. PHP CSV to PRN. PHP Save CSV to PRN. Save CSV as PRN using PHP.
-keywords: [Aspose Excel., PHP Aspose.Cells., Convert CSV to PRN in PHP., Save CSV to PRN using PHP., PHP CSV to PRN saveformat., CSV to PRN Converter., PHP Save CSV as PRN]
+description: Aspose Excel. This comprehensive solution provides PHP developers with a fully integrated approach to convert CSV to PRN format, enabling seamless saving of CSV data into PRN format using the Aspose.Cells library, all through efficient and customizable PHP code.
+keywords: [Aspose Excel., PHP Aspose.Cells., Smart CSV files to PRN Converter for PHP., Convert CSV to PRN in PHP., CSV files to PRN Conversion in PHP., Leverage intelligent data processing to automatically parse and save CSV into PRN format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -28,7 +28,7 @@ Follow the easy steps to convert CSV to PRN. Upload your CSV file, then simply s
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert CSV to PRN" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="csv" outformat="prn" IsLandingPage="true" language="phpjava" %}}
+{{% cells-convert title="Sample Code to Convert CSV to PRN" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="csv" outformat="prn" IsLandingPage="true" language="phpjava" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert CSV to PRN via PHP" %}}
 

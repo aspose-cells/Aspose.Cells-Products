@@ -1,7 +1,7 @@
 ---
 title: PHP JSON to ETT - JSON to ETT Converter
-description: Aspose Excel. Convert JSON to ETT quickly and easily with Aspose.Cells. PHP JSON to ETT. PHP Save JSON to ETT. Save JSON as ETT using PHP.
-keywords: [Aspose Excel., PHP Aspose.Cells., Convert JSON to ETT in PHP., Save JSON to ETT using PHP., PHP JSON to ETT saveformat., JSON to ETT Converter., PHP Save JSON as ETT]
+description: Aspose Excel. This comprehensive solution provides PHP developers with a fully integrated approach to convert JSON to ETT format, enabling seamless saving of JSON data into ETT format using the Aspose.Cells library, all through efficient and customizable PHP code.
+keywords: [Aspose Excel., PHP Aspose.Cells., Smart JSON files to ETT Converter for PHP., Convert JSON to ETT in PHP., JSON files to ETT Conversion in PHP., Leverage intelligent data processing to automatically parse and save JSON into ETT format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -28,7 +28,7 @@ Follow the easy steps to convert JSON to ETT. Upload your JSON file, then simply
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert JSON to ETT" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="json" outformat="ett" IsLandingPage="true" language="phpjava" %}}
+{{% cells-convert title="Sample Code to Convert JSON to ETT" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="json" outformat="ett" IsLandingPage="true" language="phpjava" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert JSON to ETT via PHP" %}}
 

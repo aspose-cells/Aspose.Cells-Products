@@ -1,7 +1,7 @@
 ---
 title: PHP JPEG to MHTML - JPEG to MHTML Converter
-description: Aspose Excel. Convert JPEG to MHTML quickly and easily with Aspose.Cells. PHP JPEG to MHTML. PHP Save JPEG to MHTML. Save JPEG as MHTML using PHP.
-keywords: [Aspose Excel., PHP Aspose.Cells., Convert JPEG to MHTML in PHP., Save JPEG to MHTML using PHP., PHP JPEG to MHTML saveformat., JPEG to MHTML Converter., PHP Save JPEG as MHTML]
+description: Aspose Excel. This comprehensive solution provides PHP developers with a fully integrated approach to convert JPEG to MHTML format, enabling seamless saving of JPEG data into MHTML format using the Aspose.Cells library, all through efficient and customizable PHP code.
+keywords: [Aspose Excel., PHP Aspose.Cells., Smart JPEG files to MHTML Converter for PHP., Convert JPEG to MHTML in PHP., JPEG files to MHTML Conversion in PHP., Leverage intelligent data processing to automatically parse and save JPEG into MHTML format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -28,7 +28,7 @@ Follow the easy steps to convert JPEG to MHTML. Upload your JPEG file, then simp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert JPEG to MHTML" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="jpg" outformat="mhtml" IsLandingPage="true" language="phpjava" %}}
+{{% cells-convert title="Sample Code to Convert JPEG to MHTML" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="jpg" outformat="mhtml" IsLandingPage="true" language="phpjava" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert JPEG to MHTML via PHP" %}}
 

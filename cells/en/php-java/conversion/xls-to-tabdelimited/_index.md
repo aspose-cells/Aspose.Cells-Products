@@ -1,7 +1,7 @@
 ---
 title: PHP XLS to TABDELIMITED - XLS to TABDELIMITED Converter
-description: Aspose Excel. Convert XLS to TABDELIMITED quickly and easily with Aspose.Cells. PHP XLS to TABDELIMITED. PHP Save XLS to TABDELIMITED. Save XLS as TABDELIMITED using PHP.
-keywords: [Aspose Excel., PHP Aspose.Cells., Convert XLS to TABDELIMITED in PHP., Save XLS to TABDELIMITED using PHP., PHP XLS to TABDELIMITED saveformat., XLS to TABDELIMITED Converter., PHP Save XLS as TABDELIMITED]
+description: Aspose Excel. This comprehensive solution provides PHP developers with a fully integrated approach to convert XLS to TABDELIMITED format, enabling seamless saving of XLS data into TABDELIMITED format using the Aspose.Cells library, all through efficient and customizable PHP code.
+keywords: [Aspose Excel., PHP Aspose.Cells., Smart XLS files to TABDELIMITED Converter for PHP., Convert XLS to TABDELIMITED in PHP., XLS files to TABDELIMITED Conversion in PHP., Leverage intelligent data processing to automatically parse and save XLS into TABDELIMITED format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -28,7 +28,7 @@ Follow the easy steps to convert XLS to TABDELIMITED. Upload your XLS file, then
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert XLS to TABDELIMITED" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xls" outformat="tsv" IsLandingPage="true" language="phpjava" %}}
+{{% cells-convert title="Sample Code to Convert XLS to TABDELIMITED" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="xls" outformat="tsv" IsLandingPage="true" language="phpjava" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert XLS to TABDELIMITED via PHP" %}}
 

@@ -1,7 +1,7 @@
 ---
 title: PHP JPG to ODS - JPG to ODS Converter
-description: Aspose Excel. Convert JPG to ODS quickly and easily with Aspose.Cells. PHP JPG to ODS. PHP Save JPG to ODS. Save JPG as ODS using PHP.
-keywords: [Aspose Excel., PHP Aspose.Cells., Convert JPG to ODS in PHP., Save JPG to ODS using PHP., PHP JPG to ODS saveformat., JPG to ODS Converter., PHP Save JPG as ODS]
+description: Aspose Excel. This comprehensive solution provides PHP developers with a fully integrated approach to convert JPG to ODS format, enabling seamless saving of JPG data into ODS format using the Aspose.Cells library, all through efficient and customizable PHP code.
+keywords: [Aspose Excel., PHP Aspose.Cells., Smart JPG files to ODS Converter for PHP., Convert JPG to ODS in PHP., JPG files to ODS Conversion in PHP., Leverage intelligent data processing to automatically parse and save JPG into ODS format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -28,7 +28,7 @@ Follow the easy steps to convert JPG to ODS. Upload your JPG file, then simply s
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert JPG to ODS" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="jpg" outformat="ods" IsLandingPage="true" language="phpjava" %}}
+{{% cells-convert title="Sample Code to Convert JPG to ODS" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="jpg" outformat="ods" IsLandingPage="true" language="phpjava" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert JPG to ODS via PHP" %}}
 

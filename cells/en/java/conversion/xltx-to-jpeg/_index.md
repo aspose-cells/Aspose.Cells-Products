@@ -1,7 +1,7 @@
 ---
 title: Java XLTX to JPEG - XLTX to JPEG Converter
-description: Aspose Excel. Convert XLTX to JPEG quickly and easily with Aspose.Cells. Java XLTX to JPEG. Java Save XLTX to JPEG. Save XLTX as JPEG using Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Convert XLTX to JPEG in Java., Save XLTX to JPEG using Java., Java XLTX to JPEG saveformat., XLTX to JPEG Converter., Java Save XLTX as JPEG]
+description: Aspose Excel. This comprehensive solution provides Java developers with a fully integrated approach to convert XLTX to JPEG format, enabling seamless saving of XLTX data into JPEG format using the Aspose.Cells library, all through efficient and customizable Java code.
+keywords: [Aspose Excel., Java Aspose.Cells., Smart XLTX files to JPEG Converter for Java., Convert XLTX to JPEG in Java., XLTX files to JPEG Conversion in Java., Leverage intelligent data processing to automatically parse and save XLTX into JPEG format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -57,7 +57,7 @@ Follow the easy steps to convert XLTX to JPEG. Upload your XLTX file, then simpl
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert XLTX to JPEG" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xltx" outformat="jpg" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Sample Code to Convert XLTX to JPEG" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="xltx" outformat="jpg" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert XLTX to JPEG via Java" %}}
 

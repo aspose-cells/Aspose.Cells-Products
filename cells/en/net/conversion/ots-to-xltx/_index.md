@@ -1,7 +1,7 @@
 ---
 title: C# OTS to XLTX - OTS to XLTX Converter
-description: Aspose Excel. Convert OTS to XLTX quickly and easily with Aspose.Cells. C# OTS to XLTX. C# Save OTS to XLTX. Save OTS as XLTX using C#.
-keywords: [Aspose Excel., C# Aspose.Cells., Convert OTS to XLTX in C#., Save OTS to XLTX using C#., C# OTS to XLTX saveformat., OTS to XLTX Converter., C# Save OTS as XLTX]
+description: Aspose Excel. This comprehensive solution provides C# developers with a fully integrated approach to convert OTS to XLTX format, enabling seamless saving of OTS data into XLTX format using the Aspose.Cells library, all through efficient and customizable C# code.
+keywords: [Aspose Excel., C# Aspose.Cells., Smart OTS files to XLTX Converter for C#., Convert OTS to XLTX in C#., OTS files to XLTX Conversion in C#., Leverage intelligent data processing to automatically parse and save OTS into XLTX format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -36,7 +36,7 @@ Follow the easy steps to convert OTS to XLTX. Upload your OTS file, then simply 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert OTS to XLTX" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="ots" outformat="xltx" IsLandingPage="true" %}}
+{{% cells-convert title="Sample Code to Convert OTS to XLTX" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="ots" outformat="xltx" IsLandingPage="true" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert OTS to XLTX via C#" %}}
 

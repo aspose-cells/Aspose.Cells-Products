@@ -1,7 +1,7 @@
 ---
 title: Python HTM to XLSX - HTM to XLSX Converter
-description: Aspose Excel. Python Excel. Convert HTM to XLSX quickly and easily with Aspose.Cells. Python HTM to XLSX. Python Save HTM to XLSX. Save HTM as XLSX using Python Excel Library.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert HTM to XLSX in Python Excel Library., Save HTM to XLSX using Python Excel Library., Python HTM to XLSX saveformat., HTM to XLSX Converter., Python Save HTM as XLSX]
+description: Aspose Excel. This comprehensive solution provides Python developers with a fully integrated approach to convert HTM to XLSX format, enabling seamless saving of HTM data into XLSX format using the Aspose.Cells library, all through efficient and customizable Python code.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart HTM files to XLSX Converter for Python., Convert HTM to XLSX in Python., HTM files to XLSX Conversion in Python., Leverage intelligent data processing to automatically parse and save HTM into XLSX format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -29,7 +29,7 @@ Follow the easy steps to convert HTM to XLSX. Upload your HTM file, then simply 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert HTM to XLSX via Python Excel Library" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="htm" outformat="xlsx" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Sample Code to Convert HTM to XLSX via Python Excel Library" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="htm" outformat="xlsx" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert HTM to XLSX" %}}
 

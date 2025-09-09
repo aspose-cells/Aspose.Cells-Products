@@ -1,7 +1,7 @@
 ---
 title: C# XLS to XLAM - XLS to XLAM Converter
-description: Aspose Excel. Convert XLS to XLAM quickly and easily with Aspose.Cells. C# XLS to XLAM. C# Save XLS to XLAM. Save XLS as XLAM using C#.
-keywords: [Aspose Excel., C# Aspose.Cells., Convert XLS to XLAM in C#., Save XLS to XLAM using C#., C# XLS to XLAM saveformat., XLS to XLAM Converter., C# Save XLS as XLAM]
+description: Aspose Excel. This comprehensive solution provides C# developers with a fully integrated approach to convert XLS to XLAM format, enabling seamless saving of XLS data into XLAM format using the Aspose.Cells library, all through efficient and customizable C# code.
+keywords: [Aspose Excel., C# Aspose.Cells., Smart XLS files to XLAM Converter for C#., Convert XLS to XLAM in C#., XLS files to XLAM Conversion in C#., Leverage intelligent data processing to automatically parse and save XLS into XLAM format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -36,7 +36,7 @@ Follow the easy steps to convert XLS to XLAM. Upload your XLS file, then simply 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert XLS to XLAM" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xls" outformat="xlam" IsLandingPage="true" %}}
+{{% cells-convert title="Sample Code to Convert XLS to XLAM" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="xls" outformat="xlam" IsLandingPage="true" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert XLS to XLAM via C#" %}}
 

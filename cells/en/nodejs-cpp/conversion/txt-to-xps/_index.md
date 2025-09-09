@@ -1,7 +1,7 @@
 ---
 title: Node.js TXT to XPS - TXT to XPS Converter
-description: Aspose Excel. Convert TXT to XPS quickly and easily with Aspose.Cells. Node.js TXT to XPS. Node.js Save TXT to XPS. Save TXT as XPS using Node.js.
-keywords: [Aspose Excel., Node.js Aspose.Cells., Convert TXT to XPS in Node.js., Save TXT to XPS using Node.js., Node.js TXT to XPS saveformat., TXT to XPS Converter., Node.js Save TXT as XPS]
+description: Aspose Excel. This comprehensive solution provides Node.js developers with a fully integrated approach to convert TXT to XPS format, enabling seamless saving of TXT data into XPS format using the Aspose.Cells library, all through efficient and customizable Node.js code.
+keywords: [Aspose Excel., Node.js Aspose.Cells., Smart TXT files to XPS Converter for Node.js., Convert TXT to XPS in Node.js., TXT files to XPS Conversion in Node.js., Leverage intelligent data processing to automatically parse and save TXT into XPS format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -28,7 +28,7 @@ Follow the easy steps to convert TXT to XPS. Upload your TXT file, then simply s
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert TXT to XPS" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="txt" outformat="xps" IsLandingPage="true" language="nodejscpp" %}}
+{{% cells-convert title="Sample Code to Convert TXT to XPS" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="txt" outformat="xps" IsLandingPage="true" language="nodejscpp" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert TXT to XPS via Node.js" %}}
 

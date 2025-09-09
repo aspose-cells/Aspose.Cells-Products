@@ -1,7 +1,7 @@
 ---
 title: C# XLSM to XLT - XLSM to XLT Converter
-description: Aspose Excel. Convert XLSM to XLT quickly and easily with Aspose.Cells. C# XLSM to XLT. C# Save XLSM to XLT. Save XLSM as XLT using C#.
-keywords: [Aspose Excel., C# Aspose.Cells., Convert XLSM to XLT in C#., Save XLSM to XLT using C#., C# XLSM to XLT saveformat., XLSM to XLT Converter., C# Save XLSM as XLT]
+description: Aspose Excel. This comprehensive solution provides C# developers with a fully integrated approach to convert XLSM to XLT format, enabling seamless saving of XLSM data into XLT format using the Aspose.Cells library, all through efficient and customizable C# code.
+keywords: [Aspose Excel., C# Aspose.Cells., Smart XLSM files to XLT Converter for C#., Convert XLSM to XLT in C#., XLSM files to XLT Conversion in C#., Leverage intelligent data processing to automatically parse and save XLSM into XLT format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -36,7 +36,7 @@ Follow the easy steps to convert XLSM to XLT. Upload your XLSM file, then simply
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert XLSM to XLT" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsm" outformat="xlt" IsLandingPage="true" %}}
+{{% cells-convert title="Sample Code to Convert XLSM to XLT" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="xlsm" outformat="xlt" IsLandingPage="true" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert XLSM to XLT via C#" %}}
 

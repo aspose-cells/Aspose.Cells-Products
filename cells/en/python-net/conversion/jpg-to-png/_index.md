@@ -1,7 +1,7 @@
 ---
 title: Python JPG to PNG - JPG to PNG Converter
-description: Aspose Excel. Python Excel. Convert JPG to PNG quickly and easily with Aspose.Cells. Python JPG to PNG. Python Save JPG to PNG. Save JPG as PNG using Python Excel Library.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert JPG to PNG in Python Excel Library., Save JPG to PNG using Python Excel Library., Python JPG to PNG saveformat., JPG to PNG Converter., Python Save JPG as PNG]
+description: Aspose Excel. This comprehensive solution provides Python developers with a fully integrated approach to convert JPG to PNG format, enabling seamless saving of JPG data into PNG format using the Aspose.Cells library, all through efficient and customizable Python code.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart JPG files to PNG Converter for Python., Convert JPG to PNG in Python., JPG files to PNG Conversion in Python., Leverage intelligent data processing to automatically parse and save JPG into PNG format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -29,7 +29,7 @@ Follow the easy steps to convert JPG to PNG. Upload your JPG file, then simply s
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert JPG to PNG via Python Excel Library" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="jpg" outformat="png" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Sample Code to Convert JPG to PNG via Python Excel Library" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="jpg" outformat="png" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert JPG to PNG" %}}
 

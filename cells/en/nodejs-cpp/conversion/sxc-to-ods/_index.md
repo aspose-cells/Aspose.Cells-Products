@@ -1,7 +1,7 @@
 ---
 title: Node.js SXC to ODS - SXC to ODS Converter
-description: Aspose Excel. Convert SXC to ODS quickly and easily with Aspose.Cells. Node.js SXC to ODS. Node.js Save SXC to ODS. Save SXC as ODS using Node.js.
-keywords: [Aspose Excel., Node.js Aspose.Cells., Convert SXC to ODS in Node.js., Save SXC to ODS using Node.js., Node.js SXC to ODS saveformat., SXC to ODS Converter., Node.js Save SXC as ODS]
+description: Aspose Excel. This comprehensive solution provides Node.js developers with a fully integrated approach to convert SXC to ODS format, enabling seamless saving of SXC data into ODS format using the Aspose.Cells library, all through efficient and customizable Node.js code.
+keywords: [Aspose Excel., Node.js Aspose.Cells., Smart SXC files to ODS Converter for Node.js., Convert SXC to ODS in Node.js., SXC files to ODS Conversion in Node.js., Leverage intelligent data processing to automatically parse and save SXC into ODS format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -28,7 +28,7 @@ Follow the easy steps to convert SXC to ODS. Upload your SXC file, then simply s
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert SXC to ODS" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="sxc" outformat="ods" IsLandingPage="true" language="nodejscpp" %}}
+{{% cells-convert title="Sample Code to Convert SXC to ODS" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="sxc" outformat="ods" IsLandingPage="true" language="nodejscpp" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert SXC to ODS via Node.js" %}}
 

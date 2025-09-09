@@ -1,7 +1,7 @@
 ---
 title: C# SXC to ETT - SXC to ETT Converter
-description: Aspose Excel. Convert SXC to ETT quickly and easily with Aspose.Cells. C# SXC to ETT. C# Save SXC to ETT. Save SXC as ETT using C#.
-keywords: [Aspose Excel., C# Aspose.Cells., Convert SXC to ETT in C#., Save SXC to ETT using C#., C# SXC to ETT saveformat., SXC to ETT Converter., C# Save SXC as ETT]
+description: Aspose Excel. This comprehensive solution provides C# developers with a fully integrated approach to convert SXC to ETT format, enabling seamless saving of SXC data into ETT format using the Aspose.Cells library, all through efficient and customizable C# code.
+keywords: [Aspose Excel., C# Aspose.Cells., Smart SXC files to ETT Converter for C#., Convert SXC to ETT in C#., SXC files to ETT Conversion in C#., Leverage intelligent data processing to automatically parse and save SXC into ETT format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -36,7 +36,7 @@ Follow the easy steps to convert SXC to ETT. Upload your SXC file, then simply s
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert SXC to ETT" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="sxc" outformat="ett" IsLandingPage="true" %}}
+{{% cells-convert title="Sample Code to Convert SXC to ETT" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="sxc" outformat="ett" IsLandingPage="true" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert SXC to ETT via C#" %}}
 

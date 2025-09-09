@@ -1,7 +1,7 @@
 ---
 title: PHP MHTML to OTS - MHTML to OTS Converter
-description: Aspose Excel. Convert MHTML to OTS quickly and easily with Aspose.Cells. PHP MHTML to OTS. PHP Save MHTML to OTS. Save MHTML as OTS using PHP.
-keywords: [Aspose Excel., PHP Aspose.Cells., Convert MHTML to OTS in PHP., Save MHTML to OTS using PHP., PHP MHTML to OTS saveformat., MHTML to OTS Converter., PHP Save MHTML as OTS]
+description: Aspose Excel. This comprehensive solution provides PHP developers with a fully integrated approach to convert MHTML to OTS format, enabling seamless saving of MHTML data into OTS format using the Aspose.Cells library, all through efficient and customizable PHP code.
+keywords: [Aspose Excel., PHP Aspose.Cells., Smart MHTML files to OTS Converter for PHP., Convert MHTML to OTS in PHP., MHTML files to OTS Conversion in PHP., Leverage intelligent data processing to automatically parse and save MHTML into OTS format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -28,7 +28,7 @@ Follow the easy steps to convert MHTML to OTS. Upload your MHTML file, then simp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert MHTML to OTS" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="mhtml" outformat="ots" IsLandingPage="true" language="phpjava" %}}
+{{% cells-convert title="Sample Code to Convert MHTML to OTS" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="mhtml" outformat="ots" IsLandingPage="true" language="phpjava" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert MHTML to OTS via PHP" %}}
 

@@ -1,7 +1,7 @@
 ---
 title: Python JPEG to BMP - JPEG to BMP Converter
-description: Aspose Excel. Python Excel. Convert JPEG to BMP quickly and easily with Aspose.Cells. Python JPEG to BMP. Python Save JPEG to BMP. Save JPEG as BMP using Python Excel Library.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert JPEG to BMP in Python Excel Library., Save JPEG to BMP using Python Excel Library., Python JPEG to BMP saveformat., JPEG to BMP Converter., Python Save JPEG as BMP]
+description: Aspose Excel. This comprehensive solution provides Python developers with a fully integrated approach to convert JPEG to BMP format, enabling seamless saving of JPEG data into BMP format using the Aspose.Cells library, all through efficient and customizable Python code.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart JPEG files to BMP Converter for Python., Convert JPEG to BMP in Python., JPEG files to BMP Conversion in Python., Leverage intelligent data processing to automatically parse and save JPEG into BMP format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -29,7 +29,7 @@ Follow the easy steps to convert JPEG to BMP. Upload your JPEG file, then simply
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert JPEG to BMP via Python Excel Library" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="jpg" outformat="bmp" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Sample Code to Convert JPEG to BMP via Python Excel Library" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="jpg" outformat="bmp" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert JPEG to BMP" %}}
 

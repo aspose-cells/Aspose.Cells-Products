@@ -1,7 +1,7 @@
 ---
 title: Node.js XLSB to TIFF - XLSB to TIFF Converter
-description: Aspose Excel. Convert XLSB to TIFF quickly and easily with Aspose.Cells. Node.js XLSB to TIFF. Node.js Save XLSB to TIFF. Save XLSB as TIFF using Node.js.
-keywords: [Aspose Excel., Node.js Aspose.Cells., Convert XLSB to TIFF in Node.js., Save XLSB to TIFF using Node.js., Node.js XLSB to TIFF saveformat., XLSB to TIFF Converter., Node.js Save XLSB as TIFF]
+description: Aspose Excel. This comprehensive solution provides Node.js developers with a fully integrated approach to convert XLSB to TIFF format, enabling seamless saving of XLSB data into TIFF format using the Aspose.Cells library, all through efficient and customizable Node.js code.
+keywords: [Aspose Excel., Node.js Aspose.Cells., Smart XLSB files to TIFF Converter for Node.js., Convert XLSB to TIFF in Node.js., XLSB files to TIFF Conversion in Node.js., Leverage intelligent data processing to automatically parse and save XLSB into TIFF format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -28,7 +28,7 @@ Follow the easy steps to convert XLSB to TIFF. Upload your XLSB file, then simpl
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert XLSB to TIFF" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsb" outformat="tiff" IsLandingPage="true" language="nodejscpp" %}}
+{{% cells-convert title="Sample Code to Convert XLSB to TIFF" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="xlsb" outformat="tiff" IsLandingPage="true" language="nodejscpp" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert XLSB to TIFF via Node.js" %}}
 

@@ -1,7 +1,7 @@
 ---
 title: Python OTS to BMP - OTS to BMP Converter
-description: Aspose Excel. Python Excel. Convert OTS to BMP quickly and easily with Aspose.Cells. Python OTS to BMP. Python Save OTS to BMP. Save OTS as BMP using Python Excel Library.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert OTS to BMP in Python Excel Library., Save OTS to BMP using Python Excel Library., Python OTS to BMP saveformat., OTS to BMP Converter., Python Save OTS as BMP]
+description: Aspose Excel. This comprehensive solution provides Python developers with a fully integrated approach to convert OTS to BMP format, enabling seamless saving of OTS data into BMP format using the Aspose.Cells library, all through efficient and customizable Python code.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart OTS files to BMP Converter for Python., Convert OTS to BMP in Python., OTS files to BMP Conversion in Python., Leverage intelligent data processing to automatically parse and save OTS into BMP format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -29,7 +29,7 @@ Follow the easy steps to convert OTS to BMP. Upload your OTS file, then simply s
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert OTS to BMP via Python Excel Library" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="ots" outformat="bmp" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Sample Code to Convert OTS to BMP via Python Excel Library" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="ots" outformat="bmp" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert OTS to BMP" %}}
 

@@ -1,7 +1,7 @@
 ---
 title: Node.js JPEG to PRN - JPEG to PRN Converter
-description: Aspose Excel. Convert JPEG to PRN quickly and easily with Aspose.Cells. Node.js JPEG to PRN. Node.js Save JPEG to PRN. Save JPEG as PRN using Node.js.
-keywords: [Aspose Excel., Node.js Aspose.Cells., Convert JPEG to PRN in Node.js., Save JPEG to PRN using Node.js., Node.js JPEG to PRN saveformat., JPEG to PRN Converter., Node.js Save JPEG as PRN]
+description: Aspose Excel. This comprehensive solution provides Node.js developers with a fully integrated approach to convert JPEG to PRN format, enabling seamless saving of JPEG data into PRN format using the Aspose.Cells library, all through efficient and customizable Node.js code.
+keywords: [Aspose Excel., Node.js Aspose.Cells., Smart JPEG files to PRN Converter for Node.js., Convert JPEG to PRN in Node.js., JPEG files to PRN Conversion in Node.js., Leverage intelligent data processing to automatically parse and save JPEG into PRN format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -28,7 +28,7 @@ Follow the easy steps to convert JPEG to PRN. Upload your JPEG file, then simply
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert JPEG to PRN" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="jpg" outformat="prn" IsLandingPage="true" language="nodejscpp" %}}
+{{% cells-convert title="Sample Code to Convert JPEG to PRN" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="jpg" outformat="prn" IsLandingPage="true" language="nodejscpp" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert JPEG to PRN via Node.js" %}}
 

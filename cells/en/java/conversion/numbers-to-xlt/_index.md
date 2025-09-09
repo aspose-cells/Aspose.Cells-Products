@@ -1,7 +1,7 @@
 ---
 title: Java NUMBERS to XLT - NUMBERS to XLT Converter
-description: Aspose Excel. Convert NUMBERS to XLT quickly and easily with Aspose.Cells. Java NUMBERS to XLT. Java Save NUMBERS to XLT. Save NUMBERS as XLT using Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Convert NUMBERS to XLT in Java., Save NUMBERS to XLT using Java., Java NUMBERS to XLT saveformat., NUMBERS to XLT Converter., Java Save NUMBERS as XLT]
+description: Aspose Excel. This comprehensive solution provides Java developers with a fully integrated approach to convert NUMBERS to XLT format, enabling seamless saving of NUMBERS data into XLT format using the Aspose.Cells library, all through efficient and customizable Java code.
+keywords: [Aspose Excel., Java Aspose.Cells., Smart NUMBERS files to XLT Converter for Java., Convert NUMBERS to XLT in Java., NUMBERS files to XLT Conversion in Java., Leverage intelligent data processing to automatically parse and save NUMBERS into XLT format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -57,7 +57,7 @@ Follow the easy steps to convert NUMBERS to XLT. Upload your NUMBERS file, then 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert NUMBERS to XLT" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="numbers" outformat="xlt" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Sample Code to Convert NUMBERS to XLT" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="numbers" outformat="xlt" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert NUMBERS to XLT via Java" %}}
 

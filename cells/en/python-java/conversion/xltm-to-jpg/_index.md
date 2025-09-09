@@ -1,7 +1,7 @@
 ---
 title: Python XLTM to JPG - XLTM to JPG Converter
-description: Aspose Excel. Python Excel. Convert XLTM to JPG quickly and easily with Aspose.Cells. Python XLTM to JPG. Python Save XLTM to JPG. Save XLTM as JPG using Python Excel Library.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert XLTM to JPG in Python Excel Library., Save XLTM to JPG using Python Excel Library., Python XLTM to JPG saveformat., XLTM to JPG Converter., Python Save XLTM as JPG]
+description: Aspose Excel. This comprehensive solution provides Python developers with a fully integrated approach to convert XLTM to JPG format, enabling seamless saving of XLTM data into JPG format using the Aspose.Cells library, all through efficient and customizable Python code.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart XLTM files to JPG Converter for Python., Convert XLTM to JPG in Python., XLTM files to JPG Conversion in Python., Leverage intelligent data processing to automatically parse and save XLTM into JPG format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -28,7 +28,7 @@ Follow the easy steps to convert XLTM to JPG. Upload your XLTM file, then simply
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert XLTM to JPG via Python Excel Library" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xltm" outformat="jpg" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="Sample Code to Convert XLTM to JPG via Python Excel Library" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="xltm" outformat="jpg" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert XLTM to JPG via Python" %}}
 

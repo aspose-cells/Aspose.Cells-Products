@@ -1,7 +1,7 @@
 ---
 title: PHP CSV to ET - CSV to ET Converter
-description: Aspose Excel. Convert CSV to ET quickly and easily with Aspose.Cells. PHP CSV to ET. PHP Save CSV to ET. Save CSV as ET using PHP.
-keywords: [Aspose Excel., PHP Aspose.Cells., Convert CSV to ET in PHP., Save CSV to ET using PHP., PHP CSV to ET saveformat., CSV to ET Converter., PHP Save CSV as ET]
+description: Aspose Excel. This comprehensive solution provides PHP developers with a fully integrated approach to convert CSV to ET format, enabling seamless saving of CSV data into ET format using the Aspose.Cells library, all through efficient and customizable PHP code.
+keywords: [Aspose Excel., PHP Aspose.Cells., Smart CSV files to ET Converter for PHP., Convert CSV to ET in PHP., CSV files to ET Conversion in PHP., Leverage intelligent data processing to automatically parse and save CSV into ET format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -28,7 +28,7 @@ Follow the easy steps to convert CSV to ET. Upload your CSV file, then simply sa
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert CSV to ET" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="csv" outformat="et" IsLandingPage="true" language="phpjava" %}}
+{{% cells-convert title="Sample Code to Convert CSV to ET" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="csv" outformat="et" IsLandingPage="true" language="phpjava" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert CSV to ET via PHP" %}}
 

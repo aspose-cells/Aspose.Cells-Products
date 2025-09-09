@@ -1,7 +1,7 @@
 ---
 title: Java XLTX to DIF - XLTX to DIF Converter
-description: Aspose Excel. Convert XLTX to DIF quickly and easily with Aspose.Cells. Java XLTX to DIF. Java Save XLTX to DIF. Save XLTX as DIF using Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Convert XLTX to DIF in Java., Save XLTX to DIF using Java., Java XLTX to DIF saveformat., XLTX to DIF Converter., Java Save XLTX as DIF]
+description: Aspose Excel. This comprehensive solution provides Java developers with a fully integrated approach to convert XLTX to DIF format, enabling seamless saving of XLTX data into DIF format using the Aspose.Cells library, all through efficient and customizable Java code.
+keywords: [Aspose Excel., Java Aspose.Cells., Smart XLTX files to DIF Converter for Java., Convert XLTX to DIF in Java., XLTX files to DIF Conversion in Java., Leverage intelligent data processing to automatically parse and save XLTX into DIF format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -57,7 +57,7 @@ Follow the easy steps to convert XLTX to DIF. Upload your XLTX file, then simply
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert XLTX to DIF" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xltx" outformat="dif" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Sample Code to Convert XLTX to DIF" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="xltx" outformat="dif" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert XLTX to DIF via Java" %}}
 

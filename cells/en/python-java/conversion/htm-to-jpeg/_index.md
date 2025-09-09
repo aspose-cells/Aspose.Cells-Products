@@ -1,7 +1,7 @@
 ---
 title: Python HTM to JPEG - HTM to JPEG Converter
-description: Aspose Excel. Python Excel. Convert HTM to JPEG quickly and easily with Aspose.Cells. Python HTM to JPEG. Python Save HTM to JPEG. Save HTM as JPEG using Python Excel Library.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert HTM to JPEG in Python Excel Library., Save HTM to JPEG using Python Excel Library., Python HTM to JPEG saveformat., HTM to JPEG Converter., Python Save HTM as JPEG]
+description: Aspose Excel. This comprehensive solution provides Python developers with a fully integrated approach to convert HTM to JPEG format, enabling seamless saving of HTM data into JPEG format using the Aspose.Cells library, all through efficient and customizable Python code.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart HTM files to JPEG Converter for Python., Convert HTM to JPEG in Python., HTM files to JPEG Conversion in Python., Leverage intelligent data processing to automatically parse and save HTM into JPEG format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -28,7 +28,7 @@ Follow the easy steps to convert HTM to JPEG. Upload your HTM file, then simply 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert HTM to JPEG via Python Excel Library" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="htm" outformat="jpg" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="Sample Code to Convert HTM to JPEG via Python Excel Library" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="htm" outformat="jpg" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert HTM to JPEG via Python" %}}
 

@@ -1,7 +1,7 @@
 ---
 title: Python XLSB to XLSX - XLSB to XLSX Converter
-description: Aspose Excel. Python Excel. Convert XLSB to XLSX quickly and easily with Aspose.Cells. Python XLSB to XLSX. Python Save XLSB to XLSX. Save XLSB as XLSX using Python Excel Library.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert XLSB to XLSX in Python Excel Library., Save XLSB to XLSX using Python Excel Library., Python XLSB to XLSX saveformat., XLSB to XLSX Converter., Python Save XLSB as XLSX]
+description: Aspose Excel. This comprehensive solution provides Python developers with a fully integrated approach to convert XLSB to XLSX format, enabling seamless saving of XLSB data into XLSX format using the Aspose.Cells library, all through efficient and customizable Python code.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart XLSB files to XLSX Converter for Python., Convert XLSB to XLSX in Python., XLSB files to XLSX Conversion in Python., Leverage intelligent data processing to automatically parse and save XLSB into XLSX format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -28,7 +28,7 @@ Follow the easy steps to convert XLSB to XLSX. Upload your XLSB file, then simpl
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert XLSB to XLSX via Python Excel Library" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsb" outformat="xlsx" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="Sample Code to Convert XLSB to XLSX via Python Excel Library" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="xlsb" outformat="xlsx" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert XLSB to XLSX via Python" %}}
 

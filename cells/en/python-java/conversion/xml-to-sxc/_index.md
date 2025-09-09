@@ -1,7 +1,7 @@
 ---
 title: Python XML to SXC - XML to SXC Converter
-description: Aspose Excel. Python Excel. Convert XML to SXC quickly and easily with Aspose.Cells. Python XML to SXC. Python Save XML to SXC. Save XML as SXC using Python Excel Library.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert XML to SXC in Python Excel Library., Save XML to SXC using Python Excel Library., Python XML to SXC saveformat., XML to SXC Converter., Python Save XML as SXC]
+description: Aspose Excel. This comprehensive solution provides Python developers with a fully integrated approach to convert XML to SXC format, enabling seamless saving of XML data into SXC format using the Aspose.Cells library, all through efficient and customizable Python code.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart XML files to SXC Converter for Python., Convert XML to SXC in Python., XML files to SXC Conversion in Python., Leverage intelligent data processing to automatically parse and save XML into SXC format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -28,7 +28,7 @@ Follow the easy steps to convert XML to SXC. Upload your XML file, then simply s
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert XML to SXC via Python Excel Library" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xml" outformat="sxc" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="Sample Code to Convert XML to SXC via Python Excel Library" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="xml" outformat="sxc" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert XML to SXC via Python" %}}
 

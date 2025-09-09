@@ -1,7 +1,7 @@
 ---
 title: C++ NUMBERS to EXCEL - NUMBERS to EXCEL Converter
-description: Aspose Excel. Convert NUMBERS to EXCEL quickly and easily with Aspose.Cells. C++ NUMBERS to EXCEL. C++ Save NUMBERS to EXCEL. Save NUMBERS as EXCEL using C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., Convert NUMBERS to EXCEL in C++., Save NUMBERS to EXCEL using C++., C++ NUMBERS to EXCEL saveformat., NUMBERS to EXCEL Converter., C++ Save NUMBERS as EXCEL]
+description: Aspose Excel. This comprehensive solution provides C++ developers with a fully integrated approach to convert NUMBERS to EXCEL format, enabling seamless saving of NUMBERS data into EXCEL format using the Aspose.Cells library, all through efficient and customizable C++ code.
+keywords: [Aspose Excel., C++ Aspose.Cells., Smart NUMBERS files to EXCEL Converter for C++., Convert NUMBERS to EXCEL in C++., NUMBERS files to EXCEL Conversion in C++., Leverage intelligent data processing to automatically parse and save NUMBERS into EXCEL format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -38,7 +38,7 @@ Follow the easy steps to convert NUMBERS to EXCEL. Upload your NUMBERS file, the
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert NUMBERS to EXCEL" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="numbers" outformat="xlsx" IsLandingPage="true" language="cpp" %}}
+{{% cells-convert title="Sample Code to Convert NUMBERS to EXCEL" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="numbers" outformat="xlsx" IsLandingPage="true" language="cpp" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert NUMBERS to EXCEL via C++" %}}
 
@@ -102,6 +102,7 @@ There are three options to install "Aspose.Cells for C++" onto your system. Plea
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/numbers-to-pdf/" name="NUMBERS TO PDF" description="Portable Document Format" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/numbers-to-png/" name="NUMBERS TO PNG" description="Portable Network Graphics" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/numbers-to-svg/" name="NUMBERS TO SVG" description="Scalable Vector Graphics" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/numbers-to-tiff/" name="NUMBERS TO TIFF" description="Tagged Image Format" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/numbers-to-tsv/" name="NUMBERS TO TSV" description="Tab-Separated Values" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/numbers-to-txt/" name="NUMBERS TO TXT" description="Text Document" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/numbers-to-xls/" name="NUMBERS TO XLS" description="Excel Binary Format" >}}

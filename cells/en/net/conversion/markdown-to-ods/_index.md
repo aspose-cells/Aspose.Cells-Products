@@ -1,7 +1,7 @@
 ---
 title: C# MARKDOWN to ODS - MARKDOWN to ODS Converter
-description: Aspose Excel. Convert MARKDOWN to ODS quickly and easily with Aspose.Cells. C# MARKDOWN to ODS. C# Save MARKDOWN to ODS. Save MARKDOWN as ODS using C#.
-keywords: [Aspose Excel., C# Aspose.Cells., Convert MARKDOWN to ODS in C#., Save MARKDOWN to ODS using C#., C# MARKDOWN to ODS saveformat., MARKDOWN to ODS Converter., C# Save MARKDOWN as ODS]
+description: Aspose Excel. This comprehensive solution provides C# developers with a fully integrated approach to convert MARKDOWN to ODS format, enabling seamless saving of MARKDOWN data into ODS format using the Aspose.Cells library, all through efficient and customizable C# code.
+keywords: [Aspose Excel., C# Aspose.Cells., Smart MARKDOWN files to ODS Converter for C#., Convert MARKDOWN to ODS in C#., MARKDOWN files to ODS Conversion in C#., Leverage intelligent data processing to automatically parse and save MARKDOWN into ODS format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -36,7 +36,7 @@ Follow the easy steps to convert MARKDOWN to ODS. Upload your MARKDOWN file, the
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert MARKDOWN to ODS" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="md" outformat="ods" IsLandingPage="true" %}}
+{{% cells-convert title="Sample Code to Convert MARKDOWN to ODS" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="md" outformat="ods" IsLandingPage="true" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert MARKDOWN to ODS via C#" %}}
 

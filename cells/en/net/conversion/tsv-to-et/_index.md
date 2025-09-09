@@ -1,7 +1,7 @@
 ---
 title: C# TSV to ET - TSV to ET Converter
-description: Aspose Excel. Convert TSV to ET quickly and easily with Aspose.Cells. C# TSV to ET. C# Save TSV to ET. Save TSV as ET using C#.
-keywords: [Aspose Excel., C# Aspose.Cells., Convert TSV to ET in C#., Save TSV to ET using C#., C# TSV to ET saveformat., TSV to ET Converter., C# Save TSV as ET]
+description: Aspose Excel. This comprehensive solution provides C# developers with a fully integrated approach to convert TSV to ET format, enabling seamless saving of TSV data into ET format using the Aspose.Cells library, all through efficient and customizable C# code.
+keywords: [Aspose Excel., C# Aspose.Cells., Smart TSV files to ET Converter for C#., Convert TSV to ET in C#., TSV files to ET Conversion in C#., Leverage intelligent data processing to automatically parse and save TSV into ET format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -36,7 +36,7 @@ Follow the easy steps to convert TSV to ET. Upload your TSV file, then simply sa
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert TSV to ET" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="tsv" outformat="et" IsLandingPage="true" %}}
+{{% cells-convert title="Sample Code to Convert TSV to ET" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="tsv" outformat="et" IsLandingPage="true" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert TSV to ET via C#" %}}
 

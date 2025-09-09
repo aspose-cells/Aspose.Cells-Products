@@ -1,7 +1,7 @@
 ---
 title: C# XLT to PNG - XLT to PNG Converter
-description: Aspose Excel. Convert XLT to PNG quickly and easily with Aspose.Cells. C# XLT to PNG. C# Save XLT to PNG. Save XLT as PNG using C#.
-keywords: [Aspose Excel., C# Aspose.Cells., Convert XLT to PNG in C#., Save XLT to PNG using C#., C# XLT to PNG saveformat., XLT to PNG Converter., C# Save XLT as PNG]
+description: Aspose Excel. This comprehensive solution provides C# developers with a fully integrated approach to convert XLT to PNG format, enabling seamless saving of XLT data into PNG format using the Aspose.Cells library, all through efficient and customizable C# code.
+keywords: [Aspose Excel., C# Aspose.Cells., Smart XLT files to PNG Converter for C#., Convert XLT to PNG in C#., XLT files to PNG Conversion in C#., Leverage intelligent data processing to automatically parse and save XLT into PNG format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -36,7 +36,7 @@ Follow the easy steps to convert XLT to PNG. Upload your XLT file, then simply s
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert XLT to PNG" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlt" outformat="png" IsLandingPage="true" %}}
+{{% cells-convert title="Sample Code to Convert XLT to PNG" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="xlt" outformat="png" IsLandingPage="true" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert XLT to PNG via C#" %}}
 

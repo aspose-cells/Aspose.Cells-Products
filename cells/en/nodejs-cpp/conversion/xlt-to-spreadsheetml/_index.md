@@ -1,7 +1,7 @@
 ---
 title: Node.js XLT to SPREADSHEETML - XLT to SPREADSHEETML Converter
-description: Aspose Excel. Convert XLT to SPREADSHEETML quickly and easily with Aspose.Cells. Node.js XLT to SPREADSHEETML. Node.js Save XLT to SPREADSHEETML. Save XLT as SPREADSHEETML using Node.js.
-keywords: [Aspose Excel., Node.js Aspose.Cells., Convert XLT to SPREADSHEETML in Node.js., Save XLT to SPREADSHEETML using Node.js., Node.js XLT to SPREADSHEETML saveformat., XLT to SPREADSHEETML Converter., Node.js Save XLT as SPREADSHEETML]
+description: Aspose Excel. This comprehensive solution provides Node.js developers with a fully integrated approach to convert XLT to SPREADSHEETML format, enabling seamless saving of XLT data into SPREADSHEETML format using the Aspose.Cells library, all through efficient and customizable Node.js code.
+keywords: [Aspose Excel., Node.js Aspose.Cells., Smart XLT files to SPREADSHEETML Converter for Node.js., Convert XLT to SPREADSHEETML in Node.js., XLT files to SPREADSHEETML Conversion in Node.js., Leverage intelligent data processing to automatically parse and save XLT into SPREADSHEETML format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -28,7 +28,7 @@ Follow the easy steps to convert XLT to SPREADSHEETML. Upload your XLT file, the
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert XLT to SPREADSHEETML" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlt" outformat="xml" IsLandingPage="true" language="nodejscpp" %}}
+{{% cells-convert title="Sample Code to Convert XLT to SPREADSHEETML" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="xlt" outformat="xml" IsLandingPage="true" language="nodejscpp" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert XLT to SPREADSHEETML via Node.js" %}}
 

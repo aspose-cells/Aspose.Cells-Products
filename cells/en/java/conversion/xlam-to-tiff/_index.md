@@ -1,7 +1,7 @@
 ---
-title: XLAM to TIFF - Convert XLAM to TIFF files Java
-description: Aspose Excel. Free Online Convert XLAM to TIFF saveformat. Java XLAM to TIFF format. Save XLAM as TIFF in Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Java XLAM to TIFF saveformat., Free Online XLAM to TIFF Converter]
+title: Java XLAM to TIFF - XLAM to TIFF Converter
+description: Aspose Excel. This comprehensive solution provides Java developers with a fully integrated approach to convert XLAM to TIFF format, enabling seamless saving of XLAM data into TIFF format using the Aspose.Cells library, all through efficient and customizable Java code.
+keywords: [Aspose Excel., Java Aspose.Cells., Smart XLAM files to TIFF Converter for Java., Convert XLAM to TIFF in Java., XLAM files to TIFF Conversion in Java., Leverage intelligent data processing to automatically parse and save XLAM into TIFF format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -46,7 +46,7 @@ How do I convert XLAM to TIFF? With Aspose.Cells for Java library, you can easil
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Save XLAM to TIFF in Java Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Save XLAM to TIFF in Java" %}}
 
 The following example demonstrates how to convert XLAM to TIFF in Java.
 {{% blocks/products/pf/agp/text %}}
@@ -57,7 +57,7 @@ Follow the easy steps to convert XLAM to TIFF. Upload your XLAM file, then simpl
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Free App and Sample Code to Convert XLAM to TIFF Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlam" outformat="tiff" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Sample Code to Convert XLAM to TIFF" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="xlam" outformat="tiff" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert XLAM to TIFF via Java" %}}
 
@@ -96,6 +96,12 @@ We host our Java packages in [Maven](https://repository.aspose.com/webapp/#/arti
 
 {{% /blocks/products/pf/agp/content %}}
 
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="XLAM" readMoreLink="https://docs.fileformat.com/spreadsheet/xlam/" >}}XLAM is an Macro-Enabled Add-In file that is used to add new functions to spreadsheets. An Add-In is a supplemental program that runs additional code and provides additional functionality for spreadsheets. XLAM files are stored with the .xlam extension. XLAM files are XML-based files similar to XLSM and XLSX file formats and are saved with ZIP compression to reduce the overall file size.{{< /blocks/products/pf/agp/about-file-text >}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="TIFF" readMoreLink="https://docs.fileformat.com/image/tiff/" >}}TIFF or TIF, Tagged Image File Format, represents raster images that are meant for usage on a variety of devices that comply with this file format standard. It is capable of describing bilevel, grayscale, palette-color and full-color image data in several color spaces. It supports lossy as well as lossless compression schemes to choose between space and time for applications using the format. The format is not machine dependent and is free from bounds like processor, operating system, or file systems.{{< /blocks/products/pf/agp/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Other Supported Conversions" subTitle="You can also convert XLAM to many other file formats including few listed below." >}}
 

@@ -1,7 +1,7 @@
 ---
-title: XLAM to JSON - Convert XLAM to JSON files Java
-description: Aspose Excel. Free Online Convert XLAM to JSON saveformat. Java XLAM to JSON format. Save XLAM as JSON in Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Java XLAM to JSON saveformat., Free Online XLAM to JSON Converter]
+title: Java XLAM to JSON - XLAM to JSON Converter
+description: Aspose Excel. This comprehensive solution provides Java developers with a fully integrated approach to convert XLAM to JSON format, enabling seamless saving of XLAM data into JSON format using the Aspose.Cells library, all through efficient and customizable Java code.
+keywords: [Aspose Excel., Java Aspose.Cells., Smart XLAM files to JSON Converter for Java., Convert XLAM to JSON in Java., XLAM files to JSON Conversion in Java., Leverage intelligent data processing to automatically parse and save XLAM into JSON format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -46,7 +46,7 @@ How do I convert XLAM to JSON? With Aspose.Cells for Java library, you can easil
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Save XLAM to JSON in Java Online for Free" %}}
+{{% blocks/products/pf/agp/content h2="Save XLAM to JSON in Java" %}}
 
 The following example demonstrates how to convert XLAM to JSON in Java.
 {{% blocks/products/pf/agp/text %}}
@@ -57,7 +57,7 @@ Follow the easy steps to convert XLAM to JSON. Upload your XLAM file, then simpl
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Free App and Sample Code to Convert XLAM to JSON Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlam" outformat="json" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Sample Code to Convert XLAM to JSON" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="xlam" outformat="json" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert XLAM to JSON via Java" %}}
 
@@ -96,6 +96,12 @@ We host our Java packages in [Maven](https://repository.aspose.com/webapp/#/arti
 
 {{% /blocks/products/pf/agp/content %}}
 
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="XLAM" readMoreLink="https://docs.fileformat.com/spreadsheet/xlam/" >}}XLAM is an Macro-Enabled Add-In file that is used to add new functions to spreadsheets. An Add-In is a supplemental program that runs additional code and provides additional functionality for spreadsheets. XLAM files are stored with the .xlam extension. XLAM files are XML-based files similar to XLSM and XLSX file formats and are saved with ZIP compression to reduce the overall file size.{{< /blocks/products/pf/agp/about-file-text >}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="JSON" readMoreLink="https://docs.fileformat.com/web/json/" >}}JSON (JavaScript Object Notation) is an open standard file format for sharing data that uses human-readable text to store and transmit data. JSON files are stored with the .json extension. JSON requires less formatting and is a good alternative for XML. JSON is derived from JavaScript but is a language-independent data format. The generation and parsing of JSON is supported by many modern programming languages. application/json is the media type used for JSON.{{< /blocks/products/pf/agp/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Other Supported Conversions" subTitle="You can also convert XLAM to many other file formats including few listed below." >}}
 

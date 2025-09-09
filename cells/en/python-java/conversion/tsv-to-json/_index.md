@@ -1,7 +1,7 @@
 ---
 title: Python TSV to JSON - TSV to JSON Converter
-description: Aspose Excel. Python Excel. Convert TSV to JSON quickly and easily with Aspose.Cells. Python TSV to JSON. Python Save TSV to JSON. Save TSV as JSON using Python Excel Library.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert TSV to JSON in Python Excel Library., Save TSV to JSON using Python Excel Library., Python TSV to JSON saveformat., TSV to JSON Converter., Python Save TSV as JSON]
+description: Aspose Excel. This comprehensive solution provides Python developers with a fully integrated approach to convert TSV to JSON format, enabling seamless saving of TSV data into JSON format using the Aspose.Cells library, all through efficient and customizable Python code.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart TSV files to JSON Converter for Python., Convert TSV to JSON in Python., TSV files to JSON Conversion in Python., Leverage intelligent data processing to automatically parse and save TSV into JSON format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -28,7 +28,7 @@ Follow the easy steps to convert TSV to JSON. Upload your TSV file, then simply 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert TSV to JSON via Python Excel Library" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="tsv" outformat="json" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="Sample Code to Convert TSV to JSON via Python Excel Library" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="tsv" outformat="json" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert TSV to JSON via Python" %}}
 

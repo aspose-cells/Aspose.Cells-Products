@@ -1,7 +1,7 @@
 ---
 title: PHP SXC to ETT - SXC to ETT Converter
-description: Aspose Excel. Convert SXC to ETT quickly and easily with Aspose.Cells. PHP SXC to ETT. PHP Save SXC to ETT. Save SXC as ETT using PHP.
-keywords: [Aspose Excel., PHP Aspose.Cells., Convert SXC to ETT in PHP., Save SXC to ETT using PHP., PHP SXC to ETT saveformat., SXC to ETT Converter., PHP Save SXC as ETT]
+description: Aspose Excel. This comprehensive solution provides PHP developers with a fully integrated approach to convert SXC to ETT format, enabling seamless saving of SXC data into ETT format using the Aspose.Cells library, all through efficient and customizable PHP code.
+keywords: [Aspose Excel., PHP Aspose.Cells., Smart SXC files to ETT Converter for PHP., Convert SXC to ETT in PHP., SXC files to ETT Conversion in PHP., Leverage intelligent data processing to automatically parse and save SXC into ETT format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -28,7 +28,7 @@ Follow the easy steps to convert SXC to ETT. Upload your SXC file, then simply s
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert SXC to ETT" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="sxc" outformat="ett" IsLandingPage="true" language="phpjava" %}}
+{{% cells-convert title="Sample Code to Convert SXC to ETT" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="sxc" outformat="ett" IsLandingPage="true" language="phpjava" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert SXC to ETT via PHP" %}}
 

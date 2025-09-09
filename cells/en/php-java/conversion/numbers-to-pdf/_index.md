@@ -1,7 +1,7 @@
 ---
 title: PHP NUMBERS to PDF - NUMBERS to PDF Converter
-description: Aspose Excel. Convert NUMBERS to PDF quickly and easily with Aspose.Cells. PHP NUMBERS to PDF. PHP Save NUMBERS to PDF. Save NUMBERS as PDF using PHP.
-keywords: [Aspose Excel., PHP Aspose.Cells., Convert NUMBERS to PDF in PHP., Save NUMBERS to PDF using PHP., PHP NUMBERS to PDF saveformat., NUMBERS to PDF Converter., PHP Save NUMBERS as PDF]
+description: Aspose Excel. This comprehensive solution provides PHP developers with a fully integrated approach to convert NUMBERS to PDF format, enabling seamless saving of NUMBERS data into PDF format using the Aspose.Cells library, all through efficient and customizable PHP code.
+keywords: [Aspose Excel., PHP Aspose.Cells., Smart NUMBERS files to PDF Converter for PHP., Convert NUMBERS to PDF in PHP., NUMBERS files to PDF Conversion in PHP., Leverage intelligent data processing to automatically parse and save NUMBERS into PDF format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -28,7 +28,7 @@ Follow the easy steps to convert NUMBERS to PDF. Upload your NUMBERS file, then 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert NUMBERS to PDF" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="numbers" outformat="pdf" IsLandingPage="true" language="phpjava" %}}
+{{% cells-convert title="Sample Code to Convert NUMBERS to PDF" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="numbers" outformat="pdf" IsLandingPage="true" language="phpjava" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert NUMBERS to PDF via PHP" %}}
 

@@ -1,7 +1,7 @@
 ---
 title: PHP XLAM to TSV - XLAM to TSV Converter
-description: Aspose Excel. Convert XLAM to TSV quickly and easily with Aspose.Cells. PHP XLAM to TSV. PHP Save XLAM to TSV. Save XLAM as TSV using PHP.
-keywords: [Aspose Excel., PHP Aspose.Cells., Convert XLAM to TSV in PHP., Save XLAM to TSV using PHP., PHP XLAM to TSV saveformat., XLAM to TSV Converter., PHP Save XLAM as TSV]
+description: Aspose Excel. This comprehensive solution provides PHP developers with a fully integrated approach to convert XLAM to TSV format, enabling seamless saving of XLAM data into TSV format using the Aspose.Cells library, all through efficient and customizable PHP code.
+keywords: [Aspose Excel., PHP Aspose.Cells., Smart XLAM files to TSV Converter for PHP., Convert XLAM to TSV in PHP., XLAM files to TSV Conversion in PHP., Leverage intelligent data processing to automatically parse and save XLAM into TSV format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -28,7 +28,7 @@ Follow the easy steps to convert XLAM to TSV. Upload your XLAM file, then simply
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert XLAM to TSV" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlam" outformat="tsv" IsLandingPage="true" language="phpjava" %}}
+{{% cells-convert title="Sample Code to Convert XLAM to TSV" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="xlam" outformat="tsv" IsLandingPage="true" language="phpjava" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert XLAM to TSV via PHP" %}}
 

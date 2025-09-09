@@ -1,7 +1,7 @@
 ---
 title: Node.js MHTML to EXCEL - MHTML to EXCEL Converter
-description: Aspose Excel. Convert MHTML to EXCEL quickly and easily with Aspose.Cells. Node.js MHTML to EXCEL. Node.js Save MHTML to EXCEL. Save MHTML as EXCEL using Node.js.
-keywords: [Aspose Excel., Node.js Aspose.Cells., Convert MHTML to EXCEL in Node.js., Save MHTML to EXCEL using Node.js., Node.js MHTML to EXCEL saveformat., MHTML to EXCEL Converter., Node.js Save MHTML as EXCEL]
+description: Aspose Excel. This comprehensive solution provides Node.js developers with a fully integrated approach to convert MHTML to EXCEL format, enabling seamless saving of MHTML data into EXCEL format using the Aspose.Cells library, all through efficient and customizable Node.js code.
+keywords: [Aspose Excel., Node.js Aspose.Cells., Smart MHTML files to EXCEL Converter for Node.js., Convert MHTML to EXCEL in Node.js., MHTML files to EXCEL Conversion in Node.js., Leverage intelligent data processing to automatically parse and save MHTML into EXCEL format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -28,7 +28,7 @@ Follow the easy steps to convert MHTML to EXCEL. Upload your MHTML file, then si
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert MHTML to EXCEL" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="mhtml" outformat="xlsx" IsLandingPage="true" language="nodejscpp" %}}
+{{% cells-convert title="Sample Code to Convert MHTML to EXCEL" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="mhtml" outformat="xlsx" IsLandingPage="true" language="nodejscpp" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert MHTML to EXCEL via Node.js" %}}
 

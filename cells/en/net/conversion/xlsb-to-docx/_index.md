@@ -1,7 +1,7 @@
 ---
 title: C# XLSB to DOCX - XLSB to DOCX Converter
-description: Aspose Excel. Convert XLSB to DOCX quickly and easily with Aspose.Cells. C# XLSB to DOCX. C# Save XLSB to DOCX. Save XLSB as DOCX using C#.
-keywords: [Aspose Excel., C# Aspose.Cells., Convert XLSB to DOCX in C#., Save XLSB to DOCX using C#., C# XLSB to DOCX saveformat., XLSB to DOCX Converter., C# Save XLSB as DOCX]
+description: Aspose Excel. This comprehensive solution provides C# developers with a fully integrated approach to convert XLSB to DOCX format, enabling seamless saving of XLSB data into DOCX format using the Aspose.Cells library, all through efficient and customizable C# code.
+keywords: [Aspose Excel., C# Aspose.Cells., Smart XLSB files to DOCX Converter for C#., Convert XLSB to DOCX in C#., XLSB files to DOCX Conversion in C#., Leverage intelligent data processing to automatically parse and save XLSB into DOCX format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -36,7 +36,7 @@ Follow the easy steps to convert XLSB to DOCX. Upload your XLSB file, then simpl
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert XLSB to DOCX" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsb" outformat="docx" IsLandingPage="true" %}}
+{{% cells-convert title="Sample Code to Convert XLSB to DOCX" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="xlsb" outformat="docx" IsLandingPage="true" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert XLSB to DOCX via C#" %}}
 

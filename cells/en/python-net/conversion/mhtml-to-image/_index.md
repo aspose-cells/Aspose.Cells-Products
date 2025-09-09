@@ -1,7 +1,7 @@
 ---
 title: Python MHTML to IMAGE - MHTML to IMAGE Converter
-description: Aspose Excel. Python Excel. Convert MHTML to IMAGE quickly and easily with Aspose.Cells. Python MHTML to IMAGE. Python Save MHTML to IMAGE. Save MHTML as IMAGE using Python Excel Library.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert MHTML to IMAGE in Python Excel Library., Save MHTML to IMAGE using Python Excel Library., Python MHTML to IMAGE saveformat., MHTML to IMAGE Converter., Python Save MHTML as IMAGE]
+description: Aspose Excel. This comprehensive solution provides Python developers with a fully integrated approach to convert MHTML to IMAGE format, enabling seamless saving of MHTML data into IMAGE format using the Aspose.Cells library, all through efficient and customizable Python code.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart MHTML files to IMAGE Converter for Python., Convert MHTML to IMAGE in Python., MHTML files to IMAGE Conversion in Python., Leverage intelligent data processing to automatically parse and save MHTML into IMAGE format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -29,7 +29,7 @@ Follow the easy steps to convert MHTML to IMAGE. Upload your MHTML file, then si
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert MHTML to IMAGE via Python Excel Library" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="mhtml" outformat="png" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Sample Code to Convert MHTML to IMAGE via Python Excel Library" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="mhtml" outformat="png" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert MHTML to IMAGE" %}}
 

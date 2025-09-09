@@ -1,7 +1,7 @@
 ---
 title: C++ MARKDOWN to MD - MARKDOWN to MD Converter
-description: Aspose Excel. Convert MARKDOWN to MD quickly and easily with Aspose.Cells. C++ MARKDOWN to MD. C++ Save MARKDOWN to MD. Save MARKDOWN as MD using C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., Convert MARKDOWN to MD in C++., Save MARKDOWN to MD using C++., C++ MARKDOWN to MD saveformat., MARKDOWN to MD Converter., C++ Save MARKDOWN as MD]
+description: Aspose Excel. This comprehensive solution provides C++ developers with a fully integrated approach to convert MARKDOWN to MD format, enabling seamless saving of MARKDOWN data into MD format using the Aspose.Cells library, all through efficient and customizable C++ code.
+keywords: [Aspose Excel., C++ Aspose.Cells., Smart MARKDOWN files to MD Converter for C++., Convert MARKDOWN to MD in C++., MARKDOWN files to MD Conversion in C++., Leverage intelligent data processing to automatically parse and save MARKDOWN into MD format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -38,7 +38,7 @@ Follow the easy steps to convert MARKDOWN to MD. Upload your MARKDOWN file, then
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert MARKDOWN to MD" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="md" outformat="md" IsLandingPage="true" language="cpp" %}}
+{{% cells-convert title="Sample Code to Convert MARKDOWN to MD" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="md" outformat="md" IsLandingPage="true" language="cpp" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert MARKDOWN to MD via C++" %}}
 

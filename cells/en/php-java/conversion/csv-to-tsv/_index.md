@@ -1,7 +1,7 @@
 ---
 title: PHP CSV to TSV - CSV to TSV Converter
-description: Aspose Excel. Convert CSV to TSV quickly and easily with Aspose.Cells. PHP CSV to TSV. PHP Save CSV to TSV. Save CSV as TSV using PHP.
-keywords: [Aspose Excel., PHP Aspose.Cells., Convert CSV to TSV in PHP., Save CSV to TSV using PHP., PHP CSV to TSV saveformat., CSV to TSV Converter., PHP Save CSV as TSV]
+description: Aspose Excel. This comprehensive solution provides PHP developers with a fully integrated approach to convert CSV to TSV format, enabling seamless saving of CSV data into TSV format using the Aspose.Cells library, all through efficient and customizable PHP code.
+keywords: [Aspose Excel., PHP Aspose.Cells., Smart CSV files to TSV Converter for PHP., Convert CSV to TSV in PHP., CSV files to TSV Conversion in PHP., Leverage intelligent data processing to automatically parse and save CSV into TSV format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -28,7 +28,7 @@ Follow the easy steps to convert CSV to TSV. Upload your CSV file, then simply s
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert CSV to TSV" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="csv" outformat="tsv" IsLandingPage="true" language="phpjava" %}}
+{{% cells-convert title="Sample Code to Convert CSV to TSV" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="csv" outformat="tsv" IsLandingPage="true" language="phpjava" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert CSV to TSV via PHP" %}}
 

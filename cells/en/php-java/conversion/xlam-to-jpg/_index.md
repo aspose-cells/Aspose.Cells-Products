@@ -1,7 +1,7 @@
 ---
 title: PHP XLAM to JPG - XLAM to JPG Converter
-description: Aspose Excel. Convert XLAM to JPG quickly and easily with Aspose.Cells. PHP XLAM to JPG. PHP Save XLAM to JPG. Save XLAM as JPG using PHP.
-keywords: [Aspose Excel., PHP Aspose.Cells., Convert XLAM to JPG in PHP., Save XLAM to JPG using PHP., PHP XLAM to JPG saveformat., XLAM to JPG Converter., PHP Save XLAM as JPG]
+description: Aspose Excel. This comprehensive solution provides PHP developers with a fully integrated approach to convert XLAM to JPG format, enabling seamless saving of XLAM data into JPG format using the Aspose.Cells library, all through efficient and customizable PHP code.
+keywords: [Aspose Excel., PHP Aspose.Cells., Smart XLAM files to JPG Converter for PHP., Convert XLAM to JPG in PHP., XLAM files to JPG Conversion in PHP., Leverage intelligent data processing to automatically parse and save XLAM into JPG format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -28,7 +28,7 @@ Follow the easy steps to convert XLAM to JPG. Upload your XLAM file, then simply
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert XLAM to JPG" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlam" outformat="jpg" IsLandingPage="true" language="phpjava" %}}
+{{% cells-convert title="Sample Code to Convert XLAM to JPG" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="xlam" outformat="jpg" IsLandingPage="true" language="phpjava" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert XLAM to JPG via PHP" %}}
 

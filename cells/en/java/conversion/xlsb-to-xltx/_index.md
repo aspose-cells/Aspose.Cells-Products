@@ -1,7 +1,7 @@
 ---
 title: Java XLSB to XLTX - XLSB to XLTX Converter
-description: Aspose Excel. Convert XLSB to XLTX quickly and easily with Aspose.Cells. Java XLSB to XLTX. Java Save XLSB to XLTX. Save XLSB as XLTX using Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Convert XLSB to XLTX in Java., Save XLSB to XLTX using Java., Java XLSB to XLTX saveformat., XLSB to XLTX Converter., Java Save XLSB as XLTX]
+description: Aspose Excel. This comprehensive solution provides Java developers with a fully integrated approach to convert XLSB to XLTX format, enabling seamless saving of XLSB data into XLTX format using the Aspose.Cells library, all through efficient and customizable Java code.
+keywords: [Aspose Excel., Java Aspose.Cells., Smart XLSB files to XLTX Converter for Java., Convert XLSB to XLTX in Java., XLSB files to XLTX Conversion in Java., Leverage intelligent data processing to automatically parse and save XLSB into XLTX format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -57,7 +57,7 @@ Follow the easy steps to convert XLSB to XLTX. Upload your XLSB file, then simpl
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert XLSB to XLTX" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsb" outformat="xltx" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Sample Code to Convert XLSB to XLTX" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="xlsb" outformat="xltx" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert XLSB to XLTX via Java" %}}
 

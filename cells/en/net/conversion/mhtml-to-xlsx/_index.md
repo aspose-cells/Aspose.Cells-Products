@@ -1,7 +1,7 @@
 ---
 title: C# MHTML to XLSX - MHTML to XLSX Converter
-description: Aspose Excel. Convert MHTML to XLSX quickly and easily with Aspose.Cells. C# MHTML to XLSX. C# Save MHTML to XLSX. Save MHTML as XLSX using C#.
-keywords: [Aspose Excel., C# Aspose.Cells., Convert MHTML to XLSX in C#., Save MHTML to XLSX using C#., C# MHTML to XLSX saveformat., MHTML to XLSX Converter., C# Save MHTML as XLSX]
+description: Aspose Excel. This comprehensive solution provides C# developers with a fully integrated approach to convert MHTML to XLSX format, enabling seamless saving of MHTML data into XLSX format using the Aspose.Cells library, all through efficient and customizable C# code.
+keywords: [Aspose Excel., C# Aspose.Cells., Smart MHTML files to XLSX Converter for C#., Convert MHTML to XLSX in C#., MHTML files to XLSX Conversion in C#., Leverage intelligent data processing to automatically parse and save MHTML into XLSX format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -36,7 +36,7 @@ Follow the easy steps to convert MHTML to XLSX. Upload your MHTML file, then sim
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert MHTML to XLSX" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="mhtml" outformat="xlsx" IsLandingPage="true" %}}
+{{% cells-convert title="Sample Code to Convert MHTML to XLSX" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="mhtml" outformat="xlsx" IsLandingPage="true" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert MHTML to XLSX via C#" %}}
 

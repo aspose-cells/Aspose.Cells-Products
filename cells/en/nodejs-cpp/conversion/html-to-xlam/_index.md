@@ -1,7 +1,7 @@
 ---
 title: Node.js HTML to XLAM - HTML to XLAM Converter
-description: Aspose Excel. Convert HTML to XLAM quickly and easily with Aspose.Cells. Node.js HTML to XLAM. Node.js Save HTML to XLAM. Save HTML as XLAM using Node.js.
-keywords: [Aspose Excel., Node.js Aspose.Cells., Convert HTML to XLAM in Node.js., Save HTML to XLAM using Node.js., Node.js HTML to XLAM saveformat., HTML to XLAM Converter., Node.js Save HTML as XLAM]
+description: Aspose Excel. This comprehensive solution provides Node.js developers with a fully integrated approach to convert HTML to XLAM format, enabling seamless saving of HTML data into XLAM format using the Aspose.Cells library, all through efficient and customizable Node.js code.
+keywords: [Aspose Excel., Node.js Aspose.Cells., Smart HTML files to XLAM Converter for Node.js., Convert HTML to XLAM in Node.js., HTML files to XLAM Conversion in Node.js., Leverage intelligent data processing to automatically parse and save HTML into XLAM format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -28,7 +28,7 @@ Follow the easy steps to convert HTML to XLAM. Upload your HTML file, then simpl
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert HTML to XLAM" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="html" outformat="xlam" IsLandingPage="true" language="nodejscpp" %}}
+{{% cells-convert title="Sample Code to Convert HTML to XLAM" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="html" outformat="xlam" IsLandingPage="true" language="nodejscpp" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert HTML to XLAM via Node.js" %}}
 

@@ -1,7 +1,7 @@
 ---
 title: PHP PRN to JPEG - PRN to JPEG Converter
-description: Aspose Excel. Convert PRN to JPEG quickly and easily with Aspose.Cells. PHP PRN to JPEG. PHP Save PRN to JPEG. Save PRN as JPEG using PHP.
-keywords: [Aspose Excel., PHP Aspose.Cells., Convert PRN to JPEG in PHP., Save PRN to JPEG using PHP., PHP PRN to JPEG saveformat., PRN to JPEG Converter., PHP Save PRN as JPEG]
+description: Aspose Excel. This comprehensive solution provides PHP developers with a fully integrated approach to convert PRN to JPEG format, enabling seamless saving of PRN data into JPEG format using the Aspose.Cells library, all through efficient and customizable PHP code.
+keywords: [Aspose Excel., PHP Aspose.Cells., Smart PRN files to JPEG Converter for PHP., Convert PRN to JPEG in PHP., PRN files to JPEG Conversion in PHP., Leverage intelligent data processing to automatically parse and save PRN into JPEG format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -28,7 +28,7 @@ Follow the easy steps to convert PRN to JPEG. Upload your PRN file, then simply 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert PRN to JPEG" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="prn" outformat="jpg" IsLandingPage="true" language="phpjava" %}}
+{{% cells-convert title="Sample Code to Convert PRN to JPEG" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="prn" outformat="jpg" IsLandingPage="true" language="phpjava" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert PRN to JPEG via PHP" %}}
 

@@ -1,7 +1,7 @@
 ---
 title: PHP EXCEL to GIF - EXCEL to GIF Converter
-description: Aspose Excel. Convert EXCEL to GIF quickly and easily with Aspose.Cells. PHP EXCEL to GIF. PHP Save EXCEL to GIF. Save EXCEL as GIF using PHP.
-keywords: [Aspose Excel., PHP Aspose.Cells., Convert EXCEL to GIF in PHP., Save EXCEL to GIF using PHP., PHP EXCEL to GIF saveformat., EXCEL to GIF Converter., PHP Save EXCEL as GIF]
+description: Aspose Excel. This comprehensive solution provides PHP developers with a fully integrated approach to convert EXCEL to GIF format, enabling seamless saving of EXCEL data into GIF format using the Aspose.Cells library, all through efficient and customizable PHP code.
+keywords: [Aspose Excel., PHP Aspose.Cells., Smart EXCEL files to GIF Converter for PHP., Convert EXCEL to GIF in PHP., EXCEL files to GIF Conversion in PHP., Leverage intelligent data processing to automatically parse and save EXCEL into GIF format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -28,7 +28,7 @@ Follow the easy steps to convert EXCEL to GIF. Upload your EXCEL file, then simp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert EXCEL to GIF" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsx" outformat="gif" IsLandingPage="true" language="phpjava" %}}
+{{% cells-convert title="Sample Code to Convert EXCEL to GIF" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="xlsx" outformat="gif" IsLandingPage="true" language="phpjava" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert EXCEL to GIF via PHP" %}}
 

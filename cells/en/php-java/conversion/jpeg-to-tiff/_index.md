@@ -1,7 +1,7 @@
 ---
 title: PHP JPEG to TIFF - JPEG to TIFF Converter
-description: Aspose Excel. Convert JPEG to TIFF quickly and easily with Aspose.Cells. PHP JPEG to TIFF. PHP Save JPEG to TIFF. Save JPEG as TIFF using PHP.
-keywords: [Aspose Excel., PHP Aspose.Cells., Convert JPEG to TIFF in PHP., Save JPEG to TIFF using PHP., PHP JPEG to TIFF saveformat., JPEG to TIFF Converter., PHP Save JPEG as TIFF]
+description: Aspose Excel. This comprehensive solution provides PHP developers with a fully integrated approach to convert JPEG to TIFF format, enabling seamless saving of JPEG data into TIFF format using the Aspose.Cells library, all through efficient and customizable PHP code.
+keywords: [Aspose Excel., PHP Aspose.Cells., Smart JPEG files to TIFF Converter for PHP., Convert JPEG to TIFF in PHP., JPEG files to TIFF Conversion in PHP., Leverage intelligent data processing to automatically parse and save JPEG into TIFF format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -28,7 +28,7 @@ Follow the easy steps to convert JPEG to TIFF. Upload your JPEG file, then simpl
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert JPEG to TIFF" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="jpg" outformat="tiff" IsLandingPage="true" language="phpjava" %}}
+{{% cells-convert title="Sample Code to Convert JPEG to TIFF" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="jpg" outformat="tiff" IsLandingPage="true" language="phpjava" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert JPEG to TIFF via PHP" %}}
 

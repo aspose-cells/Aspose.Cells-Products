@@ -1,7 +1,7 @@
 ---
 title: Java IMAGE to XLSB - IMAGE to XLSB Converter
-description: Aspose Excel. Convert IMAGE to XLSB quickly and easily with Aspose.Cells. Java IMAGE to XLSB. Java Save IMAGE to XLSB. Save IMAGE as XLSB using Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Convert IMAGE to XLSB in Java., Save IMAGE to XLSB using Java., Java IMAGE to XLSB saveformat., IMAGE to XLSB Converter., Java Save IMAGE as XLSB]
+description: Aspose Excel. This comprehensive solution provides Java developers with a fully integrated approach to convert IMAGE to XLSB format, enabling seamless saving of IMAGE data into XLSB format using the Aspose.Cells library, all through efficient and customizable Java code.
+keywords: [Aspose Excel., Java Aspose.Cells., Smart IMAGE files to XLSB Converter for Java., Convert IMAGE to XLSB in Java., IMAGE files to XLSB Conversion in Java., Leverage intelligent data processing to automatically parse and save IMAGE into XLSB format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -57,7 +57,7 @@ Follow the easy steps to convert IMAGE to XLSB. Upload your IMAGE file, then sim
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert IMAGE to XLSB" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="png" outformat="xlsb" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Sample Code to Convert IMAGE to XLSB" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="png" outformat="xlsb" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert IMAGE to XLSB via Java" %}}
 

@@ -1,7 +1,7 @@
 ---
 title: PHP MARKDOWN to POWERPOINT - MARKDOWN to POWERPOINT Converter
-description: Aspose Excel. Convert MARKDOWN to POWERPOINT quickly and easily with Aspose.Cells. PHP MARKDOWN to POWERPOINT. PHP Save MARKDOWN to POWERPOINT. Save MARKDOWN as POWERPOINT using PHP.
-keywords: [Aspose Excel., PHP Aspose.Cells., Convert MARKDOWN to POWERPOINT in PHP., Save MARKDOWN to POWERPOINT using PHP., PHP MARKDOWN to POWERPOINT saveformat., MARKDOWN to POWERPOINT Converter., PHP Save MARKDOWN as POWERPOINT]
+description: Aspose Excel. This comprehensive solution provides PHP developers with a fully integrated approach to convert MARKDOWN to POWERPOINT format, enabling seamless saving of MARKDOWN data into POWERPOINT format using the Aspose.Cells library, all through efficient and customizable PHP code.
+keywords: [Aspose Excel., PHP Aspose.Cells., Smart MARKDOWN files to POWERPOINT Converter for PHP., Convert MARKDOWN to POWERPOINT in PHP., MARKDOWN files to POWERPOINT Conversion in PHP., Leverage intelligent data processing to automatically parse and save MARKDOWN into POWERPOINT format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -28,7 +28,7 @@ Follow the easy steps to convert MARKDOWN to POWERPOINT. Upload your MARKDOWN fi
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert MARKDOWN to POWERPOINT" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="md" outformat="pptx" IsLandingPage="true" language="phpjava" %}}
+{{% cells-convert title="Sample Code to Convert MARKDOWN to POWERPOINT" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="md" outformat="pptx" IsLandingPage="true" language="phpjava" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert MARKDOWN to POWERPOINT via PHP" %}}
 

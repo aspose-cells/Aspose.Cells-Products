@@ -1,7 +1,7 @@
 ---
 title: C++ SPREADSHEETML to HTML - SPREADSHEETML to HTML Converter
-description: Aspose Excel. Convert SPREADSHEETML to HTML quickly and easily with Aspose.Cells. C++ SPREADSHEETML to HTML. C++ Save SPREADSHEETML to HTML. Save SPREADSHEETML as HTML using C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., Convert SPREADSHEETML to HTML in C++., Save SPREADSHEETML to HTML using C++., C++ SPREADSHEETML to HTML saveformat., SPREADSHEETML to HTML Converter., C++ Save SPREADSHEETML as HTML]
+description: Aspose Excel. This comprehensive solution provides C++ developers with a fully integrated approach to convert SPREADSHEETML to HTML format, enabling seamless saving of SPREADSHEETML data into HTML format using the Aspose.Cells library, all through efficient and customizable C++ code.
+keywords: [Aspose Excel., C++ Aspose.Cells., Smart SPREADSHEETML files to HTML Converter for C++., Convert SPREADSHEETML to HTML in C++., SPREADSHEETML files to HTML Conversion in C++., Leverage intelligent data processing to automatically parse and save SPREADSHEETML into HTML format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -38,7 +38,7 @@ Follow the easy steps to convert SPREADSHEETML to HTML. Upload your SPREADSHEETM
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert SPREADSHEETML to HTML" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xml" outformat="html" IsLandingPage="true" language="cpp" %}}
+{{% cells-convert title="Sample Code to Convert SPREADSHEETML to HTML" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="xml" outformat="html" IsLandingPage="true" language="cpp" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert SPREADSHEETML to HTML via C++" %}}
 
@@ -102,6 +102,7 @@ There are three options to install "Aspose.Cells for C++" onto your system. Plea
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/spreadsheetml-to-pdf/" name="SPREADSHEETML TO PDF" description="Portable Document Format" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/spreadsheetml-to-png/" name="SPREADSHEETML TO PNG" description="Portable Network Graphics" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/spreadsheetml-to-svg/" name="SPREADSHEETML TO SVG" description="Scalable Vector Graphics" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/spreadsheetml-to-tiff/" name="SPREADSHEETML TO TIFF" description="Tagged Image Format" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/spreadsheetml-to-tsv/" name="SPREADSHEETML TO TSV" description="Tab-Separated Values" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/spreadsheetml-to-txt/" name="SPREADSHEETML TO TXT" description="Text Document" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/spreadsheetml-to-xls/" name="SPREADSHEETML TO XLS" description="Excel Binary Format" >}}

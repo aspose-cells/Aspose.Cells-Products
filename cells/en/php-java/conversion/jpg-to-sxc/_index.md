@@ -1,7 +1,7 @@
 ---
 title: PHP JPG to SXC - JPG to SXC Converter
-description: Aspose Excel. Convert JPG to SXC quickly and easily with Aspose.Cells. PHP JPG to SXC. PHP Save JPG to SXC. Save JPG as SXC using PHP.
-keywords: [Aspose Excel., PHP Aspose.Cells., Convert JPG to SXC in PHP., Save JPG to SXC using PHP., PHP JPG to SXC saveformat., JPG to SXC Converter., PHP Save JPG as SXC]
+description: Aspose Excel. This comprehensive solution provides PHP developers with a fully integrated approach to convert JPG to SXC format, enabling seamless saving of JPG data into SXC format using the Aspose.Cells library, all through efficient and customizable PHP code.
+keywords: [Aspose Excel., PHP Aspose.Cells., Smart JPG files to SXC Converter for PHP., Convert JPG to SXC in PHP., JPG files to SXC Conversion in PHP., Leverage intelligent data processing to automatically parse and save JPG into SXC format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -28,7 +28,7 @@ Follow the easy steps to convert JPG to SXC. Upload your JPG file, then simply s
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert JPG to SXC" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="jpg" outformat="sxc" IsLandingPage="true" language="phpjava" %}}
+{{% cells-convert title="Sample Code to Convert JPG to SXC" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="jpg" outformat="sxc" IsLandingPage="true" language="phpjava" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert JPG to SXC via PHP" %}}
 

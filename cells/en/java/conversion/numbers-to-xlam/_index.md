@@ -1,7 +1,7 @@
 ---
 title: Java NUMBERS to XLAM - NUMBERS to XLAM Converter
-description: Aspose Excel. Convert NUMBERS to XLAM quickly and easily with Aspose.Cells. Java NUMBERS to XLAM. Java Save NUMBERS to XLAM. Save NUMBERS as XLAM using Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Convert NUMBERS to XLAM in Java., Save NUMBERS to XLAM using Java., Java NUMBERS to XLAM saveformat., NUMBERS to XLAM Converter., Java Save NUMBERS as XLAM]
+description: Aspose Excel. This comprehensive solution provides Java developers with a fully integrated approach to convert NUMBERS to XLAM format, enabling seamless saving of NUMBERS data into XLAM format using the Aspose.Cells library, all through efficient and customizable Java code.
+keywords: [Aspose Excel., Java Aspose.Cells., Smart NUMBERS files to XLAM Converter for Java., Convert NUMBERS to XLAM in Java., NUMBERS files to XLAM Conversion in Java., Leverage intelligent data processing to automatically parse and save NUMBERS into XLAM format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -57,7 +57,7 @@ Follow the easy steps to convert NUMBERS to XLAM. Upload your NUMBERS file, then
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert NUMBERS to XLAM" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="numbers" outformat="xlam" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Sample Code to Convert NUMBERS to XLAM" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="numbers" outformat="xlam" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert NUMBERS to XLAM via Java" %}}
 

@@ -1,7 +1,7 @@
 ---
 title: Java TXT to ETT - TXT to ETT Converter
-description: Aspose Excel. Convert TXT to ETT quickly and easily with Aspose.Cells. Java TXT to ETT. Java Save TXT to ETT. Save TXT as ETT using Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Convert TXT to ETT in Java., Save TXT to ETT using Java., Java TXT to ETT saveformat., TXT to ETT Converter., Java Save TXT as ETT]
+description: Aspose Excel. This comprehensive solution provides Java developers with a fully integrated approach to convert TXT to ETT format, enabling seamless saving of TXT data into ETT format using the Aspose.Cells library, all through efficient and customizable Java code.
+keywords: [Aspose Excel., Java Aspose.Cells., Smart TXT files to ETT Converter for Java., Convert TXT to ETT in Java., TXT files to ETT Conversion in Java., Leverage intelligent data processing to automatically parse and save TXT into ETT format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -57,7 +57,7 @@ Follow the easy steps to convert TXT to ETT. Upload your TXT file, then simply s
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert TXT to ETT" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="txt" outformat="ett" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Sample Code to Convert TXT to ETT" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="txt" outformat="ett" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert TXT to ETT via Java" %}}
 

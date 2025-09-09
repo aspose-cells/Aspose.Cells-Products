@@ -1,7 +1,7 @@
 ---
 title: PHP TXT to FODS - TXT to FODS Converter
-description: Aspose Excel. Convert TXT to FODS quickly and easily with Aspose.Cells. PHP TXT to FODS. PHP Save TXT to FODS. Save TXT as FODS using PHP.
-keywords: [Aspose Excel., PHP Aspose.Cells., Convert TXT to FODS in PHP., Save TXT to FODS using PHP., PHP TXT to FODS saveformat., TXT to FODS Converter., PHP Save TXT as FODS]
+description: Aspose Excel. This comprehensive solution provides PHP developers with a fully integrated approach to convert TXT to FODS format, enabling seamless saving of TXT data into FODS format using the Aspose.Cells library, all through efficient and customizable PHP code.
+keywords: [Aspose Excel., PHP Aspose.Cells., Smart TXT files to FODS Converter for PHP., Convert TXT to FODS in PHP., TXT files to FODS Conversion in PHP., Leverage intelligent data processing to automatically parse and save TXT into FODS format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -28,7 +28,7 @@ Follow the easy steps to convert TXT to FODS. Upload your TXT file, then simply 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert TXT to FODS" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="txt" outformat="fods" IsLandingPage="true" language="phpjava" %}}
+{{% cells-convert title="Sample Code to Convert TXT to FODS" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="txt" outformat="fods" IsLandingPage="true" language="phpjava" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert TXT to FODS via PHP" %}}
 

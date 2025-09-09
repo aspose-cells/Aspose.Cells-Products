@@ -1,7 +1,7 @@
 ---
 title: Python TXT to XML - TXT to XML Converter
-description: Aspose Excel. Python Excel. Convert TXT to XML quickly and easily with Aspose.Cells. Python TXT to XML. Python Save TXT to XML. Save TXT as XML using Python Excel Library.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert TXT to XML in Python Excel Library., Save TXT to XML using Python Excel Library., Python TXT to XML saveformat., TXT to XML Converter., Python Save TXT as XML]
+description: Aspose Excel. This comprehensive solution provides Python developers with a fully integrated approach to convert TXT to XML format, enabling seamless saving of TXT data into XML format using the Aspose.Cells library, all through efficient and customizable Python code.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart TXT files to XML Converter for Python., Convert TXT to XML in Python., TXT files to XML Conversion in Python., Leverage intelligent data processing to automatically parse and save TXT into XML format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -28,7 +28,7 @@ Follow the easy steps to convert TXT to XML. Upload your TXT file, then simply s
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert TXT to XML via Python Excel Library" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="txt" outformat="xml" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="Sample Code to Convert TXT to XML via Python Excel Library" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="txt" outformat="xml" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert TXT to XML via Python" %}}
 

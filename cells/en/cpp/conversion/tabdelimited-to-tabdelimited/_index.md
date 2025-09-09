@@ -1,7 +1,7 @@
 ---
 title: C++ TABDELIMITED to TABDELIMITED - TABDELIMITED to TABDELIMITED Converter
-description: Aspose Excel. Convert TABDELIMITED to TABDELIMITED quickly and easily with Aspose.Cells. C++ TABDELIMITED to TABDELIMITED. C++ Save TABDELIMITED to TABDELIMITED. Save TABDELIMITED as TABDELIMITED using C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., Convert TABDELIMITED to TABDELIMITED in C++., Save TABDELIMITED to TABDELIMITED using C++., C++ TABDELIMITED to TABDELIMITED saveformat., TABDELIMITED to TABDELIMITED Converter., C++ Save TABDELIMITED as TABDELIMITED]
+description: Aspose Excel. This comprehensive solution provides C++ developers with a fully integrated approach to convert TABDELIMITED to TABDELIMITED format, enabling seamless saving of TABDELIMITED data into TABDELIMITED format using the Aspose.Cells library, all through efficient and customizable C++ code.
+keywords: [Aspose Excel., C++ Aspose.Cells., Smart TABDELIMITED files to TABDELIMITED Converter for C++., Convert TABDELIMITED to TABDELIMITED in C++., TABDELIMITED files to TABDELIMITED Conversion in C++., Leverage intelligent data processing to automatically parse and save TABDELIMITED into TABDELIMITED format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -38,7 +38,7 @@ Follow the easy steps to convert TABDELIMITED to TABDELIMITED. Upload your TABDE
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert TABDELIMITED to TABDELIMITED" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="tsv" outformat="tsv" IsLandingPage="true" language="cpp" %}}
+{{% cells-convert title="Sample Code to Convert TABDELIMITED to TABDELIMITED" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="tsv" outformat="tsv" IsLandingPage="true" language="cpp" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert TABDELIMITED to TABDELIMITED via C++" %}}
 
@@ -102,6 +102,7 @@ There are three options to install "Aspose.Cells for C++" onto your system. Plea
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/tabdelimited-to-pdf/" name="TABDELIMITED TO PDF" description="Portable Document Format" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/tabdelimited-to-png/" name="TABDELIMITED TO PNG" description="Portable Network Graphics" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/tabdelimited-to-svg/" name="TABDELIMITED TO SVG" description="Scalable Vector Graphics" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/tabdelimited-to-tiff/" name="TABDELIMITED TO TIFF" description="Tagged Image Format" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/tabdelimited-to-tsv/" name="TABDELIMITED TO TSV" description="Tab-Separated Values" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/tabdelimited-to-txt/" name="TABDELIMITED TO TXT" description="Text Document" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/tabdelimited-to-xls/" name="TABDELIMITED TO XLS" description="Excel Binary Format" >}}

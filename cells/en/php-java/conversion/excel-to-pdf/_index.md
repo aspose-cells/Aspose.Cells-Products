@@ -1,7 +1,7 @@
 ---
 title: PHP EXCEL to PDF - EXCEL to PDF Converter
-description: Aspose Excel. Convert EXCEL to PDF quickly and easily with Aspose.Cells. PHP EXCEL to PDF. PHP Save EXCEL to PDF. Save EXCEL as PDF using PHP.
-keywords: [Aspose Excel., PHP Aspose.Cells., Convert EXCEL to PDF in PHP., Save EXCEL to PDF using PHP., PHP EXCEL to PDF saveformat., EXCEL to PDF Converter., PHP Save EXCEL as PDF]
+description: Aspose Excel. This comprehensive solution provides PHP developers with a fully integrated approach to convert EXCEL to PDF format, enabling seamless saving of EXCEL data into PDF format using the Aspose.Cells library, all through efficient and customizable PHP code.
+keywords: [Aspose Excel., PHP Aspose.Cells., Smart EXCEL files to PDF Converter for PHP., Convert EXCEL to PDF in PHP., EXCEL files to PDF Conversion in PHP., Leverage intelligent data processing to automatically parse and save EXCEL into PDF format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -28,7 +28,7 @@ Follow the easy steps to convert EXCEL to PDF. Upload your EXCEL file, then simp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert EXCEL to PDF" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsx" outformat="pdf" IsLandingPage="true" language="phpjava" %}}
+{{% cells-convert title="Sample Code to Convert EXCEL to PDF" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="xlsx" outformat="pdf" IsLandingPage="true" language="phpjava" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert EXCEL to PDF via PHP" %}}
 

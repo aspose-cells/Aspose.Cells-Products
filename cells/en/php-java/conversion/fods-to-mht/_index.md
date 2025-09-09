@@ -1,7 +1,7 @@
 ---
 title: PHP FODS to MHT - FODS to MHT Converter
-description: Aspose Excel. Convert FODS to MHT quickly and easily with Aspose.Cells. PHP FODS to MHT. PHP Save FODS to MHT. Save FODS as MHT using PHP.
-keywords: [Aspose Excel., PHP Aspose.Cells., Convert FODS to MHT in PHP., Save FODS to MHT using PHP., PHP FODS to MHT saveformat., FODS to MHT Converter., PHP Save FODS as MHT]
+description: Aspose Excel. This comprehensive solution provides PHP developers with a fully integrated approach to convert FODS to MHT format, enabling seamless saving of FODS data into MHT format using the Aspose.Cells library, all through efficient and customizable PHP code.
+keywords: [Aspose Excel., PHP Aspose.Cells., Smart FODS files to MHT Converter for PHP., Convert FODS to MHT in PHP., FODS files to MHT Conversion in PHP., Leverage intelligent data processing to automatically parse and save FODS into MHT format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -28,7 +28,7 @@ Follow the easy steps to convert FODS to MHT. Upload your FODS file, then simply
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert FODS to MHT" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="fods" outformat="mht" IsLandingPage="true" language="phpjava" %}}
+{{% cells-convert title="Sample Code to Convert FODS to MHT" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="fods" outformat="mht" IsLandingPage="true" language="phpjava" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert FODS to MHT via PHP" %}}
 

@@ -1,7 +1,7 @@
 ---
 title: PHP HTML to EMF - HTML to EMF Converter
-description: Aspose Excel. Convert HTML to EMF quickly and easily with Aspose.Cells. PHP HTML to EMF. PHP Save HTML to EMF. Save HTML as EMF using PHP.
-keywords: [Aspose Excel., PHP Aspose.Cells., Convert HTML to EMF in PHP., Save HTML to EMF using PHP., PHP HTML to EMF saveformat., HTML to EMF Converter., PHP Save HTML as EMF]
+description: Aspose Excel. This comprehensive solution provides PHP developers with a fully integrated approach to convert HTML to EMF format, enabling seamless saving of HTML data into EMF format using the Aspose.Cells library, all through efficient and customizable PHP code.
+keywords: [Aspose Excel., PHP Aspose.Cells., Smart HTML files to EMF Converter for PHP., Convert HTML to EMF in PHP., HTML files to EMF Conversion in PHP., Leverage intelligent data processing to automatically parse and save HTML into EMF format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -28,7 +28,7 @@ Follow the easy steps to convert HTML to EMF. Upload your HTML file, then simply
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert HTML to EMF" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="html" outformat="emf" IsLandingPage="true" language="phpjava" %}}
+{{% cells-convert title="Sample Code to Convert HTML to EMF" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="html" outformat="emf" IsLandingPage="true" language="phpjava" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert HTML to EMF via PHP" %}}
 

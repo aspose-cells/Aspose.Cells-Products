@@ -1,7 +1,7 @@
 ---
 title: PHP DBF to GIF - DBF to GIF Converter
-description: Aspose Excel. Convert DBF to GIF quickly and easily with Aspose.Cells. PHP DBF to GIF. PHP Save DBF to GIF. Save DBF as GIF using PHP.
-keywords: [Aspose Excel., PHP Aspose.Cells., Convert DBF to GIF in PHP., Save DBF to GIF using PHP., PHP DBF to GIF saveformat., DBF to GIF Converter., PHP Save DBF as GIF]
+description: Aspose Excel. This comprehensive solution provides PHP developers with a fully integrated approach to convert DBF to GIF format, enabling seamless saving of DBF data into GIF format using the Aspose.Cells library, all through efficient and customizable PHP code.
+keywords: [Aspose Excel., PHP Aspose.Cells., Smart DBF files to GIF Converter for PHP., Convert DBF to GIF in PHP., DBF files to GIF Conversion in PHP., Leverage intelligent data processing to automatically parse and save DBF into GIF format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -28,7 +28,7 @@ Follow the easy steps to convert DBF to GIF. Upload your DBF file, then simply s
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert DBF to GIF" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="dbf" outformat="gif" IsLandingPage="true" language="phpjava" %}}
+{{% cells-convert title="Sample Code to Convert DBF to GIF" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="dbf" outformat="gif" IsLandingPage="true" language="phpjava" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert DBF to GIF via PHP" %}}
 

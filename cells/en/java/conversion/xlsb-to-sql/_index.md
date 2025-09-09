@@ -1,7 +1,7 @@
 ---
 title: Java XLSB to SQL - XLSB to SQL Converter
-description: Aspose Excel. Convert XLSB to SQL quickly and easily with Aspose.Cells. Java XLSB to SQL. Java Save XLSB to SQL. Save XLSB as SQL using Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Convert XLSB to SQL in Java., Save XLSB to SQL using Java., Java XLSB to SQL saveformat., XLSB to SQL Converter., Java Save XLSB as SQL]
+description: Aspose Excel. This comprehensive solution provides Java developers with a fully integrated approach to convert XLSB to SQL format, enabling seamless saving of XLSB data into SQL format using the Aspose.Cells library, all through efficient and customizable Java code.
+keywords: [Aspose Excel., Java Aspose.Cells., Smart XLSB files to SQL Converter for Java., Convert XLSB to SQL in Java., XLSB files to SQL Conversion in Java., Leverage intelligent data processing to automatically parse and save XLSB into SQL format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -57,7 +57,7 @@ Follow the easy steps to convert XLSB to SQL. Upload your XLSB file, then simply
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert XLSB to SQL" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsb" outformat="sql" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Sample Code to Convert XLSB to SQL" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="xlsb" outformat="sql" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert XLSB to SQL via Java" %}}
 

@@ -1,7 +1,7 @@
 ---
 title: C# XLS to EMF - XLS to EMF Converter
-description: Aspose Excel. Convert XLS to EMF quickly and easily with Aspose.Cells. C# XLS to EMF. C# Save XLS to EMF. Save XLS as EMF using C#.
-keywords: [Aspose Excel., C# Aspose.Cells., Convert XLS to EMF in C#., Save XLS to EMF using C#., C# XLS to EMF saveformat., XLS to EMF Converter., C# Save XLS as EMF]
+description: Aspose Excel. This comprehensive solution provides C# developers with a fully integrated approach to convert XLS to EMF format, enabling seamless saving of XLS data into EMF format using the Aspose.Cells library, all through efficient and customizable C# code.
+keywords: [Aspose Excel., C# Aspose.Cells., Smart XLS files to EMF Converter for C#., Convert XLS to EMF in C#., XLS files to EMF Conversion in C#., Leverage intelligent data processing to automatically parse and save XLS into EMF format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -36,7 +36,7 @@ Follow the easy steps to convert XLS to EMF. Upload your XLS file, then simply s
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert XLS to EMF" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xls" outformat="emf" IsLandingPage="true" %}}
+{{% cells-convert title="Sample Code to Convert XLS to EMF" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="xls" outformat="emf" IsLandingPage="true" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert XLS to EMF via C#" %}}
 

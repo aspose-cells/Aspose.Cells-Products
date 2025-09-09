@@ -1,7 +1,7 @@
 ---
 title: Node.js XLTX to ETT - XLTX to ETT Converter
-description: Aspose Excel. Convert XLTX to ETT quickly and easily with Aspose.Cells. Node.js XLTX to ETT. Node.js Save XLTX to ETT. Save XLTX as ETT using Node.js.
-keywords: [Aspose Excel., Node.js Aspose.Cells., Convert XLTX to ETT in Node.js., Save XLTX to ETT using Node.js., Node.js XLTX to ETT saveformat., XLTX to ETT Converter., Node.js Save XLTX as ETT]
+description: Aspose Excel. This comprehensive solution provides Node.js developers with a fully integrated approach to convert XLTX to ETT format, enabling seamless saving of XLTX data into ETT format using the Aspose.Cells library, all through efficient and customizable Node.js code.
+keywords: [Aspose Excel., Node.js Aspose.Cells., Smart XLTX files to ETT Converter for Node.js., Convert XLTX to ETT in Node.js., XLTX files to ETT Conversion in Node.js., Leverage intelligent data processing to automatically parse and save XLTX into ETT format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -28,7 +28,7 @@ Follow the easy steps to convert XLTX to ETT. Upload your XLTX file, then simply
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert XLTX to ETT" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xltx" outformat="ett" IsLandingPage="true" language="nodejscpp" %}}
+{{% cells-convert title="Sample Code to Convert XLTX to ETT" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="xltx" outformat="ett" IsLandingPage="true" language="nodejscpp" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert XLTX to ETT via Node.js" %}}
 

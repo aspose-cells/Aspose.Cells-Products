@@ -1,7 +1,7 @@
 ---
 title: Python SXC to XLTM - SXC to XLTM Converter
-description: Aspose Excel. Python Excel. Convert SXC to XLTM quickly and easily with Aspose.Cells. Python SXC to XLTM. Python Save SXC to XLTM. Save SXC as XLTM using Python Excel Library.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert SXC to XLTM in Python Excel Library., Save SXC to XLTM using Python Excel Library., Python SXC to XLTM saveformat., SXC to XLTM Converter., Python Save SXC as XLTM]
+description: Aspose Excel. This comprehensive solution provides Python developers with a fully integrated approach to convert SXC to XLTM format, enabling seamless saving of SXC data into XLTM format using the Aspose.Cells library, all through efficient and customizable Python code.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart SXC files to XLTM Converter for Python., Convert SXC to XLTM in Python., SXC files to XLTM Conversion in Python., Leverage intelligent data processing to automatically parse and save SXC into XLTM format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -29,7 +29,7 @@ Follow the easy steps to convert SXC to XLTM. Upload your SXC file, then simply 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert SXC to XLTM via Python Excel Library" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="sxc" outformat="xltm" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Sample Code to Convert SXC to XLTM via Python Excel Library" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="sxc" outformat="xltm" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert SXC to XLTM" %}}
 

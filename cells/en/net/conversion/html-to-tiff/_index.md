@@ -1,7 +1,7 @@
 ---
 title: C# HTML to TIFF - HTML to TIFF Converter
-description: Aspose Excel. Convert HTML to TIFF quickly and easily with Aspose.Cells. C# HTML to TIFF. C# Save HTML to TIFF. Save HTML as TIFF using C#.
-keywords: [Aspose Excel., C# Aspose.Cells., Convert HTML to TIFF in C#., Save HTML to TIFF using C#., C# HTML to TIFF saveformat., HTML to TIFF Converter., C# Save HTML as TIFF]
+description: Aspose Excel. This comprehensive solution provides C# developers with a fully integrated approach to convert HTML to TIFF format, enabling seamless saving of HTML data into TIFF format using the Aspose.Cells library, all through efficient and customizable C# code.
+keywords: [Aspose Excel., C# Aspose.Cells., Smart HTML files to TIFF Converter for C#., Convert HTML to TIFF in C#., HTML files to TIFF Conversion in C#., Leverage intelligent data processing to automatically parse and save HTML into TIFF format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -36,7 +36,7 @@ Follow the easy steps to convert HTML to TIFF. Upload your HTML file, then simpl
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert HTML to TIFF" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="html" outformat="tiff" IsLandingPage="true" %}}
+{{% cells-convert title="Sample Code to Convert HTML to TIFF" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="html" outformat="tiff" IsLandingPage="true" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert HTML to TIFF via C#" %}}
 

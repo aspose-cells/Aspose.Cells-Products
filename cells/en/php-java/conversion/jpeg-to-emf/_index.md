@@ -1,7 +1,7 @@
 ---
 title: PHP JPEG to EMF - JPEG to EMF Converter
-description: Aspose Excel. Convert JPEG to EMF quickly and easily with Aspose.Cells. PHP JPEG to EMF. PHP Save JPEG to EMF. Save JPEG as EMF using PHP.
-keywords: [Aspose Excel., PHP Aspose.Cells., Convert JPEG to EMF in PHP., Save JPEG to EMF using PHP., PHP JPEG to EMF saveformat., JPEG to EMF Converter., PHP Save JPEG as EMF]
+description: Aspose Excel. This comprehensive solution provides PHP developers with a fully integrated approach to convert JPEG to EMF format, enabling seamless saving of JPEG data into EMF format using the Aspose.Cells library, all through efficient and customizable PHP code.
+keywords: [Aspose Excel., PHP Aspose.Cells., Smart JPEG files to EMF Converter for PHP., Convert JPEG to EMF in PHP., JPEG files to EMF Conversion in PHP., Leverage intelligent data processing to automatically parse and save JPEG into EMF format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -28,7 +28,7 @@ Follow the easy steps to convert JPEG to EMF. Upload your JPEG file, then simply
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert JPEG to EMF" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="jpg" outformat="emf" IsLandingPage="true" language="phpjava" %}}
+{{% cells-convert title="Sample Code to Convert JPEG to EMF" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="jpg" outformat="emf" IsLandingPage="true" language="phpjava" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert JPEG to EMF via PHP" %}}
 

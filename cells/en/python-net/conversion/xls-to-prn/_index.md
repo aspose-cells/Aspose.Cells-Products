@@ -1,7 +1,7 @@
 ---
 title: Python XLS to PRN - XLS to PRN Converter
-description: Aspose Excel. Python Excel. Convert XLS to PRN quickly and easily with Aspose.Cells. Python XLS to PRN. Python Save XLS to PRN. Save XLS as PRN using Python Excel Library.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert XLS to PRN in Python Excel Library., Save XLS to PRN using Python Excel Library., Python XLS to PRN saveformat., XLS to PRN Converter., Python Save XLS as PRN]
+description: Aspose Excel. This comprehensive solution provides Python developers with a fully integrated approach to convert XLS to PRN format, enabling seamless saving of XLS data into PRN format using the Aspose.Cells library, all through efficient and customizable Python code.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart XLS files to PRN Converter for Python., Convert XLS to PRN in Python., XLS files to PRN Conversion in Python., Leverage intelligent data processing to automatically parse and save XLS into PRN format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -29,7 +29,7 @@ Follow the easy steps to convert XLS to PRN. Upload your XLS file, then simply s
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert XLS to PRN via Python Excel Library" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xls" outformat="prn" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Sample Code to Convert XLS to PRN via Python Excel Library" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="xls" outformat="prn" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert XLS to PRN" %}}
 

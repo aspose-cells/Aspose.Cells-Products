@@ -1,7 +1,7 @@
 ---
 title: Java SXC to XLTM - SXC to XLTM Converter
-description: Aspose Excel. Convert SXC to XLTM quickly and easily with Aspose.Cells. Java SXC to XLTM. Java Save SXC to XLTM. Save SXC as XLTM using Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Convert SXC to XLTM in Java., Save SXC to XLTM using Java., Java SXC to XLTM saveformat., SXC to XLTM Converter., Java Save SXC as XLTM]
+description: Aspose Excel. This comprehensive solution provides Java developers with a fully integrated approach to convert SXC to XLTM format, enabling seamless saving of SXC data into XLTM format using the Aspose.Cells library, all through efficient and customizable Java code.
+keywords: [Aspose Excel., Java Aspose.Cells., Smart SXC files to XLTM Converter for Java., Convert SXC to XLTM in Java., SXC files to XLTM Conversion in Java., Leverage intelligent data processing to automatically parse and save SXC into XLTM format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -57,7 +57,7 @@ Follow the easy steps to convert SXC to XLTM. Upload your SXC file, then simply 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert SXC to XLTM" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="sxc" outformat="xltm" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Sample Code to Convert SXC to XLTM" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="sxc" outformat="xltm" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert SXC to XLTM via Java" %}}
 

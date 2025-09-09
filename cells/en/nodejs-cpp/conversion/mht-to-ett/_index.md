@@ -1,7 +1,7 @@
 ---
 title: Node.js MHT to ETT - MHT to ETT Converter
-description: Aspose Excel. Convert MHT to ETT quickly and easily with Aspose.Cells. Node.js MHT to ETT. Node.js Save MHT to ETT. Save MHT as ETT using Node.js.
-keywords: [Aspose Excel., Node.js Aspose.Cells., Convert MHT to ETT in Node.js., Save MHT to ETT using Node.js., Node.js MHT to ETT saveformat., MHT to ETT Converter., Node.js Save MHT as ETT]
+description: Aspose Excel. This comprehensive solution provides Node.js developers with a fully integrated approach to convert MHT to ETT format, enabling seamless saving of MHT data into ETT format using the Aspose.Cells library, all through efficient and customizable Node.js code.
+keywords: [Aspose Excel., Node.js Aspose.Cells., Smart MHT files to ETT Converter for Node.js., Convert MHT to ETT in Node.js., MHT files to ETT Conversion in Node.js., Leverage intelligent data processing to automatically parse and save MHT into ETT format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -28,7 +28,7 @@ Follow the easy steps to convert MHT to ETT. Upload your MHT file, then simply s
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert MHT to ETT" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="mht" outformat="ett" IsLandingPage="true" language="nodejscpp" %}}
+{{% cells-convert title="Sample Code to Convert MHT to ETT" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="mht" outformat="ett" IsLandingPage="true" language="nodejscpp" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert MHT to ETT via Node.js" %}}
 

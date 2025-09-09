@@ -1,7 +1,7 @@
 ---
 title: PHP SPREADSHEETML to HTM - SPREADSHEETML to HTM Converter
-description: Aspose Excel. Convert SPREADSHEETML to HTM quickly and easily with Aspose.Cells. PHP SPREADSHEETML to HTM. PHP Save SPREADSHEETML to HTM. Save SPREADSHEETML as HTM using PHP.
-keywords: [Aspose Excel., PHP Aspose.Cells., Convert SPREADSHEETML to HTM in PHP., Save SPREADSHEETML to HTM using PHP., PHP SPREADSHEETML to HTM saveformat., SPREADSHEETML to HTM Converter., PHP Save SPREADSHEETML as HTM]
+description: Aspose Excel. This comprehensive solution provides PHP developers with a fully integrated approach to convert SPREADSHEETML to HTM format, enabling seamless saving of SPREADSHEETML data into HTM format using the Aspose.Cells library, all through efficient and customizable PHP code.
+keywords: [Aspose Excel., PHP Aspose.Cells., Smart SPREADSHEETML files to HTM Converter for PHP., Convert SPREADSHEETML to HTM in PHP., SPREADSHEETML files to HTM Conversion in PHP., Leverage intelligent data processing to automatically parse and save SPREADSHEETML into HTM format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -28,7 +28,7 @@ Follow the easy steps to convert SPREADSHEETML to HTM. Upload your SPREADSHEETML
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert SPREADSHEETML to HTM" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xml" outformat="htm" IsLandingPage="true" language="phpjava" %}}
+{{% cells-convert title="Sample Code to Convert SPREADSHEETML to HTM" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="xml" outformat="htm" IsLandingPage="true" language="phpjava" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert SPREADSHEETML to HTM via PHP" %}}
 

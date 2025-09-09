@@ -1,7 +1,7 @@
 ---
 title: C# MHTML to SPREADSHEETML - MHTML to SPREADSHEETML Converter
-description: Aspose Excel. Convert MHTML to SPREADSHEETML quickly and easily with Aspose.Cells. C# MHTML to SPREADSHEETML. C# Save MHTML to SPREADSHEETML. Save MHTML as SPREADSHEETML using C#.
-keywords: [Aspose Excel., C# Aspose.Cells., Convert MHTML to SPREADSHEETML in C#., Save MHTML to SPREADSHEETML using C#., C# MHTML to SPREADSHEETML saveformat., MHTML to SPREADSHEETML Converter., C# Save MHTML as SPREADSHEETML]
+description: Aspose Excel. This comprehensive solution provides C# developers with a fully integrated approach to convert MHTML to SPREADSHEETML format, enabling seamless saving of MHTML data into SPREADSHEETML format using the Aspose.Cells library, all through efficient and customizable C# code.
+keywords: [Aspose Excel., C# Aspose.Cells., Smart MHTML files to SPREADSHEETML Converter for C#., Convert MHTML to SPREADSHEETML in C#., MHTML files to SPREADSHEETML Conversion in C#., Leverage intelligent data processing to automatically parse and save MHTML into SPREADSHEETML format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -36,7 +36,7 @@ Follow the easy steps to convert MHTML to SPREADSHEETML. Upload your MHTML file,
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert MHTML to SPREADSHEETML" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="mhtml" outformat="xml" IsLandingPage="true" %}}
+{{% cells-convert title="Sample Code to Convert MHTML to SPREADSHEETML" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="mhtml" outformat="xml" IsLandingPage="true" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert MHTML to SPREADSHEETML via C#" %}}
 

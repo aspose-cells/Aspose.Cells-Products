@@ -1,7 +1,7 @@
 ---
 title: Java JSON to XLAM - JSON to XLAM Converter
-description: Aspose Excel. Convert JSON to XLAM quickly and easily with Aspose.Cells. Java JSON to XLAM. Java Save JSON to XLAM. Save JSON as XLAM using Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Convert JSON to XLAM in Java., Save JSON to XLAM using Java., Java JSON to XLAM saveformat., JSON to XLAM Converter., Java Save JSON as XLAM]
+description: Aspose Excel. This comprehensive solution provides Java developers with a fully integrated approach to convert JSON to XLAM format, enabling seamless saving of JSON data into XLAM format using the Aspose.Cells library, all through efficient and customizable Java code.
+keywords: [Aspose Excel., Java Aspose.Cells., Smart JSON files to XLAM Converter for Java., Convert JSON to XLAM in Java., JSON files to XLAM Conversion in Java., Leverage intelligent data processing to automatically parse and save JSON into XLAM format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -57,7 +57,7 @@ Follow the easy steps to convert JSON to XLAM. Upload your JSON file, then simpl
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert JSON to XLAM" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="json" outformat="xlam" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Sample Code to Convert JSON to XLAM" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="json" outformat="xlam" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert JSON to XLAM via Java" %}}
 

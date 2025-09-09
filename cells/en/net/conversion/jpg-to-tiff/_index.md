@@ -1,7 +1,7 @@
 ---
 title: C# JPG to TIFF - JPG to TIFF Converter
-description: Aspose Excel. Convert JPG to TIFF quickly and easily with Aspose.Cells. C# JPG to TIFF. C# Save JPG to TIFF. Save JPG as TIFF using C#.
-keywords: [Aspose Excel., C# Aspose.Cells., Convert JPG to TIFF in C#., Save JPG to TIFF using C#., C# JPG to TIFF saveformat., JPG to TIFF Converter., C# Save JPG as TIFF]
+description: Aspose Excel. This comprehensive solution provides C# developers with a fully integrated approach to convert JPG to TIFF format, enabling seamless saving of JPG data into TIFF format using the Aspose.Cells library, all through efficient and customizable C# code.
+keywords: [Aspose Excel., C# Aspose.Cells., Smart JPG files to TIFF Converter for C#., Convert JPG to TIFF in C#., JPG files to TIFF Conversion in C#., Leverage intelligent data processing to automatically parse and save JPG into TIFF format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -36,7 +36,7 @@ Follow the easy steps to convert JPG to TIFF. Upload your JPG file, then simply 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert JPG to TIFF" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="jpg" outformat="tiff" IsLandingPage="true" %}}
+{{% cells-convert title="Sample Code to Convert JPG to TIFF" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="jpg" outformat="tiff" IsLandingPage="true" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert JPG to TIFF via C#" %}}
 

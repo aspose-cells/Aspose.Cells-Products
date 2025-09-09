@@ -1,7 +1,7 @@
 ---
 title: Node.js JPG to PPTX - JPG to PPTX Converter
-description: Aspose Excel. Convert JPG to PPTX quickly and easily with Aspose.Cells. Node.js JPG to PPTX. Node.js Save JPG to PPTX. Save JPG as PPTX using Node.js.
-keywords: [Aspose Excel., Node.js Aspose.Cells., Convert JPG to PPTX in Node.js., Save JPG to PPTX using Node.js., Node.js JPG to PPTX saveformat., JPG to PPTX Converter., Node.js Save JPG as PPTX]
+description: Aspose Excel. This comprehensive solution provides Node.js developers with a fully integrated approach to convert JPG to PPTX format, enabling seamless saving of JPG data into PPTX format using the Aspose.Cells library, all through efficient and customizable Node.js code.
+keywords: [Aspose Excel., Node.js Aspose.Cells., Smart JPG files to PPTX Converter for Node.js., Convert JPG to PPTX in Node.js., JPG files to PPTX Conversion in Node.js., Leverage intelligent data processing to automatically parse and save JPG into PPTX format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -28,7 +28,7 @@ Follow the easy steps to convert JPG to PPTX. Upload your JPG file, then simply 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert JPG to PPTX" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="jpg" outformat="pptx" IsLandingPage="true" language="nodejscpp" %}}
+{{% cells-convert title="Sample Code to Convert JPG to PPTX" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="jpg" outformat="pptx" IsLandingPage="true" language="nodejscpp" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert JPG to PPTX via Node.js" %}}
 

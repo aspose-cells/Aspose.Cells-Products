@@ -1,7 +1,7 @@
 ---
 title: PHP IMAGE to MHTML - IMAGE to MHTML Converter
-description: Aspose Excel. Convert IMAGE to MHTML quickly and easily with Aspose.Cells. PHP IMAGE to MHTML. PHP Save IMAGE to MHTML. Save IMAGE as MHTML using PHP.
-keywords: [Aspose Excel., PHP Aspose.Cells., Convert IMAGE to MHTML in PHP., Save IMAGE to MHTML using PHP., PHP IMAGE to MHTML saveformat., IMAGE to MHTML Converter., PHP Save IMAGE as MHTML]
+description: Aspose Excel. This comprehensive solution provides PHP developers with a fully integrated approach to convert IMAGE to MHTML format, enabling seamless saving of IMAGE data into MHTML format using the Aspose.Cells library, all through efficient and customizable PHP code.
+keywords: [Aspose Excel., PHP Aspose.Cells., Smart IMAGE files to MHTML Converter for PHP., Convert IMAGE to MHTML in PHP., IMAGE files to MHTML Conversion in PHP., Leverage intelligent data processing to automatically parse and save IMAGE into MHTML format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -28,7 +28,7 @@ Follow the easy steps to convert IMAGE to MHTML. Upload your IMAGE file, then si
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert IMAGE to MHTML" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="png" outformat="mhtml" IsLandingPage="true" language="phpjava" %}}
+{{% cells-convert title="Sample Code to Convert IMAGE to MHTML" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="png" outformat="mhtml" IsLandingPage="true" language="phpjava" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert IMAGE to MHTML via PHP" %}}
 

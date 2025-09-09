@@ -1,7 +1,7 @@
 ---
 title: Python MHTML to FODS - MHTML to FODS Converter
-description: Aspose Excel. Python Excel. Convert MHTML to FODS quickly and easily with Aspose.Cells. Python MHTML to FODS. Python Save MHTML to FODS. Save MHTML as FODS using Python Excel Library.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert MHTML to FODS in Python Excel Library., Save MHTML to FODS using Python Excel Library., Python MHTML to FODS saveformat., MHTML to FODS Converter., Python Save MHTML as FODS]
+description: Aspose Excel. This comprehensive solution provides Python developers with a fully integrated approach to convert MHTML to FODS format, enabling seamless saving of MHTML data into FODS format using the Aspose.Cells library, all through efficient and customizable Python code.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart MHTML files to FODS Converter for Python., Convert MHTML to FODS in Python., MHTML files to FODS Conversion in Python., Leverage intelligent data processing to automatically parse and save MHTML into FODS format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -28,7 +28,7 @@ Follow the easy steps to convert MHTML to FODS. Upload your MHTML file, then sim
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert MHTML to FODS via Python Excel Library" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="mhtml" outformat="fods" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="Sample Code to Convert MHTML to FODS via Python Excel Library" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="mhtml" outformat="fods" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert MHTML to FODS via Python" %}}
 

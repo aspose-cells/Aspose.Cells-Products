@@ -1,7 +1,7 @@
 ---
 title: Python SXC to SQL - SXC to SQL Converter
-description: Aspose Excel. Python Excel. Convert SXC to SQL quickly and easily with Aspose.Cells. Python SXC to SQL. Python Save SXC to SQL. Save SXC as SQL using Python Excel Library.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert SXC to SQL in Python Excel Library., Save SXC to SQL using Python Excel Library., Python SXC to SQL saveformat., SXC to SQL Converter., Python Save SXC as SQL]
+description: Aspose Excel. This comprehensive solution provides Python developers with a fully integrated approach to convert SXC to SQL format, enabling seamless saving of SXC data into SQL format using the Aspose.Cells library, all through efficient and customizable Python code.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart SXC files to SQL Converter for Python., Convert SXC to SQL in Python., SXC files to SQL Conversion in Python., Leverage intelligent data processing to automatically parse and save SXC into SQL format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -29,7 +29,7 @@ Follow the easy steps to convert SXC to SQL. Upload your SXC file, then simply s
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert SXC to SQL via Python Excel Library" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="sxc" outformat="sql" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Sample Code to Convert SXC to SQL via Python Excel Library" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="sxc" outformat="sql" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert SXC to SQL" %}}
 

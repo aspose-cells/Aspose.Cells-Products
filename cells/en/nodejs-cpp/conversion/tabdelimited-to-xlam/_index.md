@@ -1,7 +1,7 @@
 ---
 title: Node.js TABDELIMITED to XLAM - TABDELIMITED to XLAM Converter
-description: Aspose Excel. Convert TABDELIMITED to XLAM quickly and easily with Aspose.Cells. Node.js TABDELIMITED to XLAM. Node.js Save TABDELIMITED to XLAM. Save TABDELIMITED as XLAM using Node.js.
-keywords: [Aspose Excel., Node.js Aspose.Cells., Convert TABDELIMITED to XLAM in Node.js., Save TABDELIMITED to XLAM using Node.js., Node.js TABDELIMITED to XLAM saveformat., TABDELIMITED to XLAM Converter., Node.js Save TABDELIMITED as XLAM]
+description: Aspose Excel. This comprehensive solution provides Node.js developers with a fully integrated approach to convert TABDELIMITED to XLAM format, enabling seamless saving of TABDELIMITED data into XLAM format using the Aspose.Cells library, all through efficient and customizable Node.js code.
+keywords: [Aspose Excel., Node.js Aspose.Cells., Smart TABDELIMITED files to XLAM Converter for Node.js., Convert TABDELIMITED to XLAM in Node.js., TABDELIMITED files to XLAM Conversion in Node.js., Leverage intelligent data processing to automatically parse and save TABDELIMITED into XLAM format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -28,7 +28,7 @@ Follow the easy steps to convert TABDELIMITED to XLAM. Upload your TABDELIMITED 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert TABDELIMITED to XLAM" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="tsv" outformat="xlam" IsLandingPage="true" language="nodejscpp" %}}
+{{% cells-convert title="Sample Code to Convert TABDELIMITED to XLAM" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="tsv" outformat="xlam" IsLandingPage="true" language="nodejscpp" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert TABDELIMITED to XLAM via Node.js" %}}
 

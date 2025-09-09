@@ -1,7 +1,7 @@
 ---
 title: PHP NUMBERS to ODS - NUMBERS to ODS Converter
-description: Aspose Excel. Convert NUMBERS to ODS quickly and easily with Aspose.Cells. PHP NUMBERS to ODS. PHP Save NUMBERS to ODS. Save NUMBERS as ODS using PHP.
-keywords: [Aspose Excel., PHP Aspose.Cells., Convert NUMBERS to ODS in PHP., Save NUMBERS to ODS using PHP., PHP NUMBERS to ODS saveformat., NUMBERS to ODS Converter., PHP Save NUMBERS as ODS]
+description: Aspose Excel. This comprehensive solution provides PHP developers with a fully integrated approach to convert NUMBERS to ODS format, enabling seamless saving of NUMBERS data into ODS format using the Aspose.Cells library, all through efficient and customizable PHP code.
+keywords: [Aspose Excel., PHP Aspose.Cells., Smart NUMBERS files to ODS Converter for PHP., Convert NUMBERS to ODS in PHP., NUMBERS files to ODS Conversion in PHP., Leverage intelligent data processing to automatically parse and save NUMBERS into ODS format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -28,7 +28,7 @@ Follow the easy steps to convert NUMBERS to ODS. Upload your NUMBERS file, then 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert NUMBERS to ODS" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="numbers" outformat="ods" IsLandingPage="true" language="phpjava" %}}
+{{% cells-convert title="Sample Code to Convert NUMBERS to ODS" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="numbers" outformat="ods" IsLandingPage="true" language="phpjava" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert NUMBERS to ODS via PHP" %}}
 

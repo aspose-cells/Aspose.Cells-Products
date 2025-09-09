@@ -1,7 +1,7 @@
 ---
 title: C# JPEG to XLSX - JPEG to XLSX Converter
-description: Aspose Excel. Convert JPEG to XLSX quickly and easily with Aspose.Cells. C# JPEG to XLSX. C# Save JPEG to XLSX. Save JPEG as XLSX using C#.
-keywords: [Aspose Excel., C# Aspose.Cells., Convert JPEG to XLSX in C#., Save JPEG to XLSX using C#., C# JPEG to XLSX saveformat., JPEG to XLSX Converter., C# Save JPEG as XLSX]
+description: Aspose Excel. This comprehensive solution provides C# developers with a fully integrated approach to convert JPEG to XLSX format, enabling seamless saving of JPEG data into XLSX format using the Aspose.Cells library, all through efficient and customizable C# code.
+keywords: [Aspose Excel., C# Aspose.Cells., Smart JPEG files to XLSX Converter for C#., Convert JPEG to XLSX in C#., JPEG files to XLSX Conversion in C#., Leverage intelligent data processing to automatically parse and save JPEG into XLSX format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -36,7 +36,7 @@ Follow the easy steps to convert JPEG to XLSX. Upload your JPEG file, then simpl
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert JPEG to XLSX" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="jpg" outformat="xlsx" IsLandingPage="true" %}}
+{{% cells-convert title="Sample Code to Convert JPEG to XLSX" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="jpg" outformat="xlsx" IsLandingPage="true" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert JPEG to XLSX via C#" %}}
 

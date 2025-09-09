@@ -1,7 +1,7 @@
 ---
 title: Java SXC to JPG - SXC to JPG Converter
-description: Aspose Excel. Convert SXC to JPG quickly and easily with Aspose.Cells. Java SXC to JPG. Java Save SXC to JPG. Save SXC as JPG using Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Convert SXC to JPG in Java., Save SXC to JPG using Java., Java SXC to JPG saveformat., SXC to JPG Converter., Java Save SXC as JPG]
+description: Aspose Excel. This comprehensive solution provides Java developers with a fully integrated approach to convert SXC to JPG format, enabling seamless saving of SXC data into JPG format using the Aspose.Cells library, all through efficient and customizable Java code.
+keywords: [Aspose Excel., Java Aspose.Cells., Smart SXC files to JPG Converter for Java., Convert SXC to JPG in Java., SXC files to JPG Conversion in Java., Leverage intelligent data processing to automatically parse and save SXC into JPG format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -57,7 +57,7 @@ Follow the easy steps to convert SXC to JPG. Upload your SXC file, then simply s
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert SXC to JPG" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="sxc" outformat="jpg" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Sample Code to Convert SXC to JPG" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="sxc" outformat="jpg" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert SXC to JPG via Java" %}}
 

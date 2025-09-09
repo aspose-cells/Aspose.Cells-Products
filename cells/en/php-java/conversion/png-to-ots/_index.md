@@ -1,7 +1,7 @@
 ---
 title: PHP PNG to OTS - PNG to OTS Converter
-description: Aspose Excel. Convert PNG to OTS quickly and easily with Aspose.Cells. PHP PNG to OTS. PHP Save PNG to OTS. Save PNG as OTS using PHP.
-keywords: [Aspose Excel., PHP Aspose.Cells., Convert PNG to OTS in PHP., Save PNG to OTS using PHP., PHP PNG to OTS saveformat., PNG to OTS Converter., PHP Save PNG as OTS]
+description: Aspose Excel. This comprehensive solution provides PHP developers with a fully integrated approach to convert PNG to OTS format, enabling seamless saving of PNG data into OTS format using the Aspose.Cells library, all through efficient and customizable PHP code.
+keywords: [Aspose Excel., PHP Aspose.Cells., Smart PNG files to OTS Converter for PHP., Convert PNG to OTS in PHP., PNG files to OTS Conversion in PHP., Leverage intelligent data processing to automatically parse and save PNG into OTS format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -28,7 +28,7 @@ Follow the easy steps to convert PNG to OTS. Upload your PNG file, then simply s
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert PNG to OTS" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="png" outformat="ots" IsLandingPage="true" language="phpjava" %}}
+{{% cells-convert title="Sample Code to Convert PNG to OTS" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="png" outformat="ots" IsLandingPage="true" language="phpjava" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert PNG to OTS via PHP" %}}
 

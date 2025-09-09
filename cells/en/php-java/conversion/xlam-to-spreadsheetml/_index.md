@@ -1,7 +1,7 @@
 ---
 title: PHP XLAM to SPREADSHEETML - XLAM to SPREADSHEETML Converter
-description: Aspose Excel. Convert XLAM to SPREADSHEETML quickly and easily with Aspose.Cells. PHP XLAM to SPREADSHEETML. PHP Save XLAM to SPREADSHEETML. Save XLAM as SPREADSHEETML using PHP.
-keywords: [Aspose Excel., PHP Aspose.Cells., Convert XLAM to SPREADSHEETML in PHP., Save XLAM to SPREADSHEETML using PHP., PHP XLAM to SPREADSHEETML saveformat., XLAM to SPREADSHEETML Converter., PHP Save XLAM as SPREADSHEETML]
+description: Aspose Excel. This comprehensive solution provides PHP developers with a fully integrated approach to convert XLAM to SPREADSHEETML format, enabling seamless saving of XLAM data into SPREADSHEETML format using the Aspose.Cells library, all through efficient and customizable PHP code.
+keywords: [Aspose Excel., PHP Aspose.Cells., Smart XLAM files to SPREADSHEETML Converter for PHP., Convert XLAM to SPREADSHEETML in PHP., XLAM files to SPREADSHEETML Conversion in PHP., Leverage intelligent data processing to automatically parse and save XLAM into SPREADSHEETML format with high fidelity and code efficiency]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -28,7 +28,7 @@ Follow the easy steps to convert XLAM to SPREADSHEETML. Upload your XLAM file, t
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Sample Code to Convert XLAM to SPREADSHEETML" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlam" outformat="xml" IsLandingPage="true" language="phpjava" %}}
+{{% cells-convert title="Sample Code to Convert XLAM to SPREADSHEETML" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="xlam" outformat="xml" IsLandingPage="true" language="phpjava" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert XLAM to SPREADSHEETML via PHP" %}}
 

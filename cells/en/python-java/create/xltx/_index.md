@@ -1,7 +1,7 @@
 ---
 title: Create XLTX - Create XLTX file in Python
-description: Aspose Excel. Python Excel. Python Create XLTX File quickly and easily with Aspose.Cells. Generate XLTX file using Python Excel Library. Create XLTX in Python Excel Library. Python XLTX Creater. 
-keywords: [Aspose Python Excel., Python Aspose.Cells., Python Create XLTX file., Generate XLTX file in Python Excel Library., Create XLTX file using Python Excel Library., Write data to XLTX file via Python Excel Library., Create a XLTX file in Python Excel Library., Python Generate a XLTX file., Python XLTX Creater]
+description: Aspose Excel. Effortlessly generate and manipulate XLTX files with the Aspose.Cells for Python via Java library. This powerful API provides a streamlined and efficient solution to create, edit, and manage XLTX files directly within your Python applications, fulfilling specific developer needs with high precision.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Create XLTX file., Generate XLTX file in Python., Write data to XLTX file via Python., Python XLTX Creater., Aspose.Cells for Python via Java is a powerful library that enables developers to programmatically create, generate, and manipulate XLTX files in Python]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

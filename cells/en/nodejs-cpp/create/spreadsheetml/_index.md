@@ -1,7 +1,7 @@
 ---
 title: Create SPREADSHEETML - Create SPREADSHEETML file in Node.js
-description: Aspose Excel. Node.js Create SPREADSHEETML File quickly and easily with Aspose.Cells. Generate SPREADSHEETML file using Node.js. Create SPREADSHEETML in Node.js. Node.js SPREADSHEETML Creater. 
-keywords: [Aspose Excel., Node.js Aspose.Cells., Node.js Create SPREADSHEETML file., Generate SPREADSHEETML file in Node.js., Create SPREADSHEETML file using Node.js., Write data to SPREADSHEETML file via Node.js., Create a SPREADSHEETML file in Node.js., Node.js Generate a SPREADSHEETML file., Node.js SPREADSHEETML Creater]
+description: Aspose Excel. Effortlessly generate and manipulate SPREADSHEETML files with the Aspose.Cells for Node.js via C++ library. This powerful API provides a streamlined and efficient solution to create, edit, and manage SPREADSHEETML files directly within your Node.js applications, fulfilling specific developer needs with high precision.
+keywords: [Aspose Excel., Node.js Aspose.Cells., Node.js Create SPREADSHEETML file., Generate SPREADSHEETML file in Node.js., Write data to SPREADSHEETML file via Node.js., Node.js SPREADSHEETML Creater., Aspose.Cells for Node.js via C++ is a powerful library that enables developers to programmatically create, generate, and manipulate SPREADSHEETML files in Node.js]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

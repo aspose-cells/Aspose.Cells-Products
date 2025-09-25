@@ -1,7 +1,7 @@
 ---
 title: Create ODS - Create ODS file in Node.js
-description: Aspose Excel. Node.js Create ODS File quickly and easily with Aspose.Cells. Generate ODS file using Node.js. Create ODS in Node.js. Node.js ODS Creater. 
-keywords: [Aspose Excel., Node.js Aspose.Cells., Node.js Create ODS file., Generate ODS file in Node.js., Create ODS file using Node.js., Write data to ODS file via Node.js., Create a ODS file in Node.js., Node.js Generate a ODS file., Node.js ODS Creater]
+description: Aspose Excel. Effortlessly generate and manipulate ODS files with the Aspose.Cells for Node.js via C++ library. This powerful API provides a streamlined and efficient solution to create, edit, and manage ODS files directly within your Node.js applications, fulfilling specific developer needs with high precision.
+keywords: [Aspose Excel., Node.js Aspose.Cells., Node.js Create ODS file., Generate ODS file in Node.js., Write data to ODS file via Node.js., Node.js ODS Creater., Aspose.Cells for Node.js via C++ is a powerful library that enables developers to programmatically create, generate, and manipulate ODS files in Node.js]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,7 +1,7 @@
 ---
 title: Create MHTML - Create MHTML file in C++
-description: Aspose Excel. C++ Create MHTML File quickly and easily with Aspose.Cells. Generate MHTML file using C++. Create MHTML in C++. C++ MHTML Creater. 
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ Create MHTML file., Generate MHTML file in C++., Create MHTML file using C++., Write data to MHTML file via C++., Create a MHTML file in C++., C++ Generate a MHTML file., C++ MHTML Creater]
+description: Aspose Excel. Effortlessly generate and manipulate MHTML files with the Aspose.Cells for C++ library. This powerful API provides a streamlined and efficient solution to create, edit, and manage MHTML files directly within your C++ applications, fulfilling specific developer needs with high precision.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ Create MHTML file., Generate MHTML file in C++., Write data to MHTML file via C++., C++ MHTML Creater., Aspose.Cells for C++ is a powerful library that enables developers to programmatically create, generate, and manipulate MHTML files in C++]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -46,6 +46,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 ```cs
 Aspose::Cells::Startup();
+//TIFF format is not supported
 
 // Create an object of the Workbook class.
 Workbook wkb;

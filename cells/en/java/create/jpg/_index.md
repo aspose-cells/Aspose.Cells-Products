@@ -1,7 +1,7 @@
 ---
 title: Create JPG - Create JPG file in Java
-description: Aspose Excel. Java Create JPG File quickly and easily with Aspose.Cells. Generate JPG file using Java. Create JPG in Java. Java JPG Creater. 
-keywords: [Aspose Excel., Java Aspose.Cells., Java Create JPG file., Generate JPG file in Java., Create JPG file using Java., Write data to JPG file via Java., Create a JPG file in Java., Java Generate a JPG file., Java JPG Creater]
+description: Aspose Excel. Effortlessly generate and manipulate JPG files with the Aspose.Cells for Java library. This powerful API provides a streamlined and efficient solution to create, edit, and manage JPG files directly within your Java applications, fulfilling specific developer needs with high precision.
+keywords: [Aspose Excel., Java Aspose.Cells., Java Create JPG file., Generate JPG file in Java., Write data to JPG file via Java., Java JPG Creater., Aspose.Cells for Java is a powerful library that enables developers to programmatically create, generate, and manipulate JPG files in Java]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

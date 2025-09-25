@@ -1,7 +1,7 @@
 ---
 title: Create XPS - Create XPS file in PHP
-description: Aspose Excel. PHP Create XPS File quickly and easily with Aspose.Cells. Generate XPS file using PHP. Create XPS in PHP. PHP XPS Creater. 
-keywords: [Aspose Excel., PHP Aspose.Cells., PHP Create XPS file., Generate XPS file in PHP., Create XPS file using PHP., Write data to XPS file via PHP., Create a XPS file in PHP., PHP Generate a XPS file., PHP XPS Creater]
+description: Aspose Excel. Effortlessly generate and manipulate XPS files with the Aspose.Cells for PHP via Java library. This powerful API provides a streamlined and efficient solution to create, edit, and manage XPS files directly within your PHP applications, fulfilling specific developer needs with high precision.
+keywords: [Aspose Excel., PHP Aspose.Cells., PHP Create XPS file., Generate XPS file in PHP., Write data to XPS file via PHP., PHP XPS Creater., Aspose.Cells for PHP via Java is a powerful library that enables developers to programmatically create, generate, and manipulate XPS files in PHP]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

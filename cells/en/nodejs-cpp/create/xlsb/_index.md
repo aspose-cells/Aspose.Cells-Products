@@ -1,7 +1,7 @@
 ---
 title: Create XLSB - Create XLSB file in Node.js
-description: Aspose Excel. Node.js Create XLSB File quickly and easily with Aspose.Cells. Generate XLSB file using Node.js. Create XLSB in Node.js. Node.js XLSB Creater. 
-keywords: [Aspose Excel., Node.js Aspose.Cells., Node.js Create XLSB file., Generate XLSB file in Node.js., Create XLSB file using Node.js., Write data to XLSB file via Node.js., Create a XLSB file in Node.js., Node.js Generate a XLSB file., Node.js XLSB Creater]
+description: Aspose Excel. Effortlessly generate and manipulate XLSB files with the Aspose.Cells for Node.js via C++ library. This powerful API provides a streamlined and efficient solution to create, edit, and manage XLSB files directly within your Node.js applications, fulfilling specific developer needs with high precision.
+keywords: [Aspose Excel., Node.js Aspose.Cells., Node.js Create XLSB file., Generate XLSB file in Node.js., Write data to XLSB file via Node.js., Node.js XLSB Creater., Aspose.Cells for Node.js via C++ is a powerful library that enables developers to programmatically create, generate, and manipulate XLSB files in Node.js]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,7 +1,7 @@
 ---
 title: Create SVG - Create SVG file in Java
-description: Aspose Excel. Java Create SVG File quickly and easily with Aspose.Cells. Generate SVG file using Java. Create SVG in Java. Java SVG Creater. 
-keywords: [Aspose Excel., Java Aspose.Cells., Java Create SVG file., Generate SVG file in Java., Create SVG file using Java., Write data to SVG file via Java., Create a SVG file in Java., Java Generate a SVG file., Java SVG Creater]
+description: Aspose Excel. Effortlessly generate and manipulate SVG files with the Aspose.Cells for Java library. This powerful API provides a streamlined and efficient solution to create, edit, and manage SVG files directly within your Java applications, fulfilling specific developer needs with high precision.
+keywords: [Aspose Excel., Java Aspose.Cells., Java Create SVG file., Generate SVG file in Java., Write data to SVG file via Java., Java SVG Creater., Aspose.Cells for Java is a powerful library that enables developers to programmatically create, generate, and manipulate SVG files in Java]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

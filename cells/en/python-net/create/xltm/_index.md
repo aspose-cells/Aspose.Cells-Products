@@ -1,7 +1,7 @@
 ---
 title: Create XLTM - Create XLTM file in Python
-description: Aspose Excel. Python Excel. Python Create XLTM File quickly and easily with Aspose.Cells. Generate XLTM file using Python Excel Library. Create XLTM in Python Excel Library. Python XLTM Creater. 
-keywords: [Aspose Python Excel., Python Aspose.Cells., Python Create XLTM file., Generate XLTM file in Python Excel Library., Create XLTM file using Python Excel Library., Write data to XLTM file via Python Excel Library., Create a XLTM file in Python Excel Library., Python Generate a XLTM file., Python XLTM Creater]
+description: Aspose Excel. Effortlessly generate and manipulate XLTM files with the Aspose.Cells for Python via .NET library. This powerful API provides a streamlined and efficient solution to create, edit, and manage XLTM files directly within your Python applications, fulfilling specific developer needs with high precision.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Create XLTM file., Generate XLTM file in Python., Write data to XLTM file via Python., Python XLTM Creater., Aspose.Cells for Python via .NET is a powerful library that enables developers to programmatically create, generate, and manipulate XLTM files in Python]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

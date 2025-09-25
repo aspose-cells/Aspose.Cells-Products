@@ -1,7 +1,7 @@
 ---
 title: Create TXT - Create TXT file in Node.js
-description: Aspose Excel. Node.js Create TXT File quickly and easily with Aspose.Cells. Generate TXT file using Node.js. Create TXT in Node.js. Node.js TXT Creater. 
-keywords: [Aspose Excel., Node.js Aspose.Cells., Node.js Create TXT file., Generate TXT file in Node.js., Create TXT file using Node.js., Write data to TXT file via Node.js., Create a TXT file in Node.js., Node.js Generate a TXT file., Node.js TXT Creater]
+description: Aspose Excel. Effortlessly generate and manipulate TXT files with the Aspose.Cells for Node.js via C++ library. This powerful API provides a streamlined and efficient solution to create, edit, and manage TXT files directly within your Node.js applications, fulfilling specific developer needs with high precision.
+keywords: [Aspose Excel., Node.js Aspose.Cells., Node.js Create TXT file., Generate TXT file in Node.js., Write data to TXT file via Node.js., Node.js TXT Creater., Aspose.Cells for Node.js via C++ is a powerful library that enables developers to programmatically create, generate, and manipulate TXT files in Node.js]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

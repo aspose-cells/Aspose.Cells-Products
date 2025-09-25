@@ -1,7 +1,7 @@
 ---
 title: Create XLSX - Create XLSX file in Python
-description: Aspose Excel. Python Excel. Python Create XLSX File quickly and easily with Aspose.Cells. Generate XLSX file using Python Excel Library. Create XLSX in Python Excel Library. Python XLSX Creater. 
-keywords: [Aspose Python Excel., Python Aspose.Cells., Python Create XLSX file., Generate XLSX file in Python Excel Library., Create XLSX file using Python Excel Library., Write data to XLSX file via Python Excel Library., Create a XLSX file in Python Excel Library., Python Generate a XLSX file., Python XLSX Creater]
+description: Aspose Excel. Effortlessly generate and manipulate XLSX files with the Aspose.Cells for Python via .NET library. This powerful API provides a streamlined and efficient solution to create, edit, and manage XLSX files directly within your Python applications, fulfilling specific developer needs with high precision.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Create XLSX file., Generate XLSX file in Python., Write data to XLSX file via Python., Python XLSX Creater., Aspose.Cells for Python via .NET is a powerful library that enables developers to programmatically create, generate, and manipulate XLSX files in Python]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

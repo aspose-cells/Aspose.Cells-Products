@@ -1,7 +1,7 @@
 ---
 title: Create SVG - Create SVG file in Node.js
-description: Aspose Excel. Node.js Create SVG File quickly and easily with Aspose.Cells. Generate SVG file using Node.js. Create SVG in Node.js. Node.js SVG Creater. 
-keywords: [Aspose Excel., Node.js Aspose.Cells., Node.js Create SVG file., Generate SVG file in Node.js., Create SVG file using Node.js., Write data to SVG file via Node.js., Create a SVG file in Node.js., Node.js Generate a SVG file., Node.js SVG Creater]
+description: Aspose Excel. Effortlessly generate and manipulate SVG files with the Aspose.Cells for Node.js via C++ library. This powerful API provides a streamlined and efficient solution to create, edit, and manage SVG files directly within your Node.js applications, fulfilling specific developer needs with high precision.
+keywords: [Aspose Excel., Node.js Aspose.Cells., Node.js Create SVG file., Generate SVG file in Node.js., Write data to SVG file via Node.js., Node.js SVG Creater., Aspose.Cells for Node.js via C++ is a powerful library that enables developers to programmatically create, generate, and manipulate SVG files in Node.js]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

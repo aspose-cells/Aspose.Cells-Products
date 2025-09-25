@@ -1,7 +1,7 @@
 ---
 title: Create HTM - Create HTM file in PHP
-description: Aspose Excel. PHP Create HTM File quickly and easily with Aspose.Cells. Generate HTM file using PHP. Create HTM in PHP. PHP HTM Creater. 
-keywords: [Aspose Excel., PHP Aspose.Cells., PHP Create HTM file., Generate HTM file in PHP., Create HTM file using PHP., Write data to HTM file via PHP., Create a HTM file in PHP., PHP Generate a HTM file., PHP HTM Creater]
+description: Aspose Excel. Effortlessly generate and manipulate HTM files with the Aspose.Cells for PHP via Java library. This powerful API provides a streamlined and efficient solution to create, edit, and manage HTM files directly within your PHP applications, fulfilling specific developer needs with high precision.
+keywords: [Aspose Excel., PHP Aspose.Cells., PHP Create HTM file., Generate HTM file in PHP., Write data to HTM file via PHP., PHP HTM Creater., Aspose.Cells for PHP via Java is a powerful library that enables developers to programmatically create, generate, and manipulate HTM files in PHP]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,7 +1,7 @@
 ---
 title: Create XLTX - Create XLTX file in Java
-description: Aspose Excel. Java Create XLTX File quickly and easily with Aspose.Cells. Generate XLTX file using Java. Create XLTX in Java. Java XLTX Creater. 
-keywords: [Aspose Excel., Java Aspose.Cells., Java Create XLTX file., Generate XLTX file in Java., Create XLTX file using Java., Write data to XLTX file via Java., Create a XLTX file in Java., Java Generate a XLTX file., Java XLTX Creater]
+description: Aspose Excel. Effortlessly generate and manipulate XLTX files with the Aspose.Cells for Java library. This powerful API provides a streamlined and efficient solution to create, edit, and manage XLTX files directly within your Java applications, fulfilling specific developer needs with high precision.
+keywords: [Aspose Excel., Java Aspose.Cells., Java Create XLTX file., Generate XLTX file in Java., Write data to XLTX file via Java., Java XLTX Creater., Aspose.Cells for Java is a powerful library that enables developers to programmatically create, generate, and manipulate XLTX files in Java]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

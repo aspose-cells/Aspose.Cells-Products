@@ -1,7 +1,7 @@
 ---
 title: Create EPUB - Create EPUB file in C#
-description: Aspose Excel. C# Create EPUB File quickly and easily with Aspose.Cells. Generate EPUB file using C#. Create EPUB in C#. C# EPUB Creater. 
-keywords: [Aspose Excel., C# Aspose.Cells., C# Create EPUB file., Generate EPUB file in C#., Create EPUB file using C#., Write data to EPUB file via C#., Create a EPUB file in C#., C# Generate a EPUB file., C# EPUB Creater]
+description: Aspose Excel. Effortlessly generate and manipulate EPUB files with the Aspose.Cells for .NET library. This powerful API provides a streamlined and efficient solution to create, edit, and manage EPUB files directly within your C# applications, fulfilling specific developer needs with high precision.
+keywords: [Aspose Excel., C# Aspose.Cells., C# Create EPUB file., Generate EPUB file in C#., Write data to EPUB file via C#., C# EPUB Creater., Aspose.Cells for .NET is a powerful library that enables developers to programmatically create, generate, and manipulate EPUB files in C#]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -62,8 +62,8 @@ c01.PutValue("ColumnB");
 c10.PutValue("ValueA");
 c11.PutValue("ValueB");
 
-// Save the Workbook as .EPUB file.
-wkb.Save("created_one.EPUB");
+// Save the Workbook as .epub file.
+wkb.Save("created_one.epub");
 
 ```
 
@@ -101,7 +101,7 @@ There are two alternative options to install "Aspose.Cells for .NET" onto your s
 
 <!-- aboutfile Starts -->
     {{< blocks/products/pf/agp/about-file-section >}}
-        {{< blocks/products/pf/agp/about-file-text fileFormat="EPUB" readMoreLink="https://docs.fileformat.com/web/EPUB/" >}}Files with EPUB extension represent a web page archive format that can be created by a number of different applications. The format is known as archive format because it saves the web HTML code and associated resources in a single file. These resources include anything linked to the webpage such as images, applets, animations, audio files and so on. EPUB files can be opened in a variety of applications such as Internet Explorer and Microsoft Word. Microsoft Windows uses EPUB file format for recording scenarios of problems observed during the usage of any application on Windows that raises issues. The EPUB file format encodes the page contents similar to specifications defined in message/rfc822 which is plain text email related specifications.{{< /blocks/products/pf/agp/about-file-text >}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="EPUB" readMoreLink="https://docs.fileformat.com/epub/" >}}{{$Config/FileRef/epub.txt}}{{< /blocks/products/pf/agp/about-file-text >}}
     {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->
 

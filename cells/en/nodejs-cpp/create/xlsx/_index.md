@@ -1,7 +1,7 @@
 ---
 title: Create XLSX - Create XLSX file in Node.js
-description: Aspose Excel. Node.js Create XLSX File quickly and easily with Aspose.Cells. Generate XLSX file using Node.js. Create XLSX in Node.js. Node.js XLSX Creater. 
-keywords: [Aspose Excel., Node.js Aspose.Cells., Node.js Create XLSX file., Generate XLSX file in Node.js., Create XLSX file using Node.js., Write data to XLSX file via Node.js., Create a XLSX file in Node.js., Node.js Generate a XLSX file., Node.js XLSX Creater]
+description: Aspose Excel. Effortlessly generate and manipulate XLSX files with the Aspose.Cells for Node.js via C++ library. This powerful API provides a streamlined and efficient solution to create, edit, and manage XLSX files directly within your Node.js applications, fulfilling specific developer needs with high precision.
+keywords: [Aspose Excel., Node.js Aspose.Cells., Node.js Create XLSX file., Generate XLSX file in Node.js., Write data to XLSX file via Node.js., Node.js XLSX Creater., Aspose.Cells for Node.js via C++ is a powerful library that enables developers to programmatically create, generate, and manipulate XLSX files in Node.js]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

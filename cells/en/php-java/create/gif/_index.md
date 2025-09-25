@@ -1,7 +1,7 @@
 ---
 title: Create GIF - Create GIF file in PHP
-description: Aspose Excel. PHP Create GIF File quickly and easily with Aspose.Cells. Generate GIF file using PHP. Create GIF in PHP. PHP GIF Creater. 
-keywords: [Aspose Excel., PHP Aspose.Cells., PHP Create GIF file., Generate GIF file in PHP., Create GIF file using PHP., Write data to GIF file via PHP., Create a GIF file in PHP., PHP Generate a GIF file., PHP GIF Creater]
+description: Aspose Excel. Effortlessly generate and manipulate GIF files with the Aspose.Cells for PHP via Java library. This powerful API provides a streamlined and efficient solution to create, edit, and manage GIF files directly within your PHP applications, fulfilling specific developer needs with high precision.
+keywords: [Aspose Excel., PHP Aspose.Cells., PHP Create GIF file., Generate GIF file in PHP., Write data to GIF file via PHP., PHP GIF Creater., Aspose.Cells for PHP via Java is a powerful library that enables developers to programmatically create, generate, and manipulate GIF files in PHP]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,7 +1,7 @@
 ---
 title: Create SQL - Create SQL file in PHP
-description: Aspose Excel. PHP Create SQL File quickly and easily with Aspose.Cells. Generate SQL file using PHP. Create SQL in PHP. PHP SQL Creater. 
-keywords: [Aspose Excel., PHP Aspose.Cells., PHP Create SQL file., Generate SQL file in PHP., Create SQL file using PHP., Write data to SQL file via PHP., Create a SQL file in PHP., PHP Generate a SQL file., PHP SQL Creater]
+description: Aspose Excel. Effortlessly generate and manipulate SQL files with the Aspose.Cells for PHP via Java library. This powerful API provides a streamlined and efficient solution to create, edit, and manage SQL files directly within your PHP applications, fulfilling specific developer needs with high precision.
+keywords: [Aspose Excel., PHP Aspose.Cells., PHP Create SQL file., Generate SQL file in PHP., Write data to SQL file via PHP., PHP SQL Creater., Aspose.Cells for PHP via Java is a powerful library that enables developers to programmatically create, generate, and manipulate SQL files in PHP]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

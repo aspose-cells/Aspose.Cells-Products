@@ -1,7 +1,7 @@
 ---
 title: Create MHT - Create MHT file in Node.js
-description: Aspose Excel. Node.js Create MHT File quickly and easily with Aspose.Cells. Generate MHT file using Node.js. Create MHT in Node.js. Node.js MHT Creater. 
-keywords: [Aspose Excel., Node.js Aspose.Cells., Node.js Create MHT file., Generate MHT file in Node.js., Create MHT file using Node.js., Write data to MHT file via Node.js., Create a MHT file in Node.js., Node.js Generate a MHT file., Node.js MHT Creater]
+description: Aspose Excel. Effortlessly generate and manipulate MHT files with the Aspose.Cells for Node.js via C++ library. This powerful API provides a streamlined and efficient solution to create, edit, and manage MHT files directly within your Node.js applications, fulfilling specific developer needs with high precision.
+keywords: [Aspose Excel., Node.js Aspose.Cells., Node.js Create MHT file., Generate MHT file in Node.js., Write data to MHT file via Node.js., Node.js MHT Creater., Aspose.Cells for Node.js via C++ is a powerful library that enables developers to programmatically create, generate, and manipulate MHT files in Node.js]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

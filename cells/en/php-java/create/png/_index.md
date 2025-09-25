@@ -1,7 +1,7 @@
 ---
 title: Create PNG - Create PNG file in PHP
-description: Aspose Excel. PHP Create PNG File quickly and easily with Aspose.Cells. Generate PNG file using PHP. Create PNG in PHP. PHP PNG Creater. 
-keywords: [Aspose Excel., PHP Aspose.Cells., PHP Create PNG file., Generate PNG file in PHP., Create PNG file using PHP., Write data to PNG file via PHP., Create a PNG file in PHP., PHP Generate a PNG file., PHP PNG Creater]
+description: Aspose Excel. Effortlessly generate and manipulate PNG files with the Aspose.Cells for PHP via Java library. This powerful API provides a streamlined and efficient solution to create, edit, and manage PNG files directly within your PHP applications, fulfilling specific developer needs with high precision.
+keywords: [Aspose Excel., PHP Aspose.Cells., PHP Create PNG file., Generate PNG file in PHP., Write data to PNG file via PHP., PHP PNG Creater., Aspose.Cells for PHP via Java is a powerful library that enables developers to programmatically create, generate, and manipulate PNG files in PHP]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

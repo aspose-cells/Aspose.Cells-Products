@@ -1,7 +1,7 @@
 ---
 title: Create SXC - Create SXC file in Node.js
-description: Aspose Excel. Node.js Create SXC File quickly and easily with Aspose.Cells. Generate SXC file using Node.js. Create SXC in Node.js. Node.js SXC Creater. 
-keywords: [Aspose Excel., Node.js Aspose.Cells., Node.js Create SXC file., Generate SXC file in Node.js., Create SXC file using Node.js., Write data to SXC file via Node.js., Create a SXC file in Node.js., Node.js Generate a SXC file., Node.js SXC Creater]
+description: Aspose Excel. Effortlessly generate and manipulate SXC files with the Aspose.Cells for Node.js via C++ library. This powerful API provides a streamlined and efficient solution to create, edit, and manage SXC files directly within your Node.js applications, fulfilling specific developer needs with high precision.
+keywords: [Aspose Excel., Node.js Aspose.Cells., Node.js Create SXC file., Generate SXC file in Node.js., Write data to SXC file via Node.js., Node.js SXC Creater., Aspose.Cells for Node.js via C++ is a powerful library that enables developers to programmatically create, generate, and manipulate SXC files in Node.js]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

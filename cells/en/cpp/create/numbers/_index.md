@@ -1,7 +1,7 @@
 ---
 title: Create NUMBERS - Create NUMBERS file in C++
-description: Aspose Excel. C++ Create NUMBERS File quickly and easily with Aspose.Cells. Generate NUMBERS file using C++. Create NUMBERS in C++. C++ NUMBERS Creater. 
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ Create NUMBERS file., Generate NUMBERS file in C++., Create NUMBERS file using C++., Write data to NUMBERS file via C++., Create a NUMBERS file in C++., C++ Generate a NUMBERS file., C++ NUMBERS Creater]
+description: Aspose Excel. Effortlessly generate and manipulate NUMBERS files with the Aspose.Cells for C++ library. This powerful API provides a streamlined and efficient solution to create, edit, and manage NUMBERS files directly within your C++ applications, fulfilling specific developer needs with high precision.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ Create NUMBERS file., Generate NUMBERS file in C++., Write data to NUMBERS file via C++., C++ NUMBERS Creater., Aspose.Cells for C++ is a powerful library that enables developers to programmatically create, generate, and manipulate NUMBERS files in C++]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -46,6 +46,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 ```cs
 Aspose::Cells::Startup();
+//TIFF format is not supported
 
 // Create an object of the Workbook class.
 Workbook wkb;

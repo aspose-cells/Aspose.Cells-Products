@@ -1,7 +1,7 @@
 ---
 title: Create XLTM - Create XLTM file in Node.js
-description: Aspose Excel. Node.js Create XLTM File quickly and easily with Aspose.Cells. Generate XLTM file using Node.js. Create XLTM in Node.js. Node.js XLTM Creater. 
-keywords: [Aspose Excel., Node.js Aspose.Cells., Node.js Create XLTM file., Generate XLTM file in Node.js., Create XLTM file using Node.js., Write data to XLTM file via Node.js., Create a XLTM file in Node.js., Node.js Generate a XLTM file., Node.js XLTM Creater]
+description: Aspose Excel. Effortlessly generate and manipulate XLTM files with the Aspose.Cells for Node.js via C++ library. This powerful API provides a streamlined and efficient solution to create, edit, and manage XLTM files directly within your Node.js applications, fulfilling specific developer needs with high precision.
+keywords: [Aspose Excel., Node.js Aspose.Cells., Node.js Create XLTM file., Generate XLTM file in Node.js., Write data to XLTM file via Node.js., Node.js XLTM Creater., Aspose.Cells for Node.js via C++ is a powerful library that enables developers to programmatically create, generate, and manipulate XLTM files in Node.js]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

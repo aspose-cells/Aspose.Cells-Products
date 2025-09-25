@@ -1,7 +1,7 @@
 ---
 title: Create DIF - Create DIF file in Node.js
-description: Aspose Excel. Node.js Create DIF File quickly and easily with Aspose.Cells. Generate DIF file using Node.js. Create DIF in Node.js. Node.js DIF Creater. 
-keywords: [Aspose Excel., Node.js Aspose.Cells., Node.js Create DIF file., Generate DIF file in Node.js., Create DIF file using Node.js., Write data to DIF file via Node.js., Create a DIF file in Node.js., Node.js Generate a DIF file., Node.js DIF Creater]
+description: Aspose Excel. Effortlessly generate and manipulate DIF files with the Aspose.Cells for Node.js via C++ library. This powerful API provides a streamlined and efficient solution to create, edit, and manage DIF files directly within your Node.js applications, fulfilling specific developer needs with high precision.
+keywords: [Aspose Excel., Node.js Aspose.Cells., Node.js Create DIF file., Generate DIF file in Node.js., Write data to DIF file via Node.js., Node.js DIF Creater., Aspose.Cells for Node.js via C++ is a powerful library that enables developers to programmatically create, generate, and manipulate DIF files in Node.js]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

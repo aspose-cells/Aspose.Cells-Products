@@ -1,7 +1,7 @@
 ---
 title: Create EXCEL - Create EXCEL file in PHP
-description: Aspose Excel. PHP Create EXCEL File quickly and easily with Aspose.Cells. Generate EXCEL file using PHP. Create EXCEL in PHP. PHP EXCEL Creater. 
-keywords: [Aspose Excel., PHP Aspose.Cells., PHP Create EXCEL file., Generate EXCEL file in PHP., Create EXCEL file using PHP., Write data to EXCEL file via PHP., Create a EXCEL file in PHP., PHP Generate a EXCEL file., PHP EXCEL Creater]
+description: Aspose Excel. Effortlessly generate and manipulate EXCEL files with the Aspose.Cells for PHP via Java library. This powerful API provides a streamlined and efficient solution to create, edit, and manage EXCEL files directly within your PHP applications, fulfilling specific developer needs with high precision.
+keywords: [Aspose Excel., PHP Aspose.Cells., PHP Create EXCEL file., Generate EXCEL file in PHP., Write data to EXCEL file via PHP., PHP EXCEL Creater., Aspose.Cells for PHP via Java is a powerful library that enables developers to programmatically create, generate, and manipulate EXCEL files in PHP]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

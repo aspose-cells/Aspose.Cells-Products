@@ -1,7 +1,7 @@
 ---
 title: Create FODS - Create FODS file in Java
-description: Aspose Excel. Java Create FODS File quickly and easily with Aspose.Cells. Generate FODS file using Java. Create FODS in Java. Java FODS Creater. 
-keywords: [Aspose Excel., Java Aspose.Cells., Java Create FODS file., Generate FODS file in Java., Create FODS file using Java., Write data to FODS file via Java., Create a FODS file in Java., Java Generate a FODS file., Java FODS Creater]
+description: Aspose Excel. Effortlessly generate and manipulate FODS files with the Aspose.Cells for Java library. This powerful API provides a streamlined and efficient solution to create, edit, and manage FODS files directly within your Java applications, fulfilling specific developer needs with high precision.
+keywords: [Aspose Excel., Java Aspose.Cells., Java Create FODS file., Generate FODS file in Java., Write data to FODS file via Java., Java FODS Creater., Aspose.Cells for Java is a powerful library that enables developers to programmatically create, generate, and manipulate FODS files in Java]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

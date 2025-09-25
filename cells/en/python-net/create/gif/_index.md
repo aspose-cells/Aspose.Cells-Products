@@ -1,7 +1,7 @@
 ---
 title: Create GIF - Create GIF file in Python
-description: Aspose Excel. Python Excel. Python Create GIF File quickly and easily with Aspose.Cells. Generate GIF file using Python Excel Library. Create GIF in Python Excel Library. Python GIF Creater. 
-keywords: [Aspose Python Excel., Python Aspose.Cells., Python Create GIF file., Generate GIF file in Python Excel Library., Create GIF file using Python Excel Library., Write data to GIF file via Python Excel Library., Create a GIF file in Python Excel Library., Python Generate a GIF file., Python GIF Creater]
+description: Aspose Excel. Effortlessly generate and manipulate GIF files with the Aspose.Cells for Python via .NET library. This powerful API provides a streamlined and efficient solution to create, edit, and manage GIF files directly within your Python applications, fulfilling specific developer needs with high precision.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Create GIF file., Generate GIF file in Python., Write data to GIF file via Python., Python GIF Creater., Aspose.Cells for Python via .NET is a powerful library that enables developers to programmatically create, generate, and manipulate GIF files in Python]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

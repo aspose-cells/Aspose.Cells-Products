@@ -1,7 +1,7 @@
 ---
 title: Create MD - Create MD file in C#
-description: Aspose Excel. C# Create MD File quickly and easily with Aspose.Cells. Generate MD file using C#. Create MD in C#. C# MD Creater. 
-keywords: [Aspose Excel., C# Aspose.Cells., C# Create MD file., Generate MD file in C#., Create MD file using C#., Write data to MD file via C#., Create a MD file in C#., C# Generate a MD file., C# MD Creater]
+description: Aspose Excel. Effortlessly generate and manipulate MD files with the Aspose.Cells for .NET library. This powerful API provides a streamlined and efficient solution to create, edit, and manage MD files directly within your C# applications, fulfilling specific developer needs with high precision.
+keywords: [Aspose Excel., C# Aspose.Cells., C# Create MD file., Generate MD file in C#., Write data to MD file via C#., C# MD Creater., Aspose.Cells for .NET is a powerful library that enables developers to programmatically create, generate, and manipulate MD files in C#]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

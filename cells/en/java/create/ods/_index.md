@@ -1,7 +1,7 @@
 ---
 title: Create ODS - Create ODS file in Java
-description: Aspose Excel. Java Create ODS File quickly and easily with Aspose.Cells. Generate ODS file using Java. Create ODS in Java. Java ODS Creater. 
-keywords: [Aspose Excel., Java Aspose.Cells., Java Create ODS file., Generate ODS file in Java., Create ODS file using Java., Write data to ODS file via Java., Create a ODS file in Java., Java Generate a ODS file., Java ODS Creater]
+description: Aspose Excel. Effortlessly generate and manipulate ODS files with the Aspose.Cells for Java library. This powerful API provides a streamlined and efficient solution to create, edit, and manage ODS files directly within your Java applications, fulfilling specific developer needs with high precision.
+keywords: [Aspose Excel., Java Aspose.Cells., Java Create ODS file., Generate ODS file in Java., Write data to ODS file via Java., Java ODS Creater., Aspose.Cells for Java is a powerful library that enables developers to programmatically create, generate, and manipulate ODS files in Java]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,7 +1,7 @@
 ---
 title: Create MHT - Create MHT file in PHP
-description: Aspose Excel. PHP Create MHT File quickly and easily with Aspose.Cells. Generate MHT file using PHP. Create MHT in PHP. PHP MHT Creater. 
-keywords: [Aspose Excel., PHP Aspose.Cells., PHP Create MHT file., Generate MHT file in PHP., Create MHT file using PHP., Write data to MHT file via PHP., Create a MHT file in PHP., PHP Generate a MHT file., PHP MHT Creater]
+description: Aspose Excel. Effortlessly generate and manipulate MHT files with the Aspose.Cells for PHP via Java library. This powerful API provides a streamlined and efficient solution to create, edit, and manage MHT files directly within your PHP applications, fulfilling specific developer needs with high precision.
+keywords: [Aspose Excel., PHP Aspose.Cells., PHP Create MHT file., Generate MHT file in PHP., Write data to MHT file via PHP., PHP MHT Creater., Aspose.Cells for PHP via Java is a powerful library that enables developers to programmatically create, generate, and manipulate MHT files in PHP]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

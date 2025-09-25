@@ -1,7 +1,7 @@
 ---
 title: Create ETT - Create ETT file in PHP
-description: Aspose Excel. PHP Create ETT File quickly and easily with Aspose.Cells. Generate ETT file using PHP. Create ETT in PHP. PHP ETT Creater. 
-keywords: [Aspose Excel., PHP Aspose.Cells., PHP Create ETT file., Generate ETT file in PHP., Create ETT file using PHP., Write data to ETT file via PHP., Create a ETT file in PHP., PHP Generate a ETT file., PHP ETT Creater]
+description: Aspose Excel. Effortlessly generate and manipulate ETT files with the Aspose.Cells for PHP via Java library. This powerful API provides a streamlined and efficient solution to create, edit, and manage ETT files directly within your PHP applications, fulfilling specific developer needs with high precision.
+keywords: [Aspose Excel., PHP Aspose.Cells., PHP Create ETT file., Generate ETT file in PHP., Write data to ETT file via PHP., PHP ETT Creater., Aspose.Cells for PHP via Java is a powerful library that enables developers to programmatically create, generate, and manipulate ETT files in PHP]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

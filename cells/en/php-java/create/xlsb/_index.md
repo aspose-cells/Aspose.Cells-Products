@@ -1,7 +1,7 @@
 ---
 title: Create XLSB - Create XLSB file in PHP
-description: Aspose Excel. PHP Create XLSB File quickly and easily with Aspose.Cells. Generate XLSB file using PHP. Create XLSB in PHP. PHP XLSB Creater. 
-keywords: [Aspose Excel., PHP Aspose.Cells., PHP Create XLSB file., Generate XLSB file in PHP., Create XLSB file using PHP., Write data to XLSB file via PHP., Create a XLSB file in PHP., PHP Generate a XLSB file., PHP XLSB Creater]
+description: Aspose Excel. Effortlessly generate and manipulate XLSB files with the Aspose.Cells for PHP via Java library. This powerful API provides a streamlined and efficient solution to create, edit, and manage XLSB files directly within your PHP applications, fulfilling specific developer needs with high precision.
+keywords: [Aspose Excel., PHP Aspose.Cells., PHP Create XLSB file., Generate XLSB file in PHP., Write data to XLSB file via PHP., PHP XLSB Creater., Aspose.Cells for PHP via Java is a powerful library that enables developers to programmatically create, generate, and manipulate XLSB files in PHP]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

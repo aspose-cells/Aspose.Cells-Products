@@ -1,7 +1,7 @@
 ---
 title: Create CSV - Create CSV file in Node.js
-description: Aspose Excel. Node.js Create CSV File quickly and easily with Aspose.Cells. Generate CSV file using Node.js. Create CSV in Node.js. Node.js CSV Creater. 
-keywords: [Aspose Excel., Node.js Aspose.Cells., Node.js Create CSV file., Generate CSV file in Node.js., Create CSV file using Node.js., Write data to CSV file via Node.js., Create a CSV file in Node.js., Node.js Generate a CSV file., Node.js CSV Creater]
+description: Aspose Excel. Effortlessly generate and manipulate CSV files with the Aspose.Cells for Node.js via C++ library. This powerful API provides a streamlined and efficient solution to create, edit, and manage CSV files directly within your Node.js applications, fulfilling specific developer needs with high precision.
+keywords: [Aspose Excel., Node.js Aspose.Cells., Node.js Create CSV file., Generate CSV file in Node.js., Write data to CSV file via Node.js., Node.js CSV Creater., Aspose.Cells for Node.js via C++ is a powerful library that enables developers to programmatically create, generate, and manipulate CSV files in Node.js]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

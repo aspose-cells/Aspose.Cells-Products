@@ -1,7 +1,7 @@
 ---
 title: Create ODS - Create ODS file in PHP
-description: Aspose Excel. PHP Create ODS File quickly and easily with Aspose.Cells. Generate ODS file using PHP. Create ODS in PHP. PHP ODS Creater. 
-keywords: [Aspose Excel., PHP Aspose.Cells., PHP Create ODS file., Generate ODS file in PHP., Create ODS file using PHP., Write data to ODS file via PHP., Create a ODS file in PHP., PHP Generate a ODS file., PHP ODS Creater]
+description: Aspose Excel. Effortlessly generate and manipulate ODS files with the Aspose.Cells for PHP via Java library. This powerful API provides a streamlined and efficient solution to create, edit, and manage ODS files directly within your PHP applications, fulfilling specific developer needs with high precision.
+keywords: [Aspose Excel., PHP Aspose.Cells., PHP Create ODS file., Generate ODS file in PHP., Write data to ODS file via PHP., PHP ODS Creater., Aspose.Cells for PHP via Java is a powerful library that enables developers to programmatically create, generate, and manipulate ODS files in PHP]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

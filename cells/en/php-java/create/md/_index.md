@@ -1,7 +1,7 @@
 ---
 title: Create MD - Create MD file in PHP
-description: Aspose Excel. PHP Create MD File quickly and easily with Aspose.Cells. Generate MD file using PHP. Create MD in PHP. PHP MD Creater. 
-keywords: [Aspose Excel., PHP Aspose.Cells., PHP Create MD file., Generate MD file in PHP., Create MD file using PHP., Write data to MD file via PHP., Create a MD file in PHP., PHP Generate a MD file., PHP MD Creater]
+description: Aspose Excel. Effortlessly generate and manipulate MD files with the Aspose.Cells for PHP via Java library. This powerful API provides a streamlined and efficient solution to create, edit, and manage MD files directly within your PHP applications, fulfilling specific developer needs with high precision.
+keywords: [Aspose Excel., PHP Aspose.Cells., PHP Create MD file., Generate MD file in PHP., Write data to MD file via PHP., PHP MD Creater., Aspose.Cells for PHP via Java is a powerful library that enables developers to programmatically create, generate, and manipulate MD files in PHP]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,7 +1,7 @@
 ---
 title: Create SXC - Create SXC file in PHP
-description: Aspose Excel. PHP Create SXC File quickly and easily with Aspose.Cells. Generate SXC file using PHP. Create SXC in PHP. PHP SXC Creater. 
-keywords: [Aspose Excel., PHP Aspose.Cells., PHP Create SXC file., Generate SXC file in PHP., Create SXC file using PHP., Write data to SXC file via PHP., Create a SXC file in PHP., PHP Generate a SXC file., PHP SXC Creater]
+description: Aspose Excel. Effortlessly generate and manipulate SXC files with the Aspose.Cells for PHP via Java library. This powerful API provides a streamlined and efficient solution to create, edit, and manage SXC files directly within your PHP applications, fulfilling specific developer needs with high precision.
+keywords: [Aspose Excel., PHP Aspose.Cells., PHP Create SXC file., Generate SXC file in PHP., Write data to SXC file via PHP., PHP SXC Creater., Aspose.Cells for PHP via Java is a powerful library that enables developers to programmatically create, generate, and manipulate SXC files in PHP]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

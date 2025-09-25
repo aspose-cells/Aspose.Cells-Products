@@ -1,7 +1,7 @@
 ---
 title: Create EXCEL - Create EXCEL file in Node.js
-description: Aspose Excel. Node.js Create EXCEL File quickly and easily with Aspose.Cells. Generate EXCEL file using Node.js. Create EXCEL in Node.js. Node.js EXCEL Creater. 
-keywords: [Aspose Excel., Node.js Aspose.Cells., Node.js Create EXCEL file., Generate EXCEL file in Node.js., Create EXCEL file using Node.js., Write data to EXCEL file via Node.js., Create a EXCEL file in Node.js., Node.js Generate a EXCEL file., Node.js EXCEL Creater]
+description: Aspose Excel. Effortlessly generate and manipulate EXCEL files with the Aspose.Cells for Node.js via C++ library. This powerful API provides a streamlined and efficient solution to create, edit, and manage EXCEL files directly within your Node.js applications, fulfilling specific developer needs with high precision.
+keywords: [Aspose Excel., Node.js Aspose.Cells., Node.js Create EXCEL file., Generate EXCEL file in Node.js., Write data to EXCEL file via Node.js., Node.js EXCEL Creater., Aspose.Cells for Node.js via C++ is a powerful library that enables developers to programmatically create, generate, and manipulate EXCEL files in Node.js]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

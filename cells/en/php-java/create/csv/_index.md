@@ -1,7 +1,7 @@
 ---
 title: Create CSV - Create CSV file in PHP
-description: Aspose Excel. PHP Create CSV File quickly and easily with Aspose.Cells. Generate CSV file using PHP. Create CSV in PHP. PHP CSV Creater. 
-keywords: [Aspose Excel., PHP Aspose.Cells., PHP Create CSV file., Generate CSV file in PHP., Create CSV file using PHP., Write data to CSV file via PHP., Create a CSV file in PHP., PHP Generate a CSV file., PHP CSV Creater]
+description: Aspose Excel. Effortlessly generate and manipulate CSV files with the Aspose.Cells for PHP via Java library. This powerful API provides a streamlined and efficient solution to create, edit, and manage CSV files directly within your PHP applications, fulfilling specific developer needs with high precision.
+keywords: [Aspose Excel., PHP Aspose.Cells., PHP Create CSV file., Generate CSV file in PHP., Write data to CSV file via PHP., PHP CSV Creater., Aspose.Cells for PHP via Java is a powerful library that enables developers to programmatically create, generate, and manipulate CSV files in PHP]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

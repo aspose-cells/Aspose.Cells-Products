@@ -1,7 +1,7 @@
 ---
 title: Create JPG - Create JPG file in Node.js
-description: Aspose Excel. Node.js Create JPG File quickly and easily with Aspose.Cells. Generate JPG file using Node.js. Create JPG in Node.js. Node.js JPG Creater. 
-keywords: [Aspose Excel., Node.js Aspose.Cells., Node.js Create JPG file., Generate JPG file in Node.js., Create JPG file using Node.js., Write data to JPG file via Node.js., Create a JPG file in Node.js., Node.js Generate a JPG file., Node.js JPG Creater]
+description: Aspose Excel. Effortlessly generate and manipulate JPG files with the Aspose.Cells for Node.js via C++ library. This powerful API provides a streamlined and efficient solution to create, edit, and manage JPG files directly within your Node.js applications, fulfilling specific developer needs with high precision.
+keywords: [Aspose Excel., Node.js Aspose.Cells., Node.js Create JPG file., Generate JPG file in Node.js., Write data to JPG file via Node.js., Node.js JPG Creater., Aspose.Cells for Node.js via C++ is a powerful library that enables developers to programmatically create, generate, and manipulate JPG files in Node.js]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,7 +1,7 @@
 ---
 title: Create FODS - Create FODS file in Node.js
-description: Aspose Excel. Node.js Create FODS File quickly and easily with Aspose.Cells. Generate FODS file using Node.js. Create FODS in Node.js. Node.js FODS Creater. 
-keywords: [Aspose Excel., Node.js Aspose.Cells., Node.js Create FODS file., Generate FODS file in Node.js., Create FODS file using Node.js., Write data to FODS file via Node.js., Create a FODS file in Node.js., Node.js Generate a FODS file., Node.js FODS Creater]
+description: Aspose Excel. Effortlessly generate and manipulate FODS files with the Aspose.Cells for Node.js via C++ library. This powerful API provides a streamlined and efficient solution to create, edit, and manage FODS files directly within your Node.js applications, fulfilling specific developer needs with high precision.
+keywords: [Aspose Excel., Node.js Aspose.Cells., Node.js Create FODS file., Generate FODS file in Node.js., Write data to FODS file via Node.js., Node.js FODS Creater., Aspose.Cells for Node.js via C++ is a powerful library that enables developers to programmatically create, generate, and manipulate FODS files in Node.js]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

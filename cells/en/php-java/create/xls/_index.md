@@ -1,7 +1,7 @@
 ---
 title: Create XLS - Create XLS file in PHP
-description: Aspose Excel. PHP Create XLS File quickly and easily with Aspose.Cells. Generate XLS file using PHP. Create XLS in PHP. PHP XLS Creater. 
-keywords: [Aspose Excel., PHP Aspose.Cells., PHP Create XLS file., Generate XLS file in PHP., Create XLS file using PHP., Write data to XLS file via PHP., Create a XLS file in PHP., PHP Generate a XLS file., PHP XLS Creater]
+description: Aspose Excel. Effortlessly generate and manipulate XLS files with the Aspose.Cells for PHP via Java library. This powerful API provides a streamlined and efficient solution to create, edit, and manage XLS files directly within your PHP applications, fulfilling specific developer needs with high precision.
+keywords: [Aspose Excel., PHP Aspose.Cells., PHP Create XLS file., Generate XLS file in PHP., Write data to XLS file via PHP., PHP XLS Creater., Aspose.Cells for PHP via Java is a powerful library that enables developers to programmatically create, generate, and manipulate XLS files in PHP]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

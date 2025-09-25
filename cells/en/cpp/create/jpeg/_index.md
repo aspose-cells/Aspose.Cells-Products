@@ -1,7 +1,7 @@
 ---
 title: Create JPEG - Create JPEG file in C++
-description: Aspose Excel. C++ Create JPEG File quickly and easily with Aspose.Cells. Generate JPEG file using C++. Create JPEG in C++. C++ JPEG Creater. 
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ Create JPEG file., Generate JPEG file in C++., Create JPEG file using C++., Write data to JPEG file via C++., Create a JPEG file in C++., C++ Generate a JPEG file., C++ JPEG Creater]
+description: Aspose Excel. Effortlessly generate and manipulate JPEG files with the Aspose.Cells for C++ library. This powerful API provides a streamlined and efficient solution to create, edit, and manage JPEG files directly within your C++ applications, fulfilling specific developer needs with high precision.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ Create JPEG file., Generate JPEG file in C++., Write data to JPEG file via C++., C++ JPEG Creater., Aspose.Cells for C++ is a powerful library that enables developers to programmatically create, generate, and manipulate JPEG files in C++]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -46,6 +46,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 ```cs
 Aspose::Cells::Startup();
+//TIFF format is not supported
 
 // Create an object of the Workbook class.
 Workbook wkb;

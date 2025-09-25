@@ -1,7 +1,7 @@
 ---
 title: Create AZW3 - Create AZW3 file in C#
-description: Aspose Excel. C# Create AZW3 File quickly and easily with Aspose.Cells. Generate AZW3 file using C#. Create AZW3 in C#. C# AZW3 Creater. 
-keywords: [Aspose Excel., C# Aspose.Cells., C# Create AZW3 file., Generate AZW3 file in C#., Create AZW3 file using C#., Write data to AZW3 file via C#., Create a AZW3 file in C#., C# Generate a AZW3 file., C# AZW3 Creater]
+description: Aspose Excel. Effortlessly generate and manipulate AZW3 files with the Aspose.Cells for .NET library. This powerful API provides a streamlined and efficient solution to create, edit, and manage AZW3 files directly within your C# applications, fulfilling specific developer needs with high precision.
+keywords: [Aspose Excel., C# Aspose.Cells., C# Create AZW3 file., Generate AZW3 file in C#., Write data to AZW3 file via C#., C# AZW3 Creater., Aspose.Cells for .NET is a powerful library that enables developers to programmatically create, generate, and manipulate AZW3 files in C#]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -62,8 +62,8 @@ c01.PutValue("ColumnB");
 c10.PutValue("ValueA");
 c11.PutValue("ValueB");
 
-// Save the Workbook as .AZW3 file.
-wkb.Save("created_one.AZW3");
+// Save the Workbook as .azw3 file.
+wkb.Save("created_one.azw3");
 
 ```
 
@@ -101,7 +101,7 @@ There are two alternative options to install "Aspose.Cells for .NET" onto your s
 
 <!-- aboutfile Starts -->
     {{< blocks/products/pf/agp/about-file-section >}}
-        {{< blocks/products/pf/agp/about-file-text fileFormat="AZW3" readMoreLink="https://docs.fileformat.com/web/AZW3/" >}}Files with AZW3 extension represent a web page archive format that can be created by a number of different applications. The format is known as archive format because it saves the web HTML code and associated resources in a single file. These resources include anything linked to the webpage such as images, applets, animations, audio files and so on. AZW3 files can be opened in a variety of applications such as Internet Explorer and Microsoft Word. Microsoft Windows uses AZW3 file format for recording scenarios of problems observed during the usage of any application on Windows that raises issues. The AZW3 file format encodes the page contents similar to specifications defined in message/rfc822 which is plain text email related specifications.{{< /blocks/products/pf/agp/about-file-text >}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="AZW3" readMoreLink="https://docs.fileformat.com/azw3/" >}}{{$Config/FileRef/azw3.txt}}{{< /blocks/products/pf/agp/about-file-text >}}
     {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->
 

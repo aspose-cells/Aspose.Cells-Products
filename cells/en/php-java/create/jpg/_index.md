@@ -1,7 +1,7 @@
 ---
 title: Create JPG - Create JPG file in PHP
-description: Aspose Excel. PHP Create JPG File quickly and easily with Aspose.Cells. Generate JPG file using PHP. Create JPG in PHP. PHP JPG Creater. 
-keywords: [Aspose Excel., PHP Aspose.Cells., PHP Create JPG file., Generate JPG file in PHP., Create JPG file using PHP., Write data to JPG file via PHP., Create a JPG file in PHP., PHP Generate a JPG file., PHP JPG Creater]
+description: Aspose Excel. Effortlessly generate and manipulate JPG files with the Aspose.Cells for PHP via Java library. This powerful API provides a streamlined and efficient solution to create, edit, and manage JPG files directly within your PHP applications, fulfilling specific developer needs with high precision.
+keywords: [Aspose Excel., PHP Aspose.Cells., PHP Create JPG file., Generate JPG file in PHP., Write data to JPG file via PHP., PHP JPG Creater., Aspose.Cells for PHP via Java is a powerful library that enables developers to programmatically create, generate, and manipulate JPG files in PHP]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

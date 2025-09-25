@@ -1,7 +1,7 @@
 ---
 title: Create XLTX - Create XLTX file in Node.js
-description: Aspose Excel. Node.js Create XLTX File quickly and easily with Aspose.Cells. Generate XLTX file using Node.js. Create XLTX in Node.js. Node.js XLTX Creater. 
-keywords: [Aspose Excel., Node.js Aspose.Cells., Node.js Create XLTX file., Generate XLTX file in Node.js., Create XLTX file using Node.js., Write data to XLTX file via Node.js., Create a XLTX file in Node.js., Node.js Generate a XLTX file., Node.js XLTX Creater]
+description: Aspose Excel. Effortlessly generate and manipulate XLTX files with the Aspose.Cells for Node.js via C++ library. This powerful API provides a streamlined and efficient solution to create, edit, and manage XLTX files directly within your Node.js applications, fulfilling specific developer needs with high precision.
+keywords: [Aspose Excel., Node.js Aspose.Cells., Node.js Create XLTX file., Generate XLTX file in Node.js., Write data to XLTX file via Node.js., Node.js XLTX Creater., Aspose.Cells for Node.js via C++ is a powerful library that enables developers to programmatically create, generate, and manipulate XLTX files in Node.js]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,7 +1,7 @@
 ---
 title: Create XLSM - Create XLSM file in PHP
-description: Aspose Excel. PHP Create XLSM File quickly and easily with Aspose.Cells. Generate XLSM file using PHP. Create XLSM in PHP. PHP XLSM Creater. 
-keywords: [Aspose Excel., PHP Aspose.Cells., PHP Create XLSM file., Generate XLSM file in PHP., Create XLSM file using PHP., Write data to XLSM file via PHP., Create a XLSM file in PHP., PHP Generate a XLSM file., PHP XLSM Creater]
+description: Aspose Excel. Effortlessly generate and manipulate XLSM files with the Aspose.Cells for PHP via Java library. This powerful API provides a streamlined and efficient solution to create, edit, and manage XLSM files directly within your PHP applications, fulfilling specific developer needs with high precision.
+keywords: [Aspose Excel., PHP Aspose.Cells., PHP Create XLSM file., Generate XLSM file in PHP., Write data to XLSM file via PHP., PHP XLSM Creater., Aspose.Cells for PHP via Java is a powerful library that enables developers to programmatically create, generate, and manipulate XLSM files in PHP]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

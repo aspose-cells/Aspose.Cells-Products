@@ -1,7 +1,7 @@
 ---
 title: Create JSON - Create JSON file in PHP
-description: Aspose Excel. PHP Create JSON File quickly and easily with Aspose.Cells. Generate JSON file using PHP. Create JSON in PHP. PHP JSON Creater. 
-keywords: [Aspose Excel., PHP Aspose.Cells., PHP Create JSON file., Generate JSON file in PHP., Create JSON file using PHP., Write data to JSON file via PHP., Create a JSON file in PHP., PHP Generate a JSON file., PHP JSON Creater]
+description: Aspose Excel. Effortlessly generate and manipulate JSON files with the Aspose.Cells for PHP via Java library. This powerful API provides a streamlined and efficient solution to create, edit, and manage JSON files directly within your PHP applications, fulfilling specific developer needs with high precision.
+keywords: [Aspose Excel., PHP Aspose.Cells., PHP Create JSON file., Generate JSON file in PHP., Write data to JSON file via PHP., PHP JSON Creater., Aspose.Cells for PHP via Java is a powerful library that enables developers to programmatically create, generate, and manipulate JSON files in PHP]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

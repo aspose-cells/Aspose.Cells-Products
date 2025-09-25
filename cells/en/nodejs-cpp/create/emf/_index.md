@@ -1,7 +1,7 @@
 ---
 title: Create EMF - Create EMF file in Node.js
-description: Aspose Excel. Node.js Create EMF File quickly and easily with Aspose.Cells. Generate EMF file using Node.js. Create EMF in Node.js. Node.js EMF Creater. 
-keywords: [Aspose Excel., Node.js Aspose.Cells., Node.js Create EMF file., Generate EMF file in Node.js., Create EMF file using Node.js., Write data to EMF file via Node.js., Create a EMF file in Node.js., Node.js Generate a EMF file., Node.js EMF Creater]
+description: Aspose Excel. Effortlessly generate and manipulate EMF files with the Aspose.Cells for Node.js via C++ library. This powerful API provides a streamlined and efficient solution to create, edit, and manage EMF files directly within your Node.js applications, fulfilling specific developer needs with high precision.
+keywords: [Aspose Excel., Node.js Aspose.Cells., Node.js Create EMF file., Generate EMF file in Node.js., Write data to EMF file via Node.js., Node.js EMF Creater., Aspose.Cells for Node.js via C++ is a powerful library that enables developers to programmatically create, generate, and manipulate EMF files in Node.js]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

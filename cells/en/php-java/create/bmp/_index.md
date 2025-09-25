@@ -1,7 +1,7 @@
 ---
 title: Create BMP - Create BMP file in PHP
-description: Aspose Excel. PHP Create BMP File quickly and easily with Aspose.Cells. Generate BMP file using PHP. Create BMP in PHP. PHP BMP Creater. 
-keywords: [Aspose Excel., PHP Aspose.Cells., PHP Create BMP file., Generate BMP file in PHP., Create BMP file using PHP., Write data to BMP file via PHP., Create a BMP file in PHP., PHP Generate a BMP file., PHP BMP Creater]
+description: Aspose Excel. Effortlessly generate and manipulate BMP files with the Aspose.Cells for PHP via Java library. This powerful API provides a streamlined and efficient solution to create, edit, and manage BMP files directly within your PHP applications, fulfilling specific developer needs with high precision.
+keywords: [Aspose Excel., PHP Aspose.Cells., PHP Create BMP file., Generate BMP file in PHP., Write data to BMP file via PHP., PHP BMP Creater., Aspose.Cells for PHP via Java is a powerful library that enables developers to programmatically create, generate, and manipulate BMP files in PHP]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,7 +1,7 @@
 ---
 title: Create MD - Create MD file in Node.js
-description: Aspose Excel. Node.js Create MD File quickly and easily with Aspose.Cells. Generate MD file using Node.js. Create MD in Node.js. Node.js MD Creater. 
-keywords: [Aspose Excel., Node.js Aspose.Cells., Node.js Create MD file., Generate MD file in Node.js., Create MD file using Node.js., Write data to MD file via Node.js., Create a MD file in Node.js., Node.js Generate a MD file., Node.js MD Creater]
+description: Aspose Excel. Effortlessly generate and manipulate MD files with the Aspose.Cells for Node.js via C++ library. This powerful API provides a streamlined and efficient solution to create, edit, and manage MD files directly within your Node.js applications, fulfilling specific developer needs with high precision.
+keywords: [Aspose Excel., Node.js Aspose.Cells., Node.js Create MD file., Generate MD file in Node.js., Write data to MD file via Node.js., Node.js MD Creater., Aspose.Cells for Node.js via C++ is a powerful library that enables developers to programmatically create, generate, and manipulate MD files in Node.js]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

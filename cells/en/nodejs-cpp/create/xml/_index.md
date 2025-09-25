@@ -1,7 +1,7 @@
 ---
 title: Create XML - Create XML file in Node.js
-description: Aspose Excel. Node.js Create XML File quickly and easily with Aspose.Cells. Generate XML file using Node.js. Create XML in Node.js. Node.js XML Creater. 
-keywords: [Aspose Excel., Node.js Aspose.Cells., Node.js Create XML file., Generate XML file in Node.js., Create XML file using Node.js., Write data to XML file via Node.js., Create a XML file in Node.js., Node.js Generate a XML file., Node.js XML Creater]
+description: Aspose Excel. Effortlessly generate and manipulate XML files with the Aspose.Cells for Node.js via C++ library. This powerful API provides a streamlined and efficient solution to create, edit, and manage XML files directly within your Node.js applications, fulfilling specific developer needs with high precision.
+keywords: [Aspose Excel., Node.js Aspose.Cells., Node.js Create XML file., Generate XML file in Node.js., Write data to XML file via Node.js., Node.js XML Creater., Aspose.Cells for Node.js via C++ is a powerful library that enables developers to programmatically create, generate, and manipulate XML files in Node.js]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

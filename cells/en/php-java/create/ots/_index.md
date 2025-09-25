@@ -1,7 +1,7 @@
 ---
 title: Create OTS - Create OTS file in PHP
-description: Aspose Excel. PHP Create OTS File quickly and easily with Aspose.Cells. Generate OTS file using PHP. Create OTS in PHP. PHP OTS Creater. 
-keywords: [Aspose Excel., PHP Aspose.Cells., PHP Create OTS file., Generate OTS file in PHP., Create OTS file using PHP., Write data to OTS file via PHP., Create a OTS file in PHP., PHP Generate a OTS file., PHP OTS Creater]
+description: Aspose Excel. Effortlessly generate and manipulate OTS files with the Aspose.Cells for PHP via Java library. This powerful API provides a streamlined and efficient solution to create, edit, and manage OTS files directly within your PHP applications, fulfilling specific developer needs with high precision.
+keywords: [Aspose Excel., PHP Aspose.Cells., PHP Create OTS file., Generate OTS file in PHP., Write data to OTS file via PHP., PHP OTS Creater., Aspose.Cells for PHP via Java is a powerful library that enables developers to programmatically create, generate, and manipulate OTS files in PHP]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

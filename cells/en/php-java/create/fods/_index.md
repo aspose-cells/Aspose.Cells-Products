@@ -1,7 +1,7 @@
 ---
 title: Create FODS - Create FODS file in PHP
-description: Aspose Excel. PHP Create FODS File quickly and easily with Aspose.Cells. Generate FODS file using PHP. Create FODS in PHP. PHP FODS Creater. 
-keywords: [Aspose Excel., PHP Aspose.Cells., PHP Create FODS file., Generate FODS file in PHP., Create FODS file using PHP., Write data to FODS file via PHP., Create a FODS file in PHP., PHP Generate a FODS file., PHP FODS Creater]
+description: Aspose Excel. Effortlessly generate and manipulate FODS files with the Aspose.Cells for PHP via Java library. This powerful API provides a streamlined and efficient solution to create, edit, and manage FODS files directly within your PHP applications, fulfilling specific developer needs with high precision.
+keywords: [Aspose Excel., PHP Aspose.Cells., PHP Create FODS file., Generate FODS file in PHP., Write data to FODS file via PHP., PHP FODS Creater., Aspose.Cells for PHP via Java is a powerful library that enables developers to programmatically create, generate, and manipulate FODS files in PHP]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

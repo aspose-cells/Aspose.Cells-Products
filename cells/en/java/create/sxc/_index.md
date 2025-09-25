@@ -1,7 +1,7 @@
 ---
 title: Create SXC - Create SXC file in Java
-description: Aspose Excel. Java Create SXC File quickly and easily with Aspose.Cells. Generate SXC file using Java. Create SXC in Java. Java SXC Creater. 
-keywords: [Aspose Excel., Java Aspose.Cells., Java Create SXC file., Generate SXC file in Java., Create SXC file using Java., Write data to SXC file via Java., Create a SXC file in Java., Java Generate a SXC file., Java SXC Creater]
+description: Aspose Excel. Effortlessly generate and manipulate SXC files with the Aspose.Cells for Java library. This powerful API provides a streamlined and efficient solution to create, edit, and manage SXC files directly within your Java applications, fulfilling specific developer needs with high precision.
+keywords: [Aspose Excel., Java Aspose.Cells., Java Create SXC file., Generate SXC file in Java., Write data to SXC file via Java., Java SXC Creater., Aspose.Cells for Java is a powerful library that enables developers to programmatically create, generate, and manipulate SXC files in Java]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

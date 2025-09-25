@@ -1,7 +1,7 @@
 ---
 title: Create TXT - Create TXT file in PHP
-description: Aspose Excel. PHP Create TXT File quickly and easily with Aspose.Cells. Generate TXT file using PHP. Create TXT in PHP. PHP TXT Creater. 
-keywords: [Aspose Excel., PHP Aspose.Cells., PHP Create TXT file., Generate TXT file in PHP., Create TXT file using PHP., Write data to TXT file via PHP., Create a TXT file in PHP., PHP Generate a TXT file., PHP TXT Creater]
+description: Aspose Excel. Effortlessly generate and manipulate TXT files with the Aspose.Cells for PHP via Java library. This powerful API provides a streamlined and efficient solution to create, edit, and manage TXT files directly within your PHP applications, fulfilling specific developer needs with high precision.
+keywords: [Aspose Excel., PHP Aspose.Cells., PHP Create TXT file., Generate TXT file in PHP., Write data to TXT file via PHP., PHP TXT Creater., Aspose.Cells for PHP via Java is a powerful library that enables developers to programmatically create, generate, and manipulate TXT files in PHP]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,7 +1,7 @@
 ---
 title: Create OTS - Create OTS file in C++
-description: Aspose Excel. C++ Create OTS File quickly and easily with Aspose.Cells. Generate OTS file using C++. Create OTS in C++. C++ OTS Creater. 
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ Create OTS file., Generate OTS file in C++., Create OTS file using C++., Write data to OTS file via C++., Create a OTS file in C++., C++ Generate a OTS file., C++ OTS Creater]
+description: Aspose Excel. Effortlessly generate and manipulate OTS files with the Aspose.Cells for C++ library. This powerful API provides a streamlined and efficient solution to create, edit, and manage OTS files directly within your C++ applications, fulfilling specific developer needs with high precision.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ Create OTS file., Generate OTS file in C++., Write data to OTS file via C++., C++ OTS Creater., Aspose.Cells for C++ is a powerful library that enables developers to programmatically create, generate, and manipulate OTS files in C++]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -46,6 +46,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 ```cs
 Aspose::Cells::Startup();
+//TIFF format is not supported
 
 // Create an object of the Workbook class.
 Workbook wkb;

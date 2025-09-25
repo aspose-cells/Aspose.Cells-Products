@@ -1,7 +1,7 @@
 ---
 title: Create XLTX - Create XLTX file in PHP
-description: Aspose Excel. PHP Create XLTX File quickly and easily with Aspose.Cells. Generate XLTX file using PHP. Create XLTX in PHP. PHP XLTX Creater. 
-keywords: [Aspose Excel., PHP Aspose.Cells., PHP Create XLTX file., Generate XLTX file in PHP., Create XLTX file using PHP., Write data to XLTX file via PHP., Create a XLTX file in PHP., PHP Generate a XLTX file., PHP XLTX Creater]
+description: Aspose Excel. Effortlessly generate and manipulate XLTX files with the Aspose.Cells for PHP via Java library. This powerful API provides a streamlined and efficient solution to create, edit, and manage XLTX files directly within your PHP applications, fulfilling specific developer needs with high precision.
+keywords: [Aspose Excel., PHP Aspose.Cells., PHP Create XLTX file., Generate XLTX file in PHP., Write data to XLTX file via PHP., PHP XLTX Creater., Aspose.Cells for PHP via Java is a powerful library that enables developers to programmatically create, generate, and manipulate XLTX files in PHP]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

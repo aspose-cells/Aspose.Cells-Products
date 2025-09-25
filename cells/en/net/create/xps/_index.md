@@ -1,7 +1,7 @@
 ---
 title: Create XPS - Create XPS file in C#
-description: Aspose Excel. C# Create XPS File quickly and easily with Aspose.Cells. Generate XPS file using C#. Create XPS in C#. C# XPS Creater. 
-keywords: [Aspose Excel., C# Aspose.Cells., C# Create XPS file., Generate XPS file in C#., Create XPS file using C#., Write data to XPS file via C#., Create a XPS file in C#., C# Generate a XPS file., C# XPS Creater]
+description: Aspose Excel. Effortlessly generate and manipulate XPS files with the Aspose.Cells for .NET library. This powerful API provides a streamlined and efficient solution to create, edit, and manage XPS files directly within your C# applications, fulfilling specific developer needs with high precision.
+keywords: [Aspose Excel., C# Aspose.Cells., C# Create XPS file., Generate XPS file in C#., Write data to XPS file via C#., C# XPS Creater., Aspose.Cells for .NET is a powerful library that enables developers to programmatically create, generate, and manipulate XPS files in C#]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

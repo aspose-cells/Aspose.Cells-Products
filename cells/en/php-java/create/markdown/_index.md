@@ -1,7 +1,7 @@
 ---
 title: Create MARKDOWN - Create MARKDOWN file in PHP
-description: Aspose Excel. PHP Create MARKDOWN File quickly and easily with Aspose.Cells. Generate MARKDOWN file using PHP. Create MARKDOWN in PHP. PHP MARKDOWN Creater. 
-keywords: [Aspose Excel., PHP Aspose.Cells., PHP Create MARKDOWN file., Generate MARKDOWN file in PHP., Create MARKDOWN file using PHP., Write data to MARKDOWN file via PHP., Create a MARKDOWN file in PHP., PHP Generate a MARKDOWN file., PHP MARKDOWN Creater]
+description: Aspose Excel. Effortlessly generate and manipulate MARKDOWN files with the Aspose.Cells for PHP via Java library. This powerful API provides a streamlined and efficient solution to create, edit, and manage MARKDOWN files directly within your PHP applications, fulfilling specific developer needs with high precision.
+keywords: [Aspose Excel., PHP Aspose.Cells., PHP Create MARKDOWN file., Generate MARKDOWN file in PHP., Write data to MARKDOWN file via PHP., PHP MARKDOWN Creater., Aspose.Cells for PHP via Java is a powerful library that enables developers to programmatically create, generate, and manipulate MARKDOWN files in PHP]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

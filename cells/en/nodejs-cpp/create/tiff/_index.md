@@ -1,7 +1,7 @@
 ---
 title: Create TIFF - Create TIFF file in Node.js
-description: Aspose Excel. Node.js Create TIFF File quickly and easily with Aspose.Cells. Generate TIFF file using Node.js. Create TIFF in Node.js. Node.js TIFF Creater. 
-keywords: [Aspose Excel., Node.js Aspose.Cells., Node.js Create TIFF file., Generate TIFF file in Node.js., Create TIFF file using Node.js., Write data to TIFF file via Node.js., Create a TIFF file in Node.js., Node.js Generate a TIFF file., Node.js TIFF Creater]
+description: Aspose Excel. Effortlessly generate and manipulate TIFF files with the Aspose.Cells for Node.js via C++ library. This powerful API provides a streamlined and efficient solution to create, edit, and manage TIFF files directly within your Node.js applications, fulfilling specific developer needs with high precision.
+keywords: [Aspose Excel., Node.js Aspose.Cells., Node.js Create TIFF file., Generate TIFF file in Node.js., Write data to TIFF file via Node.js., Node.js TIFF Creater., Aspose.Cells for Node.js via C++ is a powerful library that enables developers to programmatically create, generate, and manipulate TIFF files in Node.js]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

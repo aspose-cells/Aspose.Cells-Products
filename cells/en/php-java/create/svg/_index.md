@@ -1,7 +1,7 @@
 ---
 title: Create SVG - Create SVG file in PHP
-description: Aspose Excel. PHP Create SVG File quickly and easily with Aspose.Cells. Generate SVG file using PHP. Create SVG in PHP. PHP SVG Creater. 
-keywords: [Aspose Excel., PHP Aspose.Cells., PHP Create SVG file., Generate SVG file in PHP., Create SVG file using PHP., Write data to SVG file via PHP., Create a SVG file in PHP., PHP Generate a SVG file., PHP SVG Creater]
+description: Aspose Excel. Effortlessly generate and manipulate SVG files with the Aspose.Cells for PHP via Java library. This powerful API provides a streamlined and efficient solution to create, edit, and manage SVG files directly within your PHP applications, fulfilling specific developer needs with high precision.
+keywords: [Aspose Excel., PHP Aspose.Cells., PHP Create SVG file., Generate SVG file in PHP., Write data to SVG file via PHP., PHP SVG Creater., Aspose.Cells for PHP via Java is a powerful library that enables developers to programmatically create, generate, and manipulate SVG files in PHP]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

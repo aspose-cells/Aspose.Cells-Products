@@ -1,7 +1,7 @@
 ---
 title: Create SXC - Create SXC file in C++
-description: Aspose Excel. C++ Create SXC File quickly and easily with Aspose.Cells. Generate SXC file using C++. Create SXC in C++. C++ SXC Creater. 
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ Create SXC file., Generate SXC file in C++., Create SXC file using C++., Write data to SXC file via C++., Create a SXC file in C++., C++ Generate a SXC file., C++ SXC Creater]
+description: Aspose Excel. Effortlessly generate and manipulate SXC files with the Aspose.Cells for C++ library. This powerful API provides a streamlined and efficient solution to create, edit, and manage SXC files directly within your C++ applications, fulfilling specific developer needs with high precision.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ Create SXC file., Generate SXC file in C++., Write data to SXC file via C++., C++ SXC Creater., Aspose.Cells for C++ is a powerful library that enables developers to programmatically create, generate, and manipulate SXC files in C++]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -46,6 +46,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 ```cs
 Aspose::Cells::Startup();
+//TIFF format is not supported
 
 // Create an object of the Workbook class.
 Workbook wkb;

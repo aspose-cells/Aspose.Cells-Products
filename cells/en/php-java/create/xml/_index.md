@@ -1,7 +1,7 @@
 ---
 title: Create XML - Create XML file in PHP
-description: Aspose Excel. PHP Create XML File quickly and easily with Aspose.Cells. Generate XML file using PHP. Create XML in PHP. PHP XML Creater. 
-keywords: [Aspose Excel., PHP Aspose.Cells., PHP Create XML file., Generate XML file in PHP., Create XML file using PHP., Write data to XML file via PHP., Create a XML file in PHP., PHP Generate a XML file., PHP XML Creater]
+description: Aspose Excel. Effortlessly generate and manipulate XML files with the Aspose.Cells for PHP via Java library. This powerful API provides a streamlined and efficient solution to create, edit, and manage XML files directly within your PHP applications, fulfilling specific developer needs with high precision.
+keywords: [Aspose Excel., PHP Aspose.Cells., PHP Create XML file., Generate XML file in PHP., Write data to XML file via PHP., PHP XML Creater., Aspose.Cells for PHP via Java is a powerful library that enables developers to programmatically create, generate, and manipulate XML files in PHP]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,7 +1,7 @@
 ---
 title: Create JSON - Create JSON file in Node.js
-description: Aspose Excel. Node.js Create JSON File quickly and easily with Aspose.Cells. Generate JSON file using Node.js. Create JSON in Node.js. Node.js JSON Creater. 
-keywords: [Aspose Excel., Node.js Aspose.Cells., Node.js Create JSON file., Generate JSON file in Node.js., Create JSON file using Node.js., Write data to JSON file via Node.js., Create a JSON file in Node.js., Node.js Generate a JSON file., Node.js JSON Creater]
+description: Aspose Excel. Effortlessly generate and manipulate JSON files with the Aspose.Cells for Node.js via C++ library. This powerful API provides a streamlined and efficient solution to create, edit, and manage JSON files directly within your Node.js applications, fulfilling specific developer needs with high precision.
+keywords: [Aspose Excel., Node.js Aspose.Cells., Node.js Create JSON file., Generate JSON file in Node.js., Write data to JSON file via Node.js., Node.js JSON Creater., Aspose.Cells for Node.js via C++ is a powerful library that enables developers to programmatically create, generate, and manipulate JSON files in Node.js]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

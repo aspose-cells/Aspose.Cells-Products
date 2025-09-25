@@ -1,7 +1,7 @@
 ---
 title: Create MHTML - Create MHTML file in PHP
-description: Aspose Excel. PHP Create MHTML File quickly and easily with Aspose.Cells. Generate MHTML file using PHP. Create MHTML in PHP. PHP MHTML Creater. 
-keywords: [Aspose Excel., PHP Aspose.Cells., PHP Create MHTML file., Generate MHTML file in PHP., Create MHTML file using PHP., Write data to MHTML file via PHP., Create a MHTML file in PHP., PHP Generate a MHTML file., PHP MHTML Creater]
+description: Aspose Excel. Effortlessly generate and manipulate MHTML files with the Aspose.Cells for PHP via Java library. This powerful API provides a streamlined and efficient solution to create, edit, and manage MHTML files directly within your PHP applications, fulfilling specific developer needs with high precision.
+keywords: [Aspose Excel., PHP Aspose.Cells., PHP Create MHTML file., Generate MHTML file in PHP., Write data to MHTML file via PHP., PHP MHTML Creater., Aspose.Cells for PHP via Java is a powerful library that enables developers to programmatically create, generate, and manipulate MHTML files in PHP]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

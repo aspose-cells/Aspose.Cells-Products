@@ -1,7 +1,7 @@
 ---
 title: Create ET - Create ET file in Node.js
-description: Aspose Excel. Node.js Create ET File quickly and easily with Aspose.Cells. Generate ET file using Node.js. Create ET in Node.js. Node.js ET Creater. 
-keywords: [Aspose Excel., Node.js Aspose.Cells., Node.js Create ET file., Generate ET file in Node.js., Create ET file using Node.js., Write data to ET file via Node.js., Create a ET file in Node.js., Node.js Generate a ET file., Node.js ET Creater]
+description: Aspose Excel. Effortlessly generate and manipulate ET files with the Aspose.Cells for Node.js via C++ library. This powerful API provides a streamlined and efficient solution to create, edit, and manage ET files directly within your Node.js applications, fulfilling specific developer needs with high precision.
+keywords: [Aspose Excel., Node.js Aspose.Cells., Node.js Create ET file., Generate ET file in Node.js., Write data to ET file via Node.js., Node.js ET Creater., Aspose.Cells for Node.js via C++ is a powerful library that enables developers to programmatically create, generate, and manipulate ET files in Node.js]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

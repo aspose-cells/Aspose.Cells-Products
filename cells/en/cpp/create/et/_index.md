@@ -1,7 +1,7 @@
 ---
 title: Create ET - Create ET file in C++
-description: Aspose Excel. C++ Create ET File quickly and easily with Aspose.Cells. Generate ET file using C++. Create ET in C++. C++ ET Creater. 
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ Create ET file., Generate ET file in C++., Create ET file using C++., Write data to ET file via C++., Create a ET file in C++., C++ Generate a ET file., C++ ET Creater]
+description: Aspose Excel. Effortlessly generate and manipulate ET files with the Aspose.Cells for C++ library. This powerful API provides a streamlined and efficient solution to create, edit, and manage ET files directly within your C++ applications, fulfilling specific developer needs with high precision.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ Create ET file., Generate ET file in C++., Write data to ET file via C++., C++ ET Creater., Aspose.Cells for C++ is a powerful library that enables developers to programmatically create, generate, and manipulate ET files in C++]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -46,6 +46,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 ```cs
 Aspose::Cells::Startup();
+//TIFF format is not supported
 
 // Create an object of the Workbook class.
 Workbook wkb;

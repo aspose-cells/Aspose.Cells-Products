@@ -1,7 +1,7 @@
 ---
 title: Create BMP - Create BMP file in C++
-description: Aspose Excel. C++ Create BMP File quickly and easily with Aspose.Cells. Generate BMP file using C++. Create BMP in C++. C++ BMP Creater. 
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ Create BMP file., Generate BMP file in C++., Create BMP file using C++., Write data to BMP file via C++., Create a BMP file in C++., C++ Generate a BMP file., C++ BMP Creater]
+description: Aspose Excel. Effortlessly generate and manipulate BMP files with the Aspose.Cells for C++ library. This powerful API provides a streamlined and efficient solution to create, edit, and manage BMP files directly within your C++ applications, fulfilling specific developer needs with high precision.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ Create BMP file., Generate BMP file in C++., Write data to BMP file via C++., C++ BMP Creater., Aspose.Cells for C++ is a powerful library that enables developers to programmatically create, generate, and manipulate BMP files in C++]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -46,6 +46,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 ```cs
 Aspose::Cells::Startup();
+//TIFF format is not supported
 
 // Create an object of the Workbook class.
 Workbook wkb;

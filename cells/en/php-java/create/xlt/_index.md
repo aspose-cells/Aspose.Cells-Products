@@ -1,7 +1,7 @@
 ---
 title: Create XLT - Create XLT file in PHP
-description: Aspose Excel. PHP Create XLT File quickly and easily with Aspose.Cells. Generate XLT file using PHP. Create XLT in PHP. PHP XLT Creater. 
-keywords: [Aspose Excel., PHP Aspose.Cells., PHP Create XLT file., Generate XLT file in PHP., Create XLT file using PHP., Write data to XLT file via PHP., Create a XLT file in PHP., PHP Generate a XLT file., PHP XLT Creater]
+description: Aspose Excel. Effortlessly generate and manipulate XLT files with the Aspose.Cells for PHP via Java library. This powerful API provides a streamlined and efficient solution to create, edit, and manage XLT files directly within your PHP applications, fulfilling specific developer needs with high precision.
+keywords: [Aspose Excel., PHP Aspose.Cells., PHP Create XLT file., Generate XLT file in PHP., Write data to XLT file via PHP., PHP XLT Creater., Aspose.Cells for PHP via Java is a powerful library that enables developers to programmatically create, generate, and manipulate XLT files in PHP]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

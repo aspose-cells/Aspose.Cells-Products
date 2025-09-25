@@ -1,7 +1,7 @@
 ---
 title: Create NUMBERS - Create NUMBERS file in PHP
-description: Aspose Excel. PHP Create NUMBERS File quickly and easily with Aspose.Cells. Generate NUMBERS file using PHP. Create NUMBERS in PHP. PHP NUMBERS Creater. 
-keywords: [Aspose Excel., PHP Aspose.Cells., PHP Create NUMBERS file., Generate NUMBERS file in PHP., Create NUMBERS file using PHP., Write data to NUMBERS file via PHP., Create a NUMBERS file in PHP., PHP Generate a NUMBERS file., PHP NUMBERS Creater]
+description: Aspose Excel. Effortlessly generate and manipulate NUMBERS files with the Aspose.Cells for PHP via Java library. This powerful API provides a streamlined and efficient solution to create, edit, and manage NUMBERS files directly within your PHP applications, fulfilling specific developer needs with high precision.
+keywords: [Aspose Excel., PHP Aspose.Cells., PHP Create NUMBERS file., Generate NUMBERS file in PHP., Write data to NUMBERS file via PHP., PHP NUMBERS Creater., Aspose.Cells for PHP via Java is a powerful library that enables developers to programmatically create, generate, and manipulate NUMBERS files in PHP]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

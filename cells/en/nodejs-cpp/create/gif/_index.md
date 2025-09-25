@@ -1,7 +1,7 @@
 ---
 title: Create GIF - Create GIF file in Node.js
-description: Aspose Excel. Node.js Create GIF File quickly and easily with Aspose.Cells. Generate GIF file using Node.js. Create GIF in Node.js. Node.js GIF Creater. 
-keywords: [Aspose Excel., Node.js Aspose.Cells., Node.js Create GIF file., Generate GIF file in Node.js., Create GIF file using Node.js., Write data to GIF file via Node.js., Create a GIF file in Node.js., Node.js Generate a GIF file., Node.js GIF Creater]
+description: Aspose Excel. Effortlessly generate and manipulate GIF files with the Aspose.Cells for Node.js via C++ library. This powerful API provides a streamlined and efficient solution to create, edit, and manage GIF files directly within your Node.js applications, fulfilling specific developer needs with high precision.
+keywords: [Aspose Excel., Node.js Aspose.Cells., Node.js Create GIF file., Generate GIF file in Node.js., Write data to GIF file via Node.js., Node.js GIF Creater., Aspose.Cells for Node.js via C++ is a powerful library that enables developers to programmatically create, generate, and manipulate GIF files in Node.js]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

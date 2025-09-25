@@ -1,7 +1,7 @@
 ---
 title: Create XLT - Create XLT file in C#
-description: Aspose Excel. C# Create XLT File quickly and easily with Aspose.Cells. Generate XLT file using C#. Create XLT in C#. C# XLT Creater. 
-keywords: [Aspose Excel., C# Aspose.Cells., C# Create XLT file., Generate XLT file in C#., Create XLT file using C#., Write data to XLT file via C#., Create a XLT file in C#., C# Generate a XLT file., C# XLT Creater]
+description: Aspose Excel. Effortlessly generate and manipulate XLT files with the Aspose.Cells for .NET library. This powerful API provides a streamlined and efficient solution to create, edit, and manage XLT files directly within your C# applications, fulfilling specific developer needs with high precision.
+keywords: [Aspose Excel., C# Aspose.Cells., C# Create XLT file., Generate XLT file in C#., Write data to XLT file via C#., C# XLT Creater., Aspose.Cells for .NET is a powerful library that enables developers to programmatically create, generate, and manipulate XLT files in C#]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

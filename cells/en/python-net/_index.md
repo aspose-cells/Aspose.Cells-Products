@@ -1,9 +1,9 @@
 ---
-title: Python Excel Spreadsheet API - Aspose 
+title: Python Excel Spreadsheet API - Aspose.Cells for Python via .NET
 weight: 2800
 
-description: Python library to create, repair, merge, parse and convert excel files. Convert excel to PDF, JSON, HTML, TXT and other popular formats.
-keywords: [Python Aspose.Cells Create repair merge convert JSON Excel XML PDF HTML TSV SQL ODS CSV TSV PNG JPEG and more formats]
+description: Aspose.Cells for Python via .NET library to create, repair, merge, parse and convert excel files. This powerful API provides a streamlined and efficient solution to create, repair, merge, parse and convert excel files, fulfilling specific developer needs with high precision.
+keywords: [Aspose.Cells for Python via .NET Create repair merge convert JSON Excel XML PDF HTML TSV SQL ODS CSV TSV PNG JPEG and more formats]
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}

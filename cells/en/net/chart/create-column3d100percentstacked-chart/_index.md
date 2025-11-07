@@ -53,77 +53,8 @@ Aspose.Cells for .NET works on any platform that supports .NET Framework, .NET C
 
 {{% blocks/products/pf/agp/code-block title="Create Column3D100PercentStacked Chart – C#" offSpacer="" %}}
 
-```csharp
-using System;
-using Aspose.Cells;
-using Aspose.Cells.Charts;
+{{< gist "aspose-cells-gists" "59a1901d62ea9ceb08456a818431a898" "Landingpages-LLM-create-Column3D100PercentStackedChart.cs" >}}
 
-namespace AsposeCellsChartExample
-{
-    class Program
-    {
-        static void Main()
-        {
-            // 1. Create a new workbook.
-            Workbook workbook = new Workbook();
-
-            // 2. Access the first worksheet.
-            Worksheet sheet = workbook.Worksheets[0];
-
-            // 3. Fill the worksheet with sample data.
-            //    Data layout:
-            //    |   A   |   B   |   C   |   D   |
-            //    |-------|-------|-------|-------|
-            //    |       | 2019  | 2020  | 2021  |
-            //    | Apple |  30   |  35   |  40   |
-            //    | Orange|  20   |  25   |  30   |
-            //    | Banana|  10   |  15   |  20   |
-            sheet.Cells["A1"].Value = "";
-            sheet.Cells["B1"].Value = "2019";
-            sheet.Cells["C1"].Value = "2020";
-            sheet.Cells["D1"].Value = "2021";
-
-            sheet.Cells["A2"].Value = "Apple";
-            sheet.Cells["A3"].Value = "Orange";
-            sheet.Cells["A4"].Value = "Banana";
-
-            sheet.Cells["B2"].Value = 30;
-            sheet.Cells["C2"].Value = 35;
-            sheet.Cells["D2"].Value = 40;
-
-            sheet.Cells["B3"].Value = 20;
-            sheet.Cells["C3"].Value = 25;
-            sheet.Cells["D3"].Value = 30;
-
-            sheet.Cells["B4"].Value = 10;
-            sheet.Cells["C4"].Value = 15;
-            sheet.Cells["D4"].Value = 20;
-
-            // 4. Add a chart of type Column3D100PercentStacked.
-            int chartIndex = sheet.Charts.Add(ChartType.Column3D100PercentStacked);
-            Chart chart = sheet.Charts[chartIndex];
-
-            // 5. Set the chart's placement (upper left cell, lower right cell).
-            chart.Position = 5; // Row index (0‑based). Starts at row 6.
-            chart.Nrows = 20;   // Height in rows.
-            chart.Ncols = 8;    // Width in columns.
-
-            // 6. Add a data series. The range includes headers for categories and series.
-            chart.NSeries.Add("=Sheet1!$B$2:$D$4", true);
-            // The second argument (true) indicates that the first row contains series names
-            // and the first column contains category names.
-
-            // 7. Optional: set chart title and legend.
-            chart.Title.Text = "Sales Distribution (100% Stacked Column 3D)";
-            chart.Title.Font.Size = 12;
-            chart.Legend.Position = LegendPositionType.Right;
-
-            // 8. Save the workbook.
-            workbook.Save("Column3D100PercentStackedChart.xlsx");
-        }
-    }
-}
-```
 
 {{% /blocks/products/pf/agp/code-block %}}
 
@@ -146,15 +77,6 @@ XLSX is the Open XML format introduced with Microsoft Office 2007. It is a ZIP p
 
 {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->
-
-{{< blocks/products/pf/agp/other-supported-section title="Other Supported Chart Types" subTitle="Aspose.Cells can also create many additional chart types, including but not limited to:" >}}
-
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/chart/create-pie-chart/" name="Pie Chart" description="2‑D pie chart" >}} 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/chart/create-pie3d-chart/" name="Pie 3D Chart" description="3‑D Pie chart" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/chart/create-column-chart/" name="Column Chart" description="2‑D column chart" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/chart/create-stacked-column-chart/" name="Stacked Column Chart" description="2‑D stacked column" >}}
-
-{{< /blocks/products/pf/agp/other-supported-section >}}
 
 {{< /blocks/products/pf/main-container >}}
     

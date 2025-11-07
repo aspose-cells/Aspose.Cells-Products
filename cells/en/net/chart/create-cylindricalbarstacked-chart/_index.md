@@ -60,70 +60,8 @@ Any platform that supports **.NET Framework 4.0+**, **.NET Core 2.0+**, **.NET 5
 
 {{% blocks/products/pf/agp/code-block title="Create Cylindrical Bar Stacked Chart - C#" offSpacer="" %}}
 
-```csharp
-using System;
-using Aspose.Cells;
-using Aspose.Cells.Charts;
+{{< gist "aspose-cells-gists" "59a1901d62ea9ceb08456a818431a898" "Landingpages-LLM-create-CylindricalBarStackedChart.cs" >}}
 
-namespace CreateCylindricalBarStackedChart
-{
-    class Program
-    {
-        static void Main()
-        {
-            // 1. Create a new workbook.
-            Workbook workbook = new Workbook();
-
-            // 2. Access the first worksheet.
-            Worksheet sheet = workbook.Worksheets[0];
-            Cells cells = sheet.Cells;
-
-            // 3. Fill the worksheet with sample data.
-            // Header row
-            cells["A1"].Value = "Quarter";
-            cells["B1"].Value = "Product A";
-            cells["C1"].Value = "Product B";
-            cells["D1"].Value = "Product C";
-
-            // Data rows
-            string[] quarters = { "Q1", "Q2", "Q3", "Q4" };
-            double[,] sales = {
-                { 12000, 15000, 13000 },
-                { 14000, 16000, 12000 },
-                { 13000, 17000, 14000 },
-                { 15000, 18000, 16000 }
-            };
-
-            for (int i = 0; i < quarters.Length; i++)
-            {
-                cells[i + 1, 0].Value = quarters[i];               // Column A – Quarter
-                cells[i + 1, 1].Value = sales[i, 0];               // Column B – Product A
-                cells[i + 1, 2].Value = sales[i, 1];               // Column C – Product B
-                cells[i + 1, 3].Value = sales[i, 2];               // Column D – Product C
-            }
-
-            // 4. Add a new chart to the worksheet.
-            int chartIndex = sheet.Charts.Add(ChartType.CylindricalBarStacked, 6, 0, 20, 10);
-            Chart chart = sheet.Charts[chartIndex];
-
-            // 5. Set the data source for the chart.
-            // The range includes the header row (A1:D5).
-            chart.NSeries.Add("=Sheet1!$B$2:$D$5", true);
-            // Use the first column (A2:A5) as the category (X) axis.
-            chart.NSeries.CategoryData = "=Sheet1!$A$2:$A$5";
-
-            // 6. Optional: Apply a built‑in chart style.
-            chart.Style = 13; // Choose any built‑in style index (1‑48)
-
-            // 7. Set a title for the chart.
-            chart.Title.Text = "Quarterly Sales – Cylindrical Bar Stacked";
-
-            // 8. Save the workbook in XLSX format.
-            workbook.Save("CylindricalBarStackedChart.xlsx");
-        }
-    }
-}
-```
 
 {{% /blocks/products/pf/agp/code-block %}}
 
@@ -147,14 +85,6 @@ XLSX is the default file format for Microsoft Excel workbooks introduced with Of
 {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="Other Supported Chart Formats" subTitle="Aspose.Cells can generate the Cylindrical Bar Stacked chart in many Excel file types." >}}
-
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/chart/insert-cylindrical-bar-stacked-to-xls/" name="XLS" description="Microsoft Excel Spreadsheet (Legacy)" >}} 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/chart/insert-cylindrical-bar-stacked-to-xlsx/" name="XLSX" description="Open XML Workbook" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/chart/insert-cylindrical-bar-stacked-to-xlsb/" name="XLSB" description="Excel Binary Workbook" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/chart/insert-cylindrical-bar-stacked-to-xlsm/" name="XLSM" description="Macro‑enabled Spreadsheet" >}} 
-
-{{< /blocks/products/pf/agp/other-supported-section >}}
 
 {{< /blocks/products/pf/main-container >}}
     

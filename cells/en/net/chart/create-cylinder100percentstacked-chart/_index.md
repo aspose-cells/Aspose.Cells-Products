@@ -52,66 +52,7 @@ Supported on any OS that runs .NET Framework, .NET Core, .NET 5/6/7, Windo
 
 {{% blocks/products/pf/agp/code-block title="Create Cylinder 100 % Stacked Chart - C#" offSpacer="" %}}
 
-```csharp
-using System;
-using Aspose.Cells;
-using Aspose.Cells.Charts;
-
-namespace AsposeCellsExamples
-{
-    class CreateCylinder100PercentStackedChart
-    {
-        static void Main()
-        {
-            // 1. Create a new workbook and get the first worksheet
-            Workbook workbook = new Workbook();
-            Worksheet sheet = workbook.Worksheets[0];
-
-            // 2. Populate sample data (three series for demonstration)
-            //    A1:C1 – Header row
-            //    A2:A5 – Categories (e.g., Q1‑Q4)
-            //    B2:B5, C2:C5 – Values for two series
-            sheet.Cells["A1"].Value = "Quarter";
-            sheet.Cells["B1"].Value = "Product A";
-            sheet.Cells["C1"].Value = "Product B";
-
-            string[] quarters = { "Q1", "Q2", "Q3", "Q4" };
-            double[] productA = { 120, 150, 180, 200 };
-            double[] productB = { 80, 110, 140, 160 };
-
-            for (int i = 0; i < quarters.Length; i++)
-            {
-                sheet.Cells[i + 1, 0].Value = quarters[i];   // Column A – Category
-                sheet.Cells[i + 1, 1].Value = productA[i];   // Column B – Series 1
-                sheet.Cells[i + 1, 2].Value = productB[i];   // Column C – Series 2
-            }
-
-            // 3. Add a chart to the worksheet (positioned at D2:F16)
-            int chartIndex = sheet.Charts.Add(ChartType.Cylinder100PercentStackedColumn, 1, 3, 15, 9);
-            Chart chart = sheet.Charts[chartIndex];
-
-            // 4. Set chart title
-            chart.Title.Text = "Quarterly Sales – 100 % Stacked Cylinder Chart";
-
-            // 5. Add series: first series uses column B, second series uses column C
-            //    Category (X) axis values are taken from column A (the quarters)
-            chart.NSeries.Add("=Sheet1!$B$2:$B$5", true);
-            chart.NSeries.Add("=Sheet1!$C$2:$C$5", true);
-            chart.NSeries.CategoryData = "=Sheet1!$A$2:$A$5";
-
-            // 6. Optional: Apply a built‑in chart style for better visual appearance
-            chart.ChartArea.AreaStyle = 2; // Medium style
-            chart.PlotArea.ShowDataTable = false;
-
-            // 7. Refresh the chart to calculate percentages automatically
-            chart.Refresh();
-
-            // 8. Save the workbook
-            workbook.Save("Cylinder100PercentStackedChart.xlsx");
-        }
-    }
-}
-```
+{{< gist "aspose-cells-gists" "59a1901d62ea9ceb08456a818431a898" "Landingpages-LLM-create-Cylinder100PercentStackedChart.cs" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 
@@ -135,14 +76,6 @@ XLSX is the default file format for Microsoft Excel workbooks introduced with Of
 {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="Other Supported Chart Types" subTitle="Aspose.Cells can create many additional Excel chart types, including but not limited to:" >}}
-
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/chart/column-chart/" name="Column Chart" description="Standard column chart." >}} 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/chart/pie-chart/" name="Pie Chart" description="2‑D and 3‑D pie charts." >}} 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/chart/line-chart/" name="Line Chart" description="Line and stacked line charts." >}} 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/chart/bar-chart/" name="Bar Chart" description="Bar, stacked bar, and 100 % stacked bar charts." >}} 
-
-{{< /blocks/products/pf/agp/other-supported-section >}}
 
 {{< /blocks/products/pf/main-container >}}
 

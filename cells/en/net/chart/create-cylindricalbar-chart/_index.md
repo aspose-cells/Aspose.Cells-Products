@@ -52,59 +52,8 @@ The solution works on any operating system that supports **.NET Framework 4.6.1+
 
 {{% blocks/products/pf/agp/code-block title="Create CylindricalBar Chart in XLSX - C#" offSpacer="" %}}
 
-```csharp
-using System;
-using Aspose.Cells;
-using Aspose.Cells.Charts;
+{{< gist "aspose-cells-gists" "59a1901d62ea9ceb08456a818431a898" "Landingpages-LLM-create-CylindricalBarChart.cs" >}}
 
-namespace AsposeCellsExamples
-{
-    class CreateCylindricalBarChart
-    {
-        static void Main()
-        {
-            // 1. Instantiate a new Workbook.
-            Workbook workbook = new Workbook();
-
-            // 2. Access the first worksheet.
-            Worksheet sheet = workbook.Worksheets[0];
-
-            // 3. Populate sample data that will be used by the chart.
-            //    Column A – Category, Column B – Value.
-            sheet.Cells["A1"].PutValue("Category");
-            sheet.Cells["B1"].PutValue("Value");
-            sheet.Cells["A2"].PutValue("North");
-            sheet.Cells["B2"].PutValue(120);
-            sheet.Cells["A3"].PutValue("South");
-            sheet.Cells["B3"].PutValue(150);
-            sheet.Cells["A4"].PutValue("East");
-            sheet.Cells["B4"].PutValue(180);
-            sheet.Cells["A5"].PutValue("West");
-            sheet.Cells["B5"].PutValue(90);
-
-            // 4. Add a chart to the worksheet. The chart will be placed in cells D2 to K15.
-            int chartIndex = sheet.Charts.Add(ChartType.CylindricalBar, 1, 3, 14, 10);
-            Chart chart = sheet.Charts[chartIndex];
-
-            // 5. Set the data source of the chart.
-            //    Series: Values from B2:B5, Categories from A2:A5.
-            chart.NSeries.Add("=Sheet1!$B$2:$B$5", true);
-            chart.NSeries.CategoryData = "=Sheet1!$A$2:$A$5";
-
-            // 6. Optional: Apply a built‑in chart style.
-            chart.Style = 2; // Style index 2 corresponds to a light style.
-
-            // 7. Set the chart title.
-            chart.Title.Text = "Sales by Region";
-
-            // 8. Save the workbook as an XLSX file.
-            workbook.Save("CylindricalBarChart.xlsx");
-
-            Console.WriteLine("CylindricalBar chart created successfully.");
-        }
-    }
-}
-```
 
 {{% /blocks/products/pf/agp/code-block %}}
 
@@ -128,15 +77,6 @@ XLSX is the Open XML format introduced with Microsoft Office 2007. It stores spr
 {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="Other Supported Chart Types" subTitle="Aspose.Cells can create many additional Excel chart types, including but not limited to:" >}}
-
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/chart/column/" name="Column" description="Standard column chart" >}} 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/chart/bar/" name="Bar" description="Standard bar chart" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/chart/pie/" name="Pie" description="Pie chart" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/chart/scatter/" name="Scatter" description="Scatter chart" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/chart/area/" name="Area" description="Area chart" >}}
-
-{{< /blocks/products/pf/agp/other-supported-section >}}
 
 {{< /blocks/products/pf/main-container >}}
     

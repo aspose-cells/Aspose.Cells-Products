@@ -50,85 +50,9 @@ Aspose.Cells for .NET works on any platform that supports **.NET Framework 4.0+*
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="Create Bar3DClustered Chart - C#" offSpacer="" %}}
-```csharp
-using System;
-using Aspose.Cells;
-using Aspose.Cells.Charts;
 
-namespace AsposeCellsExamples
-{
-    class CreateBar3DClusteredChart
-    {
-        static void Main()
-        {
-            // ------------------------------------------------------------
-            // 1. Create a new workbook and get the first worksheet.
-            // ------------------------------------------------------------
-            Workbook workbook = new Workbook();
-            Worksheet sheet = workbook.Worksheets[0];
+{{< gist "aspose-cells-gists" "59a1901d62ea9ceb08456a818431a898" "Landingpages-LLM-create-Bar3DClusteredChart.cs" >}}
 
-            // ------------------------------------------------------------
-            // 2. Populate the worksheet with sample data.
-            // ------------------------------------------------------------
-            // Header row
-            sheet.Cells["A1"].Value = "Category";
-            sheet.Cells["B1"].Value = "2019";
-            sheet.Cells["C1"].Value = "2020";
-            sheet.Cells["D1"].Value = "2021";
-
-            // Data rows
-            string[] categories = { "Q1", "Q2", "Q3", "Q4" };
-            int[,] values = {
-                { 120, 150, 130 },
-                { 100, 140, 110 },
-                {  90, 130, 115 },
-                {  80, 120, 105 }
-            };
-
-            for (int i = 0; i < categories.Length; i++)
-            {
-                // Category names in column A
-                sheet.Cells[i + 1, 0].Value = categories[i];
-
-                // Yearly values in columns B‑D
-                for (int j = 0; j < 3; j++)
-                {
-                    sheet.Cells[i + 1, j + 1].Value = values[i, j];
-                }
-            }
-
-            // ------------------------------------------------------------
-            // 3. Add a Bar3DClustered chart to the worksheet.
-            // ------------------------------------------------------------
-            // The chart will be placed at cells F2 to N20.
-            int chartIndex = sheet.Charts.Add(ChartType.Bar3DClustered, 1, 5, 19, 13);
-            Chart chart = sheet.Charts[chartIndex];
-
-            // ------------------------------------------------------------
-            // 4. Set the data source for the chart.
-            // ------------------------------------------------------------
-            // Use the range A1:D5 (including headers) as the source.
-            // The first column (Category) will be used as category (X) axis.
-            // The remaining columns (2019‑2021) become separate series.
-            chart.NSeries.Add("=Sheet1!$B$2:$D$5", true);
-            chart.NSeries.CategoryData = "=Sheet1!$A$2:$A$5";
-
-            // ------------------------------------------------------------
-            // 5. Customize chart appearance (optional).
-            // ------------------------------------------------------------
-            chart.Title.Text = "Quarterly Sales (3‑Year Comparison)";   // Chart title
-            chart.Legend.Position = LegendPositionType.Right;         // Legend location
-            chart.PlotArea.ShowBorder = true;                         // Show border around plot area
-            chart.PlotArea.Border.Color = System.Drawing.Color.Gray; // Border color
-
-            // ------------------------------------------------------------
-            // 6. Save the workbook as an XLSX file.
-            // ------------------------------------------------------------
-            workbook.Save("Bar3DClusteredChart.xlsx");
-        }
-    }
-}
-```
 {{% /blocks/products/pf/agp/code-block %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
@@ -151,15 +75,6 @@ XLSX is the modern Open XML format for Microsoft Excel workbooks introduced with
 {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="Other Supported Chart Types" subTitle="Aspose.Cells can create many other Excel chart types besides Bar3DClustered." >}}
-
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/chart/insert-pie-chart/" name="Pie" description="2‑D Pie Chart" >}} 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/chart/insert-line-chart/" name="Line" description="2‑D Line Chart" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/chart/insert-area-chart/" name="Area" description="2‑D Area Chart" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/chart/insert-scatter-chart/" name="Scatter" description="X‑Y Scatter Chart" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/chart/insert-doughnut-chart/" name="Doughnut" description="2‑D Doughnut Chart" >}}
-
-{{< /blocks/products/pf/agp/other-supported-section >}}
 
 {{< /blocks/products/pf/main-container >}}
 

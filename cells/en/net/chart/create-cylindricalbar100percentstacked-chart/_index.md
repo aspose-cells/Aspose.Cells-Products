@@ -49,75 +49,8 @@ The API works on any platform that supports **.NET Framework 4.0+**, **.NET Core
 
 {{% blocks/products/pf/agp/code-block title="CylindricalBar100PercentStacked chart – C#" offSpacer="" %}}
 
-```csharp
-using System;
-using Aspose.Cells;
-using Aspose.Cells.Charts;
+{{< gist "aspose-cells-gists" "59a1901d62ea9ceb08456a818431a898" "Landingpages-LLM-create-CylindricalBar100PercentStackedChart.cs" >}}
 
-namespace AsposeCellsChartDemo
-{
-    class Program
-    {
-        static void Main()
-        {
-            // 1. Create a new workbook and get the first worksheet
-            Workbook workbook = new Workbook();
-            Worksheet sheet = workbook.Worksheets[0];
-
-            // 2. Add sample data for the chart
-            //    Columns: Category | Series 1 | Series 2 | Series 3
-            string[,] data = new string[,]
-            {
-                { "Category", "Series 1", "Series 2", "Series 3" },
-                { "Q1",       "30",       "20",       "50" },
-                { "Q2",       "40",       "25",       "35" },
-                { "Q3",       "35",       "30",       "35" },
-                { "Q4",       "50",       "20",       "30" }
-            };
-
-            // Populate cells with the above matrix
-            for (int row = 0; row < data.GetLength(0); row++)
-            {
-                for (int col = 0; col < data.GetLength(1); col++)
-                {
-                    sheet.Cells[row, col].PutValue(data[row, col]);
-                }
-            }
-
-            // 3. Add a Cylindrical Bar 100% Stacked chart
-            int chartIndex = sheet.Charts.Add(ChartType.CylindricalBar100PercentStacked);
-            Chart chart = sheet.Charts[chartIndex];
-
-            // Set the position of the chart on the sheet (row, column, row offset, column offset)
-            chart.Left = 5 * 256;   // 5 columns from the left
-            chart.Top = 7 * 15;     // 7 rows from the top
-            chart.Width = 500;
-            chart.Height = 400;
-
-            // 4. Set chart data source – the entire data range including headings
-            chart.SetChartDataRange("A1:D5");
-
-            // 5. Customize chart title and axis titles
-            chart.Title.Text = "Quarterly Sales – 100% Stacked Cylindrical Bar";
-            chart.Title.Font.Color = System.Drawing.Color.DarkBlue;
-            chart.Title.Font.Size = 12;
-
-            // Category (X) axis – display the categories (Q1‑Q4)
-            chart.CategoryAxis.Title.Text = "Quarter";
-            // Value (Y) axis – represents percentage (0‑100)
-            chart.ValueAxis.Title.Text = "Percentage";
-
-            // 6. Apply a built‑in style to make the chart visually appealing
-            chart.Style = ChartStyleType.ChartStyleMedium4;
-
-            // 7. Save the workbook
-            workbook.Save("CylindricalBar100PercentStackedChart.xlsx", SaveFormat.Xlsx);
-
-            Console.WriteLine("Chart created successfully.");
-        }
-    }
-}
-```
 
 {{% /blocks/products/pf/agp/code-block %}}
 
@@ -141,13 +74,6 @@ XLSX is the default file format for Microsoft Excel workbooks introduced with Of
 
 {{< blocks/products/pf/agp/other-supported-section title="Other Supported Chart Types" subTitle="Aspose.Cells can generate many additional chart types beyond the CylindricalBar100PercentStacked chart." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/chart/create-column-chart/" name="Column" description="Standard column chart" >}} 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/chart/create-pie-chart/" name="Pie" description="2‑D pie chart" >}} 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/chart/create-pyramid-bar-chart/" name="PyramidBar" description="Pyramid‑shaped bar chart" >}} 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/chart/create-radar-chart/" name="Radar" description="Radar (spider) chart" >}} 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/chart/create-surface-chart/" name="Surface" description="3‑D surface chart" >}} 
-
-{{< /blocks/products/pf/agp/other-supported-section >}}
 
 {{< /blocks/products/pf/main-container >}}
     

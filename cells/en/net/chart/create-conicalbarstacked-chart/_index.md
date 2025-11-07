@@ -51,82 +51,7 @@ Aspose.Cells for .NET works on any platform that supports **.NET Framework 4.0+*
 
 {{% blocks/products/pf/agp/code-block title="Create ConicalBarStacked Chart – C#" offSpacer="" %}}
 
-```csharp
-using System;
-using Aspose.Cells;
-using Aspose.Cells.Charts;
-
-namespace ConicalBarStackedChartDemo
-{
-    class Program
-    {
-        static void Main()
-        {
-            // 1. Create a new workbook.
-            Workbook workbook = new Workbook();
-
-            // 2. Access the first worksheet.
-            Worksheet sheet = workbook.Worksheets[0];
-            Cells cells = sheet.Cells;
-
-            // 3. Populate worksheet with sample data (categories + two series).
-            //    The data layout follows the format required by the chart.
-            //    A1 – D1 are headers, A2:A5 are categories.
-            cells["A1"].Value = "Quarter";
-            cells["B1"].Value = "Product A";
-            cells["C1"].Value = "Product B";
-            cells["D1"].Value = "Product C";
-
-            string[] quarters = { "Q1", "Q2", "Q3", "Q4" };
-            double[] productA = { 120, 150, 180, 200 };
-            double[] productB = { 80,  100, 130, 160 };
-            double[] productC = { 60,  90,  110, 140 };
-
-            for (int i = 0; i < quarters.Length; i++)
-            {
-                cells[i + 1, 0].Value = quarters[i];      // Column A – Category
-                cells[i + 1, 1].Value = productA[i];      // Column B – Series 1
-                cells[i + 1, 2].Value = productB[i];      // Column C – Series 2
-                cells[i + 1, 3].Value = productC[i];      // Column D – Series 3
-            }
-
-            // 4. Add a ConicalBarStacked chart.
-            int chartIndex = sheet.Charts.Add(ChartType.ConicalBarStacked);
-            Chart chart = sheet.Charts[chartIndex];
-
-            // Position the chart on the sheet.
-            chart.Left = 350;   // Pixels from left
-            chart.Top = 20;     // Pixels from top
-            chart.Width = 500;  // Chart width
-            chart.Height = 350; // Chart height
-
-            // Set the data range for the chart.
-            //   "=Sheet1!$A$1:$D$5"  -> includes headers and data.
-            chart.NSeries.Add("=Sheet1!$B$2:$D$5", true);
-
-            // Assign category (X) axis labels.
-            chart.NSeries.CategoryData = "=Sheet1!$A$2:$A$5";
-
-            // 5. Customize chart appearance.
-            chart.Title.Text = "Quarterly Sales – Stacked Conical Bar";
-            chart.Title.Font.IsBold = true;
-            chart.Title.Font.Size = 14;
-
-            // Set axis titles.
-            chart.CategoryAxis.Title.Text = "Quarter";
-            chart.ValueAxis.Title.Text = "Units Sold";
-
-            // Optional: format data series colors.
-            chart.NSeries[0].Area.ForegroundColor = System.Drawing.Color.FromArgb(0, 112, 192); // Product A
-            chart.NSeries[1].Area.ForegroundColor = System.Drawing.Color.FromArgb(0, 176, 80);  // Product B
-            chart.NSeries[2].Area.ForegroundColor = System.Drawing.Color.FromArgb(255, 192, 0); // Product C
-
-            // 6. Save the workbook.
-            workbook.Save("ConicalBarStackedChart.xlsx");
-        }
-    }
-}
-```
+{{< gist "aspose-cells-gists" "59a1901d62ea9ceb08456a818431a898" "Landingpages-LLM-create-ConicalBarStackedChart.cs" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 
@@ -147,15 +72,6 @@ XLSX is the modern Microsoft Excel file format introduced with Office 2007. It f
 {{< /blocks/products/pf/agp/about-file-text >}}
 
 {{< /blocks/products/pf/agp/about-file-section >}}
-
-{{< blocks/products/pf/agp/other-supported-section title="Other Supported Chart Types" subTitle="Aspose.Cells can create a wide variety of Excel chart types. Below are a few commonly used ones." >}}
-
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/chart/insert-clusteredcolumnchart/" name="Clustered Column" description="Standard column chart with side‑by‑side columns." >}} 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/chart/insert-piechart/" name="Pie Chart" description="Circular chart showing proportion of categories." >}} 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/chart/insert-linechart/" name="Line Chart" description="Trend lines drawn over a set of data points." >}} 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/chart/insert-bubblechart/" name="Bubble Chart" description="Scatter chart with a third dimension represented by bubble size." >}} 
-
-{{< /blocks/products/pf/agp/other-supported-section >}}
 
 {{< /blocks/products/pf/main-container >}}
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -58,83 +58,7 @@ Supported on any operating system that can run **.NET Framework 4.0+**, **.NET C
 
 {{% blocks/products/pf/agp/code-block title="Create ConicalBar Chart in XLSX - C#" offSpacer="" %}}
 
-```csharp
-using System;
-using Aspose.Cells;
-using Aspose.Cells.Charts;
-
-namespace ConicalBarChartExample
-{
-    class Program
-    {
-        static void Main()
-        {
-            // 1. Create a new workbook.
-            Workbook workbook = new Workbook();
-
-            // 2. Access the first worksheet.
-            Worksheet sheet = workbook.Worksheets[0];
-            Cells cells = sheet.Cells;
-
-            // -----------------------------------------------------------------
-            // 3. Populate sample data.
-            // -----------------------------------------------------------------
-            // Header row
-            cells[0, 0].Value = "Category";
-            cells[0, 1].Value = "2019";
-            cells[0, 2].Value = "2020";
-            cells[0, 3].Value = "2021";
-
-            // Data rows
-            string[] categories = { "A", "B", "C", "D", "E" };
-            double[,] values = {
-                { 120, 140, 160 },
-                { 150, 130, 170 },
-                { 190, 180, 200 },
-                { 80,  90,  100 },
-                { 130, 120, 110 }
-            };
-
-            for (int i = 0; i < categories.Length; i++)
-            {
-                cells[i + 1, 0].Value = categories[i];
-                cells[i + 1, 1].Value = values[i, 0];
-                cells[i + 1, 2].Value = values[i, 1];
-                cells[i + 1, 3].Value = values[i, 2];
-            }
-
-            // -----------------------------------------------------------------
-            // 4. Add a chart to the worksheet.
-            // -----------------------------------------------------------------
-            int chartIndex = sheet.Charts.Add(ChartType.ConicalBar, 7, 0, 25, 10);
-            Chart chart = sheet.Charts[chartIndex];
-
-            // 5. Set chart title.
-            chart.Title.Text = "Sales Funnel (Conical Bar)";
-
-            // 6. Add series – each column after the first becomes a series.
-            //    The first column (Category) is used for the X‑axis labels.
-            for (int col = 1; col <= 3; col++)
-            {
-                int seriesIndex = chart.NSeries.Add($"=Sheet1!$B${1 + col}:$B${categories.Length + 1}", 
-                                                     $"=Sheet1!$A${2}:$A${categories.Length + 1}");
-                // Assign a name to the series (taken from the header row).
-                chart.NSeries[seriesIndex].Name = $"=Sheet1!${(char)('A' + col)}$1";
-            }
-
-            // 7. Format axes (optional but improves readability).
-            chart.ValueAxis.Title.Text = "Revenue (k USD)";
-            chart.CategoryAxis.Title.Text = "Product Category";
-
-            // 8. Set the ConicalBar chart's style (optional).
-            chart.Style = 3; // Predefined built‑in style index.
-
-            // 9. Save the workbook.
-            workbook.Save("ConicalBarChart.xlsx");
-        }
-    }
-}
-```
+{{< gist "aspose-cells-gists" "59a1901d62ea9ceb08456a818431a898" "Landingpages-LLM-create-ConicalBarChart.cs" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 
@@ -158,14 +82,6 @@ XLSX is the modern Microsoft Excel file format introduced with Office 2007. It 
 {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="Other Supported Chart Types" subTitle="Aspose.Cells can create many additional chart types besides ConicalBar." >}}
-
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/chart/add-pie-chart/" name="Pie Chart" description="Standard pie chart for proportionate data." >}} 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/chart/add-line-chart/" name="Line Chart" description="Series‑based line chart." >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/chart/add-bar-chart/" name="Bar Chart" description="Standard vertical bar chart." >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/chart/add-scatter-chart/" name="Scatter Chart" description="XY‑scatter visualisation." >}}
-
-{{< /blocks/products/pf/agp/other-supported-section >}}
 
 {{< /blocks/products/pf/main-container >}}
 

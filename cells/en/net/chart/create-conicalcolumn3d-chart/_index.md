@@ -50,62 +50,9 @@ The library runs on any platform that supports **.NET Framework**, **.NET Core /
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="Create ConicalColumn3D Chart - C#" offSpacer="" %}}
-```csharp
-using System;
-using Aspose.Cells;
-using Aspose.Cells.Drawing;
 
-namespace ConicalColumn3DChartDemo
-{
-    class Program
-    {
-        static void Main()
-        {
-            // 1. Create a new workbook
-            Workbook workbook = new Workbook();
+{{< gist "aspose-cells-gists" "59a1901d62ea9ceb08456a818431a898" "Landingpages-LLM-create-ConicalColumn3DChart.cs" >}}
 
-            // 2. Access the first worksheet
-            Worksheet sheet = workbook.Worksheets[0];
-
-            // 3. Populate worksheet with sample data
-            //    A1:A5 – Category names
-            //    B1:B5 – Corresponding values
-            sheet.Cells["A1"].Value = "January";
-            sheet.Cells["A2"].Value = "February";
-            sheet.Cells["A3"].Value = "March";
-            sheet.Cells["A4"].Value = "April";
-            sheet.Cells["A5"].Value = "May";
-
-            sheet.Cells["B1"].Value = 120;
-            sheet.Cells["B2"].Value = 150;
-            sheet.Cells["B3"].Value = 180;
-            sheet.Cells["B4"].Value = 130;
-            sheet.Cells["B5"].Value = 170;
-
-            // 4. Add a ConicalColumn3D chart to the worksheet
-            int chartIndex = sheet.Charts.Add(ChartType.ConicalColumn3D, 7, 0, 25, 7);
-            Chart chart = sheet.Charts[chartIndex];
-
-            // 5. Set the chart data source – range A1:B5
-            chart.NSeries.Add("=Sheet1!$B$1:$B$5", true);
-            chart.NSeries[0].CategoryData = "=Sheet1!$A$1:$A$5";
-
-            // 6. Set chart title
-            chart.Title.Text = "Monthly Sales – Conical 3D Column";
-
-            // 7. Optional – Customize the appearance
-            chart.Legend.Position = LegendPositionType.Right;          // Move legend to the right
-            chart.PlotArea.Border.LineColor = System.Drawing.Color.Gray; // Add a light border around plot area
-            chart.PlotArea.Border.IsVisible = true;
-
-            // 8. Save the workbook as XLSX
-            workbook.Save("ConicalColumn3DChart.xlsx");
-
-            Console.WriteLine("ConicalColumn3D chart created successfully.");
-        }
-    }
-}
-```
 {{% /blocks/products/pf/agp/code-block %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
@@ -128,14 +75,6 @@ XLSX is the modern Open XML format for Microsoft Excel workbooks introduced with
 {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="Other Supported Chart Types" subTitle="Aspose.Cells can create a wide variety of chart types. Below are a few examples you may also find useful." >}}
-
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/chart/insert-pie-chart/" name="Pie Chart" description="2‑D Pie chart" >}} 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/chart/insert-bar-3d-chart/" name="Bar3D Chart" description="3‑D Bar chart" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/chart/insert-line-chart/" name="Line Chart" description="2‑D Line chart" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/chart/insert-pyramid-column3d-chart/" name="PyramidColumn3D" description="3‑D Pyramid column chart" >}}
-
-{{< /blocks/products/pf/agp/other-supported-section >}}
 
 {{< /blocks/products/pf/main-container >}}
 

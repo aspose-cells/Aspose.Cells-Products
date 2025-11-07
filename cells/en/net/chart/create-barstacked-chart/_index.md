@@ -60,75 +60,8 @@ Any platform that supports **.NET Framework**, **.NET Core**, **.NET 5/6/7**, **
 
 {{% blocks/products/pf/agp/code-block title="Create BarStacked chart in XLSX – C#" offSpacer="" %}}
 
-```csharp
-using System;
-using Aspose.Cells;
-using Aspose.Cells.Charts;
+{{< gist "aspose-cells-gists" "59a1901d62ea9ceb08456a818431a898" "Landingpages-LLM-create-BarStackedChart.cs" >}}
 
-namespace AsposeCellsExamples
-{
-    class CreateBarStackedChart
-    {
-        static void Main()
-        {
-            // 1. Create a new workbook.
-            Workbook workbook = new Workbook();
-
-            // 2. Get the first worksheet.
-            Worksheet sheet = workbook.Worksheets[0];
-
-            // 3. Populate sample data for the chart.
-            //    Rows: 0-4, Columns: 0-2 (A1:C5)
-            sheet.Cells["A1"].PutValue("Region");
-            sheet.Cells["B1"].PutValue("Q1 Sales");
-            sheet.Cells["C1"].PutValue("Q2 Sales");
-
-            sheet.Cells["A2"].PutValue("North");
-            sheet.Cells["A3"].PutValue("South");
-            sheet.Cells["A4"].PutValue("East");
-            sheet.Cells["A5"].PutValue("West");
-
-            sheet.Cells["B2"].PutValue(12000);
-            sheet.Cells["B3"].PutValue(15000);
-            sheet.Cells["B4"].PutValue(10000);
-            sheet.Cells["B5"].PutValue(8000);
-
-            sheet.Cells["C2"].PutValue(14000);
-            sheet.Cells["C3"].PutValue(13000);
-            sheet.Cells["C4"].PutValue(9000);
-            sheet.Cells["C5"].PutValue(11000);
-
-            // 4. Add a chart to the worksheet (position: row 7, column 0, height 15 rows, width 10 columns).
-            int chartIndex = sheet.Charts.Add(ChartType.BarStacked, 7, 0, 22, 10);
-            Chart chart = sheet.Charts[chartIndex];
-
-            // 5. Set a descriptive title.
-            chart.Title.Text = "Quarterly Sales by Region (Stacked Bar)";
-
-            // 6. Define data series.
-            //    Series 1 – Q1 Sales (B2:B5)
-            //    Series 2 – Q2 Sales (C2:C5)
-            int seriesIndex = chart.NSeries.Add("=Sheet1!$B$2:$B$5", true);
-            seriesIndex = chart.NSeries.Add("=Sheet1!$C$2:$C$5", true);
-            // Set series names (taken from the first row of each column).
-            chart.NSeries[0].Name = "=Sheet1!$B$1";
-            chart.NSeries[1].Name = "=Sheet1!$C$1";
-
-            // 7. Set the category (X) axis labels – Region names (A2:A5).
-            chart.NSeries.CategoryData = "=Sheet1!$A$2:$A$5";
-
-            // 8. (Optional) Customize the chart's appearance.
-            chart.ShowLegend = true;
-            chart.Legend.Position = LegendPositionType.Right;
-            chart.PlotArea.Area.FillFormat.ForeColor = System.Drawing.Color.LightBlue;
-            chart.PlotArea.Area.Border.LineWidth = 0.5;
-
-            // 9. Save the workbook.
-            workbook.Save("BarStackedChart.xlsx");
-        }
-    }
-}
-```
 
 {{% /blocks/products/pf/agp/code-block %}}
 
@@ -152,14 +85,6 @@ XLSX is the modern Open XML format used by Microsoft Excel since Office 2007. It
 {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="Other Supported Chart Formats" subTitle="Aspose.Cells can create a variety of chart types across multiple Excel file formats." >}}
-
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/chart/create-pie-chart/" name="XLS" description="Microsoft Excel Spreadsheet (Legacy)" >}} 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/chart/create-pie-chart/" name="XLSX" description="Open XML Workbook" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/chart/create-pie-chart/" name="XLSB" description="Excel Binary Workbook" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/chart/create-pie-chart/" name="XLSM" description="Macro‑enabled Spreadsheet" >}} 
-
-{{< /blocks/products/pf/agp/other-supported-section >}}
 
 {{< /blocks/products/pf/main-container >}}
     

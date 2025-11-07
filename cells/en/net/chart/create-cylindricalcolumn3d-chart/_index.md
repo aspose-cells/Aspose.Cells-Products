@@ -48,80 +48,9 @@ The library works on any platform that supports .NET Framework 4.0+, .NET Co
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="Create CylindricalColumn3D Chart – C#" offSpacer="" %}}
-```csharp
-using System;
-using Aspose.Cells;
-using Aspose.Cells.Charts;
 
-namespace AsposeCellsChartDemo
-{
-    class Program
-    {
-        static void Main()
-        {
-            // 1. Instantiate a new workbook.
-            Workbook workbook = new Workbook();
+{{< gist "aspose-cells-gists" "59a1901d62ea9ceb08456a818431a898" "Landingpages-LLM-create-CylindricalColumn3DChart.cs" >}}
 
-            // 2. Access the first worksheet.
-            Worksheet sheet = workbook.Worksheets[0];
-            Cells cells = sheet.Cells;
-
-            // 3. Fill worksheet with sample data (Products vs. Sales).
-            cells["A1"].PutValue("Product");
-            cells["B1"].PutValue("Q1");
-            cells["C1"].PutValue("Q2");
-            cells["D1"].PutValue("Q3");
-            cells["E1"].PutValue("Q4");
-
-            string[] products = { "Apple", "Banana", "Cherry", "Date", "Elderberry" };
-            int[,] sales = {
-                { 120, 150, 130, 170 }, // Apple
-                { 80,  95,  100, 110 }, // Banana
-                { 60,  70,  65,  80 },  // Cherry
-                { 150, 160, 170, 180 }, // Date
-                { 90,  85,  95,  100 }  // Elderberry
-            };
-
-            for (int i = 0; i < products.Length; i++)
-            {
-                cells[i + 1, 0].PutValue(products[i]); // Column A
-                for (int j = 0; j < 4; j++)
-                {
-                    cells[i + 1, j + 1].PutValue(sales[i, j]); // Columns B‑E
-                }
-            }
-
-            // 4. Add a CylindricalColumn3D chart anchored at cell G2.
-            int chartIndex = sheet.Charts.Add(ChartType.CylindricalColumn3D, 1, 6, 20, 15);
-            Chart chart = sheet.Charts[chartIndex];
-
-            // 5. Set chart title.
-            chart.Title.Text.Font.Color = System.Drawing.Color.Blue;
-            chart.Title.Text.Font.Size = 14;
-            chart.Title.Text.IsFontBold = true;
-            chart.Title.Text = "Quarterly Sales by Product";
-
-            // 6. Define the data series (B2:E6) and X‑axis categories (A2:A6).
-            int seriesIndex = chart.NSeries.Add("=Sheet1!$B$2:$E$6", true);
-            NSeries series = chart.NSeries[seriesIndex];
-            series.CategoryData = "=Sheet1!$A$2:$A$6";
-            series.Name = "Sales";
-
-            // Optional: Set axis titles.
-            chart.CategoryAxis.Title.Text = "Product";
-            chart.ValueAxis.Title.Text = "Units Sold";
-
-            // Optional: Apply a preset style.
-            chart.ChartStyle = 13; // Predefined style number (1‑48)
-
-            // 7. Save the workbook as XLSX.
-            workbook.Save("CylindricalColumn3D_Chart.xlsx");
-
-            Console.WriteLine("Workbook with CylindricalColumn3D chart created successfully.");
-        }
-    }
-}
-```
 {{% /blocks/products/pf/agp/code-block %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
@@ -144,14 +73,6 @@ XLSX is Microsoft’s Open XML format for Excel workbooks, introduced with Offic
 {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="Other Supported Chart Types" subTitle="Aspose.Cells can create many additional chart types, including the following 3‑D variants." >}}
-
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/chart/3d-pie/" name="Pie3D" description="3‑D Pie Chart" >}} 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/chart/3d-bar/" name="Bar3D" description="3‑D Bar Chart" >}} 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/chart/3d-area/" name="Area3D" description="3‑D Area Chart" >}} 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/chart/3d-cylindercolumn/" name="CylindricalColumn3D" description="Cylindrical 3‑D Column Chart" >}} 
-
-{{< /blocks/products/pf/agp/other-supported-section >}}
 
 {{< /blocks/products/pf/main-container >}}
     

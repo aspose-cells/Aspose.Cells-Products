@@ -50,72 +50,9 @@ Aspose.Cells for .NET works on any platform that supports **.NET Framework 4.0+*
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="Create Bar100PercentStacked Chart - C#" offSpacer="" %}}
-```cs
-using System;
-using Aspose.Cells;
-using Aspose.Cells.Charts;
 
-namespace AsposeCellsChartExample
-{
-    class Program
-    {
-        static void Main()
-        {
-            // 1. Create a new workbook and get the first worksheet
-            Workbook workbook = new Workbook();
-            Worksheet sheet = workbook.Worksheets[0];
+{{< gist "aspose-cells-gists" "59a1901d62ea9ceb08456a818431a898" "Landingpages-LLM-create-Bar100PercentStackedChart.cs" >}}
 
-            // 2. Fill the worksheet with sample data
-            //    A1:C5 will be used as the data source for the chart
-            //    A column – Category (e.g., "Q1", "Q2", ...)
-            //    B & C columns – Series values
-            sheet.Cells["A1"].PutValue("Quarter");
-            sheet.Cells["B1"].PutValue("Product A");
-            sheet.Cells["C1"].PutValue("Product B");
-
-            sheet.Cells["A2"].PutValue("Q1");
-            sheet.Cells["A3"].PutValue("Q2");
-            sheet.Cells["A4"].PutValue("Q3");
-            sheet.Cells["A5"].PutValue("Q4");
-
-            sheet.Cells["B2"].PutValue(30);
-            sheet.Cells["B3"].PutValue(20);
-            sheet.Cells["B4"].PutValue(40);
-            sheet.Cells["B5"].PutValue(10);
-
-            sheet.Cells["C2"].PutValue(70);
-            sheet.Cells["C3"].PutValue(80);
-            sheet.Cells["C4"].PutValue(60);
-            sheet.Cells["C5"].PutValue(90);
-
-            // 3. Add a chart to the worksheet (positioned at D2, size 400x300 pixels)
-            int chartIndex = sheet.Charts.Add(ChartType.Bar100PercentStacked, 1, 3, 16, 12);
-            Chart chart = sheet.Charts[chartIndex];
-
-            // 4. Set the chart title
-            chart.Title.Text = "Product Sales – 100% Stacked Bar";
-
-            // 5. Set the data source for the chart:
-            //    - First parameter: range that contains the data (including headers)
-            //    - Second parameter: true = use first row/column as series names and categories
-            chart.NSeries.Add("=Sheet1!$B$2:$C$5", true);
-            //    Set the categories (X‑axis labels) – range from column A
-            chart.NSeries.CategoryData = "=Sheet1!$A$2:$A$5";
-
-            // 6. Optional: Customize the chart appearance
-            chart.NSeries[0].Name = "Product A";
-            chart.NSeries[1].Name = "Product B";
-
-            //    Set the fill color for each series (optional)
-            chart.NSeries[0].Area.ForegroundColor = System.Drawing.Color.LightBlue;
-            chart.NSeries[1].Area.ForegroundColor = System.Drawing.Color.LightCoral;
-
-            // 7. Save the workbook as XLSX
-            workbook.Save("Bar100PercentStackedChart.xlsx");
-        }
-    }
-}
-```
 {{% /blocks/products/pf/agp/code-block %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
@@ -138,14 +75,6 @@ XLSX is the default file format for Microsoft Excel workbooks introduced in Offi
 {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="Other Supported Chart Formats" subTitle="Aspose.Cells can create charts in a variety of Microsoft Excel file types." >}}
-
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/chart/insert-bar100percentstacked-to-xls/" name="XLS" description="Legacy Microsoft Excel Workbook" >}} 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/chart/insert-bar100percentstacked-to-xlsx/" name="XLSX" description="Open XML Workbook" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/chart/insert-bar100percentstacked-to-xlsb/" name="XLSB" description="Excel Binary Workbook" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/chart/insert-bar100percentstacked-to-xlsm/" name="XLSM" description="Macro‑enabled Spreadsheet" >}} 
-
-{{< /blocks/products/pf/agp/other-supported-section >}}
 
 {{< /blocks/products/pf/main-container >}}
     

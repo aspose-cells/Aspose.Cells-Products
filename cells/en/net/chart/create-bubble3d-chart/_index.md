@@ -51,72 +51,7 @@ Aspose.Cells for .NET runs on any platform that supports **.NET Framework 4.x**,
 
 {{% blocks/products/pf/agp/code-block title="Create Bubble3D Chart in XLSX - C#" offSpacer="" %}}
 
-```csharp
-using System;
-using Aspose.Cells;
-using Aspose.Cells.Charts;
-
-namespace AsposeCellsExamples
-{
-    class CreateBubble3DChart
-    {
-        static void Main()
-        {
-            // 1. Create a new workbook
-            Workbook workbook = new Workbook();
-
-            // 2. Access the first worksheet
-            Worksheet sheet = workbook.Worksheets[0];
-
-            // 3. Populate data for the Bubble3D chart
-            //    Column A – X values
-            //    Column B – Y values
-            //    Column C – Bubble size (Z values)
-            sheet.Cells["A1"].PutValue("X");
-            sheet.Cells["B1"].PutValue("Y");
-            sheet.Cells["C1"].PutValue("Size");
-
-            double[] xValues = { 1, 2, 3, 4, 5 };
-            double[] yValues = { 10, 20, 30, 25, 15 };
-            double[] sizes   = { 5, 10, 15, 12, 8 };
-
-            for (int i = 0; i < xValues.Length; i++)
-            {
-                sheet.Cells[i + 1, 0].PutValue(xValues[i]); // Column A
-                sheet.Cells[i + 1, 1].PutValue(yValues[i]); // Column B
-                sheet.Cells[i + 1, 2].PutValue(sizes[i]);   // Column C
-            }
-
-            // 4. Add a Bubble3D chart
-            int chartIndex = sheet.Charts.Add(ChartType.Bubble3D, 7, 0, 25, 7);
-            Chart chart = sheet.Charts[chartIndex];
-
-            // 5. Set chart title
-            chart.Title.Text = "3‑D Bubble Chart Example";
-            chart.Title.Font.IsBold = true;
-            chart.Title.Font.Size = 12;
-
-            // 6. Add a series and bind X, Y, and bubble size data
-            int seriesIndex = chart.NSeries.Add("=Sheet1!$A$2:$A$6", true);
-            Series series = chart.NSeries[seriesIndex];
-            series.Name = "Sample Series";
-
-            // Bind Y values
-            series.Values = "=Sheet1!$B$2:$B$6";
-
-            // Bind bubble size (Z values) – specific to Bubble/ Bubble3D charts
-            series.BubbleSizes = "=Sheet1!$C$2:$C$6";
-
-            // Optional: Set marker style (e.g., solid sphere)
-            series.Marker.Type = MarkerType.Sphere;
-            series.Marker.Size = 8;
-
-            // 7. Save the workbook
-            workbook.Save("Bubble3DChart.xlsx");
-        }
-    }
-}
-```
+{{< gist "aspose-cells-gists" "59a1901d62ea9ceb08456a818431a898" "Landingpages-LLM-create-Bubble3DChart.cs" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 
@@ -139,15 +74,6 @@ XLSX is the Open XML format for Microsoft Excel workbooks introduced with Office
 
 {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->
-
-{{< blocks/products/pf/agp/other-supported-section title="Other Supported Chart Types" subTitle="Aspose.Cells can generate a variety of Excel chart types, including but not limited to the following." >}}
-
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/chart/insert-column-chart/" name="Column Chart" description="Standard column chart" >}} 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/chart/insert-pie-chart/" name="Pie Chart" description="2‑D pie chart" >}} 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/chart/insert-line-chart/" name="Line Chart" description="Line chart with markers" >}} 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/chart/insert-bubble-chart/" name="Bubble Chart" description="2‑D Bubble chart" >}} 
-
-{{< /blocks/products/pf/agp/other-supported-section >}}
 
 {{< /blocks/products/pf/main-container >}}
     

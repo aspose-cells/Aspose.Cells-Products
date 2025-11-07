@@ -53,65 +53,7 @@ Aspose.Cells for .NET runs on any platform that supports **.NET Framework 4.0+**
 
 {{% blocks/products/pf/agp/code-block title="Create BoxWhisker Chart – C#" offSpacer="" %}}
 
-```csharp
-using System;
-using Aspose.Cells;
-using Aspose.Cells.Charts;
-
-namespace AsposeCellsBoxWhiskerDemo
-{
-    class Program
-    {
-        static void Main()
-        {
-            // 1. Create a new workbook.
-            var workbook = new Workbook();
-
-            // 2. Access the first worksheet.
-            var sheet = workbook.Worksheets[0];
-
-            // 3. Populate the worksheet with sample statistical data.
-            //    Each column represents a data series.
-            var data = new double[,]
-            {
-                { 23, 45, 12, 57, 30 },   // Series 1
-                { 34, 55, 20, 63, 40 },   // Series 2
-                { 15, 38, 10, 48, 22 }    // Series 3
-            };
-
-            // Write data to cells starting from A1.
-            for (int col = 0; col < data.GetLength(0); col++)
-            {
-                for (int row = 0; row < data.GetLength(1); row++)
-                {
-                    sheet.Cells[row, col].PutValue(data[col, row]);
-                }
-            }
-
-            // 4. Add a new chart to the worksheet.
-            int chartIndex = sheet.Charts.Add(ChartType.BoxWhisker, 7, 0, 25, 9);
-            Chart chart = sheet.Charts[chartIndex];
-
-            // 5. Set the data range for the BoxWhisker chart.
-            //    The range includes all three columns (A1:C5).
-            chart.NSeries.Add("=Sheet1!$A$1:$C$5", true);
-
-            // 6. Optional: Customize chart appearance.
-            chart.Title.Text = "Sales Distribution – BoxWhisker Chart";
-            chart.Title.Font.IsBold = true;
-            chart.Title.Font.Size = 12;
-
-            // Set a built‑in chart style.
-            chart.Style = 13; // Predefined style index
-
-            // 7. Save the workbook as XLSX.
-            workbook.Save("BoxWhiskerChart.xlsx");
-
-            Console.WriteLine("BoxWhisker chart created successfully.");
-        }
-    }
-}
-```
+{{< gist "aspose-cells-gists" "59a1901d62ea9ceb08456a818431a898" "Landingpages-LLM-create-BoxWhiskerChart.cs" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 
@@ -134,15 +76,6 @@ XLSX is Microsoft’s Open XML spreadsheet format introduced with Office 2007. I
 
 {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->
-
-{{< blocks/products/pf/agp/other-supported-section title="Other Supported Chart Types" subTitle="Aspose.Cells can generate many more chart types, for example:" >}}
-
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/chart/insert-pie-chart/" name="Pie Chart" description="Standard pie chart" >}} 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/chart/insert-line-chart/" name="Line Chart" description="Line and spline charts" >}} 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/chart/insert-scatter-chart/" name="Scatter Chart" description="X‑Y scatter plots" >}} 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/chart/insert-area-chart/" name="Area Chart" description="Stacked and 100% stacked area" >}} 
-
-{{< /blocks/products/pf/agp/other-supported-section >}}
 
 {{< /blocks/products/pf/main-container >}}
     

@@ -59,92 +59,8 @@ Aspose.Cells for .NET works with **.NET Framework 4.6+**, **.NET Core 2.0+**, **
 
 {{% blocks/products/pf/agp/code-block title="Create Bar3D100PercentStacked chart – C#" offSpacer="" %}}
 
-```csharp
-// ------------------------------------------------------------
-//  C# sample: Create a 3‑D 100 % Stacked Bar chart (Bar3D100PercentStacked)
-//  using Aspose.Cells for .NET
-// ------------------------------------------------------------
+{{< gist "aspose-cells-gists" "59a1901d62ea9ceb08456a818431a898" "Landingpages-LLM-create-Bar3D100PercentStackedChart.cs" >}}
 
-using System;
-using Aspose.Cells;
-using Aspose.Cells.Charts;
-
-namespace AsposeCellsChartDemo
-{
-    class Program
-    {
-        static void Main()
-        {
-            // 1. Create a new workbook and get the first worksheet.
-            Workbook workbook = new Workbook();
-            Worksheet sheet = workbook.Worksheets[0];
-            Cells cells = sheet.Cells;
-
-            // 2. Populate sample data for the chart.
-            //    Row 0 – Category names (e.g., Q1, Q2, Q3, Q4)
-            //    Rows 1‑3 – Series values (e.g., Product A, B, C)
-            string[] categories = { "Q1", "Q2", "Q3", "Q4" };
-            double[,] values = {
-                { 30, 20, 25, 35 }, // Product A
-                { 20, 30, 15, 25 }, // Product B
-                { 10, 15, 20, 10 }  // Product C
-            };
-
-            // Write category names to column A (index 0)
-            for (int i = 0; i < categories.Length; i++)
-                cells[i, 0].PutValue(categories[i]);
-
-            // Write series values to columns B‑D (indexes 1‑3)
-            for (int row = 0; row < values.GetLength(0); row++)
-            {
-                for (int col = 0; col < values.GetLength(1); col++)
-                {
-                    cells[row + 1, col + 1].PutValue(values[row, col]);
-                }
-            }
-
-            // 3. Add a chart to the worksheet (positioned at cell G2).
-            int chartIndex = sheet.Charts.Add(ChartType.Bar3D100PercentStacked, 1, 6, 20, 15);
-            Chart chart = sheet.Charts[chartIndex];
-
-            // 4. Set a meaningful title.
-            chart.Title.Text = "Quarterly Sales – 100 % Stacked Bar (3‑D)";
-
-            // 5. Add a series for each product (rows 2‑4 in the data range).
-            //    Data range: =Sheet1!$B$2:$D$4  (values)
-            //    Category range: =Sheet1!$A$2:$A$5 (categories)
-            // Note: Aspose.Cells expects the data range in A1 style.
-            string dataRange = "=Sheet1!$B$2:$D$4";
-            string categoryRange = "=Sheet1!$A$2:$A$5";
-
-            // Series 1 – Product A
-            chart.NSeries.Add(dataRange, true);
-            chart.NSeries[0].Name = "Product A";
-
-            // Series 2 – Product B
-            chart.NSeries.Add(dataRange, true);
-            chart.NSeries[1].Name = "Product B";
-
-            // Series 3 – Product C
-            chart.NSeries.Add(dataRange, true);
-            chart.NSeries[2].Name = "Product C";
-
-            // Assign the same category range to all series.
-            foreach (NSeries series in chart.NSeries)
-            {
-                series.CategoryData = categoryRange;
-            }
-
-            // 6. (Optional) Customize axes.
-            chart.ValueAxis.Title.Text = "Percentage";
-            chart.CategoryAxis.Title.Text = "Quarter";
-
-            // 7. Save the workbook.
-            workbook.Save("Bar3D100PercentStackedChart.xlsx");
-        }
-    }
-}
-```
 
 {{% /blocks/products/pf/agp/code-block %}}
 
@@ -168,14 +84,6 @@ XLSX is the modern Open XML format for Microsoft Excel workbooks. It stores spre
 {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="Other Supported Chart Types" subTitle="Aspose.Cells can generate a wide variety of charts – some popular equivalents are listed below." >}}
-
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/chart/bar3d/insert-bar3d-chart/" name="Bar3D" description="Standard 3‑D bar chart" >}} 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/chart/stackedbar/insert-stacked-bar-chart/" name="StackedBar" description="Stacked bar (2‑D)" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/chart/100percentstackedcolumn/insert-100-percent-stacked-column-chart/" name="100% Stacked Column" description="100 % stacked column chart" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/chart/pie/insert-pie-chart/" name="Pie" description="2‑D pie chart" >}} 
-
-{{< /blocks/products/pf/agp/other-supported-section >}}
 
 {{< /blocks/products/pf/main-container >}}
 

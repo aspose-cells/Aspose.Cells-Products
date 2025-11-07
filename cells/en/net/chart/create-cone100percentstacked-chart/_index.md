@@ -58,82 +58,7 @@ Aspose.Cells for .NET runs on any platform that supports **.NET Framework 4.0+
 
 {{% blocks/products/pf/agp/code-block title="Create Cone100PercentStacked Chart – C#" offSpacer="" %}}
 
-```csharp
-using System;
-using Aspose.Cells;
-using Aspose.Cells.Charts;
-
-namespace AsposeCellsExample
-{
-    class Program
-    {
-        static void Main()
-        {
-            // 1. Create a new workbook and access the first worksheet
-            Workbook workbook = new Workbook();
-            Worksheet sheet = workbook.Worksheets[0];
-            Cells cells = sheet.Cells;
-
-            // 2. Fill the worksheet with sample data
-            //   Category | Series1 | Series2 | Series3
-            //   ---------------------------------------
-            //   Q1       |   30    |   20    |   10
-            //   Q2       |   40    |   25    |   15
-            //   Q3       |   35    |   30    |   20
-            //   Q4       |   50    |   35    |   25
-
-            string[] categories = { "Q1", "Q2", "Q3", "Q4" };
-            int[,] values = { { 30, 20, 10 }, { 40, 25, 15 }, { 35, 30, 20 }, { 50, 35, 25 } };
-
-            for (int i = 0; i < categories.Length; i++)
-            {
-                // Category names in column A
-                cells[i, 0].PutValue(categories[i]);
-
-                // Series data in columns B, C and D
-                cells[i, 1].PutValue(values[i, 0]);
-                cells[i, 2].PutValue(values[i, 1]);
-                cells[i, 3].PutValue(values[i, 2]);
-            }
-
-            // 3. Add a Cone100PercentStacked chart
-            int chartIndex = sheet.Charts.Add(ChartType.Cone100PercentStacked, 5, 0, 25, 8);
-            Chart chart = sheet.Charts[chartIndex];
-
-            // 4. Set the data range for the chart (including header row)
-            //    The range includes cells A1:D5 (A1 contains a header for categories)
-            //    In this example we don't have a header row; we start from A1.
-            chart.NSeries.Add("=Sheet1!B1:D4", true);
-
-            // 5. Set series names (optional – defaults to column letters)
-            chart.NSeries[0].Name = "Series 1";
-            chart.NSeries[1].Name = "Series 2";
-            chart.NSeries[2].Name = "Series 3";
-
-            // 6. Configure category (X) axis
-            chart.CategoryAxis.Title.Text = "Quarter";
-            chart.CategoryAxis.Title.Font.IsBold = true;
-
-            // 7. Configure value (Y) axis
-            chart.ValueAxis.Title.Text = "Percentage";
-            chart.ValueAxis.Title.Font.IsBold = true;
-            chart.ValueAxis.NumberFormat = "0%";
-
-            // 8. Add a chart title
-            chart.Title.Text = "Quarterly Sales – 100 % Stacked Cone Chart";
-            chart.Title.Font.Size = 12;
-            chart.Title.Font.IsBold = true;
-
-            // 9. Display legend
-            chart.ShowLegend = true;
-            chart.Legend.Position = LegendPositionType.Bottom;
-
-            // 10. Save the workbook
-            workbook.Save("Cone100PercentStackedChart.xlsx");
-        }
-    }
-}
-```
+{{< gist "aspose-cells-gists" "59a1901d62ea9ceb08456a818431a898" "Landingpages-LLM-create-Cone100PercentStackedChart.cs" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 
@@ -156,16 +81,6 @@ XLSX is the default file format for Microsoft Excel since Office 2007. It is
 
 {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->
-
-{{< blocks/products/pf/agp/other-supported-section title="Other Supported Chart Types" subTitle="Aspose.Cells also enables creation of many additional chart types, including but not limited to:" >}}
-
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/chart/column-chart/" name="Column Chart" description="Standard column chart" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/chart/pie-chart/" name="Pie Chart" description="Circular chart for proportionate data" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/chart/bar-3d-chart/" name="Bar 3D Chart" description="Three‑dimensional bar chart" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/chart/line-chart/" name="Line Chart" description="Trend lines over categories" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/chart/area-100-percent-stacked-chart/" name="100% Stacked Area" description="Area chart with cumulative percentages" >}}
-
-{{< /blocks/products/pf/agp/other-supported-section >}}
 
 {{< /blocks/products/pf/main-container >}}
     

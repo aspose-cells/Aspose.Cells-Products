@@ -51,80 +51,8 @@ Aspose.Cells for .NET runs on any platform that supports **.NET Framework 4.0+**
 
 {{% blocks/products/pf/agp/code-block title="Create Bar3DStacked Chart – C#" offSpacer="" %}}
 
-```csharp
-using System;
-using Aspose.Cells;
-using Aspose.Cells.Charts;
+{{< gist "aspose-cells-gists" "59a1901d62ea9ceb08456a818431a898" "Landingpages-LLM-create-Bar3DStackedChart.cs" >}}
 
-namespace AsposeCellsExamples
-{
-    class CreateBar3DStackedChart
-    {
-        static void Main()
-        {
-            // 1. Create a new workbook.
-            Workbook workbook = new Workbook();
-
-            // 2. Access the first worksheet.
-            Worksheet sheet = workbook.Worksheets[0];
-
-            // 3. Populate worksheet with sample data.
-            //    Row 0 – Header
-            sheet.Cells["A1"].Value = "Quarter";
-            sheet.Cells["B1"].Value = "Product A";
-            sheet.Cells["C1"].Value = "Product B";
-            sheet.Cells["D1"].Value = "Product C";
-
-            //    Data rows
-            string[] quarters = { "Q1", "Q2", "Q3", "Q4" };
-            int[,] sales = {
-                { 120, 150, 180 },
-                { 130, 160, 190 },
-                { 140, 170, 200 },
-                { 150, 180, 210 }
-            };
-
-            for (int i = 0; i < quarters.Length; i++)
-            {
-                // Column A – Quarter label
-                sheet.Cells[i + 1, 0].Value = quarters[i];
-
-                // Columns B‑D – Sales values for each product
-                sheet.Cells[i + 1, 1].Value = sales[i, 0];
-                sheet.Cells[i + 1, 2].Value = sales[i, 1];
-                sheet.Cells[i + 1, 3].Value = sales[i, 2];
-            }
-
-            // 4. Add a Bar3DStacked chart to the worksheet.
-            int chartIndex = sheet.Charts.Add(ChartType.Bar3DStacked);
-            Chart chart = sheet.Charts[chartIndex];
-
-            // 5. Set the data range for the chart.
-            //    The data source includes the header row (A1:D5).
-            //    "SeriesByRows = false" means each column after the first is a separate series.
-            chart.NSeries.Add("=Sheet1!$B$1:$D$5", true);
-
-            // 6. Set the category (X‑axis) labels – quarters.
-            chart.NSeries.CategoryData = "=Sheet1!$A$2:$A$5";
-
-            // 7. Position the chart (upper‑left row, column, lower‑right row, column).
-            chart.Position = 7;   // Row where the chart starts
-            chart.Height = 15;    // Number of rows the chart occupies
-            chart.Left = 0;       // Column where the chart starts
-            chart.Width = 10;     // Number of columns the chart occupies
-
-            // 8. Add a title to the chart.
-            chart.Title.Text = "Quarterly Sales – 3D Stacked Bar Chart";
-
-            // 9. Apply a built‑in style (optional).
-            chart.Style = 13; // Predefined style index (e.g., style 13)
-
-            // 10. Save the workbook as an XLSX file.
-            workbook.Save("Bar3DStackedChart.xlsx");
-        }
-    }
-}
-```
 
 {{% /blocks/products/pf/agp/code-block %}}
 
@@ -148,14 +76,6 @@ XLSX is the modern Open XML file format for Microsoft Excel workbooks. It stores
 {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="Other Supported Chart Types" subTitle="Aspose.Cells also enables creation of many other Excel chart types, including but not limited to:" >}}
-
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/chart/create-pie-chart/" name="Pie Chart" description="Circular chart for showing proportional data" >}} 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/chart/create-line-chart/" name="Line Chart" description="Trend lines over a period of time" >}} 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/chart/create-column-chart/" name="Column Chart" description="Vertical bars for categorical comparison" >}} 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/chart/create-scatter-chart/" name="Scatter Chart" description="Data points plotted on two axes" >}}
-
-{{< /blocks/products/pf/agp/other-supported-section >}}
 
 {{< /blocks/products/pf/main-container >}}
     

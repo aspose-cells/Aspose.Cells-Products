@@ -50,85 +50,8 @@ Works on any platform that supports .NET Framework, .NET Core, .NET 5/6/7, Wi
 
 {{% blocks/products/pf/agp/code-block title="Create Area3D100PercentStacked Chart – C#" offSpacer="" %}}
 
-```csharp
-using System;
-using Aspose.Cells;
-using Aspose.Cells.Charts;
+{{< gist "aspose-cells-gists" "59a1901d62ea9ceb08456a818431a898" "Landingpages-LLM-create-Area3D100PercentStackedChart.cs" >}}
 
-namespace AsposeCellsChartDemo
-{
-    class Program
-    {
-        static void Main()
-        {
-            // 1. Create a new workbook.
-            Workbook workbook = new Workbook();
-
-            // 2. Access the first worksheet.
-            Worksheet sheet = workbook.Worksheets[0];
-            sheet.Name = "SalesData";
-
-            // 3. Fill worksheet with sample data.
-            //    Row 0 – column headers.
-            sheet.Cells["A1"].Value = "Quarter";
-            sheet.Cells["B1"].Value = "Product A";
-            sheet.Cells["C1"].Value = "Product B";
-            sheet.Cells["D1"].Value = "Product C";
-
-            //    Subsequent rows – sales figures.
-            string[] quarters = { "Q1", "Q2", "Q3", "Q4" };
-            int[,] sales = {
-                { 15000,  12000,  18000 },
-                { 20000,  15000,  21000 },
-                { 17000,  13000,  19000 },
-                { 22000,  16000,  23000 }
-            };
-
-            for (int i = 0; i < quarters.Length; i++)
-            {
-                // Column A – quarter name.
-                sheet.Cells[i + 1, 0].Value = quarters[i];
-
-                // Columns B‑D – sales numbers.
-                for (int j = 0; j < 3; j++)
-                {
-                    sheet.Cells[i + 1, j + 1].Value = sales[i, j];
-                }
-            }
-
-            // 4. Add a chart of type Area3D100PercentStacked.
-            int chartIndex = sheet.Charts.Add(ChartType.Area3D100PercentStacked);
-            Chart chart = sheet.Charts[chartIndex];
-
-            // 5. Set the position (row, column) and size (height, width) of the chart.
-            chart.Row = 6;    // start row index (0‑based)
-            chart.Column = 0; // start column index
-            chart.Height = 350;
-            chart.Width = 600;
-
-            // 6. Set the data source for the chart.
-            //    The data range includes headers (A1:D5) – first row is category labels.
-            chart.NSeries.Add("=SalesData!$B$2:$D$5", true);
-            //    Set the category (X) axis values – the quarters.
-            chart.NSeries.CategoryData = "=SalesData!$A$2:$A$5";
-
-            // 7. Optional: customize the chart title.
-            chart.Title.Text = "Quarterly Sales – 100% Stacked Area (3‑D)";
-            chart.Title.Font.Size = 14;
-
-            // 8. Optional: display data labels.
-            chart.NSeries[0].IsShowDataLabels = true;
-            chart.NSeries[1].IsShowDataLabels = true;
-            chart.NSeries[2].IsShowDataLabels = true;
-
-            // 9. Save the workbook.
-            workbook.Save("Area3D100PercentStackedChart.xlsx");
-
-            Console.WriteLine("Workbook with Area3D100PercentStacked chart created successfully.");
-        }
-    }
-}
-```
 
 {{% /blocks/products/pf/agp/code-block %}}
 
@@ -149,14 +72,6 @@ XLSX is Microsoft Excel’s default file format introduced with Office 2007. I
 
 {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->
-
-{{< blocks/products/pf/agp/other-supported-section title="Other Supported Chart Types" subTitle="Aspose.Cells can create many additional chart types in Excel. Below are a few examples you may find useful." >}}
-
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/chart/area3dstacked/" name="Area3DStacked" description="Standard 3‑D stacked area chart." >}} 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/chart/area3d/" name="Area3D" description="3‑D area chart." >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/chart/column3d/" name="Column3D" description="3‑D column chart." >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/chart/pie3d/" name="Pie3D" description="3‑D pie chart." >}}
-{{< /blocks/products/pf/agp/other-supported-section >}}
 
 {{< /blocks/products/pf/main-container >}}
 

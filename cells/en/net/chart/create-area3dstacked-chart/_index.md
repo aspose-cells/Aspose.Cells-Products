@@ -51,74 +51,7 @@ Works on any platform that supports .NET Standard 2.0, .NET 5/6/7, .NET 
 
 {{% blocks/products/pf/agp/code-block title="Create Area3DStacked Chart – C#" offSpacer="" %}}
 
-```csharp
-// ------------------------------------------------------------
-// Aspose.Cells for .NET – Create an Area3DStacked chart
-// ------------------------------------------------------------
-
-using System;
-using Aspose.Cells;
-using Aspose.Cells.Charts;
-
-namespace AsposeCellsDemo
-{
-    class Program
-    {
-        static void Main()
-        {
-            // 1. Create a new workbook and get the first worksheet
-            Workbook workbook = new Workbook();
-            Worksheet sheet = workbook.Worksheets[0];
-
-            // 2. Populate sample data (Months vs. Sales for three products)
-            //    The data range is A1:D5.
-            sheet.Cells["A1"].PutValue("Month");
-            sheet.Cells["B1"].PutValue("Product A");
-            sheet.Cells["C1"].PutValue("Product B");
-            sheet.Cells["D1"].PutValue("Product C");
-
-            string[] months = { "Jan", "Feb", "Mar", "Apr" };
-            double[] productA = { 12000, 15000, 13000, 17000 };
-            double[] productB = { 8000,  9000,  9500, 11000 };
-            double[] productC = { 6000,  7000,  6500,  8000 };
-
-            for (int i = 0; i < months.Length; i++)
-            {
-                sheet.Cells[i + 1, 0].PutValue(months[i]);        // Column A – Month
-                sheet.Cells[i + 1, 1].PutValue(productA[i]);     // Column B – Product A
-                sheet.Cells[i + 1, 2].PutValue(productB[i]);     // Column C – Product B
-                sheet.Cells[i + 1, 3].PutValue(productC[i]);     // Column D – Product C
-            }
-
-            // 3. Add a new chart of type Area3DStacked
-            int chartIndex = sheet.Charts.Add(ChartType.Area3DStacked);
-            Chart chart = sheet.Charts[chartIndex];
-
-            // Position the chart (upper left row, column, lower right row, column)
-            chart.Position = 5;   // Row index where the chart starts
-            chart.Height = 20;    // Height in rows
-            chart.X = 0;          // Column index where the chart starts
-            chart.Y = 5;          // Column offset (in pixels)
-
-            // 4. Set the data source for the chart
-            //    Data Range: A1:D5, Category Axis (X) – column A, Series – columns B‑D
-            chart.NSeries.Add("=Sheet1!$B$2:$D$5", true);
-            chart.CategoryAxis.TickLabels.NumberFormat = "@"; // Treat categories as text
-
-            // 5. Customize chart appearance
-            chart.Title.Text = "Quarterly Sales – Area3DStacked Chart";
-            chart.Title.Font.IsBold = true;
-            chart.Title.Font.Size = 12;
-
-            // Set the chart style (optional – choose any from 1 to 48)
-            chart.Style = 23; // Predefined built‑in style
-
-            // 6. Save the workbook in the desired format
-            workbook.Save("Area3DStackedChart.xlsx");
-        }
-    }
-}
-```
+{{< gist "aspose-cells-gists" "59a1901d62ea9ceb08456a818431a898" "Landingpages-LLM-create-Landingpages-LLM-create-Area3DStackedChart.cs" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 
@@ -142,14 +75,6 @@ XLSX is the default workbook format for Microsoft Excel 2007 and later. It follo
 {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="Other Supported Chart Formats" subTitle="Aspose.Cells can create the same Area3DStacked chart in multiple Excel file types." >}}
-
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/chart/area-3d-stacked-to-xls/" name="XLS" description="Microsoft Excel Spreadsheet (Legacy)" >}} 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/chart/area-3d-stacked-to-xlsx/" name="XLSX" description="Open XML Workbook" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/chart/area-3d-stacked-to-xlsb/" name="XLSB" description="Excel Binary Workbook" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/chart/area-3d-stacked-to-xlsm/" name="XLSM" description="Macro‑enabled Spreadsheet" >}} 
-
-{{< /blocks/products/pf/agp/other-supported-section >}}
 
 {{< /blocks/products/pf/main-container >}}
     

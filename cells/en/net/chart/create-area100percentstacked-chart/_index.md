@@ -45,73 +45,9 @@ Aspose.Cells for .NET runs on any platform that supports **.NET Framework 4.5+
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="Create Area100PercentStacked Chart – C#" offSpacer="" %}}
-```csharp
-using System;
-using Aspose.Cells;
-using Aspose.Cells.Charts;
 
-namespace Area100PercentStackedChartDemo
-{
-    class Program
-    {
-        static void Main()
-        {
-            // 1. Create a new workbook and get the first worksheet.
-            Workbook workbook = new Workbook();
-            Worksheet sheet = workbook.Worksheets[0];
+{{< gist "aspose-cells-gists" "59a1901d62ea9ceb08456a818431a898" "Landingpages-LLM-create-Area100PercentStackedChart.cs" >}}
 
-            // 2. Fill sample data – three series for the year 2020‑2022.
-            //    Row 0: Header row (Category + Series names)
-            sheet.Cells["A1"].Value = "Month";
-            sheet.Cells["B1"].Value = "Product A";
-            sheet.Cells["C1"].Value = "Product B";
-            sheet.Cells["D1"].Value = "Product C";
-
-            string[] months = { "Jan", "Feb", "Mar", "Apr", "May", "Jun" };
-            double[,] values = {
-                { 30, 20, 10 },   // Jan
-                { 40, 25, 15 },   // Feb
-                { 35, 30, 20 },   // Mar
-                { 45, 35, 25 },   // Apr
-                { 50, 40, 30 },   // May
-                { 55, 45, 35 }    // Jun
-            };
-
-            for (int i = 0; i < months.Length; i++)
-            {
-                // Category (month) column
-                sheet.Cells[i + 1, 0].Value = months[i];
-
-                // Series values
-                sheet.Cells[i + 1, 1].Value = values[i, 0]; // Product A
-                sheet.Cells[i + 1, 2].Value = values[i, 1]; // Product B
-                sheet.Cells[i + 1, 3].Value = values[i, 2]; // Product C
-            }
-
-            // 3. Add a chart to the worksheet (positioned at cells F2 to O16).
-            int chartIndex = sheet.Charts.Add(ChartType.Area100PercentStacked, 1, 5, 15, 14);
-            Chart chart = sheet.Charts[chartIndex];
-
-            // 4. Set the data source for the chart.
-            //    The first column (A) contains categories, B‑D contain series data.
-            chart.NSeries.Add("=Sheet1!$B$2:$D$7", true);
-
-            // 5. Assign the category (X) axis data.
-            chart.NSeries.CategoryData = "=Sheet1!$A$2:$A$7";
-
-            // 6. (Optional) Apply a built‑in style for better visual appearance.
-            chart.Style = 2; // Predefined chart style (you can try values 1‑13).
-
-            // 7. Set a chart title.
-            chart.Title.Text = "Sales Distribution (100% Stacked Area)";
-            chart.Title.IsVisible = true;
-
-            // 8. Save the workbook to an XLSX file.
-            workbook.Save("Area100PercentStackedChart.xlsx");
-        }
-    }
-}
-```
 {{% /blocks/products/pf/agp/code-block %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
@@ -130,14 +66,6 @@ XLSX is the default file format for Microsoft Excel 2007 and later. It is a zi
 {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="Other Supported Chart Types" subTitle="Aspose.Cells can create many other chart types. Below are a few examples you might find useful." >}}
-
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/chart/area-100-stacked/" name="Area100PercentStacked" description="100 % Stacked Area Chart" >}} 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/chart/line/" name="Line" description="Standard Line Chart" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/chart/pie/" name="Pie" description="Pie and Doughnut Charts" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/chart/bar/" name="Bar" description="Clustered, Stacked and 100 % Stacked Bar Charts" >}}
-
-{{< /blocks/products/pf/agp/other-supported-section >}}
 
 {{< /blocks/products/pf/main-container >}}
     

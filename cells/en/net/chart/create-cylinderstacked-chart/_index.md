@@ -60,75 +60,7 @@ The solution runs on any platform supporting **.NET Framework**, **.NET Core**, 
 
 {{% blocks/products/pf/agp/code-block title="Create CylinderStacked Chart – C#" offSpacer="" %}}
 
-```csharp
-using System;
-using Aspose.Cells;
-using Aspose.Cells.Charts;
-
-namespace CylinderStackedChartDemo
-{
-    class Program
-    {
-        static void Main()
-        {
-            // 1. Create a new workbook.
-            Workbook workbook = new Workbook();
-
-            // 2. Access the first worksheet.
-            Worksheet sheet = workbook.Worksheets[0];
-            Cells cells = sheet.Cells;
-
-            // 3. Populate worksheet with sample data.
-            // Header row.
-            cells["A1"].PutValue("Month");
-            cells["B1"].PutValue("Product A");
-            cells["C1"].PutValue("Product B");
-            cells["D1"].PutValue("Product C");
-
-            // Data rows.
-            string[] months = { "Jan", "Feb", "Mar", "Apr", "May", "Jun" };
-            int[,] sales = {
-                { 120,  85,  45 },
-                { 150,  95,  60 },
-                { 130, 110,  70 },
-                { 170, 130,  80 },
-                { 160, 125,  90 },
-                { 180, 140, 100 }
-            };
-
-            for (int i = 0; i < months.Length; i++)
-            {
-                cells[i + 1, 0].PutValue(months[i]);               // Column A – Month
-                cells[i + 1, 1].PutValue(sales[i, 0]);            // Column B – Product A
-                cells[i + 1, 2].PutValue(sales[i, 1]);            // Column C – Product B
-                cells[i + 1, 3].PutValue(sales[i, 2]);            // Column D – Product C
-            }
-
-            // 4. Add a CylinderStacked chart.
-            int chartIndex = sheet.Charts.Add(ChartType.CylinderStacked, 8, 0, 23, 10);
-            Chart chart = sheet.Charts[chartIndex];
-
-            // 5. Set the data range for the chart.
-            // Series range: B2:D7 (sales values)
-            // Category range: A2:A7 (months)
-            chart.NSeries.Add("=Sheet1!$B$2:$D$7", true);
-            chart.NSeries.CategoryData = "=Sheet1!$A$2:$A$7";
-
-            // 6. Customize chart appearance.
-            chart.Title.Text = "Monthly Sales – Cylinder Stacked Chart";
-            chart.Title.Font.IsBold = true;
-            chart.Legend.Position = LegendPositionType.Right;
-
-            // Optional: Set plot area formatting.
-            chart.PlotArea.Area.Type = AreaType.Full;
-            chart.PlotArea.Area.ForegroundColor = System.Drawing.Color.LightGray;
-
-            // 7. Save the workbook.
-            workbook.Save("CylinderStackedChart.xlsx");
-        }
-    }
-}
-```
+{{< gist "aspose-cells-gists" "59a1901d62ea9ceb08456a818431a898" "Landingpages-LLM-create-CylinderStackedChart.cs" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 
@@ -152,14 +84,6 @@ XLSX is the default file format of Microsoft Excel 2007 and later. It is a ZIP p
 {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="Other Supported Chart Types" subTitle="Aspose.Cells can generate many other chart types. Below are a few examples." >}}
-
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/chart/insert-column-chart/" name="ColumnChart" description="Standard column chart." >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/chart/insert-pie-chart/" name="PieChart" description="2‑D Pie Chart." >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/chart/insert-pyramid-chart/" name="PyramidChart" description="Pyramid chart type." >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/chart/insert-bubble-chart/" name="BubbleChart" description="Bubble chart for multi‑dimensional data." >}}
-
-{{< /blocks/products/pf/agp/other-supported-section >}}
 
 {{< /blocks/products/pf/main-container >}}
 {{< /blocks/products/pf/main-wrap-class >}}

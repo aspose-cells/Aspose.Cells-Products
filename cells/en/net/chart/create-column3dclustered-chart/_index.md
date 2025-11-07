@@ -62,71 +62,8 @@ Install-Package Aspose.Cells
 
 {{% blocks/products/pf/agp/code-block title="Create Column3DClustered chart in XLSX – C#" offSpacer="" %}}
 
-```csharp
-using System;
-using Aspose.Cells;
-using Aspose.Cells.Charts;
+{{< gist "aspose-cells-gists" "59a1901d62ea9ceb08456a818431a898" "Landingpages-LLM-create-Column3DClusteredChart.cs" >}}
 
-namespace AsposeCellsChartExample
-{
-    class Program
-    {
-        static void Main()
-        {
-            // ------------------------------------------------------------
-            // 1. Create a new workbook and get the first worksheet
-            // ------------------------------------------------------------
-            Workbook workbook = new Workbook();
-            Worksheet sheet = workbook.Worksheets[0];
-            Cells cells = sheet.Cells;
-
-            // ------------------------------------------------------------
-            // 2. Populate the worksheet with sample data
-            // ------------------------------------------------------------
-            // Header row
-            cells["A1"].PutValue("Month");
-            cells["B1"].PutValue("Product A");
-            cells["C1"].PutValue("Product B");
-
-            // Data rows
-            string[] months = { "Jan", "Feb", "Mar", "Apr", "May" };
-            double[] productA = { 120, 140, 130, 150, 160 };
-            double[] productB = { 150, 110, 160, 130, 140 };
-
-            for (int i = 0; i < months.Length; i++)
-            {
-                cells[i + 2, 0].PutValue(months[i]);          // Column A – Month
-                cells[i + 2, 1].PutValue(productA[i]);       // Column B – Product A
-                cells[i + 2, 2].PutValue(productB[i]);       // Column C – Product B
-            }
-
-            // ------------------------------------------------------------
-            // 3. Insert a Column3DClustered chart
-            // ------------------------------------------------------------
-            // Parameters: chart type, upper‑left row, upper‑left column,
-            // lower‑right row, lower‑right column (position on the sheet)
-            int chartIndex = sheet.Charts.Add(ChartType.Column3DClustered, 7, 0, 25, 7);
-            Chart chart = sheet.Charts[chartIndex];
-
-            // Add series – data range B2:C6 (both products)
-            chart.NSeries.Add("=Sheet1!$B$2:$C$6", true);
-            // Set categories – the month names in column A
-            chart.NSeries.CategoryData = "=Sheet1!$A$2:$A$6";
-
-            // Optional: set a chart title
-            chart.Title.Text = "Quarterly Sales – 3D Column Clustered";
-
-            // Optional: set legend position
-            chart.Legend.Position = LegendPosition.Bottom;
-
-            // ------------------------------------------------------------
-            // 4. Save the workbook
-            // ------------------------------------------------------------
-            workbook.Save("Column3DClusteredChart.xlsx");
-        }
-    }
-}
-```
 
 {{% /blocks/products/pf/agp/code-block %}}
 
@@ -149,15 +86,6 @@ XLSX is the Open XML format for Microsoft Excel workbooks introduced with Office
 
 {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->
-
-{{< blocks/products/pf/agp/other-supported-section title="Other Supported Chart Types" subTitle="Aspose.Cells can generate many additional chart types across all Excel formats." >}}
-
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/chart/insert-pie-chart/" name="PieChart" description="2‑D Pie chart" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/chart/insert-line-chart/" name="LineChart" description="2‑D Line chart" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/chart/insert-area-chart/" name="AreaChart" description="2‑D Area chart" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/chart/insert-scatter-chart/" name="ScatterChart" description="XY (Scatter) chart" >}}
-
-{{< /blocks/products/pf/agp/other-supported-section >}}
 
 {{< /blocks/products/pf/main-container >}}
     

@@ -51,66 +51,7 @@ The library runs on any platform that supports **.NET Framework**, **.NET Core**
 
 {{% blocks/products/pf/agp/code-block title="Create Cylinder Chart in XLSX – C#" offSpacer="" %}}
 
-```csharp
-// ---------------------------------------------------------------------------
-//   Aspose.Cells for .NET – Create Cylinder Chart example
-// ---------------------------------------------------------------------------
-
-using Aspose.Cells;
-using Aspose.Cells.Charts;
-
-namespace AsposeCellsExamples
-{
-    class CreateCylinderChart
-    {
-        static void Main()
-        {
-            // 1. Create a new workbook and get the first worksheet.
-            Workbook workbook = new Workbook();
-            Worksheet sheet = workbook.Worksheets[0];
-
-            // 2. Populate worksheet with sample data.
-            //    Column A – Product names
-            //    Column B – Sales figures
-            sheet.Cells["A1"].Value = "Product";
-            sheet.Cells["B1"].Value = "Sales";
-
-            string[] products = { "Apple", "Banana", "Cherry", "Date", "Elderberry" };
-            int[] sales = { 120, 150, 90, 180, 130 };
-
-            for (int i = 0; i < products.Length; i++)
-            {
-                sheet.Cells[i + 1, 0].Value = products[i];   // A2, A3, ...
-                sheet.Cells[i + 1, 1].Value = sales[i];     // B2, B3, ...
-            }
-
-            // 3. Add a Cylinder chart (3‑D column chart with cylinder style).
-            int chartIndex = sheet.Charts.Add(ChartType.Cylinder, 7, 0, 24, 7);
-            Chart cylinderChart = sheet.Charts[chartIndex];
-
-            // 4. Set the data range for the chart.
-            //    The series will use column B (sales) as values and column A (product) as categories.
-            cylinderChart.NSeries.Add("=Sheet1!$B$2:$B$6", true);
-            cylinderChart.NSeries[0].CategoryData = "=Sheet1!$A$2:$A$6";
-
-            // 5. Customize chart appearance.
-            cylinderChart.Title.Text = "Quarterly Sales – Cylinder Chart";
-            cylinderChart.Title.Font.Size = 12;
-            cylinderChart.Title.Font.IsBold = true;
-
-            // Axis titles
-            cylinderChart.CategoryAxis.Title.Text = "Product";
-            cylinderChart.ValueAxis.Title.Text = "Sales (Units)";
-
-            // Apply a built‑in style.
-            cylinderChart.Style = 13; // Choose a predefined style index.
-
-            // 6. Save the workbook as XLSX.
-            workbook.Save("CylinderChart.xlsx");
-        }
-    }
-}
-```
+{{< gist "aspose-cells-gists" "59a1901d62ea9ceb08456a818431a898" "Landingpages-LLM-create-CylinderChart.cs" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 
@@ -134,14 +75,6 @@ XLSX is Microsoft’s modern Open XML spreadsheet format introduced with Office 
 {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="Other Supported Chart Types" subTitle="Aspose.Cells can generate many additional chart types for Excel, including the ones listed below." >}}
-
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/chart/add-pie-chart-to-xlsx/" name="Pie Chart" description="2‑D Pie chart with slice explode options." >}} 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/chart/add-pyramid-chart-to-xlsx/" name="Pyramid Chart" description="3‑D Pyramid chart for hierarchical data." >}} 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/chart/add-area-chart-to-xlsx/" name="Area Chart" description="Stacked and 100% stacked area charts." >}} 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/chart/add-scatter-chart-to-xlsx/" name="Scatter Chart" description="XY scatter plot for scientific data." >}} 
-
-{{< /blocks/products/pf/agp/other-supported-section >}}
 
 {{< /blocks/products/pf/main-container >}}
 

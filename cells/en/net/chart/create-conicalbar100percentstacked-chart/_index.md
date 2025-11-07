@@ -60,72 +60,7 @@ Install-Package Aspose.Cells
 
 {{% blocks/products/pf/agp/code-block title="Create ConicalBar100PercentStacked Chart - C#" offSpacer="" %}}
 
-```csharp
-using System;
-using Aspose.Cells;
-using Aspose.Cells.Charts;
-
-namespace AsposeCellsExamples
-{
-    class CreateConicalBar100PercentStackedChart
-    {
-        static void Main()
-        {
-            // 1. Instantiate a new Workbook.
-            Workbook workbook = new Workbook();
-
-            // 2. Access the first worksheet.
-            Worksheet sheet = workbook.Worksheets[0];
-            Cells cells = sheet.Cells;
-
-            // 3. Populate worksheet with sample data.
-            //    A       B       C
-            // 1  Category   Q1      Q2
-            // 2  Apples     30      20
-            // 3  Oranges    40      30
-            // 4  Bananas    20      40
-            // 5  Grapes     10      10
-
-            cells["A1"].Value = "Category";
-            cells["B1"].Value = "Q1";
-            cells["C1"].Value = "Q2";
-
-            string[] categories = { "Apples", "Oranges", "Bananas", "Grapes" };
-            int[] q1Values = { 30, 40, 20, 10 };
-            int[] q2Values = { 20, 30, 40, 10 };
-
-            for (int i = 0; i < categories.Length; i++)
-            {
-                cells[i + 1, 0].Value = categories[i];   // Column A
-                cells[i + 1, 1].Value = q1Values[i];    // Column B
-                cells[i + 1, 2].Value = q2Values[i];    // Column C
-            }
-
-            // 4. Add a ConicalBar100PercentStacked chart.
-            //    The chart will be placed with its upper‑left corner at row 7, column 0
-            //    and its lower‑right corner at row 25, column 9.
-            int chartIndex = sheet.Charts.Add(ChartType.ConicalBar100PercentStacked, 7, 0, 25, 9);
-            Chart chart = sheet.Charts[chartIndex];
-
-            // 5. Set the data source for the chart.
-            //    The range A1:C5 contains the categories (first column) and two data series.
-            chart.NSeries.Add("Sheet1!$B$2:$C$5", true);
-            chart.NSeries.CategoryData = "Sheet1!$A$2:$A$5";
-
-            // 6. Optional: Customize chart title and legend.
-            chart.Title.Text = "Quarterly Sales (100% Stacked Conical Bar)";
-            chart.Title.Font.Color = System.Drawing.Color.DarkBlue;
-            chart.Legend.Position = LegendPositionType.Bottom;
-
-            // 7. Optional: Apply a built‑in style.
-            chart.Style = 2; // Choose a predefined chart style (1‑48).
-
-            // 8. Save the workbook as an XLSX file.
-            workbook.Save("ConicalBar100PercentStackedChart.xlsx");
-        }
-    }
-}
-```
+{{< gist "aspose-cells-gists" "59a1901d62ea9ceb08456a818431a898" "Landingpages-LLM-create-ConicalBar100PercentStackedChart.cs" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 
@@ -148,15 +83,6 @@ XLSX is the default file format for Microsoft Excel workbooks introduced with Of
 
 {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->
-
-{{< blocks/products/pf/agp/other-supported-section title="Other Supported Chart Types" subTitle="Aspose.Cells can generate many other chart types; see the examples below." >}}
-
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/chart/insert-pie-chart/" name="Pie Chart" description="Standard pie chart" >}} 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/chart/insert-bar-3d-stack-chart/" name="3D Stacked Bar" description="3‑Dimensional Stacked Bar Chart" >}} 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/chart/insert-line-chart/" name="Line Chart" description="Line chart for trend analysis" >}} 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/chart/insert-scatter-chart/" name="Scatter Chart" description="Scatter plot with markers" >}} 
-
-{{< /blocks/products/pf/agp/other-supported-section >}}
 
 {{< /blocks/products/pf/main-container >}}
     

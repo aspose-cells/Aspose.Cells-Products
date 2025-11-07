@@ -51,90 +51,8 @@ Aspose.Cells for .NET works on any platform that supports **.NET Framework 4.0+*
 
 {{% blocks/products/pf/agp/code-block title="Create AreaStacked Chart in XLSX – C#" offSpacer="" %}}
 
-```csharp
-// ------------------------------------------------------------
-// Aspose.Cells for .NET – Create an AreaStacked chart example
-// ------------------------------------------------------------
+{{< gist "aspose-cells-gists" "59a1901d62ea9ceb08456a818431a898" "Landingpages-LLM-create-AreaStackedChart.cs" >}}
 
-using System;
-using Aspose.Cells;
-using Aspise.Cells.Charts;   // Note: The correct namespace for chart types is Aspose.Cells.Charts
-
-namespace AsposeCellsSamples
-{
-    class CreateAreaStackedChart
-    {
-        static void Main()
-        {
-            // 1. Instantiate a new Workbook.
-            Workbook workbook = new Workbook();
-
-            // 2. Access the first worksheet.
-            Worksheet sheet = workbook.Worksheets[0];
-
-            // 3. Populate sample data.
-            // Header row
-            sheet.Cells["A1"].Value = "Month";
-            sheet.Cells["B1"].Value = "Product A";
-            sheet.Cells["C1"].Value = "Product B";
-            sheet.Cells["D1"].Value = "Product C";
-
-            // Data rows
-            string[] months = { "Jan", "Feb", "Mar", "Apr", "May", "Jun" };
-            int[,] sales = {
-                { 120,  85,  70 },
-                { 150,  95,  80 },
-                { 170, 110,  90 },
-                { 130,  70,  60 },
-                { 190, 130, 100 },
-                { 210, 150, 120 }
-            };
-
-            for (int i = 0; i < months.Length; i++)
-            {
-                // Month name
-                sheet.Cells[i + 1, 0].Value = months[i];
-
-                // Sales figures for each product
-                sheet.Cells[i + 1, 1].Value = sales[i, 0];
-                sheet.Cells[i + 1, 2].Value = sales[i, 1];
-                sheet.Cells[i + 1, 3].Value = sales[i, 2];
-            }
-
-            // 4. Add a chart of type AreaStacked.
-            int chartIndex = sheet.Charts.Add(ChartType.AreaStacked, 8, 0, 22, 9);
-            Chart chart = sheet.Charts[chartIndex];
-
-            // 5. Set the chart data source.
-            // The data range includes the header row and all data rows.
-            chart.NSeries.Add("=Sheet1!$B$1:$D$7", true);
-            // Set the X‑axis (category) data – months.
-            chart.NSeries.CategoryData = "=Sheet1!$A$2:$A$7";
-
-            // 6. Customize chart appearance.
-            chart.Title.Text = "Monthly Sales – Stacked Area Chart";
-            chart.Title.Font.Size = 12;
-            chart.Title.Font.IsBold = true;
-
-            // X‑axis title
-            chart.CategoryAxis.Title.Text = "Month";
-            chart.CategoryAxis.Title.Font.IsBold = true;
-
-            // Y‑axis title
-            chart.ValueAxis.Title.Text = "Units Sold";
-            chart.ValueAxis.Title.Font.IsBold = true;
-
-            // Apply a predefined style (optional)
-            chart.Style = 2; // Picks a built‑in chart style
-
-            // 7. Save the workbook as XLSX.
-            workbook.Save("AreaStackedChart.xlsx");
-
-            Console.WriteLine("AreaStacked chart created successfully.");
-        }
-    }
-}
-```
 
 {{% /blocks/products/pf/agp/code-block %}}
 
@@ -158,14 +76,6 @@ XLSX is the modern Open XML format for Microsoft Excel workbooks introduced with
 {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="Other Supported Chart Types" subTitle="Aspose.Cells also lets you create a variety of Excel chart types, including but not limited to:" >}}
-
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/chart/insert-pie-chart/" name="Pie Chart" description="Circular chart for showing proportions." >}} 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/chart/insert-line-chart/" name="Line Chart" description="Trend visualization over a continuous axis." >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/chart/insert-bar-chart/" name="Bar Chart" description="Horizontal bar representation of data." >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/chart/insert-scatter-chart/" name="Scatter Chart" description="Plotting X‑Y value pairs." >}}
-
-{{< /blocks/products/pf/agp/other-supported-section >}}
 
 {{< /blocks/products/pf/main-container >}}
     

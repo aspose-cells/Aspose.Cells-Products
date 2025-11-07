@@ -53,86 +53,7 @@ Aspose.Cells for .NET runs on any platform that supports **.NET Framework 4.x*
 
 {{% blocks/products/pf/agp/code-block title="Create Column 100 % Stacked Chart – C#" offSpacer="" %}}
 
-```csharp
-// ---------------------------------------------------------------
-//  Example: Create a Column 100% Stacked chart in an XLSX file
-// ---------------------------------------------------------------
-using System;
-using Aspose.Cells;
-using Aspose.Cells.Charts;
-
-namespace AsposeCellsChartDemo
-{
-    class Program
-    {
-        static void Main()
-        {
-            // 1. Create a new workbook.
-            Workbook workbook = new Workbook();
-
-            // 2. Access the first worksheet.
-            Worksheet sheet = workbook.Worksheets[0];
-
-            // 3. Populate worksheet with sample data.
-            //    The data layout matches the typical chart source format:
-            //    Row 0 – Category names (e.g., Quarters)
-            //    Row 1..n – Series values.
-            sheet.Cells["A1"].Value = "Quarter";
-            sheet.Cells["B1"].Value = "Product A";
-            sheet.Cells["C1"].Value = "Product B";
-            sheet.Cells["D1"].Value = "Product C";
-
-            sheet.Cells["A2"].Value = "Q1";
-            sheet.Cells["A3"].Value = "Q2";
-            sheet.Cells["A4"].Value = "Q3";
-            sheet.Cells["A5"].Value = "Q4";
-
-            // Product A values
-            sheet.Cells["B2"].Value = 30;
-            sheet.Cells["B3"].Value = 40;
-            sheet.Cells["B4"].Value = 20;
-            sheet.Cells["B5"].Value = 10;
-
-            // Product B values
-            sheet.Cells["C2"].Value = 20;
-            sheet.Cells["C3"].Value = 30;
-            sheet.Cells["C4"].Value = 40;
-            sheet.Cells["C5"].Value = 50;
-
-            // Product C values
-            sheet.Cells["D2"].Value = 50;
-            sheet.Cells["D3"].Value = 30;
-            sheet.Cells["D4"].Value = 40;
-            sheet.Cells["D5"].Value = 40;
-
-            // 4. Add a Column100PercentStacked chart.
-            //    Parameters: chart type, upper-left row, column, lower-right row, column.
-            int chartIndex = sheet.Charts.Add(ChartType.Column100PercentStacked, 7, 0, 24, 8);
-            Chart chart = sheet.Charts[chartIndex];
-
-            // 5. Set the data source for the chart.
-            //    The data range includes the header row (A1:D5) and the categories (A2:A5).
-            chart.NSeries.Add("=Sheet1!$B$2:$D$5", true);
-
-            // 6. Bind categories (X‑axis labels) to the first column.
-            chart.NSeries.CategoryData = "=Sheet1!$A$2:$A$5";
-
-            // 7. Optional: Customize chart appearance.
-            chart.Title.Text = "Quarterly Sales – 100% Stacked Column Chart";
-            chart.Title.Font.Size = 12;
-            chart.Legend.Position = LegendPositionType.Right;
-
-            // Set a built‑in style for a professional look.
-            chart.Style = 13; // Predefined style index (you can experiment with other indices)
-
-            // 8. Save the workbook.
-            workbook.Save("Column100PercentStackedChart.xlsx");
-
-            Console.WriteLine("Chart created successfully.");
-        }
-    }
-}
-```
+{{< gist "aspose-cells-gists" "59a1901d62ea9ceb08456a818431a898" "Landingpages-LLM-create-Column100PercentStackedChart.cs" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 
@@ -155,15 +76,6 @@ XLSX is the default file format for Microsoft Excel workbooks introduced with 
 
 {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->
-
-{{< blocks/products/pf/agp/other-supported-section title="Other Supported Chart Types" subTitle="Aspose.Cells also lets you create a wide variety of charts in Excel workbooks." >}}
-
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/chart/insert-pie-chart/" name="Pie Chart" description="Circular chart for showing proportions." >}} 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/chart/insert-line-chart/" name="Line Chart" description="Trend analysis over a continuous axis." >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/chart/insert-bar-chart/" name="Bar Chart" description="Horizontal representation of data series." >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/chart/insert-area-chart/" name="Area Chart" description="Cumulative totals displayed as filled areas." >}}
-
-{{< /blocks/products/pf/agp/other-supported-section >}}
 
 {{< /blocks/products/pf/main-container >}}
 

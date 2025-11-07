@@ -53,74 +53,9 @@ Supported on any platform that runs .NET Framework, .NET Core, .NET 5/6/7,
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="Create a Cone chart in XLSX – C#" offSpacer="" %}}
-```csharp
-using System;
-using Aspose.Cells;
-using Aspose.Cells.Charts;
 
-namespace AsposeCellsExamples
-{
-    class CreateConeChart
-    {
-        static void Main()
-        {
-            // 1. Create a new workbook.
-            Workbook workbook = new Workbook();
+{{< gist "aspose-cells-gists" "59a1901d62ea9ceb08456a818431a898" "Landingpages-LLM-create-ConeChartDemo.cs" >}}
 
-            // 2. Access the first worksheet.
-            Worksheet sheet = workbook.Worksheets[0];
-
-            // 3. Populate sample data for the chart.
-            //    Column A – Categories
-            //    Column B – Values
-            sheet.Cells["A1"].Value = "Category";
-            sheet.Cells["B1"].Value = "Value";
-
-            string[] categories = { "A", "B", "C", "D", "E" };
-            int[] values = { 30, 20, 40, 10, 25 };
-
-            for (int i = 0; i < categories.Length; i++)
-            {
-                sheet.Cells[i + 1, 0].Value = categories[i]; // A2:A6
-                sheet.Cells[i + 1, 1].Value = values[i];    // B2:B6
-            }
-
-            // 4. Add a chart of type Cone.
-            int chartIndex = sheet.Charts.Add(ChartType.Cone);
-            Chart coneChart = sheet.Charts[chartIndex];
-
-            // 5. Set the position (row, column) and size (height, width) of the chart.
-            //    Top-left corner at cell D2, height = 15 rows, width = 10 columns.
-            coneChart.Position = new System.Drawing.Point(3, 4); // Row index 3 (D), Column index 4 (E) – zero‑based
-            coneChart.Top = 20;    // Pixels from top of the sheet
-            coneChart.Left = 400;  // Pixels from left of the sheet
-            coneChart.Height = 350;
-            coneChart.Width = 500;
-
-            // 6. Set the data source for the chart.
-            //    Series collection automatically creates a series for the range B2:B6.
-            coneChart.NSeries.Add("=Sheet1!$B$2:$B$6", true);
-            coneChart.NSeries[0].CategoryData = "=Sheet1!$A$2:$A$6";
-
-            // 7. Optional: Add a chart title.
-            coneChart.Title.Text = "Sample Cone Chart";
-            coneChart.Title.Font.IsBold = true;
-            coneChart.Title.Font.Size = 14;
-
-            // 8. Optional: Show the legend.
-            coneChart.ShowLegend = true;
-
-            // 9. Optional: Apply a built‑in chart style.
-            coneChart.ChartArea.AreaStyle = AreaStyleType.Solid;
-            coneChart.ChartArea.ForegroundColor = System.Drawing.Color.FromArgb(255, 255, 255);
-            coneChart.PlotArea.Style = PlotAreaStyleType.StackedColumn;
-
-            // 10. Save the workbook as an XLSX file.
-            workbook.Save("ConeChartDemo.xlsx");
-        }
-    }
-}
-```
 {{% /blocks/products/pf/agp/code-block %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
@@ -142,14 +77,6 @@ XLSX is the Open XML format introduced with Microsoft Office 2007. It stores wo
 
 {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->
-
-{{< blocks/products/pf/agp/other-supported-section title="Other Supported Chart Types" subTitle="Aspose.Cells can create many additional chart types including the ones listed below." >}}
-
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/chart/insert-pie-chart/" name="Pie Chart" description="Standard pie chart for proportionate data" >}} 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/chart/insert-line-chart/" name="Line Chart" description="Trend line visualization over a period" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/chart/insert-bar-chart/" name="Bar Chart" description="Horizontal bar representation of values" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/chart/insert-pyramid-chart/" name="Pyramid Chart" description="Similar to Cone chart but inverted" >}}
-{{< /blocks/products/pf/agp/other-supported-section >}}
 
 {{< /blocks/products/pf/main-container >}}
 

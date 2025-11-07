@@ -60,83 +60,7 @@ Aspose.Cells for .NET works on any operating system that supports **.NET Framewo
 
 {{% blocks/products/pf/agp/code-block title="Create Column3DStacked chart in XLSX - C#" offSpacer="" %}}
 
-```csharp
-using System;
-using Aspose.Cells;
-using Aspose.Cells.Charts;
-
-namespace CreateColumn3DStackedChart
-{
-    class Program
-    {
-        static void Main()
-        {
-            // 1. Create a new workbook.
-            Workbook workbook = new Workbook();
-
-            // 2. Access the first worksheet.
-            Worksheet sheet = workbook.Worksheets[0];
-
-            // 3. Populate the worksheet with sample data.
-            //    Rows: Product categories, Columns: Quarterly sales.
-            sheet.Cells["A1"].Value = "Product";
-            sheet.Cells["B1"].Value = "Q1";
-            sheet.Cells["C1"].Value = "Q2";
-            sheet.Cells["D1"].Value = "Q3";
-            sheet.Cells["E1"].Value = "Q4";
-
-            string[] products = { "Laptop", "Tablet", "Smartphone" };
-            double[,] sales = {
-                { 120, 150, 170, 200 },
-                { 80,  95,  110, 130 },
-                { 200, 220, 250, 300 }
-            };
-
-            for (int i = 0; i < products.Length; i++)
-            {
-                // Product name (column A)
-                sheet.Cells[i + 1, 0].Value = products[i];
-
-                // Quarterly sales (columns B‑E)
-                for (int j = 0; j < 4; j++)
-                {
-                    sheet.Cells[i + 1, j + 1].Value = sales[i, j];
-                }
-            }
-
-            // 4. Add a chart of type Column3DStacked.
-            int chartIndex = sheet.Charts.Add(ChartType.Column3DStacked);
-            Chart columnChart = sheet.Charts[chartIndex];
-
-            // 5. Set the position (top‑left cell, bottom‑right cell) of the chart.
-            columnChart.NTopRow = 7;      // Row where chart starts
-            columnChart.NLeftColumn = 0; // Column where chart starts
-            columnChart.NBottomRow = 22;
-            columnChart.NRightColumn = 9;
-
-            // 6. Define the data range for the chart.
-            //    Data range: A1:E4 (includes headers)
-            columnChart.AddSeries(sheet.Cells["A1:E4"]);
-
-            // 7. Set chart title and axis titles.
-            columnChart.Title.Text = "Quarterly Sales by Product (3‑D Stacked)";
-            columnChart.Title.Font.IsBold = true;
-            columnChart.Title.Font.Size = 12;
-
-            columnChart.CategoryAxis.Title.Text = "Product";
-            columnChart.ValueAxis.Title.Text = "Sales (Units)";
-
-            // 8. Optional: Show data labels.
-            columnChart.ShowDataLabels = true;
-
-            // 9. Save the workbook to an XLSX file.
-            workbook.Save("Column3DStackedChart.xlsx");
-
-            Console.WriteLine("Chart created successfully – 'Column3DStackedChart.xlsx' generated.");
-        }
-    }
-}
-```
+{{< gist "aspose-cells-gists" "59a1901d62ea9ceb08456a818431a898" "Landingpages-LLM-create-Column3DStackedChart.cs" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 
@@ -157,15 +81,6 @@ XLSX is the modern Open XML format used by Microsoft Excel. It stores spreadshee
 
 {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->
-
-{{< blocks/products/pf/agp/other-supported-section title="Other Supported Chart Types" subTitle="Aspose.Cells provides a rich set of chart types that you can create programmatically." >}}
-
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/chart/column-3d-stacked/" name="Column3DStacked" description="3‑D stacked column chart" >}} 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/chart/column-3d/" name="Column3D" description="Standard 3‑D column chart" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/chart/pie-3d/" name="Pie3D" description="3‑D pie chart" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/chart/bar-3d-stacked/" name="Bar3DStacked" description="3‑D stacked bar chart" >}}
-
-{{< /blocks/products/pf/agp/other-supported-section >}}
 
 {{< /blocks/products/pf/main-container >}}
     

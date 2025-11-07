@@ -51,84 +51,7 @@ Aspose.Cells for .NET works on any platform that supports .NET Framework 4.0
 
 {{% blocks/products/pf/agp/code-block title="Create ConeStacked Chart – C#" offSpacer="" %}}
 
-```csharp
-using System;
-using Aspose.Cells;
-using Aspose.Cells.Charts;
-
-namespace ConeStackedChartExample
-{
-    class Program
-    {
-        static void Main()
-        {
-            // Create a new workbook.
-            Workbook workbook = new Workbook();
-
-            // Get the first worksheet.
-            Worksheet sheet = workbook.Worksheets[0];
-
-            // Populate worksheet with sample data.
-            // Row 0: category names (e.g., Product types)
-            // Row 1‑3: series data (e.g., Q1, Q2, Q3)
-            sheet.Cells["A1"].Value = "Product";
-            sheet.Cells["B1"].Value = "Q1";
-            sheet.Cells["C1"].Value = "Q2";
-            sheet.Cells["D1"].Value = "Q3";
-
-            sheet.Cells["A2"].Value = "Apples";
-            sheet.Cells["A3"].Value = "Bananas";
-            sheet.Cells["A4"].Value = "Cherries";
-
-            sheet.Cells["B2"].Value = 120;
-            sheet.Cells["B3"].Value = 150;
-            sheet.Cells["B4"].Value = 180;
-
-            sheet.Cells["C2"].Value = 130;
-            sheet.Cells["C3"].Value = 160;
-            sheet.Cells["C4"].Value = 190;
-
-            sheet.Cells["D2"].Value = 140;
-            sheet.Cells["D3"].Value = 170;
-            sheet.Cells["D4"].Value = 200;
-
-            // Add a chart to the worksheet. The chart will be placed at cells E2 to L15.
-            int chartIndex = sheet.Charts.Add(ChartType.ConeStacked, 1, 4, 15, 12);
-            Chart chart = sheet.Charts[chartIndex];
-
-            // Set chart title.
-            chart.Title.Text = "Quarterly Sales – ConeStacked Chart";
-
-            // Add series for each quarter.
-            // Series 0 – Q1
-            chart.NSeries.Add("B2:B4", true);
-            chart.NSeries[0].Name = "Q1";
-
-            // Series 1 – Q2
-            chart.NSeries.Add("C2:C4", true);
-            chart.NSeries[1].Name = "Q2";
-
-            // Series 2 – Q3
-            chart.NSeries.Add("D2:D4", true);
-            chart.NSeries[2].Name = "Q3";
-
-            // Set category axis (X‑axis) data.
-            chart.CategoryAxis.CategoryLabels = sheet.Cells["A2:A4"];
-
-            // Apply a built‑in style to the chart.
-            chart.Style = ChartStyle.Type1; // Choose any style you prefer
-
-            // Optionally, customize the appearance.
-            chart.PlotArea.Area.Border.IsVisible = false; // Hide plot area border
-
-            // Save the workbook as XLSX.
-            workbook.Save("ConeStackedChart.xlsx");
-
-            Console.WriteLine("ConeStacked chart created successfully.");
-        }
-    }
-}
-```
+{{< gist "aspose-cells-gists" "59a1901d62ea9ceb08456a818431a898" "Landingpages-LLM-create-ConeStackedChart.cs" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 
@@ -151,15 +74,6 @@ XLSX is the Open XML format introduced with Microsoft Office 2007. It stores wor
 
 {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->
-
-{{< blocks/products/pf/agp/other-supported-section title="Other Supported Chart Types" subTitle="Aspose.Cells can generate many more chart types besides ConeStacked." >}}
-
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/chart/pie/" name="Pie" description="Standard Pie Chart" >}} 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/chart/bar/" name="Bar" description="2‑D Bar Chart" >}} 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/chart/line/" name="Line" description="Line Chart" >}} 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/chart/area/" name="Area" description="Area Chart" >}} 
-
-{{< /blocks/products/pf/agp/other-supported-section >}}
 
 {{< /blocks/products/pf/main-container >}}
 {{< /blocks/products/pf/main-wrap-class >}}

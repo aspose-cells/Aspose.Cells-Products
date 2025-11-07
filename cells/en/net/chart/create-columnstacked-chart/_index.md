@@ -53,76 +53,8 @@ Aspose.Cells for .NET runs on any platform that supports .NET Framework, .NET Co
 
 {{% blocks/products/pf/agp/code-block title="Create ColumnStacked chart - C#" offSpacer="" %}}
 
-```csharp
-using System;
-using Aspose.Cells;
-using Aspose.Cells.Drawing;
+{{< gist "aspose-cells-gists" "59a1901d62ea9ceb08456a818431a898" "Landingpages-LLM-create-ColumnStackedChart.cs" >}}
 
-namespace AsposeCellsColumnStackedChart
-{
-    class Program
-    {
-        static void Main()
-        {
-            // 1. Create a new workbook.
-            Workbook workbook = new Workbook();
-
-            // 2. Access the first worksheet.
-            Worksheet sheet = workbook.Worksheets[0];
-            Cells cells = sheet.Cells;
-
-            // 3. Populate sample data for the stacked column chart.
-            //    Row 0 – Header
-            //    Rows 1..4 – Data series
-            string[] categories = { "Q1", "Q2", "Q3", "Q4" };
-            double[][] seriesData = {
-                new double[] { 20, 25, 30, 35 }, // Series A
-                new double[] { 15, 20, 25, 30 }, // Series B
-                new double[] { 10, 15, 20, 25 }  // Series C
-            };
-
-            // Write headers.
-            cells[0, 0].Value = "Quarter";
-            cells[0, 1].Value = "Series A";
-            cells[0, 2].Value = "Series B";
-            cells[0, 3].Value = "Series C";
-
-            // Write categories and data.
-            for (int i = 0; i < categories.Length; i++)
-            {
-                cells[i + 1, 0].Value = categories[i];
-                cells[i + 1, 1].Value = seriesData[0][i];
-                cells[i + 1, 2].Value = seriesData[1][i];
-                cells[i + 1, 3].Value = seriesData[2][i];
-            }
-
-            // 4. Add a stacked column chart to the worksheet.
-            int chartIndex = sheet.Charts.Add(ChartType.ColumnStacked, 6, 0, 20, 9);
-            Chart chart = sheet.Charts[chartIndex];
-
-            // 5. Set the data source for the chart.
-            //    The data range includes headers (A1:D5).
-            chart.NSeries.Add("=Sheet1!$B$1:$D$5", true);
-            //    Set category (X) axis data – quarters.
-            chart.NSeries.CategoryData = "=Sheet1!$A$2:$A$5";
-
-            // 6. Optional: Customize chart appearance.
-            chart.Title.Text = "Quarterly Sales – Stacked Column";
-            chart.Title.Font.Size = 12;
-            chart.Title.Font.IsBold = true;
-
-            // Show legend.
-            chart.ShowLegend = true;
-
-            // Set a custom style (optional).
-            chart.Style = 2; // Pre‑defined style ID.
-
-            // 7. Save the workbook to XLSX format.
-            workbook.Save("ColumnStackedChart.xlsx");
-        }
-    }
-}
-```
 
 {{% /blocks/products/pf/agp/code-block %}}
 
@@ -145,15 +77,6 @@ XLSX is the default file format for Microsoft Excel workbooks introduced with Of
 
 {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->
-
-{{< blocks/products/pf/agp/other-supported-section title="Other Supported Chart Types" subTitle="Aspose.Cells also supports numerous other chart types for Excel files." >}}
-
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/chart/column/" name="Column Chart" description="Standard column chart." >}} 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/chart/line/" name="Line Chart" description="Line graph representation." >}} 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/chart/pie/" name="Pie Chart" description="Circular chart for proportion data." >}} 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/chart/bar/" name="Bar Chart" description="Horizontal bar chart." >}} 
-
-{{< /blocks/products/pf/agp/other-supported-section >}}
 
 {{< /blocks/products/pf/main-container >}}
     

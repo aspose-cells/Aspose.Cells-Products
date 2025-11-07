@@ -52,75 +52,7 @@ Aspose.Cells for .NET works on any platform that supports **.NET Framework 4.0+*
 
 {{% blocks/products/pf/agp/code-block title="Create Area3D Chart - C#" offSpacer="" %}}
 
-```csharp
-using System;
-using Aspose.Cells;
-using Aspose.Cells.Charts;
-
-namespace AsposeCellsArea3DChartDemo
-{
-    class Program
-    {
-        static void Main()
-        {
-            // 1. Create a new workbook.
-            Workbook workbook = new Workbook();
-
-            // 2. Access the first worksheet.
-            Worksheet sheet = workbook.Worksheets[0];
-
-            // 3. Populate the worksheet with sample data.
-            //    Row 0: header
-            //    Rows 1‑5: data series
-            sheet.Cells["A1"].Value = "Month";
-            sheet.Cells["B1"].Value = "Product A";
-            sheet.Cells["C1"].Value = "Product B";
-            sheet.Cells["D1"].Value = "Product C";
-
-            string[] months = { "Jan", "Feb", "Mar", "Apr", "May" };
-            double[] productA = { 120, 150, 170, 130, 190 };
-            double[] productB = { 80, 110, 130, 95, 140 };
-            double[] productC = { 60, 90, 100, 85, 120 };
-
-            for (int i = 0; i < months.Length; i++)
-            {
-                sheet.Cells[i + 1, 0].Value = months[i];    // Column A – Month
-                sheet.Cells[i + 1, 1].Value = productA[i]; // Column B – Product A
-                sheet.Cells[i + 1, 2].Value = productB[i]; // Column C – Product B
-                sheet.Cells[i + 1, 3].Value = productC[i]; // Column D – Product C
-            }
-
-            // 4. Add a new Area3D chart to the worksheet.
-            int chartIndex = sheet.Charts.Add(ChartType.Area3D, 7, 0, 25, 7);
-            Chart chart = sheet.Charts[chartIndex];
-
-            // 5. Set the data source for the chart.
-            //    The first row (A1:D1) contains series names.
-            //    The first column (A2:A6) contains categories (months).
-            //    Data range: B2:D6 (values for each product).
-            chart.NSeries.Add("=Sheet1!$B$2:$D$6", true);
-            chart.NSeries.CategoryData = "=Sheet1!$A$2:$A$6";
-
-            // 6. Customize appearance.
-            chart.Title.Text = "Monthly Sales – 3D Area Chart";
-            chart.Title.Font.Size = 12;
-            chart.Legend.Position = LegendPositionType.Right;
-
-            // Axis titles (optional)
-            chart.CategoryAxis.Title.Text = "Month";
-            chart.ValueAxis.Title.Text = "Units Sold";
-
-            // Apply a predefined chart style.
-            chart.Style = 13; // Equivalent to built‑in style #13.
-
-            // 7. Save the workbook.
-            workbook.Save("Area3DChartDemo.xlsx");
-
-            Console.WriteLine("Workbook with Area3D chart created successfully.");
-        }
-    }
-}
-```
+{{< gist "aspose-cells-gists" "59a1901d62ea9ceb08456a818431a898" "Landingpages-LLM-create-Area3DChart.cs" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 
@@ -144,14 +76,6 @@ XLSX is the default Office Open XML format for Microsoft Excel. It stores workbo
 {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="Other Supported Chart Formats" subTitle="Aspose.Cells can generate a wide range of chart types for multiple Excel formats." >}}
-
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/chart/area2d/" name="Area2D" description="Two‑dimensional Area chart" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/chart/bar/" name="Bar" description="Bar chart (2D/3D)" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/chart/pie/" name="Pie" description="Pie chart (2D/3D)" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/chart/scatter/" name="Scatter" description="Scatter (XY) chart" >}}
-
-{{< /blocks/products/pf/agp/other-supported-section >}}
 
 {{< /blocks/products/pf/main-container >}}
     

@@ -50,70 +50,9 @@ Aspose.Cells for .NET works on any platform that supports .NET Framework, .NET C
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="Create SurfaceContour Chart – C#" offSpacer="" %}}
-```csharp
-using System;
-using Aspose.Cells;
-using Aspose.Cells.Charts;
 
-namespace SurfaceContourChartDemo
-{
-    class Program
-    {
-        static void Main()
-        {
-            // 1. Create a new workbook.
-            Workbook workbook = new Workbook();
+{{< gist "aspose-cells-gists" "59a1901d62ea9ceb08456a818431a898" "Landingpages-LLM-create-SurfaceContourChart.cs" >}}
 
-            // 2. Access the first worksheet.
-            Worksheet sheet = workbook.Worksheets[0];
-            Cells cells = sheet.Cells;
-
-            // 3. Populate the worksheet with sample data.
-            //    The data range consists of 5 rows x 5 columns.
-            double[,] data = new double[,]
-            {
-                { 10, 12, 14, 16, 18 },
-                { 20, 22, 24, 26, 28 },
-                { 30, 32, 34, 36, 38 },
-                { 40, 42, 44, 46, 48 },
-                { 50, 52, 54, 56, 58 }
-            };
-
-            for (int row = 0; row < data.GetLength(0); row++)
-            {
-                for (int col = 0; col < data.GetLength(1); col++)
-                {
-                    cells[row, col].PutValue(data[row, col]);
-                }
-            }
-
-            // 4. Add a chart of type SurfaceContour.
-            int chartIdx = sheet.Charts.Add(ChartType.SurfaceContour);
-            Chart chart = sheet.Charts[chartIdx];
-
-            // 5. Set the position of the chart (row, column, offsetX, offsetY, width, height).
-            chart.Row = 7;          // starts from row 8 (zero‑based index)
-            chart.Column = 0;       // column A
-            chart.Height = 400;     // pixels
-            chart.Width = 600;      // pixels
-
-            // 6. Set the data source for the chart – the same range we filled above.
-            chart.NSeries.Add("=Sheet1!A1:E5", true);
-
-            // 7. Add a title to the chart.
-            chart.Title.Text = "SurfaceContour Chart Example";
-
-            // 8. (Optional) Customize the chart appearance.
-            chart.Legend.Position = LegendPositionType.Right;
-
-            // 9. Save the workbook as an XLSX file.
-            workbook.Save("SurfaceContourChart.xlsx");
-
-            Console.WriteLine("SurfaceContour chart created successfully.");
-        }
-    }
-}
-```
 {{% /blocks/products/pf/agp/code-block %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
@@ -136,14 +75,6 @@ XLSX is the default file format for Microsoft Excel workbooks introduced with Of
 {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="Other Supported Chart Types" subTitle="Aspose.Cells can generate a wide variety of chart types beyond SurfaceContour." >}}
-
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/chart/create-pie-chart/" name="Pie Chart" description="Pie and Doughnut charts" >}} 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/chart/create-bar-chart/" name="Bar Chart" description="Clustered, Stacked, 100% Stacked bars" >}} 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/chart/create-line-chart/" name="Line Chart" description="Standard line and spline charts" >}} 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/chart/create-area-chart/" name="Area Chart" description="Area and stacked area visualizations" >}} 
-
-{{< /blocks/products/pf/agp/other-supported-section >}}
 
 {{< /blocks/products/pf/main-container >}}
     

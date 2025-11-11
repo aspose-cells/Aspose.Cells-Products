@@ -62,75 +62,8 @@ The solution works on any platform that supports **.NET Framework 4.0+**, **.NE
 
 {{% blocks/products/pf/agp/code-block title="Create Pyramid100PercentStacked Chart – C#" offSpacer="" %}}
 
-```csharp
-using System;
-using Aspose.Cells;
-using Aspose.Cells.Charts;
+{{< gist "aspose-cells-gists" "59a1901d62ea9ceb08456a818431a898" "Landingpages-LLM-create-Pyramid100PercentStackedChart.cs" >}}
 
-namespace PyramidChartDemo
-{
-    class Program
-    {
-        static void Main()
-        {
-            // 1. Create a new workbook and get the first worksheet.
-            Workbook workbook = new Workbook();
-            Worksheet sheet = workbook.Worksheets[0];
-
-            // 2. Populate sample data.
-            //    The data layout follows the typical structure required for a stacked chart:
-            //    Column A – Category names
-            //    Columns B, C, D – Series values
-            sheet.Cells["A1"].Value = "Category";
-            sheet.Cells["B1"].Value = "Series 1";
-            sheet.Cells["C1"].Value = "Series 2";
-            sheet.Cells["D1"].Value = "Series 3";
-
-            string[] categories = { "Q1", "Q2", "Q3", "Q4" };
-            int[,] values = {
-                { 30, 20, 10 },
-                { 20, 30, 20 },
-                { 25, 15, 30 },
-                { 15, 25, 35 }
-            };
-
-            for (int i = 0; i < categories.Length; i++)
-            {
-                sheet.Cells[i + 1, 0].Value = categories[i];   // Category label
-                sheet.Cells[i + 1, 1].Value = values[i, 0];   // Series 1
-                sheet.Cells[i + 1, 2].Value = values[i, 1];   // Series 2
-                sheet.Cells[i + 1, 3].Value = values[i, 2];   // Series 3
-            }
-
-            // 3. Add a Pyramid 100% Stacked chart.
-            int chartIndex = sheet.Charts.Add(ChartType.Pyramid100PercentStacked);
-            Chart chart = sheet.Charts[chartIndex];
-
-            // Position the chart (optional).
-            chart.Position.Row = 6;
-            chart.Position.Column = 0;
-            chart.Position.Height = 20;   // Height in rows
-            chart.Position.Width = 12;    // Width in columns
-
-            // 4. Set the data source for the chart.
-            //    Row/column style (true = series in rows, false = series in columns)
-            //    Here we use columns for series (default = false).
-            chart.NSeries.Add("=Sheet1!$B$2:$D$5", true);
-            chart.CategoryData = "=Sheet1!$A$2:$A$5";
-
-            // 5. Optional: customise appearance.
-            chart.Title.Text = "Sales Distribution – 100% Stacked Pyramid";
-            chart.Title.IsVisible = true;
-            chart.Legend.Position = LegendPositionType.Right;
-
-            // 6. Save the workbook.
-            workbook.Save("Pyramid100PercentStackedChart.xlsx");
-
-            Console.WriteLine("Pyramid 100% Stacked chart created successfully.");
-        }
-    }
-}
-```
 
 {{% /blocks/products/pf/agp/code-block %}}
 
@@ -154,14 +87,6 @@ XLSX is the default Open XML format for Microsoft Excel workbooks. It stores dat
 {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="Other Supported Chart Formats" subTitle="Aspose.Cells can generate the same Pyramid chart in other Excel formats as well." >}}
-
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/chart/pyramid-100-percent-stacked/xls/" name="XLS" description="Microsoft Excel 97‑2003 Workbook (Legacy)" >}} 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/chart/pyramid-100-percent-stacked/xlsb/" name="XLSB" description="Excel Binary Workbook" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/chart/pyramid-100-percent-stacked/xlsm/" name="XLSM" description="Macro‑Enabled Workbook" >}} 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/chart/pyramid-100-percent-stacked/ods/" name="ODS" description="OpenDocument Spreadsheet" >}} 
-
-{{< /blocks/products/pf/agp/other-supported-section >}}
 
 {{< /blocks/products/pf/main-container >}}
     

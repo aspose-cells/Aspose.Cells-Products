@@ -53,77 +53,7 @@ Aspose.Cells for .NET runs on any platform that supports **.NET Framework 4.0+**
 
 {{% blocks/products/pf/agp/code-block title="Create RadarFilled Chart - C#" offSpacer="" %}}
 
-```csharp
-// ------------------------------------------------------------
-//  Example: Create a RadarFilled chart in an XLSX workbook
-// ------------------------------------------------------------
-using System;
-using Aspose.Cells;
-using Aspose.Cells.Charts;
-
-namespace AsposeCellsExamples
-{
-    class CreateRadarFilledChart
-    {
-        static void Main()
-        {
-            // 1. Instantiate a new Workbook
-            Workbook workbook = new Workbook();
-
-            // 2. Get the first worksheet
-            Worksheet sheet = workbook.Worksheets[0];
-            sheet.Name = "SalesData";
-
-            // 3. Add sample data for the chart
-            //    Row 0 – Categories (Quarter)
-            //    Rows 1‑3 – Series (Product A, B, C)
-            Cells cells = sheet.Cells;
-            string[] categories = { "Q1", "Q2", "Q3", "Q4" };
-            double[,] values = {
-                { 120, 150, 180, 200 },   // Product A
-                { 80,  130, 160, 190 },   // Product B
-                { 100, 110, 140, 170 }    // Product C
-            };
-
-            // Write categories to column A (index 0)
-            for (int i = 0; i < categories.Length; i++)
-            {
-                cells[i, 0].PutValue(categories[i]);
-            }
-
-            // Write series values to columns B‑D (indexes 1‑3)
-            for (int series = 0; series < values.GetLength(0); series++)
-            {
-                for (int point = 0; point < values.GetLength(1); point++)
-                {
-                    cells[point, series + 1].PutValue(values[series, point]);
-                }
-            }
-
-            // 4. Add a RadarFilled chart to the worksheet
-            int chartIndex = sheet.Charts.Add(ChartType.RadarFilled, 5, 0, 25, 7);
-            Chart chart = sheet.Charts[chartIndex];
-
-            // 5. Set the data source for the chart
-            //    The source range includes the category column and the three series columns.
-            chart.SetChartDataRange("=SalesData!$A$1:$D$4");
-
-            // 6. Set the series (by column) and categories (by row)
-            chart.NSeries.CategoryData = "=SalesData!$A$2:$A$5"; // Categories (Q1‑Q4)
-            chart.NSeries[0].Series = "=SalesData!$B$2:$B$5"; // Product A
-            chart.NSeries[1].Series = "=SalesData!$C$2:$C$5"; // Product B
-            chart.NSeries[2].Series = "=SalesData!$D$2:$D$5"; // Product C
-
-            // 7. Optional: Add a title and enable the legend
-            chart.Title.Text = "Quarterly Sales – RadarFilled Chart";
-            chart.HasLegend = true;
-
-            // 8. Save the workbook
-            workbook.Save("RadarFilledChart_out.xlsx");
-        }
-    }
-}
-```
+{{< gist "aspose-cells-gists" "59a1901d62ea9ceb08456a818431a898" "Landingpages-LLM-create-RadarFilledChart.cs" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 
@@ -146,15 +76,6 @@ XLSX is the modern Open XML format for Microsoft Excel workbooks introduced with
 
 {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->
-
-{{< blocks/products/pf/agp/other-supported-section title="Other Supported RadarFilled Chart Formats" subTitle="RadarFilled charts can also be created in the following Excel file formats." >}}
-
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/chart/create-radarfilled-to-xls/" name="XLS" description="Microsoft Excel Spreadsheet (Legacy)" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/chart/create-radarfilled-to-xlsx/" name="XLSX" description="Open XML Workbook" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/chart/create-radarfilled-to-xlsb/" name="XLSB" description="Excel Binary Workbook" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/chart/create-radarfilled-to-xlsm/" name="XLSM" description="Macro‑enabled Spreadsheet" >}}
-
-{{< /blocks/products/pf/agp/other-supported-section >}}
 
 {{< /blocks/products/pf/main-container >}}
 

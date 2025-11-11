@@ -63,82 +63,7 @@ Install-Package Aspose.Cells
 
 {{% blocks/products/pf/agp/code-block title="Create SurfaceContourWireframe chart – C#" offSpacer="" %}}
 
-```csharp
-using System;
-using Aspose.Cells;
-using Aspose.Cells.Charts;
-
-namespace SurfaceContourWireframeChartDemo
-{
-    class Program
-    {
-        static void Main()
-        {
-            // -----------------------------------------------------------------
-            // 1. Create a new workbook and get the first worksheet.
-            // -----------------------------------------------------------------
-            Workbook workbook = new Workbook();
-            Worksheet sheet = workbook.Worksheets[0];
-
-            // -----------------------------------------------------------------
-            // 2. Populate the worksheet with sample data.
-            //    The data represents a 5x5 grid (X‑Y plane) with Z values.
-            // -----------------------------------------------------------------
-            Cells cells = sheet.Cells;
-            double[,] sampleData = new double[,]
-            {
-                {  5,  3,  1,  0,  2 },
-                { 10,  7,  4,  2,  5 },
-                { 15, 12,  8,  5,  9 },
-                { 20, 16, 12,  9, 14 },
-                { 25, 20, 16, 12, 20 }
-            };
-
-            // Fill the data starting from cell A1.
-            for (int row = 0; row < sampleData.GetLength(0); row++)
-            {
-                for (int col = 0; col < sampleData.GetLength(1); col++)
-                {
-                    cells[row, col].PutValue(sampleData[row, col]);
-                }
-            }
-
-            // -----------------------------------------------------------------
-            // 3. Add a SurfaceContourWireframe chart.
-            // -----------------------------------------------------------------
-            int chartIndex = sheet.Charts.Add(ChartType.SurfaceContourWireframe);
-            Chart chart = sheet.Charts[chartIndex];
-
-            // Position the chart (row, column, height in rows, width in columns).
-            chart.Position = 7;   // Row index where the chart starts.
-            chart.Height = 25;    // Height in rows.
-            chart.Width = 15;     // Width in columns.
-
-            // -----------------------------------------------------------------
-            // 4. Set the data source for the chart.
-            //    The data range is A1:E5 (5 rows × 5 columns).
-            // -----------------------------------------------------------------
-            chart.NSeries.Add("=Sheet1!$A$1:$E$5", true);
-
-            // -----------------------------------------------------------------
-            // 5. Optional: Customize chart appearance.
-            // -----------------------------------------------------------------
-            // Give the chart a title.
-            chart.Title.Text = "Surface Contour – Wireframe Chart";
-            chart.Title.TextHorizontalAlignment = TextAlignmentType.Center;
-
-            // Set a predefined style (optional).
-            chart.Style = 2; // Use built‑in chart style #2.
-
-            // -----------------------------------------------------------------
-            // 6. Save the workbook as an XLSX file.
-            // -----------------------------------------------------------------
-            workbook.Save("SurfaceContourWireframeChart.xlsx");
-            Console.WriteLine("Workbook saved as 'SurfaceContourWireframeChart.xlsx'.");
-        }
-    }
-}
-```
+{{< gist "aspose-cells-gists" "59a1901d62ea9ceb08456a818431a898" "Landingpages-LLM-create-SurfaceContourWireframeChart.cs" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 
@@ -161,15 +86,6 @@ XLSX is the default file format for Microsoft Excel workbooks introduced with Of
 
 {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->
-
-{{< blocks/products/pf/agp/other-supported-section title="Other Supported Chart Types" subTitle="Aspose.Cells provides a rich collection of chart types. Below are a few popular alternatives." >}}
-
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/chart/insert-pie-chart/" name="Pie Chart" description="2‑D circular chart for showing proportional data." >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/chart/insert-bar-chart/" name="Bar Chart" description="Horizontal or vertical bars for comparing values." >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/chart/insert-line-chart/" name="Line Chart" description="Series of data points connected by straight lines." >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/chart/insert-surface-chart/" name="Surface Chart" description="3‑D representation of data on a grid (X, Y, Z)." >}}
-
-{{< /blocks/products/pf/agp/other-supported-section >}}
 
 {{< /blocks/products/pf/main-container >}}
     

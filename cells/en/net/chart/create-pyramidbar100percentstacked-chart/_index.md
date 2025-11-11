@@ -50,88 +50,9 @@ Aspose.Cells for .NET works on any platform that supports .NET Framework 4
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="Create PyramidBar100PercentStacked Chart - C#" offSpacer="" %}}
-```csharp
-using System;
-using Aspose.Cells;
-using Aspose.Cells.Charts;
 
-namespace AsposeCellsChartDemo
-{
-    class Program
-    {
-        static void Main()
-        {
-            // 1. Create a new workbook.
-            Workbook workbook = new Workbook();
+{{< gist "aspose-cells-gists" "59a1901d62ea9ceb08456a818431a898" "Landingpages-LLM-create-PyramidBar100PercentStackedChart.cs" >}}
 
-            // 2. Access the first worksheet.
-            Worksheet sheet = workbook.Worksheets[0];
-            Cells cells = sheet.Cells;
-
-            // 3. Populate sample data.
-            //    First column – Category (Product)
-            //    Second column – Q1 sales
-            //    Third column – Q2 sales
-            //    Fourth column – Q3 sales
-            //    Fifth column – Q4 sales
-            string[] categories = { "Apples", "Bananas", "Cherries", "Dates", "Elderberries" };
-            int[,] sales = {
-                { 120, 150, 130, 170 },
-                { 80,  90,  95, 100 },
-                { 60,  70,  65,  75 },
-                { 30,  40,  35,  45 },
-                { 20,  25,  22,  28 }
-            };
-
-            // Write column headers.
-            cells[0, 0].Value = "Product";
-            cells[0, 1].Value = "Q1";
-            cells[0, 2].Value = "Q2";
-            cells[0, 3].Value = "Q3";
-            cells[0, 4].Value = "Q4";
-
-            // Write data rows.
-            for (int i = 0; i < categories.Length; i++)
-            {
-                cells[i + 1, 0].Value = categories[i];
-                for (int j = 0; j < 4; j++)
-                {
-                    cells[i + 1, j + 1].Value = sales[i, j];
-                }
-            }
-
-            // 4. Add a chart to the worksheet.
-            int chartIdx = sheet.Charts.Add(ChartType.PyramidBar100PercentStacked);
-            Chart chart = sheet.Charts[chartIdx];
-
-            // Position the chart (upper‑left row, column, lower‑right row, column).
-            chart.TopRow = 7;
-            chart.BottomRow = 25;
-            chart.LeftColumn = 0;
-            chart.RightColumn = 7;
-
-            // 5. Set the data source for the chart.
-            //    Category axis (X) – first column (Product names).
-            //    Series – Q1 to Q4 values.
-            chart.NSeries.Add("=Sheet1!B2:E6", true);
-            chart.NSeries.CategoryData = "=Sheet1!A2:A6";
-
-            // 6. Add a title and customize appearance.
-            chart.Title.Text = "Quarterly Sales – 100% Stacked Pyramid Bar";
-            chart.Title.Font.Size = 14;
-            chart.Title.Font.IsBold = true;
-
-            // Optional: set legend position.
-            chart.Legend.Position = LegendPositionType.Right;
-
-            // 7. Save the workbook.
-            workbook.Save("PyramidBar100PercentStackedChart.xlsx");
-
-            Console.WriteLine("Workbook with PyramidBar100PercentStacked chart created successfully.");
-        }
-    }
-}
-```
 {{% /blocks/products/pf/agp/code-block %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
@@ -154,14 +75,6 @@ XLSX is the modern Office Open XML format for Microsoft Excel workbooks. It st
 {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="Other Supported Chart Types" subTitle="Aspose.Cells can create many other chart types. Below are a few commonly used alternatives." >}}
-
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/chart/insert-pie-chart/" name="Pie Chart" description="Circular chart for showing parts of a whole" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/chart/insert-line-chart/" name="Line Chart" description="Trend lines over a period of time" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/chart/insert-clustered-column-chart/" name="Clustered Column" description="Side‑by‑side columns for comparing categories" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/chart/insert-area-chart/" name="Area Chart" description="Filled area under line series" >}}
-
-{{< /blocks/products/pf/agp/other-supported-section >}}
 
 {{< /blocks/products/pf/main-container >}}
     

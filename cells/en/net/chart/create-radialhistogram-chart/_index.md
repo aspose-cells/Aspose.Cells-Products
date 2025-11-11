@@ -62,72 +62,9 @@ Aspose.Cells for .NET supports all major .NET runtimes, including .NET Framework
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="Create RadialHistogram Chart – C#" offSpacer="" %}}
-```csharp
-using System;
-using Aspose.Cells;
-using Aspose.Cells.Charts;
 
-namespace AsposeCellsExamples
-{
-    class CreateRadialHistogramChart
-    {
-        static void Main()
-        {
-            // ----------------------------------------------------
-            // 1. Create a new workbook and obtain the first sheet.
-            // ----------------------------------------------------
-            Workbook workbook = new Workbook();
-            Worksheet sheet = workbook.Worksheets[0];
-            Cells cells = sheet.Cells;
+{{< gist "aspose-cells-gists" "59a1901d62ea9ceb08456a818431a898" "Landingpages-LLM-create-RadialHistogramChart.cs" >}}
 
-            // ----------------------------------------------------
-            // 2. Populate sample data.
-            //    Column A – Category (e.g., Age Group)
-            //    Column B – Frequency (numeric values)
-            // ----------------------------------------------------
-            string[] categories = { "0-9", "10-19", "20-29", "30-39", "40-49", "50-59", "60-69", "70-79", "80+" };
-            int[] frequencies = { 5, 12, 20, 15, 9, 7, 4, 2, 1 };
-
-            for (int i = 0; i < categories.Length; i++)
-            {
-                cells[i, 0].PutValue(categories[i]);   // Column A
-                cells[i, 1].PutValue(frequencies[i]); // Column B
-            }
-
-            // ----------------------------------------------------
-            // 3. Add a chart of type RadialHistogram.
-            // ----------------------------------------------------
-            int chartIndex = sheet.Charts.Add(ChartType.RadialHistogram);
-            Chart chart = sheet.Charts[chartIndex];
-
-            // Position the chart (Top-Left Row, Top-Left Column, Bottom-Right Row, Bottom-Right Column)
-            chart.Position = new Position(1, 3, 20, 12);
-
-            // ----------------------------------------------------
-            // 4. Set the data source for the chart.
-            //    The data range includes both categories and values.
-            // ----------------------------------------------------
-            chart.NSeries.Add("B1:B9", true);
-            chart.NSeries.CategoryData = "A1:A9";
-
-            // ----------------------------------------------------
-            // 5. Optional: Customize the chart appearance.
-            // ----------------------------------------------------
-            chart.Title.Text = "Population Distribution – Radial Histogram";
-            chart.Title.Font.Size = 14;
-            chart.Title.Font.IsBold = true;
-
-            // Set the radial histogram specific properties (if needed)
-            chart.RadarChartType = RadarChartType.Polygon; // default; can also be RadarChartType.Polar
-
-            // ----------------------------------------------------
-            // 6. Save the workbook to an XLSX file.
-            // ----------------------------------------------------
-            workbook.Save("RadialHistogramChart.xlsx");
-        }
-    }
-}
-```
 {{% /blocks/products/pf/agp/code-block %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
@@ -150,14 +87,6 @@ XLSX is Microsoft Excel’s default Open XML format, introduced with Office 20
 {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="Other Supported Chart Types" subTitle="Aspose.Cells can generate a wide variety of Excel chart types besides RadialHistogram." >}}
-
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/chart/pie-chart/" name="Pie Chart" description="Standard pie chart for proportional data" >}} 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/chart/bar-chart/" name="Bar Chart" description="Horizontal or vertical bar charts" >}} 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/chart/line-chart/" name="Line Chart" description="Trend lines for continuous data" >}} 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/chart/scatter-chart/" name="Scatter Chart" description="Data points plotted on a Cartesian plane" >}} 
-
-{{< /blocks/products/pf/agp/other-supported-section >}}
 
 {{< /blocks/products/pf/main-container >}}
 

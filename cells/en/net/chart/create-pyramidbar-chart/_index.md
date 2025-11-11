@@ -53,72 +53,7 @@ The library runs on any platform that supports **.NET Framework**, **.NET Core**
 
 {{% blocks/products/pf/agp/code-block title="Create PyramidBar Chart in XLSX – C#" offSpacer="" %}}
 
-```csharp
-using System;
-using Aspose.Cells;
-using Aspose.Cells.Charts;
-
-namespace CreatePyramidBarChart
-{
-    class Program
-    {
-        static void Main()
-        {
-            // 1. Instantiate a new Workbook.
-            Workbook workbook = new Workbook();
-
-            // 2. Get the first worksheet.
-            Worksheet sheet = workbook.Worksheets[0];
-            sheet.Name = "SalesData";
-
-            // 3. Populate sample data.
-            // Header row
-            sheet.Cells["A1"].Value = "Region";
-            sheet.Cells["B1"].Value = "Q1";
-            sheet.Cells["C1"].Value = "Q2";
-            sheet.Cells["D1"].Value = "Q3";
-            sheet.Cells["E1"].Value = "Q4";
-
-            // Data rows
-            string[] regions = { "North", "South", "East", "West" };
-            double[,] sales = {
-                { 12000, 15000, 13000, 14000 },
-                { 10000, 11000, 11500, 12000 },
-                { 13000, 12500, 13500, 14000 },
-                { 9000,  9500,  10000, 10500 }
-            };
-
-            for (int i = 0; i < regions.Length; i++)
-            {
-                sheet.Cells[i + 1, 0].Value = regions[i];
-                for (int j = 0; j < 4; j++)
-                {
-                    sheet.Cells[i + 1, j + 1].Value = sales[i, j];
-                }
-            }
-
-            // 4. Add a chart to the worksheet (positioned at cells G2 to N20).
-            int chartIndex = sheet.Charts.Add(ChartType.PyramidBar, 1, 6, 20, 12);
-            Chart chart = sheet.Charts[chartIndex];
-
-            // 5. Set the chart’s name and title (optional).
-            chart.Title.Text = "Quarterly Sales – PyramidBar Chart";
-
-            // 6. Define the series data range.
-            // Category (X) axis: Regions (A2:A5)
-            // Values (Y) axis: Total sales per quarter (B2:E5)
-            chart.NSeries.Add("=SalesData!$B$2:$E$5", true);
-            chart.NSeries.CategoryData = "=SalesData!$A$2:$A$5";
-
-            // 7. Apply a built‑in chart style for better visual appearance.
-            chart.Style = 9; // Style index 9 corresponds to a clean, professional look.
-
-            // 8. Save the workbook.
-            workbook.Save("PyramidBarChart.xlsx");
-        }
-    }
-}
-```
+{{< gist "aspose-cells-gists" "59a1901d62ea9ceb08456a818431a898" "Landingpages-LLM-create-PyramidBarChart.cs" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 
@@ -142,14 +77,6 @@ XLSX is the default file format for Microsoft Excel workbooks introduced with 
 {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="Other Supported Chart Types" subTitle="Aspose.Cells can create many additional chart types, for example:" >}}
-
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/chart/pie/" name="Pie Chart" description="Circular chart representation of data." >}} 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/chart/line/" name="Line Chart" description="Trend visualization over a range." >}} 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/chart/bar/" name="Bar Chart" description="Horizontal bar representation." >}} 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/chart/area/" name="Area Chart" description="Filled line chart showing volume." >}} 
-
-{{< /blocks/products/pf/agp/other-supported-section >}}
 
 {{< /blocks/products/pf/main-container >}}
 

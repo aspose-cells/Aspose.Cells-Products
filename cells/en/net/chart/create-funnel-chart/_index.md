@@ -54,81 +54,9 @@ Aspose.Cells for .NET is compatible with any platform that supports .NET Frame
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="Create Funnel Chart in XLSX – C#" offSpacer="" %}}
-```csharp
-using System;
-using Aspose.Cells;
-using Aspose.Cells.Charts;
 
-namespace FunnelChartExample
-{
-    class Program
-    {
-        static void Main()
-        {
-            // 1. Create a new workbook and get the first worksheet.
-            Workbook workbook = new Workbook();
-            Worksheet sheet = workbook.Worksheets[0];
+{{< gist "aspose-cells-gists" "59a1901d62ea9ceb08456a818431a898" "Landingpages-LLM-create-FunnelChart.cs" >}}
 
-            // 2. Populate the worksheet with sample data for the funnel chart.
-            //    Column A – Stage name, Column B – Value.
-            sheet.Cells["A1"].Value = "Stage";
-            sheet.Cells["B1"].Value = "Amount";
-
-            sheet.Cells["A2"].Value = "Prospects";
-            sheet.Cells["B2"].Value = 5000;
-
-            sheet.Cells["A3"].Value = "Qualified Leads";
-            sheet.Cells["B3"].Value = 3500;
-
-            sheet.Cells["A4"].Value = "Proposals";
-            sheet.Cells["B4"].Value = 2000;
-
-            sheet.Cells["A5"].Value = "Negotiations";
-            sheet.Cells["B5"].Value = 1200;
-
-            sheet.Cells["A6"].Value = "Closed Deals";
-            sheet.Cells["B6"].Value = 800;
-
-            // 3. Add a Funnel chart to the worksheet.
-            int chartIndex = sheet.Charts.Add(ChartType.Funnel);
-            Chart funnelChart = sheet.Charts[chartIndex];
-
-            // 4. Set the position (row, column) and size (rows, columns) of the chart.
-            funnelChart.Position.Row = 7;      // start row (zero‑based)
-            funnelChart.Position.Column = 0;   // start column
-            funnelChart.Position.Height = 300; // height in pixels
-            funnelChart.Position.Width = 500;  // width in pixels
-
-            // 5. Set the data source for the chart.
-            //    The data range includes both the category (stage) and the values.
-            string dataRange = "A2:B6";
-            funnelChart.NSeries.Add(dataRange, true);
-
-            // 6. Set the series name (appears in the legend if visible).
-            funnelChart.NSeries[0].Name = "Sales Funnel";
-
-            // 7. Optional: Add a title and enable data labels.
-            funnelChart.Title.Text = "Sales Funnel Overview";
-            funnelChart.Title.HorizontalAlignment = TextAlignmentType.Center;
-            funnelChart.Title.Font.Size = 12;
-            funnelChart.Title.Font.IsBold = true;
-
-            funnelChart.NSeries[0].DataLabels.ShowCategoryName = true;
-            funnelChart.NSeries[0].DataLabels.ShowValue = true;
-            funnelChart.NSeries[0].DataLabels.Position = DataLabelPositionType.InsideEnd;
-
-            // 8. Apply a predefined chart style (optional).
-            funnelChart.ChartStyle = 2; // Built‑in style index
-
-            // 9. Save the workbook to an XLSX file.
-            string outputPath = "FunnelChartExample.xlsx";
-            workbook.Save(outputPath, SaveFormat.Xlsx);
-
-            Console.WriteLine($"Funnel chart created successfully and saved to \"{outputPath}\".");
-        }
-    }
-}
-```
 {{% /blocks/products/pf/agp/code-block %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
@@ -150,16 +78,6 @@ XLSX is the default file format for Microsoft Excel workbooks introduced with Of
 
 {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->
-
-{{< blocks/products/pf/agp/other-supported-section title="Other Supported Chart Types" subTitle="Aspose.Cells can generate many other chart types, including but not limited to the following:" >}}
-
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/chart/column-chart/" name="Column Chart" description="Standard column chart for categorical data" >}} 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/chart/pie-chart/" name="Pie Chart" description="Circular chart showing proportional data" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/chart/line-chart/" name="Line Chart" description="Line chart for trends and time‑series data" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/chart/bar-chart/" name="Bar Chart" description="Horizontal bar chart for comparisons" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/chart/area-chart/" name="Area Chart" description="Filled area chart for cumulative values" >}}
-
-{{< /blocks/products/pf/agp/other-supported-section >}}
 
 {{< /blocks/products/pf/main-container >}}
     

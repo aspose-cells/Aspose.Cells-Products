@@ -59,67 +59,7 @@ The solution runs on any platform that supports .NET Framework, .NET Core, .
 
 {{% blocks/products/pf/agp/code-block title="Create PieBar (Bar of Pie) Chart – C#" offSpacer="" %}}
 
-```csharp
-using System;
-using Aspose.Cells;
-using Aspose.Cells.Charts;
-
-namespace AsposeCellsExamples
-{
-    class CreatePieBarChart
-    {
-        static void Main()
-        {
-            // 1. Instantiate a new Workbook.
-            Workbook workbook = new Workbook();
-
-            // 2. Get the first worksheet.
-            Worksheet sheet = workbook.Worksheets[0];
-            Cells cells = sheet.Cells;
-
-            // 3. Populate worksheet with sample data.
-            // Header row
-            cells["A1"].PutValue("Category");
-            cells["B1"].PutValue("Value");
-
-            // Data rows
-            string[] categories = { "A", "B", "C", "D" };
-            int[] values = { 45, 30, 15, 10 };
-
-            for (int i = 0; i < categories.Length; i++)
-            {
-                cells[i + 1, 0].PutValue(categories[i]); // Column A
-                cells[i + 1, 1].PutValue(values[i]);    // Column B
-            }
-
-            // 4. Add a PieBar (Bar of Pie) chart.
-            // Parameters: chart type, upper‑left row, upper‑left column,
-            // lower‑right row, lower‑right column.
-            int chartIndex = sheet.Charts.Add(ChartType.BarOfPie, 5, 0, 20, 10);
-            Chart chart = sheet.Charts[chartIndex];
-
-            // 5. Set the data source for the chart.
-            // Add numeric values (B2:B5) as the series data.
-            chart.NSeries.Add("B2:B5", true);
-            // Set category (X‑axis) labels (A2:A5).
-            chart.NSeries.CategoryData = "A2:A5";
-
-            // 6. Customize the chart appearance.
-            chart.Title.Text = "Sales Distribution – Bar of Pie";
-            chart.Title.TextHorizontalAlignment = TextAlignmentType.Center;
-
-            // Apply a built‑in style.
-            chart.Style = 2; // Accent1 style (any integer from 1‑48 is valid)
-
-            // Optional: Show the legend.
-            chart.ShowLegend = true;
-
-            // 7. Save the workbook.
-            workbook.Save("PieBarChart_out.xlsx");
-        }
-    }
-}
-```
+{{< gist "aspose-cells-gists" "59a1901d62ea9ceb08456a818431a898" "Landingpages-LLM-create-PieBarChart.cs" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 
@@ -142,15 +82,6 @@ XLSX is the Open XML format introduced with Microsoft Office 2007. It stores s
 
 {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->
-
-{{< blocks/products/pf/agp/other-supported-section title="Other Supported Chart Types" subTitle="Aspose.Cells can generate many additional Excel chart types, including but not limited to the following:" >}}
-
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/chart/line/" name="Line Chart" description="Standard line chart for trend analysis." >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/chart/pie/" name="Pie Chart" description="Simple circular chart representing proportions." >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/chart/bar/" name="Bar Chart" description="Horizontal and vertical bar charts." >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/chart/area/" name="Area Chart" description="Filled area chart for cumulative data." >}}
-
-{{< /blocks/products/pf/agp/other-supported-section >}}
 
 {{< /blocks/products/pf/main-container >}}
 

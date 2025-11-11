@@ -53,74 +53,9 @@ Aspose.Cells for .NET works on any platform that supports **.NET Framework 4.0+*
 {{% /blocks/products/pf/agp/feature-section %}}
 
 {{% blocks/products/pf/agp/code-block title="Create Map Chart in XLSX - C#" offSpacer="" %}}
-```csharp
-using System;
-using Aspose.Cells;
-using Aspose.Cells.Charts;
 
-namespace AsposeCellsMapChartExample
-{
-    class Program
-    {
-        static void Main()
-        {
-            // Create a new workbook and get the first worksheet
-            Workbook workbook = new Workbook();
-            Worksheet sheet = workbook.Worksheets[0];
+{{< gist "aspose-cells-gists" "59a1901d62ea9ceb08456a818431a898" "Landingpages-LLM-create-MapChart.cs" >}}
 
-            // ---------------------------------------
-            // 1. Populate worksheet with geographic data
-            // ---------------------------------------
-            // Column A – Country/Region names
-            // Column B – Corresponding numeric values
-            string[] countries = { "United States", "Canada", "Brazil", "United Kingdom", "France", "Germany", "India", "China", "Australia" };
-            double[] values = { 120, 95, 80, 75, 65, 70, 110, 130, 85 };
-
-            for (int i = 0; i < countries.Length; i++)
-            {
-                // Row numbers are 0‑based; +1 for the header row
-                sheet.Cells[i + 1, 0].Value = countries[i];
-                sheet.Cells[i + 1, 1].Value = values[i];
-            }
-
-            // A1:B1 – Header row (optional but improves readability)
-            sheet.Cells[0, 0].Value = "Country";
-            sheet.Cells[0, 1].Value = "Sales";
-
-            // ---------------------------------------
-            // 2. Add a Map chart to the worksheet
-            // ---------------------------------------
-            int chartIndex = sheet.Charts.Add(ChartType.Map, 10, 0, 30, 10);
-            Chart mapChart = sheet.Charts[chartIndex];
-
-            // Set a descriptive title
-            mapChart.Title.Text = "Worldwide Sales Distribution";
-
-            // ---------------------------------------
-            // 3. Bind the data series to the geographic range
-            // ---------------------------------------
-            // NSeries of a Map chart expects a range containing Country/Region names and corresponding values.
-            // Range format: "Sheet1!$A$2:$B$10" (excluding the header)
-            string dataRange = $"'{sheet.Name}'!$A$2:$B${countries.Length + 1}";
-            mapChart.NSeries.Add(dataRange, true);
-
-            // ---------------------------------------
-            // 4. Optional: Customize the visual appearance
-            // ---------------------------------------
-            // Set a built‑in color style (e.g., Gradient or Diverging)
-            mapChart.PlotArea.Area.Format.Fill.ForeColor.RGBColor = Color.FromArgb(255, 255, 255);
-            // Show data labels for better insight
-            mapChart.PlotArea.ShowDataLabels = true;
-            mapChart.PlotArea.DataLabels.ShowValue = true;
-
-            // ---------------------------------------
-            // 5. Save the workbook as XLSX
-            // ---------------------------------------
-            workbook.Save("MapChartExample.xlsx");
-        }
-    }
-}
-```
 {{% /blocks/products/pf/agp/code-block %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
@@ -157,14 +92,6 @@ XLSX is the modern Open XML format for Microsoft Excel workbooks. It stores data
 {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="Other Supported Chart Types" subTitle="Aspose.Cells can generate many more chart types besides Map charts." >}}
-
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/chart/line-chart/" name="Line Chart" description="Standard line chart for trend analysis" >}} 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/chart/pie-chart/" name="Pie Chart" description="Circular chart for proportion representation" >}} 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/chart/column-chart/" name="Column Chart" description="Vertical column representation of categorical data" >}} 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/chart/area-chart/" name="Area Chart" description="Stacked area representation for cumulative values" >}} 
-
-{{< /blocks/products/pf/agp/other-supported-section >}}
 
 {{< /blocks/products/pf/main-container >}}
 

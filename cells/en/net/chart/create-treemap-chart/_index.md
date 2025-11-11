@@ -52,79 +52,7 @@ A .NET development environment (Visual Studio, Rider, or VS Code) with **.NET 
 
 {{% blocks/products/pf/agp/code-block title="Create Treemap Chart in XLSX – C#" offSpacer="" %}}
 
-```cs
-using System;
-using Aspose.Cells;
-using Aspose.Cells.Charts;
-
-namespace TreemapChartDemo
-{
-    class Program
-    {
-        static void Main()
-        {
-            // 1. Create a new workbook.
-            Workbook workbook = new Workbook();
-
-            // 2. Access the first worksheet.
-            Worksheet sheet = workbook.Worksheets[0];
-            Cells cells = sheet.Cells;
-
-            // ---------------------------------------------------------
-            // 3. Populate sample hierarchical data.
-            // ---------------------------------------------------------
-            // Header row
-            cells["A1"].PutValue("Region");
-            cells["B1"].PutValue("Category");
-            cells["C1"].PutValue("Sales");
-
-            // Data rows
-            string[,] data = new string[,]
-            {
-                { "North America", "Technology",   "1200" },
-                { "North America", "Furniture",    "800"  },
-                { "Europe",        "Technology",   "950"  },
-                { "Europe",        "Furniture",    "650"  },
-                { "Asia",          "Technology",   "1100" },
-                { "Asia",          "Furniture",    "700"  }
-            };
-
-            // Write data to the worksheet.
-            for (int i = 0; i < data.GetLength(0); i++)
-            {
-                cells[i + 1, 0].PutValue(data[i, 0]); // Region
-                cells[i + 1, 1].PutValue(data[i, 1]); // Category
-                cells[i + 1, 2].PutValue(double.Parse(data[i, 2])); // Sales
-            }
-
-            // ---------------------------------------------------------
-            // 4. Add a Treemap chart to the worksheet.
-            // ---------------------------------------------------------
-            int chartIndex = sheet.Charts.Add(ChartType.Treemap, 5, 0, 25, 8);
-            Chart treemap = sheet.Charts[chartIndex];
-
-            // 5. Set the data range for the Treemap.
-            //    The first column (Region) becomes the first hierarchy level,
-            //    the second column (Category) the second level,
-            //    and the third column (Sales) provides the size/value.
-            string dataRange = "Sheet1!$A$1:$C$7";
-            treemap.NSeries.Add(dataRange, true);
-
-            // Set chart title.
-            treemap.Title.Text = "Regional Sales Treemap";
-
-            // Optional: Apply a built‑in chart style.
-            treemap.Style = 13; // Style number varies from 1‑16
-
-            // ---------------------------------------------------------
-            // 6. Save the workbook.
-            // ---------------------------------------------------------
-            workbook.Save("TreemapChartDemo.xlsx");
-            Console.WriteLine("Treemap chart created successfully.");
-        }
-    }
-}
-```
+{{< gist "aspose-cells-gists" "59a1901d62ea9ceb08456a818431a898" "Landingpages-LLM-create-TreemapChart.cs" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 
@@ -147,16 +75,6 @@ XLSX is the default file format for Microsoft Excel 2007 and later. It stores wo
 
 {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->
-
-{{< blocks/products/pf/agp/other-supported-section title="Other Supported Chart Types" subTitle="Aspose.Cells can generate a wide variety of Excel chart types, including but not limited to the following:" >}}
-
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/chart/insert-clustered-column-chart/" name="Clustered Column" description="Standard column chart" >}} 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/chart/insert-pie-chart/" name="Pie" description="Pie chart for proportion data" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/chart/insert-waterfall-chart/" name="Waterfall" description="Waterfall chart for financial analysis" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/chart/insert-sunburst-chart/" name="Sunburst" description="Sunburst chart for hierarchical data" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/chart/insert-treemap-chart/" name="Treemap" description="Treemap chart for hierarchical data visualisation" >}}
-
-{{< /blocks/products/pf/agp/other-supported-section >}}
 
 {{< /blocks/products/pf/main-container >}}
     

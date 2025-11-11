@@ -52,65 +52,7 @@ Supported on any platform that runs .NET Framework, .NET Core, .NET 5/6/7+
 
 {{% blocks/products/pf/agp/code-block title="Create Pie‑of‑Pie Chart – C#" offSpacer="" %}}
 
-```csharp
-// ---------------------------------------------------------------
-//  Aspose.Cells – Create a Pie‑of‑Pie chart in an XLSX workbook
-// ---------------------------------------------------------------
-
-using System;
-using Aspose.Cells;
-using Aspose.Cells.Charts;
-
-namespace AsposeCellsPieOfPieExample
-{
-    class Program
-    {
-        static void Main()
-        {
-            // 1. Create a new workbook and get the first worksheet
-            Workbook workbook = new Workbook();
-            Worksheet sheet = workbook.Worksheets[0];
-            Cells cells = sheet.Cells;
-
-            // 2. Populate sample data (Category, Value)
-            //    The data set contains a few major categories and a few
-            //    minor ones that will be shown in the secondary pie.
-            string[] categories = { "Technology", "Healthcare", "Finance", "Energy", "Utilities", "Real Estate", "Materials", "Consumer Staples", "Industrials", "Telecom" };
-            double[] values = { 30, 20, 18, 12, 5, 4, 3, 2, 2, 2 };
-
-            for (int i = 0; i < categories.Length; i++)
-            {
-                cells[i, 0].Value = categories[i];   // Category name
-                cells[i, 1].Value = values[i];      // Corresponding value
-            }
-
-            // 3. Add a Pie‑of‑Pie chart (ChartType.PieOfPie)
-            int chartIndex = sheet.Charts.Add(ChartType.PieOfPie, 5, 0, 25, 9);
-            Chart pieChart = sheet.Charts[chartIndex];
-
-            // 4. Set the data range for the chart (A1:B10)
-            pieChart.NSeries.Add("=Sheet1!$B$1:$B$10", true);
-            pieChart.NSeries[0].CategoryData = "=Sheet1!$A$1:$A$10";
-
-            // 5. Configure the secondary pie (slice that forms the second pie)
-            //    Show slices less than 5% in the secondary pie.
-            pieChart.SecondPieSize = 30; // Size of secondary pie as a percentage of the primary pie
-            pieChart.PieSplitBy = 1; // 1 = SplitByPosition (use position to decide which slice goes to secondary pie)
-            pieChart.SplitByPosition = 5; // First 5 categories go to primary pie, rest to secondary
-
-            // 6. Set chart title and legend
-            pieChart.Title.Text = "Revenue Distribution – Pie‑of‑Pie";
-            pieChart.Legend.Position = LegendPositionType.Right;
-
-            // 7. Apply a built‑in chart style
-            pieChart.Style = 10; // Built‑in style index (Microsoft Office theme)
-
-            // 8. Save the workbook
-            workbook.Save("PieOfPieChart.xlsx");
-        }
-    }
-}
-```
+{{< gist "aspose-cells-gists" "59a1901d62ea9ceb08456a818431a898" "Landingpages-LLM-create-PieOfPieChart.cs" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 
@@ -133,15 +75,6 @@ XLSX is the default file format for Microsoft Excel workbooks introduced with Of
 
 {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->
-
-{{< blocks/products/pf/agp/other-supported-section title="Other Supported Chart Types" subTitle="Aspose.Cells can generate many additional Excel chart types, including those listed below." >}}
-
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/charts/insert-column-chart/" name="Column Chart" description="Standard column chart." >}} 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/charts/insert-pie-chart/" name="Pie Chart" description="Standard pie chart." >}} 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/charts/insert-doughnut-chart/" name="Doughnut Chart" description="Ring‑shaped chart." >}} 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/charts/insert-area-chart/" name="Area Chart" description="Area chart for trends." >}} 
-
-{{< /blocks/products/pf/agp/other-supported-section >}}
 
 {{< /blocks/products/pf/main-container >}}
 

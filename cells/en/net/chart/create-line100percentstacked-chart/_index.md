@@ -64,95 +64,8 @@ Install-Package Aspose.Cells
 
 {{% blocks/products/pf/agp/code-block title="Create Line100PercentStacked Chart - C#" offSpacer="" %}}
 
-```csharp
-// ---------------------------------------------------------------
-// Aspose.Cells C# example: Create a 100% Stacked Line chart
-// ---------------------------------------------------------------
+{{< gist "aspose-cells-gists" "59a1901d62ea9ceb08456a818431a898" "Landingpages-LLM-create-Line100PercentStackedChart.cs" >}}
 
-using System;
-using Aspose.Cells;
-using Aspose.Cells.Charts;
-
-namespace AsposeCellsExamples
-{
-    class CreateLine100PercentStackedChart
-    {
-        static void Main()
-        {
-            // 1. Create a new workbook.
-            Workbook workbook = new Workbook();
-
-            // 2. Access the first worksheet.
-            Worksheet sheet = workbook.Worksheets[0];
-            Cells cells = sheet.Cells;
-
-            // -----------------------------------------------------------
-            // 3. Populate sample data.
-            //    Rows: Categories (Q1‑Q4)
-            //    Columns: Series (Product A, B, C)
-            // -----------------------------------------------------------
-            string[] months = { "Q1", "Q2", "Q3", "Q4" };
-            double[,] sales = {
-                { 12000, 15000, 18000 },
-                { 13000, 16000, 17000 },
-                { 12500, 15500, 16500 },
-                { 14000, 16500, 17500 }
-            };
-
-            // Write headers
-            cells[0, 0].Value = "Quarter";
-            cells[0, 1].Value = "Product A";
-            cells[0, 2].Value = "Product B";
-            cells[0, 3].Value = "Product C";
-
-            // Write data rows
-            for (int i = 0; i < months.Length; i++)
-            {
-                cells[i + 1, 0].Value = months[i];
-                for (int j = 0; j < sales.GetLength(1); j++)
-                {
-                    cells[i + 1, j + 1].Value = sales[i, j];
-                }
-            }
-
-            // -----------------------------------------------------------
-            // 4. Add a chart of type Line100PercentStacked.
-            // -----------------------------------------------------------
-            int chartIndex = sheet.Charts.Add(ChartType.Line100PercentStacked);
-            Chart chart = sheet.Charts[chartIndex];
-
-            // Set the chart's position (row, column, top, left, bottom, right)
-            chart.SetPosition(5, 0, 0, 0);
-            chart.SetSize(400, 300);
-
-            // Define the data source range (including headers)
-            // A1:D5 contains the whole table.
-            chart.NSeries.Add("=Sheet1!$B$1:$D$5", true);
-            chart.NSeries.CategoryData = "=Sheet1!$A$2:$A$5";
-
-            // -----------------------------------------------------------
-            // 5. Configure chart title and axes.
-            // -----------------------------------------------------------
-            chart.Title.Text = "Quarterly Sales - 100% Stacked Line Chart";
-            chart.Title.TextFont.IsBold = true;
-            chart.Title.Font.Size = 12;
-
-            chart.CategoryAxis.Title.Text = "Quarter";
-            chart.ValueAxis.Title.Text = "Sales (Percentage)";
-
-            // Optional: Apply a built‑in style.
-            chart.Style = 9; // Predefined style index (e.g., 9 = “Style 9”)
-
-            // -----------------------------------------------------------
-            // 6. Save the workbook.
-            // -----------------------------------------------------------
-            workbook.Save("Line100PercentStackedChart.xlsx");
-
-            Console.WriteLine("Chart created successfully!");
-        }
-    }
-}
-```
 
 {{% /blocks/products/pf/agp/code-block %}}
 
@@ -176,14 +89,6 @@ XLSX is the default file format for Microsoft Excel workbooks introduced with Of
 {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="Other Supported Chart Types" subTitle="Aspose.Cells can generate many chart types, including the following popular ones." >}}
-
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/chart/insert-line-chart/" name="Line" description="Standard Line chart" >}} 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/chart/insert-pie-chart/" name="Pie" description="Pie and Doughnut charts" >}} 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/chart/insert-column-chart/" name="Column" description="Column and Stacked Column charts" >}} 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/chart/insert-area-chart/" name="Area" description="Area and Stacked Area charts" >}} 
-
-{{< /blocks/products/pf/agp/other-supported-section >}}
 
 {{< /blocks/products/pf/main-container >}}
     

@@ -45,64 +45,7 @@ Aspose.Cells for .NET works on any platform that supports .NET Framework, .NET C
 
 {{% blocks/products/pf/agp/code-block title="Create Pie3DExploded Chart - C#" offSpacer="" %}}
 
-```csharp
-using System;
-using Aspose.Cells;
-using Aspose.Cells.Charts;
-
-namespace AsposeCellsExamples
-{
-    class CreatePie3DExplodedChart
-    {
-        static void Main()
-        {
-            // 1. Create a new workbook.
-            Workbook workbook = new Workbook();
-
-            // 2. Access the first worksheet.
-            Worksheet sheet = workbook.Worksheets[0];
-
-            // 3. Populate the worksheet with data for the chart.
-            //    Column A – Category names.
-            //    Column B – Corresponding values.
-            sheet.Cells["A1"].PutValue("Category");
-            sheet.Cells["B1"].PutValue("Value");
-
-            string[] categories = { "Apple", "Banana", "Cherry", "Date", "Elderberry" };
-            double[] values = { 30, 20, 25, 15, 10 };
-
-            for (int i = 0; i < categories.Length; i++)
-            {
-                sheet.Cells[i + 1, 0].PutValue(categories[i]);   // A2, A3, ...
-                sheet.Cells[i + 1, 1].PutValue(values[i]);       // B2, B3, ...
-            }
-
-            // 4. Add a chart of type Pie3DExploded.
-            int chartIndex = sheet.Charts.Add(ChartType.Pie3DExploded, 5, 0, 20, 7);
-            Chart chart = sheet.Charts[chartIndex];
-
-            // 5. Set the data range for the chart.
-            //    First parameter – data source range.
-            //    Second parameter – isSeriesInRows (false because categories are in rows).
-            chart.NSeries.Add("=Sheet1!$B$2:$B$6", true);
-            chart.NSeries.CategoryData = "=Sheet1!$A$2:$A$6";
-
-            // 6. Configure chart title.
-            chart.Title.Text = "Fruit Sales (3‑D Exploded Pie)";
-
-            // 7. Optional: explode the first slice (index 0) by a specific percentage.
-            //    The Explode property expects a value between 0 (no explode) and 1 (fully exploded).
-            chart.NSeries[0].Explosion = 0.2; // 20 % explosion for the first slice.
-
-            // 8. Enable legend.
-            chart.ShowLegend = true;
-
-            // 9. Save the workbook.
-            workbook.Save("Pie3DExplodedChart.xlsx");
-        }
-    }
-}
-```
+{{< gist "aspose-cells-gists" "59a1901d62ea9ceb08456a818431a898" "Landingpages-LLM-create-Pie3DExplodedChart.cs" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 
@@ -125,15 +68,6 @@ XLSX is the default Open XML format for Microsoft Excel. It stores workbook data
 
 {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->
-
-{{< blocks/products/pf/agp/other-supported-section title="Other Supported Chart Types" subTitle="Aspose.Cells can create many additional chart types beyond Pie3DExploded." >}}
-
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/chart/insert-pie-chart/" name="Pie Chart" description="2‑D Pie chart" >}} 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/chart/insert-pie3d-chart/" name="Pie 3D Chart" description="3‑D Pie chart without explosion" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/chart/insert-doughnut-chart/" name="Doughnut Chart" description="Ring‑shaped chart" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/chart/insert-bar-chart/" name="Bar Chart" description="Vertical and horizontal bar charts" >}}
-
-{{< /blocks/products/pf/agp/other-supported-section >}}
 
 {{< /blocks/products/pf/main-container >}}
     

@@ -52,69 +52,8 @@ Aspose.Cells for .NET works on any platform that supports **.NET Framework 4.0+*
 
 {{% blocks/products/pf/agp/code-block title="ScatterConnectedByLinesWithDataMarker Chart – C#" offSpacer="" %}}
 
-```csharp
-using System;
-using Aspose.Cells;
-using Aspose.Cells.Charts;
+{{< gist "aspose-cells-gists" "59a1901d62ea9ceb08456a818431a898" "Landingpages-LLM-create-ScatterConnectedByLinesWithDataMarkerChart.cs" >}}
 
-namespace AsposeCellsExamples
-{
-    class ScatterConnectedByLinesWithDataMarkerChart
-    {
-        static void Main()
-        {
-            // 1. Create a new workbook.
-            Workbook workbook = new Workbook();
-
-            // 2. Access the first worksheet.
-            Worksheet sheet = workbook.Worksheets[0];
-            sheet.Name = "ChartData";
-
-            // 3. Populate sample data for the chart.
-            //    Column A – X values, Column B – Y values.
-            Cells cells = sheet.Cells;
-            cells["A1"].PutValue("X");
-            cells["B1"].PutValue("Y");
-
-            // Sample data points.
-            double[] xValues = { 1, 2, 3, 4, 5, 6, 7, 8 };
-            double[] yValues = { 5, 3, 6, 2, 7, 4, 8, 1 };
-
-            for (int i = 0; i < xValues.Length; i++)
-            {
-                cells[i + 1, 0].PutValue(xValues[i]); // A column
-                cells[i + 1, 1].PutValue(yValues[i]); // B column
-            }
-
-            // 4. Add a chart to the worksheet.
-            //    The chart will be placed in cells D2:G15.
-            int chartIndex = sheet.Charts.Add(ChartType.ScatterConnectedByLinesWithDataMarker, 1, 3, 15, 9);
-            Chart chart = sheet.Charts[chartIndex];
-
-            // 5. Set the data series for the chart.
-            //    The source range covers A2:B9 (the data points).
-            chart.NSeries.Add("=ChartData!$A$2:$B$9", true);
-
-            // 6. Optional customizations.
-            chart.Title.Text = "Scatter Connected By Lines With Data Markers";
-            chart.Title.Font.Size = 12;
-
-            // Set the X (horizontal) and Y (vertical) axis titles.
-            chart.CategoryAxis.Title.Text = "X Axis";
-            chart.ValueAxis.Title.Text = "Y Axis";
-
-            // Change marker style and color for better visibility.
-            chart.NSeries[0].Marker.Size = 8;               // Marker size
-            chart.NSeries[0].Marker.Type = MarkerType.Circle; // Marker shape
-            chart.NSeries[0].Marker.AreaColor = Color.Blue;   // Fill color
-            chart.NSeries[0].Marker.BorderColor = Color.Black;// Border color
-
-            // 7. Save the workbook.
-            workbook.Save("ScatterConnectedByLinesWithDataMarkerChart.xlsx");
-        }
-    }
-}
-```
 
 {{% /blocks/products/pf/agp/code-block %}}
 
@@ -137,16 +76,6 @@ XLSX is the modern Open XML format for Microsoft Excel workbooks introduced with
 
 {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->
-
-{{< blocks/products/pf/agp/other-supported-section title="Other Supported Chart Types" subTitle="Aspose.Cells can create many additional chart types, including those listed below." >}}
-
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/chart/pie/" name="Pie Chart" description="Standard pie chart representation." >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/chart/line/" name="Line Chart" description="Line chart for trend analysis." >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/chart/bar/" name="Bar Chart" description="Vertical or horizontal bar chart." >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/chart/area/" name="Area Chart" description="Area chart for cumulative totals." >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/chart/scatter/" name="Scatter Chart" description="Pure scatter plot without connecting lines." >}}
-
-{{< /blocks/products/pf/agp/other-supported-section >}}
 
 {{< /blocks/products/pf/main-container >}}
 

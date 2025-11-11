@@ -60,81 +60,7 @@ Aspose.Cells for .NET works on any platform that supports .NET Framework 4.x, .N
 
 {{% blocks/products/pf/agp/code-block title="Create Pyramid Stacked Chart – C#" offSpacer="" %}}
 
-```csharp
-using System;
-using Aspose.Cells;
-using Aspose.Cells.Charts;
-
-namespace PyramidStackedChartExample
-{
-    class Program
-    {
-        static void Main()
-        {
-            // 1. Create a new workbook.
-            Workbook workbook = new Workbook();
-
-            // 2. Access the first worksheet.
-            Worksheet sheet = workbook.Worksheets[0];
-            Cells cells = sheet.Cells;
-
-            // 3. Populate the worksheet with sample data.
-            // Header row
-            cells[0, 0].PutValue("Category");
-            cells[0, 1].PutValue("Q1");
-            cells[0, 2].PutValue("Q2");
-            cells[0, 3].PutValue("Q3");
-            cells[0, 4].PutValue("Q4");
-
-            // Data rows (each category will be a separate series)
-            string[] categories = { "Electronics", "Furniture", "Clothing", "Food" };
-            double[,] values = {
-                { 120, 150, 130, 170 },   // Electronics
-                { 80,  95,  85,  100 },   // Furniture
-                { 60,  70,  65,  75  },   // Clothing
-                { 40,  55,  45,  60  }    // Food
-            };
-
-            for (int i = 0; i < categories.Length; i++)
-            {
-                // Category name (first column)
-                cells[i + 1, 0].PutValue(categories[i]);
-
-                // Quarterly values
-                for (int j = 0; j < 4; j++)
-                {
-                    cells[i + 1, j + 1].PutValue(values[i, j]);
-                }
-            }
-
-            // 4. Add a Pyramid Stacked chart.
-            int chartIndex = sheet.Charts.Add(ChartType.PyramidStacked);
-            Chart chart = sheet.Charts[chartIndex];
-
-            // Position the chart on the worksheet.
-            chart.Left = 350;   // Horizontal position (pixels)
-            chart.Top = 20;     // Vertical position (pixels)
-            chart.Width = 500;  // Width (pixels)
-            chart.Height = 400; // Height (pixels)
-
-            // 5. Set the data range for the chart.
-            // The first column (Category) is used for the category axis,
-            // and the remaining columns (Q1‑Q4) are the stacked series.
-            string dataRange = "A1:E5"; // Includes headers and data
-            chart.NSeries.Add(dataRange, true);
-
-            // 6. Customize chart title and legend.
-            chart.Title.Text = "Quarterly Sales – Pyramid Stacked Chart";
-            chart.Title.Visible = true;
-
-            chart.Legend.Position = LegendPositionType.Right; // Place legend on the right.
-
-            // 7. Save the workbook as XLSX.
-            workbook.Save("PyramidStackedChart.xlsx");
-        }
-    }
-}
-```
+{{< gist "aspose-cells-gists" "59a1901d62ea9ceb08456a818431a898" "Landingpages-LLM-create-PyramidStackedChart.cs" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 
@@ -157,15 +83,6 @@ XLSX is the default file format for Microsoft Excel workbooks introduced with Of
 
 {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->
-
-{{< blocks/products/pf/agp/other-supported-section title="Other Supported Chart Types" subTitle="Aspose.Cells can generate many other chart types besides Pyramid Stacked." >}}
-
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/chart/pyramid/" name="Pyramid" description="Standard Pyramid chart" >}} 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/chart/pies/" name="Pie" description="2‑D Pie chart" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/chart/bar/" name="Bar" description="Bar chart (Clustered, Stacked, 100% Stacked)" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/chart/line/" name="Line" description="Line chart (Stacked, 100% Stacked)" >}}
-
-{{< /blocks/products/pf/agp/other-supported-section >}}
 
 {{< /blocks/products/pf/main-container >}}
     

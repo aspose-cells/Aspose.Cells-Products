@@ -60,70 +60,7 @@ dotnet add package Aspose.Cells
 
 {{% blocks/products/pf/agp/code-block title="Create ScatterConnectedByLinesWithoutDataMarker Chart - C#" offSpacer="" %}}
 
-```csharp
-using System;
-using Aspose.Cells;
-using Aspose.Cells.Charts;
-
-namespace ScatterChartDemo
-{
-    class Program
-    {
-        static void Main()
-        {
-            // 1. Create a new workbook.
-            Workbook workbook = new Workbook();
-
-            // 2. Access the first worksheet.
-            Worksheet sheet = workbook.Worksheets[0];
-            sheet.Name = "ScatterData";
-
-            // 3. Fill worksheet with sample X‑Y data.
-            //    Column A = X values, Column B = Y values.
-            double[] xValues = { 1, 2, 3, 4, 5 };
-            double[] yValues = { 2, 4, 1, 3, 5 };
-
-            Cells cells = sheet.Cells;
-            for (int i = 0; i < xValues.Length; i++)
-            {
-                cells[i, 0].PutValue(xValues[i]); // X
-                cells[i, 1].PutValue(yValues[i]); // Y
-            }
-
-            // 4. Add a chart to the worksheet.
-            int chartIdx = sheet.Charts.Add(ChartType.ScatterConnectedByLinesWithoutDataMarker);
-            Chart chart = sheet.Charts[chartIdx];
-
-            // Position the chart (row, column, rows, columns).
-            chart.Left = 5;    // column index (0‑based)
-            chart.Top = 0;     // row index (0‑based)
-            chart.Width = 500; // width in pixels
-            chart.Height = 350; // height in pixels
-
-            // 5. Set the data range for the series.
-            //    "=ScatterData!$A$1:$A$5" – X values
-            //    "=ScatterData!$B$1:$B$5" – Y values
-            chart.NSeries.Add("=ScatterData!$B$1:$B$5", true);
-            chart.NSeries[0].XValues = "=ScatterData!$A$1:$A$5";
-
-            // 6. (Optional) Configure chart title and axis titles.
-            chart.Title.Text = "Scatter Connected By Lines (No Markers)";
-            chart.Title.IsVisible = true;
-
-            chart.CategoryAxis.Title.Text = "X‑Axis";
-            chart.ValueAxis.Title.Text = "Y‑Axis";
-
-            // 7. Apply a built‑in style (optional).
-            chart.Style = 13; // Choose any built‑in chart style id.
-
-            // 8. Save the workbook as XLSX.
-            workbook.Save("ScatterConnectedByLinesWithoutDataMarker.xlsx");
-
-            Console.WriteLine("Chart created successfully.");
-        }
-    }
-}
-```
+{{< gist "aspose-cells-gists" "59a1901d62ea9ceb08456a818431a898" "Landingpages-LLM-create-ScatterConnectedByLinesWithoutDataMarker.cs" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 
@@ -147,14 +84,6 @@ XLSX is the Open XML format introduced with Microsoft Office 2007. It stores spr
 {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="Other Supported Scatter Chart Formats" subTitle="Aspose.Cells also provides a variety of other scatter chart types." >}}
-
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/chart/scatter/" name="Scatter" description="Standard scatter chart with markers" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/chart/scatter-line/" name="ScatterConnectedByLines" description="Scatter chart with lines and markers" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/chart/scatter-with-smooth-lines/" name="ScatterConnectedBySmoothLines" description="Scatter chart with smooth lines" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/chart/scatter-smooth-line-without-markers/" name="ScatterConnectedBySmoothLinesWithoutDataMarker" description="Smooth scatter line without markers" >}}
-
-{{< /blocks/products/pf/agp/other-supported-section >}}
 
 {{< /blocks/products/pf/main-container >}}
 

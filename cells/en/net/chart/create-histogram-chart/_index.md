@@ -63,63 +63,7 @@ The solution runs on any platform that supports .NET Standard 2.0, .NET Co
 
 {{% blocks/products/pf/agp/code-block title="Create Histogram Chart in XLSX – C#" offSpacer="" %}}
 
-```csharp
-using System;
-using Aspose.Cells;
-using Aspose.Cells.Charts;
-
-namespace AsposeCellsHistogramDemo
-{
-    class Program
-    {
-        static void Main()
-        {
-            // 1. Instantiate a new Workbook.
-            Workbook workbook = new Workbook();
-
-            // 2. Access the first worksheet.
-            Worksheet sheet = workbook.Worksheets[0];
-            Cells cells = sheet.Cells;
-
-            // 3. Populate the worksheet with sample data for the histogram.
-            //    Column A will contain the data values.
-            double[] values = { 5, 7, 9, 10, 12, 15, 18, 20, 22, 25, 30, 35, 40, 45, 50 };
-            for (int i = 0; i < values.Length; i++)
-            {
-                cells[i, 0].PutValue(values[i]);   // A1, A2, ...
-            }
-
-            // 4. Add a new chart to the worksheet (type = Histogram).
-            int chartIndex = sheet.Charts.Add(ChartType.Histogram);
-            Chart chart = sheet.Charts[chartIndex];
-
-            // 5. Set the position of the chart (rows, columns, row offset, column offset).
-            //    The chart will be placed from cell E2 to M20.
-            chart.SetPosition(1, 0, 4, 0);   // Upper-left corner at row 2, column E
-            chart.SetSize(400, 300);        // Width = 400 pixels, Height = 300 pixels
-
-            // 6. Define the data range for the histogram.
-            //    The source range is the data we inserted in column A.
-            chart.NSeries.Add("A1:A15", true);
-
-            // 7. (Optional) Customize the chart title.
-            chart.Title.Text = "Sample Histogram";
-            chart.Title.Font.Color = System.Drawing.Color.DarkBlue;
-            chart.Title.Font.Size = 12;
-
-            // 8. (Optional) Show the legend and set its position.
-            chart.ShowLegend = true;
-            chart.Legend.Position = LegendPositionType.Bottom;
-
-            // 9. (Optional) Apply a built‑in style to the chart.
-            chart.Style = 2; // Uses the second built‑in chart style.
-
-            // 10. Save the workbook as an XLSX file.
-            workbook.Save("HistogramChartDemo.xlsx");
-        }
-    }
-}
-```
+{{< gist "aspose-cells-gists" "59a1901d62ea9ceb08456a818431a898" "Landingpages-LLM-create-HistogramChart.cs" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 
@@ -142,14 +86,6 @@ XLSX is the modern Microsoft Excel file format introduced with Office 2007. It 
 
 {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->
-
-{{< blocks/products/pf/agp/other-supported-section title="Other Supported Chart Formats" subTitle="You can also create Histogram charts in other Microsoft Excel file types listed below." >}}
-
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/chart/create-histogram-to-xls/" name="XLS" description="Microsoft Excel Spreadsheet (Legacy)" >}} 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/chart/create-histogram-to-xlsb/" name="XLSB" description="Excel Binary Workbook" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/chart/create-histogram-to-xlsm/" name="XLSM" description="Macro‑enabled Spreadsheet" >}} 
-
-{{< /blocks/products/pf/agp/other-supported-section >}}
 
 {{< /blocks/products/pf/main-container >}}
 

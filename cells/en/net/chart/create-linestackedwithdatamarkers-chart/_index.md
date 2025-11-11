@@ -52,71 +52,7 @@ Aspose.Cells for .NET works on any platform that supports **.NET Framework 4.0+*
 
 {{% blocks/products/pf/agp/code-block title="Create LineStackedWithDataMarkers chart – C#" offSpacer="" %}}
 
-```csharp
-// ------------------------------------------------------------
-//  Sample: Create a LineStackedWithDataMarkers chart in XLSX
-// ------------------------------------------------------------
-
-// Import the Aspose.Cells namespace
-using Aspose.Cells;
-
-namespace AsposeCellsExamples
-{
-    class LineStackedWithDataMarkersChart
-    {
-        static void Main()
-        {
-            // 1. Create a new workbook and get the first worksheet
-            Workbook workbook = new Workbook();
-            Worksheet sheet = workbook.Worksheets[0];
-
-            // 2. Fill the worksheet with sample data
-            //    Column A – Month, Column B – Product A, Column C – Product B
-            sheet.Cells["A1"].Value = "Month";
-            sheet.Cells["B1"].Value = "Product A";
-            sheet.Cells["C1"].Value = "Product B";
-
-            string[] months = { "Jan", "Feb", "Mar", "Apr", "May" };
-            int[] productA = { 10, 20, 30, 25, 15 };
-            int[] productB = { 15, 25, 20, 30, 20 };
-
-            for (int i = 0; i < months.Length; i++)
-            {
-                sheet.Cells[i + 1, 0].Value = months[i];        // Column A
-                sheet.Cells[i + 1, 1].Value = productA[i];     // Column B
-                sheet.Cells[i + 1, 2].Value = productB[i];     // Column C
-            }
-
-            // 3. Add a chart of type LineStackedWithDataMarkers
-            //    The chart will be placed from row 7, column 0 to row 20, column 10
-            int chartIndex = sheet.Charts.Add(ChartType.LineStackedWithDataMarkers, 7, 0, 20, 10);
-            Chart chart = sheet.Charts[chartIndex];
-
-            // 4. Set a meaningful chart title
-            chart.Title.Text = "Monthly Sales Comparison";
-            chart.Title.Font.IsBold = true;
-
-            // 5. Define the data series (NSeries) for the chart
-            //    Series 1 – Product A
-            chart.NSeries.Add("=Sheet1!$B$2:$B$6", true);
-            chart.NSeries[0].Name = "Product A";
-
-            //    Series 2 – Product B
-            chart.NSeries.Add("=Sheet1!$C$2:$C$6", true);
-            chart.NSeries[1].Name = "Product B";
-
-            // 6. Set the category axis labels (the months)
-            chart.CategoryAxis.CategoryLabels = "=Sheet1!$A$2:$A$6";
-
-            // 7. (Optional) Apply a built‑in style to make the chart look polished
-            chart.Style = ChartStyleType.Style3;   // You can experiment with other styles
-
-            // 8. Save the workbook to an XLSX file
-            workbook.Save("LineStackedWithDataMarkersChart.xlsx");
-        }
-    }
-}
-```
+{{< gist "aspose-cells-gists" "59a1901d62ea9ceb08456a818431a898" "Landingpages-LLM-create-LineStackedWithDataMarkersChart.cs" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 
@@ -139,15 +75,6 @@ XLSX is the default workbook format for Microsoft Excel. Based on the Open XML s
 
 {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->
-
-{{< blocks/products/pf/agp/other-supported-section title="Other Supported Chart Types" subTitle="Aspose.Cells provides a rich set of chart types in addition to LineStackedWithDataMarkers." >}}
-
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/chart/bar-chart/" name="Bar Chart" description="Standard vertical bar chart." >}} 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/chart/pie-chart/" name="Pie Chart" description="Circular chart for percentage distribution." >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/chart/area-chart/" name="Area Chart" description="Shows quantitative data graphically." >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/chart/scatter-chart/" name="Scatter Chart" description="Displays values as a collection of points." >}} 
-
-{{< /blocks/products/pf/agp/other-supported-section >}}
 
 {{< /blocks/products/pf/main-container >}}
     

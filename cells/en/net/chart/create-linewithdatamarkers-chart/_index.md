@@ -59,79 +59,7 @@ Aspose.Cells for .NET works on any platform that supports .NET Framework, .NET C
 
 {{% blocks/products/pf/agp/code-block title="Create LineWithDataMarkers Chart - C#" offSpacer="" %}}
 
-```csharp
-using System;
-using Aspose.Cells;
-using Aspose.Cells.Charts;
-
-namespace AsposeCellsExamples
-{
-    class CreateLineWithDataMarkersChart
-    {
-        static void Main()
-        {
-            // 1. Create a new workbook.
-            Workbook workbook = new Workbook();
-
-            // 2. Access the first worksheet.
-            Worksheet sheet = workbook.Worksheets[0];
-
-            // 3. Populate the worksheet with sample data.
-            //    Column A – Category (Month)
-            //    Column B – Sales
-            //    Column C – Expenses
-            string[] months = { "Jan", "Feb", "Mar", "Apr", "May", "Jun" };
-            double[] sales   = { 1500, 1700, 1600, 1800, 1900, 2100 };
-            double[] expense = { 800, 900, 850, 950, 1000, 1100 };
-
-            for (int i = 0; i < months.Length; i++)
-            {
-                // Write category (month) in column A
-                sheet.Cells[i, 0].PutValue(months[i]);
-
-                // Write sales in column B
-                sheet.Cells[i, 1].PutValue(sales[i]);
-
-                // Write expenses in column C
-                sheet.Cells[i, 2].PutValue(expense[i]);
-            }
-
-            // 4. Add a chart of type LineWithMarkers (LineWithDataMarkers).
-            int chartIndex = sheet.Charts.Add(ChartType.LineWithMarkers, 8, 0, 28, 10);
-            Chart chart = sheet.Charts[chartIndex];
-
-            // 5. Set the chart title.
-            chart.Title.Text = "Sales & Expenses (LineWithDataMarkers)";
-            chart.Title.Font.Size = 12;
-
-            // 6. Define the data source for the first series (Sales).
-            //    The series uses column B (sales) and Category axis uses column A (months).
-            int seriesIndex = chart.NSeries.Add("{Sheet1!$B$1:$B$6}", true);
-            chart.NSeries[seriesIndex].Name = "Sales";
-
-            // 7. Add a second series for Expenses.
-            seriesIndex = chart.NSeries.Add("{Sheet1!$C$1:$C$6}", true);
-            chart.NSeries[seriesIndex].Name = "Expenses";
-
-            // 8. Set the category (X) axis labels – they are derived from column A.
-            chart.NSeries.CategoryData = "{Sheet1!$A$1:$A$6}";
-
-            // 9. Optional: Customize markers (shape & size).
-            foreach (Series series in chart.NSeries)
-            {
-                // Use circular markers with size 8.
-                series.Marker.Type = MarkerType.Circle;
-                series.Marker.Size = 8;
-                // Enable data labels to show actual values.
-                series.ShowDataLabels = true;
-            }
-
-            // 10. Save the workbook as XLSX.
-            workbook.Save("LineWithDataMarkersChart.xlsx");
-        }
-    }
-}
-```
+{{< gist "aspose-cells-gists" "59a1901d62ea9ceb08456a818431a898" "Landingpages-LLM-create-LineWithDataMarkersChart.cs" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 
@@ -155,14 +83,6 @@ XLSX is the standard Open XML format for Microsoft Excel workbooks introduced wi
 {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="Other Supported Chart Types" subTitle="Aspose.Cells can create many other chart types besides LineWithDataMarkers." >}}
-
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/chart/insert-pie-chart/" name="Pie Chart" description="Standard pie chart representation" >}} 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/chart/insert-bar-chart/" name="Bar Chart" description="Horizontal bar chart" >}} 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/chart/insert-area-chart/" name="Area Chart" description="Area chart for cumulative totals" >}} 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/chart/insert-scatter-chart/" name="Scatter Chart" description="Scatter plot for X‑Y values" >}} 
-
-{{< /blocks/products/pf/agp/other-supported-section >}}
 
 {{< /blocks/products/pf/main-container >}}
 

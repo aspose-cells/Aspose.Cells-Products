@@ -49,69 +49,9 @@ Aspose.Cells for .NET runs on any platform that supports **.NET Framework 4.0+**
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="Create RadarWithDataMarkers Chart - C#" offSpacer="" %}}
-```csharp
-using System;
-using Aspose.Cells;
-using Aspose.Cells.Charts;
 
-namespace RadarChartExample
-{
-    class Program
-    {
-        static void Main()
-        {
-            // Create a new workbook and get its first worksheet.
-            Workbook workbook = new Workbook();
-            Worksheet sheet = workbook.Worksheets[0];
+{{< gist "aspose-cells-gists" "59a1901d62ea9ceb08456a818431a898" "Landingpages-LLM-create-RadarWithDataMarkersChart.cs" >}}
 
-            // Populate sample data for the Radar chart.
-            // The data consists of three categories (A, B, C) and two series (Series1, Series2).
-            // Row 0 – category names (used as axis labels)
-            // Row 1‑2 – numeric values for each series.
-            sheet.Cells["A1"].Value = "Category";
-            sheet.Cells["A2"].Value = "A";
-            sheet.Cells["A3"].Value = "B";
-            sheet.Cells["A4"].Value = "C";
-
-            sheet.Cells["B1"].Value = "Series1";
-            sheet.Cells["B2"].Value = 4;
-            sheet.Cells["B3"].Value = 7;
-            sheet.Cells["B4"].Value = 5;
-
-            sheet.Cells["C1"].Value = "Series2";
-            sheet.Cells["C2"].Value = 6;
-            sheet.Cells["C3"].Value = 3;
-            sheet.Cells["C4"].Value = 8;
-
-            // Add a RadarWithDataMarkers chart to the worksheet.
-            int chartIndex = sheet.Charts.Add(ChartType.RadarWithDataMarkers);
-            Chart chart = sheet.Charts[chartIndex];
-
-            // Set the position of the chart (from upper‑left cell D2 to lower‑right cell L15).
-            chart.Position = new Placement(5, 2, 0, 0, 20, 15, 0, 0);
-
-            // Set the data source range for the chart.
-            // The first column (A) provides the axis labels, while columns B‑C contain the series values.
-            chart.NSeries.Add("=Sheet1!$B$2:$C$4", true);
-            chart.NSeries.CategoryData = "=Sheet1!$A$2:$A$4";
-
-            // Set a chart title.
-            chart.Title.Text = "Performance Radar (Data Markers)";
-
-            // Enable data markers for better visibility.
-            chart.ShowDataLabels = true;            // show values on markers
-            chart.DataLabels.ShowCategoryName = false;
-            chart.DataLabels.ShowSeriesName = false;
-
-            // Optional: Customize the legend.
-            chart.Legend.Position = LegendPositionType.Right;
-
-            // Save the workbook in XLSX format.
-            workbook.Save("RadarWithDataMarkersChart.xlsx");
-        }
-    }
-}
-```
 {{% /blocks/products/pf/agp/code-block %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
@@ -131,15 +71,6 @@ XLSX is the modern Microsoft Excel file format introduced with Office 2007. It f
 
 {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->
-
-{{< blocks/products/pf/agp/other-supported-section title="Other Supported Radar Chart Types" subTitle="Aspose.Cells also supports a range of additional radar‑style charts." >}}
-
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/chart/radar/" name="Radar" description="Standard Radar chart without markers" >}} 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/chart/radarfilled/" name="RadarFilled" description="Filled Radar chart" >}} 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/chart/radarwithmarkers/" name="RadarWithMarkers" description="Radar chart showing data markers only" >}} 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/chart/radarwithdatamarkers/" name="RadarWithDataMarkers" description="Radar chart with both lines and data markers" >}} 
-
-{{< /blocks/products/pf/agp/other-supported-section >}}
 
 {{< /blocks/products/pf/main-container >}}
     

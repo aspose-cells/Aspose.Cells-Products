@@ -52,66 +52,7 @@ Make sure the target system runs Microsoft Windows (or any OS supported by .NET 
 
 {{% blocks/products/pf/agp/code-block title="Create Waterfall Chart in XLSX – C#" offSpacer="" %}}
 
-```csharp
-using System;
-using Aspose.Cells;
-using Aspose.Cells.Charts;
-
-namespace WaterfallChartDemo
-{
-    class Program
-    {
-        static void Main()
-        {
-            // 1. Create a new workbook.
-            Workbook workbook = new Workbook();
-
-            // 2. Get the first worksheet.
-            Worksheet sheet = workbook.Worksheets[0];
-
-            // 3. Populate the worksheet with sample data.
-            //    Column A – Category (e.g., "Start", "Sales", "Expenses", "Tax", "Profit")
-            //    Column B – Value
-            sheet.Cells["A1"].Value = "Category";
-            sheet.Cells["B1"].Value = "Amount";
-
-            sheet.Cells["A2"].Value = "Start";
-            sheet.Cells["B2"].Value = 5000;
-
-            sheet.Cells["A3"].Value = "Sales";
-            sheet.Cells["B3"].Value = 8000;
-
-            sheet.Cells["A4"].Value = "Expenses";
-            sheet.Cells["B4"].Value = -2000;
-
-            sheet.Cells["A5"].Value = "Tax";
-            sheet.Cells["B5"].Value = -1500;
-
-            sheet.Cells["A6"].Value = "Profit";
-            sheet.Cells["B6"].Value = 0; // The Waterfall chart will calculate the final total automatically.
-
-            // 4. Add a Waterfall chart.
-            //    Parameters: chart type, upper‑left row, upper‑left column, lower‑right row, lower‑right column
-            int chartIndex = sheet.Charts.Add(ChartType.Waterfall, 8, 0, 24, 10);
-            Chart chart = sheet.Charts[chartIndex];
-
-            // 5. Set the data source for the chart.
-            //    Use the range A1:B6 (including headers).
-            chart.NSeries.Add("=Sheet1!$B$2:$B$6", true);
-            chart.NSeries.CategoryData = "=Sheet1!$A$2:$A$6";
-
-            // 6. Optional: Customize the chart title.
-            chart.Title.Text = "Quarterly Financial Waterfall";
-
-            // 7. Optional: Show the chart legend.
-            chart.ShowLegend = true;
-
-            // 8. Save the workbook as an XLSX file.
-            workbook.Save("WaterfallChartDemo.xlsx");
-        }
-    }
-}
-```
+{{< gist "aspose-cells-gists" "59a1901d62ea9ceb08456a818431a898" "Landingpages-LLM-create-WaterfallChart.cs" >}}
 
 The code above creates a simple Waterfall chart that visualizes the flow from the **Start** value through **Sales**, **Expenses**, **Tax**, and finally calculates the **Profit** automatically.
 
@@ -136,15 +77,6 @@ XLSX is the modern Open XML workbook format introduced with Microsoft Office 200
 
 {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->
-
-{{< blocks/products/pf/agp/other-supported-section title="Other Supported Waterfall Chart Formats" subTitle="You can also create Waterfall charts in other Microsoft Excel formats listed below." >}}
-
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/chart/waterfall-to-xls/" name="XLS" description="Microsoft Excel Spreadsheet (Legacy)" >}} 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/chart/waterfall-to-xlsx/" name="XLSX" description="Open XML Workbook" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/chart/waterfall-to-xlsb/" name="XLSB" description="Excel Binary Workbook" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/chart/waterfall-to-xlsm/" name="XLSM" description="Macro‑enabled Spreadsheet" >}} 
-
-{{< /blocks/products/pf/agp/other-supported-section >}}
 
 {{< /blocks/products/pf/main-container >}}
     

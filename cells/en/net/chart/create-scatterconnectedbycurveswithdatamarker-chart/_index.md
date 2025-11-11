@@ -52,68 +52,7 @@ Aspose.Cells for .NET runs on any platform that supports **.NET Framework 4.0+**
 
 {{% blocks/products/pf/agp/code-block title="Create ScatterConnectedByCurvesWithDataMarker chart - C#" offSpacer="" %}}
 
-```csharp
-using System;
-using Aspose.Cells;
-using Aspose.Cells.Charts;
-
-namespace ScatterChartDemo
-{
-    class Program
-    {
-        static void Main()
-        {
-            // Create a new workbook.
-            Workbook workbook = new Workbook();
-
-            // Get the first worksheet.
-            Worksheet sheet = workbook.Worksheets[0];
-            Cells cells = sheet.Cells;
-
-            // Populate the worksheet with X‑Y data.
-            // Column A – X values, Column B – Y values.
-            double[] xValues = { 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 };
-            double[] yValues = { 5, 7, 6, 8, 12, 11, 13, 15, 14, 16 };
-
-            for (int i = 0; i < xValues.Length; i++)
-            {
-                cells[i, 0].PutValue(xValues[i]); // A column
-                cells[i, 1].PutValue(yValues[i]); // B column
-            }
-
-            // Add a ScatterConnectedByCurvesWithDataMarker chart.
-            int chartIndex = sheet.Charts.Add(ChartType.ScatterConnectedByCurvesWithDataMarker);
-            Chart chart = sheet.Charts[chartIndex];
-
-            // Set the position of the chart (row, column, offset rows, offset columns).
-            chart.Position = new int[] { 5, 4, 0, 0 };
-            chart.Height = 350;
-            chart.Width = 500;
-
-            // Add a series to the chart.
-            int seriesIndex = chart.NSeries.Add("=Sheet1!$A$1:$A$10", "=Sheet1!$B$1:$B$10");
-            NSeries series = chart.NSeries[seriesIndex];
-
-            // Set series name.
-            series.Name = "Sample Data";
-
-            // Enable data markers.
-            series.Marker.Type = MarkerType.Circle;    // Marker shape
-            series.Marker.Size = 8;                   // Marker size (points)
-            series.Marker.ForegroundColor = System.Drawing.Color.Red; // Marker color
-
-            // Optional – set the line style to smooth.
-            series.Smooth = true;
-
-            // Apply a built‑in chart style.
-            chart.ChartStyle = 12; // Choose any style index (1‑48)
-
-            // Save the workbook.
-            workbook.Save("ScatterConnectedByCurvesWithDataMarker.xlsx");
-        }
-    }
-}
-```
+{{< gist "aspose-cells-gists" "59a1901d62ea9ceb08456a818431a898" "Landingpages-LLM-create-ScatterConnectedByCurvesWithDataMarker.cs" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 
@@ -136,15 +75,6 @@ XLSX is the default file format for Microsoft Excel workbooks introduced with Of
 
 {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->
-
-{{< blocks/products/pf/agp/other-supported-section title="Other Supported Chart Types" subTitle="Aspose.Cells can create many additional chart types. Below are a few commonly used alternatives." >}}
-
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/chart/insert-line-chart/" name="Line Chart" description="Standard line chart for trend analysis" >}} 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/chart/insert-pie-chart/" name="Pie Chart" description="Circular chart for percentage distribution" >}} 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/chart/insert-bar-chart/" name="Bar Chart" description="Horizontal or vertical bar representation" >}} 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/chart/insert-area-chart/" name="Area Chart" description="Filled line chart to emphasize volume" >}} 
-
-{{< /blocks/products/pf/agp/other-supported-section >}}
 
 {{< /blocks/products/pf/main-container >}}
 

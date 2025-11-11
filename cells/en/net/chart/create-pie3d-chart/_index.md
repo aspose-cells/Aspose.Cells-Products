@@ -54,76 +54,7 @@ For offline installation or additional DLLs, visit the <a href="https://download
 
 {{% blocks/products/pf/agp/code-block title="Create a 3D Pie Chart – C#" offSpacer="" %}}
 
-```csharp
-// ----------------------------------------------------------
-//  Create a 3D Pie (Pie3D) chart in an Excel workbook using Aspose.Cells.
-// ----------------------------------------------------------
-
-using System;
-using Aspose.Cells;
-using Aspose.Cells.Charts;
-
-namespace AsposeCellsPie3DSample
-{
-    class Program
-    {
-        static void Main()
-        {
-            // 1. Instantiate a new Workbook.
-            Workbook workbook = new Workbook();
-
-            // 2. Access the first worksheet.
-            Worksheet sheet = workbook.Worksheets[0];
-            sheet.Name = "SalesData";
-
-            // 3. Populate cells with sample data.
-            //    Column A – Product name, Column B – Sales amount.
-            sheet.Cells["A1"].Value = "Product";
-            sheet.Cells["B1"].Value = "Sales";
-
-            string[] products = { "Laptop", "Smartphone", "Tablet", "Desktop", "Monitor" };
-            double[] sales = { 120000, 95000, 57000, 80000, 43000 };
-
-            for (int i = 0; i < products.Length; i++)
-            {
-                sheet.Cells[i + 1, 0].Value = products[i];   // Column A
-                sheet.Cells[i + 1, 1].Value = sales[i];     // Column B
-            }
-
-            // 4. Add a chart to the worksheet.
-            int chartIndex = sheet.Charts.Add(ChartType.Pie3D);
-            Chart chart = sheet.Charts[chartIndex];
-
-            // Position the chart (row, column, height in cells, width in cells)
-            chart.Position = 0;          // First row
-            chart.FirstRow = 5;          // Start at row 6 (zero‑based)
-            chart.FirstColumn = 0;       // Start at column A
-            chart.Height = 25;           // Height in cells
-            chart.Width = 10;            // Width in cells
-
-            // 5. Set the data source for the chart.
-            //    Series uses the sales values (B2:B6) and the category names (A2:A6).
-            chart.NSeries.Add("B2:B6", true);
-            chart.NSeries[0].CategoryData = "A2:A6";
-
-            // 6. Optional: Customize chart title and style.
-            chart.Title.Text = "Quarterly Sales Distribution";
-            chart.Title.Font.IsBold = true;
-            chart.Title.Font.Size = 12;
-
-            // Use one of the built‑in 3D chart styles (optional).
-            chart.ChartArea.AreaBackgroundColor = Color.White;
-            chart.PlotArea.BackgroundColor = Color.FromArgb(255, 255, 255);
-            chart.PlotArea.AreaType = AreaType.Standard;
-
-            // 7. Save the workbook to an XLSX file.
-            workbook.Save("Pie3DChart.xlsx");
-
-            Console.WriteLine("Pie3D chart created successfully.");
-        }
-    }
-}
-```
+{{< gist "aspose-cells-gists" "59a1901d62ea9ceb08456a818431a898" "Landingpages-LLM-create-Pie3DChart.cs" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 
@@ -146,15 +77,6 @@ XLSX is the default file format for Microsoft Excel workbooks. It is a ZIP pac
 
 {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->
-
-{{< blocks/products/pf/agp/other-supported-section title="Other Supported Chart Types" subTitle="Aspose.Cells can generate many additional chart types besides Pie3D." >}}
-
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/chart/insert-pie-chart/" name="Pie Chart" description="Two‑dimensional pie chart" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/chart/insert-line-chart/" name="Line Chart" description="Standard line chart" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/chart/insert-bar-chart/" name="Bar Chart" description="Horizontal bar chart" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/chart/insert-column-chart/" name="Column Chart" description="Vertical column chart" >}}
-
-{{< /blocks/products/pf/agp/other-supported-section >}}
 
 {{< /blocks/products/pf/main-container >}}
 

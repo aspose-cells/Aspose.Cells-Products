@@ -70,89 +70,8 @@ The following steps illustrate the creation of a PyramidColumn3D chart inside an
 
 {{% blocks/products/pf/agp/code-block title="Create PyramidColumn3D Chart - C#" offSpacer="" %}}
 
-```csharp
-using System;
-using Aspose.Cells;
-using Aspose.Cells.Charts;
+{{< gist "aspose-cells-gists" "59a1901d62ea9ceb08456a818431a898" "Landingpages-LLM-create-PyramidColumn3DChart.cs" >}}
 
-namespace AsposeCellsChartDemo
-{
-    class Program
-    {
-        static void Main()
-        {
-            // -----------------------------------------------------------------
-            // 1. Create a new workbook and get the first worksheet
-            // -----------------------------------------------------------------
-            Workbook workbook = new Workbook();
-            Worksheet sheet = workbook.Worksheets[0];
-            Cells cells = sheet.Cells;
-
-            // -----------------------------------------------------------------
-            // 2. Populate sample data (Category | Value)
-            // -----------------------------------------------------------------
-            // Header row
-            cells[0, 0].Value = "Category";
-            cells[0, 1].Value = "Sales";
-
-            // Data rows
-            string[] categories = { "Q1", "Q2", "Q3", "Q4" };
-            double[] sales = { 15000, 23000, 18000, 27000 };
-
-            for (int i = 0; i < categories.Length; i++)
-            {
-                cells[i + 1, 0].Value = categories[i];
-                cells[i + 1, 1].Value = sales[i];
-            }
-
-            // -----------------------------------------------------------------
-            // 3. Add a PyramidColumn3D chart to the worksheet
-            // -----------------------------------------------------------------
-            // The chart will be placed at cells D2 to L20 (adjust as needed)
-            int chartIndex = sheet.Charts.Add(ChartType.PyramidColumn3D, 1, 3, 15, 10);
-            Chart pyramidChart = sheet.Charts[chartIndex];
-
-            // -----------------------------------------------------------------
-            // 4. Set the data source for the chart
-            // -----------------------------------------------------------------
-            // Category axis – cells A2:A5 (Category names)
-            // Value axis – cells B2:B5 (Sales values)
-            pyramidChart.NSeries.Add("=Sheet1!$B$2:$B$5", true);
-            pyramidChart.NSeries.CategoryData = "=Sheet1!$A$2:$A$5";
-
-            // -----------------------------------------------------------------
-            // 5. Configure chart appearance
-            // -----------------------------------------------------------------
-            // Chart title
-            pyramidChart.Title.Text = "Quarterly Sales – 3D Pyramid Column Chart";
-            pyramidChart.Title.TextFont.Size = 14;
-            pyramidChart.Title.TextFont.IsBold = true;
-
-            // Legend
-            pyramidChart.Legend.Position = LegendPositionType.Right;
-
-            // Axis titles
-            pyramidChart.CategoryAxis.Title.Text = "Quarter";
-            pyramidChart.ValueAxis.Title.Text = "Sales (USD)";
-
-            // Apply a built‑in style
-            pyramidChart.Style = 9; // Choose any style number (1‑48)
-
-            // Optional: show data labels
-            foreach (Series series in pyramidChart.NSeries)
-            {
-                series.HasDataLabels = true;
-                series.DataLabels.Position = LegendPositionType.OutsideEnd;
-            }
-
-            // -----------------------------------------------------------------
-            // 6. Save the workbook
-            // -----------------------------------------------------------------
-            workbook.Save("PyramidColumn3D_Chart.xlsx");
-        }
-    }
-}
-```
 
 {{% /blocks/products/pf/agp/code-block %}}
 
@@ -176,13 +95,6 @@ XLSX is the default file format for Microsoft Excel workbooks. It is a ZIP‑bas
 {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="Other Supported Chart Types" subTitle="Aspose.Cells supports a wide variety of chart types beyond PyramidColumn3D." >}}
-
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/chart/create-pie-chart/" name="Pie Chart" description="2‑D and 3‑D Pie charts" >}} 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/chart/create-bar-chart/" name="Bar Chart" description="Stacked, Clustered, 3‑D Bar charts" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/chart/create-line-chart/" name="Line Chart" description="2‑D and 3‑D Line charts" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/chart/create-pyramid-column-3d-chart/" name="PyramidColumn3D" description="3‑D Pyramid Column chart" >}}
-{{< /blocks/products/pf/agp/other-supported-section >}}
 
 {{< /blocks/products/pf/main-container >}}
     

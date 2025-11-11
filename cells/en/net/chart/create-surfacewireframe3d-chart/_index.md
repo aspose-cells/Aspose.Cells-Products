@@ -63,79 +63,7 @@ The library works on any platform that supports **.NET Framework 4.x**, **.NET C
 
 {{% blocks/products/pf/agp/code-block title="Create SurfaceWireframe3D Chart in Excel – C#" offSpacer="" %}}
 
-```csharp
-using System;
-using Aspose.Cells;
-using Aspose.Cells.Charts;
-
-namespace AsposeCellsExamples
-{
-    class CreateSurfaceWireframe3DChart
-    {
-        static void Main()
-        {
-            // 1. Create a new workbook.
-            Workbook workbook = new Workbook();
-
-            // 2. Access the first worksheet.
-            Worksheet sheet = workbook.Worksheets[0];
-            Cells cells = sheet.Cells;
-
-            // ------------------------------------------------------------
-            // 3. Fill sample data required for a surface chart.
-            //    The chart expects a matrix of numeric values.
-            // ------------------------------------------------------------
-            double[,] data = new double[,]
-            {
-                { 10, 15, 20, 25, 30 },
-                { 12, 18, 24, 30, 36 },
-                { 14, 21, 28, 35, 42 },
-                { 16, 24, 32, 40, 48 },
-                { 18, 27, 36, 45, 54 }
-            };
-
-            // Write the matrix to the worksheet (range A1:E5).
-            for (int row = 0; row < data.GetLength(0); row++)
-            {
-                for (int col = 0; col < data.GetLength(1); col++)
-                {
-                    cells[row, col].PutValue(data[row, col]);
-                }
-            }
-
-            // ------------------------------------------------------------
-            // 4. Add a SurfaceWireframe3D chart.
-            // ------------------------------------------------------------
-            int chartIdx = sheet.Charts.Add(ChartType.SurfaceWireframe3D, 7, 0, 25, 10);
-            Chart chart = sheet.Charts[chartIdx];
-
-            // Set the data range for the chart (A1:E5).
-            chart.NSeries.Add("=Sheet1!$A$1:$E$5", true);
-
-            // ------------------------------------------------------------
-            // 5. Customize chart appearance.
-            // ------------------------------------------------------------
-            chart.Title.Text = "3‑D Surface Wireframe Chart";
-            chart.Title.Font.Color = System.Drawing.Color.DarkBlue;
-            chart.Title.Font.Size = 12;
-
-            // Axis titles (optional but improves readability).
-            chart.PrimaryCategoryAxis.Title.Text = "X‑Axis";
-            chart.PrimaryValueAxis.Title.Text = "Y‑Axis";
-            chart.PrimarySeriesAxis.Title.Text = "Z‑Axis";
-
-            // Set a style for the chart (optional).
-            chart.Style = 3; // Use built‑in style number 3.
-
-            // ------------------------------------------------------------
-            // 6. Save the workbook.
-            // ------------------------------------------------------------
-            workbook.Save("SurfaceWireframe3DChart.xlsx");
-            Console.WriteLine("SurfaceWireframe3D chart created successfully.");
-        }
-    }
-}
-```
+{{< gist "aspose-cells-gists" "59a1901d62ea9ceb08456a818431a898" "Landingpages-LLM-create-SurfaceWireframe3DChart.cs" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 
@@ -158,15 +86,6 @@ XLSX is the modern Microsoft Excel workbook format introduced with Office 2007. 
 
 {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->
-
-{{< blocks/products/pf/agp/other-supported-section title="Other Supported Chart Types" subTitle="Aspose.Cells supports a rich set of chart types in addition to SurfaceWireframe3D." >}}
-
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/chart/3d-bar-chart/" name="3D Bar" description="Three‑dimensional bar chart." >}} 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/chart/3d-pie-chart/" name="3D Pie" description="Three‑dimensional pie chart." >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/chart/line-chart/" name="Line" description="Standard line chart." >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/chart/scatter-chart/" name="Scatter" description="Scatter plot chart." >}}
-
-{{< /blocks/products/pf/agp/other-supported-section >}}
 
 {{< /blocks/products/pf/main-container >}}
     

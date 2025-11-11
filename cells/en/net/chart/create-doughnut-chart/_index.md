@@ -53,71 +53,7 @@ The library works on any platform that supports **.NET Framework 4.0+**, **.NET 
 
 {{% blocks/products/pf/agp/code-block title="Create Doughnut Chart in XLSX – C#" offSpacer="" %}}
 
-```csharp
-using System;
-using Aspose.Cells;
-using Aspose.Cells.Charts;
-
-namespace DoughnutChartDemo
-{
-    class Program
-    {
-        static void Main()
-        {
-            // 1. Create a new workbook.
-            Workbook workbook = new Workbook();
-
-            // 2. Access the first worksheet.
-            Worksheet sheet = workbook.Worksheets[0];
-            sheet.Name = "SalesData";
-
-            // 3. Populate sample data for the chart.
-            //    Row 0: Category names
-            //    Row 1: Corresponding values
-            string[] categories = { "North", "South", "East", "West" };
-            double[] values = { 12000, 15000, 8000, 11000 };
-
-            for (int i = 0; i < categories.Length; i++)
-            {
-                // Category names in column A (index 0)
-                sheet.Cells[i, 0].Value = categories[i];
-
-                // Values in column B (index 1)
-                sheet.Cells[i, 1].Value = values[i];
-            }
-
-            // 4. Add a Doughnut chart.
-            int chartIndex = sheet.Charts.Add(ChartType.Doughnut);
-            Chart chart = sheet.Charts[chartIndex];
-
-            // Position the chart on the worksheet.
-            chart.Left = 350;   // in points
-            chart.Top = 20;
-            chart.Width = 400;
-            chart.Height = 300;
-
-            // 5. Set chart title.
-            chart.Title.Text = "Regional Sales Distribution";
-
-            // 6. Add a series and define its data source.
-            //    Series data: values range B1:B4
-            //    Series category labels: names range A1:A4
-            int seriesIndex = chart.NSeries.Add("=SalesData!$B$1:$B$4", true);
-            chart.NSeries[seriesIndex].CategoryData = "=SalesData!$A$1:$A$4";
-
-            // 7. Optional: customize the doughnut hole size (percentage of radius).
-            chart.DoughnutHoleSize = 50; // 50% creates a medium‑sized hole.
-
-            // 8. Optional: display data labels.
-            chart.NSeries[seriesIndex].IsShowValue = true;
-            chart.NSeries[seriesIndex].IsShowCategoryName = true;
-
-            // 9. Save the workbook.
-            workbook.Save("DoughnutChartDemo.xlsx");
-        }
-    }
-}
-```
+{{< gist "aspose-cells-gists" "59a1901d62ea9ceb08456a818431a898" "Landingpages-LLM-create-DoughnutChart.cs" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 
@@ -141,15 +77,6 @@ XLSX is the default file format for Microsoft Excel 2007 and later. It follows t
 {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="Other Supported Chart Types" subTitle="Aspose.Cells can create many additional chart types including those listed below." >}}
-
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/chart/insert-pie-chart/" name="Pie Chart" description="Standard 2‑D and 3‑D Pie charts." >}} 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/chart/insert-bar-chart/" name="Bar Chart" description="Clustered, stacked, and 100% stacked bar charts." >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/chart/insert-line-chart/" name="Line Chart" description="Line, stacked line and 100% stacked line charts." >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/chart/insert-area-chart/" name="Area Chart" description="Area and stacked area charts." >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/chart/insert-scatter-chart/" name="Scatter Chart" description="Scatter and bubble charts." >}}
-
-{{< /blocks/products/pf/agp/other-supported-section >}}
 
 {{< /blocks/products/pf/main-container >}}
     

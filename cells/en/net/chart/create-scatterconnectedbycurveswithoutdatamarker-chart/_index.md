@@ -52,71 +52,7 @@ Aspose.Cells for .NET works on any platform that supports .NET Standard 2.0 
 
 {{% blocks/products/pf/agp/code-block title="Create ScatterConnectedByCurvesWithoutDataMarker chart – C#" offSpacer="" %}}
 
-```csharp
-using System;
-using Aspose.Cells;
-
-namespace AsposeCellsScatterChartExample
-{
-    class Program
-    {
-        static void Main()
-        {
-            // 1. Create a new workbook.
-            Workbook workbook = new Workbook();
-
-            // 2. Access the first worksheet.
-            Worksheet sheet = workbook.Worksheets[0];
-
-            // 3. Populate the worksheet with sample X and Y values.
-            //    Column A – X values, Column B – Y values.
-            double[] xValues = { 1, 2, 3, 4, 5, 6, 7, 8 };
-            double[] yValues = { 3, 5, 4, 7, 6, 9, 8, 10 };
-
-            for (int i = 0; i < xValues.Length; i++)
-            {
-                // Row index is zero‑based.
-                sheet.Cells[i, 0].Value = xValues[i]; // Column A
-                sheet.Cells[i, 1].Value = yValues[i]; // Column B
-            }
-
-            // 4. Add a ScatterConnectedByCurvesWithoutDataMarker chart.
-            //    The chart will be placed from row 10, column 0 to row 30, column 10.
-            int chartIndex = sheet.Charts.Add(
-                ChartType.ScatterConnectedByCurvesWithoutDataMarker,
-                10, 0, 30, 10);
-
-            Chart chart = sheet.Charts[chartIndex];
-
-            // 5. Set the chart title.
-            chart.Title.Text = "Smooth Scatter Chart (No Data Markers)";
-            chart.Title.Font.Size = 12;
-            chart.Title.Font.Bold = true;
-
-            // 6. Add a data series to the chart.
-            //    Series data range: X values = A1:A8, Y values = B1:B8.
-            int seriesIndex = chart.NSeries.Add("=Sheet1!$A$1:$A$8", true);
-            NSeries series = chart.NSeries[seriesIndex];
-            series.Add("=Sheet1!$B$1:$B$8");
-
-            // 7. Configure the series name (appears in the legend).
-            series.Name = "Sample Data";
-
-            // 8. Set axis titles.
-            chart.CategoryAxis.Title.Text = "X Axis";
-            chart.ValueAxis.Title.Text = "Y Axis";
-
-            // 9. Optionally apply a built‑in chart style.
-            chart.Style = 9; // One of the built‑in styles (index based).
-
-            // 10. Save the workbook.
-            workbook.Save("ScatterConnectedByCurvesWithoutDataMarker.xlsx");
-
-            Console.WriteLine("Workbook with ScatterConnectedByCurvesWithoutDataMarker chart saved successfully.");
-        }
-    }
-}
-```
+{{< gist "aspose-cells-gists" "59a1901d62ea9ceb08456a818431a898" "Landingpages-LLM-create-ScatterConnectedByCurvesWithoutDataMarker.cs" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 
@@ -139,15 +75,6 @@ XLSX is the modern Open XML format for Microsoft Excel workbooks introduced with
 
 {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->
-
-{{< blocks/products/pf/agp/other-supported-section title="Other Supported Chart Types" subTitle="Aspose.Cells also enables creation of many other chart types, including those listed below." >}}
-
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/chart/insert-pie-chart/" name="Pie" description="Standard Pie Chart" >}} 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/chart/insert-column-chart/" name="Column" description="Clustered Column Chart" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/chart/insert-line-chart/" name="Line" description="Line Chart with Markers" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/chart/insert-area-chart/" name="Area" description="Stacked Area Chart" >}}
-
-{{< /blocks/products/pf/agp/other-supported-section >}}
 
 {{< /blocks/products/pf/main-container >}}
     

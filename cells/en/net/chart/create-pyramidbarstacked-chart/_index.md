@@ -52,84 +52,7 @@ Aspose.Cells for .NET runs on any platform that supports **.NET Framework 4.0+**
 
 {{% blocks/products/pf/agp/code-block title="Create PyramidBarStacked Chart - C#" offSpacer="" %}}
 
-```csharp
-using System;
-using Aspose.Cells;
-using Aspose.Cells.Charts;
-
-namespace AsposeCellsChartExample
-{
-    class Program
-    {
-        static void Main()
-        {
-            // 1. Create a new workbook and access the first worksheet
-            Workbook workbook = new Workbook();
-            Worksheet sheet = workbook.Worksheets[0];
-
-            // 2. Populate the worksheet with sample data
-            //    Column A – Category, Column B – Q1, Column C – Q2, Column D – Q3
-            string[] categories = { "North", "South", "East", "West" };
-            int[,] values = {
-                { 30, 20, 15 },   // North
-                { 25, 30, 20 },   // South
-                { 20, 25, 30 },   // East
-                { 15, 10, 25 }    // West
-            };
-
-            // Header row
-            sheet.Cells[0, 0].Value = "Region";
-            sheet.Cells[0, 1].Value = "Q1";
-            sheet.Cells[0, 2].Value = "Q2";
-            sheet.Cells[0, 3].Value = "Q3";
-
-            // Fill data rows
-            for (int i = 0; i < categories.Length; i++)
-            {
-                sheet.Cells[i + 1, 0].Value = categories[i];
-                sheet.Cells[i + 1, 1].Value = values[i, 0];
-                sheet.Cells[i + 1, 2].Value = values[i, 1];
-                sheet.Cells[i + 1, 3].Value = values[i, 2];
-            }
-
-            // 3. Add a PyramidBarStacked chart (type = 89)
-            int chartIndex = sheet.Charts.Add(ChartType.PyramidBarStacked);
-            Chart chart = sheet.Charts[chartIndex];
-
-            // Position the chart within the sheet (cells D6 to K20)
-            chart.Position = 5;   // Row index (zero‑based)
-            chart.Height = 15;    // Height in rows
-            chart.Left = 3;       // Column index (zero‑based)
-            chart.Width = 9;      // Width in columns
-
-            // 4. Define the data series for the chart
-            //   Series 1 – Q1
-            chart.NSeries.Add("=Sheet1!$B$2:$B$5", true);
-            //   Series 2 – Q2
-            chart.NSeries.Add("=Sheet1!$C$2:$C$5", true);
-            //   Series 3 – Q3
-            chart.NSeries.Add("=Sheet1!$D$2:$D$5", true);
-
-            // Set the category (X‑axis) labels
-            chart.NSeries.CategoryData = "=Sheet1!$A$2:$A$5";
-
-            // 5. Optional: Add a chart title and enable the legend
-            chart.Title.Text = "Quarterly Sales by Region (Stacked Pyramid)";
-            chart.Title.Font.Color = System.Drawing.Color.DarkBlue;
-            chart.Title.Font.Size = 12;
-            chart.HasLegend = true;
-
-            // 6. Apply a simple built‑in style (optional)
-            chart.Style = 13;   // Pre‑defined chart style ID
-
-            // 7. Save the workbook to an XLSX file
-            workbook.Save("PyramidBarStackedChart.xlsx");
-
-            Console.WriteLine("Workbook with PyramidBarStacked chart created successfully.");
-        }
-    }
-}
-```
+{{< gist "aspose-cells-gists" "59a1901d62ea9ceb08456a818431a898" "Landingpages-LLM-create-PyramidBarStackedChart.cs" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 
@@ -152,15 +75,6 @@ XLSX is the default file format for Microsoft Excel workbooks introduced with Of
 
 {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->
-
-{{< blocks/products/pf/agp/other-supported-section title="Other Supported Chart Types" subTitle="Aspose.Cells can create many additional chart types, including the following popular ones." >}}
-
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/chart/pie/" name="Pie Chart" description="Standard pie chart for data distribution" >}} 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/chart/clusteredcolumn/" name="Clustered Column" description="Grouped column chart for side‑by‑side comparison" >}} 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/chart/line/" name="Line Chart" description="Trend line chart for time‑series data" >}} 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/chart/area/" name="Area Chart" description="Filled area chart to emphasize volume" >}} 
-
-{{< /blocks/products/pf/agp/other-supported-section >}}
 
 {{< /blocks/products/pf/main-container >}}
     

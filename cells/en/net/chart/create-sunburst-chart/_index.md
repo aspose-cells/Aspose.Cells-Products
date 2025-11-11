@@ -62,94 +62,7 @@ The solution runs on any operating system that supports .NET Framework, .NET�
 
 {{% blocks/products/pf/agp/code-block title="Create Sunburst Chart in XLSX – C#" offSpacer="" %}}
 
-```csharp
-using System;
-using Aspose.Cells;
-using Aspose.Cells.Charts;
-
-namespace SunburstChartExample
-{
-    class Program
-    {
-        static void Main()
-        {
-            // Create a new workbook.
-            Workbook workbook = new Workbook();
-
-            // Access the first worksheet.
-            Worksheet sheet = workbook.Worksheets[0];
-            Cells cells = sheet.Cells;
-
-            // --------------------------------------------------------------
-            // 1. Populate hierarchical data.
-            // --------------------------------------------------------------
-            // Header row
-            cells[0, 0].Value = "Region";
-            cells[0, 1].Value = "Country";
-            cells[0, 2].Value = "City";
-            cells[0, 3].Value = "Sales";
-
-            // Data rows (Region > Country > City > Sales)
-            string[,] data = new string[,]
-            {
-                { "Americas", "USA",      "New York",    "120000" },
-                { "Americas", "USA",      "Los Angeles", "95000"  },
-                { "Americas", "Canada",   "Toronto",     "67000"  },
-                { "EMEA",     "Germany",  "Berlin",      "85000"  },
-                { "EMEA",     "Germany",  "Munich",      "73000"  },
-                { "EMEA",     "UK",       "London",      "99000"  },
-                { "APAC",     "Japan",    "Tokyo",       "110000" },
-                { "APAC",     "Australia","Sydney",      "56000"  }
-            };
-
-            // Fill the worksheet with the data array.
-            for (int i = 0; i < data.GetLength(0); i++)
-            {
-                for (int j = 0; j < data.GetLength(1); j++)
-                {
-                    cells[i + 1, j].Value = data[i, j];
-                }
-            }
-
-            // --------------------------------------------------------------
-            // 2. Add a Sunburst chart.
-            // --------------------------------------------------------------
-            // Define the range that contains the hierarchical data (including headers).
-            string dataRange = "A1:D9";
-
-            // Add a Sunburst chart (type: Sunburst = 85) to the sheet.
-            int chartIndex = sheet.Charts.Add(ChartType.Sunburst, 12, 0, 30, 8);
-            Chart chart = sheet.Charts[chartIndex];
-
-            // Set chart data source.
-            chart.NSeries.Add(dataRange, true);
-
-            // Set the series category as the hierarchical data.
-            // Sunburst charts interpret the first three columns as levels.
-            // (Region -> Country -> City) and the last column as values.
-            // No further configuration is required for the hierarchy.
-
-            // --------------------------------------------------------------
-            // 3. Customize chart appearance (optional).
-            // --------------------------------------------------------------
-            // Chart title
-            chart.Title.Text = "Sales Distribution – Sunburst Chart";
-
-            // Apply a built‑in style.
-            chart.Style = 2; // Style index 2 is a good default.
-
-            // Show data labels.
-            chart.NSeries[0].DataLabels.ShowValue = true;
-            chart.NSeries[0].DataLabels.ShowCategoryName = true;
-
-            // --------------------------------------------------------------
-            // 4. Save the workbook.
-            // --------------------------------------------------------------
-            workbook.Save("SunburstChartExample.xlsx");
-        }
-    }
-}
-```
+{{< gist "aspose-cells-gists" "59a1901d62ea9ceb08456a818431a898" "Landingpages-LLM-create-SunburstChartExample.cs" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 
@@ -173,14 +86,6 @@ XLSX is the modern Open XML format for Microsoft Excel workbooks. It stores data
 {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="Other Supported Chart Types" subTitle="Aspose.Cells can generate many additional chart types across Excel formats." >}}
-
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/chart/treemap/" name="Treemap" description="Hierarchical data visualization using nested rectangles." >}} 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/chart/funnel/" name="Funnel" description="Linear progression visualization for conversion analysis." >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/chart/radar/" name="Radar" description="Multivariate data displayed on a polar coordinate system." >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/chart/pie/" name="Pie" description="Standard circular chart for proportional data." >}}
-
-{{< /blocks/products/pf/agp/other-supported-section >}}
 
 {{< /blocks/products/pf/main-container >}}
     

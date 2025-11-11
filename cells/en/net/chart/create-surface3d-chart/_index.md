@@ -62,78 +62,7 @@ The library runs on any platform that supports **.NET Framework**, **.NET Core**
 
 {{% blocks/products/pf/agp/code-block title="Create Surface3D Chart - C#" offSpacer="" %}}
 
-```csharp
-using System;
-using Aspose.Cells;
-using Aspose.Cells.Charts;
-
-namespace Surface3DChartDemo
-{
-    class Program
-    {
-        static void Main()
-        {
-            // ------------------------------------------------------------
-            // 1. Create a new workbook and get the first worksheet.
-            // ------------------------------------------------------------
-            Workbook workbook = new Workbook();
-            Worksheet worksheet = workbook.Worksheets[0];
-            Cells cells = worksheet.Cells;
-
-            // ------------------------------------------------------------
-            // 2. Fill the worksheet with sample data (x, y, z values).
-            //    For a Surface chart the data is usually a matrix where
-            //    rows represent Y‑axis values and columns represent X‑axis values.
-            // ------------------------------------------------------------
-            double[,] data = new double[,]
-            {
-                { 10, 12, 14, 16, 18 },
-                { 13, 15, 17, 19, 21 },
-                { 16, 18, 20, 22, 24 },
-                { 19, 21, 23, 25, 27 },
-                { 22, 24, 26, 28, 30 }
-            };
-
-            // Write the matrix to the worksheet starting at cell A1.
-            for (int row = 0; row < data.GetLength(0); row++)
-            {
-                for (int col = 0; col < data.GetLength(1); col++)
-                {
-                    cells[row, col].Value = data[row, col];
-                }
-            }
-
-            // ------------------------------------------------------------
-            // 3. Add a Surface3D chart.
-            // ------------------------------------------------------------
-            int chartIndex = worksheet.Charts.Add(ChartType.Surface3D, 7, 0, 25, 10);
-            Chart chart = worksheet.Charts[chartIndex];
-
-            // ------------------------------------------------------------
-            // 4. Set the data source for the chart.
-            //    The source range must contain the full matrix of values.
-            // ------------------------------------------------------------
-            chart.NSeries.Add("=Sheet1!$A$1:$E$5", true);
-            chart.Title.Text = "Sample Surface3D Chart";
-
-            // ------------------------------------------------------------
-            // 5. Optional: Format chart axes.
-            // ------------------------------------------------------------
-            // X‑Axis (Category Axis)
-            chart.PrimaryCategoryAxis.Title.Text = "X Axis";
-            // Y‑Axis (Value Axis)
-            chart.PrimaryValueAxis.Title.Text = "Y Axis";
-            // Z‑Axis (Depth Axis)
-            chart.PrimarySeriesAxis.Title.Text = "Z Axis";
-
-            // ------------------------------------------------------------
-            // 6. Save the workbook in XLSX format.
-            // ------------------------------------------------------------
-            workbook.Save("Surface3DChart_out.xlsx");
-        }
-    }
-}
-```
+{{< gist "aspose-cells-gists" "59a1901d62ea9ceb08456a818431a898" "Landingpages-LLM-create-Surface3DChart.cs" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 
@@ -156,16 +85,6 @@ XLSX is the default file format for Microsoft Excel workbooks introduced with Of
 
 {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->
-
-{{< blocks/products/pf/agp/other-supported-section title="Other Supported Chart Types" subTitle="Aspose.Cells can generate many other chart types besides Surface3D." >}}
-
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/chart/create-pie-chart/" name="Pie Chart" description="2‑D pie chart for proportional data" >}} 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/chart/create-bar-chart/" name="Bar Chart" description="Vertical or horizontal bar charts" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/chart/create-line-chart/" name="Line Chart" description="Line charts for trend analysis" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/chart/create-area-chart/" name="Area Chart" description="Area charts for cumulative values" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/chart/create-scatter-chart/" name="Scatter Chart" description="Scatter charts for XY data points" >}}
-
-{{< /blocks/products/pf/agp/other-supported-section >}}
 
 {{< /blocks/products/pf/main-container >}}
     

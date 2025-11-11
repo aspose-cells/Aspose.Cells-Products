@@ -50,76 +50,9 @@ Aspose.Cells for .NET runs on any operating system that supports **.NET Framew
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="Create Pyramid Chart in XLSX – C#" offSpacer="" %}}
-```csharp
-// ------------------------------------------------------------
-//  Aspose.Cells for .NET – Creating a Pyramid chart in XLSX
-// ------------------------------------------------------------
 
-using Aspose.Cells;
-using System.Drawing;   // Required only for advanced styling (optional)
+{{< gist "aspose-cells-gists" "59a1901d62ea9ceb08456a818431a898" "Landingpages-LLM-create-PyramidChart.cs" >}}
 
-class Program
-{
-    static void Main()
-    {
-        // 1. Create a new workbook and get the first worksheet.
-        Workbook workbook = new Workbook();
-        Worksheet sheet = workbook.Worksheets[0];
-
-        // --------------------------------------------------------
-        // 2. Populate sample data (Categories + Values) that will be
-        //    displayed by the Pyramid chart.
-        // --------------------------------------------------------
-        // Header row
-        sheet.Cells["A1"].PutValue("Category");
-        sheet.Cells["B1"].PutValue("Value");
-
-        // Category column
-        sheet.Cells["A2"].PutValue("A");
-        sheet.Cells["A3"].PutValue("B");
-        sheet.Cells["A4"].PutValue("C");
-        sheet.Cells["A5"].PutValue("D");
-
-        // Values column
-        sheet.Cells["B2"].PutValue(40);
-        sheet.Cells["B3"].PutValue(30);
-        sheet.Cells["B4"].PutValue(20);
-        sheet.Cells["B5"].PutValue(10);
-
-        // --------------------------------------------------------
-        // 3. Add a Pyramid Bar chart to the worksheet.
-        //    Parameters: Chart type, upper‑left row, upper‑left column,
-        //    lower‑right row, lower‑right column.
-        // --------------------------------------------------------
-        int chartIndex = sheet.Charts.Add(
-            ChartType.PyramidBar,   // Pyramid chart (2‑D)
-            7, 0,                    // Upper‑left cell (row 7, column 0)
-            27, 10);                 // Lower‑right cell (row 27, column 10)
-
-        Chart pyramidChart = sheet.Charts[chartIndex];
-
-        // --------------------------------------------------------
-        // 4. Set chart title and style (optional).
-        // --------------------------------------------------------
-        pyramidChart.Title.Text = "Sample Pyramid Chart";
-        pyramidChart.Style = 2;               // Built‑in style #2
-        pyramidChart.ShowLegend = false;     // Hide legend for clarity
-
-        // --------------------------------------------------------
-        // 5. Bind the data series to the chart.
-        //    - NSeries.Add(dataRange, isVertical) – data for values.
-        //    - NSeries.CategoryData – categories (X‑axis).
-        // --------------------------------------------------------
-        pyramidChart.NSeries.Add("B2:B5", true);   // Values
-        pyramidChart.NSeries.CategoryData = "A2:A5"; // Categories
-
-        // --------------------------------------------------------
-        // 6. Save the workbook as an XLSX file.
-        // --------------------------------------------------------
-        workbook.Save("PyramidChart.xlsx");
-    }
-}
-```
 {{% /blocks/products/pf/agp/code-block %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
@@ -139,15 +72,6 @@ XLSX is Microsoft Excel’s modern Open XML format introduced with Office 
 
 {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->
-
-{{< blocks/products/pf/agp/other-supported-section title="Other Supported Chart Types" subTitle="Aspose.Cells can generate many other chart types in Excel. Below are a few examples." >}}
-
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/chart/bar-chart/" name="Bar Chart" description="Standard vertical bar chart" >}} 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/chart/funnel-chart/" name="Funnel Chart" description="Funnel chart for conversion analysis" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/chart/pie-chart/" name="Pie Chart" description="2‑D pie chart" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/chart/radar-chart/" name="Radar Chart" description="Radar chart for multidimensional data" >}}
-
-{{< /blocks/products/pf/agp/other-supported-section >}}
 
 {{< /blocks/products/pf/main-container >}}
 

@@ -53,67 +53,8 @@ Aspose.Cells for .NET works on any platform that supports **.NET Framework 4.0+*
 
 {{% blocks/products/pf/agp/code-block title="Create PieExploded Chart in XLSX – C#" offSpacer="" %}}
 
-```csharp
-using System;
-using Aspose.Cells;
-using Aspose.Cells.Charts;
+{{< gist "aspose-cells-gists" "59a1901d62ea9ceb08456a818431a898" "Landingpages-LLM-create-PieExplodedChart.cs" >}}
 
-namespace CreatePieExplodedChart
-{
-    class Program
-    {
-        static void Main()
-        {
-            // 1. Create a new workbook
-            Workbook workbook = new Workbook();
-
-            // 2. Get the first worksheet
-            Worksheet sheet = workbook.Worksheets[0];
-            Cells cells = sheet.Cells;
-
-            // 3. Populate data for the chart (Category and Value)
-            //    Category column (A) – Fruit names
-            //    Value column (B) – Sales amount
-            string[] categories = { "Apple", "Banana", "Cherry", "Date", "Elderberry" };
-            int[] values = { 120, 80, 150, 60, 90 };
-
-            for (int i = 0; i < categories.Length; i++)
-            {
-                // Row index starts at 0; column 0 = A, column 1 = B
-                cells[i, 0].Value = categories[i];   // Category
-                cells[i, 1].Value = values[i];       // Value
-            }
-
-            // 4. Add a chart of type PieExploded
-            int chartIndex = sheet.Charts.Add(ChartType.PieExploded, 7, 0, 26, 7);
-            Chart chart = sheet.Charts[chartIndex];
-
-            // 5. Set the data source for the chart
-            //    First parameter = name of the series
-            //    Second parameter = data range for categories (A1:A5)
-            //    Third parameter = data range for values (B1:B5)
-            chart.NSeries.Add("=Sheet1!$B$1:$B$5", true);
-            chart.NSeries[0].CategoryData = "=Sheet1!$A$1:$A$5";
-
-            // 6. Optional: Explode the second slice (Banana) for emphasis
-            //    Explode property works on the series' data points collection.
-            //    Index is zero‑based; here we explode the slice at index 1.
-            chart.NSeries[0].DataPoints[1].Explode = true;
-
-            // 7. Customize chart title and style
-            chart.Title.Text = "Fruit Sales – Exploded Pie Chart";
-            chart.Title.Font.Size = 14;
-            chart.Title.Font.IsBold = true;
-
-            // Apply a preset chart style (optional)
-            chart.Style = 2; // 2 corresponds to a predefined chart style
-
-            // 8. Save the workbook as an XLSX file
-            workbook.Save("PieExplodedChart.xlsx");
-        }
-    }
-}
-```
 
 {{% /blocks/products/pf/agp/code-block %}}
 
@@ -136,15 +77,6 @@ XLSX is the default file format for Microsoft Excel since Office 2007. It follow
 
 {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->
-
-{{< blocks/products/pf/agp/other-supported-section title="Other Supported Chart Types" subTitle="Aspose.Cells can create many additional chart types across Excel formats." >}}
-
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/chart/create-pie-chart/" name="Pie Chart" description="Standard pie chart" >}} 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/chart/create-bar-chart/" name="Bar Chart" description="Clustered/Stacked bar charts" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/chart/create-line-chart/" name="Line Chart" description="Line and stacked line charts" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/chart/create-area-chart/" name="Area Chart" description="Standard and stacked area charts" >}}
-
-{{< /blocks/products/pf/agp/other-supported-section >}}
 
 {{< /blocks/products/pf/main-container >}}
     

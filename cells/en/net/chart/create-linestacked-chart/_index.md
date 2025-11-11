@@ -62,77 +62,7 @@ Install-Package Aspose.Cells
 
 {{% blocks/products/pf/agp/code-block title="Create LineStacked chart in XLSX – C#" offSpacer="" %}}
 
-```csharp
-using System;
-using Aspose.Cells;
-using Aspose.Cells.Drawing;
-
-namespace AsposeCellsExamples
-{
-    class CreateLineStackedChart
-    {
-        static void Main()
-        {
-            // 1. Create a new workbook and obtain the first worksheet.
-            Workbook workbook = new Workbook();
-            Worksheet sheet = workbook.Worksheets[0];
-
-            // 2. Populate the worksheet with sample data for the chart.
-            //    The data layout is:
-            //    |   A   |   B   |   C   |
-            //    |-------|-------|-------|
-            //    | Month | Series1| Series2|
-            //    | Jan   |  30   |  20   |
-            //    | Feb   |  40   |  25   |
-            //    | Mar   |  35   |  30   |
-            //    | Apr   |  50   |  45   |
-            //    | May   |  55   |  50   |
-            Cells cells = sheet.Cells;
-            string[] months = { "Jan", "Feb", "Mar", "Apr", "May" };
-            int[] series1 = { 30, 40, 35, 50, 55 };
-            int[] series2 = { 20, 25, 30, 45, 50 };
-
-            // Header row
-            cells[0, 0].PutValue("Month");
-            cells[0, 1].PutValue("Series1");
-            cells[0, 2].PutValue("Series2");
-
-            // Data rows
-            for (int i = 0; i < months.Length; i++)
-            {
-                cells[i + 1, 0].PutValue(months[i]);
-                cells[i + 1, 1].PutValue(series1[i]);
-                cells[i + 1, 2].PutValue(series2[i]);
-            }
-
-            // 3. Add a chart to the worksheet (positioned at D2:E16).
-            int chartIndex = sheet.Charts.Add(ChartType.LineStacked, 1, 3, 15, 9);
-            Chart chart = sheet.Charts[chartIndex];
-
-            // 4. Set the data range for the chart.
-            //    The range includes the header row and data rows.
-            chart.NSeries.Add("B2:C6", true);
-            //    Set category (X‑axis) labels.
-            chart.NSeries.CategoryData = "A2:A6";
-
-            // 5. Customize chart appearance.
-            chart.Title.Text = "Stacked Line Chart Example";
-            chart.Title.Font.Size = 12;
-            chart.Title.Font.IsBold = true;
-
-            // Optional: Set axis titles.
-            chart.CategoryAxis.Title.Text = "Month";
-            chart.ValueAxis.Title.Text = "Value";
-
-            // Optional: Apply a built‑in style.
-            chart.Style = 13; // Predefined chart style (you can choose any integer 1‑48)
-
-            // 6. Save the workbook to an XLSX file.
-            workbook.Save("LineStackedChart.xlsx");
-        }
-    }
-}
-```
+{{< gist "aspose-cells-gists" "59a1901d62ea9ceb08456a818431a898" "Landingpages-LLM-create-LineStackedChart.cs" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 
@@ -155,15 +85,6 @@ XLSX is the primary file format for Microsoft Excel workbooks, introduced with O
 
 {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->
-
-{{< blocks/products/pf/agp/other-supported-section title="Other Supported Chart Types" subTitle="Aspose.Cells also allows creation of many other chart types, including those listed below." >}}
-
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/chart/line/" name="Line Chart" description="Simple line chart." >}} 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/chart/column/" name="Column Chart" description="Vertical column visualization." >}} 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/chart/pie/" name="Pie Chart" description="Circular pie representation." >}} 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/chart/area/" name="Area Chart" description="Filled area chart." >}} 
-
-{{< /blocks/products/pf/agp/other-supported-section >}}
 
 {{< /blocks/products/pf/main-container >}}
 

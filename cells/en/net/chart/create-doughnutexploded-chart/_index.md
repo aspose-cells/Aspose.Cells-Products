@@ -68,61 +68,7 @@ Aspose.Cells for .NET works on any platform that supports **.NET Framework 4.0+*
 
 {{% blocks/products/pf/agp/code-block title="Create DoughnutExploded Chart - C#" offSpacer="" %}}
 
-```csharp
-// ---------------------------------------------------------------
-//  Sample: Create a DoughnutExploded chart in an XLSX workbook
-// ---------------------------------------------------------------
-
-using System;
-using Aspose.Cells;               // Namespace for Aspose.Cells
-
-namespace AsposeCellsExamples
-{
-    class Program
-    {
-        static void Main()
-        {
-            // 1. Create a new workbook and get the first worksheet
-            Workbook workbook = new Workbook();
-            Worksheet sheet = workbook.Worksheets[0];
-
-            // 2. Populate the worksheet with sample data
-            //    Column A – Category, Column B – Value
-            sheet.Cells["A1"].PutValue("Category");
-            sheet.Cells["B1"].PutValue("Value");
-
-            string[] categories = { "Apples", "Bananas", "Cherries", "Dates", "Elderberries" };
-            int[] values = { 30, 20, 25, 15, 10 };
-
-            for (int i = 0; i < categories.Length; i++)
-            {
-                sheet.Cells[i + 1, 0].PutValue(categories[i]); // A2, A3, ...
-                sheet.Cells[i + 1, 1].PutValue(values[i]);    // B2, B3, ...
-            }
-
-            // 3. Add a DoughnutExploded chart (positioned at C1:D15)
-            int chartIdx = sheet.Charts.Add(ChartType.DoughnutExploded, 0, 2, 14, 9);
-            Chart chart = sheet.Charts[chartIdx];
-
-            // 4. Set the data source for the chart series (values in B2:B6)
-            int seriesIdx = chart.NSeries.Add("=Sheet1!$B$2:$B$6", true);
-            NSeries series = chart.NSeries[seriesIdx];
-
-            // 5. Set the category axis labels (categories in A2:A6)
-            series.CategoryData = "=Sheet1!$A$2:$A$6";
-
-            // 6. Optional: Add a chart title
-            chart.Title.Text = "Fruit Sales Distribution";
-
-            // 7. Optional: Apply a built‑in chart style
-            chart.Style = 13; // Predefined style index (e.g., 13 gives a clean look)
-
-            // 8. Save the workbook as XLSX
-            workbook.Save("DoughnutExplodedChart.xlsx");
-        }
-    }
-}
-```
+{{< gist "aspose-cells-gists" "59a1901d62ea9ceb08456a818431a898" "Landingpages-LLM-create-DoughnutExplodedChart.cs" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 
@@ -145,15 +91,6 @@ XLSX is the modern file format for Microsoft Excel workbooks introduced with Off
 
 {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->
-
-{{< blocks/products/pf/agp/other-supported-section title="Other Supported Chart Types" subTitle="Aspose.Cells can generate many other chart types besides DoughnutExploded." >}}
-
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/chart/pie/" name="Pie Chart" description="Standard pie chart." >}} 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/chart/bar/" name="Bar Chart" description="Clustered, stacked and 100% stacked bar charts." >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/chart/line/" name="Line Chart" description="Line, stacked line and line with markers." >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/chart/area/" name="Area Chart" description="Area, stacked area and 100% stacked area." >}}
-
-{{< /blocks/products/pf/agp/other-supported-section >}}
 
 {{< /blocks/products/pf/main-container >}}
 

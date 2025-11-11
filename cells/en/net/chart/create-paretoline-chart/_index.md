@@ -52,75 +52,7 @@ Aspose.Cells for .NET works on any platform that supports .NET Framework 4.0+, .
 
 {{% blocks/products/pf/agp/code-block title="Create ParetoLine Chart in XLSX – C#" offSpacer="" %}}
 
-```csharp
-using System;
-using Aspose.Cells;
-using Aspose.Cells.Charts;
-
-namespace ParetoLineChartDemo
-{
-    class Program
-    {
-        static void Main()
-        {
-            // 1. Create a new workbook.
-            Workbook workbook = new Workbook();
-
-            // 2. Get the first worksheet.
-            Worksheet sheet = workbook.Worksheets[0];
-            Cells cells = sheet.Cells;
-
-            // 3. Populate sample data.
-            //    Column A – Category
-            //    Column B – Frequency (numeric)
-            string[] categories = { "A", "B", "C", "D", "E", "F", "G" };
-            int[] frequencies = { 20, 35, 15, 10, 5, 8, 7 };
-
-            for (int i = 0; i < categories.Length; i++)
-            {
-                // Write category name.
-                cells[i, 0].PutValue(categories[i]);
-                // Write corresponding frequency.
-                cells[i, 1].PutValue(frequencies[i]);
-            }
-
-            // 4. Add a ParetoLine chart.
-            int chartIndex = sheet.Charts.Add(ChartType.ParetoLine);
-            Chart chart = sheet.Charts[chartIndex];
-
-            //    Set the position of the chart on the worksheet.
-            chart.Left = 350;   // pixels from left edge
-            chart.Top = 20;     // pixels from top edge
-            chart.Width = 500;
-            chart.Height = 350;
-
-            // 5. Set the data range for the chart.
-            //    The source data includes both category (A) and values (B).
-            string dataRange = "A1:B7";
-            //    The category axis labels are in column A.
-            string categoryRange = "A1:A7";
-
-            chart.NSeries.Add(dataRange, true);
-            chart.NSeries.CategoryData = categoryRange;
-
-            // 6. Customize chart appearance.
-            chart.Title.Text = "Pareto Line Chart – Sample Data";
-            chart.Title.Font.Size = 12;
-            chart.Title.Font.IsBold = true;
-
-            // Axis titles.
-            chart.CategoryAxis.Title.Text = "Category";
-            chart.ValueAxis.Title.Text = "Frequency";
-
-            // Optional: apply a built‑in chart style.
-            chart.Style = 12; // A predefined style number (1‑48).
-
-            // 7. Save the workbook as XLSX.
-            workbook.Save("ParetoLineChart.xlsx");
-        }
-    }
-}
-```
+{{< gist "aspose-cells-gists" "59a1901d62ea9ceb08456a818431a898" "Landingpages-LLM-create-ParetoLineChart.cs" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 
@@ -144,14 +76,6 @@ XLSX is the default file format for Microsoft Excel (from Office 2007 onward). I
 {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="Other Supported Chart Formats" subTitle="ParetoLine chart can also be created in other Excel file formats supported by Aspose.Cells." >}}
-
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/chart/pareto-line/xls/" name="XLS" description="Microsoft Excel Spreadsheet (Legacy)" >}} 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/chart/pareto-line/xlsb/" name="XLSB" description="Excel Binary Workbook" >}} 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/chart/pareto-line/xlsm/" name="XLSM" description="Macro‑enabled Spreadsheet" >}} 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/chart/pareto-line/xltx/" name="XLTX" description="Excel Template (Open XML)" >}} 
-
-{{< /blocks/products/pf/agp/other-supported-section >}}
 
 {{< /blocks/products/pf/main-container >}}
 

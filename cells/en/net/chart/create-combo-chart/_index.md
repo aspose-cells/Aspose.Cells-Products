@@ -57,87 +57,8 @@ A Combo chart helps you compare distinct data series that have different value r
 
 {{% blocks/products/pf/agp/code-block title="Create a Combo Chart (Line + Column) – C#" offSpacer="" %}}
 
-```csharp
-// ------------------------------------------------------------
-//  Sample: Create a Combo chart (Column + Line) using Aspose.Cells for .NET
-// ------------------------------------------------------------
-using System;
-using Aspose.Cells;
-using Aspose.Cells.Charts;
+{{< gist "aspose-cells-gists" "59a1901d62ea9ceb08456a818431a898" "Landingpages-LLM-create-Combo-Chart.cs" >}}
 
-namespace AsposeCellsComboChart
-{
-    class Program
-    {
-        static void Main()
-        {
-            // 1. Create a new workbook and obtain the first worksheet.
-            var workbook = new Workbook();
-            var sheet = workbook.Worksheets[0];
-
-            // ------------------------------------------------------------
-            // 2. Populate worksheet with sample data.
-            // ------------------------------------------------------------
-            //    A      B      C
-            // 1  Month  Sales  Profit
-            // 2  Jan    120    30
-            // 3  Feb    150    45
-            // 4  Mar    180    55
-            // ------------------------------------------------------------
-            sheet.Cells["A1"].Value = "Month";
-            sheet.Cells["B1"].Value = "Sales";
-            sheet.Cells["C1"].Value = "Profit";
-
-            string[] months = { "Jan", "Feb", "Mar" };
-            double[] sales = { 120, 150, 180 };
-            double[] profit = { 30, 45, 55 };
-
-            for (int i = 0; i < months.Length; i++)
-            {
-                sheet.Cells[i + 1, 0].Value = months[i];
-                sheet.Cells[i + 1, 1].Value = sales[i];
-                sheet.Cells[i + 1, 2].Value = profit[i];
-            }
-
-            // ------------------------------------------------------------
-            // 3. Add a chart object – start with a Column chart (base type).
-            // ------------------------------------------------------------
-            int chartIndex = sheet.Charts.Add(ChartType.Column, 5, 0, 20, 10);
-            Chart chart = sheet.Charts[chartIndex];
-            chart.Title.Text = "Sales & Profit Combo Chart";
-
-            // ------------------------------------------------------------
-            // 4. Add Column series (primary axis) – Sales data.
-            // ------------------------------------------------------------
-            int salesSeriesIndex = chart.NSeries.Add("=Sheet1!$B$2:$B$4", true);
-            chart.NSeries[salesSeriesIndex].Name = "Sales";
-            chart.NSeries[salesSeriesIndex].Type = ChartType.Column; // Explicitly set Column type
-
-            // ------------------------------------------------------------
-            // 5. Add Line series (secondary axis) – Profit data.
-            // ------------------------------------------------------------
-            int profitSeriesIndex = chart.NSeries.Add("=Sheet1!$C$2:$C$4", true);
-            chart.NSeries[profitSeriesIndex].Name = "Profit";
-            chart.NSeries[profitSeriesIndex].Type = ChartType.Line; // Line for secondary series
-
-            // Place the line series on the secondary axis (optional but common).
-            chart.NSeries[profitSeriesIndex].PlotOnSecondAxis = true;
-
-            // ------------------------------------------------------------
-            // 6. Customize axes titles (optional).
-            // ------------------------------------------------------------
-            chart.CategoryAxis.Title.Text = "Month";
-            chart.ValueAxis.Title.Text = "Sales";
-            chart.ValueAxisSecondary.Title.Text = "Profit";
-
-            // ------------------------------------------------------------
-            // 7. Save the workbook.
-            // ------------------------------------------------------------
-            workbook.Save("ComboChart_Output.xlsx");
-        }
-    }
-}
-```
 
 {{% /blocks/products/pf/agp/code-block %}}
 

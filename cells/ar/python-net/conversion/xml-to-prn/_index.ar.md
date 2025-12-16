@@ -1,7 +1,7 @@
 ---
 title: Python XML إلى PRN - محول XML إلى PRN
-description: Aspose اكسل. Python اكسل. قم بتحويل XML إلى PRN بسرعة وسهولة باستخدام Aspose.Cells. Python XML إلى PRN. Python حفظ XML إلى PRN. احفظ XML كـ PRN باستخدام مكتبة Excel Python.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert XML to PRN in Python Excel Library., Save XML to PRN using Python Excel Library., Python XML to PRN saveformat., XML to PRN Converter., Python Save XML as PRN]
+description: Aspose Excel. يوفر هذا الحل الشامل للمطورين Python نهجًا متكاملًا تمامًا لتحويل XML إلى تنسيق PRN، مما يتيح حفظ بيانات XML بسلاسة بتنسيق PRN باستخدام مكتبة Aspose.Cells، كل ذلك من خلال كود Python فعال وقابل للتخصيص.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart XML files to PRN Converter for Python., Convert XML to PRN in Python., XML files to PRN Conversion in Python., Leverage intelligent data processing to automatically parse and save XML into PRN format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="تحويل XML إلى PRN في مكتبة Excel Python" h2="مكتبة إكسل Python عالية السرعة لتحويل XML إلى PRN. استخدم تحويل Excel API لتطوير برامج مستقلة عالية المستوى للنظام الأساسي في Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="PRN" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -28,7 +28,7 @@ keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert X
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="نموذج التعليمات البرمجية لتحويل XML إلى PRN عبر مكتبة Excel Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xml" outformat="prn" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="نموذج التعليمات البرمجية لتحويل XML إلى PRN عبر مكتبة Excel Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="xml" outformat="prn" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="كيفية تحويل XML إلى PRN" %}}
 

@@ -1,7 +1,7 @@
 ---
 title: Python OTS zu DIF - OTS zu DIF Konverter
-description: Aspose Excel. Python Excel. Konvertieren Sie OTS schnell und einfach in DIF mit Aspose.Cells. Python OTS in DIF. Python Speichern Sie OTS in DIF. Speichern Sie OTS als DIF mit der Python Excel-Bibliothek.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert OTS to DIF in Python Excel Library., Save OTS to DIF using Python Excel Library., Python OTS to DIF saveformat., OTS to DIF Converter., Python Save OTS as DIF]
+description: Aspose Excel. Diese umfassende Lösung bietet Entwicklern einen vollständig integrierten Ansatz zur Konvertierung von OTS in das Format DIF und ermöglicht das nahtlose Speichern von OTS-Daten im Format DIF mithilfe der Bibliothek Aspose.Cells – alles durch effizienten und anpassbaren Code Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart OTS files to DIF Converter for Python., Convert OTS to DIF in Python., OTS files to DIF Conversion in Python., Leverage intelligent data processing to automatically parse and save OTS into DIF format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Konvertieren Sie OTS in DIF in der Excel-Bibliothek Python" h2="Hochgeschwindigkeits-Excel-Bibliothek Python zum Konvertieren von OTS in DIF. Dies ist eine professionelle Softwarelösung zum Importieren und Exportieren von OTS, DIF und vielen anderen Formaten mit Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="DIF" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -27,7 +27,7 @@ Befolgen Sie die einfachen Schritte, um OTS in DIF zu konvertieren. Laden Sie Ih
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Beispielcode zur Konvertierung von OTS in DIF über die Excel-Bibliothek Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="ots" outformat="dif" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="Beispielcode zur Konvertierung von OTS in DIF über die Excel-Bibliothek Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="ots" outformat="dif" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="So konvertieren Sie OTS über Python in DIF" %}}
 

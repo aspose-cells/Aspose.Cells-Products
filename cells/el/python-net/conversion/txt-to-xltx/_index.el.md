@@ -1,7 +1,7 @@
 ---
 title: Python TXT έως XLTX - TXT έως XLTX Μετατροπέας
-description: Aspose Excel. Python Excel. Μετατρέψτε το TXT σε XLTX γρήγορα και εύκολα με Aspose.Cells. Python TXT σε XLTX. Python Αποθήκευση 076193411 ως 307 61123481 χρησιμοποιώντας Python Βιβλιοθήκη Excel.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert TXT to XLTX in Python Excel Library., Save TXT to XLTX using Python Excel Library., Python TXT to XLTX saveformat., TXT to XLTX Converter., Python Save TXT as XLTX]
+description: Aspose Excel. Αυτή η ολοκληρωμένη λύση παρέχει στους προγραμματιστές Python μια πλήρως ενσωματωμένη προσέγγιση για τη μετατροπή της μορφής TXT σε XLTX, επιτρέποντας την απρόσκοπτη αποθήκευση δεδομένων TXT σε μορφή XLTX χρησιμοποιώντας τη βιβλιοθήκη Aspose.Cells, μέσω αποτελεσματικού και προσαρμόσιμου κώδικα Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart TXT files to XLTX Converter for Python., Convert TXT to XLTX in Python., TXT files to XLTX Conversion in Python., Leverage intelligent data processing to automatically parse and save TXT into XLTX format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Μετατροπή TXT σε XLTX στο Python Excel Library" h2="Βιβλιοθήκη excel υψηλής ταχύτητας Python για μετατροπή TXT σε XLTX. Χρησιμοποιήστε τη μετατροπή excel API για να αναπτύξετε λογισμικό υψηλού επιπέδου, ανεξάρτητο από πλατφόρμα στο Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLTX" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -28,7 +28,7 @@ keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert T
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Δείγμα κώδικα για μετατροπή TXT σε XLTX μέσω Python Excel Library" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="txt" outformat="xltx" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Δείγμα κώδικα για μετατροπή TXT σε XLTX μέσω Python Excel Library" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="txt" outformat="xltx" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="Πώς να μετατρέψετε το TXT σε XLTX" %}}
 

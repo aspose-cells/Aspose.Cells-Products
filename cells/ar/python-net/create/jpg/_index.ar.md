@@ -1,7 +1,7 @@
 ---
 title: إنشاء JPG - قم بإنشاء ملف JPG في Python
-description:  Aspose اكسل. Python اكسل. Python قم بإنشاء ملف JPG بسرعة وسهولة باستخدام Aspose.Cells. قم بإنشاء ملف JPG باستخدام مكتبة Excel Python. إنشاء JPG في مكتبة Excel Python. Python منشئ JPG.
-keywords: [Aspose Python Excel., Python Aspose.Cells., Python Create JPG file., Generate JPG file in Python Excel Library., Create JPG file using Python Excel Library., Write data to JPG file via Python Excel Library., Create a JPG file in Python Excel Library., Python Generate a JPG file., Python JPG Creater]
+description: Aspose إكسل. أنشئ ملفات JPG وتعامل معها بسهولة تامة باستخدام مكتبة Aspose.Cells for Python via .NET. توفر هذه المكتبة القوية API حلاً مبسطاً وفعالاً لإنشاء ملفات JPG وتعديلها وإدارتها مباشرةً ضمن تطبيقاتك Python، مما يلبي احتياجات المطورين بدقة عالية.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Create JPG file., Generate JPG file in Python., Write data to JPG file via Python., Python JPG Creater., Aspose.Cells for Python via .NET is a powerful library that enables developers to programmatically create, generate, and manipulate JPG files in Python]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="إنشاء ملف JPG في مكتبة Excel Python" h2="مكتبة Excel Python عالية السرعة لإنشاء ملف JPG. استخدم تحويل Excel API لتطوير برامج مستقلة عالية المستوى للنظام الأساسي في Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="JPG" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}

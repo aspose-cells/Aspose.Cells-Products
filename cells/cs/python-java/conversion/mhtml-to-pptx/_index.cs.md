@@ -1,7 +1,7 @@
 ---
 title: Python MHTML až PPTX - MHTML až PPTX Převodník
-description: Aspose Excel. Python Excel. Převeďte MHTML na PPTX rychle a snadno pomocí Aspose.Cells. Python MHTML na PPTX. Python Uložte MHTML na 1034761 101 0761 23481 pomocí knihovny Excel Python.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert MHTML to PPTX in Python Excel Library., Save MHTML to PPTX using Python Excel Library., Python MHTML to PPTX saveformat., MHTML to PPTX Converter., Python Save MHTML as PPTX]
+description: Aspose Excel. Toto komplexní řešení poskytuje vývojářům Python plně integrovaný přístup k převodu formátu MHTML do formátu PPTX, což umožňuje bezproblémové ukládání dat MHTML do formátu PPTX pomocí knihovny Aspose.Cells, a to vše prostřednictvím efektivního a přizpůsobitelného kódu Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart MHTML files to PPTX Converter for Python., Convert MHTML to PPTX in Python., MHTML files to PPTX Conversion in Python., Leverage intelligent data processing to automatically parse and save MHTML into PPTX format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Převeďte MHTML na PPTX v knihovně Excel Python" h2="Vysokorychlostní knihovna excel Python pro převod MHTML na PPTX. Jedná se o profesionální softwarové řešení pro import a export MHTML, PPTX a mnoha dalších formátů pomocí Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="PPTX" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -27,7 +27,7 @@ Postupujte podle jednoduchých kroků pro převod MHTML na PPTX. Nahrajte svůj 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Ukázkový kód pro převod MHTML na PPTX prostřednictvím knihovny Excel Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="mhtml" outformat="pptx" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="Ukázkový kód pro převod MHTML na PPTX prostřednictvím knihovny Excel Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="mhtml" outformat="pptx" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="Jak převést MHTML na PPTX přes Python" %}}
 
@@ -84,8 +84,8 @@ Aspose.Cells for Python via Java je nezávislý na platformě API a lze jej pou�
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/mhtml-to-bmp/" name="MHTML DO BMP" description="Bitmapový obrázek" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/mhtml-to-emf/" name="MHTML DO EMF" description="Vylepšený formát metasouborů" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/mhtml-to-gif/" name="MHTML DO GIF" description="Grafický výměnný formát" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/mhtml-to-html/" name="MHTML DO HTML" description="Hyper Text Markup Language" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/mhtml-to-md/" name="MHTML MD" description="Markdown Language" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/mhtml-to-html/" name="MHTML DO HTML" description="Hypertextový značkovací jazyk" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/mhtml-to-md/" name="MHTML MD" description="Jazyk Markdown" >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/mhtml-to-ods/" name="MHTML DO ODS" description="Soubor tabulkového procesoru OpenDocument" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/mhtml-to-pdf/" name="MHTML DO PDF" description="Přenosný formát dokumentu" >}}

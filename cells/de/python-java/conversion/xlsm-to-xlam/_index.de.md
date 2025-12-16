@@ -1,7 +1,7 @@
 ---
 title: Python XLSM bis XLAM - XLSM bis XLAM Konverter
-description: Aspose Excel. Python Excel. Konvertieren Sie XLSM schnell und einfach in XLAM mit Aspose.Cells. Python XLSM in XLAM. Python Speichern Sie XLSM in XLAM. Speichern Sie XLSM als XLAM mit der Python Excel-Bibliothek.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert XLSM to XLAM in Python Excel Library., Save XLSM to XLAM using Python Excel Library., Python XLSM to XLAM saveformat., XLSM to XLAM Converter., Python Save XLSM as XLAM]
+description: Aspose Excel. Diese umfassende Lösung bietet Entwicklern einen vollständig integrierten Ansatz zur Konvertierung von XLSM in das Format XLAM und ermöglicht das nahtlose Speichern von XLSM-Daten im Format XLAM mithilfe der Aspose.Cells-Bibliothek – alles durch effizienten und anpassbaren Python-Code.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart XLSM files to XLAM Converter for Python., Convert XLSM to XLAM in Python., XLSM files to XLAM Conversion in Python., Leverage intelligent data processing to automatically parse and save XLSM into XLAM format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Konvertieren Sie XLSM in XLAM in der Excel-Bibliothek Python" h2="Hochgeschwindigkeits-Excel-Bibliothek Python zum Konvertieren von XLSM in XLAM. Dies ist eine professionelle Softwarelösung zum Importieren und Exportieren von XLSM, XLAM und vielen anderen Formaten mit Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLAM" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -27,7 +27,7 @@ Befolgen Sie die einfachen Schritte, um XLSM in XLAM zu konvertieren. Laden Sie 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Beispielcode zur Konvertierung von XLSM in XLAM über die Excel-Bibliothek Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsm" outformat="xlam" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="Beispielcode zur Konvertierung von XLSM in XLAM über die Excel-Bibliothek Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="xlsm" outformat="xlam" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="So konvertieren Sie XLSM über Python in XLAM" %}}
 

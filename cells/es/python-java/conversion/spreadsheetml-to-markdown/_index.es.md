@@ -1,7 +1,7 @@
 ---
 title: Python HOJA DE CALCULOML a MARKDOWN - Convertidor de HOJA DE CALCULO ML a MARKDOWN
-description: Aspose Excel. Python Excel. Convierta SPREADSHEETML a MARKDOWN rápida y fácilmente con Aspose.Cells. Python SPREADSHEETML a MARKDOWN. Python Guarde SPREADSHEETML en MARKDOWN. Guarde SPREADSHEETML como MARKDOWN usando Python Biblioteca de Excel.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert SPREADSHEETML to MARKDOWN in Python Excel Library., Save SPREADSHEETML to MARKDOWN using Python Excel Library., Python SPREADSHEETML to MARKDOWN saveformat., SPREADSHEETML to MARKDOWN Converter., Python Save SPREADSHEETML as MARKDOWN]
+description: Aspose Excel. Esta solución integral proporciona a los desarrolladores de Python un enfoque totalmente integrado para convertir hojas de cálculo ML al formato MARKDOWN, lo que permite guardar sin problemas los datos de hojas de cálculo ML en formato MARKDOWN mediante la biblioteca Aspose.Cells, todo mediante código Python eficiente y personalizable.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart SPREADSHEETML files to MARKDOWN Converter for Python., Convert SPREADSHEETML to MARKDOWN in Python., SPREADSHEETML files to MARKDOWN Conversion in Python., Leverage intelligent data processing to automatically parse and save SPREADSHEETML into MARKDOWN format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Convierta SPREADSHEETML a MARKDOWN en Python Biblioteca de Excel" h2="Biblioteca Excel Python de alta velocidad para convertir SPREADSHEETML a MARKDOWN. Esta es una solución de software profesional para importar y exportar SPREADSHEETML, MARKDOWN y muchos otros formatos utilizando Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="MARKDOWN" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -27,7 +27,7 @@ Siga los sencillos pasos para convertir SPREADSHEETML a MARKDOWN. Cargue su arch
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Código de muestra para convertir SPREADSHEETML a MARKDOWN a través de la biblioteca de Excel Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xml" outformat="md" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="Código de muestra para convertir SPREADSHEETML a MARKDOWN a través de la biblioteca de Excel Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="xml" outformat="md" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="Cómo convertir SPREADSHEETML a MARKDOWN a través de Python" %}}
 

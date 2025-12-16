@@ -1,7 +1,7 @@
 ---
 title: Java XML إلى XLAM - XML إلى XLAM محول
-description: Aspose اكسل. قم بتحويل XML إلى XLAM بسرعة وسهولة باستخدام Aspose.Cells. Java XML إلى XLAM. Java احفظ XML إلى XLAM. احفظ XML كـ XLAM باستخدام Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Convert XML to XLAM in Java., Save XML to XLAM using Java., Java XML to XLAM saveformat., XML to XLAM Converter., Java Save XML as XLAM]
+description: Aspose إكسل. يوفر هذا الحل الشامل للمطورين Java نهجًا متكاملًا تمامًا لتحويل XML إلى تنسيق XLAM، مما يتيح حفظ بيانات XML بسلاسة بتنسيق XLAM باستخدام مكتبة Aspose.Cells، كل ذلك من خلال كود Java فعال وقابل للتخصيص.
+keywords: [Aspose Excel., Java Aspose.Cells., Smart XML files to XLAM Converter for Java., Convert XML to XLAM in Java., XML files to XLAM Conversion in Java., Leverage intelligent data processing to automatically parse and save XML into XLAM format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="تحويل XML إلى XLAM في Java" h2="مكتبة Java عالية السرعة لتحويل XML إلى XLAM. هذا حل برمجي احترافي لاستيراد وتصدير XML وXLAM والعديد من التنسيقات الأخرى باستخدام Java." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLAM" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="CSV" >}}
@@ -45,7 +45,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Convert XML to XLAM in Java., Save
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="احفظ XML في XLAM في Java" %}}
+{{% blocks/products/pf/agp/content h2="حفظ ملف XML في XLAM في Java" %}}
 
 يوضح المثال التالي كيفية تحويل XML إلى XLAM في Java.
 {{% blocks/products/pf/agp/text %}}
@@ -56,19 +56,19 @@ keywords: [Aspose Excel., Java Aspose.Cells., Convert XML to XLAM in Java., Save
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="نموذج التعليمات البرمجية لتحويل XML إلى XLAM" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xml" outformat="xlam" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="نموذج كود لتحويل XML إلى XLAM" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="xml" outformat="xlam" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="كيفية تحويل XML إلى XLAM via Java" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
-هل تحتاج إلى تحويل ملفات XML إلى XLAM برمجياً؟ يمكن لمطوري Java تحويل XML بسهولة إلى XLAM في بضعة أسطر من التعليمات البرمجية.
+هل تحتاج إلى تحويل ملفات XML إلى صيغة XLAM برمجيًا؟ يمكن لمطوري Java تحويل XML بسهولة إلى صيغة XLAM في بضعة أسطر من التعليمات البرمجية فقط.
 
 {{% /blocks/products/pf/agp/text %}}
 
-1.  قم بتثبيت "Aspose.Cells for Java".
+1.  قم بتثبيت 'Aspose.Cells for Java'.
 1.  أضف مرجع مكتبة (استيراد المكتبة) إلى مشروعك Java.
-1.  قم بتحميل ملف XML بمثيل لفئة Workbook.
+1.  قم بتحميل ملف XML باستخدام نسخة من فئة Workbook.
 1.  تحويل XML إلى XLAM عن طريق استدعاء طريقة Workbook.save.
 1.  احصل على نتيجة تحويل XML إلى XLAM.
 

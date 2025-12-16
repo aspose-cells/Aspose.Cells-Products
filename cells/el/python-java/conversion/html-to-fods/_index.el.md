@@ -1,7 +1,7 @@
 ---
 title: Python HTML έως FODS - HTML έως FODS Μετατροπέας
-description: Aspose Excel. Python Excel. Μετατρέψτε το HTML σε FODS γρήγορα και εύκολα με Aspose.Cells. Python HTML σε FODS. Python Αποθήκευση 076193411 ως 307 61123481 χρησιμοποιώντας Python Βιβλιοθήκη Excel.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert HTML to FODS in Python Excel Library., Save HTML to FODS using Python Excel Library., Python HTML to FODS saveformat., HTML to FODS Converter., Python Save HTML as FODS]
+description: Aspose Excel. Αυτή η ολοκληρωμένη λύση παρέχει στους προγραμματιστές Python μια πλήρως ενσωματωμένη προσέγγιση για τη μετατροπή της μορφής HTML σε FODS, επιτρέποντας την απρόσκοπτη αποθήκευση δεδομένων HTML σε μορφή FODS χρησιμοποιώντας τη βιβλιοθήκη Aspose.Cells, μέσω αποτελεσματικού και προσαρμόσιμου κώδικα Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart HTML files to FODS Converter for Python., Convert HTML to FODS in Python., HTML files to FODS Conversion in Python., Leverage intelligent data processing to automatically parse and save HTML into FODS format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Μετατροπή HTML σε FODS στο Python Excel Library" h2="Βιβλιοθήκη excel υψηλής ταχύτητας Python για μετατροπή HTML σε FODS. Αυτή είναι μια επαγγελματική λύση λογισμικού για εισαγωγή και εξαγωγή HTML, FODS και πολλών άλλων μορφών χρησιμοποιώντας το Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="FODS" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -27,7 +27,7 @@ keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert H
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Δείγμα κώδικα για μετατροπή HTML σε FODS μέσω Python Excel Library" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="html" outformat="fods" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="Δείγμα κώδικα για μετατροπή HTML σε FODS μέσω Python Excel Library" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="html" outformat="fods" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="Πώς να μετατρέψετε το HTML σε FODS μέσω του Python" %}}
 

@@ -1,7 +1,7 @@
 ---
 title: Python XLSM έως XLSM - XLSM έως XLSM Μετατροπέας
-description: Aspose Excel. Python Excel. Μετατρέψτε το XLSM σε XLSM γρήγορα και εύκολα με Aspose.Cells. Python XLSM σε XLSM. Python Αποθήκευση 076193411 ως 307 61123481 χρησιμοποιώντας Python Βιβλιοθήκη Excel.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert XLSM to XLSM in Python Excel Library., Save XLSM to XLSM using Python Excel Library., Python XLSM to XLSM saveformat., XLSM to XLSM Converter., Python Save XLSM as XLSM]
+description: Aspose Excel. Αυτή η ολοκληρωμένη λύση παρέχει στους προγραμματιστές Python μια πλήρως ενσωματωμένη προσέγγιση για τη μετατροπή της μορφής XLSM σε XLSM, επιτρέποντας την απρόσκοπτη αποθήκευση δεδομένων XLSM σε μορφή XLSM χρησιμοποιώντας τη βιβλιοθήκη Aspose.Cells, μέσω αποτελεσματικού και προσαρμόσιμου κώδικα Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart XLSM files to XLSM Converter for Python., Convert XLSM to XLSM in Python., XLSM files to XLSM Conversion in Python., Leverage intelligent data processing to automatically parse and save XLSM into XLSM format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Μετατροπή XLSM σε XLSM στο Python Excel Library" h2="Βιβλιοθήκη excel υψηλής ταχύτητας Python για μετατροπή XLSM σε XLSM. Αυτή είναι μια επαγγελματική λύση λογισμικού για εισαγωγή και εξαγωγή XLSM, XLSM και πολλών άλλων μορφών χρησιμοποιώντας το Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSM" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -27,7 +27,7 @@ keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert X
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Δείγμα κώδικα για μετατροπή XLSM σε XLSM μέσω Python Excel Library" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsm" outformat="xlsm" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="Δείγμα κώδικα για μετατροπή XLSM σε XLSM μέσω Python Excel Library" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="xlsm" outformat="xlsm" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="Πώς να μετατρέψετε το XLSM σε XLSM μέσω του Python" %}}
 

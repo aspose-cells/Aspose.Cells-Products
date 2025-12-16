@@ -1,7 +1,7 @@
 ---
 title: Python PRN به SPREADSHEETML - تبدیل PRN به SPREADSHEETML
-description: Aspose اکسل. Python اکسل. تبدیل PRN به SPREADSHEETML به سرعت و به راحتی با Aspose.Cells. Python PRN به SPREADSHEETML. Python PRN را در SPREADSHEETML ذخیره کنید. PRN را به عنوان SPREADSHEETML با استفاده از Python Excel Library ذخیره کنید.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert PRN to SPREADSHEETML in Python Excel Library., Save PRN to SPREADSHEETML using Python Excel Library., Python PRN to SPREADSHEETML saveformat., PRN to SPREADSHEETML Converter., Python Save PRN as SPREADSHEETML]
+description: Aspose اکسل. این راهکار جامع، رویکردی کاملاً یکپارچه برای تبدیل فرمت PRN به SPREADSHEETML در اختیار توسعه‌دهندگان قرار می‌دهد و امکان ذخیره یکپارچه داده‌های PRN در فرمت SPREADSHEETML را با استفاده از کتابخانه Aspose.Cells، از طریق کد کارآمد و قابل تنظیم Python، فراهم می‌کند.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart PRN files to SPREADSHEETML Converter for Python., Convert PRN to SPREADSHEETML in Python., PRN files to SPREADSHEETML Conversion in Python., Leverage intelligent data processing to automatically parse and save PRN into SPREADSHEETML format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="تبدیل PRN به SPREADSHEETML در Python Excel Library" h2="کتابخانه اکسل پرسرعت Python برای تبدیل PRN به SPREADSHEETML. از تبدیل اکسل API ما برای توسعه نرم افزار سطح بالا و مستقل از پلت فرم در Python استفاده کنید." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="SPREADSHEETML" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -28,7 +28,7 @@ keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert P
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="نمونه کد برای تبدیل PRN به SPREADSHEETML از طریق کتابخانه اکسل Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="prn" outformat="xml" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="نمونه کد برای تبدیل PRN به SPREADSHEETML از طریق کتابخانه اکسل Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="prn" outformat="xml" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="نحوه تبدیل PRN به SPREADSHEETML" %}}
 

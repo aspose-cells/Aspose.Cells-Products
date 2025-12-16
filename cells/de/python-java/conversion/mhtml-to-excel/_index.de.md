@@ -1,7 +1,7 @@
 ---
 title: Python MHTML zu EXCEL - MHTML zu EXCEL Konverter
-description: Aspose Excel. Python Excel. Konvertieren Sie MHTML schnell und einfach in EXCEL mit Aspose.Cells. Python MHTML in EXCEL. Python Speichern Sie MHTML in EXCEL. Speichern Sie MHTML als EXCEL mit Python Excel-Bibliothek.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert MHTML to EXCEL in Python Excel Library., Save MHTML to EXCEL using Python Excel Library., Python MHTML to EXCEL saveformat., MHTML to EXCEL Converter., Python Save MHTML as EXCEL]
+description: Aspose Excel. Diese umfassende Lösung bietet Entwicklern einen vollständig integrierten Ansatz zur Konvertierung von MHTML in das Excel-Format und ermöglicht das nahtlose Speichern von MHTML-Daten im Excel-Format mithilfe der Aspose.Cells-Bibliothek, alles durch effizienten und anpassbaren Python-Code.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart MHTML files to EXCEL Converter for Python., Convert MHTML to EXCEL in Python., MHTML files to EXCEL Conversion in Python., Leverage intelligent data processing to automatically parse and save MHTML into EXCEL format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Konvertieren Sie MHTML in EXCEL in der Excel-Bibliothek Python" h2="Hochgeschwindigkeits-Excel-Bibliothek Python zum Konvertieren von MHTML in EXCEL. Dies ist eine professionelle Softwarelösung zum Importieren und Exportieren von MHTML, EXCEL und vielen anderen Formaten mit Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="EXCEL" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -27,7 +27,7 @@ Befolgen Sie die einfachen Schritte, um MHTML in EXCEL zu konvertieren. Laden Si
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Beispielcode zur Konvertierung von MHTML in EXCEL über die Excel-Bibliothek Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="mhtml" outformat="xlsx" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="Beispielcode zur Konvertierung von MHTML in EXCEL über die Excel-Bibliothek Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="mhtml" outformat="xlsx" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="So konvertieren Sie MHTML über Python in EXCEL" %}}
 

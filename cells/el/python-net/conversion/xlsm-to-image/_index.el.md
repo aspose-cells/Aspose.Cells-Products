@@ -1,7 +1,7 @@
 ---
 title: Python XLSM σε IMAGE - XLSM σε IMAGE Converter
-description: Aspose Excel. Python Excel. Μετατρέψτε το XLSM σε ΕΙΚΟΝΑ γρήγορα και εύκολα με το Aspose.Cells. Python XLSM σε ΕΙΚΟΝΑ. Python Αποθήκευση XLSM στο IMAGE. Αποθηκεύστε το XLSM ως ΕΙΚΟΝΑ χρησιμοποιώντας το Python Excel Library.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert XLSM to IMAGE in Python Excel Library., Save XLSM to IMAGE using Python Excel Library., Python XLSM to IMAGE saveformat., XLSM to IMAGE Converter., Python Save XLSM as IMAGE]
+description: Aspose Excel. Αυτή η ολοκληρωμένη λύση παρέχει στους προγραμματιστές Python μια πλήρως ενσωματωμένη προσέγγιση για τη μετατροπή του XLSM σε μορφή IMAGE, επιτρέποντας την απρόσκοπτη αποθήκευση δεδομένων XLSM σε μορφή IMAGE χρησιμοποιώντας τη βιβλιοθήκη Aspose.Cells, μέσω αποτελεσματικού και προσαρμόσιμου κώδικα Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart XLSM files to IMAGE Converter for Python., Convert XLSM to IMAGE in Python., XLSM files to IMAGE Conversion in Python., Leverage intelligent data processing to automatically parse and save XLSM into IMAGE format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Μετατροπή XLSM σε IMAGE στη Βιβλιοθήκη Excel Python" h2="Βιβλιοθήκη excel υψηλής ταχύτητας Python για μετατροπή XLSM σε ΕΙΚΟΝΑ. Χρησιμοποιήστε τη μετατροπή excel API για να αναπτύξετε λογισμικό υψηλού επιπέδου, ανεξάρτητο από πλατφόρμα στο Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="IMAGE" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -28,7 +28,7 @@ keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert X
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Δείγμα κώδικα για μετατροπή XLSM σε IMAGE μέσω Python Excel Library" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsm" outformat="png" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Δείγμα κώδικα για μετατροπή XLSM σε IMAGE μέσω Python Excel Library" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="xlsm" outformat="png" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="Πώς να μετατρέψετε το XLSM σε ΕΙΚΟΝΑ" %}}
 

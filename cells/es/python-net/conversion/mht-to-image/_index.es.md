@@ -1,7 +1,7 @@
 ---
 title: Python MHT a IMAGEN - Convertidor de MHT a IMAGEN
-description: Aspose Excel. Python Excel. Convierta MHT a IMAGEN rápida y fácilmente con Aspose.Cells. Python MHT a IMAGEN. Python Guardar MHT en IMAGEN. Guarde MHT como IMAGEN usando la biblioteca de Excel Python.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert MHT to IMAGE in Python Excel Library., Save MHT to IMAGE using Python Excel Library., Python MHT to IMAGE saveformat., MHT to IMAGE Converter., Python Save MHT as IMAGE]
+description: Aspose Excel. Esta solución integral proporciona a los desarrolladores de Python un enfoque totalmente integrado para convertir MHT a formato IMAGEN, lo que permite guardar datos MHT en formato IMAGEN sin problemas mediante la biblioteca Aspose.Cells, todo mediante código Python eficiente y personalizable.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart MHT files to IMAGE Converter for Python., Convert MHT to IMAGE in Python., MHT files to IMAGE Conversion in Python., Leverage intelligent data processing to automatically parse and save MHT into IMAGE format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Convierta MHT a IMAGEN en la biblioteca de Excel Python" h2="Biblioteca Excel Python de alta velocidad para convertir MHT a IMAGEN. Utilice nuestra conversión de Excel API para desarrollar software independiente de plataforma de alto nivel en Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="IMAGE" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -28,7 +28,7 @@ Siga los sencillos pasos para convertir MHT a IMAGEN. Cargue su archivo MHT y lu
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Código de muestra para convertir MHT a IMAGEN a través de la biblioteca de Excel Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="mht" outformat="png" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Código de muestra para convertir MHT a IMAGEN a través de la biblioteca de Excel Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="mht" outformat="png" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="Cómo convertir MHT a IMAGEN" %}}
 

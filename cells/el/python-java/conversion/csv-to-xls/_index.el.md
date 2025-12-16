@@ -1,7 +1,7 @@
 ---
 title: Python CSV έως XLS - CSV έως XLS Μετατροπέας
-description: Aspose Excel. Python Excel. Μετατρέψτε το CSV σε XLS γρήγορα και εύκολα με Aspose.Cells. Python CSV σε XLS. Python Αποθήκευση 076193411 ως 307 61123481 χρησιμοποιώντας Python Βιβλιοθήκη Excel.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert CSV to XLS in Python Excel Library., Save CSV to XLS using Python Excel Library., Python CSV to XLS saveformat., CSV to XLS Converter., Python Save CSV as XLS]
+description: Aspose Excel. Αυτή η ολοκληρωμένη λύση παρέχει στους προγραμματιστές Python μια πλήρως ενσωματωμένη προσέγγιση για τη μετατροπή της μορφής CSV σε XLS, επιτρέποντας την απρόσκοπτη αποθήκευση δεδομένων CSV σε μορφή XLS χρησιμοποιώντας τη βιβλιοθήκη Aspose.Cells, μέσω αποτελεσματικού και προσαρμόσιμου κώδικα Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart CSV files to XLS Converter for Python., Convert CSV to XLS in Python., CSV files to XLS Conversion in Python., Leverage intelligent data processing to automatically parse and save CSV into XLS format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Μετατροπή CSV σε XLS στο Python Excel Library" h2="Βιβλιοθήκη excel υψηλής ταχύτητας Python για μετατροπή CSV σε XLS. Αυτή είναι μια επαγγελματική λύση λογισμικού για εισαγωγή και εξαγωγή CSV, XLS και πολλών άλλων μορφών χρησιμοποιώντας το Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLS" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -27,7 +27,7 @@ keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert C
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Δείγμα κώδικα για μετατροπή CSV σε XLS μέσω Python Excel Library" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="csv" outformat="xls" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="Δείγμα κώδικα για μετατροπή CSV σε XLS μέσω Python Excel Library" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="csv" outformat="xls" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="Πώς να μετατρέψετε το CSV σε XLS μέσω του Python" %}}
 

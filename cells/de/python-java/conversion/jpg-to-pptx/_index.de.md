@@ -1,7 +1,7 @@
 ---
 title: Python JPG zu PPTX - JPG zu PPTX Konverter
-description: Aspose Excel. Python Excel. Konvertieren Sie JPG schnell und einfach in PPTX mit Aspose.Cells. Python JPG in PPTX. Python Speichern Sie JPG in PPTX. Speichern Sie JPG als PPTX mit Python Excel-Bibliothek.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert JPG to PPTX in Python Excel Library., Save JPG to PPTX using Python Excel Library., Python JPG to PPTX saveformat., JPG to PPTX Converter., Python Save JPG as PPTX]
+description: Aspose Excel. Diese umfassende Lösung bietet Entwicklern einen vollständig integrierten Ansatz zur Konvertierung von JPG in das Format PPTX und ermöglicht das nahtlose Speichern von JPG-Daten im Format PPTX mithilfe der Bibliothek Aspose.Cells, alles durch effizienten und anpassbaren Code Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart JPG files to PPTX Converter for Python., Convert JPG to PPTX in Python., JPG files to PPTX Conversion in Python., Leverage intelligent data processing to automatically parse and save JPG into PPTX format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Konvertieren Sie JPG in PPTX in der Excel-Bibliothek Python" h2="Hochgeschwindigkeits-Excel-Bibliothek Python zum Konvertieren von JPG in PPTX. Dies ist eine professionelle Softwarelösung zum Importieren und Exportieren von JPG, PPTX und vielen anderen Formaten mit Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="PPTX" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -27,7 +27,7 @@ Befolgen Sie die einfachen Schritte, um JPG in PPTX zu konvertieren. Laden Sie I
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Beispielcode zum Konvertieren von JPG in PPTX über die Excel-Bibliothek Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="jpg" outformat="pptx" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="Beispielcode zum Konvertieren von JPG in PPTX über die Excel-Bibliothek Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="jpg" outformat="pptx" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="So konvertieren Sie JPG über Python in PPTX" %}}
 

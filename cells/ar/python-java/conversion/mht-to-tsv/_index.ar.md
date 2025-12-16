@@ -1,7 +1,7 @@
 ---
 title: تحويل Python MHT إلى TSV - تحويل MHT إلى TSV
-description: Aspose اكسل. Python اكسل. قم بتحويل MHT إلى TSV بسرعة وسهولة باستخدام Aspose.Cells. Python MHT إلى TSV. Python احفظ MHT إلى TSV. احفظ MHT كـ TSV باستخدام مكتبة Excel Python.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert MHT to TSV in Python Excel Library., Save MHT to TSV using Python Excel Library., Python MHT to TSV saveformat., MHT to TSV Converter., Python Save MHT as TSV]
+description: Aspose Excel. يوفر هذا الحل الشامل للمطورين Python نهجًا متكاملًا تمامًا لتحويل MHT إلى تنسيق TSV، مما يتيح حفظ بيانات MHT بسلاسة في تنسيق TSV باستخدام مكتبة Aspose.Cells، كل ذلك من خلال كود Python فعال وقابل للتخصيص.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart MHT files to TSV Converter for Python., Convert MHT to TSV in Python., MHT files to TSV Conversion in Python., Leverage intelligent data processing to automatically parse and save MHT into TSV format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="تحويل MHT إلى TSV في مكتبة Excel Python" h2="مكتبة Excel Python عالية السرعة لتحويل MHT إلى TSV. هذا حل برمجي احترافي لاستيراد وتصدير MHT وTSV والعديد من التنسيقات الأخرى باستخدام Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="TSV" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -27,7 +27,7 @@ keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert M
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="نموذج التعليمات البرمجية لتحويل MHT إلى TSV عبر مكتبة Excel Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="mht" outformat="tsv" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="نموذج التعليمات البرمجية لتحويل MHT إلى TSV عبر مكتبة Excel Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="mht" outformat="tsv" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="كيفية تحويل MHT إلى TSV عبر Python" %}}
 

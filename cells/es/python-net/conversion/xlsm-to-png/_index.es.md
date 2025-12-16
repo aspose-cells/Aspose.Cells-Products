@@ -1,7 +1,7 @@
 ---
 title: Python XLSM a PNG - XLSM a PNG Convertidor
-description: Aspose Excel. Python Excel. Convierta XLSM a PNG rápida y fácilmente con Aspose.Cells. Python XLSM a PNG. Python Guarde XLSM en PNG. Guarde XLSM como 076112 3481 usando la biblioteca Excel Python.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert XLSM to PNG in Python Excel Library., Save XLSM to PNG using Python Excel Library., Python XLSM to PNG saveformat., XLSM to PNG Converter., Python Save XLSM as PNG]
+description: Aspose Excel. Esta solución integral ofrece a los desarrolladores de Excel Python un enfoque totalmente integrado para convertir el formato XLSM al PNG, lo que permite guardar sin problemas los datos de Excel XLSM al formato PNG mediante la biblioteca Aspose.Cells, todo mediante código Python eficiente y personalizable.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart XLSM files to PNG Converter for Python., Convert XLSM to PNG in Python., XLSM files to PNG Conversion in Python., Leverage intelligent data processing to automatically parse and save XLSM into PNG format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Convierta XLSM a PNG en la biblioteca de Excel Python" h2="Biblioteca de Excel Python de alta velocidad para convertir XLSM a PNG. Utilice nuestra conversión de Excel API para desarrollar software independiente de plataforma de alto nivel en Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="PNG" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -28,7 +28,7 @@ Siga los sencillos pasos para convertir XLSM a PNG. Cargue su archivo XLSM y lue
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Código de muestra para convertir XLSM a PNG a través de la biblioteca de Excel Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsm" outformat="png" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Código de muestra para convertir XLSM a PNG a través de la biblioteca de Excel Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="xlsm" outformat="png" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="Cómo convertir XLSM a PNG" %}}
 

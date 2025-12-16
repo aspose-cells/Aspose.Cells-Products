@@ -1,7 +1,7 @@
 ---
 title: Python XLSM الى FODS - XLSM الى FODS محول
-description: Aspose اكسل. Python اكسل. قم بتحويل XLSM إلى FODS بسرعة وسهولة باستخدام Aspose.Cells. Python XLSM إلى FODS. Python احفظ XLSM إلى FODS. احفظ XLSM كـ 076112 3481 باستخدام مكتبة إكسل Python.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert XLSM to FODS in Python Excel Library., Save XLSM to FODS using Python Excel Library., Python XLSM to FODS saveformat., XLSM to FODS Converter., Python Save XLSM as FODS]
+description: Aspose Excel. يوفر هذا الحل الشامل للمطورين Python نهجًا متكاملًا تمامًا لتحويل XLSM إلى تنسيق FODS، مما يتيح حفظ البيانات بسلاسة في تنسيق FODS باستخدام مكتبة Aspose.Cells، كل ذلك من خلال كود Python فعال وقابل للتخصيص.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart XLSM files to FODS Converter for Python., Convert XLSM to FODS in Python., XLSM files to FODS Conversion in Python., Leverage intelligent data processing to automatically parse and save XLSM into FODS format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="تحويل XLSM إلى FODS في Python مكتبة إكسل" h2="مكتبة إكسل Python عالية السرعة لتحويل XLSM إلى FODS. هذا حل برمجي احترافي لاستيراد وتصدير XLSM، FODS، والعديد من التنسيقات الأخرى باستخدام Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="FODS" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -27,7 +27,7 @@ keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert X
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="نموذج التعليمات البرمجية لتحويل XLSM إلى FODS عبر مكتبة Excel Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsm" outformat="fods" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="نموذج التعليمات البرمجية لتحويل XLSM إلى FODS عبر مكتبة Excel Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="xlsm" outformat="fods" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="كيفية تحويل XLSM إلى FODS عبر Python" %}}
 

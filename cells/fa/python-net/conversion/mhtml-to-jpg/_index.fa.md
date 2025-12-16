@@ -1,7 +1,7 @@
 ---
 title: Python MHTML به JPG - MHTML به JPG تبدیل
-description: Aspose اکسل. Python اکسل. تبدیل MHTML به JPG سریع و آسان با Aspose.Cells. Python MHTML به JPG. Python MHTML را در JPG ذخیره کنید. MHTML را با استفاده از Python Excel Library به صورت JPG ذخیره کنید.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert MHTML to JPG in Python Excel Library., Save MHTML to JPG using Python Excel Library., Python MHTML to JPG saveformat., MHTML to JPG Converter., Python Save MHTML as JPG]
+description: Aspose اکسل. این راهکار جامع، رویکردی کاملاً یکپارچه برای تبدیل فرمت MHTML به JPG در اختیار توسعه‌دهندگان Python قرار می‌دهد و امکان ذخیره یکپارچه داده‌های MHTML به فرمت JPG را با استفاده از کتابخانه Aspose.Cells، از طریق کد کارآمد و قابل تنظیم Python، فراهم می‌کند.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart MHTML files to JPG Converter for Python., Convert MHTML to JPG in Python., MHTML files to JPG Conversion in Python., Leverage intelligent data processing to automatically parse and save MHTML into JPG format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="تبدیل MHTML به JPG در Python Excel Library" h2="کتابخانه اکسل پرسرعت Python برای تبدیل MHTML به JPG. از تبدیل اکسل API ما برای توسعه نرم افزار سطح بالا و مستقل از پلت فرم در Python استفاده کنید." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="JPG" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -28,7 +28,7 @@ keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert M
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="نمونه کد برای تبدیل MHTML به JPG از طریق Python Excel Library" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="mhtml" outformat="jpg" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="نمونه کد برای تبدیل MHTML به JPG از طریق Python Excel Library" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="mhtml" outformat="jpg" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="نحوه تبدیل MHTML به JPG" %}}
 

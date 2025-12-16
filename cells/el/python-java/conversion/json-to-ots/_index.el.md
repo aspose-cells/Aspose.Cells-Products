@@ -1,7 +1,7 @@
 ---
 title: Python JSON σε OTS - JSON σε OTS Μετατροπέας
-description: Aspose Excel. Python Excel. Μετατρέψτε το JSON σε OTS γρήγορα και εύκολα με το Aspose.Cells. Python JSON σε OTS. Python Αποθήκευση JSON στο OTS. Αποθηκεύστε το JSON ως OTS χρησιμοποιώντας το Python Excel Library.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert JSON to OTS in Python Excel Library., Save JSON to OTS using Python Excel Library., Python JSON to OTS saveformat., JSON to OTS Converter., Python Save JSON as OTS]
+description: Aspose Excel. Αυτή η ολοκληρωμένη λύση παρέχει στους προγραμματιστές Python μια πλήρως ενσωματωμένη προσέγγιση για τη μετατροπή του JSON σε μορφή OTS, επιτρέποντας την απρόσκοπτη αποθήκευση δεδομένων JSON σε μορφή OTS χρησιμοποιώντας τη βιβλιοθήκη Aspose.Cells, μέσω αποτελεσματικού και προσαρμόσιμου κώδικα Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart JSON files to OTS Converter for Python., Convert JSON to OTS in Python., JSON files to OTS Conversion in Python., Leverage intelligent data processing to automatically parse and save JSON into OTS format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Μετατροπή JSON σε OTS στο Python Excel Library" h2="Βιβλιοθήκη excel υψηλής ταχύτητας Python για μετατροπή JSON σε OTS. Αυτή είναι μια επαγγελματική λύση λογισμικού για εισαγωγή και εξαγωγή JSON, OTS και πολλών άλλων μορφών χρησιμοποιώντας το Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="OTS" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -27,7 +27,7 @@ keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert J
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Δείγμα κώδικα για μετατροπή JSON σε OTS μέσω Python Excel Library" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="json" outformat="ots" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="Δείγμα κώδικα για μετατροπή JSON σε OTS μέσω Python Excel Library" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="json" outformat="ots" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="Πώς να μετατρέψετε το JSON σε OTS μέσω του Python" %}}
 

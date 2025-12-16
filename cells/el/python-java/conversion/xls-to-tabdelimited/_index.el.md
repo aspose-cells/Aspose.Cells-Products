@@ -1,7 +1,7 @@
 ---
 title: Python XLS σε TABDELIMITED - XLS σε TABDELIMITED Μετατροπέας
-description: Aspose Excel. Python Excel. Μετατρέψτε το XLS σε TABDELIMITED γρήγορα και εύκολα με το Aspose.Cells. Python XLS σε TABDELIMITED. Python Αποθήκευση XLS στο TABDELIMITED. Αποθηκεύστε το XLS ως TABDELIMITED χρησιμοποιώντας το Python Excel Library.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert XLS to TABDELIMITED in Python Excel Library., Save XLS to TABDELIMITED using Python Excel Library., Python XLS to TABDELIMITED saveformat., XLS to TABDELIMITED Converter., Python Save XLS as TABDELIMITED]
+description: Aspose Excel. Αυτή η ολοκληρωμένη λύση παρέχει στους προγραμματιστές Python μια πλήρως ενσωματωμένη προσέγγιση για τη μετατροπή του XLS σε μορφή TABDELIMITED, επιτρέποντας την απρόσκοπτη αποθήκευση των δεδομένων XLS σε μορφή TABDELIMITED χρησιμοποιώντας τη βιβλιοθήκη Aspose.Cells, μέσω αποτελεσματικού και προσαρμόσιμου κώδικα Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart XLS files to TABDELIMITED Converter for Python., Convert XLS to TABDELIMITED in Python., XLS files to TABDELIMITED Conversion in Python., Leverage intelligent data processing to automatically parse and save XLS into TABDELIMITED format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Μετατροπή XLS σε TABDELIMITED στο Python Excel Library" h2="Βιβλιοθήκη excel υψηλής ταχύτητας Python για μετατροπή XLS σε TABDELIMITED. Αυτή είναι μια επαγγελματική λύση λογισμικού για εισαγωγή και εξαγωγή XLS, TABDELIMITED και πολλών άλλων μορφών χρησιμοποιώντας το Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="TABDELIMITED" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -27,7 +27,7 @@ keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert X
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Δείγμα κώδικα για μετατροπή XLS σε TABDELIMITED μέσω Python Excel Library" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xls" outformat="tsv" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="Δείγμα κώδικα για μετατροπή XLS σε TABDELIMITED μέσω Python Excel Library" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="xls" outformat="tsv" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="Πώς να μετατρέψετε το XLS σε TABDELIMITED μέσω Python" %}}
 

@@ -1,7 +1,7 @@
 ---
 title: إنشاء XLS - إنشاء ملف XLS في C++
-description: Aspose اكسل. C++ أنشئ ملف XLS بسرعة وسهولة باستخدام Aspose.Cells. أنشئ ملف XLS باستخدام C++. أنشئ XLS في C++. C++ XLS Creator.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ Create XLS file., Generate XLS file in C++., Create XLS file using C++., Write data to XLS file via C++., Create a XLS file in C++., C++ Generate a XLS file., C++ XLS Creater]
+description: Aspose Excel. أنشئ ملفات XLS وتعامل معها بسهولة باستخدام مكتبة Aspose.Cells for C++. توفر هذه المكتبة القوية API حلاً مبسطًا وفعالًا لإنشاء ملفات XLS وتعديلها وإدارتها مباشرةً ضمن تطبيقاتك C++، مما يلبي احتياجات المطورين بدقة عالية.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ Create XLS file., Generate XLS file in C++., Write data to XLS file via C++., C++ XLS Creater., Aspose.Cells for C++ is a powerful library that enables developers to programmatically create, generate, and manipulate XLS files in C++]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="قم بإنشاء ملف XLS في C++" h2="إنشاء ملف XLS أصلي وعالي الأداء برمجيًا بدون Micorsoft Office باستخدام مكتبة C++." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLS" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -11,7 +11,7 @@ keywords: [Aspose Excel., C++ Aspose.Cells., C++ Create XLS file., Generate XLS 
 
 {{% blocks/products/pf/agp/content h2="إنشاء ملف XLS باستخدام C++" %}}
 
- كيفية إنشاء ملف XLS؟ باستخدام مكتبة Aspose.Cells for C++، يمكنك بسهولة إنشاء ملف XLS برمجيًا باستخدام بضعة أسطر من التعليمات البرمجية.[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) قادر على إنشاء تطبيقات مشتركة بين الأنظمة الأساسية مع القدرة على إنشاء جميع ملفات Excel وتعديلها وتحويلها وعرضها وطباعتها. C++ Excel API لا يقوم فقط بالتحويل بين تنسيقات جداول البيانات، بل يمكنه أيضًا عرض ملفات Excel كصور، وPDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT والمزيد، مما يجعله خيارًا مثاليًا لتبادل المستندات بتنسيقات متوافقة مع معايير الصناعة. يمكنك تنزيل أحدث إصدار له مباشرة، فقط قم بفتحه[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) مدير الحزم، ابحث عن Aspose.Cells.Cpp وقم بتثبيته. يمكنك أيضًا استخدام الأمر التالي من وحدة تحكم إدارة الحزم.
+ كيفية إنشاء ملف XLS؟ باستخدام مكتبة Aspose.Cells for C++، يمكنك بسهولة إنشاء ملف XLS برمجيًا باستخدام بضعة أسطر من التعليمات البرمجية.[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) قادر على إنشاء تطبيقات مشتركة بين الأنظمة الأساسية مع القدرة على إنشاء جميع ملفات Excel وتعديلها وتحويلها وعرضها وطباعتها. C++ Excel API لا يقوم فقط بالتحويل بين تنسيقات جداول البيانات، بل يمكنه أيضًا عرض ملفات Excel كصور، وPDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT والمزيد، مما يجعله خيارًا مثاليًا لتبادل المستندات بتنسيقات متوافقة مع معايير الصناعة. يمكنك تنزيل أحدث إصدار له مباشرة، فقط قم بفتحه[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/)مدير الحزم، ابحث عن Aspose.Cells.Cpp وقم بتثبيته. يمكنك أيضًا استخدام الأمر التالي من وحدة تحكم إدارة الحزم.
 
 {{% blocks/products/pf/agp/code-block title="يأمر" offSpacer="true" %}}
 
@@ -37,14 +37,15 @@ PM> Install-Package Aspose.Cells.Cpp
 1.  إنشاء كائن من فئة المصنف.
 1.  احصل على الورقة الأولى في كائن ورقة العمل.
 1.  استخدم أسلوب Worksheet.GetCells() لتحويل خلايا ورقة العمل إلى كائن Cells.
-1. استخدم طريقة Cells.Get() للوصول إلى الخلية المطلوبة في ورقة العمل وتحويلها إلى كائن Cell.
+1.  استخدم طريقة Cells.Get() للوصول إلى الخلية المطلوبة في ورقة العمل وتحويلها إلى كائن Cell.
 1.  استخدم طريقة Cell.PutValue() لإدخال القيمة في الخلية.
-1.  احفظ المصنف كملف .xls باستخدام طريقة Save().
+1.  احفظ المصنف كملف بامتداد .xls باستخدام دالة Save().
 
 {{% blocks/products/pf/agp/code-block title="يوضح نموذج التعليمات البرمجية كيفية إنشاء ملف XLS في C++." offSpacer="" %}}
 
 ```cs
 Aspose::Cells::Startup();
+//TIFF format is not supported
 
 // Create an object of the Workbook class.
 Workbook wkb;

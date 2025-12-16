@@ -1,7 +1,7 @@
 ---
 title: Python XLSX به TSV - XLSX به TSV تبدیل
-description: Aspose اکسل. Python اکسل. تبدیل XLSX به TSV به سرعت و به آسانی با Aspose.Cells. Python XLSX. Python Save 076193418 به 076193418 1307 61123481 با استفاده از Python Excel Library.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert XLSX to TSV in Python Excel Library., Save XLSX to TSV using Python Excel Library., Python XLSX to TSV saveformat., XLSX to TSV Converter., Python Save XLSX as TSV]
+description: Aspose اکسل. این راهکار جامع، رویکردی کاملاً یکپارچه برای تبدیل فرمت XLSX به TSV در اختیار توسعه‌دهندگان Python قرار می‌دهد و امکان ذخیره یکپارچه داده‌های XLSX به فرمت TSV را با استفاده از کتابخانه Aspose.Cells، از طریق کد کارآمد و قابل تنظیم Python، فراهم می‌کند.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart XLSX files to TSV Converter for Python., Convert XLSX to TSV in Python., XLSX files to TSV Conversion in Python., Leverage intelligent data processing to automatically parse and save XLSX into TSV format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="تبدیل XLSX به TSV در Python Excel Library" h2="کتابخانه اکسل پرسرعت Python برای تبدیل XLSX به TSV. این یک راه حل نرم افزاری حرفه ای برای واردات و صادرات XLSX، TSV و بسیاری از فرمت های دیگر با استفاده از Python است." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="TSV" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -27,7 +27,7 @@ keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert X
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="نمونه کد برای تبدیل XLSX به TSV از طریق Python Excel Library" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsx" outformat="tsv" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="نمونه کد برای تبدیل XLSX به TSV از طریق Python Excel Library" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="xlsx" outformat="tsv" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="نحوه تبدیل XLSX به TSV از طریق Python" %}}
 

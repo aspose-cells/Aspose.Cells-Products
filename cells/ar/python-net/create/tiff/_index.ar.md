@@ -1,7 +1,7 @@
 ---
 title: إنشاء TIFF - إنشاء ملف TIFF في Python
-description: Aspose اكسل. Python اكسل. Python قم بإنشاء ملف TIFF بسرعة وسهولة باستخدام Aspose.Cells. قم بإنشاء ملف TIFF باستخدام مكتبة Excel Python. إنشاء TIFF في مكتبة إكسل Python. Python TIFF مبدع.
-keywords: [Aspose Python Excel., Python Aspose.Cells., Python Create TIFF file., Generate TIFF file in Python Excel Library., Create TIFF file using Python Excel Library., Write data to TIFF file via Python Excel Library., Create a TIFF file in Python Excel Library., Python Generate a TIFF file., Python TIFF Creater]
+description: Aspose Excel. أنشئ ملفات TIFF وتعامل معها بسهولة باستخدام مكتبة Aspose.Cells وfor Python وvia .NET. توفر هذه المكتبة القوية API حلاً مبسطًا وفعالًا لإنشاء ملفات TIFF وتعديلها وإدارتها مباشرةً ضمن تطبيقاتك Python، مما يلبي احتياجات المطورين بدقة عالية.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Create TIFF file., Generate TIFF file in Python., Write data to TIFF file via Python., Python TIFF Creater., Aspose.Cells for Python via .NET is a powerful library that enables developers to programmatically create, generate, and manipulate TIFF files in Python]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="إنشاء ملف TIFF في مكتبة إكسل Python" h2="مكتبة إكسيل Python عالية السرعة لإنشاء ملف TIFF. استخدم تحويل Excel API لتطوير برامج مستقلة عالية المستوى للنظام الأساسي في Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="TIFF" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}

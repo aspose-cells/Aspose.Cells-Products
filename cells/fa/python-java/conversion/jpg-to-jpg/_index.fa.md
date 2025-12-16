@@ -1,7 +1,7 @@
 ---
 title: Python JPG به JPG - تبدیل JPG به JPG
-description: Aspose اکسل. Python اکسل. تبدیل JPG به JPG سریع و آسان با Aspose.Cells. Python JPG به JPG. Python JPG را در JPG ذخیره کنید. JPG را با استفاده از Python Excel Library به صورت JPG ذخیره کنید.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert JPG to JPG in Python Excel Library., Save JPG to JPG using Python Excel Library., Python JPG to JPG saveformat., JPG to JPG Converter., Python Save JPG as JPG]
+description: Aspose اکسل. این راهکار جامع، رویکردی کاملاً یکپارچه برای تبدیل فرمت JPG به JPG در اختیار توسعه‌دهندگان Python قرار می‌دهد و امکان ذخیره یکپارچه داده‌های JPG به فرمت JPG را با استفاده از کتابخانه Aspose.Cells، از طریق کد کارآمد و قابل تنظیم Python، فراهم می‌کند.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart JPG files to JPG Converter for Python., Convert JPG to JPG in Python., JPG files to JPG Conversion in Python., Leverage intelligent data processing to automatically parse and save JPG into JPG format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="تبدیل JPG به JPG در Python Excel Library" h2="کتابخانه اکسل پرسرعت Python برای تبدیل JPG به JPG. این یک راه حل نرم افزار حرفه ای برای وارد کردن و صادرات JPG، JPG و بسیاری از فرمت های دیگر با استفاده از Python است." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="JPG" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -27,7 +27,7 @@ keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert J
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="نمونه کد برای تبدیل JPG به JPG از طریق Python Excel Library" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="jpg" outformat="jpg" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="نمونه کد برای تبدیل JPG به JPG از طریق Python Excel Library" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="jpg" outformat="jpg" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="نحوه تبدیل JPG به JPG از طریق Python" %}}
 

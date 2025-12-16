@@ -1,7 +1,7 @@
 ---
 title: Java XML إلى SXC - XML إلى SXC محول
-description: Aspose اكسل. قم بتحويل XML إلى SXC بسرعة وسهولة باستخدام Aspose.Cells. Java XML إلى SXC. Java احفظ XML إلى SXC. احفظ XML كـ SXC باستخدام Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Convert XML to SXC in Java., Save XML to SXC using Java., Java XML to SXC saveformat., XML to SXC Converter., Java Save XML as SXC]
+description: Aspose إكسل. يوفر هذا الحل الشامل للمطورين Java نهجًا متكاملًا تمامًا لتحويل XML إلى تنسيق SXC، مما يتيح حفظ بيانات XML بسلاسة بتنسيق SXC باستخدام مكتبة Aspose.Cells، كل ذلك من خلال كود Java فعال وقابل للتخصيص.
+keywords: [Aspose Excel., Java Aspose.Cells., Smart XML files to SXC Converter for Java., Convert XML to SXC in Java., XML files to SXC Conversion in Java., Leverage intelligent data processing to automatically parse and save XML into SXC format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="تحويل XML إلى SXC في Java" h2="مكتبة Java عالية السرعة لتحويل XML إلى SXC. هذا حل برمجي احترافي لاستيراد وتصدير XML وSXC والعديد من التنسيقات الأخرى باستخدام Java." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="SXC" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="CSV" >}}
@@ -45,7 +45,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Convert XML to SXC in Java., Save 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="احفظ XML في SXC في Java" %}}
+{{% blocks/products/pf/agp/content h2="حفظ ملف XML في SXC في Java" %}}
 
 يوضح المثال التالي كيفية تحويل XML إلى SXC في Java.
 {{% blocks/products/pf/agp/text %}}
@@ -56,19 +56,19 @@ keywords: [Aspose Excel., Java Aspose.Cells., Convert XML to SXC in Java., Save 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="نموذج التعليمات البرمجية لتحويل XML إلى SXC" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xml" outformat="sxc" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="نموذج كود لتحويل XML إلى SXC" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="xml" outformat="sxc" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="كيفية تحويل XML إلى SXC via Java" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
-هل تحتاج إلى تحويل ملفات XML إلى SXC برمجياً؟ يمكن لمطوري Java تحويل XML بسهولة إلى SXC في بضعة أسطر من التعليمات البرمجية.
+هل تحتاج إلى تحويل ملفات XML إلى صيغة SXC برمجيًا؟ يمكن لمطوري Java تحويل XML بسهولة إلى صيغة SXC في بضعة أسطر من التعليمات البرمجية فقط.
 
 {{% /blocks/products/pf/agp/text %}}
 
-1.  قم بتثبيت "Aspose.Cells for Java".
+1.  قم بتثبيت 'Aspose.Cells for Java'.
 1.  أضف مرجع مكتبة (استيراد المكتبة) إلى مشروعك Java.
-1.  قم بتحميل ملف XML بمثيل لفئة Workbook.
+1.  قم بتحميل ملف XML باستخدام نسخة من فئة Workbook.
 1.  تحويل XML إلى SXC عن طريق استدعاء طريقة Workbook.save.
 1.  احصل على نتيجة تحويل XML إلى SXC.
 

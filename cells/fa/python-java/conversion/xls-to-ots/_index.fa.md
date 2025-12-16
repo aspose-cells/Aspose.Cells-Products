@@ -1,7 +1,7 @@
 ---
 title: Python XLS به OTS - XLS به OTS تبدیل
-description: Aspose اکسل. Python اکسل. XLS را سریع و آسان با Aspose.Cells به OTS تبدیل کنید. Python XLS به OTS. Python XLS را در OTS ذخیره کنید. XLS را به عنوان OTS با استفاده از Python Excel Library ذخیره کنید.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert XLS to OTS in Python Excel Library., Save XLS to OTS using Python Excel Library., Python XLS to OTS saveformat., XLS to OTS Converter., Python Save XLS as OTS]
+description: Aspose اکسل. این راهکار جامع، رویکردی کاملاً یکپارچه برای تبدیل فرمت XLS به فرمت OTS در اختیار توسعه‌دهندگان Python قرار می‌دهد و امکان ذخیره یکپارچه داده‌های XLS به فرمت OTS را با استفاده از کتابخانه Aspose.Cells، از طریق کد کارآمد و قابل تنظیم Python، فراهم می‌کند.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart XLS files to OTS Converter for Python., Convert XLS to OTS in Python., XLS files to OTS Conversion in Python., Leverage intelligent data processing to automatically parse and save XLS into OTS format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="تبدیل XLS به OTS در Python Excel Library" h2="کتابخانه اکسل پرسرعت Python برای تبدیل XLS به OTS. این یک راه حل نرم افزار حرفه ای برای وارد کردن و صادرات XLS، OTS و بسیاری از فرمت های دیگر با استفاده از Python است." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="OTS" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -27,7 +27,7 @@ keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert X
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="کد نمونه برای تبدیل XLS به OTS از طریق Python Excel Library" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xls" outformat="ots" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="کد نمونه برای تبدیل XLS به OTS از طریق Python Excel Library" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="xls" outformat="ots" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="نحوه تبدیل XLS به OTS از طریق Python" %}}
 

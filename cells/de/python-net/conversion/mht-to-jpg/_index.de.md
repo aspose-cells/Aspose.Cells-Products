@@ -1,7 +1,7 @@
 ---
 title: Python MHT zu JPG - MHT zu JPG Konverter
-description: Aspose Excel. Python Excel. Konvertieren Sie MHT schnell und einfach in JPG mit Aspose.Cells. Python MHT in JPG. Python Speichern Sie MHT in JPG. Speichern Sie MHT als JPG mit Python Excel-Bibliothek.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert MHT to JPG in Python Excel Library., Save MHT to JPG using Python Excel Library., Python MHT to JPG saveformat., MHT to JPG Converter., Python Save MHT as JPG]
+description: Aspose Excel. Diese umfassende Lösung bietet Entwicklern einen vollständig integrierten Ansatz zur Konvertierung von MHT- in das JPG-Format und ermöglicht das nahtlose Speichern von MHT-Daten im JPG-Format mithilfe der Bibliothek Aspose.Cells, alles durch effizienten und anpassbaren Code Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart MHT files to JPG Converter for Python., Convert MHT to JPG in Python., MHT files to JPG Conversion in Python., Leverage intelligent data processing to automatically parse and save MHT into JPG format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Konvertieren Sie MHT in JPG in der Python Excel-Bibliothek" h2="Hochgeschwindigkeits-Excel-Bibliothek Python zum Konvertieren von MHT in JPG. Verwenden Sie unsere Excel-Konvertierung API, um hochrangige, plattformunabhängige Software in Python zu entwickeln." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="JPG" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -28,7 +28,7 @@ Befolgen Sie die einfachen Schritte zum Konvertieren von MHT in JPG. Laden Sie I
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Beispielcode zum Konvertieren von MHT in JPG über die Excel-Bibliothek Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="mht" outformat="jpg" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Beispielcode zum Konvertieren von MHT in JPG über die Excel-Bibliothek Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="mht" outformat="jpg" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="So konvertieren Sie MHT in JPG" %}}
 

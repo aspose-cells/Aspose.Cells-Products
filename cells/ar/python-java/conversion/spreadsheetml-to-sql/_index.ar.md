@@ -1,7 +1,7 @@
 ---
 title: Python SPREADSHEETML إلى SQL - SPREADSHEETML لتحويل SQL
-description: Aspose اكسل. Python اكسل. قم بتحويل SPREADSHEETML إلى SQL بسرعة وسهولة باستخدام Aspose.Cells. Python SPREADSHEETML إلى SQL. Python حفظ جدول البيانات إلى SQL. احفظ SPREADSHEETML بتنسيق SQL باستخدام مكتبة Excel Python.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert SPREADSHEETML to SQL in Python Excel Library., Save SPREADSHEETML to SQL using Python Excel Library., Python SPREADSHEETML to SQL saveformat., SPREADSHEETML to SQL Converter., Python Save SPREADSHEETML as SQL]
+description: Aspose إكسل. يوفر هذا الحل الشامل للمطورين Python نهجًا متكاملًا تمامًا لتحويل SPREADSHEETML إلى تنسيق SQL، مما يتيح حفظ بيانات SPREADSHEETML بسلاسة في تنسيق SQL باستخدام مكتبة Aspose.Cells، كل ذلك من خلال كود Python فعال وقابل للتخصيص.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart SPREADSHEETML files to SQL Converter for Python., Convert SPREADSHEETML to SQL in Python., SPREADSHEETML files to SQL Conversion in Python., Leverage intelligent data processing to automatically parse and save SPREADSHEETML into SQL format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="تحويل SPREADSHEETML إلى SQL في مكتبة Excel Python" h2="مكتبة إكسل Python عالية السرعة لتحويل جدول البيانات إلى SQL. يعد هذا حلاً برمجيًا احترافيًا لاستيراد وتصدير SPREADSHEETML وSQL والعديد من التنسيقات الأخرى باستخدام Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="SQL" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -27,7 +27,7 @@ keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert S
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="نموذج التعليمات البرمجية لتحويل SPREADSHEETML إلى SQL عبر مكتبة Excel Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xml" outformat="sql" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="نموذج التعليمات البرمجية لتحويل SPREADSHEETML إلى SQL عبر مكتبة Excel Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="xml" outformat="sql" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="كيفية تحويل SPREADSHEETML إلى SQL عبر Python" %}}
 

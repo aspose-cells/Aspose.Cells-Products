@@ -1,7 +1,7 @@
 ---
 title: تحويل Python صورة إلى XLTM - صورة إلى XLTM
-description: Aspose اكسل. Python اكسل. قم بتحويل IMAGE إلى XLTM بسرعة وسهولة باستخدام Aspose.Cells. Python IMAGE إلى XLTM. Python احفظ IMAGE إلى XLTM. احفظ IMAGE كـ XLTM باستخدام مكتبة Excel Python.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert IMAGE to XLTM in Python Excel Library., Save IMAGE to XLTM using Python Excel Library., Python IMAGE to XLTM saveformat., IMAGE to XLTM Converter., Python Save IMAGE as XLTM]
+description: Aspose Excel. يوفر هذا الحل الشامل للمطورين Python نهجًا متكاملًا تمامًا لتحويل IMAGE إلى تنسيق XLTM، مما يتيح حفظ بيانات IMAGE بسلاسة في تنسيق XLTM باستخدام مكتبة Aspose.Cells، كل ذلك من خلال كود Python فعال وقابل للتخصيص.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart IMAGE files to XLTM Converter for Python., Convert IMAGE to XLTM in Python., IMAGE files to XLTM Conversion in Python., Leverage intelligent data processing to automatically parse and save IMAGE into XLTM format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="تحويل IMAGE إلى XLTM في مكتبة Excel Python" h2="مكتبة Excel Python عالية السرعة لتحويل IMAGE إلى XLTM. هذا حل برمجي احترافي لاستيراد وتصدير IMAGE وXLTM والعديد من التنسيقات الأخرى باستخدام Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLTM" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -27,7 +27,7 @@ keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert I
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="نموذج التعليمات البرمجية لتحويل IMAGE إلى XLTM عبر مكتبة Excel Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="png" outformat="xltm" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="نموذج التعليمات البرمجية لتحويل IMAGE إلى XLTM عبر مكتبة Excel Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="png" outformat="xltm" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="كيفية تحويل IMAGE إلى XLTM عبر Python" %}}
 

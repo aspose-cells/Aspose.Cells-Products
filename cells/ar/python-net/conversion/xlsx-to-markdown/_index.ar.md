@@ -1,7 +1,7 @@
 ---
 title: Python XLSX الى MARKDOWN - XLSX الى MARKDOWN محول
-description: Aspose اكسل. Python اكسل. قم بتحويل XLSX إلى MARKDOWN بسرعة وسهولة باستخدام Aspose.Cells. Python XLSX إلى MARKDOWN. Python احفظ XLSX إلى MARKDOWN. احفظ XLSX كـ 076112 3481 باستخدام مكتبة إكسل Python.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert XLSX to MARKDOWN in Python Excel Library., Save XLSX to MARKDOWN using Python Excel Library., Python XLSX to MARKDOWN saveformat., XLSX to MARKDOWN Converter., Python Save XLSX as MARKDOWN]
+description: Aspose Excel. يوفر هذا الحل الشامل للمطورين Python نهجًا متكاملًا تمامًا لتحويل XLSX إلى تنسيق MARKDOWN، مما يتيح حفظ البيانات بسلاسة في تنسيق MARKDOWN باستخدام مكتبة Aspose.Cells، كل ذلك من خلال كود Python فعال وقابل للتخصيص.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart XLSX files to MARKDOWN Converter for Python., Convert XLSX to MARKDOWN in Python., XLSX files to MARKDOWN Conversion in Python., Leverage intelligent data processing to automatically parse and save XLSX into MARKDOWN format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="تحويل XLSX إلى MARKDOWN في Python مكتبة إكسل" h2="مكتبة Excel Python عالية السرعة لتحويل XLSX إلى MARKDOWN. استخدم تحويل Excel API لتطوير برامج مستقلة عالية المستوى عن النظام الأساسي في Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="MARKDOWN" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -28,7 +28,7 @@ keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert X
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="نموذج التعليمات البرمجية لتحويل XLSX إلى MARKDOWN عبر مكتبة Excel Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsx" outformat="md" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="نموذج التعليمات البرمجية لتحويل XLSX إلى MARKDOWN عبر مكتبة Excel Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="xlsx" outformat="md" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="كيفية تحويل XLSX إلى MARKDOWN" %}}
 

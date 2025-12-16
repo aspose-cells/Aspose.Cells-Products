@@ -1,7 +1,7 @@
 ---
 title: Java XML إلى XLSB - XML إلى XLSB محول
-description: Aspose اكسل. قم بتحويل XML إلى XLSB بسرعة وسهولة باستخدام Aspose.Cells. Java XML إلى XLSB. Java احفظ XML إلى XLSB. احفظ XML كـ XLSB باستخدام Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Convert XML to XLSB in Java., Save XML to XLSB using Java., Java XML to XLSB saveformat., XML to XLSB Converter., Java Save XML as XLSB]
+description: Aspose إكسل. يوفر هذا الحل الشامل للمطورين Java نهجًا متكاملًا تمامًا لتحويل XML إلى تنسيق XLSB، مما يتيح حفظ بيانات XML بسلاسة بتنسيق XLSB باستخدام مكتبة Aspose.Cells، كل ذلك من خلال كود Java فعال وقابل للتخصيص.
+keywords: [Aspose Excel., Java Aspose.Cells., Smart XML files to XLSB Converter for Java., Convert XML to XLSB in Java., XML files to XLSB Conversion in Java., Leverage intelligent data processing to automatically parse and save XML into XLSB format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="تحويل XML إلى XLSB في Java" h2="مكتبة Java عالية السرعة لتحويل XML إلى XLSB. هذا حل برمجي احترافي لاستيراد وتصدير XML وXLSB والعديد من التنسيقات الأخرى باستخدام Java." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSB" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="CSV" >}}
@@ -45,7 +45,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Convert XML to XLSB in Java., Save
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="احفظ XML في XLSB في Java" %}}
+{{% blocks/products/pf/agp/content h2="حفظ ملف XML في XLSB في Java" %}}
 
 يوضح المثال التالي كيفية تحويل XML إلى XLSB في Java.
 {{% blocks/products/pf/agp/text %}}
@@ -56,19 +56,19 @@ keywords: [Aspose Excel., Java Aspose.Cells., Convert XML to XLSB in Java., Save
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="نموذج التعليمات البرمجية لتحويل XML إلى XLSB" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xml" outformat="xlsb" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="نموذج كود لتحويل XML إلى XLSB" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="xml" outformat="xlsb" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="كيفية تحويل XML إلى XLSB via Java" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
-هل تحتاج إلى تحويل ملفات XML إلى XLSB برمجياً؟ يمكن لمطوري Java تحويل XML بسهولة إلى XLSB في بضعة أسطر من التعليمات البرمجية.
+هل تحتاج إلى تحويل ملفات XML إلى صيغة XLSB برمجيًا؟ يمكن لمطوري Java تحويل XML بسهولة إلى صيغة XLSB في بضعة أسطر من التعليمات البرمجية فقط.
 
 {{% /blocks/products/pf/agp/text %}}
 
-1.  قم بتثبيت "Aspose.Cells for Java".
+1.  قم بتثبيت 'Aspose.Cells for Java'.
 1.  أضف مرجع مكتبة (استيراد المكتبة) إلى مشروعك Java.
-1.  قم بتحميل ملف XML بمثيل لفئة Workbook.
+1.  قم بتحميل ملف XML باستخدام نسخة من فئة Workbook.
 1.  تحويل XML إلى XLSB عن طريق استدعاء طريقة Workbook.save.
 1.  احصل على نتيجة تحويل XML إلى XLSB.
 
@@ -98,7 +98,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Convert XML to XLSB in Java., Save
 <!-- aboutfile Starts -->
     {{< blocks/products/pf/agp/about-file-section >}}
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XML" readMoreLink="https://docs.fileformat.com/web/xml/" >}}يرمز XML إلى لغة التوصيف القابلة للتوسيع والتي تشبه HTML ولكنها تختلف في استخدام العلامات لتعريف الكائنات. كانت الفكرة الكاملة وراء إنشاء تنسيق ملف XML هي تخزين البيانات ونقلها دون الاعتماد على أدوات البرامج أو الأجهزة. ترجع شعبيتها إلى كونها قابلة للقراءة من قبل الإنسان وكذلك من خلال الآلة. وهذا يمكّنها من إنشاء بروتوكولات بيانات مشتركة في شكل كائنات يتم تخزينها ومشاركتها عبر الشبكة مثل شبكة الويب العالمية (WWW). "X" في XML مخصص للتوسيع مما يعني أنه يمكن توسيع اللغة إلى أي عدد من الرموز وفقًا لمتطلبات المستخدم. لهذه الميزات تستفيد منها العديد من تنسيقات الملفات القياسية مثل Microsoft Open XML وLibreOffice OpenDocument وXHTML وSVG.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLSB" readMoreLink="https://docs.fileformat.com/spreadsheet/xlsb/" >}}يحدد تنسيق الملف XLSB تنسيق ملف Excel الثنائي، وهو عبارة عن مجموعة من السجلات والهياكل التي تحدد محتوى مصنف Excel. يمكن أن يتضمن المحتوى جداول غير منظمة أو شبه منظمة من الأرقام أو النصوص أو كل من الأرقام والنصوص والصيغ واتصالات البيانات الخارجية والمخططات والصور. على عكس XLSX (الذي يعتمد على تنسيق ملف XML المفتوح)، يمثل XLSB ملف مصنف Excel الثنائي. يمكن قراءة وكتابة ملفات XLSB بشكل أسرع مما يجعلها مفيدة للعمل مع الملفات الكبيرة. نادرًا ما يتم استخدام XLSB لتخزين المصنفات حيث أن XLSX (وسابقًا XLS) هي تنسيقات الملفات المحددة الأكثر شيوعًا من قبل المستخدم لحفظ المصنفات. يمكن فتحه بواسطة Microsoft Office 2007 وما فوق.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLSB" readMoreLink="https://docs.fileformat.com/spreadsheet/xlsb/" >}}يحدد تنسيق الملف XLSB تنسيق ملف Excel الثنائي، وهو عبارة عن مجموعة من السجلات والهياكل التي تحدد محتوى مصنف Excel. يمكن أن يشتمل المحتوى على جداول أرقام غير منظمة أو شبه منظمة، أو نصوص، أو كل من الأرقام والنصوص، والصيغ، واتصالات البيانات الخارجية، والمخططات والصور. على عكس XLSX (الذي يعتمد على تنسيق ملف XML المفتوح)، يمثل XLSB ملف مصنف Excel الثنائي. يمكن قراءة وكتابة ملفات XLSB بشكل أسرع مما يجعلها مفيدة للعمل مع الملفات الكبيرة. نادرًا ما يتم استخدام XLSB لتخزين المصنفات حيث أن XLSX (وسابقًا XLS) هي تنسيقات الملفات المحددة الأكثر شيوعًا من قبل المستخدم لحفظ المصنفات. يمكن فتحه بواسطة Microsoft Office 2007 وما فوق.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
     {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->
 

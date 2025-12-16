@@ -1,7 +1,7 @@
 ---
 title: Python XLSM bis XLT - XLSM bis XLT Konverter
-description: Aspose Excel. Python Excel. Konvertieren Sie XLSM schnell und einfach in XLT mit Aspose.Cells. Python XLSM in XLT. Python Speichern Sie XLSM in XLT. Speichern Sie XLSM als XLT mit der Python Excel-Bibliothek.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert XLSM to XLT in Python Excel Library., Save XLSM to XLT using Python Excel Library., Python XLSM to XLT saveformat., XLSM to XLT Converter., Python Save XLSM as XLT]
+description: Aspose Excel. Diese umfassende Lösung bietet Entwicklern einen vollständig integrierten Ansatz zur Konvertierung von XLSM in das Format XLT und ermöglicht das nahtlose Speichern von XLSM-Daten im Format XLT mithilfe der Aspose.Cells-Bibliothek – alles durch effizienten und anpassbaren Python-Code.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart XLSM files to XLT Converter for Python., Convert XLSM to XLT in Python., XLSM files to XLT Conversion in Python., Leverage intelligent data processing to automatically parse and save XLSM into XLT format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Konvertieren Sie XLSM in XLT in der Excel-Bibliothek Python" h2="Hochgeschwindigkeits-Excel-Bibliothek Python zum Konvertieren von XLSM in XLT. Dies ist eine professionelle Softwarelösung zum Importieren und Exportieren von XLSM, XLT und vielen anderen Formaten mit Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLT" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -27,7 +27,7 @@ Befolgen Sie die einfachen Schritte, um XLSM in XLT zu konvertieren. Laden Sie I
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Beispielcode zur Konvertierung von XLSM in XLT über die Excel-Bibliothek Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsm" outformat="xlt" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="Beispielcode zur Konvertierung von XLSM in XLT über die Excel-Bibliothek Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="xlsm" outformat="xlt" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="So konvertieren Sie XLSM über Python in XLT" %}}
 

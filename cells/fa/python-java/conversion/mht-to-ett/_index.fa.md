@@ -1,7 +1,7 @@
 ---
 title: Python MHT به ETT - تبدیل MHT به ETT
-description: Aspose اکسل. Python اکسل. تبدیل MHT به ETT سریع و آسان با Aspose.Cells. Python MHT به ETT. Python MHT را در ETT ذخیره کنید. MHT را به عنوان ETT با استفاده از Python Excel Library ذخیره کنید.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert MHT to ETT in Python Excel Library., Save MHT to ETT using Python Excel Library., Python MHT to ETT saveformat., MHT to ETT Converter., Python Save MHT as ETT]
+description: Aspose اکسل. این راهکار جامع، رویکردی کاملاً یکپارچه برای تبدیل فرمت MHT به ETT در اختیار توسعه‌دهندگان Python قرار می‌دهد و امکان ذخیره یکپارچه داده‌های MHT در فرمت ETT را با استفاده از کتابخانه Aspose.Cells، از طریق کد کارآمد و قابل تنظیم Python، فراهم می‌کند.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart MHT files to ETT Converter for Python., Convert MHT to ETT in Python., MHT files to ETT Conversion in Python., Leverage intelligent data processing to automatically parse and save MHT into ETT format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="MHT را به ETT در کتابخانه اکسل Python تبدیل کنید" h2="کتابخانه اکسل پرسرعت Python برای تبدیل MHT به ETT. این یک راه حل نرم افزاری حرفه ای برای وارد کردن و صادرات فرمت های MHT، ETT و بسیاری دیگر با استفاده از Python است." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="ETT" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -27,7 +27,7 @@ keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert M
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="نمونه کد برای تبدیل MHT به ETT از طریق Python Excel Library" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="mht" outformat="ett" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="نمونه کد برای تبدیل MHT به ETT از طریق Python Excel Library" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="mht" outformat="ett" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="نحوه تبدیل MHT به ETT از طریق Python" %}}
 

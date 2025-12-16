@@ -1,7 +1,7 @@
 ---
-title: Convertidor PHP MHTML a TSV - MHTML a TSV
-description: Aspose Excel. Convierta MHTML a TSV rápida y fácilmente con Aspose.Cells. PHP MHTML a TSV. PHP Guarde MHTML a TSV. Guarde MHTML como TSV usando PHP.
-keywords: [Aspose Excel., PHP Aspose.Cells., Convert MHTML to TSV in PHP., Save MHTML to TSV using PHP., PHP MHTML to TSV saveformat., MHTML to TSV Converter., PHP Save MHTML as TSV]
+title: Convertidor de PHP MHTML a TSV - MHTML a TSV
+description: Aspose Excel. Esta solución integral ofrece a los desarrolladores PHP un enfoque totalmente integrado para convertir el formato MHTML al TSV, lo que permite guardar sin problemas los datos del MHTML al formato TSV mediante la biblioteca Aspose.Cells, todo mediante código PHP eficiente y personalizable.
+keywords: [Aspose Excel., PHP Aspose.Cells., Smart MHTML files to TSV Converter for PHP., Convert MHTML to TSV in PHP., MHTML files to TSV Conversion in PHP., Leverage intelligent data processing to automatically parse and save MHTML into TSV format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Convertir MHTML a TSV en PHP" h2="Biblioteca PHP de alta velocidad para convertir MHTML a TSV. Esta es una solución de software profesional para importar y exportar MHTML, TSV y muchos otros formatos usando PHP." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-php-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="TSV" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,11 +12,11 @@ keywords: [Aspose Excel., PHP Aspose.Cells., Convert MHTML to TSV in PHP., Save 
 
 {{% blocks/products/pf/agp/content h2="Convertir MHTML a TSV usando PHP" %}}
 
- ¿Cómo convierto MHTML a TSV? Con la biblioteca Aspose.Cells for PHP via Java, puede convertir fácilmente MHTML a TSV mediante programación con unas pocas líneas de código.[Aspose.Cells for PHP via Java](https://products.aspose.com/cells/php-java/) es capaz de crear aplicaciones multiplataforma con la capacidad de generar, modificar, convertir, renderizar e imprimir todos los archivos de Excel. PHP Excel API no sólo convierte entre formatos de hojas de cálculo, sino que también puede representar archivos de Excel como imágenes, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT y más, lo que lo convierte en una opción perfecta para intercambiar documentos en formatos estándar de la industria.
+¿Cómo convierto MHTML a TSV? Con la biblioteca Aspose.Cells for PHP via Java, puedes convertir fácilmente MHTML a TSV mediante programación con solo unas pocas líneas de código.[Aspose.Cells for PHP via Java](https://products.aspose.com/cells/php-java/) Es capaz de crear aplicaciones multiplataforma con la capacidad de generar, modificar, convertir, renderizar e imprimir todos los archivos de Excel. PHP Excel API no solo convierte entre formatos de hoja de cálculo, sino que también puede renderizar archivos de Excel como imágenes, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT y más, lo que lo convierte en la opción ideal para intercambiar documentos en formatos estándar de la industria.
  
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Guardar MHTML a TSV en PHP" %}}
+{{% blocks/products/pf/agp/content h2="Guardar MHTML en TSV en PHP" %}}
 
 El siguiente ejemplo demuestra cómo convertir MHTML a TSV en PHP.
 {{% blocks/products/pf/agp/text %}}
@@ -27,20 +27,20 @@ Siga los sencillos pasos para convertir MHTML a TSV. Cargue su archivo MHTML y l
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Código de muestra para convertir MHTML a TSV" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="mhtml" outformat="tsv" IsLandingPage="true" language="phpjava" %}}
+{{% cells-convert title="Código de muestra para convertir MHTML a TSV" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="mhtml" outformat="tsv" IsLandingPage="true" language="phpjava" %}}
 
 {{% blocks/products/pf/agp/content h2="Cómo convertir MHTML a TSV mediante PHP" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
-¿Necesita convertir archivos MHTML a TSV mediante programación? Los desarrolladores de PHP pueden cargar y convertir fácilmente MHTML a TSV en tan solo unas pocas líneas de código.
+¿Necesitas convertir archivos MHTML a TSV mediante programación? Los desarrolladores de PHP pueden cargar y convertir fácilmente archivos MHTML a TSV con solo unas pocas líneas de código.
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Instale 'Aspose.Cells for PHP via Java'.
 1.  Agregue una referencia de biblioteca (importe la biblioteca) a su proyecto PHP.
 1.  Cargue el archivo MHTML con una instancia de Workbook.
-1.  Convierta MHTML a TSV llamando al método guardar del libro de trabajo.
+1.  Convierta MHTML a TSV llamando al método de guardado del libro de trabajo.
 1.  Obtenga el resultado de la conversión de MHTML a TSV.
 
 {{% /blocks/products/pf/agp/content %}}
@@ -63,7 +63,7 @@ Hay tres opciones para instalar "Aspose.Cells for PHP via Java" en su sistema. E
 
 {{% blocks/products/pf/agp/text %}}
 
-Aspose.Cells for PHP via Java es independiente de la plataforma API y se puede utilizar en cualquier plataforma (Windows, Linux, MacOS, etc.) donde esté instalado PHP 7 o versiones superiores. La máquina debe tener Oracle JDK 7 o versiones superiores antes de configurar la instalación.
+ Aspose.Cells for PHP via Java es independiente de la plataforma API y puede utilizarse en cualquier plataforma (Windows, Linux, macOS, etc.) con PHP 7 o versiones posteriores instaladas. El equipo debe tener instalado Oracle JDK 7 o versiones posteriores antes de configurar la instalación.
  
 {{% /blocks/products/pf/agp/text %}}
 

@@ -1,7 +1,7 @@
 ---
 title: Python JSON إلى ET - JSON إلى ET محول
-description: Aspose اكسل. Python اكسل. قم بتحويل JSON إلى ET بسرعة وسهولة باستخدام Aspose.Cells. Python JSON إلى ET. Python حفظ JSON إلى ET. احفظ JSON كـ ET باستخدام مكتبة Excel Python.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert JSON to ET in Python Excel Library., Save JSON to ET using Python Excel Library., Python JSON to ET saveformat., JSON to ET Converter., Python Save JSON as ET]
+description: Aspose Excel. يوفر هذا الحل الشامل للمطورين Python نهجًا متكاملًا تمامًا لتحويل JSON إلى تنسيق ET، مما يتيح حفظ البيانات بسلاسة بتنسيق ET باستخدام مكتبة Aspose.Cells، كل ذلك من خلال كود Python فعال وقابل للتخصيص.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart JSON files to ET Converter for Python., Convert JSON to ET in Python., JSON files to ET Conversion in Python., Leverage intelligent data processing to automatically parse and save JSON into ET format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="تحويل JSON إلى ET في Python مكتبة إكسل" h2="مكتبة إكسل Python عالية السرعة لتحويل JSON إلى ET. يعد هذا حلاً برمجيًا احترافيًا لاستيراد وتصدير JSON وET والعديد من التنسيقات الأخرى باستخدام Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="ET" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -27,7 +27,7 @@ keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert J
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="نموذج التعليمات البرمجية لتحويل JSON إلى ET عبر مكتبة Excel Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="json" outformat="et" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="نموذج التعليمات البرمجية لتحويل JSON إلى ET عبر مكتبة Excel Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="json" outformat="et" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="كيفية تحويل JSON إلى ET عبر Python" %}}
 

@@ -1,7 +1,7 @@
 ---
 title: Python HTML bis TSV - HTML bis TSV Konverter
-description: Aspose Excel. Python Excel. Konvertieren Sie HTML schnell und einfach in TSV mit Aspose.Cells. Python HTML in TSV. Python Speichern Sie HTML in TSV. Speichern Sie HTML als TSV mit der Python Excel-Bibliothek.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert HTML to TSV in Python Excel Library., Save HTML to TSV using Python Excel Library., Python HTML to TSV saveformat., HTML to TSV Converter., Python Save HTML as TSV]
+description: Aspose Excel. Diese umfassende Lösung bietet Entwicklern einen vollständig integrierten Ansatz zur Konvertierung von HTML in das Format TSV und ermöglicht das nahtlose Speichern von HTML-Daten im Format TSV mithilfe der Aspose.Cells-Bibliothek – alles durch effizienten und anpassbaren Python-Code.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart HTML files to TSV Converter for Python., Convert HTML to TSV in Python., HTML files to TSV Conversion in Python., Leverage intelligent data processing to automatically parse and save HTML into TSV format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Konvertieren Sie HTML in TSV in der Excel-Bibliothek Python" h2="Hochgeschwindigkeits-Excel-Bibliothek Python zum Konvertieren von HTML in TSV. Dies ist eine professionelle Softwarelösung zum Importieren und Exportieren von HTML, TSV und vielen anderen Formaten mit Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="TSV" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -27,7 +27,7 @@ Befolgen Sie die einfachen Schritte, um HTML in TSV zu konvertieren. Laden Sie I
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Beispielcode zur Konvertierung von HTML in TSV über die Excel-Bibliothek Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="html" outformat="tsv" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="Beispielcode zur Konvertierung von HTML in TSV über die Excel-Bibliothek Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="html" outformat="tsv" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="So konvertieren Sie HTML über Python in TSV" %}}
 

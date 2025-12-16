@@ -1,7 +1,7 @@
 ---
 title: Python XLSB σε ET - XLSB σε ET Converter
-description: Aspose Excel. Python Excel. Μετατρέψτε το XLSB σε ET γρήγορα και εύκολα με το Aspose.Cells. Python XLSB σε ET. Python Αποθήκευση XLSB στο ET. Αποθηκεύστε το XLSB ως ET χρησιμοποιώντας το Python Excel Library.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert XLSB to ET in Python Excel Library., Save XLSB to ET using Python Excel Library., Python XLSB to ET saveformat., XLSB to ET Converter., Python Save XLSB as ET]
+description: Aspose Excel. Αυτή η ολοκληρωμένη λύση παρέχει στους προγραμματιστές Python μια πλήρως ενσωματωμένη προσέγγιση για τη μετατροπή του XLSB σε μορφή ET, επιτρέποντας την απρόσκοπτη αποθήκευση δεδομένων XLSB σε μορφή ET χρησιμοποιώντας τη βιβλιοθήκη Aspose.Cells, μέσω αποτελεσματικού και προσαρμόσιμου κώδικα Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart XLSB files to ET Converter for Python., Convert XLSB to ET in Python., XLSB files to ET Conversion in Python., Leverage intelligent data processing to automatically parse and save XLSB into ET format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Μετατροπή XLSB σε ET στο Python Excel Library" h2="Βιβλιοθήκη excel υψηλής ταχύτητας Python για μετατροπή XLSB σε ET. Αυτή είναι μια επαγγελματική λύση λογισμικού για εισαγωγή και εξαγωγή XLSB, ET και πολλών άλλων μορφών χρησιμοποιώντας το Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="ET" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -27,7 +27,7 @@ keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert X
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Δείγμα κώδικα για μετατροπή XLSB σε ET μέσω Python Excel Library" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsb" outformat="et" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="Δείγμα κώδικα για μετατροπή XLSB σε ET μέσω Python Excel Library" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="xlsb" outformat="et" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="Πώς να μετατρέψετε το XLSB σε ET μέσω του Python" %}}
 

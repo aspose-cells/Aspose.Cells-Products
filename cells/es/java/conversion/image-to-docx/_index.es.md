@@ -1,7 +1,7 @@
 ---
 title: Java IMAGEN a DOCX - Convertidor IMAGEN a DOCX
-description: Aspose Excel. Convierta IMAGEN a DOCX rápida y fácilmente con Aspose.Cells. Java IMAGEN a DOCX. Java Guarde IMAGEN en DOCX. Guarde IMAGEN como DOCX usando Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Convert IMAGE to DOCX in Java., Save IMAGE to DOCX using Java., Java IMAGE to DOCX saveformat., IMAGE to DOCX Converter., Java Save IMAGE as DOCX]
+description: Aspose Excel. Esta solución integral ofrece a los desarrolladores de Java un enfoque totalmente integrado para convertir imágenes al formato DOCX, lo que permite guardar sin problemas los datos de imágenes en el formato DOCX mediante la biblioteca Aspose.Cells, todo mediante código Java eficiente y personalizable.
+keywords: [Aspose Excel., Java Aspose.Cells., Smart IMAGE files to DOCX Converter for Java., Convert IMAGE to DOCX in Java., IMAGE files to DOCX Conversion in Java., Leverage intelligent data processing to automatically parse and save IMAGE into DOCX format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Convertir IMAGEN a DOCX en Java" h2="Biblioteca Java de alta velocidad para convertir IMAGEN a DOCX. Esta es una solución de software profesional para importar y exportar IMAGEN, DOCX y muchos otros formatos utilizando Java." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="DOCX" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="CSV" >}}
@@ -45,7 +45,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Convert IMAGE to DOCX in Java., Sa
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Guardar IMAGEN al DOCX en Java" %}}
+{{% blocks/products/pf/agp/content h2="Guardar IMAGEN en DOCX en Java" %}}
 
 El siguiente ejemplo demuestra cómo convertir IMAGEN a DOCX en Java.
 {{% blocks/products/pf/agp/text %}}
@@ -56,17 +56,17 @@ Siga los sencillos pasos para convertir IMAGEN a DOCX. Cargue su archivo IMAGEN 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Código de muestra para convertir IMAGEN a DOCX" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="png" outformat="docx" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Código de muestra para convertir IMAGEN a DOCX" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="png" outformat="docx" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="Cómo convertir IMAGEN a DOCX via Java" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
-¿Necesita convertir archivos de IMAGEN a DOCX mediante programación? Los desarrolladores de Java pueden convertir fácilmente IMAGEN a DOCX con solo unas pocas líneas de código.
+¿Necesitas convertir archivos de IMAGEN a DOCX mediante programación? Los desarrolladores de Java pueden convertir fácilmente IMAGEN a DOCX con solo unas pocas líneas de código.
 
 {{% /blocks/products/pf/agp/text %}}
 
-1.  Instale 'Aspose.Cells for Java'.
+1.  Instalar 'Aspose.Cells for Java'.
 1.  Agregue una referencia de biblioteca (importe la biblioteca) a su proyecto Java.
 1.  Cargue el archivo IMAGEN con una instancia de la clase Workbook.
 1.  Convierta IMAGEN a DOCX llamando al método Workbook.save.
@@ -74,7 +74,7 @@ Siga los sencillos pasos para convertir IMAGEN a DOCX. Cargue su archivo IMAGEN 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Biblioteca Java para convertir IMAGEN a DOCX" %}}
+{{% blocks/products/pf/agp/content h2="Java biblioteca para convertir IMAGEN a DOCX" %}}
 {{% blocks/products/pf/agp/text %}}
 
  Alojamos nuestros paquetes Java en[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) repositorios. 'Aspose.Cells for Java' es un archivo JAR común que contiene código de bytes. Por favor sigue el[instrucciones paso a paso](https://docs.aspose.com/cells/java/installation/) sobre cómo instalarlo en su entorno de desarrollador Java.

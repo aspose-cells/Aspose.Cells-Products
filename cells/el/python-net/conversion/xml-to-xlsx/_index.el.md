@@ -1,7 +1,7 @@
 ---
 title: Python XML σε XLSX - Μετατροπέας XML σε XLSX
-description: Aspose Excel. Python Excel. Μετατρέψτε το XML σε XLSX γρήγορα και εύκολα με το Aspose.Cells. Python XML σε XLSX. Python Αποθήκευση XML σε XLSX. Αποθηκεύστε το XML ως 07618031481.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert XML to XLSX in Python Excel Library., Save XML to XLSX using Python Excel Library., Python XML to XLSX saveformat., XML to XLSX Converter., Python Save XML as XLSX]
+description: Aspose Excel. Αυτή η ολοκληρωμένη λύση παρέχει στους προγραμματιστές Python μια πλήρως ενσωματωμένη προσέγγιση για τη μετατροπή XML σε μορφή XLSX, επιτρέποντας την απρόσκοπτη αποθήκευση δεδομένων XML σε μορφή XLSX χρησιμοποιώντας τη βιβλιοθήκη Aspose.Cells, μέσω αποτελεσματικού και προσαρμόσιμου κώδικα Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart XML files to XLSX Converter for Python., Convert XML to XLSX in Python., XML files to XLSX Conversion in Python., Leverage intelligent data processing to automatically parse and save XML into XLSX format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Μετατροπή XML σε XLSX στο Python Excel Library" h2="Βιβλιοθήκη excel υψηλής ταχύτητας Python για μετατροπή XML σε XLSX. Χρησιμοποιήστε τη μετατροπή excel API για να αναπτύξετε λογισμικό υψηλού επιπέδου, ανεξάρτητο από πλατφόρμα στο Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSX" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -28,7 +28,7 @@ keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert X
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Δείγμα κώδικα για μετατροπή XML σε XLSX μέσω Python Excel Library" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xml" outformat="xlsx" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Δείγμα κώδικα για μετατροπή XML σε XLSX μέσω Python Excel Library" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="xml" outformat="xlsx" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="Πώς να μετατρέψετε το XML σε XLSX" %}}
 
@@ -79,29 +79,29 @@ Aspose.Cells for Python μέσω NET είναι ανεξάρτητο από πλ
 
 {{< blocks/products/pf/agp/other-supported-section title="Άλλες υποστηριζόμενες μετατροπές" subTitle="Μπορείτε επίσης να μετατρέψετε XML σε πολλές άλλες μορφές αρχείων, συμπεριλαμβανομένων μερικών που αναφέρονται παρακάτω." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xml-to-bmp/" name="XML TO BMP" description="Εικόνα Bitmap" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xml-to-emf/" name="XML TO EMF" description="Βελτιωμένη μορφή μετα-αρχείου" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xml-to-gif/" name="XML TO GIF" description="Μορφή γραφικής ανταλλαγής" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xml-to-html/" name="XML TO HTML" description="Γλώσσα σήμανσης υπερκειμένου" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xml-to-md/" name="XML TO MD" description="Γλώσσα Markdown" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xml-to-mhtml/" name="XML TO MHTML" description="Μορφή αρχείου ιστοσελίδας" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xml-to-ods/" name="XML TO ODS" description="Αρχείο Υπολογιστικού Φύλλου OpenDocument" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xml-to-pdf/" name="XML TO PDF" description="Μορφή φορητού εγγράφου" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xml-to-png/" name="XML TO PNG" description="Φορητά γραφικά δικτύου" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xml-to-svg/" name="XML TO SVG" description="Κλιμακόμενα διανυσματικά γραφικά" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xml-to-tiff/" name="XML TO TIFF" description="Με ετικέτα Μορφή εικόνας" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xml-to-tsv/" name="XML TO TSV" description="Τιμές διαχωρισμένες με καρτέλες" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xml-to-txt/" name="XML TO TXT" description="Έγγραφο κειμένου" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xml-to-xls/" name="XML TO XLS" description="Δυαδική μορφή Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xml-to-xlsb/" name="XML TO XLSB" description="Δυαδικό αρχείο βιβλίου εργασίας Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xml-to-xlsm/" name="XML TO XLSM" description="Αρχείο υπολογιστικού φύλλου" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xml-to-xlsx/" name="XML TO XLSX" description="Αρχείο Excel OOXML" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xml-to-xlt/" name="XML TO XLT" description="Microsoft Πρότυπο Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xml-to-xltm/" name="XML TO XLTM" description="Πρότυπο με δυνατότητα μακροεντολής Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xml-to-xltx/" name="XML TO XLTX" description="Πρότυπο Office OpenXML Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xml-to-bmp/" name="XML ΠΡΟΣ BMP" description="Εικόνα Bitmap" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xml-to-emf/" name="XML ΠΡΟΣ EMF" description="Βελτιωμένη μορφή μετα-αρχείου" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xml-to-gif/" name="XML ΠΡΟΣ GIF" description="Μορφή γραφικής ανταλλαγής" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xml-to-html/" name="XML ΠΡΟΣ HTML" description="Γλώσσα σήμανσης υπερκειμένου" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xml-to-md/" name="XML ΣΕ MD" description="Γλώσσα Markdown" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xml-to-mhtml/" name="XML ΠΡΟΣ MHTML" description="Μορφή αρχείου ιστοσελίδας" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xml-to-ods/" name="XML ΠΡΟΣ ODS" description="Αρχείο Υπολογιστικού Φύλλου OpenDocument" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xml-to-pdf/" name="XML ΠΡΟΣ PDF" description="Μορφή φορητού εγγράφου" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xml-to-png/" name="XML ΠΡΟΣ PNG" description="Φορητά γραφικά δικτύου" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xml-to-svg/" name="XML ΠΡΟΣ SVG" description="Κλιμακόμενα διανυσματικά γραφικά" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xml-to-tiff/" name="XML ΠΡΟΣ TIFF" description="Με ετικέτα Μορφή εικόνας" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xml-to-tsv/" name="XML ΠΡΟΣ TSV" description="Τιμές διαχωρισμένες με καρτέλες" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xml-to-txt/" name="XML ΠΡΟΣ TXT" description="Έγγραφο κειμένου" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xml-to-xls/" name="XML ΠΡΟΣ XLS" description="Δυαδική μορφή Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xml-to-xlsb/" name="XML ΠΡΟΣ XLSB" description="Δυαδικό αρχείο βιβλίου εργασίας Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xml-to-xlsm/" name="XML ΠΡΟΣ XLSM" description="Αρχείο υπολογιστικού φύλλου" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xml-to-xlsx/" name="XML ΠΡΟΣ XLSX" description="Αρχείο Excel OOXML" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xml-to-xlt/" name="XML ΠΡΟΣ XLT" description="Microsoft Πρότυπο Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xml-to-xltm/" name="XML ΠΡΟΣ XLTM" description="Πρότυπο με δυνατότητα μακροεντολής Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xml-to-xltx/" name="XML ΠΡΟΣ XLTX" description="Πρότυπο Office OpenXML Excel" >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xml-to-xps/" name="XML TO XPS" description="Προδιαγραφές χαρτιού XML" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xml-to-json/" name="XML TO JSON" description="Σημειογραφία αντικειμένου JavaScript" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xml-to-xps/" name="XML ΠΡΟΣ XPS" description="Προδιαγραφές χαρτιού XML" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xml-to-json/" name="XML ΠΡΟΣ JSON" description="Σημειογραφία αντικειμένου JavaScript" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

@@ -1,7 +1,7 @@
 ---
 title: Python EXCEL do XML – převodník EXCEL do XML
-description: Aspose Excel. Python Excel. Převeďte EXCEL do XML rychle a snadno pomocí Aspose.Cells. Python EXCEL do XML. Python Uložit EXCEL do XML. Uložte EXCEL jako XML pomocí knihovny Excel Python.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert EXCEL to XML in Python Excel Library., Save EXCEL to XML using Python Excel Library., Python EXCEL to XML saveformat., EXCEL to XML Converter., Python Save EXCEL as XML]
+description: Aspose Excel. Toto komplexní řešení poskytuje vývojářům Python plně integrovaný přístup k převodu EXCELu do formátu XML, což umožňuje bezproblémové ukládání dat EXCELu do formátu XML pomocí knihovny Aspose.Cells, a to vše prostřednictvím efektivního a přizpůsobitelného kódu Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart EXCEL files to XML Converter for Python., Convert EXCEL to XML in Python., EXCEL files to XML Conversion in Python., Leverage intelligent data processing to automatically parse and save EXCEL into XML format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Převeďte EXCEL na XML v knihovně Excel Python" h2="Vysokorychlostní knihovna Excel Python pro převod EXCELu do XML. Použijte naši konverzi Excel API k vývoji softwaru na vysoké úrovni, nezávislého na platformě v Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="XML" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -28,7 +28,7 @@ Postupujte podle jednoduchých kroků pro převod EXCELu do XML. Nahrajte soubor
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Ukázkový kód pro převod EXCELu do XML prostřednictvím knihovny Excel Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsx" outformat="xml" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Ukázkový kód pro převod EXCELu do XML prostřednictvím knihovny Excel Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="xlsx" outformat="xml" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="Jak převést EXCEL do XML" %}}
 
@@ -82,8 +82,8 @@ Aspose.Cells for Python přes NET je nezávislé na platformě API a lze jej pou
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/excel-to-bmp/" name="EXCEL NA BMP" description="Bitmapový obrázek" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/excel-to-emf/" name="EXCEL NA EMF" description="Vylepšený formát metasouborů" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/excel-to-gif/" name="EXCEL NA GIF" description="Grafický výměnný formát" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/excel-to-html/" name="EXCEL NA HTML" description="Hyper Text Markup Language" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/excel-to-md/" name="EXCEL DO MD" description="Markdown Language" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/excel-to-html/" name="EXCEL NA HTML" description="Hypertextový značkovací jazyk" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/excel-to-md/" name="EXCEL DO MD" description="Jazyk Markdown" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/excel-to-mhtml/" name="EXCEL NA MHTML" description="Formát archivu webové stránky" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/excel-to-ods/" name="EXCEL NA ODS" description="Soubor tabulkového procesoru OpenDocument" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/excel-to-pdf/" name="EXCEL NA PDF" description="Přenosný formát dokumentu" >}}

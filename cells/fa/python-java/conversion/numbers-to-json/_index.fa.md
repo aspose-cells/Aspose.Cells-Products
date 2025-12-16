@@ -1,7 +1,7 @@
 ---
 title: Python NUMBERS به JSON - تبدیل NUMBERS به JSON
-description: Aspose اکسل. Python اکسل. تبدیل NUMBERS به JSON به سرعت و به راحتی با Aspose.Cells. Python NUMBERS به JSON. Python ذخیره NUMBERS به JSON. ذخیره NUMBERS به عنوان 0193483.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert NUMBERS to JSON in Python Excel Library., Save NUMBERS to JSON using Python Excel Library., Python NUMBERS to JSON saveformat., NUMBERS to JSON Converter., Python Save NUMBERS as JSON]
+description: Aspose اکسل. این راهکار جامع، رویکردی کاملاً یکپارچه برای تبدیل اعداد به فرمت JSON در اختیار توسعه‌دهندگان Python قرار می‌دهد و امکان ذخیره یکپارچه داده‌های اعداد به فرمت JSON را با استفاده از کتابخانه Aspose.Cells، از طریق کد کارآمد و قابل تنظیم Python، فراهم می‌کند.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart NUMBERS files to JSON Converter for Python., Convert NUMBERS to JSON in Python., NUMBERS files to JSON Conversion in Python., Leverage intelligent data processing to automatically parse and save NUMBERS into JSON format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="تبدیل NUMBERS به JSON در Python Excel Library" h2="کتابخانه اکسل پرسرعت Python برای تبدیل NUMBERS به JSON. این یک راه حل نرم افزاری حرفه ای برای واردات و صادرات NUMBERS، JSON و بسیاری از فرمت های دیگر با استفاده از Python است." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="JSON" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -27,7 +27,7 @@ keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert N
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="کد نمونه برای تبدیل NUMBERS به JSON از طریق Python Excel Library" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="numbers" outformat="json" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="کد نمونه برای تبدیل NUMBERS به JSON از طریق Python Excel Library" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="numbers" outformat="json" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="نحوه تبدیل اعداد به JSON از طریق Python" %}}
 

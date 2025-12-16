@@ -1,7 +1,7 @@
 ---
 title: Python MHT a CSV - Convertidor de MHT a CSV
-description: Aspose Excel. Python Excel. Convierta MHT a CSV rápida y fácilmente con Aspose.Cells. Python MHT a CSV. Python Guarde MHT en CSV. Guarde MHT como CSV usando Python Biblioteca de Excel.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert MHT to CSV in Python Excel Library., Save MHT to CSV using Python Excel Library., Python MHT to CSV saveformat., MHT to CSV Converter., Python Save MHT as CSV]
+description: Aspose Excel. Esta solución integral proporciona a los desarrolladores de Python un enfoque totalmente integrado para convertir MHT al formato CSV, lo que permite guardar datos MHT sin problemas en el formato CSV mediante la biblioteca Aspose.Cells, todo mediante código Python eficiente y personalizable.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart MHT files to CSV Converter for Python., Convert MHT to CSV in Python., MHT files to CSV Conversion in Python., Leverage intelligent data processing to automatically parse and save MHT into CSV format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Convierta MHT a CSV en la biblioteca de Excel Python" h2="Biblioteca Excel Python de alta velocidad para convertir MHT a CSV. Esta es una solución de software profesional para importar y exportar MHT, CSV y muchos otros formatos utilizando Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="CSV" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -27,7 +27,7 @@ Siga los sencillos pasos para convertir MHT a CSV. Cargue su archivo MHT y luego
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Código de muestra para convertir MHT a CSV a través de la biblioteca de Excel Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="mht" outformat="csv" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="Código de muestra para convertir MHT a CSV a través de la biblioteca de Excel Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="mht" outformat="csv" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="Cómo convertir MHT a CSV a través de Python" %}}
 

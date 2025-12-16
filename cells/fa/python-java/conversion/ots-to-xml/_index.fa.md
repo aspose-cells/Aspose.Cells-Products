@@ -1,7 +1,7 @@
 ---
 title: Python OTS به XML - تبدیل OTS به XML
-description: Aspose اکسل. Python اکسل. تبدیل OTS به XML به سرعت و به راحتی با Aspose.Cells. Python OTS به XML. Python OTS را در XML ذخیره کنید. OTS را به عنوان XML با استفاده از Python Excel Library ذخیره کنید.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert OTS to XML in Python Excel Library., Save OTS to XML using Python Excel Library., Python OTS to XML saveformat., OTS to XML Converter., Python Save OTS as XML]
+description: Aspose اکسل. این راهکار جامع، رویکردی کاملاً یکپارچه برای تبدیل OTS به فرمت XML در اختیار توسعه‌دهندگان Python قرار می‌دهد و امکان ذخیره یکپارچه داده‌های OTS به فرمت XML را با استفاده از کتابخانه Aspose.Cells، از طریق کد کارآمد و قابل تنظیم Python، فراهم می‌کند.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart OTS files to XML Converter for Python., Convert OTS to XML in Python., OTS files to XML Conversion in Python., Leverage intelligent data processing to automatically parse and save OTS into XML format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="OTS را در کتابخانه اکسل Python به XML تبدیل کنید" h2="کتابخانه اکسل پرسرعت Python برای تبدیل OTS به XML. این یک راه حل نرم افزار حرفه ای برای وارد کردن و صادرات OTS، XML، و بسیاری از فرمت های دیگر با استفاده از Python است." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="XML" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -27,7 +27,7 @@ keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert O
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="نمونه کد برای تبدیل OTS به XML از طریق Python Excel Library" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="ots" outformat="xml" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="نمونه کد برای تبدیل OTS به XML از طریق Python Excel Library" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="ots" outformat="xml" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="نحوه تبدیل OTS به XML از طریق Python" %}}
 

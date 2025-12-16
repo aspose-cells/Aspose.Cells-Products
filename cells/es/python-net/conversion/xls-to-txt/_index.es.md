@@ -1,7 +1,7 @@
 ---
 title: Python XLS a TXT - XLS a TXT Convertidor
-description: Aspose Excel. Python Excel. Convierta XLS a TXT rápida y fácilmente con Aspose.Cells. Python XLS a TXT. Python Guarde XLS en TXT. Guarde XLS como 076112 3481 usando la biblioteca Excel Python.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert XLS to TXT in Python Excel Library., Save XLS to TXT using Python Excel Library., Python XLS to TXT saveformat., XLS to TXT Converter., Python Save XLS as TXT]
+description: Aspose Excel. Esta solución integral ofrece a los desarrolladores de Excel Python un enfoque totalmente integrado para convertir el formato XLS al TXT, lo que permite guardar sin problemas los datos de Excel XLS al formato TXT mediante la biblioteca Aspose.Cells, todo mediante código Python eficiente y personalizable.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart XLS files to TXT Converter for Python., Convert XLS to TXT in Python., XLS files to TXT Conversion in Python., Leverage intelligent data processing to automatically parse and save XLS into TXT format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Convierta XLS a TXT en la biblioteca de Excel Python" h2="Biblioteca de Excel Python de alta velocidad para convertir XLS a TXT. Utilice nuestra conversión de Excel API para desarrollar software independiente de plataforma de alto nivel en Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="TXT" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -28,7 +28,7 @@ Siga los sencillos pasos para convertir XLS a TXT. Cargue su archivo XLS y luego
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Código de muestra para convertir XLS a TXT a través de la biblioteca de Excel Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xls" outformat="txt" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Código de muestra para convertir XLS a TXT a través de la biblioteca de Excel Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="xls" outformat="txt" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="Cómo convertir XLS a TXT" %}}
 

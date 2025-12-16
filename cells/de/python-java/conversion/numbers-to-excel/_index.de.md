@@ -1,7 +1,7 @@
 ---
 title: Python NUMBERS zu EXCEL - NUMBERS zu EXCEL Konverter
-description: Aspose Excel. Python Excel. Mit Aspose.Cells können Sie schnell und einfach Zahlen in Excel konvertieren. Python Zahlen in Excel. Python Zahlen in Excel speichern. Zahlen als Excel speichern mit Python Excel-Bibliothek.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert NUMBERS to EXCEL in Python Excel Library., Save NUMBERS to EXCEL using Python Excel Library., Python NUMBERS to EXCEL saveformat., NUMBERS to EXCEL Converter., Python Save NUMBERS as EXCEL]
+description: Aspose Excel. Diese umfassende Lösung bietet Entwicklern einen vollständig integrierten Ansatz zur Konvertierung von NUMBERS in das EXCEL-Format und ermöglicht das nahtlose Speichern von NUMBERS-Daten im EXCEL-Format mithilfe der Bibliothek Aspose.Cells – alles durch effizienten und anpassbaren Code Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart NUMBERS files to EXCEL Converter for Python., Convert NUMBERS to EXCEL in Python., NUMBERS files to EXCEL Conversion in Python., Leverage intelligent data processing to automatically parse and save NUMBERS into EXCEL format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Konvertieren Sie NUMBERS in EXCEL in der Python Excel-Bibliothek" h2="Hochgeschwindigkeits-Excel-Bibliothek Python zum Konvertieren von NUMBERS in EXCEL. Dies ist eine professionelle Softwarelösung zum Importieren und Exportieren von NUMBERS, EXCEL und vielen anderen Formaten mit Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="EXCEL" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -27,7 +27,7 @@ Folgen Sie den einfachen Schritten, um NUMBERS in EXCEL zu konvertieren. Laden S
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Beispielcode zum Konvertieren von NUMBERS in EXCEL über die Excel-Bibliothek Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="numbers" outformat="xlsx" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="Beispielcode zum Konvertieren von NUMBERS in EXCEL über die Excel-Bibliothek Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="numbers" outformat="xlsx" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="So konvertieren Sie NUMBERS in EXCEL über Python" %}}
 

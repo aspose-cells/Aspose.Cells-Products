@@ -1,7 +1,7 @@
 ---
 title: Java XML إلى JPEG - XML إلى JPEG محول
-description: Aspose اكسل. قم بتحويل XML إلى JPEG بسرعة وسهولة باستخدام Aspose.Cells. Java XML إلى JPEG. Java احفظ XML إلى JPEG. احفظ XML كـ JPEG باستخدام Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Convert XML to JPEG in Java., Save XML to JPEG using Java., Java XML to JPEG saveformat., XML to JPEG Converter., Java Save XML as JPEG]
+description: Aspose إكسل. يوفر هذا الحل الشامل للمطورين Java نهجًا متكاملًا تمامًا لتحويل XML إلى تنسيق JPEG، مما يتيح حفظ بيانات XML بسلاسة بتنسيق JPEG باستخدام مكتبة Aspose.Cells، كل ذلك من خلال كود Java فعال وقابل للتخصيص.
+keywords: [Aspose Excel., Java Aspose.Cells., Smart XML files to JPEG Converter for Java., Convert XML to JPEG in Java., XML files to JPEG Conversion in Java., Leverage intelligent data processing to automatically parse and save XML into JPEG format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="تحويل XML إلى JPEG في Java" h2="مكتبة Java عالية السرعة لتحويل XML إلى JPEG. هذا حل برمجي احترافي لاستيراد وتصدير XML وJPEG والعديد من التنسيقات الأخرى باستخدام Java." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="JPEG" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="CSV" >}}
@@ -45,7 +45,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Convert XML to JPEG in Java., Save
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="احفظ XML في JPEG في Java" %}}
+{{% blocks/products/pf/agp/content h2="حفظ ملف XML في JPEG في Java" %}}
 
 يوضح المثال التالي كيفية تحويل XML إلى JPEG في Java.
 {{% blocks/products/pf/agp/text %}}
@@ -56,19 +56,19 @@ keywords: [Aspose Excel., Java Aspose.Cells., Convert XML to JPEG in Java., Save
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="نموذج التعليمات البرمجية لتحويل XML إلى JPEG" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xml" outformat="jpg" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="نموذج كود لتحويل XML إلى JPEG" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="xml" outformat="jpg" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="كيفية تحويل XML إلى JPEG via Java" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
-هل تحتاج إلى تحويل ملفات XML إلى JPEG برمجياً؟ يمكن لمطوري Java تحويل XML بسهولة إلى JPEG في بضعة أسطر من التعليمات البرمجية.
+هل تحتاج إلى تحويل ملفات XML إلى صيغة JPEG برمجيًا؟ يمكن لمطوري Java تحويل XML بسهولة إلى صيغة JPEG في بضعة أسطر من التعليمات البرمجية فقط.
 
 {{% /blocks/products/pf/agp/text %}}
 
-1.  قم بتثبيت "Aspose.Cells for Java".
+1.  قم بتثبيت 'Aspose.Cells for Java'.
 1.  أضف مرجع مكتبة (استيراد المكتبة) إلى مشروعك Java.
-1.  قم بتحميل ملف XML بمثيل لفئة Workbook.
+1.  قم بتحميل ملف XML باستخدام نسخة من فئة Workbook.
 1.  تحويل XML إلى JPEG عن طريق استدعاء طريقة Workbook.save.
 1.  احصل على نتيجة تحويل XML إلى JPEG.
 

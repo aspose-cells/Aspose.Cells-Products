@@ -1,7 +1,7 @@
 ---
 title: Python XLSX به XLT - XLSX به XLT تبدیل
-description: Aspose اکسل. Python اکسل. تبدیل XLSX به XLT به سرعت و به آسانی با Aspose.Cells. Python XLSX. Python Save 076193418 به 076193418 1307 61123481 با استفاده از Python Excel Library.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert XLSX to XLT in Python Excel Library., Save XLSX to XLT using Python Excel Library., Python XLSX to XLT saveformat., XLSX to XLT Converter., Python Save XLSX as XLT]
+description: Aspose اکسل. این راهکار جامع، رویکردی کاملاً یکپارچه برای تبدیل فرمت XLSX به XLT در اختیار توسعه‌دهندگان Python قرار می‌دهد و امکان ذخیره یکپارچه داده‌های XLSX به فرمت XLT را با استفاده از کتابخانه Aspose.Cells، از طریق کد کارآمد و قابل تنظیم Python، فراهم می‌کند.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart XLSX files to XLT Converter for Python., Convert XLSX to XLT in Python., XLSX files to XLT Conversion in Python., Leverage intelligent data processing to automatically parse and save XLSX into XLT format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="تبدیل XLSX به XLT در Python Excel Library" h2="کتابخانه اکسل پرسرعت Python برای تبدیل XLSX به XLT. از تبدیل اکسل ما API برای توسعه نرم افزار سطح بالا و مستقل از پلت فرم در Python استفاده کنید." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLT" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -28,7 +28,7 @@ keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert X
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="نمونه کد برای تبدیل XLSX به XLT از طریق Python Excel Library" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsx" outformat="xlt" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="نمونه کد برای تبدیل XLSX به XLT از طریق Python Excel Library" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="xlsx" outformat="xlt" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="نحوه تبدیل XLSX به XLT" %}}
 

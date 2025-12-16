@@ -1,7 +1,7 @@
 ---
 title: Python TABDELIMITED إلى IMAGE - TABDELIMITED إلى IMAGE Converter
-description: Aspose اكسل. Python اكسل. قم بتحويل TABDELIMITED إلى IMAGE بسرعة وسهولة باستخدام Aspose.Cells. Python TABDELIMITED إلى IMAGE. Python احفظ TABDELIMITED في IMAGE. احفظ TABDELIMITED كصورة باستخدام مكتبة Excel Python.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert TABDELIMITED to IMAGE in Python Excel Library., Save TABDELIMITED to IMAGE using Python Excel Library., Python TABDELIMITED to IMAGE saveformat., TABDELIMITED to IMAGE Converter., Python Save TABDELIMITED as IMAGE]
+description: Aspose Excel. يوفر هذا الحل الشامل للمطورين Python نهجًا متكاملًا تمامًا لتحويل تنسيق TABDELIMITED إلى تنسيق IMAGE، مما يتيح حفظ بيانات TABDELIMITED بسلاسة في تنسيق IMAGE باستخدام مكتبة Aspose.Cells، كل ذلك من خلال كود Python فعال وقابل للتخصيص.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart TABDELIMITED files to IMAGE Converter for Python., Convert TABDELIMITED to IMAGE in Python., TABDELIMITED files to IMAGE Conversion in Python., Leverage intelligent data processing to automatically parse and save TABDELIMITED into IMAGE format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="تحويل TABDELIMITED إلى IMAGE في مكتبة Excel Python" h2="مكتبة إكسل Python عالية السرعة لتحويل TABDELIMITED إلى IMAGE. استخدم تحويل Excel API لتطوير برامج مستقلة عالية المستوى للنظام الأساسي في Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="IMAGE" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -28,7 +28,7 @@ keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert T
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="نموذج التعليمات البرمجية لتحويل TABDELIMITED إلى IMAGE عبر مكتبة Excel Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="tsv" outformat="png" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="نموذج التعليمات البرمجية لتحويل TABDELIMITED إلى IMAGE عبر مكتبة Excel Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="tsv" outformat="png" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="كيفية تحويل TABDELIMITED إلى IMAGE" %}}
 

@@ -1,7 +1,7 @@
 ---
 title: Python CSV až PPTX - CSV až PPTX Převodník
-description: Aspose Excel. Python Excel. Převeďte CSV na PPTX rychle a snadno pomocí Aspose.Cells. Python CSV na PPTX. Python Uložte CSV na 1034761 101 0761 23481 pomocí knihovny Excel Python.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert CSV to PPTX in Python Excel Library., Save CSV to PPTX using Python Excel Library., Python CSV to PPTX saveformat., CSV to PPTX Converter., Python Save CSV as PPTX]
+description: Aspose Excel. Toto komplexní řešení poskytuje vývojářům Python plně integrovaný přístup k převodu formátu CSV do formátu PPTX, což umožňuje bezproblémové ukládání dat CSV do formátu PPTX pomocí knihovny Aspose.Cells, a to vše prostřednictvím efektivního a přizpůsobitelného kódu Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart CSV files to PPTX Converter for Python., Convert CSV to PPTX in Python., CSV files to PPTX Conversion in Python., Leverage intelligent data processing to automatically parse and save CSV into PPTX format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Převeďte CSV na PPTX v knihovně Excel Python" h2="Vysokorychlostní knihovna excel Python pro převod CSV na PPTX. Jedná se o profesionální softwarové řešení pro import a export CSV, PPTX a mnoha dalších formátů pomocí Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="PPTX" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -27,7 +27,7 @@ Postupujte podle jednoduchých kroků pro převod CSV na PPTX. Nahrajte svůj so
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Ukázkový kód pro převod CSV na PPTX prostřednictvím knihovny Excel Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="csv" outformat="pptx" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="Ukázkový kód pro převod CSV na PPTX prostřednictvím knihovny Excel Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="csv" outformat="pptx" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="Jak převést CSV na PPTX přes Python" %}}
 
@@ -84,8 +84,8 @@ Aspose.Cells for Python via Java je nezávislý na platformě API a lze jej pou�
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/csv-to-bmp/" name="CSV DO BMP" description="Bitmapový obrázek" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/csv-to-emf/" name="CSV DO EMF" description="Vylepšený formát metasouborů" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/csv-to-gif/" name="CSV DO GIF" description="Grafický výměnný formát" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/csv-to-html/" name="CSV DO HTML" description="Hyper Text Markup Language" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/csv-to-md/" name="CSV MD" description="Markdown Language" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/csv-to-html/" name="CSV DO HTML" description="Hypertextový značkovací jazyk" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/csv-to-md/" name="CSV MD" description="Jazyk Markdown" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/csv-to-mhtml/" name="CSV DO MHTML" description="Formát archivu webové stránky" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/csv-to-ods/" name="CSV DO ODS" description="Soubor tabulkového procesoru OpenDocument" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/csv-to-pdf/" name="CSV DO PDF" description="Přenosný formát dokumentu" >}}

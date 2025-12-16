@@ -1,7 +1,7 @@
 ---
 title: تحويل Python PRN إلى EMF - تحويل PRN إلى EMF
-description: Aspose اكسل. Python اكسل. قم بتحويل PRN إلى EMF بسرعة وسهولة باستخدام Aspose.Cells. Python PRN إلى EMF. Python احفظ PRN إلى EMF. احفظ PRN كـ EMF باستخدام مكتبة Excel Python.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert PRN to EMF in Python Excel Library., Save PRN to EMF using Python Excel Library., Python PRN to EMF saveformat., PRN to EMF Converter., Python Save PRN as EMF]
+description: Aspose Excel. يوفر هذا الحل الشامل للمطورين Python نهجًا متكاملًا تمامًا لتحويل PRN إلى تنسيق EMF، مما يتيح حفظ بيانات PRN بسلاسة بتنسيق EMF باستخدام مكتبة Aspose.Cells، كل ذلك من خلال كود Python فعال وقابل للتخصيص.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart PRN files to EMF Converter for Python., Convert PRN to EMF in Python., PRN files to EMF Conversion in Python., Leverage intelligent data processing to automatically parse and save PRN into EMF format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="تحويل PRN إلى EMF في مكتبة Excel Python" h2="مكتبة Excel Python عالية السرعة لتحويل PRN إلى EMF. استخدم تحويل Excel API لتطوير برامج مستقلة عالية المستوى عن النظام الأساسي في Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="EMF" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -28,7 +28,7 @@ keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert P
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="نموذج التعليمات البرمجية لتحويل PRN إلى EMF عبر مكتبة Excel Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="prn" outformat="emf" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="نموذج التعليمات البرمجية لتحويل PRN إلى EMF عبر مكتبة Excel Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="prn" outformat="emf" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="كيفية تحويل PRN إلى EMF" %}}
 

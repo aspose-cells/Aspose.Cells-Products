@@ -1,7 +1,7 @@
 ---
 title: Python XLSB a TSV - XLSB a TSV Convertidor
-description: Aspose Excel. Python Excel. Convierta XLSB a TSV rápida y fácilmente con Aspose.Cells. Python XLSB a TSV. Python Guarde XLSB en TSV. Guarde XLSB como 076112 3481 usando la biblioteca Excel Python.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert XLSB to TSV in Python Excel Library., Save XLSB to TSV using Python Excel Library., Python XLSB to TSV saveformat., XLSB to TSV Converter., Python Save XLSB as TSV]
+description: Aspose Excel. Esta solución integral ofrece a los desarrolladores de Excel Python un enfoque totalmente integrado para convertir el formato XLSB al TSV, lo que permite guardar sin problemas los datos de Excel XLSB al formato TSV mediante la biblioteca Aspose.Cells, todo mediante código Python eficiente y personalizable.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart XLSB files to TSV Converter for Python., Convert XLSB to TSV in Python., XLSB files to TSV Conversion in Python., Leverage intelligent data processing to automatically parse and save XLSB into TSV format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Convierta XLSB a TSV en la biblioteca de Excel Python" h2="Biblioteca de Excel Python de alta velocidad para convertir XLSB a TSV. Utilice nuestra conversión de Excel API para desarrollar software independiente de plataforma de alto nivel en Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="TSV" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -28,7 +28,7 @@ Siga los sencillos pasos para convertir XLSB a TSV. Cargue su archivo XLSB y lue
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Código de muestra para convertir XLSB a TSV a través de la biblioteca de Excel Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsb" outformat="tsv" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Código de muestra para convertir XLSB a TSV a través de la biblioteca de Excel Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="xlsb" outformat="tsv" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="Cómo convertir XLSB a TSV" %}}
 

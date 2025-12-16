@@ -1,7 +1,7 @@
 ---
 title: Python EXCEL zu ET - EXCEL zu ET Konverter
-description: Aspose Excel. Python Excel. Konvertieren Sie EXCEL schnell und einfach in ET mit Aspose.Cells. Python EXCEL in ET. Python Speichern Sie EXCEL in ET. Speichern Sie EXCEL als ET mit Python Excel-Bibliothek.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert EXCEL to ET in Python Excel Library., Save EXCEL to ET using Python Excel Library., Python EXCEL to ET saveformat., EXCEL to ET Converter., Python Save EXCEL as ET]
+description: Aspose Excel. Diese umfassende Lösung bietet Entwicklern einen vollständig integrierten Ansatz zur Konvertierung von EXCEL in das ET-Format und ermöglicht das nahtlose Speichern von EXCEL-Daten im ET-Format mithilfe der Bibliothek Aspose.Cells, alles durch effizienten und anpassbaren Code Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart EXCEL files to ET Converter for Python., Convert EXCEL to ET in Python., EXCEL files to ET Conversion in Python., Leverage intelligent data processing to automatically parse and save EXCEL into ET format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Konvertieren Sie EXCEL in ET in der Excel-Bibliothek Python" h2="Hochgeschwindigkeits-Excel-Bibliothek Python zur Konvertierung von EXCEL in ET. Verwenden Sie unsere Excel-Konvertierung API, um hochrangige, plattformunabhängige Software in Python zu entwickeln." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="ET" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -28,7 +28,7 @@ Befolgen Sie die einfachen Schritte zum Konvertieren von EXCEL in ET. Laden Sie 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Beispielcode zur Konvertierung von EXCEL in ET über die Excel-Bibliothek Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsx" outformat="et" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Beispielcode zur Konvertierung von EXCEL in ET über die Excel-Bibliothek Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="xlsx" outformat="et" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="So konvertieren Sie EXCEL in ET" %}}
 

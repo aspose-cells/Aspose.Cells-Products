@@ -1,7 +1,7 @@
 ---
 title: Vytvořit FODS - Vytvořit soubor FODS v Python
-description: Aspose Excel. Python Excel. Python Vytvořte FODS Soubor rychle a snadno pomocí Aspose.Cells. Vygenerujte soubor FODS pomocí knihovny Excel Python. Vytvořte FODS v knihovně Excel Python. Python FODS Tvůrce.
-keywords: [Aspose Python Excel., Python Aspose.Cells., Python Create FODS file., Generate FODS file in Python Excel Library., Create FODS file using Python Excel Library., Write data to FODS file via Python Excel Library., Create a FODS file in Python Excel Library., Python Generate a FODS file., Python FODS Creater]
+description: Aspose Excel. Snadno generujte a manipulujte se soubory FODS pomocí knihovny Aspose.Cells for Python via Java. Tato výkonná knihovna API poskytuje zjednodušené a efektivní řešení pro vytváření, úpravu a správu souborů FODS přímo ve vašich aplikacích Python a splňuje specifické potřeby vývojářů s vysokou přesností.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Create FODS file., Generate FODS file in Python., Write data to FODS file via Python., Python FODS Creater., Aspose.Cells for Python via Java is a powerful library that enables developers to programmatically create, generate, and manipulate FODS files in Python]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Vytvořte soubor FODS v knihovně Excel Python" h2="Vysokorychlostní knihovna Python Excel pro vytváření souboru FODS. Toto je profesionální softwarové řešení pro import a export XLSX, PDF a mnoha dalších formátů pomocí Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="FODS" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -108,7 +108,7 @@ Aspose.Cells for Python via Java je nezávislý na platformě API a lze jej pou�
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/create/tsv/" name="TSV" description="Hodnoty oddělené záložkou" >}} 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/create/ods/" name="ODS" description="Tabulka OpenDocument" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/create/pdf/" name="PDF" description="Přenosný formát dokumentu" >}} 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/create/html/" name="HTML" description="Hyper Text Markup Language" >}} 
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/create/html/" name="HTML" description="Hypertextový značkovací jazyk" >}} 
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

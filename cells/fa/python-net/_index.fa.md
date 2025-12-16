@@ -1,11 +1,11 @@
 ---
-title:  Python صفحه گسترده اکسل API - Aspose
+title: صفحه گسترده اکسل ۰۷۶۱۰۳۴۸۱ - ۰۷۶۱۲۳۴۸۱ ۰۷۶۱۳۳۴۸۱ ۰۷۶۱۴۳۴۸۱
 weight: 2800
-description: کتابخانه Python برای ایجاد، تعمیر، ادغام، تجزیه و تبدیل فایل های اکسل. اکسل را به PDF، JSON، HTML، TXT و سایر فرمت های محبوب تبدیل کنید.
-keywords: [Python Aspose.Cells Create repair merge convert JSON Excel XML PDF HTML TSV SQL ODS CSV TSV PNG JPEG and more formats]
+description: کتابخانه Aspose.Cells for Python via .NET برای ایجاد، تعمیر، ادغام، تجزیه و تبدیل فایل‌های اکسل. این کتابخانه قدرتمند API یک راه‌حل ساده و کارآمد برای ایجاد، تعمیر، ادغام، تجزیه و تبدیل فایل‌های اکسل ارائه می‌دهد و نیازهای خاص توسعه‌دهندگان را با دقت بالا برآورده می‌کند.
+keywords: [Aspose.Cells for Python via .NET Create repair merge convert JSON Excel XML PDF HTML TSV SQL ODS CSV TSV PNG JPEG and more formats]
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="Python Excel Spreadsheets Parsing APIs" h2="صفحات گسترده تولید، خواندن، نوشتن یا دستکاری و همچنین صادرات فایل های اکسل به فرمت های مختلف در برنامه های Python." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/cells/headers/aspose_cells-for-python-via-net.svg" pfName="Aspose.Cells" subTitlepfName="for Python via .NET" downloadUrl="https://releases.aspose.com/cells/python-net/" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="Python صفحات گسترده اکسل تجزیه API ها" h2="صفحات گسترده تولید، خواندن، نوشتن یا دستکاری و همچنین صادرات فایل های اکسل به فرمت های مختلف در برنامه های Python." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/cells/headers/aspose_cells-for-python-via-net.svg" pfName="Aspose.Cells" subTitlepfName="for Python via .NET" downloadUrl="https://releases.aspose.com/cells/python-net/" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells" subTitlepfName="for Python via .NET" >}}
 

@@ -1,7 +1,7 @@
 ---
 title: Python HTML به ET - HTML به ET تبدیل
-description: Aspose اکسل. Python اکسل. HTML را سریع و آسان با Aspose.Cells به ET تبدیل کنید. Python HTML به ET. Python HTML را در ET ذخیره کنید. HTML را به عنوان ET با استفاده از Python Excel Library ذخیره کنید.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert HTML to ET in Python Excel Library., Save HTML to ET using Python Excel Library., Python HTML to ET saveformat., HTML to ET Converter., Python Save HTML as ET]
+description: Aspose اکسل. این راهکار جامع، رویکردی کاملاً یکپارچه برای تبدیل فرمت HTML به فرمت ET در اختیار توسعه‌دهندگان Python قرار می‌دهد و امکان ذخیره یکپارچه داده‌های HTML به فرمت ET را با استفاده از کتابخانه Aspose.Cells، از طریق کد کارآمد و قابل تنظیم Python، فراهم می‌کند.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart HTML files to ET Converter for Python., Convert HTML to ET in Python., HTML files to ET Conversion in Python., Leverage intelligent data processing to automatically parse and save HTML into ET format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="تبدیل HTML به ET در Python Excel Library" h2="کتابخانه اکسل پرسرعت Python برای تبدیل HTML به ET. این یک راه حل نرم افزاری حرفه ای برای وارد کردن و صادرات HTML، ET و بسیاری از فرمت های دیگر با استفاده از Python است." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="ET" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -27,7 +27,7 @@ keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert H
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="کد نمونه برای تبدیل HTML به ET از طریق Python Excel Library" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="html" outformat="et" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="کد نمونه برای تبدیل HTML به ET از طریق Python Excel Library" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="html" outformat="et" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="نحوه تبدیل HTML به ET از طریق Python" %}}
 

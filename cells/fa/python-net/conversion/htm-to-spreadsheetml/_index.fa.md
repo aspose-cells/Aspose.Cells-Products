@@ -1,7 +1,7 @@
 ---
 title: Python HTM به SPREADSHEETML - تبدیل HTM به SPREADSHEETML
-description: Aspose اکسل. Python اکسل. تبدیل HTM به SPREADSHEETML به سرعت و به راحتی با Aspose.Cells. Python HTM به SPREADSHEETML. Python HTM را در SPREADSHEETML ذخیره کنید. HTM را به عنوان SPREADSHEETML با استفاده از Python Excel Library ذخیره کنید.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert HTM to SPREADSHEETML in Python Excel Library., Save HTM to SPREADSHEETML using Python Excel Library., Python HTM to SPREADSHEETML saveformat., HTM to SPREADSHEETML Converter., Python Save HTM as SPREADSHEETML]
+description: Aspose اکسل. این راهکار جامع، رویکردی کاملاً یکپارچه برای تبدیل فرمت HTM به SPREADSHEETML در اختیار توسعه‌دهندگان Python قرار می‌دهد و امکان ذخیره یکپارچه داده‌های HTM در فرمت SPREADSHEETML را با استفاده از کتابخانه Aspose.Cells، از طریق کد کارآمد و قابل تنظیم Python، فراهم می‌کند.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart HTM files to SPREADSHEETML Converter for Python., Convert HTM to SPREADSHEETML in Python., HTM files to SPREADSHEETML Conversion in Python., Leverage intelligent data processing to automatically parse and save HTM into SPREADSHEETML format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="HTM را در کتابخانه اکسل Python به SPREADSHEETML تبدیل کنید" h2="کتابخانه اکسل پرسرعت Python برای تبدیل HTM به SPREADSHEETML. از تبدیل اکسل API ما برای توسعه نرم افزار سطح بالا و مستقل از پلت فرم در Python استفاده کنید." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="SPREADSHEETML" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -28,7 +28,7 @@ keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert H
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="نمونه کد برای تبدیل HTM به SPREADSHEETML از طریق Python Excel Library" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="htm" outformat="xml" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="نمونه کد برای تبدیل HTM به SPREADSHEETML از طریق Python Excel Library" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="htm" outformat="xml" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="چگونه HTM را به SPREADSHEETML تبدیل کنیم" %}}
 

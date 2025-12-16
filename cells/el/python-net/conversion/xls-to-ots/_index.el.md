@@ -1,7 +1,7 @@
 ---
 title: Python XLS σε OTS - XLS σε OTS Μετατροπέας
-description: Aspose Excel. Python Excel. Μετατρέψτε το XLS σε OTS γρήγορα και εύκολα με το Aspose.Cells. Python XLS σε OTS. Python Αποθήκευση XLS στο OTS. Αποθηκεύστε το XLS ως OTS χρησιμοποιώντας το Python Excel Library.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert XLS to OTS in Python Excel Library., Save XLS to OTS using Python Excel Library., Python XLS to OTS saveformat., XLS to OTS Converter., Python Save XLS as OTS]
+description: Aspose Excel. Αυτή η ολοκληρωμένη λύση παρέχει στους προγραμματιστές Python μια πλήρως ενσωματωμένη προσέγγιση για τη μετατροπή του XLS σε μορφή OTS, επιτρέποντας την απρόσκοπτη αποθήκευση δεδομένων XLS σε μορφή OTS χρησιμοποιώντας τη βιβλιοθήκη Aspose.Cells, μέσω αποτελεσματικού και προσαρμόσιμου κώδικα Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart XLS files to OTS Converter for Python., Convert XLS to OTS in Python., XLS files to OTS Conversion in Python., Leverage intelligent data processing to automatically parse and save XLS into OTS format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Μετατροπή XLS σε OTS στο Python Excel Library" h2="Βιβλιοθήκη excel υψηλής ταχύτητας Python για μετατροπή XLS σε OTS. Χρησιμοποιήστε τη μετατροπή excel API για να αναπτύξετε λογισμικό υψηλού επιπέδου, ανεξάρτητο από πλατφόρμα στο Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="OTS" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -28,7 +28,7 @@ keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert X
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Δείγμα κώδικα για μετατροπή XLS σε OTS μέσω Python Excel Library" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xls" outformat="ots" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Δείγμα κώδικα για μετατροπή XLS σε OTS μέσω Python Excel Library" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="xls" outformat="ots" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="Πώς να μετατρέψετε το XLS σε OTS" %}}
 

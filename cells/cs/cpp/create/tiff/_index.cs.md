@@ -1,7 +1,7 @@
 ---
 title: Vytvořit TIFF - Vytvořit soubor TIFF v C++
-description:  Aspose Excel. C++ Vytvořte TIFF Soubor rychle a snadno pomocí Aspose.Cells. Vygenerujte soubor TIFF pomocí C++. Vytvořte TIFF v C++. 0761831981 0761831983
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ Create TIFF file., Generate TIFF file in C++., Create TIFF file using C++., Write data to TIFF file via C++., Create a TIFF file in C++., C++ Generate a TIFF file., C++ TIFF Creater]
+description: Aspose Excel. Snadno generujte a manipulujte se soubory TIFF pomocí knihovny Aspose.Cells for C++. Tato výkonná knihovna API poskytuje efektivní řešení pro vytváření, úpravu a správu souborů TIFF přímo ve vašich aplikacích C++ a splňuje specifické potřeby vývojářů s vysokou přesností.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ Create TIFF file., Generate TIFF file in C++., Write data to TIFF file via C++., C++ TIFF Creater., Aspose.Cells for C++ is a powerful library that enables developers to programmatically create, generate, and manipulate TIFF files in C++]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Vytvořte soubor TIFF v C++" h2="Nativní a vysoce výkonné vytváření souborů TIFF programově bez aplikace Microsoft Office pomocí knihovny C++." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" sourceAdditionalConversionTag="" additionalConversionTag="TIFF" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -45,6 +45,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 ```cs
 Aspose::Cells::Startup();
+//TIFF format is not supported
 
 // Create an object of the Workbook class.
 Workbook wkb;
@@ -69,6 +70,7 @@ cell00.PutValue(u"ColumnA");
 cell01.PutValue(u"ColumnB");
 cell10.PutValue(u"ValueA");
 cell11.PutValue(u"ValueB");
+
 
 // Save workbook to resultFile folder
 wkb.Save(u"created_one.tiff");
@@ -126,7 +128,7 @@ Existují tři možnosti instalace „Aspose.Cells for C++“ do vašeho systém
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/create/tsv/" name="TSV" description="Hodnoty oddělené záložkou" >}} 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/create/ods/" name="ODS" description="Tabulka OpenDocument" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/create/pdf/" name="PDF" description="Přenosný formát dokumentu" >}} 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/create/html/" name="HTML" description="Hyper Text Markup Language" >}} 
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/create/html/" name="HTML" description="Hypertextový značkovací jazyk" >}} 
 
 
 {{< /blocks/products/pf/agp/other-supported-section >}}

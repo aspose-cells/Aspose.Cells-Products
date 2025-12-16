@@ -1,7 +1,7 @@
 ---
 title: Python MHT به OTS - تبدیل MHT به OTS
-description: Aspose اکسل. Python اکسل. تبدیل MHT به OTS سریع و آسان با Aspose.Cells. Python MHT به OTS. Python MHT را در OTS ذخیره کنید. ذخیره MHT به عنوان OTS با استفاده از Python Excel Library.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert MHT to OTS in Python Excel Library., Save MHT to OTS using Python Excel Library., Python MHT to OTS saveformat., MHT to OTS Converter., Python Save MHT as OTS]
+description: Aspose اکسل. این راهکار جامع، رویکردی کاملاً یکپارچه برای تبدیل فرمت MHT به OTS در اختیار توسعه‌دهندگان Python قرار می‌دهد و امکان ذخیره یکپارچه داده‌های MHT به فرمت OTS را با استفاده از کتابخانه Aspose.Cells، از طریق کد کارآمد و قابل تنظیم Python، فراهم می‌کند.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart MHT files to OTS Converter for Python., Convert MHT to OTS in Python., MHT files to OTS Conversion in Python., Leverage intelligent data processing to automatically parse and save MHT into OTS format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="MHT را در کتابخانه اکسل Python به OTS تبدیل کنید" h2="کتابخانه اکسل پرسرعت Python برای تبدیل MHT به OTS. این یک راه حل نرم افزاری حرفه ای برای واردات و صادرات MHT، OTS و بسیاری از فرمت های دیگر با استفاده از Python است." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="OTS" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -27,7 +27,7 @@ keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert M
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="کد نمونه برای تبدیل MHT به OTS از طریق Python Excel Library" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="mht" outformat="ots" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="کد نمونه برای تبدیل MHT به OTS از طریق Python Excel Library" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="mht" outformat="ots" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="نحوه تبدیل MHT به OTS از طریق Python" %}}
 

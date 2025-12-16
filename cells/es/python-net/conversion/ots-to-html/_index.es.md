@@ -1,7 +1,7 @@
 ---
 title: Python OTS a HTML - Convertidor OTS a HTML
-description: Aspose Excel. Python Excel. Convierta OTS a HTML rápida y fácilmente con Aspose.Cells. Python OTS a HTML. Python Guarde OTS en HTML. Guarde OTS como HTML usando Python Biblioteca de Excel.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert OTS to HTML in Python Excel Library., Save OTS to HTML using Python Excel Library., Python OTS to HTML saveformat., OTS to HTML Converter., Python Save OTS as HTML]
+description: Aspose Excel. Esta solución integral proporciona a los desarrolladores de Python un enfoque totalmente integrado para convertir OTS al formato HTML, lo que permite guardar sin problemas los datos OTS en formato HTML mediante la biblioteca Aspose.Cells, todo mediante código Python eficiente y personalizable.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart OTS files to HTML Converter for Python., Convert OTS to HTML in Python., OTS files to HTML Conversion in Python., Leverage intelligent data processing to automatically parse and save OTS into HTML format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Convierta OTS a HTML en la biblioteca de Excel Python" h2="Biblioteca de Excel Python de alta velocidad para convertir OTS a HTML. Utilice nuestra conversión de Excel API para desarrollar software independiente de plataforma de alto nivel en Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="HTML" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -28,7 +28,7 @@ Siga los sencillos pasos para convertir OTS a HTML. Cargue su archivo OTS y lueg
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Código de muestra para convertir OTS a HTML a través de la biblioteca de Excel Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="ots" outformat="html" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Código de muestra para convertir OTS a HTML a través de la biblioteca de Excel Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="ots" outformat="html" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="Cómo convertir OTS a HTML" %}}
 

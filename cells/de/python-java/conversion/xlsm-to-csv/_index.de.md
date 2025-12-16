@@ -1,7 +1,7 @@
 ---
 title: Python XLSM bis CSV - XLSM bis CSV Konverter
-description: Aspose Excel. Python Excel. Konvertieren Sie XLSM schnell und einfach in CSV mit Aspose.Cells. Python XLSM in CSV. Python Speichern Sie XLSM in CSV. Speichern Sie XLSM als CSV mit der Python Excel-Bibliothek.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert XLSM to CSV in Python Excel Library., Save XLSM to CSV using Python Excel Library., Python XLSM to CSV saveformat., XLSM to CSV Converter., Python Save XLSM as CSV]
+description: Aspose Excel. Diese umfassende Lösung bietet Entwicklern einen vollständig integrierten Ansatz zur Konvertierung von XLSM in das Format CSV und ermöglicht das nahtlose Speichern von XLSM-Daten im Format CSV mithilfe der Aspose.Cells-Bibliothek – alles durch effizienten und anpassbaren Python-Code.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart XLSM files to CSV Converter for Python., Convert XLSM to CSV in Python., XLSM files to CSV Conversion in Python., Leverage intelligent data processing to automatically parse and save XLSM into CSV format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Konvertieren Sie XLSM in CSV in der Excel-Bibliothek Python" h2="Hochgeschwindigkeits-Excel-Bibliothek Python zum Konvertieren von XLSM in CSV. Dies ist eine professionelle Softwarelösung zum Importieren und Exportieren von XLSM, CSV und vielen anderen Formaten mit Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="CSV" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -27,7 +27,7 @@ Befolgen Sie die einfachen Schritte, um XLSM in CSV zu konvertieren. Laden Sie I
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Beispielcode zur Konvertierung von XLSM in CSV über die Excel-Bibliothek Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsm" outformat="csv" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="Beispielcode zur Konvertierung von XLSM in CSV über die Excel-Bibliothek Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="xlsm" outformat="csv" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="So konvertieren Sie XLSM über Python in CSV" %}}
 

@@ -1,7 +1,7 @@
 ---
 title: Python TXT zu TABDELIMITED - TXT zu TABDELIMITED Konverter
-description: Aspose Excel. Python Excel. Konvertieren Sie TXT schnell und einfach in TABDELIMITED mit Aspose.Cells. Python TXT in TABDELIMITED. Python Speichern Sie TXT in TABDELIMITED. Speichern Sie TXT als TABDELIMITED mit Python Excel-Bibliothek.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert TXT to TABDELIMITED in Python Excel Library., Save TXT to TABDELIMITED using Python Excel Library., Python TXT to TABDELIMITED saveformat., TXT to TABDELIMITED Converter., Python Save TXT as TABDELIMITED]
+description: Aspose Excel. Diese umfassende Lösung bietet Entwicklern einen vollständig integrierten Ansatz zur Konvertierung von TXT in das TABDELIMITED-Format und ermöglicht das nahtlose Speichern von TXT-Daten im TABDELIMITED-Format mithilfe der Aspose.Cells-Bibliothek, alles durch effizienten und anpassbaren Python-Code.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart TXT files to TABDELIMITED Converter for Python., Convert TXT to TABDELIMITED in Python., TXT files to TABDELIMITED Conversion in Python., Leverage intelligent data processing to automatically parse and save TXT into TABDELIMITED format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Konvertieren Sie TXT in TABDELIMITED in der Excel-Bibliothek Python" h2="Hochgeschwindigkeits-Excel-Bibliothek Python zur Konvertierung von TXT in TABDELIMITED. Verwenden Sie unsere Excel-Konvertierung API, um hochrangige, plattformunabhängige Software in Python zu entwickeln." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="TABDELIMITED" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -28,7 +28,7 @@ Befolgen Sie die einfachen Schritte, um TXT in TABDELIMITED zu konvertieren. Lad
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Beispielcode zur Konvertierung von TXT in TABDELIMITED über die Excel-Bibliothek Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="txt" outformat="tsv" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Beispielcode zur Konvertierung von TXT in TABDELIMITED über die Excel-Bibliothek Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="txt" outformat="tsv" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="So konvertieren Sie TXT in TABDELIMITED" %}}
 

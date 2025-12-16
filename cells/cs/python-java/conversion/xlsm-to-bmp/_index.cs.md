@@ -1,7 +1,7 @@
 ---
 title: Python XLSM až BMP - XLSM až BMP Převodník
-description: Aspose Excel. Python Excel. Převeďte XLSM na BMP rychle a snadno pomocí Aspose.Cells. Python XLSM na BMP. Python Uložte XLSM na 1034761 101 0761 23481 pomocí knihovny Excel Python.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert XLSM to BMP in Python Excel Library., Save XLSM to BMP using Python Excel Library., Python XLSM to BMP saveformat., XLSM to BMP Converter., Python Save XLSM as BMP]
+description: Aspose Excel. Toto komplexní řešení poskytuje vývojářům Python plně integrovaný přístup k převodu formátu XLSM do formátu BMP, což umožňuje bezproblémové ukládání dat XLSM do formátu BMP pomocí knihovny Aspose.Cells, a to vše prostřednictvím efektivního a přizpůsobitelného kódu Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart XLSM files to BMP Converter for Python., Convert XLSM to BMP in Python., XLSM files to BMP Conversion in Python., Leverage intelligent data processing to automatically parse and save XLSM into BMP format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Převeďte XLSM na BMP v knihovně Excel Python" h2="Vysokorychlostní knihovna excel Python pro převod XLSM na BMP. Jedná se o profesionální softwarové řešení pro import a export XLSM, BMP a mnoha dalších formátů pomocí Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="BMP" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -27,7 +27,7 @@ Postupujte podle jednoduchých kroků pro převod XLSM na BMP. Nahrajte svůj so
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Ukázkový kód pro převod XLSM na BMP prostřednictvím knihovny Excel Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsm" outformat="bmp" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="Ukázkový kód pro převod XLSM na BMP prostřednictvím knihovny Excel Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="xlsm" outformat="bmp" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="Jak převést XLSM na BMP přes Python" %}}
 
@@ -84,8 +84,8 @@ Aspose.Cells for Python via Java je nezávislý na platformě API a lze jej pou�
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xlsm-to-bmp/" name="XLSM DO BMP" description="Bitmapový obrázek" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xlsm-to-emf/" name="XLSM DO EMF" description="Vylepšený formát metasouborů" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xlsm-to-gif/" name="XLSM DO GIF" description="Grafický výměnný formát" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xlsm-to-html/" name="XLSM DO HTML" description="Hyper Text Markup Language" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xlsm-to-md/" name="XLSM MD" description="Markdown Language" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xlsm-to-html/" name="XLSM DO HTML" description="Hypertextový značkovací jazyk" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xlsm-to-md/" name="XLSM MD" description="Jazyk Markdown" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xlsm-to-mhtml/" name="XLSM DO MHTML" description="Formát archivu webové stránky" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xlsm-to-ods/" name="XLSM DO ODS" description="Soubor tabulkového procesoru OpenDocument" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xlsm-to-pdf/" name="XLSM DO PDF" description="Přenosný formát dokumentu" >}}

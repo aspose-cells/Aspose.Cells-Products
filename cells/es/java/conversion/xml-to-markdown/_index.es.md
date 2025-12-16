@@ -1,7 +1,7 @@
 ---
 title: Java XML a MARKDOWN - Convertidor de XML a MARKDOWN
-description: Aspose Excel. Convierta XML a MARKDOWN rápida y fácilmente con Aspose.Cells. Java XML a MARKDOWN. Java Guarde XML en MARKDOWN. Guarde XML como MARKDOWN usando Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Convert XML to MARKDOWN in Java., Save XML to MARKDOWN using Java., Java XML to MARKDOWN saveformat., XML to MARKDOWN Converter., Java Save XML as MARKDOWN]
+description: Aspose Excel. Esta solución integral proporciona a los desarrolladores de Java un enfoque totalmente integrado para convertir XML al formato MARKDOWN, lo que permite guardar datos XML sin problemas en formato MARKDOWN mediante la biblioteca Aspose.Cells, todo mediante código Java eficiente y personalizable.
+keywords: [Aspose Excel., Java Aspose.Cells., Smart XML files to MARKDOWN Converter for Java., Convert XML to MARKDOWN in Java., XML files to MARKDOWN Conversion in Java., Leverage intelligent data processing to automatically parse and save XML into MARKDOWN format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Convertir XML a MARKDOWN en Java" h2="Biblioteca Java de alta velocidad para convertir XML a MARKDOWN. Esta es una solución de software profesional para importar y exportar XML, MARKDOWN y muchos otros formatos utilizando Java." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="MARKDOWN" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="CSV" >}}
@@ -45,7 +45,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Convert XML to MARKDOWN in Java., 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Guarde XML en MARKDOWN en Java" %}}
+{{% blocks/products/pf/agp/content h2="Guardar XML en MARKDOWN en Java" %}}
 
 El siguiente ejemplo demuestra cómo convertir XML a MARKDOWN en Java.
 {{% blocks/products/pf/agp/text %}}
@@ -56,25 +56,25 @@ Siga los sencillos pasos para convertir XML a MARKDOWN. Cargue su archivo XML y 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Código de muestra para convertir XML a MARKDOWN" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xml" outformat="md" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Código de ejemplo para convertir XML a MARKDOWN" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="xml" outformat="md" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="Cómo convertir XML a MARKDOWN via Java" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
-¿Necesita convertir archivos XML a MARKDOWN mediante programación? Los desarrolladores de Java pueden convertir fácilmente XML a MARKDOWN en tan solo unas pocas líneas de código.
+¿Necesita convertir archivos XML a MARKDOWN mediante programación? Los desarrolladores de Java pueden convertir fácilmente XML a MARKDOWN con solo unas pocas líneas de código.
 
 {{% /blocks/products/pf/agp/text %}}
 
-1.  Instale 'Aspose.Cells for Java'.
+1.  Instalar 'Aspose.Cells for Java'.
 1.  Agregue una referencia de biblioteca (importe la biblioteca) a su proyecto Java.
-1.  Cargue un archivo XML con una instancia de la clase Workbook.
+1.  Cargue el archivo XML con una instancia de la clase Workbook.
 1.  Convierta XML a MARKDOWN llamando al método Workbook.save.
 1.  Obtenga el resultado de la conversión de XML a MARKDOWN.
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Biblioteca Java para convertir XML a MARKDOWN" %}}
+{{% blocks/products/pf/agp/content h2="Java biblioteca para convertir XML a MARKDOWN" %}}
 {{% blocks/products/pf/agp/text %}}
 
  Alojamos nuestros paquetes Java en[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) repositorios. 'Aspose.Cells for Java' es un archivo JAR común que contiene código de bytes. Por favor sigue el[instrucciones paso a paso](https://docs.aspose.com/cells/java/installation/) sobre cómo instalarlo en su entorno de desarrollador Java.

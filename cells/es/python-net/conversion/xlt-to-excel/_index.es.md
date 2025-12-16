@@ -1,7 +1,7 @@
 ---
 title: Python XLT a EXCEL - Convertidor XLT a EXCEL
-description: Aspose Excel. Python Excel. Convierta XLT a EXCEL rápida y fácilmente con Aspose.Cells. Python XLT a EXCEL. Python Guardar XLT en EXCEL. Guarde XLT como EXCEL usando la biblioteca de Excel Python.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert XLT to EXCEL in Python Excel Library., Save XLT to EXCEL using Python Excel Library., Python XLT to EXCEL saveformat., XLT to EXCEL Converter., Python Save XLT as EXCEL]
+description: Aspose Excel. Esta solución integral proporciona a los desarrolladores de Python un enfoque totalmente integrado para convertir XLT a formato EXCEL, lo que permite guardar sin problemas los datos de XLT en formato EXCEL mediante la biblioteca Aspose.Cells, todo mediante código Python eficiente y personalizable.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart XLT files to EXCEL Converter for Python., Convert XLT to EXCEL in Python., XLT files to EXCEL Conversion in Python., Leverage intelligent data processing to automatically parse and save XLT into EXCEL format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Convierta XLT a EXCEL en Python Biblioteca de Excel" h2="Biblioteca Excel Python de alta velocidad para convertir XLT a EXCEL. Utilice nuestra conversión de Excel API para desarrollar software independiente de plataforma de alto nivel en Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="EXCEL" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -28,7 +28,7 @@ Siga los sencillos pasos para convertir XLT a EXCEL. Cargue su archivo XLT y lue
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Código de muestra para convertir XLT a EXCEL a través de la biblioteca Excel Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlt" outformat="xlsx" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Código de muestra para convertir XLT a EXCEL a través de la biblioteca Excel Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="xlt" outformat="xlsx" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="Cómo convertir XLT a EXCEL" %}}
 

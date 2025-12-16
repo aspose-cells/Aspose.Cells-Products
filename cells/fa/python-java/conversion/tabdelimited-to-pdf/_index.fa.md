@@ -1,7 +1,7 @@
 ---
 title: Python TABDELIMITED به PDF - TABDELIMITED به PDF تبدیل
-description: Aspose اکسل. Python اکسل. تبدیل TABDELIMITED به PDF به سرعت و به آسانی با Aspose.Cells. Python TABDELIMITED به PDF. Python ذخیره TABDELIMITED به PDF1 با استفاده از TABDELIMID به عنوان TAB34816 کتابخانه اکسل 3481.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert TABDELIMITED to PDF in Python Excel Library., Save TABDELIMITED to PDF using Python Excel Library., Python TABDELIMITED to PDF saveformat., TABDELIMITED to PDF Converter., Python Save TABDELIMITED as PDF]
+description: Aspose اکسل. این راهکار جامع، رویکردی کاملاً یکپارچه برای تبدیل فرمت TABDELIMITED به فرمت PDF در اختیار توسعه‌دهندگان Python قرار می‌دهد و امکان ذخیره یکپارچه داده‌های TABDELIMITED به فرمت PDF را با استفاده از کتابخانه Aspose.Cells، از طریق کد کارآمد و قابل تنظیم Python، فراهم می‌کند.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart TABDELIMITED files to PDF Converter for Python., Convert TABDELIMITED to PDF in Python., TABDELIMITED files to PDF Conversion in Python., Leverage intelligent data processing to automatically parse and save TABDELIMITED into PDF format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="تبدیل TABDELIMITED به PDF در Python Excel Library" h2="کتابخانه اکسل پرسرعت Python برای تبدیل TABDELIMITED به PDF. این یک راه حل نرم افزاری حرفه ای برای واردات و صادرات TABDELIMITED، PDF و بسیاری از فرمت های دیگر با استفاده از Python است." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="PDF" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -27,7 +27,7 @@ keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert T
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="کد نمونه برای تبدیل TABDELIMITED به PDF از طریق Python Excel Library" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="tsv" outformat="pdf" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="کد نمونه برای تبدیل TABDELIMITED به PDF از طریق Python Excel Library" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="tsv" outformat="pdf" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="نحوه تبدیل TABDELIMITED به PDF از طریق Python" %}}
 

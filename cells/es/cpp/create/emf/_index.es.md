@@ -1,7 +1,7 @@
 ---
 title: Crear EMF - Crear archivo EMF en C++
-description: Aspose Excel. C++ Cree un archivo EMF rápida y fácilmente con Aspose.Cells. Genere un archivo EMF usando C++. Cree EMF en C++. C++ EMF Creater.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ Create EMF file., Generate EMF file in C++., Create EMF file using C++., Write data to EMF file via C++., Create a EMF file in C++., C++ Generate a EMF file., C++ EMF Creater]
+description: Aspose Excel. Genere y manipule fácilmente archivos EMF con la biblioteca Aspose.Cells for C++. Esta potente biblioteca API ofrece una solución optimizada y eficiente para crear, editar y administrar archivos EMF directamente en sus aplicaciones C++, satisfaciendo las necesidades específicas de los desarrolladores con alta precisión.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ Create EMF file., Generate EMF file in C++., Write data to EMF file via C++., C++ EMF Creater., Aspose.Cells for C++ is a powerful library that enables developers to programmatically create, generate, and manipulate EMF files in C++]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Crear archivo EMF en C++" h2="Creación de archivos EMF nativos y de alto rendimiento mediante programación sin Micorsoft Office utilizando la biblioteca C++." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" sourceAdditionalConversionTag="" additionalConversionTag="EMF" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -11,7 +11,7 @@ keywords: [Aspose Excel., C++ Aspose.Cells., C++ Create EMF file., Generate EMF 
 
 {{% blocks/products/pf/agp/content h2="Crear archivo EMF usando C++" %}}
 
- ¿Cómo crear el archivo EMF? Con la biblioteca Aspose.Cells for C++, puede crear fácilmente el archivo EMF mediante programación con unas pocas líneas de código.[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) es capaz de crear aplicaciones multiplataforma con la capacidad de generar, modificar, convertir, renderizar e imprimir todos los archivos de Excel. C++ Excel API no solo convierte entre formatos de hojas de cálculo, sino que también puede representar archivos de Excel como imágenes, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT y más, lo que lo convierte en una opción perfecta para intercambiar documentos en formatos estándar de la industria. Puede descargar su última versión directamente, simplemente abra[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) administrador de paquetes, busque Aspose.Cells.Cpp e instálelo. También puede utilizar el siguiente comando desde la Consola del Administrador de paquetes.
+ ¿Cómo crear el archivo EMF? Con la biblioteca Aspose.Cells for C++, puede crear fácilmente el archivo EMF mediante programación con unas pocas líneas de código.[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) es capaz de crear aplicaciones multiplataforma con la capacidad de generar, modificar, convertir, renderizar e imprimir todos los archivos de Excel. C++ Excel API no solo convierte entre formatos de hojas de cálculo, sino que también puede representar archivos de Excel como imágenes, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT y más, lo que lo convierte en una opción perfecta para intercambiar documentos en formatos estándar de la industria. Puede descargar su última versión directamente, simplemente abra[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/)administrador de paquetes, busque Aspose.Cells.Cpp e instálelo. También puede utilizar el siguiente comando desde la Consola del Administrador de paquetes.
 
 {{% blocks/products/pf/agp/code-block title="Dominio" offSpacer="true" %}}
 
@@ -37,14 +37,15 @@ PM> Install-Package Aspose.Cells.Cpp
 1.  Crea un objeto de la clase Workbook.
 1.  Obtenga la primera hoja en un objeto Hoja de trabajo.
 1.  Utilice el método Worksheet.GetCells() para colocar las celdas de la hoja de trabajo en un objeto Cells.
-1. Utilice el método Cells.Get() para acceder a la celda deseada de la hoja de trabajo en un objeto Cell.
+1.  Utilice el método Cells.Get() para acceder a la celda deseada de la hoja de trabajo en un objeto Cell.
 1.  Utilice el método Cell.PutValue() para ingresar el valor en la celda.
-1. Guarde el libro como archivo .emf usando el método Save().
+1.  Guarde el libro de trabajo como archivo .emf usando el método Save().
 
 {{% blocks/products/pf/agp/code-block title="El código de muestra muestra cómo crear el archivo EMF en C++." offSpacer="" %}}
 
 ```cs
 Aspose::Cells::Startup();
+//TIFF format is not supported
 
 // Create an object of the Workbook class.
 Workbook wkb;

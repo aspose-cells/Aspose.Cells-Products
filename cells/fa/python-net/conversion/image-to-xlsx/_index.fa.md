@@ -1,7 +1,7 @@
 ---
 title: Python IMAGE به XLSX - تبدیل IMAGE به XLSX
-description: Aspose اکسل. Python اکسل. تبدیل IMAGE به XLSX به سرعت و به راحتی با Aspose.Cells. Python IMAGE به XLSX. Python ذخیره IMAGE به XLSX. ذخیره IMAGE به عنوان 081943481.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert IMAGE to XLSX in Python Excel Library., Save IMAGE to XLSX using Python Excel Library., Python IMAGE to XLSX saveformat., IMAGE to XLSX Converter., Python Save IMAGE as XLSX]
+description: Aspose اکسل. این راهکار جامع، رویکردی کاملاً یکپارچه برای تبدیل فرمت IMAGE به فرمت XLSX در اختیار توسعه‌دهندگان Python قرار می‌دهد و امکان ذخیره یکپارچه داده‌های IMAGE به فرمت XLSX را با استفاده از کتابخانه Aspose.Cells، از طریق کد کارآمد و قابل تنظیم Python، فراهم می‌کند.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart IMAGE files to XLSX Converter for Python., Convert IMAGE to XLSX in Python., IMAGE files to XLSX Conversion in Python., Leverage intelligent data processing to automatically parse and save IMAGE into XLSX format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="تبدیل IMAGE به XLSX در Python Excel Library" h2="کتابخانه اکسل پرسرعت Python برای تبدیل IMAGE به XLSX. از تبدیل اکسل ما API برای توسعه نرم افزار سطح بالا و مستقل از پلت فرم در Python استفاده کنید." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSX" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -28,7 +28,7 @@ keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert I
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="نمونه کد برای تبدیل IMAGE به XLSX از طریق Python Excel Library" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="png" outformat="xlsx" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="نمونه کد برای تبدیل IMAGE به XLSX از طریق Python Excel Library" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="png" outformat="xlsx" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="چگونه IMAGE را به XLSX تبدیل کنیم" %}}
 

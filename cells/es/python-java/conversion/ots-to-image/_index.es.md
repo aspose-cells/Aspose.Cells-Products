@@ -1,7 +1,7 @@
 ---
 title: Python OTS a IMAGEN - Convertidor OTS a IMAGEN
-description: Aspose Excel. Python Excel. Convierta OTS a IMAGEN rápida y fácilmente con Aspose.Cells. Python OTS a IMAGEN. Python Guardar OTS en IMAGEN. Guarde OTS como IMAGEN usando la biblioteca de Excel Python.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert OTS to IMAGE in Python Excel Library., Save OTS to IMAGE using Python Excel Library., Python OTS to IMAGE saveformat., OTS to IMAGE Converter., Python Save OTS as IMAGE]
+description: Aspose Excel. Esta solución integral proporciona a los desarrolladores de Python un enfoque totalmente integrado para convertir OTS a formato IMAGEN, lo que permite guardar datos OTS en formato IMAGEN sin problemas mediante la biblioteca Aspose.Cells, todo mediante código Python eficiente y personalizable.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart OTS files to IMAGE Converter for Python., Convert OTS to IMAGE in Python., OTS files to IMAGE Conversion in Python., Leverage intelligent data processing to automatically parse and save OTS into IMAGE format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Convierta OTS a IMAGEN en la biblioteca de Excel Python" h2="Biblioteca Excel Python de alta velocidad para convertir OTS a IMAGEN. Esta es una solución de software profesional para importar y exportar OTS, IMAGEN y muchos otros formatos utilizando Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="IMAGE" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -27,7 +27,7 @@ Siga los sencillos pasos para convertir OTS a IMAGEN. Cargue su archivo OTS y lu
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Código de muestra para convertir OTS a IMAGEN a través de la biblioteca de Excel Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="ots" outformat="png" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="Código de muestra para convertir OTS a IMAGEN a través de la biblioteca de Excel Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="ots" outformat="png" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="Cómo convertir OTS a IMAGEN a través de Python" %}}
 

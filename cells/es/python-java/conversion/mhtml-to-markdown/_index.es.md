@@ -1,7 +1,7 @@
 ---
 title: Python MHTML a MARKDOWN - MHTML a MARKDOWN Convertidor
-description: Aspose Excel. Python Excel. Convierta MHTML a MARKDOWN rápida y fácilmente con Aspose.Cells. Python MHTML a MARKDOWN. Python Guarde MHTML en MARKDOWN. Guarde MHTML como 076112 3481 usando la biblioteca Excel Python.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert MHTML to MARKDOWN in Python Excel Library., Save MHTML to MARKDOWN using Python Excel Library., Python MHTML to MARKDOWN saveformat., MHTML to MARKDOWN Converter., Python Save MHTML as MARKDOWN]
+description: Aspose Excel. Esta solución integral ofrece a los desarrolladores de Excel Python un enfoque totalmente integrado para convertir el formato MHTML al MARKDOWN, lo que permite guardar sin problemas los datos de Excel MHTML al formato MARKDOWN mediante la biblioteca Aspose.Cells, todo mediante código Python eficiente y personalizable.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart MHTML files to MARKDOWN Converter for Python., Convert MHTML to MARKDOWN in Python., MHTML files to MARKDOWN Conversion in Python., Leverage intelligent data processing to automatically parse and save MHTML into MARKDOWN format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Convierta MHTML a MARKDOWN en la biblioteca de Excel Python" h2="Biblioteca Excel Python de alta velocidad para convertir MHTML a MARKDOWN. Esta es una solución de software profesional para importar y exportar MHTML, MARKDOWN y muchos otros formatos utilizando Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="MARKDOWN" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -27,7 +27,7 @@ Siga los sencillos pasos para convertir MHTML a MARKDOWN. Cargue su archivo MHTM
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Código de muestra para convertir MHTML a MARKDOWN a través de la biblioteca de Excel Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="mhtml" outformat="md" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="Código de muestra para convertir MHTML a MARKDOWN a través de la biblioteca de Excel Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="mhtml" outformat="md" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="Cómo convertir MHTML a MARKDOWN a través de Python" %}}
 

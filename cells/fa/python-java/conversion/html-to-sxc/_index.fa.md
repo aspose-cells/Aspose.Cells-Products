@@ -1,7 +1,7 @@
 ---
 title: Python HTML به SXC - HTML به SXC تبدیل
-description: Aspose اکسل. Python اکسل. تبدیل HTML به SXC به سرعت و به آسانی با Aspose.Cells. Python HTML. Python Save 076193418 به 076193418 1307 61123481 با استفاده از Python Excel Library.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert HTML to SXC in Python Excel Library., Save HTML to SXC using Python Excel Library., Python HTML to SXC saveformat., HTML to SXC Converter., Python Save HTML as SXC]
+description: Aspose اکسل. این راهکار جامع، رویکردی کاملاً یکپارچه برای تبدیل فرمت HTML به SXC در اختیار توسعه‌دهندگان Python قرار می‌دهد و امکان ذخیره یکپارچه داده‌های HTML به فرمت SXC را با استفاده از کتابخانه Aspose.Cells، از طریق کد کارآمد و قابل تنظیم Python، فراهم می‌کند.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart HTML files to SXC Converter for Python., Convert HTML to SXC in Python., HTML files to SXC Conversion in Python., Leverage intelligent data processing to automatically parse and save HTML into SXC format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="تبدیل HTML به SXC در Python Excel Library" h2="کتابخانه اکسل پرسرعت Python برای تبدیل HTML به SXC. این یک راه حل نرم افزاری حرفه ای برای واردات و صادرات HTML، SXC و بسیاری از فرمت های دیگر با استفاده از Python است." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="SXC" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -27,7 +27,7 @@ keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert H
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="نمونه کد برای تبدیل HTML به SXC از طریق Python Excel Library" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="html" outformat="sxc" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="نمونه کد برای تبدیل HTML به SXC از طریق Python Excel Library" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="html" outformat="sxc" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="نحوه تبدیل HTML به SXC از طریق Python" %}}
 

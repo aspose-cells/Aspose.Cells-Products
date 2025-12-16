@@ -1,7 +1,7 @@
 ---
 title: Python XLTX bis XLAM - XLTX bis XLAM Konverter
-description: Aspose Excel. Python Excel. Konvertieren Sie XLTX schnell und einfach in XLAM mit Aspose.Cells. Python XLTX in XLAM. Python Speichern Sie XLTX in XLAM. Speichern Sie XLTX als XLAM mit der Python Excel-Bibliothek.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert XLTX to XLAM in Python Excel Library., Save XLTX to XLAM using Python Excel Library., Python XLTX to XLAM saveformat., XLTX to XLAM Converter., Python Save XLTX as XLAM]
+description: Aspose Excel. Diese umfassende Lösung bietet Entwicklern einen vollständig integrierten Ansatz zur Konvertierung von XLTX in das Format XLAM und ermöglicht das nahtlose Speichern von XLTX-Daten im Format XLAM mithilfe der Aspose.Cells-Bibliothek – alles durch effizienten und anpassbaren Python-Code.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart XLTX files to XLAM Converter for Python., Convert XLTX to XLAM in Python., XLTX files to XLAM Conversion in Python., Leverage intelligent data processing to automatically parse and save XLTX into XLAM format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Konvertieren Sie XLTX in XLAM in der Excel-Bibliothek Python" h2="Hochgeschwindigkeits-Excel-Bibliothek Python zum Konvertieren von XLTX in XLAM. Dies ist eine professionelle Softwarelösung zum Importieren und Exportieren von XLTX, XLAM und vielen anderen Formaten mit Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLAM" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -27,7 +27,7 @@ Befolgen Sie die einfachen Schritte, um XLTX in XLAM zu konvertieren. Laden Sie 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Beispielcode zur Konvertierung von XLTX in XLAM über die Excel-Bibliothek Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xltx" outformat="xlam" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="Beispielcode zur Konvertierung von XLTX in XLAM über die Excel-Bibliothek Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="xltx" outformat="xlam" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="So konvertieren Sie XLTX über Python in XLAM" %}}
 

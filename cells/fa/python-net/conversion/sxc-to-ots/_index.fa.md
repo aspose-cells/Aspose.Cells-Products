@@ -1,7 +1,7 @@
 ---
 title: Python SXC به OTS - SXC به OTS تبدیل
-description: Aspose اکسل. Python اکسل. SXC را سریع و آسان با Aspose.Cells به OTS تبدیل کنید. Python SXC به OTS. Python SXC را در OTS ذخیره کنید. SXC را به عنوان OTS با استفاده از Python Excel Library ذخیره کنید.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert SXC to OTS in Python Excel Library., Save SXC to OTS using Python Excel Library., Python SXC to OTS saveformat., SXC to OTS Converter., Python Save SXC as OTS]
+description: Aspose اکسل. این راهکار جامع، رویکردی کاملاً یکپارچه برای تبدیل فرمت SXC به فرمت OTS در اختیار توسعه‌دهندگان Python قرار می‌دهد و امکان ذخیره یکپارچه داده‌های SXC به فرمت OTS را با استفاده از کتابخانه Aspose.Cells، از طریق کد کارآمد و قابل تنظیم Python، فراهم می‌کند.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart SXC files to OTS Converter for Python., Convert SXC to OTS in Python., SXC files to OTS Conversion in Python., Leverage intelligent data processing to automatically parse and save SXC into OTS format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="تبدیل SXC به OTS در Python Excel Library" h2="کتابخانه اکسل پرسرعت Python برای تبدیل SXC به OTS. از تبدیل اکسل API ما برای توسعه نرم افزار سطح بالا و مستقل از پلت فرم در Python استفاده کنید." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="OTS" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -28,7 +28,7 @@ keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert S
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="کد نمونه برای تبدیل SXC به OTS از طریق Python Excel Library" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="sxc" outformat="ots" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="کد نمونه برای تبدیل SXC به OTS از طریق Python Excel Library" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="sxc" outformat="ots" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="نحوه تبدیل SXC به OTS" %}}
 

@@ -1,7 +1,7 @@
 ---
 title: Python XLS zu SPREADSHEETML - XLS zu SPREADSHEETML Konverter
-description: Aspose Excel. Python Excel. Konvertieren Sie XLS schnell und einfach in SPREADSHEETML mit Aspose.Cells. Python XLS in SPREADSHEETML. Python Speichern Sie XLS in SPREADSHEETML. Speichern Sie XLS als SPREADSHEETML mit Python Excel-Bibliothek.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert XLS to SPREADSHEETML in Python Excel Library., Save XLS to SPREADSHEETML using Python Excel Library., Python XLS to SPREADSHEETML saveformat., XLS to SPREADSHEETML Converter., Python Save XLS as SPREADSHEETML]
+description: Aspose Excel. Diese umfassende Lösung bietet Entwicklern einen vollständig integrierten Ansatz zur Konvertierung von XLS in das SPREADSHEETML-Format und ermöglicht das nahtlose Speichern von XLS-Daten im SPREADSHEETML-Format mithilfe der Aspose.Cells-Bibliothek, alles durch effizienten und anpassbaren Python-Code.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart XLS files to SPREADSHEETML Converter for Python., Convert XLS to SPREADSHEETML in Python., XLS files to SPREADSHEETML Conversion in Python., Leverage intelligent data processing to automatically parse and save XLS into SPREADSHEETML format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Konvertieren Sie XLS in SPREADSHEETML in der Excel-Bibliothek Python" h2="Hochgeschwindigkeits-Excel-Bibliothek Python zum Konvertieren von XLS in SPREADSHEETML. Dies ist eine professionelle Softwarelösung zum Importieren und Exportieren von XLS, SPREADSHEETML und vielen anderen Formaten mit Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="SPREADSHEETML" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -27,7 +27,7 @@ Befolgen Sie die einfachen Schritte, um XLS in SPREADSHEETML zu konvertieren. La
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Beispielcode zur Konvertierung von XLS in SPREADSHEETML über die Excel-Bibliothek Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xls" outformat="xml" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="Beispielcode zur Konvertierung von XLS in SPREADSHEETML über die Excel-Bibliothek Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="xls" outformat="xml" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="So konvertieren Sie XLS über Python in SPREADSHEETML" %}}
 

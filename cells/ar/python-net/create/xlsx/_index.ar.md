@@ -1,7 +1,7 @@
 ---
 title: إنشاء XLSX - إنشاء ملف XLSX في Python
-description: Aspose اكسل. Python اكسل. Python قم بإنشاء ملف XLSX بسرعة وسهولة باستخدام Aspose.Cells. قم بإنشاء ملف XLSX باستخدام مكتبة Excel Python. إنشاء XLSX في مكتبة إكسل Python. Python XLSX مبدع.
-keywords: [Aspose Python Excel., Python Aspose.Cells., Python Create XLSX file., Generate XLSX file in Python Excel Library., Create XLSX file using Python Excel Library., Write data to XLSX file via Python Excel Library., Create a XLSX file in Python Excel Library., Python Generate a XLSX file., Python XLSX Creater]
+description: Aspose Excel. أنشئ ملفات XLSX وتعامل معها بسهولة باستخدام مكتبة Aspose.Cells وfor Python وvia .NET. توفر هذه المكتبة القوية API حلاً مبسطًا وفعالًا لإنشاء ملفات XLSX وتعديلها وإدارتها مباشرةً ضمن تطبيقاتك Python، مما يلبي احتياجات المطورين بدقة عالية.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Create XLSX file., Generate XLSX file in Python., Write data to XLSX file via Python., Python XLSX Creater., Aspose.Cells for Python via .NET is a powerful library that enables developers to programmatically create, generate, and manipulate XLSX files in Python]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="إنشاء ملف XLSX في مكتبة إكسل Python" h2="مكتبة إكسيل Python عالية السرعة لإنشاء ملف XLSX. استخدم تحويل Excel API لتطوير برامج مستقلة عالية المستوى للنظام الأساسي في Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSX" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}

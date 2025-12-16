@@ -1,7 +1,7 @@
 ---
 title: Java XML إلى HTML - XML إلى HTML محول
-description: Aspose اكسل. قم بتحويل XML إلى HTML بسرعة وسهولة باستخدام Aspose.Cells. Java XML إلى HTML. Java احفظ XML إلى HTML. احفظ XML كـ HTML باستخدام Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Convert XML to HTML in Java., Save XML to HTML using Java., Java XML to HTML saveformat., XML to HTML Converter., Java Save XML as HTML]
+description: Aspose إكسل. يوفر هذا الحل الشامل للمطورين Java نهجًا متكاملًا تمامًا لتحويل XML إلى تنسيق HTML، مما يتيح حفظ بيانات XML بسلاسة بتنسيق HTML باستخدام مكتبة Aspose.Cells، كل ذلك من خلال كود Java فعال وقابل للتخصيص.
+keywords: [Aspose Excel., Java Aspose.Cells., Smart XML files to HTML Converter for Java., Convert XML to HTML in Java., XML files to HTML Conversion in Java., Leverage intelligent data processing to automatically parse and save XML into HTML format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="تحويل XML إلى HTML في Java" h2="مكتبة Java عالية السرعة لتحويل XML إلى HTML. هذا حل برمجي احترافي لاستيراد وتصدير XML وHTML والعديد من التنسيقات الأخرى باستخدام Java." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="HTML" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="CSV" >}}
@@ -45,7 +45,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Convert XML to HTML in Java., Save
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="احفظ XML في HTML في Java" %}}
+{{% blocks/products/pf/agp/content h2="حفظ ملف XML في HTML في Java" %}}
 
 يوضح المثال التالي كيفية تحويل XML إلى HTML في Java.
 {{% blocks/products/pf/agp/text %}}
@@ -56,19 +56,19 @@ keywords: [Aspose Excel., Java Aspose.Cells., Convert XML to HTML in Java., Save
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="نموذج التعليمات البرمجية لتحويل XML إلى HTML" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xml" outformat="html" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="نموذج كود لتحويل XML إلى HTML" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="xml" outformat="html" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="كيفية تحويل XML إلى HTML via Java" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
-هل تحتاج إلى تحويل ملفات XML إلى HTML برمجياً؟ يمكن لمطوري Java تحويل XML بسهولة إلى HTML في بضعة أسطر من التعليمات البرمجية.
+هل تحتاج إلى تحويل ملفات XML إلى صيغة HTML برمجيًا؟ يمكن لمطوري Java تحويل XML بسهولة إلى صيغة HTML في بضعة أسطر من التعليمات البرمجية فقط.
 
 {{% /blocks/products/pf/agp/text %}}
 
-1.  قم بتثبيت "Aspose.Cells for Java".
+1.  قم بتثبيت 'Aspose.Cells for Java'.
 1.  أضف مرجع مكتبة (استيراد المكتبة) إلى مشروعك Java.
-1.  قم بتحميل ملف XML بمثيل لفئة Workbook.
+1.  قم بتحميل ملف XML باستخدام نسخة من فئة Workbook.
 1.  تحويل XML إلى HTML عن طريق استدعاء طريقة Workbook.save.
 1.  احصل على نتيجة تحويل XML إلى HTML.
 
@@ -98,7 +98,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Convert XML to HTML in Java., Save
 <!-- aboutfile Starts -->
     {{< blocks/products/pf/agp/about-file-section >}}
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XML" readMoreLink="https://docs.fileformat.com/web/xml/" >}}يرمز XML إلى لغة التوصيف القابلة للتوسيع والتي تشبه HTML ولكنها تختلف في استخدام العلامات لتعريف الكائنات. كانت الفكرة الكاملة وراء إنشاء تنسيق ملف XML هي تخزين البيانات ونقلها دون الاعتماد على أدوات البرامج أو الأجهزة. ترجع شعبيتها إلى كونها قابلة للقراءة من قبل الإنسان وكذلك من خلال الآلة. وهذا يمكّنها من إنشاء بروتوكولات بيانات مشتركة في شكل كائنات يتم تخزينها ومشاركتها عبر الشبكة مثل شبكة الويب العالمية (WWW). "X" في XML مخصص للتوسيع مما يعني أنه يمكن توسيع اللغة إلى أي عدد من الرموز وفقًا لمتطلبات المستخدم. لهذه الميزات تستفيد منها العديد من تنسيقات الملفات القياسية مثل Microsoft Open XML وLibreOffice OpenDocument وXHTML وSVG.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="HTML" readMoreLink="https://docs.fileformat.com/web/html/" >}}HTML (لغة توصيف النص التشعبي) هي امتداد لصفحات الويب التي تم إنشاؤها للعرض في المتصفحات. لقد تطورت HTML، المعروفة باسم لغة الويب، مع متطلبات المعلومات الجديدة التي سيتم عرضها كجزء من صفحات الويب. يُعرف الإصدار الأحدث باسم HTML 5 والذي يوفر قدرًا كبيرًا من المرونة في العمل مع اللغة. يتم استلام HTML صفحة إما من الخادم، حيث تتم استضافتها، أو يمكن تحميلها من النظام المحلي أيضًا. تتكون كل صفحة HTML من HTML عنصرًا مثل النماذج والنصوص والصور والرسوم المتحركة والروابط وما إلى ذلك. ويتم تمثيل هذه العناصر بواسطة علامات والعديد من العناصر الأخرى حيث يكون لكل علامة بداية ونهاية. ويمكنه أيضًا تضمين التطبيقات المكتوبة بلغات البرمجة النصية مثل JavaScript وStyle Sheets (CSS) لتمثيل التخطيط العام.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="HTML" readMoreLink="https://docs.fileformat.com/web/html/" >}}HTML (لغة توصيف النص التشعبي) هي امتداد لصفحات الويب التي تم إنشاؤها للعرض في المتصفحات. لقد تطورت HTML، المعروفة باسم لغة الويب، مع متطلبات المعلومات الجديدة التي سيتم عرضها كجزء من صفحات الويب. يُعرف الإصدار الأحدث باسم HTML 5 والذي يوفر قدرًا كبيرًا من المرونة في العمل مع اللغة. يتم استلام HTML صفحة إما من الخادم، حيث تتم استضافتها، أو يمكن تحميلها من النظام المحلي أيضًا. تتكون كل صفحة HTML من HTML عنصرًا مثل النماذج والنصوص والصور والرسوم المتحركة والروابط وما إلى ذلك. ويتم تمثيل هذه العناصر بواسطة علامات والعديد من العناصر الأخرى حيث يكون لكل علامة بداية ونهاية. يمكنه أيضًا تضمين التطبيقات المكتوبة بلغات البرمجة النصية مثل JavaScript وStyle Sheets (CSS) لتمثيل التخطيط العام.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
     {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->
 

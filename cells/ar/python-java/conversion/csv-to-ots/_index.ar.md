@@ -1,7 +1,7 @@
 ---
 title: Python CSV إلى OTS - CSV إلى OTS محول
-description: Aspose اكسل. Python اكسل. قم بتحويل CSV إلى OTS بسرعة وسهولة باستخدام Aspose.Cells. Python CSV إلى OTS. Python احفظ CSV إلى OTS. احفظ CSV كـ OTS باستخدام مكتبة Excel Python.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert CSV to OTS in Python Excel Library., Save CSV to OTS using Python Excel Library., Python CSV to OTS saveformat., CSV to OTS Converter., Python Save CSV as OTS]
+description: Aspose Excel. يوفر هذا الحل الشامل للمطورين Python نهجًا متكاملًا تمامًا لتحويل CSV إلى تنسيق OTS، مما يتيح حفظ البيانات بسلاسة بتنسيق OTS باستخدام مكتبة Aspose.Cells، كل ذلك من خلال كود Python فعال وقابل للتخصيص.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart CSV files to OTS Converter for Python., Convert CSV to OTS in Python., CSV files to OTS Conversion in Python., Leverage intelligent data processing to automatically parse and save CSV into OTS format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="تحويل CSV إلى OTS في Python مكتبة Excel" h2="مكتبة إكسل Python عالية السرعة لتحويل CSV إلى OTS. يعد هذا حلاً برمجيًا احترافيًا لاستيراد وتصدير CSV وOTS والعديد من التنسيقات الأخرى باستخدام Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="OTS" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -27,7 +27,7 @@ keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert C
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="نموذج التعليمات البرمجية لتحويل CSV إلى OTS عبر مكتبة Excel Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="csv" outformat="ots" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="نموذج التعليمات البرمجية لتحويل CSV إلى OTS عبر مكتبة Excel Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="csv" outformat="ots" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="كيفية تحويل CSV إلى OTS عبر Python" %}}
 

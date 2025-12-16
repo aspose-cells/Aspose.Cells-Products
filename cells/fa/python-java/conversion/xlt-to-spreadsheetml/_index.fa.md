@@ -1,7 +1,7 @@
 ---
 title: Python XLT به SPREADSHEETML - XLT به SPREADSHEETML تبدیل
-description: Aspose اکسل. Python اکسل. تبدیل XLT به SPREADSHEETML به سرعت و به راحتی با Aspose.Cells. Python XLT به SPREADSHEETML. Python XLT را در SPREADSHEETML ذخیره کنید. XLT را با استفاده از Python Excel Library به عنوان SPREADSHEETML ذخیره کنید.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert XLT to SPREADSHEETML in Python Excel Library., Save XLT to SPREADSHEETML using Python Excel Library., Python XLT to SPREADSHEETML saveformat., XLT to SPREADSHEETML Converter., Python Save XLT as SPREADSHEETML]
+description: Aspose اکسل. این راهکار جامع، رویکردی کاملاً یکپارچه برای تبدیل فرمت XLT به فرمت SPREADSHEETML در اختیار توسعه‌دهندگان Python قرار می‌دهد و امکان ذخیره یکپارچه داده‌های XLT به فرمت SPREADSHEETML را با استفاده از کتابخانه Aspose.Cells، از طریق کد کارآمد و قابل تنظیم Python، فراهم می‌کند.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart XLT files to SPREADSHEETML Converter for Python., Convert XLT to SPREADSHEETML in Python., XLT files to SPREADSHEETML Conversion in Python., Leverage intelligent data processing to automatically parse and save XLT into SPREADSHEETML format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="تبدیل XLT به SPREADSHEETML در Python Excel Library" h2="کتابخانه اکسل پرسرعت Python برای تبدیل XLT به SPREADSHEETML. این یک راه حل نرم افزاری حرفه ای برای وارد کردن و صادرات XLT، SPREADSHEETML، و بسیاری از فرمت های دیگر با استفاده از Python است." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="SPREADSHEETML" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -27,7 +27,7 @@ keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert X
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="کد نمونه برای تبدیل XLT به SPREADSHEETML از طریق Python Excel Library" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlt" outformat="xml" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="کد نمونه برای تبدیل XLT به SPREADSHEETML از طریق Python Excel Library" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="xlt" outformat="xml" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="نحوه تبدیل XLT به SPREADSHEETML از طریق Python" %}}
 

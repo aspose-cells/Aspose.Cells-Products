@@ -1,7 +1,7 @@
 ---
 title: Python TXT إلى EXCEL - TXT إلى EXCEL محول
-description: Aspose اكسل. Python اكسل. تحويل TXT إلى EXCEL بسرعة وسهولة مع Aspose.Cells. Python TXT إلى EXCEL. Python احفظ TXT إلى EXCEL. احفظ TXT كـ EXCEL باستخدام مكتبة Excel Python.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert TXT to EXCEL in Python Excel Library., Save TXT to EXCEL using Python Excel Library., Python TXT to EXCEL saveformat., TXT to EXCEL Converter., Python Save TXT as EXCEL]
+description: Aspose إكسل. يوفر هذا الحل الشامل للمطورين Python نهجًا متكاملًا تمامًا لتحويل TXT إلى تنسيق إكسل، مما يتيح حفظ البيانات بسلاسة في تنسيق إكسل باستخدام مكتبة Aspose.Cells، كل ذلك من خلال كود Python فعال وقابل للتخصيص.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart TXT files to EXCEL Converter for Python., Convert TXT to EXCEL in Python., TXT files to EXCEL Conversion in Python., Leverage intelligent data processing to automatically parse and save TXT into EXCEL format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="تحويل TXT إلى EXCEL في مكتبة Excel Python" h2="مكتبة اكسل Python عالية السرعة لتحويل TXT إلى EXCEL. يعد هذا حلاً برمجيًا احترافيًا لاستيراد وتصدير TXT وEXCEL والعديد من التنسيقات الأخرى باستخدام Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="EXCEL" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -27,7 +27,7 @@ keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert T
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="نموذج التعليمات البرمجية لتحويل TXT إلى EXCEL عبر مكتبة Excel Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="txt" outformat="xlsx" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="نموذج التعليمات البرمجية لتحويل TXT إلى EXCEL عبر مكتبة Excel Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="txt" outformat="xlsx" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="كيفية تحويل TXT إلى EXCEL عبر Python" %}}
 

@@ -1,7 +1,7 @@
 ---
 title: Python XML به SPREADSHEETML - تبدیل XML به SPREADSHEETML
-description: Aspose اکسل. Python اکسل. تبدیل XML به SPREADSHEETML به سرعت و به راحتی با Aspose.Cells. Python XML به SPREADSHEETML. Python XML را در SPREADSHEETML ذخیره کنید. XML را به عنوان SPREADSHEETML با استفاده از Python Excel Library ذخیره کنید.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert XML to SPREADSHEETML in Python Excel Library., Save XML to SPREADSHEETML using Python Excel Library., Python XML to SPREADSHEETML saveformat., XML to SPREADSHEETML Converter., Python Save XML as SPREADSHEETML]
+description: Aspose اکسل. این راهکار جامع، رویکردی کاملاً یکپارچه برای تبدیل XML به فرمت SPREADSHEETML در اختیار توسعه‌دهندگان Python قرار می‌دهد و امکان ذخیره یکپارچه داده‌های XML در فرمت SPREADSHEETML را با استفاده از کتابخانه Aspose.Cells، از طریق کد کارآمد و قابل تنظیم Python، فراهم می‌کند.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart XML files to SPREADSHEETML Converter for Python., Convert XML to SPREADSHEETML in Python., XML files to SPREADSHEETML Conversion in Python., Leverage intelligent data processing to automatically parse and save XML into SPREADSHEETML format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="XML را در کتابخانه اکسل Python به SPREADSHEETML تبدیل کنید" h2="کتابخانه اکسل پرسرعت Python برای تبدیل XML به SPREADSHEETML. از تبدیل اکسل API ما برای توسعه نرم افزار سطح بالا و مستقل از پلت فرم در Python استفاده کنید." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="SPREADSHEETML" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -28,7 +28,7 @@ keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert X
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="نمونه کد برای تبدیل XML به SPREADSHEETML از طریق کتابخانه اکسل Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xml" outformat="xml" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="نمونه کد برای تبدیل XML به SPREADSHEETML از طریق کتابخانه اکسل Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="xml" outformat="xml" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="چگونه XML را به SPREADSHEETML تبدیل کنیم" %}}
 
@@ -79,29 +79,29 @@ keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert X
 
 {{< blocks/products/pf/agp/other-supported-section title="سایر تبدیل های پشتیبانی شده" subTitle="همچنین می‌توانید XML را به بسیاری از فرمت‌های فایل دیگر از جمله تعداد کمی از آنها در زیر تبدیل کنید." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xml-to-bmp/" name="XML TO BMP" description="تصویر بیت مپ" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xml-to-emf/" name="XML TO EMF" description="فرمت متافایل پیشرفته" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xml-to-gif/" name="XML TO GIF" description="فرمت تبادل گرافیکی" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xml-to-html/" name="XML TO HTML" description="زبان نشانه گذاری فرا متنی" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xml-to-bmp/" name="XML به BMP" description="تصویر بیت مپ" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xml-to-emf/" name="XML به EMF" description="فرمت متافایل پیشرفته" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xml-to-gif/" name="XML به GIF" description="فرمت تبادل گرافیکی" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xml-to-html/" name="XML به HTML" description="زبان نشانه گذاری فرا متنی" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xml-to-md/" name="XML به MD" description="زبان مارک داون" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xml-to-mhtml/" name="XML TO MHTML" description="فرمت آرشیو صفحه وب" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xml-to-ods/" name="XML TO ODS" description="فایل صفحه گسترده OpenDocument" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xml-to-pdf/" name="XML TO PDF" description="فرمت سند قابل حمل" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xml-to-png/" name="XML TO PNG" description="گرافیک شبکه قابل حمل" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xml-to-svg/" name="XML TO SVG" description="گرافیک برداری مقیاس پذیر" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xml-to-tiff/" name="XML TO TIFF" description="فرمت تصویر برچسب شده" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xml-to-tsv/" name="XML TO TSV" description="مقادیر جدا شده از تب" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xml-to-txt/" name="XML TO TXT" description="سند متنی" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xml-to-xls/" name="XML TO XLS" description="فرمت باینری اکسل" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xml-to-xlsb/" name="XML TO XLSB" description="فایل باینری کتاب کار اکسل" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xml-to-xlsm/" name="XML TO XLSM" description="فایل صفحه گسترده" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xml-to-xlsx/" name="XML TO XLSX" description="فایل OOXML اکسل" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xml-to-xlt/" name="XML TO XLT" description="Microsoft قالب اکسل" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xml-to-xltm/" name="XML TO XLTM" description="قالب ماکرو فعال اکسل" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xml-to-xltx/" name="XML TO XLTX" description="قالب Office OpenXML Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xml-to-mhtml/" name="XML به MHTML" description="فرمت آرشیو صفحه وب" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xml-to-ods/" name="XML به ODS" description="فایل صفحه گسترده OpenDocument" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xml-to-pdf/" name="XML به PDF" description="فرمت سند قابل حمل" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xml-to-png/" name="XML به PNG" description="گرافیک شبکه قابل حمل" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xml-to-svg/" name="XML به SVG" description="گرافیک برداری مقیاس پذیر" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xml-to-tiff/" name="XML به TIFF" description="فرمت تصویر برچسب شده" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xml-to-tsv/" name="XML به TSV" description="مقادیر جدا شده از تب" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xml-to-txt/" name="XML به TXT" description="سند متنی" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xml-to-xls/" name="XML به XLS" description="فرمت باینری اکسل" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xml-to-xlsb/" name="XML به XLSB" description="فایل باینری کتاب کار اکسل" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xml-to-xlsm/" name="XML به XLSM" description="فایل صفحه گسترده" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xml-to-xlsx/" name="XML به XLSX" description="فایل OOXML اکسل" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xml-to-xlt/" name="XML به XLT" description="Microsoft قالب اکسل" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xml-to-xltm/" name="XML به XLTM" description="قالب ماکرو فعال اکسل" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xml-to-xltx/" name="XML به XLTX" description="قالب Office OpenXML Excel" >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xml-to-xps/" name="XML TO XPS" description="مشخصات کاغذ XML" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xml-to-json/" name="XML TO JSON" description="نشانه گذاری شی جاوا اسکریپت" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xml-to-xps/" name="XML به XPS" description="مشخصات کاغذ XML" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xml-to-json/" name="XML به JSON" description="نشانه گذاری شی جاوا اسکریپت" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

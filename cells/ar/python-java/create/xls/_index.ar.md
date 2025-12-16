@@ -1,7 +1,7 @@
 ---
 title: إنشاء XLS - إنشاء ملف XLS في Python
-description: Aspose اكسل. Python اكسل. Python قم بإنشاء ملف XLS بسرعة وسهولة باستخدام Aspose.Cells. قم بإنشاء ملف XLS باستخدام مكتبة Excel Python. إنشاء XLS في مكتبة إكسل Python. Python XLS مبدع.
-keywords: [Aspose Python Excel., Python Aspose.Cells., Python Create XLS file., Generate XLS file in Python Excel Library., Create XLS file using Python Excel Library., Write data to XLS file via Python Excel Library., Create a XLS file in Python Excel Library., Python Generate a XLS file., Python XLS Creater]
+description: Aspose Excel. أنشئ ملفات XLS وتعامل معها بسهولة باستخدام مكتبة Aspose.Cells وfor Python وvia Java. توفر هذه المكتبة القوية API حلاً مبسطًا وفعالًا لإنشاء ملفات XLS وتعديلها وإدارتها مباشرةً ضمن تطبيقاتك Python، مما يلبي احتياجات المطورين بدقة عالية.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Create XLS file., Generate XLS file in Python., Write data to XLS file via Python., Python XLS Creater., Aspose.Cells for Python via Java is a powerful library that enables developers to programmatically create, generate, and manipulate XLS files in Python]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="إنشاء ملف XLS في مكتبة إكسل Python" h2="مكتبة إكسيل Python عالية السرعة لإنشاء ملف XLS. هذا حل برمجي احترافي لاستيراد وتصدير XLSX وPDF والعديد من التنسيقات الأخرى باستخدام Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLS" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}

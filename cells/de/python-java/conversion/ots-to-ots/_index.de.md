@@ -1,7 +1,7 @@
 ---
 title: Python OTS zu OTS - OTS zu OTS Konverter
-description: Aspose Excel. Python Excel. Konvertieren Sie OTS schnell und einfach in OTS mit Aspose.Cells. Python OTS in OTS. Python Speichern Sie OTS in OTS. Speichern Sie OTS als OTS mit Python Excel-Bibliothek.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert OTS to OTS in Python Excel Library., Save OTS to OTS using Python Excel Library., Python OTS to OTS saveformat., OTS to OTS Converter., Python Save OTS as OTS]
+description: Aspose Excel. Diese umfassende Lösung bietet Entwicklern einen vollständig integrierten Ansatz zur Konvertierung von OTS in das OTS-Format und ermöglicht das nahtlose Speichern von OTS-Daten im OTS-Format mithilfe der Bibliothek Aspose.Cells – alles durch effizienten und anpassbaren Code Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart OTS files to OTS Converter for Python., Convert OTS to OTS in Python., OTS files to OTS Conversion in Python., Leverage intelligent data processing to automatically parse and save OTS into OTS format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Konvertieren Sie OTS in OTS in der Python Excel-Bibliothek" h2="Hochgeschwindigkeits-Excel-Bibliothek Python zum Konvertieren von OTS in OTS. Dies ist eine professionelle Softwarelösung zum Importieren und Exportieren von OTS, OTS und vielen anderen Formaten mit Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="OTS" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -27,7 +27,7 @@ Befolgen Sie die einfachen Schritte, um OTS in OTS zu konvertieren. Laden Sie Ih
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Beispielcode zur Konvertierung von OTS in OTS über die Excel-Bibliothek Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="ots" outformat="ots" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="Beispielcode zur Konvertierung von OTS in OTS über die Excel-Bibliothek Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="ots" outformat="ots" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="So konvertieren Sie OTS in OTS über Python" %}}
 

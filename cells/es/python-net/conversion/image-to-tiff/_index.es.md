@@ -1,7 +1,7 @@
 ---
 title: Python IMAGEN a TIFF - Convertidor IMAGEN a TIFF
-description: Aspose Excel. Python Excel. Convierta IMAGEN a TIFF rápida y fácilmente con Aspose.Cells. Python IMAGEN a TIFF. Python Guarde IMAGEN en TIFF. Guarde IMAGEN como TIFF usando Python Biblioteca de Excel.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert IMAGE to TIFF in Python Excel Library., Save IMAGE to TIFF using Python Excel Library., Python IMAGE to TIFF saveformat., IMAGE to TIFF Converter., Python Save IMAGE as TIFF]
+description: Aspose Excel. Esta solución integral ofrece a los desarrolladores de Python un enfoque totalmente integrado para convertir imágenes al formato TIFF, lo que permite guardar sin problemas los datos de imágenes en el formato TIFF mediante la biblioteca Aspose.Cells, todo mediante código Python eficiente y personalizable.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart IMAGE files to TIFF Converter for Python., Convert IMAGE to TIFF in Python., IMAGE files to TIFF Conversion in Python., Leverage intelligent data processing to automatically parse and save IMAGE into TIFF format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Convierta IMAGEN a TIFF en la biblioteca de Excel Python" h2="Biblioteca de Excel Python de alta velocidad para convertir IMAGEN a TIFF. Utilice nuestra conversión de Excel API para desarrollar software independiente de plataforma de alto nivel en Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="TIFF" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -28,7 +28,7 @@ Siga los sencillos pasos para convertir IMAGEN a TIFF. Cargue su archivo IMAGEN 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Código de muestra para convertir IMAGEN a TIFF a través de la biblioteca de Excel Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="png" outformat="tiff" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Código de muestra para convertir IMAGEN a TIFF a través de la biblioteca de Excel Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="png" outformat="tiff" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="Cómo convertir IMAGEN a TIFF" %}}
 

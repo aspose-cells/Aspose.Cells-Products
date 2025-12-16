@@ -1,7 +1,7 @@
 ---
 title: Python XLS bis XLSX - XLS bis XLSX Konverter
-description: Aspose Excel. Python Excel. Konvertieren Sie XLS schnell und einfach in XLSX mit Aspose.Cells. Python XLS in XLSX. Python Speichern Sie XLS in XLSX. Speichern Sie XLS als XLSX mit der Python Excel-Bibliothek.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert XLS to XLSX in Python Excel Library., Save XLS to XLSX using Python Excel Library., Python XLS to XLSX saveformat., XLS to XLSX Converter., Python Save XLS as XLSX]
+description: Aspose Excel. Diese umfassende Lösung bietet Entwicklern einen vollständig integrierten Ansatz zur Konvertierung von XLS in das Format XLSX und ermöglicht das nahtlose Speichern von XLS-Daten im Format XLSX mithilfe der Aspose.Cells-Bibliothek – alles durch effizienten und anpassbaren Python-Code.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart XLS files to XLSX Converter for Python., Convert XLS to XLSX in Python., XLS files to XLSX Conversion in Python., Leverage intelligent data processing to automatically parse and save XLS into XLSX format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Konvertieren Sie XLS in XLSX in der Excel-Bibliothek Python" h2="Hochgeschwindigkeits-Excel-Bibliothek Python zum Konvertieren von XLS in XLSX. Verwenden Sie unsere Excel-Konvertierung API, um plattformunabhängige Software auf hohem Niveau in Python zu entwickeln." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSX" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -28,7 +28,7 @@ Befolgen Sie die einfachen Schritte, um XLS in XLSX zu konvertieren. Laden Sie I
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Beispielcode zur Konvertierung von XLS in XLSX über die Excel-Bibliothek Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xls" outformat="xlsx" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Beispielcode zur Konvertierung von XLS in XLSX über die Excel-Bibliothek Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="xls" outformat="xlsx" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="So konvertieren Sie XLS in XLSX" %}}
 

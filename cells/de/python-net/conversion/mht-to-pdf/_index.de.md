@@ -1,7 +1,7 @@
 ---
 title: Python MHT zu PDF - MHT zu PDF Konverter
-description: Aspose Excel. Python Excel. Konvertieren Sie MHT schnell und einfach in PDF mit Aspose.Cells. Python MHT in PDF. Python Speichern Sie MHT in PDF. Speichern Sie MHT als PDF mit der Python Excel-Bibliothek.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert MHT to PDF in Python Excel Library., Save MHT to PDF using Python Excel Library., Python MHT to PDF saveformat., MHT to PDF Converter., Python Save MHT as PDF]
+description: Aspose Excel. Diese umfassende Lösung bietet Entwicklern einen vollständig integrierten Ansatz zur Konvertierung von MHT in das Format PDF und ermöglicht das nahtlose Speichern von MHT-Daten im Format PDF mithilfe der Bibliothek Aspose.Cells – alles durch effizienten und anpassbaren Code Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart MHT files to PDF Converter for Python., Convert MHT to PDF in Python., MHT files to PDF Conversion in Python., Leverage intelligent data processing to automatically parse and save MHT into PDF format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Konvertieren Sie MHT in PDF in der Excel-Bibliothek Python" h2="Hochgeschwindigkeits-Excel-Bibliothek Python zur Konvertierung von MHT in PDF. Verwenden Sie unsere Excel-Konvertierung API, um plattformunabhängige Software auf hohem Niveau in Python zu entwickeln." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="PDF" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -28,7 +28,7 @@ Befolgen Sie die einfachen Schritte, um MHT in PDF zu konvertieren. Laden Sie Ih
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Beispielcode zur Konvertierung von MHT in PDF über die Excel-Bibliothek Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="mht" outformat="pdf" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Beispielcode zur Konvertierung von MHT in PDF über die Excel-Bibliothek Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="mht" outformat="pdf" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="So konvertieren Sie MHT in PDF" %}}
 

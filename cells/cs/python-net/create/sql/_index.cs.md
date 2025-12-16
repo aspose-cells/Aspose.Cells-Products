@@ -1,7 +1,7 @@
 ---
 title: Vytvořit SQL - Vytvořte soubor SQL v Python
-description: Aspose Excel. Python Excel. Python Vytvořte soubor SQL rychle a snadno pomocí Aspose.Cells. Vygenerujte soubor SQL pomocí knihovny Excel Python. Vytvořte SQL v knihovně Excel Python. Python SQL Creater.
-keywords: [Aspose Python Excel., Python Aspose.Cells., Python Create SQL file., Generate SQL file in Python Excel Library., Create SQL file using Python Excel Library., Write data to SQL file via Python Excel Library., Create a SQL file in Python Excel Library., Python Generate a SQL file., Python SQL Creater]
+description: Aspose Excel. Snadno generujte a manipulujte se soubory SQL pomocí knihovny Aspose.Cells for Python via .NET. Tato výkonná knihovna API poskytuje efektivní řešení pro vytváření, úpravu a správu souborů SQL přímo ve vašich aplikacích Python a splňuje specifické potřeby vývojářů s vysokou přesností.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Create SQL file., Generate SQL file in Python., Write data to SQL file via Python., Python SQL Creater., Aspose.Cells for Python via .NET is a powerful library that enables developers to programmatically create, generate, and manipulate SQL files in Python]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Vytvořte soubor SQL v knihovně Excel Python" h2="Vysokorychlostní Python knihovna Excel pro vytváření SQL souboru. Použijte naši konverzi Excel API k vývoji softwaru na vysoké úrovni, nezávislého na platformě v Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="SQL" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -99,7 +99,7 @@ Naše balíčky Python hostujeme v úložištích PyPi.
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/create/tsv/" name="TSV" description="Hodnoty oddělené záložkou" >}} 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/create/ods/" name="ODS" description="Tabulka OpenDocument" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/create/pdf/" name="PDF" description="Přenosný formát dokumentu" >}} 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/create/html/" name="HTML" description="Hyper Text Markup Language" >}} 
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/create/html/" name="HTML" description="Hypertextový značkovací jazyk" >}} 
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

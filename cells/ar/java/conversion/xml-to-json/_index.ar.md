@@ -1,7 +1,7 @@
 ---
 title: Java XML إلى JSON - XML إلى JSON محول
-description: Aspose اكسل. قم بتحويل XML إلى JSON بسرعة وسهولة باستخدام Aspose.Cells. Java XML إلى JSON. Java احفظ XML إلى JSON. احفظ XML كـ JSON باستخدام Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Convert XML to JSON in Java., Save XML to JSON using Java., Java XML to JSON saveformat., XML to JSON Converter., Java Save XML as JSON]
+description: Aspose إكسل. يوفر هذا الحل الشامل للمطورين Java نهجًا متكاملًا تمامًا لتحويل XML إلى تنسيق JSON، مما يتيح حفظ بيانات XML بسلاسة بتنسيق JSON باستخدام مكتبة Aspose.Cells، كل ذلك من خلال كود Java فعال وقابل للتخصيص.
+keywords: [Aspose Excel., Java Aspose.Cells., Smart XML files to JSON Converter for Java., Convert XML to JSON in Java., XML files to JSON Conversion in Java., Leverage intelligent data processing to automatically parse and save XML into JSON format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="تحويل XML إلى JSON في Java" h2="مكتبة Java عالية السرعة لتحويل XML إلى JSON. هذا حل برمجي احترافي لاستيراد وتصدير XML وJSON والعديد من التنسيقات الأخرى باستخدام Java." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="JSON" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="CSV" >}}
@@ -45,7 +45,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Convert XML to JSON in Java., Save
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="احفظ XML في JSON في Java" %}}
+{{% blocks/products/pf/agp/content h2="حفظ ملف XML في JSON في Java" %}}
 
 يوضح المثال التالي كيفية تحويل XML إلى JSON في Java.
 {{% blocks/products/pf/agp/text %}}
@@ -56,19 +56,19 @@ keywords: [Aspose Excel., Java Aspose.Cells., Convert XML to JSON in Java., Save
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="نموذج التعليمات البرمجية لتحويل XML إلى JSON" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xml" outformat="json" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="نموذج كود لتحويل XML إلى JSON" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="xml" outformat="json" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="كيفية تحويل XML إلى JSON via Java" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
-هل تحتاج إلى تحويل ملفات XML إلى JSON برمجياً؟ يمكن لمطوري Java تحويل XML بسهولة إلى JSON في بضعة أسطر من التعليمات البرمجية.
+هل تحتاج إلى تحويل ملفات XML إلى صيغة JSON برمجيًا؟ يمكن لمطوري Java تحويل XML بسهولة إلى صيغة JSON في بضعة أسطر من التعليمات البرمجية فقط.
 
 {{% /blocks/products/pf/agp/text %}}
 
-1.  قم بتثبيت "Aspose.Cells for Java".
+1.  قم بتثبيت 'Aspose.Cells for Java'.
 1.  أضف مرجع مكتبة (استيراد المكتبة) إلى مشروعك Java.
-1.  قم بتحميل ملف XML بمثيل لفئة Workbook.
+1.  قم بتحميل ملف XML باستخدام نسخة من فئة Workbook.
 1.  تحويل XML إلى JSON عن طريق استدعاء طريقة Workbook.save.
 1.  احصل على نتيجة تحويل XML إلى JSON.
 

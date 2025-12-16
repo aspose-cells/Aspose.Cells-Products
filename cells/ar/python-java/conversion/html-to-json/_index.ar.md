@@ -1,7 +1,7 @@
 ---
 title: Python HTML الى JSON - HTML الى JSON محول
-description: Aspose اكسل. Python اكسل. قم بتحويل HTML إلى JSON بسرعة وسهولة باستخدام Aspose.Cells. Python HTML إلى JSON. Python احفظ HTML إلى JSON. احفظ HTML كـ 076112 3481 باستخدام مكتبة إكسل Python.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert HTML to JSON in Python Excel Library., Save HTML to JSON using Python Excel Library., Python HTML to JSON saveformat., HTML to JSON Converter., Python Save HTML as JSON]
+description: Aspose Excel. يوفر هذا الحل الشامل للمطورين Python نهجًا متكاملًا تمامًا لتحويل HTML إلى تنسيق JSON، مما يتيح حفظ البيانات بسلاسة في تنسيق JSON باستخدام مكتبة Aspose.Cells، كل ذلك من خلال كود Python فعال وقابل للتخصيص.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart HTML files to JSON Converter for Python., Convert HTML to JSON in Python., HTML files to JSON Conversion in Python., Leverage intelligent data processing to automatically parse and save HTML into JSON format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="تحويل HTML إلى JSON في Python مكتبة إكسل" h2="مكتبة إكسل Python عالية السرعة لتحويل HTML إلى JSON. هذا حل برمجي احترافي لاستيراد وتصدير HTML، JSON، والعديد من التنسيقات الأخرى باستخدام Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="JSON" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -27,7 +27,7 @@ keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert H
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="نموذج التعليمات البرمجية لتحويل HTML إلى JSON عبر مكتبة Excel Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="html" outformat="json" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="نموذج التعليمات البرمجية لتحويل HTML إلى JSON عبر مكتبة Excel Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="html" outformat="json" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="كيفية تحويل HTML إلى JSON عبر Python" %}}
 

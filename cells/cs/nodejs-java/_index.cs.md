@@ -1,10 +1,10 @@
 ---
-title:  Node.js API pro tabulky Excel – Aspose
+title:  Node.js via Java API pro tabulky v Excelu - Aspose
 weight: 3120
-description: Zpracujte formáty souborů Excel prostřednictvím knihovny Node.js. Číst zápis vykreslování a převod XLS XLSX XLSB XLTX XLTM XLSM XML ODS CSV a další formáty prostřednictvím macOS & 481 Linux na Node.js 07681
+description: Zpracování formátů souborů Excel pomocí knihovny Node.js via Java. Čtení, zápis, vykreslování a převod XLS XLSX XLSB XLTX XLTM XLSM XML ODS CSV a dalších formátů pomocí Node.js via Java na Windows, macOS a Linux
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="Rozhraní Node.js Excel File Format API" h2="Vytvářejte, upravujte, převádějte a vykreslujte tabulky Excel pomocí Node.js, aniž byste potřebovali Microsoft Excel." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/headers/aspose_cells-for-nodejs-java.svg" pfName="Aspose.Cells" subTitlepfName="for Node.js via Java" downloadUrl="https://downloads.aspose.com/cells/nodejs" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="API pro formát souborů Excelu Node.js via Java" h2="Generujte, upravujte, převádějte a vykreslujte tabulky aplikace Excel pomocí Node.js via Java bez nutnosti Microsoft Excelu." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/headers/aspose_cells-for-nodejs-java.svg" pfName="Aspose.Cells" subTitlepfName="for Node.js via Java" downloadUrl="https://downloads.aspose.com/cells/nodejs" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells" subTitlepfName="for Node.js via Java" >}}
 
@@ -12,7 +12,7 @@ description: Zpracujte formáty souborů Excel prostřednictvím knihovny Node.j
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
-Aspose.Cells for Node.js via Java je funkčně bohatý a škálovatelný API pro zpracování tabulek Excelu pomocí Node.js. API nabízí převod formátu souboru aplikace Excel, stylování listů na nejpodrobnější úroveň, vytváření grafů &amp; vykreslování, spolehlivý motor pro výpočet vzorců a mnoho dalšího.
+ Aspose.Cells for Node.js via Java je funkčně bohatý a škálovatelný nástroj API pro zpracování excelových tabulek pomocí Node.js via Java. API nabízí konverzi formátů souborů Excel, stylování pracovních listů na nejjemnější úrovni, vytváření a vykreslování grafů, spolehlivý výpočetní engine pro vzorce a mnoho dalšího.
 </p>
 
 <p>
@@ -271,7 +271,7 @@ Pouze výstup
  <div class="row">
   <div class="container">
    <h2 class="pr-ft">
- Rozšířené funkce tabulky Excel Node.js API
+ Pokročilé funkce Node.js via Java Tabulka Excelu API
    </h2>
    <p>
    </p>
@@ -343,7 +343,7 @@ Pouze výstup
  Vykreslování Excelových tabulek
     </h2>
     <p>
-Aspose.Cells for Node.js via Java používá svůj vykreslovací modul pro vykreslování do Excelu Microsoft s nejvyšší věrností. Při používání knihovny Excel Processing Node.js lze převádět celé listy, jednotlivé soubory nebo grafy na více obrázků a formátů s pevným rozvržením.
+ Aspose.Cells for Node.js via Java používá svůj renderovací engine pro vykreslování do Excelu s nejvyšší věrností. Pomocí knihovny Node.js via Java pro zpracování Excelu lze převádět celé listy, jednotlivé soubory nebo grafy do více obrázků a formátů s pevným rozvržením.
     </p>
    </div>
    <div class="col-lg-12">
@@ -415,7 +415,7 @@ Aspose.Cells for Node.js via Java poskytuje plnou podporu pro vytváření graf�
 
 {{< /blocks/products/pf/i18n/support-learning-resources >}}
 
-{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://downloads.aspose.com/cells/nodejs" pricingInformationLink="https://purchase.aspose.com/pricing/cells/nodejs-java" >}}
+{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://releases.aspose.com/cells/nodejs/" pricingInformationLink="https://purchase.aspose.com/pricing/cells/nodejs-java" >}}
 
 {{< blocks/products/pf/offers-section pfName="Aspose.Cells" description="Aspose.Cells nabízí jednotlivá rozhraní API aplikace Excel pro další populární vývojová prostředí, jak je uvedeno níže:" >}}
 

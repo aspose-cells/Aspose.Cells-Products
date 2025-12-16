@@ -1,7 +1,7 @@
 ---
 title: Python TABDELIMITED zu OTS - TABDELIMITED zu OTS Konverter
-description: Aspose Excel. Python Excel. Konvertieren Sie TABDELIMITED schnell und einfach in OTS mit Aspose.Cells. Python TABDELIMITED in OTS. Python Speichern Sie TABDELIMITED in OTS. Speichern Sie TABDELIMITED als OTS mit Python Excel-Bibliothek.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert TABDELIMITED to OTS in Python Excel Library., Save TABDELIMITED to OTS using Python Excel Library., Python TABDELIMITED to OTS saveformat., TABDELIMITED to OTS Converter., Python Save TABDELIMITED as OTS]
+description: Aspose Excel. Diese umfassende Lösung bietet Entwicklern einen vollständig integrierten Ansatz zur Konvertierung von TABDELIMITED-Daten in das OTS-Format und ermöglicht so das nahtlose Speichern von TABDELIMITED-Daten im OTS-Format mithilfe der Bibliothek Aspose.Cells – alles durch effizienten und anpassbaren Code Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart TABDELIMITED files to OTS Converter for Python., Convert TABDELIMITED to OTS in Python., TABDELIMITED files to OTS Conversion in Python., Leverage intelligent data processing to automatically parse and save TABDELIMITED into OTS format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Konvertieren Sie TABDELIMITED in OTS in der Excel-Bibliothek Python" h2="Hochgeschwindigkeits-Excel-Bibliothek Python zum Konvertieren von TABDELIMITED in OTS. Dies ist eine professionelle Softwarelösung zum Importieren und Exportieren von TABDELIMITED, OTS und vielen anderen Formaten mit Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="OTS" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -27,7 +27,7 @@ Befolgen Sie die einfachen Schritte, um TABDELIMITED in OTS zu konvertieren. Lad
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Beispielcode zur Konvertierung von TABDELIMITED in OTS über die Excel-Bibliothek Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="tsv" outformat="ots" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="Beispielcode zur Konvertierung von TABDELIMITED in OTS über die Excel-Bibliothek Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="tsv" outformat="ots" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="So konvertieren Sie TABDELIMITED in OTS über Python" %}}
 

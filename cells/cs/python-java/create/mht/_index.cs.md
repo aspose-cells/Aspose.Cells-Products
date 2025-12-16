@@ -1,7 +1,7 @@
 ---
 title: Vytvořit MHT – Vytvořte soubor MHT v Python
-description:  Aspose Excel. Python Excel. Python Vytvořte soubor MHT rychle a snadno pomocí Aspose.Cells. Vygenerujte soubor MHT pomocí knihovny Excel Python. Vytvořte MHT v knihovně Excel Python. Python MHT Creater.
-keywords: [Aspose Python Excel., Python Aspose.Cells., Python Create MHT file., Generate MHT file in Python Excel Library., Create MHT file using Python Excel Library., Write data to MHT file via Python Excel Library., Create a MHT file in Python Excel Library., Python Generate a MHT file., Python MHT Creater]
+description: Aspose Excel. Snadno generujte a manipulujte se soubory MHT pomocí knihovny Aspose.Cells for Python via Java. Tato výkonná knihovna API poskytuje efektivní řešení pro vytváření, úpravu a správu souborů MHT přímo ve vašich aplikacích Python a splňuje specifické potřeby vývojářů s vysokou přesností.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Create MHT file., Generate MHT file in Python., Write data to MHT file via Python., Python MHT Creater., Aspose.Cells for Python via Java is a powerful library that enables developers to programmatically create, generate, and manipulate MHT files in Python]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Vytvořte soubor MHT v knihovně Excel Python" h2="Vysokorychlostní Python Excel knihovna pro vytváření MHT souboru. Toto je profesionální softwarové řešení pro import a export XLSX, PDF a mnoha dalších formátů pomocí Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="MHT" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -108,7 +108,7 @@ Aspose.Cells for Python via Java je nezávislý na platformě API a lze jej pou�
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/create/tsv/" name="TSV" description="Hodnoty oddělené záložkou" >}} 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/create/ods/" name="ODS" description="Tabulka OpenDocument" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/create/pdf/" name="PDF" description="Přenosný formát dokumentu" >}} 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/create/html/" name="HTML" description="Hyper Text Markup Language" >}} 
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/create/html/" name="HTML" description="Hypertextový značkovací jazyk" >}} 
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

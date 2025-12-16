@@ -1,7 +1,7 @@
 ---
 title: Java IMAGEN a MARKDOWN - Convertidor IMAGEN a MARKDOWN
-description: Aspose Excel. Convierta IMAGEN a MARKDOWN rápida y fácilmente con Aspose.Cells. Java IMAGEN a MARKDOWN. Java Guarde IMAGEN en MARKDOWN. Guarde IMAGEN como MARKDOWN usando Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Convert IMAGE to MARKDOWN in Java., Save IMAGE to MARKDOWN using Java., Java IMAGE to MARKDOWN saveformat., IMAGE to MARKDOWN Converter., Java Save IMAGE as MARKDOWN]
+description: Aspose Excel. Esta solución integral ofrece a los desarrolladores de Java un enfoque totalmente integrado para convertir imágenes al formato MARKDOWN, lo que permite guardar sin problemas los datos de imágenes en el formato MARKDOWN mediante la biblioteca Aspose.Cells, todo mediante código Java eficiente y personalizable.
+keywords: [Aspose Excel., Java Aspose.Cells., Smart IMAGE files to MARKDOWN Converter for Java., Convert IMAGE to MARKDOWN in Java., IMAGE files to MARKDOWN Conversion in Java., Leverage intelligent data processing to automatically parse and save IMAGE into MARKDOWN format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Convertir IMAGEN a MARKDOWN en Java" h2="Biblioteca Java de alta velocidad para convertir IMAGEN a MARKDOWN. Esta es una solución de software profesional para importar y exportar IMAGEN, MARKDOWN y muchos otros formatos utilizando Java." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="MARKDOWN" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="CSV" >}}
@@ -45,7 +45,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Convert IMAGE to MARKDOWN in Java.
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Guardar IMAGEN al MARKDOWN en Java" %}}
+{{% blocks/products/pf/agp/content h2="Guardar IMAGEN en MARKDOWN en Java" %}}
 
 El siguiente ejemplo demuestra cómo convertir IMAGEN a MARKDOWN en Java.
 {{% blocks/products/pf/agp/text %}}
@@ -56,17 +56,17 @@ Siga los sencillos pasos para convertir IMAGEN a MARKDOWN. Cargue su archivo IMA
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Código de muestra para convertir IMAGEN a MARKDOWN" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="png" outformat="md" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Código de muestra para convertir IMAGEN a MARKDOWN" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="png" outformat="md" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="Cómo convertir IMAGEN a MARKDOWN via Java" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
-¿Necesita convertir archivos de IMAGEN a MARKDOWN mediante programación? Los desarrolladores de Java pueden convertir fácilmente IMAGEN a MARKDOWN con solo unas pocas líneas de código.
+¿Necesitas convertir archivos de IMAGEN a MARKDOWN mediante programación? Los desarrolladores de Java pueden convertir fácilmente IMAGEN a MARKDOWN con solo unas pocas líneas de código.
 
 {{% /blocks/products/pf/agp/text %}}
 
-1.  Instale 'Aspose.Cells for Java'.
+1.  Instalar 'Aspose.Cells for Java'.
 1.  Agregue una referencia de biblioteca (importe la biblioteca) a su proyecto Java.
 1.  Cargue el archivo IMAGEN con una instancia de la clase Workbook.
 1.  Convierta IMAGEN a MARKDOWN llamando al método Workbook.save.
@@ -74,7 +74,7 @@ Siga los sencillos pasos para convertir IMAGEN a MARKDOWN. Cargue su archivo IMA
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Biblioteca Java para convertir IMAGEN a MARKDOWN" %}}
+{{% blocks/products/pf/agp/content h2="Java biblioteca para convertir IMAGEN a MARKDOWN" %}}
 {{% blocks/products/pf/agp/text %}}
 
  Alojamos nuestros paquetes Java en[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) repositorios. 'Aspose.Cells for Java' es un archivo JAR común que contiene código de bytes. Por favor sigue el[instrucciones paso a paso](https://docs.aspose.com/cells/java/installation/) sobre cómo instalarlo en su entorno de desarrollador Java.

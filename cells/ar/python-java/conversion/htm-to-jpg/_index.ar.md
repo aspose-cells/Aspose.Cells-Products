@@ -1,7 +1,7 @@
 ---
 title: Python HTM إلى JPG - محول HTM إلى JPG
-description: Aspose اكسل. Python اكسل. قم بتحويل HTM إلى JPG بسرعة وسهولة باستخدام Aspose.Cells. Python HTM إلى JPG. Python حفظ HTM إلى JPG. احفظ HTM بتنسيق JPG باستخدام مكتبة Excel Python.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert HTM to JPG in Python Excel Library., Save HTM to JPG using Python Excel Library., Python HTM to JPG saveformat., HTM to JPG Converter., Python Save HTM as JPG]
+description: Aspose إكسل. يوفر هذا الحل الشامل للمطورين Python نهجًا متكاملًا تمامًا لتحويل ملفات HTM إلى تنسيق JPG، مما يتيح حفظ بيانات HTM بسلاسة بتنسيق JPG باستخدام مكتبة Aspose.Cells، كل ذلك من خلال كود Python فعال وقابل للتخصيص.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart HTM files to JPG Converter for Python., Convert HTM to JPG in Python., HTM files to JPG Conversion in Python., Leverage intelligent data processing to automatically parse and save HTM into JPG format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="تحويل HTM إلى JPG في مكتبة Excel Python" h2="مكتبة إكسل Python عالية السرعة لتحويل HTM إلى JPG. يعد هذا حلاً برمجيًا احترافيًا لاستيراد وتصدير HTM وJPG والعديد من التنسيقات الأخرى باستخدام Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="JPG" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -27,7 +27,7 @@ keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert H
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="نموذج التعليمات البرمجية لتحويل HTM إلى JPG عبر مكتبة Excel Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="htm" outformat="jpg" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="نموذج التعليمات البرمجية لتحويل HTM إلى JPG عبر مكتبة Excel Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="htm" outformat="jpg" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="كيفية تحويل HTM إلى JPG عبر Python" %}}
 

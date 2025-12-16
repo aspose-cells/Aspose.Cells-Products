@@ -1,7 +1,7 @@
 ---
 title: Python TSV إلى EXCEL - TSV إلى EXCEL محول
-description: Aspose اكسل. Python اكسل. تحويل TSV إلى EXCEL بسرعة وسهولة مع Aspose.Cells. Python TSV إلى EXCEL. Python احفظ TSV إلى EXCEL. احفظ TSV كـ EXCEL باستخدام مكتبة Excel Python.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert TSV to EXCEL in Python Excel Library., Save TSV to EXCEL using Python Excel Library., Python TSV to EXCEL saveformat., TSV to EXCEL Converter., Python Save TSV as EXCEL]
+description: Aspose إكسل. يوفر هذا الحل الشامل للمطورين Python نهجًا متكاملًا تمامًا لتحويل TSV إلى تنسيق إكسل، مما يتيح حفظ البيانات بسلاسة في تنسيق إكسل باستخدام مكتبة Aspose.Cells، كل ذلك من خلال كود Python فعال وقابل للتخصيص.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart TSV files to EXCEL Converter for Python., Convert TSV to EXCEL in Python., TSV files to EXCEL Conversion in Python., Leverage intelligent data processing to automatically parse and save TSV into EXCEL format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="تحويل TSV إلى EXCEL في مكتبة Excel Python" h2="مكتبة اكسل Python عالية السرعة لتحويل TSV إلى EXCEL. يعد هذا حلاً برمجيًا احترافيًا لاستيراد وتصدير TSV وEXCEL والعديد من التنسيقات الأخرى باستخدام Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="EXCEL" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -27,7 +27,7 @@ keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert T
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="نموذج التعليمات البرمجية لتحويل TSV إلى EXCEL عبر مكتبة Excel Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="tsv" outformat="xlsx" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="نموذج التعليمات البرمجية لتحويل TSV إلى EXCEL عبر مكتبة Excel Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="tsv" outformat="xlsx" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="كيفية تحويل TSV إلى EXCEL عبر Python" %}}
 

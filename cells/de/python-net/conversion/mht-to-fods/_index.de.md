@@ -1,7 +1,7 @@
 ---
 title: Python MHT zu FODS - MHT zu FODS Konverter
-description: Aspose Excel. Python Excel. Konvertieren Sie MHT schnell und einfach in FODS mit Aspose.Cells. Python MHT in FODS. Python Speichern Sie MHT in FODS. Speichern Sie MHT als FODS mit der Python Excel-Bibliothek.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert MHT to FODS in Python Excel Library., Save MHT to FODS using Python Excel Library., Python MHT to FODS saveformat., MHT to FODS Converter., Python Save MHT as FODS]
+description: Aspose Excel. Diese umfassende Lösung bietet Entwicklern einen vollständig integrierten Ansatz zur Konvertierung von MHT in das Format FODS und ermöglicht das nahtlose Speichern von MHT-Daten im Format FODS mithilfe der Bibliothek Aspose.Cells – alles durch effizienten und anpassbaren Code Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart MHT files to FODS Converter for Python., Convert MHT to FODS in Python., MHT files to FODS Conversion in Python., Leverage intelligent data processing to automatically parse and save MHT into FODS format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Konvertieren Sie MHT in FODS in der Excel-Bibliothek Python" h2="Hochgeschwindigkeits-Excel-Bibliothek Python zur Konvertierung von MHT in FODS. Verwenden Sie unsere Excel-Konvertierung API, um plattformunabhängige Software auf hohem Niveau in Python zu entwickeln." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="FODS" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -28,7 +28,7 @@ Befolgen Sie die einfachen Schritte, um MHT in FODS zu konvertieren. Laden Sie I
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Beispielcode zur Konvertierung von MHT in FODS über die Excel-Bibliothek Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="mht" outformat="fods" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Beispielcode zur Konvertierung von MHT in FODS über die Excel-Bibliothek Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="mht" outformat="fods" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="So konvertieren Sie MHT in FODS" %}}
 

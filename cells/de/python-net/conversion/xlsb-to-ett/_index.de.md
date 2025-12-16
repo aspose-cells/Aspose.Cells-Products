@@ -1,7 +1,7 @@
 ---
 title: Python XLSB zu ETT - XLSB zu ETT Konverter
-description: Aspose Excel. Python Excel. Konvertieren Sie XLSB schnell und einfach in ETT mit Aspose.Cells. Python XLSB in ETT. Python Speichern Sie XLSB in ETT. Speichern Sie XLSB als ETT mit der Python Excel-Bibliothek.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert XLSB to ETT in Python Excel Library., Save XLSB to ETT using Python Excel Library., Python XLSB to ETT saveformat., XLSB to ETT Converter., Python Save XLSB as ETT]
+description: Aspose Excel. Diese umfassende Lösung bietet Entwicklern einen vollständig integrierten Ansatz zur Konvertierung von XLSB in das ETT-Format und ermöglicht das nahtlose Speichern von XLSB-Daten im ETT-Format mithilfe der Aspose.Cells-Bibliothek, alles durch effizienten und anpassbaren Python-Code.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart XLSB files to ETT Converter for Python., Convert XLSB to ETT in Python., XLSB files to ETT Conversion in Python., Leverage intelligent data processing to automatically parse and save XLSB into ETT format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Konvertieren Sie XLSB in ETT in der Excel-Bibliothek Python" h2="Hochgeschwindigkeits-Excel-Bibliothek Python zur Konvertierung von XLSB in ETT. Verwenden Sie unsere Excel-Konvertierung API, um hochrangige, plattformunabhängige Software in Python zu entwickeln." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="ETT" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -28,7 +28,7 @@ Befolgen Sie die einfachen Schritte, um XLSB in ETT zu konvertieren. Laden Sie I
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Beispielcode zur Konvertierung von XLSB in ETT über die Excel-Bibliothek Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsb" outformat="ett" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Beispielcode zur Konvertierung von XLSB in ETT über die Excel-Bibliothek Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="xlsb" outformat="ett" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="So konvertieren Sie XLSB in ETT" %}}
 

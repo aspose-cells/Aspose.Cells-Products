@@ -1,7 +1,7 @@
 ---
 title: Java XML إلى ODS - XML إلى ODS محول
-description: Aspose اكسل. قم بتحويل XML إلى ODS بسرعة وسهولة باستخدام Aspose.Cells. Java XML إلى ODS. Java احفظ XML إلى ODS. احفظ XML كـ ODS باستخدام Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Convert XML to ODS in Java., Save XML to ODS using Java., Java XML to ODS saveformat., XML to ODS Converter., Java Save XML as ODS]
+description: Aspose إكسل. يوفر هذا الحل الشامل للمطورين Java نهجًا متكاملًا تمامًا لتحويل XML إلى تنسيق ODS، مما يتيح حفظ بيانات XML بسلاسة بتنسيق ODS باستخدام مكتبة Aspose.Cells، كل ذلك من خلال كود Java فعال وقابل للتخصيص.
+keywords: [Aspose Excel., Java Aspose.Cells., Smart XML files to ODS Converter for Java., Convert XML to ODS in Java., XML files to ODS Conversion in Java., Leverage intelligent data processing to automatically parse and save XML into ODS format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="تحويل XML إلى ODS في Java" h2="مكتبة Java عالية السرعة لتحويل XML إلى ODS. هذا حل برمجي احترافي لاستيراد وتصدير XML وODS والعديد من التنسيقات الأخرى باستخدام Java." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="ODS" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="CSV" >}}
@@ -45,7 +45,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Convert XML to ODS in Java., Save 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="احفظ XML في ODS في Java" %}}
+{{% blocks/products/pf/agp/content h2="حفظ ملف XML في ODS في Java" %}}
 
 يوضح المثال التالي كيفية تحويل XML إلى ODS في Java.
 {{% blocks/products/pf/agp/text %}}
@@ -56,19 +56,19 @@ keywords: [Aspose Excel., Java Aspose.Cells., Convert XML to ODS in Java., Save 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="نموذج التعليمات البرمجية لتحويل XML إلى ODS" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xml" outformat="ods" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="نموذج كود لتحويل XML إلى ODS" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="xml" outformat="ods" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="كيفية تحويل XML إلى ODS via Java" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
-هل تحتاج إلى تحويل ملفات XML إلى ODS برمجياً؟ يمكن لمطوري Java تحويل XML بسهولة إلى ODS في بضعة أسطر من التعليمات البرمجية.
+هل تحتاج إلى تحويل ملفات XML إلى صيغة ODS برمجيًا؟ يمكن لمطوري Java تحويل XML بسهولة إلى صيغة ODS في بضعة أسطر من التعليمات البرمجية فقط.
 
 {{% /blocks/products/pf/agp/text %}}
 
-1.  قم بتثبيت "Aspose.Cells for Java".
+1.  قم بتثبيت 'Aspose.Cells for Java'.
 1.  أضف مرجع مكتبة (استيراد المكتبة) إلى مشروعك Java.
-1.  قم بتحميل ملف XML بمثيل لفئة Workbook.
+1.  قم بتحميل ملف XML باستخدام نسخة من فئة Workbook.
 1.  تحويل XML إلى ODS عن طريق استدعاء طريقة Workbook.save.
 1.  احصل على نتيجة تحويل XML إلى ODS.
 

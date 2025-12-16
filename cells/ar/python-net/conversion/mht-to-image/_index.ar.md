@@ -1,7 +1,7 @@
 ---
 title: Python MHT إلى IMAGE - MHT إلى IMAGE المحول
-description: Aspose اكسل. Python اكسل. قم بتحويل MHT إلى IMAGE بسرعة وسهولة باستخدام Aspose.Cells. Python MHT إلى IMAGE. Python احفظ MHT في IMAGE. احفظ MHT كصورة باستخدام مكتبة Excel Python.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert MHT to IMAGE in Python Excel Library., Save MHT to IMAGE using Python Excel Library., Python MHT to IMAGE saveformat., MHT to IMAGE Converter., Python Save MHT as IMAGE]
+description: Aspose Excel. يوفر هذا الحل الشامل للمطورين Python نهجًا متكاملًا تمامًا لتحويل MHT إلى تنسيق IMAGE، مما يتيح حفظ بيانات MHT بسلاسة في تنسيق IMAGE باستخدام مكتبة Aspose.Cells، كل ذلك من خلال كود Python فعال وقابل للتخصيص.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart MHT files to IMAGE Converter for Python., Convert MHT to IMAGE in Python., MHT files to IMAGE Conversion in Python., Leverage intelligent data processing to automatically parse and save MHT into IMAGE format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="تحويل MHT إلى IMAGE في مكتبة Excel Python" h2="مكتبة إكسل Python عالية السرعة لتحويل MHT إلى IMAGE. استخدم تحويل Excel API لتطوير برامج مستقلة عالية المستوى للنظام الأساسي في Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="IMAGE" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -28,7 +28,7 @@ keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert M
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="نموذج التعليمات البرمجية لتحويل MHT إلى IMAGE عبر مكتبة Excel Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="mht" outformat="png" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="نموذج التعليمات البرمجية لتحويل MHT إلى IMAGE عبر مكتبة Excel Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="mht" outformat="png" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="كيفية تحويل MHT إلى صورة" %}}
 

@@ -1,7 +1,7 @@
 ---
 title: تحويل Python MHT إلى SVG - تحويل MHT إلى SVG
-description: Aspose اكسل. Python اكسل. قم بتحويل MHT إلى SVG بسرعة وسهولة باستخدام Aspose.Cells. Python MHT إلى SVG. Python احفظ MHT إلى SVG. احفظ MHT كـ SVG باستخدام مكتبة Excel Python.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert MHT to SVG in Python Excel Library., Save MHT to SVG using Python Excel Library., Python MHT to SVG saveformat., MHT to SVG Converter., Python Save MHT as SVG]
+description: Aspose Excel. يوفر هذا الحل الشامل للمطورين Python نهجًا متكاملًا تمامًا لتحويل MHT إلى تنسيق SVG، مما يتيح حفظ بيانات MHT بسلاسة في تنسيق SVG باستخدام مكتبة Aspose.Cells، كل ذلك من خلال كود Python فعال وقابل للتخصيص.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart MHT files to SVG Converter for Python., Convert MHT to SVG in Python., MHT files to SVG Conversion in Python., Leverage intelligent data processing to automatically parse and save MHT into SVG format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="تحويل MHT إلى SVG في مكتبة Excel Python" h2="مكتبة Excel Python عالية السرعة لتحويل MHT إلى SVG. هذا حل برمجي احترافي لاستيراد وتصدير MHT وSVG والعديد من التنسيقات الأخرى باستخدام Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="SVG" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -27,7 +27,7 @@ keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert M
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="نموذج التعليمات البرمجية لتحويل MHT إلى SVG عبر مكتبة Excel Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="mht" outformat="svg" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="نموذج التعليمات البرمجية لتحويل MHT إلى SVG عبر مكتبة Excel Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="mht" outformat="svg" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="كيفية تحويل MHT إلى SVG عبر Python" %}}
 

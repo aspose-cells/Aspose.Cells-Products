@@ -1,7 +1,7 @@
 ---
 title: Python XLTM έως XLTM - XLTM έως XLTM Μετατροπέας
-description: Aspose Excel. Python Excel. Μετατρέψτε το XLTM σε XLTM γρήγορα και εύκολα με Aspose.Cells. Python XLTM σε XLTM. Python Αποθήκευση 076193411 ως 307 61123481 χρησιμοποιώντας Python Βιβλιοθήκη Excel.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert XLTM to XLTM in Python Excel Library., Save XLTM to XLTM using Python Excel Library., Python XLTM to XLTM saveformat., XLTM to XLTM Converter., Python Save XLTM as XLTM]
+description: Aspose Excel. Αυτή η ολοκληρωμένη λύση παρέχει στους προγραμματιστές Python μια πλήρως ενσωματωμένη προσέγγιση για τη μετατροπή της μορφής XLTM σε XLTM, επιτρέποντας την απρόσκοπτη αποθήκευση δεδομένων XLTM σε μορφή XLTM χρησιμοποιώντας τη βιβλιοθήκη Aspose.Cells, μέσω αποτελεσματικού και προσαρμόσιμου κώδικα Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart XLTM files to XLTM Converter for Python., Convert XLTM to XLTM in Python., XLTM files to XLTM Conversion in Python., Leverage intelligent data processing to automatically parse and save XLTM into XLTM format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Μετατροπή XLTM σε XLTM στο Python Excel Library" h2="Βιβλιοθήκη excel υψηλής ταχύτητας Python για μετατροπή XLTM σε XLTM. Χρησιμοποιήστε τη μετατροπή excel API για να αναπτύξετε λογισμικό υψηλού επιπέδου, ανεξάρτητο από πλατφόρμα στο Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLTM" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -28,7 +28,7 @@ keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert X
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Δείγμα κώδικα για μετατροπή XLTM σε XLTM μέσω Python Excel Library" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xltm" outformat="xltm" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Δείγμα κώδικα για μετατροπή XLTM σε XLTM μέσω Python Excel Library" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="xltm" outformat="xltm" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="Πώς να μετατρέψετε το XLTM σε XLTM" %}}
 

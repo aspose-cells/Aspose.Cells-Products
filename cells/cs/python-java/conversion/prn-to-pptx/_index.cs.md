@@ -1,7 +1,7 @@
 ---
 title: Python PRN na PPTX - Převodník PRN na PPTX
-description: Aspose Excel. Python Excel. Převeďte PRN na PPTX rychle a snadno pomocí Aspose.Cells. Python PRN na PPTX. Python Uložit PRN na PPTX. Uložit PRN jako 07618341981 pomocí knihovny Excel 07
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert PRN to PPTX in Python Excel Library., Save PRN to PPTX using Python Excel Library., Python PRN to PPTX saveformat., PRN to PPTX Converter., Python Save PRN as PPTX]
+description: Aspose Excel. Toto komplexní řešení poskytuje vývojářům Python plně integrovaný přístup k převodu PRN do formátu PPTX, což umožňuje bezproblémové ukládání dat PRN do formátu PPTX pomocí knihovny Aspose.Cells, a to vše prostřednictvím efektivního a přizpůsobitelného kódu Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart PRN files to PPTX Converter for Python., Convert PRN to PPTX in Python., PRN files to PPTX Conversion in Python., Leverage intelligent data processing to automatically parse and save PRN into PPTX format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Převést PRN na PPTX v knihovně Excel Python" h2="Vysokorychlostní knihovna Excel Python pro převod PRN na PPTX. Jedná se o profesionální softwarové řešení pro import a export PRN, PPTX a mnoha dalších formátů pomocí Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="PPTX" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -27,7 +27,7 @@ Postupujte podle jednoduchých kroků pro převod PRN na PPTX. Nahrajte svůj so
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Ukázkový kód pro převod PRN na PPTX prostřednictvím knihovny Excel Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="prn" outformat="pptx" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="Ukázkový kód pro převod PRN na PPTX prostřednictvím knihovny Excel Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="prn" outformat="pptx" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="Jak převést PRN na PPTX přes Python" %}}
 
@@ -84,8 +84,8 @@ Aspose.Cells for Python via Java je nezávislý na platformě API a lze jej pou�
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/prn-to-bmp/" name="PRN NA BMP" description="Bitmapový obrázek" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/prn-to-emf/" name="PRN NA EMF" description="Vylepšený formát metasouborů" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/prn-to-gif/" name="PRN NA GIF" description="Grafický výměnný formát" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/prn-to-html/" name="PRN NA HTML" description="Hyper Text Markup Language" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/prn-to-md/" name="PRN MD" description="Markdown Language" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/prn-to-html/" name="PRN NA HTML" description="Hypertextový značkovací jazyk" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/prn-to-md/" name="PRN MD" description="Jazyk Markdown" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/prn-to-mhtml/" name="PRN NA MHTML" description="Formát archivu webové stránky" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/prn-to-ods/" name="PRN NA ODS" description="Soubor tabulkového procesoru OpenDocument" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/prn-to-pdf/" name="PRN NA PDF" description="Přenosný formát dokumentu" >}}
@@ -101,7 +101,7 @@ Aspose.Cells for Python via Java je nezávislý na platformě API a lze jej pou�
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/prn-to-xlt/" name="PRN NA XLT" description="Microsoft Excel šablona" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/prn-to-xltm/" name="PRN NA XLTM" description="Šablona s podporou maker aplikace Excel" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/prn-to-xltx/" name="PRN NA XLTX" description="Šablona Office OpenXML Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/prn-to-xml/" name="PRN TO XML" description="Rozšiřitelný značkovací jazyk" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/prn-to-xml/" name="PRN DO XML" description="Rozšiřitelný značkovací jazyk" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/prn-to-xps/" name="PRN NA XPS" description="Specifikace papíru XML" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/prn-to-json/" name="PRN NA JSON" description="Zápis objektů JavaScript" >}}
 

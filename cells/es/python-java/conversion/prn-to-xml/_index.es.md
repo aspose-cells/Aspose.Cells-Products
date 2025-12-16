@@ -1,7 +1,7 @@
 ---
 title: Python PRN a XML - Convertidor PRN a XML
-description: Aspose Excel. Python Excel. Convierta PRN a XML rápida y fácilmente con Aspose.Cells. Python PRN a XML. Python Guardar PRN en XML. Guarde PRN como XML utilizando la biblioteca de Excel Python.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert PRN to XML in Python Excel Library., Save PRN to XML using Python Excel Library., Python PRN to XML saveformat., PRN to XML Converter., Python Save PRN as XML]
+description: Aspose Excel. Esta solución integral proporciona a los desarrolladores de Python un enfoque totalmente integrado para convertir PRN a formato XML, lo que permite guardar datos PRN en formato XML sin problemas mediante la biblioteca Aspose.Cells, todo mediante código Python eficiente y personalizable.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart PRN files to XML Converter for Python., Convert PRN to XML in Python., PRN files to XML Conversion in Python., Leverage intelligent data processing to automatically parse and save PRN into XML format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Convierta PRN a XML en la biblioteca de Excel Python" h2="Biblioteca Excel Python de alta velocidad para convertir PRN a XML. Esta es una solución de software profesional para importar y exportar PRN, XML y muchos otros formatos utilizando Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="XML" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -27,7 +27,7 @@ Siga los sencillos pasos para convertir PRN a XML. Cargue su archivo PRN y luego
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Código de muestra para convertir PRN a XML a través de la biblioteca de Excel Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="prn" outformat="xml" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="Código de muestra para convertir PRN a XML a través de la biblioteca de Excel Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="prn" outformat="xml" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="Cómo convertir PRN a XML mediante Python" %}}
 

@@ -1,7 +1,7 @@
 ---
 title: إنشاء ET - إنشاء ملف ET في Python
-description:  Aspose اكسل. Python اكسل. Python قم بإنشاء ملف ET بسرعة وسهولة باستخدام Aspose.Cells. قم بإنشاء ملف ET باستخدام مكتبة Excel Python. إنشاء ET في مكتبة Excel Python. Python منشئ ET.
-keywords: [Aspose Python Excel., Python Aspose.Cells., Python Create ET file., Generate ET file in Python Excel Library., Create ET file using Python Excel Library., Write data to ET file via Python Excel Library., Create a ET file in Python Excel Library., Python Generate a ET file., Python ET Creater]
+description: Aspose إكسل. أنشئ ملفات ET وتعامل معها بسهولة تامة باستخدام مكتبة Aspose.Cells for Python via Java. توفر هذه المكتبة القوية API حلاً مبسطًا وفعالًا لإنشاء ملفات ET وتعديلها وإدارتها مباشرةً ضمن تطبيقاتك Python، مما يلبي احتياجات المطورين بدقة عالية.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Create ET file., Generate ET file in Python., Write data to ET file via Python., Python ET Creater., Aspose.Cells for Python via Java is a powerful library that enables developers to programmatically create, generate, and manipulate ET files in Python]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="إنشاء ملف ET في مكتبة Excel Python" h2="مكتبة إكسيل Python عالية السرعة لإنشاء ملف ET. هذا حل برمجي احترافي لاستيراد وتصدير XLSX وPDF والعديد من التنسيقات الأخرى باستخدام Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="ET" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}

@@ -1,7 +1,7 @@
 ---
 title: Python HTM به MARKDOWN - تبدیل HTM به MARKDOWN
-description: Aspose اکسل. Python اکسل. HTM را به سرعت و به راحتی با Aspose.Cells تبدیل کنید.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert HTM to MARKDOWN in Python Excel Library., Save HTM to MARKDOWN using Python Excel Library., Python HTM to MARKDOWN saveformat., HTM to MARKDOWN Converter., Python Save HTM as MARKDOWN]
+description: Aspose اکسل. این راهکار جامع، رویکردی کاملاً یکپارچه برای تبدیل فرمت HTM به فرمت MARKDOWN در اختیار توسعه‌دهندگان Python قرار می‌دهد و امکان ذخیره یکپارچه داده‌های HTM به فرمت MARKDOWN را با استفاده از کتابخانه Aspose.Cells، از طریق کد کارآمد و قابل تنظیم Python، فراهم می‌کند.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart HTM files to MARKDOWN Converter for Python., Convert HTM to MARKDOWN in Python., HTM files to MARKDOWN Conversion in Python., Leverage intelligent data processing to automatically parse and save HTM into MARKDOWN format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="تبدیل HTM به MARKDOWN در Python Excel Library" h2="کتابخانه اکسل پرسرعت Python برای تبدیل HTM به MARKDOWN. از تبدیل اکسل API ما برای توسعه نرم افزار سطح بالا و مستقل از پلت فرم در Python استفاده کنید." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="MARKDOWN" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -28,7 +28,7 @@ keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert H
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="کد نمونه برای تبدیل HTM به MARKDOWN از طریق Python Excel Library" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="htm" outformat="md" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="کد نمونه برای تبدیل HTM به MARKDOWN از طریق Python Excel Library" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="htm" outformat="md" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="چگونه HTM را به MARKDOWN تبدیل کنیم" %}}
 

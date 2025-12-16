@@ -1,7 +1,7 @@
 ---
 title: Python JPEG bis XLSM - JPEG bis XLSM Konverter
-description: Aspose Excel. Python Excel. Konvertieren Sie JPEG schnell und einfach in XLSM mit Aspose.Cells. Python JPEG in XLSM. Python Speichern Sie JPEG in XLSM. Speichern Sie JPEG als XLSM mit der Python Excel-Bibliothek.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert JPEG to XLSM in Python Excel Library., Save JPEG to XLSM using Python Excel Library., Python JPEG to XLSM saveformat., JPEG to XLSM Converter., Python Save JPEG as XLSM]
+description: Aspose Excel. Diese umfassende Lösung bietet Entwicklern einen vollständig integrierten Ansatz zur Konvertierung von JPEG in das Format XLSM und ermöglicht das nahtlose Speichern von JPEG-Daten im Format XLSM mithilfe der Aspose.Cells-Bibliothek – alles durch effizienten und anpassbaren Python-Code.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart JPEG files to XLSM Converter for Python., Convert JPEG to XLSM in Python., JPEG files to XLSM Conversion in Python., Leverage intelligent data processing to automatically parse and save JPEG into XLSM format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Konvertieren Sie JPEG in XLSM in der Excel-Bibliothek Python" h2="Hochgeschwindigkeits-Excel-Bibliothek Python zum Konvertieren von JPEG in XLSM. Dies ist eine professionelle Softwarelösung zum Importieren und Exportieren von JPEG, XLSM und vielen anderen Formaten mit Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSM" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -27,7 +27,7 @@ Befolgen Sie die einfachen Schritte, um JPEG in XLSM zu konvertieren. Laden Sie 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Beispielcode zur Konvertierung von JPEG in XLSM über die Excel-Bibliothek Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="jpg" outformat="xlsm" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="Beispielcode zur Konvertierung von JPEG in XLSM über die Excel-Bibliothek Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="jpg" outformat="xlsm" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="So konvertieren Sie JPEG über Python in XLSM" %}}
 

@@ -1,7 +1,7 @@
 ---
 title: Python SXC na ETT - SXC na ETT převodník
-description: Aspose Excel. Python Excel. Převeďte SXC na ETT rychle a snadno pomocí Aspose.Cells. Python SXC na ETT. Python Uložte SXC do ETT. Uložte SXC jako ETT pomocí knihovny Excel Python.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert SXC to ETT in Python Excel Library., Save SXC to ETT using Python Excel Library., Python SXC to ETT saveformat., SXC to ETT Converter., Python Save SXC as ETT]
+description: Aspose Excel. Toto komplexní řešení poskytuje vývojářům Python plně integrovaný přístup k převodu SXC do formátu ETT, což umožňuje bezproblémové ukládání dat SXC do formátu ETT pomocí knihovny Aspose.Cells, a to vše prostřednictvím efektivního a přizpůsobitelného kódu Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart SXC files to ETT Converter for Python., Convert SXC to ETT in Python., SXC files to ETT Conversion in Python., Leverage intelligent data processing to automatically parse and save SXC into ETT format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Převeďte SXC na ETT v knihovně Excel Python" h2="Vysokorychlostní knihovna Excel Python pro převod SXC na ETT. Jedná se o profesionální softwarové řešení pro import a export SXC, ETT a mnoha dalších formátů pomocí Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="ETT" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -27,7 +27,7 @@ Postupujte podle jednoduchých kroků pro převod SXC na ETT. Nahrajte svůj sou
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Ukázkový kód pro převod SXC na ETT prostřednictvím knihovny Excel Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="sxc" outformat="ett" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="Ukázkový kód pro převod SXC na ETT prostřednictvím knihovny Excel Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="sxc" outformat="ett" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="Jak převést SXC na ETT přes Python" %}}
 
@@ -84,8 +84,8 @@ Aspose.Cells for Python via Java je nezávislý na platformě API a lze jej pou�
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/sxc-to-bmp/" name="SXC DO BMP" description="Bitmapový obrázek" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/sxc-to-emf/" name="SXC DO EMF" description="Vylepšený formát metasouborů" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/sxc-to-gif/" name="SXC DO GIF" description="Grafický výměnný formát" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/sxc-to-html/" name="SXC DO HTML" description="Hyper Text Markup Language" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/sxc-to-md/" name="SXC MD" description="Markdown Language" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/sxc-to-html/" name="SXC DO HTML" description="Hypertextový značkovací jazyk" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/sxc-to-md/" name="SXC MD" description="Jazyk Markdown" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/sxc-to-mhtml/" name="SXC DO MHTML" description="Formát archivu webové stránky" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/sxc-to-ods/" name="SXC DO ODS" description="Soubor tabulkového procesoru OpenDocument" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/sxc-to-pdf/" name="SXC DO PDF" description="Přenosný formát dokumentu" >}}

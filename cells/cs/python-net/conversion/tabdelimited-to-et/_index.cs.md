@@ -1,7 +1,7 @@
 ---
 title: Python Převodník TABDELIMITED na ET – TABDELIMITED na ET
-description: Aspose Excel. Python Excel. Převeďte TABDELIMITED na ET rychle a snadno pomocí Aspose.Cells. Python TABDELIMITED na ET. Python Uložit TABDELIMITED do ET. Uložte TABDELIMITED jako ET pomocí knihovny Excel Python.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert TABDELIMITED to ET in Python Excel Library., Save TABDELIMITED to ET using Python Excel Library., Python TABDELIMITED to ET saveformat., TABDELIMITED to ET Converter., Python Save TABDELIMITED as ET]
+description: Aspose Excel. Toto komplexní řešení poskytuje vývojářům Python plně integrovaný přístup k převodu dat TABDELIMITED do formátu ET, což umožňuje bezproblémové ukládání dat TABDELIMITED do formátu ET pomocí knihovny Aspose.Cells, a to vše prostřednictvím efektivního a přizpůsobitelného kódu Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart TABDELIMITED files to ET Converter for Python., Convert TABDELIMITED to ET in Python., TABDELIMITED files to ET Conversion in Python., Leverage intelligent data processing to automatically parse and save TABDELIMITED into ET format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Převeďte TABDELIMITED na ET v knihovně Excel Python" h2="Vysokorychlostní knihovna Excel Python pro převod TABDELIMITED na ET. Použijte naši konverzi Excel API k vývoji softwaru na vysoké úrovni, nezávislého na platformě v Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="ET" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -28,7 +28,7 @@ Postupujte podle jednoduchých kroků pro převod TABDELIMITED na ET. Nahrajte s
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Ukázkový kód pro převod TABDELIMITED na ET prostřednictvím knihovny Excel Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="tsv" outformat="et" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Ukázkový kód pro převod TABDELIMITED na ET prostřednictvím knihovny Excel Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="tsv" outformat="et" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="Jak převést TABDELIMITED na ET" %}}
 
@@ -82,8 +82,8 @@ Aspose.Cells for Python přes NET je nezávislé na platformě API a lze jej pou
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/tabdelimited-to-bmp/" name="OMEZENO NA BMP" description="Bitmapový obrázek" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/tabdelimited-to-emf/" name="OMEZENO NA EMF" description="Vylepšený formát metasouborů" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/tabdelimited-to-gif/" name="OMEZENO NA GIF" description="Grafický výměnný formát" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/tabdelimited-to-html/" name="OMEZENO NA HTML" description="Hyper Text Markup Language" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/tabdelimited-to-md/" name="TABDELIMITED NA MD" description="Markdown Language" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/tabdelimited-to-html/" name="OMEZENO NA HTML" description="Hypertextový značkovací jazyk" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/tabdelimited-to-md/" name="TABDELIMITED NA MD" description="Jazyk Markdown" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/tabdelimited-to-mhtml/" name="OMEZENO NA MHTML" description="Formát archivu webové stránky" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/tabdelimited-to-ods/" name="OMEZENO NA ODS" description="Soubor tabulkového procesoru OpenDocument" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/tabdelimited-to-pdf/" name="OMEZENO NA PDF" description="Přenosný formát dokumentu" >}}

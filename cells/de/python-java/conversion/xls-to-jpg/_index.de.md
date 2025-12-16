@@ -1,7 +1,7 @@
 ---
 title: Python XLS zu JPG - XLS zu JPG Konverter
-description: Aspose Excel. Python Excel. Konvertieren Sie XLS schnell und einfach in JPG mit Aspose.Cells. Python XLS in JPG. Python Speichern Sie XLS in JPG. Speichern Sie XLS als JPG mit Python Excel-Bibliothek.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert XLS to JPG in Python Excel Library., Save XLS to JPG using Python Excel Library., Python XLS to JPG saveformat., XLS to JPG Converter., Python Save XLS as JPG]
+description: Aspose Excel. Diese umfassende Lösung bietet Entwicklern einen vollständig integrierten Ansatz zur Konvertierung von XLS in das JPG-Format und ermöglicht das nahtlose Speichern von XLS-Daten im JPG-Format mithilfe der Aspose.Cells-Bibliothek, alles durch effizienten und anpassbaren Python-Code.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart XLS files to JPG Converter for Python., Convert XLS to JPG in Python., XLS files to JPG Conversion in Python., Leverage intelligent data processing to automatically parse and save XLS into JPG format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Konvertieren Sie XLS in JPG in der Excel-Bibliothek Python" h2="Hochgeschwindigkeits-Excel-Bibliothek Python zum Konvertieren von XLS in JPG. Dies ist eine professionelle Softwarelösung zum Importieren und Exportieren von XLS, JPG und vielen anderen Formaten mit Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="JPG" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -27,7 +27,7 @@ Befolgen Sie die einfachen Schritte, um XLS in JPG zu konvertieren. Laden Sie Ih
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Beispielcode zum Konvertieren von XLS in JPG über die Excel-Bibliothek Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xls" outformat="jpg" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="Beispielcode zum Konvertieren von XLS in JPG über die Excel-Bibliothek Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="xls" outformat="jpg" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="So konvertieren Sie XLS über Python in JPG" %}}
 

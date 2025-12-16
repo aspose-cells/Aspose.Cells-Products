@@ -1,7 +1,7 @@
 ---
-title: Python OTS to SQL - OTS to SQL Converter
-description: Aspose Excel. Python Excel. Převeďte OTS na SQL rychle a snadno pomocí Aspose.Cells. Python OTS na SQL. Python Uložte OTS do SQL. Uložte OTS jako SQL pomocí knihovny Excel Python.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert OTS to SQL in Python Excel Library., Save OTS to SQL using Python Excel Library., Python OTS to SQL saveformat., OTS to SQL Converter., Python Save OTS as SQL]
+title: Python OTS do SQL - Převodník OTS do SQL
+description: Aspose Excel. Toto komplexní řešení poskytuje vývojářům Python plně integrovaný přístup k převodu OTS do formátu SQL, což umožňuje bezproblémové ukládání dat OTS do formátu SQL pomocí knihovny Aspose.Cells, a to vše prostřednictvím efektivního a přizpůsobitelného kódu Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart OTS files to SQL Converter for Python., Convert OTS to SQL in Python., OTS files to SQL Conversion in Python., Leverage intelligent data processing to automatically parse and save OTS into SQL format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Převeďte OTS na SQL v knihovně Excel Python" h2="Vysokorychlostní knihovna Excel Python pro převod OTS na SQL. Použijte naši konverzi Excel API k vývoji softwaru na vysoké úrovni, nezávislého na platformě v Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="SQL" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -28,7 +28,7 @@ Postupujte podle jednoduchých kroků pro převod OTS na SQL. Nahrajte svůj sou
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Ukázkový kód pro převod OTS na SQL prostřednictvím knihovny Excel Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="ots" outformat="sql" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Ukázkový kód pro převod OTS na SQL prostřednictvím knihovny Excel Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="ots" outformat="sql" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="Jak převést OTS na SQL" %}}
 
@@ -82,8 +82,8 @@ Aspose.Cells for Python přes NET je nezávislé na platformě API a lze jej pou
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/ots-to-bmp/" name="OTS NA BMP" description="Bitmapový obrázek" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/ots-to-emf/" name="OTS NA EMF" description="Vylepšený formát metasouborů" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/ots-to-gif/" name="OTS NA GIF" description="Grafický výměnný formát" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/ots-to-html/" name="OTS NA HTML" description="Hyper Text Markup Language" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/ots-to-md/" name="OTS TO MD" description="Markdown Language" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/ots-to-html/" name="OTS NA HTML" description="Hypertextový značkovací jazyk" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/ots-to-md/" name="OTS do MD" description="Jazyk Markdown" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/ots-to-mhtml/" name="OTS NA MHTML" description="Formát archivu webové stránky" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/ots-to-ods/" name="OTS NA ODS" description="Soubor tabulkového procesoru OpenDocument" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/ots-to-pdf/" name="OTS NA PDF" description="Přenosný formát dokumentu" >}}
@@ -99,7 +99,7 @@ Aspose.Cells for Python přes NET je nezávislé na platformě API a lze jej pou
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/ots-to-xlt/" name="OTS NA XLT" description="Microsoft Excel šablona" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/ots-to-xltm/" name="OTS NA XLTM" description="Šablona s podporou maker aplikace Excel" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/ots-to-xltx/" name="OTS NA XLTX" description="Šablona Office OpenXML Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/ots-to-xml/" name="OTS TO XML" description="Rozšiřitelný značkovací jazyk" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/ots-to-xml/" name="OTS do XML" description="Rozšiřitelný značkovací jazyk" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/ots-to-xps/" name="OTS NA XPS" description="Specifikace papíru XML" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/ots-to-json/" name="OTS NA JSON" description="Zápis objektů JavaScript" >}}
 

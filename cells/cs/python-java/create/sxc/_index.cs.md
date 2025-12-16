@@ -1,7 +1,7 @@
 ---
 title: Vytvořit SXC - Vytvořit soubor SXC v Python
-description: Aspose Excel. Python Excel. Python Vytvořte SXC Soubor rychle a snadno pomocí Aspose.Cells. Vygenerujte soubor SXC pomocí knihovny Excel Python. Vytvořte SXC v knihovně Excel Python. Python SXC Tvůrce.
-keywords: [Aspose Python Excel., Python Aspose.Cells., Python Create SXC file., Generate SXC file in Python Excel Library., Create SXC file using Python Excel Library., Write data to SXC file via Python Excel Library., Create a SXC file in Python Excel Library., Python Generate a SXC file., Python SXC Creater]
+description: Aspose Excel. Snadno generujte a manipulujte se soubory SXC pomocí knihovny Aspose.Cells for Python via Java. Tato výkonná knihovna API poskytuje zjednodušené a efektivní řešení pro vytváření, úpravu a správu souborů SXC přímo ve vašich aplikacích Python a splňuje specifické potřeby vývojářů s vysokou přesností.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Create SXC file., Generate SXC file in Python., Write data to SXC file via Python., Python SXC Creater., Aspose.Cells for Python via Java is a powerful library that enables developers to programmatically create, generate, and manipulate SXC files in Python]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Vytvořte soubor SXC v knihovně Excel Python" h2="Vysokorychlostní knihovna Python Excel pro vytváření souboru SXC. Toto je profesionální softwarové řešení pro import a export XLSX, PDF a mnoha dalších formátů pomocí Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="SXC" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -108,7 +108,7 @@ Aspose.Cells for Python via Java je nezávislý na platformě API a lze jej pou�
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/create/tsv/" name="TSV" description="Hodnoty oddělené záložkou" >}} 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/create/ods/" name="ODS" description="Tabulka OpenDocument" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/create/pdf/" name="PDF" description="Přenosný formát dokumentu" >}} 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/create/html/" name="HTML" description="Hyper Text Markup Language" >}} 
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/create/html/" name="HTML" description="Hypertextový značkovací jazyk" >}} 
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

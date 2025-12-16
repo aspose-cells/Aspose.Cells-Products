@@ -1,7 +1,7 @@
 ---
 title: Python OTS σε SQL - Μετατροπέας OTS σε SQL
-description: Aspose Excel. Python Excel. Μετατρέψτε το OTS σε SQL γρήγορα και εύκολα με το Aspose.Cells. Python OTS σε SQL. Python Αποθήκευση OTS σε SQL. Αποθηκεύστε το OTS ως SQL χρησιμοποιώντας Python Excel Library.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert OTS to SQL in Python Excel Library., Save OTS to SQL using Python Excel Library., Python OTS to SQL saveformat., OTS to SQL Converter., Python Save OTS as SQL]
+description: Aspose Excel. Αυτή η ολοκληρωμένη λύση παρέχει στους προγραμματιστές Python μια πλήρως ενσωματωμένη προσέγγιση για τη μετατροπή δεδομένων OTS σε μορφή SQL, επιτρέποντας την απρόσκοπτη αποθήκευση δεδομένων OTS σε μορφή SQL χρησιμοποιώντας τη βιβλιοθήκη Aspose.Cells, μέσω αποτελεσματικού και προσαρμόσιμου κώδικα Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart OTS files to SQL Converter for Python., Convert OTS to SQL in Python., OTS files to SQL Conversion in Python., Leverage intelligent data processing to automatically parse and save OTS into SQL format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Μετατροπή OTS σε SQL στη Βιβλιοθήκη Excel Python" h2="Βιβλιοθήκη excel υψηλής ταχύτητας Python για μετατροπή OTS σε SQL. Χρησιμοποιήστε τη μετατροπή excel API για να αναπτύξετε λογισμικό υψηλού επιπέδου, ανεξάρτητο από πλατφόρμα στο Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="SQL" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -28,7 +28,7 @@ keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert O
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Δείγμα κώδικα για μετατροπή OTS σε SQL μέσω Python Excel Library" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="ots" outformat="sql" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Δείγμα κώδικα για μετατροπή OTS σε SQL μέσω Python Excel Library" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="ots" outformat="sql" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="Πώς να μετατρέψετε το OTS σε SQL" %}}
 
@@ -83,7 +83,7 @@ Aspose.Cells for Python μέσω NET είναι ανεξάρτητο από πλ
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/ots-to-emf/" name="OTS ΣΤΟ EMF" description="Βελτιωμένη μορφή μετα-αρχείου" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/ots-to-gif/" name="OTS ΣΤΟ GIF" description="Μορφή γραφικής ανταλλαγής" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/ots-to-html/" name="OTS ΣΤΟ HTML" description="Γλώσσα σήμανσης υπερκειμένου" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/ots-to-md/" name="OTS TO MD" description="Γλώσσα Markdown" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/ots-to-md/" name="OTS ΠΡΟΣ MD" description="Γλώσσα Markdown" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/ots-to-mhtml/" name="OTS ΣΤΟ MHTML" description="Μορφή αρχείου ιστοσελίδας" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/ots-to-ods/" name="OTS ΣΤΟ ODS" description="Αρχείο Υπολογιστικού Φύλλου OpenDocument" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/ots-to-pdf/" name="OTS ΣΤΟ PDF" description="Μορφή φορητού εγγράφου" >}}
@@ -99,7 +99,7 @@ Aspose.Cells for Python μέσω NET είναι ανεξάρτητο από πλ
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/ots-to-xlt/" name="OTS ΣΤΟ XLT" description="Microsoft Πρότυπο Excel" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/ots-to-xltm/" name="OTS ΣΤΟ XLTM" description="Πρότυπο με δυνατότητα μακροεντολής Excel" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/ots-to-xltx/" name="OTS ΣΤΟ XLTX" description="Πρότυπο Office OpenXML Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/ots-to-xml/" name="OTS TO XML" description="Επεκτάσιμη γλώσσα σήμανσης" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/ots-to-xml/" name="OTS ΣΕ XML" description="Επεκτάσιμη γλώσσα σήμανσης" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/ots-to-xps/" name="OTS ΣΤΟ XPS" description="Προδιαγραφές χαρτιού XML" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/ots-to-json/" name="OTS ΣΤΟ JSON" description="Σημειογραφία αντικειμένου JavaScript" >}}
 

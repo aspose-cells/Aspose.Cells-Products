@@ -1,7 +1,7 @@
 ---
 title: Python XLTM إلى XML - XLTM إلى XML محول
-description: Aspose اكسل. Python اكسل. قم بتحويل XLTM إلى XML بسرعة وسهولة باستخدام Aspose.Cells. Python XLTM إلى XML. Python احفظ XLTM في ملف XML. احفظ XLTM بتنسيق XML باستخدام مكتبة Excel Python.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert XLTM to XML in Python Excel Library., Save XLTM to XML using Python Excel Library., Python XLTM to XML saveformat., XLTM to XML Converter., Python Save XLTM as XML]
+description: Aspose Excel. يوفر هذا الحل الشامل للمطورين Python نهجًا متكاملًا تمامًا لتحويل XLTM إلى تنسيق XML، مما يتيح حفظ البيانات بسلاسة بتنسيق XML باستخدام مكتبة Aspose.Cells، كل ذلك من خلال كود Python فعال وقابل للتخصيص.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart XLTM files to XML Converter for Python., Convert XLTM to XML in Python., XLTM files to XML Conversion in Python., Leverage intelligent data processing to automatically parse and save XLTM into XML format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="تحويل XLTM إلى XML في Python مكتبة Excel" h2="مكتبة إكسل Python عالية السرعة لتحويل XLTM إلى XML. يعد هذا حلاً برمجيًا احترافيًا لاستيراد وتصدير XLTM وXML والعديد من التنسيقات الأخرى باستخدام Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="XML" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -27,7 +27,7 @@ keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert X
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="نموذج التعليمات البرمجية لتحويل XLTM إلى XML عبر مكتبة Excel Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xltm" outformat="xml" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="نموذج التعليمات البرمجية لتحويل XLTM إلى XML عبر مكتبة Excel Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="xltm" outformat="xml" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="كيفية تحويل XLTM إلى XML عبر Python" %}}
 

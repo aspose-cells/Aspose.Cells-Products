@@ -1,7 +1,7 @@
 ---
 title: Python OTS به XLAM - تبدیل OTS به XLAM
-description: Aspose اکسل. Python اکسل. OTS را به سرعت و به راحتی با Aspose.Cells تبدیل کنید.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert OTS to XLAM in Python Excel Library., Save OTS to XLAM using Python Excel Library., Python OTS to XLAM saveformat., OTS to XLAM Converter., Python Save OTS as XLAM]
+description: Aspose اکسل. این راهکار جامع، رویکردی کاملاً یکپارچه برای تبدیل OTS به فرمت XLAM در اختیار توسعه‌دهندگان Python قرار می‌دهد و امکان ذخیره یکپارچه داده‌های OTS به فرمت XLAM را با استفاده از کتابخانه Aspose.Cells، از طریق کد کارآمد و قابل تنظیم Python، فراهم می‌کند.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart OTS files to XLAM Converter for Python., Convert OTS to XLAM in Python., OTS files to XLAM Conversion in Python., Leverage intelligent data processing to automatically parse and save OTS into XLAM format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="تبدیل OTS به XLAM در Python Excel Library" h2="کتابخانه اکسل پرسرعت Python برای تبدیل OTS به XLAM. این یک راه حل نرم افزاری حرفه ای برای واردات و صادرات OTS، XLAM و بسیاری از فرمت های دیگر با استفاده از Python است." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLAM" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -27,7 +27,7 @@ keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert O
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="کد نمونه برای تبدیل OTS به XLAM از طریق Python Excel Library" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="ots" outformat="xlam" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="کد نمونه برای تبدیل OTS به XLAM از طریق Python Excel Library" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="ots" outformat="xlam" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="نحوه تبدیل OTS به XLAM از طریق Python" %}}
 

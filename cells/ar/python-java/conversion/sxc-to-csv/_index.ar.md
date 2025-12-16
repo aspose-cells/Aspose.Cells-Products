@@ -1,7 +1,7 @@
 ---
 title: Python SXC الى CSV - SXC الى CSV محول
-description: Aspose اكسل. Python اكسل. قم بتحويل SXC إلى CSV بسرعة وسهولة باستخدام Aspose.Cells. Python SXC إلى CSV. Python احفظ SXC إلى CSV. احفظ SXC كـ 076112 3481 باستخدام مكتبة إكسل Python.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert SXC to CSV in Python Excel Library., Save SXC to CSV using Python Excel Library., Python SXC to CSV saveformat., SXC to CSV Converter., Python Save SXC as CSV]
+description: Aspose Excel. يوفر هذا الحل الشامل للمطورين Python نهجًا متكاملًا تمامًا لتحويل SXC إلى تنسيق CSV، مما يتيح حفظ البيانات بسلاسة في تنسيق CSV باستخدام مكتبة Aspose.Cells، كل ذلك من خلال كود Python فعال وقابل للتخصيص.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart SXC files to CSV Converter for Python., Convert SXC to CSV in Python., SXC files to CSV Conversion in Python., Leverage intelligent data processing to automatically parse and save SXC into CSV format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="تحويل SXC إلى CSV في Python مكتبة إكسل" h2="مكتبة إكسل Python عالية السرعة لتحويل SXC إلى CSV. هذا حل برمجي احترافي لاستيراد وتصدير SXC، CSV، والعديد من التنسيقات الأخرى باستخدام Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="CSV" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -27,7 +27,7 @@ keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert S
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="نموذج التعليمات البرمجية لتحويل SXC إلى CSV عبر مكتبة Excel Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="sxc" outformat="csv" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="نموذج التعليمات البرمجية لتحويل SXC إلى CSV عبر مكتبة Excel Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="sxc" outformat="csv" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="كيفية تحويل SXC إلى CSV عبر Python" %}}
 

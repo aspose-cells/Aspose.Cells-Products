@@ -1,7 +1,7 @@
 ---
 title: تحويل Python من OTS إلى TSV - تحويل من OTS إلى TSV
-description: Aspose اكسل. Python اكسل. قم بتحويل OTS إلى TSV بسرعة وسهولة باستخدام Aspose.Cells. Python OTS إلى TSV. Python احفظ OTS إلى TSV. احفظ OTS كـ TSV باستخدام مكتبة Excel Python.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert OTS to TSV in Python Excel Library., Save OTS to TSV using Python Excel Library., Python OTS to TSV saveformat., OTS to TSV Converter., Python Save OTS as TSV]
+description: Aspose Excel. يوفر هذا الحل الشامل للمطورين Python نهجًا متكاملًا تمامًا لتحويل OTS إلى تنسيق TSV، مما يتيح حفظ بيانات OTS بسلاسة في تنسيق TSV باستخدام مكتبة Aspose.Cells، كل ذلك من خلال كود Python فعال وقابل للتخصيص.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart OTS files to TSV Converter for Python., Convert OTS to TSV in Python., OTS files to TSV Conversion in Python., Leverage intelligent data processing to automatically parse and save OTS into TSV format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="تحويل OTS إلى TSV في مكتبة Excel Python" h2="مكتبة Excel Python عالية السرعة لتحويل OTS إلى TSV. هذا حل برمجي احترافي لاستيراد وتصدير OTS وTSV والعديد من التنسيقات الأخرى باستخدام Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="TSV" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -27,7 +27,7 @@ keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert O
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="نموذج التعليمات البرمجية لتحويل OTS إلى TSV عبر مكتبة Excel Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="ots" outformat="tsv" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="نموذج التعليمات البرمجية لتحويل OTS إلى TSV عبر مكتبة Excel Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="ots" outformat="tsv" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="كيفية تحويل OTS إلى TSV عبر Python" %}}
 

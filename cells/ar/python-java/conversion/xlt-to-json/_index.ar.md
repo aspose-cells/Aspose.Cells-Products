@@ -1,7 +1,7 @@
 ---
 title: Python XLT الى JSON - XLT الى JSON محول
-description: Aspose اكسل. Python اكسل. قم بتحويل XLT إلى JSON بسرعة وسهولة باستخدام Aspose.Cells. Python XLT إلى JSON. Python احفظ XLT إلى JSON. احفظ XLT كـ 076112 3481 باستخدام مكتبة إكسل Python.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert XLT to JSON in Python Excel Library., Save XLT to JSON using Python Excel Library., Python XLT to JSON saveformat., XLT to JSON Converter., Python Save XLT as JSON]
+description: Aspose Excel. يوفر هذا الحل الشامل للمطورين Python نهجًا متكاملًا تمامًا لتحويل XLT إلى تنسيق JSON، مما يتيح حفظ البيانات بسلاسة في تنسيق JSON باستخدام مكتبة Aspose.Cells، كل ذلك من خلال كود Python فعال وقابل للتخصيص.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart XLT files to JSON Converter for Python., Convert XLT to JSON in Python., XLT files to JSON Conversion in Python., Leverage intelligent data processing to automatically parse and save XLT into JSON format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="تحويل XLT إلى JSON في Python مكتبة إكسل" h2="مكتبة إكسل Python عالية السرعة لتحويل XLT إلى JSON. هذا حل برمجي احترافي لاستيراد وتصدير XLT، JSON، والعديد من التنسيقات الأخرى باستخدام Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="JSON" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -27,7 +27,7 @@ keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert X
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="نموذج التعليمات البرمجية لتحويل XLT إلى JSON عبر مكتبة Excel Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlt" outformat="json" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="نموذج التعليمات البرمجية لتحويل XLT إلى JSON عبر مكتبة Excel Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="xlt" outformat="json" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="كيفية تحويل XLT إلى JSON عبر Python" %}}
 

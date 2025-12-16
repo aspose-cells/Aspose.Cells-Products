@@ -1,7 +1,7 @@
 ---
 title: Python XLS σε EXCEL - XLS σε EXCEL Μετατροπέας
-description: Aspose Excel. Python Excel. Μετατρέψτε το XLS σε EXCEL γρήγορα και εύκολα με το Aspose.Cells. Python XLS σε EXCEL. Python Αποθήκευση XLS στο EXCEL. Αποθηκεύστε το XLS ως EXCEL χρησιμοποιώντας το Python Excel Library.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert XLS to EXCEL in Python Excel Library., Save XLS to EXCEL using Python Excel Library., Python XLS to EXCEL saveformat., XLS to EXCEL Converter., Python Save XLS as EXCEL]
+description: Aspose Excel. Αυτή η ολοκληρωμένη λύση παρέχει στους προγραμματιστές Python μια πλήρως ενσωματωμένη προσέγγιση για τη μετατροπή του XLS σε μορφή EXCEL, επιτρέποντας την απρόσκοπτη αποθήκευση δεδομένων XLS σε μορφή EXCEL χρησιμοποιώντας τη βιβλιοθήκη Aspose.Cells, μέσω αποτελεσματικού και προσαρμόσιμου κώδικα Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart XLS files to EXCEL Converter for Python., Convert XLS to EXCEL in Python., XLS files to EXCEL Conversion in Python., Leverage intelligent data processing to automatically parse and save XLS into EXCEL format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Μετατροπή XLS σε EXCEL στο Python Excel Library" h2="Βιβλιοθήκη excel υψηλής ταχύτητας Python για μετατροπή XLS σε EXCEL. Αυτή είναι μια επαγγελματική λύση λογισμικού για εισαγωγή και εξαγωγή XLS, EXCEL και πολλών άλλων μορφών χρησιμοποιώντας το Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="EXCEL" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -27,7 +27,7 @@ keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert X
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Δείγμα κώδικα για μετατροπή XLS σε EXCEL μέσω Python Excel Library" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xls" outformat="xlsx" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="Δείγμα κώδικα για μετατροπή XLS σε EXCEL μέσω Python Excel Library" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="xls" outformat="xlsx" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="Πώς να μετατρέψετε το XLS σε EXCEL μέσω του Python" %}}
 

@@ -1,7 +1,7 @@
 ---
 title: Python TABDELIMITED σε SQL - Μετατροπέας TABDELIMITED σε SQL
-description: Aspose Excel. Python Excel. Μετατρέψτε το TABDELIMITED σε SQL γρήγορα και εύκολα με το Aspose.Cells. Python TABDELIMITED σε SQL. Python Αποθήκευση TABDELIMITED σε SQL. Αποθηκεύστε το TABDELIMITED ως SQL χρησιμοποιώντας Python Excel Library.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert TABDELIMITED to SQL in Python Excel Library., Save TABDELIMITED to SQL using Python Excel Library., Python TABDELIMITED to SQL saveformat., TABDELIMITED to SQL Converter., Python Save TABDELIMITED as SQL]
+description: Aspose Excel. Αυτή η ολοκληρωμένη λύση παρέχει στους προγραμματιστές Python μια πλήρως ενσωματωμένη προσέγγιση για τη μετατροπή δεδομένων TABDELIMITED σε μορφή SQL, επιτρέποντας την απρόσκοπτη αποθήκευση δεδομένων TABDELIMITED σε μορφή SQL χρησιμοποιώντας τη βιβλιοθήκη Aspose.Cells, μέσω αποτελεσματικού και προσαρμόσιμου κώδικα Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart TABDELIMITED files to SQL Converter for Python., Convert TABDELIMITED to SQL in Python., TABDELIMITED files to SQL Conversion in Python., Leverage intelligent data processing to automatically parse and save TABDELIMITED into SQL format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Μετατρέψτε το TABDELIMITED σε SQL στη Βιβλιοθήκη Excel Python" h2="Βιβλιοθήκη excel υψηλής ταχύτητας Python για μετατροπή TABDELIMITED σε SQL. Αυτή είναι μια επαγγελματική λύση λογισμικού για εισαγωγή και εξαγωγή TABDELIMITED, SQL και πολλών άλλων μορφών χρησιμοποιώντας το Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="SQL" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -27,7 +27,7 @@ keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert T
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Δείγμα κώδικα για μετατροπή TABDELIMITED σε SQL μέσω Python Excel Library" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="tsv" outformat="sql" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="Δείγμα κώδικα για μετατροπή TABDELIMITED σε SQL μέσω Python Excel Library" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="tsv" outformat="sql" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="Πώς να μετατρέψετε το TABDELIMITED σε SQL μέσω Python" %}}
 

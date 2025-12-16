@@ -1,7 +1,7 @@
 ---
 title: Python IMAGE به IMAGE - تبدیل IMAGE به IMAGE
-description: Aspose اکسل. Python اکسل. IMAGE را به سرعت و به راحتی با Aspose.Cells تبدیل کنید. Python IMAGE به IMAGE. Python IMAGE را در IMAGE ذخیره کنید. IMAGE را به عنوان IMAGE با استفاده از Python Excel Library ذخیره کنید.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert IMAGE to IMAGE in Python Excel Library., Save IMAGE to IMAGE using Python Excel Library., Python IMAGE to IMAGE saveformat., IMAGE to IMAGE Converter., Python Save IMAGE as IMAGE]
+description: Aspose اکسل. این راهکار جامع، رویکردی کاملاً یکپارچه برای تبدیل فرمت IMAGE به فرمت IMAGE در اختیار توسعه‌دهندگان Python قرار می‌دهد و امکان ذخیره یکپارچه داده‌های IMAGE به فرمت IMAGE را با استفاده از کتابخانه Aspose.Cells، از طریق کد کارآمد و قابل تنظیم Python، فراهم می‌کند.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart IMAGE files to IMAGE Converter for Python., Convert IMAGE to IMAGE in Python., IMAGE files to IMAGE Conversion in Python., Leverage intelligent data processing to automatically parse and save IMAGE into IMAGE format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="تبدیل IMAGE به IMAGE در Python Excel Library" h2="کتابخانه اکسل پرسرعت Python برای تبدیل IMAGE به IMAGE. این یک راه حل نرم افزاری حرفه ای برای وارد کردن و صادرات IMAGE، IMAGE و بسیاری از فرمت های دیگر با استفاده از Python است." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="IMAGE" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -27,7 +27,7 @@ keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert I
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="نمونه کد برای تبدیل IMAGE به IMAGE از طریق کتابخانه اکسل Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="png" outformat="png" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="نمونه کد برای تبدیل IMAGE به IMAGE از طریق کتابخانه اکسل Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="png" outformat="png" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="نحوه تبدیل IMAGE به IMAGE از طریق Python" %}}
 

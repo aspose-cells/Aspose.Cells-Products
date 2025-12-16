@@ -1,7 +1,7 @@
 ---
 title: Python PRN zu MHTML - PRN zu MHTML Konverter
-description: Aspose Excel. Python Excel. Konvertieren Sie PRN schnell und einfach in MHTML mit Aspose.Cells. Python PRN in MHTML. Python Speichern Sie PRN in MHTML. Speichern Sie PRN als MHTML mit der Python Excel-Bibliothek.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert PRN to MHTML in Python Excel Library., Save PRN to MHTML using Python Excel Library., Python PRN to MHTML saveformat., PRN to MHTML Converter., Python Save PRN as MHTML]
+description: Aspose Excel. Diese umfassende Lösung bietet Entwicklern einen vollständig integrierten Ansatz zur Konvertierung von PRN-Daten in das Format MHTML und ermöglicht das nahtlose Speichern von PRN-Daten im Format MHTML mithilfe der Bibliothek Aspose.Cells – alles durch effizienten und anpassbaren Code Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart PRN files to MHTML Converter for Python., Convert PRN to MHTML in Python., PRN files to MHTML Conversion in Python., Leverage intelligent data processing to automatically parse and save PRN into MHTML format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Konvertieren Sie PRN in MHTML in der Excel-Bibliothek Python" h2="Hochgeschwindigkeits-Excel-Bibliothek Python zum Konvertieren von PRN in MHTML. Dies ist eine professionelle Softwarelösung zum Importieren und Exportieren von PRN, MHTML und vielen anderen Formaten mit Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="MHTML" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -27,7 +27,7 @@ Befolgen Sie die einfachen Schritte, um PRN in MHTML umzuwandeln. Laden Sie Ihre
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Beispielcode zur Konvertierung von PRN in MHTML über die Excel-Bibliothek Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="prn" outformat="mhtml" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="Beispielcode zur Konvertierung von PRN in MHTML über die Excel-Bibliothek Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="prn" outformat="mhtml" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="So konvertieren Sie PRN über Python in MHTML" %}}
 

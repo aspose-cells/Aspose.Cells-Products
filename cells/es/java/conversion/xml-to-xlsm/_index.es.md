@@ -1,7 +1,7 @@
 ---
 title: Java XML a XLSM - Convertidor de XML a XLSM
-description: Aspose Excel. Convierta XML a XLSM rápida y fácilmente con Aspose.Cells. Java XML a XLSM. Java Guarde XML en XLSM. Guarde XML como XLSM usando Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Convert XML to XLSM in Java., Save XML to XLSM using Java., Java XML to XLSM saveformat., XML to XLSM Converter., Java Save XML as XLSM]
+description: Aspose Excel. Esta solución integral proporciona a los desarrolladores de Java un enfoque totalmente integrado para convertir XML al formato XLSM, lo que permite guardar datos XML sin problemas en formato XLSM mediante la biblioteca Aspose.Cells, todo mediante código Java eficiente y personalizable.
+keywords: [Aspose Excel., Java Aspose.Cells., Smart XML files to XLSM Converter for Java., Convert XML to XLSM in Java., XML files to XLSM Conversion in Java., Leverage intelligent data processing to automatically parse and save XML into XLSM format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Convertir XML a XLSM en Java" h2="Biblioteca Java de alta velocidad para convertir XML a XLSM. Esta es una solución de software profesional para importar y exportar XML, XLSM y muchos otros formatos utilizando Java." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSM" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="CSV" >}}
@@ -45,7 +45,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Convert XML to XLSM in Java., Save
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Guarde XML en XLSM en Java" %}}
+{{% blocks/products/pf/agp/content h2="Guardar XML en XLSM en Java" %}}
 
 El siguiente ejemplo demuestra cómo convertir XML a XLSM en Java.
 {{% blocks/products/pf/agp/text %}}
@@ -56,25 +56,25 @@ Siga los sencillos pasos para convertir XML a XLSM. Cargue su archivo XML y lueg
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Código de muestra para convertir XML a XLSM" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xml" outformat="xlsm" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Código de ejemplo para convertir XML a XLSM" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="xml" outformat="xlsm" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="Cómo convertir XML a XLSM via Java" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
-¿Necesita convertir archivos XML a XLSM mediante programación? Los desarrolladores de Java pueden convertir fácilmente XML a XLSM en tan solo unas pocas líneas de código.
+¿Necesita convertir archivos XML a XLSM mediante programación? Los desarrolladores de Java pueden convertir fácilmente XML a XLSM con solo unas pocas líneas de código.
 
 {{% /blocks/products/pf/agp/text %}}
 
-1.  Instale 'Aspose.Cells for Java'.
+1.  Instalar 'Aspose.Cells for Java'.
 1.  Agregue una referencia de biblioteca (importe la biblioteca) a su proyecto Java.
-1.  Cargue un archivo XML con una instancia de la clase Workbook.
+1.  Cargue el archivo XML con una instancia de la clase Workbook.
 1.  Convierta XML a XLSM llamando al método Workbook.save.
 1.  Obtenga el resultado de la conversión de XML a XLSM.
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Biblioteca Java para convertir XML a XLSM" %}}
+{{% blocks/products/pf/agp/content h2="Java biblioteca para convertir XML a XLSM" %}}
 {{% blocks/products/pf/agp/text %}}
 
  Alojamos nuestros paquetes Java en[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) repositorios. 'Aspose.Cells for Java' es un archivo JAR común que contiene código de bytes. Por favor sigue el[instrucciones paso a paso](https://docs.aspose.com/cells/java/installation/) sobre cómo instalarlo en su entorno de desarrollador Java.

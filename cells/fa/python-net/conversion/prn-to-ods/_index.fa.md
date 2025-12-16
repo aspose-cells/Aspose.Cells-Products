@@ -1,7 +1,7 @@
 ---
 title: Python PRN به ODS - تبدیل PRN به ODS
-description: Aspose اکسل. Python اکسل. تبدیل PRN به ODS به سرعت و به آسانی با Aspose.Cells. Python PRN به ODS. Python ذخیره PRN به ODS. ذخیره PRN به عنوان 0193481381.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert PRN to ODS in Python Excel Library., Save PRN to ODS using Python Excel Library., Python PRN to ODS saveformat., PRN to ODS Converter., Python Save PRN as ODS]
+description: Aspose اکسل. این راهکار جامع، رویکردی کاملاً یکپارچه برای تبدیل PRN به فرمت ODS در اختیار توسعه‌دهندگان Python قرار می‌دهد و امکان ذخیره یکپارچه داده‌های PRN به فرمت ODS را با استفاده از کتابخانه Aspose.Cells، از طریق کد کارآمد و قابل تنظیم Python، فراهم می‌کند.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart PRN files to ODS Converter for Python., Convert PRN to ODS in Python., PRN files to ODS Conversion in Python., Leverage intelligent data processing to automatically parse and save PRN into ODS format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="تبدیل PRN به ODS در Python Excel Library" h2="کتابخانه اکسل پرسرعت Python برای تبدیل PRN به ODS. از تبدیل اکسل API ما برای توسعه نرم افزار سطح بالا و مستقل از پلت فرم در Python استفاده کنید." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="ODS" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -28,7 +28,7 @@ keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert P
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="کد نمونه برای تبدیل PRN به ODS از طریق Python Excel Library" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="prn" outformat="ods" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="کد نمونه برای تبدیل PRN به ODS از طریق Python Excel Library" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="prn" outformat="ods" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="نحوه تبدیل PRN به ODS" %}}
 

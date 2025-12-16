@@ -1,7 +1,7 @@
 ---
 title: Python TXT الى PPTX - TXT الى PPTX محول
-description: Aspose اكسل. Python اكسل. قم بتحويل TXT إلى PPTX بسرعة وسهولة باستخدام Aspose.Cells. Python TXT إلى PPTX. Python احفظ TXT إلى PPTX. احفظ TXT كـ 076112 3481 باستخدام مكتبة إكسل Python.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert TXT to PPTX in Python Excel Library., Save TXT to PPTX using Python Excel Library., Python TXT to PPTX saveformat., TXT to PPTX Converter., Python Save TXT as PPTX]
+description: Aspose Excel. يوفر هذا الحل الشامل للمطورين Python نهجًا متكاملًا تمامًا لتحويل TXT إلى تنسيق PPTX، مما يتيح حفظ البيانات بسلاسة في تنسيق PPTX باستخدام مكتبة Aspose.Cells، كل ذلك من خلال كود Python فعال وقابل للتخصيص.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart TXT files to PPTX Converter for Python., Convert TXT to PPTX in Python., TXT files to PPTX Conversion in Python., Leverage intelligent data processing to automatically parse and save TXT into PPTX format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="تحويل TXT إلى PPTX في Python مكتبة إكسل" h2="مكتبة Excel Python عالية السرعة لتحويل TXT إلى PPTX. استخدم تحويل Excel API لتطوير برامج مستقلة عالية المستوى عن النظام الأساسي في Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="PPTX" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -28,7 +28,7 @@ keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert T
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="نموذج التعليمات البرمجية لتحويل TXT إلى PPTX عبر مكتبة Excel Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="txt" outformat="pptx" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="نموذج التعليمات البرمجية لتحويل TXT إلى PPTX عبر مكتبة Excel Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="txt" outformat="pptx" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="كيفية تحويل TXT إلى PPTX" %}}
 

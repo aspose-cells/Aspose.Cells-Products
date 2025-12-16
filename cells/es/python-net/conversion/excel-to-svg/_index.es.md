@@ -1,7 +1,7 @@
 ---
 title: Python EXCEL a SVG - Convertidor EXCEL a SVG
-description: Aspose Excel. Python Excel. Convierta EXCEL a SVG rápida y fácilmente con Aspose.Cells. Python EXCEL a SVG. Python Guarde EXCEL en SVG. Guarde EXCEL como SVG usando Python Biblioteca de Excel.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert EXCEL to SVG in Python Excel Library., Save EXCEL to SVG using Python Excel Library., Python EXCEL to SVG saveformat., EXCEL to SVG Converter., Python Save EXCEL as SVG]
+description: Aspose Excel. Esta solución integral ofrece a los desarrolladores de Excel un enfoque totalmente integrado para convertir Excel al formato SVG, lo que permite guardar datos de Excel sin problemas en el formato SVG mediante la biblioteca Aspose.Cells, todo mediante código Python eficiente y personalizable.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart EXCEL files to SVG Converter for Python., Convert EXCEL to SVG in Python., EXCEL files to SVG Conversion in Python., Leverage intelligent data processing to automatically parse and save EXCEL into SVG format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Convierta EXCEL a SVG en la biblioteca de Excel Python" h2="Biblioteca de Excel Python de alta velocidad para convertir EXCEL a SVG. Utilice nuestra conversión de Excel API para desarrollar software independiente de plataforma de alto nivel en Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="SVG" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -28,7 +28,7 @@ Siga los sencillos pasos para convertir EXCEL a SVG. Cargue su archivo EXCEL y l
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Código de muestra para convertir EXCEL a SVG a través de la biblioteca de Excel Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsx" outformat="svg" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Código de muestra para convertir EXCEL a SVG a través de la biblioteca de Excel Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="xlsx" outformat="svg" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="Cómo convertir EXCEL a SVG" %}}
 

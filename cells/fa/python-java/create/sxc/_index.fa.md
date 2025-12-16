@@ -1,7 +1,7 @@
 ---
 title: ایجاد SXC - ایجاد فایل SXC در Python
-description: Aspose اکسل. Python اکسل. Python فایل SXC را به سرعت و به راحتی با Aspose.Cells ایجاد کنید. فایل SXC را با استفاده از کتابخانه اکسل Python ایجاد کنید. SXC را در کتابخانه اکسل Python ایجاد کنید. Python SXC سازنده.
-keywords: [Aspose Python Excel., Python Aspose.Cells., Python Create SXC file., Generate SXC file in Python Excel Library., Create SXC file using Python Excel Library., Write data to SXC file via Python Excel Library., Create a SXC file in Python Excel Library., Python Generate a SXC file., Python SXC Creater]
+description: Aspose اکسل. با استفاده از کتابخانه Aspose.Cells for Python via Java، به راحتی فایل‌های SXC را تولید و دستکاری کنید. این کتابخانه قدرتمند API یک راهکار ساده و کارآمد برای ایجاد، ویرایش و مدیریت فایل‌های SXC مستقیماً در برنامه‌های Python شما ارائه می‌دهد و نیازهای خاص توسعه‌دهندگان را با دقت بالا برآورده می‌کند.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Create SXC file., Generate SXC file in Python., Write data to SXC file via Python., Python SXC Creater., Aspose.Cells for Python via Java is a powerful library that enables developers to programmatically create, generate, and manipulate SXC files in Python]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="فایل SXC را در کتابخانه اکسل Python ایجاد کنید" h2="کتابخانه اکسل پرسرعت Python برای ایجاد فایل SXC. این یک راه حل نرم افزاری حرفه ای برای واردات و صادرات XLSX، PDF و بسیاری از فرمت های دیگر با استفاده از Python است." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="SXC" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}

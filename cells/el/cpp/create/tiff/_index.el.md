@@ -1,7 +1,7 @@
 ---
 title: Δημιουργία TIFF - Δημιουργία αρχείου TIFF στο C++
-description:  Aspose Excel. C++ Δημιουργία TIFF Αρχειοθέτηση γρήγορα και εύκολα με το Aspose.Cells. Δημιουργήστε το αρχείο TIFF χρησιμοποιώντας το C++. Δημιουργήστε το TIFF στο C++. 0714074.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ Create TIFF file., Generate TIFF file in C++., Create TIFF file using C++., Write data to TIFF file via C++., Create a TIFF file in C++., C++ Generate a TIFF file., C++ TIFF Creater]
+description: Aspose Excel. Δημιουργήστε και χειριστείτε εύκολα αρχεία TIFF με τη βιβλιοθήκη Aspose.Cells for C++. Αυτό το ισχυρό API παρέχει μια βελτιστοποιημένη και αποτελεσματική λύση για τη δημιουργία, επεξεργασία και διαχείριση αρχείων TIFF απευθείας στις εφαρμογές σας C++, καλύπτοντας τις συγκεκριμένες ανάγκες των προγραμματιστών με υψηλή ακρίβεια.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ Create TIFF file., Generate TIFF file in C++., Write data to TIFF file via C++., C++ TIFF Creater., Aspose.Cells for C++ is a powerful library that enables developers to programmatically create, generate, and manipulate TIFF files in C++]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Δημιουργήστε αρχείο TIFF στο C++" h2="Δημιουργία εγγενούς και υψηλής απόδοσης αρχείου TIFF μέσω προγραμματισμού χωρίς το Micorsoft Office χρησιμοποιώντας τη βιβλιοθήκη C++." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" sourceAdditionalConversionTag="" additionalConversionTag="TIFF" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -45,6 +45,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 ```cs
 Aspose::Cells::Startup();
+//TIFF format is not supported
 
 // Create an object of the Workbook class.
 Workbook wkb;
@@ -69,6 +70,7 @@ cell00.PutValue(u"ColumnA");
 cell01.PutValue(u"ColumnB");
 cell10.PutValue(u"ValueA");
 cell11.PutValue(u"ValueB");
+
 
 // Save workbook to resultFile folder
 wkb.Save(u"created_one.tiff");

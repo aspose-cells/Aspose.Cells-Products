@@ -1,7 +1,7 @@
 ---
 title: إنشاء XLAM - إنشاء ملف XLAM في Python
-description: Aspose اكسل. Python اكسل. Python قم بإنشاء ملف XLAM بسرعة وسهولة باستخدام Aspose.Cells. قم بإنشاء ملف XLAM باستخدام مكتبة Excel Python. إنشاء XLAM في مكتبة إكسل Python. Python XLAM مبدع.
-keywords: [Aspose Python Excel., Python Aspose.Cells., Python Create XLAM file., Generate XLAM file in Python Excel Library., Create XLAM file using Python Excel Library., Write data to XLAM file via Python Excel Library., Create a XLAM file in Python Excel Library., Python Generate a XLAM file., Python XLAM Creater]
+description: Aspose Excel. أنشئ ملفات XLAM وتعامل معها بسهولة باستخدام مكتبة Aspose.Cells وfor Python وvia Java. توفر هذه المكتبة القوية API حلاً مبسطًا وفعالًا لإنشاء ملفات XLAM وتعديلها وإدارتها مباشرةً ضمن تطبيقاتك Python، مما يلبي احتياجات المطورين بدقة عالية.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Create XLAM file., Generate XLAM file in Python., Write data to XLAM file via Python., Python XLAM Creater., Aspose.Cells for Python via Java is a powerful library that enables developers to programmatically create, generate, and manipulate XLAM files in Python]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="إنشاء ملف XLAM في مكتبة إكسل Python" h2="مكتبة إكسيل Python عالية السرعة لإنشاء ملف XLAM. هذا حل برمجي احترافي لاستيراد وتصدير XLSX وPDF والعديد من التنسيقات الأخرى باستخدام Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLAM" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}

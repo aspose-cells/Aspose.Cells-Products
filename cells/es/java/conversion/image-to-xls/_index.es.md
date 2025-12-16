@@ -1,7 +1,7 @@
 ---
 title: Java IMAGEN a XLS - Convertidor IMAGEN a XLS
-description: Aspose Excel. Convierta IMAGEN a XLS rápida y fácilmente con Aspose.Cells. Java IMAGEN a XLS. Java Guarde IMAGEN en XLS. Guarde IMAGEN como XLS usando Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Convert IMAGE to XLS in Java., Save IMAGE to XLS using Java., Java IMAGE to XLS saveformat., IMAGE to XLS Converter., Java Save IMAGE as XLS]
+description: Aspose Excel. Esta solución integral ofrece a los desarrolladores de Java un enfoque totalmente integrado para convertir imágenes al formato XLS, lo que permite guardar sin problemas los datos de imágenes en el formato XLS mediante la biblioteca Aspose.Cells, todo mediante código Java eficiente y personalizable.
+keywords: [Aspose Excel., Java Aspose.Cells., Smart IMAGE files to XLS Converter for Java., Convert IMAGE to XLS in Java., IMAGE files to XLS Conversion in Java., Leverage intelligent data processing to automatically parse and save IMAGE into XLS format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Convertir IMAGEN a XLS en Java" h2="Biblioteca Java de alta velocidad para convertir IMAGEN a XLS. Esta es una solución de software profesional para importar y exportar IMAGEN, XLS y muchos otros formatos utilizando Java." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLS" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="CSV" >}}
@@ -45,7 +45,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Convert IMAGE to XLS in Java., Sav
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Guardar IMAGEN al XLS en Java" %}}
+{{% blocks/products/pf/agp/content h2="Guardar IMAGEN en XLS en Java" %}}
 
 El siguiente ejemplo demuestra cómo convertir IMAGEN a XLS en Java.
 {{% blocks/products/pf/agp/text %}}
@@ -56,17 +56,17 @@ Siga los sencillos pasos para convertir IMAGEN a XLS. Cargue su archivo IMAGEN y
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Código de muestra para convertir IMAGEN a XLS" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="png" outformat="xls" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Código de muestra para convertir IMAGEN a XLS" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="png" outformat="xls" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="Cómo convertir IMAGEN a XLS via Java" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
-¿Necesita convertir archivos de IMAGEN a XLS mediante programación? Los desarrolladores de Java pueden convertir fácilmente IMAGEN a XLS con solo unas pocas líneas de código.
+¿Necesitas convertir archivos de IMAGEN a XLS mediante programación? Los desarrolladores de Java pueden convertir fácilmente IMAGEN a XLS con solo unas pocas líneas de código.
 
 {{% /blocks/products/pf/agp/text %}}
 
-1.  Instale 'Aspose.Cells for Java'.
+1.  Instalar 'Aspose.Cells for Java'.
 1.  Agregue una referencia de biblioteca (importe la biblioteca) a su proyecto Java.
 1.  Cargue el archivo IMAGEN con una instancia de la clase Workbook.
 1.  Convierta IMAGEN a XLS llamando al método Workbook.save.
@@ -74,7 +74,7 @@ Siga los sencillos pasos para convertir IMAGEN a XLS. Cargue su archivo IMAGEN y
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Biblioteca Java para convertir IMAGEN a XLS" %}}
+{{% blocks/products/pf/agp/content h2="Java biblioteca para convertir IMAGEN a XLS" %}}
 {{% blocks/products/pf/agp/text %}}
 
  Alojamos nuestros paquetes Java en[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) repositorios. 'Aspose.Cells for Java' es un archivo JAR común que contiene código de bytes. Por favor sigue el[instrucciones paso a paso](https://docs.aspose.com/cells/java/installation/) sobre cómo instalarlo en su entorno de desarrollador Java.

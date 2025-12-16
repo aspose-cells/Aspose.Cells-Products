@@ -1,7 +1,7 @@
 ---
 title: Vytvořit CSV - Vytvořit soubor CSV v C++
-description: Aspose Excel. C++ Vytvořte CSV Soubor rychle a snadno pomocí Aspose.Cells. Vygenerujte soubor CSV pomocí C++. Vytvořte CSV v C++. 0761831981 0761831983
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ Create CSV file., Generate CSV file in C++., Create CSV file using C++., Write data to CSV file via C++., Create a CSV file in C++., C++ Generate a CSV file., C++ CSV Creater]
+description: Aspose Excel. Snadno generujte a manipulujte se soubory CSV pomocí knihovny Aspose.Cells for C++. Tato výkonná knihovna API poskytuje efektivní řešení pro vytváření, úpravu a správu souborů CSV přímo ve vašich aplikacích C++ a splňuje specifické potřeby vývojářů s vysokou přesností.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ Create CSV file., Generate CSV file in C++., Write data to CSV file via C++., C++ CSV Creater., Aspose.Cells for C++ is a powerful library that enables developers to programmatically create, generate, and manipulate CSV files in C++]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Vytvořte soubor CSV v C++" h2="Nativní a vysoce výkonné vytváření souborů CSV programově bez aplikace Microsoft Office pomocí knihovny C++." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" sourceAdditionalConversionTag="" additionalConversionTag="CSV" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -11,7 +11,7 @@ keywords: [Aspose Excel., C++ Aspose.Cells., C++ Create CSV file., Generate CSV 
 
 {{% blocks/products/pf/agp/content h2="Vytvořte soubor CSV pomocí C++" %}}
 
- Jak vytvořit soubor CSV? S knihovnou Aspose.Cells for C++ můžete snadno vytvořit soubor CSV programově pomocí několika řádků kódu.[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) je schopen vytvářet multiplatformní aplikace se schopností generovat, upravovat, konvertovat, vykreslovat a tisknout všechny soubory aplikace Excel. C++ Excel API nejen převádí mezi tabulkovými formáty, ale umí také vykreslovat soubory Excel jako obrázky, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT a další, takže je perfektní volbou pro výměnu dokumentů ve standardních průmyslových formátech. Jeho nejnovější verzi si můžete stáhnout přímo, stačí otevřít[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) správce balíčků, vyhledejte Aspose.Cells.Cpp a nainstalujte. Můžete také použít následující příkaz z konzoly Správce balíčků.
+ Jak vytvořit soubor CSV? S knihovnou Aspose.Cells for C++ můžete snadno vytvořit soubor CSV programově pomocí několika řádků kódu.[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) je schopen vytvářet multiplatformní aplikace se schopností generovat, upravovat, konvertovat, vykreslovat a tisknout všechny soubory aplikace Excel. C++ Excel API nejen převádí mezi tabulkovými formáty, ale umí také vykreslovat soubory Excel jako obrázky, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT a další, takže je perfektní volbou pro výměnu dokumentů ve standardních průmyslových formátech. Jeho nejnovější verzi si můžete stáhnout přímo, stačí otevřít[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/)správce balíčků, vyhledejte Aspose.Cells.Cpp a nainstalujte. Můžete také použít následující příkaz z konzoly Správce balíčků.
 
 {{% blocks/products/pf/agp/code-block title="Příkaz" offSpacer="true" %}}
 
@@ -37,7 +37,7 @@ PM> Install-Package Aspose.Cells.Cpp
 1.  Vytvořte objekt třídy Workbook.
 1.  Získejte první list do objektu Worksheet.
 1.  Použijte metodu Worksheet.GetCells() k získání buněk listu do objektu Cells.
-1. Použijte metodu Cells.Get() pro přístup k požadované buňce listu do objektu Cell.
+1.  Použijte metodu Cells.Get() pro přístup k požadované buňce listu do objektu Cell.
 1.  Pomocí metody Cell.PutValue() zadejte hodnotu do buňky.
 1.  Uložte sešit jako soubor .csv pomocí metody Save().
 
@@ -45,6 +45,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 ```cs
 Aspose::Cells::Startup();
+//TIFF format is not supported
 
 // Create an object of the Workbook class.
 Workbook wkb;
@@ -127,7 +128,7 @@ Existují tři možnosti instalace „Aspose.Cells for C++“ do vašeho systém
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/create/tsv/" name="TSV" description="Hodnoty oddělené záložkou" >}} 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/create/ods/" name="ODS" description="Tabulka OpenDocument" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/create/pdf/" name="PDF" description="Přenosný formát dokumentu" >}} 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/create/html/" name="HTML" description="Hyper Text Markup Language" >}} 
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/create/html/" name="HTML" description="Hypertextový značkovací jazyk" >}} 
 
 
 {{< /blocks/products/pf/agp/other-supported-section >}}

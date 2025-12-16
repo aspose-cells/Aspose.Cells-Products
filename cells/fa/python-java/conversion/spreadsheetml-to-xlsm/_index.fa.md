@@ -1,7 +1,7 @@
 ---
 title: Python SPREADSHEETML به XLSM - تبدیل SPREADSHEETML به XLSM
-description: Aspose اکسل. Python اکسل. صفحه SPREADSHEETML را به سرعت و به راحتی با Aspose.Cells تبدیل کنید کتابخانه اکسل 3481.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert SPREADSHEETML to XLSM in Python Excel Library., Save SPREADSHEETML to XLSM using Python Excel Library., Python SPREADSHEETML to XLSM saveformat., SPREADSHEETML to XLSM Converter., Python Save SPREADSHEETML as XLSM]
+description: Aspose اکسل. این راهکار جامع، رویکردی کاملاً یکپارچه برای تبدیل فرمت SPREADSHEETML به فرمت XLSM در اختیار توسعه‌دهندگان Python قرار می‌دهد و امکان ذخیره یکپارچه داده‌های SPREADSHEETML به فرمت XLSM را با استفاده از کتابخانه Aspose.Cells، از طریق کد کارآمد و قابل تنظیم Python، فراهم می‌کند.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart SPREADSHEETML files to XLSM Converter for Python., Convert SPREADSHEETML to XLSM in Python., SPREADSHEETML files to XLSM Conversion in Python., Leverage intelligent data processing to automatically parse and save SPREADSHEETML into XLSM format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="تبدیل SPREADSHEETML به XLSM در Python Excel Library" h2="کتابخانه اکسل پرسرعت Python برای تبدیل SPREADSHEETML به XLSM. این یک راه حل نرم افزاری حرفه ای برای وارد کردن و صادرات SPREADSHEETML، XLSM، و بسیاری از فرمت های دیگر با استفاده از Python است." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSM" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -27,7 +27,7 @@ keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert S
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="کد نمونه برای تبدیل SPREADSHEETML به XLSM از طریق Python Excel Library" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xml" outformat="xlsm" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="کد نمونه برای تبدیل SPREADSHEETML به XLSM از طریق Python Excel Library" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="xml" outformat="xlsm" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="نحوه تبدیل SPREADSHEETML به XLSM از طریق Python" %}}
 

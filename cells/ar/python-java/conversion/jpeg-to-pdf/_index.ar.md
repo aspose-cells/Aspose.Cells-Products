@@ -1,7 +1,7 @@
 ---
 title: Python JPEG الى PDF - JPEG الى PDF محول
-description: Aspose اكسل. Python اكسل. قم بتحويل JPEG إلى PDF بسرعة وسهولة باستخدام Aspose.Cells. Python JPEG إلى PDF. Python احفظ JPEG إلى PDF. احفظ JPEG كـ 076112 3481 باستخدام مكتبة إكسل Python.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert JPEG to PDF in Python Excel Library., Save JPEG to PDF using Python Excel Library., Python JPEG to PDF saveformat., JPEG to PDF Converter., Python Save JPEG as PDF]
+description: Aspose Excel. يوفر هذا الحل الشامل للمطورين Python نهجًا متكاملًا تمامًا لتحويل JPEG إلى تنسيق PDF، مما يتيح حفظ البيانات بسلاسة في تنسيق PDF باستخدام مكتبة Aspose.Cells، كل ذلك من خلال كود Python فعال وقابل للتخصيص.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart JPEG files to PDF Converter for Python., Convert JPEG to PDF in Python., JPEG files to PDF Conversion in Python., Leverage intelligent data processing to automatically parse and save JPEG into PDF format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="تحويل JPEG إلى PDF في Python مكتبة إكسل" h2="مكتبة إكسل Python عالية السرعة لتحويل JPEG إلى PDF. هذا حل برمجي احترافي لاستيراد وتصدير JPEG، PDF، والعديد من التنسيقات الأخرى باستخدام Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="PDF" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -27,7 +27,7 @@ keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert J
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="نموذج التعليمات البرمجية لتحويل JPEG إلى PDF عبر مكتبة Excel Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="jpg" outformat="pdf" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="نموذج التعليمات البرمجية لتحويل JPEG إلى PDF عبر مكتبة Excel Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="jpg" outformat="pdf" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="كيفية تحويل JPEG إلى PDF عبر Python" %}}
 

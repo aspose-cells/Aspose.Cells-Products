@@ -1,7 +1,7 @@
 ---
 title: ایجاد PNG - ایجاد فایل PNG در C++
-description: Aspose اکسل. C++ ایجاد فایل PNG به سرعت و به راحتی با Aspose.Cells. ایجاد فایل PNG با استفاده از C++. ایجاد PNG در C++. 07134813
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ Create PNG file., Generate PNG file in C++., Create PNG file using C++., Write data to PNG file via C++., Create a PNG file in C++., C++ Generate a PNG file., C++ PNG Creater]
+description: Aspose اکسل. با استفاده از کتابخانه Aspose.Cells for C++، به راحتی فایل‌های PNG را تولید و دستکاری کنید. این کتابخانه قدرتمند API یک راهکار ساده و کارآمد برای ایجاد، ویرایش و مدیریت فایل‌های PNG مستقیماً در برنامه‌های C++ شما ارائه می‌دهد و نیازهای خاص توسعه‌دهندگان را با دقت بالا برآورده می‌کند.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ Create PNG file., Generate PNG file in C++., Write data to PNG file via C++., C++ PNG Creater., Aspose.Cells for C++ is a powerful library that enables developers to programmatically create, generate, and manipulate PNG files in C++]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="فایل PNG را در C++ ایجاد کنید" h2="ایجاد فایل بومی و با کارایی بالا PNG به صورت برنامه نویسی بدون Micorsoft Office با استفاده از کتابخانه C++." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" sourceAdditionalConversionTag="" additionalConversionTag="PNG" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -11,7 +11,7 @@ keywords: [Aspose Excel., C++ Aspose.Cells., C++ Create PNG file., Generate PNG 
 
 {{% blocks/products/pf/agp/content h2="با استفاده از C++ فایل PNG ایجاد کنید" %}}
 
- چگونه فایل PNG ایجاد کنیم؟ با کتابخانه Aspose.Cells for C++ به راحتی می توانید فایل PNG را به صورت برنامه نویسی با چند خط کد ایجاد کنید.[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) قادر به ساخت برنامه های چند پلتفرمی با قابلیت تولید، تغییر، تبدیل، رندر و چاپ تمام فایل های اکسل است. C++ اکسل API نه تنها بین فرمت های صفحه گسترده تبدیل می شود، بلکه می تواند فایل های اکسل را به صورت تصویر، PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT و موارد دیگر ارائه دهد، بنابراین آن را به گزینه ای عالی برای تبادل اسناد در قالب های استاندارد صنعتی تبدیل می کند. شما می توانید آخرین نسخه آن را مستقیما دانلود کنید، فقط باز کنید[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) Package Manager Aspose.Cells.Cpp را جستجو کرده و نصب کنید. همچنین می توانید از دستور زیر در کنسول Package Manager استفاده کنید.
+ چگونه فایل PNG ایجاد کنیم؟ با کتابخانه Aspose.Cells for C++ به راحتی می توانید فایل PNG را به صورت برنامه نویسی با چند خط کد ایجاد کنید.[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) قادر به ساخت برنامه های چند پلتفرمی با قابلیت تولید، تغییر، تبدیل، رندر و چاپ تمام فایل های اکسل است. C++ اکسل API نه تنها بین فرمت های صفحه گسترده تبدیل می شود، بلکه می تواند فایل های اکسل را به صورت تصویر، PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT و موارد دیگر ارائه دهد، بنابراین آن را به گزینه ای عالی برای تبادل اسناد در قالب های استاندارد صنعتی تبدیل می کند. شما می توانید آخرین نسخه آن را مستقیما دانلود کنید، فقط باز کنید[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/)Package Manager Aspose.Cells.Cpp را جستجو کرده و نصب کنید. همچنین می توانید از دستور زیر در کنسول Package Manager استفاده کنید.
 
 {{% blocks/products/pf/agp/code-block title="فرمان" offSpacer="true" %}}
 
@@ -37,14 +37,15 @@ PM> Install-Package Aspose.Cells.Cpp
 1.  یک شی از کلاس Workbook ایجاد کنید.
 1.  اولین ورق را در یک شیء Worksheet دریافت کنید.
 1.  از متد Worksheet.GetCells() برای وارد کردن سلول های کاربرگ به یک شی Cells استفاده کنید.
-1. از متد Cells.Get() برای دسترسی به سلول مورد نظر کاربرگ در یک شی Cell استفاده کنید.
+1.  از متد Cells.Get() برای دسترسی به سلول مورد نظر کاربرگ در یک شی Cell استفاده کنید.
 1.  از متد Cell.PutValue() برای وارد کردن مقدار به سلول استفاده کنید.
-1.  با استفاده از روش Save() Workbook را به صورت فایل png. ذخیره کنید.
+1.  با استفاده از متد Save()، فایل workbook را با فرمت .png ذخیره کنید.
 
 {{% blocks/products/pf/agp/code-block title="کد نمونه نحوه ایجاد فایل PNG را در C++ نشان می دهد." offSpacer="" %}}
 
 ```cs
 Aspose::Cells::Startup();
+//TIFF format is not supported
 
 // Create an object of the Workbook class.
 Workbook wkb;

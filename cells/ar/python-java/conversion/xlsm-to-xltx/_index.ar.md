@@ -1,7 +1,7 @@
 ---
 title: Python XLSM الى XLTX - XLSM الى XLTX محول
-description: Aspose اكسل. Python اكسل. قم بتحويل XLSM إلى XLTX بسرعة وسهولة باستخدام Aspose.Cells. Python XLSM إلى XLTX. Python احفظ XLSM إلى XLTX. احفظ XLSM كـ 076112 3481 باستخدام مكتبة إكسل Python.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert XLSM to XLTX in Python Excel Library., Save XLSM to XLTX using Python Excel Library., Python XLSM to XLTX saveformat., XLSM to XLTX Converter., Python Save XLSM as XLTX]
+description: Aspose Excel. يوفر هذا الحل الشامل للمطورين Python نهجًا متكاملًا تمامًا لتحويل XLSM إلى تنسيق XLTX، مما يتيح حفظ البيانات بسلاسة في تنسيق XLTX باستخدام مكتبة Aspose.Cells، كل ذلك من خلال كود Python فعال وقابل للتخصيص.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart XLSM files to XLTX Converter for Python., Convert XLSM to XLTX in Python., XLSM files to XLTX Conversion in Python., Leverage intelligent data processing to automatically parse and save XLSM into XLTX format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="تحويل XLSM إلى XLTX في Python مكتبة إكسل" h2="مكتبة إكسل Python عالية السرعة لتحويل XLSM إلى XLTX. هذا حل برمجي احترافي لاستيراد وتصدير XLSM، XLTX، والعديد من التنسيقات الأخرى باستخدام Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLTX" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -27,7 +27,7 @@ keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert X
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="نموذج التعليمات البرمجية لتحويل XLSM إلى XLTX عبر مكتبة Excel Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsm" outformat="xltx" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="نموذج التعليمات البرمجية لتحويل XLSM إلى XLTX عبر مكتبة Excel Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="xlsm" outformat="xltx" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="كيفية تحويل XLSM إلى XLTX عبر Python" %}}
 

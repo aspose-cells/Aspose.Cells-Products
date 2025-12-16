@@ -1,7 +1,7 @@
 ---
 title: ایجاد SXC - ایجاد فایل SXC در C++
-description: Aspose اکسل. C++ ایجاد فایل SXC به سرعت و به راحتی با Aspose.Cells. ایجاد فایل SXC با استفاده از C++. ایجاد SXC در C++. 07134813
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ Create SXC file., Generate SXC file in C++., Create SXC file using C++., Write data to SXC file via C++., Create a SXC file in C++., C++ Generate a SXC file., C++ SXC Creater]
+description: Aspose اکسل. با استفاده از کتابخانه Aspose.Cells for C++، به راحتی فایل‌های SXC را تولید و دستکاری کنید. این کتابخانه قدرتمند API یک راهکار ساده و کارآمد برای ایجاد، ویرایش و مدیریت فایل‌های SXC مستقیماً در برنامه‌های C++ شما ارائه می‌دهد و نیازهای خاص توسعه‌دهندگان را با دقت بالا برآورده می‌کند.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ Create SXC file., Generate SXC file in C++., Write data to SXC file via C++., C++ SXC Creater., Aspose.Cells for C++ is a powerful library that enables developers to programmatically create, generate, and manipulate SXC files in C++]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="فایل SXC را در C++ ایجاد کنید" h2="ایجاد فایل بومی و با کارایی بالا SXC به صورت برنامه نویسی بدون Micorsoft Office با استفاده از کتابخانه C++." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" sourceAdditionalConversionTag="" additionalConversionTag="SXC" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -11,7 +11,7 @@ keywords: [Aspose Excel., C++ Aspose.Cells., C++ Create SXC file., Generate SXC 
 
 {{% blocks/products/pf/agp/content h2="با استفاده از C++ فایل SXC ایجاد کنید" %}}
 
- چگونه فایل SXC ایجاد کنیم؟ با کتابخانه Aspose.Cells for C++ به راحتی می توانید فایل SXC را به صورت برنامه نویسی با چند خط کد ایجاد کنید.[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) قادر به ساخت برنامه های چند پلتفرمی با قابلیت تولید، تغییر، تبدیل، رندر و چاپ تمام فایل های اکسل است. C++ اکسل API نه تنها بین فرمت های صفحه گسترده تبدیل می شود، بلکه می تواند فایل های اکسل را به صورت تصویر، PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT و موارد دیگر ارائه دهد، بنابراین آن را به گزینه ای عالی برای تبادل اسناد در قالب های استاندارد صنعتی تبدیل می کند. شما می توانید آخرین نسخه آن را مستقیما دانلود کنید، فقط باز کنید[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) Package Manager Aspose.Cells.Cpp را جستجو کرده و نصب کنید. همچنین می توانید از دستور زیر در کنسول Package Manager استفاده کنید.
+ چگونه فایل SXC ایجاد کنیم؟ با کتابخانه Aspose.Cells for C++ به راحتی می توانید فایل SXC را به صورت برنامه نویسی با چند خط کد ایجاد کنید.[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) قادر به ساخت برنامه های چند پلتفرمی با قابلیت تولید، تغییر، تبدیل، رندر و چاپ تمام فایل های اکسل است. C++ اکسل API نه تنها بین فرمت های صفحه گسترده تبدیل می شود، بلکه می تواند فایل های اکسل را به صورت تصویر، PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT و موارد دیگر ارائه دهد، بنابراین آن را به گزینه ای عالی برای تبادل اسناد در قالب های استاندارد صنعتی تبدیل می کند. شما می توانید آخرین نسخه آن را مستقیما دانلود کنید، فقط باز کنید[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/)Package Manager Aspose.Cells.Cpp را جستجو کرده و نصب کنید. همچنین می توانید از دستور زیر در کنسول Package Manager استفاده کنید.
 
 {{% blocks/products/pf/agp/code-block title="فرمان" offSpacer="true" %}}
 
@@ -37,14 +37,15 @@ PM> Install-Package Aspose.Cells.Cpp
 1.  یک شی از کلاس Workbook ایجاد کنید.
 1.  اولین ورق را در یک شیء Worksheet دریافت کنید.
 1.  از متد Worksheet.GetCells() برای وارد کردن سلول های کاربرگ به یک شی Cells استفاده کنید.
-1. از متد Cells.Get() برای دسترسی به سلول مورد نظر کاربرگ در یک شی Cell استفاده کنید.
+1.  از متد Cells.Get() برای دسترسی به سلول مورد نظر کاربرگ در یک شی Cell استفاده کنید.
 1.  از متد Cell.PutValue() برای وارد کردن مقدار به سلول استفاده کنید.
-1.  با استفاده از متد Save() Workbook را به صورت فایل .sxc ذخیره کنید.
+1.  با استفاده از متد Save()، فایل workbook را با فرمت .sxc ذخیره کنید.
 
 {{% blocks/products/pf/agp/code-block title="کد نمونه نحوه ایجاد فایل SXC را در C++ نشان می دهد." offSpacer="" %}}
 
 ```cs
 Aspose::Cells::Startup();
+//TIFF format is not supported
 
 // Create an object of the Workbook class.
 Workbook wkb;
@@ -110,7 +111,7 @@ Aspose::Cells::Cleanup();
 
 <!-- aboutfile Starts -->
     {{< blocks/products/pf/agp/about-file-section >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="SXC" readMoreLink="https://docs.fileformat.com/spreadsheet/sxc/" >}}فرمت فایل SXC (Sun XML Calc) متعلق به یک مجموعه اداری به نام OpenOffice.org است. این قالب به طور کلی با نیازهای صفحه گسترده کاربران سروکار دارد زیرا یک فرمت فایل صفحه گسترده مبتنی بر XML است. فرمت SXC از فرمول‌ها، توابع، ماکروها و نمودارها همراه با DataPilot پشتیبانی می‌کند، که یک ویژگی باورنکردنی است زیرا به طور خودکار شخصی‌سازی می‌شود و خلاصه‌ای از داده‌های وارداتی خام را ارائه می‌دهد. فایل های ایجاد شده با این نرم افزار با پسوند .sxc ذخیره می شوند.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="SXC" readMoreLink="https://docs.fileformat.com/spreadsheet/sxc/" >}}فرمت فایل SXC (Sun XML Calc) متعلق به یک مجموعه اداری به نام OpenOffice.org است. این قالب به طور کلی با نیازهای صفحه گسترده کاربران سروکار دارد زیرا یک فرمت فایل صفحه گسترده مبتنی بر XML است. فرمت SXC از فرمول‌ها، توابع، ماکروها و نمودارها همراه با DataPilot پشتیبانی می‌کند، که یک ویژگی باورنکردنی است زیرا به‌طور خودکار شخصی‌سازی می‌شود و خلاصه‌ای از داده‌های وارداتی خام را ارائه می‌دهد. فایل های ایجاد شده با این نرم افزار با پسوند .sxc ذخیره می شوند.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
     {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->
 

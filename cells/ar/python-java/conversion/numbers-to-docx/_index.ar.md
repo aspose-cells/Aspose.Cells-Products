@@ -1,7 +1,7 @@
 ---
 title: تحويل Python الى DOCX - تحويل الارقام الى DOCX
-description: Aspose اكسل. Python اكسل. قم بتحويل NUMBERS إلى DOCX بسرعة وسهولة باستخدام Aspose.Cells. Python NUMBERS إلى DOCX. Python احفظ NUMBERS إلى DOCX. احفظ NUMBERS كـ DOCX باستخدام مكتبة Excel Python.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert NUMBERS to DOCX in Python Excel Library., Save NUMBERS to DOCX using Python Excel Library., Python NUMBERS to DOCX saveformat., NUMBERS to DOCX Converter., Python Save NUMBERS as DOCX]
+description: Aspose Excel. يوفر هذا الحل الشامل للمطورين Python نهجًا متكاملًا تمامًا لتحويل الأرقام إلى تنسيق DOCX، مما يتيح حفظ بيانات الأرقام بسلاسة بتنسيق DOCX باستخدام مكتبة Aspose.Cells، كل ذلك من خلال كود Python فعال وقابل للتخصيص.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart NUMBERS files to DOCX Converter for Python., Convert NUMBERS to DOCX in Python., NUMBERS files to DOCX Conversion in Python., Leverage intelligent data processing to automatically parse and save NUMBERS into DOCX format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="تحويل الأرقام إلى DOCX في Python مكتبة إكسل" h2="مكتبة Excel Python عالية السرعة لتحويل الأرقام إلى DOCX. هذا حل برمجي احترافي لاستيراد وتصدير الأرقام وDOCX والعديد من التنسيقات الأخرى باستخدام Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="DOCX" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -27,7 +27,7 @@ keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert N
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="نموذج التعليمات البرمجية لتحويل الأرقام إلى DOCX عبر مكتبة Excel Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="numbers" outformat="docx" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="نموذج التعليمات البرمجية لتحويل الأرقام إلى DOCX عبر مكتبة Excel Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="numbers" outformat="docx" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="كيفية تحويل الأرقام إلى DOCX عبر Python" %}}
 

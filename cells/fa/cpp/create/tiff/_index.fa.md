@@ -1,7 +1,7 @@
 ---
 title: ایجاد TIFF - ایجاد فایل TIFF در C++
-description:  Aspose اکسل. C++ ایجاد فایل TIFF به سرعت و به راحتی با Aspose.Cells. ایجاد فایل TIFF با استفاده از C++. ایجاد TIFF در C++. 07134813
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ Create TIFF file., Generate TIFF file in C++., Create TIFF file using C++., Write data to TIFF file via C++., Create a TIFF file in C++., C++ Generate a TIFF file., C++ TIFF Creater]
+description: Aspose اکسل. با استفاده از کتابخانه Aspose.Cells for C++، به راحتی فایل‌های TIFF را تولید و دستکاری کنید. این کتابخانه قدرتمند API یک راهکار ساده و کارآمد برای ایجاد، ویرایش و مدیریت فایل‌های TIFF مستقیماً در برنامه‌های C++ شما ارائه می‌دهد و نیازهای خاص توسعه‌دهندگان را با دقت بالا برآورده می‌کند.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ Create TIFF file., Generate TIFF file in C++., Write data to TIFF file via C++., C++ TIFF Creater., Aspose.Cells for C++ is a powerful library that enables developers to programmatically create, generate, and manipulate TIFF files in C++]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="فایل TIFF را در C++ ایجاد کنید" h2="ایجاد فایل بومی و با کارایی بالا TIFF به صورت برنامه نویسی بدون Micorsoft Office با استفاده از کتابخانه C++." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" sourceAdditionalConversionTag="" additionalConversionTag="TIFF" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -45,6 +45,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 ```cs
 Aspose::Cells::Startup();
+//TIFF format is not supported
 
 // Create an object of the Workbook class.
 Workbook wkb;
@@ -69,6 +70,7 @@ cell00.PutValue(u"ColumnA");
 cell01.PutValue(u"ColumnB");
 cell10.PutValue(u"ValueA");
 cell11.PutValue(u"ValueB");
+
 
 // Save workbook to resultFile folder
 wkb.Save(u"created_one.tiff");

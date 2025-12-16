@@ -1,7 +1,7 @@
 ---
 title: تحويل Python PRN إلى TXT - تحويل PRN إلى TXT
-description: Aspose اكسل. Python اكسل. قم بتحويل PRN إلى TXT بسرعة وسهولة باستخدام Aspose.Cells. Python PRN إلى TXT. Python احفظ PRN إلى TXT. احفظ PRN كـ TXT باستخدام مكتبة Excel Python.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert PRN to TXT in Python Excel Library., Save PRN to TXT using Python Excel Library., Python PRN to TXT saveformat., PRN to TXT Converter., Python Save PRN as TXT]
+description: Aspose Excel. يوفر هذا الحل الشامل للمطورين Python نهجًا متكاملًا تمامًا لتحويل PRN إلى تنسيق TXT، مما يتيح حفظ بيانات PRN بسلاسة بتنسيق TXT باستخدام مكتبة Aspose.Cells، كل ذلك من خلال كود Python فعال وقابل للتخصيص.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart PRN files to TXT Converter for Python., Convert PRN to TXT in Python., PRN files to TXT Conversion in Python., Leverage intelligent data processing to automatically parse and save PRN into TXT format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="تحويل PRN إلى TXT في مكتبة Excel Python" h2="مكتبة Excel Python عالية السرعة لتحويل PRN إلى TXT. هذا حل برمجي احترافي لاستيراد وتصدير PRN وTXT والعديد من التنسيقات الأخرى باستخدام Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="TXT" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -27,7 +27,7 @@ keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert P
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="نموذج التعليمات البرمجية لتحويل PRN إلى TXT عبر مكتبة Excel Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="prn" outformat="txt" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="نموذج التعليمات البرمجية لتحويل PRN إلى TXT عبر مكتبة Excel Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="prn" outformat="txt" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="كيفية تحويل PRN إلى TXT عبر Python" %}}
 

@@ -1,8 +1,8 @@
 ---
-title:  Python جدول بيانات إكسل API - Aspose
+title: Python جدول بيانات إكسل API - Aspose.Cells for Python via Java
 weight: 2820
-description: مكتبة Python لإنشاء وإصلاح ودمج وتحليل وتحويل ملفات إكسل. تحويل Excel إلى PDF، JSON، HTML، TXT وغيرها من التنسيقات الشائعة.
-keywords: [Python Aspose.Cells Create parse repair merge convert JSON Excel XML PDF HTML TSV SQL CSV TSV PNG JPEG and more formats]
+description: مكتبة Aspose.Cells وfor Python وvia Java لإنشاء ملفات إكسل وإصلاحها ودمجها وتحليلها وتحويلها. يمكنك تحويل ملفات إكسل إلى صيغ PDF وJSON وHTML وTXT وغيرها من الصيغ الشائعة باستخدام Aspose.Cells وfor Python وvia Java وAPI.
+keywords: [Aspose.Cells for Python via Java Create parse repair merge convert JSON Excel XML PDF HTML TSV SQL CSV TSV PNG JPEG and more formats]
 ---
 {{< blocks/products/pf/main-wrap-class >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Python تحليل جداول بيانات Excel لواجهات برمجة التطبيقات" h2="إنشاء جداول البيانات أو قراءتها أو كتابتها أو معالجتها بالإضافة إلى تصدير ملفات Excel إلى تنسيقات متعددة ضمن تطبيقات Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/headers/aspose_cells-for-python-java.svg" pfName="Aspose.Cells" subTitlepfName="for Python via Java" downloadUrl="https://releases.aspose.com/cells/python-java/" >}}

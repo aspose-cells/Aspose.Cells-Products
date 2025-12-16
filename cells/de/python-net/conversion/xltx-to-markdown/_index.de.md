@@ -1,7 +1,7 @@
 ---
 title: Python XLTX bis MARKDOWN - XLTX bis MARKDOWN Konverter
-description: Aspose Excel. Python Excel. Konvertieren Sie XLTX schnell und einfach in MARKDOWN mit Aspose.Cells. Python XLTX in MARKDOWN. Python Speichern Sie XLTX in MARKDOWN. Speichern Sie XLTX als MARKDOWN mit der Python Excel-Bibliothek.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert XLTX to MARKDOWN in Python Excel Library., Save XLTX to MARKDOWN using Python Excel Library., Python XLTX to MARKDOWN saveformat., XLTX to MARKDOWN Converter., Python Save XLTX as MARKDOWN]
+description: Aspose Excel. Diese umfassende Lösung bietet Entwicklern einen vollständig integrierten Ansatz zur Konvertierung von XLTX in das Format MARKDOWN und ermöglicht das nahtlose Speichern von XLTX-Daten im Format MARKDOWN mithilfe der Aspose.Cells-Bibliothek – alles durch effizienten und anpassbaren Python-Code.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart XLTX files to MARKDOWN Converter for Python., Convert XLTX to MARKDOWN in Python., XLTX files to MARKDOWN Conversion in Python., Leverage intelligent data processing to automatically parse and save XLTX into MARKDOWN format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Konvertieren Sie XLTX in MARKDOWN in der Excel-Bibliothek Python" h2="Hochgeschwindigkeits-Excel-Bibliothek Python zum Konvertieren von XLTX in MARKDOWN. Verwenden Sie unsere Excel-Konvertierung API, um plattformunabhängige Software auf hohem Niveau in Python zu entwickeln." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="MARKDOWN" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -28,7 +28,7 @@ Befolgen Sie die einfachen Schritte, um XLTX in MARKDOWN zu konvertieren. Laden 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Beispielcode zur Konvertierung von XLTX in MARKDOWN über die Excel-Bibliothek Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xltx" outformat="md" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Beispielcode zur Konvertierung von XLTX in MARKDOWN über die Excel-Bibliothek Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="xltx" outformat="md" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="So konvertieren Sie XLTX in MARKDOWN" %}}
 

@@ -1,7 +1,7 @@
 ---
 title: Python NUMBERS به PRN - تبدیل NUMBERS به PRN
-description: Aspose اکسل. Python اکسل. تبدیل NUMBERS به PRN به سرعت و به راحتی با Aspose.Cells. Python NUMBERS به PRN. Python NUMBERS را در PRN ذخیره کنید. با استفاده از Python Excel Library NUMBERS را به عنوان PRN ذخیره کنید.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert NUMBERS to PRN in Python Excel Library., Save NUMBERS to PRN using Python Excel Library., Python NUMBERS to PRN saveformat., NUMBERS to PRN Converter., Python Save NUMBERS as PRN]
+description: Aspose اکسل. این راهکار جامع، رویکردی کاملاً یکپارچه برای تبدیل اعداد به فرمت PRN در اختیار توسعه‌دهندگان Python قرار می‌دهد و امکان ذخیره یکپارچه داده‌های اعداد به فرمت PRN را با استفاده از کتابخانه Aspose.Cells، از طریق کد کارآمد و قابل تنظیم Python، فراهم می‌کند.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart NUMBERS files to PRN Converter for Python., Convert NUMBERS to PRN in Python., NUMBERS files to PRN Conversion in Python., Leverage intelligent data processing to automatically parse and save NUMBERS into PRN format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="NUMBERS را در کتابخانه اکسل Python به PRN تبدیل کنید" h2="کتابخانه اکسل پرسرعت Python برای تبدیل NUMBERS به PRN. از تبدیل اکسل API ما برای توسعه نرم افزار سطح بالا و مستقل از پلت فرم در Python استفاده کنید." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="PRN" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -28,7 +28,7 @@ keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert N
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="نمونه کد برای تبدیل NUMBERS به PRN از طریق Python Excel Library" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="numbers" outformat="prn" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="نمونه کد برای تبدیل NUMBERS به PRN از طریق Python Excel Library" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="numbers" outformat="prn" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="چگونه NUMBERS را به PRN تبدیل کنیم" %}}
 

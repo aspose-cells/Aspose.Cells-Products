@@ -1,7 +1,7 @@
 ---
 title: Python JPG zu BILD - JPG zu BILD Konverter
-description: Aspose Excel. Python Excel. Konvertieren Sie JPG schnell und einfach in BILD mit Aspose.Cells. Python JPG in BILD. Python Speichern Sie JPG als BILD. Speichern Sie JPG als BILD mit Python Excel-Bibliothek.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert JPG to IMAGE in Python Excel Library., Save JPG to IMAGE using Python Excel Library., Python JPG to IMAGE saveformat., JPG to IMAGE Converter., Python Save JPG as IMAGE]
+description: Aspose Excel. Diese umfassende Lösung bietet Entwicklern einen vollständig integrierten Ansatz zur Konvertierung von JPG in das IMAGE-Format und ermöglicht das nahtlose Speichern von JPG-Daten im IMAGE-Format mithilfe der Bibliothek Aspose.Cells, alles durch effizienten und anpassbaren Code Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart JPG files to IMAGE Converter for Python., Convert JPG to IMAGE in Python., JPG files to IMAGE Conversion in Python., Leverage intelligent data processing to automatically parse and save JPG into IMAGE format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Konvertieren Sie JPG in BILD in der Python Excel-Bibliothek" h2="Hochgeschwindigkeits-Excel-Bibliothek Python zum Konvertieren von JPG in IMAGE. Dies ist eine professionelle Softwarelösung zum Importieren und Exportieren von JPG, IMAGE und vielen anderen Formaten mit Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="IMAGE" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -27,7 +27,7 @@ Folgen Sie den einfachen Schritten, um JPG in IMAGE umzuwandeln. Laden Sie Ihre 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Beispielcode zum Konvertieren von JPG in BILD über die Excel-Bibliothek Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="jpg" outformat="png" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="Beispielcode zum Konvertieren von JPG in BILD über die Excel-Bibliothek Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="jpg" outformat="png" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="So konvertieren Sie JPG in IMAGE über Python" %}}
 

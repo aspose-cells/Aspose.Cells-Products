@@ -1,7 +1,7 @@
 ---
 title: Python MHTML به EXCEL - MHTML به EXCEL تبدیل
-description: Aspose اکسل. Python اکسل. MHTML را سریع و آسان با Aspose.Cells به EXCEL تبدیل کنید. Python MHTML به EXCEL. Python MHTML را در EXCEL ذخیره کنید. MHTML را به عنوان EXCEL با استفاده از Python Excel Library ذخیره کنید.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert MHTML to EXCEL in Python Excel Library., Save MHTML to EXCEL using Python Excel Library., Python MHTML to EXCEL saveformat., MHTML to EXCEL Converter., Python Save MHTML as EXCEL]
+description: Aspose اکسل. این راهکار جامع، رویکردی کاملاً یکپارچه برای تبدیل فرمت MHTML به فرمت EXCEL در اختیار توسعه‌دهندگان Python قرار می‌دهد و امکان ذخیره یکپارچه داده‌های MHTML به فرمت EXCEL را با استفاده از کتابخانه Aspose.Cells، از طریق کد کارآمد و قابل تنظیم Python، فراهم می‌کند.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart MHTML files to EXCEL Converter for Python., Convert MHTML to EXCEL in Python., MHTML files to EXCEL Conversion in Python., Leverage intelligent data processing to automatically parse and save MHTML into EXCEL format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="تبدیل MHTML به EXCEL در Python Excel Library" h2="کتابخانه اکسل پرسرعت Python برای تبدیل MHTML به EXCEL. این یک راه حل نرم افزاری حرفه ای برای واردات و صادرات MHTML، EXCEL و بسیاری از فرمت های دیگر با استفاده از Python است." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="EXCEL" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -27,7 +27,7 @@ keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert M
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="نمونه کد برای تبدیل MHTML به EXCEL از طریق Python Excel Library" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="mhtml" outformat="xlsx" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="نمونه کد برای تبدیل MHTML به EXCEL از طریق Python Excel Library" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="mhtml" outformat="xlsx" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="نحوه تبدیل MHTML به EXCEL از طریق Python" %}}
 

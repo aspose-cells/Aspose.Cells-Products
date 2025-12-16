@@ -1,7 +1,7 @@
 ---
-title: PHP FODS a JPG - Convertidor de FODS a JPG
-description: Aspose Excel. Convierta FODS a JPG rápida y fácilmente con Aspose.Cells. PHP FODS a JPG. PHP Guarde FODS en JPG. Guarde FODS como JPG usando PHP.
-keywords: [Aspose Excel., PHP Aspose.Cells., Convert FODS to JPG in PHP., Save FODS to JPG using PHP., PHP FODS to JPG saveformat., FODS to JPG Converter., PHP Save FODS as JPG]
+title: Convertidor de PHP FODS a JPG - Convertidor de FODS a JPG
+description: Aspose Excel. Esta solución integral ofrece a los desarrolladores PHP un enfoque totalmente integrado para convertir FODS a formato JPG, lo que permite guardar sin problemas los datos FODS en formato JPG mediante la biblioteca Aspose.Cells, todo mediante código PHP eficiente y personalizable.
+keywords: [Aspose Excel., PHP Aspose.Cells., Smart FODS files to JPG Converter for PHP., Convert FODS to JPG in PHP., FODS files to JPG Conversion in PHP., Leverage intelligent data processing to automatically parse and save FODS into JPG format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Convertir FODS a JPG en PHP" h2="Biblioteca PHP de alta velocidad para convertir FODS a JPG. Esta es una solución de software profesional para importar y exportar FODS, JPG y muchos otros formatos usando PHP." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-php-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="JPG" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,11 +12,11 @@ keywords: [Aspose Excel., PHP Aspose.Cells., Convert FODS to JPG in PHP., Save F
 
 {{% blocks/products/pf/agp/content h2="Convertir FODS a JPG usando PHP" %}}
 
- ¿Cómo convierto FODS a JPG? Con la biblioteca Aspose.Cells for PHP via Java, puede convertir fácilmente FODS a JPG mediante programación con unas pocas líneas de código.[Aspose.Cells for PHP via Java](https://products.aspose.com/cells/php-java/) es capaz de crear aplicaciones multiplataforma con la capacidad de generar, modificar, convertir, renderizar e imprimir todos los archivos de Excel. PHP Excel API no sólo convierte entre formatos de hojas de cálculo, sino que también puede representar archivos de Excel como imágenes, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT y más, lo que lo convierte en una opción perfecta para intercambiar documentos en formatos estándar de la industria.
+ ¿Cómo convierto FODS a JPG? Con la biblioteca Aspose.Cells for PHP via Java, puedes convertir fácilmente FODS a JPG programáticamente con solo unas pocas líneas de código.[Aspose.Cells for PHP via Java](https://products.aspose.com/cells/php-java/) Es capaz de crear aplicaciones multiplataforma con la capacidad de generar, modificar, convertir, renderizar e imprimir todos los archivos de Excel. PHP Excel API no solo convierte entre formatos de hoja de cálculo, sino que también puede renderizar archivos de Excel como imágenes, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT y más, lo que lo convierte en la opción ideal para intercambiar documentos en formatos estándar de la industria.
  
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Guarde FODS en JPG en PHP" %}}
+{{% blocks/products/pf/agp/content h2="Guardar FODS en JPG en PHP" %}}
 
 El siguiente ejemplo demuestra cómo convertir FODS a JPG en PHP.
 {{% blocks/products/pf/agp/text %}}
@@ -27,20 +27,20 @@ Siga los sencillos pasos para convertir FODS a JPG. Cargue su archivo FODS y lue
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Código de muestra para convertir FODS a JPG" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="fods" outformat="jpg" IsLandingPage="true" language="phpjava" %}}
+{{% cells-convert title="Código de ejemplo para convertir FODS a JPG" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="fods" outformat="jpg" IsLandingPage="true" language="phpjava" %}}
 
 {{% blocks/products/pf/agp/content h2="Cómo convertir FODS a JPG mediante PHP" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
-¿Necesita convertir archivos FODS a JPG mediante programación? Los desarrolladores de PHP pueden cargar y convertir fácilmente FODS a JPG en tan solo unas pocas líneas de código.
+¿Necesitas convertir archivos FODS a JPG mediante programación? Los desarrolladores de PHP pueden cargar y convertir fácilmente archivos FODS a JPG con solo unas pocas líneas de código.
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Instale 'Aspose.Cells for PHP via Java'.
 1.  Agregue una referencia de biblioteca (importe la biblioteca) a su proyecto PHP.
 1.  Cargue el archivo FODS con una instancia de Workbook.
-1. Convierta FODS a JPG llamando al método de guardar del Libro de trabajo.
+1.  Convierta FODS a JPG llamando al método de guardado del libro de trabajo.
 1.  Obtenga el resultado de la conversión de FODS a JPG.
 
 {{% /blocks/products/pf/agp/content %}}
@@ -63,7 +63,7 @@ Hay tres opciones para instalar "Aspose.Cells for PHP via Java" en su sistema. E
 
 {{% blocks/products/pf/agp/text %}}
 
-Aspose.Cells for PHP via Java es independiente de la plataforma API y se puede utilizar en cualquier plataforma (Windows, Linux, MacOS, etc.) donde esté instalado PHP 7 o versiones superiores. La máquina debe tener Oracle JDK 7 o versiones superiores antes de configurar la instalación.
+ Aspose.Cells for PHP via Java es independiente de la plataforma API y puede utilizarse en cualquier plataforma (Windows, Linux, macOS, etc.) con PHP 7 o versiones posteriores instaladas. El equipo debe tener instalado Oracle JDK 7 o versiones posteriores antes de configurar la instalación.
  
 {{% /blocks/products/pf/agp/text %}}
 

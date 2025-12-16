@@ -1,7 +1,7 @@
 ---
 title: Python XLTM až XLS - XLTM až XLS Převodník
-description: Aspose Excel. Python Excel. Převeďte XLTM na XLS rychle a snadno pomocí Aspose.Cells. Python XLTM na XLS. Python Uložte XLTM na 1034761 101 0761 23481 pomocí knihovny Excel Python.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert XLTM to XLS in Python Excel Library., Save XLTM to XLS using Python Excel Library., Python XLTM to XLS saveformat., XLTM to XLS Converter., Python Save XLTM as XLS]
+description: Aspose Excel. Toto komplexní řešení poskytuje vývojářům Python plně integrovaný přístup k převodu formátu XLTM do formátu XLS, což umožňuje bezproblémové ukládání dat XLTM do formátu XLS pomocí knihovny Aspose.Cells, a to vše prostřednictvím efektivního a přizpůsobitelného kódu Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart XLTM files to XLS Converter for Python., Convert XLTM to XLS in Python., XLTM files to XLS Conversion in Python., Leverage intelligent data processing to automatically parse and save XLTM into XLS format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Převeďte XLTM na XLS v knihovně Excel Python" h2="Vysokorychlostní knihovna excel Python pro převod XLTM na XLS. Použijte naši konverzi Excel API k vývoji softwaru na vysoké úrovni, nezávislého na platformě v Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLS" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -28,7 +28,7 @@ Postupujte podle jednoduchých kroků pro převod XLTM na XLS. Nahrajte svůj so
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Ukázkový kód pro převod XLTM na XLS prostřednictvím knihovny Excel Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xltm" outformat="xls" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Ukázkový kód pro převod XLTM na XLS prostřednictvím knihovny Excel Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="xltm" outformat="xls" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="Jak převést XLTM na XLS" %}}
 
@@ -82,8 +82,8 @@ Aspose.Cells for Python přes NET je nezávislé na platformě API a lze jej pou
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xltm-to-bmp/" name="XLTM DO BMP" description="Bitmapový obrázek" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xltm-to-emf/" name="XLTM DO EMF" description="Vylepšený formát metasouborů" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xltm-to-gif/" name="XLTM DO GIF" description="Grafický výměnný formát" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xltm-to-html/" name="XLTM DO HTML" description="Hyper Text Markup Language" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xltm-to-md/" name="XLTM MD" description="Markdown Language" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xltm-to-html/" name="XLTM DO HTML" description="Hypertextový značkovací jazyk" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xltm-to-md/" name="XLTM MD" description="Jazyk Markdown" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xltm-to-mhtml/" name="XLTM DO MHTML" description="Formát archivu webové stránky" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xltm-to-ods/" name="XLTM DO ODS" description="Soubor tabulkového procesoru OpenDocument" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xltm-to-pdf/" name="XLTM DO PDF" description="Přenosný formát dokumentu" >}}

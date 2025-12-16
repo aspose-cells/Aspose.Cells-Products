@@ -1,7 +1,7 @@
 ---
 title: Δημιουργία JPEG - Δημιουργία αρχείου JPEG στο C++
-description: Aspose Excel. C++ Δημιουργία JPEG Αρχειοθέτηση γρήγορα και εύκολα με το Aspose.Cells. Δημιουργήστε το αρχείο JPEG χρησιμοποιώντας το C++. Δημιουργήστε το JPEG στο C++. 0714074.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ Create JPEG file., Generate JPEG file in C++., Create JPEG file using C++., Write data to JPEG file via C++., Create a JPEG file in C++., C++ Generate a JPEG file., C++ JPEG Creater]
+description: Aspose Excel. Δημιουργήστε και χειριστείτε εύκολα αρχεία JPEG με τη βιβλιοθήκη Aspose.Cells for C++. Αυτό το ισχυρό API παρέχει μια βελτιστοποιημένη και αποτελεσματική λύση για τη δημιουργία, επεξεργασία και διαχείριση αρχείων JPEG απευθείας στις εφαρμογές σας C++, καλύπτοντας τις συγκεκριμένες ανάγκες των προγραμματιστών με υψηλή ακρίβεια.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ Create JPEG file., Generate JPEG file in C++., Write data to JPEG file via C++., C++ JPEG Creater., Aspose.Cells for C++ is a powerful library that enables developers to programmatically create, generate, and manipulate JPEG files in C++]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Δημιουργήστε αρχείο JPEG στο C++" h2="Δημιουργία εγγενούς και υψηλής απόδοσης αρχείου JPEG μέσω προγραμματισμού χωρίς το Micorsoft Office χρησιμοποιώντας τη βιβλιοθήκη C++." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" sourceAdditionalConversionTag="" additionalConversionTag="JPEG" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -11,7 +11,7 @@ keywords: [Aspose Excel., C++ Aspose.Cells., C++ Create JPEG file., Generate JPE
 
 {{% blocks/products/pf/agp/content h2="Δημιουργήστε το αρχείο JPEG χρησιμοποιώντας το C++" %}}
 
- Πώς να δημιουργήσετε το αρχείο JPEG; Με τη βιβλιοθήκη Aspose.Cells for C++, μπορείτε εύκολα να δημιουργήσετε το αρχείο JPEG μέσω προγραμματισμού με λίγες γραμμές κώδικα.[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) έχει τη δυνατότητα δημιουργίας εφαρμογών πολλαπλών πλατφορμών με δυνατότητα δημιουργίας, τροποποίησης, μετατροπής, απόδοσης και εκτύπωσης όλων των αρχείων Excel. C++ Το Excel API όχι μόνο μετατρέπει μεταξύ μορφών υπολογιστικών φύλλων, αλλά μπορεί επίσης να αποδώσει αρχεία Excel ως εικόνες, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT και άλλα, καθιστώντας έτσι την τέλεια επιλογή για την ανταλλαγή εγγράφων σε βιομηχανικές τυποποιημένες μορφές. Μπορείτε να κατεβάσετε την τελευταία του έκδοση απευθείας, απλά ανοίξτε[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) διαχειριστής πακέτων, αναζητήστε Aspose.Cells.Cpp και εγκαταστήστε. Μπορείτε επίσης να χρησιμοποιήσετε την ακόλουθη εντολή από την Κονσόλα Package Manager.
+ Πώς να δημιουργήσετε το αρχείο JPEG; Με τη βιβλιοθήκη Aspose.Cells for C++, μπορείτε εύκολα να δημιουργήσετε το αρχείο JPEG μέσω προγραμματισμού με λίγες γραμμές κώδικα.[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) έχει τη δυνατότητα δημιουργίας εφαρμογών πολλαπλών πλατφορμών με δυνατότητα δημιουργίας, τροποποίησης, μετατροπής, απόδοσης και εκτύπωσης όλων των αρχείων Excel. C++ Το Excel API όχι μόνο μετατρέπει μεταξύ μορφών υπολογιστικών φύλλων, αλλά μπορεί επίσης να αποδώσει αρχεία Excel ως εικόνες, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT και άλλα, καθιστώντας έτσι την τέλεια επιλογή για την ανταλλαγή εγγράφων σε βιομηχανικές τυποποιημένες μορφές. Μπορείτε να κατεβάσετε την τελευταία του έκδοση απευθείας, απλά ανοίξτε[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/)διαχειριστής πακέτων, αναζητήστε Aspose.Cells.Cpp και εγκαταστήστε. Μπορείτε επίσης να χρησιμοποιήσετε την ακόλουθη εντολή από την Κονσόλα Package Manager.
 
 {{% blocks/products/pf/agp/code-block title="Εντολή" offSpacer="true" %}}
 
@@ -37,7 +37,7 @@ PM> Install-Package Aspose.Cells.Cpp
 1.  Δημιουργήστε ένα αντικείμενο της κλάσης Βιβλίο εργασίας.
 1.  Αποκτήστε το πρώτο φύλλο σε ένα αντικείμενο φύλλου εργασίας.
 1.  Χρησιμοποιήστε τη μέθοδο Worksheet.GetCells() για να μεταφέρετε τα κελιά του φύλλου εργασίας σε ένα αντικείμενο Cells.
-1. Χρησιμοποιήστε τη μέθοδο Cells.Get() για πρόσβαση στο επιθυμητό κελί του φύλλου εργασίας σε ένα αντικείμενο Cell.
+1.  Χρησιμοποιήστε τη μέθοδο Cells.Get() για πρόσβαση στο επιθυμητό κελί του φύλλου εργασίας σε ένα αντικείμενο Cell.
 1.  Χρησιμοποιήστε τη μέθοδο Cell.PutValue() για να εισαγάγετε τιμή στο κελί.
 1.  Αποθηκεύστε το βιβλίο εργασίας ως αρχείο .jpg χρησιμοποιώντας τη μέθοδο Save().
 
@@ -45,6 +45,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 ```cs
 Aspose::Cells::Startup();
+//TIFF format is not supported
 
 // Create an object of the Workbook class.
 Workbook wkb;

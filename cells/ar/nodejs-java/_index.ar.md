@@ -1,10 +1,10 @@
 ---
-title:  واجهات برمجة تطبيقات Node.js لجداول بيانات Excel - Aspose
+title:  واجهات برمجة تطبيقات Node.js via Java لجداول بيانات Excel - Aspose
 weight: 3120
-description: معالجة تنسيقات ملفات Excel عبر مكتبة Node.js. قراءة وكتابة وتقديم وتحويل XLS XLSX XLSB XLTX XLTM XLSM XML ODS CSV والمزيد من التنسيقات عبر Node.js على Windows وmacOS وLinux
+description: معالجة ملفات Excel باستخدام مكتبة Node.js via Java. قراءة وكتابة وعرض وتحويل ملفات XLS وXLSX وXLSB وXLTX وXLTM وXLSM وXML ODS وCSV وغيرها من الصيغ باستخدام Node.js via Java على أنظمة macOS وLinux Windows
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="واجهات برمجة تطبيقات تنسيق ملف Node.js Excel" h2="قم بإنشاء جداول بيانات Excel وتعديلها وتحويلها وعرضها باستخدام Node.js دون الحاجة إلى Microsoft Excel." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/headers/aspose_cells-for-nodejs-java.svg" pfName="Aspose.Cells" subTitlepfName="for Node.js via Java" downloadUrl="https://downloads.aspose.com/cells/nodejs" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="Node.js via Java واجهات برمجة تطبيقات تنسيق ملفات Excel" h2="إنشاء وتعديل وتحويل وعرض جداول بيانات Excel باستخدام Node.js via Java دون الحاجة إلى Excel Microsoft." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/headers/aspose_cells-for-nodejs-java.svg" pfName="Aspose.Cells" subTitlepfName="for Node.js via Java" downloadUrl="https://downloads.aspose.com/cells/nodejs" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells" subTitlepfName="for Node.js via Java" >}}
 
@@ -12,7 +12,7 @@ description: معالجة تنسيقات ملفات Excel عبر مكتبة Node
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
-Aspose.Cells for Node.js via Java هو API غني بالميزات وقابل للتطوير لمعالجة جداول بيانات Excel باستخدام Node.js. API يقدم تحويل تنسيق ملفات Excel، وتصميم أوراق العمل إلى المستوى الأكثر تفصيلاً، وإنشاء المخططات &amp; العرض ومحرك حساب الصيغة الموثوق به وغير ذلك الكثير.
+ Aspose.Cells for Node.js via Java عبارة عن برنامج غني بالميزات وقابل للتوسع API لمعالجة جداول بيانات Excel باستخدام Node.js via Java. API يوفر تحويل تنسيق ملفات Excel، وتنسيق أوراق العمل بأدق مستوى، وإنشاء وعرض المخططات، ومحرك حساب صيغ موثوق به، وغير ذلك الكثير.
 </p>
 
 <p>
@@ -271,7 +271,7 @@ Aspose.Cells for Node.js via Java هو API غني بالميزات وقابل ل
  <div class="row">
   <div class="container">
    <h2 class="pr-ft">
- ميزات جدول بيانات Node.js Excel المتقدم API
+ ميزات متقدمة لـ Node.js (via Java) وجداول بيانات Excel (API).
    </h2>
    <p>
    </p>
@@ -343,7 +343,7 @@ Aspose.Cells for Node.js via Java هو API غني بالميزات وقابل ل
  تقديم جداول بيانات Excel
     </h2>
     <p>
-Aspose.Cells for Node.js via Java يستخدم محرك العرض الخاص به للعرض إلى Microsoft Excel بأعلى دقة. أثناء استخدام مكتبة Node.js Excel Processing، يمكن للمرء تحويل الأوراق الكاملة أو الملفات الفردية أو المخططات إلى صور متعددة وتنسيقات تخطيط ثابتة.
+ تستخدم Aspose.Cells وfor Node.js وvia Java محرك العرض الخاص بها لتقديم الصور إلى ملف Excel Microsoft بأعلى دقة. باستخدام مكتبة معالجة Excel via Java المبنية على Node.js، يمكن تحويل جداول البيانات الكاملة أو الملفات الفردية أو المخططات إلى صور متعددة وتنسيقات ذات تخطيط ثابت.
     </p>
    </div>
    <div class="col-lg-12">
@@ -415,7 +415,7 @@ Aspose.Cells for Node.js via Java يوفر الدعم الكامل للرسوم 
 
 {{< /blocks/products/pf/i18n/support-learning-resources >}}
 
-{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://downloads.aspose.com/cells/nodejs" pricingInformationLink="https://purchase.aspose.com/pricing/cells/nodejs-java" >}}
+{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://releases.aspose.com/cells/nodejs/" pricingInformationLink="https://purchase.aspose.com/pricing/cells/nodejs-java" >}}
 
 {{< blocks/products/pf/offers-section pfName="Aspose.Cells" description="يقدم Aspose.Cells واجهات برمجة تطبيقات Excel فردية لبيئات التطوير الشائعة الأخرى كما هو موضح أدناه:" >}}
 

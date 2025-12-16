@@ -1,7 +1,7 @@
 ---
 title: Python BILD zu DIF - BILD zu DIF Konverter
-description: Aspose Excel. Python Excel. Konvertieren Sie BILD schnell und einfach in DIF mit Aspose.Cells. Python BILD in DIF. Python Speichern Sie BILD in DIF. Speichern Sie BILD als DIF mit Python Excel-Bibliothek.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert IMAGE to DIF in Python Excel Library., Save IMAGE to DIF using Python Excel Library., Python IMAGE to DIF saveformat., IMAGE to DIF Converter., Python Save IMAGE as DIF]
+description: Aspose Excel. Diese umfassende Lösung bietet Entwicklern einen vollständig integrierten Ansatz zur Konvertierung von IMAGE in das Format DIF und ermöglicht das nahtlose Speichern von IMAGE-Daten im Format DIF mithilfe der Bibliothek Aspose.Cells, alles durch effizienten und anpassbaren Code Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart IMAGE files to DIF Converter for Python., Convert IMAGE to DIF in Python., IMAGE files to DIF Conversion in Python., Leverage intelligent data processing to automatically parse and save IMAGE into DIF format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Konvertieren Sie IMAGE in DIF in der Excel-Bibliothek Python" h2="Hochgeschwindigkeits-Excel-Bibliothek Python zum Konvertieren von IMAGE in DIF. Dies ist eine professionelle Softwarelösung zum Importieren und Exportieren von IMAGE, DIF und vielen anderen Formaten mit Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="DIF" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -27,7 +27,7 @@ Befolgen Sie die einfachen Schritte, um IMAGE in DIF zu konvertieren. Laden Sie 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Beispielcode zum Konvertieren von IMAGE in DIF über die Excel-Bibliothek Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="png" outformat="dif" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="Beispielcode zum Konvertieren von IMAGE in DIF über die Excel-Bibliothek Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="png" outformat="dif" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="So konvertieren Sie IMAGE über Python in DIF" %}}
 

@@ -1,7 +1,7 @@
 ---
 title: Python PRN σε XML - Μετατροπέας PRN σε XML
-description: Aspose Excel. Python Excel. Μετατρέψτε το PRN σε XML γρήγορα και εύκολα με το Aspose.Cells. Python PRN σε XML. Python Αποθήκευση PRN σε XML. Αποθηκεύστε το PRN ως XML χρησιμοποιώντας Python Excel Library.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert PRN to XML in Python Excel Library., Save PRN to XML using Python Excel Library., Python PRN to XML saveformat., PRN to XML Converter., Python Save PRN as XML]
+description: Aspose Excel. Αυτή η ολοκληρωμένη λύση παρέχει στους προγραμματιστές Python μια πλήρως ενσωματωμένη προσέγγιση για τη μετατροπή PRN σε μορφή XML, επιτρέποντας την απρόσκοπτη αποθήκευση δεδομένων PRN σε μορφή XML χρησιμοποιώντας τη βιβλιοθήκη Aspose.Cells, μέσω αποτελεσματικού και προσαρμόσιμου κώδικα Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart PRN files to XML Converter for Python., Convert PRN to XML in Python., PRN files to XML Conversion in Python., Leverage intelligent data processing to automatically parse and save PRN into XML format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Μετατροπή PRN σε XML στη Βιβλιοθήκη Excel Python" h2="Βιβλιοθήκη excel υψηλής ταχύτητας Python για μετατροπή PRN σε XML. Αυτή είναι μια επαγγελματική λύση λογισμικού για την εισαγωγή και εξαγωγή PRN, XML και πολλών άλλων μορφών χρησιμοποιώντας το Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="XML" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -27,7 +27,7 @@ keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert P
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Δείγμα κώδικα για μετατροπή PRN σε XML μέσω Python Excel Library" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="prn" outformat="xml" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="Δείγμα κώδικα για μετατροπή PRN σε XML μέσω Python Excel Library" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="prn" outformat="xml" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="Πώς να μετατρέψετε το PRN σε XML μέσω του Python" %}}
 
@@ -81,29 +81,29 @@ Aspose.Cells for Python via Java είναι ανεξάρτητο από πλατ
 
 {{< blocks/products/pf/agp/other-supported-section title="Άλλες υποστηριζόμενες μετατροπές" subTitle="Μπορείτε επίσης να μετατρέψετε το PRN σε πολλές άλλες μορφές αρχείων, συμπεριλαμβανομένων μερικών που αναφέρονται παρακάτω." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/prn-to-bmp/" name="PRN TO BMP" description="Εικόνα Bitmap" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/prn-to-emf/" name="PRN TO EMF" description="Βελτιωμένη μορφή μετα-αρχείου" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/prn-to-gif/" name="PRN TO GIF" description="Μορφή γραφικής ανταλλαγής" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/prn-to-html/" name="PRN TO HTML" description="Γλώσσα σήμανσης υπερκειμένου" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/prn-to-bmp/" name="ΚΑΛΕΣΤΕ ΣΤΟ BMP" description="Εικόνα Bitmap" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/prn-to-emf/" name="ΚΑΛΕΣΤΕ ΣΤΟ EMF" description="Βελτιωμένη μορφή μετα-αρχείου" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/prn-to-gif/" name="ΚΑΛΕΣΤΕ ΣΤΟ GIF" description="Μορφή γραφικής ανταλλαγής" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/prn-to-html/" name="ΚΑΛΕΣΤΕ ΣΤΟ HTML" description="Γλώσσα σήμανσης υπερκειμένου" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/prn-to-md/" name="PRN TO MD" description="Γλώσσα Markdown" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/prn-to-mhtml/" name="PRN TO MHTML" description="Μορφή αρχείου ιστοσελίδας" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/prn-to-ods/" name="PRN TO ODS" description="Αρχείο Υπολογιστικού Φύλλου OpenDocument" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/prn-to-pdf/" name="PRN TO PDF" description="Μορφή φορητού εγγράφου" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/prn-to-png/" name="PRN TO PNG" description="Φορητά γραφικά δικτύου" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/prn-to-svg/" name="PRN TO SVG" description="Κλιμακόμενα διανυσματικά γραφικά" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/prn-to-tiff/" name="PRN TO TIFF" description="Με ετικέτα Μορφή εικόνας" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/prn-to-tsv/" name="PRN TO TSV" description="Τιμές διαχωρισμένες με καρτέλες" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/prn-to-txt/" name="PRN TO TXT" description="Έγγραφο κειμένου" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/prn-to-xls/" name="PRN TO XLS" description="Δυαδική μορφή Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/prn-to-xlsb/" name="PRN TO XLSB" description="Δυαδικό αρχείο βιβλίου εργασίας Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/prn-to-xlsm/" name="PRN TO XLSM" description="Αρχείο υπολογιστικού φύλλου" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/prn-to-xlsx/" name="PRN TO XLSX" description="Αρχείο Excel OOXML" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/prn-to-xlt/" name="PRN TO XLT" description="Microsoft Πρότυπο Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/prn-to-xltm/" name="PRN TO XLTM" description="Πρότυπο με δυνατότητα μακροεντολής Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/prn-to-xltx/" name="PRN TO XLTX" description="Πρότυπο Office OpenXML Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/prn-to-mhtml/" name="ΚΑΛΕΣΤΕ ΣΤΟ MHTML" description="Μορφή αρχείου ιστοσελίδας" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/prn-to-ods/" name="ΚΑΛΕΣΤΕ ΣΤΟ ODS" description="Αρχείο Υπολογιστικού Φύλλου OpenDocument" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/prn-to-pdf/" name="ΚΑΛΕΣΤΕ ΣΤΟ PDF" description="Μορφή φορητού εγγράφου" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/prn-to-png/" name="ΚΑΛΕΣΤΕ ΣΤΟ PNG" description="Φορητά γραφικά δικτύου" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/prn-to-svg/" name="ΚΑΛΕΣΤΕ ΣΤΟ SVG" description="Κλιμακόμενα διανυσματικά γραφικά" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/prn-to-tiff/" name="ΚΑΛΕΣΤΕ ΣΤΟ TIFF" description="Με ετικέτα Μορφή εικόνας" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/prn-to-tsv/" name="ΚΑΛΕΣΤΕ ΣΤΟ TSV" description="Τιμές διαχωρισμένες με καρτέλες" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/prn-to-txt/" name="ΚΑΛΕΣΤΕ ΣΤΟ TXT" description="Έγγραφο κειμένου" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/prn-to-xls/" name="ΚΑΛΕΣΤΕ ΣΤΟ XLS" description="Δυαδική μορφή Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/prn-to-xlsb/" name="ΚΑΛΕΣΤΕ ΣΤΟ XLSB" description="Δυαδικό αρχείο βιβλίου εργασίας Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/prn-to-xlsm/" name="ΚΑΛΕΣΤΕ ΣΤΟ XLSM" description="Αρχείο υπολογιστικού φύλλου" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/prn-to-xlsx/" name="ΚΑΛΕΣΤΕ ΣΤΟ XLSX" description="Αρχείο Excel OOXML" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/prn-to-xlt/" name="ΚΑΛΕΣΤΕ ΣΤΟ XLT" description="Microsoft Πρότυπο Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/prn-to-xltm/" name="ΚΑΛΕΣΤΕ ΣΤΟ XLTM" description="Πρότυπο με δυνατότητα μακροεντολής Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/prn-to-xltx/" name="ΚΑΛΕΣΤΕ ΣΤΟ XLTX" description="Πρότυπο Office OpenXML Excel" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/prn-to-xml/" name="PRN ΣΕ XML" description="Επεκτάσιμη γλώσσα σήμανσης" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/prn-to-xps/" name="PRN TO XPS" description="Προδιαγραφές χαρτιού XML" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/prn-to-json/" name="PRN TO JSON" description="Σημειογραφία αντικειμένου JavaScript" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/prn-to-xps/" name="ΚΑΛΕΣΤΕ ΣΤΟ XPS" description="Προδιαγραφές χαρτιού XML" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/prn-to-json/" name="ΚΑΛΕΣΤΕ ΣΤΟ JSON" description="Σημειογραφία αντικειμένου JavaScript" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

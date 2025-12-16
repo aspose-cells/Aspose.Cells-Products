@@ -1,7 +1,7 @@
 ---
 title: Python JPG σε OTS - Μετατροπέας JPG σε OTS
-description: Aspose Excel. Python Excel. Μετατρέψτε JPG σε OTS γρήγορα και εύκολα με Aspose.Cells. Python JPG σε OTS. Python Αποθήκευση JPG στο OTS. Αποθηκεύστε JPG ως OTS χρησιμοποιώντας Python Excel Library.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert JPG to OTS in Python Excel Library., Save JPG to OTS using Python Excel Library., Python JPG to OTS saveformat., JPG to OTS Converter., Python Save JPG as OTS]
+description: Aspose Excel. Αυτή η ολοκληρωμένη λύση παρέχει στους προγραμματιστές Python μια πλήρως ενσωματωμένη προσέγγιση για τη μετατροπή JPG σε μορφή OTS, επιτρέποντας την απρόσκοπτη αποθήκευση δεδομένων JPG σε μορφή OTS χρησιμοποιώντας τη βιβλιοθήκη Aspose.Cells, μέσω αποτελεσματικού και προσαρμόσιμου κώδικα Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart JPG files to OTS Converter for Python., Convert JPG to OTS in Python., JPG files to OTS Conversion in Python., Leverage intelligent data processing to automatically parse and save JPG into OTS format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Μετατροπή JPG σε OTS στη Βιβλιοθήκη Excel Python" h2="Βιβλιοθήκη excel υψηλής ταχύτητας Python για μετατροπή JPG σε OTS. Αυτή είναι μια επαγγελματική λύση λογισμικού για εισαγωγή και εξαγωγή JPG, OTS και πολλών άλλων μορφών χρησιμοποιώντας το Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="OTS" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -27,7 +27,7 @@ keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert J
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Δείγμα κώδικα για μετατροπή JPG σε OTS μέσω Python Excel Library" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="jpg" outformat="ots" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="Δείγμα κώδικα για μετατροπή JPG σε OTS μέσω Python Excel Library" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="jpg" outformat="ots" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="Πώς να μετατρέψετε JPG σε OTS μέσω Python" %}}
 
@@ -85,7 +85,7 @@ Aspose.Cells for Python via Java είναι ανεξάρτητο από πλατ
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/jpg-to-emf/" name="JPG ΣΤΟ EMF" description="Βελτιωμένη μορφή μετα-αρχείου" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/jpg-to-gif/" name="JPG ΣΤΟ GIF" description="Μορφή γραφικής ανταλλαγής" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/jpg-to-html/" name="JPG ΣΤΟ HTML" description="Γλώσσα σήμανσης υπερκειμένου" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/jpg-to-md/" name="JPG TO MD" description="Γλώσσα Markdown" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/jpg-to-md/" name="JPG ΣΕ MD" description="Γλώσσα Markdown" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/jpg-to-mhtml/" name="JPG ΣΤΟ MHTML" description="Μορφή αρχείου ιστοσελίδας" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/jpg-to-ods/" name="JPG ΣΤΟ ODS" description="Αρχείο Υπολογιστικού Φύλλου OpenDocument" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/jpg-to-pdf/" name="JPG ΣΤΟ PDF" description="Μορφή φορητού εγγράφου" >}}

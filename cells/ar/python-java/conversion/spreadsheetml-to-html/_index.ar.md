@@ -1,7 +1,7 @@
 ---
 title: Python جدول بيانات إلى HTML - محول جدول بيانات إلى HTML
-description: Aspose اكسل. Python اكسل. قم بتحويل SPREADSHEETML إلى HTML بسرعة وسهولة باستخدام Aspose.Cells. Python SPREADSHEETML إلى HTML. Python احفظ SPREADSHEETML إلى HTML. احفظ SPREADSHEETML كـ HTML باستخدام مكتبة Excel Python.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert SPREADSHEETML to HTML in Python Excel Library., Save SPREADSHEETML to HTML using Python Excel Library., Python SPREADSHEETML to HTML saveformat., SPREADSHEETML to HTML Converter., Python Save SPREADSHEETML as HTML]
+description: Aspose Excel. يوفر هذا الحل الشامل للمطورين Python نهجًا متكاملًا تمامًا لتحويل SPREADSHEETML إلى تنسيق HTML، مما يتيح حفظ بيانات SPREADSHEETML بسلاسة في تنسيق HTML باستخدام مكتبة Aspose.Cells، كل ذلك من خلال كود Python فعال وقابل للتخصيص.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart SPREADSHEETML files to HTML Converter for Python., Convert SPREADSHEETML to HTML in Python., SPREADSHEETML files to HTML Conversion in Python., Leverage intelligent data processing to automatically parse and save SPREADSHEETML into HTML format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="تحويل جدول البيانات إلى HTML في مكتبة Excel Python" h2="مكتبة Excel Python عالية السرعة لتحويل SPREADSHEETML إلى HTML. هذا حل برمجي احترافي لاستيراد وتصدير SPREADSHEETML وHTML والعديد من التنسيقات الأخرى باستخدام Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="HTML" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -27,7 +27,7 @@ keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert S
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="نموذج التعليمات البرمجية لتحويل SPREADSHEETML إلى HTML عبر مكتبة Excel Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xml" outformat="html" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="نموذج التعليمات البرمجية لتحويل SPREADSHEETML إلى HTML عبر مكتبة Excel Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="xml" outformat="html" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="كيفية تحويل جدول البيانات إلى HTML عبر Python" %}}
 

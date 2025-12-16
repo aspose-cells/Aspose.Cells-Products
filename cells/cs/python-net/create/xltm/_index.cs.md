@@ -1,7 +1,7 @@
 ---
 title: Vytvořit XLTM - Vytvořit soubor XLTM v Python
-description: Aspose Excel. Python Excel. Python Vytvořte XLTM Soubor rychle a snadno pomocí Aspose.Cells. Vygenerujte soubor XLTM pomocí knihovny Excel Python. Vytvořte XLTM v knihovně Excel Python. Python XLTM Tvůrce.
-keywords: [Aspose Python Excel., Python Aspose.Cells., Python Create XLTM file., Generate XLTM file in Python Excel Library., Create XLTM file using Python Excel Library., Write data to XLTM file via Python Excel Library., Create a XLTM file in Python Excel Library., Python Generate a XLTM file., Python XLTM Creater]
+description: Aspose Excel. Snadno generujte a manipulujte se soubory XLTM pomocí knihovny Aspose.Cells for Python via .NET. Tato výkonná knihovna API poskytuje zjednodušené a efektivní řešení pro vytváření, úpravu a správu souborů XLTM přímo ve vašich aplikacích Python a splňuje specifické potřeby vývojářů s vysokou přesností.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Create XLTM file., Generate XLTM file in Python., Write data to XLTM file via Python., Python XLTM Creater., Aspose.Cells for Python via .NET is a powerful library that enables developers to programmatically create, generate, and manipulate XLTM files in Python]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Vytvořte soubor XLTM v knihovně Excel Python" h2="Vysokorychlostní knihovna Python Excel pro vytváření souboru XLTM. Použijte naši konverzi Excel API k vývoji softwaru na vysoké úrovni, nezávislého na platformě v Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLTM" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -99,7 +99,7 @@ Naše balíčky Python hostujeme v úložištích PyPi.
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/create/tsv/" name="TSV" description="Hodnoty oddělené záložkou" >}} 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/create/ods/" name="ODS" description="Tabulka OpenDocument" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/create/pdf/" name="PDF" description="Přenosný formát dokumentu" >}} 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/create/html/" name="HTML" description="Hyper Text Markup Language" >}} 
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/create/html/" name="HTML" description="Hypertextový značkovací jazyk" >}} 
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

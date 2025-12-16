@@ -1,7 +1,7 @@
 ---
 title: Python TABDELIMITED σε OTS - Μετατροπέας TABDELIMITED σε OTS
-description: Aspose Excel. Python Excel. Μετατρέψτε το TABDELIMITED σε OTS γρήγορα και εύκολα με το Aspose.Cells. Python TABDELIMITED σε OTS. Python Αποθήκευση TABDELIMITED στο OTS. Αποθηκεύστε το TABDELIMITED ως OTS χρησιμοποιώντας το Python Excel Library.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert TABDELIMITED to OTS in Python Excel Library., Save TABDELIMITED to OTS using Python Excel Library., Python TABDELIMITED to OTS saveformat., TABDELIMITED to OTS Converter., Python Save TABDELIMITED as OTS]
+description: Aspose Excel. Αυτή η ολοκληρωμένη λύση παρέχει στους προγραμματιστές Python μια πλήρως ενσωματωμένη προσέγγιση για τη μετατροπή δεδομένων TABDELIMITED σε μορφή OTS, επιτρέποντας την απρόσκοπτη αποθήκευση δεδομένων TABDELIMITED σε μορφή OTS χρησιμοποιώντας τη βιβλιοθήκη Aspose.Cells, μέσω αποτελεσματικού και προσαρμόσιμου κώδικα Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart TABDELIMITED files to OTS Converter for Python., Convert TABDELIMITED to OTS in Python., TABDELIMITED files to OTS Conversion in Python., Leverage intelligent data processing to automatically parse and save TABDELIMITED into OTS format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Μετατρέψτε το TABDELIMITED σε OTS στη Βιβλιοθήκη Excel Python" h2="Βιβλιοθήκη excel υψηλής ταχύτητας Python για μετατροπή TABDELIMITED σε OTS. Αυτή είναι μια επαγγελματική λύση λογισμικού για εισαγωγή και εξαγωγή TABDELIMITED, OTS και πολλών άλλων μορφών χρησιμοποιώντας το Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="OTS" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -27,7 +27,7 @@ keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert T
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Δείγμα κώδικα για μετατροπή TABDELIMITED σε OTS μέσω Python Excel Library" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="tsv" outformat="ots" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="Δείγμα κώδικα για μετατροπή TABDELIMITED σε OTS μέσω Python Excel Library" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="tsv" outformat="ots" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="Πώς να μετατρέψετε το TABDELIMITED σε OTS μέσω του Python" %}}
 

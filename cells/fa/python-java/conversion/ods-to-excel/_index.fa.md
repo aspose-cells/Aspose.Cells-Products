@@ -1,7 +1,7 @@
 ---
 title: Python ODS به EXCEL - ODS به EXCEL تبدیل
-description: Aspose اکسل. Python اکسل. ODS را سریع و آسان با Aspose.Cells به EXCEL تبدیل کنید. Python ODS به EXCEL. Python ODS را در EXCEL ذخیره کنید. ODS را به عنوان EXCEL با استفاده از Python Excel Library ذخیره کنید.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert ODS to EXCEL in Python Excel Library., Save ODS to EXCEL using Python Excel Library., Python ODS to EXCEL saveformat., ODS to EXCEL Converter., Python Save ODS as EXCEL]
+description: Aspose اکسل. این راهکار جامع، رویکردی کاملاً یکپارچه برای تبدیل فرمت ODS به فرمت EXCEL در اختیار توسعه‌دهندگان Python قرار می‌دهد و امکان ذخیره یکپارچه داده‌های ODS به فرمت EXCEL را با استفاده از کتابخانه Aspose.Cells، از طریق کد کارآمد و قابل تنظیم Python، فراهم می‌کند.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart ODS files to EXCEL Converter for Python., Convert ODS to EXCEL in Python., ODS files to EXCEL Conversion in Python., Leverage intelligent data processing to automatically parse and save ODS into EXCEL format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="تبدیل ODS به EXCEL در Python Excel Library" h2="کتابخانه اکسل پرسرعت Python برای تبدیل ODS به EXCEL. این یک راه حل نرم افزاری حرفه ای برای واردات و صادرات ODS، EXCEL و بسیاری از فرمت های دیگر با استفاده از Python است." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="EXCEL" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -27,7 +27,7 @@ keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert O
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="نمونه کد برای تبدیل ODS به EXCEL از طریق Python Excel Library" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="ods" outformat="xlsx" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="نمونه کد برای تبدیل ODS به EXCEL از طریق Python Excel Library" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="ods" outformat="xlsx" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="نحوه تبدیل ODS به EXCEL از طریق Python" %}}
 

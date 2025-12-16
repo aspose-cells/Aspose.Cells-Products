@@ -1,7 +1,7 @@
 ---
 title: Java XML إلى TIFF - XML إلى TIFF محول
-description: Aspose اكسل. قم بتحويل XML إلى TIFF بسرعة وسهولة باستخدام Aspose.Cells. Java XML إلى TIFF. Java احفظ XML إلى TIFF. احفظ XML كـ TIFF باستخدام Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Convert XML to TIFF in Java., Save XML to TIFF using Java., Java XML to TIFF saveformat., XML to TIFF Converter., Java Save XML as TIFF]
+description: Aspose إكسل. يوفر هذا الحل الشامل للمطورين Java نهجًا متكاملًا تمامًا لتحويل XML إلى تنسيق TIFF، مما يتيح حفظ بيانات XML بسلاسة بتنسيق TIFF باستخدام مكتبة Aspose.Cells، كل ذلك من خلال كود Java فعال وقابل للتخصيص.
+keywords: [Aspose Excel., Java Aspose.Cells., Smart XML files to TIFF Converter for Java., Convert XML to TIFF in Java., XML files to TIFF Conversion in Java., Leverage intelligent data processing to automatically parse and save XML into TIFF format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="تحويل XML إلى TIFF في Java" h2="مكتبة Java عالية السرعة لتحويل XML إلى TIFF. هذا حل برمجي احترافي لاستيراد وتصدير XML وTIFF والعديد من التنسيقات الأخرى باستخدام Java." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="TIFF" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="CSV" >}}
@@ -45,7 +45,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Convert XML to TIFF in Java., Save
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="احفظ XML في TIFF في Java" %}}
+{{% blocks/products/pf/agp/content h2="حفظ ملف XML في TIFF في Java" %}}
 
 يوضح المثال التالي كيفية تحويل XML إلى TIFF في Java.
 {{% blocks/products/pf/agp/text %}}
@@ -56,19 +56,19 @@ keywords: [Aspose Excel., Java Aspose.Cells., Convert XML to TIFF in Java., Save
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="نموذج التعليمات البرمجية لتحويل XML إلى TIFF" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xml" outformat="tiff" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="نموذج كود لتحويل XML إلى TIFF" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="xml" outformat="tiff" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="كيفية تحويل XML إلى TIFF via Java" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
-هل تحتاج إلى تحويل ملفات XML إلى TIFF برمجياً؟ يمكن لمطوري Java تحويل XML بسهولة إلى TIFF في بضعة أسطر من التعليمات البرمجية.
+هل تحتاج إلى تحويل ملفات XML إلى صيغة TIFF برمجيًا؟ يمكن لمطوري Java تحويل XML بسهولة إلى صيغة TIFF في بضعة أسطر من التعليمات البرمجية فقط.
 
 {{% /blocks/products/pf/agp/text %}}
 
-1.  قم بتثبيت "Aspose.Cells for Java".
+1.  قم بتثبيت 'Aspose.Cells for Java'.
 1.  أضف مرجع مكتبة (استيراد المكتبة) إلى مشروعك Java.
-1.  قم بتحميل ملف XML بمثيل لفئة Workbook.
+1.  قم بتحميل ملف XML باستخدام نسخة من فئة Workbook.
 1.  تحويل XML إلى TIFF عن طريق استدعاء طريقة Workbook.save.
 1.  احصل على نتيجة تحويل XML إلى TIFF.
 

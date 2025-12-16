@@ -1,7 +1,7 @@
 ---
-title: Python NUMBERS to MARKDOWN - NUMBERS to MARKDOWN Converter
-description: Aspose Excel. Python Excel. Μετατρέψτε τους ΑΡΙΘΜΟΥΣ σε MARKDOWN γρήγορα και εύκολα με το Aspose.Cells. Python NUMBERS σε MARKDOWN. Python Αποθήκευση ΑΡΙΘΜΩΝ σε MARKDOWN. Αποθηκεύστε NUMBERS ως 01914 Excel.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert NUMBERS to MARKDOWN in Python Excel Library., Save NUMBERS to MARKDOWN using Python Excel Library., Python NUMBERS to MARKDOWN saveformat., NUMBERS to MARKDOWN Converter., Python Save NUMBERS as MARKDOWN]
+title: Μετατροπέας Python ΑΡΙΘΜΟΙ σε MARKDOWN - Μετατροπέας NUMBERS σε MARKDOWN
+description: Aspose Excel. Αυτή η ολοκληρωμένη λύση παρέχει στους προγραμματιστές Python μια πλήρως ενσωματωμένη προσέγγιση για τη μετατροπή NUMBERS σε μορφή MARKDOWN, επιτρέποντας την απρόσκοπτη αποθήκευση δεδομένων NUMBERS σε μορφή MARKDOWN χρησιμοποιώντας τη βιβλιοθήκη Aspose.Cells, μέσω αποτελεσματικού και προσαρμόσιμου κώδικα Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart NUMBERS files to MARKDOWN Converter for Python., Convert NUMBERS to MARKDOWN in Python., NUMBERS files to MARKDOWN Conversion in Python., Leverage intelligent data processing to automatically parse and save NUMBERS into MARKDOWN format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Μετατροπή ΑΡΙΘΜΩΝ σε MARKDOWN στη Βιβλιοθήκη Excel Python" h2="Βιβλιοθήκη excel υψηλής ταχύτητας Python για μετατροπή NUMBERS σε MARKDOWN. Αυτή είναι μια επαγγελματική λύση λογισμικού για την εισαγωγή και εξαγωγή NUMBERS, MARKDOWN και πολλών άλλων μορφών με χρήση Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="MARKDOWN" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -27,7 +27,7 @@ keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert N
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Δείγμα κώδικα για μετατροπή αριθμών σε MARKDOWN μέσω Python Excel Library" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="numbers" outformat="md" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="Δείγμα κώδικα για μετατροπή αριθμών σε MARKDOWN μέσω Python Excel Library" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="numbers" outformat="md" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="Πώς να μετατρέψετε τους αριθμούς σε MARKDOWN μέσω Python" %}}
 

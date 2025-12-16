@@ -1,7 +1,7 @@
 ---
 title: Python JPEG a GIF - JPEG a GIF Convertidor
-description: Aspose Excel. Python Excel. Convierta JPEG a GIF rápida y fácilmente con Aspose.Cells. Python JPEG a GIF. Python Guarde JPEG en GIF. Guarde JPEG como 076112 3481 usando la biblioteca Excel Python.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert JPEG to GIF in Python Excel Library., Save JPEG to GIF using Python Excel Library., Python JPEG to GIF saveformat., JPEG to GIF Converter., Python Save JPEG as GIF]
+description: Aspose Excel. Esta solución integral ofrece a los desarrolladores de Excel Python un enfoque totalmente integrado para convertir el formato JPEG al GIF, lo que permite guardar sin problemas los datos de Excel JPEG al formato GIF mediante la biblioteca Aspose.Cells, todo mediante código Python eficiente y personalizable.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart JPEG files to GIF Converter for Python., Convert JPEG to GIF in Python., JPEG files to GIF Conversion in Python., Leverage intelligent data processing to automatically parse and save JPEG into GIF format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Convierta JPEG a GIF en la biblioteca de Excel Python" h2="Biblioteca de Excel Python de alta velocidad para convertir JPEG a GIF. Utilice nuestra conversión de Excel API para desarrollar software independiente de plataforma de alto nivel en Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="GIF" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -28,7 +28,7 @@ Siga los sencillos pasos para convertir JPEG a GIF. Cargue su archivo JPEG y lue
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Código de muestra para convertir JPEG a GIF a través de la biblioteca de Excel Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="jpg" outformat="gif" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Código de muestra para convertir JPEG a GIF a través de la biblioteca de Excel Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="jpg" outformat="gif" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="Cómo convertir JPEG a GIF" %}}
 

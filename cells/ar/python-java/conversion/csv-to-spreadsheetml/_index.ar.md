@@ -1,7 +1,7 @@
 ---
 title: Python CSV إلى SPREADSHEETML - CSV إلى SPREADSHEETML Converter
-description: Aspose اكسل. Python اكسل. قم بتحويل CSV إلى SPREADSHEETML بسرعة وسهولة باستخدام Aspose.Cells. Python CSV إلى SPREADSHEETML. Python احفظ CSV في جدول البيانات. احفظ CSV كـ SPREADSHEETML باستخدام مكتبة Excel Python.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert CSV to SPREADSHEETML in Python Excel Library., Save CSV to SPREADSHEETML using Python Excel Library., Python CSV to SPREADSHEETML saveformat., CSV to SPREADSHEETML Converter., Python Save CSV as SPREADSHEETML]
+description: Aspose Excel. يوفر هذا الحل الشامل للمطورين Python نهجًا متكاملًا تمامًا لتحويل CSV إلى تنسيق SPREADSHEETML، مما يتيح حفظ البيانات بسلاسة في تنسيق SPREADSHEETML باستخدام مكتبة Aspose.Cells، كل ذلك من خلال كود Python فعال وقابل للتخصيص.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart CSV files to SPREADSHEETML Converter for Python., Convert CSV to SPREADSHEETML in Python., CSV files to SPREADSHEETML Conversion in Python., Leverage intelligent data processing to automatically parse and save CSV into SPREADSHEETML format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="تحويل CSV إلى جدول بيانات في Python مكتبة Excel" h2="مكتبة إكسل Python عالية السرعة لتحويل CSV إلى SPREADSHEETML. يعد هذا حلاً برمجيًا احترافيًا لاستيراد وتصدير CSV وSPREADSHEETML والعديد من التنسيقات الأخرى باستخدام Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="SPREADSHEETML" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -27,7 +27,7 @@ keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert C
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="نموذج التعليمات البرمجية لتحويل CSV إلى SPREADSHEETML عبر مكتبة Excel Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="csv" outformat="xml" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="نموذج التعليمات البرمجية لتحويل CSV إلى SPREADSHEETML عبر مكتبة Excel Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="csv" outformat="xml" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="كيفية تحويل CSV إلى جدول بيانات عبر Python" %}}
 

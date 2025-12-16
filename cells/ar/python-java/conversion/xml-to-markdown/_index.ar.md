@@ -1,7 +1,7 @@
 ---
 title: Python XML إلى MARKDOWN - XML إلى MARKDOWN محول
-description: Aspose اكسل. Python اكسل. قم بتحويل XML إلى MARKDOWN بسرعة وسهولة باستخدام Aspose.Cells. Python XML إلى MARKDOWN. Python احفظ XML إلى MARKDOWN. احفظ XML كـ MARKDOWN باستخدام مكتبة Excel Python.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert XML to MARKDOWN in Python Excel Library., Save XML to MARKDOWN using Python Excel Library., Python XML to MARKDOWN saveformat., XML to MARKDOWN Converter., Python Save XML as MARKDOWN]
+description: Aspose إكسل. يوفر هذا الحل الشامل للمطورين Python نهجًا متكاملًا تمامًا لتحويل XML إلى تنسيق MARKDOWN، مما يتيح حفظ بيانات XML بسلاسة بتنسيق MARKDOWN باستخدام مكتبة Aspose.Cells، كل ذلك من خلال كود Python فعال وقابل للتخصيص.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart XML files to MARKDOWN Converter for Python., Convert XML to MARKDOWN in Python., XML files to MARKDOWN Conversion in Python., Leverage intelligent data processing to automatically parse and save XML into MARKDOWN format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="تحويل XML إلى MARKDOWN في مكتبة Excel Python" h2="مكتبة Excel Python عالية السرعة لتحويل XML إلى MARKDOWN. هذا حل برمجي احترافي لاستيراد وتصدير XML وMARKDOWN والعديد من التنسيقات الأخرى باستخدام Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="MARKDOWN" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -27,7 +27,7 @@ keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert X
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="نموذج التعليمات البرمجية لتحويل XML إلى MARKDOWN عبر مكتبة Excel Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xml" outformat="md" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="نموذج التعليمات البرمجية لتحويل XML إلى MARKDOWN عبر مكتبة Excel Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="xml" outformat="md" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="كيفية تحويل XML إلى MARKDOWN عبر Python" %}}
 

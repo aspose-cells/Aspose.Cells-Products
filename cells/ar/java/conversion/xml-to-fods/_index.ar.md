@@ -1,7 +1,7 @@
 ---
 title: Java XML إلى FODS - XML إلى FODS محول
-description: Aspose اكسل. قم بتحويل XML إلى FODS بسرعة وسهولة باستخدام Aspose.Cells. Java XML إلى FODS. Java احفظ XML إلى FODS. احفظ XML كـ FODS باستخدام Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Convert XML to FODS in Java., Save XML to FODS using Java., Java XML to FODS saveformat., XML to FODS Converter., Java Save XML as FODS]
+description: Aspose إكسل. يوفر هذا الحل الشامل للمطورين Java نهجًا متكاملًا تمامًا لتحويل XML إلى تنسيق FODS، مما يتيح حفظ بيانات XML بسلاسة بتنسيق FODS باستخدام مكتبة Aspose.Cells، كل ذلك من خلال كود Java فعال وقابل للتخصيص.
+keywords: [Aspose Excel., Java Aspose.Cells., Smart XML files to FODS Converter for Java., Convert XML to FODS in Java., XML files to FODS Conversion in Java., Leverage intelligent data processing to automatically parse and save XML into FODS format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="تحويل XML إلى FODS في Java" h2="مكتبة Java عالية السرعة لتحويل XML إلى FODS. هذا حل برمجي احترافي لاستيراد وتصدير XML وFODS والعديد من التنسيقات الأخرى باستخدام Java." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="FODS" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="CSV" >}}
@@ -45,7 +45,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Convert XML to FODS in Java., Save
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="احفظ XML في FODS في Java" %}}
+{{% blocks/products/pf/agp/content h2="حفظ ملف XML في FODS في Java" %}}
 
 يوضح المثال التالي كيفية تحويل XML إلى FODS في Java.
 {{% blocks/products/pf/agp/text %}}
@@ -56,19 +56,19 @@ keywords: [Aspose Excel., Java Aspose.Cells., Convert XML to FODS in Java., Save
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="نموذج التعليمات البرمجية لتحويل XML إلى FODS" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xml" outformat="fods" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="نموذج كود لتحويل XML إلى FODS" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="xml" outformat="fods" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="كيفية تحويل XML إلى FODS via Java" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
-هل تحتاج إلى تحويل ملفات XML إلى FODS برمجياً؟ يمكن لمطوري Java تحويل XML بسهولة إلى FODS في بضعة أسطر من التعليمات البرمجية.
+هل تحتاج إلى تحويل ملفات XML إلى صيغة FODS برمجيًا؟ يمكن لمطوري Java تحويل XML بسهولة إلى صيغة FODS في بضعة أسطر من التعليمات البرمجية فقط.
 
 {{% /blocks/products/pf/agp/text %}}
 
-1.  قم بتثبيت "Aspose.Cells for Java".
+1.  قم بتثبيت 'Aspose.Cells for Java'.
 1.  أضف مرجع مكتبة (استيراد المكتبة) إلى مشروعك Java.
-1.  قم بتحميل ملف XML بمثيل لفئة Workbook.
+1.  قم بتحميل ملف XML باستخدام نسخة من فئة Workbook.
 1.  تحويل XML إلى FODS عن طريق استدعاء طريقة Workbook.save.
 1.  احصل على نتيجة تحويل XML إلى FODS.
 

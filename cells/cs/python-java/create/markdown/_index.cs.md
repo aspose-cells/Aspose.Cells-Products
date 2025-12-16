@@ -1,7 +1,7 @@
 ---
 title: Vytvořit MARKDOWN - Vytvořit soubor MARKDOWN v Python
-description: Aspose Excel. Python Excel. Python Vytvořte MARKDOWN Soubor rychle a snadno pomocí Aspose.Cells. Vygenerujte soubor MARKDOWN pomocí knihovny Excel Python. Vytvořte MARKDOWN v knihovně Excel Python. Python MARKDOWN Tvůrce.
-keywords: [Aspose Python Excel., Python Aspose.Cells., Python Create MARKDOWN file., Generate MARKDOWN file in Python Excel Library., Create MARKDOWN file using Python Excel Library., Write data to MARKDOWN file via Python Excel Library., Create a MARKDOWN file in Python Excel Library., Python Generate a MARKDOWN file., Python MARKDOWN Creater]
+description: Aspose Excel. Snadno generujte a manipulujte se soubory MARKDOWN pomocí knihovny Aspose.Cells for Python via Java. Tato výkonná knihovna API poskytuje zjednodušené a efektivní řešení pro vytváření, úpravu a správu souborů MARKDOWN přímo ve vašich aplikacích Python a splňuje specifické potřeby vývojářů s vysokou přesností.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Create MARKDOWN file., Generate MARKDOWN file in Python., Write data to MARKDOWN file via Python., Python MARKDOWN Creater., Aspose.Cells for Python via Java is a powerful library that enables developers to programmatically create, generate, and manipulate MARKDOWN files in Python]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Vytvořte soubor MARKDOWN v knihovně Excel Python" h2="Vysokorychlostní knihovna Python Excel pro vytváření souboru MARKDOWN. Toto je profesionální softwarové řešení pro import a export XLSX, PDF a mnoha dalších formátů pomocí Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="MARKDOWN" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -108,7 +108,7 @@ Aspose.Cells for Python via Java je nezávislý na platformě API a lze jej pou�
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/create/tsv/" name="TSV" description="Hodnoty oddělené záložkou" >}} 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/create/ods/" name="ODS" description="Tabulka OpenDocument" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/create/pdf/" name="PDF" description="Přenosný formát dokumentu" >}} 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/create/html/" name="HTML" description="Hyper Text Markup Language" >}} 
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/create/html/" name="HTML" description="Hypertextový značkovací jazyk" >}} 
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

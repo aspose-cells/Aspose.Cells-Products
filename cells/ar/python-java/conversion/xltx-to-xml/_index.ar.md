@@ -1,7 +1,7 @@
 ---
 title: Python XLTX إلى XML - XLTX إلى XML محول
-description: Aspose اكسل. Python اكسل. قم بتحويل XLTX إلى XML بسرعة وسهولة باستخدام Aspose.Cells. Python XLTX إلى XML. Python احفظ XLTX في ملف XML. احفظ XLTX بتنسيق XML باستخدام مكتبة Excel Python.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert XLTX to XML in Python Excel Library., Save XLTX to XML using Python Excel Library., Python XLTX to XML saveformat., XLTX to XML Converter., Python Save XLTX as XML]
+description: Aspose Excel. يوفر هذا الحل الشامل للمطورين Python نهجًا متكاملًا تمامًا لتحويل XLTX إلى تنسيق XML، مما يتيح حفظ البيانات بسلاسة بتنسيق XML باستخدام مكتبة Aspose.Cells، كل ذلك من خلال كود Python فعال وقابل للتخصيص.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart XLTX files to XML Converter for Python., Convert XLTX to XML in Python., XLTX files to XML Conversion in Python., Leverage intelligent data processing to automatically parse and save XLTX into XML format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="تحويل XLTX إلى XML في Python مكتبة Excel" h2="مكتبة إكسل Python عالية السرعة لتحويل XLTX إلى XML. يعد هذا حلاً برمجيًا احترافيًا لاستيراد وتصدير XLTX وXML والعديد من التنسيقات الأخرى باستخدام Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="XML" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -27,7 +27,7 @@ keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert X
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="نموذج التعليمات البرمجية لتحويل XLTX إلى XML عبر مكتبة Excel Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xltx" outformat="xml" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="نموذج التعليمات البرمجية لتحويل XLTX إلى XML عبر مكتبة Excel Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="xltx" outformat="xml" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="كيفية تحويل XLTX إلى XML عبر Python" %}}
 

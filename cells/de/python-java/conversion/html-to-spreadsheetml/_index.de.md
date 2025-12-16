@@ -1,7 +1,7 @@
 ---
 title: Python HTML zu SPREADSHEETML - HTML zu SPREADSHEETML Konverter
-description: Aspose Excel. Python Excel. Konvertieren Sie HTML schnell und einfach in SPREADSHEETML mit Aspose.Cells. Python HTML in SPREADSHEETML. Python Speichern Sie HTML in SPREADSHEETML. Speichern Sie HTML als SPREADSHEETML mit Python Excel-Bibliothek.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert HTML to SPREADSHEETML in Python Excel Library., Save HTML to SPREADSHEETML using Python Excel Library., Python HTML to SPREADSHEETML saveformat., HTML to SPREADSHEETML Converter., Python Save HTML as SPREADSHEETML]
+description: Aspose Excel. Diese umfassende Lösung bietet Entwicklern einen vollständig integrierten Ansatz zur Konvertierung von HTML in das SPREADSHEETML-Format und ermöglicht das nahtlose Speichern von HTML-Daten im SPREADSHEETML-Format mithilfe der Aspose.Cells-Bibliothek, alles durch effizienten und anpassbaren Python-Code.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart HTML files to SPREADSHEETML Converter for Python., Convert HTML to SPREADSHEETML in Python., HTML files to SPREADSHEETML Conversion in Python., Leverage intelligent data processing to automatically parse and save HTML into SPREADSHEETML format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Konvertieren Sie HTML in SPREADSHEETML in der Excel-Bibliothek Python" h2="Hochgeschwindigkeits-Excel-Bibliothek Python zum Konvertieren von HTML in SPREADSHEETML. Dies ist eine professionelle Softwarelösung zum Importieren und Exportieren von HTML, SPREADSHEETML und vielen anderen Formaten mit Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="SPREADSHEETML" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -27,7 +27,7 @@ Befolgen Sie die einfachen Schritte, um HTML in SPREADSHEETML zu konvertieren. L
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Beispielcode zur Konvertierung von HTML in SPREADSHEETML über die Excel-Bibliothek Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="html" outformat="xml" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="Beispielcode zur Konvertierung von HTML in SPREADSHEETML über die Excel-Bibliothek Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="html" outformat="xml" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="So konvertieren Sie HTML über Python in SPREADSHEETML" %}}
 

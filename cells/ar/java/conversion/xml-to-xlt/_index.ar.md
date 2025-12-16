@@ -1,7 +1,7 @@
 ---
 title: Java XML إلى XLT - XML إلى XLT محول
-description: Aspose اكسل. قم بتحويل XML إلى XLT بسرعة وسهولة باستخدام Aspose.Cells. Java XML إلى XLT. Java احفظ XML إلى XLT. احفظ XML كـ XLT باستخدام Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Convert XML to XLT in Java., Save XML to XLT using Java., Java XML to XLT saveformat., XML to XLT Converter., Java Save XML as XLT]
+description: Aspose إكسل. يوفر هذا الحل الشامل للمطورين Java نهجًا متكاملًا تمامًا لتحويل XML إلى تنسيق XLT، مما يتيح حفظ بيانات XML بسلاسة بتنسيق XLT باستخدام مكتبة Aspose.Cells، كل ذلك من خلال كود Java فعال وقابل للتخصيص.
+keywords: [Aspose Excel., Java Aspose.Cells., Smart XML files to XLT Converter for Java., Convert XML to XLT in Java., XML files to XLT Conversion in Java., Leverage intelligent data processing to automatically parse and save XML into XLT format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="تحويل XML إلى XLT في Java" h2="مكتبة Java عالية السرعة لتحويل XML إلى XLT. هذا حل برمجي احترافي لاستيراد وتصدير XML وXLT والعديد من التنسيقات الأخرى باستخدام Java." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLT" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="CSV" >}}
@@ -45,7 +45,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Convert XML to XLT in Java., Save 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="احفظ XML في XLT في Java" %}}
+{{% blocks/products/pf/agp/content h2="حفظ ملف XML في XLT في Java" %}}
 
 يوضح المثال التالي كيفية تحويل XML إلى XLT في Java.
 {{% blocks/products/pf/agp/text %}}
@@ -56,19 +56,19 @@ keywords: [Aspose Excel., Java Aspose.Cells., Convert XML to XLT in Java., Save 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="نموذج التعليمات البرمجية لتحويل XML إلى XLT" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xml" outformat="xlt" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="نموذج كود لتحويل XML إلى XLT" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="xml" outformat="xlt" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="كيفية تحويل XML إلى XLT via Java" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
-هل تحتاج إلى تحويل ملفات XML إلى XLT برمجياً؟ يمكن لمطوري Java تحويل XML بسهولة إلى XLT في بضعة أسطر من التعليمات البرمجية.
+هل تحتاج إلى تحويل ملفات XML إلى صيغة XLT برمجيًا؟ يمكن لمطوري Java تحويل XML بسهولة إلى صيغة XLT في بضعة أسطر من التعليمات البرمجية فقط.
 
 {{% /blocks/products/pf/agp/text %}}
 
-1.  قم بتثبيت "Aspose.Cells for Java".
+1.  قم بتثبيت 'Aspose.Cells for Java'.
 1.  أضف مرجع مكتبة (استيراد المكتبة) إلى مشروعك Java.
-1.  قم بتحميل ملف XML بمثيل لفئة Workbook.
+1.  قم بتحميل ملف XML باستخدام نسخة من فئة Workbook.
 1.  تحويل XML إلى XLT عن طريق استدعاء طريقة Workbook.save.
 1.  احصل على نتيجة تحويل XML إلى XLT.
 
@@ -98,7 +98,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Convert XML to XLT in Java., Save 
 <!-- aboutfile Starts -->
     {{< blocks/products/pf/agp/about-file-section >}}
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XML" readMoreLink="https://docs.fileformat.com/web/xml/" >}}يرمز XML إلى لغة التوصيف القابلة للتوسيع والتي تشبه HTML ولكنها تختلف في استخدام العلامات لتعريف الكائنات. كانت الفكرة الكاملة وراء إنشاء تنسيق ملف XML هي تخزين البيانات ونقلها دون الاعتماد على أدوات البرامج أو الأجهزة. ترجع شعبيتها إلى كونها قابلة للقراءة من قبل الإنسان وكذلك من خلال الآلة. وهذا يمكّنها من إنشاء بروتوكولات بيانات مشتركة في شكل كائنات يتم تخزينها ومشاركتها عبر الشبكة مثل شبكة الويب العالمية (WWW). "X" في XML مخصص للتوسيع مما يعني أنه يمكن توسيع اللغة إلى أي عدد من الرموز وفقًا لمتطلبات المستخدم. لهذه الميزات تستفيد منها العديد من تنسيقات الملفات القياسية مثل Microsoft Open XML وLibreOffice OpenDocument وXHTML وSVG.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLT" readMoreLink="https://docs.fileformat.com/spreadsheet/xlt/" >}}الملفات ذات الامتداد .xlt هي ملفات قوالب تم إنشاؤها باستخدام Microsoft Excel وهو تطبيق جداول بيانات يأتي كجزء من مجموعة Office Microsoft. Microsoft دعم Office 97-2003 إنشاء ملفات XLT جديدة بالإضافة إلى فتحها. لا يزال الإصدار الأحدث من Excel قادرًا على فتح ملفات القالب ذات التنسيق القديم هذه. يتم استخدام ملف القالب هذا لإنشاء ملفات Excel جديدة بسرعة باستخدام البيانات والإعدادات الافتراضية مثل تنسيق الصفحة وحجم الخط والهوامش والمخططات وما إلى ذلك والتي يمكن حفظها كملفات xls. جديدة.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLT" readMoreLink="https://docs.fileformat.com/spreadsheet/xlt/" >}}الملفات ذات الامتداد .xlt هي ملفات قوالب تم إنشاؤها باستخدام Microsoft Excel وهو تطبيق جداول بيانات يأتي كجزء من مجموعة Office Microsoft. Microsoft دعم Office 97-2003 إنشاء ملفات XLT جديدة بالإضافة إلى فتحها. لا يزال الإصدار الأحدث من Excel قادرًا على فتح ملفات القالب ذات التنسيق القديم هذه. يتم استخدام ملف القالب هذا لإنشاء ملفات Excel جديدة بسرعة باستخدام البيانات والإعدادات الافتراضية مثل تنسيق الصفحة وحجم الخط والهوامش والمخططات وما إلى ذلك والتي يمكن حفظها كملفات xls جديدة.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
     {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->
 

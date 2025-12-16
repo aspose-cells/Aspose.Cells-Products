@@ -1,7 +1,7 @@
 ---
 title: Python NUMBERS به EXCEL - مبدل NUMBERS به EXCEL
-description: Aspose اکسل. Python اکسل. تبدیل NUMBERS به EXCEL به سرعت و به راحتی با Aspose.Cells. Python NUMBERS به EXCEL. Python NUMBERS را در EXCEL ذخیره کنید. با استفاده از کتابخانه اکسل Python، NUMBERS را به عنوان EXCEL ذخیره کنید.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert NUMBERS to EXCEL in Python Excel Library., Save NUMBERS to EXCEL using Python Excel Library., Python NUMBERS to EXCEL saveformat., NUMBERS to EXCEL Converter., Python Save NUMBERS as EXCEL]
+description: Aspose اکسل. این راهکار جامع، رویکردی کاملاً یکپارچه برای تبدیل اعداد به فرمت اکسل در اختیار توسعه‌دهندگان Python قرار می‌دهد و امکان ذخیره یکپارچه داده‌های اعداد به فرمت اکسل را با استفاده از کتابخانه Aspose.Cells، از طریق کد کارآمد و قابل تنظیم Python، فراهم می‌کند.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart NUMBERS files to EXCEL Converter for Python., Convert NUMBERS to EXCEL in Python., NUMBERS files to EXCEL Conversion in Python., Leverage intelligent data processing to automatically parse and save NUMBERS into EXCEL format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="تبدیل NUMBERS به EXCEL در Python Excel Library" h2="کتابخانه اکسل پرسرعت Python برای تبدیل NUMBERS به EXCEL. این یک راه حل نرم افزاری حرفه ای برای وارد کردن و صادرات NUMBERS، EXCEL و بسیاری از فرمت های دیگر با استفاده از Python است." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="EXCEL" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -27,7 +27,7 @@ keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert N
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="نمونه کد برای تبدیل NUMBERS به EXCEL از طریق Python Excel Library" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="numbers" outformat="xlsx" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="نمونه کد برای تبدیل NUMBERS به EXCEL از طریق Python Excel Library" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="numbers" outformat="xlsx" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="نحوه تبدیل NUMBERS به EXCEL از طریق Python" %}}
 

@@ -1,7 +1,7 @@
 ---
 title: محول Python من إكسل إلى CSV - محول من إكسل إلى CSV
-description: Aspose اكسل. Python اكسل. قم بتحويل EXCEL إلى CSV بسرعة وسهولة باستخدام Aspose.Cells. Python EXCEL إلى CSV. Python احفظ EXCEL إلى CSV. احفظ EXCEL كـ CSV باستخدام مكتبة Excel Python.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert EXCEL to CSV in Python Excel Library., Save EXCEL to CSV using Python Excel Library., Python EXCEL to CSV saveformat., EXCEL to CSV Converter., Python Save EXCEL as CSV]
+description: Aspose إكسل. يوفر هذا الحل الشامل للمطورين Python نهجًا متكاملًا تمامًا لتحويل ملفات إكسل إلى تنسيق CSV، مما يتيح حفظ بيانات إكسل بسلاسة في تنسيق CSV باستخدام مكتبة Aspose.Cells، كل ذلك من خلال كود Python فعال وقابل للتخصيص.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart EXCEL files to CSV Converter for Python., Convert EXCEL to CSV in Python., EXCEL files to CSV Conversion in Python., Leverage intelligent data processing to automatically parse and save EXCEL into CSV format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="تحويل EXCEL إلى CSV في مكتبة Excel Python" h2="مكتبة Excel Python عالية السرعة لتحويل EXCEL إلى CSV. هذا حل برمجي احترافي لاستيراد وتصدير EXCEL وCSV والعديد من التنسيقات الأخرى باستخدام Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="CSV" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -27,7 +27,7 @@ keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert E
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="نموذج التعليمات البرمجية لتحويل EXCEL إلى CSV عبر مكتبة Excel Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsx" outformat="csv" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="نموذج التعليمات البرمجية لتحويل EXCEL إلى CSV عبر مكتبة Excel Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="xlsx" outformat="csv" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="كيفية تحويل EXCEL إلى CSV عبر Python" %}}
 

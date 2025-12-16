@@ -1,7 +1,7 @@
 ---
 title: Python TABDELIMITED a ET - Convertidor TABDELIMITED a ET
-description: Aspose Excel. Python Excel. Convierta TABDELIMITED a ET rápida y fácilmente con Aspose.Cells. Python TABDELIMITED a ET. Python Guardar TABDELIMITED en ET. Guarde TABDELIMITED como ET usando la biblioteca de Excel Python.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert TABDELIMITED to ET in Python Excel Library., Save TABDELIMITED to ET using Python Excel Library., Python TABDELIMITED to ET saveformat., TABDELIMITED to ET Converter., Python Save TABDELIMITED as ET]
+description: Aspose Excel. Esta solución integral proporciona a los desarrolladores de Python un enfoque totalmente integrado para convertir TABDELIMITED al formato ET, lo que permite guardar sin problemas datos TABDELIMITED en formato ET mediante la biblioteca Aspose.Cells, todo mediante código Python eficiente y personalizable.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart TABDELIMITED files to ET Converter for Python., Convert TABDELIMITED to ET in Python., TABDELIMITED files to ET Conversion in Python., Leverage intelligent data processing to automatically parse and save TABDELIMITED into ET format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Convierta TABDELIMITED a ET en la biblioteca de Excel Python" h2="Biblioteca Excel Python de alta velocidad para convertir TABDELIMITED a ET. Esta es una solución de software profesional para importar y exportar TABDELIMITED, ET y muchos otros formatos utilizando Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="ET" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -27,7 +27,7 @@ Siga los sencillos pasos para convertir TABDELIMITED a ET. Cargue su archivo TAB
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Código de muestra para convertir TABDELIMITED a ET a través de la biblioteca de Excel Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="tsv" outformat="et" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="Código de muestra para convertir TABDELIMITED a ET a través de la biblioteca de Excel Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="tsv" outformat="et" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="Cómo convertir TABDELIMITED a ET a través de Python" %}}
 

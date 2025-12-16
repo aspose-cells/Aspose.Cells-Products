@@ -1,7 +1,7 @@
 ---
 title: إنشاء XLTX - إنشاء ملف XLTX في Python
-description: Aspose اكسل. Python اكسل. Python قم بإنشاء ملف XLTX بسرعة وسهولة باستخدام Aspose.Cells. قم بإنشاء ملف XLTX باستخدام مكتبة Excel Python. إنشاء XLTX في مكتبة إكسل Python. Python XLTX مبدع.
-keywords: [Aspose Python Excel., Python Aspose.Cells., Python Create XLTX file., Generate XLTX file in Python Excel Library., Create XLTX file using Python Excel Library., Write data to XLTX file via Python Excel Library., Create a XLTX file in Python Excel Library., Python Generate a XLTX file., Python XLTX Creater]
+description: Aspose Excel. أنشئ ملفات XLTX وتعامل معها بسهولة باستخدام مكتبة Aspose.Cells وfor Python وvia Java. توفر هذه المكتبة القوية API حلاً مبسطًا وفعالًا لإنشاء ملفات XLTX وتعديلها وإدارتها مباشرةً ضمن تطبيقاتك Python، مما يلبي احتياجات المطورين بدقة عالية.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Create XLTX file., Generate XLTX file in Python., Write data to XLTX file via Python., Python XLTX Creater., Aspose.Cells for Python via Java is a powerful library that enables developers to programmatically create, generate, and manipulate XLTX files in Python]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="إنشاء ملف XLTX في مكتبة إكسل Python" h2="مكتبة إكسيل Python عالية السرعة لإنشاء ملف XLTX. هذا حل برمجي احترافي لاستيراد وتصدير XLSX وPDF والعديد من التنسيقات الأخرى باستخدام Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLTX" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}

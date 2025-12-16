@@ -1,7 +1,7 @@
 ---
 title: Java XML a XML - Convertidor de XML a XML
-description: Aspose Excel. Convierta XML a XML rápida y fácilmente con Aspose.Cells. Java XML a XML. Java Guardar XML en XML. Guarde XML como XML usando Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Convert XML to XML in Java., Save XML to XML using Java., Java XML to XML saveformat., XML to XML Converter., Java Save XML as XML]
+description: Aspose Excel. Esta solución integral proporciona a los desarrolladores de Java un enfoque totalmente integrado para convertir XML a formato XML, lo que permite guardar datos XML en formato XML sin problemas mediante la biblioteca Aspose.Cells, todo mediante código Java eficiente y personalizable.
+keywords: [Aspose Excel., Java Aspose.Cells., Smart XML files to XML Converter for Java., Convert XML to XML in Java., XML files to XML Conversion in Java., Leverage intelligent data processing to automatically parse and save XML into XML format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Convertir XML a XML en Java" h2="Biblioteca Java de alta velocidad para convertir XML a XML. Esta es una solución de software profesional para importar y exportar XML, XML y muchos otros formatos utilizando Java." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="XML" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Convert XML to XML in Java., Save 
 
 {{% blocks/products/pf/agp/content h2="Convertir XML a XML usando Java" %}}
 
- ¿Cómo convierto XML a XML? Con la biblioteca Aspose.Cells for Java, puede convertir fácilmente XML a XML mediante programación con unas pocas líneas de código.[Aspose.Cells for Java](https://products.aspose.com/cells/java)es capaz de crear aplicaciones multiplataforma con la capacidad de generar, modificar, convertir, renderizar e imprimir todos los archivos de Excel. Java Excel API no solo convierte entre formatos de hojas de cálculo, sino que también puede representar archivos de Excel como imágenes, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT y más, lo que lo convierte en una opción perfecta para intercambiar documentos en formatos estándar de la industria. Puede descargar su última versión directamente desde[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) e instálelo dentro de su proyecto basado en Maven agregando las siguientes configuraciones a pom.xml.
+¿Cómo convierto XML a XML? Con la biblioteca Aspose.Cells for Java, puede convertir fácilmente XML a XML mediante programación con unas pocas líneas de código.[Aspose.Cells for Java](https://products.aspose.com/cells/java)es capaz de crear aplicaciones multiplataforma con la capacidad de generar, modificar, convertir, renderizar e imprimir todos los archivos de Excel. Java Excel API no solo convierte entre formatos de hojas de cálculo, sino que también puede representar archivos de Excel como imágenes, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT y más, lo que lo convierte en una opción perfecta para intercambiar documentos en formatos estándar de la industria. Puede descargar su última versión directamente desde[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) e instálelo dentro de su proyecto basado en Maven agregando las siguientes configuraciones a pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Repositorio" offSpacer="true" %}}
 
@@ -56,19 +56,19 @@ Siga los sencillos pasos para convertir XML a XML. Cargue su archivo XML y luego
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Código de muestra para convertir XML a XML" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xml" outformat="xml" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Código de ejemplo para convertir XML a XML" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="xml" outformat="xml" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="Cómo convertir XML a XML via Java" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
-¿Necesita convertir archivos XML a XML mediante programación? Los desarrolladores de Java pueden convertir fácilmente XML a XML con solo unas pocas líneas de código.
+¿Necesitas convertir archivos XML a XML mediante programación? Los desarrolladores de Java pueden convertir XML a XML fácilmente con solo unas pocas líneas de código.
 
 {{% /blocks/products/pf/agp/text %}}
 
-1.  Instale 'Aspose.Cells for Java'.
+1.  Instalar 'Aspose.Cells for Java'.
 1.  Agregue una referencia de biblioteca (importe la biblioteca) a su proyecto Java.
-1.  Cargue un archivo XML con una instancia de la clase Workbook.
+1.  Cargue el archivo XML con una instancia de la clase Workbook.
 1.  Convierta XML a XML llamando al método Workbook.save.
 1.  Obtenga el resultado de la conversión de XML a XML.
 

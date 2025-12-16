@@ -1,7 +1,7 @@
 ---
-title: Convertidor PHP XLT a JPEG - XLT a JPEG
-description: Aspose Excel. Convierta XLT a JPEG rápida y fácilmente con Aspose.Cells. PHP XLT a JPEG. PHP Guarde XLT a JPEG. Guarde XLT como JPEG usando PHP.
-keywords: [Aspose Excel., PHP Aspose.Cells., Convert XLT to JPEG in PHP., Save XLT to JPEG using PHP., PHP XLT to JPEG saveformat., XLT to JPEG Converter., PHP Save XLT as JPEG]
+title: Convertidor de PHP XLT a JPEG - XLT a JPEG
+description: Aspose Excel. Esta solución integral ofrece a los desarrolladores PHP un enfoque totalmente integrado para convertir el formato XLT al JPEG, lo que permite guardar sin problemas los datos del XLT al formato JPEG mediante la biblioteca Aspose.Cells, todo mediante código PHP eficiente y personalizable.
+keywords: [Aspose Excel., PHP Aspose.Cells., Smart XLT files to JPEG Converter for PHP., Convert XLT to JPEG in PHP., XLT files to JPEG Conversion in PHP., Leverage intelligent data processing to automatically parse and save XLT into JPEG format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Convertir XLT a JPEG en PHP" h2="Biblioteca PHP de alta velocidad para convertir XLT a JPEG. Esta es una solución de software profesional para importar y exportar XLT, JPEG y muchos otros formatos usando PHP." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-php-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="JPEG" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,11 +12,11 @@ keywords: [Aspose Excel., PHP Aspose.Cells., Convert XLT to JPEG in PHP., Save X
 
 {{% blocks/products/pf/agp/content h2="Convertir XLT a JPEG usando PHP" %}}
 
- ¿Cómo convierto XLT a JPEG? Con la biblioteca Aspose.Cells for PHP via Java, puede convertir fácilmente XLT a JPEG mediante programación con unas pocas líneas de código.[Aspose.Cells for PHP via Java](https://products.aspose.com/cells/php-java/) es capaz de crear aplicaciones multiplataforma con la capacidad de generar, modificar, convertir, renderizar e imprimir todos los archivos de Excel. PHP Excel API no sólo convierte entre formatos de hojas de cálculo, sino que también puede representar archivos de Excel como imágenes, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT y más, lo que lo convierte en una opción perfecta para intercambiar documentos en formatos estándar de la industria.
+¿Cómo convierto XLT a JPEG? Con la biblioteca Aspose.Cells for PHP via Java, puedes convertir fácilmente XLT a JPEG mediante programación con solo unas pocas líneas de código.[Aspose.Cells for PHP via Java](https://products.aspose.com/cells/php-java/) Es capaz de crear aplicaciones multiplataforma con la capacidad de generar, modificar, convertir, renderizar e imprimir todos los archivos de Excel. PHP Excel API no solo convierte entre formatos de hoja de cálculo, sino que también puede renderizar archivos de Excel como imágenes, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT y más, lo que lo convierte en la opción ideal para intercambiar documentos en formatos estándar de la industria.
  
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Guardar XLT a JPEG en PHP" %}}
+{{% blocks/products/pf/agp/content h2="Guardar XLT en JPEG en PHP" %}}
 
 El siguiente ejemplo demuestra cómo convertir XLT a JPEG en PHP.
 {{% blocks/products/pf/agp/text %}}
@@ -27,20 +27,20 @@ Siga los sencillos pasos para convertir XLT a JPEG. Cargue su archivo XLT y lueg
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Código de muestra para convertir XLT a JPEG" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlt" outformat="jpg" IsLandingPage="true" language="phpjava" %}}
+{{% cells-convert title="Código de muestra para convertir XLT a JPEG" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="xlt" outformat="jpg" IsLandingPage="true" language="phpjava" %}}
 
 {{% blocks/products/pf/agp/content h2="Cómo convertir XLT a JPEG mediante PHP" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
-¿Necesita convertir archivos XLT a JPEG mediante programación? Los desarrolladores de PHP pueden cargar y convertir fácilmente XLT a JPEG en tan solo unas pocas líneas de código.
+¿Necesitas convertir archivos XLT a JPEG mediante programación? Los desarrolladores de PHP pueden cargar y convertir fácilmente archivos XLT a JPEG con solo unas pocas líneas de código.
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Instale 'Aspose.Cells for PHP via Java'.
 1.  Agregue una referencia de biblioteca (importe la biblioteca) a su proyecto PHP.
 1.  Cargue el archivo XLT con una instancia de Workbook.
-1.  Convierta XLT a JPEG llamando al método guardar del libro de trabajo.
+1.  Convierta XLT a JPEG llamando al método de guardado del libro de trabajo.
 1.  Obtenga el resultado de la conversión de XLT a JPEG.
 
 {{% /blocks/products/pf/agp/content %}}
@@ -63,7 +63,7 @@ Hay tres opciones para instalar "Aspose.Cells for PHP via Java" en su sistema. E
 
 {{% blocks/products/pf/agp/text %}}
 
-Aspose.Cells for PHP via Java es independiente de la plataforma API y se puede utilizar en cualquier plataforma (Windows, Linux, MacOS, etc.) donde esté instalado PHP 7 o versiones superiores. La máquina debe tener Oracle JDK 7 o versiones superiores antes de configurar la instalación.
+ Aspose.Cells for PHP via Java es independiente de la plataforma API y puede utilizarse en cualquier plataforma (Windows, Linux, macOS, etc.) con PHP 7 o versiones posteriores instaladas. El equipo debe tener instalado Oracle JDK 7 o versiones posteriores antes de configurar la instalación.
  
 {{% /blocks/products/pf/agp/text %}}
 

@@ -1,7 +1,7 @@
 ---
 title: Python HTM به TABDELIMITED - تبدیل HTM به TABDELIMITED
-description: Aspose اکسل. Python اکسل. HTM را به TABDELIMITED به سرعت و به راحتی با Aspose.Cells. Python HTM به TABDELIMITED تبدیل کنید. Python HTM را در TABDELIMITED ذخیره کنید. با استفاده از Python Excel Library، HTM را به صورت TABDELIMITED ذخیره کنید.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert HTM to TABDELIMITED in Python Excel Library., Save HTM to TABDELIMITED using Python Excel Library., Python HTM to TABDELIMITED saveformat., HTM to TABDELIMITED Converter., Python Save HTM as TABDELIMITED]
+description: Aspose اکسل. این راهکار جامع، رویکردی کاملاً یکپارچه برای تبدیل فرمت HTM به TABDELIMITED در اختیار توسعه‌دهندگان Python قرار می‌دهد و امکان ذخیره یکپارچه داده‌های HTM در فرمت TABDELIMITED را با استفاده از کتابخانه Aspose.Cells، از طریق کد کارآمد و قابل تنظیم Python، فراهم می‌کند.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart HTM files to TABDELIMITED Converter for Python., Convert HTM to TABDELIMITED in Python., HTM files to TABDELIMITED Conversion in Python., Leverage intelligent data processing to automatically parse and save HTM into TABDELIMITED format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="HTM را در کتابخانه Excel Python به TABDELIMITED تبدیل کنید" h2="کتابخانه اکسل پرسرعت Python برای تبدیل HTM به TABDELIMITED. از تبدیل اکسل API ما برای توسعه نرم افزار سطح بالا و مستقل از پلت فرم در Python استفاده کنید." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="TABDELIMITED" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -28,7 +28,7 @@ keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert H
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="کد نمونه برای تبدیل HTM به TABDELIMITED از طریق Python Excel Library" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="htm" outformat="tsv" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="کد نمونه برای تبدیل HTM به TABDELIMITED از طریق Python Excel Library" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="htm" outformat="tsv" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="چگونه HTM را به TABDELIMITED تبدیل کنیم" %}}
 

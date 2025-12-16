@@ -1,7 +1,7 @@
 ---
 title: PHP CSV a ETT - Convertidor de CSV a ETT
-description: Aspose Excel. Convierta CSV a ETT rápida y fácilmente con Aspose.Cells. PHP CSV a ETT. PHP Guarde CSV en ETT. Guarde CSV como ETT usando PHP.
-keywords: [Aspose Excel., PHP Aspose.Cells., Convert CSV to ETT in PHP., Save CSV to ETT using PHP., PHP CSV to ETT saveformat., CSV to ETT Converter., PHP Save CSV as ETT]
+description: Aspose Excel. Esta solución integral ofrece a los desarrolladores PHP un enfoque totalmente integrado para convertir el formato CSV a ETT, lo que permite guardar sin problemas los datos del formato CSV en ETT mediante la biblioteca Aspose.Cells, todo mediante código PHP eficiente y personalizable.
+keywords: [Aspose Excel., PHP Aspose.Cells., Smart CSV files to ETT Converter for PHP., Convert CSV to ETT in PHP., CSV files to ETT Conversion in PHP., Leverage intelligent data processing to automatically parse and save CSV into ETT format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Convertir CSV a ETT en PHP" h2="Biblioteca PHP de alta velocidad para convertir CSV a ETT. Esta es una solución de software profesional para importar y exportar CSV, ETT y muchos otros formatos usando PHP." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-php-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="ETT" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,11 +12,11 @@ keywords: [Aspose Excel., PHP Aspose.Cells., Convert CSV to ETT in PHP., Save CS
 
 {{% blocks/products/pf/agp/content h2="Convertir CSV a ETT usando PHP" %}}
 
- ¿Cómo convierto CSV a ETT? Con la biblioteca Aspose.Cells for PHP via Java, puede convertir fácilmente CSV a ETT mediante programación con unas pocas líneas de código.[Aspose.Cells for PHP via Java](https://products.aspose.com/cells/php-java/) es capaz de crear aplicaciones multiplataforma con la capacidad de generar, modificar, convertir, renderizar e imprimir todos los archivos de Excel. PHP Excel API no sólo convierte entre formatos de hojas de cálculo, sino que también puede representar archivos de Excel como imágenes, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT y más, lo que lo convierte en una opción perfecta para intercambiar documentos en formatos estándar de la industria.
+ ¿Cómo convierto CSV a ETT? Con la biblioteca Aspose.Cells for PHP via Java, puedes convertir fácilmente CSV a ETT mediante programación con solo unas pocas líneas de código.[Aspose.Cells for PHP via Java](https://products.aspose.com/cells/php-java/) Es capaz de crear aplicaciones multiplataforma con la capacidad de generar, modificar, convertir, renderizar e imprimir todos los archivos de Excel. PHP Excel API no solo convierte entre formatos de hoja de cálculo, sino que también puede renderizar archivos de Excel como imágenes, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT y más, lo que lo convierte en la opción ideal para intercambiar documentos en formatos estándar de la industria.
  
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Guarde CSV en ETT en PHP" %}}
+{{% blocks/products/pf/agp/content h2="Guardar CSV en ETT en PHP" %}}
 
 El siguiente ejemplo demuestra cómo convertir CSV a ETT en PHP.
 {{% blocks/products/pf/agp/text %}}
@@ -27,20 +27,20 @@ Siga los sencillos pasos para convertir CSV a ETT. Cargue su archivo CSV y luego
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Código de muestra para convertir CSV a ETT" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="csv" outformat="ett" IsLandingPage="true" language="phpjava" %}}
+{{% cells-convert title="Código de ejemplo para convertir CSV a ETT" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="csv" outformat="ett" IsLandingPage="true" language="phpjava" %}}
 
-{{% blocks/products/pf/agp/content h2="Cómo convertir CSV a ETT a través de PHP" %}}
+{{% blocks/products/pf/agp/content h2="Cómo convertir CSV a ETT mediante PHP" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
-¿Necesita convertir archivos CSV a ETT mediante programación? Los desarrolladores de PHP pueden cargar y convertir fácilmente CSV a ETT en tan solo unas pocas líneas de código.
+¿Necesita convertir archivos CSV a ETT mediante programación? Los desarrolladores de PHP pueden cargar y convertir fácilmente archivos CSV a ETT con solo unas pocas líneas de código.
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Instale 'Aspose.Cells for PHP via Java'.
 1.  Agregue una referencia de biblioteca (importe la biblioteca) a su proyecto PHP.
 1.  Cargue el archivo CSV con una instancia de Workbook.
-1.  Convierta CSV a ETT llamando al método de guardar del libro de trabajo.
+1.  Convierta CSV a ETT llamando al método de guardado del libro de trabajo.
 1.  Obtenga el resultado de la conversión de CSV a ETT.
 
 {{% /blocks/products/pf/agp/content %}}
@@ -63,7 +63,7 @@ Hay tres opciones para instalar "Aspose.Cells for PHP via Java" en su sistema. E
 
 {{% blocks/products/pf/agp/text %}}
 
-Aspose.Cells for PHP via Java es independiente de la plataforma API y se puede utilizar en cualquier plataforma (Windows, Linux, MacOS, etc.) donde esté instalado PHP 7 o versiones superiores. La máquina debe tener Oracle JDK 7 o versiones superiores antes de configurar la instalación.
+ Aspose.Cells for PHP via Java es independiente de la plataforma API y puede utilizarse en cualquier plataforma (Windows, Linux, macOS, etc.) con PHP 7 o versiones posteriores instaladas. El equipo debe tener instalado Oracle JDK 7 o versiones posteriores antes de configurar la instalación.
  
 {{% /blocks/products/pf/agp/text %}}
 
@@ -73,7 +73,7 @@ Aspose.Cells for PHP via Java es independiente de la plataforma API y se puede u
 <!-- aboutfile Starts -->
     {{< blocks/products/pf/agp/about-file-section >}}
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="CSV" readMoreLink="https://docs.fileformat.com/spreadsheet/csv/" >}}Los archivos con extensión .csv (valores separados por comas) representan archivos de texto sin formato que contienen registros de datos con valores separados por comas. Cada línea de un archivo CSV es un registro nuevo del conjunto de registros contenidos en el archivo. Estos archivos se generan cuando se pretende transferir datos de un sistema de almacenamiento a otro. Dado que todas las aplicaciones pueden reconocer registros separados por comas, la importación de dichos archivos de datos a la base de datos se realiza de manera muy conveniente. Casi todas las aplicaciones de hojas de cálculo, como Microsoft Excel u OpenOffice Calc, pueden importar CSV sin mucho esfuerzo. Los datos importados de dichos archivos se organizan en celdas de una hoja de cálculo para representarlos al usuario.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="ETT" readMoreLink="https://fileinfo.com/extension/ett/" >}}Un archivo ETT es una plantilla de hoja de cálculo creada por Kingsoft Spreadsheets, un programa de hoja de cálculo incluido en la suite WPS Office. Almacena una plantilla que se puede utilizar como punto de partida para crear nuevas hojas de cálculo de Kingsoft (archivos .ET). Los archivos ETT se utilizan a menudo para crear presupuestos financieros y organizar datos.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="ETT" readMoreLink="https://fileinfo.com/extension/ett/" >}}Un archivo ETT es una plantilla de hoja de cálculo creada por Kingsoft Spreadsheets, un programa de hoja de cálculo incluido en la suite WPS Office. Almacena una plantilla que puede usarse como punto de partida para crear nuevas hojas de cálculo de Kingsoft (archivos .ET). Los archivos ETT se utilizan a menudo para crear presupuestos financieros y organizar datos.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
     {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->
 

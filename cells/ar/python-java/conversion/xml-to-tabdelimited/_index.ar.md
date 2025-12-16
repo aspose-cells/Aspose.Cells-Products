@@ -1,7 +1,7 @@
 ---
 title: Python XML إلى TABDELIMITED - محول XML إلى TABDELIMITED
-description: Aspose اكسل. Python اكسل. قم بتحويل XML إلى TABDELIMITED بسرعة وسهولة باستخدام Aspose.Cells. Python XML إلى TABDELIMITED. Python احفظ XML في TABDELIMITED. احفظ XML بتنسيق TABDELIMITED باستخدام مكتبة Excel Python.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert XML to TABDELIMITED in Python Excel Library., Save XML to TABDELIMITED using Python Excel Library., Python XML to TABDELIMITED saveformat., XML to TABDELIMITED Converter., Python Save XML as TABDELIMITED]
+description: Aspose إكسل. يوفر هذا الحل الشامل للمطورين Python نهجًا متكاملًا تمامًا لتحويل XML إلى تنسيق TABDELIMITED، مما يتيح حفظ بيانات XML بسلاسة بتنسيق TABDELIMITED باستخدام مكتبة Aspose.Cells، كل ذلك من خلال كود Python فعال وقابل للتخصيص.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart XML files to TABDELIMITED Converter for Python., Convert XML to TABDELIMITED in Python., XML files to TABDELIMITED Conversion in Python., Leverage intelligent data processing to automatically parse and save XML into TABDELIMITED format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="تحويل XML إلى TABDELIMITED في مكتبة Excel Python" h2="مكتبة إكسل Python عالية السرعة لتحويل XML إلى TABDELIMITED. يعد هذا حلاً برمجيًا احترافيًا لاستيراد وتصدير XML وTABDELIMITED والعديد من التنسيقات الأخرى باستخدام Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="TABDELIMITED" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -27,7 +27,7 @@ keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert X
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="نموذج التعليمات البرمجية لتحويل XML إلى TABDELIMITED عبر مكتبة Excel Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xml" outformat="tsv" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="نموذج التعليمات البرمجية لتحويل XML إلى TABDELIMITED عبر مكتبة Excel Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="xml" outformat="tsv" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="كيفية تحويل XML إلى TABDELIMITED عبر Python" %}}
 

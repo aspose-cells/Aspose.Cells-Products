@@ -1,7 +1,7 @@
 ---
 title: Python BILD zu XLAM - BILD zu XLAM Konverter
-description: Aspose Excel. Python Excel. Konvertieren Sie BILD schnell und einfach in XLAM mit Aspose.Cells. Python BILD in XLAM. Python Speichern Sie BILD in XLAM. Speichern Sie BILD als XLAM mit Python Excel-Bibliothek.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert IMAGE to XLAM in Python Excel Library., Save IMAGE to XLAM using Python Excel Library., Python IMAGE to XLAM saveformat., IMAGE to XLAM Converter., Python Save IMAGE as XLAM]
+description: Aspose Excel. Diese umfassende Lösung bietet Entwicklern einen vollständig integrierten Ansatz zur Konvertierung von IMAGE in das Format XLAM und ermöglicht das nahtlose Speichern von IMAGE-Daten im Format XLAM mithilfe der Bibliothek Aspose.Cells, alles durch effizienten und anpassbaren Code Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart IMAGE files to XLAM Converter for Python., Convert IMAGE to XLAM in Python., IMAGE files to XLAM Conversion in Python., Leverage intelligent data processing to automatically parse and save IMAGE into XLAM format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Konvertieren Sie IMAGE in XLAM in der Excel-Bibliothek Python" h2="Hochgeschwindigkeits-Excel-Bibliothek Python zum Konvertieren von IMAGE in XLAM. Verwenden Sie unsere Excel-Konvertierung API, um plattformunabhängige Software auf hohem Niveau in Python zu entwickeln." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLAM" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -28,7 +28,7 @@ Befolgen Sie die einfachen Schritte, um IMAGE in XLAM zu konvertieren. Laden Sie
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Beispielcode zum Konvertieren von IMAGE in XLAM über die Excel-Bibliothek Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="png" outformat="xlam" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Beispielcode zum Konvertieren von IMAGE in XLAM über die Excel-Bibliothek Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="png" outformat="xlam" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="So konvertieren Sie IMAGE in XLAM" %}}
 

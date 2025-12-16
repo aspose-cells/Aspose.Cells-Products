@@ -1,7 +1,7 @@
 ---
 title: Java XML إلى XLSM - XML إلى XLSM محول
-description: Aspose اكسل. قم بتحويل XML إلى XLSM بسرعة وسهولة باستخدام Aspose.Cells. Java XML إلى XLSM. Java احفظ XML إلى XLSM. احفظ XML كـ XLSM باستخدام Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Convert XML to XLSM in Java., Save XML to XLSM using Java., Java XML to XLSM saveformat., XML to XLSM Converter., Java Save XML as XLSM]
+description: Aspose إكسل. يوفر هذا الحل الشامل للمطورين Java نهجًا متكاملًا تمامًا لتحويل XML إلى تنسيق XLSM، مما يتيح حفظ بيانات XML بسلاسة بتنسيق XLSM باستخدام مكتبة Aspose.Cells، كل ذلك من خلال كود Java فعال وقابل للتخصيص.
+keywords: [Aspose Excel., Java Aspose.Cells., Smart XML files to XLSM Converter for Java., Convert XML to XLSM in Java., XML files to XLSM Conversion in Java., Leverage intelligent data processing to automatically parse and save XML into XLSM format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="تحويل XML إلى XLSM في Java" h2="مكتبة Java عالية السرعة لتحويل XML إلى XLSM. هذا حل برمجي احترافي لاستيراد وتصدير XML وXLSM والعديد من التنسيقات الأخرى باستخدام Java." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSM" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="CSV" >}}
@@ -45,7 +45,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Convert XML to XLSM in Java., Save
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="احفظ XML في XLSM في Java" %}}
+{{% blocks/products/pf/agp/content h2="حفظ ملف XML في XLSM في Java" %}}
 
 يوضح المثال التالي كيفية تحويل XML إلى XLSM في Java.
 {{% blocks/products/pf/agp/text %}}
@@ -56,19 +56,19 @@ keywords: [Aspose Excel., Java Aspose.Cells., Convert XML to XLSM in Java., Save
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="نموذج التعليمات البرمجية لتحويل XML إلى XLSM" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xml" outformat="xlsm" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="نموذج كود لتحويل XML إلى XLSM" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="xml" outformat="xlsm" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="كيفية تحويل XML إلى XLSM via Java" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
-هل تحتاج إلى تحويل ملفات XML إلى XLSM برمجياً؟ يمكن لمطوري Java تحويل XML بسهولة إلى XLSM في بضعة أسطر من التعليمات البرمجية.
+هل تحتاج إلى تحويل ملفات XML إلى صيغة XLSM برمجيًا؟ يمكن لمطوري Java تحويل XML بسهولة إلى صيغة XLSM في بضعة أسطر من التعليمات البرمجية فقط.
 
 {{% /blocks/products/pf/agp/text %}}
 
-1.  قم بتثبيت "Aspose.Cells for Java".
+1.  قم بتثبيت 'Aspose.Cells for Java'.
 1.  أضف مرجع مكتبة (استيراد المكتبة) إلى مشروعك Java.
-1.  قم بتحميل ملف XML بمثيل لفئة Workbook.
+1.  قم بتحميل ملف XML باستخدام نسخة من فئة Workbook.
 1.  تحويل XML إلى XLSM عن طريق استدعاء طريقة Workbook.save.
 1.  احصل على نتيجة تحويل XML إلى XLSM.
 

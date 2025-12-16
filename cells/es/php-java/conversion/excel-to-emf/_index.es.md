@@ -1,7 +1,7 @@
 ---
-title: PHP EXCEL a EMF - Convertidor EXCEL a EMF
-description: Aspose Excel. Convierta EXCEL a EMF rápida y fácilmente con Aspose.Cells. PHP EXCEL a EMF. PHP Guarde EXCEL en EMF. Guarde EXCEL como EMF usando PHP.
-keywords: [Aspose Excel., PHP Aspose.Cells., Convert EXCEL to EMF in PHP., Save EXCEL to EMF using PHP., PHP EXCEL to EMF saveformat., EXCEL to EMF Converter., PHP Save EXCEL as EMF]
+title: Conversor de PHP EXCEL a EMF - EXCEL a EMF
+description: Aspose Excel. Esta solución integral ofrece a los desarrolladores PHP un enfoque totalmente integrado para convertir Excel al formato EMF, lo que permite guardar datos de Excel en formato EMF sin problemas mediante la biblioteca Aspose.Cells, todo mediante código PHP eficiente y personalizable.
+keywords: [Aspose Excel., PHP Aspose.Cells., Smart EXCEL files to EMF Converter for PHP., Convert EXCEL to EMF in PHP., EXCEL files to EMF Conversion in PHP., Leverage intelligent data processing to automatically parse and save EXCEL into EMF format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Convertir EXCEL a EMF en PHP" h2="Biblioteca PHP de alta velocidad para convertir EXCEL a EMF. Esta es una solución de software profesional para importar y exportar EXCEL, EMF y muchos otros formatos usando PHP." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-php-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="EMF" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,11 +12,11 @@ keywords: [Aspose Excel., PHP Aspose.Cells., Convert EXCEL to EMF in PHP., Save 
 
 {{% blocks/products/pf/agp/content h2="Convertir EXCEL a EMF usando PHP" %}}
 
- ¿Cómo convierto EXCEL a EMF? Con la biblioteca Aspose.Cells for PHP via Java, puede convertir fácilmente EXCEL a EMF mediante programación con unas pocas líneas de código.[Aspose.Cells for PHP via Java](https://products.aspose.com/cells/php-java/) es capaz de crear aplicaciones multiplataforma con la capacidad de generar, modificar, convertir, renderizar e imprimir todos los archivos de Excel. PHP Excel API no sólo convierte entre formatos de hojas de cálculo, sino que también puede representar archivos de Excel como imágenes, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT y más, lo que lo convierte en una opción perfecta para intercambiar documentos en formatos estándar de la industria.
+ ¿Cómo convierto Excel a EMF? Con la biblioteca Aspose.Cells for PHP via Java, puedes convertir Excel a EMF fácilmente mediante programación con solo unas pocas líneas de código.[Aspose.Cells for PHP via Java](https://products.aspose.com/cells/php-java/) Es capaz de crear aplicaciones multiplataforma con la capacidad de generar, modificar, convertir, renderizar e imprimir todos los archivos de Excel. PHP Excel API no solo convierte entre formatos de hoja de cálculo, sino que también puede renderizar archivos de Excel como imágenes, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT y más, lo que lo convierte en la opción ideal para intercambiar documentos en formatos estándar de la industria.
  
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Guarde EXCEL en EMF en PHP" %}}
+{{% blocks/products/pf/agp/content h2="Guardar EXCEL en EMF en PHP" %}}
 
 El siguiente ejemplo demuestra cómo convertir EXCEL a EMF en PHP.
 {{% blocks/products/pf/agp/text %}}
@@ -27,13 +27,13 @@ Siga los sencillos pasos para convertir EXCEL a EMF. Cargue su archivo EXCEL y l
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Código de muestra para convertir EXCEL a EMF" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsx" outformat="emf" IsLandingPage="true" language="phpjava" %}}
+{{% cells-convert title="Código de ejemplo para convertir EXCEL a EMF" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="xlsx" outformat="emf" IsLandingPage="true" language="phpjava" %}}
 
-{{% blocks/products/pf/agp/content h2="Cómo convertir EXCEL a EMF a través de PHP" %}}
+{{% blocks/products/pf/agp/content h2="Cómo convertir Excel a EMF mediante PHP" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
-¿Necesita convertir archivos EXCEL a EMF mediante programación? Los desarrolladores de PHP pueden cargar y convertir fácilmente EXCEL a EMF en tan solo unas pocas líneas de código.
+¿Necesita convertir archivos de Excel a EMF mediante programación? Los desarrolladores de PHP pueden cargar y convertir fácilmente archivos de Excel a EMF con solo unas pocas líneas de código.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -63,7 +63,7 @@ Hay tres opciones para instalar "Aspose.Cells for PHP via Java" en su sistema. E
 
 {{% blocks/products/pf/agp/text %}}
 
-Aspose.Cells for PHP via Java es independiente de la plataforma API y se puede utilizar en cualquier plataforma (Windows, Linux, MacOS, etc.) donde esté instalado PHP 7 o versiones superiores. La máquina debe tener Oracle JDK 7 o versiones superiores antes de configurar la instalación.
+ Aspose.Cells for PHP via Java es independiente de la plataforma API y puede utilizarse en cualquier plataforma (Windows, Linux, macOS, etc.) con PHP 7 o versiones posteriores instaladas. El equipo debe tener instalado Oracle JDK 7 o versiones posteriores antes de configurar la instalación.
  
 {{% /blocks/products/pf/agp/text %}}
 

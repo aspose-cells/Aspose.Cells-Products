@@ -1,7 +1,7 @@
 ---
 title: Python XLSB الى PPTX - XLSB الى PPTX محول
-description: Aspose اكسل. Python اكسل. قم بتحويل XLSB إلى PPTX بسرعة وسهولة باستخدام Aspose.Cells. Python XLSB إلى PPTX. Python احفظ XLSB إلى PPTX. احفظ XLSB كـ 076112 3481 باستخدام مكتبة إكسل Python.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert XLSB to PPTX in Python Excel Library., Save XLSB to PPTX using Python Excel Library., Python XLSB to PPTX saveformat., XLSB to PPTX Converter., Python Save XLSB as PPTX]
+description: Aspose Excel. يوفر هذا الحل الشامل للمطورين Python نهجًا متكاملًا تمامًا لتحويل XLSB إلى تنسيق PPTX، مما يتيح حفظ البيانات بسلاسة في تنسيق PPTX باستخدام مكتبة Aspose.Cells، كل ذلك من خلال كود Python فعال وقابل للتخصيص.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart XLSB files to PPTX Converter for Python., Convert XLSB to PPTX in Python., XLSB files to PPTX Conversion in Python., Leverage intelligent data processing to automatically parse and save XLSB into PPTX format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="تحويل XLSB إلى PPTX في Python مكتبة إكسل" h2="مكتبة إكسل Python عالية السرعة لتحويل XLSB إلى PPTX. هذا حل برمجي احترافي لاستيراد وتصدير XLSB، PPTX، والعديد من التنسيقات الأخرى باستخدام Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="PPTX" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -27,7 +27,7 @@ keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert X
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="نموذج التعليمات البرمجية لتحويل XLSB إلى PPTX عبر مكتبة Excel Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsb" outformat="pptx" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="نموذج التعليمات البرمجية لتحويل XLSB إلى PPTX عبر مكتبة Excel Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="xlsb" outformat="pptx" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="كيفية تحويل XLSB إلى PPTX عبر Python" %}}
 

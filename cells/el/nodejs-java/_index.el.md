@@ -1,10 +1,10 @@
 ---
-title:  Node.js API για υπολογιστικά φύλλα Excel - Aspose
+title:  Node.js via Java API για υπολογιστικά φύλλα Excel - Aspose
 weight: 3120
-description: Επεξεργαστείτε τις μορφές αρχείων Excel μέσω της βιβλιοθήκης Node.js. Ανάγνωση εγγραφής απόδοσης & μετατροπής XLS XLSX XLSB XLTX XLTM XLSM XML ODS CSV και άλλων μορφών max13407 και Linux, ma38c1, Linux, 3407 & 6j181, στο Node.
+description: Επεξεργαστείτε μορφές αρχείων Excel χρησιμοποιώντας τη βιβλιοθήκη Node.js via Java. Ανάγνωση, εγγραφή, απόδοση και μετατροπή XLS XLSX XLSB XLTX XLTM XLSM XML ODS CSV και περισσότερες μορφές χρησιμοποιώντας το Node.js via Java σε Windows, macOS και Linux.
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="Node.js API μορφής αρχείου Excel" h2="Δημιουργήστε, τροποποιήστε, μετατρέψτε και αποδώστε υπολογιστικά φύλλα Excel χρησιμοποιώντας το Node.js χωρίς να απαιτείται Microsoft Excel." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/headers/aspose_cells-for-nodejs-java.svg" pfName="Aspose.Cells" subTitlepfName="for Node.js via Java" downloadUrl="https://downloads.aspose.com/cells/nodejs" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="API μορφής αρχείου Excel Node.js via Java" h2="Δημιουργήστε, τροποποιήστε, μετατρέψτε και αποδώστε υπολογιστικά φύλλα Excel χρησιμοποιώντας το Node.js via Java χωρίς να απαιτείται το Excel Microsoft." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/headers/aspose_cells-for-nodejs-java.svg" pfName="Aspose.Cells" subTitlepfName="for Node.js via Java" downloadUrl="https://downloads.aspose.com/cells/nodejs" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells" subTitlepfName="for Node.js via Java" >}}
 
@@ -12,7 +12,7 @@ description: Επεξεργαστείτε τις μορφές αρχείων Exc
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
-Το Aspose.Cells for Node.js via Java είναι ένα πλούσιο σε χαρακτηριστικά και επεκτάσιμο API για την επεξεργασία υπολογιστικών φύλλων του Excel χρησιμοποιώντας το Node.js. Το API προσφέρει μετατροπή μορφής αρχείου Excel, διαμόρφωση φύλλων εργασίας στο πιο αναλυτικό επίπεδο, δημιουργία γραφημάτων &amp; απόδοση, αξιόπιστη μηχανή υπολογισμού τύπων και πολλά άλλα.
+ Aspose.Cells for Node.js Το via Java είναι ένα πλούσιο σε λειτουργίες και επεκτάσιμο API εργαλείο για την επεξεργασία υπολογιστικών φύλλων Excel χρησιμοποιώντας το Node.js via Java. Το API προσφέρει μετατροπή σε μορφή αρχείου Excel, μορφοποίηση φύλλων εργασίας στο πιο λεπτομερές επίπεδο, δημιουργία και απόδοση γραφημάτων, αξιόπιστη μηχανή υπολογισμού τύπων και πολλά άλλα.
 </p>
 
 <p>
@@ -271,7 +271,7 @@ description: Επεξεργαστείτε τις μορφές αρχείων Exc
  <div class="row">
   <div class="container">
    <h2 class="pr-ft">
- Προηγμένες δυνατότητες Node.js Excel Spreadsheet API
+ Χαρακτηριστικά υπολογιστικού φύλλου Excel για προχωρημένους Node.js via Java API
    </h2>
    <p>
    </p>
@@ -343,7 +343,7 @@ description: Επεξεργαστείτε τις μορφές αρχείων Exc
  Απόδοση υπολογιστικών φύλλων του Excel
     </h2>
     <p>
-Aspose.Cells for Node.js via Java χρησιμοποιεί τη μηχανή απόδοσης για απόδοση στο Microsoft Excel με την υψηλότερη πιστότητα. Κατά τη χρήση της βιβλιοθήκης Node.js Excel Processing, μπορεί κανείς να μετατρέψει ολόκληρα φύλλα, μεμονωμένα αρχεία ή γραφήματα σε πολλές εικόνες και μορφές σταθερής διάταξης.
+ Aspose.Cells for Node.js via Java χρησιμοποιεί τη μηχανή απόδοσης για απόδοση στο Excel Microsoft με την υψηλότερη πιστότητα. Κατά τη χρήση της βιβλιοθήκης επεξεργασίας Excel Node.js via Java, μπορείτε να μετατρέψετε ολόκληρα φύλλα, μεμονωμένα αρχεία ή γραφήματα σε πολλαπλές εικόνες και μορφές σταθερής διάταξης.
     </p>
    </div>
    <div class="col-lg-12">
@@ -415,7 +415,7 @@ Aspose.Cells for Node.js via Java παρέχει πλήρη υποστήριξη
 
 {{< /blocks/products/pf/i18n/support-learning-resources >}}
 
-{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://downloads.aspose.com/cells/nodejs" pricingInformationLink="https://purchase.aspose.com/pricing/cells/nodejs-java" >}}
+{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://releases.aspose.com/cells/nodejs/" pricingInformationLink="https://purchase.aspose.com/pricing/cells/nodejs-java" >}}
 
 {{< blocks/products/pf/offers-section pfName="Aspose.Cells" description="Το Aspose.Cells προσφέρει μεμονωμένα API του Excel για άλλα δημοφιλή περιβάλλοντα ανάπτυξης όπως αναφέρονται παρακάτω:" >}}
 

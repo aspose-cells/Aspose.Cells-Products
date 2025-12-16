@@ -1,7 +1,7 @@
 ---
 title: Python PRN a XLAM - Convertidor PRN a XLAM
-description: Aspose Excel. Python Excel. Convierta PRN a XLAM rápida y fácilmente con Aspose.Cells. Python PRN a XLAM. Python Guarde PRN en XLAM. Guarde PRN como XLAM usando Python Biblioteca de Excel.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert PRN to XLAM in Python Excel Library., Save PRN to XLAM using Python Excel Library., Python PRN to XLAM saveformat., PRN to XLAM Converter., Python Save PRN as XLAM]
+description: Aspose Excel. Esta solución integral proporciona a los desarrolladores de Python un enfoque totalmente integrado para convertir PRN al formato XLAM, lo que permite guardar sin problemas los datos PRN en formato XLAM mediante la biblioteca Aspose.Cells, todo mediante código Python eficiente y personalizable.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart PRN files to XLAM Converter for Python., Convert PRN to XLAM in Python., PRN files to XLAM Conversion in Python., Leverage intelligent data processing to automatically parse and save PRN into XLAM format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Convierta PRN a XLAM en la biblioteca de Excel Python" h2="Biblioteca Excel Python de alta velocidad para convertir PRN a XLAM. Esta es una solución de software profesional para importar y exportar PRN, XLAM y muchos otros formatos utilizando Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLAM" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -27,7 +27,7 @@ Siga los sencillos pasos para convertir PRN a XLAM. Cargue su archivo PRN y lueg
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Código de muestra para convertir PRN a XLAM a través de la biblioteca de Excel Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="prn" outformat="xlam" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="Código de muestra para convertir PRN a XLAM a través de la biblioteca de Excel Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="prn" outformat="xlam" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="Cómo convertir PRN a XLAM a través de Python" %}}
 

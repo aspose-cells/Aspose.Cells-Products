@@ -1,8 +1,8 @@
 ---
-title:  Python Excel-Tabelle API - Aspose
+title: Python Excel-Tabelle API - Aspose.Cells for Python via .NET
 weight: 2800
-description: Python-Bibliothek zum Erstellen, Reparieren, Zusammenführen, Analysieren und Konvertieren von Excel-Dateien. Konvertieren Sie Excel in PDF, JSON, HTML, TXT und andere gängige Formate.
-keywords: [Python Aspose.Cells Create repair merge convert JSON Excel XML PDF HTML TSV SQL ODS CSV TSV PNG JPEG and more formats]
+description: Die Bibliothek Aspose.Cells, for Python und via .NET dient zum Erstellen, Reparieren, Zusammenführen, Analysieren und Konvertieren von Excel-Dateien. Diese leistungsstarke Bibliothek bietet eine optimierte und effiziente Lösung für diese Aufgaben und erfüllt spezifische Entwickleranforderungen mit hoher Präzision.
+keywords: [Aspose.Cells for Python via .NET Create repair merge convert JSON Excel XML PDF HTML TSV SQL ODS CSV TSV PNG JPEG and more formats]
 ---
 {{< blocks/products/pf/main-wrap-class >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Python APIs zum Parsen von Excel-Tabellen" h2="Erstellen, lesen, schreiben oder bearbeiten Sie Tabellen und exportieren Sie Excel-Dateien in mehrere Formate innerhalb von Python-Anwendungen." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/cells/headers/aspose_cells-for-python-via-net.svg" pfName="Aspose.Cells" subTitlepfName="for Python via .NET" downloadUrl="https://releases.aspose.com/cells/python-net/" >}}

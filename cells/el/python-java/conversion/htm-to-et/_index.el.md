@@ -1,7 +1,7 @@
 ---
 title: Python HTM σε ET - Μετατροπέας HTM σε ET
-description: Aspose Excel. Python Excel. Μετατρέψτε το HTM σε ET γρήγορα και εύκολα με το Aspose.Cells. Python HTM σε ET. Python Αποθήκευση HTM στο ET. Αποθηκεύστε το HTM ως ET χρησιμοποιώντας το Python Excel Library.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert HTM to ET in Python Excel Library., Save HTM to ET using Python Excel Library., Python HTM to ET saveformat., HTM to ET Converter., Python Save HTM as ET]
+description: Aspose Excel. Αυτή η ολοκληρωμένη λύση παρέχει στους προγραμματιστές Python μια πλήρως ενσωματωμένη προσέγγιση για τη μετατροπή δεδομένων HTM σε μορφή ET, επιτρέποντας την απρόσκοπτη αποθήκευση δεδομένων HTM σε μορφή ET χρησιμοποιώντας τη βιβλιοθήκη Aspose.Cells, μέσω αποτελεσματικού και προσαρμόσιμου κώδικα Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart HTM files to ET Converter for Python., Convert HTM to ET in Python., HTM files to ET Conversion in Python., Leverage intelligent data processing to automatically parse and save HTM into ET format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Μετατρέψτε το HTM σε ET στη Βιβλιοθήκη Excel Python" h2="Βιβλιοθήκη excel υψηλής ταχύτητας Python για μετατροπή HTM σε ET. Αυτή είναι μια επαγγελματική λύση λογισμικού για εισαγωγή και εξαγωγή HTM, ET και πολλών άλλων μορφών χρησιμοποιώντας το Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="ET" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -27,7 +27,7 @@ keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert H
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Δείγμα κώδικα για μετατροπή HTM σε ET μέσω Python Excel Library" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="htm" outformat="et" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="Δείγμα κώδικα για μετατροπή HTM σε ET μέσω Python Excel Library" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="htm" outformat="et" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="Πώς να μετατρέψετε το HTM σε ET μέσω του Python" %}}
 
@@ -81,29 +81,29 @@ Aspose.Cells for Python via Java είναι ανεξάρτητο από πλατ
 
 {{< blocks/products/pf/agp/other-supported-section title="Άλλες υποστηριζόμενες μετατροπές" subTitle="Μπορείτε επίσης να μετατρέψετε το HTM σε πολλές άλλες μορφές αρχείων, συμπεριλαμβανομένων μερικών που αναφέρονται παρακάτω." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/htm-to-bmp/" name="HTM TO BMP" description="Εικόνα Bitmap" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/htm-to-emf/" name="HTM TO EMF" description="Βελτιωμένη μορφή μετα-αρχείου" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/htm-to-gif/" name="HTM TO GIF" description="Μορφή γραφικής ανταλλαγής" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/htm-to-html/" name="HTM TO HTML" description="Γλώσσα σήμανσης υπερκειμένου" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/htm-to-md/" name="HTM TO MD" description="Γλώσσα Markdown" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/htm-to-mhtml/" name="HTM TO MHTML" description="Μορφή αρχείου ιστοσελίδας" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/htm-to-ods/" name="HTM TO ODS" description="Αρχείο Υπολογιστικού Φύλλου OpenDocument" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/htm-to-pdf/" name="HTM TO PDF" description="Μορφή φορητού εγγράφου" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/htm-to-png/" name="HTM TO PNG" description="Φορητά γραφικά δικτύου" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/htm-to-svg/" name="HTM TO SVG" description="Κλιμακόμενα διανυσματικά γραφικά" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/htm-to-tiff/" name="HTM TO TIFF" description="Με ετικέτα Μορφή εικόνας" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/htm-to-tsv/" name="HTM TO TSV" description="Τιμές διαχωρισμένες με καρτέλες" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/htm-to-txt/" name="HTM TO TXT" description="Έγγραφο κειμένου" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/htm-to-xls/" name="HTM TO XLS" description="Δυαδική μορφή Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/htm-to-xlsb/" name="HTM TO XLSB" description="Δυαδικό αρχείο βιβλίου εργασίας Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/htm-to-xlsm/" name="HTM TO XLSM" description="Αρχείο υπολογιστικού φύλλου" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/htm-to-xlsx/" name="HTM TO XLSX" description="Αρχείο Excel OOXML" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/htm-to-xlt/" name="HTM TO XLT" description="Microsoft Πρότυπο Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/htm-to-xltm/" name="HTM TO XLTM" description="Πρότυπο με δυνατότητα μακροεντολής Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/htm-to-xltx/" name="HTM TO XLTX" description="Πρότυπο Office OpenXML Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/htm-to-bmp/" name="HTM ΠΡΟΣ BMP" description="Εικόνα Bitmap" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/htm-to-emf/" name="HTM ΠΡΟΣ EMF" description="Βελτιωμένη μορφή μετα-αρχείου" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/htm-to-gif/" name="HTM ΠΡΟΣ GIF" description="Μορφή γραφικής ανταλλαγής" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/htm-to-html/" name="HTM ΠΡΟΣ HTML" description="Γλώσσα σήμανσης υπερκειμένου" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/htm-to-md/" name="HTM σε MD" description="Γλώσσα Markdown" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/htm-to-mhtml/" name="HTM ΠΡΟΣ MHTML" description="Μορφή αρχείου ιστοσελίδας" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/htm-to-ods/" name="HTM ΠΡΟΣ ODS" description="Αρχείο Υπολογιστικού Φύλλου OpenDocument" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/htm-to-pdf/" name="HTM ΠΡΟΣ PDF" description="Μορφή φορητού εγγράφου" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/htm-to-png/" name="HTM ΠΡΟΣ PNG" description="Φορητά γραφικά δικτύου" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/htm-to-svg/" name="HTM ΠΡΟΣ SVG" description="Κλιμακόμενα διανυσματικά γραφικά" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/htm-to-tiff/" name="HTM ΠΡΟΣ TIFF" description="Με ετικέτα Μορφή εικόνας" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/htm-to-tsv/" name="HTM ΠΡΟΣ TSV" description="Τιμές διαχωρισμένες με καρτέλες" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/htm-to-txt/" name="HTM ΠΡΟΣ TXT" description="Έγγραφο κειμένου" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/htm-to-xls/" name="HTM ΠΡΟΣ XLS" description="Δυαδική μορφή Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/htm-to-xlsb/" name="HTM ΠΡΟΣ XLSB" description="Δυαδικό αρχείο βιβλίου εργασίας Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/htm-to-xlsm/" name="HTM ΠΡΟΣ XLSM" description="Αρχείο υπολογιστικού φύλλου" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/htm-to-xlsx/" name="HTM ΠΡΟΣ XLSX" description="Αρχείο Excel OOXML" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/htm-to-xlt/" name="HTM ΠΡΟΣ XLT" description="Microsoft Πρότυπο Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/htm-to-xltm/" name="HTM ΠΡΟΣ XLTM" description="Πρότυπο με δυνατότητα μακροεντολής Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/htm-to-xltx/" name="HTM ΠΡΟΣ XLTX" description="Πρότυπο Office OpenXML Excel" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/htm-to-xml/" name="HTM ΣΕ XML" description="Επεκτάσιμη γλώσσα σήμανσης" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/htm-to-xps/" name="HTM TO XPS" description="Προδιαγραφές χαρτιού XML" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/htm-to-json/" name="HTM TO JSON" description="Σημειογραφία αντικειμένου JavaScript" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/htm-to-xps/" name="HTM ΠΡΟΣ XPS" description="Προδιαγραφές χαρτιού XML" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/htm-to-json/" name="HTM ΠΡΟΣ JSON" description="Σημειογραφία αντικειμένου JavaScript" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

@@ -1,7 +1,7 @@
 ---
 title: Python TABDELIMITED به PRN - تبدیل TABDELIMITED به PRN
-description: Aspose اکسل. Python اکسل. تبدیل TABDELIMITED به PRN سریع و آسان با Aspose.Cells. Python TABDELIMITED به PRN. Python ذخیره TABDELIMITED در PRN. ذخیره TABDELIMITED به عنوان PRN با استفاده از Python Excel Library.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert TABDELIMITED to PRN in Python Excel Library., Save TABDELIMITED to PRN using Python Excel Library., Python TABDELIMITED to PRN saveformat., TABDELIMITED to PRN Converter., Python Save TABDELIMITED as PRN]
+description: Aspose اکسل. این راهکار جامع، رویکردی کاملاً یکپارچه برای تبدیل فرمت TABDELIMITED به PRN در اختیار توسعه‌دهندگان Python قرار می‌دهد و امکان ذخیره یکپارچه داده‌های TABDELIMITED به فرمت PRN را با استفاده از کتابخانه Aspose.Cells، از طریق کد کارآمد و قابل تنظیم Python، فراهم می‌کند.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart TABDELIMITED files to PRN Converter for Python., Convert TABDELIMITED to PRN in Python., TABDELIMITED files to PRN Conversion in Python., Leverage intelligent data processing to automatically parse and save TABDELIMITED into PRN format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="TABDELIMITED را در کتابخانه اکسل Python به PRN تبدیل کنید" h2="کتابخانه اکسل پرسرعت Python برای تبدیل TABDELIMITED به PRN. این یک راه حل نرم افزاری حرفه ای برای وارد کردن و صادرات TABDELIMITED، PRN، و بسیاری از فرمت های دیگر با استفاده از Python است." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="PRN" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -27,7 +27,7 @@ keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert T
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="کد نمونه برای تبدیل TABDELIMITED به PRN از طریق Python Excel Library" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="tsv" outformat="prn" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="کد نمونه برای تبدیل TABDELIMITED به PRN از طریق Python Excel Library" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="tsv" outformat="prn" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="نحوه تبدیل TABDELIMITED به PRN از طریق Python" %}}
 

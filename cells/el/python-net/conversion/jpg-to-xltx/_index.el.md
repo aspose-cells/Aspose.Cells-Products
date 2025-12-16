@@ -1,7 +1,7 @@
 ---
 title: Python JPG σε XLTX - JPG σε XLTX Μετατροπέας
-description: Aspose Excel. Python Excel. Μετατρέψτε το JPG σε XLTX γρήγορα και εύκολα με το Aspose.Cells. Python JPG σε XLTX. Python Αποθήκευση JPG σε XLTX. Αποθηκεύστε το JPG ως 0761831481.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert JPG to XLTX in Python Excel Library., Save JPG to XLTX using Python Excel Library., Python JPG to XLTX saveformat., JPG to XLTX Converter., Python Save JPG as XLTX]
+description: Aspose Excel. Αυτή η ολοκληρωμένη λύση παρέχει στους προγραμματιστές Python μια πλήρως ενσωματωμένη προσέγγιση για τη μετατροπή JPG σε μορφή XLTX, επιτρέποντας την απρόσκοπτη αποθήκευση δεδομένων JPG σε μορφή XLTX χρησιμοποιώντας τη βιβλιοθήκη Aspose.Cells, μέσω αποτελεσματικού και προσαρμόσιμου κώδικα Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart JPG files to XLTX Converter for Python., Convert JPG to XLTX in Python., JPG files to XLTX Conversion in Python., Leverage intelligent data processing to automatically parse and save JPG into XLTX format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Μετατροπή JPG σε XLTX στο Python Excel Library" h2="Βιβλιοθήκη excel υψηλής ταχύτητας Python για μετατροπή JPG σε XLTX. Χρησιμοποιήστε τη μετατροπή excel API για να αναπτύξετε λογισμικό υψηλού επιπέδου, ανεξάρτητο από πλατφόρμα στο Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLTX" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -28,7 +28,7 @@ keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert J
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Δείγμα κώδικα για μετατροπή JPG σε XLTX μέσω Python Excel Library" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="jpg" outformat="xltx" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Δείγμα κώδικα για μετατροπή JPG σε XLTX μέσω Python Excel Library" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="jpg" outformat="xltx" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="Πώς να μετατρέψετε το JPG σε XLTX" %}}
 
@@ -83,7 +83,7 @@ Aspose.Cells for Python μέσω NET είναι ανεξάρτητο από πλ
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/jpg-to-emf/" name="JPG ΣΤΟ EMF" description="Βελτιωμένη μορφή μετα-αρχείου" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/jpg-to-gif/" name="JPG ΣΤΟ GIF" description="Μορφή γραφικής ανταλλαγής" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/jpg-to-html/" name="JPG ΣΤΟ HTML" description="Γλώσσα σήμανσης υπερκειμένου" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/jpg-to-md/" name="JPG TO MD" description="Γλώσσα Markdown" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/jpg-to-md/" name="JPG ΣΕ MD" description="Γλώσσα Markdown" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/jpg-to-mhtml/" name="JPG ΣΤΟ MHTML" description="Μορφή αρχείου ιστοσελίδας" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/jpg-to-ods/" name="JPG ΣΤΟ ODS" description="Αρχείο Υπολογιστικού Φύλλου OpenDocument" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/jpg-to-pdf/" name="JPG ΣΤΟ PDF" description="Μορφή φορητού εγγράφου" >}}

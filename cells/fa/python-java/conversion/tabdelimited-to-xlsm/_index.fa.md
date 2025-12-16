@@ -1,7 +1,7 @@
 ---
 title: Python TABDELIMITED به XLSM - TABDELIMITED به XLSM تبدیل
-description: Aspose اکسل. Python اکسل. تبدیل TABDELIMITED به XLSM به سرعت و به آسانی با Aspose.Cells. Python TABDELIMITED به XLSM. Python ذخیره TABDELIMITED به XLSM1 با استفاده از TABDELIMID به عنوان TAB34816 کتابخانه اکسل 3481.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert TABDELIMITED to XLSM in Python Excel Library., Save TABDELIMITED to XLSM using Python Excel Library., Python TABDELIMITED to XLSM saveformat., TABDELIMITED to XLSM Converter., Python Save TABDELIMITED as XLSM]
+description: Aspose اکسل. این راهکار جامع، رویکردی کاملاً یکپارچه برای تبدیل فرمت TABDELIMITED به فرمت XLSM در اختیار توسعه‌دهندگان Python قرار می‌دهد و امکان ذخیره یکپارچه داده‌های TABDELIMITED به فرمت XLSM را با استفاده از کتابخانه Aspose.Cells، از طریق کد کارآمد و قابل تنظیم Python، فراهم می‌کند.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart TABDELIMITED files to XLSM Converter for Python., Convert TABDELIMITED to XLSM in Python., TABDELIMITED files to XLSM Conversion in Python., Leverage intelligent data processing to automatically parse and save TABDELIMITED into XLSM format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="تبدیل TABDELIMITED به XLSM در Python Excel Library" h2="کتابخانه اکسل پرسرعت Python برای تبدیل TABDELIMITED به XLSM. این یک راه حل نرم افزاری حرفه ای برای واردات و صادرات TABDELIMITED، XLSM و بسیاری از فرمت های دیگر با استفاده از Python است." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSM" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -27,7 +27,7 @@ keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert T
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="کد نمونه برای تبدیل TABDELIMITED به XLSM از طریق Python Excel Library" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="tsv" outformat="xlsm" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="کد نمونه برای تبدیل TABDELIMITED به XLSM از طریق Python Excel Library" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="tsv" outformat="xlsm" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="نحوه تبدیل TABDELIMITED به XLSM از طریق Python" %}}
 

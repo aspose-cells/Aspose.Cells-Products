@@ -1,7 +1,7 @@
 ---
 title: إنشاء MHT - قم بإنشاء ملف MHT في Python
-description:  Aspose اكسل. Python اكسل. Python قم بإنشاء ملف MHT بسرعة وسهولة باستخدام Aspose.Cells. قم بإنشاء ملف MHT باستخدام مكتبة Excel Python. إنشاء MHT في مكتبة Excel Python. Python منشئ MHT.
-keywords: [Aspose Python Excel., Python Aspose.Cells., Python Create MHT file., Generate MHT file in Python Excel Library., Create MHT file using Python Excel Library., Write data to MHT file via Python Excel Library., Create a MHT file in Python Excel Library., Python Generate a MHT file., Python MHT Creater]
+description: Aspose إكسل. أنشئ ملفات MHT وتعامل معها بسهولة تامة باستخدام مكتبة Aspose.Cells for Python via .NET. توفر هذه المكتبة القوية API حلاً مبسطاً وفعالاً لإنشاء ملفات MHT وتعديلها وإدارتها مباشرةً ضمن تطبيقاتك Python، مما يلبي احتياجات المطورين بدقة عالية.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Create MHT file., Generate MHT file in Python., Write data to MHT file via Python., Python MHT Creater., Aspose.Cells for Python via .NET is a powerful library that enables developers to programmatically create, generate, and manipulate MHT files in Python]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="إنشاء ملف MHT في مكتبة Excel Python" h2="مكتبة Excel Python عالية السرعة لإنشاء ملف MHT. استخدم تحويل Excel API لتطوير برامج مستقلة عالية المستوى للنظام الأساسي في Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="MHT" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}

@@ -1,7 +1,7 @@
 ---
 title: Python MHT a SQL - Convertidor MHT a SQL
-description: Aspose Excel. Python Excel. Convierta MHT a SQL rápida y fácilmente con Aspose.Cells. Python MHT a SQL. Python Guarde MHT en SQL. Guarde MHT como SQL usando la biblioteca de Excel Python.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert MHT to SQL in Python Excel Library., Save MHT to SQL using Python Excel Library., Python MHT to SQL saveformat., MHT to SQL Converter., Python Save MHT as SQL]
+description: Aspose Excel. Esta solución integral proporciona a los desarrolladores de Python un enfoque totalmente integrado para convertir MHT a formato SQL, lo que permite guardar datos MHT en formato SQL sin problemas mediante la biblioteca Aspose.Cells, todo mediante código Python eficiente y personalizable.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart MHT files to SQL Converter for Python., Convert MHT to SQL in Python., MHT files to SQL Conversion in Python., Leverage intelligent data processing to automatically parse and save MHT into SQL format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Convierta MHT a SQL en la biblioteca de Excel Python" h2="Biblioteca Excel Python de alta velocidad para convertir MHT a SQL. Utilice nuestra conversión de Excel API para desarrollar software independiente de plataforma de alto nivel en Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="SQL" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -28,7 +28,7 @@ Siga los sencillos pasos para convertir MHT a SQL. Cargue su archivo MHT y luego
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Código de muestra para convertir MHT a SQL a través de la biblioteca de Excel Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="mht" outformat="sql" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Código de muestra para convertir MHT a SQL a través de la biblioteca de Excel Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="mht" outformat="sql" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="Cómo convertir MHT a SQL" %}}
 

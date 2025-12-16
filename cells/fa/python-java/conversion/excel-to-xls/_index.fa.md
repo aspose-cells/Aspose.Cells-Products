@@ -1,7 +1,7 @@
 ---
 title: Python EXCEL به XLS - تبدیل EXCEL به XLS
-description: Aspose اکسل. Python اکسل. تبدیل EXCEL به XLS به سرعت و به راحتی با Aspose.Cells. Python EXCEL به XLS. Python ذخیره EXCEL به XLS. ذخیره EXCEL با استفاده از EXCEL 374718.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert EXCEL to XLS in Python Excel Library., Save EXCEL to XLS using Python Excel Library., Python EXCEL to XLS saveformat., EXCEL to XLS Converter., Python Save EXCEL as XLS]
+description: Aspose اکسل. این راهکار جامع، رویکردی کاملاً یکپارچه برای تبدیل فرمت اکسل به فرمت XLS در اختیار توسعه‌دهندگان Python قرار می‌دهد و امکان ذخیره یکپارچه داده‌های اکسل به فرمت XLS را با استفاده از کتابخانه Aspose.Cells، از طریق کد کارآمد و قابل تنظیم Python، فراهم می‌کند.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart EXCEL files to XLS Converter for Python., Convert EXCEL to XLS in Python., EXCEL files to XLS Conversion in Python., Leverage intelligent data processing to automatically parse and save EXCEL into XLS format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="تبدیل EXCEL به XLS در Python Excel Library" h2="کتابخانه اکسل پرسرعت Python برای تبدیل EXCEL به XLS. این یک راه حل نرم افزاری حرفه ای برای واردات و صادرات EXCEL، XLS و بسیاری از فرمت های دیگر با استفاده از Python است." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLS" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -27,7 +27,7 @@ keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert E
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="نمونه کد برای تبدیل EXCEL به XLS از طریق Python Excel Library" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsx" outformat="xls" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="نمونه کد برای تبدیل EXCEL به XLS از طریق Python Excel Library" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="xlsx" outformat="xls" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="نحوه تبدیل اکسل به XLS از طریق Python" %}}
 
@@ -85,7 +85,7 @@ Aspose.Cells for Python via Java مستقل از پلتفرم API است و می
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/excel-to-emf/" name="اکسل به EMF" description="فرمت متافایل پیشرفته" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/excel-to-gif/" name="اکسل به GIF" description="فرمت تبادل گرافیکی" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/excel-to-html/" name="اکسل به HTML" description="زبان نشانه گذاری فرا متنی" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/excel-to-md/" name="EXCEL TO MD" description="زبان مارک داون" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/excel-to-md/" name="اکسل به MD" description="زبان مارک داون" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/excel-to-mhtml/" name="اکسل به MHTML" description="فرمت آرشیو صفحه وب" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/excel-to-ods/" name="اکسل به ODS" description="فایل صفحه گسترده OpenDocument" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/excel-to-pdf/" name="اکسل به PDF" description="فرمت سند قابل حمل" >}}

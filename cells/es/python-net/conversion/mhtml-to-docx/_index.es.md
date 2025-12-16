@@ -1,7 +1,7 @@
 ---
 title: Python MHTML a DOCX - MHTML a DOCX Convertidor
-description: Aspose Excel. Python Excel. Convierta MHTML a DOCX rápida y fácilmente con Aspose.Cells. Python MHTML a DOCX. Python Guarde MHTML en DOCX. Guarde MHTML como 076112 3481 usando la biblioteca Excel Python.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert MHTML to DOCX in Python Excel Library., Save MHTML to DOCX using Python Excel Library., Python MHTML to DOCX saveformat., MHTML to DOCX Converter., Python Save MHTML as DOCX]
+description: Aspose Excel. Esta solución integral ofrece a los desarrolladores de Excel Python un enfoque totalmente integrado para convertir el formato MHTML al DOCX, lo que permite guardar sin problemas los datos de Excel MHTML al formato DOCX mediante la biblioteca Aspose.Cells, todo mediante código Python eficiente y personalizable.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart MHTML files to DOCX Converter for Python., Convert MHTML to DOCX in Python., MHTML files to DOCX Conversion in Python., Leverage intelligent data processing to automatically parse and save MHTML into DOCX format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Convierta MHTML a DOCX en la biblioteca de Excel Python" h2="Biblioteca de Excel Python de alta velocidad para convertir MHTML a DOCX. Utilice nuestra conversión de Excel API para desarrollar software independiente de plataforma de alto nivel en Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="DOCX" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -28,7 +28,7 @@ Siga los sencillos pasos para convertir MHTML a DOCX. Cargue su archivo MHTML y 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Código de muestra para convertir MHTML a DOCX a través de la biblioteca de Excel Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="mhtml" outformat="docx" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Código de muestra para convertir MHTML a DOCX a través de la biblioteca de Excel Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="mhtml" outformat="docx" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="Cómo convertir MHTML a DOCX" %}}
 

@@ -1,7 +1,7 @@
 ---
 title: Python XLSM الى DIF - XLSM الى DIF محول
-description: Aspose اكسل. Python اكسل. قم بتحويل XLSM إلى DIF بسرعة وسهولة باستخدام Aspose.Cells. Python XLSM إلى DIF. Python احفظ XLSM إلى DIF. احفظ XLSM كـ 076112 3481 باستخدام مكتبة إكسل Python.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert XLSM to DIF in Python Excel Library., Save XLSM to DIF using Python Excel Library., Python XLSM to DIF saveformat., XLSM to DIF Converter., Python Save XLSM as DIF]
+description: Aspose Excel. يوفر هذا الحل الشامل للمطورين Python نهجًا متكاملًا تمامًا لتحويل XLSM إلى تنسيق DIF، مما يتيح حفظ البيانات بسلاسة في تنسيق DIF باستخدام مكتبة Aspose.Cells، كل ذلك من خلال كود Python فعال وقابل للتخصيص.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart XLSM files to DIF Converter for Python., Convert XLSM to DIF in Python., XLSM files to DIF Conversion in Python., Leverage intelligent data processing to automatically parse and save XLSM into DIF format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="تحويل XLSM إلى DIF في Python مكتبة إكسل" h2="مكتبة إكسل Python عالية السرعة لتحويل XLSM إلى DIF. هذا حل برمجي احترافي لاستيراد وتصدير XLSM، DIF، والعديد من التنسيقات الأخرى باستخدام Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="DIF" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -27,7 +27,7 @@ keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert X
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="نموذج التعليمات البرمجية لتحويل XLSM إلى DIF عبر مكتبة Excel Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsm" outformat="dif" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="نموذج التعليمات البرمجية لتحويل XLSM إلى DIF عبر مكتبة Excel Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="xlsm" outformat="dif" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="كيفية تحويل XLSM إلى DIF عبر Python" %}}
 

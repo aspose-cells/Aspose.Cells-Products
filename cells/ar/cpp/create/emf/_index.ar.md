@@ -1,7 +1,7 @@
 ---
 title: إنشاء EMF - إنشاء ملف EMF في C++
-description: Aspose اكسل. C++ أنشئ ملف EMF بسرعة وسهولة باستخدام Aspose.Cells. أنشئ ملف EMF باستخدام C++. أنشئ EMF في C++. C++ EMF Creator.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ Create EMF file., Generate EMF file in C++., Create EMF file using C++., Write data to EMF file via C++., Create a EMF file in C++., C++ Generate a EMF file., C++ EMF Creater]
+description: Aspose Excel. أنشئ ملفات EMF وتعامل معها بسهولة باستخدام مكتبة Aspose.Cells for C++. توفر هذه المكتبة القوية API حلاً مبسطًا وفعالًا لإنشاء ملفات EMF وتعديلها وإدارتها مباشرةً ضمن تطبيقاتك C++، مما يلبي احتياجات المطورين بدقة عالية.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ Create EMF file., Generate EMF file in C++., Write data to EMF file via C++., C++ EMF Creater., Aspose.Cells for C++ is a powerful library that enables developers to programmatically create, generate, and manipulate EMF files in C++]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="قم بإنشاء ملف EMF في C++" h2="إنشاء ملف EMF أصلي وعالي الأداء برمجيًا بدون Micorsoft Office باستخدام مكتبة C++." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" sourceAdditionalConversionTag="" additionalConversionTag="EMF" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -11,7 +11,7 @@ keywords: [Aspose Excel., C++ Aspose.Cells., C++ Create EMF file., Generate EMF 
 
 {{% blocks/products/pf/agp/content h2="إنشاء ملف EMF باستخدام C++" %}}
 
- كيفية إنشاء ملف EMF؟ باستخدام مكتبة Aspose.Cells for C++، يمكنك بسهولة إنشاء ملف EMF برمجيًا باستخدام بضعة أسطر من التعليمات البرمجية.[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) قادر على إنشاء تطبيقات مشتركة بين الأنظمة الأساسية مع القدرة على إنشاء جميع ملفات Excel وتعديلها وتحويلها وعرضها وطباعتها. C++ Excel API لا يقوم فقط بالتحويل بين تنسيقات جداول البيانات، بل يمكنه أيضًا عرض ملفات Excel كصور، وPDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT والمزيد، مما يجعله خيارًا مثاليًا لتبادل المستندات بتنسيقات متوافقة مع معايير الصناعة. يمكنك تنزيل أحدث إصدار له مباشرة، فقط قم بفتحه[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) مدير الحزم، ابحث عن Aspose.Cells.Cpp وقم بتثبيته. يمكنك أيضًا استخدام الأمر التالي من وحدة تحكم إدارة الحزم.
+ كيفية إنشاء ملف EMF؟ باستخدام مكتبة Aspose.Cells for C++، يمكنك بسهولة إنشاء ملف EMF برمجيًا باستخدام بضعة أسطر من التعليمات البرمجية.[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) قادر على إنشاء تطبيقات مشتركة بين الأنظمة الأساسية مع القدرة على إنشاء جميع ملفات Excel وتعديلها وتحويلها وعرضها وطباعتها. C++ Excel API لا يقوم فقط بالتحويل بين تنسيقات جداول البيانات، بل يمكنه أيضًا عرض ملفات Excel كصور، وPDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT والمزيد، مما يجعله خيارًا مثاليًا لتبادل المستندات بتنسيقات متوافقة مع معايير الصناعة. يمكنك تنزيل أحدث إصدار له مباشرة، فقط قم بفتحه[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/)مدير الحزم، ابحث عن Aspose.Cells.Cpp وقم بتثبيته. يمكنك أيضًا استخدام الأمر التالي من وحدة تحكم إدارة الحزم.
 
 {{% blocks/products/pf/agp/code-block title="يأمر" offSpacer="true" %}}
 
@@ -37,14 +37,15 @@ PM> Install-Package Aspose.Cells.Cpp
 1.  إنشاء كائن من فئة المصنف.
 1.  احصل على الورقة الأولى في كائن ورقة العمل.
 1.  استخدم أسلوب Worksheet.GetCells() لتحويل خلايا ورقة العمل إلى كائن Cells.
-1. استخدم طريقة Cells.Get() للوصول إلى الخلية المطلوبة في ورقة العمل وتحويلها إلى كائن Cell.
+1.  استخدم طريقة Cells.Get() للوصول إلى الخلية المطلوبة في ورقة العمل وتحويلها إلى كائن Cell.
 1.  استخدم طريقة Cell.PutValue() لإدخال القيمة في الخلية.
-1. احفظ المصنف كملف .emf باستخدام طريقة Save().
+1.  احفظ المصنف كملف بامتداد .emf باستخدام دالة Save().
 
 {{% blocks/products/pf/agp/code-block title="يوضح نموذج التعليمات البرمجية كيفية إنشاء ملف EMF في C++." offSpacer="" %}}
 
 ```cs
 Aspose::Cells::Startup();
+//TIFF format is not supported
 
 // Create an object of the Workbook class.
 Workbook wkb;

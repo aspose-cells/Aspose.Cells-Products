@@ -1,7 +1,7 @@
 ---
 title: Python OTS a ETT - Convertidor OTS a ETT
-description: Aspose Excel. Python Excel. Convierta OTS a ETT rápida y fácilmente con Aspose.Cells. Python OTS a ETT. Python Guardar OTS en ETT. Guarde OTS como ETT utilizando la biblioteca de Excel Python.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert OTS to ETT in Python Excel Library., Save OTS to ETT using Python Excel Library., Python OTS to ETT saveformat., OTS to ETT Converter., Python Save OTS as ETT]
+description: Aspose Excel. Esta solución integral proporciona a los desarrolladores de Python un enfoque totalmente integrado para convertir OTS a formato ETT, lo que permite guardar datos OTS en formato ETT sin problemas mediante la biblioteca Aspose.Cells, todo mediante código Python eficiente y personalizable.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart OTS files to ETT Converter for Python., Convert OTS to ETT in Python., OTS files to ETT Conversion in Python., Leverage intelligent data processing to automatically parse and save OTS into ETT format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Convierta OTS a ETT en la biblioteca de Excel Python" h2="Biblioteca Excel Python de alta velocidad para convertir OTS a ETT. Utilice nuestra conversión de Excel API para desarrollar software independiente de plataforma de alto nivel en Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="ETT" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -28,7 +28,7 @@ Siga los sencillos pasos para convertir OTS a ETT. Cargue su archivo OTS y luego
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Código de muestra para convertir OTS a ETT a través de la biblioteca de Excel Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="ots" outformat="ett" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Código de muestra para convertir OTS a ETT a través de la biblioteca de Excel Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="ots" outformat="ett" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="Cómo convertir OTS a ETT" %}}
 

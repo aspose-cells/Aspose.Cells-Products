@@ -1,7 +1,7 @@
 ---
 title: تحويل Python HTM إلى HTML - تحويل HTM إلى HTML
-description: Aspose اكسل. Python اكسل. قم بتحويل HTM إلى HTML بسرعة وسهولة باستخدام Aspose.Cells. Python HTM إلى HTML. Python احفظ HTM إلى HTML. احفظ HTM كـ HTML باستخدام مكتبة Excel Python.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert HTM to HTML in Python Excel Library., Save HTM to HTML using Python Excel Library., Python HTM to HTML saveformat., HTM to HTML Converter., Python Save HTM as HTML]
+description: Aspose إكسل. يوفر هذا الحل الشامل للمطورين Python نهجًا متكاملًا تمامًا لتحويل HTM إلى تنسيق HTML، مما يتيح حفظ بيانات HTM بسلاسة في تنسيق HTML باستخدام مكتبة Aspose.Cells، كل ذلك من خلال كود Python فعال وقابل للتخصيص.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart HTM files to HTML Converter for Python., Convert HTM to HTML in Python., HTM files to HTML Conversion in Python., Leverage intelligent data processing to automatically parse and save HTM into HTML format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="تحويل HTM إلى HTML في مكتبة Excel Python" h2="مكتبة Excel Python عالية السرعة لتحويل HTM إلى HTML. هذا حل برمجي احترافي لاستيراد وتصدير HTM وHTML والعديد من التنسيقات الأخرى باستخدام Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="HTML" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -27,7 +27,7 @@ keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert H
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="نموذج التعليمات البرمجية لتحويل HTM إلى HTML عبر مكتبة Excel Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="htm" outformat="html" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="نموذج التعليمات البرمجية لتحويل HTM إلى HTML عبر مكتبة Excel Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="htm" outformat="html" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="كيفية تحويل HTM إلى HTML عبر Python" %}}
 

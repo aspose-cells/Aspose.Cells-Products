@@ -1,7 +1,7 @@
 ---
 title: ایجاد NUMBERS - فایل NUMBERS را در Python ایجاد کنید
-description:  Aspose اکسل. Python اکسل. Python فایل NUMBERS را به سرعت و به راحتی با Aspose.Cells ایجاد کنید. با استفاده از کتابخانه اکسل Python فایل NUMBERS ایجاد کنید. NUMBERS را در کتابخانه اکسل Python ایجاد کنید. Python NUMBERS Creater.
-keywords: [Aspose Python Excel., Python Aspose.Cells., Python Create NUMBERS file., Generate NUMBERS file in Python Excel Library., Create NUMBERS file using Python Excel Library., Write data to NUMBERS file via Python Excel Library., Create a NUMBERS file in Python Excel Library., Python Generate a NUMBERS file., Python NUMBERS Creater]
+description: Aspose اکسل. با استفاده از کتابخانه Aspose.Cells for Python via .NET به راحتی فایل‌های NUMBERS را تولید و دستکاری کنید. این کتابخانه قدرتمند API یک راهکار ساده و کارآمد برای ایجاد، ویرایش و مدیریت فایل‌های NUMBERS به طور مستقیم در برنامه‌های Python شما ارائه می‌دهد و نیازهای خاص توسعه‌دهندگان را با دقت بالا برآورده می‌کند.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Create NUMBERS file., Generate NUMBERS file in Python., Write data to NUMBERS file via Python., Python NUMBERS Creater., Aspose.Cells for Python via .NET is a powerful library that enables developers to programmatically create, generate, and manipulate NUMBERS files in Python]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="فایل NUMBERS را در کتابخانه اکسل Python ایجاد کنید" h2="کتابخانه اکسل پرسرعت Python برای ایجاد فایل NUMBERS. از تبدیل اکسل API ما برای توسعه نرم افزار سطح بالا و مستقل از پلت فرم در Python استفاده کنید." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="NUMBERS" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}

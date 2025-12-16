@@ -1,7 +1,7 @@
 ---
 title: Python OTS به TABDELIMITED - تبدیل OTS به TABDELIMITED
-description: Aspose اکسل. Python اکسل. تبدیل OTS به TABDELIMITED به سرعت و به راحتی با Aspose.Cells. Python OTS به TABDELIMITED. Python ذخیره OTS در TABDELIMITED. OTS را با استفاده از Python Excel Library به صورت TABDELIMITED ذخیره کنید.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert OTS to TABDELIMITED in Python Excel Library., Save OTS to TABDELIMITED using Python Excel Library., Python OTS to TABDELIMITED saveformat., OTS to TABDELIMITED Converter., Python Save OTS as TABDELIMITED]
+description: Aspose اکسل. این راهکار جامع، رویکردی کاملاً یکپارچه برای تبدیل OTS به فرمت TABDELIMITED در اختیار توسعه‌دهندگان Python قرار می‌دهد و امکان ذخیره یکپارچه داده‌های OTS در فرمت TABDELIMITED را با استفاده از کتابخانه Aspose.Cells، از طریق کد کارآمد و قابل تنظیم Python، فراهم می‌کند.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart OTS files to TABDELIMITED Converter for Python., Convert OTS to TABDELIMITED in Python., OTS files to TABDELIMITED Conversion in Python., Leverage intelligent data processing to automatically parse and save OTS into TABDELIMITED format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="OTS را در کتابخانه اکسل Python به TABDELIMITED تبدیل کنید" h2="کتابخانه اکسل پرسرعت Python برای تبدیل OTS به TABDELIMITED. این یک راه حل نرم افزاری حرفه ای برای واردات و صادرات OTS، TABDELIMITED و بسیاری از فرمت های دیگر با استفاده از Python است." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="TABDELIMITED" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -27,7 +27,7 @@ keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert O
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="کد نمونه برای تبدیل OTS به TABDELIMITED از طریق Python Excel Library" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="ots" outformat="tsv" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="کد نمونه برای تبدیل OTS به TABDELIMITED از طریق Python Excel Library" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="ots" outformat="tsv" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="نحوه تبدیل OTS به TABDELIMITED از طریق Python" %}}
 

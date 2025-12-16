@@ -1,7 +1,7 @@
 ---
 title: Python XLTM الى JPEG - XLTM الى JPEG محول
-description: Aspose اكسل. Python اكسل. قم بتحويل XLTM إلى JPEG بسرعة وسهولة باستخدام Aspose.Cells. Python XLTM إلى JPEG. Python احفظ XLTM إلى JPEG. احفظ XLTM كـ 076112 3481 باستخدام مكتبة إكسل Python.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert XLTM to JPEG in Python Excel Library., Save XLTM to JPEG using Python Excel Library., Python XLTM to JPEG saveformat., XLTM to JPEG Converter., Python Save XLTM as JPEG]
+description: Aspose Excel. يوفر هذا الحل الشامل للمطورين Python نهجًا متكاملًا تمامًا لتحويل XLTM إلى تنسيق JPEG، مما يتيح حفظ البيانات بسلاسة في تنسيق JPEG باستخدام مكتبة Aspose.Cells، كل ذلك من خلال كود Python فعال وقابل للتخصيص.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart XLTM files to JPEG Converter for Python., Convert XLTM to JPEG in Python., XLTM files to JPEG Conversion in Python., Leverage intelligent data processing to automatically parse and save XLTM into JPEG format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="تحويل XLTM إلى JPEG في Python مكتبة إكسل" h2="مكتبة إكسل Python عالية السرعة لتحويل XLTM إلى JPEG. هذا حل برمجي احترافي لاستيراد وتصدير XLTM، JPEG، والعديد من التنسيقات الأخرى باستخدام Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="JPEG" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -27,7 +27,7 @@ keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert X
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="نموذج التعليمات البرمجية لتحويل XLTM إلى JPEG عبر مكتبة Excel Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xltm" outformat="jpg" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="نموذج التعليمات البرمجية لتحويل XLTM إلى JPEG عبر مكتبة Excel Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="xltm" outformat="jpg" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="كيفية تحويل XLTM إلى JPEG عبر Python" %}}
 

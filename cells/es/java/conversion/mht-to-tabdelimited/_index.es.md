@@ -1,7 +1,7 @@
 ---
 title: Java MHT a TABDELIMITED - Convertidor MHT a TABDELIMITED
-description: Aspose Excel. Convierta MHT a TABDELIMITED rápida y fácilmente con Aspose.Cells. Java MHT a TABDELIMITED. Java Guarde MHT en TABDELIMITED. Guarde MHT como TABDELIMITED usando Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Convert MHT to TABDELIMITED in Java., Save MHT to TABDELIMITED using Java., Java MHT to TABDELIMITED saveformat., MHT to TABDELIMITED Converter., Java Save MHT as TABDELIMITED]
+description: Aspose Excel. Esta solución integral proporciona a los desarrolladores de Java un enfoque totalmente integrado para convertir MHT a formato TABDELIMITED, lo que permite guardar datos MHT en formato TABDELIMITED sin problemas mediante la biblioteca Aspose.Cells, todo mediante código Java eficiente y personalizable.
+keywords: [Aspose Excel., Java Aspose.Cells., Smart MHT files to TABDELIMITED Converter for Java., Convert MHT to TABDELIMITED in Java., MHT files to TABDELIMITED Conversion in Java., Leverage intelligent data processing to automatically parse and save MHT into TABDELIMITED format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Convertir MHT a TABDELIMITED en Java" h2="Biblioteca Java de alta velocidad para convertir MHT a TABDELIMITED. Esta es una solución de software profesional para importar y exportar MHT, TABDELIMITED y muchos otros formatos utilizando Java." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="TABDELIMITED" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="CSV" >}}
@@ -45,7 +45,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Convert MHT to TABDELIMITED in Jav
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Guarde MHT en TABDELIMITED en Java" %}}
+{{% blocks/products/pf/agp/content h2="Guardar MHT en TABDELIMITED en Java" %}}
 
 El siguiente ejemplo demuestra cómo convertir MHT a TABDELIMITED en Java.
 {{% blocks/products/pf/agp/text %}}
@@ -56,17 +56,17 @@ Siga los sencillos pasos para convertir MHT a TABDELIMITED. Cargue su archivo MH
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Código de muestra para convertir MHT a TABDELIMITED" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="mht" outformat="tsv" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Código de ejemplo para convertir MHT a TABDELIMITED" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="mht" outformat="tsv" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="Cómo convertir MHT a TABDELIMITED via Java" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
-¿Necesita convertir archivos MHT a TABDELIMITED mediante programación? Los desarrolladores de Java pueden convertir fácilmente MHT a TABDELIMITED en solo unas pocas líneas de código.
+¿Necesitas convertir archivos MHT a TABDELIMITED mediante programación? Los desarrolladores de Java pueden convertir fácilmente MHT a TABDELIMITED con solo unas pocas líneas de código.
 
 {{% /blocks/products/pf/agp/text %}}
 
-1.  Instale 'Aspose.Cells for Java'.
+1.  Instalar 'Aspose.Cells for Java'.
 1.  Agregue una referencia de biblioteca (importe la biblioteca) a su proyecto Java.
 1.  Cargue el archivo MHT con una instancia de la clase Workbook.
 1.  Convierta MHT a TABDELIMITED llamando al método Workbook.save.
@@ -74,7 +74,7 @@ Siga los sencillos pasos para convertir MHT a TABDELIMITED. Cargue su archivo MH
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Biblioteca Java para convertir MHT a TABDELIMITED" %}}
+{{% blocks/products/pf/agp/content h2="Java biblioteca para convertir MHT a TABDELIMITED" %}}
 {{% blocks/products/pf/agp/text %}}
 
  Alojamos nuestros paquetes Java en[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) repositorios. 'Aspose.Cells for Java' es un archivo JAR común que contiene código de bytes. Por favor sigue el[instrucciones paso a paso](https://docs.aspose.com/cells/java/installation/) sobre cómo instalarlo en su entorno de desarrollador Java.

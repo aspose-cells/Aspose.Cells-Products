@@ -1,7 +1,7 @@
 ---
 title: إنشاء SQL - إنشاء ملف SQL في Python
-description: Aspose اكسل. Python اكسل. Python قم بإنشاء ملف SQL بسرعة وسهولة باستخدام Aspose.Cells. قم بإنشاء ملف SQL باستخدام مكتبة Excel Python. إنشاء SQL في مكتبة Excel Python. Python منشئ SQL.
-keywords: [Aspose Python Excel., Python Aspose.Cells., Python Create SQL file., Generate SQL file in Python Excel Library., Create SQL file using Python Excel Library., Write data to SQL file via Python Excel Library., Create a SQL file in Python Excel Library., Python Generate a SQL file., Python SQL Creater]
+description: Aspose Excel. أنشئ ملفات SQL وتعامل معها بسهولة تامة باستخدام مكتبة Aspose.Cells for Python via Java. توفر هذه المكتبة القوية API حلاً مبسطًا وفعالًا لإنشاء ملفات SQL وتعديلها وإدارتها مباشرةً ضمن تطبيقاتك Python، مما يلبي احتياجات المطورين بدقة عالية.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Create SQL file., Generate SQL file in Python., Write data to SQL file via Python., Python SQL Creater., Aspose.Cells for Python via Java is a powerful library that enables developers to programmatically create, generate, and manipulate SQL files in Python]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="إنشاء ملف SQL في مكتبة Excel Python" h2="مكتبة Excel Python عالية السرعة لإنشاء ملف SQL. هذا حل برمجي احترافي لاستيراد وتصدير XLSX وPDF والعديد من التنسيقات الأخرى باستخدام Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="SQL" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}

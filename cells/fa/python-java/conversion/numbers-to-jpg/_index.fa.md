@@ -1,7 +1,7 @@
 ---
 title: Python NUMBERS به JPG - تبدیل NUMBERS به JPG
-description: Aspose اکسل. Python اکسل. تبدیل NUMBERS به JPG سریع و آسان با Aspose.Cells. Python NUMBERS به JPG. Python NUMBERS را در JPG ذخیره کنید. NUMBERS را با استفاده از Python Excel Library ذخیره کنید.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert NUMBERS to JPG in Python Excel Library., Save NUMBERS to JPG using Python Excel Library., Python NUMBERS to JPG saveformat., NUMBERS to JPG Converter., Python Save NUMBERS as JPG]
+description: Aspose اکسل. این راهکار جامع، رویکردی کاملاً یکپارچه برای تبدیل فرمت NUMBERS به JPG در اختیار توسعه‌دهندگان Python قرار می‌دهد و امکان ذخیره یکپارچه داده‌های NUMBERS به فرمت JPG را با استفاده از کتابخانه Aspose.Cells، از طریق کد کارآمد و قابل تنظیم Python، فراهم می‌کند.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart NUMBERS files to JPG Converter for Python., Convert NUMBERS to JPG in Python., NUMBERS files to JPG Conversion in Python., Leverage intelligent data processing to automatically parse and save NUMBERS into JPG format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="NUMBERS را در کتابخانه اکسل Python به JPG تبدیل کنید" h2="کتابخانه اکسل پرسرعت Python برای تبدیل NUMBERS به JPG. این یک راه حل نرم افزاری حرفه ای برای وارد کردن و صادرات NUMBERS، JPG و بسیاری از فرمت های دیگر با استفاده از Python است." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="JPG" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -27,7 +27,7 @@ keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert N
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="نمونه کد برای تبدیل NUMBERS به JPG از طریق Python Excel Library" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="numbers" outformat="jpg" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="نمونه کد برای تبدیل NUMBERS به JPG از طریق Python Excel Library" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="numbers" outformat="jpg" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="نحوه تبدیل NUMBERS به JPG از طریق Python" %}}
 

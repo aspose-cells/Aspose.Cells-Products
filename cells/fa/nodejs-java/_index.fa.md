@@ -1,10 +1,10 @@
 ---
-title:  API های Node.js برای صفحات گسترده اکسل - Aspose
+title:  API های Node.js via Java برای صفحات گسترده اکسل - Aspose
 weight: 3120
-description: فرمت های فایل اکسل را از طریق کتابخانه Node.js پردازش کنید. رندر نوشتن را بخوانید و تبدیل کنید XLS XLSX XLSB XLTX XLTM XLSM XML ODS CSV و فرمت‌های ma34c6 و ma34c1 و بیشتر از طریق Node.
+description: پردازش فرمت‌های فایل‌های اکسل با استفاده از کتابخانه Node.js via Java. خواندن، نوشتن، رندر و تبدیل XLS XLSX XLSB XLTX XLTM XLSM XML ODS CSV و فرمت‌های بیشتر با استفاده از Node.js via Java روی Windows، macOS و لینوکس.
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="Node.js APIهای فرمت فایل اکسل" h2="صفحات گسترده اکسل را با استفاده از Node.js بدون نیاز به Microsoft اکسل تولید، اصلاح، تبدیل و رندر کنید." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/headers/aspose_cells-for-nodejs-java.svg" pfName="Aspose.Cells" subTitlepfName="for Node.js via Java" downloadUrl="https://downloads.aspose.com/cells/nodejs" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="APIهای قالب فایل اکسل Node.js via Java" h2="صفحات گسترده اکسل را با استفاده از Node.js via Java بدون نیاز به اکسل Microsoft تولید، اصلاح، تبدیل و رندر کنید." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/headers/aspose_cells-for-nodejs-java.svg" pfName="Aspose.Cells" subTitlepfName="for Node.js via Java" downloadUrl="https://downloads.aspose.com/cells/nodejs" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells" subTitlepfName="for Node.js via Java" >}}
 
@@ -12,7 +12,7 @@ description: فرمت های فایل اکسل را از طریق کتابخان
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
-Aspose.Cells for Node.js via Java یک API غنی و مقیاس پذیر برای پردازش صفحات گسترده اکسل با استفاده از Node.js است. API تبدیل فرمت فایل اکسل، شکل‌دهی کاربرگ‌ها به ریزترین سطح، ایجاد نمودار و تقویت رندر، موتور محاسبه فرمول قابل اعتماد و موارد دیگر.
+ Aspose.Cells for Node.js via Java یک API با ویژگی‌های غنی و مقیاس‌پذیر برای پردازش صفحات گسترده اکسل با استفاده از Node.js via Java است. API تبدیل فرمت فایل اکسل، استایل‌دهی به صفحات کار تا جزئی‌ترین سطح، ایجاد و رندر نمودار، موتور محاسبه فرمول قابل اعتماد و موارد دیگر را ارائه می‌دهد.
 </p>
 
 <p>
@@ -271,7 +271,7 @@ Aspose.Cells for Node.js via Java یک API غنی و مقیاس پذیر برا�
  <div class="row">
   <div class="container">
    <h2 class="pr-ft">
- ویژگی های پیشرفته Node.js Excel Spreadsheet API
+ Node.js پیشرفته via Java صفحه گسترده اکسل API ویژگی‌ها
    </h2>
    <p>
    </p>
@@ -343,7 +343,7 @@ Aspose.Cells for Node.js via Java یک API غنی و مقیاس پذیر برا�
  ارائه صفحات گسترده اکسل
     </h2>
     <p>
-Aspose.Cells for Node.js via Java از موتور رندر خود برای رندر به اکسل Microsoft با بالاترین وفاداری استفاده می کند. در حین استفاده از کتابخانه Node.js Excel Processing، می‌توان کل برگه‌ها، فایل‌ها یا نمودارها را به چندین تصویر و فرمت‌های طرح‌بندی ثابت تبدیل کرد.
+ ‎Aspose.Cells‎ for Node.js‎ via Java از موتور رندر خود برای رندر کردن به اکسل با بالاترین دقت استفاده می‌کند. هنگام استفاده از کتابخانه پردازش اکسل Node.js via Java، می‌توان کل صفحات، فایل‌های تکی یا نمودارها را به چندین تصویر و قالب‌های با طرح ثابت تبدیل کرد.
     </p>
    </div>
    <div class="col-lg-12">
@@ -415,7 +415,7 @@ Aspose.Cells for Node.js via Java پشتیبانی کامل از نمودار ر
 
 {{< /blocks/products/pf/i18n/support-learning-resources >}}
 
-{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://downloads.aspose.com/cells/nodejs" pricingInformationLink="https://purchase.aspose.com/pricing/cells/nodejs-java" >}}
+{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://releases.aspose.com/cells/nodejs/" pricingInformationLink="https://purchase.aspose.com/pricing/cells/nodejs-java" >}}
 
 {{< blocks/products/pf/offers-section pfName="Aspose.Cells" description="Aspose.Cells APIهای اکسل جداگانه را برای سایر محیط های توسعه محبوب به شرح زیر ارائه می دهد:" >}}
 

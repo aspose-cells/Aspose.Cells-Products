@@ -1,7 +1,7 @@
 ---
 title: Python PRN به XLTM - تبدیل PRN به XLTM
-description: Aspose اکسل. Python اکسل. تبدیل PRN به XLTM به سرعت و به آسانی با Aspose.Cells. Python PRN به XLTM. Python ذخیره PRN به XLTM. ذخیره PRN به عنوان 0193481381.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert PRN to XLTM in Python Excel Library., Save PRN to XLTM using Python Excel Library., Python PRN to XLTM saveformat., PRN to XLTM Converter., Python Save PRN as XLTM]
+description: Aspose اکسل. این راهکار جامع، رویکردی کاملاً یکپارچه برای تبدیل PRN به فرمت XLTM در اختیار توسعه‌دهندگان Python قرار می‌دهد و امکان ذخیره یکپارچه داده‌های PRN به فرمت XLTM را با استفاده از کتابخانه Aspose.Cells، از طریق کد کارآمد و قابل تنظیم Python، فراهم می‌کند.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart PRN files to XLTM Converter for Python., Convert PRN to XLTM in Python., PRN files to XLTM Conversion in Python., Leverage intelligent data processing to automatically parse and save PRN into XLTM format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="تبدیل PRN به XLTM در Python Excel Library" h2="کتابخانه اکسل پرسرعت Python برای تبدیل PRN به XLTM. این یک راه حل نرم افزاری حرفه ای برای واردات و صادرات PRN، XLTM و بسیاری از فرمت های دیگر با استفاده از Python است." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLTM" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -27,7 +27,7 @@ keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert P
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="کد نمونه برای تبدیل PRN به XLTM از طریق Python Excel Library" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="prn" outformat="xltm" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="کد نمونه برای تبدیل PRN به XLTM از طریق Python Excel Library" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="prn" outformat="xltm" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="نحوه تبدیل PRN به XLTM از طریق Python" %}}
 

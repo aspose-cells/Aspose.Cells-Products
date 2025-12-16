@@ -1,7 +1,7 @@
 ---
 title: Python Převodník MHT na XLTM - MHT na XLTM
-description: Aspose Excel. Python Excel. Převeďte MHT na XLTM rychle a snadno pomocí Aspose.Cells. Python MHT na XLTM. Python Uložte MHT na XLTM. Uložte knihovnu MHT jako XLTM pomocí Excelu 0.6183481
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert MHT to XLTM in Python Excel Library., Save MHT to XLTM using Python Excel Library., Python MHT to XLTM saveformat., MHT to XLTM Converter., Python Save MHT as XLTM]
+description: Aspose Excel. Toto komplexní řešení poskytuje vývojářům Python plně integrovaný přístup k převodu MHT do formátu XLTM, což umožňuje bezproblémové ukládání dat MHT do formátu XLTM pomocí knihovny Aspose.Cells, a to vše prostřednictvím efektivního a přizpůsobitelného kódu Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart MHT files to XLTM Converter for Python., Convert MHT to XLTM in Python., MHT files to XLTM Conversion in Python., Leverage intelligent data processing to automatically parse and save MHT into XLTM format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Převeďte MHT na XLTM v knihovně Excel Python" h2="Vysokorychlostní Python excelová knihovna pro převod MHT na XLTM. Použijte naši excelovou konverzi API k vývoji softwaru na vysoké úrovni, nezávislého na platformě v Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLTM" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -28,7 +28,7 @@ Postupujte podle jednoduchých kroků pro převod MHT na XLTM. Nahrajte svůj so
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Ukázkový kód pro převod MHT na XLTM prostřednictvím knihovny Excel Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="mht" outformat="xltm" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Ukázkový kód pro převod MHT na XLTM prostřednictvím knihovny Excel Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="mht" outformat="xltm" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="Jak převést MHT na XLTM" %}}
 
@@ -82,8 +82,8 @@ Aspose.Cells for Python přes NET je nezávislé na platformě API a lze jej pou
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/mht-to-bmp/" name="MHT TO BMP" description="Bitmapový obrázek" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/mht-to-emf/" name="MHT TO EMF" description="Vylepšený formát metasouborů" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/mht-to-gif/" name="MHT TO GIF" description="Grafický výměnný formát" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/mht-to-html/" name="MHT TO HTML" description="Hyper Text Markup Language" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/mht-to-md/" name="MHT MD" description="Markdown Language" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/mht-to-html/" name="MHT TO HTML" description="Hypertextový značkovací jazyk" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/mht-to-md/" name="MHT MD" description="Jazyk Markdown" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/mht-to-mhtml/" name="MHT TO MHTML" description="Formát archivu webové stránky" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/mht-to-ods/" name="MHT TO ODS" description="Soubor tabulkového procesoru OpenDocument" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/mht-to-pdf/" name="MHT TO PDF" description="Přenosný formát dokumentu" >}}
@@ -99,7 +99,7 @@ Aspose.Cells for Python přes NET je nezávislé na platformě API a lze jej pou
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/mht-to-xlt/" name="MHT TO XLT" description="Microsoft Excel šablona" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/mht-to-xltm/" name="MHT TO XLTM" description="Šablona s podporou maker aplikace Excel" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/mht-to-xltx/" name="MHT TO XLTX" description="Šablona Office OpenXML Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/mht-to-xml/" name="MHT TO XML" description="Rozšiřitelný značkovací jazyk" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/mht-to-xml/" name="MHT do XML" description="Rozšiřitelný značkovací jazyk" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/mht-to-xps/" name="MHT TO XPS" description="Specifikace papíru XML" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/mht-to-json/" name="MHT TO JSON" description="Zápis objektů JavaScript" >}}
 

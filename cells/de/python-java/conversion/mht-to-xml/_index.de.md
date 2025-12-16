@@ -1,7 +1,7 @@
 ---
 title: Python MHT zu XML - MHT zu XML Konverter
-description: Aspose Excel. Python Excel. Konvertieren Sie MHT schnell und einfach in XML mit Aspose.Cells. Python MHT in XML. Python Speichern Sie MHT in XML. Speichern Sie MHT als XML mit Python Excel-Bibliothek.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert MHT to XML in Python Excel Library., Save MHT to XML using Python Excel Library., Python MHT to XML saveformat., MHT to XML Converter., Python Save MHT as XML]
+description: Aspose Excel. Diese umfassende Lösung bietet Entwicklern einen vollständig integrierten Ansatz zur Konvertierung von MHT in das XML-Format und ermöglicht das nahtlose Speichern von MHT-Daten im XML-Format mithilfe der Bibliothek Aspose.Cells – alles durch effizienten und anpassbaren Code Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart MHT files to XML Converter for Python., Convert MHT to XML in Python., MHT files to XML Conversion in Python., Leverage intelligent data processing to automatically parse and save MHT into XML format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Konvertieren Sie MHT in XML in der Python Excel-Bibliothek" h2="Hochgeschwindigkeits-Excel-Bibliothek Python zum Konvertieren von MHT in XML. Dies ist eine professionelle Softwarelösung zum Importieren und Exportieren von MHT, XML und vielen anderen Formaten mit Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="XML" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -27,7 +27,7 @@ Folgen Sie den einfachen Schritten, um MHT in XML zu konvertieren. Laden Sie Ihr
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Beispielcode zur Konvertierung von MHT in XML über die Excel-Bibliothek Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="mht" outformat="xml" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="Beispielcode zur Konvertierung von MHT in XML über die Excel-Bibliothek Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="mht" outformat="xml" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="So konvertieren Sie MHT in XML über Python" %}}
 

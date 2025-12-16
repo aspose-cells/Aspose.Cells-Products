@@ -1,7 +1,7 @@
 ---
 title: Python MHTML به IMAGE - MHTML به IMAGE تبدیل
-description: Aspose اکسل. Python اکسل. MHTML را به سرعت و به راحتی با Aspose.Cells به IMAGE تبدیل کنید. Python MHTML به IMAGE. Python MHTML را در IMAGE ذخیره کنید. MHTML را با استفاده از Python Excel Library به عنوان IMAGE ذخیره کنید.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert MHTML to IMAGE in Python Excel Library., Save MHTML to IMAGE using Python Excel Library., Python MHTML to IMAGE saveformat., MHTML to IMAGE Converter., Python Save MHTML as IMAGE]
+description: Aspose اکسل. این راهکار جامع، رویکردی کاملاً یکپارچه برای تبدیل فرمت MHTML به فرمت IMAGE در اختیار توسعه‌دهندگان Python قرار می‌دهد و امکان ذخیره یکپارچه داده‌های MHTML به فرمت IMAGE را با استفاده از کتابخانه Aspose.Cells، از طریق کد کارآمد و قابل تنظیم Python، فراهم می‌کند.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart MHTML files to IMAGE Converter for Python., Convert MHTML to IMAGE in Python., MHTML files to IMAGE Conversion in Python., Leverage intelligent data processing to automatically parse and save MHTML into IMAGE format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="تبدیل MHTML به IMAGE در Python Excel Library" h2="کتابخانه اکسل پرسرعت Python برای تبدیل MHTML به IMAGE. این یک راه حل نرم افزاری حرفه ای برای وارد کردن و صادرات MHTML، IMAGE و بسیاری از فرمت های دیگر با استفاده از Python است." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="IMAGE" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -27,7 +27,7 @@ keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert M
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="نمونه کد برای تبدیل MHTML به IMAGE از طریق Python Excel Library" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="mhtml" outformat="png" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="نمونه کد برای تبدیل MHTML به IMAGE از طریق Python Excel Library" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="mhtml" outformat="png" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="نحوه تبدیل MHTML به IMAGE از طریق Python" %}}
 

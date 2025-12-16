@@ -1,7 +1,7 @@
 ---
 title: Python XLS به TABDELIMITED - XLS به TABDELIMITED تبدیل
-description: Aspose اکسل. Python اکسل. تبدیل XLS به TABDELIMITED به سرعت و به راحتی با Aspose.Cells. Python XLS به TABDELIMITED. Python XLS را به ABDELIMITED ذخیره کنید. XLS را با استفاده از کتابخانه Excel Python به صورت TABDELIMITED ذخیره کنید.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert XLS to TABDELIMITED in Python Excel Library., Save XLS to TABDELIMITED using Python Excel Library., Python XLS to TABDELIMITED saveformat., XLS to TABDELIMITED Converter., Python Save XLS as TABDELIMITED]
+description: Aspose اکسل. این راهکار جامع، رویکردی کاملاً یکپارچه برای تبدیل فرمت XLS به فرمت TABDELIMITED در اختیار توسعه‌دهندگان Python قرار می‌دهد و امکان ذخیره یکپارچه داده‌های XLS در فرمت TABDELIMITED را با استفاده از کتابخانه Aspose.Cells، از طریق کد کارآمد و قابل تنظیم Python، فراهم می‌کند.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart XLS files to TABDELIMITED Converter for Python., Convert XLS to TABDELIMITED in Python., XLS files to TABDELIMITED Conversion in Python., Leverage intelligent data processing to automatically parse and save XLS into TABDELIMITED format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="تبدیل XLS به ABDELIMITED در Python Excel Library" h2="کتابخانه اکسل پرسرعت Python برای تبدیل XLS به TABDELIMITED. از تبدیل اکسل API ما برای توسعه نرم افزار سطح بالا و مستقل از پلت فرم در Python استفاده کنید." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="TABDELIMITED" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -28,7 +28,7 @@ keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert X
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="کد نمونه برای تبدیل XLS به TABDELIMITED از طریق Python Excel Library" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xls" outformat="tsv" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="کد نمونه برای تبدیل XLS به TABDELIMITED از طریق Python Excel Library" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="xls" outformat="tsv" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="نحوه تبدیل XLS به TABDELIMITED" %}}
 

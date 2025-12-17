@@ -1,7 +1,7 @@
 ---
 title: Python TSV SQL-hez - TSV SQL Converterhez
-description: Aspose Excel. Python Excel. A TSV gyors és egyszerű konvertálása SQL-re a Aspose.Cells. Python TSV számmal SQL-vé. Python Mentse a TSV-et SQL-be. Mentse a TSV-et SQL-ként a Python Excel-könyvtár használatával.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert TSV to SQL in Python Excel Library., Save TSV to SQL using Python Excel Library., Python TSV to SQL saveformat., TSV to SQL Converter., Python Save TSV as SQL]
+description: Aspose Excel. Ez az átfogó megoldás teljesen integrált megközelítést biztosít a Python fejlesztők számára a TSV SQL formátumba konvertálásához, lehetővé téve a TSV adatok zökkenőmentes mentését SQL formátumba a Aspose.Cells könyvtár segítségével, mindezt hatékony és testreszabható Python kódon keresztül.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart TSV files to SQL Converter for Python., Convert TSV to SQL in Python., TSV files to SQL Conversion in Python., Leverage intelligent data processing to automatically parse and save TSV into SQL format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="A TSV konvertálása SQL-re a Python Excel könyvtárban" h2="Nagy sebességű Python excel könyvtár a TSV SQL-vé konvertálásához. Használja a API-es excel konverziónkat magas szintű, platformfüggetlen szoftver fejlesztéséhez a Python-ben." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="SQL" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -28,7 +28,7 @@ Kövesse az egyszerű lépéseket a TSV SQL-vé konvertálásához. Töltse fel 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Mintakód a TSV SQL-re konvertálásához a Python Excel Library segítségével" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="tsv" outformat="sql" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Mintakód a TSV SQL-re konvertálásához a Python Excel Library segítségével" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="tsv" outformat="sql" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="A TSV konvertálása SQL-vé" %}}
 
@@ -82,8 +82,8 @@ A Python-es csomagjainkat PyPi-tárolókban tároljuk.
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/tsv-to-bmp/" name="TSV-BMP" description="Bittérképes kép" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/tsv-to-emf/" name="TSV-EMF" description="Továbbfejlesztett metafájl formátum" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/tsv-to-gif/" name="TSV-GIF" description="Grafikus csereformátum" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/tsv-to-html/" name="TSV-HTML" description="Hyper Text Markup Language" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/tsv-to-md/" name="TSV MD" description="Markdown Language" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/tsv-to-html/" name="TSV-HTML" description="Hiperszöveg-jelölőnyelv" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/tsv-to-md/" name="TSV MD" description="Markdown nyelv" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/tsv-to-mhtml/" name="TSV-MHTML" description="Weboldal archív formátuma" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/tsv-to-ods/" name="TSV-ODS" description="OpenDocument táblázatfájl" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/tsv-to-pdf/" name="TSV-PDF" description="Hordozható dokumentum formátum" >}}

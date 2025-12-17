@@ -1,7 +1,7 @@
 ---
 title: Convertisseur Python SXC à XLSM - SXC à XLSM
-description: Aspose Exceller. Python Exceller. Convertissez SXC en XLSM rapidement et facilement avec Aspose.Cells. Python SXC en XLSM. Python Enregistrez SXC en XLSM. Enregistrez SXC sous 076112. 3481 en utilisant la bibliothèque Excel Python.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert SXC to XLSM in Python Excel Library., Save SXC to XLSM using Python Excel Library., Python SXC to XLSM saveformat., SXC to XLSM Converter., Python Save SXC as XLSM]
+description: Aspose Excel. Cette solution complète offre aux développeurs Python une approche entièrement intégrée pour convertir le format SXC au format XLSM, permettant un enregistrement transparent des données SXC au format XLSM à l'aide de la bibliothèque Aspose.Cells, le tout grâce à un code Python efficace et personnalisable.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart SXC files to XLSM Converter for Python., Convert SXC to XLSM in Python., SXC files to XLSM Conversion in Python., Leverage intelligent data processing to automatically parse and save SXC into XLSM format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Convertir SXC en XLSM dans la bibliothèque Excel Python" h2="Bibliothèque Excel Python haute vitesse pour convertir SXC en XLSM. Utilisez notre conversion Excel API pour développer un logiciel de haut niveau indépendant de la plate-forme en Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSM" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -28,7 +28,7 @@ Suivez les étapes simples pour convertir SXC en XLSM. Téléchargez votre fichi
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Exemple de code pour convertir SXC en XLSM via la bibliothèque Excel Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="sxc" outformat="xlsm" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Exemple de code pour convertir SXC en XLSM via la bibliothèque Excel Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="sxc" outformat="xlsm" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="Comment convertir SXC en XLSM" %}}
 
@@ -86,8 +86,8 @@ Aspose.Cells for Python via NET est indépendant de la plate-forme API et peut �
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/sxc-to-md/" name="SXC AU MD" description="Langage de démarque" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/sxc-to-mhtml/" name="SXC AU MHTML" description="Format d\'archive de pages Web" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/sxc-to-ods/" name="SXC AU ODS" description="Fichier de feuille de calcul OpenDocument" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/sxc-to-pdf/" name="SXC AU PDF" description="Portable Document Format" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/sxc-to-png/" name="SXC AU PNG" description="Portable Network Graphics" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/sxc-to-pdf/" name="SXC AU PDF" description="Format de document portable" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/sxc-to-png/" name="SXC AU PNG" description="Graphiques de réseau portables" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/sxc-to-svg/" name="SXC AU SVG" description="Image Vectorielle" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/sxc-to-tiff/" name="SXC AU TIFF" description="Format d\'image balisé" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/sxc-to-tsv/" name="SXC AU TSV" description="Valeurs séparées par des tabulations" >}}

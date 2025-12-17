@@ -1,7 +1,7 @@
 ---
 title: Python PRN से XLT - PRN से XLT कनवर्टर
-description: Aspose Excel. Python Excel. Aspose.Cells के साथ PRN को XLT में जल्दी और आसानी से बदलें. Python PRN को XLT में बदलें. Python PRN को XLT में सहेजें. Python Excel लाइब्रेरी का उपयोग करके PRN को XLT के रूप में सहेजें.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert PRN to XLT in Python Excel Library., Save PRN to XLT using Python Excel Library., Python PRN to XLT saveformat., PRN to XLT Converter., Python Save PRN as XLT]
+description: Aspose Excel. यह पूरा सॉल्यूशन Python डेवलपर्स को PRN को XLT फ़ॉर्मेट में बदलने के लिए पूरी तरह से इंटीग्रेटेड तरीका देता है, जिससे Aspose.Cells लाइब्रेरी का इस्तेमाल करके PRN डेटा को XLT फ़ॉर्मेट में आसानी से सेव किया जा सकता है, यह सब कुशल और कस्टमाइज़ेबल Python कोड के ज़रिए होता है।
+keywords: [Aspose Excel., Python Aspose.Cells., Smart PRN files to XLT Converter for Python., Convert PRN to XLT in Python., PRN files to XLT Conversion in Python., Leverage intelligent data processing to automatically parse and save PRN into XLT format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Python एक्सेल लाइब्रेरी में PRN को XLT में बदलें" h2="PRN को XLT में परिवर्तित करने के लिए उच्च गति Python एक्सेल लाइब्रेरी। यह Python का उपयोग करके PRN, XLT और कई अन्य प्रारूपों को आयात और निर्यात करने के लिए एक पेशेवर सॉफ्टवेयर समाधान है।" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLT" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -27,7 +27,7 @@ PRN को XLT में बदलने के लिए आसान चरण
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Python एक्सेल लाइब्रेरी के माध्यम से PRN को XLT में बदलने के लिए नमूना कोड" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="prn" outformat="xlt" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="Python एक्सेल लाइब्रेरी के माध्यम से PRN को XLT में बदलने के लिए नमूना कोड" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="prn" outformat="xlt" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="PRN को XLT से Python में कैसे बदलें" %}}
 

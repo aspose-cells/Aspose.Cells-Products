@@ -1,10 +1,10 @@
 ---
-title:  API Node.js untuk Spreadsheet Excel - Aspose
+title:  API Node.js via Java untuk Spreadsheet Excel - Aspose
 weight: 3120
-description: Proses format file Excel melalui perpustakaan Node.js. Baca tulis render & konversi XLS XLSX XLSB XLTX XLTM XLSM XML ODS CSV dan format lainnya melalui Node.js di Windows, macOS & Linux
+description: Memproses format file Excel menggunakan pustaka Node.js via Java. Membaca, menulis, merender & mengkonversi XLS XLSX XLSB XLTX XLTM XLSM XML ODS CSV dan format lainnya menggunakan Node.js via Java pada Windows, macOS & Linux
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="API Format File Excel Node.js" h2="Hasilkan, modifikasi, konversi & render spreadsheet Excel menggunakan Node.js tanpa memerlukan Microsoft Excel." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/headers/aspose_cells-for-nodejs-java.svg" pfName="Aspose.Cells" subTitlepfName="for Node.js via Java" downloadUrl="https://downloads.aspose.com/cells/nodejs" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="API Format File Excel Node.js via Java" h2="Menghasilkan, memodifikasi, mengkonversi & merender spreadsheet Excel menggunakan Node.js via Java tanpa memerlukan Excel Microsoft." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/headers/aspose_cells-for-nodejs-java.svg" pfName="Aspose.Cells" subTitlepfName="for Node.js via Java" downloadUrl="https://downloads.aspose.com/cells/nodejs" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells" subTitlepfName="for Node.js via Java" >}}
 
@@ -12,7 +12,7 @@ description: Proses format file Excel melalui perpustakaan Node.js. Baca tulis r
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
-Aspose.Cells for Node.js via Java adalah API yang kaya fitur dan skalabel untuk memproses spreadsheet Excel menggunakan Node.js. API menawarkan konversi format file Excel, penataan lembar kerja ke tingkat paling terperinci, pembuatan bagan &amp; rendering, mesin penghitungan rumus yang andal, dan masih banyak lagi.
+ Aspose.Cells for Node.js via Java adalah sebuah aplikasi yang kaya fitur dan dapat diskalakan untuk memproses spreadsheet Excel menggunakan Node.js. via Java menawarkan konversi format file Excel, penataan gaya lembar kerja hingga tingkat paling detail, pembuatan & rendering grafik, mesin perhitungan rumus yang andal, dan masih banyak lagi.
 </p>
 
 <p>
@@ -271,7 +271,7 @@ Keluaran Saja
  <div class="row">
   <div class="container">
    <h2 class="pr-ft">
- Fitur Spreadsheet Excel Node.js Tingkat Lanjut API
+ Fitur-fitur Node.js Tingkat Lanjut via Java Spreadsheet Excel API
    </h2>
    <p>
    </p>
@@ -343,7 +343,7 @@ Keluaran Saja
  Merender Excel Spreadsheet
     </h2>
     <p>
-Aspose.Cells for Node.js via Java menggunakan mesin renderingnya untuk merender ke Microsoft Excel dengan fidelitas tertinggi. Saat menggunakan pustaka Pemrosesan Excel Node.js, seseorang dapat mengonversi seluruh lembar, file individual, atau bagan menjadi beberapa gambar dan format tata letak tetap.
+ Aspose.Cells for Node.js via Java menggunakan mesin rendering-nya untuk merender ke Microsoft Excel dengan fidelitas tertinggi. Saat menggunakan pustaka Pemrosesan Excel Node.js via Java, seseorang dapat mengkonversi seluruh lembar kerja, file individual, atau grafik ke beberapa gambar dan format tata letak tetap.
     </p>
    </div>
    <div class="col-lg-12">
@@ -415,7 +415,7 @@ Aspose.Cells for Node.js via Java memberikan dukungan penuh untuk pembuatan graf
 
 {{< /blocks/products/pf/i18n/support-learning-resources >}}
 
-{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://downloads.aspose.com/cells/nodejs" pricingInformationLink="https://purchase.aspose.com/pricing/cells/nodejs-java" >}}
+{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://releases.aspose.com/cells/nodejs/" pricingInformationLink="https://purchase.aspose.com/pricing/cells/nodejs-java" >}}
 
 {{< blocks/products/pf/offers-section pfName="Aspose.Cells" description="Aspose.Cells menawarkan API Excel individual untuk lingkungan pengembangan populer lainnya seperti yang tercantum di bawah ini:" >}}
 

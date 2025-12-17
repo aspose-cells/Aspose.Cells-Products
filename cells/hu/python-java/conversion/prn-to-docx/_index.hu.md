@@ -1,7 +1,7 @@
 ---
 title: Python PRN - DOCX - PRN - DOCX Átalakító
-description: "Aspose Excel. Python Excel. A PRN-t gyorsan és egyszerűen konvertálja DOCX-re a Aspose.Cells-es számmal. Python PRN: DOCX. Python Mentse a PRN-t DOCX-re. Mentse el a PRN-t DOCX-es számként DOCX könyvtárként a 34873481 használatával."
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert PRN to DOCX in Python Excel Library., Save PRN to DOCX using Python Excel Library., Python PRN to DOCX saveformat., PRN to DOCX Converter., Python Save PRN as DOCX]
+description: Aspose Excel. Ez az átfogó megoldás teljesen integrált megközelítést biztosít a Python fejlesztők számára a PRN DOCX formátumba konvertálásához, lehetővé téve a PRN adatok zökkenőmentes mentését DOCX formátumba a Aspose.Cells könyvtár használatával, mindezt hatékony és testreszabható Python kódon keresztül.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart PRN files to DOCX Converter for Python., Convert PRN to DOCX in Python., PRN files to DOCX Conversion in Python., Leverage intelligent data processing to automatically parse and save PRN into DOCX format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="A PRN átalakítása DOCX-re a Python Excel könyvtárban" h2="Nagysebességű Python excel könyvtár a PRN DOCX-re konvertálásához. Ez egy professzionális szoftvermegoldás PRN, DOCX és sok más formátum importálására és exportálására a Python használatával." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="DOCX" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -27,7 +27,7 @@ Kövesse az egyszerű lépéseket a PRN DOCX-re konvertálásához. Töltse fel 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Mintakód a PRN DOCX-re konvertálásához a Python Excel Library segítségével" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="prn" outformat="docx" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="Mintakód a PRN DOCX-re konvertálásához a Python Excel Library segítségével" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="prn" outformat="docx" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="PRN konvertálása DOCX-re a Python-en keresztül" %}}
 
@@ -84,8 +84,8 @@ Aspose.Cells for Python via Java platformfüggetlen API, és bármilyen platform
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/prn-to-bmp/" name="NYOMTATÁS A BMP-ES számra" description="Bittérképes kép" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/prn-to-emf/" name="NYOMTATÁS A EMF-ES számra" description="Továbbfejlesztett metafájl formátum" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/prn-to-gif/" name="NYOMTATÁS A GIF-ES számra" description="Grafikus csereformátum" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/prn-to-html/" name="NYOMTATÁS A HTML-ES számra" description="Hyper Text Markup Language" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/prn-to-md/" name="PRN TO MD" description="Markdown Language" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/prn-to-html/" name="NYOMTATÁS A HTML-ES számra" description="Hiperszöveg-jelölőnyelv" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/prn-to-md/" name="PRN TO MD" description="Markdown nyelv" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/prn-to-mhtml/" name="NYOMTATÁS A MHTML-ES számra" description="Weboldal archív formátuma" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/prn-to-ods/" name="NYOMTATÁS A ODS-ES számra" description="OpenDocument táblázatfájl" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/prn-to-pdf/" name="NYOMTATÁS A PDF-ES számra" description="Hordozható dokumentum formátum" >}}

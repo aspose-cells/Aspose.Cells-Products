@@ -1,7 +1,7 @@
 ---
 title: Python JPG-ből JPG-be – JPG-ből JPG-be konvertáló
-description: Aspose Excel. Python Excel. A Aspose.Cells. Python JPG-ből JPG-formátumba gyorsan és egyszerűen konvertálhat JPG-t. Python JPG mentése JPG formátumba. JPG mentése JPG formátumban a Python Excel Library használatával.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert JPG to JPG in Python Excel Library., Save JPG to JPG using Python Excel Library., Python JPG to JPG saveformat., JPG to JPG Converter., Python Save JPG as JPG]
+description: Aspose Excel. Ez az átfogó megoldás teljesen integrált megközelítést biztosít a Python fejlesztők számára JPG JPG formátumba konvertálásához, lehetővé téve a JPG adatok zökkenőmentes mentését JPG formátumba a Aspose.Cells könyvtár használatával, mindezt hatékony és testreszabható Python kódon keresztül.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart JPG files to JPG Converter for Python., Convert JPG to JPG in Python., JPG files to JPG Conversion in Python., Leverage intelligent data processing to automatically parse and save JPG into JPG format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Konvertálja a JPG-t JPG-vé a Python Excel könyvtárban" h2="Nagy sebességű Python excel könyvtár JPG JPG-vé konvertálásához. Ez egy professzionális szoftvermegoldás JPG, JPG és sok más formátum importálásához és exportálásához a Python használatával." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="JPG" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -27,7 +27,7 @@ Kövesse az egyszerű lépéseket a JPG JPG-vé konvertálásához. Töltse fel 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Mintakód a JPG JPG formátumba konvertálásához a Python Excel könyvtáron keresztül" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="jpg" outformat="jpg" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="Mintakód a JPG JPG formátumba konvertálásához a Python Excel könyvtáron keresztül" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="jpg" outformat="jpg" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="Hogyan lehet JPG-t JPG-vé konvertálni a Python-en keresztül" %}}
 
@@ -84,8 +84,8 @@ Aspose.Cells for Python via Java platformfüggetlen API, és bármilyen platform
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/jpg-to-bmp/" name="JPG - BMP" description="Bittérképes kép" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/jpg-to-emf/" name="JPG - EMF" description="Továbbfejlesztett metafájl formátum" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/jpg-to-gif/" name="JPG - GIF" description="Grafikus csereformátum" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/jpg-to-html/" name="JPG - HTML" description="Hyper Text Markup Language" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/jpg-to-md/" name="JPG MD-RE" description="Markdown Language" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/jpg-to-html/" name="JPG - HTML" description="Hiperszöveg-jelölőnyelv" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/jpg-to-md/" name="JPG MD-RE" description="Markdown nyelv" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/jpg-to-mhtml/" name="JPG - MHTML" description="Weboldal archív formátuma" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/jpg-to-ods/" name="JPG - ODS" description="OpenDocument táblázatfájl" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/jpg-to-pdf/" name="JPG - PDF" description="Hordozható dokumentum formátum" >}}

@@ -1,7 +1,7 @@
 ---
 title: Python JPEG hingga PDF - JPEG hingga PDF Konverter
-description: Aspose Unggul. Python Unggul. Ubah JPEG menjadi PDF dengan cepat dan mudah dengan Aspose.Cells. Python JPEG menjadi PDF. Python Simpan JPEG menjadi PDF. Simpan JPEG sebagai 076112 3481 menggunakan Perpustakaan Excel Python.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert JPEG to PDF in Python Excel Library., Save JPEG to PDF using Python Excel Library., Python JPEG to PDF saveformat., JPEG to PDF Converter., Python Save JPEG as PDF]
+description: Aspose Excel. Solusi komprehensif ini menyediakan Python pengembang dengan pendekatan terintegrasi penuh untuk mengkonversi JPEG ke format PDF, memungkinkan penyimpanan data JPEG ke format PDF dengan lancar menggunakan pustaka Aspose.Cells, semuanya melalui kode Python yang efisien dan dapat disesuaikan.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart JPEG files to PDF Converter for Python., Convert JPEG to PDF in Python., JPEG files to PDF Conversion in Python., Leverage intelligent data processing to automatically parse and save JPEG into PDF format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Ubah JPEG menjadi PDF di Perpustakaan Excel Python" h2="Pustaka excel Python berkecepatan tinggi untuk mengonversi JPEG menjadi PDF. Gunakan konversi excel kami API untuk mengembangkan perangkat lunak independen platform tingkat tinggi di Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="PDF" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -28,7 +28,7 @@ Ikuti langkah mudah untuk mengonversi JPEG menjadi PDF. Unggah file JPEG Anda, l
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Contoh Kode untuk Mengonversi JPEG menjadi PDF melalui Perpustakaan Excel Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="jpg" outformat="pdf" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Contoh Kode untuk Mengonversi JPEG menjadi PDF melalui Perpustakaan Excel Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="jpg" outformat="pdf" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="Cara Mengonversi JPEG menjadi PDF" %}}
 
@@ -82,7 +82,7 @@ Aspose.Cells for Python melalui NET tidak bergantung pada platform API dan dapat
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/jpeg-to-bmp/" name="JPEG SAMPAI BMP" description="Gambar bitmap" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/jpeg-to-emf/" name="JPEG SAMPAI EMF" description="Format Metafile yang Ditingkatkan" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/jpeg-to-gif/" name="JPEG SAMPAI GIF" description="Format Pertukaran Grafis" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/jpeg-to-html/" name="JPEG SAMPAI HTML" description="Hyper Text Markup Language" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/jpeg-to-html/" name="JPEG SAMPAI HTML" description="Bahasa Markup Teks Hiper" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/jpeg-to-md/" name="JPEG KE MD" description="Bahasa Penurunan Harga" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/jpeg-to-mhtml/" name="JPEG SAMPAI MHTML" description="Format Arsip Halaman Web" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/jpeg-to-ods/" name="JPEG SAMPAI ODS" description="File Lembar Bentang OpenDocument" >}}

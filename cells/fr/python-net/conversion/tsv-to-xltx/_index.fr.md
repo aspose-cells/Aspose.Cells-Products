@@ -1,7 +1,7 @@
 ---
 title: Convertisseur Python TSV à XLTX - TSV à XLTX
-description: Aspose Exceller. Python Exceller. Convertissez TSV en XLTX rapidement et facilement avec Aspose.Cells. Python TSV en XLTX. Python Enregistrez TSV en XLTX. Enregistrez TSV sous 076112. 3481 en utilisant la bibliothèque Excel Python.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert TSV to XLTX in Python Excel Library., Save TSV to XLTX using Python Excel Library., Python TSV to XLTX saveformat., TSV to XLTX Converter., Python Save TSV as XLTX]
+description: Aspose Excel. Cette solution complète offre aux développeurs Python une approche entièrement intégrée pour convertir le format TSV au format XLTX, permettant un enregistrement transparent des données TSV au format XLTX à l'aide de la bibliothèque Aspose.Cells, le tout grâce à un code Python efficace et personnalisable.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart TSV files to XLTX Converter for Python., Convert TSV to XLTX in Python., TSV files to XLTX Conversion in Python., Leverage intelligent data processing to automatically parse and save TSV into XLTX format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Convertir TSV en XLTX dans la bibliothèque Excel Python" h2="Bibliothèque Excel Python haute vitesse pour convertir TSV en XLTX. Utilisez notre conversion Excel API pour développer un logiciel de haut niveau indépendant de la plate-forme en Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLTX" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -28,7 +28,7 @@ Suivez les étapes simples pour convertir TSV en XLTX. Téléchargez votre fichi
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Exemple de code pour convertir TSV en XLTX via la bibliothèque Excel Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="tsv" outformat="xltx" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Exemple de code pour convertir TSV en XLTX via la bibliothèque Excel Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="tsv" outformat="xltx" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="Comment convertir TSV en XLTX" %}}
 
@@ -86,8 +86,8 @@ Aspose.Cells for Python via NET est indépendant de la plate-forme API et peut �
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/tsv-to-md/" name="TSV AU MD" description="Langage de démarque" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/tsv-to-mhtml/" name="TSV AU MHTML" description="Format d\'archive de pages Web" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/tsv-to-ods/" name="TSV AU ODS" description="Fichier de feuille de calcul OpenDocument" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/tsv-to-pdf/" name="TSV AU PDF" description="Portable Document Format" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/tsv-to-png/" name="TSV AU PNG" description="Portable Network Graphics" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/tsv-to-pdf/" name="TSV AU PDF" description="Format de document portable" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/tsv-to-png/" name="TSV AU PNG" description="Graphiques de réseau portables" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/tsv-to-svg/" name="TSV AU SVG" description="Image Vectorielle" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/tsv-to-tiff/" name="TSV AU TIFF" description="Format d\'image balisé" >}}
 

@@ -1,7 +1,7 @@
 ---
 title: Créer ET - Créer un fichier ET dans Python
-description:  Aspose Exceller. Python Exceller. Python Créez un fichier ET rapidement et facilement avec Aspose.Cells. Générez un fichier ET à l'aide de la bibliothèque Excel Python. Créez ET dans la bibliothèque Excel Python. Python ET Créateur.
-keywords: [Aspose Python Excel., Python Aspose.Cells., Python Create ET file., Generate ET file in Python Excel Library., Create ET file using Python Excel Library., Write data to ET file via Python Excel Library., Create a ET file in Python Excel Library., Python Generate a ET file., Python ET Creater]
+description: Aspose Excel. Générez et manipulez facilement des fichiers ET grâce à la bibliothèque Aspose.Cells for Python via Java. Cette puissante bibliothèque API offre une solution simplifiée et efficace pour créer, modifier et gérer des fichiers ET directement dans vos applications Python, répondant ainsi avec une grande précision aux besoins spécifiques des développeurs.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Create ET file., Generate ET file in Python., Write data to ET file via Python., Python ET Creater., Aspose.Cells for Python via Java is a powerful library that enables developers to programmatically create, generate, and manipulate ET files in Python]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Créer un fichier ET dans la bibliothèque Excel Python" h2="Bibliothèque Excel Python haute vitesse pour créer un fichier ET. Il s\'agit d\'une solution logicielle professionnelle pour importer et exporter XLSX, PDF et de nombreux autres formats utilisant Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="ET" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -107,7 +107,7 @@ Aspose.Cells for Python via Java est indépendant de la plate-forme API et peut 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/create/csv/" name="CSV" description="Valeurs séparées par des virgules" >}} 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/create/tsv/" name="TSV" description="Valeurs séparées par des tabulations" >}} 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/create/ods/" name="ODS" description="Feuille de calcul OpenDocument" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/create/pdf/" name="PDF" description="Portable Document Format" >}} 
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/create/pdf/" name="PDF" description="Format de document portable" >}} 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/create/html/" name="HTML" description="Langage Signalétique Hyper Text" >}} 
 
 {{< /blocks/products/pf/agp/other-supported-section >}}

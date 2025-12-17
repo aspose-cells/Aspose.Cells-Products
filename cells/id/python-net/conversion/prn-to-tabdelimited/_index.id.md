@@ -1,7 +1,7 @@
 ---
 title: Python PRN ke TABDELIMITED - Konverter PRN ke TABDELIMITED
-description: Aspose Unggul. Python Unggul. Ubah PRN ke TABDELIMITED dengan cepat dan mudah dengan Aspose.Cells. Python PRN ke TABDELIMITED. Python Simpan PRN ke TABDELIMITED. Simpan PRN sebagai TABDELIMITED menggunakan Perpustakaan Excel Python.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert PRN to TABDELIMITED in Python Excel Library., Save PRN to TABDELIMITED using Python Excel Library., Python PRN to TABDELIMITED saveformat., PRN to TABDELIMITED Converter., Python Save PRN as TABDELIMITED]
+description: Aspose Excel. Solusi komprehensif ini menyediakan Python pengembang dengan pendekatan terintegrasi penuh untuk mengkonversi PRN ke format TABDELIMITED, memungkinkan penyimpanan data PRN ke format TABDELIMITED dengan mudah menggunakan pustaka Aspose.Cells, semuanya melalui kode Python yang efisien dan dapat disesuaikan.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart PRN files to TABDELIMITED Converter for Python., Convert PRN to TABDELIMITED in Python., PRN files to TABDELIMITED Conversion in Python., Leverage intelligent data processing to automatically parse and save PRN into TABDELIMITED format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Ubah PRN menjadi TABDELIMITED di Perpustakaan Excel Python" h2="Pustaka excel Python berkecepatan tinggi untuk mengonversi PRN ke TABDELIMITED. Gunakan konversi excel kami API untuk mengembangkan perangkat lunak independen platform tingkat tinggi di Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="TABDELIMITED" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -28,7 +28,7 @@ Ikuti langkah mudah untuk mengonversi PRN ke TABDELIMITED. Unggah file PRN Anda,
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Contoh Kode untuk Mengonversi PRN ke TABDELIMITED melalui Perpustakaan Excel Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="prn" outformat="tsv" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Contoh Kode untuk Mengonversi PRN ke TABDELIMITED melalui Perpustakaan Excel Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="prn" outformat="tsv" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="Cara Mengonversi PRN ke TABDELIMITED" %}}
 
@@ -82,7 +82,7 @@ Aspose.Cells for Python melalui NET tidak bergantung pada platform API dan dapat
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/prn-to-bmp/" name="PRN KE BMP" description="Gambar bitmap" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/prn-to-emf/" name="PRN KE EMF" description="Format Metafile yang Ditingkatkan" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/prn-to-gif/" name="PRN KE GIF" description="Format Pertukaran Grafis" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/prn-to-html/" name="PRN KE HTML" description="Hyper Text Markup Language" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/prn-to-html/" name="PRN KE HTML" description="Bahasa Markup Teks Hiper" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/prn-to-md/" name="PRN KE MD" description="Bahasa Penurunan Harga" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/prn-to-mhtml/" name="PRN KE MHTML" description="Format Arsip Halaman Web" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/prn-to-ods/" name="PRN KE ODS" description="File Lembar Bentang OpenDocument" >}}

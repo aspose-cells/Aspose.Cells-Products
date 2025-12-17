@@ -1,7 +1,7 @@
 ---
 title: Python XLSM - TABDELIMITED - XLSM - TABDELIMITED konverter
-description: Aspose Excel. Python Excel. A XLSM-es számot gyorsan és egyszerűen konvertálja TABDELIMITED-re a Aspose.Cells-es számmal. Python XLSM TABDELIMITED-re. Python Mentse el a XLSM számot a TABDELIMITED-be. A XLSM mentése TABDELIMITED néven a Python Excel Library használatával.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert XLSM to TABDELIMITED in Python Excel Library., Save XLSM to TABDELIMITED using Python Excel Library., Python XLSM to TABDELIMITED saveformat., XLSM to TABDELIMITED Converter., Python Save XLSM as TABDELIMITED]
+description: Aspose Excel. Ez az átfogó megoldás teljesen integrált megközelítést biztosít a Python fejlesztők számára a XLSM TABDELIMITED formátumba konvertálásához, lehetővé téve a XLSM adatok zökkenőmentes mentését TABDELIMITED formátumba a Aspose.Cells könyvtár használatával, mindezt hatékony és testreszabható Python kódon keresztül.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart XLSM files to TABDELIMITED Converter for Python., Convert XLSM to TABDELIMITED in Python., XLSM files to TABDELIMITED Conversion in Python., Leverage intelligent data processing to automatically parse and save XLSM into TABDELIMITED format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="A XLSM konvertálása TABDELIMITED-re a Python Excel könyvtárban" h2="Nagy sebességű Python-es Excel-könyvtár a XLSM-es számnak TABDELIMITED-re való konvertálásához. Használja a API-es excel konverziónkat magas szintű, platformfüggetlen szoftver fejlesztéséhez a Python-ben." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="TABDELIMITED" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -28,7 +28,7 @@ Kövesse az egyszerű lépéseket a XLSM TABDELIMITED-re konvertálásához. Tö
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Mintakód a XLSM-ből TABDELIMITED-re konvertálásához a Python Excel könyvtáron keresztül" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsm" outformat="tsv" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Mintakód a XLSM-ből TABDELIMITED-re konvertálásához a Python Excel könyvtáron keresztül" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="xlsm" outformat="tsv" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="A XLSM konvertálása TAB-raDELIMITED" %}}
 
@@ -82,8 +82,8 @@ A Python-es csomagjainkat PyPi-tárolókban tároljuk.
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlsm-to-bmp/" name="XLSM-BMP" description="Bittérképes kép" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlsm-to-emf/" name="XLSM-EMF" description="Továbbfejlesztett metafájl formátum" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlsm-to-gif/" name="XLSM-GIF" description="Grafikus csereformátum" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlsm-to-html/" name="XLSM-HTML" description="Hyper Text Markup Language" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlsm-to-md/" name="XLSM MD" description="Markdown Language" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlsm-to-html/" name="XLSM-HTML" description="Hiperszöveg-jelölőnyelv" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlsm-to-md/" name="XLSM MD" description="Markdown nyelv" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlsm-to-mhtml/" name="XLSM-MHTML" description="Weboldal archív formátuma" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlsm-to-ods/" name="XLSM-ODS" description="OpenDocument táblázatfájl" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlsm-to-pdf/" name="XLSM-PDF" description="Hordozható dokumentum formátum" >}}

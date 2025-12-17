@@ -1,7 +1,7 @@
 ---
 title: KÉP létrehozása – IMAGE fájl létrehozása a Python címen
-description:  Aspose Excel. Python Excel. Python Hozzon létre IMAGE fájlt gyorsan és egyszerűen a Aspose.Cells segítségével. Hozzon létre IMAGE fájlt a Python Excel Library segítségével. Hozzon létre IMAGE-ot a Python Excel könyvtárban. Python KÉPkészítő.
-keywords: [Aspose Python Excel., Python Aspose.Cells., Python Create IMAGE file., Generate IMAGE file in Python Excel Library., Create IMAGE file using Python Excel Library., Write data to IMAGE file via Python Excel Library., Create a IMAGE file in Python Excel Library., Python Generate a IMAGE file., Python IMAGE Creater]
+description: Aspose Excel. Könnyedén generálhat és kezelhet KÉPfájlokat a Aspose.Cells for Python via .NET könyvtárral. Ez a nagy teljesítményű API leegyszerűsített és hatékony megoldást kínál KÉPfájlok létrehozására, szerkesztésére és kezelésére közvetlenül a Python alkalmazásokban, nagy pontossággal kielégítve a fejlesztők speciális igényeit.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Create IMAGE file., Generate IMAGE file in Python., Write data to IMAGE file via Python., Python IMAGE Creater., Aspose.Cells for Python via .NET is a powerful library that enables developers to programmatically create, generate, and manipulate IMAGE files in Python]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Hozzon létre IMAGE fájlt a Python Excel könyvtárban" h2="Nagy sebességű Python Excel-könyvtár IMAGE fájl létrehozásához. Használja a API-es excel konverziónkat magas szintű, platformfüggetlen szoftver fejlesztéséhez a Python-ben." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="IMAGE" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -97,9 +97,9 @@ A Python-es csomagjainkat PyPi-tárolókban tároljuk.
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/create/xltm/" name="XLTM" description="Excel makró-engedélyezett sablon" >}} 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/create/csv/" name="CSV" description="Vesszővel elválasztott értékek" >}} 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/create/tsv/" name="TSV" description="Tabulátorral elválasztott értékek" >}} 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/create/ods/" name="ODS" description="OpenDocument Spreadsheet" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/create/ods/" name="ODS" description="OpenDocument táblázatkezelő" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/create/pdf/" name="PDF" description="Hordozható dokumentum formátum" >}} 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/create/html/" name="HTML" description="Hyper Text Markup Language" >}} 
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/create/html/" name="HTML" description="Hiperszöveg-jelölőnyelv" >}} 
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

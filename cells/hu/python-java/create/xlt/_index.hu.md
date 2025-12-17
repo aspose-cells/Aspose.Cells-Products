@@ -1,7 +1,7 @@
 ---
 title: XLT létrehozása – XLT fájl létrehozása a Python-ben
-description: Aspose Excel. Python Excel. Python Hozzon létre XLT Fájlokat gyorsan és egyszerűen a Aspose.Cells segítségével. Hozzon létre XLT fájlt a Python Excel Library használatával. Hozzon létre XLT-et a Python Excel-könyvtárban. Python XLT Alkotó.
-keywords: [Aspose Python Excel., Python Aspose.Cells., Python Create XLT file., Generate XLT file in Python Excel Library., Create XLT file using Python Excel Library., Write data to XLT file via Python Excel Library., Create a XLT file in Python Excel Library., Python Generate a XLT file., Python XLT Creater]
+description: Aspose Excel. Könnyedén generálhat és kezelhet XLT fájlokat a Aspose.Cells for Python via Java könyvtárral. Ez a nagy teljesítményű API leegyszerűsített és hatékony megoldást kínál a XLT fájlok létrehozására, szerkesztésére és kezelésére közvetlenül a Python alkalmazásokban, nagy pontossággal kielégítve a fejlesztők speciális igényeit.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Create XLT file., Generate XLT file in Python., Write data to XLT file via Python., Python XLT Creater., Aspose.Cells for Python via Java is a powerful library that enables developers to programmatically create, generate, and manipulate XLT files in Python]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Hozzon létre XLT fájlt a Python Excel könyvtárban" h2="Nagy sebességű Python Excel könyvtár a XLT fájl létrehozásához. Ez egy professzionális szoftvermegoldás a XLSX, PDF és sok más formátum importálásához és exportálásához a Python használatával." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLT" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -106,9 +106,9 @@ Aspose.Cells for Python via Java platformfüggetlen API, és bármilyen platform
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/create/xltm/" name="XLTM" description="Excel makró-engedélyezett sablon" >}} 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/create/csv/" name="CSV" description="Vesszővel elválasztott értékek" >}} 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/create/tsv/" name="TSV" description="Tabulátorral elválasztott értékek" >}} 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/create/ods/" name="ODS" description="OpenDocument Spreadsheet" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/create/ods/" name="ODS" description="OpenDocument táblázatkezelő" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/create/pdf/" name="PDF" description="Hordozható dokumentum formátum" >}} 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/create/html/" name="HTML" description="Hyper Text Markup Language" >}} 
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/create/html/" name="HTML" description="Hiperszöveg-jelölőnyelv" >}} 
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

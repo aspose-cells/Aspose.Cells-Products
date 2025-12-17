@@ -1,7 +1,7 @@
 ---
 title: Python XML vers XLSM - Convertisseur XML vers XLSM
-description: Aspose Exceller. Python Exceller. Convertissez XML en XLSM rapidement et facilement avec Aspose.Cells. Python XML en XLSM. Python Enregistrez XML en XLSM. Enregistrez XML en XLSM à l'aide de la bibliothèque Excel Python.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert XML to XLSM in Python Excel Library., Save XML to XLSM using Python Excel Library., Python XML to XLSM saveformat., XML to XLSM Converter., Python Save XML as XLSM]
+description: Aspose Excel. Cette solution complète offre aux développeurs Python une approche entièrement intégrée pour convertir le XML au format XLSM, permettant un enregistrement transparent des données XML au format XLSM à l'aide de la bibliothèque Aspose.Cells, le tout grâce à un code Python efficace et personnalisable.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart XML files to XLSM Converter for Python., Convert XML to XLSM in Python., XML files to XLSM Conversion in Python., Leverage intelligent data processing to automatically parse and save XML into XLSM format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Convertir XML en XLSM dans la bibliothèque Excel Python" h2="Bibliothèque Excel Python haute vitesse pour convertir XML en XLSM. Il s\'agit d\'une solution logicielle professionnelle pour importer et exporter du XML, XLSM et de nombreux autres formats utilisant Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSM" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -27,7 +27,7 @@ Suivez les étapes simples pour convertir XML en XLSM. Téléchargez votre fichi
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Exemple de code pour convertir XML en XLSM via la bibliothèque Excel Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xml" outformat="xlsm" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="Exemple de code pour convertir XML en XLSM via la bibliothèque Excel Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="xml" outformat="xlsm" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="Comment convertir XML en XLSM via Python" %}}
 
@@ -88,8 +88,8 @@ Aspose.Cells for Python via Java est indépendant de la plate-forme API et peut 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xml-to-md/" name="XML VERS MD" description="Langage de démarque" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xml-to-mhtml/" name="XML À MHTML" description="Format d\'archive de pages Web" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xml-to-ods/" name="XML À ODS" description="Fichier de feuille de calcul OpenDocument" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xml-to-pdf/" name="XML À PDF" description="Portable Document Format" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xml-to-png/" name="XML À PNG" description="Portable Network Graphics" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xml-to-pdf/" name="XML À PDF" description="Format de document portable" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xml-to-png/" name="XML À PNG" description="Graphiques de réseau portables" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xml-to-svg/" name="XML À SVG" description="Image Vectorielle" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xml-to-tiff/" name="XML À TIFF" description="Format d\'image balisé" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xml-to-tsv/" name="XML À TSV" description="Valeurs séparées par des tabulations" >}}

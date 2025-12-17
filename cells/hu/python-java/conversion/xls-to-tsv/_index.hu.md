@@ -1,7 +1,7 @@
 ---
 title: Python XLS - TSV - XLS - TSV Átalakító
-description: Aspose Excel. Python Excel. A XLS-es számot gyorsan és egyszerűen konvertálhatja Aspose.Cells-re. Python XLS-TSV 1123481 a Python Excel Library használatával.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert XLS to TSV in Python Excel Library., Save XLS to TSV using Python Excel Library., Python XLS to TSV saveformat., XLS to TSV Converter., Python Save XLS as TSV]
+description: Aspose Excel. Ez az átfogó megoldás teljesen integrált megközelítést biztosít a Python fejlesztők számára a XLS formátum TSV formátumba konvertálásához, lehetővé téve a XLS adatok zökkenőmentes mentését TSV formátumba a Aspose.Cells könyvtár segítségével, mindezt hatékony és testreszabható Python kódon keresztül.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart XLS files to TSV Converter for Python., Convert XLS to TSV in Python., XLS files to TSV Conversion in Python., Leverage intelligent data processing to automatically parse and save XLS into TSV format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="A XLS konvertálása TSV-re a Python Excel könyvtárban" h2="Nagy sebességű Python excel könyvtár a XLS TSV-re konvertálásához. Ez egy professzionális szoftvermegoldás a XLS, TSV és sok más formátum importálásához és exportálásához a Python szám használatával." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="TSV" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -27,7 +27,7 @@ Kövesse az egyszerű lépéseket a XLS TSV-re konvertálásához. Töltse fel a
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Mintakód a XLS TSV-es konvertálásához a Python Excel könyvtáron keresztül" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xls" outformat="tsv" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="Mintakód a XLS TSV-es konvertálásához a Python Excel könyvtáron keresztül" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="xls" outformat="tsv" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="A XLS konvertálása TSV-re a Python számon keresztül" %}}
 
@@ -84,8 +84,8 @@ Aspose.Cells for Python via Java platformfüggetlen API, és bármilyen platform
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xls-to-bmp/" name="XLS-BMP" description="Bittérképes kép" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xls-to-emf/" name="XLS-EMF" description="Továbbfejlesztett metafájl formátum" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xls-to-gif/" name="XLS-GIF" description="Grafikus csereformátum" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xls-to-html/" name="XLS-HTML" description="Hyper Text Markup Language" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xls-to-md/" name="XLS MD" description="Markdown Language" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xls-to-html/" name="XLS-HTML" description="Hiperszöveg-jelölőnyelv" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xls-to-md/" name="XLS MD" description="Markdown nyelv" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xls-to-mhtml/" name="XLS-MHTML" description="Weboldal archív formátuma" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xls-to-ods/" name="XLS-ODS" description="OpenDocument táblázatfájl" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xls-to-pdf/" name="XLS-PDF" description="Hordozható dokumentum formátum" >}}

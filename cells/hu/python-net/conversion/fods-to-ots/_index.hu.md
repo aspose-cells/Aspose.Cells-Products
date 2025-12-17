@@ -1,7 +1,7 @@
 ---
 title: Python FODS az OTS-hez - FODS az OTS átalakítóhoz
-description: Aspose Excel. Python Excel. A FODS-es számot gyorsan és egyszerűen konvertálja OTS-re a Aspose.Cells-es számmal. Python FODS OTS-re. Python Mentse a FODS számot az OTS-nél. Mentse el a FODS számot OTS-ként a Python Excel Library használatával.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert FODS to OTS in Python Excel Library., Save FODS to OTS using Python Excel Library., Python FODS to OTS saveformat., FODS to OTS Converter., Python Save FODS as OTS]
+description: Aspose Excel. Ez az átfogó megoldás teljesen integrált megközelítést biztosít a Python fejlesztők számára a FODS OTS formátumba konvertálásához, lehetővé téve a FODS adatok zökkenőmentes mentését OTS formátumba a Aspose.Cells könyvtár segítségével, mindezt hatékony és testreszabható Python kódon keresztül.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart FODS files to OTS Converter for Python., Convert FODS to OTS in Python., FODS files to OTS Conversion in Python., Leverage intelligent data processing to automatically parse and save FODS into OTS format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="A FODS konvertálása OTS-re a Python Excel könyvtárban" h2="Nagy sebességű Python excel könyvtár a FODS OTS-re konvertálásához. Használja a API-es excel konverziónkat magas szintű, platformfüggetlen szoftver fejlesztéséhez a Python-ben." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="OTS" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -28,7 +28,7 @@ Kövesse az egyszerű lépéseket a FODS OTS-re konvertálásához. Töltse fel 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Mintakód a FODS OTS-re konvertálásához a Python Excel Library segítségével" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="fods" outformat="ots" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Mintakód a FODS OTS-re konvertálásához a Python Excel Library segítségével" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="fods" outformat="ots" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="Hogyan lehet átalakítani a FODS-et OTS-re" %}}
 
@@ -82,8 +82,8 @@ A Python-es csomagjainkat PyPi-tárolókban tároljuk.
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/fods-to-bmp/" name="FODS-BMP" description="Bittérképes kép" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/fods-to-emf/" name="FODS-EMF" description="Továbbfejlesztett metafájl formátum" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/fods-to-gif/" name="FODS-GIF" description="Grafikus csereformátum" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/fods-to-html/" name="FODS-HTML" description="Hyper Text Markup Language" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/fods-to-md/" name="FODS MD" description="Markdown Language" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/fods-to-html/" name="FODS-HTML" description="Hiperszöveg-jelölőnyelv" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/fods-to-md/" name="FODS MD" description="Markdown nyelv" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/fods-to-mhtml/" name="FODS-MHTML" description="Weboldal archív formátuma" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/fods-to-ods/" name="FODS-ODS" description="OpenDocument táblázatfájl" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/fods-to-pdf/" name="FODS-PDF" description="Hordozható dokumentum formátum" >}}

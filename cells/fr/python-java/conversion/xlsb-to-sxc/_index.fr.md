@@ -1,7 +1,7 @@
 ---
 title: Convertisseur Python XLSB à SXC - XLSB à SXC
-description: Aspose Exceller. Python Exceller. Convertissez XLSB en SXC rapidement et facilement avec Aspose.Cells. Python XLSB en SXC. Python Enregistrez XLSB en SXC. Enregistrez XLSB sous 076112. 3481 en utilisant la bibliothèque Excel Python.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert XLSB to SXC in Python Excel Library., Save XLSB to SXC using Python Excel Library., Python XLSB to SXC saveformat., XLSB to SXC Converter., Python Save XLSB as SXC]
+description: Aspose Excel. Cette solution complète offre aux développeurs Python une approche entièrement intégrée pour convertir le format XLSB au format SXC, permettant un enregistrement transparent des données XLSB au format SXC à l'aide de la bibliothèque Aspose.Cells, le tout grâce à un code Python efficace et personnalisable.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart XLSB files to SXC Converter for Python., Convert XLSB to SXC in Python., XLSB files to SXC Conversion in Python., Leverage intelligent data processing to automatically parse and save XLSB into SXC format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Convertir XLSB en SXC dans la bibliothèque Excel Python" h2="Bibliothèque Excel Python haute vitesse pour convertir XLSB en SXC. Il s\'agit d\'une solution logicielle professionnelle pour importer et exporter XLSB, SXC et de nombreux autres formats utilisant Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="SXC" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -27,7 +27,7 @@ Suivez les étapes simples pour convertir XLSB en SXC. Téléchargez votre fichi
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Exemple de code pour convertir XLSB en SXC via la bibliothèque Excel Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsb" outformat="sxc" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="Exemple de code pour convertir XLSB en SXC via la bibliothèque Excel Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="xlsb" outformat="sxc" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="Comment convertir XLSB en SXC via Python" %}}
 
@@ -88,8 +88,8 @@ Aspose.Cells for Python via Java est indépendant de la plate-forme API et peut 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xlsb-to-md/" name="XLSB AU MD" description="Langage de démarque" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xlsb-to-mhtml/" name="XLSB AU MHTML" description="Format d\'archive de pages Web" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xlsb-to-ods/" name="XLSB AU ODS" description="Fichier de feuille de calcul OpenDocument" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xlsb-to-pdf/" name="XLSB AU PDF" description="Portable Document Format" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xlsb-to-png/" name="XLSB AU PNG" description="Portable Network Graphics" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xlsb-to-pdf/" name="XLSB AU PDF" description="Format de document portable" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xlsb-to-png/" name="XLSB AU PNG" description="Graphiques de réseau portables" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xlsb-to-svg/" name="XLSB AU SVG" description="Image Vectorielle" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xlsb-to-tiff/" name="XLSB AU TIFF" description="Format d\'image balisé" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xlsb-to-tsv/" name="XLSB AU TSV" description="Valeurs séparées par des tabulations" >}}

@@ -1,7 +1,7 @@
 ---
 title: Python HTM ke ET - Konverter HTM ke ET
-description: Aspose Unggul. Python Unggul. Konversi HTM ke ET dengan cepat dan mudah dengan Aspose.Cells. Python HTM ke ET. Python Simpan HTM ke ET. Simpan HTM sebagai ET menggunakan Perpustakaan Excel Python.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert HTM to ET in Python Excel Library., Save HTM to ET using Python Excel Library., Python HTM to ET saveformat., HTM to ET Converter., Python Save HTM as ET]
+description: Aspose Excel. Solusi komprehensif ini menyediakan Python pengembang dengan pendekatan terintegrasi penuh untuk mengkonversi format HTM ke ET, memungkinkan penyimpanan data HTM ke format ET secara lancar menggunakan pustaka Aspose.Cells, semuanya melalui kode Python yang efisien dan dapat disesuaikan.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart HTM files to ET Converter for Python., Convert HTM to ET in Python., HTM files to ET Conversion in Python., Leverage intelligent data processing to automatically parse and save HTM into ET format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Konversikan HTM ke ET di Perpustakaan Excel Python" h2="Pustaka excel Python berkecepatan tinggi untuk mengonversi HTM ke ET. Gunakan konversi excel kami API untuk mengembangkan perangkat lunak independen platform tingkat tinggi di Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="ET" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -28,7 +28,7 @@ Ikuti langkah mudah untuk mengonversi HTM ke ET. Unggah file HTM Anda, lalu simp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Contoh Kode untuk Mengonversi HTM ke ET melalui Perpustakaan Excel Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="htm" outformat="et" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Contoh Kode untuk Mengonversi HTM ke ET melalui Perpustakaan Excel Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="htm" outformat="et" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="Cara Mengonversi HTM ke ET" %}}
 
@@ -82,7 +82,7 @@ Aspose.Cells for Python melalui NET tidak bergantung pada platform API dan dapat
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/htm-to-bmp/" name="HTM KE BMP" description="Gambar bitmap" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/htm-to-emf/" name="HTM KE EMF" description="Format Metafile yang Ditingkatkan" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/htm-to-gif/" name="HTM KE GIF" description="Format Pertukaran Grafis" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/htm-to-html/" name="HTM KE HTML" description="Hyper Text Markup Language" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/htm-to-html/" name="HTM KE HTML" description="Bahasa Markup Teks Hiper" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/htm-to-md/" name="HTM KE MD" description="Bahasa Penurunan Harga" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/htm-to-mhtml/" name="HTM KE MHTML" description="Format Arsip Halaman Web" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/htm-to-ods/" name="HTM KE ODS" description="File Lembar Bentang OpenDocument" >}}

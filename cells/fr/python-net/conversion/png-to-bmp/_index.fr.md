@@ -1,7 +1,7 @@
 ---
 title: Convertisseur Python PNG à BMP - PNG à BMP
-description: Aspose Exceller. Python Exceller. Convertissez PNG en BMP rapidement et facilement avec Aspose.Cells. Python PNG en BMP. Python Enregistrez PNG en BMP. Enregistrez PNG sous 076112. 3481 en utilisant la bibliothèque Excel Python.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert PNG to BMP in Python Excel Library., Save PNG to BMP using Python Excel Library., Python PNG to BMP saveformat., PNG to BMP Converter., Python Save PNG as BMP]
+description: Aspose Excel. Cette solution complète offre aux développeurs Python une approche entièrement intégrée pour convertir le format PNG au format BMP, permettant un enregistrement transparent des données PNG au format BMP à l'aide de la bibliothèque Aspose.Cells, le tout grâce à un code Python efficace et personnalisable.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart PNG files to BMP Converter for Python., Convert PNG to BMP in Python., PNG files to BMP Conversion in Python., Leverage intelligent data processing to automatically parse and save PNG into BMP format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Convertir PNG en BMP dans la bibliothèque Excel Python" h2="Bibliothèque Excel Python haute vitesse pour convertir PNG en BMP. Utilisez notre conversion Excel API pour développer un logiciel de haut niveau indépendant de la plate-forme en Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="BMP" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -28,7 +28,7 @@ Suivez les étapes simples pour convertir PNG en BMP. Téléchargez votre fichie
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Exemple de code pour convertir PNG en BMP via la bibliothèque Excel Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="png" outformat="bmp" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Exemple de code pour convertir PNG en BMP via la bibliothèque Excel Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="png" outformat="bmp" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="Comment convertir PNG en BMP" %}}
 
@@ -86,7 +86,7 @@ Aspose.Cells for Python via NET est indépendant de la plate-forme API et peut �
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/png-to-md/" name="PNG AU MD" description="Langage de démarque" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/png-to-mhtml/" name="PNG AU MHTML" description="Format d\'archive de pages Web" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/png-to-ods/" name="PNG AU ODS" description="Fichier de feuille de calcul OpenDocument" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/png-to-pdf/" name="PNG AU PDF" description="Portable Document Format" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/png-to-pdf/" name="PNG AU PDF" description="Format de document portable" >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/png-to-svg/" name="PNG AU SVG" description="Image Vectorielle" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/png-to-tiff/" name="PNG AU TIFF" description="Format d\'image balisé" >}}

@@ -1,7 +1,7 @@
 ---
 title: Python JPG ke XLAM - Konverter JPG ke XLAM
-description: Aspose Unggul. Python Unggul. Konversi JPG ke XLAM dengan cepat dan mudah dengan Aspose.Cells. Python JPG menjadi XLAM. Python Simpan JPG ke XLAM. Simpan JPG sebagai XLAM menggunakan Python Perpustakaan Excel.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert JPG to XLAM in Python Excel Library., Save JPG to XLAM using Python Excel Library., Python JPG to XLAM saveformat., JPG to XLAM Converter., Python Save JPG as XLAM]
+description: Aspose Excel. Solusi komprehensif ini menyediakan Python pengembang dengan pendekatan terintegrasi penuh untuk mengkonversi JPG ke format XLAM, memungkinkan penyimpanan data JPG ke format XLAM dengan lancar menggunakan pustaka Aspose.Cells, semuanya melalui kode Python yang efisien dan dapat disesuaikan.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart JPG files to XLAM Converter for Python., Convert JPG to XLAM in Python., JPG files to XLAM Conversion in Python., Leverage intelligent data processing to automatically parse and save JPG into XLAM format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Ubah JPG menjadi XLAM di Perpustakaan Excel Python" h2="Pustaka excel Python berkecepatan tinggi untuk mengonversi JPG ke XLAM. Ini adalah solusi perangkat lunak profesional untuk mengimpor dan mengekspor JPG, XLAM, dan banyak format lainnya menggunakan Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLAM" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -27,7 +27,7 @@ Ikuti langkah mudah untuk mengubah JPG ke XLAM. Unggah file JPG Anda, lalu simpa
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Contoh Kode untuk Mengonversi JPG ke XLAM melalui Perpustakaan Excel Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="jpg" outformat="xlam" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="Contoh Kode untuk Mengonversi JPG ke XLAM melalui Perpustakaan Excel Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="jpg" outformat="xlam" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="Cara Convert JPG ke XLAM lewat Python" %}}
 
@@ -84,7 +84,7 @@ Aspose.Cells for Python via Java tidak bergantung pada platform API dan dapat di
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/jpg-to-bmp/" name="JPG KE BMP" description="Gambar bitmap" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/jpg-to-emf/" name="JPG KE EMF" description="Format Metafile yang Ditingkatkan" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/jpg-to-gif/" name="JPG KE GIF" description="Format Pertukaran Grafis" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/jpg-to-html/" name="JPG KE HTML" description="Hyper Text Markup Language" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/jpg-to-html/" name="JPG KE HTML" description="Bahasa Markup Teks Hiper" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/jpg-to-md/" name="JPG KE MD" description="Bahasa Penurunan Harga" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/jpg-to-mhtml/" name="JPG KE MHTML" description="Format Arsip Halaman Web" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/jpg-to-ods/" name="JPG KE ODS" description="File Lembar Bentang OpenDocument" >}}

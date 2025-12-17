@@ -1,7 +1,7 @@
 ---
 title: Python XLT ke PRN - XLT ke PRN Konverter
-description: Aspose Unggul. Python Unggul. Ubah XLT menjadi PRN dengan cepat dan mudah menggunakan Aspose.Cells. Python XLT menjadi PRN. Python Simpan XLT ke PRN. Simpan XLT sebagai PRN menggunakan Perpustakaan Excel Python.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert XLT to PRN in Python Excel Library., Save XLT to PRN using Python Excel Library., Python XLT to PRN saveformat., XLT to PRN Converter., Python Save XLT as PRN]
+description: Aspose Excel. Solusi komprehensif ini menyediakan Python pengembang dengan pendekatan terintegrasi penuh untuk mengkonversi XLT ke format PRN, memungkinkan penyimpanan data XLT ke format PRN dengan lancar menggunakan pustaka Aspose.Cells, semuanya melalui kode Python yang efisien dan dapat disesuaikan.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart XLT files to PRN Converter for Python., Convert XLT to PRN in Python., XLT files to PRN Conversion in Python., Leverage intelligent data processing to automatically parse and save XLT into PRN format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Ubah XLT menjadi PRN di Perpustakaan Excel Python" h2="Pustaka excel Python berkecepatan tinggi untuk mengonversi XLT ke PRN. Ini adalah solusi perangkat lunak profesional untuk mengimpor dan mengekspor XLT, PRN, dan banyak format lainnya menggunakan Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="PRN" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -27,7 +27,7 @@ Ikuti langkah mudah untuk mengkonversi XLT ke PRN. Unggah file XLT Anda, lalu si
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Contoh Kode untuk Mengonversi XLT ke PRN melalui Perpustakaan Excel Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlt" outformat="prn" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="Contoh Kode untuk Mengonversi XLT ke PRN melalui Perpustakaan Excel Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="xlt" outformat="prn" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="Cara Convert XLT ke PRN lewat Python" %}}
 
@@ -84,7 +84,7 @@ Aspose.Cells for Python via Java tidak bergantung pada platform API dan dapat di
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xlt-to-bmp/" name="XLT SAMPAI BMP" description="Gambar bitmap" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xlt-to-emf/" name="XLT SAMPAI EMF" description="Format Metafile yang Ditingkatkan" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xlt-to-gif/" name="XLT SAMPAI GIF" description="Format Pertukaran Grafis" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xlt-to-html/" name="XLT SAMPAI HTML" description="Hyper Text Markup Language" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xlt-to-html/" name="XLT SAMPAI HTML" description="Bahasa Markup Teks Hiper" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xlt-to-md/" name="XLT KE MD" description="Bahasa Penurunan Harga" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xlt-to-mhtml/" name="XLT SAMPAI MHTML" description="Format Arsip Halaman Web" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xlt-to-ods/" name="XLT SAMPAI ODS" description="File Lembar Bentang OpenDocument" >}}

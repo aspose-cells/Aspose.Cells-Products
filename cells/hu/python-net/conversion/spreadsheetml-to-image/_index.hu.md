@@ -1,7 +1,7 @@
 ---
 title: Python SPREADSHEETML-ből IMAGE-be – SPREADSHEETML-ből IMAGE-be konvertáló
-description: Aspose Excel. Python Excel. A SPREADSHEETML fájlt gyorsan és egyszerűen konvertálja IMAGE formátumba a Aspose.Cells. Python SPREADSHEETML-ből IMAGE formátumba. Python SPREADSHEETML mentése az IMAGE mappába. Mentse a SPREADSHEETML fájlt IMAGE formátumban a Python Excel Library használatával.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert SPREADSHEETML to IMAGE in Python Excel Library., Save SPREADSHEETML to IMAGE using Python Excel Library., Python SPREADSHEETML to IMAGE saveformat., SPREADSHEETML to IMAGE Converter., Python Save SPREADSHEETML as IMAGE]
+description: Aspose Excel. Ez az átfogó megoldás teljesen integrált megközelítést biztosít a Python fejlesztők számára a SPREADSHEETML formátum IMAGE formátumba konvertálásához, lehetővé téve a SPREADSHEETML adatok zökkenőmentes mentését IMAGE formátumba a Aspose.Cells könyvtár használatával, mindezt hatékony és testreszabható Python kódon keresztül.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart SPREADSHEETML files to IMAGE Converter for Python., Convert SPREADSHEETML to IMAGE in Python., SPREADSHEETML files to IMAGE Conversion in Python., Leverage intelligent data processing to automatically parse and save SPREADSHEETML into IMAGE format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Konvertálja a SPREADSHEETML fájlt IMAGE formátumba a Python Excel könyvtárban" h2="Nagy sebességű Python excel könyvtár a SPREADSHEETML IMAGE formátumba konvertálásához. Használja a API-es excel konverziónkat magas szintű, platformfüggetlen szoftver fejlesztéséhez a Python-ben." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="IMAGE" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -28,7 +28,7 @@ Kövesse az egyszerű lépéseket a SPREADSHEETML IMAGE formátumba konvertálá
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Mintakód a SPREADSHEETML IMAGE formátumba konvertálásához a Python Excel Library segítségével" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xml" outformat="png" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Mintakód a SPREADSHEETML IMAGE formátumba konvertálásához a Python Excel Library segítségével" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="xml" outformat="png" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="Hogyan lehet SPREADSHEETML-t konvertálni IMAGE-re" %}}
 
@@ -82,8 +82,8 @@ A Python-es csomagjainkat PyPi-tárolókban tároljuk.
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/spreadsheetml-to-bmp/" name="TÁBLÁZAT A BMP-ES számra" description="Bittérképes kép" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/spreadsheetml-to-emf/" name="TÁBLÁZAT A EMF-ES számra" description="Továbbfejlesztett metafájl formátum" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/spreadsheetml-to-gif/" name="TÁBLÁZAT A GIF-ES számra" description="Grafikus csereformátum" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/spreadsheetml-to-html/" name="TÁBLÁZAT A HTML-ES számra" description="Hyper Text Markup Language" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/spreadsheetml-to-md/" name="SPREADSHEETML TO MD" description="Markdown Language" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/spreadsheetml-to-html/" name="TÁBLÁZAT A HTML-ES számra" description="Hiperszöveg-jelölőnyelv" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/spreadsheetml-to-md/" name="TÁBLÁZAT MD-BE" description="Markdown nyelv" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/spreadsheetml-to-mhtml/" name="TÁBLÁZAT A MHTML-ES számra" description="Weboldal archív formátuma" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/spreadsheetml-to-ods/" name="TÁBLÁZAT A ODS-ES számra" description="OpenDocument táblázatfájl" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/spreadsheetml-to-pdf/" name="TÁBLÁZAT A PDF-ES számra" description="Hordozható dokumentum formátum" >}}

@@ -1,7 +1,7 @@
 ---
 title: Créer TSV - Créer un fichier TSV dans C++
-description: Aspose Exceller. C++ Créez un fichier TSV rapidement et facilement avec Aspose.Cells. Générez un fichier TSV à l'aide de C++. Créez TSV dans C++. C++ TSV Creater.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ Create TSV file., Generate TSV file in C++., Create TSV file using C++., Write data to TSV file via C++., Create a TSV file in C++., C++ Generate a TSV file., C++ TSV Creater]
+description: Aspose Excel. Générez et manipulez facilement des fichiers TSV grâce à la bibliothèque Aspose.Cells for C++. Cette puissante bibliothèque API offre une solution simplifiée et efficace pour créer, modifier et gérer des fichiers TSV directement dans vos applications C++, répondant ainsi avec une grande précision aux besoins spécifiques des développeurs.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ Create TSV file., Generate TSV file in C++., Write data to TSV file via C++., C++ TSV Creater., Aspose.Cells for C++ is a powerful library that enables developers to programmatically create, generate, and manipulate TSV files in C++]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Créer un fichier TSV dans C++" h2="Création de fichiers TSV natifs et hautes performances par programme sans Microsoft Office à l\'aide de la bibliothèque C++." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" sourceAdditionalConversionTag="" additionalConversionTag="TSV" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -11,7 +11,7 @@ keywords: [Aspose Excel., C++ Aspose.Cells., C++ Create TSV file., Generate TSV 
 
 {{% blocks/products/pf/agp/content h2="Créer un fichier TSV à l\'aide de C++" %}}
 
- Comment créer le fichier TSV ? Avec la bibliothèque Aspose.Cells for C++, vous pouvez facilement créer un fichier TSV par programme avec quelques lignes de code.[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) est capable de créer des applications multiplateformes avec la possibilité de générer, modifier, convertir, restituer et imprimer tous les fichiers Excel. C++ Excel API convertit non seulement entre les formats de feuilles de calcul, il peut également restituer des fichiers Excel sous forme d'images, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT et plus, ce qui en fait un choix parfait pour échanger des documents dans des formats standard de l'industrie. Vous pouvez télécharger sa dernière version directement, ouvrez simplement[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) Gestionnaire de packages, recherchez Aspose.Cells.Cpp et installez. Vous pouvez également utiliser la commande suivante à partir de la console Package Manager.
+ Comment créer le fichier TSV ? Avec la bibliothèque Aspose.Cells for C++, vous pouvez facilement créer un fichier TSV par programme avec quelques lignes de code.[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) est capable de créer des applications multiplateformes avec la possibilité de générer, modifier, convertir, restituer et imprimer tous les fichiers Excel. C++ Excel API convertit non seulement entre les formats de feuilles de calcul, il peut également restituer des fichiers Excel sous forme d'images, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT et plus, ce qui en fait un choix parfait pour échanger des documents dans des formats standard de l'industrie. Vous pouvez télécharger sa dernière version directement, ouvrez simplement[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/)gestionnaire de packages, recherchez Aspose.Cells.Cpp et installez. Vous pouvez également utiliser la commande suivante à partir de la console Package Manager.
 
 {{% blocks/products/pf/agp/code-block title="Commande" offSpacer="true" %}}
 
@@ -37,14 +37,15 @@ PM> Install-Package Aspose.Cells.Cpp
 1.  Créez un objet de la classe Workbook.
 1.  Obtenez la première feuille dans un objet Worksheet.
 1.  Utilisez la méthode Worksheet.GetCells() pour obtenir les cellules de la feuille de calcul dans un objet Cells.
-1. Utilisez la méthode Cells.Get() pour accéder à la cellule souhaitée de la feuille de calcul dans un objet Cell.
+1.  Utilisez la méthode Cells.Get() pour accéder à la cellule souhaitée de la feuille de calcul dans un objet Cell.
 1.  Utilisez la méthode Cell.PutValue() pour saisir la valeur dans la cellule.
-1.  Enregistrez le classeur en tant que fichier .tsv à l'aide de la méthode Save().
+1.  Enregistrez le classeur au format .tsv à l'aide de la méthode Save().
 
 {{% blocks/products/pf/agp/code-block title="L\'exemple de code montre comment créer le fichier TSV dans C++." offSpacer="" %}}
 
 ```cs
 Aspose::Cells::Startup();
+//TIFF format is not supported
 
 // Create an object of the Workbook class.
 Workbook wkb;
@@ -126,7 +127,7 @@ Il existe trois options pour installer « Aspose.Cells for C++ » sur votre syst
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/create/csv/" name="CSV" description="Valeurs séparées par des virgules" >}} 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/create/tsv/" name="TSV" description="Valeurs séparées par des tabulations" >}} 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/create/ods/" name="ODS" description="Feuille de calcul OpenDocument" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/create/pdf/" name="PDF" description="Portable Document Format" >}} 
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/create/pdf/" name="PDF" description="Format de document portable" >}} 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/create/html/" name="HTML" description="Langage Signalétique Hyper Text" >}} 
 
 

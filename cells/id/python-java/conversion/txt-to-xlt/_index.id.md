@@ -1,7 +1,7 @@
 ---
 title: Python TXT hingga XLT - TXT hingga XLT Konverter
-description: Aspose Unggul. Python Unggul. Ubah TXT menjadi XLT dengan cepat dan mudah dengan Aspose.Cells. Python TXT menjadi XLT. Python Simpan TXT menjadi XLT. Simpan TXT sebagai 076112 3481 menggunakan Perpustakaan Excel Python.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert TXT to XLT in Python Excel Library., Save TXT to XLT using Python Excel Library., Python TXT to XLT saveformat., TXT to XLT Converter., Python Save TXT as XLT]
+description: Aspose Excel. Solusi komprehensif ini menyediakan Python pengembang dengan pendekatan terintegrasi penuh untuk mengkonversi TXT ke format XLT, memungkinkan penyimpanan data TXT ke format XLT dengan lancar menggunakan pustaka Aspose.Cells, semuanya melalui kode Python yang efisien dan dapat disesuaikan.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart TXT files to XLT Converter for Python., Convert TXT to XLT in Python., TXT files to XLT Conversion in Python., Leverage intelligent data processing to automatically parse and save TXT into XLT format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Ubah TXT menjadi XLT di Perpustakaan Excel Python" h2="Pustaka excel Python berkecepatan tinggi untuk mengonversi TXT menjadi XLT. Ini adalah solusi perangkat lunak profesional untuk mengimpor dan mengekspor TXT, XLT, dan banyak format lainnya menggunakan Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLT" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -27,7 +27,7 @@ Ikuti langkah mudah untuk mengonversi TXT menjadi XLT. Unggah file TXT Anda, lal
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Contoh Kode untuk Mengonversi TXT menjadi XLT melalui Perpustakaan Excel Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="txt" outformat="xlt" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="Contoh Kode untuk Mengonversi TXT menjadi XLT melalui Perpustakaan Excel Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="txt" outformat="xlt" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="Cara Mengubah TXT menjadi XLT melalui Python" %}}
 
@@ -84,7 +84,7 @@ Aspose.Cells for Python via Java tidak bergantung pada platform API dan dapat di
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/txt-to-bmp/" name="TXT SAMPAI BMP" description="Gambar bitmap" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/txt-to-emf/" name="TXT SAMPAI EMF" description="Format Metafile yang Ditingkatkan" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/txt-to-gif/" name="TXT SAMPAI GIF" description="Format Pertukaran Grafis" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/txt-to-html/" name="TXT SAMPAI HTML" description="Hyper Text Markup Language" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/txt-to-html/" name="TXT SAMPAI HTML" description="Bahasa Markup Teks Hiper" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/txt-to-md/" name="TXT KE MD" description="Bahasa Penurunan Harga" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/txt-to-mhtml/" name="TXT SAMPAI MHTML" description="Format Arsip Halaman Web" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/txt-to-ods/" name="TXT SAMPAI ODS" description="File Lembar Bentang OpenDocument" >}}

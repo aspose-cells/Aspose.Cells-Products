@@ -1,7 +1,7 @@
 ---
 title: Python PRN से ET - PRN से ET कनवर्टर
-description: Aspose Excel. Python Excel. Aspose.Cells के साथ PRN को ET में जल्दी और आसानी से बदलें. Python PRN को ET में बदलें. Python PRN को ET में सेव करें. Python Excel लाइब्रेरी का उपयोग करके PRN को ET के रूप में सेव करें.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert PRN to ET in Python Excel Library., Save PRN to ET using Python Excel Library., Python PRN to ET saveformat., PRN to ET Converter., Python Save PRN as ET]
+description: Aspose Excel. यह पूरा सॉल्यूशन Python डेवलपर्स को PRN को ET फ़ॉर्मेट में बदलने के लिए पूरी तरह से इंटीग्रेटेड तरीका देता है, जिससे Aspose.Cells लाइब्रेरी का इस्तेमाल करके PRN डेटा को ET फ़ॉर्मेट में आसानी से सेव किया जा सकता है, यह सब कुशल और कस्टमाइज़ेबल Python कोड के ज़रिए होता है।
+keywords: [Aspose Excel., Python Aspose.Cells., Smart PRN files to ET Converter for Python., Convert PRN to ET in Python., PRN files to ET Conversion in Python., Leverage intelligent data processing to automatically parse and save PRN into ET format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Python एक्सेल लाइब्रेरी में PRN को ET में बदलें" h2="PRN को ET में बदलने के लिए हाई-स्पीड Python एक्सेल लाइब्रेरी। यह Python का उपयोग करके PRN, ET और कई अन्य प्रारूपों को आयात और निर्यात करने के लिए एक पेशेवर सॉफ़्टवेयर समाधान है।" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="ET" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -27,7 +27,7 @@ PRN को ET में बदलने के लिए आसान चरण�
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Python एक्सेल लाइब्रेरी के माध्यम से PRN को ET में बदलने के लिए नमूना कोड" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="prn" outformat="et" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="Python एक्सेल लाइब्रेरी के माध्यम से PRN को ET में बदलने के लिए नमूना कोड" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="prn" outformat="et" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="Python के माध्यम से PRN को ET में कैसे बदलें" %}}
 

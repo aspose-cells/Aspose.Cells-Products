@@ -1,7 +1,7 @@
 ---
 title: Python SPREADSHEETML-ből TIFF-be - SPREADSHEETML-ből TIFF-be konvertáló
-description: Aspose Excel. Python Excel. A SPREADSHEETML-t gyorsan és egyszerűen konvertálja TIFF-re a Aspose.Cells-es számmal. Python SPREADSHEETML a TIFF-es számmal 481 Excel Library.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert SPREADSHEETML to TIFF in Python Excel Library., Save SPREADSHEETML to TIFF using Python Excel Library., Python SPREADSHEETML to TIFF saveformat., SPREADSHEETML to TIFF Converter., Python Save SPREADSHEETML as TIFF]
+description: Aspose Excel. Ez az átfogó megoldás teljesen integrált megközelítést biztosít a Python fejlesztők számára a SPREADSHEETML TIFF formátumba konvertálásához, lehetővé téve a SPREADSHEETML adatok zökkenőmentes mentését TIFF formátumba a Aspose.Cells könyvtár használatával, mindezt hatékony és testreszabható Python kódon keresztül.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart SPREADSHEETML files to TIFF Converter for Python., Convert SPREADSHEETML to TIFF in Python., SPREADSHEETML files to TIFF Conversion in Python., Leverage intelligent data processing to automatically parse and save SPREADSHEETML into TIFF format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="A SPREADSHEETML konvertálása TIFF-re a Python Excel könyvtárban" h2="Nagy sebességű Python excel könyvtár a SPREADSHEETML TIFF formátumú konvertálásához. Ez egy professzionális szoftvermegoldás a SPREADSHEETML, TIFF és sok más formátum importálásához és exportálásához Python használatával." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="TIFF" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -27,7 +27,7 @@ Kövesse az egyszerű lépéseket a SPREADSHEETML TIFF formátumú konvertálás
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Mintakód a SPREADSHEETML konvertálásához TIFF-re a Python Excel könyvtáron keresztül" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xml" outformat="tiff" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="Mintakód a SPREADSHEETML konvertálásához TIFF-re a Python Excel könyvtáron keresztül" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="xml" outformat="tiff" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="A SPREADSHEETML konvertálása TIFF-re a Python-en keresztül" %}}
 
@@ -84,8 +84,8 @@ Aspose.Cells for Python via Java platformfüggetlen API, és bármilyen platform
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/spreadsheetml-to-bmp/" name="TÁBLÁZAT A BMP-ES számra" description="Bittérképes kép" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/spreadsheetml-to-emf/" name="TÁBLÁZAT A EMF-ES számra" description="Továbbfejlesztett metafájl formátum" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/spreadsheetml-to-gif/" name="TÁBLÁZAT A GIF-ES számra" description="Grafikus csereformátum" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/spreadsheetml-to-html/" name="TÁBLÁZAT A HTML-ES számra" description="Hyper Text Markup Language" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/spreadsheetml-to-md/" name="SPREADSHEETML TO MD" description="Markdown Language" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/spreadsheetml-to-html/" name="TÁBLÁZAT A HTML-ES számra" description="Hiperszöveg-jelölőnyelv" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/spreadsheetml-to-md/" name="TÁBLÁZAT MD-BE" description="Markdown nyelv" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/spreadsheetml-to-mhtml/" name="TÁBLÁZAT A MHTML-ES számra" description="Weboldal archív formátuma" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/spreadsheetml-to-ods/" name="TÁBLÁZAT A ODS-ES számra" description="OpenDocument táblázatfájl" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/spreadsheetml-to-pdf/" name="TÁBLÁZAT A PDF-ES számra" description="Hordozható dokumentum formátum" >}}

@@ -1,7 +1,7 @@
 ---
 title: MD létrehozása – MD-fájl létrehozása a Python-ben
-description: Aspose Excel. Python Excel. Python Hozzon létre MD-fájlt gyorsan és egyszerűen a Aspose.Cells-es számmal. Hozzon létre MD-fájlt a Python Excel Library segítségével. Hozzon létre MD-t a Python Excel könyvtárban. Python MD Creater.
-keywords: [Aspose Python Excel., Python Aspose.Cells., Python Create MD file., Generate MD file in Python Excel Library., Create MD file using Python Excel Library., Write data to MD file via Python Excel Library., Create a MD file in Python Excel Library., Python Generate a MD file., Python MD Creater]
+description: Aspose Excel. Könnyedén generálhat és kezelhet MD fájlokat a Aspose.Cells for Python via .NET könyvtárral. Ez a nagy teljesítményű API leegyszerűsített és hatékony megoldást kínál MD fájlok létrehozására, szerkesztésére és kezelésére közvetlenül a Python alkalmazásain belül, nagy pontossággal kielégítve a fejlesztők speciális igényeit.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Create MD file., Generate MD file in Python., Write data to MD file via Python., Python MD Creater., Aspose.Cells for Python via .NET is a powerful library that enables developers to programmatically create, generate, and manipulate MD files in Python]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Hozzon létre MD-fájlt a Python Excel könyvtárban" h2="Nagy sebességű Python Excel-könyvtár MD-fájl létrehozásához. Használja a API-es excel konverziónkat magas szintű, platformfüggetlen szoftver fejlesztéséhez a Python-ben." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="MD" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -97,9 +97,9 @@ A Python-es csomagjainkat PyPi-tárolókban tároljuk.
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/create/xltm/" name="XLTM" description="Excel makró-engedélyezett sablon" >}} 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/create/csv/" name="CSV" description="Vesszővel elválasztott értékek" >}} 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/create/tsv/" name="TSV" description="Tabulátorral elválasztott értékek" >}} 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/create/ods/" name="ODS" description="OpenDocument Spreadsheet" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/create/ods/" name="ODS" description="OpenDocument táblázatkezelő" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/create/pdf/" name="PDF" description="Hordozható dokumentum formátum" >}} 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/create/html/" name="HTML" description="Hyper Text Markup Language" >}} 
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/create/html/" name="HTML" description="Hiperszöveg-jelölőnyelv" >}} 
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

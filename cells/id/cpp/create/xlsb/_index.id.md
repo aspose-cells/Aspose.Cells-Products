@@ -1,7 +1,7 @@
 ---
 title: Buat XLSB - Buat file XLSB di C++
-description: Aspose Unggul. C++ Buat file XLSB dengan cepat dan mudah dengan Aspose.Cells. Hasilkan file XLSB menggunakan C++. Buat XLSB di C++. C++ XLSB Creater.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ Create XLSB file., Generate XLSB file in C++., Create XLSB file using C++., Write data to XLSB file via C++., Create a XLSB file in C++., C++ Generate a XLSB file., C++ XLSB Creater]
+description: Aspose Excel. Hasilkan dan manipulasi file XLSB dengan mudah menggunakan pustaka Aspose.Cells for C++. Pustaka API yang canggih ini menyediakan solusi yang efisien dan mudah untuk membuat, mengedit, dan mengelola file XLSB langsung di dalam aplikasi C++ Anda, memenuhi kebutuhan pengembang tertentu dengan presisi tinggi.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ Create XLSB file., Generate XLSB file in C++., Write data to XLSB file via C++., C++ XLSB Creater., Aspose.Cells for C++ is a powerful library that enables developers to programmatically create, generate, and manipulate XLSB files in C++]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Buat File XLSB di C++" h2="Pembuatan file XLSB asli dan berkinerja tinggi secara terprogram tanpa Micorsoft Office menggunakan perpustakaan C++." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSB" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -11,7 +11,7 @@ keywords: [Aspose Excel., C++ Aspose.Cells., C++ Create XLSB file., Generate XLS
 
 {{% blocks/products/pf/agp/content h2="Buat File XLSB Menggunakan C++" %}}
 
- Bagaimana cara membuat file XLSB? Dengan pustaka Aspose.Cells for C++, Anda dapat dengan mudah membuat file XLSB secara terprogram dengan beberapa baris kode.[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) mampu membangun aplikasi lintas platform dengan kemampuan untuk menghasilkan, memodifikasi, mengkonversi, merender dan mencetak semua file Excel. C++ Excel API tidak hanya mengkonversi antar format spreadsheet, tetapi juga dapat merender file Excel sebagai gambar, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT dan banyak lagi, sehingga menjadikannya pilihan sempurna untuk bertukar dokumen dalam format standar industri. Anda bisa langsung mendownload versi terbarunya, buka saja[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) manajer paket, cari Aspose.Cells.Cpp dan instal. Anda juga dapat menggunakan perintah berikut dari Package Manager Console.
+ Bagaimana cara membuat file XLSB? Dengan pustaka Aspose.Cells for C++, Anda dapat dengan mudah membuat file XLSB secara terprogram dengan beberapa baris kode.[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) mampu membangun aplikasi lintas platform dengan kemampuan untuk menghasilkan, memodifikasi, mengkonversi, merender dan mencetak semua file Excel. C++ Excel API tidak hanya mengkonversi antar format spreadsheet, tetapi juga dapat merender file Excel sebagai gambar, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT dan banyak lagi, sehingga menjadikannya pilihan sempurna untuk bertukar dokumen dalam format standar industri. Anda bisa langsung mendownload versi terbarunya, buka saja[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/)manajer paket, cari Aspose.Cells.Cpp dan instal. Anda juga dapat menggunakan perintah berikut dari Package Manager Console.
 
 {{% blocks/products/pf/agp/code-block title="Memerintah" offSpacer="true" %}}
 
@@ -37,7 +37,7 @@ PM> Install-Package Aspose.Cells.Cpp
 1.  Buat objek kelas Buku Kerja.
 1.  Masukkan lembar pertama ke dalam objek Lembar Kerja.
 1.  Gunakan metode Worksheet.GetCells() untuk memasukkan sel lembar kerja menjadi objek Cells.
-1. Gunakan metode Cells.Get() untuk mengakses sel lembar kerja yang diinginkan menjadi objek Cell.
+1.  Gunakan metode Cells.Get() untuk mengakses sel lembar kerja yang diinginkan menjadi objek Cell.
 1.  Gunakan metode Cell.PutValue() untuk memasukkan nilai ke dalam sel.
 1.  Simpan buku kerja sebagai file .xlsb menggunakan metode Save().
 
@@ -45,6 +45,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 ```cs
 Aspose::Cells::Startup();
+//TIFF format is not supported
 
 // Create an object of the Workbook class.
 Workbook wkb;
@@ -127,7 +128,7 @@ Ada tiga opsi untuk menginstal "Aspose.Cells for C++" ke sistem Anda. Silakan pi
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/create/tsv/" name="TSV" description="Nilai yang Dipisahkan Tab" >}} 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/create/ods/" name="ODS" description="Lembar Bentang OpenDocument" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/create/pdf/" name="PDF" description="Format Dokumen Portabel" >}} 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/create/html/" name="HTML" description="Hyper Text Markup Language" >}} 
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/create/html/" name="HTML" description="Bahasa Markup Teks Hiper" >}} 
 
 
 {{< /blocks/products/pf/agp/other-supported-section >}}

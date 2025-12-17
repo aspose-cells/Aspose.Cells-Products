@@ -1,7 +1,7 @@
 ---
 title: Créer XLT - Créer un fichier XLT dans Python
-description: Aspose Exceller. Python Exceller. Python Créez un fichier XLT rapidement et facilement avec Aspose.Cells. Générez un fichier XLT à l'aide de la bibliothèque Excel Python. Créez XLT dans la bibliothèque Excel Python. Python XLT Créateur.
-keywords: [Aspose Python Excel., Python Aspose.Cells., Python Create XLT file., Generate XLT file in Python Excel Library., Create XLT file using Python Excel Library., Write data to XLT file via Python Excel Library., Create a XLT file in Python Excel Library., Python Generate a XLT file., Python XLT Creater]
+description: Aspose Excel. Générez et manipulez facilement des fichiers XLT grâce à la bibliothèque Aspose.Cells for Python via .NET. Cette puissante bibliothèque API offre une solution simplifiée et efficace pour créer, modifier et gérer des fichiers XLT directement dans vos applications Python, répondant ainsi avec une grande précision aux besoins spécifiques des développeurs.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Create XLT file., Generate XLT file in Python., Write data to XLT file via Python., Python XLT Creater., Aspose.Cells for Python via .NET is a powerful library that enables developers to programmatically create, generate, and manipulate XLT files in Python]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Créer un fichier XLT dans la bibliothèque Excel Python" h2="Bibliothèque Excel Python haute vitesse pour créer le fichier XLT. Utilisez notre conversion Excel API pour développer un logiciel de haut niveau indépendant de la plate-forme en Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLT" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -98,7 +98,7 @@ Nous hébergeons nos packages Python dans des référentiels PyPi.
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/create/csv/" name="CSV" description="Valeurs séparées par des virgules" >}} 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/create/tsv/" name="TSV" description="Valeurs séparées par des tabulations" >}} 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/create/ods/" name="ODS" description="Feuille de calcul OpenDocument" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/create/pdf/" name="PDF" description="Portable Document Format" >}} 
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/create/pdf/" name="PDF" description="Format de document portable" >}} 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/create/html/" name="HTML" description="Langage Signalétique Hyper Text" >}} 
 
 {{< /blocks/products/pf/agp/other-supported-section >}}

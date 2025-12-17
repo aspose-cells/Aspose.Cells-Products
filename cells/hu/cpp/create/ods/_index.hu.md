@@ -1,7 +1,7 @@
 ---
 title: ODS létrehozása – ODS fájl létrehozása a C++-ben
-description: Aspose Excel. C++ Hozzon létre ODS fájlt gyorsan és egyszerűen a Aspose.Cells segítségével. Hozzon létre ODS fájlt a C++ használatával. Hozzon létre ODS-et a C++-ben. C++3481 Létrehozása.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ Create ODS file., Generate ODS file in C++., Create ODS file using C++., Write data to ODS file via C++., Create a ODS file in C++., C++ Generate a ODS file., C++ ODS Creater]
+description: Aspose Excel. Könnyedén generálhat és kezelhet ODS fájlokat a Aspose.Cells for C++ könyvtárral. Ez a nagy teljesítményű API leegyszerűsített és hatékony megoldást kínál a ODS fájlok létrehozására, szerkesztésére és kezelésére közvetlenül a C++ alkalmazásokban, nagy pontossággal kielégítve a fejlesztők speciális igényeit.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ Create ODS file., Generate ODS file in C++., Write data to ODS file via C++., C++ ODS Creater., Aspose.Cells for C++ is a powerful library that enables developers to programmatically create, generate, and manipulate ODS files in C++]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Hozzon létre ODS fájlt a C++ helyen" h2="Natív és nagy teljesítményű ODS fájl létrehozása programozottan a Micorsoft Office nélkül a C++ könyvtár használatával." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" sourceAdditionalConversionTag="" additionalConversionTag="ODS" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -11,7 +11,7 @@ keywords: [Aspose Excel., C++ Aspose.Cells., C++ Create ODS file., Generate ODS 
 
 {{% blocks/products/pf/agp/content h2="Hozzon létre ODS fájlt a C++ használatával" %}}
 
- Hogyan lehet létrehozni a ODS fájlt? A Aspose.Cells for C++ könyvtárral könnyedén létrehozhat ODS fájlt programozottan néhány sornyi kóddal.[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) képes többplatformos alkalmazásokat létrehozni, módosítani, konvertálni, renderelni és kinyomtatni az összes Excel fájlt. C++ Az Excel API nemcsak a táblázatformátumok között konvertál, hanem Excel-fájlokat is képes megjeleníteni képként, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT és egyebekként, így tökéletes választás a szabványos formátumú dokumentumok cseréjéhez. A legújabb verziót közvetlenül letöltheti, csak nyissa meg[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) csomagkezelő, keresse meg a Aspose.Cells.Cpp címet, és telepítse. A következő parancsot is használhatja a Package Manager konzolból.
+ Hogyan lehet létrehozni a ODS fájlt? A Aspose.Cells for C++ könyvtárral könnyedén létrehozhat ODS fájlt programozottan néhány sornyi kóddal.[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) képes többplatformos alkalmazások létrehozására, amelyek képesek az összes Excel fájl generálására, módosítására, konvertálására, renderelésére és nyomtatására. C++ Az Excel API nemcsak a táblázatformátumok között konvertál, hanem Excel-fájlokat is képes megjeleníteni képként, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT és egyebekként, így tökéletes választás a szabványos formátumú dokumentumok cseréjéhez. A legújabb verziót közvetlenül letöltheti, csak nyissa meg[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/)csomagkezelő, keresse meg a Aspose.Cells.Cpp címet, és telepítse. A következő parancsot is használhatja a Package Manager konzolból.
 
 {{% blocks/products/pf/agp/code-block title="Parancs" offSpacer="true" %}}
 
@@ -37,14 +37,15 @@ PM> Install-Package Aspose.Cells.Cpp
 1.  Hozzon létre egy objektumot a Munkafüzet osztályból.
 1.  Szerelje be az első lapot egy munkalap objektumba.
 1.  Használja a Worksheet.GetCells() metódust, hogy a munkalap celláit egy Cells objektumba helyezze.
-1. Használja a Cells.Get() metódust a munkalap kívánt cellájának eléréséhez egy Cell objektumban.
+1.  Használja a Cells.Get() metódust a munkalap kívánt cellájának eléréséhez egy Cell objektumban.
 1.  Használja a Cell.PutValue() metódust az érték beviteléhez a cellába.
-1.  Mentse a munkafüzetet .ods fájlként a Mentés() metódussal.
+1.  Mentse el a munkafüzetet .ods fájlként a Save() metódussal.
 
 {{% blocks/products/pf/agp/code-block title="A mintakód megmutatja, hogyan kell létrehozni a ODS fájlt a C++-ben." offSpacer="" %}}
 
 ```cs
 Aspose::Cells::Startup();
+//TIFF format is not supported
 
 // Create an object of the Workbook class.
 Workbook wkb;
@@ -125,9 +126,9 @@ Három lehetőség közül választhat a „Aspose.Cells for C++” telepítés�
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/create/xltm/" name="XLTM" description="Excel makró-engedélyezett sablon" >}} 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/create/csv/" name="CSV" description="Vesszővel elválasztott értékek" >}} 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/create/tsv/" name="TSV" description="Tabulátorral elválasztott értékek" >}} 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/create/ods/" name="ODS" description="OpenDocument Spreadsheet" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/create/ods/" name="ODS" description="OpenDocument táblázatkezelő" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/create/pdf/" name="PDF" description="Hordozható dokumentum formátum" >}} 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/create/html/" name="HTML" description="Hyper Text Markup Language" >}} 
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/create/html/" name="HTML" description="Hiperszöveg-jelölőnyelv" >}} 
 
 
 {{< /blocks/products/pf/agp/other-supported-section >}}

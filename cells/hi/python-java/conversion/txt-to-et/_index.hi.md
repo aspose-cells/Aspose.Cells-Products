@@ -1,7 +1,7 @@
 ---
 title: Python TXT से ET - TXT से ET कनवर्टर
-description: Aspose Excel. Python Excel. Aspose.Cells के साथ TXT को ET में जल्दी और आसानी से बदलें. Python TXT को ET में बदलें. Python TXT को ET में सहेजें. Python Excel लाइब्रेरी का उपयोग करके TXT को ET के रूप में सहेजें.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert TXT to ET in Python Excel Library., Save TXT to ET using Python Excel Library., Python TXT to ET saveformat., TXT to ET Converter., Python Save TXT as ET]
+description: Aspose Excel. यह पूरा सॉल्यूशन Python डेवलपर्स को TXT को ET फ़ॉर्मेट में बदलने के लिए पूरी तरह से इंटीग्रेटेड तरीका देता है, जिससे TXT डेटा को Aspose.Cells लाइब्रेरी का इस्तेमाल करके ET फ़ॉर्मेट में आसानी से सेव किया जा सकता है, यह सब कुशल और कस्टमाइज़ेबल Python कोड के ज़रिए होता है।
+keywords: [Aspose Excel., Python Aspose.Cells., Smart TXT files to ET Converter for Python., Convert TXT to ET in Python., TXT files to ET Conversion in Python., Leverage intelligent data processing to automatically parse and save TXT into ET format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="TXT को Python Excel लाइब्रेरी में ET में बदलें" h2="TXT को ET में बदलने के लिए हाई-स्पीड Python एक्सेल लाइब्रेरी। यह Python का उपयोग करके TXT, ET और कई अन्य प्रारूपों को आयात और निर्यात करने के लिए एक पेशेवर सॉफ़्टवेयर समाधान है।" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="ET" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -27,7 +27,7 @@ TXT को ET में बदलने के लिए आसान चरण�
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="TXT को ET में बदलने के लिए नमूना कोड Python एक्सेल लाइब्रेरी के माध्यम से" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="txt" outformat="et" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="TXT को ET में बदलने के लिए नमूना कोड Python एक्सेल लाइब्रेरी के माध्यम से" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="txt" outformat="et" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="TXT को Python के माध्यम से ET में कैसे बदलें" %}}
 

@@ -1,7 +1,7 @@
 ---
 title: Python XML-ből MARKDOWN-be – XML-ből MARKDOWN-be konvertáló
-description: Aspose Excel. Python Excel. A Aspose.Cells-es számmal gyorsan és egyszerűen konvertálhat XML-t MARKDOWN-re. Python XML-t MARKDOWN-re. Python XML mentése MARKDOWN-re. XML mentése MARKDOWN-re a 381 Library használatával.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert XML to MARKDOWN in Python Excel Library., Save XML to MARKDOWN using Python Excel Library., Python XML to MARKDOWN saveformat., XML to MARKDOWN Converter., Python Save XML as MARKDOWN]
+description: Aspose Excel. Ez az átfogó megoldás teljesen integrált megközelítést biztosít a Python fejlesztők számára az XML MARKDOWN formátumba konvertálásához, lehetővé téve az XML adatok zökkenőmentes mentését MARKDOWN formátumba a Aspose.Cells könyvtár használatával, mindezt hatékony és testreszabható Python kódon keresztül.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart XML files to MARKDOWN Converter for Python., Convert XML to MARKDOWN in Python., XML files to MARKDOWN Conversion in Python., Leverage intelligent data processing to automatically parse and save XML into MARKDOWN format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Konvertálja az XML-t MARKDOWN-re a Python Excel könyvtárban" h2="Nagysebességű Python excel könyvtár az XML MARKDOWN formátummá konvertálásához. Ez egy professzionális szoftvermegoldás XML, MARKDOWN és sok más formátum importálására és exportálására a Python használatával." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="MARKDOWN" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -27,7 +27,7 @@ Kövesse az egyszerű lépéseket az XML MARKDOWN-re konvertálásához. Töltse
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Mintakód az XML MARKDOWN formátumú konvertálásához a Python Excel Library segítségével" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xml" outformat="md" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="Mintakód az XML MARKDOWN formátumú konvertálásához a Python Excel Library segítségével" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="xml" outformat="md" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="XML konvertálása MARKDOWN-re a Python-en keresztül" %}}
 
@@ -84,8 +84,8 @@ Aspose.Cells for Python via Java platformfüggetlen API, és bármilyen platform
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xml-to-bmp/" name="XML a BMP számra" description="Bittérképes kép" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xml-to-emf/" name="XML a EMF számra" description="Továbbfejlesztett metafájl formátum" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xml-to-gif/" name="XML a GIF számra" description="Grafikus csereformátum" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xml-to-html/" name="XML a HTML számra" description="Hyper Text Markup Language" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xml-to-md/" name="XML-től MD-re" description="Markdown Language" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xml-to-html/" name="XML a HTML számra" description="Hiperszöveg-jelölőnyelv" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xml-to-md/" name="XML-től MD-re" description="Markdown nyelv" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xml-to-mhtml/" name="XML a MHTML számra" description="Weboldal archív formátuma" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xml-to-ods/" name="XML a ODS számra" description="OpenDocument táblázatfájl" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xml-to-pdf/" name="XML a PDF számra" description="Hordozható dokumentum formátum" >}}

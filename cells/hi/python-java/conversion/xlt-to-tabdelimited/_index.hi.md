@@ -1,7 +1,7 @@
 ---
 title: Python XLT से TABDELIMITED - XLT से TABDELIMITED कनवर्टर
-description: Aspose Excel. Python Excel. Aspose.Cells के साथ XLT को TABDELIMITED में जल्दी और आसानी से बदलें. Python XLT को TABDELIMITED में बदलें. Python XLT को TABDELIMITED में सहेजें. Python Excel लाइब्रेरी का उपयोग करके XLT को TABDELIMITED के रूप में सहेजें.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert XLT to TABDELIMITED in Python Excel Library., Save XLT to TABDELIMITED using Python Excel Library., Python XLT to TABDELIMITED saveformat., XLT to TABDELIMITED Converter., Python Save XLT as TABDELIMITED]
+description: Aspose Excel. यह पूरा सॉल्यूशन Python डेवलपर्स को XLT को TABDELIMITED फ़ॉर्मेट में बदलने के लिए पूरी तरह से इंटीग्रेटेड तरीका देता है, जिससे Aspose.Cells लाइब्रेरी का इस्तेमाल करके XLT डेटा को TABDELIMITED फ़ॉर्मेट में आसानी से सेव किया जा सकता है, यह सब कुशल और कस्टमाइज़ेबल Python कोड के ज़रिए होता है।
+keywords: [Aspose Excel., Python Aspose.Cells., Smart XLT files to TABDELIMITED Converter for Python., Convert XLT to TABDELIMITED in Python., XLT files to TABDELIMITED Conversion in Python., Leverage intelligent data processing to automatically parse and save XLT into TABDELIMITED format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="XLT को Python Excel लाइब्रेरी में TABDELIMITED में बदलें" h2="XLT को TABDELIMITED में बदलने के लिए हाई-स्पीड Python एक्सेल लाइब्रेरी। यह Python का उपयोग करके XLT, TABDELIMITED और कई अन्य प्रारूपों को आयात और निर्यात करने के लिए एक पेशेवर सॉफ़्टवेयर समाधान है।" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="TABDELIMITED" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -27,7 +27,7 @@ XLT को TABDELIMITED में बदलने के लिए आसान 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="XLT को Python एक्सेल लाइब्रेरी के माध्यम से TABDELIMITED में बदलने के लिए नमूना कोड" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlt" outformat="tsv" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="XLT को Python एक्सेल लाइब्रेरी के माध्यम से TABDELIMITED में बदलने के लिए नमूना कोड" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="xlt" outformat="tsv" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="XLT को Python के माध्यम से TABDELIMITED में कैसे बदलें" %}}
 

@@ -1,0 +1,432 @@
+---
+title:  Node.js를 이용한 Excel 스프레드시트용 API(C++) - Aspose
+weight: 3120
+description: Node.js를 사용하여 C++ 라이브러리를 통해 Excel 파일 형식을 처리합니다. XLS, XLSX, XLSB, XLTX, XLTM, XLSM XML, ODS, CSV 및 기타 다양한 형식을 Node.js를 사용하여 C++ 라이브러리를 통해 macOS 및 Linux에서 읽고 쓰고 렌더링하고 변환합니다.
+---
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/i18n/upper-banner h1="Node.js를 통한 C++ Excel 파일 형식 API" h2="Node.js를 사용하여 Excel 스프레드시트를 생성, 수정, 변환 및 렌더링합니다(C++ 참조). Excel 자체는 필요하지 않습니다(Microsoft 참조)." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/headers/aspose_cells-for-nodejs-java.svg" pfName="Aspose.Cells" subTitlepfName="for Node.js via C++" downloadUrl="https://downloads.aspose.com/cells/nodejs-cpp" >}}
+
+{{< blocks/products/pf/main-container pfName="Aspose.Cells" subTitlepfName="for Node.js via C++" >}}
+
+{{< blocks/products/pf/i18n/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/cells/nodejs-cpp" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/cells/nodejs-cpp/" installationsDocsLink="" nugetLink="" nugetPackageName="Microsoft Excel:" mavenRepoLink="" directDownloadLink="https://releases.aspose.com/cells/nodejs-cpp/" >}}
+
+{{< blocks/products/pf/i18n/tab-content >}}
+<p>
+ Aspose.Cells for Node.js (경로: C++)은 Node.js를 사용하여 Excel 스프레드시트를 처리하는 기능이 풍부하고 확장 가능한 API 플랫폼입니다. API은 Excel 파일 형식 변환, 세부적인 수준의 워크시트 스타일링, 차트 생성 및 렌더링, 안정적인 수식 계산 엔진 등 다양한 기능을 제공합니다.
+</p>
+
+<p>
+Aspose.Cells, for Node.js, C++을 통해 대부분의 인기 있는 스프레드시트 형식을 지원합니다. 여기에는 XLS, XLSX, ODS, SpreadsheetML, CSV, TSC 및 HTML이 포함됩니다.
+</p>
+
+{{< /blocks/products/pf/i18n/tab-content >}}
+
+<!--Diagrams Start-->
+{{< blocks/products/pf/i18n/carousel >}}
+
+{{< blocks/products/pf/carousel-item h3="한눈에" description="Aspose.Cells, for Node.js, C++을 통한 기능에 대한 개요입니다." >}}
+<div class="diagram1 d1-nodejs">
+ <div class="d1-row">
+  <div class="d1-col d1-left">
+   <header>
+    <i class="fa fa-television">
+    </i>
+ 표현
+   </header>
+   <ul>
+    <li>
+ 차트를 이미지로 변환
+    </li>
+    <li>
+ 워크시트를 이미지로 변환
+    </li>
+    <li>
+ 스프레드시트를 PDF로 변환
+    </li>
+   </ul>
+  </div>
+  <!--/left-->
+  <div class="d1-col d1-right">
+   <header>
+    <i class="fa fa-cogs">
+    </i>
+ 데이터 처리
+   </header>
+   <ul>
+    <li>
+ 차트
+    </li>
+    <li>
+ 수식 계산
+    </li>
+    <li>
+ 스마트 마커
+    </li>
+    <li>
+ 피벗 테이블
+    </li>
+    <li>
+ 조건부 서식
+    </li>
+   </ul>
+   <!--
+
+<header><i class="fa fa-table"> </i>Aspose.Cells GridWeb Control</header>
+
+<ul>
+
+<li>Supports JSP Web Application</li>
+
+<li>Supports Loading Excel Files</li>
+
+<li>Supports Saving Excel Files</li>
+
+<li>Porvides Editing Capabilities</li>
+
+<li>Compatible with Modern Browsers</li>
+
+</ul>
+
+-->
+  </div>
+  <!--/right-->
+ </div>
+ <!--/row-->
+ <div class="d1-logo">
+  <img width="70" height="75" alt="Spreadsheet API JavaScript" src="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg"/>
+  <header>
+   Aspose.Cells
+  </header>
+  <footer>
+   <small>
+    <em>
+ ~을 위한
+    </em>
+ Node.js (C++ 경유)
+   </small>
+  </footer>
+ </div>
+ <!--/logo-->
+</div>
+
+{{< /blocks/products/pf/carousel-item >}}
+
+{{< blocks/products/pf/carousel-item h3="플랫폼 독립성" description="Aspose.Cells for Node.js (경로: C++)은 Node.js 기반의 서버 측 JavaScript API입니다. Unix/Linux 및 Mac 플랫폼에서 실행될 수 있습니다." >}}
+<div class="diagram1 d1-nodejs">
+ <div class="d1-row">
+  <div class="d1-col d1-left">
+  </div>
+  <!--/left-->
+  <div class="d1-col d1-right">
+   <header>
+   </header>
+   <!--
+
+<ul>
+
+<li>JSP/JSF Application</li>
+
+<li>Desktop Application</li>
+
+</ul>
+
+-->
+  </div>
+  <!--/right-->
+ </div>
+ <!--/row-->
+ <div class="d1-logo">
+  <img width="70" height="75" alt="Excel API JavaScript" src="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg"/>
+  <header>
+   Aspose.Cells
+  </header>
+  <footer>
+   <small>
+    <em>
+ ~을 위한
+    </em>
+ Node.js (C++ 경유)
+   </small>
+  </footer>
+ </div>
+ <!--/logo-->
+</div>
+
+{{< /blocks/products/pf/carousel-item >}}
+
+{{< blocks/products/pf/carousel-item h3="지원되는 파일 형식" description="Aspose.Cells, for Node.js, C++을 통해 접속하면 가장 일반적으로 사용되는 이미지 및 고정 레이아웃 형식과 더불어 인기 있는 스프레드시트 파일 형식을 지원합니다." >}}
+<div class="diagram1 d2 d1-nodejs">
+ <div class="d1-row">
+  <div class="d1-col d1-left">
+   <header>
+    <i class="fa fa-arrows-v">
+    </i>
+ 입출력
+   </header>
+   <ul>
+    <li>
+     <b>
+ Microsoft 엑셀:
+     </b>
+ XLS, XLSX, XLSB, XLT, XLTX, XLTM, XLSM, XML, OTS
+    </li>
+    <li>
+     <b>
+ 오픈 오피스:
+     </b>
+     ODS
+    </li>
+    <li>
+     <b>
+ 텍스트:
+     </b>
+     CSV, TSV, JSON
+    </li>
+    <li>
+     <b>
+ 편물:
+     </b>
+     HTML, MHTML
+    </li>
+    <li>
+     <b>
+      Numbers:
+     </b>
+ Apple의 iWork 오피스 제품군 Numbers 앱 문서
+    </li>
+    <li>
+     <b>
+ 기타:
+     </b>
+ SXC, FODS, EPUB
+    </li>
+   </ul>
+  </div>
+  <!--/left-->
+  <div class="d1-col d1-right">
+   <header>
+    <i class="fa fa-mail-forward">
+    </i>
+출력만
+   </header>
+   <ul>
+    <li>
+     <b>
+ 고정 레이아웃:
+     </b>
+ PDF, PDF/A, XPS
+    </li>
+    <li>
+     <b>
+ 데이터 교환:
+     </b>
+     DIF
+    </li>    
+    <li>
+     <b>
+ 이미지:
+     </b>
+     JPEG, PNG, BMP, SVG, TIFF, EMF, GIF
+    </li>
+    <li>
+     <b>
+ 기타:
+     </b>
+ MARKDOWN, SQL, XTHML
+    </li>
+   </ul>
+  </div>
+  <!--/right-->
+ </div>
+ <!--/row-->
+ <div class="d1-logo">
+  <img width="70" height="75" alt="Node.js Excel Spreadsheet Library" src="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg"/>
+  <header>
+   Aspose.Cells
+  </header>
+  <footer>
+   <small>
+    <em>
+ ~을 위한
+    </em>
+ Node.js (C++ 경유)
+   </small>
+  </footer>
+ </div>
+ <!--/logo-->
+</div>
+
+{{< /blocks/products/pf/carousel-item >}}
+
+{{< /blocks/products/pf/i18n/carousel >}}
+<!--Diagrams End-->
+
+<!--Feature-section Start-->
+<div class="container-fluid features-section bg-gray singleproduct">
+ <a class="anchor" id="features" name="features">
+ </a>
+ <div class="row">
+  <div class="container">
+   <h2 class="pr-ft">
+ 고급 Node.js (C++ Excel 스프레드시트 API 기능)
+   </h2>
+   <p>
+   </p>
+   <div class="col-lg-4">
+    <em class="fa fa-support ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
+ 피벗 테이블, 차트, 스파크라인 &amp; 조건부 서식
+    </p>
+   </div>
+   <div class="col-lg-4">
+    <em class="fa fa-image ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
+ 기존 차트 새로 고침 &amp; 차트를 이미지 또는 PDF로 변환
+    </p>
+   </div>
+   <div class="col-lg-4">
+    <em class="fa fa-commenting ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
+ 만들기 &amp; 댓글 조작 &amp; 하이퍼링크
+    </p>
+   </div>
+   <div class="col-lg-4">
+    <em class="fa fa-filter ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
+ 복잡한 수식 설정 &amp; API을 통해 결과를 계산합니다.
+    </p>
+   </div>
+   <div class="col-lg-4">
+    <em class="fa fa-shield ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
+ 통합 문서, 워크시트, 셀, 열 또는 행에 대한 보호 설정
+    </p>
+   </div>
+   <div class="col-lg-4">
+    <em class="fa fa-sort-amount-desc ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
+ 만들기 &amp; 명명된 범위 조작
+    </p>
+   </div>
+   <div class="col-lg-4">
+    <em class="fa fa-file-text-o ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
+ 스마트 마커를 사용하여 워크시트 채우기
+    </p>
+   </div>
+   <div class="col-lg-4">
+    <em class="fa fa-table ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
+ API을 통해 피벗 테이블 조작 및 새로 고침
+    </p>
+   </div>
+   <div class="col-lg-4">
+    <em class="fa fa-html5 ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
+ 워크시트를 PDF, XPS &amp; SVG 형식
+    </p>
+   </div>
+   <div class="col-lg-12">
+    <h2 class="h2title">
+ Excel 스프레드시트 렌더링
+    </h2>
+    <p>
+ Aspose.Cells for Node.js은 C++을 통해 자체 렌더링 엔진을 사용하여 최고 수준의 품질로 Microsoft Excel 파일에 렌더링합니다. Node.js Excel Processing 라이브러리를 사용하면 전체 시트, 개별 파일 또는 차트를 여러 이미지 및 고정 레이아웃 형식으로 변환할 수 있습니다.
+    </p>
+   </div>
+   <div class="col-lg-12">
+    <h2 class="h2title">
+ 유연한 디스플레이 옵션
+    </h2>
+    <p>
+Aspose.Cells, for Node.js, C++을 통해 워크시트의 페이지 설정을 완벽하게 제어할 수 있습니다. 페이지 방향, 나누기, 크기, 배율, 머리글, 바닥글, 확대/축소 수준과 같은 워크시트 표시 옵션을 조작할 수 있습니다. 또한 개발자는 인쇄 영역과 창 고정 기능을 사용하여 애플리케이션 사양에 맞게 데이터 표시 여부를 제어할 수 있습니다.
+    </p>
+   </div>
+   <div class="col-lg-12">
+    <h2 class="h2title">
+ 보안 옵션
+    </h2>
+    <p>
+ Aspose.Cells, for Node.js (경유: C++)은 스프레드시트 암호화/복호화, 콘텐츠, 객체 및 시나리오 보호는 물론 행, 열 및 워크시트 숨기기/표시 기능 등 다양한 보안 기능을 제공합니다.
+    </p>
+   </div>
+   <div class="col-lg-12">
+    <h2 class="h2title">
+ 행 조작 &amp; 열
+    </h2>
+    <p>
+ Aspose.Cells, for Node.js, C++을 통해 다양한 방법으로 행과 열을 조작할 수 있습니다. 행 높이 및 열 너비 조정, 내용에 따른 셀 크기 자동 조정, 삽입 및 삭제, 숨기기 및 표시, 행 및 열 그룹화 및 그룹 해제 등을 간편하게 수행할 수 있습니다.
+    </p>
+   </div>
+   <div class="col-lg-12">
+    <h2 class="h2title">
+ 워크시트 서식에 대한 포괄적인 지원
+    </h2>
+    <p>
+Aspose.Cells, for Node.js(경로: C++)은 데이터의 표시 방식을 제어할 수 있는 고급 서식 기능을 제공합니다. 워크시트, 열, 행 또는 셀에 서식을 적용하거나, 단일 셀에 서식 있는 텍스트를 추가하고, 테두리를 적용하고, 배경 패턴 및 글꼴 스타일을 설정할 수 있습니다. 또한 API을 사용하면 조건부 서식 규칙을 즉시 추가, 조작 및 계산할 수 있습니다.
+    </p>
+   </div>
+   <div class="col-lg-12">
+    <h2 class="h2title">
+ 차트 생성, 조작 및 앰프; 표현
+    </h2>
+    <p>
+ Aspose.Cells, for Node.js, C++을 통해 차트 기능을 완벽하게 지원합니다. API을 사용하면 사용자 지정 차트 또는 표준 차트를 쉽게 추가하고, 데이터를 동적으로 설정하여 차트를 새로 고칠 수 있습니다.
+    </p>
+   </div>
+  </div>
+ </div>
+</div>
+<!--Feature-section End-->
+
+{{< /blocks/products/pf/main-container >}}
+
+
+{{< blocks/products/pf/i18n/support-learning-resources >}}
+{{< blocks/products/pf/slr-tab tabTitle="학습 자료" tabId="resources" >}}
+{{< blocks/products/pf/slr-element name="선적 서류 비치" href="https://docs.aspose.com/cells/nodejs-cpp/" >}}
+{{< blocks/products/pf/slr-element name="소스 코드" href="https://github.com/aspose-cells/aspose.cells-for-nodejs/" >}}
+{{< blocks/products/pf/slr-element name="API 참고자료" href="https://reference.aspose.com/cells/nodejs-cpp/" >}}
+{{< blocks/products/pf/slr-element name="튜토리얼 비디오" href="https://www.youtube.com/user/asposevideo" >}}
+{{< /blocks/products/pf/slr-tab >}}
+
+{{< blocks/products/pf/slr-tab tabTitle="제품 지원" tabId="support" >}}
+{{< blocks/products/pf/slr-element name="무료 지원" href="https://forum.aspose.com/c/cells/9" >}}
+{{< blocks/products/pf/slr-element name="유료 지원" href="https://helpdesk.aspose.com/" >}}
+{{< blocks/products/pf/slr-element name="블로그" href="https://blog.aspose.com/category/cells/" >}}
+{{< /blocks/products/pf/slr-tab >}}
+
+{{< blocks/products/pf/slr-tab tabTitle="Aspose.Cells for Node.js을 C++을 경유해서 사용하는 이유는 무엇인가요?" tabId="success-stories" >}}
+{{< blocks/products/pf/slr-element name="고객 목록" href="https://company.aspose.com/customers" >}}
+{{< blocks/products/pf/slr-element name="성공 사례" href="https://company.aspose.com/customers/success-stories/aspose-cells" >}}
+{{< /blocks/products/pf/slr-tab >}}
+
+{{< /blocks/products/pf/i18n/support-learning-resources >}}
+
+
+{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://releases.aspose.com/cells/nodejs-cpp/" pricingInformationLink="https://purchase.aspose.com/pricing/cells/nodejs-cpp" >}}
+
+{{< blocks/products/pf/offers-section pfName="Aspose.Cells" description="Aspose.Cells은 아래 나열된 다른 인기 있는 개발 환경을 위한 개별 Excel API를 제공합니다." >}}
+
+    {{< blocks/products/pf/offers-section-item link="/cells/net/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sdkName=".NET" >}}
+    {{< blocks/products/pf/offers-section-item link="/cells/java/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sdkName="Java" >}}
+    {{< blocks/products/pf/offers-section-item link="/cells/cpp/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" sdkName="C++" >}}
+    {{< blocks/products/pf/offers-section-item link="/cells/android-java/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-android-java.svg" sdkName="Android via Java" >}}
+    {{< blocks/products/pf/offers-section-item link="/cells/sharepoint/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-sharepoint.svg" sdkName="SharePoint" >}}
+    {{< blocks/products/pf/offers-section-item link="/cells/reporting-services/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-reporting-services.svg" sdkName="Reporting Services" >}}
+    {{< blocks/products/pf/offers-section-item link="/cells/jasperreports/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-jasperreports.svg" sdkName="JasperReports" >}}
+    {{< blocks/products/pf/offers-section-item link="/cells/php-java/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-php-java.svg" sdkName="PHP via Java" >}}
+    {{< blocks/products/pf/offers-section-item link="/cells/python-java/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sdkName="Python via Java" >}}
+
+{{< /blocks/products/pf/offers-section >}}
+
+{{< /blocks/products/pf/main-wrap-class >}}

@@ -1,7 +1,7 @@
 ---
 title: Python IMAGE से XLAM - IMAGE से XLAM कनवर्टर
-description: Aspose Excel. Python Excel. Aspose.Cells के साथ IMAGE को XLAM में जल्दी और आसानी से बदलें. Python IMAGE को XLAM में बदलें. Python IMAGE को XLAM में सहेजें. Python Excel लाइब्रेरी का उपयोग करके IMAGE को XLAM के रूप में सहेजें.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert IMAGE to XLAM in Python Excel Library., Save IMAGE to XLAM using Python Excel Library., Python IMAGE to XLAM saveformat., IMAGE to XLAM Converter., Python Save IMAGE as XLAM]
+description: Aspose Excel. यह पूरा सॉल्यूशन Python डेवलपर्स को IMAGE को XLAM फ़ॉर्मेट में बदलने के लिए पूरी तरह से इंटीग्रेटेड तरीका देता है, जिससे Aspose.Cells लाइब्रेरी का इस्तेमाल करके IMAGE डेटा को XLAM फ़ॉर्मेट में आसानी से सेव किया जा सकता है, यह सब कुशल और कस्टमाइज़ेबल Python कोड के ज़रिए होता है।
+keywords: [Aspose Excel., Python Aspose.Cells., Smart IMAGE files to XLAM Converter for Python., Convert IMAGE to XLAM in Python., IMAGE files to XLAM Conversion in Python., Leverage intelligent data processing to automatically parse and save IMAGE into XLAM format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Python एक्सेल लाइब्रेरी में IMAGE को XLAM में बदलें" h2="IMAGE को XLAM में परिवर्तित करने के लिए उच्च गति Python एक्सेल लाइब्रेरी। Python में उच्च-स्तरीय, प्लेटफ़ॉर्म स्वतंत्र सॉफ़्टवेयर विकसित करने के लिए हमारे एक्सेल रूपांतरण API का उपयोग करें।" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLAM" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -28,7 +28,7 @@ IMAGE को XLAM में बदलने के लिए आसान चर
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Python एक्सेल लाइब्रेरी के माध्यम से IMAGE को XLAM में बदलने के लिए नमूना कोड" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="png" outformat="xlam" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Python एक्सेल लाइब्रेरी के माध्यम से IMAGE को XLAM में बदलने के लिए नमूना कोड" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="png" outformat="xlam" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="IMAGE को XLAM में कैसे बदलें" %}}
 

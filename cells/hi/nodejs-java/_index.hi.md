@@ -1,10 +1,10 @@
 ---
-title:  एक्सेल स्प्रेडशीट के लिए Node.js API - Aspose
+title:  Node.js via Java एक्सेल स्प्रेडशीट के लिए API - Aspose
 weight: 3120
-description: Node.js लाइब्रेरी के माध्यम से Excel फ़ाइल फ़ॉर्मेट को प्रोसेस करें। XLS XLSX XLSB XLTX XLTM XLSM XML ODS CSV और अधिक फ़ॉर्मेट को Node.js के माध्यम से Windows, macOS और Linux पर पढ़ें, लिखें, रेंडर करें और कन्वर्ट करें
+description: Node.js via Java लाइब्रेरी का इस्तेमाल करके Excel फ़ाइल फ़ॉर्मैट प्रोसेस करें। XLS XLSX XLSB XLTX XLTM XLSM XML ODS CSV और ज़्यादा फ़ॉर्मैट को Node.js via Java का इस्तेमाल करके Windows, macOS और Linux पर पढ़ें, लिखें, रेंडर करें और कन्वर्ट करें।
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="Node.js एक्सेल फ़ाइल प्रारूप APIs" h2="Microsoft Excel की आवश्यकता के बिना Node.js का उपयोग करके Excel स्प्रेडशीट उत्पन्न, संशोधित, परिवर्तित और प्रस्तुत करें।" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/headers/aspose_cells-for-nodejs-java.svg" pfName="Aspose.Cells" subTitlepfName="for Node.js via Java" downloadUrl="https://downloads.aspose.com/cells/nodejs" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="Node.js via Java Excel फ़ाइल फ़ॉर्मेट APIs" h2="Node.js via Java का इस्तेमाल करके Excel स्प्रेडशीट बनाएं, बदलें, कन्वर्ट करें और रेंडर करें, इसके लिए Excel की ज़रूरत नहीं है।" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/headers/aspose_cells-for-nodejs-java.svg" pfName="Aspose.Cells" subTitlepfName="for Node.js via Java" downloadUrl="https://downloads.aspose.com/cells/nodejs" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells" subTitlepfName="for Node.js via Java" >}}
 
@@ -12,7 +12,7 @@ description: Node.js लाइब्रेरी के माध्यम स�
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
-Aspose.Cells for Node.js via Java Node.js का उपयोग करके एक्सेल स्प्रेडशीट को संसाधित करने के लिए एक सुविधा संपन्न और स्केलेबल API है। API एक्सेल फ़ाइल प्रारूप रूपांतरण, सबसे बारीक स्तर पर वर्कशीट स्टाइलिंग, चार्ट निर्माण और रेंडरिंग, विश्वसनीय सूत्र गणना इंजन और बहुत कुछ प्रदान करता है।
+ Aspose.Cells for Node.js via Java Node.js via Java का इस्तेमाल करके Excel स्प्रेडशीट को प्रोसेस करने के लिए एक फीचर-रिच और स्केलेबल API है। API Excel फ़ाइल फ़ॉर्मेट कन्वर्ज़न, वर्कशीट को सबसे बारीक लेवल पर स्टाइल करना, चार्ट बनाना और रेंडर करना, भरोसेमंद फ़ॉर्मूला कैलकुलेशन इंजन और भी बहुत कुछ देता है।
 </p>
 
 <p>
@@ -271,7 +271,7 @@ Aspose.Cells for Node.js via Java Node.js का उपयोग करके �
  <div class="row">
   <div class="container">
    <h2 class="pr-ft">
- उन्नत Node.js एक्सेल स्प्रेडशीट API सुविधाएँ
+ एडवांस्ड Node.js via Java एक्सेल स्प्रेडशीट API फीचर्स
    </h2>
    <p>
    </p>
@@ -343,7 +343,7 @@ Aspose.Cells for Node.js via Java Node.js का उपयोग करके �
  एक्सेल स्प्रेडशीट प्रस्तुत करना
     </h2>
     <p>
-Aspose.Cells for Node.js via Java एक्सेल को उच्चतम निष्ठा के साथ रेंडर करने के लिए अपने रेंडरिंग इंजन का उपयोग करता है। Node.js एक्सेल प्रोसेसिंग लाइब्रेरी का उपयोग करते समय, कोई भी पूरी शीट, व्यक्तिगत फ़ाइलों या चार्ट को कई छवियों और निश्चित-लेआउट प्रारूपों में परिवर्तित कर सकता है।
+ Aspose.Cells for Node.js via Java Excel को सबसे अच्छी फ़िडेलिटी के साथ रेंडर करने के लिए अपने रेंडरिंग इंजन का इस्तेमाल करता है। Node.js via Java Excel प्रोसेसिंग लाइब्रेरी का इस्तेमाल करते समय, कोई भी पूरी शीट, अलग-अलग फ़ाइल या चार्ट को कई इमेज और फ़िक्स्ड-लेआउट फ़ॉर्मेट में बदल सकता है।
     </p>
    </div>
    <div class="col-lg-12">
@@ -415,7 +415,7 @@ Aspose.Cells for Node.js via Java चार्टिंग के लिए प�
 
 {{< /blocks/products/pf/i18n/support-learning-resources >}}
 
-{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://downloads.aspose.com/cells/nodejs" pricingInformationLink="https://purchase.aspose.com/pricing/cells/nodejs-java" >}}
+{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://releases.aspose.com/cells/nodejs/" pricingInformationLink="https://purchase.aspose.com/pricing/cells/nodejs-java" >}}
 
 {{< blocks/products/pf/offers-section pfName="Aspose.Cells" description="Aspose.Cells अन्य लोकप्रिय विकास वातावरणों के लिए अलग-अलग एक्सेल एपीआई प्रदान करता है, जैसा कि नीचे सूचीबद्ध है:" >}}
 

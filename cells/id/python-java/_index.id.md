@@ -1,8 +1,8 @@
 ---
-title:  Python Lembar Bentang Excel API - Aspose
+title: Python Lembar Kerja Excel API - Aspose.Cells for Python via Java
 weight: 2820
-description: Pustaka Python untuk membuat, memperbaiki, menggabungkan, mengurai, dan mengonversi file excel. Konversi excel ke PDF, JSON, HTML, TXT dan format populer lainnya.
-keywords: [Python Aspose.Cells Create parse repair merge convert JSON Excel XML PDF HTML TSV SQL CSV TSV PNG JPEG and more formats]
+description: Aspose.Cells for Python via Java pustaka untuk membuat, memperbaiki, menggabungkan, mengurai, dan mengkonversi file Excel. Konversi Excel ke PDF, JSON, HTML, TXT dan format populer lainnya menggunakan Aspose.Cells for Python via Java API.
+keywords: [Aspose.Cells for Python via Java Create parse repair merge convert JSON Excel XML PDF HTML TSV SQL CSV TSV PNG JPEG and more formats]
 ---
 {{< blocks/products/pf/main-wrap-class >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Python API Parsing Spreadsheet Excel" h2="Hasilkan, baca, tulis atau manipulasi spreadsheet serta ekspor file Excel ke berbagai format dalam aplikasi Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/headers/aspose_cells-for-python-java.svg" pfName="Aspose.Cells" subTitlepfName="for Python via Java" downloadUrl="https://releases.aspose.com/cells/python-java/" >}}

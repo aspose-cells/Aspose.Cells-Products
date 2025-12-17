@@ -1,7 +1,7 @@
 ---
 title: Python एक्सेल से SQL - एक्सेल से SQL कनवर्टर
-description: Aspose Excel. Python Excel. Aspose.Cells के साथ EXCEL को SQL में जल्दी और आसानी से बदलें. Python EXCEL से SQL. Python EXCEL को SQL में सेव करें. Python Excel लाइब्रेरी का उपयोग करके EXCEL को SQL के रूप में सेव करें.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert EXCEL to SQL in Python Excel Library., Save EXCEL to SQL using Python Excel Library., Python EXCEL to SQL saveformat., EXCEL to SQL Converter., Python Save EXCEL as SQL]
+description: Aspose Excel. यह पूरा सॉल्यूशन Python डेवलपर्स को EXCEL को SQL फ़ॉर्मेट में बदलने के लिए पूरी तरह से इंटीग्रेटेड तरीका देता है, जिससे Aspose.Cells लाइब्रेरी का इस्तेमाल करके EXCEL डेटा को SQL फ़ॉर्मेट में आसानी से सेव किया जा सकता है, यह सब कुशल और कस्टमाइज़ेबल Python कोड के ज़रिए होता है।
+keywords: [Aspose Excel., Python Aspose.Cells., Smart EXCEL files to SQL Converter for Python., Convert EXCEL to SQL in Python., EXCEL files to SQL Conversion in Python., Leverage intelligent data processing to automatically parse and save EXCEL into SQL format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Python एक्सेल लाइब्रेरी में EXCEL को SQL में बदलें" h2="एक्सेल को SQL में बदलने के लिए हाई-स्पीड Python एक्सेल लाइब्रेरी। Python में उच्च-स्तरीय, प्लेटफ़ॉर्म स्वतंत्र सॉफ़्टवेयर विकसित करने के लिए हमारे एक्सेल रूपांतरण API का उपयोग करें।" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="SQL" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -28,7 +28,7 @@ keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert E
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Python एक्सेल लाइब्रेरी के माध्यम से एक्सेल को SQL में बदलने के लिए नमूना कोड" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsx" outformat="sql" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Python एक्सेल लाइब्रेरी के माध्यम से एक्सेल को SQL में बदलने के लिए नमूना कोड" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="xlsx" outformat="sql" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="एक्सेल को SQL में कैसे बदलें?" %}}
 

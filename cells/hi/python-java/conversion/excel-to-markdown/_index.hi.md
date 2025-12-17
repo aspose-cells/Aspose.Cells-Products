@@ -1,7 +1,7 @@
 ---
 title: Python एक्सेल से MARKDOWN - एक्सेल से MARKDOWN कनवर्टर
-description: Aspose Excel. Python Excel. Aspose.Cells के साथ EXCEL को MARKDOWN में जल्दी और आसानी से बदलें. Python EXCEL को MARKDOWN में बदलें. Python EXCEL को MARKDOWN में सेव करें. Python Excel लाइब्रेरी का उपयोग करके EXCEL को MARKDOWN के रूप में सेव करें.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert EXCEL to MARKDOWN in Python Excel Library., Save EXCEL to MARKDOWN using Python Excel Library., Python EXCEL to MARKDOWN saveformat., EXCEL to MARKDOWN Converter., Python Save EXCEL as MARKDOWN]
+description: Aspose Excel. यह पूरा सॉल्यूशन Python डेवलपर्स को EXCEL को MARKDOWN फ़ॉर्मेट में बदलने के लिए पूरी तरह से इंटीग्रेटेड तरीका देता है, जिससे Aspose.Cells लाइब्रेरी का इस्तेमाल करके EXCEL डेटा को MARKDOWN फ़ॉर्मेट में आसानी से सेव किया जा सकता है, यह सब कुशल और कस्टमाइज़ेबल Python कोड के ज़रिए होता है।
+keywords: [Aspose Excel., Python Aspose.Cells., Smart EXCEL files to MARKDOWN Converter for Python., Convert EXCEL to MARKDOWN in Python., EXCEL files to MARKDOWN Conversion in Python., Leverage intelligent data processing to automatically parse and save EXCEL into MARKDOWN format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Python एक्सेल लाइब्रेरी में EXCEL को MARKDOWN में बदलें" h2="एक्सेल को MARKDOWN में परिवर्तित करने के लिए उच्च गति Python एक्सेल लाइब्रेरी। यह Python का उपयोग करके एक्सेल, MARKDOWN और कई अन्य प्रारूपों को आयात और निर्यात करने के लिए एक पेशेवर सॉफ्टवेयर समाधान है।" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="MARKDOWN" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -27,7 +27,7 @@ EXCEL को MARKDOWN में बदलने के लिए आसान �
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Python एक्सेल लाइब्रेरी के माध्यम से EXCEL को MARKDOWN में बदलने के लिए नमूना कोड" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsx" outformat="md" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="Python एक्सेल लाइब्रेरी के माध्यम से EXCEL को MARKDOWN में बदलने के लिए नमूना कोड" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="xlsx" outformat="md" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="एक्सेल को MARKDOWN से Python में कैसे बदलें" %}}
 

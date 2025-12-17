@@ -1,7 +1,7 @@
 ---
 title: Python XLTM से DOCX - XLTM से DOCX कनवर्टर
-description: Aspose Excel. Python Excel. Aspose.Cells के साथ XLTM को DOCX में तेजी से और आसानी से बदलें. Python XLTM से DOCX. Python XLTM को DOCX में सहेजें. XLTM को DOCX के रूप में Python Excel लाइब्रेरी का उपयोग करके सहेजें.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert XLTM to DOCX in Python Excel Library., Save XLTM to DOCX using Python Excel Library., Python XLTM to DOCX saveformat., XLTM to DOCX Converter., Python Save XLTM as DOCX]
+description: Aspose Excel. यह पूरा सॉल्यूशन Python डेवलपर्स को XLTM को DOCX फ़ॉर्मेट में बदलने के लिए पूरी तरह से इंटीग्रेटेड तरीका देता है, जिससे XLTM डेटा को Aspose.Cells लाइब्रेरी का इस्तेमाल करके DOCX फ़ॉर्मेट में आसानी से सेव किया जा सकता है, यह सब कुशल और कस्टमाइज़ेबल Python कोड के ज़रिए होता है।
+keywords: [Aspose Excel., Python Aspose.Cells., Smart XLTM files to DOCX Converter for Python., Convert XLTM to DOCX in Python., XLTM files to DOCX Conversion in Python., Leverage intelligent data processing to automatically parse and save XLTM into DOCX format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="XLTM को DOCX में Python एक्सेल लाइब्रेरी में बदलें" h2="XLTM को DOCX में परिवर्तित करने के लिए उच्च गति Python एक्सेल लाइब्रेरी। Python में उच्च-स्तरीय, प्लेटफ़ॉर्म स्वतंत्र सॉफ़्टवेयर विकसित करने के लिए हमारे एक्सेल रूपांतरण API का उपयोग करें।" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="DOCX" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -28,7 +28,7 @@ XLTM को DOCX में बदलने के लिए आसान चर�
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="XLTM को DOCX में Python एक्सेल लाइब्रेरी के माध्यम से बदलने के लिए नमूना कोड" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xltm" outformat="docx" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="XLTM को DOCX में Python एक्सेल लाइब्रेरी के माध्यम से बदलने के लिए नमूना कोड" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="xltm" outformat="docx" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="XLTM को DOCX में कैसे बदलें" %}}
 

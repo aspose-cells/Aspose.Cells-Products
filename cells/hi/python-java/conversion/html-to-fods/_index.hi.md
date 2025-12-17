@@ -1,7 +1,7 @@
 ---
 title: Python HTML से FODS - HTML से FODS कनवर्टर
-description: Aspose Excel. Python Excel. Aspose.Cells के साथ HTML को FODS में तेजी से और आसानी से बदलें. Python HTML से FODS. Python HTML को FODS में सहेजें. HTML को FODS के रूप में Python Excel लाइब्रेरी का उपयोग करके सहेजें.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert HTML to FODS in Python Excel Library., Save HTML to FODS using Python Excel Library., Python HTML to FODS saveformat., HTML to FODS Converter., Python Save HTML as FODS]
+description: Aspose Excel. यह पूरा सॉल्यूशन Python डेवलपर्स को HTML को FODS फ़ॉर्मेट में बदलने के लिए पूरी तरह से इंटीग्रेटेड तरीका देता है, जिससे HTML डेटा को Aspose.Cells लाइब्रेरी का इस्तेमाल करके FODS फ़ॉर्मेट में आसानी से सेव किया जा सकता है, यह सब कुशल और कस्टमाइज़ेबल Python कोड के ज़रिए होता है।
+keywords: [Aspose Excel., Python Aspose.Cells., Smart HTML files to FODS Converter for Python., Convert HTML to FODS in Python., HTML files to FODS Conversion in Python., Leverage intelligent data processing to automatically parse and save HTML into FODS format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="HTML को FODS में Python एक्सेल लाइब्रेरी में बदलें" h2="HTML को FODS में परिवर्तित करने के लिए उच्च गति Python एक्सेल लाइब्रेरी। यह Python का उपयोग करके HTML, FODS और कई अन्य प्रारूपों को आयात और निर्यात करने के लिए एक पेशेवर सॉफ्टवेयर समाधान है।" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="FODS" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -27,7 +27,7 @@ HTML को FODS में बदलने के लिए आसान चर�
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="HTML को FODS में Python एक्सेल लाइब्रेरी के माध्यम से बदलने के लिए नमूना कोड" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="html" outformat="fods" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="HTML को FODS में Python एक्सेल लाइब्रेरी के माध्यम से बदलने के लिए नमूना कोड" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="html" outformat="fods" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="HTML को Python के माध्यम से FODS में कैसे बदलें" %}}
 

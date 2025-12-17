@@ -1,7 +1,7 @@
 ---
 title: Python XLTM से एक्सेल - XLTM से एक्सेल कनवर्टर
-description: Aspose एक्सेल. Python एक्सेल. Aspose.Cells के साथ XLTM को EXCEL में जल्दी और आसानी से बदलें. Python XLTM को EXCEL में बदलें. Python XLTM को EXCEL में सेव करें. Python एक्सेल लाइब्रेरी का उपयोग करके XLTM को EXCEL के रूप में सेव करें.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert XLTM to EXCEL in Python Excel Library., Save XLTM to EXCEL using Python Excel Library., Python XLTM to EXCEL saveformat., XLTM to EXCEL Converter., Python Save XLTM as EXCEL]
+description: Aspose Excel. यह पूरा सॉल्यूशन Python डेवलपर्स को XLTM को EXCEL फ़ॉर्मेट में बदलने के लिए पूरी तरह से इंटीग्रेटेड तरीका देता है, जिससे XLTM डेटा को Aspose.Cells लाइब्रेरी का इस्तेमाल करके EXCEL फ़ॉर्मेट में आसानी से सेव किया जा सकता है, यह सब कुशल और कस्टमाइज़ेबल Python कोड के ज़रिए होता है।
+keywords: [Aspose Excel., Python Aspose.Cells., Smart XLTM files to EXCEL Converter for Python., Convert XLTM to EXCEL in Python., XLTM files to EXCEL Conversion in Python., Leverage intelligent data processing to automatically parse and save XLTM into EXCEL format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="XLTM को Python एक्सेल लाइब्रेरी में एक्सेल में बदलें" h2="XLTM को EXCEL में बदलने के लिए हाई-स्पीड Python एक्सेल लाइब्रेरी। यह Python का उपयोग करके XLTM, EXCEL और कई अन्य प्रारूपों को आयात और निर्यात करने के लिए एक पेशेवर सॉफ़्टवेयर समाधान है।" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="EXCEL" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -27,7 +27,7 @@ XLTM को EXCEL में बदलने के लिए आसान चर
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="XLTM को Python एक्सेल लाइब्रेरी के माध्यम से एक्सेल में बदलने के लिए नमूना कोड" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xltm" outformat="xlsx" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="XLTM को Python एक्सेल लाइब्रेरी के माध्यम से एक्सेल में बदलने के लिए नमूना कोड" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="xltm" outformat="xlsx" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="XLTM को Python के माध्यम से एक्सेल में कैसे बदलें" %}}
 

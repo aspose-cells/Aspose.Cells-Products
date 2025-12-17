@@ -1,7 +1,7 @@
 ---
 title: Python MHT से XLT - MHT से XLT कनवर्टर
-description: Aspose Excel. Python Excel. Aspose.Cells के साथ MHT को XLT में जल्दी और आसानी से बदलें. Python MHT को XLT में बदलें. Python MHT को XLT में सहेजें. Python Excel लाइब्रेरी का उपयोग करके MHT को XLT के रूप में सहेजें.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert MHT to XLT in Python Excel Library., Save MHT to XLT using Python Excel Library., Python MHT to XLT saveformat., MHT to XLT Converter., Python Save MHT as XLT]
+description: Aspose Excel. यह पूरा सॉल्यूशन Python डेवलपर्स को MHT को XLT फ़ॉर्मेट में बदलने के लिए पूरी तरह से इंटीग्रेटेड तरीका देता है, जिससे Aspose.Cells लाइब्रेरी का इस्तेमाल करके MHT डेटा को XLT फ़ॉर्मेट में आसानी से सेव किया जा सकता है, यह सब कुशल और कस्टमाइज़ेबल Python कोड के ज़रिए होता है।
+keywords: [Aspose Excel., Python Aspose.Cells., Smart MHT files to XLT Converter for Python., Convert MHT to XLT in Python., MHT files to XLT Conversion in Python., Leverage intelligent data processing to automatically parse and save MHT into XLT format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Python एक्सेल लाइब्रेरी में MHT को XLT में बदलें" h2="MHT को XLT में परिवर्तित करने के लिए उच्च गति Python एक्सेल लाइब्रेरी। यह Python का उपयोग करके MHT, XLT और कई अन्य प्रारूपों को आयात और निर्यात करने के लिए एक पेशेवर सॉफ्टवेयर समाधान है।" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLT" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -27,7 +27,7 @@ MHT को XLT में बदलने के लिए आसान चरण
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Python एक्सेल लाइब्रेरी के माध्यम से MHT को XLT में बदलने के लिए नमूना कोड" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="mht" outformat="xlt" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="Python एक्सेल लाइब्रेरी के माध्यम से MHT को XLT में बदलने के लिए नमूना कोड" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="mht" outformat="xlt" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="MHT को XLT से Python में कैसे बदलें" %}}
 

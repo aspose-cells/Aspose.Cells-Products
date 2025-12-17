@@ -1,7 +1,7 @@
 ---
 title: Python HTML hingga XLS - HTML hingga XLS Konverter
-description: Aspose Unggul. Python Unggul. Ubah HTML menjadi XLS dengan cepat dan mudah dengan Aspose.Cells. Python HTML menjadi XLS. Python Simpan HTML menjadi XLS. Simpan HTML sebagai 076112 3481 menggunakan Perpustakaan Excel Python.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert HTML to XLS in Python Excel Library., Save HTML to XLS using Python Excel Library., Python HTML to XLS saveformat., HTML to XLS Converter., Python Save HTML as XLS]
+description: Aspose Excel. Solusi komprehensif ini menyediakan Python pengembang dengan pendekatan terintegrasi penuh untuk mengkonversi HTML ke format XLS, memungkinkan penyimpanan data HTML ke format XLS dengan lancar menggunakan pustaka Aspose.Cells, semuanya melalui kode Python yang efisien dan dapat disesuaikan.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart HTML files to XLS Converter for Python., Convert HTML to XLS in Python., HTML files to XLS Conversion in Python., Leverage intelligent data processing to automatically parse and save HTML into XLS format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Ubah HTML menjadi XLS di Perpustakaan Excel Python" h2="Pustaka excel Python berkecepatan tinggi untuk mengonversi HTML menjadi XLS. Ini adalah solusi perangkat lunak profesional untuk mengimpor dan mengekspor HTML, XLS, dan banyak format lainnya menggunakan Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLS" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -27,7 +27,7 @@ Ikuti langkah mudah untuk mengonversi HTML menjadi XLS. Unggah file HTML Anda, l
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Contoh Kode untuk Mengonversi HTML menjadi XLS melalui Perpustakaan Excel Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="html" outformat="xls" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="Contoh Kode untuk Mengonversi HTML menjadi XLS melalui Perpustakaan Excel Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="html" outformat="xls" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="Cara Mengubah HTML menjadi XLS melalui Python" %}}
 

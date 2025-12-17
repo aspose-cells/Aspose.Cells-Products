@@ -1,10 +1,10 @@
 ---
-title:  API Node.js pour les feuilles de calcul Excel - Aspose
+title:  API Node.js via Java pour les feuilles de calcul Excel - Aspose
 weight: 3120
-description: Traitez les formats de fichiers Excel via la bibliothèque Node.js. Lire, écrire, rendre et convertir XLS XLSX XLSB XLTX XLTM XLSM XML ODS CSV et plus de formats via Node.js sur Windows, macOS et Linux
+description: Traitement des fichiers Excel avec la bibliothèque Node.js via Java. Lecture, écriture, rendu et conversion des formats Excel (XLS, XLSX, XLSB, XLTX, XLTM, XLSM), XML (ODS, CSV) et autres, sous macOS et Linux (via Java).
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="API de format de fichier Excel Node.js" h2="Générez, modifiez, convertissez et restituez des feuilles de calcul Excel à l\'aide de Node.js sans avoir besoin d\'Excel Microsoft." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/headers/aspose_cells-for-nodejs-java.svg" pfName="Aspose.Cells" subTitlepfName="for Node.js via Java" downloadUrl="https://downloads.aspose.com/cells/nodejs" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="API de format de fichier Excel Node.js via Java" h2="Générez, modifiez, convertissez et affichez des feuilles de calcul Excel à l\'aide de Node.js via Java sans nécessiter Excel Microsoft." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/headers/aspose_cells-for-nodejs-java.svg" pfName="Aspose.Cells" subTitlepfName="for Node.js via Java" downloadUrl="https://downloads.aspose.com/cells/nodejs" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells" subTitlepfName="for Node.js via Java" >}}
 
@@ -12,7 +12,7 @@ description: Traitez les formats de fichiers Excel via la bibliothèque Node.js.
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
-Aspose.Cells for Node.js via Java est un API riche en fonctionnalités et évolutif pour traiter des feuilles de calcul Excel à l'aide de Node.js. API propose la conversion du format de fichier Excel, le style des feuilles de calcul au niveau le plus granulaire, la création de graphiques et la création de graphiques. rendu, moteur de calcul de formule fiable et bien plus encore.
+ Aspose.Cells for Node.js via Java est un outil riche en fonctionnalités et évolutif API permettant de traiter des feuilles de calcul Excel à l'aide de Node.js via Java. API offre la conversion de format de fichier Excel, la mise en forme des feuilles de calcul au niveau le plus granulaire, la création et le rendu de graphiques, un moteur de calcul de formules fiable et bien plus encore.
 </p>
 
 <p>
@@ -271,7 +271,7 @@ Sortie uniquement
  <div class="row">
   <div class="container">
    <h2 class="pr-ft">
- Fonctionnalités avancées de la feuille de calcul Excel Node.js API
+ Fonctionnalités avancées de Node.js via Java et de la feuille de calcul Excel API
    </h2>
    <p>
    </p>
@@ -343,7 +343,7 @@ Sortie uniquement
  Rendu de feuilles de calcul Excel
     </h2>
     <p>
-Aspose.Cells for Node.js via Java utilise son moteur de rendu pour le rendu vers Excel Microsoft avec la plus haute fidélité. En utilisant la bibliothèque de traitement Excel Node.js, vous pouvez convertir des feuilles entières, des fichiers individuels ou des graphiques en plusieurs images et formats de mise en page fixe.
+ Les fichiers Aspose.Cells, for Node.js et via Java utilisent leur moteur de rendu pour un rendu optimal dans Excel (Microsoft). La bibliothèque de traitement Excel Node.js (via Java) permet quant à elle de convertir des feuilles entières, des fichiers individuels ou des graphiques en plusieurs images et en formats à mise en page fixe.
     </p>
    </div>
    <div class="col-lg-12">
@@ -415,7 +415,7 @@ Aspose.Cells for Node.js via Java offre une prise en charge complète pour la cr
 
 {{< /blocks/products/pf/i18n/support-learning-resources >}}
 
-{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://downloads.aspose.com/cells/nodejs" pricingInformationLink="https://purchase.aspose.com/pricing/cells/nodejs-java" >}}
+{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://releases.aspose.com/cells/nodejs/" pricingInformationLink="https://purchase.aspose.com/pricing/cells/nodejs-java" >}}
 
 {{< blocks/products/pf/offers-section pfName="Aspose.Cells" description="Aspose.Cells propose des API Excel individuelles pour d\'autres environnements de développement populaires répertoriés ci-dessous :" >}}
 

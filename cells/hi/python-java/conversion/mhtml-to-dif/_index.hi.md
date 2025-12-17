@@ -1,7 +1,7 @@
 ---
 title: Python MHTML से DIF - MHTML से DIF कनवर्टर
-description: Aspose Excel. Python Excel. Aspose.Cells के साथ MHTML को DIF में तेजी से और आसानी से बदलें. Python MHTML से DIF. Python MHTML को DIF में सहेजें. MHTML को DIF के रूप में Python Excel लाइब्रेरी का उपयोग करके सहेजें.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert MHTML to DIF in Python Excel Library., Save MHTML to DIF using Python Excel Library., Python MHTML to DIF saveformat., MHTML to DIF Converter., Python Save MHTML as DIF]
+description: Aspose Excel. यह पूरा सॉल्यूशन Python डेवलपर्स को MHTML को DIF फ़ॉर्मेट में बदलने के लिए पूरी तरह से इंटीग्रेटेड तरीका देता है, जिससे MHTML डेटा को Aspose.Cells लाइब्रेरी का इस्तेमाल करके DIF फ़ॉर्मेट में आसानी से सेव किया जा सकता है, यह सब कुशल और कस्टमाइज़ेबल Python कोड के ज़रिए होता है।
+keywords: [Aspose Excel., Python Aspose.Cells., Smart MHTML files to DIF Converter for Python., Convert MHTML to DIF in Python., MHTML files to DIF Conversion in Python., Leverage intelligent data processing to automatically parse and save MHTML into DIF format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="MHTML को DIF में Python एक्सेल लाइब्रेरी में बदलें" h2="MHTML को DIF में परिवर्तित करने के लिए उच्च गति Python एक्सेल लाइब्रेरी। यह Python का उपयोग करके MHTML, DIF और कई अन्य प्रारूपों को आयात और निर्यात करने के लिए एक पेशेवर सॉफ्टवेयर समाधान है।" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="DIF" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -27,7 +27,7 @@ MHTML को DIF में बदलने के लिए आसान चर�
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="MHTML को DIF में Python एक्सेल लाइब्रेरी के माध्यम से बदलने के लिए नमूना कोड" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="mhtml" outformat="dif" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="MHTML को DIF में Python एक्सेल लाइब्रेरी के माध्यम से बदलने के लिए नमूना कोड" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="mhtml" outformat="dif" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="MHTML को Python के माध्यम से DIF में कैसे बदलें" %}}
 

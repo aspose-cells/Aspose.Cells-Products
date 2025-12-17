@@ -1,7 +1,7 @@
 ---
 title: Buat XLTM - Buat file XLTM di Python
-description: Aspose Unggul. Python Unggul. Python Buat file XLTM dengan cepat dan mudah dengan Aspose.Cells. Hasilkan file XLTM menggunakan Perpustakaan Excel Python. Buat XLTM di Perpustakaan Excel Python. Python XLTM Pencipta.
-keywords: [Aspose Python Excel., Python Aspose.Cells., Python Create XLTM file., Generate XLTM file in Python Excel Library., Create XLTM file using Python Excel Library., Write data to XLTM file via Python Excel Library., Create a XLTM file in Python Excel Library., Python Generate a XLTM file., Python XLTM Creater]
+description: Aspose Excel. Hasilkan dan manipulasi file XLTM dengan mudah menggunakan pustaka Aspose.Cells for Python via Java. Pustaka API yang canggih ini menyediakan solusi yang efisien dan mudah untuk membuat, mengedit, dan mengelola file XLTM langsung di dalam aplikasi Python Anda, memenuhi kebutuhan pengembang tertentu dengan presisi tinggi.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Create XLTM file., Generate XLTM file in Python., Write data to XLTM file via Python., Python XLTM Creater., Aspose.Cells for Python via Java is a powerful library that enables developers to programmatically create, generate, and manipulate XLTM files in Python]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Buat File XLTM di Perpustakaan Excel Python" h2="Pustaka Excel Python berkecepatan tinggi untuk membuat file XLTM. Ini adalah solusi perangkat lunak profesional untuk mengimpor dan mengekspor XLSX, PDF, dan banyak format lainnya menggunakan Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLTM" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -108,7 +108,7 @@ Aspose.Cells for Python via Java tidak bergantung pada platform API dan dapat di
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/create/tsv/" name="TSV" description="Nilai yang Dipisahkan Tab" >}} 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/create/ods/" name="ODS" description="Lembar Bentang OpenDocument" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/create/pdf/" name="PDF" description="Format Dokumen Portabel" >}} 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/create/html/" name="HTML" description="Hyper Text Markup Language" >}} 
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/create/html/" name="HTML" description="Bahasa Markup Teks Hiper" >}} 
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

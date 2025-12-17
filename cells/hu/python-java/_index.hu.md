@@ -1,8 +1,8 @@
 ---
-title:  Python Excel-táblázat API - Aspose
+title: Python Excel táblázat API - Aspose.Cells for Python via Java
 weight: 2820
-description: Python könyvtár Excel fájlok létrehozásához, javításához, egyesítéséhez, elemzéséhez és konvertálásához. Az Excel konvertálása PDF, JSON, HTML, TXT és más népszerű formátumokká.
-keywords: [Python Aspose.Cells Create parse repair merge convert JSON Excel XML PDF HTML TSV SQL CSV TSV PNG JPEG and more formats]
+description: Aspose.Cells for Python via Java könyvtár Excel fájlok létrehozásához, javításához, egyesítéséhez, elemzéséhez és konvertálásához. Excel fájlok konvertálása PDF, JSON, HTML, TXT és más népszerű formátumokba a Aspose.Cells for Python via Java API segítségével.
+keywords: [Aspose.Cells for Python via Java Create parse repair merge convert JSON Excel XML PDF HTML TSV SQL CSV TSV PNG JPEG and more formats]
 ---
 {{< blocks/products/pf/main-wrap-class >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Python Excel-táblázatok elemzési API-k" h2="A Python alkalmazásokon belül táblázatokat generálhat, olvashat, írhat vagy kezelhet, valamint Excel-fájlokat exportálhat több formátumba." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/headers/aspose_cells-for-python-java.svg" pfName="Aspose.Cells" subTitlepfName="for Python via Java" downloadUrl="https://releases.aspose.com/cells/python-java/" >}}

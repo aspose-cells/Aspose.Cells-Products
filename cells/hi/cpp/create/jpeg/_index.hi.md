@@ -1,7 +1,7 @@
 ---
 title: JPEG बनाएँ - C++ में JPEG फ़ाइल बनाएँ
-description: Aspose एक्सेल। C++ Aspose.Cells के साथ जल्दी और आसानी से JPEG फ़ाइल बनाएं। C++ का उपयोग करके JPEG फ़ाइल बनाएं। C++ में JPEG बनाएं। C++ JPEG क्रिएटर।
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ Create JPEG file., Generate JPEG file in C++., Create JPEG file using C++., Write data to JPEG file via C++., Create a JPEG file in C++., C++ Generate a JPEG file., C++ JPEG Creater]
+description: Aspose Excel. Aspose.Cells for C++ लाइब्रेरी से JPEG फ़ाइलें आसानी से बनाएं और उनमें बदलाव करें। यह पावरफ़ुल API आपके C++ एप्लिकेशन में सीधे JPEG फ़ाइलें बनाने, एडिट करने और मैनेज करने के लिए एक आसान और कुशल सॉल्यूशन देता है, जो खास डेवलपर की ज़रूरतों को बहुत सटीकता से पूरा करता है।
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ Create JPEG file., Generate JPEG file in C++., Write data to JPEG file via C++., C++ JPEG Creater., Aspose.Cells for C++ is a powerful library that enables developers to programmatically create, generate, and manipulate JPEG files in C++]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="C++ में JPEG फ़ाइल बनाएँ" h2="C++ लाइब्रेरी का उपयोग करके Microsoft Office के बिना प्रोग्रामेटिक रूप से मूल और उच्च प्रदर्शन JPEG फ़ाइल निर्माण।" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" sourceAdditionalConversionTag="" additionalConversionTag="JPEG" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -11,7 +11,7 @@ keywords: [Aspose Excel., C++ Aspose.Cells., C++ Create JPEG file., Generate JPE
 
 {{% blocks/products/pf/agp/content h2="C++ का उपयोग करके JPEG फ़ाइल बनाएँ" %}}
 
- JPEG फ़ाइल कैसे बनाएं? Aspose.Cells for C++ लाइब्रेरी के साथ, आप आसानी से कोड की कुछ पंक्तियों के साथ प्रोग्रामेटिक रूप से JPEG फ़ाइल बना सकते हैं।[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) सभी एक्सेल फ़ाइलों को उत्पन्न करने, संशोधित करने, परिवर्तित करने, प्रस्तुत करने और प्रिंट करने की क्षमता के साथ क्रॉस-प्लेटफ़ॉर्म एप्लिकेशन बनाने में सक्षम है। C++ एक्सेल API न केवल स्प्रेडशीट प्रारूपों के बीच परिवर्तित होता है, बल्कि यह एक्सेल फाइलों को छवियों, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT और अधिक के रूप में भी प्रस्तुत कर सकता है, इस प्रकार यह उद्योग-मानक प्रारूपों में दस्तावेजों का आदान-प्रदान करने के लिए एक आदर्श विकल्प बन जाता है। आप इसका नवीनतम संस्करण सीधे डाउनलोड कर सकते हैं, बस खोलें[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) पैकेज मैनेजर, Aspose.Cells.सीपीपी खोजें और इंस्टॉल करें। आप पैकेज मैनेजर कंसोल से निम्न कमांड का भी उपयोग कर सकते हैं।
+ JPEG फ़ाइल कैसे बनाएँ? Aspose.Cells for C++ लाइब्रेरी के साथ, आप आसानी से कोड की कुछ पंक्तियों के साथ प्रोग्रामेटिक रूप से JPEG फ़ाइल बना सकते हैं।[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) सभी एक्सेल फ़ाइलों को बनाने, संशोधित करने, परिवर्तित करने, रेंडर करने और प्रिंट करने की क्षमता के साथ क्रॉस-प्लेटफ़ॉर्म एप्लिकेशन बनाने में सक्षम है। C++ एक्सेल API न केवल स्प्रेडशीट प्रारूपों के बीच कनवर्ट करता है, बल्कि यह एक्सेल फ़ाइलों को छवियों, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT और अधिक के रूप में भी प्रस्तुत कर सकता है, इस प्रकार यह उद्योग-मानक प्रारूपों में दस्तावेज़ों का आदान-प्रदान करने के लिए एक आदर्श विकल्प है। आप इसका नवीनतम संस्करण सीधे डाउनलोड कर सकते हैं, बस खोलें[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/)पैकेज मैनेजर में, Aspose.Cells.Cpp खोजें और इंस्टॉल करें। आप पैकेज मैनेजर कंसोल से निम्न कमांड का भी उपयोग कर सकते हैं।
 
 {{% blocks/products/pf/agp/code-block title="आज्ञा" offSpacer="true" %}}
 
@@ -30,21 +30,22 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% blocks/products/pf/agp/text %}}
 
- डेवलपर्स के लिए कोड की कुछ पंक्तियों में डेटा प्रोसेसिंग के लिए चल रहे रिपोर्टिंग एप्लिकेशन के भीतर JPEG फ़ाइलों को बनाना, लोड करना, संशोधित करना और परिवर्तित करना आसान है।
+ डेवलपर्स के लिए कोड की कुछ ही पंक्तियों में डेटा प्रोसेसिंग के लिए चल रहे रिपोर्टिंग अनुप्रयोगों के भीतर JPEG फ़ाइलों को बनाना, लोड करना, संशोधित करना और परिवर्तित करना आसान है।
 
 {{% /blocks/products/pf/agp/text %}}
 
-1.  वर्कबुक क्लास का एक ऑब्जेक्ट बनाएं।
-1.  वर्कशीट ऑब्जेक्ट में पहली शीट प्राप्त करें।
-1.  वर्कशीट की कोशिकाओं को Cells ऑब्जेक्ट में लाने के लिए वर्कशीट.गेटसेल्स() विधि का उपयोग करें।
-1. वर्कशीट के वांछित सेल को Cell ऑब्जेक्ट में एक्सेस करने के लिए Cells.गेट() विधि का उपयोग करें।
+1.  वर्कबुक क्लास का एक ऑब्जेक्ट बनाएँ.
+1.  पहली शीट को वर्कशीट ऑब्जेक्ट में लाएँ।
+1.  वर्कशीट के कक्षों को Cells ऑब्जेक्ट में लाने के लिए Worksheet.GetCells() विधि का उपयोग करें।
+1.  कार्यपत्रक के वांछित कक्ष को Cell ऑब्जेक्ट में एक्सेस करने के लिए Cells.Get() विधि का उपयोग करें।
 1.  सेल में मान इनपुट करने के लिए Cell.PutValue() विधि का उपयोग करें।
-1.  Save() विधि का उपयोग करके कार्यपुस्तिका को .jpg फ़ाइल के रूप में सहेजें।
+1.  Save() मेथड का इस्तेमाल करके वर्कबुक को .jpg फ़ाइल के रूप में सेव करें।
 
-{{% blocks/products/pf/agp/code-block title="नमूना कोड दिखाता है कि C++ में JPEG फ़ाइल कैसे बनाएं।" offSpacer="" %}}
+{{% blocks/products/pf/agp/code-block title="नमूना कोड दिखाता है कि C++ में JPEG फ़ाइल कैसे बनाई जाए।" offSpacer="" %}}
 
 ```cs
 Aspose::Cells::Startup();
+//TIFF format is not supported
 
 // Create an object of the Workbook class.
 Workbook wkb;
@@ -81,17 +82,17 @@ Aspose::Cells::Cleanup();
 {{% /blocks/products/pf/agp/code-block %}}
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="JPEG फ़ाइल बनाने के लिए C++ लाइब्रेरी" %}}
+{{% blocks/products/pf/agp/content h2="C++ लाइब्रेरी में JPEG फ़ाइल बनाएँ" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
-आपके सिस्टम पर "Aspose.Cells for C++" इंस्टॉल करने के लिए तीन विकल्प हैं। कृपया वह चुनें जो आपकी आवश्यकताओं से मेल खाता हो और चरण-दर-चरण निर्देशों का पालन करें:
+आपके सिस्टम पर "Aspose.Cells for C++" इंस्टॉल करने के लिए तीन विकल्प हैं। कृपया अपनी ज़रूरतों के मुताबिक कोई एक विकल्प चुनें और चरण-दर-चरण निर्देशों का पालन करें:
 
 {{% /blocks/products/pf/agp/text %}}
 
-1.  ए स्थापित करें[NuGet पैकेज](https://www.nuget.org/packages/Aspose.Cells.Cpp/) . देखना[प्रलेखन](https://docs.aspose.com/cells/cpp/installation/#using-nuget-package-manager)
-1.  इन्क्लूड और लिब फोल्डर्स का उपयोग करके लाइब्रेरी स्थापित करें। देखना[प्रलेखन](https://docs.aspose.com/cells/cpp/installation/#using-include-and-lib-folders)
-1.  लिनक्स में Aspose.Cells for C++ स्थापित करें। देखना[प्रलेखन](https://docs.aspose.com/cells/cpp/installation/#installing-asposecells-for-c-in-linux)
+1.  स्थापित करें[NuGet पैकेज](https://www.nuget.org/packages/Aspose.Cells.Cpp/) । देखना[प्रलेखन](https://docs.aspose.com/cells/cpp/installation/#using-nuget-package-manager)
+1.  Include और lib फ़ोल्डर्स का उपयोग करके लाइब्रेरी स्थापित करें। देखें[प्रलेखन](https://docs.aspose.com/cells/cpp/installation/#using-include-and-lib-folders)
+1.  Linux में Aspose.Cells for C++ स्थापित करें। देखें[प्रलेखन](https://docs.aspose.com/cells/cpp/installation/#installing-asposecells-for-c-in-linux)
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -99,25 +100,25 @@ Aspose::Cells::Cleanup();
 
 {{% blocks/products/pf/agp/text %}}
 
- C++ रूपांतरण नमूना स्रोत कोड चलाने से पहले, सुनिश्चित करें कि आपके पास निम्नलिखित आवश्यकताएँ हैं।
+ C++ रूपांतरण नमूना स्रोत कोड चलाने से पहले, सुनिश्चित करें कि आपके पास निम्नलिखित पूर्वापेक्षाएँ हैं।
 
 {{% /blocks/products/pf/agp/text %}}
 
-- Microsoft Windows या Windows 32 बिट, Windows 64 बिट और लिनक्स 64 बिट के लिए C++ रनटाइम एनवायरमेंट के साथ एक संगत ओएस।
-- अपने प्रोजेक्ट में Aspose.Cells for C++ डीएलएल का संदर्भ जोड़ें।
+- Microsoft Windows या Windows 32 बिट, Windows 64 बिट और लिनक्स 64 बिट के लिए C++ रनटाइम एनवायरनमेंट के साथ संगत ओएस।
+- अपने प्रोजेक्ट में Aspose.Cells for C++ DLL का संदर्भ जोड़ें।
 
 {{% /blocks/products/pf/agp/content %}}
 
 <!-- aboutfile Starts -->
     {{< blocks/products/pf/agp/about-file-section >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="JPEG" readMoreLink="https://docs.fileformat.com/image/jpg/" >}}JPEG एक प्रकार का छवि प्रारूप है जिसे हानिपूर्ण संपीड़न की विधि का उपयोग करके सहेजा जाता है। संपीड़न के परिणामस्वरूप आउटपुट छवि, भंडारण आकार और छवि गुणवत्ता के बीच एक समझौता है। उपयोगकर्ता वांछित गुणवत्ता स्तर प्राप्त करने के लिए संपीड़न स्तर को समायोजित कर सकते हैं और साथ ही भंडारण आकार को कम कर सकते हैं। यदि छवि पर 10:1 संपीड़न लागू किया जाता है तो छवि गुणवत्ता नगण्य रूप से प्रभावित होती है। संपीड़न मान जितना अधिक होगा, छवि गुणवत्ता में गिरावट उतनी ही अधिक होगी।{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="JPEG" readMoreLink="https://docs.fileformat.com/image/jpg/" >}}JPEG एक प्रकार का इमेज फ़ॉर्मेट है जिसे लॉसी कम्प्रेशन की विधि का उपयोग करके सहेजा जाता है। कम्प्रेशन के परिणामस्वरूप आउटपुट इमेज, स्टोरेज आकार और इमेज क्वालिटी के बीच एक समझौता है। उपयोगकर्ता वांछित गुणवत्ता स्तर को प्राप्त करने के लिए कम्प्रेशन स्तर को समायोजित कर सकते हैं जबकि उसी समय स्टोरेज आकार को कम कर सकते हैं। यदि छवि पर 10:1 कम्प्रेशन लागू किया जाता है, तो छवि की गुणवत्ता नगण्य रूप से प्रभावित होती है। कम्प्रेशन मान जितना अधिक होगा, छवि की गुणवत्ता में उतनी ही अधिक गिरावट होगी।{{< /blocks/products/pf/agp/i18n/about-file-text >}}
     {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="अन्य समर्थित शीट जनरेशन" subTitle="आप नीचे सूचीबद्ध कुछ सहित अन्य Microsoft एक्सेल फ़ाइलें भी बना सकते हैं।" >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/create/xls/" name="XLS" description="Microsoft एक्सेल स्प्रेडशीट (विरासत)" >}} 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/create/xlsx/" name="XLSX" description="XML वर्कबुक खोलें" >}} 
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/create/xlsx/" name="XLSX" description="XML कार्यपुस्तिका खोलें" >}} 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/create/xlsb/" name="XLSB" description="एक्सेल बाइनरी वर्कबुक" >}} 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/create/xlsm/" name="XLSM" description="मैक्रो-सक्षम स्प्रेडशीट" >}} 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/create/xlt/" name="XLT" description="एक्सेल 97 - 2003 टेम्पलेट" >}} 

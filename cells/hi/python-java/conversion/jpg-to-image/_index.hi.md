@@ -1,7 +1,7 @@
 ---
 title: Python JPG से छवि - JPG से छवि कनवर्टर
-description: Aspose Excel. Python Excel. Aspose.Cells के साथ JPG को IMAGE में जल्दी और आसानी से बदलें. Python JPG को IMAGE में बदलें. Python JPG को IMAGE में सेव करें. Python Excel लाइब्रेरी का उपयोग करके JPG को IMAGE के रूप में सेव करें.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert JPG to IMAGE in Python Excel Library., Save JPG to IMAGE using Python Excel Library., Python JPG to IMAGE saveformat., JPG to IMAGE Converter., Python Save JPG as IMAGE]
+description: Aspose Excel. यह पूरा सॉल्यूशन Python डेवलपर्स को JPG को IMAGE फ़ॉर्मेट में बदलने के लिए पूरी तरह से इंटीग्रेटेड तरीका देता है, जिससे Aspose.Cells लाइब्रेरी का इस्तेमाल करके JPG डेटा को IMAGE फ़ॉर्मेट में आसानी से सेव किया जा सकता है, यह सब कुशल और कस्टमाइज़ेबल Python कोड के ज़रिए होता है।
+keywords: [Aspose Excel., Python Aspose.Cells., Smart JPG files to IMAGE Converter for Python., Convert JPG to IMAGE in Python., JPG files to IMAGE Conversion in Python., Leverage intelligent data processing to automatically parse and save JPG into IMAGE format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Python एक्सेल लाइब्रेरी में JPG को IMAGE में बदलें" h2="JPG को IMAGE में बदलने के लिए हाई-स्पीड Python एक्सेल लाइब्रेरी। यह Python का उपयोग करके JPG, IMAGE और कई अन्य प्रारूपों को आयात और निर्यात करने के लिए एक पेशेवर सॉफ़्टवेयर समाधान है।" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="IMAGE" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -27,7 +27,7 @@ JPG को IMAGE में बदलने के लिए आसान चर�
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Python एक्सेल लाइब्रेरी के माध्यम से JPG को IMAGE में बदलने के लिए नमूना कोड" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="jpg" outformat="png" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="Python एक्सेल लाइब्रेरी के माध्यम से JPG को IMAGE में बदलने के लिए नमूना कोड" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="jpg" outformat="png" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="Python के माध्यम से JPG को IMAGE में कैसे बदलें" %}}
 

@@ -1,7 +1,7 @@
 ---
 title: BMP létrehozása – BMP fájl létrehozása a Python-ben
-description: Aspose Excel. Python Excel. Python Hozzon létre BMP Fájlokat gyorsan és egyszerűen a Aspose.Cells segítségével. Hozzon létre BMP fájlt a Python Excel Library használatával. Hozzon létre BMP-et a Python Excel-könyvtárban. Python BMP Alkotó.
-keywords: [Aspose Python Excel., Python Aspose.Cells., Python Create BMP file., Generate BMP file in Python Excel Library., Create BMP file using Python Excel Library., Write data to BMP file via Python Excel Library., Create a BMP file in Python Excel Library., Python Generate a BMP file., Python BMP Creater]
+description: Aspose Excel. Könnyedén generálhat és kezelhet BMP fájlokat a Aspose.Cells for Python via Java könyvtárral. Ez a nagy teljesítményű API leegyszerűsített és hatékony megoldást kínál a BMP fájlok létrehozására, szerkesztésére és kezelésére közvetlenül a Python alkalmazásokban, nagy pontossággal kielégítve a fejlesztők speciális igényeit.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Create BMP file., Generate BMP file in Python., Write data to BMP file via Python., Python BMP Creater., Aspose.Cells for Python via Java is a powerful library that enables developers to programmatically create, generate, and manipulate BMP files in Python]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Hozzon létre BMP fájlt a Python Excel könyvtárban" h2="Nagy sebességű Python Excel könyvtár a BMP fájl létrehozásához. Ez egy professzionális szoftvermegoldás a XLSX, PDF és sok más formátum importálásához és exportálásához a Python használatával." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="BMP" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -106,9 +106,9 @@ Aspose.Cells for Python via Java platformfüggetlen API, és bármilyen platform
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/create/xltm/" name="XLTM" description="Excel makró-engedélyezett sablon" >}} 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/create/csv/" name="CSV" description="Vesszővel elválasztott értékek" >}} 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/create/tsv/" name="TSV" description="Tabulátorral elválasztott értékek" >}} 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/create/ods/" name="ODS" description="OpenDocument Spreadsheet" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/create/ods/" name="ODS" description="OpenDocument táblázatkezelő" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/create/pdf/" name="PDF" description="Hordozható dokumentum formátum" >}} 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/create/html/" name="HTML" description="Hyper Text Markup Language" >}} 
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/create/html/" name="HTML" description="Hiperszöveg-jelölőnyelv" >}} 
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

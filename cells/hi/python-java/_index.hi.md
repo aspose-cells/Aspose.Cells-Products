@@ -1,8 +1,8 @@
 ---
-title:  Python एक्सेल स्प्रेडशीट API - Aspose
+title: Python एक्सेल स्प्रेडशीट API - Aspose.Cells for Python via Java
 weight: 2820
-description: एक्सेल फ़ाइलों को बनाने, सुधारने, मर्ज करने, पार्स करने और कनवर्ट करने के लिए Python लाइब्रेरी। एक्सेल को PDF, JSON, HTML, TXT और अन्य लोकप्रिय प्रारूपों में कनवर्ट करें।
-keywords: [Python Aspose.Cells Create parse repair merge convert JSON Excel XML PDF HTML TSV SQL CSV TSV PNG JPEG and more formats]
+description: Aspose.Cells for Python via Java लाइब्रेरी का इस्तेमाल करके एक्सेल फ़ाइलें बनाएं, रिपेयर करें, मर्ज करें, पार्स करें और कन्वर्ट करें। Aspose.Cells for Python via Java API का इस्तेमाल करके एक्सेल को PDF, JSON, HTML, TXT और दूसरे पॉपुलर फ़ॉर्मैट में कन्वर्ट करें।
+keywords: [Aspose.Cells for Python via Java Create parse repair merge convert JSON Excel XML PDF HTML TSV SQL CSV TSV PNG JPEG and more formats]
 ---
 {{< blocks/products/pf/main-wrap-class >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Python एक्सेल स्प्रेडशीट पार्सिंग APIs" h2="Python अनुप्रयोगों के भीतर स्प्रेडशीट तैयार करना, पढ़ना, लिखना या उनमें परिवर्तन करना, साथ ही एक्सेल फाइलों को एकाधिक प्रारूपों में निर्यात करना।" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/headers/aspose_cells-for-python-java.svg" pfName="Aspose.Cells" subTitlepfName="for Python via Java" downloadUrl="https://releases.aspose.com/cells/python-java/" >}}

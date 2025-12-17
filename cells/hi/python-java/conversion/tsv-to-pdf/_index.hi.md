@@ -1,7 +1,7 @@
 ---
 title: Python TSV से PDF - TSV से PDF कनवर्टर
-description: Aspose Excel. Python Excel. Aspose.Cells के साथ TSV को PDF में तेजी से और आसानी से बदलें. Python TSV से PDF. Python TSV को PDF में सहेजें. TSV को PDF के रूप में Python Excel लाइब्रेरी का उपयोग करके सहेजें.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert TSV to PDF in Python Excel Library., Save TSV to PDF using Python Excel Library., Python TSV to PDF saveformat., TSV to PDF Converter., Python Save TSV as PDF]
+description: Aspose Excel. यह पूरा सॉल्यूशन Python डेवलपर्स को TSV को PDF फ़ॉर्मेट में बदलने के लिए पूरी तरह से इंटीग्रेटेड तरीका देता है, जिससे TSV डेटा को Aspose.Cells लाइब्रेरी का इस्तेमाल करके PDF फ़ॉर्मेट में आसानी से सेव किया जा सकता है, यह सब कुशल और कस्टमाइज़ेबल Python कोड के ज़रिए होता है।
+keywords: [Aspose Excel., Python Aspose.Cells., Smart TSV files to PDF Converter for Python., Convert TSV to PDF in Python., TSV files to PDF Conversion in Python., Leverage intelligent data processing to automatically parse and save TSV into PDF format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="TSV को PDF में Python एक्सेल लाइब्रेरी में बदलें" h2="TSV को PDF में परिवर्तित करने के लिए उच्च गति Python एक्सेल लाइब्रेरी। यह Python का उपयोग करके TSV, PDF और कई अन्य प्रारूपों को आयात और निर्यात करने के लिए एक पेशेवर सॉफ्टवेयर समाधान है।" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="PDF" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -27,7 +27,7 @@ TSV को PDF में बदलने के लिए आसान चरण
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="TSV को PDF में Python एक्सेल लाइब्रेरी के माध्यम से बदलने के लिए नमूना कोड" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="tsv" outformat="pdf" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="TSV को PDF में Python एक्सेल लाइब्रेरी के माध्यम से बदलने के लिए नमूना कोड" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="tsv" outformat="pdf" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="TSV को Python के माध्यम से PDF में कैसे बदलें" %}}
 

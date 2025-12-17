@@ -1,7 +1,7 @@
 ---
 title: Python SPREADSHEETML en MARKDOWN - Convertisseur SPREADSHEETML en MARKDOWN
-description: Aspose Exceller. Python Exceller. Convertissez SPREADSHEETML en MARKDOWN rapidement et facilement avec Aspose.Cells. Python SPREADSHEETML en MARKDOWN. Python Enregistrez SPREADSHEETML en MARKDOWN. Enregistrez SPREADSHEETML sous MARKDOWN à l'aide de la bibliothèque Excel Python.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert SPREADSHEETML to MARKDOWN in Python Excel Library., Save SPREADSHEETML to MARKDOWN using Python Excel Library., Python SPREADSHEETML to MARKDOWN saveformat., SPREADSHEETML to MARKDOWN Converter., Python Save SPREADSHEETML as MARKDOWN]
+description: Aspose Excel. Cette solution complète offre aux développeurs Python une approche entièrement intégrée pour convertir SPREADSHEETML au format MARKDOWN, permettant un enregistrement transparent des données SPREADSHEETML au format MARKDOWN à l'aide de la bibliothèque Aspose.Cells, le tout grâce à un code Python efficace et personnalisable.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart SPREADSHEETML files to MARKDOWN Converter for Python., Convert SPREADSHEETML to MARKDOWN in Python., SPREADSHEETML files to MARKDOWN Conversion in Python., Leverage intelligent data processing to automatically parse and save SPREADSHEETML into MARKDOWN format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Convertir SPREADSHEETML en MARKDOWN dans la bibliothèque Excel Python" h2="Bibliothèque Excel Python haute vitesse pour convertir SPREADSHEETML en MARKDOWN. Il s\'agit d\'une solution logicielle professionnelle pour importer et exporter SPREADSHEETML, MARKDOWN et de nombreux autres formats utilisant Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="MARKDOWN" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -27,7 +27,7 @@ Suivez les étapes simples pour convertir SPREADSHEETML en MARKDOWN. Télécharg
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Exemple de code pour convertir SPREADSHEETML en MARKDOWN via la bibliothèque Excel Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xml" outformat="md" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="Exemple de code pour convertir SPREADSHEETML en MARKDOWN via la bibliothèque Excel Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="xml" outformat="md" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="Comment convertir SPREADSHEETML en MARKDOWN via Python" %}}
 
@@ -88,8 +88,8 @@ Aspose.Cells for Python via Java est indépendant de la plate-forme API et peut 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/spreadsheetml-to-md/" name="FEUILLE DE TABLEAU ML VERS MD" description="Langage de démarque" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/spreadsheetml-to-mhtml/" name="FEUILLE DE TABLEAU ML AU MHTML" description="Format d\'archive de pages Web" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/spreadsheetml-to-ods/" name="FEUILLE DE TABLEAU ML AU ODS" description="Fichier de feuille de calcul OpenDocument" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/spreadsheetml-to-pdf/" name="FEUILLE DE TABLEAU ML AU PDF" description="Portable Document Format" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/spreadsheetml-to-png/" name="FEUILLE DE TABLEAU ML AU PNG" description="Portable Network Graphics" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/spreadsheetml-to-pdf/" name="FEUILLE DE TABLEAU ML AU PDF" description="Format de document portable" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/spreadsheetml-to-png/" name="FEUILLE DE TABLEAU ML AU PNG" description="Graphiques de réseau portables" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/spreadsheetml-to-svg/" name="FEUILLE DE TABLEAU ML AU SVG" description="Image Vectorielle" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/spreadsheetml-to-tiff/" name="FEUILLE DE TABLEAU ML AU TIFF" description="Format d\'image balisé" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/spreadsheetml-to-tsv/" name="FEUILLE DE TABLEAU ML AU TSV" description="Valeurs séparées par des tabulations" >}}

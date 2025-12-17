@@ -1,10 +1,10 @@
 ---
-title:  Node.js API-k Excel-táblázatokhoz – Aspose
+title:  Node.js via Java API-k Excel táblázatokhoz - Aspose
 weight: 3120
-description: Az Excel fájlformátumok feldolgozása a Node.js könyvtáron keresztül. Olvassa el az írási renderelést és konvertálja a XLS XLSX XLSB XLTX XLTM XLSM XML ODS CSV CSV CSV és több formátumot a Linux061818 és további formátumok között a Node, maOS3 és maOS3818 rendszeren keresztül.
+description: "Excel fájlformátumok feldolgozása a Node.js via Java könyvtár használatával. Olvasás, írás, renderelés és konvertálás: XLS XLSX XLSB XLTX XLTM XLSM XML ODS CSV és további formátumok Node.js via Java használatával Windows, macOS és Linux rendszereken."
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="Node.js Excel fájlformátum API-k" h2="Generáljon, módosítson, konvertáljon és jelenítsen meg Excel-táblázatokat a Node.js használatával a Microsoft Excel használata nélkül." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/headers/aspose_cells-for-nodejs-java.svg" pfName="Aspose.Cells" subTitlepfName="for Node.js via Java" downloadUrl="https://downloads.aspose.com/cells/nodejs" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="Node.js via Java Excel fájlformátum API-k" h2="Excel táblázatok generálása, módosítása, konvertálása és renderelése Node.js via Java használatával, Microsoft Excel nélkül." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/headers/aspose_cells-for-nodejs-java.svg" pfName="Aspose.Cells" subTitlepfName="for Node.js via Java" downloadUrl="https://downloads.aspose.com/cells/nodejs" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells" subTitlepfName="for Node.js via Java" >}}
 
@@ -12,7 +12,7 @@ description: Az Excel fájlformátumok feldolgozása a Node.js könyvtáron kere
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
- Aspose.Cells for Node.js via Java funkciókban gazdag és méretezhető API Excel-táblázatok Node.js használatával történő feldolgozásához. A API Excel fájlformátum-konverziót, munkalapok stílusát a legrészletesebb szintre, diagramkészítést és diagramkészítést kínál; renderelés, megbízható képletszámító motor és még sok más.
+ A Aspose.Cells for Node.js via Java egy funkciókban gazdag és skálázható API, amely Excel-táblázatok Node.js via Java használatával dolgozza fel. A API Excel fájlformátum-konvertálást, a munkalapok legrészletesebb szintű formázását, diagramok létrehozását és renderelését, megbízható képletszámító motort és még sok minden mást kínál.
 </p>
 
 <p>
@@ -271,7 +271,7 @@ Csak kimenet
  <div class="row">
   <div class="container">
    <h2 class="pr-ft">
- Speciális Node.js Excel-táblázat API jellemzői
+ Speciális Node.js via Java Excel Táblázatkezelő API Jellemzők
    </h2>
    <p>
    </p>
@@ -343,7 +343,7 @@ Csak kimenet
  Excel-táblázatok renderelése
     </h2>
     <p>
-Aspose.Cells for Node.js via Java a renderelő motorját használja a Microsoft Excelbe való rendereléshez a lehető legnagyobb pontossággal. A Node.js Excel Processing könyvtár használata közben teljes lapokat, egyedi fájlokat vagy diagramokat konvertálhat több képpé és rögzített elrendezésű formátummá.
+ A Aspose.Cells for Node.js via Java renderelőmotorját használja a Microsoft Excel formátumú képek legmagasabb szintű rendereléséhez. A Node.js via Java Excel feldolgozó könyvtár használatával teljes munkalapok, egyes fájlok vagy diagramok több képpé és fix elrendezésű formátumokká konvertálhatók.
     </p>
    </div>
    <div class="col-lg-12">
@@ -415,7 +415,7 @@ Aspose.Cells for Node.js via Java teljes mértékben támogatja a diagramkészí
 
 {{< /blocks/products/pf/i18n/support-learning-resources >}}
 
-{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://downloads.aspose.com/cells/nodejs" pricingInformationLink="https://purchase.aspose.com/pricing/cells/nodejs-java" >}}
+{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://releases.aspose.com/cells/nodejs/" pricingInformationLink="https://purchase.aspose.com/pricing/cells/nodejs-java" >}}
 
 {{< blocks/products/pf/offers-section pfName="Aspose.Cells" description="Aspose.Cells egyedi Excel API-kat kínál más népszerű fejlesztői környezetekhez, az alábbiak szerint:" >}}
 

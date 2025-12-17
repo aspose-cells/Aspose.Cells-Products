@@ -1,7 +1,7 @@
 ---
 title: Python XLS से PPTX - XLS से PPTX कनवर्टर
-description: Aspose Excel. Python Excel. Aspose.Cells के साथ XLS को PPTX में तेजी से और आसानी से बदलें. Python XLS से PPTX. Python XLS को PPTX में सहेजें. XLS को PPTX के रूप में Python Excel लाइब्रेरी का उपयोग करके सहेजें.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert XLS to PPTX in Python Excel Library., Save XLS to PPTX using Python Excel Library., Python XLS to PPTX saveformat., XLS to PPTX Converter., Python Save XLS as PPTX]
+description: Aspose Excel. यह पूरा सॉल्यूशन Python डेवलपर्स को XLS को PPTX फ़ॉर्मेट में बदलने के लिए पूरी तरह से इंटीग्रेटेड तरीका देता है, जिससे XLS डेटा को Aspose.Cells लाइब्रेरी का इस्तेमाल करके PPTX फ़ॉर्मेट में आसानी से सेव किया जा सकता है, यह सब कुशल और कस्टमाइज़ेबल Python कोड के ज़रिए होता है।
+keywords: [Aspose Excel., Python Aspose.Cells., Smart XLS files to PPTX Converter for Python., Convert XLS to PPTX in Python., XLS files to PPTX Conversion in Python., Leverage intelligent data processing to automatically parse and save XLS into PPTX format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="XLS को PPTX में Python एक्सेल लाइब्रेरी में बदलें" h2="XLS को PPTX में परिवर्तित करने के लिए उच्च गति Python एक्सेल लाइब्रेरी। यह Python का उपयोग करके XLS, PPTX और कई अन्य प्रारूपों को आयात और निर्यात करने के लिए एक पेशेवर सॉफ्टवेयर समाधान है।" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="PPTX" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -27,7 +27,7 @@ XLS को PPTX में बदलने के लिए आसान चर�
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="XLS को PPTX में Python एक्सेल लाइब्रेरी के माध्यम से बदलने के लिए नमूना कोड" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xls" outformat="pptx" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="XLS को PPTX में Python एक्सेल लाइब्रेरी के माध्यम से बदलने के लिए नमूना कोड" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="xls" outformat="pptx" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="XLS को Python के माध्यम से PPTX में कैसे बदलें" %}}
 

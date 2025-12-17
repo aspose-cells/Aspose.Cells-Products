@@ -1,7 +1,7 @@
 ---
 title: Python NUMBERS से TABDELIMITED - NUMBERS से TABDELIMITED कनवर्टर
-description: Aspose Excel. Python Excel. Aspose.Cells के साथ NUMBERS को TABDELIMITED में जल्दी और आसानी से बदलें. Python NUMBERS को TABDELIMITED में बदलें. Python NUMBERS को TABDELIMITED में सेव करें. Python Excel लाइब्रेरी का उपयोग करके NUMBERS को TABDELIMITED के रूप में सेव करें.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert NUMBERS to TABDELIMITED in Python Excel Library., Save NUMBERS to TABDELIMITED using Python Excel Library., Python NUMBERS to TABDELIMITED saveformat., NUMBERS to TABDELIMITED Converter., Python Save NUMBERS as TABDELIMITED]
+description: Aspose Excel. यह पूरा सॉल्यूशन Python डेवलपर्स को NUMBERS को TABDELIMITED फ़ॉर्मेट में बदलने के लिए पूरी तरह से इंटीग्रेटेड तरीका देता है, जिससे Aspose.Cells लाइब्रेरी का इस्तेमाल करके NUMBERS डेटा को TABDELIMITED फ़ॉर्मेट में आसानी से सेव किया जा सकता है, यह सब कुशल और कस्टमाइज़ेबल Python कोड के ज़रिए होता है।
+keywords: [Aspose Excel., Python Aspose.Cells., Smart NUMBERS files to TABDELIMITED Converter for Python., Convert NUMBERS to TABDELIMITED in Python., NUMBERS files to TABDELIMITED Conversion in Python., Leverage intelligent data processing to automatically parse and save NUMBERS into TABDELIMITED format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Python Excel लाइब्रेरी में NUMBERS को TABDELIMITED में बदलें" h2="NUMBERS को TABDELIMITED में बदलने के लिए हाई-स्पीड Python एक्सेल लाइब्रेरी। यह Python का उपयोग करके NUMBERS, TABDELIMITED और कई अन्य प्रारूपों को आयात और निर्यात करने के लिए एक पेशेवर सॉफ़्टवेयर समाधान है।" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="TABDELIMITED" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -27,7 +27,7 @@ NUMBERS को TABDELIMITED में बदलने के लिए आसा
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Python एक्सेल लाइब्रेरी के माध्यम से NUMBERS को TABDELIMITED में बदलने के लिए नमूना कोड" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="numbers" outformat="tsv" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="Python एक्सेल लाइब्रेरी के माध्यम से NUMBERS को TABDELIMITED में बदलने के लिए नमूना कोड" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="numbers" outformat="tsv" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="Python के माध्यम से NUMBERS को TABDELIMITED में कैसे बदलें" %}}
 

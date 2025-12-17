@@ -1,8 +1,8 @@
 ---
-title:  Python Feuille de calcul Excel API - Aspose
+title: Python Feuille de calcul Excel API - Aspose.Cells for Python via Java
 weight: 2820
-description: Python pour créer, réparer, fusionner, analyser et convertir des fichiers Excel. Convertissez Excel en PDF, JSON, HTML, TXT et d'autres formats populaires.
-keywords: [Python Aspose.Cells Create parse repair merge convert JSON Excel XML PDF HTML TSV SQL CSV TSV PNG JPEG and more formats]
+description: Bibliothèque Aspose.Cells for Python via Java permettant de créer, réparer, fusionner, analyser et convertir des fichiers Excel. Convertissez des fichiers Excel aux formats PDF, JSON, HTML, TXT et autres formats courants grâce aux bibliothèques Aspose.Cells for Python via Java et API.
+keywords: [Aspose.Cells for Python via Java Create parse repair merge convert JSON Excel XML PDF HTML TSV SQL CSV TSV PNG JPEG and more formats]
 ---
 {{< blocks/products/pf/main-wrap-class >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Python API d\'analyse de feuilles de calcul Excel" h2="Générez, lisez, écrivez ou manipulez des feuilles de calcul et exportez des fichiers Excel vers plusieurs formats dans les applications Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/headers/aspose_cells-for-python-java.svg" pfName="Aspose.Cells" subTitlepfName="for Python via Java" downloadUrl="https://releases.aspose.com/cells/python-java/" >}}

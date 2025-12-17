@@ -1,7 +1,7 @@
 ---
 title: Python MHT から EXCEL - MHT から EXCEL へのコンバーター
-description: Aspose Excel。Python Excel。Aspose.Cells を使用して、MHT を EXCEL にすばやく簡単に変換します。Python MHT を EXCEL に変換します。Python MHT を EXCEL に保存します。Python Excel ライブラリを使用して、MHT を EXCEL として保存します。
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert MHT to EXCEL in Python Excel Library., Save MHT to EXCEL using Python Excel Library., Python MHT to EXCEL saveformat., MHT to EXCEL Converter., Python Save MHT as EXCEL]
+description: Aspose Excel。この包括的なソリューションは、Python開発者にMHTをEXCEL形式に変換するための完全に統合されたアプローチを提供し、Aspose.Cellsライブラリを使用してMHTデータをEXCEL形式にシームレスに保存することを可能にします。これらはすべて、効率的でカスタマイズ可能なPythonコードを通じて行われます。
+keywords: [Aspose Excel., Python Aspose.Cells., Smart MHT files to EXCEL Converter for Python., Convert MHT to EXCEL in Python., MHT files to EXCEL Conversion in Python., Leverage intelligent data processing to automatically parse and save MHT into EXCEL format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Python Excel ライブラリで MHT を EXCEL に変換する" h2="MHT を EXCEL に変換するための高速 Python Excel ライブラリ。Python で高レベルのプラットフォームに依存しないソフトウェアを開発するには、当社の Excel 変換 API を使用してください。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="EXCEL" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -28,7 +28,7 @@ MHT を EXCEL に変換するにはどうすればいいですか? Aspose.Cells 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Python Excel ライブラリを使用して MHT を EXCEL に変換するサンプル コード" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="mht" outformat="xlsx" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Python Excel ライブラリを使用して MHT を EXCEL に変換するサンプル コード" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="mht" outformat="xlsx" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="MHT を EXCEL に変換する方法" %}}
 

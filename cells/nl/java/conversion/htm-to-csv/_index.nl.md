@@ -1,7 +1,7 @@
 ---
 title: Java HTM naar CSV - HTM naar CSV Omvormer
-description: Aspose Excel. Converteer HTM snel en eenvoudig naar CSV met Aspose.Cells. Java HTM naar CSV. Java Bewaar HTM naar CSV. Sla HTM op als CSV met Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Convert HTM to CSV in Java., Save HTM to CSV using Java., Java HTM to CSV saveformat., HTM to CSV Converter., Java Save HTM as CSV]
+description: Aspose Excel. Deze complete oplossing biedt ontwikkelaars een volledig geïntegreerde aanpak voor het converteren van HTML naar het formaat CSV, waardoor HTML-gegevens naadloos kunnen worden opgeslagen in het formaat CSV met behulp van de bibliotheek Aspose.Cells, en dat alles via efficiënte en aanpasbare code Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Smart HTM files to CSV Converter for Java., Convert HTM to CSV in Java., HTM files to CSV Conversion in Java., Leverage intelligent data processing to automatically parse and save HTM into CSV format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Converteer HTM naar CSV in Java" h2="Snelle Java-bibliotheek voor het converteren van HTM naar CSV. Dit is een professionele softwareoplossing voor het importeren en exporteren van HTM, CSV en vele andere formaten met behulp van Java." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="CSV" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="CSV" >}}
@@ -45,9 +45,9 @@ keywords: [Aspose Excel., Java Aspose.Cells., Convert HTM to CSV in Java., Save 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Bewaar HTM op CSV in Java" %}}
+{{% blocks/products/pf/agp/content h2="Sla HTM op in CSV in Java" %}}
 
-Het volgende voorbeeld laat zien hoe u HTM converteert naar CSV in Java.
+Het volgende voorbeeld laat zien hoe je HTM naar CSV converteert in Java.
 {{% blocks/products/pf/agp/text %}}
 
 Volg de eenvoudige stappen om HTM naar CSV te converteren. Upload uw HTM-bestand en sla het vervolgens eenvoudig op als CSV-bestand. Voor zowel HTM-lezen als CSV-schrijven kunt u volledig gekwalificeerde bestandsnamen gebruiken. De inhoud en opmaak van de uitvoer CSV zullen identiek zijn aan het originele HTM-document.
@@ -56,19 +56,19 @@ Volg de eenvoudige stappen om HTM naar CSV te converteren. Upload uw HTM-bestand
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Voorbeeldcode om HTM naar CSV te converteren" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="htm" outformat="csv" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Voorbeeldcode om HTML naar CSV te converteren" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="htm" outformat="csv" IsLandingPage="true" language="java" %}}
 
-{{% blocks/products/pf/agp/content h2="HTM converteren naar CSV via Java" %}}
+{{% blocks/products/pf/agp/content h2="Hoe converteer ik HTML naar CSV via Java?" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
-Wilt u HTM-bestanden programmatisch naar CSV converteren? Java-ontwikkelaars kunnen HTM eenvoudig met slechts een paar regels code naar CSV converteren.
+Moet u HTML-bestanden programmatisch converteren naar CSV? Ontwikkelaars van Java kunnen HTML-bestanden eenvoudig in slechts enkele regels code converteren naar CSV.
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Installeer 'Aspose.Cells for Java'.
 1.  Voeg een bibliotheekreferentie toe (importeer de bibliotheek) aan uw Java-project.
-1.  Laad het HTM-bestand met een exemplaar van de Workbook-klasse.
+1.  Laad een HTML-bestand met een instantie van de klasse Workbook.
 1.  Converteer HTM naar CSV door de Workbook.save-methode aan te roepen.
 1.  Ontvang het conversieresultaat van HTM naar CSV.
 

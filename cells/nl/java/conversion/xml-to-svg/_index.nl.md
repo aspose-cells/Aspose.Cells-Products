@@ -1,7 +1,7 @@
 ---
 title: Java XML naar SVG - XML naar SVG Converter
-description: Aspose Excel. Converteer XML snel en eenvoudig naar SVG met Aspose.Cells. Java XML naar SVG. Java Sla XML op naar SVG. Sla XML op als SVG met Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Convert XML to SVG in Java., Save XML to SVG using Java., Java XML to SVG saveformat., XML to SVG Converter., Java Save XML as SVG]
+description: Aspose Excel. Deze uitgebreide oplossing biedt Java ontwikkelaars een volledig geïntegreerde aanpak voor het converteren van XML naar SVG-formaat, waardoor XML-gegevens naadloos kunnen worden opgeslagen in SVG-formaat met behulp van de Aspose.Cells-bibliotheek, allemaal via efficiënte en aanpasbare Java-code.
+keywords: [Aspose Excel., Java Aspose.Cells., Smart XML files to SVG Converter for Java., Convert XML to SVG in Java., XML files to SVG Conversion in Java., Leverage intelligent data processing to automatically parse and save XML into SVG format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Converteer XML naar SVG in Java" h2="Snelle Java-bibliotheek voor het converteren van XML naar SVG. Dit is een professionele softwareoplossing voor het importeren en exporteren van XML, SVG en vele andere formaten met behulp van Java." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="SVG" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="CSV" >}}
@@ -47,7 +47,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Convert XML to SVG in Java., Save 
 
 {{% blocks/products/pf/agp/content h2="Sla XML op in SVG in Java" %}}
 
-Het volgende voorbeeld laat zien hoe u XML converteert naar SVG in Java.
+Het volgende voorbeeld laat zien hoe XML naar SVG in Java kan worden geconverteerd.
 {{% blocks/products/pf/agp/text %}}
 
 Volg de eenvoudige stappen om XML naar SVG te converteren. Upload uw XML-bestand en sla het vervolgens eenvoudig op als SVG-bestand. Voor zowel het lezen van XML als het schrijven van SVG kunt u volledig gekwalificeerde bestandsnamen gebruiken. De inhoud en opmaak van de uitvoer SVG zullen identiek zijn aan het originele XML-document.
@@ -56,25 +56,25 @@ Volg de eenvoudige stappen om XML naar SVG te converteren. Upload uw XML-bestand
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Voorbeeldcode om XML naar SVG te converteren" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xml" outformat="svg" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Voorbeeldcode om XML naar SVG te converteren" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="xml" outformat="svg" IsLandingPage="true" language="java" %}}
 
-{{% blocks/products/pf/agp/content h2="Hoe XML te converteren naar SVG via Java" %}}
+{{% blocks/products/pf/agp/content h2="Hoe converteer je XML naar SVG via Java?" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
-Wilt u XML-bestanden programmatisch naar SVG converteren? Java-ontwikkelaars kunnen eenvoudig XML naar SVG converteren in slechts een paar regels code.
+Moet u XML-bestanden programmatisch converteren naar SVG? Ontwikkelaars van Java kunnen XML eenvoudig converteren naar SVG met slechts een paar regels code.
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Installeer 'Aspose.Cells for Java'.
 1.  Voeg een bibliotheekreferentie toe (importeer de bibliotheek) aan uw Java-project.
-1.  Laad een XML-bestand met een exemplaar van de Workbook-klasse.
+1.  Laad een XML-bestand met een instantie van de Workbook-klasse.
 1.  Converteer XML naar SVG door de Workbook.save-methode aan te roepen.
 1.  Haal het conversieresultaat van XML op naar SVG.
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Java-bibliotheek om XML naar SVG te converteren" %}}
+{{% blocks/products/pf/agp/content h2="Java bibliotheek om XML naar SVG te converteren" %}}
 {{% blocks/products/pf/agp/text %}}
 
  We hosten onze Java-pakketten in[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) opslagplaatsen. 'Aspose.Cells for Java' is een veelgebruikt JAR-bestand met bytecode. Volg alstublieft de[stapsgewijze instructies](https://docs.aspose.com/cells/java/installation/) over hoe u het installeert in uw Java-ontwikkelaarsomgeving.

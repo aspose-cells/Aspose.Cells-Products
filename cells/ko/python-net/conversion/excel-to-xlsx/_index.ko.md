@@ -1,7 +1,7 @@
 ---
 title: Python EXCEL 에서 XLSX - EXCEL 에서 XLSX 변환기
-description: Aspose 엑셀. Python 엑셀. Aspose.Cells을 사용하여 쉽고 빠르게 EXCEL을 XLSX로 변환합니다. Python EXCEL을 XLSX로 변환합니다. Python EXCEL을 XLSX로 저장합니다. Python Excel 라이브러리를 사용하여 EXCEL을 XLSX로 저장합니다.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert EXCEL to XLSX in Python Excel Library., Save EXCEL to XLSX using Python Excel Library., Python EXCEL to XLSX saveformat., EXCEL to XLSX Converter., Python Save EXCEL as XLSX]
+description: Aspose Excel. 이 포괄적인 솔루션은 Python 개발자에게 Excel을 XLSX 형식으로 변환하는 완벽하게 통합된 접근 방식을 제공하며, Aspose.Cells 라이브러리를 사용하여 Excel 데이터를 XLSX 형식으로 원활하게 저장할 수 있도록 지원합니다. 이 모든 작업은 효율적이고 사용자 정의 가능한 Python 코드를 통해 이루어집니다.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart EXCEL files to XLSX Converter for Python., Convert EXCEL to XLSX in Python., EXCEL files to XLSX Conversion in Python., Leverage intelligent data processing to automatically parse and save EXCEL into XLSX format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Python Excel 라이브러리에서 EXCEL을 XLSX로 변환" h2="EXCEL을 XLSX로 변환하기 위한 고속 Python Excel 라이브러리. Excel 변환 API을 사용하여 Python에서 플랫폼 독립적인 높은 수준의 소프트웨어를 개발하세요." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSX" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -28,7 +28,7 @@ EXCEL을 XLSX로 변환하는 쉬운 단계를 따르세요. EXCEL 파일을 업
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Python Excel 라이브러리를 통해 EXCEL을 XLSX로 변환하는 샘플 코드" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsx" outformat="xlsx" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Python Excel 라이브러리를 통해 EXCEL을 XLSX로 변환하는 샘플 코드" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="xlsx" outformat="xlsx" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="EXCEL을 XLSX로 변환하는 방법" %}}
 

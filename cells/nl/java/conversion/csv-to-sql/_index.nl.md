@@ -1,7 +1,7 @@
 ---
 title: Java CSV naar SQL - CSV naar SQL-converter
-description: Aspose Excel. Converteer CSV snel en eenvoudig naar SQL met Aspose.Cells. Java CSV naar SQL. Java Sla CSV op in SQL. Sla CSV op als SQL met behulp van Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Convert CSV to SQL in Java., Save CSV to SQL using Java., Java CSV to SQL saveformat., CSV to SQL Converter., Java Save CSV as SQL]
+description: Aspose Excel. Deze uitgebreide oplossing biedt Java ontwikkelaars een volledig geïntegreerde aanpak om CSV naar SQL-formaat te converteren, waardoor naadloos opslaan van CSV gegevens in SQL-formaat mogelijk is met behulp van de Aspose.Cells bibliotheek, allemaal via efficiënte en aanpasbare Java code.
+keywords: [Aspose Excel., Java Aspose.Cells., Smart CSV files to SQL Converter for Java., Convert CSV to SQL in Java., CSV files to SQL Conversion in Java., Leverage intelligent data processing to automatically parse and save CSV into SQL format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Converteer CSV naar SQL in Java" h2="Snelle Java-bibliotheek voor het converteren van CSV naar SQL. Dit is een professionele softwareoplossing voor het importeren en exporteren van CSV, SQL en vele andere formaten met behulp van Java." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="SQL" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="CSV" >}}
@@ -47,7 +47,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Convert CSV to SQL in Java., Save 
 
 {{% blocks/products/pf/agp/content h2="Sla CSV op in SQL in Java" %}}
 
-In het volgende voorbeeld ziet u hoe u CSV naar SQL converteert in Java.
+Het volgende voorbeeld laat zien hoe je CSV naar SQL kunt converteren in Java.
 {{% blocks/products/pf/agp/text %}}
 
 Volg de eenvoudige stappen om CSV naar SQL te converteren. Upload uw CSV-bestand en sla het vervolgens eenvoudig op als SQL-bestand. Voor zowel CSV-lezen als SQL-schrijven kunt u volledig gekwalificeerde bestandsnamen gebruiken. De uitvoer-SQL-inhoud en -opmaak zijn identiek aan het originele CSV-document.
@@ -56,19 +56,19 @@ Volg de eenvoudige stappen om CSV naar SQL te converteren. Upload uw CSV-bestand
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Voorbeeldcode om CSV naar SQL te converteren" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="csv" outformat="sql" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Voorbeeldcode om CSV naar SQL te converteren" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="csv" outformat="sql" IsLandingPage="true" language="java" %}}
 
-{{% blocks/products/pf/agp/content h2="Hoe CSV naar SQL via Java te converteren" %}}
+{{% blocks/products/pf/agp/content h2="Hoe converteer ik CSV naar SQL via Java?" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
-Wilt u CSV-bestanden programmatisch naar SQL converteren? Java-ontwikkelaars kunnen CSV eenvoudig met slechts een paar regels code naar SQL converteren.
+Moet u bestanden met de extensie CSV programmatisch naar SQL converteren? Ontwikkelaars van Java kunnen bestanden met de extensie CSV eenvoudig in een paar regels code naar SQL converteren.
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Installeer 'Aspose.Cells for Java'.
 1.  Voeg een bibliotheekreferentie toe (importeer de bibliotheek) aan uw Java-project.
-1. Laad bestand CSV met een exemplaar van de klasse Workbook.
+1.  Laad bestand CSV met een instantie van de klasse Workbook.
 1.  Converteer CSV naar SQL door de Workbook.save-methode aan te roepen.
 1.  Haal het conversieresultaat van CSV naar SQL op.
 

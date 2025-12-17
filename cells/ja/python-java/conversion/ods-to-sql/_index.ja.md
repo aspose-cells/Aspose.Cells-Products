@@ -1,7 +1,7 @@
 ---
 title: Python ODS から SQL - ODS から SQL へのコンバーター
-description: Aspose Excel。Python Excel。Aspose.Cells を使用して、ODS を SQL にすばやく簡単に変換します。Python ODS を SQL に変換します。Python ODS を SQL に保存します。Python Excel ライブラリを使用して、ODS を SQL として保存します。
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert ODS to SQL in Python Excel Library., Save ODS to SQL using Python Excel Library., Python ODS to SQL saveformat., ODS to SQL Converter., Python Save ODS as SQL]
+description: Aspose Excel。この包括的なソリューションは、Python開発者に、ODSをSQL形式に変換するための完全に統合されたアプローチを提供し、Aspose.Cellsライブラリを使用してODSデータをSQL形式にシームレスに保存することを可能にします。これらはすべて、効率的でカスタマイズ可能なPythonコードを通じて行われます。
+keywords: [Aspose Excel., Python Aspose.Cells., Smart ODS files to SQL Converter for Python., Convert ODS to SQL in Python., ODS files to SQL Conversion in Python., Leverage intelligent data processing to automatically parse and save ODS into SQL format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Python Excel ライブラリで ODS を SQL に変換する" h2="ODS を SQL に変換するための高速 Python Excel ライブラリ。これは、Python を使用して ODS、SQL、および他の多くの形式をインポートおよびエクスポートするためのプロフェッショナル ソフトウェア ソリューションです。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="SQL" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -27,7 +27,7 @@ ODS を SQL に変換するには、簡単な手順に従ってください。OD
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Python Excel ライブラリを使用して ODS を SQL に変換するサンプル コード" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="ods" outformat="sql" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="Python Excel ライブラリを使用して ODS を SQL に変換するサンプル コード" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="ods" outformat="sql" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="Python 経由で ODS を SQL に変換する方法" %}}
 

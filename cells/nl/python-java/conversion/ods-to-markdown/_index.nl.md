@@ -1,7 +1,7 @@
 ---
 title: Python ODS tot MARKDOWN - ODS tot MARKDOWN Converter
-description: Aspose Excel. Python Excel. Converteer ODS snel en eenvoudig naar MARKDOWN met Aspose.Cells. Python ODS naar MARKDOWN. Python Bewaar ODS naar MARKDOWN. Bewaar ODS als 076112 3481 met behulp van de Excel-bibliotheek Python.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert ODS to MARKDOWN in Python Excel Library., Save ODS to MARKDOWN using Python Excel Library., Python ODS to MARKDOWN saveformat., ODS to MARKDOWN Converter., Python Save ODS as MARKDOWN]
+description: Aspose Excel. Deze uitgebreide oplossing biedt ontwikkelaars een volledig geïntegreerde aanpak voor het converteren van gegevens van het formaat ODS naar MARKDOWN, waardoor naadloos opslaan van gegevens in het formaat ODS mogelijk is met behulp van de bibliotheek Aspose.Cells, allemaal via efficiënte en aanpasbare code Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart ODS files to MARKDOWN Converter for Python., Convert ODS to MARKDOWN in Python., ODS files to MARKDOWN Conversion in Python., Leverage intelligent data processing to automatically parse and save ODS into MARKDOWN format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Converteer ODS naar MARKDOWN in de Excel-bibliotheek Python" h2="Snelle Python Excel-bibliotheek voor het converteren van ODS naar MARKDOWN. Dit is een professionele softwareoplossing voor het importeren en exporteren van ODS, MARKDOWN en vele andere formaten met behulp van Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="MARKDOWN" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -27,7 +27,7 @@ Volg de eenvoudige stappen om ODS naar MARKDOWN te converteren. Upload uw ODS-be
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Voorbeeldcode om ODS naar MARKDOWN te converteren via de Excel-bibliotheek Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="ods" outformat="md" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="Voorbeeldcode om ODS naar MARKDOWN te converteren via de Excel-bibliotheek Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="ods" outformat="md" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="Hoe u ODS naar MARKDOWN kunt converteren via Python" %}}
 

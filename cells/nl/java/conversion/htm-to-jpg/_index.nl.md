@@ -1,7 +1,7 @@
 ---
 title: Java HTM naar JPG - HTM naar JPG-converter
-description: Aspose Excel. Converteer HTM snel en eenvoudig naar JPG met Aspose.Cells. Java HTM naar JPG. Java HTM opslaan in JPG. Sla HTM op als JPG met Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Convert HTM to JPG in Java., Save HTM to JPG using Java., Java HTM to JPG saveformat., HTM to JPG Converter., Java Save HTM as JPG]
+description: Aspose Excel. Deze complete oplossing biedt ontwikkelaars een volledig geïntegreerde aanpak voor het converteren van HTML naar JPG-formaat, waardoor HTML-gegevens naadloos in JPG-formaat kunnen worden opgeslagen met behulp van de bibliotheek, en dat alles via efficiënte en aanpasbare code.
+keywords: [Aspose Excel., Java Aspose.Cells., Smart HTM files to JPG Converter for Java., Convert HTM to JPG in Java., HTM files to JPG Conversion in Java., Leverage intelligent data processing to automatically parse and save HTM into JPG format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Converteer HTM naar JPG in Java" h2="Snelle Java-bibliotheek voor het converteren van HTM naar JPG. Dit is een professionele softwareoplossing voor het importeren en exporteren van HTM, JPG en vele andere formaten met behulp van Java." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="JPG" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="CSV" >}}
@@ -45,9 +45,9 @@ keywords: [Aspose Excel., Java Aspose.Cells., Convert HTM to JPG in Java., Save 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Sla HTM op in JPG in Java" %}}
+{{% blocks/products/pf/agp/content h2="Sla HTM op als JPG in Java" %}}
 
-Het volgende voorbeeld laat zien hoe u HTM naar JPG converteert in Java.
+Het volgende voorbeeld laat zien hoe je HTML naar JPG converteert in Java.
 {{% blocks/products/pf/agp/text %}}
 
 Volg de eenvoudige stappen om HTM naar JPG te converteren. Upload uw HTM-bestand en sla het vervolgens eenvoudig op als JPG-bestand. Voor zowel HTM-lezen als JPG-schrijven kunt u volledig gekwalificeerde bestandsnamen gebruiken. De uitgevoerde JPG-inhoud en opmaak zullen identiek zijn aan het originele HTM-document.
@@ -56,25 +56,25 @@ Volg de eenvoudige stappen om HTM naar JPG te converteren. Upload uw HTM-bestand
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Voorbeeldcode om HTM naar JPG te converteren" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="htm" outformat="jpg" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Voorbeeldcode om HTML naar JPG te converteren" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="htm" outformat="jpg" IsLandingPage="true" language="java" %}}
 
-{{% blocks/products/pf/agp/content h2="Hoe HTM naar JPG te converteren via Java" %}}
+{{% blocks/products/pf/agp/content h2="Hoe HTML naar JPG te converteren via Java" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
-Wilt u HTM-bestanden programmatisch naar JPG converteren? Java-ontwikkelaars kunnen HTM eenvoudig met slechts een paar regels code naar JPG converteren.
+Moet je HTML-bestanden programmatisch naar JPG converteren? Ontwikkelaars van Java kunnen HTML-bestanden eenvoudig naar JPG converteren met slechts een paar regels code.
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Installeer 'Aspose.Cells for Java'.
 1.  Voeg een bibliotheekreferentie toe (importeer de bibliotheek) aan uw Java-project.
-1.  Laad het HTM-bestand met een exemplaar van de Workbook-klasse.
+1.  Laad een HTML-bestand met een instantie van de klasse Workbook.
 1.  Converteer HTM naar JPG door de Workbook.save-methode aan te roepen.
-1. Ontvang het conversieresultaat van HTM naar JPG.
+1.  Ontvang het conversieresultaat van HTM naar JPG.
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Java bibliotheek om HTM naar JPG te converteren" %}}
+{{% blocks/products/pf/agp/content h2="Bibliotheek Java voor het converteren van HTML naar JPG" %}}
 {{% blocks/products/pf/agp/text %}}
 
  We hosten onze Java-pakketten in[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) opslagplaatsen. 'Aspose.Cells for Java' is een veelgebruikt JAR-bestand met bytecode. Volg alstublieft de[stapsgewijze instructies](https://docs.aspose.com/cells/java/installation/) over hoe u het installeert in uw Java-ontwikkelaarsomgeving.

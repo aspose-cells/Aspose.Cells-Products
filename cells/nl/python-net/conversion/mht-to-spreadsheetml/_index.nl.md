@@ -1,7 +1,7 @@
 ---
 title: Python MHT naar SPREADSHEETML - MHT naar SPREADSHEETML-converter
-description: Aspose Excel. Python Excel. Converteer MHT snel en eenvoudig naar SPREADSHEETML met Aspose.Cells. Python MHT naar SPREADSHEETML. Python MHT opslaan in SPREADSHEETML. Sla MHT op als SPREADSHEETML met behulp van de Excel-bibliotheek Python.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert MHT to SPREADSHEETML in Python Excel Library., Save MHT to SPREADSHEETML using Python Excel Library., Python MHT to SPREADSHEETML saveformat., MHT to SPREADSHEETML Converter., Python Save MHT as SPREADSHEETML]
+description: Aspose Excel. Deze complete oplossing biedt ontwikkelaars een volledig geïntegreerde aanpak voor het converteren van MHT naar SPREADSHEETML-formaat, waardoor het naadloos opslaan van MHT-gegevens in SPREADSHEETML-formaat mogelijk is met behulp van de bibliotheek, alles via efficiënte en aanpasbare code.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart MHT files to SPREADSHEETML Converter for Python., Convert MHT to SPREADSHEETML in Python., MHT files to SPREADSHEETML Conversion in Python., Leverage intelligent data processing to automatically parse and save MHT into SPREADSHEETML format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Converteer MHT naar SPREADSHEETML in Python Excel-bibliotheek" h2="Snelle Python Excel-bibliotheek voor het converteren van MHT naar SPREADSHEETML. Gebruik onze Excel-conversie API om hoogwaardige, platformonafhankelijke software te ontwikkelen in Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="SPREADSHEETML" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -28,7 +28,7 @@ Volg de eenvoudige stappen om MHT naar SPREADSHEETML te converteren. Upload uw M
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Voorbeeldcode om MHT naar SPREADSHEETML te converteren via de Excel-bibliotheek Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="mht" outformat="xml" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Voorbeeldcode om MHT naar SPREADSHEETML te converteren via de Excel-bibliotheek Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="mht" outformat="xml" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="Hoe MHT naar SPREADSHEETML te converteren" %}}
 

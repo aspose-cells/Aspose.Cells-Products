@@ -1,7 +1,7 @@
 ---
 title: Java XML naar XLSX - XML naar XLSX Converter
-description: Aspose Excel. Converteer XML snel en eenvoudig naar XLSX met Aspose.Cells. Java XML naar XLSX. Java Sla XML op naar XLSX. Sla XML op als XLSX met Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Convert XML to XLSX in Java., Save XML to XLSX using Java., Java XML to XLSX saveformat., XML to XLSX Converter., Java Save XML as XLSX]
+description: Aspose Excel. Deze uitgebreide oplossing biedt Java ontwikkelaars een volledig geïntegreerde aanpak voor het converteren van XML naar XLSX-formaat, waardoor XML-gegevens naadloos kunnen worden opgeslagen in XLSX-formaat met behulp van de Aspose.Cells-bibliotheek, allemaal via efficiënte en aanpasbare Java-code.
+keywords: [Aspose Excel., Java Aspose.Cells., Smart XML files to XLSX Converter for Java., Convert XML to XLSX in Java., XML files to XLSX Conversion in Java., Leverage intelligent data processing to automatically parse and save XML into XLSX format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Converteer XML naar XLSX in Java" h2="Snelle Java-bibliotheek voor het converteren van XML naar XLSX. Dit is een professionele softwareoplossing voor het importeren en exporteren van XML, XLSX en vele andere formaten met behulp van Java." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSX" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="CSV" >}}
@@ -47,7 +47,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Convert XML to XLSX in Java., Save
 
 {{% blocks/products/pf/agp/content h2="Sla XML op in XLSX in Java" %}}
 
-Het volgende voorbeeld laat zien hoe u XML converteert naar XLSX in Java.
+Het volgende voorbeeld laat zien hoe XML naar XLSX in Java kan worden geconverteerd.
 {{% blocks/products/pf/agp/text %}}
 
 Volg de eenvoudige stappen om XML naar XLSX te converteren. Upload uw XML-bestand en sla het vervolgens eenvoudig op als XLSX-bestand. Voor zowel het lezen van XML als het schrijven van XLSX kunt u volledig gekwalificeerde bestandsnamen gebruiken. De inhoud en opmaak van de uitvoer XLSX zullen identiek zijn aan het originele XML-document.
@@ -56,25 +56,25 @@ Volg de eenvoudige stappen om XML naar XLSX te converteren. Upload uw XML-bestan
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Voorbeeldcode om XML naar XLSX te converteren" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xml" outformat="xlsx" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Voorbeeldcode om XML naar XLSX te converteren" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="xml" outformat="xlsx" IsLandingPage="true" language="java" %}}
 
-{{% blocks/products/pf/agp/content h2="Hoe XML te converteren naar XLSX via Java" %}}
+{{% blocks/products/pf/agp/content h2="Hoe converteer je XML naar XLSX via Java?" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
-Wilt u XML-bestanden programmatisch naar XLSX converteren? Java-ontwikkelaars kunnen eenvoudig XML naar XLSX converteren in slechts een paar regels code.
+Moet u XML-bestanden programmatisch converteren naar XLSX? Ontwikkelaars van Java kunnen XML eenvoudig converteren naar XLSX met slechts een paar regels code.
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Installeer 'Aspose.Cells for Java'.
 1.  Voeg een bibliotheekreferentie toe (importeer de bibliotheek) aan uw Java-project.
-1.  Laad een XML-bestand met een exemplaar van de Workbook-klasse.
+1.  Laad een XML-bestand met een instantie van de Workbook-klasse.
 1.  Converteer XML naar XLSX door de Workbook.save-methode aan te roepen.
 1.  Haal het conversieresultaat van XML op naar XLSX.
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Java-bibliotheek om XML naar XLSX te converteren" %}}
+{{% blocks/products/pf/agp/content h2="Java bibliotheek om XML naar XLSX te converteren" %}}
 {{% blocks/products/pf/agp/text %}}
 
  We hosten onze Java-pakketten in[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) opslagplaatsen. 'Aspose.Cells for Java' is een veelgebruikt JAR-bestand met bytecode. Volg alstublieft de[stapsgewijze instructies](https://docs.aspose.com/cells/java/installation/) over hoe u het installeert in uw Java-ontwikkelaarsomgeving.

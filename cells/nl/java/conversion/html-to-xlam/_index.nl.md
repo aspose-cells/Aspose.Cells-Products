@@ -1,7 +1,7 @@
 ---
 title: Java HTML tot XLAM - HTML tot XLAM Converter
-description: Aspose Excel. Converteer HTML snel en eenvoudig naar XLAM met Aspose.Cells. Java HTML naar XLAM. Java Bewaar HTML in XLAM. Bewaar HTML als 07611134 81 via Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Convert HTML to XLAM in Java., Save HTML to XLAM using Java., Java HTML to XLAM saveformat., HTML to XLAM Converter., Java Save HTML as XLAM]
+description: Aspose Excel. Deze uitgebreide oplossing biedt ontwikkelaars een volledig geïntegreerde aanpak voor het converteren van gegevens van het formaat HTML naar XLAM, waardoor naadloos opslaan van gegevens in het formaat HTML mogelijk is met behulp van de bibliotheek Aspose.Cells, allemaal via efficiënte en aanpasbare code Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Smart HTML files to XLAM Converter for Java., Convert HTML to XLAM in Java., HTML files to XLAM Conversion in Java., Leverage intelligent data processing to automatically parse and save HTML into XLAM format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Converteer HTML naar XLAM in Java" h2="Snelle Java-bibliotheek voor het converteren van HTML naar XLAM. Dit is een professionele softwareoplossing voor het importeren en exporteren van HTML, XLAM en vele andere formaten met behulp van Java." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLAM" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Convert HTML to XLAM in Java., Sav
 
 {{% blocks/products/pf/agp/content h2="Converteer HTML naar XLAM met behulp van Java" %}}
 
-Hoe converteer ik HTML naar XLAM? Met de bibliotheek Aspose.Cells for Java kunt u HTML eenvoudig programmatisch naar XLAM converteren met een paar regels code.[Aspose.Cells for Java](https://products.aspose.com/cells/java)is in staat om platformonafhankelijke applicaties te bouwen met de mogelijkheid om alle Excel-bestanden te genereren, wijzigen, converteren, renderen en afdrukken. Java Excel API converteert niet alleen tussen spreadsheetformaten, het kan ook Excel-bestanden weergeven als afbeeldingen, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT en meer, waardoor het een perfecte keuze is om documenten uit te wisselen in industriestandaardformaten. U kunt de nieuwste versie rechtstreeks downloaden van[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) en installeer het binnen uw op Maven gebaseerde project door de volgende configuraties toe te voegen aan pom.xml.
+ Hoe converteer ik HTML naar XLAM? Met de bibliotheek Aspose.Cells for Java kunt u HTML eenvoudig programmatisch naar XLAM converteren met een paar regels code.[Aspose.Cells for Java](https://products.aspose.com/cells/java)is in staat om platformonafhankelijke applicaties te bouwen met de mogelijkheid om alle Excel-bestanden te genereren, wijzigen, converteren, renderen en afdrukken. Java Excel API converteert niet alleen tussen spreadsheetformaten, het kan ook Excel-bestanden weergeven als afbeeldingen, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT en meer, waardoor het een perfecte keuze is om documenten uit te wisselen in industriestandaardformaten. U kunt de nieuwste versie rechtstreeks downloaden van[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) en installeer het binnen uw op Maven gebaseerde project door de volgende configuraties toe te voegen aan pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Opslagplaats" offSpacer="true" %}}
 
@@ -45,9 +45,9 @@ Hoe converteer ik HTML naar XLAM? Met de bibliotheek Aspose.Cells for Java kunt 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Bewaar HTML t/m XLAM in Java" %}}
+{{% blocks/products/pf/agp/content h2="Sla HTML op in XLAM in Java" %}}
 
-Het volgende voorbeeld laat zien hoe u HTML converteert naar XLAM in Java.
+Het volgende voorbeeld laat zien hoe je HTML omzet naar XLAM in Java.
 {{% blocks/products/pf/agp/text %}}
 
 Volg de eenvoudige stappen om HTML naar XLAM te converteren. Upload uw HTML-bestand en sla het vervolgens eenvoudig op als XLAM-bestand. Voor zowel HTML lezen als XLAM schrijven kunt u volledig gekwalificeerde bestandsnamen gebruiken. De inhoud en opmaak van de uitvoer XLAM zullen identiek zijn aan het originele document HTML.
@@ -56,19 +56,19 @@ Volg de eenvoudige stappen om HTML naar XLAM te converteren. Upload uw HTML-best
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Voorbeeldcode om HTML naar XLAM te converteren" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="html" outformat="xlam" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Voorbeeldcode om HTML naar XLAM te converteren" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="html" outformat="xlam" IsLandingPage="true" language="java" %}}
 
-{{% blocks/products/pf/agp/content h2="Hoe HTML naar XLAM via Java te converteren" %}}
+{{% blocks/products/pf/agp/content h2="Hoe zet ik HTML om naar XLAM of via Java?" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
-Wilt u HTML-bestanden programmatisch naar XLAM converteren? Java-ontwikkelaars kunnen HTML eenvoudig in slechts een paar regels code naar XLAM converteren.
+Moet je bestanden met de extensie HTML programmatisch converteren naar XLAM? Ontwikkelaars van Java kunnen bestanden met de extensie HTML eenvoudig converteren naar XLAM met slechts een paar regels code.
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Installeer 'Aspose.Cells for Java'.
 1.  Voeg een bibliotheekreferentie toe (importeer de bibliotheek) aan uw Java-project.
-1. Laad bestand HTML met een exemplaar van de klasse Workbook.
+1.  Laad bestand HTML met een instantie van de klasse Workbook.
 1.  Converteer HTML naar XLAM door de Workbook.save-methode aan te roepen.
 1.  Verkrijg het conversieresultaat van HTML naar XLAM.
 

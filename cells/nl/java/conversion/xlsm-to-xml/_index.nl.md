@@ -1,7 +1,7 @@
 ---
 title: Java XLSM naar XML - XLSM naar XML-converter
-description: Aspose Excel. Converteer XLSM snel en eenvoudig naar XML met Aspose.Cells. Java XLSM naar XML. Java Sla XLSM op in XML. Sla XLSM op als XML met behulp van Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Convert XLSM to XML in Java., Save XLSM to XML using Java., Java XLSM to XML saveformat., XLSM to XML Converter., Java Save XLSM as XML]
+description: Aspose Excel. Deze uitgebreide oplossing biedt Java ontwikkelaars een volledig geïntegreerde aanpak om XLSM naar XML-formaat te converteren, waardoor naadloos opslaan van XLSM gegevens in XML-formaat mogelijk is met behulp van de Aspose.Cells bibliotheek, allemaal via efficiënte en aanpasbare Java code.
+keywords: [Aspose Excel., Java Aspose.Cells., Smart XLSM files to XML Converter for Java., Convert XLSM to XML in Java., XLSM files to XML Conversion in Java., Leverage intelligent data processing to automatically parse and save XLSM into XML format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Converteer XLSM naar XML in Java" h2="Snelle Java-bibliotheek voor het converteren van XLSM naar XML. Dit is een professionele softwareoplossing voor het importeren en exporteren van XLSM, XML en vele andere formaten met behulp van Java." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="XML" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Convert XLSM to XML in Java., Save
 
 {{% blocks/products/pf/agp/content h2="Converteer XLSM naar XML met behulp van Java" %}}
 
- Hoe converteer ik XLSM naar XML? Met de bibliotheek Aspose.Cells for Java kunt u XLSM eenvoudig programmatisch naar XML converteren met een paar regels code.[Aspose.Cells for Java](https://products.aspose.com/cells/java)is in staat om platformonafhankelijke applicaties te bouwen met de mogelijkheid om alle Excel-bestanden te genereren, wijzigen, converteren, renderen en afdrukken. Java Excel API converteert niet alleen tussen spreadsheetformaten, het kan ook Excel-bestanden weergeven als afbeeldingen, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT en meer, waardoor het een perfecte keuze is om documenten uit te wisselen in industriestandaardformaten. U kunt de nieuwste versie rechtstreeks downloaden van[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) en installeer het binnen uw op Maven gebaseerde project door de volgende configuraties toe te voegen aan pom.xml.
+Hoe converteer ik XLSM naar XML? Met de bibliotheek Aspose.Cells for Java kunt u XLSM eenvoudig programmatisch naar XML converteren met een paar regels code.[Aspose.Cells for Java](https://products.aspose.com/cells/java)is in staat om platformonafhankelijke applicaties te bouwen met de mogelijkheid om alle Excel-bestanden te genereren, wijzigen, converteren, renderen en afdrukken. Java Excel API converteert niet alleen tussen spreadsheetformaten, het kan ook Excel-bestanden weergeven als afbeeldingen, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT en meer, waardoor het een perfecte keuze is om documenten uit te wisselen in industriestandaardformaten. U kunt de nieuwste versie rechtstreeks downloaden van[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) en installeer het binnen uw op Maven gebaseerde project door de volgende configuraties toe te voegen aan pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Opslagplaats" offSpacer="true" %}}
 
@@ -45,9 +45,9 @@ keywords: [Aspose Excel., Java Aspose.Cells., Convert XLSM to XML in Java., Save
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Sla XLSM op in XML in Java" %}}
+{{% blocks/products/pf/agp/content h2="Sla XLSM op als XML in Java" %}}
 
-Het volgende voorbeeld laat zien hoe u XLSM naar XML converteert in Java.
+Het volgende voorbeeld laat zien hoe u XLSM naar XML kunt converteren in Java.
 {{% blocks/products/pf/agp/text %}}
 
 Volg de eenvoudige stappen om XLSM naar XML te converteren. Upload uw XLSM-bestand en sla het vervolgens eenvoudig op als XML-bestand. Voor zowel XLSM-lezen als XML-schrijven kunt u volledig gekwalificeerde bestandsnamen gebruiken. De uitvoer-XML-inhoud en opmaak zullen identiek zijn aan het originele XLSM-document.
@@ -56,19 +56,19 @@ Volg de eenvoudige stappen om XLSM naar XML te converteren. Upload uw XLSM-besta
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Voorbeeldcode om XLSM naar XML te converteren" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsm" outformat="xml" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Voorbeeldcode om XLSM naar XML te converteren" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="xlsm" outformat="xml" IsLandingPage="true" language="java" %}}
 
-{{% blocks/products/pf/agp/content h2="Hoe XLSM naar XML via Java te converteren" %}}
+{{% blocks/products/pf/agp/content h2="Hoe converteer ik XLSM naar XML via Java?" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
-Wilt u XLSM-bestanden programmatisch naar XML converteren? Java-ontwikkelaars kunnen XLSM eenvoudig in slechts een paar regels code naar XML converteren.
+Moet u XLSM-bestanden programmatisch naar XML converteren? Ontwikkelaars van Java kunnen XLSM-bestanden eenvoudig in slechts een paar regels code naar XML converteren.
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Installeer 'Aspose.Cells for Java'.
 1.  Voeg een bibliotheekreferentie toe (importeer de bibliotheek) aan uw Java-project.
-1. Laad bestand XLSM met een exemplaar van de klasse Workbook.
+1.  Laad bestand XLSM met een instantie van de klasse Workbook.
 1.  Converteer XLSM naar XML door de Workbook.save-methode aan te roepen.
 1.  Verkrijg het conversieresultaat van XLSM naar XML.
 

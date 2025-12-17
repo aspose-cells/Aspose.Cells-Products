@@ -1,7 +1,7 @@
 ---
 title: Crea XLSB - Crea file XLSB in Python
-description: Aspose Excel. Python Excel. Python Crea il file XLSB in modo rapido e semplice con Aspose.Cells. Genera il file XLSB utilizzando la libreria Excel Python. Crea XLSB nella libreria Excel Python. Python XLSB Creatore.
-keywords: [Aspose Python Excel., Python Aspose.Cells., Python Create XLSB file., Generate XLSB file in Python Excel Library., Create XLSB file using Python Excel Library., Write data to XLSB file via Python Excel Library., Create a XLSB file in Python Excel Library., Python Generate a XLSB file., Python XLSB Creater]
+description: Aspose Excel. Genera e manipola senza sforzo i file XLSB con la libreria Aspose.Cells for Python via Java. Questa potente libreria API offre una soluzione semplificata ed efficiente per creare, modificare e gestire i file XLSB direttamente all'interno delle tue applicazioni Python, soddisfacendo le esigenze specifiche degli sviluppatori con elevata precisione.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Create XLSB file., Generate XLSB file in Python., Write data to XLSB file via Python., Python XLSB Creater., Aspose.Cells for Python via Java is a powerful library that enables developers to programmatically create, generate, and manipulate XLSB files in Python]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Crea il file XLSB nella libreria Excel Python" h2="Libreria Excel Python ad alta velocità per la creazione del file XLSB. Questa è una soluzione software professionale per importare ed esportare XLSX, PDF e molti altri formati utilizzando Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSB" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -108,7 +108,7 @@ Aspose.Cells for Python via Java è indipendente dalla piattaforma API e può es
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/create/tsv/" name="TSV" description="Valori separati da tabulazioni" >}} 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/create/ods/" name="ODS" description="Foglio di calcolo OpenDocument" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/create/pdf/" name="PDF" description="Formato documento portatile" >}} 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/create/html/" name="HTML" description="Hyper Text Markup Language" >}} 
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/create/html/" name="HTML" description="Linguaggio di markup ipertestuale" >}} 
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

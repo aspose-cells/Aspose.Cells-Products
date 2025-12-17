@@ -1,7 +1,7 @@
 ---
 title: Python XLS naar SQL - XLS naar SQL-converter
-description: Aspose Excel. Python Excel. Converteer XLS snel en eenvoudig naar SQL met Aspose.Cells. Python XLS naar SQL. Python Sla XLS op in SQL. Sla XLS op als SQL met behulp van de Excel-bibliotheek Python.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert XLS to SQL in Python Excel Library., Save XLS to SQL using Python Excel Library., Python XLS to SQL saveformat., XLS to SQL Converter., Python Save XLS as SQL]
+description: Aspose Excel. Deze uitgebreide oplossing biedt Python ontwikkelaars een volledig geïntegreerde aanpak om XLS naar SQL-formaat te converteren, waardoor naadloos opslaan van XLS gegevens in SQL-formaat mogelijk is met behulp van de Aspose.Cells bibliotheek, allemaal via efficiënte en aanpasbare Python code.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart XLS files to SQL Converter for Python., Convert XLS to SQL in Python., XLS files to SQL Conversion in Python., Leverage intelligent data processing to automatically parse and save XLS into SQL format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Converteer XLS naar SQL in de Excel-bibliotheek Python" h2="Snelle Python Excel-bibliotheek voor het converteren van XLS naar SQL. Dit is een professionele softwareoplossing voor het importeren en exporteren van XLS, SQL en vele andere formaten met behulp van Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="SQL" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -27,7 +27,7 @@ Volg de eenvoudige stappen om XLS naar SQL te converteren. Upload uw XLS-bestand
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Voorbeeldcode om XLS naar SQL te converteren via de Excel-bibliotheek Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xls" outformat="sql" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="Voorbeeldcode om XLS naar SQL te converteren via de Excel-bibliotheek Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="xls" outformat="sql" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="Hoe XLS naar SQL te converteren via Python" %}}
 

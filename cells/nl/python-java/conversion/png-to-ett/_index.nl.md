@@ -1,7 +1,7 @@
 ---
 title: Python PNG naar ETT - PNG naar ETT-converter
-description: Aspose Excel. Python Excel. Converteer PNG snel en eenvoudig naar ETT met Aspose.Cells. Python PNG naar ETT. Python Bewaar PNG in ETT. Sla PNG op als ETT met behulp van de Excel-bibliotheek Python.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert PNG to ETT in Python Excel Library., Save PNG to ETT using Python Excel Library., Python PNG to ETT saveformat., PNG to ETT Converter., Python Save PNG as ETT]
+description: Aspose Excel. Deze complete oplossing biedt ontwikkelaars een volledig geïntegreerde aanpak voor het converteren van gegevens naar ETT-formaat. Hierdoor kunnen gegevens naadloos worden opgeslagen in ETT-formaat met behulp van de bibliotheek, en dit alles via efficiënte en aanpasbare code.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart PNG files to ETT Converter for Python., Convert PNG to ETT in Python., PNG files to ETT Conversion in Python., Leverage intelligent data processing to automatically parse and save PNG into ETT format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Converteer PNG naar ETT in de Excel-bibliotheek Python" h2="Snelle Python Excel-bibliotheek voor het converteren van PNG naar ETT. Dit is een professionele softwareoplossing voor het importeren en exporteren van PNG, ETT en vele andere formaten met behulp van Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="ETT" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -27,7 +27,7 @@ Volg de eenvoudige stappen om PNG naar ETT te converteren. Upload uw PNG-bestand
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Voorbeeldcode om PNG naar ETT te converteren via de Excel-bibliotheek Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="png" outformat="ett" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="Voorbeeldcode om PNG naar ETT te converteren via de Excel-bibliotheek Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="png" outformat="ett" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="Hoe u PNG naar ETT kunt converteren via Python" %}}
 

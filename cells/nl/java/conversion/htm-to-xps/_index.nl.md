@@ -1,7 +1,7 @@
 ---
 title: Java HTM naar XPS - HTM naar XPS Omvormer
-description: Aspose Excel. Converteer HTM snel en eenvoudig naar XPS met Aspose.Cells. Java HTM naar XPS. Java Bewaar HTM naar XPS. Sla HTM op als XPS met Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Convert HTM to XPS in Java., Save HTM to XPS using Java., Java HTM to XPS saveformat., HTM to XPS Converter., Java Save HTM as XPS]
+description: Aspose Excel. Deze complete oplossing biedt ontwikkelaars een volledig geïntegreerde aanpak voor het converteren van HTML naar het formaat XPS, waardoor HTML-gegevens naadloos kunnen worden opgeslagen in het formaat XPS met behulp van de bibliotheek Aspose.Cells, en dat alles via efficiënte en aanpasbare code Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Smart HTM files to XPS Converter for Java., Convert HTM to XPS in Java., HTM files to XPS Conversion in Java., Leverage intelligent data processing to automatically parse and save HTM into XPS format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Converteer HTM naar XPS in Java" h2="Snelle Java-bibliotheek voor het converteren van HTM naar XPS. Dit is een professionele softwareoplossing voor het importeren en exporteren van HTM, XPS en vele andere formaten met behulp van Java." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="XPS" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="CSV" >}}
@@ -45,9 +45,9 @@ keywords: [Aspose Excel., Java Aspose.Cells., Convert HTM to XPS in Java., Save 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Bewaar HTM op XPS in Java" %}}
+{{% blocks/products/pf/agp/content h2="Sla HTM op in XPS in Java" %}}
 
-Het volgende voorbeeld laat zien hoe u HTM converteert naar XPS in Java.
+Het volgende voorbeeld laat zien hoe je HTM naar XPS converteert in Java.
 {{% blocks/products/pf/agp/text %}}
 
 Volg de eenvoudige stappen om HTM naar XPS te converteren. Upload uw HTM-bestand en sla het vervolgens eenvoudig op als XPS-bestand. Voor zowel HTM-lezen als XPS-schrijven kunt u volledig gekwalificeerde bestandsnamen gebruiken. De inhoud en opmaak van de uitvoer XPS zullen identiek zijn aan het originele HTM-document.
@@ -56,19 +56,19 @@ Volg de eenvoudige stappen om HTM naar XPS te converteren. Upload uw HTM-bestand
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Voorbeeldcode om HTM naar XPS te converteren" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="htm" outformat="xps" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Voorbeeldcode om HTML naar XPS te converteren" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="htm" outformat="xps" IsLandingPage="true" language="java" %}}
 
-{{% blocks/products/pf/agp/content h2="HTM converteren naar XPS via Java" %}}
+{{% blocks/products/pf/agp/content h2="Hoe converteer ik HTML naar XPS via Java?" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
-Wilt u HTM-bestanden programmatisch naar XPS converteren? Java-ontwikkelaars kunnen HTM eenvoudig met slechts een paar regels code naar XPS converteren.
+Moet u HTML-bestanden programmatisch converteren naar XPS? Ontwikkelaars van Java kunnen HTML-bestanden eenvoudig in slechts enkele regels code converteren naar XPS.
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Installeer 'Aspose.Cells for Java'.
 1.  Voeg een bibliotheekreferentie toe (importeer de bibliotheek) aan uw Java-project.
-1.  Laad het HTM-bestand met een exemplaar van de Workbook-klasse.
+1.  Laad een HTML-bestand met een instantie van de klasse Workbook.
 1.  Converteer HTM naar XPS door de Workbook.save-methode aan te roepen.
 1.  Ontvang het conversieresultaat van HTM naar XPS.
 

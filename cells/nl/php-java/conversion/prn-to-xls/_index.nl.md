@@ -1,7 +1,7 @@
 ---
 title: PHP PRN naar XLS - PRN naar XLS Converter
-description: Aspose Excel. Converteer PRN snel en eenvoudig naar XLS met Aspose.Cells. PHP PRN naar XLS. PHP Bewaar PRN naar XLS. Bewaar PRN als XLS met behulp van PHP.
-keywords: [Aspose Excel., PHP Aspose.Cells., Convert PRN to XLS in PHP., Save PRN to XLS using PHP., PHP PRN to XLS saveformat., PRN to XLS Converter., PHP Save PRN as XLS]
+description: Aspose Excel. Deze complete oplossing biedt PHP-ontwikkelaars een volledig geïntegreerde aanpak voor het converteren van PRN-bestanden naar het XLS-formaat. Hierdoor kunnen PRN-gegevens naadloos worden opgeslagen in het XLS-formaat met behulp van de Aspose.Cells-bibliotheek, en dat alles via efficiënte en aanpasbare PHP-code.
+keywords: [Aspose Excel., PHP Aspose.Cells., Smart PRN files to XLS Converter for PHP., Convert PRN to XLS in PHP., PRN files to XLS Conversion in PHP., Leverage intelligent data processing to automatically parse and save PRN into XLS format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Converteer PRN naar XLS in PHP" h2="Snelle PHP-bibliotheek voor het converteren van PRN naar XLS. Dit is een professionele softwareoplossing voor het importeren en exporteren van PRN, XLS en vele andere formaten met behulp van PHP." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-php-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLS" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,13 +12,13 @@ keywords: [Aspose Excel., PHP Aspose.Cells., Convert PRN to XLS in PHP., Save PR
 
 {{% blocks/products/pf/agp/content h2="Converteer PRN naar XLS met behulp van PHP" %}}
 
- Hoe converteer ik PRN naar XLS? Met de bibliotheek Aspose.Cells for PHP via Java kunt u PRN eenvoudig programmatisch naar XLS converteren met een paar regels code.[Aspose.Cells for PHP via Java](https://products.aspose.com/cells/php-java/) is in staat om platformonafhankelijke applicaties te bouwen met de mogelijkheid om alle Excel-bestanden te genereren, wijzigen, converteren, renderen en afdrukken. PHP Excel API converteert niet alleen tussen spreadsheetformaten, het kan ook Excel-bestanden weergeven als afbeeldingen, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT en meer, waardoor het een perfecte keuze is om documenten uit te wisselen in industriestandaardformaten.
+ Hoe converteer ik PRN naar XLS? Met de bibliotheek Aspose.Cells for PHP via Java kunt u PRN eenvoudig programmatisch converteren naar XLS met slechts een paar regels code.[Aspose.Cells for PHP via Java](https://products.aspose.com/cells/php-java/) PHP Excel API is in staat om platformonafhankelijke applicaties te bouwen die alle Excel-bestanden kunnen genereren, bewerken, converteren, weergeven en afdrukken. Het kan niet alleen converteren tussen spreadsheetformaten, maar ook Excel-bestanden weergeven als afbeeldingen (PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT) en meer, waardoor het een perfecte keuze is voor het uitwisselen van documenten in industriestandaardformaten.
  
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Bewaar PRN naar XLS in PHP" %}}
+{{% blocks/products/pf/agp/content h2="Sla PRN op als XLS in PHP" %}}
 
-Het volgende voorbeeld laat zien hoe u PRN naar XLS in PHP converteert.
+Het volgende voorbeeld laat zien hoe je PRN naar XLS converteert in PHP.
 {{% blocks/products/pf/agp/text %}}
 
 Volg de eenvoudige stappen om PRN naar XLS te converteren. Upload uw PRN-bestand en sla het vervolgens eenvoudig op als XLS-bestand. Voor zowel PRN-lezen als XLS-schrijven kunt u volledig gekwalificeerde bestandsnamen gebruiken. De inhoud en opmaak van de uitvoer XLS zullen identiek zijn aan het originele PRN-document.
@@ -27,25 +27,25 @@ Volg de eenvoudige stappen om PRN naar XLS te converteren. Upload uw PRN-bestand
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Voorbeeldcode om PRN naar XLS te converteren" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="prn" outformat="xls" IsLandingPage="true" language="phpjava" %}}
+{{% cells-convert title="Voorbeeldcode om PRN om te zetten naar XLS" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="prn" outformat="xls" IsLandingPage="true" language="phpjava" %}}
 
-{{% blocks/products/pf/agp/content h2="Hoe PRN naar XLS te converteren via PHP" %}}
+{{% blocks/products/pf/agp/content h2="Hoe converteer je PRN naar XLS via PHP?" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
-Wilt u PRN-bestanden programmatisch naar XLS converteren? PHP-ontwikkelaars kunnen PRN eenvoudig in slechts een paar regels code laden en converteren naar XLS.
+Moet je PRN-bestanden programmatisch converteren naar XLS? PHP-ontwikkelaars kunnen PRN-bestanden eenvoudig laden en converteren naar XLS met slechts een paar regels code.
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Installeer 'Aspose.Cells for PHP via Java'.
-1.  Voeg een bibliotheekreferentie toe (importeer de bibliotheek) aan uw PHP-project.
+1.  Voeg een bibliotheekreferentie (importeer de bibliotheek) toe aan je PHP-project.
 1.  Laad het PRN-bestand met een exemplaar van Workbook.
-1.  Converteer PRN naar XLS door de opslagmethode van Workbook aan te roepen.
+1.  Converteer PRN naar XLS door de save-methode van Workbook aan te roepen.
 1.  Verkrijg het conversieresultaat van PRN naar XLS.
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="PHP-bibliotheek om PRN naar XLS te converteren" %}}
+{{% blocks/products/pf/agp/content h2="PHP-bibliotheek om PRN om te zetten naar XLS" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
@@ -63,7 +63,7 @@ Er zijn drie opties om "Aspose.Cells for PHP via Java" op uw systeem te installe
 
 {{% blocks/products/pf/agp/text %}}
 
-Aspose.Cells for PHP via Java is platformonafhankelijk API en kan worden gebruikt op elk platform (Windows, Linux, MacOS etc.) waarop PHP 7 of hogere versies zijn geïnstalleerd. De machine moet beschikken over versies van Oracle JDK 7 of hoger voordat u de installatie kunt instellen.
+ Aspose.Cells for PHP via Java is platformonafhankelijk en kan worden gebruikt op elk platform (Windows, Linux, MacOS, enz.) waarop PHP 7 of een latere versie is geïnstalleerd. De machine moet Oracle JDK 7 of een latere versie hebben voordat de installatie kan worden uitgevoerd.
  
 {{% /blocks/products/pf/agp/text %}}
 
@@ -73,7 +73,7 @@ Aspose.Cells for PHP via Java is platformonafhankelijk API en kan worden gebruik
 <!-- aboutfile Starts -->
     {{< blocks/products/pf/agp/about-file-section >}}
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="PRN" readMoreLink="https://fileinfo.com/extension/prn/" >}}Een PRN-bestand is een bestand dat is gemaakt met behulp van het selectievakje Afdrukken naar bestand dat in sommige afdrukdialoogvensters op Windows verschijnt. Het bevat een reeks apparaatspecifieke instructies die een printer, faxapparaat of ander apparaat gebruikt om een document af te drukken. PRN-bestanden kunnen tekst of binaire inhoud bevatten, afhankelijk van het apparaat waarvoor het bestand is gemaakt.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLS" readMoreLink="https://docs.fileformat.com/spreadsheet/xls/" >}}Bestanden met de extensie XLS vertegenwoordigen het binaire bestandsformaat van Excel. Dergelijke bestanden kunnen worden gemaakt door Microsoft Excel en andere soortgelijke spreadsheetprogramma's zoals OpenOffice Calc of Apple Numbers. Bestand dat door Excel wordt opgeslagen, staat bekend als Werkmap, waarbij elke werkmap een of meer werkbladen kan hebben. Gegevens worden opgeslagen en weergegeven aan gebruikers in tabelindeling op een werkblad en kunnen numerieke waarden, tekstgegevens, formules, externe gegevensverbindingen, afbeeldingen en grafieken omvatten. Met toepassingen zoals Microsoft Excel kunt u werkmapgegevens naar verschillende formaten exporteren, waaronder PDF, CSV, XLSX, TXT, HTML, XPS en verschillende andere. Het bestandsformaat XLS werd vervangen door een meer open en gestructureerd formaat, XLSX, met de release van Microsoft Excel 2007. De nieuwste versies bieden nog steeds ondersteuning voor het maken en lezen van XLS-bestanden, hoewel XLSX nu de eerste gebruikskeuze is.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLS" readMoreLink="https://docs.fileformat.com/spreadsheet/xls/" >}}Bestanden met de extensie XLS vertegenwoordigen het binaire bestandsformaat van Excel. Dergelijke bestanden kunnen worden gemaakt door Microsoft Excel en andere soortgelijke spreadsheetprogramma's zoals OpenOffice Calc of Apple Numbers. Bestand opgeslagen door Excel staat bekend als Werkmap, waarbij elke werkmap een of meer werkbladen kan hebben. Gegevens worden opgeslagen en weergegeven aan gebruikers in tabelindeling op een werkblad en kunnen numerieke waarden, tekstgegevens, formules, externe gegevensverbindingen, afbeeldingen en grafieken omvatten. Met toepassingen zoals Microsoft Excel kunt u werkmapgegevens naar verschillende formaten exporteren, waaronder PDF, CSV, XLSX, TXT, HTML, XPS en verschillende andere. Het bestandsformaat XLS werd vervangen door een meer open en gestructureerd formaat, XLSX, met de release van Microsoft Excel 2007. De nieuwste versies bieden nog steeds ondersteuning voor het maken en lezen van XLS-bestanden, hoewel XLSX nu de eerste gebruikskeuze is.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
     {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->
 

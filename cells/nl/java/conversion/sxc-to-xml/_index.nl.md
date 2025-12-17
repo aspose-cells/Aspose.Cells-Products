@@ -1,7 +1,7 @@
 ---
 title: Java SXC naar XML - SXC naar XML-converter
-description: Aspose Excel. Converteer SXC snel en eenvoudig naar XML met Aspose.Cells. Java SXC naar XML. Java Sla SXC op in XML. Sla SXC op als XML met behulp van Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Convert SXC to XML in Java., Save SXC to XML using Java., Java SXC to XML saveformat., SXC to XML Converter., Java Save SXC as XML]
+description: Aspose Excel. Deze uitgebreide oplossing biedt Java ontwikkelaars een volledig geïntegreerde aanpak om SXC naar XML-formaat te converteren, waardoor naadloos opslaan van SXC gegevens in XML-formaat mogelijk is met behulp van de Aspose.Cells bibliotheek, allemaal via efficiënte en aanpasbare Java code.
+keywords: [Aspose Excel., Java Aspose.Cells., Smart SXC files to XML Converter for Java., Convert SXC to XML in Java., SXC files to XML Conversion in Java., Leverage intelligent data processing to automatically parse and save SXC into XML format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Converteer SXC naar XML in Java" h2="Snelle Java-bibliotheek voor het converteren van SXC naar XML. Dit is een professionele softwareoplossing voor het importeren en exporteren van SXC, XML en vele andere formaten met behulp van Java." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="XML" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Convert SXC to XML in Java., Save 
 
 {{% blocks/products/pf/agp/content h2="Converteer SXC naar XML met behulp van Java" %}}
 
- Hoe converteer ik SXC naar XML? Met de bibliotheek Aspose.Cells for Java kunt u SXC eenvoudig programmatisch naar XML converteren met een paar regels code.[Aspose.Cells for Java](https://products.aspose.com/cells/java)is in staat om platformonafhankelijke applicaties te bouwen met de mogelijkheid om alle Excel-bestanden te genereren, wijzigen, converteren, renderen en afdrukken. Java Excel API converteert niet alleen tussen spreadsheetformaten, het kan ook Excel-bestanden weergeven als afbeeldingen, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT en meer, waardoor het een perfecte keuze is om documenten uit te wisselen in industriestandaardformaten. U kunt de nieuwste versie rechtstreeks downloaden van[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) en installeer het binnen uw op Maven gebaseerde project door de volgende configuraties toe te voegen aan pom.xml.
+Hoe converteer ik SXC naar XML? Met de bibliotheek Aspose.Cells for Java kunt u SXC eenvoudig programmatisch naar XML converteren met een paar regels code.[Aspose.Cells for Java](https://products.aspose.com/cells/java)is in staat om platformonafhankelijke applicaties te bouwen met de mogelijkheid om alle Excel-bestanden te genereren, wijzigen, converteren, renderen en afdrukken. Java Excel API converteert niet alleen tussen spreadsheetformaten, het kan ook Excel-bestanden weergeven als afbeeldingen, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT en meer, waardoor het een perfecte keuze is om documenten uit te wisselen in industriestandaardformaten. U kunt de nieuwste versie rechtstreeks downloaden van[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) en installeer het binnen uw op Maven gebaseerde project door de volgende configuraties toe te voegen aan pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Opslagplaats" offSpacer="true" %}}
 
@@ -45,9 +45,9 @@ keywords: [Aspose Excel., Java Aspose.Cells., Convert SXC to XML in Java., Save 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Sla SXC op in XML in Java" %}}
+{{% blocks/products/pf/agp/content h2="Sla SXC op als XML in Java" %}}
 
-Het volgende voorbeeld laat zien hoe u SXC naar XML converteert in Java.
+Het volgende voorbeeld laat zien hoe u SXC naar XML kunt converteren in Java.
 {{% blocks/products/pf/agp/text %}}
 
 Volg de eenvoudige stappen om SXC naar XML te converteren. Upload uw SXC-bestand en sla het vervolgens eenvoudig op als XML-bestand. Voor zowel SXC-lezen als XML-schrijven kunt u volledig gekwalificeerde bestandsnamen gebruiken. De uitvoer-XML-inhoud en opmaak zullen identiek zijn aan het originele SXC-document.
@@ -56,19 +56,19 @@ Volg de eenvoudige stappen om SXC naar XML te converteren. Upload uw SXC-bestand
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Voorbeeldcode om SXC naar XML te converteren" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="sxc" outformat="xml" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Voorbeeldcode om SXC naar XML te converteren" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="sxc" outformat="xml" IsLandingPage="true" language="java" %}}
 
-{{% blocks/products/pf/agp/content h2="Hoe SXC naar XML via Java te converteren" %}}
+{{% blocks/products/pf/agp/content h2="Hoe converteer ik SXC naar XML via Java?" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
-Wilt u SXC-bestanden programmatisch naar XML converteren? Java-ontwikkelaars kunnen SXC eenvoudig in slechts een paar regels code naar XML converteren.
+Moet u SXC-bestanden programmatisch naar XML converteren? Ontwikkelaars van Java kunnen SXC-bestanden eenvoudig in slechts een paar regels code naar XML converteren.
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Installeer 'Aspose.Cells for Java'.
 1.  Voeg een bibliotheekreferentie toe (importeer de bibliotheek) aan uw Java-project.
-1. Laad bestand SXC met een exemplaar van de klasse Workbook.
+1.  Laad bestand SXC met een instantie van de klasse Workbook.
 1.  Converteer SXC naar XML door de Workbook.save-methode aan te roepen.
 1.  Verkrijg het conversieresultaat van SXC naar XML.
 

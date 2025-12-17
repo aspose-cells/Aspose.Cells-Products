@@ -1,7 +1,7 @@
 ---
 title: Python OTS から DOCX - OTS から DOCX へのコンバーター
-description: Aspose Excel。Python Excel。Aspose.Cells を使用して、OTS を DOCX にすばやく簡単に変換します。Python OTS を DOCX に変換します。Python OTS を DOCX に保存します。Python Excel ライブラリを使用して、OTS を DOCX として保存します。
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert OTS to DOCX in Python Excel Library., Save OTS to DOCX using Python Excel Library., Python OTS to DOCX saveformat., OTS to DOCX Converter., Python Save OTS as DOCX]
+description: Aspose Excel。この包括的なソリューションは、Python開発者にOTSをDOCX形式に変換するための完全に統合されたアプローチを提供し、効率的でカスタマイズ可能なPythonコードを通じて、Aspose.Cellsライブラリを使用してOTSデータをDOCX形式にシームレスに保存することを可能にします。
+keywords: [Aspose Excel., Python Aspose.Cells., Smart OTS files to DOCX Converter for Python., Convert OTS to DOCX in Python., OTS files to DOCX Conversion in Python., Leverage intelligent data processing to automatically parse and save OTS into DOCX format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Python Excel ライブラリで OTS を DOCX に変換する" h2="OTS を DOCX に変換するための高速 Python Excel ライブラリ。これは、OTS、DOCX、および Python を使用する他の多くの形式をインポートおよびエクスポートするためのプロフェッショナル ソフトウェア ソリューションです。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="DOCX" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -27,7 +27,7 @@ OTS を DOCX に変換するには、簡単な手順に従ってください。O
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Python Excel ライブラリを使用して OTS を DOCX に変換するサンプル コード" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="ots" outformat="docx" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="Python Excel ライブラリを使用して OTS を DOCX に変換するサンプル コード" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="ots" outformat="docx" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="Python 経由で OTS を DOCX に変換する方法" %}}
 

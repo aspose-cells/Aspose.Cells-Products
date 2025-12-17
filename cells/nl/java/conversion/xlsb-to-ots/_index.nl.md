@@ -1,7 +1,7 @@
 ---
 title: Java XLSB naar OTS - XLSB naar OTS-converter
-description: Aspose Excel. Converteer XLSB snel en eenvoudig naar OTS met Aspose.Cells. Java XLSB naar OTS. Java Bewaar XLSB in OTS. Sla XLSB op als OTS met behulp van Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Convert XLSB to OTS in Java., Save XLSB to OTS using Java., Java XLSB to OTS saveformat., XLSB to OTS Converter., Java Save XLSB as OTS]
+description: Aspose Excel. Deze complete oplossing biedt ontwikkelaars een volledig geïntegreerde aanpak voor het converteren van gegevens naar het OTS-formaat. Hierdoor kunnen gegevens naadloos worden opgeslagen in het OTS-formaat met behulp van de bibliotheek, en dit alles via efficiënte en aanpasbare code.
+keywords: [Aspose Excel., Java Aspose.Cells., Smart XLSB files to OTS Converter for Java., Convert XLSB to OTS in Java., XLSB files to OTS Conversion in Java., Leverage intelligent data processing to automatically parse and save XLSB into OTS format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Converteer XLSB naar OTS in Java" h2="Snelle Java-bibliotheek voor het converteren van XLSB naar OTS. Dit is een professionele softwareoplossing voor het importeren en exporteren van XLSB, OTS en vele andere formaten met behulp van Java." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="OTS" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="CSV" >}}
@@ -47,7 +47,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Convert XLSB to OTS in Java., Save
 
 {{% blocks/products/pf/agp/content h2="Sla XLSB op in OTS in Java" %}}
 
-Het volgende voorbeeld laat zien hoe u XLSB naar OTS converteert in Java.
+Het volgende voorbeeld laat zien hoe je XLSB omzet naar OTS in Java.
 {{% blocks/products/pf/agp/text %}}
 
 Volg de eenvoudige stappen om XLSB naar OTS te converteren. Upload uw XLSB-bestand en sla het vervolgens eenvoudig op als OTS-bestand. Voor zowel XLSB-lezen als OTS-schrijven kunt u volledig gekwalificeerde bestandsnamen gebruiken. De OTS-uitvoerinhoud en -opmaak zijn identiek aan het originele XLSB-document.
@@ -56,25 +56,25 @@ Volg de eenvoudige stappen om XLSB naar OTS te converteren. Upload uw XLSB-besta
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Voorbeeldcode om XLSB naar OTS te converteren" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsb" outformat="ots" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Voorbeeldcode om XLSB naar OTS te converteren" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="xlsb" outformat="ots" IsLandingPage="true" language="java" %}}
 
-{{% blocks/products/pf/agp/content h2="Hoe XLSB naar OTS via Java te converteren" %}}
+{{% blocks/products/pf/agp/content h2="Hoe converteer je XLSB naar OTS via Java?" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
-Wilt u XLSB-bestanden programmatisch naar OTS converteren? Java-ontwikkelaars kunnen XLSB eenvoudig met slechts een paar regels code naar OTS converteren.
+Moet u XLSB-bestanden programmatisch naar OTS converteren? Ontwikkelaars van Java kunnen XLSB-bestanden eenvoudig in een paar regels code naar OTS converteren.
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Installeer 'Aspose.Cells for Java'.
 1.  Voeg een bibliotheekreferentie toe (importeer de bibliotheek) aan uw Java-project.
-1. Laad bestand XLSB met een exemplaar van de klasse Workbook.
+1.  Laad bestand XLSB met een instantie van de klasse Workbook.
 1.  Converteer XLSB naar OTS door de Workbook.save-methode aan te roepen.
 1.  Verkrijg het conversieresultaat van XLSB naar OTS.
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Java-bibliotheek om XLSB naar OTS te converteren" %}}
+{{% blocks/products/pf/agp/content h2="Java bibliotheek om XLSB naar OTS te converteren" %}}
 {{% blocks/products/pf/agp/text %}}
 
  We hosten onze Java-pakketten in[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) opslagplaatsen. 'Aspose.Cells for Java' is een veelgebruikt JAR-bestand met bytecode. Volg alstublieft de[stapsgewijze instructies](https://docs.aspose.com/cells/java/installation/) over hoe u het installeert in uw Java-ontwikkelaarsomgeving.

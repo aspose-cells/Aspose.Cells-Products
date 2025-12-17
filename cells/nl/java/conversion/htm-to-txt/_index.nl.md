@@ -1,7 +1,7 @@
 ---
 title: Java HTM naar TXT - HTM naar TXT Omvormer
-description: Aspose Excel. Converteer HTM snel en eenvoudig naar TXT met Aspose.Cells. Java HTM naar TXT. Java Bewaar HTM naar TXT. Sla HTM op als TXT met Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Convert HTM to TXT in Java., Save HTM to TXT using Java., Java HTM to TXT saveformat., HTM to TXT Converter., Java Save HTM as TXT]
+description: Aspose Excel. Deze complete oplossing biedt ontwikkelaars een volledig geïntegreerde aanpak voor het converteren van HTML naar het formaat TXT, waardoor HTML-gegevens naadloos kunnen worden opgeslagen in het formaat TXT met behulp van de bibliotheek Aspose.Cells, en dat alles via efficiënte en aanpasbare code Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Smart HTM files to TXT Converter for Java., Convert HTM to TXT in Java., HTM files to TXT Conversion in Java., Leverage intelligent data processing to automatically parse and save HTM into TXT format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Converteer HTM naar TXT in Java" h2="Snelle Java-bibliotheek voor het converteren van HTM naar TXT. Dit is een professionele softwareoplossing voor het importeren en exporteren van HTM, TXT en vele andere formaten met behulp van Java." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="TXT" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="CSV" >}}
@@ -45,9 +45,9 @@ keywords: [Aspose Excel., Java Aspose.Cells., Convert HTM to TXT in Java., Save 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Bewaar HTM op TXT in Java" %}}
+{{% blocks/products/pf/agp/content h2="Sla HTM op in TXT in Java" %}}
 
-Het volgende voorbeeld laat zien hoe u HTM converteert naar TXT in Java.
+Het volgende voorbeeld laat zien hoe je HTM naar TXT converteert in Java.
 {{% blocks/products/pf/agp/text %}}
 
 Volg de eenvoudige stappen om HTM naar TXT te converteren. Upload uw HTM-bestand en sla het vervolgens eenvoudig op als TXT-bestand. Voor zowel HTM-lezen als TXT-schrijven kunt u volledig gekwalificeerde bestandsnamen gebruiken. De inhoud en opmaak van de uitvoer TXT zullen identiek zijn aan het originele HTM-document.
@@ -56,19 +56,19 @@ Volg de eenvoudige stappen om HTM naar TXT te converteren. Upload uw HTM-bestand
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Voorbeeldcode om HTM naar TXT te converteren" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="htm" outformat="txt" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Voorbeeldcode om HTML naar TXT te converteren" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="htm" outformat="txt" IsLandingPage="true" language="java" %}}
 
-{{% blocks/products/pf/agp/content h2="HTM converteren naar TXT via Java" %}}
+{{% blocks/products/pf/agp/content h2="Hoe converteer ik HTML naar TXT via Java?" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
-Wilt u HTM-bestanden programmatisch naar TXT converteren? Java-ontwikkelaars kunnen HTM eenvoudig met slechts een paar regels code naar TXT converteren.
+Moet u HTML-bestanden programmatisch converteren naar TXT? Ontwikkelaars van Java kunnen HTML-bestanden eenvoudig in slechts enkele regels code converteren naar TXT.
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Installeer 'Aspose.Cells for Java'.
 1.  Voeg een bibliotheekreferentie toe (importeer de bibliotheek) aan uw Java-project.
-1.  Laad het HTM-bestand met een exemplaar van de Workbook-klasse.
+1.  Laad een HTML-bestand met een instantie van de klasse Workbook.
 1.  Converteer HTM naar TXT door de Workbook.save-methode aan te roepen.
 1.  Ontvang het conversieresultaat van HTM naar TXT.
 

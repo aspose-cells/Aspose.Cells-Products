@@ -1,7 +1,7 @@
 ---
 title: PHP XML naar EMF - XML naar EMF Converter
-description: Aspose Excel. Converteer XML snel en eenvoudig naar EMF met Aspose.Cells. PHP XML naar EMF. PHP Sla XML op naar EMF. Sla XML op als EMF met behulp van PHP.
-keywords: [Aspose Excel., PHP Aspose.Cells., Convert XML to EMF in PHP., Save XML to EMF using PHP., PHP XML to EMF saveformat., XML to EMF Converter., PHP Save XML as EMF]
+description: Aspose Excel. Deze complete oplossing biedt PHP-ontwikkelaars een volledig geïntegreerde aanpak voor het converteren van XML naar het EMF-formaat. Hierdoor kunnen XML-gegevens naadloos worden opgeslagen in het EMF-formaat met behulp van de Aspose.Cells-bibliotheek, en dat alles via efficiënte en aanpasbare PHP-code.
+keywords: [Aspose Excel., PHP Aspose.Cells., Smart XML files to EMF Converter for PHP., Convert XML to EMF in PHP., XML files to EMF Conversion in PHP., Leverage intelligent data processing to automatically parse and save XML into EMF format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Converteer XML naar EMF in PHP" h2="Snelle PHP-bibliotheek voor het converteren van XML naar EMF. Dit is een professionele softwareoplossing voor het importeren en exporteren van XML, EMF en vele andere formaten met behulp van PHP." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-php-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="EMF" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,13 +12,13 @@ keywords: [Aspose Excel., PHP Aspose.Cells., Convert XML to EMF in PHP., Save XM
 
 {{% blocks/products/pf/agp/content h2="Converteer XML naar EMF met behulp van PHP" %}}
 
-Hoe converteer ik XML naar EMF? Met de bibliotheek Aspose.Cells for PHP via Java kunt u eenvoudig XML met een paar regels code programmatisch naar EMF converteren.[Aspose.Cells for PHP via Java](https://products.aspose.com/cells/php-java/) is in staat om platformonafhankelijke applicaties te bouwen met de mogelijkheid om alle Excel-bestanden te genereren, wijzigen, converteren, renderen en afdrukken. PHP Excel API converteert niet alleen tussen spreadsheetformaten, het kan ook Excel-bestanden weergeven als afbeeldingen, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT en meer, waardoor het een perfecte keuze is om documenten uit te wisselen in industriestandaardformaten.
+ Hoe converteer ik XML naar EMF? Met de bibliotheek Aspose.Cells for PHP via Java kunt u XML eenvoudig programmatisch converteren naar EMF met slechts een paar regels code.[Aspose.Cells for PHP via Java](https://products.aspose.com/cells/php-java/) PHP Excel API is in staat om platformonafhankelijke applicaties te bouwen die alle Excel-bestanden kunnen genereren, bewerken, converteren, weergeven en afdrukken. Het kan niet alleen converteren tussen spreadsheetformaten, maar ook Excel-bestanden weergeven als afbeeldingen (PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT) en meer, waardoor het een perfecte keuze is voor het uitwisselen van documenten in industriestandaardformaten.
  
 {{% /blocks/products/pf/agp/content %}}
 
 {{% blocks/products/pf/agp/content h2="Sla XML op naar EMF in PHP" %}}
 
-Het volgende voorbeeld laat zien hoe u XML naar EMF in PHP converteert.
+Het volgende voorbeeld laat zien hoe je XML naar EMF converteert in PHP.
 {{% blocks/products/pf/agp/text %}}
 
 Volg de eenvoudige stappen om XML naar EMF te converteren. Upload uw XML-bestand en sla het vervolgens eenvoudig op als EMF-bestand. Voor zowel het lezen van XML als het schrijven van EMF kunt u volledig gekwalificeerde bestandsnamen gebruiken. De inhoud en opmaak van de uitvoer EMF zullen identiek zijn aan het originele XML-document.
@@ -27,20 +27,20 @@ Volg de eenvoudige stappen om XML naar EMF te converteren. Upload uw XML-bestand
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Voorbeeldcode om XML naar EMF te converteren" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xml" outformat="emf" IsLandingPage="true" language="phpjava" %}}
+{{% cells-convert title="Voorbeeldcode om XML naar EMF te converteren" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="xml" outformat="emf" IsLandingPage="true" language="phpjava" %}}
 
-{{% blocks/products/pf/agp/content h2="Hoe XML naar EMF te converteren via PHP" %}}
+{{% blocks/products/pf/agp/content h2="Hoe converteer je XML naar EMF via PHP?" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
-Wilt u XML-bestanden programmatisch naar EMF converteren? PHP-ontwikkelaars kunnen eenvoudig XML in slechts een paar regels code laden en converteren naar EMF.
+Moet je XML-bestanden programmatisch converteren naar EMF? PHP-ontwikkelaars kunnen XML-bestanden eenvoudig laden en converteren naar EMF met slechts een paar regels code.
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Installeer 'Aspose.Cells for PHP via Java'.
-1.  Voeg een bibliotheekreferentie toe (importeer de bibliotheek) aan uw PHP-project.
+1.  Voeg een bibliotheekreferentie (importeer de bibliotheek) toe aan je PHP-project.
 1.  Laad een XML-bestand met een exemplaar van Workbook.
-1.  Converteer XML naar EMF door de opslagmethode van Workbook aan te roepen.
+1.  Converteer XML naar EMF door de save-methode van Workbook aan te roepen.
 1.  Haal het conversieresultaat van XML op naar EMF.
 
 {{% /blocks/products/pf/agp/content %}}
@@ -63,7 +63,7 @@ Er zijn drie opties om "Aspose.Cells for PHP via Java" op uw systeem te installe
 
 {{% blocks/products/pf/agp/text %}}
 
-Aspose.Cells for PHP via Java is platformonafhankelijk API en kan worden gebruikt op elk platform (Windows, Linux, MacOS etc.) waarop PHP 7 of hogere versies zijn geïnstalleerd. De machine moet beschikken over versies van Oracle JDK 7 of hoger voordat u de installatie kunt instellen.
+ Aspose.Cells for PHP via Java is platformonafhankelijk en kan worden gebruikt op elk platform (Windows, Linux, MacOS, enz.) waarop PHP 7 of een latere versie is geïnstalleerd. De machine moet Oracle JDK 7 of een latere versie hebben voordat de installatie kan worden uitgevoerd.
  
 {{% /blocks/products/pf/agp/text %}}
 
@@ -73,7 +73,7 @@ Aspose.Cells for PHP via Java is platformonafhankelijk API en kan worden gebruik
 <!-- aboutfile Starts -->
     {{< blocks/products/pf/agp/about-file-section >}}
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XML" readMoreLink="https://docs.fileformat.com/web/xml/" >}}XML staat voor Extensible Markup Language, vergelijkbaar met HTML, maar verschilt in het gebruik van tags voor het definiëren van objecten. Het hele idee achter het creëren van het XML-bestandsformaat was het opslaan en transporteren van gegevens zonder afhankelijk te zijn van software- of hardwaretools. De populariteit is te danken aan het feit dat het zowel door mensen als door machines kan worden gelezen. Hierdoor kan het gemeenschappelijke dataprotocollen creëren in de vorm van objecten die kunnen worden opgeslagen en gedeeld via netwerken zoals het World Wide Web (WWW). De "X" in XML is uitbreidbaar, wat inhoudt dat de taal kan worden uitgebreid tot een willekeurig aantal symbolen, afhankelijk van de gebruikersvereisten. Het is voor deze functies dat veel standaard bestandsformaten er gebruik van maken, zoals Microsoft Open XML, LibreOffice OpenDocument, XHTML en SVG.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="EMF" readMoreLink="https://docs.fileformat.com/image/emf/" >}}Verbeterd metabestandsformaat (EMF) slaat grafische afbeeldingen apparaatonafhankelijk op. Metabestanden van EMF bestaan uit records met variabele lengte in chronologische volgorde die de opgeslagen afbeelding kunnen weergeven na parsering op elk uitvoerapparaat. Deze records met variabele lengte kunnen definities zijn van ingesloten objecten, opdrachten voor tekenen en grafische eigenschappen die cruciaal zijn om de afbeelding nauwkeurig weer te geven. Wanneer een apparaat een EMF-metabestand opent met behulp van zijn eigen grafische omgeving, blijven de verhoudingen, afmetingen, kleuren en andere grafische eigenschappen van de originele afbeelding hetzelfde, ongeacht het apparaatplatform dat wordt geopend.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="EMF" readMoreLink="https://docs.fileformat.com/image/emf/" >}}Verbeterd metabestandsformaat (EMF) slaat grafische afbeeldingen apparaatonafhankelijk op. Metabestanden van EMF bestaan uit records met variabele lengte in chronologische volgorde die de opgeslagen afbeelding kunnen weergeven na parsering op elk uitvoerapparaat. Deze records met variabele lengte kunnen definities zijn van ingesloten objecten, commando's voor tekenen en grafische eigenschappen die cruciaal zijn om de afbeelding nauwkeurig weer te geven. Wanneer een apparaat een EMF-metabestand opent met behulp van zijn eigen grafische omgeving, blijven de verhoudingen, afmetingen, kleuren en andere grafische eigenschappen van de originele afbeelding hetzelfde, ongeacht het apparaatplatform dat wordt geopend.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
     {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->
 

@@ -1,7 +1,7 @@
 ---
 title: Java XLTX tot XLS - XLTX tot XLS Converter
-description: Aspose Excel. Converteer XLTX snel en eenvoudig naar XLS met Aspose.Cells. Java XLTX naar XLS. Java Bewaar XLTX in XLS. Bewaar XLTX als 07611134 81 via Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Convert XLTX to XLS in Java., Save XLTX to XLS using Java., Java XLTX to XLS saveformat., XLTX to XLS Converter., Java Save XLTX as XLS]
+description: Aspose Excel. Deze uitgebreide oplossing biedt ontwikkelaars een volledig geïntegreerde aanpak voor het converteren van gegevens van het formaat XLTX naar XLS, waardoor naadloos opslaan van gegevens in het formaat XLTX mogelijk is met behulp van de bibliotheek Aspose.Cells, allemaal via efficiënte en aanpasbare code Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Smart XLTX files to XLS Converter for Java., Convert XLTX to XLS in Java., XLTX files to XLS Conversion in Java., Leverage intelligent data processing to automatically parse and save XLTX into XLS format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Converteer XLTX naar XLS in Java" h2="Snelle Java-bibliotheek voor het converteren van XLTX naar XLS. Dit is een professionele softwareoplossing voor het importeren en exporteren van XLTX, XLS en vele andere formaten met behulp van Java." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLS" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Convert XLTX to XLS in Java., Save
 
 {{% blocks/products/pf/agp/content h2="Converteer XLTX naar XLS met behulp van Java" %}}
 
-Hoe converteer ik XLTX naar XLS? Met de bibliotheek Aspose.Cells for Java kunt u XLTX eenvoudig programmatisch naar XLS converteren met een paar regels code.[Aspose.Cells for Java](https://products.aspose.com/cells/java)is in staat om platformonafhankelijke applicaties te bouwen met de mogelijkheid om alle Excel-bestanden te genereren, wijzigen, converteren, renderen en afdrukken. Java Excel API converteert niet alleen tussen spreadsheetformaten, het kan ook Excel-bestanden weergeven als afbeeldingen, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT en meer, waardoor het een perfecte keuze is om documenten uit te wisselen in industriestandaardformaten. U kunt de nieuwste versie rechtstreeks downloaden van[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) en installeer het binnen uw op Maven gebaseerde project door de volgende configuraties toe te voegen aan pom.xml.
+ Hoe converteer ik XLTX naar XLS? Met de bibliotheek Aspose.Cells for Java kunt u XLTX eenvoudig programmatisch naar XLS converteren met een paar regels code.[Aspose.Cells for Java](https://products.aspose.com/cells/java)is in staat om platformonafhankelijke applicaties te bouwen met de mogelijkheid om alle Excel-bestanden te genereren, wijzigen, converteren, renderen en afdrukken. Java Excel API converteert niet alleen tussen spreadsheetformaten, het kan ook Excel-bestanden weergeven als afbeeldingen, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT en meer, waardoor het een perfecte keuze is om documenten uit te wisselen in industriestandaardformaten. U kunt de nieuwste versie rechtstreeks downloaden van[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) en installeer het binnen uw op Maven gebaseerde project door de volgende configuraties toe te voegen aan pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Opslagplaats" offSpacer="true" %}}
 
@@ -45,9 +45,9 @@ Hoe converteer ik XLTX naar XLS? Met de bibliotheek Aspose.Cells for Java kunt u
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Bewaar XLTX t/m XLS in Java" %}}
+{{% blocks/products/pf/agp/content h2="Sla XLTX op in XLS in Java" %}}
 
-Het volgende voorbeeld laat zien hoe u XLTX converteert naar XLS in Java.
+Het volgende voorbeeld laat zien hoe je XLTX omzet naar XLS in Java.
 {{% blocks/products/pf/agp/text %}}
 
 Volg de eenvoudige stappen om XLTX naar XLS te converteren. Upload uw XLTX-bestand en sla het vervolgens eenvoudig op als XLS-bestand. Voor zowel XLTX lezen als XLS schrijven kunt u volledig gekwalificeerde bestandsnamen gebruiken. De inhoud en opmaak van de uitvoer XLS zullen identiek zijn aan het originele document XLTX.
@@ -56,19 +56,19 @@ Volg de eenvoudige stappen om XLTX naar XLS te converteren. Upload uw XLTX-besta
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Voorbeeldcode om XLTX naar XLS te converteren" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xltx" outformat="xls" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Voorbeeldcode om XLTX naar XLS te converteren" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="xltx" outformat="xls" IsLandingPage="true" language="java" %}}
 
-{{% blocks/products/pf/agp/content h2="Hoe XLTX naar XLS via Java te converteren" %}}
+{{% blocks/products/pf/agp/content h2="Hoe zet ik XLTX om naar XLS of via Java?" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
-Wilt u XLTX-bestanden programmatisch naar XLS converteren? Java-ontwikkelaars kunnen XLTX eenvoudig in slechts een paar regels code naar XLS converteren.
+Moet je bestanden met de extensie XLTX programmatisch converteren naar XLS? Ontwikkelaars van Java kunnen bestanden met de extensie XLTX eenvoudig converteren naar XLS met slechts een paar regels code.
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Installeer 'Aspose.Cells for Java'.
 1.  Voeg een bibliotheekreferentie toe (importeer de bibliotheek) aan uw Java-project.
-1. Laad bestand XLTX met een exemplaar van de klasse Workbook.
+1.  Laad bestand XLTX met een instantie van de klasse Workbook.
 1.  Converteer XLTX naar XLS door de Workbook.save-methode aan te roepen.
 1.  Verkrijg het conversieresultaat van XLTX naar XLS.
 
@@ -98,7 +98,7 @@ Wilt u XLTX-bestanden programmatisch naar XLS converteren? Java-ontwikkelaars ku
 <!-- aboutfile Starts -->
     {{< blocks/products/pf/agp/about-file-section >}}
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLTX" readMoreLink="https://docs.fileformat.com/spreadsheet/xltx/" >}}Bestanden met de extensie .xltx vertegenwoordigen Microsoft Excel-sjabloonbestanden die zijn gebaseerd op de specificaties van de Office OpenXML-bestandsindeling. Het wordt gebruikt om een standaardsjabloonbestand te maken dat kan worden gebruikt om XLSX-bestanden te genereren die dezelfde instellingen vertonen als gespecificeerd in het XLTX-bestand.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLS" readMoreLink="https://docs.fileformat.com/spreadsheet/xls/" >}}Bestanden met de extensie XLS vertegenwoordigen het binaire bestandsformaat van Excel. Dergelijke bestanden kunnen worden gemaakt door Microsoft Excel en andere soortgelijke spreadsheetprogramma's zoals OpenOffice Calc of Apple Numbers. Bestand dat door Excel wordt opgeslagen, staat bekend als Werkmap, waarbij elke werkmap een of meer werkbladen kan hebben. Gegevens worden opgeslagen en weergegeven aan gebruikers in tabelindeling op een werkblad en kunnen numerieke waarden, tekstgegevens, formules, externe gegevensverbindingen, afbeeldingen en grafieken omvatten. Met toepassingen zoals Microsoft Excel kunt u werkmapgegevens naar verschillende formaten exporteren, waaronder PDF, CSV, XLSX, TXT, HTML, XPS en verschillende andere. Het bestandsformaat XLS werd vervangen door een meer open en gestructureerd formaat, XLSX, met de release van Microsoft Excel 2007. De nieuwste versies bieden nog steeds ondersteuning voor het maken en lezen van XLS-bestanden, hoewel XLSX nu de eerste gebruikskeuze is.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLS" readMoreLink="https://docs.fileformat.com/spreadsheet/xls/" >}}Bestanden met de extensie XLS vertegenwoordigen het binaire bestandsformaat van Excel. Dergelijke bestanden kunnen worden gemaakt door Microsoft Excel en andere soortgelijke spreadsheetprogramma's zoals OpenOffice Calc of Apple Numbers. Bestand opgeslagen door Excel staat bekend als Werkmap, waarbij elke werkmap een of meer werkbladen kan hebben. Gegevens worden opgeslagen en weergegeven aan gebruikers in tabelindeling op een werkblad en kunnen numerieke waarden, tekstgegevens, formules, externe gegevensverbindingen, afbeeldingen en grafieken omvatten. Met toepassingen zoals Microsoft Excel kunt u werkmapgegevens naar verschillende formaten exporteren, waaronder PDF, CSV, XLSX, TXT, HTML, XPS en verschillende andere. Het bestandsformaat XLS werd vervangen door een meer open en gestructureerd formaat, XLSX, met de release van Microsoft Excel 2007. De nieuwste versies bieden nog steeds ondersteuning voor het maken en lezen van XLS-bestanden, hoewel XLSX nu de eerste gebruikskeuze is.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
     {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->
 

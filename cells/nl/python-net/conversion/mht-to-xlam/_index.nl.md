@@ -1,7 +1,7 @@
 ---
 title: Python MHT naar XLAM - MHT naar XLAM Converter
-description: Aspose Excel. Python Excel. Converteer MHT snel en eenvoudig naar XLAM met Aspose.Cells. Python MHT naar XLAM. Python Sla MHT op naar XLAM. Sla MHT op als XLAM met behulp van de Excel-bibliotheek Python.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert MHT to XLAM in Python Excel Library., Save MHT to XLAM using Python Excel Library., Python MHT to XLAM saveformat., MHT to XLAM Converter., Python Save MHT as XLAM]
+description: Aspose Excel. Deze complete oplossing biedt ontwikkelaars een volledig geïntegreerde aanpak voor het converteren van MHT naar het XLAM-formaat, waardoor het naadloos opslaan van MHT-gegevens in het XLAM-formaat mogelijk is met behulp van de Aspose.Cells-bibliotheek, allemaal via efficiënte en aanpasbare Python-code.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart MHT files to XLAM Converter for Python., Convert MHT to XLAM in Python., MHT files to XLAM Conversion in Python., Leverage intelligent data processing to automatically parse and save MHT into XLAM format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Converteer MHT naar XLAM in de Excel-bibliotheek Python" h2="Snelle Python Excel-bibliotheek voor het converteren van MHT naar XLAM. Gebruik onze Excel-conversie API om platformonafhankelijke software op hoog niveau te ontwikkelen in Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLAM" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -28,7 +28,7 @@ Volg de eenvoudige stappen om MHT naar XLAM te converteren. Upload uw MHT-bestan
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Voorbeeldcode om MHT naar XLAM te converteren via de Excel-bibliotheek Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="mht" outformat="xlam" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Voorbeeldcode om MHT naar XLAM te converteren via de Excel-bibliotheek Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="mht" outformat="xlam" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="MHT converteren naar XLAM" %}}
 

@@ -1,7 +1,7 @@
 ---
 title: Python IMMAGINE a XLAM - IMMAGINE a XLAM Convertitore
-description: Aspose Excel. Python Excel. Converti IMMAGINE in XLAM in modo rapido e semplice con Aspose.Cells. IMMAGINE Python in XLAM. Python Salva IMMAGINE in XLAM. Salva IMMAGINE come XLAM utilizzando la libreria Excel Python.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert IMAGE to XLAM in Python Excel Library., Save IMAGE to XLAM using Python Excel Library., Python IMAGE to XLAM saveformat., IMAGE to XLAM Converter., Python Save IMAGE as XLAM]
+description: Aspose Excel. Questa soluzione completa fornisce agli sviluppatori Python un approccio completamente integrato per convertire IMAGE nel formato XLAM, consentendo il salvataggio senza interruzioni dei dati IMAGE nel formato XLAM utilizzando la libreria Aspose.Cells, il tutto tramite codice Python efficiente e personalizzabile.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart IMAGE files to XLAM Converter for Python., Convert IMAGE to XLAM in Python., IMAGE files to XLAM Conversion in Python., Leverage intelligent data processing to automatically parse and save IMAGE into XLAM format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Converti IMMAGINE in XLAM nella libreria Excel Python" h2="Libreria Excel Python ad alta velocità per convertire IMMAGINE in XLAM. Si tratta di una soluzione software professionale per importare ed esportare IMMAGINE, XLAM e molti altri formati utilizzando Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLAM" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -27,7 +27,7 @@ Segui i semplici passaggi per convertire l'IMMAGINE in XLAM. Carica il tuo file 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Codice di esempio per convertire IMMAGINE in XLAM tramite la libreria Excel Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="png" outformat="xlam" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="Codice di esempio per convertire IMMAGINE in XLAM tramite la libreria Excel Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="png" outformat="xlam" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="Come convertire IMMAGINE in XLAM tramite Python" %}}
 
@@ -84,7 +84,7 @@ Aspose.Cells for Python via Java è indipendente dalla piattaforma API e può es
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/image-to-bmp/" name="IMMAGINE ALLO BMP" description="Immagine bitmap" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/image-to-emf/" name="IMMAGINE ALLO EMF" description="Formato metafile avanzato" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/image-to-gif/" name="IMMAGINE ALLO GIF" description="Formato di interscambio grafico" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/image-to-html/" name="IMMAGINE ALLO HTML" description="Hyper Text Markup Language" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/image-to-html/" name="IMMAGINE ALLO HTML" description="Linguaggio di markup ipertestuale" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/image-to-md/" name="IMMAGINE A MD" description="Linguaggio di ribasso" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/image-to-mhtml/" name="IMMAGINE ALLO MHTML" description="Formato di archivio delle pagine Web" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/image-to-ods/" name="IMMAGINE ALLO ODS" description="File di foglio di calcolo OpenDocument" >}}

@@ -1,7 +1,7 @@
 ---
 title: Java PRN a SVG - PRN a SVG Convertitore
-description: Aspose Excel. Converti il PRN in SVG in modo rapido e semplice con Aspose.Cells. Java PRN in SVG. Java Salva PRN in SVG. Salva PRN come SVG utilizzando Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Convert PRN to SVG in Java., Save PRN to SVG using Java., Java PRN to SVG saveformat., PRN to SVG Converter., Java Save PRN as SVG]
+description: Aspose Excel. Questa soluzione completa fornisce agli sviluppatori Java un approccio completamente integrato per convertire i dati PRN nel formato SVG, consentendo il salvataggio senza interruzioni dei dati PRN nel formato SVG utilizzando la libreria Aspose.Cells, il tutto tramite codice Java efficiente e personalizzabile.
+keywords: [Aspose Excel., Java Aspose.Cells., Smart PRN files to SVG Converter for Java., Convert PRN to SVG in Java., PRN files to SVG Conversion in Java., Leverage intelligent data processing to automatically parse and save PRN into SVG format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Converti PRN in SVG in Java" h2="Libreria Java ad alta velocità per convertire PRN in SVG. Si tratta di una soluzione software professionale per importare ed esportare PRN, SVG e molti altri formati utilizzando Java." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="SVG" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="CSV" >}}
@@ -45,9 +45,9 @@ keywords: [Aspose Excel., Java Aspose.Cells., Convert PRN to SVG in Java., Save 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Salva il PRN allo SVG in Java" %}}
+{{% blocks/products/pf/agp/content h2="Salva PRN su SVG in Java" %}}
 
-L'esempio seguente mostra come convertire il PRN in SVG in Java.
+L'esempio seguente mostra come convertire PRN in SVG in Java.
 {{% blocks/products/pf/agp/text %}}
 
 Segui i semplici passaggi per convertire il PRN in SVG. Carica il tuo file PRN, quindi salvalo semplicemente come file SVG. Sia per la lettura del PRN che per la scrittura SVG è possibile utilizzare nomi di file completi. Il contenuto e la formattazione dell'output SVG saranno identici al documento PRN originale.
@@ -56,17 +56,17 @@ Segui i semplici passaggi per convertire il PRN in SVG. Carica il tuo file PRN, 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Codice di esempio per convertire il PRN in SVG" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="prn" outformat="svg" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Codice di esempio per convertire PRN in SVG" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="prn" outformat="svg" IsLandingPage="true" language="java" %}}
 
-{{% blocks/products/pf/agp/content h2="Come convertire il PRN in SVG via Java" %}}
+{{% blocks/products/pf/agp/content h2="Come convertire PRN in SVG via Java" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
-È necessario convertire i file PRN in SVG a livello di codice? Gli sviluppatori di Java possono convertire facilmente il PRN in SVG in poche righe di codice.
+Hai bisogno di convertire i file PRN in SVG tramite codice? Gli sviluppatori che usano Java possono facilmente convertire i file PRN in SVG in poche righe di codice.
 
 {{% /blocks/products/pf/agp/text %}}
 
-1.  Installa 'Aspose.Cells for Java'.
+1.  Installare 'Aspose.Cells for Java'.
 1.  Aggiungi un riferimento di libreria (importa la libreria) al tuo progetto Java.
 1.  Carica il file PRN con un'istanza della classe Workbook.
 1.  Converti PRN in SVG chiamando il metodo Workbook.save.
@@ -74,7 +74,7 @@ Segui i semplici passaggi per convertire il PRN in SVG. Carica il tuo file PRN, 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Libreria Java per convertire il PRN in SVG" %}}
+{{% blocks/products/pf/agp/content h2="Libreria Java per convertire PRN in SVG" %}}
 {{% blocks/products/pf/agp/text %}}
 
  Ospitiamo i nostri pacchetti Java in[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) repository. 'Aspose.Cells for Java' è un file JAR comune contenente codice byte. Si prega di seguire il[istruzioni passo passo](https://docs.aspose.com/cells/java/installation/) su come installarlo nel tuo ambiente di sviluppo Java.
@@ -107,7 +107,7 @@ Segui i semplici passaggi per convertire il PRN in SVG. Carica il tuo file PRN, 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/prn-to-bmp/" name="PRN BMP" description="Immagine bitmap" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/prn-to-emf/" name="PRN EMF" description="Formato metafile avanzato" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/prn-to-gif/" name="PRN GIF" description="Formato di interscambio grafico" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/prn-to-html/" name="PRN HTML" description="Hyper Text Markup Language" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/prn-to-html/" name="PRN HTML" description="Linguaggio di markup ipertestuale" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/prn-to-md/" name="PRN A MD" description="Linguaggio di ribasso" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/prn-to-mhtml/" name="PRN MHTML" description="Formato di archivio delle pagine Web" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/prn-to-ods/" name="PRN ODS" description="File di foglio di calcolo OpenDocument" >}}

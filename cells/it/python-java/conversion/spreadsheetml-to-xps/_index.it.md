@@ -1,7 +1,7 @@
 ---
 title: Python FOGLIO DI CALCOLOML a XPS - FOGLIO DI CALCOLOML a XPS Convertitore
-description: Aspose Excel. Python Excel. Converti SPREADSHEETML in XPS in modo rapido e semplice con Aspose.Cells. Python SPREADSHEETML in XPS. Python Salva SPREADSHEETML in XPS. Salva SPREADSHEETML come XPS utilizzando la libreria Excel Python.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert SPREADSHEETML to XPS in Python Excel Library., Save SPREADSHEETML to XPS using Python Excel Library., Python SPREADSHEETML to XPS saveformat., SPREADSHEETML to XPS Converter., Python Save SPREADSHEETML as XPS]
+description: Aspose Excel. Questa soluzione completa fornisce agli sviluppatori Python un approccio completamente integrato per convertire SPREADSHEETML nel formato XPS, consentendo il salvataggio senza interruzioni dei dati SPREADSHEETML nel formato XPS utilizzando la libreria Aspose.Cells, il tutto tramite codice Python efficiente e personalizzabile.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart SPREADSHEETML files to XPS Converter for Python., Convert SPREADSHEETML to XPS in Python., SPREADSHEETML files to XPS Conversion in Python., Leverage intelligent data processing to automatically parse and save SPREADSHEETML into XPS format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Converti SPREADSHEETML in XPS nella libreria Excel Python" h2="Libreria Excel Python ad alta velocità per convertire SPREADSHEETML in XPS. Si tratta di una soluzione software professionale per importare ed esportare SPREADSHEETML, XPS e molti altri formati utilizzando Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="XPS" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -27,7 +27,7 @@ Segui i semplici passaggi per convertire SPREADSHEETML in XPS. Carica il tuo fil
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Codice di esempio per convertire SPREADSHEETML in XPS tramite la libreria Excel Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xml" outformat="xps" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="Codice di esempio per convertire SPREADSHEETML in XPS tramite la libreria Excel Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="xml" outformat="xps" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="Come convertire SPREADSHEETML in XPS tramite Python" %}}
 
@@ -84,7 +84,7 @@ Aspose.Cells for Python via Java è indipendente dalla piattaforma API e può es
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/spreadsheetml-to-bmp/" name="FOGLIO DI CALCOLOML A BMP" description="Immagine bitmap" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/spreadsheetml-to-emf/" name="FOGLIO DI CALCOLOML A EMF" description="Formato metafile avanzato" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/spreadsheetml-to-gif/" name="FOGLIO DI CALCOLOML A GIF" description="Formato di interscambio grafico" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/spreadsheetml-to-html/" name="FOGLIO DI CALCOLOML A HTML" description="Hyper Text Markup Language" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/spreadsheetml-to-html/" name="FOGLIO DI CALCOLOML A HTML" description="Linguaggio di markup ipertestuale" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/spreadsheetml-to-md/" name="FOGLIO DI CALCOLOML A MD" description="Linguaggio di ribasso" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/spreadsheetml-to-mhtml/" name="FOGLIO DI CALCOLOML A MHTML" description="Formato di archivio delle pagine Web" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/spreadsheetml-to-ods/" name="FOGLIO DI CALCOLOML A ODS" description="File di foglio di calcolo OpenDocument" >}}

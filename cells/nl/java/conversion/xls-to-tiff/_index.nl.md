@@ -1,7 +1,7 @@
 ---
 title: Java XLS tot TIFF - XLS tot TIFF Converter
-description: Aspose Excel. Converteer XLS snel en eenvoudig naar TIFF met Aspose.Cells. Java XLS naar TIFF. Java Bewaar XLS in TIFF. Bewaar XLS als 07611134 81 via Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Convert XLS to TIFF in Java., Save XLS to TIFF using Java., Java XLS to TIFF saveformat., XLS to TIFF Converter., Java Save XLS as TIFF]
+description: Aspose Excel. Deze uitgebreide oplossing biedt ontwikkelaars een volledig geïntegreerde aanpak voor het converteren van gegevens van het formaat XLS naar TIFF, waardoor naadloos opslaan van gegevens in het formaat XLS mogelijk is met behulp van de bibliotheek Aspose.Cells, allemaal via efficiënte en aanpasbare code Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Smart XLS files to TIFF Converter for Java., Convert XLS to TIFF in Java., XLS files to TIFF Conversion in Java., Leverage intelligent data processing to automatically parse and save XLS into TIFF format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Converteer XLS naar TIFF in Java" h2="Snelle Java-bibliotheek voor het converteren van XLS naar TIFF. Dit is een professionele softwareoplossing voor het importeren en exporteren van XLS, TIFF en vele andere formaten met behulp van Java." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="TIFF" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Convert XLS to TIFF in Java., Save
 
 {{% blocks/products/pf/agp/content h2="Converteer XLS naar TIFF met behulp van Java" %}}
 
-Hoe converteer ik XLS naar TIFF? Met de bibliotheek Aspose.Cells for Java kunt u XLS eenvoudig programmatisch naar TIFF converteren met een paar regels code.[Aspose.Cells for Java](https://products.aspose.com/cells/java)is in staat om platformonafhankelijke applicaties te bouwen met de mogelijkheid om alle Excel-bestanden te genereren, wijzigen, converteren, renderen en afdrukken. Java Excel API converteert niet alleen tussen spreadsheetformaten, het kan ook Excel-bestanden weergeven als afbeeldingen, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT en meer, waardoor het een perfecte keuze is om documenten uit te wisselen in industriestandaardformaten. U kunt de nieuwste versie rechtstreeks downloaden van[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) en installeer het binnen uw op Maven gebaseerde project door de volgende configuraties toe te voegen aan pom.xml.
+ Hoe converteer ik XLS naar TIFF? Met de bibliotheek Aspose.Cells for Java kunt u XLS eenvoudig programmatisch naar TIFF converteren met een paar regels code.[Aspose.Cells for Java](https://products.aspose.com/cells/java)is in staat om platformonafhankelijke applicaties te bouwen met de mogelijkheid om alle Excel-bestanden te genereren, wijzigen, converteren, renderen en afdrukken. Java Excel API converteert niet alleen tussen spreadsheetformaten, het kan ook Excel-bestanden weergeven als afbeeldingen, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT en meer, waardoor het een perfecte keuze is om documenten uit te wisselen in industriestandaardformaten. U kunt de nieuwste versie rechtstreeks downloaden van[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) en installeer het binnen uw op Maven gebaseerde project door de volgende configuraties toe te voegen aan pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Opslagplaats" offSpacer="true" %}}
 
@@ -45,9 +45,9 @@ Hoe converteer ik XLS naar TIFF? Met de bibliotheek Aspose.Cells for Java kunt u
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Bewaar XLS t/m TIFF in Java" %}}
+{{% blocks/products/pf/agp/content h2="Sla XLS op in TIFF in Java" %}}
 
-Het volgende voorbeeld laat zien hoe u XLS converteert naar TIFF in Java.
+Het volgende voorbeeld laat zien hoe je XLS omzet naar TIFF in Java.
 {{% blocks/products/pf/agp/text %}}
 
 Volg de eenvoudige stappen om XLS naar TIFF te converteren. Upload uw XLS-bestand en sla het vervolgens eenvoudig op als TIFF-bestand. Voor zowel XLS lezen als TIFF schrijven kunt u volledig gekwalificeerde bestandsnamen gebruiken. De inhoud en opmaak van de uitvoer TIFF zullen identiek zijn aan het originele document XLS.
@@ -56,19 +56,19 @@ Volg de eenvoudige stappen om XLS naar TIFF te converteren. Upload uw XLS-bestan
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Voorbeeldcode om XLS naar TIFF te converteren" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xls" outformat="tiff" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Voorbeeldcode om XLS naar TIFF te converteren" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="xls" outformat="tiff" IsLandingPage="true" language="java" %}}
 
-{{% blocks/products/pf/agp/content h2="Hoe XLS naar TIFF via Java te converteren" %}}
+{{% blocks/products/pf/agp/content h2="Hoe zet ik XLS om naar TIFF of via Java?" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
-Wilt u XLS-bestanden programmatisch naar TIFF converteren? Java-ontwikkelaars kunnen XLS eenvoudig in slechts een paar regels code naar TIFF converteren.
+Moet je bestanden met de extensie XLS programmatisch converteren naar TIFF? Ontwikkelaars van Java kunnen bestanden met de extensie XLS eenvoudig converteren naar TIFF met slechts een paar regels code.
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Installeer 'Aspose.Cells for Java'.
 1.  Voeg een bibliotheekreferentie toe (importeer de bibliotheek) aan uw Java-project.
-1. Laad bestand XLS met een exemplaar van de klasse Workbook.
+1.  Laad bestand XLS met een instantie van de klasse Workbook.
 1.  Converteer XLS naar TIFF door de Workbook.save-methode aan te roepen.
 1.  Verkrijg het conversieresultaat van XLS naar TIFF.
 
@@ -97,7 +97,7 @@ Wilt u XLS-bestanden programmatisch naar TIFF converteren? Java-ontwikkelaars ku
 
 <!-- aboutfile Starts -->
     {{< blocks/products/pf/agp/about-file-section >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLS" readMoreLink="https://docs.fileformat.com/spreadsheet/xls/" >}}Bestanden met de extensie XLS vertegenwoordigen het binaire bestandsformaat van Excel. Dergelijke bestanden kunnen worden gemaakt door Microsoft Excel en andere soortgelijke spreadsheetprogramma's zoals OpenOffice Calc of Apple Numbers. Bestand dat door Excel wordt opgeslagen, staat bekend als Werkmap, waarbij elke werkmap een of meer werkbladen kan hebben. Gegevens worden opgeslagen en weergegeven aan gebruikers in tabelindeling op een werkblad en kunnen numerieke waarden, tekstgegevens, formules, externe gegevensverbindingen, afbeeldingen en grafieken omvatten. Met toepassingen zoals Microsoft Excel kunt u werkmapgegevens naar verschillende formaten exporteren, waaronder PDF, CSV, XLSX, TXT, HTML, XPS en verschillende andere. Het bestandsformaat XLS werd vervangen door een meer open en gestructureerd formaat, XLSX, met de release van Microsoft Excel 2007. De nieuwste versies bieden nog steeds ondersteuning voor het maken en lezen van XLS-bestanden, hoewel XLSX nu de eerste gebruikskeuze is.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLS" readMoreLink="https://docs.fileformat.com/spreadsheet/xls/" >}}Bestanden met de extensie XLS vertegenwoordigen het binaire bestandsformaat van Excel. Dergelijke bestanden kunnen worden gemaakt door Microsoft Excel en andere soortgelijke spreadsheetprogramma's zoals OpenOffice Calc of Apple Numbers. Bestand opgeslagen door Excel staat bekend als Werkmap, waarbij elke werkmap een of meer werkbladen kan hebben. Gegevens worden opgeslagen en weergegeven aan gebruikers in tabelindeling op een werkblad en kunnen numerieke waarden, tekstgegevens, formules, externe gegevensverbindingen, afbeeldingen en grafieken omvatten. Met toepassingen zoals Microsoft Excel kunt u werkmapgegevens naar verschillende formaten exporteren, waaronder PDF, CSV, XLSX, TXT, HTML, XPS en verschillende andere. Het bestandsformaat XLS werd vervangen door een meer open en gestructureerd formaat, XLSX, met de release van Microsoft Excel 2007. De nieuwste versies bieden nog steeds ondersteuning voor het maken en lezen van XLS-bestanden, hoewel XLSX nu de eerste gebruikskeuze is.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="TIFF" readMoreLink="https://docs.fileformat.com/image/tiff/" >}}TIFF of TIF, Tagged Image File Format, vertegenwoordigt rasterafbeeldingen die bedoeld zijn voor gebruik op een verscheidenheid aan apparaten die voldoen aan deze bestandsformaatstandaard. Het is in staat om afbeeldingsgegevens op twee niveaus, grijstinten, paletkleuren en full-colour beeldgegevens in verschillende kleurruimten te beschrijven. Het ondersteunt zowel verliesgevende als verliesloze compressieschema's om te kiezen tussen ruimte en tijd voor toepassingen die dit formaat gebruiken. Het formaat is niet machineafhankelijk en kent geen grenzen zoals processor, besturingssysteem of bestandssystemen.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
     {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->

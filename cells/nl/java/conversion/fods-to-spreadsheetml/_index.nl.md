@@ -1,7 +1,7 @@
 ---
 title: Java FODS naar SPREADSHEETML - FODS naar SPREADSHEETML-converter
-description: Aspose Excel. Converteer FODS snel en eenvoudig naar SPREADSHEETML met Aspose.Cells. Java FODS naar SPREADSHEETML. Java Sla FODS op in SPREADSHEETML. Sla FODS op als SPREADSHEETML met behulp van Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Convert FODS to SPREADSHEETML in Java., Save FODS to SPREADSHEETML using Java., Java FODS to SPREADSHEETML saveformat., FODS to SPREADSHEETML Converter., Java Save FODS as SPREADSHEETML]
+description: Aspose Excel. Deze uitgebreide oplossing biedt Java ontwikkelaars een volledig geïntegreerde aanpak om FODS naar SPREADSHEETML-formaat te converteren, waardoor naadloos opslaan van FODS-gegevens in SPREADSHEETML-formaat mogelijk is met behulp van de Aspose.Cells-bibliotheek, allemaal via efficiënte en aanpasbare Java-code.
+keywords: [Aspose Excel., Java Aspose.Cells., Smart FODS files to SPREADSHEETML Converter for Java., Convert FODS to SPREADSHEETML in Java., FODS files to SPREADSHEETML Conversion in Java., Leverage intelligent data processing to automatically parse and save FODS into SPREADSHEETML format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Converteer FODS naar SPREADSHEETML in Java" h2="Snelle Java-bibliotheek voor het converteren van FODS naar SPREADSHEETML. Dit is een professionele softwareoplossing voor het importeren en exporteren van FODS, SPREADSHEETML en vele andere formaten met behulp van Java." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="SPREADSHEETML" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="CSV" >}}
@@ -47,7 +47,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Convert FODS to SPREADSHEETML in J
 
 {{% blocks/products/pf/agp/content h2="Sla FODS op in SPREADSHEETML in Java" %}}
 
-In het volgende voorbeeld ziet u hoe u FODS converteert naar SPREADSHEETML in Java.
+Het volgende voorbeeld laat zien hoe u FODS naar SPREADSHEETML kunt converteren in Java.
 {{% blocks/products/pf/agp/text %}}
 
 Volg de eenvoudige stappen om FODS naar SPREADSHEETML te converteren. Upload uw FODS-bestand en sla het vervolgens eenvoudig op als SPREADSHEETML-bestand. Voor zowel FODS-lezen als SPREADSHEETML-schrijven kunt u volledig gekwalificeerde bestandsnamen gebruiken. De inhoud en opmaak van de SPREADSHEETML-uitvoer zijn identiek aan het originele FODS-document.
@@ -56,19 +56,19 @@ Volg de eenvoudige stappen om FODS naar SPREADSHEETML te converteren. Upload uw 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Voorbeeldcode om FODS naar SPREADSHEETML te converteren" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="fods" outformat="xml" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Voorbeeldcode om FODS naar SPREADSHEETML te converteren" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="fods" outformat="xml" IsLandingPage="true" language="java" %}}
 
-{{% blocks/products/pf/agp/content h2="FODS converteren naar SPREADSHEETML via Java" %}}
+{{% blocks/products/pf/agp/content h2="Hoe converteer ik FODS naar SPREADSHEETML via Java?" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
-Wilt u FODS-bestanden programmatisch naar SPREADSHEETML converteren? Java-ontwikkelaars kunnen FODS eenvoudig in slechts een paar regels code naar SPREADSHEETML converteren.
+Moet u bestanden met de extensie FODS programmatisch converteren naar SPREADSHEETML? Ontwikkelaars van Java kunnen bestanden met de extensie FODS eenvoudig converteren naar SPREADSHEETML met slechts een paar regels code.
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Installeer 'Aspose.Cells for Java'.
 1.  Voeg een bibliotheekreferentie toe (importeer de bibliotheek) aan uw Java-project.
-1. Laad bestand FODS met een exemplaar van de klasse Workbook.
+1.  Laad bestand FODS met een instantie van de klasse Workbook.
 1.  Converteer FODS naar SPREADSHEETML door de Workbook.save-methode aan te roepen.
 1.  Verkrijg het conversieresultaat van FODS naar SPREADSHEETML.
 

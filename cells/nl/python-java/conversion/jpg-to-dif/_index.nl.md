@@ -1,7 +1,7 @@
 ---
 title: Python JPG naar DIF - JPG naar DIF Converter
-description: Aspose Excel. Python Excel. Converteer JPG snel en eenvoudig naar DIF met Aspose.Cells. Python JPG naar DIF. Python Sla JPG op naar DIF. Sla JPG op als DIF met behulp van de Excel-bibliotheek Python.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert JPG to DIF in Python Excel Library., Save JPG to DIF using Python Excel Library., Python JPG to DIF saveformat., JPG to DIF Converter., Python Save JPG as DIF]
+description: Aspose Excel. Deze uitgebreide oplossing biedt Python ontwikkelaars een volledig geïntegreerde aanpak voor het converteren van JPG naar DIF-formaat, waardoor naadloos opslaan van JPG-gegevens in DIF-formaat mogelijk is met behulp van de Aspose.Cells-bibliotheek, allemaal via efficiënte en aanpasbare Python-code.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart JPG files to DIF Converter for Python., Convert JPG to DIF in Python., JPG files to DIF Conversion in Python., Leverage intelligent data processing to automatically parse and save JPG into DIF format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Converteer JPG naar DIF in de Excel-bibliotheek Python" h2="Snelle Python Excel-bibliotheek voor het converteren van JPG naar DIF. Dit is een professionele softwareoplossing voor het importeren en exporteren van JPG, DIF en vele andere formaten met behulp van Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="DIF" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -27,7 +27,7 @@ Volg de eenvoudige stappen om JPG naar DIF te converteren. Upload uw JPG-bestand
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Voorbeeldcode om JPG naar DIF te converteren via de Excel-bibliotheek Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="jpg" outformat="dif" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="Voorbeeldcode om JPG naar DIF te converteren via de Excel-bibliotheek Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="jpg" outformat="dif" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="Hoe JPG naar DIF te converteren via Python" %}}
 

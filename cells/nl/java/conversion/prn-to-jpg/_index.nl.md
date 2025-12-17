@@ -1,7 +1,7 @@
 ---
 title: Java PRN naar JPG - PRN naar JPG-converter
-description: Aspose Excel. Converteer PRN snel en eenvoudig naar JPG met Aspose.Cells. Java PRN naar JPG. Java PRN opslaan in JPG. Sla PRN op als JPG met Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Convert PRN to JPG in Java., Save PRN to JPG using Java., Java PRN to JPG saveformat., PRN to JPG Converter., Java Save PRN as JPG]
+description: Aspose Excel. Deze complete oplossing biedt ontwikkelaars een volledig geïntegreerde aanpak voor het converteren van PRN-bestanden naar JPG-formaat. Hierdoor kunnen PRN-gegevens naadloos worden opgeslagen in JPG-formaat met behulp van de bibliotheek, en dat alles via efficiënte en aanpasbare code.
+keywords: [Aspose Excel., Java Aspose.Cells., Smart PRN files to JPG Converter for Java., Convert PRN to JPG in Java., PRN files to JPG Conversion in Java., Leverage intelligent data processing to automatically parse and save PRN into JPG format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Converteer PRN naar JPG in Java" h2="Snelle Java-bibliotheek voor het converteren van PRN naar JPG. Dit is een professionele softwareoplossing voor het importeren en exporteren van PRN, JPG en vele andere formaten met behulp van Java." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="JPG" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="CSV" >}}
@@ -45,9 +45,9 @@ keywords: [Aspose Excel., Java Aspose.Cells., Convert PRN to JPG in Java., Save 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Sla PRN op in JPG in Java" %}}
+{{% blocks/products/pf/agp/content h2="Sla PRN op als JPG in Java" %}}
 
-Het volgende voorbeeld laat zien hoe u PRN naar JPG converteert in Java.
+Het volgende voorbeeld laat zien hoe je PRN naar JPG converteert in Java.
 {{% blocks/products/pf/agp/text %}}
 
 Volg de eenvoudige stappen om PRN naar JPG te converteren. Upload uw PRN-bestand en sla het vervolgens eenvoudig op als JPG-bestand. Voor zowel PRN-lezen als JPG-schrijven kunt u volledig gekwalificeerde bestandsnamen gebruiken. De uitgevoerde JPG-inhoud en opmaak zullen identiek zijn aan het originele PRN-document.
@@ -56,25 +56,25 @@ Volg de eenvoudige stappen om PRN naar JPG te converteren. Upload uw PRN-bestand
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Voorbeeldcode om PRN naar JPG te converteren" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="prn" outformat="jpg" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Voorbeeldcode om een PRN-bestand naar een JPG-bestand te converteren" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="prn" outformat="jpg" IsLandingPage="true" language="java" %}}
 
-{{% blocks/products/pf/agp/content h2="Hoe PRN naar JPG via Java te converteren" %}}
+{{% blocks/products/pf/agp/content h2="Hoe converteer je een PRN-bestand naar een JPG-bestand? via Java" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
-Wilt u PRN-bestanden programmatisch naar JPG converteren? Java-ontwikkelaars kunnen PRN eenvoudig naar JPG converteren in slechts een paar regels code.
+Moet je PRN-bestanden programmatisch naar JPG converteren? Ontwikkelaars van Java kunnen PRN-bestanden eenvoudig naar JPG converteren met slechts een paar regels code.
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Installeer 'Aspose.Cells for Java'.
 1.  Voeg een bibliotheekreferentie toe (importeer de bibliotheek) aan uw Java-project.
-1.  Laad het PRN-bestand met een exemplaar van de Workbook-klasse.
+1.  Laad een PRN-bestand met een instantie van de Workbook-klasse.
 1.  Converteer PRN naar JPG door de Workbook.save-methode aan te roepen.
 1.  Verkrijg het conversieresultaat van PRN naar JPG.
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Java bibliotheek om PRN naar JPG te converteren" %}}
+{{% blocks/products/pf/agp/content h2="Bibliotheek Java voor het converteren van PRN naar JPG" %}}
 {{% blocks/products/pf/agp/text %}}
 
  We hosten onze Java-pakketten in[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) opslagplaatsen. 'Aspose.Cells for Java' is een veelgebruikt JAR-bestand met bytecode. Volg alstublieft de[stapsgewijze instructies](https://docs.aspose.com/cells/java/installation/) over hoe u het installeert in uw Java-ontwikkelaarsomgeving.

@@ -1,7 +1,7 @@
 ---
 title: Java EXCEL a CSV - EXCEL a CSV Convertitore
-description: Aspose Excel. Converti EXCEL in CSV in modo rapido e semplice con Aspose.Cells. Java EXCEL in CSV. Java Salva EXCEL in CSV. Salva EXCEL come CSV utilizzando Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Convert EXCEL to CSV in Java., Save EXCEL to CSV using Java., Java EXCEL to CSV saveformat., EXCEL to CSV Converter., Java Save EXCEL as CSV]
+description: Aspose Excel. Questa soluzione completa fornisce agli sviluppatori Java un approccio completamente integrato per convertire EXCEL nel formato CSV, consentendo il salvataggio senza interruzioni dei dati EXCEL nel formato CSV utilizzando la libreria Aspose.Cells, il tutto tramite codice Java efficiente e personalizzabile.
+keywords: [Aspose Excel., Java Aspose.Cells., Smart EXCEL files to CSV Converter for Java., Convert EXCEL to CSV in Java., EXCEL files to CSV Conversion in Java., Leverage intelligent data processing to automatically parse and save EXCEL into CSV format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Converti EXCEL in CSV in Java" h2="Libreria Java ad alta velocità per convertire EXCEL in CSV. Si tratta di una soluzione software professionale per importare ed esportare EXCEL, CSV e molti altri formati utilizzando Java." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="CSV" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="CSV" >}}
@@ -45,7 +45,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Convert EXCEL to CSV in Java., Sav
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Salva EXCEL su CSV in Java" %}}
+{{% blocks/products/pf/agp/content h2="Salva EXCEL in CSV in Java" %}}
 
 L'esempio seguente mostra come convertire EXCEL in CSV in Java.
 {{% blocks/products/pf/agp/text %}}
@@ -56,17 +56,17 @@ Segui i semplici passaggi per convertire EXCEL in CSV. Carica il tuo file EXCEL,
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Codice di esempio per convertire EXCEL in CSV" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsx" outformat="csv" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Codice di esempio per convertire EXCEL in CSV" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="xlsx" outformat="csv" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="Come convertire EXCEL in CSV via Java" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
-È necessario convertire i file EXCEL in CSV a livello di codice? Gli sviluppatori Java possono convertire facilmente EXCEL in CSV in poche righe di codice.
+Hai bisogno di convertire i file EXCEL in CSV tramite codice? Gli sviluppatori che usano Java possono facilmente convertire i file EXCEL in CSV in poche righe di codice.
 
 {{% /blocks/products/pf/agp/text %}}
 
-1.  Installa 'Aspose.Cells for Java'.
+1.  Installare 'Aspose.Cells for Java'.
 1.  Aggiungi un riferimento di libreria (importa la libreria) al tuo progetto Java.
 1.  Carica il file EXCEL con un'istanza della classe Workbook.
 1.  Converti EXCEL in CSV chiamando il metodo Workbook.save.
@@ -98,7 +98,7 @@ Segui i semplici passaggi per convertire EXCEL in CSV. Carica il tuo file EXCEL,
 <!-- aboutfile Starts -->
     {{< blocks/products/pf/agp/about-file-section >}}
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="EXCEL" readMoreLink="https://docs.fileformat.com/spreadsheet/xlsx/" >}}XLSX è un formato noto per i documenti Excel Microsoft introdotto da Microsoft con il rilascio di Microsoft Office 2007. Basato sulla struttura organizzata secondo le convenzioni Open Packaging come delineato nella Parte 2 dello standard OOXML ECMA-376, il nuovo formato è un pacchetto zip che contiene una serie di file XML. La struttura e i file sottostanti possono essere esaminati semplicemente decomprimendo il file .xlsx.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="CSV" readMoreLink="https://docs.fileformat.com/spreadsheet/csv/" >}}file con estensione .csv (Comma Separated Values) rappresentano file di testo semplice che contengono record di dati con valori separati da virgole. Ogni riga in un file CSV è un nuovo record dall'insieme di record contenuti nel file. Tali file vengono generati quando è previsto il trasferimento dei dati da un sistema di archiviazione a un altro. Poiché tutte le applicazioni possono riconoscere i record separati da virgola, l'importazione di tali file di dati nel database viene eseguita in modo molto conveniente. Quasi tutte le applicazioni per fogli di calcolo come Microsoft Excel o OpenOffice Calc possono importare CSV senza troppi sforzi. I dati importati da tali file sono organizzati in celle di un foglio di calcolo per essere rappresentati dall'utente.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="CSV" readMoreLink="https://docs.fileformat.com/spreadsheet/csv/" >}}file con estensione .csv (Comma Separated Values) rappresentano file di testo semplice che contengono record di dati con valori separati da virgole. Ogni riga in un file CSV è un nuovo record dall'insieme di record contenuti nel file. Tali file vengono generati quando è previsto il trasferimento dei dati da un sistema di archiviazione a un altro. Poiché tutte le applicazioni sono in grado di riconoscere i record separati da virgola, l'importazione di tali file di dati nel database viene eseguita in modo molto conveniente. Quasi tutte le applicazioni per fogli di calcolo come Microsoft Excel o OpenOffice Calc possono importare CSV senza troppi sforzi. I dati importati da tali file sono organizzati in celle di un foglio di calcolo per essere rappresentati dall'utente.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
     {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->
 
@@ -107,7 +107,7 @@ Segui i semplici passaggi per convertire EXCEL in CSV. Carica il tuo file EXCEL,
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/excel-to-bmp/" name="ECCELLERE AL BMP" description="Immagine bitmap" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/excel-to-emf/" name="ECCELLERE AL EMF" description="Formato metafile avanzato" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/excel-to-gif/" name="ECCELLERE AL GIF" description="Formato di interscambio grafico" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/excel-to-html/" name="ECCELLERE AL HTML" description="Hyper Text Markup Language" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/excel-to-html/" name="ECCELLERE AL HTML" description="Linguaggio di markup ipertestuale" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/excel-to-md/" name="ECCELLERE A MD" description="Linguaggio di ribasso" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/excel-to-mhtml/" name="ECCELLERE AL MHTML" description="Formato di archivio delle pagine Web" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/excel-to-ods/" name="ECCELLERE AL ODS" description="File di foglio di calcolo OpenDocument" >}}

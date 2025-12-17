@@ -1,7 +1,7 @@
 ---
 title: Python TABDELIMITED a XPS - TABDELIMITED a XPS Convertitore
-description: Aspose Excel. Python Excel. Converti TABDELIMITED in XPS in modo rapido e semplice con Aspose.Cells. Python TABDELIMITED in XPS. Python Salva TABDELIMITED in XPS. Salva TABDELIMITED come XPS utilizzando la libreria Excel Python.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert TABDELIMITED to XPS in Python Excel Library., Save TABDELIMITED to XPS using Python Excel Library., Python TABDELIMITED to XPS saveformat., TABDELIMITED to XPS Converter., Python Save TABDELIMITED as XPS]
+description: Aspose Excel. Questa soluzione completa fornisce agli sviluppatori Python un approccio completamente integrato per convertire TABDELIMITED nel formato XPS, consentendo il salvataggio senza interruzioni dei dati TABDELIMITED nel formato XPS utilizzando la libreria Aspose.Cells, il tutto tramite codice Python efficiente e personalizzabile.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart TABDELIMITED files to XPS Converter for Python., Convert TABDELIMITED to XPS in Python., TABDELIMITED files to XPS Conversion in Python., Leverage intelligent data processing to automatically parse and save TABDELIMITED into XPS format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Converti TABDELIMITED in XPS nella Libreria Excel Python" h2="Libreria Excel Python ad alta velocità per convertire TABDELIMITED in XPS. Utilizza la nostra conversione Excel API per sviluppare software di alto livello indipendente dalla piattaforma in Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="XPS" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -28,7 +28,7 @@ Segui i semplici passaggi per convertire TABDELIMITED in XPS. Carica il tuo file
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Codice di esempio per convertire TABDELIMITED in XPS tramite la libreria Excel Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="tsv" outformat="xps" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Codice di esempio per convertire TABDELIMITED in XPS tramite la libreria Excel Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="tsv" outformat="xps" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="Come convertire TABDELIMITED in XPS" %}}
 
@@ -82,7 +82,7 @@ Aspose.Cells for Python tramite NET è indipendente dalla piattaforma API e può
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/tabdelimited-to-bmp/" name="TABDELIMITATO A BMP" description="Immagine bitmap" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/tabdelimited-to-emf/" name="TABDELIMITATO A EMF" description="Formato metafile avanzato" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/tabdelimited-to-gif/" name="TABDELIMITATO A GIF" description="Formato di interscambio grafico" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/tabdelimited-to-html/" name="TABDELIMITATO A HTML" description="Hyper Text Markup Language" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/tabdelimited-to-html/" name="TABDELIMITATO A HTML" description="Linguaggio di markup ipertestuale" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/tabdelimited-to-md/" name="TABDELIMITATO A MD" description="Linguaggio di ribasso" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/tabdelimited-to-mhtml/" name="TABDELIMITATO A MHTML" description="Formato di archivio delle pagine Web" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/tabdelimited-to-ods/" name="TABDELIMITATO A ODS" description="File di foglio di calcolo OpenDocument" >}}

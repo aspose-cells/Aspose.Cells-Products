@@ -1,7 +1,7 @@
 ---
 title: Python TSV naar ET - TSV naar ET-converter
-description: Aspose Excel. Python Excel. Converteer TSV snel en eenvoudig naar ET met Aspose.Cells. Python TSV naar ET. Python Bewaar TSV naar ET. Sla TSV op als ET met behulp van de Excel-bibliotheek Python.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert TSV to ET in Python Excel Library., Save TSV to ET using Python Excel Library., Python TSV to ET saveformat., TSV to ET Converter., Python Save TSV as ET]
+description: Aspose Excel. Deze complete oplossing biedt ontwikkelaars een volledig geïntegreerde aanpak voor het converteren van gegevens naar het ET-formaat. Hierdoor kunnen gegevens naadloos worden opgeslagen in het ET-formaat met behulp van de bibliotheek, en dit alles via efficiënte en aanpasbare code.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart TSV files to ET Converter for Python., Convert TSV to ET in Python., TSV files to ET Conversion in Python., Leverage intelligent data processing to automatically parse and save TSV into ET format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Converteer TSV naar ET in de Excel-bibliotheek Python" h2="Snelle Python Excel-bibliotheek voor het converteren van TSV naar ET. Gebruik onze Excel-conversie API om hoogwaardige, platformonafhankelijke software te ontwikkelen in Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="ET" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -28,7 +28,7 @@ Volg de eenvoudige stappen om TSV naar ET te converteren. Upload uw TSV-bestand 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Voorbeeldcode om TSV naar ET te converteren via de Excel-bibliotheek Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="tsv" outformat="et" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Voorbeeldcode om TSV naar ET te converteren via de Excel-bibliotheek Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="tsv" outformat="et" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="Hoe TSV naar ET te converteren" %}}
 

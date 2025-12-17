@@ -1,7 +1,7 @@
 ---
 title: Python MHTML ~ XLAM - MHTML ~ XLAM 변환기
-description: Aspose 엑셀. Python 엑셀. MHTML을 Aspose.Cells로 빠르고 쉽게 변환합니다. Python MHTML을 XLAM로 저장합니다. Python MHTML을 XLAM로 저장합니다. MHTML을 076112로 저장합니다. Python Excel 라이브러리를 사용하는 3481.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert MHTML to XLAM in Python Excel Library., Save MHTML to XLAM using Python Excel Library., Python MHTML to XLAM saveformat., MHTML to XLAM Converter., Python Save MHTML as XLAM]
+description: Aspose Excel. 이 포괄적인 솔루션은 Python 개발자에게 MHTML 형식을 XLAM 형식으로 변환하는 완벽하게 통합된 접근 방식을 제공하며, Aspose.Cells 라이브러리를 사용하여 MHTML 데이터를 XLAM 형식으로 원활하게 저장할 수 있도록 지원합니다. 이 모든 작업은 효율적이고 사용자 정의 가능한 Python 코드를 통해 이루어집니다.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart MHTML files to XLAM Converter for Python., Convert MHTML to XLAM in Python., MHTML files to XLAM Conversion in Python., Leverage intelligent data processing to automatically parse and save MHTML into XLAM format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Python Excel 라이브러리에서 MHTML을 XLAM로 변환" h2="MHTML을 XLAM로 변환하기 위한 고속 Python Excel 라이브러리. 이것은 MHTML, XLAM 및 Python을 사용하는 기타 여러 형식을 가져오고 내보낼 수 있는 전문 소프트웨어 솔루션입니다." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLAM" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -27,7 +27,7 @@ keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert M
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Python Excel 라이브러리를 통해 MHTML을 XLAM로 변환하는 샘플 코드" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="mhtml" outformat="xlam" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="Python Excel 라이브러리를 통해 MHTML을 XLAM로 변환하는 샘플 코드" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="mhtml" outformat="xlam" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="Python을 통해 MHTML을 XLAM로 변환하는 방법" %}}
 
@@ -101,7 +101,7 @@ Aspose.Cells for Python via Java은 플랫폼 독립적인 API이며 모든 플�
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/mhtml-to-xlt/" name="MHTML ~ XLT" description="Microsoft 엑셀 템플릿" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/mhtml-to-xltm/" name="MHTML ~ XLTM" description="Excel 매크로 지원 템플릿" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/mhtml-to-xltx/" name="MHTML ~ XLTX" description="Office OpenXML 엑셀 템플릿" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/mhtml-to-xml/" name="MHTML TO XML" description="확장 가능한 마크업 언어" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/mhtml-to-xml/" name="MHTML을 XML로" description="확장 가능한 마크업 언어" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/mhtml-to-xps/" name="MHTML ~ XPS" description="XML 용지 사양" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/mhtml-to-json/" name="MHTML ~ JSON" description="자바스크립트 객체 표기법" >}}
 

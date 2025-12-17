@@ -1,7 +1,7 @@
 ---
 title: Python EXCEL naar OTS - EXCEL naar OTS-converter
-description: Aspose Excel. Python Excel. Converteer Excel snel en eenvoudig naar OTS met Aspose.Cells. Python EXCEL naar OTS. Python Excel opslaan in OTS. Sla EXCEL op als OTS met behulp van de Excel-bibliotheek Python.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert EXCEL to OTS in Python Excel Library., Save EXCEL to OTS using Python Excel Library., Python EXCEL to OTS saveformat., EXCEL to OTS Converter., Python Save EXCEL as OTS]
+description: Aspose Excel. Deze complete oplossing biedt ontwikkelaars een volledig geïntegreerde aanpak voor het converteren van Excel naar OTS-formaat, waardoor het naadloos opslaan van Excel-gegevens in OTS-formaat mogelijk is met behulp van de bibliotheek, alles via efficiënte en aanpasbare code.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart EXCEL files to OTS Converter for Python., Convert EXCEL to OTS in Python., EXCEL files to OTS Conversion in Python., Leverage intelligent data processing to automatically parse and save EXCEL into OTS format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Converteer EXCEL naar OTS in Python Excel-bibliotheek" h2="Snelle Python Excel-bibliotheek voor het converteren van EXCEL naar OTS. Gebruik onze Excel-conversie API om hoogwaardige, platformonafhankelijke software te ontwikkelen in Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="OTS" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -28,7 +28,7 @@ Volg de eenvoudige stappen om EXCEL naar OTS te converteren. Upload uw EXCEL-bes
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Voorbeeldcode om EXCEL naar OTS te converteren via Python Excel-bibliotheek" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsx" outformat="ots" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Voorbeeldcode om EXCEL naar OTS te converteren via Python Excel-bibliotheek" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="xlsx" outformat="ots" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="Hoe Excel naar OTS te converteren" %}}
 

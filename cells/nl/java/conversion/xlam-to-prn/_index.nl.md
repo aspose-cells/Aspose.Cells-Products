@@ -1,7 +1,7 @@
 ---
-title: XLAM naar PRN - Converteer XLAM naar PRN-bestanden Java
-description: Aspose Excel. Gratis online converteer XLAM naar PRN-opslagformaat. Java XLAM naar PRN-formaat. Sla XLAM op als PRN in Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Java XLAM to PRN saveformat., Free Online XLAM to PRN Converter]
+title: Java XLAM naar PRN - XLAM naar PRN-converter
+description: Aspose Excel. Deze complete oplossing biedt ontwikkelaars een volledig geïntegreerde aanpak voor het converteren van gegevens naar PRN-formaat. Hierdoor kunnen gegevens naadloos worden opgeslagen in PRN-formaat met behulp van de bibliotheek, en dit alles via efficiënte en aanpasbare code.
+keywords: [Aspose Excel., Java Aspose.Cells., Smart XLAM files to PRN Converter for Java., Convert XLAM to PRN in Java., XLAM files to PRN Conversion in Java., Leverage intelligent data processing to automatically parse and save XLAM into PRN format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Converteer XLAM naar PRN in Java" h2="Snelle Java-bibliotheek voor het converteren van XLAM naar PRN. Dit is een professionele softwareoplossing voor het importeren en exporteren van XLAM, PRN en vele andere formaten met behulp van Java." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="PRN" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="CSV" >}}
@@ -45,9 +45,9 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java XLAM to PRN saveformat., Free
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Bewaar XLAM naar PRN in Java gratis online" %}}
+{{% blocks/products/pf/agp/content h2="Sla XLAM op als PRN in Java" %}}
 
-Het volgende voorbeeld laat zien hoe u XLAM naar PRN converteert in Java.
+Het volgende voorbeeld laat zien hoe je XLAM omzet naar PRN in Java.
 {{% blocks/products/pf/agp/text %}}
 
 Volg de eenvoudige stappen om XLAM naar PRN te converteren. Upload uw XLAM-bestand en sla het vervolgens eenvoudig op als PRN-bestand. Voor zowel het lezen van XLAM als het schrijven van PRN kunt u volledig gekwalificeerde bestandsnamen gebruiken. De uitvoer-PRN-inhoud en -opmaak zijn identiek aan het originele XLAM-document.
@@ -56,19 +56,19 @@ Volg de eenvoudige stappen om XLAM naar PRN te converteren. Upload uw XLAM-besta
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Gratis app en voorbeeldcode om XLAM naar PRN Online te converteren" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlam" outformat="prn" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Voorbeeldcode om XLAM naar PRN te converteren" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="xlam" outformat="prn" IsLandingPage="true" language="java" %}}
 
-{{% blocks/products/pf/agp/content h2="Hoe XLAM naar PRN via Java te converteren" %}}
+{{% blocks/products/pf/agp/content h2="Hoe zet ik XLAM om naar PRN via Java?" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
-Wilt u XLAM-bestanden programmatisch naar PRN converteren? Java-ontwikkelaars kunnen XLAM eenvoudig met slechts een paar regels code naar PRN converteren.
+Moet u XLAM-bestanden programmatisch naar PRN converteren? Ontwikkelaars van Java kunnen XLAM-bestanden eenvoudig in een paar regels code naar PRN converteren.
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Installeer 'Aspose.Cells for Java'.
 1.  Voeg een bibliotheekreferentie toe (importeer de bibliotheek) aan uw Java-project.
-1. Laad bestand XLAM met een exemplaar van de klasse Workbook.
+1.  Laad bestand XLAM met een instantie van de klasse Workbook.
 1.  Converteer XLAM naar PRN door de Workbook.save-methode aan te roepen.
 1.  Verkrijg het conversieresultaat van XLAM naar PRN.
 
@@ -95,6 +95,12 @@ Wilt u XLAM-bestanden programmatisch naar PRN converteren? Java-ontwikkelaars ku
 
 {{% /blocks/products/pf/agp/content %}}
 
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLAM" readMoreLink="https://docs.fileformat.com/spreadsheet/xlam/" >}}XLAM is een invoegbestand met macro's dat wordt gebruikt om nieuwe functies aan spreadsheets toe te voegen. Een invoegtoepassing is een aanvullend programma dat extra code uitvoert en extra functionaliteit voor spreadsheets biedt. XLAM-bestanden worden opgeslagen met de extensie .xlam. XLAM-bestanden zijn op XML gebaseerde bestanden die lijken op de bestandsformaten XLSM en XLSX en worden opgeslagen met ZIP-compressie om de totale bestandsgrootte te verkleinen.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="PRN" readMoreLink="https://fileinfo.com/extension/prn/" >}}Een PRN-bestand is een bestand dat is gemaakt met behulp van het selectievakje Afdrukken naar bestand dat in sommige afdrukdialoogvensters op Windows verschijnt. Het bevat een reeks apparaatspecifieke instructies die een printer, faxapparaat of ander apparaat gebruikt om een document af te drukken. PRN-bestanden kunnen tekst of binaire inhoud bevatten, afhankelijk van het apparaat waarvoor het bestand is gemaakt.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Andere ondersteunde conversies" subTitle="U kunt XLAM ook naar vele andere bestandsindelingen converteren, waaronder enkele hieronder vermeld." >}}
 

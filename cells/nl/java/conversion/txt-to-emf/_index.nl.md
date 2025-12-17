@@ -1,7 +1,7 @@
 ---
 title: Java TXT tot EMF - TXT tot EMF Converter
-description: Aspose Excel. Converteer TXT snel en eenvoudig naar EMF met Aspose.Cells. Java TXT naar EMF. Java Bewaar TXT in EMF. Bewaar TXT als 07611134 81 via Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Convert TXT to EMF in Java., Save TXT to EMF using Java., Java TXT to EMF saveformat., TXT to EMF Converter., Java Save TXT as EMF]
+description: Aspose Excel. Deze uitgebreide oplossing biedt ontwikkelaars een volledig geïntegreerde aanpak voor het converteren van gegevens van het formaat TXT naar EMF, waardoor naadloos opslaan van gegevens in het formaat TXT mogelijk is met behulp van de bibliotheek Aspose.Cells, allemaal via efficiënte en aanpasbare code Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Smart TXT files to EMF Converter for Java., Convert TXT to EMF in Java., TXT files to EMF Conversion in Java., Leverage intelligent data processing to automatically parse and save TXT into EMF format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Converteer TXT naar EMF in Java" h2="Snelle Java-bibliotheek voor het converteren van TXT naar EMF. Dit is een professionele softwareoplossing voor het importeren en exporteren van TXT, EMF en vele andere formaten met behulp van Java." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="EMF" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Convert TXT to EMF in Java., Save 
 
 {{% blocks/products/pf/agp/content h2="Converteer TXT naar EMF met behulp van Java" %}}
 
-Hoe converteer ik TXT naar EMF? Met de bibliotheek Aspose.Cells for Java kunt u TXT eenvoudig programmatisch naar EMF converteren met een paar regels code.[Aspose.Cells for Java](https://products.aspose.com/cells/java)is in staat om platformonafhankelijke applicaties te bouwen met de mogelijkheid om alle Excel-bestanden te genereren, wijzigen, converteren, renderen en afdrukken. Java Excel API converteert niet alleen tussen spreadsheetformaten, het kan ook Excel-bestanden weergeven als afbeeldingen, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT en meer, waardoor het een perfecte keuze is om documenten uit te wisselen in industriestandaardformaten. U kunt de nieuwste versie rechtstreeks downloaden van[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) en installeer het binnen uw op Maven gebaseerde project door de volgende configuraties toe te voegen aan pom.xml.
+ Hoe converteer ik TXT naar EMF? Met de bibliotheek Aspose.Cells for Java kunt u TXT eenvoudig programmatisch naar EMF converteren met een paar regels code.[Aspose.Cells for Java](https://products.aspose.com/cells/java)is in staat om platformonafhankelijke applicaties te bouwen met de mogelijkheid om alle Excel-bestanden te genereren, wijzigen, converteren, renderen en afdrukken. Java Excel API converteert niet alleen tussen spreadsheetformaten, het kan ook Excel-bestanden weergeven als afbeeldingen, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT en meer, waardoor het een perfecte keuze is om documenten uit te wisselen in industriestandaardformaten. U kunt de nieuwste versie rechtstreeks downloaden van[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) en installeer het binnen uw op Maven gebaseerde project door de volgende configuraties toe te voegen aan pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Opslagplaats" offSpacer="true" %}}
 
@@ -45,9 +45,9 @@ Hoe converteer ik TXT naar EMF? Met de bibliotheek Aspose.Cells for Java kunt u 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Bewaar TXT t/m EMF in Java" %}}
+{{% blocks/products/pf/agp/content h2="Sla TXT op in EMF in Java" %}}
 
-Het volgende voorbeeld laat zien hoe u TXT converteert naar EMF in Java.
+Het volgende voorbeeld laat zien hoe je TXT omzet naar EMF in Java.
 {{% blocks/products/pf/agp/text %}}
 
 Volg de eenvoudige stappen om TXT naar EMF te converteren. Upload uw TXT-bestand en sla het vervolgens eenvoudig op als EMF-bestand. Voor zowel TXT lezen als EMF schrijven kunt u volledig gekwalificeerde bestandsnamen gebruiken. De inhoud en opmaak van de uitvoer EMF zullen identiek zijn aan het originele document TXT.
@@ -56,19 +56,19 @@ Volg de eenvoudige stappen om TXT naar EMF te converteren. Upload uw TXT-bestand
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Voorbeeldcode om TXT naar EMF te converteren" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="txt" outformat="emf" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Voorbeeldcode om TXT naar EMF te converteren" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="txt" outformat="emf" IsLandingPage="true" language="java" %}}
 
-{{% blocks/products/pf/agp/content h2="Hoe TXT naar EMF via Java te converteren" %}}
+{{% blocks/products/pf/agp/content h2="Hoe zet ik TXT om naar EMF of via Java?" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
-Wilt u TXT-bestanden programmatisch naar EMF converteren? Java-ontwikkelaars kunnen TXT eenvoudig in slechts een paar regels code naar EMF converteren.
+Moet je bestanden met de extensie TXT programmatisch converteren naar EMF? Ontwikkelaars van Java kunnen bestanden met de extensie TXT eenvoudig converteren naar EMF met slechts een paar regels code.
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Installeer 'Aspose.Cells for Java'.
 1.  Voeg een bibliotheekreferentie toe (importeer de bibliotheek) aan uw Java-project.
-1. Laad bestand TXT met een exemplaar van de klasse Workbook.
+1.  Laad bestand TXT met een instantie van de klasse Workbook.
 1.  Converteer TXT naar EMF door de Workbook.save-methode aan te roepen.
 1.  Verkrijg het conversieresultaat van TXT naar EMF.
 
@@ -98,7 +98,7 @@ Wilt u TXT-bestanden programmatisch naar EMF converteren? Java-ontwikkelaars kun
 <!-- aboutfile Starts -->
     {{< blocks/products/pf/agp/about-file-section >}}
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="TXT" readMoreLink="https://docs.fileformat.com/word-processing/txt/" >}}Een bestand met de extensie .TXT vertegenwoordigt een tekstdocument dat platte tekst in de vorm van regels bevat. Alinea's in een tekstdocument worden herkend door regeleinden en worden gebruikt voor een betere indeling van de bestandsinhoud. Een standaardtekstdocument kan worden geopend in elke teksteditor of tekstverwerkingsprogramma op verschillende besturingssystemen. Alle tekst in een dergelijk bestand heeft een voor mensen leesbaar formaat en wordt weergegeven door een reeks tekens.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="EMF" readMoreLink="https://docs.fileformat.com/image/emf/" >}}Verbeterd metabestandsformaat (EMF) slaat grafische afbeeldingen apparaatonafhankelijk op. Metabestanden van EMF bestaan uit records met variabele lengte in chronologische volgorde die de opgeslagen afbeelding kunnen weergeven na parsering op elk uitvoerapparaat. Deze records met variabele lengte kunnen definities zijn van ingesloten objecten, opdrachten voor tekenen en grafische eigenschappen die cruciaal zijn om de afbeelding nauwkeurig weer te geven. Wanneer een apparaat een EMF-metabestand opent met behulp van zijn eigen grafische omgeving, blijven de verhoudingen, afmetingen, kleuren en andere grafische eigenschappen van de originele afbeelding hetzelfde, ongeacht het apparaatplatform dat wordt geopend.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="EMF" readMoreLink="https://docs.fileformat.com/image/emf/" >}}Verbeterd metabestandsformaat (EMF) slaat grafische afbeeldingen apparaatonafhankelijk op. Metabestanden van EMF bestaan uit records met variabele lengte in chronologische volgorde die de opgeslagen afbeelding kunnen weergeven na parsering op elk uitvoerapparaat. Deze records met variabele lengte kunnen definities zijn van ingesloten objecten, commando's voor tekenen en grafische eigenschappen die cruciaal zijn om de afbeelding nauwkeurig weer te geven. Wanneer een apparaat een EMF-metabestand opent met behulp van zijn eigen grafische omgeving, blijven de verhoudingen, afmetingen, kleuren en andere grafische eigenschappen van de originele afbeelding hetzelfde, ongeacht het apparaatplatform dat wordt geopend.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
     {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->
 

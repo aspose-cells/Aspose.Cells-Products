@@ -1,7 +1,7 @@
 ---
 title: Python ODS a HTML - ODS a HTML Convertitore
-description: Aspose Excel. Python Excel. Converti ODS in HTML in modo rapido e semplice con Aspose.Cells. Python ODS in HTML. Python Salva ODS in HTML. Salva ODS come 076112 3481 utilizzando la Libreria Excel Python.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert ODS to HTML in Python Excel Library., Save ODS to HTML using Python Excel Library., Python ODS to HTML saveformat., ODS to HTML Converter., Python Save ODS as HTML]
+description: Aspose Excel. Questa soluzione completa fornisce agli sviluppatori Python un approccio completamente integrato per convertire il formato ODS nel formato HTML, consentendo il salvataggio senza interruzioni dei dati ODS nel formato HTML utilizzando la libreria Aspose.Cells, il tutto tramite codice Python efficiente e personalizzabile.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart ODS files to HTML Converter for Python., Convert ODS to HTML in Python., ODS files to HTML Conversion in Python., Leverage intelligent data processing to automatically parse and save ODS into HTML format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Converti ODS in HTML nella libreria Excel Python" h2="Libreria Excel Python ad alta velocità per convertire ODS in HTML. Si tratta di una soluzione software professionale per importare ed esportare ODS, HTML e molti altri formati utilizzando Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="HTML" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -27,7 +27,7 @@ Segui i semplici passaggi per convertire ODS in HTML. Carica il tuo file ODS, qu
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Codice di esempio per convertire ODS in HTML tramite la libreria Excel Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="ods" outformat="html" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="Codice di esempio per convertire ODS in HTML tramite la libreria Excel Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="ods" outformat="html" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="Come convertire ODS in HTML tramite Python" %}}
 
@@ -84,7 +84,7 @@ Aspose.Cells for Python via Java è indipendente dalla piattaforma API e può es
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/ods-to-bmp/" name="dallo ODS allo BMP" description="Immagine bitmap" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/ods-to-emf/" name="dallo ODS allo EMF" description="Formato metafile avanzato" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/ods-to-gif/" name="dallo ODS allo GIF" description="Formato di interscambio grafico" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/ods-to-html/" name="dallo ODS allo HTML" description="Hyper Text Markup Language" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/ods-to-html/" name="dallo ODS allo HTML" description="Linguaggio di markup ipertestuale" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/ods-to-md/" name="ODS AL MD" description="Linguaggio di ribasso" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/ods-to-mhtml/" name="dallo ODS allo MHTML" description="Formato di archivio delle pagine Web" >}}
 

@@ -1,7 +1,7 @@
 ---
 title: Java XLTM naar JPG - XLTM naar JPG-converter
-description: Aspose Excel. Converteer XLTM snel en eenvoudig naar JPG met Aspose.Cells. Java XLTM naar JPG. Java Sla XLTM op in JPG. Sla XLTM op als JPG met Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Convert XLTM to JPG in Java., Save XLTM to JPG using Java., Java XLTM to JPG saveformat., XLTM to JPG Converter., Java Save XLTM as JPG]
+description: Aspose Excel. Deze complete oplossing biedt ontwikkelaars een volledig geïntegreerde aanpak om XLTM naar JPG-formaat te converteren, waardoor het naadloos opslaan van XLTM-gegevens in JPG-formaat mogelijk is met behulp van de Aspose.Cells-bibliotheek, allemaal via efficiënte en aanpasbare Java-code.
+keywords: [Aspose Excel., Java Aspose.Cells., Smart XLTM files to JPG Converter for Java., Convert XLTM to JPG in Java., XLTM files to JPG Conversion in Java., Leverage intelligent data processing to automatically parse and save XLTM into JPG format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Converteer XLTM naar JPG in Java" h2="Snelle Java-bibliotheek voor het converteren van XLTM naar JPG. Dit is een professionele softwareoplossing voor het importeren en exporteren van XLTM, JPG en vele andere formaten met behulp van Java." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="JPG" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="CSV" >}}
@@ -47,7 +47,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Convert XLTM to JPG in Java., Save
 
 {{% blocks/products/pf/agp/content h2="Sla XLTM op als JPG in Java" %}}
 
-Het volgende voorbeeld laat zien hoe u XLTM naar JPG converteert in Java.
+Het volgende voorbeeld laat zien hoe je XLTM naar JPG kunt converteren in Java.
 {{% blocks/products/pf/agp/text %}}
 
 Volg de eenvoudige stappen om XLTM naar JPG te converteren. Upload uw XLTM-bestand en sla het vervolgens eenvoudig op als JPG-bestand. Voor zowel XLTM lezen als JPG schrijven kunt u volledig gekwalificeerde bestandsnamen gebruiken. De uitvoer-JPG-inhoud en -opmaak zijn identiek aan het originele XLTM-document.
@@ -56,19 +56,19 @@ Volg de eenvoudige stappen om XLTM naar JPG te converteren. Upload uw XLTM-besta
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Voorbeeldcode om XLTM naar JPG te converteren" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xltm" outformat="jpg" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Voorbeeldcode om XLTM naar JPG te converteren" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="xltm" outformat="jpg" IsLandingPage="true" language="java" %}}
 
-{{% blocks/products/pf/agp/content h2="Hoe XLTM naar JPG via Java te converteren" %}}
+{{% blocks/products/pf/agp/content h2="Hoe converteer ik XLTM naar JPG?" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
-Wilt u XLTM-bestanden programmatisch naar JPG converteren? Java-ontwikkelaars kunnen XLTM eenvoudig met slechts een paar regels code naar JPG converteren.
+Moet je bestanden met de extensie XLTM programmatisch naar JPG converteren? Ontwikkelaars van Java kunnen bestanden met de extensie XLTM eenvoudig naar JPG converteren met slechts een paar regels code.
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Installeer 'Aspose.Cells for Java'.
 1.  Voeg een bibliotheekreferentie toe (importeer de bibliotheek) aan uw Java-project.
-1. Laad bestand XLTM met een exemplaar van de klasse Workbook.
+1.  Laad bestand XLTM met een instantie van de klasse Workbook.
 1.  Converteer XLTM naar JPG door de Workbook.save-methode aan te roepen.
 1.  Verkrijg het conversieresultaat van XLTM naar JPG.
 

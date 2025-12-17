@@ -1,7 +1,7 @@
 ---
 title: PHP CSV naar SPREADSHEETML - CSV naar SPREADSHEETML-converter
-description: Aspose Excel. Converteer CSV snel en eenvoudig naar SPREADSHEETML met Aspose.Cells. PHP CSV naar SPREADSHEETML. PHP Sla CSV op in SPREADSHEETML. Sla CSV op als SPREADSHEETML met behulp van PHP.
-keywords: [Aspose Excel., PHP Aspose.Cells., Convert CSV to SPREADSHEETML in PHP., Save CSV to SPREADSHEETML using PHP., PHP CSV to SPREADSHEETML saveformat., CSV to SPREADSHEETML Converter., PHP Save CSV as SPREADSHEETML]
+description: Aspose Excel. Deze complete oplossing biedt PHP-ontwikkelaars een volledig geïntegreerde aanpak om CSV naar SPREADSHEETML-formaat te converteren, waardoor het naadloos opslaan van CSV-gegevens in SPREADSHEETML-formaat mogelijk is met behulp van de Aspose.Cells-bibliotheek, allemaal via efficiënte en aanpasbare PHP-code.
+keywords: [Aspose Excel., PHP Aspose.Cells., Smart CSV files to SPREADSHEETML Converter for PHP., Convert CSV to SPREADSHEETML in PHP., CSV files to SPREADSHEETML Conversion in PHP., Leverage intelligent data processing to automatically parse and save CSV into SPREADSHEETML format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Converteer CSV naar SPREADSHEETML in PHP" h2="Snelle PHP-bibliotheek voor het converteren van CSV naar SPREADSHEETML. Dit is een professionele softwareoplossing voor het importeren en exporteren van CSV, SPREADSHEETML en vele andere formaten met behulp van PHP." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-php-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="SPREADSHEETML" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,13 +12,13 @@ keywords: [Aspose Excel., PHP Aspose.Cells., Convert CSV to SPREADSHEETML in PHP
 
 {{% blocks/products/pf/agp/content h2="Converteer CSV naar SPREADSHEETML met behulp van PHP" %}}
 
- Hoe converteer ik CSV naar SPREADSHEETML? Met de bibliotheek Aspose.Cells for PHP via Java kunt u CSV eenvoudig programmatisch naar SPREADSHEETML converteren met een paar regels code.[Aspose.Cells for PHP via Java](https://products.aspose.com/cells/php-java/) is in staat om platformonafhankelijke applicaties te bouwen met de mogelijkheid om alle Excel-bestanden te genereren, wijzigen, converteren, renderen en afdrukken. PHP Excel API converteert niet alleen tussen spreadsheetformaten, het kan ook Excel-bestanden weergeven als afbeeldingen, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT en meer, waardoor het een perfecte keuze is om documenten uit te wisselen in industriestandaardformaten.
+ Hoe converteer ik CSV naar SPREADSHEETML? Met de bibliotheek Aspose.Cells for PHP via Java kunt u CSV eenvoudig programmatisch naar SPREADSHEETML converteren met slechts een paar regels code.[Aspose.Cells for PHP via Java](https://products.aspose.com/cells/php-java/) PHP Excel API is in staat om platformonafhankelijke applicaties te bouwen die alle Excel-bestanden kunnen genereren, bewerken, converteren, weergeven en afdrukken. Het kan niet alleen converteren tussen spreadsheetformaten, maar ook Excel-bestanden weergeven als afbeeldingen (PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT) en meer, waardoor het een perfecte keuze is voor het uitwisselen van documenten in industriestandaardformaten.
  
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Sla CSV op in SPREADSHEETML in PHP" %}}
+{{% blocks/products/pf/agp/content h2="Sla CSV op in een SPREADSHEETML-bestand in PHP." %}}
 
-Het volgende voorbeeld laat zien hoe u CSV naar SPREADSHEETML in PHP converteert.
+Het volgende voorbeeld laat zien hoe je CSV naar SPREADSHEETML converteert in PHP.
 {{% blocks/products/pf/agp/text %}}
 
 Volg de eenvoudige stappen om CSV naar SPREADSHEETML te converteren. Upload uw CSV-bestand en sla het vervolgens eenvoudig op als SPREADSHEETML-bestand. Voor zowel CSV-lezen als SPREADSHEETML-schrijven kunt u volledig gekwalificeerde bestandsnamen gebruiken. De inhoud en opmaak van de SPREADSHEETML-uitvoer zijn identiek aan het originele CSV-document.
@@ -27,20 +27,20 @@ Volg de eenvoudige stappen om CSV naar SPREADSHEETML te converteren. Upload uw C
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Voorbeeldcode om CSV naar SPREADSHEETML te converteren" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="csv" outformat="xml" IsLandingPage="true" language="phpjava" %}}
+{{% cells-convert title="Voorbeeldcode om CSV naar SPREADSHEETML te converteren" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="csv" outformat="xml" IsLandingPage="true" language="phpjava" %}}
 
-{{% blocks/products/pf/agp/content h2="Hoe CSV naar SPREADSHEETML te converteren via PHP" %}}
+{{% blocks/products/pf/agp/content h2="Hoe converteer je CSV naar SPREADSHEETML via PHP?" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
-Wilt u CSV-bestanden programmatisch naar SPREADSHEETML converteren? PHP-ontwikkelaars kunnen CSV eenvoudig in slechts een paar regels code laden en converteren naar SPREADSHEETML.
+Moet u bestanden met de extensie CSV programmatisch converteren naar SPREADSHEETML? PHP-ontwikkelaars kunnen bestanden met de extensie CSV eenvoudig laden en converteren naar SPREADSHEETML met slechts een paar regels code.
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Installeer 'Aspose.Cells for PHP via Java'.
-1.  Voeg een bibliotheekreferentie toe (importeer de bibliotheek) aan uw PHP-project.
+1.  Voeg een bibliotheekreferentie (importeer de bibliotheek) toe aan je PHP-project.
 1.  Laad het bestand CSV met een exemplaar van Workbook.
-1.  Converteer CSV naar SPREADSHEETML door de opslagmethode van Workbook aan te roepen.
+1.  Converteer CSV naar SPREADSHEETML door de save-methode van Workbook aan te roepen.
 1.  Verkrijg het conversieresultaat van CSV naar SPREADSHEETML.
 
 {{% /blocks/products/pf/agp/content %}}
@@ -63,7 +63,7 @@ Er zijn drie opties om "Aspose.Cells for PHP via Java" op uw systeem te installe
 
 {{% blocks/products/pf/agp/text %}}
 
-Aspose.Cells for PHP via Java is platformonafhankelijk API en kan worden gebruikt op elk platform (Windows, Linux, MacOS etc.) waarop PHP 7 of hogere versies zijn geïnstalleerd. De machine moet beschikken over versies van Oracle JDK 7 of hoger voordat u de installatie kunt instellen.
+ Aspose.Cells for PHP via Java is platformonafhankelijk en kan worden gebruikt op elk platform (Windows, Linux, MacOS, enz.) waarop PHP 7 of een latere versie is geïnstalleerd. De machine moet Oracle JDK 7 of een latere versie hebben voordat de installatie kan worden uitgevoerd.
  
 {{% /blocks/products/pf/agp/text %}}
 

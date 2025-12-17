@@ -1,7 +1,7 @@
 ---
 title: Java HTM naar EMF - HTM naar EMF Omvormer
-description: Aspose Excel. Converteer HTM snel en eenvoudig naar EMF met Aspose.Cells. Java HTM naar EMF. Java Bewaar HTM naar EMF. Sla HTM op als EMF met Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Convert HTM to EMF in Java., Save HTM to EMF using Java., Java HTM to EMF saveformat., HTM to EMF Converter., Java Save HTM as EMF]
+description: Aspose Excel. Deze complete oplossing biedt ontwikkelaars een volledig geïntegreerde aanpak voor het converteren van HTML naar het formaat EMF, waardoor HTML-gegevens naadloos kunnen worden opgeslagen in het formaat EMF met behulp van de bibliotheek Aspose.Cells, en dat alles via efficiënte en aanpasbare code Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Smart HTM files to EMF Converter for Java., Convert HTM to EMF in Java., HTM files to EMF Conversion in Java., Leverage intelligent data processing to automatically parse and save HTM into EMF format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Converteer HTM naar EMF in Java" h2="Snelle Java-bibliotheek voor het converteren van HTM naar EMF. Dit is een professionele softwareoplossing voor het importeren en exporteren van HTM, EMF en vele andere formaten met behulp van Java." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="EMF" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="CSV" >}}
@@ -45,9 +45,9 @@ keywords: [Aspose Excel., Java Aspose.Cells., Convert HTM to EMF in Java., Save 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Bewaar HTM op EMF in Java" %}}
+{{% blocks/products/pf/agp/content h2="Sla HTM op in EMF in Java" %}}
 
-Het volgende voorbeeld laat zien hoe u HTM converteert naar EMF in Java.
+Het volgende voorbeeld laat zien hoe je HTM naar EMF converteert in Java.
 {{% blocks/products/pf/agp/text %}}
 
 Volg de eenvoudige stappen om HTM naar EMF te converteren. Upload uw HTM-bestand en sla het vervolgens eenvoudig op als EMF-bestand. Voor zowel HTM-lezen als EMF-schrijven kunt u volledig gekwalificeerde bestandsnamen gebruiken. De inhoud en opmaak van de uitvoer EMF zullen identiek zijn aan het originele HTM-document.
@@ -56,19 +56,19 @@ Volg de eenvoudige stappen om HTM naar EMF te converteren. Upload uw HTM-bestand
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Voorbeeldcode om HTM naar EMF te converteren" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="htm" outformat="emf" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Voorbeeldcode om HTML naar EMF te converteren" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="htm" outformat="emf" IsLandingPage="true" language="java" %}}
 
-{{% blocks/products/pf/agp/content h2="HTM converteren naar EMF via Java" %}}
+{{% blocks/products/pf/agp/content h2="Hoe converteer ik HTML naar EMF via Java?" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
-Wilt u HTM-bestanden programmatisch naar EMF converteren? Java-ontwikkelaars kunnen HTM eenvoudig met slechts een paar regels code naar EMF converteren.
+Moet u HTML-bestanden programmatisch converteren naar EMF? Ontwikkelaars van Java kunnen HTML-bestanden eenvoudig in slechts enkele regels code converteren naar EMF.
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Installeer 'Aspose.Cells for Java'.
 1.  Voeg een bibliotheekreferentie toe (importeer de bibliotheek) aan uw Java-project.
-1.  Laad het HTM-bestand met een exemplaar van de Workbook-klasse.
+1.  Laad een HTML-bestand met een instantie van de klasse Workbook.
 1.  Converteer HTM naar EMF door de Workbook.save-methode aan te roepen.
 1.  Ontvang het conversieresultaat van HTM naar EMF.
 
@@ -98,7 +98,7 @@ Wilt u HTM-bestanden programmatisch naar EMF converteren? Java-ontwikkelaars kun
 <!-- aboutfile Starts -->
     {{< blocks/products/pf/agp/about-file-section >}}
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="HTM" readMoreLink="https://docs.fileformat.com/web/htm/" >}}Bestanden met de extensie .htm vertegenwoordigen Hypertext Markup Language voor het maken van webpagina's voor weergave in webbrowsers zoals Google Chrome, Internet Explorer, Firefox en een aantal andere. Het definieert de markeringen voor het maken van statische pagina's die op het World Wide Web (WWW) moeten worden gepubliceerd voor toegang door anderen. Deze markeringen vertellen de browsers hoe ze de inhoud van een webpagina moeten weergeven. Dergelijke pagina's kunnen platte tekst, afbeeldingen, hyperlinks naar andere pagina's, video's en andere media-informatie bevatten. Wanneer een webpagina wordt gepubliceerd, kunt u de opmaakcode erachter bekijken door de paginabron te bekijken. Moderne browsers maken het mogelijk om elke sectie van een webpagina te inspecteren waar elke onderverdeling of opmaakelement in de HTM-bron wordt uitgewerkt.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="EMF" readMoreLink="https://docs.fileformat.com/image/emf/" >}}Verbeterd metabestandsformaat (EMF) slaat grafische afbeeldingen apparaatonafhankelijk op. Metabestanden van EMF bestaan uit records met variabele lengte in chronologische volgorde die de opgeslagen afbeelding kunnen weergeven na parsering op elk uitvoerapparaat. Deze records met variabele lengte kunnen definities zijn van ingesloten objecten, opdrachten voor tekenen en grafische eigenschappen die cruciaal zijn om de afbeelding nauwkeurig weer te geven. Wanneer een apparaat een EMF-metabestand opent met behulp van zijn eigen grafische omgeving, blijven de verhoudingen, afmetingen, kleuren en andere grafische eigenschappen van de originele afbeelding hetzelfde, ongeacht het apparaatplatform dat wordt geopend.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="EMF" readMoreLink="https://docs.fileformat.com/image/emf/" >}}Verbeterd metabestandsformaat (EMF) slaat grafische afbeeldingen apparaatonafhankelijk op. Metabestanden van EMF bestaan uit records met variabele lengte in chronologische volgorde die de opgeslagen afbeelding kunnen weergeven na parsering op elk uitvoerapparaat. Deze records met variabele lengte kunnen definities zijn van ingesloten objecten, commando's voor tekenen en grafische eigenschappen die cruciaal zijn om de afbeelding nauwkeurig weer te geven. Wanneer een apparaat een EMF-metabestand opent met behulp van zijn eigen grafische omgeving, blijven de verhoudingen, afmetingen, kleuren en andere grafische eigenschappen van de originele afbeelding hetzelfde, ongeacht het apparaatplatform dat wordt geopend.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
     {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->
 

@@ -1,7 +1,7 @@
 ---
 title: Python Convertitore da EXCEL a PRN - Convertitore da EXCEL a PRN
-description: Aspose Excel. Python Excel. Converti EXCEL in PRN in modo rapido e semplice con Aspose.Cells. Python EXCEL in PRN. Python Salva EXCEL su PRN. Salva EXCEL come PRN utilizzando la libreria Excel Python.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert EXCEL to PRN in Python Excel Library., Save EXCEL to PRN using Python Excel Library., Python EXCEL to PRN saveformat., EXCEL to PRN Converter., Python Save EXCEL as PRN]
+description: Aspose Excel. Questa soluzione completa fornisce agli sviluppatori Python un approccio completamente integrato per convertire EXCEL in formato PRN, consentendo il salvataggio senza interruzioni dei dati EXCEL in formato PRN utilizzando la libreria Aspose.Cells, il tutto tramite codice Python efficiente e personalizzabile.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart EXCEL files to PRN Converter for Python., Convert EXCEL to PRN in Python., EXCEL files to PRN Conversion in Python., Leverage intelligent data processing to automatically parse and save EXCEL into PRN format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Converti EXCEL in PRN nella libreria Excel Python" h2="Libreria Excel Python ad alta velocità per la conversione di EXCEL in PRN. Questa è una soluzione software professionale per importare ed esportare EXCEL, PRN e molti altri formati utilizzando Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="PRN" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -27,7 +27,7 @@ Segui i semplici passaggi per convertire EXCEL in PRN. Carica il tuo file EXCEL,
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Codice di esempio per convertire EXCEL in PRN tramite la libreria Excel Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsx" outformat="prn" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="Codice di esempio per convertire EXCEL in PRN tramite la libreria Excel Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="xlsx" outformat="prn" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="Come convertire EXCEL in PRN tramite Python" %}}
 
@@ -84,7 +84,7 @@ Aspose.Cells for Python via Java è indipendente dalla piattaforma API e può es
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/excel-to-bmp/" name="ECCELLERE AL BMP" description="Immagine bitmap" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/excel-to-emf/" name="ECCELLERE AL EMF" description="Formato metafile avanzato" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/excel-to-gif/" name="ECCELLERE AL GIF" description="Formato di interscambio grafico" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/excel-to-html/" name="ECCELLERE AL HTML" description="Hyper Text Markup Language" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/excel-to-html/" name="ECCELLERE AL HTML" description="Linguaggio di markup ipertestuale" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/excel-to-md/" name="ECCELLERE A MD" description="Linguaggio di ribasso" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/excel-to-mhtml/" name="ECCELLERE AL MHTML" description="Formato di archivio delle pagine Web" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/excel-to-ods/" name="ECCELLERE AL ODS" description="File di foglio di calcolo OpenDocument" >}}

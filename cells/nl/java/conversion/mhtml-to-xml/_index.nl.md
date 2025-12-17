@@ -1,7 +1,7 @@
 ---
 title: Java MHTML naar XML - MHTML naar XML-converter
-description: Aspose Excel. Converteer MHTML snel en eenvoudig naar XML met Aspose.Cells. Java MHTML naar XML. Java Sla MHTML op in XML. Sla MHTML op als XML met behulp van Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Convert MHTML to XML in Java., Save MHTML to XML using Java., Java MHTML to XML saveformat., MHTML to XML Converter., Java Save MHTML as XML]
+description: Aspose Excel. Deze uitgebreide oplossing biedt Java ontwikkelaars een volledig geïntegreerde aanpak om MHTML naar XML-formaat te converteren, waardoor naadloos opslaan van MHTML gegevens in XML-formaat mogelijk is met behulp van de Aspose.Cells bibliotheek, allemaal via efficiënte en aanpasbare Java code.
+keywords: [Aspose Excel., Java Aspose.Cells., Smart MHTML files to XML Converter for Java., Convert MHTML to XML in Java., MHTML files to XML Conversion in Java., Leverage intelligent data processing to automatically parse and save MHTML into XML format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Converteer MHTML naar XML in Java" h2="Snelle Java-bibliotheek voor het converteren van MHTML naar XML. Dit is een professionele softwareoplossing voor het importeren en exporteren van MHTML, XML en vele andere formaten met behulp van Java." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="XML" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Convert MHTML to XML in Java., Sav
 
 {{% blocks/products/pf/agp/content h2="Converteer MHTML naar XML met behulp van Java" %}}
 
- Hoe converteer ik MHTML naar XML? Met de bibliotheek Aspose.Cells for Java kunt u MHTML eenvoudig programmatisch naar XML converteren met een paar regels code.[Aspose.Cells for Java](https://products.aspose.com/cells/java)is in staat om platformonafhankelijke applicaties te bouwen met de mogelijkheid om alle Excel-bestanden te genereren, wijzigen, converteren, renderen en afdrukken. Java Excel API converteert niet alleen tussen spreadsheetformaten, het kan ook Excel-bestanden weergeven als afbeeldingen, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT en meer, waardoor het een perfecte keuze is om documenten uit te wisselen in industriestandaardformaten. U kunt de nieuwste versie rechtstreeks downloaden van[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) en installeer het binnen uw op Maven gebaseerde project door de volgende configuraties toe te voegen aan pom.xml.
+Hoe converteer ik MHTML naar XML? Met de bibliotheek Aspose.Cells for Java kunt u MHTML eenvoudig programmatisch naar XML converteren met een paar regels code.[Aspose.Cells for Java](https://products.aspose.com/cells/java)is in staat om platformonafhankelijke applicaties te bouwen met de mogelijkheid om alle Excel-bestanden te genereren, wijzigen, converteren, renderen en afdrukken. Java Excel API converteert niet alleen tussen spreadsheetformaten, het kan ook Excel-bestanden weergeven als afbeeldingen, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT en meer, waardoor het een perfecte keuze is om documenten uit te wisselen in industriestandaardformaten. U kunt de nieuwste versie rechtstreeks downloaden van[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) en installeer het binnen uw op Maven gebaseerde project door de volgende configuraties toe te voegen aan pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Opslagplaats" offSpacer="true" %}}
 
@@ -45,9 +45,9 @@ keywords: [Aspose Excel., Java Aspose.Cells., Convert MHTML to XML in Java., Sav
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Sla MHTML op in XML in Java" %}}
+{{% blocks/products/pf/agp/content h2="Sla MHTML op als XML in Java" %}}
 
-Het volgende voorbeeld laat zien hoe u MHTML naar XML converteert in Java.
+Het volgende voorbeeld laat zien hoe u MHTML naar XML kunt converteren in Java.
 {{% blocks/products/pf/agp/text %}}
 
 Volg de eenvoudige stappen om MHTML naar XML te converteren. Upload uw MHTML-bestand en sla het vervolgens eenvoudig op als XML-bestand. Voor zowel MHTML-lezen als XML-schrijven kunt u volledig gekwalificeerde bestandsnamen gebruiken. De uitvoer-XML-inhoud en opmaak zullen identiek zijn aan het originele MHTML-document.
@@ -56,19 +56,19 @@ Volg de eenvoudige stappen om MHTML naar XML te converteren. Upload uw MHTML-bes
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Voorbeeldcode om MHTML naar XML te converteren" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="mhtml" outformat="xml" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Voorbeeldcode om MHTML naar XML te converteren" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="mhtml" outformat="xml" IsLandingPage="true" language="java" %}}
 
-{{% blocks/products/pf/agp/content h2="Hoe MHTML naar XML via Java te converteren" %}}
+{{% blocks/products/pf/agp/content h2="Hoe converteer ik MHTML naar XML via Java?" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
-Wilt u MHTML-bestanden programmatisch naar XML converteren? Java-ontwikkelaars kunnen MHTML eenvoudig in slechts een paar regels code naar XML converteren.
+Moet u MHTML-bestanden programmatisch naar XML converteren? Ontwikkelaars van Java kunnen MHTML-bestanden eenvoudig in slechts een paar regels code naar XML converteren.
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Installeer 'Aspose.Cells for Java'.
 1.  Voeg een bibliotheekreferentie toe (importeer de bibliotheek) aan uw Java-project.
-1. Laad bestand MHTML met een exemplaar van de klasse Workbook.
+1.  Laad bestand MHTML met een instantie van de klasse Workbook.
 1.  Converteer MHTML naar XML door de Workbook.save-methode aan te roepen.
 1.  Verkrijg het conversieresultaat van MHTML naar XML.
 

@@ -1,7 +1,7 @@
 ---
 title: Python XLTM tot XLSX - XLTM tot XLSX Converter
-description: Aspose Excel. Python Excel. Converteer XLTM snel en eenvoudig naar XLSX met Aspose.Cells. Python XLTM naar XLSX. Python Bewaar XLTM naar XLSX. Bewaar XLTM als 076112 3481 met behulp van de Excel-bibliotheek Python.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert XLTM to XLSX in Python Excel Library., Save XLTM to XLSX using Python Excel Library., Python XLTM to XLSX saveformat., XLTM to XLSX Converter., Python Save XLTM as XLSX]
+description: Aspose Excel. Deze uitgebreide oplossing biedt ontwikkelaars een volledig geïntegreerde aanpak voor het converteren van gegevens van het formaat XLTM naar XLSX, waardoor naadloos opslaan van gegevens in het formaat XLTM mogelijk is met behulp van de bibliotheek Aspose.Cells, allemaal via efficiënte en aanpasbare code Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart XLTM files to XLSX Converter for Python., Convert XLTM to XLSX in Python., XLTM files to XLSX Conversion in Python., Leverage intelligent data processing to automatically parse and save XLTM into XLSX format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Converteer XLTM naar XLSX in de Excel-bibliotheek Python" h2="Snelle Python Excel-bibliotheek voor het converteren van XLTM naar XLSX. Dit is een professionele softwareoplossing voor het importeren en exporteren van XLTM, XLSX en vele andere formaten met behulp van Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSX" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -27,7 +27,7 @@ Volg de eenvoudige stappen om XLTM naar XLSX te converteren. Upload uw XLTM-best
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Voorbeeldcode om XLTM naar XLSX te converteren via de Excel-bibliotheek Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xltm" outformat="xlsx" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="Voorbeeldcode om XLTM naar XLSX te converteren via de Excel-bibliotheek Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="xltm" outformat="xlsx" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="Hoe u XLTM naar XLSX kunt converteren via Python" %}}
 

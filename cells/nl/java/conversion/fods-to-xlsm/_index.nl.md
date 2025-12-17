@@ -1,7 +1,7 @@
 ---
 title: Java FODS tot XLSM - FODS tot XLSM Converter
-description: Aspose Excel. Converteer FODS snel en eenvoudig naar XLSM met Aspose.Cells. Java FODS naar XLSM. Java Bewaar FODS in XLSM. Bewaar FODS als 07611134 81 via Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Convert FODS to XLSM in Java., Save FODS to XLSM using Java., Java FODS to XLSM saveformat., FODS to XLSM Converter., Java Save FODS as XLSM]
+description: Aspose Excel. Deze uitgebreide oplossing biedt ontwikkelaars een volledig geïntegreerde aanpak voor het converteren van gegevens van het formaat FODS naar XLSM, waardoor naadloos opslaan van gegevens in het formaat FODS mogelijk is met behulp van de bibliotheek Aspose.Cells, allemaal via efficiënte en aanpasbare code Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Smart FODS files to XLSM Converter for Java., Convert FODS to XLSM in Java., FODS files to XLSM Conversion in Java., Leverage intelligent data processing to automatically parse and save FODS into XLSM format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Converteer FODS naar XLSM in Java" h2="Snelle Java-bibliotheek voor het converteren van FODS naar XLSM. Dit is een professionele softwareoplossing voor het importeren en exporteren van FODS, XLSM en vele andere formaten met behulp van Java." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSM" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Convert FODS to XLSM in Java., Sav
 
 {{% blocks/products/pf/agp/content h2="Converteer FODS naar XLSM met behulp van Java" %}}
 
-Hoe converteer ik FODS naar XLSM? Met de bibliotheek Aspose.Cells for Java kunt u FODS eenvoudig programmatisch naar XLSM converteren met een paar regels code.[Aspose.Cells for Java](https://products.aspose.com/cells/java)is in staat om platformonafhankelijke applicaties te bouwen met de mogelijkheid om alle Excel-bestanden te genereren, wijzigen, converteren, renderen en afdrukken. Java Excel API converteert niet alleen tussen spreadsheetformaten, het kan ook Excel-bestanden weergeven als afbeeldingen, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT en meer, waardoor het een perfecte keuze is om documenten uit te wisselen in industriestandaardformaten. U kunt de nieuwste versie rechtstreeks downloaden van[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) en installeer het binnen uw op Maven gebaseerde project door de volgende configuraties toe te voegen aan pom.xml.
+ Hoe converteer ik FODS naar XLSM? Met de bibliotheek Aspose.Cells for Java kunt u FODS eenvoudig programmatisch naar XLSM converteren met een paar regels code.[Aspose.Cells for Java](https://products.aspose.com/cells/java)is in staat om platformonafhankelijke applicaties te bouwen met de mogelijkheid om alle Excel-bestanden te genereren, wijzigen, converteren, renderen en afdrukken. Java Excel API converteert niet alleen tussen spreadsheetformaten, het kan ook Excel-bestanden weergeven als afbeeldingen, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT en meer, waardoor het een perfecte keuze is om documenten uit te wisselen in industriestandaardformaten. U kunt de nieuwste versie rechtstreeks downloaden van[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) en installeer het binnen uw op Maven gebaseerde project door de volgende configuraties toe te voegen aan pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Opslagplaats" offSpacer="true" %}}
 
@@ -45,9 +45,9 @@ Hoe converteer ik FODS naar XLSM? Met de bibliotheek Aspose.Cells for Java kunt 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Bewaar FODS t/m XLSM in Java" %}}
+{{% blocks/products/pf/agp/content h2="Sla FODS op in XLSM in Java" %}}
 
-Het volgende voorbeeld laat zien hoe u FODS converteert naar XLSM in Java.
+Het volgende voorbeeld laat zien hoe je FODS omzet naar XLSM in Java.
 {{% blocks/products/pf/agp/text %}}
 
 Volg de eenvoudige stappen om FODS naar XLSM te converteren. Upload uw FODS-bestand en sla het vervolgens eenvoudig op als XLSM-bestand. Voor zowel FODS lezen als XLSM schrijven kunt u volledig gekwalificeerde bestandsnamen gebruiken. De inhoud en opmaak van de uitvoer XLSM zullen identiek zijn aan het originele document FODS.
@@ -56,19 +56,19 @@ Volg de eenvoudige stappen om FODS naar XLSM te converteren. Upload uw FODS-best
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Voorbeeldcode om FODS naar XLSM te converteren" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="fods" outformat="xlsm" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Voorbeeldcode om FODS naar XLSM te converteren" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="fods" outformat="xlsm" IsLandingPage="true" language="java" %}}
 
-{{% blocks/products/pf/agp/content h2="Hoe FODS naar XLSM via Java te converteren" %}}
+{{% blocks/products/pf/agp/content h2="Hoe zet ik FODS om naar XLSM of via Java?" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
-Wilt u FODS-bestanden programmatisch naar XLSM converteren? Java-ontwikkelaars kunnen FODS eenvoudig in slechts een paar regels code naar XLSM converteren.
+Moet je bestanden met de extensie FODS programmatisch converteren naar XLSM? Ontwikkelaars van Java kunnen bestanden met de extensie FODS eenvoudig converteren naar XLSM met slechts een paar regels code.
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Installeer 'Aspose.Cells for Java'.
 1.  Voeg een bibliotheekreferentie toe (importeer de bibliotheek) aan uw Java-project.
-1. Laad bestand FODS met een exemplaar van de klasse Workbook.
+1.  Laad bestand FODS met een instantie van de klasse Workbook.
 1.  Converteer FODS naar XLSM door de Workbook.save-methode aan te roepen.
 1.  Verkrijg het conversieresultaat van FODS naar XLSM.
 

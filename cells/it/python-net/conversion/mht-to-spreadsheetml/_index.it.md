@@ -1,7 +1,7 @@
 ---
 title: Python Convertitore da MHT a FOGLIO DI CALCOLO - Convertitore da MHT a FOGLIO DI CALCOLO
-description: Aspose Excel. Python Excel. Converti MHT in SPREADSHEETML in modo rapido e semplice con Aspose.Cells. Python MHT in SPREADSHEETML. Python Salva MHT in SPREADSHEETML. Salva MHT come SPREADSHEETML utilizzando la libreria Excel Python.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert MHT to SPREADSHEETML in Python Excel Library., Save MHT to SPREADSHEETML using Python Excel Library., Python MHT to SPREADSHEETML saveformat., MHT to SPREADSHEETML Converter., Python Save MHT as SPREADSHEETML]
+description: Aspose Excel. Questa soluzione completa fornisce agli sviluppatori Python un approccio completamente integrato per convertire MHT in formato SPREADSHEETML, consentendo il salvataggio senza interruzioni dei dati MHT in formato SPREADSHEETML utilizzando la libreria Aspose.Cells, il tutto tramite codice Python efficiente e personalizzabile.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart MHT files to SPREADSHEETML Converter for Python., Convert MHT to SPREADSHEETML in Python., MHT files to SPREADSHEETML Conversion in Python., Leverage intelligent data processing to automatically parse and save MHT into SPREADSHEETML format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Converti MHT in SPREADSHEETML nella libreria Excel Python" h2="Libreria Excel Python ad alta velocità per convertire MHT in SPREADSHEETML. Utilizza la nostra conversione Excel API per sviluppare software di alto livello indipendente dalla piattaforma in Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="SPREADSHEETML" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -28,7 +28,7 @@ Segui i semplici passaggi per convertire MHT in SPREADSHEETML. Carica il tuo fil
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Codice di esempio per convertire MHT in SPREADSHEETML tramite la libreria Excel Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="mht" outformat="xml" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Codice di esempio per convertire MHT in SPREADSHEETML tramite la libreria Excel Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="mht" outformat="xml" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="Come convertire MHT in SPREADSHEETML" %}}
 
@@ -82,7 +82,7 @@ Aspose.Cells for Python tramite NET è indipendente dalla piattaforma API e può
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/mht-to-bmp/" name="MHT AL BMP" description="Immagine bitmap" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/mht-to-emf/" name="MHT AL EMF" description="Formato metafile avanzato" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/mht-to-gif/" name="MHT AL GIF" description="Formato di interscambio grafico" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/mht-to-html/" name="MHT AL HTML" description="Hyper Text Markup Language" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/mht-to-html/" name="MHT AL HTML" description="Linguaggio di markup ipertestuale" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/mht-to-md/" name="MHT A MD" description="Linguaggio di ribasso" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/mht-to-mhtml/" name="MHT AL MHTML" description="Formato di archivio delle pagine Web" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/mht-to-ods/" name="MHT AL ODS" description="File di foglio di calcolo OpenDocument" >}}

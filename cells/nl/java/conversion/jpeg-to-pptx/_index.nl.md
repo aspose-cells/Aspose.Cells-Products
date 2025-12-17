@@ -1,7 +1,7 @@
 ---
 title: Java JPEG tot PPTX - JPEG tot PPTX Converter
-description: Aspose Excel. Converteer JPEG snel en eenvoudig naar PPTX met Aspose.Cells. Java JPEG naar PPTX. Java Bewaar JPEG in PPTX. Bewaar JPEG als 07611134 81 via Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Convert JPEG to PPTX in Java., Save JPEG to PPTX using Java., Java JPEG to PPTX saveformat., JPEG to PPTX Converter., Java Save JPEG as PPTX]
+description: Aspose Excel. Deze uitgebreide oplossing biedt ontwikkelaars een volledig geïntegreerde aanpak voor het converteren van gegevens van het formaat JPEG naar PPTX, waardoor naadloos opslaan van gegevens in het formaat JPEG mogelijk is met behulp van de bibliotheek Aspose.Cells, allemaal via efficiënte en aanpasbare code Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Smart JPEG files to PPTX Converter for Java., Convert JPEG to PPTX in Java., JPEG files to PPTX Conversion in Java., Leverage intelligent data processing to automatically parse and save JPEG into PPTX format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Converteer JPEG naar PPTX in Java" h2="Snelle Java-bibliotheek voor het converteren van JPEG naar PPTX. Dit is een professionele softwareoplossing voor het importeren en exporteren van JPEG, PPTX en vele andere formaten met behulp van Java." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="PPTX" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Convert JPEG to PPTX in Java., Sav
 
 {{% blocks/products/pf/agp/content h2="Converteer JPEG naar PPTX met behulp van Java" %}}
 
-Hoe converteer ik JPEG naar PPTX? Met de bibliotheek Aspose.Cells for Java kunt u JPEG eenvoudig programmatisch naar PPTX converteren met een paar regels code.[Aspose.Cells for Java](https://products.aspose.com/cells/java)is in staat om platformonafhankelijke applicaties te bouwen met de mogelijkheid om alle Excel-bestanden te genereren, wijzigen, converteren, renderen en afdrukken. Java Excel API converteert niet alleen tussen spreadsheetformaten, het kan ook Excel-bestanden weergeven als afbeeldingen, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT en meer, waardoor het een perfecte keuze is om documenten uit te wisselen in industriestandaardformaten. U kunt de nieuwste versie rechtstreeks downloaden van[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) en installeer het binnen uw op Maven gebaseerde project door de volgende configuraties toe te voegen aan pom.xml.
+ Hoe converteer ik JPEG naar PPTX? Met de bibliotheek Aspose.Cells for Java kunt u JPEG eenvoudig programmatisch naar PPTX converteren met een paar regels code.[Aspose.Cells for Java](https://products.aspose.com/cells/java)is in staat om platformonafhankelijke applicaties te bouwen met de mogelijkheid om alle Excel-bestanden te genereren, wijzigen, converteren, renderen en afdrukken. Java Excel API converteert niet alleen tussen spreadsheetformaten, het kan ook Excel-bestanden weergeven als afbeeldingen, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT en meer, waardoor het een perfecte keuze is om documenten uit te wisselen in industriestandaardformaten. U kunt de nieuwste versie rechtstreeks downloaden van[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) en installeer het binnen uw op Maven gebaseerde project door de volgende configuraties toe te voegen aan pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Opslagplaats" offSpacer="true" %}}
 
@@ -45,9 +45,9 @@ Hoe converteer ik JPEG naar PPTX? Met de bibliotheek Aspose.Cells for Java kunt 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Bewaar JPEG t/m PPTX in Java" %}}
+{{% blocks/products/pf/agp/content h2="Sla JPEG op in PPTX in Java" %}}
 
-Het volgende voorbeeld laat zien hoe u JPEG converteert naar PPTX in Java.
+Het volgende voorbeeld laat zien hoe je JPEG omzet naar PPTX in Java.
 {{% blocks/products/pf/agp/text %}}
 
 Volg de eenvoudige stappen om JPEG naar PPTX te converteren. Upload uw JPEG-bestand en sla het vervolgens eenvoudig op als PPTX-bestand. Voor zowel JPEG lezen als PPTX schrijven kunt u volledig gekwalificeerde bestandsnamen gebruiken. De inhoud en opmaak van de uitvoer PPTX zullen identiek zijn aan het originele document JPEG.
@@ -56,19 +56,19 @@ Volg de eenvoudige stappen om JPEG naar PPTX te converteren. Upload uw JPEG-best
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Voorbeeldcode om JPEG naar PPTX te converteren" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="jpg" outformat="pptx" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Voorbeeldcode om JPEG naar PPTX te converteren" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="jpg" outformat="pptx" IsLandingPage="true" language="java" %}}
 
-{{% blocks/products/pf/agp/content h2="Hoe JPEG naar PPTX via Java te converteren" %}}
+{{% blocks/products/pf/agp/content h2="Hoe zet ik JPEG om naar PPTX of via Java?" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
-Wilt u JPEG-bestanden programmatisch naar PPTX converteren? Java-ontwikkelaars kunnen JPEG eenvoudig in slechts een paar regels code naar PPTX converteren.
+Moet je bestanden met de extensie JPEG programmatisch converteren naar PPTX? Ontwikkelaars van Java kunnen bestanden met de extensie JPEG eenvoudig converteren naar PPTX met slechts een paar regels code.
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Installeer 'Aspose.Cells for Java'.
 1.  Voeg een bibliotheekreferentie toe (importeer de bibliotheek) aan uw Java-project.
-1. Laad bestand JPEG met een exemplaar van de klasse Workbook.
+1.  Laad bestand JPEG met een instantie van de klasse Workbook.
 1.  Converteer JPEG naar PPTX door de Workbook.save-methode aan te roepen.
 1.  Verkrijg het conversieresultaat van JPEG naar PPTX.
 

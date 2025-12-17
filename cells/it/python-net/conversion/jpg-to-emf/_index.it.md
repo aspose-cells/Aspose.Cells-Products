@@ -1,7 +1,7 @@
 ---
 title: Convertitore da Python JPG a EMF - Convertitore da JPG a EMF
-description: Aspose Excel. Python Excel. Converti JPG in EMF in modo rapido e semplice con Aspose.Cells. Python JPG in EMF. Python Salva JPG in EMF. Salva JPG come EMF utilizzando la libreria Excel Python.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert JPG to EMF in Python Excel Library., Save JPG to EMF using Python Excel Library., Python JPG to EMF saveformat., JPG to EMF Converter., Python Save JPG as EMF]
+description: Aspose Excel. Questa soluzione completa fornisce agli sviluppatori Python un approccio completamente integrato per convertire JPG nel formato EMF, consentendo il salvataggio senza interruzioni dei dati JPG nel formato EMF utilizzando la libreria Aspose.Cells, il tutto tramite codice Python efficiente e personalizzabile.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart JPG files to EMF Converter for Python., Convert JPG to EMF in Python., JPG files to EMF Conversion in Python., Leverage intelligent data processing to automatically parse and save JPG into EMF format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Converti JPG in EMF nella libreria Excel Python" h2="Libreria Excel Python ad alta velocità per convertire JPG in EMF. Utilizza la nostra conversione Excel API per sviluppare software di alto livello indipendente dalla piattaforma in Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="EMF" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -28,7 +28,7 @@ Segui i semplici passaggi per convertire JPG in EMF. Carica il tuo file JPG, qui
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Codice di esempio per convertire JPG in EMF tramite la libreria Excel Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="jpg" outformat="emf" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Codice di esempio per convertire JPG in EMF tramite la libreria Excel Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="jpg" outformat="emf" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="Come convertire JPG in EMF" %}}
 
@@ -82,7 +82,7 @@ Aspose.Cells for Python tramite NET è indipendente dalla piattaforma API e può
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/jpg-to-bmp/" name="JPG AL BMP" description="Immagine bitmap" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/jpg-to-emf/" name="JPG AL EMF" description="Formato metafile avanzato" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/jpg-to-gif/" name="JPG AL GIF" description="Formato di interscambio grafico" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/jpg-to-html/" name="JPG AL HTML" description="Hyper Text Markup Language" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/jpg-to-html/" name="JPG AL HTML" description="Linguaggio di markup ipertestuale" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/jpg-to-md/" name="JPG A MD" description="Linguaggio di ribasso" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/jpg-to-mhtml/" name="JPG AL MHTML" description="Formato di archivio delle pagine Web" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/jpg-to-ods/" name="JPG AL ODS" description="File di foglio di calcolo OpenDocument" >}}

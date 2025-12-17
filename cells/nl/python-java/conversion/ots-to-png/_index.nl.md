@@ -1,7 +1,7 @@
 ---
 title: Python OTS naar PNG - OTS naar PNG Converter
-description: Aspose Excel. Python Excel. Converteer OTS snel en eenvoudig naar PNG met Aspose.Cells. Python OTS naar PNG. Python Bewaar OTS naar PNG. Sla OTS op als PNG met behulp van de Excel-bibliotheek Python.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert OTS to PNG in Python Excel Library., Save OTS to PNG using Python Excel Library., Python OTS to PNG saveformat., OTS to PNG Converter., Python Save OTS as PNG]
+description: Aspose Excel. Deze complete oplossing biedt ontwikkelaars een volledig geïntegreerde aanpak voor het converteren van OTS-gegevens naar het PNG-formaat. Hierdoor kunnen OTS-gegevens naadloos worden opgeslagen in het PNG-formaat met behulp van de Aspose.Cells-bibliotheek, allemaal via efficiënte en aanpasbare Python-code.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart OTS files to PNG Converter for Python., Convert OTS to PNG in Python., OTS files to PNG Conversion in Python., Leverage intelligent data processing to automatically parse and save OTS into PNG format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Converteer OTS naar PNG in de Excel-bibliotheek Python" h2="Snelle Python Excel-bibliotheek voor het converteren van OTS naar PNG. Dit is een professionele softwareoplossing voor het importeren en exporteren van OTS, PNG en vele andere formaten met behulp van Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="PNG" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -27,7 +27,7 @@ Volg de eenvoudige stappen om OTS naar PNG te converteren. Upload uw OTS-bestand
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Voorbeeldcode om OTS naar PNG te converteren via de Excel-bibliotheek Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="ots" outformat="png" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="Voorbeeldcode om OTS naar PNG te converteren via de Excel-bibliotheek Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="ots" outformat="png" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="OTS converteren naar PNG via Python" %}}
 

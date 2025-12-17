@@ -1,7 +1,7 @@
 ---
 title: PHP JPG naar DOCX - JPG naar DOCX Converter
-description: Aspose Excel. Converteer JPG snel en eenvoudig naar DOCX met Aspose.Cells. PHP JPG naar DOCX. PHP Bewaar JPG naar DOCX. Sla JPG op als DOCX met behulp van PHP.
-keywords: [Aspose Excel., PHP Aspose.Cells., Convert JPG to DOCX in PHP., Save JPG to DOCX using PHP., PHP JPG to DOCX saveformat., JPG to DOCX Converter., PHP Save JPG as DOCX]
+description: Aspose Excel. Deze complete oplossing biedt PHP-ontwikkelaars een volledig geïntegreerde aanpak voor het converteren van JPG naar het DOCX-formaat. Hierdoor kunnen JPG-gegevens naadloos worden opgeslagen in het DOCX-formaat met behulp van de Aspose.Cells-bibliotheek, allemaal via efficiënte en aanpasbare PHP-code.
+keywords: [Aspose Excel., PHP Aspose.Cells., Smart JPG files to DOCX Converter for PHP., Convert JPG to DOCX in PHP., JPG files to DOCX Conversion in PHP., Leverage intelligent data processing to automatically parse and save JPG into DOCX format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Converteer JPG naar DOCX in PHP" h2="Snelle PHP-bibliotheek voor het converteren van JPG naar DOCX. Dit is een professionele softwareoplossing voor het importeren en exporteren van JPG, DOCX en vele andere formaten met behulp van PHP." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-php-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="DOCX" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,13 +12,13 @@ keywords: [Aspose Excel., PHP Aspose.Cells., Convert JPG to DOCX in PHP., Save J
 
 {{% blocks/products/pf/agp/content h2="Converteer JPG naar DOCX met behulp van PHP" %}}
 
-Hoe converteer ik JPG naar DOCX? Met de bibliotheek Aspose.Cells for PHP via Java kunt u eenvoudig JPG met een paar regels code programmatisch naar DOCX converteren.[Aspose.Cells for PHP via Java](https://products.aspose.com/cells/php-java/) is in staat om platformonafhankelijke applicaties te bouwen met de mogelijkheid om alle Excel-bestanden te genereren, wijzigen, converteren, renderen en afdrukken. PHP Excel API converteert niet alleen tussen spreadsheetformaten, het kan ook Excel-bestanden weergeven als afbeeldingen, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT en meer, waardoor het een perfecte keuze is om documenten uit te wisselen in industriestandaardformaten.
+ Hoe converteer ik JPG naar DOCX? Met de Aspose.Cells for PHP via Java bibliotheek kunt u JPG eenvoudig programmatisch converteren naar DOCX met slechts een paar regels code.[Aspose.Cells for PHP via Java](https://products.aspose.com/cells/php-java/) PHP Excel API is in staat om platformonafhankelijke applicaties te bouwen die alle Excel-bestanden kunnen genereren, bewerken, converteren, weergeven en afdrukken. Het kan niet alleen converteren tussen spreadsheetformaten, maar ook Excel-bestanden weergeven als afbeeldingen (PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT) en meer, waardoor het een perfecte keuze is voor het uitwisselen van documenten in industriestandaardformaten.
  
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Sla JPG op naar DOCX in PHP" %}}
+{{% blocks/products/pf/agp/content h2="Sla JPG op als DOCX in PHP" %}}
 
-Het volgende voorbeeld laat zien hoe u JPG naar DOCX in PHP converteert.
+Het volgende voorbeeld laat zien hoe je een JPG-bestand naar DOCX kunt converteren in PHP.
 {{% blocks/products/pf/agp/text %}}
 
 Volg de eenvoudige stappen om JPG naar DOCX te converteren. Upload uw JPG-bestand en sla het vervolgens eenvoudig op als DOCX-bestand. Voor zowel JPG-lezen als DOCX-schrijven kunt u volledig gekwalificeerde bestandsnamen gebruiken. De inhoud en opmaak van de uitvoer DOCX zullen identiek zijn aan het originele JPG-document.
@@ -27,25 +27,25 @@ Volg de eenvoudige stappen om JPG naar DOCX te converteren. Upload uw JPG-bestan
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Voorbeeldcode om JPG naar DOCX te converteren" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="jpg" outformat="docx" IsLandingPage="true" language="phpjava" %}}
+{{% cells-convert title="Voorbeeldcode om JPG naar DOCX te converteren" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="jpg" outformat="docx" IsLandingPage="true" language="phpjava" %}}
 
-{{% blocks/products/pf/agp/content h2="Hoe JPG naar DOCX te converteren via PHP" %}}
+{{% blocks/products/pf/agp/content h2="Hoe converteer je een JPG-bestand naar DOCX via PHP?" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
-Wilt u JPG-bestanden programmatisch naar DOCX converteren? PHP-ontwikkelaars kunnen JPG eenvoudig laden en converteren naar DOCX in slechts een paar regels code.
+Moet je JPG-bestanden programmatisch converteren naar DOCX? PHP-ontwikkelaars kunnen JPG-bestanden eenvoudig laden en converteren naar DOCX met slechts een paar regels code.
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Installeer 'Aspose.Cells for PHP via Java'.
-1.  Voeg een bibliotheekreferentie toe (importeer de bibliotheek) aan uw PHP-project.
+1.  Voeg een bibliotheekreferentie (importeer de bibliotheek) toe aan je PHP-project.
 1.  Laad een JPG-bestand met een exemplaar van Workbook.
-1.  Converteer JPG naar DOCX door de opslagmethode van Workbook aan te roepen.
+1.  Converteer JPG naar DOCX door de save-methode van Workbook aan te roepen.
 1.  Verkrijg het conversieresultaat van JPG naar DOCX.
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="PHP-bibliotheek om JPG naar DOCX te converteren" %}}
+{{% blocks/products/pf/agp/content h2="PHP-bibliotheek om JPG naar DOCX te converteren." %}}
 
 {{% blocks/products/pf/agp/text %}}
 
@@ -63,7 +63,7 @@ Er zijn drie opties om "Aspose.Cells for PHP via Java" op uw systeem te installe
 
 {{% blocks/products/pf/agp/text %}}
 
-Aspose.Cells for PHP via Java is platformonafhankelijk API en kan worden gebruikt op elk platform (Windows, Linux, MacOS etc.) waarop PHP 7 of hogere versies zijn geïnstalleerd. De machine moet beschikken over versies van Oracle JDK 7 of hoger voordat u de installatie kunt instellen.
+ Aspose.Cells for PHP via Java is platformonafhankelijk en kan worden gebruikt op elk platform (Windows, Linux, MacOS, enz.) waarop PHP 7 of een latere versie is geïnstalleerd. De machine moet Oracle JDK 7 of een latere versie hebben voordat de installatie kan worden uitgevoerd.
  
 {{% /blocks/products/pf/agp/text %}}
 

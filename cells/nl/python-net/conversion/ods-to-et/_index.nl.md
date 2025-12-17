@@ -1,7 +1,7 @@
 ---
 title: Python ODS naar ET - ODS naar ET-converter
-description: Aspose Excel. Python Excel. Converteer ODS snel en eenvoudig naar ET met Aspose.Cells. Python ODS naar ET. Python Bewaar ODS naar ET. Sla ODS op als ET met behulp van de Excel-bibliotheek Python.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert ODS to ET in Python Excel Library., Save ODS to ET using Python Excel Library., Python ODS to ET saveformat., ODS to ET Converter., Python Save ODS as ET]
+description: Aspose Excel. Deze complete oplossing biedt ontwikkelaars een volledig geïntegreerde aanpak voor het converteren van gegevens naar het ET-formaat. Hierdoor kunnen gegevens naadloos worden opgeslagen in het ET-formaat met behulp van de bibliotheek, en dit alles via efficiënte en aanpasbare code.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart ODS files to ET Converter for Python., Convert ODS to ET in Python., ODS files to ET Conversion in Python., Leverage intelligent data processing to automatically parse and save ODS into ET format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Converteer ODS naar ET in de Excel-bibliotheek Python" h2="Snelle Python Excel-bibliotheek voor het converteren van ODS naar ET. Gebruik onze Excel-conversie API om hoogwaardige, platformonafhankelijke software te ontwikkelen in Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="ET" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -28,7 +28,7 @@ Volg de eenvoudige stappen om ODS naar ET te converteren. Upload uw ODS-bestand 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Voorbeeldcode om ODS naar ET te converteren via de Excel-bibliotheek Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="ods" outformat="et" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Voorbeeldcode om ODS naar ET te converteren via de Excel-bibliotheek Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="ods" outformat="et" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="Hoe ODS naar ET te converteren" %}}
 

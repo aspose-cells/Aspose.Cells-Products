@@ -1,7 +1,7 @@
 ---
 title: Java PRN a ODS - PRN a ODS Convertitore
-description: Aspose Excel. Converti il PRN in ODS in modo rapido e semplice con Aspose.Cells. Java PRN in ODS. Java Salva PRN in ODS. Salva PRN come ODS utilizzando Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Convert PRN to ODS in Java., Save PRN to ODS using Java., Java PRN to ODS saveformat., PRN to ODS Converter., Java Save PRN as ODS]
+description: Aspose Excel. Questa soluzione completa fornisce agli sviluppatori Java un approccio completamente integrato per convertire i dati PRN nel formato ODS, consentendo il salvataggio senza interruzioni dei dati PRN nel formato ODS utilizzando la libreria Aspose.Cells, il tutto tramite codice Java efficiente e personalizzabile.
+keywords: [Aspose Excel., Java Aspose.Cells., Smart PRN files to ODS Converter for Java., Convert PRN to ODS in Java., PRN files to ODS Conversion in Java., Leverage intelligent data processing to automatically parse and save PRN into ODS format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Converti PRN in ODS in Java" h2="Libreria Java ad alta velocità per convertire PRN in ODS. Si tratta di una soluzione software professionale per importare ed esportare PRN, ODS e molti altri formati utilizzando Java." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="ODS" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="CSV" >}}
@@ -45,9 +45,9 @@ keywords: [Aspose Excel., Java Aspose.Cells., Convert PRN to ODS in Java., Save 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Salva il PRN allo ODS in Java" %}}
+{{% blocks/products/pf/agp/content h2="Salva PRN su ODS in Java" %}}
 
-L'esempio seguente mostra come convertire il PRN in ODS in Java.
+L'esempio seguente mostra come convertire PRN in ODS in Java.
 {{% blocks/products/pf/agp/text %}}
 
 Segui i semplici passaggi per convertire il PRN in ODS. Carica il tuo file PRN, quindi salvalo semplicemente come file ODS. Sia per la lettura del PRN che per la scrittura ODS è possibile utilizzare nomi di file completi. Il contenuto e la formattazione dell'output ODS saranno identici al documento PRN originale.
@@ -56,17 +56,17 @@ Segui i semplici passaggi per convertire il PRN in ODS. Carica il tuo file PRN, 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Codice di esempio per convertire il PRN in ODS" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="prn" outformat="ods" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Codice di esempio per convertire PRN in ODS" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="prn" outformat="ods" IsLandingPage="true" language="java" %}}
 
-{{% blocks/products/pf/agp/content h2="Come convertire il PRN in ODS via Java" %}}
+{{% blocks/products/pf/agp/content h2="Come convertire PRN in ODS via Java" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
-È necessario convertire i file PRN in ODS a livello di codice? Gli sviluppatori di Java possono convertire facilmente il PRN in ODS in poche righe di codice.
+Hai bisogno di convertire i file PRN in ODS tramite codice? Gli sviluppatori che usano Java possono facilmente convertire i file PRN in ODS in poche righe di codice.
 
 {{% /blocks/products/pf/agp/text %}}
 
-1.  Installa 'Aspose.Cells for Java'.
+1.  Installare 'Aspose.Cells for Java'.
 1.  Aggiungi un riferimento di libreria (importa la libreria) al tuo progetto Java.
 1.  Carica il file PRN con un'istanza della classe Workbook.
 1.  Converti PRN in ODS chiamando il metodo Workbook.save.
@@ -74,7 +74,7 @@ Segui i semplici passaggi per convertire il PRN in ODS. Carica il tuo file PRN, 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Libreria Java per convertire il PRN in ODS" %}}
+{{% blocks/products/pf/agp/content h2="Libreria Java per convertire PRN in ODS" %}}
 {{% blocks/products/pf/agp/text %}}
 
  Ospitiamo i nostri pacchetti Java in[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) repository. 'Aspose.Cells for Java' è un file JAR comune contenente codice byte. Si prega di seguire il[istruzioni passo passo](https://docs.aspose.com/cells/java/installation/) su come installarlo nel tuo ambiente di sviluppo Java.
@@ -107,7 +107,7 @@ Segui i semplici passaggi per convertire il PRN in ODS. Carica il tuo file PRN, 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/prn-to-bmp/" name="PRN BMP" description="Immagine bitmap" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/prn-to-emf/" name="PRN EMF" description="Formato metafile avanzato" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/prn-to-gif/" name="PRN GIF" description="Formato di interscambio grafico" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/prn-to-html/" name="PRN HTML" description="Hyper Text Markup Language" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/prn-to-html/" name="PRN HTML" description="Linguaggio di markup ipertestuale" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/prn-to-md/" name="PRN A MD" description="Linguaggio di ribasso" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/prn-to-mhtml/" name="PRN MHTML" description="Formato di archivio delle pagine Web" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/prn-to-ods/" name="PRN ODS" description="File di foglio di calcolo OpenDocument" >}}

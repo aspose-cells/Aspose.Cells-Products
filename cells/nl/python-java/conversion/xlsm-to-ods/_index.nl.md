@@ -1,7 +1,7 @@
 ---
 title: Python XLSM tot ODS - XLSM tot ODS Converter
-description: Aspose Excel. Python Excel. Converteer XLSM snel en eenvoudig naar ODS met Aspose.Cells. Python XLSM naar ODS. Python Bewaar XLSM naar ODS. Bewaar XLSM als 076112 3481 met behulp van de Excel-bibliotheek Python.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert XLSM to ODS in Python Excel Library., Save XLSM to ODS using Python Excel Library., Python XLSM to ODS saveformat., XLSM to ODS Converter., Python Save XLSM as ODS]
+description: Aspose Excel. Deze uitgebreide oplossing biedt ontwikkelaars een volledig geïntegreerde aanpak voor het converteren van gegevens van het formaat XLSM naar ODS, waardoor naadloos opslaan van gegevens in het formaat XLSM mogelijk is met behulp van de bibliotheek Aspose.Cells, allemaal via efficiënte en aanpasbare code Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart XLSM files to ODS Converter for Python., Convert XLSM to ODS in Python., XLSM files to ODS Conversion in Python., Leverage intelligent data processing to automatically parse and save XLSM into ODS format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Converteer XLSM naar ODS in de Excel-bibliotheek Python" h2="Snelle Python Excel-bibliotheek voor het converteren van XLSM naar ODS. Dit is een professionele softwareoplossing voor het importeren en exporteren van XLSM, ODS en vele andere formaten met behulp van Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="ODS" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -27,7 +27,7 @@ Volg de eenvoudige stappen om XLSM naar ODS te converteren. Upload uw XLSM-besta
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Voorbeeldcode om XLSM naar ODS te converteren via de Excel-bibliotheek Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsm" outformat="ods" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="Voorbeeldcode om XLSM naar ODS te converteren via de Excel-bibliotheek Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="xlsm" outformat="ods" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="Hoe u XLSM naar ODS kunt converteren via Python" %}}
 

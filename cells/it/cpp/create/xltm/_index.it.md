@@ -1,7 +1,7 @@
 ---
 title: Crea XLTM - Crea file XLTM in C++
-description: Aspose Excel. C++ Crea il file XLTM in modo semplice e veloce con Aspose.Cells. Genera il file XLTM utilizzando C++. Crea XLTM in C++. C++ XLTM Creatore.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ Create XLTM file., Generate XLTM file in C++., Create XLTM file using C++., Write data to XLTM file via C++., Create a XLTM file in C++., C++ Generate a XLTM file., C++ XLTM Creater]
+description: Aspose Excel. Genera e manipola senza sforzo i file XLTM con la libreria Aspose.Cells for C++. Questa potente libreria API offre una soluzione semplificata ed efficiente per creare, modificare e gestire i file XLTM direttamente all'interno delle tue applicazioni C++, soddisfacendo le esigenze specifiche degli sviluppatori con elevata precisione.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ Create XLTM file., Generate XLTM file in C++., Write data to XLTM file via C++., C++ XLTM Creater., Aspose.Cells for C++ is a powerful library that enables developers to programmatically create, generate, and manipulate XLTM files in C++]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Crea il file XLTM in C++" h2="Creazione di file XLTM nativi e ad alte prestazioni a livello di codice senza Micorsoft Office utilizzando la libreria C++." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLTM" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -11,7 +11,7 @@ keywords: [Aspose Excel., C++ Aspose.Cells., C++ Create XLTM file., Generate XLT
 
 {{% blocks/products/pf/agp/content h2="Crea il file XLTM utilizzando C++" %}}
 
- Come creare il file XLTM? Con la libreria Aspose.Cells for C++, puoi facilmente creare il file XLTM a livello di codice con poche righe di codice.[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) è in grado di creare applicazioni multipiattaforma con la capacità di generare, modificare, convertire, eseguire il rendering e stampare tutti i file Excel. C++ Excel API non solo converte tra formati di foglio di calcolo, ma può anche eseguire il rendering di file Excel come immagini, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT e altro, rendendolo quindi una scelta perfetta per scambiare documenti in formati standard del settore. Puoi scaricare direttamente la sua ultima versione, basta aprirla[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) gestore pacchetti, cerca Aspose.Cells.Cpp e installa. Puoi anche utilizzare il seguente comando dalla Console di gestione pacchetti.
+ Come creare il file XLTM? Con la libreria Aspose.Cells for C++, puoi facilmente creare il file XLTM a livello di codice con poche righe di codice.[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) è in grado di creare applicazioni multipiattaforma con la capacità di generare, modificare, convertire, eseguire il rendering e stampare tutti i file Excel. C++ Excel API non solo converte tra formati di foglio di calcolo, ma può anche eseguire il rendering di file Excel come immagini, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT e altro, rendendolo quindi una scelta perfetta per scambiare documenti in formati standard del settore. Puoi scaricare direttamente la sua ultima versione, basta aprirla[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/)gestore pacchetti, cerca Aspose.Cells.Cpp e installa. Puoi anche utilizzare il seguente comando dalla Console di gestione pacchetti.
 
 {{% blocks/products/pf/agp/code-block title="Comando" offSpacer="true" %}}
 
@@ -37,14 +37,15 @@ PM> Install-Package Aspose.Cells.Cpp
 1.  Crea un oggetto della classe Workbook.
 1.  Inserisci il primo foglio in un oggetto Foglio di lavoro.
 1.  Utilizzare il metodo Worksheet.GetCells() per inserire le celle del foglio di lavoro in un oggetto Cells.
-1. Utilizzare il metodo Cells.Get() per accedere alla cella desiderata del foglio di lavoro in un oggetto Cell.
+1.  Utilizzare il metodo Cells.Get() per accedere alla cella desiderata del foglio di lavoro in un oggetto Cell.
 1.  Utilizzare il metodo Cell.PutValue() per inserire il valore nella cella.
-1.  Salva la cartella di lavoro come file .xltm utilizzando il metodo Save().
+1.  Salvare la cartella di lavoro come file .xltm utilizzando il metodo Save().
 
 {{% blocks/products/pf/agp/code-block title="Il codice di esempio mostra come creare il file XLTM in C++." offSpacer="" %}}
 
 ```cs
 Aspose::Cells::Startup();
+//TIFF format is not supported
 
 // Create an object of the Workbook class.
 Workbook wkb;
@@ -110,7 +111,7 @@ Esistono tre opzioni per installare "Aspose.Cells for C++" sul tuo sistema. Sceg
 
 <!-- aboutfile Starts -->
     {{< blocks/products/pf/agp/about-file-section >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLTM" readMoreLink="https://docs.fileformat.com/spreadsheet/xltm/" >}}L'estensione file XLTM rappresenta i file generati da Microsoft Excel come file modello abilitati per le macro. I file XLTM sono simili a XLTX nella struttura, tranne per il fatto che quest'ultimo non supporta la creazione di file modello con macro. Tali file modello vengono utilizzati per generare e impostare il layout, la formattazione e altre impostazioni insieme alle macro per facilitare la creazione di file XLSX simili.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLTM" readMoreLink="https://docs.fileformat.com/spreadsheet/xltm/" >}}L'estensione file XLTM rappresenta i file generati da Microsoft Excel come file modello abilitati per le macro. I file XLTM sono simili a XLTX nella struttura tranne che quest'ultimo non supporta la creazione di file modello con macro. Tali file modello vengono utilizzati per generare e impostare il layout, la formattazione e altre impostazioni insieme alle macro per facilitare la creazione di file XLSX simili.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
     {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->
 
@@ -127,7 +128,7 @@ Esistono tre opzioni per installare "Aspose.Cells for C++" sul tuo sistema. Sceg
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/create/tsv/" name="TSV" description="Valori separati da tabulazioni" >}} 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/create/ods/" name="ODS" description="Foglio di calcolo OpenDocument" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/create/pdf/" name="PDF" description="Formato documento portatile" >}} 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/create/html/" name="HTML" description="Hyper Text Markup Language" >}} 
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/create/html/" name="HTML" description="Linguaggio di markup ipertestuale" >}} 
 
 
 {{< /blocks/products/pf/agp/other-supported-section >}}

@@ -1,7 +1,7 @@
 ---
 title: Java ODS naar SQL - ODS naar SQL-converter
-description: Aspose Excel. Converteer ODS snel en eenvoudig naar SQL met Aspose.Cells. Java ODS naar SQL. Java Sla ODS op in SQL. Sla ODS op als SQL met behulp van Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Convert ODS to SQL in Java., Save ODS to SQL using Java., Java ODS to SQL saveformat., ODS to SQL Converter., Java Save ODS as SQL]
+description: Aspose Excel. Deze uitgebreide oplossing biedt Java ontwikkelaars een volledig geïntegreerde aanpak om ODS naar SQL-formaat te converteren, waardoor naadloos opslaan van ODS gegevens in SQL-formaat mogelijk is met behulp van de Aspose.Cells bibliotheek, allemaal via efficiënte en aanpasbare Java code.
+keywords: [Aspose Excel., Java Aspose.Cells., Smart ODS files to SQL Converter for Java., Convert ODS to SQL in Java., ODS files to SQL Conversion in Java., Leverage intelligent data processing to automatically parse and save ODS into SQL format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Converteer ODS naar SQL in Java" h2="Snelle Java-bibliotheek voor het converteren van ODS naar SQL. Dit is een professionele softwareoplossing voor het importeren en exporteren van ODS, SQL en vele andere formaten met behulp van Java." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="SQL" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="CSV" >}}
@@ -47,7 +47,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Convert ODS to SQL in Java., Save 
 
 {{% blocks/products/pf/agp/content h2="Sla ODS op in SQL in Java" %}}
 
-In het volgende voorbeeld ziet u hoe u ODS naar SQL converteert in Java.
+Het volgende voorbeeld laat zien hoe je ODS naar SQL kunt converteren in Java.
 {{% blocks/products/pf/agp/text %}}
 
 Volg de eenvoudige stappen om ODS naar SQL te converteren. Upload uw ODS-bestand en sla het vervolgens eenvoudig op als SQL-bestand. Voor zowel ODS-lezen als SQL-schrijven kunt u volledig gekwalificeerde bestandsnamen gebruiken. De uitvoer-SQL-inhoud en -opmaak zijn identiek aan het originele ODS-document.
@@ -56,19 +56,19 @@ Volg de eenvoudige stappen om ODS naar SQL te converteren. Upload uw ODS-bestand
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Voorbeeldcode om ODS naar SQL te converteren" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="ods" outformat="sql" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Voorbeeldcode om ODS naar SQL te converteren" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="ods" outformat="sql" IsLandingPage="true" language="java" %}}
 
-{{% blocks/products/pf/agp/content h2="Hoe ODS naar SQL via Java te converteren" %}}
+{{% blocks/products/pf/agp/content h2="Hoe converteer ik ODS naar SQL via Java?" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
-Wilt u ODS-bestanden programmatisch naar SQL converteren? Java-ontwikkelaars kunnen ODS eenvoudig met slechts een paar regels code naar SQL converteren.
+Moet u bestanden met de extensie ODS programmatisch naar SQL converteren? Ontwikkelaars van Java kunnen bestanden met de extensie ODS eenvoudig in een paar regels code naar SQL converteren.
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Installeer 'Aspose.Cells for Java'.
 1.  Voeg een bibliotheekreferentie toe (importeer de bibliotheek) aan uw Java-project.
-1. Laad bestand ODS met een exemplaar van de klasse Workbook.
+1.  Laad bestand ODS met een instantie van de klasse Workbook.
 1.  Converteer ODS naar SQL door de Workbook.save-methode aan te roepen.
 1.  Haal het conversieresultaat van ODS naar SQL op.
 

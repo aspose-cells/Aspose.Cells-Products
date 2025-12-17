@@ -1,7 +1,7 @@
 ---
-title: XLAM naar SPREADSHEETML - Converteer XLAM naar SPREADSHEETML-bestanden Java
-description: Aspose Excel. Gratis online converteer XLAM naar het SPREADSHEETML-opslagformaat. Java XLAM naar SPREADSHEETML-formaat. Sla XLAM op als SPREADSHEETML in Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Java XLAM to SPREADSHEETML saveformat., Free Online XLAM to SPREADSHEETML Converter]
+title: Java XLAM naar SPREADSHEETML - XLAM naar SPREADSHEETML-converter
+description: Aspose Excel. Deze uitgebreide oplossing biedt Java ontwikkelaars een volledig geïntegreerde aanpak om XLAM naar SPREADSHEETML-formaat te converteren, waardoor naadloos opslaan van XLAM-gegevens in SPREADSHEETML-formaat mogelijk is met behulp van de Aspose.Cells-bibliotheek, allemaal via efficiënte en aanpasbare Java-code.
+keywords: [Aspose Excel., Java Aspose.Cells., Smart XLAM files to SPREADSHEETML Converter for Java., Convert XLAM to SPREADSHEETML in Java., XLAM files to SPREADSHEETML Conversion in Java., Leverage intelligent data processing to automatically parse and save XLAM into SPREADSHEETML format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Converteer XLAM naar SPREADSHEETML in Java" h2="Snelle Java-bibliotheek voor het converteren van XLAM naar SPREADSHEETML. Dit is een professionele softwareoplossing voor het importeren en exporteren van XLAM, SPREADSHEETML en vele andere formaten met behulp van Java." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="SPREADSHEETML" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="CSV" >}}
@@ -45,9 +45,9 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java XLAM to SPREADSHEETML savefor
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Sla XLAM gratis op in SPREADSHEETML in Java online" %}}
+{{% blocks/products/pf/agp/content h2="Sla XLAM op in SPREADSHEETML in Java" %}}
 
-In het volgende voorbeeld ziet u hoe u XLAM converteert naar SPREADSHEETML in Java.
+Het volgende voorbeeld laat zien hoe u XLAM naar SPREADSHEETML kunt converteren in Java.
 {{% blocks/products/pf/agp/text %}}
 
 Volg de eenvoudige stappen om XLAM naar SPREADSHEETML te converteren. Upload uw XLAM-bestand en sla het vervolgens eenvoudig op als SPREADSHEETML-bestand. Voor zowel XLAM-lezen als SPREADSHEETML-schrijven kunt u volledig gekwalificeerde bestandsnamen gebruiken. De inhoud en opmaak van de SPREADSHEETML-uitvoer zijn identiek aan het originele XLAM-document.
@@ -56,19 +56,19 @@ Volg de eenvoudige stappen om XLAM naar SPREADSHEETML te converteren. Upload uw 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Gratis app en voorbeeldcode om XLAM online naar SPREADSHEETML te converteren" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlam" outformat="xml" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Voorbeeldcode om XLAM naar SPREADSHEETML te converteren" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="xlam" outformat="xml" IsLandingPage="true" language="java" %}}
 
-{{% blocks/products/pf/agp/content h2="XLAM converteren naar SPREADSHEETML via Java" %}}
+{{% blocks/products/pf/agp/content h2="Hoe converteer ik XLAM naar SPREADSHEETML via Java?" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
-Wilt u XLAM-bestanden programmatisch naar SPREADSHEETML converteren? Java-ontwikkelaars kunnen XLAM eenvoudig in slechts een paar regels code naar SPREADSHEETML converteren.
+Moet u bestanden met de extensie XLAM programmatisch converteren naar SPREADSHEETML? Ontwikkelaars van Java kunnen bestanden met de extensie XLAM eenvoudig converteren naar SPREADSHEETML met slechts een paar regels code.
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Installeer 'Aspose.Cells for Java'.
 1.  Voeg een bibliotheekreferentie toe (importeer de bibliotheek) aan uw Java-project.
-1. Laad bestand XLAM met een exemplaar van de klasse Workbook.
+1.  Laad bestand XLAM met een instantie van de klasse Workbook.
 1.  Converteer XLAM naar SPREADSHEETML door de Workbook.save-methode aan te roepen.
 1.  Verkrijg het conversieresultaat van XLAM naar SPREADSHEETML.
 
@@ -95,6 +95,12 @@ Wilt u XLAM-bestanden programmatisch naar SPREADSHEETML converteren? Java-ontwik
 
 {{% /blocks/products/pf/agp/content %}}
 
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLAM" readMoreLink="https://docs.fileformat.com/spreadsheet/xlam/" >}}XLAM is een invoegbestand met macro's dat wordt gebruikt om nieuwe functies aan spreadsheets toe te voegen. Een invoegtoepassing is een aanvullend programma dat extra code uitvoert en extra functionaliteit voor spreadsheets biedt. XLAM-bestanden worden opgeslagen met de extensie .xlam. XLAM-bestanden zijn op XML gebaseerde bestanden die lijken op de bestandsformaten XLSM en XLSX en worden opgeslagen met ZIP-compressie om de totale bestandsgrootte te verkleinen.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="SPREADSHEETML" readMoreLink="https://docs.fileformat.com/web/xml/" >}}XML staat voor Extensible Markup Language, vergelijkbaar met HTML, maar verschilt in het gebruik van tags voor het definiëren van objecten. Het hele idee achter het creëren van het XML-bestandsformaat was het opslaan en transporteren van gegevens zonder afhankelijk te zijn van software- of hardwaretools. De populariteit is te danken aan het feit dat het zowel door mensen als door machines kan worden gelezen. Hierdoor kan het gemeenschappelijke dataprotocollen creëren in de vorm van objecten die kunnen worden opgeslagen en gedeeld via netwerken zoals het World Wide Web (WWW). De "X" in XML is uitbreidbaar, wat inhoudt dat de taal kan worden uitgebreid tot een willekeurig aantal symbolen, afhankelijk van de gebruikersvereisten. Het is voor deze functies dat veel standaard bestandsformaten er gebruik van maken, zoals Microsoft Open XML, LibreOffice OpenDocument, XHTML en SVG.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Andere ondersteunde conversies" subTitle="U kunt XLAM ook naar vele andere bestandsindelingen converteren, waaronder enkele hieronder vermeld." >}}
 

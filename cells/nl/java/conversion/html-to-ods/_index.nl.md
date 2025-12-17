@@ -1,7 +1,7 @@
 ---
 title: Java HTML tot ODS - HTML tot ODS Converter
-description: Aspose Excel. Converteer HTML snel en eenvoudig naar ODS met Aspose.Cells. Java HTML naar ODS. Java Bewaar HTML in ODS. Bewaar HTML als 07611134 81 via Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Convert HTML to ODS in Java., Save HTML to ODS using Java., Java HTML to ODS saveformat., HTML to ODS Converter., Java Save HTML as ODS]
+description: Aspose Excel. Deze uitgebreide oplossing biedt ontwikkelaars een volledig geïntegreerde aanpak voor het converteren van gegevens van het formaat HTML naar ODS, waardoor naadloos opslaan van gegevens in het formaat HTML mogelijk is met behulp van de bibliotheek Aspose.Cells, allemaal via efficiënte en aanpasbare code Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Smart HTML files to ODS Converter for Java., Convert HTML to ODS in Java., HTML files to ODS Conversion in Java., Leverage intelligent data processing to automatically parse and save HTML into ODS format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Converteer HTML naar ODS in Java" h2="Snelle Java-bibliotheek voor het converteren van HTML naar ODS. Dit is een professionele softwareoplossing voor het importeren en exporteren van HTML, ODS en vele andere formaten met behulp van Java." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="ODS" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Convert HTML to ODS in Java., Save
 
 {{% blocks/products/pf/agp/content h2="Converteer HTML naar ODS met behulp van Java" %}}
 
-Hoe converteer ik HTML naar ODS? Met de bibliotheek Aspose.Cells for Java kunt u HTML eenvoudig programmatisch naar ODS converteren met een paar regels code.[Aspose.Cells for Java](https://products.aspose.com/cells/java)is in staat om platformonafhankelijke applicaties te bouwen met de mogelijkheid om alle Excel-bestanden te genereren, wijzigen, converteren, renderen en afdrukken. Java Excel API converteert niet alleen tussen spreadsheetformaten, het kan ook Excel-bestanden weergeven als afbeeldingen, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT en meer, waardoor het een perfecte keuze is om documenten uit te wisselen in industriestandaardformaten. U kunt de nieuwste versie rechtstreeks downloaden van[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) en installeer het binnen uw op Maven gebaseerde project door de volgende configuraties toe te voegen aan pom.xml.
+ Hoe converteer ik HTML naar ODS? Met de bibliotheek Aspose.Cells for Java kunt u HTML eenvoudig programmatisch naar ODS converteren met een paar regels code.[Aspose.Cells for Java](https://products.aspose.com/cells/java)is in staat om platformonafhankelijke applicaties te bouwen met de mogelijkheid om alle Excel-bestanden te genereren, wijzigen, converteren, renderen en afdrukken. Java Excel API converteert niet alleen tussen spreadsheetformaten, het kan ook Excel-bestanden weergeven als afbeeldingen, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT en meer, waardoor het een perfecte keuze is om documenten uit te wisselen in industriestandaardformaten. U kunt de nieuwste versie rechtstreeks downloaden van[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) en installeer het binnen uw op Maven gebaseerde project door de volgende configuraties toe te voegen aan pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Opslagplaats" offSpacer="true" %}}
 
@@ -45,9 +45,9 @@ Hoe converteer ik HTML naar ODS? Met de bibliotheek Aspose.Cells for Java kunt u
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Bewaar HTML t/m ODS in Java" %}}
+{{% blocks/products/pf/agp/content h2="Sla HTML op in ODS in Java" %}}
 
-Het volgende voorbeeld laat zien hoe u HTML converteert naar ODS in Java.
+Het volgende voorbeeld laat zien hoe je HTML omzet naar ODS in Java.
 {{% blocks/products/pf/agp/text %}}
 
 Volg de eenvoudige stappen om HTML naar ODS te converteren. Upload uw HTML-bestand en sla het vervolgens eenvoudig op als ODS-bestand. Voor zowel HTML lezen als ODS schrijven kunt u volledig gekwalificeerde bestandsnamen gebruiken. De inhoud en opmaak van de uitvoer ODS zullen identiek zijn aan het originele document HTML.
@@ -56,19 +56,19 @@ Volg de eenvoudige stappen om HTML naar ODS te converteren. Upload uw HTML-besta
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Voorbeeldcode om HTML naar ODS te converteren" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="html" outformat="ods" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Voorbeeldcode om HTML naar ODS te converteren" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="html" outformat="ods" IsLandingPage="true" language="java" %}}
 
-{{% blocks/products/pf/agp/content h2="Hoe HTML naar ODS via Java te converteren" %}}
+{{% blocks/products/pf/agp/content h2="Hoe zet ik HTML om naar ODS of via Java?" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
-Wilt u HTML-bestanden programmatisch naar ODS converteren? Java-ontwikkelaars kunnen HTML eenvoudig in slechts een paar regels code naar ODS converteren.
+Moet je bestanden met de extensie HTML programmatisch converteren naar ODS? Ontwikkelaars van Java kunnen bestanden met de extensie HTML eenvoudig converteren naar ODS met slechts een paar regels code.
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Installeer 'Aspose.Cells for Java'.
 1.  Voeg een bibliotheekreferentie toe (importeer de bibliotheek) aan uw Java-project.
-1. Laad bestand HTML met een exemplaar van de klasse Workbook.
+1.  Laad bestand HTML met een instantie van de klasse Workbook.
 1.  Converteer HTML naar ODS door de Workbook.save-methode aan te roepen.
 1.  Verkrijg het conversieresultaat van HTML naar ODS.
 

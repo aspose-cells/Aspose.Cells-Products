@@ -1,7 +1,7 @@
 ---
 title: Python TXT a ODS - TXT a ODS Convertitore
-description: Aspose Excel. Python Excel. Converti TXT in ODS in modo rapido e semplice con Aspose.Cells. Python TXT in ODS. Python Salva TXT in ODS. Salva TXT come 076112 3481 utilizzando la Libreria Excel Python.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert TXT to ODS in Python Excel Library., Save TXT to ODS using Python Excel Library., Python TXT to ODS saveformat., TXT to ODS Converter., Python Save TXT as ODS]
+description: Aspose Excel. Questa soluzione completa fornisce agli sviluppatori Python un approccio completamente integrato per convertire il formato TXT nel formato ODS, consentendo il salvataggio senza interruzioni dei dati TXT nel formato ODS utilizzando la libreria Aspose.Cells, il tutto tramite codice Python efficiente e personalizzabile.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart TXT files to ODS Converter for Python., Convert TXT to ODS in Python., TXT files to ODS Conversion in Python., Leverage intelligent data processing to automatically parse and save TXT into ODS format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Converti TXT in ODS nella libreria Excel Python" h2="Libreria Excel Python ad alta velocità per convertire TXT in ODS. Si tratta di una soluzione software professionale per importare ed esportare TXT, ODS e molti altri formati utilizzando Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="ODS" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -27,7 +27,7 @@ Segui i semplici passaggi per convertire TXT in ODS. Carica il tuo file TXT, qui
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Codice di esempio per convertire TXT in ODS tramite la libreria Excel Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="txt" outformat="ods" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="Codice di esempio per convertire TXT in ODS tramite la libreria Excel Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="txt" outformat="ods" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="Come convertire TXT in ODS tramite Python" %}}
 
@@ -84,7 +84,7 @@ Aspose.Cells for Python via Java è indipendente dalla piattaforma API e può es
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/txt-to-bmp/" name="dallo TXT allo BMP" description="Immagine bitmap" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/txt-to-emf/" name="dallo TXT allo EMF" description="Formato metafile avanzato" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/txt-to-gif/" name="dallo TXT allo GIF" description="Formato di interscambio grafico" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/txt-to-html/" name="dallo TXT allo HTML" description="Hyper Text Markup Language" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/txt-to-html/" name="dallo TXT allo HTML" description="Linguaggio di markup ipertestuale" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/txt-to-md/" name="TXT AL MD" description="Linguaggio di ribasso" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/txt-to-mhtml/" name="dallo TXT allo MHTML" description="Formato di archivio delle pagine Web" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/txt-to-ods/" name="dallo TXT allo ODS" description="File di foglio di calcolo OpenDocument" >}}

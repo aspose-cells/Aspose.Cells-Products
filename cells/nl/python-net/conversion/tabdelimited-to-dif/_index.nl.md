@@ -1,7 +1,7 @@
 ---
 title: Python TABDELLIMITED tot DIF - TABDELIMITED tot DIF Converter
-description: Aspose Excel. Python Excel. Converteer TABDELLIMITED snel en eenvoudig naar DIF met Aspose.Cells. Python TABDELLIMITED naar DIF. Python Bewaar TABDELIMITED naar DIF. Sla TABDELLIMITED op als DIF met behulp van de Excel-bibliotheek Python.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert TABDELIMITED to DIF in Python Excel Library., Save TABDELIMITED to DIF using Python Excel Library., Python TABDELIMITED to DIF saveformat., TABDELIMITED to DIF Converter., Python Save TABDELIMITED as DIF]
+description: Aspose Excel. Deze uitgebreide oplossing biedt ontwikkelaars een volledig geïntegreerde aanpak voor het converteren van TABDELIMITED naar het DIF-formaat, waardoor TABDELIMITED-gegevens naadloos kunnen worden opgeslagen in het DIF-formaat met behulp van de Aspose.Cells-bibliotheek, allemaal via efficiënte en aanpasbare Python-code.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart TABDELIMITED files to DIF Converter for Python., Convert TABDELIMITED to DIF in Python., TABDELIMITED files to DIF Conversion in Python., Leverage intelligent data processing to automatically parse and save TABDELIMITED into DIF format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Converteer TABDELIMITED naar DIF in Python Excel-bibliotheek" h2="Snelle Python Excel-bibliotheek voor het converteren van TABDELLIMITED naar DIF. Gebruik onze Excel-conversie API om platformonafhankelijke software op hoog niveau te ontwikkelen in Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="DIF" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -28,7 +28,7 @@ Volg de eenvoudige stappen om TABDELLIMITED naar DIF te converteren. Upload uw T
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Voorbeeldcode om TABDELLIMITED naar DIF te converteren via de Excel-bibliotheek Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="tsv" outformat="dif" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Voorbeeldcode om TABDELLIMITED naar DIF te converteren via de Excel-bibliotheek Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="tsv" outformat="dif" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="Hoe TABDELLIMITED naar DIF te converteren" %}}
 

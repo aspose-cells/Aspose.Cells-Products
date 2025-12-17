@@ -1,7 +1,7 @@
 ---
-title: XLAM naar XLTX - Converteer XLAM naar XLTX bestanden Java
-description: Aspose Excel. Gratis online Converteer XLAM naar XLTX opslagformaat. Java XLAM tot XLTX formaat. Bewaar XLAM als XLTX in Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Java XLAM to XLTX saveformat., Free Online XLAM to XLTX Converter]
+title: Java XLAM tot XLTX - XLAM tot XLTX Converter
+description: Aspose Excel. Deze uitgebreide oplossing biedt ontwikkelaars een volledig geïntegreerde aanpak voor het converteren van gegevens van het formaat XLAM naar XLTX, waardoor naadloos opslaan van gegevens in het formaat XLAM mogelijk is met behulp van de bibliotheek Aspose.Cells, allemaal via efficiënte en aanpasbare code Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Smart XLAM files to XLTX Converter for Java., Convert XLAM to XLTX in Java., XLAM files to XLTX Conversion in Java., Leverage intelligent data processing to automatically parse and save XLAM into XLTX format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Converteer XLAM naar XLTX in Java" h2="Snelle Java-bibliotheek voor het converteren van XLAM naar XLTX. Dit is een professionele softwareoplossing voor het importeren en exporteren van XLAM, XLTX en vele andere formaten met behulp van Java." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLTX" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java XLAM to XLTX saveformat., Fre
 
 {{% blocks/products/pf/agp/content h2="Converteer XLAM naar XLTX met behulp van Java" %}}
 
-Hoe converteer ik XLAM naar XLTX? Met de bibliotheek Aspose.Cells for Java kunt u XLAM eenvoudig programmatisch naar XLTX converteren met een paar regels code.[Aspose.Cells for Java](https://products.aspose.com/cells/java)is in staat om platformonafhankelijke applicaties te bouwen met de mogelijkheid om alle Excel-bestanden te genereren, wijzigen, converteren, renderen en afdrukken. Java Excel API converteert niet alleen tussen spreadsheetformaten, het kan ook Excel-bestanden weergeven als afbeeldingen, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT en meer, waardoor het een perfecte keuze is om documenten uit te wisselen in industriestandaardformaten. U kunt de nieuwste versie rechtstreeks downloaden van[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) en installeer het binnen uw op Maven gebaseerde project door de volgende configuraties toe te voegen aan pom.xml.
+ Hoe converteer ik XLAM naar XLTX? Met de bibliotheek Aspose.Cells for Java kunt u XLAM eenvoudig programmatisch naar XLTX converteren met een paar regels code.[Aspose.Cells for Java](https://products.aspose.com/cells/java)is in staat om platformonafhankelijke applicaties te bouwen met de mogelijkheid om alle Excel-bestanden te genereren, wijzigen, converteren, renderen en afdrukken. Java Excel API converteert niet alleen tussen spreadsheetformaten, het kan ook Excel-bestanden weergeven als afbeeldingen, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT en meer, waardoor het een perfecte keuze is om documenten uit te wisselen in industriestandaardformaten. U kunt de nieuwste versie rechtstreeks downloaden van[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) en installeer het binnen uw op Maven gebaseerde project door de volgende configuraties toe te voegen aan pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Opslagplaats" offSpacer="true" %}}
 
@@ -45,9 +45,9 @@ Hoe converteer ik XLAM naar XLTX? Met de bibliotheek Aspose.Cells for Java kunt 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Bewaar XLAM t/m XLTX in Java Gratis online" %}}
+{{% blocks/products/pf/agp/content h2="Sla XLAM op in XLTX in Java" %}}
 
-Het volgende voorbeeld laat zien hoe u XLAM converteert naar XLTX in Java.
+Het volgende voorbeeld laat zien hoe je XLAM omzet naar XLTX in Java.
 {{% blocks/products/pf/agp/text %}}
 
 Volg de eenvoudige stappen om XLAM naar XLTX te converteren. Upload uw XLAM-bestand en sla het vervolgens eenvoudig op als XLTX-bestand. Voor zowel XLAM lezen als XLTX schrijven kunt u volledig gekwalificeerde bestandsnamen gebruiken. De inhoud en opmaak van de uitvoer XLTX zullen identiek zijn aan het originele document XLAM.
@@ -56,19 +56,19 @@ Volg de eenvoudige stappen om XLAM naar XLTX te converteren. Upload uw XLAM-best
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Gratis app en voorbeeldcode om XLAM online naar XLTX te converteren" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlam" outformat="xltx" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Voorbeeldcode om XLAM naar XLTX te converteren" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="xlam" outformat="xltx" IsLandingPage="true" language="java" %}}
 
-{{% blocks/products/pf/agp/content h2="Hoe XLAM naar XLTX via Java te converteren" %}}
+{{% blocks/products/pf/agp/content h2="Hoe zet ik XLAM om naar XLTX of via Java?" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
-Wilt u XLAM-bestanden programmatisch naar XLTX converteren? Java-ontwikkelaars kunnen XLAM eenvoudig in slechts een paar regels code naar XLTX converteren.
+Moet je bestanden met de extensie XLAM programmatisch converteren naar XLTX? Ontwikkelaars van Java kunnen bestanden met de extensie XLAM eenvoudig converteren naar XLTX met slechts een paar regels code.
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Installeer 'Aspose.Cells for Java'.
 1.  Voeg een bibliotheekreferentie toe (importeer de bibliotheek) aan uw Java-project.
-1. Laad bestand XLAM met een exemplaar van de klasse Workbook.
+1.  Laad bestand XLAM met een instantie van de klasse Workbook.
 1.  Converteer XLAM naar XLTX door de Workbook.save-methode aan te roepen.
 1.  Verkrijg het conversieresultaat van XLAM naar XLTX.
 
@@ -95,6 +95,12 @@ Wilt u XLAM-bestanden programmatisch naar XLTX converteren? Java-ontwikkelaars k
 
 {{% /blocks/products/pf/agp/content %}}
 
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLAM" readMoreLink="https://docs.fileformat.com/spreadsheet/xlam/" >}}XLAM is een invoegbestand met macro's dat wordt gebruikt om nieuwe functies aan spreadsheets toe te voegen. Een invoegtoepassing is een aanvullend programma dat extra code uitvoert en extra functionaliteit voor spreadsheets biedt. XLAM-bestanden worden opgeslagen met de extensie .xlam. XLAM-bestanden zijn op XML gebaseerde bestanden die lijken op de bestandsformaten XLSM en XLSX en worden opgeslagen met ZIP-compressie om de totale bestandsgrootte te verkleinen.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLTX" readMoreLink="https://docs.fileformat.com/spreadsheet/xltx/" >}}Bestanden met de extensie .xltx vertegenwoordigen Microsoft Excel-sjabloonbestanden die zijn gebaseerd op de specificaties van de Office OpenXML-bestandsindeling. Het wordt gebruikt om een standaardsjabloonbestand te maken dat kan worden gebruikt om XLSX-bestanden te genereren die dezelfde instellingen vertonen als gespecificeerd in het XLTX-bestand.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Andere ondersteunde conversies" subTitle="U kunt XLAM ook naar vele andere bestandsindelingen converteren, waaronder enkele hieronder vermeld." >}}
 

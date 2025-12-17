@@ -1,7 +1,7 @@
 ---
 title: Python PRN から XLSM - PRN から XLSM へのコンバーター
-description: Aspose Excel。Python Excel。Aspose.Cells を使用して、PRN を XLSM にすばやく簡単に変換します。Python PRN を XLSM に変換します。Python PRN を XLSM に保存します。Python Excel ライブラリを使用して、PRN を XLSM として保存します。
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert PRN to XLSM in Python Excel Library., Save PRN to XLSM using Python Excel Library., Python PRN to XLSM saveformat., PRN to XLSM Converter., Python Save PRN as XLSM]
+description: Aspose Excel。この包括的なソリューションは、Python開発者にPRNをXLSM形式に変換するための完全に統合されたアプローチを提供し、効率的でカスタマイズ可能なPythonコードを通じて、Aspose.Cellsライブラリを使用してPRNデータをXLSM形式にシームレスに保存することを可能にします。
+keywords: [Aspose Excel., Python Aspose.Cells., Smart PRN files to XLSM Converter for Python., Convert PRN to XLSM in Python., PRN files to XLSM Conversion in Python., Leverage intelligent data processing to automatically parse and save PRN into XLSM format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Python Excel ライブラリで PRN を XLSM に変換する" h2="PRN を XLSM に変換するための高速 Python Excel ライブラリ。Excel 変換 API を使用して、Python で高レベルのプラットフォームに依存しないソフトウェアを開発します。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSM" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -28,7 +28,7 @@ PRN を XLSM に変換するには、簡単な手順に従ってください。P
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Python Excel ライブラリを使用して PRN を XLSM に変換するサンプル コード" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="prn" outformat="xlsm" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Python Excel ライブラリを使用して PRN を XLSM に変換するサンプル コード" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="prn" outformat="xlsm" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="PRN を XLSM に変換する方法" %}}
 

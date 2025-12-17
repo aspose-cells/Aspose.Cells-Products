@@ -1,7 +1,7 @@
 ---
 title: Python XLSB naar SPREADSHEETML - XLSB naar SPREADSHEETML-converter
-description: Aspose Excel. Python Excel. Converteer XLSB snel en eenvoudig naar SPREADSHEETML met Aspose.Cells. Python XLSB naar SPREADSHEETML. Python Sla XLSB op in SPREADSHEETML. Sla XLSB op als SPREADSHEETML met behulp van de Excel-bibliotheek Python.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert XLSB to SPREADSHEETML in Python Excel Library., Save XLSB to SPREADSHEETML using Python Excel Library., Python XLSB to SPREADSHEETML saveformat., XLSB to SPREADSHEETML Converter., Python Save XLSB as SPREADSHEETML]
+description: Aspose Excel. Deze uitgebreide oplossing biedt Python ontwikkelaars een volledig geïntegreerde aanpak om XLSB naar SPREADSHEETML-formaat te converteren, waardoor naadloos opslaan van XLSB-gegevens in SPREADSHEETML-formaat mogelijk is met behulp van de Aspose.Cells-bibliotheek, allemaal via efficiënte en aanpasbare Python-code.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart XLSB files to SPREADSHEETML Converter for Python., Convert XLSB to SPREADSHEETML in Python., XLSB files to SPREADSHEETML Conversion in Python., Leverage intelligent data processing to automatically parse and save XLSB into SPREADSHEETML format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Converteer XLSB naar SPREADSHEETML in de Excel-bibliotheek Python" h2="Snelle Python Excel-bibliotheek voor het converteren van XLSB naar SPREADSHEETML. Dit is een professionele softwareoplossing voor het importeren en exporteren van XLSB, SPREADSHEETML en vele andere formaten met behulp van Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="SPREADSHEETML" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -27,7 +27,7 @@ Volg de eenvoudige stappen om XLSB naar SPREADSHEETML te converteren. Upload uw 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Voorbeeldcode om XLSB naar SPREADSHEETML te converteren via de Excel-bibliotheek Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsb" outformat="xml" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="Voorbeeldcode om XLSB naar SPREADSHEETML te converteren via de Excel-bibliotheek Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="xlsb" outformat="xml" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="Hoe XLSB naar SPREADSHEETML te converteren via Python" %}}
 

@@ -1,7 +1,7 @@
 ---
 title: Python PRN naar HTML - PRN naar HTML Converter
-description: Aspose Excel. Python Excel. Converteer PRN snel en eenvoudig naar HTML met Aspose.Cells. Python PRN naar HTML. Python Bewaar PRN naar HTML. Sla PRN op als HTML met behulp van de Excel-bibliotheek Python.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert PRN to HTML in Python Excel Library., Save PRN to HTML using Python Excel Library., Python PRN to HTML saveformat., PRN to HTML Converter., Python Save PRN as HTML]
+description: Aspose Excel. Deze complete oplossing biedt ontwikkelaars een volledig geïntegreerde aanpak voor het converteren van PRN-bestanden naar het HTML-formaat. Hierdoor kunnen PRN-gegevens naadloos worden opgeslagen in het HTML-formaat met behulp van de Aspose.Cells-bibliotheek, allemaal via efficiënte en aanpasbare Python-code.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart PRN files to HTML Converter for Python., Convert PRN to HTML in Python., PRN files to HTML Conversion in Python., Leverage intelligent data processing to automatically parse and save PRN into HTML format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Converteer PRN naar HTML in de Excel-bibliotheek Python" h2="Snelle Python Excel-bibliotheek voor het converteren van PRN naar HTML. Dit is een professionele softwareoplossing voor het importeren en exporteren van PRN, HTML en vele andere formaten met behulp van Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="HTML" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -27,7 +27,7 @@ Volg de eenvoudige stappen om PRN naar HTML te converteren. Upload uw PRN-bestan
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Voorbeeldcode om PRN naar HTML te converteren via de Excel-bibliotheek Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="prn" outformat="html" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="Voorbeeldcode om PRN naar HTML te converteren via de Excel-bibliotheek Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="prn" outformat="html" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="PRN converteren naar HTML via Python" %}}
 

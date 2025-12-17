@@ -1,7 +1,7 @@
 ---
 title: Python MHTML から JSON - MHTML から JSON へのコンバータ
-description: Aspose Excel。Python Excel。Aspose.Cells を使用して、MHTML を JSON にすばやく簡単に変換します。Python MHTML を JSON に変換します。Python MHTML を JSON に保存します。Python Excel ライブラリを使用して、MHTML を JSON として保存します。
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert MHTML to JSON in Python Excel Library., Save MHTML to JSON using Python Excel Library., Python MHTML to JSON saveformat., MHTML to JSON Converter., Python Save MHTML as JSON]
+description: Aspose Excel。この包括的なソリューションは、Python開発者に、MHTMLをJSON形式に変換するための完全に統合されたアプローチを提供し、Aspose.Cellsライブラリを使用してMHTMLデータをJSON形式にシームレスに保存することを可能にします。これらはすべて、効率的でカスタマイズ可能なPythonコードを通じて行われます。
+keywords: [Aspose Excel., Python Aspose.Cells., Smart MHTML files to JSON Converter for Python., Convert MHTML to JSON in Python., MHTML files to JSON Conversion in Python., Leverage intelligent data processing to automatically parse and save MHTML into JSON format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Python Excel ライブラリで MHTML を JSON に変換する" h2="MHTML を JSON に変換するための高速 Python Excel ライブラリ。これは、MHTML、JSON、および Python を使用する他の多くの形式をインポートおよびエクスポートするためのプロフェッショナル ソフトウェア ソリューションです。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="JSON" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -27,7 +27,7 @@ MHTML を JSON に変換するには、簡単な手順に従ってください�
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Python Excel ライブラリを使用して MHTML を JSON に変換するサンプル コード" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="mhtml" outformat="json" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="Python Excel ライブラリを使用して MHTML を JSON に変換するサンプル コード" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="mhtml" outformat="json" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="Python 経由で MHTML を JSON に変換する方法" %}}
 

@@ -1,7 +1,7 @@
 ---
 title: PHP SPREADSHEETML naar ET - SPREADSHEETML naar ET-converter
-description: Aspose Excel. Converteer SPREADSHEETML snel en eenvoudig naar ET met Aspose.Cells. PHP SPREADSHEETML naar ET. PHP SPREADSHEETML opslaan in ET. Sla SPREADSHEETML op als ET met behulp van PHP.
-keywords: [Aspose Excel., PHP Aspose.Cells., Convert SPREADSHEETML to ET in PHP., Save SPREADSHEETML to ET using PHP., PHP SPREADSHEETML to ET saveformat., SPREADSHEETML to ET Converter., PHP Save SPREADSHEETML as ET]
+description: Aspose Excel. Deze complete oplossing biedt PHP-ontwikkelaars een volledig geïntegreerde aanpak voor het converteren van SPREADSHEETML naar ET-formaat, waardoor het naadloos opslaan van SPREADSHEETML-gegevens in ET-formaat mogelijk is met behulp van de Aspose.Cells-bibliotheek, allemaal via efficiënte en aanpasbare PHP-code.
+keywords: [Aspose Excel., PHP Aspose.Cells., Smart SPREADSHEETML files to ET Converter for PHP., Convert SPREADSHEETML to ET in PHP., SPREADSHEETML files to ET Conversion in PHP., Leverage intelligent data processing to automatically parse and save SPREADSHEETML into ET format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Converteer SPREADSHEETML naar ET in PHP" h2="Snelle PHP-bibliotheek voor het converteren van SPREADSHEETML naar ET. Dit is een professionele softwareoplossing voor het importeren en exporteren van SPREADSHEETML, ET en vele andere formaten met behulp van PHP." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-php-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="ET" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,13 +12,13 @@ keywords: [Aspose Excel., PHP Aspose.Cells., Convert SPREADSHEETML to ET in PHP.
 
 {{% blocks/products/pf/agp/content h2="Converteer SPREADSHEETML naar ET met behulp van PHP" %}}
 
- Hoe converteer ik SPREADSHEETML naar ET? Met de bibliotheek Aspose.Cells for PHP via Java kunt u SPREADSHEETML eenvoudig programmatisch naar ET converteren met een paar regels code.[Aspose.Cells for PHP via Java](https://products.aspose.com/cells/php-java/) is in staat om platformonafhankelijke applicaties te bouwen met de mogelijkheid om alle Excel-bestanden te genereren, wijzigen, converteren, renderen en afdrukken. PHP Excel API converteert niet alleen tussen spreadsheetformaten, het kan ook Excel-bestanden weergeven als afbeeldingen, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT en meer, waardoor het een perfecte keuze is om documenten uit te wisselen in industriestandaardformaten.
+ Hoe converteer ik SPREADSHEETML naar ET? Met de bibliotheek Aspose.Cells for PHP via Java kunt u SPREADSHEETML eenvoudig programmatisch naar ET converteren met slechts een paar regels code.[Aspose.Cells for PHP via Java](https://products.aspose.com/cells/php-java/) PHP Excel API is in staat om platformonafhankelijke applicaties te bouwen die alle Excel-bestanden kunnen genereren, bewerken, converteren, weergeven en afdrukken. Het kan niet alleen converteren tussen spreadsheetformaten, maar ook Excel-bestanden weergeven als afbeeldingen (PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT) en meer, waardoor het een perfecte keuze is voor het uitwisselen van documenten in industriestandaardformaten.
  
 {{% /blocks/products/pf/agp/content %}}
 
 {{% blocks/products/pf/agp/content h2="Sla SPREADSHEETML op in ET in PHP" %}}
 
-Het volgende voorbeeld laat zien hoe u SPREADSHEETML naar ET in PHP converteert.
+Het volgende voorbeeld laat zien hoe je SPREADSHEETML naar ET converteert in PHP.
 {{% blocks/products/pf/agp/text %}}
 
 Volg de eenvoudige stappen om SPREADSHEETML naar ET te converteren. Upload uw SPREADSHEETML-bestand en sla het vervolgens eenvoudig op als ET-bestand. Voor zowel SPREADSHEETML-lezen als ET-schrijven kunt u volledig gekwalificeerde bestandsnamen gebruiken. De uitvoer-ET-inhoud en opmaak zullen identiek zijn aan het originele SPREADSHEETML-document.
@@ -27,25 +27,25 @@ Volg de eenvoudige stappen om SPREADSHEETML naar ET te converteren. Upload uw SP
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Voorbeeldcode om SPREADSHEETML naar ET te converteren" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xml" outformat="et" IsLandingPage="true" language="phpjava" %}}
+{{% cells-convert title="Voorbeeldcode om SPREADSHEETML naar ET te converteren" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="xml" outformat="et" IsLandingPage="true" language="phpjava" %}}
 
-{{% blocks/products/pf/agp/content h2="Hoe SPREADSHEETML naar ET te converteren via PHP" %}}
+{{% blocks/products/pf/agp/content h2="Hoe converteer je SPREADSHEETML naar ET via PHP?" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
-Wilt u SPREADSHEETML-bestanden programmatisch naar ET converteren? PHP-ontwikkelaars kunnen SPREADSHEETML eenvoudig in slechts een paar regels code laden en converteren naar ET.
+Moet je SPREADSHEETML-bestanden programmatisch naar ET converteren? PHP-ontwikkelaars kunnen SPREADSHEETML-bestanden eenvoudig in slechts een paar regels code laden en naar ET converteren.
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Installeer 'Aspose.Cells for PHP via Java'.
-1.  Voeg een bibliotheekreferentie toe (importeer de bibliotheek) aan uw PHP-project.
+1.  Voeg een bibliotheekreferentie (importeer de bibliotheek) toe aan je PHP-project.
 1.  Laad het SPREADSHEETML-bestand met een exemplaar van Workbook.
-1.  Converteer SPREADSHEETML naar ET door de opslagmethode van Workbook aan te roepen.
-1.  Verkrijg het conversieresultaat van SPREADSHEETML naar ET.
+1.  Converteer SPREADSHEETML naar ET door de save-methode van Workbook aan te roepen.
+1. Verkrijg het conversieresultaat van SPREADSHEETML naar ET.
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="PHP-bibliotheek om SPREADSHEETML naar ET te converteren" %}}
+{{% blocks/products/pf/agp/content h2="PHP-bibliotheek voor het converteren van SPREADSHEETML naar ET" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
@@ -63,7 +63,7 @@ Er zijn drie opties om "Aspose.Cells for PHP via Java" op uw systeem te installe
 
 {{% blocks/products/pf/agp/text %}}
 
-Aspose.Cells for PHP via Java is platformonafhankelijk API en kan worden gebruikt op elk platform (Windows, Linux, MacOS etc.) waarop PHP 7 of hogere versies zijn geïnstalleerd. De machine moet beschikken over versies van Oracle JDK 7 of hoger voordat u de installatie kunt instellen.
+ Aspose.Cells for PHP via Java is platformonafhankelijk en kan worden gebruikt op elk platform (Windows, Linux, MacOS, enz.) waarop PHP 7 of een latere versie is geïnstalleerd. De machine moet Oracle JDK 7 of een latere versie hebben voordat de installatie kan worden uitgevoerd.
  
 {{% /blocks/products/pf/agp/text %}}
 

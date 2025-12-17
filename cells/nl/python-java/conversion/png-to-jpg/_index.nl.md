@@ -1,7 +1,7 @@
 ---
 title: Python PNG naar JPG - PNG naar JPG-converter
-description: Aspose Excel. Python Excel. Converteer PNG snel en eenvoudig naar JPG met Aspose.Cells. Python PNG naar JPG. Python Sla PNG op in JPG. Sla PNG op als JPG met behulp van de Excel-bibliotheek Python.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert PNG to JPG in Python Excel Library., Save PNG to JPG using Python Excel Library., Python PNG to JPG saveformat., PNG to JPG Converter., Python Save PNG as JPG]
+description: Aspose Excel. Deze complete oplossing biedt ontwikkelaars een volledig geïntegreerde aanpak om PNG naar JPG-formaat te converteren, waardoor het naadloos opslaan van PNG-gegevens in JPG-formaat mogelijk is met behulp van de Aspose.Cells-bibliotheek, allemaal via efficiënte en aanpasbare Python-code.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart PNG files to JPG Converter for Python., Convert PNG to JPG in Python., PNG files to JPG Conversion in Python., Leverage intelligent data processing to automatically parse and save PNG into JPG format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Converteer PNG naar JPG in de Excel-bibliotheek Python" h2="Snelle Python Excel-bibliotheek voor het converteren van PNG naar JPG. Dit is een professionele softwareoplossing voor het importeren en exporteren van PNG, JPG en vele andere formaten met behulp van Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="JPG" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -27,7 +27,7 @@ Volg de eenvoudige stappen om PNG naar JPG te converteren. Upload uw PNG-bestand
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Voorbeeldcode om PNG naar JPG te converteren via de Excel-bibliotheek Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="png" outformat="jpg" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="Voorbeeldcode om PNG naar JPG te converteren via de Excel-bibliotheek Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="png" outformat="jpg" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="Hoe PNG naar JPG te converteren via Python" %}}
 

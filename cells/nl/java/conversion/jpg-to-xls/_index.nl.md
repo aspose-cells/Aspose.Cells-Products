@@ -1,7 +1,7 @@
 ---
 title: Java JPG naar XLS - JPG naar XLS Converter
-description: Aspose Excel. Converteer JPG snel en eenvoudig naar XLS met Aspose.Cells. Java JPG naar XLS. Java Sla JPG op naar XLS. Sla JPG op als XLS met Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Convert JPG to XLS in Java., Save JPG to XLS using Java., Java JPG to XLS saveformat., JPG to XLS Converter., Java Save JPG as XLS]
+description: Aspose Excel. Deze uitgebreide oplossing biedt Java ontwikkelaars een volledig geïntegreerde aanpak voor het converteren van JPG naar XLS-formaat, waardoor naadloos opslaan van JPG-gegevens in XLS-formaat mogelijk is met behulp van de Aspose.Cells-bibliotheek, allemaal via efficiënte en aanpasbare Java-code.
+keywords: [Aspose Excel., Java Aspose.Cells., Smart JPG files to XLS Converter for Java., Convert JPG to XLS in Java., JPG files to XLS Conversion in Java., Leverage intelligent data processing to automatically parse and save JPG into XLS format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Converteer JPG naar XLS in Java" h2="Snelle Java-bibliotheek voor het converteren van JPG naar XLS. Dit is een professionele softwareoplossing voor het importeren en exporteren van JPG, XLS en vele andere formaten met behulp van Java." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLS" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="CSV" >}}
@@ -45,9 +45,9 @@ keywords: [Aspose Excel., Java Aspose.Cells., Convert JPG to XLS in Java., Save 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Sla JPG op naar XLS in Java" %}}
+{{% blocks/products/pf/agp/content h2="Sla JPG op als XLS in Java" %}}
 
-Het volgende voorbeeld laat zien hoe u JPG converteert naar XLS in Java.
+Het volgende voorbeeld laat zien hoe je een JPG-bestand naar XLS in Java kunt converteren.
 {{% blocks/products/pf/agp/text %}}
 
 Volg de eenvoudige stappen om JPG naar XLS te converteren. Upload uw JPG-bestand en sla het vervolgens eenvoudig op als XLS-bestand. Voor zowel JPG-lezen als XLS-schrijven kunt u volledig gekwalificeerde bestandsnamen gebruiken. De inhoud en opmaak van de uitvoer XLS zullen identiek zijn aan het originele JPG-document.
@@ -56,19 +56,19 @@ Volg de eenvoudige stappen om JPG naar XLS te converteren. Upload uw JPG-bestand
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Voorbeeldcode om JPG naar XLS te converteren" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="jpg" outformat="xls" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Voorbeeldcode om JPG naar XLS te converteren" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="jpg" outformat="xls" IsLandingPage="true" language="java" %}}
 
-{{% blocks/products/pf/agp/content h2="Hoe JPG naar XLS via Java te converteren" %}}
+{{% blocks/products/pf/agp/content h2="Hoe converteer je een JPG-bestand naar XLS via Java?" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
-Wilt u JPG-bestanden programmatisch naar XLS converteren? Java-ontwikkelaars kunnen JPG eenvoudig met slechts een paar regels code naar XLS converteren.
+Moet je JPG-bestanden programmatisch converteren naar XLS? Ontwikkelaars kunnen JPG-bestanden eenvoudig converteren naar XLS met slechts een paar regels code.
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Installeer 'Aspose.Cells for Java'.
 1.  Voeg een bibliotheekreferentie toe (importeer de bibliotheek) aan uw Java-project.
-1.  Laad een JPG-bestand met een exemplaar van de Workbook-klasse.
+1.  Laad een JPG-bestand met een instantie van de Workbook-klasse.
 1.  Converteer JPG naar XLS door de Workbook.save-methode aan te roepen.
 1.  Verkrijg het conversieresultaat van JPG naar XLS.
 
@@ -98,7 +98,7 @@ Wilt u JPG-bestanden programmatisch naar XLS converteren? Java-ontwikkelaars kun
 <!-- aboutfile Starts -->
     {{< blocks/products/pf/agp/about-file-section >}}
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="JPG" readMoreLink="https://docs.fileformat.com/image/jpg/" >}}Een JPEG is een type afbeeldingsformaat dat wordt opgeslagen met behulp van de methode van compressie met verlies. Het uitvoerbeeld is, als gevolg van compressie, een afweging tussen opslaggrootte en beeldkwaliteit. Gebruikers kunnen het compressieniveau aanpassen om het gewenste kwaliteitsniveau te bereiken en tegelijkertijd de opslaggrootte te verkleinen. De beeldkwaliteit wordt verwaarloosbaar beïnvloed als er 10:1-compressie op de afbeelding wordt toegepast. Hoe hoger de compressiewaarde, hoe groter de verslechtering van de beeldkwaliteit.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLS" readMoreLink="https://docs.fileformat.com/spreadsheet/xls/" >}}Bestanden met de extensie XLS vertegenwoordigen het binaire bestandsformaat van Excel. Dergelijke bestanden kunnen worden gemaakt door Microsoft Excel en andere soortgelijke spreadsheetprogramma's zoals OpenOffice Calc of Apple Numbers. Bestand dat door Excel wordt opgeslagen, staat bekend als Werkmap, waarbij elke werkmap een of meer werkbladen kan hebben. Gegevens worden opgeslagen en weergegeven aan gebruikers in tabelindeling op een werkblad en kunnen numerieke waarden, tekstgegevens, formules, externe gegevensverbindingen, afbeeldingen en grafieken omvatten. Met toepassingen zoals Microsoft Excel kunt u werkmapgegevens naar verschillende formaten exporteren, waaronder PDF, CSV, XLSX, TXT, HTML, XPS en verschillende andere. Het bestandsformaat XLS werd vervangen door een meer open en gestructureerd formaat, XLSX, met de release van Microsoft Excel 2007. De nieuwste versies bieden nog steeds ondersteuning voor het maken en lezen van XLS-bestanden, hoewel XLSX nu de eerste gebruikskeuze is.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLS" readMoreLink="https://docs.fileformat.com/spreadsheet/xls/" >}}Bestanden met de extensie XLS vertegenwoordigen het binaire bestandsformaat van Excel. Dergelijke bestanden kunnen worden gemaakt door Microsoft Excel en andere soortgelijke spreadsheetprogramma's zoals OpenOffice Calc of Apple Numbers. Bestand opgeslagen door Excel staat bekend als Werkmap, waarbij elke werkmap een of meer werkbladen kan hebben. Gegevens worden opgeslagen en weergegeven aan gebruikers in tabelindeling op een werkblad en kunnen numerieke waarden, tekstgegevens, formules, externe gegevensverbindingen, afbeeldingen en grafieken omvatten. Met toepassingen zoals Microsoft Excel kunt u werkmapgegevens naar verschillende formaten exporteren, waaronder PDF, CSV, XLSX, TXT, HTML, XPS en verschillende andere. Het bestandsformaat XLS werd vervangen door een meer open en gestructureerd formaat, XLSX, met de release van Microsoft Excel 2007. De nieuwste versies bieden nog steeds ondersteuning voor het maken en lezen van XLS-bestanden, hoewel XLSX nu de eerste gebruikskeuze is.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
     {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->
 

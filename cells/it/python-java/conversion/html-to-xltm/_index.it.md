@@ -1,7 +1,7 @@
 ---
 title: Python HTML a XLTM - HTML a XLTM Convertitore
-description: Aspose Excel. Python Excel. Converti HTML in XLTM in modo rapido e semplice con Aspose.Cells. Python HTML in XLTM. Python Salva HTML in XLTM. Salva HTML come 076112 3481 utilizzando la Libreria Excel Python.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert HTML to XLTM in Python Excel Library., Save HTML to XLTM using Python Excel Library., Python HTML to XLTM saveformat., HTML to XLTM Converter., Python Save HTML as XLTM]
+description: Aspose Excel. Questa soluzione completa fornisce agli sviluppatori Python un approccio completamente integrato per convertire il formato HTML nel formato XLTM, consentendo il salvataggio senza interruzioni dei dati HTML nel formato XLTM utilizzando la libreria Aspose.Cells, il tutto tramite codice Python efficiente e personalizzabile.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart HTML files to XLTM Converter for Python., Convert HTML to XLTM in Python., HTML files to XLTM Conversion in Python., Leverage intelligent data processing to automatically parse and save HTML into XLTM format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Converti HTML in XLTM nella libreria Excel Python" h2="Libreria Excel Python ad alta velocità per convertire HTML in XLTM. Si tratta di una soluzione software professionale per importare ed esportare HTML, XLTM e molti altri formati utilizzando Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLTM" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -27,7 +27,7 @@ Segui i semplici passaggi per convertire HTML in XLTM. Carica il tuo file HTML, 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Codice di esempio per convertire HTML in XLTM tramite la libreria Excel Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="html" outformat="xltm" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="Codice di esempio per convertire HTML in XLTM tramite la libreria Excel Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="html" outformat="xltm" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="Come convertire HTML in XLTM tramite Python" %}}
 

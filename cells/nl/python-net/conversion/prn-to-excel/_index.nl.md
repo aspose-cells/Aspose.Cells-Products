@@ -1,7 +1,7 @@
 ---
 title: Python PRN naar EXCEL - PRN naar EXCEL-converter
-description: Aspose Excel. Python Excel. Converteer PRN snel en eenvoudig naar EXCEL met Aspose.Cells. Python PRN naar EXCEL. Python PRN opslaan in EXCEL. Sla PRN op als EXCEL met behulp van de Excel-bibliotheek Python.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert PRN to EXCEL in Python Excel Library., Save PRN to EXCEL using Python Excel Library., Python PRN to EXCEL saveformat., PRN to EXCEL Converter., Python Save PRN as EXCEL]
+description: Aspose Excel. Deze complete oplossing biedt ontwikkelaars een volledig geïntegreerde aanpak voor het converteren van PRN-bestanden naar Excel-formaat. Hierdoor kunnen PRN-gegevens naadloos in Excel worden opgeslagen met behulp van de bibliotheek, en dit alles via efficiënte en aanpasbare code.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart PRN files to EXCEL Converter for Python., Convert PRN to EXCEL in Python., PRN files to EXCEL Conversion in Python., Leverage intelligent data processing to automatically parse and save PRN into EXCEL format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Converteer PRN naar EXCEL in Python Excel-bibliotheek" h2="Snelle Python Excel-bibliotheek voor het converteren van PRN naar EXCEL. Gebruik onze Excel-conversie API om hoogwaardige, platformonafhankelijke software te ontwikkelen in Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="EXCEL" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -28,7 +28,7 @@ Volg de eenvoudige stappen om PRN naar EXCEL te converteren. Upload uw PRN-besta
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Voorbeeldcode om PRN naar EXCEL te converteren via Python Excel-bibliotheek" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="prn" outformat="xlsx" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Voorbeeldcode om PRN naar EXCEL te converteren via Python Excel-bibliotheek" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="prn" outformat="xlsx" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="Hoe PRN naar EXCEL te converteren" %}}
 

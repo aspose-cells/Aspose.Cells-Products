@@ -1,7 +1,7 @@
 ---
 title: Java XLSB tot PNG - XLSB tot PNG Converter
-description: Aspose Excel. Converteer XLSB snel en eenvoudig naar PNG met Aspose.Cells. Java XLSB naar PNG. Java Bewaar XLSB in PNG. Bewaar XLSB als 07611134 81 via Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Convert XLSB to PNG in Java., Save XLSB to PNG using Java., Java XLSB to PNG saveformat., XLSB to PNG Converter., Java Save XLSB as PNG]
+description: Aspose Excel. Deze uitgebreide oplossing biedt ontwikkelaars een volledig geïntegreerde aanpak voor het converteren van gegevens van het formaat XLSB naar PNG, waardoor naadloos opslaan van gegevens in het formaat XLSB mogelijk is met behulp van de bibliotheek Aspose.Cells, allemaal via efficiënte en aanpasbare code Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Smart XLSB files to PNG Converter for Java., Convert XLSB to PNG in Java., XLSB files to PNG Conversion in Java., Leverage intelligent data processing to automatically parse and save XLSB into PNG format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Converteer XLSB naar PNG in Java" h2="Snelle Java-bibliotheek voor het converteren van XLSB naar PNG. Dit is een professionele softwareoplossing voor het importeren en exporteren van XLSB, PNG en vele andere formaten met behulp van Java." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="PNG" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Convert XLSB to PNG in Java., Save
 
 {{% blocks/products/pf/agp/content h2="Converteer XLSB naar PNG met behulp van Java" %}}
 
-Hoe converteer ik XLSB naar PNG? Met de bibliotheek Aspose.Cells for Java kunt u XLSB eenvoudig programmatisch naar PNG converteren met een paar regels code.[Aspose.Cells for Java](https://products.aspose.com/cells/java)is in staat om platformonafhankelijke applicaties te bouwen met de mogelijkheid om alle Excel-bestanden te genereren, wijzigen, converteren, renderen en afdrukken. Java Excel API converteert niet alleen tussen spreadsheetformaten, het kan ook Excel-bestanden weergeven als afbeeldingen, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT en meer, waardoor het een perfecte keuze is om documenten uit te wisselen in industriestandaardformaten. U kunt de nieuwste versie rechtstreeks downloaden van[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) en installeer het binnen uw op Maven gebaseerde project door de volgende configuraties toe te voegen aan pom.xml.
+ Hoe converteer ik XLSB naar PNG? Met de bibliotheek Aspose.Cells for Java kunt u XLSB eenvoudig programmatisch naar PNG converteren met een paar regels code.[Aspose.Cells for Java](https://products.aspose.com/cells/java)is in staat om platformonafhankelijke applicaties te bouwen met de mogelijkheid om alle Excel-bestanden te genereren, wijzigen, converteren, renderen en afdrukken. Java Excel API converteert niet alleen tussen spreadsheetformaten, het kan ook Excel-bestanden weergeven als afbeeldingen, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT en meer, waardoor het een perfecte keuze is om documenten uit te wisselen in industriestandaardformaten. U kunt de nieuwste versie rechtstreeks downloaden van[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) en installeer het binnen uw op Maven gebaseerde project door de volgende configuraties toe te voegen aan pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Opslagplaats" offSpacer="true" %}}
 
@@ -45,9 +45,9 @@ Hoe converteer ik XLSB naar PNG? Met de bibliotheek Aspose.Cells for Java kunt u
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Bewaar XLSB t/m PNG in Java" %}}
+{{% blocks/products/pf/agp/content h2="Sla XLSB op in PNG in Java" %}}
 
-Het volgende voorbeeld laat zien hoe u XLSB converteert naar PNG in Java.
+Het volgende voorbeeld laat zien hoe je XLSB omzet naar PNG in Java.
 {{% blocks/products/pf/agp/text %}}
 
 Volg de eenvoudige stappen om XLSB naar PNG te converteren. Upload uw XLSB-bestand en sla het vervolgens eenvoudig op als PNG-bestand. Voor zowel XLSB lezen als PNG schrijven kunt u volledig gekwalificeerde bestandsnamen gebruiken. De inhoud en opmaak van de uitvoer PNG zullen identiek zijn aan het originele document XLSB.
@@ -56,19 +56,19 @@ Volg de eenvoudige stappen om XLSB naar PNG te converteren. Upload uw XLSB-besta
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Voorbeeldcode om XLSB naar PNG te converteren" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsb" outformat="png" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Voorbeeldcode om XLSB naar PNG te converteren" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="xlsb" outformat="png" IsLandingPage="true" language="java" %}}
 
-{{% blocks/products/pf/agp/content h2="Hoe XLSB naar PNG via Java te converteren" %}}
+{{% blocks/products/pf/agp/content h2="Hoe zet ik XLSB om naar PNG of via Java?" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
-Wilt u XLSB-bestanden programmatisch naar PNG converteren? Java-ontwikkelaars kunnen XLSB eenvoudig in slechts een paar regels code naar PNG converteren.
+Moet je bestanden met de extensie XLSB programmatisch converteren naar PNG? Ontwikkelaars van Java kunnen bestanden met de extensie XLSB eenvoudig converteren naar PNG met slechts een paar regels code.
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Installeer 'Aspose.Cells for Java'.
 1.  Voeg een bibliotheekreferentie toe (importeer de bibliotheek) aan uw Java-project.
-1. Laad bestand XLSB met een exemplaar van de klasse Workbook.
+1.  Laad bestand XLSB met een instantie van de klasse Workbook.
 1.  Converteer XLSB naar PNG door de Workbook.save-methode aan te roepen.
 1.  Verkrijg het conversieresultaat van XLSB naar PNG.
 

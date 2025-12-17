@@ -1,7 +1,7 @@
 ---
 title: Java XLSX tot SXC - XLSX tot SXC Converter
-description: Aspose Excel. Converteer XLSX snel en eenvoudig naar SXC met Aspose.Cells. Java XLSX naar SXC. Java Bewaar XLSX in SXC. Bewaar XLSX als 07611134 81 via Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Convert XLSX to SXC in Java., Save XLSX to SXC using Java., Java XLSX to SXC saveformat., XLSX to SXC Converter., Java Save XLSX as SXC]
+description: Aspose Excel. Deze uitgebreide oplossing biedt ontwikkelaars een volledig geïntegreerde aanpak voor het converteren van gegevens van het formaat XLSX naar SXC, waardoor naadloos opslaan van gegevens in het formaat XLSX mogelijk is met behulp van de bibliotheek Aspose.Cells, allemaal via efficiënte en aanpasbare code Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Smart XLSX files to SXC Converter for Java., Convert XLSX to SXC in Java., XLSX files to SXC Conversion in Java., Leverage intelligent data processing to automatically parse and save XLSX into SXC format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Converteer XLSX naar SXC in Java" h2="Snelle Java-bibliotheek voor het converteren van XLSX naar SXC. Dit is een professionele softwareoplossing voor het importeren en exporteren van XLSX, SXC en vele andere formaten met behulp van Java." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="SXC" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Convert XLSX to SXC in Java., Save
 
 {{% blocks/products/pf/agp/content h2="Converteer XLSX naar SXC met behulp van Java" %}}
 
-Hoe converteer ik XLSX naar SXC? Met de bibliotheek Aspose.Cells for Java kunt u XLSX eenvoudig programmatisch naar SXC converteren met een paar regels code.[Aspose.Cells for Java](https://products.aspose.com/cells/java)is in staat om platformonafhankelijke applicaties te bouwen met de mogelijkheid om alle Excel-bestanden te genereren, wijzigen, converteren, renderen en afdrukken. Java Excel API converteert niet alleen tussen spreadsheetformaten, het kan ook Excel-bestanden weergeven als afbeeldingen, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT en meer, waardoor het een perfecte keuze is om documenten uit te wisselen in industriestandaardformaten. U kunt de nieuwste versie rechtstreeks downloaden van[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) en installeer het binnen uw op Maven gebaseerde project door de volgende configuraties toe te voegen aan pom.xml.
+ Hoe converteer ik XLSX naar SXC? Met de bibliotheek Aspose.Cells for Java kunt u XLSX eenvoudig programmatisch naar SXC converteren met een paar regels code.[Aspose.Cells for Java](https://products.aspose.com/cells/java)is in staat om platformonafhankelijke applicaties te bouwen met de mogelijkheid om alle Excel-bestanden te genereren, wijzigen, converteren, renderen en afdrukken. Java Excel API converteert niet alleen tussen spreadsheetformaten, het kan ook Excel-bestanden weergeven als afbeeldingen, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT en meer, waardoor het een perfecte keuze is om documenten uit te wisselen in industriestandaardformaten. U kunt de nieuwste versie rechtstreeks downloaden van[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) en installeer het binnen uw op Maven gebaseerde project door de volgende configuraties toe te voegen aan pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Opslagplaats" offSpacer="true" %}}
 
@@ -45,9 +45,9 @@ Hoe converteer ik XLSX naar SXC? Met de bibliotheek Aspose.Cells for Java kunt u
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Bewaar XLSX t/m SXC in Java" %}}
+{{% blocks/products/pf/agp/content h2="Sla XLSX op in SXC in Java" %}}
 
-Het volgende voorbeeld laat zien hoe u XLSX converteert naar SXC in Java.
+Het volgende voorbeeld laat zien hoe je XLSX omzet naar SXC in Java.
 {{% blocks/products/pf/agp/text %}}
 
 Volg de eenvoudige stappen om XLSX naar SXC te converteren. Upload uw XLSX-bestand en sla het vervolgens eenvoudig op als SXC-bestand. Voor zowel XLSX lezen als SXC schrijven kunt u volledig gekwalificeerde bestandsnamen gebruiken. De inhoud en opmaak van de uitvoer SXC zullen identiek zijn aan het originele document XLSX.
@@ -56,19 +56,19 @@ Volg de eenvoudige stappen om XLSX naar SXC te converteren. Upload uw XLSX-besta
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Voorbeeldcode om XLSX naar SXC te converteren" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsx" outformat="sxc" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Voorbeeldcode om XLSX naar SXC te converteren" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="xlsx" outformat="sxc" IsLandingPage="true" language="java" %}}
 
-{{% blocks/products/pf/agp/content h2="Hoe XLSX naar SXC via Java te converteren" %}}
+{{% blocks/products/pf/agp/content h2="Hoe zet ik XLSX om naar SXC of via Java?" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
-Wilt u XLSX-bestanden programmatisch naar SXC converteren? Java-ontwikkelaars kunnen XLSX eenvoudig in slechts een paar regels code naar SXC converteren.
+Moet je bestanden met de extensie XLSX programmatisch converteren naar SXC? Ontwikkelaars van Java kunnen bestanden met de extensie XLSX eenvoudig converteren naar SXC met slechts een paar regels code.
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Installeer 'Aspose.Cells for Java'.
 1.  Voeg een bibliotheekreferentie toe (importeer de bibliotheek) aan uw Java-project.
-1. Laad bestand XLSX met een exemplaar van de klasse Workbook.
+1.  Laad bestand XLSX met een instantie van de klasse Workbook.
 1.  Converteer XLSX naar SXC door de Workbook.save-methode aan te roepen.
 1.  Verkrijg het conversieresultaat van XLSX naar SXC.
 

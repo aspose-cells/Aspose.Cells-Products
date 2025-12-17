@@ -1,7 +1,7 @@
 ---
 title: Java JSON tot EMF - JSON tot EMF Converter
-description: Aspose Excel. Converteer JSON snel en eenvoudig naar EMF met Aspose.Cells. Java JSON naar EMF. Java Bewaar JSON in EMF. Bewaar JSON als 07611134 81 via Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Convert JSON to EMF in Java., Save JSON to EMF using Java., Java JSON to EMF saveformat., JSON to EMF Converter., Java Save JSON as EMF]
+description: Aspose Excel. Deze uitgebreide oplossing biedt ontwikkelaars een volledig geïntegreerde aanpak voor het converteren van gegevens van het formaat JSON naar EMF, waardoor naadloos opslaan van gegevens in het formaat JSON mogelijk is met behulp van de bibliotheek Aspose.Cells, allemaal via efficiënte en aanpasbare code Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Smart JSON files to EMF Converter for Java., Convert JSON to EMF in Java., JSON files to EMF Conversion in Java., Leverage intelligent data processing to automatically parse and save JSON into EMF format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Converteer JSON naar EMF in Java" h2="Snelle Java-bibliotheek voor het converteren van JSON naar EMF. Dit is een professionele softwareoplossing voor het importeren en exporteren van JSON, EMF en vele andere formaten met behulp van Java." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="EMF" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Convert JSON to EMF in Java., Save
 
 {{% blocks/products/pf/agp/content h2="Converteer JSON naar EMF met behulp van Java" %}}
 
-Hoe converteer ik JSON naar EMF? Met de bibliotheek Aspose.Cells for Java kunt u JSON eenvoudig programmatisch naar EMF converteren met een paar regels code.[Aspose.Cells for Java](https://products.aspose.com/cells/java)is in staat om platformonafhankelijke applicaties te bouwen met de mogelijkheid om alle Excel-bestanden te genereren, wijzigen, converteren, renderen en afdrukken. Java Excel API converteert niet alleen tussen spreadsheetformaten, het kan ook Excel-bestanden weergeven als afbeeldingen, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT en meer, waardoor het een perfecte keuze is om documenten uit te wisselen in industriestandaardformaten. U kunt de nieuwste versie rechtstreeks downloaden van[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) en installeer het binnen uw op Maven gebaseerde project door de volgende configuraties toe te voegen aan pom.xml.
+ Hoe converteer ik JSON naar EMF? Met de bibliotheek Aspose.Cells for Java kunt u JSON eenvoudig programmatisch naar EMF converteren met een paar regels code.[Aspose.Cells for Java](https://products.aspose.com/cells/java)is in staat om platformonafhankelijke applicaties te bouwen met de mogelijkheid om alle Excel-bestanden te genereren, wijzigen, converteren, renderen en afdrukken. Java Excel API converteert niet alleen tussen spreadsheetformaten, het kan ook Excel-bestanden weergeven als afbeeldingen, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT en meer, waardoor het een perfecte keuze is om documenten uit te wisselen in industriestandaardformaten. U kunt de nieuwste versie rechtstreeks downloaden van[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) en installeer het binnen uw op Maven gebaseerde project door de volgende configuraties toe te voegen aan pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Opslagplaats" offSpacer="true" %}}
 
@@ -45,9 +45,9 @@ Hoe converteer ik JSON naar EMF? Met de bibliotheek Aspose.Cells for Java kunt u
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Bewaar JSON t/m EMF in Java" %}}
+{{% blocks/products/pf/agp/content h2="Sla JSON op in EMF in Java" %}}
 
-Het volgende voorbeeld laat zien hoe u JSON converteert naar EMF in Java.
+Het volgende voorbeeld laat zien hoe je JSON omzet naar EMF in Java.
 {{% blocks/products/pf/agp/text %}}
 
 Volg de eenvoudige stappen om JSON naar EMF te converteren. Upload uw JSON-bestand en sla het vervolgens eenvoudig op als EMF-bestand. Voor zowel JSON lezen als EMF schrijven kunt u volledig gekwalificeerde bestandsnamen gebruiken. De inhoud en opmaak van de uitvoer EMF zullen identiek zijn aan het originele document JSON.
@@ -56,19 +56,19 @@ Volg de eenvoudige stappen om JSON naar EMF te converteren. Upload uw JSON-besta
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Voorbeeldcode om JSON naar EMF te converteren" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="json" outformat="emf" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Voorbeeldcode om JSON naar EMF te converteren" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="json" outformat="emf" IsLandingPage="true" language="java" %}}
 
-{{% blocks/products/pf/agp/content h2="Hoe JSON naar EMF via Java te converteren" %}}
+{{% blocks/products/pf/agp/content h2="Hoe zet ik JSON om naar EMF of via Java?" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
-Wilt u JSON-bestanden programmatisch naar EMF converteren? Java-ontwikkelaars kunnen JSON eenvoudig in slechts een paar regels code naar EMF converteren.
+Moet je bestanden met de extensie JSON programmatisch converteren naar EMF? Ontwikkelaars van Java kunnen bestanden met de extensie JSON eenvoudig converteren naar EMF met slechts een paar regels code.
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Installeer 'Aspose.Cells for Java'.
 1.  Voeg een bibliotheekreferentie toe (importeer de bibliotheek) aan uw Java-project.
-1. Laad bestand JSON met een exemplaar van de klasse Workbook.
+1.  Laad bestand JSON met een instantie van de klasse Workbook.
 1.  Converteer JSON naar EMF door de Workbook.save-methode aan te roepen.
 1.  Verkrijg het conversieresultaat van JSON naar EMF.
 
@@ -98,7 +98,7 @@ Wilt u JSON-bestanden programmatisch naar EMF converteren? Java-ontwikkelaars ku
 <!-- aboutfile Starts -->
     {{< blocks/products/pf/agp/about-file-section >}}
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="JSON" readMoreLink="https://docs.fileformat.com/web/json/" >}}JSON (JavaScript Object Notation) is een open standaardbestandsindeling voor het delen van gegevens waarbij voor mensen leesbare tekst wordt gebruikt om gegevens op te slaan en te verzenden. JSON-bestanden worden opgeslagen met de .json-extensie. JSON vereist minder opmaak en is een goed alternatief voor XML. JSON is afgeleid van JavaScript, maar is een taalonafhankelijk gegevensformaat. Het genereren en parseren van JSON wordt ondersteund door veel moderne programmeertalen. application/json is het mediatype dat wordt gebruikt voor JSON.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="EMF" readMoreLink="https://docs.fileformat.com/image/emf/" >}}Verbeterd metabestandsformaat (EMF) slaat grafische afbeeldingen apparaatonafhankelijk op. Metabestanden van EMF bestaan uit records met variabele lengte in chronologische volgorde die de opgeslagen afbeelding kunnen weergeven na parsering op elk uitvoerapparaat. Deze records met variabele lengte kunnen definities zijn van ingesloten objecten, opdrachten voor tekenen en grafische eigenschappen die cruciaal zijn om de afbeelding nauwkeurig weer te geven. Wanneer een apparaat een EMF-metabestand opent met behulp van zijn eigen grafische omgeving, blijven de verhoudingen, afmetingen, kleuren en andere grafische eigenschappen van de originele afbeelding hetzelfde, ongeacht het apparaatplatform dat wordt geopend.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="EMF" readMoreLink="https://docs.fileformat.com/image/emf/" >}}Verbeterd metabestandsformaat (EMF) slaat grafische afbeeldingen apparaatonafhankelijk op. Metabestanden van EMF bestaan uit records met variabele lengte in chronologische volgorde die de opgeslagen afbeelding kunnen weergeven na parsering op elk uitvoerapparaat. Deze records met variabele lengte kunnen definities zijn van ingesloten objecten, commando's voor tekenen en grafische eigenschappen die cruciaal zijn om de afbeelding nauwkeurig weer te geven. Wanneer een apparaat een EMF-metabestand opent met behulp van zijn eigen grafische omgeving, blijven de verhoudingen, afmetingen, kleuren en andere grafische eigenschappen van de originele afbeelding hetzelfde, ongeacht het apparaatplatform dat wordt geopend.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
     {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->
 

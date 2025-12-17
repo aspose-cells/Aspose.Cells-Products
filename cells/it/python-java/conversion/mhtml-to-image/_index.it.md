@@ -1,7 +1,7 @@
 ---
 title: Python MHTML in IMMAGINE - MHTML in IMMAGINE Convertitore
-description: Aspose Excel. Python Excel. Converti MHTML in IMMAGINE in modo rapido e semplice con Aspose.Cells. Python MHTML in IMMAGINE. Python Salva MHTML in IMMAGINE. Salva MHTML come IMMAGINE utilizzando la libreria Excel Python.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert MHTML to IMAGE in Python Excel Library., Save MHTML to IMAGE using Python Excel Library., Python MHTML to IMAGE saveformat., MHTML to IMAGE Converter., Python Save MHTML as IMAGE]
+description: Aspose Excel. Questa soluzione completa fornisce agli sviluppatori Python un approccio completamente integrato per convertire MHTML in formato IMAGE, consentendo il salvataggio senza interruzioni dei dati MHTML in formato IMAGE utilizzando la libreria Aspose.Cells, il tutto tramite codice Python efficiente e personalizzabile.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart MHTML files to IMAGE Converter for Python., Convert MHTML to IMAGE in Python., MHTML files to IMAGE Conversion in Python., Leverage intelligent data processing to automatically parse and save MHTML into IMAGE format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Converti MHTML in IMMAGINE nella libreria Excel Python" h2="Libreria Excel Python ad alta velocità per la conversione di MHTML in IMMAGINE. Questa è una soluzione software professionale per importare ed esportare MHTML, IMAGE e molti altri formati utilizzando Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="IMAGE" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -27,7 +27,7 @@ Segui i semplici passaggi per convertire MHTML in IMMAGINE. Carica il tuo file M
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Codice di esempio per convertire MHTML in IMMAGINE tramite la libreria Excel Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="mhtml" outformat="png" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="Codice di esempio per convertire MHTML in IMMAGINE tramite la libreria Excel Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="mhtml" outformat="png" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="Come convertire MHTML in IMMAGINE tramite Python" %}}
 
@@ -84,7 +84,7 @@ Aspose.Cells for Python via Java è indipendente dalla piattaforma API e può es
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/mhtml-to-bmp/" name="dallo MHTML allo BMP" description="Immagine bitmap" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/mhtml-to-emf/" name="dallo MHTML allo EMF" description="Formato metafile avanzato" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/mhtml-to-gif/" name="dallo MHTML allo GIF" description="Formato di interscambio grafico" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/mhtml-to-html/" name="dallo MHTML allo HTML" description="Hyper Text Markup Language" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/mhtml-to-html/" name="dallo MHTML allo HTML" description="Linguaggio di markup ipertestuale" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/mhtml-to-md/" name="MHTML AL MD" description="Linguaggio di ribasso" >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/mhtml-to-ods/" name="dallo MHTML allo ODS" description="File di foglio di calcolo OpenDocument" >}}

@@ -1,7 +1,7 @@
 ---
-title: XLAM naar SQL - Converteer XLAM naar SQL-bestanden Java
-description: Aspose Excel. Gratis online converteer XLAM naar SQL-opslagformaat. Java XLAM naar SQL-formaat. Sla XLAM op als SQL in Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Java XLAM to SQL saveformat., Free Online XLAM to SQL Converter]
+title: Java XLAM naar SQL - XLAM naar SQL-converter
+description: Aspose Excel. Deze uitgebreide oplossing biedt Java ontwikkelaars een volledig geïntegreerde aanpak om XLAM naar SQL-formaat te converteren, waardoor naadloos opslaan van XLAM gegevens in SQL-formaat mogelijk is met behulp van de Aspose.Cells bibliotheek, allemaal via efficiënte en aanpasbare Java code.
+keywords: [Aspose Excel., Java Aspose.Cells., Smart XLAM files to SQL Converter for Java., Convert XLAM to SQL in Java., XLAM files to SQL Conversion in Java., Leverage intelligent data processing to automatically parse and save XLAM into SQL format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Converteer XLAM naar SQL in Java" h2="Snelle Java-bibliotheek voor het converteren van XLAM naar SQL. Dit is een professionele softwareoplossing voor het importeren en exporteren van XLAM, SQL en vele andere formaten met behulp van Java." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="SQL" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="CSV" >}}
@@ -45,9 +45,9 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java XLAM to SQL saveformat., Free
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Sla XLAM gratis online op in SQL in Java" %}}
+{{% blocks/products/pf/agp/content h2="Sla XLAM op in SQL in Java" %}}
 
-In het volgende voorbeeld ziet u hoe u XLAM naar SQL converteert in Java.
+Het volgende voorbeeld laat zien hoe je XLAM naar SQL kunt converteren in Java.
 {{% blocks/products/pf/agp/text %}}
 
 Volg de eenvoudige stappen om XLAM naar SQL te converteren. Upload uw XLAM-bestand en sla het vervolgens eenvoudig op als SQL-bestand. Voor zowel XLAM-lezen als SQL-schrijven kunt u volledig gekwalificeerde bestandsnamen gebruiken. De uitvoer-SQL-inhoud en -opmaak zijn identiek aan het originele XLAM-document.
@@ -56,19 +56,19 @@ Volg de eenvoudige stappen om XLAM naar SQL te converteren. Upload uw XLAM-besta
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Gratis app en voorbeeldcode om XLAM naar SQL Online te converteren" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlam" outformat="sql" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Voorbeeldcode om XLAM naar SQL te converteren" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="xlam" outformat="sql" IsLandingPage="true" language="java" %}}
 
-{{% blocks/products/pf/agp/content h2="Hoe XLAM naar SQL via Java te converteren" %}}
+{{% blocks/products/pf/agp/content h2="Hoe converteer ik XLAM naar SQL via Java?" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
-Wilt u XLAM-bestanden programmatisch naar SQL converteren? Java-ontwikkelaars kunnen XLAM eenvoudig met slechts een paar regels code naar SQL converteren.
+Moet u bestanden met de extensie XLAM programmatisch naar SQL converteren? Ontwikkelaars van Java kunnen bestanden met de extensie XLAM eenvoudig in een paar regels code naar SQL converteren.
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Installeer 'Aspose.Cells for Java'.
 1.  Voeg een bibliotheekreferentie toe (importeer de bibliotheek) aan uw Java-project.
-1. Laad bestand XLAM met een exemplaar van de klasse Workbook.
+1.  Laad bestand XLAM met een instantie van de klasse Workbook.
 1.  Converteer XLAM naar SQL door de Workbook.save-methode aan te roepen.
 1.  Haal het conversieresultaat van XLAM naar SQL op.
 
@@ -95,6 +95,12 @@ Wilt u XLAM-bestanden programmatisch naar SQL converteren? Java-ontwikkelaars ku
 
 {{% /blocks/products/pf/agp/content %}}
 
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLAM" readMoreLink="https://docs.fileformat.com/spreadsheet/xlam/" >}}XLAM is een invoegbestand met macro's dat wordt gebruikt om nieuwe functies aan spreadsheets toe te voegen. Een invoegtoepassing is een aanvullend programma dat extra code uitvoert en extra functionaliteit voor spreadsheets biedt. XLAM-bestanden worden opgeslagen met de extensie .xlam. XLAM-bestanden zijn op XML gebaseerde bestanden die lijken op de bestandsformaten XLSM en XLSX en worden opgeslagen met ZIP-compressie om de totale bestandsgrootte te verkleinen.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="SQL" readMoreLink="https://docs.fileformat.com/database/sql/" >}}Een bestand met de extensie .sql is een SQL-bestand (Structured Query Language) dat code bevat om met relationele databases te werken. Het wordt gebruikt om SQL-instructies te schrijven voor CRUD-bewerkingen (Create, Read, Update en Delete) in databases. SQL-bestanden komen vaak voor bij het werken met zowel desktop- als webgebaseerde databases. Er zijn verschillende alternatieven voor SQL, zoals Java Persistence Query Language (JPQL), LINQ, HTSQL, 4D QL en verschillende andere. SQL-bestanden kunnen worden geopend door query-editors van Microsoft SQL Server, MySQL en andere teksteditors zoals Kladblok op Windows OS.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Andere ondersteunde conversies" subTitle="U kunt XLAM ook naar vele andere bestandsindelingen converteren, waaronder enkele hieronder vermeld." >}}
 

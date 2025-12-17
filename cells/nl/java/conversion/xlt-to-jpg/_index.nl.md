@@ -1,7 +1,7 @@
 ---
 title: Java XLT naar JPG - XLT naar JPG-converter
-description: Aspose Excel. Converteer XLT snel en eenvoudig naar JPG met Aspose.Cells. Java XLT naar JPG. Java Sla XLT op in JPG. Sla XLT op als JPG met Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Convert XLT to JPG in Java., Save XLT to JPG using Java., Java XLT to JPG saveformat., XLT to JPG Converter., Java Save XLT as JPG]
+description: Aspose Excel. Deze complete oplossing biedt ontwikkelaars een volledig geïntegreerde aanpak om XLT naar JPG-formaat te converteren, waardoor het naadloos opslaan van XLT-gegevens in JPG-formaat mogelijk is met behulp van de Aspose.Cells-bibliotheek, allemaal via efficiënte en aanpasbare Java-code.
+keywords: [Aspose Excel., Java Aspose.Cells., Smart XLT files to JPG Converter for Java., Convert XLT to JPG in Java., XLT files to JPG Conversion in Java., Leverage intelligent data processing to automatically parse and save XLT into JPG format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Converteer XLT naar JPG in Java" h2="Snelle Java-bibliotheek voor het converteren van XLT naar JPG. Dit is een professionele softwareoplossing voor het importeren en exporteren van XLT, JPG en vele andere formaten met behulp van Java." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="JPG" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="CSV" >}}
@@ -47,7 +47,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Convert XLT to JPG in Java., Save 
 
 {{% blocks/products/pf/agp/content h2="Sla XLT op als JPG in Java" %}}
 
-Het volgende voorbeeld laat zien hoe u XLT naar JPG converteert in Java.
+Het volgende voorbeeld laat zien hoe je XLT naar JPG kunt converteren in Java.
 {{% blocks/products/pf/agp/text %}}
 
 Volg de eenvoudige stappen om XLT naar JPG te converteren. Upload uw XLT-bestand en sla het vervolgens eenvoudig op als JPG-bestand. Voor zowel XLT lezen als JPG schrijven kunt u volledig gekwalificeerde bestandsnamen gebruiken. De uitvoer-JPG-inhoud en -opmaak zijn identiek aan het originele XLT-document.
@@ -56,19 +56,19 @@ Volg de eenvoudige stappen om XLT naar JPG te converteren. Upload uw XLT-bestand
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Voorbeeldcode om XLT naar JPG te converteren" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlt" outformat="jpg" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Voorbeeldcode om XLT naar JPG te converteren" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="xlt" outformat="jpg" IsLandingPage="true" language="java" %}}
 
-{{% blocks/products/pf/agp/content h2="Hoe XLT naar JPG via Java te converteren" %}}
+{{% blocks/products/pf/agp/content h2="Hoe converteer ik XLT naar JPG?" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
-Wilt u XLT-bestanden programmatisch naar JPG converteren? Java-ontwikkelaars kunnen XLT eenvoudig met slechts een paar regels code naar JPG converteren.
+Moet je bestanden met de extensie XLT programmatisch naar JPG converteren? Ontwikkelaars van Java kunnen bestanden met de extensie XLT eenvoudig naar JPG converteren met slechts een paar regels code.
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Installeer 'Aspose.Cells for Java'.
 1.  Voeg een bibliotheekreferentie toe (importeer de bibliotheek) aan uw Java-project.
-1. Laad bestand XLT met een exemplaar van de klasse Workbook.
+1.  Laad bestand XLT met een instantie van de klasse Workbook.
 1.  Converteer XLT naar JPG door de Workbook.save-methode aan te roepen.
 1.  Verkrijg het conversieresultaat van XLT naar JPG.
 

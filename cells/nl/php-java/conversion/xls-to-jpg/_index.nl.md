@@ -1,7 +1,7 @@
 ---
-title: PHP XLS naar JPG - XLS naar JPG-converter
-description: Aspose Excel. Converteer XLS snel en eenvoudig naar JPG met Aspose.Cells. PHP XLS naar JPG. PHP Sla XLS op in JPG. Sla XLS op als JPG met behulp van PHP.
-keywords: [Aspose Excel., PHP Aspose.Cells., Convert XLS to JPG in PHP., Save XLS to JPG using PHP., PHP XLS to JPG saveformat., XLS to JPG Converter., PHP Save XLS as JPG]
+title: PHP XLS naar JPG - XLS naar JPG Converter
+description: Aspose Excel. Deze complete oplossing biedt PHP-ontwikkelaars een volledig geïntegreerde aanpak om XLS naar JPG-formaat te converteren, waardoor het naadloos opslaan van XLS-gegevens in JPG-formaat mogelijk is met behulp van de Aspose.Cells-bibliotheek, allemaal via efficiënte en aanpasbare PHP-code.
+keywords: [Aspose Excel., PHP Aspose.Cells., Smart XLS files to JPG Converter for PHP., Convert XLS to JPG in PHP., XLS files to JPG Conversion in PHP., Leverage intelligent data processing to automatically parse and save XLS into JPG format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Converteer XLS naar JPG in PHP" h2="Snelle PHP-bibliotheek voor het converteren van XLS naar JPG. Dit is een professionele softwareoplossing voor het importeren en exporteren van XLS, JPG en vele andere formaten met behulp van PHP." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-php-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="JPG" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,13 +12,13 @@ keywords: [Aspose Excel., PHP Aspose.Cells., Convert XLS to JPG in PHP., Save XL
 
 {{% blocks/products/pf/agp/content h2="Converteer XLS naar JPG met behulp van PHP" %}}
 
- Hoe converteer ik XLS naar JPG? Met de bibliotheek Aspose.Cells for PHP via Java kunt u XLS eenvoudig programmatisch naar JPG converteren met een paar regels code.[Aspose.Cells for PHP via Java](https://products.aspose.com/cells/php-java/) is in staat om platformonafhankelijke applicaties te bouwen met de mogelijkheid om alle Excel-bestanden te genereren, wijzigen, converteren, renderen en afdrukken. PHP Excel API converteert niet alleen tussen spreadsheetformaten, het kan ook Excel-bestanden weergeven als afbeeldingen, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT en meer, waardoor het een perfecte keuze is om documenten uit te wisselen in industriestandaardformaten.
+ Hoe converteer ik XLS naar JPG? Met de Aspose.Cells for PHP via Java bibliotheek kunt u XLS eenvoudig programmatisch naar JPG converteren met slechts een paar regels code.[Aspose.Cells for PHP via Java](https://products.aspose.com/cells/php-java/) PHP Excel API is in staat om platformonafhankelijke applicaties te bouwen die alle Excel-bestanden kunnen genereren, bewerken, converteren, weergeven en afdrukken. Het kan niet alleen converteren tussen spreadsheetformaten, maar ook Excel-bestanden weergeven als afbeeldingen (PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT) en meer, waardoor het een perfecte keuze is voor het uitwisselen van documenten in industriestandaardformaten.
  
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Sla XLS op naar JPG in PHP" %}}
+{{% blocks/products/pf/agp/content h2="Sla XLS op als JPG in PHP" %}}
 
-Het volgende voorbeeld laat zien hoe u XLS naar JPG in PHP converteert.
+Het volgende voorbeeld laat zien hoe je XLS naar JPG kunt converteren in PHP.
 {{% blocks/products/pf/agp/text %}}
 
 Volg de eenvoudige stappen om XLS naar JPG te converteren. Upload uw XLS-bestand en sla het vervolgens eenvoudig op als JPG-bestand. Voor zowel XLS lezen als JPG schrijven kunt u volledig gekwalificeerde bestandsnamen gebruiken. De uitvoer-JPG-inhoud en -opmaak zijn identiek aan het originele XLS-document.
@@ -27,20 +27,20 @@ Volg de eenvoudige stappen om XLS naar JPG te converteren. Upload uw XLS-bestand
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Voorbeeldcode om XLS naar JPG te converteren" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xls" outformat="jpg" IsLandingPage="true" language="phpjava" %}}
+{{% cells-convert title="Voorbeeldcode om XLS naar JPG te converteren" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="xls" outformat="jpg" IsLandingPage="true" language="phpjava" %}}
 
-{{% blocks/products/pf/agp/content h2="Hoe XLS naar JPG te converteren via PHP" %}}
+{{% blocks/products/pf/agp/content h2="Hoe converteer je XLS naar JPG met PHP?" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
-Wilt u XLS-bestanden programmatisch naar JPG converteren? PHP-ontwikkelaars kunnen XLS eenvoudig in slechts een paar regels code laden en converteren naar JPG.
+Moet je bestanden met de extensie XLS programmatisch naar JPG converteren? PHP-ontwikkelaars kunnen bestanden met de extensie XLS eenvoudig laden en converteren naar JPG met slechts een paar regels code.
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Installeer 'Aspose.Cells for PHP via Java'.
-1.  Voeg een bibliotheekreferentie toe (importeer de bibliotheek) aan uw PHP-project.
+1.  Voeg een bibliotheekreferentie (importeer de bibliotheek) toe aan je PHP-project.
 1.  Laad het bestand XLS met een exemplaar van Workbook.
-1. Converteer XLS naar JPG door de opslagmethode van Workbook aan te roepen.
+1.  Converteer XLS naar JPG door de save-methode van Workbook aan te roepen.
 1.  Verkrijg het conversieresultaat van XLS naar JPG.
 
 {{% /blocks/products/pf/agp/content %}}
@@ -63,7 +63,7 @@ Er zijn drie opties om "Aspose.Cells for PHP via Java" op uw systeem te installe
 
 {{% blocks/products/pf/agp/text %}}
 
-Aspose.Cells for PHP via Java is platformonafhankelijk API en kan worden gebruikt op elk platform (Windows, Linux, MacOS etc.) waarop PHP 7 of hogere versies zijn geïnstalleerd. De machine moet beschikken over versies van Oracle JDK 7 of hoger voordat u de installatie kunt instellen.
+ Aspose.Cells for PHP via Java is platformonafhankelijk en kan worden gebruikt op elk platform (Windows, Linux, MacOS, enz.) waarop PHP 7 of een latere versie is geïnstalleerd. De machine moet Oracle JDK 7 of een latere versie hebben voordat de installatie kan worden uitgevoerd.
  
 {{% /blocks/products/pf/agp/text %}}
 
@@ -72,7 +72,7 @@ Aspose.Cells for PHP via Java is platformonafhankelijk API en kan worden gebruik
 
 <!-- aboutfile Starts -->
     {{< blocks/products/pf/agp/about-file-section >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLS" readMoreLink="https://docs.fileformat.com/spreadsheet/xls/" >}}Bestanden met de extensie XLS vertegenwoordigen het binaire bestandsformaat van Excel. Dergelijke bestanden kunnen worden gemaakt door Microsoft Excel en andere soortgelijke spreadsheetprogramma's zoals OpenOffice Calc of Apple Numbers. Bestand dat door Excel wordt opgeslagen, staat bekend als Werkmap, waarbij elke werkmap een of meer werkbladen kan hebben. Gegevens worden opgeslagen en weergegeven aan gebruikers in tabelindeling op een werkblad en kunnen numerieke waarden, tekstgegevens, formules, externe gegevensverbindingen, afbeeldingen en grafieken omvatten. Met toepassingen zoals Microsoft Excel kunt u werkmapgegevens naar verschillende formaten exporteren, waaronder PDF, CSV, XLSX, TXT, HTML, XPS en verschillende andere. Het bestandsformaat XLS werd vervangen door een meer open en gestructureerd formaat, XLSX, met de release van Microsoft Excel 2007. De nieuwste versies bieden nog steeds ondersteuning voor het maken en lezen van XLS-bestanden, hoewel XLSX nu de eerste gebruikskeuze is.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLS" readMoreLink="https://docs.fileformat.com/spreadsheet/xls/" >}}Bestanden met de extensie XLS vertegenwoordigen het binaire bestandsformaat van Excel. Dergelijke bestanden kunnen worden gemaakt door Microsoft Excel en andere soortgelijke spreadsheetprogramma's zoals OpenOffice Calc of Apple Numbers. Bestand opgeslagen door Excel staat bekend als Werkmap, waarbij elke werkmap een of meer werkbladen kan hebben. Gegevens worden opgeslagen en weergegeven aan gebruikers in tabelindeling op een werkblad en kunnen numerieke waarden, tekstgegevens, formules, externe gegevensverbindingen, afbeeldingen en grafieken omvatten. Met toepassingen zoals Microsoft Excel kunt u werkmapgegevens naar verschillende formaten exporteren, waaronder PDF, CSV, XLSX, TXT, HTML, XPS en verschillende andere. Het bestandsformaat XLS werd vervangen door een meer open en gestructureerd formaat, XLSX, met de release van Microsoft Excel 2007. De nieuwste versies bieden nog steeds ondersteuning voor het maken en lezen van XLS-bestanden, hoewel XLSX nu de eerste gebruikskeuze is.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="JPG" readMoreLink="https://docs.fileformat.com/image/jpg/" >}}Een JPEG is een type afbeeldingsformaat dat wordt opgeslagen met behulp van de methode van compressie met verlies. Het uitvoerbeeld is, als gevolg van compressie, een afweging tussen opslaggrootte en beeldkwaliteit. Gebruikers kunnen het compressieniveau aanpassen om het gewenste kwaliteitsniveau te bereiken en tegelijkertijd de opslaggrootte te verkleinen. De beeldkwaliteit wordt verwaarloosbaar beïnvloed als er 10:1-compressie op de afbeelding wordt toegepast. Hoe hoger de compressiewaarde, hoe groter de verslechtering van de beeldkwaliteit.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
     {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->

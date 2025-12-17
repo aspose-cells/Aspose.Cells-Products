@@ -1,7 +1,7 @@
 ---
 title: Python MHTML a ET - MHTML a ET Convertitore
-description: Aspose Excel. Python Excel. Converti MHTML in ET in modo rapido e semplice con Aspose.Cells. Python MHTML in ET. Python Salva MHTML su ET. Salva MHTML come ET utilizzando la libreria Excel Python.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert MHTML to ET in Python Excel Library., Save MHTML to ET using Python Excel Library., Python MHTML to ET saveformat., MHTML to ET Converter., Python Save MHTML as ET]
+description: Aspose Excel. Questa soluzione completa fornisce agli sviluppatori Python un approccio completamente integrato per convertire MHTML in formato ET, consentendo il salvataggio senza interruzioni dei dati MHTML in formato ET utilizzando la libreria Aspose.Cells, il tutto tramite codice Python efficiente e personalizzabile.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart MHTML files to ET Converter for Python., Convert MHTML to ET in Python., MHTML files to ET Conversion in Python., Leverage intelligent data processing to automatically parse and save MHTML into ET format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Converti MHTML in ET nella libreria Excel Python" h2="Libreria Excel Python ad alta velocità per la conversione di MHTML in ET. Utilizza la nostra conversione Excel API per sviluppare software di alto livello indipendente dalla piattaforma in Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="ET" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -28,7 +28,7 @@ Segui i semplici passaggi per convertire MHTML in ET. Carica il tuo file MHTML, 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Codice di esempio per convertire MHTML in ET tramite la libreria Excel Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="mhtml" outformat="et" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Codice di esempio per convertire MHTML in ET tramite la libreria Excel Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="mhtml" outformat="et" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="Come convertire MHTML in ET" %}}
 
@@ -82,7 +82,7 @@ Aspose.Cells for Python tramite NET è indipendente dalla piattaforma API e può
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/mhtml-to-bmp/" name="dallo MHTML allo BMP" description="Immagine bitmap" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/mhtml-to-emf/" name="dallo MHTML allo EMF" description="Formato metafile avanzato" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/mhtml-to-gif/" name="dallo MHTML allo GIF" description="Formato di interscambio grafico" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/mhtml-to-html/" name="dallo MHTML allo HTML" description="Hyper Text Markup Language" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/mhtml-to-html/" name="dallo MHTML allo HTML" description="Linguaggio di markup ipertestuale" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/mhtml-to-md/" name="MHTML AL MD" description="Linguaggio di ribasso" >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/mhtml-to-ods/" name="dallo MHTML allo ODS" description="File di foglio di calcolo OpenDocument" >}}

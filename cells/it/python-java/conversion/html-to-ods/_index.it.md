@@ -1,7 +1,7 @@
 ---
 title: Python HTML a ODS - HTML a ODS Convertitore
-description: Aspose Excel. Python Excel. Converti HTML in ODS in modo rapido e semplice con Aspose.Cells. Python HTML in ODS. Python Salva HTML in ODS. Salva HTML come 076112 3481 utilizzando la Libreria Excel Python.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert HTML to ODS in Python Excel Library., Save HTML to ODS using Python Excel Library., Python HTML to ODS saveformat., HTML to ODS Converter., Python Save HTML as ODS]
+description: Aspose Excel. Questa soluzione completa fornisce agli sviluppatori Python un approccio completamente integrato per convertire il formato HTML nel formato ODS, consentendo il salvataggio senza interruzioni dei dati HTML nel formato ODS utilizzando la libreria Aspose.Cells, il tutto tramite codice Python efficiente e personalizzabile.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart HTML files to ODS Converter for Python., Convert HTML to ODS in Python., HTML files to ODS Conversion in Python., Leverage intelligent data processing to automatically parse and save HTML into ODS format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Converti HTML in ODS nella libreria Excel Python" h2="Libreria Excel Python ad alta velocità per convertire HTML in ODS. Si tratta di una soluzione software professionale per importare ed esportare HTML, ODS e molti altri formati utilizzando Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="ODS" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -27,7 +27,7 @@ Segui i semplici passaggi per convertire HTML in ODS. Carica il tuo file HTML, q
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Codice di esempio per convertire HTML in ODS tramite la libreria Excel Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="html" outformat="ods" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="Codice di esempio per convertire HTML in ODS tramite la libreria Excel Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="html" outformat="ods" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="Come convertire HTML in ODS tramite Python" %}}
 

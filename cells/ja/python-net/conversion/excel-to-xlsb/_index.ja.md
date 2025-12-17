@@ -1,7 +1,7 @@
 ---
 title: Python EXCEL から XLSB - EXCEL から XLSB へのコンバーター
-description: Aspose Excel。Python Excel。Aspose.Cells を使用して、EXCEL を XLSB にすばやく簡単に変換します。Python EXCEL を XLSB に変換します。Python EXCEL を XLSB に保存します。Python Excel ライブラリを使用して、EXCEL を XLSB として保存します。
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert EXCEL to XLSB in Python Excel Library., Save EXCEL to XLSB using Python Excel Library., Python EXCEL to XLSB saveformat., EXCEL to XLSB Converter., Python Save EXCEL as XLSB]
+description: Aspose Excel。この包括的なソリューションは、Python開発者に、EXCELをXLSB形式に変換するための完全に統合されたアプローチを提供し、効率的でカスタマイズ可能なPythonコードを通じて、Aspose.Cellsライブラリを使用してEXCELデータをXLSB形式にシームレスに保存することを可能にします。
+keywords: [Aspose Excel., Python Aspose.Cells., Smart EXCEL files to XLSB Converter for Python., Convert EXCEL to XLSB in Python., EXCEL files to XLSB Conversion in Python., Leverage intelligent data processing to automatically parse and save EXCEL into XLSB format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Python Excel ライブラリで EXCEL を XLSB に変換する" h2="EXCEL を XLSB に変換するための高速 Python Excel ライブラリ。Excel 変換 API を使用して、Python で高レベルのプラットフォームに依存しないソフトウェアを開発します。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSB" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -28,7 +28,7 @@ keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert E
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Python Excel ライブラリを使用して EXCEL を XLSB に変換するサンプル コード" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsx" outformat="xlsb" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Python Excel ライブラリを使用して EXCEL を XLSB に変換するサンプル コード" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="xlsx" outformat="xlsb" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="EXCEL を XLSB に変換する方法" %}}
 

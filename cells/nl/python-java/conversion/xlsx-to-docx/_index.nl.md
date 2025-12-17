@@ -1,7 +1,7 @@
 ---
 title: Python XLSX tot DOCX - XLSX tot DOCX Converter
-description: Aspose Excel. Python Excel. Converteer XLSX snel en eenvoudig naar DOCX met Aspose.Cells. Python XLSX naar DOCX. Python Bewaar XLSX naar DOCX. Bewaar XLSX als 076112 3481 met behulp van de Excel-bibliotheek Python.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert XLSX to DOCX in Python Excel Library., Save XLSX to DOCX using Python Excel Library., Python XLSX to DOCX saveformat., XLSX to DOCX Converter., Python Save XLSX as DOCX]
+description: Aspose Excel. Deze uitgebreide oplossing biedt ontwikkelaars een volledig geïntegreerde aanpak voor het converteren van gegevens van het formaat XLSX naar DOCX, waardoor naadloos opslaan van gegevens in het formaat XLSX mogelijk is met behulp van de bibliotheek Aspose.Cells, allemaal via efficiënte en aanpasbare code Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart XLSX files to DOCX Converter for Python., Convert XLSX to DOCX in Python., XLSX files to DOCX Conversion in Python., Leverage intelligent data processing to automatically parse and save XLSX into DOCX format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Converteer XLSX naar DOCX in de Excel-bibliotheek Python" h2="Snelle Python Excel-bibliotheek voor het converteren van XLSX naar DOCX. Dit is een professionele softwareoplossing voor het importeren en exporteren van XLSX, DOCX en vele andere formaten met behulp van Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="DOCX" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -27,7 +27,7 @@ Volg de eenvoudige stappen om XLSX naar DOCX te converteren. Upload uw XLSX-best
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Voorbeeldcode om XLSX naar DOCX te converteren via de Excel-bibliotheek Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsx" outformat="docx" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="Voorbeeldcode om XLSX naar DOCX te converteren via de Excel-bibliotheek Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="xlsx" outformat="docx" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="Hoe u XLSX naar DOCX kunt converteren via Python" %}}
 

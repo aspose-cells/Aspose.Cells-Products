@@ -1,7 +1,7 @@
 ---
 title: Java XLT naar SQL - XLT naar SQL-converter
-description: Aspose Excel. Converteer XLT snel en eenvoudig naar SQL met Aspose.Cells. Java XLT naar SQL. Java Sla XLT op in SQL. Sla XLT op als SQL met behulp van Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Convert XLT to SQL in Java., Save XLT to SQL using Java., Java XLT to SQL saveformat., XLT to SQL Converter., Java Save XLT as SQL]
+description: Aspose Excel. Deze uitgebreide oplossing biedt Java ontwikkelaars een volledig geïntegreerde aanpak om XLT naar SQL-formaat te converteren, waardoor naadloos opslaan van XLT gegevens in SQL-formaat mogelijk is met behulp van de Aspose.Cells bibliotheek, allemaal via efficiënte en aanpasbare Java code.
+keywords: [Aspose Excel., Java Aspose.Cells., Smart XLT files to SQL Converter for Java., Convert XLT to SQL in Java., XLT files to SQL Conversion in Java., Leverage intelligent data processing to automatically parse and save XLT into SQL format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Converteer XLT naar SQL in Java" h2="Snelle Java-bibliotheek voor het converteren van XLT naar SQL. Dit is een professionele softwareoplossing voor het importeren en exporteren van XLT, SQL en vele andere formaten met behulp van Java." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="SQL" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="CSV" >}}
@@ -47,7 +47,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Convert XLT to SQL in Java., Save 
 
 {{% blocks/products/pf/agp/content h2="Sla XLT op in SQL in Java" %}}
 
-In het volgende voorbeeld ziet u hoe u XLT naar SQL converteert in Java.
+Het volgende voorbeeld laat zien hoe je XLT naar SQL kunt converteren in Java.
 {{% blocks/products/pf/agp/text %}}
 
 Volg de eenvoudige stappen om XLT naar SQL te converteren. Upload uw XLT-bestand en sla het vervolgens eenvoudig op als SQL-bestand. Voor zowel XLT-lezen als SQL-schrijven kunt u volledig gekwalificeerde bestandsnamen gebruiken. De uitvoer-SQL-inhoud en -opmaak zijn identiek aan het originele XLT-document.
@@ -56,19 +56,19 @@ Volg de eenvoudige stappen om XLT naar SQL te converteren. Upload uw XLT-bestand
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Voorbeeldcode om XLT naar SQL te converteren" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlt" outformat="sql" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Voorbeeldcode om XLT naar SQL te converteren" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="xlt" outformat="sql" IsLandingPage="true" language="java" %}}
 
-{{% blocks/products/pf/agp/content h2="Hoe XLT naar SQL via Java te converteren" %}}
+{{% blocks/products/pf/agp/content h2="Hoe converteer ik XLT naar SQL via Java?" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
-Wilt u XLT-bestanden programmatisch naar SQL converteren? Java-ontwikkelaars kunnen XLT eenvoudig met slechts een paar regels code naar SQL converteren.
+Moet u bestanden met de extensie XLT programmatisch naar SQL converteren? Ontwikkelaars van Java kunnen bestanden met de extensie XLT eenvoudig in een paar regels code naar SQL converteren.
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Installeer 'Aspose.Cells for Java'.
 1.  Voeg een bibliotheekreferentie toe (importeer de bibliotheek) aan uw Java-project.
-1. Laad bestand XLT met een exemplaar van de klasse Workbook.
+1.  Laad bestand XLT met een instantie van de klasse Workbook.
 1.  Converteer XLT naar SQL door de Workbook.save-methode aan te roepen.
 1.  Haal het conversieresultaat van XLT naar SQL op.
 

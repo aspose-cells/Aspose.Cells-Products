@@ -1,7 +1,7 @@
 ---
 title: Java XML in PPTX - XML in PPTX Convertitore
-description: Aspose Excel. Converti XML in PPTX in modo rapido e semplice con Aspose.Cells. Java XML in PPTX. Java Salva XML in PPTX. Salva XML come PPTX utilizzando Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Convert XML to PPTX in Java., Save XML to PPTX using Java., Java XML to PPTX saveformat., XML to PPTX Converter., Java Save XML as PPTX]
+description: Aspose Excel. Questa soluzione completa fornisce agli sviluppatori Java un approccio completamente integrato per convertire XML nel formato PPTX, consentendo il salvataggio senza interruzioni dei dati XML nel formato PPTX utilizzando la libreria Aspose.Cells, il tutto tramite codice Java efficiente e personalizzabile.
+keywords: [Aspose Excel., Java Aspose.Cells., Smart XML files to PPTX Converter for Java., Convert XML to PPTX in Java., XML files to PPTX Conversion in Java., Leverage intelligent data processing to automatically parse and save XML into PPTX format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Converti XML in PPTX in Java" h2="Libreria Java ad alta velocità per convertire XML in PPTX. Si tratta di una soluzione software professionale per importare ed esportare XML, PPTX e molti altri formati utilizzando Java." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="PPTX" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="CSV" >}}
@@ -56,17 +56,17 @@ Segui i semplici passaggi per convertire XML in PPTX. Carica il tuo file XML, qu
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Codice di esempio per convertire XML in PPTX" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xml" outformat="pptx" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Codice di esempio per convertire XML in PPTX" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="xml" outformat="pptx" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="Come convertire XML in PPTX via Java" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
-È necessario convertire i file XML in PPTX a livello di codice? Gli sviluppatori Java possono convertire facilmente XML in PPTX in poche righe di codice.
+Hai bisogno di convertire i file XML in PPTX tramite codice? Gli sviluppatori che usano Java possono convertire facilmente XML in PPTX in poche righe di codice.
 
 {{% /blocks/products/pf/agp/text %}}
 
-1.  Installa 'Aspose.Cells for Java'.
+1.  Installare 'Aspose.Cells for Java'.
 1.  Aggiungi un riferimento di libreria (importa la libreria) al tuo progetto Java.
 1.  Carica il file XML con un'istanza della classe Workbook.
 1.  Converti XML in PPTX chiamando il metodo Workbook.save.
@@ -98,36 +98,36 @@ Segui i semplici passaggi per convertire XML in PPTX. Carica il tuo file XML, qu
 <!-- aboutfile Starts -->
     {{< blocks/products/pf/agp/about-file-section >}}
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XML" readMoreLink="https://docs.fileformat.com/web/xml/" >}}XML sta per Extensible Markup Language che è simile a HTML ma diverso nell'utilizzo dei tag per la definizione degli oggetti. L'idea alla base della creazione del formato file XML era quella di archiviare e trasportare dati senza dipendere da strumenti software o hardware. La sua popolarità è dovuta al fatto che è leggibile sia dall'uomo che dalla macchina. Ciò gli consente di creare protocolli di dati comuni sotto forma di oggetti da archiviare e condividere su reti come il World Wide Web (WWW). La "X" in XML sta per estensibile, il che implica che il linguaggio può essere esteso a qualsiasi numero di simboli secondo i requisiti dell'utente. È per queste funzionalità che molti formati di file standard lo utilizzano come Microsoft Open XML, LibreOffice OpenDocument, XHTML e SVG.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="PPTX" readMoreLink="https://docs.fileformat.com/presentation/pptx/" >}}I file con estensione PPTX sono file di presentazione creati con la popolare applicazione Microsoft PowerPoint. A differenza della versione precedente del formato file di presentazione PPT che era binario, il formato PPTX si basa sul formato file di presentazione XML aperto Microsoft PowerPoint. Un file di presentazione è una raccolta di diapositive in cui ciascuna diapositiva può comprendere testo, immagini, formattazione, animazioni e altri media. Queste diapositive vengono presentate al pubblico sotto forma di presentazioni con impostazioni di presentazione personalizzate.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="PPTX" readMoreLink="https://docs.fileformat.com/presentation/pptx/" >}}file con estensione PPTX sono file di presentazione creati con la popolare applicazione Microsoft PowerPoint. A differenza della versione precedente del formato file di presentazione PPT che era binario, il formato PPTX si basa sul formato file di presentazione XML aperto Microsoft PowerPoint. Un file di presentazione è una raccolta di diapositive in cui ciascuna diapositiva può comprendere testo, immagini, formattazione, animazioni e altri media. Queste diapositive vengono presentate al pubblico sotto forma di presentazioni con impostazioni di presentazione personalizzate.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
     {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Altre conversioni supportate" subTitle="Puoi anche convertire XML in molti altri formati di file, inclusi alcuni elencati di seguito." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/xml-to-bmp/" name="XML TO BMP" description="Immagine bitmap" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/xml-to-emf/" name="XML TO EMF" description="Formato metafile avanzato" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/xml-to-gif/" name="XML TO GIF" description="Formato di interscambio grafico" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/xml-to-html/" name="XML TO HTML" description="Hyper Text Markup Language" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/xml-to-bmp/" name="XML A BMP" description="Immagine bitmap" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/xml-to-emf/" name="XML A EMF" description="Formato metafile avanzato" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/xml-to-gif/" name="XML A GIF" description="Formato di interscambio grafico" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/xml-to-html/" name="XML A HTML" description="Linguaggio di markup ipertestuale" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/xml-to-md/" name="XML IN MD" description="Linguaggio di ribasso" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/xml-to-mhtml/" name="XML TO MHTML" description="Formato di archivio delle pagine Web" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/xml-to-ods/" name="XML TO ODS" description="File di foglio di calcolo OpenDocument" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/xml-to-pdf/" name="XML TO PDF" description="Formato documento portatile" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/xml-to-png/" name="XML TO PNG" description="Grafica di rete portatile" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/xml-to-svg/" name="XML TO SVG" description="Grafica vettoriale scalabile" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/xml-to-tiff/" name="XML TO TIFF" description="Formato immagine contrassegnato" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/xml-to-tsv/" name="XML TO TSV" description="Valori separati da tabulazioni" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/xml-to-txt/" name="XML TO TXT" description="Documento di testo" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/xml-to-xls/" name="XML TO XLS" description="Formato binario Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/xml-to-xlsb/" name="XML TO XLSB" description="File binario della cartella di lavoro Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/xml-to-xlsm/" name="XML TO XLSM" description="File di foglio di calcolo" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/xml-to-xlsx/" name="XML TO XLSX" description="File Excel OOXML" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/xml-to-xlt/" name="XML TO XLT" description="Microsoft Modello Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/xml-to-xltm/" name="XML TO XLTM" description="Modello con attivazione macro di Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/xml-to-xltx/" name="XML TO XLTX" description="Modello Excel OpenXML di Office" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/xml-to-mhtml/" name="XML A MHTML" description="Formato di archivio delle pagine Web" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/xml-to-ods/" name="XML A ODS" description="File di foglio di calcolo OpenDocument" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/xml-to-pdf/" name="XML A PDF" description="Formato documento portatile" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/xml-to-png/" name="XML A PNG" description="Grafica di rete portatile" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/xml-to-svg/" name="XML A SVG" description="Grafica vettoriale scalabile" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/xml-to-tiff/" name="XML A TIFF" description="Formato immagine contrassegnato" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/xml-to-tsv/" name="XML A TSV" description="Valori separati da tabulazioni" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/xml-to-txt/" name="XML A TXT" description="Documento di testo" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/xml-to-xls/" name="XML A XLS" description="Formato binario Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/xml-to-xlsb/" name="XML A XLSB" description="File binario della cartella di lavoro Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/xml-to-xlsm/" name="XML A XLSM" description="File di foglio di calcolo" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/xml-to-xlsx/" name="XML A XLSX" description="File Excel OOXML" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/xml-to-xlt/" name="XML A XLT" description="Microsoft Modello Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/xml-to-xltm/" name="XML A XLTM" description="Modello con attivazione macro di Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/xml-to-xltx/" name="XML A XLTX" description="Modello Excel OpenXML di Office" >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/xml-to-xps/" name="XML TO XPS" description="Specifiche della carta XML" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/xml-to-json/" name="XML TO JSON" description="Notazione oggetto JavaScript" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/xml-to-jpeg/" name="XML TO JPEG" description="JPEG Immagine" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/xml-to-xps/" name="XML A XPS" description="Specifiche della carta XML" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/xml-to-json/" name="XML A JSON" description="Notazione oggetto JavaScript" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/xml-to-jpeg/" name="XML A JPEG" description="JPEG Immagine" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

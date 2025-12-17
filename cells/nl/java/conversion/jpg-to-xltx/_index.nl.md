@@ -1,7 +1,7 @@
 ---
 title: Java JPG naar XLTX - JPG naar XLTX Converter
-description: Aspose Excel. Converteer JPG snel en eenvoudig naar XLTX met Aspose.Cells. Java JPG naar XLTX. Java Sla JPG op naar XLTX. Sla JPG op als XLTX met Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Convert JPG to XLTX in Java., Save JPG to XLTX using Java., Java JPG to XLTX saveformat., JPG to XLTX Converter., Java Save JPG as XLTX]
+description: Aspose Excel. Deze uitgebreide oplossing biedt Java ontwikkelaars een volledig geïntegreerde aanpak voor het converteren van JPG naar XLTX-formaat, waardoor naadloos opslaan van JPG-gegevens in XLTX-formaat mogelijk is met behulp van de Aspose.Cells-bibliotheek, allemaal via efficiënte en aanpasbare Java-code.
+keywords: [Aspose Excel., Java Aspose.Cells., Smart JPG files to XLTX Converter for Java., Convert JPG to XLTX in Java., JPG files to XLTX Conversion in Java., Leverage intelligent data processing to automatically parse and save JPG into XLTX format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Converteer JPG naar XLTX in Java" h2="Snelle Java-bibliotheek voor het converteren van JPG naar XLTX. Dit is een professionele softwareoplossing voor het importeren en exporteren van JPG, XLTX en vele andere formaten met behulp van Java." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLTX" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="CSV" >}}
@@ -45,9 +45,9 @@ keywords: [Aspose Excel., Java Aspose.Cells., Convert JPG to XLTX in Java., Save
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Sla JPG op naar XLTX in Java" %}}
+{{% blocks/products/pf/agp/content h2="Sla JPG op als XLTX in Java" %}}
 
-Het volgende voorbeeld laat zien hoe u JPG converteert naar XLTX in Java.
+Het volgende voorbeeld laat zien hoe je een JPG-bestand naar XLTX in Java kunt converteren.
 {{% blocks/products/pf/agp/text %}}
 
 Volg de eenvoudige stappen om JPG naar XLTX te converteren. Upload uw JPG-bestand en sla het vervolgens eenvoudig op als XLTX-bestand. Voor zowel JPG-lezen als XLTX-schrijven kunt u volledig gekwalificeerde bestandsnamen gebruiken. De inhoud en opmaak van de uitvoer XLTX zullen identiek zijn aan het originele JPG-document.
@@ -56,19 +56,19 @@ Volg de eenvoudige stappen om JPG naar XLTX te converteren. Upload uw JPG-bestan
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Voorbeeldcode om JPG naar XLTX te converteren" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="jpg" outformat="xltx" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Voorbeeldcode om JPG naar XLTX te converteren" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="jpg" outformat="xltx" IsLandingPage="true" language="java" %}}
 
-{{% blocks/products/pf/agp/content h2="Hoe JPG naar XLTX via Java te converteren" %}}
+{{% blocks/products/pf/agp/content h2="Hoe converteer je een JPG-bestand naar XLTX via Java?" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
-Wilt u JPG-bestanden programmatisch naar XLTX converteren? Java-ontwikkelaars kunnen JPG eenvoudig met slechts een paar regels code naar XLTX converteren.
+Moet je JPG-bestanden programmatisch converteren naar XLTX? Ontwikkelaars kunnen JPG-bestanden eenvoudig converteren naar XLTX met slechts een paar regels code.
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Installeer 'Aspose.Cells for Java'.
 1.  Voeg een bibliotheekreferentie toe (importeer de bibliotheek) aan uw Java-project.
-1.  Laad een JPG-bestand met een exemplaar van de Workbook-klasse.
+1.  Laad een JPG-bestand met een instantie van de Workbook-klasse.
 1.  Converteer JPG naar XLTX door de Workbook.save-methode aan te roepen.
 1.  Verkrijg het conversieresultaat van JPG naar XLTX.
 

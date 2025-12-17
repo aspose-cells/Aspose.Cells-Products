@@ -1,7 +1,7 @@
 ---
 title: Java PNG tot XLS - PNG tot XLS Converter
-description: Aspose Excel. Converteer PNG snel en eenvoudig naar XLS met Aspose.Cells. Java PNG naar XLS. Java Bewaar PNG in XLS. Bewaar PNG als 07611134 81 via Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Convert PNG to XLS in Java., Save PNG to XLS using Java., Java PNG to XLS saveformat., PNG to XLS Converter., Java Save PNG as XLS]
+description: Aspose Excel. Deze uitgebreide oplossing biedt ontwikkelaars een volledig geïntegreerde aanpak voor het converteren van gegevens van het formaat PNG naar XLS, waardoor naadloos opslaan van gegevens in het formaat PNG mogelijk is met behulp van de bibliotheek Aspose.Cells, allemaal via efficiënte en aanpasbare code Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Smart PNG files to XLS Converter for Java., Convert PNG to XLS in Java., PNG files to XLS Conversion in Java., Leverage intelligent data processing to automatically parse and save PNG into XLS format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Converteer PNG naar XLS in Java" h2="Snelle Java-bibliotheek voor het converteren van PNG naar XLS. Dit is een professionele softwareoplossing voor het importeren en exporteren van PNG, XLS en vele andere formaten met behulp van Java." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLS" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Convert PNG to XLS in Java., Save 
 
 {{% blocks/products/pf/agp/content h2="Converteer PNG naar XLS met behulp van Java" %}}
 
-Hoe converteer ik PNG naar XLS? Met de bibliotheek Aspose.Cells for Java kunt u PNG eenvoudig programmatisch naar XLS converteren met een paar regels code.[Aspose.Cells for Java](https://products.aspose.com/cells/java)is in staat om platformonafhankelijke applicaties te bouwen met de mogelijkheid om alle Excel-bestanden te genereren, wijzigen, converteren, renderen en afdrukken. Java Excel API converteert niet alleen tussen spreadsheetformaten, het kan ook Excel-bestanden weergeven als afbeeldingen, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT en meer, waardoor het een perfecte keuze is om documenten uit te wisselen in industriestandaardformaten. U kunt de nieuwste versie rechtstreeks downloaden van[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) en installeer het binnen uw op Maven gebaseerde project door de volgende configuraties toe te voegen aan pom.xml.
+ Hoe converteer ik PNG naar XLS? Met de bibliotheek Aspose.Cells for Java kunt u PNG eenvoudig programmatisch naar XLS converteren met een paar regels code.[Aspose.Cells for Java](https://products.aspose.com/cells/java)is in staat om platformonafhankelijke applicaties te bouwen met de mogelijkheid om alle Excel-bestanden te genereren, wijzigen, converteren, renderen en afdrukken. Java Excel API converteert niet alleen tussen spreadsheetformaten, het kan ook Excel-bestanden weergeven als afbeeldingen, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT en meer, waardoor het een perfecte keuze is om documenten uit te wisselen in industriestandaardformaten. U kunt de nieuwste versie rechtstreeks downloaden van[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) en installeer het binnen uw op Maven gebaseerde project door de volgende configuraties toe te voegen aan pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Opslagplaats" offSpacer="true" %}}
 
@@ -45,9 +45,9 @@ Hoe converteer ik PNG naar XLS? Met de bibliotheek Aspose.Cells for Java kunt u 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Bewaar PNG t/m XLS in Java" %}}
+{{% blocks/products/pf/agp/content h2="Sla PNG op in XLS in Java" %}}
 
-Het volgende voorbeeld laat zien hoe u PNG converteert naar XLS in Java.
+Het volgende voorbeeld laat zien hoe je PNG omzet naar XLS in Java.
 {{% blocks/products/pf/agp/text %}}
 
 Volg de eenvoudige stappen om PNG naar XLS te converteren. Upload uw PNG-bestand en sla het vervolgens eenvoudig op als XLS-bestand. Voor zowel PNG lezen als XLS schrijven kunt u volledig gekwalificeerde bestandsnamen gebruiken. De inhoud en opmaak van de uitvoer XLS zullen identiek zijn aan het originele document PNG.
@@ -56,19 +56,19 @@ Volg de eenvoudige stappen om PNG naar XLS te converteren. Upload uw PNG-bestand
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Voorbeeldcode om PNG naar XLS te converteren" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="png" outformat="xls" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Voorbeeldcode om PNG naar XLS te converteren" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="png" outformat="xls" IsLandingPage="true" language="java" %}}
 
-{{% blocks/products/pf/agp/content h2="Hoe PNG naar XLS via Java te converteren" %}}
+{{% blocks/products/pf/agp/content h2="Hoe zet ik PNG om naar XLS of via Java?" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
-Wilt u PNG-bestanden programmatisch naar XLS converteren? Java-ontwikkelaars kunnen PNG eenvoudig in slechts een paar regels code naar XLS converteren.
+Moet je bestanden met de extensie PNG programmatisch converteren naar XLS? Ontwikkelaars van Java kunnen bestanden met de extensie PNG eenvoudig converteren naar XLS met slechts een paar regels code.
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Installeer 'Aspose.Cells for Java'.
 1.  Voeg een bibliotheekreferentie toe (importeer de bibliotheek) aan uw Java-project.
-1. Laad bestand PNG met een exemplaar van de klasse Workbook.
+1.  Laad bestand PNG met een instantie van de klasse Workbook.
 1.  Converteer PNG naar XLS door de Workbook.save-methode aan te roepen.
 1.  Verkrijg het conversieresultaat van PNG naar XLS.
 
@@ -98,7 +98,7 @@ Wilt u PNG-bestanden programmatisch naar XLS converteren? Java-ontwikkelaars kun
 <!-- aboutfile Starts -->
     {{< blocks/products/pf/agp/about-file-section >}}
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="PNG" readMoreLink="https://docs.fileformat.com/image/png/" >}}Een PNG-bestand (Portable Network Graphics) is een rasterafbeeldingsbestandsindeling die gebruik maakt van verliesvrije compressie. Dit bestandsformaat is gemaakt ter vervanging van Graphics Interchange Format (GIF) en kent geen auteursrechtelijke beperkingen. Het bestandsformaat PNG ondersteunt echter geen animaties. Het bestandsformaat PNG ondersteunt verliesloze beeldcompressie, waardoor het populair is onder zijn gebruikers. Met het verstrijken van de tijd is PNG geëvolueerd als een van de meest gebruikte afbeeldingsbestandsformaten.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLS" readMoreLink="https://docs.fileformat.com/spreadsheet/xls/" >}}Bestanden met de extensie XLS vertegenwoordigen het binaire bestandsformaat van Excel. Dergelijke bestanden kunnen worden gemaakt door Microsoft Excel en andere soortgelijke spreadsheetprogramma's zoals OpenOffice Calc of Apple Numbers. Bestand dat door Excel wordt opgeslagen, staat bekend als Werkmap, waarbij elke werkmap een of meer werkbladen kan hebben. Gegevens worden opgeslagen en weergegeven aan gebruikers in tabelindeling op een werkblad en kunnen numerieke waarden, tekstgegevens, formules, externe gegevensverbindingen, afbeeldingen en grafieken omvatten. Met toepassingen zoals Microsoft Excel kunt u werkmapgegevens naar verschillende formaten exporteren, waaronder PDF, CSV, XLSX, TXT, HTML, XPS en verschillende andere. Het bestandsformaat XLS werd vervangen door een meer open en gestructureerd formaat, XLSX, met de release van Microsoft Excel 2007. De nieuwste versies bieden nog steeds ondersteuning voor het maken en lezen van XLS-bestanden, hoewel XLSX nu de eerste gebruikskeuze is.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLS" readMoreLink="https://docs.fileformat.com/spreadsheet/xls/" >}}Bestanden met de extensie XLS vertegenwoordigen het binaire bestandsformaat van Excel. Dergelijke bestanden kunnen worden gemaakt door Microsoft Excel en andere soortgelijke spreadsheetprogramma's zoals OpenOffice Calc of Apple Numbers. Bestand opgeslagen door Excel staat bekend als Werkmap, waarbij elke werkmap een of meer werkbladen kan hebben. Gegevens worden opgeslagen en weergegeven aan gebruikers in tabelindeling op een werkblad en kunnen numerieke waarden, tekstgegevens, formules, externe gegevensverbindingen, afbeeldingen en grafieken omvatten. Met toepassingen zoals Microsoft Excel kunt u werkmapgegevens naar verschillende formaten exporteren, waaronder PDF, CSV, XLSX, TXT, HTML, XPS en verschillende andere. Het bestandsformaat XLS werd vervangen door een meer open en gestructureerd formaat, XLSX, met de release van Microsoft Excel 2007. De nieuwste versies bieden nog steeds ondersteuning voor het maken en lezen van XLS-bestanden, hoewel XLSX nu de eerste gebruikskeuze is.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
     {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->
 

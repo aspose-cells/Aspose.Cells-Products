@@ -1,7 +1,7 @@
 ---
 title: Python IMAGE から OTS - IMAGE から OTS へのコンバーター
-description: Aspose Excel。Python Excel。Aspose.Cells を使用して、IMAGE を OTS にすばやく簡単に変換します。Python IMAGE を OTS に変換します。Python IMAGE を OTS に保存します。Python Excel ライブラリを使用して、IMAGE を OTS として保存します。
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert IMAGE to OTS in Python Excel Library., Save IMAGE to OTS using Python Excel Library., Python IMAGE to OTS saveformat., IMAGE to OTS Converter., Python Save IMAGE as OTS]
+description: Aspose Excel。この包括的なソリューションは、Python 開発者に、IMAGE データを OTS 形式に変換するための完全に統合されたアプローチを提供し、Aspose.Cells ライブラリを使用して IMAGE データを OTS 形式にシームレスに保存することを可能にします。これらはすべて、効率的でカスタマイズ可能な Python コードを通じて行われます。
+keywords: [Aspose Excel., Python Aspose.Cells., Smart IMAGE files to OTS Converter for Python., Convert IMAGE to OTS in Python., IMAGE files to OTS Conversion in Python., Leverage intelligent data processing to automatically parse and save IMAGE into OTS format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Python Excel ライブラリで IMAGE を OTS に変換する" h2="IMAGE を OTS に変換するための高速 Python Excel ライブラリ。Excel 変換 API を使用して、Python で高レベルのプラットフォームに依存しないソフトウェアを開発します。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="OTS" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -28,7 +28,7 @@ IMAGE を OTS に変換するには、簡単な手順に従ってください。
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Python Excel ライブラリを使用して IMAGE を OTS に変換するサンプル コード" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="png" outformat="ots" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Python Excel ライブラリを使用して IMAGE を OTS に変換するサンプル コード" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="png" outformat="ots" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="画像をOTSに変換する方法" %}}
 

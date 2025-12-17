@@ -1,7 +1,7 @@
 ---
 title: Python HTM naar CSV - HTM naar CSV Omvormer
-description: Aspose Excel. Python Excel. Converteer HTM snel en eenvoudig naar CSV met Aspose.Cells. Python HTM naar CSV. Python Bewaar HTM naar CSV. Sla HTM op als CSV met behulp van de Excel-bibliotheek Python.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert HTM to CSV in Python Excel Library., Save HTM to CSV using Python Excel Library., Python HTM to CSV saveformat., HTM to CSV Converter., Python Save HTM as CSV]
+description: Aspose Excel. Deze complete oplossing biedt ontwikkelaars een volledig geïntegreerde aanpak voor het converteren van HTML naar het formaat CSV, waardoor HTML-gegevens naadloos kunnen worden opgeslagen in het formaat CSV met behulp van de bibliotheek Aspose.Cells, en dat alles via efficiënte en aanpasbare code Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart HTM files to CSV Converter for Python., Convert HTM to CSV in Python., HTM files to CSV Conversion in Python., Leverage intelligent data processing to automatically parse and save HTM into CSV format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Converteer HTM naar CSV in de Excel-bibliotheek Python" h2="Snelle Python Excel-bibliotheek voor het converteren van HTM naar CSV. Gebruik onze Excel-conversie API om platformonafhankelijke software op hoog niveau te ontwikkelen in Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="CSV" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -28,7 +28,7 @@ Volg de eenvoudige stappen om HTM naar CSV te converteren. Upload uw HTM-bestand
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Voorbeeldcode om HTM naar CSV te converteren via de Excel-bibliotheek Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="htm" outformat="csv" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Voorbeeldcode om HTM naar CSV te converteren via de Excel-bibliotheek Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="htm" outformat="csv" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="HTM converteren naar CSV" %}}
 

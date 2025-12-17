@@ -1,7 +1,7 @@
 ---
 title: Java XLT tot DIF - XLT tot DIF Converter
-description: Aspose Excel. Converteer XLT snel en eenvoudig naar DIF met Aspose.Cells. Java XLT naar DIF. Java Bewaar XLT in DIF. Bewaar XLT als 07611134 81 via Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Convert XLT to DIF in Java., Save XLT to DIF using Java., Java XLT to DIF saveformat., XLT to DIF Converter., Java Save XLT as DIF]
+description: Aspose Excel. Deze uitgebreide oplossing biedt ontwikkelaars een volledig geïntegreerde aanpak voor het converteren van gegevens van het formaat XLT naar DIF, waardoor naadloos opslaan van gegevens in het formaat XLT mogelijk is met behulp van de bibliotheek Aspose.Cells, allemaal via efficiënte en aanpasbare code Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Smart XLT files to DIF Converter for Java., Convert XLT to DIF in Java., XLT files to DIF Conversion in Java., Leverage intelligent data processing to automatically parse and save XLT into DIF format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Converteer XLT naar DIF in Java" h2="Snelle Java-bibliotheek voor het converteren van XLT naar DIF. Dit is een professionele softwareoplossing voor het importeren en exporteren van XLT, DIF en vele andere formaten met behulp van Java." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="DIF" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Convert XLT to DIF in Java., Save 
 
 {{% blocks/products/pf/agp/content h2="Converteer XLT naar DIF met behulp van Java" %}}
 
-Hoe converteer ik XLT naar DIF? Met de bibliotheek Aspose.Cells for Java kunt u XLT eenvoudig programmatisch naar DIF converteren met een paar regels code.[Aspose.Cells for Java](https://products.aspose.com/cells/java)is in staat om platformonafhankelijke applicaties te bouwen met de mogelijkheid om alle Excel-bestanden te genereren, wijzigen, converteren, renderen en afdrukken. Java Excel API converteert niet alleen tussen spreadsheetformaten, het kan ook Excel-bestanden weergeven als afbeeldingen, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT en meer, waardoor het een perfecte keuze is om documenten uit te wisselen in industriestandaardformaten. U kunt de nieuwste versie rechtstreeks downloaden van[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) en installeer het binnen uw op Maven gebaseerde project door de volgende configuraties toe te voegen aan pom.xml.
+ Hoe converteer ik XLT naar DIF? Met de bibliotheek Aspose.Cells for Java kunt u XLT eenvoudig programmatisch naar DIF converteren met een paar regels code.[Aspose.Cells for Java](https://products.aspose.com/cells/java)is in staat om platformonafhankelijke applicaties te bouwen met de mogelijkheid om alle Excel-bestanden te genereren, wijzigen, converteren, renderen en afdrukken. Java Excel API converteert niet alleen tussen spreadsheetformaten, het kan ook Excel-bestanden weergeven als afbeeldingen, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT en meer, waardoor het een perfecte keuze is om documenten uit te wisselen in industriestandaardformaten. U kunt de nieuwste versie rechtstreeks downloaden van[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) en installeer het binnen uw op Maven gebaseerde project door de volgende configuraties toe te voegen aan pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Opslagplaats" offSpacer="true" %}}
 
@@ -45,9 +45,9 @@ Hoe converteer ik XLT naar DIF? Met de bibliotheek Aspose.Cells for Java kunt u 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Bewaar XLT t/m DIF in Java" %}}
+{{% blocks/products/pf/agp/content h2="Sla XLT op in DIF in Java" %}}
 
-Het volgende voorbeeld laat zien hoe u XLT converteert naar DIF in Java.
+Het volgende voorbeeld laat zien hoe je XLT omzet naar DIF in Java.
 {{% blocks/products/pf/agp/text %}}
 
 Volg de eenvoudige stappen om XLT naar DIF te converteren. Upload uw XLT-bestand en sla het vervolgens eenvoudig op als DIF-bestand. Voor zowel XLT lezen als DIF schrijven kunt u volledig gekwalificeerde bestandsnamen gebruiken. De inhoud en opmaak van de uitvoer DIF zullen identiek zijn aan het originele document XLT.
@@ -56,19 +56,19 @@ Volg de eenvoudige stappen om XLT naar DIF te converteren. Upload uw XLT-bestand
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Voorbeeldcode om XLT naar DIF te converteren" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlt" outformat="dif" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Voorbeeldcode om XLT naar DIF te converteren" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="xlt" outformat="dif" IsLandingPage="true" language="java" %}}
 
-{{% blocks/products/pf/agp/content h2="Hoe XLT naar DIF via Java te converteren" %}}
+{{% blocks/products/pf/agp/content h2="Hoe zet ik XLT om naar DIF of via Java?" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
-Wilt u XLT-bestanden programmatisch naar DIF converteren? Java-ontwikkelaars kunnen XLT eenvoudig in slechts een paar regels code naar DIF converteren.
+Moet je bestanden met de extensie XLT programmatisch converteren naar DIF? Ontwikkelaars van Java kunnen bestanden met de extensie XLT eenvoudig converteren naar DIF met slechts een paar regels code.
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Installeer 'Aspose.Cells for Java'.
 1.  Voeg een bibliotheekreferentie toe (importeer de bibliotheek) aan uw Java-project.
-1. Laad bestand XLT met een exemplaar van de klasse Workbook.
+1.  Laad bestand XLT met een instantie van de klasse Workbook.
 1.  Converteer XLT naar DIF door de Workbook.save-methode aan te roepen.
 1.  Verkrijg het conversieresultaat van XLT naar DIF.
 

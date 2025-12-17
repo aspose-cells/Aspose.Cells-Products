@@ -1,7 +1,7 @@
 ---
 title: Python ODS tot TIFF - ODS tot TIFF Converter
-description: Aspose Excel. Python Excel. Converteer ODS snel en eenvoudig naar TIFF met Aspose.Cells. Python ODS naar TIFF. Python Bewaar ODS naar TIFF. Bewaar ODS als 076112 3481 met behulp van de Excel-bibliotheek Python.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert ODS to TIFF in Python Excel Library., Save ODS to TIFF using Python Excel Library., Python ODS to TIFF saveformat., ODS to TIFF Converter., Python Save ODS as TIFF]
+description: Aspose Excel. Deze uitgebreide oplossing biedt ontwikkelaars een volledig geïntegreerde aanpak voor het converteren van gegevens van het formaat ODS naar TIFF, waardoor naadloos opslaan van gegevens in het formaat ODS mogelijk is met behulp van de bibliotheek Aspose.Cells, allemaal via efficiënte en aanpasbare code Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart ODS files to TIFF Converter for Python., Convert ODS to TIFF in Python., ODS files to TIFF Conversion in Python., Leverage intelligent data processing to automatically parse and save ODS into TIFF format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Converteer ODS naar TIFF in de Excel-bibliotheek Python" h2="Snelle Python Excel-bibliotheek voor het converteren van ODS naar TIFF. Gebruik onze Excel-conversie API om platformonafhankelijke software op hoog niveau te ontwikkelen in Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="TIFF" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -28,7 +28,7 @@ Volg de eenvoudige stappen om ODS naar TIFF te converteren. Upload uw ODS-bestan
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Voorbeeldcode om ODS naar TIFF te converteren via de Excel-bibliotheek Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="ods" outformat="tiff" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Voorbeeldcode om ODS naar TIFF te converteren via de Excel-bibliotheek Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="ods" outformat="tiff" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="Hoe ODS naar TIFF te converteren" %}}
 

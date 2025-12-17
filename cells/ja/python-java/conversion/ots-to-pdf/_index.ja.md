@@ -1,7 +1,7 @@
 ---
 title: Python OTS から PDF - OTS から PDF へのコンバーター
-description: Aspose Excel。Python Excel。Aspose.Cells を使用して、OTS を PDF にすばやく簡単に変換します。Python OTS を PDF に変換します。Python OTS を PDF に保存します。Python Excel ライブラリを使用して、OTS を PDF として保存します。
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert OTS to PDF in Python Excel Library., Save OTS to PDF using Python Excel Library., Python OTS to PDF saveformat., OTS to PDF Converter., Python Save OTS as PDF]
+description: Aspose Excel。この包括的なソリューションは、Python開発者にOTSをPDF形式に変換するための完全に統合されたアプローチを提供し、効率的でカスタマイズ可能なPythonコードを通じて、Aspose.Cellsライブラリを使用してOTSデータをPDF形式にシームレスに保存することを可能にします。
+keywords: [Aspose Excel., Python Aspose.Cells., Smart OTS files to PDF Converter for Python., Convert OTS to PDF in Python., OTS files to PDF Conversion in Python., Leverage intelligent data processing to automatically parse and save OTS into PDF format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Python Excel ライブラリで OTS を PDF に変換する" h2="OTS を PDF に変換するための高速 Python Excel ライブラリ。これは、OTS、PDF、および Python を使用する他の多くの形式をインポートおよびエクスポートするためのプロフェッショナル ソフトウェア ソリューションです。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="PDF" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -27,7 +27,7 @@ OTS を PDF に変換するには、簡単な手順に従ってください。OT
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Python Excel ライブラリを使用して OTS を PDF に変換するサンプル コード" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="ots" outformat="pdf" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="Python Excel ライブラリを使用して OTS を PDF に変換するサンプル コード" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="ots" outformat="pdf" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="Python 経由で OTS を PDF に変換する方法" %}}
 

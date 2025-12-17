@@ -1,7 +1,7 @@
 ---
 title: Crea XLSM - Crea file XLSM in C++
-description: Aspose Excel. C++ Crea il file XLSM in modo semplice e veloce con Aspose.Cells. Genera il file XLSM utilizzando C++. Crea XLSM in C++. C++ XLSM Creatore.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ Create XLSM file., Generate XLSM file in C++., Create XLSM file using C++., Write data to XLSM file via C++., Create a XLSM file in C++., C++ Generate a XLSM file., C++ XLSM Creater]
+description: Aspose Excel. Genera e manipola senza sforzo i file XLSM con la libreria Aspose.Cells for C++. Questa potente libreria API offre una soluzione semplificata ed efficiente per creare, modificare e gestire i file XLSM direttamente all'interno delle tue applicazioni C++, soddisfacendo le esigenze specifiche degli sviluppatori con elevata precisione.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ Create XLSM file., Generate XLSM file in C++., Write data to XLSM file via C++., C++ XLSM Creater., Aspose.Cells for C++ is a powerful library that enables developers to programmatically create, generate, and manipulate XLSM files in C++]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Crea il file XLSM in C++" h2="Creazione di file XLSM nativi e ad alte prestazioni a livello di codice senza Micorsoft Office utilizzando la libreria C++." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSM" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -11,7 +11,7 @@ keywords: [Aspose Excel., C++ Aspose.Cells., C++ Create XLSM file., Generate XLS
 
 {{% blocks/products/pf/agp/content h2="Crea il file XLSM utilizzando C++" %}}
 
- Come creare il file XLSM? Con la libreria Aspose.Cells for C++, puoi facilmente creare il file XLSM a livello di codice con poche righe di codice.[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) è in grado di creare applicazioni multipiattaforma con la capacità di generare, modificare, convertire, eseguire il rendering e stampare tutti i file Excel. C++ Excel API non solo converte tra formati di foglio di calcolo, ma può anche eseguire il rendering di file Excel come immagini, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT e altro, rendendolo quindi una scelta perfetta per scambiare documenti in formati standard del settore. Puoi scaricare direttamente la sua ultima versione, basta aprirla[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) gestore pacchetti, cerca Aspose.Cells.Cpp e installa. Puoi anche utilizzare il seguente comando dalla Console di gestione pacchetti.
+ Come creare il file XLSM? Con la libreria Aspose.Cells for C++, puoi facilmente creare il file XLSM a livello di codice con poche righe di codice.[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) è in grado di creare applicazioni multipiattaforma con la capacità di generare, modificare, convertire, eseguire il rendering e stampare tutti i file Excel. C++ Excel API non solo converte tra formati di foglio di calcolo, ma può anche eseguire il rendering di file Excel come immagini, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT e altro, rendendolo quindi una scelta perfetta per scambiare documenti in formati standard del settore. Puoi scaricare direttamente la sua ultima versione, basta aprirla[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/)gestore pacchetti, cerca Aspose.Cells.Cpp e installa. Puoi anche utilizzare il seguente comando dalla Console di gestione pacchetti.
 
 {{% blocks/products/pf/agp/code-block title="Comando" offSpacer="true" %}}
 
@@ -37,14 +37,15 @@ PM> Install-Package Aspose.Cells.Cpp
 1.  Crea un oggetto della classe Workbook.
 1.  Inserisci il primo foglio in un oggetto Foglio di lavoro.
 1.  Utilizzare il metodo Worksheet.GetCells() per inserire le celle del foglio di lavoro in un oggetto Cells.
-1. Utilizzare il metodo Cells.Get() per accedere alla cella desiderata del foglio di lavoro in un oggetto Cell.
+1.  Utilizzare il metodo Cells.Get() per accedere alla cella desiderata del foglio di lavoro in un oggetto Cell.
 1.  Utilizzare il metodo Cell.PutValue() per inserire il valore nella cella.
-1.  Salva la cartella di lavoro come file .xlsm utilizzando il metodo Save().
+1.  Salvare la cartella di lavoro come file .xlsm utilizzando il metodo Save().
 
 {{% blocks/products/pf/agp/code-block title="Il codice di esempio mostra come creare il file XLSM in C++." offSpacer="" %}}
 
 ```cs
 Aspose::Cells::Startup();
+//TIFF format is not supported
 
 // Create an object of the Workbook class.
 Workbook wkb;
@@ -110,7 +111,7 @@ Esistono tre opzioni per installare "Aspose.Cells for C++" sul tuo sistema. Sceg
 
 <!-- aboutfile Starts -->
     {{< blocks/products/pf/agp/about-file-section >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLSM" readMoreLink="https://docs.fileformat.com/spreadsheet/xlsm/" >}}I file con estensione XLSM sono un tipo di file di foglio di calcolo che supportano le macro. Dal punto di vista applicativo, una Macro è un insieme di istruzioni utilizzate per automatizzare i processi. Una macro viene utilizzata per registrare i passaggi eseguiti ripetutamente e facilita l'esecuzione delle azioni eseguendo nuovamente la macro. Le macro vengono programmate con Visual Basic for Applications (VBA) di Microsoft dalla cartella di lavoro di Excel utilizzando l'editor di Visual Basic e possono essere eseguite/debug direttamente da lì.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLSM" readMoreLink="https://docs.fileformat.com/spreadsheet/xlsm/" >}}file con estensione XLSM sono un tipo di file di foglio di calcolo che supportano le macro. Dal punto di vista applicativo, una Macro è un insieme di istruzioni utilizzate per automatizzare i processi. Una macro viene utilizzata per registrare i passaggi eseguiti ripetutamente e facilita l'esecuzione delle azioni eseguendo nuovamente la macro. Le macro vengono programmate con Visual Basic for Applications (VBA) di Microsoft dalla cartella di lavoro di Excel utilizzando l'editor di Visual Basic e possono essere eseguite/debug direttamente da lì.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
     {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->
 
@@ -127,7 +128,7 @@ Esistono tre opzioni per installare "Aspose.Cells for C++" sul tuo sistema. Sceg
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/create/tsv/" name="TSV" description="Valori separati da tabulazioni" >}} 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/create/ods/" name="ODS" description="Foglio di calcolo OpenDocument" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/create/pdf/" name="PDF" description="Formato documento portatile" >}} 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/create/html/" name="HTML" description="Hyper Text Markup Language" >}} 
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/create/html/" name="HTML" description="Linguaggio di markup ipertestuale" >}} 
 
 
 {{< /blocks/products/pf/agp/other-supported-section >}}

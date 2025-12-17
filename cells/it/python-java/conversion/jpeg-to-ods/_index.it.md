@@ -1,7 +1,7 @@
 ---
 title: Python JPEG a ODS - JPEG a ODS Convertitore
-description: Aspose Excel. Python Excel. Converti JPEG in ODS in modo rapido e semplice con Aspose.Cells. Python JPEG in ODS. Python Salva JPEG in ODS. Salva JPEG come 076112 3481 utilizzando la Libreria Excel Python.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert JPEG to ODS in Python Excel Library., Save JPEG to ODS using Python Excel Library., Python JPEG to ODS saveformat., JPEG to ODS Converter., Python Save JPEG as ODS]
+description: Aspose Excel. Questa soluzione completa fornisce agli sviluppatori Python un approccio completamente integrato per convertire il formato JPEG nel formato ODS, consentendo il salvataggio senza interruzioni dei dati JPEG nel formato ODS utilizzando la libreria Aspose.Cells, il tutto tramite codice Python efficiente e personalizzabile.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart JPEG files to ODS Converter for Python., Convert JPEG to ODS in Python., JPEG files to ODS Conversion in Python., Leverage intelligent data processing to automatically parse and save JPEG into ODS format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Converti JPEG in ODS nella libreria Excel Python" h2="Libreria Excel Python ad alta velocità per convertire JPEG in ODS. Si tratta di una soluzione software professionale per importare ed esportare JPEG, ODS e molti altri formati utilizzando Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="ODS" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -27,7 +27,7 @@ Segui i semplici passaggi per convertire JPEG in ODS. Carica il tuo file JPEG, q
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Codice di esempio per convertire JPEG in ODS tramite la libreria Excel Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="jpg" outformat="ods" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="Codice di esempio per convertire JPEG in ODS tramite la libreria Excel Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="jpg" outformat="ods" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="Come convertire JPEG in ODS tramite Python" %}}
 
@@ -84,7 +84,7 @@ Aspose.Cells for Python via Java è indipendente dalla piattaforma API e può es
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/jpeg-to-bmp/" name="dallo JPEG allo BMP" description="Immagine bitmap" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/jpeg-to-emf/" name="dallo JPEG allo EMF" description="Formato metafile avanzato" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/jpeg-to-gif/" name="dallo JPEG allo GIF" description="Formato di interscambio grafico" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/jpeg-to-html/" name="dallo JPEG allo HTML" description="Hyper Text Markup Language" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/jpeg-to-html/" name="dallo JPEG allo HTML" description="Linguaggio di markup ipertestuale" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/jpeg-to-md/" name="JPEG AL MD" description="Linguaggio di ribasso" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/jpeg-to-mhtml/" name="dallo JPEG allo MHTML" description="Formato di archivio delle pagine Web" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/jpeg-to-ods/" name="dallo JPEG allo ODS" description="File di foglio di calcolo OpenDocument" >}}

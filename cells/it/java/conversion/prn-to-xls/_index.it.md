@@ -1,7 +1,7 @@
 ---
 title: Java PRN a XLS - PRN a XLS Convertitore
-description: Aspose Excel. Converti il PRN in XLS in modo rapido e semplice con Aspose.Cells. Java PRN in XLS. Java Salva PRN in XLS. Salva PRN come XLS utilizzando Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Convert PRN to XLS in Java., Save PRN to XLS using Java., Java PRN to XLS saveformat., PRN to XLS Converter., Java Save PRN as XLS]
+description: Aspose Excel. Questa soluzione completa fornisce agli sviluppatori Java un approccio completamente integrato per convertire i dati PRN nel formato XLS, consentendo il salvataggio senza interruzioni dei dati PRN nel formato XLS utilizzando la libreria Aspose.Cells, il tutto tramite codice Java efficiente e personalizzabile.
+keywords: [Aspose Excel., Java Aspose.Cells., Smart PRN files to XLS Converter for Java., Convert PRN to XLS in Java., PRN files to XLS Conversion in Java., Leverage intelligent data processing to automatically parse and save PRN into XLS format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Converti PRN in XLS in Java" h2="Libreria Java ad alta velocità per convertire PRN in XLS. Si tratta di una soluzione software professionale per importare ed esportare PRN, XLS e molti altri formati utilizzando Java." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLS" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="CSV" >}}
@@ -45,9 +45,9 @@ keywords: [Aspose Excel., Java Aspose.Cells., Convert PRN to XLS in Java., Save 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Salva il PRN allo XLS in Java" %}}
+{{% blocks/products/pf/agp/content h2="Salva PRN su XLS in Java" %}}
 
-L'esempio seguente mostra come convertire il PRN in XLS in Java.
+L'esempio seguente mostra come convertire PRN in XLS in Java.
 {{% blocks/products/pf/agp/text %}}
 
 Segui i semplici passaggi per convertire il PRN in XLS. Carica il tuo file PRN, quindi salvalo semplicemente come file XLS. Sia per la lettura del PRN che per la scrittura XLS è possibile utilizzare nomi di file completi. Il contenuto e la formattazione dell'output XLS saranno identici al documento PRN originale.
@@ -56,17 +56,17 @@ Segui i semplici passaggi per convertire il PRN in XLS. Carica il tuo file PRN, 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Codice di esempio per convertire il PRN in XLS" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="prn" outformat="xls" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Codice di esempio per convertire PRN in XLS" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="prn" outformat="xls" IsLandingPage="true" language="java" %}}
 
-{{% blocks/products/pf/agp/content h2="Come convertire il PRN in XLS via Java" %}}
+{{% blocks/products/pf/agp/content h2="Come convertire PRN in XLS via Java" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
-È necessario convertire i file PRN in XLS a livello di codice? Gli sviluppatori di Java possono convertire facilmente il PRN in XLS in poche righe di codice.
+Hai bisogno di convertire i file PRN in XLS tramite codice? Gli sviluppatori che usano Java possono facilmente convertire i file PRN in XLS in poche righe di codice.
 
 {{% /blocks/products/pf/agp/text %}}
 
-1.  Installa 'Aspose.Cells for Java'.
+1.  Installare 'Aspose.Cells for Java'.
 1.  Aggiungi un riferimento di libreria (importa la libreria) al tuo progetto Java.
 1.  Carica il file PRN con un'istanza della classe Workbook.
 1.  Converti PRN in XLS chiamando il metodo Workbook.save.
@@ -74,7 +74,7 @@ Segui i semplici passaggi per convertire il PRN in XLS. Carica il tuo file PRN, 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Libreria Java per convertire il PRN in XLS" %}}
+{{% blocks/products/pf/agp/content h2="Libreria Java per convertire PRN in XLS" %}}
 {{% blocks/products/pf/agp/text %}}
 
  Ospitiamo i nostri pacchetti Java in[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) repository. 'Aspose.Cells for Java' è un file JAR comune contenente codice byte. Si prega di seguire il[istruzioni passo passo](https://docs.aspose.com/cells/java/installation/) su come installarlo nel tuo ambiente di sviluppo Java.
@@ -98,7 +98,7 @@ Segui i semplici passaggi per convertire il PRN in XLS. Carica il tuo file PRN, 
 <!-- aboutfile Starts -->
     {{< blocks/products/pf/agp/about-file-section >}}
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="PRN" readMoreLink="https://fileinfo.com/extension/prn/" >}}Un file PRN è un file creato utilizzando la casella di controllo Stampa su file visualizzata in alcune finestre di dialogo Stampa su Windows. Contiene una serie di istruzioni specifiche del dispositivo che una stampante, un fax o un altro dispositivo utilizza per stampare un documento. I file PRN possono contenere testo o contenuto binario, a seconda del dispositivo per cui è stato creato il file.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLS" readMoreLink="https://docs.fileformat.com/spreadsheet/xls/" >}}file con estensione XLS rappresentano il formato file binario di Excel. Tali file possono essere creati da Microsoft Excel così come altri programmi di fogli di calcolo simili come OpenOffice Calc o Apple Numbers. Il file salvato da Excel è noto come cartella di lavoro in cui ciascuna cartella di lavoro può avere uno o più fogli di lavoro. I dati vengono archiviati e visualizzati agli utenti in formato tabella nel foglio di lavoro e possono comprendere valori numerici, dati di testo, formule, connessioni dati esterne, immagini e grafici. Applicazioni come Microsoft Excel ti consentono di esportare i dati della cartella di lavoro in diversi formati tra cui PDF, CSV, XLSX, TXT, HTML, XPS e molti altri. Il formato file XLS è stato sostituito con un formato più aperto e strutturato, XLSX, con il rilascio di Microsoft Excel 2007. Le ultime versioni forniscono ancora supporto per la creazione e la lettura dei file XLS, sebbene XLSX sia ora la prima scelta di utilizzo.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLS" readMoreLink="https://docs.fileformat.com/spreadsheet/xls/" >}}I file con estensione XLS rappresentano il formato file binario di Excel. Tali file possono essere creati da Microsoft Excel così come altri programmi di fogli di calcolo simili come OpenOffice Calc o Apple Numbers. Il file salvato da Excel è noto come cartella di lavoro in cui ciascuna cartella di lavoro può avere uno o più fogli di lavoro. I dati vengono archiviati e visualizzati agli utenti in formato tabella nel foglio di lavoro e possono comprendere valori numerici, dati di testo, formule, connessioni dati esterne, immagini e grafici. Applicazioni come Microsoft Excel ti consentono di esportare i dati della cartella di lavoro in diversi formati tra cui PDF, CSV, XLSX, TXT, HTML, XPS e molti altri. Il formato file XLS è stato sostituito con un formato più aperto e strutturato, XLSX, con il rilascio di Microsoft Excel 2007. Le ultime versioni forniscono ancora supporto per la creazione e la lettura dei file XLS, sebbene XLSX sia ora la prima scelta di utilizzo.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
     {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->
 
@@ -107,7 +107,7 @@ Segui i semplici passaggi per convertire il PRN in XLS. Carica il tuo file PRN, 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/prn-to-bmp/" name="PRN BMP" description="Immagine bitmap" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/prn-to-emf/" name="PRN EMF" description="Formato metafile avanzato" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/prn-to-gif/" name="PRN GIF" description="Formato di interscambio grafico" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/prn-to-html/" name="PRN HTML" description="Hyper Text Markup Language" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/prn-to-html/" name="PRN HTML" description="Linguaggio di markup ipertestuale" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/prn-to-md/" name="PRN A MD" description="Linguaggio di ribasso" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/prn-to-mhtml/" name="PRN MHTML" description="Formato di archivio delle pagine Web" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/prn-to-ods/" name="PRN ODS" description="File di foglio di calcolo OpenDocument" >}}

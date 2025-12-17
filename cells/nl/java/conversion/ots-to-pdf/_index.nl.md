@@ -1,7 +1,7 @@
 ---
 title: Java OTS naar PDF - OTS naar PDF Converter
-description: Aspose Excel. Converteer OTS snel en eenvoudig naar PDF met Aspose.Cells. Java OTS naar PDF. Java Bewaar OTS naar PDF. Sla OTS op als PDF met Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Convert OTS to PDF in Java., Save OTS to PDF using Java., Java OTS to PDF saveformat., OTS to PDF Converter., Java Save OTS as PDF]
+description: Aspose Excel. Deze complete oplossing biedt ontwikkelaars een volledig geïntegreerde aanpak voor het converteren van OTS-gegevens naar het PDF-formaat. Hierdoor kunnen OTS-gegevens naadloos worden opgeslagen in het PDF-formaat met behulp van de Aspose.Cells-bibliotheek, allemaal via efficiënte en aanpasbare Java-code.
+keywords: [Aspose Excel., Java Aspose.Cells., Smart OTS files to PDF Converter for Java., Convert OTS to PDF in Java., OTS files to PDF Conversion in Java., Leverage intelligent data processing to automatically parse and save OTS into PDF format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Converteer OTS naar PDF in Java" h2="Snelle Java-bibliotheek voor het converteren van OTS naar PDF. Dit is een professionele softwareoplossing voor het importeren en exporteren van OTS, PDF en vele andere formaten met behulp van Java." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="PDF" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="CSV" >}}
@@ -45,9 +45,9 @@ keywords: [Aspose Excel., Java Aspose.Cells., Convert OTS to PDF in Java., Save 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Bewaar OTS op PDF in Java" %}}
+{{% blocks/products/pf/agp/content h2="Sla OTS op in PDF in Java" %}}
 
-Het volgende voorbeeld laat zien hoe u OTS converteert naar PDF in Java.
+Het volgende voorbeeld laat zien hoe je OTS naar PDF converteert in Java.
 {{% blocks/products/pf/agp/text %}}
 
 Volg de eenvoudige stappen om OTS naar PDF te converteren. Upload uw OTS-bestand en sla het vervolgens eenvoudig op als PDF-bestand. Voor zowel OTS-lezen als PDF-schrijven kunt u volledig gekwalificeerde bestandsnamen gebruiken. De inhoud en opmaak van de uitvoer PDF zullen identiek zijn aan het originele OTS-document.
@@ -56,25 +56,25 @@ Volg de eenvoudige stappen om OTS naar PDF te converteren. Upload uw OTS-bestand
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Voorbeeldcode om OTS naar PDF te converteren" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="ots" outformat="pdf" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Voorbeeldcode om OTS naar PDF te converteren" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="ots" outformat="pdf" IsLandingPage="true" language="java" %}}
 
-{{% blocks/products/pf/agp/content h2="OTS converteren naar PDF via Java" %}}
+{{% blocks/products/pf/agp/content h2="Hoe converteer je OTS naar PDF via Java?" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
-Wilt u OTS-bestanden programmatisch naar PDF converteren? Java-ontwikkelaars kunnen OTS eenvoudig met slechts een paar regels code naar PDF converteren.
+Moet u OTS-bestanden programmatisch converteren naar PDF? Ontwikkelaars van Java kunnen OTS-bestanden eenvoudig converteren naar PDF met slechts een paar regels code.
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Installeer 'Aspose.Cells for Java'.
 1.  Voeg een bibliotheekreferentie toe (importeer de bibliotheek) aan uw Java-project.
-1.  Laad het OTS-bestand met een exemplaar van de Workbook-klasse.
+1.  Laad een OTS-bestand met een instantie van de Workbook-klasse.
 1.  Converteer OTS naar PDF door de Workbook.save-methode aan te roepen.
 1.  Ontvang het conversieresultaat van OTS naar PDF.
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Java-bibliotheek om OTS naar PDF te converteren" %}}
+{{% blocks/products/pf/agp/content h2="Java bibliotheek om OTS naar PDF te converteren" %}}
 {{% blocks/products/pf/agp/text %}}
 
  We hosten onze Java-pakketten in[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) opslagplaatsen. 'Aspose.Cells for Java' is een veelgebruikt JAR-bestand met bytecode. Volg alstublieft de[stapsgewijze instructies](https://docs.aspose.com/cells/java/installation/) over hoe u het installeert in uw Java-ontwikkelaarsomgeving.

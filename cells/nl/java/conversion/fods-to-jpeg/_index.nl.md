@@ -1,7 +1,7 @@
 ---
 title: Java FODS tot JPEG - FODS tot JPEG Converter
-description: Aspose Excel. Converteer FODS snel en eenvoudig naar JPEG met Aspose.Cells. Java FODS naar JPEG. Java Bewaar FODS in JPEG. Bewaar FODS als 07611134 81 via Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Convert FODS to JPEG in Java., Save FODS to JPEG using Java., Java FODS to JPEG saveformat., FODS to JPEG Converter., Java Save FODS as JPEG]
+description: Aspose Excel. Deze uitgebreide oplossing biedt ontwikkelaars een volledig geïntegreerde aanpak voor het converteren van gegevens van het formaat FODS naar JPEG, waardoor naadloos opslaan van gegevens in het formaat FODS mogelijk is met behulp van de bibliotheek Aspose.Cells, allemaal via efficiënte en aanpasbare code Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Smart FODS files to JPEG Converter for Java., Convert FODS to JPEG in Java., FODS files to JPEG Conversion in Java., Leverage intelligent data processing to automatically parse and save FODS into JPEG format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Converteer FODS naar JPEG in Java" h2="Snelle Java-bibliotheek voor het converteren van FODS naar JPEG. Dit is een professionele softwareoplossing voor het importeren en exporteren van FODS, JPEG en vele andere formaten met behulp van Java." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="JPEG" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Convert FODS to JPEG in Java., Sav
 
 {{% blocks/products/pf/agp/content h2="Converteer FODS naar JPEG met behulp van Java" %}}
 
-Hoe converteer ik FODS naar JPEG? Met de bibliotheek Aspose.Cells for Java kunt u FODS eenvoudig programmatisch naar JPEG converteren met een paar regels code.[Aspose.Cells for Java](https://products.aspose.com/cells/java)is in staat om platformonafhankelijke applicaties te bouwen met de mogelijkheid om alle Excel-bestanden te genereren, wijzigen, converteren, renderen en afdrukken. Java Excel API converteert niet alleen tussen spreadsheetformaten, het kan ook Excel-bestanden weergeven als afbeeldingen, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT en meer, waardoor het een perfecte keuze is om documenten uit te wisselen in industriestandaardformaten. U kunt de nieuwste versie rechtstreeks downloaden van[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) en installeer het binnen uw op Maven gebaseerde project door de volgende configuraties toe te voegen aan pom.xml.
+ Hoe converteer ik FODS naar JPEG? Met de bibliotheek Aspose.Cells for Java kunt u FODS eenvoudig programmatisch naar JPEG converteren met een paar regels code.[Aspose.Cells for Java](https://products.aspose.com/cells/java)is in staat om platformonafhankelijke applicaties te bouwen met de mogelijkheid om alle Excel-bestanden te genereren, wijzigen, converteren, renderen en afdrukken. Java Excel API converteert niet alleen tussen spreadsheetformaten, het kan ook Excel-bestanden weergeven als afbeeldingen, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT en meer, waardoor het een perfecte keuze is om documenten uit te wisselen in industriestandaardformaten. U kunt de nieuwste versie rechtstreeks downloaden van[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) en installeer het binnen uw op Maven gebaseerde project door de volgende configuraties toe te voegen aan pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Opslagplaats" offSpacer="true" %}}
 
@@ -45,9 +45,9 @@ Hoe converteer ik FODS naar JPEG? Met de bibliotheek Aspose.Cells for Java kunt 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Bewaar FODS t/m JPEG in Java" %}}
+{{% blocks/products/pf/agp/content h2="Sla FODS op in JPEG in Java" %}}
 
-Het volgende voorbeeld laat zien hoe u FODS converteert naar JPEG in Java.
+Het volgende voorbeeld laat zien hoe je FODS omzet naar JPEG in Java.
 {{% blocks/products/pf/agp/text %}}
 
 Volg de eenvoudige stappen om FODS naar JPEG te converteren. Upload uw FODS-bestand en sla het vervolgens eenvoudig op als JPEG-bestand. Voor zowel FODS lezen als JPEG schrijven kunt u volledig gekwalificeerde bestandsnamen gebruiken. De inhoud en opmaak van de uitvoer JPEG zullen identiek zijn aan het originele document FODS.
@@ -56,19 +56,19 @@ Volg de eenvoudige stappen om FODS naar JPEG te converteren. Upload uw FODS-best
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Voorbeeldcode om FODS naar JPEG te converteren" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="fods" outformat="jpg" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Voorbeeldcode om FODS naar JPEG te converteren" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="fods" outformat="jpg" IsLandingPage="true" language="java" %}}
 
-{{% blocks/products/pf/agp/content h2="Hoe FODS naar JPEG via Java te converteren" %}}
+{{% blocks/products/pf/agp/content h2="Hoe zet ik FODS om naar JPEG of via Java?" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
-Wilt u FODS-bestanden programmatisch naar JPEG converteren? Java-ontwikkelaars kunnen FODS eenvoudig in slechts een paar regels code naar JPEG converteren.
+Moet je bestanden met de extensie FODS programmatisch converteren naar JPEG? Ontwikkelaars van Java kunnen bestanden met de extensie FODS eenvoudig converteren naar JPEG met slechts een paar regels code.
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Installeer 'Aspose.Cells for Java'.
 1.  Voeg een bibliotheekreferentie toe (importeer de bibliotheek) aan uw Java-project.
-1. Laad bestand FODS met een exemplaar van de klasse Workbook.
+1.  Laad bestand FODS met een instantie van de klasse Workbook.
 1.  Converteer FODS naar JPEG door de Workbook.save-methode aan te roepen.
 1.  Verkrijg het conversieresultaat van FODS naar JPEG.
 

@@ -1,7 +1,7 @@
 ---
 title: Python XLTM naar OTS - XLTM naar OTS-converter
-description: Aspose Excel. Python Excel. Converteer XLTM snel en eenvoudig naar OTS met Aspose.Cells. Python XLTM naar OTS. Python Bewaar XLTM in OTS. Sla XLTM op als OTS met behulp van de Excel-bibliotheek Python.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert XLTM to OTS in Python Excel Library., Save XLTM to OTS using Python Excel Library., Python XLTM to OTS saveformat., XLTM to OTS Converter., Python Save XLTM as OTS]
+description: Aspose Excel. Deze complete oplossing biedt ontwikkelaars een volledig geïntegreerde aanpak voor het converteren van gegevens naar het OTS-formaat. Hierdoor kunnen gegevens naadloos worden opgeslagen in het OTS-formaat met behulp van de bibliotheek, en dit alles via efficiënte en aanpasbare code.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart XLTM files to OTS Converter for Python., Convert XLTM to OTS in Python., XLTM files to OTS Conversion in Python., Leverage intelligent data processing to automatically parse and save XLTM into OTS format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Converteer XLTM naar OTS in de Excel-bibliotheek Python" h2="Snelle Python Excel-bibliotheek voor het converteren van XLTM naar OTS. Gebruik onze Excel-conversie API om hoogwaardige, platformonafhankelijke software te ontwikkelen in Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="OTS" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -28,7 +28,7 @@ Volg de eenvoudige stappen om XLTM naar OTS te converteren. Upload uw XLTM-besta
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Voorbeeldcode om XLTM naar OTS te converteren via de Excel-bibliotheek Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xltm" outformat="ots" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Voorbeeldcode om XLTM naar OTS te converteren via de Excel-bibliotheek Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="xltm" outformat="ots" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="Hoe XLTM naar OTS te converteren" %}}
 

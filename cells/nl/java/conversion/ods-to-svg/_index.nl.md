@@ -1,7 +1,7 @@
 ---
 title: Java ODS tot SVG - ODS tot SVG Converter
-description: Aspose Excel. Converteer ODS snel en eenvoudig naar SVG met Aspose.Cells. Java ODS naar SVG. Java Bewaar ODS in SVG. Bewaar ODS als 07611134 81 via Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Convert ODS to SVG in Java., Save ODS to SVG using Java., Java ODS to SVG saveformat., ODS to SVG Converter., Java Save ODS as SVG]
+description: Aspose Excel. Deze uitgebreide oplossing biedt ontwikkelaars een volledig geïntegreerde aanpak voor het converteren van gegevens van het formaat ODS naar SVG, waardoor naadloos opslaan van gegevens in het formaat ODS mogelijk is met behulp van de bibliotheek Aspose.Cells, allemaal via efficiënte en aanpasbare code Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Smart ODS files to SVG Converter for Java., Convert ODS to SVG in Java., ODS files to SVG Conversion in Java., Leverage intelligent data processing to automatically parse and save ODS into SVG format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Converteer ODS naar SVG in Java" h2="Snelle Java-bibliotheek voor het converteren van ODS naar SVG. Dit is een professionele softwareoplossing voor het importeren en exporteren van ODS, SVG en vele andere formaten met behulp van Java." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="SVG" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Convert ODS to SVG in Java., Save 
 
 {{% blocks/products/pf/agp/content h2="Converteer ODS naar SVG met behulp van Java" %}}
 
-Hoe converteer ik ODS naar SVG? Met de bibliotheek Aspose.Cells for Java kunt u ODS eenvoudig programmatisch naar SVG converteren met een paar regels code.[Aspose.Cells for Java](https://products.aspose.com/cells/java)is in staat om platformonafhankelijke applicaties te bouwen met de mogelijkheid om alle Excel-bestanden te genereren, wijzigen, converteren, renderen en afdrukken. Java Excel API converteert niet alleen tussen spreadsheetformaten, het kan ook Excel-bestanden weergeven als afbeeldingen, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT en meer, waardoor het een perfecte keuze is om documenten uit te wisselen in industriestandaardformaten. U kunt de nieuwste versie rechtstreeks downloaden van[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) en installeer het binnen uw op Maven gebaseerde project door de volgende configuraties toe te voegen aan pom.xml.
+ Hoe converteer ik ODS naar SVG? Met de bibliotheek Aspose.Cells for Java kunt u ODS eenvoudig programmatisch naar SVG converteren met een paar regels code.[Aspose.Cells for Java](https://products.aspose.com/cells/java)is in staat om platformonafhankelijke applicaties te bouwen met de mogelijkheid om alle Excel-bestanden te genereren, wijzigen, converteren, renderen en afdrukken. Java Excel API converteert niet alleen tussen spreadsheetformaten, het kan ook Excel-bestanden weergeven als afbeeldingen, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT en meer, waardoor het een perfecte keuze is om documenten uit te wisselen in industriestandaardformaten. U kunt de nieuwste versie rechtstreeks downloaden van[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) en installeer het binnen uw op Maven gebaseerde project door de volgende configuraties toe te voegen aan pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Opslagplaats" offSpacer="true" %}}
 
@@ -45,9 +45,9 @@ Hoe converteer ik ODS naar SVG? Met de bibliotheek Aspose.Cells for Java kunt u 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Bewaar ODS t/m SVG in Java" %}}
+{{% blocks/products/pf/agp/content h2="Sla ODS op in SVG in Java" %}}
 
-Het volgende voorbeeld laat zien hoe u ODS converteert naar SVG in Java.
+Het volgende voorbeeld laat zien hoe je ODS omzet naar SVG in Java.
 {{% blocks/products/pf/agp/text %}}
 
 Volg de eenvoudige stappen om ODS naar SVG te converteren. Upload uw ODS-bestand en sla het vervolgens eenvoudig op als SVG-bestand. Voor zowel ODS lezen als SVG schrijven kunt u volledig gekwalificeerde bestandsnamen gebruiken. De inhoud en opmaak van de uitvoer SVG zullen identiek zijn aan het originele document ODS.
@@ -56,19 +56,19 @@ Volg de eenvoudige stappen om ODS naar SVG te converteren. Upload uw ODS-bestand
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Voorbeeldcode om ODS naar SVG te converteren" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="ods" outformat="svg" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Voorbeeldcode om ODS naar SVG te converteren" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="ods" outformat="svg" IsLandingPage="true" language="java" %}}
 
-{{% blocks/products/pf/agp/content h2="Hoe ODS naar SVG via Java te converteren" %}}
+{{% blocks/products/pf/agp/content h2="Hoe zet ik ODS om naar SVG of via Java?" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
-Wilt u ODS-bestanden programmatisch naar SVG converteren? Java-ontwikkelaars kunnen ODS eenvoudig in slechts een paar regels code naar SVG converteren.
+Moet je bestanden met de extensie ODS programmatisch converteren naar SVG? Ontwikkelaars van Java kunnen bestanden met de extensie ODS eenvoudig converteren naar SVG met slechts een paar regels code.
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Installeer 'Aspose.Cells for Java'.
 1.  Voeg een bibliotheekreferentie toe (importeer de bibliotheek) aan uw Java-project.
-1. Laad bestand ODS met een exemplaar van de klasse Workbook.
+1.  Laad bestand ODS met een instantie van de klasse Workbook.
 1.  Converteer ODS naar SVG door de Workbook.save-methode aan te roepen.
 1.  Verkrijg het conversieresultaat van ODS naar SVG.
 

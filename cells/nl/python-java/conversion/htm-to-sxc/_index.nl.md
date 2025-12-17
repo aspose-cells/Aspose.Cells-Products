@@ -1,7 +1,7 @@
 ---
 title: Python HTM naar SXC - HTM naar SXC Omvormer
-description: Aspose Excel. Python Excel. Converteer HTM snel en eenvoudig naar SXC met Aspose.Cells. Python HTM naar SXC. Python Bewaar HTM naar SXC. Sla HTM op als SXC met behulp van de Excel-bibliotheek Python.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert HTM to SXC in Python Excel Library., Save HTM to SXC using Python Excel Library., Python HTM to SXC saveformat., HTM to SXC Converter., Python Save HTM as SXC]
+description: Aspose Excel. Deze complete oplossing biedt ontwikkelaars een volledig geïntegreerde aanpak voor het converteren van HTML naar het formaat SXC, waardoor HTML-gegevens naadloos kunnen worden opgeslagen in het formaat SXC met behulp van de bibliotheek Aspose.Cells, en dat alles via efficiënte en aanpasbare code Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart HTM files to SXC Converter for Python., Convert HTM to SXC in Python., HTM files to SXC Conversion in Python., Leverage intelligent data processing to automatically parse and save HTM into SXC format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Converteer HTM naar SXC in de Excel-bibliotheek Python" h2="Snelle Python Excel-bibliotheek voor het converteren van HTM naar SXC. Dit is een professionele softwareoplossing voor het importeren en exporteren van HTM, SXC en vele andere formaten met behulp van Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="SXC" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -27,7 +27,7 @@ Volg de eenvoudige stappen om HTM naar SXC te converteren. Upload uw HTM-bestand
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Voorbeeldcode om HTM naar SXC te converteren via de Excel-bibliotheek Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="htm" outformat="sxc" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="Voorbeeldcode om HTM naar SXC te converteren via de Excel-bibliotheek Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="htm" outformat="sxc" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="HTM converteren naar SXC via Python" %}}
 

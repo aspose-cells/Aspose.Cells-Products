@@ -1,7 +1,7 @@
 ---
-title: XLAM naar JPG - Converteer XLAM naar JPG-bestanden Java
-description: Aspose Excel. Gratis online converteer XLAM naar JPG-opslagformaat. Java XLAM naar JPG-formaat. Sla XLAM op als JPG in Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Java XLAM to JPG saveformat., Free Online XLAM to JPG Converter]
+title: Java XLAM naar JPG - XLAM naar JPG-converter
+description: Aspose Excel. Deze complete oplossing biedt ontwikkelaars een volledig geïntegreerde aanpak om XLAM naar JPG-formaat te converteren, waardoor het naadloos opslaan van XLAM-gegevens in JPG-formaat mogelijk is met behulp van de Aspose.Cells-bibliotheek, allemaal via efficiënte en aanpasbare Java-code.
+keywords: [Aspose Excel., Java Aspose.Cells., Smart XLAM files to JPG Converter for Java., Convert XLAM to JPG in Java., XLAM files to JPG Conversion in Java., Leverage intelligent data processing to automatically parse and save XLAM into JPG format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Converteer XLAM naar JPG in Java" h2="Snelle Java-bibliotheek voor het converteren van XLAM naar JPG. Dit is een professionele softwareoplossing voor het importeren en exporteren van XLAM, JPG en vele andere formaten met behulp van Java." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="JPG" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="CSV" >}}
@@ -45,9 +45,9 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java XLAM to JPG saveformat., Free
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Bewaar XLAM naar JPG in Java Gratis online" %}}
+{{% blocks/products/pf/agp/content h2="Sla XLAM op als JPG in Java" %}}
 
-Het volgende voorbeeld laat zien hoe u XLAM naar JPG converteert in Java.
+Het volgende voorbeeld laat zien hoe je XLAM naar JPG kunt converteren in Java.
 {{% blocks/products/pf/agp/text %}}
 
 Volg de eenvoudige stappen om XLAM naar JPG te converteren. Upload uw XLAM-bestand en sla het vervolgens eenvoudig op als JPG-bestand. Voor zowel XLAM lezen als JPG schrijven kunt u volledig gekwalificeerde bestandsnamen gebruiken. De uitvoer-JPG-inhoud en -opmaak zijn identiek aan het originele XLAM-document.
@@ -56,19 +56,19 @@ Volg de eenvoudige stappen om XLAM naar JPG te converteren. Upload uw XLAM-besta
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Gratis app en voorbeeldcode om XLAM online naar JPG te converteren" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlam" outformat="jpg" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Voorbeeldcode om XLAM naar JPG te converteren" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="xlam" outformat="jpg" IsLandingPage="true" language="java" %}}
 
-{{% blocks/products/pf/agp/content h2="Hoe XLAM naar JPG via Java te converteren" %}}
+{{% blocks/products/pf/agp/content h2="Hoe converteer ik XLAM naar JPG?" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
-Wilt u XLAM-bestanden programmatisch naar JPG converteren? Java-ontwikkelaars kunnen XLAM eenvoudig met slechts een paar regels code naar JPG converteren.
+Moet je bestanden met de extensie XLAM programmatisch naar JPG converteren? Ontwikkelaars van Java kunnen bestanden met de extensie XLAM eenvoudig naar JPG converteren met slechts een paar regels code.
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Installeer 'Aspose.Cells for Java'.
 1.  Voeg een bibliotheekreferentie toe (importeer de bibliotheek) aan uw Java-project.
-1. Laad bestand XLAM met een exemplaar van de klasse Workbook.
+1.  Laad bestand XLAM met een instantie van de klasse Workbook.
 1.  Converteer XLAM naar JPG door de Workbook.save-methode aan te roepen.
 1.  Verkrijg het conversieresultaat van XLAM naar JPG.
 
@@ -95,6 +95,12 @@ Wilt u XLAM-bestanden programmatisch naar JPG converteren? Java-ontwikkelaars ku
 
 {{% /blocks/products/pf/agp/content %}}
 
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLAM" readMoreLink="https://docs.fileformat.com/spreadsheet/xlam/" >}}XLAM is een invoegbestand met macro's dat wordt gebruikt om nieuwe functies aan spreadsheets toe te voegen. Een invoegtoepassing is een aanvullend programma dat extra code uitvoert en extra functionaliteit voor spreadsheets biedt. XLAM-bestanden worden opgeslagen met de extensie .xlam. XLAM-bestanden zijn op XML gebaseerde bestanden die lijken op de bestandsformaten XLSM en XLSX en worden opgeslagen met ZIP-compressie om de totale bestandsgrootte te verkleinen.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="JPG" readMoreLink="https://docs.fileformat.com/image/jpg/" >}}Een JPEG is een type afbeeldingsformaat dat wordt opgeslagen met behulp van de methode van compressie met verlies. Het uitvoerbeeld is, als gevolg van compressie, een afweging tussen opslaggrootte en beeldkwaliteit. Gebruikers kunnen het compressieniveau aanpassen om het gewenste kwaliteitsniveau te bereiken en tegelijkertijd de opslaggrootte te verkleinen. De beeldkwaliteit wordt verwaarloosbaar beïnvloed als er 10:1-compressie op de afbeelding wordt toegepast. Hoe hoger de compressiewaarde, hoe groter de verslechtering van de beeldkwaliteit.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Andere ondersteunde conversies" subTitle="U kunt XLAM ook naar vele andere bestandsindelingen converteren, waaronder enkele hieronder vermeld." >}}
 

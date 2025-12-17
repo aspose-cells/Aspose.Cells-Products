@@ -1,7 +1,7 @@
 ---
 title: "Crea HTM: crea il file HTM in Python"
-description:  Aspose Excel. Python Excel. Python Crea file HTM in modo rapido e semplice con Aspose.Cells. Genera file HTM utilizzando la libreria Excel Python. Crea HTM nella libreria Excel Python. Python HTM Creatore.
-keywords: [Aspose Python Excel., Python Aspose.Cells., Python Create HTM file., Generate HTM file in Python Excel Library., Create HTM file using Python Excel Library., Write data to HTM file via Python Excel Library., Create a HTM file in Python Excel Library., Python Generate a HTM file., Python HTM Creater]
+description: Aspose Excel. Genera e manipola senza sforzo file HTM con la libreria Aspose.Cells for Python via .NET. Questa potente libreria API offre una soluzione semplificata ed efficiente per creare, modificare e gestire file HTM direttamente all'interno delle tue applicazioni Python, soddisfacendo le esigenze specifiche degli sviluppatori con elevata precisione.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Create HTM file., Generate HTM file in Python., Write data to HTM file via Python., Python HTM Creater., Aspose.Cells for Python via .NET is a powerful library that enables developers to programmatically create, generate, and manipulate HTM files in Python]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Crea file HTM nella libreria Excel Python" h2="Libreria Excel Python ad alta velocità per la creazione di file HTM. Utilizza la nostra conversione Excel API per sviluppare software di alto livello indipendente dalla piattaforma in Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="HTM" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -99,7 +99,7 @@ Ospitiamo i nostri pacchetti Python nei repository PyPi.
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/create/tsv/" name="TSV" description="Valori separati da tabulazioni" >}} 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/create/ods/" name="ODS" description="Foglio di calcolo OpenDocument" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/create/pdf/" name="PDF" description="Formato documento portatile" >}} 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/create/html/" name="HTML" description="Hyper Text Markup Language" >}} 
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/create/html/" name="HTML" description="Linguaggio di markup ipertestuale" >}} 
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

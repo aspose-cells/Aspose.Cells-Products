@@ -1,7 +1,7 @@
 ---
 title: Java JPG naar SXC - JPG naar SXC Converter
-description: Aspose Excel. Converteer JPG snel en eenvoudig naar SXC met Aspose.Cells. Java JPG naar SXC. Java Sla JPG op naar SXC. Sla JPG op als SXC met Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Convert JPG to SXC in Java., Save JPG to SXC using Java., Java JPG to SXC saveformat., JPG to SXC Converter., Java Save JPG as SXC]
+description: Aspose Excel. Deze uitgebreide oplossing biedt Java ontwikkelaars een volledig geïntegreerde aanpak voor het converteren van JPG naar SXC-formaat, waardoor naadloos opslaan van JPG-gegevens in SXC-formaat mogelijk is met behulp van de Aspose.Cells-bibliotheek, allemaal via efficiënte en aanpasbare Java-code.
+keywords: [Aspose Excel., Java Aspose.Cells., Smart JPG files to SXC Converter for Java., Convert JPG to SXC in Java., JPG files to SXC Conversion in Java., Leverage intelligent data processing to automatically parse and save JPG into SXC format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Converteer JPG naar SXC in Java" h2="Snelle Java-bibliotheek voor het converteren van JPG naar SXC. Dit is een professionele softwareoplossing voor het importeren en exporteren van JPG, SXC en vele andere formaten met behulp van Java." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="SXC" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="CSV" >}}
@@ -45,9 +45,9 @@ keywords: [Aspose Excel., Java Aspose.Cells., Convert JPG to SXC in Java., Save 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Sla JPG op naar SXC in Java" %}}
+{{% blocks/products/pf/agp/content h2="Sla JPG op als SXC in Java" %}}
 
-Het volgende voorbeeld laat zien hoe u JPG converteert naar SXC in Java.
+Het volgende voorbeeld laat zien hoe je een JPG-bestand naar SXC in Java kunt converteren.
 {{% blocks/products/pf/agp/text %}}
 
 Volg de eenvoudige stappen om JPG naar SXC te converteren. Upload uw JPG-bestand en sla het vervolgens eenvoudig op als SXC-bestand. Voor zowel JPG-lezen als SXC-schrijven kunt u volledig gekwalificeerde bestandsnamen gebruiken. De inhoud en opmaak van de uitvoer SXC zullen identiek zijn aan het originele JPG-document.
@@ -56,19 +56,19 @@ Volg de eenvoudige stappen om JPG naar SXC te converteren. Upload uw JPG-bestand
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Voorbeeldcode om JPG naar SXC te converteren" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="jpg" outformat="sxc" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Voorbeeldcode om JPG naar SXC te converteren" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="jpg" outformat="sxc" IsLandingPage="true" language="java" %}}
 
-{{% blocks/products/pf/agp/content h2="Hoe JPG naar SXC via Java te converteren" %}}
+{{% blocks/products/pf/agp/content h2="Hoe converteer je een JPG-bestand naar SXC via Java?" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
-Wilt u JPG-bestanden programmatisch naar SXC converteren? Java-ontwikkelaars kunnen JPG eenvoudig met slechts een paar regels code naar SXC converteren.
+Moet je JPG-bestanden programmatisch converteren naar SXC? Ontwikkelaars kunnen JPG-bestanden eenvoudig converteren naar SXC met slechts een paar regels code.
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Installeer 'Aspose.Cells for Java'.
 1.  Voeg een bibliotheekreferentie toe (importeer de bibliotheek) aan uw Java-project.
-1.  Laad een JPG-bestand met een exemplaar van de Workbook-klasse.
+1.  Laad een JPG-bestand met een instantie van de Workbook-klasse.
 1.  Converteer JPG naar SXC door de Workbook.save-methode aan te roepen.
 1.  Verkrijg het conversieresultaat van JPG naar SXC.
 

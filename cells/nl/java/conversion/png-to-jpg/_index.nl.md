@@ -1,7 +1,7 @@
 ---
 title: Java PNG naar JPG - PNG naar JPG-converter
-description: Aspose Excel. Converteer PNG snel en eenvoudig naar JPG met Aspose.Cells. Java PNG naar JPG. Java Sla PNG op in JPG. Sla PNG op als JPG met Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Convert PNG to JPG in Java., Save PNG to JPG using Java., Java PNG to JPG saveformat., PNG to JPG Converter., Java Save PNG as JPG]
+description: Aspose Excel. Deze complete oplossing biedt ontwikkelaars een volledig geïntegreerde aanpak om PNG naar JPG-formaat te converteren, waardoor het naadloos opslaan van PNG-gegevens in JPG-formaat mogelijk is met behulp van de Aspose.Cells-bibliotheek, allemaal via efficiënte en aanpasbare Java-code.
+keywords: [Aspose Excel., Java Aspose.Cells., Smart PNG files to JPG Converter for Java., Convert PNG to JPG in Java., PNG files to JPG Conversion in Java., Leverage intelligent data processing to automatically parse and save PNG into JPG format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Converteer PNG naar JPG in Java" h2="Snelle Java-bibliotheek voor het converteren van PNG naar JPG. Dit is een professionele softwareoplossing voor het importeren en exporteren van PNG, JPG en vele andere formaten met behulp van Java." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="JPG" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="CSV" >}}
@@ -47,7 +47,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Convert PNG to JPG in Java., Save 
 
 {{% blocks/products/pf/agp/content h2="Sla PNG op als JPG in Java" %}}
 
-Het volgende voorbeeld laat zien hoe u PNG naar JPG converteert in Java.
+Het volgende voorbeeld laat zien hoe je PNG naar JPG kunt converteren in Java.
 {{% blocks/products/pf/agp/text %}}
 
 Volg de eenvoudige stappen om PNG naar JPG te converteren. Upload uw PNG-bestand en sla het vervolgens eenvoudig op als JPG-bestand. Voor zowel PNG lezen als JPG schrijven kunt u volledig gekwalificeerde bestandsnamen gebruiken. De uitvoer-JPG-inhoud en -opmaak zijn identiek aan het originele PNG-document.
@@ -56,19 +56,19 @@ Volg de eenvoudige stappen om PNG naar JPG te converteren. Upload uw PNG-bestand
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Voorbeeldcode om PNG naar JPG te converteren" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="png" outformat="jpg" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Voorbeeldcode om PNG naar JPG te converteren" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="png" outformat="jpg" IsLandingPage="true" language="java" %}}
 
-{{% blocks/products/pf/agp/content h2="Hoe PNG naar JPG via Java te converteren" %}}
+{{% blocks/products/pf/agp/content h2="Hoe converteer ik PNG naar JPG?" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
-Wilt u PNG-bestanden programmatisch naar JPG converteren? Java-ontwikkelaars kunnen PNG eenvoudig met slechts een paar regels code naar JPG converteren.
+Moet je bestanden met de extensie PNG programmatisch naar JPG converteren? Ontwikkelaars van Java kunnen bestanden met de extensie PNG eenvoudig naar JPG converteren met slechts een paar regels code.
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Installeer 'Aspose.Cells for Java'.
 1.  Voeg een bibliotheekreferentie toe (importeer de bibliotheek) aan uw Java-project.
-1. Laad bestand PNG met een exemplaar van de klasse Workbook.
+1.  Laad bestand PNG met een instantie van de klasse Workbook.
 1.  Converteer PNG naar JPG door de Workbook.save-methode aan te roepen.
 1.  Verkrijg het conversieresultaat van PNG naar JPG.
 

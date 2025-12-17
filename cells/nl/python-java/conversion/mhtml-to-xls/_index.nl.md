@@ -1,7 +1,7 @@
 ---
 title: Python MHTML tot XLS - MHTML tot XLS Converter
-description: Aspose Excel. Python Excel. Converteer MHTML snel en eenvoudig naar XLS met Aspose.Cells. Python MHTML naar XLS. Python Bewaar MHTML naar XLS. Bewaar MHTML als 076112 3481 met behulp van de Excel-bibliotheek Python.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert MHTML to XLS in Python Excel Library., Save MHTML to XLS using Python Excel Library., Python MHTML to XLS saveformat., MHTML to XLS Converter., Python Save MHTML as XLS]
+description: Aspose Excel. Deze uitgebreide oplossing biedt ontwikkelaars een volledig geïntegreerde aanpak voor het converteren van gegevens van het formaat MHTML naar XLS, waardoor naadloos opslaan van gegevens in het formaat MHTML mogelijk is met behulp van de bibliotheek Aspose.Cells, allemaal via efficiënte en aanpasbare code Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart MHTML files to XLS Converter for Python., Convert MHTML to XLS in Python., MHTML files to XLS Conversion in Python., Leverage intelligent data processing to automatically parse and save MHTML into XLS format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Converteer MHTML naar XLS in de Excel-bibliotheek Python" h2="Snelle Python Excel-bibliotheek voor het converteren van MHTML naar XLS. Dit is een professionele softwareoplossing voor het importeren en exporteren van MHTML, XLS en vele andere formaten met behulp van Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLS" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -27,7 +27,7 @@ Volg de eenvoudige stappen om MHTML naar XLS te converteren. Upload uw MHTML-bes
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Voorbeeldcode om MHTML naar XLS te converteren via de Excel-bibliotheek Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="mhtml" outformat="xls" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="Voorbeeldcode om MHTML naar XLS te converteren via de Excel-bibliotheek Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="mhtml" outformat="xls" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="Hoe u MHTML naar XLS kunt converteren via Python" %}}
 

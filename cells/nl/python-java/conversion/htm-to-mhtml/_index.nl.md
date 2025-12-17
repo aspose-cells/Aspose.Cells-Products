@@ -1,7 +1,7 @@
 ---
 title: Python HTM naar MHTML - HTM naar MHTML Omvormer
-description: Aspose Excel. Python Excel. Converteer HTM snel en eenvoudig naar MHTML met Aspose.Cells. Python HTM naar MHTML. Python Bewaar HTM naar MHTML. Sla HTM op als MHTML met behulp van de Excel-bibliotheek Python.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert HTM to MHTML in Python Excel Library., Save HTM to MHTML using Python Excel Library., Python HTM to MHTML saveformat., HTM to MHTML Converter., Python Save HTM as MHTML]
+description: Aspose Excel. Deze complete oplossing biedt ontwikkelaars een volledig geïntegreerde aanpak voor het converteren van HTML naar het formaat MHTML, waardoor HTML-gegevens naadloos kunnen worden opgeslagen in het formaat MHTML met behulp van de bibliotheek Aspose.Cells, en dat alles via efficiënte en aanpasbare code Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart HTM files to MHTML Converter for Python., Convert HTM to MHTML in Python., HTM files to MHTML Conversion in Python., Leverage intelligent data processing to automatically parse and save HTM into MHTML format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Converteer HTM naar MHTML in de Excel-bibliotheek Python" h2="Snelle Python Excel-bibliotheek voor het converteren van HTM naar MHTML. Dit is een professionele softwareoplossing voor het importeren en exporteren van HTM, MHTML en vele andere formaten met behulp van Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="MHTML" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -27,7 +27,7 @@ Volg de eenvoudige stappen om HTM naar MHTML te converteren. Upload uw HTM-besta
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Voorbeeldcode om HTM naar MHTML te converteren via de Excel-bibliotheek Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="htm" outformat="mhtml" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="Voorbeeldcode om HTM naar MHTML te converteren via de Excel-bibliotheek Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="htm" outformat="mhtml" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="HTM converteren naar MHTML via Python" %}}
 

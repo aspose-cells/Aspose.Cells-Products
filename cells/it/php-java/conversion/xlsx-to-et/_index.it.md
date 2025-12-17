@@ -1,7 +1,7 @@
 ---
 title: Convertitore da PHP XLSX a ET - XLSX a ET
-description: Aspose Excel. Converti XLSX in ET in modo rapido e semplice con Aspose.Cells. PHP XLSX in ET. PHP Salva XLSX su ET. Salva XLSX come ET utilizzando PHP.
-keywords: [Aspose Excel., PHP Aspose.Cells., Convert XLSX to ET in PHP., Save XLSX to ET using PHP., PHP XLSX to ET saveformat., XLSX to ET Converter., PHP Save XLSX as ET]
+description: Aspose Excel. Questa soluzione completa fornisce agli sviluppatori PHP un approccio completamente integrato per convertire XLSX in formato ET, consentendo il salvataggio senza interruzioni dei dati XLSX in formato ET utilizzando la libreria Aspose.Cells, il tutto tramite codice PHP efficiente e personalizzabile.
+keywords: [Aspose Excel., PHP Aspose.Cells., Smart XLSX files to ET Converter for PHP., Convert XLSX to ET in PHP., XLSX files to ET Conversion in PHP., Leverage intelligent data processing to automatically parse and save XLSX into ET format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Converti XLSX in ET in PHP" h2="Libreria PHP ad alta velocità per convertire XLSX in ET. Questa è una soluzione software professionale per importare ed esportare XLSX, ET e molti altri formati utilizzando PHP." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-php-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="ET" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,11 +12,11 @@ keywords: [Aspose Excel., PHP Aspose.Cells., Convert XLSX to ET in PHP., Save XL
 
 {{% blocks/products/pf/agp/content h2="Converti XLSX in ET utilizzando PHP" %}}
 
- Come posso convertire XLSX in ET? Con la libreria Aspose.Cells for PHP via Java, puoi convertire facilmente XLSX in ET a livello di codice con poche righe di codice.[Aspose.Cells for PHP via Java](https://products.aspose.com/cells/php-java/) è in grado di creare applicazioni multipiattaforma con la capacità di generare, modificare, convertire, eseguire il rendering e stampare tutti i file Excel. PHP Excel API non solo converte tra formati di foglio di calcolo, ma può anche eseguire il rendering di file Excel come immagini, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT e altro, rendendolo quindi una scelta perfetta per lo scambio di documenti in formati standard del settore.
+ Come converto XLSX in ET? Con la libreria Aspose.Cells for PHP via Java, puoi convertire facilmente XLSX in ET a livello di codice, con poche righe di codice.[Aspose.Cells for PHP via Java](https://products.aspose.com/cells/php-java/) È in grado di creare applicazioni multipiattaforma con la capacità di generare, modificare, convertire, visualizzare e stampare tutti i file Excel. PHP Excel API non solo converte tra formati di fogli di calcolo, ma può anche visualizzare i file Excel come immagini, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT e altro ancora, rendendolo la scelta perfetta per lo scambio di documenti nei formati standard del settore.
  
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Salva XLSX su ET in PHP" %}}
+{{% blocks/products/pf/agp/content h2="Salva XLSX in ET in PHP" %}}
 
 L'esempio seguente mostra come convertire XLSX in ET in PHP.
 {{% blocks/products/pf/agp/text %}}
@@ -27,20 +27,20 @@ Segui i semplici passaggi per convertire XLSX in ET. Carica il tuo file XLSX, qu
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Codice di esempio per convertire XLSX in ET" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsx" outformat="et" IsLandingPage="true" language="phpjava" %}}
+{{% cells-convert title="Codice di esempio per convertire XLSX in ET" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="xlsx" outformat="et" IsLandingPage="true" language="phpjava" %}}
 
 {{% blocks/products/pf/agp/content h2="Come convertire XLSX in ET tramite PHP" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
-È necessario convertire i file XLSX in ET a livello di codice? Gli sviluppatori PHP possono caricare e convertire facilmente XLSX in ET in poche righe di codice.
+Hai bisogno di convertire i file XLSX in ET tramite codice? Gli sviluppatori PHP possono caricare e convertire facilmente i file XLSX in ET in poche righe di codice.
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Installa 'Aspose.Cells for PHP via Java'.
 1.  Aggiungi un riferimento alla libreria (importa la libreria) al tuo progetto PHP.
 1.  Carica il file XLSX con un'istanza di Workbook.
-1.  Converti XLSX in ET chiamando il metodo di salvataggio della cartella di lavoro.
+1. Converti XLSX in ET chiamando il metodo save di Workbook.
 1.  Ottieni il risultato della conversione da XLSX a ET.
 
 {{% /blocks/products/pf/agp/content %}}
@@ -63,7 +63,7 @@ Esistono tre opzioni per installare "Aspose.Cells for PHP via Java" sul tuo sist
 
 {{% blocks/products/pf/agp/text %}}
 
-Aspose.Cells for PHP via Java è indipendente dalla piattaforma API e può essere utilizzato su qualsiasi piattaforma (Windows, Linux, MacOS ecc.) su cui è installato PHP 7 o versioni successive. La macchina deve disporre di Oracle JDK 7 o versioni successive prima di configurare l'installazione.
+ Aspose.Cells for PHP via Java è indipendente dalla piattaforma API e può essere utilizzato su qualsiasi piattaforma (Windows, Linux, macOS ecc.) su cui sia installato PHP 7 o versioni successive. Il computer deve disporre di Oracle JDK 7 o versioni successive prima di poter configurare l'installazione.
  
 {{% /blocks/products/pf/agp/text %}}
 
@@ -82,7 +82,7 @@ Aspose.Cells for PHP via Java è indipendente dalla piattaforma API e può esser
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/php-java/conversion/xlsx-to-bmp/" name="dallo XLSX allo BMP" description="Immagine bitmap" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/php-java/conversion/xlsx-to-emf/" name="dallo XLSX allo EMF" description="Formato metafile avanzato" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/php-java/conversion/xlsx-to-gif/" name="dallo XLSX allo GIF" description="Formato di interscambio grafico" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/php-java/conversion/xlsx-to-html/" name="dallo XLSX allo HTML" description="Hyper Text Markup Language" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/php-java/conversion/xlsx-to-html/" name="dallo XLSX allo HTML" description="Linguaggio di markup ipertestuale" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/php-java/conversion/xlsx-to-md/" name="XLSX AL MD" description="Linguaggio di ribasso" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/php-java/conversion/xlsx-to-mhtml/" name="dallo XLSX allo MHTML" description="Formato di archivio delle pagine Web" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/php-java/conversion/xlsx-to-ods/" name="dallo XLSX allo ODS" description="File di foglio di calcolo OpenDocument" >}}

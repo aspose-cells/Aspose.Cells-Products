@@ -1,7 +1,7 @@
 ---
 title: FODS 생성 - C++에 FODS 파일 생성
-description: Aspose 엑셀. C++ Aspose.Cells을 사용하여 빠르고 쉽게 FODS 파일을 생성합니다. C++을 사용하여 FODS 파일을 생성합니다. C++에서 FODS을 생성합니다. C++ FODS 생성자.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ Create FODS file., Generate FODS file in C++., Create FODS file using C++., Write data to FODS file via C++., Create a FODS file in C++., C++ Generate a FODS file., C++ FODS Creater]
+description: Aspose Excel. Aspose.Cells for C++ 라이브러리를 사용하여 FODS 파일을 손쉽게 생성하고 조작하세요. 이 강력한 API 라이브러리는 FODS 파일을 C++ 애플리케이션 내에서 직접 생성, 편집 및 관리할 수 있는 간소화되고 효율적인 솔루션을 제공하여 개발자의 특정 요구 사항을 높은 정확도로 충족합니다.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ Create FODS file., Generate FODS file in C++., Write data to FODS file via C++., C++ FODS Creater., Aspose.Cells for C++ is a powerful library that enables developers to programmatically create, generate, and manipulate FODS files in C++]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="C++에 FODS 파일 생성" h2="C++ 라이브러리를 사용하여 Micorsoft Office 없이 프로그래밍 방식으로 기본 및 고성능 FODS 파일 생성." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" sourceAdditionalConversionTag="" additionalConversionTag="FODS" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -11,7 +11,7 @@ keywords: [Aspose Excel., C++ Aspose.Cells., C++ Create FODS file., Generate FOD
 
 {{% blocks/products/pf/agp/content h2="C++을 사용하여 FODS 파일 생성" %}}
 
- FODS 파일을 만드는 방법은 무엇입니까? Aspose.Cells for C++ 라이브러리를 사용하면 몇 줄의 코드로 프로그래밍 방식으로 FODS 파일을 쉽게 만들 수 있습니다.[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) 모든 Excel 파일을 생성, 수정, 변환, 렌더링 및 인쇄할 수 있는 기능을 갖춘 크로스 플랫폼 애플리케이션을 구축할 수 있습니다. C++ Excel API 스프레드시트 형식 간에 변환할 뿐만 아니라 Excel 파일을 이미지(PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT 등)로 렌더링할 수도 있으므로 업계 표준 형식으로 문서를 교환하는 데 완벽한 선택입니다. 최신 버전을 직접 다운로드할 수 있습니다. 열기만 하면 됩니다.[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) 패키지 관리자에서 Aspose.Cells.Cpp를 검색하여 설치하세요. 패키지 관리자 콘솔에서 다음 명령을 사용할 수도 있습니다.
+ FODS 파일을 만드는 방법은 무엇입니까? Aspose.Cells for C++ 라이브러리를 사용하면 몇 줄의 코드로 프로그래밍 방식으로 FODS 파일을 쉽게 만들 수 있습니다.[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) 모든 Excel 파일을 생성, 수정, 변환, 렌더링 및 인쇄할 수 있는 기능을 갖춘 크로스 플랫폼 애플리케이션을 구축할 수 있습니다. C++ Excel API 스프레드시트 형식 간에 변환할 뿐만 아니라 Excel 파일을 이미지(PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT 등)로 렌더링할 수도 있으므로 업계 표준 형식으로 문서를 교환하는 데 완벽한 선택입니다. 최신 버전을 직접 다운로드할 수 있습니다. 열기만 하면 됩니다.[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/)패키지 관리자에서 Aspose.Cells.Cpp를 검색하여 설치하세요. 패키지 관리자 콘솔에서 다음 명령을 사용할 수도 있습니다.
 
 {{% blocks/products/pf/agp/code-block title="명령" offSpacer="true" %}}
 
@@ -37,7 +37,7 @@ PM> Install-Package Aspose.Cells.Cpp
 1.  Workbook 클래스의 개체를 만듭니다.
 1.  첫 번째 시트를 Worksheet 개체로 가져옵니다.
 1.  Worksheet.GetCells() 메서드를 사용하여 워크시트의 셀을 Cells 개체로 가져옵니다.
-1. Cells.Get() 메서드를 사용하여 워크시트의 원하는 셀에 Cell 개체에 액세스합니다.
+1.  Cells.Get() 메서드를 사용하여 워크시트의 원하는 셀에 Cell 개체에 액세스합니다.
 1.  Cell.PutValue() 메소드를 사용하여 셀에 값을 입력합니다.
 1.  Save() 메서드를 사용하여 통합 문서를 .fods 파일로 저장합니다.
 
@@ -45,6 +45,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 ```cs
 Aspose::Cells::Startup();
+//TIFF format is not supported
 
 // Create an object of the Workbook class.
 Workbook wkb;
@@ -110,7 +111,7 @@ Aspose::Cells::Cleanup();
 
 <!-- aboutfile Starts -->
     {{< blocks/products/pf/agp/about-file-section >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="FODS" readMoreLink="https://docs.fileformat.com/spreadsheet/fods/" >}}확장자가 .fods인 파일은 데이터를 행과 열로 저장하는 OpenDocument 스프레드시트 문서 형식의 일종입니다. 형식은 OASIS에서 게시하고 유지 관리하는 ODF 1.2 사양의 일부로 지정됩니다. FODS 파일은 Microsoft의 또 다른 스프레드시트 소프트웨어 응용 프로그램인 Excel로 열 수 없습니다. FODS 파일은 LibreOffice를 사용하여 ODS로 저장할 수 있으며 XLS 및 XLSX과 같은 다른 형식으로 변환할 수 있습니다.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="FODS" readMoreLink="https://docs.fileformat.com/spreadsheet/fods/" >}}확장자가 .fods인 파일은 행과 열에 데이터를 저장하는 OpenDocument 스프레드시트 문서 형식의 일종입니다. 형식은 OASIS에서 게시하고 유지 관리하는 ODF 1.2 사양의 일부로 지정됩니다. FODS 파일은 Microsoft의 또 다른 스프레드시트 소프트웨어 응용 프로그램인 Excel로 열 수 없습니다. FODS 파일은 LibreOffice를 사용하여 ODS로 저장할 수 있으며 XLS 및 XLSX과 같은 다른 형식으로 변환할 수 있습니다.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
     {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->
 

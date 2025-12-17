@@ -1,7 +1,7 @@
 ---
 title: PHP XML naar TIFF - XML naar TIFF Converter
-description: Aspose Excel. Converteer XML snel en eenvoudig naar TIFF met Aspose.Cells. PHP XML naar TIFF. PHP Sla XML op naar TIFF. Sla XML op als TIFF met behulp van PHP.
-keywords: [Aspose Excel., PHP Aspose.Cells., Convert XML to TIFF in PHP., Save XML to TIFF using PHP., PHP XML to TIFF saveformat., XML to TIFF Converter., PHP Save XML as TIFF]
+description: Aspose Excel. Deze complete oplossing biedt PHP-ontwikkelaars een volledig geïntegreerde aanpak voor het converteren van XML naar het TIFF-formaat. Hierdoor kunnen XML-gegevens naadloos worden opgeslagen in het TIFF-formaat met behulp van de Aspose.Cells-bibliotheek, en dat alles via efficiënte en aanpasbare PHP-code.
+keywords: [Aspose Excel., PHP Aspose.Cells., Smart XML files to TIFF Converter for PHP., Convert XML to TIFF in PHP., XML files to TIFF Conversion in PHP., Leverage intelligent data processing to automatically parse and save XML into TIFF format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Converteer XML naar TIFF in PHP" h2="Snelle PHP-bibliotheek voor het converteren van XML naar TIFF. Dit is een professionele softwareoplossing voor het importeren en exporteren van XML, TIFF en vele andere formaten met behulp van PHP." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-php-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="TIFF" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,13 +12,13 @@ keywords: [Aspose Excel., PHP Aspose.Cells., Convert XML to TIFF in PHP., Save X
 
 {{% blocks/products/pf/agp/content h2="Converteer XML naar TIFF met behulp van PHP" %}}
 
-Hoe converteer ik XML naar TIFF? Met de bibliotheek Aspose.Cells for PHP via Java kunt u eenvoudig XML met een paar regels code programmatisch naar TIFF converteren.[Aspose.Cells for PHP via Java](https://products.aspose.com/cells/php-java/) is in staat om platformonafhankelijke applicaties te bouwen met de mogelijkheid om alle Excel-bestanden te genereren, wijzigen, converteren, renderen en afdrukken. PHP Excel API converteert niet alleen tussen spreadsheetformaten, het kan ook Excel-bestanden weergeven als afbeeldingen, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT en meer, waardoor het een perfecte keuze is om documenten uit te wisselen in industriestandaardformaten.
+ Hoe converteer ik XML naar TIFF? Met de bibliotheek Aspose.Cells for PHP via Java kunt u XML eenvoudig programmatisch converteren naar TIFF met slechts een paar regels code.[Aspose.Cells for PHP via Java](https://products.aspose.com/cells/php-java/) PHP Excel API is in staat om platformonafhankelijke applicaties te bouwen die alle Excel-bestanden kunnen genereren, bewerken, converteren, weergeven en afdrukken. Het kan niet alleen converteren tussen spreadsheetformaten, maar ook Excel-bestanden weergeven als afbeeldingen (PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT) en meer, waardoor het een perfecte keuze is voor het uitwisselen van documenten in industriestandaardformaten.
  
 {{% /blocks/products/pf/agp/content %}}
 
 {{% blocks/products/pf/agp/content h2="Sla XML op naar TIFF in PHP" %}}
 
-Het volgende voorbeeld laat zien hoe u XML naar TIFF in PHP converteert.
+Het volgende voorbeeld laat zien hoe je XML naar TIFF converteert in PHP.
 {{% blocks/products/pf/agp/text %}}
 
 Volg de eenvoudige stappen om XML naar TIFF te converteren. Upload uw XML-bestand en sla het vervolgens eenvoudig op als TIFF-bestand. Voor zowel het lezen van XML als het schrijven van TIFF kunt u volledig gekwalificeerde bestandsnamen gebruiken. De inhoud en opmaak van de uitvoer TIFF zullen identiek zijn aan het originele XML-document.
@@ -27,20 +27,20 @@ Volg de eenvoudige stappen om XML naar TIFF te converteren. Upload uw XML-bestan
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Voorbeeldcode om XML naar TIFF te converteren" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xml" outformat="tiff" IsLandingPage="true" language="phpjava" %}}
+{{% cells-convert title="Voorbeeldcode om XML naar TIFF te converteren" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="xml" outformat="tiff" IsLandingPage="true" language="phpjava" %}}
 
-{{% blocks/products/pf/agp/content h2="Hoe XML naar TIFF te converteren via PHP" %}}
+{{% blocks/products/pf/agp/content h2="Hoe converteer je XML naar TIFF via PHP?" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
-Wilt u XML-bestanden programmatisch naar TIFF converteren? PHP-ontwikkelaars kunnen eenvoudig XML in slechts een paar regels code laden en converteren naar TIFF.
+Moet je XML-bestanden programmatisch converteren naar TIFF? PHP-ontwikkelaars kunnen XML-bestanden eenvoudig laden en converteren naar TIFF met slechts een paar regels code.
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Installeer 'Aspose.Cells for PHP via Java'.
-1.  Voeg een bibliotheekreferentie toe (importeer de bibliotheek) aan uw PHP-project.
+1.  Voeg een bibliotheekreferentie (importeer de bibliotheek) toe aan je PHP-project.
 1.  Laad een XML-bestand met een exemplaar van Workbook.
-1.  Converteer XML naar TIFF door de opslagmethode van Workbook aan te roepen.
+1.  Converteer XML naar TIFF door de save-methode van Workbook aan te roepen.
 1.  Haal het conversieresultaat van XML op naar TIFF.
 
 {{% /blocks/products/pf/agp/content %}}
@@ -63,7 +63,7 @@ Er zijn drie opties om "Aspose.Cells for PHP via Java" op uw systeem te installe
 
 {{% blocks/products/pf/agp/text %}}
 
-Aspose.Cells for PHP via Java is platformonafhankelijk API en kan worden gebruikt op elk platform (Windows, Linux, MacOS etc.) waarop PHP 7 of hogere versies zijn geïnstalleerd. De machine moet beschikken over versies van Oracle JDK 7 of hoger voordat u de installatie kunt instellen.
+ Aspose.Cells for PHP via Java is platformonafhankelijk en kan worden gebruikt op elk platform (Windows, Linux, MacOS, enz.) waarop PHP 7 of een latere versie is geïnstalleerd. De machine moet Oracle JDK 7 of een latere versie hebben voordat de installatie kan worden uitgevoerd.
  
 {{% /blocks/products/pf/agp/text %}}
 

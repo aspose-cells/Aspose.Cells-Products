@@ -1,7 +1,7 @@
 ---
 title: Python JPEG tot SVG - JPEG tot SVG Converter
-description: Aspose Excel. Python Excel. Converteer JPEG snel en eenvoudig naar SVG met Aspose.Cells. Python JPEG naar SVG. Python Bewaar JPEG naar SVG. Bewaar JPEG als 076112 3481 met behulp van de Excel-bibliotheek Python.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert JPEG to SVG in Python Excel Library., Save JPEG to SVG using Python Excel Library., Python JPEG to SVG saveformat., JPEG to SVG Converter., Python Save JPEG as SVG]
+description: Aspose Excel. Deze uitgebreide oplossing biedt ontwikkelaars een volledig geïntegreerde aanpak voor het converteren van gegevens van het formaat JPEG naar SVG, waardoor naadloos opslaan van gegevens in het formaat JPEG mogelijk is met behulp van de bibliotheek Aspose.Cells, allemaal via efficiënte en aanpasbare code Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart JPEG files to SVG Converter for Python., Convert JPEG to SVG in Python., JPEG files to SVG Conversion in Python., Leverage intelligent data processing to automatically parse and save JPEG into SVG format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Converteer JPEG naar SVG in de Excel-bibliotheek Python" h2="Snelle Python Excel-bibliotheek voor het converteren van JPEG naar SVG. Dit is een professionele softwareoplossing voor het importeren en exporteren van JPEG, SVG en vele andere formaten met behulp van Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="SVG" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -27,7 +27,7 @@ Volg de eenvoudige stappen om JPEG naar SVG te converteren. Upload uw JPEG-besta
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Voorbeeldcode om JPEG naar SVG te converteren via de Excel-bibliotheek Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="jpg" outformat="svg" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="Voorbeeldcode om JPEG naar SVG te converteren via de Excel-bibliotheek Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="jpg" outformat="svg" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="Hoe u JPEG naar SVG kunt converteren via Python" %}}
 

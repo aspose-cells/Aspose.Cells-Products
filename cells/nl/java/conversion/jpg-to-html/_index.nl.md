@@ -1,7 +1,7 @@
 ---
 title: Java JPG naar HTML - JPG naar HTML Converter
-description: Aspose Excel. Converteer JPG snel en eenvoudig naar HTML met Aspose.Cells. Java JPG naar HTML. Java Sla JPG op naar HTML. Sla JPG op als HTML met Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Convert JPG to HTML in Java., Save JPG to HTML using Java., Java JPG to HTML saveformat., JPG to HTML Converter., Java Save JPG as HTML]
+description: Aspose Excel. Deze uitgebreide oplossing biedt Java ontwikkelaars een volledig geïntegreerde aanpak voor het converteren van JPG naar HTML-formaat, waardoor naadloos opslaan van JPG-gegevens in HTML-formaat mogelijk is met behulp van de Aspose.Cells-bibliotheek, allemaal via efficiënte en aanpasbare Java-code.
+keywords: [Aspose Excel., Java Aspose.Cells., Smart JPG files to HTML Converter for Java., Convert JPG to HTML in Java., JPG files to HTML Conversion in Java., Leverage intelligent data processing to automatically parse and save JPG into HTML format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Converteer JPG naar HTML in Java" h2="Snelle Java-bibliotheek voor het converteren van JPG naar HTML. Dit is een professionele softwareoplossing voor het importeren en exporteren van JPG, HTML en vele andere formaten met behulp van Java." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="HTML" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="CSV" >}}
@@ -45,9 +45,9 @@ keywords: [Aspose Excel., Java Aspose.Cells., Convert JPG to HTML in Java., Save
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Sla JPG op naar HTML in Java" %}}
+{{% blocks/products/pf/agp/content h2="Sla JPG op als HTML in Java" %}}
 
-Het volgende voorbeeld laat zien hoe u JPG converteert naar HTML in Java.
+Het volgende voorbeeld laat zien hoe je een JPG-bestand naar HTML in Java kunt converteren.
 {{% blocks/products/pf/agp/text %}}
 
 Volg de eenvoudige stappen om JPG naar HTML te converteren. Upload uw JPG-bestand en sla het vervolgens eenvoudig op als HTML-bestand. Voor zowel JPG-lezen als HTML-schrijven kunt u volledig gekwalificeerde bestandsnamen gebruiken. De inhoud en opmaak van de uitvoer HTML zullen identiek zijn aan het originele JPG-document.
@@ -56,19 +56,19 @@ Volg de eenvoudige stappen om JPG naar HTML te converteren. Upload uw JPG-bestan
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Voorbeeldcode om JPG naar HTML te converteren" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="jpg" outformat="html" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Voorbeeldcode om JPG naar HTML te converteren" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="jpg" outformat="html" IsLandingPage="true" language="java" %}}
 
-{{% blocks/products/pf/agp/content h2="Hoe JPG naar HTML via Java te converteren" %}}
+{{% blocks/products/pf/agp/content h2="Hoe converteer je een JPG-bestand naar HTML via Java?" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
-Wilt u JPG-bestanden programmatisch naar HTML converteren? Java-ontwikkelaars kunnen JPG eenvoudig met slechts een paar regels code naar HTML converteren.
+Moet je JPG-bestanden programmatisch converteren naar HTML? Ontwikkelaars kunnen JPG-bestanden eenvoudig converteren naar HTML met slechts een paar regels code.
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Installeer 'Aspose.Cells for Java'.
 1.  Voeg een bibliotheekreferentie toe (importeer de bibliotheek) aan uw Java-project.
-1.  Laad een JPG-bestand met een exemplaar van de Workbook-klasse.
+1.  Laad een JPG-bestand met een instantie van de Workbook-klasse.
 1.  Converteer JPG naar HTML door de Workbook.save-methode aan te roepen.
 1.  Verkrijg het conversieresultaat van JPG naar HTML.
 

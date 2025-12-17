@@ -1,7 +1,7 @@
 ---
 title: Java XLT tot TXT - XLT tot TXT Converter
-description: Aspose Excel. Converteer XLT snel en eenvoudig naar TXT met Aspose.Cells. Java XLT naar TXT. Java Bewaar XLT in TXT. Bewaar XLT als 07611134 81 via Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Convert XLT to TXT in Java., Save XLT to TXT using Java., Java XLT to TXT saveformat., XLT to TXT Converter., Java Save XLT as TXT]
+description: Aspose Excel. Deze uitgebreide oplossing biedt ontwikkelaars een volledig geïntegreerde aanpak voor het converteren van gegevens van het formaat XLT naar TXT, waardoor naadloos opslaan van gegevens in het formaat XLT mogelijk is met behulp van de bibliotheek Aspose.Cells, allemaal via efficiënte en aanpasbare code Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Smart XLT files to TXT Converter for Java., Convert XLT to TXT in Java., XLT files to TXT Conversion in Java., Leverage intelligent data processing to automatically parse and save XLT into TXT format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Converteer XLT naar TXT in Java" h2="Snelle Java-bibliotheek voor het converteren van XLT naar TXT. Dit is een professionele softwareoplossing voor het importeren en exporteren van XLT, TXT en vele andere formaten met behulp van Java." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="TXT" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Convert XLT to TXT in Java., Save 
 
 {{% blocks/products/pf/agp/content h2="Converteer XLT naar TXT met behulp van Java" %}}
 
-Hoe converteer ik XLT naar TXT? Met de bibliotheek Aspose.Cells for Java kunt u XLT eenvoudig programmatisch naar TXT converteren met een paar regels code.[Aspose.Cells for Java](https://products.aspose.com/cells/java)is in staat om platformonafhankelijke applicaties te bouwen met de mogelijkheid om alle Excel-bestanden te genereren, wijzigen, converteren, renderen en afdrukken. Java Excel API converteert niet alleen tussen spreadsheetformaten, het kan ook Excel-bestanden weergeven als afbeeldingen, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT en meer, waardoor het een perfecte keuze is om documenten uit te wisselen in industriestandaardformaten. U kunt de nieuwste versie rechtstreeks downloaden van[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) en installeer het binnen uw op Maven gebaseerde project door de volgende configuraties toe te voegen aan pom.xml.
+ Hoe converteer ik XLT naar TXT? Met de bibliotheek Aspose.Cells for Java kunt u XLT eenvoudig programmatisch naar TXT converteren met een paar regels code.[Aspose.Cells for Java](https://products.aspose.com/cells/java)is in staat om platformonafhankelijke applicaties te bouwen met de mogelijkheid om alle Excel-bestanden te genereren, wijzigen, converteren, renderen en afdrukken. Java Excel API converteert niet alleen tussen spreadsheetformaten, het kan ook Excel-bestanden weergeven als afbeeldingen, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT en meer, waardoor het een perfecte keuze is om documenten uit te wisselen in industriestandaardformaten. U kunt de nieuwste versie rechtstreeks downloaden van[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) en installeer het binnen uw op Maven gebaseerde project door de volgende configuraties toe te voegen aan pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Opslagplaats" offSpacer="true" %}}
 
@@ -45,9 +45,9 @@ Hoe converteer ik XLT naar TXT? Met de bibliotheek Aspose.Cells for Java kunt u 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Bewaar XLT t/m TXT in Java" %}}
+{{% blocks/products/pf/agp/content h2="Sla XLT op in TXT in Java" %}}
 
-Het volgende voorbeeld laat zien hoe u XLT converteert naar TXT in Java.
+Het volgende voorbeeld laat zien hoe je XLT omzet naar TXT in Java.
 {{% blocks/products/pf/agp/text %}}
 
 Volg de eenvoudige stappen om XLT naar TXT te converteren. Upload uw XLT-bestand en sla het vervolgens eenvoudig op als TXT-bestand. Voor zowel XLT lezen als TXT schrijven kunt u volledig gekwalificeerde bestandsnamen gebruiken. De inhoud en opmaak van de uitvoer TXT zullen identiek zijn aan het originele document XLT.
@@ -56,19 +56,19 @@ Volg de eenvoudige stappen om XLT naar TXT te converteren. Upload uw XLT-bestand
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Voorbeeldcode om XLT naar TXT te converteren" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlt" outformat="txt" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Voorbeeldcode om XLT naar TXT te converteren" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="xlt" outformat="txt" IsLandingPage="true" language="java" %}}
 
-{{% blocks/products/pf/agp/content h2="Hoe XLT naar TXT via Java te converteren" %}}
+{{% blocks/products/pf/agp/content h2="Hoe zet ik XLT om naar TXT of via Java?" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
-Wilt u XLT-bestanden programmatisch naar TXT converteren? Java-ontwikkelaars kunnen XLT eenvoudig in slechts een paar regels code naar TXT converteren.
+Moet je bestanden met de extensie XLT programmatisch converteren naar TXT? Ontwikkelaars van Java kunnen bestanden met de extensie XLT eenvoudig converteren naar TXT met slechts een paar regels code.
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Installeer 'Aspose.Cells for Java'.
 1.  Voeg een bibliotheekreferentie toe (importeer de bibliotheek) aan uw Java-project.
-1. Laad bestand XLT met een exemplaar van de klasse Workbook.
+1.  Laad bestand XLT met een instantie van de klasse Workbook.
 1.  Converteer XLT naar TXT door de Workbook.save-methode aan te roepen.
 1.  Verkrijg het conversieresultaat van XLT naar TXT.
 

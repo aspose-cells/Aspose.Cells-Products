@@ -1,7 +1,7 @@
 ---
 title: PHP JPG naar SVG - JPG naar SVG Converter
-description: Aspose Excel. Converteer JPG snel en eenvoudig naar SVG met Aspose.Cells. PHP JPG naar SVG. PHP Bewaar JPG naar SVG. Sla JPG op als SVG met behulp van PHP.
-keywords: [Aspose Excel., PHP Aspose.Cells., Convert JPG to SVG in PHP., Save JPG to SVG using PHP., PHP JPG to SVG saveformat., JPG to SVG Converter., PHP Save JPG as SVG]
+description: Aspose Excel. Deze complete oplossing biedt PHP-ontwikkelaars een volledig geïntegreerde aanpak voor het converteren van JPG naar het SVG-formaat. Hierdoor kunnen JPG-gegevens naadloos worden opgeslagen in het SVG-formaat met behulp van de Aspose.Cells-bibliotheek, allemaal via efficiënte en aanpasbare PHP-code.
+keywords: [Aspose Excel., PHP Aspose.Cells., Smart JPG files to SVG Converter for PHP., Convert JPG to SVG in PHP., JPG files to SVG Conversion in PHP., Leverage intelligent data processing to automatically parse and save JPG into SVG format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Converteer JPG naar SVG in PHP" h2="Snelle PHP-bibliotheek voor het converteren van JPG naar SVG. Dit is een professionele softwareoplossing voor het importeren en exporteren van JPG, SVG en vele andere formaten met behulp van PHP." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-php-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="SVG" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,13 +12,13 @@ keywords: [Aspose Excel., PHP Aspose.Cells., Convert JPG to SVG in PHP., Save JP
 
 {{% blocks/products/pf/agp/content h2="Converteer JPG naar SVG met behulp van PHP" %}}
 
-Hoe converteer ik JPG naar SVG? Met de bibliotheek Aspose.Cells for PHP via Java kunt u eenvoudig JPG met een paar regels code programmatisch naar SVG converteren.[Aspose.Cells for PHP via Java](https://products.aspose.com/cells/php-java/) is in staat om platformonafhankelijke applicaties te bouwen met de mogelijkheid om alle Excel-bestanden te genereren, wijzigen, converteren, renderen en afdrukken. PHP Excel API converteert niet alleen tussen spreadsheetformaten, het kan ook Excel-bestanden weergeven als afbeeldingen, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT en meer, waardoor het een perfecte keuze is om documenten uit te wisselen in industriestandaardformaten.
+ Hoe converteer ik JPG naar SVG? Met de Aspose.Cells for PHP via Java bibliotheek kunt u JPG eenvoudig programmatisch converteren naar SVG met slechts een paar regels code.[Aspose.Cells for PHP via Java](https://products.aspose.com/cells/php-java/) PHP Excel API is in staat om platformonafhankelijke applicaties te bouwen die alle Excel-bestanden kunnen genereren, bewerken, converteren, weergeven en afdrukken. Het kan niet alleen converteren tussen spreadsheetformaten, maar ook Excel-bestanden weergeven als afbeeldingen (PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT) en meer, waardoor het een perfecte keuze is voor het uitwisselen van documenten in industriestandaardformaten.
  
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Sla JPG op naar SVG in PHP" %}}
+{{% blocks/products/pf/agp/content h2="Sla JPG op als SVG in PHP" %}}
 
-Het volgende voorbeeld laat zien hoe u JPG naar SVG in PHP converteert.
+Het volgende voorbeeld laat zien hoe je een JPG-bestand naar SVG kunt converteren in PHP.
 {{% blocks/products/pf/agp/text %}}
 
 Volg de eenvoudige stappen om JPG naar SVG te converteren. Upload uw JPG-bestand en sla het vervolgens eenvoudig op als SVG-bestand. Voor zowel JPG-lezen als SVG-schrijven kunt u volledig gekwalificeerde bestandsnamen gebruiken. De inhoud en opmaak van de uitvoer SVG zullen identiek zijn aan het originele JPG-document.
@@ -27,25 +27,25 @@ Volg de eenvoudige stappen om JPG naar SVG te converteren. Upload uw JPG-bestand
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Voorbeeldcode om JPG naar SVG te converteren" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="jpg" outformat="svg" IsLandingPage="true" language="phpjava" %}}
+{{% cells-convert title="Voorbeeldcode om JPG naar SVG te converteren" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="jpg" outformat="svg" IsLandingPage="true" language="phpjava" %}}
 
-{{% blocks/products/pf/agp/content h2="Hoe JPG naar SVG te converteren via PHP" %}}
+{{% blocks/products/pf/agp/content h2="Hoe converteer je een JPG-bestand naar SVG via PHP?" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
-Wilt u JPG-bestanden programmatisch naar SVG converteren? PHP-ontwikkelaars kunnen JPG eenvoudig laden en converteren naar SVG in slechts een paar regels code.
+Moet je JPG-bestanden programmatisch converteren naar SVG? PHP-ontwikkelaars kunnen JPG-bestanden eenvoudig laden en converteren naar SVG met slechts een paar regels code.
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Installeer 'Aspose.Cells for PHP via Java'.
-1.  Voeg een bibliotheekreferentie toe (importeer de bibliotheek) aan uw PHP-project.
+1.  Voeg een bibliotheekreferentie (importeer de bibliotheek) toe aan je PHP-project.
 1.  Laad een JPG-bestand met een exemplaar van Workbook.
-1.  Converteer JPG naar SVG door de opslagmethode van Workbook aan te roepen.
+1.  Converteer JPG naar SVG door de save-methode van Workbook aan te roepen.
 1.  Verkrijg het conversieresultaat van JPG naar SVG.
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="PHP-bibliotheek om JPG naar SVG te converteren" %}}
+{{% blocks/products/pf/agp/content h2="PHP-bibliotheek om JPG naar SVG te converteren." %}}
 
 {{% blocks/products/pf/agp/text %}}
 
@@ -63,7 +63,7 @@ Er zijn drie opties om "Aspose.Cells for PHP via Java" op uw systeem te installe
 
 {{% blocks/products/pf/agp/text %}}
 
-Aspose.Cells for PHP via Java is platformonafhankelijk API en kan worden gebruikt op elk platform (Windows, Linux, MacOS etc.) waarop PHP 7 of hogere versies zijn geïnstalleerd. De machine moet beschikken over versies van Oracle JDK 7 of hoger voordat u de installatie kunt instellen.
+ Aspose.Cells for PHP via Java is platformonafhankelijk en kan worden gebruikt op elk platform (Windows, Linux, MacOS, enz.) waarop PHP 7 of een latere versie is geïnstalleerd. De machine moet Oracle JDK 7 of een latere versie hebben voordat de installatie kan worden uitgevoerd.
  
 {{% /blocks/products/pf/agp/text %}}
 

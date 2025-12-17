@@ -1,7 +1,7 @@
 ---
 title: PHP PRN naar XLTX - PRN naar XLTX Converter
-description: Aspose Excel. Converteer PRN snel en eenvoudig naar XLTX met Aspose.Cells. PHP PRN naar XLTX. PHP Bewaar PRN naar XLTX. Bewaar PRN als XLTX met behulp van PHP.
-keywords: [Aspose Excel., PHP Aspose.Cells., Convert PRN to XLTX in PHP., Save PRN to XLTX using PHP., PHP PRN to XLTX saveformat., PRN to XLTX Converter., PHP Save PRN as XLTX]
+description: Aspose Excel. Deze complete oplossing biedt PHP-ontwikkelaars een volledig geïntegreerde aanpak voor het converteren van PRN-bestanden naar het XLTX-formaat. Hierdoor kunnen PRN-gegevens naadloos worden opgeslagen in het XLTX-formaat met behulp van de Aspose.Cells-bibliotheek, en dat alles via efficiënte en aanpasbare PHP-code.
+keywords: [Aspose Excel., PHP Aspose.Cells., Smart PRN files to XLTX Converter for PHP., Convert PRN to XLTX in PHP., PRN files to XLTX Conversion in PHP., Leverage intelligent data processing to automatically parse and save PRN into XLTX format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Converteer PRN naar XLTX in PHP" h2="Snelle PHP-bibliotheek voor het converteren van PRN naar XLTX. Dit is een professionele softwareoplossing voor het importeren en exporteren van PRN, XLTX en vele andere formaten met behulp van PHP." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-php-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLTX" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,13 +12,13 @@ keywords: [Aspose Excel., PHP Aspose.Cells., Convert PRN to XLTX in PHP., Save P
 
 {{% blocks/products/pf/agp/content h2="Converteer PRN naar XLTX met behulp van PHP" %}}
 
- Hoe converteer ik PRN naar XLTX? Met de bibliotheek Aspose.Cells for PHP via Java kunt u PRN eenvoudig programmatisch naar XLTX converteren met een paar regels code.[Aspose.Cells for PHP via Java](https://products.aspose.com/cells/php-java/) is in staat om platformonafhankelijke applicaties te bouwen met de mogelijkheid om alle Excel-bestanden te genereren, wijzigen, converteren, renderen en afdrukken. PHP Excel API converteert niet alleen tussen spreadsheetformaten, het kan ook Excel-bestanden weergeven als afbeeldingen, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT en meer, waardoor het een perfecte keuze is om documenten uit te wisselen in industriestandaardformaten.
+ Hoe converteer ik PRN naar XLTX? Met de bibliotheek Aspose.Cells for PHP via Java kunt u PRN eenvoudig programmatisch converteren naar XLTX met slechts een paar regels code.[Aspose.Cells for PHP via Java](https://products.aspose.com/cells/php-java/) PHP Excel API is in staat om platformonafhankelijke applicaties te bouwen die alle Excel-bestanden kunnen genereren, bewerken, converteren, weergeven en afdrukken. Het kan niet alleen converteren tussen spreadsheetformaten, maar ook Excel-bestanden weergeven als afbeeldingen (PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT) en meer, waardoor het een perfecte keuze is voor het uitwisselen van documenten in industriestandaardformaten.
  
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Bewaar PRN naar XLTX in PHP" %}}
+{{% blocks/products/pf/agp/content h2="Sla PRN op als XLTX in PHP" %}}
 
-Het volgende voorbeeld laat zien hoe u PRN naar XLTX in PHP converteert.
+Het volgende voorbeeld laat zien hoe je PRN naar XLTX converteert in PHP.
 {{% blocks/products/pf/agp/text %}}
 
 Volg de eenvoudige stappen om PRN naar XLTX te converteren. Upload uw PRN-bestand en sla het vervolgens eenvoudig op als XLTX-bestand. Voor zowel PRN-lezen als XLTX-schrijven kunt u volledig gekwalificeerde bestandsnamen gebruiken. De inhoud en opmaak van de uitvoer XLTX zullen identiek zijn aan het originele PRN-document.
@@ -27,25 +27,25 @@ Volg de eenvoudige stappen om PRN naar XLTX te converteren. Upload uw PRN-bestan
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Voorbeeldcode om PRN naar XLTX te converteren" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="prn" outformat="xltx" IsLandingPage="true" language="phpjava" %}}
+{{% cells-convert title="Voorbeeldcode om PRN om te zetten naar XLTX" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="prn" outformat="xltx" IsLandingPage="true" language="phpjava" %}}
 
-{{% blocks/products/pf/agp/content h2="Hoe PRN naar XLTX te converteren via PHP" %}}
+{{% blocks/products/pf/agp/content h2="Hoe converteer je PRN naar XLTX via PHP?" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
-Wilt u PRN-bestanden programmatisch naar XLTX converteren? PHP-ontwikkelaars kunnen PRN eenvoudig in slechts een paar regels code laden en converteren naar XLTX.
+Moet je PRN-bestanden programmatisch converteren naar XLTX? PHP-ontwikkelaars kunnen PRN-bestanden eenvoudig laden en converteren naar XLTX met slechts een paar regels code.
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Installeer 'Aspose.Cells for PHP via Java'.
-1.  Voeg een bibliotheekreferentie toe (importeer de bibliotheek) aan uw PHP-project.
+1.  Voeg een bibliotheekreferentie (importeer de bibliotheek) toe aan je PHP-project.
 1.  Laad het PRN-bestand met een exemplaar van Workbook.
-1.  Converteer PRN naar XLTX door de opslagmethode van Workbook aan te roepen.
+1.  Converteer PRN naar XLTX door de save-methode van Workbook aan te roepen.
 1.  Verkrijg het conversieresultaat van PRN naar XLTX.
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="PHP-bibliotheek om PRN naar XLTX te converteren" %}}
+{{% blocks/products/pf/agp/content h2="PHP-bibliotheek om PRN om te zetten naar XLTX" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
@@ -63,7 +63,7 @@ Er zijn drie opties om "Aspose.Cells for PHP via Java" op uw systeem te installe
 
 {{% blocks/products/pf/agp/text %}}
 
-Aspose.Cells for PHP via Java is platformonafhankelijk API en kan worden gebruikt op elk platform (Windows, Linux, MacOS etc.) waarop PHP 7 of hogere versies zijn geïnstalleerd. De machine moet beschikken over versies van Oracle JDK 7 of hoger voordat u de installatie kunt instellen.
+ Aspose.Cells for PHP via Java is platformonafhankelijk en kan worden gebruikt op elk platform (Windows, Linux, MacOS, enz.) waarop PHP 7 of een latere versie is geïnstalleerd. De machine moet Oracle JDK 7 of een latere versie hebben voordat de installatie kan worden uitgevoerd.
  
 {{% /blocks/products/pf/agp/text %}}
 

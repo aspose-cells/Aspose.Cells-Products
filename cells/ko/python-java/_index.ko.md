@@ -1,8 +1,8 @@
 ---
-title:  Python 엑셀 스프레드시트 API - Aspose
+title: Python 엑셀 스프레드시트 API - Aspose.Cells for Python via Java
 weight: 2820
-description: Python Excel 파일을 생성, 복구, 병합, 구문 분석 및 변환하는 라이브러리입니다. Excel을 PDF, JSON, HTML, TXT 및 기타 널리 사용되는 형식으로 변환합니다.
-keywords: [Python Aspose.Cells Create parse repair merge convert JSON Excel XML PDF HTML TSV SQL CSV TSV PNG JPEG and more formats]
+description: Aspose.Cells, for Python, via Java 라이브러리를 사용하여 Excel 파일을 생성, 복구, 병합, 구문 분석 및 변환할 수 있습니다. Aspose.Cells, for Python, via Java, API 라이브러리를 사용하여 Excel 파일을 PDF, JSON, HTML, TXT 및 기타 인기 있는 형식으로 변환할 수 있습니다.
+keywords: [Aspose.Cells for Python via Java Create parse repair merge convert JSON Excel XML PDF HTML TSV SQL CSV TSV PNG JPEG and more formats]
 ---
 {{< blocks/products/pf/main-wrap-class >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Python Excel 스프레드시트 구문 분석 API" h2="Python 애플리케이션 내에서 스프레드시트를 생성, 읽기, 쓰기 또는 조작하고 Excel 파일을 여러 형식으로 내보낼 수 있습니다." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/headers/aspose_cells-for-python-java.svg" pfName="Aspose.Cells" subTitlepfName="for Python via Java" downloadUrl="https://releases.aspose.com/cells/python-java/" >}}

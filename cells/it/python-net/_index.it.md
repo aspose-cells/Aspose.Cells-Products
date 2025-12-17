@@ -1,8 +1,8 @@
 ---
-title:  Python Foglio di calcolo Excel API - Aspose
+title: Python Foglio di calcolo Excel API - Aspose.Cells for Python via .NET
 weight: 2800
-description: Libreria Python per creare, riparare, unire, analizzare e convertire file Excel. Converti Excel in PDF, JSON, HTML, TXT e altri formati popolari.
-keywords: [Python Aspose.Cells Create repair merge convert JSON Excel XML PDF HTML TSV SQL ODS CSV TSV PNG JPEG and more formats]
+description: Libreria Aspose.Cells for Python via .NET per creare, riparare, unire, analizzare e convertire file Excel. Questa potente libreria API offre una soluzione semplificata ed efficiente per creare, riparare, unire, analizzare e convertire file Excel, soddisfacendo le esigenze specifiche degli sviluppatori con elevata precisione.
+keywords: [Aspose.Cells for Python via .NET Create repair merge convert JSON Excel XML PDF HTML TSV SQL ODS CSV TSV PNG JPEG and more formats]
 ---
 {{< blocks/products/pf/main-wrap-class >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Python API di analisi dei fogli di calcolo Excel" h2="Genera, leggi, scrivi o manipola fogli di calcolo nonché esporta file Excel in più formati all\'interno delle applicazioni Python." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/cells/headers/aspose_cells-for-python-via-net.svg" pfName="Aspose.Cells" subTitlepfName="for Python via .NET" downloadUrl="https://releases.aspose.com/cells/python-net/" >}}

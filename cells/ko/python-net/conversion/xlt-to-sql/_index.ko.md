@@ -1,7 +1,7 @@
 ---
 title: Python XLT을 SQL로 - XLT을 SQL 변환기로
-description: Aspose 엑셀. Python 엑셀. Aspose.Cells을 사용하여 XLT을 SQL로 빠르고 쉽게 변환하세요. Python XLT을 SQL로 변환하세요. Python XLT을 SQL에 저장합니다. Python Excel 라이브러리를 사용하여 XLT을 SQL로 저장합니다.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert XLT to SQL in Python Excel Library., Save XLT to SQL using Python Excel Library., Python XLT to SQL saveformat., XLT to SQL Converter., Python Save XLT as SQL]
+description: Aspose Excel. 이 포괄적인 솔루션은 Python 개발자에게 XLT을 SQL 형식으로 변환하는 완벽하게 통합된 접근 방식을 제공하여 Aspose.Cells 라이브러리를 사용하여 XLT 데이터를 SQL 형식으로 원활하게 저장할 수 있도록 하며, 이 모든 작업은 효율적이고 사용자 정의 가능한 Python 코드를 통해 이루어집니다.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart XLT files to SQL Converter for Python., Convert XLT to SQL in Python., XLT files to SQL Conversion in Python., Leverage intelligent data processing to automatically parse and save XLT into SQL format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Python Excel 라이브러리에서 XLT을 SQL로 변환" h2="XLT을 SQL로 변환하기 위한 고속 Python Excel 라이브러리입니다. Python에서 높은 수준의 플랫폼 독립 소프트웨어를 개발하려면 Excel 변환 API을 사용하십시오." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="SQL" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -28,7 +28,7 @@ XLT을 SQL로 변환하는 쉬운 단계를 따르세요. XLT 파일을 업로�
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Python Excel 라이브러리를 통해 XLT을 SQL로 변환하는 샘플 코드" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlt" outformat="sql" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Python Excel 라이브러리를 통해 XLT을 SQL로 변환하는 샘플 코드" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="xlt" outformat="sql" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="XLT을 SQL로 변환하는 방법" %}}
 
@@ -99,7 +99,7 @@ Aspose.Cells NET을 통한 for Python은 플랫폼 독립적인 API이며 모든
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlt-to-xltm/" name="XLT ~ XLTM" description="Excel 매크로 지원 템플릿" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlt-to-xltx/" name="XLT ~ XLTX" description="Office OpenXML 엑셀 템플릿" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlt-to-xml/" name="XLT TO XML" description="확장 가능한 마크업 언어" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlt-to-xml/" name="XLT을 XML로" description="확장 가능한 마크업 언어" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlt-to-xps/" name="XLT ~ XPS" description="XML 용지 사양" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlt-to-json/" name="XLT ~ JSON" description="자바스크립트 객체 표기법" >}}
 

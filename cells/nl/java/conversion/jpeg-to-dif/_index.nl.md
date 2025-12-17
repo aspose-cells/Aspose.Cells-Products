@@ -1,7 +1,7 @@
 ---
 title: Java JPEG tot DIF - JPEG tot DIF Converter
-description: Aspose Excel. Converteer JPEG snel en eenvoudig naar DIF met Aspose.Cells. Java JPEG naar DIF. Java Bewaar JPEG in DIF. Bewaar JPEG als 07611134 81 via Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Convert JPEG to DIF in Java., Save JPEG to DIF using Java., Java JPEG to DIF saveformat., JPEG to DIF Converter., Java Save JPEG as DIF]
+description: Aspose Excel. Deze uitgebreide oplossing biedt ontwikkelaars een volledig geïntegreerde aanpak voor het converteren van gegevens van het formaat JPEG naar DIF, waardoor naadloos opslaan van gegevens in het formaat JPEG mogelijk is met behulp van de bibliotheek Aspose.Cells, allemaal via efficiënte en aanpasbare code Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Smart JPEG files to DIF Converter for Java., Convert JPEG to DIF in Java., JPEG files to DIF Conversion in Java., Leverage intelligent data processing to automatically parse and save JPEG into DIF format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Converteer JPEG naar DIF in Java" h2="Snelle Java-bibliotheek voor het converteren van JPEG naar DIF. Dit is een professionele softwareoplossing voor het importeren en exporteren van JPEG, DIF en vele andere formaten met behulp van Java." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="DIF" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Convert JPEG to DIF in Java., Save
 
 {{% blocks/products/pf/agp/content h2="Converteer JPEG naar DIF met behulp van Java" %}}
 
-Hoe converteer ik JPEG naar DIF? Met de bibliotheek Aspose.Cells for Java kunt u JPEG eenvoudig programmatisch naar DIF converteren met een paar regels code.[Aspose.Cells for Java](https://products.aspose.com/cells/java)is in staat om platformonafhankelijke applicaties te bouwen met de mogelijkheid om alle Excel-bestanden te genereren, wijzigen, converteren, renderen en afdrukken. Java Excel API converteert niet alleen tussen spreadsheetformaten, het kan ook Excel-bestanden weergeven als afbeeldingen, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT en meer, waardoor het een perfecte keuze is om documenten uit te wisselen in industriestandaardformaten. U kunt de nieuwste versie rechtstreeks downloaden van[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) en installeer het binnen uw op Maven gebaseerde project door de volgende configuraties toe te voegen aan pom.xml.
+ Hoe converteer ik JPEG naar DIF? Met de bibliotheek Aspose.Cells for Java kunt u JPEG eenvoudig programmatisch naar DIF converteren met een paar regels code.[Aspose.Cells for Java](https://products.aspose.com/cells/java)is in staat om platformonafhankelijke applicaties te bouwen met de mogelijkheid om alle Excel-bestanden te genereren, wijzigen, converteren, renderen en afdrukken. Java Excel API converteert niet alleen tussen spreadsheetformaten, het kan ook Excel-bestanden weergeven als afbeeldingen, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT en meer, waardoor het een perfecte keuze is om documenten uit te wisselen in industriestandaardformaten. U kunt de nieuwste versie rechtstreeks downloaden van[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) en installeer het binnen uw op Maven gebaseerde project door de volgende configuraties toe te voegen aan pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Opslagplaats" offSpacer="true" %}}
 
@@ -45,9 +45,9 @@ Hoe converteer ik JPEG naar DIF? Met de bibliotheek Aspose.Cells for Java kunt u
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Bewaar JPEG t/m DIF in Java" %}}
+{{% blocks/products/pf/agp/content h2="Sla JPEG op in DIF in Java" %}}
 
-Het volgende voorbeeld laat zien hoe u JPEG converteert naar DIF in Java.
+Het volgende voorbeeld laat zien hoe je JPEG omzet naar DIF in Java.
 {{% blocks/products/pf/agp/text %}}
 
 Volg de eenvoudige stappen om JPEG naar DIF te converteren. Upload uw JPEG-bestand en sla het vervolgens eenvoudig op als DIF-bestand. Voor zowel JPEG lezen als DIF schrijven kunt u volledig gekwalificeerde bestandsnamen gebruiken. De inhoud en opmaak van de uitvoer DIF zullen identiek zijn aan het originele document JPEG.
@@ -56,19 +56,19 @@ Volg de eenvoudige stappen om JPEG naar DIF te converteren. Upload uw JPEG-besta
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Voorbeeldcode om JPEG naar DIF te converteren" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="jpg" outformat="dif" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Voorbeeldcode om JPEG naar DIF te converteren" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="jpg" outformat="dif" IsLandingPage="true" language="java" %}}
 
-{{% blocks/products/pf/agp/content h2="Hoe JPEG naar DIF via Java te converteren" %}}
+{{% blocks/products/pf/agp/content h2="Hoe zet ik JPEG om naar DIF of via Java?" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
-Wilt u JPEG-bestanden programmatisch naar DIF converteren? Java-ontwikkelaars kunnen JPEG eenvoudig in slechts een paar regels code naar DIF converteren.
+Moet je bestanden met de extensie JPEG programmatisch converteren naar DIF? Ontwikkelaars van Java kunnen bestanden met de extensie JPEG eenvoudig converteren naar DIF met slechts een paar regels code.
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Installeer 'Aspose.Cells for Java'.
 1.  Voeg een bibliotheekreferentie toe (importeer de bibliotheek) aan uw Java-project.
-1. Laad bestand JPEG met een exemplaar van de klasse Workbook.
+1.  Laad bestand JPEG met een instantie van de klasse Workbook.
 1.  Converteer JPEG naar DIF door de Workbook.save-methode aan te roepen.
 1.  Verkrijg het conversieresultaat van JPEG naar DIF.
 

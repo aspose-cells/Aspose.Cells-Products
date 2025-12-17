@@ -1,7 +1,7 @@
 ---
 title: Java HTM naar PRN - HTM naar PRN-converter
-description: Aspose Excel. Converteer HTM snel en eenvoudig naar PRN met Aspose.Cells. Java HTM naar PRN. Java HTM opslaan in PRN. Sla HTM op als PRN met Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Convert HTM to PRN in Java., Save HTM to PRN using Java., Java HTM to PRN saveformat., HTM to PRN Converter., Java Save HTM as PRN]
+description: Aspose Excel. Deze complete oplossing biedt ontwikkelaars een volledig geïntegreerde aanpak voor het converteren van HTM naar PRN-formaat, waardoor het naadloos opslaan van HTM-gegevens in PRN-formaat mogelijk is met behulp van de bibliotheek, alles via efficiënte en aanpasbare code.
+keywords: [Aspose Excel., Java Aspose.Cells., Smart HTM files to PRN Converter for Java., Convert HTM to PRN in Java., HTM files to PRN Conversion in Java., Leverage intelligent data processing to automatically parse and save HTM into PRN format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Converteer HTM naar PRN in Java" h2="Snelle Java-bibliotheek voor het converteren van HTM naar PRN. Dit is een professionele softwareoplossing voor het importeren en exporteren van HTM, PRN en vele andere formaten met behulp van Java." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="PRN" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="CSV" >}}
@@ -45,9 +45,9 @@ keywords: [Aspose Excel., Java Aspose.Cells., Convert HTM to PRN in Java., Save 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Sla HTM op in PRN in Java" %}}
+{{% blocks/products/pf/agp/content h2="Sla HTM op als PRN in Java" %}}
 
-Het volgende voorbeeld laat zien hoe u HTM naar PRN converteert in Java.
+Het volgende voorbeeld laat zien hoe je HTM naar PRN converteert in Java.
 {{% blocks/products/pf/agp/text %}}
 
 Volg de eenvoudige stappen om HTM naar PRN te converteren. Upload uw HTM-bestand en sla het vervolgens eenvoudig op als PRN-bestand. Voor zowel HTM-lezen als PRN-schrijven kunt u volledig gekwalificeerde bestandsnamen gebruiken. De uitvoer-PRN-inhoud en opmaak zullen identiek zijn aan het originele HTM-document.
@@ -56,25 +56,25 @@ Volg de eenvoudige stappen om HTM naar PRN te converteren. Upload uw HTM-bestand
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Voorbeeldcode om HTM naar PRN te converteren" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="htm" outformat="prn" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Voorbeeldcode om HTML naar PRN te converteren" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="htm" outformat="prn" IsLandingPage="true" language="java" %}}
 
-{{% blocks/products/pf/agp/content h2="Hoe HTM naar PRN via Java te converteren" %}}
+{{% blocks/products/pf/agp/content h2="Hoe converteer ik HTM naar PRN via Java?" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
-Wilt u HTM-bestanden programmatisch naar PRN converteren? Java-ontwikkelaars kunnen HTM eenvoudig met slechts een paar regels code naar PRN converteren.
+Moet u HTML-bestanden programmatisch naar PRN converteren? Ontwikkelaars van Java kunnen HTML eenvoudig naar PRN converteren met slechts een paar regels code.
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Installeer 'Aspose.Cells for Java'.
 1.  Voeg een bibliotheekreferentie toe (importeer de bibliotheek) aan uw Java-project.
-1.  Laad het HTM-bestand met een exemplaar van de Workbook-klasse.
+1.  Laad een HTML-bestand met een instantie van de klasse Workbook.
 1.  Converteer HTM naar PRN door de Workbook.save-methode aan te roepen.
 1.  Ontvang het conversieresultaat van HTM naar PRN.
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Java bibliotheek om HTM naar PRN te converteren" %}}
+{{% blocks/products/pf/agp/content h2="Java bibliotheek voor het converteren van HTML naar PRN" %}}
 {{% blocks/products/pf/agp/text %}}
 
  We hosten onze Java-pakketten in[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) opslagplaatsen. 'Aspose.Cells for Java' is een veelgebruikt JAR-bestand met bytecode. Volg alstublieft de[stapsgewijze instructies](https://docs.aspose.com/cells/java/installation/) over hoe u het installeert in uw Java-ontwikkelaarsomgeving.

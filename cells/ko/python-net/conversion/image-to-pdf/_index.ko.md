@@ -1,7 +1,7 @@
 ---
 title: Python 이미지를 PDF로 - 이미지를 PDF로 변환기
-description: Aspose 엑셀. Python 엑셀. Aspose.Cells을 사용하여 빠르고 쉽게 IMAGE를 PDF로 변환합니다. Python IMAGE를 PDF로 변환합니다. Python IMAGE를 PDF로 저장합니다. Python Excel 라이브러리를 사용하여 IMAGE를 PDF로 저장합니다.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert IMAGE to PDF in Python Excel Library., Save IMAGE to PDF using Python Excel Library., Python IMAGE to PDF saveformat., IMAGE to PDF Converter., Python Save IMAGE as PDF]
+description: Aspose Excel. 이 포괄적인 솔루션은 Python 개발자에게 IMAGE를 PDF 형식으로 변환하는 완벽하게 통합된 접근 방식을 제공하며, Aspose.Cells 라이브러리를 사용하여 IMAGE 데이터를 PDF 형식으로 원활하게 저장할 수 있도록 지원합니다. 이 모든 작업은 효율적이고 사용자 정의 가능한 Python 코드를 통해 이루어집니다.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart IMAGE files to PDF Converter for Python., Convert IMAGE to PDF in Python., IMAGE files to PDF Conversion in Python., Leverage intelligent data processing to automatically parse and save IMAGE into PDF format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Python Excel 라이브러리에서 IMAGE를 PDF로 변환" h2="IMAGE를 PDF로 변환하기 위한 고속 Python Excel 라이브러리. Excel 변환 API을 사용하여 Python에서 플랫폼 독립적인 높은 수준의 소프트웨어를 개발하세요." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="PDF" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -28,7 +28,7 @@ keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert I
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Python Excel 라이브러리를 통해 IMAGE를 PDF로 변환하는 샘플 코드" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="png" outformat="pdf" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Python Excel 라이브러리를 통해 IMAGE를 PDF로 변환하는 샘플 코드" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="png" outformat="pdf" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="이미지를 PDF로 변환하는 방법" %}}
 

@@ -1,7 +1,7 @@
 ---
 title: Java XLSB naar XML - XLSB naar XML-converter
-description: Aspose Excel. Converteer XLSB snel en eenvoudig naar XML met Aspose.Cells. Java XLSB naar XML. Java Sla XLSB op in XML. Sla XLSB op als XML met behulp van Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Convert XLSB to XML in Java., Save XLSB to XML using Java., Java XLSB to XML saveformat., XLSB to XML Converter., Java Save XLSB as XML]
+description: Aspose Excel. Deze uitgebreide oplossing biedt Java ontwikkelaars een volledig geïntegreerde aanpak om XLSB naar XML-formaat te converteren, waardoor naadloos opslaan van XLSB gegevens in XML-formaat mogelijk is met behulp van de Aspose.Cells bibliotheek, allemaal via efficiënte en aanpasbare Java code.
+keywords: [Aspose Excel., Java Aspose.Cells., Smart XLSB files to XML Converter for Java., Convert XLSB to XML in Java., XLSB files to XML Conversion in Java., Leverage intelligent data processing to automatically parse and save XLSB into XML format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Converteer XLSB naar XML in Java" h2="Snelle Java-bibliotheek voor het converteren van XLSB naar XML. Dit is een professionele softwareoplossing voor het importeren en exporteren van XLSB, XML en vele andere formaten met behulp van Java." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="XML" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Convert XLSB to XML in Java., Save
 
 {{% blocks/products/pf/agp/content h2="Converteer XLSB naar XML met behulp van Java" %}}
 
- Hoe converteer ik XLSB naar XML? Met de bibliotheek Aspose.Cells for Java kunt u XLSB eenvoudig programmatisch naar XML converteren met een paar regels code.[Aspose.Cells for Java](https://products.aspose.com/cells/java)is in staat om platformonafhankelijke applicaties te bouwen met de mogelijkheid om alle Excel-bestanden te genereren, wijzigen, converteren, renderen en afdrukken. Java Excel API converteert niet alleen tussen spreadsheetformaten, het kan ook Excel-bestanden weergeven als afbeeldingen, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT en meer, waardoor het een perfecte keuze is om documenten uit te wisselen in industriestandaardformaten. U kunt de nieuwste versie rechtstreeks downloaden van[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) en installeer het binnen uw op Maven gebaseerde project door de volgende configuraties toe te voegen aan pom.xml.
+Hoe converteer ik XLSB naar XML? Met de bibliotheek Aspose.Cells for Java kunt u XLSB eenvoudig programmatisch naar XML converteren met een paar regels code.[Aspose.Cells for Java](https://products.aspose.com/cells/java)is in staat om platformonafhankelijke applicaties te bouwen met de mogelijkheid om alle Excel-bestanden te genereren, wijzigen, converteren, renderen en afdrukken. Java Excel API converteert niet alleen tussen spreadsheetformaten, het kan ook Excel-bestanden weergeven als afbeeldingen, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT en meer, waardoor het een perfecte keuze is om documenten uit te wisselen in industriestandaardformaten. U kunt de nieuwste versie rechtstreeks downloaden van[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) en installeer het binnen uw op Maven gebaseerde project door de volgende configuraties toe te voegen aan pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Opslagplaats" offSpacer="true" %}}
 
@@ -45,9 +45,9 @@ keywords: [Aspose Excel., Java Aspose.Cells., Convert XLSB to XML in Java., Save
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Sla XLSB op in XML in Java" %}}
+{{% blocks/products/pf/agp/content h2="Sla XLSB op als XML in Java" %}}
 
-Het volgende voorbeeld laat zien hoe u XLSB naar XML converteert in Java.
+Het volgende voorbeeld laat zien hoe u XLSB naar XML kunt converteren in Java.
 {{% blocks/products/pf/agp/text %}}
 
 Volg de eenvoudige stappen om XLSB naar XML te converteren. Upload uw XLSB-bestand en sla het vervolgens eenvoudig op als XML-bestand. Voor zowel XLSB-lezen als XML-schrijven kunt u volledig gekwalificeerde bestandsnamen gebruiken. De uitvoer-XML-inhoud en opmaak zullen identiek zijn aan het originele XLSB-document.
@@ -56,19 +56,19 @@ Volg de eenvoudige stappen om XLSB naar XML te converteren. Upload uw XLSB-besta
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Voorbeeldcode om XLSB naar XML te converteren" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsb" outformat="xml" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Voorbeeldcode om XLSB naar XML te converteren" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="xlsb" outformat="xml" IsLandingPage="true" language="java" %}}
 
-{{% blocks/products/pf/agp/content h2="Hoe XLSB naar XML via Java te converteren" %}}
+{{% blocks/products/pf/agp/content h2="Hoe converteer ik XLSB naar XML via Java?" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
-Wilt u XLSB-bestanden programmatisch naar XML converteren? Java-ontwikkelaars kunnen XLSB eenvoudig in slechts een paar regels code naar XML converteren.
+Moet u XLSB-bestanden programmatisch naar XML converteren? Ontwikkelaars van Java kunnen XLSB-bestanden eenvoudig in slechts een paar regels code naar XML converteren.
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Installeer 'Aspose.Cells for Java'.
 1.  Voeg een bibliotheekreferentie toe (importeer de bibliotheek) aan uw Java-project.
-1. Laad bestand XLSB met een exemplaar van de klasse Workbook.
+1.  Laad bestand XLSB met een instantie van de klasse Workbook.
 1.  Converteer XLSB naar XML door de Workbook.save-methode aan te roepen.
 1.  Verkrijg het conversieresultaat van XLSB naar XML.
 

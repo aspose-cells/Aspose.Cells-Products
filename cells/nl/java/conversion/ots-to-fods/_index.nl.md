@@ -1,7 +1,7 @@
 ---
 title: Java OTS naar FODS - OTS naar FODS Converter
-description: Aspose Excel. Converteer OTS snel en eenvoudig naar FODS met Aspose.Cells. Java OTS naar FODS. Java Bewaar OTS naar FODS. Sla OTS op als FODS met Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Convert OTS to FODS in Java., Save OTS to FODS using Java., Java OTS to FODS saveformat., OTS to FODS Converter., Java Save OTS as FODS]
+description: Aspose Excel. Deze complete oplossing biedt ontwikkelaars een volledig geïntegreerde aanpak voor het converteren van OTS-gegevens naar het FODS-formaat. Hierdoor kunnen OTS-gegevens naadloos worden opgeslagen in het FODS-formaat met behulp van de Aspose.Cells-bibliotheek, allemaal via efficiënte en aanpasbare Java-code.
+keywords: [Aspose Excel., Java Aspose.Cells., Smart OTS files to FODS Converter for Java., Convert OTS to FODS in Java., OTS files to FODS Conversion in Java., Leverage intelligent data processing to automatically parse and save OTS into FODS format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Converteer OTS naar FODS in Java" h2="Snelle Java-bibliotheek voor het converteren van OTS naar FODS. Dit is een professionele softwareoplossing voor het importeren en exporteren van OTS, FODS en vele andere formaten met behulp van Java." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="FODS" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="CSV" >}}
@@ -45,9 +45,9 @@ keywords: [Aspose Excel., Java Aspose.Cells., Convert OTS to FODS in Java., Save
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Bewaar OTS op FODS in Java" %}}
+{{% blocks/products/pf/agp/content h2="Sla OTS op in FODS in Java" %}}
 
-Het volgende voorbeeld laat zien hoe u OTS converteert naar FODS in Java.
+Het volgende voorbeeld laat zien hoe je OTS naar FODS converteert in Java.
 {{% blocks/products/pf/agp/text %}}
 
 Volg de eenvoudige stappen om OTS naar FODS te converteren. Upload uw OTS-bestand en sla het vervolgens eenvoudig op als FODS-bestand. Voor zowel OTS-lezen als FODS-schrijven kunt u volledig gekwalificeerde bestandsnamen gebruiken. De inhoud en opmaak van de uitvoer FODS zullen identiek zijn aan het originele OTS-document.
@@ -56,25 +56,25 @@ Volg de eenvoudige stappen om OTS naar FODS te converteren. Upload uw OTS-bestan
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Voorbeeldcode om OTS naar FODS te converteren" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="ots" outformat="fods" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Voorbeeldcode om OTS naar FODS te converteren" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="ots" outformat="fods" IsLandingPage="true" language="java" %}}
 
-{{% blocks/products/pf/agp/content h2="OTS converteren naar FODS via Java" %}}
+{{% blocks/products/pf/agp/content h2="Hoe converteer je OTS naar FODS via Java?" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
-Wilt u OTS-bestanden programmatisch naar FODS converteren? Java-ontwikkelaars kunnen OTS eenvoudig met slechts een paar regels code naar FODS converteren.
+Moet u OTS-bestanden programmatisch converteren naar FODS? Ontwikkelaars van Java kunnen OTS-bestanden eenvoudig converteren naar FODS met slechts een paar regels code.
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Installeer 'Aspose.Cells for Java'.
 1.  Voeg een bibliotheekreferentie toe (importeer de bibliotheek) aan uw Java-project.
-1.  Laad het OTS-bestand met een exemplaar van de Workbook-klasse.
+1.  Laad een OTS-bestand met een instantie van de Workbook-klasse.
 1.  Converteer OTS naar FODS door de Workbook.save-methode aan te roepen.
 1.  Ontvang het conversieresultaat van OTS naar FODS.
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Java-bibliotheek om OTS naar FODS te converteren" %}}
+{{% blocks/products/pf/agp/content h2="Java bibliotheek om OTS naar FODS te converteren" %}}
 {{% blocks/products/pf/agp/text %}}
 
  We hosten onze Java-pakketten in[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) opslagplaatsen. 'Aspose.Cells for Java' is een veelgebruikt JAR-bestand met bytecode. Volg alstublieft de[stapsgewijze instructies](https://docs.aspose.com/cells/java/installation/) over hoe u het installeert in uw Java-ontwikkelaarsomgeving.

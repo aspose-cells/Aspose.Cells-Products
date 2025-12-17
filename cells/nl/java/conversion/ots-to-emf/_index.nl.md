@@ -1,7 +1,7 @@
 ---
 title: Java OTS naar EMF - OTS naar EMF Converter
-description: Aspose Excel. Converteer OTS snel en eenvoudig naar EMF met Aspose.Cells. Java OTS naar EMF. Java Bewaar OTS naar EMF. Sla OTS op als EMF met Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Convert OTS to EMF in Java., Save OTS to EMF using Java., Java OTS to EMF saveformat., OTS to EMF Converter., Java Save OTS as EMF]
+description: Aspose Excel. Deze complete oplossing biedt ontwikkelaars een volledig geïntegreerde aanpak voor het converteren van OTS-gegevens naar het EMF-formaat. Hierdoor kunnen OTS-gegevens naadloos worden opgeslagen in het EMF-formaat met behulp van de Aspose.Cells-bibliotheek, allemaal via efficiënte en aanpasbare Java-code.
+keywords: [Aspose Excel., Java Aspose.Cells., Smart OTS files to EMF Converter for Java., Convert OTS to EMF in Java., OTS files to EMF Conversion in Java., Leverage intelligent data processing to automatically parse and save OTS into EMF format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Converteer OTS naar EMF in Java" h2="Snelle Java-bibliotheek voor het converteren van OTS naar EMF. Dit is een professionele softwareoplossing voor het importeren en exporteren van OTS, EMF en vele andere formaten met behulp van Java." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="EMF" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="CSV" >}}
@@ -45,9 +45,9 @@ keywords: [Aspose Excel., Java Aspose.Cells., Convert OTS to EMF in Java., Save 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Bewaar OTS op EMF in Java" %}}
+{{% blocks/products/pf/agp/content h2="Sla OTS op in EMF in Java" %}}
 
-Het volgende voorbeeld laat zien hoe u OTS converteert naar EMF in Java.
+Het volgende voorbeeld laat zien hoe je OTS naar EMF converteert in Java.
 {{% blocks/products/pf/agp/text %}}
 
 Volg de eenvoudige stappen om OTS naar EMF te converteren. Upload uw OTS-bestand en sla het vervolgens eenvoudig op als EMF-bestand. Voor zowel OTS-lezen als EMF-schrijven kunt u volledig gekwalificeerde bestandsnamen gebruiken. De inhoud en opmaak van de uitvoer EMF zullen identiek zijn aan het originele OTS-document.
@@ -56,25 +56,25 @@ Volg de eenvoudige stappen om OTS naar EMF te converteren. Upload uw OTS-bestand
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Voorbeeldcode om OTS naar EMF te converteren" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="ots" outformat="emf" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Voorbeeldcode om OTS naar EMF te converteren" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="ots" outformat="emf" IsLandingPage="true" language="java" %}}
 
-{{% blocks/products/pf/agp/content h2="OTS converteren naar EMF via Java" %}}
+{{% blocks/products/pf/agp/content h2="Hoe converteer je OTS naar EMF via Java?" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
-Wilt u OTS-bestanden programmatisch naar EMF converteren? Java-ontwikkelaars kunnen OTS eenvoudig met slechts een paar regels code naar EMF converteren.
+Moet u OTS-bestanden programmatisch converteren naar EMF? Ontwikkelaars van Java kunnen OTS-bestanden eenvoudig converteren naar EMF met slechts een paar regels code.
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Installeer 'Aspose.Cells for Java'.
 1.  Voeg een bibliotheekreferentie toe (importeer de bibliotheek) aan uw Java-project.
-1.  Laad het OTS-bestand met een exemplaar van de Workbook-klasse.
+1.  Laad een OTS-bestand met een instantie van de Workbook-klasse.
 1.  Converteer OTS naar EMF door de Workbook.save-methode aan te roepen.
 1.  Ontvang het conversieresultaat van OTS naar EMF.
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Java-bibliotheek om OTS naar EMF te converteren" %}}
+{{% blocks/products/pf/agp/content h2="Java bibliotheek om OTS naar EMF te converteren" %}}
 {{% blocks/products/pf/agp/text %}}
 
  We hosten onze Java-pakketten in[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) opslagplaatsen. 'Aspose.Cells for Java' is een veelgebruikt JAR-bestand met bytecode. Volg alstublieft de[stapsgewijze instructies](https://docs.aspose.com/cells/java/installation/) over hoe u het installeert in uw Java-ontwikkelaarsomgeving.
@@ -98,7 +98,7 @@ Wilt u OTS-bestanden programmatisch naar EMF converteren? Java-ontwikkelaars kun
 <!-- aboutfile Starts -->
     {{< blocks/products/pf/agp/about-file-section >}}
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="OTS" readMoreLink="https://docs.fileformat.com/spreadsheet/ots/" >}}Een bestand met de extensie .ots is een OpenDocument Spreadsheet-sjabloonbestand dat is gemaakt met de Calc-toepassingssoftware die is meegeleverd met Apache OpenOffice. Calc-toepassingssoftware is vergelijkbaar met Excel en beschikbaar in Microsoft Office. Het OTS-bestandsformaat wordt gebruikt om sjablonen te maken die vooraf gedefinieerde instellingen bevatten met betrekking tot stijlen, lettertype, gegevens, spreadsheetindeling en opmaak. OTF-bestanden hebben het mime-type application/vnd.oasis.opendocument.spreadsheet-template. Deze sjabloonbestanden kunnen als uitgangspunt worden gebruikt voor het genereren en opslaan van daadwerkelijke gegevensbestanden die zijn opgeslagen in de bestandsindeling ODS. OTS-bestanden kunnen worden gebruikt met toepassingen zoals OpenOffice en LibreOffice.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="EMF" readMoreLink="https://docs.fileformat.com/image/emf/" >}}Verbeterd metabestandsformaat (EMF) slaat grafische afbeeldingen apparaatonafhankelijk op. Metabestanden van EMF bestaan uit records met variabele lengte in chronologische volgorde die de opgeslagen afbeelding kunnen weergeven na parsering op elk uitvoerapparaat. Deze records met variabele lengte kunnen definities zijn van ingesloten objecten, opdrachten voor tekenen en grafische eigenschappen die cruciaal zijn om de afbeelding nauwkeurig weer te geven. Wanneer een apparaat een EMF-metabestand opent met behulp van zijn eigen grafische omgeving, blijven de verhoudingen, afmetingen, kleuren en andere grafische eigenschappen van de originele afbeelding hetzelfde, ongeacht het apparaatplatform dat wordt geopend.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="EMF" readMoreLink="https://docs.fileformat.com/image/emf/" >}}Verbeterd metabestandsformaat (EMF) slaat grafische afbeeldingen apparaatonafhankelijk op. Metabestanden van EMF bestaan uit records met variabele lengte in chronologische volgorde die de opgeslagen afbeelding kunnen weergeven na parsering op elk uitvoerapparaat. Deze records met variabele lengte kunnen definities zijn van ingesloten objecten, commando's voor tekenen en grafische eigenschappen die cruciaal zijn om de afbeelding nauwkeurig weer te geven. Wanneer een apparaat een EMF-metabestand opent met behulp van zijn eigen grafische omgeving, blijven de verhoudingen, afmetingen, kleuren en andere grafische eigenschappen van de originele afbeelding hetzelfde, ongeacht het apparaatplatform dat wordt geopend.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
     {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->
 

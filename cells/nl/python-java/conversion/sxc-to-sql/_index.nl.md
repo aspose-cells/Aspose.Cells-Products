@@ -1,7 +1,7 @@
 ---
 title: Python SXC naar SQL - SXC naar SQL-converter
-description: Aspose Excel. Python Excel. Converteer SXC snel en eenvoudig naar SQL met Aspose.Cells. Python SXC naar SQL. Python Sla SXC op in SQL. Sla SXC op als SQL met behulp van de Excel-bibliotheek Python.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert SXC to SQL in Python Excel Library., Save SXC to SQL using Python Excel Library., Python SXC to SQL saveformat., SXC to SQL Converter., Python Save SXC as SQL]
+description: Aspose Excel. Deze uitgebreide oplossing biedt Python ontwikkelaars een volledig geïntegreerde aanpak om SXC naar SQL-formaat te converteren, waardoor naadloos opslaan van SXC gegevens in SQL-formaat mogelijk is met behulp van de Aspose.Cells bibliotheek, allemaal via efficiënte en aanpasbare Python code.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart SXC files to SQL Converter for Python., Convert SXC to SQL in Python., SXC files to SQL Conversion in Python., Leverage intelligent data processing to automatically parse and save SXC into SQL format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Converteer SXC naar SQL in de Excel-bibliotheek Python" h2="Snelle Python Excel-bibliotheek voor het converteren van SXC naar SQL. Dit is een professionele softwareoplossing voor het importeren en exporteren van SXC, SQL en vele andere formaten met behulp van Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="SQL" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -27,7 +27,7 @@ Volg de eenvoudige stappen om SXC naar SQL te converteren. Upload uw SXC-bestand
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Voorbeeldcode om SXC naar SQL te converteren via de Excel-bibliotheek Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="sxc" outformat="sql" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="Voorbeeldcode om SXC naar SQL te converteren via de Excel-bibliotheek Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="sxc" outformat="sql" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="Hoe SXC naar SQL te converteren via Python" %}}
 

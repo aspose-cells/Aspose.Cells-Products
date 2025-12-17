@@ -1,7 +1,7 @@
 ---
 title: Python FODS から EXCEL - FODS から EXCEL へのコンバーター
-description: Aspose Excel。Python Excel。Aspose.Cells を使用して、FODS を EXCEL にすばやく簡単に変換します。Python FODS を EXCEL に。Python FODS を EXCEL に保存します。Python Excel ライブラリを使用して、FODS を EXCEL として保存します。
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert FODS to EXCEL in Python Excel Library., Save FODS to EXCEL using Python Excel Library., Python FODS to EXCEL saveformat., FODS to EXCEL Converter., Python Save FODS as EXCEL]
+description: Aspose Excel。この包括的なソリューションは、Python開発者に、FODSをEXCEL形式に変換するための完全に統合されたアプローチを提供し、Aspose.Cellsライブラリを使用してFODSデータをEXCEL形式にシームレスに保存することを可能にします。これらはすべて、効率的でカスタマイズ可能なPythonコードを通じて行われます。
+keywords: [Aspose Excel., Python Aspose.Cells., Smart FODS files to EXCEL Converter for Python., Convert FODS to EXCEL in Python., FODS files to EXCEL Conversion in Python., Leverage intelligent data processing to automatically parse and save FODS into EXCEL format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Python Excel ライブラリで FODS を EXCEL に変換する" h2="FODS を EXCEL に変換するための高速 Python Excel ライブラリ。これは、Python を使用して FODS、EXCEL、およびその他多くの形式をインポートおよびエクスポートするためのプロフェッショナル ソフトウェア ソリューションです。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="EXCEL" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -27,7 +27,7 @@ FODS を EXCEL に変換するにはどうすればいいですか? Aspose.Cells
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Python Excel ライブラリを使用して FODS を EXCEL に変換するサンプル コード" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="fods" outformat="xlsx" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="Python Excel ライブラリを使用して FODS を EXCEL に変換するサンプル コード" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="fods" outformat="xlsx" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="Python 経由で FODS を EXCEL に変換する方法" %}}
 

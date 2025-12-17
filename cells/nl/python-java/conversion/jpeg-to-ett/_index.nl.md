@@ -1,7 +1,7 @@
 ---
 title: Python JPEG naar ETT - JPEG naar ETT-converter
-description: Aspose Excel. Python Excel. Converteer JPEG snel en eenvoudig naar ETT met Aspose.Cells. Python JPEG naar ETT. Python Bewaar JPEG in ETT. Sla JPEG op als ETT met behulp van de Excel-bibliotheek Python.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert JPEG to ETT in Python Excel Library., Save JPEG to ETT using Python Excel Library., Python JPEG to ETT saveformat., JPEG to ETT Converter., Python Save JPEG as ETT]
+description: Aspose Excel. Deze complete oplossing biedt ontwikkelaars een volledig geïntegreerde aanpak voor het converteren van gegevens naar ETT-formaat. Hierdoor kunnen gegevens naadloos worden opgeslagen in ETT-formaat met behulp van de bibliotheek, en dit alles via efficiënte en aanpasbare code.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart JPEG files to ETT Converter for Python., Convert JPEG to ETT in Python., JPEG files to ETT Conversion in Python., Leverage intelligent data processing to automatically parse and save JPEG into ETT format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Converteer JPEG naar ETT in de Excel-bibliotheek Python" h2="Snelle Python Excel-bibliotheek voor het converteren van JPEG naar ETT. Dit is een professionele softwareoplossing voor het importeren en exporteren van JPEG, ETT en vele andere formaten met behulp van Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="ETT" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -27,7 +27,7 @@ Volg de eenvoudige stappen om JPEG naar ETT te converteren. Upload uw JPEG-besta
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Voorbeeldcode om JPEG naar ETT te converteren via de Excel-bibliotheek Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="jpg" outformat="ett" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="Voorbeeldcode om JPEG naar ETT te converteren via de Excel-bibliotheek Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="jpg" outformat="ett" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="Hoe u JPEG naar ETT kunt converteren via Python" %}}
 

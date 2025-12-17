@@ -1,7 +1,7 @@
 ---
 title: Python HTML a FODS - HTML a FODS Convertitore
-description: Aspose Excel. Python Excel. Converti HTML in FODS in modo rapido e semplice con Aspose.Cells. Python HTML in FODS. Python Salva HTML in FODS. Salva HTML come 076112 3481 utilizzando la Libreria Excel Python.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert HTML to FODS in Python Excel Library., Save HTML to FODS using Python Excel Library., Python HTML to FODS saveformat., HTML to FODS Converter., Python Save HTML as FODS]
+description: Aspose Excel. Questa soluzione completa fornisce agli sviluppatori Python un approccio completamente integrato per convertire il formato HTML nel formato FODS, consentendo il salvataggio senza interruzioni dei dati HTML nel formato FODS utilizzando la libreria Aspose.Cells, il tutto tramite codice Python efficiente e personalizzabile.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart HTML files to FODS Converter for Python., Convert HTML to FODS in Python., HTML files to FODS Conversion in Python., Leverage intelligent data processing to automatically parse and save HTML into FODS format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Converti HTML in FODS nella libreria Excel Python" h2="Libreria Excel Python ad alta velocità per convertire HTML in FODS. Si tratta di una soluzione software professionale per importare ed esportare HTML, FODS e molti altri formati utilizzando Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="FODS" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -27,7 +27,7 @@ Segui i semplici passaggi per convertire HTML in FODS. Carica il tuo file HTML, 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Codice di esempio per convertire HTML in FODS tramite la libreria Excel Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="html" outformat="fods" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="Codice di esempio per convertire HTML in FODS tramite la libreria Excel Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="html" outformat="fods" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="Come convertire HTML in FODS tramite Python" %}}
 

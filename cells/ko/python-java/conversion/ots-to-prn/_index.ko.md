@@ -1,7 +1,7 @@
 ---
 title: Python OTS에서 PRN으로 - OTS에서 PRN으로 변환기
-description: Aspose 엑셀. Python 엑셀. Aspose.Cells을 사용하여 OTS를 PRN으로 빠르고 쉽게 변환하세요. Python OTS를 PRN으로 변환하세요. Python OTS를 PRN에 저장합니다. Python Excel 라이브러리를 사용하여 OTS를 PRN으로 저장합니다.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert OTS to PRN in Python Excel Library., Save OTS to PRN using Python Excel Library., Python OTS to PRN saveformat., OTS to PRN Converter., Python Save OTS as PRN]
+description: Aspose Excel. 이 포괄적인 솔루션은 Python 개발자에게 OTS를 PRN 형식으로 변환하는 완벽하게 통합된 접근 방식을 제공하여 Aspose.Cells 라이브러리를 사용하여 OTS 데이터를 PRN 형식으로 원활하게 저장할 수 있도록 하며, 이 모든 작업은 효율적이고 사용자 정의 가능한 Python 코드를 통해 이루어집니다.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart OTS files to PRN Converter for Python., Convert OTS to PRN in Python., OTS files to PRN Conversion in Python., Leverage intelligent data processing to automatically parse and save OTS into PRN format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Python Excel 라이브러리에서 OTS를 PRN으로 변환" h2="OTS를 PRN으로 변환하기 위한 고속 Python Excel 라이브러리. 이것은 Python을 사용하여 OTS, PRN 및 기타 여러 형식을 가져오고 내보내는 전문 소프트웨어 솔루션입니다." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="PRN" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -27,7 +27,7 @@ OTS를 PRN으로 변환하는 쉬운 단계를 따르세요. OTS 파일을 업�
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Python Excel 라이브러리를 통해 OTS를 PRN으로 변환하는 샘플 코드" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="ots" outformat="prn" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="Python Excel 라이브러리를 통해 OTS를 PRN으로 변환하는 샘플 코드" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="ots" outformat="prn" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="Python을 통해 OTS를 PRN으로 변환하는 방법" %}}
 
@@ -81,29 +81,29 @@ Aspose.Cells for Python via Java은 플랫폼 독립적인 API이며 모든 플�
 
 {{< blocks/products/pf/agp/other-supported-section title="기타 지원되는 변환" subTitle="또한 아래 나열된 몇 가지 파일 형식을 포함하여 OTS를 다른 많은 파일 형식으로 변환할 수도 있습니다." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/ots-to-bmp/" name="OTS TO BMP" description="비트맵 이미지" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/ots-to-emf/" name="OTS TO EMF" description="향상된 메타파일 형식" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/ots-to-gif/" name="OTS TO GIF" description="그래픽 교환 형식" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/ots-to-html/" name="OTS TO HTML" description="하이퍼텍스트 마크업 언어" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/ots-to-bmp/" name="OTS에서 BMP로" description="비트맵 이미지" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/ots-to-emf/" name="OTS에서 EMF로" description="향상된 메타파일 형식" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/ots-to-gif/" name="OTS에서 GIF로" description="그래픽 교환 형식" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/ots-to-html/" name="OTS에서 HTML로" description="하이퍼텍스트 마크업 언어" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/ots-to-md/" name="OTS에서 MD로" description="마크다운 언어" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/ots-to-mhtml/" name="OTS TO MHTML" description="웹페이지 아카이브 형식" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/ots-to-ods/" name="OTS TO ODS" description="OpenDocument 스프레드시트 파일" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/ots-to-pdf/" name="OTS TO PDF" description="휴대용 문서 형식" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/ots-to-png/" name="OTS TO PNG" description="휴대용 네트워크 그래픽" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/ots-to-svg/" name="OTS TO SVG" description="확장 가능한 벡터 그래픽" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/ots-to-tiff/" name="OTS TO TIFF" description="태그된 이미지 형식" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/ots-to-tsv/" name="OTS TO TSV" description="탭으로 구분된 값" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/ots-to-txt/" name="OTS TO TXT" description="텍스트 문서" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/ots-to-xls/" name="OTS TO XLS" description="Excel 바이너리 형식" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/ots-to-xlsb/" name="OTS TO XLSB" description="바이너리 Excel 통합 문서 파일" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/ots-to-xlsm/" name="OTS TO XLSM" description="스프레드시트 파일" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/ots-to-xlsx/" name="OTS TO XLSX" description="OOXML 엑셀 파일" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/ots-to-xlt/" name="OTS TO XLT" description="Microsoft 엑셀 템플릿" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/ots-to-xltm/" name="OTS TO XLTM" description="Excel 매크로 지원 템플릿" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/ots-to-xltx/" name="OTS TO XLTX" description="Office OpenXML 엑셀 템플릿" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/ots-to-mhtml/" name="OTS에서 MHTML로" description="웹페이지 아카이브 형식" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/ots-to-ods/" name="OTS에서 ODS로" description="OpenDocument 스프레드시트 파일" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/ots-to-pdf/" name="OTS에서 PDF로" description="휴대용 문서 형식" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/ots-to-png/" name="OTS에서 PNG로" description="휴대용 네트워크 그래픽" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/ots-to-svg/" name="OTS에서 SVG로" description="확장 가능한 벡터 그래픽" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/ots-to-tiff/" name="OTS에서 TIFF로" description="태그된 이미지 형식" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/ots-to-tsv/" name="OTS에서 TSV로" description="탭으로 구분된 값" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/ots-to-txt/" name="OTS에서 TXT로" description="텍스트 문서" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/ots-to-xls/" name="OTS에서 XLS로" description="Excel 바이너리 형식" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/ots-to-xlsb/" name="OTS에서 XLSB로" description="바이너리 Excel 통합 문서 파일" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/ots-to-xlsm/" name="OTS에서 XLSM로" description="스프레드시트 파일" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/ots-to-xlsx/" name="OTS에서 XLSX로" description="OOXML 엑셀 파일" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/ots-to-xlt/" name="OTS에서 XLT로" description="Microsoft 엑셀 템플릿" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/ots-to-xltm/" name="OTS에서 XLTM로" description="Excel 매크로 지원 템플릿" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/ots-to-xltx/" name="OTS에서 XLTX로" description="Office OpenXML 엑셀 템플릿" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/ots-to-xml/" name="OTS를 XML로" description="확장 가능한 마크업 언어" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/ots-to-xps/" name="OTS TO XPS" description="XML 용지 사양" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/ots-to-json/" name="OTS TO JSON" description="자바스크립트 객체 표기법" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/ots-to-xps/" name="OTS에서 XPS로" description="XML 용지 사양" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/ots-to-json/" name="OTS에서 JSON로" description="자바스크립트 객체 표기법" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

@@ -1,7 +1,7 @@
 ---
 title: Python 이미지를 JPG로 - 이미지를 JPG로 변환하는 변환기
-description: Aspose 엑셀. Python 엑셀. Aspose.Cells을 사용하여 IMAGE를 JPG로 빠르고 쉽게 변환하세요. Python IMAGE를 JPG로. Python 이미지를 JPG로 저장합니다. Python Excel 라이브러리를 사용하여 이미지를 JPG로 저장합니다.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert IMAGE to JPG in Python Excel Library., Save IMAGE to JPG using Python Excel Library., Python IMAGE to JPG saveformat., IMAGE to JPG Converter., Python Save IMAGE as JPG]
+description: Aspose Excel. 이 포괄적인 솔루션은 Python 개발자에게 이미지를 JPG 형식으로 변환하는 완벽하게 통합된 접근 방식을 제공하여 Aspose.Cells 라이브러리를 사용하여 이미지 데이터를 JPG 형식으로 원활하게 저장할 수 있도록 하며, 이 모든 작업은 효율적이고 사용자 정의 가능한 Python 코드를 통해 이루어집니다.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart IMAGE files to JPG Converter for Python., Convert IMAGE to JPG in Python., IMAGE files to JPG Conversion in Python., Leverage intelligent data processing to automatically parse and save IMAGE into JPG format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Python Excel 라이브러리에서 이미지를 JPG로 변환" h2="IMAGE를 JPG로 변환하기 위한 고속 Python Excel 라이브러리. Python에서 높은 수준의 플랫폼 독립 소프트웨어를 개발하려면 Excel 변환 API을 사용하십시오." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="JPG" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -28,7 +28,7 @@ IMAGE를 JPG로 변환하는 쉬운 단계를 따르세요. IMAGE 파일을 업�
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Python Excel 라이브러리를 통해 이미지를 JPG로 변환하는 샘플 코드" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="png" outformat="jpg" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Python Excel 라이브러리를 통해 이미지를 JPG로 변환하는 샘플 코드" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="png" outformat="jpg" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="이미지를 JPG로 변환하는 방법" %}}
 

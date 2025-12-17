@@ -1,7 +1,7 @@
 ---
 title: Java JSON tot MARKDOWN - JSON tot MARKDOWN Converter
-description: Aspose Excel. Converteer JSON snel en eenvoudig naar MARKDOWN met Aspose.Cells. Java JSON naar MARKDOWN. Java Bewaar JSON in MARKDOWN. Bewaar JSON als 07611134 81 via Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Convert JSON to MARKDOWN in Java., Save JSON to MARKDOWN using Java., Java JSON to MARKDOWN saveformat., JSON to MARKDOWN Converter., Java Save JSON as MARKDOWN]
+description: Aspose Excel. Deze uitgebreide oplossing biedt ontwikkelaars een volledig geïntegreerde aanpak voor het converteren van gegevens van het formaat JSON naar MARKDOWN, waardoor naadloos opslaan van gegevens in het formaat JSON mogelijk is met behulp van de bibliotheek Aspose.Cells, allemaal via efficiënte en aanpasbare code Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Smart JSON files to MARKDOWN Converter for Java., Convert JSON to MARKDOWN in Java., JSON files to MARKDOWN Conversion in Java., Leverage intelligent data processing to automatically parse and save JSON into MARKDOWN format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Converteer JSON naar MARKDOWN in Java" h2="Snelle Java-bibliotheek voor het converteren van JSON naar MARKDOWN. Dit is een professionele softwareoplossing voor het importeren en exporteren van JSON, MARKDOWN en vele andere formaten met behulp van Java." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="MARKDOWN" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Convert JSON to MARKDOWN in Java.,
 
 {{% blocks/products/pf/agp/content h2="Converteer JSON naar MARKDOWN met behulp van Java" %}}
 
-Hoe converteer ik JSON naar MARKDOWN? Met de bibliotheek Aspose.Cells for Java kunt u JSON eenvoudig programmatisch naar MARKDOWN converteren met een paar regels code.[Aspose.Cells for Java](https://products.aspose.com/cells/java)is in staat om platformonafhankelijke applicaties te bouwen met de mogelijkheid om alle Excel-bestanden te genereren, wijzigen, converteren, renderen en afdrukken. Java Excel API converteert niet alleen tussen spreadsheetformaten, het kan ook Excel-bestanden weergeven als afbeeldingen, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT en meer, waardoor het een perfecte keuze is om documenten uit te wisselen in industriestandaardformaten. U kunt de nieuwste versie rechtstreeks downloaden van[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) en installeer het binnen uw op Maven gebaseerde project door de volgende configuraties toe te voegen aan pom.xml.
+ Hoe converteer ik JSON naar MARKDOWN? Met de bibliotheek Aspose.Cells for Java kunt u JSON eenvoudig programmatisch naar MARKDOWN converteren met een paar regels code.[Aspose.Cells for Java](https://products.aspose.com/cells/java)is in staat om platformonafhankelijke applicaties te bouwen met de mogelijkheid om alle Excel-bestanden te genereren, wijzigen, converteren, renderen en afdrukken. Java Excel API converteert niet alleen tussen spreadsheetformaten, het kan ook Excel-bestanden weergeven als afbeeldingen, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT en meer, waardoor het een perfecte keuze is om documenten uit te wisselen in industriestandaardformaten. U kunt de nieuwste versie rechtstreeks downloaden van[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) en installeer het binnen uw op Maven gebaseerde project door de volgende configuraties toe te voegen aan pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Opslagplaats" offSpacer="true" %}}
 
@@ -45,9 +45,9 @@ Hoe converteer ik JSON naar MARKDOWN? Met de bibliotheek Aspose.Cells for Java k
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Bewaar JSON t/m MARKDOWN in Java" %}}
+{{% blocks/products/pf/agp/content h2="Sla JSON op in MARKDOWN in Java" %}}
 
-Het volgende voorbeeld laat zien hoe u JSON converteert naar MARKDOWN in Java.
+Het volgende voorbeeld laat zien hoe je JSON omzet naar MARKDOWN in Java.
 {{% blocks/products/pf/agp/text %}}
 
 Volg de eenvoudige stappen om JSON naar MARKDOWN te converteren. Upload uw JSON-bestand en sla het vervolgens eenvoudig op als MARKDOWN-bestand. Voor zowel JSON lezen als MARKDOWN schrijven kunt u volledig gekwalificeerde bestandsnamen gebruiken. De inhoud en opmaak van de uitvoer MARKDOWN zullen identiek zijn aan het originele document JSON.
@@ -56,19 +56,19 @@ Volg de eenvoudige stappen om JSON naar MARKDOWN te converteren. Upload uw JSON-
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Voorbeeldcode om JSON naar MARKDOWN te converteren" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="json" outformat="md" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Voorbeeldcode om JSON naar MARKDOWN te converteren" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="json" outformat="md" IsLandingPage="true" language="java" %}}
 
-{{% blocks/products/pf/agp/content h2="Hoe JSON naar MARKDOWN via Java te converteren" %}}
+{{% blocks/products/pf/agp/content h2="Hoe zet ik JSON om naar MARKDOWN of via Java?" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
-Wilt u JSON-bestanden programmatisch naar MARKDOWN converteren? Java-ontwikkelaars kunnen JSON eenvoudig in slechts een paar regels code naar MARKDOWN converteren.
+Moet je bestanden met de extensie JSON programmatisch converteren naar MARKDOWN? Ontwikkelaars van Java kunnen bestanden met de extensie JSON eenvoudig converteren naar MARKDOWN met slechts een paar regels code.
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Installeer 'Aspose.Cells for Java'.
 1.  Voeg een bibliotheekreferentie toe (importeer de bibliotheek) aan uw Java-project.
-1. Laad bestand JSON met een exemplaar van de klasse Workbook.
+1.  Laad bestand JSON met een instantie van de klasse Workbook.
 1.  Converteer JSON naar MARKDOWN door de Workbook.save-methode aan te roepen.
 1.  Verkrijg het conversieresultaat van JSON naar MARKDOWN.
 

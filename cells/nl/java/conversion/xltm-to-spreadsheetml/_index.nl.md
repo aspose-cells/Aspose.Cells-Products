@@ -1,7 +1,7 @@
 ---
 title: Java XLTM naar SPREADSHEETML - XLTM naar SPREADSHEETML-converter
-description: Aspose Excel. Converteer XLTM snel en eenvoudig naar SPREADSHEETML met Aspose.Cells. Java XLTM naar SPREADSHEETML. Java Sla XLTM op in SPREADSHEETML. Sla XLTM op als SPREADSHEETML met behulp van Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Convert XLTM to SPREADSHEETML in Java., Save XLTM to SPREADSHEETML using Java., Java XLTM to SPREADSHEETML saveformat., XLTM to SPREADSHEETML Converter., Java Save XLTM as SPREADSHEETML]
+description: Aspose Excel. Deze uitgebreide oplossing biedt Java ontwikkelaars een volledig geïntegreerde aanpak om XLTM naar SPREADSHEETML-formaat te converteren, waardoor naadloos opslaan van XLTM-gegevens in SPREADSHEETML-formaat mogelijk is met behulp van de Aspose.Cells-bibliotheek, allemaal via efficiënte en aanpasbare Java-code.
+keywords: [Aspose Excel., Java Aspose.Cells., Smart XLTM files to SPREADSHEETML Converter for Java., Convert XLTM to SPREADSHEETML in Java., XLTM files to SPREADSHEETML Conversion in Java., Leverage intelligent data processing to automatically parse and save XLTM into SPREADSHEETML format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Converteer XLTM naar SPREADSHEETML in Java" h2="Snelle Java-bibliotheek voor het converteren van XLTM naar SPREADSHEETML. Dit is een professionele softwareoplossing voor het importeren en exporteren van XLTM, SPREADSHEETML en vele andere formaten met behulp van Java." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="SPREADSHEETML" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="CSV" >}}
@@ -47,7 +47,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Convert XLTM to SPREADSHEETML in J
 
 {{% blocks/products/pf/agp/content h2="Sla XLTM op in SPREADSHEETML in Java" %}}
 
-In het volgende voorbeeld ziet u hoe u XLTM converteert naar SPREADSHEETML in Java.
+Het volgende voorbeeld laat zien hoe u XLTM naar SPREADSHEETML kunt converteren in Java.
 {{% blocks/products/pf/agp/text %}}
 
 Volg de eenvoudige stappen om XLTM naar SPREADSHEETML te converteren. Upload uw XLTM-bestand en sla het vervolgens eenvoudig op als SPREADSHEETML-bestand. Voor zowel XLTM-lezen als SPREADSHEETML-schrijven kunt u volledig gekwalificeerde bestandsnamen gebruiken. De inhoud en opmaak van de SPREADSHEETML-uitvoer zijn identiek aan het originele XLTM-document.
@@ -56,19 +56,19 @@ Volg de eenvoudige stappen om XLTM naar SPREADSHEETML te converteren. Upload uw 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Voorbeeldcode om XLTM naar SPREADSHEETML te converteren" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xltm" outformat="xml" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Voorbeeldcode om XLTM naar SPREADSHEETML te converteren" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="xltm" outformat="xml" IsLandingPage="true" language="java" %}}
 
-{{% blocks/products/pf/agp/content h2="XLTM converteren naar SPREADSHEETML via Java" %}}
+{{% blocks/products/pf/agp/content h2="Hoe converteer ik XLTM naar SPREADSHEETML via Java?" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
-Wilt u XLTM-bestanden programmatisch naar SPREADSHEETML converteren? Java-ontwikkelaars kunnen XLTM eenvoudig in slechts een paar regels code naar SPREADSHEETML converteren.
+Moet u bestanden met de extensie XLTM programmatisch converteren naar SPREADSHEETML? Ontwikkelaars van Java kunnen bestanden met de extensie XLTM eenvoudig converteren naar SPREADSHEETML met slechts een paar regels code.
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Installeer 'Aspose.Cells for Java'.
 1.  Voeg een bibliotheekreferentie toe (importeer de bibliotheek) aan uw Java-project.
-1. Laad bestand XLTM met een exemplaar van de klasse Workbook.
+1.  Laad bestand XLTM met een instantie van de klasse Workbook.
 1.  Converteer XLTM naar SPREADSHEETML door de Workbook.save-methode aan te roepen.
 1.  Verkrijg het conversieresultaat van XLTM naar SPREADSHEETML.
 

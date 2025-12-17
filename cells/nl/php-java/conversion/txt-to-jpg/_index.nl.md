@@ -1,7 +1,7 @@
 ---
-title: PHP TXT naar JPG - TXT naar JPG-converter
-description: Aspose Excel. Converteer TXT snel en eenvoudig naar JPG met Aspose.Cells. PHP TXT naar JPG. PHP Sla TXT op in JPG. Sla TXT op als JPG met behulp van PHP.
-keywords: [Aspose Excel., PHP Aspose.Cells., Convert TXT to JPG in PHP., Save TXT to JPG using PHP., PHP TXT to JPG saveformat., TXT to JPG Converter., PHP Save TXT as JPG]
+title: PHP TXT naar JPG - TXT naar JPG Converter
+description: Aspose Excel. Deze complete oplossing biedt PHP-ontwikkelaars een volledig geïntegreerde aanpak om TXT naar JPG-formaat te converteren, waardoor het naadloos opslaan van TXT-gegevens in JPG-formaat mogelijk is met behulp van de Aspose.Cells-bibliotheek, allemaal via efficiënte en aanpasbare PHP-code.
+keywords: [Aspose Excel., PHP Aspose.Cells., Smart TXT files to JPG Converter for PHP., Convert TXT to JPG in PHP., TXT files to JPG Conversion in PHP., Leverage intelligent data processing to automatically parse and save TXT into JPG format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Converteer TXT naar JPG in PHP" h2="Snelle PHP-bibliotheek voor het converteren van TXT naar JPG. Dit is een professionele softwareoplossing voor het importeren en exporteren van TXT, JPG en vele andere formaten met behulp van PHP." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-php-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="JPG" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,13 +12,13 @@ keywords: [Aspose Excel., PHP Aspose.Cells., Convert TXT to JPG in PHP., Save TX
 
 {{% blocks/products/pf/agp/content h2="Converteer TXT naar JPG met behulp van PHP" %}}
 
- Hoe converteer ik TXT naar JPG? Met de bibliotheek Aspose.Cells for PHP via Java kunt u TXT eenvoudig programmatisch naar JPG converteren met een paar regels code.[Aspose.Cells for PHP via Java](https://products.aspose.com/cells/php-java/) is in staat om platformonafhankelijke applicaties te bouwen met de mogelijkheid om alle Excel-bestanden te genereren, wijzigen, converteren, renderen en afdrukken. PHP Excel API converteert niet alleen tussen spreadsheetformaten, het kan ook Excel-bestanden weergeven als afbeeldingen, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT en meer, waardoor het een perfecte keuze is om documenten uit te wisselen in industriestandaardformaten.
+ Hoe converteer ik TXT naar JPG? Met de Aspose.Cells for PHP via Java bibliotheek kunt u TXT eenvoudig programmatisch naar JPG converteren met slechts een paar regels code.[Aspose.Cells for PHP via Java](https://products.aspose.com/cells/php-java/) PHP Excel API is in staat om platformonafhankelijke applicaties te bouwen die alle Excel-bestanden kunnen genereren, bewerken, converteren, weergeven en afdrukken. Het kan niet alleen converteren tussen spreadsheetformaten, maar ook Excel-bestanden weergeven als afbeeldingen (PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT) en meer, waardoor het een perfecte keuze is voor het uitwisselen van documenten in industriestandaardformaten.
  
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Sla TXT op naar JPG in PHP" %}}
+{{% blocks/products/pf/agp/content h2="Sla TXT op als JPG in PHP" %}}
 
-Het volgende voorbeeld laat zien hoe u TXT naar JPG in PHP converteert.
+Het volgende voorbeeld laat zien hoe je TXT naar JPG kunt converteren in PHP.
 {{% blocks/products/pf/agp/text %}}
 
 Volg de eenvoudige stappen om TXT naar JPG te converteren. Upload uw TXT-bestand en sla het vervolgens eenvoudig op als JPG-bestand. Voor zowel TXT lezen als JPG schrijven kunt u volledig gekwalificeerde bestandsnamen gebruiken. De uitvoer-JPG-inhoud en -opmaak zijn identiek aan het originele TXT-document.
@@ -27,20 +27,20 @@ Volg de eenvoudige stappen om TXT naar JPG te converteren. Upload uw TXT-bestand
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Voorbeeldcode om TXT naar JPG te converteren" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="txt" outformat="jpg" IsLandingPage="true" language="phpjava" %}}
+{{% cells-convert title="Voorbeeldcode om TXT naar JPG te converteren" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="txt" outformat="jpg" IsLandingPage="true" language="phpjava" %}}
 
-{{% blocks/products/pf/agp/content h2="Hoe TXT naar JPG te converteren via PHP" %}}
+{{% blocks/products/pf/agp/content h2="Hoe converteer je TXT naar JPG met PHP?" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
-Wilt u TXT-bestanden programmatisch naar JPG converteren? PHP-ontwikkelaars kunnen TXT eenvoudig in slechts een paar regels code laden en converteren naar JPG.
+Moet je bestanden met de extensie TXT programmatisch naar JPG converteren? PHP-ontwikkelaars kunnen bestanden met de extensie TXT eenvoudig laden en converteren naar JPG met slechts een paar regels code.
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Installeer 'Aspose.Cells for PHP via Java'.
-1.  Voeg een bibliotheekreferentie toe (importeer de bibliotheek) aan uw PHP-project.
+1.  Voeg een bibliotheekreferentie (importeer de bibliotheek) toe aan je PHP-project.
 1.  Laad het bestand TXT met een exemplaar van Workbook.
-1. Converteer TXT naar JPG door de opslagmethode van Workbook aan te roepen.
+1.  Converteer TXT naar JPG door de save-methode van Workbook aan te roepen.
 1.  Verkrijg het conversieresultaat van TXT naar JPG.
 
 {{% /blocks/products/pf/agp/content %}}
@@ -63,7 +63,7 @@ Er zijn drie opties om "Aspose.Cells for PHP via Java" op uw systeem te installe
 
 {{% blocks/products/pf/agp/text %}}
 
-Aspose.Cells for PHP via Java is platformonafhankelijk API en kan worden gebruikt op elk platform (Windows, Linux, MacOS etc.) waarop PHP 7 of hogere versies zijn geïnstalleerd. De machine moet beschikken over versies van Oracle JDK 7 of hoger voordat u de installatie kunt instellen.
+ Aspose.Cells for PHP via Java is platformonafhankelijk en kan worden gebruikt op elk platform (Windows, Linux, MacOS, enz.) waarop PHP 7 of een latere versie is geïnstalleerd. De machine moet Oracle JDK 7 of een latere versie hebben voordat de installatie kan worden uitgevoerd.
  
 {{% /blocks/products/pf/agp/text %}}
 

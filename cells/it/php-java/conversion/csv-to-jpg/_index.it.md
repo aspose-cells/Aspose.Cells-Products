@@ -1,7 +1,7 @@
 ---
 title: Convertitore da PHP CSV a JPG - CSV a JPG
-description: Aspose Excel. Converti CSV in JPG in modo rapido e semplice con Aspose.Cells. PHP CSV in JPG. PHP Salva CSV in JPG. Salva CSV come JPG utilizzando PHP.
-keywords: [Aspose Excel., PHP Aspose.Cells., Convert CSV to JPG in PHP., Save CSV to JPG using PHP., PHP CSV to JPG saveformat., CSV to JPG Converter., PHP Save CSV as JPG]
+description: Aspose Excel. Questa soluzione completa fornisce agli sviluppatori PHP un approccio completamente integrato per convertire CSV in formato JPG, consentendo il salvataggio senza interruzioni dei dati CSV in formato JPG utilizzando la libreria Aspose.Cells, il tutto tramite codice PHP efficiente e personalizzabile.
+keywords: [Aspose Excel., PHP Aspose.Cells., Smart CSV files to JPG Converter for PHP., Convert CSV to JPG in PHP., CSV files to JPG Conversion in PHP., Leverage intelligent data processing to automatically parse and save CSV into JPG format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Converti CSV in JPG in PHP" h2="Libreria PHP ad alta velocità per convertire CSV in JPG. Questa è una soluzione software professionale per importare ed esportare CSV, JPG e molti altri formati utilizzando PHP." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-php-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="JPG" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., PHP Aspose.Cells., Convert CSV to JPG in PHP., Save CS
 
 {{% blocks/products/pf/agp/content h2="Converti CSV in JPG utilizzando PHP" %}}
 
- Come converto CSV in JPG? Con la libreria Aspose.Cells for PHP via Java, puoi convertire facilmente CSV in JPG a livello di codice con poche righe di codice.[Aspose.Cells for PHP via Java](https://products.aspose.com/cells/php-java/) è in grado di creare applicazioni multipiattaforma con la capacità di generare, modificare, convertire, eseguire il rendering e stampare tutti i file Excel. PHP Excel API non solo converte tra formati di foglio di calcolo, ma può anche eseguire il rendering di file Excel come immagini, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT e altro, rendendolo quindi una scelta perfetta per lo scambio di documenti in formati standard del settore.
+ Come converto CSV in JPG? Con la libreria Aspose.Cells for PHP via Java, puoi convertire facilmente CSV in JPG programmaticamente con poche righe di codice.[Aspose.Cells for PHP via Java](https://products.aspose.com/cells/php-java/) È in grado di creare applicazioni multipiattaforma con la capacità di generare, modificare, convertire, visualizzare e stampare tutti i file Excel. PHP Excel API non solo converte tra formati di fogli di calcolo, ma può anche visualizzare i file Excel come immagini, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT e altro ancora, rendendolo la scelta perfetta per lo scambio di documenti nei formati standard del settore.
  
 {{% /blocks/products/pf/agp/content %}}
 
@@ -27,20 +27,20 @@ Segui i semplici passaggi per convertire CSV in JPG. Carica il tuo file CSV, qui
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Codice di esempio per convertire CSV in JPG" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="csv" outformat="jpg" IsLandingPage="true" language="phpjava" %}}
+{{% cells-convert title="Codice di esempio per convertire CSV in JPG" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="csv" outformat="jpg" IsLandingPage="true" language="phpjava" %}}
 
 {{% blocks/products/pf/agp/content h2="Come convertire CSV in JPG tramite PHP" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
-Hai bisogno di convertire i file CSV in JPG a livello di codice? Gli sviluppatori PHP possono caricare e convertire facilmente CSV in JPG in poche righe di codice.
+Hai bisogno di convertire i file CSV in JPG tramite codice? Gli sviluppatori PHP possono caricare e convertire facilmente i file CSV in JPG in poche righe di codice.
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Installa 'Aspose.Cells for PHP via Java'.
 1.  Aggiungi un riferimento alla libreria (importa la libreria) al tuo progetto PHP.
 1.  Carica il file CSV con un'istanza di Workbook.
-1. Converti CSV in JPG chiamando il metodo di salvataggio della cartella di lavoro.
+1.  Converti CSV in JPG chiamando il metodo save di Workbook.
 1.  Ottieni il risultato della conversione da CSV a JPG.
 
 {{% /blocks/products/pf/agp/content %}}
@@ -63,7 +63,7 @@ Esistono tre opzioni per installare "Aspose.Cells for PHP via Java" sul tuo sist
 
 {{% blocks/products/pf/agp/text %}}
 
-Aspose.Cells for PHP via Java è indipendente dalla piattaforma API e può essere utilizzato su qualsiasi piattaforma (Windows, Linux, MacOS ecc.) su cui è installato PHP 7 o versioni successive. La macchina deve disporre di Oracle JDK 7 o versioni successive prima di configurare l'installazione.
+ Aspose.Cells for PHP via Java è indipendente dalla piattaforma API e può essere utilizzato su qualsiasi piattaforma (Windows, Linux, macOS ecc.) su cui sia installato PHP 7 o versioni successive. Il computer deve disporre di Oracle JDK 7 o versioni successive prima di poter configurare l'installazione.
  
 {{% /blocks/products/pf/agp/text %}}
 
@@ -72,7 +72,7 @@ Aspose.Cells for PHP via Java è indipendente dalla piattaforma API e può esser
 
 <!-- aboutfile Starts -->
     {{< blocks/products/pf/agp/about-file-section >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="CSV" readMoreLink="https://docs.fileformat.com/spreadsheet/csv/" >}}file con estensione .csv (Comma Separated Values) rappresentano file di testo semplice che contengono record di dati con valori separati da virgole. Ogni riga in un file CSV è un nuovo record dall'insieme di record contenuti nel file. Tali file vengono generati quando è previsto il trasferimento dei dati da un sistema di archiviazione a un altro. Poiché tutte le applicazioni possono riconoscere i record separati da virgola, l'importazione di tali file di dati nel database viene eseguita in modo molto conveniente. Quasi tutte le applicazioni per fogli di calcolo come Microsoft Excel o OpenOffice Calc possono importare CSV senza troppi sforzi. I dati importati da tali file sono organizzati in celle di un foglio di calcolo per essere rappresentati dall'utente.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="CSV" readMoreLink="https://docs.fileformat.com/spreadsheet/csv/" >}}file con estensione .csv (Comma Separated Values) rappresentano file di testo semplice che contengono record di dati con valori separati da virgole. Ogni riga in un file CSV è un nuovo record dall'insieme di record contenuti nel file. Tali file vengono generati quando è previsto il trasferimento dei dati da un sistema di archiviazione a un altro. Poiché tutte le applicazioni sono in grado di riconoscere i record separati da virgola, l'importazione di tali file di dati nel database viene eseguita in modo molto conveniente. Quasi tutte le applicazioni per fogli di calcolo come Microsoft Excel o OpenOffice Calc possono importare CSV senza troppi sforzi. I dati importati da tali file sono organizzati in celle di un foglio di calcolo per essere rappresentati dall'utente.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="JPG" readMoreLink="https://docs.fileformat.com/image/jpg/" >}}A JPEG è un tipo di formato immagine che viene salvato utilizzando il metodo di compressione con perdita. L'immagine di output, come risultato della compressione, è un compromesso tra le dimensioni di archiviazione e la qualità dell'immagine. Gli utenti possono regolare il livello di compressione per ottenere il livello di qualità desiderato e allo stesso tempo ridurre le dimensioni di archiviazione. La qualità dell'immagine viene influenzata in modo trascurabile se all'immagine viene applicata la compressione 10:1. Maggiore è il valore di compressione, maggiore sarà il degrado della qualità dell'immagine.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
     {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->
@@ -82,7 +82,7 @@ Aspose.Cells for PHP via Java è indipendente dalla piattaforma API e può esser
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/php-java/conversion/csv-to-bmp/" name="dallo CSV allo BMP" description="Immagine bitmap" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/php-java/conversion/csv-to-emf/" name="dallo CSV allo EMF" description="Formato metafile avanzato" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/php-java/conversion/csv-to-gif/" name="dallo CSV allo GIF" description="Formato di interscambio grafico" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/php-java/conversion/csv-to-html/" name="dallo CSV allo HTML" description="Hyper Text Markup Language" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/php-java/conversion/csv-to-html/" name="dallo CSV allo HTML" description="Linguaggio di markup ipertestuale" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/php-java/conversion/csv-to-md/" name="CSV AL MD" description="Linguaggio di ribasso" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/php-java/conversion/csv-to-mhtml/" name="dallo CSV allo MHTML" description="Formato di archivio delle pagine Web" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/php-java/conversion/csv-to-ods/" name="dallo CSV allo ODS" description="File di foglio di calcolo OpenDocument" >}}

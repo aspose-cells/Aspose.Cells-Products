@@ -1,7 +1,7 @@
 ---
 title: PHP XML naar XLTM - XML naar XLTM Converter
-description: Aspose Excel. Converteer XML snel en eenvoudig naar XLTM met Aspose.Cells. PHP XML naar XLTM. PHP Sla XML op naar XLTM. Sla XML op als XLTM met behulp van PHP.
-keywords: [Aspose Excel., PHP Aspose.Cells., Convert XML to XLTM in PHP., Save XML to XLTM using PHP., PHP XML to XLTM saveformat., XML to XLTM Converter., PHP Save XML as XLTM]
+description: Aspose Excel. Deze complete oplossing biedt PHP-ontwikkelaars een volledig geïntegreerde aanpak voor het converteren van XML naar het XLTM-formaat. Hierdoor kunnen XML-gegevens naadloos worden opgeslagen in het XLTM-formaat met behulp van de Aspose.Cells-bibliotheek, en dat alles via efficiënte en aanpasbare PHP-code.
+keywords: [Aspose Excel., PHP Aspose.Cells., Smart XML files to XLTM Converter for PHP., Convert XML to XLTM in PHP., XML files to XLTM Conversion in PHP., Leverage intelligent data processing to automatically parse and save XML into XLTM format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Converteer XML naar XLTM in PHP" h2="Snelle PHP-bibliotheek voor het converteren van XML naar XLTM. Dit is een professionele softwareoplossing voor het importeren en exporteren van XML, XLTM en vele andere formaten met behulp van PHP." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-php-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLTM" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,13 +12,13 @@ keywords: [Aspose Excel., PHP Aspose.Cells., Convert XML to XLTM in PHP., Save X
 
 {{% blocks/products/pf/agp/content h2="Converteer XML naar XLTM met behulp van PHP" %}}
 
-Hoe converteer ik XML naar XLTM? Met de bibliotheek Aspose.Cells for PHP via Java kunt u eenvoudig XML met een paar regels code programmatisch naar XLTM converteren.[Aspose.Cells for PHP via Java](https://products.aspose.com/cells/php-java/) is in staat om platformonafhankelijke applicaties te bouwen met de mogelijkheid om alle Excel-bestanden te genereren, wijzigen, converteren, renderen en afdrukken. PHP Excel API converteert niet alleen tussen spreadsheetformaten, het kan ook Excel-bestanden weergeven als afbeeldingen, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT en meer, waardoor het een perfecte keuze is om documenten uit te wisselen in industriestandaardformaten.
+ Hoe converteer ik XML naar XLTM? Met de bibliotheek Aspose.Cells for PHP via Java kunt u XML eenvoudig programmatisch converteren naar XLTM met slechts een paar regels code.[Aspose.Cells for PHP via Java](https://products.aspose.com/cells/php-java/) PHP Excel API is in staat om platformonafhankelijke applicaties te bouwen die alle Excel-bestanden kunnen genereren, bewerken, converteren, weergeven en afdrukken. Het kan niet alleen converteren tussen spreadsheetformaten, maar ook Excel-bestanden weergeven als afbeeldingen (PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT) en meer, waardoor het een perfecte keuze is voor het uitwisselen van documenten in industriestandaardformaten.
  
 {{% /blocks/products/pf/agp/content %}}
 
 {{% blocks/products/pf/agp/content h2="Sla XML op naar XLTM in PHP" %}}
 
-Het volgende voorbeeld laat zien hoe u XML naar XLTM in PHP converteert.
+Het volgende voorbeeld laat zien hoe je XML naar XLTM converteert in PHP.
 {{% blocks/products/pf/agp/text %}}
 
 Volg de eenvoudige stappen om XML naar XLTM te converteren. Upload uw XML-bestand en sla het vervolgens eenvoudig op als XLTM-bestand. Voor zowel het lezen van XML als het schrijven van XLTM kunt u volledig gekwalificeerde bestandsnamen gebruiken. De inhoud en opmaak van de uitvoer XLTM zullen identiek zijn aan het originele XML-document.
@@ -27,20 +27,20 @@ Volg de eenvoudige stappen om XML naar XLTM te converteren. Upload uw XML-bestan
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Voorbeeldcode om XML naar XLTM te converteren" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xml" outformat="xltm" IsLandingPage="true" language="phpjava" %}}
+{{% cells-convert title="Voorbeeldcode om XML naar XLTM te converteren" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="xml" outformat="xltm" IsLandingPage="true" language="phpjava" %}}
 
-{{% blocks/products/pf/agp/content h2="Hoe XML naar XLTM te converteren via PHP" %}}
+{{% blocks/products/pf/agp/content h2="Hoe converteer je XML naar XLTM via PHP?" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
-Wilt u XML-bestanden programmatisch naar XLTM converteren? PHP-ontwikkelaars kunnen eenvoudig XML in slechts een paar regels code laden en converteren naar XLTM.
+Moet je XML-bestanden programmatisch converteren naar XLTM? PHP-ontwikkelaars kunnen XML-bestanden eenvoudig laden en converteren naar XLTM met slechts een paar regels code.
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Installeer 'Aspose.Cells for PHP via Java'.
-1.  Voeg een bibliotheekreferentie toe (importeer de bibliotheek) aan uw PHP-project.
+1.  Voeg een bibliotheekreferentie (importeer de bibliotheek) toe aan je PHP-project.
 1.  Laad een XML-bestand met een exemplaar van Workbook.
-1.  Converteer XML naar XLTM door de opslagmethode van Workbook aan te roepen.
+1.  Converteer XML naar XLTM door de save-methode van Workbook aan te roepen.
 1.  Haal het conversieresultaat van XML op naar XLTM.
 
 {{% /blocks/products/pf/agp/content %}}
@@ -63,7 +63,7 @@ Er zijn drie opties om "Aspose.Cells for PHP via Java" op uw systeem te installe
 
 {{% blocks/products/pf/agp/text %}}
 
-Aspose.Cells for PHP via Java is platformonafhankelijk API en kan worden gebruikt op elk platform (Windows, Linux, MacOS etc.) waarop PHP 7 of hogere versies zijn geïnstalleerd. De machine moet beschikken over versies van Oracle JDK 7 of hoger voordat u de installatie kunt instellen.
+ Aspose.Cells for PHP via Java is platformonafhankelijk en kan worden gebruikt op elk platform (Windows, Linux, MacOS, enz.) waarop PHP 7 of een latere versie is geïnstalleerd. De machine moet Oracle JDK 7 of een latere versie hebben voordat de installatie kan worden uitgevoerd.
  
 {{% /blocks/products/pf/agp/text %}}
 

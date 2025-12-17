@@ -1,7 +1,7 @@
 ---
 title: Python NUMMERS tot XLTM - NUMMERS tot XLTM Converter
-description: Aspose Excel. Python Excel. Converteer NUMBERS snel en eenvoudig naar XLTM met Aspose.Cells. Python NUMBERS naar XLTM. Python Bewaar NUMBERS naar XLTM. Sla NUMBERS op als XLTM met behulp van de Excel-bibliotheek Python.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert NUMBERS to XLTM in Python Excel Library., Save NUMBERS to XLTM using Python Excel Library., Python NUMBERS to XLTM saveformat., NUMBERS to XLTM Converter., Python Save NUMBERS as XLTM]
+description: Aspose Excel. Deze complete oplossing biedt ontwikkelaars een volledig geïntegreerde aanpak voor het converteren van NUMBERS naar het XLTM-formaat, waardoor naadloos opslaan van NUMBERS-gegevens in het XLTM-formaat mogelijk is met behulp van de Aspose.Cells-bibliotheek, allemaal via efficiënte en aanpasbare Python-code.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart NUMBERS files to XLTM Converter for Python., Convert NUMBERS to XLTM in Python., NUMBERS files to XLTM Conversion in Python., Leverage intelligent data processing to automatically parse and save NUMBERS into XLTM format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Converteer NUMMERS naar XLTM in de Excel-bibliotheek Python" h2="Snelle Python Excel-bibliotheek voor het converteren van NUMBERS naar XLTM. Dit is een professionele softwareoplossing voor het importeren en exporteren van NUMBERS, XLTM en vele andere formaten met behulp van Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLTM" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -27,7 +27,7 @@ Volg de eenvoudige stappen om NUMBERS naar XLTM te converteren. Upload uw NUMBER
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Voorbeeldcode om NUMBERS naar XLTM te converteren via de Excel-bibliotheek Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="numbers" outformat="xltm" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="Voorbeeldcode om NUMBERS naar XLTM te converteren via de Excel-bibliotheek Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="numbers" outformat="xltm" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="Hoe NUMMERS naar XLTM te converteren via Python" %}}
 

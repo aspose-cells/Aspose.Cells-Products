@@ -1,7 +1,7 @@
 ---
 title: Java XLS naar PRN - XLS naar PRN-converter
-description: Aspose Excel. Converteer XLS snel en eenvoudig naar PRN met Aspose.Cells. Java XLS naar PRN. Java Bewaar XLS in PRN. Sla XLS op als PRN met behulp van Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Convert XLS to PRN in Java., Save XLS to PRN using Java., Java XLS to PRN saveformat., XLS to PRN Converter., Java Save XLS as PRN]
+description: Aspose Excel. Deze complete oplossing biedt ontwikkelaars een volledig geïntegreerde aanpak voor het converteren van gegevens naar PRN-formaat. Hierdoor kunnen gegevens naadloos worden opgeslagen in PRN-formaat met behulp van de bibliotheek, en dit alles via efficiënte en aanpasbare code.
+keywords: [Aspose Excel., Java Aspose.Cells., Smart XLS files to PRN Converter for Java., Convert XLS to PRN in Java., XLS files to PRN Conversion in Java., Leverage intelligent data processing to automatically parse and save XLS into PRN format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Converteer XLS naar PRN in Java" h2="Snelle Java-bibliotheek voor het converteren van XLS naar PRN. Dit is een professionele softwareoplossing voor het importeren en exporteren van XLS, PRN en vele andere formaten met behulp van Java." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="PRN" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="CSV" >}}
@@ -45,9 +45,9 @@ keywords: [Aspose Excel., Java Aspose.Cells., Convert XLS to PRN in Java., Save 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Sla XLS op in PRN in Java" %}}
+{{% blocks/products/pf/agp/content h2="Sla XLS op als PRN in Java" %}}
 
-Het volgende voorbeeld laat zien hoe u XLS naar PRN converteert in Java.
+Het volgende voorbeeld laat zien hoe je XLS omzet naar PRN in Java.
 {{% blocks/products/pf/agp/text %}}
 
 Volg de eenvoudige stappen om XLS naar PRN te converteren. Upload uw XLS-bestand en sla het vervolgens eenvoudig op als PRN-bestand. Voor zowel het lezen van XLS als het schrijven van PRN kunt u volledig gekwalificeerde bestandsnamen gebruiken. De uitvoer-PRN-inhoud en -opmaak zijn identiek aan het originele XLS-document.
@@ -56,19 +56,19 @@ Volg de eenvoudige stappen om XLS naar PRN te converteren. Upload uw XLS-bestand
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Voorbeeldcode om XLS naar PRN te converteren" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xls" outformat="prn" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Voorbeeldcode om XLS naar PRN te converteren" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="xls" outformat="prn" IsLandingPage="true" language="java" %}}
 
-{{% blocks/products/pf/agp/content h2="Hoe XLS naar PRN via Java te converteren" %}}
+{{% blocks/products/pf/agp/content h2="Hoe zet ik XLS om naar PRN via Java?" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
-Wilt u XLS-bestanden programmatisch naar PRN converteren? Java-ontwikkelaars kunnen XLS eenvoudig met slechts een paar regels code naar PRN converteren.
+Moet u XLS-bestanden programmatisch naar PRN converteren? Ontwikkelaars van Java kunnen XLS-bestanden eenvoudig in een paar regels code naar PRN converteren.
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Installeer 'Aspose.Cells for Java'.
 1.  Voeg een bibliotheekreferentie toe (importeer de bibliotheek) aan uw Java-project.
-1. Laad bestand XLS met een exemplaar van de klasse Workbook.
+1.  Laad bestand XLS met een instantie van de klasse Workbook.
 1.  Converteer XLS naar PRN door de Workbook.save-methode aan te roepen.
 1.  Verkrijg het conversieresultaat van XLS naar PRN.
 
@@ -97,7 +97,7 @@ Wilt u XLS-bestanden programmatisch naar PRN converteren? Java-ontwikkelaars kun
 
 <!-- aboutfile Starts -->
     {{< blocks/products/pf/agp/about-file-section >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLS" readMoreLink="https://docs.fileformat.com/spreadsheet/xls/" >}}Bestanden met de extensie XLS vertegenwoordigen het binaire bestandsformaat van Excel. Dergelijke bestanden kunnen worden gemaakt door Microsoft Excel en andere soortgelijke spreadsheetprogramma's zoals OpenOffice Calc of Apple Numbers. Bestand dat door Excel wordt opgeslagen, staat bekend als Werkmap, waarbij elke werkmap een of meer werkbladen kan hebben. Gegevens worden opgeslagen en weergegeven aan gebruikers in tabelindeling op een werkblad en kunnen numerieke waarden, tekstgegevens, formules, externe gegevensverbindingen, afbeeldingen en grafieken omvatten. Met toepassingen zoals Microsoft Excel kunt u werkmapgegevens naar verschillende formaten exporteren, waaronder PDF, CSV, XLSX, TXT, HTML, XPS en verschillende andere. Het bestandsformaat XLS werd vervangen door een meer open en gestructureerd formaat, XLSX, met de release van Microsoft Excel 2007. De nieuwste versies bieden nog steeds ondersteuning voor het maken en lezen van XLS-bestanden, hoewel XLSX nu de eerste gebruikskeuze is.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLS" readMoreLink="https://docs.fileformat.com/spreadsheet/xls/" >}}Bestanden met de extensie XLS vertegenwoordigen het binaire bestandsformaat van Excel. Dergelijke bestanden kunnen worden gemaakt door Microsoft Excel en andere soortgelijke spreadsheetprogramma's zoals OpenOffice Calc of Apple Numbers. Bestand opgeslagen door Excel staat bekend als Werkmap, waarbij elke werkmap een of meer werkbladen kan hebben. Gegevens worden opgeslagen en weergegeven aan gebruikers in tabelindeling op een werkblad en kunnen numerieke waarden, tekstgegevens, formules, externe gegevensverbindingen, afbeeldingen en grafieken omvatten. Met toepassingen zoals Microsoft Excel kunt u werkmapgegevens naar verschillende formaten exporteren, waaronder PDF, CSV, XLSX, TXT, HTML, XPS en verschillende andere. Het bestandsformaat XLS werd vervangen door een meer open en gestructureerd formaat, XLSX, met de release van Microsoft Excel 2007. De nieuwste versies bieden nog steeds ondersteuning voor het maken en lezen van XLS-bestanden, hoewel XLSX nu de eerste gebruikskeuze is.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="PRN" readMoreLink="https://fileinfo.com/extension/prn/" >}}Een PRN-bestand is een bestand dat is gemaakt met behulp van het selectievakje Afdrukken naar bestand dat in sommige afdrukdialoogvensters op Windows verschijnt. Het bevat een reeks apparaatspecifieke instructies die een printer, faxapparaat of ander apparaat gebruikt om een document af te drukken. PRN-bestanden kunnen tekst of binaire inhoud bevatten, afhankelijk van het apparaat waarvoor het bestand is gemaakt.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
     {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->

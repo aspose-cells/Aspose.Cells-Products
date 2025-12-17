@@ -1,7 +1,7 @@
 ---
 title: Python EXCEL から ET - EXCEL から ET へのコンバーター
-description: Aspose Excel。Python Excel。Aspose.Cells を使用して、EXCEL を ET にすばやく簡単に変換します。Python EXCEL を ET に変換します。Python EXCEL を ET に保存します。Python Excel ライブラリを使用して、EXCEL を ET として保存します。
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert EXCEL to ET in Python Excel Library., Save EXCEL to ET using Python Excel Library., Python EXCEL to ET saveformat., EXCEL to ET Converter., Python Save EXCEL as ET]
+description: Aspose Excel。この包括的なソリューションは、Python 開発者に、EXCEL を ET 形式に変換するための完全に統合されたアプローチを提供します。Aspose.Cells ライブラリを使用して、EXCEL データを ET 形式にシームレスに保存できます。すべて、効率的でカスタマイズ可能な Python コードを通じて行われます。
+keywords: [Aspose Excel., Python Aspose.Cells., Smart EXCEL files to ET Converter for Python., Convert EXCEL to ET in Python., EXCEL files to ET Conversion in Python., Leverage intelligent data processing to automatically parse and save EXCEL into ET format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Python Excel ライブラリで EXCEL を ET に変換する" h2="EXCEL を ET に変換するための高速 Python Excel ライブラリ。これは、Python を使用して EXCEL、ET、およびその他の多くの形式をインポートおよびエクスポートするためのプロフェッショナル ソフトウェア ソリューションです。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="ET" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -27,7 +27,7 @@ EXCEL を ET に変換するにはどうすればいいですか? Aspose.Cells f
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Python Excel ライブラリを使用して EXCEL を ET に変換するサンプル コード" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsx" outformat="et" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="Python Excel ライブラリを使用して EXCEL を ET に変換するサンプル コード" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="xlsx" outformat="et" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="Python 経由で EXCEL を ET に変換する方法" %}}
 

@@ -1,7 +1,7 @@
 ---
 title: Java JSON naar SPREADSHEETML - JSON naar SPREADSHEETML-converter
-description: Aspose Excel. Converteer JSON snel en eenvoudig naar SPREADSHEETML met Aspose.Cells. Java JSON naar SPREADSHEETML. Java Sla JSON op in SPREADSHEETML. Sla JSON op als SPREADSHEETML met behulp van Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Convert JSON to SPREADSHEETML in Java., Save JSON to SPREADSHEETML using Java., Java JSON to SPREADSHEETML saveformat., JSON to SPREADSHEETML Converter., Java Save JSON as SPREADSHEETML]
+description: Aspose Excel. Deze uitgebreide oplossing biedt Java ontwikkelaars een volledig geïntegreerde aanpak om JSON naar SPREADSHEETML-formaat te converteren, waardoor naadloos opslaan van JSON-gegevens in SPREADSHEETML-formaat mogelijk is met behulp van de Aspose.Cells-bibliotheek, allemaal via efficiënte en aanpasbare Java-code.
+keywords: [Aspose Excel., Java Aspose.Cells., Smart JSON files to SPREADSHEETML Converter for Java., Convert JSON to SPREADSHEETML in Java., JSON files to SPREADSHEETML Conversion in Java., Leverage intelligent data processing to automatically parse and save JSON into SPREADSHEETML format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Converteer JSON naar SPREADSHEETML in Java" h2="Snelle Java-bibliotheek voor het converteren van JSON naar SPREADSHEETML. Dit is een professionele softwareoplossing voor het importeren en exporteren van JSON, SPREADSHEETML en vele andere formaten met behulp van Java." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="SPREADSHEETML" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="CSV" >}}
@@ -47,7 +47,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Convert JSON to SPREADSHEETML in J
 
 {{% blocks/products/pf/agp/content h2="Sla JSON op in SPREADSHEETML in Java" %}}
 
-In het volgende voorbeeld ziet u hoe u JSON converteert naar SPREADSHEETML in Java.
+Het volgende voorbeeld laat zien hoe u JSON naar SPREADSHEETML kunt converteren in Java.
 {{% blocks/products/pf/agp/text %}}
 
 Volg de eenvoudige stappen om JSON naar SPREADSHEETML te converteren. Upload uw JSON-bestand en sla het vervolgens eenvoudig op als SPREADSHEETML-bestand. Voor zowel JSON-lezen als SPREADSHEETML-schrijven kunt u volledig gekwalificeerde bestandsnamen gebruiken. De inhoud en opmaak van de SPREADSHEETML-uitvoer zijn identiek aan het originele JSON-document.
@@ -56,19 +56,19 @@ Volg de eenvoudige stappen om JSON naar SPREADSHEETML te converteren. Upload uw 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Voorbeeldcode om JSON naar SPREADSHEETML te converteren" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="json" outformat="xml" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Voorbeeldcode om JSON naar SPREADSHEETML te converteren" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="json" outformat="xml" IsLandingPage="true" language="java" %}}
 
-{{% blocks/products/pf/agp/content h2="JSON converteren naar SPREADSHEETML via Java" %}}
+{{% blocks/products/pf/agp/content h2="Hoe converteer ik JSON naar SPREADSHEETML via Java?" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
-Wilt u JSON-bestanden programmatisch naar SPREADSHEETML converteren? Java-ontwikkelaars kunnen JSON eenvoudig in slechts een paar regels code naar SPREADSHEETML converteren.
+Moet u bestanden met de extensie JSON programmatisch converteren naar SPREADSHEETML? Ontwikkelaars van Java kunnen bestanden met de extensie JSON eenvoudig converteren naar SPREADSHEETML met slechts een paar regels code.
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Installeer 'Aspose.Cells for Java'.
 1.  Voeg een bibliotheekreferentie toe (importeer de bibliotheek) aan uw Java-project.
-1. Laad bestand JSON met een exemplaar van de klasse Workbook.
+1.  Laad bestand JSON met een instantie van de klasse Workbook.
 1.  Converteer JSON naar SPREADSHEETML door de Workbook.save-methode aan te roepen.
 1.  Verkrijg het conversieresultaat van JSON naar SPREADSHEETML.
 

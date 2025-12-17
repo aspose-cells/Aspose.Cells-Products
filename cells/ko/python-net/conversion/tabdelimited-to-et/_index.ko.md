@@ -1,7 +1,7 @@
 ---
 title: Python TABDELIMITED에서 ET로 - TABDELIMITED에서 ET로 변환기
-description: Aspose 엑셀. Python 엑셀. Aspose.Cells을 사용하여 TABDELIMITED를 ET로 빠르고 쉽게 변환하세요. Python TABDELIMITED를 ET로 변환하세요. Python TABDELIMITED를 ET에 저장합니다. Python Excel 라이브러리를 사용하여 TABDELIMITED를 ET로 저장합니다.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert TABDELIMITED to ET in Python Excel Library., Save TABDELIMITED to ET using Python Excel Library., Python TABDELIMITED to ET saveformat., TABDELIMITED to ET Converter., Python Save TABDELIMITED as ET]
+description: Aspose Excel. 이 포괄적인 솔루션은 Python 개발자에게 탭으로 구분된 데이터를 ET 형식으로 변환하는 완벽하게 통합된 접근 방식을 제공하여 Aspose.Cells 라이브러리를 사용하여 효율적이고 사용자 정의 가능한 Python 코드를 통해 탭으로 구분된 데이터를 ET 형식으로 원활하게 저장할 수 있도록 합니다.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart TABDELIMITED files to ET Converter for Python., Convert TABDELIMITED to ET in Python., TABDELIMITED files to ET Conversion in Python., Leverage intelligent data processing to automatically parse and save TABDELIMITED into ET format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Python Excel 라이브러리에서 TABDELIMITED를 ET로 변환" h2="TABDELIMITED를 ET로 변환하기 위한 고속 Python Excel 라이브러리. Python에서 높은 수준의 플랫폼 독립 소프트웨어를 개발하려면 Excel 변환 API을 사용하십시오." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="ET" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -28,7 +28,7 @@ TABDELIMITED를 ET로 변환하는 쉬운 단계를 따르세요. TABDELIMITED �
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Python Excel 라이브러리를 통해 TABDELIMITED를 ET로 변환하는 샘플 코드" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="tsv" outformat="et" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Python Excel 라이브러리를 통해 TABDELIMITED를 ET로 변환하는 샘플 코드" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="tsv" outformat="et" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="TABDELIMITED를 ET로 변환하는 방법" %}}
 

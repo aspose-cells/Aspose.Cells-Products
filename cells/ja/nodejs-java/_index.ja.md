@@ -1,10 +1,10 @@
 ---
-title: Excel スプレッドシート用の Node.js API - Aspose
+title:  Node.js via Java Excelスプレッドシート用API - Aspose
 weight: 3120
-description: Node.js ライブラリを介して Excel ファイル形式を処理します。Windows、macOS、Linux 上の Node.js を介して、XLS XLSX XLSB XLTX XLTM XLSM XML ODS CSV およびその他の形式の読み取り、書き込み、レンダリング、変換を行います。
+description: Node.js via Java ライブラリを使用して Excel ファイル形式を処理します。XLS、XLSX、XLSB、XLTX、XLTM、XLSM、XML ODS、CSV などの形式を、Node.js Windows、macOS、Linux で読み込み、書き込み、レンダリング、変換できます。
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="Node.js Excel ファイル形式 API" h2="Microsoft Excel を必要とせずに、Node.js を使用して Excel スプレッドシートを生成、変更、変換、レンダリングします。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/headers/aspose_cells-for-nodejs-java.svg" pfName="Aspose.Cells" subTitlepfName="for Node.js via Java" downloadUrl="https://downloads.aspose.com/cells/nodejs" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="Node.js via Java Excel ファイル形式 API" h2="Microsoft Excel を必要とせずに、Node.js via Java を使用して Excel スプレッドシートを生成、変更、変換、レンダリングします。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/headers/aspose_cells-for-nodejs-java.svg" pfName="Aspose.Cells" subTitlepfName="for Node.js via Java" downloadUrl="https://downloads.aspose.com/cells/nodejs" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells" subTitlepfName="for Node.js via Java" >}}
 
@@ -12,7 +12,7 @@ description: Node.js ライブラリを介して Excel ファイル形式を処�
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
-Aspose.Cells for Node.js via Java は、Node.js を使用して Excel スプレッドシートを処理するための機能豊富でスケーラブルな API です。 API は、Excel ファイル形式の変換、最も詳細なレベルまでのワークシートのスタイル設定、グラフの作成とレンダリング、信頼性の高い数式計算エンジンなどを提供します。
+ Aspose.Cells for Node.js via Java は、Node.js via Java を使用して Excel スプレッドシートを処理する機能が豊富でスケーラブルな API です。 API は、Excel ファイル形式の変換、最も詳細なレベルまでのワークシートのスタイル設定、グラフの作成とレンダリング、信頼性の高い数式計算エンジンなどを提供します。
 </p>
 
 <p>
@@ -271,7 +271,7 @@ Node.js via Java
  <div class="row">
   <div class="container">
    <h2 class="pr-ft">
-高度な Node.js Excel スプレッドシート API の機能
+高度なNode.js via Java Excelスプレッドシート API 機能
    </h2>
    <p>
    </p>
@@ -343,7 +343,7 @@ API 経由でピボット テーブルを操作および更新します
 Excel スプレッドシートのレンダリング
     </h2>
     <p>
-Aspose.Cells for Node.js via Java は、レンダリング エンジンを使用して、最高の忠実度で Microsoft Excel にレンダリングします。Node.js Excel 処理ライブラリを使用すると、シート全体、個々のファイル、またはグラフを複数の画像や固定レイアウト形式に変換できます。
+Aspose.Cells for Node.js via Java は、レンダリングエンジンを使用して、Excel Microsoft に最高の忠実度でレンダリングします。Node.js via Java Excel Processing ライブラリを使用すると、シート全体、個々のファイル、またはグラフを複数の画像や固定レイアウト形式に変換できます。
     </p>
    </div>
    <div class="col-lg-12">
@@ -415,7 +415,7 @@ Aspose.Cells for Node.js via Java はチャート作成を完全にサポート�
 
 {{< /blocks/products/pf/i18n/support-learning-resources >}}
 
-{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://downloads.aspose.com/cells/nodejs" pricingInformationLink="https://purchase.aspose.com/pricing/cells/nodejs-java" >}}
+{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://releases.aspose.com/cells/nodejs/" pricingInformationLink="https://purchase.aspose.com/pricing/cells/nodejs-java" >}}
 
 {{< blocks/products/pf/offers-section pfName="Aspose.Cells" description="Aspose.Cells は、以下にリストされている他の一般的な開発環境向けに個別の Excel API を提供しています。" >}}
 

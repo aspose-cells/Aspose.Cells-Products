@@ -1,7 +1,7 @@
 ---
 title: Python MHT naar XLS - MHT naar XLS Converter
-description: Aspose Excel. Python Excel. Converteer MHT snel en eenvoudig naar XLS met Aspose.Cells. Python MHT naar XLS. Python Sla MHT op naar XLS. Sla MHT op als XLS met behulp van de Excel-bibliotheek Python.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert MHT to XLS in Python Excel Library., Save MHT to XLS using Python Excel Library., Python MHT to XLS saveformat., MHT to XLS Converter., Python Save MHT as XLS]
+description: Aspose Excel. Deze complete oplossing biedt ontwikkelaars een volledig geïntegreerde aanpak voor het converteren van MHT naar het XLS-formaat, waardoor het naadloos opslaan van MHT-gegevens in het XLS-formaat mogelijk is met behulp van de Aspose.Cells-bibliotheek, allemaal via efficiënte en aanpasbare Python-code.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart MHT files to XLS Converter for Python., Convert MHT to XLS in Python., MHT files to XLS Conversion in Python., Leverage intelligent data processing to automatically parse and save MHT into XLS format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Converteer MHT naar XLS in de Excel-bibliotheek Python" h2="Snelle Python Excel-bibliotheek voor het converteren van MHT naar XLS. Dit is een professionele softwareoplossing voor het importeren en exporteren van MHT, XLS en vele andere formaten met behulp van Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLS" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -27,7 +27,7 @@ Volg de eenvoudige stappen om MHT naar XLS te converteren. Upload uw MHT-bestand
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Voorbeeldcode om MHT naar XLS te converteren via de Excel-bibliotheek Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="mht" outformat="xls" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="Voorbeeldcode om MHT naar XLS te converteren via de Excel-bibliotheek Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="mht" outformat="xls" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="MHT converteren naar XLS via Python" %}}
 

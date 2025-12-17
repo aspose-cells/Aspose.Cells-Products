@@ -1,7 +1,7 @@
 ---
 title: Java TSV naar PRN - TSV naar PRN-converter
-description: Aspose Excel. Converteer TSV snel en eenvoudig naar PRN met Aspose.Cells. Java TSV naar PRN. Java Bewaar TSV in PRN. Sla TSV op als PRN met behulp van Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Convert TSV to PRN in Java., Save TSV to PRN using Java., Java TSV to PRN saveformat., TSV to PRN Converter., Java Save TSV as PRN]
+description: Aspose Excel. Deze complete oplossing biedt ontwikkelaars een volledig geïntegreerde aanpak voor het converteren van gegevens naar PRN-formaat. Hierdoor kunnen gegevens naadloos worden opgeslagen in PRN-formaat met behulp van de bibliotheek, en dit alles via efficiënte en aanpasbare code.
+keywords: [Aspose Excel., Java Aspose.Cells., Smart TSV files to PRN Converter for Java., Convert TSV to PRN in Java., TSV files to PRN Conversion in Java., Leverage intelligent data processing to automatically parse and save TSV into PRN format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Converteer TSV naar PRN in Java" h2="Snelle Java-bibliotheek voor het converteren van TSV naar PRN. Dit is een professionele softwareoplossing voor het importeren en exporteren van TSV, PRN en vele andere formaten met behulp van Java." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="PRN" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="CSV" >}}
@@ -45,9 +45,9 @@ keywords: [Aspose Excel., Java Aspose.Cells., Convert TSV to PRN in Java., Save 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Sla TSV op in PRN in Java" %}}
+{{% blocks/products/pf/agp/content h2="Sla TSV op als PRN in Java" %}}
 
-Het volgende voorbeeld laat zien hoe u TSV naar PRN converteert in Java.
+Het volgende voorbeeld laat zien hoe je TSV omzet naar PRN in Java.
 {{% blocks/products/pf/agp/text %}}
 
 Volg de eenvoudige stappen om TSV naar PRN te converteren. Upload uw TSV-bestand en sla het vervolgens eenvoudig op als PRN-bestand. Voor zowel het lezen van TSV als het schrijven van PRN kunt u volledig gekwalificeerde bestandsnamen gebruiken. De uitvoer-PRN-inhoud en -opmaak zijn identiek aan het originele TSV-document.
@@ -56,19 +56,19 @@ Volg de eenvoudige stappen om TSV naar PRN te converteren. Upload uw TSV-bestand
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Voorbeeldcode om TSV naar PRN te converteren" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="tsv" outformat="prn" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Voorbeeldcode om TSV naar PRN te converteren" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="tsv" outformat="prn" IsLandingPage="true" language="java" %}}
 
-{{% blocks/products/pf/agp/content h2="Hoe TSV naar PRN via Java te converteren" %}}
+{{% blocks/products/pf/agp/content h2="Hoe zet ik TSV om naar PRN via Java?" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
-Wilt u TSV-bestanden programmatisch naar PRN converteren? Java-ontwikkelaars kunnen TSV eenvoudig met slechts een paar regels code naar PRN converteren.
+Moet u TSV-bestanden programmatisch naar PRN converteren? Ontwikkelaars van Java kunnen TSV-bestanden eenvoudig in een paar regels code naar PRN converteren.
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Installeer 'Aspose.Cells for Java'.
 1.  Voeg een bibliotheekreferentie toe (importeer de bibliotheek) aan uw Java-project.
-1. Laad bestand TSV met een exemplaar van de klasse Workbook.
+1.  Laad bestand TSV met een instantie van de klasse Workbook.
 1.  Converteer TSV naar PRN door de Workbook.save-methode aan te roepen.
 1.  Verkrijg het conversieresultaat van TSV naar PRN.
 

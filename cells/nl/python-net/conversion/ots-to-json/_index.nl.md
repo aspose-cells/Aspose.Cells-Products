@@ -1,7 +1,7 @@
 ---
 title: Python OTS naar JSON - OTS naar JSON Converter
-description: Aspose Excel. Python Excel. Converteer OTS snel en eenvoudig naar JSON met Aspose.Cells. Python OTS naar JSON. Python Bewaar OTS naar JSON. Sla OTS op als JSON met behulp van de Excel-bibliotheek Python.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert OTS to JSON in Python Excel Library., Save OTS to JSON using Python Excel Library., Python OTS to JSON saveformat., OTS to JSON Converter., Python Save OTS as JSON]
+description: Aspose Excel. Deze complete oplossing biedt ontwikkelaars een volledig geïntegreerde aanpak voor het converteren van OTS-gegevens naar het JSON-formaat. Hierdoor kunnen OTS-gegevens naadloos worden opgeslagen in het JSON-formaat met behulp van de Aspose.Cells-bibliotheek, allemaal via efficiënte en aanpasbare Python-code.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart OTS files to JSON Converter for Python., Convert OTS to JSON in Python., OTS files to JSON Conversion in Python., Leverage intelligent data processing to automatically parse and save OTS into JSON format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Converteer OTS naar JSON in de Excel-bibliotheek Python" h2="Snelle Python Excel-bibliotheek voor het converteren van OTS naar JSON. Gebruik onze Excel-conversie API om platformonafhankelijke software op hoog niveau te ontwikkelen in Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="JSON" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -28,7 +28,7 @@ Volg de eenvoudige stappen om OTS naar JSON te converteren. Upload uw OTS-bestan
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Voorbeeldcode om OTS naar JSON te converteren via de Excel-bibliotheek Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="ots" outformat="json" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Voorbeeldcode om OTS naar JSON te converteren via de Excel-bibliotheek Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="ots" outformat="json" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="OTS converteren naar JSON" %}}
 

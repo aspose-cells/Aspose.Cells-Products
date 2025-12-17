@@ -1,10 +1,10 @@
 ---
-title:  Excel 스프레드시트용 Node.js API - Aspose
+title:  Node.js via Java Excel 스프레드시트용 API - Aspose
 weight: 3120
-description: Node.js 라이브러리를 통해 Excel 파일 형식을 처리합니다. 읽기 쓰기 렌더링 및 변환 XLS XLSX XLSB XLTX XLTM XLSM XML ODS CSV Windows, macOS 및 Linux에서 Node.js를 통해 더 많은 형식
+description: Node.js 라이브러리(via Java)를 사용하여 Excel 파일 형식을 처리합니다. XLS, XLSX, XLSB, XLTX, XLTM, XLSM XML ODS, CSV 및 기타 다양한 형식을 Node.js(via Java)를 사용하여 읽고 쓰고 렌더링하고 변환합니다. macOS 및 Linux에서 사용 가능합니다(Windows).
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="Node.js Excel 파일 형식 API" h2="Microsoft Excel이 필요 없이 Node.js를 사용하여 Excel 스프레드시트를 생성, 수정, 변환 및 렌더링합니다." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/headers/aspose_cells-for-nodejs-java.svg" pfName="Aspose.Cells" subTitlepfName="for Node.js via Java" downloadUrl="https://downloads.aspose.com/cells/nodejs" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="Node.js via Java Excel 파일 형식 API" h2="Node.js를 사용하여 Excel 스프레드시트를 생성, 수정, 변환 및 렌더링합니다(Excel 필요 없음)(Microsoft)." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/headers/aspose_cells-for-nodejs-java.svg" pfName="Aspose.Cells" subTitlepfName="for Node.js via Java" downloadUrl="https://downloads.aspose.com/cells/nodejs" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells" subTitlepfName="for Node.js via Java" >}}
 
@@ -12,7 +12,7 @@ description: Node.js 라이브러리를 통해 Excel 파일 형식을 처리합�
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
-Aspose.Cells for Node.js via Java은 Node.js를 사용하여 Excel 스프레드시트를 처리하는 기능이 풍부하고 확장 가능한 API입니다. API은 Excel 파일 형식 변환, 가장 세부적인 수준의 워크시트 스타일 지정, 차트 생성 및 분석 기능을 제공합니다. 렌더링, 신뢰할 수 있는 수식 계산 엔진 등이 있습니다.
+ Aspose.Cells for Node.js via Java은 Node.js를 사용하여 Excel 스프레드시트를 처리하는 기능이 풍부하고 확장 가능한 API입니다. via Java API은 Excel 파일 형식 변환, 세부적인 수준의 워크시트 스타일 지정, 차트 생성 및 렌더링, 안정적인 수식 계산 엔진 등을 제공합니다.
 </p>
 
 <p>
@@ -271,7 +271,7 @@ Aspose.Cells for Node.js via Java은 Node.js를 사용하여 Excel 스프레드�
  <div class="row">
   <div class="container">
    <h2 class="pr-ft">
- 고급 Node.js Excel 스프레드시트 API 기능
+ 고급 Node.js via Java Excel 스프레드시트 API 기능
    </h2>
    <p>
    </p>
@@ -343,7 +343,7 @@ Aspose.Cells for Node.js via Java은 Node.js를 사용하여 Excel 스프레드�
  Excel 스프레드시트 렌더링
     </h2>
     <p>
-Aspose.Cells for Node.js via Java은 렌더링 엔진을 사용하여 가장 충실도가 높은 Microsoft Excel로 렌더링합니다. Node.js Excel 처리 라이브러리를 사용하는 동안 전체 시트, 개별 파일 또는 차트를 여러 이미지 및 고정 레이아웃 형식으로 변환할 수 있습니다.
+ Aspose.Cells for Node.js via Java은 자체 렌더링 엔진을 사용하여 최고 수준의 품질로 Microsoft Excel에 렌더링합니다. Node.js via Java Excel 처리 라이브러리를 사용하면 전체 시트, 개별 파일 또는 차트를 여러 이미지 및 고정 레이아웃 형식으로 변환할 수 있습니다.
     </p>
    </div>
    <div class="col-lg-12">
@@ -415,7 +415,7 @@ Aspose.Cells for Node.js via Java은 차트 작성을 완벽하게 지원합니�
 
 {{< /blocks/products/pf/i18n/support-learning-resources >}}
 
-{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://downloads.aspose.com/cells/nodejs" pricingInformationLink="https://purchase.aspose.com/pricing/cells/nodejs-java" >}}
+{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://releases.aspose.com/cells/nodejs/" pricingInformationLink="https://purchase.aspose.com/pricing/cells/nodejs-java" >}}
 
 {{< blocks/products/pf/offers-section pfName="Aspose.Cells" description="Aspose.Cells은 아래 나열된 다른 인기 있는 개발 환경을 위한 개별 Excel API를 제공합니다." >}}
 

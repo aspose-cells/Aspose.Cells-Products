@@ -1,7 +1,7 @@
 ---
 title: Maak XLT aan - Maak XLT-bestand aan in C++
-description: Aspose Excel. C++ Maak XLT snel en eenvoudig een bestand met Aspose.Cells. Genereer een XLT-bestand met C++. Maak XLT aan in C++. C++ XLT Creater.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ Create XLT file., Generate XLT file in C++., Create XLT file using C++., Write data to XLT file via C++., Create a XLT file in C++., C++ Generate a XLT file., C++ XLT Creater]
+description: Aspose Excel. Genereer en bewerk moeiteloos XLT-bestanden met de Aspose.Cells for C++-bibliotheek. Deze krachtige API biedt een gestroomlijnde en efficiënte oplossing voor het maken, bewerken en beheren van XLT-bestanden rechtstreeks binnen uw C++-toepassingen, waarmee met hoge precisie aan specifieke ontwikkelaarsbehoeften wordt voldaan.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ Create XLT file., Generate XLT file in C++., Write data to XLT file via C++., C++ XLT Creater., Aspose.Cells for C++ is a powerful library that enables developers to programmatically create, generate, and manipulate XLT files in C++]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Maak XLT-bestand aan in C++" h2="Native en krachtige XLT-bestandscreatie programmatisch zonder Microsoft Office met behulp van de C++-bibliotheek." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLT" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -11,7 +11,7 @@ keywords: [Aspose Excel., C++ Aspose.Cells., C++ Create XLT file., Generate XLT 
 
 {{% blocks/products/pf/agp/content h2="Maak XLT-bestand aan met behulp van C++" %}}
 
- Hoe maak ik een XLT-bestand aan? Met de bibliotheek Aspose.Cells for C++ kunt u eenvoudig een XLT-bestand programmatisch maken met een paar regels code.[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) is in staat om platformonafhankelijke applicaties te bouwen met de mogelijkheid om alle Excel-bestanden te genereren, wijzigen, converteren, renderen en afdrukken. C++ Excel API converteert niet alleen tussen spreadsheetformaten, het kan ook Excel-bestanden weergeven als afbeeldingen, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT en meer, waardoor het een perfecte keuze is om documenten uit te wisselen in industriestandaardformaten. U kunt de nieuwste versie direct downloaden, gewoon openen[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) pakketbeheerder, zoek naar Aspose.Cells.Cpp en installeer. U kunt ook de volgende opdracht gebruiken vanuit de Package Manager Console.
+ Hoe maak ik een XLT-bestand aan? Met de bibliotheek Aspose.Cells for C++ kunt u eenvoudig een XLT-bestand programmatisch maken met een paar regels code.[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) is in staat om platformonafhankelijke applicaties te bouwen met de mogelijkheid om alle Excel-bestanden te genereren, wijzigen, converteren, renderen en afdrukken. C++ Excel API converteert niet alleen tussen spreadsheetformaten, het kan ook Excel-bestanden weergeven als afbeeldingen, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT en meer, waardoor het een perfecte keuze is om documenten uit te wisselen in industriestandaardformaten. U kunt de nieuwste versie direct downloaden, gewoon openen[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/)pakketbeheerder, zoek naar Aspose.Cells.Cpp en installeer. U kunt ook de volgende opdracht gebruiken vanuit de Package Manager Console.
 
 {{% blocks/products/pf/agp/code-block title="Commando" offSpacer="true" %}}
 
@@ -37,14 +37,15 @@ PM> Install-Package Aspose.Cells.Cpp
 1.  Maak een object van de klasse Workbook.
 1.  Haal het eerste blad in een werkbladobject.
 1.  Gebruik de methode Worksheet.GetCells() om de cellen van het werkblad in een Cells-object te krijgen.
-1. Gebruik de methode Cells.Get() om toegang te krijgen tot de gewenste cel van het werkblad in een Cell-object.
+1.  Gebruik de methode Cells.Get() om toegang te krijgen tot de gewenste cel van het werkblad in een Cell-object.
 1.  Gebruik de methode Cell.PutValue() om waarde in de cel in te voeren.
-1.  Sla de werkmap op als .xlt-bestand met behulp van de Save()-methode.
+1.  Sla het werkblad op als een .xlt-bestand met behulp van de Save()-methode.
 
 {{% blocks/products/pf/agp/code-block title="Voorbeeldcode laat zien hoe u het bestand XLT maakt in C++." offSpacer="" %}}
 
 ```cs
 Aspose::Cells::Startup();
+//TIFF format is not supported
 
 // Create an object of the Workbook class.
 Workbook wkb;
@@ -114,7 +115,7 @@ Er zijn drie opties om "Aspose.Cells for C++" op uw systeem te installeren. Kies
     {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="Andere ondersteunde werkbladen genereren" subTitle="U kunt ook andere Microsoft Excel-bestanden maken, waaronder enkele hieronder vermeld." >}}
+{{< blocks/products/pf/agp/other-supported-section title="Andere ondersteunde werkbladen genereren" subTitle="U kunt ook andere Excel-bestanden Microsoft maken, waaronder enkele hieronder vermeld." >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/create/xls/" name="XLS" description="Microsoft Excel-spreadsheet (verouderd)" >}} 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/create/xlsx/" name="XLSX" description="Open XML-werkmap" >}} 

@@ -1,7 +1,7 @@
 ---
 title: Python XLTM naar TABDELLIMITED - XLTM naar TABDELLIMITED Converter
-description: Aspose Excel. Python Excel. Converteer XLTM snel en eenvoudig naar TABDELLIMITED met Aspose.Cells. Python XLTM naar TABDELLIMITED. Python Bewaar XLTM in TABDELIMITED. Sla XLTM op als TABDELIMITED met behulp van de Excel-bibliotheek Python.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert XLTM to TABDELIMITED in Python Excel Library., Save XLTM to TABDELIMITED using Python Excel Library., Python XLTM to TABDELIMITED saveformat., XLTM to TABDELIMITED Converter., Python Save XLTM as TABDELIMITED]
+description: Aspose Excel. Deze uitgebreide oplossing biedt ontwikkelaars een volledig geïntegreerde aanpak om gegevens in het TABDELIMITED-formaat te converteren, waardoor het naadloos opslaan van gegevens in het TABDELIMITED-formaat mogelijk is met behulp van de bibliotheek, en dat alles via efficiënte en aanpasbare code.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart XLTM files to TABDELIMITED Converter for Python., Convert XLTM to TABDELIMITED in Python., XLTM files to TABDELIMITED Conversion in Python., Leverage intelligent data processing to automatically parse and save XLTM into TABDELIMITED format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Converteer XLTM naar TABDELIMITED in de Excel-bibliotheek Python" h2="Snelle Python Excel-bibliotheek voor het converteren van XLTM naar TABDELLIMITED. Gebruik onze Excel-conversie API om hoogwaardige, platformonafhankelijke software te ontwikkelen in Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="TABDELIMITED" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -28,7 +28,7 @@ Volg de eenvoudige stappen om XLTM naar TABDELLIMITED te converteren. Upload uw 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Voorbeeldcode om XLTM naar TABDELLIMITED te converteren via de Excel-bibliotheek Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xltm" outformat="tsv" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Voorbeeldcode om XLTM naar TABDELLIMITED te converteren via de Excel-bibliotheek Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="xltm" outformat="tsv" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="Hoe XLTM naar TABDELLIMITED te converteren" %}}
 

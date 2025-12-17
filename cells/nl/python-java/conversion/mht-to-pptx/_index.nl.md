@@ -1,7 +1,7 @@
 ---
 title: Python MHT naar PPTX - MHT naar PPTX Converter
-description: Aspose Excel. Python Excel. Converteer MHT snel en eenvoudig naar PPTX met Aspose.Cells. Python MHT naar PPTX. Python Sla MHT op naar PPTX. Sla MHT op als PPTX met behulp van de Excel-bibliotheek Python.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert MHT to PPTX in Python Excel Library., Save MHT to PPTX using Python Excel Library., Python MHT to PPTX saveformat., MHT to PPTX Converter., Python Save MHT as PPTX]
+description: Aspose Excel. Deze complete oplossing biedt ontwikkelaars een volledig geïntegreerde aanpak voor het converteren van MHT naar het PPTX-formaat, waardoor het naadloos opslaan van MHT-gegevens in het PPTX-formaat mogelijk is met behulp van de Aspose.Cells-bibliotheek, allemaal via efficiënte en aanpasbare Python-code.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart MHT files to PPTX Converter for Python., Convert MHT to PPTX in Python., MHT files to PPTX Conversion in Python., Leverage intelligent data processing to automatically parse and save MHT into PPTX format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Converteer MHT naar PPTX in de Excel-bibliotheek Python" h2="Snelle Python Excel-bibliotheek voor het converteren van MHT naar PPTX. Dit is een professionele softwareoplossing voor het importeren en exporteren van MHT, PPTX en vele andere formaten met behulp van Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="PPTX" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -27,7 +27,7 @@ Volg de eenvoudige stappen om MHT naar PPTX te converteren. Upload uw MHT-bestan
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Voorbeeldcode om MHT naar PPTX te converteren via de Excel-bibliotheek Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="mht" outformat="pptx" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="Voorbeeldcode om MHT naar PPTX te converteren via de Excel-bibliotheek Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="mht" outformat="pptx" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="MHT converteren naar PPTX via Python" %}}
 

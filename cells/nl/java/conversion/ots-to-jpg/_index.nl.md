@@ -1,7 +1,7 @@
 ---
 title: Java OTS naar JPG - OTS naar JPG-converter
-description: Aspose Excel. Converteer OTS snel en eenvoudig naar JPG met Aspose.Cells. Java OTS naar JPG. Java OTS opslaan in JPG. Sla OTS op als JPG met Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Convert OTS to JPG in Java., Save OTS to JPG using Java., Java OTS to JPG saveformat., OTS to JPG Converter., Java Save OTS as JPG]
+description: Aspose Excel. Deze complete oplossing biedt ontwikkelaars een volledig geïntegreerde aanpak voor het converteren van OTS-bestanden naar JPG-formaat, waardoor het naadloos opslaan van OTS-gegevens in JPG-formaat mogelijk is met behulp van de bibliotheek, alles via efficiënte en aanpasbare code.
+keywords: [Aspose Excel., Java Aspose.Cells., Smart OTS files to JPG Converter for Java., Convert OTS to JPG in Java., OTS files to JPG Conversion in Java., Leverage intelligent data processing to automatically parse and save OTS into JPG format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Converteer OTS naar JPG in Java" h2="Snelle Java-bibliotheek voor het converteren van OTS naar JPG. Dit is een professionele softwareoplossing voor het importeren en exporteren van OTS, JPG en vele andere formaten met behulp van Java." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="JPG" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="CSV" >}}
@@ -45,9 +45,9 @@ keywords: [Aspose Excel., Java Aspose.Cells., Convert OTS to JPG in Java., Save 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Sla OTS op in JPG in Java" %}}
+{{% blocks/products/pf/agp/content h2="Sla OTS op als JPG in Java" %}}
 
-Het volgende voorbeeld laat zien hoe u OTS naar JPG converteert in Java.
+Het volgende voorbeeld laat zien hoe je OTS naar JPG converteert in Java.
 {{% blocks/products/pf/agp/text %}}
 
 Volg de eenvoudige stappen om OTS naar JPG te converteren. Upload uw OTS-bestand en sla het vervolgens eenvoudig op als JPG-bestand. Voor zowel OTS-lezen als JPG-schrijven kunt u volledig gekwalificeerde bestandsnamen gebruiken. De uitgevoerde JPG-inhoud en opmaak zullen identiek zijn aan het originele OTS-document.
@@ -56,25 +56,25 @@ Volg de eenvoudige stappen om OTS naar JPG te converteren. Upload uw OTS-bestand
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Voorbeeldcode om OTS naar JPG te converteren" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="ots" outformat="jpg" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Voorbeeldcode om een OTS-bestand naar een JPG-bestand te converteren." formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="ots" outformat="jpg" IsLandingPage="true" language="java" %}}
 
-{{% blocks/products/pf/agp/content h2="Hoe OTS naar JPG via Java te converteren" %}}
+{{% blocks/products/pf/agp/content h2="Hoe converteer je een OTS-bestand naar een JPG-bestand? via Java" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
-Wilt u OTS-bestanden programmatisch naar JPG converteren? Java-ontwikkelaars kunnen OTS eenvoudig in slechts een paar regels code naar JPG converteren.
+Moet je OTS-bestanden programmatisch naar JPG converteren? Ontwikkelaars van Java kunnen OTS-bestanden eenvoudig naar JPG converteren met slechts een paar regels code.
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Installeer 'Aspose.Cells for Java'.
 1.  Voeg een bibliotheekreferentie toe (importeer de bibliotheek) aan uw Java-project.
-1.  Laad het OTS-bestand met een exemplaar van de Workbook-klasse.
+1.  Laad een OTS-bestand met een instantie van de Workbook-klasse.
 1.  Converteer OTS naar JPG door de Workbook.save-methode aan te roepen.
 1.  Verkrijg het conversieresultaat van OTS naar JPG.
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Java bibliotheek om OTS naar JPG te converteren" %}}
+{{% blocks/products/pf/agp/content h2="Bibliotheek Java voor het converteren van OTS naar JPG" %}}
 {{% blocks/products/pf/agp/text %}}
 
  We hosten onze Java-pakketten in[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) opslagplaatsen. 'Aspose.Cells for Java' is een veelgebruikt JAR-bestand met bytecode. Volg alstublieft de[stapsgewijze instructies](https://docs.aspose.com/cells/java/installation/) over hoe u het installeert in uw Java-ontwikkelaarsomgeving.

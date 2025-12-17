@@ -1,7 +1,7 @@
 ---
 title: Python HTM naar OTS - HTM naar OTS-converter
-description: Aspose Excel. Python Excel. Converteer HTM snel en eenvoudig naar OTS met Aspose.Cells. Python HTM naar OTS. Python HTM opslaan in OTS. Sla HTM op als OTS met behulp van de Excel-bibliotheek Python.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert HTM to OTS in Python Excel Library., Save HTM to OTS using Python Excel Library., Python HTM to OTS saveformat., HTM to OTS Converter., Python Save HTM as OTS]
+description: Aspose Excel. Deze complete oplossing biedt ontwikkelaars een volledig geïntegreerde aanpak voor het converteren van HTM naar OTS-formaat, waardoor het naadloos opslaan van HTM-gegevens in OTS-formaat mogelijk is met behulp van de bibliotheek, alles via efficiënte en aanpasbare code.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart HTM files to OTS Converter for Python., Convert HTM to OTS in Python., HTM files to OTS Conversion in Python., Leverage intelligent data processing to automatically parse and save HTM into OTS format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Converteer HTM naar OTS in Python Excel-bibliotheek" h2="Snelle Python Excel-bibliotheek voor het converteren van HTM naar OTS. Dit is een professionele softwareoplossing voor het importeren en exporteren van HTM, OTS en vele andere formaten met behulp van Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="OTS" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -27,7 +27,7 @@ Volg de eenvoudige stappen om HTM naar OTS te converteren. Upload uw HTM-bestand
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Voorbeeldcode om HTM naar OTS te converteren via de Excel-bibliotheek Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="htm" outformat="ots" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="Voorbeeldcode om HTM naar OTS te converteren via de Excel-bibliotheek Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="htm" outformat="ots" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="Hoe u HTM naar OTS kunt converteren via Python" %}}
 

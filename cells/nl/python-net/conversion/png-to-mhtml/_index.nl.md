@@ -1,7 +1,7 @@
 ---
 title: Python PNG tot MHTML - PNG tot MHTML Converter
-description: Aspose Excel. Python Excel. Converteer PNG snel en eenvoudig naar MHTML met Aspose.Cells. Python PNG naar MHTML. Python Bewaar PNG naar MHTML. Bewaar PNG als 076112 3481 met behulp van de Excel-bibliotheek Python.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert PNG to MHTML in Python Excel Library., Save PNG to MHTML using Python Excel Library., Python PNG to MHTML saveformat., PNG to MHTML Converter., Python Save PNG as MHTML]
+description: Aspose Excel. Deze uitgebreide oplossing biedt ontwikkelaars een volledig geïntegreerde aanpak voor het converteren van gegevens van het formaat PNG naar MHTML, waardoor naadloos opslaan van gegevens in het formaat PNG mogelijk is met behulp van de bibliotheek Aspose.Cells, allemaal via efficiënte en aanpasbare code Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart PNG files to MHTML Converter for Python., Convert PNG to MHTML in Python., PNG files to MHTML Conversion in Python., Leverage intelligent data processing to automatically parse and save PNG into MHTML format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Converteer PNG naar MHTML in de Excel-bibliotheek Python" h2="Snelle Python Excel-bibliotheek voor het converteren van PNG naar MHTML. Gebruik onze Excel-conversie API om platformonafhankelijke software op hoog niveau te ontwikkelen in Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="MHTML" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -28,7 +28,7 @@ Volg de eenvoudige stappen om PNG naar MHTML te converteren. Upload uw PNG-besta
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Voorbeeldcode om PNG naar MHTML te converteren via de Excel-bibliotheek Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="png" outformat="mhtml" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Voorbeeldcode om PNG naar MHTML te converteren via de Excel-bibliotheek Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="png" outformat="mhtml" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="Hoe PNG naar MHTML te converteren" %}}
 

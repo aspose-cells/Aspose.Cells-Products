@@ -1,7 +1,7 @@
 ---
 title: Java XML naar BMP - XML naar BMP Converter
-description: Aspose Excel. Converteer XML snel en eenvoudig naar BMP met Aspose.Cells. Java XML naar BMP. Java Sla XML op naar BMP. Sla XML op als BMP met Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Convert XML to BMP in Java., Save XML to BMP using Java., Java XML to BMP saveformat., XML to BMP Converter., Java Save XML as BMP]
+description: Aspose Excel. Deze uitgebreide oplossing biedt Java ontwikkelaars een volledig geïntegreerde aanpak voor het converteren van XML naar BMP-formaat, waardoor XML-gegevens naadloos kunnen worden opgeslagen in BMP-formaat met behulp van de Aspose.Cells-bibliotheek, allemaal via efficiënte en aanpasbare Java-code.
+keywords: [Aspose Excel., Java Aspose.Cells., Smart XML files to BMP Converter for Java., Convert XML to BMP in Java., XML files to BMP Conversion in Java., Leverage intelligent data processing to automatically parse and save XML into BMP format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Converteer XML naar BMP in Java" h2="Snelle Java-bibliotheek voor het converteren van XML naar BMP. Dit is een professionele softwareoplossing voor het importeren en exporteren van XML, BMP en vele andere formaten met behulp van Java." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="BMP" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="CSV" >}}
@@ -47,7 +47,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Convert XML to BMP in Java., Save 
 
 {{% blocks/products/pf/agp/content h2="Sla XML op in BMP in Java" %}}
 
-Het volgende voorbeeld laat zien hoe u XML converteert naar BMP in Java.
+Het volgende voorbeeld laat zien hoe XML naar BMP in Java kan worden geconverteerd.
 {{% blocks/products/pf/agp/text %}}
 
 Volg de eenvoudige stappen om XML naar BMP te converteren. Upload uw XML-bestand en sla het vervolgens eenvoudig op als BMP-bestand. Voor zowel het lezen van XML als het schrijven van BMP kunt u volledig gekwalificeerde bestandsnamen gebruiken. De inhoud en opmaak van de uitvoer BMP zullen identiek zijn aan het originele XML-document.
@@ -56,25 +56,25 @@ Volg de eenvoudige stappen om XML naar BMP te converteren. Upload uw XML-bestand
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Voorbeeldcode om XML naar BMP te converteren" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xml" outformat="bmp" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Voorbeeldcode om XML naar BMP te converteren" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="xml" outformat="bmp" IsLandingPage="true" language="java" %}}
 
-{{% blocks/products/pf/agp/content h2="Hoe XML te converteren naar BMP via Java" %}}
+{{% blocks/products/pf/agp/content h2="Hoe converteer je XML naar BMP via Java?" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
-Wilt u XML-bestanden programmatisch naar BMP converteren? Java-ontwikkelaars kunnen eenvoudig XML naar BMP converteren in slechts een paar regels code.
+Moet u XML-bestanden programmatisch converteren naar BMP? Ontwikkelaars van Java kunnen XML eenvoudig converteren naar BMP met slechts een paar regels code.
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Installeer 'Aspose.Cells for Java'.
 1.  Voeg een bibliotheekreferentie toe (importeer de bibliotheek) aan uw Java-project.
-1.  Laad een XML-bestand met een exemplaar van de Workbook-klasse.
+1.  Laad een XML-bestand met een instantie van de Workbook-klasse.
 1.  Converteer XML naar BMP door de Workbook.save-methode aan te roepen.
 1.  Haal het conversieresultaat van XML op naar BMP.
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Java-bibliotheek om XML naar BMP te converteren" %}}
+{{% blocks/products/pf/agp/content h2="Java bibliotheek om XML naar BMP te converteren" %}}
 {{% blocks/products/pf/agp/text %}}
 
  We hosten onze Java-pakketten in[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) opslagplaatsen. 'Aspose.Cells for Java' is een veelgebruikt JAR-bestand met bytecode. Volg alstublieft de[stapsgewijze instructies](https://docs.aspose.com/cells/java/installation/) over hoe u het installeert in uw Java-ontwikkelaarsomgeving.

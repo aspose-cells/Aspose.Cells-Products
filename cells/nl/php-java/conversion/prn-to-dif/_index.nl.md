@@ -1,7 +1,7 @@
 ---
 title: PHP PRN naar DIF - PRN naar DIF Converter
-description: Aspose Excel. Converteer PRN snel en eenvoudig naar DIF met Aspose.Cells. PHP PRN naar DIF. PHP Bewaar PRN naar DIF. Bewaar PRN als DIF met behulp van PHP.
-keywords: [Aspose Excel., PHP Aspose.Cells., Convert PRN to DIF in PHP., Save PRN to DIF using PHP., PHP PRN to DIF saveformat., PRN to DIF Converter., PHP Save PRN as DIF]
+description: Aspose Excel. Deze complete oplossing biedt PHP-ontwikkelaars een volledig geïntegreerde aanpak voor het converteren van PRN-bestanden naar het DIF-formaat. Hierdoor kunnen PRN-gegevens naadloos worden opgeslagen in het DIF-formaat met behulp van de Aspose.Cells-bibliotheek, en dat alles via efficiënte en aanpasbare PHP-code.
+keywords: [Aspose Excel., PHP Aspose.Cells., Smart PRN files to DIF Converter for PHP., Convert PRN to DIF in PHP., PRN files to DIF Conversion in PHP., Leverage intelligent data processing to automatically parse and save PRN into DIF format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Converteer PRN naar DIF in PHP" h2="Snelle PHP-bibliotheek voor het converteren van PRN naar DIF. Dit is een professionele softwareoplossing voor het importeren en exporteren van PRN, DIF en vele andere formaten met behulp van PHP." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-php-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="DIF" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,13 +12,13 @@ keywords: [Aspose Excel., PHP Aspose.Cells., Convert PRN to DIF in PHP., Save PR
 
 {{% blocks/products/pf/agp/content h2="Converteer PRN naar DIF met behulp van PHP" %}}
 
- Hoe converteer ik PRN naar DIF? Met de bibliotheek Aspose.Cells for PHP via Java kunt u PRN eenvoudig programmatisch naar DIF converteren met een paar regels code.[Aspose.Cells for PHP via Java](https://products.aspose.com/cells/php-java/) is in staat om platformonafhankelijke applicaties te bouwen met de mogelijkheid om alle Excel-bestanden te genereren, wijzigen, converteren, renderen en afdrukken. PHP Excel API converteert niet alleen tussen spreadsheetformaten, het kan ook Excel-bestanden weergeven als afbeeldingen, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT en meer, waardoor het een perfecte keuze is om documenten uit te wisselen in industriestandaardformaten.
+ Hoe converteer ik PRN naar DIF? Met de bibliotheek Aspose.Cells for PHP via Java kunt u PRN eenvoudig programmatisch converteren naar DIF met slechts een paar regels code.[Aspose.Cells for PHP via Java](https://products.aspose.com/cells/php-java/) PHP Excel API is in staat om platformonafhankelijke applicaties te bouwen die alle Excel-bestanden kunnen genereren, bewerken, converteren, weergeven en afdrukken. Het kan niet alleen converteren tussen spreadsheetformaten, maar ook Excel-bestanden weergeven als afbeeldingen (PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT) en meer, waardoor het een perfecte keuze is voor het uitwisselen van documenten in industriestandaardformaten.
  
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Bewaar PRN naar DIF in PHP" %}}
+{{% blocks/products/pf/agp/content h2="Sla PRN op als DIF in PHP" %}}
 
-Het volgende voorbeeld laat zien hoe u PRN naar DIF in PHP converteert.
+Het volgende voorbeeld laat zien hoe je PRN naar DIF converteert in PHP.
 {{% blocks/products/pf/agp/text %}}
 
 Volg de eenvoudige stappen om PRN naar DIF te converteren. Upload uw PRN-bestand en sla het vervolgens eenvoudig op als DIF-bestand. Voor zowel PRN-lezen als DIF-schrijven kunt u volledig gekwalificeerde bestandsnamen gebruiken. De inhoud en opmaak van de uitvoer DIF zullen identiek zijn aan het originele PRN-document.
@@ -27,25 +27,25 @@ Volg de eenvoudige stappen om PRN naar DIF te converteren. Upload uw PRN-bestand
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Voorbeeldcode om PRN naar DIF te converteren" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="prn" outformat="dif" IsLandingPage="true" language="phpjava" %}}
+{{% cells-convert title="Voorbeeldcode om PRN om te zetten naar DIF" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="prn" outformat="dif" IsLandingPage="true" language="phpjava" %}}
 
-{{% blocks/products/pf/agp/content h2="Hoe PRN naar DIF te converteren via PHP" %}}
+{{% blocks/products/pf/agp/content h2="Hoe converteer je PRN naar DIF via PHP?" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
-Wilt u PRN-bestanden programmatisch naar DIF converteren? PHP-ontwikkelaars kunnen PRN eenvoudig in slechts een paar regels code laden en converteren naar DIF.
+Moet je PRN-bestanden programmatisch converteren naar DIF? PHP-ontwikkelaars kunnen PRN-bestanden eenvoudig laden en converteren naar DIF met slechts een paar regels code.
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Installeer 'Aspose.Cells for PHP via Java'.
-1.  Voeg een bibliotheekreferentie toe (importeer de bibliotheek) aan uw PHP-project.
+1.  Voeg een bibliotheekreferentie (importeer de bibliotheek) toe aan je PHP-project.
 1.  Laad het PRN-bestand met een exemplaar van Workbook.
-1.  Converteer PRN naar DIF door de opslagmethode van Workbook aan te roepen.
+1.  Converteer PRN naar DIF door de save-methode van Workbook aan te roepen.
 1.  Verkrijg het conversieresultaat van PRN naar DIF.
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="PHP-bibliotheek om PRN naar DIF te converteren" %}}
+{{% blocks/products/pf/agp/content h2="PHP-bibliotheek om PRN om te zetten naar DIF" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
@@ -63,7 +63,7 @@ Er zijn drie opties om "Aspose.Cells for PHP via Java" op uw systeem te installe
 
 {{% blocks/products/pf/agp/text %}}
 
-Aspose.Cells for PHP via Java is platformonafhankelijk API en kan worden gebruikt op elk platform (Windows, Linux, MacOS etc.) waarop PHP 7 of hogere versies zijn geïnstalleerd. De machine moet beschikken over versies van Oracle JDK 7 of hoger voordat u de installatie kunt instellen.
+ Aspose.Cells for PHP via Java is platformonafhankelijk en kan worden gebruikt op elk platform (Windows, Linux, MacOS, enz.) waarop PHP 7 of een latere versie is geïnstalleerd. De machine moet Oracle JDK 7 of een latere versie hebben voordat de installatie kan worden uitgevoerd.
  
 {{% /blocks/products/pf/agp/text %}}
 

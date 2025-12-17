@@ -1,7 +1,7 @@
 ---
 title: Java TSV tot BMP - TSV tot BMP Converter
-description: Aspose Excel. Converteer TSV snel en eenvoudig naar BMP met Aspose.Cells. Java TSV naar BMP. Java Bewaar TSV in BMP. Bewaar TSV als 07611134 81 via Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Convert TSV to BMP in Java., Save TSV to BMP using Java., Java TSV to BMP saveformat., TSV to BMP Converter., Java Save TSV as BMP]
+description: Aspose Excel. Deze uitgebreide oplossing biedt ontwikkelaars een volledig geïntegreerde aanpak voor het converteren van gegevens van het formaat TSV naar BMP, waardoor naadloos opslaan van gegevens in het formaat TSV mogelijk is met behulp van de bibliotheek Aspose.Cells, allemaal via efficiënte en aanpasbare code Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Smart TSV files to BMP Converter for Java., Convert TSV to BMP in Java., TSV files to BMP Conversion in Java., Leverage intelligent data processing to automatically parse and save TSV into BMP format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Converteer TSV naar BMP in Java" h2="Snelle Java-bibliotheek voor het converteren van TSV naar BMP. Dit is een professionele softwareoplossing voor het importeren en exporteren van TSV, BMP en vele andere formaten met behulp van Java." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="BMP" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Convert TSV to BMP in Java., Save 
 
 {{% blocks/products/pf/agp/content h2="Converteer TSV naar BMP met behulp van Java" %}}
 
-Hoe converteer ik TSV naar BMP? Met de bibliotheek Aspose.Cells for Java kunt u TSV eenvoudig programmatisch naar BMP converteren met een paar regels code.[Aspose.Cells for Java](https://products.aspose.com/cells/java)is in staat om platformonafhankelijke applicaties te bouwen met de mogelijkheid om alle Excel-bestanden te genereren, wijzigen, converteren, renderen en afdrukken. Java Excel API converteert niet alleen tussen spreadsheetformaten, het kan ook Excel-bestanden weergeven als afbeeldingen, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT en meer, waardoor het een perfecte keuze is om documenten uit te wisselen in industriestandaardformaten. U kunt de nieuwste versie rechtstreeks downloaden van[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) en installeer het binnen uw op Maven gebaseerde project door de volgende configuraties toe te voegen aan pom.xml.
+ Hoe converteer ik TSV naar BMP? Met de bibliotheek Aspose.Cells for Java kunt u TSV eenvoudig programmatisch naar BMP converteren met een paar regels code.[Aspose.Cells for Java](https://products.aspose.com/cells/java)is in staat om platformonafhankelijke applicaties te bouwen met de mogelijkheid om alle Excel-bestanden te genereren, wijzigen, converteren, renderen en afdrukken. Java Excel API converteert niet alleen tussen spreadsheetformaten, het kan ook Excel-bestanden weergeven als afbeeldingen, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT en meer, waardoor het een perfecte keuze is om documenten uit te wisselen in industriestandaardformaten. U kunt de nieuwste versie rechtstreeks downloaden van[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) en installeer het binnen uw op Maven gebaseerde project door de volgende configuraties toe te voegen aan pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Opslagplaats" offSpacer="true" %}}
 
@@ -45,9 +45,9 @@ Hoe converteer ik TSV naar BMP? Met de bibliotheek Aspose.Cells for Java kunt u 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Bewaar TSV t/m BMP in Java" %}}
+{{% blocks/products/pf/agp/content h2="Sla TSV op in BMP in Java" %}}
 
-Het volgende voorbeeld laat zien hoe u TSV converteert naar BMP in Java.
+Het volgende voorbeeld laat zien hoe je TSV omzet naar BMP in Java.
 {{% blocks/products/pf/agp/text %}}
 
 Volg de eenvoudige stappen om TSV naar BMP te converteren. Upload uw TSV-bestand en sla het vervolgens eenvoudig op als BMP-bestand. Voor zowel TSV lezen als BMP schrijven kunt u volledig gekwalificeerde bestandsnamen gebruiken. De inhoud en opmaak van de uitvoer BMP zullen identiek zijn aan het originele document TSV.
@@ -56,19 +56,19 @@ Volg de eenvoudige stappen om TSV naar BMP te converteren. Upload uw TSV-bestand
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Voorbeeldcode om TSV naar BMP te converteren" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="tsv" outformat="bmp" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Voorbeeldcode om TSV naar BMP te converteren" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="tsv" outformat="bmp" IsLandingPage="true" language="java" %}}
 
-{{% blocks/products/pf/agp/content h2="Hoe TSV naar BMP via Java te converteren" %}}
+{{% blocks/products/pf/agp/content h2="Hoe zet ik TSV om naar BMP of via Java?" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
-Wilt u TSV-bestanden programmatisch naar BMP converteren? Java-ontwikkelaars kunnen TSV eenvoudig in slechts een paar regels code naar BMP converteren.
+Moet je bestanden met de extensie TSV programmatisch converteren naar BMP? Ontwikkelaars van Java kunnen bestanden met de extensie TSV eenvoudig converteren naar BMP met slechts een paar regels code.
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Installeer 'Aspose.Cells for Java'.
 1.  Voeg een bibliotheekreferentie toe (importeer de bibliotheek) aan uw Java-project.
-1. Laad bestand TSV met een exemplaar van de klasse Workbook.
+1.  Laad bestand TSV met een instantie van de klasse Workbook.
 1.  Converteer TSV naar BMP door de Workbook.save-methode aan te roepen.
 1.  Verkrijg het conversieresultaat van TSV naar BMP.
 

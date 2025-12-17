@@ -1,7 +1,7 @@
 ---
 title: Python ODS から XLSB - ODS から XLSB へのコンバータ
-description: Aspose Excel。Python Excel。Aspose.Cells を使用して、ODS を XLSB にすばやく簡単に変換します。Python ODS を XLSB に変換します。Python ODS を XLSB に保存します。Python Excel ライブラリを使用して、ODS を XLSB として保存します。
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert ODS to XLSB in Python Excel Library., Save ODS to XLSB using Python Excel Library., Python ODS to XLSB saveformat., ODS to XLSB Converter., Python Save ODS as XLSB]
+description: Aspose Excel。この包括的なソリューションは、Python開発者に、ODSをXLSB形式に変換するための完全に統合されたアプローチを提供し、Aspose.Cellsライブラリを使用してODSデータをXLSB形式にシームレスに保存することを可能にします。これらはすべて、効率的でカスタマイズ可能なPythonコードを通じて行われます。
+keywords: [Aspose Excel., Python Aspose.Cells., Smart ODS files to XLSB Converter for Python., Convert ODS to XLSB in Python., ODS files to XLSB Conversion in Python., Leverage intelligent data processing to automatically parse and save ODS into XLSB format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Python Excel ライブラリで ODS を XLSB に変換する" h2="ODS を XLSB に変換するための高速 Python Excel ライブラリ。Excel 変換 API を使用して、Python で高レベルのプラットフォームに依存しないソフトウェアを開発します。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSB" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -28,7 +28,7 @@ ODS を XLSB に変換するには、簡単な手順に従ってください。O
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Python Excel ライブラリを使用して ODS を XLSB に変換するサンプル コード" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="ods" outformat="xlsb" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Python Excel ライブラリを使用して ODS を XLSB に変換するサンプル コード" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="ods" outformat="xlsb" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="ODS を XLSB に変換する方法" %}}
 

@@ -1,7 +1,7 @@
 ---
 title: Java PRN a XLTM - PRN a XLTM Convertitore
-description: Aspose Excel. Converti il PRN in XLTM in modo rapido e semplice con Aspose.Cells. Java PRN in XLTM. Java Salva PRN in XLTM. Salva PRN come XLTM utilizzando Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Convert PRN to XLTM in Java., Save PRN to XLTM using Java., Java PRN to XLTM saveformat., PRN to XLTM Converter., Java Save PRN as XLTM]
+description: Aspose Excel. Questa soluzione completa fornisce agli sviluppatori Java un approccio completamente integrato per convertire i dati PRN nel formato XLTM, consentendo il salvataggio senza interruzioni dei dati PRN nel formato XLTM utilizzando la libreria Aspose.Cells, il tutto tramite codice Java efficiente e personalizzabile.
+keywords: [Aspose Excel., Java Aspose.Cells., Smart PRN files to XLTM Converter for Java., Convert PRN to XLTM in Java., PRN files to XLTM Conversion in Java., Leverage intelligent data processing to automatically parse and save PRN into XLTM format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Converti PRN in XLTM in Java" h2="Libreria Java ad alta velocità per convertire PRN in XLTM. Si tratta di una soluzione software professionale per importare ed esportare PRN, XLTM e molti altri formati utilizzando Java." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLTM" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="CSV" >}}
@@ -45,9 +45,9 @@ keywords: [Aspose Excel., Java Aspose.Cells., Convert PRN to XLTM in Java., Save
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Salva il PRN allo XLTM in Java" %}}
+{{% blocks/products/pf/agp/content h2="Salva PRN su XLTM in Java" %}}
 
-L'esempio seguente mostra come convertire il PRN in XLTM in Java.
+L'esempio seguente mostra come convertire PRN in XLTM in Java.
 {{% blocks/products/pf/agp/text %}}
 
 Segui i semplici passaggi per convertire il PRN in XLTM. Carica il tuo file PRN, quindi salvalo semplicemente come file XLTM. Sia per la lettura del PRN che per la scrittura XLTM è possibile utilizzare nomi di file completi. Il contenuto e la formattazione dell'output XLTM saranno identici al documento PRN originale.
@@ -56,17 +56,17 @@ Segui i semplici passaggi per convertire il PRN in XLTM. Carica il tuo file PRN,
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Codice di esempio per convertire il PRN in XLTM" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="prn" outformat="xltm" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Codice di esempio per convertire PRN in XLTM" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="prn" outformat="xltm" IsLandingPage="true" language="java" %}}
 
-{{% blocks/products/pf/agp/content h2="Come convertire il PRN in XLTM via Java" %}}
+{{% blocks/products/pf/agp/content h2="Come convertire PRN in XLTM via Java" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
-È necessario convertire i file PRN in XLTM a livello di codice? Gli sviluppatori di Java possono convertire facilmente il PRN in XLTM in poche righe di codice.
+Hai bisogno di convertire i file PRN in XLTM tramite codice? Gli sviluppatori che usano Java possono facilmente convertire i file PRN in XLTM in poche righe di codice.
 
 {{% /blocks/products/pf/agp/text %}}
 
-1.  Installa 'Aspose.Cells for Java'.
+1.  Installare 'Aspose.Cells for Java'.
 1.  Aggiungi un riferimento di libreria (importa la libreria) al tuo progetto Java.
 1.  Carica il file PRN con un'istanza della classe Workbook.
 1.  Converti PRN in XLTM chiamando il metodo Workbook.save.
@@ -74,7 +74,7 @@ Segui i semplici passaggi per convertire il PRN in XLTM. Carica il tuo file PRN,
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Libreria Java per convertire il PRN in XLTM" %}}
+{{% blocks/products/pf/agp/content h2="Libreria Java per convertire PRN in XLTM" %}}
 {{% blocks/products/pf/agp/text %}}
 
  Ospitiamo i nostri pacchetti Java in[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) repository. 'Aspose.Cells for Java' è un file JAR comune contenente codice byte. Si prega di seguire il[istruzioni passo passo](https://docs.aspose.com/cells/java/installation/) su come installarlo nel tuo ambiente di sviluppo Java.
@@ -98,7 +98,7 @@ Segui i semplici passaggi per convertire il PRN in XLTM. Carica il tuo file PRN,
 <!-- aboutfile Starts -->
     {{< blocks/products/pf/agp/about-file-section >}}
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="PRN" readMoreLink="https://fileinfo.com/extension/prn/" >}}Un file PRN è un file creato utilizzando la casella di controllo Stampa su file visualizzata in alcune finestre di dialogo Stampa su Windows. Contiene una serie di istruzioni specifiche del dispositivo che una stampante, un fax o un altro dispositivo utilizza per stampare un documento. I file PRN possono contenere testo o contenuto binario, a seconda del dispositivo per cui è stato creato il file.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLTM" readMoreLink="https://docs.fileformat.com/spreadsheet/xltm/" >}}L'estensione file XLTM rappresenta i file generati da Microsoft Excel come file modello abilitati per le macro. I file XLTM sono simili a XLTX nella struttura, tranne per il fatto che quest'ultimo non supporta la creazione di file modello con macro. Tali file modello vengono utilizzati per generare e impostare il layout, la formattazione e altre impostazioni insieme alle macro per facilitare la creazione di file XLSX simili.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLTM" readMoreLink="https://docs.fileformat.com/spreadsheet/xltm/" >}}L'estensione file XLTM rappresenta i file generati da Microsoft Excel come file modello abilitati per le macro. I file XLTM sono simili a XLTX nella struttura tranne che quest'ultimo non supporta la creazione di file modello con macro. Tali file modello vengono utilizzati per generare e impostare il layout, la formattazione e altre impostazioni insieme alle macro per facilitare la creazione di file XLSX simili.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
     {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->
 
@@ -107,7 +107,7 @@ Segui i semplici passaggi per convertire il PRN in XLTM. Carica il tuo file PRN,
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/prn-to-bmp/" name="PRN BMP" description="Immagine bitmap" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/prn-to-emf/" name="PRN EMF" description="Formato metafile avanzato" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/prn-to-gif/" name="PRN GIF" description="Formato di interscambio grafico" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/prn-to-html/" name="PRN HTML" description="Hyper Text Markup Language" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/prn-to-html/" name="PRN HTML" description="Linguaggio di markup ipertestuale" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/prn-to-md/" name="PRN A MD" description="Linguaggio di ribasso" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/prn-to-mhtml/" name="PRN MHTML" description="Formato di archivio delle pagine Web" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/prn-to-ods/" name="PRN ODS" description="File di foglio di calcolo OpenDocument" >}}

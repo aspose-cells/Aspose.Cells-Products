@@ -1,7 +1,7 @@
 ---
 title: Python JPEG naar OTS - JPEG naar OTS-converter
-description: Aspose Excel. Python Excel. Converteer JPEG snel en eenvoudig naar OTS met Aspose.Cells. Python JPEG naar OTS. Python Bewaar JPEG in OTS. Sla JPEG op als OTS met behulp van de Excel-bibliotheek Python.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert JPEG to OTS in Python Excel Library., Save JPEG to OTS using Python Excel Library., Python JPEG to OTS saveformat., JPEG to OTS Converter., Python Save JPEG as OTS]
+description: Aspose Excel. Deze complete oplossing biedt ontwikkelaars een volledig geïntegreerde aanpak voor het converteren van gegevens naar het OTS-formaat. Hierdoor kunnen gegevens naadloos worden opgeslagen in het OTS-formaat met behulp van de bibliotheek, en dit alles via efficiënte en aanpasbare code.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart JPEG files to OTS Converter for Python., Convert JPEG to OTS in Python., JPEG files to OTS Conversion in Python., Leverage intelligent data processing to automatically parse and save JPEG into OTS format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Converteer JPEG naar OTS in de Excel-bibliotheek Python" h2="Snelle Python Excel-bibliotheek voor het converteren van JPEG naar OTS. Dit is een professionele softwareoplossing voor het importeren en exporteren van JPEG, OTS en vele andere formaten met behulp van Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="OTS" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -27,7 +27,7 @@ Volg de eenvoudige stappen om JPEG naar OTS te converteren. Upload uw JPEG-besta
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Voorbeeldcode om JPEG naar OTS te converteren via de Excel-bibliotheek Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="jpg" outformat="ots" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="Voorbeeldcode om JPEG naar OTS te converteren via de Excel-bibliotheek Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="jpg" outformat="ots" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="Hoe JPEG naar OTS te converteren via Python" %}}
 

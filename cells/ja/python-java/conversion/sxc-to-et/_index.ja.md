@@ -1,7 +1,7 @@
 ---
 title: Python SXC から ET - SXC から ET への変換
-description: Aspose Excel。Python Excel。Aspose.Cells を使用して、SXC を ET にすばやく簡単に変換します。Python SXC を ET に変換します。Python SXC を ET に保存します。Python Excel ライブラリを使用して、SXC を ET として保存します。
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert SXC to ET in Python Excel Library., Save SXC to ET using Python Excel Library., Python SXC to ET saveformat., SXC to ET Converter., Python Save SXC as ET]
+description: Aspose Excel。この包括的なソリューションは、Python開発者に、SXCをET形式に変換するための完全に統合されたアプローチを提供し、Aspose.Cellsライブラリを使用してSXCデータをET形式にシームレスに保存することを可能にします。これらはすべて、効率的でカスタマイズ可能なPythonコードを通じて行われます。
+keywords: [Aspose Excel., Python Aspose.Cells., Smart SXC files to ET Converter for Python., Convert SXC to ET in Python., SXC files to ET Conversion in Python., Leverage intelligent data processing to automatically parse and save SXC into ET format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Python Excel ライブラリで SXC を ET に変換する" h2="SXC を ET に変換するための高速 Python Excel ライブラリ。これは、Python を使用して SXC、ET、およびその他の多くの形式をインポートおよびエクスポートするためのプロフェッショナル ソフトウェア ソリューションです。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="ET" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -27,7 +27,7 @@ SXC を ET に変換するには、簡単な手順に従ってください。SXC
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Python Excel ライブラリを使用して SXC を ET に変換するサンプル コード" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="sxc" outformat="et" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="Python Excel ライブラリを使用して SXC を ET に変換するサンプル コード" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="sxc" outformat="et" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="Python 経由で SXC を ET に変換する方法" %}}
 

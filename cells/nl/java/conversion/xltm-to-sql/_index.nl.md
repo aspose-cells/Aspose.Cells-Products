@@ -1,7 +1,7 @@
 ---
 title: Java XLTM naar SQL - XLTM naar SQL-converter
-description: Aspose Excel. Converteer XLTM snel en eenvoudig naar SQL met Aspose.Cells. Java XLTM naar SQL. Java Sla XLTM op in SQL. Sla XLTM op als SQL met behulp van Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Convert XLTM to SQL in Java., Save XLTM to SQL using Java., Java XLTM to SQL saveformat., XLTM to SQL Converter., Java Save XLTM as SQL]
+description: Aspose Excel. Deze uitgebreide oplossing biedt Java ontwikkelaars een volledig geïntegreerde aanpak om XLTM naar SQL-formaat te converteren, waardoor naadloos opslaan van XLTM gegevens in SQL-formaat mogelijk is met behulp van de Aspose.Cells bibliotheek, allemaal via efficiënte en aanpasbare Java code.
+keywords: [Aspose Excel., Java Aspose.Cells., Smart XLTM files to SQL Converter for Java., Convert XLTM to SQL in Java., XLTM files to SQL Conversion in Java., Leverage intelligent data processing to automatically parse and save XLTM into SQL format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Converteer XLTM naar SQL in Java" h2="Snelle Java-bibliotheek voor het converteren van XLTM naar SQL. Dit is een professionele softwareoplossing voor het importeren en exporteren van XLTM, SQL en vele andere formaten met behulp van Java." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="SQL" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="CSV" >}}
@@ -47,7 +47,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Convert XLTM to SQL in Java., Save
 
 {{% blocks/products/pf/agp/content h2="Sla XLTM op in SQL in Java" %}}
 
-In het volgende voorbeeld ziet u hoe u XLTM naar SQL converteert in Java.
+Het volgende voorbeeld laat zien hoe je XLTM naar SQL kunt converteren in Java.
 {{% blocks/products/pf/agp/text %}}
 
 Volg de eenvoudige stappen om XLTM naar SQL te converteren. Upload uw XLTM-bestand en sla het vervolgens eenvoudig op als SQL-bestand. Voor zowel XLTM-lezen als SQL-schrijven kunt u volledig gekwalificeerde bestandsnamen gebruiken. De uitvoer-SQL-inhoud en -opmaak zijn identiek aan het originele XLTM-document.
@@ -56,19 +56,19 @@ Volg de eenvoudige stappen om XLTM naar SQL te converteren. Upload uw XLTM-besta
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Voorbeeldcode om XLTM naar SQL te converteren" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xltm" outformat="sql" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Voorbeeldcode om XLTM naar SQL te converteren" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="xltm" outformat="sql" IsLandingPage="true" language="java" %}}
 
-{{% blocks/products/pf/agp/content h2="Hoe XLTM naar SQL via Java te converteren" %}}
+{{% blocks/products/pf/agp/content h2="Hoe converteer ik XLTM naar SQL via Java?" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
-Wilt u XLTM-bestanden programmatisch naar SQL converteren? Java-ontwikkelaars kunnen XLTM eenvoudig met slechts een paar regels code naar SQL converteren.
+Moet u bestanden met de extensie XLTM programmatisch naar SQL converteren? Ontwikkelaars van Java kunnen bestanden met de extensie XLTM eenvoudig in een paar regels code naar SQL converteren.
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Installeer 'Aspose.Cells for Java'.
 1.  Voeg een bibliotheekreferentie toe (importeer de bibliotheek) aan uw Java-project.
-1. Laad bestand XLTM met een exemplaar van de klasse Workbook.
+1.  Laad bestand XLTM met een instantie van de klasse Workbook.
 1.  Converteer XLTM naar SQL door de Workbook.save-methode aan te roepen.
 1.  Haal het conversieresultaat van XLTM naar SQL op.
 

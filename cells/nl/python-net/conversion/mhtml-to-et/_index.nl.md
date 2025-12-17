@@ -1,7 +1,7 @@
 ---
 title: Python MHTML naar ET - MHTML naar ET-converter
-description: Aspose Excel. Python Excel. Converteer MHTML snel en eenvoudig naar ET met Aspose.Cells. Python MHTML naar ET. Python Bewaar MHTML naar ET. Sla MHTML op als ET met behulp van de Excel-bibliotheek Python.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert MHTML to ET in Python Excel Library., Save MHTML to ET using Python Excel Library., Python MHTML to ET saveformat., MHTML to ET Converter., Python Save MHTML as ET]
+description: Aspose Excel. Deze complete oplossing biedt ontwikkelaars een volledig geïntegreerde aanpak voor het converteren van gegevens naar het ET-formaat. Hierdoor kunnen gegevens naadloos worden opgeslagen in het ET-formaat met behulp van de bibliotheek, en dit alles via efficiënte en aanpasbare code.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart MHTML files to ET Converter for Python., Convert MHTML to ET in Python., MHTML files to ET Conversion in Python., Leverage intelligent data processing to automatically parse and save MHTML into ET format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Converteer MHTML naar ET in de Excel-bibliotheek Python" h2="Snelle Python Excel-bibliotheek voor het converteren van MHTML naar ET. Gebruik onze Excel-conversie API om hoogwaardige, platformonafhankelijke software te ontwikkelen in Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="ET" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -28,7 +28,7 @@ Volg de eenvoudige stappen om MHTML naar ET te converteren. Upload uw MHTML-best
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Voorbeeldcode om MHTML naar ET te converteren via de Excel-bibliotheek Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="mhtml" outformat="et" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Voorbeeldcode om MHTML naar ET te converteren via de Excel-bibliotheek Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="mhtml" outformat="et" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="Hoe MHTML naar ET te converteren" %}}
 

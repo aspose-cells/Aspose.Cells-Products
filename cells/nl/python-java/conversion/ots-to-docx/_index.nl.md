@@ -1,7 +1,7 @@
 ---
 title: Python OTS naar DOCX - OTS naar DOCX Converter
-description: Aspose Excel. Python Excel. Converteer OTS snel en eenvoudig naar DOCX met Aspose.Cells. Python OTS naar DOCX. Python Bewaar OTS naar DOCX. Sla OTS op als DOCX met behulp van de Excel-bibliotheek Python.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert OTS to DOCX in Python Excel Library., Save OTS to DOCX using Python Excel Library., Python OTS to DOCX saveformat., OTS to DOCX Converter., Python Save OTS as DOCX]
+description: Aspose Excel. Deze complete oplossing biedt ontwikkelaars een volledig geïntegreerde aanpak voor het converteren van OTS-gegevens naar het DOCX-formaat. Hierdoor kunnen OTS-gegevens naadloos worden opgeslagen in het DOCX-formaat met behulp van de Aspose.Cells-bibliotheek, allemaal via efficiënte en aanpasbare Python-code.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart OTS files to DOCX Converter for Python., Convert OTS to DOCX in Python., OTS files to DOCX Conversion in Python., Leverage intelligent data processing to automatically parse and save OTS into DOCX format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Converteer OTS naar DOCX in de Excel-bibliotheek Python" h2="Snelle Python Excel-bibliotheek voor het converteren van OTS naar DOCX. Dit is een professionele softwareoplossing voor het importeren en exporteren van OTS, DOCX en vele andere formaten met behulp van Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="DOCX" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -27,7 +27,7 @@ Volg de eenvoudige stappen om OTS naar DOCX te converteren. Upload uw OTS-bestan
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Voorbeeldcode om OTS naar DOCX te converteren via de Excel-bibliotheek Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="ots" outformat="docx" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="Voorbeeldcode om OTS naar DOCX te converteren via de Excel-bibliotheek Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="ots" outformat="docx" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="OTS converteren naar DOCX via Python" %}}
 

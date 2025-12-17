@@ -1,7 +1,7 @@
 ---
 title: Python ODS tot DIF - ODS tot DIF Converter
-description: Aspose Excel. Python Excel. Converteer ODS snel en eenvoudig naar DIF met Aspose.Cells. Python ODS naar DIF. Python Bewaar ODS naar DIF. Bewaar ODS als 076112 3481 met behulp van de Excel-bibliotheek Python.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert ODS to DIF in Python Excel Library., Save ODS to DIF using Python Excel Library., Python ODS to DIF saveformat., ODS to DIF Converter., Python Save ODS as DIF]
+description: Aspose Excel. Deze uitgebreide oplossing biedt ontwikkelaars een volledig geïntegreerde aanpak voor het converteren van gegevens van het formaat ODS naar DIF, waardoor naadloos opslaan van gegevens in het formaat ODS mogelijk is met behulp van de bibliotheek Aspose.Cells, allemaal via efficiënte en aanpasbare code Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart ODS files to DIF Converter for Python., Convert ODS to DIF in Python., ODS files to DIF Conversion in Python., Leverage intelligent data processing to automatically parse and save ODS into DIF format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Converteer ODS naar DIF in de Excel-bibliotheek Python" h2="Snelle Python Excel-bibliotheek voor het converteren van ODS naar DIF. Dit is een professionele softwareoplossing voor het importeren en exporteren van ODS, DIF en vele andere formaten met behulp van Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="DIF" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -27,7 +27,7 @@ Volg de eenvoudige stappen om ODS naar DIF te converteren. Upload uw ODS-bestand
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Voorbeeldcode om ODS naar DIF te converteren via de Excel-bibliotheek Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="ods" outformat="dif" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="Voorbeeldcode om ODS naar DIF te converteren via de Excel-bibliotheek Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="ods" outformat="dif" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="Hoe u ODS naar DIF kunt converteren via Python" %}}
 

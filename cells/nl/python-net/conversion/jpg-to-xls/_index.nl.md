@@ -1,7 +1,7 @@
 ---
 title: Python JPG naar XLS - JPG naar XLS Converter
-description: Aspose Excel. Python Excel. Converteer JPG snel en eenvoudig naar XLS met Aspose.Cells. Python JPG naar XLS. Python Sla JPG op naar XLS. Sla JPG op als XLS met behulp van de Excel-bibliotheek Python.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert JPG to XLS in Python Excel Library., Save JPG to XLS using Python Excel Library., Python JPG to XLS saveformat., JPG to XLS Converter., Python Save JPG as XLS]
+description: Aspose Excel. Deze uitgebreide oplossing biedt Python ontwikkelaars een volledig geïntegreerde aanpak voor het converteren van JPG naar XLS-formaat, waardoor naadloos opslaan van JPG-gegevens in XLS-formaat mogelijk is met behulp van de Aspose.Cells-bibliotheek, allemaal via efficiënte en aanpasbare Python-code.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart JPG files to XLS Converter for Python., Convert JPG to XLS in Python., JPG files to XLS Conversion in Python., Leverage intelligent data processing to automatically parse and save JPG into XLS format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Converteer JPG naar XLS in de Excel-bibliotheek Python" h2="Snelle Python Excel-bibliotheek voor het converteren van JPG naar XLS. Gebruik onze Excel-conversie API om platformonafhankelijke software op hoog niveau te ontwikkelen in Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLS" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -28,7 +28,7 @@ Volg de eenvoudige stappen om JPG naar XLS te converteren. Upload uw JPG-bestand
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Voorbeeldcode om JPG naar XLS te converteren via de Excel-bibliotheek Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="jpg" outformat="xls" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Voorbeeldcode om JPG naar XLS te converteren via de Excel-bibliotheek Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="jpg" outformat="xls" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="Hoe JPG naar XLS te converteren" %}}
 

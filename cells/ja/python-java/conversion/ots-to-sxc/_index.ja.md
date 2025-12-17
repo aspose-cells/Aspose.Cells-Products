@@ -1,7 +1,7 @@
 ---
 title: Python OTS から SXC - OTS から SXC へのコンバーター
-description: Aspose Excel。Python Excel。Aspose.Cells を使用して、OTS を SXC にすばやく簡単に変換します。Python OTS を SXC に変換します。Python OTS を SXC に保存します。Python Excel ライブラリを使用して、OTS を SXC として保存します。
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert OTS to SXC in Python Excel Library., Save OTS to SXC using Python Excel Library., Python OTS to SXC saveformat., OTS to SXC Converter., Python Save OTS as SXC]
+description: Aspose Excel。この包括的なソリューションは、Python開発者にOTSをSXC形式に変換するための完全に統合されたアプローチを提供し、効率的でカスタマイズ可能なPythonコードを通じて、Aspose.Cellsライブラリを使用してOTSデータをSXC形式にシームレスに保存することを可能にします。
+keywords: [Aspose Excel., Python Aspose.Cells., Smart OTS files to SXC Converter for Python., Convert OTS to SXC in Python., OTS files to SXC Conversion in Python., Leverage intelligent data processing to automatically parse and save OTS into SXC format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Python Excel ライブラリで OTS を SXC に変換する" h2="OTS を SXC に変換するための高速 Python Excel ライブラリ。これは、OTS、SXC、および Python を使用する他の多くの形式をインポートおよびエクスポートするためのプロフェッショナル ソフトウェア ソリューションです。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="SXC" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -27,7 +27,7 @@ OTS を SXC に変換するには、簡単な手順に従ってください。OT
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Python Excel ライブラリを使用して OTS を SXC に変換するサンプル コード" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="ots" outformat="sxc" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="Python Excel ライブラリを使用して OTS を SXC に変換するサンプル コード" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="ots" outformat="sxc" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="Python 経由で OTS を SXC に変換する方法" %}}
 

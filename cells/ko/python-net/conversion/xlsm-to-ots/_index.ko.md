@@ -1,7 +1,7 @@
 ---
 title: Python XLSM 에서 OTS - XLSM 에서 OTS 변환기
-description: Aspose 엑셀. Python 엑셀. Aspose.Cells을 사용하여 XLSM을 OTS로 빠르고 쉽게 변환하세요. Python XLSM을 OTS로 변환하세요. Python XLSM을 OTS에 저장하세요. Python Excel 라이브러리를 사용하여 XLSM을 OTS로 저장합니다.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert XLSM to OTS in Python Excel Library., Save XLSM to OTS using Python Excel Library., Python XLSM to OTS saveformat., XLSM to OTS Converter., Python Save XLSM as OTS]
+description: Aspose Excel. 이 포괄적인 솔루션은 Python 개발자에게 XLSM을 OTS 형식으로 변환하는 완벽하게 통합된 접근 방식을 제공하여 Aspose.Cells 라이브러리를 사용하여 XLSM 데이터를 OTS 형식으로 원활하게 저장할 수 있도록 하며, 이 모든 작업은 효율적이고 사용자 정의 가능한 Python 코드를 통해 이루어집니다.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart XLSM files to OTS Converter for Python., Convert XLSM to OTS in Python., XLSM files to OTS Conversion in Python., Leverage intelligent data processing to automatically parse and save XLSM into OTS format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Python Excel 라이브러리에서 XLSM을 OTS로 변환" h2="XLSM을 OTS로 변환하기 위한 고속 Python 엑셀 라이브러리입니다. Python에서 높은 수준의 플랫폼 독립 소프트웨어를 개발하려면 Excel 변환 API을 사용하십시오." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="OTS" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -28,7 +28,7 @@ XLSM을 OTS로 변환하는 쉬운 단계를 따르세요. XLSM 파일을 업로
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Python Excel 라이브러리를 통해 XLSM을 OTS로 변환하는 샘플 코드" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsm" outformat="ots" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Python Excel 라이브러리를 통해 XLSM을 OTS로 변환하는 샘플 코드" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="xlsm" outformat="ots" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="XLSM을 OTS로 변환하는 방법" %}}
 
@@ -99,7 +99,7 @@ Aspose.Cells NET을 통한 for Python은 플랫폼 독립적인 API이며 모든
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlsm-to-xlt/" name="XLSM ~ XLT" description="Microsoft 엑셀 템플릿" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlsm-to-xltm/" name="XLSM ~ XLTM" description="Excel 매크로 지원 템플릿" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlsm-to-xltx/" name="XLSM ~ XLTX" description="Office OpenXML 엑셀 템플릿" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlsm-to-xml/" name="XLSM TO XML" description="확장 가능한 마크업 언어" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlsm-to-xml/" name="XLSM을 XML로" description="확장 가능한 마크업 언어" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlsm-to-xps/" name="XLSM ~ XPS" description="XML 용지 사양" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlsm-to-json/" name="XLSM ~ JSON" description="자바스크립트 객체 표기법" >}}
 

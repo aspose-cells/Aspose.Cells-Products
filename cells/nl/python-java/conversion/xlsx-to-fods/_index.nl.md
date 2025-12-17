@@ -1,7 +1,7 @@
 ---
 title: Python XLSX tot FODS - XLSX tot FODS Converter
-description: Aspose Excel. Python Excel. Converteer XLSX snel en eenvoudig naar FODS met Aspose.Cells. Python XLSX naar FODS. Python Bewaar XLSX naar FODS. Bewaar XLSX als 076112 3481 met behulp van de Excel-bibliotheek Python.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert XLSX to FODS in Python Excel Library., Save XLSX to FODS using Python Excel Library., Python XLSX to FODS saveformat., XLSX to FODS Converter., Python Save XLSX as FODS]
+description: Aspose Excel. Deze uitgebreide oplossing biedt ontwikkelaars een volledig geïntegreerde aanpak voor het converteren van gegevens van het formaat XLSX naar FODS, waardoor naadloos opslaan van gegevens in het formaat XLSX mogelijk is met behulp van de bibliotheek Aspose.Cells, allemaal via efficiënte en aanpasbare code Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart XLSX files to FODS Converter for Python., Convert XLSX to FODS in Python., XLSX files to FODS Conversion in Python., Leverage intelligent data processing to automatically parse and save XLSX into FODS format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Converteer XLSX naar FODS in de Excel-bibliotheek Python" h2="Snelle Python Excel-bibliotheek voor het converteren van XLSX naar FODS. Dit is een professionele softwareoplossing voor het importeren en exporteren van XLSX, FODS en vele andere formaten met behulp van Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="FODS" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -27,7 +27,7 @@ Volg de eenvoudige stappen om XLSX naar FODS te converteren. Upload uw XLSX-best
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Voorbeeldcode om XLSX naar FODS te converteren via de Excel-bibliotheek Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsx" outformat="fods" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="Voorbeeldcode om XLSX naar FODS te converteren via de Excel-bibliotheek Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="xlsx" outformat="fods" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="Hoe u XLSX naar FODS kunt converteren via Python" %}}
 

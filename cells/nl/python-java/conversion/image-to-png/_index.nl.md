@@ -1,7 +1,7 @@
 ---
 title: Python AFBEELDING naar PNG - AFBEELDING naar PNG Converter
-description: Aspose Excel. Python Excel. Converteer IMAGE snel en eenvoudig naar PNG met Aspose.Cells. Python IMAGE naar PNG. Python Sla IMAGE op in PNG. Sla IMAGE op als PNG met behulp van de Excel-bibliotheek Python.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert IMAGE to PNG in Python Excel Library., Save IMAGE to PNG using Python Excel Library., Python IMAGE to PNG saveformat., IMAGE to PNG Converter., Python Save IMAGE as PNG]
+description: Aspose Excel. Deze uitgebreide oplossing biedt Python ontwikkelaars een volledig geïntegreerde aanpak voor het converteren van IMAGE naar PNG-formaat, waardoor naadloos opslaan van IMAGE-gegevens in PNG-formaat mogelijk is met behulp van de Aspose.Cells-bibliotheek, allemaal via efficiënte en aanpasbare Python-code.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart IMAGE files to PNG Converter for Python., Convert IMAGE to PNG in Python., IMAGE files to PNG Conversion in Python., Leverage intelligent data processing to automatically parse and save IMAGE into PNG format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Converteer AFBEELDING naar PNG in de Excel-bibliotheek Python" h2="Snelle Python Excel-bibliotheek voor het converteren van IMAGE naar PNG. Dit is een professionele softwareoplossing voor het importeren en exporteren van IMAGE, PNG en vele andere formaten met behulp van Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="PNG" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -27,7 +27,7 @@ Volg de eenvoudige stappen om IMAGE naar PNG te converteren. Upload uw IMAGE-bes
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Voorbeeldcode om AFBEELDING naar PNG te converteren via de Excel-bibliotheek Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="png" outformat="png" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="Voorbeeldcode om AFBEELDING naar PNG te converteren via de Excel-bibliotheek Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="png" outformat="png" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="Hoe IMAGE naar PNG te converteren via Python" %}}
 

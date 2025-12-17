@@ -1,7 +1,7 @@
 ---
 title: Java XLSM naar SQL - XLSM naar SQL-converter
-description: Aspose Excel. Converteer XLSM snel en eenvoudig naar SQL met Aspose.Cells. Java XLSM naar SQL. Java Sla XLSM op in SQL. Sla XLSM op als SQL met behulp van Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Convert XLSM to SQL in Java., Save XLSM to SQL using Java., Java XLSM to SQL saveformat., XLSM to SQL Converter., Java Save XLSM as SQL]
+description: Aspose Excel. Deze uitgebreide oplossing biedt Java ontwikkelaars een volledig geïntegreerde aanpak om XLSM naar SQL-formaat te converteren, waardoor naadloos opslaan van XLSM gegevens in SQL-formaat mogelijk is met behulp van de Aspose.Cells bibliotheek, allemaal via efficiënte en aanpasbare Java code.
+keywords: [Aspose Excel., Java Aspose.Cells., Smart XLSM files to SQL Converter for Java., Convert XLSM to SQL in Java., XLSM files to SQL Conversion in Java., Leverage intelligent data processing to automatically parse and save XLSM into SQL format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Converteer XLSM naar SQL in Java" h2="Snelle Java-bibliotheek voor het converteren van XLSM naar SQL. Dit is een professionele softwareoplossing voor het importeren en exporteren van XLSM, SQL en vele andere formaten met behulp van Java." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="SQL" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="CSV" >}}
@@ -47,7 +47,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Convert XLSM to SQL in Java., Save
 
 {{% blocks/products/pf/agp/content h2="Sla XLSM op in SQL in Java" %}}
 
-In het volgende voorbeeld ziet u hoe u XLSM naar SQL converteert in Java.
+Het volgende voorbeeld laat zien hoe je XLSM naar SQL kunt converteren in Java.
 {{% blocks/products/pf/agp/text %}}
 
 Volg de eenvoudige stappen om XLSM naar SQL te converteren. Upload uw XLSM-bestand en sla het vervolgens eenvoudig op als SQL-bestand. Voor zowel XLSM-lezen als SQL-schrijven kunt u volledig gekwalificeerde bestandsnamen gebruiken. De uitvoer-SQL-inhoud en -opmaak zijn identiek aan het originele XLSM-document.
@@ -56,19 +56,19 @@ Volg de eenvoudige stappen om XLSM naar SQL te converteren. Upload uw XLSM-besta
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Voorbeeldcode om XLSM naar SQL te converteren" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsm" outformat="sql" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Voorbeeldcode om XLSM naar SQL te converteren" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="xlsm" outformat="sql" IsLandingPage="true" language="java" %}}
 
-{{% blocks/products/pf/agp/content h2="Hoe XLSM naar SQL via Java te converteren" %}}
+{{% blocks/products/pf/agp/content h2="Hoe converteer ik XLSM naar SQL via Java?" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
-Wilt u XLSM-bestanden programmatisch naar SQL converteren? Java-ontwikkelaars kunnen XLSM eenvoudig met slechts een paar regels code naar SQL converteren.
+Moet u bestanden met de extensie XLSM programmatisch naar SQL converteren? Ontwikkelaars van Java kunnen bestanden met de extensie XLSM eenvoudig in een paar regels code naar SQL converteren.
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Installeer 'Aspose.Cells for Java'.
 1.  Voeg een bibliotheekreferentie toe (importeer de bibliotheek) aan uw Java-project.
-1. Laad bestand XLSM met een exemplaar van de klasse Workbook.
+1.  Laad bestand XLSM met een instantie van de klasse Workbook.
 1.  Converteer XLSM naar SQL door de Workbook.save-methode aan te roepen.
 1.  Haal het conversieresultaat van XLSM naar SQL op.
 

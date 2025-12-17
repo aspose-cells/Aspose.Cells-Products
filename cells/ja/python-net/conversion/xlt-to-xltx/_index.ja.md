@@ -1,7 +1,7 @@
 ---
 title: Python XLT から XLTX - XLT から XLTX へのコンバータ
-description: Aspose Excel。Python Excel。Aspose.Cells を使用して、XLT を XLTX にすばやく簡単に変換します。Python XLT を XLTX に変換します。Python XLT を XLTX に保存します。Python Excel ライブラリを使用して、XLT を XLTX として保存します。
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert XLT to XLTX in Python Excel Library., Save XLT to XLTX using Python Excel Library., Python XLT to XLTX saveformat., XLT to XLTX Converter., Python Save XLT as XLTX]
+description: Aspose Excel。この包括的なソリューションは、Python開発者に、XLTをXLTX形式に変換するための完全に統合されたアプローチを提供し、Aspose.Cellsライブラリを使用してXLTデータをXLTX形式にシームレスに保存することを可能にします。これらはすべて、効率的でカスタマイズ可能なPythonコードを通じて行われます。
+keywords: [Aspose Excel., Python Aspose.Cells., Smart XLT files to XLTX Converter for Python., Convert XLT to XLTX in Python., XLT files to XLTX Conversion in Python., Leverage intelligent data processing to automatically parse and save XLT into XLTX format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Python Excel ライブラリで XLT を XLTX に変換する" h2="XLT を XLTX に変換するための高速 Python Excel ライブラリ。Excel 変換 API を使用して、Python で高レベルのプラットフォームに依存しないソフトウェアを開発します。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLTX" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -28,7 +28,7 @@ XLT を XLTX に変換するには、簡単な手順に従ってください。X
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Python Excel ライブラリを使用して XLT を XLTX に変換するサンプル コード" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlt" outformat="xltx" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Python Excel ライブラリを使用して XLT を XLTX に変換するサンプル コード" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="xlt" outformat="xltx" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="XLT を XLTX に変換する方法" %}}
 

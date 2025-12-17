@@ -1,7 +1,7 @@
 ---
 title: Python PRN naar XLT - PRN naar XLT Converter
-description: Aspose Excel. Python Excel. Converteer PRN snel en eenvoudig naar XLT met Aspose.Cells. Python PRN naar XLT. Python Bewaar PRN naar XLT. Sla PRN op als XLT met behulp van de Excel-bibliotheek Python.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert PRN to XLT in Python Excel Library., Save PRN to XLT using Python Excel Library., Python PRN to XLT saveformat., PRN to XLT Converter., Python Save PRN as XLT]
+description: Aspose Excel. Deze complete oplossing biedt ontwikkelaars een volledig geïntegreerde aanpak voor het converteren van PRN-bestanden naar het XLT-formaat. Hierdoor kunnen PRN-gegevens naadloos worden opgeslagen in het XLT-formaat met behulp van de Aspose.Cells-bibliotheek, allemaal via efficiënte en aanpasbare Python-code.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart PRN files to XLT Converter for Python., Convert PRN to XLT in Python., PRN files to XLT Conversion in Python., Leverage intelligent data processing to automatically parse and save PRN into XLT format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Converteer PRN naar XLT in de Excel-bibliotheek Python" h2="Snelle Python Excel-bibliotheek voor het converteren van PRN naar XLT. Gebruik onze Excel-conversie API om platformonafhankelijke software op hoog niveau te ontwikkelen in Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLT" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -28,7 +28,7 @@ Volg de eenvoudige stappen om PRN naar XLT te converteren. Upload uw PRN-bestand
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Voorbeeldcode om PRN naar XLT te converteren via de Excel-bibliotheek Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="prn" outformat="xlt" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Voorbeeldcode om PRN naar XLT te converteren via de Excel-bibliotheek Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="prn" outformat="xlt" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="PRN converteren naar XLT" %}}
 

@@ -1,7 +1,7 @@
 ---
 title: Java JSON naar OTS - JSON naar OTS-converter
-description: Aspose Excel. Converteer JSON snel en eenvoudig naar OTS met Aspose.Cells. Java JSON naar OTS. Java Bewaar JSON in OTS. Sla JSON op als OTS met behulp van Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Convert JSON to OTS in Java., Save JSON to OTS using Java., Java JSON to OTS saveformat., JSON to OTS Converter., Java Save JSON as OTS]
+description: Aspose Excel. Deze complete oplossing biedt ontwikkelaars een volledig geïntegreerde aanpak voor het converteren van gegevens naar het OTS-formaat. Hierdoor kunnen gegevens naadloos worden opgeslagen in het OTS-formaat met behulp van de bibliotheek, en dit alles via efficiënte en aanpasbare code.
+keywords: [Aspose Excel., Java Aspose.Cells., Smart JSON files to OTS Converter for Java., Convert JSON to OTS in Java., JSON files to OTS Conversion in Java., Leverage intelligent data processing to automatically parse and save JSON into OTS format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Converteer JSON naar OTS in Java" h2="Snelle Java-bibliotheek voor het converteren van JSON naar OTS. Dit is een professionele softwareoplossing voor het importeren en exporteren van JSON, OTS en vele andere formaten met behulp van Java." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="OTS" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="CSV" >}}
@@ -47,7 +47,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Convert JSON to OTS in Java., Save
 
 {{% blocks/products/pf/agp/content h2="Sla JSON op in OTS in Java" %}}
 
-Het volgende voorbeeld laat zien hoe u JSON naar OTS converteert in Java.
+Het volgende voorbeeld laat zien hoe je JSON omzet naar OTS in Java.
 {{% blocks/products/pf/agp/text %}}
 
 Volg de eenvoudige stappen om JSON naar OTS te converteren. Upload uw JSON-bestand en sla het vervolgens eenvoudig op als OTS-bestand. Voor zowel JSON-lezen als OTS-schrijven kunt u volledig gekwalificeerde bestandsnamen gebruiken. De OTS-uitvoerinhoud en -opmaak zijn identiek aan het originele JSON-document.
@@ -56,25 +56,25 @@ Volg de eenvoudige stappen om JSON naar OTS te converteren. Upload uw JSON-besta
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Voorbeeldcode om JSON naar OTS te converteren" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="json" outformat="ots" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Voorbeeldcode om JSON naar OTS te converteren" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="json" outformat="ots" IsLandingPage="true" language="java" %}}
 
-{{% blocks/products/pf/agp/content h2="Hoe JSON naar OTS via Java te converteren" %}}
+{{% blocks/products/pf/agp/content h2="Hoe converteer je JSON naar OTS via Java?" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
-Wilt u JSON-bestanden programmatisch naar OTS converteren? Java-ontwikkelaars kunnen JSON eenvoudig met slechts een paar regels code naar OTS converteren.
+Moet u JSON-bestanden programmatisch naar OTS converteren? Ontwikkelaars van Java kunnen JSON-bestanden eenvoudig in een paar regels code naar OTS converteren.
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Installeer 'Aspose.Cells for Java'.
 1.  Voeg een bibliotheekreferentie toe (importeer de bibliotheek) aan uw Java-project.
-1. Laad bestand JSON met een exemplaar van de klasse Workbook.
+1.  Laad bestand JSON met een instantie van de klasse Workbook.
 1.  Converteer JSON naar OTS door de Workbook.save-methode aan te roepen.
 1.  Verkrijg het conversieresultaat van JSON naar OTS.
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Java-bibliotheek om JSON naar OTS te converteren" %}}
+{{% blocks/products/pf/agp/content h2="Java bibliotheek om JSON naar OTS te converteren" %}}
 {{% blocks/products/pf/agp/text %}}
 
  We hosten onze Java-pakketten in[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) opslagplaatsen. 'Aspose.Cells for Java' is een veelgebruikt JAR-bestand met bytecode. Volg alstublieft de[stapsgewijze instructies](https://docs.aspose.com/cells/java/installation/) over hoe u het installeert in uw Java-ontwikkelaarsomgeving.

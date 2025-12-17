@@ -1,7 +1,7 @@
 ---
 title: Python HTML から DIF - HTML から DIF へのコンバータ
-description: Aspose Excel。Python Excel。Aspose.Cells を使用して、HTML を DIF にすばやく簡単に変換します。Python HTML を DIF に変換します。Python HTML を DIF に保存します。Python Excel ライブラリを使用して、HTML を DIF として保存します。
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert HTML to DIF in Python Excel Library., Save HTML to DIF using Python Excel Library., Python HTML to DIF saveformat., HTML to DIF Converter., Python Save HTML as DIF]
+description: Aspose Excel。この包括的なソリューションは、Python開発者に、HTMLをDIF形式に変換するための完全に統合されたアプローチを提供し、Aspose.Cellsライブラリを使用してHTMLデータをDIF形式にシームレスに保存することを可能にします。これらはすべて、効率的でカスタマイズ可能なPythonコードを通じて行われます。
+keywords: [Aspose Excel., Python Aspose.Cells., Smart HTML files to DIF Converter for Python., Convert HTML to DIF in Python., HTML files to DIF Conversion in Python., Leverage intelligent data processing to automatically parse and save HTML into DIF format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Python Excel ライブラリで HTML を DIF に変換する" h2="HTML を DIF に変換するための高速 Python Excel ライブラリ。これは、HTML、DIF、および Python を使用する他の多くの形式をインポートおよびエクスポートするためのプロフェッショナル ソフトウェア ソリューションです。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="DIF" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -27,7 +27,7 @@ HTML を DIF に変換するには、簡単な手順に従ってください。H
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Python Excel ライブラリを使用して HTML を DIF に変換するサンプル コード" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="html" outformat="dif" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="Python Excel ライブラリを使用して HTML を DIF に変換するサンプル コード" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="html" outformat="dif" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="Python 経由で HTML を DIF に変換する方法" %}}
 

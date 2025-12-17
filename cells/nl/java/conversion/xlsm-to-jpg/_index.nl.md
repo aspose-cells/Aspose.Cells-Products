@@ -1,7 +1,7 @@
 ---
 title: Java XLSM naar JPG - XLSM naar JPG-converter
-description: Aspose Excel. Converteer XLSM snel en eenvoudig naar JPG met Aspose.Cells. Java XLSM naar JPG. Java Sla XLSM op in JPG. Sla XLSM op als JPG met Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Convert XLSM to JPG in Java., Save XLSM to JPG using Java., Java XLSM to JPG saveformat., XLSM to JPG Converter., Java Save XLSM as JPG]
+description: Aspose Excel. Deze complete oplossing biedt ontwikkelaars een volledig geïntegreerde aanpak om XLSM naar JPG-formaat te converteren, waardoor het naadloos opslaan van XLSM-gegevens in JPG-formaat mogelijk is met behulp van de Aspose.Cells-bibliotheek, allemaal via efficiënte en aanpasbare Java-code.
+keywords: [Aspose Excel., Java Aspose.Cells., Smart XLSM files to JPG Converter for Java., Convert XLSM to JPG in Java., XLSM files to JPG Conversion in Java., Leverage intelligent data processing to automatically parse and save XLSM into JPG format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Converteer XLSM naar JPG in Java" h2="Snelle Java-bibliotheek voor het converteren van XLSM naar JPG. Dit is een professionele softwareoplossing voor het importeren en exporteren van XLSM, JPG en vele andere formaten met behulp van Java." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="JPG" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="CSV" >}}
@@ -47,7 +47,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Convert XLSM to JPG in Java., Save
 
 {{% blocks/products/pf/agp/content h2="Sla XLSM op als JPG in Java" %}}
 
-Het volgende voorbeeld laat zien hoe u XLSM naar JPG converteert in Java.
+Het volgende voorbeeld laat zien hoe je XLSM naar JPG kunt converteren in Java.
 {{% blocks/products/pf/agp/text %}}
 
 Volg de eenvoudige stappen om XLSM naar JPG te converteren. Upload uw XLSM-bestand en sla het vervolgens eenvoudig op als JPG-bestand. Voor zowel XLSM lezen als JPG schrijven kunt u volledig gekwalificeerde bestandsnamen gebruiken. De uitvoer-JPG-inhoud en -opmaak zijn identiek aan het originele XLSM-document.
@@ -56,19 +56,19 @@ Volg de eenvoudige stappen om XLSM naar JPG te converteren. Upload uw XLSM-besta
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Voorbeeldcode om XLSM naar JPG te converteren" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsm" outformat="jpg" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Voorbeeldcode om XLSM naar JPG te converteren" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="xlsm" outformat="jpg" IsLandingPage="true" language="java" %}}
 
-{{% blocks/products/pf/agp/content h2="Hoe XLSM naar JPG via Java te converteren" %}}
+{{% blocks/products/pf/agp/content h2="Hoe converteer ik XLSM naar JPG?" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
-Wilt u XLSM-bestanden programmatisch naar JPG converteren? Java-ontwikkelaars kunnen XLSM eenvoudig met slechts een paar regels code naar JPG converteren.
+Moet je bestanden met de extensie XLSM programmatisch naar JPG converteren? Ontwikkelaars van Java kunnen bestanden met de extensie XLSM eenvoudig naar JPG converteren met slechts een paar regels code.
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Installeer 'Aspose.Cells for Java'.
 1.  Voeg een bibliotheekreferentie toe (importeer de bibliotheek) aan uw Java-project.
-1. Laad bestand XLSM met een exemplaar van de klasse Workbook.
+1.  Laad bestand XLSM met een instantie van de klasse Workbook.
 1.  Converteer XLSM naar JPG door de Workbook.save-methode aan te roepen.
 1.  Verkrijg het conversieresultaat van XLSM naar JPG.
 

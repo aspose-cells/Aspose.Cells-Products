@@ -1,7 +1,7 @@
 ---
 title: Java XLS naar SQL - XLS naar SQL-converter
-description: Aspose Excel. Converteer XLS snel en eenvoudig naar SQL met Aspose.Cells. Java XLS naar SQL. Java Sla XLS op in SQL. Sla XLS op als SQL met behulp van Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Convert XLS to SQL in Java., Save XLS to SQL using Java., Java XLS to SQL saveformat., XLS to SQL Converter., Java Save XLS as SQL]
+description: Aspose Excel. Deze uitgebreide oplossing biedt Java ontwikkelaars een volledig geïntegreerde aanpak om XLS naar SQL-formaat te converteren, waardoor naadloos opslaan van XLS gegevens in SQL-formaat mogelijk is met behulp van de Aspose.Cells bibliotheek, allemaal via efficiënte en aanpasbare Java code.
+keywords: [Aspose Excel., Java Aspose.Cells., Smart XLS files to SQL Converter for Java., Convert XLS to SQL in Java., XLS files to SQL Conversion in Java., Leverage intelligent data processing to automatically parse and save XLS into SQL format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Converteer XLS naar SQL in Java" h2="Snelle Java-bibliotheek voor het converteren van XLS naar SQL. Dit is een professionele softwareoplossing voor het importeren en exporteren van XLS, SQL en vele andere formaten met behulp van Java." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="SQL" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="CSV" >}}
@@ -47,7 +47,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Convert XLS to SQL in Java., Save 
 
 {{% blocks/products/pf/agp/content h2="Sla XLS op in SQL in Java" %}}
 
-In het volgende voorbeeld ziet u hoe u XLS naar SQL converteert in Java.
+Het volgende voorbeeld laat zien hoe je XLS naar SQL kunt converteren in Java.
 {{% blocks/products/pf/agp/text %}}
 
 Volg de eenvoudige stappen om XLS naar SQL te converteren. Upload uw XLS-bestand en sla het vervolgens eenvoudig op als SQL-bestand. Voor zowel XLS-lezen als SQL-schrijven kunt u volledig gekwalificeerde bestandsnamen gebruiken. De uitvoer-SQL-inhoud en -opmaak zijn identiek aan het originele XLS-document.
@@ -56,19 +56,19 @@ Volg de eenvoudige stappen om XLS naar SQL te converteren. Upload uw XLS-bestand
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Voorbeeldcode om XLS naar SQL te converteren" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xls" outformat="sql" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Voorbeeldcode om XLS naar SQL te converteren" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="xls" outformat="sql" IsLandingPage="true" language="java" %}}
 
-{{% blocks/products/pf/agp/content h2="Hoe XLS naar SQL via Java te converteren" %}}
+{{% blocks/products/pf/agp/content h2="Hoe converteer ik XLS naar SQL via Java?" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
-Wilt u XLS-bestanden programmatisch naar SQL converteren? Java-ontwikkelaars kunnen XLS eenvoudig met slechts een paar regels code naar SQL converteren.
+Moet u bestanden met de extensie XLS programmatisch naar SQL converteren? Ontwikkelaars van Java kunnen bestanden met de extensie XLS eenvoudig in een paar regels code naar SQL converteren.
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Installeer 'Aspose.Cells for Java'.
 1.  Voeg een bibliotheekreferentie toe (importeer de bibliotheek) aan uw Java-project.
-1. Laad bestand XLS met een exemplaar van de klasse Workbook.
+1.  Laad bestand XLS met een instantie van de klasse Workbook.
 1.  Converteer XLS naar SQL door de Workbook.save-methode aan te roepen.
 1.  Haal het conversieresultaat van XLS naar SQL op.
 
@@ -97,7 +97,7 @@ Wilt u XLS-bestanden programmatisch naar SQL converteren? Java-ontwikkelaars kun
 
 <!-- aboutfile Starts -->
     {{< blocks/products/pf/agp/about-file-section >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLS" readMoreLink="https://docs.fileformat.com/spreadsheet/xls/" >}}Bestanden met de extensie XLS vertegenwoordigen het binaire bestandsformaat van Excel. Dergelijke bestanden kunnen worden gemaakt door Microsoft Excel en andere soortgelijke spreadsheetprogramma's zoals OpenOffice Calc of Apple Numbers. Bestand dat door Excel wordt opgeslagen, staat bekend als Werkmap, waarbij elke werkmap een of meer werkbladen kan hebben. Gegevens worden opgeslagen en weergegeven aan gebruikers in tabelindeling op een werkblad en kunnen numerieke waarden, tekstgegevens, formules, externe gegevensverbindingen, afbeeldingen en grafieken omvatten. Met toepassingen zoals Microsoft Excel kunt u werkmapgegevens naar verschillende formaten exporteren, waaronder PDF, CSV, XLSX, TXT, HTML, XPS en verschillende andere. Het bestandsformaat XLS werd vervangen door een meer open en gestructureerd formaat, XLSX, met de release van Microsoft Excel 2007. De nieuwste versies bieden nog steeds ondersteuning voor het maken en lezen van XLS-bestanden, hoewel XLSX nu de eerste gebruikskeuze is.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLS" readMoreLink="https://docs.fileformat.com/spreadsheet/xls/" >}}Bestanden met de extensie XLS vertegenwoordigen het binaire bestandsformaat van Excel. Dergelijke bestanden kunnen worden gemaakt door Microsoft Excel en andere soortgelijke spreadsheetprogramma's zoals OpenOffice Calc of Apple Numbers. Bestand opgeslagen door Excel staat bekend als Werkmap, waarbij elke werkmap een of meer werkbladen kan hebben. Gegevens worden opgeslagen en weergegeven aan gebruikers in tabelindeling op een werkblad en kunnen numerieke waarden, tekstgegevens, formules, externe gegevensverbindingen, afbeeldingen en grafieken omvatten. Met toepassingen zoals Microsoft Excel kunt u werkmapgegevens naar verschillende formaten exporteren, waaronder PDF, CSV, XLSX, TXT, HTML, XPS en verschillende andere. Het bestandsformaat XLS werd vervangen door een meer open en gestructureerd formaat, XLSX, met de release van Microsoft Excel 2007. De nieuwste versies bieden nog steeds ondersteuning voor het maken en lezen van XLS-bestanden, hoewel XLSX nu de eerste gebruikskeuze is.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="SQL" readMoreLink="https://docs.fileformat.com/database/sql/" >}}Een bestand met de extensie .sql is een SQL-bestand (Structured Query Language) dat code bevat om met relationele databases te werken. Het wordt gebruikt om SQL-instructies te schrijven voor CRUD-bewerkingen (Create, Read, Update en Delete) in databases. SQL-bestanden komen vaak voor bij het werken met zowel desktop- als webgebaseerde databases. Er zijn verschillende alternatieven voor SQL, zoals Java Persistence Query Language (JPQL), LINQ, HTSQL, 4D QL en verschillende andere. SQL-bestanden kunnen worden geopend door query-editors van Microsoft SQL Server, MySQL en andere teksteditors zoals Kladblok op Windows OS.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
     {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->

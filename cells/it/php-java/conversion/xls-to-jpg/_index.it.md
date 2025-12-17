@@ -1,7 +1,7 @@
 ---
 title: Convertitore da PHP XLS a JPG - XLS a JPG
-description: Aspose Excel. Converti XLS in JPG in modo rapido e semplice con Aspose.Cells. PHP XLS in JPG. PHP Salva XLS in JPG. Salva XLS come JPG utilizzando PHP.
-keywords: [Aspose Excel., PHP Aspose.Cells., Convert XLS to JPG in PHP., Save XLS to JPG using PHP., PHP XLS to JPG saveformat., XLS to JPG Converter., PHP Save XLS as JPG]
+description: Aspose Excel. Questa soluzione completa fornisce agli sviluppatori PHP un approccio completamente integrato per convertire XLS in formato JPG, consentendo il salvataggio senza interruzioni dei dati XLS in formato JPG utilizzando la libreria Aspose.Cells, il tutto tramite codice PHP efficiente e personalizzabile.
+keywords: [Aspose Excel., PHP Aspose.Cells., Smart XLS files to JPG Converter for PHP., Convert XLS to JPG in PHP., XLS files to JPG Conversion in PHP., Leverage intelligent data processing to automatically parse and save XLS into JPG format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Converti XLS in JPG in PHP" h2="Libreria PHP ad alta velocità per convertire XLS in JPG. Questa è una soluzione software professionale per importare ed esportare XLS, JPG e molti altri formati utilizzando PHP." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-php-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="JPG" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., PHP Aspose.Cells., Convert XLS to JPG in PHP., Save XL
 
 {{% blocks/products/pf/agp/content h2="Converti XLS in JPG utilizzando PHP" %}}
 
- Come converto XLS in JPG? Con la libreria Aspose.Cells for PHP via Java, puoi convertire facilmente XLS in JPG a livello di codice con poche righe di codice.[Aspose.Cells for PHP via Java](https://products.aspose.com/cells/php-java/) è in grado di creare applicazioni multipiattaforma con la capacità di generare, modificare, convertire, eseguire il rendering e stampare tutti i file Excel. PHP Excel API non solo converte tra formati di foglio di calcolo, ma può anche eseguire il rendering di file Excel come immagini, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT e altro, rendendolo quindi una scelta perfetta per lo scambio di documenti in formati standard del settore.
+ Come converto XLS in JPG? Con la libreria Aspose.Cells for PHP via Java, puoi convertire facilmente XLS in JPG programmaticamente con poche righe di codice.[Aspose.Cells for PHP via Java](https://products.aspose.com/cells/php-java/) È in grado di creare applicazioni multipiattaforma con la capacità di generare, modificare, convertire, visualizzare e stampare tutti i file Excel. PHP Excel API non solo converte tra formati di fogli di calcolo, ma può anche visualizzare i file Excel come immagini, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT e altro ancora, rendendolo la scelta perfetta per lo scambio di documenti nei formati standard del settore.
  
 {{% /blocks/products/pf/agp/content %}}
 
@@ -27,20 +27,20 @@ Segui i semplici passaggi per convertire XLS in JPG. Carica il tuo file XLS, qui
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Codice di esempio per convertire XLS in JPG" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xls" outformat="jpg" IsLandingPage="true" language="phpjava" %}}
+{{% cells-convert title="Codice di esempio per convertire XLS in JPG" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="xls" outformat="jpg" IsLandingPage="true" language="phpjava" %}}
 
 {{% blocks/products/pf/agp/content h2="Come convertire XLS in JPG tramite PHP" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
-Hai bisogno di convertire i file XLS in JPG a livello di codice? Gli sviluppatori PHP possono caricare e convertire facilmente XLS in JPG in poche righe di codice.
+Hai bisogno di convertire i file XLS in JPG tramite codice? Gli sviluppatori PHP possono caricare e convertire facilmente i file XLS in JPG in poche righe di codice.
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Installa 'Aspose.Cells for PHP via Java'.
 1.  Aggiungi un riferimento alla libreria (importa la libreria) al tuo progetto PHP.
 1.  Carica il file XLS con un'istanza di Workbook.
-1. Converti XLS in JPG chiamando il metodo di salvataggio della cartella di lavoro.
+1.  Converti XLS in JPG chiamando il metodo save di Workbook.
 1.  Ottieni il risultato della conversione da XLS a JPG.
 
 {{% /blocks/products/pf/agp/content %}}
@@ -63,7 +63,7 @@ Esistono tre opzioni per installare "Aspose.Cells for PHP via Java" sul tuo sist
 
 {{% blocks/products/pf/agp/text %}}
 
-Aspose.Cells for PHP via Java è indipendente dalla piattaforma API e può essere utilizzato su qualsiasi piattaforma (Windows, Linux, MacOS ecc.) su cui è installato PHP 7 o versioni successive. La macchina deve disporre di Oracle JDK 7 o versioni successive prima di configurare l'installazione.
+ Aspose.Cells for PHP via Java è indipendente dalla piattaforma API e può essere utilizzato su qualsiasi piattaforma (Windows, Linux, macOS ecc.) su cui sia installato PHP 7 o versioni successive. Il computer deve disporre di Oracle JDK 7 o versioni successive prima di poter configurare l'installazione.
  
 {{% /blocks/products/pf/agp/text %}}
 
@@ -72,7 +72,7 @@ Aspose.Cells for PHP via Java è indipendente dalla piattaforma API e può esser
 
 <!-- aboutfile Starts -->
     {{< blocks/products/pf/agp/about-file-section >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLS" readMoreLink="https://docs.fileformat.com/spreadsheet/xls/" >}}file con estensione XLS rappresentano il formato file binario di Excel. Tali file possono essere creati da Microsoft Excel così come altri programmi di fogli di calcolo simili come OpenOffice Calc o Apple Numbers. Il file salvato da Excel è noto come cartella di lavoro in cui ciascuna cartella di lavoro può avere uno o più fogli di lavoro. I dati vengono archiviati e visualizzati agli utenti in formato tabella nel foglio di lavoro e possono comprendere valori numerici, dati di testo, formule, connessioni dati esterne, immagini e grafici. Applicazioni come Microsoft Excel ti consentono di esportare i dati della cartella di lavoro in diversi formati tra cui PDF, CSV, XLSX, TXT, HTML, XPS e molti altri. Il formato file XLS è stato sostituito con un formato più aperto e strutturato, XLSX, con il rilascio di Microsoft Excel 2007. Le ultime versioni forniscono ancora supporto per la creazione e la lettura dei file XLS, sebbene XLSX sia ora la prima scelta di utilizzo.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLS" readMoreLink="https://docs.fileformat.com/spreadsheet/xls/" >}}I file con estensione XLS rappresentano il formato file binario di Excel. Tali file possono essere creati da Microsoft Excel così come altri programmi di fogli di calcolo simili come OpenOffice Calc o Apple Numbers. Il file salvato da Excel è noto come cartella di lavoro in cui ciascuna cartella di lavoro può avere uno o più fogli di lavoro. I dati vengono archiviati e visualizzati agli utenti in formato tabella nel foglio di lavoro e possono comprendere valori numerici, dati di testo, formule, connessioni dati esterne, immagini e grafici. Applicazioni come Microsoft Excel ti consentono di esportare i dati della cartella di lavoro in diversi formati tra cui PDF, CSV, XLSX, TXT, HTML, XPS e molti altri. Il formato file XLS è stato sostituito con un formato più aperto e strutturato, XLSX, con il rilascio di Microsoft Excel 2007. Le ultime versioni forniscono ancora supporto per la creazione e la lettura dei file XLS, sebbene XLSX sia ora la prima scelta di utilizzo.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="JPG" readMoreLink="https://docs.fileformat.com/image/jpg/" >}}A JPEG è un tipo di formato immagine che viene salvato utilizzando il metodo di compressione con perdita. L'immagine di output, come risultato della compressione, è un compromesso tra le dimensioni di archiviazione e la qualità dell'immagine. Gli utenti possono regolare il livello di compressione per ottenere il livello di qualità desiderato e allo stesso tempo ridurre le dimensioni di archiviazione. La qualità dell'immagine viene influenzata in modo trascurabile se all'immagine viene applicata la compressione 10:1. Maggiore è il valore di compressione, maggiore sarà il degrado della qualità dell'immagine.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
     {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->
@@ -82,7 +82,7 @@ Aspose.Cells for PHP via Java è indipendente dalla piattaforma API e può esser
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/php-java/conversion/xls-to-bmp/" name="dallo XLS allo BMP" description="Immagine bitmap" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/php-java/conversion/xls-to-emf/" name="dallo XLS allo EMF" description="Formato metafile avanzato" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/php-java/conversion/xls-to-gif/" name="dallo XLS allo GIF" description="Formato di interscambio grafico" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/php-java/conversion/xls-to-html/" name="dallo XLS allo HTML" description="Hyper Text Markup Language" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/php-java/conversion/xls-to-html/" name="dallo XLS allo HTML" description="Linguaggio di markup ipertestuale" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/php-java/conversion/xls-to-md/" name="XLS AL MD" description="Linguaggio di ribasso" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/php-java/conversion/xls-to-mhtml/" name="dallo XLS allo MHTML" description="Formato di archivio delle pagine Web" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/php-java/conversion/xls-to-ods/" name="dallo XLS allo ODS" description="File di foglio di calcolo OpenDocument" >}}

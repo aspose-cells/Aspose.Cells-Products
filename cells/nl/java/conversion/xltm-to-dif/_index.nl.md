@@ -1,7 +1,7 @@
 ---
 title: Java XLTM tot DIF - XLTM tot DIF Converter
-description: Aspose Excel. Converteer XLTM snel en eenvoudig naar DIF met Aspose.Cells. Java XLTM naar DIF. Java Bewaar XLTM in DIF. Bewaar XLTM als 07611134 81 via Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Convert XLTM to DIF in Java., Save XLTM to DIF using Java., Java XLTM to DIF saveformat., XLTM to DIF Converter., Java Save XLTM as DIF]
+description: Aspose Excel. Deze uitgebreide oplossing biedt ontwikkelaars een volledig geïntegreerde aanpak voor het converteren van gegevens van het formaat XLTM naar DIF, waardoor naadloos opslaan van gegevens in het formaat XLTM mogelijk is met behulp van de bibliotheek Aspose.Cells, allemaal via efficiënte en aanpasbare code Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Smart XLTM files to DIF Converter for Java., Convert XLTM to DIF in Java., XLTM files to DIF Conversion in Java., Leverage intelligent data processing to automatically parse and save XLTM into DIF format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Converteer XLTM naar DIF in Java" h2="Snelle Java-bibliotheek voor het converteren van XLTM naar DIF. Dit is een professionele softwareoplossing voor het importeren en exporteren van XLTM, DIF en vele andere formaten met behulp van Java." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="DIF" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Convert XLTM to DIF in Java., Save
 
 {{% blocks/products/pf/agp/content h2="Converteer XLTM naar DIF met behulp van Java" %}}
 
-Hoe converteer ik XLTM naar DIF? Met de bibliotheek Aspose.Cells for Java kunt u XLTM eenvoudig programmatisch naar DIF converteren met een paar regels code.[Aspose.Cells for Java](https://products.aspose.com/cells/java)is in staat om platformonafhankelijke applicaties te bouwen met de mogelijkheid om alle Excel-bestanden te genereren, wijzigen, converteren, renderen en afdrukken. Java Excel API converteert niet alleen tussen spreadsheetformaten, het kan ook Excel-bestanden weergeven als afbeeldingen, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT en meer, waardoor het een perfecte keuze is om documenten uit te wisselen in industriestandaardformaten. U kunt de nieuwste versie rechtstreeks downloaden van[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) en installeer het binnen uw op Maven gebaseerde project door de volgende configuraties toe te voegen aan pom.xml.
+ Hoe converteer ik XLTM naar DIF? Met de bibliotheek Aspose.Cells for Java kunt u XLTM eenvoudig programmatisch naar DIF converteren met een paar regels code.[Aspose.Cells for Java](https://products.aspose.com/cells/java)is in staat om platformonafhankelijke applicaties te bouwen met de mogelijkheid om alle Excel-bestanden te genereren, wijzigen, converteren, renderen en afdrukken. Java Excel API converteert niet alleen tussen spreadsheetformaten, het kan ook Excel-bestanden weergeven als afbeeldingen, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT en meer, waardoor het een perfecte keuze is om documenten uit te wisselen in industriestandaardformaten. U kunt de nieuwste versie rechtstreeks downloaden van[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) en installeer het binnen uw op Maven gebaseerde project door de volgende configuraties toe te voegen aan pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Opslagplaats" offSpacer="true" %}}
 
@@ -45,9 +45,9 @@ Hoe converteer ik XLTM naar DIF? Met de bibliotheek Aspose.Cells for Java kunt u
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Bewaar XLTM t/m DIF in Java" %}}
+{{% blocks/products/pf/agp/content h2="Sla XLTM op in DIF in Java" %}}
 
-Het volgende voorbeeld laat zien hoe u XLTM converteert naar DIF in Java.
+Het volgende voorbeeld laat zien hoe je XLTM omzet naar DIF in Java.
 {{% blocks/products/pf/agp/text %}}
 
 Volg de eenvoudige stappen om XLTM naar DIF te converteren. Upload uw XLTM-bestand en sla het vervolgens eenvoudig op als DIF-bestand. Voor zowel XLTM lezen als DIF schrijven kunt u volledig gekwalificeerde bestandsnamen gebruiken. De inhoud en opmaak van de uitvoer DIF zullen identiek zijn aan het originele document XLTM.
@@ -56,19 +56,19 @@ Volg de eenvoudige stappen om XLTM naar DIF te converteren. Upload uw XLTM-besta
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Voorbeeldcode om XLTM naar DIF te converteren" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xltm" outformat="dif" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Voorbeeldcode om XLTM naar DIF te converteren" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="xltm" outformat="dif" IsLandingPage="true" language="java" %}}
 
-{{% blocks/products/pf/agp/content h2="Hoe XLTM naar DIF via Java te converteren" %}}
+{{% blocks/products/pf/agp/content h2="Hoe zet ik XLTM om naar DIF of via Java?" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
-Wilt u XLTM-bestanden programmatisch naar DIF converteren? Java-ontwikkelaars kunnen XLTM eenvoudig in slechts een paar regels code naar DIF converteren.
+Moet je bestanden met de extensie XLTM programmatisch converteren naar DIF? Ontwikkelaars van Java kunnen bestanden met de extensie XLTM eenvoudig converteren naar DIF met slechts een paar regels code.
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Installeer 'Aspose.Cells for Java'.
 1.  Voeg een bibliotheekreferentie toe (importeer de bibliotheek) aan uw Java-project.
-1. Laad bestand XLTM met een exemplaar van de klasse Workbook.
+1.  Laad bestand XLTM met een instantie van de klasse Workbook.
 1.  Converteer XLTM naar DIF door de Workbook.save-methode aan te roepen.
 1.  Verkrijg het conversieresultaat van XLTM naar DIF.
 

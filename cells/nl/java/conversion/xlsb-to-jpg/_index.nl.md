@@ -1,7 +1,7 @@
 ---
 title: Java XLSB naar JPG - XLSB naar JPG-converter
-description: Aspose Excel. Converteer XLSB snel en eenvoudig naar JPG met Aspose.Cells. Java XLSB naar JPG. Java Sla XLSB op in JPG. Sla XLSB op als JPG met Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Convert XLSB to JPG in Java., Save XLSB to JPG using Java., Java XLSB to JPG saveformat., XLSB to JPG Converter., Java Save XLSB as JPG]
+description: Aspose Excel. Deze complete oplossing biedt ontwikkelaars een volledig geïntegreerde aanpak om XLSB naar JPG-formaat te converteren, waardoor het naadloos opslaan van XLSB-gegevens in JPG-formaat mogelijk is met behulp van de Aspose.Cells-bibliotheek, allemaal via efficiënte en aanpasbare Java-code.
+keywords: [Aspose Excel., Java Aspose.Cells., Smart XLSB files to JPG Converter for Java., Convert XLSB to JPG in Java., XLSB files to JPG Conversion in Java., Leverage intelligent data processing to automatically parse and save XLSB into JPG format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Converteer XLSB naar JPG in Java" h2="Snelle Java-bibliotheek voor het converteren van XLSB naar JPG. Dit is een professionele softwareoplossing voor het importeren en exporteren van XLSB, JPG en vele andere formaten met behulp van Java." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="JPG" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="CSV" >}}
@@ -47,7 +47,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Convert XLSB to JPG in Java., Save
 
 {{% blocks/products/pf/agp/content h2="Sla XLSB op als JPG in Java" %}}
 
-Het volgende voorbeeld laat zien hoe u XLSB naar JPG converteert in Java.
+Het volgende voorbeeld laat zien hoe je XLSB naar JPG kunt converteren in Java.
 {{% blocks/products/pf/agp/text %}}
 
 Volg de eenvoudige stappen om XLSB naar JPG te converteren. Upload uw XLSB-bestand en sla het vervolgens eenvoudig op als JPG-bestand. Voor zowel XLSB lezen als JPG schrijven kunt u volledig gekwalificeerde bestandsnamen gebruiken. De uitvoer-JPG-inhoud en -opmaak zijn identiek aan het originele XLSB-document.
@@ -56,19 +56,19 @@ Volg de eenvoudige stappen om XLSB naar JPG te converteren. Upload uw XLSB-besta
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Voorbeeldcode om XLSB naar JPG te converteren" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsb" outformat="jpg" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Voorbeeldcode om XLSB naar JPG te converteren" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="xlsb" outformat="jpg" IsLandingPage="true" language="java" %}}
 
-{{% blocks/products/pf/agp/content h2="Hoe XLSB naar JPG via Java te converteren" %}}
+{{% blocks/products/pf/agp/content h2="Hoe converteer ik XLSB naar JPG?" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
-Wilt u XLSB-bestanden programmatisch naar JPG converteren? Java-ontwikkelaars kunnen XLSB eenvoudig met slechts een paar regels code naar JPG converteren.
+Moet je bestanden met de extensie XLSB programmatisch naar JPG converteren? Ontwikkelaars van Java kunnen bestanden met de extensie XLSB eenvoudig naar JPG converteren met slechts een paar regels code.
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Installeer 'Aspose.Cells for Java'.
 1.  Voeg een bibliotheekreferentie toe (importeer de bibliotheek) aan uw Java-project.
-1. Laad bestand XLSB met een exemplaar van de klasse Workbook.
+1.  Laad bestand XLSB met een instantie van de klasse Workbook.
 1.  Converteer XLSB naar JPG door de Workbook.save-methode aan te roepen.
 1.  Verkrijg het conversieresultaat van XLSB naar JPG.
 

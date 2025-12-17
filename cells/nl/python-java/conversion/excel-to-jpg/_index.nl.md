@@ -1,7 +1,7 @@
 ---
 title: Python EXCEL naar JPG - EXCEL naar JPG-converter
-description: Aspose Excel. Python Excel. Converteer Excel snel en eenvoudig naar JPG met Aspose.Cells. Python EXCEL naar JPG. Python Excel opslaan in JPG. Sla EXCEL op als JPG met behulp van de Excel-bibliotheek Python.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert EXCEL to JPG in Python Excel Library., Save EXCEL to JPG using Python Excel Library., Python EXCEL to JPG saveformat., EXCEL to JPG Converter., Python Save EXCEL as JPG]
+description: Aspose Excel. Deze complete oplossing biedt ontwikkelaars een volledig geïntegreerde aanpak voor het converteren van Excel-bestanden naar JPG-formaat. Hierdoor kunnen Excel-gegevens naadloos worden opgeslagen in JPG-formaat met behulp van de bibliotheek, en dat alles via efficiënte en aanpasbare code.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart EXCEL files to JPG Converter for Python., Convert EXCEL to JPG in Python., EXCEL files to JPG Conversion in Python., Leverage intelligent data processing to automatically parse and save EXCEL into JPG format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Converteer EXCEL naar JPG in Python Excel-bibliotheek" h2="Snelle Python Excel-bibliotheek voor het converteren van EXCEL naar JPG. Dit is een professionele softwareoplossing voor het importeren en exporteren van EXCEL, JPG en vele andere formaten met behulp van Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="JPG" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -27,7 +27,7 @@ Volg de eenvoudige stappen om EXCEL naar JPG te converteren. Upload uw Excel-bes
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Voorbeeldcode om EXCEL naar JPG te converteren via Python Excel-bibliotheek" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsx" outformat="jpg" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="Voorbeeldcode om EXCEL naar JPG te converteren via Python Excel-bibliotheek" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="xlsx" outformat="jpg" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="Hoe Excel naar JPG te converteren via Python" %}}
 

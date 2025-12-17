@@ -1,7 +1,7 @@
 ---
 title: Python SPREADSHEETML から ODS - SPREADSHEETML から ODS へのコンバーター
-description: Aspose Excel。Python Excel。Aspose.Cells を使用して、SPREADSHEETML を ODS にすばやく簡単に変換します。Python SPREADSHEETML を ODS に変換します。Python SPREADSHEETML を ODS に保存します。Python Excel ライブラリを使用して、SPREADSHEETML を ODS として保存します。
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert SPREADSHEETML to ODS in Python Excel Library., Save SPREADSHEETML to ODS using Python Excel Library., Python SPREADSHEETML to ODS saveformat., SPREADSHEETML to ODS Converter., Python Save SPREADSHEETML as ODS]
+description: Aspose Excel。この包括的なソリューションは、Python 開発者に、SPREADSHEETML を ODS 形式に変換するための完全に統合されたアプローチを提供します。これにより、Aspose.Cells ライブラリを使用して SPREADSHEETML データを ODS 形式にシームレスに保存できます。すべて、効率的でカスタマイズ可能な Python コードを通じて行われます。
+keywords: [Aspose Excel., Python Aspose.Cells., Smart SPREADSHEETML files to ODS Converter for Python., Convert SPREADSHEETML to ODS in Python., SPREADSHEETML files to ODS Conversion in Python., Leverage intelligent data processing to automatically parse and save SPREADSHEETML into ODS format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Python Excel ライブラリで SPREADSHEETML を ODS に変換する" h2="SPREADSHEETML を ODS に変換するための高速 Python Excel ライブラリ。Excel 変換 API を使用して、Python で高レベルのプラットフォームに依存しないソフトウェアを開発します。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="ODS" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -28,7 +28,7 @@ SPREADSHEETML を ODS に変換するには、簡単な手順に従ってくだ�
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Python Excel ライブラリを使用して SPREADSHEETML を ODS に変換するサンプル コード" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xml" outformat="ods" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Python Excel ライブラリを使用して SPREADSHEETML を ODS に変換するサンプル コード" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="xml" outformat="ods" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="SPREADSHEETML を ODS に変換する方法" %}}
 

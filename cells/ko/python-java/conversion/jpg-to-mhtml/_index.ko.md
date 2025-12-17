@@ -1,7 +1,7 @@
 ---
 title: Python JPG에서 MHTML로 - JPG에서 MHTML로 변환기
-description: Aspose 엑셀. Python 엑셀. Aspose.Cells을 사용하여 JPG를 MHTML로 빠르고 쉽게 변환합니다. Python JPG를 MHTML로 변환합니다. Python JPG를 MHTML로 저장합니다. Python Excel 라이브러리를 사용하여 JPG를 MHTML로 저장합니다.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert JPG to MHTML in Python Excel Library., Save JPG to MHTML using Python Excel Library., Python JPG to MHTML saveformat., JPG to MHTML Converter., Python Save JPG as MHTML]
+description: Aspose Excel. 이 포괄적인 솔루션은 Python 개발자에게 JPG를 MHTML 형식으로 변환하는 완벽하게 통합된 접근 방식을 제공하며, Aspose.Cells 라이브러리를 사용하여 JPG 데이터를 MHTML 형식으로 원활하게 저장할 수 있도록 지원합니다. 이 모든 작업은 효율적이고 사용자 정의 가능한 Python 코드를 통해 이루어집니다.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart JPG files to MHTML Converter for Python., Convert JPG to MHTML in Python., JPG files to MHTML Conversion in Python., Leverage intelligent data processing to automatically parse and save JPG into MHTML format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Python Excel 라이브러리에서 JPG를 MHTML로 변환" h2="JPG를 MHTML로 변환하기 위한 고속 Python Excel 라이브러리. 이것은 Python을 사용하여 JPG, MHTML 및 기타 여러 형식을 가져오고 내보낼 수 있는 전문 소프트웨어 솔루션입니다." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="MHTML" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -27,7 +27,7 @@ keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert J
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Python Excel 라이브러리를 통해 JPG를 Python로 변환하는 샘플 코드" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="jpg" outformat="mhtml" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="Python Excel 라이브러리를 통해 JPG를 Python로 변환하는 샘플 코드" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="jpg" outformat="mhtml" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="Python을 통해 JPG를 MHTML로 변환하는 방법" %}}
 
@@ -81,29 +81,29 @@ Aspose.Cells for Python via Java은 플랫폼 독립적인 API이며 모든 플�
 
 {{< blocks/products/pf/agp/other-supported-section title="기타 지원되는 변환" subTitle="또한 JPG를 아래 나열된 몇 가지 파일 형식을 포함하여 다양한 다른 파일 형식으로 변환할 수도 있습니다." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/jpg-to-bmp/" name="JPG TO BMP" description="비트맵 이미지" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/jpg-to-emf/" name="JPG TO EMF" description="향상된 메타파일 형식" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/jpg-to-gif/" name="JPG TO GIF" description="그래픽 교환 형식" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/jpg-to-html/" name="JPG TO HTML" description="하이퍼텍스트 마크업 언어" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/jpg-to-bmp/" name="JPG를 BMP로 보내주세요" description="비트맵 이미지" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/jpg-to-emf/" name="JPG를 EMF로 보내주세요" description="향상된 메타파일 형식" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/jpg-to-gif/" name="JPG를 GIF로 보내주세요" description="그래픽 교환 형식" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/jpg-to-html/" name="JPG를 HTML로 보내주세요" description="하이퍼텍스트 마크업 언어" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/jpg-to-md/" name="JPG를 MD로" description="마크다운 언어" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/jpg-to-mhtml/" name="JPG TO MHTML" description="웹페이지 아카이브 형식" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/jpg-to-ods/" name="JPG TO ODS" description="OpenDocument 스프레드시트 파일" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/jpg-to-pdf/" name="JPG TO PDF" description="휴대용 문서 형식" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/jpg-to-png/" name="JPG TO PNG" description="휴대용 네트워크 그래픽" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/jpg-to-svg/" name="JPG TO SVG" description="확장 가능한 벡터 그래픽" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/jpg-to-tiff/" name="JPG TO TIFF" description="태그된 이미지 형식" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/jpg-to-tsv/" name="JPG TO TSV" description="탭으로 구분된 값" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/jpg-to-txt/" name="JPG TO TXT" description="텍스트 문서" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/jpg-to-xls/" name="JPG TO XLS" description="Excel 바이너리 형식" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/jpg-to-xlsb/" name="JPG TO XLSB" description="바이너리 Excel 통합 문서 파일" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/jpg-to-xlsm/" name="JPG TO XLSM" description="스프레드시트 파일" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/jpg-to-xlsx/" name="JPG TO XLSX" description="OOXML 엑셀 파일" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/jpg-to-xlt/" name="JPG TO XLT" description="Microsoft 엑셀 템플릿" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/jpg-to-xltm/" name="JPG TO XLTM" description="Excel 매크로 지원 템플릿" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/jpg-to-xltx/" name="JPG TO XLTX" description="Office OpenXML 엑셀 템플릿" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/jpg-to-mhtml/" name="JPG를 MHTML로 보내주세요" description="웹페이지 아카이브 형식" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/jpg-to-ods/" name="JPG를 ODS로 보내주세요" description="OpenDocument 스프레드시트 파일" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/jpg-to-pdf/" name="JPG를 PDF로 보내주세요" description="휴대용 문서 형식" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/jpg-to-png/" name="JPG를 PNG로 보내주세요" description="휴대용 네트워크 그래픽" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/jpg-to-svg/" name="JPG를 SVG로 보내주세요" description="확장 가능한 벡터 그래픽" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/jpg-to-tiff/" name="JPG를 TIFF로 보내주세요" description="태그된 이미지 형식" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/jpg-to-tsv/" name="JPG를 TSV로 보내주세요" description="탭으로 구분된 값" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/jpg-to-txt/" name="JPG를 TXT로 보내주세요" description="텍스트 문서" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/jpg-to-xls/" name="JPG를 XLS로 보내주세요" description="Excel 바이너리 형식" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/jpg-to-xlsb/" name="JPG를 XLSB로 보내주세요" description="바이너리 Excel 통합 문서 파일" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/jpg-to-xlsm/" name="JPG를 XLSM로 보내주세요" description="스프레드시트 파일" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/jpg-to-xlsx/" name="JPG를 XLSX로 보내주세요" description="OOXML 엑셀 파일" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/jpg-to-xlt/" name="JPG를 XLT로 보내주세요" description="Microsoft 엑셀 템플릿" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/jpg-to-xltm/" name="JPG를 XLTM로 보내주세요" description="Excel 매크로 지원 템플릿" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/jpg-to-xltx/" name="JPG를 XLTX로 보내주세요" description="Office OpenXML 엑셀 템플릿" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/jpg-to-xml/" name="JPG를 XML로" description="확장 가능한 마크업 언어" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/jpg-to-xps/" name="JPG TO XPS" description="XML 용지 사양" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/jpg-to-json/" name="JPG TO JSON" description="자바스크립트 객체 표기법" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/jpg-to-xps/" name="JPG를 XPS로 보내주세요" description="XML 용지 사양" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/jpg-to-json/" name="JPG를 JSON로 보내주세요" description="자바스크립트 객체 표기법" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

@@ -1,7 +1,7 @@
 ---
 title: Python TXT tot XLTX - TXT tot XLTX Converter
-description: Aspose Excel. Python Excel. Converteer TXT snel en eenvoudig naar XLTX met Aspose.Cells. Python TXT naar XLTX. Python Bewaar TXT naar XLTX. Bewaar TXT als 076112 3481 met behulp van de Excel-bibliotheek Python.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert TXT to XLTX in Python Excel Library., Save TXT to XLTX using Python Excel Library., Python TXT to XLTX saveformat., TXT to XLTX Converter., Python Save TXT as XLTX]
+description: Aspose Excel. Deze uitgebreide oplossing biedt ontwikkelaars een volledig geïntegreerde aanpak voor het converteren van gegevens van het formaat TXT naar XLTX, waardoor naadloos opslaan van gegevens in het formaat TXT mogelijk is met behulp van de bibliotheek Aspose.Cells, allemaal via efficiënte en aanpasbare code Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart TXT files to XLTX Converter for Python., Convert TXT to XLTX in Python., TXT files to XLTX Conversion in Python., Leverage intelligent data processing to automatically parse and save TXT into XLTX format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Converteer TXT naar XLTX in de Excel-bibliotheek Python" h2="Snelle Python Excel-bibliotheek voor het converteren van TXT naar XLTX. Dit is een professionele softwareoplossing voor het importeren en exporteren van TXT, XLTX en vele andere formaten met behulp van Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLTX" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -27,7 +27,7 @@ Volg de eenvoudige stappen om TXT naar XLTX te converteren. Upload uw TXT-bestan
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Voorbeeldcode om TXT naar XLTX te converteren via de Excel-bibliotheek Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="txt" outformat="xltx" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="Voorbeeldcode om TXT naar XLTX te converteren via de Excel-bibliotheek Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="txt" outformat="xltx" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="Hoe u TXT naar XLTX kunt converteren via Python" %}}
 

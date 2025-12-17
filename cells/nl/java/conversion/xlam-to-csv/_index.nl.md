@@ -1,7 +1,7 @@
 ---
-title: XLAM naar CSV - Converteer XLAM naar CSV bestanden Java
-description: Aspose Excel. Gratis online Converteer XLAM naar CSV opslagformaat. Java XLAM tot CSV formaat. Bewaar XLAM als CSV in Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Java XLAM to CSV saveformat., Free Online XLAM to CSV Converter]
+title: Java XLAM tot CSV - XLAM tot CSV Converter
+description: Aspose Excel. Deze uitgebreide oplossing biedt ontwikkelaars een volledig geïntegreerde aanpak voor het converteren van gegevens van het formaat XLAM naar CSV, waardoor naadloos opslaan van gegevens in het formaat XLAM mogelijk is met behulp van de bibliotheek Aspose.Cells, allemaal via efficiënte en aanpasbare code Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Smart XLAM files to CSV Converter for Java., Convert XLAM to CSV in Java., XLAM files to CSV Conversion in Java., Leverage intelligent data processing to automatically parse and save XLAM into CSV format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Converteer XLAM naar CSV in Java" h2="Snelle Java-bibliotheek voor het converteren van XLAM naar CSV. Dit is een professionele softwareoplossing voor het importeren en exporteren van XLAM, CSV en vele andere formaten met behulp van Java." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="CSV" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java XLAM to CSV saveformat., Free
 
 {{% blocks/products/pf/agp/content h2="Converteer XLAM naar CSV met behulp van Java" %}}
 
-Hoe converteer ik XLAM naar CSV? Met de bibliotheek Aspose.Cells for Java kunt u XLAM eenvoudig programmatisch naar CSV converteren met een paar regels code.[Aspose.Cells for Java](https://products.aspose.com/cells/java)is in staat om platformonafhankelijke applicaties te bouwen met de mogelijkheid om alle Excel-bestanden te genereren, wijzigen, converteren, renderen en afdrukken. Java Excel API converteert niet alleen tussen spreadsheetformaten, het kan ook Excel-bestanden weergeven als afbeeldingen, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT en meer, waardoor het een perfecte keuze is om documenten uit te wisselen in industriestandaardformaten. U kunt de nieuwste versie rechtstreeks downloaden van[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) en installeer het binnen uw op Maven gebaseerde project door de volgende configuraties toe te voegen aan pom.xml.
+ Hoe converteer ik XLAM naar CSV? Met de bibliotheek Aspose.Cells for Java kunt u XLAM eenvoudig programmatisch naar CSV converteren met een paar regels code.[Aspose.Cells for Java](https://products.aspose.com/cells/java)is in staat om platformonafhankelijke applicaties te bouwen met de mogelijkheid om alle Excel-bestanden te genereren, wijzigen, converteren, renderen en afdrukken. Java Excel API converteert niet alleen tussen spreadsheetformaten, het kan ook Excel-bestanden weergeven als afbeeldingen, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT en meer, waardoor het een perfecte keuze is om documenten uit te wisselen in industriestandaardformaten. U kunt de nieuwste versie rechtstreeks downloaden van[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) en installeer het binnen uw op Maven gebaseerde project door de volgende configuraties toe te voegen aan pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Opslagplaats" offSpacer="true" %}}
 
@@ -45,9 +45,9 @@ Hoe converteer ik XLAM naar CSV? Met de bibliotheek Aspose.Cells for Java kunt u
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Bewaar XLAM t/m CSV in Java Gratis online" %}}
+{{% blocks/products/pf/agp/content h2="Sla XLAM op in CSV in Java" %}}
 
-Het volgende voorbeeld laat zien hoe u XLAM converteert naar CSV in Java.
+Het volgende voorbeeld laat zien hoe je XLAM omzet naar CSV in Java.
 {{% blocks/products/pf/agp/text %}}
 
 Volg de eenvoudige stappen om XLAM naar CSV te converteren. Upload uw XLAM-bestand en sla het vervolgens eenvoudig op als CSV-bestand. Voor zowel XLAM lezen als CSV schrijven kunt u volledig gekwalificeerde bestandsnamen gebruiken. De inhoud en opmaak van de uitvoer CSV zullen identiek zijn aan het originele document XLAM.
@@ -56,19 +56,19 @@ Volg de eenvoudige stappen om XLAM naar CSV te converteren. Upload uw XLAM-besta
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Gratis app en voorbeeldcode om XLAM online naar CSV te converteren" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlam" outformat="csv" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Voorbeeldcode om XLAM naar CSV te converteren" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="xlam" outformat="csv" IsLandingPage="true" language="java" %}}
 
-{{% blocks/products/pf/agp/content h2="Hoe XLAM naar CSV via Java te converteren" %}}
+{{% blocks/products/pf/agp/content h2="Hoe zet ik XLAM om naar CSV of via Java?" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
-Wilt u XLAM-bestanden programmatisch naar CSV converteren? Java-ontwikkelaars kunnen XLAM eenvoudig in slechts een paar regels code naar CSV converteren.
+Moet je bestanden met de extensie XLAM programmatisch converteren naar CSV? Ontwikkelaars van Java kunnen bestanden met de extensie XLAM eenvoudig converteren naar CSV met slechts een paar regels code.
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Installeer 'Aspose.Cells for Java'.
 1.  Voeg een bibliotheekreferentie toe (importeer de bibliotheek) aan uw Java-project.
-1. Laad bestand XLAM met een exemplaar van de klasse Workbook.
+1.  Laad bestand XLAM met een instantie van de klasse Workbook.
 1.  Converteer XLAM naar CSV door de Workbook.save-methode aan te roepen.
 1.  Verkrijg het conversieresultaat van XLAM naar CSV.
 
@@ -95,6 +95,12 @@ Wilt u XLAM-bestanden programmatisch naar CSV converteren? Java-ontwikkelaars ku
 
 {{% /blocks/products/pf/agp/content %}}
 
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLAM" readMoreLink="https://docs.fileformat.com/spreadsheet/xlam/" >}}XLAM is een invoegbestand met macro's dat wordt gebruikt om nieuwe functies aan spreadsheets toe te voegen. Een invoegtoepassing is een aanvullend programma dat extra code uitvoert en extra functionaliteit voor spreadsheets biedt. XLAM-bestanden worden opgeslagen met de extensie .xlam. XLAM-bestanden zijn op XML gebaseerde bestanden die lijken op de bestandsformaten XLSM en XLSX en worden opgeslagen met ZIP-compressie om de totale bestandsgrootte te verkleinen.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="CSV" readMoreLink="https://docs.fileformat.com/spreadsheet/csv/" >}}Bestanden met de extensie .csv (Comma Separated Values) vertegenwoordigen tekstbestanden die gegevensrecords bevatten met door komma's gescheiden waarden. Elke regel in een CSV-bestand is een nieuw record uit de set records in het bestand. Dergelijke bestanden worden gegenereerd wanneer gegevensoverdracht van het ene opslagsysteem naar het andere is bedoeld. Omdat alle toepassingen records kunnen herkennen, gescheiden door komma's, is het importeren van dergelijke gegevensbestanden naar de database heel gemakkelijk gedaan. Bijna alle spreadsheetprogramma's zoals Microsoft Excel of OpenOffice Calc kunnen CSV zonder veel moeite importeren. Gegevens die uit dergelijke bestanden worden geïmporteerd, worden in cellen van een spreadsheet gerangschikt voor weergave aan de gebruiker.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Andere ondersteunde conversies" subTitle="U kunt XLAM ook naar vele andere bestandsindelingen converteren, waaronder enkele hieronder vermeld." >}}
 

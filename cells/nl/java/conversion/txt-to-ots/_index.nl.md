@@ -1,7 +1,7 @@
 ---
 title: Java TXT naar OTS - TXT naar OTS-converter
-description: Aspose Excel. Converteer TXT snel en eenvoudig naar OTS met Aspose.Cells. Java TXT naar OTS. Java Bewaar TXT in OTS. Sla TXT op als OTS met behulp van Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Convert TXT to OTS in Java., Save TXT to OTS using Java., Java TXT to OTS saveformat., TXT to OTS Converter., Java Save TXT as OTS]
+description: Aspose Excel. Deze complete oplossing biedt ontwikkelaars een volledig geïntegreerde aanpak voor het converteren van gegevens naar het OTS-formaat. Hierdoor kunnen gegevens naadloos worden opgeslagen in het OTS-formaat met behulp van de bibliotheek, en dit alles via efficiënte en aanpasbare code.
+keywords: [Aspose Excel., Java Aspose.Cells., Smart TXT files to OTS Converter for Java., Convert TXT to OTS in Java., TXT files to OTS Conversion in Java., Leverage intelligent data processing to automatically parse and save TXT into OTS format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Converteer TXT naar OTS in Java" h2="Snelle Java-bibliotheek voor het converteren van TXT naar OTS. Dit is een professionele softwareoplossing voor het importeren en exporteren van TXT, OTS en vele andere formaten met behulp van Java." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="OTS" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="CSV" >}}
@@ -47,7 +47,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Convert TXT to OTS in Java., Save 
 
 {{% blocks/products/pf/agp/content h2="Sla TXT op in OTS in Java" %}}
 
-Het volgende voorbeeld laat zien hoe u TXT naar OTS converteert in Java.
+Het volgende voorbeeld laat zien hoe je TXT omzet naar OTS in Java.
 {{% blocks/products/pf/agp/text %}}
 
 Volg de eenvoudige stappen om TXT naar OTS te converteren. Upload uw TXT-bestand en sla het vervolgens eenvoudig op als OTS-bestand. Voor zowel TXT-lezen als OTS-schrijven kunt u volledig gekwalificeerde bestandsnamen gebruiken. De OTS-uitvoerinhoud en -opmaak zijn identiek aan het originele TXT-document.
@@ -56,25 +56,25 @@ Volg de eenvoudige stappen om TXT naar OTS te converteren. Upload uw TXT-bestand
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Voorbeeldcode om TXT naar OTS te converteren" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="txt" outformat="ots" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Voorbeeldcode om TXT naar OTS te converteren" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="txt" outformat="ots" IsLandingPage="true" language="java" %}}
 
-{{% blocks/products/pf/agp/content h2="Hoe TXT naar OTS via Java te converteren" %}}
+{{% blocks/products/pf/agp/content h2="Hoe converteer je TXT naar OTS via Java?" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
-Wilt u TXT-bestanden programmatisch naar OTS converteren? Java-ontwikkelaars kunnen TXT eenvoudig met slechts een paar regels code naar OTS converteren.
+Moet u TXT-bestanden programmatisch naar OTS converteren? Ontwikkelaars van Java kunnen TXT-bestanden eenvoudig in een paar regels code naar OTS converteren.
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Installeer 'Aspose.Cells for Java'.
 1.  Voeg een bibliotheekreferentie toe (importeer de bibliotheek) aan uw Java-project.
-1. Laad bestand TXT met een exemplaar van de klasse Workbook.
+1.  Laad bestand TXT met een instantie van de klasse Workbook.
 1.  Converteer TXT naar OTS door de Workbook.save-methode aan te roepen.
 1.  Verkrijg het conversieresultaat van TXT naar OTS.
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Java-bibliotheek om TXT naar OTS te converteren" %}}
+{{% blocks/products/pf/agp/content h2="Java bibliotheek om TXT naar OTS te converteren" %}}
 {{% blocks/products/pf/agp/text %}}
 
  We hosten onze Java-pakketten in[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) opslagplaatsen. 'Aspose.Cells for Java' is een veelgebruikt JAR-bestand met bytecode. Volg alstublieft de[stapsgewijze instructies](https://docs.aspose.com/cells/java/installation/) over hoe u het installeert in uw Java-ontwikkelaarsomgeving.

@@ -1,7 +1,7 @@
 ---
-title: XLAM naar JSON - Converteer XLAM naar JSON bestanden Java
-description: Aspose Excel. Gratis online Converteer XLAM naar JSON opslagformaat. Java XLAM tot JSON formaat. Bewaar XLAM als JSON in Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Java XLAM to JSON saveformat., Free Online XLAM to JSON Converter]
+title: Java XLAM tot JSON - XLAM tot JSON Converter
+description: Aspose Excel. Deze uitgebreide oplossing biedt ontwikkelaars een volledig geïntegreerde aanpak voor het converteren van gegevens van het formaat XLAM naar JSON, waardoor naadloos opslaan van gegevens in het formaat XLAM mogelijk is met behulp van de bibliotheek Aspose.Cells, allemaal via efficiënte en aanpasbare code Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Smart XLAM files to JSON Converter for Java., Convert XLAM to JSON in Java., XLAM files to JSON Conversion in Java., Leverage intelligent data processing to automatically parse and save XLAM into JSON format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Converteer XLAM naar JSON in Java" h2="Snelle Java-bibliotheek voor het converteren van XLAM naar JSON. Dit is een professionele softwareoplossing voor het importeren en exporteren van XLAM, JSON en vele andere formaten met behulp van Java." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="JSON" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Java XLAM to JSON saveformat., Fre
 
 {{% blocks/products/pf/agp/content h2="Converteer XLAM naar JSON met behulp van Java" %}}
 
-Hoe converteer ik XLAM naar JSON? Met de bibliotheek Aspose.Cells for Java kunt u XLAM eenvoudig programmatisch naar JSON converteren met een paar regels code.[Aspose.Cells for Java](https://products.aspose.com/cells/java)is in staat om platformonafhankelijke applicaties te bouwen met de mogelijkheid om alle Excel-bestanden te genereren, wijzigen, converteren, renderen en afdrukken. Java Excel API converteert niet alleen tussen spreadsheetformaten, het kan ook Excel-bestanden weergeven als afbeeldingen, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT en meer, waardoor het een perfecte keuze is om documenten uit te wisselen in industriestandaardformaten. U kunt de nieuwste versie rechtstreeks downloaden van[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) en installeer het binnen uw op Maven gebaseerde project door de volgende configuraties toe te voegen aan pom.xml.
+ Hoe converteer ik XLAM naar JSON? Met de bibliotheek Aspose.Cells for Java kunt u XLAM eenvoudig programmatisch naar JSON converteren met een paar regels code.[Aspose.Cells for Java](https://products.aspose.com/cells/java)is in staat om platformonafhankelijke applicaties te bouwen met de mogelijkheid om alle Excel-bestanden te genereren, wijzigen, converteren, renderen en afdrukken. Java Excel API converteert niet alleen tussen spreadsheetformaten, het kan ook Excel-bestanden weergeven als afbeeldingen, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT en meer, waardoor het een perfecte keuze is om documenten uit te wisselen in industriestandaardformaten. U kunt de nieuwste versie rechtstreeks downloaden van[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) en installeer het binnen uw op Maven gebaseerde project door de volgende configuraties toe te voegen aan pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Opslagplaats" offSpacer="true" %}}
 
@@ -45,9 +45,9 @@ Hoe converteer ik XLAM naar JSON? Met de bibliotheek Aspose.Cells for Java kunt 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Bewaar XLAM t/m JSON in Java Gratis online" %}}
+{{% blocks/products/pf/agp/content h2="Sla XLAM op in JSON in Java" %}}
 
-Het volgende voorbeeld laat zien hoe u XLAM converteert naar JSON in Java.
+Het volgende voorbeeld laat zien hoe je XLAM omzet naar JSON in Java.
 {{% blocks/products/pf/agp/text %}}
 
 Volg de eenvoudige stappen om XLAM naar JSON te converteren. Upload uw XLAM-bestand en sla het vervolgens eenvoudig op als JSON-bestand. Voor zowel XLAM lezen als JSON schrijven kunt u volledig gekwalificeerde bestandsnamen gebruiken. De inhoud en opmaak van de uitvoer JSON zullen identiek zijn aan het originele document XLAM.
@@ -56,19 +56,19 @@ Volg de eenvoudige stappen om XLAM naar JSON te converteren. Upload uw XLAM-best
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Gratis app en voorbeeldcode om XLAM online naar JSON te converteren" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlam" outformat="json" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Voorbeeldcode om XLAM naar JSON te converteren" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="xlam" outformat="json" IsLandingPage="true" language="java" %}}
 
-{{% blocks/products/pf/agp/content h2="Hoe XLAM naar JSON via Java te converteren" %}}
+{{% blocks/products/pf/agp/content h2="Hoe zet ik XLAM om naar JSON of via Java?" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
-Wilt u XLAM-bestanden programmatisch naar JSON converteren? Java-ontwikkelaars kunnen XLAM eenvoudig in slechts een paar regels code naar JSON converteren.
+Moet je bestanden met de extensie XLAM programmatisch converteren naar JSON? Ontwikkelaars van Java kunnen bestanden met de extensie XLAM eenvoudig converteren naar JSON met slechts een paar regels code.
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Installeer 'Aspose.Cells for Java'.
 1.  Voeg een bibliotheekreferentie toe (importeer de bibliotheek) aan uw Java-project.
-1. Laad bestand XLAM met een exemplaar van de klasse Workbook.
+1.  Laad bestand XLAM met een instantie van de klasse Workbook.
 1.  Converteer XLAM naar JSON door de Workbook.save-methode aan te roepen.
 1.  Verkrijg het conversieresultaat van XLAM naar JSON.
 
@@ -95,6 +95,12 @@ Wilt u XLAM-bestanden programmatisch naar JSON converteren? Java-ontwikkelaars k
 
 {{% /blocks/products/pf/agp/content %}}
 
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLAM" readMoreLink="https://docs.fileformat.com/spreadsheet/xlam/" >}}XLAM is een invoegbestand met macro's dat wordt gebruikt om nieuwe functies aan spreadsheets toe te voegen. Een invoegtoepassing is een aanvullend programma dat extra code uitvoert en extra functionaliteit voor spreadsheets biedt. XLAM-bestanden worden opgeslagen met de extensie .xlam. XLAM-bestanden zijn op XML gebaseerde bestanden die lijken op de bestandsformaten XLSM en XLSX en worden opgeslagen met ZIP-compressie om de totale bestandsgrootte te verkleinen.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="JSON" readMoreLink="https://docs.fileformat.com/web/json/" >}}JSON (JavaScript Object Notation) is een open standaardbestandsindeling voor het delen van gegevens waarbij voor mensen leesbare tekst wordt gebruikt om gegevens op te slaan en te verzenden. JSON-bestanden worden opgeslagen met de .json-extensie. JSON vereist minder opmaak en is een goed alternatief voor XML. JSON is afgeleid van JavaScript, maar is een taalonafhankelijk gegevensformaat. Het genereren en parseren van JSON wordt ondersteund door veel moderne programmeertalen. application/json is het mediatype dat wordt gebruikt voor JSON.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Andere ondersteunde conversies" subTitle="U kunt XLAM ook naar vele andere bestandsindelingen converteren, waaronder enkele hieronder vermeld." >}}
 

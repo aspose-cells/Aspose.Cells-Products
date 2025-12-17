@@ -1,7 +1,7 @@
 ---
 title: Python OTS から ODS - OTS から ODS へのコンバーター
-description: Aspose Excel。Python Excel。Aspose.Cells を使用して、OTS を ODS にすばやく簡単に変換します。Python OTS を ODS に変換します。Python OTS を ODS に保存します。Python Excel ライブラリを使用して、OTS を ODS として保存します。
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert OTS to ODS in Python Excel Library., Save OTS to ODS using Python Excel Library., Python OTS to ODS saveformat., OTS to ODS Converter., Python Save OTS as ODS]
+description: Aspose Excel。この包括的なソリューションは、Python開発者にOTSをODS形式に変換するための完全に統合されたアプローチを提供し、効率的でカスタマイズ可能なPythonコードを通じて、Aspose.Cellsライブラリを使用してOTSデータをODS形式にシームレスに保存することを可能にします。
+keywords: [Aspose Excel., Python Aspose.Cells., Smart OTS files to ODS Converter for Python., Convert OTS to ODS in Python., OTS files to ODS Conversion in Python., Leverage intelligent data processing to automatically parse and save OTS into ODS format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Python Excel ライブラリで OTS を ODS に変換する" h2="OTS を ODS に変換するための高速 Python Excel ライブラリ。Excel 変換 API を使用して、Python で高レベルのプラットフォームに依存しないソフトウェアを開発します。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="ODS" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -28,7 +28,7 @@ OTS を ODS に変換するには、簡単な手順に従ってください。OT
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Python Excel ライブラリを使用して OTS を ODS に変換するサンプル コード" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="ots" outformat="ods" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Python Excel ライブラリを使用して OTS を ODS に変換するサンプル コード" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="ots" outformat="ods" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="OTS を ODS に変換する方法" %}}
 

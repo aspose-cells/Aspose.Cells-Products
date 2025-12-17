@@ -1,7 +1,7 @@
 ---
 title: Python JPG naar SXC - JPG naar SXC Converter
-description: Aspose Excel. Python Excel. Converteer JPG snel en eenvoudig naar SXC met Aspose.Cells. Python JPG naar SXC. Python Sla JPG op naar SXC. Sla JPG op als SXC met behulp van de Excel-bibliotheek Python.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert JPG to SXC in Python Excel Library., Save JPG to SXC using Python Excel Library., Python JPG to SXC saveformat., JPG to SXC Converter., Python Save JPG as SXC]
+description: Aspose Excel. Deze uitgebreide oplossing biedt Python ontwikkelaars een volledig geïntegreerde aanpak voor het converteren van JPG naar SXC-formaat, waardoor naadloos opslaan van JPG-gegevens in SXC-formaat mogelijk is met behulp van de Aspose.Cells-bibliotheek, allemaal via efficiënte en aanpasbare Python-code.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart JPG files to SXC Converter for Python., Convert JPG to SXC in Python., JPG files to SXC Conversion in Python., Leverage intelligent data processing to automatically parse and save JPG into SXC format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Converteer JPG naar SXC in de Excel-bibliotheek Python" h2="Snelle Python Excel-bibliotheek voor het converteren van JPG naar SXC. Dit is een professionele softwareoplossing voor het importeren en exporteren van JPG, SXC en vele andere formaten met behulp van Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="SXC" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -27,7 +27,7 @@ Volg de eenvoudige stappen om JPG naar SXC te converteren. Upload uw JPG-bestand
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Voorbeeldcode om JPG naar SXC te converteren via de Excel-bibliotheek Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="jpg" outformat="sxc" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="Voorbeeldcode om JPG naar SXC te converteren via de Excel-bibliotheek Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="jpg" outformat="sxc" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="Hoe JPG naar SXC te converteren via Python" %}}
 

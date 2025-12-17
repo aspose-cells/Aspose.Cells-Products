@@ -1,7 +1,7 @@
 ---
 title: Python JPG から XLT - JPG から XLT へのコンバーター
-description: Aspose Excel。Python Excel。Aspose.Cells を使用して、JPG を XLT にすばやく簡単に変換します。Python JPG を XLT に変換します。Python JPG を XLT に保存します。Python Excel ライブラリを使用して、JPG を XLT として保存します。
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert JPG to XLT in Python Excel Library., Save JPG to XLT using Python Excel Library., Python JPG to XLT saveformat., JPG to XLT Converter., Python Save JPG as XLT]
+description: Aspose Excel。この包括的なソリューションは、Python開発者にJPGをXLT形式に変換するための完全に統合されたアプローチを提供し、効率的でカスタマイズ可能なPythonコードを通じて、Aspose.Cellsライブラリを使用してJPGデータをXLT形式にシームレスに保存することを可能にします。
+keywords: [Aspose Excel., Python Aspose.Cells., Smart JPG files to XLT Converter for Python., Convert JPG to XLT in Python., JPG files to XLT Conversion in Python., Leverage intelligent data processing to automatically parse and save JPG into XLT format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Python Excel ライブラリで JPG を XLT に変換する" h2="JPG を XLT に変換するための高速 Python Excel ライブラリ。Excel 変換 API を使用して、Python で高レベルのプラットフォームに依存しないソフトウェアを開発します。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLT" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -28,7 +28,7 @@ JPG を XLT に変換するには、簡単な手順に従ってください。JP
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Python Excel ライブラリを使用して JPG を XLT に変換するサンプル コード" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="jpg" outformat="xlt" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Python Excel ライブラリを使用して JPG を XLT に変換するサンプル コード" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="jpg" outformat="xlt" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="JPGをXLTに変換する方法" %}}
 

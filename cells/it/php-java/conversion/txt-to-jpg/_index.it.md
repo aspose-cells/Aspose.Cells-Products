@@ -1,7 +1,7 @@
 ---
 title: Convertitore da PHP TXT a JPG - TXT a JPG
-description: Aspose Excel. Converti TXT in JPG in modo rapido e semplice con Aspose.Cells. PHP TXT in JPG. PHP Salva TXT in JPG. Salva TXT come JPG utilizzando PHP.
-keywords: [Aspose Excel., PHP Aspose.Cells., Convert TXT to JPG in PHP., Save TXT to JPG using PHP., PHP TXT to JPG saveformat., TXT to JPG Converter., PHP Save TXT as JPG]
+description: Aspose Excel. Questa soluzione completa fornisce agli sviluppatori PHP un approccio completamente integrato per convertire TXT in formato JPG, consentendo il salvataggio senza interruzioni dei dati TXT in formato JPG utilizzando la libreria Aspose.Cells, il tutto tramite codice PHP efficiente e personalizzabile.
+keywords: [Aspose Excel., PHP Aspose.Cells., Smart TXT files to JPG Converter for PHP., Convert TXT to JPG in PHP., TXT files to JPG Conversion in PHP., Leverage intelligent data processing to automatically parse and save TXT into JPG format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Converti TXT in JPG in PHP" h2="Libreria PHP ad alta velocità per convertire TXT in JPG. Questa è una soluzione software professionale per importare ed esportare TXT, JPG e molti altri formati utilizzando PHP." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-php-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="JPG" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., PHP Aspose.Cells., Convert TXT to JPG in PHP., Save TX
 
 {{% blocks/products/pf/agp/content h2="Converti TXT in JPG utilizzando PHP" %}}
 
- Come converto TXT in JPG? Con la libreria Aspose.Cells for PHP via Java, puoi convertire facilmente TXT in JPG a livello di codice con poche righe di codice.[Aspose.Cells for PHP via Java](https://products.aspose.com/cells/php-java/) è in grado di creare applicazioni multipiattaforma con la capacità di generare, modificare, convertire, eseguire il rendering e stampare tutti i file Excel. PHP Excel API non solo converte tra formati di foglio di calcolo, ma può anche eseguire il rendering di file Excel come immagini, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT e altro, rendendolo quindi una scelta perfetta per lo scambio di documenti in formati standard del settore.
+ Come converto TXT in JPG? Con la libreria Aspose.Cells for PHP via Java, puoi convertire facilmente TXT in JPG programmaticamente con poche righe di codice.[Aspose.Cells for PHP via Java](https://products.aspose.com/cells/php-java/) È in grado di creare applicazioni multipiattaforma con la capacità di generare, modificare, convertire, visualizzare e stampare tutti i file Excel. PHP Excel API non solo converte tra formati di fogli di calcolo, ma può anche visualizzare i file Excel come immagini, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT e altro ancora, rendendolo la scelta perfetta per lo scambio di documenti nei formati standard del settore.
  
 {{% /blocks/products/pf/agp/content %}}
 
@@ -27,20 +27,20 @@ Segui i semplici passaggi per convertire TXT in JPG. Carica il tuo file TXT, qui
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Codice di esempio per convertire TXT in JPG" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="txt" outformat="jpg" IsLandingPage="true" language="phpjava" %}}
+{{% cells-convert title="Codice di esempio per convertire TXT in JPG" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="txt" outformat="jpg" IsLandingPage="true" language="phpjava" %}}
 
 {{% blocks/products/pf/agp/content h2="Come convertire TXT in JPG tramite PHP" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
-Hai bisogno di convertire i file TXT in JPG a livello di codice? Gli sviluppatori PHP possono caricare e convertire facilmente TXT in JPG in poche righe di codice.
+Hai bisogno di convertire i file TXT in JPG tramite codice? Gli sviluppatori PHP possono caricare e convertire facilmente i file TXT in JPG in poche righe di codice.
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Installa 'Aspose.Cells for PHP via Java'.
 1.  Aggiungi un riferimento alla libreria (importa la libreria) al tuo progetto PHP.
 1.  Carica il file TXT con un'istanza di Workbook.
-1. Converti TXT in JPG chiamando il metodo di salvataggio della cartella di lavoro.
+1.  Converti TXT in JPG chiamando il metodo save di Workbook.
 1.  Ottieni il risultato della conversione da TXT a JPG.
 
 {{% /blocks/products/pf/agp/content %}}
@@ -63,7 +63,7 @@ Esistono tre opzioni per installare "Aspose.Cells for PHP via Java" sul tuo sist
 
 {{% blocks/products/pf/agp/text %}}
 
-Aspose.Cells for PHP via Java è indipendente dalla piattaforma API e può essere utilizzato su qualsiasi piattaforma (Windows, Linux, MacOS ecc.) su cui è installato PHP 7 o versioni successive. La macchina deve disporre di Oracle JDK 7 o versioni successive prima di configurare l'installazione.
+ Aspose.Cells for PHP via Java è indipendente dalla piattaforma API e può essere utilizzato su qualsiasi piattaforma (Windows, Linux, macOS ecc.) su cui sia installato PHP 7 o versioni successive. Il computer deve disporre di Oracle JDK 7 o versioni successive prima di poter configurare l'installazione.
  
 {{% /blocks/products/pf/agp/text %}}
 
@@ -82,7 +82,7 @@ Aspose.Cells for PHP via Java è indipendente dalla piattaforma API e può esser
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/php-java/conversion/txt-to-bmp/" name="dallo TXT allo BMP" description="Immagine bitmap" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/php-java/conversion/txt-to-emf/" name="dallo TXT allo EMF" description="Formato metafile avanzato" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/php-java/conversion/txt-to-gif/" name="dallo TXT allo GIF" description="Formato di interscambio grafico" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/php-java/conversion/txt-to-html/" name="dallo TXT allo HTML" description="Hyper Text Markup Language" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/php-java/conversion/txt-to-html/" name="dallo TXT allo HTML" description="Linguaggio di markup ipertestuale" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/php-java/conversion/txt-to-md/" name="TXT AL MD" description="Linguaggio di ribasso" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/php-java/conversion/txt-to-mhtml/" name="dallo TXT allo MHTML" description="Formato di archivio delle pagine Web" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/php-java/conversion/txt-to-ods/" name="dallo TXT allo ODS" description="File di foglio di calcolo OpenDocument" >}}

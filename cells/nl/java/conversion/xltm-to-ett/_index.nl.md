@@ -1,7 +1,7 @@
 ---
 title: Java XLTM naar ETT - XLTM naar ETT-converter
-description: Aspose Excel. Converteer XLTM snel en eenvoudig naar ETT met Aspose.Cells. Java XLTM naar ETT. Java Bewaar XLTM in ETT. Sla XLTM op als ETT met Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Convert XLTM to ETT in Java., Save XLTM to ETT using Java., Java XLTM to ETT saveformat., XLTM to ETT Converter., Java Save XLTM as ETT]
+description: Aspose Excel. Deze complete oplossing biedt ontwikkelaars een volledig geïntegreerde aanpak voor het converteren van gegevens naar ETT-formaat. Hierdoor kunnen gegevens naadloos worden opgeslagen in ETT-formaat met behulp van de bibliotheek, en dit alles via efficiënte en aanpasbare code.
+keywords: [Aspose Excel., Java Aspose.Cells., Smart XLTM files to ETT Converter for Java., Convert XLTM to ETT in Java., XLTM files to ETT Conversion in Java., Leverage intelligent data processing to automatically parse and save XLTM into ETT format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Converteer XLTM naar ETT in Java" h2="Snelle Java-bibliotheek voor het converteren van XLTM naar ETT. Dit is een professionele softwareoplossing voor het importeren en exporteren van XLTM, ETT en vele andere formaten met behulp van Java." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="ETT" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="CSV" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., Java Aspose.Cells., Convert XLTM to ETT in Java., Save
 
 {{% blocks/products/pf/agp/content h2="Converteer XLTM naar ETT met behulp van Java" %}}
 
-Hoe converteer ik XLTM naar ETT? Met de bibliotheek Aspose.Cells en for Java kunt u XLTM eenvoudig programmatisch naar ETT converteren met een paar regels code.[Aspose.Cells for Java](https://products.aspose.com/cells/java)is in staat om platformonafhankelijke applicaties te bouwen met de mogelijkheid om alle Excel-bestanden te genereren, wijzigen, converteren, renderen en afdrukken. Java Excel API converteert niet alleen tussen spreadsheetformaten, het kan ook Excel-bestanden weergeven als afbeeldingen, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT en meer, waardoor het een perfecte keuze is om documenten uit te wisselen in industriestandaardformaten. U kunt de nieuwste versie rechtstreeks downloaden van[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) en installeer het binnen uw op Maven gebaseerde project door de volgende configuraties toe te voegen aan pom.xml.
+ Hoe converteer ik XLTM naar ETT? Met de bibliotheek Aspose.Cells en for Java kunt u XLTM eenvoudig programmatisch naar ETT converteren met een paar regels code.[Aspose.Cells for Java](https://products.aspose.com/cells/java)is in staat om platformonafhankelijke applicaties te bouwen met de mogelijkheid om alle Excel-bestanden te genereren, wijzigen, converteren, renderen en afdrukken. Java Excel API converteert niet alleen tussen spreadsheetformaten, het kan ook Excel-bestanden weergeven als afbeeldingen, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT en meer, waardoor het een perfecte keuze is om documenten uit te wisselen in industriestandaardformaten. U kunt de nieuwste versie rechtstreeks downloaden van[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) en installeer het binnen uw op Maven gebaseerde project door de volgende configuraties toe te voegen aan pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Opslagplaats" offSpacer="true" %}}
 
@@ -47,7 +47,7 @@ Hoe converteer ik XLTM naar ETT? Met de bibliotheek Aspose.Cells en for Java kun
 
 {{% blocks/products/pf/agp/content h2="Sla XLTM op in ETT in Java" %}}
 
-Het volgende voorbeeld laat zien hoe u XLTM naar ETT converteert in Java.
+Het volgende voorbeeld laat zien hoe je XLTM omzet naar ETT in Java.
 {{% blocks/products/pf/agp/text %}}
 
 Volg de eenvoudige stappen om XLTM naar ETT te converteren. Upload uw XLTM-bestand en sla het vervolgens eenvoudig op als ETT-bestand. Voor zowel XLTM-lezen als ETT-schrijven kunt u volledig gekwalificeerde bestandsnamen gebruiken. De uitvoer-ETT-inhoud en opmaak zijn identiek aan het originele XLTM-document.
@@ -56,19 +56,19 @@ Volg de eenvoudige stappen om XLTM naar ETT te converteren. Upload uw XLTM-besta
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Voorbeeldcode om XLTM naar ETT te converteren" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xltm" outformat="ett" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Voorbeeldcode om XLTM naar ETT te converteren" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="xltm" outformat="ett" IsLandingPage="true" language="java" %}}
 
-{{% blocks/products/pf/agp/content h2="Hoe XLTM naar ETT via Java te converteren" %}}
+{{% blocks/products/pf/agp/content h2="Hoe zet ik XLTM om naar ETT via Java?" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
-Wilt u XLTM-bestanden programmatisch naar ETT converteren? Java-ontwikkelaars kunnen XLTM eenvoudig met slechts een paar regels code naar ETT converteren.
+Moet u XLTM-bestanden programmatisch naar ETT converteren? Ontwikkelaars van Java kunnen XLTM-bestanden eenvoudig in een paar regels code naar ETT converteren.
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Installeer 'Aspose.Cells for Java'.
 1.  Voeg een bibliotheekreferentie toe (importeer de bibliotheek) aan uw Java-project.
-1. Laad bestand XLTM met een exemplaar van de klasse Workbook.
+1.  Laad bestand XLTM met een instantie van de klasse Workbook.
 1.  Converteer XLTM naar ETT door de Workbook.save-methode aan te roepen.
 1.  Verkrijg het conversieresultaat van XLTM naar ETT.
 

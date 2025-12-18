@@ -1,7 +1,7 @@
 ---
 title: Python XLSX a XPS - XLSX a XPS Conversor
-description: Aspose Excel. Python Excel. Converta XLSX em XPS de forma rápida e fácil com Aspose.Cells. Python XLSX em XPS. Python Salve XLSX em XPS. Salve XLSX como 076112 3481 usando Python Biblioteca Excel.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert XLSX to XPS in Python Excel Library., Save XLSX to XPS using Python Excel Library., Python XLSX to XPS saveformat., XLSX to XPS Converter., Python Save XLSX as XPS]
+description: Aspose Excel. Esta solução abrangente fornece aos desenvolvedores Python uma abordagem totalmente integrada para converter XLSX para o formato XPS, permitindo o salvamento perfeito de dados XLSX no formato XPS usando a biblioteca Aspose.Cells, tudo por meio de código Python eficiente e personalizável.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart XLSX files to XPS Converter for Python., Convert XLSX to XPS in Python., XLSX files to XPS Conversion in Python., Leverage intelligent data processing to automatically parse and save XLSX into XPS format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Converta XLSX em XPS na Biblioteca Excel Python" h2="Biblioteca Excel Python de alta velocidade para converter XLSX em XPS. Esta é uma solução de software profissional para importar e exportar XLSX, XPS e muitos outros formatos usando Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="XPS" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -27,7 +27,7 @@ Siga as etapas fáceis para converter XLSX em XPS. Carregue seu arquivo XLSX e s
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Exemplo de código para converter XLSX em XPS por meio da biblioteca Python Excel" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsx" outformat="xps" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="Exemplo de código para converter XLSX em XPS por meio da biblioteca Python Excel" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="xlsx" outformat="xps" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="Como converter XLSX em XPS por meio de Python" %}}
 
@@ -101,7 +101,7 @@ Aspose.Cells for Python via Java é independente de plataforma API e pode ser us
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xlsx-to-xlt/" name="XLSX A XLT" description="Microsoft Modelo Excel" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xlsx-to-xltm/" name="XLSX A XLTM" description="Modelo habilitado para macro do Excel" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xlsx-to-xltx/" name="XLSX A XLTX" description="Modelo Office OpenXML Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xlsx-to-xml/" name="XLSX PARA XML" description="Extensible Markup Language" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xlsx-to-xml/" name="XLSX PARA XML" description="Linguagem de Marcação Extensível" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xlsx-to-xps/" name="XLSX A XPS" description="Especificações do papel XML" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xlsx-to-json/" name="XLSX A JSON" description="Notação de objeto JavaScript" >}}
 

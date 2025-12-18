@@ -1,7 +1,7 @@
 ---
 title: Python XML в SQL - Конвертер XML в SQL
-description: Aspose Эксель. Python Эксель. Преобразуйте XML в SQL быстро и легко с помощью Aspose.Cells. Python XML в SQL. Python Сохраните XML в SQL. Сохраните XML как SQL, используя библиотеку Excel Python.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert XML to SQL in Python Excel Library., Save XML to SQL using Python Excel Library., Python XML to SQL saveformat., XML to SQL Converter., Python Save XML as SQL]
+description: Aspose Excel. Это комплексное решение предоставляет разработчикам Python полностью интегрированный подход к преобразованию XML в формат SQL, обеспечивая беспрепятственное сохранение XML-данных в формат SQL с использованием библиотеки Aspose.Cells, и все это с помощью эффективного и настраиваемого кода Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart XML files to SQL Converter for Python., Convert XML to SQL in Python., XML files to SQL Conversion in Python., Leverage intelligent data processing to automatically parse and save XML into SQL format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Преобразование XML в SQL в библиотеке Excel Python" h2="Высокоскоростная библиотека Excel Python для преобразования XML в SQL. Это профессиональное программное решение для импорта и экспорта XML, SQL и многих других форматов с использованием Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="SQL" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -27,7 +27,7 @@ keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert X
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Пример кода для преобразования XML в SQL с помощью библиотеки Excel Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xml" outformat="sql" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="Пример кода для преобразования XML в SQL с помощью библиотеки Excel Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="xml" outformat="sql" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="Как конвертировать XML в SQL по номеру Python" %}}
 

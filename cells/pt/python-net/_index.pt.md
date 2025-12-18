@@ -1,8 +1,8 @@
 ---
-title:  Python Planilha Excel API - Aspose
+title: Planilha do Excel Python - API - Aspose.Cells - for Python - via .NET
 weight: 2800
-description: Biblioteca Python para criar, reparar, mesclar, analisar e converter arquivos Excel. Converta Excel para PDF, JSON, HTML, TXT e outros formatos populares.
-keywords: [Python Aspose.Cells Create repair merge convert JSON Excel XML PDF HTML TSV SQL ODS CSV TSV PNG JPEG and more formats]
+description: A biblioteca Aspose.Cells for Python via .NET permite criar, reparar, mesclar, analisar e converter arquivos Excel. Esta poderosa biblioteca API oferece uma solução simplificada e eficiente para criar, reparar, mesclar, analisar e converter arquivos Excel, atendendo com alta precisão às necessidades específicas dos desenvolvedores.
+keywords: [Aspose.Cells for Python via .NET Create repair merge convert JSON Excel XML PDF HTML TSV SQL ODS CSV TSV PNG JPEG and more formats]
 ---
 {{< blocks/products/pf/main-wrap-class >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Python APIs de análise de planilhas do Excel" h2="Gere, leia, escreva ou manipule planilhas, bem como exporte arquivos Excel para vários formatos nos aplicativos Python." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/cells/headers/aspose_cells-for-python-via-net.svg" pfName="Aspose.Cells" subTitlepfName="for Python via .NET" downloadUrl="https://releases.aspose.com/cells/python-net/" >}}

@@ -1,7 +1,7 @@
 ---
 title: Python TABDELIMITED na SVG - TABDELIMITED na SVG Konwerter
-description: Aspose Excel. Python Excel. TabDelimited na SVG szybko i łatwo za pomocą Aspose.Cells. Python TabDelimited na SVG. Python Zapisz tabdelimited do biblioteki SVG.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert TABDELIMITED to SVG in Python Excel Library., Save TABDELIMITED to SVG using Python Excel Library., Python TABDELIMITED to SVG saveformat., TABDELIMITED to SVG Converter., Python Save TABDELIMITED as SVG]
+description: Aspose Excel. To kompleksowe rozwiązanie zapewnia programistom w pełni zintegrowane podejście do konwersji danych TABDELIMITED do formatu SVG, umożliwiając bezproblemowe zapisywanie danych TABDELIMITED do formatu SVG za pomocą biblioteki Aspose.Cells, a wszystko to dzięki wydajnemu i konfigurowalnemu kodowi Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart TABDELIMITED files to SVG Converter for Python., Convert TABDELIMITED to SVG in Python., TABDELIMITED files to SVG Conversion in Python., Leverage intelligent data processing to automatically parse and save TABDELIMITED into SVG format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Konwertuj TABDELIMITED na SVG w Python Bibliotece Excel" h2="Szybka biblioteka Excel Python do konwersji TABDELIMITED na SVG. Jest to profesjonalne oprogramowanie do importowania i eksportowania TABDELIMITED, SVG i wielu innych formatów przy użyciu Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="SVG" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -27,7 +27,7 @@ Wykonaj proste kroki, aby przekonwertować TABDELIMITED na SVG. Prześlij plik T
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Przykładowy kod do konwersji TABDELIMITED na SVG za pośrednictwem biblioteki Excel Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="tsv" outformat="svg" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="Przykładowy kod do konwersji TABDELIMITED na SVG za pośrednictwem biblioteki Excel Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="tsv" outformat="svg" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="Jak przekonwertować TABDELIMITED na SVG przez Python" %}}
 

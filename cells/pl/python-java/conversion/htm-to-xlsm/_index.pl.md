@@ -1,7 +1,7 @@
 ---
 title: Python HTM na XLSM - Konwerter HTM na XLSM
-description: Aspose Excel. Python Excel. Konwertuj HTM na XLSM szybko i łatwo za pomocą Aspose.Cells. Python HTM na XLSM. Python Zapisz HTM na XLSM. Zapisz HTM jako XLSM, korzystając z biblioteki Excel Python.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert HTM to XLSM in Python Excel Library., Save HTM to XLSM using Python Excel Library., Python HTM to XLSM saveformat., HTM to XLSM Converter., Python Save HTM as XLSM]
+description: Aspose Excel. To kompleksowe rozwiązanie zapewnia programistom w pełni zintegrowane podejście do konwersji plików HTM do formatu XLSM, umożliwiając bezproblemowe zapisywanie danych HTM do formatu XLSM za pomocą biblioteki Aspose.Cells, a wszystko to dzięki wydajnemu i konfigurowalnemu kodowi Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart HTM files to XLSM Converter for Python., Convert HTM to XLSM in Python., HTM files to XLSM Conversion in Python., Leverage intelligent data processing to automatically parse and save HTM into XLSM format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Konwertuj HTM na XLSM w Python Biblioteka Excel" h2="Szybka biblioteka Excel Python do konwersji HTM na XLSM. Jest to profesjonalne oprogramowanie do importowania i eksportowania HTM, XLSM i wielu innych formatów przy użyciu Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSM" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -27,7 +27,7 @@ Wykonaj proste kroki, aby przekonwertować plik HTM na XLSM. Prześlij plik HTM,
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Przykładowy kod do konwersji HTM na XLSM za pośrednictwem biblioteki Excel Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="htm" outformat="xlsm" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="Przykładowy kod do konwersji HTM na XLSM za pośrednictwem biblioteki Excel Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="htm" outformat="xlsm" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="Jak przekonwertować HTM na XLSM przez Python" %}}
 

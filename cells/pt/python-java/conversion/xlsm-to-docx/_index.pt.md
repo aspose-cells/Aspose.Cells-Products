@@ -1,7 +1,7 @@
 ---
 title: Python XLSM a DOCX - XLSM a DOCX Conversor
-description: Aspose Excel. Python Excel. Converta XLSM em DOCX de forma rápida e fácil com Aspose.Cells. Python XLSM em DOCX. Python Salve XLSM em DOCX. Salve XLSM como 076112 3481 usando Python Biblioteca Excel.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert XLSM to DOCX in Python Excel Library., Save XLSM to DOCX using Python Excel Library., Python XLSM to DOCX saveformat., XLSM to DOCX Converter., Python Save XLSM as DOCX]
+description: Aspose Excel. Esta solução abrangente fornece aos desenvolvedores Python uma abordagem totalmente integrada para converter XLSM para o formato DOCX, permitindo o salvamento perfeito de dados XLSM no formato DOCX usando a biblioteca Aspose.Cells, tudo por meio de código Python eficiente e personalizável.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart XLSM files to DOCX Converter for Python., Convert XLSM to DOCX in Python., XLSM files to DOCX Conversion in Python., Leverage intelligent data processing to automatically parse and save XLSM into DOCX format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Converta XLSM em DOCX na Biblioteca Excel Python" h2="Biblioteca Excel Python de alta velocidade para converter XLSM em DOCX. Esta é uma solução de software profissional para importar e exportar XLSM, DOCX e muitos outros formatos usando Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="DOCX" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -27,7 +27,7 @@ Siga as etapas fáceis para converter XLSM em DOCX. Carregue seu arquivo XLSM e 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Exemplo de código para converter XLSM em DOCX por meio da biblioteca Python Excel" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsm" outformat="docx" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="Exemplo de código para converter XLSM em DOCX por meio da biblioteca Python Excel" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="xlsm" outformat="docx" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="Como converter XLSM em DOCX por meio de Python" %}}
 
@@ -101,7 +101,7 @@ Aspose.Cells for Python via Java é independente de plataforma API e pode ser us
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xlsm-to-xlt/" name="XLSM A XLT" description="Microsoft Modelo Excel" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xlsm-to-xltm/" name="XLSM A XLTM" description="Modelo habilitado para macro do Excel" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xlsm-to-xltx/" name="XLSM A XLTX" description="Modelo Office OpenXML Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xlsm-to-xml/" name="XLSM PARA XML" description="Extensible Markup Language" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xlsm-to-xml/" name="XLSM PARA XML" description="Linguagem de Marcação Extensível" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xlsm-to-xps/" name="XLSM A XPS" description="Especificações do papel XML" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xlsm-to-json/" name="XLSM A JSON" description="Notação de objeto JavaScript" >}}
 

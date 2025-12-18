@@ -1,7 +1,7 @@
 ---
 title: Python ИЗОБРАЖЕНИЕ в DIF - ИЗОБРАЖЕНИЕ в DIF Конвертер
-description: Aspose Эксель. Python Эксель. Быстро и легко конвертируйте ИЗОБРАЖЕНИЕ в DIF с помощью Aspose.Cells. Python ИЗОБРАЖЕНИЕ в DIF. Python Сохраните ИЗОБРАЖЕНИЕ в DIF. Сохраните ИЗОБРАЖЕНИЕ как DIF, используя библиотеку Excel Python.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert IMAGE to DIF in Python Excel Library., Save IMAGE to DIF using Python Excel Library., Python IMAGE to DIF saveformat., IMAGE to DIF Converter., Python Save IMAGE as DIF]
+description: Aspose Excel. Это комплексное решение предоставляет разработчикам Python полностью интегрированный подход к преобразованию IMAGE в формат DIF, обеспечивая беспрепятственное сохранение данных IMAGE в формат DIF с использованием библиотеки Aspose.Cells, и все это с помощью эффективного и настраиваемого кода Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart IMAGE files to DIF Converter for Python., Convert IMAGE to DIF in Python., IMAGE files to DIF Conversion in Python., Leverage intelligent data processing to automatically parse and save IMAGE into DIF format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Преобразуйте ИЗОБРАЖЕНИЕ в DIF в библиотеке Excel Python." h2="Высокоскоростная библиотека Excel Python для преобразования IMAGE в DIF. Это профессиональное программное решение для импорта и экспорта IMAGE, DIF и многих других форматов с использованием Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="DIF" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -27,7 +27,7 @@ keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert I
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Пример кода для преобразования IMAGE в DIF с помощью библиотеки Excel Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="png" outformat="dif" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="Пример кода для преобразования IMAGE в DIF с помощью библиотеки Excel Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="png" outformat="dif" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="Как конвертировать IMAGE в DIF через Python" %}}
 

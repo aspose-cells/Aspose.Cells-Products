@@ -1,7 +1,7 @@
 ---
 title: Python CSV a XLAM - CSV a XLAM Conversor
-description: Aspose Excel. Python Excel. Converta CSV em XLAM de forma rápida e fácil com Aspose.Cells. Python CSV em XLAM. Python Salve CSV em XLAM. Salve CSV como 076112 3481 usando Python Biblioteca Excel.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert CSV to XLAM in Python Excel Library., Save CSV to XLAM using Python Excel Library., Python CSV to XLAM saveformat., CSV to XLAM Converter., Python Save CSV as XLAM]
+description: Aspose Excel. Esta solução abrangente fornece aos desenvolvedores Python uma abordagem totalmente integrada para converter CSV para o formato XLAM, permitindo o salvamento perfeito de dados CSV no formato XLAM usando a biblioteca Aspose.Cells, tudo por meio de código Python eficiente e personalizável.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart CSV files to XLAM Converter for Python., Convert CSV to XLAM in Python., CSV files to XLAM Conversion in Python., Leverage intelligent data processing to automatically parse and save CSV into XLAM format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Converta CSV em XLAM na Biblioteca Excel Python" h2="Biblioteca Excel Python de alta velocidade para converter CSV em XLAM. Use nossa conversão Excel API para desenvolver software independente de plataforma de alto nível em Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLAM" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -28,7 +28,7 @@ Siga as etapas fáceis para converter CSV em XLAM. Carregue seu arquivo CSV e si
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Exemplo de código para converter CSV em XLAM por meio da biblioteca Python Excel" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="csv" outformat="xlam" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Exemplo de código para converter CSV em XLAM por meio da biblioteca Python Excel" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="csv" outformat="xlam" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="Como converter CSV em XLAM" %}}
 
@@ -99,7 +99,7 @@ Aspose.Cells for Python via NET é independente de plataforma API e pode ser usa
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/csv-to-xlt/" name="CSV A XLT" description="Microsoft Modelo Excel" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/csv-to-xltm/" name="CSV A XLTM" description="Modelo habilitado para macro do Excel" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/csv-to-xltx/" name="CSV A XLTX" description="Modelo Office OpenXML Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/csv-to-xml/" name="CSV PARA XML" description="Extensible Markup Language" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/csv-to-xml/" name="CSV PARA XML" description="Linguagem de Marcação Extensível" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/csv-to-xps/" name="CSV A XPS" description="Especificações do papel XML" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/csv-to-json/" name="CSV A JSON" description="Notação de objeto JavaScript" >}}
 

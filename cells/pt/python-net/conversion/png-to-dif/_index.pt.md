@@ -1,7 +1,7 @@
 ---
 title: Python PNG a DIF - PNG a DIF Conversor
-description: Aspose Excel. Python Excel. Converta PNG em DIF de forma rápida e fácil com Aspose.Cells. Python PNG em DIF. Python Salve PNG em DIF. Salve PNG como 076112 3481 usando Python Biblioteca Excel.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert PNG to DIF in Python Excel Library., Save PNG to DIF using Python Excel Library., Python PNG to DIF saveformat., PNG to DIF Converter., Python Save PNG as DIF]
+description: Aspose Excel. Esta solução abrangente fornece aos desenvolvedores Python uma abordagem totalmente integrada para converter PNG para o formato DIF, permitindo o salvamento perfeito de dados PNG no formato DIF usando a biblioteca Aspose.Cells, tudo por meio de código Python eficiente e personalizável.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart PNG files to DIF Converter for Python., Convert PNG to DIF in Python., PNG files to DIF Conversion in Python., Leverage intelligent data processing to automatically parse and save PNG into DIF format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Converta PNG em DIF na Biblioteca Excel Python" h2="Biblioteca Excel Python de alta velocidade para converter PNG em DIF. Use nossa conversão Excel API para desenvolver software independente de plataforma de alto nível em Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="DIF" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -28,7 +28,7 @@ Siga as etapas fáceis para converter PNG em DIF. Carregue seu arquivo PNG e sim
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Exemplo de código para converter PNG em DIF por meio da biblioteca Python Excel" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="png" outformat="dif" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Exemplo de código para converter PNG em DIF por meio da biblioteca Python Excel" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="png" outformat="dif" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="Como converter PNG em DIF" %}}
 
@@ -99,7 +99,7 @@ Aspose.Cells for Python via NET é independente de plataforma API e pode ser usa
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/png-to-xlt/" name="PNG A XLT" description="Microsoft Modelo Excel" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/png-to-xltm/" name="PNG A XLTM" description="Modelo habilitado para macro do Excel" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/png-to-xltx/" name="PNG A XLTX" description="Modelo Office OpenXML Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/png-to-xml/" name="PNG PARA XML" description="Extensible Markup Language" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/png-to-xml/" name="PNG PARA XML" description="Linguagem de Marcação Extensível" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/png-to-xps/" name="PNG A XPS" description="Especificações do papel XML" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/png-to-json/" name="PNG A JSON" description="Notação de objeto JavaScript" >}}
 

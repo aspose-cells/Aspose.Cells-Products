@@ -1,7 +1,7 @@
 ---
 title: Python PRN para JPEG - Conversor PRN para JPEG
-description: Aspose Excel. Python Excel. Converta PRN em JPEG de forma rápida e fácil com Aspose.Cells. Python PRN em JPEG. Python Salve PRN em JPEG. Salve PRN como JPEG usando Python Excel Library.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert PRN to JPEG in Python Excel Library., Save PRN to JPEG using Python Excel Library., Python PRN to JPEG saveformat., PRN to JPEG Converter., Python Save PRN as JPEG]
+description: Aspose Excel. Esta solução abrangente fornece aos desenvolvedores Python uma abordagem totalmente integrada para converter PRN para o formato JPEG, permitindo o salvamento perfeito de dados PRN no formato JPEG usando a biblioteca Aspose.Cells, tudo por meio de código Python eficiente e personalizável.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart PRN files to JPEG Converter for Python., Convert PRN to JPEG in Python., PRN files to JPEG Conversion in Python., Leverage intelligent data processing to automatically parse and save PRN into JPEG format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Converta PRN em JPEG na Biblioteca Excel Python" h2="Biblioteca Excel Python de alta velocidade para converter PRN em JPEG. Esta é uma solução de software profissional para importar e exportar PRN, JPEG e muitos outros formatos usando Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="JPEG" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -27,7 +27,7 @@ Siga as etapas fáceis para converter PRN em JPEG. Carregue seu arquivo PRN e si
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Exemplo de código para converter PRN em JPEG por meio da biblioteca Excel Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="prn" outformat="jpg" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="Exemplo de código para converter PRN em JPEG por meio da biblioteca Excel Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="prn" outformat="jpg" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="Como converter PRN para JPEG via Python" %}}
 
@@ -101,7 +101,7 @@ Aspose.Cells for Python via Java é independente de plataforma API e pode ser us
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/prn-to-xlt/" name="PRN PARA XLT" description="Microsoft Modelo Excel" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/prn-to-xltm/" name="PRN PARA XLTM" description="Modelo habilitado para macro do Excel" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/prn-to-xltx/" name="PRN PARA XLTX" description="Modelo Office OpenXML Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/prn-to-xml/" name="PRN PARA XML" description="Extensible Markup Language" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/prn-to-xml/" name="PRN PARA XML" description="Linguagem de Marcação Extensível" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/prn-to-xps/" name="PRN PARA XPS" description="Especificações do papel XML" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/prn-to-json/" name="PRN PARA JSON" description="Notação de objeto JavaScript" >}}
 

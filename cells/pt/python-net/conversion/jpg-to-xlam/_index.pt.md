@@ -1,7 +1,7 @@
 ---
 title: Python JPG para XLAM - Conversor JPG para XLAM
-description: Aspose Excel. Python Excel. Converta JPG para XLAM de forma rápida e fácil com Aspose.Cells. Python JPG para XLAM. Python Salve JPG em XLAM. Salve JPG como XLAM usando a Biblioteca Excel Python.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert JPG to XLAM in Python Excel Library., Save JPG to XLAM using Python Excel Library., Python JPG to XLAM saveformat., JPG to XLAM Converter., Python Save JPG as XLAM]
+description: Aspose Excel. Esta solução abrangente fornece aos desenvolvedores Python uma abordagem totalmente integrada para converter JPG para o formato XLAM, permitindo o salvamento perfeito de dados JPG no formato XLAM usando a biblioteca Aspose.Cells, tudo por meio de código Python eficiente e personalizável.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart JPG files to XLAM Converter for Python., Convert JPG to XLAM in Python., JPG files to XLAM Conversion in Python., Leverage intelligent data processing to automatically parse and save JPG into XLAM format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Converta JPG para XLAM na Biblioteca Excel Python" h2="Biblioteca Excel Python de alta velocidade para converter JPG em XLAM. Use nossa conversão Excel API para desenvolver software independente de plataforma de alto nível em Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLAM" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -28,7 +28,7 @@ Siga as etapas fáceis para converter JPG em XLAM. Carregue seu arquivo JPG e si
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Exemplo de código para converter JPG em XLAM por meio da biblioteca Excel Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="jpg" outformat="xlam" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Exemplo de código para converter JPG em XLAM por meio da biblioteca Excel Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="jpg" outformat="xlam" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="Como converter JPG para XLAM" %}}
 
@@ -99,7 +99,7 @@ Aspose.Cells for Python via NET é independente de plataforma API e pode ser usa
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/jpg-to-xlt/" name="JPG PARA XLT" description="Microsoft Modelo Excel" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/jpg-to-xltm/" name="JPG PARA XLTM" description="Modelo habilitado para macro do Excel" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/jpg-to-xltx/" name="JPG PARA XLTX" description="Modelo Office OpenXML Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/jpg-to-xml/" name="JPG PARA XML" description="Extensible Markup Language" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/jpg-to-xml/" name="JPG PARA XML" description="Linguagem de Marcação Extensível" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/jpg-to-xps/" name="JPG PARA XPS" description="Especificações do papel XML" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/jpg-to-json/" name="JPG PARA JSON" description="Notação de objeto JavaScript" >}}
 

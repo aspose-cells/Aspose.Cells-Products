@@ -1,7 +1,7 @@
 ---
 title: Python XLTM do PDF - XLTM do PDF Konwerter
-description: Aspose Excel. Python Excel. Konwertuj numer XLTM na PDF szybko i łatwo za pomocą Aspose.Cells. Python XLTM na PDF. Python Zapisz XLTM na PDF. Zapisz XLTM jako 07611 23481 przy użyciu biblioteki programu Excel Python.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert XLTM to PDF in Python Excel Library., Save XLTM to PDF using Python Excel Library., Python XLTM to PDF saveformat., XLTM to PDF Converter., Python Save XLTM as PDF]
+description: Aspose Excel. To kompleksowe rozwiązanie zapewnia programistom w pełni zintegrowane podejście do konwersji formatu XLTM do PDF, umożliwiając bezproblemowe zapisywanie danych XLTM do formatu PDF za pomocą biblioteki Aspose.Cells, a wszystko to dzięki wydajnemu i konfigurowalnemu kodowi Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart XLTM files to PDF Converter for Python., Convert XLTM to PDF in Python., XLTM files to PDF Conversion in Python., Leverage intelligent data processing to automatically parse and save XLTM into PDF format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Konwertuj XLTM na PDF w Python Biblioteka Excel" h2="Szybka biblioteka Excel Python do konwersji XLTM na PDF. Jest to profesjonalne oprogramowanie do importowania i eksportowania XLTM, PDF i wielu innych formatów przy użyciu Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="PDF" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -27,7 +27,7 @@ Wykonaj proste kroki, aby przekonwertować numer XLTM na numer PDF. Prześlij pl
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Przykładowy kod do konwersji XLTM na PDF za pośrednictwem biblioteki Excel Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xltm" outformat="pdf" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="Przykładowy kod do konwersji XLTM na PDF za pośrednictwem biblioteki Excel Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="xltm" outformat="pdf" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="Jak przekonwertować XLTM na PDF przez Python" %}}
 

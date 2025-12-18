@@ -1,7 +1,7 @@
 ---
 title: Python HTM na XLT - Konwerter HTM na XLT
-description: Aspose Excel. Python Excel. Konwertuj HTM na XLT szybko i łatwo za pomocą Aspose.Cells. Python HTM na XLT. Python Zapisz HTM na XLT. Zapisz HTM jako XLT, korzystając z biblioteki Excel Python.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert HTM to XLT in Python Excel Library., Save HTM to XLT using Python Excel Library., Python HTM to XLT saveformat., HTM to XLT Converter., Python Save HTM as XLT]
+description: Aspose Excel. To kompleksowe rozwiązanie zapewnia programistom w pełni zintegrowane podejście do konwersji plików HTM do formatu XLT, umożliwiając bezproblemowe zapisywanie danych HTM do formatu XLT za pomocą biblioteki Aspose.Cells, a wszystko to dzięki wydajnemu i konfigurowalnemu kodowi Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart HTM files to XLT Converter for Python., Convert HTM to XLT in Python., HTM files to XLT Conversion in Python., Leverage intelligent data processing to automatically parse and save HTM into XLT format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Konwertuj HTM na XLT w Python Biblioteka Excel" h2="Szybka biblioteka Excel Python do konwersji HTM na XLT. Jest to profesjonalne oprogramowanie do importowania i eksportowania HTM, XLT i wielu innych formatów przy użyciu Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLT" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -27,7 +27,7 @@ Wykonaj proste kroki, aby przekonwertować plik HTM na XLT. Prześlij plik HTM, 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Przykładowy kod do konwersji HTM na XLT za pośrednictwem biblioteki Excel Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="htm" outformat="xlt" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="Przykładowy kod do konwersji HTM na XLT za pośrednictwem biblioteki Excel Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="htm" outformat="xlt" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="Jak przekonwertować HTM na XLT przez Python" %}}
 

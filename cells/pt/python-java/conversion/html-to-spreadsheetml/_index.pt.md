@@ -1,7 +1,7 @@
 ---
 title: Python HTML para SPREADSHEETML - Conversor HTML para SPREADSHEETML
-description: Aspose Excel. Python Excel. Converta HTML em SPREADSHEETML de forma rápida e fácil com Aspose.Cells. Python HTML em SPREADSHEETML. Python Salve HTML em SPREADSHEETML. Salve HTML como SPREADSHEETML usando a Biblioteca Excel Python.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert HTML to SPREADSHEETML in Python Excel Library., Save HTML to SPREADSHEETML using Python Excel Library., Python HTML to SPREADSHEETML saveformat., HTML to SPREADSHEETML Converter., Python Save HTML as SPREADSHEETML]
+description: Aspose Excel. Esta solução abrangente fornece aos desenvolvedores Python uma abordagem totalmente integrada para converter HTML para o formato SPREADSHEETML, permitindo o salvamento perfeito de dados HTML no formato SPREADSHEETML usando a biblioteca Aspose.Cells, tudo por meio de código Python eficiente e personalizável.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart HTML files to SPREADSHEETML Converter for Python., Convert HTML to SPREADSHEETML in Python., HTML files to SPREADSHEETML Conversion in Python., Leverage intelligent data processing to automatically parse and save HTML into SPREADSHEETML format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Converta HTML em SPREADSHEETML na biblioteca Python do Excel" h2="Biblioteca Excel Python de alta velocidade para converter HTML em SPREADSHEETML. Esta é uma solução de software profissional para importar e exportar HTML, SPREADSHEETML e muitos outros formatos usando Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="SPREADSHEETML" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -27,7 +27,7 @@ Siga as etapas fáceis para converter HTML em SPREADSHEETML. Carregue seu arquiv
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Código de exemplo para converter HTML em SPREADSHEETML por meio da biblioteca Python Excel" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="html" outformat="xml" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="Código de exemplo para converter HTML em SPREADSHEETML por meio da biblioteca Python Excel" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="html" outformat="xml" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="Como converter HTML em SPREADSHEETML via Python" %}}
 
@@ -101,7 +101,7 @@ Aspose.Cells for Python via Java é independente de plataforma API e pode ser us
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/html-to-xlt/" name="HTML A XLT" description="Microsoft Modelo Excel" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/html-to-xltm/" name="HTML A XLTM" description="Modelo habilitado para macro do Excel" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/html-to-xltx/" name="HTML A XLTX" description="Modelo Office OpenXML Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/html-to-xml/" name="HTML PARA XML" description="Extensible Markup Language" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/html-to-xml/" name="HTML PARA XML" description="Linguagem de Marcação Extensível" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/html-to-xps/" name="HTML A XPS" description="Especificações do papel XML" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/html-to-json/" name="HTML A JSON" description="Notação de objeto JavaScript" >}}
 

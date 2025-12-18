@@ -1,7 +1,7 @@
 ---
 title: Python TSV do XLT - TSV do XLT Konwerter
-description: Aspose Excel. Python Excel. Konwertuj numer TSV na XLT szybko i łatwo za pomocą Aspose.Cells. Python TSV na XLT. Python Zapisz TSV na XLT. Zapisz TSV jako 07611 23481 przy użyciu biblioteki programu Excel Python.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert TSV to XLT in Python Excel Library., Save TSV to XLT using Python Excel Library., Python TSV to XLT saveformat., TSV to XLT Converter., Python Save TSV as XLT]
+description: Aspose Excel. To kompleksowe rozwiązanie zapewnia programistom w pełni zintegrowane podejście do konwersji formatu TSV do XLT, umożliwiając bezproblemowe zapisywanie danych TSV do formatu XLT za pomocą biblioteki Aspose.Cells, a wszystko to dzięki wydajnemu i konfigurowalnemu kodowi Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart TSV files to XLT Converter for Python., Convert TSV to XLT in Python., TSV files to XLT Conversion in Python., Leverage intelligent data processing to automatically parse and save TSV into XLT format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Konwertuj TSV na XLT w Python Biblioteka Excel" h2="Szybka biblioteka Excel Python do konwersji TSV na XLT. Jest to profesjonalne oprogramowanie do importowania i eksportowania TSV, XLT i wielu innych formatów przy użyciu Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLT" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -27,7 +27,7 @@ Wykonaj proste kroki, aby przekonwertować numer TSV na numer XLT. Prześlij pli
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Przykładowy kod do konwersji TSV na XLT za pośrednictwem biblioteki Excel Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="tsv" outformat="xlt" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="Przykładowy kod do konwersji TSV na XLT za pośrednictwem biblioteki Excel Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="tsv" outformat="xlt" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="Jak przekonwertować TSV na XLT przez Python" %}}
 

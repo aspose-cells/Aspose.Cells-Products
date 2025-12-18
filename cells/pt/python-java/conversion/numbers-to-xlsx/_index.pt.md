@@ -1,7 +1,7 @@
 ---
 title: Python NÚMEROS para XLSX - Conversor de NÚMEROS para XLSX
-description: Aspose Excel. Python Excel. Converta NÚMEROS em XLSX de forma rápida e fácil com Aspose.Cells. Python NÚMEROS em XLSX. Python Salve NÚMEROS em XLSX. Salve NÚMEROS como XLSX usando a Biblioteca Excel Python.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert NUMBERS to XLSX in Python Excel Library., Save NUMBERS to XLSX using Python Excel Library., Python NUMBERS to XLSX saveformat., NUMBERS to XLSX Converter., Python Save NUMBERS as XLSX]
+description: Aspose Excel. Esta solução abrangente fornece aos desenvolvedores Python uma abordagem totalmente integrada para converter NÚMEROS para o formato XLSX, permitindo o salvamento perfeito de dados NUMBERS no formato XLSX usando a biblioteca Aspose.Cells, tudo por meio de código Python eficiente e personalizável.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart NUMBERS files to XLSX Converter for Python., Convert NUMBERS to XLSX in Python., NUMBERS files to XLSX Conversion in Python., Leverage intelligent data processing to automatically parse and save NUMBERS into XLSX format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Converta NÚMEROS em XLSX na Biblioteca Excel Python" h2="Biblioteca Excel Python de alta velocidade para converter NÚMEROS em XLSX. Esta é uma solução de software profissional para importar e exportar NÚMEROS, XLSX e muitos outros formatos usando Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSX" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -27,7 +27,7 @@ Siga as etapas fáceis para converter NUMBERS em XLSX. Carregue seu arquivo NUMB
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Exemplo de código para converter NÚMEROS em XLSX por meio da biblioteca Excel Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="numbers" outformat="xlsx" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="Exemplo de código para converter NÚMEROS em XLSX por meio da biblioteca Excel Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="numbers" outformat="xlsx" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="Como converter NÚMEROS em XLSX via Python" %}}
 
@@ -101,7 +101,7 @@ Aspose.Cells for Python via Java é independente de plataforma API e pode ser us
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/numbers-to-xlt/" name="NÚMEROS PARA XLT" description="Microsoft Modelo Excel" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/numbers-to-xltm/" name="NÚMEROS PARA XLTM" description="Modelo habilitado para macro do Excel" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/numbers-to-xltx/" name="NÚMEROS PARA XLTX" description="Modelo Office OpenXML Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/numbers-to-xml/" name="NÚMEROS PARA XML" description="Extensible Markup Language" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/numbers-to-xml/" name="NÚMEROS PARA XML" description="Linguagem de Marcação Extensível" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/numbers-to-xps/" name="NÚMEROS PARA XPS" description="Especificações do papel XML" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/numbers-to-json/" name="NÚMEROS PARA JSON" description="Notação de objeto JavaScript" >}}
 

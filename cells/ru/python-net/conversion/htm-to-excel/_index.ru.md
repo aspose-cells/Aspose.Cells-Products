@@ -1,7 +1,7 @@
 ---
 title: Python HTM в EXCEL - Конвертер HTM в EXCEL
-description: Aspose Эксель. Python Эксель. Быстро и легко конвертируйте HTM в EXCEL с помощью Aspose.Cells. Python HTM в EXCEL. Python Сохраните HTM в EXCEL. Сохраните HTM как EXCEL, используя библиотеку Excel Python.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert HTM to EXCEL in Python Excel Library., Save HTM to EXCEL using Python Excel Library., Python HTM to EXCEL saveformat., HTM to EXCEL Converter., Python Save HTM as EXCEL]
+description: Aspose Excel. Это комплексное решение предоставляет разработчикам Python полностью интегрированный подход к преобразованию HTM в формат EXCEL, обеспечивая беспрепятственное сохранение данных HTM в формат EXCEL с использованием библиотеки Aspose.Cells, и все это благодаря эффективному и настраиваемому коду Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart HTM files to EXCEL Converter for Python., Convert HTM to EXCEL in Python., HTM files to EXCEL Conversion in Python., Leverage intelligent data processing to automatically parse and save HTM into EXCEL format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Преобразование HTM в EXCEL в библиотеке Excel Python" h2="Высокоскоростная библиотека Excel Python для конвертации HTM в EXCEL. Используйте наше преобразование Excel API для разработки высокоуровневого, независимого от платформы программного обеспечения в Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="EXCEL" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -28,7 +28,7 @@ keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert H
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Пример кода для преобразования HTM в EXCEL с помощью библиотеки Excel Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="htm" outformat="xlsx" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Пример кода для преобразования HTM в EXCEL с помощью библиотеки Excel Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="htm" outformat="xlsx" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="Как конвертировать HTM в EXCEL" %}}
 

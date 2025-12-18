@@ -1,7 +1,7 @@
 ---
 title: Skapa XLTM - Skapa XLTM fil i C++
-description: Aspose Excel. C++ Skapa XLTM Arkivera snabbt och enkelt med Aspose.Cells. Skapa XLTM fil med C++. Skapa XLTM i C++. 0761836481 Skapa C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ Create XLTM file., Generate XLTM file in C++., Create XLTM file using C++., Write data to XLTM file via C++., Create a XLTM file in C++., C++ Generate a XLTM file., C++ XLTM Creater]
+description: Aspose Excel. Generera och manipulera enkelt XLTM-filer med Aspose.Cells for C++-biblioteket. Detta kraftfulla API-program erbjuder en strömlinjeformad och effektiv lösning för att skapa, redigera och hantera XLTM-filer direkt i dina C++-applikationer, vilket uppfyller specifika utvecklarbehov med hög precision.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ Create XLTM file., Generate XLTM file in C++., Write data to XLTM file via C++., C++ XLTM Creater., Aspose.Cells for C++ is a powerful library that enables developers to programmatically create, generate, and manipulate XLTM files in C++]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Skapa XLTM-fil i C++" h2="Native och högpresterande XLTM-filskapande programmatiskt utan Micorsoft Office med C++-biblioteket." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLTM" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -11,7 +11,7 @@ keywords: [Aspose Excel., C++ Aspose.Cells., C++ Create XLTM file., Generate XLT
 
 {{% blocks/products/pf/agp/content h2="Skapa XLTM-fil med C++" %}}
 
- Hur skapar man XLTM-fil? Med Aspose.Cells for C++-biblioteket kan du enkelt skapa XLTM-fil programmatiskt med några rader kod.[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) kan bygga plattformsoberoende applikationer med förmågan att generera, modifiera, konvertera, rendera och skriva ut alla Excel-filer. C++ Excel API konverterar inte bara mellan kalkylarksformat, den kan också rendera Excel-filer som bilder, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT och mer, vilket gör det till ett perfekt val att utbyta dokument i industristandardformat. Du kan ladda ner den senaste versionen direkt, bara öppna[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) pakethanteraren, sök efter Aspose.Cells.Cpp och installera. Du kan också använda följande kommando från Package Manager Console.
+ Hur skapar man XLTM-fil? Med Aspose.Cells for C++-biblioteket kan du enkelt skapa XLTM-fil programmatiskt med några rader kod.[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) kan bygga plattformsoberoende applikationer med förmågan att generera, modifiera, konvertera, rendera och skriva ut alla Excel-filer. C++ Excel API konverterar inte bara mellan kalkylarksformat, den kan också rendera Excel-filer som bilder, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT och mer, vilket gör det till ett perfekt val att utbyta dokument i industristandardformat. Du kan ladda ner den senaste versionen direkt, bara öppna[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/)pakethanteraren, sök efter Aspose.Cells.Cpp och installera. Du kan också använda följande kommando från Package Manager Console.
 
 {{% blocks/products/pf/agp/code-block title="Kommando" offSpacer="true" %}}
 
@@ -37,14 +37,15 @@ PM> Install-Package Aspose.Cells.Cpp
 1.  Skapa ett objekt av klassen Workbook.
 1.  Få det första arket till ett kalkylbladsobjekt.
 1.  Använd metoden Worksheet.GetCells() för att få cellerna i kalkylbladet till ett Cells-objekt.
-1. Använd metoden Cells.Get() för att komma åt önskad cell i kalkylbladet till ett Cell-objekt.
+1.  Använd metoden Cells.Get() för att komma åt önskad cell i kalkylbladet till ett Cell-objekt.
 1.  Använd metoden Cell.PutValue() för att mata in värde i cellen.
-1.  Spara arbetsboken som .xltm-fil med metoden Save().
+1.  Spara arbetsboken som en .xltm-fil med hjälp av Save()-metoden.
 
 {{% blocks/products/pf/agp/code-block title="Exempelkod visar hur man skapar XLTM-filen i C++." offSpacer="" %}}
 
 ```cs
 Aspose::Cells::Startup();
+//TIFF format is not supported
 
 // Create an object of the Workbook class.
 Workbook wkb;
@@ -127,7 +128,7 @@ Det finns tre alternativ för att installera "Aspose.Cells for C++" på ditt sys
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/create/tsv/" name="TSV" description="Flikseparerade värden" >}} 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/create/ods/" name="ODS" description="OpenDocument Kalkylblad" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/create/pdf/" name="PDF" description="Portabelt dokumentformat" >}} 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/create/html/" name="HTML" description="Hyper Text Markup Language" >}} 
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/create/html/" name="HTML" description="Hypertext Markup Language" >}} 
 
 
 {{< /blocks/products/pf/agp/other-supported-section >}}

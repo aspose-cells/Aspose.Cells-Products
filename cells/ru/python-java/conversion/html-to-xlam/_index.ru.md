@@ -1,7 +1,7 @@
 ---
 title: Преобразователь Python HTML в XLAM - HTML в XLAM
-description: Aspose Эксель. Python Эксель. Преобразуйте HTML в XLAM быстро и легко с помощью Aspose.Cells. Python HTML в XLAM. Python Сохранить HTML в XLAM. Сохранить HTML как 076112 3481 с использованием библиотеки Excel Python.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert HTML to XLAM in Python Excel Library., Save HTML to XLAM using Python Excel Library., Python HTML to XLAM saveformat., HTML to XLAM Converter., Python Save HTML as XLAM]
+description: Aspose Excel. Это комплексное решение предоставляет разработчикам Python полностью интегрированный подход к преобразованию формата HTML в формат XLAM, обеспечивая беспрепятственное сохранение данных HTML в формат XLAM с использованием библиотеки Aspose.Cells, и все это с помощью эффективного и настраиваемого кода Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart HTML files to XLAM Converter for Python., Convert HTML to XLAM in Python., HTML files to XLAM Conversion in Python., Leverage intelligent data processing to automatically parse and save HTML into XLAM format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Преобразуйте HTML в XLAM в Python библиотеке Excel" h2="Высокоскоростная библиотека Excel Python для преобразования HTML в XLAM. Это профессиональное программное решение для импорта и экспорта HTML, XLAM и многих других форматов с использованием Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLAM" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -27,7 +27,7 @@ keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert H
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Пример кода для преобразования HTML в XLAM с помощью библиотеки Excel Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="html" outformat="xlam" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="Пример кода для преобразования HTML в XLAM с помощью библиотеки Excel Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="html" outformat="xlam" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="Как преобразовать HTML в XLAM через Python" %}}
 

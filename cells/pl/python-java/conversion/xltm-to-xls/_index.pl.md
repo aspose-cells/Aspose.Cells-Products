@@ -1,7 +1,7 @@
 ---
 title: Python XLTM do XLS - XLTM do XLS Konwerter
-description: Aspose Excel. Python Excel. Konwertuj numer XLTM na XLS szybko i łatwo za pomocą Aspose.Cells. Python XLTM na XLS. Python Zapisz XLTM na XLS. Zapisz XLTM jako 07611 23481 przy użyciu biblioteki programu Excel Python.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert XLTM to XLS in Python Excel Library., Save XLTM to XLS using Python Excel Library., Python XLTM to XLS saveformat., XLTM to XLS Converter., Python Save XLTM as XLS]
+description: Aspose Excel. To kompleksowe rozwiązanie zapewnia programistom w pełni zintegrowane podejście do konwersji formatu XLTM do XLS, umożliwiając bezproblemowe zapisywanie danych XLTM do formatu XLS za pomocą biblioteki Aspose.Cells, a wszystko to dzięki wydajnemu i konfigurowalnemu kodowi Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart XLTM files to XLS Converter for Python., Convert XLTM to XLS in Python., XLTM files to XLS Conversion in Python., Leverage intelligent data processing to automatically parse and save XLTM into XLS format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Konwertuj XLTM na XLS w Python Biblioteka Excel" h2="Szybka biblioteka Excel Python do konwersji XLTM na XLS. Jest to profesjonalne oprogramowanie do importowania i eksportowania XLTM, XLS i wielu innych formatów przy użyciu Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLS" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -27,7 +27,7 @@ Wykonaj proste kroki, aby przekonwertować numer XLTM na numer XLS. Prześlij pl
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Przykładowy kod do konwersji XLTM na XLS za pośrednictwem biblioteki Excel Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xltm" outformat="xls" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="Przykładowy kod do konwersji XLTM na XLS za pośrednictwem biblioteki Excel Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="xltm" outformat="xls" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="Jak przekonwertować XLTM na XLS przez Python" %}}
 

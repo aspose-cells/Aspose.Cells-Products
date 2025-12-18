@@ -1,7 +1,7 @@
 ---
 title: Python JPG в XLTX - Конвертер JPG в XLTX
-description: Aspose Эксель. Python Эксель. Быстро и легко конвертируйте JPG в XLTX с помощью Aspose.Cells. Python JPG в XLTX. Python Сохраните JPG в XLTX. Сохраните JPG как XLTX, используя библиотеку Excel Python.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert JPG to XLTX in Python Excel Library., Save JPG to XLTX using Python Excel Library., Python JPG to XLTX saveformat., JPG to XLTX Converter., Python Save JPG as XLTX]
+description: Aspose Excel. Это комплексное решение предоставляет разработчикам Python полностью интегрированный подход к преобразованию JPG в формат XLTX, обеспечивая беспрепятственное сохранение данных JPG в формат XLTX с использованием библиотеки Aspose.Cells, и все это с помощью эффективного и настраиваемого кода Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart JPG files to XLTX Converter for Python., Convert JPG to XLTX in Python., JPG files to XLTX Conversion in Python., Leverage intelligent data processing to automatically parse and save JPG into XLTX format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Конвертируйте JPG в XLTX в библиотеке Excel Python" h2="Высокоскоростная библиотека Excel Python для преобразования JPG в XLTX. Это профессиональное программное решение для импорта и экспорта JPG, XLTX и многих других форматов с использованием Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLTX" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -27,7 +27,7 @@ keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert J
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Пример кода для преобразования JPG в XLTX с помощью библиотеки Excel Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="jpg" outformat="xltx" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="Пример кода для преобразования JPG в XLTX с помощью библиотеки Excel Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="jpg" outformat="xltx" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="Как конвертировать JPG в XLTX с помощью Python" %}}
 

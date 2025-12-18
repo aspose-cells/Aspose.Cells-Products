@@ -1,7 +1,7 @@
 ---
 title: Python CSV a DIF - CSV a DIF Conversor
-description: Aspose Excel. Python Excel. Converta CSV em DIF de forma rápida e fácil com Aspose.Cells. Python CSV em DIF. Python Salve CSV em DIF. Salve CSV como 076112 3481 usando Python Biblioteca Excel.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert CSV to DIF in Python Excel Library., Save CSV to DIF using Python Excel Library., Python CSV to DIF saveformat., CSV to DIF Converter., Python Save CSV as DIF]
+description: Aspose Excel. Esta solução abrangente fornece aos desenvolvedores Python uma abordagem totalmente integrada para converter CSV para o formato DIF, permitindo o salvamento perfeito de dados CSV no formato DIF usando a biblioteca Aspose.Cells, tudo por meio de código Python eficiente e personalizável.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart CSV files to DIF Converter for Python., Convert CSV to DIF in Python., CSV files to DIF Conversion in Python., Leverage intelligent data processing to automatically parse and save CSV into DIF format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Converta CSV em DIF na Biblioteca Excel Python" h2="Biblioteca Excel Python de alta velocidade para converter CSV em DIF. Esta é uma solução de software profissional para importar e exportar CSV, DIF e muitos outros formatos usando Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="DIF" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -27,7 +27,7 @@ Siga as etapas fáceis para converter CSV em DIF. Carregue seu arquivo CSV e sim
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Exemplo de código para converter CSV em DIF por meio da biblioteca Python Excel" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="csv" outformat="dif" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="Exemplo de código para converter CSV em DIF por meio da biblioteca Python Excel" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="csv" outformat="dif" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="Como converter CSV em DIF por meio de Python" %}}
 
@@ -101,7 +101,7 @@ Aspose.Cells for Python via Java é independente de plataforma API e pode ser us
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/csv-to-xlt/" name="CSV A XLT" description="Microsoft Modelo Excel" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/csv-to-xltm/" name="CSV A XLTM" description="Modelo habilitado para macro do Excel" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/csv-to-xltx/" name="CSV A XLTX" description="Modelo Office OpenXML Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/csv-to-xml/" name="CSV PARA XML" description="Extensible Markup Language" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/csv-to-xml/" name="CSV PARA XML" description="Linguagem de Marcação Extensível" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/csv-to-xps/" name="CSV A XPS" description="Especificações do papel XML" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/csv-to-json/" name="CSV A JSON" description="Notação de objeto JavaScript" >}}
 

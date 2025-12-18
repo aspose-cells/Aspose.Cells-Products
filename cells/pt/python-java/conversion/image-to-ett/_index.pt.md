@@ -1,7 +1,7 @@
 ---
 title: Python IMAGE para ETT - Conversor IMAGE para ETT
-description: Aspose Excel. Python Excel. Converta IMAGE em ETT de forma rápida e fácil com Aspose.Cells. Python IMAGE em ETT. Python Salvar IMAGEM em ETT. Salve IMAGEM como ETT usando a Biblioteca Excel Python.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert IMAGE to ETT in Python Excel Library., Save IMAGE to ETT using Python Excel Library., Python IMAGE to ETT saveformat., IMAGE to ETT Converter., Python Save IMAGE as ETT]
+description: Aspose Excel. Esta solução abrangente fornece aos desenvolvedores Python uma abordagem totalmente integrada para converter IMAGE para o formato ETT, permitindo o salvamento perfeito de dados IMAGE no formato ETT usando a biblioteca Aspose.Cells, tudo por meio de código Python eficiente e personalizável.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart IMAGE files to ETT Converter for Python., Convert IMAGE to ETT in Python., IMAGE files to ETT Conversion in Python., Leverage intelligent data processing to automatically parse and save IMAGE into ETT format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Converter IMAGE em ETT na biblioteca Python Excel" h2="Biblioteca Excel Python de alta velocidade para conversão de IMAGE em ETT. Esta é uma solução de software profissional para importar e exportar IMAGE, ETT e muitos outros formatos usando Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="ETT" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -27,7 +27,7 @@ Siga as etapas fáceis para converter IMAGE em ETT. Carregue seu arquivo IMAGE e
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Código de exemplo para converter IMAGE em ETT por meio da biblioteca Python Excel" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="png" outformat="ett" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="Código de exemplo para converter IMAGE em ETT por meio da biblioteca Python Excel" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="png" outformat="ett" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="Como converter IMAGE em ETT via Python" %}}
 
@@ -101,7 +101,7 @@ Aspose.Cells for Python via Java é independente de plataforma API e pode ser us
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/image-to-xlt/" name="IMAGEM PARA XLT" description="Microsoft Modelo Excel" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/image-to-xltm/" name="IMAGEM PARA XLTM" description="Modelo habilitado para macro do Excel" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/image-to-xltx/" name="IMAGEM PARA XLTX" description="Modelo Office OpenXML Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/image-to-xml/" name="IMAGEM PARA XML" description="Extensible Markup Language" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/image-to-xml/" name="IMAGEM PARA XML" description="Linguagem de Marcação Extensível" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/image-to-xps/" name="IMAGEM PARA XPS" description="Especificações do papel XML" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/image-to-json/" name="IMAGEM PARA JSON" description="Notação de objeto JavaScript" >}}
 

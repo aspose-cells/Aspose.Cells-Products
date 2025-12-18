@@ -1,7 +1,7 @@
 ---
 title: Python SXC till SQL - SXC till SQL Converter
-description: Aspose Excel. Python Excel. Konvertera SXC till SQL snabbt och enkelt med Aspose.Cells. Python SXC till SQL. Python Spara SXC till SQL. Spara SXC som SQL med Python Excel-bibliotek.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert SXC to SQL in Python Excel Library., Save SXC to SQL using Python Excel Library., Python SXC to SQL saveformat., SXC to SQL Converter., Python Save SXC as SQL]
+description: Aspose Excel. Denna omfattande lösning ger Python-utvecklare en helt integrerad metod för att konvertera SXC till SQL-format, vilket möjliggör sömlös sparning av SXC-data till SQL-format med hjälp av Aspose.Cells-biblioteket, allt genom effektiv och anpassningsbar Python-kod.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart SXC files to SQL Converter for Python., Convert SXC to SQL in Python., SXC files to SQL Conversion in Python., Leverage intelligent data processing to automatically parse and save SXC into SQL format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Konvertera SXC till SQL i Python Excel-bibliotek" h2="Höghastighets Python excel-bibliotek för att konvertera SXC till SQL. Detta är en professionell mjukvarulösning för att importera och exportera SXC, SQL och många andra format med Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="SQL" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -27,7 +27,7 @@ Följ de enkla stegen för att konvertera SXC till SQL. Ladda upp din SXC-fil oc
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Exempelkod för att konvertera SXC till SQL via Python Excel-bibliotek" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="sxc" outformat="sql" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="Exempelkod för att konvertera SXC till SQL via Python Excel-bibliotek" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="sxc" outformat="sql" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="Hur man konverterar SXC till SQL via Python" %}}
 
@@ -84,10 +84,10 @@ Aspose.Cells for Python via Java är plattformsoberoende API och kan användas p
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/sxc-to-bmp/" name="SXC TILL BMP" description="Bitmappsbild" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/sxc-to-emf/" name="SXC TILL EMF" description="Förbättrat metafilformat" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/sxc-to-gif/" name="SXC TILL GIF" description="Grafiskt utbytesformat" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/sxc-to-html/" name="SXC TILL HTML" description="Hyper Text Markup Language" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/sxc-to-md/" name="SXC TILL MD" description="Markdown Language" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/sxc-to-html/" name="SXC TILL HTML" description="Hypertext Markup Language" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/sxc-to-md/" name="SXC TILL MD" description="Markdown-språk" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/sxc-to-mhtml/" name="SXC TILL MHTML" description="Arkivformat för webbsidor" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/sxc-to-ods/" name="SXC TILL ODS" description="OpenDocument Spreadsheet File" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/sxc-to-ods/" name="SXC TILL ODS" description="OpenDocument-kalkylbladsfil" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/sxc-to-pdf/" name="SXC TILL PDF" description="Portabelt dokumentformat" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/sxc-to-png/" name="SXC TILL PNG" description="Bärbar nätverksgrafik" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/sxc-to-svg/" name="SXC TILL SVG" description="Skalbar vektorgrafik" >}}

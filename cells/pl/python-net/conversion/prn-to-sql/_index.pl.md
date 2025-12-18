@@ -1,7 +1,7 @@
 ---
 title: Python PRN na SQL - Konwerter PRN na SQL
-description: Aspose Excel. Python Excel. Szybko i łatwo przekonwertuj PRN na SQL za pomocą Aspose.Cells. Python PRN na SQL. Python Zapisz PRN w SQL. Zapisz PRN jako SQL, korzystając z biblioteki Excel Python.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert PRN to SQL in Python Excel Library., Save PRN to SQL using Python Excel Library., Python PRN to SQL saveformat., PRN to SQL Converter., Python Save PRN as SQL]
+description: Aspose Excel. To kompleksowe rozwiązanie zapewnia programistom w pełni zintegrowane podejście do konwersji PRN do formatu SQL, umożliwiając bezproblemowe zapisywanie danych PRN w formacie SQL przy użyciu biblioteki Aspose.Cells, a wszystko to dzięki wydajnemu i konfigurowalnemu kodowi Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart PRN files to SQL Converter for Python., Convert PRN to SQL in Python., PRN files to SQL Conversion in Python., Leverage intelligent data processing to automatically parse and save PRN into SQL format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Konwertuj PRN na SQL w bibliotece Excel Python" h2="Szybka biblioteka Excel Python do konwersji PRN na SQL. Skorzystaj z naszej konwersji Excela API, aby opracować oprogramowanie wysokiego poziomu, niezależne od platformy w Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="SQL" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -28,7 +28,7 @@ Wykonaj proste kroki, aby przekonwertować PRN na SQL. Prześlij plik PRN, a nas
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Przykładowy kod do konwersji PRN na SQL za pomocą biblioteki Excel Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="prn" outformat="sql" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Przykładowy kod do konwersji PRN na SQL za pomocą biblioteki Excel Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="prn" outformat="sql" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="Jak przekonwertować PRN na SQL" %}}
 

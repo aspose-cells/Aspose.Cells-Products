@@ -1,7 +1,7 @@
 ---
 title: Python XLSX na TABDELIMITED - XLSX na TABDELIMITED Konwerter
-description: Aspose Excel. Python Excel. Szybko i łatwo przekonwertuj XLSX na TABDELIMITED za pomocą Aspose.Cells. Python XLSX na TABDELIMITED. Python Zapisz XLSX w TABDELIMITED. Zapisz XLSX jako TABDELIMITED, korzystając z biblioteki Excel Python.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert XLSX to TABDELIMITED in Python Excel Library., Save XLSX to TABDELIMITED using Python Excel Library., Python XLSX to TABDELIMITED saveformat., XLSX to TABDELIMITED Converter., Python Save XLSX as TABDELIMITED]
+description: Aspose Excel. To kompleksowe rozwiązanie zapewnia programistom w pełni zintegrowane podejście do konwersji XLSX do formatu TABDELIMITED, umożliwiając bezproblemowe zapisywanie danych XLSX w formacie TABDELIMITED przy użyciu biblioteki Aspose.Cells, a wszystko to dzięki wydajnemu i konfigurowalnemu kodowi Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart XLSX files to TABDELIMITED Converter for Python., Convert XLSX to TABDELIMITED in Python., XLSX files to TABDELIMITED Conversion in Python., Leverage intelligent data processing to automatically parse and save XLSX into TABDELIMITED format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Konwertuj XLSX na TABDELIMITED w Python w bibliotece Excel" h2="Szybka biblioteka Excel Python do konwersji XLSX na TABDELIMITED. Jest to profesjonalne oprogramowanie do importowania i eksportowania numerów XLSX, TABDELIMITED i wielu innych formatów przy użyciu numeru Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="TABDELIMITED" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -27,7 +27,7 @@ Wykonaj proste kroki, aby przekonwertować XLSX na TABDELIMITED. Prześlij plik 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Przykładowy kod do konwersji XLSX na TABDELIMITED za pośrednictwem biblioteki Excel Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsx" outformat="tsv" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="Przykładowy kod do konwersji XLSX na TABDELIMITED za pośrednictwem biblioteki Excel Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="xlsx" outformat="tsv" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="Jak przekonwertować XLSX na TABDELIMITED przez Python" %}}
 

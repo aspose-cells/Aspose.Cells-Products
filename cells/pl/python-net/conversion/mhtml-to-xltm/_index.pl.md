@@ -1,7 +1,7 @@
 ---
 title: Python MHTML do XLTM - MHTML do XLTM Konwerter
-description: Aspose Excel. Python Excel. Konwertuj numer MHTML na XLTM szybko i łatwo za pomocą Aspose.Cells. Python MHTML na XLTM. Python Zapisz MHTML na XLTM. Zapisz MHTML jako 07611 23481 przy użyciu biblioteki programu Excel Python.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert MHTML to XLTM in Python Excel Library., Save MHTML to XLTM using Python Excel Library., Python MHTML to XLTM saveformat., MHTML to XLTM Converter., Python Save MHTML as XLTM]
+description: Aspose Excel. To kompleksowe rozwiązanie zapewnia programistom w pełni zintegrowane podejście do konwersji formatu MHTML do XLTM, umożliwiając bezproblemowe zapisywanie danych MHTML do formatu XLTM za pomocą biblioteki Aspose.Cells, a wszystko to dzięki wydajnemu i konfigurowalnemu kodowi Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart MHTML files to XLTM Converter for Python., Convert MHTML to XLTM in Python., MHTML files to XLTM Conversion in Python., Leverage intelligent data processing to automatically parse and save MHTML into XLTM format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Konwertuj MHTML na XLTM w Python Biblioteka Excel" h2="Szybka biblioteka Excel Python do konwersji MHTML na XLTM. Skorzystaj z naszej konwersji Excel API, aby opracować zaawansowane, niezależne od platformy oprogramowanie w Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLTM" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -28,7 +28,7 @@ Wykonaj proste kroki, aby przekonwertować numer MHTML na numer XLTM. Prześlij 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Przykładowy kod do konwersji MHTML na XLTM za pośrednictwem biblioteki Excel Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="mhtml" outformat="xltm" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Przykładowy kod do konwersji MHTML na XLTM za pośrednictwem biblioteki Excel Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="mhtml" outformat="xltm" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="Jak przekonwertować MHTML na XLTM" %}}
 

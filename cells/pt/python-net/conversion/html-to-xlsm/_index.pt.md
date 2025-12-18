@@ -1,7 +1,7 @@
 ---
 title: Python HTML a XLSM - HTML a XLSM Conversor
-description: Aspose Excel. Python Excel. Converta HTML em XLSM de forma rápida e fácil com Aspose.Cells. Python HTML em XLSM. Python Salve HTML em XLSM. Salve HTML como 076112 3481 usando Python Biblioteca Excel.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert HTML to XLSM in Python Excel Library., Save HTML to XLSM using Python Excel Library., Python HTML to XLSM saveformat., HTML to XLSM Converter., Python Save HTML as XLSM]
+description: Aspose Excel. Esta solução abrangente fornece aos desenvolvedores Python uma abordagem totalmente integrada para converter HTML para o formato XLSM, permitindo o salvamento perfeito de dados HTML no formato XLSM usando a biblioteca Aspose.Cells, tudo por meio de código Python eficiente e personalizável.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart HTML files to XLSM Converter for Python., Convert HTML to XLSM in Python., HTML files to XLSM Conversion in Python., Leverage intelligent data processing to automatically parse and save HTML into XLSM format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Converta HTML em XLSM na Biblioteca Excel Python" h2="Biblioteca Excel Python de alta velocidade para converter HTML em XLSM. Use nossa conversão Excel API para desenvolver software independente de plataforma de alto nível em Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSM" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -28,7 +28,7 @@ Siga as etapas fáceis para converter HTML em XLSM. Carregue seu arquivo HTML e 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Exemplo de código para converter HTML em XLSM por meio da biblioteca Python Excel" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="html" outformat="xlsm" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Exemplo de código para converter HTML em XLSM por meio da biblioteca Python Excel" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="html" outformat="xlsm" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="Como converter HTML em XLSM" %}}
 
@@ -99,7 +99,7 @@ Aspose.Cells for Python via NET é independente de plataforma API e pode ser usa
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/html-to-xlt/" name="HTML A XLT" description="Microsoft Modelo Excel" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/html-to-xltm/" name="HTML A XLTM" description="Modelo habilitado para macro do Excel" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/html-to-xltx/" name="HTML A XLTX" description="Modelo Office OpenXML Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/html-to-xml/" name="HTML PARA XML" description="Extensible Markup Language" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/html-to-xml/" name="HTML PARA XML" description="Linguagem de Marcação Extensível" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/html-to-xps/" name="HTML A XPS" description="Especificações do papel XML" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/html-to-json/" name="HTML A JSON" description="Notação de objeto JavaScript" >}}
 

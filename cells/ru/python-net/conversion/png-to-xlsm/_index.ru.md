@@ -1,7 +1,7 @@
 ---
 title: Преобразователь Python PNG в XLSM - PNG в XLSM
-description: Aspose Эксель. Python Эксель. Преобразуйте PNG в XLSM быстро и легко с помощью Aspose.Cells. Python PNG в XLSM. Python Сохранить PNG в XLSM. Сохранить PNG как 076112 3481 с использованием библиотеки Excel Python.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert PNG to XLSM in Python Excel Library., Save PNG to XLSM using Python Excel Library., Python PNG to XLSM saveformat., PNG to XLSM Converter., Python Save PNG as XLSM]
+description: Aspose Excel. Это комплексное решение предоставляет разработчикам Python полностью интегрированный подход к преобразованию формата PNG в формат XLSM, обеспечивая беспрепятственное сохранение данных PNG в формат XLSM с использованием библиотеки Aspose.Cells, и все это с помощью эффективного и настраиваемого кода Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart PNG files to XLSM Converter for Python., Convert PNG to XLSM in Python., PNG files to XLSM Conversion in Python., Leverage intelligent data processing to automatically parse and save PNG into XLSM format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Преобразуйте PNG в XLSM в Python библиотеке Excel" h2="Высокоскоростная библиотека Excel Python для преобразования PNG в XLSM. Используйте наше преобразование Excel API для разработки высокоуровневого, независимого от платформы программного обеспечения в Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSM" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -28,7 +28,7 @@ keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert P
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Пример кода для преобразования PNG в XLSM с помощью библиотеки Excel Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="png" outformat="xlsm" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Пример кода для преобразования PNG в XLSM с помощью библиотеки Excel Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="png" outformat="xlsm" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="Как конвертировать PNG в XLSM" %}}
 

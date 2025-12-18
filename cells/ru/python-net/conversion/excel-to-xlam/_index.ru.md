@@ -1,7 +1,7 @@
 ---
 title: Python EXCEL в XLAM - EXCEL в XLAM Конвертер
-description: Aspose Эксель. Python Эксель. Быстро и легко конвертируйте EXCEL в XLAM с помощью Aspose.Cells. Python EXCEL в XLAM. Python Сохраните EXCEL в XLAM. Сохраните EXCEL как XLAM, используя библиотеку Excel Python.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert EXCEL to XLAM in Python Excel Library., Save EXCEL to XLAM using Python Excel Library., Python EXCEL to XLAM saveformat., EXCEL to XLAM Converter., Python Save EXCEL as XLAM]
+description: Aspose Excel. Это комплексное решение предоставляет разработчикам Python полностью интегрированный подход к преобразованию EXCEL в формат XLAM, обеспечивая беспрепятственное сохранение данных EXCEL в формат XLAM с использованием библиотеки Aspose.Cells, и все это с помощью эффективного и настраиваемого кода Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart EXCEL files to XLAM Converter for Python., Convert EXCEL to XLAM in Python., EXCEL files to XLAM Conversion in Python., Leverage intelligent data processing to automatically parse and save EXCEL into XLAM format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Конвертируйте EXCEL в XLAM в библиотеке Excel Python." h2="Высокоскоростная библиотека Excel Python для преобразования EXCEL в XLAM. Используйте наше преобразование Excel API для разработки высокоуровневого, независимого от платформы программного обеспечения в Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLAM" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -28,7 +28,7 @@ keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert E
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Пример кода для преобразования EXCEL в XLAM с помощью библиотеки Excel Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsx" outformat="xlam" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Пример кода для преобразования EXCEL в XLAM с помощью библиотеки Excel Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="xlsx" outformat="xlam" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="Как конвертировать EXCEL в XLAM" %}}
 

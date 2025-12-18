@@ -1,7 +1,7 @@
 ---
 title: Python MHTML в EXCEL - MHTML в EXCEL Конвертер
-description: Aspose Эксель. Python Эксель. Быстро и легко конвертируйте MHTML в EXCEL с помощью Aspose.Cells. Python MHTML в EXCEL. Python Сохраните MHTML в EXCEL. Сохраните MHTML как EXCEL, используя библиотеку Excel Python.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert MHTML to EXCEL in Python Excel Library., Save MHTML to EXCEL using Python Excel Library., Python MHTML to EXCEL saveformat., MHTML to EXCEL Converter., Python Save MHTML as EXCEL]
+description: Aspose Excel. Это комплексное решение предоставляет разработчикам Python полностью интегрированный подход к преобразованию MHTML в формат EXCEL, обеспечивая беспрепятственное сохранение данных MHTML в формат EXCEL с использованием библиотеки Aspose.Cells, и все это с помощью эффективного и настраиваемого кода Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart MHTML files to EXCEL Converter for Python., Convert MHTML to EXCEL in Python., MHTML files to EXCEL Conversion in Python., Leverage intelligent data processing to automatically parse and save MHTML into EXCEL format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Преобразуйте MHTML в EXCEL в библиотеке Excel Python." h2="Высокоскоростная библиотека Excel Python для преобразования MHTML в EXCEL. Это профессиональное программное решение для импорта и экспорта MHTML, EXCEL и многих других форматов с использованием Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="EXCEL" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -27,7 +27,7 @@ keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert M
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Пример кода для преобразования MHTML в EXCEL с помощью библиотеки Excel Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="mhtml" outformat="xlsx" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="Пример кода для преобразования MHTML в EXCEL с помощью библиотеки Excel Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="mhtml" outformat="xlsx" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="Как конвертировать MHTML в EXCEL с помощью Python" %}}
 

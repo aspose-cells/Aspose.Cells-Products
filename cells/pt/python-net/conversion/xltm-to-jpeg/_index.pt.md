@@ -1,7 +1,7 @@
 ---
 title: Python XLTM a JPEG - XLTM a JPEG Conversor
-description: Aspose Excel. Python Excel. Converta XLTM em JPEG de forma rápida e fácil com Aspose.Cells. Python XLTM em JPEG. Python Salve XLTM em JPEG. Salve XLTM como 076112 3481 usando Python Biblioteca Excel.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert XLTM to JPEG in Python Excel Library., Save XLTM to JPEG using Python Excel Library., Python XLTM to JPEG saveformat., XLTM to JPEG Converter., Python Save XLTM as JPEG]
+description: Aspose Excel. Esta solução abrangente fornece aos desenvolvedores Python uma abordagem totalmente integrada para converter XLTM para o formato JPEG, permitindo o salvamento perfeito de dados XLTM no formato JPEG usando a biblioteca Aspose.Cells, tudo por meio de código Python eficiente e personalizável.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart XLTM files to JPEG Converter for Python., Convert XLTM to JPEG in Python., XLTM files to JPEG Conversion in Python., Leverage intelligent data processing to automatically parse and save XLTM into JPEG format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Converta XLTM em JPEG na Biblioteca Excel Python" h2="Biblioteca Excel Python de alta velocidade para converter XLTM em JPEG. Use nossa conversão Excel API para desenvolver software independente de plataforma de alto nível em Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="JPEG" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -28,7 +28,7 @@ Siga as etapas fáceis para converter XLTM em JPEG. Carregue seu arquivo XLTM e 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Exemplo de código para converter XLTM em JPEG por meio da biblioteca Python Excel" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xltm" outformat="jpg" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Exemplo de código para converter XLTM em JPEG por meio da biblioteca Python Excel" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="xltm" outformat="jpg" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="Como converter XLTM em JPEG" %}}
 
@@ -99,7 +99,7 @@ Aspose.Cells for Python via NET é independente de plataforma API e pode ser usa
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xltm-to-xlt/" name="XLTM A XLT" description="Microsoft Modelo Excel" >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xltm-to-xltx/" name="XLTM A XLTX" description="Modelo Office OpenXML Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xltm-to-xml/" name="XLTM PARA XML" description="Extensible Markup Language" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xltm-to-xml/" name="XLTM PARA XML" description="Linguagem de Marcação Extensível" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xltm-to-xps/" name="XLTM A XPS" description="Especificações do papel XML" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xltm-to-json/" name="XLTM A JSON" description="Notação de objeto JavaScript" >}}
 

@@ -1,7 +1,7 @@
 ---
 title: Python TSV na PRN - TSV na konwerter PRN
-description: Aspose Excel. Python Excel. Szybko i łatwo przekonwertuj numer TSV na PRN za pomocą Aspose.Cells. Python TSV na PRN. Python Zapisz TSV w PRN. Zapisz numer TSV jako PRN, korzystając z biblioteki Excel Python.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert TSV to PRN in Python Excel Library., Save TSV to PRN using Python Excel Library., Python TSV to PRN saveformat., TSV to PRN Converter., Python Save TSV as PRN]
+description: Aspose Excel. To kompleksowe rozwiązanie zapewnia programistom w pełni zintegrowane podejście do konwersji TSV do formatu PRN, umożliwiając bezproblemowe zapisywanie danych TSV w formacie PRN przy użyciu biblioteki Aspose.Cells, a wszystko to dzięki wydajnemu i konfigurowalnemu kodowi Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart TSV files to PRN Converter for Python., Convert TSV to PRN in Python., TSV files to PRN Conversion in Python., Leverage intelligent data processing to automatically parse and save TSV into PRN format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Konwertuj TSV na PRN w Python Biblioteka Excel" h2="Szybka biblioteka Excel Python do konwersji TSV na PRN. Skorzystaj z naszej konwersji Excela API, aby opracować oprogramowanie wysokiego poziomu, niezależne od platformy w Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="PRN" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -28,7 +28,7 @@ Wykonaj proste kroki, aby przekonwertować numer TSV na PRN. Prześlij plik TSV,
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Przykładowy kod do konwersji TSV na PRN za pośrednictwem biblioteki Excel Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="tsv" outformat="prn" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Przykładowy kod do konwersji TSV na PRN za pośrednictwem biblioteki Excel Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="tsv" outformat="prn" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="Jak przekonwertować numer TSV na PRN" %}}
 

@@ -1,7 +1,7 @@
 ---
 title: Python MHT para SVG - Conversor MHT para SVG
-description: Aspose Excel. Python Excel. Converta MHT em SVG de forma rápida e fácil com Aspose.Cells. Python MHT em SVG. Python Salve MHT em SVG. Salve MHT como SVG usando Python Excel Library.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert MHT to SVG in Python Excel Library., Save MHT to SVG using Python Excel Library., Python MHT to SVG saveformat., MHT to SVG Converter., Python Save MHT as SVG]
+description: Aspose Excel. Esta solução abrangente fornece aos desenvolvedores Python uma abordagem totalmente integrada para converter MHT para o formato SVG, permitindo o salvamento perfeito de dados MHT no formato SVG usando a biblioteca Aspose.Cells, tudo por meio de código Python eficiente e personalizável.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart MHT files to SVG Converter for Python., Convert MHT to SVG in Python., MHT files to SVG Conversion in Python., Leverage intelligent data processing to automatically parse and save MHT into SVG format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Converter MHT em SVG na biblioteca Excel Python" h2="Biblioteca Excel Python de alta velocidade para converter MHT em SVG. Esta é uma solução de software profissional para importar e exportar MHT, SVG e muitos outros formatos usando Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="SVG" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -27,7 +27,7 @@ Siga as etapas fáceis para converter MHT em SVG. Carregue seu arquivo MHT e sim
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Exemplo de código para converter MHT em SVG por meio da biblioteca Excel Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="mht" outformat="svg" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="Exemplo de código para converter MHT em SVG por meio da biblioteca Excel Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="mht" outformat="svg" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="Como converter MHT para SVG via Python" %}}
 
@@ -101,7 +101,7 @@ Aspose.Cells for Python via Java é independente de plataforma API e pode ser us
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/mht-to-xlt/" name="MHT PARA XLT" description="Microsoft Modelo Excel" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/mht-to-xltm/" name="MHT PARA XLTM" description="Modelo habilitado para macro do Excel" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/mht-to-xltx/" name="MHT PARA XLTX" description="Modelo Office OpenXML Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/mht-to-xml/" name="MHT PARA XML" description="Extensible Markup Language" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/mht-to-xml/" name="MHT PARA XML" description="Linguagem de Marcação Extensível" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/mht-to-xps/" name="MHT PARA XPS" description="Especificações do papel XML" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/mht-to-json/" name="MHT PARA JSON" description="Notação de objeto JavaScript" >}}
 

@@ -1,7 +1,7 @@
 ---
 title: Python TABDELIMITED para PPTX - Conversor TABDELIMITED para PPTX
-description: Aspose Excel. Python Excel. Converta TABDELIMITED em PPTX de forma rápida e fácil com Aspose.Cells. Python TABDELIMITED em PPTX. Python Salve TABDELIMITED em PPTX. Salve TABDELIMITED como PPTX usando Python Excel Library.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert TABDELIMITED to PPTX in Python Excel Library., Save TABDELIMITED to PPTX using Python Excel Library., Python TABDELIMITED to PPTX saveformat., TABDELIMITED to PPTX Converter., Python Save TABDELIMITED as PPTX]
+description: Aspose Excel. Esta solução abrangente fornece aos desenvolvedores Python uma abordagem totalmente integrada para converter TABDELIMITED para o formato PPTX, permitindo o salvamento perfeito de dados TABDELIMITED no formato PPTX usando a biblioteca Aspose.Cells, tudo por meio de código Python eficiente e personalizável.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart TABDELIMITED files to PPTX Converter for Python., Convert TABDELIMITED to PPTX in Python., TABDELIMITED files to PPTX Conversion in Python., Leverage intelligent data processing to automatically parse and save TABDELIMITED into PPTX format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Converta TABDELIMITED em PPTX na biblioteca Python do Excel" h2="Biblioteca Excel Python de alta velocidade para converter TABDELIMITED em PPTX. Esta é uma solução de software profissional para importar e exportar TABDELIMITED, PPTX e muitos outros formatos usando Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="PPTX" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -27,7 +27,7 @@ Siga as etapas fáceis para converter TABDELIMITED em PPTX. Carregue seu arquivo
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Código de exemplo para converter TABDELIMITED em PPTX por meio da biblioteca Excel Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="tsv" outformat="pptx" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="Código de exemplo para converter TABDELIMITED em PPTX por meio da biblioteca Excel Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="tsv" outformat="pptx" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="Como converter TABDELIMITED para PPTX via Python" %}}
 
@@ -101,7 +101,7 @@ Aspose.Cells for Python via Java é independente de plataforma API e pode ser us
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/tabdelimited-to-xlt/" name="TABDELIMITADO A XLT" description="Microsoft Modelo Excel" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/tabdelimited-to-xltm/" name="TABDELIMITADO A XLTM" description="Modelo habilitado para macro do Excel" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/tabdelimited-to-xltx/" name="TABDELIMITADO A XLTX" description="Modelo Office OpenXML Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/tabdelimited-to-xml/" name="TABDELIMITADO A XML" description="Extensible Markup Language" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/tabdelimited-to-xml/" name="TABDELIMITADO A XML" description="Linguagem de Marcação Extensível" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/tabdelimited-to-xps/" name="TABDELIMITADO A XPS" description="Especificações do papel XML" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/tabdelimited-to-json/" name="TABDELIMITADO A JSON" description="Notação de objeto JavaScript" >}}
 

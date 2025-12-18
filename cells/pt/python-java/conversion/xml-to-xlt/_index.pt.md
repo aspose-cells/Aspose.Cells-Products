@@ -1,7 +1,7 @@
 ---
 title: Python XML para XLT - Conversor XML para XLT
-description: Aspose Excel. Python Excel. Converta XML para XLT de forma rápida e fácil com Aspose.Cells. Python XML para XLT. Python Salve XML em XLT. Salve XML como XLT usando Python Excel Library.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert XML to XLT in Python Excel Library., Save XML to XLT using Python Excel Library., Python XML to XLT saveformat., XML to XLT Converter., Python Save XML as XLT]
+description: Aspose Excel. Esta solução abrangente fornece aos desenvolvedores Python uma abordagem totalmente integrada para converter XML para o formato XLT, permitindo o salvamento perfeito de dados XML no formato XLT usando a biblioteca Aspose.Cells, tudo por meio de código Python eficiente e personalizável.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart XML files to XLT Converter for Python., Convert XML to XLT in Python., XML files to XLT Conversion in Python., Leverage intelligent data processing to automatically parse and save XML into XLT format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Converta XML para XLT na Biblioteca Excel Python" h2="Biblioteca Excel Python de alta velocidade para conversão de XML em XLT. Esta é uma solução de software profissional para importar e exportar XML, XLT e muitos outros formatos usando Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLT" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -27,7 +27,7 @@ Siga as etapas fáceis para converter XML em XLT. Carregue seu arquivo XML e sim
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Exemplo de código para converter XML em XLT por meio da biblioteca Excel Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xml" outformat="xlt" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="Exemplo de código para converter XML em XLT por meio da biblioteca Excel Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="xml" outformat="xlt" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="Como converter XML para XLT via Python" %}}
 

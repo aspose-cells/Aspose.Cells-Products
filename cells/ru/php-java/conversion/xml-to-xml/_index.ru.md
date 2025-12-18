@@ -1,7 +1,7 @@
 ---
-title: PHP XML в XML - конвертер XML в XML
-description: Aspose Эксель. Преобразуйте XML в XML быстро и легко с помощью Aspose.Cells. PHP XML в XML. PHP Сохранение XML в XML. Сохраните XML как XML, используя PHP.
-keywords: [Aspose Excel., PHP Aspose.Cells., Convert XML to XML in PHP., Save XML to XML using PHP., PHP XML to XML saveformat., XML to XML Converter., PHP Save XML as XML]
+title: PHP XML в XML - Конвертер XML в XML
+description: Aspose Excel. Это комплексное решение предоставляет PHP-разработчикам полностью интегрированный подход к преобразованию XML в формат XML, обеспечивая беспрепятственное сохранение XML-данных в формате XML с помощью библиотеки Aspose.Cells, и все это посредством эффективного и настраиваемого PHP-кода.
+keywords: [Aspose Excel., PHP Aspose.Cells., Smart XML files to XML Converter for PHP., Convert XML to XML in PHP., XML files to XML Conversion in PHP., Leverage intelligent data processing to automatically parse and save XML into XML format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Преобразование XML в XML в PHP" h2="Высокоскоростная PHP-библиотека для преобразования XML в XML. Это профессиональное программное решение для импорта и экспорта XML, XML и многих других форматов с использованием PHP." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-php-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="XML" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,13 +12,13 @@ keywords: [Aspose Excel., PHP Aspose.Cells., Convert XML to XML in PHP., Save XM
 
 {{% blocks/products/pf/agp/content h2="Преобразование XML в XML с помощью PHP" %}}
 
- Как мне преобразовать XML в XML? С помощью библиотеки Aspose.Cells for PHP via Java вы можете легко конвертировать XML в XML программно с помощью нескольких строк кода.[Aspose.Cells for PHP via Java](https://products.aspose.com/cells/php-java/) способен создавать кроссплатформенные приложения с возможностью генерировать, изменять, конвертировать, отображать и распечатывать все файлы Excel. PHP Excel API не только конвертирует форматы электронных таблиц, но также может отображать файлы Excel в виде изображений, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT и т. д., что делает его идеальным выбором для обмена документами в стандартных отраслевых форматах.
+ Как преобразовать XML в XML? С помощью библиотек Aspose.Cells for PHP via Java вы можете легко преобразовать XML в XML программным способом всего несколькими строками кода.[Aspose.Cells for PHP via Java](https://products.aspose.com/cells/php-java/) PHP Excel API способен создавать кроссплатформенные приложения с возможностью генерации, изменения, преобразования, отображения и печати всех файлов Excel. Он не только конвертирует файлы между форматами электронных таблиц, но и может отображать файлы Excel в виде изображений, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT и многое другое, что делает его идеальным выбором для обмена документами в стандартных отраслевых форматах.
  
 {{% /blocks/products/pf/agp/content %}}
 
 {{% blocks/products/pf/agp/content h2="Сохранение XML в XML в PHP" %}}
 
-В следующем примере показано, как преобразовать XML в XML в PHP.
+Следующий пример демонстрирует, как преобразовать XML в XML в PHP.
 {{% blocks/products/pf/agp/text %}}
 
 Следуйте простым шагам, чтобы преобразовать XML в XML. Загрузите свой XML-файл, а затем просто сохраните его как XML-файл. Как для чтения XML, так и для записи XML вы можете использовать полные имена файлов. Содержимое и форматирование выходного XML будут идентичны исходному XML-документу.
@@ -27,20 +27,20 @@ keywords: [Aspose Excel., PHP Aspose.Cells., Convert XML to XML in PHP., Save XM
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Пример кода для преобразования XML в XML" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xml" outformat="xml" IsLandingPage="true" language="phpjava" %}}
+{{% cells-convert title="Пример кода для преобразования XML в XML" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="xml" outformat="xml" IsLandingPage="true" language="phpjava" %}}
 
-{{% blocks/products/pf/agp/content h2="Как конвертировать XML в XML через PHP" %}}
+{{% blocks/products/pf/agp/content h2="Как преобразовать XML в XML с помощью PHP" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
-Вам нужно программно конвертировать XML-файлы в XML? Разработчики PHP могут легко загружать и конвертировать XML в XML всего за несколько строк кода.
+Нужно программно преобразовать XML-файлы в XML? PHP-разработчики могут легко загрузить и преобразовать XML в XML всего несколькими строками кода.
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Установите «Aspose.Cells for PHP via Java».
 1.  Добавьте ссылку на библиотеку (импортируйте библиотеку) в свой PHP-проект.
 1.  Загрузите XML-файл с экземпляром книги.
-1.  Преобразуйте XML в XML, вызвав метод сохранения книги.
+1.  Преобразуйте XML в XML, вызвав метод save рабочей книги.
 1.  Получите результат преобразования XML в XML.
 
 {{% /blocks/products/pf/agp/content %}}
@@ -63,7 +63,7 @@ keywords: [Aspose Excel., PHP Aspose.Cells., Convert XML to XML in PHP., Save XM
 
 {{% blocks/products/pf/agp/text %}}
 
-Aspose.Cells for PHP via Java не зависит от платформы API и может использоваться на любой платформе (Windows, Linux, MacOS и т. д.), где установлен PHP 7 или более поздние версии. Перед настройкой установки на компьютере должна быть установлена версия Oracle JDK 7 или более поздней версии.
+ Aspose.Cells for PHP via Java является платформенно-независимым API и может использоваться на любой платформе (Windows, Linux, MacOS и т. д.), где установлен PHP 7 или более поздней версии. Перед установкой на компьютере должен быть установлен Oracle JDK 7 или более поздней версии.
  
 {{% /blocks/products/pf/agp/text %}}
 

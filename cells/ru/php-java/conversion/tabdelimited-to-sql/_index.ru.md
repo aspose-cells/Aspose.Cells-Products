@@ -1,7 +1,7 @@
 ---
-title: PHP TABDELIMITED в SQL - Конвертер TABDELIMITED в SQL
-description: Aspose Эксель. Преобразуйте TABDELIMITED в SQL быстро и легко с помощью Aspose.Cells. PHP TABDELIMITED в SQL. PHP Сохранить TABDELIMITED в SQL. Сохраните TABDELIMITED как SQL, используя PHP.
-keywords: [Aspose Excel., PHP Aspose.Cells., Convert TABDELIMITED to SQL in PHP., Save TABDELIMITED to SQL using PHP., PHP TABDELIMITED to SQL saveformat., TABDELIMITED to SQL Converter., PHP Save TABDELIMITED as SQL]
+title: PHP TABDELIMITED to SQL - Конвертер TABDELIMITED в SQL
+description: Aspose Excel. Это комплексное решение предоставляет PHP-разработчикам полностью интегрированный подход к преобразованию данных TABDELIMITED в формат SQL, обеспечивая беспрепятственное сохранение данных TABDELIMITED в формат SQL с помощью библиотеки Aspose.Cells, и все это посредством эффективного и настраиваемого PHP-кода.
+keywords: [Aspose Excel., PHP Aspose.Cells., Smart TABDELIMITED files to SQL Converter for PHP., Convert TABDELIMITED to SQL in PHP., TABDELIMITED files to SQL Conversion in PHP., Leverage intelligent data processing to automatically parse and save TABDELIMITED into SQL format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Преобразование TABDELIMITED в SQL в PHP" h2="Высокоскоростная PHP-библиотека для преобразования TABDELIMITED в SQL. Это профессиональное программное решение для импорта и экспорта TABDELIMITED, SQL и многих других форматов с использованием PHP." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-php-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="SQL" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,13 +12,13 @@ keywords: [Aspose Excel., PHP Aspose.Cells., Convert TABDELIMITED to SQL in PHP.
 
 {{% blocks/products/pf/agp/content h2="Преобразование TABDELIMITED в SQL с помощью PHP" %}}
 
- Как мне преобразовать TABDELIMITED в SQL? С помощью библиотеки Aspose.Cells for PHP via Java вы можете легко преобразовать TABDELIMITED в SQL программно с помощью нескольких строк кода.[Aspose.Cells for PHP via Java](https://products.aspose.com/cells/php-java/) способен создавать кроссплатформенные приложения с возможностью генерировать, изменять, конвертировать, отображать и распечатывать все файлы Excel. PHP Excel API не только конвертирует форматы электронных таблиц, но также может отображать файлы Excel в виде изображений, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT и т. д., что делает его идеальным выбором для обмена документами в стандартных отраслевых форматах.
+ Как преобразовать TABDELIMITED в SQL? С помощью библиотек Aspose.Cells for PHP via Java вы можете легко преобразовать TABDELIMITED в SQL программным способом всего несколькими строками кода.[Aspose.Cells for PHP via Java](https://products.aspose.com/cells/php-java/) PHP Excel API способен создавать кроссплатформенные приложения с возможностью генерации, изменения, преобразования, отображения и печати всех файлов Excel. Он не только конвертирует файлы между форматами электронных таблиц, но и может отображать файлы Excel в виде изображений, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT и многое другое, что делает его идеальным выбором для обмена документами в стандартных отраслевых форматах.
  
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Сохранить TABDELIMITED в SQL на PHP" %}}
+{{% blocks/products/pf/agp/content h2="Сохранение TABDELIMITED в SQL в PHP" %}}
 
-В следующем примере показано, как преобразовать TABDELIMITED в SQL в PHP.
+Следующий пример демонстрирует, как преобразовать TABDELIMITED в SQL-запрос в PHP.
 {{% blocks/products/pf/agp/text %}}
 
 Следуйте простым шагам, чтобы преобразовать TABDELIMITED в SQL. Загрузите файл TABDELIMITED, а затем просто сохраните его как файл SQL. Как для чтения TABDELIMITED, так и для записи SQL вы можете использовать полные имена файлов. Содержимое и форматирование выходного SQL будут идентичны исходному документу TABDELIMITED.
@@ -27,25 +27,25 @@ keywords: [Aspose Excel., PHP Aspose.Cells., Convert TABDELIMITED to SQL in PHP.
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Пример кода для преобразования TABDELIMITED в SQL" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="tsv" outformat="sql" IsLandingPage="true" language="phpjava" %}}
+{{% cells-convert title="Пример кода для преобразования TABDELIMITED в SQL." formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="tsv" outformat="sql" IsLandingPage="true" language="phpjava" %}}
 
-{{% blocks/products/pf/agp/content h2="Как преобразовать TABDELIMITED в SQL через PHP" %}}
+{{% blocks/products/pf/agp/content h2="Как преобразовать TABDELIMITED в SQL с помощью PHP" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
-Вам нужно программно преобразовать файлы TABDELIMITED в SQL? Разработчики PHP могут легко загружать и конвертировать TABDELIMITED в SQL всего за несколько строк кода.
+Нужно программно преобразовать файлы с ограничением по вкладкам (TABDELIMITED) в SQL? PHP-разработчики могут легко загрузить и преобразовать файлы TABDELIMITED в SQL всего несколькими строками кода.
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Установите «Aspose.Cells for PHP via Java».
 1.  Добавьте ссылку на библиотеку (импортируйте библиотеку) в свой PHP-проект.
 1.  Загрузите файл TABDELIMITED с экземпляром книги.
-1.  Преобразуйте TABDELIMITED в SQL, вызвав метод сохранения книги.
+1.  Преобразуйте TABDELIMITED в SQL, вызвав метод save Workbook.
 1.  Получите результат преобразования TABDELIMITED в SQL.
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Библиотека PHP для преобразования TABDELIMITED в SQL" %}}
+{{% blocks/products/pf/agp/content h2="PHP-библиотека для преобразования TABDELIMITED в SQL." %}}
 
 {{% blocks/products/pf/agp/text %}}
 
@@ -63,7 +63,7 @@ keywords: [Aspose Excel., PHP Aspose.Cells., Convert TABDELIMITED to SQL in PHP.
 
 {{% blocks/products/pf/agp/text %}}
 
-Aspose.Cells for PHP via Java не зависит от платформы API и может использоваться на любой платформе (Windows, Linux, MacOS и т. д.), где установлен PHP 7 или более поздние версии. Перед настройкой установки на компьютере должна быть установлена версия Oracle JDK 7 или более поздней версии.
+ Aspose.Cells for PHP via Java является платформенно-независимым API и может использоваться на любой платформе (Windows, Linux, MacOS и т. д.), где установлен PHP 7 или более поздней версии. Перед установкой на компьютере должен быть установлен Oracle JDK 7 или более поздней версии.
  
 {{% /blocks/products/pf/agp/text %}}
 

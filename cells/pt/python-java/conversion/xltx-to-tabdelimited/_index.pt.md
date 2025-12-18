@@ -1,7 +1,7 @@
 ---
 title: Python XLTX para TABDELIMITED - Conversor XLTX para TABDELIMITED
-description: Aspose Excel. Python Excel. Converta XLTX em TABDELIMITED de forma rápida e fácil com Aspose.Cells. Python XLTX em TABDELIMITED. Python Salve XLTX em TABDELIMITED. Salve XLTX como TABDELIMITED usando a Biblioteca Excel Python.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert XLTX to TABDELIMITED in Python Excel Library., Save XLTX to TABDELIMITED using Python Excel Library., Python XLTX to TABDELIMITED saveformat., XLTX to TABDELIMITED Converter., Python Save XLTX as TABDELIMITED]
+description: Aspose Excel. Esta solução abrangente fornece aos desenvolvedores Python uma abordagem totalmente integrada para converter XLTX para o formato TABDELIMITED, permitindo o salvamento perfeito de dados XLTX no formato TABDELIMITED usando a biblioteca Aspose.Cells, tudo por meio de código Python eficiente e personalizável.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart XLTX files to TABDELIMITED Converter for Python., Convert XLTX to TABDELIMITED in Python., XLTX files to TABDELIMITED Conversion in Python., Leverage intelligent data processing to automatically parse and save XLTX into TABDELIMITED format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Converta XLTX em TABDELIMITED na biblioteca Python do Excel" h2="Biblioteca Excel Python de alta velocidade para converter XLTX em TABDELIMITED. Esta é uma solução de software profissional para importar e exportar XLTX, TABDELIMITED e muitos outros formatos usando Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="TABDELIMITED" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -27,7 +27,7 @@ Siga as etapas fáceis para converter XLTX em TABDELIMITED. Carregue seu arquivo
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Código de exemplo para converter XLTX em TABDELIMITED por meio da biblioteca Excel Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xltx" outformat="tsv" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="Código de exemplo para converter XLTX em TABDELIMITED por meio da biblioteca Excel Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="xltx" outformat="tsv" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="Como converter XLTX para TABDELIMITED via Python" %}}
 
@@ -101,7 +101,7 @@ Aspose.Cells for Python via Java é independente de plataforma API e pode ser us
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xltx-to-xlt/" name="XLTX A XLT" description="Microsoft Modelo Excel" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xltx-to-xltm/" name="XLTX A XLTM" description="Modelo habilitado para macro do Excel" >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xltx-to-xml/" name="XLTX PARA XML" description="Extensible Markup Language" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xltx-to-xml/" name="XLTX PARA XML" description="Linguagem de Marcação Extensível" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xltx-to-xps/" name="XLTX A XPS" description="Especificações do papel XML" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xltx-to-json/" name="XLTX A JSON" description="Notação de objeto JavaScript" >}}
 

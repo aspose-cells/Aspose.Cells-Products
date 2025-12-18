@@ -1,7 +1,7 @@
 ---
 title: Python XML в XLSB - Конвертер XML в XLSB
-description: Aspose Эксель. Python Эксель. Быстро и легко конвертируйте XML в XLSB с помощью Aspose.Cells. Python XML в XLSB. Python Сохраните XML в XLSB. Сохраните XML как XLSB, используя библиотеку Excel Python.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert XML to XLSB in Python Excel Library., Save XML to XLSB using Python Excel Library., Python XML to XLSB saveformat., XML to XLSB Converter., Python Save XML as XLSB]
+description: Aspose Excel. Это комплексное решение предоставляет разработчикам Python полностью интегрированный подход к преобразованию XML в формат XLSB, обеспечивая беспрепятственное сохранение XML-данных в формат XLSB с использованием библиотеки Aspose.Cells, и все это с помощью эффективного и настраиваемого кода Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart XML files to XLSB Converter for Python., Convert XML to XLSB in Python., XML files to XLSB Conversion in Python., Leverage intelligent data processing to automatically parse and save XML into XLSB format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Преобразование XML в XLSB в библиотеке Excel Python" h2="Высокоскоростная библиотека Excel Python для преобразования XML в XLSB. Используйте наше преобразование Excel API для разработки высокоуровневого, независимого от платформы программного обеспечения в Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSB" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -28,7 +28,7 @@ keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert X
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Пример кода для преобразования XML в XLSB с помощью библиотеки Excel Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xml" outformat="xlsb" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Пример кода для преобразования XML в XLSB с помощью библиотеки Excel Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="xml" outformat="xlsb" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="Как конвертировать XML в XLSB" %}}
 

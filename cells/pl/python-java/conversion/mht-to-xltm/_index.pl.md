@@ -1,7 +1,7 @@
 ---
 title: Python MHT na XLTM - Konwerter MHT na XLTM
-description: Aspose Excel. Python Excel. Konwertuj MHT na XLTM szybko i łatwo za pomocą Aspose.Cells. Python MHT na XLTM. Python Zapisz MHT na XLTM. Zapisz MHT jako XLTM, korzystając z biblioteki Excel Python.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert MHT to XLTM in Python Excel Library., Save MHT to XLTM using Python Excel Library., Python MHT to XLTM saveformat., MHT to XLTM Converter., Python Save MHT as XLTM]
+description: Aspose Excel. To kompleksowe rozwiązanie zapewnia programistom w pełni zintegrowane podejście do konwersji MHT do formatu XLTM, umożliwiając bezproblemowe zapisywanie danych MHT do formatu XLTM przy użyciu biblioteki Aspose.Cells, a wszystko to dzięki wydajnemu i konfigurowalnemu kodowi Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart MHT files to XLTM Converter for Python., Convert MHT to XLTM in Python., MHT files to XLTM Conversion in Python., Leverage intelligent data processing to automatically parse and save MHT into XLTM format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Konwertuj MHT na XLTM w Python Biblioteka Excel" h2="Szybka biblioteka Excel Python do konwersji MHT na XLTM. Jest to profesjonalne oprogramowanie do importowania i eksportowania MHT, XLTM i wielu innych formatów przy użyciu Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLTM" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -27,7 +27,7 @@ Wykonaj proste kroki, aby przekonwertować MHT na XLTM. Prześlij plik MHT, a na
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Przykładowy kod do konwersji MHT na XLTM za pośrednictwem biblioteki Excel Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="mht" outformat="xltm" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="Przykładowy kod do konwersji MHT na XLTM za pośrednictwem biblioteki Excel Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="mht" outformat="xltm" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="Jak przekonwertować MHT na XLTM przez Python" %}}
 

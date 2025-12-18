@@ -1,7 +1,7 @@
 ---
 title: Python OBRAZ na ODS - OBRAZ na ODS Konwerter
-description: Aspose Excel. Python Excel. Szybko i łatwo przekonwertuj OBRAZ na ODS za pomocą Aspose.Cells. Python OBRAZ na ODS. Python Zapisz OBRAZ pod ODS. Zapisz OBRAZ jako ODS, używając Python Biblioteki Excel.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert IMAGE to ODS in Python Excel Library., Save IMAGE to ODS using Python Excel Library., Python IMAGE to ODS saveformat., IMAGE to ODS Converter., Python Save IMAGE as ODS]
+description: Aspose Excel. To kompleksowe rozwiązanie zapewnia programistom w pełni zintegrowane podejście do konwersji obrazów do formatu ODS, umożliwiając bezproblemowe zapisywanie danych obrazów do formatu ODS za pomocą biblioteki Aspose.Cells, a wszystko to dzięki wydajnemu i konfigurowalnemu kodowi Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart IMAGE files to ODS Converter for Python., Convert IMAGE to ODS in Python., IMAGE files to ODS Conversion in Python., Leverage intelligent data processing to automatically parse and save IMAGE into ODS format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Konwertuj OBRAZ na ODS w bibliotece Excel Python" h2="Szybka biblioteka Excel Python do konwersji IMAGE na ODS. Skorzystaj z naszej konwersji Excel API, aby opracować zaawansowane, niezależne od platformy oprogramowanie w Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="ODS" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -28,7 +28,7 @@ Wykonaj proste kroki, aby przekonwertować IMAGE na ODS. Prześlij plik IMAGE, a
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Przykładowy kod do konwersji OBRAZU na ODS za pośrednictwem biblioteki Excel Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="png" outformat="ods" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Przykładowy kod do konwersji OBRAZU na ODS za pośrednictwem biblioteki Excel Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="png" outformat="ods" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="Jak przekonwertować OBRAZ na ODS" %}}
 

@@ -1,7 +1,7 @@
 ---
 title: Python HTML do SXC - HTML do SXC Konwerter
-description: Aspose Excel. Python Excel. Konwertuj numer HTML na SXC szybko i łatwo za pomocą Aspose.Cells. Python HTML na SXC. Python Zapisz HTML na SXC. Zapisz HTML jako 07611 23481 przy użyciu biblioteki programu Excel Python.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert HTML to SXC in Python Excel Library., Save HTML to SXC using Python Excel Library., Python HTML to SXC saveformat., HTML to SXC Converter., Python Save HTML as SXC]
+description: Aspose Excel. To kompleksowe rozwiązanie zapewnia programistom w pełni zintegrowane podejście do konwersji formatu HTML do SXC, umożliwiając bezproblemowe zapisywanie danych HTML do formatu SXC za pomocą biblioteki Aspose.Cells, a wszystko to dzięki wydajnemu i konfigurowalnemu kodowi Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart HTML files to SXC Converter for Python., Convert HTML to SXC in Python., HTML files to SXC Conversion in Python., Leverage intelligent data processing to automatically parse and save HTML into SXC format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Konwertuj HTML na SXC w Python Biblioteka Excel" h2="Szybka biblioteka Excel Python do konwersji HTML na SXC. Jest to profesjonalne oprogramowanie do importowania i eksportowania HTML, SXC i wielu innych formatów przy użyciu Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="SXC" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -27,7 +27,7 @@ Wykonaj proste kroki, aby przekonwertować numer HTML na numer SXC. Prześlij pl
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Przykładowy kod do konwersji HTML na SXC za pośrednictwem biblioteki Excel Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="html" outformat="sxc" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="Przykładowy kod do konwersji HTML na SXC za pośrednictwem biblioteki Excel Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="html" outformat="sxc" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="Jak przekonwertować HTML na SXC przez Python" %}}
 

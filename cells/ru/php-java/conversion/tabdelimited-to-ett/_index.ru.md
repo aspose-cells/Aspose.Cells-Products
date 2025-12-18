@@ -1,7 +1,7 @@
 ---
 title: PHP TABDELIMITED в ETT - Конвертер TABDELIMITED в ETT
-description: Aspose Эксель. Преобразуйте TABDELIMITED в ETT быстро и легко с помощью Aspose.Cells. PHP TABDELIMITED в ETT. PHP Сохранить TABDELIMITED в ETT. Сохраните TABDELIMITED как ETT, используя PHP.
-keywords: [Aspose Excel., PHP Aspose.Cells., Convert TABDELIMITED to ETT in PHP., Save TABDELIMITED to ETT using PHP., PHP TABDELIMITED to ETT saveformat., TABDELIMITED to ETT Converter., PHP Save TABDELIMITED as ETT]
+description: Aspose Excel. Это комплексное решение предоставляет PHP-разработчикам полностью интегрированный подход к преобразованию формата TABDELIMITED в формат ETT, обеспечивая беспрепятственное сохранение данных TABDELIMITED в формат ETT с использованием библиотеки Aspose.Cells, и все это с помощью эффективного и настраиваемого PHP-кода.
+keywords: [Aspose Excel., PHP Aspose.Cells., Smart TABDELIMITED files to ETT Converter for PHP., Convert TABDELIMITED to ETT in PHP., TABDELIMITED files to ETT Conversion in PHP., Leverage intelligent data processing to automatically parse and save TABDELIMITED into ETT format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Преобразование TABDELIMITED в ETT в PHP" h2="Высокоскоростная PHP-библиотека для преобразования TABDELIMITED в ETT. Это профессиональное программное решение для импорта и экспорта TABDELIMITED, ETT и многих других форматов с использованием PHP." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-php-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="ETT" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,13 +12,13 @@ keywords: [Aspose Excel., PHP Aspose.Cells., Convert TABDELIMITED to ETT in PHP.
 
 {{% blocks/products/pf/agp/content h2="Преобразование TABDELIMITED в ETT с помощью PHP" %}}
 
-Как мне преобразовать TABDELIMITED в ETT? С помощью библиотеки Aspose.Cells for PHP via Java вы можете легко преобразовать TABDELIMITED в ETT программно с помощью нескольких строк кода.[Aspose.Cells for PHP via Java](https://products.aspose.com/cells/php-java/) способен создавать кроссплатформенные приложения с возможностью генерировать, изменять, конвертировать, отображать и распечатывать все файлы Excel. PHP Excel API не только конвертирует форматы электронных таблиц, но также может отображать файлы Excel в виде изображений, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT и т. д., что делает его идеальным выбором для обмена документами в стандартных отраслевых форматах.
+ Как преобразовать TABDELIMITED в ETT? С помощью библиотек Aspose.Cells for PHP via Java вы можете легко преобразовать TABDELIMITED в ETT программно всего несколькими строками кода.[Aspose.Cells for PHP via Java](https://products.aspose.com/cells/php-java/) PHP Excel API способен создавать кроссплатформенные приложения с возможностью генерации, изменения, преобразования, отображения и печати всех файлов Excel. Он не только конвертирует файлы между форматами электронных таблиц, но и может отображать файлы Excel в виде изображений, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT и многое другое, что делает его идеальным выбором для обмена документами в стандартных отраслевых форматах.
  
 {{% /blocks/products/pf/agp/content %}}
 
 {{% blocks/products/pf/agp/content h2="Сохранить TABDELIMITED в ETT в PHP" %}}
 
-В следующем примере показано, как преобразовать TABDELIMITED в ETT в PHP.
+Следующий пример демонстрирует, как преобразовать TABDELIMITED в ETT в PHP.
 {{% blocks/products/pf/agp/text %}}
 
 Следуйте простым шагам, чтобы преобразовать TABDELIMITED в ETT. Загрузите файл TABDELIMITED, а затем просто сохраните его как файл ETT. Как для чтения TABDELIMITED, так и для записи ETT вы можете использовать полные имена файлов. Выходное содержимое и форматирование ETT будут идентичны исходному документу TABDELIMITED.
@@ -27,25 +27,25 @@ keywords: [Aspose Excel., PHP Aspose.Cells., Convert TABDELIMITED to ETT in PHP.
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Пример кода для преобразования TABDELIMITED в ETT" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="tsv" outformat="ett" IsLandingPage="true" language="phpjava" %}}
+{{% cells-convert title="Пример кода для преобразования TABDELIMITED в ETT" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="tsv" outformat="ett" IsLandingPage="true" language="phpjava" %}}
 
-{{% blocks/products/pf/agp/content h2="Как конвертировать TABDELIMITED в ETT через PHP" %}}
+{{% blocks/products/pf/agp/content h2="Как конвертировать TABDELIMITED в ETT с помощью PHP" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
-Вам нужно программно преобразовать файлы TABDELIMITED в ETT? Разработчики PHP могут легко загружать и конвертировать TABDELIMITED в ETT всего за несколько строк кода.
+Нужно программно преобразовать файлы с ограничением по табуляции (TABDELIMITED) в формат ETT? PHP-разработчики могут легко загрузить и преобразовать файлы TABDELIMITED в ETT всего за несколько строк кода.
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Установите «Aspose.Cells for PHP via Java».
 1.  Добавьте ссылку на библиотеку (импортируйте библиотеку) в свой PHP-проект.
 1.  Загрузите файл TABDELIMITED с экземпляром книги.
-1.  Преобразуйте TABDELIMITED в ETT, вызвав метод сохранения рабочей книги.
+1.  Преобразуйте TABDELIMITED в ETT, вызвав метод save рабочей книги.
 1.  Получите результат преобразования TABDELIMITED в ETT.
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Библиотека PHP для преобразования TABDELIMITED в ETT" %}}
+{{% blocks/products/pf/agp/content h2="PHP-библиотека для преобразования TABDELIMITED в ETT" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
@@ -63,7 +63,7 @@ keywords: [Aspose Excel., PHP Aspose.Cells., Convert TABDELIMITED to ETT in PHP.
 
 {{% blocks/products/pf/agp/text %}}
 
-Aspose.Cells for PHP via Java не зависит от платформы API и может использоваться на любой платформе (Windows, Linux, MacOS и т. д.), где установлен PHP 7 или более поздние версии. Перед настройкой установки на компьютере должна быть установлена версия Oracle JDK 7 или более поздней версии.
+ Aspose.Cells for PHP via Java является платформенно-независимым API и может использоваться на любой платформе (Windows, Linux, MacOS и т. д.), где установлен PHP 7 или более поздней версии. Перед установкой на компьютере должен быть установлен Oracle JDK 7 или более поздней версии.
  
 {{% /blocks/products/pf/agp/text %}}
 

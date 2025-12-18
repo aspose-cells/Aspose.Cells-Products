@@ -1,7 +1,7 @@
 ---
 title: Python SXC в SQL - Конвертер SXC в SQL
-description: Aspose Эксель. Python Эксель. Преобразуйте SXC в SQL быстро и легко с помощью Aspose.Cells. Python SXC в SQL. Python Сохраните SXC в SQL. Сохраните SXC как SQL, используя библиотеку Excel Python.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert SXC to SQL in Python Excel Library., Save SXC to SQL using Python Excel Library., Python SXC to SQL saveformat., SXC to SQL Converter., Python Save SXC as SQL]
+description: Aspose Excel. Это комплексное решение предоставляет разработчикам Python полностью интегрированный подход к преобразованию SXC в формат SQL, обеспечивая беспрепятственное сохранение данных SXC в формат SQL с использованием библиотеки Aspose.Cells, и все это с помощью эффективного и настраиваемого кода Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart SXC files to SQL Converter for Python., Convert SXC to SQL in Python., SXC files to SQL Conversion in Python., Leverage intelligent data processing to automatically parse and save SXC into SQL format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Преобразование SXC в SQL в библиотеке Excel Python" h2="Высокоскоростная библиотека Excel Python для преобразования SXC в SQL. Это профессиональное программное решение для импорта и экспорта SXC, SQL и многих других форматов с использованием Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="SQL" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -27,7 +27,7 @@ keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert S
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Пример кода для преобразования SXC в SQL с помощью библиотеки Excel Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="sxc" outformat="sql" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="Пример кода для преобразования SXC в SQL с помощью библиотеки Excel Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="sxc" outformat="sql" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="Как преобразовать SXC в SQL через Python" %}}
 

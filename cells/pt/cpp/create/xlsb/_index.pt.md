@@ -1,7 +1,7 @@
 ---
 title: Criar XLSB - Criar arquivo XLSB em C++
-description: Aspose Excel. C++ Crie o arquivo XLSB de forma rápida e fácil com Aspose.Cells. Gere o arquivo XLSB usando C++. Crie XLSB em C++. C++ XLSB Criador.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ Create XLSB file., Generate XLSB file in C++., Create XLSB file using C++., Write data to XLSB file via C++., Create a XLSB file in C++., C++ Generate a XLSB file., C++ XLSB Creater]
+description: Aspose Excel. Gere e manipule arquivos XLSB sem esforço com a biblioteca Aspose.Cells for C++. Esta poderosa biblioteca API oferece uma solução simplificada e eficiente para criar, editar e gerenciar arquivos XLSB diretamente em seus aplicativos C++, atendendo às necessidades específicas dos desenvolvedores com alta precisão.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ Create XLSB file., Generate XLSB file in C++., Write data to XLSB file via C++., C++ XLSB Creater., Aspose.Cells for C++ is a powerful library that enables developers to programmatically create, generate, and manipulate XLSB files in C++]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Crie o arquivo XLSB em C++" h2="Criação de arquivo XLSB nativo e de alto desempenho programaticamente sem o Micorsoft Office usando a biblioteca C++." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSB" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -11,7 +11,7 @@ keywords: [Aspose Excel., C++ Aspose.Cells., C++ Create XLSB file., Generate XLS
 
 {{% blocks/products/pf/agp/content h2="Crie o arquivo XLSB usando C++" %}}
 
- Como criar o arquivo XLSB? Com a biblioteca Aspose.Cells for C++, você pode facilmente criar o arquivo XLSB programaticamente com algumas linhas de código.[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) é capaz de construir aplicativos multiplataforma com a capacidade de gerar, modificar, converter, renderizar e imprimir todos os arquivos Excel. C++ Excel API não apenas converte formatos de planilha, mas também pode renderizar arquivos Excel como imagens, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT e muito mais, tornando-o a escolha perfeita para troca de documentos em formatos padrão da indústria. Você pode baixar sua versão mais recente diretamente, basta abrir[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) gerenciador de pacotes, procure Aspose.Cells.Cpp e instale. Você também pode usar o seguinte comando do Console do Gerenciador de Pacotes.
+ Como criar o arquivo XLSB? Com a biblioteca Aspose.Cells for C++, você pode facilmente criar o arquivo XLSB programaticamente com algumas linhas de código.[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) é capaz de construir aplicativos multiplataforma com a capacidade de gerar, modificar, converter, renderizar e imprimir todos os arquivos Excel. C++ Excel API não apenas converte formatos de planilha, mas também pode renderizar arquivos Excel como imagens, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT e muito mais, tornando-o a escolha perfeita para troca de documentos em formatos padrão da indústria. Você pode baixar sua versão mais recente diretamente, basta abrir[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/)gerenciador de pacotes, procure Aspose.Cells.Cpp e instale. Você também pode usar o seguinte comando do Console do Gerenciador de Pacotes.
 
 {{% blocks/products/pf/agp/code-block title="Comando" offSpacer="true" %}}
 
@@ -37,14 +37,15 @@ PM> Install-Package Aspose.Cells.Cpp
 1.  Crie um objeto da classe Workbook.
 1.  Coloque a primeira planilha em um objeto Worksheet.
 1.  Use o método Worksheet.GetCells() para colocar as células da planilha em um objeto Cells.
-1. Use o método Cells.Get() para acessar a célula desejada da planilha em um objeto Cell.
+1.  Use o método Cells.Get() para acessar a célula desejada da planilha em um objeto Cell.
 1.  Use o método Cell.PutValue() para inserir o valor na célula.
-1.  Salve a pasta de trabalho como arquivo .xlsb usando o método Save().
+1.  Salve a planilha como um arquivo .xlsb usando o método Save().
 
 {{% blocks/products/pf/agp/code-block title="O código de exemplo mostra como criar o arquivo XLSB em C++." offSpacer="" %}}
 
 ```cs
 Aspose::Cells::Startup();
+//TIFF format is not supported
 
 // Create an object of the Workbook class.
 Workbook wkb;
@@ -110,7 +111,7 @@ Existem três opções para instalar “Aspose.Cells for C++” em seu sistema. 
 
 <!-- aboutfile Starts -->
     {{< blocks/products/pf/agp/about-file-section >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLSB" readMoreLink="https://docs.fileformat.com/spreadsheet/xlsb/" >}}O formato de arquivo XLSB especifica o formato de arquivo binário do Excel, que é uma coleção de registros e estruturas que especificam o conteúdo da pasta de trabalho do Excel. O conteúdo pode incluir tabelas de números não estruturadas ou semiestruturadas, texto ou números e texto, fórmulas, conexões de dados externos, gráficos e imagens. Ao contrário de XLSX (que é baseado no formato de arquivo Open XML), XLSB representa um arquivo binário da pasta de trabalho do Excel. Os arquivos XLSB podem ser lidos e gravados mais rapidamente, o que os torna úteis para trabalhar com arquivos grandes. XLSB raramente é usado para armazenar pastas de trabalho, pois XLSX (e anteriormente XLS) são os formatos de arquivo mais comuns selecionados pelo usuário para salvar pastas de trabalho. Ele pode ser aberto pelo Microsoft Office 2007 e superior.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLSB" readMoreLink="https://docs.fileformat.com/spreadsheet/xlsb/" >}}formato de arquivo XLSB especifica o formato de arquivo binário do Excel, que é uma coleção de registros e estruturas que especificam o conteúdo da pasta de trabalho do Excel. O conteúdo pode incluir tabelas de números não estruturadas ou semiestruturadas, texto ou números e texto, fórmulas, conexões de dados externos, gráficos e imagens. Ao contrário de XLSX (que é baseado no formato de arquivo Open XML), XLSB representa um arquivo binário da pasta de trabalho do Excel. Os arquivos XLSB podem ser lidos e gravados com mais rapidez, o que os torna úteis para trabalhar com arquivos grandes. XLSB raramente é usado para armazenar pastas de trabalho, pois XLSX (e anteriormente XLS) são os formatos de arquivo mais comuns selecionados pelo usuário para salvar pastas de trabalho. Ele pode ser aberto pelo Microsoft Office 2007 e superior.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
     {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->
 

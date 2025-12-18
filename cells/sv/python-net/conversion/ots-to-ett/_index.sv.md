@@ -1,7 +1,7 @@
 ---
 title: Python OTS till ETT - OTS till ETT-omvandlare
-description: Aspose Excel. Python Excel. Konvertera OTS till ETT snabbt och enkelt med Aspose.Cells. Python OTS till ETT. Python Spara OTS till ETT. Spara OTS som ETT med Python Excel Library.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert OTS to ETT in Python Excel Library., Save OTS to ETT using Python Excel Library., Python OTS to ETT saveformat., OTS to ETT Converter., Python Save OTS as ETT]
+description: Aspose Excel. Denna omfattande lösning ger Python-utvecklare en helt integrerad metod för att konvertera OTS till ETT-format, vilket möjliggör sömlös sparning av OTS-data i ETT-format med hjälp av Aspose.Cells-biblioteket, allt genom effektiv och anpassningsbar Python-kod.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart OTS files to ETT Converter for Python., Convert OTS to ETT in Python., OTS files to ETT Conversion in Python., Leverage intelligent data processing to automatically parse and save OTS into ETT format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Konvertera OTS till ETT i Python Excel-bibliotek" h2="Höghastighets Python excel-bibliotek för konvertering av OTS till ETT. Använd vår excel-konvertering API för att utveckla plattformsoberoende programvara på hög nivå i Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="ETT" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -28,7 +28,7 @@ Följ de enkla stegen för att konvertera OTS till ETT. Ladda upp din OTS-fil oc
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Exempelkod för att konvertera OTS till ETT via Python Excel-bibliotek" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="ots" outformat="ett" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Exempelkod för att konvertera OTS till ETT via Python Excel-bibliotek" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="ots" outformat="ett" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="Hur man konverterar OTS till ETT" %}}
 
@@ -82,10 +82,10 @@ Aspose.Cells for Python via NET är plattformsoberoende API och kan användas p�
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/ots-to-bmp/" name="OTS TILL BMP" description="Bitmappsbild" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/ots-to-emf/" name="OTS TILL EMF" description="Förbättrat metafilformat" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/ots-to-gif/" name="OTS TILL GIF" description="Grafiskt utbytesformat" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/ots-to-html/" name="OTS TILL HTML" description="Hyper Text Markup Language" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/ots-to-md/" name="OTS TILL MD" description="Markdown Language" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/ots-to-html/" name="OTS TILL HTML" description="Hypertext Markup Language" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/ots-to-md/" name="OTS TILL MD" description="Markdown-språk" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/ots-to-mhtml/" name="OTS TILL MHTML" description="Arkivformat för webbsidor" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/ots-to-ods/" name="OTS TILL ODS" description="OpenDocument Spreadsheet File" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/ots-to-ods/" name="OTS TILL ODS" description="OpenDocument-kalkylbladsfil" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/ots-to-pdf/" name="OTS TILL PDF" description="Portabelt dokumentformat" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/ots-to-png/" name="OTS TILL PNG" description="Bärbar nätverksgrafik" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/ots-to-svg/" name="OTS TILL SVG" description="Skalbar vektorgrafik" >}}

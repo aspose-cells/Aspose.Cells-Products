@@ -1,7 +1,7 @@
 ---
 title: Python PRN na BMP - PRN na BMP Konwerter
-description: Aspose Excel. Python Excel. Konwertuj PRN na BMP szybko i łatwo za pomocą Aspose.Cells. Python PRN na BMP. Python Zapisz PRN na BMP. Zapisz PRN jako BMP, korzystając z biblioteki Excel Python.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert PRN to BMP in Python Excel Library., Save PRN to BMP using Python Excel Library., Python PRN to BMP saveformat., PRN to BMP Converter., Python Save PRN as BMP]
+description: Aspose Excel. To kompleksowe rozwiązanie zapewnia programistom w pełni zintegrowane podejście do konwersji PRN do formatu BMP, umożliwiając bezproblemowe zapisywanie danych PRN w formacie BMP przy użyciu biblioteki Aspose.Cells, a wszystko to dzięki wydajnemu i konfigurowalnemu kodowi Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart PRN files to BMP Converter for Python., Convert PRN to BMP in Python., PRN files to BMP Conversion in Python., Leverage intelligent data processing to automatically parse and save PRN into BMP format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Konwertuj PRN na BMP w Python Biblioteka Excel" h2="Szybka biblioteka Excel Python do konwersji PRN na BMP. Jest to profesjonalne oprogramowanie do importowania i eksportowania PRN, BMP i wielu innych formatów przy użyciu Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="BMP" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -27,7 +27,7 @@ Wykonaj proste kroki, aby przekonwertować PRN na BMP. Prześlij plik PRN, a nas
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Przykładowy kod do konwersji PRN na BMP za pośrednictwem biblioteki Excel Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="prn" outformat="bmp" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="Przykładowy kod do konwersji PRN na BMP za pośrednictwem biblioteki Excel Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="prn" outformat="bmp" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="Jak przekonwertować PRN na BMP przez Python" %}}
 

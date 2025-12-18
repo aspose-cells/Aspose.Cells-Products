@@ -1,8 +1,8 @@
 ---
-title:  Python Planilha Excel API - Aspose
+title: Planilha do Excel Python - API - Aspose.Cells - for Python - via Java
 weight: 2820
-description: Biblioteca Python para criar, reparar, mesclar, analisar e converter arquivos Excel. Converta Excel para PDF, JSON, HTML, TXT e outros formatos populares.
-keywords: [Python Aspose.Cells Create parse repair merge convert JSON Excel XML PDF HTML TSV SQL CSV TSV PNG JPEG and more formats]
+description: Biblioteca Aspose.Cells for Python via Java para criar, reparar, mesclar, analisar e converter arquivos Excel. Converta arquivos Excel para os formatos PDF, JSON, HTML, TXT e outros formatos populares usando Aspose.Cells for Python via Java API.
+keywords: [Aspose.Cells for Python via Java Create parse repair merge convert JSON Excel XML PDF HTML TSV SQL CSV TSV PNG JPEG and more formats]
 ---
 {{< blocks/products/pf/main-wrap-class >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Python APIs de análise de planilhas do Excel" h2="Gere, leia, escreva ou manipule planilhas, bem como exporte arquivos Excel para vários formatos nos aplicativos Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/headers/aspose_cells-for-python-java.svg" pfName="Aspose.Cells" subTitlepfName="for Python via Java" downloadUrl="https://releases.aspose.com/cells/python-java/" >}}

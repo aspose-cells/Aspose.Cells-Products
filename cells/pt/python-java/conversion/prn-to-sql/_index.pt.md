@@ -1,7 +1,7 @@
 ---
 title: Python PRN para SQL - Conversor PRN para SQL
-description: Aspose Excel. Python Excel. Converta PRN para SQL de forma rápida e fácil com Aspose.Cells. Python PRN para SQL. Python Salvar PRN em SQL. Salve PRN como SQL usando a Biblioteca Excel Python.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert PRN to SQL in Python Excel Library., Save PRN to SQL using Python Excel Library., Python PRN to SQL saveformat., PRN to SQL Converter., Python Save PRN as SQL]
+description: Aspose Excel. Esta solução abrangente fornece aos desenvolvedores Python uma abordagem totalmente integrada para converter PRN em formato SQL, permitindo o salvamento perfeito de dados PRN em formato SQL usando a biblioteca Aspose.Cells, tudo por meio de código Python eficiente e personalizável.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart PRN files to SQL Converter for Python., Convert PRN to SQL in Python., PRN files to SQL Conversion in Python., Leverage intelligent data processing to automatically parse and save PRN into SQL format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Converter PRN em SQL na Biblioteca Excel Python" h2="Biblioteca Excel Python de alta velocidade para conversão de PRN em SQL. Esta é uma solução de software profissional para importar e exportar PRN, SQL e muitos outros formatos usando Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="SQL" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -27,7 +27,7 @@ Siga as etapas fáceis para converter PRN em SQL. Carregue seu arquivo PRN e sim
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Código de exemplo para converter PRN em SQL por meio da biblioteca Python Excel" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="prn" outformat="sql" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="Código de exemplo para converter PRN em SQL por meio da biblioteca Python Excel" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="prn" outformat="sql" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="Como converter PRN em SQL via Python" %}}
 
@@ -101,7 +101,7 @@ Aspose.Cells for Python via Java é independente de plataforma API e pode ser us
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/prn-to-xlt/" name="PRN PARA XLT" description="Microsoft Modelo Excel" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/prn-to-xltm/" name="PRN PARA XLTM" description="Modelo habilitado para macro do Excel" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/prn-to-xltx/" name="PRN PARA XLTX" description="Modelo Office OpenXML Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/prn-to-xml/" name="PRN PARA XML" description="Extensible Markup Language" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/prn-to-xml/" name="PRN PARA XML" description="Linguagem de Marcação Extensível" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/prn-to-xps/" name="PRN PARA XPS" description="Especificações do papel XML" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/prn-to-json/" name="PRN PARA JSON" description="Notação de objeto JavaScript" >}}
 

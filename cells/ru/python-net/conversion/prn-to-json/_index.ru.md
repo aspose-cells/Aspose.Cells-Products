@@ -1,7 +1,7 @@
 ---
 title: Python PRN в JSON - PRN в JSON Преобразователь
-description: Aspose Эксель. Python Эксель. Быстро и легко конвертируйте PRN в JSON с помощью Aspose.Cells. Python PRN в JSON. Python Сохранить PRN в JSON. Сохраните PRN как JSON, используя библиотеку Excel Python.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert PRN to JSON in Python Excel Library., Save PRN to JSON using Python Excel Library., Python PRN to JSON saveformat., PRN to JSON Converter., Python Save PRN as JSON]
+description: Aspose Excel. Это комплексное решение предоставляет разработчикам Python полностью интегрированный подход к преобразованию PRN в формат JSON, обеспечивая беспрепятственное сохранение данных PRN в формат JSON с использованием библиотеки Aspose.Cells, и все это с помощью эффективного и настраиваемого кода Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart PRN files to JSON Converter for Python., Convert PRN to JSON in Python., PRN files to JSON Conversion in Python., Leverage intelligent data processing to automatically parse and save PRN into JSON format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Преобразуйте PRN в JSON в библиотеке Excel Python." h2="Высокоскоростная библиотека Excel Python для преобразования PRN в JSON. Используйте наше преобразование Excel API для разработки высокоуровневого, независимого от платформы программного обеспечения в Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="JSON" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -28,7 +28,7 @@ keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert P
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Пример кода для преобразования PRN в JSON с помощью библиотеки Excel Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="prn" outformat="json" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Пример кода для преобразования PRN в JSON с помощью библиотеки Excel Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="prn" outformat="json" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="Как конвертировать PRN в JSON" %}}
 

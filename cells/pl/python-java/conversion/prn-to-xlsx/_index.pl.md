@@ -1,7 +1,7 @@
 ---
 title: Python PRN na XLSX - PRN na XLSX Konwerter
-description: Aspose Excel. Python Excel. Konwertuj PRN na XLSX szybko i łatwo za pomocą Aspose.Cells. Python PRN na XLSX. Python Zapisz PRN na XLSX. Zapisz PRN jako XLSX, korzystając z biblioteki Excel Python.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert PRN to XLSX in Python Excel Library., Save PRN to XLSX using Python Excel Library., Python PRN to XLSX saveformat., PRN to XLSX Converter., Python Save PRN as XLSX]
+description: Aspose Excel. To kompleksowe rozwiązanie zapewnia programistom w pełni zintegrowane podejście do konwersji PRN do formatu XLSX, umożliwiając bezproblemowe zapisywanie danych PRN w formacie XLSX przy użyciu biblioteki Aspose.Cells, a wszystko to dzięki wydajnemu i konfigurowalnemu kodowi Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart PRN files to XLSX Converter for Python., Convert PRN to XLSX in Python., PRN files to XLSX Conversion in Python., Leverage intelligent data processing to automatically parse and save PRN into XLSX format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Konwertuj PRN na XLSX w Python Biblioteka Excel" h2="Szybka biblioteka Excel Python do konwersji PRN na XLSX. Jest to profesjonalne oprogramowanie do importowania i eksportowania PRN, XLSX i wielu innych formatów przy użyciu Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSX" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -27,7 +27,7 @@ Wykonaj proste kroki, aby przekonwertować PRN na XLSX. Prześlij plik PRN, a na
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Przykładowy kod do konwersji PRN na XLSX za pośrednictwem biblioteki Excel Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="prn" outformat="xlsx" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="Przykładowy kod do konwersji PRN na XLSX za pośrednictwem biblioteki Excel Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="prn" outformat="xlsx" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="Jak przekonwertować PRN na XLSX przez Python" %}}
 

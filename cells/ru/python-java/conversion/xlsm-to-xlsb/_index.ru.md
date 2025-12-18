@@ -1,7 +1,7 @@
 ---
 title: Преобразователь Python XLSM в XLSB - XLSM в XLSB
-description: Aspose Эксель. Python Эксель. Преобразуйте XLSM в XLSB быстро и легко с помощью Aspose.Cells. Python XLSM в XLSB. Python Сохранить XLSM в XLSB. Сохранить XLSM как 076112 3481 с использованием библиотеки Excel Python.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert XLSM to XLSB in Python Excel Library., Save XLSM to XLSB using Python Excel Library., Python XLSM to XLSB saveformat., XLSM to XLSB Converter., Python Save XLSM as XLSB]
+description: Aspose Excel. Это комплексное решение предоставляет разработчикам Python полностью интегрированный подход к преобразованию формата XLSM в формат XLSB, обеспечивая беспрепятственное сохранение данных XLSM в формат XLSB с использованием библиотеки Aspose.Cells, и все это с помощью эффективного и настраиваемого кода Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart XLSM files to XLSB Converter for Python., Convert XLSM to XLSB in Python., XLSM files to XLSB Conversion in Python., Leverage intelligent data processing to automatically parse and save XLSM into XLSB format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Преобразуйте XLSM в XLSB в Python библиотеке Excel" h2="Высокоскоростная библиотека Excel Python для преобразования XLSM в XLSB. Это профессиональное программное решение для импорта и экспорта XLSM, XLSB и многих других форматов с использованием Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSB" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -27,7 +27,7 @@ keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert X
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Пример кода для преобразования XLSM в XLSB с помощью библиотеки Excel Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsm" outformat="xlsb" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="Пример кода для преобразования XLSM в XLSB с помощью библиотеки Excel Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="xlsm" outformat="xlsb" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="Как преобразовать XLSM в XLSB через Python" %}}
 

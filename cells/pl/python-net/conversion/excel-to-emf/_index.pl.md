@@ -1,7 +1,7 @@
 ---
 title: Python EXCEL do EMF - Konwerter EXCEL do EMF
-description: Aspose Excel. Python Excel. Konwertuj EXCEL na EMF szybko i łatwo za pomocą Aspose.Cells. Python EXCEL na EMF. Python Zapisz EXCEL na EMF. Zapisz EXCEL jako EMF, używając Python Biblioteki Excel.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert EXCEL to EMF in Python Excel Library., Save EXCEL to EMF using Python Excel Library., Python EXCEL to EMF saveformat., EXCEL to EMF Converter., Python Save EXCEL as EMF]
+description: Aspose Excel. To kompleksowe rozwiązanie zapewnia programistom w pełni zintegrowane podejście do konwersji plików EXCEL do formatu EMF, umożliwiając bezproblemowe zapisywanie danych EXCEL do formatu EMF za pomocą biblioteki Aspose.Cells, a wszystko to dzięki wydajnemu i konfigurowalnemu kodowi Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart EXCEL files to EMF Converter for Python., Convert EXCEL to EMF in Python., EXCEL files to EMF Conversion in Python., Leverage intelligent data processing to automatically parse and save EXCEL into EMF format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Konwertuj EXCEL na EMF w Python Biblioteka Excel" h2="Szybka biblioteka Excel Python do konwersji EXCEL na EMF. Skorzystaj z naszej konwersji Excel API, aby opracować zaawansowane, niezależne od platformy oprogramowanie w Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="EMF" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -28,7 +28,7 @@ Wykonaj proste kroki, aby przekonwertować plik EXCEL na EMF. Prześlij plik EXC
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Przykładowy kod do konwersji EXCEL na EMF za pośrednictwem biblioteki Excel Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsx" outformat="emf" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Przykładowy kod do konwersji EXCEL na EMF za pośrednictwem biblioteki Excel Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="xlsx" outformat="emf" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="Jak przekonwertować EXCEL na EMF" %}}
 

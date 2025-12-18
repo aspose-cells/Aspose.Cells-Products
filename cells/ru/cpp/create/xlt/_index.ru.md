@@ -1,7 +1,7 @@
 ---
 title: Создать XLT — Создать файл XLT в C++.
-description: Aspose Эксель. C++ Создайте файл XLT быстро и легко с помощью Aspose.Cells. Создайте файл XLT с помощью C++. Создайте XLT в C++. C++ XLT Creater.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ Create XLT file., Generate XLT file in C++., Create XLT file using C++., Write data to XLT file via C++., Create a XLT file in C++., C++ Generate a XLT file., C++ XLT Creater]
+description: Aspose Excel. Легко создавайте и обрабатывайте файлы XLT с помощью библиотеки Aspose.Cells for C++. Эта мощная библиотека API предоставляет оптимизированное и эффективное решение для создания, редактирования и управления файлами XLT непосредственно в ваших приложениях C++, удовлетворяя специфические потребности разработчиков с высокой точностью.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ Create XLT file., Generate XLT file in C++., Write data to XLT file via C++., C++ XLT Creater., Aspose.Cells for C++ is a powerful library that enables developers to programmatically create, generate, and manipulate XLT files in C++]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Создайте файл XLT в C++." h2="Нативное и высокопроизводительное создание файлов XLT программно без Micorsoft Office с использованием библиотеки C++." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLT" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -11,7 +11,7 @@ keywords: [Aspose Excel., C++ Aspose.Cells., C++ Create XLT file., Generate XLT 
 
 {{% blocks/products/pf/agp/content h2="Создайте файл XLT, используя C++." %}}
 
- Как создать файл XLT? С помощью библиотеки Aspose.Cells for C++ вы можете легко создать файл XLT программно с помощью нескольких строк кода.[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) способен создавать кроссплатформенные приложения с возможностью генерировать, изменять, конвертировать, отображать и распечатывать все файлы Excel. C++ Excel API не только конвертирует форматы электронных таблиц, но также может отображать файлы Excel в виде изображений, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT и т. д., что делает его идеальным выбором для обмена документами в стандартных отраслевых форматах. Вы можете скачать последнюю версию напрямую, просто откройте[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) менеджер пакетов, найдите Aspose.Cells.Cpp и установите. Вы также можете использовать следующую команду из консоли диспетчера пакетов.
+ Как создать файл XLT? С помощью библиотеки Aspose.Cells for C++ вы можете легко создать файл XLT программно с помощью нескольких строк кода.[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) способен создавать кроссплатформенные приложения с возможностью генерировать, изменять, конвертировать, отображать и распечатывать все файлы Excel. C++ Excel API не только конвертирует форматы электронных таблиц, но также может отображать файлы Excel в виде изображений, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT и т. д., что делает его идеальным выбором для обмена документами в стандартных отраслевых форматах. Вы можете скачать последнюю версию напрямую, просто откройте[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/)менеджер пакетов, найдите Aspose.Cells.Cpp и установите. Вы также можете использовать следующую команду из консоли диспетчера пакетов.
 
 {{% blocks/products/pf/agp/code-block title="Команда" offSpacer="true" %}}
 
@@ -37,14 +37,15 @@ PM> Install-Package Aspose.Cells.Cpp
 1.  Создайте объект класса Workbook.
 1.  Поместите первый лист в объект Worksheet.
 1.  Используйте метод Worksheet.GetCells(), чтобы поместить ячейки рабочего листа в объект Cells.
-1. Используйте метод Cells.Get() для доступа к нужной ячейке листа в объекте Cell.
+1.  Используйте метод Cells.Get() для доступа к нужной ячейке листа в объекте Cell.
 1.  Используйте метод Cell.PutValue() для ввода значения в ячейку.
-1.  Сохраните книгу как файл .xlt, используя метод Save().
+1.  Сохраните рабочую книгу в виде файла .xlt, используя метод Save().
 
 {{% blocks/products/pf/agp/code-block title="Пример кода показывает, как создать файл XLT в C++." offSpacer="" %}}
 
 ```cs
 Aspose::Cells::Startup();
+//TIFF format is not supported
 
 // Create an object of the Workbook class.
 Workbook wkb;
@@ -103,7 +104,7 @@ Aspose::Cells::Cleanup();
 
 {{% /blocks/products/pf/agp/text %}}
 
-- Microsoft Windows или совместимая ОС с C++ Runtime Environment для Windows 32-разрядной версии, Windows 64-разрядной версии и 64-разрядной версии Linux.
+- Microsoft Windows или совместимая ОС со средой выполнения C++ для 32-разрядной версии Windows, 64-разрядной версии Windows и 64-разрядной версии Linux.
 - Добавьте ссылку на DLL Aspose.Cells for C++ в свой проект.
 
 {{% /blocks/products/pf/agp/content %}}

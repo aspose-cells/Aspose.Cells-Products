@@ -1,7 +1,7 @@
 ---
 title: Python XLTM na PRN - XLTM na konwerter PRN
-description: Aspose Excel. Python Excel. Szybko i łatwo przekonwertuj numer XLTM na PRN za pomocą Aspose.Cells. Python XLTM na PRN. Python Zapisz XLTM w PRN. Zapisz numer XLTM jako PRN, korzystając z biblioteki Excel Python.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert XLTM to PRN in Python Excel Library., Save XLTM to PRN using Python Excel Library., Python XLTM to PRN saveformat., XLTM to PRN Converter., Python Save XLTM as PRN]
+description: Aspose Excel. To kompleksowe rozwiązanie zapewnia programistom w pełni zintegrowane podejście do konwersji XLTM do formatu PRN, umożliwiając bezproblemowe zapisywanie danych XLTM w formacie PRN przy użyciu biblioteki Aspose.Cells, a wszystko to dzięki wydajnemu i konfigurowalnemu kodowi Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart XLTM files to PRN Converter for Python., Convert XLTM to PRN in Python., XLTM files to PRN Conversion in Python., Leverage intelligent data processing to automatically parse and save XLTM into PRN format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Konwertuj XLTM na PRN w Python Biblioteka Excel" h2="Szybka biblioteka Excel Python do konwersji XLTM na PRN. Jest to profesjonalne oprogramowanie do importowania i eksportowania numerów XLTM, PRN i wielu innych formatów przy użyciu numeru Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="PRN" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -27,7 +27,7 @@ Wykonaj proste kroki, aby przekonwertować numer XLTM na PRN. Prześlij plik XLT
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Przykładowy kod do konwersji XLTM na PRN za pośrednictwem biblioteki Excel Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xltm" outformat="prn" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="Przykładowy kod do konwersji XLTM na PRN za pośrednictwem biblioteki Excel Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="xltm" outformat="prn" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="Jak przekonwertować numer XLTM na PRN poprzez numer Python" %}}
 

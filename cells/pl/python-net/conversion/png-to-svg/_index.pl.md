@@ -1,7 +1,7 @@
 ---
 title: Python PNG do SVG - PNG do SVG Konwerter
-description: Aspose Excel. Python Excel. Konwertuj numer PNG na SVG szybko i łatwo za pomocą Aspose.Cells. Python PNG na SVG. Python Zapisz PNG na SVG. Zapisz PNG jako 07611 23481 przy użyciu biblioteki programu Excel Python.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert PNG to SVG in Python Excel Library., Save PNG to SVG using Python Excel Library., Python PNG to SVG saveformat., PNG to SVG Converter., Python Save PNG as SVG]
+description: Aspose Excel. To kompleksowe rozwiązanie zapewnia programistom w pełni zintegrowane podejście do konwersji formatu PNG do SVG, umożliwiając bezproblemowe zapisywanie danych PNG do formatu SVG za pomocą biblioteki Aspose.Cells, a wszystko to dzięki wydajnemu i konfigurowalnemu kodowi Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart PNG files to SVG Converter for Python., Convert PNG to SVG in Python., PNG files to SVG Conversion in Python., Leverage intelligent data processing to automatically parse and save PNG into SVG format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Konwertuj PNG na SVG w Python Biblioteka Excel" h2="Szybka biblioteka Excel Python do konwersji PNG na SVG. Skorzystaj z naszej konwersji Excel API, aby opracować zaawansowane, niezależne od platformy oprogramowanie w Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="SVG" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -28,7 +28,7 @@ Wykonaj proste kroki, aby przekonwertować numer PNG na numer SVG. Prześlij pli
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Przykładowy kod do konwersji PNG na SVG za pośrednictwem biblioteki Excel Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="png" outformat="svg" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Przykładowy kod do konwersji PNG na SVG za pośrednictwem biblioteki Excel Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="png" outformat="svg" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="Jak przekonwertować PNG na SVG" %}}
 

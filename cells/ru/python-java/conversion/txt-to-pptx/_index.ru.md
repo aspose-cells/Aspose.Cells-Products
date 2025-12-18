@@ -1,7 +1,7 @@
 ---
 title: Преобразователь Python TXT в PPTX - TXT в PPTX
-description: Aspose Эксель. Python Эксель. Преобразуйте TXT в PPTX быстро и легко с помощью Aspose.Cells. Python TXT в PPTX. Python Сохранить TXT в PPTX. Сохранить TXT как 076112 3481 с использованием библиотеки Excel Python.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert TXT to PPTX in Python Excel Library., Save TXT to PPTX using Python Excel Library., Python TXT to PPTX saveformat., TXT to PPTX Converter., Python Save TXT as PPTX]
+description: Aspose Excel. Это комплексное решение предоставляет разработчикам Python полностью интегрированный подход к преобразованию формата TXT в формат PPTX, обеспечивая беспрепятственное сохранение данных TXT в формат PPTX с использованием библиотеки Aspose.Cells, и все это с помощью эффективного и настраиваемого кода Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart TXT files to PPTX Converter for Python., Convert TXT to PPTX in Python., TXT files to PPTX Conversion in Python., Leverage intelligent data processing to automatically parse and save TXT into PPTX format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Преобразуйте TXT в PPTX в Python библиотеке Excel" h2="Высокоскоростная библиотека Excel Python для преобразования TXT в PPTX. Это профессиональное программное решение для импорта и экспорта TXT, PPTX и многих других форматов с использованием Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="PPTX" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -27,7 +27,7 @@ keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert T
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Пример кода для преобразования TXT в PPTX с помощью библиотеки Excel Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="txt" outformat="pptx" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="Пример кода для преобразования TXT в PPTX с помощью библиотеки Excel Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="txt" outformat="pptx" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="Как преобразовать TXT в PPTX через Python" %}}
 

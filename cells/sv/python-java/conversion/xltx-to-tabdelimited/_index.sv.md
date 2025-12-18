@@ -1,7 +1,7 @@
 ---
 title: Python XLTX till TABDELIMITED - XLTX till TABDELIMITED Converter
-description: Aspose Excel. Python Excel. Konvertera XLTX till TABDELIMITED snabbt och enkelt med Aspose.Cells. Python XLTX till TABDELIMITED. Python Spara XLTX till TABDELLIMITED. Spara XLTX som TABDELLIMITED med Python Excel-bibliotek.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert XLTX to TABDELIMITED in Python Excel Library., Save XLTX to TABDELIMITED using Python Excel Library., Python XLTX to TABDELIMITED saveformat., XLTX to TABDELIMITED Converter., Python Save XLTX as TABDELIMITED]
+description: Aspose Excel. Denna omfattande lösning ger Python-utvecklare en helt integrerad metod för att konvertera XLTX till TABDELIMITED-format, vilket möjliggör sömlös sparning av XLTX-data till TABDELIMITED-format med hjälp av Aspose.Cells-biblioteket, allt genom effektiv och anpassningsbar Python-kod.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart XLTX files to TABDELIMITED Converter for Python., Convert XLTX to TABDELIMITED in Python., XLTX files to TABDELIMITED Conversion in Python., Leverage intelligent data processing to automatically parse and save XLTX into TABDELIMITED format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Konvertera XLTX till TABDELIMITED i Python Excel-bibliotek" h2="Höghastighets Python excel-bibliotek för att konvertera XLTX till TABDELIMITED. Detta är en professionell mjukvarulösning för att importera och exportera XLTX, TABDELIMITED och många andra format med Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="TABDELIMITED" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -27,7 +27,7 @@ Följ de enkla stegen för att konvertera XLTX till TABDELIMITED. Ladda upp din 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Exempelkod för att konvertera XLTX till TABDELIMITED via Python Excel-bibliotek" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xltx" outformat="tsv" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="Exempelkod för att konvertera XLTX till TABDELIMITED via Python Excel-bibliotek" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="xltx" outformat="tsv" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="Hur man konverterar XLTX till TABDELIMITED via Python" %}}
 
@@ -84,10 +84,10 @@ Aspose.Cells for Python via Java är plattformsoberoende API och kan användas p
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xltx-to-bmp/" name="XLTX TILL BMP" description="Bitmappsbild" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xltx-to-emf/" name="XLTX TILL EMF" description="Förbättrat metafilformat" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xltx-to-gif/" name="XLTX TILL GIF" description="Grafiskt utbytesformat" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xltx-to-html/" name="XLTX TILL HTML" description="Hyper Text Markup Language" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xltx-to-md/" name="XLTX TILL MD" description="Markdown Language" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xltx-to-html/" name="XLTX TILL HTML" description="Hypertext Markup Language" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xltx-to-md/" name="XLTX TILL MD" description="Markdown-språk" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xltx-to-mhtml/" name="XLTX TILL MHTML" description="Arkivformat för webbsidor" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xltx-to-ods/" name="XLTX TILL ODS" description="OpenDocument Spreadsheet File" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xltx-to-ods/" name="XLTX TILL ODS" description="OpenDocument-kalkylbladsfil" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xltx-to-pdf/" name="XLTX TILL PDF" description="Portabelt dokumentformat" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xltx-to-png/" name="XLTX TILL PNG" description="Bärbar nätverksgrafik" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/xltx-to-svg/" name="XLTX TILL SVG" description="Skalbar vektorgrafik" >}}

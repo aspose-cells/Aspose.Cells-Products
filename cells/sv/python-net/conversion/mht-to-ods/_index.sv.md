@@ -1,7 +1,7 @@
 ---
 title: Python MHT till ODS - MHT till ODS omvandlare
-description: Aspose Excel. Python Excel. Konvertera MHT till ODS snabbt och enkelt med Aspose.Cells. Python MHT till ODS. Python Spara MHT till ODS. Spara MHT som ODS med hjälp av ODS Excel Library.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert MHT to ODS in Python Excel Library., Save MHT to ODS using Python Excel Library., Python MHT to ODS saveformat., MHT to ODS Converter., Python Save MHT as ODS]
+description: Aspose Excel. Denna omfattande lösning ger Python-utvecklare en helt integrerad metod för att konvertera MHT till ODS-format, vilket möjliggör sömlös sparning av MHT-data i ODS-format med hjälp av Aspose.Cells-biblioteket, allt genom effektiv och anpassningsbar Python-kod.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart MHT files to ODS Converter for Python., Convert MHT to ODS in Python., MHT files to ODS Conversion in Python., Leverage intelligent data processing to automatically parse and save MHT into ODS format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Konvertera MHT till ODS i Python Excel-bibliotek" h2="Höghastighets Python excel-bibliotek för att konvertera MHT till ODS. Använd vår excel-konvertering API för att utveckla plattformsoberoende programvara på hög nivå i Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="ODS" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -28,7 +28,7 @@ Följ de enkla stegen för att konvertera MHT till ODS. Ladda upp din MHT-fil oc
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Exempelkod för att konvertera MHT till ODS via Python Excel-bibliotek" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="mht" outformat="ods" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Exempelkod för att konvertera MHT till ODS via Python Excel-bibliotek" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="mht" outformat="ods" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="Hur man konverterar MHT till ODS" %}}
 
@@ -82,10 +82,10 @@ Aspose.Cells for Python via NET är plattformsoberoende API och kan användas p�
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/mht-to-bmp/" name="MHT TILL BMP" description="Bitmappsbild" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/mht-to-emf/" name="MHT TILL EMF" description="Förbättrat metafilformat" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/mht-to-gif/" name="MHT TILL GIF" description="Grafiskt utbytesformat" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/mht-to-html/" name="MHT TILL HTML" description="Hyper Text Markup Language" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/mht-to-md/" name="MHT TILL MD" description="Markdown Language" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/mht-to-html/" name="MHT TILL HTML" description="Hypertext Markup Language" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/mht-to-md/" name="MHT TILL MD" description="Markdown-språk" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/mht-to-mhtml/" name="MHT TILL MHTML" description="Arkivformat för webbsidor" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/mht-to-ods/" name="MHT TILL ODS" description="OpenDocument Spreadsheet File" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/mht-to-ods/" name="MHT TILL ODS" description="OpenDocument-kalkylbladsfil" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/mht-to-pdf/" name="MHT TILL PDF" description="Portabelt dokumentformat" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/mht-to-png/" name="MHT TILL PNG" description="Bärbar nätverksgrafik" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/mht-to-svg/" name="MHT TILL SVG" description="Skalbar vektorgrafik" >}}

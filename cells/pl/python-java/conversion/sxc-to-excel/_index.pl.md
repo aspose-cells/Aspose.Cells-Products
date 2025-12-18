@@ -1,7 +1,7 @@
 ---
 title: Python SXC na EXCEL - SXC na konwerter EXCEL
-description: Aspose Excel. Python Excel. Szybko i łatwo przekonwertuj SXC na EXCEL za pomocą Aspose.Cells. Python SXC na EXCEL. Python Zapisz SXC w programie EXCEL. Zapisz SXC jako EXCEL, korzystając z biblioteki Excel Python.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert SXC to EXCEL in Python Excel Library., Save SXC to EXCEL using Python Excel Library., Python SXC to EXCEL saveformat., SXC to EXCEL Converter., Python Save SXC as EXCEL]
+description: Aspose Excel. To kompleksowe rozwiązanie zapewnia programistom w pełni zintegrowane podejście do konwersji SXC do formatu EXCEL, umożliwiając bezproblemowe zapisywanie danych SXC w formacie EXCEL za pomocą biblioteki Aspose.Cells, a wszystko to dzięki wydajnemu i konfigurowalnemu kodowi Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart SXC files to EXCEL Converter for Python., Convert SXC to EXCEL in Python., SXC files to EXCEL Conversion in Python., Leverage intelligent data processing to automatically parse and save SXC into EXCEL format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Konwertuj SXC na EXCEL w Python Biblioteka Excel" h2="Szybka biblioteka Excel Python do konwersji SXC na EXCEL. Jest to profesjonalne oprogramowanie do importowania i eksportowania numerów SXC, EXCEL i wielu innych formatów przy użyciu numeru Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="EXCEL" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -27,7 +27,7 @@ Wykonaj proste kroki, aby przekonwertować SXC na EXCEL. Prześlij plik SXC, a n
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Przykładowy kod do konwersji SXC na EXCEL za pośrednictwem biblioteki Excel Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="sxc" outformat="xlsx" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="Przykładowy kod do konwersji SXC na EXCEL za pośrednictwem biblioteki Excel Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="sxc" outformat="xlsx" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="Jak przekonwertować SXC na EXCEL przez Python" %}}
 

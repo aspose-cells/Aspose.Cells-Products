@@ -1,7 +1,7 @@
 ---
 title: Python HTM till ETT - HTM till ETT-omvandlare
-description: Aspose Excel. Python Excel. Konvertera HTM till ETT snabbt och enkelt med Aspose.Cells. Python HTM till ETT. Python Spara HTM till ETT. Spara HTM som ETT med Python Excel Library.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert HTM to ETT in Python Excel Library., Save HTM to ETT using Python Excel Library., Python HTM to ETT saveformat., HTM to ETT Converter., Python Save HTM as ETT]
+description: Aspose Excel. Denna omfattande lösning ger Python-utvecklare en helt integrerad metod för att konvertera HTM till ETT-format, vilket möjliggör sömlös sparning av HTM-data till ETT-format med hjälp av Aspose.Cells-biblioteket, allt genom effektiv och anpassningsbar Python-kod.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart HTM files to ETT Converter for Python., Convert HTM to ETT in Python., HTM files to ETT Conversion in Python., Leverage intelligent data processing to automatically parse and save HTM into ETT format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Konvertera HTM till ETT i Python Excel-bibliotek" h2="Höghastighets Python excel-bibliotek för konvertering av HTM till ETT. Använd vår excel-konvertering API för att utveckla plattformsoberoende programvara på hög nivå i Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="ETT" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -28,7 +28,7 @@ Följ de enkla stegen för att konvertera HTM till ETT. Ladda upp din HTM-fil oc
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Exempelkod för att konvertera HTM till ETT via Python Excel-bibliotek" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="htm" outformat="ett" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Exempelkod för att konvertera HTM till ETT via Python Excel-bibliotek" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="htm" outformat="ett" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="Hur man konverterar HTM till ETT" %}}
 
@@ -82,10 +82,10 @@ Aspose.Cells for Python via NET är plattformsoberoende API och kan användas p�
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/htm-to-bmp/" name="HTM TILL BMP" description="Bitmappsbild" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/htm-to-emf/" name="HTM TILL EMF" description="Förbättrat metafilformat" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/htm-to-gif/" name="HTM TILL GIF" description="Grafiskt utbytesformat" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/htm-to-html/" name="HTM TILL HTML" description="Hyper Text Markup Language" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/htm-to-md/" name="HTM TILL MD" description="Markdown Language" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/htm-to-html/" name="HTM TILL HTML" description="Hypertext Markup Language" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/htm-to-md/" name="HTM TILL MD" description="Markdown-språk" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/htm-to-mhtml/" name="HTM TILL MHTML" description="Arkivformat för webbsidor" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/htm-to-ods/" name="HTM TILL ODS" description="OpenDocument Spreadsheet File" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/htm-to-ods/" name="HTM TILL ODS" description="OpenDocument-kalkylbladsfil" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/htm-to-pdf/" name="HTM TILL PDF" description="Portabelt dokumentformat" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/htm-to-png/" name="HTM TILL PNG" description="Bärbar nätverksgrafik" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/htm-to-svg/" name="HTM TILL SVG" description="Skalbar vektorgrafik" >}}

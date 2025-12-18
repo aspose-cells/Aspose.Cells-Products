@@ -1,7 +1,7 @@
 ---
 title: Python PNG till ETT - PNG till ETT Converter
-description: Aspose Excel. Python Excel. Konvertera PNG till ETT snabbt och enkelt med Aspose.Cells. Python PNG till ETT. Python Spara PNG till ETT. Spara PNG som ETT med Python Excel-bibliotek.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert PNG to ETT in Python Excel Library., Save PNG to ETT using Python Excel Library., Python PNG to ETT saveformat., PNG to ETT Converter., Python Save PNG as ETT]
+description: Aspose Excel. Denna omfattande lösning ger Python-utvecklare en helt integrerad metod för att konvertera PNG till ETT-format, vilket möjliggör sömlös sparning av PNG-data till ETT-format med hjälp av Aspose.Cells-biblioteket, allt genom effektiv och anpassningsbar Python-kod.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart PNG files to ETT Converter for Python., Convert PNG to ETT in Python., PNG files to ETT Conversion in Python., Leverage intelligent data processing to automatically parse and save PNG into ETT format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Konvertera PNG till ETT i Python Excel-bibliotek" h2="Höghastighets Python excel-bibliotek för att konvertera PNG till ETT. Använd vår excel-konvertering API för att utveckla plattformsoberoende programvara på hög nivå i Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="ETT" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -28,7 +28,7 @@ Följ de enkla stegen för att konvertera PNG till ETT. Ladda upp din PNG-fil oc
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Exempelkod för att konvertera PNG till ETT via Python Excel-bibliotek" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="png" outformat="ett" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Exempelkod för att konvertera PNG till ETT via Python Excel-bibliotek" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="png" outformat="ett" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="Hur man konverterar PNG till ETT" %}}
 
@@ -82,10 +82,10 @@ Aspose.Cells for Python via NET är plattformsoberoende API och kan användas p�
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/png-to-bmp/" name="PNG TILL BMP" description="Bitmappsbild" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/png-to-emf/" name="PNG TILL EMF" description="Förbättrat metafilformat" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/png-to-gif/" name="PNG TILL GIF" description="Grafiskt utbytesformat" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/png-to-html/" name="PNG TILL HTML" description="Hyper Text Markup Language" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/png-to-md/" name="PNG TILL MD" description="Markdown Language" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/png-to-html/" name="PNG TILL HTML" description="Hypertext Markup Language" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/png-to-md/" name="PNG TILL MD" description="Markdown-språk" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/png-to-mhtml/" name="PNG TILL MHTML" description="Arkivformat för webbsidor" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/png-to-ods/" name="PNG TILL ODS" description="OpenDocument Spreadsheet File" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/png-to-ods/" name="PNG TILL ODS" description="OpenDocument-kalkylbladsfil" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/png-to-pdf/" name="PNG TILL PDF" description="Portabelt dokumentformat" >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/png-to-svg/" name="PNG TILL SVG" description="Skalbar vektorgrafik" >}}

@@ -1,7 +1,7 @@
 ---
 title: Python MHTML do XLAM - MHTML do XLAM Konwerter
-description: Aspose Excel. Python Excel. Konwertuj numer MHTML na XLAM szybko i łatwo za pomocą Aspose.Cells. Python MHTML na XLAM. Python Zapisz MHTML na XLAM. Zapisz MHTML jako 07611 23481 przy użyciu biblioteki programu Excel Python.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert MHTML to XLAM in Python Excel Library., Save MHTML to XLAM using Python Excel Library., Python MHTML to XLAM saveformat., MHTML to XLAM Converter., Python Save MHTML as XLAM]
+description: Aspose Excel. To kompleksowe rozwiązanie zapewnia programistom w pełni zintegrowane podejście do konwersji formatu MHTML do XLAM, umożliwiając bezproblemowe zapisywanie danych MHTML do formatu XLAM za pomocą biblioteki Aspose.Cells, a wszystko to dzięki wydajnemu i konfigurowalnemu kodowi Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart MHTML files to XLAM Converter for Python., Convert MHTML to XLAM in Python., MHTML files to XLAM Conversion in Python., Leverage intelligent data processing to automatically parse and save MHTML into XLAM format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Konwertuj MHTML na XLAM w Python Biblioteka Excel" h2="Szybka biblioteka Excel Python do konwersji MHTML na XLAM. Jest to profesjonalne oprogramowanie do importowania i eksportowania MHTML, XLAM i wielu innych formatów przy użyciu Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLAM" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -27,7 +27,7 @@ Wykonaj proste kroki, aby przekonwertować numer MHTML na numer XLAM. Prześlij 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Przykładowy kod do konwersji MHTML na XLAM za pośrednictwem biblioteki Excel Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="mhtml" outformat="xlam" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="Przykładowy kod do konwersji MHTML na XLAM za pośrednictwem biblioteki Excel Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="mhtml" outformat="xlam" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="Jak przekonwertować MHTML na XLAM przez Python" %}}
 

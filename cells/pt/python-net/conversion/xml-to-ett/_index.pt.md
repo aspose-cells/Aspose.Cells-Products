@@ -1,7 +1,7 @@
 ---
 title: Python XML para ETT - Conversor XML para ETT
-description: Aspose Excel. Python Excel. Converta XML para ETT de forma rápida e fácil com Aspose.Cells. Python XML para ETT. Python Salvar XML em ETT. Salve XML como ETT usando a Biblioteca Excel Python.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert XML to ETT in Python Excel Library., Save XML to ETT using Python Excel Library., Python XML to ETT saveformat., XML to ETT Converter., Python Save XML as ETT]
+description: Aspose Excel. Esta solução abrangente fornece aos desenvolvedores Python uma abordagem totalmente integrada para converter XML em formato ETT, permitindo o salvamento perfeito de dados XML em formato ETT usando a biblioteca Aspose.Cells, tudo por meio de código Python eficiente e personalizável.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart XML files to ETT Converter for Python., Convert XML to ETT in Python., XML files to ETT Conversion in Python., Leverage intelligent data processing to automatically parse and save XML into ETT format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Converta XML em ETT na Biblioteca Excel Python" h2="Biblioteca Excel Python de alta velocidade para conversão de XML em ETT. Use nossa conversão Excel API para desenvolver software independente de plataforma de alto nível em Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="ETT" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -28,7 +28,7 @@ Siga as etapas fáceis para converter XML em ETT. Carregue seu arquivo XML e sim
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Exemplo de código para converter XML em ETT por meio da biblioteca Python Excel" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xml" outformat="ett" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Exemplo de código para converter XML em ETT por meio da biblioteca Python Excel" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="xml" outformat="ett" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="Como converter XML em ETT" %}}
 

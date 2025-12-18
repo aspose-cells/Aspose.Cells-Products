@@ -1,7 +1,7 @@
 ---
 title: Python XLTX na SQL - XLTX na konwerter SQL
-description: Aspose Excel. Python Excel. Szybko i łatwo przekonwertuj XLTX na SQL za pomocą Aspose.Cells. Python XLTX na SQL. Python Zapisz XLTX w SQL. Zapisz XLTX jako SQL, korzystając z biblioteki Excel Python.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert XLTX to SQL in Python Excel Library., Save XLTX to SQL using Python Excel Library., Python XLTX to SQL saveformat., XLTX to SQL Converter., Python Save XLTX as SQL]
+description: Aspose Excel. To kompleksowe rozwiązanie zapewnia programistom w pełni zintegrowane podejście do konwersji XLTX do formatu SQL, umożliwiając bezproblemowe zapisywanie XLTX danych w formacie SQL za pomocą biblioteki Aspose.Cells, a wszystko to dzięki wydajnemu i konfigurowalnemu kodowi Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart XLTX files to SQL Converter for Python., Convert XLTX to SQL in Python., XLTX files to SQL Conversion in Python., Leverage intelligent data processing to automatically parse and save XLTX into SQL format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Konwertuj XLTX na SQL w Python Bibliotece Excel" h2="Szybka biblioteka Excel Python do konwersji XLTX na SQL. Skorzystaj z naszej konwersji Excela API, aby opracować oprogramowanie wysokiego poziomu, niezależne od platformy w Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="SQL" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -28,7 +28,7 @@ Wykonaj proste kroki, aby przekonwertować XLTX na SQL. Prześlij plik XLTX, a n
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Przykładowy kod do konwersji XLTX na SQL za pośrednictwem biblioteki Excel Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xltx" outformat="sql" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Przykładowy kod do konwersji XLTX na SQL za pośrednictwem biblioteki Excel Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="xltx" outformat="sql" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="Jak przekonwertować XLTX na SQL" %}}
 

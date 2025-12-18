@@ -1,7 +1,7 @@
 ---
 title: Конвертер Python MHT в XLT - Конвертер MHT в XLT
-description: Aspose Эксель. Python Эксель. Быстро и легко конвертируйте MHT в XLT с помощью Aspose.Cells. Python MHT в XLT. Python Сохраните MHT в XLT. Сохраните MHT как XLT, используя библиотеку Excel Python.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert MHT to XLT in Python Excel Library., Save MHT to XLT using Python Excel Library., Python MHT to XLT saveformat., MHT to XLT Converter., Python Save MHT as XLT]
+description: Aspose Excel. Это комплексное решение предоставляет разработчикам Python полностью интегрированный подход к преобразованию MHT в формат XLT, обеспечивая беспрепятственное сохранение данных MHT в формат XLT с использованием библиотеки Aspose.Cells, и все это с помощью эффективного и настраиваемого кода Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart MHT files to XLT Converter for Python., Convert MHT to XLT in Python., MHT files to XLT Conversion in Python., Leverage intelligent data processing to automatically parse and save MHT into XLT format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Преобразуйте MHT в XLT в библиотеке Excel Python." h2="Высокоскоростная библиотека Excel Python для преобразования MHT в XLT. Используйте наше преобразование Excel API для разработки высокоуровневого, независимого от платформы программного обеспечения в Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLT" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -28,7 +28,7 @@ keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert M
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Пример кода для преобразования MHT в XLT с помощью библиотеки Excel Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="mht" outformat="xlt" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Пример кода для преобразования MHT в XLT с помощью библиотеки Excel Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="mht" outformat="xlt" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="Как конвертировать MHT в XLT" %}}
 

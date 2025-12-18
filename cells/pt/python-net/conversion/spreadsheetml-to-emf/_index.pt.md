@@ -1,7 +1,7 @@
 ---
 title: Python SPREADSHEETML para EMF - Conversor SPREADSHEETML para EMF
-description: Aspose Excel. Python Excel. Converta SPREADSHEETML em EMF de forma rápida e fácil com Aspose.Cells. Python SPREADSHEETML em EMF. Python Salve SPREADSHEETML em EMF. Salve SPREADSHEETML como EMF usando Python Excel Library.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert SPREADSHEETML to EMF in Python Excel Library., Save SPREADSHEETML to EMF using Python Excel Library., Python SPREADSHEETML to EMF saveformat., SPREADSHEETML to EMF Converter., Python Save SPREADSHEETML as EMF]
+description: Aspose Excel. Esta solução abrangente fornece aos desenvolvedores Python uma abordagem totalmente integrada para converter SPREADSHEETML para o formato EMF, permitindo o salvamento perfeito de dados SPREADSHEETML no formato EMF usando a biblioteca Aspose.Cells, tudo por meio de código Python eficiente e personalizável.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart SPREADSHEETML files to EMF Converter for Python., Convert SPREADSHEETML to EMF in Python., SPREADSHEETML files to EMF Conversion in Python., Leverage intelligent data processing to automatically parse and save SPREADSHEETML into EMF format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Converta SPREADSHEETML em EMF na biblioteca Python do Excel" h2="Biblioteca Excel Python de alta velocidade para converter SPREADSHEETML em EMF. Use nossa conversão Excel API para desenvolver software independente de plataforma de alto nível em Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="EMF" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -28,7 +28,7 @@ Siga as etapas fáceis para converter SPREADSHEETML em EMF. Carregue seu arquivo
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Código de exemplo para converter SPREADSHEETML em EMF por meio da biblioteca Excel Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xml" outformat="emf" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Código de exemplo para converter SPREADSHEETML em EMF por meio da biblioteca Excel Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="xml" outformat="emf" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="Como converter SPREADSHEETML para EMF" %}}
 
@@ -99,7 +99,7 @@ Aspose.Cells for Python via NET é independente de plataforma API e pode ser usa
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/spreadsheetml-to-xlt/" name="PLANILHAML PARA XLT" description="Microsoft Modelo Excel" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/spreadsheetml-to-xltm/" name="PLANILHAML PARA XLTM" description="Modelo habilitado para macro do Excel" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/spreadsheetml-to-xltx/" name="PLANILHAML PARA XLTX" description="Modelo Office OpenXML Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/spreadsheetml-to-xml/" name="PLANILHAML PARA XML" description="Extensible Markup Language" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/spreadsheetml-to-xml/" name="PLANILHAML PARA XML" description="Linguagem de Marcação Extensível" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/spreadsheetml-to-xps/" name="PLANILHAML PARA XPS" description="Especificações do papel XML" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/spreadsheetml-to-json/" name="PLANILHAML PARA JSON" description="Notação de objeto JavaScript" >}}
 

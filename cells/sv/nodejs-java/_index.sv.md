@@ -1,10 +1,10 @@
 ---
-title: " Node.js API:er för Excel-kalkylblad - Aspose"
+title: " Node.js via Java API:er för Excel-kalkylblad - Aspose"
 weight: 3120
-description: Bearbeta Excel-filformat via Node.js-biblioteket. Läs skriv rendera & konvertera XLS XLSX XLSB XLTX XLTM XLSM XML ODS CSV och fler format via Node.js 3 & Linux OS 3
+description: Bearbeta Excel-filformat med Node.js via Java-biblioteket. Läs, skriv, rendera och konvertera XLS XLSX XLSB XLTX XLTM XLSM XML ODS CSV och fler format med Node.js via Java på Windows, macOS och Linux.
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="Node.js Excel filformat API:er" h2="Generera, modifiera, konvertera och rendera Excel-kalkylblad med Node.js utan att behöva Microsoft Excel." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/headers/aspose_cells-for-nodejs-java.svg" pfName="Aspose.Cells" subTitlepfName="for Node.js via Java" downloadUrl="https://downloads.aspose.com/cells/nodejs" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="Node.js via Java Excel-filformat API:er" h2="Generera, modifiera, konvertera och rendera Excel-kalkylblad med Node.js via Java utan att behöva Microsoft Excel." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/headers/aspose_cells-for-nodejs-java.svg" pfName="Aspose.Cells" subTitlepfName="for Node.js via Java" downloadUrl="https://downloads.aspose.com/cells/nodejs" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells" subTitlepfName="for Node.js via Java" >}}
 
@@ -12,7 +12,7 @@ description: Bearbeta Excel-filformat via Node.js-biblioteket. Läs skriv render
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
-Aspose.Cells for Node.js via Java är en funktionsrik och skalbar API för att bearbeta Excel-kalkylblad med Node.js. API erbjuder konvertering av Excel-filformat, formatering av kalkylblad till den mest detaljerade nivån, skapande av diagram &amp; rendering, pålitlig formelberäkningsmotor och mycket mer.
+ Aspose.Cells for Node.js via Java är en funktionsrik och skalbar API för att bearbeta Excel-kalkylblad med Node.js via Java. API erbjuder konvertering av Excel-filformat, formatering av kalkylblad på den mest detaljerade nivån, skapande och rendering av diagram, en pålitlig formelberäkningsmotor och mycket mer.
 </p>
 
 <p>
@@ -271,7 +271,7 @@ Endast utgång
  <div class="row">
   <div class="container">
    <h2 class="pr-ft">
- Avancerade Node.js Excel-kalkylblad API-funktioner
+ Avancerade Node.js via Java Excel-kalkylblad API-funktioner
    </h2>
    <p>
    </p>
@@ -343,7 +343,7 @@ Endast utgång
  Rendering av Excel-kalkylblad
     </h2>
     <p>
-Aspose.Cells for Node.js via Java använder sin renderingsmotor för att rendera till Microsoft Excel med högsta kvalitet. Medan du använder Node.js Excel Processing-bibliotek kan man konvertera hela ark, enskilda filer eller diagram till flera bilder och format med fast layout.
+ Aspose.Cells for Node.js via Java använder sin renderingsmotor för att rendera till Microsoft Excel med högsta möjliga återgivningskvalitet. Med Node.js via Java Excel Processing-bibliotek kan man konvertera hela ark, enskilda filer eller diagram till flera bilder och format med fast layout.
     </p>
    </div>
    <div class="col-lg-12">
@@ -415,7 +415,7 @@ Aspose.Cells for Node.js via Java ger fullt stöd för kartläggning. Man kan en
 
 {{< /blocks/products/pf/i18n/support-learning-resources >}}
 
-{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://downloads.aspose.com/cells/nodejs" pricingInformationLink="https://purchase.aspose.com/pricing/cells/nodejs-java" >}}
+{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://releases.aspose.com/cells/nodejs/" pricingInformationLink="https://purchase.aspose.com/pricing/cells/nodejs-java" >}}
 
 {{< blocks/products/pf/offers-section pfName="Aspose.Cells" description="Aspose.Cells erbjuder individuella Excel API:er för andra populära utvecklingsmiljöer enligt listan nedan:" >}}
 

@@ -1,7 +1,7 @@
 ---
 title: Python HTM na JSON - Konwerter HTM na JSON
-description: Aspose Excel. Python Excel. Konwertuj HTM na JSON szybko i łatwo za pomocą Aspose.Cells. Python HTM na JSON. Python Zapisz HTM na JSON. Zapisz HTM jako JSON, korzystając z biblioteki Excel Python.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert HTM to JSON in Python Excel Library., Save HTM to JSON using Python Excel Library., Python HTM to JSON saveformat., HTM to JSON Converter., Python Save HTM as JSON]
+description: Aspose Excel. To kompleksowe rozwiązanie zapewnia programistom w pełni zintegrowane podejście do konwersji plików HTM do formatu JSON, umożliwiając bezproblemowe zapisywanie danych HTM do formatu JSON za pomocą biblioteki Aspose.Cells, a wszystko to dzięki wydajnemu i konfigurowalnemu kodowi Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart HTM files to JSON Converter for Python., Convert HTM to JSON in Python., HTM files to JSON Conversion in Python., Leverage intelligent data processing to automatically parse and save HTM into JSON format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Konwertuj HTM na JSON w Python Biblioteka Excel" h2="Szybka biblioteka Excel Python do konwersji HTM na JSON. Jest to profesjonalne oprogramowanie do importowania i eksportowania HTM, JSON i wielu innych formatów przy użyciu Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="JSON" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -27,7 +27,7 @@ Wykonaj proste kroki, aby przekonwertować plik HTM na JSON. Prześlij plik HTM,
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Przykładowy kod do konwersji HTM na JSON za pośrednictwem biblioteki Excel Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="htm" outformat="json" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="Przykładowy kod do konwersji HTM na JSON za pośrednictwem biblioteki Excel Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="htm" outformat="json" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="Jak przekonwertować HTM na JSON przez Python" %}}
 

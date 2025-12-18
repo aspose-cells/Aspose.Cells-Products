@@ -1,7 +1,7 @@
 ---
 title: Python NUMERY do XLAM - NUMERY do XLAM Konwerter
-description: Aspose Excel. Python Excel. Konwertuj NUMERY na XLAM szybko i łatwo za pomocą Aspose.Cells. Python NUMERY na XLAM. Python Zapisz NUMERY na XLAM. Zapisz NUMERY jako XLAM, korzystając z biblioteki Excel Python.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert NUMBERS to XLAM in Python Excel Library., Save NUMBERS to XLAM using Python Excel Library., Python NUMBERS to XLAM saveformat., NUMBERS to XLAM Converter., Python Save NUMBERS as XLAM]
+description: Aspose Excel. To kompleksowe rozwiązanie zapewnia programistom w pełni zintegrowane podejście do konwersji LICZB do formatu XLAM, umożliwiając bezproblemowe zapisywanie danych LICZB do formatu XLAM za pomocą biblioteki Aspose.Cells, a wszystko to dzięki wydajnemu i konfigurowalnemu kodowi Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart NUMBERS files to XLAM Converter for Python., Convert NUMBERS to XLAM in Python., NUMBERS files to XLAM Conversion in Python., Leverage intelligent data processing to automatically parse and save NUMBERS into XLAM format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Konwertuj NUMERY na XLAM w bibliotece Excel Python" h2="Szybka biblioteka Excel Python do konwersji NUMERÓW na XLAM. Skorzystaj z naszej konwersji Excel API, aby opracować zaawansowane, niezależne od platformy oprogramowanie w Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLAM" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -28,7 +28,7 @@ Wykonaj proste kroki, aby przekonwertować NUMBERS na XLAM. Prześlij plik NUMBE
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Przykładowy kod do konwersji NUMERÓW na XLAM za pośrednictwem biblioteki Excel Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="numbers" outformat="xlam" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Przykładowy kod do konwersji NUMERÓW na XLAM za pośrednictwem biblioteki Excel Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="numbers" outformat="xlam" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="Jak przekonwertować LICZBY na XLAM" %}}
 

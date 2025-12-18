@@ -1,7 +1,7 @@
 ---
 title: Python SPREADSHEETML na SVG - SPREADSHEETML na SVG Konwerter
-description: Aspose Excel. Python Excel. Szybko i łatwo przekonwertuj SPREADSHEETML na SVG za pomocą Aspose.Cells. Python SPREADSHEETML na SVG. Python Zapisz SPREADSHEETML na SVG. Zapisz SPREADSHEETML jako SVG za pomocą 07619348 1 Biblioteka Excela.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert SPREADSHEETML to SVG in Python Excel Library., Save SPREADSHEETML to SVG using Python Excel Library., Python SPREADSHEETML to SVG saveformat., SPREADSHEETML to SVG Converter., Python Save SPREADSHEETML as SVG]
+description: Aspose Excel. To kompleksowe rozwiązanie zapewnia programistom w pełni zintegrowane podejście do konwersji arkuszy kalkulacyjnych (SPREADSHEETML) do formatu SVG, umożliwiając bezproblemowe zapisywanie danych arkuszy kalkulacyjnych do formatu SVG za pomocą biblioteki Aspose.Cells, a wszystko to dzięki wydajnemu i konfigurowalnemu kodowi Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart SPREADSHEETML files to SVG Converter for Python., Convert SPREADSHEETML to SVG in Python., SPREADSHEETML files to SVG Conversion in Python., Leverage intelligent data processing to automatically parse and save SPREADSHEETML into SVG format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Konwertuj ARKUSZ ROZPRASZAJĄCY na SVG w bibliotece Excel Python" h2="Szybka biblioteka Excel Python do konwersji SPREADSHEETML na SVG. Skorzystaj z naszej konwersji Excel API, aby opracować zaawansowane, niezależne od platformy oprogramowanie w Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="SVG" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -28,7 +28,7 @@ Wykonaj proste kroki, aby przekonwertować SPREADSHEETML na SVG. Prześlij plik 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Przykładowy kod do konwersji SPREADSHEETML na SVG za pośrednictwem biblioteki Excel Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xml" outformat="svg" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Przykładowy kod do konwersji SPREADSHEETML na SVG za pośrednictwem biblioteki Excel Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="xml" outformat="svg" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="Jak przekonwertować arkusz kalkulacyjny na SVG" %}}
 

@@ -1,8 +1,8 @@
 ---
-title:  Python Arkusz kalkulacyjny Excel API - Aspose
+title: Python Arkusz kalkulacyjny Excel API - Aspose.Cells for Python via Java
 weight: 2820
-description: Python biblioteka do tworzenia, naprawiania, scalania, analizowania i konwertowania plików Excel. Konwertuj Excel na PDF, JSON, HTML, TXT i inne popularne formaty.
-keywords: [Python Aspose.Cells Create parse repair merge convert JSON Excel XML PDF HTML TSV SQL CSV TSV PNG JPEG and more formats]
+description: Aspose.Cells for Python via Java Biblioteka do tworzenia, naprawy, scalania, analizy i konwersji plików Excel. Konwertuj pliki Excel do formatów PDF, JSON, HTML, TXT i innych popularnych formatów za pomocą Aspose.Cells for Python via Java API.
+keywords: [Aspose.Cells for Python via Java Create parse repair merge convert JSON Excel XML PDF HTML TSV SQL CSV TSV PNG JPEG and more formats]
 ---
 {{< blocks/products/pf/main-wrap-class >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Python Interfejsy API analizowania arkuszy kalkulacyjnych Excel" h2="Generuj, czytaj, zapisuj lub manipuluj arkuszami kalkulacyjnymi, a także eksportuj pliki Excel do wielu formatów w aplikacjach Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/headers/aspose_cells-for-python-java.svg" pfName="Aspose.Cells" subTitlepfName="for Python via Java" downloadUrl="https://releases.aspose.com/cells/python-java/" >}}

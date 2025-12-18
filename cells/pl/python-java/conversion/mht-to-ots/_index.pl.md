@@ -1,7 +1,7 @@
 ---
 title: Python MHT na OTS - Konwerter MHT na OTS
-description: Aspose Excel. Python Excel. Szybko i łatwo przekonwertuj MHT na OTS za pomocą Aspose.Cells. Python MHT na OTS. Python Zapisz MHT w OTS. Zapisz MHT jako OTS, korzystając z biblioteki Excel Python.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert MHT to OTS in Python Excel Library., Save MHT to OTS using Python Excel Library., Python MHT to OTS saveformat., MHT to OTS Converter., Python Save MHT as OTS]
+description: Aspose Excel. To kompleksowe rozwiązanie zapewnia programistom w pełni zintegrowane podejście do konwersji MHT do formatu OTS, umożliwiając bezproblemowe zapisywanie danych MHT w formacie OTS przy użyciu biblioteki Aspose.Cells, a wszystko to dzięki wydajnemu i konfigurowalnemu kodowi Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart MHT files to OTS Converter for Python., Convert MHT to OTS in Python., MHT files to OTS Conversion in Python., Leverage intelligent data processing to automatically parse and save MHT into OTS format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Konwertuj MHT na OTS w bibliotece Excel Python" h2="Szybka biblioteka Excel Python do konwersji MHT na OTS. Jest to profesjonalne oprogramowanie do importowania i eksportowania MHT, OTS i wielu innych formatów przy użyciu numeru Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="OTS" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -27,7 +27,7 @@ Wykonaj proste kroki, aby przekonwertować MHT na OTS. Prześlij plik MHT, a nas
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Przykładowy kod do konwersji MHT na OTS za pośrednictwem biblioteki Excel Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="mht" outformat="ots" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="Przykładowy kod do konwersji MHT na OTS za pośrednictwem biblioteki Excel Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="mht" outformat="ots" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="Jak przekonwertować MHT na OTS poprzez Python" %}}
 

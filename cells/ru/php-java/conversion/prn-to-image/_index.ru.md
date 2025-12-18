@@ -1,7 +1,7 @@
 ---
-title: PHP PRN в ИЗОБРАЖЕНИЕ - Конвертер PRN в ИЗОБРАЖЕНИЕ
-description: Aspose Эксель. Быстро и легко конвертируйте PRN в IMAGE с помощью Aspose.Cells. PHP PRN в IMAGE. PHP Сохранить PRN в ИЗОБРАЖЕНИЕ. Сохраните PRN как ИЗОБРАЖЕНИЕ, используя PHP.
-keywords: [Aspose Excel., PHP Aspose.Cells., Convert PRN to IMAGE in PHP., Save PRN to IMAGE using PHP., PHP PRN to IMAGE saveformat., PRN to IMAGE Converter., PHP Save PRN as IMAGE]
+title: PHP PRN to IMAGE - Конвертер PRN в IMAGE
+description: Aspose Excel. Это комплексное решение предоставляет PHP-разработчикам полностью интегрированный подход к преобразованию данных PRN в формат IMAGE, обеспечивая беспрепятственное сохранение данных PRN в формат IMAGE с использованием библиотеки Aspose.Cells, и все это с помощью эффективного и настраиваемого PHP-кода.
+keywords: [Aspose Excel., PHP Aspose.Cells., Smart PRN files to IMAGE Converter for PHP., Convert PRN to IMAGE in PHP., PRN files to IMAGE Conversion in PHP., Leverage intelligent data processing to automatically parse and save PRN into IMAGE format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Преобразование PRN в IMAGE в PHP" h2="Высокоскоростная PHP-библиотека для преобразования PRN в IMAGE. Это профессиональное программное решение для импорта и экспорта PRN, IMAGE и многих других форматов с использованием PHP." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-php-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="IMAGE" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,13 +12,13 @@ keywords: [Aspose Excel., PHP Aspose.Cells., Convert PRN to IMAGE in PHP., Save 
 
 {{% blocks/products/pf/agp/content h2="Преобразование PRN в IMAGE с помощью PHP" %}}
 
- Как мне преобразовать PRN в ИЗОБРАЖЕНИЕ? С помощью библиотеки Aspose.Cells for PHP via Java вы можете легко конвертировать PRN в IMAGE программно с помощью нескольких строк кода.[Aspose.Cells for PHP via Java](https://products.aspose.com/cells/php-java/) способен создавать кроссплатформенные приложения с возможностью генерировать, изменять, конвертировать, отображать и распечатывать все файлы Excel. PHP Excel API не только конвертирует форматы электронных таблиц, но также может отображать файлы Excel в виде изображений, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT и т. д., что делает его идеальным выбором для обмена документами в стандартных отраслевых форматах.
+Как преобразовать PRN в IMAGE? С помощью библиотек Aspose.Cells for PHP via Java вы можете легко преобразовать PRN в IMAGE программно, всего несколькими строками кода.[Aspose.Cells for PHP via Java](https://products.aspose.com/cells/php-java/) PHP Excel API способен создавать кроссплатформенные приложения с возможностью генерации, изменения, преобразования, отображения и печати всех файлов Excel. Он не только конвертирует файлы между форматами электронных таблиц, но и может отображать файлы Excel в виде изображений, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT и многое другое, что делает его идеальным выбором для обмена документами в стандартных отраслевых форматах.
  
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Сохранить PRN в ИЗОБРАЖЕНИЕ в PHP" %}}
+{{% blocks/products/pf/agp/content h2="Сохранение PRN в ИЗОБРАЖЕНИЕ в PHP" %}}
 
-В следующем примере показано, как преобразовать PRN в IMAGE в PHP.
+Следующий пример демонстрирует, как преобразовать PRN в IMAGE в PHP.
 {{% blocks/products/pf/agp/text %}}
 
 Следуйте простым шагам, чтобы преобразовать PRN в ИЗОБРАЖЕНИЕ. Загрузите свой файл PRN, а затем просто сохраните его как файл IMAGE. Как для чтения PRN, так и для записи IMAGE вы можете использовать полные имена файлов. Содержимое и форматирование выходного ИЗОБРАЖЕНИЯ будут идентичны исходному документу PRN.
@@ -27,25 +27,25 @@ keywords: [Aspose Excel., PHP Aspose.Cells., Convert PRN to IMAGE in PHP., Save 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Пример кода для преобразования PRN в IMAGE" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="prn" outformat="png" IsLandingPage="true" language="phpjava" %}}
+{{% cells-convert title="Пример кода для преобразования PRN в IMAGE" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="prn" outformat="png" IsLandingPage="true" language="phpjava" %}}
 
-{{% blocks/products/pf/agp/content h2="Как конвертировать PRN в IMAGE через PHP" %}}
+{{% blocks/products/pf/agp/content h2="Как преобразовать PRN в изображение с помощью PHP" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
-Вам нужно программно конвертировать файлы PRN в IMAGE? Разработчики PHP могут легко загрузить и преобразовать PRN в IMAGE всего за несколько строк кода.
+Нужно программно преобразовать PRN-файлы в изображения? PHP-разработчики могут легко загрузить и преобразовать PRN-файлы в изображения всего несколькими строками кода.
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Установите «Aspose.Cells for PHP via Java».
 1.  Добавьте ссылку на библиотеку (импортируйте библиотеку) в свой PHP-проект.
 1.  Загрузите файл PRN с экземпляром книги.
-1.  Преобразуйте PRN в IMAGE, вызвав метод сохранения книги.
-1. Получите результат преобразования PRN в IMAGE.
+1.  Преобразуйте PRN в IMAGE, вызвав метод save объекта Workbook.
+1.  Получите результат преобразования PRN в IMAGE.
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Библиотека PHP для преобразования PRN в IMAGE" %}}
+{{% blocks/products/pf/agp/content h2="PHP-библиотека для преобразования PRN в IMAGE" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
@@ -63,7 +63,7 @@ keywords: [Aspose Excel., PHP Aspose.Cells., Convert PRN to IMAGE in PHP., Save 
 
 {{% blocks/products/pf/agp/text %}}
 
-Aspose.Cells for PHP via Java не зависит от платформы API и может использоваться на любой платформе (Windows, Linux, MacOS и т. д.), где установлен PHP 7 или более поздние версии. Перед настройкой установки на компьютере должна быть установлена версия Oracle JDK 7 или более поздней версии.
+ Aspose.Cells for PHP via Java является платформенно-независимым API и может использоваться на любой платформе (Windows, Linux, MacOS и т. д.), где установлен PHP 7 или более поздней версии. Перед установкой на компьютере должен быть установлен Oracle JDK 7 или более поздней версии.
  
 {{% /blocks/products/pf/agp/text %}}
 

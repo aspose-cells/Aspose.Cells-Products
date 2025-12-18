@@ -1,7 +1,7 @@
 ---
 title: Python EXCEL na XML — konwerter EXCEL na XML
-description: Aspose Excel. Python Excel. Konwertuj EXCEL na XML szybko i łatwo za pomocą Aspose.Cells. Python EXCEL na XML. Python Zapisz EXCEL w formacie XML. Zapisz EXCEL jako XML, korzystając z biblioteki Excel Python.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert EXCEL to XML in Python Excel Library., Save EXCEL to XML using Python Excel Library., Python EXCEL to XML saveformat., EXCEL to XML Converter., Python Save EXCEL as XML]
+description: Aspose Excel. To kompleksowe rozwiązanie zapewnia programistom w pełni zintegrowane podejście do konwersji plików EXCEL do formatu XML, umożliwiając bezproblemowe zapisywanie danych EXCEL w formacie XML za pomocą biblioteki Aspose.Cells, a wszystko to dzięki wydajnemu i konfigurowalnemu kodowi Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart EXCEL files to XML Converter for Python., Convert EXCEL to XML in Python., EXCEL files to XML Conversion in Python., Leverage intelligent data processing to automatically parse and save EXCEL into XML format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Konwertuj EXCEL na XML w Python Bibliotece Excel" h2="Szybka biblioteka Excel Python do konwersji EXCEL na XML. Jest to profesjonalne oprogramowanie do importowania i eksportowania plików EXCEL, XML i wielu innych formatów przy użyciu numeru Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="XML" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -27,7 +27,7 @@ Wykonaj proste kroki, aby przekonwertować EXCEL na XML. Prześlij plik EXCEL, a
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Przykładowy kod do konwersji programu Excel na XML za pośrednictwem biblioteki programu Excel Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsx" outformat="xml" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="Przykładowy kod do konwersji programu Excel na XML za pośrednictwem biblioteki programu Excel Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="xlsx" outformat="xml" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="Jak przekonwertować EXCEL na XML za pomocą Python" %}}
 

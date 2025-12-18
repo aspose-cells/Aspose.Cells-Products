@@ -1,7 +1,7 @@
 ---
 title: Python SPREADSHEETML para TIFF - Conversor SPREADSHEETML para TIFF
-description: Aspose Excel. Python Excel. Converta SPREADSHEETML em TIFF de forma rápida e fácil com Aspose.Cells. Python SPREADSHEETML em TIFF. Python Salve SPREADSHEETML em TIFF. Salve SPREADSHEETML como TIFF usando Python Excel Library.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert SPREADSHEETML to TIFF in Python Excel Library., Save SPREADSHEETML to TIFF using Python Excel Library., Python SPREADSHEETML to TIFF saveformat., SPREADSHEETML to TIFF Converter., Python Save SPREADSHEETML as TIFF]
+description: Aspose Excel. Esta solução abrangente fornece aos desenvolvedores Python uma abordagem totalmente integrada para converter SPREADSHEETML para o formato TIFF, permitindo o salvamento perfeito de dados SPREADSHEETML no formato TIFF usando a biblioteca Aspose.Cells, tudo por meio de código Python eficiente e personalizável.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart SPREADSHEETML files to TIFF Converter for Python., Convert SPREADSHEETML to TIFF in Python., SPREADSHEETML files to TIFF Conversion in Python., Leverage intelligent data processing to automatically parse and save SPREADSHEETML into TIFF format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Converta SPREADSHEETML em TIFF na biblioteca Python do Excel" h2="Biblioteca Excel Python de alta velocidade para converter SPREADSHEETML em TIFF. Esta é uma solução de software profissional para importar e exportar SPREADSHEETML, TIFF e muitos outros formatos usando Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="TIFF" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -27,7 +27,7 @@ Siga as etapas fáceis para converter SPREADSHEETML em TIFF. Carregue seu arquiv
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Código de exemplo para converter SPREADSHEETML em TIFF por meio da biblioteca Excel Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xml" outformat="tiff" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="Código de exemplo para converter SPREADSHEETML em TIFF por meio da biblioteca Excel Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="xml" outformat="tiff" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="Como converter SPREADSHEETML para TIFF via Python" %}}
 
@@ -101,7 +101,7 @@ Aspose.Cells for Python via Java é independente de plataforma API e pode ser us
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/spreadsheetml-to-xlt/" name="PLANILHAML PARA XLT" description="Microsoft Modelo Excel" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/spreadsheetml-to-xltm/" name="PLANILHAML PARA XLTM" description="Modelo habilitado para macro do Excel" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/spreadsheetml-to-xltx/" name="PLANILHAML PARA XLTX" description="Modelo Office OpenXML Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/spreadsheetml-to-xml/" name="PLANILHAML PARA XML" description="Extensible Markup Language" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/spreadsheetml-to-xml/" name="PLANILHAML PARA XML" description="Linguagem de Marcação Extensível" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/spreadsheetml-to-xps/" name="PLANILHAML PARA XPS" description="Especificações do papel XML" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/spreadsheetml-to-json/" name="PLANILHAML PARA JSON" description="Notação de objeto JavaScript" >}}
 

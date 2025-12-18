@@ -1,7 +1,7 @@
 ---
 title: Python MHT till SPREADSHEETML - MHT till SPREADSHEETML Converter
-description: Aspose Excel. Python Excel. Konvertera MHT till SPREADSHEETML snabbt och enkelt med Aspose.Cells. Python MHT till SPREADSHEETML. Python Spara MHT till Kalkylblad. Spara MHT som Kalkylblad med Python Excel Library.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert MHT to SPREADSHEETML in Python Excel Library., Save MHT to SPREADSHEETML using Python Excel Library., Python MHT to SPREADSHEETML saveformat., MHT to SPREADSHEETML Converter., Python Save MHT as SPREADSHEETML]
+description: Aspose Excel. Denna omfattande lösning ger Python-utvecklare en helt integrerad metod för att konvertera MHT till SPREADSHEETML-format, vilket möjliggör sömlös sparning av MHT-data i SPREADSHEETML-format med hjälp av Aspose.Cells-biblioteket, allt genom effektiv och anpassningsbar Python-kod.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart MHT files to SPREADSHEETML Converter for Python., Convert MHT to SPREADSHEETML in Python., MHT files to SPREADSHEETML Conversion in Python., Leverage intelligent data processing to automatically parse and save MHT into SPREADSHEETML format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Konvertera MHT till Kalkylblad i Python Excel-bibliotek" h2="Höghastighets Python excel-bibliotek för att konvertera MHT till Kalkylblad. Detta är en professionell mjukvarulösning för att importera och exportera MHT, SPREADSHEETML och många andra format med Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="SPREADSHEETML" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -27,7 +27,7 @@ Följ de enkla stegen för att konvertera MHT till SPREADSHEETML. Ladda upp din 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Exempelkod för att konvertera MHT till SPREADSHEETML via Python Excel-bibliotek" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="mht" outformat="xml" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="Exempelkod för att konvertera MHT till SPREADSHEETML via Python Excel-bibliotek" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="mht" outformat="xml" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="Hur man konverterar MHT till SPREADSHEETML via Python" %}}
 
@@ -84,10 +84,10 @@ Aspose.Cells for Python via Java är plattformsoberoende API och kan användas p
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/mht-to-bmp/" name="MHT TILL BMP" description="Bitmappsbild" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/mht-to-emf/" name="MHT TILL EMF" description="Förbättrat metafilformat" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/mht-to-gif/" name="MHT TILL GIF" description="Grafiskt utbytesformat" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/mht-to-html/" name="MHT TILL HTML" description="Hyper Text Markup Language" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/mht-to-md/" name="MHT TILL MD" description="Markdown Language" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/mht-to-html/" name="MHT TILL HTML" description="Hypertext Markup Language" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/mht-to-md/" name="MHT TILL MD" description="Markdown-språk" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/mht-to-mhtml/" name="MHT TILL MHTML" description="Arkivformat för webbsidor" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/mht-to-ods/" name="MHT TILL ODS" description="OpenDocument Spreadsheet File" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/mht-to-ods/" name="MHT TILL ODS" description="OpenDocument-kalkylbladsfil" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/mht-to-pdf/" name="MHT TILL PDF" description="Portabelt dokumentformat" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/mht-to-png/" name="MHT TILL PNG" description="Bärbar nätverksgrafik" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/mht-to-svg/" name="MHT TILL SVG" description="Skalbar vektorgrafik" >}}

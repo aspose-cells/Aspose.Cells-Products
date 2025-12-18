@@ -1,7 +1,7 @@
 ---
 title: Python PNG na OTS - PNG na konwerter OTS
-description: Aspose Excel. Python Excel. Szybko i łatwo przekonwertuj numer PNG na OTS za pomocą Aspose.Cells. Python PNG na OTS. Python Zapisz PNG w OTS. Zapisz PNG jako OTS, korzystając z biblioteki Excel Python.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert PNG to OTS in Python Excel Library., Save PNG to OTS using Python Excel Library., Python PNG to OTS saveformat., PNG to OTS Converter., Python Save PNG as OTS]
+description: Aspose Excel. To kompleksowe rozwiązanie zapewnia programistom w pełni zintegrowane podejście do konwersji PNG do formatu OTS, umożliwiając bezproblemowe zapisywanie danych PNG w formacie OTS przy użyciu biblioteki Aspose.Cells, a wszystko to dzięki wydajnemu i konfigurowalnemu kodowi Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart PNG files to OTS Converter for Python., Convert PNG to OTS in Python., PNG files to OTS Conversion in Python., Leverage intelligent data processing to automatically parse and save PNG into OTS format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Konwertuj PNG na OTS w Python Biblioteka Excel" h2="Szybka biblioteka Excel Python do konwersji PNG na OTS. Jest to profesjonalne oprogramowanie do importowania i eksportowania numerów PNG, OTS i wielu innych formatów przy użyciu numeru Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="OTS" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -27,7 +27,7 @@ Wykonaj proste kroki, aby przekonwertować PNG na OTS. Prześlij plik PNG, a nas
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Przykładowy kod do konwersji PNG na OTS za pośrednictwem biblioteki Excel Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="png" outformat="ots" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="Przykładowy kod do konwersji PNG na OTS za pośrednictwem biblioteki Excel Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="png" outformat="ots" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="Jak przekonwertować PNG na OTS przez Python" %}}
 

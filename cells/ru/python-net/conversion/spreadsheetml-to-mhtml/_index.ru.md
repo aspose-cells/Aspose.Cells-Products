@@ -1,7 +1,7 @@
 ---
 title: Python SPREADSHEETML в MHTML - SPREADSHEETML в MHTML конвертер
-description: Aspose Эксель. Python Эксель. Быстро и легко конвертируйте SPREADSHEETML в MHTML с помощью Aspose.Cells. Python SPREADSHEETML в MHTML. Python Сохраните SPREADSHEETML в MHTML. Сохраните SPREADSHEETML как MHTML, используя библиотеку Excel Python.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert SPREADSHEETML to MHTML in Python Excel Library., Save SPREADSHEETML to MHTML using Python Excel Library., Python SPREADSHEETML to MHTML saveformat., SPREADSHEETML to MHTML Converter., Python Save SPREADSHEETML as MHTML]
+description: Aspose Excel. Это комплексное решение предоставляет разработчикам Python полностью интегрированный подход к преобразованию SPREADSHEETML в формат MHTML, обеспечивая беспрепятственное сохранение данных SPREADSHEETML в формат MHTML с использованием библиотеки Aspose.Cells, и все это с помощью эффективного и настраиваемого кода Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart SPREADSHEETML files to MHTML Converter for Python., Convert SPREADSHEETML to MHTML in Python., SPREADSHEETML files to MHTML Conversion in Python., Leverage intelligent data processing to automatically parse and save SPREADSHEETML into MHTML format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Преобразуйте SPREADSHEETML в MHTML в библиотеке Excel Python." h2="Высокоскоростная библиотека Excel Python для преобразования SPREADSHEETML в MHTML. Используйте наше преобразование Excel API для разработки высокоуровневого, независимого от платформы программного обеспечения в Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="MHTML" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -28,7 +28,7 @@ keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert S
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Пример кода для преобразования SPREADSHEETML в MHTML с помощью библиотеки Excel Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xml" outformat="mhtml" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Пример кода для преобразования SPREADSHEETML в MHTML с помощью библиотеки Excel Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="xml" outformat="mhtml" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="Как конвертировать SPREADSHEETML в MHTML" %}}
 

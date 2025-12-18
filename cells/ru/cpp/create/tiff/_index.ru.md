@@ -1,7 +1,7 @@
 ---
 title: Создать TIFF — Создать файл TIFF в C++.
-description:  Aspose Эксель. C++ Создайте файл TIFF быстро и легко с помощью Aspose.Cells. Создайте файл TIFF с помощью C++. Создайте TIFF в C++. C++ TIFF Creater.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ Create TIFF file., Generate TIFF file in C++., Create TIFF file using C++., Write data to TIFF file via C++., Create a TIFF file in C++., C++ Generate a TIFF file., C++ TIFF Creater]
+description: Aspose Excel. Легко создавайте и обрабатывайте файлы TIFF с помощью библиотеки Aspose.Cells for C++. Эта мощная библиотека API предоставляет оптимизированное и эффективное решение для создания, редактирования и управления файлами TIFF непосредственно в ваших приложениях C++, удовлетворяя специфические потребности разработчиков с высокой точностью.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ Create TIFF file., Generate TIFF file in C++., Write data to TIFF file via C++., C++ TIFF Creater., Aspose.Cells for C++ is a powerful library that enables developers to programmatically create, generate, and manipulate TIFF files in C++]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Создайте файл TIFF в C++." h2="Нативное и высокопроизводительное создание файлов TIFF программно без Micorsoft Office с использованием библиотеки C++." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" sourceAdditionalConversionTag="" additionalConversionTag="TIFF" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -45,6 +45,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 ```cs
 Aspose::Cells::Startup();
+//TIFF format is not supported
 
 // Create an object of the Workbook class.
 Workbook wkb;
@@ -69,6 +70,7 @@ cell00.PutValue(u"ColumnA");
 cell01.PutValue(u"ColumnB");
 cell10.PutValue(u"ValueA");
 cell11.PutValue(u"ValueB");
+
 
 // Save workbook to resultFile folder
 wkb.Save(u"created_one.tiff");

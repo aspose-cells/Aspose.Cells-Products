@@ -1,7 +1,7 @@
 ---
 title: Python XLSM na ET - XLSM na konwerter ET
-description: Aspose Excel. Python Excel. Szybko i łatwo przekonwertuj numer XLSM na ET za pomocą Aspose.Cells. Python XLSM na ET. Python Zapisz XLSM w ET. Zapisz XLSM jako ET, korzystając z biblioteki Excel Python.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert XLSM to ET in Python Excel Library., Save XLSM to ET using Python Excel Library., Python XLSM to ET saveformat., XLSM to ET Converter., Python Save XLSM as ET]
+description: Aspose Excel. To kompleksowe rozwiązanie zapewnia programistom w pełni zintegrowane podejście do konwersji XLSM do formatu ET, umożliwiając bezproblemowe zapisywanie danych XLSM do formatu ET za pomocą biblioteki Aspose.Cells, a wszystko to dzięki wydajnemu i konfigurowalnemu kodowi Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart XLSM files to ET Converter for Python., Convert XLSM to ET in Python., XLSM files to ET Conversion in Python., Leverage intelligent data processing to automatically parse and save XLSM into ET format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Konwertuj XLSM na ET w Python Biblioteka Excel" h2="Szybka biblioteka Excel Python do konwersji XLSM na ET. Jest to profesjonalne oprogramowanie do importowania i eksportowania numerów XLSM, ET i wielu innych formatów przy użyciu numeru Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="ET" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -27,7 +27,7 @@ Wykonaj proste kroki, aby przekonwertować XLSM na ET. Prześlij plik XLSM, a na
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Przykładowy kod do konwersji XLSM na ET za pośrednictwem biblioteki Excel Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsm" outformat="et" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="Przykładowy kod do konwersji XLSM na ET za pośrednictwem biblioteki Excel Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="xlsm" outformat="et" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="Jak przekonwertować XLSM na ET poprzez Python" %}}
 

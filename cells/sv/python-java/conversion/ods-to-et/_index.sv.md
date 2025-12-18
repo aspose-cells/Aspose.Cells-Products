@@ -1,7 +1,7 @@
 ---
 title: Python ODS till ET - ODS till ET-omvandlare
-description: Aspose Excel. Python Excel. Konvertera ODS till ET snabbt och enkelt med Aspose.Cells. Python ODS till ET. Python Spara ODS till ET. Spara ODS som ET med Python Excel-bibliotek.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert ODS to ET in Python Excel Library., Save ODS to ET using Python Excel Library., Python ODS to ET saveformat., ODS to ET Converter., Python Save ODS as ET]
+description: Aspose Excel. Denna omfattande lösning ger Python-utvecklare en helt integrerad metod för att konvertera ODS till ET-format, vilket möjliggör sömlös sparning av ODS-data till ET-format med hjälp av Aspose.Cells-biblioteket, allt genom effektiv och anpassningsbar Python-kod.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart ODS files to ET Converter for Python., Convert ODS to ET in Python., ODS files to ET Conversion in Python., Leverage intelligent data processing to automatically parse and save ODS into ET format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Konvertera ODS till ET i Python Excel-bibliotek" h2="Höghastighets Python excel-bibliotek för att konvertera ODS till ET. Detta är en professionell mjukvarulösning för att importera och exportera ODS, ET och många andra format med Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="ET" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -27,7 +27,7 @@ Följ de enkla stegen för att konvertera ODS till ET. Ladda upp din ODS-fil och
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Exempelkod för att konvertera ODS till ET via Python Excel-bibliotek" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="ods" outformat="et" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="Exempelkod för att konvertera ODS till ET via Python Excel-bibliotek" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="ods" outformat="et" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="Hur man konverterar ODS till ET via Python" %}}
 
@@ -84,8 +84,8 @@ Aspose.Cells for Python via Java är plattformsoberoende API och kan användas p
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/ods-to-bmp/" name="ODS TILL BMP" description="Bitmappsbild" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/ods-to-emf/" name="ODS TILL EMF" description="Förbättrat metafilformat" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/ods-to-gif/" name="ODS TILL GIF" description="Grafiskt utbytesformat" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/ods-to-html/" name="ODS TILL HTML" description="Hyper Text Markup Language" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/ods-to-md/" name="ODS TILL MD" description="Markdown Language" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/ods-to-html/" name="ODS TILL HTML" description="Hypertext Markup Language" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/ods-to-md/" name="ODS TILL MD" description="Markdown-språk" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/ods-to-mhtml/" name="ODS TILL MHTML" description="Arkivformat för webbsidor" >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/ods-to-pdf/" name="ODS TILL PDF" description="Portabelt dokumentformat" >}}

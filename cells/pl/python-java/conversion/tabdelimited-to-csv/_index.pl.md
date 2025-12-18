@@ -1,7 +1,7 @@
 ---
 title: Python TABDELIMITED na CSV - TABDELIMITED na CSV Konwerter
-description: Aspose Excel. Python Excel. TabDelimited na CSV szybko i łatwo za pomocą Aspose.Cells. Python TabDelimited na CSV. Python Zapisz tabdelimited do biblioteki CSV.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert TABDELIMITED to CSV in Python Excel Library., Save TABDELIMITED to CSV using Python Excel Library., Python TABDELIMITED to CSV saveformat., TABDELIMITED to CSV Converter., Python Save TABDELIMITED as CSV]
+description: Aspose Excel. To kompleksowe rozwiązanie zapewnia programistom w pełni zintegrowane podejście do konwersji danych TABDELIMITED do formatu CSV, umożliwiając bezproblemowe zapisywanie danych TABDELIMITED do formatu CSV za pomocą biblioteki Aspose.Cells, a wszystko to dzięki wydajnemu i konfigurowalnemu kodowi Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart TABDELIMITED files to CSV Converter for Python., Convert TABDELIMITED to CSV in Python., TABDELIMITED files to CSV Conversion in Python., Leverage intelligent data processing to automatically parse and save TABDELIMITED into CSV format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Konwertuj TABDELIMITED na CSV w Python Bibliotece Excel" h2="Szybka biblioteka Excel Python do konwersji TABDELIMITED na CSV. Jest to profesjonalne oprogramowanie do importowania i eksportowania TABDELIMITED, CSV i wielu innych formatów przy użyciu Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="CSV" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -27,7 +27,7 @@ Wykonaj proste kroki, aby przekonwertować TABDELIMITED na CSV. Prześlij plik T
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Przykładowy kod do konwersji TABDELIMITED na CSV za pośrednictwem biblioteki Excel Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="tsv" outformat="csv" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="Przykładowy kod do konwersji TABDELIMITED na CSV za pośrednictwem biblioteki Excel Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="tsv" outformat="csv" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="Jak przekonwertować TABDELIMITED na CSV przez Python" %}}
 

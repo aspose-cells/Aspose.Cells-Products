@@ -1,7 +1,7 @@
 ---
 title: Criar XLTX - Criar arquivo XLTX em Python
-description: Aspose Excel. Python Excel. Python Crie o arquivo XLTX de forma rápida e fácil com Aspose.Cells. Gere o arquivo XLTX usando a Biblioteca Excel Python. Crie XLTX na Biblioteca Excel Python. Python XLTX Criador.
-keywords: [Aspose Python Excel., Python Aspose.Cells., Python Create XLTX file., Generate XLTX file in Python Excel Library., Create XLTX file using Python Excel Library., Write data to XLTX file via Python Excel Library., Create a XLTX file in Python Excel Library., Python Generate a XLTX file., Python XLTX Creater]
+description: Aspose Excel. Gere e manipule arquivos XLTX sem esforço com a biblioteca Aspose.Cells for Python via .NET. Esta poderosa biblioteca API oferece uma solução simplificada e eficiente para criar, editar e gerenciar arquivos XLTX diretamente em seus aplicativos Python, atendendo às necessidades específicas dos desenvolvedores com alta precisão.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Create XLTX file., Generate XLTX file in Python., Write data to XLTX file via Python., Python XLTX Creater., Aspose.Cells for Python via .NET is a powerful library that enables developers to programmatically create, generate, and manipulate XLTX files in Python]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Crie o arquivo XLTX na biblioteca Python Excel" h2="Biblioteca Excel Python de alta velocidade para criar o arquivo XLTX. Use nossa conversão Excel API para desenvolver software independente de plataforma de alto nível em Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLTX" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}

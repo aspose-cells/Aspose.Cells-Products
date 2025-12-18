@@ -1,7 +1,7 @@
 ---
 title: Python ЦИФРЫ в XLTX - ЦИФРЫ в XLTX Конвертер
-description: Aspose Эксель. Python Эксель. Преобразуйте ЧИСЛА в XLTX быстро и легко с помощью Aspose.Cells. Python ЧИСЛА в XLTX. Python Сохраните ЧИСЛА в XLTX. Сохраните ЧИСЛА как XLTX, используя библиотеку Excel Python.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert NUMBERS to XLTX in Python Excel Library., Save NUMBERS to XLTX using Python Excel Library., Python NUMBERS to XLTX saveformat., NUMBERS to XLTX Converter., Python Save NUMBERS as XLTX]
+description: Aspose Excel. Это комплексное решение предоставляет разработчикам Python полностью интегрированный подход к преобразованию ЧИСЕЛ в формат XLTX, обеспечивая беспрепятственное сохранение данных ЧИСЕЛ в формат XLTX с использованием библиотеки Aspose.Cells, и все это с помощью эффективного и настраиваемого кода Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart NUMBERS files to XLTX Converter for Python., Convert NUMBERS to XLTX in Python., NUMBERS files to XLTX Conversion in Python., Leverage intelligent data processing to automatically parse and save NUMBERS into XLTX format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Преобразуйте ЧИСЛА в XLTX в библиотеке Excel Python." h2="Высокоскоростная библиотека Excel Python для преобразования ЧИСЕЛ в XLTX. Используйте наше преобразование Excel API для разработки высокоуровневого, независимого от платформы программного обеспечения в Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLTX" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -28,7 +28,7 @@ keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert N
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Пример кода для преобразования ЧИСЕЛ в XLTX с помощью библиотеки Excel Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="numbers" outformat="xltx" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Пример кода для преобразования ЧИСЕЛ в XLTX с помощью библиотеки Excel Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="numbers" outformat="xltx" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="Как преобразовать ЧИСЛА в XLTX" %}}
 

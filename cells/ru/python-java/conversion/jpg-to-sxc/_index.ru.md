@@ -1,7 +1,7 @@
 ---
 title: Python JPG в SXC - Конвертер JPG в SXC
-description: Aspose Эксель. Python Эксель. Быстро и легко конвертируйте JPG в SXC с помощью Aspose.Cells. Python JPG в SXC. Python Сохраните JPG в SXC. Сохраните JPG как SXC, используя библиотеку Excel Python.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert JPG to SXC in Python Excel Library., Save JPG to SXC using Python Excel Library., Python JPG to SXC saveformat., JPG to SXC Converter., Python Save JPG as SXC]
+description: Aspose Excel. Это комплексное решение предоставляет разработчикам Python полностью интегрированный подход к преобразованию JPG в формат SXC, обеспечивая беспрепятственное сохранение данных JPG в формат SXC с использованием библиотеки Aspose.Cells, и все это с помощью эффективного и настраиваемого кода Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart JPG files to SXC Converter for Python., Convert JPG to SXC in Python., JPG files to SXC Conversion in Python., Leverage intelligent data processing to automatically parse and save JPG into SXC format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Конвертируйте JPG в SXC в библиотеке Excel Python" h2="Высокоскоростная библиотека Excel Python для преобразования JPG в SXC. Это профессиональное программное решение для импорта и экспорта JPG, SXC и многих других форматов с использованием Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="SXC" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -27,7 +27,7 @@ keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert J
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Пример кода для преобразования JPG в SXC с помощью библиотеки Excel Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="jpg" outformat="sxc" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="Пример кода для преобразования JPG в SXC с помощью библиотеки Excel Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="jpg" outformat="sxc" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="Как конвертировать JPG в SXC с помощью Python" %}}
 

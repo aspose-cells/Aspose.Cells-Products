@@ -1,7 +1,7 @@
 ---
 title: Python SXC na TABDELIMITED - SXC na TABDELIMITED Konwerter
-description: Aspose Excel. Python Excel. Szybko i łatwo przekonwertuj SXC na TABDELIMITED za pomocą Aspose.Cells. Python SXC na TABDELIMITED. Python Zapisz SXC w TABDELIMITED. Zapisz SXC jako TABDELIMITED, korzystając z biblioteki Excel Python.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert SXC to TABDELIMITED in Python Excel Library., Save SXC to TABDELIMITED using Python Excel Library., Python SXC to TABDELIMITED saveformat., SXC to TABDELIMITED Converter., Python Save SXC as TABDELIMITED]
+description: Aspose Excel. To kompleksowe rozwiązanie zapewnia programistom w pełni zintegrowane podejście do konwersji SXC do formatu TABDELIMITED, umożliwiając bezproblemowe zapisywanie danych SXC w formacie TABDELIMITED przy użyciu biblioteki Aspose.Cells, a wszystko to dzięki wydajnemu i konfigurowalnemu kodowi Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart SXC files to TABDELIMITED Converter for Python., Convert SXC to TABDELIMITED in Python., SXC files to TABDELIMITED Conversion in Python., Leverage intelligent data processing to automatically parse and save SXC into TABDELIMITED format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Konwertuj SXC na TABDELIMITED w Python w bibliotece Excel" h2="Szybka biblioteka Excel Python do konwersji SXC na TABDELIMITED. Jest to profesjonalne oprogramowanie do importowania i eksportowania numerów SXC, TABDELIMITED i wielu innych formatów przy użyciu numeru Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="TABDELIMITED" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -27,7 +27,7 @@ Wykonaj proste kroki, aby przekonwertować SXC na TABDELIMITED. Prześlij plik S
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Przykładowy kod do konwersji SXC na TABDELIMITED za pośrednictwem biblioteki Excel Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="sxc" outformat="tsv" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="Przykładowy kod do konwersji SXC na TABDELIMITED za pośrednictwem biblioteki Excel Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="sxc" outformat="tsv" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="Jak przekonwertować SXC na TABDELIMITED przez Python" %}}
 

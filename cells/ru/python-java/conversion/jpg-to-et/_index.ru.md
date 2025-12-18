@@ -1,7 +1,7 @@
 ---
 title: Python JPG в ET - Конвертер JPG в ET
-description: Aspose Эксель. Python Эксель. Конвертируйте JPG в ET быстро и легко с помощью Aspose.Cells. Python JPG в ET. Python Сохраните JPG в ET. Сохраните JPG как ET, используя библиотеку Excel Python.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert JPG to ET in Python Excel Library., Save JPG to ET using Python Excel Library., Python JPG to ET saveformat., JPG to ET Converter., Python Save JPG as ET]
+description: Aspose Excel. Это комплексное решение предоставляет разработчикам Python полностью интегрированный подход к преобразованию JPG в формат ET, обеспечивая беспрепятственное сохранение данных JPG в формат ET с использованием библиотеки Aspose.Cells, и все это благодаря эффективному и настраиваемому коду Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart JPG files to ET Converter for Python., Convert JPG to ET in Python., JPG files to ET Conversion in Python., Leverage intelligent data processing to automatically parse and save JPG into ET format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Конвертируйте JPG в ET в библиотеке Excel Python" h2="Высокоскоростная библиотека Excel Python для преобразования JPG в ET. Это профессиональное программное решение для импорта и экспорта JPG, ET и многих других форматов с использованием Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="ET" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -27,7 +27,7 @@ keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert J
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Пример кода для преобразования JPG в ET с помощью библиотеки Excel Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="jpg" outformat="et" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="Пример кода для преобразования JPG в ET с помощью библиотеки Excel Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="jpg" outformat="et" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="Как конвертировать JPG в ET по номеру Python" %}}
 

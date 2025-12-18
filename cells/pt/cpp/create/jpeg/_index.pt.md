@@ -1,7 +1,7 @@
 ---
 title: Criar JPEG - Criar arquivo JPEG em C++
-description: Aspose Excel. C++ Crie o arquivo JPEG de forma rápida e fácil com Aspose.Cells. Gere o arquivo JPEG usando C++. Crie JPEG em C++. C++ JPEG Criador.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ Create JPEG file., Generate JPEG file in C++., Create JPEG file using C++., Write data to JPEG file via C++., Create a JPEG file in C++., C++ Generate a JPEG file., C++ JPEG Creater]
+description: Aspose Excel. Gere e manipule arquivos JPEG sem esforço com a biblioteca Aspose.Cells for C++. Esta poderosa biblioteca API oferece uma solução simplificada e eficiente para criar, editar e gerenciar arquivos JPEG diretamente em seus aplicativos C++, atendendo às necessidades específicas dos desenvolvedores com alta precisão.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ Create JPEG file., Generate JPEG file in C++., Write data to JPEG file via C++., C++ JPEG Creater., Aspose.Cells for C++ is a powerful library that enables developers to programmatically create, generate, and manipulate JPEG files in C++]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Crie o arquivo JPEG em C++" h2="Criação de arquivo JPEG nativo e de alto desempenho programaticamente sem o Micorsoft Office usando a biblioteca C++." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" sourceAdditionalConversionTag="" additionalConversionTag="JPEG" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -11,7 +11,7 @@ keywords: [Aspose Excel., C++ Aspose.Cells., C++ Create JPEG file., Generate JPE
 
 {{% blocks/products/pf/agp/content h2="Crie o arquivo JPEG usando C++" %}}
 
- Como criar o arquivo JPEG? Com a biblioteca Aspose.Cells for C++, você pode facilmente criar o arquivo JPEG programaticamente com algumas linhas de código.[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) é capaz de construir aplicativos multiplataforma com a capacidade de gerar, modificar, converter, renderizar e imprimir todos os arquivos Excel. C++ Excel API não apenas converte formatos de planilha, mas também pode renderizar arquivos Excel como imagens, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT e muito mais, tornando-o a escolha perfeita para troca de documentos em formatos padrão da indústria. Você pode baixar sua versão mais recente diretamente, basta abrir[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) gerenciador de pacotes, procure Aspose.Cells.Cpp e instale. Você também pode usar o seguinte comando do Console do Gerenciador de Pacotes.
+ Como criar o arquivo JPEG? Com a biblioteca Aspose.Cells for C++, você pode facilmente criar o arquivo JPEG programaticamente com algumas linhas de código.[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) é capaz de construir aplicativos multiplataforma com a capacidade de gerar, modificar, converter, renderizar e imprimir todos os arquivos Excel. C++ Excel API não apenas converte formatos de planilha, mas também pode renderizar arquivos Excel como imagens, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT e muito mais, tornando-o a escolha perfeita para troca de documentos em formatos padrão da indústria. Você pode baixar sua versão mais recente diretamente, basta abrir[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/)gerenciador de pacotes, procure Aspose.Cells.Cpp e instale. Você também pode usar o seguinte comando do Console do Gerenciador de Pacotes.
 
 {{% blocks/products/pf/agp/code-block title="Comando" offSpacer="true" %}}
 
@@ -37,14 +37,15 @@ PM> Install-Package Aspose.Cells.Cpp
 1.  Crie um objeto da classe Workbook.
 1.  Coloque a primeira planilha em um objeto Worksheet.
 1.  Use o método Worksheet.GetCells() para colocar as células da planilha em um objeto Cells.
-1. Use o método Cells.Get() para acessar a célula desejada da planilha em um objeto Cell.
+1.  Use o método Cells.Get() para acessar a célula desejada da planilha em um objeto Cell.
 1.  Use o método Cell.PutValue() para inserir o valor na célula.
-1.  Salve a pasta de trabalho como arquivo .jpg usando o método Save().
+1.  Salve a planilha como um arquivo .jpg usando o método Save().
 
 {{% blocks/products/pf/agp/code-block title="O código de exemplo mostra como criar o arquivo JPEG em C++." offSpacer="" %}}
 
 ```cs
 Aspose::Cells::Startup();
+//TIFF format is not supported
 
 // Create an object of the Workbook class.
 Workbook wkb;

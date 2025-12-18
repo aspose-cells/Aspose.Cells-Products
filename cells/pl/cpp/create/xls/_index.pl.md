@@ -1,7 +1,7 @@
 ---
 title: Utwórz XLS - Utwórz plik XLS w C++
-description: Aspose Excel. C++ Utwórz plik XLS szybko i łatwo za pomocą Aspose.Cells. Wygeneruj plik XLS za pomocą C++. Utwórz XLS w C++. C++ XLS Kreator.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ Create XLS file., Generate XLS file in C++., Create XLS file using C++., Write data to XLS file via C++., Create a XLS file in C++., C++ Generate a XLS file., C++ XLS Creater]
+description: Aspose Excel. Bezproblemowo generuj i manipuluj plikami XLS dzięki bibliotece Aspose.Cells for C++. Ta wydajna biblioteka API zapewnia usprawnione i wydajne rozwiązanie do tworzenia, edytowania i zarządzania plikami XLS bezpośrednio w aplikacjach C++, spełniając specyficzne potrzeby programistów z wysoką precyzją.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ Create XLS file., Generate XLS file in C++., Write data to XLS file via C++., C++ XLS Creater., Aspose.Cells for C++ is a powerful library that enables developers to programmatically create, generate, and manipulate XLS files in C++]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Utwórz plik XLS w C++" h2="Natywne i wydajne tworzenie plików XLS programowo bez pakietu Micorsoft Office przy użyciu biblioteki C++." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLS" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -11,7 +11,7 @@ keywords: [Aspose Excel., C++ Aspose.Cells., C++ Create XLS file., Generate XLS 
 
 {{% blocks/products/pf/agp/content h2="Utwórz plik XLS przy użyciu C++" %}}
 
- Jak utworzyć plik XLS? Dzięki bibliotece Aspose.Cells for C++ możesz łatwo programowo utworzyć plik XLS za pomocą kilku linii kodu.[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) potrafi budować aplikacje wieloplatformowe z możliwością generowania, modyfikowania, konwertowania, renderowania i drukowania wszystkich plików Excel. C++ Excel API nie tylko konwertuje pomiędzy formatami arkuszy kalkulacyjnych, ale może także renderować pliki Excel jako obrazy, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT i więcej, co czyni go idealnym wyborem do wymiany dokumentów w formatach będących standardami branżowymi. Możesz pobrać jego najnowszą wersję bezpośrednio, po prostu otwórz[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) menedżer pakietów, wyszukaj Aspose.Cells.Cpp i zainstaluj. Możesz także użyć następującego polecenia z konsoli Menedżera pakietów.
+ Jak utworzyć plik XLS? Dzięki bibliotece Aspose.Cells for C++ możesz łatwo programowo utworzyć plik XLS za pomocą kilku linii kodu.[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) potrafi budować aplikacje wieloplatformowe z możliwością generowania, modyfikowania, konwertowania, renderowania i drukowania wszystkich plików Excel. C++ Excel API nie tylko konwertuje pomiędzy formatami arkuszy kalkulacyjnych, ale może także renderować pliki Excel jako obrazy, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT i więcej, co czyni go idealnym wyborem do wymiany dokumentów w formatach będących standardami branżowymi. Możesz pobrać jego najnowszą wersję bezpośrednio, po prostu otwórz[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/)menedżer pakietów, wyszukaj Aspose.Cells.Cpp i zainstaluj. Możesz także użyć następującego polecenia z konsoli Menedżera pakietów.
 
 {{% blocks/products/pf/agp/code-block title="Komenda" offSpacer="true" %}}
 
@@ -37,14 +37,15 @@ PM> Install-Package Aspose.Cells.Cpp
 1.  Utwórz obiekt klasy Workbook.
 1.  Pobierz pierwszy arkusz do obiektu Worksheet.
 1.  Użyj metody Worksheet.GetCells(), aby przenieść komórki arkusza do obiektu Cells.
-1. Użyj metody Cells.Get(), aby uzyskać dostęp do żądanej komórki arkusza w obiekcie Cell.
+1.  Użyj metody Cells.Get(), aby uzyskać dostęp do żądanej komórki arkusza w obiekcie Cell.
 1.  Aby wprowadzić wartość do komórki, użyj metody Cell.PutValue().
-1.  Zapisz skoroszyt jako plik .xls przy użyciu metody Save().
+1.  Zapisz skoroszyt jako plik .xls używając metody Save().
 
 {{% blocks/products/pf/agp/code-block title="Przykładowy kod pokazuje, jak utworzyć plik XLS w C++." offSpacer="" %}}
 
 ```cs
 Aspose::Cells::Startup();
+//TIFF format is not supported
 
 // Create an object of the Workbook class.
 Workbook wkb;

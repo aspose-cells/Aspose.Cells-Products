@@ -1,7 +1,7 @@
 ---
 title: Преобразователь Python XLSM в JSON - XLSM в JSON
-description: Aspose Эксель. Python Эксель. Преобразуйте XLSM в JSON быстро и легко с помощью Aspose.Cells. Python XLSM в JSON. Python Сохранить XLSM в JSON. Сохранить XLSM как 076112 3481 с использованием библиотеки Excel Python.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert XLSM to JSON in Python Excel Library., Save XLSM to JSON using Python Excel Library., Python XLSM to JSON saveformat., XLSM to JSON Converter., Python Save XLSM as JSON]
+description: Aspose Excel. Это комплексное решение предоставляет разработчикам Python полностью интегрированный подход к преобразованию формата XLSM в формат JSON, обеспечивая беспрепятственное сохранение данных XLSM в формат JSON с использованием библиотеки Aspose.Cells, и все это с помощью эффективного и настраиваемого кода Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart XLSM files to JSON Converter for Python., Convert XLSM to JSON in Python., XLSM files to JSON Conversion in Python., Leverage intelligent data processing to automatically parse and save XLSM into JSON format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Преобразуйте XLSM в JSON в Python библиотеке Excel" h2="Высокоскоростная библиотека Excel Python для преобразования XLSM в JSON. Это профессиональное программное решение для импорта и экспорта XLSM, JSON и многих других форматов с использованием Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="JSON" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -27,7 +27,7 @@ keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert X
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Пример кода для преобразования XLSM в JSON с помощью библиотеки Excel Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsm" outformat="json" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="Пример кода для преобразования XLSM в JSON с помощью библиотеки Excel Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="xlsm" outformat="json" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="Как преобразовать XLSM в JSON через Python" %}}
 

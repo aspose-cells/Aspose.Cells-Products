@@ -1,0 +1,577 @@
+---
+title: Gå via C++-biblioteket i Excel - Aspose
+weight: 7140
+description: Aspose.Cells för Go via C++-biblioteket för att skapa, reparera, sammanfoga, analysera och konvertera Excel-filer. Konvertera Excel till PDF, JSON, XML, TSV och så vidare.
+keywords: [Go via C++ library execl Aspose.Cells Create repair parse merge convert JSON Excel XML PDF HTML TSV SQL ODS CSV TXT PNG JPEG and more formats]
+---
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/i18n/upper-banner h1="Gå via C++-biblioteket i Excel - Aspose.Cells" h2="Skapa, läs, skriv och analysera kalkylblad utan några Microsoft Excel-beroenden i fullfunktionella Go via C++-applikationer." logoImageSrc="/cells/images/aspose_cells-for-go-cpp.svg" pfName="Aspose.Cells" subTitlepfName="for Go via C++" downloadUrl="https://downloads.aspose.com/cells/go-cpp" >}}
+
+{{< blocks/products/pf/main-container pfName="Aspose.Cells" subTitlepfName="for Go via C++" >}}
+
+{{< blocks/products/pf/i18n/sub-menu logoImageSrc="/cells/images/aspose_cells-for-go-cpp.svg" liveDemosLink="https://products.aspose.app/cells/family" PricingLink="https://purchase.aspose.com/pricing/cells/go-cpp" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/cells/go-cpp/" installationsDocsLink="https://docs.aspose.com/cells/go-cpp/installation" nugetPackageName="Aspose.Cells.Go.Cpp" mavenRepoLink="" directDownloadLink="https://downloads.aspose.com/cells/go-cpp" >}}
+
+{{< blocks/products/pf/i18n/tab-content >}}
+<p>
+Biblioteket Aspose.Cells Go via C++ är ett kraftfullt verktyg för kalkylbladshantering som kan utnyttjas från Go via C++-applikationer via Cgo. Med det här biblioteket kan du utföra en mängd olika kalkylbladsåtgärder, som att skapa, konvertera och redigera både inbyggda och anpassade egenskaper, tillämpa teman, stilar och formatering, hantera datavalidering, implementera villkorsstyrd formatering och utföra olika funktioner, inklusive att läsa, skriva och beräkna formler. Avancerade funktioner som gruppering av rader och kolumner stöds också, allt utan behov av Office Automation eller beroende av Microsoft Excel. API är kompatibel med de vanligaste kalkylbladsformaten, inklusive XLS, XLSX, XLSM och XLSB, och den stöder även olika andra filtyper som PDF och XPS, tillsammans med populära bildformat som JPEG, PNG, BMP, TIFF, GIF, EMF och SVG.
+</p>
+
+{{< /blocks/products/pf/i18n/tab-content >}}
+
+<!--Diagrams Start-->
+{{< blocks/products/pf/i18n/carousel >}}
+
+{{< blocks/products/pf/carousel-item h3="En överblick" description="En översikt över API." >}}
+<div class="diagram1 d1-cplus">
+ <div class="d1-row">
+  <div class="d1-col d1-left">
+   <header>
+    <i class="fa fa-retweet">
+    </i>
+ Formatkonvertering
+   </header>
+   <br/>
+   <header>
+    <i class="fa fa-bar-chart">
+    </i>
+ Databehandling
+   </header>
+   <ul>
+    <li>
+ Pivottabell
+    </li>
+    <li>
+ Tabeller
+    </li>
+    <li>
+ Diagram
+    </li>
+    <li>
+ Formler beräkning
+    </li>
+    <li>
+ Datavalidering
+    </li>
+    <li>
+ Villkorlig formatering
+    </li>
+   </ul>
+  </div>
+  <!--/left-->
+  <div class="d1-col d1-right">
+   <header>
+    <i class="fa fa-cogs">
+    </i>
+ Manipulation
+   </header>
+   <ul>
+    <li>
+Ladda/spara kalkylblad
+    </li>
+    <li>
+ Manipulation av data
+    </li>
+    <li>
+ Inbyggda egenskaper
+    </li>
+    <li>
+ Anpassade egenskaper
+    </li>
+    <li>
+ teman
+    </li>
+    <li>
+ Stilar &amp; Formatering
+    </li>
+    <li>
+ Hyperlänkar
+    </li>
+    <li>
+ Autofilter
+    </li>
+    <li>
+ Utskriftsformat
+    </li>
+    <li>
+ Läsa, skriva formler
+    </li>
+    <li>
+ Gruppering av rader &amp; Kolumner
+    </li>
+   </ul>
+  </div>
+  <!--/right-->
+ </div>
+ <!--/row-->
+ <div class="d1-logo">
+  <img width="70" height="75" alt="C++ Excel Library" src="/cells/images/aspose_cells-for-go-cpp.svg"/>
+  <header>
+   Aspose.Cells
+  </header>
+  <footer>
+   <small>
+    <em>
+ för
+    </em>
+ Gå via C++
+   </small>
+  </footer>
+ </div>
+ <!--/logo-->
+</div>
+
+{{< /blocks/products/pf/carousel-item >}}
+
+{{< blocks/products/pf/carousel-item h3="Plattformsoberoende" description="API har fullt stöd för Go via C++-applikationer på följande plattformar med[Systemkrav](https://docs.aspose.com/cells/go-cpp/system-requirements/)." >}}
+<div class="diagram1 d1-cplus">
+ <div class="d1-row">
+  <div class="d1-col d1-left">
+   <header>
+    <i class="fa fa-cubes">
+    </i>
+ Windows 32 bitar
+   </header>
+   <br/>
+   <header>
+    <i class="fa fa-cubes">
+    </i>
+ Windows 64 bitar
+   </header>
+  </div>
+  <!--/left-->
+  <div class="d1-col d1-right">
+   <header>
+    <i class="fa fa-cubes">
+    </i>
+ Linux 64 bitar
+   </header>
+  </div>
+  <!--/right-->
+ </div>
+ <!--/row-->
+ <div class="d1-logo">
+  <img width="70" height="75" alt="Spreadsheet Manipulation APIs for C++" src="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg"/>
+  <header>
+   Aspose.Cells
+  </header>
+  <footer>
+   <small>
+    <em>
+ för
+    </em>
+ Gå via C++
+   </small>
+  </footer>
+ </div>
+ <!--/logo-->
+</div>
+
+{{< /blocks/products/pf/carousel-item >}}
+
+{{< blocks/products/pf/carousel-item h3="Filformat som stöds" description=" Biblioteket Aspose.Cells Go via C++ stöder de vanligaste kalkylbladen[filformat](https://docs.aspose.com/cells/go-cpp/supported-file-formats/)." >}}
+<div class="diagram1 d2 d1-cplus">
+ <div class="d1-row">
+  <div class="d1-col d1-left">
+   <header>
+    <i class="fa fa-arrows-v">
+    </i>
+ Ingång/utgång
+   </header>
+   <ul>
+    <li>
+     <b>
+ Microsoft Excel:
+     </b>
+ XLS, XLSX, XLSB, XLT, XLTX, XLTM, XLSM, XML, OTS
+    </li>
+    <li>
+     <b>
+ Öppet kontor:
+     </b>
+     ODS
+    </li>
+    <li>
+     <b>
+ Text:
+     </b>
+     CSV, TSV, JSON
+    </li>
+    <li>
+     <b>
+ Webb:
+     </b>
+     HTML, MHTML
+    </li>
+    <li>
+     <b>
+      Numbers:
+     </b>
+ Apples iWork office suite Numbers appdokument
+    </li>
+    <li>
+     <b>
+ Övriga:
+     </b>
+ SXC, FODS, EPUB
+    </li>
+   </ul>
+  </div>
+  <!--/left-->
+  <div class="d1-col d1-right">
+   <header>
+    <i class="fa fa-mail-forward">
+    </i>
+Endast utgång
+   </header>
+   <ul>
+    <li>
+     <b>
+ Fast layout:
+     </b>
+ PDF, PDF/A, XPS
+    </li>
+    <li>
+     <b>
+ Datautbyte:
+     </b>
+     DIF
+    </li>
+    <li>
+     <b>
+ Bilder:
+     </b>
+     JPEG, PNG, BMP, SVG, TIFF, EMF, GIF
+    </li>
+    <li>
+     <b>
+ Övriga:
+     </b>
+ MARKDOWN, SQL, XTHML
+    </li>
+   </ul>
+  </div>
+  <!--/right-->
+ </div>
+ <!--/row-->
+ <div class="d1-logo">
+  <img width="70" height="75" alt="Go via C++ Spreadsheet Programming API" src="/cells/images/aspose_cells-for-go-cpp.svg"/>
+  <header>
+   Aspose.Cells
+  </header>
+  <footer>
+   <small>
+    <em>
+ för
+    </em>
+ Gå via C++
+   </small>
+  </footer>
+ </div>
+ <!--/logo-->
+</div>
+
+{{< /blocks/products/pf/carousel-item >}}
+
+{{< /blocks/products/pf/i18n/carousel >}}
+<!--Diagrams End-->
+
+<!--Feature-section Start-->
+<div class="container-fluid features-section bg-gray">
+ <a class="anchor" id="features" name="features">
+ </a>
+ <div class="row">
+  <div class="container">
+   <h2 class="pr-ft">
+ Avancerade funktioner i Go via C++-biblioteket för Excel - Aspose.Cells
+   </h2>
+   <!-- <p>Unlike similar products from other vendors, Aspose.Cells for C++ not only supports spreadsheet generation and other basic file formatting features, it also supports a number of advanced features. These advanced features make it much easier for developers to manipulate spreadsheet contents and format cells.</p>
+
+<p>Aspose.Cells for C++ includes the following features:</p>-->
+   <p>
+   </p>
+   <div class="col-lg-4">
+    <em class="fa fa-save ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
+ Ladda &amp; spara Excel-filer med strömmar
+    </p>
+   </div>
+   <div class="col-lg-4">
+    <em class="fa fa-bar-chart ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
+ Skapa &amp; manipulera diagram
+    </p>
+   </div>
+   <div class="col-lg-4">
+    <em class="fa fa-check-square-o ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
+ Ställ in datavalidering för att begränsa inmatning
+    </p>
+   </div>
+   <div class="col-lg-4">
+    <em class="fa fa-table ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
+ Organisera data genom att gruppera rader &amp; kolumner
+    </p>
+   </div>
+   <div class="col-lg-4">
+    <em class="fa fa-object-ungroup ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
+ Manipulera inbyggda &amp; anpassade egenskaper
+    </p>
+   </div>
+   <div class="col-lg-4">
+    <em class="fa fa-link ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
+ Lägg till &amp; manipulera hyperlänkar
+    </p>
+   </div>
+   <div class="col-lg-4">
+    <em class="fa fa-list-alt ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
+ Skapa &amp; manipulera pivottabeller
+    </p>
+   </div>
+   <div class="col-lg-4">
+    <em class="fa fa-magic ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
+ Ändra utseendet på din arbetsbok med hjälp av teman
+    </p>
+   </div>
+   <div class="col-lg-4">
+    <em class="fa fa-tasks ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
+ Skapa tabeller &amp; lista objekt
+    </p>
+   </div>
+   <div class="col-lg-4">
+    <em class="fa fa-cog ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
+ Manipulera ritobjekt
+    </p>
+   </div>
+   <div class="col-lg-4">
+    <em class="fa fa-file-excel-o ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
+ Använd stilar och formatering på celler, rader, kolumner eller intervall
+    </p>
+   </div>
+   <div class="col-lg-4">
+    <em class="fa fa-list-ol ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
+ Spåra prejudikat &amp; Anhöriga
+    </p>
+   </div>
+   <div class="col-lg-4">
+    <em class="fa fa-superscript ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
+ Läs, skriv &amp; beräkna komplexa formler
+    </p>
+   </div>
+   <div class="col-lg-4">
+    <em class="fa fa-bars ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
+ Lägg till eller extrahera OLE-objekt
+    </p>
+   </div>
+   <div class="col-lg-4">
+    <em class="fa fa-tags ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
+Skapa regler för villkorlig formatering
+    </p>
+   </div>
+   <div class="col-lg-4">
+    <em class="fa fa-code ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
+ Skapa och implementera användardefinierade funktioner
+    </p>
+   </div>
+   <div class="col-lg-4">
+    <em class="fa fa-line-chart ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
+ Konvertera diagram till PDF-format
+    </p>
+   </div>
+   <div class="col-lg-4">
+    <em class="fa fa-pie-chart ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
+ Konvertera diagram till bildformat
+    </p>
+   </div>
+   <div class="col-lg-12">
+    <h2 class="h2title">
+ Systemkrav
+    </h2>
+ Biblioteket Aspose.Cells Go via C++ för Excel stöder följande 64-bitars operativsystem och plattformar:
+		<table>
+			<tr>
+					<td style="font-weight: bold; width:400px">Operativ system</td>
+					<td style="font-weight: bold; width:400px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;versioner</td>
+				</tr>
+		  <tr>
+					<td>Microsoft Windows</td>
+					<td><ul><li>Windows x86_64</li></ul></td>
+		  </tr>
+		  <tr>
+					<td>Linux</td>
+					<td><ul><li>Linux x86_64</li></ul></td>
+				</tr>
+		</table>
+   </div>
+   <div class="col-lg-12">
+    <h2 class="h2title">
+ Noll beroende av Microsoft Excel
+    </h2>
+    <p>
+ Biblioteket Aspose.Cells för Go via C++ är helt oberoende och är inte anslutet till, auktoriserat, sponsrat eller på annat sätt godkänt av något externt företag. Biblioteket Aspose.Cells för Go via C++ fungerar sömlöst utan att några tredjepartsprogram eller ramverk behöver installeras på maskinen för att fungera med dess funktioner och funktionaliteter.
+    </p>
+   </div>
+   <div class="col-lg-12">
+    <h2 class="h2title">
+ Enkel &amp; Tillförlitlig konvertering av Excel-format
+    </h2>
+    <p>
+Biblioteket Aspose.Cells för Go via C++ är en robust uppsättning API:er som gör det möjligt för utvecklare att ladda, redigera, skriva och konvertera Excel-filformat mellan olika format utan att behöva bekymra sig om formatspecifika detaljer. API förenklar processen att konvertera kalkylblad mellan alla format som stöds, och kräver bara två rader kod för att uppnå detta. Så enkelt är det!
+    </p>
+    <div class="codeblock" id="code">
+     <h3>
+ Konvertera Excel-filer i flera format - Gå via C++
+     </h3>
+     <pre><code class="go">
+// load the document for conversion
+workbook, _ := NewWorkbook()
+
+// save in different formats
+workbook.Save_String("../Data/Output/HELLO_Convert.xlsx")
+
+workbook.Save_String("../Data/Output/HELLO_Convert.xlsb")
+
+workbook.Save_String("../Data/Output/HELLO_Convert.csv")</code></pre>
+    </div>
+   </div>
+   <div class="col-lg-12">
+    <h2 class="h2title">
+ Omfattande formatering av kalkylblad
+    </h2>
+    <p>
+ Biblioteket Aspose.Cells för Go via C++ ger fullständig kontroll över hur du presenterar dina data i kalkylbladet och tillhandahåller avancerade formateringsfunktioner. Du kan tillämpa formatering på enskilda rader, kolumner eller celler, eller skapa ett cellområde för att formatera gemensamt. Dessutom kan du lägga till RTF i celler, tillämpa kantlinjer, ange bakgrundsmönster och anpassa olika teckensnittsrelaterade formateringsalternativ.
+    </p>
+   </div>
+   <div class="col-lg-12">
+    <h2 class="h2title">
+ Visualisera data med diagram
+    </h2>
+    <p>
+Biblioteket Aspose.Cells för Go via C++ tillhandahåller en omfattande uppsättning API:er för att dynamiskt skapa alla standard- och anpassade diagramtyper som stöds av Excel-applikationen. Dessutom låter API dig uppdatera datakällan för befintliga diagram och enkelt uppdatera dem.
+    </p>
+   </div>
+   <div class="col-lg-12">
+    <h2 class="h2title">
+ Gör arbetsblad som bilder
+    </h2>
+    <p>
+ Biblioteket Aspose.Cells för Go via C++ renderar med största möjliga naturtrogenhet till Microsoft Excel, med hjälp av sin egen renderingsmotor. Det inkluderar unika funktioner som att rendera kalkylblad till bilder i populära format som BMP, TIFF, PNG, JPEG och EMF. Sheet2Image-processen är flexibel och låter dig välja alternativ som att kontrollera upplösningen för den resulterande bilden.
+    </p>
+   </div>
+   <div class="col-lg-12">
+    <h2 class="h2title">
+ Manipulera kolumner och rader
+    </h2>
+    <p>
+Biblioteket Aspose.Cells för Go via C++ erbjuder mångsidiga alternativ för att manipulera rader och kolumner. Det är enkelt att justera radhöjder och kolumnbredder eller att automatiskt ändra storlek på celldimensioner baserat på deras innehåll. API låter dig också ta bort och infoga rader och kolumner, dölja eller visa dem, och gruppera eller dela upp rader och kolumner efter behov.
+    </p>
+   </div>
+   <div class="col-lg-12">
+    <h2 class="h2title">
+ Konvertera kalkylblad exakt till PDF
+    </h2>
+    <p>
+ Biblioteket Aspose.Cells för Go via C++ möjliggör konvertering av kalkylblad till PDF-format samtidigt som samma kvalitet som originaldokumenten bibehålls. Denna funktion gör Aspose.Cells för Go via C++ till ett idealiskt val för organisationer som behöver utbyta dokument i det branschstandardiserade PDF-formatet.
+    </p>
+   </div>
+   <!--
+
+<div class="col-lg-12">
+
+<h2 class="h2title">Convert Between XLS and XLSX Formats</h2>
+
+<p>Converting between XLS and XLSX formats is as easy and straightforward as using just two lines of code. Despite the complexities often involved in document conversions in C++, Aspose.Cells for Go via C++ enables seamless conversion between XLS and XLSX formats with just two simple lines of code.</p>
+
+</div>
+
+
+
+<div class="col-lg-12">
+
+<h2 class="h2title">Support For Office Open XML</h2>
+
+<p>Office OpenXML (OOXML) is the XML-based format introduced in Microsoft Office 2007, with Microsoft Office Excel 2007 and later storing spreadsheets in the XLSX format. Aspose.Cells for Go via C++ provides extensive support for creating, reading, manipulating, and writing XLSX documents.</p>
+
+</div>
+
+-->
+  </div>
+ </div>
+</div>
+<!--Feature-section End-->
+
+{{< /blocks/products/pf/main-container >}}
+
+
+{{< blocks/products/pf/i18n/support-learning-resources >}}
+{{< blocks/products/pf/slr-tab tabTitle="Lärresurser" tabId="resources" >}}
+{{< blocks/products/pf/slr-element name="Dokumentation" href="https://docs.aspose.com/cells/go-cpp/" >}}
+{{< blocks/products/pf/slr-element name="Källkod" href="https://github.com/aspose-cells/Aspose.Cells-for-C" >}}
+{{< blocks/products/pf/slr-element name="API Referenser" href="https://reference.aspose.com/go-cpp/cells" >}}
+{{< blocks/products/pf/slr-element name="Handledningsvideor" href="https://www.youtube.com/user/asposevideo" >}}
+{{< /blocks/products/pf/slr-tab >}}
+
+{{< blocks/products/pf/slr-tab tabTitle="Produktsupport" tabId="support" >}}
+{{< blocks/products/pf/slr-element name="Gratis support" href="https://forum.aspose.com/c/cells/9" >}}
+{{< blocks/products/pf/slr-element name="Betald support" href="https://helpdesk.aspose.com/" >}}
+{{< blocks/products/pf/slr-element name="Blogg" href="https://blog.aspose.com/category/cells/" >}}
+{{< blocks/products/pf/slr-element name="Versionsinformation" href="https://docs.aspose.com/cells/go-cpp/release-notes/" >}}
+{{< /blocks/products/pf/slr-tab >}}
+
+{{< blocks/products/pf/slr-tab tabTitle="Varför Aspose.Cells för Go via C++?" tabId="success-stories" >}}
+{{< blocks/products/pf/slr-element name="Kundlista" href="https://company.aspose.com/customers" >}}
+{{< blocks/products/pf/slr-element name="Framgångsberättelser" href="https://company.aspose.com/customers/success-stories/aspose-cells" >}}
+{{< /blocks/products/pf/slr-tab >}}
+
+{{< /blocks/products/pf/i18n/support-learning-resources >}}
+
+{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://downloads.aspose.com/cells/go-cpp" pricingInformationLink="https://purchase.aspose.com/pricing/cells/go-cpp" >}}
+
+{{< blocks/products/pf/offers-section pfName="Aspose.Cells" description="Aspose.Cells erbjuder individuella Excel API:er för andra populära utvecklingsmiljöer enligt listan nedan:" >}}
+
+    {{< blocks/products/pf/offers-section-item link="/cells/net/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sdkName=".NET" >}}
+    {{< blocks/products/pf/offers-section-item link="/cells/java/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sdkName="Java" >}}
+    {{< blocks/products/pf/offers-section-item link="/cells/android-java/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-android-java.svg" sdkName="Android via Java" >}}
+    {{< blocks/products/pf/offers-section-item link="/cells/sharepoint/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-sharepoint.svg" sdkName="SharePoint" >}}
+    {{< blocks/products/pf/offers-section-item link="/cells/reporting-services/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-reporting-services.svg" sdkName="Reporting Services" >}}
+    {{< blocks/products/pf/offers-section-item link="/cells/jasperreports/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-jasperreports.svg" sdkName="JasperReports" >}}
+    {{< blocks/products/pf/offers-section-item link="/cells/nodejs-java/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-nodejs-java.svg" sdkName="Node.js via Java" >}}
+    {{< blocks/products/pf/offers-section-item link="/cells/php-java/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-php-java.svg" sdkName="PHP via Java" >}}
+    {{< blocks/products/pf/offers-section-item link="/cells/python-java/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sdkName="Python via Java" >}}
+
+{{< /blocks/products/pf/offers-section >}}
+
+{{< /blocks/products/pf/main-wrap-class >}}
+

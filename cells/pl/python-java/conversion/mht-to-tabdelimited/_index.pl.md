@@ -1,7 +1,7 @@
 ---
 title: Python MHT na TABDELIMITED - Konwerter MHT na TABDELIMITED
-description: Aspose Excel. Python Excel. Szybko i łatwo przekonwertuj MHT na TABDELIMITED za pomocą Aspose.Cells. Python MHT na TABDELIMITED. Python Zapisz MHT do TABDELIMITED. Zapisz MHT jako TABDELIMITED, używając biblioteki Excel Python.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert MHT to TABDELIMITED in Python Excel Library., Save MHT to TABDELIMITED using Python Excel Library., Python MHT to TABDELIMITED saveformat., MHT to TABDELIMITED Converter., Python Save MHT as TABDELIMITED]
+description: Aspose Excel. To kompleksowe rozwiązanie zapewnia programistom w pełni zintegrowane podejście do konwersji MHT do formatu TABDELIMITED, umożliwiając bezproblemowe zapisywanie danych MHT w formacie TABDELIMITED przy użyciu biblioteki Aspose.Cells, a wszystko to dzięki wydajnemu i konfigurowalnemu kodowi Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart MHT files to TABDELIMITED Converter for Python., Convert MHT to TABDELIMITED in Python., MHT files to TABDELIMITED Conversion in Python., Leverage intelligent data processing to automatically parse and save MHT into TABDELIMITED format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Konwertuj MHT na TABDELIMITED w bibliotece Excel Python" h2="Szybka biblioteka Excel Python do konwersji MHT na TABDELIMITED. Jest to profesjonalne oprogramowanie do importowania i eksportowania MHT, TABDELIMITED i wielu innych formatów przy użyciu numeru Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="TABDELIMITED" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -27,7 +27,7 @@ Wykonaj proste kroki, aby przekonwertować MHT na TABDELIMITED. Prześlij plik M
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Przykładowy kod do konwersji MHT na TABDELIMITED za pośrednictwem biblioteki Excel Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="mht" outformat="tsv" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="Przykładowy kod do konwersji MHT na TABDELIMITED za pośrednictwem biblioteki Excel Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="mht" outformat="tsv" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="Jak przekonwertować MHT na TABDELIMITED za pomocą Python" %}}
 

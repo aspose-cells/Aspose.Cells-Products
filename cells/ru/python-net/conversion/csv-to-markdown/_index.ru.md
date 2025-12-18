@@ -1,7 +1,7 @@
 ---
 title: Преобразователь Python CSV в MARKDOWN - CSV в MARKDOWN
-description: Aspose Эксель. Python Эксель. Преобразуйте CSV в MARKDOWN быстро и легко с помощью Aspose.Cells. Python CSV в MARKDOWN. Python Сохранить CSV в MARKDOWN. Сохранить CSV как 076112 3481 с использованием библиотеки Excel Python.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert CSV to MARKDOWN in Python Excel Library., Save CSV to MARKDOWN using Python Excel Library., Python CSV to MARKDOWN saveformat., CSV to MARKDOWN Converter., Python Save CSV as MARKDOWN]
+description: Aspose Excel. Это комплексное решение предоставляет разработчикам Python полностью интегрированный подход к преобразованию формата CSV в формат MARKDOWN, обеспечивая беспрепятственное сохранение данных CSV в формат MARKDOWN с использованием библиотеки Aspose.Cells, и все это с помощью эффективного и настраиваемого кода Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart CSV files to MARKDOWN Converter for Python., Convert CSV to MARKDOWN in Python., CSV files to MARKDOWN Conversion in Python., Leverage intelligent data processing to automatically parse and save CSV into MARKDOWN format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Преобразуйте CSV в MARKDOWN в Python библиотеке Excel" h2="Высокоскоростная библиотека Excel Python для преобразования CSV в MARKDOWN. Используйте наше преобразование Excel API для разработки высокоуровневого, независимого от платформы программного обеспечения в Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="MARKDOWN" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -28,7 +28,7 @@ keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert C
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Пример кода для преобразования CSV в MARKDOWN с помощью библиотеки Excel Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="csv" outformat="md" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Пример кода для преобразования CSV в MARKDOWN с помощью библиотеки Excel Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="csv" outformat="md" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="Как конвертировать CSV в MARKDOWN" %}}
 

@@ -1,7 +1,7 @@
 ---
 title: Python FODS do XML - FODS do konwertera XML
-description: Aspose Excel. Python Excel. Szybko i łatwo przekonwertuj FODS na XML za pomocą Aspose.Cells. Python FODS na XML. Python Zapisz FODS w formacie XML. Zapisz numer FODS w formacie XML, korzystając z biblioteki programu Excel Python.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert FODS to XML in Python Excel Library., Save FODS to XML using Python Excel Library., Python FODS to XML saveformat., FODS to XML Converter., Python Save FODS as XML]
+description: Aspose Excel. To kompleksowe rozwiązanie zapewnia programistom w pełni zintegrowane podejście do konwersji FODS do formatu XML, umożliwiając bezproblemowe zapisywanie FODS danych w formacie XML za pomocą biblioteki Aspose.Cells, a wszystko to dzięki wydajnemu i konfigurowalnemu kodowi Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart FODS files to XML Converter for Python., Convert FODS to XML in Python., FODS files to XML Conversion in Python., Leverage intelligent data processing to automatically parse and save FODS into XML format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Konwertuj FODS na XML w Python Bibliotece Excel" h2="Szybka biblioteka Excel Python do konwersji FODS na XML. Jest to profesjonalne oprogramowanie do importowania i eksportowania FODS, XML i wielu innych formatów przy użyciu Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="XML" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -27,7 +27,7 @@ Wykonaj proste kroki, aby przekonwertować FODS na XML. Prześlij plik FODS, a n
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Przykładowy kod do konwersji FODS na XML za pośrednictwem biblioteki Excel Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="fods" outformat="xml" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="Przykładowy kod do konwersji FODS na XML za pośrednictwem biblioteki Excel Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="fods" outformat="xml" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="Jak przekonwertować FODS na XML za pomocą Python" %}}
 

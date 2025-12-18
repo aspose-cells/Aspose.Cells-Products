@@ -1,7 +1,7 @@
 ---
 title: Python ИЗОБРАЖЕНИЕ в JPG - Конвертер ИЗОБРАЖЕНИЯ в JPG
-description: Aspose Эксель. Python Эксель. Быстро и легко конвертируйте ИЗОБРАЖЕНИЕ в JPG с помощью Aspose.Cells. Python ИЗОБРАЖЕНИЕ в JPG. Python Сохраните ИЗОБРАЖЕНИЕ в формате JPG. Сохраните ИЗОБРАЖЕНИЕ в формате JPG, используя библиотеку Excel Python.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert IMAGE to JPG in Python Excel Library., Save IMAGE to JPG using Python Excel Library., Python IMAGE to JPG saveformat., IMAGE to JPG Converter., Python Save IMAGE as JPG]
+description: Aspose Excel. Это комплексное решение предоставляет разработчикам Python полностью интегрированный подход к преобразованию изображений в формат JPG, обеспечивая беспрепятственное сохранение данных изображений в формате JPG с использованием библиотеки Aspose.Cells, и все это благодаря эффективному и настраиваемому коду Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart IMAGE files to JPG Converter for Python., Convert IMAGE to JPG in Python., IMAGE files to JPG Conversion in Python., Leverage intelligent data processing to automatically parse and save IMAGE into JPG format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Конвертируйте ИЗОБРАЖЕНИЕ в JPG в библиотеке Excel Python." h2="Высокоскоростная библиотека Excel Python для конвертации ИЗОБРАЖЕНИЙ в JPG. Это профессиональное программное решение для импорта и экспорта IMAGE, JPG и многих других форматов с использованием Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="JPG" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -27,7 +27,7 @@ keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert I
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Пример кода для преобразования ИЗОБРАЖЕНИЯ в JPG с помощью библиотеки Excel Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="png" outformat="jpg" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="Пример кода для преобразования ИЗОБРАЖЕНИЯ в JPG с помощью библиотеки Excel Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="png" outformat="jpg" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="Как конвертировать ИЗОБРАЖЕНИЕ в JPG по номеру Python" %}}
 

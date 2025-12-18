@@ -1,7 +1,7 @@
 ---
 title: Преобразователь Python XLTX в XLTX - XLTX в XLTX
-description: Aspose Эксель. Python Эксель. Преобразуйте XLTX в XLTX быстро и легко с помощью Aspose.Cells. Python XLTX в XLTX. Python Сохранить XLTX в XLTX. Сохранить XLTX как 076112 3481 с использованием библиотеки Excel Python.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert XLTX to XLTX in Python Excel Library., Save XLTX to XLTX using Python Excel Library., Python XLTX to XLTX saveformat., XLTX to XLTX Converter., Python Save XLTX as XLTX]
+description: Aspose Excel. Это комплексное решение предоставляет разработчикам Python полностью интегрированный подход к преобразованию формата XLTX в формат XLTX, обеспечивая беспрепятственное сохранение данных XLTX в формат XLTX с использованием библиотеки Aspose.Cells, и все это с помощью эффективного и настраиваемого кода Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart XLTX files to XLTX Converter for Python., Convert XLTX to XLTX in Python., XLTX files to XLTX Conversion in Python., Leverage intelligent data processing to automatically parse and save XLTX into XLTX format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Преобразуйте XLTX в XLTX в Python библиотеке Excel" h2="Высокоскоростная библиотека Excel Python для преобразования XLTX в XLTX. Это профессиональное программное решение для импорта и экспорта XLTX, XLTX и многих других форматов с использованием Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLTX" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -27,7 +27,7 @@ keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert X
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Пример кода для преобразования XLTX в XLTX с помощью библиотеки Excel Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xltx" outformat="xltx" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="Пример кода для преобразования XLTX в XLTX с помощью библиотеки Excel Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="xltx" outformat="xltx" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="Как преобразовать XLTX в XLTX через Python" %}}
 

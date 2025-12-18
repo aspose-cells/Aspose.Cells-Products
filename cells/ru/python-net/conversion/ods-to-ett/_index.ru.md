@@ -1,7 +1,7 @@
 ---
 title: Python ODS в ETT - ODS в ETT Конвертер
-description: Aspose Эксель. Python Эксель. Быстро и легко конвертируйте ODS в ETT с помощью Aspose.Cells. Python ODS в ETT. Python Сохраните ODS в ETT. Сохраните ODS как ETT, используя библиотеку Excel Python.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert ODS to ETT in Python Excel Library., Save ODS to ETT using Python Excel Library., Python ODS to ETT saveformat., ODS to ETT Converter., Python Save ODS as ETT]
+description: Aspose Excel. Это комплексное решение предоставляет разработчикам Python полностью интегрированный подход к преобразованию ODS в формат ETT, обеспечивая беспрепятственное сохранение данных ODS в формат ETT с использованием библиотеки Aspose.Cells, и все это с помощью эффективного и настраиваемого кода Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart ODS files to ETT Converter for Python., Convert ODS to ETT in Python., ODS files to ETT Conversion in Python., Leverage intelligent data processing to automatically parse and save ODS into ETT format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Преобразование ODS в ETT в библиотеке Excel Python" h2="Высокоскоростная библиотека Excel Python для преобразования ODS в ETT. Используйте наше преобразование Excel API для разработки высокоуровневого, независимого от платформы программного обеспечения в Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="ETT" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -28,7 +28,7 @@ keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert O
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Пример кода для преобразования ODS в ETT с помощью библиотеки Excel Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="ods" outformat="ett" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Пример кода для преобразования ODS в ETT с помощью библиотеки Excel Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="ods" outformat="ett" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="Как конвертировать ODS в ETT" %}}
 

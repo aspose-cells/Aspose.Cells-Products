@@ -1,7 +1,7 @@
 ---
 title: Python XML para XLTM - Conversor XML para XLTM
-description: Aspose Excel. Python Excel. Converta XML para XLTM de forma rápida e fácil com Aspose.Cells. Python XML para XLTM. Python Salve XML em XLTM. Salve XML como XLTM usando Python Excel Library.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert XML to XLTM in Python Excel Library., Save XML to XLTM using Python Excel Library., Python XML to XLTM saveformat., XML to XLTM Converter., Python Save XML as XLTM]
+description: Aspose Excel. Esta solução abrangente fornece aos desenvolvedores Python uma abordagem totalmente integrada para converter XML para o formato XLTM, permitindo o salvamento perfeito de dados XML no formato XLTM usando a biblioteca Aspose.Cells, tudo por meio de código Python eficiente e personalizável.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart XML files to XLTM Converter for Python., Convert XML to XLTM in Python., XML files to XLTM Conversion in Python., Leverage intelligent data processing to automatically parse and save XML into XLTM format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Converta XML para XLTM na Biblioteca Excel Python" h2="Biblioteca Excel Python de alta velocidade para conversão de XML em XLTM. Esta é uma solução de software profissional para importar e exportar XML, XLTM e muitos outros formatos usando Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLTM" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -27,7 +27,7 @@ Siga as etapas fáceis para converter XML em XLTM. Carregue seu arquivo XML e si
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Exemplo de código para converter XML em XLTM por meio da biblioteca Excel Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xml" outformat="xltm" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="Exemplo de código para converter XML em XLTM por meio da biblioteca Excel Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="xml" outformat="xltm" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="Como converter XML para XLTM via Python" %}}
 

@@ -1,7 +1,7 @@
 ---
 title: Python EXCEL na TABDELIMITED - Konwerter EXCEL na TABDELIMITED
-description: Aspose Excel. Python Excel. Szybko i łatwo przekonwertuj EXCEL na TABDELIMITED za pomocą Aspose.Cells. Python EXCEL na TABDELIMITED. Python Zapisz EXCEL w TABDELIMITED. Zapisz EXCEL jako TABDELIMITED, używając Python biblioteki Excel.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert EXCEL to TABDELIMITED in Python Excel Library., Save EXCEL to TABDELIMITED using Python Excel Library., Python EXCEL to TABDELIMITED saveformat., EXCEL to TABDELIMITED Converter., Python Save EXCEL as TABDELIMITED]
+description: Aspose Excel. To kompleksowe rozwiązanie zapewnia programistom w pełni zintegrowane podejście do konwersji plików EXCEL do formatu TABDELIMITED, umożliwiając bezproblemowe zapisywanie danych z plików EXCEL w formacie TABDELIMITED za pomocą biblioteki Aspose.Cells, a wszystko to dzięki wydajnemu i konfigurowalnemu kodowi Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart EXCEL files to TABDELIMITED Converter for Python., Convert EXCEL to TABDELIMITED in Python., EXCEL files to TABDELIMITED Conversion in Python., Leverage intelligent data processing to automatically parse and save EXCEL into TABDELIMITED format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Konwertuj EXCEL na TABDELIMITED w Python Bibliotece Excel" h2="Szybka biblioteka Excel Python do konwersji EXCEL na TABDELIMITED. Jest to profesjonalne oprogramowanie do importowania i eksportowania plików EXCEL, TABDELIMITED i wielu innych formatów przy użyciu numeru Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="TABDELIMITED" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -27,7 +27,7 @@ Wykonaj proste kroki, aby przekonwertować plik EXCEL na TABDELIMITED. Prześlij
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Przykładowy kod do konwersji EXCEL na TABDELIMITED za pośrednictwem biblioteki Excel Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsx" outformat="tsv" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="Przykładowy kod do konwersji EXCEL na TABDELIMITED za pośrednictwem biblioteki Excel Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="xlsx" outformat="tsv" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="Jak przekonwertować EXCEL na TABDELIMITED za pomocą Python" %}}
 

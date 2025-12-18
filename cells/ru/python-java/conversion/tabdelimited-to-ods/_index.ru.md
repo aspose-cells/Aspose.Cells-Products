@@ -1,7 +1,7 @@
 ---
 title: Python TABDELIMITED в ODS - TABDELIMITED в ODS Конвертер
-description: Aspose Эксель. Python Эксель. Преобразуйте TABDELIMITED в ODS быстро и легко с помощью Aspose.Cells. Python TABDELIMITED в ODS. Python Сохраните TABDELIMITED в ODS. Сохраните TABDELIMITED как ODS с помощью библиотеки Excel Python.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert TABDELIMITED to ODS in Python Excel Library., Save TABDELIMITED to ODS using Python Excel Library., Python TABDELIMITED to ODS saveformat., TABDELIMITED to ODS Converter., Python Save TABDELIMITED as ODS]
+description: Aspose Excel. Это комплексное решение предоставляет разработчикам Python полностью интегрированный подход к преобразованию TABDELIMITED в формат ODS, обеспечивая беспрепятственное сохранение данных TABDELIMITED в формат ODS с использованием библиотеки Aspose.Cells, и все это с помощью эффективного и настраиваемого кода Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart TABDELIMITED files to ODS Converter for Python., Convert TABDELIMITED to ODS in Python., TABDELIMITED files to ODS Conversion in Python., Leverage intelligent data processing to automatically parse and save TABDELIMITED into ODS format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Преобразуйте TABDELIMITED в ODS в библиотеке Excel Python." h2="Высокоскоростная библиотека Excel Python для преобразования TABDELIMITED в ODS. Это профессиональное программное решение для импорта и экспорта TABDELIMITED, ODS и многих других форматов с использованием Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="ODS" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -27,7 +27,7 @@ keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert T
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Пример кода для преобразования TABDELIMITED в ODS с помощью библиотеки Excel Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="tsv" outformat="ods" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="Пример кода для преобразования TABDELIMITED в ODS с помощью библиотеки Excel Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="tsv" outformat="ods" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="Как преобразовать TABDELIMITED в ODS через Python" %}}
 

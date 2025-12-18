@@ -1,7 +1,7 @@
 ---
 title: Python NUMERY do XLSB - NUMERY do XLSB Konwerter
-description: Aspose Excel. Python Excel. Konwertuj NUMERY na XLSB szybko i łatwo za pomocą Aspose.Cells. Python NUMERY na XLSB. Python Zapisz NUMERY na XLSB. Zapisz NUMERY jako XLSB, korzystając z biblioteki Excel Python.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert NUMBERS to XLSB in Python Excel Library., Save NUMBERS to XLSB using Python Excel Library., Python NUMBERS to XLSB saveformat., NUMBERS to XLSB Converter., Python Save NUMBERS as XLSB]
+description: Aspose Excel. To kompleksowe rozwiązanie zapewnia programistom w pełni zintegrowane podejście do konwersji LICZB do formatu XLSB, umożliwiając bezproblemowe zapisywanie danych LICZB do formatu XLSB za pomocą biblioteki Aspose.Cells, a wszystko to dzięki wydajnemu i konfigurowalnemu kodowi Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart NUMBERS files to XLSB Converter for Python., Convert NUMBERS to XLSB in Python., NUMBERS files to XLSB Conversion in Python., Leverage intelligent data processing to automatically parse and save NUMBERS into XLSB format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Konwertuj NUMERY na XLSB w bibliotece Excel Python" h2="Szybka biblioteka programu Excel Python do konwersji NUMERÓW na XLSB. Jest to profesjonalne oprogramowanie do importowania i eksportowania NUMERÓW, XLSB i wielu innych formatów przy użyciu Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSB" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -27,7 +27,7 @@ Wykonaj proste kroki, aby przekonwertować NUMBERS na XLSB. Prześlij plik NUMBE
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Przykładowy kod do konwersji NUMERÓW na XLSB za pośrednictwem biblioteki Excel Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="numbers" outformat="xlsb" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="Przykładowy kod do konwersji NUMERÓW na XLSB za pośrednictwem biblioteki Excel Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="numbers" outformat="xlsb" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="Jak przekonwertować NUMERY na XLSB przez Python" %}}
 

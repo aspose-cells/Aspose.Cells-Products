@@ -1,7 +1,7 @@
 ---
 title: Конвертер Python в ET - TXT в ET
-description: Aspose Эксель. Python Эксель. Преобразуйте TXT в ET быстро и легко с помощью Aspose.Cells. Python TXT в ET. Python Сохраните TXT в ET. Сохраните TXT как ET, используя библиотеку Excel Python.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert TXT to ET in Python Excel Library., Save TXT to ET using Python Excel Library., Python TXT to ET saveformat., TXT to ET Converter., Python Save TXT as ET]
+description: Aspose Excel. Это комплексное решение предоставляет разработчикам Python полностью интегрированный подход к преобразованию TXT в формат ET, обеспечивая беспрепятственное сохранение данных TXT в формат ET с использованием библиотеки Aspose.Cells, и все это с помощью эффективного и настраиваемого кода Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart TXT files to ET Converter for Python., Convert TXT to ET in Python., TXT files to ET Conversion in Python., Leverage intelligent data processing to automatically parse and save TXT into ET format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Преобразуйте TXT в ET в библиотеке Excel Python." h2="Высокоскоростная библиотека Excel Python для преобразования TXT в ET. Это профессиональное программное решение для импорта и экспорта TXT, ET и многих других форматов с использованием Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="ET" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -27,7 +27,7 @@ keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert T
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Пример кода для преобразования TXT в ET с помощью библиотеки Excel Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="txt" outformat="et" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="Пример кода для преобразования TXT в ET с помощью библиотеки Excel Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="txt" outformat="et" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="Как конвертировать TXT в ET через Python" %}}
 

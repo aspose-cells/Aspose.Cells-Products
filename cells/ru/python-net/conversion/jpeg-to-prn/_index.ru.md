@@ -1,7 +1,7 @@
 ---
 title: Python JPEG в PRN - JPEG в PRN Конвертер
-description: Aspose Эксель. Python Эксель. Быстро и легко конвертируйте JPEG в PRN с помощью Aspose.Cells. Python JPEG в PRN. Python Сохраните JPEG в PRN. Сохраните JPEG как PRN, используя библиотеку Excel Python.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert JPEG to PRN in Python Excel Library., Save JPEG to PRN using Python Excel Library., Python JPEG to PRN saveformat., JPEG to PRN Converter., Python Save JPEG as PRN]
+description: Aspose Excel. Это комплексное решение предоставляет разработчикам Python полностью интегрированный подход к преобразованию JPEG в формат PRN, обеспечивая беспрепятственное сохранение данных JPEG в формат PRN с использованием библиотеки Aspose.Cells, и все это с помощью эффективного и настраиваемого кода Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart JPEG files to PRN Converter for Python., Convert JPEG to PRN in Python., JPEG files to PRN Conversion in Python., Leverage intelligent data processing to automatically parse and save JPEG into PRN format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Преобразуйте JPEG в PRN в библиотеке Excel Python." h2="Высокоскоростная библиотека Excel Python для преобразования JPEG в PRN. Используйте наше преобразование Excel API для разработки высокоуровневого, независимого от платформы программного обеспечения в Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="PRN" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -28,7 +28,7 @@ keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert J
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Пример кода для преобразования JPEG в PRN с помощью библиотеки Excel Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="jpg" outformat="prn" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Пример кода для преобразования JPEG в PRN с помощью библиотеки Excel Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="jpg" outformat="prn" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="Как конвертировать JPEG в PRN" %}}
 

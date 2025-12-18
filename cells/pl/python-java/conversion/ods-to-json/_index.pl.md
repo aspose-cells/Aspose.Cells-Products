@@ -1,7 +1,7 @@
 ---
 title: Python ODS do JSON - ODS do JSON Konwerter
-description: Aspose Excel. Python Excel. Konwertuj numer ODS na JSON szybko i łatwo za pomocą Aspose.Cells. Python ODS na JSON. Python Zapisz ODS na JSON. Zapisz ODS jako 07611 23481 przy użyciu biblioteki programu Excel Python.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert ODS to JSON in Python Excel Library., Save ODS to JSON using Python Excel Library., Python ODS to JSON saveformat., ODS to JSON Converter., Python Save ODS as JSON]
+description: Aspose Excel. To kompleksowe rozwiązanie zapewnia programistom w pełni zintegrowane podejście do konwersji formatu ODS do JSON, umożliwiając bezproblemowe zapisywanie danych ODS do formatu JSON za pomocą biblioteki Aspose.Cells, a wszystko to dzięki wydajnemu i konfigurowalnemu kodowi Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart ODS files to JSON Converter for Python., Convert ODS to JSON in Python., ODS files to JSON Conversion in Python., Leverage intelligent data processing to automatically parse and save ODS into JSON format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Konwertuj ODS na JSON w Python Biblioteka Excel" h2="Szybka biblioteka Excel Python do konwersji ODS na JSON. Jest to profesjonalne oprogramowanie do importowania i eksportowania ODS, JSON i wielu innych formatów przy użyciu Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="JSON" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -27,7 +27,7 @@ Wykonaj proste kroki, aby przekonwertować numer ODS na numer JSON. Prześlij pl
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Przykładowy kod do konwersji ODS na JSON za pośrednictwem biblioteki Excel Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="ods" outformat="json" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="Przykładowy kod do konwersji ODS na JSON za pośrednictwem biblioteki Excel Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="ods" outformat="json" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="Jak przekonwertować ODS na JSON przez Python" %}}
 

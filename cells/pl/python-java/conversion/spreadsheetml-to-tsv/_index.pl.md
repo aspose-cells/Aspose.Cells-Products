@@ -1,7 +1,7 @@
 ---
 title: Python SPREADSHEETML na TSV - SPREADSHEETML na TSV Konwerter
-description: Aspose Excel. Python Excel. Szybko i łatwo przekonwertuj SPREADSHEETML na TSV za pomocą Aspose.Cells. Python SPREADSHEETML na TSV. Python Zapisz SPREADSHEETML na TSV. Zapisz SPREADSHEETML jako TSV za pomocą 07619348 1 Biblioteka Excela.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert SPREADSHEETML to TSV in Python Excel Library., Save SPREADSHEETML to TSV using Python Excel Library., Python SPREADSHEETML to TSV saveformat., SPREADSHEETML to TSV Converter., Python Save SPREADSHEETML as TSV]
+description: Aspose Excel. To kompleksowe rozwiązanie zapewnia programistom w pełni zintegrowane podejście do konwersji arkuszy kalkulacyjnych (SPREADSHEETML) do formatu TSV, umożliwiając bezproblemowe zapisywanie danych arkuszy kalkulacyjnych do formatu TSV za pomocą biblioteki Aspose.Cells, a wszystko to dzięki wydajnemu i konfigurowalnemu kodowi Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart SPREADSHEETML files to TSV Converter for Python., Convert SPREADSHEETML to TSV in Python., SPREADSHEETML files to TSV Conversion in Python., Leverage intelligent data processing to automatically parse and save SPREADSHEETML into TSV format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Konwertuj ARKUSZ ROZPRASZAJĄCY na TSV w bibliotece Excel Python" h2="Szybka biblioteka Excel Python do konwersji SPREADSHEETML na TSV. Jest to profesjonalne oprogramowanie do importowania i eksportowania SPREADSHEETML, TSV i wielu innych formatów przy użyciu Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="TSV" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -27,7 +27,7 @@ Wykonaj proste kroki, aby przekonwertować SPREADSHEETML na TSV. Prześlij plik 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Przykładowy kod do konwersji SPREADSHEETML na TSV za pośrednictwem biblioteki Excel Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xml" outformat="tsv" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="Przykładowy kod do konwersji SPREADSHEETML na TSV za pośrednictwem biblioteki Excel Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="xml" outformat="tsv" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="Jak przekonwertować SPREADSHEETML na TSV przez Python" %}}
 

@@ -1,7 +1,7 @@
 ---
 title: Python EXCEL para OTS - Conversor EXCEL para OTS
-description: Aspose Excel. Python Excel. Converta EXCEL em OTS de forma rápida e fácil com Aspose.Cells. Python EXCEL em OTS. Python Salvar EXCEL em OTS. Salve o EXCEL como OTS usando a Biblioteca Excel Python.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert EXCEL to OTS in Python Excel Library., Save EXCEL to OTS using Python Excel Library., Python EXCEL to OTS saveformat., EXCEL to OTS Converter., Python Save EXCEL as OTS]
+description: Aspose Excel. Esta solução abrangente fornece aos desenvolvedores Python uma abordagem totalmente integrada para converter EXCEL para o formato OTS, permitindo o salvamento perfeito de dados EXCEL no formato OTS usando a biblioteca Aspose.Cells, tudo por meio de código Python eficiente e personalizável.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart EXCEL files to OTS Converter for Python., Convert EXCEL to OTS in Python., EXCEL files to OTS Conversion in Python., Leverage intelligent data processing to automatically parse and save EXCEL into OTS format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Converter EXCEL em OTS na biblioteca Python Excel" h2="Biblioteca Excel Python de alta velocidade para conversão de EXCEL em OTS. Esta é uma solução de software profissional para importar e exportar EXCEL, OTS e muitos outros formatos usando Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="OTS" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -27,7 +27,7 @@ Siga as etapas fáceis para converter EXCEL em OTS. Carregue seu arquivo EXCEL e
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Exemplo de código para converter EXCEL em OTS por meio da biblioteca Python Excel" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsx" outformat="ots" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="Exemplo de código para converter EXCEL em OTS por meio da biblioteca Python Excel" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="xlsx" outformat="ots" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="Como converter EXCEL para OTS via Python" %}}
 
@@ -101,7 +101,7 @@ Aspose.Cells for Python via Java é independente de plataforma API e pode ser us
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/excel-to-xlt/" name="EXCEL PARA XLT" description="Microsoft Modelo Excel" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/excel-to-xltm/" name="EXCEL PARA XLTM" description="Modelo habilitado para macro do Excel" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/excel-to-xltx/" name="EXCEL PARA XLTX" description="Modelo Office OpenXML Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/excel-to-xml/" name="EXCEL PARA XML" description="Extensible Markup Language" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/excel-to-xml/" name="EXCEL PARA XML" description="Linguagem de Marcação Extensível" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/excel-to-xps/" name="EXCEL PARA XPS" description="Especificações do papel XML" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/conversion/excel-to-json/" name="EXCEL PARA JSON" description="Notação de objeto JavaScript" >}}
 

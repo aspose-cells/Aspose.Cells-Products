@@ -1,7 +1,7 @@
 ---
 title: Python ЦИФРЫ в XPS - ЦИФРЫ в XPS Конвертер
-description: Aspose Эксель. Python Эксель. Преобразуйте ЧИСЛА в XPS быстро и легко с помощью Aspose.Cells. Python ЧИСЛА в XPS. Python Сохраните ЧИСЛА в XPS. Сохраните ЧИСЛА как XPS, используя библиотеку Excel Python.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert NUMBERS to XPS in Python Excel Library., Save NUMBERS to XPS using Python Excel Library., Python NUMBERS to XPS saveformat., NUMBERS to XPS Converter., Python Save NUMBERS as XPS]
+description: Aspose Excel. Это комплексное решение предоставляет разработчикам Python полностью интегрированный подход к преобразованию ЧИСЕЛ в формат XPS, обеспечивая беспрепятственное сохранение данных ЧИСЕЛ в формат XPS с использованием библиотеки Aspose.Cells, и все это с помощью эффективного и настраиваемого кода Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart NUMBERS files to XPS Converter for Python., Convert NUMBERS to XPS in Python., NUMBERS files to XPS Conversion in Python., Leverage intelligent data processing to automatically parse and save NUMBERS into XPS format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Преобразуйте ЧИСЛА в XPS в библиотеке Excel Python." h2="Высокоскоростная библиотека Excel Python для преобразования ЧИСЕЛ в XPS. Используйте наше преобразование Excel API для разработки высокоуровневого, независимого от платформы программного обеспечения в Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="XPS" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -28,7 +28,7 @@ keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert N
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Пример кода для преобразования ЧИСЕЛ в XPS с помощью библиотеки Excel Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="numbers" outformat="xps" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Пример кода для преобразования ЧИСЕЛ в XPS с помощью библиотеки Excel Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="numbers" outformat="xps" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="Как преобразовать ЧИСЛА в XPS" %}}
 

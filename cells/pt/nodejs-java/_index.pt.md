@@ -1,10 +1,10 @@
 ---
-title:  APIs Node.js para planilhas do Excel - Aspose
+title:  APIs Node.js via Java para planilhas do Excel - Aspose
 weight: 3120
-description: Processe formatos de arquivo Excel por meio da biblioteca Node.js. Leia, escreva, renderize e converta XLS XLSX XLSB XLTX XLTM XLSM XML ODS CSV e mais formatos via Node.js em Windows, macOS e Linux
+description: Processe arquivos Excel usando a biblioteca Node.js via Java. Leia, grave, renderize e converta arquivos XML XLS, XLSX, XLSB, XLTX, XLTM, XLSM e outros formatos usando Node.js via Java em macOS e Linux.
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="APIs de formato de arquivo Excel Node.js." h2="Gere, modifique, converta e renderize planilhas do Excel usando Node.js sem precisar do Microsoft Excel." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/headers/aspose_cells-for-nodejs-java.svg" pfName="Aspose.Cells" subTitlepfName="for Node.js via Java" downloadUrl="https://downloads.aspose.com/cells/nodejs" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="APIs de formato de arquivo Excel do Node.js via Java" h2="Gere, modifique, converta e renderize planilhas do Excel usando Node.js via Java sem precisar do Excel Microsoft." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/headers/aspose_cells-for-nodejs-java.svg" pfName="Aspose.Cells" subTitlepfName="for Node.js via Java" downloadUrl="https://downloads.aspose.com/cells/nodejs" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells" subTitlepfName="for Node.js via Java" >}}
 
@@ -12,7 +12,7 @@ description: Processe formatos de arquivo Excel por meio da biblioteca Node.js. 
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
-Aspose.Cells for Node.js via Java é um API escalonável e rico em recursos para processar planilhas do Excel usando Node.js. API oferece conversão de formato de arquivo Excel, estilo de planilhas no nível mais granular, criação e edição de gráficos. renderização, mecanismo confiável de cálculo de fórmulas e muito mais.
+ Aspose.Cells for Node.js via Java é uma ferramenta rica em recursos e escalável para processar planilhas do Excel usando Node.js. API oferece conversão de formato de arquivo do Excel, estilização de planilhas no nível mais granular, criação e renderização de gráficos, mecanismo confiável de cálculo de fórmulas e muito mais.
 </p>
 
 <p>
@@ -271,7 +271,7 @@ Somente saída
  <div class="row">
   <div class="container">
    <h2 class="pr-ft">
- Recursos avançados da planilha Excel Node.js API
+ Recursos avançados de Node.js via Java e Planilha do Excel API
    </h2>
    <p>
    </p>
@@ -343,7 +343,7 @@ Somente saída
  Renderizando planilhas do Excel
     </h2>
     <p>
-Aspose.Cells for Node.js via Java usa seu mecanismo de renderização para renderizar no Excel Microsoft com a mais alta fidelidade. Ao usar a biblioteca Node.js Excel Processing, é possível converter planilhas inteiras, arquivos individuais ou gráficos em várias imagens e formatos de layout fixo.
+ Aspose.Cells for Node.js via Java usa seu mecanismo de renderização para renderizar no Excel Microsoft com a mais alta fidelidade. Ao usar a biblioteca de processamento do Excel via Java em Node.js, é possível converter planilhas inteiras, arquivos individuais ou gráficos em várias imagens e formatos de layout fixo.
     </p>
    </div>
    <div class="col-lg-12">
@@ -415,7 +415,7 @@ Aspose.Cells for Node.js via Java fornece suporte completo para gráficos. Pode-
 
 {{< /blocks/products/pf/i18n/support-learning-resources >}}
 
-{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://downloads.aspose.com/cells/nodejs" pricingInformationLink="https://purchase.aspose.com/pricing/cells/nodejs-java" >}}
+{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://releases.aspose.com/cells/nodejs/" pricingInformationLink="https://purchase.aspose.com/pricing/cells/nodejs-java" >}}
 
 {{< blocks/products/pf/offers-section pfName="Aspose.Cells" description="Aspose.Cells oferece APIs individuais do Excel para outros ambientes de desenvolvimento populares, conforme listado abaixo:" >}}
 

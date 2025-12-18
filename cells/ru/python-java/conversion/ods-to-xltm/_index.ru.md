@@ -1,7 +1,7 @@
 ---
 title: Преобразователь Python ODS в XLTM - ODS в XLTM
-description: Aspose Эксель. Python Эксель. Преобразуйте ODS в XLTM быстро и легко с помощью Aspose.Cells. Python ODS в XLTM. Python Сохранить ODS в XLTM. Сохранить ODS как 076112 3481 с использованием библиотеки Excel Python.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert ODS to XLTM in Python Excel Library., Save ODS to XLTM using Python Excel Library., Python ODS to XLTM saveformat., ODS to XLTM Converter., Python Save ODS as XLTM]
+description: Aspose Excel. Это комплексное решение предоставляет разработчикам Python полностью интегрированный подход к преобразованию формата ODS в формат XLTM, обеспечивая беспрепятственное сохранение данных ODS в формат XLTM с использованием библиотеки Aspose.Cells, и все это с помощью эффективного и настраиваемого кода Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart ODS files to XLTM Converter for Python., Convert ODS to XLTM in Python., ODS files to XLTM Conversion in Python., Leverage intelligent data processing to automatically parse and save ODS into XLTM format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Преобразуйте ODS в XLTM в Python библиотеке Excel" h2="Высокоскоростная библиотека Excel Python для преобразования ODS в XLTM. Это профессиональное программное решение для импорта и экспорта ODS, XLTM и многих других форматов с использованием Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLTM" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -27,7 +27,7 @@ keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert O
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Пример кода для преобразования ODS в XLTM с помощью библиотеки Excel Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="ods" outformat="xltm" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="Пример кода для преобразования ODS в XLTM с помощью библиотеки Excel Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="ods" outformat="xltm" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="Как преобразовать ODS в XLTM через Python" %}}
 

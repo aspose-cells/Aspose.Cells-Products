@@ -1,8 +1,8 @@
 ---
-title:  Python Таблица Excel API - Aspose
+title: Электронная таблица Excel Python API - Aspose.Cells for Python via Java
 weight: 2820
-description: Python библиотека для создания, восстановления, объединения, анализа и преобразования файлов Excel. Конвертируйте Excel в PDF, JSON, HTML, TXT и другие популярные форматы.
-keywords: [Python Aspose.Cells Create parse repair merge convert JSON Excel XML PDF HTML TSV SQL CSV TSV PNG JPEG and more formats]
+description: Библиотека Aspose.Cells for Python via Java предназначена для создания, восстановления, объединения, анализа и преобразования файлов Excel. Преобразуйте файлы Excel в форматы PDF, JSON, HTML, TXT и другие популярные форматы, используя Aspose.Cells for Python via Java API.
+keywords: [Aspose.Cells for Python via Java Create parse repair merge convert JSON Excel XML PDF HTML TSV SQL CSV TSV PNG JPEG and more formats]
 ---
 {{< blocks/products/pf/main-wrap-class >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Python API-интерфейсы анализа таблиц Excel" h2="Создавайте, читайте, записывайте и управляйте электронными таблицами, а также экспортируйте файлы Excel в различные форматы в приложениях Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/headers/aspose_cells-for-python-java.svg" pfName="Aspose.Cells" subTitlepfName="for Python via Java" downloadUrl="https://releases.aspose.com/cells/python-java/" >}}

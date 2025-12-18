@@ -1,7 +1,7 @@
 ---
 title: Python MHTML do SPREADSHEETML - MHTML do konwertera SPREADSHEETML
-description: Aspose Excel. Python Excel. Szybko i łatwo przekonwertuj MHTML na SPREADSHEETML za pomocą Aspose.Cells. Python MHTML na SPREADSHEETML. Python Zapisz MHTML w SPREADSHEETML. Zapisz MHTML jako SPREADSHEETML, korzystając z biblioteki Excel Python.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert MHTML to SPREADSHEETML in Python Excel Library., Save MHTML to SPREADSHEETML using Python Excel Library., Python MHTML to SPREADSHEETML saveformat., MHTML to SPREADSHEETML Converter., Python Save MHTML as SPREADSHEETML]
+description: Aspose Excel. To kompleksowe rozwiązanie zapewnia programistom w pełni zintegrowane podejście do konwersji MHTML do formatu SPREADSHEETML, umożliwiając bezproblemowe zapisywanie danych MHTML w formacie SPREADSHEETML za pomocą biblioteki Aspose.Cells, a wszystko to dzięki wydajnemu i konfigurowalnemu kodowi Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart MHTML files to SPREADSHEETML Converter for Python., Convert MHTML to SPREADSHEETML in Python., MHTML files to SPREADSHEETML Conversion in Python., Leverage intelligent data processing to automatically parse and save MHTML into SPREADSHEETML format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Konwertuj MHTML na SPREADSHEETML w Python Bibliotece Excel" h2="Szybka biblioteka Excel Python do konwersji MHTML na SPREADSHEETML. Jest to profesjonalne oprogramowanie do importowania i eksportowania MHTML, SPREADSHEETML i wielu innych formatów przy użyciu Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="SPREADSHEETML" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -27,7 +27,7 @@ Wykonaj proste kroki, aby przekonwertować MHTML na SPREADSHEETML. Prześlij pli
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Przykładowy kod do konwersji MHTML na SPREADSHEETML za pośrednictwem biblioteki Excel Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="mhtml" outformat="xml" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="Przykładowy kod do konwersji MHTML na SPREADSHEETML za pośrednictwem biblioteki Excel Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="mhtml" outformat="xml" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="Jak przekonwertować numer MHTML na arkusz kalkulacyjny za pomocą numeru Python" %}}
 

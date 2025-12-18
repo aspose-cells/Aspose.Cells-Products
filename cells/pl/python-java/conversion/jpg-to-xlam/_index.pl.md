@@ -1,7 +1,7 @@
 ---
 title: Python JPG do XLAM - JPG do XLAM Konwerter
-description: Aspose Excel. Python Excel. Konwertuj JPG na XLAM szybko i łatwo za pomocą Aspose.Cells. Python JPG na XLAM. Python Zapisz JPG na XLAM. Zapisz JPG jako XLAM, używając Python Biblioteki Excel.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert JPG to XLAM in Python Excel Library., Save JPG to XLAM using Python Excel Library., Python JPG to XLAM saveformat., JPG to XLAM Converter., Python Save JPG as XLAM]
+description: Aspose Excel. To kompleksowe rozwiązanie zapewnia programistom w pełni zintegrowane podejście do konwersji JPG do formatu XLAM, umożliwiając bezproblemowe zapisywanie danych JPG do formatu XLAM za pomocą biblioteki Aspose.Cells, a wszystko to dzięki wydajnemu i konfigurowalnemu kodowi Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart JPG files to XLAM Converter for Python., Convert JPG to XLAM in Python., JPG files to XLAM Conversion in Python., Leverage intelligent data processing to automatically parse and save JPG into XLAM format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Konwertuj JPG na XLAM w Python Biblioteka Excel" h2="Szybka biblioteka Excel Python do konwersji JPG na XLAM. Jest to profesjonalne oprogramowanie do importowania i eksportowania JPG, XLAM i wielu innych formatów przy użyciu Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLAM" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -27,7 +27,7 @@ Wykonaj proste kroki, aby przekonwertować plik JPG na XLAM. Prześlij plik JPG,
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Przykładowy kod do konwersji JPG na XLAM za pośrednictwem biblioteki Excel Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="jpg" outformat="xlam" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="Przykładowy kod do konwersji JPG na XLAM za pośrednictwem biblioteki Excel Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="jpg" outformat="xlam" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="Jak przekonwertować JPG na XLAM przez Python" %}}
 

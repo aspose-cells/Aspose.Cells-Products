@@ -1,7 +1,7 @@
 ---
 title: Python JPEG do DIF - JPEG do DIF Konwerter
-description: Aspose Excel. Python Excel. Konwertuj numer JPEG na DIF szybko i łatwo za pomocą Aspose.Cells. Python JPEG na DIF. Python Zapisz JPEG na DIF. Zapisz JPEG jako 07611 23481 przy użyciu biblioteki programu Excel Python.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert JPEG to DIF in Python Excel Library., Save JPEG to DIF using Python Excel Library., Python JPEG to DIF saveformat., JPEG to DIF Converter., Python Save JPEG as DIF]
+description: Aspose Excel. To kompleksowe rozwiązanie zapewnia programistom w pełni zintegrowane podejście do konwersji formatu JPEG do DIF, umożliwiając bezproblemowe zapisywanie danych JPEG do formatu DIF za pomocą biblioteki Aspose.Cells, a wszystko to dzięki wydajnemu i konfigurowalnemu kodowi Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart JPEG files to DIF Converter for Python., Convert JPEG to DIF in Python., JPEG files to DIF Conversion in Python., Leverage intelligent data processing to automatically parse and save JPEG into DIF format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Konwertuj JPEG na DIF w Python Biblioteka Excel" h2="Szybka biblioteka Excel Python do konwersji JPEG na DIF. Jest to profesjonalne oprogramowanie do importowania i eksportowania JPEG, DIF i wielu innych formatów przy użyciu Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="DIF" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -27,7 +27,7 @@ Wykonaj proste kroki, aby przekonwertować numer JPEG na numer DIF. Prześlij pl
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Przykładowy kod do konwersji JPEG na DIF za pośrednictwem biblioteki Excel Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="jpg" outformat="dif" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="Przykładowy kod do konwersji JPEG na DIF za pośrednictwem biblioteki Excel Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="jpg" outformat="dif" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="Jak przekonwertować JPEG na DIF przez Python" %}}
 

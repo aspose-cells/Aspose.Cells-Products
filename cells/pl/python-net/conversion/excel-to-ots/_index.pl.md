@@ -1,7 +1,7 @@
 ---
 title: Python EXCEL do OTS - Konwerter EXCEL do OTS
-description: Aspose Excel. Python Excel. Konwertuj EXCEL na OTS szybko i łatwo za pomocą Aspose.Cells. Python EXCEL na OTS. Python Zapisz EXCEL w OTS. Zapisz EXCEL jako OTS, korzystając z biblioteki Excel Python.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert EXCEL to OTS in Python Excel Library., Save EXCEL to OTS using Python Excel Library., Python EXCEL to OTS saveformat., EXCEL to OTS Converter., Python Save EXCEL as OTS]
+description: Aspose Excel. To kompleksowe rozwiązanie zapewnia programistom w pełni zintegrowane podejście do konwersji plików EXCEL do formatu OTS, umożliwiając bezproblemowe zapisywanie danych EXCEL w formacie OTS za pomocą biblioteki Aspose.Cells, a wszystko to dzięki wydajnemu i konfigurowalnemu kodowi Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart EXCEL files to OTS Converter for Python., Convert EXCEL to OTS in Python., EXCEL files to OTS Conversion in Python., Leverage intelligent data processing to automatically parse and save EXCEL into OTS format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Konwertuj EXCEL na OTS w bibliotece Excel Python" h2="Szybka biblioteka Excel Python do konwersji EXCEL na OTS. Skorzystaj z naszej konwersji Excela API, aby opracować oprogramowanie wysokiego poziomu, niezależne od platformy w Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="OTS" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -28,7 +28,7 @@ Wykonaj proste kroki, aby przekonwertować EXCEL na OTS. Prześlij plik EXCEL, a
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Przykładowy kod do konwersji programu Excel na OTS za pośrednictwem biblioteki programu Excel Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsx" outformat="ots" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Przykładowy kod do konwersji programu Excel na OTS za pośrednictwem biblioteki programu Excel Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="xlsx" outformat="ots" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="Jak przekonwertować EXCEL na OTS" %}}
 

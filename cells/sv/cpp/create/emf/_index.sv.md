@@ -1,7 +1,7 @@
 ---
 title: Skapa EMF - Skapa EMF fil i C++
-description: Aspose Excel. C++ Skapa EMF Arkivera snabbt och enkelt med Aspose.Cells. Skapa EMF fil med C++. Skapa EMF i C++. 0761836481 Skapa C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ Create EMF file., Generate EMF file in C++., Create EMF file using C++., Write data to EMF file via C++., Create a EMF file in C++., C++ Generate a EMF file., C++ EMF Creater]
+description: Aspose Excel. Generera och manipulera enkelt EMF-filer med Aspose.Cells for C++-biblioteket. Detta kraftfulla API-program erbjuder en strömlinjeformad och effektiv lösning för att skapa, redigera och hantera EMF-filer direkt i dina C++-applikationer, vilket uppfyller specifika utvecklarbehov med hög precision.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ Create EMF file., Generate EMF file in C++., Write data to EMF file via C++., C++ EMF Creater., Aspose.Cells for C++ is a powerful library that enables developers to programmatically create, generate, and manipulate EMF files in C++]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Skapa EMF-fil i C++" h2="Native och högpresterande EMF-filskapande programmatiskt utan Micorsoft Office med C++-biblioteket." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" sourceAdditionalConversionTag="" additionalConversionTag="EMF" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -11,7 +11,7 @@ keywords: [Aspose Excel., C++ Aspose.Cells., C++ Create EMF file., Generate EMF 
 
 {{% blocks/products/pf/agp/content h2="Skapa EMF-fil med C++" %}}
 
- Hur skapar man EMF-fil? Med Aspose.Cells for C++-biblioteket kan du enkelt skapa EMF-fil programmatiskt med några rader kod.[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) kan bygga plattformsoberoende applikationer med förmågan att generera, modifiera, konvertera, rendera och skriva ut alla Excel-filer. C++ Excel API konverterar inte bara mellan kalkylarksformat, den kan också rendera Excel-filer som bilder, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT och mer, vilket gör det till ett perfekt val att utbyta dokument i industristandardformat. Du kan ladda ner den senaste versionen direkt, bara öppna[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) pakethanteraren, sök efter Aspose.Cells.Cpp och installera. Du kan också använda följande kommando från Package Manager Console.
+ Hur skapar man EMF-fil? Med Aspose.Cells for C++-biblioteket kan du enkelt skapa EMF-fil programmatiskt med några rader kod.[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) kan bygga plattformsoberoende applikationer med förmågan att generera, modifiera, konvertera, rendera och skriva ut alla Excel-filer. C++ Excel API konverterar inte bara mellan kalkylarksformat, den kan också rendera Excel-filer som bilder, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT och mer, vilket gör det till ett perfekt val att utbyta dokument i industristandardformat. Du kan ladda ner den senaste versionen direkt, bara öppna[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/)pakethanteraren, sök efter Aspose.Cells.Cpp och installera. Du kan också använda följande kommando från Package Manager Console.
 
 {{% blocks/products/pf/agp/code-block title="Kommando" offSpacer="true" %}}
 
@@ -37,14 +37,15 @@ PM> Install-Package Aspose.Cells.Cpp
 1.  Skapa ett objekt av klassen Workbook.
 1.  Få det första arket till ett kalkylbladsobjekt.
 1.  Använd metoden Worksheet.GetCells() för att få cellerna i kalkylbladet till ett Cells-objekt.
-1. Använd metoden Cells.Get() för att komma åt önskad cell i kalkylbladet till ett Cell-objekt.
+1.  Använd metoden Cells.Get() för att komma åt önskad cell i kalkylbladet till ett Cell-objekt.
 1.  Använd metoden Cell.PutValue() för att mata in värde i cellen.
-1. Spara arbetsboken som .emf-fil med hjälp av metoden Save().
+1.  Spara arbetsboken som en .emf-fil med hjälp av Save()-metoden.
 
 {{% blocks/products/pf/agp/code-block title="Exempelkod visar hur man skapar EMF-filen i C++." offSpacer="" %}}
 
 ```cs
 Aspose::Cells::Startup();
+//TIFF format is not supported
 
 // Create an object of the Workbook class.
 Workbook wkb;
@@ -127,7 +128,7 @@ Det finns tre alternativ för att installera "Aspose.Cells for C++" på ditt sys
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/create/tsv/" name="TSV" description="Flikseparerade värden" >}} 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/create/ods/" name="ODS" description="OpenDocument Kalkylblad" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/create/pdf/" name="PDF" description="Portabelt dokumentformat" >}} 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/create/html/" name="HTML" description="Hyper Text Markup Language" >}} 
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/create/html/" name="HTML" description="Hypertext Markup Language" >}} 
 
 
 {{< /blocks/products/pf/agp/other-supported-section >}}

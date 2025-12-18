@@ -1,7 +1,7 @@
 ---
 title: Python MHT na JSON - Konwerter MHT na JSON
-description: Aspose Excel. Python Excel. Konwertuj MHT na JSON szybko i łatwo za pomocą Aspose.Cells. Python MHT na JSON. Python Zapisz MHT na JSON. Zapisz MHT jako JSON, korzystając z biblioteki Excel Python.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert MHT to JSON in Python Excel Library., Save MHT to JSON using Python Excel Library., Python MHT to JSON saveformat., MHT to JSON Converter., Python Save MHT as JSON]
+description: Aspose Excel. To kompleksowe rozwiązanie zapewnia programistom w pełni zintegrowane podejście do konwersji MHT do formatu JSON, umożliwiając bezproblemowe zapisywanie danych MHT do formatu JSON przy użyciu biblioteki Aspose.Cells, a wszystko to dzięki wydajnemu i konfigurowalnemu kodowi Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart MHT files to JSON Converter for Python., Convert MHT to JSON in Python., MHT files to JSON Conversion in Python., Leverage intelligent data processing to automatically parse and save MHT into JSON format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Konwertuj MHT na JSON w Python Biblioteka Excel" h2="Szybka biblioteka Excel Python do konwersji MHT na JSON. Jest to profesjonalne oprogramowanie do importowania i eksportowania MHT, JSON i wielu innych formatów przy użyciu Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="JSON" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -27,7 +27,7 @@ Wykonaj proste kroki, aby przekonwertować MHT na JSON. Prześlij plik MHT, a na
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Przykładowy kod do konwersji MHT na JSON za pośrednictwem biblioteki Excel Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="mht" outformat="json" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="Przykładowy kod do konwersji MHT na JSON za pośrednictwem biblioteki Excel Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="mht" outformat="json" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="Jak przekonwertować MHT na JSON przez Python" %}}
 

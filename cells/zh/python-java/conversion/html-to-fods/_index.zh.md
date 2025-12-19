@@ -1,7 +1,7 @@
 ---
 title: Python HTML 至 FODS - HTML 至 FODS 转换器
-description: Aspose Excel。Python Excel。使用 Aspose.Cells 快速轻松地将 HTML 转换为 FODS。Python 将 HTML 转换为 FODS。Python 将 HTML 保存为 FODS。使用 Python Excel 库将 HTML 保存为 FODS。
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert HTML to FODS in Python Excel Library., Save HTML to FODS using Python Excel Library., Python HTML to FODS saveformat., HTML to FODS Converter., Python Save HTML as FODS]
+description: Aspose Excel。此综合解决方案为 Python 开发人员提供了一种完全集成的方法，可将 HTML 转换为 FODS 格式，从而能够使用 Aspose.Cells 库将 HTML 数据无缝保存为 FODS 格式，所有这些都通过高效且可定制的 Python 代码实现。
+keywords: [Aspose Excel., Python Aspose.Cells., Smart HTML files to FODS Converter for Python., Convert HTML to FODS in Python., HTML files to FODS Conversion in Python., Leverage intelligent data processing to automatically parse and save HTML into FODS format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="在 Python Excel 库中将 HTML 转换为 FODS" h2="高速 Python excel 库，用于将 HTML 转换为 FODS。这是一个专业的软件解决方案，可使用 Python 导入和导出 HTML、FODS 和许多其他格式。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="FODS" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -27,7 +27,7 @@ keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert H
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="通过 Python Excel 库将 HTML 转换为 FODS 的示例代码" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="html" outformat="fods" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="通过 Python Excel 库将 HTML 转换为 FODS 的示例代码" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="html" outformat="fods" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="如何将 HTML 通过 Python 转换为 FODS" %}}
 

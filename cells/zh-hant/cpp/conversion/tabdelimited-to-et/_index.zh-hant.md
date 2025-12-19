@@ -1,7 +1,7 @@
 ---
 title: C++ TABDELIMITED 到 ET - TABDELIMITED 到 ET 轉換器
-description: Aspose Excel。使用 Aspose.Cells 快速輕鬆地將 TABDELIMITED 轉換為 ET。C++ TABDELIMITED 轉換為 ET。 C++ 將製表符儲存到 ET。使用 C++ 將 TABDELIMITED 儲存為 ET。
-keywords: [Aspose Excel., C++ Aspose.Cells., Convert TABDELIMITED to ET in C++., Save TABDELIMITED to ET using C++., C++ TABDELIMITED to ET saveformat., TABDELIMITED to ET Converter., C++ Save TABDELIMITED as ET]
+description: Aspose Excel。此綜合解決方案為 C++ 開發人員提供了一種完全整合的方法，可將 TABDELIMITED 轉換為 ET 格式，從而能夠使用 Aspose.Cells 庫將 TABDELIMITED 資料無縫保存為 ET 格式，所有這些都透過高效且可自訂的 076134881 程式碼。
+keywords: [Aspose Excel., C++ Aspose.Cells., Smart TABDELIMITED files to ET Converter for C++., Convert TABDELIMITED to ET in C++., TABDELIMITED files to ET Conversion in C++., Leverage intelligent data processing to automatically parse and save TABDELIMITED into ET format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="將 C++ 中的 TABDELIMITED 轉換為 ET" h2="使用 C++ 函式庫進行高效能 TABDELIMITED 到 ET 轉換，無需安裝 Microsoft Excel、OpenOffice 或 Adobe Acrobat。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" sourceAdditionalConversionTag="" additionalConversionTag="ET" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -26,9 +26,9 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="將 TABDELIMITED 儲存為 ET 中的 C++" %}}
+{{% blocks/products/pf/agp/content h2="將 TABDELIMITED 儲存到 ET，輸入 C++" %}}
 
-以下範例示範如何將 C++ 中的 TABDELIMITED 轉換為 ET。
+以下範例示範如何在 C++ 中將 TABDELIMITED 轉換為 ET。
 {{% blocks/products/pf/agp/text %}}
 
 按照簡單的步驟將 TABDELIMITED 轉換為 ET。上傳 TABDELIMITED 文件，然後將其儲存為 ET 文件。對於 TABDELIMITED 讀取和 ET 寫入，您可以使用完全限定的檔案名稱。輸出 ET 內容和格式將與原始 TABDELIMITED 文件相同。
@@ -37,13 +37,13 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="將 TABDELIMITED 轉換為 ET 的範例程式碼" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="tsv" outformat="et" IsLandingPage="true" language="cpp" %}}
+{{% cells-convert title="將 TABDELIMITED 轉換為 ET 的範例程式碼" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="tsv" outformat="et" IsLandingPage="true" language="cpp" %}}
 
 {{% blocks/products/pf/agp/content h2="如何透過 C++ 將 TABDELIMITED 轉換為 ET" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
-需要以程式設計方式將 TABDELIMITED 檔案轉換為 ET？ C++ 開發人員只需幾行程式碼即可輕鬆將 TABDELIMITED 轉換為 ET。
+需要以程式設計方式將 TABDELIMITED 檔案轉換為 ET 檔案嗎？ C++ 開發人員只需幾行程式碼即可輕鬆將 TABDELIMITED 檔案轉換為 ET 檔案。
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -55,7 +55,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="C++ 將 TABDELIMITED 轉換為 ET 的庫" %}}
+{{% blocks/products/pf/agp/content h2="C++ 庫用於將 TABDELIMITED 轉換為 ET" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
@@ -73,7 +73,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% blocks/products/pf/agp/text %}}
 
-在執行 C++ 轉換範例程式碼之前，請確保您符合以下先決條件。
+在執行 C++ 轉換範例程式碼之前，請確保您具備以下先決條件。
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -101,6 +101,7 @@ PM> Install-Package Aspose.Cells.Cpp
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/tabdelimited-to-pdf/" name="製表符分隔為 PDF" description="便攜式文件格式" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/tabdelimited-to-png/" name="製表符分隔為 PNG" description="手提網路圖形" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/tabdelimited-to-svg/" name="製表符分隔為 SVG" description="可縮放向量圖形" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/tabdelimited-to-tiff/" name="製表符分隔為 TIFF" description="標記影像格式" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/tabdelimited-to-tsv/" name="製表符分隔為 TSV" description="製表符分隔值" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/tabdelimited-to-txt/" name="製表符分隔為 TXT" description="文字文檔" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/tabdelimited-to-xls/" name="製表符分隔為 XLS" description="Excel 二進位格式" >}}

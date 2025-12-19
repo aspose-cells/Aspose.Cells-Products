@@ -1,7 +1,7 @@
 ---
 title: Python OTS 轉 PRN - OTS 轉 PRN 轉換器
-description: Aspose Excel。 Python Excel。使用 Aspose.Cells 快速輕鬆地將 OTS 轉換為 PRN。 Python 將 OTS 儲存到 PRN。使用 Python Excel 函式庫將 OTS 儲存為 PRN。
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert OTS to PRN in Python Excel Library., Save OTS to PRN using Python Excel Library., Python OTS to PRN saveformat., OTS to PRN Converter., Python Save OTS as PRN]
+description: Aspose Excel。此綜合解決方案為 Python 開發人員提供了一種完全整合的方法，可將 OTS 轉換為 PRN 格式，從而能夠使用 Aspose.Cells 庫將 OTS 資料無縫儲存為 PRN 格式，所有這些都透過高效且可自訂的 Python 程式碼實現。
+keywords: [Aspose Excel., Python Aspose.Cells., Smart OTS files to PRN Converter for Python., Convert OTS to PRN in Python., OTS files to PRN Conversion in Python., Leverage intelligent data processing to automatically parse and save OTS into PRN format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="在 Python Excel 庫中將 OTS 轉換為 PRN" h2="用於將 OTS 轉換為 PRN 的高速 Python Excel 庫。這是一個使用 Python 匯入和匯出 OTS、PRN 和許多其他格式的專業軟體解決方案。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="PRN" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -27,7 +27,7 @@ keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert O
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="透過 Python Excel 庫將 OTS 轉換為 PRN 的範例程式碼" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="ots" outformat="prn" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="透過 Python Excel 庫將 OTS 轉換為 PRN 的範例程式碼" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="ots" outformat="prn" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="如何透過 Python 將 OTS 轉換為 PRN" %}}
 

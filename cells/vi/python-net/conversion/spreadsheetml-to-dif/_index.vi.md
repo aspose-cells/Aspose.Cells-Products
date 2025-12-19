@@ -1,7 +1,7 @@
 ---
 title: Python BẢNG TÍNH sang DIF - Trình chuyển đổi BẢNG TÍNH sang DIF
-description: Aspose Excel. Python Excel. Chuyển SPREADSHEETML thành DIF nhanh chóng và dễ dàng với Aspose.Cells. Python SPREADSHEETML sang DIF. Python Lưu SPREADSHEETML thành DIF. Lưu SPREADSHEETML thành DIF sử dụng Python Thư viện Excel.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert SPREADSHEETML to DIF in Python Excel Library., Save SPREADSHEETML to DIF using Python Excel Library., Python SPREADSHEETML to DIF saveformat., SPREADSHEETML to DIF Converter., Python Save SPREADSHEETML as DIF]
+description: Aspose Excel. Giải pháp toàn diện này cung cấp cho các nhà phát triển Python một phương pháp tích hợp đầy đủ để chuyển đổi SPREADSHEETML sang định dạng DIF, cho phép lưu dữ liệu SPREADSHEETML một cách liền mạch vào định dạng DIF bằng cách sử dụng thư viện Aspose.Cells, tất cả thông qua mã Python hiệu quả và có thể tùy chỉnh.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart SPREADSHEETML files to DIF Converter for Python., Convert SPREADSHEETML to DIF in Python., SPREADSHEETML files to DIF Conversion in Python., Leverage intelligent data processing to automatically parse and save SPREADSHEETML into DIF format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Chuyển đổi SPREADSHEETML thành DIF trong Python Thư viện Excel" h2="Thư viện excel Python tốc độ cao để chuyển đổi SPREADSHEETML thành DIF. Sử dụng chuyển đổi excel API của chúng tôi để phát triển phần mềm độc lập nền tảng, cấp cao trong Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="DIF" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -28,7 +28,7 @@ Hãy làm theo các bước đơn giản để chuyển đổi SPREADSHEETML th�
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Mã mẫu để chuyển đổi SPREADSHEETML thành DIF qua Python Thư viện Excel" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xml" outformat="dif" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Mã mẫu để chuyển đổi SPREADSHEETML thành DIF qua Python Thư viện Excel" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="xml" outformat="dif" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="Cách chuyển đổi SPREADSHEETML thành DIF" %}}
 

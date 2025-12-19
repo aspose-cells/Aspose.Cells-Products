@@ -1,7 +1,7 @@
 ---
 title: Python HTM 至 XLS - HTM 至 XLS 轉換器
-description: Aspose Excel。 Python Excel。使用 Aspose.Cells 快速輕鬆地將 HTM 轉換為 XLS。 Python HTM 轉換為 XLS。
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert HTM to XLS in Python Excel Library., Save HTM to XLS using Python Excel Library., Python HTM to XLS saveformat., HTM to XLS Converter., Python Save HTM as XLS]
+description: Aspose Excel。此綜合解決方案為 Python 開發人員提供了一種完全整合的方法，可將 HTM 轉換為 XLS 格式，從而能夠使用 Aspose.Cells 庫將 HTM 資料無縫保存為 XLS 格式，所有這些都透過高效能客製化的 081 534081 實現程式碼。
+keywords: [Aspose Excel., Python Aspose.Cells., Smart HTM files to XLS Converter for Python., Convert HTM to XLS in Python., HTM files to XLS Conversion in Python., Leverage intelligent data processing to automatically parse and save HTM into XLS format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="將 HTM 轉換為 Python Excel 庫中的 XLS" h2="高速Python excel庫，用於將HTM轉換為XLS。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLS" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -27,7 +27,7 @@ keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert H
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="透過 Python Excel 庫將 HTM 轉換為 XLS 的範例程式碼" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="htm" outformat="xls" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="透過 Python Excel 庫將 HTM 轉換為 XLS 的範例程式碼" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="htm" outformat="xls" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="如何透過 Python 將 HTM 轉換為 XLS" %}}
 

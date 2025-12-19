@@ -1,7 +1,7 @@
 ---
 title: Python TABDELIMITED - XLSX - TABDELIMITED - XLSX Dönüştürücü
-description: Aspose Excel'de. Python Excel'de. Aspose.Cells ile hızlı ve kolay bir şekilde TABDELIMITED'ı XLSX'e dönüştürün. Python TABDELIMITED'i XLSX'e dönüştürün. Python TABDELIMITED'ı XLSX'e kaydedin. Python Excel Kütüphanesini kullanarak TABDELIMITED'ı XLSX olarak kaydedin.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert TABDELIMITED to XLSX in Python Excel Library., Save TABDELIMITED to XLSX using Python Excel Library., Python TABDELIMITED to XLSX saveformat., TABDELIMITED to XLSX Converter., Python Save TABDELIMITED as XLSX]
+description: Aspose Excel. Bu kapsamlı çözüm, Python geliştiricilere TABDELIMITED'ı XLSX formatına dönüştürmek için tamamen entegre bir yaklaşım sunarak, Aspose.Cells kütüphanesini kullanarak TABDELIMITED verilerinin XLSX formatına sorunsuz bir şekilde kaydedilmesini sağlar; tüm bunlar verimli ve özelleştirilebilir Python kod aracılığıyla gerçekleştirilir.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart TABDELIMITED files to XLSX Converter for Python., Convert TABDELIMITED to XLSX in Python., TABDELIMITED files to XLSX Conversion in Python., Leverage intelligent data processing to automatically parse and save TABDELIMITED into XLSX format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Python Excel Kütüphanesinde TABDELIMITED\'ı XLSX\'e dönüştürün" h2="TABDELIMITED\'ı XLSX\'e dönüştürmek için yüksek hızlı Python excel kütüphanesi. Bu, Python\'i kullanarak TABDELIMITED, XLSX ve diğer birçok formatı içe ve dışa aktarmak için profesyonel bir yazılım çözümüdür." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSX" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -27,7 +27,7 @@ TABDELIMITED'i XLSX'e dönüştürmek için kolay adımları izleyin. TABDELIMIT
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="TABDELIMITED\'ı Python Excel Kütüphanesi aracılığıyla XLSX\'e Dönüştürmek için Örnek Kod" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="tsv" outformat="xlsx" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="TABDELIMITED\'ı Python Excel Kütüphanesi aracılığıyla XLSX\'e Dönüştürmek için Örnek Kod" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="tsv" outformat="xlsx" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="TABDELIMITED\'i Python aracılığıyla XLSX\'e dönüştürme" %}}
 

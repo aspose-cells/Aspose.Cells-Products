@@ -1,7 +1,7 @@
 ---
 title: 建立XPS - 在C++中建立XPS文件
-description: Aspose Excel。 C++ 使用 Aspose.Cells 快速輕鬆地建立 XPS 檔案。使用 C++ 產生 XPS 檔案。在 C++ 中建立 XPS。在 C++ 中建立 XPS。
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ Create XPS file., Generate XPS file in C++., Create XPS file using C++., Write data to XPS file via C++., Create a XPS file in C++., C++ Generate a XPS file., C++ XPS Creater]
+description: Aspose Excel。使用 Aspose.Cells for C++ 函式庫，輕鬆產生和操作 XPS 檔案。這款強大的 API 庫提供了一種簡化高效的解決方案，可直接在您的 C++ 應用程式中建立、編輯和管理 XPS 文件，從而高精度地滿足開發人員的特定需求。
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ Create XPS file., Generate XPS file in C++., Write data to XPS file via C++., C++ XPS Creater., Aspose.Cells for C++ is a powerful library that enables developers to programmatically create, generate, and manipulate XPS files in C++]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="在C++中建立XPS文件" h2="使用 C++ 函式庫以程式設計方式建立本機高效能 XPS 文件，無需 Microsoft Office。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" sourceAdditionalConversionTag="" additionalConversionTag="XPS" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -39,12 +39,13 @@ PM> Install-Package Aspose.Cells.Cpp
 1. 使用 Worksheet.GetCells() 方法將工作表的儲存格取得到 Cells 物件中。
 1. 使用 Cells.Get() 方法將工作表的所需儲存格存取到 Cell 物件中。
 1. 使用 Cell.PutValue() 方法將值輸入到儲存格中。
-1. 使用 Save() 方法將工作簿儲存為 .xps 檔案。
+1. 使用 Save() 方法將工作簿另存為 .xps 檔案。
 
 {{% blocks/products/pf/agp/code-block title="範例程式碼展示如何在 C++ 中建立 XPS 檔案。" offSpacer="" %}}
 
 ```cs
 Aspose::Cells::Startup();
+//TIFF format is not supported
 
 // Create an object of the Workbook class.
 Workbook wkb;
@@ -110,7 +111,7 @@ Aspose::Cells::Cleanup();
 
 <!-- aboutfile Starts -->
     {{< blocks/products/pf/agp/about-file-section >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XPS" readMoreLink="https://docs.fileformat.com/page-description-language/xps/" >}}XPS 文件表示基於 Microsoft 建立的 XML 紙張規範的頁面佈局文件。它是作為 EMF 文件格式的替代品而開發的，與 PDF 文件格式類似，但在文件的佈局、外觀和列印資訊中使用 XML 外觀。事實上，更合理的說法是，XPS是對PDF的一次嘗試，但由於多種原因未能獲得PDF所擁有的足夠的知名度。 Microsoft從Windows 7開始預設提供XPS Document Writer用於建立XPS檔案。列印文件時，可以透過選擇「Microsoft XPS Document Writer」作為印表機來產生XPS檔案。{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XPS" readMoreLink="https://docs.fileformat.com/page-description-language/xps/" >}}XPS 文件表示基於 Microsoft 創建的 XML 紙張規範的頁面佈局文件。事實上，更合理的說法是，XPS是對PDF的一次嘗試，但由於多種原因未能獲得PDF所擁有的足夠的知名度。 Microsoft從Windows 7開始預設提供XPS Document Writer用於建立XPS檔案。列印文件時，可以透過選擇「Microsoft XPS Document Writer」作為印表機來產生XPS檔案。{{< /blocks/products/pf/agp/i18n/about-file-text >}}
     {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->
 

@@ -1,7 +1,7 @@
 ---
 title: Python JPG'den XLSM'e - JPG'den XLSM'e dönüştürücü
-description: Aspose Excel'de. Python Excel'de. Aspose.Cells ile JPG'yi hızlı ve kolay bir şekilde XLSM'e dönüştürün. Python JPG'yi XLSM'e dönüştürün. Python JPG'yi XLSM'e kaydedin. Python Excel Kütüphanesini kullanarak JPG'yi XLSM olarak kaydedin.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert JPG to XLSM in Python Excel Library., Save JPG to XLSM using Python Excel Library., Python JPG to XLSM saveformat., JPG to XLSM Converter., Python Save JPG as XLSM]
+description: Aspose Excel. Bu kapsamlı çözüm, Python geliştiricilere JPG'yi XLSM formatına dönüştürmek için tamamen entegre bir yaklaşım sunarak, Aspose.Cells kütüphanesini kullanarak JPG verilerinin XLSM formatına sorunsuz bir şekilde kaydedilmesini sağlar; tüm bunlar verimli ve özelleştirilebilir Python kod aracılığıyla gerçekleştirilir.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart JPG files to XLSM Converter for Python., Convert JPG to XLSM in Python., JPG files to XLSM Conversion in Python., Leverage intelligent data processing to automatically parse and save JPG into XLSM format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Python Excel Kütüphanesinde JPG\'yi XLSM\'e dönüştürün" h2="JPG\'yi XLSM\'e dönüştürmek için yüksek hızlı Python excel kütüphanesi. Python\'de yüksek seviyeli, platformdan bağımsız yazılım geliştirmek için API excel dönüşümümüzü kullanın." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSM" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -28,7 +28,7 @@ JPG'yi XLSM'e dönüştürmek için kolay adımları izleyin. JPG dosyanızı y�
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="JPG\'yi Python Excel Kitaplığı aracılığıyla XLSM\'e Dönüştürmek için Örnek Kod" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="jpg" outformat="xlsm" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="JPG\'yi Python Excel Kitaplığı aracılığıyla XLSM\'e Dönüştürmek için Örnek Kod" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="jpg" outformat="xlsm" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="JPG\'yi XLSM\'e Dönüştürme" %}}
 

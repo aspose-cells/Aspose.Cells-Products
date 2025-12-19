@@ -1,7 +1,7 @@
 ---
 title: Python OTS'den SXC'e - OTS'den SXC'e dönüştürücü
-description: Aspose Excel'de. Python Excel'de. Aspose.Cells ile hızlı ve kolay bir şekilde OTS'yi SXC'e dönüştürün. Python OTS'yi SXC'e dönüştürün. Python OTS'yi SXC'e kaydedin. Python Excel Kitaplığını kullanarak OTS'yi SXC olarak kaydedin.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert OTS to SXC in Python Excel Library., Save OTS to SXC using Python Excel Library., Python OTS to SXC saveformat., OTS to SXC Converter., Python Save OTS as SXC]
+description: Aspose Excel. Bu kapsamlı çözüm, Python geliştiricilere OTS'yi SXC formatına dönüştürmek için tamamen entegre bir yaklaşım sunarak, Aspose.Cells kütüphanesini kullanarak OTS verilerinin SXC formatına sorunsuz bir şekilde kaydedilmesini sağlar; tüm bunlar verimli ve özelleştirilebilir Python kod aracılığıyla gerçekleştirilir.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart OTS files to SXC Converter for Python., Convert OTS to SXC in Python., OTS files to SXC Conversion in Python., Leverage intelligent data processing to automatically parse and save OTS into SXC format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Python Excel Kitaplığı\'nda OTS\'yi SXC\'e dönüştürün" h2="OTS\'yi SXC\'e dönüştürmek için yüksek hızlı Python excel kitaplığı. Python\'de üst düzey, platformdan bağımsız yazılım geliştirmek için API excel dönüşümümüzü kullanın." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="SXC" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -28,7 +28,7 @@ OTS'yi SXC'e dönüştürmek için kolay adımları izleyin. OTS dosyanızı yü
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="OTS\'yi Python Excel Kitaplığı aracılığıyla SXC\'e Dönüştürmek için Örnek Kod" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="ots" outformat="sxc" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="OTS\'yi Python Excel Kitaplığı aracılığıyla SXC\'e Dönüştürmek için Örnek Kod" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="ots" outformat="sxc" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="OTS\'yi SXC\'e Dönüştürme" %}}
 

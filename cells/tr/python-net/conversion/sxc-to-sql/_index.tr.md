@@ -1,7 +1,7 @@
 ---
 title: Python SXC'den SQL'e - SXC'den SQL'e Dönüştürücü
-description: Aspose Excel'de. Python Excel'de. Aspose.Cells ile SXC'i hızlı ve kolay bir şekilde SQL'e dönüştürün. Python SXC'i SQL'e dönüştürün. Python SXC'i SQL'e kaydedin. Python Excel Kitaplığını kullanarak SXC'i SQL olarak kaydedin.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert SXC to SQL in Python Excel Library., Save SXC to SQL using Python Excel Library., Python SXC to SQL saveformat., SXC to SQL Converter., Python Save SXC as SQL]
+description: Aspose Excel. Bu kapsamlı çözüm, Python geliştiricilere SXC'i SQL formatına dönüştürmek için tamamen entegre bir yaklaşım sunarak, Aspose.Cells kütüphanesini kullanarak SXC verilerinin SQL formatına sorunsuz bir şekilde kaydedilmesini sağlar; tüm bunlar verimli ve özelleştirilebilir Python kod aracılığıyla gerçekleştirilir.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart SXC files to SQL Converter for Python., Convert SXC to SQL in Python., SXC files to SQL Conversion in Python., Leverage intelligent data processing to automatically parse and save SXC into SQL format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="SXC\'i Python Excel Kitaplığı\'nda SQL\'e dönüştürün" h2="SXC\'i SQL\'e dönüştürmek için yüksek hızlı Python excel kitaplığı. Python\'de üst düzey, platformdan bağımsız yazılım geliştirmek için API excel dönüşümümüzü kullanın." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="SQL" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -28,7 +28,7 @@ SXC'i SQL'e dönüştürmek için kolay adımları izleyin. SXC dosyanızı yük
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="SXC\'i Python Excel Kitaplığı aracılığıyla SQL\'e Dönüştürmek için Örnek Kod" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="sxc" outformat="sql" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="SXC\'i Python Excel Kitaplığı aracılığıyla SQL\'e Dönüştürmek için Örnek Kod" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="sxc" outformat="sql" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="SXC\'i SQL\'e Dönüştürme" %}}
 

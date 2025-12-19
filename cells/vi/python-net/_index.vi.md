@@ -1,8 +1,8 @@
 ---
-title:  Python Bảng tính Excel API - Aspose
+title: Python Bảng tính Excel API - Aspose.Cells for Python via .NET
 weight: 2800
-description: Thư viện Python để tạo, sửa chữa, hợp nhất, phân tích và chuyển đổi các tệp excel. Chuyển đổi excel sang PDF, JSON, HTML, TXT và các định dạng phổ biến khác.
-keywords: [Python Aspose.Cells Create repair merge convert JSON Excel XML PDF HTML TSV SQL ODS CSV TSV PNG JPEG and more formats]
+description: Thư viện Aspose.Cells for Python via .NET dùng để tạo, sửa chữa, hợp nhất, phân tích cú pháp và chuyển đổi các tệp Excel. Thư viện mạnh mẽ API này cung cấp một giải pháp hợp lý và hiệu quả để tạo, sửa chữa, hợp nhất, phân tích cú pháp và chuyển đổi các tệp Excel, đáp ứng nhu cầu cụ thể của nhà phát triển với độ chính xác cao.
+keywords: [Aspose.Cells for Python via .NET Create repair merge convert JSON Excel XML PDF HTML TSV SQL ODS CSV TSV PNG JPEG and more formats]
 ---
 {{< blocks/products/pf/main-wrap-class >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Python API phân tích bảng tính Excel" h2="Tạo, đọc, viết hoặc thao tác trên bảng tính cũng như xuất tệp Excel sang nhiều định dạng trong ứng dụng Python." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/cells/headers/aspose_cells-for-python-via-net.svg" pfName="Aspose.Cells" subTitlepfName="for Python via .NET" downloadUrl="https://releases.aspose.com/cells/python-net/" >}}

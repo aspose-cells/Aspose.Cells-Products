@@ -1,7 +1,7 @@
 ---
 title: C++ TXT 轉 PRN - TXT 轉 PRN 轉換器
-description: Aspose Excel。使用 Aspose.Cells 快速輕鬆地將 TXT 轉換為 PRN。C++ TXT 轉換為 PRN。 C++ 將 TXT 儲存到 PRN。使用 C++ 將 TXT 儲存為 PRN。
-keywords: [Aspose Excel., C++ Aspose.Cells., Convert TXT to PRN in C++., Save TXT to PRN using C++., C++ TXT to PRN saveformat., TXT to PRN Converter., C++ Save TXT as PRN]
+description: Aspose Excel。此綜合解決方案為 C++ 開發人員提供了一種完全整合的方法，可將 TXT 轉換為 PRN 格式，從而能夠使用 Aspose.Cells 庫將 TXT 資料無縫保存為 PRN 格式，所有這些都透過高效能客製化的 081533481 1081481 0813481。
+keywords: [Aspose Excel., C++ Aspose.Cells., Smart TXT files to PRN Converter for C++., Convert TXT to PRN in C++., TXT files to PRN Conversion in C++., Leverage intelligent data processing to automatically parse and save TXT into PRN format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="將 TXT 轉換為 C++ 中的 PRN" h2="使用 C++ 函式庫進行高效能 TXT 到 PRN 轉換，無需安裝 Microsoft Excel、OpenOffice 或 Adobe Acrobat。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" sourceAdditionalConversionTag="" additionalConversionTag="PRN" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -26,7 +26,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="將 TXT 儲存到 C++ 中的 PRN" %}}
+{{% blocks/products/pf/agp/content h2="將 TXT 儲存到 PRN C++" %}}
 
 以下範例示範如何將 TXT 轉換為 C++ 中的 PRN。
 {{% blocks/products/pf/agp/text %}}
@@ -37,25 +37,25 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="將 TXT 轉換為 PRN 的範例程式碼" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="txt" outformat="prn" IsLandingPage="true" language="cpp" %}}
+{{% cells-convert title="將 TXT 轉換為 PRN 的範例程式碼" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="txt" outformat="prn" IsLandingPage="true" language="cpp" %}}
 
 {{% blocks/products/pf/agp/content h2="如何透過 C++ 將 TXT 轉換為 PRN" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
-需要以程式方式將 TXT 檔案轉換為 PRN？ C++ 開發人員只需幾行程式碼即可輕鬆將 TXT 轉換為 PRN。
+需要以程式方式將 TXT 檔案轉換為 PRN 檔案嗎？ C++ 開發人員只需幾行程式碼即可輕鬆將 TXT 檔案轉換為 PRN 檔案。
 
 {{% /blocks/products/pf/agp/text %}}
 
 1. 安裝“Aspose.Cells for C++”。
 1. 將庫引用（導入庫）新增至您的 C++ 專案中。
 1. 使用工作簿載入 TXT 檔案。
-1. 透過呼叫 Save() 方法將 TXT 轉換為 PRN。
+1. 呼叫 Save() 方法將 TXT 轉換為 PRN。
 1. 取得TXT到PRN的轉換結果。
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="C++庫將TXT轉換為PRN" %}}
+{{% blocks/products/pf/agp/content h2="使用 C++ 庫將 TXT 轉換為 PRN" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
@@ -73,7 +73,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% blocks/products/pf/agp/text %}}
 
-在執行 C++ 轉換範例程式碼之前，請確保您符合以下先決條件。
+在執行 C++ 轉換範例程式碼之前，請確保您具備以下先決條件。
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -85,7 +85,7 @@ PM> Install-Package Aspose.Cells.Cpp
 <!-- aboutfile Starts -->
     {{< blocks/products/pf/agp/about-file-section >}}
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="TXT" readMoreLink="https://docs.fileformat.com/word-processing/txt/" >}}副檔名為 .TXT 的檔案表示包含行形式的純文字的文字文件。文字文件中的段落由回車符識別，用於更好地排列文件內容。標準文字文件可以在不同作業系統上的任何文字編輯器或文字處理應用程式中開啟。此類文件中包含的所有文字都是人類可讀的格式，並由字元序列表示。{{< /blocks/products/pf/agp/i18n/about-file-text >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="PRN" readMoreLink="https://fileinfo.com/extension/prn/" >}}PRN 文件是使用「列印到文件」複選框建立的文件，該複選框出現在Windows 上的某些「列印」對話方塊中。它包含印表機、傳真機或其他裝置用於列印文件的一組特定於設備的指令。 PRN 檔案可能包含文字或二進位內容，具體取決於建立檔案的裝置。{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="PRN" readMoreLink="https://fileinfo.com/extension/prn/" >}}PRN 文件是使用「列印到文件」複選框建立的文件，該複選框出現在Windows 上的某些「列印」對話方塊中。特定於設備的指令。 PRN 檔案可能包含文字或二進位內容，具體取決於建立檔案的裝置。{{< /blocks/products/pf/agp/i18n/about-file-text >}}
     {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->
 
@@ -101,6 +101,7 @@ PM> Install-Package Aspose.Cells.Cpp
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/txt-to-pdf/" name="TXT 至 PDF" description="便攜式文件格式" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/txt-to-png/" name="TXT 至 PNG" description="手提網路圖形" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/txt-to-svg/" name="TXT 至 SVG" description="可縮放向量圖形" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/txt-to-tiff/" name="TXT 至 TIFF" description="標記影像格式" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/txt-to-tsv/" name="TXT 至 TSV" description="製表符分隔值" >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/txt-to-xls/" name="TXT 至 XLS" description="Excel 二進位格式" >}}

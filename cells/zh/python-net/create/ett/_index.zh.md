@@ -1,7 +1,7 @@
 ---
 title: 创建 ETT - 在 Python 中创建 ETT 文件
-description: Aspose Excel。Python Excel。Python 使用 Aspose.Cells 快速轻松地创建 ETT 文件。使用 Python Excel 库生成 ETT 文件。在 Python Excel 库中创建 ETT。Python ETT Creater。
-keywords: [Aspose Python Excel., Python Aspose.Cells., Python Create ETT file., Generate ETT file in Python Excel Library., Create ETT file using Python Excel Library., Write data to ETT file via Python Excel Library., Create a ETT file in Python Excel Library., Python Generate a ETT file., Python ETT Creater]
+description: Aspose Excel。使用 Aspose.Cells for Python via .NET 库，轻松生成和操作 ETT 文件。这款功能强大的 API 库提供了一种简化高效的解决方案，可直接在您的 Python 应用程序中创建、编辑和管理 ETT 文件，从而高精度地满足开发人员的特定需求。
+keywords: [Aspose Excel., Python Aspose.Cells., Python Create ETT file., Generate ETT file in Python., Write data to ETT file via Python., Python ETT Creater., Aspose.Cells for Python via .NET is a powerful library that enables developers to programmatically create, generate, and manipulate ETT files in Python]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="在 Python Excel 库中创建 ETT 文件" h2="用于创建 ETT 文件的高速 Python Excel 库。使用我们的 Excel 转换 API 在 Python 中开发高级、独立于平台的软件。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="ETT" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}

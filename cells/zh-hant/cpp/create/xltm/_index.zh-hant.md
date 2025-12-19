@@ -1,7 +1,7 @@
 ---
 title: 建立XLTM - 在C++中建立XLTM文件
-description: Aspose Excel。 C++ 使用 Aspose.Cells 快速輕鬆地建立 XLTM 檔案。使用 C++ 產生 XLTM 檔案。在 C++ 中建立 XLTM。在 C++ 中建立 XLTM。
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ Create XLTM file., Generate XLTM file in C++., Create XLTM file using C++., Write data to XLTM file via C++., Create a XLTM file in C++., C++ Generate a XLTM file., C++ XLTM Creater]
+description: Aspose Excel。使用 Aspose.Cells for C++ 函式庫，輕鬆產生和操作 XLTM 檔案。這款強大的 API 庫提供了一種簡化高效的解決方案，可直接在您的 C++ 應用程式中建立、編輯和管理 XLTM 文件，從而高精度地滿足開發人員的特定需求。
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ Create XLTM file., Generate XLTM file in C++., Write data to XLTM file via C++., C++ XLTM Creater., Aspose.Cells for C++ is a powerful library that enables developers to programmatically create, generate, and manipulate XLTM files in C++]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="在C++中建立XLTM文件" h2="使用 C++ 函式庫以程式設計方式建立本機高效能 XLTM 文件，無需 Microsoft Office。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLTM" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -45,6 +45,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 ```cs
 Aspose::Cells::Startup();
+//TIFF format is not supported
 
 // Create an object of the Workbook class.
 Workbook wkb;

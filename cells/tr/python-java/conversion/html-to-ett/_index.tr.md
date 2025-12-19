@@ -1,7 +1,7 @@
 ---
 title: Python HTML ETT'ye - HTML ETT'ye Dönüştürücü
-description: Aspose Excel'de. Python Excel'de. Aspose.Cells ile HTML'i hızlı ve kolay bir şekilde ETT'ye dönüştürün. Python HTML'i ETT'ye dönüştürün. Python HTML'i ETT'ye kaydedin. Python Excel Kitaplığını kullanarak HTML'i ETT olarak kaydedin.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert HTML to ETT in Python Excel Library., Save HTML to ETT using Python Excel Library., Python HTML to ETT saveformat., HTML to ETT Converter., Python Save HTML as ETT]
+description: Aspose Excel. Bu kapsamlı çözüm, Python geliştiricilerine HTML'i ETT formatına dönüştürmek için tamamen entegre bir yaklaşım sunarak, Aspose.Cells kütüphanesini kullanarak HTML verilerinin ETT formatına sorunsuz bir şekilde kaydedilmesini sağlar; tüm bunlar verimli ve özelleştirilebilir Python kod aracılığıyla gerçekleştirilir.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart HTML files to ETT Converter for Python., Convert HTML to ETT in Python., HTML files to ETT Conversion in Python., Leverage intelligent data processing to automatically parse and save HTML into ETT format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="HTML\'i Python Excel Kitaplığı\'nda ETT\'ye dönüştürün" h2="HTML\'i ETT\'ye dönüştürmek için yüksek hızlı Python excel kitaplığı. Bu, HTML, ETT ve diğer birçok formatı Python kullanarak içe ve dışa aktarmak için profesyonel bir yazılım çözümüdür." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="ETT" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -27,7 +27,7 @@ HTML'i ETT'ye dönüştürmek için kolay adımları izleyin. HTML dosyanızı y
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="HTML\'i Python Excel Kitaplığı aracılığıyla ETT\'ye Dönüştürmek için Örnek Kod" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="html" outformat="ett" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="HTML\'i Python Excel Kitaplığı aracılığıyla ETT\'ye Dönüştürmek için Örnek Kod" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="html" outformat="ett" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="HTML\'i Python aracılığıyla ETT\'ye dönüştürme" %}}
 

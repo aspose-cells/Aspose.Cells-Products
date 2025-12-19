@@ -1,7 +1,7 @@
 ---
 title: Python XLSB ila JSON - XLSB ila JSON Dönüştürücü
-description: Aspose Excel'de. Python Excel'de. Aspose.Cells ile hızlı ve kolay bir şekilde XLSB'i JSON'e dönüştürün. Python XLSB'i JSON'e dönüştürün. Python XLSB'i JSON'e kaydedin. XLSB'i 076112 olarak kaydedin Python Excel Kitaplığı'nı kullanarak 3481.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert XLSB to JSON in Python Excel Library., Save XLSB to JSON using Python Excel Library., Python XLSB to JSON saveformat., XLSB to JSON Converter., Python Save XLSB as JSON]
+description: Aspose Excel. Bu kapsamlı çözüm, Python geliştiricilerine XLSB'i JSON formatına dönüştürmek için tamamen entegre bir yaklaşım sunarak, XLSB verilerinin JSON formatına Aspose.Cells kütüphanesi kullanılarak sorunsuz bir şekilde kaydedilmesini sağlar; tüm bunlar verimli ve özelleştirilebilir Python kod aracılığıyla gerçekleştirilir.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart XLSB files to JSON Converter for Python., Convert XLSB to JSON in Python., XLSB files to JSON Conversion in Python., Leverage intelligent data processing to automatically parse and save XLSB into JSON format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="XLSB\'i Python Excel Kitaplığı\'nda JSON\'e dönüştürün" h2="XLSB\'i JSON\'e dönüştürmek için yüksek hızlı Python excel kitaplığı. Python\'de üst düzey, platformdan bağımsız yazılım geliştirmek için API excel dönüştürmemizi kullanın." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="JSON" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -28,7 +28,7 @@ XLSB'i JSON'e dönüştürmek için kolay adımları izleyin. XLSB dosyanızı y
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="XLSB\'i Python Excel Kitaplığı aracılığıyla JSON\'e Dönüştürmek için Örnek Kod" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsb" outformat="json" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="XLSB\'i Python Excel Kitaplığı aracılığıyla JSON\'e Dönüştürmek için Örnek Kod" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="xlsb" outformat="json" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="XLSB\'i JSON\'e Dönüştürme" %}}
 

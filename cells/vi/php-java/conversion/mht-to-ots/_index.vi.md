@@ -1,7 +1,7 @@
 ---
-title: PHP MHT sang OTS - Chuyển đổi MHT sang OTS
-description: Aspose Excel. Chuyển đổi MHT sang OTS nhanh chóng và dễ dàng với Aspose.Cells. PHP MHT sang OTS. PHP Lưu MHT vào OTS. Lưu MHT dưới dạng OTS bằng PHP.
-keywords: [Aspose Excel., PHP Aspose.Cells., Convert MHT to OTS in PHP., Save MHT to OTS using PHP., PHP MHT to OTS saveformat., MHT to OTS Converter., PHP Save MHT as OTS]
+title: PHP MHT sang OTS - Công cụ chuyển đổi MHT sang OTS
+description: Aspose Excel. Giải pháp toàn diện này cung cấp cho các nhà phát triển PHP một phương pháp tích hợp đầy đủ để chuyển đổi định dạng MHT sang định dạng OTS, cho phép lưu dữ liệu MHT vào định dạng OTS một cách liền mạch bằng thư viện Aspose.Cells, tất cả đều thông qua mã PHP hiệu quả và có thể tùy chỉnh.
+keywords: [Aspose Excel., PHP Aspose.Cells., Smart MHT files to OTS Converter for PHP., Convert MHT to OTS in PHP., MHT files to OTS Conversion in PHP., Leverage intelligent data processing to automatically parse and save MHT into OTS format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Chuyển đổi MHT sang OTS trong PHP" h2="Thư viện PHP tốc độ cao để chuyển đổi MHT sang OTS. Đây là giải pháp phần mềm chuyên nghiệp để nhập và xuất MHT, OTS và nhiều định dạng khác bằng PHP." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-php-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="OTS" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,13 +12,13 @@ keywords: [Aspose Excel., PHP Aspose.Cells., Convert MHT to OTS in PHP., Save MH
 
 {{% blocks/products/pf/agp/content h2="Chuyển đổi MHT sang OTS bằng PHP" %}}
 
-Làm cách nào để chuyển đổi MHT sang OTS? Với thư viện Aspose.Cells for PHP via Java, bạn có thể dễ dàng chuyển đổi MHT sang OTS theo chương trình chỉ với một vài dòng mã.[Aspose.Cells for PHP via Java](https://products.aspose.com/cells/php-java/) có khả năng xây dựng các ứng dụng đa nền tảng với khả năng tạo, sửa đổi, chuyển đổi, hiển thị và in tất cả các tệp Excel. PHP Excel API không chỉ chuyển đổi giữa các định dạng bảng tính mà còn có thể hiển thị các tệp Excel dưới dạng hình ảnh, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT và hơn thế nữa, do đó, nó trở thành một lựa chọn hoàn hảo để trao đổi tài liệu ở các định dạng tiêu chuẩn ngành.
+ Làm thế nào để chuyển đổi MHT sang OTS? Với thư viện Aspose.Cells for PHP via Java, bạn có thể dễ dàng chuyển đổi MHT sang OTS bằng lập trình chỉ với vài dòng mã.[Aspose.Cells for PHP via Java](https://products.aspose.com/cells/php-java/) PHP Excel API có khả năng xây dựng các ứng dụng đa nền tảng với khả năng tạo, chỉnh sửa, chuyển đổi, hiển thị và in tất cả các tệp Excel. Nó không chỉ chuyển đổi giữa các định dạng bảng tính mà còn có thể hiển thị các tệp Excel dưới dạng hình ảnh, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT và nhiều hơn nữa, do đó trở thành lựa chọn hoàn hảo để trao đổi tài liệu ở các định dạng tiêu chuẩn ngành.
  
 {{% /blocks/products/pf/agp/content %}}
 
 {{% blocks/products/pf/agp/content h2="Lưu MHT vào OTS trong PHP" %}}
 
-Ví dụ sau đây trình bày cách chuyển đổi MHT sang OTS trong PHP.
+Ví dụ sau đây minh họa cách chuyển đổi MHT sang OTS trong PHP.
 {{% blocks/products/pf/agp/text %}}
 
 Hãy làm theo các bước đơn giản để chuyển đổi MHT sang OTS. Tải lên tệp MHT của bạn, sau đó chỉ cần lưu nó dưới dạng tệp OTS. Đối với cả đọc MHT và ghi OTS, bạn có thể sử dụng tên tệp đủ điều kiện. Nội dung và định dạng OTS đầu ra sẽ giống hệt với tài liệu MHT gốc.
@@ -27,20 +27,20 @@ Hãy làm theo các bước đơn giản để chuyển đổi MHT sang OTS. T�
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Mã mẫu để chuyển đổi MHT sang OTS" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="mht" outformat="ots" IsLandingPage="true" language="phpjava" %}}
+{{% cells-convert title="Ví dụ mã để chuyển đổi MHT sang OTS" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="mht" outformat="ots" IsLandingPage="true" language="phpjava" %}}
 
-{{% blocks/products/pf/agp/content h2="Cách chuyển đổi MHT sang OTS qua PHP" %}}
+{{% blocks/products/pf/agp/content h2="Cách chuyển đổi MHT sang OTS bằng PHP" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
-Cần chuyển đổi tập tin MHT sang OTS theo chương trình? Các nhà phát triển PHP có thể dễ dàng tải và chuyển đổi MHT sang OTS chỉ bằng một vài dòng mã.
+Bạn cần chuyển đổi các tệp MHT sang OTS bằng lập trình? Các nhà phát triển PHP có thể dễ dàng tải và chuyển đổi MHT sang OTS chỉ với một vài dòng mã.
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Cài đặt 'Aspose.Cells for PHP via Java'.
 1.  Thêm tham chiếu thư viện (nhập thư viện) vào dự án PHP của bạn.
 1.  Tải tệp MHT với một phiên bản của Workbook.
-1.  Chuyển đổi MHT sang OTS bằng cách gọi phương thức lưu của Workbook.
+1.  Chuyển đổi định dạng MHT sang OTS bằng cách gọi phương thức save của Workbook.
 1.  Nhận kết quả chuyển đổi từ MHT sang OTS.
 
 {{% /blocks/products/pf/agp/content %}}
@@ -63,7 +63,7 @@ Có ba tùy chọn để cài đặt "Aspose.Cells for PHP via Java" vào hệ t
 
 {{% blocks/products/pf/agp/text %}}
 
-Aspose.Cells for PHP via Java là nền tảng độc lập API và có thể được sử dụng trên mọi nền tảng (Windows, Linux, MacOS, v.v.) có cài đặt phiên bản PHP 7 trở lên. Máy phải có phiên bản Oracle JDK 7 trở lên trước khi thiết lập cài đặt.
+ Aspose.Cells for PHP via Java là nền tảng độc lập API và có thể được sử dụng trên bất kỳ nền tảng nào (Windows, Linux, MacOS, v.v.) nơi đã cài đặt PHP phiên bản 7 trở lên. Máy tính phải có Oracle JDK phiên bản 7 trở lên trước khi thiết lập cài đặt.
  
 {{% /blocks/products/pf/agp/text %}}
 

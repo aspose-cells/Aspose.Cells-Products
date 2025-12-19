@@ -1,7 +1,7 @@
 ---
 title: Python HTM - CSV - HTM - CSV Dönüştürücü
-description: Aspose Excel'de. Python Excel'de. Aspose.Cells ile hızlı ve kolay bir şekilde HTM'yi CSV'e dönüştürün. Python HTM'yi CSV'e dönüştürün. Python HTM'yi CSV'e kaydedin. Python Excel Kitaplığını kullanarak HTM'yi CSV olarak kaydedin.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert HTM to CSV in Python Excel Library., Save HTM to CSV using Python Excel Library., Python HTM to CSV saveformat., HTM to CSV Converter., Python Save HTM as CSV]
+description: Aspose Excel. Bu kapsamlı çözüm, Python geliştiricilere HTM'yi CSV formatına dönüştürmek için tamamen entegre bir yaklaşım sunarak, Aspose.Cells kütüphanesini kullanarak HTM verilerinin CSV formatına sorunsuz bir şekilde kaydedilmesini sağlar; tüm bunlar verimli ve özelleştirilebilir Python kod aracılığıyla gerçekleştirilir.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart HTM files to CSV Converter for Python., Convert HTM to CSV in Python., HTM files to CSV Conversion in Python., Leverage intelligent data processing to automatically parse and save HTM into CSV format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Python Excel Kitaplığı\'nda HTM\'yi CSV\'e dönüştürün" h2="HTM\'yi CSV\'e dönüştürmek için yüksek hızlı Python excel kütüphanesi. Python\'de yüksek seviyeli, platformdan bağımsız yazılım geliştirmek için API excel dönüşümümüzü kullanın." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="CSV" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -28,7 +28,7 @@ HTM'yi CSV'e dönüştürmek için kolay adımları izleyin. HTM dosyanızı yü
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="HTM\'yi Python Excel Kitaplığı aracılığıyla CSV\'e Dönüştürmek için Örnek Kod" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="htm" outformat="csv" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="HTM\'yi Python Excel Kitaplığı aracılığıyla CSV\'e Dönüştürmek için Örnek Kod" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="htm" outformat="csv" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="HTM\'yi CSV\'e Dönüştürme" %}}
 

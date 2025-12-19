@@ -1,7 +1,7 @@
 ---
 title: Tạo OTS - Tạo file OTS trong Python
-description:  Aspose Excel. Python Excel. Python Tạo File OTS nhanh chóng và dễ dàng với Aspose.Cells. Tạo file OTS bằng Thư viện Excel Python. Tạo OTS trong Thư viện Excel Python. Python Người tạo OTS.
-keywords: [Aspose Python Excel., Python Aspose.Cells., Python Create OTS file., Generate OTS file in Python Excel Library., Create OTS file using Python Excel Library., Write data to OTS file via Python Excel Library., Create a OTS file in Python Excel Library., Python Generate a OTS file., Python OTS Creater]
+description: Aspose Excel. Dễ dàng tạo và thao tác các tệp OTS với thư viện Aspose.Cells for Python via .NET. Công cụ mạnh mẽ này API cung cấp giải pháp hợp lý và hiệu quả để tạo, chỉnh sửa và quản lý các tệp OTS trực tiếp trong ứng dụng Python của bạn, đáp ứng nhu cầu cụ thể của nhà phát triển với độ chính xác cao.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Create OTS file., Generate OTS file in Python., Write data to OTS file via Python., Python OTS Creater., Aspose.Cells for Python via .NET is a powerful library that enables developers to programmatically create, generate, and manipulate OTS files in Python]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Tạo file OTS trong thư viện Excel Python" h2="Thư viện Excel Python tốc độ cao tạo file OTS. Sử dụng chuyển đổi excel API của chúng tôi để phát triển phần mềm độc lập nền tảng, cấp cao trong Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="OTS" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}

@@ -1,7 +1,7 @@
 ---
 title: Python MHT sang HTML - Bộ chuyển đổi MHT sang HTML
-description: Aspose Excel. Python Excel. Chuyển đổi MHT sang HTML nhanh chóng và dễ dàng với Aspose.Cells. Python MHT sang HTML. Python Lưu MHT thành HTML. Lưu MHT thành HTML sử dụng Python Excel Library.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert MHT to HTML in Python Excel Library., Save MHT to HTML using Python Excel Library., Python MHT to HTML saveformat., MHT to HTML Converter., Python Save MHT as HTML]
+description: Aspose Excel. Giải pháp toàn diện này cung cấp cho các nhà phát triển Python một phương pháp tích hợp đầy đủ để chuyển đổi MHT sang định dạng HTML, cho phép lưu dữ liệu MHT liền mạch vào định dạng HTML bằng cách sử dụng thư viện Aspose.Cells, tất cả thông qua mã Python hiệu quả và có thể tùy chỉnh.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart MHT files to HTML Converter for Python., Convert MHT to HTML in Python., MHT files to HTML Conversion in Python., Leverage intelligent data processing to automatically parse and save MHT into HTML format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Chuyển đổi MHT sang HTML trong Python Thư viện Excel" h2="Thư viện excel Python tốc độ cao chuyển đổi MHT sang HTML. Đây là giải pháp phần mềm chuyên nghiệp xuất nhập MHT, HTML và nhiều định dạng khác sử dụng Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="HTML" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -27,7 +27,7 @@ Hãy làm theo các bước đơn giản để chuyển đổi MHT thành HTML. 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Mã mẫu chuyển đổi MHT sang HTML qua Python Thư viện Excel" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="mht" outformat="html" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="Mã mẫu chuyển đổi MHT sang HTML qua Python Thư viện Excel" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="mht" outformat="html" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="Cách chuyển đổi MHT sang HTML qua Python" %}}
 

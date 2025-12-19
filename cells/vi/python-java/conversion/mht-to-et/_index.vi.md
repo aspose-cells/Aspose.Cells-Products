@@ -1,7 +1,7 @@
 ---
 title: Python MHT sang ET - Bộ chuyển đổi MHT sang ET
-description: Aspose Excel. Python Excel. Chuyển đổi MHT sang ET nhanh chóng và dễ dàng với Aspose.Cells. Python MHT sang ET. Python Lưu MHT về ET. Lưu MHT dưới dạng ET bằng Thư viện Excel Python.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert MHT to ET in Python Excel Library., Save MHT to ET using Python Excel Library., Python MHT to ET saveformat., MHT to ET Converter., Python Save MHT as ET]
+description: Aspose Excel. Giải pháp toàn diện này cung cấp cho các nhà phát triển Python một phương pháp tích hợp đầy đủ để chuyển đổi định dạng MHT sang định dạng ET, cho phép lưu dữ liệu MHT vào định dạng ET một cách liền mạch bằng thư viện Aspose.Cells, tất cả thông qua mã Python hiệu quả và có thể tùy chỉnh.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart MHT files to ET Converter for Python., Convert MHT to ET in Python., MHT files to ET Conversion in Python., Leverage intelligent data processing to automatically parse and save MHT into ET format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Chuyển đổi MHT sang ET trong Thư viện Excel Python" h2="Thư viện excel Python tốc độ cao để chuyển đổi MHT sang ET. Đây là giải pháp phần mềm chuyên nghiệp để nhập xuất MHT, ET và nhiều định dạng khác sử dụng Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="ET" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -27,7 +27,7 @@ Hãy làm theo các bước đơn giản để chuyển đổi MHT sang ET. Tả
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Mã mẫu chuyển đổi MHT sang ET qua Thư viện Excel Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="mht" outformat="et" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="Mã mẫu chuyển đổi MHT sang ET qua Thư viện Excel Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="mht" outformat="et" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="Cách chuyển đổi MHT sang ET qua Python" %}}
 

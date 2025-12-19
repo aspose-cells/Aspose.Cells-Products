@@ -1,7 +1,7 @@
 ---
 title: Python EXCEL sang JPEG - Chuyển đổi EXCEL sang JPEG
-description: Aspose Excel. Python Excel. Chuyển EXCEL sang JPEG nhanh chóng và dễ dàng với Aspose.Cells. Python EXCEL sang JPEG. Python Lưu EXCEL thành JPEG. Lưu EXCEL thành JPEG sử dụng Python Thư viện Excel.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert EXCEL to JPEG in Python Excel Library., Save EXCEL to JPEG using Python Excel Library., Python EXCEL to JPEG saveformat., EXCEL to JPEG Converter., Python Save EXCEL as JPEG]
+description: Aspose Excel. Giải pháp toàn diện này cung cấp cho các nhà phát triển Python một phương pháp tích hợp đầy đủ để chuyển đổi EXCEL sang định dạng JPEG, cho phép lưu dữ liệu EXCEL liền mạch vào định dạng JPEG bằng cách sử dụng thư viện Aspose.Cells, tất cả thông qua mã Python hiệu quả và có thể tùy chỉnh.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart EXCEL files to JPEG Converter for Python., Convert EXCEL to JPEG in Python., EXCEL files to JPEG Conversion in Python., Leverage intelligent data processing to automatically parse and save EXCEL into JPEG format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Chuyển EXCEL thành JPEG trong Python Thư viện Excel" h2="Thư viện excel Python tốc độ cao để chuyển đổi EXCEL sang JPEG. Sử dụng chuyển đổi excel API của chúng tôi để phát triển phần mềm độc lập nền tảng, cấp cao trong Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="JPEG" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -28,7 +28,7 @@ Hãy làm theo các bước đơn giản để chuyển đổi EXCEL thành JPEG
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Mã mẫu chuyển đổi EXCEL sang JPEG qua Python Thư viện Excel" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsx" outformat="jpg" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Mã mẫu chuyển đổi EXCEL sang JPEG qua Python Thư viện Excel" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="xlsx" outformat="jpg" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="Cách chuyển đổi EXCEL thành JPEG" %}}
 

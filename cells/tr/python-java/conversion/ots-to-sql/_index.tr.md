@@ -1,7 +1,7 @@
 ---
 title: Python OTS'den SQL'e - OTS'den SQL'e Dönüştürücü
-description: Aspose Excel'de. Python Excel'de. Aspose.Cells ile OTS'yi hızlı ve kolay bir şekilde SQL'e dönüştürün. Python OTS'den SQL'e. Python OTS'yi SQL'e kaydedin. Python Excel Kütüphanesini kullanarak OTS'yi SQL olarak kaydedin.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert OTS to SQL in Python Excel Library., Save OTS to SQL using Python Excel Library., Python OTS to SQL saveformat., OTS to SQL Converter., Python Save OTS as SQL]
+description: Aspose Excel. Bu kapsamlı çözüm, Python geliştiricilere OTS'yi SQL formatına dönüştürmek için tamamen entegre bir yaklaşım sunarak, Aspose.Cells kütüphanesini kullanarak OTS verilerinin SQL formatına sorunsuz bir şekilde kaydedilmesini sağlar; tüm bunlar verimli ve özelleştirilebilir Python kod aracılığıyla gerçekleştirilir.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart OTS files to SQL Converter for Python., Convert OTS to SQL in Python., OTS files to SQL Conversion in Python., Leverage intelligent data processing to automatically parse and save OTS into SQL format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Python Excel Kitaplığı\'nda OTS\'yi SQL\'e dönüştürün" h2="OTS\'yi SQL\'e dönüştürmek için yüksek hızlı Python excel kitaplığı. Bu, Python\'i kullanarak OTS, SQL ve diğer birçok formatı içe ve dışa aktarmak için profesyonel bir yazılım çözümüdür." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="SQL" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -27,7 +27,7 @@ OTS'yi SQL'e dönüştürmek için kolay adımları izleyin. OTS dosyanızı yü
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="OTS\'yi Python Excel Kitaplığı aracılığıyla SQL\'e Dönüştürmek için Örnek Kod" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="ots" outformat="sql" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="OTS\'yi Python Excel Kitaplığı aracılığıyla SQL\'e Dönüştürmek için Örnek Kod" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="ots" outformat="sql" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="OTS\'yi Python aracılığıyla SQL\'e Dönüştürme" %}}
 

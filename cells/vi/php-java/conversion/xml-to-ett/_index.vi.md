@@ -1,7 +1,7 @@
 ---
 title: PHP XML sang ETT - Công cụ chuyển đổi XML sang ETT
-description: Aspose Excel. Chuyển đổi XML sang ETT nhanh chóng và dễ dàng với Aspose.Cells. PHP XML sang ETT. PHP Lưu XML vào ETT. Lưu XML dưới dạng ETT bằng PHP.
-keywords: [Aspose Excel., PHP Aspose.Cells., Convert XML to ETT in PHP., Save XML to ETT using PHP., PHP XML to ETT saveformat., XML to ETT Converter., PHP Save XML as ETT]
+description: Aspose Excel. Giải pháp toàn diện này cung cấp cho các nhà phát triển PHP một phương pháp tích hợp đầy đủ để chuyển đổi XML sang định dạng ETT, cho phép lưu dữ liệu XML vào định dạng ETT một cách liền mạch bằng thư viện Aspose.Cells, tất cả đều thông qua mã PHP hiệu quả và có thể tùy chỉnh.
+keywords: [Aspose Excel., PHP Aspose.Cells., Smart XML files to ETT Converter for PHP., Convert XML to ETT in PHP., XML files to ETT Conversion in PHP., Leverage intelligent data processing to automatically parse and save XML into ETT format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Chuyển đổi XML sang ETT trong PHP" h2="Thư viện PHP tốc độ cao để chuyển đổi XML sang ETT. Đây là giải pháp phần mềm chuyên nghiệp để nhập và xuất XML, ETT và nhiều định dạng khác bằng PHP." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-php-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="ETT" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,13 +12,13 @@ keywords: [Aspose Excel., PHP Aspose.Cells., Convert XML to ETT in PHP., Save XM
 
 {{% blocks/products/pf/agp/content h2="Chuyển đổi XML sang ETT bằng PHP" %}}
 
-Làm cách nào để chuyển đổi XML sang ETT? Với thư viện Aspose.Cells for PHP via Java, bạn có thể dễ dàng chuyển đổi XML sang ETT theo chương trình chỉ bằng một vài dòng mã.[Aspose.Cells for PHP via Java](https://products.aspose.com/cells/php-java/) có khả năng xây dựng các ứng dụng đa nền tảng với khả năng tạo, sửa đổi, chuyển đổi, hiển thị và in tất cả các tệp Excel. PHP Excel API không chỉ chuyển đổi giữa các định dạng bảng tính mà còn có thể hiển thị các tệp Excel dưới dạng hình ảnh, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT và hơn thế nữa, do đó, nó trở thành một lựa chọn hoàn hảo để trao đổi tài liệu ở các định dạng tiêu chuẩn ngành.
+ Làm thế nào để chuyển đổi XML sang ETT? Với thư viện Aspose.Cells for PHP via Java, bạn có thể dễ dàng chuyển đổi XML sang ETT bằng lập trình chỉ với vài dòng mã.[Aspose.Cells for PHP via Java](https://products.aspose.com/cells/php-java/) PHP Excel API có khả năng xây dựng các ứng dụng đa nền tảng với khả năng tạo, chỉnh sửa, chuyển đổi, hiển thị và in tất cả các tệp Excel. Nó không chỉ chuyển đổi giữa các định dạng bảng tính mà còn có thể hiển thị các tệp Excel dưới dạng hình ảnh, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT và nhiều hơn nữa, do đó trở thành lựa chọn hoàn hảo để trao đổi tài liệu ở các định dạng tiêu chuẩn ngành.
  
 {{% /blocks/products/pf/agp/content %}}
 
 {{% blocks/products/pf/agp/content h2="Lưu XML vào ETT trong PHP" %}}
 
-Ví dụ sau đây trình bày cách chuyển đổi XML sang ETT trong PHP.
+Ví dụ sau đây minh họa cách chuyển đổi XML sang ETT trong PHP.
 {{% blocks/products/pf/agp/text %}}
 
 Hãy làm theo các bước đơn giản để chuyển đổi XML sang ETT. Tải tệp XML của bạn lên, sau đó chỉ cần lưu tệp đó dưới dạng tệp ETT. Đối với cả việc đọc XML và ghi ETT, bạn có thể sử dụng tên tệp đủ điều kiện. Nội dung và định dạng ETT đầu ra sẽ giống hệt với tài liệu XML gốc.
@@ -27,20 +27,20 @@ Hãy làm theo các bước đơn giản để chuyển đổi XML sang ETT. T�
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Mã mẫu để chuyển đổi XML sang ETT" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xml" outformat="ett" IsLandingPage="true" language="phpjava" %}}
+{{% cells-convert title="Ví dụ mã để chuyển đổi XML sang ETT" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="xml" outformat="ett" IsLandingPage="true" language="phpjava" %}}
 
-{{% blocks/products/pf/agp/content h2="Cách chuyển đổi XML sang ETT qua PHP" %}}
+{{% blocks/products/pf/agp/content h2="Cách chuyển đổi XML sang ETT bằng PHP" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
-Cần chuyển đổi tệp XML sang ETT theo chương trình? Các nhà phát triển PHP có thể dễ dàng tải và chuyển đổi XML sang ETT chỉ bằng một vài dòng mã.
+Bạn cần chuyển đổi các tệp XML sang định dạng ETT bằng lập trình? Các nhà phát triển PHP có thể dễ dàng tải và chuyển đổi XML sang ETT chỉ với một vài dòng mã.
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Cài đặt 'Aspose.Cells for PHP via Java'.
 1.  Thêm tham chiếu thư viện (nhập thư viện) vào dự án PHP của bạn.
 1.  Tải tệp XML bằng một phiên bản của Workbook.
-1.  Chuyển đổi XML sang ETT bằng cách gọi phương thức lưu của Workbook.
+1.  Chuyển đổi XML sang định dạng ETT bằng cách gọi phương thức save của Workbook.
 1.  Nhận kết quả chuyển đổi XML sang ETT.
 
 {{% /blocks/products/pf/agp/content %}}
@@ -63,7 +63,7 @@ Có ba tùy chọn để cài đặt "Aspose.Cells for PHP via Java" vào hệ t
 
 {{% blocks/products/pf/agp/text %}}
 
-Aspose.Cells for PHP via Java là nền tảng độc lập API và có thể được sử dụng trên mọi nền tảng (Windows, Linux, MacOS, v.v.) có cài đặt phiên bản PHP 7 trở lên. Máy phải có phiên bản Oracle JDK 7 trở lên trước khi thiết lập cài đặt.
+ Aspose.Cells for PHP via Java là nền tảng độc lập API và có thể được sử dụng trên bất kỳ nền tảng nào (Windows, Linux, MacOS, v.v.) nơi đã cài đặt PHP phiên bản 7 trở lên. Máy tính phải có Oracle JDK phiên bản 7 trở lên trước khi thiết lập cài đặt.
  
 {{% /blocks/products/pf/agp/text %}}
 

@@ -1,7 +1,7 @@
 ---
 title: Python ODS ถึง XPS - ODS ถึง XPS ตัวแปลง
-description: Aspose เอ็กเซล. Python เอ็กเซล. แปลง ODS เป็น XPS อย่างรวดเร็วและง่ายดายด้วย Aspose.Cells Python ODS ถึง XPS Python บันทึก ODS ถึง XPS บันทึก ODS เป็น 076112 3481 ใช้ Python ไลบรารี Excel
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert ODS to XPS in Python Excel Library., Save ODS to XPS using Python Excel Library., Python ODS to XPS saveformat., ODS to XPS Converter., Python Save ODS as XPS]
+description: Aspose Excel โซลูชันที่ครอบคลุมนี้มอบแนวทางแบบบูรณาการอย่างสมบูรณ์แก่ผู้พัฒนา Python ในการแปลง ODS เป็นรูปแบบ XPS ทำให้สามารถบันทึกข้อมูล ODS ลงในรูปแบบ XPS ได้อย่างราบรื่นโดยใช้ไลบรารี Aspose.Cells ทั้งหมดนี้ผ่านโค้ด Python ที่มีประสิทธิภาพและปรับแต่งได้
+keywords: [Aspose Excel., Python Aspose.Cells., Smart ODS files to XPS Converter for Python., Convert ODS to XPS in Python., ODS files to XPS Conversion in Python., Leverage intelligent data processing to automatically parse and save ODS into XPS format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="แปลง ODS เป็น XPS ในไลบรารี Excel Python" h2="ไลบรารี Excel Python ความเร็วสูงสำหรับการแปลง ODS เป็น XPS นี่คือโซลูชันซอฟต์แวร์ระดับมืออาชีพสำหรับการนำเข้าและส่งออก ODS, XPS และรูปแบบอื่นๆ อีกมากมายโดยใช้ Python" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="XPS" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -27,7 +27,7 @@ keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert O
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="โค้ดตัวอย่างในการแปลง ODS เป็น XPS ผ่าน Python Excel Library" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="ods" outformat="xps" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="โค้ดตัวอย่างในการแปลง ODS เป็น XPS ผ่าน Python Excel Library" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="ods" outformat="xps" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="วิธีแปลง ODS เป็น XPS ผ่าน Python" %}}
 

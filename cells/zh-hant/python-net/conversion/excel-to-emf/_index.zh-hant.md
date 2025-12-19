@@ -1,7 +1,7 @@
 ---
 title: Python EXCEL 到 EMF - EXCEL 到 EMF 轉換器
-description: Aspose Excel。 Python Excel。使用 Aspose.Cells 快速輕鬆地將 EXCEL 轉換為 EMF。 Python EXCEL 到 EMF。 81。
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert EXCEL to EMF in Python Excel Library., Save EXCEL to EMF using Python Excel Library., Python EXCEL to EMF saveformat., EXCEL to EMF Converter., Python Save EXCEL as EMF]
+description: Aspose Excel。此綜合解決方案為 Python 開發人員提供了一種完全整合的方法，可將 EXCEL 轉換為 EMF 格式，從而能夠使用 Aspose.Cells 庫將 EXCEL 資料無縫保存為 EMF 格式，所有這些程式庫將 EXCEL 資料無縫儲存為 EMF 格式，所有這些程式碼都透過高效且可自訂且可自訂153 153 153 153。
+keywords: [Aspose Excel., Python Aspose.Cells., Smart EXCEL files to EMF Converter for Python., Convert EXCEL to EMF in Python., EXCEL files to EMF Conversion in Python., Leverage intelligent data processing to automatically parse and save EXCEL into EMF format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="將 EXCEL 轉換為 Python Excel 庫中的 EMF" h2="高速 Python Excel 函式庫，用於將 EXCEL 轉換為 EMF。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="EMF" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -28,7 +28,7 @@ keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert E
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="透過 Python Excel 庫將 EXCEL 轉換為 EMF 的範例程式碼" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsx" outformat="emf" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="透過 Python Excel 庫將 EXCEL 轉換為 EMF 的範例程式碼" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="xlsx" outformat="emf" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="如何將EXCEL轉換為EMF" %}}
 

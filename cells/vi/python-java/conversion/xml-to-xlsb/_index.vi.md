@@ -1,7 +1,7 @@
 ---
 title: Python XML sang XLSB - Chuyển đổi XML sang XLSB
-description: Aspose Excel. Python Excel. Chuyển đổi XML sang XLSB nhanh chóng và dễ dàng với Aspose.Cells. Python XML sang XLSB. Python Lưu XML thành XLSB. Lưu XML dưới dạng XLSB sử dụng Python Thư viện Excel.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert XML to XLSB in Python Excel Library., Save XML to XLSB using Python Excel Library., Python XML to XLSB saveformat., XML to XLSB Converter., Python Save XML as XLSB]
+description: Aspose Excel. Giải pháp toàn diện này cung cấp cho các nhà phát triển Python một phương pháp tích hợp đầy đủ để chuyển đổi XML sang định dạng XLSB, cho phép lưu dữ liệu XML liền mạch vào định dạng XLSB bằng thư viện Aspose.Cells, tất cả thông qua mã Python hiệu quả và có thể tùy chỉnh.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart XML files to XLSB Converter for Python., Convert XML to XLSB in Python., XML files to XLSB Conversion in Python., Leverage intelligent data processing to automatically parse and save XML into XLSB format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Chuyển đổi XML thành XLSB trong Thư viện Excel Python" h2="Thư viện excel Python tốc độ cao chuyển đổi XML sang XLSB. Đây là giải pháp phần mềm chuyên nghiệp nhập xuất XML, XLSB và nhiều định dạng khác sử dụng Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSB" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -27,7 +27,7 @@ Hãy làm theo các bước đơn giản để chuyển đổi XML thành XLSB. 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Mã mẫu chuyển đổi XML sang XLSB qua Python Thư viện Excel" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xml" outformat="xlsb" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="Mã mẫu chuyển đổi XML sang XLSB qua Python Thư viện Excel" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="xml" outformat="xlsb" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="Cách chuyển đổi XML sang XLSB qua Python" %}}
 

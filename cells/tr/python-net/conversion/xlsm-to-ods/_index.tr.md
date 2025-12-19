@@ -1,7 +1,7 @@
 ---
 title: Python XLSM ila ODS - XLSM ila ODS Dönüştürücü
-description: Aspose Excel'de. Python Excel'de. Aspose.Cells ile hızlı ve kolay bir şekilde XLSM'i ODS'e dönüştürün. Python XLSM'i ODS'e dönüştürün. Python XLSM'i ODS'e kaydedin. XLSM'i 076112 olarak kaydedin Python Excel Kitaplığı'nı kullanarak 3481.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert XLSM to ODS in Python Excel Library., Save XLSM to ODS using Python Excel Library., Python XLSM to ODS saveformat., XLSM to ODS Converter., Python Save XLSM as ODS]
+description: Aspose Excel. Bu kapsamlı çözüm, Python geliştiricilerine XLSM'i ODS formatına dönüştürmek için tamamen entegre bir yaklaşım sunarak, XLSM verilerinin ODS formatına Aspose.Cells kütüphanesi kullanılarak sorunsuz bir şekilde kaydedilmesini sağlar; tüm bunlar verimli ve özelleştirilebilir Python kod aracılığıyla gerçekleştirilir.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart XLSM files to ODS Converter for Python., Convert XLSM to ODS in Python., XLSM files to ODS Conversion in Python., Leverage intelligent data processing to automatically parse and save XLSM into ODS format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="XLSM\'i Python Excel Kitaplığı\'nda ODS\'e dönüştürün" h2="XLSM\'i ODS\'e dönüştürmek için yüksek hızlı Python excel kitaplığı. Python\'de üst düzey, platformdan bağımsız yazılım geliştirmek için API excel dönüştürmemizi kullanın." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="ODS" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -28,7 +28,7 @@ XLSM'i ODS'e dönüştürmek için kolay adımları izleyin. XLSM dosyanızı y�
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="XLSM\'i Python Excel Kitaplığı aracılığıyla ODS\'e Dönüştürmek için Örnek Kod" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsm" outformat="ods" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="XLSM\'i Python Excel Kitaplığı aracılığıyla ODS\'e Dönüştürmek için Örnek Kod" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="xlsm" outformat="ods" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="XLSM\'i ODS\'e Dönüştürme" %}}
 

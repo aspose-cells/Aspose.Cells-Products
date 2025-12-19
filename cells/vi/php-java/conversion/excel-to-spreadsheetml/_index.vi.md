@@ -1,7 +1,7 @@
 ---
-title: PHP EXCEL sang SPREADSHEETML - Công cụ chuyển đổi EXCEL sang SPREADSHEETML
-description: Aspose Excel. Chuyển EXCEL sang SPREADSHEETML nhanh chóng và dễ dàng với Aspose.Cells. PHP EXCEL sang SPREADSHEETML. PHP Lưu EXCEL vào SPREADSHEETML. Lưu EXCEL dưới dạng SPREADSHEETML bằng PHP.
-keywords: [Aspose Excel., PHP Aspose.Cells., Convert EXCEL to SPREADSHEETML in PHP., Save EXCEL to SPREADSHEETML using PHP., PHP EXCEL to SPREADSHEETML saveformat., EXCEL to SPREADSHEETML Converter., PHP Save EXCEL as SPREADSHEETML]
+title: Chuyển đổi Excel sang bảng tính XML bằng PHP - Công cụ chuyển đổi Excel sang bảng tính XML
+description: Aspose Excel. Giải pháp toàn diện này cung cấp cho các nhà phát triển PHP một phương pháp tích hợp đầy đủ để chuyển đổi EXCEL sang định dạng SPREADSHEETML, cho phép lưu dữ liệu EXCEL vào định dạng SPREADSHEETML một cách liền mạch bằng cách sử dụng thư viện Aspose.Cells, tất cả đều thông qua mã PHP hiệu quả và có thể tùy chỉnh.
+keywords: [Aspose Excel., PHP Aspose.Cells., Smart EXCEL files to SPREADSHEETML Converter for PHP., Convert EXCEL to SPREADSHEETML in PHP., EXCEL files to SPREADSHEETML Conversion in PHP., Leverage intelligent data processing to automatically parse and save EXCEL into SPREADSHEETML format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Chuyển đổi EXCEL sang SPREADSHEETML trong PHP" h2="Thư viện PHP tốc độ cao để chuyển đổi EXCEL sang SPREADSHEETML. Đây là giải pháp phần mềm chuyên nghiệp để nhập và xuất EXCEL, SPREADSHEETML và nhiều định dạng khác bằng PHP." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-php-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="SPREADSHEETML" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,13 +12,13 @@ keywords: [Aspose Excel., PHP Aspose.Cells., Convert EXCEL to SPREADSHEETML in P
 
 {{% blocks/products/pf/agp/content h2="Chuyển đổi EXCEL sang SPREADSHEETML bằng PHP" %}}
 
- Làm cách nào để chuyển đổi EXCEL sang SPREADSHEETML? Với thư viện Aspose.Cells for PHP via Java, bạn có thể dễ dàng chuyển đổi EXCEL sang SPREADSHEETML theo chương trình chỉ với một vài dòng mã.[Aspose.Cells for PHP via Java](https://products.aspose.com/cells/php-java/) có khả năng xây dựng các ứng dụng đa nền tảng với khả năng tạo, sửa đổi, chuyển đổi, hiển thị và in tất cả các tệp Excel. PHP Excel API không chỉ chuyển đổi giữa các định dạng bảng tính mà còn có thể hiển thị các tệp Excel dưới dạng hình ảnh, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT và hơn thế nữa, do đó, nó trở thành một lựa chọn hoàn hảo để trao đổi tài liệu ở các định dạng tiêu chuẩn ngành.
+ Làm thế nào để chuyển đổi EXCEL sang SPREADSHEETML? Với thư viện Aspose.Cells for PHP via Java, bạn có thể dễ dàng chuyển đổi EXCEL sang SPREADSHEETML bằng lập trình chỉ với vài dòng mã.[Aspose.Cells for PHP via Java](https://products.aspose.com/cells/php-java/) PHP Excel API có khả năng xây dựng các ứng dụng đa nền tảng với khả năng tạo, chỉnh sửa, chuyển đổi, hiển thị và in tất cả các tệp Excel. Nó không chỉ chuyển đổi giữa các định dạng bảng tính mà còn có thể hiển thị các tệp Excel dưới dạng hình ảnh, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT và nhiều hơn nữa, do đó trở thành lựa chọn hoàn hảo để trao đổi tài liệu ở các định dạng tiêu chuẩn ngành.
  
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Lưu EXCEL vào SPREADSHEETML trong PHP" %}}
+{{% blocks/products/pf/agp/content h2="Lưu tệp EXCEL sang định dạng SPREADSHEETML trong PHP" %}}
 
-Ví dụ sau đây trình bày cách chuyển đổi EXCEL sang SPREADSHEETML trong PHP.
+Ví dụ sau đây minh họa cách chuyển đổi EXCEL sang SPREADSHEETML trong PHP.
 {{% blocks/products/pf/agp/text %}}
 
 Hãy làm theo các bước đơn giản để chuyển đổi EXCEL sang SPREADSHEETML. Tải lên tệp EXCEL của bạn, sau đó chỉ cần lưu nó dưới dạng tệp SPREADSHEETML. Đối với cả việc đọc EXCEL và viết SPREADSHEETML, bạn có thể sử dụng tên tệp đủ điều kiện. Nội dung và định dạng SPREADSHEETML đầu ra sẽ giống hệt với tài liệu EXCEL gốc.
@@ -27,20 +27,20 @@ Hãy làm theo các bước đơn giản để chuyển đổi EXCEL sang SPREAD
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Mã mẫu để chuyển đổi EXCEL sang SPREADSHEETML" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsx" outformat="xml" IsLandingPage="true" language="phpjava" %}}
+{{% cells-convert title="Ví dụ mã để chuyển đổi EXCEL sang SPREADSHEETML" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="xlsx" outformat="xml" IsLandingPage="true" language="phpjava" %}}
 
-{{% blocks/products/pf/agp/content h2="Cách chuyển đổi EXCEL sang SPREADSHEETML qua PHP" %}}
+{{% blocks/products/pf/agp/content h2="Cách chuyển đổi Excel sang bảng tính XML bằng PHP" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
-Cần chuyển đổi tệp EXCEL sang SPREADSHEETML theo chương trình? Các nhà phát triển PHP có thể dễ dàng tải và chuyển đổi EXCEL sang SPREADSHEETML chỉ bằng một vài dòng mã.
+Bạn cần chuyển đổi tập tin EXCEL sang SPREADSHEETML bằng lập trình? Các nhà phát triển PHP có thể dễ dàng tải và chuyển đổi EXCEL sang SPREADSHEETML chỉ với một vài dòng mã.
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Cài đặt 'Aspose.Cells for PHP via Java'.
 1.  Thêm tham chiếu thư viện (nhập thư viện) vào dự án PHP của bạn.
 1.  Tải tệp EXCEL với một phiên bản của Workbook.
-1.  Chuyển đổi EXCEL sang SPREADSHEETML bằng cách gọi phương thức lưu của Workbook.
+1.  Chuyển đổi dữ liệu EXCEL sang định dạng SPREADSHEETML bằng cách gọi phương thức save của Workbook.
 1.  Nhận kết quả chuyển đổi EXCEL sang SPREADSHEETML.
 
 {{% /blocks/products/pf/agp/content %}}
@@ -63,7 +63,7 @@ Có ba tùy chọn để cài đặt "Aspose.Cells for PHP via Java" vào hệ t
 
 {{% blocks/products/pf/agp/text %}}
 
-Aspose.Cells for PHP via Java là nền tảng độc lập API và có thể được sử dụng trên mọi nền tảng (Windows, Linux, MacOS, v.v.) có cài đặt phiên bản PHP 7 trở lên. Máy phải có phiên bản Oracle JDK 7 trở lên trước khi thiết lập cài đặt.
+ Aspose.Cells for PHP via Java là nền tảng độc lập API và có thể được sử dụng trên bất kỳ nền tảng nào (Windows, Linux, MacOS, v.v.) nơi đã cài đặt PHP phiên bản 7 trở lên. Máy tính phải có Oracle JDK phiên bản 7 trở lên trước khi thiết lập cài đặt.
  
 {{% /blocks/products/pf/agp/text %}}
 

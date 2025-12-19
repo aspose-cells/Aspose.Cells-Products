@@ -1,7 +1,7 @@
 ---
 title: XLS oluştur - C++'de XLS dosyası oluştur
-description: Aspose Excel'de. C++ Aspose.Cells ile hızlı ve kolay bir şekilde XLS Dosyası oluşturun. C++'i kullanarak XLS dosyası oluşturun. C++'de XLS oluşturun. C++ XLS Oluşturucu.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ Create XLS file., Generate XLS file in C++., Create XLS file using C++., Write data to XLS file via C++., Create a XLS file in C++., C++ Generate a XLS file., C++ XLS Creater]
+description: Aspose Excel. Aspose.Cells for C++ kütüphanesi ile XLS dosyalarını zahmetsizce oluşturun ve düzenleyin. Bu güçlü API, XLS dosyalarını doğrudan C++ uygulamalarınız içinde oluşturmak, düzenlemek ve yönetmek için akıcı ve verimli bir çözüm sunarak, geliştiricilerin özel ihtiyaçlarını yüksek hassasiyetle karşılar.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ Create XLS file., Generate XLS file in C++., Write data to XLS file via C++., C++ XLS Creater., Aspose.Cells for C++ is a powerful library that enables developers to programmatically create, generate, and manipulate XLS files in C++]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="C++\'de XLS Dosyası Oluştur" h2="C++ kitaplığını kullanarak Micorsoft Office olmadan programlı olarak yerel ve yüksek performanslı XLS dosyası oluşturma." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLS" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -11,7 +11,7 @@ keywords: [Aspose Excel., C++ Aspose.Cells., C++ Create XLS file., Generate XLS 
 
 {{% blocks/products/pf/agp/content h2="C++ Kullanarak XLS Dosyası Oluşturun" %}}
 
- XLS dosyası nasıl oluşturulur? Aspose.Cells for C++ kütüphanesi ile birkaç satır kodla programlı olarak XLS dosyasını kolayca oluşturabilirsiniz.[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) tüm Excel dosyalarını oluşturma, değiştirme, dönüştürme, işleme ve yazdırma becerisine sahip çapraz platform uygulamaları oluşturma yeteneğine sahiptir. C++ Excel API yalnızca elektronik tablo formatları arasında dönüştürme yapmakla kalmaz, aynı zamanda Excel dosyalarını, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT ve daha fazlasını görüntü olarak işleyebilir, böylece endüstri standardı formatlarda belge alışverişi yapmak için mükemmel bir seçim haline gelir. En son sürümünü doğrudan indirebilirsiniz, sadece açın[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) paket yöneticisi, Aspose.Cells.Cpp'yi arayın ve yükleyin. Aşağıdaki komutu Paket Yönetici Konsolundan da kullanabilirsiniz.
+ XLS dosyası nasıl oluşturulur? Aspose.Cells for C++ kütüphanesi ile birkaç satır kodla programlı olarak XLS dosyasını kolayca oluşturabilirsiniz.[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) tüm Excel dosyalarını oluşturma, değiştirme, dönüştürme, işleme ve yazdırma becerisine sahip çapraz platform uygulamaları oluşturma yeteneğine sahiptir. C++ Excel API yalnızca elektronik tablo formatları arasında dönüştürme yapmakla kalmaz, aynı zamanda Excel dosyalarını, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT ve daha fazlasını görüntü olarak işleyebilir, böylece endüstri standardı formatlarda belge alışverişi yapmak için mükemmel bir seçim haline gelir. En son sürümünü doğrudan indirebilirsiniz, sadece açın[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/)paket yöneticisi, Aspose.Cells.Cpp'yi arayın ve yükleyin. Aşağıdaki komutu Paket Yönetici Konsolundan da kullanabilirsiniz.
 
 {{% blocks/products/pf/agp/code-block title="Emretmek" offSpacer="true" %}}
 
@@ -30,21 +30,22 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% blocks/products/pf/agp/text %}}
 
- Geliştiricilerin, yalnızca birkaç satır kodla veri işlemeye yönelik çalışan raporlama uygulamaları içinde XLS dosyalarını oluşturması, yüklemesi, değiştirmesi ve dönüştürmesi kolaydır.
+ Geliştiricilerin yalnızca birkaç satır kodla veri işlemeye yönelik çalışan raporlama uygulamaları içinde XLS dosyalarını oluşturması, yüklemesi, değiştirmesi ve dönüştürmesi kolaydır.
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Workbook sınıfının bir nesnesini oluşturun.
 1.  İlk sayfayı bir Çalışma Sayfası nesnesine alın.
 1.  Çalışma sayfasının hücrelerini Cells nesnesine almak için Worksheet.GetCells() yöntemini kullanın.
-1. Çalışma sayfasının istenen hücresine Cell nesnesine erişmek için Cells.Get() yöntemini kullanın.
+1.  Çalışma sayfasının istenen hücresine Cell nesnesine erişmek için Cells.Get() yöntemini kullanın.
 1.  Hücreye değer girmek için Cell.PutValue() yöntemini kullanın.
-1.  Save() yöntemini kullanarak çalışma kitabını .xls dosyası olarak kaydedin.
+1.  Çalışma kitabını Save() yöntemini kullanarak .xls dosyası olarak kaydedin.
 
 {{% blocks/products/pf/agp/code-block title="Örnek kod, C++\'de XLS dosyasının nasıl oluşturulacağını gösterir." offSpacer="" %}}
 
 ```cs
 Aspose::Cells::Startup();
+//TIFF format is not supported
 
 // Create an object of the Workbook class.
 Workbook wkb;
@@ -110,7 +111,7 @@ Sisteminize "Aspose.Cells for C++" kurulumu için üç seçenek bulunmaktadır. 
 
 <!-- aboutfile Starts -->
     {{< blocks/products/pf/agp/about-file-section >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLS" readMoreLink="https://docs.fileformat.com/spreadsheet/xls/" >}}XLS uzantılı dosyalar Excel İkili Dosya Formatını temsil eder. Bu tür dosyalar Microsoft Excel'in yanı sıra OpenOffice Calc veya Apple Numbers gibi diğer benzer elektronik tablo programları tarafından oluşturulabilir. Excel tarafından kaydedilen dosya, her çalışma kitabının bir veya daha fazla çalışma sayfasına sahip olabileceği Çalışma Kitabı olarak bilinir. Veriler, çalışma sayfasında tablo biçiminde depolanır ve kullanıcılara görüntülenir ve sayısal değerleri, metin verilerini, formülleri, dış veri bağlantılarını, görüntüleri ve grafikleri kapsayabilir. Microsoft Excel gibi uygulamalar, çalışma kitabı verilerini PDF, CSV, XLSX, TXT, HTML, XPS ve diğer birkaç farklı formata aktarmanıza olanak tanır. XLS dosya formatı, Microsoft Excel 2007 sürümüyle birlikte daha açık ve yapılandırılmış bir format olan XLSX ile değiştirildi. En son sürümler, XLS dosyalarının oluşturulması ve okunması için hala destek sağlıyor, ancak artık XLSX ilk kullanım seçeneği.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLS" readMoreLink="https://docs.fileformat.com/spreadsheet/xls/" >}}XLS uzantılı dosyalar Excel İkili Dosya Formatını temsil eder. Bu tür dosyalar Microsoft Excel'in yanı sıra OpenOffice Calc veya Apple Numbers gibi diğer benzer elektronik tablo programları tarafından oluşturulabilir. Excel tarafından kaydedilen dosya, her çalışma kitabının bir veya daha fazla çalışma sayfasına sahip olabileceği Çalışma Kitabı olarak bilinir. Veriler, çalışma sayfasında tablo biçiminde depolanır ve kullanıcılara görüntülenir ve sayısal değerleri, metin verilerini, formülleri, dış veri bağlantılarını, görüntüleri ve grafikleri kapsayabilir. Microsoft Excel gibi uygulamalar, çalışma kitabı verilerini PDF, CSV, XLSX, TXT, HTML, XPS ve diğer birkaç farklı formata aktarmanıza olanak tanır. XLS dosya formatı, Microsoft Excel 2007 sürümüyle birlikte daha açık ve yapılandırılmış bir format olan XLSX ile değiştirildi. En son sürümler, XLS dosyalarının oluşturulması ve okunması için hala destek sağlıyor, ancak şu anda ilk kullanım seçeneği XLSX.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
     {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->
 

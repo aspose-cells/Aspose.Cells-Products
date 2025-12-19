@@ -1,7 +1,7 @@
 ---
 title: Tạo SVG - Tạo file SVG trong C++
-description: Aspose Excel. C++ Tạo file SVG nhanh chóng và dễ dàng với Aspose.Cells. Tạo file SVG bằng C++. Tạo SVG trong C++. C++ SVG Creator.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ Create SVG file., Generate SVG file in C++., Create SVG file using C++., Write data to SVG file via C++., Create a SVG file in C++., C++ Generate a SVG file., C++ SVG Creater]
+description: Aspose Excel. Dễ dàng tạo và thao tác các tệp SVG với thư viện Aspose.Cells for C++. Công cụ API mạnh mẽ này cung cấp một giải pháp hợp lý và hiệu quả để tạo, chỉnh sửa và quản lý các tệp SVG trực tiếp trong các ứng dụng C++ của bạn, đáp ứng các nhu cầu cụ thể của nhà phát triển với độ chính xác cao.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ Create SVG file., Generate SVG file in C++., Write data to SVG file via C++., C++ SVG Creater., Aspose.Cells for C++ is a powerful library that enables developers to programmatically create, generate, and manipulate SVG files in C++]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Tạo file SVG trong C++" h2="Tạo tệp SVG gốc và hiệu suất cao theo chương trình mà không cần Micorsoft Office sử dụng thư viện C++." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" sourceAdditionalConversionTag="" additionalConversionTag="SVG" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -11,7 +11,7 @@ keywords: [Aspose Excel., C++ Aspose.Cells., C++ Create SVG file., Generate SVG 
 
 {{% blocks/products/pf/agp/content h2="Tạo tệp SVG bằng C++" %}}
 
- Làm cách nào để tạo tệp SVG? Với thư viện Aspose.Cells for C++, bạn có thể dễ dàng Tạo tệp SVG theo chương trình với một vài dòng mã.[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) có khả năng xây dựng các ứng dụng đa nền tảng với khả năng tạo, sửa đổi, chuyển đổi, hiển thị và in tất cả các tệp Excel. C++ Excel API không chỉ chuyển đổi giữa các định dạng bảng tính mà còn có thể hiển thị các tệp Excel dưới dạng hình ảnh, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT và hơn thế nữa, do đó biến nó thành một lựa chọn hoàn hảo để trao đổi tài liệu ở các định dạng tiêu chuẩn ngành. Bạn có thể tải trực tiếp phiên bản mới nhất của nó, chỉ cần mở[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) quản lý gói, tìm kiếm Aspose.Cells.Cpp và cài đặt. Bạn cũng có thể sử dụng lệnh sau từ Bảng điều khiển quản lý gói.
+ Làm cách nào để tạo tệp SVG? Với thư viện Aspose.Cells for C++, bạn có thể dễ dàng Tạo tệp SVG theo chương trình với một vài dòng mã.[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) có khả năng xây dựng các ứng dụng đa nền tảng với khả năng tạo, sửa đổi, chuyển đổi, kết xuất và in tất cả các tệp Excel. C++ Excel API không chỉ chuyển đổi giữa các định dạng bảng tính mà còn có thể hiển thị các tệp Excel dưới dạng hình ảnh, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT và hơn thế nữa, do đó biến nó thành một lựa chọn hoàn hảo để trao đổi tài liệu ở các định dạng tiêu chuẩn ngành. Bạn có thể tải trực tiếp phiên bản mới nhất của nó, chỉ cần mở[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/)quản lý gói, tìm kiếm Aspose.Cells.Cpp và cài đặt. Bạn cũng có thể sử dụng lệnh sau từ Bảng điều khiển quản lý gói.
 
 {{% blocks/products/pf/agp/code-block title="Yêu cầu" offSpacer="true" %}}
 
@@ -37,14 +37,15 @@ PM> Install-Package Aspose.Cells.Cpp
 1.  Tạo một đối tượng của lớp Workbook.
 1.  Đưa trang tính đầu tiên vào đối tượng Worksheet.
 1.  Sử dụng phương thức Worksheet.GetCells() để đưa các ô của bảng tính vào đối tượng Cells.
-1. Sử dụng phương thức Cells.Get() để truy cập ô mong muốn của bảng tính vào đối tượng Cell.
+1.  Sử dụng phương thức Cells.Get() để truy cập ô mong muốn của bảng tính vào đối tượng Cell.
 1.  Sử dụng phương thức Cell.PutValue() để nhập giá trị vào ô.
-1.  Lưu sổ làm việc dưới dạng tệp .svg bằng phương thức Save().
+1.  Lưu tập tin làm việc dưới dạng tệp .svg bằng phương thức Save().
 
 {{% blocks/products/pf/agp/code-block title="Mã mẫu hiển thị cách tạo tệp SVG trong C++." offSpacer="" %}}
 
 ```cs
 Aspose::Cells::Startup();
+//TIFF format is not supported
 
 // Create an object of the Workbook class.
 Workbook wkb;
@@ -110,7 +111,7 @@ Có ba tùy chọn để cài đặt "Aspose.Cells for C++" vào hệ thống c�
 
 <!-- aboutfile Starts -->
     {{< blocks/products/pf/agp/about-file-section >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="SVG" readMoreLink="https://docs.fileformat.com/page-description-language/svg/" >}}Tệp SVG là tệp Đồ họa vectơ vô hướng sử dụng định dạng văn bản dựa trên XML để mô tả hình thức của hình ảnh. Từ Scalable đề cập đến thực tế là SVG có thể được thu nhỏ theo các kích cỡ khác nhau mà không làm giảm chất lượng. Mô tả dựa trên văn bản của các tệp như vậy làm cho chúng không phụ thuộc vào độ phân giải. Đây là một trong những định dạng được sử dụng nhiều nhất để xây dựng trang web và in đồ họa nhằm đạt được khả năng mở rộng. Tuy nhiên, định dạng này chỉ có thể được sử dụng cho đồ họa hai chiều. Các tệp SVG có thể được xem/mở trong hầu hết các trình duyệt hiện đại bao gồm Chrome, Internet Explorer, Firefox và Safari.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="SVG" readMoreLink="https://docs.fileformat.com/page-description-language/svg/" >}}Tệp SVG là tệp Đồ họa vectơ vô hướng sử dụng định dạng văn bản dựa trên XML để mô tả hình thức của hình ảnh. Từ Scalable đề cập đến thực tế là SVG có thể được thu nhỏ theo các kích thước khác nhau mà không làm giảm chất lượng. Mô tả dựa trên văn bản của các tệp như vậy làm cho chúng không phụ thuộc vào độ phân giải. Đây là một trong những định dạng được sử dụng nhiều nhất để xây dựng trang web và in đồ họa nhằm đạt được khả năng mở rộng. Tuy nhiên, định dạng này chỉ có thể được sử dụng cho đồ họa hai chiều. Các tệp SVG có thể được xem/mở trong hầu hết các trình duyệt hiện đại bao gồm Chrome, Internet Explorer, Firefox và Safari.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
     {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->
 

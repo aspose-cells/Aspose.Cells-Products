@@ -1,7 +1,7 @@
 ---
 title: Python XLTM sang JPG - XLTM sang JPG Chuyển đổi
-description: Aspose Excel. Python Excel. Chuyển đổi XLTM sang JPG nhanh chóng và dễ dàng với Aspose.Cells. Python XLTM sang JPG. Python Lưu XLTM sang JPG. Lưu XLTM dưới dạng JPG bằng Thư viện Excel Python.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert XLTM to JPG in Python Excel Library., Save XLTM to JPG using Python Excel Library., Python XLTM to JPG saveformat., XLTM to JPG Converter., Python Save XLTM as JPG]
+description: Aspose Excel. Giải pháp toàn diện này cung cấp cho các nhà phát triển Python một phương pháp tích hợp đầy đủ để chuyển đổi XLTM sang định dạng JPG, cho phép lưu dữ liệu XLTM vào định dạng JPG một cách liền mạch bằng thư viện Aspose.Cells, tất cả thông qua mã Python hiệu quả và có thể tùy chỉnh.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart XLTM files to JPG Converter for Python., Convert XLTM to JPG in Python., XLTM files to JPG Conversion in Python., Leverage intelligent data processing to automatically parse and save XLTM into JPG format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Chuyển đổi XLTM sang JPG trong Thư viện Excel Python" h2="Thư viện excel Python tốc độ cao để chuyển đổi XLTM sang JPG. Sử dụng chuyển đổi excel API của chúng tôi để phát triển phần mềm độc lập nền tảng, cấp cao trong Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="JPG" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -28,7 +28,7 @@ Thực hiện theo các bước đơn giản để chuyển đổi XLTM sang JPG
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Mã mẫu để chuyển đổi XLTM sang JPG qua Python Thư viện Excel" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xltm" outformat="jpg" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Mã mẫu để chuyển đổi XLTM sang JPG qua Python Thư viện Excel" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="xltm" outformat="jpg" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="Cách chuyển đổi XLTM sang JPG" %}}
 

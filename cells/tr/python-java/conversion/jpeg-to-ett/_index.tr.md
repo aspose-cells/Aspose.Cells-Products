@@ -1,7 +1,7 @@
 ---
 title: Python JPEG ETT'ye - JPEG ETT'ye Dönüştürücü
-description: Aspose Excel'de. Python Excel'de. Aspose.Cells ile JPEG'i hızlı ve kolay bir şekilde ETT'ye dönüştürün. Python JPEG'i ETT'ye dönüştürün. Python JPEG'i ETT'ye kaydedin. Python Excel Kitaplığını kullanarak JPEG'i ETT olarak kaydedin.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert JPEG to ETT in Python Excel Library., Save JPEG to ETT using Python Excel Library., Python JPEG to ETT saveformat., JPEG to ETT Converter., Python Save JPEG as ETT]
+description: Aspose Excel. Bu kapsamlı çözüm, Python geliştiricilerine JPEG'i ETT formatına dönüştürmek için tamamen entegre bir yaklaşım sunarak, Aspose.Cells kütüphanesini kullanarak JPEG verilerinin ETT formatına sorunsuz bir şekilde kaydedilmesini sağlar; tüm bunlar verimli ve özelleştirilebilir Python kod aracılığıyla gerçekleştirilir.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart JPEG files to ETT Converter for Python., Convert JPEG to ETT in Python., JPEG files to ETT Conversion in Python., Leverage intelligent data processing to automatically parse and save JPEG into ETT format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="JPEG\'i Python Excel Kitaplığı\'nda ETT\'ye dönüştürün" h2="JPEG\'i ETT\'ye dönüştürmek için yüksek hızlı Python excel kitaplığı. Bu, JPEG, ETT ve diğer birçok formatı Python kullanarak içe ve dışa aktarmak için profesyonel bir yazılım çözümüdür." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="ETT" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -27,7 +27,7 @@ JPEG'i ETT'ye dönüştürmek için kolay adımları izleyin. JPEG dosyanızı y
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="JPEG\'i Python Excel Kitaplığı aracılığıyla ETT\'ye Dönüştürmek için Örnek Kod" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="jpg" outformat="ett" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="JPEG\'i Python Excel Kitaplığı aracılığıyla ETT\'ye Dönüştürmek için Örnek Kod" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="jpg" outformat="ett" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="JPEG\'i Python aracılığıyla ETT\'ye dönüştürme" %}}
 

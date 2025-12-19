@@ -1,7 +1,7 @@
 ---
 title: 建立XLSX - 在C++中建立XLSX文件
-description: Aspose Excel。 C++ 使用 Aspose.Cells 快速輕鬆地建立 XLSX 檔案。使用 C++ 產生 XLSX 檔案。在 C++ 中建立 XLSX。在 C++ 中建立 XLSX。
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ Create XLSX file., Generate XLSX file in C++., Create XLSX file using C++., Write data to XLSX file via C++., Create a XLSX file in C++., C++ Generate a XLSX file., C++ XLSX Creater]
+description: Aspose Excel。使用 Aspose.Cells for C++ 函式庫，輕鬆產生和操作 XLSX 檔案。這款強大的 API 庫提供了一種簡化高效的解決方案，可直接在您的 C++ 應用程式中建立、編輯和管理 XLSX 文件，從而高精度地滿足開發人員的特定需求。
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ Create XLSX file., Generate XLSX file in C++., Write data to XLSX file via C++., C++ XLSX Creater., Aspose.Cells for C++ is a powerful library that enables developers to programmatically create, generate, and manipulate XLSX files in C++]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="在C++中建立XLSX文件" h2="使用 C++ 函式庫以程式設計方式建立本機高效能 XLSX 文件，無需 Microsoft Office。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSX" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -45,6 +45,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 ```cs
 Aspose::Cells::Startup();
+//TIFF format is not supported
 
 // Create an object of the Workbook class.
 Workbook wkb;
@@ -110,7 +111,7 @@ Aspose::Cells::Cleanup();
 
 <!-- aboutfile Starts -->
     {{< blocks/products/pf/agp/about-file-section >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLSX" readMoreLink="https://docs.fileformat.com/spreadsheet/xlsx/" >}}XLSX 是 Microsoft Excel 文件的眾所周知的格式，由 Microsoft 在 Microsoft Office 2007 版本中引入。基於根據 OOXML 標準 ECMA-376 第 2 部分中概述的開放性打包約定組織的結構，新套件為許多。只需解壓縮 .xlsx 檔案即可檢查底層結構和檔案。{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLSX" readMoreLink="https://docs.fileformat.com/spreadsheet/xlsx/" >}}XLSX 是 Microsoft Excel 文件的眾所周知的格式，由 Microsoft 在 Microsoft Office 2007 版本中引入。 。只需解壓縮 .xlsx 檔案即可檢查底層結構和檔案。{{< /blocks/products/pf/agp/i18n/about-file-text >}}
     {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->
 

@@ -1,7 +1,7 @@
 ---
 title: Python BẢNG TÍNH sang PPTX - Trình chuyển đổi BẢNG TÍNH sang PPTX
-description: Aspose Excel. Python Excel. Chuyển SPREADSHEETML thành PPTX nhanh chóng và dễ dàng với Aspose.Cells. Python SPREADSHEETML sang PPTX. Python Lưu SPREADSHEETML thành PPTX. Lưu SPREADSHEETML thành PPTX sử dụng Python Thư viện Excel.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert SPREADSHEETML to PPTX in Python Excel Library., Save SPREADSHEETML to PPTX using Python Excel Library., Python SPREADSHEETML to PPTX saveformat., SPREADSHEETML to PPTX Converter., Python Save SPREADSHEETML as PPTX]
+description: Aspose Excel. Giải pháp toàn diện này cung cấp cho các nhà phát triển Python một phương pháp tích hợp đầy đủ để chuyển đổi SPREADSHEETML sang định dạng PPTX, cho phép lưu dữ liệu SPREADSHEETML một cách liền mạch vào định dạng PPTX bằng cách sử dụng thư viện Aspose.Cells, tất cả thông qua mã Python hiệu quả và có thể tùy chỉnh.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart SPREADSHEETML files to PPTX Converter for Python., Convert SPREADSHEETML to PPTX in Python., SPREADSHEETML files to PPTX Conversion in Python., Leverage intelligent data processing to automatically parse and save SPREADSHEETML into PPTX format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Chuyển đổi SPREADSHEETML thành PPTX trong Python Thư viện Excel" h2="Thư viện excel Python tốc độ cao để chuyển đổi SPREADSHEETML thành PPTX. Sử dụng chuyển đổi excel API của chúng tôi để phát triển phần mềm độc lập nền tảng, cấp cao trong Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="PPTX" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -28,7 +28,7 @@ Hãy làm theo các bước đơn giản để chuyển đổi SPREADSHEETML th�
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Mã mẫu để chuyển đổi SPREADSHEETML thành PPTX qua Python Thư viện Excel" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xml" outformat="pptx" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Mã mẫu để chuyển đổi SPREADSHEETML thành PPTX qua Python Thư viện Excel" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="xml" outformat="pptx" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="Cách chuyển đổi SPREADSHEETML thành PPTX" %}}
 

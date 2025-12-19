@@ -1,7 +1,7 @@
 ---
 title: XLSM oluştur - C++'de XLSM dosyası oluştur
-description: Aspose Excel'de. C++ Aspose.Cells ile hızlı ve kolay bir şekilde XLSM Dosyası oluşturun. C++'i kullanarak XLSM dosyası oluşturun. C++'de XLSM oluşturun. C++ XLSM Oluşturucu.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ Create XLSM file., Generate XLSM file in C++., Create XLSM file using C++., Write data to XLSM file via C++., Create a XLSM file in C++., C++ Generate a XLSM file., C++ XLSM Creater]
+description: Aspose Excel. Aspose.Cells for C++ kütüphanesi ile XLSM dosyalarını zahmetsizce oluşturun ve düzenleyin. Bu güçlü API, XLSM dosyalarını doğrudan C++ uygulamalarınız içinde oluşturmak, düzenlemek ve yönetmek için akıcı ve verimli bir çözüm sunarak, geliştiricilerin özel ihtiyaçlarını yüksek hassasiyetle karşılar.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ Create XLSM file., Generate XLSM file in C++., Write data to XLSM file via C++., C++ XLSM Creater., Aspose.Cells for C++ is a powerful library that enables developers to programmatically create, generate, and manipulate XLSM files in C++]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="C++\'de XLSM Dosyası Oluştur" h2="C++ kitaplığını kullanarak Micorsoft Office olmadan programlı olarak yerel ve yüksek performanslı XLSM dosyası oluşturma." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSM" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -11,7 +11,7 @@ keywords: [Aspose Excel., C++ Aspose.Cells., C++ Create XLSM file., Generate XLS
 
 {{% blocks/products/pf/agp/content h2="C++ Kullanarak XLSM Dosyası Oluşturun" %}}
 
- XLSM dosyası nasıl oluşturulur? Aspose.Cells for C++ kütüphanesi ile birkaç satır kodla programlı olarak XLSM dosyasını kolayca oluşturabilirsiniz.[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) tüm Excel dosyalarını oluşturma, değiştirme, dönüştürme, işleme ve yazdırma becerisine sahip çapraz platform uygulamaları oluşturma yeteneğine sahiptir. C++ Excel API yalnızca elektronik tablo formatları arasında dönüştürme yapmakla kalmaz, aynı zamanda Excel dosyalarını, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT ve daha fazlasını görüntü olarak işleyebilir, böylece endüstri standardı formatlarda belge alışverişi yapmak için mükemmel bir seçim haline gelir. En son sürümünü doğrudan indirebilirsiniz, sadece açın[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) paket yöneticisi, Aspose.Cells.Cpp'yi arayın ve yükleyin. Aşağıdaki komutu Paket Yönetici Konsolundan da kullanabilirsiniz.
+ XLSM dosyası nasıl oluşturulur? Aspose.Cells for C++ kütüphanesi ile birkaç satır kodla programlı olarak XLSM dosyasını kolayca oluşturabilirsiniz.[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) tüm Excel dosyalarını oluşturma, değiştirme, dönüştürme, işleme ve yazdırma becerisine sahip çapraz platform uygulamaları oluşturma yeteneğine sahiptir. C++ Excel API yalnızca elektronik tablo formatları arasında dönüştürme yapmakla kalmaz, aynı zamanda Excel dosyalarını, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT ve daha fazlasını görüntü olarak işleyebilir, böylece endüstri standardı formatlarda belge alışverişi yapmak için mükemmel bir seçim haline gelir. En son sürümünü doğrudan indirebilirsiniz, sadece açın[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/)paket yöneticisi, Aspose.Cells.Cpp'yi arayın ve yükleyin. Aşağıdaki komutu Paket Yönetici Konsolundan da kullanabilirsiniz.
 
 {{% blocks/products/pf/agp/code-block title="Emretmek" offSpacer="true" %}}
 
@@ -30,21 +30,22 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% blocks/products/pf/agp/text %}}
 
- Geliştiricilerin, yalnızca birkaç satır kodla veri işlemeye yönelik çalışan raporlama uygulamaları içinde XLSM dosyalarını oluşturması, yüklemesi, değiştirmesi ve dönüştürmesi kolaydır.
+ Geliştiricilerin yalnızca birkaç satır kodla veri işlemeye yönelik çalışan raporlama uygulamaları içinde XLSM dosyalarını oluşturması, yüklemesi, değiştirmesi ve dönüştürmesi kolaydır.
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Workbook sınıfının bir nesnesini oluşturun.
 1.  İlk sayfayı bir Çalışma Sayfası nesnesine alın.
 1.  Çalışma sayfasının hücrelerini Cells nesnesine almak için Worksheet.GetCells() yöntemini kullanın.
-1. Çalışma sayfasının istenen hücresine Cell nesnesine erişmek için Cells.Get() yöntemini kullanın.
+1.  Çalışma sayfasının istenen hücresine Cell nesnesine erişmek için Cells.Get() yöntemini kullanın.
 1.  Hücreye değer girmek için Cell.PutValue() yöntemini kullanın.
-1.  Save() yöntemini kullanarak çalışma kitabını .xlsm dosyası olarak kaydedin.
+1.  Çalışma kitabını Save() yöntemini kullanarak .xlsm dosyası olarak kaydedin.
 
 {{% blocks/products/pf/agp/code-block title="Örnek kod, C++\'de XLSM dosyasının nasıl oluşturulacağını gösterir." offSpacer="" %}}
 
 ```cs
 Aspose::Cells::Startup();
+//TIFF format is not supported
 
 // Create an object of the Workbook class.
 Workbook wkb;

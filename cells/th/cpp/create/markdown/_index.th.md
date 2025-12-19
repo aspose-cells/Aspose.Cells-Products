@@ -1,7 +1,7 @@
 ---
 title: สร้าง MARKDOWN - สร้างไฟล์ MARKDOWN ใน C++
-description: Aspose เอ็กเซล. C++ สร้างไฟล์ MARKDOWN อย่างรวดเร็วและง่ายดายด้วย Aspose.Cells สร้างไฟล์ MARKDOWN โดยใช้ C++ สร้าง MARKDOWN ใน C++ C++ MARKDOWN Creater
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ Create MARKDOWN file., Generate MARKDOWN file in C++., Create MARKDOWN file using C++., Write data to MARKDOWN file via C++., Create a MARKDOWN file in C++., C++ Generate a MARKDOWN file., C++ MARKDOWN Creater]
+description: Aspose Excel สร้างและจัดการไฟล์ MARKDOWN ได้อย่างง่ายดายด้วยไลบรารี Aspose.Cells for C++ เครื่องมืออันทรงพลัง API นี้มอบโซลูชันที่คล่องตัวและมีประสิทธิภาพในการสร้าง แก้ไข และจัดการไฟล์ MARKDOWN โดยตรงภายในแอปพลิเคชัน C++ ของคุณ ตอบสนองความต้องการเฉพาะของนักพัฒนาด้วยความแม่นยำสูง
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ Create MARKDOWN file., Generate MARKDOWN file in C++., Write data to MARKDOWN file via C++., C++ MARKDOWN Creater., Aspose.Cells for C++ is a powerful library that enables developers to programmatically create, generate, and manipulate MARKDOWN files in C++]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="สร้างไฟล์ MARKDOWN ใน C++" h2="การสร้างไฟล์ MARKDOWN แบบเนทีฟและประสิทธิภาพสูงโดยทางโปรแกรมโดยไม่ต้องใช้ Microsoft Office โดยใช้ไลบรารี C++" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" sourceAdditionalConversionTag="" additionalConversionTag="MARKDOWN" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -11,7 +11,7 @@ keywords: [Aspose Excel., C++ Aspose.Cells., C++ Create MARKDOWN file., Generate
 
 {{% blocks/products/pf/agp/content h2="สร้างไฟล์ MARKDOWN โดยใช้ C++" %}}
 
- จะสร้างไฟล์ MARKDOWN ได้อย่างไร? ด้วยไลบรารี Aspose.Cells for C++ คุณสามารถสร้างไฟล์ MARKDOWN โดยทางโปรแกรมได้อย่างง่ายดายด้วยโค้ดเพียงไม่กี่บรรทัด[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) สามารถสร้างแอปพลิเคชันข้ามแพลตฟอร์มด้วยความสามารถในการสร้าง แก้ไข แปลง เรนเดอร์ และพิมพ์ไฟล์ Excel ทั้งหมด C++ Excel API ไม่เพียงแต่แปลงระหว่างรูปแบบสเปรดชีตเท่านั้น แต่ยังสามารถเรนเดอร์ไฟล์ Excel เป็นรูปภาพ, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT และอื่นๆ อีกมากมาย จึงเป็นตัวเลือกที่สมบูรณ์แบบในการแลกเปลี่ยนเอกสารในรูปแบบมาตรฐานอุตสาหกรรม คุณสามารถดาวน์โหลดเวอร์ชันล่าสุดได้โดยตรง เพียงแค่เปิดขึ้นมา[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) ตัวจัดการแพ็คเกจค้นหา Aspose.Cells.Cpp และติดตั้ง คุณอาจใช้คำสั่งต่อไปนี้จาก Package Manager Console
+ จะสร้างไฟล์ MARKDOWN ได้อย่างไร? ด้วยไลบรารี Aspose.Cells for C++ คุณสามารถสร้างไฟล์ MARKDOWN โดยทางโปรแกรมได้อย่างง่ายดายด้วยโค้ดไม่กี่บรรทัด[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) สามารถสร้างแอปพลิเคชันข้ามแพลตฟอร์มด้วยความสามารถในการสร้าง แก้ไข แปลง เรนเดอร์ และพิมพ์ไฟล์ Excel ทั้งหมด C++ Excel API ไม่เพียงแต่แปลงระหว่างรูปแบบสเปรดชีตเท่านั้น แต่ยังสามารถเรนเดอร์ไฟล์ Excel เป็นรูปภาพ, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT และอื่นๆ อีกมากมาย จึงเป็นตัวเลือกที่สมบูรณ์แบบในการแลกเปลี่ยนเอกสารในรูปแบบมาตรฐานอุตสาหกรรม คุณสามารถดาวน์โหลดเวอร์ชันล่าสุดได้โดยตรง เพียงแค่เปิดขึ้นมา[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/)ตัวจัดการแพ็คเกจค้นหา Aspose.Cells.Cpp และติดตั้ง คุณอาจใช้คำสั่งต่อไปนี้จาก Package Manager Console
 
 {{% blocks/products/pf/agp/code-block title="สั่งการ" offSpacer="true" %}}
 
@@ -37,14 +37,15 @@ PM> Install-Package Aspose.Cells.Cpp
 1.  สร้างวัตถุของคลาสสมุดงาน
 1.  รับแผ่นงานแรกลงในวัตถุแผ่นงาน
 1.  ใช้เมธอด Worksheet.GetCells() เพื่อนำเซลล์ของเวิร์กชีตไปไว้ในวัตถุ Cells
-1. ใช้เมธอด Cells.Get() เพื่อเข้าถึงเซลล์ที่ต้องการของเวิร์กชีตลงในวัตถุ Cell
+1.  ใช้เมธอด Cells.Get() เพื่อเข้าถึงเซลล์ที่ต้องการของเวิร์กชีตลงในวัตถุ Cell
 1.  ใช้เมธอด Cell.PutValue() เพื่อป้อนค่าลงในเซลล์
-1.  บันทึกสมุดงานเป็นไฟล์ .md โดยใช้เมธอด Save()
+1. บันทึกเวิร์กบุ๊กเป็นไฟล์ .md โดยใช้เมธอด Save()
 
 {{% blocks/products/pf/agp/code-block title="โค้ดตัวอย่างแสดงวิธีสร้างไฟล์ MARKDOWN ใน C++" offSpacer="" %}}
 
 ```cs
 Aspose::Cells::Startup();
+//TIFF format is not supported
 
 // Create an object of the Workbook class.
 Workbook wkb;
@@ -89,7 +90,7 @@ Aspose::Cells::Cleanup();
 
 {{% /blocks/products/pf/agp/text %}}
 
-1.  ติดตั้งก[NuGet แพ็คเกจ](https://www.nuget.org/packages/Aspose.Cells.Cpp/) . ดู[เอกสารประกอบ](https://docs.aspose.com/cells/cpp/installation/#using-nuget-package-manager)
+1.  ติดตั้งก[NuGet แพ็คเกจ](https://www.nuget.org/packages/Aspose.Cells.Cpp/) - ดู[เอกสารประกอบ](https://docs.aspose.com/cells/cpp/installation/#using-nuget-package-manager)
 1.  ติดตั้งไลบรารีโดยใช้โฟลเดอร์รวมและ lib ดู[เอกสารประกอบ](https://docs.aspose.com/cells/cpp/installation/#using-include-and-lib-folders)
 1.  ติดตั้ง Aspose.Cells for C++ ใน Linux ดู[เอกสารประกอบ](https://docs.aspose.com/cells/cpp/installation/#installing-asposecells-for-c-in-linux)
 

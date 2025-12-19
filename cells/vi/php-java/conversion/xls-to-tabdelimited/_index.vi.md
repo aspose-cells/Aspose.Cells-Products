@@ -1,7 +1,7 @@
 ---
 title: PHP XLS sang TABDELIMITED - Chuyển đổi XLS sang TABDELIMITED
-description: Aspose Excel. Chuyển đổi XLS sang TABDELIMITED nhanh chóng và dễ dàng với Aspose.Cells. PHP XLS sang TABDELIMITED. PHP Lưu XLS vào TABDELIMITED. Lưu XLS dưới dạng TABDELIMITED bằng PHP.
-keywords: [Aspose Excel., PHP Aspose.Cells., Convert XLS to TABDELIMITED in PHP., Save XLS to TABDELIMITED using PHP., PHP XLS to TABDELIMITED saveformat., XLS to TABDELIMITED Converter., PHP Save XLS as TABDELIMITED]
+description: Aspose Excel. Giải pháp toàn diện này cung cấp cho các nhà phát triển PHP một phương pháp tích hợp đầy đủ để chuyển đổi XLS sang định dạng TABDELIMITED, cho phép lưu dữ liệu XLS một cách liền mạch vào định dạng TABDELIMITED bằng cách sử dụng thư viện Aspose.Cells, tất cả thông qua mã PHP hiệu quả và có thể tùy chỉnh.
+keywords: [Aspose Excel., PHP Aspose.Cells., Smart XLS files to TABDELIMITED Converter for PHP., Convert XLS to TABDELIMITED in PHP., XLS files to TABDELIMITED Conversion in PHP., Leverage intelligent data processing to automatically parse and save XLS into TABDELIMITED format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Chuyển đổi XLS thành TABDELIMITED trong PHP" h2="Thư viện PHP tốc độ cao để chuyển đổi XLS sang TABDELIMITED. Đây là giải pháp phần mềm chuyên nghiệp để nhập và xuất XLS, TABDELIMITED và nhiều định dạng khác bằng PHP." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-php-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="TABDELIMITED" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,13 +12,13 @@ keywords: [Aspose Excel., PHP Aspose.Cells., Convert XLS to TABDELIMITED in PHP.
 
 {{% blocks/products/pf/agp/content h2="Chuyển đổi XLS thành TABDELIMITED bằng PHP" %}}
 
-Làm cách nào để chuyển đổi XLS thành TABDELIMITED? Với thư viện Aspose.Cells for PHP via Java, bạn có thể dễ dàng chuyển đổi XLS thành TABDELIMITED theo chương trình chỉ với một vài dòng mã.[Aspose.Cells for PHP via Java](https://products.aspose.com/cells/php-java/) có khả năng xây dựng các ứng dụng đa nền tảng với khả năng tạo, sửa đổi, chuyển đổi, hiển thị và in tất cả các tệp Excel. PHP Excel API không chỉ chuyển đổi giữa các định dạng bảng tính mà còn có thể hiển thị các tệp Excel dưới dạng hình ảnh, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT và hơn thế nữa, do đó, nó trở thành một lựa chọn hoàn hảo để trao đổi tài liệu ở các định dạng tiêu chuẩn ngành.
+ Làm thế nào để chuyển đổi XLS sang TABDELIMITED? Với thư viện Aspose.Cells for PHP via Java, bạn có thể dễ dàng chuyển đổi XLS sang TABDELIMITED bằng lập trình chỉ với vài dòng mã.[Aspose.Cells for PHP via Java](https://products.aspose.com/cells/php-java/) PHP Excel API có khả năng xây dựng các ứng dụng đa nền tảng với khả năng tạo, chỉnh sửa, chuyển đổi, hiển thị và in tất cả các tệp Excel. Nó không chỉ chuyển đổi giữa các định dạng bảng tính mà còn có thể hiển thị các tệp Excel dưới dạng hình ảnh, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT và nhiều hơn nữa, do đó trở thành lựa chọn hoàn hảo để trao đổi tài liệu ở các định dạng tiêu chuẩn ngành.
  
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Lưu XLS vào TABDELIMITED trong PHP" %}}
+{{% blocks/products/pf/agp/content h2="Lưu mã XLS vào TABDELIMITED bằng PHP." %}}
 
-Ví dụ sau đây trình bày cách chuyển đổi XLS thành TABDELIMITED trong PHP.
+Ví dụ sau đây minh họa cách chuyển đổi XLS thành TABDELIMITED trong PHP.
 {{% blocks/products/pf/agp/text %}}
 
 Thực hiện theo các bước đơn giản để chuyển đổi XLS thành TABDELIMITED. Tải lên tệp XLS của bạn, sau đó chỉ cần lưu nó dưới dạng tệp TABDELIMITED. Đối với cả việc đọc XLS và ghi TABDELIMITED, bạn có thể sử dụng tên tệp đủ điều kiện. Nội dung và định dạng TABDELIMITED đầu ra sẽ giống hệt với tài liệu XLS gốc.
@@ -27,25 +27,25 @@ Thực hiện theo các bước đơn giản để chuyển đổi XLS thành TA
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Mã mẫu chuyển đổi XLS sang TABDELIMITED" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xls" outformat="tsv" IsLandingPage="true" language="phpjava" %}}
+{{% cells-convert title="Ví dụ mã để chuyển đổi XLS sang TABDELIMITED" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="xls" outformat="tsv" IsLandingPage="true" language="phpjava" %}}
 
-{{% blocks/products/pf/agp/content h2="Cách chuyển đổi XLS sang TABDELIMITED qua PHP" %}}
+{{% blocks/products/pf/agp/content h2="Cách chuyển đổi XLS thành TABDELIMITED bằng PHP" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
-Cần chuyển đổi tệp XLS thành TABDELIMITED theo chương trình? Các nhà phát triển PHP có thể dễ dàng tải và chuyển đổi XLS thành TABDELIMITED chỉ bằng một vài dòng mã.
+Bạn cần chuyển đổi các tệp XLS sang định dạng TABDELIMITED bằng lập trình? Các nhà phát triển PHP có thể dễ dàng tải và chuyển đổi XLS sang TABDELIMITED chỉ với vài dòng mã.
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Cài đặt 'Aspose.Cells for PHP via Java'.
 1.  Thêm tham chiếu thư viện (nhập thư viện) vào dự án PHP của bạn.
 1.  Tải tệp XLS bằng một phiên bản của Workbook.
-1.  Chuyển đổi XLS thành TABDELIMITED bằng cách gọi phương thức lưu của Workbook.
+1.  Chuyển đổi XLS thành TABDELIMITED bằng cách gọi phương thức save của Workbook.
 1.  Nhận kết quả chuyển đổi XLS sang TABDELIMITED.
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Thư viện PHP để chuyển đổi XLS sang TABDELIMITED" %}}
+{{% blocks/products/pf/agp/content h2="Thư viện PHP để chuyển đổi XLS thành TABDELIMITED" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
@@ -63,7 +63,7 @@ Có ba tùy chọn để cài đặt "Aspose.Cells for PHP via Java" vào hệ t
 
 {{% blocks/products/pf/agp/text %}}
 
-Aspose.Cells for PHP via Java là nền tảng độc lập API và có thể được sử dụng trên mọi nền tảng (Windows, Linux, MacOS, v.v.) có cài đặt phiên bản PHP 7 trở lên. Máy phải có phiên bản Oracle JDK 7 trở lên trước khi thiết lập cài đặt.
+ Aspose.Cells for PHP via Java là nền tảng độc lập API và có thể được sử dụng trên bất kỳ nền tảng nào (Windows, Linux, MacOS, v.v.) nơi đã cài đặt PHP phiên bản 7 trở lên. Máy tính phải có Oracle JDK phiên bản 7 trở lên trước khi thiết lập cài đặt.
  
 {{% /blocks/products/pf/agp/text %}}
 
@@ -72,7 +72,7 @@ Aspose.Cells for PHP via Java là nền tảng độc lập API và có thể đ
 
 <!-- aboutfile Starts -->
     {{< blocks/products/pf/agp/about-file-section >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLS" readMoreLink="https://docs.fileformat.com/spreadsheet/xls/" >}}Các tệp có phần mở rộng XLS biểu thị Định dạng tệp nhị phân Excel. Những tệp như vậy có thể được tạo bởi Microsoft Excel cũng như các chương trình bảng tính tương tự khác như OpenOffice Calc hoặc Apple Numbers. Tệp được lưu bởi Excel được gọi là Sổ làm việc trong đó mỗi sổ làm việc có thể có một hoặc nhiều trang tính. Dữ liệu được lưu trữ và hiển thị cho người dùng ở định dạng bảng trong trang tính và có thể bao gồm các giá trị số, dữ liệu văn bản, công thức, kết nối dữ liệu ngoài, hình ảnh và biểu đồ. Các ứng dụng như Microsoft Excel cho phép bạn xuất dữ liệu sổ làm việc sang nhiều định dạng khác nhau bao gồm PDF, CSV, XLSX, TXT, HTML, XPS và một số định dạng khác. Định dạng tệp XLS đã được thay thế bằng định dạng có cấu trúc và mở hơn, XLSX, với bản phát hành Microsoft Excel 2007. Các phiên bản mới nhất vẫn cung cấp hỗ trợ tạo và đọc tệp XLS, mặc dù XLSX hiện là lựa chọn sử dụng đầu tiên.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLS" readMoreLink="https://docs.fileformat.com/spreadsheet/xls/" >}}Các tệp có phần mở rộng XLS biểu thị Định dạng tệp nhị phân Excel. Những tệp như vậy có thể được tạo bởi Microsoft Excel cũng như các chương trình bảng tính tương tự khác như OpenOffice Calc hoặc Apple Numbers. Tệp được lưu bởi Excel được gọi là Sổ làm việc trong đó mỗi sổ làm việc có thể có một hoặc nhiều trang tính. Dữ liệu được lưu trữ và hiển thị cho người dùng ở định dạng bảng trong trang tính và có thể bao gồm các giá trị số, dữ liệu văn bản, công thức, kết nối dữ liệu ngoài, hình ảnh và biểu đồ. Các ứng dụng như Microsoft Excel cho phép bạn xuất dữ liệu sổ làm việc sang nhiều định dạng khác nhau, bao gồm PDF, CSV, XLSX, TXT, HTML, XPS và một số định dạng khác. Định dạng tệp XLS đã được thay thế bằng định dạng có cấu trúc và mở hơn, XLSX, với bản phát hành Microsoft Excel 2007. Các phiên bản mới nhất vẫn cung cấp hỗ trợ tạo và đọc tệp XLS, mặc dù XLSX hiện là lựa chọn sử dụng đầu tiên.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="TABDELIMITED" readMoreLink="https://docs.fileformat.com/spreadsheet/tsv/" >}}Định dạng tệp Giá trị được phân tách bằng tab (TSV) biểu thị dữ liệu được phân tách bằng các tab ở định dạng văn bản thuần túy. Định dạng tệp, tương tự như CSV, được sử dụng để tổ chức dữ liệu theo cách có cấu trúc nhằm nhập và xuất giữa các ứng dụng khác nhau. Định dạng này chủ yếu được sử dụng để nhập/xuất và trao đổi dữ liệu trong các ứng dụng và cơ sở dữ liệu Bảng tính. Mỗi bản ghi trong tệp TSV được chứa trong một dòng tệp văn bản trong đó mỗi giá trị trường được phân tách bằng ký tự tab. Loại phương tiện cho định dạng tệp TSV là văn bản/giá trị được phân tách bằng tab.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
     {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->

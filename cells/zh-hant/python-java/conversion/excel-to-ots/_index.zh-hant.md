@@ -1,7 +1,7 @@
 ---
 title: Python EXCEL 轉 OTS - EXCEL 轉 OTS 轉換器
-description: Aspose Excel。 Python Excel。使用 Aspose.Cells 快速輕鬆地將 EXCEL 轉換為 OTS。 Python 將EXCEL儲存到OTS。使用 Python Excel 庫將 EXCEL 儲存為 OTS。
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert EXCEL to OTS in Python Excel Library., Save EXCEL to OTS using Python Excel Library., Python EXCEL to OTS saveformat., EXCEL to OTS Converter., Python Save EXCEL as OTS]
+description: Aspose Excel。此綜合解決方案為 Python 開發人員提供了一種完全整合的方法，可將 EXCEL 轉換為 OTS 格式，從而能夠使用 Aspose.Cells 庫將 EXCEL 資料無縫儲存為 OTS 格式，所有這些都透過高效且可自訂的 Python 程式碼實現。
+keywords: [Aspose Excel., Python Aspose.Cells., Smart EXCEL files to OTS Converter for Python., Convert EXCEL to OTS in Python., EXCEL files to OTS Conversion in Python., Leverage intelligent data processing to automatically parse and save EXCEL into OTS format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="將 Python Excel 庫中的 EXCEL 轉換為 OTS" h2="用於將 EXCEL 轉換為 OTS 的高速 Python Excel 庫。這是一個使用Python導入和匯出EXCEL、OTS和許多其他格式的專業軟體解決方案。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="OTS" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -27,7 +27,7 @@ keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert E
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="透過 Python Excel 庫將 EXCEL 轉換為 OTS 的範例程式碼" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsx" outformat="ots" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="透過 Python Excel 庫將 EXCEL 轉換為 OTS 的範例程式碼" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="xlsx" outformat="ots" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="如何透過 Python 將 EXCEL 轉換為 OTS" %}}
 

@@ -1,7 +1,7 @@
 ---
 title: Python XLT'den ET'ye - XLT'den ET'ye Dönüştürücü
-description: Aspose Excel'de. Python Excel'de. Aspose.Cells ile XLT'i hızlı ve kolay bir şekilde ET'ye dönüştürün. Python XLT'i ET'ye dönüştürün. Python XLT'i ET'ye kaydedin. Python Excel Kitaplığını kullanarak XLT'i ET olarak kaydedin.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert XLT to ET in Python Excel Library., Save XLT to ET using Python Excel Library., Python XLT to ET saveformat., XLT to ET Converter., Python Save XLT as ET]
+description: Aspose Excel. Bu kapsamlı çözüm, Python geliştiricilerine XLT'i ET formatına dönüştürmek için tamamen entegre bir yaklaşım sunarak, Aspose.Cells kütüphanesini kullanarak XLT verilerinin ET formatına sorunsuz bir şekilde kaydedilmesini sağlar; tüm bunlar verimli ve özelleştirilebilir Python kod aracılığıyla gerçekleştirilir.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart XLT files to ET Converter for Python., Convert XLT to ET in Python., XLT files to ET Conversion in Python., Leverage intelligent data processing to automatically parse and save XLT into ET format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="XLT\'i Python Excel Kitaplığı\'nda ET\'ye dönüştürün" h2="XLT\'i ET\'ye dönüştürmek için yüksek hızlı Python excel kütüphanesi. Python\'de üst düzey, platformdan bağımsız yazılım geliştirmek için API excel dönüşümümüzü kullanın." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="ET" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -28,7 +28,7 @@ XLT'i ET'ye dönüştürmek için kolay adımları izleyin. XLT dosyanızı yük
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="XLT\'i Python Excel Kitaplığı aracılığıyla ET\'ye Dönüştürmek için Örnek Kod" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlt" outformat="et" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="XLT\'i Python Excel Kitaplığı aracılığıyla ET\'ye Dönüştürmek için Örnek Kod" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="xlt" outformat="et" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="XLT\'i ET\'ye Dönüştürme" %}}
 

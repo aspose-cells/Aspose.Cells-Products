@@ -1,7 +1,7 @@
 ---
 title: C++ MHTML 轉 PRN - MHTML 轉 PRN 轉換器
-description: Aspose Excel。使用 Aspose.Cells 快速輕鬆地將 MHTML 轉換為 PRN。C++ MHTML 轉換為 PRN。 C++ 將 MHTML 儲存到 PRN。使用 C++ 將 MHTML 儲存為 PRN。
-keywords: [Aspose Excel., C++ Aspose.Cells., Convert MHTML to PRN in C++., Save MHTML to PRN using C++., C++ MHTML to PRN saveformat., MHTML to PRN Converter., C++ Save MHTML as PRN]
+description: Aspose Excel。此綜合解決方案為 C++ 開發人員提供了一種完全整合的方法，可將 MHTML 轉換為 PRN 格式，從而能夠使用 Aspose.Cells 庫將 MHTML 資料無縫保存為 PRN 格式，所有這些都透過高效能客製化的 081533481 1081481 0813481。
+keywords: [Aspose Excel., C++ Aspose.Cells., Smart MHTML files to PRN Converter for C++., Convert MHTML to PRN in C++., MHTML files to PRN Conversion in C++., Leverage intelligent data processing to automatically parse and save MHTML into PRN format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="將 MHTML 轉換為 C++ 中的 PRN" h2="使用 C++ 函式庫進行高效能 MHTML 到 PRN 轉換，無需安裝 Microsoft Excel、OpenOffice 或 Adobe Acrobat。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" sourceAdditionalConversionTag="" additionalConversionTag="PRN" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -26,7 +26,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="將 MHTML 儲存到 C++ 中的 PRN" %}}
+{{% blocks/products/pf/agp/content h2="將 MHTML 儲存到 PRN C++" %}}
 
 以下範例示範如何將 MHTML 轉換為 C++ 中的 PRN。
 {{% blocks/products/pf/agp/text %}}
@@ -37,25 +37,25 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="將 MHTML 轉換為 PRN 的範例程式碼" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="mhtml" outformat="prn" IsLandingPage="true" language="cpp" %}}
+{{% cells-convert title="將 MHTML 轉換為 PRN 的範例程式碼" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="mhtml" outformat="prn" IsLandingPage="true" language="cpp" %}}
 
 {{% blocks/products/pf/agp/content h2="如何透過 C++ 將 MHTML 轉換為 PRN" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
-需要以程式方式將 MHTML 檔案轉換為 PRN？ C++ 開發人員只需幾行程式碼即可輕鬆將 MHTML 轉換為 PRN。
+需要以程式方式將 MHTML 檔案轉換為 PRN 檔案嗎？ C++ 開發人員只需幾行程式碼即可輕鬆將 MHTML 檔案轉換為 PRN 檔案。
 
 {{% /blocks/products/pf/agp/text %}}
 
 1. 安裝“Aspose.Cells for C++”。
 1. 將庫引用（導入庫）新增至您的 C++ 專案中。
 1. 使用工作簿載入 MHTML 檔案。
-1. 透過呼叫 Save() 方法將 MHTML 轉換為 PRN。
+1. 呼叫 Save() 方法將 MHTML 轉換為 PRN。
 1. 取得MHTML到PRN的轉換結果。
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="C++庫將MHTML轉換為PRN" %}}
+{{% blocks/products/pf/agp/content h2="使用 C++ 庫將 MHTML 轉換為 PRN" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
@@ -73,7 +73,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% blocks/products/pf/agp/text %}}
 
-在執行 C++ 轉換範例程式碼之前，請確保您符合以下先決條件。
+在執行 C++ 轉換範例程式碼之前，請確保您具備以下先決條件。
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -85,7 +85,7 @@ PM> Install-Package Aspose.Cells.Cpp
 <!-- aboutfile Starts -->
     {{< blocks/products/pf/agp/about-file-section >}}
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="MHTML" readMoreLink="https://docs.fileformat.com/web/mhtml/" >}}擴展名為 MHTML 的檔案代表一種網頁存檔格式，可以由許多不同的應用程式建立。該格式稱為存檔格式，因為它將 Web HTML 程式碼和相關資源保存在單一檔案中。這些資源包括連結到網頁的任何內容，例如圖像、小程式、動畫、音訊檔案等。 MHTML 檔案可以在各種應用程式中打開，例如 Internet Explorer 和 Microsoft Word。 Microsoft Windows 使用 MHTML 檔案格式來記錄在使用 Windows 上出現問題的任何應用程式期間觀察到的問題情境。 MHTML 檔案格式對頁面內容進行編碼，類似於 message/rfc822 中定義的規範，這是純文字電子郵件相關規範。{{< /blocks/products/pf/agp/i18n/about-file-text >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="PRN" readMoreLink="https://fileinfo.com/extension/prn/" >}}PRN 文件是使用「列印到文件」複選框建立的文件，該複選框出現在Windows 上的某些「列印」對話方塊中。它包含印表機、傳真機或其他裝置用於列印文件的一組特定於設備的指令。 PRN 檔案可能包含文字或二進位內容，具體取決於建立檔案的裝置。{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="PRN" readMoreLink="https://fileinfo.com/extension/prn/" >}}PRN 文件是使用「列印到文件」複選框建立的文件，該複選框出現在Windows 上的某些「列印」對話方塊中。特定於設備的指令。 PRN 檔案可能包含文字或二進位內容，具體取決於建立檔案的裝置。{{< /blocks/products/pf/agp/i18n/about-file-text >}}
     {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->
 
@@ -101,6 +101,7 @@ PM> Install-Package Aspose.Cells.Cpp
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/mhtml-to-pdf/" name="MHTML 至 PDF" description="便攜式文件格式" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/mhtml-to-png/" name="MHTML 至 PNG" description="手提網路圖形" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/mhtml-to-svg/" name="MHTML 至 SVG" description="可縮放向量圖形" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/mhtml-to-tiff/" name="MHTML 至 TIFF" description="標記影像格式" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/mhtml-to-tsv/" name="MHTML 至 TSV" description="製表符分隔值" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/mhtml-to-txt/" name="MHTML 至 TXT" description="文字文檔" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/mhtml-to-xls/" name="MHTML 至 XLS" description="Excel 二進位格式" >}}

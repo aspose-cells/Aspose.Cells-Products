@@ -1,7 +1,7 @@
 ---
 title: Python HTM sang XLTM - Chuyển đổi HTM sang XLTM
-description: Aspose Excel. Python Excel. Chuyển đổi HTM sang XLTM nhanh chóng và dễ dàng với Aspose.Cells. Python HTM sang XLTM. Python Lưu HTM thành XLTM. Lưu HTM thành XLTM sử dụng Python Excel Library.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert HTM to XLTM in Python Excel Library., Save HTM to XLTM using Python Excel Library., Python HTM to XLTM saveformat., HTM to XLTM Converter., Python Save HTM as XLTM]
+description: Aspose Excel. Giải pháp toàn diện này cung cấp cho các nhà phát triển Python một phương pháp tích hợp đầy đủ để chuyển đổi HTM sang định dạng XLTM, cho phép lưu dữ liệu HTM liền mạch vào định dạng XLTM bằng cách sử dụng thư viện Aspose.Cells, tất cả thông qua mã Python hiệu quả và có thể tùy chỉnh.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart HTM files to XLTM Converter for Python., Convert HTM to XLTM in Python., HTM files to XLTM Conversion in Python., Leverage intelligent data processing to automatically parse and save HTM into XLTM format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Chuyển đổi HTM sang XLTM trong Thư viện Excel Python" h2="Thư viện excel Python tốc độ cao chuyển đổi HTM sang XLTM. Đây là giải pháp phần mềm chuyên nghiệp để nhập xuất HTM, XLTM và nhiều định dạng khác sử dụng Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLTM" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -27,7 +27,7 @@ Hãy làm theo các bước đơn giản để chuyển đổi HTM thành XLTM. 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Mã mẫu chuyển đổi HTM sang XLTM qua Python Thư viện Excel" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="htm" outformat="xltm" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="Mã mẫu chuyển đổi HTM sang XLTM qua Python Thư viện Excel" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="htm" outformat="xltm" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="Cách chuyển đổi HTM sang XLTM qua Python" %}}
 

@@ -1,7 +1,7 @@
 ---
 title: Python HTM เป็น XLAM - ตัวแปลง HTM เป็น XLAM
-description: Aspose เอ็กเซล. Python เอ็กเซล. แปลง HTM เป็น XLAM อย่างรวดเร็วและง่ายดายด้วย Aspose.Cells Python HTM เป็น XLAM Python บันทึก HTM เป็น XLAM บันทึก HTM เป็น XLAM โดยใช้ Python Excel Library
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert HTM to XLAM in Python Excel Library., Save HTM to XLAM using Python Excel Library., Python HTM to XLAM saveformat., HTM to XLAM Converter., Python Save HTM as XLAM]
+description: Aspose Excel โซลูชันที่ครอบคลุมนี้มอบแนวทางแบบบูรณาการอย่างสมบูรณ์ให้กับนักพัฒนา Python ในการแปลง HTM เป็นรูปแบบ XLAM ทำให้สามารถบันทึกข้อมูล HTM ลงในรูปแบบ XLAM ได้อย่างราบรื่นโดยใช้ไลบรารี Aspose.Cells ทั้งหมดนี้ผ่านโค้ด Python ที่มีประสิทธิภาพและปรับแต่งได้
+keywords: [Aspose Excel., Python Aspose.Cells., Smart HTM files to XLAM Converter for Python., Convert HTM to XLAM in Python., HTM files to XLAM Conversion in Python., Leverage intelligent data processing to automatically parse and save HTM into XLAM format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="แปลง HTM เป็น XLAM ในไลบรารี Excel Python" h2="ไลบรารี Excel Python ความเร็วสูงสำหรับการแปลง HTM เป็น XLAM ใช้การแปลง Excel API ของเราเพื่อพัฒนาซอฟต์แวร์อิสระแพลตฟอร์มระดับสูงใน Python" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLAM" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -28,7 +28,7 @@ keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert H
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="โค้ดตัวอย่างในการแปลง HTM เป็น XLAM ผ่าน Python Excel Library" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="htm" outformat="xlam" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="โค้ดตัวอย่างในการแปลง HTM เป็น XLAM ผ่าน Python Excel Library" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="htm" outformat="xlam" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="วิธีแปลง HTM เป็น XLAM" %}}
 

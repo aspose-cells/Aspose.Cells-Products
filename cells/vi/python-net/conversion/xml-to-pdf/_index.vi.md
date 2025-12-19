@@ -1,7 +1,7 @@
 ---
 title: Python XML sang PDF - Chuyển đổi XML sang PDF
-description: Aspose Excel. Python Excel. Chuyển đổi XML sang PDF nhanh chóng và dễ dàng với Aspose.Cells. Python XML sang PDF. Python Lưu XML thành PDF. Lưu XML dưới dạng PDF sử dụng Python Thư viện Excel.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert XML to PDF in Python Excel Library., Save XML to PDF using Python Excel Library., Python XML to PDF saveformat., XML to PDF Converter., Python Save XML as PDF]
+description: Aspose Excel. Giải pháp toàn diện này cung cấp cho các nhà phát triển Python một phương pháp tích hợp đầy đủ để chuyển đổi XML sang định dạng PDF, cho phép lưu dữ liệu XML liền mạch vào định dạng PDF bằng thư viện Aspose.Cells, tất cả thông qua mã Python hiệu quả và có thể tùy chỉnh.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart XML files to PDF Converter for Python., Convert XML to PDF in Python., XML files to PDF Conversion in Python., Leverage intelligent data processing to automatically parse and save XML into PDF format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Chuyển đổi XML thành PDF trong Thư viện Excel Python" h2="Thư viện excel Python tốc độ cao để chuyển đổi XML sang PDF. Sử dụng chuyển đổi excel API của chúng tôi để phát triển phần mềm độc lập với nền tảng, cấp cao trong Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="PDF" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -28,7 +28,7 @@ Hãy làm theo các bước đơn giản để chuyển đổi XML thành PDF. T
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Mã mẫu chuyển đổi XML sang PDF qua Python Thư viện Excel" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xml" outformat="pdf" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Mã mẫu chuyển đổi XML sang PDF qua Python Thư viện Excel" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="xml" outformat="pdf" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="Cách chuyển đổi XML thành PDF" %}}
 

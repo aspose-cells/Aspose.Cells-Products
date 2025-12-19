@@ -1,7 +1,7 @@
 ---
 title: Python XLTM ila MARKDOWN - XLTM ila MARKDOWN Dönüştürücü
-description: Aspose Excel'de. Python Excel'de. Aspose.Cells ile hızlı ve kolay bir şekilde XLTM'i MARKDOWN'e dönüştürün. Python XLTM'i MARKDOWN'e dönüştürün. Python XLTM'i MARKDOWN'e kaydedin. XLTM'i 076112 olarak kaydedin Python Excel Kitaplığı'nı kullanarak 3481.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert XLTM to MARKDOWN in Python Excel Library., Save XLTM to MARKDOWN using Python Excel Library., Python XLTM to MARKDOWN saveformat., XLTM to MARKDOWN Converter., Python Save XLTM as MARKDOWN]
+description: Aspose Excel. Bu kapsamlı çözüm, Python geliştiricilerine XLTM'i MARKDOWN formatına dönüştürmek için tamamen entegre bir yaklaşım sunarak, XLTM verilerinin MARKDOWN formatına Aspose.Cells kütüphanesi kullanılarak sorunsuz bir şekilde kaydedilmesini sağlar; tüm bunlar verimli ve özelleştirilebilir Python kod aracılığıyla gerçekleştirilir.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart XLTM files to MARKDOWN Converter for Python., Convert XLTM to MARKDOWN in Python., XLTM files to MARKDOWN Conversion in Python., Leverage intelligent data processing to automatically parse and save XLTM into MARKDOWN format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="XLTM\'i Python Excel Kitaplığı\'nda MARKDOWN\'e dönüştürün" h2="XLTM\'i MARKDOWN\'e dönüştürmek için yüksek hızlı Python excel kitaplığı. Python\'de üst düzey, platformdan bağımsız yazılım geliştirmek için API excel dönüştürmemizi kullanın." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="MARKDOWN" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -28,7 +28,7 @@ XLTM'i MARKDOWN'e dönüştürmek için kolay adımları izleyin. XLTM dosyanız
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="XLTM\'i Python Excel Kitaplığı aracılığıyla MARKDOWN\'e Dönüştürmek için Örnek Kod" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xltm" outformat="md" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="XLTM\'i Python Excel Kitaplığı aracılığıyla MARKDOWN\'e Dönüştürmek için Örnek Kod" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="xltm" outformat="md" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="XLTM\'i MARKDOWN\'e Dönüştürme" %}}
 

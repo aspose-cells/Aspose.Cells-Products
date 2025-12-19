@@ -1,7 +1,7 @@
 ---
 title: Python TABDELIMITED 到 ET - TABDELIMITED 到 ET 轉換器
-description: Aspose Excel。 Python Excel。使用 Aspose.Cells 快速輕鬆地將 TABDELIMITED 轉換為 ET。 Python 將製表符儲存到 ET。使用 Python Excel 庫將 TABDELIMITED 儲存為 ET。
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert TABDELIMITED to ET in Python Excel Library., Save TABDELIMITED to ET using Python Excel Library., Python TABDELIMITED to ET saveformat., TABDELIMITED to ET Converter., Python Save TABDELIMITED as ET]
+description: Aspose Excel。此綜合解決方案為 Python 開發人員提供了一種完全整合的方法，可將 TABDELIMITED 轉換為 ET 格式，從而能夠使用 Aspose.Cells 庫將 TABDELIMITED 資料無縫保存為 ET 格式，所有這些都透過高效且可自訂的 076134881 程式碼。
+keywords: [Aspose Excel., Python Aspose.Cells., Smart TABDELIMITED files to ET Converter for Python., Convert TABDELIMITED to ET in Python., TABDELIMITED files to ET Conversion in Python., Leverage intelligent data processing to automatically parse and save TABDELIMITED into ET format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="在 Python Excel 庫中將 TABDELIMITED 轉換為 ET" h2="用於將 TABDELIMITED 轉換為 ET 的高速 Python Excel 庫。這是一個專業的軟體解決方案，可以使用 Python 匯入和匯出 TABDELIMITED、ET 和許多其他格式。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="ET" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -27,7 +27,7 @@ keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert T
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="透過 Python Excel 庫將 TABDELIMITED 轉換為 ET 的範例程式碼" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="tsv" outformat="et" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="透過 Python Excel 庫將 TABDELIMITED 轉換為 ET 的範例程式碼" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="tsv" outformat="et" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="如何透過 Python 將 TABDELIMITED 轉換為 ET" %}}
 

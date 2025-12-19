@@ -1,7 +1,7 @@
 ---
 title: Python XLSX 至 XLSB - XLSX 至 XLSB 转换器
-description: Aspose Excel。Python Excel。使用 Aspose.Cells 快速轻松地将 XLSX 转换为 XLSB。Python 将 XLSX 转换为 XLSB。Python 将 XLSX 保存为 XLSB。使用 Python Excel 库将 XLSX 保存为 XLSB。
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert XLSX to XLSB in Python Excel Library., Save XLSX to XLSB using Python Excel Library., Python XLSX to XLSB saveformat., XLSX to XLSB Converter., Python Save XLSX as XLSB]
+description: Aspose Excel。此综合解决方案为 Python 开发人员提供了一种完全集成的方法，可将 XLSX 转换为 XLSB 格式，从而能够使用 Aspose.Cells 库将 XLSX 数据无缝保存为 XLSB 格式，所有这些都通过高效且可定制的 Python 代码实现。
+keywords: [Aspose Excel., Python Aspose.Cells., Smart XLSX files to XLSB Converter for Python., Convert XLSX to XLSB in Python., XLSX files to XLSB Conversion in Python., Leverage intelligent data processing to automatically parse and save XLSX into XLSB format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="在 Python Excel 库中将 XLSX 转换为 XLSB" h2="高速 Python excel 库，用于将 XLSX 转换为 XLSB。这是一个专业的软件解决方案，可使用 Python 导入和导出 XLSX、XLSB 和许多其他格式。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSB" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -27,7 +27,7 @@ keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert X
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="通过 Python Excel 库将 XLSX 转换为 XLSB 的示例代码" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsx" outformat="xlsb" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="通过 Python Excel 库将 XLSX 转换为 XLSB 的示例代码" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="xlsx" outformat="xlsb" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="如何将 XLSX 通过 Python 转换为 XLSB" %}}
 

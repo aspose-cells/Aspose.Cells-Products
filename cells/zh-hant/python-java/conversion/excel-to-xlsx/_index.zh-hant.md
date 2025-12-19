@@ -1,7 +1,7 @@
 ---
 title: Python EXCEL 到 XLSX - EXCEL 到 XLSX 轉換器
-description: Aspose Excel。 Python Excel。使用 Aspose.Cells 快速輕鬆地將 EXCEL 轉換為 XLSX。 Python EXCEL 到 XLSX。 81。
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert EXCEL to XLSX in Python Excel Library., Save EXCEL to XLSX using Python Excel Library., Python EXCEL to XLSX saveformat., EXCEL to XLSX Converter., Python Save EXCEL as XLSX]
+description: Aspose Excel。此綜合解決方案為 Python 開發人員提供了一種完全整合的方法，可將 EXCEL 轉換為 XLSX 格式，從而能夠使用 Aspose.Cells 庫將 EXCEL 資料無縫保存為 XLSX 格式，所有這些程式庫將 EXCEL 資料無縫儲存為 XLSX 格式，所有這些程式碼都透過高效且可自訂且可自訂153 153 153 153。
+keywords: [Aspose Excel., Python Aspose.Cells., Smart EXCEL files to XLSX Converter for Python., Convert EXCEL to XLSX in Python., EXCEL files to XLSX Conversion in Python., Leverage intelligent data processing to automatically parse and save EXCEL into XLSX format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="將 EXCEL 轉換為 Python Excel 庫中的 XLSX" h2="高速Python excel庫，用於將EXCEL轉換為XLSX。 這是使用Python導入和導出EXCEL、XLSX和許多其他格式的專業軟體解決方案。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSX" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -27,7 +27,7 @@ keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert E
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="透過 Python Excel 庫將 EXCEL 轉換為 XLSX 的範例程式碼" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsx" outformat="xlsx" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="透過 Python Excel 庫將 EXCEL 轉換為 XLSX 的範例程式碼" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="xlsx" outformat="xlsx" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="如何透過 Python 將 EXCEL 轉換為 XLSX" %}}
 

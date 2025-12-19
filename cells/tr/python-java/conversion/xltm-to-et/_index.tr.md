@@ -1,7 +1,7 @@
 ---
 title: Python XLTM'den ET'ye - XLTM'den ET'ye Dönüştürücü
-description: Aspose Excel'de. Python Excel'de. Aspose.Cells ile XLTM'i hızlı ve kolay bir şekilde ET'ye dönüştürün. Python XLTM'i ET'ye dönüştürün. Python XLTM'i ET'ye kaydedin. Python Excel Kitaplığını kullanarak XLTM'i ET olarak kaydedin.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert XLTM to ET in Python Excel Library., Save XLTM to ET using Python Excel Library., Python XLTM to ET saveformat., XLTM to ET Converter., Python Save XLTM as ET]
+description: Aspose Excel. Bu kapsamlı çözüm, Python geliştiricilerine XLTM'i ET formatına dönüştürmek için tamamen entegre bir yaklaşım sunarak, Aspose.Cells kütüphanesini kullanarak XLTM verilerinin ET formatına sorunsuz bir şekilde kaydedilmesini sağlar; tüm bunlar verimli ve özelleştirilebilir Python kod aracılığıyla gerçekleştirilir.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart XLTM files to ET Converter for Python., Convert XLTM to ET in Python., XLTM files to ET Conversion in Python., Leverage intelligent data processing to automatically parse and save XLTM into ET format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="XLTM\'i Python Excel Kitaplığı\'nda ET\'ye dönüştürün" h2="XLTM\'i ET\'ye dönüştürmek için yüksek hızlı Python excel kütüphanesi. Bu, XLTM, ET ve diğer birçok formatı Python kullanarak içe ve dışa aktarmak için profesyonel bir yazılım çözümüdür." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="ET" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -27,7 +27,7 @@ XLTM'i ET'ye dönüştürmek için kolay adımları izleyin. XLTM dosyanızı y�
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="XLTM\'i Python Excel Kitaplığı aracılığıyla ET\'ye Dönüştürmek için Örnek Kod" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xltm" outformat="et" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="XLTM\'i Python Excel Kitaplığı aracılığıyla ET\'ye Dönüştürmek için Örnek Kod" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="xltm" outformat="et" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="XLTM\'i Python aracılığıyla ET\'ye dönüştürme" %}}
 

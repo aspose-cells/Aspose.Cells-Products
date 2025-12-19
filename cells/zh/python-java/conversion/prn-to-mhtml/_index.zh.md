@@ -1,7 +1,7 @@
 ---
 title: Python PRN 至 MHTML - PRN 至 MHTML 转换器
-description: Aspose Excel。Python Excel。使用 Aspose.Cells 快速轻松地将 PRN 转换为 MHTML。Python PRN 转换为 MHTML。Python 将 PRN 保存为 MHTML。使用 Python Excel 库将 PRN 另存为 MHTML。
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert PRN to MHTML in Python Excel Library., Save PRN to MHTML using Python Excel Library., Python PRN to MHTML saveformat., PRN to MHTML Converter., Python Save PRN as MHTML]
+description: Aspose Excel。此综合解决方案为 Python 开发人员提供了一种完全集成的方法，可将 PRN 转换为 MHTML 格式，从而能够使用 Aspose.Cells 库将 PRN 数据无缝保存为 MHTML 格式，所有这些都通过高效且可定制的 Python 代码实现。
+keywords: [Aspose Excel., Python Aspose.Cells., Smart PRN files to MHTML Converter for Python., Convert PRN to MHTML in Python., PRN files to MHTML Conversion in Python., Leverage intelligent data processing to automatically parse and save PRN into MHTML format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="在 Python Excel 库中将 PRN 转换为 MHTML" h2="用于将 PRN 转换为 MHTML 的高速 Python excel 库。这是一个专业的软件解决方案，可使用 Python 导入和导出 PRN、MHTML 和许多其他格式。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="MHTML" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -27,7 +27,7 @@ keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert P
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="通过 Python Excel 库将 PRN 转换为 MHTML 的示例代码" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="prn" outformat="mhtml" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="通过 Python Excel 库将 PRN 转换为 MHTML 的示例代码" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="prn" outformat="mhtml" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="如何将 PRN 通过 Python 转换为 MHTML" %}}
 

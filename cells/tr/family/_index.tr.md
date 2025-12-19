@@ -1,56 +1,68 @@
 ---
-title:  .NET Java Python C++ PHP ve Android Excel Elektronik Tablo Ayrıştırma API'leri
+title: .NET Java Python C++ PHP ve Android Excel Elektronik Tablo Ayrıştırma API'leri
 weight: 10
-description: Okunacak kitaplıklar, Microsoft Excel dosyalarını .NET Java C++ Android ve SharePoint uygulamalarında yazar ve yönetir. Çalışma Sayfalarını SSRS ve JasperReports'ta Dışa Aktarma
+description: Android ve SharePoint uygulamalarında .NET, Java ve C++ numaralı Excel dosyalarını okumak, yazmak ve işlemek için kütüphaneler. Çalışma sayfalarını SSRS ve JasperReports'a dışa aktarın.
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="Excel Elektronik Tablolarını Çoklu Platformlarda İşleyin" h2="Excel dosyalarını oluşturmak, düzenlemek, dönüştürmek ve işlemek için yerel API\'ler. Elektronik tabloları herhangi bir platformda birden fazla formatta dışa aktarın." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells.svg" pfName="Aspose.Cells" downloadUrl="https://downloads.aspose.com/cells" tryOnlineUrl="" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="Excel Elektronik Tablolarını Birden Çok Platformda İşleme" h2="Excel dosyaları oluşturmak, düzenlemek, dönüştürmek ve görüntülemek için yerel API\'ler. Elektronik tabloları herhangi bir platformda birden fazla formatta dışa aktarın." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells.svg" pfName="Aspose.Cells" downloadUrl="https://downloads.aspose.com/cells" tryOnlineUrl="" >}}
 
 {{< blocks/products/pf/main-container >}}
-{{< blocks/products/pf/product-card-row title="Aspose.Cells Yüksek Kod API\'leri Dahildir" >}}
+{{< blocks/products/pf/product-card-row title="Aspose.Cells Yüksek Kodlu API\'ler Şunları İçerir" >}}
 
 {{< blocks/products/pf/product pfName="Aspose.Cells for" title=".NET" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" productLink="/cells/net/" >}}
-.NET Framework, .NET Core ve Xamarin platformunu hedefleyerek Windows, iOS, macOS ve Android için uygulamalar geliştirin.
+Hedef .NET Çerçevesi, .NET Çekirdeği ve Xamarin platformu, Windows, iOS, macOS ve Android için uygulamalar geliştirmek üzere kullanılmaktadır.
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/product pfName="Aspose.Cells for" title="Java" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" productLink="/cells/java/" >}}
-Masaüstü, web veya Java SE veya EE'yi temel alan her türlü uygulama için yerel Java API'leri.
+Java SE veya EE tabanlı masaüstü, web veya her türlü uygulama için yerel Java API'leri.
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/product pfName="Aspose.Cells for" title="C++" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" productLink="/cells/cpp/" >}}
-C++ uygulama içinden Excel elektronik tablo formatlarını oluşturun, okuyun, düzenleyin, dönüştürün veya işleyin.
+C++ uygulamaları içinden Excel elektronik tablolarını oluşturun, okuyun, düzenleyin, dönüştürün veya görüntüleyin.
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/product pfName="Aspose.Cells for" title="Android via Java" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-android-java.svg" productLink="/cells/android-java/" >}}
-Android mobil uygulamalarınıza Excel elektronik tablo işleme yeteneklerini ekleyin.
+Android mobil uygulamalarınıza Excel elektronik tablo düzenleme yetenekleri ekleyin.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Cells for" title="Paylaşım Noktası" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-sharepoint.svg" productLink="/cells/sharepoint/" >}}
+{{< blocks/products/pf/product pfName="Aspose.Cells for" title="SharePoint" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-sharepoint.svg" productLink="/cells/sharepoint/" >}}
 SharePoint Services veya SharePoint Server'da Excel elektronik tablolarını dönüştürün ve birleştirin.
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/product pfName="Aspose.Cells for" title="Raporlama Hizmetleri" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-reporting-services.svg" productLink="/cells/reporting-services/" >}}
-RDL ve RDLC raporlarını SQL Server Raporlama Servislerinden Excel dosya formatlarına aktarın.
+SQL Server Reporting Services'ten RDL ve RDLC raporlarını Excel dosya formatlarına aktarın.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Cells for" title="Jasper Raporları" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-jasperreports.svg" productLink="/cells/jasperreports/" >}}
-Raporları JasperReports veya JasperServer'dan Excel dosya formatlarına ve PDF'e aktarın.
+{{< blocks/products/pf/product pfName="Aspose.Cells for" title="JasperReports" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-jasperreports.svg" productLink="/cells/jasperreports/" >}}
+JasperReports veya JasperServer'dan raporları Excel dosya formatlarına ve PDF numaralı dosyaya aktarın.
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/product pfName="Aspose.Cells for" title="Node.js via Java" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-nodejs-java.svg" productLink="/cells/nodejs-java/" >}}
-Node.js aracılığıyla Excel elektronik tabloları oluşturun, değiştirin, dönüştürün ve işleyin.
+Node.js kullanarak Excel elektronik tabloları oluşturun, düzenleyin, dönüştürün ve görüntüleyin.
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/product pfName="Aspose.Cells for" title="PHP via Java" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-php-java.svg" productLink="/cells/php-java/" >}}
-JavaBridge aracılığıyla PHP uygulamalarında Excel elektronik tablolarını oluşturun, değiştirin, dönüştürün ve işleyin.
+JavaBridge aracılığıyla PHP uygulamalarında Excel elektronik tabloları oluşturun, düzenleyin, dönüştürün ve görüntüleyin.
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/product pfName="Aspose.Cells for" title="Python via Java" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" productLink="/cells/python-java/" >}}
-Python'i kullanarak Excel belgelerini yükleyin, oluşturun, değiştirin ve işleyin.
+Python kullanarak Excel belgelerini yükleyin, oluşturun, düzenleyin ve görüntüleyin.
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/product pfName="Aspose.Cells for" title="Python via .NET" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" productLink="/cells/python-net/" >}}
-Python'i kullanarak Excel belgelerini yükleyin, oluşturun, değiştirin ve işleyin.
+Python kullanarak Excel belgelerini yükleyin, oluşturun, düzenleyin ve görüntüleyin.
+{{< /blocks/products/pf/product >}}
+
+{{< blocks/products/pf/product pfName="Aspose.Cells for" title="Node.js, C++ aracılığıyla" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" productLink="/cells/nodejs-cpp/" >}}
+Node.js kullanarak Excel elektronik tabloları oluşturun, düzenleyin, dönüştürün ve görüntüleyin.
+{{< /blocks/products/pf/product >}}
+
+{{< blocks/products/pf/product pfName="Aspose.Cells for" title="C++ üzerinden gidin." imgSrc="/cells/images/aspose_cells-for-go.svg" productLink="/cells/go-cpp/" >}}
+Go kullanarak Excel elektronik tabloları oluşturun, düzenleyin, dönüştürün ve görüntüleyin.
+{{< /blocks/products/pf/product >}}
+
+{{< blocks/products/pf/product pfName="Aspose.Cells for" title="JavaScript, C++ aracılığıyla" imgSrc="/cells/images/aspose_cells-for-javascript-cpp.svg" productLink="/cells/javascript-cpp/" >}}
+Excel elektronik tablolarını tarayıcıda veya Node.js kullanarak oluşturun, düzenleyin, dönüştürün ve görüntüleyin.
 {{< /blocks/products/pf/product >}}
 
 {{< /blocks/products/pf/product-card-row >}}

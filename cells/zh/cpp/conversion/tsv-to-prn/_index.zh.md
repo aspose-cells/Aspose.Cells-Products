@@ -1,7 +1,7 @@
 ---
-title: C++ TSV 转 PRN - TSV 转 PRN 转换器
-description: Aspose Excel。使用 Aspose.Cells 快速轻松地将 TSV 转换为 PRN。C++ TSV 转换为 PRN。 C++ 将 TSV 保存到 PRN。使用 C++ 将 TSV 保存为 PRN。
-keywords: [Aspose Excel., C++ Aspose.Cells., Convert TSV to PRN in C++., Save TSV to PRN using C++., C++ TSV to PRN saveformat., TSV to PRN Converter., C++ Save TSV as PRN]
+title: C++ TSV 至 PRN - TSV 至 PRN 转换器
+description: Aspose Excel。此综合解决方案为 C++ 开发人员提供了一种完全集成的方法，可将 TSV 转换为 PRN 格式，从而能够使用 Aspose.Cells 库将 TSV 数据无缝保存为 PRN 格式，所有这些都通过高效且可定制的 C++ 代码实现。
+keywords: [Aspose Excel., C++ Aspose.Cells., Smart TSV files to PRN Converter for C++., Convert TSV to PRN in C++., TSV files to PRN Conversion in C++., Leverage intelligent data processing to automatically parse and save TSV into PRN format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="将 TSV 转换为 C++ 中的 PRN" h2="使用 C++ 库进行高性能 TSV 到 PRN 转换，无需安装 Microsoft Excel、OpenOffice 或 Adobe Acrobat。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" sourceAdditionalConversionTag="" additionalConversionTag="PRN" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., C++ Aspose.Cells., Convert TSV to PRN in C++., Save TS
 
 {{% blocks/products/pf/agp/content h2="使用 C++ 将 TSV 转换为 PRN" %}}
 
-如何将 TSV 转换为 PRN？借助 Aspose.Cells for C++ 库，您可以通过几行代码以编程方式轻松将 TSV 转换为 PRN。[Aspose.Cells for C++](https://products.aspose.com/cells/cpp)能够构建跨平台应用程序，能够生成、修改、转换、渲染和打印所有 Excel 文件。 C++ Excel API 不仅可以在电子表格格式之间进行转换，还可以将 Excel 文件呈现为图像, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT等等，从而使其成为以行业标准交换文档的完美选择格式。您可以直接下载最新版本，打开即可[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/)包管理器，搜索Aspose.Cells.cpp并安装。您还可以从包管理器控制台使用以下命令。
+如何将 TSV 转换为 PRN？使用 Aspose.Cells for C++ 库，您只需几行代码即可以编程方式轻松将 TSV 转换为 PRN。[Aspose.Cells for C++](https://products.aspose.com/cells/cpp)能够构建跨平台应用程序，能够生成、修改、转换、呈现和打印所有 Excel 文件。C++ Excel API 不仅可以在电子表格格式之间进行转换，还可以将 Excel 文件呈现为图像，PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT 等等，因此它是以行业标准格式交换文档的完美选择。您可以直接下载其最新版本，只需打开[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/)包管理器，搜索 Aspose.Cells.Cpp 并安装。您也可以从包管理器控制台使用以下命令。
 
 {{% blocks/products/pf/agp/code-block title="命令" offSpacer="true" %}}
 
@@ -26,46 +26,46 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="将 TSV 保存到 C++ 中的 PRN" %}}
+{{% blocks/products/pf/agp/content h2="将 TSV 保存到 PRN C++" %}}
 
 以下示例演示如何将 TSV 转换为 C++ 中的 PRN。
 {{% blocks/products/pf/agp/text %}}
 
-按照简单的步骤将 TSV 转换为 PRN。上传您的 TSV 文件，然后将其保存为 PRN 文件。对于 TSV 读取和 PRN 写入，您可以使用完全限定的文件名。输出的 PRN 内容和格式将与原始 TSV 文档相同。
+按照简单的步骤将 TSV 转换为 PRN。上传您的 TSV 文件，然后将其保存为 PRN 文件。对于 TSV 读取和 PRN 写入，您都可以使用完全合格的文件名。输出的 PRN 内容和格式将与原始 TSV 文档相同。
 
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="将 TSV 转换为 PRN 的示例代码" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="tsv" outformat="prn" IsLandingPage="true" language="cpp" %}}
+{{% cells-convert title="将 TSV 转换为 PRN 的示例代码" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="tsv" outformat="prn" IsLandingPage="true" language="cpp" %}}
 
 {{% blocks/products/pf/agp/content h2="如何通过 C++ 将 TSV 转换为 PRN" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
-需要以编程方式将 TSV 文件转换为 PRN？ C++ 开发人员只需几行代码即可轻松将 TSV 转换为 PRN。
+需要以编程方式将 TSV 文件转换为 PRN 文件吗？C++ 开发人员只需几行代码即可轻松将 TSV 文件转换为 PRN 文件。
 
 {{% /blocks/products/pf/agp/text %}}
 
 1. 安装“Aspose.Cells for C++”。
-1. 将库引用（导入库）添加到您的 C++ 项目中。
+1. 向您的 C++ 项目添加库引用（导入库）。
 1. 使用工作簿加载 TSV 文件。
-1. 通过调用 Save() 方法将 TSV 转换为 PRN。
-1. 获取TSV到PRN的转换结果。
+1. 调用 Save() 方法将 TSV 转换为 PRN。
+1. 获取TSV至PRN的转换结果。
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="C++库将TSV转换为PRN" %}}
+{{% blocks/products/pf/agp/content h2="使用 C++ 库将 TSV 转换为 PRN" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
-可以通过三个选项将“Aspose.Cells for C++”安装到您的系统上。请选择符合您需求的一项并按照分步说明进行操作：
+有三种方法可以将“Aspose.Cells for C++”安装到您的系统上。请选择最符合您需求的方法，然后按照分步说明进行操作：
 
 {{% /blocks/products/pf/agp/text %}}
 
-1. 安装一个[NuGet 套餐](https://www.nuget.org/packages/Aspose.Cells.Cpp/)。看[文档](https://docs.aspose.com/cells/cpp/installation/#using-nuget-package-manager)
-1. 使用 Include 和 lib 文件夹安装库。看[文档](https://docs.aspose.com/cells/cpp/installation/#using-include-and-lib-folders)
-1. 在Linux中安装Aspose.Cells for C++。看[文档](https://docs.aspose.com/cells/cpp/installation/#installing-asposecells-for-c-in-linux)
+1. 安装[NuGet 包裹](https://www.nuget.org/packages/Aspose.Cells.Cpp/)。 看[文档](https://docs.aspose.com/cells/cpp/installation/#using-nuget-package-manager)
+1. 使用 Include 和 lib 文件夹安装库。请参阅[文档](https://docs.aspose.com/cells/cpp/installation/#using-include-and-lib-folders)
+1. 在 Linux 中安装 Aspose.Cells for C++。请参阅[文档](https://docs.aspose.com/cells/cpp/installation/#installing-asposecells-for-c-in-linux)
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -73,34 +73,35 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% blocks/products/pf/agp/text %}}
 
-在运行 C++ 转换示例代码之前，请确保您满足以下先决条件。
+在运行 C++ 转换示例代码之前，请确保您具备以下先决条件。
 
 {{% /blocks/products/pf/agp/text %}}
 
-- Microsoft Windows 或具有 C++ 运行时环境的兼容操作系统，适用于 Windows 32 位、Windows 64 位和 Linux 64 位。
-- 在项目中添加对 Aspose.Cells for C++ DLL 的引用。
+- Microsoft Windows 或与 C++ 运行环境兼容的操作系统，适用于 Windows 32 位、Windows 64 位和 Linux 64 位。
+- 在您的项目中添加对 Aspose.Cells for C++ DLL 的引用。
 
 {{% /blocks/products/pf/agp/content %}}
 
 <!-- aboutfile Starts -->
     {{< blocks/products/pf/agp/about-file-section >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="TSV" readMoreLink="https://docs.fileformat.com/spreadsheet/tsv/" >}}制表符分隔值 (TSV) 文件格式表示用纯文本格式的制表符分隔的数据。该文件格式类似于 CSV，用于以结构化方式组织数据，以便在不同应用程序之间导入和导出。该格式主要用于电子表格应用程序和数据库中的数据导入/导出和交换。 TSV 文件中的每条记录都包含在单行文本文件中，其中每个字段值均由制表符分隔。 TSV 文件格式的媒体类型是文本/制表符分隔值。{{< /blocks/products/pf/agp/i18n/about-file-text >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="PRN" readMoreLink="https://fileinfo.com/extension/prn/" >}}PRN 文件是使用“打印到文件”复选框创建的文件，该复选框出现在 Windows 上的某些“打印”对话框中。它包含打印机、传真机或其他设备用于打印文档的一组特定于设备的指令。 PRN 文件可能包含文本或二进制内容，具体取决于创建文件的设备。{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="TSV" readMoreLink="https://docs.fileformat.com/spreadsheet/tsv/" >}}制表符分隔值 (TSV) 文件格式表示以纯文本格式用制表符分隔的数据。该文件格式与 CSV 类似，用于以结构化方式组织数据，以便在不同应用程序之间导入和导出。该格式主要用于电子表格应用程序和数据库中的数据导入/导出和交换。TSV 文件中的每条记录都包含在一行文本文件中，其中每个字段值都由制表符分隔。TSV 文件格式的媒体类型为文本/制表符分隔值。{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="PRN" readMoreLink="https://fileinfo.com/extension/prn/" >}}PRN 文件是使用 Windows 上某些打印对话框中出现的“打印到文件”复选框创建的文件。它包含一组设备特定的指令，打印机、传真机或其他设备使用这些指令打印文档。PRN 文件可能包含文本或二进制内容，具体取决于创建该文件的设备。{{< /blocks/products/pf/agp/i18n/about-file-text >}}
     {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="其他支持的转换" subTitle="您还可以将 TSV 转换为许多其他文件格式，包括下面列出的几种。" >}}
+{{< blocks/products/pf/agp/other-supported-section title="其他支持的转换" subTitle="您还可以将 TSV 转换为许多其他文件格式，包括下面列出的几种格式。" >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/tsv-to-bmp/" name="TSV 至 BMP" description="位图图像" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/tsv-to-emf/" name="TSV 至 EMF" description="增强的图元文件格式" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/tsv-to-emf/" name="TSV 至 EMF" description="增强型图元文件格式" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/tsv-to-gif/" name="TSV 至 GIF" description="图形交换格式" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/tsv-to-html/" name="TSV 至 HTML" description="超文本标记语言" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/tsv-to-md/" name="TSV 至 MD" description="降价语言" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/tsv-to-md/" name="TSV 致 MD" description="Markdown 语言" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/tsv-to-mhtml/" name="TSV 至 MHTML" description="网页存档格式" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/tsv-to-ods/" name="TSV 至 ODS" description="OpenDocument 电子表格文件" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/tsv-to-pdf/" name="TSV 至 PDF" description="便携式文档格式" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/tsv-to-ods/" name="TSV 至 ODS" description="开放文档电子表格文件" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/tsv-to-pdf/" name="TSV 至 PDF" description="可移植文档格式" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/tsv-to-png/" name="TSV 至 PNG" description="便携式网络图形" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/tsv-to-svg/" name="TSV 至 SVG" description="可缩放矢量图形" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/tsv-to-tiff/" name="TSV 至 TIFF" description="标记图像格式" >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/tsv-to-txt/" name="TSV 至 TXT" description="文本文档" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/tsv-to-xls/" name="TSV 至 XLS" description="Excel 二进制格式" >}}
@@ -108,9 +109,9 @@ PM> Install-Package Aspose.Cells.Cpp
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/tsv-to-xlsm/" name="TSV 至 XLSM" description="电子表格文件" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/tsv-to-xlsx/" name="TSV 至 XLSX" description="OOXML Excel 文件" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/tsv-to-xlt/" name="TSV 至 XLT" description="Microsoft Excel 模板" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/tsv-to-xltm/" name="TSV 至 XLTM" description="Excel 宏启用模板" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/tsv-to-xltm/" name="TSV 至 XLTM" description="Excel 启用宏的模板" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/tsv-to-xltx/" name="TSV 至 XLTX" description="Office OpenXML Excel 模板" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/tsv-to-xml/" name="TSV 转 XML" description="可扩展标记语言" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/tsv-to-xml/" name="TSV 至 XML" description="可扩展标记语言" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/tsv-to-xps/" name="TSV 至 XPS" description="XML 论文规范" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/tsv-to-json/" name="TSV 至 JSON" description="JavaScript 对象表示法" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/tsv-to-jpeg/" name="TSV 至 JPEG" description="JPEG 图片" >}}

@@ -1,7 +1,7 @@
 ---
 title: Python IMAGE'dan ODS'e - IMAGE'den ODS'e dönüştürücü
-description: Aspose Excel'de. Python Excel'de. Aspose.Cells ile IMAGE'ı hızlı ve kolay bir şekilde ODS'e dönüştürün. Python IMAGE'ı ODS'e dönüştürün. Python IMAGE'ı ODS'e kaydedin. Python Excel Kütüphanesini kullanarak IMAGE'ı ODS olarak kaydedin.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert IMAGE to ODS in Python Excel Library., Save IMAGE to ODS using Python Excel Library., Python IMAGE to ODS saveformat., IMAGE to ODS Converter., Python Save IMAGE as ODS]
+description: Aspose Excel. Bu kapsamlı çözüm, Python geliştiricilere IMAGE'ı ODS formatına dönüştürmek için tamamen entegre bir yaklaşım sunarak, Aspose.Cells kütüphanesini kullanarak IMAGE verilerinin ODS formatına sorunsuz bir şekilde kaydedilmesini sağlar; tüm bunlar verimli ve özelleştirilebilir Python kod aracılığıyla gerçekleştirilir.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart IMAGE files to ODS Converter for Python., Convert IMAGE to ODS in Python., IMAGE files to ODS Conversion in Python., Leverage intelligent data processing to automatically parse and save IMAGE into ODS format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="IMAGE\'ı Python Excel Kitaplığı\'nda ODS\'e dönüştürün" h2="IMAGE\'ı ODS\'e dönüştürmek için yüksek hızlı Python excel kütüphanesi. Bu, Python\'i kullanarak IMAGE, ODS ve diğer birçok formatı içe ve dışa aktarmak için profesyonel bir yazılım çözümüdür." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="ODS" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -27,7 +27,7 @@ IMAGE'ı ODS'e dönüştürmek için kolay adımları izleyin. IMAGE dosyanızı
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="GÖRÜNTÜYÜ Python Excel Kitaplığı aracılığıyla ODS\'e Dönüştürmek için Örnek Kod" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="png" outformat="ods" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="GÖRÜNTÜYÜ Python Excel Kitaplığı aracılığıyla ODS\'e Dönüştürmek için Örnek Kod" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="png" outformat="ods" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="IMAGE\'ı Python aracılığıyla ODS\'e dönüştürme" %}}
 

@@ -1,7 +1,7 @@
 ---
 title: C++ MHTML 轉 ET - MHTML 轉 ET 轉換器
-description: Aspose Excel。使用 Aspose.Cells 快速輕鬆地將 MHTML 轉換為 ET。C++ MHTML 轉換為 ET。 C++ 將 MHTML 儲存到 ET。使用 C++ 將 MHTML 儲存為 ET。
-keywords: [Aspose Excel., C++ Aspose.Cells., Convert MHTML to ET in C++., Save MHTML to ET using C++., C++ MHTML to ET saveformat., MHTML to ET Converter., C++ Save MHTML as ET]
+description: Aspose Excel。此綜合解決方案為 C++ 開發人員提供了一種完全整合的方法，可將 MHTML 轉換為 ET 格式，從而能夠使用 Aspose.Cells 庫將 MHTML 資料無縫保存為 ET 格式，所有這些都通過高效的 MHTML 資料無縫保存為 ET 格式，所有這些都通過高效可自訂的 08153481 實現代碼。
+keywords: [Aspose Excel., C++ Aspose.Cells., Smart MHTML files to ET Converter for C++., Convert MHTML to ET in C++., MHTML files to ET Conversion in C++., Leverage intelligent data processing to automatically parse and save MHTML into ET format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="將 MHTML 轉換為 C++ 中的 ET" h2="使用 C++ 庫進行高效能 MHTML 到 ET 轉換，無需安裝 Microsoft Excel、OpenOffice 或 Adobe Acrobat。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" sourceAdditionalConversionTag="" additionalConversionTag="ET" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -26,7 +26,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="將 MHTML 儲存到 C++ 中的 ET" %}}
+{{% blocks/products/pf/agp/content h2="將 MHTML 儲存到 C++ 的 ET 中" %}}
 
 以下範例示範如何將 MHTML 轉換為 C++ 中的 ET。
 {{% blocks/products/pf/agp/text %}}
@@ -37,25 +37,25 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="將 MHTML 轉換為 ET 的範例程式碼" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="mhtml" outformat="et" IsLandingPage="true" language="cpp" %}}
+{{% cells-convert title="將 MHTML 轉換為 ET 的範例程式碼" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="mhtml" outformat="et" IsLandingPage="true" language="cpp" %}}
 
 {{% blocks/products/pf/agp/content h2="如何透過 C++ 將 MHTML 轉換為 ET" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
-需要以程式方式將 MHTML 檔案轉換為 ET？ C++ 開發人員只需幾行程式碼即可輕鬆將 MHTML 轉換為 ET。
+需要以程式設計方式將 MHTML 檔案轉換為 ET 格式嗎？ C++ 開發人員只需幾行程式碼即可輕鬆將 MHTML 轉換為 ET 格式。
 
 {{% /blocks/products/pf/agp/text %}}
 
 1. 安裝“Aspose.Cells for C++”。
 1. 將庫引用（導入庫）新增至您的 C++ 專案中。
 1. 使用工作簿載入 MHTML 檔案。
-1. 透過呼叫 Save() 方法將 MHTML 轉換為 ET。
+1. 呼叫 Save() 方法將 MHTML 轉換為 ET。
 1. 取得MHTML到ET的轉換結果。
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="C++庫將MHTML轉換為ET" %}}
+{{% blocks/products/pf/agp/content h2="C++ 庫用於將 MHTML 轉換為 ET" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
@@ -73,7 +73,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% blocks/products/pf/agp/text %}}
 
-在執行 C++ 轉換範例程式碼之前，請確保您符合以下先決條件。
+在執行 C++ 轉換範例程式碼之前，請確保您具備以下先決條件。
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -101,6 +101,7 @@ PM> Install-Package Aspose.Cells.Cpp
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/mhtml-to-pdf/" name="MHTML 至 PDF" description="便攜式文件格式" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/mhtml-to-png/" name="MHTML 至 PNG" description="手提網路圖形" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/mhtml-to-svg/" name="MHTML 至 SVG" description="可縮放向量圖形" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/mhtml-to-tiff/" name="MHTML 至 TIFF" description="標記影像格式" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/mhtml-to-tsv/" name="MHTML 至 TSV" description="製表符分隔值" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/mhtml-to-txt/" name="MHTML 至 TXT" description="文字文檔" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/mhtml-to-xls/" name="MHTML 至 XLS" description="Excel 二進位格式" >}}

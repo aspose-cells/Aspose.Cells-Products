@@ -1,7 +1,7 @@
 ---
-title: PHP SỐ sang HÌNH ẢNH - Công cụ chuyển đổi SỐ sang HÌNH ẢNH
-description: Aspose Excel. Chuyển SỐ sang HÌNH ẢNH nhanh chóng và dễ dàng với Aspose.Cells. PHP NUMBERS sang HÌNH ẢNH. PHP Lưu SỐ vào HÌNH ẢNH. Lưu SỐ dưới dạng HÌNH ẢNH bằng cách sử dụng PHP.
-keywords: [Aspose Excel., PHP Aspose.Cells., Convert NUMBERS to IMAGE in PHP., Save NUMBERS to IMAGE using PHP., PHP NUMBERS to IMAGE saveformat., NUMBERS to IMAGE Converter., PHP Save NUMBERS as IMAGE]
+title: Chuyển đổi số sang hình ảnh bằng PHP - Công cụ chuyển đổi số sang hình ảnh
+description: Aspose Excel. Giải pháp toàn diện này cung cấp cho các nhà phát triển PHP một phương pháp tích hợp đầy đủ để chuyển đổi định dạng SỐ sang định dạng HÌNH ẢNH, cho phép lưu dữ liệu SỐ vào định dạng HÌNH ẢNH một cách liền mạch bằng thư viện Aspose.Cells, tất cả thông qua mã PHP hiệu quả và có thể tùy chỉnh.
+keywords: [Aspose Excel., PHP Aspose.Cells., Smart NUMBERS files to IMAGE Converter for PHP., Convert NUMBERS to IMAGE in PHP., NUMBERS files to IMAGE Conversion in PHP., Leverage intelligent data processing to automatically parse and save NUMBERS into IMAGE format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Chuyển đổi SỐ thành HÌNH ẢNH trong PHP" h2="Thư viện PHP tốc độ cao để chuyển đổi SỐ thành HÌNH ẢNH. Đây là giải pháp phần mềm chuyên nghiệp để nhập và xuất SỐ, HÌNH ẢNH và nhiều định dạng khác bằng PHP." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-php-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="IMAGE" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,13 +12,13 @@ keywords: [Aspose Excel., PHP Aspose.Cells., Convert NUMBERS to IMAGE in PHP., S
 
 {{% blocks/products/pf/agp/content h2="Chuyển đổi SỐ thành HÌNH ẢNH bằng PHP" %}}
 
-Làm cách nào để chuyển đổi SỐ thành HÌNH ẢNH? Với thư viện Aspose.Cells for PHP via Java, bạn có thể dễ dàng chuyển đổi NUMBERS thành HÌNH ẢNH theo chương trình chỉ với một vài dòng mã.[Aspose.Cells for PHP via Java](https://products.aspose.com/cells/php-java/) có khả năng xây dựng các ứng dụng đa nền tảng với khả năng tạo, sửa đổi, chuyển đổi, hiển thị và in tất cả các tệp Excel. PHP Excel API không chỉ chuyển đổi giữa các định dạng bảng tính mà còn có thể hiển thị các tệp Excel dưới dạng hình ảnh, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT và hơn thế nữa, do đó, nó trở thành một lựa chọn hoàn hảo để trao đổi tài liệu ở các định dạng tiêu chuẩn ngành.
+ Làm thế nào để chuyển đổi SỐ thành HÌNH ẢNH? Với thư viện Aspose.Cells for PHP via Java, bạn có thể dễ dàng chuyển đổi SỐ thành HÌNH ẢNH bằng lập trình chỉ với vài dòng mã.[Aspose.Cells for PHP via Java](https://products.aspose.com/cells/php-java/) PHP Excel API có khả năng xây dựng các ứng dụng đa nền tảng với khả năng tạo, chỉnh sửa, chuyển đổi, hiển thị và in tất cả các tệp Excel. Nó không chỉ chuyển đổi giữa các định dạng bảng tính mà còn có thể hiển thị các tệp Excel dưới dạng hình ảnh, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT và nhiều hơn nữa, do đó trở thành lựa chọn hoàn hảo để trao đổi tài liệu ở các định dạng tiêu chuẩn ngành.
  
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Lưu SỐ vào HÌNH ẢNH trong PHP" %}}
+{{% blocks/products/pf/agp/content h2="Lưu số vào hình ảnh trong PHP" %}}
 
-Ví dụ sau đây trình bày cách chuyển đổi SỐ thành HÌNH ẢNH trong PHP.
+Ví dụ sau đây minh họa cách chuyển đổi SỐ thành HÌNH ẢNH trong PHP.
 {{% blocks/products/pf/agp/text %}}
 
 Hãy làm theo các bước đơn giản để chuyển đổi SỐ thành HÌNH ẢNH. Tải lên tệp NUMBERS của bạn, sau đó chỉ cần lưu nó dưới dạng tệp HÌNH ẢNH. Đối với cả việc đọc SỐ và ghi HÌNH ẢNH, bạn có thể sử dụng tên tệp đủ điều kiện. Nội dung và định dạng HÌNH ẢNH đầu ra sẽ giống hệt với tài liệu NUMBERS gốc.
@@ -27,25 +27,25 @@ Hãy làm theo các bước đơn giản để chuyển đổi SỐ thành HÌNH
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Mã mẫu để chuyển đổi SỐ thành HÌNH ẢNH" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="numbers" outformat="png" IsLandingPage="true" language="phpjava" %}}
+{{% cells-convert title="Ví dụ mã để chuyển đổi SỐ thành HÌNH ẢNH" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="numbers" outformat="png" IsLandingPage="true" language="phpjava" %}}
 
-{{% blocks/products/pf/agp/content h2="Cách chuyển đổi SỐ thành HÌNH ẢNH qua PHP" %}}
+{{% blocks/products/pf/agp/content h2="Cách chuyển đổi SỐ thành HÌNH ẢNH bằng PHP" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
-Cần chuyển đổi NUMBERS tệp thành HÌNH ẢNH theo chương trình? Các nhà phát triển PHP có thể dễ dàng tải và chuyển đổi SỐ thành HÌNH ẢNH chỉ bằng một vài dòng mã.
+Bạn cần chuyển đổi các tập tin SỐ sang HÌNH ẢNH bằng lập trình? Các nhà phát triển PHP có thể dễ dàng tải và chuyển đổi SỐ sang HÌNH ẢNH chỉ với một vài dòng mã.
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Cài đặt 'Aspose.Cells for PHP via Java'.
 1.  Thêm tham chiếu thư viện (nhập thư viện) vào dự án PHP của bạn.
 1.  Tải tệp SỐ với một phiên bản của Sổ làm việc.
-1.  Chuyển đổi SỐ thành HÌNH ẢNH bằng cách gọi phương thức lưu của Workbook.
+1.  Chuyển đổi SỐ thành HÌNH ẢNH bằng cách gọi phương thức save của Workbook.
 1.  Nhận kết quả chuyển đổi của NUMBERS thành HÌNH ẢNH.
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Thư viện PHP để chuyển đổi SỐ thành HÌNH ẢNH" %}}
+{{% blocks/products/pf/agp/content h2="Thư viện PHP chuyển đổi SỐ thành HÌNH ẢNH" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
@@ -63,7 +63,7 @@ Có ba tùy chọn để cài đặt "Aspose.Cells for PHP via Java" vào hệ t
 
 {{% blocks/products/pf/agp/text %}}
 
-Aspose.Cells for PHP via Java là nền tảng độc lập API và có thể được sử dụng trên mọi nền tảng (Windows, Linux, MacOS, v.v.) có cài đặt phiên bản PHP 7 trở lên. Máy phải có phiên bản Oracle JDK 7 trở lên trước khi thiết lập cài đặt.
+ Aspose.Cells for PHP via Java là nền tảng độc lập API và có thể được sử dụng trên bất kỳ nền tảng nào (Windows, Linux, MacOS, v.v.) nơi đã cài đặt PHP phiên bản 7 trở lên. Máy tính phải có Oracle JDK phiên bản 7 trở lên trước khi thiết lập cài đặt.
  
 {{% /blocks/products/pf/agp/text %}}
 
@@ -72,7 +72,7 @@ Aspose.Cells for PHP via Java là nền tảng độc lập API và có thể đ
 
 <!-- aboutfile Starts -->
     {{< blocks/products/pf/agp/about-file-section >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="NUMBERS" readMoreLink="https://docs.fileformat.com/spreadsheet/numbers/" >}} Các tệp có phần mở rộng .numbers được phân loại là loại tệp bảng tính, đó là lý do tại sao chúng tương tự như tệp .xlsx; nhưng các tệp Numbers được tạo bằng cách sử dụng phần mềm bảng tính Apple iWork Numbers. Apple iWork Numbers là một phần mềm đơn vị của iWork Productivity Suite. Bộ năng suất iWork tương đương với Bộ Office Microsoft được sử dụng trên Windows PC. Do đó, chúng ta có thể nói Numbers có sẵn cho MacOS cũng là đối thủ cạnh tranh của Microsoft Excel. Tương tự như vậy, Microsoft Excel, tệp SỐ cũng có thể chứa các bảng, biểu đồ và công thức.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="NUMBERS" readMoreLink="https://docs.fileformat.com/spreadsheet/numbers/" >}}Các tệp có phần mở rộng .numbers được phân loại là loại tệp bảng tính, đó là lý do tại sao chúng tương tự như tệp .xlsx; nhưng các tệp Numbers được tạo bằng cách sử dụng phần mềm bảng tính Apple iWork Numbers. Apple iWork Numbers là một phần mềm đơn vị của iWork Productivity Suite. Bộ năng suất iWork tương đương với Bộ Office Microsoft được sử dụng trên Windows PC. Do đó, chúng ta có thể nói Numbers có sẵn cho MacOS cũng là đối thủ cạnh tranh của Microsoft Excel. Tương tự như vậy, Microsoft Excel, tệp SỐ cũng có thể chứa các bảng, biểu đồ và công thức.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="IMAGE" readMoreLink="https://docs.fileformat.com/image/png/" >}}Tệp PNG (Đồ họa mạng di động) là định dạng tệp hình ảnh raster sử dụng tính năng nén không mất dữ liệu. Định dạng tệp này được tạo để thay thế Định dạng trao đổi đồ họa (GIF) và không có giới hạn bản quyền. Tuy nhiên, định dạng file PNG không hỗ trợ ảnh động. Định dạng tệp PNG hỗ trợ nén hình ảnh không mất dữ liệu khiến nó trở nên phổ biến đối với người dùng. Theo thời gian, PNG đã phát triển thành một trong những định dạng tệp hình ảnh được sử dụng rộng rãi.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
     {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->

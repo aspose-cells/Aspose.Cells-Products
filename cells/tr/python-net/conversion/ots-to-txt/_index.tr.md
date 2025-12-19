@@ -1,7 +1,7 @@
 ---
 title: Python OTS'den TXT'e - OTS'den TXT'e dönüştürücü
-description: Aspose Excel'de. Python Excel'de. Aspose.Cells ile hızlı ve kolay bir şekilde OTS'yi TXT'e dönüştürün. Python OTS'yi TXT'e dönüştürün. Python OTS'yi TXT'e kaydedin. Python Excel Kitaplığını kullanarak OTS'yi TXT olarak kaydedin.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert OTS to TXT in Python Excel Library., Save OTS to TXT using Python Excel Library., Python OTS to TXT saveformat., OTS to TXT Converter., Python Save OTS as TXT]
+description: Aspose Excel. Bu kapsamlı çözüm, Python geliştiricilere OTS'yi TXT formatına dönüştürmek için tamamen entegre bir yaklaşım sunarak, Aspose.Cells kütüphanesini kullanarak OTS verilerinin TXT formatına sorunsuz bir şekilde kaydedilmesini sağlar; tüm bunlar verimli ve özelleştirilebilir Python kod aracılığıyla gerçekleştirilir.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart OTS files to TXT Converter for Python., Convert OTS to TXT in Python., OTS files to TXT Conversion in Python., Leverage intelligent data processing to automatically parse and save OTS into TXT format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Python Excel Kitaplığı\'nda OTS\'yi TXT\'e dönüştürün" h2="OTS\'yi TXT\'e dönüştürmek için yüksek hızlı Python excel kitaplığı. Python\'de üst düzey, platformdan bağımsız yazılım geliştirmek için API excel dönüşümümüzü kullanın." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="TXT" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -28,7 +28,7 @@ OTS'yi TXT'e dönüştürmek için kolay adımları izleyin. OTS dosyanızı yü
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="OTS\'yi Python Excel Kitaplığı aracılığıyla TXT\'e Dönüştürmek için Örnek Kod" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="ots" outformat="txt" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="OTS\'yi Python Excel Kitaplığı aracılığıyla TXT\'e Dönüştürmek için Örnek Kod" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="ots" outformat="txt" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="OTS\'yi TXT\'e Dönüştürme" %}}
 

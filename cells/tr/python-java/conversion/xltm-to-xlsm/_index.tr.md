@@ -1,7 +1,7 @@
 ---
 title: Python XLTM ila XLSM - XLTM ila XLSM Dönüştürücü
-description: Aspose Excel'de. Python Excel'de. Aspose.Cells ile hızlı ve kolay bir şekilde XLTM'i XLSM'e dönüştürün. Python XLTM'i XLSM'e dönüştürün. Python XLTM'i XLSM'e kaydedin. XLTM'i 076112 olarak kaydedin Python Excel Kitaplığı'nı kullanarak 3481.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert XLTM to XLSM in Python Excel Library., Save XLTM to XLSM using Python Excel Library., Python XLTM to XLSM saveformat., XLTM to XLSM Converter., Python Save XLTM as XLSM]
+description: Aspose Excel. Bu kapsamlı çözüm, Python geliştiricilerine XLTM'i XLSM formatına dönüştürmek için tamamen entegre bir yaklaşım sunarak, XLTM verilerinin XLSM formatına Aspose.Cells kütüphanesi kullanılarak sorunsuz bir şekilde kaydedilmesini sağlar; tüm bunlar verimli ve özelleştirilebilir Python kod aracılığıyla gerçekleştirilir.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart XLTM files to XLSM Converter for Python., Convert XLTM to XLSM in Python., XLTM files to XLSM Conversion in Python., Leverage intelligent data processing to automatically parse and save XLTM into XLSM format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="XLTM\'i Python Excel Kitaplığı\'nda XLSM\'e dönüştürün" h2="XLTM\'i XLSM\'e dönüştürmek için yüksek hızlı Python excel kitaplığı. Bu, XLTM, XLSM ve Python\'i kullanarak diğer birçok formatı içe ve dışa aktarmak için profesyonel bir yazılım çözümüdür." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSM" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -27,7 +27,7 @@ XLTM'i XLSM'e dönüştürmek için kolay adımları izleyin. XLTM dosyanızı y
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="XLTM\'i Python Excel Kitaplığı aracılığıyla XLSM\'e Dönüştürmek için Örnek Kod" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xltm" outformat="xlsm" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="XLTM\'i Python Excel Kitaplığı aracılığıyla XLSM\'e Dönüştürmek için Örnek Kod" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="xltm" outformat="xlsm" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="XLTM\'i Python aracılığıyla XLSM\'e dönüştürme" %}}
 

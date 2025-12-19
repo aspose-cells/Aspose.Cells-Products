@@ -1,8 +1,8 @@
 ---
-title:  Python Excel 電子表格 API - Aspose
+title: Python Excel電子表格 API - Aspose.Cells for Python via .NET
 weight: 2800
-description: Python 用於建立、修復、合併、解析和轉換 Excel 檔案的程式庫。將excel轉換為PDF、JSON、HTML、TXT和其他流行格式。
-keywords: [Python Aspose.Cells Create repair merge convert JSON Excel XML PDF HTML TSV SQL ODS CSV TSV PNG JPEG and more formats]
+description: Aspose.Cells、for Python 和 via .NET 函式庫用於建立、修復、合併、解析和轉換 Excel 檔案。這款功能強大的 API 庫提供了一種精簡高效的解決方案，用於創建、修復、合併、解析和轉換 Excel 文件，能夠高精度地滿足開發人員的特定需求。
+keywords: [Aspose.Cells for Python via .NET Create repair merge convert JSON Excel XML PDF HTML TSV SQL ODS CSV TSV PNG JPEG and more formats]
 ---
 {{< blocks/products/pf/main-wrap-class >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Python Excel電子表格解析API" h2="在 Python 應用程式中產生、讀取、寫入或操作電子表格以及將 Excel 檔案匯出為多種格式。" logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/cells/headers/aspose_cells-for-python-via-net.svg" pfName="Aspose.Cells" subTitlepfName="for Python via .NET" downloadUrl="https://releases.aspose.com/cells/python-net/" >}}

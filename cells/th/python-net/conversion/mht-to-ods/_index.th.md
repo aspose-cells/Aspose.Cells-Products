@@ -1,7 +1,7 @@
 ---
 title: Python MHT เป็น ODS - ตัวแปลง MHT เป็น ODS
-description: Aspose เอ็กเซล. Python เอ็กเซล. แปลง MHT เป็น ODS อย่างรวดเร็วและง่ายดายด้วย Aspose.Cells Python MHT เป็น ODS Python บันทึก MHT เป็น ODS บันทึก MHT เป็น ODS โดยใช้ Python Excel Library
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert MHT to ODS in Python Excel Library., Save MHT to ODS using Python Excel Library., Python MHT to ODS saveformat., MHT to ODS Converter., Python Save MHT as ODS]
+description: Aspose Excel โซลูชันที่ครอบคลุมนี้มอบแนวทางแบบบูรณาการอย่างสมบูรณ์แก่ผู้พัฒนา Python ในการแปลง MHT เป็นรูปแบบ ODS ทำให้สามารถบันทึกข้อมูล MHT ลงในรูปแบบ ODS ได้อย่างราบรื่นโดยใช้ไลบรารี Aspose.Cells ทั้งหมดนี้ผ่านโค้ด Python ที่มีประสิทธิภาพและปรับแต่งได้
+keywords: [Aspose Excel., Python Aspose.Cells., Smart MHT files to ODS Converter for Python., Convert MHT to ODS in Python., MHT files to ODS Conversion in Python., Leverage intelligent data processing to automatically parse and save MHT into ODS format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="แปลง MHT เป็น ODS ในไลบรารี Excel Python" h2="ไลบรารี Excel Python ความเร็วสูงสำหรับการแปลง MHT เป็น ODS ใช้การแปลง Excel API ของเราเพื่อพัฒนาซอฟต์แวร์อิสระแพลตฟอร์มระดับสูงใน Python" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="ODS" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -28,7 +28,7 @@ keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert M
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="โค้ดตัวอย่างในการแปลง MHT เป็น ODS ผ่าน Python Excel Library" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="mht" outformat="ods" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="โค้ดตัวอย่างในการแปลง MHT เป็น ODS ผ่าน Python Excel Library" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="mht" outformat="ods" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="วิธีแปลง MHT เป็น ODS" %}}
 

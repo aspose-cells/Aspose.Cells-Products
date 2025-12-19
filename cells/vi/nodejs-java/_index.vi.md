@@ -1,10 +1,10 @@
 ---
-title:  API Node.js cho bảng tính Excel - Aspose
+title:  Node.js via Java API dành cho bảng tính Excel - Aspose
 weight: 3120
-description: Xử lý các định dạng tệp Excel thông qua thư viện Node.js. Đọc ghi kết xuất & chuyển đổi XLS XLSX XLSB XLTX XLTM XLSM XML ODS CSV và nhiều định dạng khác qua Node.js trên Windows, macOS & Linux
+description: Xử lý các định dạng tệp Excel bằng thư viện Node.js via Java. Đọc, ghi, hiển thị và chuyển đổi các định dạng XLS, XLSX, XLSB, XLTX, XLTM, XLSM, XML, ODS, CSV và nhiều định dạng khác bằng Node.js via Java trên hệ điều hành Windows, macOS và Linux.
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="API định dạng tệp Excel của Node.js" h2="Tạo, sửa đổi, chuyển đổi và hiển thị bảng tính Excel bằng Node.js mà không yêu cầu Microsoft Excel." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/headers/aspose_cells-for-nodejs-java.svg" pfName="Aspose.Cells" subTitlepfName="for Node.js via Java" downloadUrl="https://downloads.aspose.com/cells/nodejs" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="Node.js via Java API định dạng tệp Excel" h2="Tạo, chỉnh sửa, chuyển đổi và hiển thị bảng tính Excel bằng Node.js via Java mà không cần Excel Microsoft." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/headers/aspose_cells-for-nodejs-java.svg" pfName="Aspose.Cells" subTitlepfName="for Node.js via Java" downloadUrl="https://downloads.aspose.com/cells/nodejs" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells" subTitlepfName="for Node.js via Java" >}}
 
@@ -12,7 +12,7 @@ description: Xử lý các định dạng tệp Excel thông qua thư viện Nod
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
-Aspose.Cells for Node.js via Java là một API giàu tính năng và có thể mở rộng để xử lý bảng tính Excel bằng Node.js. API cung cấp tính năng chuyển đổi định dạng tệp Excel, tạo kiểu cho bảng tính ở mức chi tiết nhất, tạo &amp; kết xuất, công cụ tính toán công thức đáng tin cậy và hơn thế nữa.
+ Aspose.Cells for Node.js via Java là một công cụ giàu tính năng và có khả năng mở rộng API để xử lý bảng tính Excel bằng Node.js via Java. API cung cấp khả năng chuyển đổi định dạng tệp Excel, tạo kiểu bảng tính ở mức độ chi tiết nhất, tạo và hiển thị biểu đồ, công cụ tính toán công thức đáng tin cậy và nhiều hơn nữa.
 </p>
 
 <p>
@@ -271,7 +271,7 @@ Chỉ đầu ra
  <div class="row">
   <div class="container">
    <h2 class="pr-ft">
- Các tính năng của Bảng tính Excel Node.js nâng cao API
+ Node.js nâng cao via Java Bảng tính Excel API Tính năng
    </h2>
    <p>
    </p>
@@ -343,7 +343,7 @@ Chỉ đầu ra
  Hiển thị bảng tính Excel
     </h2>
     <p>
-Aspose.Cells for Node.js via Java sử dụng công cụ kết xuất của nó để kết xuất sang Microsoft Excel với độ trung thực cao nhất. Trong khi sử dụng thư viện Xử lý Excel của Node.js, người ta có thể chuyển đổi toàn bộ trang tính, tệp riêng lẻ hoặc biểu đồ thành nhiều hình ảnh và định dạng bố cục cố định.
+ Aspose.Cells for Node.js via Java sử dụng công cụ kết xuất của nó để hiển thị sang Excel Microsoft với độ chính xác cao nhất. Trong khi sử dụng thư viện xử lý Excel Node.js via Java, người ta có thể chuyển đổi toàn bộ trang tính, các tệp riêng lẻ hoặc biểu đồ thành nhiều hình ảnh và định dạng bố cục cố định.
     </p>
    </div>
    <div class="col-lg-12">
@@ -415,7 +415,7 @@ Aspose.Cells for Node.js via Java hỗ trợ đầy đủ về biểu đồ. Ng�
 
 {{< /blocks/products/pf/i18n/support-learning-resources >}}
 
-{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://downloads.aspose.com/cells/nodejs" pricingInformationLink="https://purchase.aspose.com/pricing/cells/nodejs-java" >}}
+{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://releases.aspose.com/cells/nodejs/" pricingInformationLink="https://purchase.aspose.com/pricing/cells/nodejs-java" >}}
 
 {{< blocks/products/pf/offers-section pfName="Aspose.Cells" description="Aspose.Cells cung cấp các API Excel riêng lẻ cho các môi trường phát triển phổ biến khác như được liệt kê bên dưới:" >}}
 

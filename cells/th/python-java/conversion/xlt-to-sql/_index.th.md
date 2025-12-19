@@ -1,7 +1,7 @@
 ---
 title: Python XLT เป็น SQL - XLT เป็น SQL Converter
-description: Aspose เอ็กเซล. Python เอ็กเซล. แปลง XLT เป็น SQL อย่างรวดเร็วและง่ายดายด้วย Aspose.Cells Python XLT เป็น SQL Python บันทึก XLT ลงใน SQL บันทึก XLT เป็น SQL โดยใช้ Python Excel Library
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert XLT to SQL in Python Excel Library., Save XLT to SQL using Python Excel Library., Python XLT to SQL saveformat., XLT to SQL Converter., Python Save XLT as SQL]
+description: Aspose Excel โซลูชันที่ครอบคลุมนี้มอบแนวทางแบบบูรณาการอย่างสมบูรณ์ให้กับนักพัฒนา Python ในการแปลง XLT เป็นรูปแบบ SQL ทำให้สามารถบันทึกข้อมูล XLT ลงในรูปแบบ SQL ได้อย่างราบรื่นโดยใช้ไลบรารี Aspose.Cells ทั้งหมดนี้ผ่านโค้ด Python ที่มีประสิทธิภาพและปรับแต่งได้
+keywords: [Aspose Excel., Python Aspose.Cells., Smart XLT files to SQL Converter for Python., Convert XLT to SQL in Python., XLT files to SQL Conversion in Python., Leverage intelligent data processing to automatically parse and save XLT into SQL format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="แปลง XLT เป็น SQL ในไลบรารี Excel Python" h2="ไลบรารี Excel Python ความเร็วสูงสำหรับการแปลง XLT เป็น SQL นี่คือโซลูชันซอฟต์แวร์ระดับมืออาชีพสำหรับการนำเข้าและส่งออก XLT, SQL และรูปแบบอื่นๆ อีกมากมายโดยใช้ Python" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="SQL" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -27,7 +27,7 @@ keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert X
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="โค้ดตัวอย่างในการแปลง XLT เป็น SQL ผ่าน Python Excel Library" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlt" outformat="sql" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="โค้ดตัวอย่างในการแปลง XLT เป็น SQL ผ่าน Python Excel Library" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="xlt" outformat="sql" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="วิธีแปลง XLT เป็น SQL ผ่าน Python" %}}
 

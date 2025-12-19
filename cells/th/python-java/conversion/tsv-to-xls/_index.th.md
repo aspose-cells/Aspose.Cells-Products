@@ -1,7 +1,7 @@
 ---
 title: Python TSV ถึง XLS - TSV ถึง XLS ตัวแปลง
-description: Aspose เอ็กเซล. Python เอ็กเซล. แปลง TSV เป็น XLS อย่างรวดเร็วและง่ายดายด้วย Aspose.Cells Python TSV ถึง XLS Python บันทึก TSV ถึง XLS บันทึก TSV เป็น 076112 3481 ใช้ Python ไลบรารี Excel
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert TSV to XLS in Python Excel Library., Save TSV to XLS using Python Excel Library., Python TSV to XLS saveformat., TSV to XLS Converter., Python Save TSV as XLS]
+description: Aspose Excel โซลูชันที่ครอบคลุมนี้มอบแนวทางแบบบูรณาการอย่างสมบูรณ์แก่ผู้พัฒนา Python ในการแปลง TSV เป็นรูปแบบ XLS ทำให้สามารถบันทึกข้อมูล TSV ลงในรูปแบบ XLS ได้อย่างราบรื่นโดยใช้ไลบรารี Aspose.Cells ทั้งหมดนี้ผ่านโค้ด Python ที่มีประสิทธิภาพและปรับแต่งได้
+keywords: [Aspose Excel., Python Aspose.Cells., Smart TSV files to XLS Converter for Python., Convert TSV to XLS in Python., TSV files to XLS Conversion in Python., Leverage intelligent data processing to automatically parse and save TSV into XLS format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="แปลง TSV เป็น XLS ในไลบรารี Excel Python" h2="ไลบรารี Excel Python ความเร็วสูงสำหรับการแปลง TSV เป็น XLS นี่คือโซลูชันซอฟต์แวร์ระดับมืออาชีพสำหรับการนำเข้าและส่งออก TSV, XLS และรูปแบบอื่นๆ อีกมากมายโดยใช้ Python" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLS" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -27,7 +27,7 @@ keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert T
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="โค้ดตัวอย่างในการแปลง TSV เป็น XLS ผ่าน Python Excel Library" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="tsv" outformat="xls" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="โค้ดตัวอย่างในการแปลง TSV เป็น XLS ผ่าน Python Excel Library" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="tsv" outformat="xls" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="วิธีแปลง TSV เป็น XLS ผ่าน Python" %}}
 

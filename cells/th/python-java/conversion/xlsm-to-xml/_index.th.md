@@ -1,7 +1,7 @@
 ---
 title: Python XLSM เป็น XML - XLSM เป็น XML Converter
-description: Aspose เอ็กเซล. Python เอ็กเซล. แปลง XLSM เป็น XML อย่างรวดเร็วและง่ายดายด้วย Aspose.Cells Python XLSM เป็น XML Python บันทึก XLSM ลงใน XML บันทึก XLSM เป็น XML โดยใช้ไลบรารี Excel Python
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert XLSM to XML in Python Excel Library., Save XLSM to XML using Python Excel Library., Python XLSM to XML saveformat., XLSM to XML Converter., Python Save XLSM as XML]
+description: Aspose Excel โซลูชันที่ครอบคลุมนี้มอบแนวทางแบบบูรณาการอย่างสมบูรณ์ให้กับนักพัฒนา Python ในการแปลง XLSM เป็นรูปแบบ XML ทำให้สามารถบันทึกข้อมูล XLSM ลงในรูปแบบ XML ได้อย่างราบรื่นโดยใช้ไลบรารี Aspose.Cells ทั้งหมดนี้ผ่านโค้ด Python ที่มีประสิทธิภาพและปรับแต่งได้
+keywords: [Aspose Excel., Python Aspose.Cells., Smart XLSM files to XML Converter for Python., Convert XLSM to XML in Python., XLSM files to XML Conversion in Python., Leverage intelligent data processing to automatically parse and save XLSM into XML format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="แปลง XLSM เป็น XML ในไลบรารี Excel Python" h2="ไลบรารี Excel Python ความเร็วสูงสำหรับการแปลง XLSM เป็น XML นี่คือโซลูชันซอฟต์แวร์ระดับมืออาชีพสำหรับการนำเข้าและส่งออก XLSM, XML และรูปแบบอื่นๆ อีกมากมายโดยใช้ Python" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="XML" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -27,7 +27,7 @@ keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert X
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="โค้ดตัวอย่างในการแปลง XLSM เป็น XML ผ่าน Python Excel Library" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsm" outformat="xml" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="โค้ดตัวอย่างในการแปลง XLSM เป็น XML ผ่าน Python Excel Library" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="xlsm" outformat="xml" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="วิธีแปลง XLSM เป็น XML ผ่าน Python" %}}
 

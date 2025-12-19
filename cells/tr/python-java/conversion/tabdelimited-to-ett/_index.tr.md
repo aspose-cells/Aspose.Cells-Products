@@ -1,7 +1,7 @@
 ---
 title: Python TABDELIMITED'den ETT'ye - TABDELIMITED'den ETT'ye Dönüştürücü
-description: Aspose Excel'de. Python Excel'de. Aspose.Cells ile hızlı ve kolay bir şekilde TABDELIMITED'i ETT'ye dönüştürün. Python TABDELIMITED'i ETT'ye dönüştürün. Python TABDELIMITED'i ETT'ye kaydet. Python Excel Kütüphanesini kullanarak TABDELIMITED'ı ETT olarak kaydedin.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert TABDELIMITED to ETT in Python Excel Library., Save TABDELIMITED to ETT using Python Excel Library., Python TABDELIMITED to ETT saveformat., TABDELIMITED to ETT Converter., Python Save TABDELIMITED as ETT]
+description: Aspose Excel. Bu kapsamlı çözüm, Python geliştiricilere TABDELIMITED'ı ETT formatına dönüştürmek için tamamen entegre bir yaklaşım sunarak, Aspose.Cells kütüphanesini kullanarak TABDELIMITED verilerinin ETT formatına sorunsuz bir şekilde kaydedilmesini sağlar; tüm bunlar verimli ve özelleştirilebilir Python kod aracılığıyla gerçekleştirilir.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart TABDELIMITED files to ETT Converter for Python., Convert TABDELIMITED to ETT in Python., TABDELIMITED files to ETT Conversion in Python., Leverage intelligent data processing to automatically parse and save TABDELIMITED into ETT format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Python Excel Kitaplığı\'nda TABDELIMITED\'ı ETT\'ye dönüştürün" h2="TABDELIMITED\'i ETT\'ye dönüştürmek için yüksek hızlı Python excel kitaplığı. Bu, Python\'i kullanarak TABDELIMITED, ETT ve diğer birçok formatı içe ve dışa aktarmak için profesyonel bir yazılım çözümüdür." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="ETT" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -27,7 +27,7 @@ TABDELIMITED'i ETT'ye dönüştürmek için kolay adımları izleyin. TABDELIMIT
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Python Excel Kitaplığı aracılığıyla TABDELIMITED\'ı ETT\'ye Dönüştürmek için Örnek Kod" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="tsv" outformat="ett" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="Python Excel Kitaplığı aracılığıyla TABDELIMITED\'ı ETT\'ye Dönüştürmek için Örnek Kod" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="tsv" outformat="ett" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="Python aracılığıyla TABDELIMITED\'i ETT\'ye dönüştürme" %}}
 

@@ -1,7 +1,7 @@
 ---
 title: Python TABDELIMITED - SPREADSHEETML - TABDELIMITED - SPREADSHEETML Dönüştürücü
-description: Aspose Excel'de. Python Excel'de. Aspose.Cells ile TABDELIMITED'ı hızlı ve kolay bir şekilde SPREADSHEETML'e dönüştürün. Python TABDELIMITED'ı SPREADSHEETML'e dönüştürün. Python TABDELIMITED'i SPREADSHEETML'e kaydet. Python Excel Kütüphanesini kullanarak TABDELIMITED'ı SPREADSHEETML olarak kaydedin.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert TABDELIMITED to SPREADSHEETML in Python Excel Library., Save TABDELIMITED to SPREADSHEETML using Python Excel Library., Python TABDELIMITED to SPREADSHEETML saveformat., TABDELIMITED to SPREADSHEETML Converter., Python Save TABDELIMITED as SPREADSHEETML]
+description: Aspose Excel. Bu kapsamlı çözüm, Python geliştiricilere TABDELIMITED'ı SPREADSHEETML formatına dönüştürmek için tamamen entegre bir yaklaşım sunarak, Aspose.Cells kütüphanesini kullanarak TABDELIMITED verilerinin SPREADSHEETML formatına sorunsuz bir şekilde kaydedilmesini sağlar; tüm bunlar verimli ve özelleştirilebilir Python kod aracılığıyla gerçekleştirilir.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart TABDELIMITED files to SPREADSHEETML Converter for Python., Convert TABDELIMITED to SPREADSHEETML in Python., TABDELIMITED files to SPREADSHEETML Conversion in Python., Leverage intelligent data processing to automatically parse and save TABDELIMITED into SPREADSHEETML format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Python Excel Kitaplığı\'nda TABDELIMITED\'ı SPREADSHEETML\'ye dönüştürün" h2="TABDELIMITED\'ı SPREADSHEETML\'e dönüştürmek için yüksek hızlı Python excel kitaplığı. Python\'de üst düzey, platformdan bağımsız yazılım geliştirmek için API excel dönüşümümüzü kullanın." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="SPREADSHEETML" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -28,7 +28,7 @@ TABDELIMITED'i SPREADSHEETML'e dönüştürmek için kolay adımları izleyin. T
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Python Excel Kütüphanesi aracılığıyla TABDELIMITED\'ı SPREADSHEETML\'e Dönüştürmek için Örnek Kod" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="tsv" outformat="xml" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Python Excel Kütüphanesi aracılığıyla TABDELIMITED\'ı SPREADSHEETML\'e Dönüştürmek için Örnek Kod" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="tsv" outformat="xml" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="TABDELIMITED\'i SPREADSHEETML\'ye dönüştürme" %}}
 

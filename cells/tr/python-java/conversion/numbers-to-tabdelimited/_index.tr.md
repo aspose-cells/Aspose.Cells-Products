@@ -1,7 +1,7 @@
 ---
 title: Python NUMBERS - TABDELIMITED - NUMBERS - TABDELIMITED Dönüştürücü
-description: Aspose Excel'de. Python Excel'de. Aspose.Cells ile NUMBERS'ı hızlı ve kolay bir şekilde TABDELIMITED'e dönüştürün. Python NUMBERS'i TABDELIMITED'e dönüştürün. Python NUMARALARI TABDELIMITED'a kaydedin. NUMBERS'ı Python Excel Kitaplığı'nı kullanarak TABDELIMITED olarak kaydedin.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert NUMBERS to TABDELIMITED in Python Excel Library., Save NUMBERS to TABDELIMITED using Python Excel Library., Python NUMBERS to TABDELIMITED saveformat., NUMBERS to TABDELIMITED Converter., Python Save NUMBERS as TABDELIMITED]
+description: Aspose Excel. Bu kapsamlı çözüm, Python geliştiricilere, sayıları TABLO AYRILMITED formatına dönüştürmek için tamamen entegre bir yaklaşım sunarak, Aspose.Cells kütüphanesini kullanarak sayı verilerinin TABLO AYRILMITED formatına sorunsuz bir şekilde kaydedilmesini sağlar; tüm bunlar verimli ve özelleştirilebilir Python kod aracılığıyla gerçekleştirilir.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart NUMBERS files to TABDELIMITED Converter for Python., Convert NUMBERS to TABDELIMITED in Python., NUMBERS files to TABDELIMITED Conversion in Python., Leverage intelligent data processing to automatically parse and save NUMBERS into TABDELIMITED format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Python Excel Kitaplığı\'nda NUMBERS\'ı TABDELIMITED\'a dönüştürün" h2="NUMBERS\'ı TABDELIMITED\'e dönüştürmek için yüksek hızlı Python excel kitaplığı. Bu, NUMBERS, TABDELIMITED ve diğer birçok formatı Python kullanarak içe ve dışa aktarmak için kullanılan profesyonel bir yazılım çözümüdür." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="TABDELIMITED" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -27,7 +27,7 @@ NUMBERS'ı TABDELIMITED'e dönüştürmek için kolay adımları izleyin. NUMBER
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Python Excel Kitaplığı aracılığıyla NUMBERS\'ı TABDELIMITED\'a Dönüştürmek için Örnek Kod" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="numbers" outformat="tsv" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="Python Excel Kitaplığı aracılığıyla NUMBERS\'ı TABDELIMITED\'a Dönüştürmek için Örnek Kod" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="numbers" outformat="tsv" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="NUMBERS\'i Python aracılığıyla TABDELIMITED\'e dönüştürme" %}}
 

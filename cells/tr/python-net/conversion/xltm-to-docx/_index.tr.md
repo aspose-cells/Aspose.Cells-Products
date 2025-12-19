@@ -1,7 +1,7 @@
 ---
 title: Python XLTM ila DOCX - XLTM ila DOCX Dönüştürücü
-description: Aspose Excel'de. Python Excel'de. Aspose.Cells ile hızlı ve kolay bir şekilde XLTM'i DOCX'e dönüştürün. Python XLTM'i DOCX'e dönüştürün. Python XLTM'i DOCX'e kaydedin. XLTM'i 076112 olarak kaydedin Python Excel Kitaplığı'nı kullanarak 3481.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert XLTM to DOCX in Python Excel Library., Save XLTM to DOCX using Python Excel Library., Python XLTM to DOCX saveformat., XLTM to DOCX Converter., Python Save XLTM as DOCX]
+description: Aspose Excel. Bu kapsamlı çözüm, Python geliştiricilerine XLTM'i DOCX formatına dönüştürmek için tamamen entegre bir yaklaşım sunarak, XLTM verilerinin DOCX formatına Aspose.Cells kütüphanesi kullanılarak sorunsuz bir şekilde kaydedilmesini sağlar; tüm bunlar verimli ve özelleştirilebilir Python kod aracılığıyla gerçekleştirilir.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart XLTM files to DOCX Converter for Python., Convert XLTM to DOCX in Python., XLTM files to DOCX Conversion in Python., Leverage intelligent data processing to automatically parse and save XLTM into DOCX format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="XLTM\'i Python Excel Kitaplığı\'nda DOCX\'e dönüştürün" h2="XLTM\'i DOCX\'e dönüştürmek için yüksek hızlı Python excel kitaplığı. Python\'de üst düzey, platformdan bağımsız yazılım geliştirmek için API excel dönüştürmemizi kullanın." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="DOCX" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -28,7 +28,7 @@ XLTM'i DOCX'e dönüştürmek için kolay adımları izleyin. XLTM dosyanızı y
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="XLTM\'i Python Excel Kitaplığı aracılığıyla DOCX\'e Dönüştürmek için Örnek Kod" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xltm" outformat="docx" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="XLTM\'i Python Excel Kitaplığı aracılığıyla DOCX\'e Dönüştürmek için Örnek Kod" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="xltm" outformat="docx" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="XLTM\'i DOCX\'e Dönüştürme" %}}
 

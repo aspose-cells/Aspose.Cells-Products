@@ -1,7 +1,7 @@
 ---
 title: Python EXCEL'den OTS'ye - EXCEL'den OTS'ye dönüştürücü
-description: Aspose Excel'de. Python Excel'de. Aspose.Cells ile EXCEL'i hızlı ve kolay bir şekilde OTS'ye dönüştürün. Python EXCEL'i OTS'ye dönüştürün. Python EXCEL'i OTS'ye kaydedin. Python Excel Kütüphanesini kullanarak EXCEL'i OTS olarak kaydedin.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert EXCEL to OTS in Python Excel Library., Save EXCEL to OTS using Python Excel Library., Python EXCEL to OTS saveformat., EXCEL to OTS Converter., Python Save EXCEL as OTS]
+description: Aspose Excel. Bu kapsamlı çözüm, Python geliştiricilere EXCEL'i OTS formatına dönüştürmek için tamamen entegre bir yaklaşım sunarak, Aspose.Cells kütüphanesini kullanarak EXCEL verilerinin OTS formatına sorunsuz bir şekilde kaydedilmesini sağlar; tüm bunlar verimli ve özelleştirilebilir Python kod aracılığıyla gerçekleştirilir.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart EXCEL files to OTS Converter for Python., Convert EXCEL to OTS in Python., EXCEL files to OTS Conversion in Python., Leverage intelligent data processing to automatically parse and save EXCEL into OTS format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Python Excel Kitaplığı\'nda EXCEL\'i OTS\'ye dönüştürün" h2="EXCEL\'i OTS\'ye dönüştürmek için yüksek hızlı Python excel kitaplığı. Bu, Python\'i kullanarak EXCEL, OTS ve diğer birçok formatı içe ve dışa aktarmak için profesyonel bir yazılım çözümüdür." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="OTS" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -27,7 +27,7 @@ EXCEL'i OTS'ye dönüştürmek için kolay adımları izleyin. EXCEL dosyanızı
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Python Excel Kitaplığı aracılığıyla EXCEL\'i OTS\'ye Dönüştürmek için Örnek Kod" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsx" outformat="ots" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="Python Excel Kitaplığı aracılığıyla EXCEL\'i OTS\'ye Dönüştürmek için Örnek Kod" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="xlsx" outformat="ots" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="Python aracılığıyla EXCEL\'i OTS\'ye dönüştürme" %}}
 

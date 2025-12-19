@@ -1,8 +1,8 @@
 ---
-title:  Python สเปรดชีต Excel API - Aspose
+title: Python สเปรดชีต Excel API - Aspose.Cells for Python via .NET
 weight: 2800
-description: ไลบรารี Python เพื่อสร้าง ซ่อมแซม ผสาน แยกวิเคราะห์ และแปลงไฟล์ Excel แปลง Excel เป็น PDF, JSON, HTML, TXT และรูปแบบยอดนิยมอื่นๆ
-keywords: [Python Aspose.Cells Create repair merge convert JSON Excel XML PDF HTML TSV SQL ODS CSV TSV PNG JPEG and more formats]
+description: Aspose.Cells for Python via .NET ไลบรารีสำหรับการสร้าง ซ่อมแซม ผสาน วิเคราะห์ และแปลงไฟล์ Excel ไลบรารีอันทรงพลังนี้ (API) มอบโซลูชันที่คล่องตัวและมีประสิทธิภาพสำหรับการสร้าง ซ่อมแซม ผสาน วิเคราะห์ และแปลงไฟล์ Excel ตอบสนองความต้องการเฉพาะของนักพัฒนาด้วยความแม่นยำสูง
+keywords: [Aspose.Cells for Python via .NET Create repair merge convert JSON Excel XML PDF HTML TSV SQL ODS CSV TSV PNG JPEG and more formats]
 ---
 {{< blocks/products/pf/main-wrap-class >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Python API การแยกวิเคราะห์สเปรดชีต Excel" h2="สร้าง อ่าน เขียน หรือจัดการสเปรดชีต รวมถึงส่งออกไฟล์ Excel ไปยังหลายรูปแบบภายในแอปพลิเคชัน Python" logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/cells/headers/aspose_cells-for-python-via-net.svg" pfName="Aspose.Cells" subTitlepfName="for Python via .NET" downloadUrl="https://releases.aspose.com/cells/python-net/" >}}

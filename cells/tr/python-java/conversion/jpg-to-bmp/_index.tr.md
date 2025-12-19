@@ -1,7 +1,7 @@
 ---
 title: Python JPG'den BMP'e - JPG'den BMP'e dönüştürücü
-description: Aspose Excel'de. Python Excel'de. Aspose.Cells ile JPG'yi hızlı ve kolay bir şekilde BMP'e dönüştürün. Python JPG'yi BMP'e dönüştürün. Python JPG'yi BMP'e kaydedin. Python Excel Kütüphanesini kullanarak JPG'yi BMP olarak kaydedin.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert JPG to BMP in Python Excel Library., Save JPG to BMP using Python Excel Library., Python JPG to BMP saveformat., JPG to BMP Converter., Python Save JPG as BMP]
+description: Aspose Excel. Bu kapsamlı çözüm, Python geliştiricilere JPG'yi BMP formatına dönüştürmek için tamamen entegre bir yaklaşım sunarak, Aspose.Cells kütüphanesini kullanarak JPG verilerinin BMP formatına sorunsuz bir şekilde kaydedilmesini sağlar; tüm bunlar verimli ve özelleştirilebilir Python kod aracılığıyla gerçekleştirilir.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart JPG files to BMP Converter for Python., Convert JPG to BMP in Python., JPG files to BMP Conversion in Python., Leverage intelligent data processing to automatically parse and save JPG into BMP format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Python Excel Kütüphanesinde JPG\'yi BMP\'e dönüştürün" h2="JPG\'yi BMP\'e dönüştürmek için yüksek hızlı Python excel kütüphanesi. Bu, Python\'i kullanarak JPG, BMP ve diğer birçok formatı içe ve dışa aktarmak için profesyonel bir yazılım çözümüdür." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="BMP" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -27,7 +27,7 @@ JPG'yi BMP'e dönüştürmek için kolay adımları izleyin. JPG dosyanızı yü
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="JPG\'yi Python Excel Kitaplığı aracılığıyla BMP\'e Dönüştürmek için Örnek Kod" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="jpg" outformat="bmp" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="JPG\'yi Python Excel Kitaplığı aracılığıyla BMP\'e Dönüştürmek için Örnek Kod" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="jpg" outformat="bmp" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="JPG\'yi Python aracılığıyla BMP\'e dönüştürme" %}}
 

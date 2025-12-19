@@ -1,7 +1,7 @@
 ---
 title: Python XLS'den JPG'ye - XLS'den JPG'ye Dönüştürücü
-description: Aspose Excel'de. Python Excel'de. Aspose.Cells ile XLS'i hızlı ve kolay bir şekilde JPG'ye dönüştürün. Python XLS'i JPG'ye dönüştürün. Python XLS'i JPG'ye kaydedin. XLS'i Python Excel Kitaplığı'nı kullanarak JPG olarak kaydedin.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert XLS to JPG in Python Excel Library., Save XLS to JPG using Python Excel Library., Python XLS to JPG saveformat., XLS to JPG Converter., Python Save XLS as JPG]
+description: Aspose Excel. Bu kapsamlı çözüm, Python geliştiricilere XLS'i JPG formatına dönüştürmek için tamamen entegre bir yaklaşım sunarak, Aspose.Cells kütüphanesini kullanarak XLS verilerinin JPG formatına sorunsuz bir şekilde kaydedilmesini sağlar; tüm bunlar verimli ve özelleştirilebilir Python kod aracılığıyla gerçekleştirilir.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart XLS files to JPG Converter for Python., Convert XLS to JPG in Python., XLS files to JPG Conversion in Python., Leverage intelligent data processing to automatically parse and save XLS into JPG format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="XLS\'i Python Excel Kitaplığı\'nda JPG\'ye dönüştürün" h2="XLS\'i JPG\'ye dönüştürmek için yüksek hızlı Python excel kitaplığı. Python\'de üst düzey, platformdan bağımsız yazılım geliştirmek için API excel dönüşümümüzü kullanın." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="JPG" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -28,7 +28,7 @@ XLS'i JPG'ye dönüştürmek için kolay adımları izleyin. XLS dosyanızı yü
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="XLS\'i Python Excel Kitaplığı aracılığıyla JPG\'ye Dönüştürmek için Örnek Kod" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xls" outformat="jpg" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="XLS\'i Python Excel Kitaplığı aracılığıyla JPG\'ye Dönüştürmek için Örnek Kod" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="xls" outformat="jpg" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="XLS\'i JPG\'ye Dönüştürme" %}}
 

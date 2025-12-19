@@ -1,7 +1,7 @@
 ---
 title: Python XLSB ila XLT - XLSB ila XLT Dönüştürücü
-description: Aspose Excel'de. Python Excel'de. Aspose.Cells ile hızlı ve kolay bir şekilde XLSB'i XLT'e dönüştürün. Python XLSB'i XLT'e dönüştürün. Python XLSB'i XLT'e kaydedin. XLSB'i 076112 olarak kaydedin Python Excel Kitaplığı'nı kullanarak 3481.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert XLSB to XLT in Python Excel Library., Save XLSB to XLT using Python Excel Library., Python XLSB to XLT saveformat., XLSB to XLT Converter., Python Save XLSB as XLT]
+description: Aspose Excel. Bu kapsamlı çözüm, Python geliştiricilerine XLSB'i XLT formatına dönüştürmek için tamamen entegre bir yaklaşım sunarak, XLSB verilerinin XLT formatına Aspose.Cells kütüphanesi kullanılarak sorunsuz bir şekilde kaydedilmesini sağlar; tüm bunlar verimli ve özelleştirilebilir Python kod aracılığıyla gerçekleştirilir.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart XLSB files to XLT Converter for Python., Convert XLSB to XLT in Python., XLSB files to XLT Conversion in Python., Leverage intelligent data processing to automatically parse and save XLSB into XLT format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="XLSB\'i Python Excel Kitaplığı\'nda XLT\'e dönüştürün" h2="XLSB\'i XLT\'e dönüştürmek için yüksek hızlı Python excel kitaplığı. Python\'de üst düzey, platformdan bağımsız yazılım geliştirmek için API excel dönüştürmemizi kullanın." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLT" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -28,7 +28,7 @@ XLSB'i XLT'e dönüştürmek için kolay adımları izleyin. XLSB dosyanızı y�
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="XLSB\'i Python Excel Kitaplığı aracılığıyla XLT\'e Dönüştürmek için Örnek Kod" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsb" outformat="xlt" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="XLSB\'i Python Excel Kitaplığı aracılığıyla XLT\'e Dönüştürmek için Örnek Kod" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="xlsb" outformat="xlt" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="XLSB\'i XLT\'e Dönüştürme" %}}
 

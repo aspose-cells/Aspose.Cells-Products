@@ -1,7 +1,7 @@
 ---
 title: Python PNG เป็น EXCEL - PNG เป็น EXCEL แปลง
-description: Aspose เอ็กเซล. Python เอ็กเซล. แปลง PNG เป็น EXCEL อย่างรวดเร็วและง่ายดายด้วย Aspose.Cells Python PNG เป็น EXCEL Python บันทึก PNG ลง EXCEL. บันทึก PNG เป็น EXCEL โดยใช้ Python Excel Library
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert PNG to EXCEL in Python Excel Library., Save PNG to EXCEL using Python Excel Library., Python PNG to EXCEL saveformat., PNG to EXCEL Converter., Python Save PNG as EXCEL]
+description: Aspose Excel โซลูชันที่ครอบคลุมนี้มอบแนวทางแบบบูรณาการอย่างสมบูรณ์ให้กับนักพัฒนา Python ในการแปลง PNG เป็นรูปแบบ EXCEL ทำให้สามารถบันทึกข้อมูล PNG ลงในรูปแบบ EXCEL ได้อย่างราบรื่นโดยใช้ไลบรารี Aspose.Cells ทั้งหมดนี้ผ่านโค้ด Python ที่มีประสิทธิภาพและปรับแต่งได้
+keywords: [Aspose Excel., Python Aspose.Cells., Smart PNG files to EXCEL Converter for Python., Convert PNG to EXCEL in Python., PNG files to EXCEL Conversion in Python., Leverage intelligent data processing to automatically parse and save PNG into EXCEL format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="แปลง PNG เป็น EXCEL ในไลบรารี Excel Python" h2="ไลบรารี Excel Python ความเร็วสูงสำหรับการแปลง PNG เป็น EXCEL ใช้การแปลง Excel API ของเราเพื่อพัฒนาซอฟต์แวร์อิสระแพลตฟอร์มระดับสูงใน Python" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="EXCEL" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -28,7 +28,7 @@ keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert P
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="โค้ดตัวอย่างในการแปลง PNG เป็น EXCEL ผ่าน Python Excel Library" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="png" outformat="xlsx" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="โค้ดตัวอย่างในการแปลง PNG เป็น EXCEL ผ่าน Python Excel Library" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="png" outformat="xlsx" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="วิธีแปลง PNG เป็น EXCEL" %}}
 

@@ -1,7 +1,7 @@
 ---
 title: Python ตัวเลขเป็น XLTM - ตัวแปลงตัวเลขเป็น XLTM
-description: Aspose เอ็กเซล. Python เอ็กเซล. แปลง NUMBERS เป็น XLTM อย่างรวดเร็วและง่ายดายด้วย Aspose.Cells Python NUMBERS เป็น XLTM Python บันทึก NUMBERS เป็น XLTM บันทึก NUMBERS เป็น XLTM โดยใช้ Python Excel Library
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert NUMBERS to XLTM in Python Excel Library., Save NUMBERS to XLTM using Python Excel Library., Python NUMBERS to XLTM saveformat., NUMBERS to XLTM Converter., Python Save NUMBERS as XLTM]
+description: Aspose Excel โซลูชันที่ครอบคลุมนี้มอบแนวทางแบบบูรณาการอย่างสมบูรณ์แก่ผู้พัฒนา Python ในการแปลงตัวเลขเป็นรูปแบบ XLTM ทำให้สามารถบันทึกข้อมูลตัวเลขลงในรูปแบบ XLTM ได้อย่างราบรื่นโดยใช้ไลบรารี Aspose.Cells ทั้งหมดนี้ผ่านโค้ด Python ที่มีประสิทธิภาพและปรับแต่งได้
+keywords: [Aspose Excel., Python Aspose.Cells., Smart NUMBERS files to XLTM Converter for Python., Convert NUMBERS to XLTM in Python., NUMBERS files to XLTM Conversion in Python., Leverage intelligent data processing to automatically parse and save NUMBERS into XLTM format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="แปลง NUMBERS เป็น XLTM ในไลบรารี Excel Python" h2="ไลบรารี Excel Python ความเร็วสูงสำหรับการแปลงตัวเลขเป็น XLTM ใช้การแปลง Excel API ของเราเพื่อพัฒนาซอฟต์แวร์อิสระแพลตฟอร์มระดับสูงใน Python" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLTM" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -28,7 +28,7 @@ keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert N
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="โค้ดตัวอย่างในการแปลงตัวเลขเป็น XLTM ผ่าน Python Excel Library" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="numbers" outformat="xltm" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="โค้ดตัวอย่างในการแปลงตัวเลขเป็น XLTM ผ่าน Python Excel Library" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="numbers" outformat="xltm" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="วิธีแปลงตัวเลขเป็น XLTM" %}}
 

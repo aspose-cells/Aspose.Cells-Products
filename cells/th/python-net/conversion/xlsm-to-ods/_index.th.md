@@ -1,7 +1,7 @@
 ---
 title: Python XLSM ถึง ODS - XLSM ถึง ODS ตัวแปลง
-description: Aspose เอ็กเซล. Python เอ็กเซล. แปลง XLSM เป็น ODS อย่างรวดเร็วและง่ายดายด้วย Aspose.Cells Python XLSM ถึง ODS Python บันทึก XLSM ถึง ODS บันทึก XLSM เป็น 076112 3481 ใช้ Python ไลบรารี Excel
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert XLSM to ODS in Python Excel Library., Save XLSM to ODS using Python Excel Library., Python XLSM to ODS saveformat., XLSM to ODS Converter., Python Save XLSM as ODS]
+description: Aspose Excel โซลูชันที่ครอบคลุมนี้มอบแนวทางแบบบูรณาการอย่างสมบูรณ์แก่ผู้พัฒนา Python ในการแปลง XLSM เป็นรูปแบบ ODS ทำให้สามารถบันทึกข้อมูล XLSM ลงในรูปแบบ ODS ได้อย่างราบรื่นโดยใช้ไลบรารี Aspose.Cells ทั้งหมดนี้ผ่านโค้ด Python ที่มีประสิทธิภาพและปรับแต่งได้
+keywords: [Aspose Excel., Python Aspose.Cells., Smart XLSM files to ODS Converter for Python., Convert XLSM to ODS in Python., XLSM files to ODS Conversion in Python., Leverage intelligent data processing to automatically parse and save XLSM into ODS format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="แปลง XLSM เป็น ODS ในไลบรารี Excel Python" h2="ไลบรารี Excel Python ความเร็วสูงสำหรับการแปลง XLSM เป็น ODS ใช้การแปลง Excel API ของเราเพื่อพัฒนาซอฟต์แวร์อิสระแพลตฟอร์มระดับสูงใน Python" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="ODS" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -28,7 +28,7 @@ keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert X
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="โค้ดตัวอย่างในการแปลง XLSM เป็น ODS ผ่าน Python Excel Library" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsm" outformat="ods" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="โค้ดตัวอย่างในการแปลง XLSM เป็น ODS ผ่าน Python Excel Library" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="xlsm" outformat="ods" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="วิธีแปลง XLSM เป็น ODS" %}}
 

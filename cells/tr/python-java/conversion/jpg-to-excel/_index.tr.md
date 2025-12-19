@@ -1,7 +1,7 @@
 ---
 title: Python JPG'den EXCEL'ye - JPG'den EXCEL'ye dönüştürücü
-description: Aspose Excel'de. Python Excel'de. Aspose.Cells ile JPG'yi hızlı ve kolay bir şekilde EXCEL'e dönüştürün. Python JPG'yi EXCEL'e dönüştürün. Python JPG'yi EXCEL'e kaydedin. Python Excel Kütüphanesini kullanarak JPG'yi EXCEL olarak kaydedin.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert JPG to EXCEL in Python Excel Library., Save JPG to EXCEL using Python Excel Library., Python JPG to EXCEL saveformat., JPG to EXCEL Converter., Python Save JPG as EXCEL]
+description: Aspose Excel. Bu kapsamlı çözüm, Python geliştiricilere JPG'yi EXCEL formatına dönüştürmek için tamamen entegre bir yaklaşım sunarak, Aspose.Cells kütüphanesini kullanarak JPG verilerinin EXCEL formatına sorunsuz bir şekilde kaydedilmesini sağlar; tüm bunlar verimli ve özelleştirilebilir Python kod aracılığıyla gerçekleştirilir.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart JPG files to EXCEL Converter for Python., Convert JPG to EXCEL in Python., JPG files to EXCEL Conversion in Python., Leverage intelligent data processing to automatically parse and save JPG into EXCEL format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Python Excel Kütüphanesinde JPG\'yi EXCEL\'e dönüştürün" h2="JPG\'yi EXCEL\'e dönüştürmek için yüksek hızlı Python excel kütüphanesi. Bu, Python\'i kullanarak JPG, EXCEL ve diğer birçok formatı içe ve dışa aktarmak için profesyonel bir yazılım çözümüdür." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="EXCEL" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -27,7 +27,7 @@ JPG'yi EXCEL'e dönüştürmek için kolay adımları izleyin. JPG dosyanızı y
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Python Excel Kitaplığı aracılığıyla JPG\'yi EXCEL\'e Dönüştürmek için Örnek Kod" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="jpg" outformat="xlsx" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="Python Excel Kitaplığı aracılığıyla JPG\'yi EXCEL\'e Dönüştürmek için Örnek Kod" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="jpg" outformat="xlsx" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="Python aracılığıyla JPG\'yi EXCEL\'e dönüştürme" %}}
 

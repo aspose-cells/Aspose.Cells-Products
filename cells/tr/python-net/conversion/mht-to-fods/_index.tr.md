@@ -1,7 +1,7 @@
 ---
 title: Python MHT'den FODS'e - MHT'den FODS'e dönüştürücü
-description: Aspose Excel'de. Python Excel'de. Aspose.Cells ile MHT'yi hızlı ve kolay bir şekilde FODS'e dönüştürün. Python MHT'yi FODS'e dönüştürün. Python MHT'yi FODS'e kaydedin. Python Excel Kütüphanesini kullanarak MHT'yi FODS olarak kaydedin.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert MHT to FODS in Python Excel Library., Save MHT to FODS using Python Excel Library., Python MHT to FODS saveformat., MHT to FODS Converter., Python Save MHT as FODS]
+description: Aspose Excel. Bu kapsamlı çözüm, Python geliştiricilere MHT'yi FODS formatına dönüştürmek için tamamen entegre bir yaklaşım sunarak, Aspose.Cells kütüphanesini kullanarak MHT verilerinin FODS formatına sorunsuz bir şekilde kaydedilmesini sağlar; tüm bunlar verimli ve özelleştirilebilir Python kod aracılığıyla gerçekleştirilir.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart MHT files to FODS Converter for Python., Convert MHT to FODS in Python., MHT files to FODS Conversion in Python., Leverage intelligent data processing to automatically parse and save MHT into FODS format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Python Excel Kitaplığı\'nda MHT\'yi FODS\'e dönüştürün" h2="MHT\'yi FODS\'e dönüştürmek için yüksek hızlı Python excel kütüphanesi. Python\'de yüksek seviyeli, platformdan bağımsız yazılım geliştirmek için API excel dönüşümümüzü kullanın." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="FODS" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -28,7 +28,7 @@ MHT'yi FODS'e dönüştürmek için kolay adımları izleyin. MHT dosyanızı y�
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="MHT\'yi Python Excel Kitaplığı aracılığıyla FODS\'e Dönüştürmek için Örnek Kod" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="mht" outformat="fods" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="MHT\'yi Python Excel Kitaplığı aracılığıyla FODS\'e Dönüştürmek için Örnek Kod" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="mht" outformat="fods" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="MHT\'yi FODS\'e Dönüştürme" %}}
 

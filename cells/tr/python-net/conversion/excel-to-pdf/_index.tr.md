@@ -1,7 +1,7 @@
 ---
 title: Python EXCEL'den PDF'e - EXCEL'den PDF'e dönüştürücü
-description: Aspose Excel'de. Python Excel'de. Aspose.Cells ile hızlı ve kolay bir şekilde EXCEL'i PDF'e dönüştürün. Python EXCEL'i PDF'e dönüştürün. Python EXCEL'i PDF'e kaydedin. Python Excel Kitaplığını kullanarak EXCEL'i PDF olarak kaydedin.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert EXCEL to PDF in Python Excel Library., Save EXCEL to PDF using Python Excel Library., Python EXCEL to PDF saveformat., EXCEL to PDF Converter., Python Save EXCEL as PDF]
+description: Aspose Excel. Bu kapsamlı çözüm, Python geliştiricilere EXCEL'i PDF formatına dönüştürmek için tamamen entegre bir yaklaşım sunarak, Aspose.Cells kütüphanesini kullanarak EXCEL verilerinin PDF formatına sorunsuz bir şekilde kaydedilmesini sağlar; tüm bunlar verimli ve özelleştirilebilir Python kod aracılığıyla gerçekleştirilir.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart EXCEL files to PDF Converter for Python., Convert EXCEL to PDF in Python., EXCEL files to PDF Conversion in Python., Leverage intelligent data processing to automatically parse and save EXCEL into PDF format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Python Excel Kütüphanesinde EXCEL\'i PDF\'e dönüştürün" h2="EXCEL\'i PDF\'e dönüştürmek için yüksek hızlı Python excel kütüphanesi. Python\'de üst düzey, platformdan bağımsız yazılım geliştirmek için API excel dönüşümümüzü kullanın." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="PDF" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -28,7 +28,7 @@ EXCEL'i PDF'e dönüştürmek için kolay adımları izleyin. EXCEL dosyanızı 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Excel Kitaplığı aracılığıyla EXCEL\'i PDF\'e Dönüştürmek için Örnek Kod" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsx" outformat="pdf" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Excel Kitaplığı aracılığıyla EXCEL\'i PDF\'e Dönüştürmek için Örnek Kod" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="xlsx" outformat="pdf" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="EXCEL\'i PDF\'e Dönüştürme" %}}
 

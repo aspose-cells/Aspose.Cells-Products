@@ -1,7 +1,7 @@
 ---
 title: Python EXCEL'den MARKDOWN'e - EXCEL'den MARKDOWN'e dönüştürücü
-description: Aspose Excel'de. Python Excel'de. Aspose.Cells ile hızlı ve kolay bir şekilde EXCEL'i MARKDOWN'e dönüştürün. Python EXCEL'i MARKDOWN'e dönüştürün. Python EXCEL'i MARKDOWN'e kaydedin. Python Excel Kitaplığını kullanarak EXCEL'i MARKDOWN olarak kaydedin.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert EXCEL to MARKDOWN in Python Excel Library., Save EXCEL to MARKDOWN using Python Excel Library., Python EXCEL to MARKDOWN saveformat., EXCEL to MARKDOWN Converter., Python Save EXCEL as MARKDOWN]
+description: Aspose Excel. Bu kapsamlı çözüm, Python geliştiricilere EXCEL'i MARKDOWN formatına dönüştürmek için tamamen entegre bir yaklaşım sunarak, Aspose.Cells kütüphanesini kullanarak EXCEL verilerinin MARKDOWN formatına sorunsuz bir şekilde kaydedilmesini sağlar; tüm bunlar verimli ve özelleştirilebilir Python kod aracılığıyla gerçekleştirilir.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart EXCEL files to MARKDOWN Converter for Python., Convert EXCEL to MARKDOWN in Python., EXCEL files to MARKDOWN Conversion in Python., Leverage intelligent data processing to automatically parse and save EXCEL into MARKDOWN format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Python Excel Kütüphanesinde EXCEL\'i MARKDOWN\'e dönüştürün" h2="EXCEL\'i MARKDOWN\'e dönüştürmek için yüksek hızlı Python excel kütüphanesi. Bu, Python\'i kullanarak EXCEL, MARKDOWN ve diğer birçok formatı içe ve dışa aktarmak için profesyonel bir yazılım çözümüdür." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="MARKDOWN" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -27,7 +27,7 @@ EXCEL'i MARKDOWN'e dönüştürmek için kolay adımları izleyin. EXCEL dosyan�
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Excel Kitaplığı aracılığıyla EXCEL\'i MARKDOWN\'e Dönüştürmek için Örnek Kod" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsx" outformat="md" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="Excel Kitaplığı aracılığıyla EXCEL\'i MARKDOWN\'e Dönüştürmek için Örnek Kod" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="xlsx" outformat="md" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="EXCEL\'i Python aracılığıyla MARKDOWN\'e dönüştürme" %}}
 

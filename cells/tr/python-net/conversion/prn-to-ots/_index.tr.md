@@ -1,7 +1,7 @@
 ---
 title: Python PRN'den OTS'ye - PRN'den OTS'ye dönüştürücü
-description: Aspose Excel'de. Python Excel'de. Aspose.Cells ile PRN'yi hızlı ve kolay bir şekilde OTS'ye dönüştürün. Python PRN'yi OTS'ye dönüştürün. Python PRN'yi OTS'ye kaydedin. Python Excel Kütüphanesini kullanarak PRN'yi OTS olarak kaydedin.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert PRN to OTS in Python Excel Library., Save PRN to OTS using Python Excel Library., Python PRN to OTS saveformat., PRN to OTS Converter., Python Save PRN as OTS]
+description: Aspose Excel. Bu kapsamlı çözüm, Python geliştiricilere PRN'yi OTS formatına dönüştürmek için tamamen entegre bir yaklaşım sunarak, Aspose.Cells kütüphanesini kullanarak PRN verilerinin OTS formatına sorunsuz bir şekilde kaydedilmesini sağlar; tüm bunlar verimli ve özelleştirilebilir Python kod aracılığıyla gerçekleştirilir.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart PRN files to OTS Converter for Python., Convert PRN to OTS in Python., PRN files to OTS Conversion in Python., Leverage intelligent data processing to automatically parse and save PRN into OTS format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Python Excel Kitaplığı\'nda PRN\'yi OTS\'ye dönüştürün" h2="PRN\'yi OTS\'ye dönüştürmek için yüksek hızlı Python excel kitaplığı. Python\'de üst düzey, platformdan bağımsız yazılım geliştirmek için API excel dönüşümümüzü kullanın." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="OTS" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -28,7 +28,7 @@ PRN'yi OTS'ye dönüştürmek için kolay adımları izleyin. PRN dosyanızı y�
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Python Excel Kitaplığı aracılığıyla PRN\'yi OTS\'ye Dönüştürmek için Örnek Kod" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="prn" outformat="ots" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Python Excel Kitaplığı aracılığıyla PRN\'yi OTS\'ye Dönüştürmek için Örnek Kod" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="prn" outformat="ots" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="PRN\'yi OTS\'ye Dönüştürme" %}}
 

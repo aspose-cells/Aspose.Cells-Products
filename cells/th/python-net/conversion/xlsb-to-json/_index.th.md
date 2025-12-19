@@ -1,7 +1,7 @@
 ---
 title: Python XLSB ถึง JSON - XLSB ถึง JSON ตัวแปลง
-description: Aspose เอ็กเซล. Python เอ็กเซล. แปลง XLSB เป็น JSON อย่างรวดเร็วและง่ายดายด้วย Aspose.Cells Python XLSB ถึง JSON Python บันทึก XLSB ถึง JSON บันทึก XLSB เป็น 076112 3481 ใช้ Python ไลบรารี Excel
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert XLSB to JSON in Python Excel Library., Save XLSB to JSON using Python Excel Library., Python XLSB to JSON saveformat., XLSB to JSON Converter., Python Save XLSB as JSON]
+description: Aspose Excel โซลูชันที่ครอบคลุมนี้มอบแนวทางแบบบูรณาการอย่างสมบูรณ์แก่ผู้พัฒนา Python ในการแปลง XLSB เป็นรูปแบบ JSON ทำให้สามารถบันทึกข้อมูล XLSB ลงในรูปแบบ JSON ได้อย่างราบรื่นโดยใช้ไลบรารี Aspose.Cells ทั้งหมดนี้ผ่านโค้ด Python ที่มีประสิทธิภาพและปรับแต่งได้
+keywords: [Aspose Excel., Python Aspose.Cells., Smart XLSB files to JSON Converter for Python., Convert XLSB to JSON in Python., XLSB files to JSON Conversion in Python., Leverage intelligent data processing to automatically parse and save XLSB into JSON format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="แปลง XLSB เป็น JSON ในไลบรารี Excel Python" h2="ไลบรารี Excel Python ความเร็วสูงสำหรับการแปลง XLSB เป็น JSON ใช้การแปลง Excel API ของเราเพื่อพัฒนาซอฟต์แวร์อิสระแพลตฟอร์มระดับสูงใน Python" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="JSON" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -28,7 +28,7 @@ keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert X
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="โค้ดตัวอย่างในการแปลง XLSB เป็น JSON ผ่าน Python Excel Library" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsb" outformat="json" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="โค้ดตัวอย่างในการแปลง XLSB เป็น JSON ผ่าน Python Excel Library" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="xlsb" outformat="json" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="วิธีแปลง XLSB เป็น JSON" %}}
 

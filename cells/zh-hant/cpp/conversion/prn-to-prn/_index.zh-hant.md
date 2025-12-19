@@ -1,7 +1,7 @@
 ---
 title: C++ PRN 到 PRN - PRN 到 PRN 轉換器
-description: Aspose Excel。使用 Aspose.Cells 快速輕鬆地將 PRN 轉換為 PRN。C++ PRN 到 PRN。 C++ 將 PRN 儲存到 PRN。使用 C++ 將 PRN 儲存為 PRN。
-keywords: [Aspose Excel., C++ Aspose.Cells., Convert PRN to PRN in C++., Save PRN to PRN using C++., C++ PRN to PRN saveformat., PRN to PRN Converter., C++ Save PRN as PRN]
+description: Aspose Excel。此綜合解決方案為 C++ 開發人員提供了一種完全整合的 PRN 格式轉換方法，能夠使用 Aspose.Cells 庫將 PRN 資料無縫保存為 PRN 格式，所有這些都透過高效且可自訂的 C++ 程式碼實現。
+keywords: [Aspose Excel., C++ Aspose.Cells., Smart PRN files to PRN Converter for C++., Convert PRN to PRN in C++., PRN files to PRN Conversion in C++., Leverage intelligent data processing to automatically parse and save PRN into PRN format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="將 PRN 轉換為 C++ 中的 PRN" h2="使用 C++ 函式庫進行高效能 PRN 到 PRN 轉換，無需安裝 Microsoft Excel、OpenOffice 或 Adobe Acrobat。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" sourceAdditionalConversionTag="" additionalConversionTag="PRN" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -26,9 +26,9 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="將 PRN 儲存為 C++ 中的 PRN" %}}
+{{% blocks/products/pf/agp/content h2="將 PRN 儲存到 PRN C++" %}}
 
-以下範例示範如何將 PRN 轉換為 C++ 中的 PRN。
+以下範例示範如何在 C++ 中將 PRN 轉換為 PRN。
 {{% blocks/products/pf/agp/text %}}
 
 按照簡單的步驟將 PRN 轉換為 PRN。上傳您的 PRN 文件，然後將其儲存為 PRN 文件。對於 PRN 讀取和 PRN 寫入，您可以使用完全限定的檔案名稱。輸出的 PRN 內容和格式將與原始 PRN 文件相同。
@@ -37,25 +37,25 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="將 PRN 轉換為 PRN 的範例程式碼" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="prn" outformat="prn" IsLandingPage="true" language="cpp" %}}
+{{% cells-convert title="將 PRN 轉換為 PRN 的範例程式碼" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="prn" outformat="prn" IsLandingPage="true" language="cpp" %}}
 
 {{% blocks/products/pf/agp/content h2="如何透過 C++ 將 PRN 轉換為 PRN" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
-需要以程式設計方式將 PRN 檔案轉換為 PRN？ C++ 開發人員只需幾行程式碼即可輕鬆將PRN轉換為PRN。
+需要以程式設計方式將 PRN 檔案轉換為 PRN 檔案嗎？ C++ 開發人員只需幾行程式碼即可輕鬆實現 PRN 檔案之間的轉換。
 
 {{% /blocks/products/pf/agp/text %}}
 
 1. 安裝“Aspose.Cells for C++”。
 1. 將庫引用（導入庫）新增至您的 C++ 專案中。
-1. 使用工作簿載入 PRN 檔案。
+1. 使用工作簿載入PRN檔案。
 1. 透過呼叫 Save() 方法將 PRN 轉換為 PRN。
 1. 取得PRN到PRN的轉換結果。
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="C++ 將 PRN 轉換為 PRN 的函式庫" %}}
+{{% blocks/products/pf/agp/content h2="C++ 庫用於將 PRN 轉換為 PRN" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
@@ -73,7 +73,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% blocks/products/pf/agp/text %}}
 
-在執行 C++ 轉換範例程式碼之前，請確保您符合以下先決條件。
+在執行 C++ 轉換範例程式碼之前，請確保您具備以下先決條件。
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -84,8 +84,8 @@ PM> Install-Package Aspose.Cells.Cpp
 
 <!-- aboutfile Starts -->
     {{< blocks/products/pf/agp/about-file-section >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="PRN" readMoreLink="https://fileinfo.com/extension/prn/" >}}PRN 文件是使用「列印到文件」複選框建立的文件，該複選框出現在Windows 上的某些「列印」對話方塊中。它包含印表機、傳真機或其他裝置用於列印文件的一組特定於設備的指令。 PRN 檔案可能包含文字或二進位內容，具體取決於建立檔案的裝置。{{< /blocks/products/pf/agp/i18n/about-file-text >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="PRN" readMoreLink="https://fileinfo.com/extension/prn/" >}}PRN 文件是使用「列印到文件」複選框建立的文件，該複選框出現在Windows 上的某些「列印」對話方塊中。它包含印表機、傳真機或其他裝置用於列印文件的一組特定於設備的指令。 PRN 檔案可能包含文字或二進位內容，具體取決於建立檔案的裝置。{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="PRN" readMoreLink="https://fileinfo.com/extension/prn/" >}}PRN 文件是使用「列印到文件」複選框建立的文件，該複選框出現在Windows 上的某些「列印」對話方塊中。特定於設備的指令。 PRN 檔案可能包含文字或二進位內容，具體取決於建立檔案的裝置。{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="PRN" readMoreLink="https://fileinfo.com/extension/prn/" >}}PRN 文件是使用「列印到文件」複選框建立的文件，該複選框出現在Windows 上的某些「列印」對話方塊中。特定於設備的指令。 PRN 檔案可能包含文字或二進位內容，具體取決於建立檔案的裝置。{{< /blocks/products/pf/agp/i18n/about-file-text >}}
     {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->
 
@@ -101,6 +101,7 @@ PM> Install-Package Aspose.Cells.Cpp
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/prn-to-pdf/" name="PRN 至 PDF" description="便攜式文件格式" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/prn-to-png/" name="PRN 至 PNG" description="手提網路圖形" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/prn-to-svg/" name="PRN 至 SVG" description="可縮放向量圖形" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/prn-to-tiff/" name="PRN 至 TIFF" description="標記影像格式" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/prn-to-tsv/" name="PRN 至 TSV" description="製表符分隔值" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/prn-to-txt/" name="PRN 至 TXT" description="文字文檔" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/prn-to-xls/" name="PRN 至 XLS" description="Excel 二進位格式" >}}

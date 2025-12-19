@@ -1,7 +1,7 @@
 ---
 title: Python XLSX sang XLSB - XLSX sang XLSB Bộ chuyển đổi
-description: Aspose Excel. Python Excel. Chuyển đổi XLSX sang XLSB nhanh chóng và dễ dàng với Aspose.Cells. Python XLSX sang XLSB. Python Lưu XLSX thành XLSB. Lưu XLSX thành 076112 3481 sử dụng Thư viện Excel Python.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert XLSX to XLSB in Python Excel Library., Save XLSX to XLSB using Python Excel Library., Python XLSX to XLSB saveformat., XLSX to XLSB Converter., Python Save XLSX as XLSB]
+description: Aspose Excel. Giải pháp toàn diện này cung cấp cho các nhà phát triển Python một phương pháp tích hợp đầy đủ để chuyển đổi định dạng XLSX sang định dạng XLSB, cho phép lưu dữ liệu XLSX một cách liền mạch vào định dạng XLSB bằng cách sử dụng thư viện Aspose.Cells, tất cả thông qua mã Python hiệu quả và có thể tùy chỉnh.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart XLSX files to XLSB Converter for Python., Convert XLSX to XLSB in Python., XLSX files to XLSB Conversion in Python., Leverage intelligent data processing to automatically parse and save XLSX into XLSB format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Chuyển đổi XLSX thành XLSB trong Python Thư viện Excel" h2="Thư viện excel Python tốc độ cao chuyển đổi XLSX sang XLSB. Đây là giải pháp phần mềm chuyên nghiệp để nhập xuất XLSX, XLSB và nhiều định dạng khác sử dụng Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSB" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -27,7 +27,7 @@ Hãy làm theo các bước đơn giản để chuyển đổi XLSX thành XLSB.
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Mã mẫu chuyển đổi XLSX thành XLSB qua Python Thư viện Excel" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsx" outformat="xlsb" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="Mã mẫu chuyển đổi XLSX thành XLSB qua Python Thư viện Excel" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="xlsx" outformat="xlsb" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="Cách chuyển đổi XLSX thành XLSB qua Python" %}}
 

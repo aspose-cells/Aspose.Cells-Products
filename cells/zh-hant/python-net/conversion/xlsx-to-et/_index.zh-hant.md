@@ -1,7 +1,7 @@
 ---
 title: Python XLSX 轉 ET - XLSX 轉 ET 轉換器
-description: Aspose Excel。 Python Excel。使用 Aspose.Cells 快速輕鬆地將 XLSX 轉換為 ET。 Python 將 XLSX 儲存到 ET。使用 Python Excel 庫將 XLSX 儲存為 ET。
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert XLSX to ET in Python Excel Library., Save XLSX to ET using Python Excel Library., Python XLSX to ET saveformat., XLSX to ET Converter., Python Save XLSX as ET]
+description: Aspose Excel。此綜合解決方案為 Python 開發人員提供了一種完全整合的方法，可將 XLSX 轉換為 ET 格式，從而能夠使用 Aspose.Cells 庫將 XLSX 資料無縫保存為 ET 格式，所有這些都通過高效的 XLSX 資料無縫保存為 ET 格式，所有這些都通過高效可自訂的 08153481 實現代碼。
+keywords: [Aspose Excel., Python Aspose.Cells., Smart XLSX files to ET Converter for Python., Convert XLSX to ET in Python., XLSX files to ET Conversion in Python., Leverage intelligent data processing to automatically parse and save XLSX into ET format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="在 Python Excel 庫中將 XLSX 轉換為 ET" h2="高速 Python excel 庫，用於將 XLSX 轉換為 ET。使用我們的 Excel 轉換 API 在 Python 中開發高階、平台無關的軟體。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="ET" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -28,7 +28,7 @@ keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert X
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="透過 Python Excel 庫將 XLSX 轉換為 ET 的範例程式碼" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsx" outformat="et" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="透過 Python Excel 庫將 XLSX 轉換為 ET 的範例程式碼" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="xlsx" outformat="et" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="如何將 XLSX 轉換為 ET" %}}
 

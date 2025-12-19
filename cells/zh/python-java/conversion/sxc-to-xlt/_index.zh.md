@@ -1,7 +1,7 @@
 ---
 title: Python SXC 至 XLT - SXC 至 XLT 转换器
-description: Aspose Excel。Python Excel。使用 Aspose.Cells 快速轻松地将 SXC 转换为 XLT。Python 将 SXC 转换为 XLT。Python 将 SXC 保存为 XLT。使用 Python Excel 库将 SXC 保存为 XLT。
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert SXC to XLT in Python Excel Library., Save SXC to XLT using Python Excel Library., Python SXC to XLT saveformat., SXC to XLT Converter., Python Save SXC as XLT]
+description: Aspose Excel。此综合解决方案为 Python 开发人员提供了一种完全集成的方法，可将 SXC 转换为 XLT 格式，从而能够使用 Aspose.Cells 库将 SXC 数据无缝保存为 XLT 格式，所有这些都通过高效且可定制的 Python 代码实现。
+keywords: [Aspose Excel., Python Aspose.Cells., Smart SXC files to XLT Converter for Python., Convert SXC to XLT in Python., SXC files to XLT Conversion in Python., Leverage intelligent data processing to automatically parse and save SXC into XLT format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="在 Python Excel 库中将 SXC 转换为 XLT" h2="高速 Python excel 库，用于将 SXC 转换为 XLT。这是一个专业的软件解决方案，可使用 Python 导入和导出 SXC、XLT 和许多其他格式。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLT" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -27,7 +27,7 @@ keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert S
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="通过 Python Excel 库将 SXC 转换为 XLT 的示例代码" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="sxc" outformat="xlt" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="通过 Python Excel 库将 SXC 转换为 XLT 的示例代码" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="sxc" outformat="xlt" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="如何将 SXC 通过 Python 转换为 XLT" %}}
 

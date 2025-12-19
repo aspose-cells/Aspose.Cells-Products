@@ -1,7 +1,7 @@
 ---
 title: Python MHT'den CSV'e - MHT'den CSV'e dönüştürücü
-description: Aspose Excel'de. Python Excel'de. Aspose.Cells ile MHT'yi hızlı ve kolay bir şekilde CSV'e dönüştürün. Python MHT'yi CSV'e dönüştürün. Python MHT'yi CSV'e kaydedin. Python Excel Kütüphanesini kullanarak MHT'yi CSV olarak kaydedin.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert MHT to CSV in Python Excel Library., Save MHT to CSV using Python Excel Library., Python MHT to CSV saveformat., MHT to CSV Converter., Python Save MHT as CSV]
+description: Aspose Excel. Bu kapsamlı çözüm, Python geliştiricilere MHT'yi CSV formatına dönüştürmek için tamamen entegre bir yaklaşım sunarak, Aspose.Cells kütüphanesini kullanarak MHT verilerinin CSV formatına sorunsuz bir şekilde kaydedilmesini sağlar; tüm bunlar verimli ve özelleştirilebilir Python kod aracılığıyla gerçekleştirilir.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart MHT files to CSV Converter for Python., Convert MHT to CSV in Python., MHT files to CSV Conversion in Python., Leverage intelligent data processing to automatically parse and save MHT into CSV format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Python Excel Kitaplığı\'nda MHT\'yi CSV\'e dönüştürün" h2="MHT\'yi CSV\'e dönüştürmek için yüksek hızlı Python excel kitaplığı. Bu, Python\'i kullanarak MHT, CSV ve diğer birçok formatı içe ve dışa aktarmak için profesyonel bir yazılım çözümüdür." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="CSV" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -27,7 +27,7 @@ MHT'yi CSV'e dönüştürmek için kolay adımları izleyin. MHT dosyanızı yü
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="MHT\'yi Python Excel Kitaplığı aracılığıyla CSV\'e Dönüştürmek için Örnek Kod" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="mht" outformat="csv" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="MHT\'yi Python Excel Kitaplığı aracılığıyla CSV\'e Dönüştürmek için Örnek Kod" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="mht" outformat="csv" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="MHT\'yi Python aracılığıyla CSV\'e dönüştürme" %}}
 

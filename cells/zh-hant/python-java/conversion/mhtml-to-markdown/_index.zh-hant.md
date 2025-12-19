@@ -1,7 +1,7 @@
 ---
 title: Python MHTML 至 MARKDOWN - MHTML 至 MARKDOWN 轉換器
-description: Aspose Excel。 Python Excel。使用 Aspose.Cells 快速輕鬆地將 MHTML 轉換為 MARKDOWN。Python MHTML 轉換為 MARKDOWN。Python 將 076193417619301 將存 076112第3481章 使用Python Excel庫。
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert MHTML to MARKDOWN in Python Excel Library., Save MHTML to MARKDOWN using Python Excel Library., Python MHTML to MARKDOWN saveformat., MHTML to MARKDOWN Converter., Python Save MHTML as MARKDOWN]
+description: Aspose Excel。此綜合解決方案為 Python 開發人員提供了一種完全整合的方法，可將 MHTML 轉換為 MARKDOWN 格式，從而能夠使用 Aspose.Cells 庫將 MHTML 數據無縫保存為 0761533681533676136481 資料無縫代碼實現。
+keywords: [Aspose Excel., Python Aspose.Cells., Smart MHTML files to MARKDOWN Converter for Python., Convert MHTML to MARKDOWN in Python., MHTML files to MARKDOWN Conversion in Python., Leverage intelligent data processing to automatically parse and save MHTML into MARKDOWN format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="將 Python Excel 庫中的 MHTML 轉換為 MARKDOWN" h2="高速Python excel庫，用於將MHTML轉換為MARKDOWN。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="MARKDOWN" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -27,7 +27,7 @@ keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert M
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="透過 Python Excel 函式庫將 MHTML 轉換為 MARKDOWN 的範例程式碼" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="mhtml" outformat="md" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="透過 Python Excel 函式庫將 MHTML 轉換為 MARKDOWN 的範例程式碼" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="mhtml" outformat="md" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="如何透過 Python 將 MHTML 轉換為 MARKDOWN" %}}
 

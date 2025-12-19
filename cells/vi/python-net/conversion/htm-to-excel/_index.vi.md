@@ -1,7 +1,7 @@
 ---
 title: Python HTM sang EXCEL - Công cụ chuyển đổi HTM sang EXCEL
-description: Aspose Excel. Python Excel. Chuyển đổi HTM sang EXCEL nhanh chóng và dễ dàng với Aspose.Cells. Python HTM sang EXCEL. Python Lưu HTM vào EXCEL. Lưu HTM dưới dạng EXCEL bằng Thư viện Excel Python.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert HTM to EXCEL in Python Excel Library., Save HTM to EXCEL using Python Excel Library., Python HTM to EXCEL saveformat., HTM to EXCEL Converter., Python Save HTM as EXCEL]
+description: Aspose Excel. Giải pháp toàn diện này cung cấp cho các nhà phát triển Python một phương pháp tích hợp đầy đủ để chuyển đổi định dạng HTM sang EXCEL, cho phép lưu dữ liệu HTM liền mạch vào định dạng EXCEL bằng thư viện Aspose.Cells, tất cả thông qua mã Python hiệu quả và có thể tùy chỉnh.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart HTM files to EXCEL Converter for Python., Convert HTM to EXCEL in Python., HTM files to EXCEL Conversion in Python., Leverage intelligent data processing to automatically parse and save HTM into EXCEL format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Chuyển đổi HTM sang EXCEL trong Thư viện Excel Python" h2="Thư viện excel Python tốc độ cao để chuyển đổi HTM sang EXCEL. Sử dụng chuyển đổi excel API của chúng tôi để phát triển phần mềm độc lập nền tảng, cấp cao trong Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="EXCEL" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -28,7 +28,7 @@ Hãy làm theo các bước đơn giản để chuyển đổi HTM sang EXCEL. T
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Mã mẫu chuyển HTM sang EXCEL qua Python Thư viện Excel" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="htm" outformat="xlsx" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Mã mẫu chuyển HTM sang EXCEL qua Python Thư viện Excel" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="htm" outformat="xlsx" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="Cách chuyển đổi HTM sang EXCEL" %}}
 

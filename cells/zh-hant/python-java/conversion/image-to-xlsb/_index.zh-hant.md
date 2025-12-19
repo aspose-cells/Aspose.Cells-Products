@@ -1,7 +1,7 @@
 ---
 title: Python 影像到 XLSB - 影像到 XLSB 轉換器
-description: Aspose Excel。 Python Excel。使用 Aspose.Cells 快速輕鬆地將 IMAGE 轉換為 XLSB。Python IMAGE 為 XLSB。Python 將 IMAGE 儲存為 XLSB。
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert IMAGE to XLSB in Python Excel Library., Save IMAGE to XLSB using Python Excel Library., Python IMAGE to XLSB saveformat., IMAGE to XLSB Converter., Python Save IMAGE as XLSB]
+description: Aspose Excel。此綜合解決方案為 Python 開發人員提供了一種完全整合的方法，可將 IMAGE 轉換為 XLSB 格式，從而能夠使用 Aspose.Cells 庫將 IMAGE 資料無縫保存為 XLSB 格式，所有這些都透過高效且可自訂的 XLSB 格式，所有這些都透過高效且可自訂的 3481533481533815338 程式碼可實現。
+keywords: [Aspose Excel., Python Aspose.Cells., Smart IMAGE files to XLSB Converter for Python., Convert IMAGE to XLSB in Python., IMAGE files to XLSB Conversion in Python., Leverage intelligent data processing to automatically parse and save IMAGE into XLSB format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="將 IMAGE 轉換為 Python Excel 庫中的 XLSB" h2="高速Python excel庫，用於將IMAGE轉換為XLSB。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSB" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -27,7 +27,7 @@ keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert I
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="透過 Python Excel 函式庫將 IMAGE 轉換為 XLSB 的範例程式碼" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="png" outformat="xlsb" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="透過 Python Excel 函式庫將 IMAGE 轉換為 XLSB 的範例程式碼" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="png" outformat="xlsb" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="如何透過 Python 將 IMAGE 轉換為 XLSB" %}}
 

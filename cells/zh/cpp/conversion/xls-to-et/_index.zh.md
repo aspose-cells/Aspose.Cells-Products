@@ -1,7 +1,7 @@
 ---
-title: C++ XLS 转 ET - XLS 转 ET 转换器
-description: Aspose Excel。使用 Aspose.Cells 快速轻松地将 XLS 转换为 ET。C++ XLS 转换为 ET。 C++ 将 XLS 保存到 ET。使用 C++ 将 XLS 保存为 ET。
-keywords: [Aspose Excel., C++ Aspose.Cells., Convert XLS to ET in C++., Save XLS to ET using C++., C++ XLS to ET saveformat., XLS to ET Converter., C++ Save XLS as ET]
+title: C++ XLS 至 ET - XLS 至 ET 转换器
+description: Aspose Excel。此综合解决方案为 C++ 开发人员提供了一种完全集成的方法，可将 XLS 转换为 ET 格式，从而能够使用 Aspose.Cells 库将 XLS 数据无缝保存为 ET 格式，所有这些都通过高效且可定制的 C++ 代码实现。
+keywords: [Aspose Excel., C++ Aspose.Cells., Smart XLS files to ET Converter for C++., Convert XLS to ET in C++., XLS files to ET Conversion in C++., Leverage intelligent data processing to automatically parse and save XLS into ET format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="将 XLS 转换为 C++ 中的 ET" h2="使用 C++ 库进行高性能 XLS 到 ET 转换，无需安装 Microsoft Excel、OpenOffice 或 Adobe Acrobat。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" sourceAdditionalConversionTag="" additionalConversionTag="ET" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., C++ Aspose.Cells., Convert XLS to ET in C++., Save XLS
 
 {{% blocks/products/pf/agp/content h2="使用 C++ 将 XLS 转换为 ET" %}}
 
-如何将 XLS 转换为 ET？借助 Aspose.Cells for C++ 库，您可以通过几行代码以编程方式轻松将 XLS 转换为 ET。[Aspose.Cells for C++](https://products.aspose.com/cells/cpp)能够构建跨平台应用程序，能够生成、修改、转换、渲染和打印所有 Excel 文件。 C++ Excel API 不仅可以在电子表格格式之间进行转换，还可以将 Excel 文件呈现为图像, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT等等，从而使其成为以行业标准交换文档的完美选择格式。您可以直接下载最新版本，打开即可[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/)包管理器，搜索Aspose.Cells.cpp并安装。您还可以从包管理器控制台使用以下命令。
+如何将 XLS 转换为 ET？使用 Aspose.Cells for C++ 库，您只需几行代码即可以编程方式轻松将 XLS 转换为 ET。[Aspose.Cells for C++](https://products.aspose.com/cells/cpp)能够构建跨平台应用程序，能够生成、修改、转换、呈现和打印所有 Excel 文件。C++ Excel API 不仅可以在电子表格格式之间进行转换，还可以将 Excel 文件呈现为图像，PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT 等等，因此它是以行业标准格式交换文档的完美选择。您可以直接下载其最新版本，只需打开[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/)包管理器，搜索 Aspose.Cells.Cpp 并安装。您也可以从包管理器控制台使用以下命令。
 
 {{% blocks/products/pf/agp/code-block title="命令" offSpacer="true" %}}
 
@@ -26,46 +26,46 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="将 XLS 保存到 C++ 中的 ET" %}}
+{{% blocks/products/pf/agp/content h2="将 XLS 保存到 C++ 的 ET 中" %}}
 
 以下示例演示如何将 XLS 转换为 C++ 中的 ET。
 {{% blocks/products/pf/agp/text %}}
 
-按照简单的步骤将 XLS 转换为 ET。上传您的 XLS 文件，然后将其保存为 ET 文件。对于 XLS 读取和 ET 写入，您可以使用完全限定的文件名。输出的 ET 内容和格式将与原始 XLS 文档相同。
+按照简单的步骤将 XLS 转换为 ET。上传您的 XLS 文件，然后将其保存为 ET 文件。对于 XLS 读取和 ET 写入，您都可以使用完全合格的文件名。输出的 ET 内容和格式将与原始 XLS 文档相同。
 
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="将 XLS 转换为 ET 的示例代码" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xls" outformat="et" IsLandingPage="true" language="cpp" %}}
+{{% cells-convert title="将 XLS 转换为 ET 的示例代码" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="xls" outformat="et" IsLandingPage="true" language="cpp" %}}
 
 {{% blocks/products/pf/agp/content h2="如何通过 C++ 将 XLS 转换为 ET" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
-需要以编程方式将 XLS 文件转换为 ET？ C++ 开发人员只需几行代码即可轻松将 XLS 转换为 ET。
+需要以编程方式将 XLS 文件转换为 ET 格式吗？C++ 开发人员只需几行代码即可轻松将 XLS 转换为 ET 格式。
 
 {{% /blocks/products/pf/agp/text %}}
 
 1. 安装“Aspose.Cells for C++”。
-1. 将库引用（导入库）添加到您的 C++ 项目中。
+1. 向您的 C++ 项目添加库引用（导入库）。
 1. 使用工作簿加载 XLS 文件。
-1. 通过调用 Save() 方法将 XLS 转换为 ET。
-1. 获取XLS到ET的转换结果。
+1. 调用 Save() 方法将 XLS 转换为 ET。
+1. 获取XLS至ET的转换结果。
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="C++库将XLS转换为ET" %}}
+{{% blocks/products/pf/agp/content h2="C++ 库用于将 XLS 转换为 ET" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
-可以通过三个选项将“Aspose.Cells for C++”安装到您的系统上。请选择符合您需求的一项并按照分步说明进行操作：
+有三种方法可以将“Aspose.Cells for C++”安装到您的系统上。请选择最符合您需求的方法，然后按照分步说明进行操作：
 
 {{% /blocks/products/pf/agp/text %}}
 
-1. 安装一个[NuGet 套餐](https://www.nuget.org/packages/Aspose.Cells.Cpp/)。看[文档](https://docs.aspose.com/cells/cpp/installation/#using-nuget-package-manager)
-1. 使用 Include 和 lib 文件夹安装库。看[文档](https://docs.aspose.com/cells/cpp/installation/#using-include-and-lib-folders)
-1. 在Linux中安装Aspose.Cells for C++。看[文档](https://docs.aspose.com/cells/cpp/installation/#installing-asposecells-for-c-in-linux)
+1. 安装[NuGet 包裹](https://www.nuget.org/packages/Aspose.Cells.Cpp/)。 看[文档](https://docs.aspose.com/cells/cpp/installation/#using-nuget-package-manager)
+1. 使用 Include 和 lib 文件夹安装库。请参阅[文档](https://docs.aspose.com/cells/cpp/installation/#using-include-and-lib-folders)
+1. 在 Linux 中安装 Aspose.Cells for C++。请参阅[文档](https://docs.aspose.com/cells/cpp/installation/#installing-asposecells-for-c-in-linux)
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -73,34 +73,35 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% blocks/products/pf/agp/text %}}
 
-在运行 C++ 转换示例代码之前，请确保您满足以下先决条件。
+在运行 C++ 转换示例代码之前，请确保您具备以下先决条件。
 
 {{% /blocks/products/pf/agp/text %}}
 
-- Microsoft Windows 或具有 C++ 运行时环境的兼容操作系统，适用于 Windows 32 位、Windows 64 位和 Linux 64 位。
-- 在项目中添加对 Aspose.Cells for C++ DLL 的引用。
+- Microsoft Windows 或与 C++ 运行环境兼容的操作系统，适用于 Windows 32 位、Windows 64 位和 Linux 64 位。
+- 在您的项目中添加对 Aspose.Cells for C++ DLL 的引用。
 
 {{% /blocks/products/pf/agp/content %}}
 
 <!-- aboutfile Starts -->
     {{< blocks/products/pf/agp/about-file-section >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLS" readMoreLink="https://docs.fileformat.com/spreadsheet/xls/" >}}扩展名为 XLS 的文件代表 Excel 二进制文件格式。此类文件可以由 Microsoft Excel 以及其他类似的电子表格程序（例如 OpenOffice Calc 或 Apple Numbers）创建。Excel 保存的文件称为工作簿，其中每个工作簿可以有一个或多个工作表。数据以工作表中的表格格式存储并显示给用户，可以涵盖数值、文本数据、公式、外部数据连接、图像和图表。 Microsoft Excel 等应用程序可让您将工作簿数据导出为多种不同的格式，包括 PDF、CSV、XLSX、TXT、HTML、XPS 等。随着 Microsoft Excel 2007 的发布，XLS 文件格式被更开放和结构化的格式 XLSX 所取代。最新版本仍然支持创建和读取 XLS 文件，尽管 XLSX 是现在使用的首选。{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLS" readMoreLink="https://docs.fileformat.com/spreadsheet/xls/" >}}扩展名为 XLS 的文件代表 Excel 二进制文件格式。此类文件可由 Microsoft Excel 以及其他类似的电子表格程序（如 OpenOffice Calc 或 Apple Numbers）创建。Excel 保存的文件称为工作簿，每个工作簿可以有一个或多个工作表。数据以表格格式存储在工作表中并显示给用户，可以涵盖数值、文本数据、公式、外部数据连接、图像和图表。Microsoft Excel 等应用程序允许您将工作簿数据导出为多种不同格式，包括 PDF、CSV、XLSX、TXT、HTML、XPS 和其他几种格式。随着 Microsoft Excel 2007 的发布，XLS 文件格式已被更开放、更结构化的格式 XLSX 所取代。最新版本仍然支持创建和读取 XLS 文件，尽管 XLSX 现在是首选。{{< /blocks/products/pf/agp/i18n/about-file-text >}}
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="ET" readMoreLink="https://fileinfo.com/extension/et/" >}}ET 文件是由 Easiteach 创建的教学课程，该程序允许教师开发课堂课程并通过交互式界面进行授课。它包含课程数据，例如布局、导航、图像、文本、主题和动画。{{< /blocks/products/pf/agp/i18n/about-file-text >}}
     {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="其他支持的转换" subTitle="您还可以将 XLS 转换为许多其他文件格式，包括下面列出的几种。" >}}
+{{< blocks/products/pf/agp/other-supported-section title="其他支持的转换" subTitle="您还可以将 XLS 转换为许多其他文件格式，包括下面列出的几种格式。" >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xls-to-bmp/" name="XLS 至 BMP" description="位图图像" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xls-to-emf/" name="XLS 至 EMF" description="增强的图元文件格式" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xls-to-emf/" name="XLS 至 EMF" description="增强型图元文件格式" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xls-to-gif/" name="XLS 至 GIF" description="图形交换格式" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xls-to-html/" name="XLS 至 HTML" description="超文本标记语言" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xls-to-md/" name="XLS 至 MD" description="降价语言" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xls-to-md/" name="XLS 致 MD" description="Markdown 语言" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xls-to-mhtml/" name="XLS 至 MHTML" description="网页存档格式" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xls-to-ods/" name="XLS 至 ODS" description="OpenDocument 电子表格文件" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xls-to-pdf/" name="XLS 至 PDF" description="便携式文档格式" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xls-to-ods/" name="XLS 至 ODS" description="开放文档电子表格文件" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xls-to-pdf/" name="XLS 至 PDF" description="可移植文档格式" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xls-to-png/" name="XLS 至 PNG" description="便携式网络图形" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xls-to-svg/" name="XLS 至 SVG" description="可缩放矢量图形" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xls-to-tiff/" name="XLS 至 TIFF" description="标记图像格式" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xls-to-tsv/" name="XLS 至 TSV" description="制表符分隔值" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xls-to-txt/" name="XLS 至 TXT" description="文本文档" >}}
 
@@ -108,9 +109,9 @@ PM> Install-Package Aspose.Cells.Cpp
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xls-to-xlsm/" name="XLS 至 XLSM" description="电子表格文件" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xls-to-xlsx/" name="XLS 至 XLSX" description="OOXML Excel 文件" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xls-to-xlt/" name="XLS 至 XLT" description="Microsoft Excel 模板" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xls-to-xltm/" name="XLS 至 XLTM" description="Excel 宏启用模板" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xls-to-xltm/" name="XLS 至 XLTM" description="Excel 启用宏的模板" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xls-to-xltx/" name="XLS 至 XLTX" description="Office OpenXML Excel 模板" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xls-to-xml/" name="XLS 转 XML" description="可扩展标记语言" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xls-to-xml/" name="XLS 至 XML" description="可扩展标记语言" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xls-to-xps/" name="XLS 至 XPS" description="XML 论文规范" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xls-to-json/" name="XLS 至 JSON" description="JavaScript 对象表示法" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xls-to-jpeg/" name="XLS 至 JPEG" description="JPEG 图片" >}}

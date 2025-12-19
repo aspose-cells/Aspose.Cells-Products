@@ -1,7 +1,7 @@
 ---
 title: Python EXCEL sang TABDELIMITED - Công cụ chuyển đổi EXCEL sang TABDELIMITED
-description: Aspose Excel. Python Excel. Chuyển EXCEL sang TABDELIMITED nhanh chóng và dễ dàng với Aspose.Cells. Python EXCEL sang TABDELIMITED. Python Lưu EXCEL vào TABDELIMITED. Lưu EXCEL dưới dạng TABDELIMITED bằng Thư viện Excel Python.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert EXCEL to TABDELIMITED in Python Excel Library., Save EXCEL to TABDELIMITED using Python Excel Library., Python EXCEL to TABDELIMITED saveformat., EXCEL to TABDELIMITED Converter., Python Save EXCEL as TABDELIMITED]
+description: Aspose Excel. Giải pháp toàn diện này cung cấp cho các nhà phát triển Python một phương pháp tích hợp đầy đủ để chuyển đổi EXCEL sang định dạng TABDELIMITED, cho phép lưu dữ liệu EXCEL liền mạch vào định dạng TABDELIMITED bằng thư viện Aspose.Cells, tất cả thông qua mã Python hiệu quả và có thể tùy chỉnh.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart EXCEL files to TABDELIMITED Converter for Python., Convert EXCEL to TABDELIMITED in Python., EXCEL files to TABDELIMITED Conversion in Python., Leverage intelligent data processing to automatically parse and save EXCEL into TABDELIMITED format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Chuyển EXCEL sang TABDELIMITED trong Python Thư viện Excel" h2="Thư viện excel Python tốc độ cao để chuyển EXCEL sang TABDELIMITED. Đây là giải pháp phần mềm chuyên nghiệp để nhập và xuất EXCEL, TABDELIMITED và nhiều định dạng khác bằng Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="TABDELIMITED" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -27,7 +27,7 @@ Hãy làm theo các bước đơn giản để chuyển đổi EXCEL sang TABDEL
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Mã mẫu chuyển EXCEL sang TABDELIMITED qua Python Thư viện Excel" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsx" outformat="tsv" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="Mã mẫu chuyển EXCEL sang TABDELIMITED qua Python Thư viện Excel" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="xlsx" outformat="tsv" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="Cách chuyển EXCEL sang TABDELIMITED qua Python" %}}
 

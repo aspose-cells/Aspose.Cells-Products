@@ -1,7 +1,7 @@
 ---
 title: Python SPREADSHEETML'den ETT'ye - SPREADSHEETML'den ETT'ye dönüştürücü
-description: Aspose Excel'de. Python Excel'de. Aspose.Cells ile SPREADSHEETML'i hızlı ve kolay bir şekilde ETT'ye dönüştürün. Python SPREADSHEETML'i ETT'ye dönüştürün. Python SPREADSHEETML'i ETT'ye kaydedin. Python Excel Kütüphanesini kullanarak SPREADSHEETML'i ETT olarak kaydedin.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert SPREADSHEETML to ETT in Python Excel Library., Save SPREADSHEETML to ETT using Python Excel Library., Python SPREADSHEETML to ETT saveformat., SPREADSHEETML to ETT Converter., Python Save SPREADSHEETML as ETT]
+description: Aspose Excel. Bu kapsamlı çözüm, Python geliştiricilere SPREADSHEETML'yi ETT formatına dönüştürmek için tamamen entegre bir yaklaşım sunarak, Aspose.Cells kütüphanesini kullanarak SPREADSHEETML verilerinin ETT formatına sorunsuz bir şekilde kaydedilmesini sağlar; tüm bunlar verimli ve özelleştirilebilir Python kod aracılığıyla gerçekleştirilir.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart SPREADSHEETML files to ETT Converter for Python., Convert SPREADSHEETML to ETT in Python., SPREADSHEETML files to ETT Conversion in Python., Leverage intelligent data processing to automatically parse and save SPREADSHEETML into ETT format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Python Excel Kitaplığı\'nda SPREADSHEETML\'i ETT\'ye dönüştürün" h2="SPREADSHEETML\'i ETT\'ye dönüştürmek için yüksek hızlı Python excel kitaplığı. Bu, SPREADSHEETML, ETT ve diğer birçok formatı Python kullanarak içe ve dışa aktarmak için kullanılan profesyonel bir yazılım çözümüdür." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="ETT" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -27,7 +27,7 @@ SPREADSHEETML'i ETT'ye dönüştürmek için kolay adımları izleyin. SPREADSHE
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Python Excel Kitaplığı aracılığıyla SPREADSHEETML\'i ETT\'ye Dönüştürmek için Örnek Kod" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xml" outformat="ett" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="Python Excel Kitaplığı aracılığıyla SPREADSHEETML\'i ETT\'ye Dönüştürmek için Örnek Kod" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="xml" outformat="ett" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="SPREADSHEETML\'i Python aracılığıyla ETT\'ye dönüştürme" %}}
 

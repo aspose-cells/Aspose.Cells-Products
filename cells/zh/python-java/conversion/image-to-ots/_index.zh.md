@@ -1,7 +1,7 @@
 ---
 title: Python 图像转 OTS - 图像转 OTS 转换器
-description: Aspose Excel。Python Excel。使用 Aspose.Cells 快速轻松地将 IMAGE 转换为 OTS。Python IMAGE 到 OTS。Python 将 IMAGE 保存到 OTS。使用 Python Excel 库将 IMAGE 保存为 OTS。
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert IMAGE to OTS in Python Excel Library., Save IMAGE to OTS using Python Excel Library., Python IMAGE to OTS saveformat., IMAGE to OTS Converter., Python Save IMAGE as OTS]
+description: Aspose Excel。此综合解决方案为 Python 开发人员提供了一种完全集成的方法，可将图像转换为 OTS 格式，从而能够使用 Aspose.Cells 库将图像数据无缝保存为 OTS 格式，所有这些都通过高效且可定制的 Python 代码实现。
+keywords: [Aspose Excel., Python Aspose.Cells., Smart IMAGE files to OTS Converter for Python., Convert IMAGE to OTS in Python., IMAGE files to OTS Conversion in Python., Leverage intelligent data processing to automatically parse and save IMAGE into OTS format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="在 Python Excel 库中将 IMAGE 转换为 OTS" h2="用于将 IMAGE 转换为 OTS 的高速 Python excel 库。这是一个专业的软件解决方案，可使用 Python 导入和导出 IMAGE、OTS 和许多其他格式。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="OTS" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -27,7 +27,7 @@ keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert I
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="通过 Python Excel 库将 IMAGE 转换为 OTS 的示例代码" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="png" outformat="ots" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="通过 Python Excel 库将 IMAGE 转换为 OTS 的示例代码" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="png" outformat="ots" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="如何通过 Python 将 IMAGE 转换为 OTS" %}}
 

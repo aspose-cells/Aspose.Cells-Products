@@ -1,7 +1,7 @@
 ---
 title: C++ XLS 轉 ETT - XLS 轉 ETT 轉換器
-description: Aspose Excel。使用 Aspose.Cells 快速輕鬆地將 XLS 轉換為 ETT。C++ XLS 轉換為 ETT。 C++ 將 XLS 儲存至 ETT。使用 C++ 將 XLS 儲存為 ETT。
-keywords: [Aspose Excel., C++ Aspose.Cells., Convert XLS to ETT in C++., Save XLS to ETT using C++., C++ XLS to ETT saveformat., XLS to ETT Converter., C++ Save XLS as ETT]
+description: Aspose Excel。此綜合解決方案為 C++ 開發人員提供了一種完全整合的方法，可將 XLS 轉換為 ETT 格式，從而能夠使用 Aspose.Cells 庫將 XLS 資料無縫保存為 ETT 格式，所有這些都通過高效的 XLS 資料無縫保存為 ETT 格式，所有這些都透過高效可自訂的 08153481 實現程式碼。
+keywords: [Aspose Excel., C++ Aspose.Cells., Smart XLS files to ETT Converter for C++., Convert XLS to ETT in C++., XLS files to ETT Conversion in C++., Leverage intelligent data processing to automatically parse and save XLS into ETT format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="將 XLS 轉換為 C++ 中的 ETT" h2="使用 C++ 函式庫進行高效能 XLS 到 ETT 轉換，無需安裝 Microsoft Excel、OpenOffice 或 Adobe Acrobat。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" sourceAdditionalConversionTag="" additionalConversionTag="ETT" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -26,7 +26,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="將 XLS 儲存到 C++ 中的 ETT" %}}
+{{% blocks/products/pf/agp/content h2="將 XLS 儲存到 ETT，即 C++" %}}
 
 以下範例示範如何將 XLS 轉換為 C++ 中的 ETT。
 {{% blocks/products/pf/agp/text %}}
@@ -37,20 +37,20 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="將 XLS 轉換為 ETT 的範例程式碼" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xls" outformat="ett" IsLandingPage="true" language="cpp" %}}
+{{% cells-convert title="將 XLS 轉換為 ETT 的範例程式碼" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="xls" outformat="ett" IsLandingPage="true" language="cpp" %}}
 
 {{% blocks/products/pf/agp/content h2="如何透過 C++ 將 XLS 轉換為 ETT" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
-需要以程式方式將 XLS 檔案轉換為 ETT？ C++ 開發人員只需幾行程式碼即可輕鬆將 XLS 轉換為 ETT。
+需要透過程式將 XLS 檔案轉換為 ETT 格式嗎？ C++ 開發人員只需幾行程式碼即可輕鬆將 XLS 轉換為 ETT 格式。
 
 {{% /blocks/products/pf/agp/text %}}
 
 1. 安裝“Aspose.Cells for C++”。
 1. 將庫引用（導入庫）新增至您的 C++ 專案中。
 1. 使用工作簿載入 XLS 檔案。
-1. 透過呼叫 Save() 方法將 XLS 轉換為 ETT。
+1. 呼叫 Save() 方法將 XLS 轉換為 ETT。
 1. 取得XLS到ETT的轉換結果。
 
 {{% /blocks/products/pf/agp/content %}}
@@ -73,7 +73,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% blocks/products/pf/agp/text %}}
 
-在執行 C++ 轉換範例程式碼之前，請確保您符合以下先決條件。
+在執行 C++ 轉換範例程式碼之前，請確保您具備以下先決條件。
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -84,7 +84,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 <!-- aboutfile Starts -->
     {{< blocks/products/pf/agp/about-file-section >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLS" readMoreLink="https://docs.fileformat.com/spreadsheet/xls/" >}}副檔名為 XLS 的檔案代表 Excel 二進位檔案格式。此類文件可以由 Microsoft Excel 以及其他類似的電子表格程式（例如 OpenOffice Calc 或 Apple Numbers）建立。Excel 儲存的檔案稱為工作簿，其中每個工作簿可以有一個或多個工作表。資料以工作表中的表格格式儲存並顯示給用戶，可以涵蓋數值、文字資料、公式、外部資料連接、圖像和圖表。 Microsoft Excel 等應用程式可讓您將工作簿資料匯出為多種不同的格式，包括 PDF、CSV、XLSX、TXT、HTML、XPS 等。隨著 Microsoft Excel 2007 的發布，XLS 文件格式被更開放和結構化的格式 XLSX 所取代。最新版本仍然支援創建和讀取 XLS 文件，儘管 XLSX 是現在使用的首選。{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLS" readMoreLink="https://docs.fileformat.com/spreadsheet/xls/" >}}副檔名為 XLS 的檔案代表 Excel 二進位檔案格式。此類文件可以由 Microsoft Excel 以及其他類似的電子表格程式（例如 OpenOffice Calc 或 Apple Numbers）建立。資料以工作表中的表格格式儲存並顯示給用戶，可以涵蓋數值、文字資料、公式、外部資料連接、圖像和圖表。 Microsoft Excel 等應用程式可讓您將工作簿資料匯出為多種不同的格式，包括 PDF、CSV、XLSX、TXT、HTML、XPS 等。隨著 Microsoft Excel 2007 的發布，XLS 文件格式被更開放和結構化的格式 XLSX 所取代。{{< /blocks/products/pf/agp/i18n/about-file-text >}}
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="ETT" readMoreLink="https://fileinfo.com/extension/ett/" >}}ETT 檔案是由 Kingsoft Spreadsheets 建立的電子表格模板，Kingsoft Spreadsheets 是 WPS Office 套件中包含的電子表格程式。它儲存一個模板，可用作建立新金山電子表格（.ET 檔案）的起點。 ETT 檔案通常用於建立財務預算和組織資料。{{< /blocks/products/pf/agp/i18n/about-file-text >}}
     {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->
@@ -101,6 +101,7 @@ PM> Install-Package Aspose.Cells.Cpp
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xls-to-pdf/" name="XLS 至 PDF" description="便攜式文件格式" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xls-to-png/" name="XLS 至 PNG" description="手提網路圖形" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xls-to-svg/" name="XLS 至 SVG" description="可縮放向量圖形" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xls-to-tiff/" name="XLS 至 TIFF" description="標記影像格式" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xls-to-tsv/" name="XLS 至 TSV" description="製表符分隔值" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xls-to-txt/" name="XLS 至 TXT" description="文字文檔" >}}
 

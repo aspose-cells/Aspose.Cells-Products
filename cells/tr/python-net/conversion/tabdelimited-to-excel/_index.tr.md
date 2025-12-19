@@ -1,7 +1,7 @@
 ---
 title: Python TABDELIMITED - EXCEL - TABDELIMITED - EXCEL Dönüştürücü
-description: Aspose Excel'de. Python Excel'de. Aspose.Cells ile TABDELIMITED'ı hızlı ve kolay bir şekilde EXCEL'e dönüştürün. Python TABDELIMITED'i EXCEL'e dönüştürün. Python TABDELIMITED'i EXCEL'e kaydet. Python Excel Kütüphanesini kullanarak TABDELIMITED'ı EXCEL olarak kaydedin.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert TABDELIMITED to EXCEL in Python Excel Library., Save TABDELIMITED to EXCEL using Python Excel Library., Python TABDELIMITED to EXCEL saveformat., TABDELIMITED to EXCEL Converter., Python Save TABDELIMITED as EXCEL]
+description: Aspose Excel. Bu kapsamlı çözüm, Python geliştiricilere TABDELIMITED'ı EXCEL formatına dönüştürmek için tamamen entegre bir yaklaşım sunarak, Aspose.Cells kütüphanesini kullanarak TABDELIMITED verilerinin EXCEL formatına sorunsuz bir şekilde kaydedilmesini sağlar; tüm bunlar verimli ve özelleştirilebilir Python kod aracılığıyla gerçekleştirilir.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart TABDELIMITED files to EXCEL Converter for Python., Convert TABDELIMITED to EXCEL in Python., TABDELIMITED files to EXCEL Conversion in Python., Leverage intelligent data processing to automatically parse and save TABDELIMITED into EXCEL format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Python Excel Kütüphanesinde TABDELIMITED\'ı EXCEL\'e dönüştürün" h2="TABDELIMITED\'i EXCEL\'e dönüştürmek için yüksek hızlı Python excel kitaplığı. Python\'de üst düzey, platformdan bağımsız yazılım geliştirmek için API excel dönüşümümüzü kullanın." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="EXCEL" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -28,7 +28,7 @@ TABDELIMITED'i EXCEL'e dönüştürmek için kolay adımları izleyin. TABDELIMI
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Python Excel Kitaplığı aracılığıyla TABDELIMITED\'ı EXCEL\'e Dönüştürmek için Örnek Kod" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="tsv" outformat="xlsx" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Python Excel Kitaplığı aracılığıyla TABDELIMITED\'ı EXCEL\'e Dönüştürmek için Örnek Kod" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="tsv" outformat="xlsx" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="TABDELIMITED\'i EXCEL\'e dönüştürme" %}}
 

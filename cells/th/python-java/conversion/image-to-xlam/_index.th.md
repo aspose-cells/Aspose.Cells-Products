@@ -1,7 +1,7 @@
 ---
 title: Python รูปภาพเป็น XLAM - ตัวแปลงรูปภาพเป็น XLAM
-description: Aspose เอ็กเซล. Python เอ็กเซล. แปลง IMAGE เป็น XLAM อย่างรวดเร็วและง่ายดายด้วย Aspose.Cells Python IMAGE เป็น XLAM Python บันทึก IMAGE เป็น XLAM บันทึก IMAGE เป็น XLAM โดยใช้ Python Excel Library
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert IMAGE to XLAM in Python Excel Library., Save IMAGE to XLAM using Python Excel Library., Python IMAGE to XLAM saveformat., IMAGE to XLAM Converter., Python Save IMAGE as XLAM]
+description: Aspose Excel โซลูชันที่ครอบคลุมนี้มอบแนวทางแบบบูรณาการอย่างสมบูรณ์ให้กับนักพัฒนา Python ในการแปลง IMAGE เป็นรูปแบบ XLAM ทำให้สามารถบันทึกข้อมูล IMAGE ลงในรูปแบบ XLAM ได้อย่างราบรื่นโดยใช้ไลบรารี Aspose.Cells ทั้งหมดนี้ผ่านโค้ด Python ที่มีประสิทธิภาพและปรับแต่งได้
+keywords: [Aspose Excel., Python Aspose.Cells., Smart IMAGE files to XLAM Converter for Python., Convert IMAGE to XLAM in Python., IMAGE files to XLAM Conversion in Python., Leverage intelligent data processing to automatically parse and save IMAGE into XLAM format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="แปลง IMAGE เป็น XLAM ใน Python Excel Library" h2="ไลบรารี Excel Python ความเร็วสูงสำหรับการแปลง IMAGE เป็น XLAM นี่คือโซลูชันซอฟต์แวร์ระดับมืออาชีพสำหรับการนำเข้าและส่งออก IMAGE, XLAM และรูปแบบอื่นๆ อีกมากมายโดยใช้ Python" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLAM" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -27,7 +27,7 @@ keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert I
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="โค้ดตัวอย่างในการแปลง IMAGE เป็น XLAM ผ่าน Python Excel Library" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="png" outformat="xlam" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="โค้ดตัวอย่างในการแปลง IMAGE เป็น XLAM ผ่าน Python Excel Library" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="png" outformat="xlam" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="วิธีแปลง IMAGE เป็น XLAM ผ่าน Python" %}}
 

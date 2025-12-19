@@ -1,7 +1,7 @@
 ---
 title: C++ CSV 轉 ETT - CSV 轉 ETT 轉換器
-description: Aspose Excel。使用 Aspose.Cells 快速輕鬆地將 CSV 轉換為 ETT。C++ CSV 轉換為 ETT。 C++ 將 CSV 儲存至 ETT。使用 C++ 將 CSV 儲存為 ETT。
-keywords: [Aspose Excel., C++ Aspose.Cells., Convert CSV to ETT in C++., Save CSV to ETT using C++., C++ CSV to ETT saveformat., CSV to ETT Converter., C++ Save CSV as ETT]
+description: Aspose Excel。此綜合解決方案為 C++ 開發人員提供了一種完全整合的方法，可將 CSV 轉換為 ETT 格式，從而能夠使用 Aspose.Cells 庫將 CSV 資料無縫保存為 ETT 格式，所有這些都通過高效的 CSV 資料無縫保存為 ETT 格式，所有這些都透過高效可自訂的 08153481 實現程式碼。
+keywords: [Aspose Excel., C++ Aspose.Cells., Smart CSV files to ETT Converter for C++., Convert CSV to ETT in C++., CSV files to ETT Conversion in C++., Leverage intelligent data processing to automatically parse and save CSV into ETT format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="將 CSV 轉換為 C++ 中的 ETT" h2="使用 C++ 函式庫進行高效能 CSV 到 ETT 轉換，無需安裝 Microsoft Excel、OpenOffice 或 Adobe Acrobat。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" sourceAdditionalConversionTag="" additionalConversionTag="ETT" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -26,7 +26,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="將 CSV 儲存到 C++ 中的 ETT" %}}
+{{% blocks/products/pf/agp/content h2="將 CSV 儲存到 ETT，即 C++" %}}
 
 以下範例示範如何將 CSV 轉換為 C++ 中的 ETT。
 {{% blocks/products/pf/agp/text %}}
@@ -37,20 +37,20 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="將 CSV 轉換為 ETT 的範例程式碼" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="csv" outformat="ett" IsLandingPage="true" language="cpp" %}}
+{{% cells-convert title="將 CSV 轉換為 ETT 的範例程式碼" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="csv" outformat="ett" IsLandingPage="true" language="cpp" %}}
 
 {{% blocks/products/pf/agp/content h2="如何透過 C++ 將 CSV 轉換為 ETT" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
-需要以程式方式將 CSV 檔案轉換為 ETT？ C++ 開發人員只需幾行程式碼即可輕鬆將 CSV 轉換為 ETT。
+需要透過程式將 CSV 檔案轉換為 ETT 格式嗎？ C++ 開發人員只需幾行程式碼即可輕鬆將 CSV 轉換為 ETT 格式。
 
 {{% /blocks/products/pf/agp/text %}}
 
 1. 安裝“Aspose.Cells for C++”。
 1. 將庫引用（導入庫）新增至您的 C++ 專案中。
 1. 使用工作簿載入 CSV 檔案。
-1. 透過呼叫 Save() 方法將 CSV 轉換為 ETT。
+1. 呼叫 Save() 方法將 CSV 轉換為 ETT。
 1. 取得CSV到ETT的轉換結果。
 
 {{% /blocks/products/pf/agp/content %}}
@@ -73,7 +73,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% blocks/products/pf/agp/text %}}
 
-在執行 C++ 轉換範例程式碼之前，請確保您符合以下先決條件。
+在執行 C++ 轉換範例程式碼之前，請確保您具備以下先決條件。
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -101,6 +101,7 @@ PM> Install-Package Aspose.Cells.Cpp
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/csv-to-pdf/" name="CSV 至 PDF" description="便攜式文件格式" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/csv-to-png/" name="CSV 至 PNG" description="手提網路圖形" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/csv-to-svg/" name="CSV 至 SVG" description="可縮放向量圖形" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/csv-to-tiff/" name="CSV 至 TIFF" description="標記影像格式" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/csv-to-tsv/" name="CSV 至 TSV" description="製表符分隔值" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/csv-to-txt/" name="CSV 至 TXT" description="文字文檔" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/csv-to-xls/" name="CSV 至 XLS" description="Excel 二進位格式" >}}

@@ -1,7 +1,7 @@
 ---
 title: Python MHT'den SXC'e - MHT'den SXC'e dönüştürücü
-description: Aspose Excel'de. Python Excel'de. Aspose.Cells ile MHT'yi hızlı ve kolay bir şekilde SXC'e dönüştürün. Python MHT'yi SXC'e dönüştürün. Python MHT'yi SXC'e kaydedin. Python Excel Kütüphanesini kullanarak MHT'yi SXC olarak kaydedin.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert MHT to SXC in Python Excel Library., Save MHT to SXC using Python Excel Library., Python MHT to SXC saveformat., MHT to SXC Converter., Python Save MHT as SXC]
+description: Aspose Excel. Bu kapsamlı çözüm, Python geliştiricilere MHT'yi SXC formatına dönüştürmek için tamamen entegre bir yaklaşım sunarak, Aspose.Cells kütüphanesini kullanarak MHT verilerinin SXC formatına sorunsuz bir şekilde kaydedilmesini sağlar; tüm bunlar verimli ve özelleştirilebilir Python kod aracılığıyla gerçekleştirilir.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart MHT files to SXC Converter for Python., Convert MHT to SXC in Python., MHT files to SXC Conversion in Python., Leverage intelligent data processing to automatically parse and save MHT into SXC format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Python Excel Kitaplığı\'nda MHT\'yi SXC\'e dönüştürün" h2="MHT\'yi SXC\'e dönüştürmek için yüksek hızlı Python excel kütüphanesi. Python\'de yüksek seviyeli, platformdan bağımsız yazılım geliştirmek için API excel dönüşümümüzü kullanın." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="SXC" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -28,7 +28,7 @@ MHT'yi SXC'e dönüştürmek için kolay adımları izleyin. MHT dosyanızı yü
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="MHT\'yi Python Excel Kitaplığı aracılığıyla SXC\'e Dönüştürmek için Örnek Kod" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="mht" outformat="sxc" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="MHT\'yi Python Excel Kitaplığı aracılığıyla SXC\'e Dönüştürmek için Örnek Kod" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="mht" outformat="sxc" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="MHT\'yi SXC\'e Dönüştürme" %}}
 

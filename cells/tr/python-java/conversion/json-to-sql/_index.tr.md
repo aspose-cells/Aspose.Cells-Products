@@ -1,7 +1,7 @@
 ---
 title: Python JSON'den SQL'e - JSON'den SQL'e Dönüştürücü
-description: Aspose Excel'de. Python Excel'de. Aspose.Cells ile JSON'i hızlı ve kolay bir şekilde SQL'e dönüştürün. Python JSON'i SQL'e dönüştürün. Python JSON'i SQL'e kaydedin. Python Excel Kitaplığını kullanarak JSON'i SQL olarak kaydedin.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert JSON to SQL in Python Excel Library., Save JSON to SQL using Python Excel Library., Python JSON to SQL saveformat., JSON to SQL Converter., Python Save JSON as SQL]
+description: Aspose Excel. Bu kapsamlı çözüm, Python geliştiricilere JSON'i SQL formatına dönüştürmek için tamamen entegre bir yaklaşım sunarak, Aspose.Cells kütüphanesini kullanarak JSON verilerinin SQL formatına sorunsuz bir şekilde kaydedilmesini sağlar; tüm bunlar verimli ve özelleştirilebilir Python kod aracılığıyla gerçekleştirilir.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart JSON files to SQL Converter for Python., Convert JSON to SQL in Python., JSON files to SQL Conversion in Python., Leverage intelligent data processing to automatically parse and save JSON into SQL format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="JSON\'i Python Excel Kitaplığı\'nda SQL\'e dönüştürün" h2="JSON\'i SQL\'e dönüştürmek için yüksek hızlı Python excel kitaplığı. Bu, JSON, SQL ve diğer birçok formatı Python kullanarak içe ve dışa aktarmak için profesyonel bir yazılım çözümüdür." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="SQL" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -27,7 +27,7 @@ JSON'i SQL'e dönüştürmek için kolay adımları izleyin. JSON dosyanızı y�
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="JSON\'i Python Excel Kitaplığı aracılığıyla SQL\'e Dönüştürmek için Örnek Kod" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="json" outformat="sql" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="JSON\'i Python Excel Kitaplığı aracılığıyla SQL\'e Dönüştürmek için Örnek Kod" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="json" outformat="sql" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="JSON\'i Python aracılığıyla SQL\'e dönüştürme" %}}
 

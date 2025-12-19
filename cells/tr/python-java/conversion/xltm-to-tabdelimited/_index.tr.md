@@ -1,7 +1,7 @@
 ---
 title: Python XLTM - TABDELIMITED - XLTM - TABDELIMITED Dönüştürücü
-description: Aspose Excel'de. Python Excel'de. Aspose.Cells ile XLTM'i hızlı ve kolay bir şekilde TABDELIMITED'e dönüştürün. Python XLTM'i TABDELIMITED'e dönüştürün. Python XLTM'i TABDELIMITED'e kaydedin. Python Excel Kütüphanesini kullanarak XLTM'i TABDELIMITED olarak kaydedin.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert XLTM to TABDELIMITED in Python Excel Library., Save XLTM to TABDELIMITED using Python Excel Library., Python XLTM to TABDELIMITED saveformat., XLTM to TABDELIMITED Converter., Python Save XLTM as TABDELIMITED]
+description: Aspose Excel. Bu kapsamlı çözüm, Python geliştiricilerine XLTM'i TABDELIMITED formatına dönüştürmek için tamamen entegre bir yaklaşım sunarak, Aspose.Cells kütüphanesini kullanarak XLTM verilerinin TABDELIMITED formatına sorunsuz bir şekilde kaydedilmesini sağlar; tüm bunlar verimli ve özelleştirilebilir Python kod aracılığıyla gerçekleştirilir.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart XLTM files to TABDELIMITED Converter for Python., Convert XLTM to TABDELIMITED in Python., XLTM files to TABDELIMITED Conversion in Python., Leverage intelligent data processing to automatically parse and save XLTM into TABDELIMITED format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="XLTM\'i Python Excel Kütüphanesinde TABDELIMITED\'e dönüştürün" h2="XLTM\'i TABDELIMITED\'e dönüştürmek için yüksek hızlı Python excel kitaplığı. Bu, XLTM, TABDELIMITED ve diğer birçok formatı Python kullanarak içe ve dışa aktarmak için profesyonel bir yazılım çözümüdür." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="TABDELIMITED" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -27,7 +27,7 @@ XLTM'i TABDELIMITED'e dönüştürmek için kolay adımları izleyin. XLTM dosya
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="XLTM\'i Python Excel Kütüphanesi aracılığıyla TABDELIMITED\'e Dönüştürmek için Örnek Kod" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xltm" outformat="tsv" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="XLTM\'i Python Excel Kütüphanesi aracılığıyla TABDELIMITED\'e Dönüştürmek için Örnek Kod" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="xltm" outformat="tsv" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="XLTM\'i Python aracılığıyla TABDELIMITED\'e dönüştürme" %}}
 

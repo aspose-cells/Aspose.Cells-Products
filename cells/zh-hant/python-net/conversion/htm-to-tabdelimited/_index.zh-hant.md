@@ -1,7 +1,7 @@
 ---
 title: Python HTM 到 TABDELIMITED - HTM 到 TABDELIMITED 轉換器
-description: Aspose Excel。 Python Excel。使用 Aspose.Cells 快速輕鬆地將 HTM 轉換為 TABDELIMITED。 Python 將 HTM 儲存到 TABDELIMITED。使用 Python Excel 庫將 HTM 儲存為 TABDELIMITED。
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert HTM to TABDELIMITED in Python Excel Library., Save HTM to TABDELIMITED using Python Excel Library., Python HTM to TABDELIMITED saveformat., HTM to TABDELIMITED Converter., Python Save HTM as TABDELIMITED]
+description: Aspose Excel。此綜合解決方案為 Python 開發人員提供了一種完全整合的方法，可將 HTM 轉換為 TABDELIMITED 格式，從而能夠使用 Aspose.Cells 庫將 HTM 資料無縫儲存為 TABDELIMITED 格式，所有這些都透過高效且可自訂的 076134881 程式碼。
+keywords: [Aspose Excel., Python Aspose.Cells., Smart HTM files to TABDELIMITED Converter for Python., Convert HTM to TABDELIMITED in Python., HTM files to TABDELIMITED Conversion in Python., Leverage intelligent data processing to automatically parse and save HTM into TABDELIMITED format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="在 Python Excel 庫中將 HTM 轉換為 TABDELIMITED" h2="用於將 HTM 轉換為 TABDELIMITED 的高速 Python Excel 庫。使用我們的 Excel 轉換 API 在 Python 中開發高階、平台獨立的軟體。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="TABDELIMITED" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -28,7 +28,7 @@ keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert H
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="透過 Python Excel 庫將 HTM 轉換為 TABDELIMITED 的範例程式碼" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="htm" outformat="tsv" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="透過 Python Excel 庫將 HTM 轉換為 TABDELIMITED 的範例程式碼" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="htm" outformat="tsv" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="如何將 HTM 轉換為 TABDELIMITED" %}}
 

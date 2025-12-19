@@ -1,7 +1,7 @@
 ---
 title: Python XLTX - TABDELIMITED - XLTX - TABDELIMITED Dönüştürücü
-description: Aspose Excel'de. Python Excel'de. Aspose.Cells ile XLTX'i hızlı ve kolay bir şekilde TABDELIMITED'e dönüştürün. Python XLTX'i TABDELIMITED'e dönüştürün. Python XLTX'i TABDELIMITED'e kaydedin. Python Excel Kütüphanesini kullanarak XLTX'i TABDELIMITED olarak kaydedin.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert XLTX to TABDELIMITED in Python Excel Library., Save XLTX to TABDELIMITED using Python Excel Library., Python XLTX to TABDELIMITED saveformat., XLTX to TABDELIMITED Converter., Python Save XLTX as TABDELIMITED]
+description: Aspose Excel. Bu kapsamlı çözüm, Python geliştiricilerine XLTX'i TABDELIMITED formatına dönüştürmek için tamamen entegre bir yaklaşım sunarak, Aspose.Cells kütüphanesini kullanarak XLTX verilerinin TABDELIMITED formatına sorunsuz bir şekilde kaydedilmesini sağlar; tüm bunlar verimli ve özelleştirilebilir Python kod aracılığıyla gerçekleştirilir.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart XLTX files to TABDELIMITED Converter for Python., Convert XLTX to TABDELIMITED in Python., XLTX files to TABDELIMITED Conversion in Python., Leverage intelligent data processing to automatically parse and save XLTX into TABDELIMITED format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="XLTX\'i Python Excel Kütüphanesinde TABDELIMITED\'e dönüştürün" h2="XLTX\'i TABDELIMITED\'e dönüştürmek için yüksek hızlı Python excel kitaplığı. Python\'de üst düzey, platformdan bağımsız yazılım geliştirmek için API excel dönüşümümüzü kullanın." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="TABDELIMITED" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -28,7 +28,7 @@ XLTX'i TABDELIMITED'e dönüştürmek için kolay adımları izleyin. XLTX dosya
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="XLTX\'i Python Excel Kütüphanesi aracılığıyla TABDELIMITED\'e Dönüştürmek için Örnek Kod" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xltx" outformat="tsv" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="XLTX\'i Python Excel Kütüphanesi aracılığıyla TABDELIMITED\'e Dönüştürmek için Örnek Kod" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="xltx" outformat="tsv" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="XLTX\'i TABDELIMITED\'e Dönüştürme" %}}
 

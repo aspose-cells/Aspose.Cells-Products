@@ -1,7 +1,7 @@
 ---
 title: Python HTM - FODS - HTM - FODS Dönüştürücü
-description: Aspose Excel'de. Python Excel'de. Aspose.Cells ile hızlı ve kolay bir şekilde HTM'yi FODS'e dönüştürün. Python HTM'yi FODS'e dönüştürün. Python HTM'yi FODS'e kaydedin. Python Excel Kitaplığını kullanarak HTM'yi FODS olarak kaydedin.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert HTM to FODS in Python Excel Library., Save HTM to FODS using Python Excel Library., Python HTM to FODS saveformat., HTM to FODS Converter., Python Save HTM as FODS]
+description: Aspose Excel. Bu kapsamlı çözüm, Python geliştiricilere HTM'yi FODS formatına dönüştürmek için tamamen entegre bir yaklaşım sunarak, Aspose.Cells kütüphanesini kullanarak HTM verilerinin FODS formatına sorunsuz bir şekilde kaydedilmesini sağlar; tüm bunlar verimli ve özelleştirilebilir Python kod aracılığıyla gerçekleştirilir.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart HTM files to FODS Converter for Python., Convert HTM to FODS in Python., HTM files to FODS Conversion in Python., Leverage intelligent data processing to automatically parse and save HTM into FODS format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Python Excel Kitaplığı\'nda HTM\'yi FODS\'e dönüştürün" h2="HTM\'yi FODS\'e dönüştürmek için yüksek hızlı Python excel kütüphanesi. Python\'de yüksek seviyeli, platformdan bağımsız yazılım geliştirmek için API excel dönüşümümüzü kullanın." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="FODS" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -28,7 +28,7 @@ HTM'yi FODS'e dönüştürmek için kolay adımları izleyin. HTM dosyanızı y�
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="HTM\'yi Python Excel Kitaplığı aracılığıyla FODS\'e Dönüştürmek için Örnek Kod" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="htm" outformat="fods" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="HTM\'yi Python Excel Kitaplığı aracılığıyla FODS\'e Dönüştürmek için Örnek Kod" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="htm" outformat="fods" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="HTM\'yi FODS\'e Dönüştürme" %}}
 

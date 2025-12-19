@@ -1,7 +1,7 @@
 ---
 title: Python NUMBERS'den ET'ye - NUMBERS'den ET'ye dönüştürücü
-description: Aspose Excel'de. Python Excel'de. Aspose.Cells ile NUMBERS'ı hızlı ve kolay bir şekilde ET'ye dönüştürün. Python NUMBERS'i ET'ye dönüştürün. Python NUMARALARI ET'ye kaydedin. Python Excel Kütüphanesini kullanarak NUMBERS'ı ET olarak kaydedin.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert NUMBERS to ET in Python Excel Library., Save NUMBERS to ET using Python Excel Library., Python NUMBERS to ET saveformat., NUMBERS to ET Converter., Python Save NUMBERS as ET]
+description: Aspose Excel. Bu kapsamlı çözüm, Python geliştiricilere, NUMBERS verilerini ET formatına dönüştürmek için tamamen entegre bir yaklaşım sunarak, Aspose.Cells kütüphanesini kullanarak NUMBERS verilerinin ET formatına sorunsuz bir şekilde kaydedilmesini sağlar; tüm bunlar verimli ve özelleştirilebilir Python kod aracılığıyla gerçekleştirilir.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart NUMBERS files to ET Converter for Python., Convert NUMBERS to ET in Python., NUMBERS files to ET Conversion in Python., Leverage intelligent data processing to automatically parse and save NUMBERS into ET format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Python Excel Kitaplığı\'nda NUMBERS\'ı ET\'ye dönüştürün" h2="NUMBERS\'i ET\'ye dönüştürmek için yüksek hızlı Python excel kitaplığı. Bu, Python\'i kullanarak NUMBERS, ET ve diğer birçok formatı içe ve dışa aktarmak için profesyonel bir yazılım çözümüdür." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="ET" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -27,7 +27,7 @@ NUMBERS'ı ET'ye dönüştürmek için kolay adımları izleyin. NUMBERS dosyan�
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Python Excel Kitaplığı aracılığıyla NUMBERS\'ı ET\'ye Dönüştürmek için Örnek Kod" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="numbers" outformat="et" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="Python Excel Kitaplığı aracılığıyla NUMBERS\'ı ET\'ye Dönüştürmek için Örnek Kod" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="numbers" outformat="et" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="NUMBERS\'ı Python aracılığıyla ET\'ye dönüştürme" %}}
 

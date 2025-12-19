@@ -1,7 +1,7 @@
 ---
 title: Python XLT ila XLAM - XLT ila XLAM Dönüştürücü
-description: Aspose Excel'de. Python Excel'de. Aspose.Cells ile hızlı ve kolay bir şekilde XLT'i XLAM'e dönüştürün. Python XLT'i XLAM'e dönüştürün. Python XLT'i XLAM'e kaydedin. XLT'i 076112 olarak kaydedin Python Excel Kitaplığı'nı kullanarak 3481.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert XLT to XLAM in Python Excel Library., Save XLT to XLAM using Python Excel Library., Python XLT to XLAM saveformat., XLT to XLAM Converter., Python Save XLT as XLAM]
+description: Aspose Excel. Bu kapsamlı çözüm, Python geliştiricilerine XLT'i XLAM formatına dönüştürmek için tamamen entegre bir yaklaşım sunarak, XLT verilerinin XLAM formatına Aspose.Cells kütüphanesi kullanılarak sorunsuz bir şekilde kaydedilmesini sağlar; tüm bunlar verimli ve özelleştirilebilir Python kod aracılığıyla gerçekleştirilir.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart XLT files to XLAM Converter for Python., Convert XLT to XLAM in Python., XLT files to XLAM Conversion in Python., Leverage intelligent data processing to automatically parse and save XLT into XLAM format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="XLT\'i Python Excel Kitaplığı\'nda XLAM\'e dönüştürün" h2="XLT\'i XLAM\'e dönüştürmek için yüksek hızlı Python excel kitaplığı. Bu, XLT, XLAM ve Python\'i kullanarak diğer birçok formatı içe ve dışa aktarmak için profesyonel bir yazılım çözümüdür." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLAM" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -27,7 +27,7 @@ XLT'i XLAM'e dönüştürmek için kolay adımları izleyin. XLT dosyanızı yü
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="XLT\'i Python Excel Kitaplığı aracılığıyla XLAM\'e Dönüştürmek için Örnek Kod" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlt" outformat="xlam" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="XLT\'i Python Excel Kitaplığı aracılığıyla XLAM\'e Dönüştürmek için Örnek Kod" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="xlt" outformat="xlam" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="XLT\'i Python aracılığıyla XLAM\'e dönüştürme" %}}
 

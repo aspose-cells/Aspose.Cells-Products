@@ -1,7 +1,7 @@
 ---
 title: Python OTS'den FODS'e - OTS'den FODS'e dönüştürücü
-description: Aspose Excel'de. Python Excel'de. Aspose.Cells ile hızlı ve kolay bir şekilde OTS'yi FODS'e dönüştürün. Python OTS'yi FODS'e dönüştürün. Python OTS'yi FODS'e kaydedin. Python Excel Kitaplığını kullanarak OTS'yi FODS olarak kaydedin.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert OTS to FODS in Python Excel Library., Save OTS to FODS using Python Excel Library., Python OTS to FODS saveformat., OTS to FODS Converter., Python Save OTS as FODS]
+description: Aspose Excel. Bu kapsamlı çözüm, Python geliştiricilere OTS'yi FODS formatına dönüştürmek için tamamen entegre bir yaklaşım sunarak, Aspose.Cells kütüphanesini kullanarak OTS verilerinin FODS formatına sorunsuz bir şekilde kaydedilmesini sağlar; tüm bunlar verimli ve özelleştirilebilir Python kod aracılığıyla gerçekleştirilir.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart OTS files to FODS Converter for Python., Convert OTS to FODS in Python., OTS files to FODS Conversion in Python., Leverage intelligent data processing to automatically parse and save OTS into FODS format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Python Excel Kitaplığı\'nda OTS\'yi FODS\'e dönüştürün" h2="OTS\'yi FODS\'e dönüştürmek için yüksek hızlı Python excel kitaplığı. Python\'de üst düzey, platformdan bağımsız yazılım geliştirmek için API excel dönüşümümüzü kullanın." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="FODS" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -28,7 +28,7 @@ OTS'yi FODS'e dönüştürmek için kolay adımları izleyin. OTS dosyanızı y�
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="OTS\'yi Python Excel Kitaplığı aracılığıyla FODS\'e Dönüştürmek için Örnek Kod" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="ots" outformat="fods" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="OTS\'yi Python Excel Kitaplığı aracılığıyla FODS\'e Dönüştürmek için Örnek Kod" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="ots" outformat="fods" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="OTS\'yi FODS\'e Dönüştürme" %}}
 

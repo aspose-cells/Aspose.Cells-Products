@@ -1,7 +1,7 @@
 ---
 title: 建立HTML - 在C++中建立HTML文件
-description: Aspose Excel。 C++ 使用 Aspose.Cells 快速輕鬆地建立 HTML 檔案。使用 C++ 產生 HTML 檔案。在 C++ 中建立 HTML。在 C++ 中建立 HTML。
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ Create HTML file., Generate HTML file in C++., Create HTML file using C++., Write data to HTML file via C++., Create a HTML file in C++., C++ Generate a HTML file., C++ HTML Creater]
+description: Aspose Excel。使用 Aspose.Cells for C++ 函式庫，輕鬆產生和操作 HTML 檔案。這款強大的 API 庫提供了一種簡化高效的解決方案，可直接在您的 C++ 應用程式中建立、編輯和管理 HTML 文件，從而高精度地滿足開發人員的特定需求。
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ Create HTML file., Generate HTML file in C++., Write data to HTML file via C++., C++ HTML Creater., Aspose.Cells for C++ is a powerful library that enables developers to programmatically create, generate, and manipulate HTML files in C++]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="在C++中建立HTML文件" h2="使用 C++ 函式庫以程式設計方式建立本機高效能 HTML 文件，無需 Microsoft Office。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" sourceAdditionalConversionTag="" additionalConversionTag="HTML" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -45,6 +45,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 ```cs
 Aspose::Cells::Startup();
+//TIFF format is not supported
 
 // Create an object of the Workbook class.
 Workbook wkb;
@@ -110,7 +111,7 @@ Aspose::Cells::Cleanup();
 
 <!-- aboutfile Starts -->
     {{< blocks/products/pf/agp/about-file-section >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="HTML" readMoreLink="https://docs.fileformat.com/web/html/" >}}HTML（超文本標記語言）是為在瀏覽器中顯示而建立的網頁的擴充。 HTML 被稱為網路語言，隨著新資訊要求作為網頁的一部分顯示的要求而發展。最新的變體被稱為 HTML 5，它為使用該語言提供了巨大的靈活性。 HTML 頁面要麼從託管這些頁面的伺服器接收，要麼也可以從本機系統載入。每個 HTML 頁面由 HTML 元素組成，例如表單、文字、圖像、動畫、連結等。這些元素由標籤和其他幾個元素表示，其中每個標籤都有開始和結束。它還可以嵌入用 JavaScript 和樣式表 (CSS) 等腳本語言編寫的應用程序，以實現整體佈局表示。{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="HTML" readMoreLink="https://docs.fileformat.com/web/html/" >}}HTML（超文本標記語言）是為在瀏覽器中顯示而建立的網頁的擴充。 HTML 被稱為網路語言，隨著新資訊要求作為網頁的一部分顯示的要求而發展。最新的變體被稱為 HTML 5，它為使用該語言提供了巨大的靈活性。 HTML 頁面要麼從託管這些頁面的伺服器接收，要麼也可以從本機系統載入。每個 HTML 頁面由 HTML 元素組成，例如表單、文字、圖像、動畫、連結等。它還可以嵌入用 JavaScript 和樣式表 (CSS) 等腳本語言編寫的應用程序，以實現整體佈局表示。{{< /blocks/products/pf/agp/i18n/about-file-text >}}
     {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->
 

@@ -1,7 +1,7 @@
 ---
 title: Python CSV ila ODS - CSV ila ODS Dönüştürücü
-description: Aspose Excel'de. Python Excel'de. Aspose.Cells ile hızlı ve kolay bir şekilde CSV'i ODS'e dönüştürün. Python CSV'i ODS'e dönüştürün. Python CSV'i ODS'e kaydedin. CSV'i 076112 olarak kaydedin Python Excel Kitaplığı'nı kullanarak 3481.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert CSV to ODS in Python Excel Library., Save CSV to ODS using Python Excel Library., Python CSV to ODS saveformat., CSV to ODS Converter., Python Save CSV as ODS]
+description: Aspose Excel. Bu kapsamlı çözüm, Python geliştiricilerine CSV'i ODS formatına dönüştürmek için tamamen entegre bir yaklaşım sunarak, CSV verilerinin ODS formatına Aspose.Cells kütüphanesi kullanılarak sorunsuz bir şekilde kaydedilmesini sağlar; tüm bunlar verimli ve özelleştirilebilir Python kod aracılığıyla gerçekleştirilir.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart CSV files to ODS Converter for Python., Convert CSV to ODS in Python., CSV files to ODS Conversion in Python., Leverage intelligent data processing to automatically parse and save CSV into ODS format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="CSV\'i Python Excel Kitaplığı\'nda ODS\'e dönüştürün" h2="CSV\'i ODS\'e dönüştürmek için yüksek hızlı Python excel kitaplığı. Bu, CSV, ODS ve Python\'i kullanarak diğer birçok formatı içe ve dışa aktarmak için profesyonel bir yazılım çözümüdür." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="ODS" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -27,7 +27,7 @@ CSV'i ODS'e dönüştürmek için kolay adımları izleyin. CSV dosyanızı yük
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="CSV\'i Python Excel Kitaplığı aracılığıyla ODS\'e Dönüştürmek için Örnek Kod" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="csv" outformat="ods" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="CSV\'i Python Excel Kitaplığı aracılığıyla ODS\'e Dönüştürmek için Örnek Kod" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="csv" outformat="ods" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="CSV\'i Python aracılığıyla ODS\'e dönüştürme" %}}
 

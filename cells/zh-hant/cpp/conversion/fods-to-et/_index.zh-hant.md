@@ -1,7 +1,7 @@
 ---
 title: C++ FODS 轉 ET - FODS 轉 ET 轉換器
-description: Aspose Excel。使用 Aspose.Cells 快速輕鬆地將 FODS 轉換為 ET。C++ FODS 轉換為 ET。 C++ 將 FODS 儲存到 ET。使用 C++ 將 FODS 儲存為 ET。
-keywords: [Aspose Excel., C++ Aspose.Cells., Convert FODS to ET in C++., Save FODS to ET using C++., C++ FODS to ET saveformat., FODS to ET Converter., C++ Save FODS as ET]
+description: Aspose Excel。此綜合解決方案為 C++ 開發人員提供了一種完全整合的方法，可將 FODS 轉換為 ET 格式，從而能夠使用 Aspose.Cells 庫將 FODS 資料無縫保存為 ET 格式，所有這些都通過高效的 FODS 資料無縫保存為 ET 格式，所有這些都通過高效可自訂的 08153481 實現代碼。
+keywords: [Aspose Excel., C++ Aspose.Cells., Smart FODS files to ET Converter for C++., Convert FODS to ET in C++., FODS files to ET Conversion in C++., Leverage intelligent data processing to automatically parse and save FODS into ET format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="將 FODS 轉換為 C++ 中的 ET" h2="使用 C++ 庫進行高效能 FODS 到 ET 轉換，無需安裝 Microsoft Excel、OpenOffice 或 Adobe Acrobat。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" sourceAdditionalConversionTag="" additionalConversionTag="ET" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -26,7 +26,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="將 FODS 儲存到 C++ 中的 ET" %}}
+{{% blocks/products/pf/agp/content h2="將 FODS 儲存到 C++ 的 ET 中" %}}
 
 以下範例示範如何將 FODS 轉換為 C++ 中的 ET。
 {{% blocks/products/pf/agp/text %}}
@@ -37,25 +37,25 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="將 FODS 轉換為 ET 的範例程式碼" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="fods" outformat="et" IsLandingPage="true" language="cpp" %}}
+{{% cells-convert title="將 FODS 轉換為 ET 的範例程式碼" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="fods" outformat="et" IsLandingPage="true" language="cpp" %}}
 
 {{% blocks/products/pf/agp/content h2="如何透過 C++ 將 FODS 轉換為 ET" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
-需要以程式方式將 FODS 檔案轉換為 ET？ C++ 開發人員只需幾行程式碼即可輕鬆將 FODS 轉換為 ET。
+需要以程式設計方式將 FODS 檔案轉換為 ET 格式嗎？ C++ 開發人員只需幾行程式碼即可輕鬆將 FODS 轉換為 ET 格式。
 
 {{% /blocks/products/pf/agp/text %}}
 
 1. 安裝“Aspose.Cells for C++”。
 1. 將庫引用（導入庫）新增至您的 C++ 專案中。
 1. 使用工作簿載入 FODS 檔案。
-1. 透過呼叫 Save() 方法將 FODS 轉換為 ET。
+1. 呼叫 Save() 方法將 FODS 轉換為 ET。
 1. 取得FODS到ET的轉換結果。
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="C++庫將FODS轉換為ET" %}}
+{{% blocks/products/pf/agp/content h2="C++ 庫用於將 FODS 轉換為 ET" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
@@ -73,7 +73,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% blocks/products/pf/agp/text %}}
 
-在執行 C++ 轉換範例程式碼之前，請確保您符合以下先決條件。
+在執行 C++ 轉換範例程式碼之前，請確保您具備以下先決條件。
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -84,7 +84,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 <!-- aboutfile Starts -->
     {{< blocks/products/pf/agp/about-file-section >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="FODS" readMoreLink="https://docs.fileformat.com/spreadsheet/fods/" >}}擴展名為 .fods 的文件是一種 OpenDocument 電子表格文件格式，以行和列儲存資料。此格式被指定為 OASIS 發布和維護的 ODF 1.2 規範的一部分。 FODS 檔案無法使用 Excel（Microsoft 的另一個電子表格軟體應用程式）開啟。FODS 檔案可以使用 LibreOffice 將其另存為 ODS，並且可以轉換為其他格式，例如 XLS 和 07615340761。{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="FODS" readMoreLink="https://docs.fileformat.com/spreadsheet/fods/" >}}擴展名為 .fods 的文件是一種 OpenDocument 電子表格文件格式，以行和列儲存資料。此格式被指定為 OASIS 發布和維護的 ODF 1.2 規範的一部分。 FODS 檔案無法使用 Excel（Microsoft 的另一個電子表格軟體應用程式）開啟。{{< /blocks/products/pf/agp/i18n/about-file-text >}}
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="ET" readMoreLink="https://fileinfo.com/extension/et/" >}}ET 文件是由 Easiteach 創建的教學課程，該課程允許教師開發課堂課程並透過互動式介面進行授課。它包含課程數據，例如佈局、導航、圖像、文字、主題和動畫。{{< /blocks/products/pf/agp/i18n/about-file-text >}}
     {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->
@@ -101,6 +101,7 @@ PM> Install-Package Aspose.Cells.Cpp
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/fods-to-pdf/" name="FODS 至 PDF" description="便攜式文件格式" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/fods-to-png/" name="FODS 至 PNG" description="手提網路圖形" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/fods-to-svg/" name="FODS 至 SVG" description="可縮放向量圖形" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/fods-to-tiff/" name="FODS 至 TIFF" description="標記影像格式" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/fods-to-tsv/" name="FODS 至 TSV" description="製表符分隔值" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/fods-to-txt/" name="FODS 至 TXT" description="文字文檔" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/fods-to-xls/" name="FODS 至 XLS" description="Excel 二進位格式" >}}

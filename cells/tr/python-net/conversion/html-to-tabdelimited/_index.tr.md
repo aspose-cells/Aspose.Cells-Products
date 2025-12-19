@@ -1,7 +1,7 @@
 ---
 title: Python HTML - TABDELIMITED - HTML - TABDELIMITED Dönüştürücü
-description: Aspose Excel'de. Python Excel'de. Aspose.Cells ile HTML'i hızlı ve kolay bir şekilde TABDELIMITED'e dönüştürün. Python HTML'i TABDELIMITED'e dönüştürün. Python HTML'i TABDELIMITED'e kaydedin. Python Excel Kütüphanesini kullanarak HTML'i TABDELIMITED olarak kaydedin.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert HTML to TABDELIMITED in Python Excel Library., Save HTML to TABDELIMITED using Python Excel Library., Python HTML to TABDELIMITED saveformat., HTML to TABDELIMITED Converter., Python Save HTML as TABDELIMITED]
+description: Aspose Excel. Bu kapsamlı çözüm, Python geliştiricilerine HTML'i TABDELIMITED formatına dönüştürmek için tamamen entegre bir yaklaşım sunarak, Aspose.Cells kütüphanesini kullanarak HTML verilerinin TABDELIMITED formatına sorunsuz bir şekilde kaydedilmesini sağlar; tüm bunlar verimli ve özelleştirilebilir Python kod aracılığıyla gerçekleştirilir.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart HTML files to TABDELIMITED Converter for Python., Convert HTML to TABDELIMITED in Python., HTML files to TABDELIMITED Conversion in Python., Leverage intelligent data processing to automatically parse and save HTML into TABDELIMITED format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="HTML\'i Python Excel Kütüphanesinde TABDELIMITED\'e dönüştürün" h2="HTML\'i TABDELIMITED\'e dönüştürmek için yüksek hızlı Python excel kitaplığı. Python\'de üst düzey, platformdan bağımsız yazılım geliştirmek için API excel dönüşümümüzü kullanın." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="TABDELIMITED" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -28,7 +28,7 @@ HTML'i TABDELIMITED'e dönüştürmek için kolay adımları izleyin. HTML dosya
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="HTML\'i Python Excel Kütüphanesi aracılığıyla TABDELIMITED\'e Dönüştürmek için Örnek Kod" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="html" outformat="tsv" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="HTML\'i Python Excel Kütüphanesi aracılığıyla TABDELIMITED\'e Dönüştürmek için Örnek Kod" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="html" outformat="tsv" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="HTML\'i TABDELIMITED\'e Dönüştürme" %}}
 

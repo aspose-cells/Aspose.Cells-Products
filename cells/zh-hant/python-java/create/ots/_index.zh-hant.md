@@ -1,7 +1,7 @@
 ---
 title: 建立OTS - 在Python中建立OTS文件
-description: Aspose Excel。 Python Excel。 Python 使用 Aspose.Cells 快速輕鬆地建立 OTS 檔案。在 Python Excel 庫中建立 OTS。 Python OTS 創建者。
-keywords: [Aspose Python Excel., Python Aspose.Cells., Python Create OTS file., Generate OTS file in Python Excel Library., Create OTS file using Python Excel Library., Write data to OTS file via Python Excel Library., Create a OTS file in Python Excel Library., Python Generate a OTS file., Python OTS Creater]
+description: Aspose Excel。使用 Aspose.Cells for Python via Java 函式庫，輕鬆產生和操作 OTS 檔案。這款功能強大的 API 庫提供了一種精簡高效的解決方案，可直接在您的 Python 應用程式中建立、編輯和管理 OTS 文件，從而高精度地滿足開發人員的特定需求。
+keywords: [Aspose Excel., Python Aspose.Cells., Python Create OTS file., Generate OTS file in Python., Write data to OTS file via Python., Python OTS Creater., Aspose.Cells for Python via Java is a powerful library that enables developers to programmatically create, generate, and manipulate OTS files in Python]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="在 Python Excel 庫中建立 OTS 文件" h2="用於建立 OTS 檔案的高速 Python Excel 庫。這是一個專業的軟體解決方案，用於匯入和匯出XLSX、PDF以及使用Python的許多其他格式。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="OTS" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}

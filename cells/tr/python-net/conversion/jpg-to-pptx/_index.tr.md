@@ -1,7 +1,7 @@
 ---
 title: Python JPG'den PPTX'e - JPG'den PPTX'e dönüştürücü
-description: Aspose Excel'de. Python Excel'de. Aspose.Cells ile JPG'yi hızlı ve kolay bir şekilde PPTX'e dönüştürün. Python JPG'yi PPTX'e dönüştürün. Python JPG'yi PPTX'e kaydedin. Python Excel Kütüphanesini kullanarak JPG'yi PPTX olarak kaydedin.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert JPG to PPTX in Python Excel Library., Save JPG to PPTX using Python Excel Library., Python JPG to PPTX saveformat., JPG to PPTX Converter., Python Save JPG as PPTX]
+description: Aspose Excel. Bu kapsamlı çözüm, Python geliştiricilere JPG'yi PPTX formatına dönüştürmek için tamamen entegre bir yaklaşım sunarak, Aspose.Cells kütüphanesini kullanarak JPG verilerinin PPTX formatına sorunsuz bir şekilde kaydedilmesini sağlar; tüm bunlar verimli ve özelleştirilebilir Python kod aracılığıyla gerçekleştirilir.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart JPG files to PPTX Converter for Python., Convert JPG to PPTX in Python., JPG files to PPTX Conversion in Python., Leverage intelligent data processing to automatically parse and save JPG into PPTX format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Python Excel Kütüphanesinde JPG\'yi PPTX\'e dönüştürün" h2="JPG\'yi PPTX\'e dönüştürmek için yüksek hızlı Python excel kütüphanesi. Python\'de yüksek seviyeli, platformdan bağımsız yazılım geliştirmek için API excel dönüşümümüzü kullanın." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="PPTX" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -28,7 +28,7 @@ JPG'yi PPTX'e dönüştürmek için kolay adımları izleyin. JPG dosyanızı y�
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="JPG\'yi Python Excel Kitaplığı aracılığıyla PPTX\'e Dönüştürmek için Örnek Kod" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="jpg" outformat="pptx" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="JPG\'yi Python Excel Kitaplığı aracılığıyla PPTX\'e Dönüştürmek için Örnek Kod" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="jpg" outformat="pptx" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="JPG\'yi PPTX\'e Dönüştürme" %}}
 

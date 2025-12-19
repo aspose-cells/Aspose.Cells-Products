@@ -1,7 +1,7 @@
 ---
 title: Python XLT'den EXCEL'e - XLT'den EXCEL'e Dönüştürücü
-description: Aspose Excel'de. Python Excel'de. Aspose.Cells ile XLT'i hızlı ve kolay bir şekilde EXCEL'e dönüştürün. Python XLT'i EXCEL'e dönüştürün. Python XLT'i EXCEL'e kaydedin. Python Excel Kütüphanesini kullanarak XLT'i EXCEL olarak kaydedin.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert XLT to EXCEL in Python Excel Library., Save XLT to EXCEL using Python Excel Library., Python XLT to EXCEL saveformat., XLT to EXCEL Converter., Python Save XLT as EXCEL]
+description: Aspose Excel. Bu kapsamlı çözüm, Python geliştiricilerine XLT'i EXCEL formatına dönüştürmek için tamamen entegre bir yaklaşım sunarak, Aspose.Cells kütüphanesini kullanarak XLT verilerinin EXCEL formatına sorunsuz bir şekilde kaydedilmesini sağlar; tüm bunlar verimli ve özelleştirilebilir Python kod aracılığıyla gerçekleştirilir.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart XLT files to EXCEL Converter for Python., Convert XLT to EXCEL in Python., XLT files to EXCEL Conversion in Python., Leverage intelligent data processing to automatically parse and save XLT into EXCEL format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="XLT\'i Python Excel Kitaplığı\'nda EXCEL\'e dönüştürün" h2="XLT\'i EXCEL\'e dönüştürmek için yüksek hızlı Python excel kitaplığı. Python\'de üst düzey, platformdan bağımsız yazılım geliştirmek için API excel dönüşümümüzü kullanın." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="EXCEL" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -28,7 +28,7 @@ XLT'i EXCEL'e dönüştürmek için kolay adımları izleyin. XLT dosyanızı y�
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="XLT\'i Python Excel Kitaplığı aracılığıyla EXCEL\'e Dönüştürmek için Örnek Kod" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlt" outformat="xlsx" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="XLT\'i Python Excel Kitaplığı aracılığıyla EXCEL\'e Dönüştürmek için Örnek Kod" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="xlt" outformat="xlsx" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="XLT\'i EXCEL\'e Dönüştürme" %}}
 

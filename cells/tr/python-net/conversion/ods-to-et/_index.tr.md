@@ -1,7 +1,7 @@
 ---
 title: Python ODS'den ET'ye - ODS'den ET'ye Dönüştürücü
-description: Aspose Excel'de. Python Excel'de. Aspose.Cells ile ODS'i hızlı ve kolay bir şekilde ET'ye dönüştürün. Python ODS'i ET'ye dönüştürün. Python ODS'i ET'ye kaydedin. Python Excel Kitaplığını kullanarak ODS'i ET olarak kaydedin.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert ODS to ET in Python Excel Library., Save ODS to ET using Python Excel Library., Python ODS to ET saveformat., ODS to ET Converter., Python Save ODS as ET]
+description: Aspose Excel. Bu kapsamlı çözüm, Python geliştiricilerine ODS'i ET formatına dönüştürmek için tamamen entegre bir yaklaşım sunarak, Aspose.Cells kütüphanesini kullanarak ODS verilerinin ET formatına sorunsuz bir şekilde kaydedilmesini sağlar; tüm bunlar verimli ve özelleştirilebilir Python kod aracılığıyla gerçekleştirilir.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart ODS files to ET Converter for Python., Convert ODS to ET in Python., ODS files to ET Conversion in Python., Leverage intelligent data processing to automatically parse and save ODS into ET format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="ODS\'i Python Excel Kitaplığı\'nda ET\'ye dönüştürün" h2="ODS\'i ET\'ye dönüştürmek için yüksek hızlı Python excel kütüphanesi. Python\'de üst düzey, platformdan bağımsız yazılım geliştirmek için API excel dönüşümümüzü kullanın." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="ET" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -28,7 +28,7 @@ ODS'i ET'ye dönüştürmek için kolay adımları izleyin. ODS dosyanızı yük
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="ODS\'i Python Excel Kitaplığı aracılığıyla ET\'ye Dönüştürmek için Örnek Kod" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="ods" outformat="et" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="ODS\'i Python Excel Kitaplığı aracılığıyla ET\'ye Dönüştürmek için Örnek Kod" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="ods" outformat="et" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="ODS\'i ET\'ye Dönüştürme" %}}
 

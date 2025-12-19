@@ -1,7 +1,7 @@
 ---
 title: Python SXC ila XLS - SXC ila XLS Dönüştürücü
-description: Aspose Excel'de. Python Excel'de. Aspose.Cells ile hızlı ve kolay bir şekilde SXC'i XLS'e dönüştürün. Python SXC'i XLS'e dönüştürün. Python SXC'i XLS'e kaydedin. SXC'i 076112 olarak kaydedin Python Excel Kitaplığı'nı kullanarak 3481.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert SXC to XLS in Python Excel Library., Save SXC to XLS using Python Excel Library., Python SXC to XLS saveformat., SXC to XLS Converter., Python Save SXC as XLS]
+description: Aspose Excel. Bu kapsamlı çözüm, Python geliştiricilerine SXC'i XLS formatına dönüştürmek için tamamen entegre bir yaklaşım sunarak, SXC verilerinin XLS formatına Aspose.Cells kütüphanesi kullanılarak sorunsuz bir şekilde kaydedilmesini sağlar; tüm bunlar verimli ve özelleştirilebilir Python kod aracılığıyla gerçekleştirilir.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart SXC files to XLS Converter for Python., Convert SXC to XLS in Python., SXC files to XLS Conversion in Python., Leverage intelligent data processing to automatically parse and save SXC into XLS format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="SXC\'i Python Excel Kitaplığı\'nda XLS\'e dönüştürün" h2="SXC\'i XLS\'e dönüştürmek için yüksek hızlı Python excel kitaplığı. Bu, SXC, XLS ve Python\'i kullanarak diğer birçok formatı içe ve dışa aktarmak için profesyonel bir yazılım çözümüdür." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLS" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -27,7 +27,7 @@ SXC'i XLS'e dönüştürmek için kolay adımları izleyin. SXC dosyanızı yük
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="SXC\'i Python Excel Kitaplığı aracılığıyla XLS\'e Dönüştürmek için Örnek Kod" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="sxc" outformat="xls" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="SXC\'i Python Excel Kitaplığı aracılığıyla XLS\'e Dönüştürmek için Örnek Kod" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="sxc" outformat="xls" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="SXC\'i Python aracılığıyla XLS\'e dönüştürme" %}}
 

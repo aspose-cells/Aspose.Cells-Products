@@ -1,7 +1,7 @@
 ---
 title: Python XLTM 轉 OTS - XLTM 轉 OTS 轉換器
-description: Aspose Excel。 Python Excel。使用 Aspose.Cells 快速輕鬆地將 XLTM 轉換為 OTS。 Python 將 XLTM 儲存到 OTS。使用 Python Excel 函式庫將 XLTM 另存為 OTS。
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert XLTM to OTS in Python Excel Library., Save XLTM to OTS using Python Excel Library., Python XLTM to OTS saveformat., XLTM to OTS Converter., Python Save XLTM as OTS]
+description: Aspose Excel。此綜合解決方案為 Python 開發人員提供了一種完全整合的方法，可將 XLTM 轉換為 OTS 格式，從而能夠使用 Aspose.Cells 庫將 XLTM 資料無縫保存為 OTS 格式，所有這些都透過高效能自訂的 08153481 實現程式碼。
+keywords: [Aspose Excel., Python Aspose.Cells., Smart XLTM files to OTS Converter for Python., Convert XLTM to OTS in Python., XLTM files to OTS Conversion in Python., Leverage intelligent data processing to automatically parse and save XLTM into OTS format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="在 Python Excel 庫中將 XLTM 轉換為 OTS" h2="用於將 XLTM 轉換為 OTS 的高速 Python Excel 函式庫。這是一個專業的軟體解決方案，可以使用Python導入和匯出XLTM、OTS和許多其他格式。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="OTS" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -27,7 +27,7 @@ keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert X
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="透過 Python Excel 庫將 XLTM 轉換為 OTS 的範例程式碼" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xltm" outformat="ots" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="透過 Python Excel 庫將 XLTM 轉換為 OTS 的範例程式碼" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="xltm" outformat="ots" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="如何透過 Python 將 XLTM 轉換為 OTS" %}}
 

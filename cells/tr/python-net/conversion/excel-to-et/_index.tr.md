@@ -1,7 +1,7 @@
 ---
 title: Python EXCEL'den ET'ye - EXCEL'den ET'ye dönüştürücü
-description: Aspose Excel'de. Python Excel'de. Aspose.Cells ile EXCEL'i hızlı ve kolay bir şekilde ET'ye dönüştürün. Python EXCEL'i ET'ye dönüştürün. Python EXCEL'i ET'ye kaydedin. Python Excel Kütüphanesini kullanarak EXCEL'i ET olarak kaydedin.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert EXCEL to ET in Python Excel Library., Save EXCEL to ET using Python Excel Library., Python EXCEL to ET saveformat., EXCEL to ET Converter., Python Save EXCEL as ET]
+description: Aspose Excel. Bu kapsamlı çözüm, Python geliştiricilere EXCEL'i ET formatına dönüştürmek için tamamen entegre bir yaklaşım sunarak, Aspose.Cells kütüphanesini kullanarak EXCEL verilerinin ET formatına sorunsuz bir şekilde kaydedilmesini sağlar; tüm bunlar verimli ve özelleştirilebilir Python kod aracılığıyla gerçekleştirilir.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart EXCEL files to ET Converter for Python., Convert EXCEL to ET in Python., EXCEL files to ET Conversion in Python., Leverage intelligent data processing to automatically parse and save EXCEL into ET format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Python Excel Kitaplığı\'nda EXCEL\'i ET\'ye dönüştürün" h2="EXCEL\'i ET\'ye dönüştürmek için yüksek hızlı Python excel kitaplığı. Python\'de üst düzey, platformdan bağımsız yazılım geliştirmek için API excel dönüşümümüzü kullanın." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="ET" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -28,7 +28,7 @@ EXCEL'i ET'ye dönüştürmek için kolay adımları izleyin. EXCEL dosyanızı 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Python Excel Kitaplığı aracılığıyla EXCEL\'i ET\'ye Dönüştürmek için Örnek Kod" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsx" outformat="et" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Python Excel Kitaplığı aracılığıyla EXCEL\'i ET\'ye Dönüştürmek için Örnek Kod" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="xlsx" outformat="et" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="EXCEL\'i ET\'ye dönüştürme" %}}
 

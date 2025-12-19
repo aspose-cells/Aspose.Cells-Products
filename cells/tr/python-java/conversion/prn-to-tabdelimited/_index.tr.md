@@ -1,7 +1,7 @@
 ---
 title: Python PRN'den TABDELIMITED'e - PRN'den TABDELIMITED'e dönüştürücü
-description: Aspose Excel'de. Python Excel'de. Aspose.Cells ile PRN'yi hızlı ve kolay bir şekilde TABDELIMITED'e dönüştürün. Python PRN'yi TABDELIMITED'e dönüştürün. Python PRN'yi TABDELIMITED'e kaydedin. Python Excel Kütüphanesini kullanarak PRN'yi TABDELIMITED olarak kaydedin.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert PRN to TABDELIMITED in Python Excel Library., Save PRN to TABDELIMITED using Python Excel Library., Python PRN to TABDELIMITED saveformat., PRN to TABDELIMITED Converter., Python Save PRN as TABDELIMITED]
+description: Aspose Excel. Bu kapsamlı çözüm, Python geliştiricilere PRN'yi TABDELIMITED formatına dönüştürmek için tamamen entegre bir yaklaşım sunarak, Aspose.Cells kütüphanesini kullanarak PRN verilerinin TABDELIMITED formatına sorunsuz bir şekilde kaydedilmesini sağlar; tüm bunlar verimli ve özelleştirilebilir Python kod aracılığıyla gerçekleştirilir.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart PRN files to TABDELIMITED Converter for Python., Convert PRN to TABDELIMITED in Python., PRN files to TABDELIMITED Conversion in Python., Leverage intelligent data processing to automatically parse and save PRN into TABDELIMITED format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Python Excel Kitaplığı\'nda PRN\'yi TABDELIMITED\'e dönüştürün" h2="PRN\'yi TABDELIMITED\'e dönüştürmek için yüksek hızlı Python excel kütüphanesi. Bu, Python\'i kullanarak PRN, TABDELIMITED ve diğer birçok formatı içe ve dışa aktarmak için profesyonel bir yazılım çözümüdür." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="TABDELIMITED" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -27,7 +27,7 @@ PRN'yi TABDELIMITED'e dönüştürmek için kolay adımları izleyin. PRN dosyan
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Python Excel Kitaplığı aracılığıyla PRN\'yi TABDELIMITED\'e Dönüştürmek için Örnek Kod" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="prn" outformat="tsv" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="Python Excel Kitaplığı aracılığıyla PRN\'yi TABDELIMITED\'e Dönüştürmek için Örnek Kod" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="prn" outformat="tsv" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="PRN\'yi Python aracılığıyla TABDELIMITED\'e dönüştürme" %}}
 

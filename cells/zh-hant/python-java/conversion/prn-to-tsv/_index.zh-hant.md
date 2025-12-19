@@ -1,7 +1,7 @@
 ---
 title: Python PRN 至 TSV - PRN 至 TSV 轉換器
-description: Aspose Excel。 Python Excel。使用 Aspose.Cells 快速輕鬆地將 PRN 轉換為 TSV。 Python PRN 為 TSV。Python 將 PRN 儲存為 TSV。
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert PRN to TSV in Python Excel Library., Save PRN to TSV using Python Excel Library., Python PRN to TSV saveformat., PRN to TSV Converter., Python Save PRN as TSV]
+description: Aspose Excel。此綜合解決方案為 Python 開發人員提供了一種完全整合的方法，可將 PRN 轉換為 TSV 格式，從而能夠使用 Aspose.Cells 庫將 PRN 資料無縫保存為 TSV 格式，所有這些都透過高效能自訂的 08153481 程式碼。
+keywords: [Aspose Excel., Python Aspose.Cells., Smart PRN files to TSV Converter for Python., Convert PRN to TSV in Python., PRN files to TSV Conversion in Python., Leverage intelligent data processing to automatically parse and save PRN into TSV format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="將 Python Excel 庫中的 PRN 轉換為 TSV" h2="用於將 PRN 轉換為 TSV 的高速 Python excel 庫。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="TSV" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -27,7 +27,7 @@ keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert P
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="透過 Python Excel 庫將 PRN 轉換為 TSV 的範例程式碼" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="prn" outformat="tsv" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="透過 Python Excel 庫將 PRN 轉換為 TSV 的範例程式碼" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="prn" outformat="tsv" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="如何透過 Python 將 PRN 轉換為 TSV" %}}
 

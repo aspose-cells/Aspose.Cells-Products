@@ -1,7 +1,7 @@
 ---
 title: Python XLSB 轉 EXCEL - XLSB 轉 EXCEL 轉換器
-description: Aspose Excel。 Python Excel。使用 Aspose.Cells 快速輕鬆地將 XLSB 轉換為 EXCEL。 Python 將 XLSB 儲存到 EXCEL。使用 Python Excel 函式庫將 XLSB 另存為 EXCEL。
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert XLSB to EXCEL in Python Excel Library., Save XLSB to EXCEL using Python Excel Library., Python XLSB to EXCEL saveformat., XLSB to EXCEL Converter., Python Save XLSB as EXCEL]
+description: Aspose Excel。此綜合解決方案為 Python 開發人員提供了一種完全整合的方法，可將 XLSB 轉換為 EXCEL 格式，從而能夠使用 Aspose.Cells 庫將 XLSB 資料無縫保存為 EXCEL 格式，所有這些程式庫將 XLSB 資料無縫保存為 EXCEL 格式，所有這些程式碼都透過高效且可自訂153 153 153 153 153。
+keywords: [Aspose Excel., Python Aspose.Cells., Smart XLSB files to EXCEL Converter for Python., Convert XLSB to EXCEL in Python., XLSB files to EXCEL Conversion in Python., Leverage intelligent data processing to automatically parse and save XLSB into EXCEL format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="將 Python Excel 庫中的 XLSB 轉換為 EXCEL" h2="高速 Python Excel 庫，用於將 XLSB 轉換為 EXCEL。使用我們的 Excel 轉換 API 在 Python 中開發高階、平台無關的軟體。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="EXCEL" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -28,7 +28,7 @@ keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert X
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="透過 Python Excel 庫將 XLSB 轉換為 EXCEL 的範例程式碼" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsb" outformat="xlsx" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="透過 Python Excel 庫將 XLSB 轉換為 EXCEL 的範例程式碼" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="xlsb" outformat="xlsx" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="如何將 XLSB 轉換為 EXCEL" %}}
 

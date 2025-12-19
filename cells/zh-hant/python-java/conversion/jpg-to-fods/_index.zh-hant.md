@@ -1,7 +1,7 @@
 ---
 title: Python JPG 到 FODS - JPG 到 FODS 轉換器
-description: Aspose Excel。 Python Excel。使用 Aspose.Cells 快速輕鬆地將 JPG 轉換為 FODS。Python JPG 到 FODS。Python 將 JPG 儲存到 FODS。Python 將 JPG 儲存到 FODS。Python 將 JPG 儲存到 FODS。Python 將 JPG 儲存到 FODS。
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert JPG to FODS in Python Excel Library., Save JPG to FODS using Python Excel Library., Python JPG to FODS saveformat., JPG to FODS Converter., Python Save JPG as FODS]
+description: Aspose Excel。此綜合解決方案為 Python 開發人員提供了一種完全整合的方法，可將 JPG 轉換為 FODS 格式，從而能夠使用 Aspose.Cells 庫將 JPG 資料無縫保存為 FODS 格式，所有這些都透過高效能客製化的 08153481 程式碼。
+keywords: [Aspose Excel., Python Aspose.Cells., Smart JPG files to FODS Converter for Python., Convert JPG to FODS in Python., JPG files to FODS Conversion in Python., Leverage intelligent data processing to automatically parse and save JPG into FODS format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="將 Python Excel 庫中的 JPG 轉換為 FODS" h2="高速Python excel庫，用於將JPG轉換為FODS。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="FODS" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -27,7 +27,7 @@ keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert J
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="透過 Python Excel 庫將 JPG 轉換為 FODS 的範例程式碼" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="jpg" outformat="fods" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="透過 Python Excel 庫將 JPG 轉換為 FODS 的範例程式碼" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="jpg" outformat="fods" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="如何透過 Python 將 JPG 轉換為 FODS" %}}
 

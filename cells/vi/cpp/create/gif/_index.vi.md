@@ -1,7 +1,7 @@
 ---
 title: Tạo GIF - Tạo file GIF trong C++
-description: Aspose Excel. C++ Tạo file GIF nhanh chóng và dễ dàng với Aspose.Cells. Tạo file GIF bằng C++. Tạo GIF trong C++. C++ GIF Creator.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ Create GIF file., Generate GIF file in C++., Create GIF file using C++., Write data to GIF file via C++., Create a GIF file in C++., C++ Generate a GIF file., C++ GIF Creater]
+description: Aspose Excel. Dễ dàng tạo và thao tác các tệp GIF với thư viện Aspose.Cells for C++. Công cụ API mạnh mẽ này cung cấp một giải pháp hợp lý và hiệu quả để tạo, chỉnh sửa và quản lý các tệp GIF trực tiếp trong các ứng dụng C++ của bạn, đáp ứng các nhu cầu cụ thể của nhà phát triển với độ chính xác cao.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ Create GIF file., Generate GIF file in C++., Write data to GIF file via C++., C++ GIF Creater., Aspose.Cells for C++ is a powerful library that enables developers to programmatically create, generate, and manipulate GIF files in C++]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Tạo file GIF trong C++" h2="Tạo tệp GIF gốc và hiệu suất cao theo chương trình mà không cần Micorsoft Office sử dụng thư viện C++." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" sourceAdditionalConversionTag="" additionalConversionTag="GIF" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -11,7 +11,7 @@ keywords: [Aspose Excel., C++ Aspose.Cells., C++ Create GIF file., Generate GIF 
 
 {{% blocks/products/pf/agp/content h2="Tạo tệp GIF bằng C++" %}}
 
- Làm cách nào để tạo tệp GIF? Với thư viện Aspose.Cells for C++, bạn có thể dễ dàng Tạo tệp GIF theo chương trình với một vài dòng mã.[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) có khả năng xây dựng các ứng dụng đa nền tảng với khả năng tạo, sửa đổi, chuyển đổi, hiển thị và in tất cả các tệp Excel. C++ Excel API không chỉ chuyển đổi giữa các định dạng bảng tính mà còn có thể hiển thị các tệp Excel dưới dạng hình ảnh, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT và hơn thế nữa, do đó biến nó thành một lựa chọn hoàn hảo để trao đổi tài liệu ở các định dạng tiêu chuẩn ngành. Bạn có thể tải trực tiếp phiên bản mới nhất của nó, chỉ cần mở[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) quản lý gói, tìm kiếm Aspose.Cells.Cpp và cài đặt. Bạn cũng có thể sử dụng lệnh sau từ Bảng điều khiển quản lý gói.
+ Làm cách nào để tạo tệp GIF? Với thư viện Aspose.Cells for C++, bạn có thể dễ dàng Tạo tệp GIF theo chương trình với một vài dòng mã.[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) có khả năng xây dựng các ứng dụng đa nền tảng với khả năng tạo, sửa đổi, chuyển đổi, kết xuất và in tất cả các tệp Excel. C++ Excel API không chỉ chuyển đổi giữa các định dạng bảng tính mà còn có thể hiển thị các tệp Excel dưới dạng hình ảnh, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT và hơn thế nữa, do đó biến nó thành một lựa chọn hoàn hảo để trao đổi tài liệu ở các định dạng tiêu chuẩn ngành. Bạn có thể tải trực tiếp phiên bản mới nhất của nó, chỉ cần mở[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/)quản lý gói, tìm kiếm Aspose.Cells.Cpp và cài đặt. Bạn cũng có thể sử dụng lệnh sau từ Bảng điều khiển quản lý gói.
 
 {{% blocks/products/pf/agp/code-block title="Yêu cầu" offSpacer="true" %}}
 
@@ -37,14 +37,15 @@ PM> Install-Package Aspose.Cells.Cpp
 1.  Tạo một đối tượng của lớp Workbook.
 1.  Đưa trang tính đầu tiên vào đối tượng Worksheet.
 1.  Sử dụng phương thức Worksheet.GetCells() để đưa các ô của bảng tính vào đối tượng Cells.
-1. Sử dụng phương thức Cells.Get() để truy cập ô mong muốn của bảng tính vào đối tượng Cell.
+1.  Sử dụng phương thức Cells.Get() để truy cập ô mong muốn của bảng tính vào đối tượng Cell.
 1.  Sử dụng phương thức Cell.PutValue() để nhập giá trị vào ô.
-1.  Lưu sổ làm việc dưới dạng tệp .gif bằng phương thức Save().
+1.  Lưu tập tin bảng tính dưới dạng tệp .gif bằng phương thức Save().
 
 {{% blocks/products/pf/agp/code-block title="Mã mẫu hiển thị cách tạo tệp GIF trong C++." offSpacer="" %}}
 
 ```cs
 Aspose::Cells::Startup();
+//TIFF format is not supported
 
 // Create an object of the Workbook class.
 Workbook wkb;
@@ -110,7 +111,7 @@ Có ba tùy chọn để cài đặt "Aspose.Cells for C++" vào hệ thống c�
 
 <!-- aboutfile Starts -->
     {{< blocks/products/pf/agp/about-file-section >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="GIF" readMoreLink="https://docs.fileformat.com/image/gif/" >}}GIF hoặc Định dạng trao đổi đồ họa là một loại hình ảnh được nén ở mức độ cao. Thuộc sở hữu của Unisys, GIF sử dụng thuật toán nén LZW không làm giảm chất lượng hình ảnh. Đối với mỗi hình ảnh, GIF thường cho phép tối đa 8 bit trên mỗi pixel và cho phép tối đa 256 màu trên hình ảnh. Ngược lại với hình ảnh JPEG có thể hiển thị tới 16 triệu màu và chạm khá tới giới hạn của mắt người. Quay lại thời điểm Internet xuất hiện, GIF vẫn là lựa chọn tốt nhất vì chúng yêu cầu băng thông thấp và tương thích với đồ họa sử dụng các vùng màu đồng nhất. Một ảnh động GIF kết hợp nhiều hình ảnh hoặc khung hình vào một tệp duy nhất và hiển thị chúng theo trình tự để tạo ra một clip hoạt hình hoặc một video ngắn. Giới hạn màu sắc lên tới 256 cho mỗi khung hình và có thể ít phù hợp nhất để tái tạo các hình ảnh và ảnh chụp khác có dải màu.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="GIF" readMoreLink="https://docs.fileformat.com/image/gif/" >}}GIF hoặc Định dạng trao đổi đồ họa là một loại hình ảnh được nén ở mức độ cao. Thuộc sở hữu của Unisys, GIF sử dụng thuật toán nén LZW không làm giảm chất lượng hình ảnh. Đối với mỗi hình ảnh, GIF thường cho phép tối đa 8 bit trên mỗi pixel và cho phép tối đa 256 màu trên hình ảnh. Ngược lại với hình ảnh JPEG, có thể hiển thị tới 16 triệu màu và chạm khá tới giới hạn của mắt người. Quay lại thời điểm Internet xuất hiện, GIF vẫn là lựa chọn tốt nhất vì chúng yêu cầu băng thông thấp và tương thích với đồ họa sử dụng các vùng màu đồng nhất. Một ảnh động GIF kết hợp nhiều hình ảnh hoặc khung hình vào một tệp duy nhất và hiển thị chúng theo trình tự để tạo ra một clip hoạt hình hoặc một video ngắn. Giới hạn màu sắc lên tới 256 cho mỗi khung hình và có thể ít phù hợp nhất để tái tạo các hình ảnh và ảnh chụp khác có dải màu.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
     {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->
 

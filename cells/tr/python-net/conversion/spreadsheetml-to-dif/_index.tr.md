@@ -1,7 +1,7 @@
 ---
 title: Python SPREADSHEETML'den DIF'e - SPREADSHEETML'den DIF'e dönüştürücü
-description: Aspose Excel'de. Python Excel'de. Aspose.Cells ile SPREADSHEETML'i hızlı ve kolay bir şekilde DIF'e dönüştürün. Python SPREADSHEETML'i DIF'e dönüştürün. Python SPREADSHEETML'i DIF'e kaydedin. Python Excel Kütüphanesini kullanarak SPREADSHEETML'i DIF olarak kaydedin.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert SPREADSHEETML to DIF in Python Excel Library., Save SPREADSHEETML to DIF using Python Excel Library., Python SPREADSHEETML to DIF saveformat., SPREADSHEETML to DIF Converter., Python Save SPREADSHEETML as DIF]
+description: Aspose Excel. Bu kapsamlı çözüm, Python geliştiricilere SPREADSHEETML'yi DIF formatına dönüştürmek için tamamen entegre bir yaklaşım sunarak, Aspose.Cells kütüphanesini kullanarak SPREADSHEETML verilerinin DIF formatına sorunsuz bir şekilde kaydedilmesini sağlar; tüm bunlar verimli ve özelleştirilebilir Python kod aracılığıyla gerçekleştirilir.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart SPREADSHEETML files to DIF Converter for Python., Convert SPREADSHEETML to DIF in Python., SPREADSHEETML files to DIF Conversion in Python., Leverage intelligent data processing to automatically parse and save SPREADSHEETML into DIF format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Python Excel Kütüphanesinde SPREADSHEETML\'i DIF\'e dönüştürün" h2="SPREADSHEETML\'i DIF\'e dönüştürmek için yüksek hızlı Python excel kütüphanesi. Python\'de yüksek seviyeli, platformdan bağımsız yazılım geliştirmek için API excel dönüşümümüzü kullanın." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="DIF" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -28,7 +28,7 @@ SPREADSHEETML'i DIF'e dönüştürmek için kolay adımları izleyin. SPREADSHEE
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="SPREADSHEETML\'i Python Excel Kitaplığı aracılığıyla DIF\'e Dönüştürmek için Örnek Kod" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xml" outformat="dif" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="SPREADSHEETML\'i Python Excel Kitaplığı aracılığıyla DIF\'e Dönüştürmek için Örnek Kod" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="xml" outformat="dif" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="SPREADSHEETML\'i DIF\'e Dönüştürme" %}}
 

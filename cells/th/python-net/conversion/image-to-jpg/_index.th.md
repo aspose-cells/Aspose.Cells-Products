@@ -1,7 +1,7 @@
 ---
 title: Python โปรแกรมแปลงรูปภาพเป็น JPG - โปรแกรมแปลงรูปภาพเป็น JPG
-description: Aspose เอ็กเซล. Python เอ็กเซล. แปลง IMAGE เป็น JPG อย่างรวดเร็วและง่ายดายด้วย Aspose.Cells Python IMAGE เป็น JPG Python บันทึกภาพเป็น JPG บันทึกภาพเป็น JPG โดยใช้ Python ไลบรารี Excel
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert IMAGE to JPG in Python Excel Library., Save IMAGE to JPG using Python Excel Library., Python IMAGE to JPG saveformat., IMAGE to JPG Converter., Python Save IMAGE as JPG]
+description: Aspose Excel โซลูชันที่ครอบคลุมนี้ช่วยให้นักพัฒนา Python มีแนวทางแบบบูรณาการอย่างสมบูรณ์ในการแปลง IMAGE เป็นรูปแบบ JPG ทำให้สามารถบันทึกข้อมูล IMAGE ในรูปแบบ JPG ได้อย่างราบรื่นโดยใช้ไลบรารี Aspose.Cells ทั้งหมดนี้ผ่านโค้ด Python ที่มีประสิทธิภาพและปรับแต่งได้
+keywords: [Aspose Excel., Python Aspose.Cells., Smart IMAGE files to JPG Converter for Python., Convert IMAGE to JPG in Python., IMAGE files to JPG Conversion in Python., Leverage intelligent data processing to automatically parse and save IMAGE into JPG format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="แปลง IMAGE เป็น JPG ในไลบรารี Excel Python" h2="ไลบรารี Excel Python ความเร็วสูงสำหรับการแปลง IMAGE เป็น JPG ใช้การแปลง Excel API ของเราเพื่อพัฒนาซอฟต์แวร์อิสระแพลตฟอร์มระดับสูงใน Python" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="JPG" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -28,7 +28,7 @@ keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert I
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="โค้ดตัวอย่างในการแปลง IMAGE เป็น JPG ผ่าน Python Excel Library" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="png" outformat="jpg" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="โค้ดตัวอย่างในการแปลง IMAGE เป็น JPG ผ่าน Python Excel Library" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="png" outformat="jpg" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="วิธีแปลงรูปภาพเป็น JPG" %}}
 

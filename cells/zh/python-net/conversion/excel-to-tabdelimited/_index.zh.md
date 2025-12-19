@@ -1,7 +1,7 @@
 ---
 title: Python EXCEL 到 TABDELIMITED - EXCEL 到 TABDELIMITED 转换器
-description: Aspose Excel。Python Excel。使用 Aspose.Cells 快速轻松地将 EXCEL 转换为 TABDELIMITED。Python 将 EXCEL 转换为 TABDELIMITED。Python 将 EXCEL 保存为 TABDELIMITED。使用 Python Excel 库将 EXCEL 保存为 TABDELIMITED。
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert EXCEL to TABDELIMITED in Python Excel Library., Save EXCEL to TABDELIMITED using Python Excel Library., Python EXCEL to TABDELIMITED saveformat., EXCEL to TABDELIMITED Converter., Python Save EXCEL as TABDELIMITED]
+description: Aspose Excel。此综合解决方案为 Python 开发人员提供了一种完全集成的方法，可将 EXCEL 转换为 TABDELIMITED 格式，从而能够使用 Aspose.Cells 库将 EXCEL 数据无缝保存为 TABDELIMITED 格式，所有这些都通过高效且可定制的 Python 代码实现。
+keywords: [Aspose Excel., Python Aspose.Cells., Smart EXCEL files to TABDELIMITED Converter for Python., Convert EXCEL to TABDELIMITED in Python., EXCEL files to TABDELIMITED Conversion in Python., Leverage intelligent data processing to automatically parse and save EXCEL into TABDELIMITED format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="将 EXCEL 转换为 Python Excel 库中的 TABDELIMITED" h2="高速 Python excel 库用于将 EXCEL 转换为 TABDELIMITED。使用我们的 excel 转换 API 在 Python 中开发高级、独立于平台的软件。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="TABDELIMITED" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -28,7 +28,7 @@ keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert E
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="通过 Python Excel 库将 EXCEL 转换为 TABDELIMITED 的示例代码" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsx" outformat="tsv" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="通过 Python Excel 库将 EXCEL 转换为 TABDELIMITED 的示例代码" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="xlsx" outformat="tsv" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="如何将 EXCEL 转换为 TABDELIMITED" %}}
 

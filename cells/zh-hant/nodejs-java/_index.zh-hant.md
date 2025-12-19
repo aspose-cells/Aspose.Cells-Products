@@ -1,10 +1,10 @@
 ---
-title: 用於 Excel 電子表格的 Node.js API - Aspose
+title:  Node.js via Java Excel電子表格API - Aspose
 weight: 3120
-description: 透過 Node.js 函式庫處理 Excel 檔案格式。在 Windows、macOS 和 Linux 上透過 Node.js 讀寫渲染和轉換 XLS XLSX XLSB XLTX XLTM XLSM333481 XLTM XLSM333481 XLTM XLSM33348163 076153813007 格式以及更多 XML
+description: 使用 Node.js 函式庫 via Java 處理 Excel 檔案格式。讀取、寫入、渲染和轉換 XLS、XLSX、XLSB、XLTX、XLTM、XLSM、XML ODS、CSV 以及更多格式。該程式庫支援 macOS 和 Linux 系統。
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="Node.js Excel 檔案格式 API" h2="使用 Node.js 產生、修改、轉換和渲染 Excel 電子表格，無需 Microsoft Excel。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/headers/aspose_cells-for-nodejs-java.svg" pfName="Aspose.Cells" subTitlepfName="for Node.js via Java" downloadUrl="https://downloads.aspose.com/cells/nodejs" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="Node.js via Java Excel 檔案格式 API" h2="使用 Node.js via Java 產生、修改、轉換和渲染 Excel 電子表格，而無需 Microsoft Excel。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/headers/aspose_cells-for-nodejs-java.svg" pfName="Aspose.Cells" subTitlepfName="for Node.js via Java" downloadUrl="https://downloads.aspose.com/cells/nodejs" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells" subTitlepfName="for Node.js via Java" >}}
 
@@ -12,7 +12,7 @@ description: 透過 Node.js 函式庫處理 Excel 檔案格式。在 Windows、m
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
-Aspose.Cells for Node.js via Java 是一個功能豐富且可擴展的 API，用於使用 Node.js 處理 Excel 電子表格。 API 提供 Excel 檔案格式轉換、最精細的工作表樣式、圖表建立和編輯。渲染、可靠的公式計算引擎等等。
+ Aspose.Cells for Node.js via Java 是一個功能豐富且可擴展的 API，用於使用 Node.js 處理 Excel 電子表格 via Java。API 提供 Excel 文件樣式、細細的工作表43481。API 提供 Excel 文件樣式、細化工作表的工作表、細化和計算程式設計等。
 </p>
 
 <p>
@@ -271,7 +271,7 @@ Node.js via Java
  <div class="row">
   <div class="container">
    <h2 class="pr-ft">
-進階 Node.js Excel 電子表格 API 功能
+進階 Node.js via Java Excel 電子表格 API 功能
    </h2>
    <p>
    </p>
@@ -343,7 +343,7 @@ Node.js via Java
 渲染 Excel 電子表格
     </h2>
     <p>
-Aspose.Cells for Node.js via Java 使用其渲染引擎以最高保真度渲染至 Microsoft Excel。使用 Node.js Excel 處理庫時，可以將整個工作表、單一檔案或圖表轉換為多個影像和固定版面格式。
+Aspose.Cells、for Node.js 和 via Java 使用其渲染引擎以最高保真度渲染至 Microsoft Excel 檔案。使用 Node.js via Java Excel 處理庫時，可以將整個工作表、單一檔案或圖表轉換為多個影像和固定佈局格式。
     </p>
    </div>
    <div class="col-lg-12">
@@ -415,7 +415,7 @@ Aspose.Cells for Node.js via Java 提供對圖表的全面支持。使用API可�
 
 {{< /blocks/products/pf/i18n/support-learning-resources >}}
 
-{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://downloads.aspose.com/cells/nodejs" pricingInformationLink="https://purchase.aspose.com/pricing/cells/nodejs-java" >}}
+{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://releases.aspose.com/cells/nodejs/" pricingInformationLink="https://purchase.aspose.com/pricing/cells/nodejs-java" >}}
 
 {{< blocks/products/pf/offers-section pfName="Aspose.Cells" description="Aspose.Cells 為其他流行的開發環境提供單獨的 Excel API，如下所列：" >}}
 

@@ -1,7 +1,7 @@
 ---
 title: Python JPG sang OTS - Chuyển đổi JPG sang OTS
-description: Aspose Excel. Python Excel. Chuyển đổi JPG sang OTS nhanh chóng và dễ dàng với Aspose.Cells. Python JPG sang OTS. Python Lưu JPG vào OTS. Lưu JPG dưới dạng OTS bằng Thư viện Excel Python.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert JPG to OTS in Python Excel Library., Save JPG to OTS using Python Excel Library., Python JPG to OTS saveformat., JPG to OTS Converter., Python Save JPG as OTS]
+description: Aspose Excel. Giải pháp toàn diện này cung cấp cho các nhà phát triển Python một phương pháp tích hợp đầy đủ để chuyển đổi JPG sang định dạng OTS, cho phép lưu dữ liệu JPG liền mạch vào định dạng OTS bằng thư viện Aspose.Cells, tất cả thông qua mã Python hiệu quả và có thể tùy chỉnh.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart JPG files to OTS Converter for Python., Convert JPG to OTS in Python., JPG files to OTS Conversion in Python., Leverage intelligent data processing to automatically parse and save JPG into OTS format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Chuyển đổi JPG sang OTS trong Thư viện Excel Python" h2="Thư viện excel Python tốc độ cao để chuyển đổi JPG sang OTS. Đây là giải pháp phần mềm chuyên nghiệp để nhập và xuất JPG, OTS và nhiều định dạng khác bằng Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="OTS" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -27,7 +27,7 @@ Thực hiện theo các bước đơn giản để chuyển đổi JPG sang OTS.
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Code mẫu chuyển JPG sang OTS qua Python Thư viện Excel" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="jpg" outformat="ots" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="Code mẫu chuyển JPG sang OTS qua Python Thư viện Excel" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="jpg" outformat="ots" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="Cách chuyển JPG sang OTS qua Python" %}}
 

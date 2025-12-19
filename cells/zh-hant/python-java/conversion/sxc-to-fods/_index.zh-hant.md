@@ -1,7 +1,7 @@
 ---
 title: Python SXC 至 FODS - SXC 至 FODS 轉換器
-description: Aspose Excel。 Python Excel。使用 Aspose.Cells 快速輕鬆地將 SXC 轉換為 FODS。Python SXC 轉換為 FODS。Python 將 076193417619301 將存 076112第3481章 使用Python Excel庫。
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert SXC to FODS in Python Excel Library., Save SXC to FODS using Python Excel Library., Python SXC to FODS saveformat., SXC to FODS Converter., Python Save SXC as FODS]
+description: Aspose Excel。此綜合解決方案為 Python 開發人員提供了一種完全整合的方法，可將 SXC 轉換為 FODS 格式，從而能夠使用 Aspose.Cells 庫將 SXC 數據無縫保存為 0761533681533676136481 資料無縫代碼實現。
+keywords: [Aspose Excel., Python Aspose.Cells., Smart SXC files to FODS Converter for Python., Convert SXC to FODS in Python., SXC files to FODS Conversion in Python., Leverage intelligent data processing to automatically parse and save SXC into FODS format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="將 Python Excel 庫中的 SXC 轉換為 FODS" h2="高速Python excel庫，用於將SXC轉換為FODS。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="FODS" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -27,7 +27,7 @@ keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert S
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="透過 Python Excel 函式庫將 SXC 轉換為 FODS 的範例程式碼" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="sxc" outformat="fods" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="透過 Python Excel 函式庫將 SXC 轉換為 FODS 的範例程式碼" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="sxc" outformat="fods" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="如何透過 Python 將 SXC 轉換為 FODS" %}}
 

@@ -1,8 +1,8 @@
 ---
-title:  Python สเปรดชีต Excel API - Aspose
+title: Python สเปรดชีต Excel API - Aspose.Cells for Python via Java
 weight: 2820
-description: ไลบรารี Python เพื่อสร้าง ซ่อมแซม ผสาน แยกวิเคราะห์ และแปลงไฟล์ Excel แปลง Excel เป็น PDF, JSON, HTML, TXT และรูปแบบยอดนิยมอื่นๆ
-keywords: [Python Aspose.Cells Create parse repair merge convert JSON Excel XML PDF HTML TSV SQL CSV TSV PNG JPEG and more formats]
+description: ไลบรารี Aspose.Cells for Python via Java สำหรับสร้าง ซ่อมแซม ผสาน แยกวิเคราะห์ และแปลงไฟล์ Excel แปลง Excel เป็น PDF, JSON, HTML, TXT และรูปแบบยอดนิยมอื่นๆ โดยใช้ Aspose.Cells for Python via Java API
+keywords: [Aspose.Cells for Python via Java Create parse repair merge convert JSON Excel XML PDF HTML TSV SQL CSV TSV PNG JPEG and more formats]
 ---
 {{< blocks/products/pf/main-wrap-class >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Python API การแยกวิเคราะห์สเปรดชีต Excel" h2="สร้าง อ่าน เขียน หรือจัดการสเปรดชีต รวมถึงส่งออกไฟล์ Excel ไปยังหลายรูปแบบภายในแอปพลิเคชัน Python" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/headers/aspose_cells-for-python-java.svg" pfName="Aspose.Cells" subTitlepfName="for Python via Java" downloadUrl="https://releases.aspose.com/cells/python-java/" >}}

@@ -1,7 +1,7 @@
 ---
 title: Python XLT sang SQL - XLT sang SQL Chuyển đổi
-description: Aspose Excel. Python Excel. Chuyển đổi XLT sang SQL nhanh chóng và dễ dàng với Aspose.Cells. Python XLT sang SQL. Python Lưu XLT vào SQL. Lưu XLT dưới dạng SQL bằng Thư viện Excel Python.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert XLT to SQL in Python Excel Library., Save XLT to SQL using Python Excel Library., Python XLT to SQL saveformat., XLT to SQL Converter., Python Save XLT as SQL]
+description: Aspose Excel. Giải pháp toàn diện này cung cấp cho các nhà phát triển Python một phương pháp tích hợp đầy đủ để chuyển đổi XLT sang định dạng SQL, cho phép lưu dữ liệu XLT vào định dạng SQL một cách liền mạch bằng cách sử dụng thư viện Aspose.Cells, tất cả thông qua mã Python hiệu quả và có thể tùy chỉnh.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart XLT files to SQL Converter for Python., Convert XLT to SQL in Python., XLT files to SQL Conversion in Python., Leverage intelligent data processing to automatically parse and save XLT into SQL format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Chuyển đổi XLT sang SQL trong Thư viện Excel Python" h2="Thư viện excel Python tốc độ cao để chuyển đổi XLT sang SQL. Đây là giải pháp phần mềm chuyên nghiệp để nhập và xuất XLT, SQL và nhiều định dạng khác bằng Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="SQL" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -27,7 +27,7 @@ Hãy làm theo các bước đơn giản để chuyển đổi XLT sang SQL. T�
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Mã mẫu để chuyển đổi XLT sang SQL thông qua Thư viện Excel Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlt" outformat="sql" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="Mã mẫu để chuyển đổi XLT sang SQL thông qua Thư viện Excel Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="xlt" outformat="sql" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="Cách chuyển đổi XLT sang SQL thông qua Python" %}}
 

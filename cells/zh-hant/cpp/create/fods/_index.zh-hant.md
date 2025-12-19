@@ -1,7 +1,7 @@
 ---
 title: 建立FODS - 在C++中建立FODS文件
-description: Aspose Excel。 C++ 使用 Aspose.Cells 快速輕鬆地建立 FODS 檔案。使用 C++ 產生 FODS 檔案。在 C++ 中建立 FODS。在 C++ 中建立 FODS。
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ Create FODS file., Generate FODS file in C++., Create FODS file using C++., Write data to FODS file via C++., Create a FODS file in C++., C++ Generate a FODS file., C++ FODS Creater]
+description: Aspose Excel。使用 Aspose.Cells for C++ 函式庫，輕鬆產生和操作 FODS 檔案。這款強大的 API 庫提供了一種簡化高效的解決方案，可直接在您的 C++ 應用程式中建立、編輯和管理 FODS 文件，從而高精度地滿足開發人員的特定需求。
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ Create FODS file., Generate FODS file in C++., Write data to FODS file via C++., C++ FODS Creater., Aspose.Cells for C++ is a powerful library that enables developers to programmatically create, generate, and manipulate FODS files in C++]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="在C++中建立FODS文件" h2="使用 C++ 函式庫以程式設計方式建立本機高效能 FODS 文件，無需 Microsoft Office。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" sourceAdditionalConversionTag="" additionalConversionTag="FODS" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -39,12 +39,13 @@ PM> Install-Package Aspose.Cells.Cpp
 1. 使用 Worksheet.GetCells() 方法將工作表的儲存格取得到 Cells 物件中。
 1. 使用 Cells.Get() 方法將工作表的所需儲存格存取到 Cell 物件中。
 1. 使用 Cell.PutValue() 方法將值輸入到儲存格中。
-1. 使用 Save() 方法將工作簿儲存為 .fods 檔案。
+1. 使用 Save() 方法將工作簿另存為 .fods 檔案。
 
 {{% blocks/products/pf/agp/code-block title="範例程式碼展示如何在 C++ 中建立 FODS 檔案。" offSpacer="" %}}
 
 ```cs
 Aspose::Cells::Startup();
+//TIFF format is not supported
 
 // Create an object of the Workbook class.
 Workbook wkb;
@@ -110,7 +111,7 @@ Aspose::Cells::Cleanup();
 
 <!-- aboutfile Starts -->
     {{< blocks/products/pf/agp/about-file-section >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="FODS" readMoreLink="https://docs.fileformat.com/spreadsheet/fods/" >}}擴展名為 .fods 的文件是一種 OpenDocument 電子表格文件格式，以行和列儲存資料。此格式被指定為 OASIS 發布和維護的 ODF 1.2 規範的一部分。 FODS 檔案無法使用 Excel（Microsoft 的另一個電子表格軟體應用程式）開啟。FODS 檔案可以使用 LibreOffice 將其另存為 ODS，並且可以轉換為其他格式，例如 XLS 和 07615340761。{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="FODS" readMoreLink="https://docs.fileformat.com/spreadsheet/fods/" >}}擴展名為 .fods 的文件是一種 OpenDocument 電子表格文件格式，以行和列儲存資料。此格式被指定為 OASIS 發布和維護的 ODF 1.2 規範的一部分。 FODS 檔案無法使用 Excel（Microsoft 的另一個電子表格軟體應用程式）開啟。{{< /blocks/products/pf/agp/i18n/about-file-text >}}
     {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->
 

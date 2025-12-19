@@ -1,7 +1,7 @@
 ---
 title: Python SXC - TABDELIMITED - SXC - TABDELIMITED Dönüştürücü
-description: Aspose Excel'de. Python Excel'de. Aspose.Cells ile SXC'i hızlı ve kolay bir şekilde TABDELIMITED'e dönüştürün. Python SXC'i TABDELIMITED'e dönüştürün. Python SXC'i TABDELIMITED'e kaydedin. Python Excel Kütüphanesini kullanarak SXC'i TABDELIMITED olarak kaydedin.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert SXC to TABDELIMITED in Python Excel Library., Save SXC to TABDELIMITED using Python Excel Library., Python SXC to TABDELIMITED saveformat., SXC to TABDELIMITED Converter., Python Save SXC as TABDELIMITED]
+description: Aspose Excel. Bu kapsamlı çözüm, Python geliştiricilerine SXC'i TABDELIMITED formatına dönüştürmek için tamamen entegre bir yaklaşım sunarak, Aspose.Cells kütüphanesini kullanarak SXC verilerinin TABDELIMITED formatına sorunsuz bir şekilde kaydedilmesini sağlar; tüm bunlar verimli ve özelleştirilebilir Python kod aracılığıyla gerçekleştirilir.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart SXC files to TABDELIMITED Converter for Python., Convert SXC to TABDELIMITED in Python., SXC files to TABDELIMITED Conversion in Python., Leverage intelligent data processing to automatically parse and save SXC into TABDELIMITED format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="SXC\'i Python Excel Kütüphanesinde TABDELIMITED\'e dönüştürün" h2="SXC\'i TABDELIMITED\'e dönüştürmek için yüksek hızlı Python excel kitaplığı. Bu, SXC, TABDELIMITED ve diğer birçok formatı Python kullanarak içe ve dışa aktarmak için profesyonel bir yazılım çözümüdür." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="TABDELIMITED" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -27,7 +27,7 @@ SXC'i TABDELIMITED'e dönüştürmek için kolay adımları izleyin. SXC dosyan�
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="SXC\'i Python Excel Kütüphanesi aracılığıyla TABDELIMITED\'e Dönüştürmek için Örnek Kod" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="sxc" outformat="tsv" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="SXC\'i Python Excel Kütüphanesi aracılığıyla TABDELIMITED\'e Dönüştürmek için Örnek Kod" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="sxc" outformat="tsv" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="SXC\'i Python aracılığıyla TABDELIMITED\'e dönüştürme" %}}
 

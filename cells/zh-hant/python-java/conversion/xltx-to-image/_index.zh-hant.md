@@ -1,7 +1,7 @@
 ---
 title: Python XLTX 轉 IMAGE - XLTX 轉 IMAGE 轉換器
-description: Aspose Excel。 Python Excel。使用 Aspose.Cells 快速輕鬆地將 XLTX 轉換為 IMAGE。 Python 將 XLTX 儲存到影像。使用 Python Excel 函式庫將 XLTX 另存為 IMAGE。
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert XLTX to IMAGE in Python Excel Library., Save XLTX to IMAGE using Python Excel Library., Python XLTX to IMAGE saveformat., XLTX to IMAGE Converter., Python Save XLTX as IMAGE]
+description: Aspose Excel。此綜合解決方案為 Python 開發人員提供了一種完全整合的方法，可將 XLTX 轉換為 IMAGE 格式，從而能夠使用 Aspose.Cells 庫將 XLTX 資料無縫保存為 IMAGE 格式，所有這些都透過高效且可自訂的 1533816153381 1533815338 程式碼可實現。
+keywords: [Aspose Excel., Python Aspose.Cells., Smart XLTX files to IMAGE Converter for Python., Convert XLTX to IMAGE in Python., XLTX files to IMAGE Conversion in Python., Leverage intelligent data processing to automatically parse and save XLTX into IMAGE format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="將 XLTX 轉換為 Python Excel 庫中的 IMAGE" h2="用於將 XLTX 轉換為 IMAGE 的高速 Python Excel 函式庫。這是一個專業的軟體解決方案，可以使用Python導入和匯出XLTX、IMAGE和許多其他格式。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="IMAGE" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -27,7 +27,7 @@ keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert X
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="透過 Python Excel 函式庫將 XLTX 轉換為 IMAGE 的範例程式碼" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xltx" outformat="png" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="透過 Python Excel 函式庫將 XLTX 轉換為 IMAGE 的範例程式碼" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="xltx" outformat="png" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="如何透過 Python 將 XLTX 轉換為 IMAGE" %}}
 

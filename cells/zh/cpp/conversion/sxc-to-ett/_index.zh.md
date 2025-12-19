@@ -1,7 +1,7 @@
 ---
-title: C++ SXC 转 ETT - SXC 转 ETT 转换器
-description: Aspose Excel。使用 Aspose.Cells 快速轻松地将 SXC 转换为 ETT。C++ SXC 转换为 ETT。 C++ 将 SXC 保存至 ETT。使用 C++ 将 SXC 保存为 ETT。
-keywords: [Aspose Excel., C++ Aspose.Cells., Convert SXC to ETT in C++., Save SXC to ETT using C++., C++ SXC to ETT saveformat., SXC to ETT Converter., C++ Save SXC as ETT]
+title: C++ SXC 至 ETT - SXC 至 ETT 转换器
+description: Aspose Excel。此综合解决方案为 C++ 开发人员提供了一种完全集成的方法，可将 SXC 转换为 ETT 格式，从而能够使用 Aspose.Cells 库将 SXC 数据无缝保存为 ETT 格式，所有这些都通过高效且可定制的 C++ 代码实现。
+keywords: [Aspose Excel., C++ Aspose.Cells., Smart SXC files to ETT Converter for C++., Convert SXC to ETT in C++., SXC files to ETT Conversion in C++., Leverage intelligent data processing to automatically parse and save SXC into ETT format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="将 SXC 转换为 C++ 中的 ETT" h2="使用 C++ 库进行高性能 SXC 到 ETT 转换，无需安装 Microsoft Excel、OpenOffice 或 Adobe Acrobat。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" sourceAdditionalConversionTag="" additionalConversionTag="ETT" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,7 +12,7 @@ keywords: [Aspose Excel., C++ Aspose.Cells., Convert SXC to ETT in C++., Save SX
 
 {{% blocks/products/pf/agp/content h2="使用 C++ 将 SXC 转换为 ETT" %}}
 
-如何将 SXC 转换为 ETT？借助 Aspose.Cells for C++ 库，您可以通过几行代码以编程方式轻松将 SXC 转换为 ETT。[Aspose.Cells for C++](https://products.aspose.com/cells/cpp)能够构建跨平台应用程序，能够生成、修改、转换、渲染和打印所有 Excel 文件。 C++ Excel API 不仅可以在电子表格格式之间进行转换，还可以将 Excel 文件呈现为图像, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT等等，从而使其成为以行业标准交换文档的完美选择格式。您可以直接下载最新版本，打开即可[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/)包管理器，搜索Aspose.Cells.cpp并安装。您还可以从包管理器控制台使用以下命令。
+如何将 SXC 转换为 ETT？使用 Aspose.Cells for C++ 库，您只需几行代码即可以编程方式轻松将 SXC 转换为 ETT。[Aspose.Cells for C++](https://products.aspose.com/cells/cpp)能够构建跨平台应用程序，能够生成、修改、转换、呈现和打印所有 Excel 文件。C++ Excel API 不仅可以在电子表格格式之间进行转换，还可以将 Excel 文件呈现为图像，PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT 等等，因此它是以行业标准格式交换文档的完美选择。您可以直接下载其最新版本，只需打开[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/)包管理器，搜索 Aspose.Cells.Cpp 并安装。您也可以从包管理器控制台使用以下命令。
 
 {{% blocks/products/pf/agp/code-block title="命令" offSpacer="true" %}}
 
@@ -26,32 +26,32 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="将 SXC 保存到 C++ 中的 ETT" %}}
+{{% blocks/products/pf/agp/content h2="将 SXC 保存到 ETT，即 C++" %}}
 
 以下示例演示如何将 SXC 转换为 C++ 中的 ETT。
 {{% blocks/products/pf/agp/text %}}
 
-按照简单的步骤将 SXC 转换为 ETT。上传您的 SXC 文件，然后将其保存为 ETT 文件。对于 SXC 读取和 ETT 写入，您可以使用完全限定的文件名。输出的 ETT 内容和格式将与原始 SXC 文档相同。
+按照简单的步骤将 SXC 转换为 ETT。上传您的 SXC 文件，然后将其保存为 ETT 文件。对于 SXC 读取和 ETT 写入，您都可以使用完全合格的文件名。输出的 ETT 内容和格式将与原始 SXC 文档相同。
 
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="将 SXC 转换为 ETT 的示例代码" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="sxc" outformat="ett" IsLandingPage="true" language="cpp" %}}
+{{% cells-convert title="将 SXC 转换为 ETT 的示例代码" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="sxc" outformat="ett" IsLandingPage="true" language="cpp" %}}
 
 {{% blocks/products/pf/agp/content h2="如何通过 C++ 将 SXC 转换为 ETT" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
-需要以编程方式将 SXC 文件转换为 ETT？ C++ 开发人员只需几行代码即可轻松将 SXC 转换为 ETT。
+需要通过编程方式将 SXC 文件转换为 ETT 格式吗？C++ 开发人员只需几行代码即可轻松将 SXC 转换为 ETT 格式。
 
 {{% /blocks/products/pf/agp/text %}}
 
 1. 安装“Aspose.Cells for C++”。
-1. 将库引用（导入库）添加到您的 C++ 项目中。
+1. 向您的 C++ 项目添加库引用（导入库）。
 1. 使用工作簿加载 SXC 文件。
-1. 通过调用 Save() 方法将 SXC 转换为 ETT。
-1. 获取SXC到ETT的转换结果。
+1. 调用 Save() 方法将 SXC 转换为 ETT。
+1. 获取SXC至ETT的转换结果。
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -59,13 +59,13 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% blocks/products/pf/agp/text %}}
 
-可以通过三个选项将“Aspose.Cells for C++”安装到您的系统上。请选择符合您需求的一项并按照分步说明进行操作：
+有三种方法可以将“Aspose.Cells for C++”安装到您的系统上。请选择最符合您需求的方法，然后按照分步说明进行操作：
 
 {{% /blocks/products/pf/agp/text %}}
 
-1. 安装一个[NuGet 套餐](https://www.nuget.org/packages/Aspose.Cells.Cpp/)。看[文档](https://docs.aspose.com/cells/cpp/installation/#using-nuget-package-manager)
-1. 使用 Include 和 lib 文件夹安装库。看[文档](https://docs.aspose.com/cells/cpp/installation/#using-include-and-lib-folders)
-1. 在Linux中安装Aspose.Cells for C++。看[文档](https://docs.aspose.com/cells/cpp/installation/#installing-asposecells-for-c-in-linux)
+1. 安装[NuGet 包裹](https://www.nuget.org/packages/Aspose.Cells.Cpp/)。 看[文档](https://docs.aspose.com/cells/cpp/installation/#using-nuget-package-manager)
+1. 使用 Include 和 lib 文件夹安装库。请参阅[文档](https://docs.aspose.com/cells/cpp/installation/#using-include-and-lib-folders)
+1. 在 Linux 中安装 Aspose.Cells for C++。请参阅[文档](https://docs.aspose.com/cells/cpp/installation/#installing-asposecells-for-c-in-linux)
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -73,34 +73,35 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% blocks/products/pf/agp/text %}}
 
-在运行 C++ 转换示例代码之前，请确保您满足以下先决条件。
+在运行 C++ 转换示例代码之前，请确保您具备以下先决条件。
 
 {{% /blocks/products/pf/agp/text %}}
 
-- Microsoft Windows 或具有 C++ 运行时环境的兼容操作系统，适用于 Windows 32 位、Windows 64 位和 Linux 64 位。
-- 在项目中添加对 Aspose.Cells for C++ DLL 的引用。
+- Microsoft Windows 或与 C++ 运行环境兼容的操作系统，适用于 Windows 32 位、Windows 64 位和 Linux 64 位。
+- 在您的项目中添加对 Aspose.Cells for C++ DLL 的引用。
 
 {{% /blocks/products/pf/agp/content %}}
 
 <!-- aboutfile Starts -->
     {{< blocks/products/pf/agp/about-file-section >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="SXC" readMoreLink="https://docs.fileformat.com/spreadsheet/sxc/" >}}文件格式 SXC(Sun XML Calc) 属于名为 OpenOffice.org 的办公套件。这种格式通常可以满足用户的电子表格需求，因为它是基于 XML 的电子表格文件格式。 SXC 格式支持公式、函数、宏和图表以及 DataPilot，这是一个令人难以置信的功能，因为它会自动个性化并提供原始导入数据的摘要。使用该软件创建的文件以扩展名 .sxc 保存。{{< /blocks/products/pf/agp/i18n/about-file-text >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="ETT" readMoreLink="https://fileinfo.com/extension/ett/" >}}ETT 文件是由 Kingsoft Spreadsheets 创建的电子表格模板，Kingsoft Spreadsheets 是 WPS Office 套件中包含的电子表格程序。它存储一个模板，可用作创建新金山电子表格（.ET 文件）的起点。 ETT 文件通常用于创建财务预算和组织数据。{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="SXC" readMoreLink="https://docs.fileformat.com/spreadsheet/sxc/" >}}文件格式 SXC（Sun XML Calc）属于名为 OpenOffice.org 的办公套件。此格式通常处理用户的电子表格需求，因为它是基于 XML 的电子表格文件格式。SXC 格式支持公式、函数、宏和图表以及 DataPilot，这是一个令人难以置信的功能，因为它会自动个性化并提供原始导入数据的摘要。使用此软件创建的文件以扩展名 .sxc 保存。{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="ETT" readMoreLink="https://fileinfo.com/extension/ett/" >}}ETT 文件是 Kingsoft Spreadsheets（WPS Office 套件中包含的电子表格程序）创建的电子表格模板。它存储了一个模板，可用作创建新 Kingsoft 电子表格（.ET 文件）的起点。ETT 文件通常用于创建财务预算和组织数据。{{< /blocks/products/pf/agp/i18n/about-file-text >}}
     {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="其他支持的转换" subTitle="您还可以将 SXC 转换为许多其他文件格式，包括下面列出的几种。" >}}
+{{< blocks/products/pf/agp/other-supported-section title="其他支持的转换" subTitle="您还可以将 SXC 转换为许多其他文件格式，包括下面列出的几种格式。" >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/sxc-to-bmp/" name="SXC 至 BMP" description="位图图像" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/sxc-to-emf/" name="SXC 至 EMF" description="增强的图元文件格式" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/sxc-to-emf/" name="SXC 至 EMF" description="增强型图元文件格式" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/sxc-to-gif/" name="SXC 至 GIF" description="图形交换格式" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/sxc-to-html/" name="SXC 至 HTML" description="超文本标记语言" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/sxc-to-md/" name="SXC 至 MD" description="降价语言" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/sxc-to-md/" name="SXC 致 MD" description="Markdown 语言" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/sxc-to-mhtml/" name="SXC 至 MHTML" description="网页存档格式" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/sxc-to-ods/" name="SXC 至 ODS" description="OpenDocument 电子表格文件" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/sxc-to-pdf/" name="SXC 至 PDF" description="便携式文档格式" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/sxc-to-ods/" name="SXC 至 ODS" description="开放文档电子表格文件" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/sxc-to-pdf/" name="SXC 至 PDF" description="可移植文档格式" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/sxc-to-png/" name="SXC 至 PNG" description="便携式网络图形" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/sxc-to-svg/" name="SXC 至 SVG" description="可缩放矢量图形" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/sxc-to-tiff/" name="SXC 至 TIFF" description="标记图像格式" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/sxc-to-tsv/" name="SXC 至 TSV" description="制表符分隔值" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/sxc-to-txt/" name="SXC 至 TXT" description="文本文档" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/sxc-to-xls/" name="SXC 至 XLS" description="Excel 二进制格式" >}}
@@ -108,9 +109,9 @@ PM> Install-Package Aspose.Cells.Cpp
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/sxc-to-xlsm/" name="SXC 至 XLSM" description="电子表格文件" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/sxc-to-xlsx/" name="SXC 至 XLSX" description="OOXML Excel 文件" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/sxc-to-xlt/" name="SXC 至 XLT" description="Microsoft Excel 模板" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/sxc-to-xltm/" name="SXC 至 XLTM" description="Excel 宏启用模板" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/sxc-to-xltm/" name="SXC 至 XLTM" description="Excel 启用宏的模板" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/sxc-to-xltx/" name="SXC 至 XLTX" description="Office OpenXML Excel 模板" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/sxc-to-xml/" name="SXC 转 XML" description="可扩展标记语言" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/sxc-to-xml/" name="SXC 至 XML" description="可扩展标记语言" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/sxc-to-xps/" name="SXC 至 XPS" description="XML 论文规范" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/sxc-to-json/" name="SXC 至 JSON" description="JavaScript 对象表示法" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/sxc-to-jpeg/" name="SXC 至 JPEG" description="JPEG 图片" >}}

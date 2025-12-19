@@ -1,7 +1,7 @@
 ---
 title: Python XLSX'den SQL'e - XLSX'den SQL'e Dönüştürücü
-description: Aspose Excel'de. Python Excel'de. Aspose.Cells ile XLSX'i hızlı ve kolay bir şekilde SQL'e dönüştürün. Python XLSX'i SQL'e dönüştürün. Python XLSX'i SQL'e kaydedin. Python Excel Kitaplığını kullanarak XLSX'i SQL olarak kaydedin.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert XLSX to SQL in Python Excel Library., Save XLSX to SQL using Python Excel Library., Python XLSX to SQL saveformat., XLSX to SQL Converter., Python Save XLSX as SQL]
+description: Aspose Excel. Bu kapsamlı çözüm, Python geliştiricilere XLSX'i SQL formatına dönüştürmek için tamamen entegre bir yaklaşım sunarak, Aspose.Cells kütüphanesini kullanarak XLSX verilerinin SQL formatına sorunsuz bir şekilde kaydedilmesini sağlar; tüm bunlar verimli ve özelleştirilebilir Python kod aracılığıyla gerçekleştirilir.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart XLSX files to SQL Converter for Python., Convert XLSX to SQL in Python., XLSX files to SQL Conversion in Python., Leverage intelligent data processing to automatically parse and save XLSX into SQL format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="XLSX\'i Python Excel Kitaplığı\'nda SQL\'e dönüştürün" h2="XLSX\'i SQL\'e dönüştürmek için yüksek hızlı Python excel kitaplığı. Bu, XLSX, SQL ve diğer birçok formatı Python kullanarak içe ve dışa aktarmak için profesyonel bir yazılım çözümüdür." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="SQL" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -27,7 +27,7 @@ XLSX'i SQL'e dönüştürmek için kolay adımları izleyin. XLSX dosyanızı y�
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="XLSX\'i Python Excel Kitaplığı aracılığıyla SQL\'e Dönüştürmek için Örnek Kod" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsx" outformat="sql" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="XLSX\'i Python Excel Kitaplığı aracılığıyla SQL\'e Dönüştürmek için Örnek Kod" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="xlsx" outformat="sql" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="XLSX\'i Python aracılığıyla SQL\'e dönüştürme" %}}
 

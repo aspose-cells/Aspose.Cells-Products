@@ -1,7 +1,7 @@
 ---
 title: Python JPG sang ET - Chuyển đổi JPG sang ET
-description: Aspose Excel. Python Excel. Chuyển đổi JPG sang ET nhanh chóng và dễ dàng với Aspose.Cells. Python JPG sang ET. Python Lưu JPG vào ET. Lưu JPG dưới dạng ET bằng Thư viện Excel Python.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert JPG to ET in Python Excel Library., Save JPG to ET using Python Excel Library., Python JPG to ET saveformat., JPG to ET Converter., Python Save JPG as ET]
+description: Aspose Excel. Giải pháp toàn diện này cung cấp cho các nhà phát triển Python một phương pháp tích hợp đầy đủ để chuyển đổi JPG sang định dạng ET, cho phép lưu dữ liệu JPG liền mạch vào định dạng ET bằng thư viện Aspose.Cells, tất cả thông qua mã Python hiệu quả và có thể tùy chỉnh.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart JPG files to ET Converter for Python., Convert JPG to ET in Python., JPG files to ET Conversion in Python., Leverage intelligent data processing to automatically parse and save JPG into ET format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Chuyển đổi JPG sang ET trong Thư viện Excel Python" h2="Thư viện excel Python tốc độ cao để chuyển đổi JPG sang ET. Sử dụng chuyển đổi excel API của chúng tôi để phát triển phần mềm độc lập nền tảng, cấp cao trong Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="ET" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -28,7 +28,7 @@ Thực hiện theo các bước đơn giản để chuyển đổi JPG sang ET. 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Mã mẫu chuyển đổi JPG sang ET qua Thư viện Excel Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="jpg" outformat="et" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Mã mẫu chuyển đổi JPG sang ET qua Thư viện Excel Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="jpg" outformat="et" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="Cách chuyển đổi JPG sang ET" %}}
 

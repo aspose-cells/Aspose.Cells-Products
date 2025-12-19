@@ -1,7 +1,7 @@
 ---
 title: Python PRN'den XLSB'e - PRN'den XLSB'e dönüştürücü
-description: Aspose Excel'de. Python Excel'de. Aspose.Cells ile hızlı ve kolay bir şekilde PRN'yi XLSB'e dönüştürün. Python PRN'yi XLSB'e dönüştürün. Python PRN'yi XLSB'e kaydedin. Python Excel Kütüphanesini kullanarak PRN'yi XLSB olarak kaydedin.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert PRN to XLSB in Python Excel Library., Save PRN to XLSB using Python Excel Library., Python PRN to XLSB saveformat., PRN to XLSB Converter., Python Save PRN as XLSB]
+description: Aspose Excel. Bu kapsamlı çözüm, Python geliştiricilere PRN'yi XLSB formatına dönüştürmek için tamamen entegre bir yaklaşım sunarak, Aspose.Cells kütüphanesini kullanarak PRN verilerinin XLSB formatına sorunsuz bir şekilde kaydedilmesini sağlar; tüm bunlar verimli ve özelleştirilebilir Python kod aracılığıyla gerçekleştirilir.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart PRN files to XLSB Converter for Python., Convert PRN to XLSB in Python., PRN files to XLSB Conversion in Python., Leverage intelligent data processing to automatically parse and save PRN into XLSB format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="PRN\'yi Python Excel Kitaplığı\'nda XLSB\'e dönüştürün" h2="PRN\'yi XLSB\'e dönüştürmek için yüksek hızlı Python excel kütüphanesi. Python\'de yüksek seviyeli, platformdan bağımsız yazılım geliştirmek için API excel dönüşümümüzü kullanın." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSB" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -28,7 +28,7 @@ PRN'yi XLSB'e dönüştürmek için kolay adımları izleyin. PRN dosyanızı y�
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="PRN\'yi Python Excel Kitaplığı aracılığıyla XLSB\'e Dönüştürmek için Örnek Kod" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="prn" outformat="xlsb" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="PRN\'yi Python Excel Kitaplığı aracılığıyla XLSB\'e Dönüştürmek için Örnek Kod" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="prn" outformat="xlsb" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="PRN\'yi XLSB\'e Dönüştürme" %}}
 

@@ -1,10 +1,10 @@
 ---
-title:  Excel Elektronik Tabloları için Node.js API'leri - Aspose
+title:  Node.js via Java Excel Elektronik Tabloları için API'ler - Aspose
 weight: 3120
-description: Node.js kitaplığı aracılığıyla Excel dosya formatlarını işleyin. Okuma yazma oluşturma ve dönüştürme XLS XLSX XLSB XLTX XLTM XLSM XML ODS CSV ve Windows, macOS ve Linux'ta Node.js aracılığıyla daha fazla format
+description: Node.js via Java kütüphanesini kullanarak Excel dosya formatlarını işleyin. XLS XLSX XLSB XLTX XLTM XLSM XML ODS CSV ve daha birçok formatı Node.js via Java kullanarak macOS ve Linux'ta okuyun, yazın, işleyin ve dönüştürün.
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="Node.js Excel Dosya Biçimi API\'leri" h2="Microsoft Excel\'e ihtiyaç duymadan Node.js\'yi kullanarak Excel elektronik tabloları oluşturun, değiştirin, dönüştürün ve işleyin." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/headers/aspose_cells-for-nodejs-java.svg" pfName="Aspose.Cells" subTitlepfName="for Node.js via Java" downloadUrl="https://downloads.aspose.com/cells/nodejs" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="Node.js via Java Excel Dosya Biçimi API\'leri" h2="Node.js kullanarak Excel elektronik tabloları oluşturun, değiştirin, dönüştürün ve işleyin (via Java), bunun için Excel\'e (Microsoft) ihtiyaç duymayın." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/headers/aspose_cells-for-nodejs-java.svg" pfName="Aspose.Cells" subTitlepfName="for Node.js via Java" downloadUrl="https://downloads.aspose.com/cells/nodejs" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells" subTitlepfName="for Node.js via Java" >}}
 
@@ -12,7 +12,7 @@ description: Node.js kitaplığı aracılığıyla Excel dosya formatlarını i�
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
-Aspose.Cells for Node.js via Java, Node.js kullanarak Excel elektronik tablolarını işlemek için zengin özelliklere sahip ve ölçeklenebilir bir API'dir. API, Excel dosya formatı dönüştürme, en ayrıntılı düzeyde çalışma sayfası stili oluşturma, grafik oluşturma ve uygulama olanağı sunar. oluşturma, güvenilir formül hesaplama motoru ve çok daha fazlası.
+ Aspose.Cells for Node.js via Java, Node.js kullanarak Excel elektronik tablolarını işlemek için zengin özelliklere sahip ve ölçeklenebilir bir API'dir. via Java, Excel dosya formatı dönüştürme, en ince ayrıntısına kadar çalışma sayfası biçimlendirme, grafik oluşturma ve işleme, güvenilir formül hesaplama motoru ve daha fazlasını sunar.
 </p>
 
 <p>
@@ -271,7 +271,7 @@ Yalnızca Çıkış
  <div class="row">
   <div class="container">
    <h2 class="pr-ft">
- Gelişmiş Node.js Excel Elektronik Tablosu API Özellikleri
+ Gelişmiş Node.js via Java Excel Elektronik Tablosu API Özellikleri
    </h2>
    <p>
    </p>
@@ -343,7 +343,7 @@ Yalnızca Çıkış
  Excel Elektronik Tablolarını Oluşturma
     </h2>
     <p>
-Aspose.Cells for Node.js via Java, Microsoft Excel'e en yüksek doğrulukla işlemek için işleme motorunu kullanır. Node.js Excel İşleme kitaplığını kullanırken, tüm sayfaları, tek tek dosyaları veya grafikleri birden çok görüntüye ve sabit düzen formatına dönüştürebilirsiniz.
+ Aspose.Cells for Node.js via Java, en yüksek doğrulukla Microsoft Excel'e işleme yapmak için kendi işleme motorunu kullanır. Node.js via Java Excel İşleme kütüphanesini kullanırken, tüm sayfaları, tek tek dosyaları veya grafikleri birden fazla görüntüye ve sabit düzen formatına dönüştürebilirsiniz.
     </p>
    </div>
    <div class="col-lg-12">
@@ -415,7 +415,7 @@ Aspose.Cells for Node.js via Java grafik konusunda tam destek sağlar. API'i kul
 
 {{< /blocks/products/pf/i18n/support-learning-resources >}}
 
-{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://downloads.aspose.com/cells/nodejs" pricingInformationLink="https://purchase.aspose.com/pricing/cells/nodejs-java" >}}
+{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://releases.aspose.com/cells/nodejs/" pricingInformationLink="https://purchase.aspose.com/pricing/cells/nodejs-java" >}}
 
 {{< blocks/products/pf/offers-section pfName="Aspose.Cells" description="Aspose.Cells, aşağıda listelenen diğer popüler geliştirme ortamları için ayrı Excel API\'leri sunar:" >}}
 

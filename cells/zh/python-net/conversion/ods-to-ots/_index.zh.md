@@ -1,7 +1,7 @@
 ---
 title: Python ODS 至 OTS - ODS 至 OTS 转换器
-description: Aspose Excel。Python Excel。使用 Aspose.Cells 快速轻松地将 ODS 转换为 OTS。Python ODS 转换为 OTS。Python 将 ODS 保存到 OTS。使用 Python Excel 库将 ODS 保存为 OTS。
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert ODS to OTS in Python Excel Library., Save ODS to OTS using Python Excel Library., Python ODS to OTS saveformat., ODS to OTS Converter., Python Save ODS as OTS]
+description: Aspose Excel。此综合解决方案为 Python 开发人员提供了一种完全集成的方法，可将 ODS 转换为 OTS 格式，从而能够使用 Aspose.Cells 库将 ODS 数据无缝保存为 OTS 格式，所有这些都通过高效且可定制的 Python 代码实现。
+keywords: [Aspose Excel., Python Aspose.Cells., Smart ODS files to OTS Converter for Python., Convert ODS to OTS in Python., ODS files to OTS Conversion in Python., Leverage intelligent data processing to automatically parse and save ODS into OTS format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="在 Python Excel 库中将 ODS 转换为 OTS" h2="高速 Python excel 库用于将 ODS 转换为 OTS。使用我们的 excel 转换 API 在 Python 中开发高级、独立于平台的软件。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="OTS" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -28,7 +28,7 @@ keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert O
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="通过 Python Excel 库将 ODS 转换为 OTS 的示例代码" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="ods" outformat="ots" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="通过 Python Excel 库将 ODS 转换为 OTS 的示例代码" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="ods" outformat="ots" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="如何将 ODS 转换为 OTS" %}}
 

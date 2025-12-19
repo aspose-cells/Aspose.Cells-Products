@@ -1,7 +1,7 @@
 ---
 title: Python PRN'den DIF'e - PRN'den DIF'e dönüştürücü
-description: Aspose Excel'de. Python Excel'de. Aspose.Cells ile hızlı ve kolay bir şekilde PRN'yi DIF'e dönüştürün. Python PRN'yi DIF'e dönüştürün. Python PRN'yi DIF'e kaydedin. Python Excel Kütüphanesini kullanarak PRN'yi DIF olarak kaydedin.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert PRN to DIF in Python Excel Library., Save PRN to DIF using Python Excel Library., Python PRN to DIF saveformat., PRN to DIF Converter., Python Save PRN as DIF]
+description: Aspose Excel. Bu kapsamlı çözüm, Python geliştiricilere PRN'yi DIF formatına dönüştürmek için tamamen entegre bir yaklaşım sunarak, Aspose.Cells kütüphanesini kullanarak PRN verilerinin DIF formatına sorunsuz bir şekilde kaydedilmesini sağlar; tüm bunlar verimli ve özelleştirilebilir Python kod aracılığıyla gerçekleştirilir.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart PRN files to DIF Converter for Python., Convert PRN to DIF in Python., PRN files to DIF Conversion in Python., Leverage intelligent data processing to automatically parse and save PRN into DIF format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="PRN\'yi Python Excel Kitaplığı\'nda DIF\'e dönüştürün" h2="PRN\'yi DIF\'e dönüştürmek için yüksek hızlı Python excel kütüphanesi. Bu, Python\'i kullanarak PRN, DIF ve diğer birçok formatı içe ve dışa aktarmak için profesyonel bir yazılım çözümüdür." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="DIF" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -27,7 +27,7 @@ PRN'yi DIF'e dönüştürmek için kolay adımları izleyin. PRN dosyanızı yü
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="PRN\'yi Python Excel Kitaplığı aracılığıyla DIF\'e Dönüştürmek için Örnek Kod" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="prn" outformat="dif" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="PRN\'yi Python Excel Kitaplığı aracılığıyla DIF\'e Dönüştürmek için Örnek Kod" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="prn" outformat="dif" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="PRN\'yi Python aracılığıyla DIF\'e dönüştürme" %}}
 

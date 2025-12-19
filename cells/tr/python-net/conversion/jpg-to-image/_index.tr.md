@@ -1,7 +1,7 @@
 ---
 title: Python JPG'den IMAGE'ye - JPG'den IMAGE'ye Dönüştürücü
-description: Aspose Excel'de. Python Excel'de. Aspose.Cells ile JPG'yi hızlı ve kolay bir şekilde IMAGE'a dönüştürün. Python JPG'yi IMAGE'e dönüştürün. Python JPG'yi IMAGE'a kaydedin. Python Excel Kütüphanesini kullanarak JPG'yi GÖRÜNTÜ olarak kaydedin.
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert JPG to IMAGE in Python Excel Library., Save JPG to IMAGE using Python Excel Library., Python JPG to IMAGE saveformat., JPG to IMAGE Converter., Python Save JPG as IMAGE]
+description: Aspose Excel. Bu kapsamlı çözüm, Python geliştiricilere JPG'yi IMAGE formatına dönüştürmek için tamamen entegre bir yaklaşım sunarak, Aspose.Cells kütüphanesini kullanarak JPG verilerinin IMAGE formatına sorunsuz bir şekilde kaydedilmesini sağlar; tüm bunlar verimli ve özelleştirilebilir Python kod aracılığıyla gerçekleşir.
+keywords: [Aspose Excel., Python Aspose.Cells., Smart JPG files to IMAGE Converter for Python., Convert JPG to IMAGE in Python., JPG files to IMAGE Conversion in Python., Leverage intelligent data processing to automatically parse and save JPG into IMAGE format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Python Excel Kitaplığı\'nda JPG\'yi IMAGE\'a dönüştürün" h2="JPG\'yi IMAGE\'a dönüştürmek için yüksek hızlı Python excel kitaplığı. Python\'de üst düzey, platformdan bağımsız yazılım geliştirmek için API excel dönüşümümüzü kullanın." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="IMAGE" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -28,7 +28,7 @@ JPG'yi IMAGE'a dönüştürmek için kolay adımları izleyin. JPG dosyanızı y
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Python Excel Kitaplığı aracılığıyla JPG\'yi IMAGE\'a Dönüştürmek için Örnek Kod" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="jpg" outformat="png" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Python Excel Kitaplığı aracılığıyla JPG\'yi IMAGE\'a Dönüştürmek için Örnek Kod" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="jpg" outformat="png" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="JPG\'yi IMAGE\'ye Dönüştürme" %}}
 

@@ -1,7 +1,7 @@
 ---
 title: C++ XLSB 轉 PRN - XLSB 轉 PRN 轉換器
-description: Aspose Excel。使用 Aspose.Cells 快速輕鬆地將 XLSB 轉換為 PRN。C++ XLSB 轉換為 PRN。 C++ 將 XLSB 儲存到 PRN。使用 C++ 將 XLSB 儲存為 PRN。
-keywords: [Aspose Excel., C++ Aspose.Cells., Convert XLSB to PRN in C++., Save XLSB to PRN using C++., C++ XLSB to PRN saveformat., XLSB to PRN Converter., C++ Save XLSB as PRN]
+description: Aspose Excel。此綜合解決方案為 C++ 開發人員提供了一種完全整合的方法，可將 XLSB 轉換為 PRN 格式，從而能夠使用 Aspose.Cells 庫將 XLSB 資料無縫保存為 PRN 格式，所有這些都透過高效能客製化的 081533481 1081481 0813481。
+keywords: [Aspose Excel., C++ Aspose.Cells., Smart XLSB files to PRN Converter for C++., Convert XLSB to PRN in C++., XLSB files to PRN Conversion in C++., Leverage intelligent data processing to automatically parse and save XLSB into PRN format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="將 XLSB 轉換為 C++ 中的 PRN" h2="使用 C++ 函式庫進行高效能 XLSB 到 PRN 轉換，無需安裝 Microsoft Excel、OpenOffice 或 Adobe Acrobat。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" sourceAdditionalConversionTag="" additionalConversionTag="PRN" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="DOCX" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -26,7 +26,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="將 XLSB 儲存到 C++ 中的 PRN" %}}
+{{% blocks/products/pf/agp/content h2="將 XLSB 儲存到 PRN C++" %}}
 
 以下範例示範如何將 XLSB 轉換為 C++ 中的 PRN。
 {{% blocks/products/pf/agp/text %}}
@@ -37,25 +37,25 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="將 XLSB 轉換為 PRN 的範例程式碼" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsb" outformat="prn" IsLandingPage="true" language="cpp" %}}
+{{% cells-convert title="將 XLSB 轉換為 PRN 的範例程式碼" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="xlsb" outformat="prn" IsLandingPage="true" language="cpp" %}}
 
 {{% blocks/products/pf/agp/content h2="如何透過 C++ 將 XLSB 轉換為 PRN" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
-需要以程式方式將 XLSB 檔案轉換為 PRN？ C++ 開發人員只需幾行程式碼即可輕鬆將 XLSB 轉換為 PRN。
+需要以程式方式將 XLSB 檔案轉換為 PRN 檔案嗎？ C++ 開發人員只需幾行程式碼即可輕鬆將 XLSB 檔案轉換為 PRN 檔案。
 
 {{% /blocks/products/pf/agp/text %}}
 
 1. 安裝“Aspose.Cells for C++”。
 1. 將庫引用（導入庫）新增至您的 C++ 專案中。
 1. 使用工作簿載入 XLSB 檔案。
-1. 透過呼叫 Save() 方法將 XLSB 轉換為 PRN。
+1. 呼叫 Save() 方法將 XLSB 轉換為 PRN。
 1. 取得XLSB到PRN的轉換結果。
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="C++庫將XLSB轉換為PRN" %}}
+{{% blocks/products/pf/agp/content h2="使用 C++ 庫將 XLSB 轉換為 PRN" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
@@ -73,7 +73,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% blocks/products/pf/agp/text %}}
 
-在執行 C++ 轉換範例程式碼之前，請確保您符合以下先決條件。
+在執行 C++ 轉換範例程式碼之前，請確保您具備以下先決條件。
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -85,7 +85,7 @@ PM> Install-Package Aspose.Cells.Cpp
 <!-- aboutfile Starts -->
     {{< blocks/products/pf/agp/about-file-section >}}
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLSB" readMoreLink="https://docs.fileformat.com/spreadsheet/xlsb/" >}}XLSB 檔案格式指定 Excel 二進位檔案格式，它是指定 Excel 工作簿內容的記錄和結構的集合。內容可以包括非結構化或半結構化的數字表、文字表、或數字和文字表、公式、外部資料連接、圖表和圖像。與 XLSX（基於 Open XML 檔案格式）不同，XLSB 表示二進位 Excel 工作簿檔案。 XLSB 檔案的讀取和寫入速度更快，這使得它們對於處理大檔案非常有用。 XLSB 很少用於儲存工作簿，因為 XLSX（以及之前的 XLS）是使用者選擇的最常見的用於保存工作簿的檔案格式。可用Microsoft Office 2007以上版本開啟。{{< /blocks/products/pf/agp/i18n/about-file-text >}}
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="PRN" readMoreLink="https://fileinfo.com/extension/prn/" >}}PRN 文件是使用「列印到文件」複選框建立的文件，該複選框出現在Windows 上的某些「列印」對話方塊中。它包含印表機、傳真機或其他裝置用於列印文件的一組特定於設備的指令。 PRN 檔案可能包含文字或二進位內容，具體取決於建立檔案的裝置。{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="PRN" readMoreLink="https://fileinfo.com/extension/prn/" >}}PRN 文件是使用「列印到文件」複選框建立的文件，該複選框出現在Windows 上的某些「列印」對話方塊中。特定於設備的指令。 PRN 檔案可能包含文字或二進位內容，具體取決於建立檔案的裝置。{{< /blocks/products/pf/agp/i18n/about-file-text >}}
     {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->
 
@@ -101,6 +101,7 @@ PM> Install-Package Aspose.Cells.Cpp
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xlsb-to-pdf/" name="XLSB 至 PDF" description="便攜式文件格式" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xlsb-to-png/" name="XLSB 至 PNG" description="手提網路圖形" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xlsb-to-svg/" name="XLSB 至 SVG" description="可縮放向量圖形" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xlsb-to-tiff/" name="XLSB 至 TIFF" description="標記影像格式" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xlsb-to-tsv/" name="XLSB 至 TSV" description="製表符分隔值" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xlsb-to-txt/" name="XLSB 至 TXT" description="文字文檔" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/conversion/xlsb-to-xls/" name="XLSB 至 XLS" description="Excel 二進位格式" >}}

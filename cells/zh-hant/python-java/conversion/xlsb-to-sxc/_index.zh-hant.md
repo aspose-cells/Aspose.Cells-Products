@@ -1,7 +1,7 @@
 ---
 title: Python XLSB 至 SXC - XLSB 至 SXC 轉換器
-description: Aspose Excel。 Python Excel。使用 Aspose.Cells 快速輕鬆地將 XLSB 轉換為 SXC。Python XLSB 轉換為 SXC。Python 將 076193417619301 將存 076112第3481章 使用Python Excel庫。
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert XLSB to SXC in Python Excel Library., Save XLSB to SXC using Python Excel Library., Python XLSB to SXC saveformat., XLSB to SXC Converter., Python Save XLSB as SXC]
+description: Aspose Excel。此綜合解決方案為 Python 開發人員提供了一種完全整合的方法，可將 XLSB 轉換為 SXC 格式，從而能夠使用 Aspose.Cells 庫將 XLSB 數據無縫保存為 0761533681533676136481 資料無縫代碼實現。
+keywords: [Aspose Excel., Python Aspose.Cells., Smart XLSB files to SXC Converter for Python., Convert XLSB to SXC in Python., XLSB files to SXC Conversion in Python., Leverage intelligent data processing to automatically parse and save XLSB into SXC format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="將 Python Excel 庫中的 XLSB 轉換為 SXC" h2="高速Python excel庫，用於將XLSB轉換為SXC。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="SXC" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -27,7 +27,7 @@ keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert X
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="透過 Python Excel 函式庫將 XLSB 轉換為 SXC 的範例程式碼" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsb" outformat="sxc" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="透過 Python Excel 函式庫將 XLSB 轉換為 SXC 的範例程式碼" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="xlsb" outformat="sxc" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="如何透過 Python 將 XLSB 轉換為 SXC" %}}
 

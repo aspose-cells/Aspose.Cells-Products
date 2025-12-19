@@ -1,8 +1,8 @@
 ---
-title:  Python Bảng tính Excel API - Aspose
+title: Python Bảng tính Excel API - Aspose.Cells for Python via Java
 weight: 2820
-description: Thư viện Python để tạo, sửa chữa, hợp nhất, phân tích và chuyển đổi các tệp excel. Chuyển đổi excel sang PDF, JSON, HTML, TXT và các định dạng phổ biến khác.
-keywords: [Python Aspose.Cells Create parse repair merge convert JSON Excel XML PDF HTML TSV SQL CSV TSV PNG JPEG and more formats]
+description: Thư viện Aspose.Cells for Python via Java dùng để tạo, sửa chữa, hợp nhất, phân tích cú pháp và chuyển đổi các tệp Excel. Chuyển đổi Excel sang các định dạng phổ biến như PDF, JSON, HTML, TXT và các định dạng khác bằng cách sử dụng Aspose.Cells for Python via Java API.
+keywords: [Aspose.Cells for Python via Java Create parse repair merge convert JSON Excel XML PDF HTML TSV SQL CSV TSV PNG JPEG and more formats]
 ---
 {{< blocks/products/pf/main-wrap-class >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Python API phân tích bảng tính Excel" h2="Tạo, đọc, viết hoặc thao tác trên bảng tính cũng như xuất tệp Excel sang nhiều định dạng trong ứng dụng Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/headers/aspose_cells-for-python-java.svg" pfName="Aspose.Cells" subTitlepfName="for Python via Java" downloadUrl="https://releases.aspose.com/cells/python-java/" >}}

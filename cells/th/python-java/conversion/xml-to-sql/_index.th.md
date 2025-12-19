@@ -1,7 +1,7 @@
 ---
 title: Python XML เป็น SQL - ตัวแปลง XML เป็น SQL
-description: Aspose เอ็กเซล. Python เอ็กเซล. แปลง XML เป็น SQL อย่างรวดเร็วและง่ายดายด้วย Aspose.Cells Python XML เป็น SQL Python บันทึก XML ลงใน SQL บันทึก XML เป็น SQL โดยใช้ไลบรารี Excel Python
-keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert XML to SQL in Python Excel Library., Save XML to SQL using Python Excel Library., Python XML to SQL saveformat., XML to SQL Converter., Python Save XML as SQL]
+description: Aspose Excel โซลูชันที่ครอบคลุมนี้มอบวิธีการแบบบูรณาการอย่างเต็มรูปแบบให้กับนักพัฒนา Python ในการแปลง XML เป็นรูปแบบ SQL ทำให้สามารถบันทึกข้อมูล XML ลงในรูปแบบ SQL ได้อย่างราบรื่นโดยใช้ไลบรารี Aspose.Cells ทั้งหมดนี้ผ่านโค้ด Python ที่มีประสิทธิภาพและปรับแต่งได้
+keywords: [Aspose Excel., Python Aspose.Cells., Smart XML files to SQL Converter for Python., Convert XML to SQL in Python., XML files to SQL Conversion in Python., Leverage intelligent data processing to automatically parse and save XML into SQL format with high fidelity and code efficiency]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="แปลง XML เป็น SQL ในไลบรารี Excel Python" h2="ไลบรารี Excel Python ความเร็วสูงสำหรับการแปลง XML เป็น SQL นี่คือโซลูชันซอฟต์แวร์ระดับมืออาชีพสำหรับการนำเข้าและส่งออก XML, SQL และรูปแบบอื่นๆ อีกมากมายโดยใช้ Python" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="SQL" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -27,7 +27,7 @@ keywords: [Aspose Excel., Python Excel Library., Python Aspose.Cells., Convert X
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="โค้ดตัวอย่างในการแปลง XML เป็น SQL ผ่านทางไลบรารี Excel Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xml" outformat="sql" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="โค้ดตัวอย่างในการแปลง XML เป็น SQL ผ่านทางไลบรารี Excel Python" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx;numbers;azw3" InputFormat="xml" outformat="sql" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="วิธีแปลง XML เป็น SQL ผ่าน Python" %}}
 
